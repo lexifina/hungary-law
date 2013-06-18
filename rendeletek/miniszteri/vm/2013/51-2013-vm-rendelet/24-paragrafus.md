@@ -1,5 +1,3 @@
-## 23. § Az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások 2013. évi igénybevételével kapcsolatos egységes eljárási szabályokról szóló 22/2013. (IV. 8.) VM rendelet a következő 12/A. §-sal egészül ki:
+24. §[^24]
 
-## „12/A. § (1) Ha az egységes kérelmet benyújtó ügyfél olyan köznevelési intézmény, amely jogutód nélkül megszűnt, és az új hasznosító köznevelési intézmény, akkor az egységes kérelemben igényelt, az egységes kérelemben megjelölt, és az új hasznosító által hasznosított területek alapján megállapítható támogatás az új hasznosítónak kerül kifizetésre, amennyiben az új hasznosító megfelel az egységes kérelemben igényelt valamennyi támogatási feltételnek.
-
-## (2) Az (1) bekezdés szerinti kifizetés feltétele, hogy az új hasznosító az MVH részére legkésőbb a tárgyévet követő év június 20-ig hitelt érdemlő módon igazolja, hogy az egységes kérelmet benyújtó köznevelési intézmény által az egységes kérelemben megjelölt területek a használatába kerültek.”
+[^24]: A 23–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

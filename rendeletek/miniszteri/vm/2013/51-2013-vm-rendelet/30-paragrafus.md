@@ -1,7 +1,3 @@
-## 29. § Az R. a következő 9/A. §-sal egészül ki:
-
-## „9/A. E rendeletnek az egyes élelmiszerlánc-felügyeleti tárgyú miniszteri rendeletek módosításáról szóló 51/2013. (VI. 17.) VM rendelettel [a továbbiakban: 51/2013. (VI. 17.) VM rendelet] módosított 1. § i) pontját, 2. § (1)–(2) bekezdését és a 6. § (3) bekezdésének c)–e) pontjait, valamint az 51/2013. (VI. 17.) VM rendelet] megállapított 1. § j) és k) pontjait az 51/2013. (VI. 17.) VM rendelet] hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
-
 ## 17. Záró rendelkezések
 
 30. § (1) E rendelet – a (2) bekezdésben foglalt kivétellel – 2013. június 17-én 18.00 órakor lép hatályba.

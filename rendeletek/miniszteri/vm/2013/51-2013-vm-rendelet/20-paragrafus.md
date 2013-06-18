@@ -1,1 +1,3 @@
-## „(8) A mezőgazdasági árvízkár vonatkozásában védműnek minősül a belföldi jogsegély keretében a 4. § (5) bekezdés szerinti OVF által kiadott igazolás alapján az árvizek kártételei elleni védekezéshez szükséges vízilétesítmény.”
+20. §[^20]
+
+[^20]: A 19–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

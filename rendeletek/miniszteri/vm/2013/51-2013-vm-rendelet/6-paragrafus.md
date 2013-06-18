@@ -1,1 +1,3 @@
-## „33. a Bizottság 68/2013/EU rendelete (2013. január 16.) a takarmány-alapanyagok jegyzékéről.”
+6. §[^6]
+
+[^6]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

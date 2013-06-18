@@ -1,3 +1,3 @@
-## 11. § A 113/2008. (VIII. 30.) FVM rendelet a következő 6/A. §-sal egészül ki:
+12. §[^12]
 
-## „6/A. § Amennyiben az ország vagy valamely megyéje hivatalosan mentes a 2. számú melléklet A.2. jegyzékében szereplő betegségektől, akkor e betegségek valamely mentes megyében történt elsődleges kitöréséről, illetve bármely, mentes megyében elhelyezkedő állattartó telep hivatalosan betegségmentes státuszának visszavonásáról az országos főállatorvos egy héten belül értesíti a Bizottságot és a tagállamokat. Az említett betegségek hivatalosan mentes megyében történt bármely más megerősítését, vagy további állattartó telepek hivatalosan betegségmentes státuszának visszavonását az országos főállatorvos másodlagos kitörésként jelenti és ezekről havonta értesíti a Bizottságot és a tagállamokat. A szarvasmarha-gümőkór, szarvasmarha-brucellózis, valamint a kecske- és juhbrucellózis esetében a bejelentésnek a kórokozó fajok nevét is tartalmaznia kell, amennyiben azok ismertek.”
+[^12]: A 10–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

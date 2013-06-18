@@ -1,3 +1,3 @@
-## 26. § Az R. 2. § (1) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
+27. §[^27]
 
-## „(1) E rendelet alapján vissza nem térítendő mezőgazdasági csekély összegű (de minimis) támogatást vehetnek igénybe a mezőgazdasági termelők és a mezőgazdasági termelői tevékenységet végző termelői csoportok”
+[^27]: A 25–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
