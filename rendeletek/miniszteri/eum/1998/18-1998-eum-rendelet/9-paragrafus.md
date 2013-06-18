@@ -1,8 +1,8 @@
-## 8/A. §[^33] A donor testét a kegyeleti szempontok figyelembevételével úgy kell helyreállítani, hogy az a lehető legnagyobb mértékben hasonlítson az eredeti megjelenésére.
+## 8/A. §[^13] A donor testét a kegyeleti szempontok figyelembevételével úgy kell helyreállítani, hogy az a lehető legnagyobb mértékben hasonlítson az eredeti megjelenésére.
 
 ## Tiltakozó nyilatkozat megtétele
 
-9. §[^34] (1) Ha a tiltakozó nyilatkozat megtétele az Eütv. 211. §-a (1) bekezdésében meghatározott közokiratban vagy teljes bizonyító erejű magánokiratban történik, azt a beteg
+9. §[^14] (1) Ha a tiltakozó nyilatkozat megtétele az Eütv. 211. §-a (1) bekezdésében meghatározott közokiratban vagy teljes bizonyító erejű magánokiratban történik, azt a beteg
 
 a) személyesen,
 
@@ -30,5 +30,5 @@ b) háziorvosánál
 
 (7) Az (5) bekezdés b) pontja szerinti esetben a beteg háziorvosa tölti ki a 4. számú melléklet b) pontja szerinti nyomtatványt, amelyet 3 munkanapon belül ajánlott postai küldeményként továbbít az OTNY részére. Erről a beteg egészségügyi dokumentációjában feljegyzést készít.
 
-[^33]: A 8/A. §-t a 20/2007. (IV. 19.) EüM rendelet 2. §-a iktatta be.
-[^34]: A 9. § a 38/1999. (VIII. 26.) EüM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 8/A. §-t a 20/2007. (IV. 19.) EüM rendelet 2. §-a iktatta be.
+[^14]: A 9. § a 38/1999. (VIII. 26.) EüM rendelet 2. §-ával megállapított szöveg.

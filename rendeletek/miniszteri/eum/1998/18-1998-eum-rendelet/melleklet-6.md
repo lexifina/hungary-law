@@ -10,7 +10,7 @@
 
 ## 1.5. Szegedi Tudományegyetem Egészségügyi Centrum Sebészeti Klinika (vese).
 
-## 1.6.[^88] Gottsegen György Országos Kardiológiai Intézet (gyermekszív, valamint veleszületett szívbetegségben – GUCH Disease; Grown-Up Congenital Heart Disease – szenvedő 18 év feletti betegek esetén szív).
+## 1.6.[^76] Gottsegen György Országos Kardiológiai Intézet (gyermekszív, valamint veleszületett szívbetegségben – GUCH Disease; Grown-Up Congenital Heart Disease – szenvedő 18 év feletti betegek esetén szív).
 
 ## 2. Az adott szerv tekintetében halott személyből történő szervkivételre jogosított egészségügyi szolgáltatók
 
@@ -26,10 +26,10 @@
 
 ## 2.6. Országos Korányi TBC és Pulmonológiai Intézet (tüdő).
 
-## 2.7.[^89] Gottsegen György Országos Kardiológiai Intézet (gyermekszív és szív).
+## 2.7.[^77] Gottsegen György Országos Kardiológiai Intézet (gyermekszív és szív).
 
-6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^90]
+6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^78]
 
-[^88]: Az 5. számú melléklet 1. pont 1.6. alpontja a 6/2013. (I. 18.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^89]: Az 5. számú melléklet 2. pont 2.7. alpontja a 6/2013. (I. 18.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^90]: A 6. számú melléklet az 55/2007. (XII. 19.) EüM rendelet 5. § (1) bekezdésével megállapított, a 12/2012. (VIII. 6.) EMMI rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^76]: Az 5. számú melléklet 1. pont 1.6. alpontja a 6/2013. (I. 18.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^77]: Az 5. számú melléklet 2. pont 2.7. alpontja a 6/2013. (I. 18.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^78]: A 6. számú melléklet az 55/2007. (XII. 19.) EüM rendelet 5. § (1) bekezdésével megállapított, a 12/2012. (VIII. 6.) EMMI rendelet 9. § (3) bekezdése szerint módosított szöveg.

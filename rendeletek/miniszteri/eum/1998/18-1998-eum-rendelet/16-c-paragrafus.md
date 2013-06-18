@@ -1,4 +1,4 @@
-16/C. §[^59] (1) A szervszállítást végző, illetve az abban közreműködő egészségügyi szolgáltató a szerv szállítás közbeni épségét és megfelelő szállítási időt biztosító műveleti előírást dolgoz ki.
+16/C. §[^39] (1) A szervszállítást végző, illetve az abban közreműködő egészségügyi szolgáltató a szerv szállítás közbeni épségét és megfelelő szállítási időt biztosító műveleti előírást dolgoz ki.
 
 (2) A szállított szervekhez mellékelni kell a szerv- és donoradatok meghatározásáról szóló jelentést.
 
@@ -16,4 +16,4 @@ b) a szállított emberi szervekre vonatkozó prezerválási és szállítási f
 
 (7) A transzplantációs céllal eltávolított, de be nem ültetett és szövettani vizsgálatra küldött szervekkel kapcsolatos teendőkről a szervkivételt végző egészségügyi szolgáltatónak a szervek követhetőségét biztosító szakmai eljárásrenddel kell rendelkeznie. Az OVSZ nyilvántartást vezet a transzplantációs céllal eltávolított és be nem ültetett szervek szövettani vizsgálati eredményeiről.
 
-[^59]: A 16/C. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^39]: A 16/C. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.

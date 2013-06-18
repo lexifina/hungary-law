@@ -1,3 +1,3 @@
-## 1/B. §[^25] A szervátültetéssel összefüggésben illetékes hatóságként az e rendeletben és a szervátültetésre, mint egészségügyi szolgáltatásra vonatkozó jogszabályokban foglaltak végrehajtásáért az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH), az Országos Vérellátó Szolgálat (a továbbiakban: OVSZ) és a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) a felelős.
+## 1/B. §[^5] A szervátültetéssel összefüggésben illetékes hatóságként az e rendeletben és a szervátültetésre, mint egészségügyi szolgáltatásra vonatkozó jogszabályokban foglaltak végrehajtásáért az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH), az OVSZ és a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) a felelős.
 
-[^25]: Az 1/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 2. §-a iktatta be.
+[^5]: Az 1/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 2. §-a iktatta be, szövege a 41/2013. (VI. 17.) EMMI rendelet 7. §-a szerint módosított szöveg.

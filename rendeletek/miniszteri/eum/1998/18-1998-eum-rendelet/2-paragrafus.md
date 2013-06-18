@@ -1,4 +1,4 @@
-## 1/C. §[^26] Az emberi szövetek, sejtek adományozása, gyűjtése, vizsgálata, feldolgozása, tárolása és elosztása során – amennyiben jogszabály másként nem rendelkezik – biztosítani kell, hogy a donor és a recipiens ne ismerjék meg egymás személyét.
+## 1/C. §[^6] Az emberi szövetek, sejtek adományozása, gyűjtése, vizsgálata, feldolgozása, tárolása és elosztása során – amennyiben jogszabály másként nem rendelkezik – biztosítani kell, hogy a donor és a recipiens ne ismerjék meg egymás személyét.
 
 ## Szerv, szövet eltávolítása élő személyből
 
@@ -22,4 +22,4 @@ c) akire a szerv, szövet eltávolításában vagy beültetésében közvetlenü
 
 (7) Az etikai bizottság a recipiens egészségi állapota által indokolt időn belül, de lehetőleg a kérelem kézhezvételét követő 15 munkanapon belül ülést tart.
 
-[^26]: Az 1/C. §-t a 6/2013. (I. 18.) EMMI rendelet 9. §-a iktatta be.
+[^6]: Az 1/C. §-t a 6/2013. (I. 18.) EMMI rendelet 9. §-a iktatta be.

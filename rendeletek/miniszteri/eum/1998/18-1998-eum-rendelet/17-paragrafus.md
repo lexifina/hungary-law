@@ -1,4 +1,4 @@
-## 16/G. §[^63] Az OTH az egészségügyi szolgáltatók nyilvántartására vonatkozó jogszabályban foglaltak szerint nyilvántartást vezet a transzplantációs központokról.
+## 16/L. §[^50] Az Európai Gazdasági Térségről szóló megállapodásban részes tagállamok közötti összeköttetés biztosítására az OVSZ megküldi az Európai Bizottság részére elérhetőségi adatait (szervezet neve, telefonszáma, e-mail címe, faxszáma, postai címe). Az adatok változása esetén erről tájékoztatja az Európai Bizottságot.
 
 ## Kórszövettani vizsgálat
 
@@ -12,4 +12,4 @@ c) köröm,
 
 d) élettani szülés esetén a placenta.
 
-[^63]: A 16/G. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^50]: A 16/L. §-t a 41/2013. (VI. 17.) EMMI rendelet 4. §-a iktatta be.

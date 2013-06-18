@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^80]
+1. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^68]
 
 ## Kérelem a kórházi etikai bizottsághoz
 
@@ -28,7 +28,7 @@ Anyja neve: .......................
 
 TAJ: ........................
 
-Alulírottak, azzal a kérelemmel fordulunk a kórházi etikai bizottsághoz, hogy az alábbi beavatkozásokhoz járuljon hozzá.[^81]
+Alulírottak, azzal a kérelemmel fordulunk a kórházi etikai bizottsághoz, hogy az alábbi beavatkozásokhoz járuljon hozzá.[^69]
 
 ...................................
 
@@ -58,5 +58,5 @@ a beavatkozást végző orvos
 
 (orvoscsoport vezetőjének) aláírása
 
-[^80]: Az 1. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^81]: A szerv, szövet átültetését végző orvos is kitöltheti.
+[^68]: Az 1. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^69]: A szerv, szövet átültetését végző orvos is kitöltheti.

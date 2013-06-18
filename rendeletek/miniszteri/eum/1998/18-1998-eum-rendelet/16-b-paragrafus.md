@@ -1,6 +1,6 @@
-## A szervkivételre vonatkozó minőségi és biztonsági követelmények[^57]
+## A szervkivételre vonatkozó minőségi és biztonsági követelmények[^37]
 
-16/B. §[^58] (1) A kivett szerv és a donor adatait az átültetés előtt a 9/a. számú melléklet szerint meg kell határozni.
+16/B. §[^38] (1) A kivett szerv és a donor adatait az átültetés előtt a 9/a. számú melléklet szerint meg kell határozni.
 
 (2) A donoradatok meghatározásakor a donor jellemzőire vonatkozó, a donor szervadományozásra való alkalmasságának értékeléséhez szükséges adatokat kell összegyűjteni a megfelelő kockázatfelmérés elvégzése, a recipienst érintő kockázatok minimalizálása és a szervelosztás optimalizálása érdekében.
 
@@ -36,5 +36,5 @@ c) a jogszabály szerinti higiéniás feltételeket betartsák a szervek szennye
 
 (15) A szervadományozás folyamatát – ideértve a szervek szállítására használt tárolóeszközök címkézésének szabályait – részletesen a 9/a. számú melléklet tartalmazza.
 
-[^57]: A 16/B. §-t megelőző alcímet a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
-[^58]: A 16/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^37]: A 16/B. §-t megelőző alcímet a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^38]: A 16/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
