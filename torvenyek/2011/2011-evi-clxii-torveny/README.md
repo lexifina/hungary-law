@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-162-00-00
 | 2013-01-01 | 2012. évi LXXXVI. törvény | 2011-162-00-00.9 |
 | 2013-01-02 | 2012. évi CCXI. törvény | 2011-162-00-00.10 |
 | 2013-04-02 | 2013. évi XX. törvény | 2011-162-00-00.11 |
+| 2013-06-18 | 13/2013. (VI. 17.) AB határozat | 2011-162-00-00.12 |
