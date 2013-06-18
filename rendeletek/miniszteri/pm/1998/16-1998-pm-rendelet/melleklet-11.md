@@ -1,4 +1,4 @@
-11. melléklet a 16/1998. (V. 20.) PM rendelethez[^67]
+11. melléklet a 16/1998. (V. 20.) PM rendelethez[^71]
 
 1. táblázat
 
@@ -252,4 +252,4 @@ lehívásához forgalmi típusú ügyleteknél
 
 | .............................................. Cégszerű aláírás | .............................................. Igazgatóság elnökének aláírása |
 
-[^67]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^71]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.

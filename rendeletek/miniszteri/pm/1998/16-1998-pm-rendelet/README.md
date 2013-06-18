@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-16-20-5
 | 2011-06-22 | 1998-16-20-53.8 | 22/2011. (VI. 21.) NGM rendelet |
 | 2012-07-19 | 1998-16-20-53.9 | 16/2012. (VI. 28.) NGM rendelet |
 | 2012-12-30 | 1998-16-20-53.10 | 54/2012. (XII. 29.) NGM rendelet |
+| 2013-06-18 | 1998-16-20-53.11 | 19/2013. (VI. 17.) NGM rendelet |

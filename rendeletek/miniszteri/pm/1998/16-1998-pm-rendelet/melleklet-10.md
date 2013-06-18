@@ -1,4 +1,4 @@
-10. melléklet a 16/1998. (V. 20.) PM rendelethez[^66]
+10. melléklet a 16/1998. (V. 20.) PM rendelethez[^70]
 
 1. táblázat
 
@@ -26,7 +26,7 @@ Az Eximbank Zrt. ellenőrzési listája hitelfedezeti garanciák beváltásának
 
 | 10 | KR 1-2. § | A költségvetési hátterű garancia nem mezőgazdasági termékek, és nem katonai berendezések exportjához került igénybevételre |  |
 
-| 11 | KR 3. § (1) | A garancia kibocsátásakor a megbízó vagy az exportőr nem állt csőd-, felszámolási eljárás, vagy végelszámolás alatt; nincs az állammal vagy Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása; nincs lejárt esedékességű köztartozása |  |
+| 11 | KR 3. § (1) | A megbízó vagy az exportőr a garancia kibocsátásakor a) nem állt csőd-, felszámolási eljárás vagy végelszámolás alatt, b) nem volt az állammal vagy az Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása, c) nem volt lejárt esedékességű köztartozása |  |
 
 | 12 | KR 6. § (1) | A garancia kibocsátásának alapjául szolgáló hitelszerződés visszafizetési határideje legalább 2, de maximum 5 év, vagy az OECD Megállapodásban meghatározott kivételes esetekre meghatározott idő |  |
 
@@ -68,7 +68,7 @@ Az Eximbank Zrt. ellenőrzési listája kereskedelmi és egyéb garanciák bevá
 
 | 6 | KR 11. § (2) a) és 12.§ | A garancia megbízója vagy az exportőr nem volt nehéz pénzügyi helyzetben |  |
 
-| 7 | KR. 3. § (1) | A garancia kibocsátásakor a megbízó vagy az exportőr nem állt csőd-, felszámolási eljárás, vagy végelszámolás alatt; nincs az állammal vagy Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása; nincs lejárt esedékességű köztartozása |  |
+| 7 | KR. 3. § (1) | A megbízó vagy az exportőr a garancia kibocsátásakor a) nem állt csőd-, felszámolási eljárás vagy végelszámolás alatt, b) nem volt az állammal vagy az Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása, c) nem volt lejárt esedékességű köztartozása |  |
 
 | 8 | KR 11. § (2) b) | A garanciavállalás terjedelme a garancia nyújtásának időpontjában megfelelően mérhető volt, azaz a garanciavállalás meghatározott ügylethez kapcsolódik, maximális összegre vonatkozik és időben korlátozott |  |
 
@@ -112,9 +112,9 @@ Az Eximbank Zrt. ellenőrzési listája hitelfedezeti garanciák beváltása ese
 
 | 10 | KR 1-2. § | A költségvetési hátterű garancia nem mezőgazdasági termékek, és nem katonai berendezések exportjához került igénybevételre |  |
 
-| 11 |  | A garancia kibocsátásakor a megbízó vagy az exportőr nem állt csőd-, felszámolási eljárás, vagy végelszámolás alatt |  |
+| 11 |  |  |  |
 
-| 12 | KR 3. § (1) | A garancia kibocsátásakor a megbízó vagy az exportőr nem állt csőd-, felszámolási eljárás, vagy végelszámolás alatt; nincs az állammal vagy Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása; nincs lejárt esedékességű köztartozása |  |
+| 12 | KR 3. § (1) | A megbízó vagy az exportőr a garancia kibocsátásakor a) nem állt csőd-, felszámolási eljárás vagy végelszámolás alatt, b) nem volt az állammal vagy az Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása, c) nem volt lejárt esedékességű köztartozása |  |
 
 | 13 | KR 6. § (1) | Az exporthitel garancia kibocsátásának alapjául szolgáló hitelszerződés szerint a tőke összegét egyenlő részletekben, a tőkét és kamatot legalább hat hónapos gyakorisággal vállalta az adós megfizetni, úgy, hogy az első törlesztőrészlet legkésőbb a hitel kezdőnapjától számított hat hónap elteltével esedékes. |  |
 
@@ -158,7 +158,7 @@ Az Eximbank Zrt. ellenőrzési listája kereskedelmi és egyéb garanciák bevá
 
 | 6 | KR 11. § (2) a) és 12.§ | A garancia megbízója vagy az exportőr nem volt nehéz pénzügyi helyzetben |  |
 
-| 7 | KR 3. § (1) | A garancia kibocsátásakor a megbízó vagy az exportőr nem állt csőd-, felszámolási eljárás, vagy végelszámolás alatt; nincs az állammal vagy Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása; nincs lejárt esedékességű köztartozása |  |
+| 7 | KR 3. § (1) | A megbízó vagy az exportőr a garancia kibocsátásakor a) nem állt csőd-, felszámolási eljárás vagy végelszámolás alatt, b) nem volt az állammal vagy az Eximbankkal szemben korábbi garancia beváltásából fennálló tartozása, c) nem volt lejárt esedékességű köztartozása |  |
 
 | 8 | KR 11. § (2) b) | A garanciavállalás terjedelme a garancia nyújtásának időpontjában megfelelően mérhető volt, azaz a garanciavállalás meghatározott ügylethez kapcsolódik, maximális összegre vonatkozik és időben korlátozott |  |
 
@@ -180,4 +180,4 @@ Az Eximbank Zrt. ellenőrzési listája kereskedelmi és egyéb garanciák bevá
 
 | ................................................... Cégszerű aláírás | ................................................... Igazgatóság elnökének aláírása |
 
-[^66]: A 10. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés a) pontjával megállapított szöveg.
+[^70]: A 10. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés a) pontjával megállapított és a 19/2013. (VI. 17.) NGM rendelet 3–4. §-a szerint módosított szöveg.
