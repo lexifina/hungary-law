@@ -6,17 +6,7 @@
 
 2. a végső fogyasztóknak szánt alkoholtartalmú italok alkoholtartalmának jelöléséről szóló 2. melléklet,
 
-3. az élelmiszerekben használható édesítőszerekről szóló 3. melléklet,
-
-4. az élelmiszerekben használható színezékekről szóló 4. melléklet,
-
-5. az élelmiszerekben használható édesítőszereken és a színezékeken kívüli adalékanyagokról szóló 5. melléklet,
-
-6. az élelmiszerekben használható édesítőszerek tisztasági követelményeiről szóló 6. melléklet,
-
-7. az élelmiszerekben használható színezékek tisztasági követelményeiről szóló 7. melléklet,
-
-8. a színezékeken és édesítőszereken kívüli egyéb élelmiszer-adalékanyagok tisztasági követelményeiről szóló 8. melléklet,
+3–8.[^3]
 
 9. az emberi fogyasztásra szánt tejfehérjékről (kazeinekről és kazeinátokról) szóló 9. melléklet,
 
@@ -50,25 +40,25 @@
 
 24. az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagok és műanyag tárgyak komponenseinek kioldódási vizsgálatairól szóló 26. melléklet,
 
-25–27.[^3]
+25–27.[^4]
 
-28.[^4] az etilalkohol–víz elegyek alkoholtartalmának meghatározásához szükséges táblázatról szóló 30. melléklet,
+28.[^5] az etilalkohol–víz elegyek alkoholtartalmának meghatározásához szükséges táblázatról szóló 30. melléklet,
 
-29.[^5] a cukortermékek vizsgálati módszereiről szóló 31. melléklet,
+29.[^6] a cukortermékek vizsgálati módszereiről szóló 31. melléklet,
 
-30.[^6] a sűrített tej és tejporfélék vizsgálatáról szóló 32. melléklet,
+30.[^7] a sűrített tej és tejporfélék vizsgálatáról szóló 32. melléklet,
 
-31.[^7] az étolaj, az étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszeréről szóló 33. melléklet,
+31.[^8] az étolaj, az étkezési zsír, valamint ezek hozzáadásával készült élelmiszerek erukasav-tartalmának meghatározási módszeréről szóló 33. melléklet,
 
-32.[^8] az étkezési kazeinek és kazeinátok vizsgálati módszereiről szóló 34. melléklet,
+32.[^9] az étkezési kazeinek és kazeinátok vizsgálati módszereiről szóló 34. melléklet,
 
-33.[^9] az étkezési kazeinek és kazeinátok mintavételi módszereiről szóló 35. melléklet,
+33.[^10] az étkezési kazeinek és kazeinátok mintavételi módszereiről szóló 35. melléklet,
 
-34.[^10] a sűrített tej és tejporfélék mintavételi módszereiről szóló 36. melléklet,
+34.[^11] a sűrített tej és tejporfélék mintavételi módszereiről szóló 36. melléklet,
 
-35.[^11] a közvetlen emberi fogyasztásra szánt, hőkezelt tej mintavételi és vizsgálati módszereiről szóló 37. melléklet.
+35.[^12] a közvetlen emberi fogyasztásra szánt, hőkezelt tej mintavételi és vizsgálati módszereiről szóló 37. melléklet.
 
-(3)[^12] A Magyar Élelmiszerkönyv (Codex Alimentarius Hungaricus) I. kötetének nemzeti termékleírásokat tartalmazó kötelező előírásait e rendelet következő mellékleteiben adom ki:
+(3)[^13] A Magyar Élelmiszerkönyv (Codex Alimentarius Hungaricus) I. kötetének nemzeti termékleírásokat tartalmazó kötelező előírásait e rendelet következő mellékleteiben adom ki:
 
 a) a húskészítményekről szóló 12. melléklet,
 
@@ -76,13 +66,14 @@ b) a tejtermékekről szóló 13. melléklet.
 
 [^1]: Az 1. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 46. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 65/2010. (V. 12.) FVM rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés 25–27. pontját a 77/2011. (VIII. 3.) VM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^4]: Az 1. § (2) bekezdés 28. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^5]: Az 1. § (2) bekezdés 29. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^6]: Az 1. § (2) bekezdés 30. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^7]: Az 1. § (2) bekezdés 31. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^8]: Az 1. § (2) bekezdés 32. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^9]: Az 1. § (2) bekezdés 33. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^10]: Az 1. § (2) bekezdés 34. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^11]: Az 1. § (2) bekezdés 35. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
-[^12]: Az 1. § (3) bekezdése a 37/2010. (IV. 13.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés 3–8. pontját az 50/2013. (VI. 17.) VM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (2) bekezdés 25–27. pontját a 77/2011. (VIII. 3.) VM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (2) bekezdés 28. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (2) bekezdés 29. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^7]: Az 1. § (2) bekezdés 30. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (2) bekezdés 31. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (2) bekezdés 32. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (2) bekezdés 33. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^11]: Az 1. § (2) bekezdés 34. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^12]: Az 1. § (2) bekezdés 35. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
+[^13]: Az 1. § (3) bekezdése a 37/2010. (IV. 13.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
