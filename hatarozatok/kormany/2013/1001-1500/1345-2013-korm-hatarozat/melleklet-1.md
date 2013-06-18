@@ -32,7 +32,7 @@
 
 ## Határidő: 2013. június 30.
 
-## 7. visszavonja a Roma Kulturális Központ létesítésével kapcsolatos feladatokról szóló 1496/2011. (XII. 27.) Korm. határozatot.
+## 7.[^2]
 
 1. melléklet az 1345/2013. (VI. 17.) Korm. határozathoz
 
@@ -41,3 +41,5 @@
 | 2011 | 2012 | 2013 |  |  |  |
 
 | 1.2.6. | Multifunkcionális nemzetiségi-roma módszertani, oktatási és kulturális központ infrastrukturális feltételeinek kialakítása | 0,00 | 0,00 | 1,70 | A roma kultúra kincseinek összegyűjtésére és hozzáférhetővé tételére, a roma kultúrára építő nem formális és informális képzések, valamint a közösségi tevékenységek és rendezvények és gyermek-és ifjúsági programok lebonyolítására alkalmas intézmény kialakítása. | emberi erőforrások minisztere |  |
+
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
