@@ -1,0 +1,1 @@
+A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 36. §-ában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
