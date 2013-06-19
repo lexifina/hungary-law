@@ -1,8 +1,8 @@
-## V. Fejezet[^183]
+## V. Fejezet[^185]
 
-## Az Európai Unió jogának való megfelelés[^184]
+## Az Európai Unió jogának való megfelelés[^186]
 
-## 120. §[^185] Ez a rendelet
+## 120. §[^187] Ez a rendelet
 
 1. a gépjárművek megengedett zajszintjére és kipufogórendszereire vonatkozó tagállami jogszabályok közelítéséről szóló, 1970. február 6-i 70/157/EGK tanácsi irányelvnek, valamint az azt módosító 84/424/EGK, 92/97/EGK, 2006/96/EK tanácsi, továbbá 73/350/EGK, 81/334/EGK, 84/372/EGK, 89/491/EGK, 96/20/EK, 1999/101/EK és 2007/34/EK bizottsági irányelveknek;
 
@@ -212,6 +212,6 @@
 
 104. a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteiről, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló, 1996. június 25-i 96/53/EK tanácsi irányelvnek, valamint annak a 2002/7/EK európai parlamenti és tanácsi irányelvvel történt módosításának
 
-[^183]: Az V. fejezetet a 12/2000. (V. 24.) KHVM rendelet 15. §-a iktatta a szövegbe.
-[^184]: Az V. Fejezet címe a 84/2005. (X. 11.) GKM rendelet 4. §-ával megállapított szöveg.
-[^185]: A 120. § a 66/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.
+[^185]: Az V. fejezetet a 12/2000. (V. 24.) KHVM rendelet 15. §-a iktatta a szövegbe.
+[^186]: Az V. Fejezet címe a 84/2005. (X. 11.) GKM rendelet 4. §-ával megállapított szöveg.
+[^187]: A 120. § a 66/2012. (XII. 10.) NFM rendelet 4. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-## 121. §[^186] Ez a rendelet
+## 121. §[^188] Ez a rendelet
 
 1. a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet 13. cikkének;
 
@@ -62,4 +62,4 @@
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^186]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
+[^188]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.

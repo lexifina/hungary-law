@@ -56,7 +56,7 @@
 
 ## H : A ráfutó fék megengedett legnagyobb működtető ereje N
 
-11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^199]
+11. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^201]
 
 ## Gépjármű, mezőgazdasági vontató, lassú jármű, pótkocsi, valamint a segédmotoros kerékpár világító és fényjelző berendezéseinek megkövetelt legkisebb láthatósági szögei
 
@@ -236,7 +236,7 @@ Megjegyzések:
 
 7/ +-b a lámpa ill. fényvisszaverő felület középpontján (súlypontján) átmenő és a hosszirányú szimmetria síkra, valamint a talajra merőleges síkra vonatkoztatva.
 
-[^200]
+[^202]
 
 4. táblázat
 
@@ -274,5 +274,5 @@ A bekanyarodási lámpa láthatósági szögei
 
 | 15 |  | hátul | 15 | 152 | 30 | 30 |
 
-[^199]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^200]: Lásd 1990. évi 33. szám 720. oldal
+[^201]: A 11. számú melléklet a 66/2012. (XII. 10.) NFM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^202]: Lásd 1990. évi 33. szám 720. oldal

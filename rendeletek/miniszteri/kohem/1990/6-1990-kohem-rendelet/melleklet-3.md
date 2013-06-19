@@ -1,4 +1,4 @@
-## Magyarország által elfogadott ENSZ-EGB előírások[^190]
+## Magyarország által elfogadott ENSZ-EGB előírások[^192]
 
 ## 1. R2 és/vagy HS1 izzólámpával ellátott aszimmetrikus tompított vagy távolsági fényt vagy mindkettőt kibocsátó fényszórók
 
@@ -222,7 +222,7 @@
 
 ## 111. Tartályos felépítményű járművek borulása
 
-3. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^191]
+3. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^193]
 
-[^190]: Az előírások elfogadását érintő változások a Közlekedési, Hírközlési és Vízügyi Értesítőben közlemény formájában jelennek meg. Az elfogadott előírások mindenkor érvényes változatáról, a módosításokról, valamint ezek hivatalos kiadványként történő megjelentetési módjáról a Közlekedési, Hírközlési és Vízügyi Értesítő ad tájékoztatást. Az előírások és ezek módosításai magyar nyelven a Közlekedési Főfelügyelet által jóváhagyott hivatalos kiadványként szerezhetők be. A 2. számú melléklet címe a 63/2011. (XI. 29.) NFM rendelet 10. §-a szerint módosított szöveg.
-[^191]: A 3. számú melléklet a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^192]: Az előírások elfogadását érintő változások a Közlekedési, Hírközlési és Vízügyi Értesítőben közlemény formájában jelennek meg. Az elfogadott előírások mindenkor érvényes változatáról, a módosításokról, valamint ezek hivatalos kiadványként történő megjelentetési módjáról a Közlekedési, Hírközlési és Vízügyi Értesítő ad tájékoztatást. Az előírások és ezek módosításai magyar nyelven a Közlekedési Főfelügyelet által jóváhagyott hivatalos kiadványként szerezhetők be. A 2. számú melléklet címe a 63/2011. (XI. 29.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^193]: A 3. számú melléklet a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.

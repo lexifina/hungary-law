@@ -8,12 +8,14 @@
 
 (4) A megkülönböztető fény- és hangjelzés használatára jogosult jármű elején 1 vagy 2 db kiegészítő megkülönböztető lámpát is el lehet helyezni. Ezek átvilágított felületének felső széle 1,50 méternél magasabban nem lehet.
 
-(5) A megkülönböztető lámpa elektromos kapcsolásának olyannak kell lennie, hogy e lámpa a vezetőülésből minden más világító és fényjelző berendezéstől függetlenül — és a járművön lévő összes megkülönböztető lámpa csak együtt — legyen bekapcsolható.
+(5)[^128] A megkülönböztető lámpa elektromos kapcsolásának olyannak kell lennie, hogy e lámpa a vezetőülésből minden más világító és fényjelző berendezéstől függetlenül – és a járművön lévő összes megkülönböztető lámpa csak együtt – legyen bekapcsolható. A megkülönböztető és a figyelmeztető jelzés használatára egyaránt jogosult gépjárművön a figyelmeztető lámpa csak hátrafelé sugározhat ki borostyánsárga fényt és az elektromos kapcsolásának olyannak kell lennie, hogy a megkülönböztető lámpa és a figyelmeztető lámpa együttesen ne legyen bekapcsolható.
 
-(6)[^128] A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló miniszteri rendelet alapján a figyelmeztető jelzést adó berendezés használatára jogosult járművet figyelmeztető lámpával szabad felszerelni. Az olyan járműre, amelyen megkülönböztető lámpa van, figyelmeztető lámpát felszerelni nem szabad.
+(6)[^129] A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló miniszteri rendelet alapján a figyelmeztető jelzést adó berendezés használatára jogosult járművet figyelmeztető lámpával szabad felszerelni.
 
-(7) A figyelmeztető lámpára a megkülönböztető lámpára vonatkozó rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy a figyelmeztető lámpa csak borostyánsárga fényt bocsáthat ki.
+(7)[^130] A figyelmeztető lámpára a megkülönböztető lámpára vonatkozó rendelkezéseket kell alkalmazni – figyelemmel az (5) bekezdésben meghatározottakra is – azzal az eltéréssel, hogy a figyelmeztető lámpa csak borostyánsárga fényt bocsáthat ki.
 
 [^126]: A 66. § (1) bekezdése a 41/2010. (V. 12.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^127]: A 66. § (2) bekezdése a 90/2006. (XII. 26.) GKM rendelet 2. §-ával megállapított szöveg.
-[^128]: A 66. § (6) bekezdése a 41/2010. (V. 12.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^128]: A 66. § (5) bekezdése a 31/2013. (VI. 18.) NFM rendelet 1. §-ával megállapított szöveg.
+[^129]: A 66. § (6) bekezdése a 31/2013. (VI. 18.) NFM rendelet 1. §-ával megállapított szöveg.
+[^130]: A 66. § (7) bekezdése a 31/2013. (VI. 18.) NFM rendelet 1. §-ával megállapított szöveg.

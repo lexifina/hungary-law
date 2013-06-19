@@ -1,6 +1,6 @@
-## Versenyjárműre vonatkozó üzemeltetési műszaki feltételek[^176]
+## Versenyjárműre vonatkozó üzemeltetési műszaki feltételek[^178]
 
-112/B. §[^177] (1) Az e rendeletben foglalt üzemeltetési műszaki feltételeket – az ER. megjelölt eljárásaiban – a versenyjárművek esetében a következő eltérésekkel kell alkalmazni:
+112/B. §[^179] (1) Az e rendeletben foglalt üzemeltetési műszaki feltételeket – az ER. megjelölt eljárásaiban – a versenyjárművek esetében a következő eltérésekkel kell alkalmazni:
 
 a) versenyjármű utasterének szilárdsága beépített bukócső kerettel megnövelhető,
 
@@ -22,5 +22,5 @@ i) a versenyjármű kerekekre vonatkozó üzemeltetési műszaki feltételek meg
 
 (2) Az (1) bekezdésben foglaltaknak való megfelelőséget a jármű üzembentartójának – az országos autóverseny rendszert működtető, országos sportági szövetség által – a járműhöz kiállított gépkönyvvel kell igazolni.
 
-[^176]: A 112/B. §-t megelőző alcímet a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
-[^177]: A 112/B. §-t a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
+[^178]: A 112/B. §-t megelőző alcímet a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
+[^179]: A 112/B. §-t a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
