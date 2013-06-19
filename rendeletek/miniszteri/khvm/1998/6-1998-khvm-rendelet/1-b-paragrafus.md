@@ -30,7 +30,7 @@
 
 14. megrongálódott műtárgyak helyreállítását célzó felújítás vagy rekonstrukció.
 
-(3) A közútkezelő az (1) bekezdés alapján megkötött, a közlekedésért felelős miniszter által jóváhagyott szerződés szerint az alábbi feladatok ellátása során járhat el építtetőként:
+(3)[^12] A közútkezelő az (1) bekezdés alapján megkötött, a közlekedésért felelős miniszter által jóváhagyott projektlistát tartalmazó szerződés szerint az alábbi feladatok ellátása során járhat el építtetőként:
 
 1. a forgalmi terhelés miatt indokolt új sáv építése, sávszélesítés, ívkorrekció, csomóponti felállósáv és kanyarodó sáv kialakítása, a csomópontok építése, átépítése (ideértve új körforgalom létesítését),
 
@@ -41,3 +41,4 @@
 4. kerékpárutak építése.
 
 [^11]: Az 1/B. §-t a 6/2010. (II. 16.) KHEM rendelet 2. §-a iktatta be, szövege a 73/2012. (XII. 20.) NFM rendelet 2. §-ával megállapított szöveg.
+[^12]: Az 1/B. § (3) bekezdés nyitó szövegrésze a 31/2013. (VI. 18.) NFM rendelet 2. §-a szerint módosított szöveg.
