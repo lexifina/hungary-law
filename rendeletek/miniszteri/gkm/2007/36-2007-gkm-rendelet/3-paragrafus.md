@@ -20,9 +20,9 @@ e)[^21] éves jogosultság: a tárgyév első napjától a tárgyévet követő 
 
 (5)[^23] A 6. § (1) bekezdés b)–d) pontja szerint meghatározott díjkategóriák jelzésével vásárolt 1 napos, heti és havi jogosultság a vásárlás napjától függetlenül nem jogosít 2013. június 30. napját követően úthasználatra.
 
-(6)[^24] A 6. § (1) bekezdés b)–d) pontja szerint meghatározott díjkategóriákban nem vásárolható az (1) bekezdés c) pontja szerinti heti jogosultság 2013. június 29. napját követően, és a jogosultság a 3. § (1) bekezdés c) pontjában foglaltaktól eltérően nem jogosít 2013. július 30. napját követően úthasználatra.
+(6)[^24] A 6. § (1) bekezdés b)–d) pontja szerint meghatározott díjkategóriákban az (1) bekezdés c) pontja szerinti heti jogosultság 2013. június 28. napjáig vásárolható azzal, hogy a jogosultság az (1) bekezdés c) pontjában foglaltakkal ellentétben kizárólag 2013. június 30-áig jogosít úthasználatra.
 
-(7)[^25] A 6. § (1) bekezdés b)–d) pontja szerint meghatározott díjkategóriákban nem vásárolható az (1) bekezdés d) pontja szerinti havi jogosultság 2013. június 19. napját követően, és a jogosultság a 3. § (1) bekezdés d) pontjában foglaltaktól eltérően nem jogosít 2013. július 30. napját követően úthasználatra.
+(7)[^25] A 6. § (1) bekezdés b)–d) pontja szerint meghatározott díjkategóriákban az (1) bekezdés d) pontja szerinti havi jogosultság 2013. június 19. napjáig vásárolható azzal, hogy a jogosultság az (1) bekezdés d) pontjában foglaltakkal ellentétben kizárólag 2013. június 30-áig jogosít úthasználatra.
 
 [^17]: A 3. § a 108/2007. (XII. 23.) GKM rendelet 2. §-ával megállapított szöveg.
 [^18]: A 3. § (1) bekezdése a 47/2008. (XII. 31.) KHEM rendelet 3. §-ával megállapított szöveg.
@@ -31,5 +31,5 @@ e)[^21] éves jogosultság: a tárgyév első napjától a tárgyévet követő 
 [^21]: A 3. § (1) bekezdés e) pontja a 79/2012. (XII. 27.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^22]: A 3. § (3) bekezdése a 95/2011. (XII. 30.) NFM rendelet 2. § (2) bekezdésével megállapított, a 79/2012. (XII. 27.) NFM rendelet 7. § b) pontja szerint módosított szöveg.
 [^23]: A 3. § (5) bekezdését a 79/2012. (XII. 27.) NFM rendelet 2. § (2) bekezdése iktatta be.
-[^24]: A 3. § (6) bekezdését a 25/2013. (V. 31.) NFM rendelet 8. §-a iktatta be.
-[^25]: A 3. § (7) bekezdését a 25/2013. (V. 31.) NFM rendelet 8. §-a iktatta be.
+[^24]: A 3. § (6) bekezdését a 25/2013. (V. 31.) NFM rendelet 8. §-a iktatta be, szövege a 31/2013. (VI. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 3. § (7) bekezdését a 25/2013. (V. 31.) NFM rendelet 8. §-a iktatta be, szövege a 31/2013. (VI. 18.) NFM rendelet 3. §-ával megállapított szöveg.
