@@ -1,0 +1,3535 @@
+# A Kormány 1351/2013. (VI. 19.) Korm. határozata
+
+Magyar Közlöny 2013. évi 100. szám, 2013. június 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/84fcf8acafaf8a19b692f4b62a78a6e38dd28f1b/dokumentumok/b1d2ab078f35daf66d31e6e916ef8b41d76600e2/letoltes)
+
+---
+
+A Kormány 1351/2013. (VI. 19.) Korm. határozata
+az Emberkereskedelem Elleni Küzdelemről szóló 2013–2016 közötti Nemzeti Stratégiáról
+1. A Kormány elfogadja az 1. mellékletben foglalt„Az Emberkereskedelem elleni irányelvhez és az Emberkereskedelem
+Felszámolását Célzó Európai Stratégiához kapcsolódó, valamint az emberkereskedelem elleni küzdelemről szóló
+2008–2012 közötti nemzeti stratégiát felváltó 4 éves stratégiai tervdokumentumot”.
+2. A Kormány felhívja a belügyminisztert a feladat- és hatáskörrel rendelkező miniszterek bevonásával
+az Emberkereskedelem Felszámolását Célzó Európai Stratégiához kapcsolódó, valamint az emberkereskedelem
+elleni küzdelemről szóló 2008–2012 közötti nemzeti stratégiát felváltó 4 éves stratégiai tervdokumentum
+1. mellékletének V. pontjában foglalt intézkedések végrehajtására.
+Felelős: belügyminiszter a feladat- és hatáskörrel rendelkező miniszterek bevonásával
+Határidő: 2016. december 31.
+3. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az ……./2013. (…..) Korm. határozathoz
+Az Emberkereskedelem elleni irányelvhez és az Emberkereskedelem Felszámolását Célzó
+Európai Stratégiához kapcsolódó, valamint az emberkereskedelem elleni küzdelemről szóló
+2008-2012 közötti nemzeti stratégiát felváltó 4 éves stratégiai tervdokumentum
+VEZETŐI ÖSSZEFOGLALÓ
+Az emberkereskedelem elleni küzdelem a nemzetközi együttműködés szempontjából releváns
+fórumok mindegyikén prioritási terület, folyamatosan napirenden lévő kérdés.
+A probléma jellege, súlya alapvetően szükségessé teszi a komplex, hosszú távra fókuszáló
+megoldásokat, amelynek felelősségét az állami döntéshozói mechanizmus szereplői is magukénak
+éreznek. Az áldozatok védelme és segítése, az áldozattá válás megelőzése, az
+emberkereskedelemhez kapcsolódó bűncselekmények elkövetőinek felelősségre vonása valamennyi
+politikai szereplő által támogatott és támogatható törekvés, így lehetővé válik a prioritások
+meghatározásán túl a konkrét intézkedések 2013-2016 közötti időszakra való tervezése is.
+Magyarország helyzetét figyelembe véve, a nemzetközi és európai uniós elvárásokkal, illetve az
+emberkereskedelem felszámolására irányuló európai uniós stratégia prioritásaival összhangban
+kerültek megállapításra a stratégia beavatkozási területei. A magyar állampolgárokat ért sérelmek
+tekintetében – mind a belföldi, mind pedig a külföldre irányuló emberkereskedelem tekintetében – a
+szexuális célú kizsákmányolás a leginkább meghatározó, de jelentős a munka célú kizsákmányolás
+is.
+Az elmúlt években, az Európai Uniós irányelvekkel összhangban kormányzati szinten is jelentős
+előrelépések történtek az emberkereskedelem elleni küzdelem tekintetében. Létrejött a nemzeti
+koordinációs mechanizmus, komoly kormányzati erőfeszítések történtek a prevenció, a
+felvilágosítás területén, illetve az emberkereskedelem áldozatainak ellátása, védelme és
+reintegrációja is beépült az áldozatsegítés általános mechanizmusába. Ugyanakkor el kell
+ismernünk, hogy elsősorban az alacsony esetszám miatt jelentkező kapacitás-, és gyakorlathiány
+nehézséget okoz minden érintett szerv vonatkozásában az eljárások hatékony és áldozatközpontú
+lefolytatása során, és fejleszteni szükséges a kommunikációt az eltérő feladatú kormányzati
+szervezetek között.
+A civil szervezetek felbecsülhetetlen segítséget nyújtanak a kormányzat számára, különösen
+hatékonyak azokon a területeken, ahol az állam nem, vagy nem megfelelően képes eljárni.
+Ugyanakkor az állami és civil szféra együttműködése számos kívánnivalót hagy maga után.
+Ez alapján egy megfelelő, jól működő áldozatazonosítási, irányítási és védelmi rendszer
+működtetése, a hatékony megelőzés és tudatformálás, tudatosságnövelés elősegítése, az elkövetők
+1. melléklet az 1351/2013. (VI. 19.) Korm. határozathoz
+
+felelősségre vonása, a sértettek, áldozatok jogainak és érdekeinek megóvása, a releváns hazai
+kormányzati, fél-kormányzati és civil szervezetek közötti koordináció további erősítése mellett a
+biztonságos visszatérés és a reintegráció lehetőségeinek kormányzati szintű feltérképezése,
+támogató intézkedések kidolgozása is szükséges.
+I. BEVEZETÉS
+1.1. A stratégia háttere
+1.1.1. Indíttatás
+Az Emberkereskedelem Elleni, 2008-2012 közötti Nemzeti Stratégiáról szóló 1018/2008. (III. 26.)
+Korm. határozatban megjelent, emberkereskedelem elleni nemzeti stratégia 2012. december 31-én
+hatályát vesztette, ezért az új stratégia kidolgozása elengedhetetlen.
+Az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok
+védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i
+2011/36/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2011/36/EU európai parlamenti
+és tanácsi irányelv), amelynek átültetési határideje 2013. április 6., kiemeli az emberkereskedelem
+elleni fellépés és koordináció fontosságát, valamint előírja a tagállamok számára e területen az
+együttműködési rendszerek kialakítását, illetve továbbfejlesztését.
+Az Európai Bizottság 2012. június 19-én mutatta be az Emberkereskedelem Felszámolására
+Irányuló Európai Uniós Stratégiát (továbbiakban Európai Uniós Stratégia), amely a 2012 és 2016
+közötti időtávra fogalmaz meg Magyarország számára is olyan megvalósítandó intézkedéseket,
+amelyek hazai végrehajtásának tervezése és ütemezése szintén stratégiai tervezést igényel:
+1. Nemzeti áldozatkezelési mechanizmusok kifejlesztése;
+2. A gyermekvédelmi rendszerek erősítése a biztonságos hazatérés biztosítása, valamint az
+emberkereskedelem megismétlődésének megakadályozása érdekében;
+3. Információk terjesztése a munkaügyi, szociális, sértetti és migránsi jogokról nemzeti szinten;
+4. Emberkereskedelemmel foglalkozó, nemzeti multidiszciplináris bűnüldözési egységek
+létrehozása;
+5. Proaktív pénzügyi vizsgálatok az emberkereskedelmi ügyekben, és együttműködés az EU
+ügynökségeivel;
+6. Az emberkereskedelmi ügyekkel kapcsolatos pénzügyi vizsgálatokra vonatkozóan a
+tagállamoktól kapott információk elemzése;
+7. Közös nyomozócsoportok felállítása, működtetése;
+8. Az uniós ügynökségekben rejlő lehetőségek teljes kihasználása;
+9. Az Eurojust emberkereskedelem elleni cselekvési tervének végrehajtása;
+10. Az egész EU-ra kiterjedő koordinációs mechanizmus erősítése a nemzeti előadók vagy velük
+egyenértékű mechanizmusok informális hálózatának támogatása érdekében;
+
+11. Esetleges együttműködési mechanizmusok kialakítása a kiemelt prioritású harmadik
+országokban és régiókban működő uniós küldöttségeken belül;
+12. Az igazságügyi, valamint a határokon átnyúló bűnüldözéssel foglalkozó tisztviselőkre
+összpontosító képzés erősítése;
+13. A szakpolitikai koherencia növelése a képzési programok segítségével;
+14. Az adatok nemek és életkor szerinti bontásban történő gyűjtését és közzétételét szolgáló, egész
+EU-ra kiterjedő rendszer;
+15. Összehasonlítható és megbízható adatok a 2011. és a 2012. évi nyomon követési
+kezdeményezés keretében;
+16. Az interneten és a közösségi hálózatokon keresztül történő toborzással kapcsolatos kutatás;
+17. A munkaerő-kizsákmányolás céljából elkövetett emberkereskedelemmel kapcsolatos ítélkezési
+gyakorlatról szóló tanulmány.
+Az új stratégia kidolgozása során a Magyarország Emberkereskedelem Elleni, 2008 – 2012 közötti
+Nemzeti Stratégiájának értékelése, az emberkereskedelem elleni uniós stratégiában a tagállamokkal
+szemben meghatározott elvárások figyelembe vétele, valamint ezek alapján az új célok és eszközök
+megfogalmazása szükséges, hogy a hatékonyabb küzdelem elősegítése érdekében az eddig elért
+eredményeinkre támaszkodva a kormányzati szintű fellépés megfelelő színvonala és
+folyamatossága biztosított legyen.
+1.1.2. Mandátum
+A kormányzati stratégiai irányításról szóló 38/2012. (III. 12.) Korm. rendelet 35. § (2) bekezdés a)
+pontja szerint a szakpolitikai stratégia előkészítésének megkezdéséről, majd elfogadásáról a
+Kormány dönt. Ennek megfelelően a kormányzati stratégiai dokumentumok felülvizsgálatával
+kapcsolatos feladatokról szóló 1657/2012. (XII. 20.) Korm. határozat alapján a Kormány felhívta a
+belügyminisztert az Emberkereskedelem elleni irányelvhez és az Emberkereskedelem
+Felszámolását Célzó Európai Stratégiához kapcsolódó, valamint az emberkereskedelem elleni
+küzdelemről szóló 2008–2012 közötti nemzeti stratégiát felváltó 4 éves szakpolitikai stratégia
+kidolgozására.
+1.1.3. Készítők
+Ahhoz, hogy az emberkereskedelem elleni küzdelemben jelentkező kihívásokra a szükséges
+holisztikus megközelítést követő komplex válaszokat adhassunk, a stratégia megalkotásába
+szükséges valamennyi érdekelt szereplőt bevonni a kormányzat, az igazságszolgáltatás, valamint a
+nem-kormányzati szektor területéről egyaránt. A stratégiaalkotási folyamatban részt vettek a
+Nemzeti Koordinációs Mechanizmus, illetve az NGO Kerekasztal ülésén részt vett tagok és
+szakértőként az alábbi szervezetek munkatársai az ÁROP projekt keretében kiírt pályázat alapján:
+1. Belügyminisztérium (BM)
+2. Emberi Erőforrások Minisztériuma (EMMI)
+
+3. Fővárosi Főügyészség
+4. Fővárosi Törvényszék
+5. Készenléti Rendőrség Nemzeti Nyomozó Iroda (KR NNI)
+6. Közigazgatási és Igazságügyi Hivatal, Áldozatsegítő Szolgálat (KIH)
+7. Külügyminisztérium (KÜM)
+8. Nemzeti Közszolgálati Egyetem (NKE)
+9. Országos Kriminológiai Intézet (OKRI)
+10. Országos Kríziskezelő és Információs Telefonszolgálat (OKIT)
+11. Országos Rendőr-főkapitányság (ORFK)
+1.2. Tervezési kontextus
+Jelen dokumentum megfelel a 38/2012. (III. 12.) Korm. rendeletben lefektetett szabályozásnak, és
+követi a „Módszertani útmutató a kormányzati stratégiai tervezéshez”, és a „Szakpolitikai
+stratégiaalkotási segédlet” című ajánlást, tekintettel a kormányzati stratégiai dokumentumok
+összhangjának biztosítására.
+1.2.1. Alkalmazott módszertan
+Az alkotók célja egy jövőkép alapú stratégiai dokumentum elkészítése, amely a jelenlegi magyar és
+nemzetközi helyzet figyelembevételével meghatározza a következő minimálisan négy év
+jogalkotási, szolgáltatási- és szervezetfejlesztési, képzési, szemlélet- és tudatformálási feladatait az
+emberkereskedelemhez kapcsolódóan.
+A tervdokumentum alapját korábbi stratégiai dokumentumok tervezési, végrehajtási tapasztalatai
+képezik, amelyet kiegészítettek civil szervezetek és szakértők javaslatai. A stratégiai
+tervdokumentum kidolgozásában résztvevő tagok műhelymunkák, illetve önálló munka keretében
+helyzetelemzés, helyzetértékelés alapján azonosították az emberkereskedelem hazai trendjeit.
+Különböző elemzési technikák által azonosított problémák, valamint a prognosztizálható jövőbeli
+trendek szerint meghatározott jövőkép eléréséhez szükséges beavatkozási területek rögzítésével
+kerültek megállapításra a részletes tervezés alapjai és a stratégia végrehajtásában érintettek köre. A
+tervdokumentum felhasználja a nemzetközi tapasztalatokat, szakértői anyagokat annak érdekében,
+hogy a külföldön sikeresen alkalmazott technikák alkalmazhatóbbá váljanak.
+1.2.2. Alapfogalmak
+Emberkereskedelem: Az emberkereskedelem személyek kizsákmányolás céljából való toborzása,
+szállítása, átadása, rejtegetése vagy fogadása – az adott személyek feletti ellenőrzés
+megváltoztatását vagy átadását is ideértve – fenyegetéssel, erőszakkal vagy egyéb kényszer
+alkalmazásával, emberrablással, csalással, megtévesztéssel, hatalommal vagy a kiszolgáltatott
+helyzettel való visszaélés révén, illetve anyagi ellenszolgáltatásnak vagy előnyöknek valamely
+személy felett ellenőrzést gyakorló személy beleegyezésének megszerzése érdekében történő
+
+nyújtásával vagy elfogadásával. A kiszolgáltatott helyzet olyan helyzet, amelyben az adott személy
+tényleges vagy elfogadható választási lehetőség hiányában kénytelen alávetni magát az adott
+visszaélésnek.1
+Kizsákmányolás: A kizsákmányolás magában foglalja legalább a prostitúció révén történő
+kizsákmányolást, vagy a szexuális kizsákmányolás más formáit, a kényszermunkát vagy –
+szolgáltatásokat – a koldulást, a rabszolgatartást vagy a rabszolgatartáshoz hasonló gyakorlatot és a
+szolgaságot is ideértve -, a bűncselekményhez kapcsolódó kizsákmányolást és a szervek kivételét.2
+1.2.3. Lehatárolás
+A stratégiai tervdokumentum átfogóan kezeli az emberkereskedelem témakörét, a nemzeti
+fellépésre fókuszál. A stratégia a célok meghatározásával kijelöli az emberkereskedelem elleni
+küzdelem főbb irányait, ugyanakkor tartalmazza a célok eléréséhez szükséges eszközöket, ezek
+forrásait, a feladatok felelőseit és a végrehajtási határidőket.
+Jelen stratégia:
+-‐ az emberkereskedelem áldozatainak segítésével, irányításával, azonosításával kapcsolatos
+célok;
+-‐ az emberkereskedelem hatékony megelőzésével kapcsolatos célok;
+-‐ az emberkereskedelem elleni küzdelemben érintett valamennyi kormányzati és nem
+kormányzati intézmény közötti nemzeti és nemzetközi szintű koordináció javításához
+szükséges célok;
+-‐ az emberkereskedelem áldozatainak fokozott védelméhez, illetve az elkövetők felelősségre
+vonásával kapcsolatos szabályozási háttér javítása érdekében megvalósítandó célok;
+-‐ az emberkereskedelem áldozatainak hatékony reintegrációjához elengedhetetlen célok
+teljesítésére korlátozódik.
+Horizontális kérdésként foglalkozik a nemzetközi együttműködéssel és a képzéssel. Kiemelten,
+sérülékeny csoportként kezeli a gyermekeket, fiatalokat, a fogyatékkal élőket, a mélyszegénységben
+élőket, a munkanélkülieket, valamint a nőket- ezen belül is az állami gondoskodásból kikerülő,
+fiatalkorú nőket. A preventív szempontú megközelítés a kiváltó okokat vizsgálva, azokat próbálja
+megszüntetni, enyhíteni. Tekintettel arra, hogy a leghangsúlyosabb kiváltó okok közé tartozik a
+szegénység általi fenyegetettség, a nők elleni erőszak, a társadalmi integráció hiánya, a
+munkalehetőségek, a megfelelő képzéshez, oktatáshoz való hozzáférés hiánya, így egyértelműen a
+fent felsorolt tényezők által sújtott társadalmi csoport(ok) igényel(nek) dominánsabb beavatkozást.
+Mivel a mélyszegénységben élők nagyrészt roma származásúak, továbbá a szexuális célú
+kizsákmányolás női áldozatainak 80-85 százaléka roma, így a tudatosság növelése a romák körében
+1 Az Európai Parlament és a Tanács 2011/36/EU irányelve
+2 Az Európai Parlament és a Tanács 2011/36/EU irányelve
+
+kulcsfontosságú, és a társadalmi csoport specifikumait tekintve sajátos eszközöket kíván meg, azaz
+figyelemmel kell lenni az iskolázottságukra, körülményeikre, a kulturális feltételekre.3
+Az emberkereskedelem elleni küzdelemről szóló 4 éves stratégiai tervdokumentum kidolgozásával
+párhuzamban folyik a Belügyminisztériumban a Migrációs stratégia és az azon alapuló, az Európai
+Unió által a 2014-2020 közötti uniós programozási időszakban létrehozásra kerülő Menekültügyi és
+Migrációs Alaphoz kapcsolódó 7 éves stratégia kidolgozása, illetve az Európai Unió által a 2014-
+2020 közötti uniós programozási időszakban létrehozásra kerülő Belbiztonsági Alaphoz kapcsolódó
+7 éves stratégia kidolgozása. Ebből kifolyólag, illetve terjedelmi korlátai miatt a stratégiai
+tervdokumentum nem kezeli a szervezett bűnözés egyéb formáival, az embercsempészéssel,
+migránsokkal, kísérő nélküli kiskorúakkal való összefüggéseket, nem foglalkozik konkrétan az
+uniós pénzügyi alapokból igényelhető eszközök hatékony felhasználásával.
+1.2.4. A területiség a stratégiában
+Jelen stratégia egy nemzeti stratégia, elsősorban Magyarország területére koncentrál, de a szükséges
+mértékben lefedi a nemzetközi együttműködés szempontjából releváns államokkal való kooperációt
+is.
+1.2.5. Általános célok
+Magyarország alapértékeivel összeegyeztethetetlen, hogy polgárai, illetve a hazánkban tartózkodók
+a modern rabszolgaság áldozatává váljanak. A stratégia alapvető célja az emberkereskedelem
+valamennyi megnyilvánulási formájának visszaszorítása - Magyarország, mint célország és
+Magyarország, mint kiindulási, illetve tranzit ország viszonylatában - mind külső mind belső
+szemszögből, beleértve az emberkereskedelem áldozataiért való kormányzati felelősségvállalásból
+fakadó feladatok és kihívások komplex megfogalmazását és ezekre a megfelelő válaszok
+megadását.
+A stratégiai dokumentumban megfogalmazott célok és intézkedések alapján lehetőség nyílik, hogy
+– egymással szoros összefüggésben – csökkenjen az emberkereskedelemnek áldozatul esettek
+száma; a hatóságok hatékonyabban legyenek képesek fellépni az elkövetőkkel szemben, illetve az
+áldozattá vált személyek irányítása, védelme, ellátása és reintegrációja a jelenleginél sokkal
+hatékonyabban működjön.
+3 ERRC, Breaking the Silence: Trafficking in Romani Communities (2011)
+http://www.socio.mta.hu/dynamic/SzalaiJ_NemenyiM_Kisebbsegek_konyv_Szegenyseg.pdf
+http://noierdek.miria.hu/wp-content/uploads/2013/02/EWL_roma_nok_allasfoglalas_vegleges.pdf
+http://romagov.kormany.hu/download/9/e3/20000/Strat%C3%A9gia_1sz_mell%C3%A9klet_Helyzetelemz%C3%A9s.
+pdf
+http://www.ksh.hu/docs/hun/xftp/idoszaki/nepsz2011/nepsz_03_00_2011.pdf
+http://www.hazaeshaladas.hu/ftp/elso_tanulmany/tanulmany.pdf
+http://www.mtapti.hu/mszt/20024/ladanyi.htm
+
+II. KONCEPCIÓ
+2.1. Helyzetelemzés és helyzetértékelés
+Az emberkereskedelem jelensége
+A célzott és eredményes fellépés érdekében eltérő hozzáállást, más-más megközelítést igényel a
+szexuális és a munka célú kizsákmányolás, megint mást a szervkereskedelem elleni küzdelem.
+Az emberkereskedelem magában foglalja különösen a prostitúciós vagy kényszermunka jellegű
+kizsákmányolást, a szervezett koldultatást, az illegális örökbefogadást, illetve a szervkereskedelmet.
+Az emberkereskedelem különböző formái több szempontból eltéréseket mutatnak,
+megkülönböztethető az áldozati kör, eltérő nagyságrendű a hazai érintettség, ennek ellenére a
+stratégiában megfogalmazott intézkedések szintjén – tekintve, hogy a stratégia az
+emberkereskedelem komplex problémáját kívánja megragadni – nem indokol külön tervezést. Az
+intézkedések megvalósítása során már szükségessé válhat az emberkereskedelem egyes formái
+szerinti differenciálás az alkalmazott módszertan, technika tekintetében, de ennek kibontása
+túlmutat a stratégia keretein.
+Általános helyzetkép
+Az emberi méltósághoz fűződő jog alapján megengedhetetlen, hogy az ember maga kereskedés,
+illetve kizsákmányolás tárgyává váljon. Ezért Magyarország 2011. április 25-én kihirdetett
+Alaptörvénye az alapvető jogokat és kötelezettségeket taglaló Szabadság és Felelősség fejezetének
+III. cikk (1) bekezdése értelmében „Senkit nem lehet kínzásnak, embertelen, megalázó
+bánásmódnak vagy büntetésnek alávetni, valamint szolgaságban tartani. Tilos az
+emberkereskedelem.” Az Alaptörvényben rögzített elv érvényre juttatását segíti, hogy
+rendelkezésünkre áll egy uniós standardoknak és az alapvető nemzetközi elvárásoknak is megfelelő
+jogszabályi keret, és egy intézményi alapstruktúra is.
+Az emberkereskedelem elleni fellépés koordinátora Magyarországon jelenleg a Belügyminisztérium
+Európai Uniós és Nemzetközi Helyettes Államtitkára. A koordinátor biztosítja az együttműködést a
+különböző állami és nem állami szervezetek között, valamint nemzetközi, európai, és nemzeti
+szinten is felelősséget vállal Magyarország emberkereskedelem ellenes lépéseiért. A nemzeti
+koordinátor által elnökölt kormányzati mechanizmusban valamennyi érintett tárca és állami
+szereplő képviselteti magát, operatív munka révén biztosítja a koherens fellépést, a felmerülő
+feladatok végrehajtásának koordinálását. A Nemzeti Koordinációs Mechanizmus állandó tagjai:
+Belügyminisztérium, Emberi Erőforrások Minisztériuma, Közigazgatási és Igazságügyi
+Minisztérium, Külügyminisztérium, Országos Rendőr-főkapitányság, Készenléti Rendőrség
+Nemzeti Nyomozó Iroda, Közigazgatási és Igazságügyi Hivatal Áldozatsegítő Szolgálat,
+Bevándorlási és Állampolgársági Hivatal, Nemzeti Foglakoztatási Szolgálat, Országos Bírósági
+Hivatal, Legfőbb Ügyészség, Fővárosi Törvényszék, Országos Kriminológiai Intézet, Országos
+
+Kríziskezelő és Információs Telefonszolgálat, Nemzetközi Migrációs Szervezet, Lehetőség
+Családoknak 2005 Alapítvány. A Belügyminisztérium felelős az emberkereskedelem elleni
+küzdelem kormányzati koordinációs feladatainak ellátásáért. Külön erre a célra költségvetésében
+nem jelenik meg forrás. A Készenléti Rendőrségi Nemzeti Nyomozó Iroda keretében működik egy
+Emberkereskedelem Elleni Alosztály, amely jelenleg 11 fővel látja el feladatát éves működésének
+költsége hozzávetőlegesen 67.000.000 Ft-tal terheli a központi költségvetést. Az Emberi
+Erőforrások Minisztériuma számos, az emberkereskedelem elleni küzdelemhez közvetetten
+kapcsolódó feladat ellátásban érintett, ugyanakkor ehhez a célhoz rendelten éves költségvetésében
+jól azonosíthatóan kizárólag a védett szálláshely fenntartására évente fordított összesen 6 millió Ft
+jelenik meg. A Külügyminisztérium a legszükségesebb esetben kölcsönt nyújt a külföldön bajba
+jutott áldozatoknak, hogy finanszírozzák hazajutásukat, ugyanakkor ezt az összeget az áldozatnak
+vissza kell térítenie. Ezért a biztonságos hazajutás garantálásához a költségek kalkulálásánál
+figyelembe kell venni azt is, hogy gyakran a konzuli szolgáltatás igénybe vétele nélkül,
+leggyakrabban egy, az emberkereskedelem áldozataival is foglalkozó civil szervezet, például az
+IOM segítéségét veszik igénybe az áldozatok. A Közigazgatási és Igazságügyi Hivatal és az
+Áldozatsegítő Szolgálatok általános feladataik ellátása keretében kezelik az emberkereskedelem
+áldozatait is, a többi mechanizmusban érintett szervezet szintén ilyen módon kapcsolódik az
+emberkereskedelem elleni küzdelemhez, azonban kifejezetten ehhez a célhoz rendelt tevékenységük
+költségvetési hatása nem mutatható ki. Mivel az emberkereskedelem elleni küzdelem egyes
+aspektusai önálló feladatként nem jelennek meg a fent említett szervezeteknél, ezért nem rendelnek
+hozzá önálló költségvetési forrást sem. A feladatok végrehajtása ennek következtében egyéb
+feladatokhoz rendelt pénzügyi eszközök terhére, ad hoc forráskeresés segítségével valósul meg.
+Az emberkereskedelem elleni harc három alapvető pillére az áldozatsegítés, a bűnüldözés (az
+elkövetők felelősségre vonása), valamint az áldozattá válás megelőzése.
+Magyarország az emberkereskedelem szempontjából alapvetően kiindulási, illetve tranzit ország,
+egyes régiók tekintetében célország. Az elmúlt időszak fejleményei azt mutatják, hogy kiindulási
+ország jellege és a belső emberkereskedelem okozza a legnagyobb problémákat. Mindezek okán
+elengedhetetlen a nemzeti koordináció mellett a nemzetközi kapcsolatok ápolása, az együttműködés
+fejlesztése. Ebből kifolyólag egyre szorosabb kapcsolatot építettünk ki a célországnak tekintett
+Ausztriával, Belgiummal, Hollandiával, Németországgal, Svájccal. A nemzeti koordinátorok
+közreműködése és a rendészeti együttműködés is jelentős fejlődésen ment keresztül. A továbblépés
+lehetséges útja egy transznacionális áldozatirányító rendszer kidolgozása (Transnational Referral
+Mechanism) a magyar szempontból célterületnek számító országok között.
+Az emberkereskedelem a kiindulási, tranzit és célországokban egyaránt problémaként jelentkezik
+azonban leginkább a célországokban válik érdemben láthatóvá. Hazánk esetében az
+emberkereskedelem a társadalom számára kevésbé érzékelhető, mint a szubjektív biztonságérzetet
+jelentősen befolyásoló más erőszakos, illetve vagyon elleni bűncselekmények. A Büntető
+Törvénykönyv hatályos törvényi tényállása okán, a belföldön jelentkező emberkereskedelem
+statisztikailag nem mérhető. Ezért, jóllehet az emberkereskedelem belföldi megjelenési formáival
+
+kapcsolatos tendenciák a témában érintettek számára ismertek, a hazai emberkereskedelem elleni
+célzott és eredményes fellépés valamennyi közreműködő szervezet fokozottabb együttműködését,
+információcseréjét, közös fellépését igényli.
+Magyarországon a rendelkezésre álló hazai és nemzetközi információk alapján az
+emberkereskedelem áldozatainak döntő többsége szexuális célú kizsákmányolás áldozata, emellett
+egyre több munkára kényszerítéssel összefüggő eset válik ismertté, míg a szervkereskedelem
+hazánkban elenyésző.
+A 2011/36/EU európai parlamenti és tanácsi irányelv az Európa Tanács Emberkereskedelem Elleni
+Fellépéséről szóló Egyezmény által teremtett alapokon nyugszik, azokat továbbfejlesztve erősíti a
+tagállamok fellépését.
+Magyarország jogalkotási szinten teljesítette az irányelvből fakadó implementációs kötelezettségeit.
+A 2013. július 1-jén hatályba lépő a Büntető Törvénykönyvről szóló 2012. évi C. törvényben
+(továbbiakban új Btk.) az emberkereskedelem bűncselekménye új törvényi tényállásának
+megfogalmazása megfelel a nemzetközi egyezmények4, illetve az említett uniós irányelv
+elvárásainak. Mivel az irányelv átültetése révén elhárultak a jogi akadályok, kihirdetésre került a
+2013. évi XVIII. törvény az Európa Tanács Emberkereskedelem Elleni Fellépésről szóló
+Egyezményéről.
+Az új Btk. 192. §-ában az emberkereskedelem különös részi tényállása - az addig hatályos tényállás
+mintegy kiegészítésével és jól bevált fordulatainak megtartásával - új elemként szabályozza a
+kizsákmányolási célzattal történő elkövetést. Az emberkereskedelem jelenségének sajátosságát
+figyelembe véve az adás-vétel mellett kellő hangsúlyt kapott a kizsákmányolási jelleg. A
+kizsákmányolási célzattal elkövetett emberkereskedelem büntetési tételét az új Btk. egy évtől öt
+évig terjedő szabadságvesztésben határozza meg. Ezzel együtt a bűnszervezetben történő elkövetés
+esetén büntetési tételének felső határa pedig tíz évre emelkedik. Az új Btk. szerint a kizsákmányolás
+központi fogalmi eleme a kiszolgáltatott helyzetbe hozott vagy helyzetben tartott sértett helyzetének
+kihasználásával előny szerzésre törekvés. Nem szükséges tehát a bűncselekmény
+megvalósulásához, hogy az elkövető ténylegesen vételárat szerezzen a sértett eladásából, vagy a
+sértett keresményét, bevételét tőle ténylegesen elvegye. Előnyön nemcsak az anyagi előnyt, hanem
+bármely más olyan kedvezményt, fölényt, előnyös helyzetet is érteni kell, amely a sértett
+kiszolgáltatott helyzetével való visszaélés révén áll, vagy állhat elő. A kiszolgáltatott helyzet lehet
+egy tényező vagy tényezők összessége, amelyek azt eredményezik, hogy a sértett védtelen az
+elkövetővel szemben. A kiszolgáltatott helyzet előállhat az elkövető magatartása, cselekménye
+révén, vagy attól függetlenül. Utóbbi esetben az elkövetői visszaélés a már meglévő kiszolgáltatott
+helyzet (például hajléktalanság, kilátástalan anyagi helyzet) fenntartásával, vagy az abból való
+kilábalás megakadályozásával valósul meg. Az emberkereskedelem tényállását az új Btk.
+4 Palermói Protokoll, illetve az Európa Tanács 197. számú egyezmény
+
+rendszerében továbbra is kiegészítik a prostitúcióhoz kapcsolódó, un. élősködő bűncselekmények,
+illetve a szexuális és a gyermekek védelmét szolgáló egyéb rendelkezések.
+Az új Btk. tényállása ezen túlmenően szükségszerűen tükrözi azokat a kiemelt területeket is,
+amelyekre a jogalkotó fokozott figyelmet kívánt fordítani. A teljesség igénye nélkül: a szexuális
+kizsákmányolás keretei között kiemelt szerepet kapott a gyermekpornográfia céljából elkövetett
+cselekmény; alapvető elhatárolást jelent a sértetti életkor, a 18., illetve a 14. életév alatti sértettek
+fokozott védelemben részesülnek; ugyancsak minősítő körülmény az elkövető nevelése, felügyelete,
+gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve - új elemként - a sértettel
+kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonnyal visszaélve elkövetett cselekmény.
+Ezeknek az újításoknak köszönhetően az irányelv átültetésével a büntetőjogi szabályozás
+összhangba került a nemzetközi követelményekkel. Meg kell jegyezni, hogy az új Btk. külön
+tényállásban bünteti a kényszermunkát. A hatályos Btk. a személyi szabadság megsértésének
+tényállásában rendelte büntetni azt, aki emberkereskedelemmel összefüggésben megszerzett és a
+személyi szabadságától megfosztott sértett személy szabadságának megfosztását fenntartotta, és a
+sértettet munkavégzésre kényszerítette. A kényszermunka megállapításának feltétele, hogy az
+elkövetési magatartás meghatározott módon, másnak a kiszolgáltatott helyzetét kihasználva, illetve
+erőszakkal vagy fenyegetéssel menjen végbe, amely az uniós szemléletmód még teljesebb
+átültetését és az azzal való azonosulást biztosítja.
+A szexuális célú kizsákmányolással összefüggésben meg kell említeni, hogy a prostitúció kérdése
+jogilag rendezetlen, a jelenség megnyugtató megoldását illetően hiányzik a társadalmi, jogi,
+politikai konszenzus, a hatályos jogszabályok alkalmazása kifogásolható.
+A jogszabályi környezetet érintően új elemként jelent meg a bűncselekmények áldozatainak
+segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (Ást.) módosítása és az
+emberkereskedelem áldozatai azonosításának rendjéről szóló kormányrendelet is.5
+Az Ást. egyes rendelkezései akként módosultak, hogy az emberkereskedelem áldozatai a
+büntetőeljárásban való együttműködésüktől függetlenül részesülhessenek az emberkereskedelem
+áldozatai részére nyújtható speciális támogatásokban.
+A Kormány a közelmúltban rendeletben szabályozta az áldozatirányítás rendjét, ez a jogszabály
+általános jelleggel rögzíti a felelős hatóságok körét és együttműködésük rendszerét.
+2.1.1. Korábbi stratégiai dokumentumok tervezési, végrehajtási tapasztalata
+Az Emberkereskedelem Elleni, 2008-2012 közötti Nemzeti Stratégiáról szóló 1018/2008. (III. 26.)
+Korm. határozatban megjelent, emberkereskedelem elleni nemzeti stratégia Magyarország első
+nemzeti stratégiája volt ezen a területen. A stratégiához ugyan nem készült cselekvési terv, a
+5 Az emberkereskedelem áldozatai azonosításának rendjéről szóló 354/2012. (XII. 13.) Korm. rendelet
+
+legtöbb benne foglalt célkitűzés megvalósult, hiszen maga a dokumentum kellően cselekvés-
+orientáltan fogalmazott.
+2.1.2. Helyzetelemzés és értékelés területi megközelítései
+A jelenleg rendelkezésre álló bűnügyi statisztikák és a jelenség kezelésében érintett szervezetek
+tapasztalatai alapján nyilvánvaló, hogy Magyarország egyes területei bűnügyileg nem egyformán
+fertőzöttek az emberkereskedelem valamennyi formája és az ahhoz kapcsolódó bűncselekmények
+tekintetében. Az alacsony gazdasági aktivitást mutató megyékben sokkal nagyobb az áldozattá válás
+aránya és esélye, függetlenül attól, Magyarországon belüli vagy nemzetközi emberkereskedelemről
+van szó.
+A határon átnyúló emberkereskedelem tekintetében a magyar áldozatok elsősorban Európa azon
+országaiban jelennek meg, ahol adott a fizetőképes kereslet, valamint a célország jogszabályi
+környezete jobban kihasználható, illetve amelyek meghatározott gazdasági szektorok szempontjából
+a legális munkavállalók körében is nagyobb érdeklődést élveznek. A nyelvet nem beszélő,
+megfelelő tartalékokkal nem rendelkező csoportok a legveszélyeztetettebbek a határokon átnyúló
+emberkereskedelem szempontjából.
+2.2. SWOT-elemzés
+A fentiekben bemutatott helyzetelemzés alapján készült el a stratégiai terület SWOT elemzése, és
+egy helyzetértékelő összegzés.
+2.2.1. SWOT - elemzés a négy dimenzió mentén
+Erősségek
+ emberkereskedelemmel kapcsolatos
+nemzetközi és EU-s normák jelentős része
+átültetésre került
+ az új Btk. is megteremti az arányos és
+valóban visszatartó erővel bíró szankciók
+rendszerét, ha a jogalkotó által kínált
+lehetőségekkel a jogalkalmazók élni is tudnak
+ az áldozatsegítő szolgálatok tevékenysége
+kiterjed az emberkereskedelem valamennyi olyan
+áldozatára, aki a rendszer látókörébe kerül
+ az áldozatok számára a hatósággal való
+együttműködéstől függetlenül biztosított a
+védelem és az alapvető szükségletek kielégítése
+ országos lefedettséggel áldozatvédelmi
+referensi hálózat működik a rendőrségen belül
+ önálló egység a Készenléti Rendőrség
+Nemzeti Nyomozó Irodánál a nemzetközi
+vonatkozású és szervezett elkövetői csoportokhoz
+köthető ügyek nyomozására
+Gyengeségek
+ nehéz valóban hatékony megelőzési
+intézkedéseket kidolgozni, a megvalósított programok
+eredményei pedig nehezen mérhetők
+ az új jogszabályi hátteret a gyakorló szakemberek
+még nem ismerik kellőképpen, az ezek által feltételezett
+szemléletváltás kezdeti stádiumban van
+ nincs a gyakorlatban jól működő egységes
+áldozatirányítási rendszer
+ az átmeneti szállás kapacitáshiánya
+ alacsony az áldozatsegítő szolgálatoknál dolgozó
+pszichológusok és szociális munkások száma
+ az alacsony ügyszám miatt az érintett szerveknél
+szakmai tapasztalat és gyakorlat hiánya
+ fennáll a másodlagos viktimizáció veszélye
+ a jelenség vizsgálatát lehetővé tevő adatbázis,
+kvalitatív vizsgálat illetve átfogó tudományos kutatás
+hiánya, az adatgyűjtés koordinálatlansága
+ a civil szervezetek anyagi lehetőségei
+
+ prevenciós programok megvalósítását
+segítő országos lefedettségű hálózat megléte
+(Család, Esélyteremtési és Önkéntes Házak
+Hálózata)
+ civil szervezetek gyakorlati tapasztalata,
+felkészültsége
+korlátozottak, kevés lehetőségük van pályázni, forrást
+szerezni
+ a hatóságok közötti együttműködés javításra
+szorul, a jelzőrendszer működésének erősítése szükséges,
+nincsenek intézményesített elektronikus, illetve személyes
+találkozási pontok
+Lehetőségek
+ bevált nemzetközi programok, modellek
+eredményei, jó gyakorlatai hasznosíthatóak
+ a 2012/29/EU irányelv valamennyi
+áldozat, így az emberkereskedelem áldozatai
+számára is többletjogosultságokat biztosít az
+eddigiekhez képest
+ a gyermekvédelmi és a hozzátartozók
+közötti erőszak áldozatait segítő jelzőrendszer
+tapasztalatai rendelkezésre állnak,
+felhasználhatók
+ az EUROJUST ösztönzi és javítja a
+tagországok igazságügyi hatóságai közötti
+koordinációt, illetve anyagi forrást biztosít
+ az EUROPOL folyamatosan bővíti a
+nemzetközi bűnügyi együttműködés
+koordinációjához nyújtott támogatási kapacitását
+ 2014-2020 közötti időtartamban jelentős
+EU-s források állnak rendelkezésre
+Veszélyek
+ a Magyarországról kialakuló képet kedvezőtlenül
+befolyásolja az Európai Unió különböző tagállamaiban, a
+kínálati oldalon megjelenő áldozatok jelentős száma és
+helyzete
+ fokozódó nyomás a nyugat-balkáni országokból:
+egyre több áldozatot szállítanak hazánkon keresztül és a
+gazdasági válság okozta gazdasági különbségek ezt a
+veszélyt jelentősen növelik
+ egyes tagállamok nem kellően koordinált fellépése
+elősegítheti az elkövetési módszerek, minták gyors és
+jelentős változását, ami nem csupán az erre fel nem készült
+új célország, de a kiinduló ország, illetve az esetlegesen
+megváltozó tranzit útvonalba belekerülő országok
+hatóságait is hirtelen állíthatja új kihívások elé
+
+2.3. Probléma mátrix
+A probléma mátrix az emberkereskedelem területén jelentkező megoldásra váró feladatokat,
+problémákat jeleníti meg az egymáshoz való viszonyuk feltárásával.
+
+A
+ belföldön
+ jelentkező
+ emberkereskedelem
+ az
+ eljáró
+ hatóságok
+ előtt
+ szinte
+ láthatatlan,
+
+érdemben
+ más
+ bűncselekmények
+ által
+ leplezett
+ és
+ ekként
+ is
+ kezelt
+ jelenség.
+ Míg a magyar
+rendvédelemi és igazságszolgáltatási statisztikák alapján éves szinten alig néhány ügyről beszélünk,
+a valós szám – a magyar áldozatokra vonatkozó nemzetközi statisztikák alapján – jóval magasabb.
+Az azonosított áldozatok, illetve az elkövetők elleni eljárások száma alacsony, amelynek oka az
+áldozatok áldozattudatának hiánya, az emberkereskedők általi megfélemlítettségük, kilátástalan
+helyzetük lehet. Az áldozatok nincsenek tisztában jogaikkal, a számukra nyitva álló lehetőségekkel
+és azok korlátaival. Nem bíznak az áldozatsegítési és védelmi rendszerünkben, így
+érdekérvényesítési és önmenedzselési képességük nem megfelelő.
+Elsősorban a szexuális célú kizsákmányolás áldozataira jellemző, hogy nem rendelkeznek
+áldozattudattal, életkörülményeik miatt nem ismerik fel, hogy emberkereskedelem áldozataivá
+váltak és gyakran az anyagi felemelkedés lehetőségét látják a prostitúcióban. A magyar társadalom
+megosztott a prostitúció megítélésében, sokan nem úgy tekintenek rá, mint szexuális célú
+kizsákmányolásra. A munka célú kizsákmányolásra irányuló emberkereskedelem jelensége sincs
+jelen kellő súllyal a köztudatban, holott egyre több magyar állampolgár vállal külföldön munkát és
+válhat emberkereskedelem potenciális áldozatává.
+A Büntető Törvénykönyv hatályos (hatályos 2013. június 30-ig) törvényi tényállása csak részben
+felelt meg a nemzetközi szerződések követelményrendszerének, ami a joggyakorlat számára is
+jelentős nehézségeket okozott. Több bűncselekmény törvényi tényállása is érintette, tiltotta az
+emberkereskedelem tág értelemben vett elkövetési magatartását, ugyanakkor a jelenség lényegi
+eleme, az áldozatok kizsákmányolása nem kapott, nem kaphatott megfelelő hangsúlyt. Az
+emberkereskedelem bűntettének törvényi tényállása csupán a jelenség rendkívül szűk területére
+koncentrált, egyben komoly bizonyítási nehézségeket is okozott. A bűnügyi statisztikákban
+megjelenő alacsony számok inkább e formai okokra, semmint az emberkereskedelem elkövetésének
+tényleges hiányára vezethetők vissza.
+Új bűnüldözési technikák kidolgozása, átvétele és alkalmazása, a rendvédelmi szervek és az
+áldozatsegítők integrált együttműködése hozzájárulhatna az elkövetők elleni hatékonyabb
+fellépéshez. Az új jogi szabályozás szintén jó lehetőségeket rejt magában, de azok kihasználásához
+a rendvédelem és igazságszolgáltatás szereplőiben ezen elemek rövidtávon történő tudatosítása és
+az egységes alkalmazásra történő ösztönzés szükséges. Az igazságszolgáltatás szereplőinek még
+nincs elég tapasztalata és gyakorlata az emberkereskedelemmel kapcsolatos ügyek kezelésében, az
+áldozatok azonosításában. A büntetőeljárások keretében az áldozatok szerepe nem megfelelően
+rendezett, sajátos helyzetük, igényeik kezelése a jelenlegi gyakorlat, illetve rendelkezések alapján
+nem megfelelő.
+Ebből kifolyólag az áldozatok nem bíznak eléggé az igazságszolgáltatásban és abban, hogy egy
+esetleges büntetőeljárás esetén számukra megnyugtató végeredmény születik, mint ahogy abban
+sem, hogy az eljárás garantálja számukra a másodlagos viktimizáció elkerülését. Az ismételt
+
+áldozattá válásnak a nem megfelelően rendezett áldozatsegítési és áldozatirányítási rendszer is oka
+lehet, mivel az áldozatok irányítása, reintegrációja nem átláthatóan, protokollok mentén megy
+végbe. Az állami reintegráció alulfinanszírozott és túlszabályozott, az ellátórendszer jelenleg nem
+rendelkezik sem felhatalmazással, sem kapacitással az áldozatok megfelelő társadalmi
+reintegrációjának segítésében. Az ellátási idő erre nem ad lehetőséget, nem megoldott az áldozatok
+sorsának nyomon követése. Ebből adódóan magas az ismételten áldozattá válók aránya, függetlenül
+attól, hogy ez fizikai kényszer, vagy megélhetési kényszer hatására következik be.
+2.3.1. Problémafa
+
+2.3.2. Problémák
+Kockázatelemzés és kutatás
+Nincs kockázatelemzés és célzott, rendszerezett kutatás az emberkereskedelem aktuális helyzetéről
+és a vele szoros összefüggésben lévő társadalmi problémákról, az érintett áldozatokról, a
+rendelkezésre álló eszközökről.
+Megelőzés
+Magyarországon a keresleti és a kínálati oldal csökkentését célzó megelőzési tevékenység a
+kormányzati és civil oldalon egyaránt megjelenik, azonban ezek összehangolása szükséges a
+hatékonyság fokozásához. Számos program valósult meg, illetve indult el az áldozattá válás
+elkerülése érdekében, viszont hatékonyságuk alacsony és eredményük nehezen mérhető.
+További eredményes, intenzívebb szemlélet- és tudatformálást, tudatosságnövelést elősegítő lépésre
+van szükség. A kínálatcsökkentés mellett a keresletcsökkentésre is figyelmet kell fordítani. A
+médiának jelentős szerepe van a szemlélet- és tudatformálásban. A jelenlegi sztereotípiákat erősítő
+hatása viszont kifejezetten káros az emberkereskedelem elleni küzdelemben. Az
+emberkereskedelem jelenségét sem a jogalkotó, sem a társadalom nem tekinti központi kérdésnek,
+illetve problémának.
+Az emberkereskedelemmel kapcsolatos adatgyűjtés gyakorlata kezdetleges, egységesítésre és
+fejlesztésre szorul, mert jelenleg nem szolgálja a szakpolitikai döntések megalapozását.
+Áldozatazonosítás, áldozatirányítás, áldozatsegítés
+Az áldozattá válásban meghatározó faktor az áldozatok kiszolgáltatott helyzete, amelynek kezelése
+komplex társadalmi problémák orvoslásával, a társadalmi felzárkózáshoz rendelt kapacitások
+bevonásával történhet meg. Ennek érdekében szükséges a jelenség pontos analizálása, a lehetséges
+beavatkozási pontok meghatározása, amely több érintett szaktárca együttműködésével valósulhat
+meg.
+Az áldozatok támogatásának szükségességét illetően széleskörű konszenzus van. Az eszközrendszer
+kisebb fejlesztéssel megfelelő lenne, azonban ezen a területen egyre nagyobb humánerőforrás hiány
+mutatkozik. Néhány kivételtől eltekintve a nem kormányzati szervezetek sem rendelkeznek
+megfelelő kapacitásokkal az emberkereskedelem elleni küzdelemhez.
+A szakemberek nem rendelkeznek elegendő gyakorlattal és tudással, így nem tudnak hatékonyan
+segítséget nyújtani a rászorulóknak. Az áldozatazonosítási, áldozatirányítási, és áldozatvédelmi
+rendszer fejlesztésre szorul. Olyan szakmai protokollok és képzési anyagok szükségesek, amelyek
+reflektálnak az emberkereskedelem specialitásaira.
+
+Az áldozatok támogatását - korlátozott kapacitásuk miatt - sem a kormányzati szervek, sem a
+közreműködő civil szervezetek nem képesek önállóan, hatékonyan ellátni.
+Igazságszolgáltatás, rendvédelem
+Az emberkereskedelemmel összefüggésben eddig megindított büntetőeljárások alacsony száma és
+eredményei egyértelműen új fogalomrendszer kialakítását, új típusú megközelítést tettek
+szükségessé, egyben a területen szerzett tapasztalatok felhasználásával megkövetelik a jelenlegi
+rendszerek fejlesztését, újragondolását is.
+Az emberkereskedelemmel összefüggésben a rendőrségen belüli, illetve a területi és helyi
+szerveknél kijelölt szakemberek együttműködése nem elég hatékony, az általános túlterheltség okán
+az emberkereskedelemmel kapcsolatos speciális, illetve többlet feladataikat nem tudják hatékonyan
+ellátni.
+A szervezett bűnözés elleni eredményes fellépés egyik legfontosabb eszközeként, az
+emberkereskedelem elleni küzdelemben is kiemelt szerepet kellene kapni a bűnös tevékenységből
+származó vagyon maradéktalan elvonásának. Ennek ellenére a vagyonelvonás jogi eszközrendszere,
+illetve annak gyakorlati alkalmazása elégtelen, a vagyonmenedzsment megoldatlan, az e területen
+felhasználható emberi és technikai kapacitások hiányosak.
+A büntetőeljárások alacsony számából következően az igazságszolgáltatás szereplőinek nincs elég
+tapasztalata és gyakorlata az emberkereskedelemmel kapcsolatos ügyek kezelésében, az áldozatok
+azonosításában. Hiányoznak a terület-specifikus ismeretek megszerzését lehetővé tevő rendszeres
+képzések.
+A büntető igazságszolgáltatás rendszerében az áldozatok speciális igényei nem kapnak megfelelő
+hangsúlyt. A másodlagos viktimizáció gyakori, az ennek elkerülését szolgáló eljárásjogi eszközök
+elégtelenek, a technikai eszközök, feltételek hiányoznak, hiányosak. A rendelkezésre álló
+eszközrendszer áldozatbarát felhasználását lehetővé tevő gyakorlati technikák intézményesen
+nincsenek kidolgozva, bevezetve.
+A büntetőeljárás tanúvédelmi eszközrendszere, illetve annak gyakorlata az emberkereskedelem
+áldozatai speciális igényeinek, védelmének biztosítására nem megfelelő.
+Mindezekre is figyelemmel az áldozatok igazságszolgáltatásba vetett bizalma alacsony, a
+büntetőeljárást alkalmatlannak tartják a gyors, hatékony fellépésre, nem tekintik a sérelmükre
+elkövetett cselekményt felszámolni, megszüntetni képes megoldásnak. Az áldozatok
+együttműködésének hiánya, készsége alapvetően hátráltatja az eredményes büntetőeljárások
+lefolytatásának reális lehetőségét.
+
+Reintegráció
+A reintegráció eddig nem kapott kellő hangsúlyt az emberkereskedelem elleni küzdelemben, e
+területen jelentős előrelépés szükséges.
+Az áldozatok társadalmi reintegrációjának biztosítására léteznek szakpolitikai tervek, viszont meg
+kell teremteni azok megvalósításához szükséges forrásokat. Nem hagyható figyelmen kívül, hogy
+az említett problémák kezelése jelentős forrásigénnyel párosul, amelynek biztosítására az uniós
+források mellett megfelelő mértékű, stabil költségvetési forrást is biztosítani szükséges.
+A hazatérő áldozatok és a belföldön áldozatul esők számára védett elhelyezést és komplex
+segítőszolgáltatást biztosító ellátórendszer nem rendelkezik elegendő férőhellyel. Az áldozatok
+ellátása a krízishelyzet megszüntetésére korlátozódik a rövid (maximum kétszer 90 napos) ellátási
+idő miatt. Félutas/kiléptető házak hiányában nem megoldott a krízisellátásból kilépett személyek
+társadalmi reintegrációja sem. A segített áldozatok sorsának nyomon követését biztosító protokoll
+jelenleg még nem kidolgozott.
+Hiányzik az emberkereskedelem elleni küzdelemre elkülönített dedikált költségvetési forrás, amely
+megnehezíti az emberkereskedelem elleni fellépést.
+Összességében elmondható, hogy a hatékony emberkereskedelem elleni küzdelemhez alapvetően
+megfelelő jogszabályi környezet áll rendelkezésünkre, és a kormányzati szintű koordináció
+működésének praktikus feltételei is adottak. A konkrét intézkedések megvalósítása azonban inkább
+ad hoc alapon történik, a programozottság hiányzik. Van tennivalónk az áldozatazonosítás,
+áldozatirányítás, áldozatvédelem fejlesztése, a hatékony megelőzés és tudatformálás, az elkövetők
+felderítése, felelősségre vonása, az áldozatok jogainak és érdekeinek megóvása, a koordináció
+megerősítése, a biztonságos visszatérés és reintegráció területén. Fontos, hogy konkrét,
+intézkedések fogalmazódjanak és valósuljanak meg a tervidőszak végére, ezzel garantálhatjuk az
+emberkereskedelem elleni küzdelmünk hatékonyságának szignifikáns erősödését.
+2.4. A területre vonatkozó horizontális szempontok
+A gyermekek védelme
+Megkülönböztetett figyelemben és védelemben kell részesíteni azokat a gyermekeket, akik a
+kizsákmányolás bármely formája által veszélyeztetettek és különösen azokat a gyermekeket, akik
+már áldozatul estek. Az őket érintő céloknál, intézkedéseknél fontos erre a megkülönböztetésre
+tekintettel lenni.
+A képzés szerepe
+Az emberkereskedelem elleni küzdelem komplex megközelítésének egyik legfontosabb eleme a
+képzés és szemléletformálás, amely a stratégiai tervdokumentum valamennyi prioritásában jelen
+
+van. Az áldozatokkal foglalkozó szakemberek, illetve a velük kapcsolatba kerülő valamennyi
+személy számára rendszeresen lehetővé kell tenni a továbbképzéseken történő részvételt, valamint
+támogatni akár egyes szakterületeket érintő, akár a teljes problémakört lefedő munkaműhelyek
+létrehozását.
+Az emberkereskedelem áldozatai számára a társadalmi integrációjuk vagy reintegrációjuk
+elősegítését szolgálja a számukra elérhető képzések, speciális programok szervezése. Emellett a
+képzésnek fontos szerepe van az áldozattá válás megelőzésében is.
+Nemzetközi együttműködés szerepe
+Az emberkereskedelem elleni küzdelem az ENSZ, az Európa Tanács és az Európai Unió
+napirendjén is prioritást élvező téma. Az emberkereskedelem elleni küzdelem jelentős hányada
+határon átnyúló jelleget ölt. Magyarország származási és tranzit ország a nemzetközi
+együttműködés szempontjából. Megítélése hosszabb távon negatív irányba változhat, ha a
+társadalom és az állam nem tesz meg mindent a rendelkezésekre álló eszközök mellett az
+emberkereskedelem elleni hatékony fellépés érdekében összefogva a problémában érintett
+országokkal és nemzetközi szervezetekkel.
+Nemiség szerepe
+A szexuális kizsákmányolással összefüggésben figyelmet kell szentelni annak, hogy a rendelkezésre
+álló információk szerint a nők aránya kimutathatóan jelentősebb az emberkereskedelem áldozatai
+között, a munka célú kizsákmányolással összefüggésben pedig a férfiak aránya magasabb. A
+szexuálisan kizsákmányoltak között különösen felülreprezentált a roma nők aránya, amely egyenes
+következménye a mélyszegénység, az izoláció, a képzettség és munkahely hiányának körükben
+megmutatkozó arányának.6 Azoknál a céloknál, intézkedéseknél, ahol releváns lehet, erre a
+megkülönböztetésre tekintettel kell lenni.
+2.5. A beavatkozás érintettjei
+A beavatkozási területek vonatkozásában leginkább érintettek:
+6 ERRC, Breaking the Silence: Trafficking in Romani Communities (2011);
+http://www.socio.mta.hu/dynamic/SzalaiJ_NemenyiM_Kisebbsegek_konyv_Szegenyseg.pdf
+http://noierdek.miria.hu/wp-content/uploads/2013/02/EWL_roma_nok_allasfoglalas_vegleges.pdf
+http://romagov.kormany.hu/download/9/e3/20000/Strat%C3%A9gia_1sz_mell%C3%A9klet_Helyzetelemz%C3%A9s.
+pdf
+http://www.ksh.hu/docs/hun/xftp/idoszaki/nepsz2011/nepsz_03_00_2011.pdf
+http://www.hazaeshaladas.hu/ftp/elso_tanulmany/tanulmany.pdf
+http://www.mtapti.hu/mszt/20024/ladanyi.htm
+
+Az érintett tárcák, az igazságszolgáltatás szereplői, beleértve a rendőrséget7, ügyészséget, bíróságot,
+az áldozat azonosítás, irányítás, védelem szempontjából releváns háttérintézményeket és alárendelt
+szerveket, illetve a képzésben érintett intézményeket.
+2.5.1. A beavatkozás területei
+A stratégia az emberkereskedelem problematikáját a hatályos Európai Uniós irányelvek alapján öt
+fő beavatkozási területre bontotta. Az egyes fő prioritásokon belül részterületek kerültek
+megfogalmazásra.
+Fő prioritások
+A. Megfelelő, jól működő áldozatazonosítási, irányítási és védelmi rendszer működtetése
+B. Hatékony megelőzés és tudatformálás, tudatosságnövelés
+C. Az elkövetők felderítése, felelősségre vonása, a sértettek, áldozatok jogainak és érdekeinek
+megóvása
+D. Koordináció megerősítése a releváns hazai kormányzati, fél-kormányzati és civil
+szervezetek bevonásával
+E. Biztonságos visszatérés és a reintegráció lehetőségeinek kormányzati szintű feltérképezése,
+támogató intézkedések kidolgozása
+2.6. A jövőkép
+A meglévő alapokra építve a következő tervezési időszakra szóló stratégia összhangban áll a
+nemzetközi elvárásokkal, azaz: Magyarország lehetőségeihez képest nemzeti szinten hatékonyan,
+nemzetközi szinten megbízható partnerként, az emberi jogokat tiszteltben tartva,
+diszkriminációmentesen, különös figyelmet fordítva a gyermekek védelmére kíván küzdeni az
+emberkereskedelem jelenségének valamennyi megjelenési formája ellen.
+III. STRATÉGIA
+A. Megfelelő, jól működő áldozatazonosítási, irányítási és védelmi rendszer működtetése
+A 2008-2012 közötti emberkereskedelem elleni stratégia IV. 2.1. pontja célul tűzte ki az
+áldozatsegítés fejlesztését, különös tekintettel a gyermekáldozatokra. A cél, hogy az áldozatok
+számára a biztonságos elhelyezés mellett komplex (jogi, szociális, pszichológiai) segítség nyújtása
+is megvalósuljon. Annak ellenére, hogy az e területen folytatott tevékenység, illetve a stratégia
+7 Az 1994. évi XXXIV. törvény 4. § (2) bekezdése szerint a rendőrség az általános rendőrségi feladatok ellátására
+létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv
+alkotják.
+
+megvalósítása során szerzett tapasztalatok rendkívül hasznosak, a 2008-2012 közötti stratégiában
+meghatározott célkitűzések nem valósultak meg maradéktalanul.
+Az európai uniós, és annak nyomán a hazai jogalkotás is aktívan foglalkozik mind az általános
+értelemben vett áldozatsegítéssel és védelemmel, mind annak az emberkereskedelmet érintő
+szegmensével. Az áldozat-azonosítás és - irányítás egységes rendszerét az emberkereskedelem
+áldozatai azonosításának rendjéről szóló 354/2012. (XII. 13.) Korm. rendelet teremtette meg 2013.
+január 1-től.
+Az áldozatsegítő szolgálat évente közel húszezer ügyfélnek nyújt valamilyen formában támogatást.
+Az emberkereskedelem harmadik országbeli áldozatait az Ást. alapján a többi áldozathoz képest
+többletinformációkkal kell ellátni az őket megillető jogokról (egy hónap gondolkodási idő áll
+rendelkezésre annak eldöntésére, hogy az áldozat hatóságokkal kíván-e együttműködni, erre az
+időre biztosított az ideiglenes tartózkodásra való jogosultság, az együttműködés idejére pedig a
+tartózkodási engedélyre való jogosultság). Ilyen jellegű tájékoztatásban 2006 és 2012 között
+összesen 93 fő részesült, és – bár ilyen alacsony számoknál tendenciát nehéz igazolni – számuk
+évről-évre növekedett.
+Az emberkereskedelem áldozatai jellemzően gyenge érdekérvényesítő képességgel rendelkeznek,
+ami az áldozattá válásukban jelentős szerepet tölt be, és a bűncselekményt követő helyzet
+megoldását is negatívan befolyásolja. A bűncselekmények áldozatai különböző szociális háttérrel
+rendelkeznek, ebből kifolyólag nem mindenki szorul rá egyformán az áldozatsegítő szolgálat
+támogatására. Fontos ezért az egyéni esetkezelés lehetőségének megteremtése, az áldozatnak be kell
+mutatni, milyen intézkedések mentén rendeződhet a sorsa, mi vár rá, milyen segítségre számíthat. A
+probléma enyhítésére a megkereső/alacsonyküszöbű szolgáltatások fejlesztése szolgálhat, a
+fejlesztések kapcsán lehet építeni az ezen a területen jelentős tapasztalattal rendelkező civil
+szervezetek közreműködésére.
+A hatóságokkal együtt nem működő áldozatok részére támogatásként tájékoztatás adható, illetve
+számukra védett szálláshely biztosítása lehetséges, ahol a költségmentes és biztonságos lakhatás,
+valamint a fizikai szükségletek teljes körű kielégítése mellett komplex segítő (jogi, pszichológiai és
+a szociális munka eszközeivel biztosított) szolgáltatás segíti az áldozatokat. Az ellátás időtartama
+90 nap, ami szükség esetén egy alkalommal maximum 90 nappal meghosszabbítható.8 A védett
+szálláshelyre történő elhelyezést az éjjel-nappal hívható Országos Kríziskezelő és Információs
+Telefonszolgálat munkatársa koordinálja. Jelenleg kevés lehetőség áll az áldozatok rendelkezésére a
+hosszú távú biztonságos az integrációt, reintegrációt szolgáló intézmények szolgáltatásainak
+igénybe vételére. Ezek fejlesztésére szolgálhatnak a félutas kiléptető házak, amelyek hosszabb
+távon akár öt éves időtartamra is menedéket és komplex ellátást nyújthatnak az áldozatok számára.
+8 A Kormány 354/2012. (XII. 13.) Korm. rendelete az emberkereskedelem áldozatai azonosításának rendjéről
+
+Az áldozatok támogatására szolgáló pénzbeli keret jogszabály alapján felülről nyitott
+célelőirányzatból származik, így az áldozatoknak nyújtott anyagi támogatás az általános gazdasági
+helyzettől függetlenül biztosított. A nem pénzben nyújtott támogatások esetén azonban közvetlen
+összefüggés van az áldozatsegítő szolgálatok – részben az általános gazdasági helyzetből fakadó –
+létszámhelyzete és az ellátás minősége, valamint az ellátható áldozatok száma között. A jelenlegi
+alacsony ügyviteli létszám súlyosan kihat a feladatellátás egészére. A gazdasági körülmények nem
+csupán a létszámot befolyásolják, hanem a szakterületen dolgozók képzését is.
+Magyarország a külföldön bajba jutott magyar állampolgárok és az adott külföldi államban
+képviselettel nem rendelkező más uniós polgárok részére a Konzuli Szolgálat útján – a vonatkozó
+jogszabályokban foglalt rendelkezések szerint − biztosít konzuli védelmet, melynek formáját,
+módját és terjedelmét az azt igénylő rászorultságának, valamint az adott külföldi állam
+viszonyainak mérlegelésével a magyar konzul maga határozza meg. A konzuli védelem szabályait
+jelenleg a konzuli védelemről szóló 2001. évi XLVI. törvény (a továbbiakban: Konz. tv) illetve a
+konzuli védelem részletes szabályairól szóló 17/2001. (XI. 15.) KüM rendelet (a továbbiakban:
+Konz r.) szabályozza.
+Az emberkereskedelem áldozataink védelme és segítése keretében a Konz. tv. alapján, az alábbi
+szolgáltatások elérhetők: a bajba jutott önerőből történő hazatérésének elősegítése (bizonyos
+feltételek mellet konzuli kölcsön is nyújtható), segítségnyújtás súlyos sérüléssel járó baleset vagy
+erőszakos bűncselekmény áldozatának, segítségnyújtás súlyos és sürgős ellátást igénylő betegnek,
+segítségnyújtás külföldön fogvatartottnak. A Konzuli szolgálat honlapja informatív, jól használható.
+A Konzuli szolgálat honlapján elérhető adatlap segítségével lehetőség van arra, hogy a külföldre
+utazó állampolgárok regisztráltathassák magukat konzuli védelemhez.
+Hatékony adatgyűjtési eljárások hiányában nem lehet eredményes küzdelmet folytatni, ezért a
+nemzeti kormányzati koordinációs mechanizmus és a civil szervezetek bevonásával negyedévente
+rendszeres anonim adatgyűjtés zajlik, egyelőre a nemzeti információs szükségleteknek megfelelően
+kialakított elektronikus formanyomtatvány útján. Az adatlap esetenként, és összességében is taglalja
+az emberkereskedelemmel kapcsolatos eseteket hazai szinten. A konzuli szolgálatok külön
+adatgyűjtést is végeznek az emberkereskedelemmel kapcsolatos ügyekről. Sajnos az európai szintű
+és a nemzetközi adatgyűjtés továbbra sem megoldott, ez valamennyi ország számára probléma,
+ezért az EU emberkereskedelem elleni stratégiájának egyik prioritása ennek a helyzetnek
+rövidtávon történő kezelése.
+Az igazságszolgáltatás területén, az Egységes Nyomozó Hatósági és Ügyészségi Bűnügyi
+Statisztika (ENYÜBS) tartalmaz adatokat a bűncselekményekről a vádemelésig. Ugyanakkor e
+rendszer a folyamatban lévő ügyekről nem ad valós képet, mert az érintett hatóságok a statisztikai
+adatszolgáltatásra csupán az őket érintő érdemi döntés meghozatalakor – a nyomozás, illetve a
+vádemelési szak befejezésekor - kötelezettek, így az ENYÜBS az aktuális tendenciák
+megjelenítésére nem alkalmas. Az ENYÜBS rendszerben a bűncselekmény jellemzői mellett az
+
+elkövetőre vonatkozóan is rögzítenek adatokat, ugyanakkor az áldozatról szinte alig tartalmaz
+számottevő információt.
+A jogerős ítéletekről a bírósági statisztika gyűjt adatokat. Az ENYÜBS és a bírósági statisztika nem
+vethető össze, így ezek alapján nem lehet egy büntető ügyet az elejétől a jogerős befejezéséig
+végigkövetni.
+A bűnügyi statisztikák esetében további nehézséget okoz, hogy azok kizárólag az aktuális jogi
+terminológiában értelmezhetők. A hatályos törvényi tényállás rendkívül szűkítő fogalom-
+meghatározása okán, az emberkereskedelem Magyarországon egy - látszólag - marginális jelenség,
+éves szinten az ismertté vált bűncselekmények száma országosan 20 alatt marad. A tényleges
+fertőzöttség megítéléséhez ezért rendszerint sor kerül az emberkereskedelemhez szorosan
+kapcsolódó élősködő bűncselekmények statisztikai adatainak értékelésére is.
+Összességében elmondható, hogy a jelenlegi büntető anyagi jogi szabályozás, illetve a
+rendelkezésre álló statisztikai rendszerek okán az emberkereskedelem jelensége a bűnügyi
+hatóságok számára statisztikailag nem mérhető, pontos struktúrája, területi megosztása ismeretlen.
+Az e körben rendelkezésre álló információforrások a nem teljesen megbízható egyéni
+tapasztalatokon, vagy külföldi felméréseken, civil szervezetek által nyújtott adatszolgáltatáson
+alapulhatnak. Amennyiben Magyarország a cselekmény során származási országként jelenik meg,
+úgy a külföldi - jellemzően igen körültekintő - felmérések, bűnügyi statisztikai adatok irányadónak
+tekinthetők, ugyanakkor a Magyarországot érintő tranzit kereskedelem, illetve a belföldi
+elkövetések esetében még ez a segédeszköz sem áll rendelkezésre. Kétségtelen tény, hogy
+elsősorban a nyomozó hatóság jelentős tapasztalatokkal rendelkezik az emberkereskedelem
+jelenségét tekintve, ugyanakkor ezen ismeretek tudományosan megalapozott feldolgozására
+napjainkig nem került, kerülhetett sor.
+Az áldozatsegítés területén rendelkezésre álló adatok az igazságszolgáltatáséval szemben, a napi
+képet mutatják, azok elemzése valós idejű beavatkozásra ad lehetőséget, amennyiben az szükséges.
+A krízisintervenciós központok nyilvános adatai mellett, az Áldozatsegítő Szolgálat, valamint az
+egyes civilszervezetek által nyilvántartott adatok az áldozati oldalról közelíti meg a jelenséget.
+A védett ház (hivatalos nevén: Átmeneti Szállás) anonimizált esetleírásai, valamint a
+gyermekotthonok és javítóintézetek adatai sokat segíthetnek a hazai jelenség megismerésében,
+hiszen számos esetben bekerülési okként, illetve kockázati tényezőként szerepelnek az
+emberkereskedelem kísérő jelenségei. A munka jellegű kizsákmányolás megismeréséhez a Nemzeti
+Munkaügyi Hivatal, illetve annak szervezeti egységként működő EURES hálózat adatai is
+kiindulópontok. A rendelkezésre álló adatok mellett a tudományos kutatások is képet adhatnak az
+emberkereskedelem és kísérőjelenségeinek jellemzőiről. Eddig még kevés ilyen témájú kutatás
+készül hazánkban, többek között az adatok fent említett problémái miatt. Sok esetben az
+aktavizsgálat, valamint a mélyinterjúk segíthetnek a hazai emberkereskedelem jellemzőit
+meghatározó mélyebb összefüggéseinek feltárásában.
+
+Célkitűzések:
+A.1. Az emberkereskedelem áldozatazonosítási, áldozatirányítási rendje hatékonyan működik
+A.2. Az áldozatvédelmi rendszer hatékonyan működik
+A.3. Az áldozatok legyenek tisztában a jogaikkal és hatékonyan működő áldozatvédelmi
+szolgáltatásokat vehessenek igénybe
+A.4. Az áldozatokkal kapcsolatban anonimizált, fejlesztési célokat szolgáló, rendszeres
+adatgyűjtésre kerüljön sor, valamennyi érintett bevonásával
+A.5. Transznacionális áldozatirányító rendszer (TRM) kerüljön létrehozásra a célországokkal
+Intézkedések:
+A.1.1 Az új áldozatazonosítási- és irányítási rendszer működésének biztosítása – protokollok
+megalkotása, a működés nyomon követése, monitoringja
+A 354/2012 (XII. 13.) Korm. rendelet az emberkereskedelem áldozatai azonosításának rendjéről a
+2011/36/EU európai parlamenti tanácsi irányelv 11. cikkének való megfelelést szolgálja. Az
+irányelv egyik kiemelt célja az áldozatok azonosítása.
+A Kormányrendelet 2013. január elsején lépett hatályba. A Stratégia megalkotásának idején a
+működésről még nem rendelkezünk információval, a gyakorlat kialakításához időre van szükség.
+2014 januárjában az első év tapasztalataiból, esetmegbeszélésekből le lehet szűrni a rendszer
+működésének jellemzőit, esetleges hibáit. A Nemzeti Koordinációs Mechanizmusban a rendeletben
+meghatározott, az azonosításban részt vevő intézmények is részt vesznek, így a működés
+folyamatosan nyomon követhető. A Koordinációs Mechanizmus kijelölt tagjai javaslatot
+készíthetnek a felmerülő hibák kijavítására, a hatékonyabb működés elősegítése céljából. A
+működés biztosítása érdekében a Koordinációs Mechanizmus kijelölt tagjai szakmai protokollokat
+készítenek az első év tapasztalatai alapján az áldozatok beazonosítása érdekében. A protokoll
+összesítené az áldozatok általános jellemzőit, egészségügyi indikátorokat, az áldozatok jellemző
+viselkedését, ennek következtében kiküszöbölhetővé válhatna az áldozatok nehéz felismerhetősége.
+Felelős: BM
+Partner: Nemzeti Koordinációs Mechanizmus
+Forrás: nem igényel forrást
+Eszköz: adatbázis létrehozása, protokoll kidolgozása
+Határidő: folyamatos
+Indikátor: éves felülvizsgálat lezajlik
+
+A.1.2 Képzési anyagok, modulok kidolgozása és széles körben való hozzáférhetővé tétele
+Képzési anyagok és modulok kidolgozásával, illetve széles körű hozzáférhetővé tételével olyan
+eszközrendszer megteremtése, ami biztosítja az emberkereskedelem áldozataival ténylegesen vagy
+potenciálisan kapcsolatba kerülő, különböző területeken dolgozó szakemberek megfelelő
+felkészültségét (ismeretek, készségek, szemléletmód), áldozatközpontú és segítő jellegű
+feladatellátását.
+A képzési anyagok szakterületektől függően, differenciált tartalommal kerülnek kidolgozásra;
+ismertetik a jogszabályi előírásokat (kiemelt tekintettel az új Btk.-re), a jelenleg működő
+áldozatvédelmi,- irányítási és,- segítő mechanizmusokat, az emberkereskedelemben érvényesülő
+nemzetközi és hazai tendenciákat, bemutatják az áldozatok speciális helyzetét és szükségleteit.
+Felelős: NKE
+Partner: KIM, érintett intézmények tagjai
+Forrás: Belső Biztonsági Alapból megvalósítható 10.000 EUR (3.000.000 HUF)
+Eszköz: képzési anyagok, modulok
+Határidő: 2014. december 31.
+Indikátor: kidolgozott képzési anyagok, 15 oldal/szakterület
+A.1.3 Képzések a hatékony áldozatazonosításhoz és megfelelő áldozatirányításhoz szükséges
+ismeretek és készségek elsajátítása céljából
+A képzések célcsoportját azon szociális, egészségügyi, oktatási, munkaügyi, külképviseleti,
+idegenrendészeti és menekültügyi területeken dolgozók alkotják, akik kapcsolatba kerülnek vagy
+kerülhetnek az emberkereskedelem áldozataival.
+Az áldozatokkal kapcsolatba kerülhetnek még a rendőrök, polgárőrök, ügyészek, bírák,
+áldozatsegítők, jogi segítségnyújtók és a pártfogó felügyelők is. A képzés szempontjából így ők is
+célcsoportnak minősülnek.
+Az intézkedés célja annak elősegítése, hogy az áldozatazonosításban és –irányításban részt vevők
+felismerjék az áldozatokat és szükségleteiket, megfelelő módon tudják kezelni a problémáikat,
+protokollszerűen tudják, hogy az azonosított áldozattal kapcsolatosan milyen teendőjük van. A
+képzések során kiemelt figyelmet kell fordítani az áldozatazonosítási,- irányítási,- védelmi
+rendszerben résztvevő állami és civil szervezetek tevékenységének megismertetésére. Az intézkedés
+megvalósításába javasolt bevonni a rendőrség áldozatvédelmi referenseit.
+A képzések révén lehetővé válik a minél hamarabb történő beavatkozás, valamint a látencia
+csökkentése.
+Felelős: BM (a képzések megszervezéséért) EMMI, KIM, NGM, BM, Rendőrség (a képzésen
+résztvevők biztosításáért)
+Partner: KÜM, Nemzeti Közszolgálati Egyetem, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, 8.000.000 HUF – 30.000 EUR/képzés
+Eszköz: képzés
+
+Határidő: 2014-2016
+Indikátor: képzések száma – legalább 6 db, félévente egy, képzésen résztvevők száma legalább
+100 fő/képzés
+A.1.4 A meglévő tudás továbbfejlesztése, specializálása az emberkereskedelem áldozatai
+szükségleteinek irányába az áldozatsegítésben, áldozatvédelemben dolgozó szakemberek számára
+A rendszer szereplőinek aktivitása különösen fontos, mert az áldozatok maguk a legtöbb esetben
+egyáltalán nincsenek tisztában az őket megillető jogokkal, lehetőségekkel. Ezért a velük
+kapcsolatba kerülők felelőssége a megfelelő tájékoztatás nyújtása.
+Jelentős előrelépést fog jelenteni, ha az áldozatok eljutnak a számukra tényleges támogatást nyújtó
+szervezetekhez. Ez azonban a valódi segítségnek csak az első lépcsője. Az áldozatok
+traumatizáltságának megszüntetése és társadalmi reintegrációja csak ezt követően indulhat meg.
+Ennek érdekében azonban nagyon sokat kell tennie a támogató szervezeteknek, ami csak akkor
+lehetséges, ha ők erre megfelelően felkészültek és a meghatározott szolgáltatásokat valóban
+hatékonyan nyújtani képesek.
+A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 124. § (1) bekezdése alapján az
+áldozatsegítő szolgálatként kijelölt szervnél működő kormánytisztviselők a kinevezéstől számított
+két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesznek. Külön
+jogszabály a vizsga alól részben vagy egészben felmentést adhat. Az ügyviteli vizsgával
+kapcsolatos további szabályozást a 22/2010. (XII. 28.) KIM rendelet tartalmazza. Az áldozatsegítők
+vizsgájának tárgyait és követelményeit a rendelet 7. §-a sorolja fel. Ez számos jogi, ügyviteli,
+pszichológiai és kriminológiai ismeret elsajátítását teszi kötelezővé, az emberkereskedelemmel
+kapcsolatosan azonban nem támaszt elvárásokat. Szükséges ezért, hogy az áldozatsegítő szolgálat
+munkatársai a számukra kötelező képzés keretein belül számot adjanak az emberkereskedelem
+elleni küzdelemmel, az emberkereskedelem áldozatainak jellemzőivel és védelmével kapcsolatos
+ismeretekről is.
+Felelős:
+-‐ a jogszabály módosítása kapcsán a KIM
+-‐ a vizsga anyagának összeállítása és az arra való felkészítés, oktatás megtartása kapcsán a KIH
+Partner: érintett intézmények tagjai
+Forrás: nem igényel forrást
+Eszköz:
+-‐ Nemzeti Koordinációs Mechanizmus, protokoll kidolgozása
+-‐ jogszabály-módosítás [22/2010. (XII. 28.) KIM rendelet]
+-‐ felkészítés ügyviteli vizsgára
+Határidő:
+-‐ a jogszabály módosítására 2013. december 31.
+-‐ a felkészítés folyamatos
+Indikátor: a módosított jogszabály
+
+A.1.5. Olyan speciális ismeretekkel rendelkező szakmai hálózat kiépítése a rendőrségen, amely
+garantálja, hogy az elsődleges kapcsolatfelvétel során a rendőrség képes legyen az áldozat
+speciális szükségleteinek felmérésére, a megfelelő intézkedések kezdeményezésére, az áldozatok
+irányítására, egy büntetőeljárás során a sértett tanú megfelelő kezelésére
+Jelenleg még nem biztosított maradéktalanul az emberkereskedelem jelenségével kapcsolatba
+kerülő valamennyi nyomozó hatósághoz, regionális vagy országos hálózathoz integrált olyan
+speciális szakember, aki rendelkezik a hazai és nemzetközi gyakorlat, jogszabályi környezet, az
+áldozatokkal való hatékony együttműködés speciális követelményeinek, az áldozatok számára
+nyújtható védelem és segítség lehetőségeinek ismereteivel. Nem áll rendelkezésre az ilyen jellegű
+bűncselekmények áldozataival először kapcsolatba kerülő szakemberek részére olyan praktikus
+tanácsadó füzet, amelyek az áldozatsegítés, áldozati jogok, segítségkérési lehetőségek legfontosabb
+információit tartalmazná. Hiányzik továbbá,- egy folyamatosan frissített szakmai segédlet –
+praktikusan elektronikus változatban -, amely a speciális nyomozati technikák bemutatása mellett, a
+mindennapi munkában hasznos kapcsolati pontokat, hazai és nemzetközi jó példákat, valamint az
+elkülönítési eljárás során alkalmazható módszereket ismertetné.
+A széles körű ismeretekkel rendelkező bűnügyi szakemberek ezáltal képesek lennének hatékonyan
+együttműködni a szakterületen dolgozó kollégáikkal, az emberkereskedelem elleni küzdelemben
+érdekelt más szervezetekkel.
+Az emberkereskedelemmel és különösen a prostitúcióval kapcsolatos eljárások közös, hazai és
+nemzetközi jellemzője a sértettek előre felkészítése a hatóságok előtt esetlegesen szükségessé váló
+nyilatkozataik tekintetében, egy esetleges eljárásban történő bizonyítás megnehezítésére, vagy
+megakadályozására, illetve a hatóságokkal együttműködő sértettek, tanúk, illetve családtagjaik
+ígéret, fenyegetés, erőszak alkalmazásával történő rábírása vallomásuk megváltoztatására. A
+nyomozások során eljáró hatóságoknak az áldozatokkal történő kapcsolatfelvétel, együttműködés
+során minderre különös hangsúlyt kell fektetni, az áldozatok elkülönítése tekintetében pedig az
+összes rendelkezésre álló lehetőséget fel kell mérni és ki kell aknázni, mind a megfelelő kihallgató
+helyiségek általános alkalmazása, mind pedig az ügyészséggel és bíróságokkal közösen
+kialakítandó egységes gyakorlat bevezetése által.
+Felelős: BM
+Partner: Rendőrség, NKE
+Forrás: Belső Biztonsági Alapból megvalósítható, 4000 EUR, 1.200.000 HUF
+Eszköz: e-learning tananyag, az emberkereskedelemmel foglalkozó kollégák folyamatos
+továbbképzése a társszervek, kormányzati, félkormányzati szervek és civil szervezetek szakértői
+bevonásával
+Határidő: 2016
+Indikátor: megfelelően képzett és országosan koordinált szakmai hálózat; egységes elkülönítési és
+specializált eljárási protokoll
+
+A.1.6 Külföldről is elérhető segélyvonal létrehozása
+A jelenleg állami finanszírozásból működő, a nap 24 órájában ingyenesen hívható segélyvonalak
+(Áldozatsegítő Szolgálat diszpécser szolgálata, Országos Kríziskezelő és Információs
+Telefonszolgálat) külföldről nem elérhetőek, így az áldozatok megfelelő segítséghez való jutása
+nem megoldott. A külföldi, áldozatokkal foglalkozó szakemberek több esetben jelezték, hogy a
+probléma orvoslása szükséges volna, hisz az áldozatok maguk, a legtöbb esetben egyáltalán
+nincsenek tisztában az őket megillető jogokkal, lehetőségekkel. További problémát jelent, hogy az
+áldozatok döntő többsége nem beszéli az adott ország nyelvét, illetve általában egyáltalán nem
+beszélnek idegen nyelven.
+Egy külföldről is ingyenesen elérhető segélyvonal jelentős előrelépést jelentene, hisz biztosíthatná
+az áldozatok számára azt, hogy eljuthassanak a számukra tényleges támogatást nyújtó
+szervezetekhez, tisztában legyenek azzal, hogy ha hazajönnek, megkapják a megfelelő segítséget. A
+segélyvonal részét képezheti az áldozatok számára nyújtott széleskörű, megfelelő és elérhető
+szolgáltatásoknak, ellátási formáknak.
+Felelős: KIM
+Partner: NFM, OKIT
+Forrás: Igazságügyi Alapból megvalósítható, speciális szám 50.000 HUF, havi díj 20.000 HUF, évi
+300 hívás/10 perc/250 percdíj, kb. 1 millió HUF/év, 2500 EUR
+Eszköz: projekt
+Határidő: 2014
+Indikátor: 24 órában külföldről is elérhető segélyvonal
+A.2.1. Megfelelő szolgáltatásoknak, ellátási formáknak kell rendelkezésre állni, amelyek segíthetik
+az áldozatokat
+A 2005. évi CXXXV. törvény alapján meghatározott áldozatsegítő szolgáltatások célja
+általánosságban az, hogy a lehetőségekhez képest visszaállítsák az áldozat bűncselekményt
+megelőző helyzetét. Az emberkereskedelem áldozatainál ez a megközelítés azonban nem lehet
+elegendő, hiszen ezen áldozatoknak a bűncselekményt megelőző kiszolgáltatott helyzete nagy
+szerepet játszott az áldozattá válásukban. Komplex megközelítés és a helyzet összetett kezelése
+szükséges annak érdekében, hogy az emberkereskedelem áldozatai számára valóban hatékony, a
+felépülésüket szolgáló szolgáltatások legyenek nyújthatók.
+Az emberkereskedelem áldozatai számára főleg olyan dolgokban kell támogatást nyújtani, amelyek
+a szociális munka területét érintik, ezért - a 2012/29/EU irányelv 20. cikk c) pontjának
+implementálása keretében legkésőbb 2015. november 16-ig - szükséges egy szociális munkásokból
+álló esetmenedzser-csoport kiképezése az ellátásban való részvételre.
+
+Az esetmenedzserek az áldozatsegítő szolgálatok munkatársaként már az eset korai szakaszától
+közeli kapcsolatban állnának az áldozattal, egyfajta támogató, segítő szerepet is betöltve.
+Támogatnák a sértettet a hatóságokkal való kapcsolattartás során, információt, különböző
+gyakorlati, érzelmi és alapvető jogi támogatást nyújtanának az áldozat számára. Nem
+meghatalmazottként járnának el, azonban az ügyfél helyett beszereznék a különböző hatóságoktól a
+szükséges nyomtatványokat, és segítenének azok kitöltésében is.
+A megindult büntetőeljárásokban is komoly szerepet kapna az esetmenedzser (mint ún. „segítő
+személy”), aki segít az ügyet érintő iratokban foglaltak megfelelő értelmezésében, illetve egyes
+eljárási cselekményeken történő részvételével önmagában jelentős támogatást tud nyújtani a
+sértettnek. Az esetmenedzser a büntetőeljárást követő időszakban is kapcsolatot tart a sértettel, így a
+hatékony utánkövetés követelményét is teljesíti ez a rendszer.
+Az alacsony esetszám miatt teljes munkaidőt nem töltene ki az emberkereskedelem áldozatainak
+esetmenedzselése, azonban a szociális munkások az áldozatsegítés folyamatában egyébként is
+hatékonyan részt tudnak venni, erre a jogszabályi feltételek adottak.
+Felelős:
+- KIM az irányelv implementálásáért
+-‐ a szükséges létszám biztosítása tekintetében a kormányhivatalok
+-‐ az esetmenedzserek alkalmazásának módszertana elkészítéséhez és az esetmenedzserek
+felkészítéséhez a KIH és az emberkereskedelem áldozataival kapcsolatban lévő civil
+szervezetek
+Partner: civil szervezetek
+Forrás: TÁMOP-ból megvalósítható
+Eszköz: szociális munkások, mint esetmenedzserek alkalmazása az áldozatsegítő szolgálatoknál és
+felkészítése (kiemelt projekt keretében)
+Határidő: 2015-2016
+Indikátor: 20 (megyénként 1-1) esetmenedzseri képzésben részesített szociális munkás az
+áldozatsegítő szolgálatoknál
+A.2.2. A mentális, pszichológiai segítségnyújtáshoz való hozzáférés lehetőségének fejlesztése
+Az emberkereskedelem áldozatait az őket ért bűncselekmény sok esetben traumatizálja, pszichés
+állapotuk egyensúlyi helyzete a kizsákmányolás (legyen bár annak célja munka vagy szexuális
+jellegű) következtében jelentősen sérül. A lelki egyensúly helyreállítása az áldozatok és a
+bűnüldöző szervek számára egyaránt fontos.
+A fentiekkel összhangban a 2011/36/EU irányelv 11. cikk (5) bekezdése el is várja, hogy az
+áldozatok pszichológiai segítségnyújtásban részesüljenek. Ezt a fajta támogatást az
+emberkereskedelem áldozatai megkaphatnák a védett szálláson vagy az áldozatsegítő szolgálatnál.
+
+Az áldozatsegítő szolgálatnál országosan nem megoldott a pszichológiai segítségnyújtás (nyolc
+területi szolgálatnál van teljes vagy rész-munkaidőben, illetve megbízással foglalkoztatott
+pszichológus), a szociális munkások részaránya még ennél is kisebb (összesen 4 ilyen végzettségű
+munkatárs dolgozik országszerte). Ezt az ellátási formát ezért fejleszteni szükséges.
+Felelős: a szükséges létszám biztosítása tekintetében a kormányhivatalok
+Partner: -
+Forrás: létszám (státuszok) és a működés feltételeinek biztosítása vonatkozásában a
+kormányhivatalok költségvetése
+Eszköz: pszichológusok alkalmazása és felkészítése
+Határidő: 2015-2016
+Indikátor: 20 (megyénként 1-1) pszichológus az áldozatsegítő szolgálatoknál
+A.2.3. Átmeneti (védett) Szállás kapacitás-, és szolgáltatás fejlesztése, új, állami támogatásból
+működő Átmeneti Szállás kialakítása, egységes ellátási protokoll kidolgozása az Átmeneti Szállások
+hatékony működésének biztosítása érdekében. Az Átmeneti Szállások elérési koordinációjának
+megteremtése az OKIT közreműködésével
+Az intézkedés lehetővé teszi, hogy az emberkereskedelem áldozatai a jelenleginél jóval magasabb
+arányban kerülhessenek szükség esetén védett szállásra, részesüljenek krízisellátásban. A több
+Átmeneti Szállás lehetőséget biztosít az áldozat továbbmenekítésére, ami jelentősen növeli az
+áldozatok védhetőségét. Az egységes protokoll biztosítja az Átmeneti Szállások azonos működési
+rendszerét, melyre mind az OKIT-tal való kapcsolattartás, mind az áldozatok biztonságos fogadása,
+megfelelő gondozása kapcsán szükség van.
+Felelős: EMMI
+Partner: OKIT, civil szervezetek
+Forrás: költségvetési forrásból, az éves költségvetés tervezése során figyelembe kell venni,
+működési költség 8.000.000 HUF/szállás/év, 12.000.000 HUF egy új szálláshely kialakítása
+Eszköz: egy új átmeneti szállás kialakítása, működési protokolljuk kidolgozása
+Határidő: 2014-ben egy szálláshely üzemel, 2015-ben létrehozunk egy újat és ezzel 2016-ban 2
+szálláshely üzemel
+Indikátor:
+-‐ létrehozott férőhelyek száma
+-‐ ellátott áldozatok száma
+-‐ elkészült egységes ellátási protokoll – 1 db
+A.3.1. Európai standardok alapján az áldozatok számára tájékoztató anyagok elkészítése és
+disszeminációs terv kidolgozása
+Az Európai Parlament és a Tanács bűncselekmények áldozatainak jogaira, támogatására és
+védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat
+
+felváltásáról szóló 2012/29/EU irányelve 4. cikke alapján a tagállamok biztosítják, hogy az
+áldozatok az illetékes hatósággal való első kapcsolatfelvételtől kezdve, indokolatlan késedelem
+nélkül tájékoztatást adnak annak érdekében, hogy az áldozatok élhessenek az irányelvben
+meghatározott jogokkal.
+Az áldozatok számára jelenleg is rendelkezésre állnak tájékoztató anyagok, amelyeket az
+áldozatsegítő szolgálat készít, és tartalmazzák az áldozatokat a 2005. évi CXXXV. törvény alapján
+megillető támogatásokkal kapcsolatos legfontosabb információkat. Nincsen azonban jelenleg olyan
+tájékoztató anyag, ami kifejezetten emberkereskedelem áldozatai számára készült. Az általános
+tájékoztatás így esetükben csak alacsony hatásfokkal vagy egyáltalán nem éri el a célját.
+Szükségesnek látszik ezért egy olyan, kifejezetten az emberkereskedelem áldozatainak szóló,
+közérthető formában megfogalmazott, gyakorlatias (és az egyes kizsákmányolási formák alapján
+differenciáltan elkészített) tájékoztató anyag összeállítása, ami az emberkereskedelem áldozataival
+kapcsolatba kerülő valamennyi szervnél, szervezetnél rendelkezésre áll, tartalmazza az azonosított
+áldozatok rendelkezésére álló jogi segítségnyújtásról, tanácsadásról, orvosi, pszichológiai,
+addiktológiai, ártalomcsökkentési, szociális segítségnyújtási szolgáltatásokról szóló információkat.
+Az anyag összeállításába be kell vonni valamennyi olyan szervet, szervezetet, aki a szolgáltatások
+nyújtásában közreműködik.
+Az elkészült anyag leghatékonyabb felhasználása érdekében disszeminációs tervet kell készíteni,
+amelyben felmérésre kerülnek azok a beavatkozási pontok, ahol a tájékoztató anyagnak az
+áldozatok vagy a potenciális áldozati célcsoport részére történő eljuttatása leginkább indokolt. A
+terv elkészítésébe az áldozatokkal kapcsolatba kerülő szervek, szervezetek bevonása szükséges.
+Felelős: Nemzeti Koordinációs Mechanizmus
+Partner: áldozatokkal kapcsolatba kerülő szervek, a szolgáltatások nyújtásában közreműködők
+Forrás: Belső Biztonsági Alapból megvalósítható, tartalom kidolgozása 4000 EUR, a grafikai
+tervezés nyomdai előállítás 2300 EUR, sokszorosítás, kb. 30.000 EUR
+Eszköz: tájékoztató anyag és disszeminációs terv létrehozása
+Határidő: 2014
+Indikátor: tájékoztató anyag elkészülte, sokszorosítása és eljuttatása az emberkereskedelem
+áldozataival kapcsolatba kerülő szervekhez, szervezetekhez
+A.3.2. Az igazságszolgáltatás szereplőinek és az azonosításban közreműködő szervek
+munkatársainak kötelezése az emberkereskedelem áldozatainak tájékoztatására
+A bűncselekmények áldozatainak általános pszichológiai jellemzője a kontrollvesztés érzete. Ezért
+minden áldozatnak (nem csak az emberkereskedelem áldozatainak) nagyon fontos igénye a
+tiszteletteljes bánásmód, elfogadás és tapintat azok részéről, akik őt segíteni hivatottak. Az
+áldozatot minden esetben végig kell hallgatni, engedni kell, hogy érzelmeit kifejezze, és lehetőséget
+
+kell neki adni döntésre és választásra, hogy megélhesse a kontroll érzését, vagyis hogy ő az ura a
+szituációnak. A 2011/36/EU irányelv 11. cikk (5) bekezdése az emberkereskedelem vonatkozásában
+ezért rögzíti, hogy bármilyen áldozattámogatási forma csak az áldozat beleegyezésével nyújtható, a
+megfelelő tájékoztatást követően.
+Az áldozatokkal az azonosításuk során vagy az igazságügyi eljárásokban találkozó szereplőknek
+ezért minden esetben meg kell adniuk az áldozatok számára az ügyükkel és lehetőségeikkel
+kapcsolatos kellő tájékoztatást, egyben maradéktalanul biztosítaniuk kell a döntési lehetőséget.
+Felelős: az áldozatazonosításban és,- támogatásban részt vevő szervek, illetve a büntetőeljárásban
+részt vevő hatóságok
+Partner: -
+Forrás: nem igényel forrást
+Eszköz: a szereplők érzékenyítése
+Határidő: folyamatos
+Indikátor: az áldozatok tájékoztatásának kötelezettségét elfogadó és gyakorló szereplők
+A.4.1. Az emberkereskedelem trendjeit vizsgálni képes anonimizált adatbázis kialakítása,
+beavatkozási térkép készítése, amely figyelembe veszi különösen az életkort, a nemet és a
+kizsákmányolás formáját
+Az emberkereskedelem felszámolására irányuló európai uniós stratégia E prioritás 1. intézkedése
+tartalmazza egy egységes, az egész unióra kiterjedő rendszer kialakítását, az adatok életkor és
+nemek szerinti bontásban történő gyűjtéséhez és közzétételéhez.
+Meg kell teremteni az azonos fogalom-, és kritériumrendszer mentén működő, egységes
+szempontrendszert alkalmazó és kizárólag a valóban szükséges és érdemben elemezhető adatokat
+gyűjtő statisztikai rendszer alapját, amelybe az emberkereskedelem elleni küzdelemben érintett
+hatósági, kormányzati, fél-kormányzati szervek és civil szervezetek is egységes elvek mellett
+tudnak információt szolgáltatni, mert a statisztikai mutatók csak így tehetőek képessé az aktuális
+helyzetkép valós megjelenítésére.
+A veszélyeztetettségi térkép az adatok alapján készül, amelyből kiderül, hogy az országnak mely
+területei a „kibocsátók”, ott milyen jellemzők (pl. áldozatok, elkövetők, módszer stb.) köthetők
+össze az emberkereskedelem, illetve az ahhoz kapcsolódó bűncselekmények megjelenésével. Az
+adatgyűjtés során az intézkedés felelőse egy egységes felületen, anonimizált módon, naprakészen
+gyűjti az érintett szervek által küldött releváns adatokat.
+Az adatbázis kialakítása során segítséget nyújthat a Hollandiában már bevált és jól működő
+gyakorlat figyelembe vétele, átvétele is, ahol egy emberkereskedelem elleni koordinációs központ
+került létrehozásra. A központ részére minden érintett szerv folyamatosan adatot szolgáltat,
+amelyek elemzésre kerülnek, ebből kifolyólag folyamatos, naprakész statisztikák érhetők el az
+emberkereskedelem aktuális helyzetéről, áldozatok jellemzőiről. Az eredmények alapján jelentések
+
+készülnek, amennyiben bűncselekmény gyanúját, vagy szervezett bűnözői csoport működésére
+utaló tény gyanúja merül fel, javaslatot tesznek eljárás megindítására és külön nyomozói csoport
+felállítására is.
+Felelős: BM
+Partner: az érintett intézmények tagjai, Nemzeti Koordinációs Mechanizmus
+Forrás: Belső Biztonsági Alapból megvalósítható, 100.000 EUR, 30.000.000 HUF
+Eszköz: statisztikai rendszer, egységes felület kialakítása, adatbázis létrehozása
+Határidő: a rendszer alapjainak kidolgozási határideje 2014. december 31. a tesztüzem után az
+adatszolgáltatás a tervek szerint leghamarabb 2016. januártól valósulhatna meg
+Indikátor: egységes, naprakész adatbázis
+A.4.2. Az áldozatok nyomon követését, szűrését az azonosítástól az áldozatvédelmi rendszer
+elhagyásáig elősegítő egységes adatbázis létrehozása
+Magyarországon az általános nyomozó hatóság által használt, elektronikus adatkezelő rendszerként
+működtetett Robotzsaru Neo alapszinten jelenleg is, teljes mértékben pedig némi fejlesztést
+követően lesz alkalmas a hatékony áldozatsegítés támogatására, az azzal foglalkozó szervezet
+adatigényének – kölcsönös együttműködési megállapodáson alapuló - kiszolgálására.
+A Robotzsaru Neo rendszerben jelenleg is külön modul áll rendelkezésre az emberkereskedelem
+gyanúja miatt meginduló eljárások kötelező jelölésére, így az ilyen eljárásokban érintett sértettek is
+azonosíthatóak.
+A meglévő modul olyan jellegű továbbfejlesztése szükséges a továbbiakban, hogy amennyiben az
+ilyen eljárásokban érintett sértett – miután a nyomozó hatóság eljárási cselekménye keretében teljes
+körű felvilágosítást kapott az áldozatsegítő szolgálat által nyújtott segítség lehetőségéről - úgy
+nyilatkozik, hogy az Áldozatsegítő Szolgálat segítségét igénybe kívánja venni, egy külön ennek
+jelölésére szolgáló modul aktiválásával a kapcsolatfelvételhez szükséges adatok az Áldozatsegítő
+Szolgálat számára automatikusan váljanak hozzáférhetővé.
+Ugyancsak automatizálni lehet majd a Robotzsaru Neo rendszerben azt a protokollt is, hogy az
+ilyen eljárások érdemében hozott döntést követő ügylezárás fázisában azon sértettek esetében, akik
+az eljárás során az áldozatsegítő szolgálat segítségét igénybe vették, az Áldozatsegítő Szolgálat
+szintén automatikus értesítést kapjon az őt érintő adatok körében.
+Ki kell alakítani annak a szabályozását, hogy ezen eljárásokban esetmenedzser segíthesse az azt
+igénylő sértettet. A megindult büntetőeljárásokban is komoly szerepet kapna az esetmenedzser,
+hiszen elősegíthetné a hatóságokkal való kapcsolattartást, segíthetne a sértettnek az idézések,
+értesítések tartalmának megfelelő értelmezésében. Egyes eljárási cselekményeken történő
+részvételével önmagában jelentős támogatást tud nyújtani a sértettnek, így az áldozatvédelem
+lehetőségei a büntetőeljárás kereteibe is beilleszthetővé válnak. Az esetmenedzser a büntetőeljárást
+
+követő időszakban is kapcsolatot tarthatna a sértettel, így a hatékony utánkövetés követelményét is
+teljesíti ez a rendszer.
+Felelős: BM
+Partner: KIH, Rendőrség, Országos Bírósági Hivatal
+Forrás: Belső Biztonsági Alapból megvalósítható, 12.000.000 HUF, 4000 EUR
+Eszköz: meglévő integrált ügyviteli rendszerek fejlesztése; együttműködési megállapodás
+Határidő: 2016
+Indikátor: végrehajtott fejlesztés alapján működő rendszer
+A.4.3. Az áldozatok nyomon követését, áldozatvédelmi rendszerbe történő bevonását elősegítő
+adatszolgáltatási mechanizmus
+Jelenleg az emberkereskedelem elleni közdelemben érintett hatóságok, kormányzati-, fél-
+kormányzati szervek és civil szervezetek tekintetében az informatikai integráció a lehetséges
+keretek között sem megoldott. Az európai uniós stratégia által meghatározott közös adatbázis
+felállításában történő részvétellel párhuzamosan kiemelten fontos (a lehetséges és szükséges
+mértékben) a meglévő hazai informatikai rendszerek összehangolása, különös tekintettel a bírósági,
+ügyészségi és rendőrségi közös munkafelület kialakítására és átjárhatóságuk biztosítására.
+Ennek megfelelően szükséges felmérni - mind informatikai, mind szakmai és adatvédelmi
+szempontból - hogy pontosan mely vonatkozásokban szükséges a rendszerek átjárhatósága, milyen
+adatok cseréje válik szükségessé, illetve az érintettek által kezelt adatokból jogszabályi
+felhatalmazás, illetve kötelezettség alapján, együttműködési megállapodások által szabályozott
+protokollok mentén milyen módon és milyen körben valósulhat meg célhoz kötött adatközlés
+egyéb, az emberkereskedelem elleni küzdelemben együttműködő szervezet irányába.
+Ezen fejlesztés egyik eleme a Magyarországon az általános nyomozó hatóság által használt,
+elektronikus adatkezelő rendszerként működtetett Robotzsaru Neo fejlesztése, amely alapján a
+rendszer alkalmas lesz a hatékony áldozatsegítés támogatására is, az azzal foglalkozó szervezet
+adatigényének – kölcsönös együttműködési megállapodáson alapuló - kiszolgálására.
+A fenti automatizált adatszolgáltatás nem csupán a sokkal szélesebb körben alkalmazható, hatékony
+áldozatvédelmi tevékenységhez járul hozzá, de az esetmenedzser eljárásának, valamint az állam
+büntetőjogi igényéhez fűződő érdek, valamint az áldozat védelméhez fűződő érdek együttes
+figyelembevételének alapját is megteremtheti, amely jó gyakorlat más érdekelt hatóságok, illetve
+szervezetek adatszolgáltatási rendszerébe is átültethetőek.
+A korábban javasolt esetmenedzser fontos feladata lenne az áldozatok nyomon követése és
+monitorozása, amelyhez a szükséges adatokat a fenti módon automatizáltan, az áldozatok
+érdekeinek maximális szem előtt tartásával, már az azonosításuk pillanatában megkapná az
+Áldozatsegítő Szolgálat, így az esetmenedzseren keresztül az áldozatok nyomon követése akkor is
+biztosítva lenne, ha a sérelmükre elkövetett bűncselekmény okán folyamatban volt büntetőeljárás
+már jogerősen befejeződött.
+
+Felelős: BM
+Partner: KIH, Rendőrség, Legfőbb Ügyészség, Országos Bírósági Hivatal
+Forrás: Belső Biztonsági Alapból megvalósítható, 12.000.000 HUF, 4000 EUR
+Eszköz: együttműködési megállapodások az érdekeltek között; informatikai fejlesztés; szakmai
+konferenciák; hatástanulmányok az általános-, és informatikai adatvédelem vonatkozásában
+Határidő: 2016
+Indikátor: közös, átjárható informatikai munkafelület a rendőrség, ügyészi szervezet és bíróságok
+tekintetében, amelyből a területen érintett szervezetek felé jogszabályi felhatalmazás alapján,
+együttműködési megállapodásokban szabályozott módon, célhoz kötött adatszolgáltatás is zajlik.
+A.4.4. Az áldozatok azonosításában közreműködő szervek ösztönzése az adatszolgáltatásra
+A 354/2012. (XII. 13.) Korm. rendelet alapján a területi áldozatsegítő szolgálat statisztikai célból az
+adatok megküldésével negyedévente tájékoztatja a Közigazgatási és Igazságügyi Hivatalt az észlelt
+esetekről, amelyekből a Hivatal statisztikai kimutatást végez. Az adatgyűjtési rendszer kialakítását
+követően ösztönözni kell a közreműködőket a megfelelő, rendszeres adatszolgáltatásra.
+Az adatszolgáltatás rendjének megfelelő működése azért különösen fontos, mert ennek hiányában
+nem nyerhetünk valós képet az emberkereskedelemmel kapcsolatos trendekről, folyamatokról,
+számadatokról. Ezt szükséges az azonosításban részt vevő valamennyi (civil és állami) szereplővel
+megértetni.
+Felelős: BM, KIM
+Partner: érintett szervezetek
+Forrás: nem igényel forrást
+Eszköz: szemléletformálás az egyébként megvalósított képzések, szakmai programok keretében
+Határidő: 2016
+Indikátor: a rendszer segítségével irányított áldozatok száma, a rendszert felhasználó
+áldozatirányítók száma
+A.4.5. Éves statisztikai szempontú értékelés kritérium rendszerének kialakítása
+Az emberkereskedelem elleni kormányzati mechanizmust többféle jelentéstételi kötelezettség
+terheli, melyek évente jelentkeznek. Előkészítésükhöz egész éves koordinált munka, folyamatos
+adatgyűjtés szükséges. Az adatgyűjtés módját, az adatszolgáltatókkal való együttműködést
+szabályozni és fejleszteni szükséges, illetve meg kell határozni a gyűjtendő információk körét.
+Tekintettel kell lenni az adatszolgáltatók terheltségére.
+Felelős: BM
+Partner: érintett szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, 9.000.000 HUF, 3000 EUR
+Eszköz: jelentéstételi kötelezettség érvényesítése
+Határidő: a rendszer kialakítása leghamarabb 2016-ban lehetséges
+
+Indikátor: a rendszer segítségével irányított áldozatok száma, a rendszert felhasználó
+áldozatirányítók száma
+A.5.1. Transznacionális áldozatirányító rendszer (TRM – Transnational Referral Mechanism)
+létrehozása – először Hollandia és Belgium viszonylatában
+A 2011/36/EU irányelv A prioritásának első intézkedése felhívja a tagállamokat áldozatkezelési
+mechanizmusok létrehozására, amely az áldozatok azonosítását, kezelését, védelmét és segítését
+szolgálja. Az emberkereskedelem áldozatainak beazonosítása és támogatása hatékonyan egy
+együttműködési mátrix – nemzetközi áldozatkezelési rendszer - segítségével valósulhat meg, amely
+mind a származási és mind a célországban érintett valamennyi felet tartalmazza.
+Az emberkereskedelem elleni küzdelemben érintett szakemberek (rendőrség, konzuli szolgálat,
+idegenrendészeti hatóság, menekültügyi hatóság, ügyészség, bíróság) számára egy nemzetközi
+áldozatirányítási rendszer kerülne kidolgozásra, amely elősegíti a szakemberek közötti
+kommunikációt és együttműködést, illetve hozzájárul az áldozatok biztonságos irányításához. Az
+áldozatirányításban, segítésben érintett szakemberek számára szervezett szakmai konzultációk
+keretében az emberkereskedelem áldozatainak irányításáról szóló uniós kézikönyv feldolgozásra
+kerülhetne, így valamennyi szakember pontos információval rendelkezne az áldozatirányítás
+folyamatáról.
+Ennek érdekében az európai uniós pályázatok folyamatos figyelése és a célországok intézményeivel
+való szoros kapcsolattartás szükségesek.
+Felelős: BM
+Partner: Rendőrség, KÜM (Konzuli Főosztály), BÁH, Legfőbb Ügyészség, Országos Bírósági
+Hivatal, civil szervezetek
+Forrás: Európai Uniós pályázat segítségével (benyújtott ISEC pályázat, döntés 2013 októberében
+várható), 2014-ben 54.000.000 HUF, 2016-ban 36.000.000 HUF
+Eszköz: nemzetközi áldozatirányítási rendszer, a nemzetközi áldozatirányítási rendszerről szóló
+kézikönyv
+Határidő: a rendszer kialakításához előreláthatólag 2 év szükség, a szükséges pályázat elnyerésétől
+függően létrehozása leghamarabb 2016-ban lehetséges
+Indikátor: a rendszer segítségével irányított áldozatok száma, a rendszert felhasználó
+áldozatirányítók száma
+A.5.2. Transznacionális áldozatirányító rendszer (TRM – Transnational Referral Mechanism)
+létrehozása Svájc viszonylatában
+A Közép-Európából Svájcba irányuló emberkereskedelem egyik fő kiindulópontja Magyarország.
+Az áldozatok fiatal nők, akiket prostitúciós célokkal visznek Svájcba. Ebből kifolyólag fokozott
+figyelmet kap az emberkereskedelem Magyarországról érkező áldozatainak helyzete, valamint a
+
+Magyarországról Svájcba irányuló gyakorlati együttműködés fokozása. A magyar áldozatok száma
+jelentős és évente emelkedő tendenciát mutat. Transznacionális áldozatirányító rendszer kialakítása
+Magyarország és Svájc között jelentősen megkönnyítené az áldozatokkal kapcsolatba kerülő
+szakemberek munkáját és elősegítené az áldozatok azonosítását, irányítását.
+Mindemellett a Svájcban már bevált és jól működő utcai prostitúcióban dolgozó nőknek segítő
+Flora Dora Női Tanácsadó Szolgálat gyakorlatának átvételén kívül más jó gyakorlatok
+megosztására, átvételére is lehetőséget nyújtana a Svájccal való szorosabb együttműködés.
+Felelős: BM
+Partner: Rendőrség, KÜM (Konzuli Főosztály), BÁH, Legfőbb Ügyészség, Országos Bírósági
+Hivatal, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, 18.000.000 HUF, 60.000 EUR
+Eszköz: nemzetközi áldozatirányítási rendszer, a nemzetközi áldozatirányítási rendszerről szóló
+kézikönyv
+Határidő: a rendszer Hollandiával és Belgiummal való kialakítását követően, leghamarabb 2016-
+ban
+Indikátor: a rendszer segítségével irányított áldozatok száma, a rendszert felhasználó
+áldozatirányítók száma
+A.5.3. Transznacionális áldozatirányító rendszer kiterjesztése a többi érdekelt ország
+vonatkozásában
+Számos magyar állampolgár esik emberkereskedelem áldozatául Belgiumon, Hollandián és Svájcon
+kívül más országokban, ezért a transznacionális áldozatirányító rendszer kiterjesztése, más
+célországokban való bevezetése indokolt. A fenti három ország a magyar áldozatok szempontjából
+jelentős, viszont ezen kívül még több olyan ország létezik, ahol áldozatirányítási rendszer
+kialakítása szükséges.
+Felelős: BM
+Partner: Rendőrség, KÜM (Konzuli Főosztály), BÁH, Legfőbb Ügyészség, Országos Bírósági
+Hivatal, civil szervezetek
+Forrás: a stratégia időtávjában nem igényel forrást
+Eszköz: nemzetközi áldozatirányítási rendszer, a nemzetközi áldozatirányítási rendszerről szóló
+kézikönyv
+Határidő: a rendszer Hollandiával és Belgiummal való kialakítását követően, a stratégiai tervezés
+időtávján túlmutat
+Indikátor: a rendszer segítségével irányított áldozatok száma, a rendszert felhasználó
+áldozatirányítók száma
+
+B. Hatékony megelőzés és tudatformálás, tudatosságnövelés
+Az emberkereskedelem elleni küzdelemben meghatározó szerepe van a megelőzésnek, mind a
+kereslet mind a kínálatcsökkentés révén. A hatékonyabb megelőzés érdekében a már meglévő
+projektek összehangolására, új projektek, hatékony intézkedések kidolgozására, a civil szereplők
+egységes fellépésére, a társadalom érzékenyítésére, tudatos, összehangolt kommunikációra, az
+intézkedések eredményeinek mérhetővé tételére van szükség.
+A megelőzés akkor lehet hatékony, ha az a kormányzati és nem kormányzati szervek és szereplők
+együttműködésével valósul meg, és kiemelt figyelmet fordít a kiváltó okok tekintetében
+sérülékenyebb csoportokra: például a kiszolgáltatott helyzetben lévő nőkre és gyermekekre, a
+mélyszegénységben élő közösségekre, a fogyatékossággal élő személyekre, be nem jelentett
+munkavállalókra, nevelőintézetekben, állami gondozásban nevelkedő fiatalokra.
+Jelenleg a megelőző tevékenység csak fragmentáltan, eseti jelleggel, ad hoc módon működik, de
+vannak kiemelésre érdemes kezdeményezések.
+A rendőrség bűnmegelőzési egységei a potenciális áldozati kör tagjainak megszólításával
+felvilágosító programokat és kampányokat szerveznek az emberkereskedelem – különösen a
+prostitúció, koldulás, tiltott munkára kényszerítés – veszélyeinek megismertetése, az elhárító
+magatartásformák kifejlesztésének elősegítése érdekében. A rendőrség közel 20 éve indította el
+általános iskolai bűnmegelőzési programját, amely azóta többször megújult. A D.A.D.A. program
+utoljára 2010 decemberében került teljes átdolgozásra a kompetencia alapú oktatás kívánalmait
+szem előtt tartva, az élménypedagógia, drámapedagógia és a korosztályi sajátosságokra építve,
+amely többek között a fiatalok média-orientáltságára is támaszkodó korszerű, oktatási céllal készült
+bűnmegelőzési kisfilmeket is felhasznál az iskolai oktatásban.
+Az áldozattá válás megelőzésére az Országos Rendőr-főkapitányság Megelőzési Főosztálya 2006-
+ban a Nemzetközi Migrációs Szervezet közreműködésével módszertani útmutató dolgozott ki,
+amely az emberkereskedelem folyamatát, a toborzás módszereit, az alkalmazott eszközöket, a fedési
+lehetőségeket, a leggyakrabban ajánlott tevékenységeket, az áldozattá válás megelőzésének
+speciális módszereit mutatja be. Az útmutató alapján a Baranya Megyei Rendőr-főkapitányság
+„Biztos, hogy ezt akarod?!” címmel a prostitúció és a hozzá tartozó bűncselekmények megelőzését
+célzó programot dolgozott ki. A program részeként minden tanév elején tájékoztatják a megye
+középiskoláinak, nevelőotthonainak vezetőit arról, hogy igény szerint a diákoknak osztályfőnöki
+órák, vagy délutáni foglalkozások keretében lehetőséget teremtenek - a prostitúció és az azt
+körülvevő bűncselekmények veszélyeiről történő - felvilágosító előadások meghallgatására.
+A Prevenciós médiatár projekt keretében 2011-ben „Álláshirdetés?” címmel bűnmegelőzési film
+készült, amelynek célja az iskolás korú diáklányok figyelmének felhívása az
+emberkereskedelemmel és prostitúcióval kapcsolatos ismeretekre és veszélyekre, illetve
+érzékenyítésük a téma iránt.
+
+Az EURES Magyarország és az Országos Rendőr-főkapitányság Európában egyedülálló
+együttműködésének köszönhetően, 2012 során jelentős lépéseket tett az emberkereskedelem
+visszaszorítására. Közös kampányt indítottak abból a célból, hogy felhívják a figyelmet a külföldi
+munkavállalásban rejlő veszélyekre, informálják a külföldön dolgozni szándékozókat a jogaikról és
+lehetőségeikről, és segítsék a már bajbajutott magyar állampolgárokat.
+Az emberkereskedelem elleni küzdelem nemzeti koordinátora vezetésével a Belügyminisztérium
+fontos feladatként határozta meg az emberkereskedelem elleni küzdelemben érintett hazai és
+nemzetközi szereplőkkel való együttműködést, a jelenség elleni megelőző, prevenciós
+köztudatformáló kampányok, tevékenységek szervezését és az ebben való aktív részvételt. Erre való
+tekintettel az 1993 óta megrendezésre kerülő, európai szinten ismert és közkedvelt Sziget Fesztivál
+keretében öt napos megelőző és figyelemfelhívó kampány került végrehajtásra. A Sziget Fesztivál,
+és ezen belül a Civil Szigeten való részvétel kitűnő lehetőséget teremtett a téma iránt érdeklődő
+fialtatoknak, hogy megismerjék a számos esetben félreértett jelenséget, felismerjék a veszély jeleit
+és ismeretet szerezzenek a kampányban résztvevő partnerek releváns szerepvállalásáról.
+Az Emberi Erőforrások Minisztériuma támogatásával valósul meg az ország egyik leghátrányosabb
+helyzetű megyéjében 2013. szeptember 30-ig egy 14-18 éves korosztályt megcélzó figyelemfelhívó,
+érzékenyítő prevenciós pilot projekt az áldozattá válás esélyének csökkentése érdekében. A pilot
+program keretében sor kerül egy módszertani csomag kidolgozására, ami megalapoz egy
+országosan elterjeszthető prevenciós programot.
+Célkitűzések:
+B.1. Keresletcsökkentés
+B.2. Kínálatcsökkentés
+Intézkedések:
+B.1.1. - B.2.1 Társadalmi tudatosság növelése érdekében kommunikációs és képzési intézkedési terv
+kidolgozása
+A társadalmi tudatformálás érdekében több csatornát vehetünk igénybe. Egyrészt a
+médiaplatformok kommunikációs folyosóit, ahol a média különböző eszközei – társadalmi
+hirdetések, reklámok, spotok, felvilágosító kisfilmek adnak tájékoztatást az emberkereskedelemmel
+kapcsolatos legfontosabb információkról.
+Másrészt az emberkereskedelem potenciális vagy tényleges áldozataival kapcsolatba kerülő
+intézmények munkatársai, a területen dolgozó szakemberek rendszeres képzése, tudatformálása
+kiemelten fontos. A képzés markáns része emellett az emberkereskedelem elleni küzdelem egységes
+elgondoláson alapuló, rendszerszemléletű, differenciált megjelenítése a szakmai képzésekben,
+továbbképzésben és az oktatásban. A meglévő képzések nincsenek összehangolva, ugyanakkor
+léteznek olyan képzési formák, amelyek képesek az emberkereskedelem elleni küzdelem témáinak a
+
+befogadására. A magyar közoktatás és felsőoktatás rendszerében jól meghatározhatóak azok a
+területek, ahova az emberkereskedelem elleni küzdelem képzési feladatai beilleszthetőek.
+A prevenció érdekében alkalmazott tudatosan irányított „médiahasználat”, valamint a célirányos
+oktatás, képzés mellett olyan programok kidolgozása tűnik a leghatékonyabb módszernek, amelyek
+a felvilágosítást és tudatosság növelését szolgálják, ide értve olyan prevenciós programok
+kidolgozását is, amelyek az áldozattá válás esélyeit is érdemben képesek csökkenteni.
+Felelős: BM, EMMI, NMHH
+Partner: Nemzeti Koordinációs Mechanizmus, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, 50.000 EUR, 15.000.000 HUF
+Eszköz: kutatás és programterv elkészítése
+Határidő: 2015
+Indikátor: kommunikációs és képzési intézkedési terv
+B.1.2. -B.2.2. A társadalmi tudatosságnövelés tevékenységébe a média bevonása
+A téma össztársadalmi szinten történő megjelenítéséhez az áldozatok irányításában és ellátásában
+részt vevő állami és civil szervezetek mellett elengedhetetlen a média bevonása is.
+a) közszolgálati média
+A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 83. § (1)
+bekezdés d) pontja alapján a közszolgálati médiaszolgáltatás célja az alkotmányos jogoknak, a
+törvényes rend alapértékeinek és a demokratikus társadalmi rend szabályainak megismertetése,
+támogatása. Ez a rendelkezés kellő alapot biztosít ahhoz, hogy közszolgálati műsorokban
+bemutatásra kerüljön az emberkereskedelem, az ellene folytatott küzdelem, és az áldozatok számára
+rendelkezésre álló lehetőségek. Sikeres büntetőeljárások esetén az arról szóló tudósításokban meg
+kell jeleníteni azt is, hogy az áldozatok számára biztosított a segítségnyújtás rendszere.
+b) kereskedelmi média
+Több európai uniós országban jól bevált gyakorlat, hogy az áldozatsegítő szolgálatok megjelennek a
+kereskedelmi és állami televíziók saját gyártású sorozataiban. Hazánkban is több olyan televíziós
+sorozat szerepel a kínálatban, amelyek nagy nézettséggel bírnak, így a társadalmi tudatformálásban
+betöltött szerepük is jelentős. Ezért meg kell találni annak a módját, miként lehet az
+emberkereskedelem jelenségének bemutatását és az áldozatok ellátását belefűzni e televíziós
+sorozatok történetszálába.
+Felelős: BM, EMMI, NMHH
+Partner: Nemzeti Koordinációs Mechanizmus, civil szervezetek
+
+Forrás:
+-‐ a médiában való megjelenési forrást nem igénylő módjának megtalálásához
+médiaszakemberek bevonása szükséges
+Eszköz:
+-‐ közszolgálati híradásokban és műsorokban történő megjelenés általánosan és konkrét ügyek
+kapcsán egyaránt
+-‐ populáris kereskedelmi műsorokban történő megjelenés
+Határidő: folyamatos
+Indikátor: megnövekedett társadalmi tudatosság
+B.1.3. – B.2.3. Polgárőrség, az önkormányzati rendészeti szervek (pl. közterület felügyelet)
+bevonása szükséges a megelőző munkába
+A társadalmi bűnmegelőzés rendszere akkor teljes, ha a helyi és a tágabb közösség is részt vállal
+benne. A hatékony megelőzéshez egyformán fontos a rendőrség szolgálati ágainak összehangolt
+tevékenysége, valamint az állami és civil szervezeteknek, különösen az önkormányzatoknak - ezen
+belül is azok rendészeti szerveinek -, egyházaknak, a gazdasági élet szereplőinek, továbbá a
+közösségeknek és a magánszemélyeknek az aktív közreműködése.
+A polgárőrségről és a polgárőri tevékenység szabályairól megjelent 2011. évi CLXV. törvény
+életbelépésével a polgárőrség eddigi bűnmegelőzési szerepe, tevékenysége magasabb szinten került
+szabályozásra. A törvény a polgárőrség alapfeladataként szabályozza a polgárőr egyesületek
+bűnmegelőzésben való közreműködését, a bölcsődék, óvodák, általános és középiskolák közvetlen
+közelében jelzőőri tevékenység ellátását. Kiemeli a bűnmegelőzési, áldozatvédelmi tevékenység
+támogatását, a lakosság és önkormányzatok közötti kapcsolat erősítését. A polgárőrség és az
+önkormányzatok rendészeti szervei évek óta hatékonyan vesznek részt a társadalmi
+bűnmegelőzéssel összefüggő feladatok végrehajtásában, a rendőrség bűnmegelőzési
+tevékenységének erősítésében, rendezvényeken, felvilágosító-, és propagandamunkában,
+megelőzési akciókban. Őrjáratokban való részvételükkel segítik a hatékony megelőzést, az
+áldozatok mielőbbi ellátásba kerülését.
+Ahhoz, hogy az emberkereskedelem elleni küzdelemben mind a megelőző, mind az
+áldozatazonosítási,- irányítási,- védelmi rendszer működtetésében számíthassunk a polgárőrség és
+önkormányzatok rendészeti szerveinek hatékony közreműködésére elengedhetetlen megfelelő
+felkészítésük, képzésük. A rendőri szervek - polgárőr szervezetek - önkormányzatok rendészeti
+szerveinek együttes, összehangolt, emberkereskedelem megelőzését célzó tevékenységének
+eredményétől a felvilágosító munka hatékonyságának fokozódását, az áldozatok számának
+csökkenését, az áldozatok szakszerű, hatékony és mielőbbi ellátásba kerülését várhatjuk.
+Felelős: BM, Rendőrség
+Partner: polgárőrség
+Forrás: Belső Biztonsági Alapból megvalósítható (A.1.3 intézkedéssel együtt)
+
+Eszköz: képzés
+Határidő: 2014-2016
+Indikátor: hatékonyabb felvilágosító munka, áldozatok számának csökkenése, áldozatok
+szakszerű, hatékony ellátása
+B.1.4. – B.2.4. Közös informatikai platform az emberkereskedelem elleni küzdelem szolgálatában,
+amely a kereslet,- és kínálatcsökkentésére irányuló törekvések támogatását is ellátja
+Az emberkereskedelem elleni küzdelemben érintett nemzeti hatóságok, kormányzati-, fél-
+kormányzati szervek és civil szervezetek részére jelenleg nem áll rendelkezésre olyan közös
+informatikai platform, amely az általános ismeretterjesztés mellett, a szakmai kapcsolattartásnak,
+szakmai anyagok közzétételének, illetve cseréjének, a jó gyakorlatok megosztásának, illetve a közös
+fellépés összehangolásának is praktikus teret biztosítana, illetve e mellett nem kellően kiforrott a
+közösségi oldalak, internet adta lehetőségek hatékony felhasználása sem.
+Az általános lehetőségeken túl, egy már meglévő, az általános ismeretterjesztés követelményének
+megfelelő website olyan irányú fejlesztése szükséges, hogy az emberkereskedelem elleni
+közdelemben részt vevő hatósági, kormányzati, félkormányzati szervek, illetve civil szervezetek
+tagjai számára napi kapcsolattartási pontként, szakmai fórumként is működhessen, a leggyorsabb,
+leghatékonyabb és leggazdaságosabb szakmai kommunikációs és információmegosztó felületként.
+Ez a struktúra lehetőséget biztosít akár egyszerű információ-megosztásra, de adott esetben egy
+probléma együttes kezelésére, illetve eljárási protokoll ad hoc kialakítására is, amely a mindennapi
+munka során jól alkalmazható.
+A kereslet csökkentését célzó szakmai topic lehetőséget adhat a legjobb nemzetközi gyakorlatok
+megvitatására és a hazai környezetbe átültethető elemeinek hatékony alkalmazására, illetve a
+jövőben zajló, kereslet csökkentését célzó hazai és nemzetközi plakát-kampányok,
+sajtóközlemények, riportok, felmérések, oktatási segédanyagok is helyet kapnának benne.
+A kínálat csökkentését célzó szakmai topic lehetőséget ad majd a legjobb nemzetközi gyakorlatok
+megvitatására és a hazai környezetbe átültethető elemeinek hatékony alkalmazására, illetőleg az
+érdekeltek együttes fellépésének hatékony megszervezésére és koordinálására is.
+A weboldal tartalmának legaktuálisabb elemei a nagyobb közösségi oldalakon is megoszthatóak
+lennének, növelve mind a weboldal, mind pedig az emberkereskedelemhez kapcsolódó problémakör
+ismertségét.
+Meg kell vizsgálni, illetve át kell ültetni a német rendészeti társszervek azon jó gyakorlatát, amely
+aktív jelenlétet biztosít a legnépszerűbb közösségi oldalon, ahol folyamatosan közlekedési
+információkat, bűnmegelőzés és tájékoztatás tárgykörébe tartozó egyéb információkat, felhívásokat,
+kampányokat, tájékoztatókat, körözéseket, hasznos tanácsokat osztanak meg a felhasználókkal, amit
+
+rendszeresen frissítenek. A hatósági profilok látogatottsága igen magas, így e profilokon keresztül
+hatékony bűnmegelőzési célkampányok is folytathatóak.
+Felelős: BM
+Partner: Miniszterelnökség, a kormany.hu szerkesztősége vagy website szerkesztéssel foglalkozó
+cég
+Forrás: Belső Biztonsági Alapból megvalósítható 10.000 EUR, 3.000.000 HUF
+Eszköz: weboldal
+Határidő: 2016
+Indikátor: szakmai-, ismeretterjesztési-, és köznevelést segítő funkciókat is ellátó, közismert
+szakmai weboldal működése; aktív jelenlét a legnépszerűbb közösségi oldalon
+B.1.5.- B.2.5 Dedikált keresletcsökkentést és kínálatcsökkentést szolgáló tájékoztató anyagok
+készítése
+Az emberkereskedelem csökkentése érdekében kitűzött preventív tudatformáló és tudatosságnövelő
+gyakorlat olyan egységesen használható információs anyagokat követel meg, amelyek – a könnyű
+felismerhetőség érdekében - érthetően, tömören foglalják össze az emberkereskedelemmel
+kapcsolatos szükséges fogalmakat. Megmutatják a követendő magatartást egy jól felismert, konkrét
+helyzet vonatkozásában mind a potenciális áldozat, mind pedig a potenciális és tényleges áldozattal
+érintkezésbe lépő személyek részéről, bemutatják az emberkereskedelem áldozati és elkövetői
+oldalon felmerülő lehetséges, prognosztizálható következményeit. A felvilágosító és tanácsadó
+füzetek olyan részletességgel kell, hogy információt nyújtsanak az emberkereskedelem releváns
+kérdéseiről, hogy az tekintettel legyen a különösen veszélyeztetett társadalmi csoportok specifikus
+adottságaira is.
+A fokozottan veszélyeztetett társadalmi csoportok közé tartoznak általánosságban a gyermek-, és
+fiatalkorúak, a fogyatékosság valamilyen formájával élő személyek, valamint a romák. Tekintettel
+arra, hogy a gyermekotthonok, és a speciális otthonok lakói között nagy számú fogyatékkal élő,
+illetőleg roma származású gyermek, és fiatalkorú van, így a gyermekotthon alkalmazottainak
+speciális képzése a sajátságosan számukra kifejlesztett tájékoztató anyag által különösen indokolt.
+A széleskörű tájékoztatás eredményeként a látens áldozatok könnyebben azonosítják be önmagukat
+emberkereskedelem áldozataként, nő az áldozattudatuk, ezáltal csökken a látencia nagysága. A
+veszélyek és a védekezés módjának bemutatásával csökkenteni tudjuk a potenciális áldozatok
+számát. A védelmi garanciák bemutatásával nő az áldozatok bizalma az igazságszolgáltatásban, ez
+hozzájárul a büntetőeljárás sikeres lefolytatásához.
+A keresletet célzó köztudatformáló kampányoknak, programoknak, tájékoztatóknak a hangsúlyt a
+megváltozott jogszabályi háttérre kell helyezniük, tudatosítaniuk kell a kizsákmányolás büntetni
+rendeltségét, a büntető eljárás elkerülhetetlenségét, a kiszabható legmagasabb büntetési tételeket.
+
+Azt a célt kell szolgálniuk, hogy alkalmasak legyenek a potenciális kliensek szemléletének
+átalakítására, ezáltal járulva hozzá a kereslet csökkenéséhez.
+A társadalmi célú hirdetések lehetővé teszik, hogy mint az elektronikus média hagyományos (rádió,
+televízió) és új (on-line televíziózás, rádiózás, internetes sajtóportálok) közlésmódjai, minél
+szélesebb körben hívják fel a lakosság figyelmét a jelenségre. Mivel a társadalmi hirdetések célja
+minden esetben valamilyen, a társadalom számára hasznos cél közvetítése, így azoknak kellőképpen
+figyelemfelkeltőnek kell lenniük, számolva a társadalmi tudatosság jelenlegi szintjének számlájára
+írható, általános információhiányból fakadó esetleges értelmezési problémákkal.
+Felelős: BM, Rendőrség
+Partner: EMMI
+Forrás: Belső Biztonsági Alapból megvalósítható, 10.000 EUR/év, 3.000.000 HUF/év
+Eszköz: köztudatformáló kampányok, programok, tájékoztatók
+Határidő: 2016
+Indikátor: tájékoztató anyagok, kampányok száma
+B.1.6.-B.2.6. A prostitúció jelenségének kezelésével kapcsolatos hazai kormányzati intézkedések és
+a különböző civil és érdekvédelmi szervezetek programjainak összegyűjtése, értékelése, az
+eredmények alapján a szabályozási rendszer felülvizsgálata
+A kutatási célok teljesítésével lehetővé válik a kereslet dinamikájának jobb megértése, különös
+tekintettel a kényszerprostitúciót igénybe vevők és szervezők beállítódásainak és motivációinak a
+feltérképezésére, a nemzetközi szervezett bűnözés profitjának minimalizálására.
+A tudományos kutatások terén elért nemzetközi eredmények megismerése és a tudományos
+együttműködés lehetőséget ad a kereslet csökkentése terén az unióban kialakult „legjobb
+gyakorlat”-ok felkutatására, vizsgálatára és hazai viszonyoknak megfelelő alkalmazására.
+Az emberkereskedelemmel kapcsolatos jelenlegi tudományos kutatások nem kötődnek szorosan a
+Kormány emberkereskedelem elleni nemzeti stratégiájához, az emberkereskedelem keresleti
+oldalának vizsgálatához, a kereslet csökkentéséhez.
+A nemzetközi együttműködés során lehetőség van az unós államok legjobb gyakorlatának
+megismerésére, azonban ezek magyar viszonyokra való adaptálására kevés példával rendelkezünk.
+Az emberkereskedelem elleni küzdelem keresleti oldaláról olyan tudományos ismeretekkel fogunk
+rendelkezni, amelyek megalapozzák a szakmai szervek hatékony problémamegoldó tevékenységét.
+Az egyes kutatásokat záró konferenciák lehetőséget adnak az eredmények megvitatására, a
+kapcsolatok kialakítására és az információcserére is.
+Az uniós államokban megvalósuló gyakorlat hazai viszonyokra való adaptálásával
+hatékonyságnövelés érhető el.
+
+Felelős: BM Oktatási, Képzési és Tudományszervezési Főigazgatóság, NKE
+Partner: OKRI, civil szervezetek
+Forrás: a megvalósítás kezdeti lépései a szemléletformálással és a problémaérzékenységgel a
+jelenleg rendelkezésre álló forrásokkal is megoldhatóak.
+A hatékony megvalósítás célzott támogatást igényel. Ezek forrása lehet OTKA, illetve MTA
+kutatásfejlesztési pályázat, 10.000.000 HUF
+Eszköz: az intézkedés megvalósításához szükséges eszköz többek között a tudományos kutatás
+lehetőségeinek mozgósítása. A szakmai szervezetek, minisztériumok emberkereskedelem keresleti
+oldalának vizsgálatára hirdessenek meg tudományos pályázatokat.
+Határidő: az intézkedés megvalósítása folyamatos, a tudományos kutatóhelyek munkatervei
+szerint.
+Indikátor: kutatások eredménye
+B.2.7. Az Internet lehetőségeinek kihasználása a gyermekek védelme érdekében, illetve a szexuális
+és a munkacélú kizsákmányolás terén az áldozattá válás megelőzésére
+Jelenleg a tartalom-, és digitális szolgáltatók által alkalmazott magatartási kódexek nem mindig
+felelnek meg az átláthatósággal, a függetlenséggel, a bizalmas adatok kezelésével és a személyes
+adatok feldolgozásával kapcsolatos európai vagy nemzeti jogszabályok követelményeinek, amelyet
+az Európai Parlament állásfoglalása (2012/2068/INI) is megerősít.
+Az európai uniós célokkal összhangban szükséges felülvizsgálni, hogy hazánkban mennyire
+működnek hatékonyan a szexuális és munkacélú kizsákmányolással kapcsolatba hozható tartalmak
+önkéntes osztályozására szolgáló különböző rendszerek, illetve az audiovizuális és digitális
+médiaszolgáltatókkal közösen ki kell dolgozni azon alapvető magatartási szabályokat, amelyet
+beépíthetnek a szolgáltatók saját alapszabályaikba, illetve amely alapján elvárhatóvá kell tenni a
+gyermekeket érintő tartalmak esetében az ajánlott életkor megjelenítési kötelezettségét.
+Ezzel párhuzamosan természetesen vizsgálni szükséges az alkalmazott értesítési, illetve eltávolítási
+eljárások hatékonyságát, a legjobb nemzetközi gyakorlatok figyelembevételével.
+Külön értékelni kell a hazai és a tagállamok közötti rendészeti együttműködés hatékonyságát a
+gyermekeknek az internetes bűncselekményekkel szembeni védelmére irányuló megelőző
+fellépések kapcsán.
+A releváns információkat hozzáférhetővé kell tenni az internetes potenciális „áldozatforrás”
+hirdetések környezetében, akár egy állandóan felugró, ún. „pop-up” ablak formájában a
+munkaközvetítő oldalakon, illetve a társkereső, valamint a szexpartner kereső, szexuális
+szolgáltatatást kereső-kínáló tartalmakat kezelő felületeken is olyan módon, hogy a tisztességes
+piaci magatartást tanúsító szolgáltatók érdekeit ne sértse.
+
+Értékelni kell az igazságszolgáltatás és a civil szféra együttműködési megállapodásait, hogy azok
+képesek-e megfelelni a hatékony hotline, illetve együttműködési koordináció követelményeinek,
+továbbá az áldozattá válás megelőzősét célzó kampányok és törekvések megfelelően
+érvényesülnek-e a digitális térben.
+A szexuális, illetve munka célú kizsákmányolással összefüggő tartalmak esetében ki kell dolgozni a
+gyermekek közvetlen hozzáférésének protokollját és a kötelező szülői hozzájárulás rendszerét az
+azonosításra alkalmas adatok kezelése tekintetében, különös figyelemmel a közösségi hálózatok és
+chatszobák elterjedésével egyre intenzívebb személyes adatokat érintő információáramlásra.
+Az ilyen tartalmak vonatkozásában általánosan be kell vezetni a figyelmeztető oldalak, vagy egyéb
+hallható, illetve látható jelzések rendszerét.
+A pedofíliával összefüggő online tartalmak megosztása zömmel fájlcserélő rendszerek útján valósul
+meg, ezek monitorozására pedig kiváló nemzetközi gyakorlat áll rendelkezésre, amelynek
+megismerés, átvétele napjaink feladata, a gyakorlat megismertetését az FBI szervezett - gyakorlat-
+orientált - oktatás rendszerében biztosítja.
+Felelős: BM
+Partner: NKE, NMHH
+Forrás: Belső Biztonsági Alapból megvalósítható, 9.000.000 HUF/év, 3000 EUR/év
+Eszköz: tudományos kutatások, értékelő-elemző tevékenység a meglévő adatok alapján hazai és
+nemzetközi szinten, nemzetközi gyakorlatok monitorozása, konferenciák szervezése a témában,
+Internet Hotline üzemeltetése az NMHH által
+Határidő: 2015-2016
+Indikátor: Európai Parlament állásfoglalásának történő megfelelés (2012/2068/INI)
+B.2.8. A NAT alapján megvalósuló szexuális életre nevelés tananyagának kiegészítése az
+emberkereskedelem veszélyeire való figyelemfelhívással
+Egy tantervbe integrálható – a tudatosság adott életkorban általános elvárhatósági szintjén
+elkészített - segédanyag iskolai oktatásban, nevelésben való felhasználásával lehetőség nyílna a
+tanulók emberkereskedelemmel kapcsolatos ismeretanyagának bővítésére, a megelőzéssel
+kapcsolatos tudnivalók elsajátítására, kiemelt figyelemmel a tanulók, valamint az iskolák esetleges
+speciális szükségleteire.
+Az áldozattá válás megelőzése kapcsán célszerű bemutatni az emberkereskedelem folyamatát, a
+toborzás módszereit, az alkalmazott eszközöket, a fedési lehetőségeket, a leggyakrabban ajánlott
+tevékenységeket és a végső célt, ezzel is tudatosítva az áldozattá válás kockázatát. A felvilágosító
+munka megvalósulhat előadások, fórumok vagy egyedi tanácsadás, illetve tájékoztató kiadványok,
+szórólapok, társadalmi célú hirdetések, kisfilmek, spotok formájában. Elengedhetetlen azon
+információk átadása, hogy a már áldozattá váltak hová fordulhatnak segítségért, a segítségnyújtás
+
+mely formáit vehetik igénybe, milyen segítséget, milyen védelmi garanciákat kaphatnak, hogyan
+előzhetik meg az ismételt áldozattá válást.
+Felelős: Nemzeti Koordinációs Mechanizmus (a részanyag kidolgozásáért), EMMI (a tantervbe
+integrálásáért)
+Partner: -
+Forrás: nem igényel külön forrást
+Eszköz: rövid részanyag kidolgozása, felvilágosító munka, tájékoztató anyagok
+Határidő: 2015
+Indikátor: oktatásban részesített tanulók száma
+C. Az elkövetők felderítése, felelősségre vonása, a sértettek/áldozatok jogainak, és
+érdekeinek megóvása
+Az emberkereskedelem tárgyában érintett specifikus szervezeti egység kizárólag a rendőrségen
+található. Az ügyészség, bíróság rendszerében a büntetőeljárási törvény, vagy belső igazgatási
+szabályok alapján "specializált" szervezeti egység, vagy hasonló szakmai hálózat nem található. Az
+eljárás a büntetőeljárási jog általános rendelkezései alapján törvényszékek, illetve (megyei)
+főügyészségek előtt zajlik.
+Az emberkereskedelem transznacionális formái esetében indított büntetőeljárásokban a nemzetközi
+bűnügyi együttműködés meglévő eszközeinek hatékonyabb alkalmazása elengedhetetlen, ahogyan a
+hatóságok közötti információcsere, valamint a legjobb gyakorlatok megosztása is. Annál is inkább,
+mert az elkövetési magatartás különböző országokban megvalósított részcselekményei (toborzás,
+elszállásolás, szállítás, kizsákmányolás) egymástól elkülönülten nem, vagy nehezen értékelhetők, a
+bűncselekmény bizonyításához a teljes folyamat – legalább tényszerű – felderítése szükséges.
+Az EU tagállamok közötti együttműködés vonatkozásában általánosságban kijelenthető, hogy
+megfelelő, gyors, hatékony. Adott az igazságügyi hatóságok közötti közvetlen kapcsolatfelvétel
+lehetősége, számos, az együttműködést segítő fórum működik. Lehetőség van az eljárást könnyítő
+közös nyomozócsoport felállítására, a bűnügyi és igazságügyi együttműködés lehetőségei, formái
+széles körben szabályozottak. A nemzetközi együttműködés területén az uniós jogalkotás aktív,
+innovatív, e körben hazánk részéről, kifejezetten az emberkereskedelemmel összefüggésben önálló
+intézkedésre alapvetően nincs szükség. Külön ki kell emelni az európai elfogatóparancs
+intézményét, amely egyrészt un. katalogizált cselekményként kezeli az emberkereskedelem
+bűncselekményét (ami jelentősen egyszerűsíti az eljárást), másrészt - szemben a nem EU-s országok
+tekintetében alkalmazható nemzetközi elfogatóparanccsal - lehetővé teszi megkeresett ország saját
+állampolgárainak átadását a megkereső állam részére.
+Az EU-n kívüli nemzetközi bűnügyi együttműködés kevésbé hatékony. A kommunikáció
+elsődlegesen a központi hatóságok útján, közvetett módon történik, hiányoznak a gyors és hatékony
+ügyintézést elősegítő fórumok, az eljárási szabályok formálisak, nehézkesek. Előremutató
+
+megoldást jelenthetne az 1959. évi Strasbourgi Bűnügyi Együttműködésről szóló Egyezmény II.
+Kiegészítő Jegyzőkönyvének alkalmazása, amely az EU-n belüli együttműködéshez hasonlóan
+hatékony kereteket, lehetőséget teremtene. A kiegészítő jegyzőkönyvet hazánk aláírta, ugyanakkor
+nem ratifikálta. Az emberkereskedelem elleni küzdelemben hazánk szempontjából stratégiai
+szerepet betöltő Svájc, Ukrajna, valamint valamennyi balkáni ország ratifikálta a jegyzőkönyvet,
+így a kiegészítő jegyzőkönyv ratifikálása komoly előrelépést jelenthetne ezen országokkal történő
+nemzetközi együttműködésben.
+A büntetőeljárási törvény nem ismeri, nem alkalmazza az áldozat fogalmát, illetve a korábban
+ismertetett áldozatvédelem sem célját, sem eszközrendszerét tekintve nem tekinthető azonosnak a
+büntetőeljárásban alkalmazott tanúvédelemmel. A büntetőeljárás alapvető jogok biztosítása,
+közvetítői eljárás lehetősége, polgári jogi igény érvényesítése és hasonló eszközök útján ismeri és
+elismeri a sértetti érdekek, a sértetti pozíció védelmét, amely tekinthető egyfajta áldozatvédelemnek
+is - hiszen az emberkereskedelem bűncselekménye esetében a büntetőjogi értelemben vett sértett
+azonos a stratégiában alkalmazott áldozat fogalmával-, ugyanakkor a büntetőeljárás célja elsősorban
+nem az áldozat sérelmeinek orvoslása (reparáció), hanem az állam büntetőjogi igényének
+érvényesítése. Ennek érdekében a büntetőeljárás "önös módon" részletesebben rendezi - az
+eredményes eljárás/bizonyítás egyik eszközeként - a tanú védelmének kérdését, ugyanakkor az
+áldozat védelme, az áldozatok speciális igényeinek figyelembe vétele kevésbé hangsúlyosan jelenik
+meg.
+Mindazonáltal a terhelti jogok csorbítása nélkül, az Emberi Jogok Európai Bírósága, valamint az
+Európai Bíróság vonatkozó esetjogára figyelemmel, azokkal összhangban biztosítani kell a
+sértettek/áldozatok jogait és óvni érdekeiket.
+Célkitűzések:
+C.1. Az emberkereskedelem elleni hatékonyabb rendészeti fellépés
+C.2. A pénzügyi nyomozások és a vagyonvisszaszerzés eszközeinek hatékonyabb alkalmazása a
+büntetőeljárások során, a sértettek kompenzációja
+C.3. Az új jogszabályi környezet megismertetése a releváns szereplőkkel
+C.4. A büntetőeljárások során az áldozatok másodlagos viktimizációjának elkerülése, az
+igazságszolgáltatás iránti bizalom növelése
+Intézkedések:
+C.1.1 Adminisztratív megközelítés lehetőségeinek feltárása és alkalmazása az emberkereskedelem
+elleni küzdelemben
+Az emberkereskedelem elleni küzdelemben a büntetőjogi eszközrendszer nem kaphat kizárólagos
+szerepet. Sikeres nemzetközi tapasztalatok igazolják, hogy a legális tevékenység látszatát keltő
+
+elkövetési módszerek esetében az emberkereskedelem államigazgatási eszközökkel is
+eredményesen megelőzhető, akadályozható, felszámolható.
+Ennek érdekében hazánkban is fel kell mérni azokat a területeket, ahol az emberkereskedelem, vagy
+az ahhoz kapcsolódó bűncselekményeket igazgatási szabályokkal érintett, a jogszerűség látszatát
+keltő tevékenység keretei között, vagy a jogszabályi lehetőségekkel visszaélve követik el.
+Magyarország sajátosságait figyelembe véve az igazgatási jellegű fellépésnek elsődlegesen az
+illegális bordélyházak, a munkacélú kizsákmányolással kapcsolatos toborzási tevékenység, a házi
+rabszolgaság felszámolásával, valamint a szociálisan hátrányos helyzetű, vagy szellemileg
+fogyatékos személyek kizsákmányolásával összefüggésben lehet szerepe. Meg kell vizsgálni
+továbbá a szervezett bűnözés elleni általános fellépést lehetővé tevő igazgatási eszközök
+alkalmazását is, mint például az időszakos vagyonbevallási kötelezettség, vagy a készpénz
+forgalmát csökkentő intézkedések bevezetése. A prostitúció jelenségének megfelelően hatékony, a
+gyakorlatban is alkalmazható szabályozása ugyancsak lehetővé tenné a szexuális célú
+emberkereskedelem elleni hatékony, új adminisztratív intézkedések bevezetését.
+A pontos helyzetfelmérés eredményei alapján, az előkészítésbe bevonva az adott államigazgatási
+területeken működő szakembereket, meg kell határozni azokat a beavatkozási pontokat, ahol
+speciális igazgatási szabályok alkalmazásával, ellenőrzési módszerek, egyéb célravezető gyakorlat
+kialakításával a jogsértő tevékenység hatékonyan kimutatható, elkövetése megelőzhető,
+felszámolható. A szabályozás során törekedni kell arra, hogy az emberkereskedelem elleni hatékony
+fellépés feleslegesen ne eredményezzen adminisztratív, vagy egyéb többlet terhet a valóban legális
+tevékenységet folytatók számára.
+Az adminisztratív eszközök alkalmazásának feltétele, hogy az azokat alkalmazó tisztviselők a
+szabályozás céljait, eszközeit, eljárási rendjét, az áldozatok speciális igényeit érintően megfelelő
+képzésben részesüljenek. Szintén elengedhetetlen a rendszer folyamatos felülvizsgálata, a változó
+elkövetési minták nyomon követése, a helytelennek mutatkozó gyakorlat orvoslása. A sikeres
+módszerek kimunkálása, alkalmazása során törekedni kell arra is, hogy azok a hasonló, az
+államigazgatással érintett más bűncselekmények elleni harcban is eredményesen felhasználhatók
+legyenek.
+A igazgatási eszközök hatékony alkalmazása a büntetőjogi eszközök alkalmazásához képest
+költséghatékonyabb, azok alkalmazását kiváltó megoldás. A megelőzés ezen formája alkalmas a
+büntető igazságszolgáltatásra háruló teher csökkentésére, egyben lehetővé teszi a határozott állami
+fellépést még azt megelőzően, hogy az emberkereskedelem káros eredménye bekövetkezne, az
+áldozatok kizsákmányolására sor kerülne.
+Felelős: Nemzeti Koordinációs Mechanizmus
+Partner: a feltárt adminisztratív eszközök alkalmazásában érintett szervek
+Forrás: nem igényel forrást
+
+Eszköz: bűnügyi, jogi helyzet felmérése, értékelése, a felismert beavatkozási pontokon jogi keretek
+megteremtése, joggyakorlatok kialakítása
+Határidő: folyamatos
+Indikátor: -
+C.1.2. Multidiszciplináris bűnüldözési egység létrehozása
+Az emberkereskedelem tárgyában folyamatban lévő büntetőeljárások sajátosságai, illetve az ezzel
+harmonizáló Európai Uniós Stratégia által támasztott elvárások alapján a határon átnyúló
+cselekmények miatt nyomozásokat, az emberkereskedelem jelenségével összefüggésben indult
+eljárások koordinálását, elemzését indokolt egy multidiszciplináris bűnüldözési egység keretei
+között végezni. (C prioriáts 1. Cselekvés)9 Különösen az e körben felhalmozódott szakmai
+tapasztalatokra, a kialakult nemzetközi kapcsolatrendszerre figyelemmel a multidiszciplináris
+megközelítést a jelenlegi szervezeti felépítést alapul véve, a rendelkezésre álló kijelölt országos
+hatáskörű szervezeti egység kapacitásainak megfelelő bővítésével célszerű megvalósítani.
+Egy ilyen egység feladata, hogy nyomon kövesse az emberkereskedelem valamennyi megjelenési
+formájával, azok sajátos áldozattá válási, toborzási és egyéb elkövetési módszereivel kapcsolatos
+változásokat, figyelemmel kísérje a nyílt forrású rendelkezésre álló információkat az áldozatok által
+nyújtott szolgáltatások hirdetése, az áldozatok toborzása tekintetében. Az egységnek megfelelő
+szakismeretekkel kell rendelkezni az emberkereskedelem egészének, valamint az érintett személyek
+- elkövetők, áldozatok - kriminológiai, kriminalisztikai, pszichológiai, szociológiai, informatikai,
+illetve egyéb sajátosságainak komplex kezelésére, értékelésére.
+Felelős: BM, Rendőrség
+Partner: Legfőbb Ügyészség
+Forrás: Belső Biztonsági Alapból megvalósítható, 12.000.000 HUF, 40.000 EUR
+Eszköz: -
+Határidő: 2016
+Indikátor: egység felállítása, kijelölése, működés feltételeinek biztosítása
+C.1.3. Nemzetközi együttműködési képességek fejlesztése
+A határon átnyúló emberkereskedelem sajátosságaira figyelemmel elengedhetetlen az aktív
+nemzetközi bűnügyi együttműködés érdemi továbbfejlesztése, amelyben Magyarországnak
+képesnek kell lenni kezdeményező szerepet is betölteni.
+Tekintettel e szerteágazó és igen speciális feladatrendszer igényeire, valamint a nemzetközi
+együttműködésnek a határon átnyúló emberkereskedelem elleni eredményes küzdelemben betöltött
+központi szerepére, indokolt, hogy az emberkereskedelem területét érintő nemzetközi
+9 The EU Strategy towards the Eradication of Trafficking in Human Beings 2012–2016 COM (2012) 286 final
+
+együttműködési kötelezettségek teljesítését, koordinálását elsődlegesen, indokolt esetben
+kizárólagosan az e területen kijelölt országos hatáskörű rendészeti szervezeti egység lássa el. Az
+egység számára biztosítani szükséges, hogy a feladat ellátásához megfelelő létszámú,
+szakismeretekkel, nyelvismerettel rendelkező személyi állomány álljon rendelkezésére. Megfelelő
+forrásokat kell biztosítani arra, hogy az egység a hazai bűnügyi érdekek szempontjából indokolt
+esetekben aktív, kezdeményező, kapcsolatépítő feladatot is elláthasson. A kijelölt egységnek
+kapcsolati pontként kell működnie a területen kijelölt külföldi társszervek, valamint az
+emberkereskedelmi tárgyú bűnügyi együttműködési megállapodások tekintetében.
+A nemzetközi bűnügyi együttműködés során, illetve az egyes országokban indult büntetőeljárások
+összehangolásában szélesebb körben ki kell használni az Europol és – az ügyészség
+közreműködésével - az Eurojust kapacitásait, lehetőségeit, nagyobb számban kell törekedni közös
+nyomozó csoportok felállítására.
+Az együttműködés erősítése az érintett bűnügyi szervek összehangolt fellépését, gyors
+információáramlást, a változó elkövetési módszerek, a nemzetközi bűnügyi helyzet naprakész
+ismeretét eredményezheti.
+Felelős: BM, Rendőrség
+Partner: Legfőbb Ügyészség
+Forrás: a Belső Biztonsági Alapból megvalósítható, 30.000.000 HUF/év, 100.000 EUR/év
+Eszköz: -
+Határidő: 2016
+Indikátor: -
+C.3.1. Az új jogszabályi keretek megismertetése az igazságszolgáltatás szereplőivel és valamennyi
+egyéb érintett szereplővel, emellett általános, programozott képzési terv kidolgozása számukra
+A 2011/36/EU irányelv és a 2013. július 1-jén hatályba lépő 2012. évi C. törvény, beleértve az
+emberkereskedelem és a kapcsolódó bűncselekmények, részben új törvényi tényállásának
+megismertetése, illetve a már most felmerülő értelmezési kérdések megvitatása folyamatosan zajlik.
+Az oktatás részét kell, hogy képezze az Európai Parlament és a Tanács a bűncselekmények
+áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról
+szóló, még átültetésre váró 2012/29/EU irányelv is.
+Az Európai Bizottság is erősíti az igazságszolgáltatásra és a határokon átnyúló bűnüldözésre
+összpontosító képzési tevékenységét. Elsősorban a különböző szereplők összefogására összpontosít
+annak érdekében, hogy növelje a szakpolitikai koherenciát, és adott esetben meghatározott
+területekre és szereplőkre koncentráljon.
+A CEPOL emberkereskedelemmel kapcsolatos képzéseket, valamint közös tantervet és e-learning
+modult biztosít a rendőrtisztek számára. A Frontex az emberkereskedelemmel kapcsolatos speciális
+
+képzési anyagot dolgozott ki az illegális migrációval foglalkozó szakemberek számára. Az
+emberkereskedelem áldozatainak felderítésével és kezelésével kapcsolatos eszközök és információk
+az Európai Menekültügyi Támogatási Hivatal (EMTH) eszköztárának részét fogják alkotni a
+képzési modulokban és kézikönyvekben.
+Az uniós intézmények nyújtotta lehetőségeket a szakmai szervezetek részben használják ki. Több
+képzésen a napidíj biztosítása, esetenként a nemzeti előfinanszírozás miatt nem vesz részt magyar
+résztvevő. A megszerzett új ismereteknek és tapasztalatoknak a hazai viszonyokra való
+adaptálására, az alapképzésbe való beillesztésére nincs egységes koncepció és gyakorlat. A
+kézikönyveket, oktatási segédleteket nem mindig fordítják magyar nyelvre.
+Az intézkedés végrehajtásával mind az alapképzésben, mind a munka és a szolgálati helyeken folyó
+továbbképzésben, önképzésben, - ezáltal a szakmai munkavégzésben is - jelentős
+hatékonyságnövelés érhető el. Javulnak az emberkereskedelem elleni küzdelem magyar
+résztvevőinek nemzetközi együttműködési kompetenciái.
+Felelős: BM, BM Oktatási, Képzési és Tudományszervezési Főigazgatóság, Országos Bírósági
+Hivatal
+Partner: OKRI, NKE, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, A.1.3 intézkedésnél figyelembe véve
+Eszköz: a meglévő eszközökkel biztosítható az intézkedés végrehajtása. A tananyag kerüljön
+feltöltésre a http://emberkereskedelem.kormany.hu/ honlapon gyakorlati szakembereknek
+létrehozandó online platformra is.
+Határidő: 2014-2016
+Indikátor: kidolgozott képzési anyagok, képzésbe bevont személyek száma
+C.4.1 Az áldozatok szerepének, vallomásuk jelentőségének újragondolása a büntetőeljárásban –
+különös tekintettel az emberkereskedelem áldozataira - a rendelkezésre álló eljárásjogi eszközök
+áldozatközpontú alkalmazása, valamint új nyomozati technikák alkalmazása
+Az emberkereskedelem büntetőjogi megközelítésének lényeges eleme az áldozat helyzete a
+büntetőeljárásban.
+Eljárásjogunk szerint az emberkereskedelem áldozatai sértetti pozícióban részben lehetőségeik
+(indítványtételi joguknál fogva), részben (tanúvallomás-tételi) kötelezettségük miatt aktív
+résztvevői a büntetőeljárásnak.
+Az általuk szolgáltatott bizonyíték evidensen alapvető fontosságú, azonban kizárólag az ő
+tanúvallomásuk nem elegendő az elkövető(k) felelősségre vonásához. A szervezett bűnözés elleni
+harcban alkalmazott speciális metodikák, titkos nyomozati eszközök, továbbá az
+emberkereskedelem sajátosságait figyelembe vevő további nyomozási technikák alkalmazásával
+biztosítani kell, hogy lehetőleg az eljárás az áldozatok vallomása nélkül is lefolytatható legyen,
+
+illetve ilyen módon vallomásuk esetleges visszavonása, módosítása ne befolyásolja alapvetően az
+eljárás kimenetelét.
+Az áldozatvédelem, az áldozat reparációjának, reintegrációjának feladatai inkább a büntetőeljáráson
+kívül működő állami és civil szervezetek feladata, ezeket a funkciókat a büntetőeljárás nem képes
+betöltetni. Ugyanakkor tény, hogy a büntetőeljárás - az adott cél illetve eszközrendszer keretei
+között is - nagyobb teret biztosíthatna a bűncselekmények áldozatainak megfelelő(bb) kezelésére,
+amely során a hangsúlyt az áldozatvédelem helyett, az áldozatok sajátos helyzetét méltányolható
+módon kezelő eszközrendszer kialakítására kell helyezni.
+Ahhoz, hogy az áldozatok tisztában legyenek az eljárásjogi szerepükkel, kötelezettségeikkel,
+lehetőségeikkel, mindezekről kellően részletes tájékoztatást kell kapniuk. Ennek során figyelembe
+kell venni az áldozatok személyes helyzetét, életkorát, nemét, esetleges fogyatékosságát és
+érettségét, tiszteletben kell tartani a fizikai, szellemi és erkölcsi sérthetetlenségét.
+Felelős: BM, Rendőrség
+Partner: KIM, Legfőbb Ügyészség, Országos Bírósági Hivatal
+Forrás: nem igényel forrást
+Eszköz: területen dolgozó szakemberek képzése, speciális nyomozati technikák kidolgozása,
+alkalmazása, áldozatközpontú tájékoztatási gyakorlat, technikák kialakítása, alkalmazása
+Határidő: folyamatos
+Indikátor: -
+C.4.2. Protokoll kidolgozása másodlagos viktimizáció elkerülésére a büntetőeljárásokhoz
+kapcsolódó eljárási cselekmények során
+Az emberkereskedelem áldozatainál – főként a szexuális kizsákmányolás célú emberkereskedelem
+női és gyermek áldozatai esetében, de a mentálisan sérült és szociálisan kiszolgáltatott áldozatoknál
+is - nagy arányban fordul elő a másodlagos és ismételt áldozattá válás, a megfélemlítés, megtorlás.
+Ennek elkerülése érdekében protokollt kell kidolgozni az alábbi szempontok szerint:
+Speciális ismertekkel rendelkező szakemberek által végzett kockázatelemezés, egyéni értékelés
+keretében kell feltérképezni, hogy milyen védelmi intézkedésre van/lesz/lehet szükség.
+A büntetőeljárás során eljáró hatóságok részéről a sértettek/áldozatok felé megnyilvánuló tisztelet,
+tapintat, a hatóságok szakértelemmel, személyre szabottan történő, megkülönböztetés-mentes
+hozzáállása, integrált, emberi jogi megközelítése egyúttal a büntető igazságszolgáltatás iránti
+bizalom zálogát jelenti.
+A 2012/29/EU irányelv 20. cikk b) pontja, valamint a 2011/36/EU irányelv 12. cikk (4) bekezdés a)
+pontja alapján a nyomozás megfelelő tervezésével, ütemezésével, az eljárási cselekmények
+
+rögzítésének módjával, illetve hasonló eszközök alkalmazásával kerülni kell a sértettek/áldozatok
+kihallgatásának az eljárás különböző szakaszaiban történő szükségtelen ismétlését.
+Kizárólag más intézkedéssel nem helyettesíthető esetekben foganatosítható a sértettek/áldozatok
+terhelttel történő szembesítése, vagy hasonló a személyes konfrontációjukat eredményező eljárási
+cselekmény. Az elkerülhetetlen esetekben is széles körben alkalmazni kell a személyes jelenlét
+szükségességét kiváltó technikai eszközöket.
+A sértett/áldozat magánéletének védelme ugyancsak fontos eszköz a másodlagos és ismételt
+áldozattá válás, a megfélemlítés valamint a megtorlás megakadályozása érdekében, ezért
+kerülendőek az erre vonatkozó, a bűncselekményhez nem kapcsolódó szükségtelen kérdések.
+Ahol lehetséges, a bírósági, rendőrségi épületekben külön bejáratot, elkülönített váróhelyiséget kell
+kialakítani annak érdekében, hogy a sértettek/áldozatok (és családtagjaik) valamint az elkövető(k)
+közötti személyes kontaktus elkerülhető legyen. Ahol jelenleg ennek nincsenek meg a feltételei, az
+épületek átalakítása vagy új épület építése során a fenti szempontok szerint kell eljárni.
+A meglévő kommunikációs technológiák maximális kihasználására kell törekedni, amelyek
+elkerülhetővé teszik a sértettek/áldozatok tárgyalótermi fizikai jelenlétét.
+Még ha gyakorlata nincs is, a közvetítői eljárás, mint a helyreállító igazságszolgáltatás eszköze az
+emberkereskedelem alapeseteiben nem kizárt, ugyanakkor, ha a mediáció lehetőségként felmerül, a
+másodlagos és ismételt áldozattá válás, a megfélemlítés, valamint a megtorlás megelőzése
+érdekében a sértett/áldozat érdekeit és igényeit szem előtt tartó biztosítékokra van szükség.
+Felelős: BM, Rendőrség
+Partner: áldozatsegítő szolgálatok, Legfőbb Ügyészség
+Forrás: lényegében a rendelkezésre álló technikai (személyes jelenlét szükségességét kiváltó
+technikai eszközök, kommunikációs technológiák, külön bejárat, elkülönített váróhelyiség)
+eszközök szélesebb körben történő igénybevételét lehetővé tevő forrást kell biztosítani, a megfelelő
+eljárásjogi gyakorlat kialakítása anyagi forrásokat nem igényel
+Eszköz: szemléletformálás az egyébként is megvalósuló képzések, szakmai programok keretében,
+esetleg protokollok kialakítása, meglévő eszközök hatékonyabb alkalmazása
+Határidő: folyamatos
+Indikátor: másodlagos viktimizáció elkerülése
+C.4.3. A 46/ 2007. (OT 30.) ORFK utasítás felülvizsgálata
+A prostitúcióval összefüggő jogsértések és az emberkereskedelem kezelésével kapcsolatos rendőri
+feladatok végrehajtását a 46/2007. (OT 30.) számú ORFK utasítás szabályozza, amely 2008. január
+1-én lépett hatályba. Elsődlegesen a prostitúció és a ráépülő bűncselekmények, illetve az
+emberkereskedelem elleni egységes rendőri fellépést szolgálja és határoz meg bűnügyi,
+bűnmegelőzési és áldozatvédelmi feladatokat a rendőri szervek számára. Tekintettel az új Btk.
+
+fogalomrendszerére, a 2011/36/EU irányelvre és a 354/2012.(XII.13.) kormányrendeletre, a jelenleg
+hatályos normatív utasítás felülvizsgálata és átdolgozása elengedhetetlen.
+Felelős: Rendőrség
+Partner: -
+Forrás: nem jár költségvonzattal
+Eszköz: nincs eszköz igény
+Határidő: 2014
+Indikátor: -
+C.4.4. Az áldozatok kíméletét biztosító intézkedéseken túl az emberkereskedelem áldozatainak
+sajátosságaira figyelemmel a tanúvédelmi rendszer felülvizsgálata
+A tanúvédelemi eszközrendszer célja elsősorban annak biztosítása, hogy biztonsága érdekében a
+tanú - adatai, elérhetősége stb. - a terhelt, és más eljárási résztvevők előtt "rejtve" maradjon, végső
+soron a tanú személyi védelmének, teljes elérhetetlenségének garantálása, ezáltal a tanú
+közreműködési hajlandóságának fokozása. A tanúvédelem eszközeit illetően a büntetőeljárás széles
+körű lehetőséget biztosít a tanú adatainak zárt kezelésétől a Védelmi Programban történő
+részvételig. Az emberkereskedelem bűncselekményének sajátosságai miatt azonban ezek az
+eljárásjogi lehetőségek az áldozatok tekintetében gyakorlatilag formálissá válnak,
+alkalmazhatatlanok vagy értelmetlenek.
+Elsősorban a szexuális jellegű emberkereskedelem estében a sértett-elkövető közötti szoros
+kapcsolat, sok esetben érzelmi függés miatt a személyes adatok zárt kezelése, a különösen védett
+tanúvá nyilvánítás intézményei természetüknél fogva elégtelen védelmet nyújtanak.
+Az áldozatok személyiségük, családi kapcsolataik, életvitelük okán jellemzően nem alkalmasak a
+Védelmi Programban való részvételre. A Védelmi Program szigorú magatartási szabályai egyébként
+is alkalmatlanok az áldozati jelleg megfelelő kezelésére, az érintett reintegrációjára, és inkább
+eredményezhetik az áldozat másodlagos viktimizációját. Az sem tekinthető általánosnak, hogy az
+áldozatok az őket érintő emberkereskedelem egészét - hálózatát, működését stb. - érintő olyan
+információkkal rendelkeznének, amelyek a programba való felvételüket indokolná.
+Ugyanakkor egyes esetekben a Védelmi Program alkalmazása mindezek ellenére szükségessé
+válhat, ezért meg kell vizsgálni azokat a nemzetközi tapasztalatokat, amelyek a részvételi szabályok
+alakításával, a bekerülési feltételek enyhítésével az emberkereskedelem áldozatai számára is
+hozzáférhetővé tették a tanúvédelem e speciális formáját.
+Célravezetőbb, szélesebb körben alkalmazható megoldásnak ígérkezik ugyanakkor a személyi
+védelem rendszerének átalakítása. Az áldozatok igényeinek feltérképezésével meg kell határozni
+azokat az új, illetve a már rendelkezésre álló eszközöket, amelyek alkalmasak az áldozatok
+szubjektív biztonságérzetének, egyúttal objektív biztonságának hatékony fokozására. Ezt követően
+
+megfelelő források biztosításával, technikai fejlesztéssel a személyi védelem eszközeit egyszerűen
+és tág körben hozzáférhetővé kell tenni az áldozatok számára.
+Az áldozatok méltányolható igényének teljesítése, a hatóságokkal való kapcsolat, az áldozatok
+szubjektív biztonságérzetének növelése rendkívül hatékonyan és más módon nem helyettesíthető
+módon járulhat hozzá az áldozatok közreműködési hajlandóságának fokozásához, ezáltal a sikeres
+büntetőeljárás lefolytatásához. Az eszközrendszer kialakítása során az áldozatokkal történő
+együttműködés, igényeik pontos felmérése egyúttal lehetőséget nyújt költséghatékony intézkedések
+bevezetésére, illetve a rendelkezésre álló eszközök hatékonyabb működésének kialakítására is.
+Az áldozatok szubjektív biztonságérzetét, igényérvényesítési képességét jelentősen növelheti a nem
+büntetőjogi eszközökkel biztosított áldozatsegítés eszközrendszerének a büntetőeljárásba történő
+bevezetése. Meg kell teremteni az esetmenedzserek, vagy az áldozatokkal kapcsolatban álló
+kormányzati, illetve civil szervezetek részvételének lehetőségét a büntetőeljárásokban. Az
+áldozatsegítésben közreműködő szervezetek hatékonyabban képesek biztosítani az áldozatok
+jelenlétét, fel tudják készíteni az áldozatokat a hatósági eljárás várható következményeire, segítő
+jelenlétükkel támogatást nyújthatnak a kihallgatások során, mindezzel sikeresen csökkentve az
+áldozatok másodlagos viktimizációjának veszélyeit. A hatóságok kapcsolata az áldozat
+integrációját, reintegrációját végző szervezetekkel egyúttal segítséget nyújt abban is, hogy ezek a
+szervezetek saját feladataik ellátása során figyelembe vehessék, tervezhessék a büntetőügyben
+eljáró hatóságok várható igényeit. E partneri kapcsolat alkalmas lehet továbbá arra is, hogy az
+áldozatsegítő szervezetek a büntetőeljárás befejezését követően, az ismételt áldozattá válás
+elkerülése, megszüntetése érdekében gyors, hatékony és szakmailag indokolt hatósági fellépést
+kezdeményezhessenek.
+Felelős: BM, Rendőrség, KIM
+Partner: áldozatsegítő szervezetek
+Forrás: az állapotfelmérés külön forrást nem igényel, az új eszközrendszer felállítása, illetve a
+meglévő eszközök átalakítása, bővítése a működésük biztosításához szükséges forrásokat igényli
+Eszköz: új eszközrendszer, meglévő eszközök átalakítása, bővítése
+Határidő: folyamatos, haladéktalanul megkezdhető
+Indikátor: -
+D. Koordináció megerősítése a releváns hazai kormányzati, fél-kormányzati és civil
+szervezetek bevonásával
+Magyarországon az emberkereskedelem elleni fellépés koordinátora a Belügyminisztérium Európai
+Uniós és Nemzetközi Helyettes Államtitkársága, aminek egyik legfőbb feladata az
+emberkereskedelem felszámolása. Ez a szerv biztosítja az együttműködést a különböző állami és
+nem állami szervezetek között, valamint nemzetközi, európai, és nemzeti szinten is felelősséget
+vállal Magyarország emberkereskedelem ellenes lépéseiért.
+
+Az emberkereskedelem elleni kormányzati fellépés kereteit a hazai együttműködő szereplők
+számára az emberkereskedelem elleni 2008-2012 közötti nemzeti stratégiáról szóló 1018/2008. (III.
+26.) Korm. határozat fektette le. Az emberkereskedelem elleni nemzeti koordinátor és az
+emberkereskedelem elleni küzdelemben közreműködő kormányzati szervek együttműködését
+szolgáló Nemzeti Koordinációs Mechanizmus és nem kormányzati szervek együttműködése
+érdekében létrejött informális kerekasztal küldetése az emberkereskedelem elleni harc
+hatékonyságának növelése, kapcsolatépítés és párbeszéd a nemzeti koordinátor és az érintett nem
+kormányzati szervek között, beleértve a kölcsönös tájékoztatást egymás tevékenységéről, valamint a
+résztvevők közötti lehetséges együttműködési területek feltérképezését.
+A Nemzeti Koordinációs Mechanizmus és az informális kerekasztal célkitűzései között szerepel a
+koordinátor és az emberkereskedelem elleni küzdelemben érintett nem kormányzati szervek közötti
+hatékony együttműködés kereteinek megteremtése, rendszeres kapcsolattartás és a hatékonyabb
+információáramlás biztosítása az informális kerekasztal tagjai között, az emberkereskedelem elleni
+küzdelemben közreműködő nem kormányzati szervek összefogása, a közös fellépések
+lehetőségeinek feltérképezése, a szakmai kérdések tematikus vizsgálata, vélemények, javaslatok
+kidolgozása.
+A 2011/36/EU európai parlamenti és tanácsi irányelv hangsúlyt fektet az emberkereskedelem elleni
+koordináció fontosságára, és felhívja a tagállamokat együttműködési rendszerek létrehozására,
+illetve a már meglévő rendszerek továbbfejlesztésére. Az emberkereskedelem felszámolására
+irányuló európai uniós stratégia egyik prioritása a kulcsszereplők közötti koordináció és
+együttműködés fokozása, a szakpolitikák koherenciája. Ennek értelmében javítani kell az
+emberkereskedelem területén működő kulcsszereplők közötti koordinációt és együttműködést, így
+hozzájárulva ahhoz, hogy az emberkereskedelem elleni politika beépüljön a kapcsolódó
+szakpolitikákba.
+Célok:
+D.1 A kormányzati koordinátor vezetésével a kormányzati koordinációs mechanizmus
+gyakorlatorientáltabb működésének megszilárdítása, valós aktuális helyzetkép állandó ismerete
+D.2 Dedikált költségvetési forrás betervezése az emberkereskedelem elleni küzdelemre
+D.3 Nemzetközi együttműködés erősítése
+Intézkedések:
+D.1.1 A Nemzeti Koordinációs Mechanizmus és a NGO kerekasztal kapcsolatának fejlesztése
+A Nemzeti Koordinációs Mechanizmus tagjai, illetve a civil szervezeteket tömörítő kerekasztal
+képviselői nem tudnak eleget egymás tevékenységéről, eredményeiről. A meglévő kommunikációs
+csatornák – emberkereskedelem elleni honlap, levelezőlista - ellenére az információk nehezen, vagy
+egyáltalán nem jutnak el a tagokhoz, valamint az emberkereskedelem elleni nemzeti
+
+koordinátorhoz. A koordináció megerősítésének területén a kormányzati koordinátor vezetésével a
+kormányzati koordinációs mechanizmus gyakorlatorientáltabb működésének megszilárdítása
+elősegíti az emberkereskedelem aktuális helyzetképének állandó ismeretét. Hatékony
+információcsere, kockázatelemzés és problémakezelési alternatívák kidolgozása szükséges a
+kormányzati mechanizmus és a civil kerekasztal keretei között.
+Felelős: BM
+Partner: Nemzeti Koordinációs Mechanizmus, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, kb. 100.000 EUR, 30.000.000 HUF
+Eszköz: kommunikációs eszközök, jelentési rendszer kialakítása
+Határidő: folyamatos
+Indikátor: hatékony információáramlás
+D.1.2. Az országos szintű koordinációs mechanizmus mintájára helyi szintű mechanizmusok
+létrehozása
+Az emberkereskedelem elleni fellépés akkor lehet hatékony, ha a helyi társadalompolitika részeként
+valósul meg, azaz a helyi és tágabb közösség is részt vállal benne. A megelőzési tevékenységben
+kiemelt szerepe van az adott régióban, kistérségben működő hatóságok, önkormányzatok,
+intézmények, civil szervezetek, egyházak, állampolgári közösségek összehangolt, egymásra épülő
+tevékenységének. A emberkereskedelem elleni küzdelemben mind a keresleti, mind a kínálati oldal
+csökkentéséhez elengedhetetlen azon helyi szereplők megelőzésbe történő bevonása, akik az
+áldozattá válás megelőzése, az áldozatok azonosítása, irányítása, ellátásba kerülése érdekében
+cselekedni tudnak és akarnak. A bűnelkövetők elleni fellépés, az áldozatok megfelelő kezelése,
+ellátása és reintegrációja sokkal hatékonyabb, amennyiben országos együttműködés keretében
+valósul meg. Az együttműködésben résztvevő civil és állami szervek tevékenységének
+összehangolására, az együttműködés új irányainak feltérképezésére, a párbeszéd megteremtésére
+legalkalmasabb a helyi szinten létrehozott informális kerekasztal, azaz a helyi szintű koordinációs
+mechanizmus létrehozása. Az együttműködés eredményeként várhatóan csökken a látencia,
+hatékonyabbá válik az elkövetők felderítése, az áldozatok azonosítása, ellátásba kerülése.
+Indokolt, hogy a rendészeti szervek, a bíróság és az ügyészség kijelölt képviselői részt vegyenek a
+helyi szintű szakmai fórumok munkájában.
+Felelős: BM
+Partner: Nemzeti Koordinációs Mechanizmus, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, D.1.1 intézkedéssel együtt
+Eszköz: kommunikációs eszközök, jelentési rendszer kialakítása
+Határidő: folyamatos
+Indikátor: látencia csökkenése, elkövetők felderítésének, áldozatok azonosításának, ellátásba
+kerülésének hatékonysága
+
+D.1.3. A koordinációs mechanizmus irányításával a jó gyakorlatok és sikeres esetek rendszerben
+való dokumentálására, szükség esetén speciális Nemzeti Koordinációs Mechanizmus felkérése az
+egyes protokollok kidolgozására, esetleges szakmai útmutatók, ajánlások tartalmának
+kidolgozására
+A Nemzeti Koordinációs Mechanizmus fejlesztése kapcsán célkitűzésként fogalmazódik meg, hogy
+az emberkereskedelemmel kapcsolatos trendekről és folyamatokról naprakész információk álljanak
+a tagok rendelkezésére. Amennyiben ez már a gyakorlatban is megvalósul, lehetőség nyílik ezeknek
+az információknak, tapasztalatoknak a további hasznosítására. Ennek egyik módja, hogy a Nemzeti
+Koordinációs Mechanizmus a látókörébe került tanúságos esetekből levonható következtetéseket
+útmutatók, ajánlások, protokoll útján eljuttatja valamennyi, az emberkereskedelem elleni
+küzdelemben érintett szereplő számára.
+Felelős: Nemzeti Koordinációs Mechanizmus
+Partner: civil szervezetek
+Forrás: nem igényel anyagi ráfordítást
+Eszköz: elsősorban a Nemzeti Koordinációs Mechanizmus már létező megjelenési felülete
+(kormany.hu, microsite)
+Határidő: folyamatos
+Indikátor: rendszerezett jó gyakorlatok, sikeres esetek
+D.2.1 Dedikált költségvetési forrás elkülönítése az emberkereskedelem elleni küzdelemhez
+Egy hazai költségvetési forrás a feladatellátásra koncentráló keretszerződésekkel egy „próbaév”
+alkalmával tesztelheti a feladatok leghatékonyabb ellátásának módját, lehetőségeit egy pilot projekt
+keretein belül, majd a már működő projektekre uniós forrásokból lehetne támogatási keretet lehívni.
+A több szinten és fórumon bevetni kívánt eszközök, intézkedések, programok hatásfokának
+folyamatos vizsgálata által az így mérendő eredményességi mutatók fényében alakul a további
+finanszírozási forrás mértéke, ezért a pontos kimutatás önmagáért beszél, és megköveteli egy
+adekvát indikátorrendszer kialakítását.
+Felelős: BM, EMMI, NGM, KIM
+Partner: civil szervezetek
+Forrás: Költségvetési forrás, az adott év költségvetésének tervezése során kell figyelembe venni.
+Fejezeti kezelésű előirányzat formájában.
+Eszköz: költségvetési tervezés során szükségletek jelzése
+Határidő: folyamatos
+Indikátor: -
+
+D.3.1 A nemzetközi együttműködés erősítése a releváns országokkal és a nemzetközi szervezetekkel,
+valamint az uniós koordinátorok mechanizmusában való aktív részvétel szintén hozzájárulnak a
+koordináció megerősítéséhez
+A Magyarországról külföldre került, illetve harmadik országból hazánkba érkezett
+emberkereskedelem áldozatainak segítését célzó, a kiváltó okokat vizsgáló és a megelőző
+programok kialakításának egyik, a bűnügyi együttműködésen túlmutató (esetlegesen azt kiegészítő)
+tevékenység, a harmadik országokkal és különböző nemzetközi szervezetekkel történő közös
+projektekben, kutatásokban való részvétel.
+A civil szervezetek szerepe ebben kiemelten fontos, amellett, hogy az állami szerepvállalás, a
+partnerek megtalálásának elősegítése elengedhetetlen. A prevenció, a felvilágosítás, a jó
+gyakorlatok bemutatásának, megismerésének leghasznosabb módja, az ilyen jellegű, határokon
+átnyúló, nemzetközi együttműködésekben való részvétel.
+A nemzetközi együttműködésnek a hazai civilszervezetek működésének elősegítése és
+munkatársainak képzése mellett, kiemelt szerepe van a hazánkból a célországokba érkezettek
+szükségleteinek felmérésében, a hatékony, adekvát válaszok megtalálásában és a nemzetközi
+szervezetekkel közös projektekben történő együttműködésben is.
+Felelős: BM, Rendőrség, KÜM
+Partner: Nemzeti Koordinációs Mechanizmus, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható, kb. 100.000 EUR, 30.000.000 HUF
+Eszköz: közös programok, protokollok kialakítása
+Határidő: folyamatos
+Indikátor: Magyarország megítélésének javítása, a nemzetközi együttműködés erősítése
+E. Biztonságos visszatérés és a reintegráció lehetőségeinek kormányzati szintű
+feltérképezése, támogató intézkedések kidolgozása
+Az azonnali elhelyezést és komplex ellátást biztosító Átmeneti Szállás (védett szállás) működtetése
+részét képezi az emberkereskedelem elleni, 2008-2012 közötti nemzeti stratégiáról szóló 1018/2008.
+(III.26.) Korm. határozatnak. Az Amerikai Egyesült Államok Emberkereskedelem Elleni Hivatala
+(ún. TIP Office) az emberkereskedelem áldozatainak védelméről szóló törvény alapján évente
+jelentést tesz közzé a világ 150 országáról. Magyarország minősítését alapvetően meghatározza az
+Átmeneti Szállás folyamatos működtetése, illetve fejlesztése és bővítése céljából tett intézkedések
+megvalósulása. Az ENSZ CEDAW Bizottság Magyarország számára tett 2012. évi ajánlásai között
+szerepel az emberkereskedelem áldozatai számára létrehozott védett szálláshelyek számának
+bővítése.
+Jelenleg hazánkban állami támogatásból egy olyan Átmeneti Szállás működik, amely az
+emberkereskedelem áldozatai számára nyújt védett elhelyezést, szükség szerinti teljes ellátást, jogi,
+
+pszichológiai és a szociális munka eszközeivel történő segítségnyújtást. Az Átmeneti Szállás 6
+férőhellyel rendelkezik, így 2012-ben 19 fő (13 egyedülálló nő, 3 gyermekes anya és 3 gyermek)
+ellátását tudta megoldani. Az ellátás időtartama 90 nap, ami szükség esetén egy alkalommal,
+maximum 90 nappal meghosszabbítható. Az Átmeneti Szállásban nyújtott ellátás alapvetően az
+életveszély elhárítását, a krízishelyzet megszűntetését célozza, a 90 napos ellátási idő nem elegendő
+az áldozat teljes társadalmi reintegrálásához.
+Átfogó kormányzati kidolgozású és finanszírozású reintegrációs program az áldozatok számára nem
+létezik, az eseti eszközök tárháza sem túl tágas.
+Célok:
+E.1 Biztonságos visszatérés
+E.2 Ismételt áldozattá válás elkerülése
+E.3 Integráció fejlesztése
+Intézkedések:
+E.1.1 A biztonságos hazatérés kormányzati mechanizmusának erősítése - a civil partnerek
+közreműködésével, és finanszírozási hátterének biztosítása
+Az emberkereskedelem külföldön áldozatul esett magyar állampolgárai jelenleg is jogosultak a
+konzuli szolgálat segítségének igénybevételével hazautazási segélyre. Az utóbbi időszakban
+megnövekedett az erre szolgáltatásra igényt tartó áldozatok száma, amely rövidtávon is jelentősen
+megnövelheti a Külügyminisztérium erre a célra fordítandó költségvetési igényét. Célszerű ezzel
+időben számolni, ezért szükséges az intézkedés megjelenítése jelen stratégiában. Azok az áldozatok,
+amelyek nem kívánják konzuli szolgálat segítségét igénybe venni, többnyire ad hoc módon civil
+szervezetek segítségével jutnak haza Magyarországra. Annak érdekében, hogy ezen a helyzeten
+változtassunk, célszerűnek mutatkozik a biztonságos hazatérés kérdését is az áldozatazonosítás és
+irányítás rendjében meghatározott keretek között kezelni.
+Felelős: KÜM, OKIT
+Partner: EMMI, Nemzeti Koordinációs Mechanizmus, civil szervezetek
+Forrás: az adott év költségvetésének tervezése során figyelembe kell venni kb. 3.000.000 HUF/év
+Eszköz: kormányzati mechanizmus
+Határidő: folyamatos
+Indikátor: áldozatok biztonságos hazatérése
+E.1.2 Az áldozatok társadalmi reintegrációját segítő Félutas Kiléptető Házak kialakítása az
+Átmeneti Szállásokhoz kapcsoltan
+
+A hozzátartozók közötti erőszak áldozatai számára létrehozott krízisközpontokhoz kapcsoltan már
+működnek úgynevezett Félutas Kiléptető Házak, melyekben biztosított a pszichológiai és jogi
+tanácsadás, a szociális munkás segítsége, de az egykori bántalmazottaknak fizikai szükségleteik
+kielégítéséről (élelmiszer, ruházat biztosítása) már maguknak kell gondoskodniuk. A Félutas
+Kiléptető Házba a krízisközpontokból sikeres pályázattal lehet bekerülni, elvárás, hogy az egykori
+bántalmazott rendelkezzen bejelentett és legális munkából származó rendszeres jövedelemmel. A
+Félutas Kiléptető Ház öt évre biztosít lakhatási lehetőséget, a rezsi költségekhez a lakónak
+jövedelme alapján kell hozzájárulnia. Cél, az egykori bántalmazott teljes önellátási, öngondoskodási
+(illetve vele élő hozzátartozója, jellemzően gyermeke saját erőből való ellátási) képességének
+kialakítása és megerősítése. Az Átmeneti Szállásokhoz, az azokhoz hasonló elv alapján működő
+Félutas Kiléptető Házak kapcsolása indokolt.
+Felelős: EMMI
+Partner: -
+Forrás: EFOP-ból megvalósítható, 15.000.000 HUF/ház a kialakításhoz, 4.000.000 HUF/év/félutas
+ház a fenntartáshoz
+Eszköz: pilot projekt keretében 2 ház kialakítása
+Határidő: 2014-2016 között
+Indikátor:
+- létrehozott férőhelyek száma
+- ellátott áldozatok száma
+- Félutas Kiléptető Házak száma elkészült egységes ellátási protokoll – 1 db
+E.2.1 Az ismételt áldozattá válás elkerülése érdekében egy utánkövető rendszer felállítása
+szükséges, amely az azonosított és segített áldozatok védett szálláshely utáni életének, védelmének
+nyomon követését hivatott szolgálni
+Az ellátórendszerbe került áldozatok és az onnan kikerültek integrációjának segítése mellett
+ismételt áldozattá válásuk elkerülésére történő felkészítésük is rendkívül fontos. A rendszerből
+senki ne léphessen ki úgy, hogy nem ismeri az ingyenesen hívható segélyvonalakat, hogy nincsen
+tisztában a jogaival és a lehetőségeivel. Az esetmenedzserek feladata a rendszerben való követésén
+és felkészítésén kívül, a rendszerből való kikerülés utáni követés is. Az utánkövetés protokolljának
+(amely a rendszerességet, a módszert is magában foglalja) kidolgozása nélkülözhetetlen része a
+rendszer hatékony működésének.
+Felelős: BM, EMMI, KIH
+Partner: Nemzeti Koordinációs Mechanizmus, civil szervezetek
+Forrás: Belső Biztonsági Alapból megvalósítható
+Eszköz: utánkövetési protokoll
+Határidő: 2016, a félutas kiléptető házak és az esetmenedzserek felállását követően
+Indikátor: az áldozatok áldozattudatának növelése, a jogaik, lehetőségének ismerete, ismételt
+áldozattá válás csökkenése
+
+E.2.2. GPS rendszer kialakítása, a krízisellátásból kikerült, egykori áldozatok önkéntes segítőként
+való bevonása az áldozatok gondozási folyamatába – pilot program
+Az áldozatok – figyelembe véve személyes érintettségüket – komoly segítséget jelentenek a
+tapasztalataik, sérüléseik, véleményük megosztásával az áldozattá válás elkerülésében. Megfelelő
+képzésükkel, segítővé válásukkal, és a folyamatba való bevonásukkal hiteles támaszt nyújthatnak az
+emberi bizalomban egyébként is megrendült áldozatok számára. Külön ki kell emelni a roma
+származású segítők bevonását azokba az áldozatsegítő mechanizmusokba, amelyekben a roma
+származású áldozatok felülreprezentáltsága szignifikáns.
+Az emberkereskedelem egyik legfontosabb kiváltó oka a szociális sebezhetőség, amely olyan
+gazdasági és társadalmi tényezőkre vezethető vissza, mint a mélyszegénység, a hozzátartozók
+közötti erőszak, a rendellenesen működő családok. Sok esetben az áldozatok társadalmi
+reintegrációja helyett társadalmi integrációját kell megoldani, elősegíteni. Ilyen esetekben nagy
+kockázata van az ismételt áldozattá válásnak.
+A hozzátartozók közötti erőszak áldozatainak krízisellátásában hatékony eszköz a sorstárssegítés.
+Egy hasonló helyzetet megélt, a krízishelyzetből kilábalt, új életszakaszt kezdett bántalmazott a
+történetének személyes elmondásával olyan hiteles példa az éppen védelmet és segítséget igénylő
+áldozatoknak, mely a jelenlegi helyzetből való kilépés reális lehetőségét mutatja meg. Az önkéntes
+sorstárssegítés pilot-programként elindítandó az emberkereskedelem áldozatainak gondozási
+folyamatába építve.
+A megvalósítás során figyelembe lehet venni a már Franciaországban bevált jó gyakorlatot, amely
+az áldozattá válás megelőzése, illetve a már áldozattá vált személyek prostitúcióból való
+kilépésének elősegítése céljából jött létre. A gyakorlat célja, hogy a prostituáltaknak foglalkozási
+alternatívát, legális jövedelemszerzési lehetőséget, szociális szolgáltatásokat, felvilágosító
+programokat nyújtsanak. A tevékenységükben olyan személyek is részt vesznek, akik korábban
+áldozatok voltak, így hitelesebben mutatják be az emberkereskedelem, illetve ezen belül is a
+szexuális kizsákmányolás jelenségét. Az etnopszichiáterek, azaz a veszélyeztetett társadalmi
+csoportoknak megfelelő etnikai hovatartozású személyek egyszerűbben tudnak kapcsolatot építeni
+és bizalmat kialakítani a lehetséges áldozatokkal. Ez a gyakorlat hatékonyabb áldozatsegítést, az
+ismételt áldozattá válás esélyének csökkentését, a krízishelyzetekben való hatékonyabb
+beavatkozást, hatékonyabb megelőzést eredményezett.
+Felelős: KIH, pártfogók
+Partner: civil szervezetek
+Forrás: pilot projekt, Igazságügyi Alapból megvalósítható, 10.000.000 HUF/év
+Eszköz: felkészítő program
+Határidő: folyamatos
+
+Indikátor: segítőként bevont személyek száma; sorstárssegítés keretében szervezett foglalkozáson
+részt vett áldozatok száma
+E.2.3 A körzeti megbízottak bevonása az áldozattá illetve ismételt áldozattá válás megelőzése
+érdekében kifejtett tevékenységekbe
+A körzeti megbízotti szolgálat jelentősége abban áll, hogy mint a település rendőre szolgálati
+feladatait a nap 24 órájában a kijelölt körzetében látja el. A megelőzési ajánlások célcsoporthoz
+történő eljuttatásában, megelőzési őrjáratokban épp úgy fontos szerepet töltenek be, mint a
+megelőzésben érintett állami és civil szereplőkkel történő kapcsolattartásban. A rendőrség körzeti
+megbízotti szabályzata kifejezett hangsúlyt fektet a körzeti megbízottak településen történő
+személyes kapcsolatépítésére, kapcsolattartására. Az emberkereskedelem elleni küzdelem keresleti
+és kínálati oldalának csökkentésében, a megfelelő áldozatazonosításban, irányításban fontos
+szerepet tölthetnek be. Miután sem a rendőr-szakközépiskolákban, sem a részükre tartott
+szaktanfolyamokon nem kapnak emberkereskedelemmel kapcsolatos képzést, elengedhetetlen, hogy
+megfelelő felkészítést kapjanak magáról a jelenségről, a megváltozott jogszabályi környezetről,
+annak megjelenési formáiról, a beszervezés módszereiről, a megelőzés lehetőségeiről, a
+megelőzésben, valamint az áldozatazonosításban, áldozatirányításban betöltendő szerepükről.
+Felelős: BM, Rendőrség
+Partner: Nemzeti Bűnmegelőzési Tanács
+Forrás: Belső Biztonsági Alapból megvalósítható, A.1.3 intézkedéssel együtt
+Eszköz: képzési anyagok, képzés
+Határidő: 2016
+Indikátor: a KMB-k képzésének lebonyolítása
+E.3.1. Hosszú távú integrációs programokról, áldozatok sorsának nyomon követéséről, illetve az
+ezzel kapcsolatos állami teendők leghatékonyabb ellátásáról szóló kutatás készítése
+Az ellátórendszerbe került áldozatok sorsának nyomon követése, a társadalomba való
+visszavezetésükre kialakított programok hatásának vizsgálata mindenképpen kiemelt feladat.
+Az áldozatok azonosítása, szükségleteik felmérése, az azokra történő válasz megfogalmazása után,
+a megfelelő védelem kialakítását és megteremtését követően, rendkívül fontos a rendszerből
+kikerülők reintegrációja. Az egész folyamat során többször merülhet fel probléma. A reintegráció
+során, az áldozatok új életének elkezdésekor derül ki azonban, hogy valóban sikerült-e jól kezelnie
+az ellátórendszernek az adott esetet. Ennek nyomon követése, kutatások készítése éppen ezért a
+rendszer és az áldozat szempontjából is jelentős. A kutatások az áldozatokkal felvett személyes
+interjúk elkészítésével valósíthatóak meg. Ezt kiegészítik az áldozattal kapcsolatba került (pl. a
+shelter, és félutas házakban dolgozó) szakemberekkel készített vizsgálatok is, amelynek hátteréül az
+esetekről készült dokumentáció is jó szolgálatot tehet. A folyamatos szupervízió során a problémák,
+
+de a jó gyakorlatok is napvilágra kerülhetnek, így ezek is alapjául szolgálhatnak az ellátás
+hatékonyságának elemzésekor.
+Az áldozat segítésének folyamatának, valamint a társadalomba való visszavezetésének vizsgálata
+rámutat a rendszer problémáira is. Ennek ismerete a rendszer hatékonyságának növelését szolgálja.
+A jó gyakorlatok összegyűjtése, és azok a szakemberképzésbe történő beemelése a Nemzeti
+Koordinációs Mechanizmus feladata.
+Az integrációs programok összegyűjtése, elemzése, a rendszerbe kerülőkről (olyan esetekben is,
+amikor büntetőeljárás esetleg nem indul) megfelelő (adatvédelmi garanciákat tartalmazó)
+dokumentáció, esetleírás protokolljának kialakítása szintén a Nemzeti Koordinációs Mechanizmus
+tagjainak feladata.
+Az áldozatok sorsának nyomon követésekor figyelni kell az adatvédelmi szempontokra, valamint
+arra is, hogy hogyan érhetőek el, vonhatóak be rendszerből történő kikerülésük után.
+Felelős: Nemzeti Koordinációs Mechanizmus
+Partner: civil szervezetek
+Forrás: Európai Szociális Alapból megvalósítható, projektérték 200.000 EUR, 60.000.000 HUF
+Eszköz: utánkövetési rendszer kialakítása, tapasztalatok kutatása, Nemzeti Koordinációs
+Mechanizmus
+Határidő: két ütemben, első ütem 2016-ig, az addig rendelkezésre álló tapasztalatok alapján
+(félutas kiléptető házak, GPS rendszer, esetmenedzserek), második ütem túlnyúlik a stratégia által
+lefedett időtávon
+Indikátor: jó gyakorlatok összegyűjtése, kutatási beszámolók
+E.3.2. Az emberkereskedelem áldozatainak társadalmi integrációját, reintegrációját célzó komplex
+kormányzati program kidolgozása
+Kutatás keretében kell megvalósítani az áldozatok társadalmi reintegrációját, integrációját segítő
+jelenlegi kormányzati és nem kormányzati szervek, szervezetek által támogatott programok
+összegyűjtését, értékelését, javaslat kidolgozását továbbfejlesztésükre, összehangolásukra.
+Protokollt kell kidolgozni, mely lehetővé teszi az áldozatok ellátórendszerből való kikerülése utáni
+nyomon követést.
+Az intézkedés lehetővé teszi az ismételt áldozattá válás elkerülését, továbbá láthatóvá teszi a
+sikeres társadalmi reintegráció, integráció lépéseit, folyamatát; ami segíti az ezt támogató
+intézkedések és programok tervezését, a szükséges beavatkozási pontok meghatározását.
+Felelős: Nemzeti Koordinációs Mechanizmus
+Partner: civil szervezetek
+Forrás: Európai Szociális Alap, projektérték 200.000 EUR, 60.000.000 HUF
+
+Eszköz: hosszú távú integrációs programokról, áldozatok sorsának nyomon követéséről, illetve az
+ezzel kapcsolatos állami teendők leghatékonyabb ellátásáról szóló kutatás
+Határidő: túlnyúlik a stratégia által lefedett időtávon
+Indikátor: kutatási jelentés, elkészült protokoll
+IV. MONITORING
+A stratégiában meghatározott célokhoz rendelt intézkedések végrehajtását az intézkedésben érintett
+szervezetek végzik. A szakpolitikai stratégia monitoringozására, azaz a megfogalmazott
+intézkedések, célok előrehaladásának vizsgálatára a magyar, európai uniós és nemzetközi környezet
+és elvárások alakulásának figyelembe vételével évente kerül sor. A monitoring során szükséges
+tekintettel lenni az intézkedések megvalósítása közötti összhangra is.
+Az egyes intézkedések megvalósulásának, végrehajtásának felülvizsgálata, a stratégiában
+meghatározott alapelvek figyelembe vételével, az intézkedés gyakorlati átültetésétől függően zajlik.
+A stratégia monitoringozásának végrehajtása a nemzeti koordinátor által vezetett Nemzeti
+Koordinációs Mechanizmus, illetve az adott intézkedés végrehajtásáért felelős intézmények
+feladata. A nemzeti koordinátor a stratégiában meghatározott célok vonatkozásában elért
+eredményekről, illetve a fennmaradt, megvalósítandó intézkedésekről évente beszámolót készít.
+Ennek elkészítése érdekében a Nemzeti Koordinációs Mechanizmus tagjai a szakterületük
+vonatkozásában tájékoztatást nyújtanak a nemzeti koordinátor számára.
+
+V. A STRATÉGIA INTÉZKEDÉSEINEK ÖSSZEFOGLALÁSA
+Intézkedés Felelős Partner Forrás Eszköz Határidő Indikátor
+Megfelelő, jól működő áldozatazonosítási, irányítási és védelmi rendszer működtetése
+A.1.1
+Az új áldozatazonosítási- és
+irányítási rendszer működésének
+biztosítása – protokollok
+megalkotása, a működés nyomon
+követése, monitoringja
+BM NKM Nem igényel forrást
+adatbázis létrehozása,
+protokoll kidolgozása
+folyamatos éves felülvizsgálat lezajlik
+A.1.2
+Képzési anyagok, modulok
+kidolgozása és széles körben
+való hozzáférhetővé tétele
+NKE
+KIM, érintett
+intézmények tagjai
+Belső Biztonsági
+Alapból
+megvalósítható
+10.000 EUR
+(3.000.000 HUF)
+Képzési anyagok,
+modulok
+2014. december
+31.
+Kidolgozott képzési
+anyagok, 15
+oldal/szakterület
+A.1.3 Képzések a hatékony
+áldozatazonosításhoz és
+megfelelő áldozatirányításhoz
+szükséges ismeretek és
+készségek elsajátítása céljából
+BM (a képzések
+megszervezéséért) EMMI,
+KIM, NGM, BM,
+Rendőrség (a képzésen
+résztvevők biztosításáért)
+KÜM, Nemzeti
+Közszolgálati
+Egyetem, civil
+szervezetek
+Belső Biztonsági
+Alapból
+megvalósítható,
+8.000.000 HUF –
+30.000 EUR/képzés
+Képzés 2014-2016
+képzések száma –
+legalább 6 db, félévente
+egy, képzésen résztvevők
+száma legalább 100
+fő/képzés
+A.1.4
+A meglévő tudás
+továbbfejlesztése, specializálása
+az emberkereskedelem áldozatai
+szükségleteinek irányába az
+áldozatsegítésben,
+áldozatvédelemben dolgozó
+szakemberek számára
+A jogszabály módosítása
+kapcsán KIM, a vizsga
+anyagának összeállítása és
+az arra való felkészítés,
+oktatás megtartása kapcsán
+a KIH
+Érintett intézmények
+tagjai
+Nem igényel forrást
+Nemzeti Koordinációs
+Mechanizmus,
+protokoll kidolgozása,
+- jogszabály-módosítás
+[22/2010. (XII. 28.)
+KIM rendelet],
+felkészítés ügyviteli
+vizsgára
+A jogszabály
+módosítására
+2013. december
+31., a felkészítés
+folyamatos
+Módosított jogszabály
+
+A.1.5
+Speciális ismeretekkel
+rendelkező szakmai hálózat
+kiépítése a rendőrségen
+BM Rendőrség, NKE
+Belső Biztonsági
+Alapból
+megvalósítható,
+4000 EUR,
+1.200.000 HUF
+e-learning tananyag, az
+emberkereskedelemmel
+foglalkozó kollégák
+folyamatos
+továbbképzése a
+társszervek,
+kormányzati,
+félkormányzati szervek
+és civil szervezetek
+szakértői bevonásával
+
+Megfelelően képzett és
+országosan koordinált
+szakmai hálózat, egységes
+elkülönítési és specializált
+eljárási protokoll
+A.1.6
+Külföldről is elérhető
+segélyvonal létrehozása KIM NFM, OKIT
+Igazságügyi Alapból
+megvalósítható,
+speciális szám
+50.000 HUF, havi
+díj 20.000 HUF, évi
+300 hívás/10
+perc/250 percdíj, kb.
+1 millió HUF/év,
+2500 EUR
+Projekt 2014
+24 órában külföldről is
+elérhető segélyvonal
+A.2.1
+Megfelelő szolgáltatásoknak,
+ellátási formáknak kell
+rendelkezésre állni, amelyek
+segíthetik az áldozatokat.
+KIM az irányelv
+implementálásáért
+- a szükséges
+létszám biztosítása
+tekintetében a
+kormányhivatalok
+- az
+esetmenedzserek
+alkalmazásának
+módszertana elkészítéséhez
+és az esetmenedzserek
+felkészítéséhez a KIH és az
+emberkereskedelem
+áldozataival kapcsolatban
+lévő civil szervezetek
+Civil szervezetek TÁMOP
+Szociális munkások,
+mint estemenedzserek
+alkalmazása az
+áldozatsegítő
+szolgálatoknál és
+felkészítésük (kiemelt
+projekt keretében)
+2015-2016
+20 (megyénként 1-1)
+esetmenedzseri képzésben
+részesített szociális
+munkás az áldozatsegítő
+szolgálatoknál
+
+A.2.2
+A mentális, pszichológiai
+segítségnyújtáshoz való
+hozzáférés lehetőségének
+fejlesztése
+a szükséges létszám
+biztosítása tekintetében a
+kormányhivatalok
+létszám (státuszok)
+és a működés
+feltételeinek
+biztosítása
+vonatkozásában a
+kormányhivatalok
+költségvetése
+Pszichológusok
+alkalmazása és
+felkészítése
+2015-2016
+20 (megyénként 1-1)
+pszichológus és
+áldozatsegítő
+szolgáltatoknál
+A.2.3 Átmeneti (védett) Szállás
+kapacitás-, és szolgáltatás
+fejlesztése, új, állami
+támogatásból működő Átmeneti
+Szállás kialakítása, egységes
+ellátási protokoll kidolgozása az
+Átmeneti Szállások hatékony
+működésének biztosítása
+érdekében. Az Átmeneti
+Szállások elérési
+koordinációjának megteremtése
+az OKIT közreműködésével
+EMMI
+OKIT, civil
+szervezetek
+költségvetési
+forrásból, az éves
+költségvetés
+tervezése során
+figyelembe kell
+venni, működési
+költség 8.000.000
+HUF/szállás/év,
+12.000.000 HUF
+egy új szálláshely
+kialakítása
+egy új átmeneti szállás
+kialakítása, működési
+protokolljuk
+kidolgozása
+2014-ben egy
+szálláshely
+üzemel, 2015-ben
+létrehozunk egy
+újat és ezzel 2016-
+ban 2 szálláshely
+üzemel
+létrehozott férőhelyek
+száma, ellátott áldozatok
+száma, elkészült egységes
+ellátási protokoll – 1 db
+A.3.1
+Európai standardok alapján az
+áldozatok számára tájékoztató
+anyagok elkészítése és
+disszeminációs terv kidolgozása
+Nemzeti Koordinációs
+Mechanizmus
+Áldozatokkal
+kapcsolatba kerülő
+szervek, a
+szolgáltatások
+nyújtásában
+közreműködők
+Belső Biztonsági
+Alapból
+megvalósítható, kb.
+30.000 EUR,
+9.000.000 HUF
+Tájékoztató anyag
+sokszorosítása és
+eljuttatása
+
+Elkészült tájékoztató
+anyag, az anyagok
+terjesztése
+A.3.2 Az igazságszolgáltatás
+szereplőinek és az azonosításban
+közreműködő szervek
+munkatársainak kötelezése az
+emberkereskedelem áldozatainak
+tájékoztatására
+Áldozatazonosításban és
+támogatásban részt vevő
+szervek, büntetőeljárásban
+részt vevő hatóságok
+- Nem igényel forrást
+A szereplők
+érzékenyítése
+Folyamatos
+Áldozatok
+tájékoztatásának
+kötelezettségét elfogadó
+és gyakorló szereplők
+
+A.4.1
+Trendek vizsgálatára képes
+anonimizált adatbázis
+kialakítása, beavatkozási térkép
+készítése
+BM
+Nemzeti
+Koordinációs
+Mechanizmus, az
+érintett intézmények
+tagjai
+Belső Biztonsági
+Alapból
+megvalósítható,
+100.000 EUR,
+30.000.000 HUF
+Statisztikai rendszer,
+egységes felület
+kialakítása, adatbázis
+létrehozása
+Rendszer
+alapjainak
+kidolgozása 2014.
+december 31., a
+tesztüzem után az
+adatszolgáltatás
+leghamarabb 2016.
+januártól
+Egységes, naprakész
+adatbázis
+A.4.2
+Az áldozatok nyomon követését,
+szűrését az azonosítástól az
+áldozatvédelmi rendszer
+elhagyásáig elősegítő egységes
+adatbázis létrehozása
+BM
+KIH, Rendőrség,
+OBH
+Belső Biztonsági
+Alapból
+megvalósítható,
+4000 EUR,.
+12.000.000 HUF
+meglévő integrált
+ügyviteli rendszer
+fejlesztése,
+együttműködési
+megállapodás
+
+Végrehajtott fejlesztés
+alapján működő rendszer
+A.4.3
+Az áldozatok nyomon követését,
+áldozatvédelmi rendszerbe
+történő bevonását elősegítő
+adatszolgáltatási mechanizmus
+BM
+KIH, Rendőrség,
+Legfőbb Ügyészség,
+OBH
+Belső Biztonsági
+Alapból
+megvalósítható,
+4000 EUR,.
+12.000.000 HUF
+Együttműködési
+megállapodások az
+érdekeltek között,
+informatikai fejlesztés,
+szakmai konferenciák,
+hatástanulmányok az
+általános-, és
+informatikai
+adatvédelem
+vonatkozásában
+
+Közös, átjárható
+informatikai munkafelület
+a rendőrség, ügyészi
+szervezet és bíróságok
+tekintetében
+A.4.4
+Az áldozatok azonosításában
+közreműködő szervek ösztönzése
+az adatszolgáltatásra
+BM, KIM
+Érintett intézmények
+tagjai
+nem igényel forrást
+szemléletformálás, az
+egyébként megvalósuló
+képzések, szakmai
+programok keretében
+
+Rendszer segítségével
+irányított áldozatok
+száma, a rendszert
+felhasználó
+áldozatirányítók száma
+A.4.5
+Éves statisztikai szempontú
+értékelés kritérium rendszerének
+kialakítása
+BM
+Érintett intézmények
+tagjai
+Belső Biztonsági
+Alapból
+megvalósítható,
+3000 EUR,
+9.000.000 HUF
+Jelentéstételi
+kötelezettség
+érvényesítése
+leghamarabb
+2016-ban
+lehetséges
+Rendszer segítségével
+irányított áldozatok
+száma, a rendszert
+felhasználó
+áldozatirányítók száma
+
+A.5.1
+Transznacionális áldozatirányító
+rendszerek kialakítása
+BM
+Rendőrség, KÜM,
+BÁH, Legfőbb
+Ügyészség, Bíróság,
+civil szervezetek
+európai uniós
+pályázat
+segítségével
+(benyújtott ISEC
+pályázat) 2014
+54.000.000 HUF,
+2016-ban
+36.000.000 HUF
+Nemzetközi
+áldozatirányítás
+rendszer, nemzetközi
+áldozatirányítási
+rendszerről szóló
+kézikönyv
+
+A rendszer segítségével
+irányított áldozatok
+száma, a rendszert
+felhasználó
+áldozatirányítók száma
+A.5.2
+Transznacionális áldozatirányító
+rendszer létrehozása Svájc
+viszonylatában
+BM
+Rendőrség, KÜM,
+BÁH, Legfőbb
+Ügyészség, Bíróság,
+civil szervezetek
+Belső Biztonsági
+Alapból
+megvalósítható,
+60.000 EUR,
+18000000 HUF
+Nemzetközi
+áldozatirányítás
+rendszer, kézikönyv
+
+A rendszer segítségével
+irányított áldozatok
+száma, a rendszert
+felhasználó
+áldozatirányítók száma
+A.5.3
+Transznacionális áldozatirányító
+rendszer kiterjesztése a többi
+érdekelt ország vonatkozásában
+BM
+Rendőrség, KÜM,
+BÁH, Legfőbb
+Ügyészség, Bíróság,
+civil szervezetek
+stratégia időtávjában
+nem igényel forrást
+Nemzetközi
+áldozatirányítás
+rendszer, kézikönyv
+stratégia tervezési
+időtávján túlmutat
+A rendszer segítségével
+irányított áldozatok
+száma, a rendszert
+felhasználó
+áldozatirányítók száma
+Hatékony megelőzés és tudatformálás, tudatosságnövelés
+B.1.1-
+B.1.2
+Társadalmi tudatosság növelése
+érdekében kommunikációs és
+képzési intézkedési terv
+kidolgozása
+BM, EMMI, NMHH
+Nemzeti
+Koordinációs
+Mechanizmus, civil
+szervezetek
+Belső Biztonsági
+Alapból
+megvalósítható,
+50.000 EUR,
+15.000.000 HUF
+kutatás, programterv 2015
+Kommunikációs és
+képzési intézkedési terv
+B.1.2-
+B.2.2
+A társadalmi tudatosságnövelés
+tevékenységébe a média
+bevonása
+BM, EMMI, NMHH
+Nemzeti
+Koordinációs
+Mechanizmus, civil
+szervezetek
+A médiában való
+megjelenés forrást
+nem igénylő
+módjának
+megtalálásához
+médiaszakemberek
+bevonása szükséges
+Közszolgálati
+híradásokban és
+műsorokban történő
+megjelenés általánosan
+és konkrét ügyek
+kapcsán egyaránt, -
+populáris kereskedelmi
+műsorokban történő
+megjelenés
+Folyamatos
+Megnövekedett társadalmi
+tudatosság
+
+B.1.3-
+B.2.3
+Polgárőrség, az önkormányzati
+rendészeti szervek (pl. közterület
+felügyelet) bevonása szükséges a
+megelőző munkába
+BM, Rendőrség Polgárőrség
+Belső Biztonsági
+Alapból
+megvalósítható
+(A.1.3 intézkedéssel
+együtt)
+Képzés 2014-2016
+Hatékonyabb felvilágosító
+munka, áldozatok
+számának csökkenése,
+áldozatok szakszerű,
+hatékony ellátása
+B.1.4-
+B.2.4 Közös informatikai platform az
+emberkereskedelem elleni
+küzdelem szolgálatában, amely a
+kereslet,- és kínálatcsökkentésére
+irányuló törekvések támogatását
+is ellátja
+BM
+Miniszterelnökség,
+kormany.hu
+szerkesztősége
+Belső Biztonsági
+Alapból
+megvalósítható,t
+10.000 EUR,
+3.000.000 HUF
+Weboldal 2016
+Szakmai,
+ismeretterjesztési,
+köznevelési funkciókat is
+ellátó, közismert szakmai
+weboldal működése, aktív
+jelenlét a legnépszerűbb
+közösségi oldalakon
+B.1.5-
+B.2.5 Dedikált keresletcsökkentést és
+kínálatcsökkentést szolgáló
+tájékoztató anyagok készítése
+BM, Rendőrség EMMI
+Belső Biztonsági
+Alapból
+megvalósítható,
+10.000 EUR/év,
+3.000.000 HUF/év
+Köztudatformáló
+kampányok,
+programok,
+tájékoztatók
+
+Tájékoztató anyagok,
+kampányok száma
+B.1.6-
+B.2.6
+A prostitúció jelenségének
+kezelésével kapcsolatos hazai
+kormányzati intézkedések és a
+különböző civil és érdekvédelmi
+szervezetek programjainak
+összegyűjtése, értékelése, az
+eredmények alapján a
+szabályozási rendszer
+felülvizsgálata
+OKRI, BM Oktatási,
+Képzési és
+Tudományszervezési
+Főigazgatóság, NKE
+Civil szervezetek
+OTKA, MTA
+pályázat, 10.000.000
+HUF
+Tudományos kutatás
+lehetőségeinek
+mozgósítása,
+tudományos pályázatok
+Folyamatos Kutatások eredménye
+B.2.7
+Az Internet lehetőségeinek
+kihasználása a gyermekek
+védelme érdekében, illetve a
+szexuális és a munkacélú
+kizsákmányolás terén az
+áldozattá válás megelőzésére
+BM NKE, NMHH
+Belső Biztonsági
+Alapból
+megvalósítható,
+9.000.000 HUF/év
+Tudományos
+kutatások, értékelő-
+elemző tevékenység,
+nemzetközi
+gyakorlatok
+monitorozása,
+konferenciák
+szervezése a témában,
+Internet Hotline
+2015-2016
+Európai Parlament
+állásfoglalásának történő
+megfelelés
+(2012/2068/INI)
+
+üzemeltetése az
+NMHH által
+B.2.8 A NAT alapján megvalósuló
+szexuális életre nevelés
+tananyagának kiegészítése az
+emberkereskedelem veszélyeire
+való figyelemfelhívással
+Nemzeti Koordinációs
+Mechanizmus, EMMI
+Nem igényel forrást
+Rövid részanyag
+kidolgozása,
+felvilágosító munka,
+tájékoztató anyagok
+
+Oktatásban részesített
+tanulók száma
+Az elkövetők felderítése, felelősségre vonása, a sértettek/áldozatok jogainak, és érdekeinek megóvása
+C.1.1 Adminisztratív megközelítés
+lehetőségeinek feltárása és
+alkalmazása az
+emberkereskedelem elleni
+küzdelemben
+Nemzeti Koordinációs
+Mechanizmus
+a feltárt
+adminisztratív
+eszközök
+alkalmazásában
+érintett szervek
+nem igényel forrást
+Bűnügyi, jogi helyzet
+felmérése, értékelése,
+felismert beavatkozási
+pontokon jogi keretek
+megteremtése
+folyamatos
+feltárt adminisztratív
+eszközök száma
+C.1.2
+Multidiszciplináris bűnüldözési
+egység
+BM, Rendőrség Legfőbb Ügyészség
+Belső Biztonsági
+Alapból
+megvalósítható,
+40.000 EUR,
+12.000.000 HUF
+- 2016
+Egység felállítása,
+kijelölése, működés
+feltételeinek biztosítása
+C.1.3
+Nemzetközi együttműködési
+képességek fejlesztése
+BM, Rendőrség Legfőbb Ügyészség
+Belső Biztonsági
+Alapból
+megvalósítható,
+100.000 EUR/év,
+30.000.000 HUF
+- 2016 -
+C.1.3 Az új jogszabályi keretek
+megismertetése az
+igazságszolgáltatás szereplőivel
+és valamennyi egyéb érintett
+szereplővel, képzési terv
+kidolgozása
+BM, BM Oktatási, Képzési
+és Tudományos
+Főigazgatóság, OBH
+Civil szervezetek,
+OKRI, NKE
+Belső Biztonsági
+Alapból
+megvalósítható,
+A.1.3 intézkedésnél
+figyelembe véve
+Meglévő eszközökkel
+biztosítható az
+intézkedés végrehajtása
+2014 - 2016
+Kidolgozott képzési
+anyagok, képzésbe bevont
+személyek száma
+
+C.4.1
+A rendelkezésre álló eljárásjogi
+eszközök áldozatközpontú
+alkalmazása, valamint új
+nyomozati technikák
+alkalmazása
+BM, Rendőrség,
+KIM, Legfőbb
+Ügyészség,
+Országos Bírósági
+Hivatal
+nem igényel forrást
+Területen dolgozó
+szakemberek képzése,
+speciális nyomozati
+technikák kidolgozása,
+alkalmazása,
+áldozatközpontú
+tájékoztatási gyakorlat,
+technikák kialakítása,
+alkalmazása
+Folyamatos -
+C.4.2
+Protokoll kidolgozása
+másodlagos viktimizáció
+elkerülésére a
+büntetőeljárásokhoz kapcsolódó
+eljárási cselekmények során
+BM, Rendőrség
+Áldozatsegítő
+szolgálatok Legfőbb
+Ügyészség
+lényegében a
+rendelkezésre álló
+technikai eszközök
+(személyes jelenlét
+szükségességét
+kiváltó technikai
+eszközök,
+kommunikációs
+technológiák, külön
+bejárat, elkülönített
+váróhelyiség)
+szélesebb körben
+történő
+igénybevételét
+lehetővé tevő forrást
+kell biztosítani, a
+megfelelő
+eljárásjogi gyakorlat
+kialakítása anyagi
+forrásokat nem
+igényel
+Megfelelő protokollok
+kialakítása, technikai
+eszközök
+Folyamatos
+Másodlagos viktimizáció
+elkerülése
+C.4.3 A 46/ 2007. (OT 30.) ORFK
+utasítás felülvizsgálata
+Rendőrség Nem igényel forrást Nincs eszköz igény 2014 .
+C.4.4 Az áldozatok kíméletét biztosító
+intézkedéseken túl az
+emberkereskedelem áldozatainak
+sajátosságaira figyelemmel a
+BM, Rendőrség, KIM
+Áldozatsegítő
+szervezetek
+az állapotfelmérés
+külön forrást nem
+igényel, az új
+eszközrendszer
+Új eszközrendszer,
+meglévő eszközök
+átalakítása, bővítése
+Folyamatos,
+haladéktalanul
+megkezdhető
+-
+
+tanúvédelmi rendszer
+felülvizsgálata
+felállítása, illetve a
+meglévő eszközök
+átalakítása, bővítése
+a működésük
+biztosításához
+szükséges forrásokat
+igényli
+Koordináció megerősítése a releváns hazai kormányzati, fél-kormányzati és civil szervezetek bevonásával
+D.1.1
+A Nemzeti Koordinációs
+Mechanizmus és a NGO
+kerekasztal kapcsolatának
+fejlesztése
+BM
+Nemzeti
+Koordinációs
+Mechanizmus, civil
+szervezetek
+Belső Biztonsági
+Alapból
+megvalósítható
+100.000 EUR,
+30.000.000 HUF
+Kommunikációs
+eszközök, jelentési
+rendszer kialakítása
+Folyamatos
+Hatékony
+információáramlás
+D.1.2
+Az országos szintű koordinációs
+mechanizmus mintájára helyi
+szintű mechanizmusok
+létrehozása
+BM
+Nemzeti
+Koordinációs
+Mechanizmus, civil
+szervezetek
+Belső Biztonsági
+Alapból
+megvalósítható,
+D.1.1. intézkedéssel
+együtt
+Kommunikációs
+eszközök, jelentési
+rendszer kialakítása
+Folyamatos
+Látencia csökkenése,
+elkövetők felderítésének,
+áldozatok azonosításának,
+ellátásba kerülésének
+hatékonysága
+D.1.3 A koordinációs mechanizmus
+irányításával a jó gyakorlatok és
+sikeres esetek rendszerben való
+dokumentálására, szükség esetén
+speciális Nemzeti Koordinációs
+Mechanizmus felkérése az egyes
+protokollok kidolgozására,
+esetleges szakmai útmutatók,
+ajánlások tartalmának
+kidolgozására
+Nemzeti Koordinációs
+Mechanizmus
+civil szervezetek
+Nem igényel anyagi
+ráfordítást, szükség
+esetén uniós forrás
+igénybevétele
+Ad hoc Folyamatos
+Rendszerezett jó
+gyakorlatok, sikeres
+esetek
+D.2.1
+Dedikált költségvetési forrás
+elkülönítése az
+emberkereskedelem elleni
+küzdelemhez
+BM, EMMI, NGM, KIM Civil szervezetek
+költségvetési forrás,
+az adott év tervezése
+során figyelembe
+kell venni fejezeti
+kezelési előirányzati
+formájában.
+költségvetési
+tervezések során a
+szükségletek jelzése
+Folyamatos -
+
+D.3.1
+A nemzetközi együttműködés
+erősítése a releváns országokkal
+és a nemzetközi szervezetekkel,
+valamint az uniós koordinátorok
+mechanizmusában való aktív
+részvétel szintén hozzájárulnak a
+koordináció megerősítéséhez
+BM, Rendőrség, KÜM
+Nemzeti
+Koordinációs
+Mechanizmus, civil
+szervezetk
+Belső Biztonsági
+Alapból
+megvalósítható, kb.
+100.000 EUR,
+30.000.000 HUF
+Közös programok,
+protokollok
+Folyamatos
+Magyarország
+megítélésének javítása, a
+nemzetközi
+együttműködés erősítése
+Biztonságos visszatérés és a reintegráció lehetőségeinek kormányzati szintű feltérképezése, támogató intézkedések kidolgozása
+E.1.1 A biztonságos hazatérés
+kormányzati mechanizmusának
+kidolgozása - a civil partnerek
+közreműködésével, és ennek
+finanszírozási hátterének
+biztosítása
+KÜM, OKIT
+EMMI, Nemzeti
+Koordinációs
+Mechanizmus, Civil
+szervezetek
+az adott év
+költségvetésének
+tervezése során
+figyelembe kell
+venni, 3.000.000
+HUF/év
+kormányzati
+mechanizmus
+folyamatos
+Áldozatok biztonságos
+hazatérése
+E.1.2
+Az áldozatok társadalmi
+reintegrációját segítő Félutas
+Kiléptető Házak kialakítása az
+Átmeneti Szállásokhoz
+kapcsoltan
+EMMI -
+EFOP-ból
+megvalósítható,
+15.000.000
+HUF/ház a
+kialkításhoz,
+4.000.000
+HUF/év/félutas ház
+a fenntartáshoz
+pilot projekt keretében
+2 ház kialakítása-
+2014- 2016 között
+Létrehozott férőhelyek
+száma, ellátott áldozatok
+száma, Félutas Kiléptető
+házak
+E.2.1
+Ismételt áldozattá válás
+elkerülése érdekében utánkövető
+rendszer felállítása
+EMMI BM, KIH
+Nemzeti
+Koordinációs
+Mechanizmus,, civil
+szervezetek
+Belső Biztonsági
+Alapból
+megvalósítható
+Utánkövetési protokoll
+a félutas kiléptető
+házak és az
+esetmenedzserek
+felállását követően
+Az áldozatok
+áldozattudatának
+növelése, a jogaik,
+lehetőségének ismerete,
+ismételt áldozattá válás
+csökkenése
+E.2.2
+GPS rendszer kialakítása, a
+krízisellátásból kikerült, egykori
+áldozatok önkéntes segítőként
+való bevonása
+KIH, pártfogó felügyelők Civil szervezetek
+Pilot projekt,
+Igazságügyi Alapból
+megvalósítható,
+10.000.000 HUF/év
+Felkészítő program Folyamatos
+Segítőként bevont
+személyek száma,
+sorstárssegítés keretében
+szervezett
+foglalkozásokon részt vett
+áldozatok száma
+
+E.2.3 A bűnmegelőzési szolgálatok
+áldozattá illetve ismételt
+áldozattá válás (és nem válás)
+megelőzése érdekében kifejtett
+tevékenységének egyik
+legfontosabb támaszai a körzeti
+megbízottak
+BM, Rendőrség
+Nemzeti
+Bűnmegelőzési
+Tanács
+Belső Biztonsági
+Alapból
+megvalósítható,
+A1.3 intézkedéssel
+együtt
+Projekt, „Többszintű
+Közösségi Rendőrségi
+Hálózat az
+együttműködés alapú
+bűnmegelőzés” című
+projekt
+
+KMK-k képzésének
+lebonyolítása
+E.3.1 Hosszú távú integrációs
+programokról, áldozatok
+sorsának nyomon követéséről,
+illetve az ezzel kapcsolatos
+állami teendők leghatékonyabb
+ellátásáról szóló kutatás
+készítése
+Nemzeti Koordinációs
+Mechanizmus
+Civil szervezetek,
+Európai Szociális
+Alapból
+megvalósítható,
+200.000 EUR,
+60.000.000 HUF
+Utánkövetési rendszer,
+tapasztalatok kutatása,
+Nemzeti Koordinációs
+Mechanizmus
+Két ütemben, első
+ütem 2016-ig,
+második ütem
+túlnyúlik a
+stratégia által
+lefedett időtávon
+Jó gyakorlatok
+összegyűjtése, kutatási
+beszámolók
+E.3.2 Az emberkereskedelem
+áldozatainak társadalmi
+integrációját, reintegrációját
+célzó komplex kormányzati
+program kidolgozása
+Nemzeti Koordinációs
+Mechanizmus
+Civil szervezetek
+Európai Szociális
+Alapból
+megvalósítható,
+200.000 EUR,
+60.000.000 HUF
+Után-követési rendszer
+kialakítása,
+tapasztalatok kutatása
+túlnyúlik a
+stratégia által
+lefedett időtávon
+Kutatási jelentés,
+elkészült protokoll
+
+VI. MELLÉKLET
+Adatok regisztrált bűncselekményekről, sértettekről, elkövetőkről, az Egységes Nyomozó Hatósági és Ügyészségi Bűnügyi Statisztika
+nyilvántartása szerint
+Regisztrált bűncselekmények, sérttettek, elkövetők
+2012. év
+Bűncselekmények
+Regisztrált
+bűncselek-
+mények
+Ismert
+sértettek
+száma
+ebből:
+Regisztrált
+elkövetők száma
+Távoltartás kényszer-
+intézkedés
+0-17 éves sértettek
+173/I. - Emberi test tiltott felhasználása 0 0 0 0 0
+174. § Kényszerítés 171 171 63 98 0
+175/B. § Emberkereskedelem 22 22 4 18 0
+195. § Kiskorú veszélyeztetése 1699 1699 1699 627 12
+204. § - Tiltott pornográf felvétellel visszaélés 661 58 57 50 1
+205. § - Üzletszerű kéjelgés elősegítése 17 0 0 11 0
+206., § - Kitartottság 69 0 0 43 0
+207. § - Kerítés 97 97 24 35 0
+214/B. § - Harmadik országbeli állampolgár
+jogellenes foglalkoztatása 3 3 0 3 0
+218. § - Embercsempészés 188 482 113 214 0
+330/A. § - Uzsorabűncselekmény 378 400 1 78 1
+
+Regisztrált bűncselekmények, sérttettek, elkövetők
+2011. év
+Bűncselekmények
+Regisztrált
+bűncselek-
+mények
+Ismert
+sértettek
+száma
+ebből:
+Regisztrált
+elkövetők száma
+Távoltartás kényszer-
+intézkedés
+0-17 éves sértettek
+173/I. - Emberi test tiltott felhasználása 1 0 0 1 0
+174. § Kényszerítés 156 156 52 92 2
+175/B. § Emberkereskedelem 18 18 3 32 0
+195. § Kiskorú veszélyeztetése 2019 2019 2019 758 16
+204. § - Tiltott pornográf felvétellel visszaélés 168 73 65 52 0
+205. § - Üzletszerű kéjelgés elősegítése 17 0 0 20 0
+206., § - Kitartottság 46 0 0 36 0
+207. § - Kerítés 54 53 13 26 0
+214/B. § - Harmadik országbeli állampolgár
+jogellenes foglalkoztatása
+.. .. .. .. ..
+218. § - Embercsempészés 155 128 8 261 0
+330/A. § - Uzsorabűncselekmény 118 118 0 18 0
+
+Regisztrált bűncselekmények, sérttettek, elkövetők
+2010. év
+Bűncselekmények
+Regisztrált
+bűncselek-
+mények
+Ismert
+sértettek
+száma
+ebből:
+Regisztrált
+elkövetők száma
+Távoltartás kényszer-
+intézkedés
+0-17 éves sértettek
+173/I. - Emberi test tiltott felhasználása 0 0 0 0 0
+174. § Kényszerítés 180 180 74 108 0
+175/B. § Emberkereskedelem 8 7 0 14 0
+195. § Kiskorú veszélyeztetése 1972 1970 1912 792 27
+204. § - Tiltott pornográf felvétellel visszaélés 519 56 45 50 0
+205. § - Üzletszerű kéjelgés elősegítése 11 0 0 15 0
+206., § - Kitartottság 39 0 0 21 0
+207. § - Kerítés 77 77 12 20 0
+214/B. § - Harmadik országbeli állampolgár
+jogellenes foglalkoztatása
+.. .. .. .. ..
+218. § - Embercsempészés 152 70 1 212 0
+330/A. § - Uzsorabűncselekmény 113 113 0 19 0
