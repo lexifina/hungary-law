@@ -6,7 +6,7 @@
 
 ## Felelős: elszámolásért: Nemzeti Adó- és Vámhivatal elnöke
 
-## Határidő: 2013. június 30.
+## Határidő: 2014. május 31.[^2]
 
 1. melléklet az 1618/2012. (XII. 18.) Korm. határozathoz
 
@@ -73,3 +73,5 @@ Költségvetési év: 2012.
 | Magyar Államkincstár | 1 példány |  |  | egyéb : azonnal | 986,4 |  |  |  | 986,4 |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |
+
+[^2]: A határozat az 1349/2013. (VI. 19.) Korm. határozat 6. pontja szerint módosított szöveg.
