@@ -1,0 +1,1 @@
+## 22. Módosuló rendelkezések

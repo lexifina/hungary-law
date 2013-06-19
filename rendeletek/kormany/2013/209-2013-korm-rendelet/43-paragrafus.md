@@ -1,0 +1,17 @@
+## 31–42. §[^20]
+
+## 18. A felügyeleti szerv
+
+43. § (1) A felügyeleti szerv felügyeli az útdíjszedő, az útdíjszolgáltatók, továbbá a Magyarországon szolgáltatást nyújtó EETS szolgáltatók tevékenységét, e körben
+
+a) nyilvántartásba veszi az útdíjszedőt, az útdíjszolgáltatót és a magyarországi tevékenységet végző EETS szolgáltatót,
+
+b) vizsgálja, hogy tevékenységük megfelel-e a díjszedésre vonatkozó jogszabályoknak,
+
+c) jogsértés esetén alkalmazza az Útdíjtörvényben meghatározott jogkövetkezményeket,
+
+d) vezeti a miniszter rendelete szerinti nyilvántartásokat.
+
+(2) A felügyeleti szerv tájékoztatja az Európai Unió tagországainak illetékes szerveit, valamint az Európai Bizottságot az EETS-sel összefüggő intézkedéseiről.
+
+[^20]: A 31–42. § a 47. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
