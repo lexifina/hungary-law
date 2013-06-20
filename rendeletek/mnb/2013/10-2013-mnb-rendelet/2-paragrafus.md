@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 20 gramm, átmérője 34 mm, széle recézett.
+
+(2) Az emlékérme előlapjának szélén, felső köriratban a „MAGYARORSZÁG” felirat, alsó köriratban az „5000” értékjelzés és a „FORINT” felirat olvasható. A felső körirat alatt, bal oldalon a „2013” verési évszám, jobb oldalon a „BP.” verdejel olvasható. A középmezőben Weöres Sándor nevének betűiből álló kompozíció látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának szélén a „WEÖRES SÁNDOR” alsó körirat olvasható. A középmezőben Weöres Sándor öltönyös, mezítlábas alakjának ábrázolása látható, egy négyzet alakú keret alsó vonalára ültetve. A négyzet alakú kerettől balra az „1913”, jobbra az „1989” évszám olvasható. A négyzet alakú keret alatt, Weöres Sándor ábrázolásától balra az „EUROPA” nemzetközi emlékérme-sorozat közös emblémája, az ún. „Euro-Star” jel, jobbra Tóth Zoltán tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
