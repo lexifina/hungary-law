@@ -1,0 +1,3 @@
+## 11. § A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet (a továbbiakban: Fönyr.) 2. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1a) Ahol e rendelet adatlapra utal, ott a Tft. 25/B. § (2) bekezdése szerinti bejelentési adatlapot, valamint a Tft. 25/B. § (4a) bekezdésében meghatározott esetben benyújtott változás-bejelentési adatlapot és törlési adatlapot is érteni kell. Az e rendelet szerinti adatlapokat a földügyért felelős miniszter rendszeresíti, és azokat közzé kell tenni a Vidékfejlesztési Minisztérium, valamint a földhivatalok hivatalos honlapján.”

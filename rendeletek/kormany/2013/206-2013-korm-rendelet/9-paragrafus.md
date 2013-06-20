@@ -1,0 +1,3 @@
+## 8. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 20. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) E rendeletnek az egyes földügyi tárgyú kormányrendeletek módosításáról szóló 206/2013. (VI. 17.) Korm. rendelet (a továbbiakban: Mr2.) 1. mellékletével megállapított 2. mellékletében foglaltakat az Mr2. hatálybalépését követően indult újrahasznosítási eljárással, valamint engedély nélküli más célú hasznosítással kapcsolatos ügyekben és az ilyen ügytípusokkal kapcsolatos megismételt eljárásokban kell alkalmazni.”
