@@ -14,7 +14,7 @@
 
 ## d) lakcíme,
 
-## e)[^68]
+## e)[^72]
 
 ## 1.2. a gazdálkodó szervezet kérelmező
 
@@ -40,7 +40,7 @@
 
 ## d) annak megjelölése, hogy a bejelentő a teljes földrészletet használja-e,
 
-## e) ha a bejelentő nem a teljes földrészletet használja, nyilatkozat arról, hogy vázlatot mellékelt-e,
+## e)[^73] ha a bejelentő nem a teljes földrészletet használja, nyilatkozat arról, hogy vázlatot, illetve vázrajzot csatolt-e,
 
 ## f) a használt terület nagysága (ha, m2),
 
@@ -48,7 +48,7 @@
 
 ## h) a használat kezdő időpontja (év, hó, nap),
 
-## i) a használat lejárati időpontja (év, hó, nap),
+## i)[^74] a használat lejárati időpontja (év, hó, nap), illetve ha a használat a határozatlan időtartamú, ennek megjelölése
 
 ## j) ha a földrészlet az ingatlan-nyilvántartás szerint alrészletekre bontott, a használt alrészletek jelei, művelési ágai, minőségi osztályai, valamint a használattal érintett terület nagysága (ha, m2) és aranykorona-értéke (AK).
 
@@ -66,7 +66,7 @@
 
 ## c) szívességi földhasználat jogcímén bejelentett földhasználat esetén arról, hogy a földhasználó a használatba adó közeli hozzátartozója;
 
-## d)[^69]
+## d)[^75]
 
 ## e) cég esetén arra vonatkozóan, hogy az aláírási címpéldányt, illetve az aláírás mintát a cégnyilvántartás tartalmazza-e.
 
@@ -92,8 +92,10 @@
 
 ## 8. Az ügyintéző aláírása.
 
-4. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^70]
+4. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^76]
 
-[^68]: A 3. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
-[^69]: A 3. számú melléklet I. pont 4. alpont d) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
-[^70]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^72]: A 3. számú melléklet I. pont 1.1. alpont e) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^73]: A 3. számú melléklet I. 2. pont e) alpontja a 206/2013. (VI. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^74]: A 3. számú melléklet I. 2. pont i) alpontja a 206/2013. (VI. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^75]: A 3. számú melléklet I. pont 4. alpont d) pontját az 54/2013. (II. 26.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
+[^76]: A 4. számú mellékletet a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.

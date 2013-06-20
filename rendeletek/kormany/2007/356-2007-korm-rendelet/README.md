@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-356-20-
 | 2013-02-02 | 2007-356-20-22.11 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-02-27 | 2007-356-20-22.12 | 54/2013. (II. 26.) Korm. rendelet |
 | 2013-03-11 | 2007-356-20-22.13 | 68/2013. (III. 8.) Korm. rendelet |
+| 2013-06-20 | 2007-356-20-22.14 | 206/2013. (VI. 17.) Korm. rendelet |
