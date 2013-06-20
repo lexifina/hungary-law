@@ -26,9 +26,7 @@
 
 ## Határidő: a 3. pont szerinti megállapodás megkötését követően azonnal
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1622/2012. (XII. 18.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2013. december 20.” szöveg lép.
-
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1618/2012. (XII. 18.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2014. május 31.” szöveg lép.
+## 5–6.[^1]
 
 1. melléklet az 1349/2013. (VI. 19.) Korm. határozathoz
 
@@ -107,3 +105,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
