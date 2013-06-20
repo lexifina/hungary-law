@@ -30,7 +30,7 @@
 
 4. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^84]
+338/2006. (XII. 23.) Korm. rendelethez[^87]
 
 A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -62,4 +62,4 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 | 8. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása kérdésében, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban főjegyző | fővárosi, megyei kormányhivatal |
 
-[^84]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 70/2013. (III. 8.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^87]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 70/2013. (III. 8.) Korm. rendelet 16. §-a szerint módosított szöveg.

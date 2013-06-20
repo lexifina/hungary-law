@@ -1,5 +1,5 @@
 2. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^82]
+338/2006. (XII. 23.) Korm. rendelethez[^85]
 
-[^82]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 317/2010. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 20. §-a, a 134/2012. (VI. 28.) Korm. rendelet 3. § a) pontja, a 394/2012. (XII. 20.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^85]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 317/2010. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 20. §-a, a 134/2012. (VI. 28.) Korm. rendelet 3. § a) pontja, a 394/2012. (XII. 20.) Korm. rendelet 16. §-a, a 206/2013. (VI. 17.) Korm. rendelet 10. §-a szerint módosított szöveg [az e módosító rendelet 1. melléklet 3. pontjával elrendelt módosítás nem vezethető át.].
