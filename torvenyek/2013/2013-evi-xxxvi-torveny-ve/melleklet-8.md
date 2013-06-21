@@ -36,7 +36,7 @@
 
 ## b) a szavazás napját,
 
-## c) a választókerületet,
+## c)
 
 ## d) a választópolgár
 
@@ -44,7 +44,7 @@
 
 ## db) személyi azonosítóját, ennek hiányában a magyar állampolgárságát igazoló okiratának típusát és számát,
 
-## dc) magyarországi lakcímét, ennek hiányában lakóhelyének címét,
+## dc)
 
 ## dd) anyja nevét,
 
@@ -54,7 +54,7 @@
 
 ## dg) értesítési címét,
 
-## e) annak megjelölését, ha a magyarországi lakcímmel rendelkező választópolgár a szavazási levélcsomag személyes átvételét kérte,
+## e) annak megjelölését, ha a választópolgár a szavazási levélcsomag személyes átvételét kérte, valamint az átvételre megjelölt település megjelölését,
 
 ## f) a választópolgár részére megküldendő szavazólapok megjelölését,
 

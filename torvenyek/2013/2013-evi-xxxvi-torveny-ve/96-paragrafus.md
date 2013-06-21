@@ -12,4 +12,4 @@ c) a szavazókörök és választókerületek nyilvántartása.
 
 (3) A választópolgár a központi névjegyzékben nyilvántartott adatairól a magyarországi lakcíme szerinti helyi választási irodában, a magyarországi lakcímmel nem rendelkező választópolgár a Nemzeti Választási Irodában másolatot kérhet.
 
-(4) A Nemzeti Választási Bizottság tagja a magyarországi lakcímmel nem rendelkező választópolgárok központi névjegyzékben nyilvántartott adataiba betekinthet, de azokról feljegyzést, másolatot nem készíthet.
+(4) A Nemzeti Választási Bizottság tagja a magyarországi lakcímmel nem rendelkező választópolgárok központi névjegyzékben nyilvántartott adataiba betekinthet, de azokról feljegyzést, másolatot nem készíthet. A betekintés során a Nemzeti Választási Bizottság tagja a 84. § szerinti kérelem, valamint a 93. § szerinti adatbázisok adatainak megtekintésével ellenőrizheti a névjegyzékbe vétel törvényességét.

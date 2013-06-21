@@ -22,4 +22,6 @@ f) a Nemzeti Választási Bizottság kivételével a választási bizottságok t
 
 g) a médiatartalom-szolgáltató képviseletében eljáró személy e minőségének igazolására használható okiratokat,
 
-h) a bírság megfizetésének részletes szabályait.
+h) a bírság megfizetésének részletes szabályait,
+
+i) azon településeket és külképviseleteket, ahol a magyarországi lakcímmel nem rendelkező választópolgár – kérelmére – átveheti a szavazási levélcsomagot.

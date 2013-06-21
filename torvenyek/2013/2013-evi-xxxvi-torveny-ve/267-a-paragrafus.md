@@ -1,0 +1,1 @@
+267/A. § A Nemzeti Választási Iroda a levélben szavazók névjegyzékének azon választópolgárokat tartalmazó részét, akik a szavazási levélcsomag személyes átvételét kérték, a szavazást megelőző tizenötödik napig hozzáférhetővé teszi, illetve – a 263. §-ban foglalt rendelkezés alkalmazásával – továbbítja az illetékes választási iroda részére.

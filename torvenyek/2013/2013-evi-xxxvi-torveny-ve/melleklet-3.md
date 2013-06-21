@@ -34,10 +34,12 @@
 
 ## l) a 89. § szerinti nyilatkozat tartalmát,
 
-## m) a választópolgárnak a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett, ennek hiányában a 92. § (1) bekezdés b) pontja szerint bejelentett értesítési címét,
+## m) a választópolgárnak a 92. § (2) bekezdése szerint bejelentett postacímét, email címét vagy telefax számát, ezek hiányában a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett értesítési címét,
 
 ## n) a választókerület és a szavazókör megjelölését,
 
-## o) a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár központi névjegyzékbe vételének, illetve a 97. § (1) bekezdés b) pontjában meghatározott cselekmény központi névjegyzékben történt rögzítésének dátumát.
+## o) a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár központi névjegyzékbe vételének, illetve a 97. § (1) bekezdés b) pontjában meghatározott cselekmény központi névjegyzékben történt rögzítésének dátumát,
+
+## p) ha a magyarországi lakcímmel nem rendelkező választópolgár a szavazási levélcsomag személyes átvételét kérte, az átvételre megjelölt település megjelölését.
 
 3. melléklet a 2013. évi XXXVI. törvényhez

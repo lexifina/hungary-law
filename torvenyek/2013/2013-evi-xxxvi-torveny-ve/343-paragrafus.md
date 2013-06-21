@@ -8,6 +8,6 @@ a) a szavazóköri jegyzőkönyvek,
 
 b) a külképviseleti szavazás eredményét megállapító jegyzőkönyv és
 
-c) a levélben leadott szavazatok megszámlálásának eredményét megállapító jegyzőkönyv
+c)
 
 alapján megállapítja a választás eredményét.

@@ -8,6 +8,6 @@
 
 a) a nemzetiség képviseletét vállalja,
 
-b) a választást megelőző tíz évben nemzetiségi önkormányzati képviselők általános vagy időközi választásán nem volt más nemzetiség önkormányzatának jelöltje, és
+b) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
 
-c) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
+(4) A választási bizottság a jelöltek nyilvántartásában ellenőrzi, hogy a jelölt a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt jelölt más nemzetiség önkormányzatának választásán.

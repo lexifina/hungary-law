@@ -32,7 +32,7 @@
 
 ## c) a listát állító jelölő szervezetet,
 
-## d) a Kormány rendeletében meghatározott egyéb – személyes adatnak nem minősülő –adatokat.
+## d) a miniszter rendeletében meghatározott egyéb – személyes adatnak nem minősülő –adatokat.
 
 ## A nyilvántartás tartalmazza annak megjelölését, hogy a jelölő szervezetet, jelöltet, listát melyik választásra vették nyilvántartásba, a jelölt melyik választókerületben indul, illetve a listát melyik választókerületben állították.
 

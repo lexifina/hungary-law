@@ -4,4 +4,4 @@
 
 (3) Az érvényes szavazási iratokban lévő azonosító nyilatkozatokat külön kell csomagolni.
 
-(4) Az országgyűlési egyéni választókerületi választási iroda a borítékokat külön csomagolja. A csomagban elhelyezett borítékok számát külön jegyzőkönyvben rögzíti, amelynek egy példányát szintén a csomagba helyezi, és azt lezárja. A csomagot az országgyűlési egyéni választókerületi választási iroda vezetője aláírásával és bélyegzőlenyomattal hitelesíti.
+(4)

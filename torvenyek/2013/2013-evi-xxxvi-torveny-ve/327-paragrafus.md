@@ -1,3 +1,3 @@
-## 154. A levélben leadott szavazatok megszámlálása
+## 154. A 323. § (4) bekezdése szerinti szavazatok megszámlálása
 
-327. § A levélben szavazók névjegyzékében szereplő választópolgárok területi és országos nemzetiségi önkormányzati választásra leadott szavazatainak megszámlálását és a levélben szavazás eredményének megállapítását a területi választási bizottság végzi.
+327. § A 323. § (4) bekezdése szerinti szavazatokat a területi választási bizottság számlálja meg.

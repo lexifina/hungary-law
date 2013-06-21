@@ -1,0 +1,1 @@
+307/Q. § A helyi választási iroda vezetőjének az egyéni választókerületek kialakításáról és felülvizsgálatáról szóló határozata ellen a közzétételének időtartama alatt nyújtható be bírósági felülvizsgálati kérelem. A kérelmet a törvényszék bírálja el.

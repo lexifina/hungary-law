@@ -1,1 +1,1 @@
-353. § 2014-ben nem lehet időközi önkormányzati választást tartani április 1-je és az önkormányzati általános választás napja között.
+353. § 2013-ban az országgyűlési képviselők időközi választását nem lehet kitűzni szeptember 1-jét követő napra.

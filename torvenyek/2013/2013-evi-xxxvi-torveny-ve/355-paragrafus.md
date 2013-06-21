@@ -1,6 +1,6 @@
 ## 173. Az Európai Unió jogának való megfelelés
 
-355. § (1) A 90. §, a 334–337. §, a 339. §, a 340. § – az Alaptörvény XXIII. cikk (2) bekezdésével együtt – a Tanács az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának az európai parlamenti választások során történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló 93/109/EK irányelvének (1993. december 6.) való megfelelést szolgálja.
+355. § (1) A 90. §, a 334–337. §, a 339. §, a 340. § – az Alaptörvény XXIII. cikk (2) bekezdésével együtt – a Tanács az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának az európai parlamenti választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló 1993. december 6-i 93/109/EK irányelvének, valamint az azt módosító 2012. december 20-i 2013/1/EU irányelvnek való megfelelést szolgálja.
 
 (2) A 305. § – az Alaptörvény XXIII. cikk (2) bekezdésével együtt – a Tanács az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának a helyhatósági választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló 94/80/EK irányelvének (1994. december 19.) való megfelelést szolgálja.
 

@@ -12,7 +12,7 @@ e) a szavazás módjáról szóló tájékoztatást.
 
 (2) A szavazási levélcsomag válaszborítékjának címzése
 
-a) a magyarországi lakcímmel rendelkező választópolgár lakcíme szerinti országgyűlési egyéni választókerületi választási iroda címét,
+a)
 
 b) a magyarországi lakcímmel nem rendelkező választópolgár esetében a Nemzeti Választási Iroda címét
 

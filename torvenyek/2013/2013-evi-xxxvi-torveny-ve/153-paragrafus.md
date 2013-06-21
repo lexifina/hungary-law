@@ -2,7 +2,7 @@
 
 153. § A szavazóköri névjegyzékben szereplő választópolgárok nevét és lakcímét – a 89. § rendelkezéseire is figyelemmel –
 
-a) a jelölt kérésére – az érintett választókerületre kiterjedően – a jelölt nyilvántartásba-vételére illetékes választási iroda,
+a) a jelölt kérésére – az érintett választókerületre kiterjedően – a jelölt nyilvántartásba-vételére illetékes választási bizottság mellett működő választási iroda,
 
 b) a listát állító jelölő szervezet kérésére – a jelölő szervezet által megjelölt választókerületekre kiterjedően – a Nemzeti Választási Iroda
 

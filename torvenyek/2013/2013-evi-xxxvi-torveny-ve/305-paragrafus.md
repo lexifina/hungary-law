@@ -1,3 +1,3 @@
 ## 136. Az uniós állampolgár jelölt bejelentése
 
-305. § Az Európai Unió más tagállama állampolgárának jelöltként történő bejelentéséhez csatolni kell a jelölt nyilatkozatát arról is, hogy az állampolgársága szerinti tagállamban nem áll olyan jogszabályi, bírósági vagy más hatósági rendelkezés hatálya alatt, amely szerint nem választható.
+### 305. §
