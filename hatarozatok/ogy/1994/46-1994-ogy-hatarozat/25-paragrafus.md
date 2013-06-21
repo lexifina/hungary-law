@@ -1,3 +1,3 @@
-## 24. §[^32]
+## 24. §[^33]
 
-[^32]: A 24. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 17. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.
+[^33]: A 24. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 17. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.

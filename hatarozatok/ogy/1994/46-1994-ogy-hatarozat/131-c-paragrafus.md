@@ -1,4 +1,4 @@
-## 131/C. §[^292]
+## 131/C. §[^293]
 
 (1) A Mentelmi bizottság az összeférhetetlenségi ügyeket zárt ülésen tárgyalja.
 
@@ -10,4 +10,4 @@
 
 (5) A Mentelmi bizottság elnöke az összeférhetetlenségi ügy tárgyalásáról, idejéről és helyéről köteles az érintett képviselőt értesíteni. Ha a képviselő megjelenik, kérésére meg kell őt hallgatni, de a Mentelmi bizottság ülésén egyébként nem lehet jelen.
 
-[^292]: A 131/C. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 36/2012. (IV. 19.) OGY határozat 55. §-ával megállapított szöveg, alkalmazására lásd ez utóbbi módosító határozat 75. § (4) bekezdését.
+[^293]: A 131/C. §-t a 61/1997. (VI. 5.) OGY határozat 1. §-a iktatta be, szövege a 36/2012. (IV. 19.) OGY határozat 55. §-ával megállapított szöveg, alkalmazására lásd ez utóbbi módosító határozat 75. § (4) bekezdését.

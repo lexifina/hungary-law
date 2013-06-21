@@ -1,4 +1,4 @@
-## II. RÉSZ[^23]
+## II. RÉSZ[^24]
 
 ## AZ ORSZÁGGYŰLÉSI KÉPVISELŐCSOPORTOK
 
@@ -18,4 +18,4 @@ b) párt jelöltjeként indult a választáson, vagy
 
 c) olyan független, illetve függetlenné vált képviselő, akinek csatlakozását a képviselőcsoport elfogadta.
 
-[^23]: A II. rész (13–18. §) a 36/2012. (IV. 19.) OGY határozat 11. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^24]: A II. rész (13–18. §) a 36/2012. (IV. 19.) OGY határozat 11. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

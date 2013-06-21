@@ -2,9 +2,9 @@
 
 ## KÜLÖNLEGES ELJÁRÁSOK
 
-## A központi költségvetésről szóló törvényjavaslatra és a központi költségvetés végrehajtásáról szóló törvényjavaslatra vonatkozó eljárás[^251]
+## A központi költségvetésről szóló törvényjavaslatra és a központi költségvetés végrehajtásáról szóló törvényjavaslatra vonatkozó eljárás[^252]
 
-## 120. §[^252]
+## 120. §[^253]
 
 (1) A törvényjavaslat tárgyalására és határozathozatalára vonatkozó rendelkezéseket
 
@@ -30,5 +30,5 @@ b) a 105. § (2) bekezdésének a rendelkezések sorrendjére vonatkozó szabál
 
 c) a 107. §-t és a 107/A. §-t a központi költségvetésről szóló törvényjavaslat és az (1) bekezdés b) pontja szerinti törvényjavaslat – a Költségvetési Tanács a törvényjavaslat elfogadásához szükséges előzetes hozzájárulásának megtagadása miatti – megismételt záró vitája és zárószavazása során azzal, hogy zárószavazásra csak egy alkalommal kerülhet sor.
 
-[^251]: A 120. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 48. § (1) bekezdésével megállapított szöveg.
-[^252]: A 120. § a 36/2012. (IV. 19.) OGY határozat 48. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^252]: A 120. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 48. § (1) bekezdésével megállapított szöveg.
+[^253]: A 120. § a 36/2012. (IV. 19.) OGY határozat 48. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

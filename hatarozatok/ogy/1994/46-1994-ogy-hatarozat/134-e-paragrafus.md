@@ -1,4 +1,4 @@
-## 134/E. §[^309]
+## 134/E. §[^310]
 
 (1) Az európai uniós ügyekkel foglalkozó bizottság a szubszidiaritás elvének érvényesülése szempontjából megvizsgálhatja az elfogadott európai uniós jogalkotási aktusokat.
 
@@ -6,4 +6,4 @@
 
 (3) Ha a Kormány a kezdeményezésben foglaltakról a törvény szerinti egyeztetést kezdeményez, a Kormánnyal az európai uniós ügyekkel foglalkozó bizottság folytatja le az egyeztetést.
 
-[^309]: A 134/E. §-t a 36/2012. (IV. 19.) OGY határozat 63. §-a iktatta be, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^310]: A 134/E. §-t a 36/2012. (IV. 19.) OGY határozat 63. §-a iktatta be, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

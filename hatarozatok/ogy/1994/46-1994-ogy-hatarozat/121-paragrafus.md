@@ -1,4 +1,4 @@
-## 121. §[^253]
+## 121. §[^254]
 
 ## Ha a Költségvetési Tanács elnöke a házelnököt
 
@@ -6,4 +6,4 @@ a) az Országgyűlés a 121/A. § (5) bekezdése szerinti ajánlásra vonatkozó
 
 b) a központi költségvetésről szóló törvényjavaslat vagy a 120. § (1) bekezdés b) pontja szerinti törvényjavaslat és az ahhoz kapcsolódóan elfogadott módosító javaslatok tekintetében az előzetes hozzájárulás megtagadásával kapcsolatos döntéséről tájékoztatja,
 
-[^253]: A 121. § a 36/2012. (IV. 19.) OGY határozat 48. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^254]: A 121. § a 36/2012. (IV. 19.) OGY határozat 48. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

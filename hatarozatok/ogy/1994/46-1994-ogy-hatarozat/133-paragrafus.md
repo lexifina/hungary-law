@@ -1,10 +1,10 @@
-## 132. §[^300]
+## 132. §[^301]
 
 ## A köztársasági elnök megbízatása megszűnésével
 
 ## és helyettesítésével kapcsolatos eljárási szabályok
 
-## 133. §[^301]
+## 133. §[^302]
 
 (1) Ha a köztársasági elnök az Országgyűléshez intézett nyilatkozatával lemond a megbízatásáról, a nyilatkozatára a határozati javaslatra meghatározott szabályokat a következő eltérésekkel kell alkalmazni:
 
@@ -42,5 +42,5 @@ b) a határozati javaslathoz módosító javaslatot nem lehet benyújtani.
 
 (7) Ha az Országgyűlés az átmeneti akadályoztatás tényének megállapítására irányuló kezdeményezés időpontjában vagy a (6) bekezdés szerinti esetben a köztársasági elnök megbízatása megszűnésének időpontjában nem ülésezik, rendkívüli ülésszakot vagy rendkívüli ülést kell összehívni.
 
-[^300]: A 132. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 58. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.
-[^301]: A 133. § a 36/2012. (IV. 19.) OGY határozat 57. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^301]: A 132. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 58. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.
+[^302]: A 133. § a 36/2012. (IV. 19.) OGY határozat 57. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
