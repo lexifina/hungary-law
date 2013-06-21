@@ -1,0 +1,3 @@
+11. § A Kvtv. 42. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A Garantiqa Hitelgarancia Zrt. által az (1) bekezdés szerinti állami viszontgaranciával vállalt készfizető kezesség érvényesítése esetén – törvény eltérő rendelkezésének hiányában – a társaság köteles minden szükséges jogcselekményt megtenni a (3) bekezdés szerinti kötelezettekkel szemben fennálló, reá átszálló követelés behajtására. A központi költségvetést illeti meg a társaság által behajtott – a behajtási költségekkel csökkentett – összegnek az érvényesített állami viszontgarancia mértékével megegyező százalékban kifejezett arányos része.”
