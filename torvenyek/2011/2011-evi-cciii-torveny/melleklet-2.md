@@ -4936,6 +4936,8 @@ Területe:
 
 9. Balatonszemes
 
+9a. Balatonvilágos
+
 10. Bálványos
 
 11. Baté
@@ -6364,7 +6366,7 @@ Területe:
 
 13. Balatonudvari
 
-14. Balatonvilágos
+14.
 
 15. Barnag
 
