@@ -9,3 +9,5 @@
 (5) Ha a közérdekű adat megismerése iránti igény teljesítésének megtagadása tekintetében törvény az adatkezelő mérlegelését teszi lehetővé, a megtagadás alapját szűken kell értelmezni, és a közérdekű adat megismerésére irányuló igény teljesítése kizárólag abban az esetben tagadható meg, ha a megtagadás alapjául szolgáló közérdek nagyobb súlyú a közérdekű adat megismerésére irányuló igény teljesítéséhez fűződő közérdeknél.
 
 (6) A közfeladatot ellátó szervnek a közérdekű adatok megismerésére irányuló igények teljesítésének rendjét rögzítő szabályzatot kell készítenie.
+
+(7) A közfeladatot ellátó szerv gazdálkodásának átfogó, számlaszintű, illetve tételes ellenőrzésére irányuló adatmegismerésekre külön törvények rendelkezései irányadók. Ha erre való hivatkozással az adatigénylés elutasításra kerül, az adatigénylő az 52. § alapján a Hatóságnál bejelentéssel vizsgálatot kezdeményezhet.
