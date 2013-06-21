@@ -1,0 +1,1 @@
+Az Országgyűlés a kampányköltségek átláthatóvá tétele, és ezzel az országgyűlési képviselők választásán induló jelöltek és jelölő szervezetek esélyegyenlőségének elősegítése, a jóhiszemű és rendeltetésszerű joggyakorlás feltételeinek megteremtése és az országgyűlési képviselők választása tisztaságának megóvása érdekében a következő törvényt alkotja:
