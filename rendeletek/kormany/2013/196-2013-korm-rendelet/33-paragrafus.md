@@ -1,0 +1,1 @@
+## „(7) A közfeladatot ellátó szerv a megőrzési kötelezettséget az iratról – a Ket. szerinti – hiteles elektronikus másolat készítése és megőrzése útján is teljesítheti. Az eredeti, papír alapú irat a hiteles másolat elkészítését és az annak megőrzéséről való gondoskodás kezdő időpontját követően selejtezési eljárás alá vonható.”

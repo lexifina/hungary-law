@@ -1,0 +1,3 @@
+## „(4) Ha a megszűnő szervezeti egység feladatköre több szervezeti egység között oszlik meg, az átmeneti irattári anyagot – a közfeladatot ellátó szerv iratkezelési szabályzatában meghatározottak szerint – a feladathoz kapcsolódóan lehet megosztani vagy a központi irattárban elhelyezni. A központi irattárba helyezett egyes ügyiratokra vonatkozó igényt betekintéssel, másolat készítésével vagy kölcsönzéssel kell teljesíteni.
+
+## (5) A megszűnő szervezeti egység papír alapú vagy elektronikus lezárt iktatókönyvét a központi irattárban kell elhelyezni és a továbbiakban kezelni, azzal, hogy az átvevő szervezeti egység számára a hozzáférést biztosítani kell.”

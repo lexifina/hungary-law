@@ -1,0 +1,1 @@
+## „(5) Az átvett, de az átvételt követő ellenőrzés alapján biztonsági kockázatot jelentő elektronikus küldemények esetében a fogadó szerv a további feldolgozást megszakítja, és a küldőt a biztonsági kockázat miatti feldolgozás elutasításról a 21. § (5) bekezdésében meghatározott formában értesíti.”
