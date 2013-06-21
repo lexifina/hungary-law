@@ -3164,6 +3164,346 @@ Egyéb felhalmozási kiadások
 
 |
 
+24
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nemzeti Választási Iroda
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nemzeti Választási Iroda
+
+|
+
+|
+
+|
+
+550,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+Működési költségvetés
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+Személyi juttatások
+
+|
+
+295,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+Munkaadókat terhelő járulékok és szociális hozzájárulási adó
+
+|
+
+79,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+Dologi kiadások
+
+|
+
+81,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+Felhalmozási költségvetés
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+Beruházások
+
+|
+
+95,0
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fejezeti kezelésű előirányzatok
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Időközi és nemzetiségi választások lebonyolítása
+
+|
+
+81,0
+
+|
+
+|
+
+81,0
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A 2014. évi választások előkészítése
+
+|
+
+2300,0
+
+|
+
+|
+
+2300,0
+
+|
+
+24. cím összesen:
+
+|
+
+2931,0
+
+|
+
+|
+
+2931,0
+
+|
+
 |
 
 |
@@ -3180,7 +3520,7 @@ I. fejezet összesen:
 
 |
 
-123 749,0
+126 680,0
 
 |
 
@@ -3188,7 +3528,7 @@ I. fejezet összesen:
 
 |
 
-35 516,3
+38 447,3
 
 |
 
@@ -9696,17 +10036,11 @@ Nemzetközi kötelezettségek teljesítése
 
 |
 
-Időközi és nemzetiségi választások lebonyolítása
-
-|
-
-81,0
-
 |
 
 |
 
-81,0
+|
 
 |
 
@@ -10126,7 +10460,7 @@ Fejezeti általános tartalék
 
 |
 
-243 600,7
+243 519,7
 
 |
 
@@ -10134,7 +10468,7 @@ Fejezeti általános tartalék
 
 |
 
-190 568,7
+190 487,7
 
 |
 
@@ -10234,7 +10568,7 @@ X. fejezet összesen:
 
 |
 
-333 129,4
+333 048,4
 
 |
 
@@ -10242,7 +10576,7 @@ X. fejezet összesen:
 
 |
 
-190 568,7
+190 487,7
 
 |
 
@@ -58052,7 +58386,7 @@ Hiányt finanszírozó és adósságmegújító államkötvények kamatelszámol
 
 |
 
-662 239,6
+659 389,6
 
 |
 
@@ -58574,7 +58908,7 @@ XLI. fejezet összesen:
 
 |
 
-1 252 377,5
+1 249 527,5
 
 |
 
@@ -59856,7 +60190,7 @@ Központi költségvetési szervek
 
 |
 
-55 120,5
+56 620,5
 
 |
 
@@ -62408,7 +62742,7 @@ XLII. fejezet összesen:
 
 |
 
-7 457 424,9
+7 458 924,9
 
 |
 
@@ -72978,7 +73312,7 @@ BEVÉTELI FŐÖSSZEG:
 
 |
 
-15 323 816,1
+15 325 316,1
 
 |
 
@@ -72998,4 +73332,4 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
--881 334,8
+-879 834,8

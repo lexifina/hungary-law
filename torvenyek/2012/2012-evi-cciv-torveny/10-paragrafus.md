@@ -13,3 +13,7 @@
 (6) Ha az államháztartásért felelős miniszter, valamint a fejlesztéspolitikáért felelős miniszter irányítása alá tartozó, az (1) bekezdésben felsorolt költségvetési szervek a befizetési kötelezettségüknek nem tesznek eleget, a hiányzó összegre fejezeti tartalékot kell képezni és a befizetést legkésőbb 2013. december 20-áig teljesíteni kell.
 
 (7) A központi költségvetési szervek a 25 év alatti valamint az 55 év feletti, továbbá a képzettséget nem igénylő (egyszerű) munkakörben foglalkoztatott munkavállalók, valamint a gyesről visszatérő és tartós munkanélküliség után elhelyezkedő munkavállalók foglalkoztatásához kapcsolódó 2013. évi szociális hozzájárulási adó változásból eredő kiadási megtakarításaikat kötelesek befizetni a központi költségvetés javára a tárgyhónapot követő hónap 20. napjáig.
+
+(8) A miniszterek és a Miniszterelnökséget vezető államtitkár irányítása vagy felügyelete alá tartozó költségvetési szervek az irányadó öregségi nyugdíjkorhatárt betöltött és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerzett közalkalmazotti vagy kormányzati szolgálati jogviszonyban állók jogviszonyának az 1700/2012. (XII. 29.) Korm. határozat által elrendelt megszüntetéséből eredő kiadási megtakarításaikat kötelesek befizetni a központi költségvetés javára.
+
+(9) A Pénzügyi Szervezetek Állami Felügyelete 1500,0 millió forintot köteles befizetni a központi költségvetés javára 2013. augusztus 31. napjáig.

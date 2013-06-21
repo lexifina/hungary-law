@@ -4,7 +4,7 @@
 
 47. § (1) Nem terjed ki a tervezési, az előirányzat-módosítási és -felhasználási, a beszámolási, az információszolgáltatási és az ellenőrzési kötelezettsége és joga
 
-a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím, 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím
+a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím, 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím, 24. Nemzeti Választási Iroda cím,
 
 b) a XI. Miniszterelnökség fejezeten belül a miniszterelnökséget vezető államtitkárnak – mint a fejezetet irányító szerv vezetőjének – a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím
 
@@ -22,7 +22,9 @@ ac) 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím tekintet�
 
 ad) 22. Egyenlő Bánásmód Hatóság cím tekintetében az Egyenlő Bánásmód Hatóság elnöke,
 
-ae) 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
+ae) 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke,
+
+af) 24. Nemzeti Választási Iroda cím felett a Nemzeti Választási Iroda elnöke
 
 b) a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím tekintetében a Kormányzati Ellenőrzési Hivatal elnöke
 

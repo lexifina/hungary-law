@@ -41,3 +41,7 @@ alakulását, továbbá javaslatot tesz az (5) bekezdés szerinti kiadási elői
 (16) A Kormány a LXIII. Nemzeti Foglalkoztatási Alap fejezet kiadásai terhére átcsoportosítást hajthat végre a XX. Emberi Erőforrások Minisztériuma fejezet javára az Útravaló Ösztöndíjprogram Út a szakmához alprogramjának megvalósításához.
 
 (17) A II. Köztársasági Elnökség fejezetet és a XVIII. Külügyminisztérium fejezetet irányító szervek vezetői az államfői protokollal kapcsolatos feladatok ellátásához szükséges előirányzat-átcsoportosításról fejezeti hatáskörben intézkedhetnek.
+
+(18) A Nemzeti Választási Iroda feladatellátása érdekében a Kormány átcsoportosítást hajthat végre azon előirányzatok terhére, amelyek a Nemzeti Választási Iroda hatáskörébe tartozó feladatok kiadásait tartalmazzák.
+
+(19) A Köztársasági Elnöki Hivatal főigazgatója a II. Köztársasági Elnökség fejezet, 2. cím 2. alcím 3. Államfői protokoll kiadásai jogcímcsoport terhére átcsoportosítást hajthat végre a II. Köztársasági Elnökség fejezet, 1. Köztársasági Elnöki Hivatal cím javára.
