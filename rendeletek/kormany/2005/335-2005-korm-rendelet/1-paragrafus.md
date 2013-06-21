@@ -8,7 +8,10 @@
 
 (2) E rendelet rendelkezéseit a minősített iratokra és azok kezelési rendjére külön jogszabályban foglalt eltérésekkel kell alkalmazni.
 
-(3)[^2]
+(3)[^2] E rendelet rendelkezéseit a szabályozott elektronikus ügyintézési szolgáltatások rendjére a külön kormányrendeletben foglalt eltérésekkel kell alkalmazni.
+
+(4)[^3] E rendelet rendelkezéseit a bírósági iratkezelésre a bírósági ügyviteli és iratkezelési szabályokról szóló szabályokban foglalt eltérésekkel kell alkalmazni.
 
 [^1]: Az 1. § (1) bekezdése a 239/2007. (IX. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (3) bekezdését a 168/2006. (VII. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 87/2012. (IV. 26.) Korm. rendelet 2. § (6) bekezdése.
+[^2]: Az 1. § (3) bekezdését újonnan a 196/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (4) bekezdését a 196/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.

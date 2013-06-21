@@ -1,25 +1,29 @@
-53. § (1)[^62] Jogszabály eltérő rendelkezése hiányában az irat akkor hiteles kiadmány, ha
+53. §[^81] (1) Jogszabály eltérő rendelkezése hiányában a papír alapú irat akkor hiteles kiadmány, ha
 
-a) azt az illetékes kiadmányozó saját kezűleg aláírja, és aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel,
+a) azt a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban meghatározott kiadmányozási joggal rendelkező személy saját kezűleg aláírja, és aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel, vagy
 
-b) a kiadmányozó neve mellett az „s. k.” jelzés szerepel, a hitelesítésre felhatalmazott személy azt aláírásával igazolja, továbbá a felhatalmazott személy aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel,
+b) a kiadmányozási joggal rendelkező személy neve mellett az „s. k.” jelzés szerepel, a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban meghatározott hitelesítésre felhatalmazott személy azt saját kezűleg aláírja, továbbá a felhatalmazott személy aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel.
 
-c) a közigazgatási hatóság a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással látta el,
-
-d) a bíró, az igazságügyi alkalmazott, a bírósági végrehajtó, a közjegyző a külön jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírással látta el, vagy
-
-e) a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben meghatározottak szerint elektronikus közokiratnak minősül és az elküldését igazoló visszaigazolás rendelkezésre áll.
-
-(2)[^63] Nyomdai sokszorosítás esetén elegendő
+(2) Nyomdai sokszorosítás esetén elegendő
 
 a) a kiadmányozó neve mellett az „s. k.” jelzés és a kiadmányozó szerv bélyegzőlenyomata, vagy
 
-b) a kiadmányozó alakhű aláírásmintája és a kiadmányozó szerv bélyegzőlenyomata.
+b) a kiadmányozó alakhű aláírás mintája és a kiadmányozó szerv bélyegzőlenyomata.
 
-(3)[^64] A közfeladatot ellátó szerv által készített hiteles kiadmányról a külön jogszabályban foglaltak szerint lehet hiteles másolatot készíteni.
+(3) Jogszabály eltérő rendelkezése hiányában az elektronikus irat akkor hiteles kiadmány, ha azt
 
-(4) A szervnél keletkezett iratokról az iratot őrző szervezeti egység vezetője, vagy ügyintézője hitelesítési záradékolással jogosult papír alapú és elektronikus másolatot is kiadni.
+a) a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban meghatározottak szerinti kiadmányozási joggal rendelkező személy vagy elektronikus rendszer az elektronikus ügyintézés részletes szabályairól szóló jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírással, az előírt esetekben időbélyeggel látta el vagy
 
-[^62]: Az 53. § (1) bekezdése a 64/2010. (III. 18.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^63]: Az 53. § (2) bekezdése a 64/2010. (III. 18.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^64]: Az 53. § (3) bekezdése a 64/2010. (III. 18.) Korm. rendelet 22. §-ával megállapított szöveg.
+b) az iratérvényességi nyilvántartásra vonatkozó szabályok szerint hitelesítették és nyilvántartják vagy
+
+c) a bíró, az ügyész, az igazságügyi alkalmazott, a bírósági végrehajtó, a közjegyző a külön jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírással látta el.
+
+(4) A közfeladatot ellátó szerv által készített hiteles kiadmányról a külön jogszabályban foglaltak szerint lehet hiteles másolatot készíteni.
+
+(5) A szervnél keletkezett iratokról az iratot őrző szervezeti egység vezetője vagy ügyintézője jogosult a külön jogszabályban meghatározottak szerint
+
+a) hiteles papír alapú, illetve
+
+b) hiteles elektronikus
+
+[^81]: Az 53. § a 196/2013. (VI. 13.) Korm. rendelet 29. §-ával megállapított szöveg.

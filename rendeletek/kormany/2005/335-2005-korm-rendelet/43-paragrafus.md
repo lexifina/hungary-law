@@ -1,11 +1,14 @@
-43. §[^54] (1) Az iktatókönyvet az év utolsó munkanapján, az utolsó irat iktatása után le kell zárni.
+43. §[^64] (1) Az iktatókönyvet az év utolsó munkanapján, az utolsó irat iktatása után le kell zárni.
 
 (2) Papír alapú iktatókönyv zárása esetén az iktatásra felhasznált utolsó számot követő aláhúzással kell a zárást elvégezni, majd azt a keltezést követően aláírással, továbbá a közfeladatot ellátó szerv hivatalos bélyegzőlenyomatával kell hitelesíteni. Ezt követően a lezárt iktatókönyvben nem lehet iktatást végezni.
 
-(3) Iratkezelési szoftver alkalmazása esetén valamennyi közfeladatot ellátó szervnek az iktatókönyv zárásának részeként el kell készítenie az elektronikus érkeztető nyilvántartásnak, elektronikus iktatókönyvnek, azok adatállományainak (címlista, tételszám, megőrzés, naplózás információi) és az elektronikus dokumentumoknak az év utolsó munkanapi iktatási állapotát tükröző, időbélyegzővel ellátott, elektronikus adathordozóra elmentett változatát. Az elektronikus dokumentumokat külön adathordozóra kell elmenteni.
+(3)[^65] Elektronikus iktatókönyv alkalmazása esetén az iktatókönyv zárásának részeként el kell készíteni az elektronikus érkeztető nyilvántartásnak, az elektronikus iktatókönyvnek, azok adatállományainak (címlista, tételszám, megőrzés, iratforgalom dokumentálásának információi) és az elektronikus dokumentumoknak az év utolsó munkanapi iktatási állapotát tükröző, az elektronikus ügyintézés részletes szabályairól szóló jogszabályban meghatározottak szerint archivált változatát.
 
-(4) A 41. § (6) bekezdésében meghatározott szerveknél az (1) és (3) bekezdés szerint végrehajtott zárás után a lezárt iktatókönyvben új irat új főszámra történő iktatása nem megengedett, az érkezett újabb iratot az ugyanazon ügy főszámának soron következő alszámára kell iktatni.
+(4)[^66] A (3) bekezdés szerint lezárt érkeztető nyilvántartást, iktatókönyvet, adatállományait és az elektronikus dokumentumokat – az (5) bekezdésben foglaltak kivételével – időbélyegzővel kell ellátni és archiválni, a biztonsági másolatot elektronikus adathordozón tűzbiztos helyen kell tárolni. Az elektronikus érkeztető nyilvántartás elektronikus adathordozóra elmentett példánya az archiválást követő második évet követően megsemmisíthető.
 
-(5) Az időbélyegzővel ellátott, lezárt érkeztető nyilvántartást, iktatókönyvet, adatállományait és az elektronikus dokumentumokat archiválni kell, és a biztonsági másolatot elektronikus adathordozón tűzbiztos helyen kell tárolni. Az elektronikus érkeztető nyilvántartás elektronikus adathordozóra elmentett példányát az archiválást követő második évben meg kell semmisíteni.
+(5)[^67] A (4) bekezdésben foglaltakat nem kell alkalmazni, ha a közfeladatot ellátó szerv a (3) bekezdés szerint lezárt érkeztető nyilvántartást, iktatókönyvet, adatállományait és elektronikus dokumentumokat olyan elektronikus dokumentumok kezelésére alkalmazott rendszerben kezeli, amely az elektronikus ügyintézés részletes szabályairól szóló jogszabályban meghatározott feltételeknek megfelelően biztosítja azok megváltoztathatatlanságát és megőrzését.
 
-[^54]: A 43. § a 64/2010. (III. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^64]: A 43. § a 64/2010. (III. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^65]: A 43. § (3) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^66]: A 43. § (4) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^67]: A 43. § (5) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 24. §-ával megállapított szöveg.

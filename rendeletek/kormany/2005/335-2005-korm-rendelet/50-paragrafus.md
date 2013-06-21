@@ -1,4 +1,4 @@
-50. §[^60] (1) Az irat iktatása előtt meg kell állapítani, hogy van-e előzménye.
+50. §[^78] (1) Az irat iktatása előtt meg kell állapítani, hogy van-e előzménye.
 
 (2) Amennyiben a küldeménynek a tárgyévben van előzménye, akkor azt az előzmény következő alszámára kell iktatni.
 
@@ -6,4 +6,4 @@
 
 (4) A 41. § (6) bekezdésében meghatározottak szerinti iktatást végző szerveknél a különböző években, de ugyanazon ügyben keletkezett, egy főszámon nyilvántartható ügyek esetében a küldeményt az előzmény következő alszámára kell iktatni.
 
-[^60]: Az 50. § a 64/2010. (III. 18.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^78]: Az 50. § a 64/2010. (III. 18.) Korm. rendelet 21. §-ával megállapított szöveg.
