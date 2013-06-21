@@ -18,7 +18,7 @@ b) Magyarországon nem rendelkezik állandó lakóhellyel.
 
 (4) A (2) bekezdés c) pontja szerinti összeférhetetlenségi ok fennállása kérdésében, amennyiben az kétséges, a politikai párt nyilatkozata az irányadó.
 
-(5) A tisztségviselő azonos agrárkamarai szervezeten belül egyidejűleg egy agrárkamarai tisztséget tölthet be. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet elnöke, alelnöke vagy főigazgatója.
+(5) A tisztségviselő azonos agrárkamarai szervezeten belül egyidejűleg egy agrárkamarai tisztséget tölthet be és egy szavazati jog illeti meg. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet főigazgatója.
 
 (6) Az elnökségnek, az etikai és a felügyelő bizottságnak a tagjai nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 

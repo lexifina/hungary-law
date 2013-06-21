@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-126-00-00
 | 2012-09-19 | 2012. évi CXXXII. törvény | 2012-126-00-00.3 |
 | 2012-12-28 | 2012. évi CCXIII. törvény | 2012-126-00-00.4 |
 | 2013-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-126-00-00.5 |
+| 2013-06-21 | 2013. évi XCV. törvény | 2012-126-00-00.6 |
