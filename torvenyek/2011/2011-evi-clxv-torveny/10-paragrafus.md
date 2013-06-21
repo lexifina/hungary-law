@@ -17,3 +17,5 @@ b) cselekvőképes és
 c) büntetlen előéletű
 
 személy lehet, aki nyilatkozatával önként vállalja a polgárőri szolgálat ellátását és magára nézve kötelezőnek ismeri el a (2) bekezdés szerinti szabályzatokat.
+
+(4) Erdőterületen történő lovas járőrszolgálatot csak az Országos Polgárőr Szövetség szervezésében lefolytatott oktatást eredményesen elvégző polgárőr láthat el.

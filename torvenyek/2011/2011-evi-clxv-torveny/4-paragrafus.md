@@ -8,6 +8,8 @@ b) az Országos Polgárőr Szövetség tagja.
 
 (3) A polgárőr egyesület működési területe annak a településnek, fővárosi kerületnek, valamint az azokkal közvetlenül határos település földrajzi területe, amelyet a polgárőr egyesület székhelyeként megjelölt. A polgárőr egyesület működési területe – az alapfeladata ellátásával összefüggésben, indokolt esetben – a fővárosi kerület, valamint az azzal közvetlenül határos kerület közigazgatási területén túl a főváros teljes közigazgatási területére is kiterjedhet.
 
+(3a) A polgárőr egyesület működési területe a lovas járőrszolgálat ellátása tekintetében – a (3) bekezdésben meghatározott területen túl – a polgárőrség székhelyeként megjelölt településsel, fővárosi kerülettel közvetlenül határos erdőterület lovas járőrszolgálat elől el nem zárt területére is kiterjed.
+
 (4) A polgárőr egyesület a 3. § (2) bekezdés j) pontjában meghatározott feladat ellátását akkor kezdheti meg, valamint végezheti, ha a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást köt.
 
 (5) A (4) bekezdés szerinti együttműködési megállapodással rendelkező polgárőr egyesület működési területe – a (3) bekezdésen túl – kiterjed a közforgalmú vasúti személyszállítási eszköz területére is.
