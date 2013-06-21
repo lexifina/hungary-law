@@ -1,10 +1,13 @@
-## Zöldterületek
+## 12. §[^28] A vízpart-rehabilitációs tanulmánytervekben, illetve azok felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervekben tervezett parkolók alapterülete a tényleges igények szerint a településrendezési eszközökben csökkenthető. A településrendezési eszközökben parkolók számára igénybe nem vett területek csak zöldfelületként alakíthatók ki.
 
-13. § (1)[^21] Zöldterületen a gépjárműforgalom számára tervezett út, más jogszabályban meghatározott, kötelezően kialakítandó parkoló, kerékpárút, gyalogút, vendéglátó-, sport-, szabadidő-létesítmény, illetve a terület gondozását szolgáló építmény a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a vízpart-rehabilitációs tanulmánytervekben, azt követően a partvonal-szabályozási és vízpart-rehabilitációs tervekben kijelölt helyen, a helyi építési szabályzatban és a szabályozási tervben meghatározott módon létesíthető.
+## Zöldterület[^29]
 
-(2) Az újonnan elhelyezhető épületek építménymagassága legfeljebb 4,5 m lehet.
+13. §[^30] (1) Zöldterületen kizárólag szálláshelyet nem tartalmazó vendéglátó-, sport- és szabadidő rendeletetés, valamint a terület fenntartását szolgáló építmény helyezhető el.
 
-(3)[^22] A zöldterület legalább 80%-án aktív zöldfelületet kell kialakítani.
+(2) Zöldterületen épület a vízpart-rehabilitációs tanulmánytervekben, illetve azok felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervekben kijelölt helyen helyezhető el.
 
-[^21]: A 13. § (1) bekezdése a 152/2007. (VI. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^22]: A 13. § (3) bekezdését a 152/2007. (VI. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+(3) Zöldterületen a megengedett legnagyobb beépítési magasság 4,5 m, a legkisebb zöldfelület 80%.
+
+[^28]: A 12. § a 201/2013. (VI. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^29]: A 13. §-t megelőző alcím a 201/2013. (VI. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^30]: A 13. § a 201/2013. (VI. 13.) Korm. rendelet 11. §-ával megállapított szöveg.

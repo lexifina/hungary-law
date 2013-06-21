@@ -1,35 +1,47 @@
 ## A vízpart-rehabilitációs szabályozási követelményekkel érintett területek területfelhasználása
 
-6. § (1)[^11] A vízpart-rehabilitációs szabályozási követelményekkel érintett területeken a településrendezési tervek a vízpart-rehabilitációs tanulmányterv első felülvizsgálatát megelőzően vízpart-rehabilitációs tanulmánytervvel, illetve azt követően partvonal-szabályozási és vízpart-rehabilitációs tervvel összhangban csak az alábbi területfelhasználási egységeket jelölhetik ki:
+6. § (1)[^16] A vízpart-rehabilitációs szabályozási követelményekkel érintett területen a településrendezési eszközökben a vízpart-rehabilitációs tanulmánytervvel, illetve annak felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervvel összhangban
 
-a) kertvárosias lakóterület,
+a) a beépítésre szánt területek közül kizárólag
 
-b) vegyes terület,
+aa) kertvárosias lakóterület,
 
-c) gazdasági terület,
+ab) vegyes terület,
 
-d) üdülőterület,
+ac) gazdasági terület,
 
-e) különleges terület,
+ad) üdülőterület és
 
-f) közlekedési terület,
+ae) különleges terület,
 
-g) zöldterület,
+b) a beépítésre nem szánt területek közül kizárólag
 
-h) védelmi, valamint egészségügyi, szociális és turisztikai rendeltetésű erdőterület,
+ba) közlekedési és közműelhelyezési terület,
 
-i) vízgazdálkodási terület,
+bb) zöldterület,
 
-j) mezőgazdasági terület.
+bc) erdőterület,
 
-(2)[^12] A vízpart-rehabilitációs tanulmányterv első felülvizsgálatát megelőzően vízpart-rehabilitációs tanulmányterv, illetve azt követően partvonal-szabályozási és vízpart-rehabilitációs terv az (1) bekezdésben meghatározott területfelhasználási egységeken túlmenően összevont és részlegesen összevont területfelhasználási kategóriát is kijelölhetnek.
+bd) vízgazdálkodási terület,
 
-(3)[^13] A vízpart-rehabilitációs tanulmányterv első felülvizsgálatát megelőzően vízpart-rehabilitációs tanulmányterv, illetve azt követően partvonal-szabályozási és vízpart-rehabilitációs terv által kijelölt
+be) mezőgazdasági terület,
 
-a) összevont területfelhasználási kategórián belül a településrendezési tervek a gazdasági terület kivételével az (1) bekezdésben felsorolt bármelyik területfelhasználási egységet kijelölhetik,
+bf) természetközeli terület vagy
 
-b) részlegesen összevont kategórián belül a településrendezési tervek a hétvégi házas üdülőterület, a kertvárosias lakóterület és a gazdasági terület kivételével az (1) bekezdésben felsorolt bármilyen területfelhasználási egységet kijelölhetik.
+bg) különleges beépítésre nem szánt terület
 
-[^11]: A 6. § (1) bekezdésének felvezető szövege a 152/2007. (VI. 26.) Korm. rendelet 12. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^12]: A 6. § (2) bekezdése a 152/2007. (VI. 26.) Korm. rendelet 12. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^13]: A 6. § (3) bekezdésének felvezető szövege a 152/2007. (VI. 26.) Korm. rendelet 12. § (2) bekezdésének a) pontja szerint módosított szöveg.
+## területfelhasználási egység, építési övezet, illetve övezet jelölhető ki.
+
+(2)[^17] A vízpart-rehabilitációs tanulmányterv, illetve annak felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs terv az (1) bekezdésben meghatározott területfelhasználási egységeken túlmenően összevont és részlegesen összevont területfelhasználási egységet is kijelölhetnek.
+
+(3)[^18] A vízpart-rehabilitációs tanulmányterv, illetve annak felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs terv által kijelölt
+
+a)[^19] összevont területfelhasználási egységen belül a településrendezési eszközök a gazdasági terület kivételével az (1) bekezdésben felsorolt bármelyik területfelhasználási egységet kijelölhetik,
+
+b)[^20] részlegesen összevont területfelhasználási egységen belül a településrendezési eszközök a hétvégi házas üdülőterület, a kertvárosias lakóterület és a gazdasági terület kivételével az (1) bekezdésben felsorolt bármilyen területfelhasználási egységet kijelölhetik.
+
+[^16]: A 6. § (1) bekezdése a 201/2013. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: A 6. § (2) bekezdése a 152/2007. (VI. 26.) Korm. rendelet 12. § (2) bekezdésének a) pontja, a 201/2013. (VI. 13.) Korm. rendelet 18. § a) és h) pontja valamint 19. § a) pontja szerint módosított szöveg.
+[^18]: A 6. § (3) bekezdés nyitó szövegrésze a 152/2007. (VI. 26.) Korm. rendelet 12. § (2) bekezdésének a) pontja, a 201/2013. (VI. 13.) Korm. rendelet 18. § a) pontja és 19. § a) pontja szerint módosított szöveg.
+[^19]: A 6. § (3) bekezdés a) pontja a 201/2013. (VI. 13.) Korm. rendelet 18. § i) és j) pontja szerint módosított szöveg.
+[^20]: A 6. § (3) bekezdés b) pontja a 201/2013. (VI. 13.) Korm. rendelet 18. § i) és k) pontja szerint módosított szöveg.

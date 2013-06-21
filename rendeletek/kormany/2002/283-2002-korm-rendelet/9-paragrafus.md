@@ -1,12 +1,15 @@
 ## Gazdasági terület
 
-9. § (1)[^16] Gazdasági területen csak a nem jelentős zavaró hatású gazdasági tevékenység végzésére szolgáló, a vízgazdálkodással, hal- és nádgazdálkodással, illetve hajóépítéssel összefüggő építmények helyezhetők el.
+9. §[^23] (1) Gazdasági területen csak a környezetre jelentős hatást nem gyakorló kereskedelmi, szolgáltató terület és egyéb ipari terület jelölhető ki.
 
-(2) Az építési telek legfeljebb 30%-ig építhető be.
+(2) Gazdasági területen csak a környezetre jelentős hatást nem gyakorló, a gazdasági tevékenység végzésére szolgáló, a vízgazdálkodással, hal- és nádgazdálkodással, valamint hajóépítéssel összefüggő rendeltetésű építmények helyezhetők el.
 
-(3) Az építési telek legalább 50%-án aktív zöldfelületet kell kialakítani.
+(3) Gazdasági területen
 
-(4)[^17] Az újonnan elhelyezhető épületek építménymagassága legfeljebb 8 m lehet.
+a) a megengedett legnagyobb beépítettség 30%,
 
-[^16]: A 9. § (1) bekezdése a 152/2007. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^17]: A 9. § (4) bekezdése a 152/2007. (VI. 26.) Korm. rendelet 12. § (2) bekezdésének d) pontja szerint módosított szöveg.
+b) a legkisebb zöldfelület 50% és
+
+c) a megengedett legnagyobb beépítési magasság 8 m.
+
+[^23]: A 9. § a 201/2013. (VI. 13.) Korm. rendelet 7. §-ával megállapított szöveg.

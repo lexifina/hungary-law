@@ -1,11 +1,13 @@
 ## Vegyes terület
 
-8. §[^15] (1) Vegyes területen az OTÉK 16–17. §-ában felsorolt építmények közül a parkolóház és az üzemanyagtöltő, gazdasági és termelő kertészeti építmény nem helyezhető el.
+8. §[^22] (1) Vegyes területen kizárólag az OTÉK 16–17. §-ában foglalt rendeltetések helyezhetők el, továbbá nem helyezhető el parkolóház, üzemanyagtöltő állomás, gazdasági és termelő kertészeti építmény.
 
-(2) Az építési telek legfeljebb 50%-ig építhető be.
+(2) Vegyes területen
 
-(3) Az építési telek legalább 30%-án aktív zöldfelületet kell kialakítani.
+a) a megengedett legnagyobb beépítettség 50%,
 
-(4) Az újonnan elhelyezhető épületek építménymagassága legfeljebb 12,5 m lehet.
+b) a legkisebb zöldfelület 30% és
 
-[^15]: A 8. § a 152/2007. (VI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+c) a megengedett legnagyobb beépítési magasság 12,5 m.
+
+[^22]: A 8. § a 201/2013. (VI. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

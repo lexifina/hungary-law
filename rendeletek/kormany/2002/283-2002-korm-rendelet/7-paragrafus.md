@@ -1,7 +1,7 @@
 ## Kertvárosias lakóterület
 
-7. § (1)[^14] A kertvárosias lakóterületen az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 13. §-ának (2) bekezdése szerinti építmények helyezhetők el.
+7. §[^21] (1) Kertvárosias lakóterületen kizárólag az OTÉK 13. § (2) bekezdése szerinti rendeltetések helyezhetők el.
 
-(2) Az épületek építménymagassága legfeljebb 4,5 m lehet.
+(2) Kertvárosias lakóterületen a megengedett legnagyobb beépítési magasság 4,5 m.
 
-[^14]: A 7. § (1) bekezdése a 152/2007. (VI. 26.) Korm. rendelet 12. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^21]: A 7. § a 201/2013. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.

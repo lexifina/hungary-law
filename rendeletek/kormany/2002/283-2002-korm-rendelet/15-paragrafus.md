@@ -1,3 +1,3 @@
-## 14/A. §[^26] A vízgazdálkodási területbe sorolt területek „vízgazdálkodási terület tómederben”, illetve „vízgazdálkodási terület tómedren kívül” területekbe sorolhatók be. Vízgazdálkodási területen a vízgazdálkodásról szóló 1995. évi LVII. törvényben meghatározottak alapján kell eljárni.
+## 14/A. §[^34] A vízgazdálkodási területbe sorolt területek „vízgazdálkodási terület tómederben” vagy „vízgazdálkodási terület tómedren kívül” területfelhasználási egységbe sorolhatók.
 
-[^26]: A 14/A. §-t a 152/2007. (VI. 26.) Korm. rendelet 9. §-a iktatta be.
+[^34]: A 14/A. §-t a 152/2007. (VI. 26.) Korm. rendelet 9. §-a iktatta be, szövege a 201/2013. (VI. 13.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -1,71 +1,46 @@
-## Különleges terület
+## Különleges terület és különleges beépítésre nem szánt terület[^25]
 
-11. §[^19] (1) Különleges területen
+11. §[^26] (1) Különleges területen és különleges beépítésre nem szánt területen
 
-a) kempingterületek,
+a) kemping-,
 
-b) szabadidőközpont területei,
+b) szabadidőközpont,
 
-c) strandterületek,
+c) strand-,
 
-d) sportterületek,
+d) sport-,
 
-e) oktatási és kutatási központ területei,
+e) oktatási központ,
 
-f) egészségügyi területek,
+f) kutatási-fejlesztési,
 
-g) vízi-közlekedési, sport- és turisztikai célú kikötő területek
+g) honvédelmi,
 
-## jelölhetők ki.
+h) egészségügyi és
 
-(2) A kempingek területén
+i) víziközlekedési, honvédelmi, sport- és turisztikai célú kikötő
 
-a) a telkek legalább 70%-án aktív zöldfelületet kell kialakítani,
+## rendeltetés helyezhető el.
 
-b) az újonnan elhelyezhető épületek építménymagassága legfeljebb 8 m lehet.
+(2) Beépítésre szánt különleges területen a megengedett legnagyobb beépítettség az (1) bekezdés b), d), e), f) és g) pontjában foglalt esetben 30%, az (1) bekezdés h) és i) pontjában foglalt esetben 10%.
 
-(3) A szabadidőközpontok területén
+(3) Beépítésre szánt különleges területen a legkisebb zöldfelület az (1) bekezdés
 
-a) csak közösségi szórakoztató, kulturális, vendéglátó épületek, sport és játék céljára szolgáló építmények helyezhetők el, szálláshely nem létesíthető,
+a) a) pontjában foglalt esetben 70%,
 
-b) a beépítettség mértéke legfeljebb 30% lehet,
+b) b), e), f) és g) pontjában foglalt esetben 50%,
 
-c) a telek legalább 50%-án aktív zöldfelületet kell kialakítani,
+c) h) és i) pontjában foglalt rendeltetés esetében 40%.
 
-d) az újonnan elhelyezhető épületek építménymagassága legfeljebb 8 m lehet.
+(4) Beépítésre szánt különleges területen a megengedett legnagyobb beépítési magasság 8 m, kialakult beépítés esetén az (1) bekezdés e), f) és g) pontjában foglalt rendeltetésű területen az elbontott épület beépítési magassága, de legfeljebb 12,5 m.
 
-(4) Strandterületen
+(5) Különleges beépítésre nem szánt területen a megengedett legnagyobb beépítési magasság 8 m, a legkisebb zöldfelület 70%.
 
-a) szálláshely nem létesíthető,
+(6) Szálláshelyet tartalmazó vendéglátó rendeltetés az (1) bekezdés b) és c) pontjában foglalt esetben nem helyezhető el, az (1) bekezdés d) pontjában foglalt esetben kizárólag a beépítésre szánt különleges területen, és csak a sportrendeltetés elsődleges rendeltetésként való megtartásával helyezhető el.
 
-b) újonnan elhelyezhető épületek építménymagassága legfeljebb 8 m lehet.
+(7) Az (1) bekezdés b) pontjában foglalt esetben csak közösségi szórakoztató, kulturális, vendéglátó rendeltetés, valamint sport és játék céljára szolgáló építmény helyezhető el.
 
-(5) Sportterületen
+(8) Az (1) bekezdés i) pontjában foglalt esetben a telek legfeljebb 50%-án alakítható ki vízfelület.
 
-a) szálláshely csak a sportcélú használat veszélyeztetése nélkül létesíthető,
-
-b) a beépítettség mértéke legfeljebb 30% lehet,
-
-c) az újonnan elhelyezhető épületek építménymagassága legfeljebb 8 m lehet.
-
-(6) Az oktatási és kutatási központ területén, valamint az egészségügyi területen
-
-a) a beépítettség mértéke legfeljebb 30% lehet,
-
-b) a telek legalább 50%-án aktív zöldfelületet kell kialakítani,
-
-c) az újonnan elhelyezhető épületek építménymagassága legfeljebb 8 m lehet,
-
-d) kialakult beépítés esetén, ha az épület bontásra kerül, az újonnan elhelyezhető épületek építménymagassága az elbontott épület építménymagassága, de legfeljebb 12,5 m lehet.
-
-(7) A vízi-közlekedési, sport- és turisztikai célú kikötők területén
-
-a) a beépítettség mértéke legfeljebb 10% lehet,
-
-b) a telek legalább 40%-án aktív zöldfelületet kell kialakítani,
-
-c) az újonnan elhelyezhető épületek építménymagassága legfeljebb 8 m lehet,
-
-d) a telek legfeljebb 50%-án alakítható ki vízfelület.
-
-[^19]: A 11. § a 152/2007. (VI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^25]: A 11. §-t megelőző alcím a 201/2013. (VI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^26]: A 11. § a 201/2013. (VI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

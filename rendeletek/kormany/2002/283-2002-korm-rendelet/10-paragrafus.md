@@ -1,13 +1,7 @@
 ## Üdülőterület
 
-10. §[^18] (1) Üdülőterületen az OTÉK 21–23. §-ában meghatározott építmények a 21. § (3) bekezdésében meghatározottak kivételével helyezhetők el.
+10. §[^24] (1) A hétvégi házas területen a megengedett legnagyobb beépítési magasság 4,5 m.
 
-(2) A hétvégi házas üdülőterületen az újonnan elhelyezhető épületek építménymagassága legfeljebb 4,5 m lehet.
+(2) Az üdülőházas területen a megengedett legnagyobb beépítési magasság 8 m, kialakult beépítés esetén legfeljebb az elbontott építmény beépítési magassága, de legfeljebb 12,5 m.
 
-(3) Az üdülőházas üdülőterületen az épületek építménymagassága
-
-a) újonnan elhelyezhető épületek esetében legfeljebb 8 m lehet,
-
-b) kialakult beépítés esetén, ha az épület bontásra kerül, az elbontott épület építménymagassága, de legfeljebb 12,5 m lehet.
-
-[^18]: A 10. § a 152/2007. (VI. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^24]: A 10. § a 201/2013. (VI. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
