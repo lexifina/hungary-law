@@ -135,3 +135,11 @@ a feloszlatott egyesületek egyes vagyoni viszonyainak rendezéséről szóló 2
 az állami ingatlanvagyon tulajdonjoga, kezelése, nyilvántartása és forgalma tárgyában kibocsátott 244/1950. (X. 1.) MT rendelet 4. §-ának a Ptk. 169. §-ával ellentétes rendelkezései;
 
 a trösztökről szóló 122/1951. (VI. 17.) MT rendelet 1. §-ának (3) bekezdése, 9. §-a;
+
+a biztosítási díj fizetésének szabályozásáról szóló 152/1951. (VIII. 11.) MT rendelet;
+
+a hitelrendszerről szóló 19/1952. (III. 13.) MT rendelet 6. §-ának (3) bekezdése;
+
+a törvényes zálogjog vagy visszatartási jog címén a szálloda birtokában levő ingóságok értékesítéséről szóló 70/1952. (VIII. 23.) MT rendelet 1. és 2. §-ának a visszatartási joggal kapcsolatos rendelkezése, 4–5. §-a;
+
+a polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) hatálybaléptetése folytán szükséges rendelkezések tárgyában kibocsátott 105/1952. (XII. 28.) MT rendelet 10. §-a;
