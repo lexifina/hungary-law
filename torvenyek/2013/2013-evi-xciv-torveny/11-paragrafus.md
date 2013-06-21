@@ -9,11 +9,3 @@ b) 92. § (4) bekezdésében a „lovaglásra, valamint” szövegrész, valamin
 c) 92. § (5) bekezdése.
 
 (3) Hatályát veszti a Ptv. 3. § (2) bekezdés h) pontjában a „valamint” szövegrész.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
