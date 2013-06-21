@@ -15,11 +15,3 @@ f) 335. §-ában az „a választás évében május 20-ig” szövegrész hely�
 g) 4. melléklet d) pontjában a „Kormány” szövegrész helyébe a „miniszter” szöveg,
 
 lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
