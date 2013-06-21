@@ -10,4 +10,6 @@
 
 (3) Ha e törvény kivételt nem tesz, az Országgyűlés tisztségeire, illetve országgyűlési bizottságaiba bármely képviselő megválasztható.
 
+(3a) A képviselő az eskü letételéig és az esküokmány aláírásáig – az alakuló ülés megtartásával szükségszerűen együtt járó feladatok elvégzésének kivételével – nem vehet részt az Országgyűlés munkájában.
+
 (4) A köztársasági elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő határozati javaslatot terjeszthet elő. Nemzetközi szerződés kihirdetéséről szóló törvényjavaslatot a Kormány terjeszthet elő. A törvényjavaslathoz és a határozati javaslathoz indokolást kell fűzni.

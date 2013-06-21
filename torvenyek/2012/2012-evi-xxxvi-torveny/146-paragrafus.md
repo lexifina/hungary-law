@@ -2,7 +2,7 @@
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A Harmadik rész, a 36. és 37. alcím, a 145. § (8) bekezdése, a 147. § (2)–(3) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 48. § (3), (6) és (7) bekezdése, a 49. § (4), (7) és (8) bekezdése, az 50. § (1), (2a) és (4) bekezdése, az 52. § (2), (3), (5) és (6) bekezdése, a Harmadik rész, a 36. és 37. alcím, a 145. § (8) bekezdése, a 147. § (2)–(3) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 

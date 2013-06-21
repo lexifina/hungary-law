@@ -16,6 +16,10 @@
 
 (7) A házelnök az Országgyűlési Őrségnek az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjével összefüggő tevékenysége részletes szabályait 2013. január 1-jéig határozza meg és teszi közzé az Országgyűlés honlapján.
 
-(8) Azon volt képviselőre, akinek megbízatása az e törvény hatálybalépésekor hivatalban lévő Országgyűlés megbízatásának megszűnésével szűnik meg, az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 9. §-át kell alkalmazni.
+(8) Azon képviselőre, akinek megbízatása az e törvény hatálybalépésekor hivatalban lévő Országgyűlés megbízatásának megszűnésével szűnik meg, az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 9. és 10/H. §-át kell alkalmazni.
+
+(8a) A 40. alcímben foglalt rendelkezéseket az Országgyűlésnek a 40. alcím hatálybalépését megelőzően hivatalban volt elnökére is alkalmazni kell azzal, hogy az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 10/I. § (2) bekezdésében foglalt juttatás tekintetében még fennálló jogosultság a 40. alcím hatálybelépésének az időpontjában megszűnik.
+
+(8b) Az Országgyűlésnek a 40. alcím hatálybalépését megelőzően hivatalban volt elnöke a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 24. § (1) bekezdése és 22. § (1) bekezdése szerinti juttatásra akkor jogosult, ha az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
 (9) A 124. § (1) bekezdésében és a 127. § (2) bekezdésében foglalt feladatokat 2012. december 31-ig az Országgyűlés Hivatalának gazdasági főigazgatója látja el.

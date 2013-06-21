@@ -2,7 +2,7 @@
 
 (2) A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során a mentelmi jog felfüggesztésével és a mentelmi jog megsértésével összefüggő, a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság által kért adatokat a képviselő és minden állami szerv köteles haladéktalanul a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság rendelkezésére bocsátani. A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során átvett, illetve rendelkezésre bocsátott adatokat a mentelmi jog felfüggesztésére irányuló eljárás és a mentelmi jog megsértése miatti vizsgálat lezárulását követő harmincadik napon törölni kell.
 
-(3) A mentelmi jog felfüggesztésére irányuló ügyben az érintett képviselő a határozathozatal előtt felszólalhat és ismertetheti álláspontját. A mentelmi jog felfüggesztésére irányuló döntéshez a jelen lévő képviselők kétharmadának a szavazata szükséges.
+(3) A mentelmi jog felfüggesztésére irányuló ügyben a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság előadója, valamint az érintett képviselő a határozathozatal előtt öt-öt perces időkeretben felszólalhat és ismertetheti álláspontját. A mentelmi jog felfüggesztésére irányuló döntéshez a jelen lévő képviselők kétharmadának a szavazata szükséges.
 
 (4) A mentelmi jog felfüggesztése tárgyában hozott döntés csak arra az ügyre vonatkozik, amelyre az indítványt előterjesztették.
 
