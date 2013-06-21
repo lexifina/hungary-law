@@ -1,0 +1,3 @@
+57. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 59. § b) pontja 2019. május 1-jén lép hatályba.

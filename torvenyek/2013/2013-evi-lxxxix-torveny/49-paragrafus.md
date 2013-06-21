@@ -1,0 +1,7 @@
+49. § A Ve. 350. §-a helyébe a következő rendelkezés lép:
+
+„350. § (1) A helyi önkormányzati képviselők és polgármesterek 2014. évi általános választásán és az azt követő időközi választásokon a nemzetiségi jelöltnek arról is nyilatkoznia kell, hogy a helyi önkormányzati képviselők és polgármesterek, továbbá a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt más nemzetiség nemzetiségi jelöltje. A helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását megelőzően a 307/G. § (4) bekezdését nem kell alkalmazni.
+
+(2) A nemzetiségi önkormányzati képviselők 2014. évi általános választásán és az azt követő időközi választásokon a jelöltnek arról is nyilatkoznia kell, hogy a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt más nemzetiség jelöltje. A nemzetiségi önkormányzati képviselők 2019. évi általános választását megelőzően a 318. § (4) bekezdését nem kell alkalmazni.
+
+(3) A helyi önkormányzati képviselők és polgármesterek, illetve a nemzetiségi önkormányzati képviselők 2019. évi általános választásán és az azt követő időközi választásokon a 307/G. § (4) bekezdésének, illetve a 318. § (4) bekezdésének alkalmazása során a helyi önkormányzati képviselők és polgármesterek és a nemzetiségi önkormányzati képviselők 2014. évi általános választását megelőző választásokat nem kell vizsgálni.”
