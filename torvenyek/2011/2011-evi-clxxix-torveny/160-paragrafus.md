@@ -1,4 +1,4 @@
-160. § (1) Az állam a magyarországi nemzetiségek anyanyelvét közösség-összetartó tényezőként ismeri el. Az állam tekintet nélkül arra, hogy a nevelési, oktatási intézménynek ki a fenntartója, támogatja a nemzetiségek által használt nyelv alkalmazását a nemzetiségi nevelésben, oktatásban.
+160. § (1)
 
 (2)–(3)
 

@@ -1,7 +1,11 @@
-54. § A választáson a nemzetiségi névjegyzékbe vett választópolgár választható, ha a helyi önkormányzati képviselők és polgármesterek választásán választható, továbbá nyilatkozatot tesz arról, hogy
+54. § A választáson a nemzetiségi névjegyzékbe vett választópolgár választható, ha
 
-a) a nemzetiség képviseletét vállalja,
+a) a helyi önkormányzati képviselők és polgármesterek választásán választható,
 
-b) a választást megelőző tíz évben általános vagy időközi nemzetiségi önkormányzati választás során nem volt más nemzetiség önkormányzatának jelöltje, és
+b) a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt más nemzetiség nemzetiségi jelöltje, továbbá
 
-c) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
+c) nyilatkozatot tesz arról, hogy
+
+ca) a nemzetiség képviseletét vállalja,
+
+cb) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
