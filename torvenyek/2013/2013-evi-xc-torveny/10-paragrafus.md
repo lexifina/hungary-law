@@ -1,0 +1,1 @@
+10. § Az Ogytv. 146. § (2) bekezdésében az „A Harmadik rész,” szövegrész helyébe az „A 4. § (6) bekezdése, a 48. § (3), (6) és (7) bekezdése, a 49. § (4), (7) és (8) bekezdése, az 50. § (1), (2a) és (4) bekezdése, az 52. § (2), (3), (5) és (6) bekezdése, a Harmadik rész,” szöveg lép.
