@@ -1,4 +1,4 @@
-95. § (1) Az erdőgazdálkodó a turista-, lovagló- vagy a járműközlekedésre kijelölt utat érintő korlátozást köteles minden alkalommal az erdészeti hatóságnak előzetesen bejelenteni.
+95. § (1) Az erdőgazdálkodó a megjelölt turistautat, a bejelentett lovaglóutat vagy a járműközlekedésre kijelölt utat érintő korlátozást köteles minden alkalommal az erdészeti hatóságnak előzetesen bejelenteni.
 
 (2) Az erdőgazdálkodó mentesül az (1) bekezdés szerinti kötelezettség alól, ha a korlátozás azonnali elrendelésére az életet vagy testi épséget közvetlenül veszélyeztető állapot megszüntetésének érdekében kerül sor. Ha a korlátozás időtartama a 24 órát meghaladja, azt az erdészeti hatóságnak haladéktalanul be kell jelenteni.
 
