@@ -7,11 +7,3 @@ a) a Hpt. 1. § (1) bekezdés e) pontja, XIV/A. Fejezete, 235. § (2) bekezdés 
 b) a Tpt. 1. § l) pontja, 5. § (1) bekezdés 8., 17., 24., 40. és 102. pontja, XIX/B. Fejezete és 451. § (2) bekezdés o) pontja,
 
 c) a Bit. 3. § (1) bekezdés 75–79. és 82. pontja, III/A. Fejezete és 235. § r) pontja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
