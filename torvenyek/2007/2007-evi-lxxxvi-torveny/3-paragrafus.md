@@ -32,7 +32,7 @@
 
 13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
 
-13a. Eredetigazolás: olyan dokumentum, amely igazolja a megújuló energiaforrásból előállított vagy a nagyhatékonyságú, hasznos hőigényen alapuló, kapcsoltan termelt villamos energia mennyiségét;
+13a. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja a felhasználó felé, hogy az adott termelő egység által előállított villamos energia meghatározott mennyisége megújuló energiaforrásból vagy nagy hatékonyságú kapcsolt energiatermelésből származik;
 
 14. Erőmű: egy telephelyen lévő olyan energia-átalakító létesítmény, amely elsődleges energiaforrás felhasználásával villamos energiát termel, engedélyezési szempontból ideértve az energia tározós erőművet is;
 
@@ -117,6 +117,8 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás (nap, szél, geotermikus energia, hullám-, árapály- vagy vízenergia, biomassza, biomasszából közvetve vagy közvetlenül előállított energiaforrás, továbbá hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gáz, valamint a biogáz);
 
 45a. Menetrend: egy adott naptári napra a kereskedelmi szabályzatban meghatározott elszámolási mérési időegységekre vonatkozó villamos-átlagteljesítmények adatsora;
+
+45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az eladási ár emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
 
 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
 

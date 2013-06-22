@@ -12,4 +12,4 @@ e) kapcsolatot tart harmadik felekkel, a Hivatallal és az Európai Unió más t
 
 f) közreműködik a regionális piacok kialakításában, és jogosult az egységes villamosenergia-piac kialakításának megkönnyítése érdekében közös vállalkozás létrehozására.
 
-(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a Hivatalt tájékoztatja.
+(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.

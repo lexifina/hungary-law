@@ -1,3 +1,1 @@
-6/A. § (1) A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából eredetigazolást állít ki, és gondoskodik az eredetigazolások elektronikus nyilvántartásáról.
-
-(2) Amennyiben az eredetigazolás kiállítására a kötelező átvételi rendszerben való részvételi jogosultság ellenőrzése céljából kerül sor, úgy a 12. § (1) bekezdésében foglaltakat kell alkalmazni.
+6/A. § A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák elektronikus nyilvántartásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
