@@ -1,0 +1,9 @@
+15. § (1) Ha a pénzügyi konglomerátum élén álló vállalkozás székhelye harmadik országban található, akkor a koordinátor a 10. § (2)–(4) bekezdésében meghatározottak alapján kerül kijelölésre az illetékes hatóságok közül.
+
+(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2002. december 16-ai 2002/87/EK európai parlamenti és tanácsi irányelvben (a továbbiakban: az Európai Parlament és a Tanács 2002/87/EK irányelv) foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet a vegyes bizottság által kiadott iránymutatásokat is figyelembe véve.
+
+(3) Ha a harmadik ország jogrendje megfelel az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor a pénzügyi konglomerátum kiegészítő felügyeletét nem a Felügyelet látja el.
+
+(4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor a Felügyelet, mint koordinátor látja el a kiegészítő felügyeleti feladatokat és köteles ennek érdekében minden lehetséges intézkedést megtenni.
+
+(5) A (4) bekezdésben meghatározott esetben a Felügyelet az érintett felügyeleti hatóságokkal konzultálva dönthet úgy, hogy előírja egy, az EGT-államban székhellyel rendelkező vegyes pénzügyi holding társaság felállítását, és a kiegészítő felügyeletet ezen holdingtársaság vezetésével működő pénzügyi konglomerátumhoz tartozó szabályozott vállalkozások tekintetében értelmezi. Ezen döntésről a Felügyelet tájékoztatja az érintett felügyeleti hatóságokat és az Európai Bizottságot.
