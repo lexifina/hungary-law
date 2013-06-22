@@ -1,1 +1,0 @@
-20. § A Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 37. § (6) bekezdésében a „Kincstár adósságrendezési eljárás megindítását kezdeményezi. Az eljárásban a Kincstár az Állam képviseletében teljes jogkörrel jár el.” szövegrész helyébe a „befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.” szöveg lép.
