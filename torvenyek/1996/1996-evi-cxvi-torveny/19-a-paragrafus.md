@@ -4,4 +4,4 @@
 
 (2) Szakértőként kizárólag független és pártatlan személy járhat el, akit a követelményeknek való megfelelésről szóló döntés, a vélemény és a megállapítás közlésekor annak tartalmához személyes érdek nem fűz, kizárólag szakmai szempontjai vezetik, és munkájáért járó díja szakvéleménye tartalmától nem függ.
 
-(3) Az energiapolitikáért felelős miniszter az általa kiadott rendeletben határozza meg, hogy a szakértői tevékenységgel kapcsolatos mely eljárásokért és milyen összegű igazgatási szolgáltatási díjat kell fizetni.
+(3) A szakértői tevékenység engedélyezése, új szakterülettel való bővítésének engedélyezése iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.

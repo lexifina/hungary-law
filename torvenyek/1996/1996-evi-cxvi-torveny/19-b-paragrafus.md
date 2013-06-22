@@ -26,6 +26,8 @@ h) a szakértői tevékenység szünetelésének tényét, kezdő napját és id
 
 i) a nyilvántartási számot.
 
+(3a) A nyilvántartás a (3) bekezdés d)–i) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános a szakértő szakmai gyakorlatának rövid leírása és ideje, a szakterület, a szakértő engedélye kiállításának napja, a szakértői tevékenységtől való eltiltás ténye, az alapjául szolgáló határozat jogerőre emelkedésének napja, a szakértői tevékenység szünetelésének ténye, kezdő napja, időtartama, valamint a nyilvántartási szám. A Szolgtv. 30. § (2) bekezdésében nem szabályozott adatok vonatkozásában a nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolására szolgáltatható adat.
 
 (5) A szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, és nem áll a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kamara részére – annak az atomenergia alkalmazási körébe tartozó szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
