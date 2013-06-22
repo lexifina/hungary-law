@@ -1,3 +1,0 @@
-## 6. § A Rendelet 9. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) A szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló 22/2009. (X. 16.) PM rendelet módosításáról szóló 20/2013. (VI. 18.) NGM rendelettel módosított 1. § (3) bekezdésének, 1. § (6)–(8) bekezdésének, 6. § (1), (4), (7) bekezdésének, 7. § (1) bekezdésének és 8. § d) pontjának rendelkezéseit a 2012. adóévi adókötelezettséghez kapcsolódó nyilvántartás elkészítése során az adózó választása szerint alkalmazza, feltéve, hogy a nyilvántartás elkészítésének határideje nem korábbi, mint 2013. január 1-je.”
