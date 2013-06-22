@@ -1,0 +1,3 @@
+## 3. § A befektetési vállalkozás kockázatvállalására és kockázatkezelésére vonatkozó információk nyilvánosságra hozataláról szóló 164/2008. (VI. 27.) Korm. rendelet (a továbbiakban: Bnykr.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holdingtársaság anyavállalat és az EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó befektetési vállalkozás leányvállalata a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 181/A. § (2) bekezdésében meghatározott vállalkozás vonatkozásában összevont alapon nyilvánosságra hozza a 8., 9. és 13. §-ban foglaltakat.”
