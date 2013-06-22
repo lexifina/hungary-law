@@ -16,4 +16,6 @@
 
 7. védett információ: olyan információ, amelynek a nyilvánosságra hozatala a befektetési vállalkozás versenypozícióját veszélyeztetheti, így különösen a termékekkel vagy rendszerekkel kapcsolatos olyan információk, amelyeknek a versenytársak tudomására jutása csökkentheti a befektetési vállalkozás befektetéseinek értékét.
 
-(3) Az EU-szintű befektetési vállalkozás anyavállalat és az EU-szintű pénzügyi holdingtársaság anyavállalat összevont alapú felügyelet alá tartozó befektetési vállalkozás leányvállalata a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 181/A. §-ának (2) bekezdése szerinti vállalkozás vonatkozásában összevont alapon nyilvánosságra hozza a 8., 9. és 13. §-ban foglaltakat.
+(3)[^1] Az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holdingtársaság anyavállalat és az EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó befektetési vállalkozás leányvállalata a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 181/A. § (2) bekezdésében meghatározott vállalkozás vonatkozásában összevont alapon nyilvánosságra hozza a 8., 9. és 13. §-ban foglaltakat.
+
+[^1]: Az 1. § (3) bekezdése a 202/2013. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.

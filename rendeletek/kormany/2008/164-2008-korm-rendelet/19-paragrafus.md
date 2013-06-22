@@ -1,4 +1,4 @@
-19. §[^5] (1) A befektetési vállalkozás az értékpapírosítással összefüggésben nyilvánosságra hozza
+19. §[^6] (1) A befektetési vállalkozás az értékpapírosítással összefüggésben nyilvánosságra hozza
 
 a) az értékpapírosítási ügyleteinek értékelésére és kezelésére szolgáló szabályzatok fő elveit;
 
@@ -62,4 +62,4 @@ a) a mérlegben feltüntetett és a mérlegen kívüli kitettségek vonatkozás�
 
 b) a befektetési vállalkozás által irányított vagy az olyan vállalkozás megnevezését, amely számára a befektetési vállalkozás tanácsadást nyújt, ha a vállalkozás a befektetési vállalkozás által értékpapírosított értékpapírosítási pozíciókba vagy a befektetési vállalkozás által szponzorált KCGE-be fektet be.
 
-[^5]: A 19. § a 397/2012. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^6]: A 19. § a 397/2012. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.

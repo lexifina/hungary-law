@@ -1,4 +1,4 @@
-15. §[^4] (1) A befektetési vállalkozás külön-külön nyilvánosságra hozza a kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások pozíciókockázattal, elszámolási és partnerkockázattal, nagykockázat-vállalással kapcsolatos tőkekövetelményt, a tevékenység egészében meglévő devizaárfolyam-kockázattal és árukockázattal kapcsolatos tőkekövetelményt, továbbá az értékpapírosítási pozíciók egyedi kamatlábkockázataira vonatkozó tőkekövetelményt.
+15. §[^5] (1) A befektetési vállalkozás külön-külön nyilvánosságra hozza a kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások pozíciókockázattal, elszámolási és partnerkockázattal, nagykockázat-vállalással kapcsolatos tőkekövetelményt, a tevékenység egészében meglévő devizaárfolyam-kockázattal és árukockázattal kapcsolatos tőkekövetelményt, továbbá az értékpapírosítási pozíciók egyedi kamatlábkockázataira vonatkozó tőkekövetelményt.
 
 (2) Ha a befektetési vállalkozás a kereskedési könyvben nyilvántartott pozíciókockázat, valamint a tevékenység egészében meglévő devizaárfolyam kockázat és árukockázat tőkekövetelményét belső modell alapján számítja ki, nyilvánosságra hozza
 
@@ -28,4 +28,4 @@ e) a Kkr. 43. § (9a) bekezdésének és 14. számú melléklet 10. pontjának m
 
 f) a nap végi kockáztatott érték módszer szerint mért érték összehasonlítását a portfólió értékének a következő munkanap végéig bekövetkezett egynapi változásával a tárgyidőszakban feljegyzett fontos túllépések elemzésével együtt.
 
-[^4]: A 15. § a 397/2012. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^5]: A 15. § a 397/2012. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
