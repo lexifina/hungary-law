@@ -6,7 +6,7 @@
 
 3. a helyi népszavazás elrendelése, kitüntetések és elismerő címek alapítása;
 
-4. a gazdasági program, a hitelfelvétel, a kötvénykibocsátás, a kölcsönfelvétel vagy más adósságot keletkeztető kötelezettségvállalás, államháztartáson kívüli forrás átvétele, átadása;
+4. a gazdasági program, a hitelfelvétel, a kötvénykibocsátás, a kölcsönfelvétel vagy más adósságot keletkeztető kötelezettségvállalás, alapítványi forrás átvétele és átadása;
 
 5. önkormányzati társulás létrehozása, megszüntetése, abból történő kiválás, a társulási megállapodás módosítása, társuláshoz, érdekképviseleti szervezethez való csatlakozás, abból történő kiválás;
 

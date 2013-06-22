@@ -15,3 +15,5 @@
 (7) A helyi önkormányzat képviselő-testülete – amennyiben törvény kivételt nem tesz – kinevezi az intézmény vezetőjét.
 
 (8) Törvény előírhatja, hogy meghatározott közszolgáltatást kizárólag erre a célra alapított költségvetési szerv, olyan állami vagy legalább többségi önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, amelyben az állam vagy az önkormányzat legalább többségi befolyással bír vagy e gazdasági társaság legalább többségi tulajdonában álló és legalább többségi befolyása alatt álló jogi személyiséggel rendelkező gazdasági társaság vagy önkormányzati társulás láthat el.
+
+(9) A helyi önkormányzat képviselő-testülete az államháztartáson kívüli forrás átvételére és átadására vonatkozó rendelkezéseket rendeletben szabályozza.
