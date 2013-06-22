@@ -14,6 +14,8 @@ f) a 2009/28/EK irányelv 5. cikk (1) bekezdés 3. albekezdésének,
 
 g) a 2009/28/EK irányelv 21. cikk (2) bekezdésének,
 
-h) 2003/30/EK irányelv 4. cikk (1) bekezdésének
+h) 2003/30/EK irányelv 4. cikk (1) bekezdésének,
+
+i) a 2009/28/EK irányelv 14. cikk (1) bekezdésének
 
 való megfelelést szolgálja.

@@ -1,1 +1,1 @@
-14/A. § A 13. § (1) bekezdésben meghatározott rendeletek hatálybalépéséig az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény és a Jöt. 2010. december 4. napján hatályos rendelkezéseit kell alkalmazni.
+14/A. § Az 5. § (3) bekezdésében foglaltaktól eltérően a Kormány a 2016. évben kötelezően bekeverendő bioüzemanyag-részarány mértékét a 2014. évben határozza meg.

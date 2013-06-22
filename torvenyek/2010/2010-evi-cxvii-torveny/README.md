@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-117-00-00
 | 2012-04-14 | 2012. évi XVIII. törvény | 2010-117-00-00.6 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2010-117-00-00.7 |
 | 2013-04-04 | 2013. évi XXII. törvény | 2010-117-00-00.8 |
+| 2013-06-22 | 2013. évi CI. törvény | 2010-117-00-00.9 |
