@@ -1,3 +1,1 @@
-1. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 26. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Közérdekből nyilvános adat a közfeladatot ellátó szerv feladat- és hatáskörében eljáró személy neve, feladatköre, munkaköre, vezetői megbízása, a közfeladat ellátásával összefüggő egyéb személyes adata, valamint azok a személyes adatai, amelyek megismerhetőségét törvény előírja. A közérdekből nyilvános személyes adatok a célhoz kötött adatkezelés elvének tiszteletben tartásával terjeszthetőek. A közérdekből nyilvános személyes adatok honlapon történő közzétételére az 1. melléklet és a közfeladatot ellátó személy jogállására vonatkozó külön törvény rendelkezései irányadóak.”
+1. §
