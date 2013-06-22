@@ -56,6 +56,8 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | e) a turistavasút, a sífelvonó és a saját célú vasúti pályahálózaton végzett vasúti tevékenység bejelentése | 20 000 |
 
+| f) adatmódosítási kérelem benyújtása | 23 000 |
+
 | 2. Jogvitás eljárások a nyílt hozzáférésre jogosult szervezet vagy az integrált vasúti társaság kérelmére |
 
 | a) a Hálózati Üzletszabályzatban megállapított valamely kötelezettségnek a pályavasúti társaság, a Vasúti Pályakapacitás-elosztó Szervezet vagy az integrált vasúti társaság általi megsértése miatt indított eljárás | 227 000 |
@@ -89,4 +91,4 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 | 7. Gazdasági egyensúly veszélyeztetettségének vizsgálata | 358 000 |
 
 [^3]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 11–12. §-a szerint módosított szöveg.
