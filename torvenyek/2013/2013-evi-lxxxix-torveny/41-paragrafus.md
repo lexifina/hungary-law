@@ -1,9 +1,0 @@
-41. § A Ve. 334. §-a helyébe a következő rendelkezés lép:
-
-„334. § (1) Az Európai Unió más tagállamának állampolgára legkésőbb a szavazást megelőző tizenhatodik napon kérheti, hogy központi névjegyzékbe vétele az Európai Parlament tagjainak választására is kiterjedjen. A kérelemnek a 92. § (1) bekezdés a) pontjában foglalt adatokon túl tartalmaznia kell
-
-a) a választópolgár nyilatkozatát, hogy szavazati jogát csak Magyarországon gyakorolja,
-
-b) ha alkalmazható, akkor annak a településnek vagy választókerületnek a megjelölését, amelynek névjegyzékébe az állampolgársága szerinti tagállamban legutóbb felvették.
-
-(2) Az Európai Unió más tagállamának az Európai Parlament tagjainak választására is kiterjedő hatállyal központi névjegyzékben szereplő állampolgára legkésőbb a szavazást megelőző tizedik napon kérheti, hogy központi névjegyzékbe vétele az Európai Parlament tagjainak választására ne terjedjen ki.”
