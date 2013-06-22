@@ -1,3 +1,5 @@
-## 11. §[^4]
+## 11. § A vasúti igazgatási szerv által végzett vasúti hatósági eljárások igazgatási szolgáltatási díjairól szóló 9/2008. (VI. 30.) KHEM rendelet (a továbbiakban: R3.) melléklet 1. pontja a következő f) alponttal egészül ki:
 
-[^4]: A 11. § a 13. § (2) bekezdése alapján 2013. június 22-én lép hatályba.
+## (Működési engedéllyel kapcsolatos eljárások)
+
+## „f) adatmódosítási kérelem benyújtása 23 000”
