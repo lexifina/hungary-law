@@ -6,7 +6,7 @@ b) a megújuló energiaforrásból előállított energia támogatásáról, val
 
 c) a 2003/87/EK irányelvnek az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének továbbfejlesztése és kiterjesztése tekintetében történő módosításáról szóló, 2009. április 23-i 2009/29/EK európai parlamenti és tanácsi irányelvnek,
 
-d) a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelvnek, valamint
+d)
 
 e) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikk (10) bekezdésének
 
@@ -19,11 +19,3 @@ a) a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c.
 b) a Magyarország által a 2003/87/EK parlamenti és tanácsi irányelv 10.c cikkének (5) bekezdése alapján benyújtott, a villamosenergia-termelés korszerűsítése céljából átmenetileg ingyenes kibocsátási egységek kiosztására vonatkozó kérelemről szóló, 2012. november 30-i C(2012) 8675 számú bizottsági határozat
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
