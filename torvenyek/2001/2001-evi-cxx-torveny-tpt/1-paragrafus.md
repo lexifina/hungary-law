@@ -26,7 +26,7 @@ j) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
 
 k) befektetési vállalkozásnak nem minősülő, az összevont alapú felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg pénzügyi holdingtársasággal szoros kapcsolatban álló vállalkozásra, vegyes tevékenységű holdingtársaságra,
 
-l) befektetési vállalkozásnak nem minősülő, a kiegészítő felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg vegyes pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes pénzügyi holding társaságra,
+l)
 
 m) a Magyarország területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
 
