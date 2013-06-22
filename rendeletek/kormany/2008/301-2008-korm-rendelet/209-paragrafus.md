@@ -2,7 +2,7 @@
 
 ## Elismerhető nettósítási megállapodások
 
-209. §[^41] (1) A szerződéses nettósítás tekintetében
+209. §[^43] (1) A szerződéses nettósítás tekintetében
 
 a) az ügyfél olyan természetes vagy gazdálkodó szervezet, amely jogosult szerződéses nettósítási megállapodást kötni, és
 
@@ -24,4 +24,4 @@ b) egyéb Felügyelet vagy jogszabály által elismert nettósítási megállapo
 
 c) olyan, befektetési vállalkozások termékkategóriák közötti szerződéses nettósítási megállapodásai, amelyek a belső modell módszert alkalmazzák azzal, hogy a Tpt. 181/A. § (2) bekezdése szerinti vállalkozások által kötött az ügyletek közötti nettósítás e rendelet tekintetében nem vehető figyelembe.
 
-[^41]: A 209. § a 348/2011. (XII. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^43]: A 209. § a 348/2011. (XII. 30.) Korm. rendelet 33. §-ával megállapított szöveg.

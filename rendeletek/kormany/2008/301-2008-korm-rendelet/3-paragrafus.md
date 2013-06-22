@@ -64,7 +64,7 @@ p) egyéb tétel.
 
 (5) A Felügyelet akkor engedélyezi 0%-os kockázati súly hozzárendelését a befektetési vállalkozás anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez, ha
 
-a) hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás,
+a)[^6] hitelintézet, befektetési vállalkozás, pénzügyi holding társaság, vegyes pénzügyi holding társaság, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás,
 
 b) a befektetési vállalkozással azonos összevont alapú felügyeleti számításokban teljeskörűen kerül figyelembevételre,
 
@@ -85,3 +85,5 @@ c) jegyzett tőke emelése,
 d) jogszabály alapján a tőke- vagy az eredménytartalék terhére történő végleges pénz- vagy eszközátadás,
 
 e) alapvető vagy járulékos kölcsöntőke nyújtása.
+
+[^6]: A 3. § (5) bekezdés a) pontja a 202/2013. (VI. 14.) Korm. rendelet 7. §-ával megállapított szöveg.

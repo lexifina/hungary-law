@@ -6,6 +6,6 @@
 
 (4) Lakossággal szembeni kitettségek esetén a nemteljesítéskori veszteségráta becsléseknek legalább öt éves adatokon kell alapulniuk azzal, hogy – a 94. § (1) bekezdésétől eltérően – a befektetési vállalkozásnak nem kell a múltbeli adatokat figyelembe vennie, ha a frissebb adatok a veszteségi rátának jobb előrejelzői.
 
-(5)[^22]
+(5)[^24]
 
-[^22]: A 96. § (5) bekezdését a 246. § (3) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. december 31-ig kérelmezett engedélyezési eljárás során a befektetési vállalkozás kérelmére alkalmazni lehet.
+[^24]: A 96. § (5) bekezdését a 246. § (3) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. december 31-ig kérelmezett engedélyezési eljárás során a befektetési vállalkozás kérelmére alkalmazni lehet.

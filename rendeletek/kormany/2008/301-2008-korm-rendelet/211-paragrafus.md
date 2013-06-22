@@ -1,6 +1,6 @@
 ## Az elismerés hatásai
 
-211. §[^45] (1) A partnerkockázati kitettség mérése sztenderd módszerénél a nettósítás hatását a 187–194. §-ban leírtak szerint, a belső modell módszer alkalmazásakor a 195–208. §-ban leírtak szerint kell számítani.
+211. §[^47] (1) A partnerkockázati kitettség mérése sztenderd módszerénél a nettósítás hatását a 187–194. §-ban leírtak szerint, a belső modell módszer alkalmazásakor a 195–208. §-ban leírtak szerint kell számítani.
 
 (2) Az adósságmegújítási szerződések (novációs szerződések) által rögzített egyedi nettó összegek súlyozhatóak azzal, hogy
 
@@ -26,4 +26,4 @@ bb) a nettósítási megállapodás alá tartozó minden más szerződés eseté
 
 (5) A (3) és (4) bekezdés alkalmazásában tökéletesen illeszkedő szerződések olyan tőzsdén kívüli deviza határidős ügyletek (forward) és hasonló szerződések, amelyeknél a pénzáramlások egyenlőek, a pénzáramlások ugyanarra az értéknapra vonatkoznak és részben vagy egészben ugyanabban a pénznemben válnak esedékessé.
 
-[^45]: A 211. § a 348/2011. (XII. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^47]: A 211. § a 348/2011. (XII. 30.) Korm. rendelet 35. §-ával megállapított szöveg.

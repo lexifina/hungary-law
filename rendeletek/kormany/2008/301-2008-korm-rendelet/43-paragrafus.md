@@ -6,15 +6,15 @@ b) intézménnyel szembeni kitettségi osztály esetén, ha az olyan ügyfelek s
 
 c) ha az üzleti egységekben lévő kitettségek, valamint a méret és kockázati jellemzői alapján a kitettségi osztályok nem jelentősek,
 
-d)[^14] Magyarország kormányával szembeni kitettség esetén, ha ezen kitettséghez a sztenderd módszer alkalmazásában 0%-os kockázati súlyt kell rendelni,
+d)[^15] Magyarország kormányával szembeni kitettség esetén, ha ezen kitettséghez a sztenderd módszer alkalmazásában 0%-os kockázati súlyt kell rendelni,
 
-e)[^15] Magyarország helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
+e)[^16] Magyarország helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
 
 1. a központi kormány helytáll – garancia vagy viszontgarancia nyújtása, készfizető kezesség vállalása formájában – a helyi önkormányzat és a közszektorbeli intézmény kötelezettségéért, és
 
 2. a Magyar Köztársaság kormányával szembeni kitettséghez sztenderd módszer alkalmazásában 0%-os kockázati súlyt kell alkalmazni,
 
-f) a befektetési vállalkozás anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 3. § (5) bekezdésében foglaltaknak,
+f)[^17] a befektetési vállalkozás anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, vegyes pénzügyi holding társaság, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 3. § (5) bekezdésében foglaltaknak,
 
 g) a központi kormányzat, regionális kormányzat, helyi önkormányzat által finanszírozott olyan gazdálkodó szervezetben fennálló részesedés esetén, amelyhez a II. Fejezet alkalmazása esetén 0%-os kockázati súlyt kell rendelni,
 
@@ -36,5 +36,6 @@ b) összes kockázattal súlyozott kitettség értékének az (1) bekezdés a)�
 
 (5) Az (1) bekezdésben foglaltaknak az EGT-állambeli befektetési vállalkozás anyavállalat és az EGT-állambeli pénzügyi holding társaság anyavállalat a Tpt. 181/A. §-ának (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon köteles megfelelni.
 
-[^14]: A 43. § (1) bekezdés d) pontja a 348/2011. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
-[^15]: A 43. § (1) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^15]: A 43. § (1) bekezdés d) pontja a 348/2011. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^16]: A 43. § (1) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^17]: A 43. § (1) bekezdés f) pontja a 202/2013. (VI. 14.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Szintetikus értékpapírosítás
 
-216. §[^59] (1) Szintetikus értékpapírosítást kezdeményező befektetési vállalkozás az értékpapírosított kitettségeihez tartozó kockázattal súlyozott kitettség értéket és várható veszteség értéket a 217–219. § szerint számíthatja ki, ha
+216. §[^61] (1) Szintetikus értékpapírosítást kezdeményező befektetési vállalkozás az értékpapírosított kitettségeihez tartozó kockázattal súlyozott kitettség értéket és várható veszteség értéket a 217–219. § szerint számíthatja ki, ha
 
 a) jelentős hitelkockázatot ruház át harmadik félre hitelkockázati fedezet alkalmazása mellett, vagy
 
@@ -26,4 +26,4 @@ cd) alapján az eszközátruházó befektetési vállalkozásnak a szintetikus �
 
 d) a szintetikus értékpapírosítást szolgáló hitelkockázati fedezet – jogi szakvéleménnyel alátámasztva – valamennyi irányadó joghatóság előtt érvényes és érvényesíthető.
 
-[^59]: A 216. § a 349/2010. (XII. 28.) Korm. rendelet 85. §-ával megállapított szöveg.
+[^61]: A 216. § a 349/2010. (XII. 28.) Korm. rendelet 85. §-ával megállapított szöveg.
