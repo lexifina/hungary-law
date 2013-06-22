@@ -40,7 +40,7 @@ s) a kereskedési könyv vezetésére vonatkozó szabályzat tervezetét,
 
 t) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a befektetési vállalkozással szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a befektetési vállalkozás összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt átadják,
 
-u) a befektetési vállalkozással szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a befektetési vállalkozás részére átadott személyes adatainak az összevont alapú, illetőleg a kiegészítő felügyelet e törvény szerinti ellátása céljából történő kezeléséhez, illetőleg továbbításához,
+u) a befektetési vállalkozással szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a befektetési vállalkozás részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez, valamint továbbításához,
 
 v) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás anyavállalatával szoros kapcsolatban álló személy vagy szervezet azonosító adatait,
 

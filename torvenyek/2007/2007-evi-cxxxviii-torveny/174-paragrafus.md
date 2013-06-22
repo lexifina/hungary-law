@@ -2,7 +2,7 @@
 
 174. § (1) A Felügyelet a 102. § (3) bekezdése szerinti kérelem beérkezését követően
 
-a) haladéktalanul továbbítja azt azon EGT-állam hatáskörrel rendelkező felügyeleti hatósága részére, amely területén székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat összevont alapú felügyelete, és
+a) haladéktalanul továbbítja azt azon EGT-állam hatáskörrel rendelkező felügyeleti hatósága részére, amely területén székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelete, és
 
 b) ezzel egyidejűleg tájékoztatja az a) pontban meghatározott EGT-állam hatáskörrel rendelkező felügyeleti hatóságát a kérelemre vonatkozó vélemény, fenntartás Felügyelet részére történő megküldésének határidejéről (a továbbiakban: többoldalú eljárás).
 
