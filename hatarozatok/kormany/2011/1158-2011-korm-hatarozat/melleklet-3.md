@@ -40,6 +40,10 @@ Fontos társadalmi okból kivételes szabályozást igénylő testületek
 
 | Nemzeti Hírközlési és Informatikai Tanács | fontos politikai ok | NFM |
 
+| Központi Nukleáris Pénzügyi Alap Szakbizottság | atomenergia biztonsága | NFM |
+
+| Az Országos Atomenergiai Hivatal munkáját segítő Tudományos Tanács | atomenergia biztonsága | NFM |
+
 | Vállalkozásfejlesztési Tanács | fontos politikai ok | NGM |
 
 | Egészségügyi Szakképzési és Továbbképzési Tanács | szakpolitikai ok | NEFMI |
@@ -62,4 +66,4 @@ Fontos társadalmi okból kivételes szabályozást igénylő testületek
 
 | Cigányügyi Egyeztető Tanács | fontos társadalmi ok | EMMI |
 
-[^8]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be, szövege az 1048/2013. (II. 12.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^8]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be, szövege az 1048/2013. (II. 12.) Korm. határozat 11. pontja, az 1353/2013. (VI. 21.) Korm. határozat 1. pontja szerint módosított szöveg.
