@@ -1,1 +1,0 @@
-5. § Az Etv. 95. § (1) bekezdésében az „a turista-, lovagló- vagy a járműközlekedésre kijelölt utat” szövegrész helyébe az „a megjelölt turistautat, a bejelentett lovaglóutat vagy a járműközlekedésre kijelölt utat” szöveg lép.
