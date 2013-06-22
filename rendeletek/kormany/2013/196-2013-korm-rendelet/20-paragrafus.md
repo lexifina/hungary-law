@@ -1,3 +1,0 @@
-## „(4) Nem kell érkeztetni abban az esetben, ha a közfeladatot ellátó szerv a beérkező küldeményt a beérkezés időpontjával egyidejűleg beiktatja. Automatikus iktatás alkalmazása esetén az érkeztetés és az iktatás a beérkezés időpontjával egyidejűleg is megtörténhet.
-
-## (5) Az (1) bekezdéstől eltérően, azon küldeményt, amelyet a közfeladatot ellátó szerv által az elektronikus tájékoztatás keretében közzétett elektronikus levélcímre küldtek, akkor kell érkeztetni, ha a küldemény tartalmából egyértelműen megállapítható, hogy az a közfeladatot ellátó szerv hatáskörébe tartozó eljárás kezdeményezésére irányul.”
