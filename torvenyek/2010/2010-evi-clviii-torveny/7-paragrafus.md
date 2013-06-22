@@ -30,4 +30,6 @@ n) a nyilvánosan működő részvénytársaságban történő befolyásszerzés
 
 o) a közraktározásról szóló 1996. évi XLVIII. törvény szerinti együttműködés a közraktári felügyelettel engedélyezési és ellenőrzési tevékenység során,
 
-p) a biztosítók, Kártalanítási Számla kezelője, a Kártalanítási Alap kezelője, a Kártalanítási Szervezet, az Információs Központ, a Nemzeti Iroda, a kárképviselő Gfbt.-ben meghatározott tevékenységének ellenőrzése.
+p) a biztosítók, Kártalanítási Számla kezelője, a Kártalanítási Alap kezelője, a Kártalanítási Szervezet, az Információs Központ, a Nemzeti Iroda, a kárképviselő Gfbt.-ben meghatározott tevékenységének ellenőrzése,
+
+q) a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglaltaknak megfelelő kiegészítő felügyelet ellátása.
