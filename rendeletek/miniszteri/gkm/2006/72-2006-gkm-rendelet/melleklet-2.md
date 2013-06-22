@@ -268,7 +268,7 @@ Ft/db
 
 | a) engedélyezése, oktatásszervezési regisztrációja | 614 000 |
 
-| b) engedélyének, illetve a regisztrációjának módosítása | 123 000 |
+| b) engedélyének, illetve a regisztrációjának módosítása | 26 000 |
 
 | 18. Kockázatelemzés jóváhagyása |  |
 
@@ -326,4 +326,4 @@ Ft/db
 
 | 30. Vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek tanúsítása, engedélyezése | 1 248 000 |
 
-[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 10. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a szerint módosított szöveg.
