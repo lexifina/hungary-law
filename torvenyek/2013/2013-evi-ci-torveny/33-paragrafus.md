@@ -1,0 +1,7 @@
+33. § A Vet. a következő 7/A. §-sal egészül ki:
+
+„7/A. § (1) Megújulóenergia-támogatási rendszer keretében támogatás kizárólag azon megújuló energiaforrást hasznosító energiatermelő berendezések létesítésére és működtetésére nyújtható, amelyek megfelelnek a megújuló energiaforrásból energiát termelő berendezések műszaki követelményeiről szóló rendeletben meghatározott feltételeknek.
+
+(2) Az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a megújuló energiaforrások alkalmazásának és elterjesztésének elősegítéséről, a megújuló energiaforrásból származó energia használatáról és alkalmazásáról, valamint a megújulóenergia-támogatási rendszerekről elektronikus úton, havonta frissülő honlapon nyújt tájékoztatást a felhasználók, az építőipari szakemberek, a mérnökök, tervezők, valamint a megújuló energiaforrást hasznosító energiatermelő rendszerek üzembe helyezői számára.
+
+(3) A megújulóenergia-támogatási rendszer keretében történő támogatás igénybevételéhez szükséges műszaki követelményeket, valamint a tájékoztatásra vonatkozó részletes szabályokat a miniszter e törvény végrehajtására kiadott rendeletben határozza meg.”

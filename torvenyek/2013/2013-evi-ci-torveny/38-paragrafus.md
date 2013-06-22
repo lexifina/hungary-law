@@ -1,0 +1,5 @@
+## 5. A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény módosítása
+
+38. § A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény (a továbbiakban: Büat.) 2. alcíme a következő 2/A. §-sal egészül ki:
+
+„2/A. § Az energiapolitikáért felelős miniszter elektronikus úton, havonta frissülő honlapon a megújuló energiaforrásból előállított energiával működő járművek üzembe helyezői és üzemeltetői, valamint felhasználói számára a megújuló energia közlekedési célú felhasználásának elősegítése céljából tájékoztatást nyújt a megújuló energiaforrásból előállított energiával működő járművek használatáról és az ilyen járművek használatával összefüggő előnyökről. A tájékoztatásra vonatkozó részletes szabályokat az energiapolitikáért felelős miniszter e törvény végrehajtására kiadott rendeletben állapítja meg.”
