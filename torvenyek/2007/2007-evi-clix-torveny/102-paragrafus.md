@@ -1,6 +1,6 @@
 102. § (1) A Felügyelet az összevont alapú felügyelet alá tartozó viszontbiztosítókról nyilvántartást vezet.
 
-(2) A Felügyelet feladata azon magyarországi székhelyű viszontbiztosítónak e fejezet szerinti összevont alapú felügyelete, amely anyavállalata másik biztosítónak, viszontbiztosítónak vagy harmadik országbeli biztosítónak, viszontbiztosítónak, vagy részesedési viszonnyal rendelkezik legalább egy másik biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban, vagy amely biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, viszontbiztosító vagy vegyes tevékenységű biztosítói holding társaság leányvállalata.
+(2) A Felügyelet feladata a 101. § (1) bekezdésében meghatározott, magyarországi székhelyű viszontbiztosítónak e fejezet szerinti összevont alapú felügyelete.
 
 (3) Az összevont alapú felügyelet alá tartozó magyarországi székhelyű viszontbiztosító 2 munkanapon belül köteles bejelenteni a Felügyeletnek a (2) bekezdés szerinti anya- és leányvállalati, valamint részesedési viszony létrejöttét, módosulását, illetve megszűnését.
 
