@@ -6,7 +6,7 @@
 
 (3) Ha a hatóságok az (1) bekezdésben foglalt eljárás során a határozatot négy hónapon belül nem hozzák meg, a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről a leányvállalatok kockázatelemzésének és az Európai Unió tagállamainak hatáskörrel rendelkező felügyeleti hatóságai véleményének figyelembevételével a Felügyelet hozza meg.
 
-(4) A Felügyelet a határozatot megküldi a tagállami hatáskörrel rendelkező felügyeleti hatóságoknak és az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak.
+(4) A Felügyelet a határozatot megküldi a tagállami hatáskörrel rendelkező felügyeleti hatóságoknak és az EU-szintű hitelintézeti anyavállalatnak, az EU-szintű pénzügyi holding társaság anyavállalatnak vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak.
 
 (5) A Felügyelet a határozat alapjául szolgáló tényállást évente, vagy ha a leányvállalat felügyeletéért felelős illetékes hatóság a pótlólagos tőkekövetelmény előírására vonatkozóan írásban, indokolt esetben kérelmezi, felülvizsgálja. Az utóbbi esetben a felülvizsgálat kétoldalúan is történhet.
 

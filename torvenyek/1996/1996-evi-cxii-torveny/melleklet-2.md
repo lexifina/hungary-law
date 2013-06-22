@@ -166,7 +166,7 @@ b) elektronikus pénz kibocsátójával kötött megbízási szerződés alapjá
 
 18. Fizetési rendszer: pénzátutalási rendszer, amely a fizetési műveletek feldolgozására, elszámolására vagy teljesítésére megállapodásban vagy szabványban rögzített eljárásokat, valamint egységes szabályokat alkalmaz.
 
-II. Az összevont alapú, valamint a kiegészítő felügyelethez kapcsolódó fogalommeghatározások
+II. Az összevont alapú felügyelethez kapcsolódó fogalommeghatározások
 
 1. Ellenőrző befolyás: az Szmt. szerinti anyavállalat fogalmánál használt meghatározó befolyás, illetőleg egy személy és egy vállalkozás között fennálló olyan kapcsolat, amelynek alapján
 
@@ -188,33 +188,21 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 6. Vegyes tevékenységű holding társaság: olyan hitelintézetnek, befektetési vállalkozásnak, pénzügyi holding társaságnak és vegyes pénzügyi holding társaságnak nem minősülő vállalkozás, amelynek legalább egy hitelintézet leányvállalata van.
 
-7. Szabályozott vállalkozás: hitelintézet, befektetési vállalkozás vagy biztosító.
+7–11.
 
-8. Pénzügyi ágazat: a banki ágazat, a befektetési szolgáltatási ágazat, a biztosítási szolgáltatási ágazat, illetőleg a vegyes pénzügyi holding társaság.
+12. Vegyes pénzügyi holding társaság: a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott fogalom.
 
-9. Banki ágazat: hitelintézet, pénzügyi vállalkozás, illetőleg járulékos vállalkozás.
+12a. Tagállami vegyes pénzügyi holding társaság anyavállalat: olyan vegyes pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik.
 
-10. Befektetési szolgáltatási ágazat: befektetési vállalkozás.
+13. Konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat és az EU-szintű vegyes pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó hitelintézet, valamint az EU-szintű hitelintézeti anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság.
 
-11. Biztosítási szolgáltatási ágazat: biztosító, viszontbiztosító, illetőleg biztosítói holding társaság.
+14–15.
 
-12. Vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot.
+16. EU-szintű hitelintézeti anyavállalat: olyan tagállami hitelintézeti anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
 
-13. Konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó hitelintézet és EU-szintű hitelintézeti anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság
+17. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
 
-14. Érintett felügyeleti hatóság:
-
-a) a pénzügyi konglomerátum szabályozott vállalkozásának felügyeletét ellátó tagállami felügyeleti hatóság, vagy
-
-b) a 96/K. § szerinti koordinátor, vagy
-
-c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt érdekelt hatóság, ha a pénzügyi konglomerátumnak az érdekelt felügyeleti hatóság tagállamában lévő piaci részesedése eléri az öt százalékot, és az érdekelt felügyeleti hatóság által engedélyezett szabályozott vállalkozás a pénzügyi konglomerátumon belül jelentős.
-
-15. Biztosító: a Bit. 3. §-a (1) bekezdésének 10. pontja szerinti biztosító és a Bit. 3. §-a (1) bekezdésének 23. pontja szerinti harmadik országbeli biztosító.
-
-16. EU-szintű hitelintézeti anyavállalat: olyan tagállami hitelintézeti anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
-
-17. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
+17a. EU-szintű vegyes pénzügyi holding társaság anyavállalat: olyan tagállami vegyes pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
 
 III. Egyéb meghatározások
 
@@ -228,7 +216,7 @@ b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei, testüle
 
 c) létesítő okirat, megállapodás alapján vagy összehangoltan eljáró személyek együttműködésének eredményeképpen jelentős befolyást gyakorolhat a vállalkozás működésére.
 
-3. Jó üzleti hírnév: a pénzügyi intézmény és a pénzforgalmi intézmény vezetőinek, minősített befolyással rendelkező tulajdonosainak a pénzügyi intézmény és a pénzforgalmi intézmény irányítására, illetve tulajdonlására való alkalmasságát igazoló feltételek megléte.
+3. Jó üzleti hírnév: a pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a vegyes pénzügyi holding társaság vezetőinek, minősített befolyással rendelkező tulajdonosainak a pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a vegyes pénzügyi holding társaság irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte.
 
 4. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
@@ -480,9 +468,9 @@ III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 17. Nemteljesítéskori veszteségráta (LGD): az ügyfél nemteljesítéséből származó veszteségnek a nemteljesítés időpontjában fennálló kitettséghez viszonyított aránya.
 
-18. Tagállami hitelintézeti anyavállalat: olyan hitelintézet, amely hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, és a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik benne.
+18. Tagállami hitelintézeti anyavállalat: olyan hitelintézet, amely hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, és a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik benne.
 
-19. Tagállami pénzügyi holding társaság anyavállalat: olyan pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik.
+19. Tagállami pénzügyi holding társaság anyavállalat: olyan pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik.
 
 20. Üzleti egység: leányvállalat vagy a hitelintézet által meghatározott szempontok szerint egyértelműen körülhatárolható, homogén és más kitettségtől eltérő módon kezelt kitettségek csoportja.
 

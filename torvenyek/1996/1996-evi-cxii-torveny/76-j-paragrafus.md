@@ -38,7 +38,7 @@ c) ha a fejlett mérési módszer eredményei félrevezető képet adnak a hitel
 
 d) olyan elháríthatatlan, a hitelintézet érdekkörén kívüli, neki fel nem róható esemény esetén, amely megakadályozza a fejlett mérési módszer alkalmazását.
 
-(9) Ha az EU-szintű hitelintézeti anyavállalat és leányvállalatai vagy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatai együttesen kérelmezik – a külön jogszabály szerinti – egységes rendszerre alapított fejlett mérési módszer alkalmazását, akkor a Felügyelet a külön jogszabályban meghatározott feltételek egyedi alapon történő teljesítésétől eltekinthet, ha ezáltal nem sérül az átláthatóság és a kockázatok kezelése, valamint megfelelő a kockázatok megoszlása (diverzifikálása).
+(9) Ha az EU-szintű hitelintézeti anyavállalat és leányvállalatai, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatai együttesen kérelmezik – a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott – egységes rendszerre alapított fejlett mérési módszer alkalmazását, akkor a Felügyelet a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott feltételek egyedi alapon történő teljesítésétől eltekinthet, ha ezáltal nem sérül az átláthatóság és a kockázatok kezelése, valamint megfelelő a kockázatok megoszlása (diverzifikálása).
 
 (10) Ha
 

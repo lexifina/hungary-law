@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-112-00-00
 | 2013-01-01 | 2012. évi CLI. törvény | 1996-112-00-00.89 |
 | 2013-02-01 | 2012. évi CLI. törvény | 1996-112-00-00.90 |
 | 2013-04-01 | 2013. évi XXVII. törvény | 1996-112-00-00.91 |
+| 2013-06-22 | 2013. évi LXXXIII. törvény | 1996-112-00-00.92 |

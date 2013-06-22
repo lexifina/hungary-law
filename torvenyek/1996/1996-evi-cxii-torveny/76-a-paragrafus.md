@@ -50,7 +50,7 @@ d) repóügylet, értékpapír- vagy árukölcsönzési ügylet esetén a külö
 
 (7) A nulla százalékos kockázati súly hozzárendelését a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez a Felügyelet jóváhagyja, ha az említett anyavállalat, leányvállalat vagy vállalkozás
 
-a) hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás,
+a) hitelintézet, befektetési vállalkozás, vegyes pénzügyi holding társaság, pénzügyi vállalkozás, befektetési alapkezelő, vagyonkezelő társaság vagy járulékos vállalkozás,
 
 b) a hitelintézettel azonos összevont alapú felügyeleti számításokban teljeskörűen kerül figyelembevételre,
 

@@ -14,7 +14,7 @@ ea) a központi kormány helytáll – garancia vagy viszontgarancia nyújtása,
 
 eb) az Európai Unió tagállamának központi kormányával szembeni kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell alkalmazni,
 
-f) a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 76/A. § (7) bekezdésében foglaltaknak, valamint a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettség esetén, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
+f) a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, vegyes pénzügyi holding társaság, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 76/A. § (7) bekezdésében foglaltaknak, valamint a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettség esetén, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
 
 g) a központi kormányzat, regionális kormányzat, illetőleg helyi önkormányzat által finanszírozott olyan gazdálkodó szervezetben fennálló részesedés esetén, amelyhez a sztenderd módszer alkalmazása esetén nulla százalékos kockázati súlyt kell rendelni,
 

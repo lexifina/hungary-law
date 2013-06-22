@@ -16,7 +16,7 @@ f) pénzügyi vállalkozás esetében annak igazolását, hogy a vállalkozás r
 
 g) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja;
 
-h) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében a hitelintézettel szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú, illetőleg a kiegészítő felügyelet e törvény szerinti ellátása céljából történő kezeléséhez, illetőleg továbbításához.
+h) az összevont alapú vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá tartozó hitelintézet esetében a hitelintézettel szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez, valamint továbbításához.
 
 (2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő pénzügyi intézményben minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell
 

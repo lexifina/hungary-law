@@ -6,13 +6,13 @@
 
 (3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 
-(4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél nem lehet vezető állású személy az, aki
+(4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél és vegyes pénzügyi holding társaságnál nem lehet vezető állású személy az, aki
 
-a) minősített befolyással rendelkezik (vagy rendelkezett), illetőleg vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben
+a) minősített befolyással rendelkezik (vagy rendelkezett), vagy vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben,
 
-1. amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
+aa) amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
 
-2. amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
+ab) amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
 
 és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
 

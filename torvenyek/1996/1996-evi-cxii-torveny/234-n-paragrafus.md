@@ -1,0 +1,1 @@
+234/N. § A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvénnyel megállapított 44. § (4) bekezdésében foglalt rendelkezéseknek a hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő vegyes pénzügyi holding társaságnak legkésőbb 2014. január 1-től kell megfelelnie.

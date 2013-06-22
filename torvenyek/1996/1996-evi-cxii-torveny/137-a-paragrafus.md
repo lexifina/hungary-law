@@ -4,7 +4,7 @@
 
 ## XXII/A. Fejezet
 
-137/A. § (1) A hitelintézet egyedi alapon, a tagállami hitelintézeti anyavállalat, tagállami pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata, EU-szintű hitelintézeti anyavállalat és az EU-szintű pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata a 90. § (2) bekezdés szerinti vállalkozások vonatkozásában összevont alapon is nyilvánosságra hozza a külön jogszabályban meghatározott információkat.
+137/A. § (1) A hitelintézet egyedi alapon, a tagállami hitelintézeti anyavállalat, a tagállami pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata, az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat és EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata a 90. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon is nyilvánosságra hozza a hitelintézetek nyilvánosságra hozatali követelményének teljesítéséről szóló kormányrendeletben meghatározott információkat.
 
 (2) A hitelintézet az igazgatóság által jóváhagyott szabályzatban határozza meg a nyilvánosságra hozatali elveket. A szabályzatban meg kell határozni az információ ellenőrzésére, valamint a nyilvánosságra hozatal megfelelőségének értékelésére vonatkozó szabályokat is, illetve a nyilvánosságra hozatal gyakoriságát.
 

@@ -12,7 +12,7 @@ c) a magyar hatóság által ellátott – e törvényben meghatározott – fel
 
 d) pénzügyi intézménynek nem minősülő, az összevont alapú felügyelet hatálya alá tartozó hitelintézettel, illetőleg a pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes tevékenységű holding társaságra,
 
-e) pénzügyi intézménynek nem minősülő, a kiegészítő felügyelet hatálya alá tartozó hitelintézettel, illetőleg vegyes pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes pénzügyi holding társaságra,
+e)
 
 f) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
 
