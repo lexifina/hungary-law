@@ -75,3 +75,5 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 35. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
 
 36. Az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+
+37. Az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.

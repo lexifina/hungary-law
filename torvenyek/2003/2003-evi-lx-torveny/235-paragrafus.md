@@ -34,6 +34,6 @@ p) a biztosításközvetítői és biztosítási szaktanácsadói nyilvántartá
 
 q)
 
-r) a pénzügyi konglomerátumra vonatkozó kiegészítő felügyeleti szintű számítások módját, tartalmát, szerkezetét és gyakoriságát
+r)
 
 rendeletben állapítsa meg.

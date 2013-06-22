@@ -196,27 +196,13 @@ c) harmadik országbeli biztosító fióktelepe formájában működő biztosít
 
 74. vegyes tevékenységű biztosítói holding társaság: az az anyavállalat, amely nem biztosító, nem harmadik országbeli biztosító, nem viszontbiztosító, nem harmadik országbeli viszontbiztosító, nem biztosítói holding társaság és nem vegyes pénzügyi holding társaság, azonban legalább egy tagállami biztosító, viszontbiztosító leányvállalattal rendelkezik;
 
-75. szabályozott vállalkozás: hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító;
+75–79.
 
-76. pénzügyi ágazat: a banki ágazat, a befektetési szolgáltatási ágazat, a biztosítási szolgáltatási ágazat, illetőleg a vegyes pénzügyi holding társaság;
-
-77. banki ágazat: hitelintézet, pénzügyi vállalkozás, illetőleg járulékos vállalkozás;
-
-78. befektetési szolgáltatási ágazat: befektetési vállalkozás;
-
-79. biztosítási szolgáltatási ágazat: biztosító, viszontbiztosító, illetőleg biztosítói holding társaság;
-
-80. vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot;
+80. vegyes pénzügyi holding társaság: a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott fogalom;
 
 81. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
 
-82. érintett felügyeleti hatóság:
-
-a) a pénzügyi konglomerátum szabályozott vállalkozásának felügyeletét ellátó tagállami felügyeleti hatóság, vagy
-
-b) a 189/H. § szerinti koordinátor, vagy
-
-c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt érdekelt hatóság, ha a pénzügyi konglomerátumnak az érdekelt felügyeleti hatóság tagállamában lévő piaci részesedése eléri az öt százalékot, és az érdekelt felügyeleti hatóság által engedélyezett szabályozott vállalkozás a pénzügyi konglomerátumon belül jelentős;
+82.
 
 83. szoros kapcsolat: a Hpt.-ben meghatározott fogalom;
 

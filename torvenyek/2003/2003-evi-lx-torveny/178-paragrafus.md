@@ -8,7 +8,7 @@
 
 a) amely anyavállalata másik biztosítónak, viszontbiztosítónak vagy harmadik országbeli biztosítónak, viszontbiztosítónak, vagy részesedési viszonnyal rendelkezik legalább egy másik biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban,
 
-b) amelynek anyavállalata biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító, viszontbiztosító,
+b) amelynek anyavállalata biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító,
 
 c) amelynek anyavállalata vegyes tevékenységű biztosítói holding társaság.
 

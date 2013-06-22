@@ -1,6 +1,6 @@
 ## A Felügyelet nemzetközi együttműködése más országok felügyeleti hatóságaival az összevont alapú felügyeleti tevékenység tekintetében
 
-182. § (1) Ha magyarországi székhelyű biztosító(k) és más tagállamban vagy tagállamokban székhellyel rendelkező biztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy vegyes tevékenységű biztosítói holding társaság leányvállalatai, a Felügyelet az adott tagállamok felügyeleti hatóságaival kötött felügyeleti megállapodásban rögzíti, hogy a biztosító összevont alapú felügyeletét melyikük látja el.
+182. § (1) Ha magyarországi székhelyű biztosító(k) és más tagállamban vagy tagállamokban székhellyel rendelkező biztosító(k), viszontbiztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító, vegyes tevékenységű biztosítói holding társaság vagy vegyes pénzügyi holding társaság leányvállalatai, akkor a Felügyelet az adott tagállamok felügyeleti hatóságaival kötött felügyeleti megállapodásban rögzíti, hogy a biztosító összevont alapú felügyeletét melyikük látja el.
 
 (2) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más tagállam felügyeleti hatóságával szorosan együttműködik.
 
