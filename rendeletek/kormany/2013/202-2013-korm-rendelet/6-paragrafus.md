@@ -1,5 +1,0 @@
-## 5. § A befektetési vállalkozás működési kockázatának tőkekövetelményéről szóló 169/2008. (VI. 28.) Korm. rendelet (a továbbiakban: Bmkr.) 9. §-a helyébe a következő rendelkezés lép:
-
-## „9. § (1) Az EU-szintű befektetési vállalkozás anyavállalat és leányvállalatai, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatai egységes rendszerre alapított fejlett mérési módszer alkalmazására vonatkozó együttes kérelme esetén a Felügyelet akkor tekinthet el a követelmények egyedi alapon történő teljesítésétől, ha ezáltal nem sérül az átláthatóság, a kockázatok kezelése és megfelelő a kockázatok megoszlása (diverzifikálása).
-
-## (2) Az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat az egységes rendszerre alapított fejlett mérési módszer bevezetésére vonatkozó engedélykérelemben és az alkalmazás során legalább negyedévente részletesen bemutatja a Felügyeletnek a működési kockázat tőkekövetelményének az anyavállalat és leányvállalatai közötti eloszlását.”

@@ -1,1 +1,0 @@
-## „d) az értékpapírosított kitettséget létrehozó pénzügyi intézmény vagy befektetési vállalkozás az értékpapírosítást kezdeményező, a szponzor, az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat rendelkezésére bocsátja a 9. § teljesítéséhez szükséges információkat.”
