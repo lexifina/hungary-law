@@ -2,11 +2,7 @@
 
 2. A Kormány az 1. pontban meghatározottak végrehajtása érdekében
 
-a) felhívja a nemzeti fejlesztési minisztert, hogy a beruházás finanszírozásáról – a kínai Kormány által biztosított hitelkeret, továbbá az Európai Beruházási Bank által biztosított források felhasználási lehetőségének megvizsgálásával – készítsen előterjesztést a Kormány részére;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2013. április 30.
+a)[^1]
 
 b) felhívja a nemzeti fejlesztési minisztert, hogy készítsen előterjesztést a Kormány részére a „V0” projekt előkészítésének, kivitelezésének részletei tekintetében;
 
@@ -14,8 +10,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2013. április 30.
 
-c) felhívja a nemzeti fejlesztési minisztert, hogy a beruházás megvalósításának részletes jogi és pénzügyi konstrukciójának ismeretében szükség szerint készítse elő a projekt megvalósításához szükséges nemzetközi szerződéseket, és azokat terjessze a Kormány elé.
+c)[^2]
 
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2013. április 30.
+[^1]: A 2. pont a) alpontját az 1359/2013. (VI. 24.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 2. pont c) alpontját az 1359/2013. (VI. 24.) Korm. határozat 5. pontja visszavonta.
