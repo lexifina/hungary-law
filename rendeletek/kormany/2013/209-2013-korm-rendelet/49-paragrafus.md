@@ -1,3 +1,3 @@
-## 48. §[^23]
+## 48. §[^11]
 
-[^23]: A 48. § a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^11]: A 48. § a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.

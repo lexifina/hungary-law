@@ -1,5 +1,3 @@
-## 15. §[^11]
-
 ## 9. A viszonteladó
 
 16. § (1) A viszonteladó a tevékenysége során különösen az alábbi tevékenységeket láthatja el:
@@ -19,5 +17,3 @@ c) az egyetemes útdíjszolgáltató vagy annak bevallási közreműködője ál
 (5) Az egyetemes útdíjszolgáltató indokolatlan megkülönböztetésektől mentes módon működik együtt a viszonteladókkal.
 
 (6) E §-t nem kell alkalmazni a külön jogszabály szerinti nemzeti mobil fizetési szervezetre, mint viszonteladóra.
-
-[^11]: A 15. § a 47. § (2) bekezdése alapján 2013. június 24-én lép hatályba.

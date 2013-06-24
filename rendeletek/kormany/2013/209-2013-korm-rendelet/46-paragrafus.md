@@ -1,4 +1,4 @@
-## 45. §[^22]
+## 45. §[^10]
 
 ## VI. Fejezet
 
@@ -10,4 +10,4 @@
 
 (2) A közúti közlekedési nyilvántartást vezető szerv az általa a díjköteles útszakaszok térítésmentes használatára jogosultakról vezetett központi nyilvántartásból a 2013. június 15-ei állapotnak megfelelően 2013. június 30-áig köteles az útdíjköteles elemi útszakaszok térítésmentes használatára jogosult gépjárművek adatait a Rendőrség kijelölt szervének átadni. Az e bekezdés szerint átadott adatok tartalmáért az átadó hatóság tartozik felelősséggel.
 
-[^22]: A 45. § a 47. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^10]: A 45. § a 47. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.

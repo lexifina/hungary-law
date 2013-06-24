@@ -8,8 +8,7 @@
 
 7. § (1)[^2]
 
-(2)[^3]
+(2) Az útdíjszedő indokolatlan megkülönböztetésektől mentes módon működik együtt az útdíjszolgáltatókkal.
 
 [^1]: A 4–6. § a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
 [^2]: A 7. § (1) bekezdése a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
-[^3]: A 7. § (2) bekezdése a 47. § (2) bekezdése alapján 2013. június 24-én lép hatályba.

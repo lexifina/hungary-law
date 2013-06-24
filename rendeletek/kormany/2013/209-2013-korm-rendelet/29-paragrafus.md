@@ -1,5 +1,3 @@
-## 27–28. §[^19]
-
 ## 16. A térítésmentes használatra jogosultak nyilvántartása
 
 29. § (1) Az útdíjköteles elemi útszakaszok térítésmentes használatára jogosult jogalanyok Útdíjtörvényben meghatározott gépjárműveiről a Rendőrség nyilvántartást vezet.
@@ -23,5 +21,3 @@ b) a nyilvántartó szerv által közzétett elektronikus formátum megküldés�
 (8) Az útdíj megfizetése és bevallása alól az Útdíjtörvény 9. §-ában foglaltak alapján mentesülő szervezetek által szolgáltatott adatok valódiságáért, a nyilvántartásba jogtalanul felvitt, az onnan jogtalanul törölt vagy törölni elmulasztott gépjárművekkel összefüggésben keletkező útdíj és bírság, illetve kár megfizetéséért az adatot szolgáltató vagy arra köteles a felelős.
 
 (9) A díjmentesség érvényességének időtartama a bejelentésben megjelölt időszak. A díjmentességet az arra jogosultak a jogosultság keletkezésekor azonnal, és évente a tárgyév január 31. napjáig újra kötelesek a nyilvántartónak bejelenteni. Az újra be nem jelentett adatokat a nyilvántartó törli a nyilvántartásból.
-
-[^19]: A 27–28. § a 47. § (2) bekezdése alapján 2013. június 24-én lép hatályba.

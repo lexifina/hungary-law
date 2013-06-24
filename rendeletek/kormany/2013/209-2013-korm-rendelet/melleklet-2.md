@@ -18,6 +18,6 @@
 
 ## C kategória: EURO I és rosszabb besorolású motorral felszerelt gépjárművek (3-as vagy annál rosszabb környezetvédelmi osztályú motorral felszerelt gépjárművek).
 
-2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^26]
+2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^14]
 
-[^26]: A 2. melléklet a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^14]: A 2. melléklet a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
