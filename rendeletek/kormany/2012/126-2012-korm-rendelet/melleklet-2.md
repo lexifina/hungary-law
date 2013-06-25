@@ -34,7 +34,7 @@
 
 | 14 | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^5]
+2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^9]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -82,4 +82,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 19 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^5]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a szerint módosított szöveg.
