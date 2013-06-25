@@ -46,7 +46,7 @@
 
 1. a pályázat hivatalos nyelvének megjelölését;
 
-2. az ingatlan-nyilvántartásba a Magyar Állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket, továbbá az ingatlan-nyilvántartásba fel nem jegyzett, az NFA által ismert terheket;
+2.[^22] az ingatlan-nyilvántartásba a Magyar Állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket;
 
 3. az ingatlan-nyilvántartásba jogi jellegként feljegyzett tényeket;
 
@@ -78,11 +78,11 @@
 
 17. az eredményről a pályázók értesítésének módját és határidejét;
 
-18.[^22] annak rögzítését, hogy a nyertes pályázó által benyújtott pályázatot a 22. § (3) bekezdésben meghatározottak szerint nyilvánosságra kell hozni, továbbá a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint, hogy az Nfatv. 30. § (2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni.
+18.[^23] annak rögzítését, hogy a nyertes pályázó által benyújtott pályázatot a 22. § (3) bekezdésben meghatározottak szerint nyilvánosságra kell hozni, továbbá a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint, hogy az Nfatv. 30. § (2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni.
 
 (3) A (2) bekezdés 7. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-(4)[^23] Ha a pályázati felhívás tárgyát jogszabállyal vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, illetve védett terület képezi, a (2) bekezdés 11. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó jogszabályi előírásokat.
+(4)[^24] Ha a pályázati felhívás tárgyát jogszabállyal vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, illetve védett terület képezi, a (2) bekezdés 11. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó jogszabályi előírásokat.
 
 (5) Az NFA oly módon köteles a pályázati felhívást közzétenni, és a pályázati kiírást elkészíteni, hogy az abban foglalt jogok, tények, adatok megegyezzenek a pályázati felhívás közzétételének időpontjában az ingatlan-nyilvántartásba bejegyzett jogokkal, tényekkel és adatokkal, valamint a földhasználati nyilvántartásba bejegyzett adatokkal.
 
@@ -96,5 +96,6 @@
 
 [^20]: A 7. § (1) bekezdés nyitó szövegrésze a 153/2013. (V. 24.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
 [^21]: A 7. § (1) bekezdés 13. pontja a 161/2011. (VIII. 18.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^22]: A 7. § (2) bekezdés 18. pontja a 153/2013. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^23]: A 7. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^22]: A 7. § (2) bekezdés 2. pontja a 223/2013. (VI. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^23]: A 7. § (2) bekezdés 18. pontja a 153/2013. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 7. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.

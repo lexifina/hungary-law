@@ -1,4 +1,4 @@
-31. § (1)[^50] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon kell közzétenni, és az árverés helyszínén is ki kell függeszteni. Azon települések esetében, melyek körjegyzőséget tartanak fenn, az árverési hirdetményt az Nfatv. 26. § (2) bekezdése alapján a körjegyzőségnél is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek a földrészlet fekvése szerinti önkormányzat polgármesteri hivatala, illetve a körjegyzőség székhelyén a körjegyzőség hirdetőtáblájára való kifüggesztés napja.
+31. § (1)[^51] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon kell közzétenni, és az árverés helyszínén is ki kell függeszteni. Azon települések esetében, melyek körjegyzőséget tartanak fenn, az árverési hirdetményt az Nfatv. 26. § (2) bekezdése alapján a körjegyzőségnél is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek a földrészlet fekvése szerinti önkormányzat polgármesteri hivatala, illetve a körjegyzőség székhelyén a körjegyzőség hirdetőtáblájára való kifüggesztés napja.
 
 (2) Az árverési hirdetmény közzétételének időpontja legalább harminc nappal meg kell előzze a hirdetményben megjelölt árverési időpontot.
 
@@ -74,4 +74,4 @@ c) a földhasználati nyilvántartásba bejegyzett földhasználót vagy azt az 
 
 (5) A (3) bekezdés 11. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-[^50]: A 31. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^51]: A 31. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.

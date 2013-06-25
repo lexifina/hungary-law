@@ -1,4 +1,4 @@
-## 43/B. §[^63] Az igazgatóság a vagyonkezelésében álló vagy vagyonkezelésébe kerülő védett területet érintően a birtoklás, a használat, és hasznosítás jogát saját maga gyakorolja (a továbbiakban: saját használat), ha
+## 43/B. §[^64] Az igazgatóság a vagyonkezelésében álló vagy vagyonkezelésébe kerülő védett területet érintően a birtoklás, a használat, és hasznosítás jogát saját maga gyakorolja (a továbbiakban: saját használat), ha
 
 a) a védett terület klimax és ahhoz közeli állapotú társulásokkal borított természetvédelmi oltalom alatt álló terület, amelyen a természetvédelmi szempontok – a kiemelkedő jelentőségű, értékű védett természeti területek és értékek – miatt gazdálkodási tevékenység nem lehetséges; vagy amelyek nem igényelnek természetvédelmi fenntartási tevékenységet, ezért a védett terület hasznosítása tilos, vagy igen nagymértékben korlátozott (így különösen egyes bioszféra-rezervátum magterületek, tudományos rezervátumok, egyes természeti övezetbe tartozó területek, egyes fokozottan védett természeti területek),
 
@@ -10,4 +10,4 @@ d) a védett terület az ingatlan-nyilvántartás szerint erdő művelési ágba
 
 e) a védett területen a természetvédelmi hatóság a hasznosítási kötelezettséget felfüggesztette.
 
-[^63]: A 43/B. §-t a 161/2011. (VIII. 18.) Korm. rendelet 15. §-a iktatta be.
+[^64]: A 43/B. §-t a 161/2011. (VIII. 18.) Korm. rendelet 15. §-a iktatta be.

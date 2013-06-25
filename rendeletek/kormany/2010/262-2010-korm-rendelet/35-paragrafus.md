@@ -1,11 +1,11 @@
-## 34. §[^51] Az adásvételi és a haszonbérleti szerződésben rögzíteni kell a szerződés tárgyát képező földrészlet rendeltetését, továbbá azt, hogy az védett területnek, vagy vízvédelmi területnek minősül-e.
+## 34. §[^52] Az adásvételi és a haszonbérleti szerződésben rögzíteni kell a szerződés tárgyát képező földrészlet rendeltetését, továbbá azt, hogy az védett területnek, vagy vízvédelmi területnek minősül-e.
 
-35. § (1)[^52] Ha az adásvételi szerződés tárgya termőföld, a szerződésben – ide nem értve az (1a) bekezdésben meghatározott esetet – rögzíteni kell a vevő azon kötelezettségét, hogy azt a termőföld védelméről szóló 2007. évi CXXIX. törvény 21. § (3) bekezdésének a)–e), g)–h) és l) pontjában foglaltak kivételével 5 évig más célra nem hasznosítja. Az adásvételi szerződésben rögzíteni kell azt is, hogy a birtokbaadás időpontja nem lehet korábbi, mint a vevő tulajdonjogának az ingatlan-nyilvántartásba történő bejegyzése.
+35. § (1)[^53] Ha az adásvételi szerződés tárgya termőföld, a szerződésben – ide nem értve az (1a) bekezdésben meghatározott esetet – rögzíteni kell a vevő azon kötelezettségét, hogy azt a termőföld védelméről szóló 2007. évi CXXIX. törvény 21. § (3) bekezdésének a)–e), g)–h) és l) pontjában foglaltak kivételével 5 évig más célra nem hasznosítja. Az adásvételi szerződésben rögzíteni kell azt is, hogy a birtokbaadás időpontja nem lehet korábbi, mint a vevő tulajdonjogának az ingatlan-nyilvántartásba történő bejegyzése.
 
-(1a)[^53] Az (1) bekezdésben meghatározott, a termőföld más célú hasznosításának tilalmát nem kell alkalmazni, ha az adásvételre az Nfatv. 21. § (3a) bekezdés a) pontjában foglalt célokból kerül sor.
+(1a)[^54] Az (1) bekezdésben meghatározott, a termőföld más célú hasznosításának tilalmát nem kell alkalmazni, ha az adásvételre az Nfatv. 21. § (3a) bekezdés a) pontjában foglalt célokból kerül sor.
 
 (2) A vevő tulajdonjogának ingatlan-nyilvántartásba történő bejegyzéséhez szükséges hozzájáruló nyilatkozat megadásának a feltétele a teljes vételár megfizetése.
 
-[^51]: A 34. § a 161/2011. (VIII. 18.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^52]: A 35. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^53]: A 35. § (1a) bekezdését a 153/2013. (V. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^52]: A 34. § a 161/2011. (VIII. 18.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^53]: A 35. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^54]: A 35. § (1a) bekezdését a 153/2013. (V. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.

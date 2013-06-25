@@ -1,6 +1,6 @@
 ## 50. § Ha a tulajdonosi ellenőrzés eredményeként az NFA megállapítja a földrészlet adatainak változását, a hatósági nyilvántartásokkal összefüggő eljárást kezdeményez, illetve a Nemzeti Földalap vagyonnyilvántartásában a változás átvezetéséről intézkedik.
 
-50/A. §[^70] (1) A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet, az NFA vagyonnyilvántartási szabályzata, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
+50/A. §[^71] (1) A használót – a Nemzeti Földalap vagyon-nyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében – e rendelet, az NFA vagyonnyilvántartási szabályzata, valamint a szerződés szerinti adatszolgáltatási kötelezettség terheli a szerződés tartama alatt.
 
 (2) A használó e rendelet szerinti adatszolgáltatási kötelezettsége az NFA felé akkor is fennáll, ha az NFA-val vagy az NFA jogelődjével kötött szerződés az adatszolgáltatási kötelezettségről nem rendelkezik.
 
@@ -42,4 +42,4 @@ e) az (5) bekezdés a) pontjában meghatározott esetben a forgalmi értékbecsl
 
 f) az (5) bekezdés b) pontjában meghatározott esetben a szerződés létrejöttét, vagy megszűnését
 
-[^70]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
+[^71]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
