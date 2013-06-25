@@ -1,0 +1,1 @@
+## 1. A könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezet, az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezet, valamint a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság kijelölése

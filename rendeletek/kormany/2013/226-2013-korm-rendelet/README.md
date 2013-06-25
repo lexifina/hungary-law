@@ -1,0 +1,9 @@
+# 226/2013. (VI. 24.) Korm. rendelet
+
+a könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezet, az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezet, valamint a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság kijelöléséről és egyes jogszabályok kapcsolódó módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-226-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-06-25 | 2013-226-20-22.1 | 226/2013. (VI. 24.) Korm. rendelet |
