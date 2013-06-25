@@ -1,4 +1,4 @@
-10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^118]
+10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^131]
 
 ADATLAP
 
@@ -40,8 +40,6 @@ b) „Kijelentem, hogy
 
 – hogy akkreditált szervezetünk nem áll csőd-, felszámolási eljárás vagy végelszámolás alatt;
 
-– a fenti kérelemhez nem csatolt kötelező mellékleteket a …………………… című, ……………………-án benyújtott kérelemhez mellékeltük és tartalmuk a benyújtás óta nem változott;1
-
 – a fenti kérelemhez csatolt már minősített továbbképzési programot változatlan formában és tartalommal nyújtottuk be, amelynek felhasználási jogát igazoló, ……………………………………………… akkreditált szervezettel kötött megállapodást jelen kérelemhez csatoltuk.[^2”]
 
 c) „Vállalom, hogy
@@ -68,6 +66,6 @@ d) „Kijelentem, hogy az akkreditált szervezet Rendelet alapján nyilvántarto
 
 5. Cégszerű aláírás
 
-[^118]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^131]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
 [^1.]: Kreditpont-minősítési eljárás esetén kell megadni.
 [^2”]: Egyszerűsített kreditpont-minősítési eljárás során kell megadni.

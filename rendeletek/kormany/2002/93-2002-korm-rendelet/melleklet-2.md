@@ -22,7 +22,7 @@
 
 ## • szakterület-kiegészítés,
 
-## • szakterület-csere,
+## • szakterület-törlés,
 
 ## – a nyilvántartásban szereplő egyéb adataiban történt változás(ok) átvezetését[^3.]
 
@@ -52,7 +52,7 @@
 
 ## j) a számviteli törvényben meghatározott idejű számviteli, pénzügyi vagy ellenőrzési szakmai gyakorlat ismertetése fordított időrendi sorrendben [gyakorlat megszerzésének helye, végzett tevékenység(ek), gyakorlat időtartama: év, hónap, naptól – év, hónap, napig],
 
-## k) a szakterület, amelyre a felvételét kéri.
+## k) a szakterület, amelyre a felvételét kéri (amennyiben a szakképesítés szakiránya/szakterülete az oklevélen nem szerepel).
 
 ## 3. Nem kötelező, a kérelmező önkéntes adatszolgáltatása alapján (amennyiben azokat az adatlapon feltünteti) kerülnek a nyilvántartásba a következő adatok:
 
@@ -102,7 +102,7 @@
 
 ## 6. A kérelmező aláírása8
 
-2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^101]
+2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^113]
 
 [^1.]: Az adatlap letölthető az egységes Kormányzati Portálról.
 [^2.]: Nyilvántartásba történő felvétel kérelmezése esetén – a 3. pontban foglaltak kivétel – az adatlap valamennyi adatát kötelező megadni. A 3. pontban szereplő adatok önkéntes adatszolgáltatás alapján kerülnek a nyilvántartásba.
@@ -112,4 +112,4 @@
 [^6.]: Hozzájárulás esetén a megfelelő személyes adatok külön-külön egyértelműen megjelölendők.
 [^7.]: A megfelelő szövegrész aláhúzandó.
 [^8.]: Akkor kötelező kitölteni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^101]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek.
+[^113]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek.

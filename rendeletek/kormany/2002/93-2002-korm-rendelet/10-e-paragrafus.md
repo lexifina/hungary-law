@@ -1,6 +1,6 @@
-10/E. §[^89] (1) Amennyiben a kreditpont-minősítési eljárás iránti kérelemben foglalt képzés elektronikus képzési formában valósul meg, a továbbképzési program akkor minősíthető, amennyiben az elektronikus képzési rendszer elektronikus naplója által rögzítetten biztosított, valamint a továbbképzésen való részvételkor és azt követő 5 évig ellenőrizhető, hogy a továbbképzésre kötelezett
+10/E. §[^100] (1) Amennyiben a kreditpont-minősítési eljárás iránti kérelemben foglalt képzés elektronikus képzési formában valósul meg, a továbbképzési program akkor minősíthető, amennyiben az elektronikus képzési rendszer elektronikus naplója által rögzítetten biztosított, valamint a továbbképzésen való részvételkor és azt követő 5 évig ellenőrizhető, hogy a továbbképzésre kötelezett
 
-a) a bejelentkezéstől a továbbképzés teljes időtartama alatt a továbbképzésen részt vett,
+a)[^101] a továbbképzési program, illetve ha a továbbképzési program több részből áll, akkor minden egyes rész megkezdésekor az elektronikus felületre bejelentkezett és a továbbképzési program, illetve ha a továbbképzési program több részből áll, akkor minden egyes rész befejezéséig nem jelentkezett ki,
 
 b) a továbbképzés oktatási programjának egészét teljesítette,
 
@@ -8,4 +8,5 @@ c) részére a továbbképzés teljesítéséről szóló igazolás a továbbké
 
 (2) Az (1) bekezdés szerinti továbbképzési forma esetén a 10/D. § (1) bekezdés szerinti kérelemhez mellékelni kell az elektronikus képzési formában lebonyolításra kerülő továbbképzés oktatási programját, valamint az elektronikus képzési rendszer működésének bemutatását, ide értve az igazolás kiállítását, a résztvevők nyilvántartását és az ellenőrzés módszerét is.
 
-[^89]: A 10/E. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^100]: A 10/E. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^101]: A 10/E. § (1) bekezdés a) pontja a 226/2013. (VI. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
