@@ -42,4 +42,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2013. július 31.
 
-5. A Kormány a „V0” Budapestet délről elkerülő vasútvonal előkészítéséről szóló 1096/2013. (III. 4.) Korm. határozat 2. pont a) és c) alpontját visszavonja.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
