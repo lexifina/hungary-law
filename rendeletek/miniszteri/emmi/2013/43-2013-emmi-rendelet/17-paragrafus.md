@@ -1,0 +1,7 @@
+17. § (1) Ha a fenntartó az Nkt.-ban meghatározott határidőig az intézmény fenntartói jogának átadásával, átszervezésével, megszüntetésével összefüggő döntést hoz, az e rendeletben foglaltakat – a nem magyar állampolgár tanulók oktatásának támogatása kivételével – a (2) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) Az intézmény jogutód nélküli megszüntetése esetén a fenntartó az érintett intézmény vonatkozásában nem nyújthat be támogatási kérelmet. Az intézmény jogutóddal történő megszűnése vagy átszervezése, illetve – az intézmény jogutód nélküli megszűnésének nem minősülő – fenntartói jogának átadása esetén a támogatási kérelmet a jogelőd intézmény fenntartója a jogutód intézmény fenntartójának egyetértésével nyújthatja be, ebben az esetben a támogatási kérelemhez a 13. mellékletet is csatolni kell.
+
+(3) Ha az intézmény jogutóddal történő megszűntetésről, átszervezéséről, fenntartói jogának átadásról a támogatási kérelem benyújtását követően születik döntés, e tényről a jogelőd intézmény fenntartója tájékoztatja a kincstárt. A támogatást a jogelőd vagy jogutód intézmény fenntartója időarányosan használhatja fel a támogatási célra, a támogatással a jogutód intézmény fenntartója számol el.
+
+(4) A nem magyar állampolgár tanulók oktatásának támogatása esetében a támogatási kérelmet az intézmény átszervezésére, megszüntetésére és fenntartói jogának átadására tekintet nélkül a támogatási feltételeknek megfelelő fenntartó nyújthatja be. A támogatással a támogatásban részesült fenntartó számol el.

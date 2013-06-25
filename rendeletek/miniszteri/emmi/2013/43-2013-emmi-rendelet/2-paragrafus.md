@@ -1,0 +1,7 @@
+## 2. Sajátos nevelési igényű tanulók tankönyvtámogatása
+
+2. § (1) A 2012. évi Kvtv. 5. melléklet 11. d) pont da) alpontja szerinti jogcímen, a 2013. évi Kvtv. 35. § (1) bekezdés a)–b) pontjában meghatározott támogatást (a továbbiakban: tankönyvtámogatás) a fenntartó a fenntartásában lévő nevelési-oktatási intézmény 1–13. évfolyamán – szakiskola esetében a 9–10. évfolyamán – és a szakképzési évfolyamokon a nappali rendszerű iskolai oktatásban részt vevő, a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 4. § 25. pontja szerinti sajátos nevelési igényű tanulók 2013. október 1-jei becsült létszáma alapján igényelheti.
+
+(2) A tankönyvtámogatás felhasználható az Nkt. 4. § 25. pontja szerinti sajátos nevelési igényű tanulók kis példányszámú tankönyveinek beszerzésére és differenciált tankönyvvásárlás támogatására, így különösen a vak tanulók kispéldányszámú, pontírásos és hangos tankönyvei, digitalizált tananyagai a tankönyvvé nyilvánítás, a tankönyvtámogatás, valamint az iskolai tankönyvellátás rendjéről szóló 23/2004. (VIII. 27.) OM rendelet (a továbbiakban: OM rendelet) 22. § (13) bekezdése szerint történő beszerzésének támogatására.
+
+(3) A tankönyvtámogatás igénylésének alapja a tankönyvrendelésben szereplő végösszegnek a tankönyvrendelésben érintett tanulók létszáma alapján a 2012. évi Kvtv. 8. melléklet I. rész 4. pont b) alpontja szerinti normatív hozzájárulás fajlagos összege alapján biztosított támogatással csökkentett különbözete.
