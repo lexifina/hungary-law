@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Litván Köztársaság Kormánya közötti, a Báthory István Magyar–Litván Együttműködési Alapról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
