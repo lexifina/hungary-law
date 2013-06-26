@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad egyrészről az Európai Unió és tagállamai, másrészről a Vietnami Szocialista Köztársaság közötti partnerségi és együttműködési Keretmegállapodás (a továbbiakban: Keretmegállapodás) kötelező hatályának elismerésére.
