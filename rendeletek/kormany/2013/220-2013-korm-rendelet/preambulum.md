@@ -1,1 +1,0 @@
-A Kormány a magyar állampolgárságról szóló 1993. évi LV. törvény 24. § (4) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
