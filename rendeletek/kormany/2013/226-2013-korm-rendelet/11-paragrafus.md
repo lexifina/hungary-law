@@ -1,9 +1,11 @@
+## 4–10. §[^2]
+
 ## 11. § Hatályát veszti a Korm. rendelet
 
-a)[^2]
+a)[^3]
 
-b) 10/D. § (5) bekezdésében az „, amennyiben a program több témakört lefed témakörönkénti kreditpont-értékével” szövegrész,
+b)–c)[^4]
 
-c) 10. számú melléklet 2. pont b) pontjában az „- a fenti kérelemhez nem csatolt kötelező mellékleteket a ....................................... című, ........................-án benyújtott kérelemhez mellékeltük és tartalmuk a benyújtás óta nem változott;” szövegrész.
-
-[^2]: A 11. § a) pontja a 13. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^2]: A 4–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. § a) pontja a 13. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^4]: A 10. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

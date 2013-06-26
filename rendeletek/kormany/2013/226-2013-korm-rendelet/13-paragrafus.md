@@ -1,4 +1,4 @@
-## 12. §[^3]
+## 12. §[^5]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–3. §, a 11. § a) pontja és a 12. § 2013. július 1-jén lép hatályba.
 
-[^3]: A 12. § a 13. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^5]: A 12. § a 13. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
