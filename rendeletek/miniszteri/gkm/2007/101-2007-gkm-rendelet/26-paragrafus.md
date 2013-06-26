@@ -1,4 +1,4 @@
-26. § (1)[^45] A pályahálózat-működtető a kapacitáselemzés vasúti igazgatási szerv részére történő megküldését követő hat hónapon belül kapacitásbővítési tervet készít. A kapacitásbővítési terv kidolgozására a hozzáférésre jogosultakkal folytatott konzultációt követően kerül sor.
+26. § (1)[^51] A pályahálózat-működtető a kapacitáselemzés vasúti igazgatási szerv részére történő megküldését követő hat hónapon belül kapacitásbővítési tervet készít. A kapacitásbővítési terv kidolgozására a hozzáférésre jogosultakkal és a kapacitásfoglalásra jogosultakkal folytatott konzultációt követően kerül sor.
 
 (2) A kapacitásbővítési terv meghatározza
 
@@ -18,4 +18,4 @@ g) az intézkedések megvalósításához szükséges pénzügyi fedezet (ezen b
 
 (3) A kapacitásbővítési tervet a pályahálózat-működtető az egyeztetések után esetlegesen fennmaradt véleménykülönbségeket is bemutatva küldi meg a kapacitás-elosztó szervezet és a vasúti igazgatási szerv részérére. Ha a kapacitásbővítési tervben meghatározott intézkedések állami támogatás felhasználását igénylik, akkor azt a pályahálózat-működtető a közlekedésért felelős miniszternek is megküldi. A kapacitásbővítési tervben foglalt intézkedések megvalósításáról a pályahálózat-működtető negyedévente beszámolót készít a vasúti igazgatási szerv részére.
 
-[^45]: A 26. § (1) bekezdése a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^51]: A 26. § (1) bekezdése a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése, a 32/2013. (VI. 21.) NFM rendelet 7. § f) pontja szerint módosított szöveg.

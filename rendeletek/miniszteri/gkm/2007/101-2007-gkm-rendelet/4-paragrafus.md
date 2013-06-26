@@ -24,11 +24,15 @@ ba) a vasúti pályahálózat igénybevételére vonatkozó jogosultság feltét
 
 bb) a vasúti pályahálózat-kapacitás biztosítására vonatkozó szerződés és a keretmegállapodás megkötésének szabályait,
 
-bc)[^13] a rendkívüli küldemények és a veszélyes áruk továbbítására vonatkozó szabályozás felsorolását,
+bc)[^16] a rendkívüli küldemények és a veszélyes áruk továbbítására vonatkozó szabályozás felsorolását,
 
 bd) a pályahálózat-működtető vasúti pályahálózat igénybevételéhez kapcsolódó szakmai utasításainak felsorolását, elektronikus úton történő elérhetőségük helyét, valamint a közzétételükre és hatálybalépésükre vonatkozó szabályokat,
 
 be) a vasúti járművekre és a személyzetre vonatkozó követelményeket,
+
+bf)[^17] a vasúti pályahálózat-kapacitás foglalására vonatkozó szerződés és keretszerződés megkötésének szabályait,
+
+bg)[^18] a Vtv. 54/A. § (7) bekezdésében megjelölt határidőre vonatkozó feltételeket,
 
 c) a vasúti pályahálózat műszaki, üzemi és forgalmi jellemzőit, ezen belül
 
@@ -38,7 +42,7 @@ cb) a vasúti pályahálózat technikai, technológiai jellemzőit,
 
 cc) a szakosított infrastruktúraként kijelölt vasúti pályaszakaszokat, valamint az azokon előnyben részesített vasúti szolgáltatásokat,
 
-cd)[^14] a forgalom-korlátozások elérhetőségét,
+cd)[^19] a forgalom-korlátozások elérhetőségét,
 
 ce) a vasúti pályahálózat rendelkezésre állásának korlátozásait, különösen a vasúti pályaszakaszok és állomások vasúti személyszállítási, illetve vasúti árutovábbítási tevékenységből történő kivonása vagy időszakos szüneteltetése miatt,
 
@@ -58,7 +62,7 @@ da) az eljárás leírását,
 
 db) a menetvonal-igénylés és a kapacitás-elosztás folyamatának határidőit,
 
-dc)[^15] az összehangolási eljárás és a vitás ügyek kezelésének részletes szabályait,
+dc)[^20] az összehangolási eljárás és a vitás ügyek kezelésének részletes szabályait,
 
 dd) a túlterhelt vasúti pályaszakaszokat és az alkalmazott kapacitás-elosztási prioritásokat,
 
@@ -74,7 +78,7 @@ di) az eljárást arra az esetre, ha a kiutalt menetvonalat nem használják,
 
 dj) a benyújtott menetvonal-igények módosításának [Vtv. 61. § (5) bekezdés] szabályait,
 
-e)[^16] a pályahálózat-működtető által nyújtott, a Vtv. 3. számú melléklete szerinti szolgáltatások részletes meghatározását, ezen belül
+e)[^21] a pályahálózat-működtető által nyújtott, a Vtv. 3. számú melléklete szerinti szolgáltatások részletes meghatározását, ezen belül
 
 ea) az alapszolgáltatásokat,
 
@@ -84,7 +88,7 @@ ec) a kiegészítő szolgáltatásokat,
 
 ed) a mellékszolgáltatásokat,
 
-f)[^17] a pályahálózat-működtető által nyújtott, a Vtv. 3. számú melléklete szerinti szolgáltatások díjait és a díjak előrelátható változását, ezen belül
+f)[^22] a pályahálózat-működtető által nyújtott, a Vtv. 3. számú melléklete szerinti szolgáltatások díjait és a díjak előrelátható változását, ezen belül
 
 fa) a díjszabási rendszer leírását,
 
@@ -96,13 +100,15 @@ fd) a díjak számlázására vonatkozó előírásokat,
 
 fe) a külön jogszabályban meghatározott Díjképzési Módszertant és Díjszámítási Dokumentumot.
 
-g)[^18]
+g)[^23]
 
 (2) A kapacitás-elosztó szervezet az egyes vasúti pályaszakaszokra készült kapacitásbővítési tervek felsorolását – hozzáférhetőségük megjelölésével – a Hálózati Üzletszabályzat mellékleteként teszi közzé.
 
-[^13]: A 4. § (1) bekezdés b) pont bc) alpontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^14]: A 4. § (1) bekezdés c) pont cd) alpontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^15]: A 4. § (1) bekezdés d) pont dc) alpontja a 45/2009. (IX. 17.) KHEM rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^16]: A 4. § (1) bekezdés e) pontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^17]: A 4. § (1) bekezdés f) pontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^18]: A 4. § (1) bekezdésének g) pontját a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A 4. § (1) bekezdés b) pont bc) alpontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 4. § (1) bekezdés b) pont bf) alpontját a 32/2013. (VI. 21.) NFM rendelet 2. §-a iktatta be.
+[^18]: A 4. § (1) bekezdés b) pont bg) alpontját a 32/2013. (VI. 21.) NFM rendelet 2. §-a iktatta be.
+[^19]: A 4. § (1) bekezdés c) pont cd) alpontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés d) pont dc) alpontja a 45/2009. (IX. 17.) KHEM rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdés e) pontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdés f) pontja a 6/2012. (II. 15.) NFM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^23]: A 4. § (1) bekezdésének g) pontját a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

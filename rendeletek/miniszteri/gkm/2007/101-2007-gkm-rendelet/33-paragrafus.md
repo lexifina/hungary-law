@@ -1,4 +1,4 @@
-## 32. §[^47]
+## 32. §[^55]
 
 33. § (1) A Vtv. 66. § (1) bekezdésében meghatározott belső megállapodás tartalmazza
 
@@ -18,6 +18,7 @@ a) biztosítja a folyamat átláthatóságát, valamint
 
 b) nem tartalmaz hivatkozást az integrált vasúti társaság olyan belső szabályzatára, amely nem része a belső megállapodásnak.
 
-(3) Az integrált vasúti társaságnak az általa működtetett nyílt hozzáférésű vasúti pályahálózathoz való hozzáférése nem valósíthat meg megkülönböztetést más hozzáférésre jogosulttal szemben.
+(3)[^56] Az integrált vasúti társaságnak az általa működtetett nyílt hozzáférésű vasúti pályahálózathoz való hozzáférése nem valósíthat meg megkülönböztetést más hozzáférésre jogosulttal vagy kapacitásfoglalásra jogosulttal szemben.
 
-[^47]: A 32. §-t a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^55]: A 32. §-t a 13/2009. (III. 27.) KHEM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A 33. § (3) bekezdése a 32/2013. (VI. 21.) NFM rendelet 7. § h) pontja szerint módosított szöveg.

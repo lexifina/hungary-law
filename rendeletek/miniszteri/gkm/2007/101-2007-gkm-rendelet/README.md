@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-101-20-
 | 2011-01-01 | 2007-101-20-0L.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-02-23 | 2007-101-20-0L.8 | 6/2012. (II. 15.) NFM rendelet |
 | 2012-09-02 | 2007-101-20-0L.9 | 50/2012. (VIII. 28.) NFM rendelet |
+| 2013-06-26 | 2007-101-20-0L.10 | 32/2013. (VI. 21.) NFM rendelet |
