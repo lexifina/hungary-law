@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-171-00-00
 | --- | --- | --- |
 | 2012-11-28 | 2012. évi CLXXI. törvény | 2012-171-00-00.0 (közlönyállapot) |
 | 2012-11-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-171-00-00.1 |
+| 2013-06-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-171-00-00.2 |
