@@ -24,9 +24,9 @@ b) a szolgáltató írásban úgy nyilatkozik, hogy nem tudja az igényelt szolg
 
 c) a szolgáltatónak okirattal igazolja, hogy a szolgáltató által a (3) bekezdés szerint meghatározott ellenértéknél legalább 20%-kal kedvezőbb ellenértéken tudja mástól a szolgáltatást beszerezni.
 
-(6)[^7] A szolgáltató a (2)–(3) bekezdés szerint bejelentett igényeket havonta összesíti és az adatokat a következő hónap 15. napjáig megküldi a Hivatalnak.
+(6)[^7] A szolgáltató a (2)–(3) bekezdés szerint bejelentett igényeket havonta összesíti és az adatokat a következő hónap 15. napjáig megküldi a miniszternek.
 
-(7)[^8] Az (1) bekezdésben megjelölt szervezetek kötelesek a 3. § szerinti szolgáltatást nyújtó előző évi rendezvényekről a (2) és (5) bekezdés szerinti adatokat tartalmazó összefoglalót készíteni, amelyet minden év január 31. napjáig megküldenek a Hivatalnak.
+(7)[^8] Az (1) bekezdésben megjelölt szervezetek kötelesek a 3. § szerinti szolgáltatást nyújtó előző évi rendezvényekről a (2) és (5) bekezdés szerinti adatokat tartalmazó összefoglalót készíteni, amelyet minden év január 31. napjáig megküldenek a miniszternek.
 
-[^7]: A 15. § (6) bekezdése a 43/2012. (IX. 18.) KIM rendelet 5. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^8]: A 15. § (7) bekezdése a 43/2012. (IX. 18.) KIM rendelet 5. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^7]: A 15. § (6) bekezdése a 43/2012. (IX. 18.) KIM rendelet 5. § (1) bekezdés d) pontja, a 7/2013. (VI. 26.) KIM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 15. § (7) bekezdése a 43/2012. (IX. 18.) KIM rendelet 5. § (1) bekezdés d) pontja, a 7/2013. (VI. 26.) KIM rendelet 2. § (1) bekezdése szerint módosított szöveg.
