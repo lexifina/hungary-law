@@ -1,0 +1,1 @@
+A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 156. § (2) bekezdésében foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § r) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

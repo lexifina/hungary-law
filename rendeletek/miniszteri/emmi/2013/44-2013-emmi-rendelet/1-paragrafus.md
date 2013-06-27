@@ -1,0 +1,5 @@
+1. § (1) A Nemzetiségi Tanulmányi Ösztöndíj (a továbbiakban: ösztöndíj) célja, hogy – a magyarországi nemzetiségekkel kapcsolatos állami feladatok ellátása keretében – felsőoktatási intézményben történő továbbtanulásuk elősegítése érdekében támogatásban részesítse az anyanyelvű és kétnyelvű nemzetiségi nevelést, illetve oktatást folytató középfokú iskolák ajánlása alapján a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 1. melléklete által felsorolt valamely nemzetiséghez tartozó, középiskolai kiemelkedő képességű tanulókat.
+
+(2) A nemzetiségpolitikáért felelős miniszter (a továbbiakban: miniszter) által nyújtott ösztöndíj forrása a Magyarország éves költségvetéséről szóló törvény a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) fejezetében meghatározott nemzetiségi célú előirányzat.
+
+(3) Az ösztöndíj mértéke tanulónként, havonta hatvanezer forint, mely összeg a megállapítását követő szeptember 1. napját követő két tanítási évben kerül folyósításra.
