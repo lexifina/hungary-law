@@ -1,1 +1,0 @@
-A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Nek. tv.) 156. § (2) bekezdésben foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § s) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
