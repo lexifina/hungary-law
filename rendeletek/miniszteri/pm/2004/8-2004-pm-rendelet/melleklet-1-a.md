@@ -32,7 +32,7 @@
 
 |  |  | 1.11. | Pénzforgalmi (átutalási) számlaszáma(i) és a számlavezetőpénzintézet(ek) megnevezése, fiókja, számlaszáma: |
 
-|  |  | 1.12. | Hegyközségi kódszáma: |
+|  |  | 1.12. | Gazdasági aktaszáma: |
 
 |  | 2. | Jogi személy, jogi személyiséggel nem rendelkező szervezet esetében |
 
@@ -52,7 +52,7 @@
 
 |  |  | 2.8. | Levelezési címe: |
 
-|  |  | 2.9. | Hegyközségi kódszáma: |
+|  |  | 2.9. | Gazdasági aktaszáma: |
 
 |  |  | 2.10. | AEO tanúsítvány száma: |
 
@@ -88,7 +88,7 @@
 
 |  |  | 4.8. | Jövedéki biztosítékra (felajánlott összeg, teljesítési módja): |
 
-|  |  | 4.9. | Utolsó három gazdasági év átlagában előállításra kerülő szőlőbor mennyiségére: |
+|  |  | 4.9. | Előállításra kerülő szőlőbor mennyiségére, valamint borászati termékek (szőlőbor, szőlőmust, gyöngyöző bor, palackos pezsgő) vásárlására: |
 
 |  |  | 4.10. | A szőlőbor kiszerelésére, termelői borkimérés keretében történő értékesítésére: |
 
@@ -97,6 +97,8 @@
 |  |  | 4.12. | Jövedéki termék, megfigyelt termék közösségen belüli beszerzésére, kiszállítására: |
 
 |  |  | 4.13. | Egyszerűsített adóraktárban történő pezsgő előállításra: |
+
+|  |  | 4.14. | Az egyszerűsített szőlőbor-pincekönyv vezetésére:” |
 
 | II. Adóraktári adatok (adóraktáranként) |
 
@@ -178,6 +180,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^638]
+1/A. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^641]
 
-[^638]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^641]: Az 1/A. számú mellékletet a 40/2007. (XII. 29.) PM rendelet 38. § (1) bekezdése iktatta be, szövege a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, az 54/2011. (XII. 29.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.

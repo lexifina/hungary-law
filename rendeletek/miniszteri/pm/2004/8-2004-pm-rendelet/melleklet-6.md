@@ -98,6 +98,6 @@
 
 |  | ......................................................................... a kérelmező aláírása (bélyegzője) |
 
-6. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^646]
+6. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^649]
 
-[^646]: A 6. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (6) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^649]: A 6. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 44/2009. (XII. 29.) PM rendelet 41. § (6) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.

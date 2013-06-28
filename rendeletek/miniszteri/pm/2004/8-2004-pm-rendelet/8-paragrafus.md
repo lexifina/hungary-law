@@ -1,8 +1,8 @@
-8. § (1)[^58] A Jöt. 37. § (7)–(8) bekezdésének és 48/C. §-ának alkalmazásában az adóraktári (egyszerűsített adóraktári) engedélykérelemben megadott, valamint az adóraktári engedélyben [a betétlap(ok)ban] foglalt adatokat érintő minden változást, módosítást bejelentési kötelezettséggel járó változásnak kell tekinteni.
+8. § (1)[^60] A Jöt. 37. § (7)–(8) bekezdésének és 48/C. §-ának alkalmazásában az adóraktári (egyszerűsített adóraktári) engedélykérelemben megadott, valamint az adóraktári engedélyben [a betétlap(ok)ban] foglalt adatokat érintő minden változást, módosítást bejelentési kötelezettséggel járó változásnak kell tekinteni.
 
-(2)[^59] A bejelentési kötelezettséggel járó változást a vámszervhez a változás bekövetkeztétől számított 15 napon belül, illetve a Jöt. 48/C. §-a szerinti jogutódlás esetén legkésőbb a cégbejegyzési vagy változásbejegyzési kérelem cégbírósághoz történő benyújtásának napját követő 5. munkanapig – a borkísérő okmány aláírására jogosultak személyének változása esetén legkésőbb a következő munkanapon – be kell jelenteni. A bejelentés az 1. számú melléklet, 1/A. számú melléklet vagy az 1/B. számú melléklet szerinti adattartalmú, a vámhatóság által az engedélykérelemre rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon teljesíthető. A Jöt. 37. § (8) bekezdése szerinti bejelentés engedély módosítása iránti kérelemnek, minden egyéb bejelentés változásbejelentésnek minősül függetlenül attól, hogy a bejelentés nyomán szükséges-e az engedélyt módosítani.
+(2)[^61] A bejelentési kötelezettséggel járó változást a vámszervhez a változás bekövetkeztétől számított 15 napon belül, illetve a Jöt. 48/C. §-a szerinti jogutódlás esetén legkésőbb a cégbejegyzési vagy változásbejegyzési kérelem cégbírósághoz történő benyújtásának napját követő 5. munkanapig – a borkísérő okmány aláírására jogosultak személyének változása esetén legkésőbb a következő munkanapon – be kell jelenteni. A bejelentés az 1. számú melléklet, 1/A. számú melléklet vagy az 1/B. számú melléklet szerinti adattartalmú, a vámhatóság által az engedélykérelemre rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon teljesíthető. A Jöt. 37. § (8) bekezdése szerinti bejelentés engedély módosítása iránti kérelemnek, minden egyéb bejelentés változásbejelentésnek minősül függetlenül attól, hogy a bejelentés nyomán szükséges-e az engedélyt módosítani.
 
-(3)[^60] A változásbejelentéshez és az adóraktári engedély (egyszerűsített adóraktári engedély) módosítása iránti kérelemhez csatolni kell:
+(3)[^62] A változásbejelentéshez és az adóraktári engedély (egyszerűsített adóraktári engedély) módosítása iránti kérelemhez csatolni kell:
 
 a) a változással érintett eredeti adóraktári engedélyt [betétlapo(ka)t];
 
@@ -20,12 +20,12 @@ b) az egyszerűsített adóraktár engedélyesének az egyszerűsített adórakt
 
 ## meghatározott dokumentációt, okiratot kell csatolnia.
 
-(5)[^61]
+(5)[^63]
 
-(6)[^62] A vámszerv az engedély módosítása iránti kérelemben vagy a változásbejelentésben foglaltak alapján az adóraktári (egyszerűsített adóraktári) engedélyt vagy a betétlapot – szükség esetén mindkettőt – bevonja, és új adóraktári (egyszerűsített adóraktári) engedélyt vagy betétlapot ad ki.
+(6)[^64] A vámszerv az engedély módosítása iránti kérelemben vagy a változásbejelentésben foglaltak alapján az adóraktári (egyszerűsített adóraktári) engedélyt vagy a betétlapot – szükség esetén mindkettőt – bevonja, és új adóraktári (egyszerűsített adóraktári) engedélyt vagy betétlapot ad ki.
 
-[^58]: A 8. § (1) bekezdése a 38/2008. (XII. 31.) PM rendelet 15. § (3) bekezdése szerint módosított szöveg.
-[^59]: A 8. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^60]: A 8. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^61]: A 8. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 1. pontja hatályon kívül helyezte.
-[^62]: A 8. § (6) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^60]: A 8. § (1) bekezdése a 38/2008. (XII. 31.) PM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^61]: A 8. § (2) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^62]: A 8. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^63]: A 8. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 1. pontja hatályon kívül helyezte.
+[^64]: A 8. § (6) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (3) bekezdésével megállapított szöveg.

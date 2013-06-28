@@ -1,6 +1,6 @@
-## Egyéb bejelentési, nyilvántartás-vezetési kötelezettség[^189]
+## Egyéb bejelentési, nyilvántartás-vezetési kötelezettség[^191]
 
-31/A. §[^190] (1) A Jöt. 62/A. § (1) bekezdés szerinti, ömlesztetten szállított ásványolajat beszerző, szállító személy bejelentését a 29. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban köteles
+31/A. §[^192] (1) A Jöt. 62/A. § (1) bekezdés szerinti, ömlesztetten szállított ásványolajat beszerző, szállító személy bejelentését a 29. számú melléklet szerinti adattartalmú, a vámhatóság által rendszeresített formanyomtatványon vagy a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban köteles
 
 a) magyarországi felhasználási céllal történő beszerzés esetén a felhasználás,
 
@@ -34,5 +34,5 @@ e) a tevékenység befejezésének tervezett időpontját.
 
 (6) Az (5) bekezdés szerinti bejelentésben megadott adatok változását és a rekultivációs tevékenység befejezését legkésőbb a változás, illetve a befejezés napján be kell jelenteni az illetékes vámszervhez.
 
-[^189]: A 31/A. §-t megelőző alcímet az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
-[^190]: A 31/A. §-t az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
+[^191]: A 31/A. §-t megelőző alcímet az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
+[^192]: A 31/A. §-t az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.

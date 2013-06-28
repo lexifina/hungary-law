@@ -1,9 +1,9 @@
-41. § (1)[^242] A gázolaj jelölését finomítói ásványolajraktárban vámhatósági felügyelet mellett lehet elvégezni, melyről a hatósági felügyeletet ellátó vámszerv jegyzőkönyvet vesz fel. A jegyzőkönyvnek tartalmaznia kell a jelölt gázolaj és a felhasznált jelölőanyag mennyiségét.
+41. § (1)[^244] A gázolaj jelölését finomítói ásványolajraktárban vámhatósági felügyelet mellett lehet elvégezni, melyről a hatósági felügyeletet ellátó vámszerv jegyzőkönyvet vesz fel. A jegyzőkönyvnek tartalmaznia kell a jelölt gázolaj és a felhasznált jelölőanyag mennyiségét.
 
-(2)[^243] Jelölt gázolajat finomítói ásványolajraktárból kizárólag kikötői adóraktárba, továbbá olyan ásványolajtároló-adóraktárba lehet kitárolni, amelynek kialakítása alkalmas a jelölt gázolaj hajók üzemanyagtartályába való közvetlen betöltésére. A jelölt gázolaj finomítói ásványolajraktárból való kitárolása továbbá történhet a hajók üzemanyagtartályába való közvetlen betöltéssel is.
+(2)[^245] Jelölt gázolajat finomítói ásványolajraktárból kizárólag kikötői adóraktárba, továbbá olyan ásványolajtároló-adóraktárba lehet kitárolni, amelynek kialakítása alkalmas a jelölt gázolaj hajók üzemanyagtartályába való közvetlen betöltésére. A jelölt gázolaj finomítói ásványolajraktárból való kitárolása továbbá történhet a hajók üzemanyagtartályába való közvetlen betöltéssel is.
 
-(3)[^244] A jelölt gázolaj hajók üzemanyagtartályába való közvetlen betöltését végző, a (2) bekezdésben említett ásványolaj-adóraktárnak a jelölt gázolajról külön termékmérleget kell vezetnie, és a termékmérleg havi zárásában a 40. § (3) bekezdés c) pontja szerinti átfolyásmérő óraállását is fel kell tüntetnie, a tárgyhó utolsó napján leolvasott értéknek megfelelően.
+(3)[^246] A jelölt gázolaj hajók üzemanyagtartályába való közvetlen betöltését végző, a (2) bekezdésben említett ásványolaj-adóraktárnak a jelölt gázolajról külön termékmérleget kell vezetnie, és a termékmérleg havi zárásában a 40. § (3) bekezdés c) pontja szerinti átfolyásmérő óraállását is fel kell tüntetnie, a tárgyhó utolsó napján leolvasott értéknek megfelelően.
 
-[^242]: A 41. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^243]: A 41. § (2) bekezdése a 45/2005. (XII. 26.) PM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^244]: A 41. § (3) bekezdését a 45/2005. (XII. 26.) PM rendelet 4. § (2) bekezdése iktatta be.
+[^244]: A 41. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^245]: A 41. § (2) bekezdése a 45/2005. (XII. 26.) PM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^246]: A 41. § (3) bekezdését a 45/2005. (XII. 26.) PM rendelet 4. § (2) bekezdése iktatta be.

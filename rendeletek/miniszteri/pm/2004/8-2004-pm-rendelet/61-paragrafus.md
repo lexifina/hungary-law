@@ -1,6 +1,6 @@
 ## Részleges denaturálás
 
-61. § (1)[^323] A Jöt. 68. §-ában előírt részleges denaturáláshoz – a (3) bekezdésben foglalt eltéréssel – az alkoholtermék tiszta etilalkohol tartalmára vonatkoztatva legalább
+61. § (1)[^325] A Jöt. 68. §-ában előírt részleges denaturáláshoz – a (3) bekezdésben foglalt eltéréssel – az alkoholtermék tiszta etilalkohol tartalmára vonatkoztatva legalább
 
 a) 0,001 tömegszázalék denatónium benzoátot (a továbbiakban: I. típusú részleges denaturálószer),
 
@@ -24,11 +24,11 @@ c) a III. típusú részleges denaturálószer alkalmazása esetén 0,5 liter me
 
 ## kell hozzákeverni.
 
-(3)[^324] Az alkoholtermék részleges denaturálása az (1)–(2) bekezdésben foglaltakon kívül a 89. § (1) bekezdése szerinti esetben a vámszerv által engedélyezett, az adómentes felhasználó keretengedélyében rögzített más eljárással is lehetséges, amennyiben annak eredményeként a denaturált alkoholtermék élvezeti cikként való felhasználásra alkalmatlanná válik.
+(3)[^326] Az alkoholtermék részleges denaturálása az (1)–(2) bekezdésben foglaltakon kívül a 89. § (1) bekezdése szerinti esetben a vámszerv által engedélyezett, az adómentes felhasználó keretengedélyében rögzített más eljárással is lehetséges, amennyiben annak eredményeként a denaturált alkoholtermék élvezeti cikként való felhasználásra alkalmatlanná válik.
 
-(4)[^325] A részleges denaturálás a hatósági felügyelet ellátó vám- és pénzügyőri hivatal ellenőrzése mellett és – a (7) bekezdésben foglalt eltéréssel – csak szeszüzemben végezhető. A részleges denaturálás időpontját a szeszüzem a hatósági felügyeletet ellátó vámszervhez legalább 5 nappal korábban köteles bejelenteni.
+(4)[^327] A részleges denaturálás a hatósági felügyelet ellátó vám- és pénzügyőri hivatal ellenőrzése mellett és – a (7) bekezdésben foglalt eltéréssel – csak szeszüzemben végezhető. A részleges denaturálás időpontját a szeszüzem a hatósági felügyeletet ellátó vámszervhez legalább 5 nappal korábban köteles bejelenteni.
 
-(5)[^326] A részleges denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, második példánya a hatósági felügyeletet ellátó vámszerv példánya. A jegyzőkönyvnek tartalmazni kell
+(5)[^328] A részleges denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, második példánya a hatósági felügyeletet ellátó vámszerv példánya. A jegyzőkönyvnek tartalmazni kell
 
 a) a szeszüzem jövedéki számát;
 
@@ -38,7 +38,7 @@ c) a denaturálásra került alkoholtermék valódi szeszfokát, liter vagy kilo
 
 d) a felhasznált részleges denaturálószer típusát [a (3) bekezdés szerinti esetben megnevezését] és mennyiségét (liter, kilogramm);
 
-e)[^327] a részlegesen denaturált alkoholtermék liter, kilogramm és hektoliterfok mennyiségét.
+e)[^329] a részlegesen denaturált alkoholtermék liter, kilogramm és hektoliterfok mennyiségét.
 
 (6) A (3) bekezdés szerinti esetben a részleges denaturálásról készített jegyzőkönyvhöz csatolni kell az (1)–(2) bekezdésben meghatározottaktól eltérő részleges denaturálószer alkalmazását engedélyező vámhatósági határozat másolatát.
 
@@ -52,8 +52,8 @@ e)[^327] a részlegesen denaturált alkoholtermék liter, kilogramm és hektolit
 
 (11) A részlegesen denaturált alkoholt az egyéb alkoholterméktől elkülönítve kell a szeszüzemben tárolni. A nem ugyanazon denaturálószerrel denaturált alkoholterméket összekeverni tilos.
 
-[^323]: A 61. § (1) bekezdésének bevezető mondata a 46/2004. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg.
-[^324]: A 61. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^325]: A 61. § (4) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
-[^326]: A 61. § (5) bekezdés első mondata a 38/2008. (XII. 31.) PM rendelet 10. §-ával megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^327]: A 61. § (5) bekezdés e) pontja a 38/2008. (XII. 31.) PM rendelet 10. §-ával megállapított szöveg.
+[^325]: A 61. § (1) bekezdésének bevezető mondata a 46/2004. (XII. 29.) PM rendelet 12. §-ával megállapított szöveg.
+[^326]: A 61. § (3) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
+[^327]: A 61. § (4) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (10) bekezdése szerint módosított szöveg.
+[^328]: A 61. § (5) bekezdés első mondata a 38/2008. (XII. 31.) PM rendelet 10. §-ával megállapított, a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^329]: A 61. § (5) bekezdés e) pontja a 38/2008. (XII. 31.) PM rendelet 10. §-ával megállapított szöveg.
