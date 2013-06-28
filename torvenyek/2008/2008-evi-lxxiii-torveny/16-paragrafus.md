@@ -16,4 +16,8 @@ Pálinka és törkölypálinka készítésénél felhasználható segédanyagok
 
 4. derítőszerek;
 
-5. a nehézfémek eltávolítására alkalmas segédanyagok.
+5. a nehézfémek eltávolítására alkalmas segédanyagok;
+
+6. habzásgátló;
+
+7. tápsó.
