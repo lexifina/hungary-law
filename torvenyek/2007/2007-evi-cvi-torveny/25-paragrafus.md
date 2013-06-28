@@ -10,7 +10,7 @@ d) a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezet 
 
 e) állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásban hamis adatot szolgáltatott és ezért az eljárásból kizárták.
 
-(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés szerinti kizáró ok, vagy a szerződő fél a 25/A. § (2) bekezdésében meghatározott igazolási kötelezettségének a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem tesz eleget, az MNV Zrt. jogosult a szerződést azonnali hatállyal felmondani.
+(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés szerinti kizáró ok, vagy a szerződő fél a 25/A. § (2) bekezdésében meghatározott igazolási kötelezettségének a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem tesz eleget, az a tulajdonosi joggyakorló jogosult a szerződést azonnali hatállyal felmondani.
 
 (3) Az értékesítés szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
