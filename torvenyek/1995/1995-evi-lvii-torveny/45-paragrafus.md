@@ -72,7 +72,7 @@ rendeletben történő megállapítására.
 
 a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
 
-b) a vízgazdálkodási tanácsok összetételére és működésére vonatkozó szabályok;
+b)
 
 c) a vízgazdálkodás országos és területi rendjének;
 
