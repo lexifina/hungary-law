@@ -92,7 +92,7 @@
 
 |  | 4–2 | Balaton közvetlen | KÖDU-NeKI, Székesfehérvár |
 
-2. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^48]
+2. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^46]
 
 I. A vízgyűjtő-gazdálkodási terv tartalma
 
@@ -232,4 +232,4 @@ II. A vízgyűjtő-gazdálkodási terv felülvizsgálata során beépítendő to
 
 5. A felszín alatti vizek védelméről szóló külön jogszabály szerint megállapított küszöbértékeket érintő változásokról szóló jelentés.
 
-[^48]: A 2. számú melléklet a 314/2008. (XII. 22.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^46]: A 2. számú melléklet a 314/2008. (XII. 22.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
