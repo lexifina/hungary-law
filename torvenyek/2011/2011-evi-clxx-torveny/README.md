@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-170-00-00
 | 2012-06-20 | 2012. évi LXX. törvény | 2011-170-00-00.5 |
 | 2012-12-28 | 2012. évi CCXV. törvény | 2011-170-00-00.6 |
 | 2013-05-17 | 2013. évi LIII. törvény | 2011-170-00-00.7 |
+| 2013-06-28 | 2013. évi CXVIII. törvény | 2011-170-00-00.8 |

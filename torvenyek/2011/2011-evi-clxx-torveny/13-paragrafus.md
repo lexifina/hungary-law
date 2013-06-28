@@ -1,4 +1,4 @@
-13. § (1) A pénzügyi intézmény minden hónap 15. napjáig írásban bejelenti a Nemzeti Eszközkezelőnek azon lakóingatlanok címét, helyrajzi számát, az ingatlan tulajdonosának nevét, amelyekre vonatkozó szándéknyilatkozatot az előző havi bejelentés óta továbbított.
+13. § (1) A pénzügyi intézmény minden hónap 15. napjáig írásban bejelenti a Nemzeti Eszközkezelőnek azon lakóingatlanok címét, helyrajzi számát, a lakóingatlan tulajdonosának nevét, amelyekre vonatkozó szándéknyilatkozatot az előző havi bejelentés óta továbbított.
 
 (2) A pénzügyi intézmény által a Nemzeti Eszközkezelőnek továbbított, a 11. § (2) bekezdése szerinti szándéknyilatkozathoz
 
@@ -22,4 +22,4 @@ bc) a jelzáloghitel-szerződésben meghatározott hitelösszeget forintban, dev
 
 (5) Ha ugyanazon hitelező javára a szándéknyilatkozattal érintett lakóingatlan vonatkozásában több jelzálogjogot is bejegyeztek az ingatlan-nyilvántartásba, e hitelezőt a követelés bejelentése és a vételár 20. § szerinti felosztása során minden bejegyzett jelzálogjog tekintetében önálló hitelezőnek kell tekinteni, kivéve ha a jelzálogjogok az ingatlan-nyilvántartásban közvetlenül egymást követő ranghelyen állnak, vagy a hitelezők összevont alapú felügyelet hatálya alá tartoznak. A zálogjogi ranghelyek sorrendjénél nem kell figyelembe venni a lakásépítési vagy lakásvásárlási kedvezményből eredően, illetve bármely más korábbi állami támogatásra tekintettel az állammal szemben fizetési kötelezettséget biztosító, az államnak az ingatlanra e jogcímekre tekintettel bejegyzett jelzálogjogát.
 
-(6) Ha a jelzálogjogosultnak egymást követően van az ingatlanon bejegyzett jelzálogjoga, vagy a hitelezők összevont alapú felügyelet hatálya alá tartoznak, a követeléseket a vételárfelosztásnál egy követelésként kell figyelembe venni, a legelőrébb álló jelzálogjoghoz tartozó, az 1. mellékletben meghatározott kielégítési mértéknek megfelelően.
+(6) Ha a jelzálogjogosultnak egymást követően van a lakóingatlanon bejegyzett jelzálogjoga, vagy a hitelezők összevont alapú felügyelet hatálya alá tartoznak, a követeléseket a vételárfelosztásnál egy követelésként kell figyelembe venni, a legelőrébb álló jelzálogjoghoz tartozó, az 1. mellékletben meghatározott kielégítési mértéknek megfelelően.

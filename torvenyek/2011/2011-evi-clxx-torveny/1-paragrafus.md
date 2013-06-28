@@ -38,4 +38,6 @@ id) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és ta
 
 j) végrehajtás alá vont ingatlan: az a lakóingatlan, amelyet – a végrehajtási jog ingatlan-nyilvántartásba történő bejegyzésével – végrehajtás alá vontak,
 
-k) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba.
+k) zálogkötelezett: a hiteladós személyétől eltérő azon természetes személy, akinek lakóingatlanán pénzügyi intézménnyel kötött jelzáloghitel-szerződés biztosítékaként jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
+
+l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésébe adott, az e törvény szerint nem lakóingatlannak és nem lakhatási célú ingatlannak minősülő egyéb ingatlan, valamint a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlan, amelyre nézve a bérleti jogviszony megszűnt és jogszabályban meghatározott módon hasznosításra kerül.

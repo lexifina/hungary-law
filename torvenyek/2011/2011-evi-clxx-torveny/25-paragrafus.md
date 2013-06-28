@@ -18,4 +18,8 @@ e) a Nemzeti Eszközkezelő által megvásárolandó lakóingatlanok maximális 
 
 f) a Nemzeti Eszközkezelő 4. § (2) bekezdésében megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
 
-g) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait.
+g) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait,
+
+h) a tartalék ingatlan hasznosításának, bérbeadásának feltételeit, különös tekintettel a bérlőkiválasztás módjára, a lakbér mértékére, a bérleti szerződés időtartamára és a bérlő kötelezettségeire,
+
+i) a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanok elidegenítésére vonatkozó részletes szabályokat.

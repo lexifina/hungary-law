@@ -6,4 +6,4 @@
 
 (4) A Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlan ingyenes önkormányzati tulajdonba adása esetén a települési önkormányzat az átadott vagyont elsősorban bérleti szerződés alapján, bérbeadással hasznosítja.
 
-(5)
+(5) Az (1) bekezdés szerinti tulajdonba adás az (1) bekezdésben meghatározott feltétel hiányában akkor is kezdeményezhető, ha a települési önkormányzat az önkormányzati tulajdonba adás kezdeményezésének időpontjáig valamennyi – a közigazgatási területén lévő – olyan lakóingatlan átvételét vállalja, amelyre vonatkozóan az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az e törvény szerint létrejött bérleti jogviszony megszűnt.
