@@ -28,7 +28,9 @@ j) követelések megbízás alapján történő kezelésére, behajtására irá
 
 k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
 
-l) külön jogszabályban meghatározott közösségi támogatások közvetítését
+l) külön jogszabályban meghatározott közösségi támogatások közvetítését,
+
+m) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvényben meghatározott úthasználati jogosultság megszerzésével összefüggő tevékenységet
 
 folytathat.
 

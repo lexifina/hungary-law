@@ -7,7 +7,3 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 1. Az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról (átdolgozott szöveg).
 
 2. A Tanács 1991. június 10-én kelt 91/308/EGK irányelve a pénzügyi rendszer pénzmosás céljára való felhasználásának megelőzéséről.
-
-3. Az Európai Parlament és a Tanács 1994. május 30-án kelt 94/19/EGK irányelve a betétbiztosító rendszerekről.
-
-4. Az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg).
