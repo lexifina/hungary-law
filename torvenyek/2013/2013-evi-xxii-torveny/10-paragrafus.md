@@ -1,12 +1,10 @@
 10. § (1) A Hivatal elnöke jogviszonyának 8. § (1) bekezdés a) és c) pontja, valamint elnökhelyettese jogviszonyának 9. § (1) bekezdés a) és d) pontja szerinti megszűnése esetén megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítésre jogosult. Ha az elnök három évnél rövidebb ideig töltötte be tisztségét, úgy a (2) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
 
-(2) A Hivatal elnöke és elnökhelyettese jogviszonyának megszűnése után egy éven át
+(2) A Hivatal elnöke és elnökhelyettese jogviszonyának megszűnése után egy éven át, ide nem értve a többségi állami tulajdonban lévő gazdasági társaságokat,
 
-a) nem létesíthet munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
+a) nem létesíthet munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal, valamint
 
-b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
-
-c) nem szerezhet részesedést olyan gazdasági társaságban,
+b) nem szerezhet részesedést olyan gazdasági társaságban,
 
 amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűnését megelőző három évben érintette.
 
