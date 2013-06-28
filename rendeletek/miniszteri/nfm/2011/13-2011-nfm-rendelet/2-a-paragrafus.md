@@ -1,9 +1,11 @@
-2/A. §[^3] (1) A földgáz biztonsági készlet mértéke 2012. március 20-tól 815 millió m3 mobil földgázkészlet.
+2/A. §[^3] (1)[^4] A földgáz biztonsági készlet mértéke 2013. július 1-jétől 615 millió m3 mobil földgázkészlet.
 
 (2) Az (1) bekezdés szerinti földgáz biztonsági készlet mértékhez tartozó
 
 a) betárolási kapacitás 342 millió MJ/nap,
 
-b) kitárolási kapacitás 684 millió MJ/nap.
+b)[^5] kitárolási kapacitás legfeljebb 684 millió MJ/nap.
 
 [^3]: A 2/A. §-t a 15/2012. (III. 14.) NFM rendelet 1. §-a iktatta be.
+[^4]: A 2/A. § (1) bekezdése a 34/2013. (VI. 27.) NFM rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2/A. § (2) bekezdés b) pontja a 34/2013. (VI. 27.) NFM rendelet 2. § (4) bekezdés b) pontja szerint módosított szöveg.
