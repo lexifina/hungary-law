@@ -28,6 +28,8 @@ k) a feladatok ellátásával kapcsolatos további szükséges feltételeket.
 
 (4) A kijelölő jogszabály – az (1)–(3) bekezdésben foglaltak szerint – a közlekedésszervező feladatává teheti az utastájékoztatást, a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések rendjének meghatározását, a jegy- és bérletértékesítést, illetve a jegy- és bérletellenőrzést, valamint a bevételek beszedését.
 
+(4a) A kijelölő jogszabály a közlekedésszervező feladatává teheti a közösségi kerékpáros rendszer létrehozását és fenntartását, amennyiben az a települési önkormányzat – a fővárosban a Fővárosi Önkormányzat – döntése alapján a helyi személyszállítási szolgáltatások integrált részét képezi.
+
 (5) Ha a kijelölő jogszabály a bevételek beszedését a közlekedésszervező feladataként rögzíti, a közlekedési közszolgáltatásokkal kapcsolatos díjbevételek beszedésére, szociális menetdíj-támogatás igénylésére a közlekedésszervező az e törvényben meghatározott szabályok szerint jogosult és kötelezett.
 
 (6) A közlekedésszervező a kijelölő jogszabályban, vagy a feladatellátási szerződésben meghatározott feladatok teljesítését nem adhatja át másnak, de jogosult a feladatok teljesítésébe a kijelölő jogszabályban, vagy a feladat-ellátási szerződésben meghatározott módon és mértékben közreműködőt bevonni.

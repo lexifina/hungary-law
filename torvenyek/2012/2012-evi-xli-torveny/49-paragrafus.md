@@ -26,7 +26,7 @@ i) a vízi személyszállítási szolgáltatás feltételeire, a víziközleked�
 
 j) a törvény 5. § (1) bekezdés e) pontjában, a 7. § (2)–(4) bekezdésében, valamint a 32. § (1) bekezdésének e)– h) pontjában, a (4) és (6) bekezdésében, valamint a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, a központi adatbázisok és az azokhoz kapcsolódó központi szolgáltatások kialakításával, működtetésével, fejlesztésével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, továbbá a központi adatbázisok működtetésére és a központi koordinációs feladatok ellátását végző szervezet kijelölését, továbbá
 
-k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által alkalmazható bírság mértékére, valamint megfizetésére vonatkozó részletes szabályokat,
+k)
 
 k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat
 

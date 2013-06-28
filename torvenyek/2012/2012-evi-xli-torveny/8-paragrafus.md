@@ -1,12 +1,14 @@
-8. § (1) A vasút-, trolibusz- és az autóbusz-állomáson a közforgalom számára nyitva álló helyen, a megállóhelyen, kikötőben, valamint a személyszállító vasúti járművek, trolibuszok, az autóbuszok és a hajók, kompok belterében, a vasút-, trolibusz- és az autóbusz-állomáson, hajóállomáson és megállóhelyen található berendezések, a személyszállító vasúti járművek, trolibusz, autóbusz, és a hajók, kompok, továbbá az utasok életének, személyének, testi épségének és vagyontárgyaik védelme céljából az információs önrendelkezési jogról és az információsszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések betartásával, a szolgáltató, a közlekedésszervező, valamint a vasút-, trolibusz-, autóbusz- és hajóállomás vagy megállóhely, kikötő üzemeltetője (e szakasz alkalmazásában a továbbiakban együtt: szolgáltató) jogosult elektronikus biztonságtechnikai rendszeren keresztül megfigyelést folytatni, a megfigyelés során kép- és hangfelvételt készíteni, valamint a készített kép- és hangfelvételt kezelni.
+8. § (1) A vasút-, trolibusz-, autóbusz- és közösségi kerékpár-állomáson a közforgalom számára nyitva álló helyen, a megállóhelyen, kikötőben, valamint a személyszállító vasúti járművek, trolibuszok, az autóbuszok és a hajók, kompok belterében, a vasút-, trolibusz-, autóbusz- és közösségi kerékpár-állomáson, hajóállomáson és megállóhelyen található berendezések, a személyszállító vasúti járművek, trolibusz, autóbusz, közösségi kerékpáros rendszer eszközei és a hajók, kompok, továbbá az utasok életének, személyének, testi épségének és vagyontárgyaik védelme céljából az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések betartásával, a szolgáltató, a közlekedésszervező, valamint a vasút-, trolibusz-, autóbusz-, közösségi kerékpár- és hajóállomás vagy megállóhely, kikötő üzemeltetője (e szakasz alkalmazásában a továbbiakban együtt: szolgáltató) jogosult elektronikus biztonságtechnikai rendszeren keresztül megfigyelést folytatni, a megfigyelés során kép- és hangfelvételt készíteni, valamint a készített kép- és hangfelvételt kezelni.
 
 (2) A szolgáltató az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazása esetén – a vakok és gyengénlátók számára is érzékelhető módon – köteles
 
 a) a vasút-, hajó-, trolibusz- és az autóbusz-állomás és megállóhely bejáratánál,
 
-b) a személyszállító vasúti járműre, hajóra, trolibuszra és az autóbuszra való felszállásra szolgáló peronoknál, valamint
+b) a személyszállító vasúti járműre, hajóra, trolibuszra, és az autóbuszra való felszállásra szolgáló peronoknál,
 
-c) a személyszállító vasúti járművön, hajón, trolibuszon és az autóbuszon
+c) a személyszállító vasúti járművön, hajón, trolibuszon és az autóbuszon, valamint
+
+d) közösségi kerékpár gyűjtőállomásán
 
 figyelemfelhívó jelzést és ismertetést elhelyezni az elektronikus biztonságtechnikai rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
 
