@@ -2,7 +2,7 @@
 
 Hhtv. 34. § (1) A jogosult köteles a halgazdálkodási terv alapján hasznosított halászati vízterület halállományát és élőhelyét őrizni, vagy őrzéséről – halászati őr útján – gondoskodni. Halászati őr egyéb vízterületen, illetőleg halastavon is igénybe vehető. Halászati őrt több jogosult közösen is foglalkoztathat. A halászati őr feladataival mezei őrszolgálat is megbízható.
 
-(2) Halászati őr a működési helye szerinti halászati hatóságnál az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát és a miniszter által rendeletben meghatározott szövegű esküt tesz.
+(2) Halászati őr a halászattal és a horgászattal kapcsolatos ismeretekről, a halászat és horgászat, a halászati őrzés, a mezőgazdasági őrszolgálat, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéről a működésének helye szerint illetékes halászati hatóság vizsgabizottsága előtt köteles vizsgát tenni. Halászati őr az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát a rendészeti feladatokat ellátó személyek, a segédfelügyelők, valamint a személy- és vagyonőrök képzéséről és vizsgáztatásáról szóló rendeletben kijelölt szerv előtt köteles letenni. Halászati őr a működési helye szerinti halászati hatóságnál a miniszter által rendeletben meghatározott szövegű esküt tesz.
 
 (2a) A halászati őrnek az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott szolgálati igazolvánnyal, szolgálati jelvénnyel és egyen- vagy formaruhával kell rendelkeznie, valamint az alkalmazási feltételeknek meg kell felelnie.
 
@@ -20,7 +20,7 @@ d) a személytől a területi engedélyt elvenni és azt a kibocsátónak halad�
 
 e) a személytől az állami halász- és horgászjegyet visszatartani és azt a halászatra jogosulton keresztül a kezdeményezett hatósági eljáráshoz mellékelve köteles a halászati hatóságnak megküldeni.
 
-(4a) Az a halászati őr, aki állami, vagy önkormányzati alkalmazásban áll a (4) bekezdésben meghatározott esetben az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti intézkedéseket és kényszerítő eszközöket alkalmazhatja.
+(4a) A halászati őr a (4) bekezdésben meghatározott esetben az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározottak szerint alkalmazhat intézkedéseket és kényszerítő eszközöket.
 
 (5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint a miniszter rendeletben állapítja meg.
 

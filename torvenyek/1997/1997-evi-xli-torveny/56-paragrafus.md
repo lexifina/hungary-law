@@ -30,7 +30,7 @@ m) a halászati hatóság által vezetett nyilvántartások tartalmával és vez
 
 n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat,
 
-o) a halászati őr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat
+o) a halászati őr szolgálati igazolványára és szolgálati jelvényére, valamint a halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat
 
 rendeletben határozza meg.
 
