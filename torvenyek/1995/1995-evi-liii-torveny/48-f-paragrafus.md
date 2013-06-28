@@ -16,6 +16,6 @@ véleményezésre megküldi.
 
 (4) A véleményező szervek szakmai véleményükről hatvan napon belül tájékoztatják a környezetvédelmi program kidolgozóját.
 
-(5) Az elfogadott területi környezetvédelmi programot meg kell küldeni a program tervezetét véleményezőknek. Az elfogadott regionális és a megyei környezetvédelmi programot a 40. § (6) bekezdésben meghatározott közreműködő szerv részére is meg kell küldeni tájékoztatásul.
+(5) Az elfogadott területi környezetvédelmi programot meg kell küldeni a program tervezetét véleményezőknek.
 
 (6) A területi környezetvédelmi programok végrehajtásának helyzetéről a lakosságot rendszeres időközönként tájékoztatni kell.

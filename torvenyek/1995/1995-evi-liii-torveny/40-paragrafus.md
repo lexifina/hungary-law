@@ -10,4 +10,4 @@
 
 (5) A Kormány a Program elkészítésekor fennálló feltételek módosulása, illetve a végrehajtás helyzetének alakulásától függően javaslatot tehet a Program felülvizsgálatára. A felülvizsgálat során a Program tervezésére vonatkozó előírásokat kell alkalmazni.
 
-(6) A Program tervezésében, végrehajtásában és szükség szerinti felülvizsgálatában külön jogszabályban meghatározott szerv működik közre.
+(6)

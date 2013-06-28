@@ -52,6 +52,6 @@ kapcsolatos feladatokat és előírásokat.
 
 (3) A települési önkormányzat gondoskodik a települési környezetvédelmi programban foglalt feladatok végrehajtásáról, a végrehajtás feltételeinek biztosításáról, és figyelemmel kíséri a feladatok ellátását.
 
-(4) A fővárosi közgyűlés a környezetvédelmi programja végrehajtásáról legalább kétévente tájékoztatja a 40. § (6) bekezdésben meghatározott közreműködő szervet.
+(4)
 
 (5) Települési önkormányzatok – az önálló települési környezetvédelmi program mellett vagy helyett – közös települési környezetvédelmi programot is készíthetnek.
