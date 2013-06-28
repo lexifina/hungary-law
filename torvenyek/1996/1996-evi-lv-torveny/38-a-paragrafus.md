@@ -1,4 +1,4 @@
-38/A. § (1) Amennyiben nincs más kielégítő megoldás és az érintett vadászható vadfajok állományának a (6) bekezdésben meghatározott kedvező védelmi helyzete nem sérül, közösségi jelentőségű vadászható vadfaj vonatkozásában a vadászati hatóság a szükséges mértékben és módon a 28. § (4) bekezdésében, a 30. § (2) bekezdésében, a 38. § (3) bekezdésében és a 39. § (3) bekezdésében foglalt tevékenységeket a következő – madárfaj esetében csak az a)–f) pontban szereplő – okból engedélyezheti, illetve rendelheti el:
+38/A. § (1) Amennyiben nincs más kielégítő megoldás és az érintett vadászható vadfajok állományának az (5) bekezdésben meghatározott kedvező védelmi helyzete nem sérül, közösségi jelentőségű vadászható vadfaj vonatkozásában a vadászati hatóság a szükséges mértékben és módon a 28. § (4) bekezdésében, a 30. § (2) bekezdésében, a 38. § (3) bekezdésében és a 39. § (3) bekezdésében foglalt tevékenységeket a következő – madárfaj esetében csak az a)–f) pontban szereplő – okból engedélyezheti, illetve rendelheti el:
 
 a) közegészségügyi, illetve közbiztonsági okból,
 

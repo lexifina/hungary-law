@@ -1,6 +1,6 @@
 ## Vadászvizsga
 
-66. § (1) Vadászvizsgát (a továbbiakban: vizsga) kizárólag a kamara által megbízott, legalább három főből álló bizottság (a továbbiakban: bizottság) előtt lehet tenni. A bizottság egyik tagja a miniszter által kijelölt személy. A bizottság munkájában való részvételre csak felsőfokú vadgazdálkodási képesítéssel rendelkező személy kérhető fel.
+66. § (1) Vadászvizsgát (a továbbiakban: vizsga) kizárólag a kamara által megbízott, három főből álló bizottság előtt lehet tenni.
 
 (2) A vizsga a vadászati jog gyakorlásával, hasznosításával, továbbá a természetvédelemmel kapcsolatos elméleti ismeretekből, valamint – kivéve a kizárólag vadászíjjal, illetve ragadozó madárral vadászókat – sörétes és golyós lőfegyverrel történő gyakorlati vadászlövészetből áll. Az íjjal vadászók gyakorlati vadászíjász, a ragadozó madárral vadászók gyakorlati solymász vizsgát tesznek.
 

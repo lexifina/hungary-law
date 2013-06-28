@@ -2,7 +2,7 @@
 
 a) nyilvántartást vezet a vadászterületekről, a jogosult nevéről (cégéről), címéről (székhelyéről), valamint a vadászati jog haszonbérleti szerződésekről;
 
-b) gondoskodik a vadászvizsga megszervezéséről;
+b) a kamara bevonásával gondoskodik a vadászvizsga megszervezéséről;
 
 c) nyilvántartást vezet a hivatásos vadászokról;
 

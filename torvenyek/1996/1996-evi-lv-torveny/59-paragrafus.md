@@ -4,7 +4,7 @@
 
 a) vadászjeggyel vagy vadászati engedéllyel;
 
-b) vadászlőfegyver-tartási engedéllyel;
+b) vadászlőfegyverrel vadászó vadász esetén, vadászlőfegyver-tartási engedéllyel;
 
 c) a ragadozó madárral vadászó vadász esetén a természetvédelmi hatóság által ragadozó madár tartására kiadott engedéllyel.
 

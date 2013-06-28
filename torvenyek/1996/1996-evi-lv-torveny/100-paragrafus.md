@@ -32,7 +32,7 @@ c) rendeletben szabályozza
 
 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait,
 
-9. a vadászvizsga tartalmát és szabályait, valamint a vizsgaszabályzatot,
+9. a vadászvizsgát megelőző tanfolyam szabályait, szervezésének feltételeit, a vadászvizsga tartalmát és szabályait, valamint a vizsgaszabályzatot,
 
 10. az egyes vadfajok vadászatának formáját,
 
@@ -70,7 +70,7 @@ c) rendeletben szabályozza
 
 27. a vadászati hatóság eljárására vonatkozó szabályokat,
 
-28. az Országos Vadgazdálkodási Tanács létrehozására és működésére vonatkozó szabályokat,
+28.
 
 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját,
 
