@@ -1,0 +1,1 @@
+## „k) egyszerűsített pincekönyv-vezetés választása esetén a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló miniszteri rendeletben (a továbbiakban: pincekönyves rendelet) meghatározott feltételeknek való megfelelésre vonatkozó nyilatkozatot.”

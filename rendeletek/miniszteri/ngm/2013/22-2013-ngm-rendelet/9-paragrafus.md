@@ -1,0 +1,7 @@
+## 8. § A PM rendelet 108. §-a a következő (14)–(16) bekezdéssel egészül ki:
+
+## „(14) A felhasználói engedélyesnek a jövedéki termék megsemmisítését a hatósági felügyeletet ellátó vámszervhez írásban előzetesen kell bejelentenie.
+
+## (15) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált jövedéki termék megsemmisítése a hatósági felügyeletet ellátó vámszerv ellenőrzése mellett történik, amelyről a 105. § (3) bekezdése szerint jegyzőkönyvet kell felvenni.
+
+## (16) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált jövedéki termék tisztításáról (regenerálásáról) a 34. számú melléklet szerinti tartalommal a vámszerv által jóváhagyott és hitelesített, amennyiben az engedélyt kiadó és a hatósági felügyeletet ellátó vámszerv nem azonos, az engedélyt kiadó vámszerv által jóváhagyott és a hatósági felügyeletet ellátó vámszerv által hitelesített regenerálási naplót kell folyamatosan vezetni. A nyilvántartás vezetésére az engedélyt kiadó vámszerv által előzetesen jóváhagyott számítógépes nyilvántartás is alkalmazható. A regenerálás a hatósági felügyeletet ellátó vámszerv által engedélyezett és nyilvántartásba vett készüléken végezhető. A regenerálással visszanyert jövedéki termékre a felhasználói engedélyesnek a felhasználást 3 nappal megelőzően a hatósági felügyeletet ellátó vámszervhez be kell jelentenie a felhasználási arányszámot, illetve arányszámokat.”
