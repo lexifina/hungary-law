@@ -46,10 +46,10 @@ d) a Győr-Moson-Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazg
 
 kiterjedő illetékességgel látja el.
 
-(6)[^43] A vetőmagvak és vegetatív szaporítóanyagok géntechnológiai eredetének vizsgálatában, hatósági ellenőrzésében, az ezzel kapcsolatban hozott hatósági döntés végrehajtásában a NÉBIH irányítása mellett a megyei kormányhivatal növény- és talajvédelmi igazgatósága közreműködik.
+(6)[^43] A vetőmagvak és vegetatív szaporítóanyagok, valamint azok termesztésbe bocsátása esetén az érintett növényi kultúra géntechnológiai eredetének vizsgálatában, hatósági ellenőrzésében, az ezzel kapcsolatban hozott hatósági döntés végrehajtásában a NÉBIH irányítása mellett a megyei kormányhivatal növény- és talajvédelmi igazgatósága közreműködik.
 
 [^39]: A 16. § (1) bekezdése a 24/2012. (II. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^40]: A 16. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, nyitó szövegrésze a 24/2012. (II. 29.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^41]: A 16. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, szövege a 24/2012. (II. 29.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
 [^42]: A 16. § (5) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 295. §-a iktatta be, szövege a 24/2012. (II. 29.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^43]: A 16. § (6) bekezdését a 24/2012. (II. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^43]: A 16. § (6) bekezdését a 24/2012. (II. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 229/2013. (VI. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
