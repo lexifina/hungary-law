@@ -2,6 +2,7 @@
 
 (2) A NÉBIH a vetőmagtörvény szerinti feladatok ellátása érdekében fajtakísérleti állomásokat, illetve fajtakitermesztő állomást működtet.
 
-(3) A vetőmagvak és vegetatív szaporítóanyagok géntechnológiai eredetének vizsgálata, hatósági ellenőrzése tekintetében eljáró hatóságként a Kormány a NÉBIH-et jelöli ki.
+(3)[^4] A vetőmagvak és vegetatív szaporítóanyagok, valamint azok termesztésbe bocsátása esetén az érintett növényi kultúra géntechnológiai eredetének vizsgálata, hatósági ellenőrzése tekintetében eljáró hatóságként a Kormány a NÉBIH-et jelöli ki.
 
 [^3]: A 6. § (1) bekezdése a 68/2013. (III. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 6. § (3) bekezdése a 229/2013. (VI. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
