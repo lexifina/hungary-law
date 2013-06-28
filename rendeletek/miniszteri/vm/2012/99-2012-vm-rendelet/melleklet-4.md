@@ -20,7 +20,7 @@
 
 ## Repülőjegy esetében az utazó turista jegy (economic) vásárlására jogosult.
 
-## 2.[^2] Napidíj:
+## 2.[^11] Napidíj:
 
 ## A napidíjak nem haladhatják meg az Európai Bizottság által publikált értékeket (Current per diems rates – http://ec.europa.eu/europeaid/work/procedures/implementation/per_diems/index_en.htm).
 
@@ -28,4 +28,4 @@
 
 4. melléklet a 99/2012. (IX. 25.) VM rendelethez
 
-[^2]: A 3. melléklet 2. pontja a 110/2012. (X. 15.) VM rendelet 3. §-ával megállapított szöveg.
+[^11]: A 3. melléklet 2. pontja a 110/2012. (X. 15.) VM rendelet 3. §-ával megállapított szöveg.

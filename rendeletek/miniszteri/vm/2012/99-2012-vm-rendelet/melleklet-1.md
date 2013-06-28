@@ -1,3 +1,6 @@
-## 14. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 63. cikk b) pontja és 65. cikk végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 15. §[^9] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet módosításáról szóló 55/2013. (VI. 27.) VM rendelettel [a továbbiakban: 55/2013. (VI. 27.) VM rendelet] megállapított 3. § (1) bekezdés g)–i) pontját, 3. § (1a) bekezdését, 6. § (4) bekezdését, valamint 11. § (1) bekezdését a 55/2013. (VI. 27.) VM rendelet hatálybalépésekor[^10] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 99/2012. (IX. 25.) VM rendelethez
+
+[^9]: A 15. §-t az 55/2013. (VI. 27.) VM rendelet 1. § (6) bekezdése iktatta be.
+[^10]: A hatálybalépés időpontja 2013. június 28.

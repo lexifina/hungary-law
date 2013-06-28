@@ -1,12 +1,12 @@
 ## 3. A támogatás mértéke, elszámolható kiadások
 
-6. § (1) E rendelet keretében egy ügyfél számára a 2012–2013. évi időszakban megítélhető támogatás összege az ügyfél által benyújtott összes kérelem vonatkozásában együttesen nem haladhatja meg az 50 millió forintot.
+6. § (1)[^5] E rendelet keretében, egy együttműködési projekt kapcsán a megítélhető maximális támogatási összeg az együttműködési projekt egészére vonatkozóan nem haladhatja meg az 50 millió forintot. Egy ügyfél párhuzamosan több együttműködési projekt megvalósításában is részt vehet.
 
 (2) A támogatás forrása az EMVA. Az ÚMVP alapján 2012–2013. évi időszakban a támogatás nyújtására fordítható keretösszeg 3,5 milliárd forint.
 
 (3) Kizárólag azon költségek számolhatóak el, amelyek az ügyfélnek az együttműködési projektben való részvételéhez kapcsolódnak.
 
-(4) Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, kivéve
+(4)[^6] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
 
 a) a motorral hajtott szárazföldi, légi, vízi közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
 
@@ -59,3 +59,6 @@ k) NACE Rev. 2. 51 Légi szállítás.
 (11) Az együttműködések utazáshoz kapcsolódó költségeit a 3. mellékletben foglaltakat figyelembe véve kell megtervezni és a projekt költségvetésébe építeni.
 
 (12) A támogatás mértéke az összes elszámolható kiadás 100%-a.
+
+[^5]: A 6. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^6]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.

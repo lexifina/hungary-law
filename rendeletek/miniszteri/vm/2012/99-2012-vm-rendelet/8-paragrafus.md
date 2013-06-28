@@ -44,6 +44,6 @@ c) a Magyar Nemzeti Vidéki Hálózat által a nemzetközi együttműködéseket
 
 d) a nemzeti és közösségi jogszabályok alapján tiltott, illetve nem támogatható célokra, tevékenységre, kiadásra.
 
-(9)[^1] A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
+(9)[^7] A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
 
-[^1]: A 8. § (9) bekezdését a 110/2012. (X. 15.) VM rendelet 2. §-a iktatta be.
+[^7]: A 8. § (9) bekezdését a 110/2012. (X. 15.) VM rendelet 2. §-a iktatta be.

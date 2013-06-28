@@ -2,6 +2,8 @@
 
 ## 7. A kifizetési kérelem benyújtása
 
-11. § (1) A kifizetési kérelmet a Vhr. 16/B. § szerinti időszakokban papír alapon, postai úton az MVH területileg illetékes regionális kirendeltségéhez kell benyújtani.
+11. § (1)[^8] A kifizetési kérelmet a Vhr. 16/B. § (3) bekezdése szerinti elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. Az elektronikus űrlapkitöltő szolgáltatás használata esetén a kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
 
 (2) E rendelet szerinti intézkedés vonatkozásában a Vhr. 24. § (1) bekezdése nem alkalmazandó.
+
+[^8]: A 11. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (5) bekezdésével megállapított szöveg.
