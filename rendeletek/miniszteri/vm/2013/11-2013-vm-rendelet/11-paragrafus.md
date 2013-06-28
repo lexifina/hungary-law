@@ -2,7 +2,7 @@
 
 ## 7. A kifizetési kérelem benyújtása
 
-11. § (1) A kifizetési kérelmet a Vhr. 16/B. § (3) bekezdése szerinti elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun vagy postai úton keresztül az MVH támogatási kérelem szerint illetékes regionális kirendeltségére kell benyújtani.
+11. § (1)[^6] A kifizetési kérelmet a Vhr. 16/B. § (3) bekezdése szerinti elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. Az elektronikus űrlapkitöltő szolgáltatás használata esetén a kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
 
 (2) A kifizetési kérelem benyújtására és módosítására a Vhr. 16/B. § (2)–(3) bekezdését kell alkalmazni.
 
@@ -13,3 +13,5 @@
 (5) A kifizetési kérelemhez mellékelni kell a koordináló szervezet nyilatkozatát arról, hogy a kifizetési kérelemben feltüntetett tételek az együttműködési projekt megvalósítását szolgálták.
 
 (6) Az utolsó kifizetési kérelemhez mellékelni kell a koordináló szervezet szakmai beszámolóját.
+
+[^6]: A 11. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.

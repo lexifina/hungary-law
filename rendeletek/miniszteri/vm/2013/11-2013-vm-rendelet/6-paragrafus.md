@@ -6,7 +6,7 @@
 
 (3) Kizárólag azon költségek számolhatóak el, amelyek az ügyfélnek az együttműködési projektben való részvételéhez kapcsolódnak.
 
-(4) Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, kivéve
+(4)[^5] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
 
 a) a motorral hajtott szárazföldi, légi, vízi közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
 
@@ -77,3 +77,5 @@ c) egyház, nonprofit szervezet, akkor az összes elszámolható kiadás 100%-a.
 (11) Az egyéb elszámolható kiadások esetén – ha a támogatási kérelem egyes ügyfelekre vonatkozó részkérelmének tekintetében eltérő támogatási intenzitások kerülnek megállapításra – ügyfelenként a legalacsonyabb intenzitást kell figyelembe venni.
 
 (12) Költségvetési szervek esetében az 1698/2005/EK tanácsi rendelet 71. cikk (3) bekezdés a) pontja alapján a támogatás számításának alapja az összes nettó elszámolható kiadás.
+
+[^5]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
