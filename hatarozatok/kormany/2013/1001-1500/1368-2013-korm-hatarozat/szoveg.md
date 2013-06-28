@@ -2,4 +2,6 @@
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az afganisztáni Nemzetközi Biztonsági Közreműködő Erők (ISAF) műveleteiben történő magyar katonai részvétel engedélyezéséről szóló 2113/2008. (VIII. 27.) Korm. határozat 1. pont c) alpontja.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdsée alapján hatályát vesztette.
