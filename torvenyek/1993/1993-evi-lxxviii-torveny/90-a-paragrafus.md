@@ -1,1 +1,1 @@
-90/A. §
+90/A. § Ha az állami lakás tulajdonjogát ingyenesen közhasznú szervezet vagy köztestület részére ruházták át, vagy azt törvény ingyenesen ilyen szervezet tulajdonába adta, a lakásban határozatlan idejű lakásbérleti joggal rendelkező bérlő bérleti jogviszonyára az e törvény szerinti, állami lakások bérletére vonatkozó rendelkezéseket kell alkalmazni.
