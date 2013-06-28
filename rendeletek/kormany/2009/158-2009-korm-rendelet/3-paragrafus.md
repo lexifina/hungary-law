@@ -1,10 +1,12 @@
+## 2. §[^2]
+
 ## III. Fejezet
 
 ## A MEZŐGAZDASÁGI TERMÉKEK ÉS AZ ÉLELMISZEREK FÖLDRAJZI ÁRUJELZŐINEK KÖZÖSSÉGI OLTALMÁRA VONATKOZÓ RENDELKEZÉSEK
 
 ## A közösségi oltalom iránti eljárás nemzeti szakasza
 
-## 3. § Az 510/2006/EK rendelet 5. cikke szerinti kérelmet a miniszterhez kell benyújtani. A kérelem mellékletei elektronikus adathordozón is benyújthatók. A kérelemhez csatolni kell:
+## 3. §[^3] Az 510/2006/EK rendelet 5. cikke szerinti kérelmet az élelmiszeriparért felelős miniszterhez (a továbbiakban: miniszter) kell benyújtani. A kérelem mellékletei elektronikus adathordozón is benyújthatók. A kérelemhez csatolni kell:
 
 a) a kérelmező csoportosulás nevét és címét, tevékenységének bemutatását [az 510/2006/EK rendelet 5. cikkének (1)–(2) bekezdésében foglaltak, valamint az 1898/2006/EK rendelet 10. cikke (1) bekezdésének második albekezdésében meghatározottak figyelembevételével], beleértve a csoportosulás tagjainak pontos elérhetőségi adatait;
 
@@ -13,3 +15,6 @@ b) az 510/2006/EK rendelet 4. cikke szerint elkészített termékleírást, kieg
 c) a termékleírás kötelező mellékleteként a meghatározott földrajzi területet bemutató – egy vagy több – A4-es formátumú térképet és a földrajzi területtel való kapcsolatot alátámasztó irodalmi adatokat, történelmi dokumentumokat; valamint
 
 d) az 510/2006/EK rendelet 5. cikk (3) bekezdés c) pontja, illetve az 1898/2006/EK rendelet 11. cikke szerint elkészített egységes dokumentumot.
+
+[^2]: A II. fejezetet (2. §) a 229/2013. (VI. 27.) Korm. rendelet 1. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 3. § nyitó szövegrésze a 229/2013. (VI. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
