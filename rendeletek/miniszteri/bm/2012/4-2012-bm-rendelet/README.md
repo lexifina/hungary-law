@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-4-20-0A
 | 2012-10-09 | 2012-4-20-0A.3 | 48/2012. (X. 8.) BM rendelet |
 | 2012-12-16 | 2012-4-20-0A.4 | 72/2012. (XII. 15.) BM rendelet |
 | 2013-01-01 | 2012-4-20-0A.5 | 71/2012. (XII. 14.) BM rendelet |
+| 2013-06-28 | 2012-4-20-0A.6 | 27/2013. (VI. 27.) BM rendelet |

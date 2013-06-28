@@ -70,7 +70,7 @@
 
 | jegyző | polgármester |
 
-4. melléklet a 4/2012. (III. 1.) BM rendelethez[^13]
+4. melléklet a 4/2012. (III. 1.) BM rendelethez[^15]
 
 | Igénylésazonosító: |  |  |  |  |  |  |  |
 
@@ -152,4 +152,4 @@ P. H.
 
 | jegyző/munkaszervezet vezetője | polgármester/többcélú kistérségi társulás elnöke |
 
-[^13]: A 4. melléklet a 71/2012. (XII. 14.) BM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 4. melléklet a 71/2012. (XII. 14.) BM rendelet 13. § (2) bekezdése szerint módosított szöveg.

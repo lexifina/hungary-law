@@ -1,5 +1,5 @@
-## 21. §[^12]
+## 21. §[^14]
 
 1. melléklet a 4/2012. (III. 1.) BM rendelethez
 
-[^12]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
