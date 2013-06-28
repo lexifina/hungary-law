@@ -6,13 +6,13 @@
 
 (2) A kedvezményezett köteles a kapott támogatást elkülönítetten és naprakészen nyilvántartani úgy, hogy a támogatással kapcsolatos minden tranzakció és minden egyes kiadási tételt alátámasztó, a támogatáshoz kapcsolódó kísérő dokumentum azonosítható legyen.
 
-(3) A támogatás felhasználásának végső határideje 2013. június 30. Az e határidőig fel nem használt támogatásrészt vissza kell fizetni a központi költségvetésbe.
+(3)[^1] A támogatás felhasználásának végső határideje 2013. december 31. Az e határidőig fel nem használt támogatásrészt vissza kell fizetni a központi költségvetésbe.
 
 (4) A kedvezményezett:
 
 a) a támogatás felhasználásáról tárgyév december 31-i fordulónappal, a mindenkori zárszámadás keretében és rendje szerint köteles elszámolni,
 
-b) amennyiben a 2012. évben felhasználta az igénybevett támogatás teljes összegét, akkor a 2012. évi költségvetési beszámolójának benyújtásával egyidejűleg, amennyiben a 2013. év június 30-áig használta fel, akkor a 2013. évi költségvetési beszámolójának benyújtásával egyidejűleg, pénzügyi szakmai beszámolót küld az Igazgatóság részére, amelyben szöveges indokolással, pénzügyileg rendezett számlák összesítőjével, fényképes dokumentációval alátámasztottan beszámol a támogatási összegnek a támogató okiratban előírt célnak megfelelő és rendeltetésszerű felhasználásáról.
+b)[^2] amennyiben a 2012. évben felhasználta az igénybevett támogatás teljes összegét, akkor a 2012. évi költségvetési beszámolójának benyújtásával egyidejűleg, amennyiben 2013. december 31-ig használta fel, akkor a 2013. évi költségvetési beszámolójának benyújtásával egyidejűleg, pénzügyi szakmai beszámolót küld az Igazgatóság részére, amelyben szöveges indokolással, pénzügyileg rendezett számlák összesítőjével, fényképes dokumentációval alátámasztottan beszámol a támogatási összegnek a támogató okiratban előírt célnak megfelelő és rendeltetésszerű felhasználásáról.
 
 (5) A kedvezményezettnek a támogatási céllal összefüggő – meg nem kezdett, illetve folyamatban levő – munkálatok esetén biztosítania kell a forrásnak kizárólagosan az e rendelet előírásainak megfelelő, az igényléssel és a támogató okirattal összhangban álló rendeltetésszerű felhasználását.
 
@@ -27,3 +27,6 @@ a) jogtalanul vette igénybe,
 b) azt nem a megjelölt célra használta fel, vagy
 
 c) a cél a tervezettnél alacsonyabb összköltséggel valósult meg,
+
+[^1]: A 8. § (3) bekezdése a 27/2013. (VI. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: A 8. § (4) bekezdés b) pontja a 27/2013. (VI. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
