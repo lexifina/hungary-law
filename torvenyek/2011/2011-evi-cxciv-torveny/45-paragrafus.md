@@ -13,3 +13,13 @@ b) a kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ü
 c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a jogalanyok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben – rendeletben a fizetési kötelezettség megállapítására és teljesítésére vonatkozó kötelezettség mellőzését és az ehhez kapcsolódó eljárási szabályokat meghatározhassa.
+
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
+
+a) a Stabilitás Megtakarítási Számla vezetésének részletes szabályait,
+
+b) a Stabilitás Megtakarítási Számlára történő befizetésről, valamint az onnan történő kifizetésről kiállítandó igazolás részletes szabályait,
+
+c) a hitelintézet által Stabilitás Megtakarítási Számla megnyitásáról és az arra történt befizetésről teljesítendő adatszolgáltatás részletes szabályait
+
+rendeletben állapítsa meg.
