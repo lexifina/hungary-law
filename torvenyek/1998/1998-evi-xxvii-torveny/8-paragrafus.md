@@ -4,9 +4,9 @@ a) a kérelem beérkezéséről értesíti az ügyfelet a közigazgatási hatós
 
 b) 8 napon belül megvizsgálja, hogy a kérelem formailag és tartalmilag eleget tesz-e e törvény és a felhatalmazása alapján kiadott jogszabály előírásainak; amennyiben a kérelem nem tesz eleget a vonatkozó jogszabályi előírásoknak, hiánypótlásra visszaküldi azt, megjelölve a kérelem elbírálásához szükséges további információkat és benyújtásuk szükségességének okát,
 
-c) a kérelmet – a 13. § (2) bekezdése szerinti behozatali és kiviteli engedély, valamint a 15. § (2) bekezdése szerinti szállítási engedély iránti kérelem kivételével – megküldi a géntechnológiai testületnek, ha a kérelem eleget tesz a vonatkozó jogszabályi előírásoknak.
+c) a kérelmet – a 13. § (2) bekezdése szerinti behozatali és kiviteli engedély, valamint a 15. § (2) bekezdése szerinti szállítási engedély iránti kérelem kivételével – megküldi a Géntechnológiai Bizottságnak, ha a kérelem eleget tesz a vonatkozó jogszabályi előírásoknak.
 
-(2) A géntechnológiai testület
+(2) A Géntechnológiai Bizottság
 
 a) a kérelmet és a hozzá csatolt dokumentációt megvizsgálja,
 
@@ -16,9 +16,9 @@ c) elfogadja az Európai Unió tagállamaiban végzett környezeti és biológia
 
 d) a kérelemben foglalt tevékenységhez hozzájáruló, azt feltételekhez kötő vagy ellenző véleményt készít.
 
-(3) A géntechnológiai testület a (2) bekezdésben előírtak teljesítéséhez szakértő véleményét is kérheti.
+(3) A Géntechnológiai Bizottság a (2) bekezdésben előírtak teljesítéséhez szakértő véleményét is kérheti.
 
-(4) A géntechnológiai testület véleményének kialakításánál – a (2) bekezdésben foglaltakkal összhangban – vizsgálja a géntechnológiával módosított szervezet alkalmazásának közvetlen vagy közvetett, azonnali vagy később várhatóan bekövetkező hatásait, így különösen:
+(4) A Géntechnológiai Bizottság véleményének kialakításánál – a (2) bekezdésben foglaltakkal összhangban – vizsgálja a géntechnológiával módosított szervezet alkalmazásának közvetlen vagy közvetett, azonnali vagy később várhatóan bekövetkező hatásait, így különösen:
 
 – a hatására bekövetkező változást az emberben és a természetes szervezetekben, mindenekelőtt a DNS-ben és az ellenálló képességben,
 
@@ -30,4 +30,4 @@ d) a kérelemben foglalt tevékenységhez hozzájáruló, azt feltételekhez kö
 
 (5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok elvégzésének költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit a szakterületüknek megfelelően a természetvédelemért, a kutatás-fejlesztésért és technológiai innovációért, az egészségügyért, valamint az oktatásért felelős miniszter által vezetett minisztérium költségvetési előirányzataiban kell biztosítani.
 
-(6) A géntechnológiai testület a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.
+(6) A Géntechnológiai Bizottság a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.

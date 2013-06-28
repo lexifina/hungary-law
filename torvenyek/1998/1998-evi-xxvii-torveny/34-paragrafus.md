@@ -59,3 +59,5 @@ c) az egymás melletti termesztés szakmai szabályait és feltételeit, a puffe
 d) az egymás melletti termesztésre vonatkozó képzésre és vizsgáztatásra vonatkozó előírásokat.
 
 (9) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben megállapítsa a védzáradéki eljárás alá vont termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek listáját és meghatározza a védzáradéki eljárás időtartamára szükséges biztonsági intézkedéseket.
+
+(10) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel, az oktatásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait.

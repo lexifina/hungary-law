@@ -2,7 +2,7 @@
 
 (2)–(3)
 
-(4) A géntechnológiai hatóság az engedély tervezetét – az üzleti titok, a szerzői jog és a fajtaoltalom körébe eső adatok kivételével – társadalmi konzultáció érdekében hivatalos lapjában és honlapján közzéteszi. Az engedély tervezetére annak a hivatalos lapban való közzétételétől számított 30 napon belül a géntechnológiai hatóságnál észrevételt lehet tenni, amelyet a géntechnológiai hatóság véleményezés céljából megküld a géntechnológiai testületnek. Az észrevételt annak kézhezvételétől számított 10 napon belül a géntechnológiai testület megvizsgálja, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a géntechnológiai testület véleményének beérkezését követően az engedély tervezetét véglegesíti, megváltoztatja vagy a kérelmet elutasítja.
+(4) A géntechnológiai hatóság az engedély tervezetét – az üzleti titok, a szerzői jog és a fajtaoltalom körébe eső adatok kivételével – társadalmi konzultáció érdekében hivatalos lapjában és honlapján közzéteszi. Az engedély tervezetére annak a hivatalos lapban való közzétételétől számított 30 napon belül a géntechnológiai hatóságnál észrevételt lehet tenni, amelyet a géntechnológiai hatóság véleményezés céljából megküld a Géntechnológiai Bizottságnak. Az észrevételt annak kézhezvételétől számított 10 napon belül a Géntechnológiai Bizottság megvizsgálja, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a Géntechnológiai Bizottság véleményének beérkezését követően az engedély tervezetét véglegesíti, megváltoztatja vagy a kérelmet elutasítja.
 
 (5) Az eljárási határidő számításakor nem kell figyelembe venni azt az időtartamot, amely alatt a géntechnológiai hatóság a társadalmi konzultációt lefolytatja.
 

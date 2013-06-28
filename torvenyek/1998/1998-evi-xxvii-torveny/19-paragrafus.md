@@ -8,11 +8,11 @@ b) az engedélyezési határozatot, valamint
 
 c) a géntechnológiai módosításokat végző laboratóriumok és a laboratóriumok felelős vezetőinek nevét tartalmazó jegyzéket.
 
-(2) A géntechnológiai testület tagja a géntechnológiai testület működés során tudomására jutott adatokat köteles bizalmasan kezelni, és azokról csak a kérelmező hozzájárulása esetén adhat harmadik személynek tájékoztatást. Ezt a rendelkezést kell alkalmazni akkor is, ha a hasznosító a benyújtott kérelmét visszavonja.
+(2) A Géntechnológiai Bizottság tagja a Géntechnológiai Bizottság működés során tudomására jutott adatokat köteles bizalmasan kezelni, és azokról csak a kérelmező hozzájárulása esetén adhat harmadik személynek tájékoztatást. Ezt a rendelkezést kell alkalmazni akkor is, ha a hasznosító a benyújtott kérelmét visszavonja.
 
 (3) Az (1) bekezdés szerinti adatokat a géntechnológiai hatóság – az (1) bekezdés a) pontja szerinti adatok esetén az engedély tervezetének közzétételével egyidejűleg – küldi meg a nyilvántartó szerv részére.
 
-(4) A nyilvántartás céljából átadott adatok közül a hasznosító üzleti titokhoz vagy szabadalomhoz, illetve fajtaoltalomhoz fűződő jogát sértő adatok nem nyilvánosak, amennyiben azok ilyen módon való kezelését a hasznosító a géntechnológiai testülettől vagy a géntechnológiai hatóságtól kéri.
+(4) A nyilvántartás céljából átadott adatok közül a hasznosító üzleti titokhoz vagy szabadalomhoz, illetve fajtaoltalomhoz fűződő jogát sértő adatok nem nyilvánosak, amennyiben azok ilyen módon való kezelését a hasznosító a Géntechnológiai Bizottságtól vagy a géntechnológiai hatóságtól kéri.
 
 (5) A nyilvántartó szerv az adatokat az engedélyben meghatározott jogosultsági idő lejártát követő 10 évig tartja nyilván.
 

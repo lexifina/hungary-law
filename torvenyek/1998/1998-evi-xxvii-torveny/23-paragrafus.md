@@ -1,6 +1,6 @@
 ## Az engedély feltételhez kötése, módosítása, felfüggesztése, visszavonása
 
-23. § (1) Amennyiben az engedélyezett géntechnológiai tevékenység az engedély alapjául szolgáló kockázat értékeléshez képest kockázatnövekedést jelent, különösen az emberi egészség és a környezet vonatkozásában, a géntechnológiai hatóság hivatalból vagy az engedélyezési eljárásban e törvény felhatalmazása alapján kiadott jogszabály szerinti esetben közreműködött szakhatóság, illetve az ellenőrzésre jogosult hatóság kezdeményezésére, a géntechnológiai testület véleménye alapján
+23. § (1) Amennyiben az engedélyezett géntechnológiai tevékenység az engedély alapjául szolgáló kockázat értékeléshez képest kockázatnövekedést jelent, különösen az emberi egészség és a környezet vonatkozásában, a géntechnológiai hatóság hivatalból vagy az engedélyezési eljárásban e törvény felhatalmazása alapján kiadott jogszabály szerinti esetben közreműködött szakhatóság, illetve az ellenőrzésre jogosult hatóság kezdeményezésére, a Géntechnológiai Bizottság véleménye alapján
 
 a) a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskörben megadott engedélyt feltételhez köti, módosítja, felfüggeszti, vagy ha az engedély megadásának feltételei már nem állnak fenn, az engedélyt visszavonja,
 
