@@ -1,0 +1,204 @@
+# A belügyminiszter 31/2013. (VI. 28.) BM rendelete
+
+Magyar Közlöny 2013. évi 109. szám, 2013. június 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/39b30178491a05434ea4ecfd46c7bd564f5f73fa/dokumentumok/4d4ae6c37713f5a5cad766c7c17429531dd22adf/letoltes)
+
+---
+
+A belügyminiszter 31/2013. (VI. 28.) BM rendelete
+az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat katonai nyomozó hatóságairól és
+a bűncselekmények parancsnoki nyomozásáról
+A büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (4) bekezdés b) pontjában kapott felhatalmazás alapján az egyes
+miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet
+37. § e) pontjában meghatározott feladatkörömben eljárva, az egyes miniszterek, valamint a Miniszterelnökséget vezető
+államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörében
+eljáró közigazgatási és igazságügyi miniszterrel egyetértésben a következőket rendelem el:
+1. A katonai nyomozó hatóságok
+1. § (1) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományának tagja (a továbbiakban:
+hivatásos állomány tagja) ellen indított katonai büntetőeljárásban – ha a nyomozást nem a katonai ügyész vagy
+a legfőbb ügyész által a katonai büntetőeljárásra kijelölt ügyész (a továbbiakban együtt: katonai ügyész) végzi –
+a katonai nyomozó hatóságként eljáró illetékes parancsnok (a továbbiakban: parancsnok):
+a) az Alkotmányvédelmi Hivatal hivatásos állományának tagja tekintetében az Alkotmányvédelmi Hivatal
+főigazgatója,
+b) a Nemzetbiztonsági Szakszolgálat hivatásos állományának tagja tekintetében a Nemzetbiztonsági
+Szakszolgálat főigazgatója.
+(2) A parancsnok a nyomozóhatósági jogkörét személyesen vagy az e feladat ellátásával megbízott nyomozótiszt útján
+gyakorolja.
+(3) Ha az eljárást folytató katonai nyomozó hatóságnál nincs nyomozótiszt kijelölve, illetve ha a nyomozótiszt a feladata
+ellátásában akadályozott vagy az eljárásból kizárt, a nyomozást a parancsnok személyesen végzi.
+2. A parancsnok hatásköre és illetékessége
+2. §
+Nem tartozik a parancsnok hatáskörébe a nyomozás és az eljárás során keletkezett iratokat a katonai ügyésznek kell
+megküldeni:
+a) a főigazgató vagy helyettese által elkövetett katonai vétség miatt folytatott nyomozás esetén,
+b) ha a parancsnok tekintetében kizáró ok áll fenn.
+3. §
+Ha a parancsnok a nyomozás során észleli, hogy a terhelt bűncselekménye vagy több bűncselekmény esetén azok
+valamelyike nem tartozik a nyomozási hatáskörébe, a feljelentést, továbbá az eljárás során keletkezett iratokat
+három napon belül megküldi a katonai ügyésznek.
+4. §
+A nyomozást az a parancsnok folytatja le, akinek a büntetőeljárás megindításakor a terhelt a szolgálati
+alárendeltségébe tartozik.
+3. A nyomozótiszt
+5. § (1) Nyomozótisztként a parancsnok alárendeltjei közül a hivatásos állomány
+a) jogi egyetemi, vagy a Rendőrtiszti Főiskolán, Nemzeti Közszolgálati Egyetem Rendészettudományi Karán
+szerzett felsőfokú végzettséggel rendelkező, és
+b) legalább tiszti rendfokozatú
+tagja jelölhető ki.
+(2) A parancsnok a nyomozótisztet parancsban jelöli ki. A kijelölésről a parancsnok a katonai ügyészt a parancs egy
+példányának megküldésével értesíti.
+(3) A nyomozótiszti kijelölés megszűnik, ha azt a parancsnok határozattal visszavonta. A parancsnok erről a katonai
+ügyészt nyolc napon belül értesíti.
+6. § (1) A nyomozótiszt rendszeres, szervezett szakmai képzéséről a parancsnok, valamint az ügyészség gondoskodik.
+(2) Az (1) bekezdés szerinti képzéshez, továbbá a nyomozói feladat végzéséhez szükséges időbeli, személyi, valamint
+dologi feltételeket a parancsnok biztosítja.
+
+7. §
+Nyomozótisztként – a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 38. §-ában meghatározott
+kizáró okokon túl – nem járhat el az, akinek a terhelt szolgálati elöljárója.
+8. §
+A nyomozótiszt a nyomozás során a parancsnok utasítása szerint jár el, aki irányítja a nyomozást és maga is ellenőrzi
+annak törvényességét. A nyomozótiszt köteles a parancsnokot a nyomozás minden lényeges körülményéről
+tájékoztatni.
+9. §
+A nyomozótiszt a nyomozás megindulásától folyamatosan végzi azokat a nyomozási cselekményeket, amelyek nem
+a parancsnok kizárólagos döntési hatáskörébe tartoznak. A 10. § (1) és (2) bekezdése szerinti határozatok, valamint
+előterjesztések tervezeteit a nyomozótiszt készíti el.
+4. A parancsnoki nyomozás
+10. § (1) A katonai nyomozó hatóság által meghozott döntés esetén a parancsnoki nyomozás során kizárólag a parancsnok
+döntési hatáskörébe tartozik:
+ 1. a nyomozótiszt kizárása,
+ 2. a nyomozás elrendelése,
+ 3. a feljelentés-kiegészítés elrendelése,
+ 4. a feljelentés áttétele,
+ 5. a feljelentés elutasítása,
+ 6. a nyomozás felfüggesztése,
+ 7. a nyomozás megszüntetése,
+ 8. a védő kirendelése, a védő kirendelésének visszavonása, a védő kirendelés alóli felmentése,
+ 9. a kirendelt védő díjának és költségtérítésének megállapítása,
+10. a szakértő kirendelése, kizárása, felmentése,
+11. a szakértő díjának megállapítása,
+12. a tanú és a szakértő mentességre történt hivatkozásának elbírálása,
+13. az igazolási kérelem elbírálása,
+14. a terhelt őrizetbe vétele és az őrizet megszüntetése,
+15. a házkutatás és a motozás elrendelése,
+16. a lefoglalás elrendelése és megszüntetése,
+17. a számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés elrendelése,
+18. a biztosítási intézkedés alkalmazása és feloldása,
+19. az elővezetés elrendelése,
+20. a nyomozás befejezése és az iratok ismertetése után a gyanúsított vagy a védő indítványával kapcsolatos,
+a Be. 193. § (3) bekezdése szerinti határozat meghozatala,
+21. az iratoknak a katonai ügyészhez – vádemelési vagy parancsnoki fegyelmi hatáskörben történő elbírálási
+javaslattal – való megküldése,
+22. a panasz benyújtásától számított három napon belül a panasznak történő helyt adás, vagy a panasz elbírálás
+végett történő felterjesztése,
+23. a Be. 195. § (3) bekezdése alapján a határozat végrehajtásának felfüggesztése.
+(2) A Be. 165. § (2) bekezdésében meghatározott, a bíróság vagy az ügyészség hatáskörébe tartozó eljárási cselekmény
+elvégzésének vagy határozat meghozatalának szükségessége esetén a katonai ügyészt a parancsnok tájékoztatja,
+a döntés meghozatalára irányuló indokolt előterjesztéssel.
+11. §
+A parancsnok a nyomozása során a katonai ügyész szakmai segítségét kérheti.
+12. §
+Ha a nyomozást a megindulásától számított két hónapon belül nem fejezik be, a parancsnok e határidő lejárta
+előtt legalább tíz nappal a nyomozás határidejének meghosszabbítására a katonai ügyészhez előterjesztést tesz.
+Az előterjesztéshez mellékelni kell a még szükséges, de el nem végzett nyomozási cselekmények részletes tervét is.
+13. § (1) A nyomozótiszt a jelentősebb tárgyi súlyú vagy bonyolultabb, előreláthatóan két hónapon túli nyomozást igénylő
+ügyben a nyomozás megindulását követően haladéktalanul nyomozási tervet készít és azt jóváhagyás végett
+bemutatja a parancsnoknak.
+
+(2) A nyomozási terv tartalmazza a nyomozás eredményes lefolytatásához szükséges feladatokat és azok tervezett
+ütemezését. Az eljárás során feltárt új adatok és szempontok figyelembevételével a nyomozási tervet szükség
+szerint módosítani kell.
+14. §
+Az újabb bűncselekmények megelőzése végett a nyomozás során fokozott figyelmet kell fordítani a bűncselekmény
+elkövetését elősegítő, illetve megkönnyítő okok, körülmények felderítésére. Az ennek érdekében megtett
+intézkedéséről vagy azzal kapcsolatos javaslatáról, továbbá a Be. 63/A. § (1) bekezdése szerinti tájékoztatási
+kötelezettsége teljesítéséről a parancsnok a katonai ügyészt értesíti.
+15. §
+Az eljárás során az egyes nyomozási cselekményekről készült iratokat három példányban, az érdekelteknek a Be.
+szabályai szerint kézbesítendő határozatokat a szükséges példányszámban kell elkészíteni.
+16. § (1) Ha a parancsnok a hatáskörébe nem tartozó kényszerintézkedés elrendelését tartja szükségesnek, a katonai ügyészt
+erről haladéktalanul értesíti, egyben – az addig keletkezett iratokat mellékelve – arra írásban előterjesztést tesz.
+(2) Ha az őrizetbe vételkor már megállapítható, hogy indokolt az előzetes letartóztatás elrendelésének
+kezdeményezése, az előterjesztést haladéktalanul, de legkésőbb az őrizetbe vétel elrendelését követő huszonnégy
+órán belül meg kell küldeni a katonai ügyésznek.
+(3) A parancsnok haladéktalanul előterjesztést tesz a katonai ügyésznek, ha az előzetes letartóztatás, az ideiglenes
+kényszergyógykezelés vagy a lakhelyelhagyási tilalom megszüntetését látja szükségesnek.
+(4) A parancsnok az előzetes letartóztatás meghosszabbítására vonatkozó javaslatát – a nyomozási iratok egy
+példányával együtt – a letartóztatás határidejének lejárta előtt legalább tíz nappal köteles megküldeni a katonai
+ügyésznek. Az előterjesztéshez mellékelni kell a még végrehajtásra váró nyomozási cselekmények tervét is.
+(5) Ha a hivatásos állomány tagjával szemben a bíróság a Be. 138/A. §-a alapján távoltartást rendel el, a parancsnok
+megteszi a szükséges intézkedéseket a végrehajtás biztosítására.
+17. §
+A hivatásos állomány tagjának a nyomozás során elrendelt őrizetét rendőrségi fogdában kell végrehajtani.
+18. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésére a parancsnok tesz előterjesztést
+a katonai ügyészhez.
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele indítványozása iránti előterjesztésnek tartalmaznia kell:
+a) az eljáró katonai nyomozó hatóság megnevezését, az ügyirat számát,
+b) a bűncselekmény Btk. szerinti megjelölését,
+c) a bűncselekmény történeti tényállását,
+d) a bűncselekmény gyanúját, illetve az elektronikus adat ideiglenes hozzáférhetetlenné tétele feltételeinek
+fennállását alátámasztó bizonyítékokat,
+e) javaslatot a Be. 158/B. § (4) bekezdés a) pontja szerinti elektronikus adat ideiglenes eltávolításának
+indítványozására,
+f) az elektronikus adat forrásának azonosítására szolgáló adatokat:
+fa) IP címet ipv4 vagy ipv6 szabvány szerint és alhálózati maszkot,
+fb) domain nevet,
+fc) URL címet,
+fd) portszámot,
+g) az elektronikus adatot tároló tárhelyszolgáltató nevének és címének, illetve elnevezésének és székhelyének,
+telephelyének vagy fióktelepének, a cégjegyzék- vagy egyéb nyilvántartási számának, továbbá a képviseletre
+jogosult nevének és címének a megjelölését.
+(3) A (2) bekezdés g) pontja esetében ha a tárhelyszolgáltató külföldi, a székhely szerinti államban működő
+nyilvántartás adatait szükséges beszerezni.
+(4) Ha a domain név alatt található elektronikus adatok teljes körére fennállnak a hozzáférhetetlenné tétel
+elrendelésének feltételei, az erre való utalást is tartalmazza az előterjesztés.
+(5) Ha az elektronikus hírközlő hálózat útján közzétett elektronikus adat forrásának azonosításra szolgáló adatok
+megállapítása különleges szakismeretet igényel, szaktanácsadót kell alkalmazni.
+(6) Ha az elektronikus adat ideiglenes hozzáférhetetlenné tételének további fenntartása már nem indokolt, vagy
+ha a nyomozást a parancsnok megszüntette – kivéve, ha a Be. 569. § szerinti eljárás lefolytatásának van helye –
+haladéktalanul előterjesztést kell tenni a katonai ügyészhez a kényszerintézkedés megszüntetése és az elektronikus
+
+adat visszaállítása iránt. Az előterjesztés megtételére a parancsnok jogosult. Az előterjesztés tartalmára
+a (2) bekezdést értelemszerűen alkalmazni kell.
+(7) E § alkalmazásában
+1. domain név: az internet egy meghatározott részét, tartományát egyedileg leíró megnevezés,
+2. elektronikus adat: a hozzáférést biztosító elektronikus hírközlési szolgáltatók által az elektronikus hírközlő
+hálózat útján közzétett olyan adat, amely egyedi azonosítók, mint az IP cím és URL cím, domain név és
+portszám alapján beazonosítható,
+3. IP cím: egyedi hálózati azonosító, amely a hozzátartozó alhálózati maszkkal együtt meghatározza, hogy mely
+hálózati címen érhető el az elektronikus adat,
+4. portszám: a TCP/IP és az UDP, illetve SCTP protokollokban az adott célszerveren a logikai csatlakozást
+meghatározó jelzőszám,
+5. URL cím: egységes erőforrás azonosító, amely egyetlen címben foglalja össze az interneten megtalálható
+elektronikus adat azonosításához szükséges legfontosabb információkat, mint a protokoll, a domain név vagy
+IP cím, a portszám és az elérési út a célszerveren.
+19. § (1) A nyomozás során hozott határozat elleni panaszt, valamint a katonai nyomozó hatóság intézkedése vagy
+intézkedésének elmulasztása miatt bejelentett panaszt – amennyiben annak három napon belül nem ad helyt –
+a parancsnok a nyomozás során keletkezett iratokkal, valamint a panasszal kapcsolatos nyilatkozatával együtt küldi
+meg a katonai ügyésznek.
+(2) A terheltnek vagy más érdekeltnek a nyomozás során szóban tett panaszát írásba kell foglalni.
+20. § (1) A nyomozás befejezését követően a parancsnok az eljárás során keletkezett iratok két példányát a nyomozás
+határidejének lejárta előtt, de legkésőbb a nyomozás befejezését követő három napon belül megküldi a katonai
+ügyésznek, az iratok harmadik példányát pedig irattárazza.
+(2) A nyomozási iratok részeként továbbítani kell
+a) a bűnügyi nyilvántartás terheltre vonatkozó értesítését,
+b) a terhelt minősítését, a dicséreteiről és fenyítéseiről szóló okmányok másolatát,
+c) az illetmény-számfejtést végző szervnek a terhelt illetményéről szóló igazolását, továbbá
+d) a bűnjeljegyzéket és a bűnügyi költségjegyzéket.
+(3) A bűnjelet a nyomozási iratokkal együtt kell megküldeni. Amennyiben a bűnjel csatolása – annak jellegénél
+fogva – nem lehetséges vagy más fontos ok azt indokolja, a bűnjelnek a bűncselekménnyel kapcsolatos egyedi
+tulajdonságait rögzítő iratot vagy fényképet kell a nyomozási iratokhoz csatolni.
+21. §
+Ha a parancsnok az általános megelőzés, a katonai rend és fegyelem megszilárdítása érdekében indokoltnak
+tartja, hogy a bíróság a tárgyalást a Be. 278. § (2) bekezdése alapján ne a bíróság hivatalos helyiségében, hanem
+a rendvédelmi szerv hivatalos helyiségében tartsa meg, ennek indítványozására a katonai ügyésznek javaslatot tesz.
+22. §
+A parancsnoki nyomozás során a sajtó részére a parancsnok adhat tájékoztatást.
+5. Záró rendelkezések
+23. §
+Ez a rendelet 2013. július 1-jén lép hatályba.
+24. §
+Hatályát veszti a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai által elkövetett katonai vétségek
+parancsnoki nyomozásáról szóló 7/2003. (VI. 27.) MeHVM–IM együttes rendelet 1. § (2) bekezdés b) és c) pontja.
+ Dr. Pintér Sándor s. k.,
+ belügyminiszter
