@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-37-00-00
 | 2013-04-05 | 2013. évi XXXV. törvény | 2009-37-00-00.9 |
 | 2013-05-23 | 2013. évi LIX. törvény | 2009-37-00-00.10 |
 | 2013-06-21 | 2013. évi XCIV. törvény | 2009-37-00-00.11 |
+| 2013-06-28 | 2013. évi LXXXII. törvény | 2009-37-00-00.12 |

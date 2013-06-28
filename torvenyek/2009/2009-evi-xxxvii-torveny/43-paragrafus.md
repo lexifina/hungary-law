@@ -21,3 +21,7 @@ az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoz
 a) a (2) bekezdés szerinti tájékoztatás kapcsán tett észrevételek alapján azt indokoltnak tartja, vagy
 
 b) elvégzett erdőgazdálkodási tevékenységgel összefüggésben szükségesnek látja az adott térségben a fenntartható erdőgazdálkodási tevékenységgel kapcsolatban a nyilvánosság véleményének megismerését.
+
+(4) A miniszter minden évben közleményben határozza meg az Erdők Hetét, amelynek rendezvényei azt a célt szolgálják, hogy az ország lakossága tájékoztatást kapjon az erdők állapotáról, az erdőgazdálkodási tevékenység helyzetéről, a Nemzeti Erdőprogram végrehajtásáról.
+
+(5) A miniszter évenként tájékoztatót tesz közzé az ország erdőállományának helyzetéről, állapotáról.

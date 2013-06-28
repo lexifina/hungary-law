@@ -18,7 +18,7 @@ b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét 
 
 3. az erdészeti létesítményekre vonatkozó szabályokat;
 
-4. az Országos Erdő Tanács működésének részletes szabályait;
+4.
 
 5. az erdőtervezési körzetek jegyzékét; a körzeti erdőterv készítésének részletes szabályait;
 
