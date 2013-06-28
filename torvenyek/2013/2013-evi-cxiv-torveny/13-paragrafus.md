@@ -1,0 +1,1 @@
+13. § A Vtv. 24. § (5) bekezdésében „az MNV Zrt.-vel” szövegrészek helyébe „a tulajdonosi joggyakorlóval” szöveg lép, a Vtv. 25. § (2) bekezdésében, 25/A. § (1)–(3) bekezdésében, a Vtv. 27. § (1) bekezdésében és a 33. § (1) bekezdésében az „MNV Zrt.” szövegrészek helyébe „a tulajdonosi joggyakorló” szöveg lép.
