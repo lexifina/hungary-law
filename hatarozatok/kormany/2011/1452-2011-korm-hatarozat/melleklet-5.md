@@ -38,6 +38,6 @@
 
 | Krízis Munkabizottság | NFM |
 
-5–6. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz[^3]
+5–6. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz[^4]
 
-[^3]: Az 5–6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5–6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

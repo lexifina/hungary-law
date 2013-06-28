@@ -126,27 +126,15 @@
 
 | Magyar Eredetvédelmi Tanács | 158/2009. (VII. 30.) Korm. rendelet | Kormányhatározat | VM | 2012. I. félév |
 
-| Pálinka Nemzeti Tanács | 2008. évi LXXIII. tv. | Kormányhatározat | VM | 2012. II. félév |
-
-| Magyar Élelmiszerkönyv Bizottság és szakbizottságai | 2008. évi XLVI. tv., 220/2008. (VIII. 30.) Korm. rendelet | Miniszteri utasítás | VM | 2012. I. félév |
-
 | Országos Erdő Tanács | 2009. évi XXXVII. tv., 153/2009. (XI. 13.) FVM rendelet | Kormányhatározat | VM | 2012. I. félév |
 
 | Országos Halászati Bizottság | 1997. évi XLI. tv., 78/1997. (XI. 4.) FM rendelet | Kormányhatározat | VM | 2012. I. félév |
 
 | Országos Vadgazdálkodási Tanács (OVT) és területi vadgazdálkodási tanácsok (TVT) | 1996. évi LV. tv., 79/2004. FVM rendelet | Kormányhatározat | VM | 2012. II. félév |
 
-| Növényvédelmi Bizottság | 2008. évi XLVI. tv., 220/2008. (VIII. 30.) Korm. rendelet | Kormányhatározat | VM | 2012. I. félév |
-
 | Állatvédelmi Tanácsadó testület | 1998. évi XVIII. tv., 10/1999. (I. 27.) FVM rendelet | Kormányhatározat | VM | 2012. II. félév |
 
-| Magyar Takarmánykódex Bizottság | 2008. évi XLVI. tv., 220/2008. (VIII. 30.) Korm. rendelet | Miniszteri utasítás | VM | 2012. I. félév |
-
 | Bor Eredetvédelmi Tanács | 2004. évi XVIII. tv., 173/2009. FVM rendelet | Kormányhatározat | VM | 2012. I. félév |
-
-| NFA Birtokpolitikai Tanács | 2010. évi LXXXVII. tv. | Kormányhatározat vagy miniszteri utasítás | VM | 2012. I. félév |
-
-| Codex Alimentarius Magyar Nemzeti Bizottság | 2008. évi XLVI. tv., 220/2008. (VIII. 30.) Korm. rendelet | Miniszteri utasítás | VM | 2012. I. félév |
 
 | Növényi Génbank Tanács és szakági munkabizottságai | 38/2003. (VIII. 14.) FVM rendelet | Kormányhatározat | VM | 2012. I. félév |
 
@@ -164,15 +152,11 @@
 
 | Pro Silva Hungariae-Díj Bizottság | 91/2003. (VII. 31.) FVM rendelet | Miniszteri utasítás | VM | 2012. I. félév |
 
-| Országos Környezetvédelmi tanács | 1995. évi LIII. tv. | Kormányhatározat | VM | 2012. I. félév |
-
 | Partnerség Munkabizottság | 52/2011. (VI. 7.) VM rendelet | Miniszteri utasítás | VM | 2012. I. félév |
 
 | Agrárgazdasági tanács | 1997. évi CXIV. tv. | Kormányhatározat | VM | 2012. I. félév |
 
 | Őshonos Haszonállatok Génerőforrás Bizottsága | 4/2007. (I. 18.) FVM–KvVM együttes rendelet | Kormányhatározat | VM | 2012. I. félév |
-
-| Géntechnológiai Eljárásokat Véleményező Bizottság | 1998. évi XXVII. tv., 142/2004. FVM–GKM együttes rendelet | Kormányhatározat | VM | 2012. I. félév |
 
 | Területi vízgazdálkodási tanácsok | 221/2004. Korm. rendelet, 5/2009. (IV. 14.) KvVM rendelet | Kormányhatározat | VM | 2012. II. félév |
 
@@ -229,8 +213,6 @@
 | Etil-alkohol piaci rendtartási döntéseket előkészítő, egyeztető bizottság | 6/2005. (I. 19.) Korm. rendelet | Miniszteri utasítás | VM | 2012. I. félév |
 
 | A mezőgazdasági termékek 3. országokban és belső piacon történő megismertetésével és promóciójával kapcsolatos intézkedésekről szóló 46/2005. (V.23.) FVM rendelet alapján létrehozott Pályázat Értékelő Bizottság | 46/2005. (V. 23.) FVM rendelet | Miniszteri utasítás | VM | 2012. I. félév |
-
-| Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottsága | 2008. évi XLVI. tv., 220/2008. (VIII. 30.) Korm. rendelet | Kormányhatározat | VM | 2012. I. félév |
 
 | A Vidékfejlesztési Minisztérium Szakmai Tankönyv Bíráló Bizottság | 1993. évi LXXVI. tv., 2001. évi XXXVII. tv. | Kormányhatározat | VM | 2012. I. félév |
 
