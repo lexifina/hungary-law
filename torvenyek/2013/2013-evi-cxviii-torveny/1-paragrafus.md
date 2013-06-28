@@ -1,0 +1,3 @@
+## 1. Egyes állami ingatlanok ingyenes önkormányzati tulajdonba adása
+
+1. § Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján úgy rendelkezik, hogy az 1. mellékletben felsorolt, állami vagyonba tartozó ingatlanok ingyenesen az ott megjelölt helyi önkormányzatok tulajdonába kerülnek a tulajdonosváltozásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés (a továbbiakban: szerződés) megkötését követően, a szerződésben meghatározott időpontban.
