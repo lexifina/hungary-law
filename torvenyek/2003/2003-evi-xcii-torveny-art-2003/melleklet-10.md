@@ -9,15 +9,3 @@ Az Európai Közösség tagállamában illetőséggel nem bíró adózókra vona
 3. Az adózó az azonosító szám megállapítása céljából az e törvény 3. § (3) bekezdése szerinti tevékenység megkezdését megelőzően az állami adóhatósághoz elektronikus úton bejelenti:
 
 a) nevét,
-
-b) postacímét, elektronikus címeit (ideértve az elektronikus levelezési és internetcímeket),
-
-c) illetősége szerinti adóazonosító számát, amennyiben ilyennel rendelkezik,
-
-d) vezető tisztségviselőjének és az adóhatósággal történő kapcsolattartásra feljogosított személynek nevét, címét, telefonszámát,
-
-e) nyilatkozatát arról, hogy az Európai Közösség más tagállamának adóhatósági nyilvántartásába nem jelentkezett be,
-
-f) az e törvény 3. § (3) bekezdése szerinti tevékenységének kezdő időpontját,
-
-g) az elektronikus úton nyújtott szolgáltatásának megnevezését.

@@ -88,7 +88,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (7) Az Szja. tv. 65. § (1) bekezdésében meghatározott kamatjövedelemből levont adót és annak alapját az Szja. tv. 65. § (2) bekezdésének a) pontjában meghatározott esetben a kifizető – magánszemélyhez nem köthető kötelezettségként – bruttó módon a (2) bekezdés szerinti bevallásában vallja be.
 
-(8)
+(8) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény szerinti Stabilitás Megtakarítási Számláról származó jövedelemből levont adót és annak alapját a kifizető – magánszemélyhez nem köthető kötelezettségként – bruttó módon a (2) bekezdés szerinti bevallásában vallja be.
 
 (9) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett a (2) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 30/A. §-ának (1)–(2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat.
 
