@@ -1,6 +1,6 @@
 6. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszíti a 8/2012. (II. 22.) KIM rendelet a közigazgatási és igazságügyi miniszter Nemzetiségi Tanulmányi Ösztöndíjáról.
+(2)[^1]
 
 (3) E rendelet rendelkezéseit a folyamatban levő pályázati eljárásban is alkalmazni kell.
 
@@ -91,3 +91,5 @@ Dátum: ............... 201.. .............. hó .... nap
 | 1054 Budapest, Akadémia u. 3. | Telefonszám: (06 1) 795 6483 |
 
 | Kérjük, hogy a borítékra írják rá: | Nemzetiségi Tanulmányi Ösztöndíj |
+
+[^1]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
