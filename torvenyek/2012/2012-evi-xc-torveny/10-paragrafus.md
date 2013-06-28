@@ -4,7 +4,7 @@
 
 (2) A díjak mértékét az égéstermék-elvezető típusa, a tüzelési mód, az égéstermék-elvezető igénybevételének jellege, és a közszolgáltatással érintett ellátási terület településszerkezetének figyelembevételével kell meghatározni.
 
-(3) A közszolgáltatás díjának fedezetet kell biztosítania a hatékonyan működő vállalkozás ráfordításaihoz és a közszolgáltatással összefüggő működés fejleszthető fenntartásához.
+(3)
 
 (4) A díjak megállapításakor ki kell kérni a fogyasztóvédelmi hatóság és a szakmai érdekképviseletek véleményét.
 

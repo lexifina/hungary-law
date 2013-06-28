@@ -1,0 +1,1 @@
+10/A. § A természetes személy tulajdonában lévő, lakhatás célját szolgáló ingatlanok és természetes személy tulajdonában lévő, időlegesen használt ingatlanok esetében a közszolgáltatás díját úgy kell megállapítani, hogy az alacsonyabb legyen a 2012. december 31-én alkalmazott közszolgáltatási díj 90%-nál és a 2013. június 30-án alkalmazott közszolgáltatás díj 90%-nál.

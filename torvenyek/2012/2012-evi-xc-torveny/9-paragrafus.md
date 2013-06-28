@@ -18,7 +18,7 @@ d) a c) pontba nem tartozó szabálytalanságot legkésőbb a következő ellen�
 
 e) a közszolgáltatásért járó díjat megfizetni az ingatlan tulajdonosának a (3) bekezdés c) pontja szerinti bejelentése esetén,
 
-f) a 7. § (1) bekezdésében meghatározott második időponttól számított 30 napon belül a közszolgáltatást – külön egyeztetést követően – igénybe venni, és a közszolgáltatás díján túl a külön kiszállás díját megfizetni, amennyiben a közszolgáltató a második időpontban sem tudta a közszolgáltatást ellátni.
+f) a 7. § (1) bekezdésében meghatározott második időponttól számított 30 napon belül a közszolgáltatást – külön egyeztetést követően – igénybe venni, amennyiben a közszolgáltató a második időpontban sem tudta a közszolgáltatást ellátni.
 
 (3) Az ingatlan tulajdonosa köteles
 
