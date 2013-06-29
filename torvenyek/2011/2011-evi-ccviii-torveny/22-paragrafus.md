@@ -4,13 +4,15 @@
 
 a) e törvény rendelkezéseinek,
 
-b) a Hpt.-nek az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások végzésének feltételeire vonatkozó rendelkezéseinek,
+b) a Hpt.-nek az MNB engedélyezési hatáskörébe tartozó vagy az MNB felé bejelentési kötelezettség alá eső kiegészítő pénzügyi szolgáltatások végzésének feltételeire vonatkozó rendelkezéseinek,
 
 c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvénynek az MNB felügyeleti hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végző szolgáltatókra vonatkozó rendelkezéseinek,
 
 d) a jegybanki információs rendszerhez információszolgáltatást előíró jogszabály rendelkezéseinek és
 
-e) az MNB elnöke rendeleteinek
+e) az MNB elnöke rendeleteinek,
+
+f) a 260/2012/EU európai parlamenti és tanácsi rendeletnek
 
 a megtartására, az MNB hatósági határozataiban, szakhatósági állásfoglalásaiban foglaltak végrehajtására, valamint a Tpt. és a Hpt. alapján kiszervezett tevékenységet végzők ellenőrzésére terjed ki.
 

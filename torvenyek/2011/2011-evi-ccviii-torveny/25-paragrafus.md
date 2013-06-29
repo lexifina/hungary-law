@@ -20,7 +20,13 @@ h) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MN
 
 i) bírságot szab ki,
 
-j) egyéb, törvényben előírt intézkedéseket alkalmaz.
+j) megtiltja a forgatható utalványok további kibocsátását,
+
+k) elrendeli a kibocsátott forgatható utalványok forgalomból való kivonását,
+
+l) elrendeli a forgatható utalványok megsemmisítését,
+
+m) egyéb, törvényben előírt intézkedéseket alkalmaz.
 
 (2) Az intézkedéseket az MNB együttesen és ismételten is alkalmazhatja.
 
@@ -46,7 +52,7 @@ g) a szabályszegés, illetve a mulasztás ismétlődésére és gyakoriságára
 
 (6) Az (5) bekezdésben meghatározott határidőkön belül intézkedés akkor is alkalmazható, ha az intézkedéssel érintett természetes személy az intézkedés alkalmazásakor már nem áll az ellenőrzött szervezet vagy személy alkalmazásában, megbízatása megszűnt vagy az ellenőrzött tevékenységet már nem végzi.
 
-(7) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, vagy az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a 22. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában foglalt előírásokat, az MNB felszólítja a fióktelepet, a pénzügyi intézményt a szabályellenes helyzet megszüntetésére. Ha a fióktelep vagy a pénzügyi intézmény a felszólításnak nem tesz eleget, az MNB értesíti a Felügyeletet. A Felügyelet az MNB értesítése szerint vagy értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, vagy kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
+(7) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, vagy az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a 22. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában foglalt előírásokat, az MNB felszólítja a fióktelepet, a pénzügyi intézményt, a pénzforgalmi intézményt, az elektronikuspénz-kibocsátó intézményt a szabályellenes helyzet megszüntetésére. Ha a fióktelep, a pénzügyi intézmény, a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény a felszólításnak nem tesz eleget, az MNB értesíti a Felügyeletet. A Felügyelet az MNB értesítése szerint vagy értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, vagy kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
 
 (8) A bírságot a kiszabásáról hozott határozat jogerőre emelkedésétől számított harminc napon belül kell a határozatban megjelölt számlára befizetni.
 

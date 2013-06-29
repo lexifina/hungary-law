@@ -56,7 +56,7 @@ bd) a kockázatok kezelésének szabályait,
 
 be) a kötelező biztosíték képzésének, felhasználásának szabályait,
 
-bf) a tőzsdei ügylet elszámolásához kapcsolódó kötelezettségvállalás szabályait,
+bf)
 
 bg) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
 
@@ -78,7 +78,7 @@ da) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó
 
 db) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
 
-dc) a tőzsdei ügylet teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
+dc) a központi szerződő fél által garantált ügyletek teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
 
 dd) a kockázatok kezelésének szabályait,
 
@@ -86,7 +86,9 @@ de) a kötelező biztosítékok képzésének, felhasználásának szabályait,
 
 df) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
 
-dg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit.
+dg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit,
+
+dh) az elszámolás és teljesítés rendjét.
 
 (4) Az MNB elnökének rendelete esetében az igazságügyért felelős miniszter véleményét nem kell kikérni.
 

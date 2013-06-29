@@ -29,3 +29,5 @@ d) akire nézve az MNB által vezetett nyilvántartás adatot tartalmaz.
 (10a) Az MNB eljárásában az ügyfél kérelmére nem folytatható le hatósági ellenőrzés.
 
 (11) Olyan kötelezett esetén, amely számára az MNB fizetési számlát vezet, az MNB közvetlen kielégítés útján hajtja be a pénzfizetésre szóló határozatból eredő lejárt tartozást.
+
+(12) A Tpt. szerinti elszámolóházi, központi értéktári, központi szerződő fél tevékenység engedélyezésének eljárásában az MNB szakhatósági közreműködésének ügyintézési határideje 45 nap. A 20. § (5) bekezdése szerinti feladatkörbe tartozó szakhatósági közreműködés ügyintézési határideje 30 nap.
