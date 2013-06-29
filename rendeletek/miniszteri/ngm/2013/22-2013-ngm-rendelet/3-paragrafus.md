@@ -1,1 +1,3 @@
-## „k) egyszerűsített pincekönyv-vezetés választása esetén a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló miniszteri rendeletben (a továbbiakban: pincekönyves rendelet) meghatározott feltételeknek való megfelelésre vonatkozó nyilatkozatot.”
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
