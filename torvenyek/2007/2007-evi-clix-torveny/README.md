@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-159-00-00
 | 2012-10-28 | 2012. évi CLI. törvény | 2007-159-00-00.11 |
 | 2013-01-01 | 2012. évi CLXXXI. törvény | 2007-159-00-00.12 |
 | 2013-06-22 | 2013. évi LXXXIII. törvény | 2007-159-00-00.13 |
+| 2013-06-29 | 2013. évi LXXXVI. törvény | 2007-159-00-00.14 |
