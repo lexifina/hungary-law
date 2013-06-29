@@ -20,7 +20,7 @@ d) a fiatalkorú terhelt törvényes képviselője,
 
 e) a kényszergyógykezelés elrendelése ellen – a terhelt hozzájárulása nélkül is – a nagykorú terhelt törvényes képviselője, házastársa vagy élettársa,
 
-f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy élettársa.
+f) a terhelt halála után egyenesági rokona, testvére, házastársa vagy élettársa, illetve amennyiben a terhelt halála óta több, mint ötven év telt el, oldalági rokona.
 
 (2) A 416. § (1) bekezdésének e) és g) pontjában meghatározott esetekben a legfőbb ügyész hivatalból köteles a felülvizsgálati indítványt benyújtani.
 
