@@ -1,6 +1,6 @@
 ## 10. § A jogszabályok sorszámát a jogalkotó szervek és a jogszabály típusa szerint évenként egytől kezdődően, a kihirdetés ideje szerint folyamatosan, növekvő sorrendben kell meghatározni, függetlenül a kihirdetés módjától.
 
-11. §[^11] (1) A jogszabály megalkotójának teljes megjelölése
+11. §[^13] (1) A jogszabály megalkotójának teljes megjelölése
 
 a) a Kormány esetén „A Kormány”,
 
@@ -30,4 +30,4 @@ e) a Pénzügyi Szervezetek Állami Felügyelete elnöke esetén „PSZÁF”,
 
 f) a Nemzeti Média- és Hírközlési Hatóság elnöke esetén „NMHH”.
 
-[^11]: A 11. § a 13/2011. (IV. 22.) KIM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 11. § a 13/2011. (IV. 22.) KIM rendelet 2. §-ával megállapított szöveg.

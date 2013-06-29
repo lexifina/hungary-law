@@ -2,7 +2,7 @@
 
 ## 3. A közjogi szervezetszabályozó eszköz valamint a nem normatív utasítás és határozat megjelölése a közzététel során
 
-13. §[^12] (1) A normatív határozat megjelölése annak közzététele során – az alábbi sorrendben –
+13. §[^14] (1) A normatív határozat megjelölése annak közzététele során – az alábbi sorrendben –
 
 a) a normatív határozatot hozó szerv teljes megjelölését,
 
@@ -24,7 +24,7 @@ foglalja magában.
 
 (2) Nem foglalja magában a normatív határozatot hozó szerv megjelölésének a rövidítését a helyi önkormányzat képviselő-testülete normatív határozatának és a nemzetiségi önkormányzat képviselő-testülete normatív határozatának a közzététel során történő megjelölése.
 
-14. §[^13] (1) A normatív utasítás megjelölése annak közzététele során – az alábbi sorrendben –
+14. §[^15] (1) A normatív utasítás megjelölése annak közzététele során – az alábbi sorrendben –
 
 a) a normatív utasítást kiadó szerv teljes megjelölését,
 
@@ -54,5 +54,5 @@ c) a minisztérium hivatali szervezetének vezetője kivételével a jogalkotás
 
 normatív utasításának a közzététel során történő megjelölése.
 
-[^12]: A 13. § a 44/2011. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg.
-[^13]: A 14. § a 44/2011. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 13. § a 44/2011. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 14. § a 44/2011. (XII. 31.) KIM rendelet 3. §-ával megállapított szöveg.

@@ -4,25 +4,25 @@
 
 1. A Magyar Közlöny fősorozatának címrendje a következő:
 
-a)[^21] I. Az Alaptörvény és annak módosításai,
+a)[^23] I. Az Alaptörvény és annak módosításai, valamint az Alaptörvény egységes szerkezete,
 
 b) II. Törvények,
 
 c) III. Kormányrendeletek,
 
-d)[^22] IV. A Magyar Nemzeti Bank elnökének rendeletei, valamint az önálló szabályozó szerv vezetőjének rendeletei,
+d)[^24] IV. A Magyar Nemzeti Bank elnökének rendeletei, valamint az önálló szabályozó szerv vezetőjének rendeletei,
 
 e) V. A Kormány tagjainak rendeletei,
 
-f)[^23] VI. Az Alkotmánybíróság határozatai, teljes ülési állásfoglalásai és végzései,
+f)[^25] VI. Az Alkotmánybíróság határozatai, teljes ülési állásfoglalásai és végzései,
 
-g)[^24] VII. A Kúria határozatai,
+g)[^26] VII. A Kúria határozatai,
 
 h) VIII. Az Országos Választási Bizottság állásfoglalásai,
 
 i) IX. Határozatok Tára.
 
-2.[^25] A Magyar Közlöny külön sorozataként megjelenő Hivatalos Értesítő címrendje a következő:
+2.[^27] A Magyar Közlöny külön sorozataként megjelenő Hivatalos Értesítő címrendje a következő:
 
 a) I. Utasítások,
 
@@ -36,8 +36,8 @@ e) V. Alapító okiratok,
 
 f) VI. Hirdetmények.
 
-[^21]: Az 1. melléklet 1. pont a) alpontja a 44/2011. (XII. 31.) KIM rendelet 5. § (3) bekezdése szerint módosított szöveg.
-[^22]: A 1. melléklet 1. pont d) alpontja a 13/2011. (IV. 22.) KIM rendelet 3. §-ával megállapított, a 44/2011. (XII. 31.) KIM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^23]: Az 1. melléklet 1. f) pontja az 52/2012. (XII. 22.) KIM rendelet 5. §-ával megállapított szöveg.
-[^24]: Az 1. melléklet 1. g) pontja az 52/2012. (XII. 22.) KIM rendelet 5. §-ával megállapított szöveg.
-[^25]: Az 1. melléklet 2. az 52/2012. (XII. 22.) KIM rendelet 5. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 1. pont a) alpontja a 44/2011. (XII. 31.) KIM rendelet 5. § (3) bekezdése, a 6/2013. (V. 30.) KIM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^24]: A 1. melléklet 1. pont d) alpontja a 13/2011. (IV. 22.) KIM rendelet 3. §-ával megállapított, a 44/2011. (XII. 31.) KIM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^25]: Az 1. melléklet 1. f) pontja az 52/2012. (XII. 22.) KIM rendelet 5. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet 1. g) pontja az 52/2012. (XII. 22.) KIM rendelet 5. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 2. az 52/2012. (XII. 22.) KIM rendelet 5. §-ával megállapított szöveg.

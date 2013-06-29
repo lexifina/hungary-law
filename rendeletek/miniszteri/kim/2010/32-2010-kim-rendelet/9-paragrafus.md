@@ -1,5 +1,3 @@
-## foglalja magában.
-
 ## 2. A megalkotott jogszabály megjelölése a jogszabály kihirdetése során
 
 9. § (1) Törvény megjelölése annak kihirdetése során – az alábbi sorrendben –
