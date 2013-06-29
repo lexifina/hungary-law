@@ -1,3 +1,5 @@
 11. § (1) Árutőzsdei szolgáltatás – a (2) bekezdésben foglaltak figyelembevételével – a Felügyelet engedélyével nyújtható.
 
 (2) A külföldi befektetési vállalkozás fióktelepe árutőzsdei szolgáltatást akkor nyújthat, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével.
+
+(3) Az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (a továbbiakban: 1031/2010/EU bizottsági rendelet) 18. cikk (2) és (3) bekezdésében hivatkozott személyek ezen cikkek alapján ajánlatot tenni kizárólag a Felügyelet e törvény 9. § (1) bekezdés a) és b) pontjában meghatározott tevékenységnek a 9. § (2) bekezdés b) pontjában meghatározott eszközre vonatkozó árutőzsdei szolgáltatás nyújtására irányuló engedélye alapján jogosultak.

@@ -22,7 +22,7 @@ j) e törvényben és külön jogszabályban meghatározott tárgyi, technikai f
 
 k) a könyvvizsgáló igazolását arra vonatkozólag, hogy az árutőzsdei szolgáltató informatikai rendszere alkalmas a 18. § (2) bekezdésében meghatározott követelmények teljesítésére,
 
-l)
+l) az 1031/2010/EU bizottsági rendelet 59. cikkében meghatározott feltételek teljesülésének részletes leírását, amennyiben a kérelmező által a c) pont keretében megjelölt végezni kívánt tevékenység a 11. § (3) bekezdésében meghatározottakra vonatkozik.
 
 m) fióktelep formájában működő árutőzsdei szolgáltató esetében a székhely szerinti felügyeleti hatóság igazolását arról, hogy rendelkezik a tevékenység végzésére jogosító tevékenységi engedéllyel,
 
