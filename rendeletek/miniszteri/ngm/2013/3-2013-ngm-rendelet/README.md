@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-3-20-2X
 | 2013-04-15 | 2013-3-20-2X.5 | 13/2013. (III. 29.) NGM rendelet |
 | 2013-05-01 | 2013-3-20-2X.6 | 13/2013. (III. 29.) NGM rendelet |
 | 2013-06-04 | 2013-3-20-2X.7 | 16/2013. (VI. 3.) NGM rendelet |
+| 2013-06-29 | 2013-3-20-2X.8 | 25/2013. (VI. 28.) NGM rendelet |
