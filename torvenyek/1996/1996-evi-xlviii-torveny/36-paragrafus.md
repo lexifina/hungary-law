@@ -16,7 +16,7 @@ f) ha nincs további ajánlat, a felajánlott legmagasabb vételár háromszori 
 
 g) az árverésről árverési jegyzőkönyvet készít, amely tartalmazza az e §-ban felsoroltakat, valamint az árverési biztos és a vevő aláírását, amellyel a vevő elismeri a kikiáltott vételár megfizetésének kötelezettségét.
 
-(3) Az áru árverésen történő értékesítése esetén az általános forgalmiadó-fizetési kötelezettség alapja az árverésen elért általános forgalmi adó nélküli ár. Az árverésen történő értékesítésre egyebekben az általános forgalmi adóról szóló 1992. évi LXXIV. törvény rendelkezései az irányadók.
+(3) Az áru árverésen történő értékesítése esetén az általános forgalmiadó-fizetési kötelezettség alapja az árverésen elért általános forgalmi adó nélküli ár. Az árverésen történő értékesítésre egyebekben az általános forgalmi adóról szóló törvény rendelkezései az irányadók.
 
 (4) Ha a felajánlott legmagasabb vételár nem éri el a kikiáltási árat, az áru megromlásának veszélye miatt történt értékesítés esetén az árverési biztos a legmagasabb ajánlati áron, de legalább a kikiáltási ár ötven százalékán kiálthatja ki ismét az árat. Ha így sem sikerül az értékesítés, akkor a legmagasabb árat ajánló vevő részére kell értékesíteni az árut.
 

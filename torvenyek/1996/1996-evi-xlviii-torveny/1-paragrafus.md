@@ -17,3 +17,9 @@
 (4) Saját tárolás a közraktár tulajdonában, valamint a legalább három éven át, a közraktározás teljes időtartamát is magában foglaló megszakítás nélküli egyéb jogcímen birtokban tartott és saját üzemeltetésében lévő raktárban történő közraktározás. Művi tárolás minden sajátnak nem minősülő tárolás.
 
 (5) E törvény szerint áru a pénz és az értékpapír kivételével minden forgalomképes ingó dolog.
+
+(6) Közraktározási biztosíték a közraktári tevékenység felfüggesztése vagy a közraktári engedély visszavonása esetén felhasználható pénzösszeg, amely kizárólag a közraktározott áru leltározásával, mennyiségének és minőségének ellenőrzésével, vagyonvédelmével, biztosításával, kiszolgáltatásával, valamint kényszerértékesítésével kapcsolatban felmerülő, közvetlen költségek fedezetére szolgál.
+
+(7) Nagykockázatú tárolásnak minősül, ha a művi tárolással egy telephelyen letett áru közraktári jegyen feltüntetett értéke eléri a közraktár saját tőkéjének kétszeresét.
+
+(8) A közraktár vagyonának a számvitelről szóló törvény szerinti befektetett eszközök és forgóeszközök minősülnek.

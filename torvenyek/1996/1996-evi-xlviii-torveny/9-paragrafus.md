@@ -6,15 +6,15 @@
 
 9. § (1) A közraktári piac ellenőrzését a felügyelet látja el. A feladata e körben a piac szabályozása és a közbizalom érdekében a közraktári tevékenység engedélyezése, s a közraktár – e törvényben és a rá vonatkozó egyéb jogszabályokban előírt – kötelezettségei betartásának folyamatos ellenőrzése.
 
-(2)
+(2) A közraktári engedély 10. § (1) bekezdés c) pontja szerinti visszavonása esetén a felügyelet felügyeleti jogkörét a közraktár által kibocsátott valamennyi közraktári jegy bevonásáig gyakorolhatja.
 
-(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – a Pénzügyi Szervezetek Állami Felügyeletével együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
+(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – a PSZÁF-fel együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
 
 (4) Az ellenőrzés során a közraktár köteles
 
 a) az ingatlanra vonatkozó, harminc napnál nem régebbi tulajdoni lapot,
 
-b) az éves beszámolóját, és a beszámoló óta eltelt időszakról készült jelentést,
+b) a közraktározási biztosíték fennállására vonatkozó igazolást,
 
 c) a közraktári szerződésekről és a kiállított közraktári jegyekről, valamint a közraktározott áru becsértékéről vezetett nyilvántartását,
 

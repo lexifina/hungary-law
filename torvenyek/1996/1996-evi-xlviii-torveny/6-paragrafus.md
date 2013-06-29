@@ -12,6 +12,10 @@
 
 a) az általa kiadott tevékenységi engedéllyel rendelkezők jegyzékét (közraktár neve, székhelye, telefon- és faxszáma, e-mail címe, engedély száma, engedély kiadásának időpontja), a tevékenység felfüggesztésének és az engedély visszavonásának tényét és időpontját, valamint a kirendelt felügyeleti biztos nevét, kirendelésének időpontját,
 
-b) azon külföldi felügyeleti hatóságok jegyzékét, amelyekkel kölcsönös elismerésen alapuló együttműködési megállapodást kötött.
+b) azon külföldi felügyeleti hatóságok jegyzékét, amelyekkel kölcsönös elismerésen alapuló együttműködési megállapodást kötött,
+
+c) az ellenőrzése eredményeként hozott jogerős és előzetesen végrehajtható határozatát,
+
+d) a döntése ellen indított jogorvoslati eljárás tényét, és a jogorvoslati eljárás eredményét.
 
 (7) A (2) bekezdésében felsorolt dokumentumok, valamint a 13. § (1) és (3) bekezdésében foglalt bejelentés elektronikus úton is benyújthatóak.

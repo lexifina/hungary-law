@@ -11,3 +11,5 @@
 (7) A felügyelet előtt hivatalból folytatott eljárásban a felügyelet erre irányuló felhívására az ügyfél köteles közölni az érdemi döntéshez szükséges adatokat. Az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetén a felügyelet a rendelkezésére álló adatok alapján dönt, illetve az eljárást megszüntetheti.
 
 (8) A felügyelet döntését a felügyeleti szerv nem változtathatja meg, valamint nem semmisítheti meg.
+
+(9) A felügyelet döntései ellen fellebbezésnek nincs helye.

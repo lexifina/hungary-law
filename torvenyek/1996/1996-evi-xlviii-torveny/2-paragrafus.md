@@ -8,7 +8,15 @@
 
 (4) Az alaptőke, illetve a dotációs tőke pénzbeli részét a közraktári tevékenység engedélyezése iránti kérelem benyújtásáig kell szolgáltatni. A pénzbeli hozzájárulást a közraktári tevékenység engedélyezése iránti kérelem benyújtása előtt olyan belföldi székhelyű hitelintézetnél kell befizetni, illetve a működés megkezdéséig olyan hitelintézetnél vezetett számlán kell tartani, amely nem vesz részt az alapításban, amelyben az alapítónak nincs tulajdona, illetve, amely az alapítóban nem rendelkezik tulajdonnal.
 
-(5) A nem pénzbeli hozzájárulásként a közraktár rendelkezésére bocsátott, a közraktári tevékenység folytatására alkalmas, tehermentes ingatlannak a Magyar Könyvvizsgálói Kamara bejegyzett tagja vagy a kamarai nyilvántartásba bejegyzett könyvvizsgálói társaság által megállapított értéke nem lehet kevesebb kétszázötvenmillió forintnál, s e feltételnek a közraktári tevékenység folytatása alatt is folyamatosan fenn kell állnia.
+(5) Nem pénzbeli hozzájárulásként a közraktári tevékenység folytatására alkalmas, tehermentes ingatlan bocsátható a közraktár rendelkezésére, amelynek értéke nem lehet kevesebb kétszázötvenmillió forintnál. Az ingatlan értékét ingatlanszakértő által megállapított, és a Magyar Könyvvizsgálói Kamara bejegyzett tagja vagy a kamarai nyilvántartásba bejegyzett könyvvizsgálói társaság által elfogadott értéken kell figyelembe venni. E feltételeknek az (5a) bekezdésben foglalt eltéréssel a közraktári tevékenység folytatása alatt is folyamatosan fenn kell állnia.
+
+(5a) Az (5) bekezdés szerinti ingatlan kizárólag az 1. § (6) bekezdésében meghatározott közraktározási biztosíték 4/B. § (3) bekezdés b) pontja szerinti formában való nyújtása érdekében terhelhető meg a közraktározási biztosíték összegének erejéig.
+
+(5b) Az (5) bekezdés szerinti értékbecslést végezheti
+
+a) az igazságügyi szakértői névjegyzékbe az értékbecslési szakterületnek megfelelő ágazati szakértőként bejegyzett szakértő, vagy
+
+b) olyan gazdálkodó szervezet, amely az ingatlanvállalkozás-felügyeleti hatóság által az üzletszerű ingatlanvagyon-értékelői és közvetítői tevékenység végzésére jogosult szolgáltatókról vezetett nyilvántartásban szerepel, és legalább egy személyesen közreműködő tagja vagy alkalmazottja, foglalkoztatottja az a) pontban meghatározott szakértői jogosultsággal rendelkezik.
 
 (6) Cégnevében, hirdetésében vagy bármilyen más módon a ,,közraktár'' elnevezést, e fogalmak összetételeit, jelzős alakját, továbbá rokonértelmű vagy idegen nyelvű megfelelőjét csak az e törvény rendelkezéseinek megfelelően alapított és működtetett, belföldön cégjegyzékben bejegyzett részvénytársaság vagy fióktelep szerepeltetheti.
 

@@ -28,12 +28,12 @@ k) a szerződő felek cégszerű aláírását és keltezést.
 
 a) a többi árutól elkülönítve, vagy
 
-b) a többi letevő azonos fajú helyettesíthető áruival összekeverve
+b) a többi letevő vagy azonos letevő különböző szerződés alapján közraktározott, azonos fajú helyettesíthető áruival összekeverve
 
 tárolják.
 
 (4) A (3) bekezdés a) pontjában írt esetben a közraktárnak a közraktári jegy alapján a letevő által letett árut kell kiadni, a b) pont szerinti esetben a közraktári jegy birtokosa a közraktártól a letett áru alapján megállapított és közraktári jegyen megjelölt minőségnek és mennyiségnek megfelelő áru kiadására tarthat igényt.
 
-(5) A letevő a közraktározás megkezdésekor köteles az áru minőségét tanúsítani. A közraktár és a letevő a minőségre tekintettel megállapodik, hogy a közraktár által történő átvétel időpontjában az áru milyen értéket képvisel, amelyet a közraktári szerződésben rögzíteni kell. Eltérő megállapodás hiányában az áru értéke a letevő könyveiben az áru értékeként megjelölt összeg. A felek megállapodhatnak abban is, hogy az áru értékét szakértő állapítsa meg. Az áru így megállapított értéke az alapja a kártérítési igénynek.
+(5) A letevő a közraktározás megkezdésekor köteles az áru minőségét tanúsítani, és származását igazolni. A közraktár és a letevő a minőségre tekintettel megállapodik, hogy a közraktár által történő átvétel időpontjában az áru milyen értéket képvisel, amelyet a közraktári szerződésben rögzíteni kell. Eltérő megállapodás hiányában az áru értéke a letevő könyveiben az áru értékeként megjelölt összeg. A felek megállapodhatnak abban is, hogy az áru értékét szakértő állapítsa meg. Az áru így megállapított értéke az alapja a kártérítési igénynek.
 
 (6) Az áru szavatosságának megőrzése érdekében a letevő és a közraktár megállapodhat abban, hogy a közraktározás ideje alatt a letevő az árut azonos fajtájú, mennyiségű, és minőségű áruval kicserélje. A letett áru kicserélésére vonatkozó részletes szabályokat a közraktár üzletszabályzatában kell rögzíteni.

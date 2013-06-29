@@ -1,6 +1,12 @@
-## Végrehajtás, csődeljárás, felszámolás
+## Végrehajtás, csődeljárás, felszámolás, végelszámolás, kényszertörlési eljárás
 
-38. § (1) A közraktárba letett árut bírósági végrehajtás során lefoglalni nem lehet. A közraktárba letett áru nem tartozik a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló, többször módosított 1991. évi IL. törvény (a továbbiakban: Cstv.) által meghatározott vagyonba. Az árujegyet és a zálogjegyet – mint értékpapírt – bírósági végrehajtás során le lehet foglalni, és a Cstv. szerinti vagyon megállapításánál is figyelembe kell venni. A bírósági végrehajtás során történő értékesítéskor a végrehajtó által készített jegyzőkönyv pótolja a forgató nyilatkozatot.
+38. § (1) A közraktárba letett áru nem tartozik a közraktárnak a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Cstv.) szerinti vagyonába.
+
+(1a) A közraktárba letett árut bírósági végrehajtás során lefoglalni nem lehet.
+
+(1b) Az árujegyet és a zálogjegyet – mint értékpapírt – bírósági végrehajtás során le lehet foglalni, és a Cstv. szerinti vagyon megállapításánál is figyelembe kell venni.
+
+(1c) A bírósági végrehajtás során történő értékesítéskor a végrehajtó által készített jegyzőkönyv pótolja a forgató nyilatkozatot.
 
 (2) Az árujegy birtokosának csődeljárása esetén a zálogjegy birtokosára nem hat ki a fizetési haladék és a kényszeregyezség. Ha a követelését nem elégíti ki a zálogjegy első forgatója, a lejáratot követően a zálogjegybirtokos e törvény alapján az áru értékesítése során befolyt összegből kérheti a kielégítést.
 

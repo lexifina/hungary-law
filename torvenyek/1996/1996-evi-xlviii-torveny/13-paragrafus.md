@@ -8,11 +8,11 @@ b) a zálogkölcsönnyújtási szabályzat módosításának szándékát;
 
 c) az alkalmazni kívánt közraktári jegyek, letéti könyv megváltoztatásának szándékát.
 
-(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén a Pénzügyi Szervezetek Állami Felügyeletének a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
+(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén a PSZÁF-nek a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
 
 (3) A közraktár köteles az alábbiakat haladéktalanul írásban bejelenteni a felügyeletnek:
 
-a) ha költséget, ráfordítást eredményező kötelezettségeinek összege eléri a közraktár saját tőkéjének huszonöt százalékát;
+a) ha költséget, ráfordítást eredményező kötelezettségeinek összege eléri a közraktár az előző üzleti évi éves beszámolóban kimutatott saját tőkéjének huszonöt százalékát;
 
 b) fizetésképtelensége veszélyét;
 
@@ -24,6 +24,12 @@ e) cégadatainak megváltozását;
 
 f) a részvénytársaság tulajdonosi szerkezetének megváltozását;
 
-g) a létesítő okirat engedélyt nem igénylő változását.
+g) a létesítő okirat engedélyt nem igénylő változását;
+
+h) a közraktározási biztosíték nyújtási formájának megváltoztatását;
+
+i) a 2.§ (5) bekezdése szerinti ingatlanvagyon összetételének változására irányuló szándékát.
+
+(3a) A közraktár köteles az arra jogosult szerv által elfogadott, könyvvizsgálói záradékot, vagy a könyvvizsgálói záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentést tartalmazó, a számviteli törvény szerinti beszámolóját, annak elfogadását követő tizenöt napon belül a felügyeletnek megküldeni.
 
 (4) A felügyelet harminc napon belül megvizsgálja, hogy a (3) bekezdés a)–d) pontjai szerinti bejelentésben foglalt esemény veszélyezteti-e a közraktár zavartalan működését, kötelezettségeinek teljesítését, illetve igényel-e felügyeleti intézkedést.

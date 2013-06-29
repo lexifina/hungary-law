@@ -10,6 +10,10 @@
 
 (5) A közraktári jegy birtokosát a hátiratok összefüggő láncolata igazolja, az üres forgatmányt érvényesnek kell tekinteni. A közraktári jegy forgatása nem közraktári tevékenység.
 
-(6) A közraktári jegy birtokosa a zálogjegy forgatásával kölcsönt vehet fel. A szabályosan forgatott zálogjegy önmagában a zálogjegyen szereplő összeg iránti pénzkövetelést testesíti meg, és ennek fedezetéül zálogjogot biztosít birtokosának a közraktárban elhelyezett árun.
+(6) A szabályosan forgatott zálogjegy önmagában a zálogjegyen szereplő összeg iránti pénzkövetelést testesíti meg, és ennek fedezetéül zálogjogot biztosít birtokosának a közraktárban elhelyezett árun.
+
+(6a) A közraktári jegy birtokosa a zálogjegy forgatásával a közraktári jegyen feltüntetett érték erejéig olyan kölcsönt vehet fel, amelynek igényérvényesítési határideje legfeljebb a közraktári jegy lejáratát követően egy év.
 
 (7) Az árujegy magában véve csak a zálogjegyen feltüntetett összeggel csökkentett értékkel rendelkezik, és a közraktárnak az áru kiszolgáltatására vonatkozó, a zálogjegy által korlátozott kötelezettségét bizonyítja.
+
+(8) A zálogjegyen feltüntetett kölcsönösszeg visszafizetése után a hitelező haladéktalanul köteles a birtokában lévő közraktári jegy valamennyi szelvényrészét az adósnak kiadni.

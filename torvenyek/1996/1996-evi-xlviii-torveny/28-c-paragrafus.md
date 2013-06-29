@@ -1,0 +1,3 @@
+28/C. § (1) A közraktár a zálogkölcsön-nyújtási tevékenységet akkor kezdheti meg, ha a közraktári engedély iránti kérelméhez, illetve a már működő közraktár a közraktári engedély módosítása iránti kérelméhez az 5. § (2) bekezdés e) és l) pontjában meghatározott dokumentumokat mellékelte, és a közraktár részére a felügyelet a zálogkölcsön-nyújtási tevékenység folytatását az 5. § (1) bekezdésének első mondata szerint engedélyezte.
+
+(2) A közraktár a zálogkölcsön-nyújtási tevékenységet akkor szüntetheti meg, ha a tevékenység megszüntetését a felügyelet az 5. § (1) bekezdésében foglaltak szerint engedélyezte.

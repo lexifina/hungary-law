@@ -1,4 +1,4 @@
-12. § (1) Ha a közraktár a közraktározásból folyó kötelezettségeinek eleget tett vagy a felügyeleti biztos további munkájára nincs szükség, a felügyelet a biztost visszarendeli, egyben kötelezi a közraktárat a kirendeléssel kapcsolatos költségek megtérítésére. A felügyeleti biztos javadalmazását a felügyelet biztosítja.
+12. § (1) Ha a közraktár a közraktározásból eredő kötelezettségeinek eleget tett, vagy a felügyeleti biztos további munkájára nincs szükség, a felügyelet a felügyeleti biztost visszarendeli, egyben kötelezi a közraktárat a felügyeleti biztos javadalmazásának és a kirendeléssel kapcsolatos egyéb költségek megtérítésére.
 
 (2) A felügyeleti biztost visszarendelő határozat rendelkező részét a felügyelet a cégbíróságnak megküldi, valamint kérelmezi a felügyeleti biztos nevének, munkahelyének, beosztásának, és a visszarendelés időpontjának a Cégközlönyben történő közzétételét.
 
