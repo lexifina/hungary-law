@@ -22,47 +22,13 @@ nem kell a számításokba bevonni)
 
 ce) a pénzforgalmi szolgáltatásból – ideértve a fizetési és elszámolási szolgáltatás végrehajtását is bármilyen valutában, devizában – származó pénzforgalmi szolgáltatóval szemben fennálló napon belüli kitettséget.”
 
-9. § A Hpt. a következő XII/C. Fejezettel egészül ki:
-
-„XII/C. FEJEZET
-
-AZ UTALVÁNYKIBOCSÁTÓ MŰKÖDÉSÉNEK SZABÁLYAI
-
-87/R. § (1) Az utalványkibocsátó a számvitelről szóló törvény szerinti saját tőkéje nem csökkenhet a 6/F. § (2) bekezdésben előírt legkisebb jegyzett tőke alá.
-
-(2) Az utalványkibocsátó a forgatható utalvány kibocsátása ellenében átvett, a forgatható utalvány hazai vagy külföldi hivatalos pénznemben kifejezett névértékének megfelelő pénzeszközzel a sajátjaként nem rendelkezhet, valamint az az utalványkibocsátó felszámolása esetén – a Cstv. rendelkezéseitől eltérően – nem része a felszámolás körébe tartozó vagyonnak.
-
-(3) Az utalványkibocsátó a nyilvántartásait úgy vezeti, hogy azok
-
-a) pontosan mutassák a forgatható utalvány kibocsátása ellenében átvett pénzeszközöket,
-
-b) alapján bármikor, késedelem nélkül biztosítható legyen az a) pont szerinti pénzeszközök, valamint az utalványkibocsátó saját pénzeszközeinek elkülönített nyilvántartása,
-
-c) valós képet mutassanak az utalványbirtokosok utalványkibocsátóval szemben fennálló mindenkori összesített pénzköveteléséről, amely az utalványbirtokosoknál kintlévő, az utalványkibocsátónál vissza nem váltott, de még visszaváltható forgatható utalványok hazai vagy külföldi hivatalos pénznemben kifejezett névértékéből tevődik össze.
-
-(4) Az utalványkibocsátó köteles az utalványbirtokosok (3) bekezdés c) pontja szerinti pénzkövetelésének fedezeteként
-
-a) a forgatható utalvány ellenében átvett pénzeszközöket az Európai Unió tagállamában székhellyel rendelkező hitelintézetnél a forgatható utalvány névértékének hazai vagy külföldi hivatalos pénznemében vezetett letéti számlán vagy az Európai Unió tagállama által kibocsátott állampapírba elhelyezni, vagy
-
-b) az utalványbirtokossal szemben fennálló pénzügyi kötelezettsége nem teljesítése esetére az utalványkibocsátótól eltérő csoporthoz tartozó, az Európai Unió tagállamában székhellyel rendelkező hitelintézettel, biztosítóval olyan bankgarancia vagy kezesi biztosítási szerződést kötni, amely a fedezet nyújtója által egyoldalúan legalább hatvannapos határidővel szüntethető meg.
-
-(5) A (4) bekezdés a) pontja szerint elhelyezett pénzösszeg és állampapír piaci értéke vagy b) pontja szerint garantált, biztosított összeg nem lehet kevesebb a (3) bekezdés c) pontja szerint az utalványkibocsátóval szemben mindenkor fennálló pénzkövetelés összegénél.
-
-(6) Az utalványkibocsátó a (4) és (5) bekezdésben foglalt követelményeknek
-
-a) a forgatható utalvány ellenértékeként átvett pénzeszköznek a saját fizetési számláján való jóváírása vagy más módon történt rendelkezésére bocsátása munkanapjától kezdve,
-
-b) utalványforgalmazó igénybevétele esetén, ha az átvett pénzeszköz a) pont szerinti jóváírására vagy más módon történő rendelkezésre bocsátására a forgatható utalvány értékesítését követő ötödik munkanapig nem kerül sor, akkor ezen ötödik munkanaptól kezdve
-
-köteles megfelelni.”
+9. §
 
 10. § A Hpt. 101. §-a a következő (13) bekezdéssel egészül ki:
 
 „(13) A közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódóan a hitelintézetnél nyitott számlák – amelyeket a hitelintézet nem a 2. számú melléklet I. Fejezet 6. pontja szerinti letéti szolgáltatás keretében vezet – a 101. § (1) bekezdésének alkalmazása során elhelyezésének időpontjától függetlenül a kártalanítási összeghatár szempontjából külön betétnek minősülnek a közjegyzőnek, végrehajtónak, ügyvédnek a hitelintézetnél lévő más betéteitől. E számlára (több számla esetén valamennyi számlára külön-külön) a közjegyzővel, végrehajtóval, ügyvéddel szemben a 100. § (1) bekezdés l) pontjában rögzített kizáró ok fennállása esetén is kiterjed az Alap által nyújtott biztosítás. Az Alap jogosult – a 105. § szerinti kártalanítási eljárás során – az ügyvédi kamarai szabályzatban előírt letéti nyilvántartásnak az ügyvédtől (ügyvédi irodától) való bekérésével ellenőrizni, hogy a kártalanítási összeghatár szempontjából külön betétnek minősül-e az ügyvédi letéti számlán elhelyezett összeg.”
 
-11. § A Hpt. 115. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Kártalanítás esetén a hitelintézet az Alap erre vonatkozó igényének közlését követő három munkanapon belül az Alap rendelkezésére bocsátja a betétnyilvántartásainak az Alap kifizető rendszere által történő feldolgozásához szükséges átalakító programot, valamint biztosítja a betétállományára vonatkozó adatoknak az Alap kifizető rendszere által történő feldolgozhatóságát.”
+11. §
 
 12. § (1) A Hpt. 119. § (1) bekezdése a következő f) ponttal egészül ki:
 
@@ -82,79 +48,13 @@ köteles megfelelni.”
 
 „(8) Az Alap az általa a 119. § (1) bekezdés f) pontja alapján kibocsátott kötvény és d) pontja szerint felvett kölcsön visszafizetése érdekében a hitelintézetek számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség mértéke nem haladhatja meg egyetlen hitelintézet esetében sem a (2) bekezdés szerint megállapított díj mértékét.”
 
-14. § A Hpt. a következő XXXI/D. Fejezettel egészül ki:
-
-„XXXI/D. FEJEZET
-
-A FORGATHATÓ UTALVÁNY FORMAI ÉS TARTALMI ELEMEI
-
-220. § A forgatható utalvány tartalmazza legalább
-
-a) az utalvány elnevezést olyan megjelenési formában, amely biztosítja a hazai vagy külföldi törvényes fizetőeszköztől való egyértelmű megkülönböztethetőséget,
-
-b) a felhasználhatóság lejáratát, ha van ilyen,
-
-c) a felhasználhatóság egyéb korlátait, ha van ilyen,
-
-d) az utalványkibocsátó megnevezését.
-
-Az utalványkibocsátó tájékoztatási kötelezettsége
-
-220/A. § (1) Az utalványkibocsátó általános üzleti feltételei tartalmazzák legalább
-
-a) a forgatható utalvány kibocsátásának, forgalmazásának, megvásárlásának és visszaváltásának szabályait,
-
-b) a forgatható utalvány utalványelfogadónál fizető eszközként történő felhasználhatóságának szabályait,
-
-c) az ügyfél által az utalványkibocsátó részére fizetendő valamennyi díjat, jutalékot és költséget,
-
-d) a sérült forgatható utalvány visszaváltásakor alkalmazandó értékcsökkentés mértékét,
-
-e) utalványforgalmazó igénybevétele esetén az utalványforgalmazó azonosító adatait.
-
-(2) Az utalványkibocsátó az általános üzleti feltételeit, valamint az utalványelfogadók listáját nyilvánosan közzéteszi és a folyamatos elérhetőséget a honlapján biztosítja.
-
-(3) Az utalványkibocsátó az általános üzleti feltételeiben meghirdetett díjon, jutalékon és költségen kívül egyéb, valamint annak mértékét meghaladó díjat, jutalékot és költséget az ügyfél terhére nem számíthat fel.
-
-(4) Az utalványkibocsátó az általános üzleti feltételei szerint meghirdetett díjból, jutalékból vagy áthárított költségből az ügyféllel kötött egyedi megállapodás alapján kedvezményt adhat.
-
-(5) Az utalványkibocsátó az általános üzleti feltételek módosításáról annak hatálybalépése előtt legalább 60 nappal tájékoztatja az ügyfelet. Az utalványkibocsátó az ügyfelet tájékoztatja arról is, hogy a módosítást az ügyfél részéről elfogadottnak tekinti, ha annak hatálybalépése előtt az ügyfél nem tájékoztatta az utalványkibocsátót arról, hogy a módosítást nem fogadja el. Ha az ügyfél a módosítást nem fogadja el, a módosítás hatálybalépése előtti napig az ügyfél jogosult az utalványkibocsátóval kötött szerződést felmondani.
-
-(6) Az utalványkibocsátó az (5) bekezdés szerinti tájékoztatást
-
-a) az utalványelfogadó részére írásban, a szerződésben meghatározott módon küldi meg vagy teszi számára elérhetővé,
-
-b) az utalványbirtokost érintő módosítás esetében a módosítás tényét és annak elérhetőségét legalább egy országos vagy regionális napilapban, a módosítás tartalmát a honlapján teszi közzé.
-
-(7) Az utalványkibocsátó a naptári év utolsó napján
-
-a) az utalványbirtokosok vele szembeni pénzköveteléseként fennálló forgatható utalvány állomány hazai vagy külföldi hivatalos pénznemben kifejezett, összesített névértékét,
-
-b) a 87/R. § (4) bekezdése szerinti bontásban az utalványbirtokosok pénzkövetelésének fedezetéül rendelkezésre álló eszközök összesített értékét
-
-legkésőbb a naptári évet követő hónap végéig nyilvánosan közzéteszi és folyamatos elérhetőségét a honlapján biztosítja.
-
-A forgatható utalvány visszaváltása
-
-220/B. § (1) Az utalványkibocsátó az utalványbirtokos kérésére, az annak birtokában lévő forgalomképes forgatható utalványt a (3) bekezdésben meghatározott korlátozással a forgatható utalványon szereplő címletértékkel megegyező névértékű hazai törvényes fizetőeszközre bármikor visszaváltja.
-
-(2) Az utalványkibocsátó a forgatható utalvány visszaváltásáért díjat, jutalékot vagy költséget számíthat fel.
-
-(3) Ha a forgatható utalvány felhasználhatósága lejárathoz kötött, az utalványkibocsátó az (1) bekezdésben foglalt visszaváltási kötelezettsége a forgatható utalvány lejáratát követő tizenkettedik hónap végéig áll fenn.”
-
-15. § A Hpt. a következő 234/O. §-sal egészül ki:
-
-„234/O. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény (a továbbiakban: Módtv2.) 116. § (2) bekezdésében meghatározott időpontban forgatható utalvány kibocsátására irányuló tevékenységet végző utalványkibocsátó
-
-a) a Módtv2.-vel megállapított 6/G. § (1) bekezdés szerinti bejelentési kötelezettségének a 6/G. § (2) bekezdés a)–c) pontja szerinti adattartalom, valamint a bejelentés napján az utalványkibocsátóval szembeni pénzkövetelésként fennálló forgatható utalvány állomány hazai hivatalos pénznemben kifejezett összesített névértékének közlésével a Módtv2. 116. § (2) bekezdésében meghatározott időponttól számított 15 napon belül köteles eleget tenni,
-
-b) a Módtv2.-vel megállapított 6/F. § (2) bekezdésében, 87/R. §-ában és 220/A. §-ában foglalt követelményeknek a Módtv2. 116. § (2) bekezdésében meghatározott időponttól számított három hónapon belül köteles megfelelni, és a 87/R. § (4) bekezdésében foglalt kötelezettség teljesülésére vonatkozó igazolást eddig az időpontig az MNB-nek megküldeni.”
+14–15. §
 
 16. § A Hpt. a következő 234/P. §-sal egészül ki:
 
 „234/P. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény 10. §-ával megállapított 101. § (13) bekezdésében foglalt rendelkezéseket a hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.”
 
-17. § A Hpt. 2. számú melléklete az 1. melléklet szerint módosul.
+17. §
 
 18. § A Hpt. 84. § (2) bekezdésében a „három éven” szövegrész helyébe a „hat éven” szöveg lép.
 

@@ -5,11 +5,3 @@
 (3) A 93–95. § és a 3. melléklet a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008. április 23-i 2008/48/EK európai parlamenti és tanácsi irányelv végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) A 3. és 4. § az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről szóló, 2009. szeptember 16–i 2009/110/EK európai parlamenti és tanácsi irányelv végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
