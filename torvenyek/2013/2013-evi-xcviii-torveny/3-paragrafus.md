@@ -1,0 +1,3 @@
+3. § A Hpt. 3/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet, 15. § (4) bekezdésében meghatározott feltételeknek megfelelő pénzügyi vállalkozás, pénzforgalmi szolgáltatása, valamint pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/B. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény és elektronikuspénz-kibocsátási tevékenysége, pénzforgalmi szolgáltatása, valamint pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/D. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező elektronikuspénz-kibocsátó intézmény határon átnyúló szolgáltatást is végezhet.”

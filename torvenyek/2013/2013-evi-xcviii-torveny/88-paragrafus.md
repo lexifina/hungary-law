@@ -1,0 +1,5 @@
+## 4. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
+
+88. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt) 11. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (a továbbiakban: 1031/2010/EU bizottsági rendelet) 18. cikk (2) és (3) bekezdésében hivatkozott személyek ezen cikkek alapján ajánlatot tenni kizárólag a Felügyelet e törvény 9. § (1) bekezdés a) és b) pontjában meghatározott tevékenységnek a 9. § (2) bekezdés b) pontjában meghatározott eszközre vonatkozó árutőzsdei szolgáltatás nyújtására irányuló engedélye alapján jogosultak.”
