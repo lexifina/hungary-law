@@ -1,0 +1,3 @@
+5. § A Krt. 5/D. §-a helyébe a következő rendelkezés lép:
+
+„5/D. § A közraktári tevékenység megszüntetése iránt kérelmet kell benyújtani a felügyelethez. A közraktári tevékenység megszüntetését a felügyelet akkor engedélyezi, ha a közraktár a kérelmében meghatározott időpontig valamennyi általa kötött közraktári szerződést teljesítette, az általa kötött közraktári szerződések alapján kibocsátott közraktári jegyeket bevonta, a 12/A. §-ban meghatározott felügyeleti díjat megfizette, és ezt a felügyelet felé hitelt érdemlően igazolta.”
