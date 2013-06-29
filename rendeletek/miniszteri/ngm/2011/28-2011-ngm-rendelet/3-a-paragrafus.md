@@ -18,7 +18,7 @@ g) aki elhalálozott.
 
 (2) A nyilvántartásból törölt természetes személy kérheti a belső ellenőrök nyilvántartásába újbóli felvételét:
 
-a) a törlést követő 2 év után, ha a törlésre az (1) bekezdés a) pontja miatt,
+a)[^17] a törlést követő 1 év után, ha a törlésre az (1) bekezdés a) pontja miatt,
 
 b) a büntetett előélethez fűződő hátrányok alóli mentesítést követően, ha a törlésre az (1) bekezdés b) pontja miatt,
 
@@ -26,7 +26,7 @@ c) a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a fogl
 
 d) a törlést követő 3 év után, ha a törlésre az (1) bekezdés d) pontja miatt,
 
-e) a törlést követő 2 év után, ha a törlésre az (1) bekezdés e) pontja miatt,
+e)[^18] a törlést követő 1 év után, ha a törlésre az (1) bekezdés e) pontja miatt,
 
 f) a gondnokság alá helyezés megszüntetését követően, ha a törlésre az (1) bekezdés f) pontja miatt
 
@@ -36,3 +36,5 @@ f) a gondnokság alá helyezés megszüntetését követően, ha a törlésre az
 
 [^15]: A 3. § a 23/2012. (VIII. 6.) NGM rendelet 9. § 10. pontja szerint módosított szöveg.
 [^16]: A 3/A. §-t a 23/2012. (VIII. 6.) NGM rendelet 3. §-a iktatta be.
+[^17]: A 3/A. § (2) bekezdés a) pontja a 26/2013. (VI. 28.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^18]: A 3/A. § (2) bekezdés e) pontja a 26/2013. (VI. 28.) NGM rendelet 4. § (3) bekezdésével megállapított szöveg.
