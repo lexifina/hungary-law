@@ -116,7 +116,7 @@ A [...]-ban található szöveg helyébe a vonatkozó adatokat szükséges beír
 
 |
 
-2. A hitel lényeges jellemzőinek ismertetése
+2. A hitel lényeges jellemzőinek ismertetése
 
 |
 
@@ -131,14 +131,6 @@ a hitel típusa
 a hitel teljes összege
 
 a hitelszerződésben szereplő hitel összege vagy a lehívható összeg felső határa
-
-|
-
-...
-
-|
-
-a hitel lehívásának feltételei a hitel rendelkezésre bocsátásának módja és időpontja
 
 |
 
@@ -234,7 +226,7 @@ Ez a tájékoztatás ...-tól ...-ig érvényes.
 
 |
 
-5. Adott esetben a távértékesítés keretében kötött hitelszerződések esetén nyújtandó kiegészítő tájékoztatás
+5. Adott esetben a távértékesítés keretében kötött hitelszerződések esetén nyújtandó kiegészítő tájékoztatás
 
 |
 
@@ -278,7 +270,7 @@ telefaxszáma*
 
 |
 
-internet címe*
+internetcíme*
 
 |
 
@@ -286,11 +278,11 @@ internet címe*
 
 |
 
-a hitelező cégjegyzékszáma vagy bírósági nyilvántartásba vételi száma
+a hitelező cégjegyzékszáma vagy bírósági nyilvántartásba-vételi száma
 
 |
 
-... [cégjegyzékszám vagy bírósági nyilvántartásba vételi szám]
+... [cégjegyzékszám vagy bírósági nyilvántartásba vételi szám]
 
 |
 
@@ -306,7 +298,13 @@ az elállási jog gyakorlása
 
 |
 
-... [az elállási (felmondási) jog gyakorlásának feltételeiről, módjáról és jogkövetkezményeiről; továbbá arról a címről (elektronikus levelezési címről, telefaxszámról), amelyre a fogyasztónak elállási (felmondási) nyilatkozatát küldenie kell]
+|
+
+Önnek 14 naptári napon belül joga van elállni a hitelszerződéstől.
+
+|
+
+... [az elállási (felmondási) jog gyakorlásának feltételeiről, módjáról és jogkövetkezményeiről; továbbá arról a címről (elektronikus levelezési címről, telefaxszámról), amelyre a fogyasztónak elállási (felmondási) nyilatkozatát küldenie kell]
 
 |
 
@@ -322,7 +320,7 @@ jogválasztás, továbbá kizárólagos hatáskör, illetékesség kikötése
 
 |
 
-... [vonatkozó szerződési rendelkezés meghatározása]
+... [vonatkozó szerződési rendelkezés meghatározása]
 
 |
 
@@ -330,7 +328,7 @@ nyelvhasználat
 
 |
 
-... [az előzetes tájékoztatás nyelvéről, a szerződéskötés nyelvéről, továbbá a szerződés hatálya alatt a fogyasztóval való kapcsolattartás – a fogyasztóval egyetértésben megállapított – nyelv]
+... [az előzetes tájékoztatás nyelvéről, a szerződéskötés nyelvéről, továbbá a szerződés hatálya alatt a fogyasztóval való kapcsolattartás – a fogyasztóval egyetértésben megállapított – nyelv]
 
 |
 

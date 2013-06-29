@@ -12,7 +12,7 @@ c) olyan hitelre, amellyel kapcsolatban a fogyasztó hitelkamatot és egyéb ell
 
 d) olyan munkáltatói hitelre, amely a nyilvánosság számára nem hozzáférhető, és amellyel kapcsolatban a munkavállalónak hitelkamatot és egyéb ellenszolgáltatást a piacon szokásos mértéknél alacsonyabb mértékű teljes hiteldíj mutató mellett köteles, vagy hitelkamatot és egyéb ellenszolgáltatást nem köteles fizetni,
 
-e) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVII. törvényben meghatározott befektetési hitelre,
+e) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott befektetési hitelre,
 
 f) olyan hitelre, amelyet bíróság hoz létre,
 

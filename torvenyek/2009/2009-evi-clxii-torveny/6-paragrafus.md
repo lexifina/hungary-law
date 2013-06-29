@@ -52,7 +52,7 @@
 
 (5) Ha a (3) bekezdés 8. és 9. pontja vonatkozásában a fogyasztó a hitelezőt és a hitelközvetítőt tájékoztatja az általa előnyben részesített hitel jellemzőiről, a hitelező és a hitelközvetítő a teljes hiteldíj mutató és a fogyasztó által fizetendő teljes összeg tekintetében ezeket veszi figyelembe.
 
-(6) Ha a hitelszerződés alapján a hitel lehívására több módon kerülhet sor, és ez eltérő hitelkamatokat vagy eltérő hitelkamaton kívüli minden egyéb ellenszolgáltatást – ideértve díjat, jutalékot és költséget – jelentenek, a hitelező és a hitelközvetítő ennek lehetőségét köteles jelezni.
+(6) Ha a hitelszerződés alapján a hitel lehívására több módon kerülhet sor, és ezek eltérő hitelkamatokat vagy eltérő hitelkamaton kívüli egyéb ellenszolgáltatást – ideértve díjat, jutalékot és költséget – jelentenek és a hitelező az adott hiteltípusnál leggyakoribb lehívási módot veszi figyelembe, a hitelező és a hitelközvetítő köteles jelezni, hogy más lehívási mód magasabb teljes hiteldíjmutatót eredményezhet.
 
 (7) Ha a fogyasztó által fizetett részletek nem eredményezik haladéktalanul a hitelösszeg törlesztését, hanem a hitelszerződésben, vagy ahhoz kapcsolódó megállapodásban meghatározott időszakokban és feltételek szerint tőkeképzésre fordítják, az (1) bekezdés szerinti tájékoztatás során a hitelező és a hitelközvetítő köteles egyértelműen és tömören tájékoztatni, hogy a részletek megfizetése nem eredményezi automatikusan a hitel teljes összegének visszafizetését, kivéve, ha a szerződésben a felek erről megállapodtak.
 
