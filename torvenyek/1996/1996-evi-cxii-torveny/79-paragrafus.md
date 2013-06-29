@@ -24,7 +24,7 @@ cb) a fizetést követő két munkanapot meg nem haladóan fennálló valuta-, i
 
 cc) az értékpapír-adásvételi ügylet esetében a fizetést vagy az értékpapír leszállítását követő öt munkanapot meg nem haladóan fennálló követelést,
 
-cd) az ügyfél részére nyújtott pénzforgalmi szolgáltatásból – ideértve a fizetési, értékpapír-elszámolási és klíring szolgáltatás végrehajtását is bármilyen valutában, devizában, vagy pénzügyi eszközzel kapcsolatos elszámolási, klíring és letéti szolgáltatást is – származó követelést a következő munkanapig, vagy
+cd) az ügyfél részére nyújtott pénzforgalmi szolgáltatásból – ideértve a fizetési és elszámolási szolgáltatás végrehajtását is bármilyen valutában, devizában, vagy pénzügyi eszközzel kapcsolatos elszámolási és letéti szolgáltatást is – származó követelést a következő munkanapig, vagy
 
 ce) a pénzforgalmi szolgáltatásból – ideértve a fizetési, klíring és értékpapír-elszámolási szolgáltatás végrehajtását is bármilyen valutában, devizában – származó pénzforgalmi szolgáltatóval szemben fennálló napon belüli kitettséget.
 

@@ -1,0 +1,1 @@
+234/P. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény 10. §-ával megállapított 101. § (13) bekezdésében foglalt rendelkezéseket a hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.

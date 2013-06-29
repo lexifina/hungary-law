@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-112-00-00
 | 2013-04-01 | 2013. évi XXVII. törvény | 1996-112-00-00.91 |
 | 2013-06-22 | 2013. évi LXXXIII. törvény | 1996-112-00-00.92 |
 | 2013-06-28 | 2013. évi CXV. törvény | 1996-112-00-00.93 |
+| 2013-06-29 | 2013. évi XCVIII. törvény | 1996-112-00-00.94 |

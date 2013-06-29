@@ -18,7 +18,7 @@ b) módot ad a hitelintézetnek észrevételei megtételére.
 
 (7) A (6) bekezdés alapján felemelt éves díj nem lépheti túl a hitelintézetnél a tárgyévet megelőző év december 31-én fennálló, biztosított betétállomány három ezrelékét.
 
-(8) Az Alap az általa a 119. § (1) bekezdésének d) pontja szerint felvett kölcsön visszafizetése érdekében a hitelintézetek számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, mely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség mértéke nem haladhatja meg egyetlen hitelintézet esetében sem a (2) bekezdés szerint megállapított díj mértékét.
+(8) Az Alap az általa a 119. § (1) bekezdés f) pontja alapján kibocsátott kötvény és d) pontja szerint felvett kölcsön visszafizetése érdekében a hitelintézetek számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség mértéke nem haladhatja meg egyetlen hitelintézet esetében sem a (2) bekezdés szerint megállapított díj mértékét.
 
 (9) Ha a kölcsön igénybevételét szükségessé tevő káresemény kapcsán az Alap bevételre tesz szert, azt elsősorban a fennálló kölcsöntartozás csökkentésére, ezt követően pedig a hitelintézeteket terhelő rendkívüli fizetési kötelezettség mérséklésére, illetőleg visszafizetésére kell fordítani.
 

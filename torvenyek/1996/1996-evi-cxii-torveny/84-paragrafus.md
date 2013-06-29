@@ -10,7 +10,7 @@ b) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi IL
 
 c) a bírósági végrehajtásról szóló 1994. évi LIII. törvény
 
-alapján megszerzett ingatlanokat három éven belül el kell idegenítenie.
+alapján megszerzett ingatlanokat hat éven belül el kell idegenítenie.
 
 (3)
 

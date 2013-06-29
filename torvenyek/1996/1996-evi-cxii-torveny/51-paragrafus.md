@@ -16,7 +16,7 @@ c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezé
 
 d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
 
-e) a büntető-, valamint polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
+e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá a kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
 f) a külön törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 
