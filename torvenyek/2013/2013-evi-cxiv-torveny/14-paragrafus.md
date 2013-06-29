@@ -1,7 +1,0 @@
-14. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A vagyonkezelőt e törvény erejénél fogva változatlan feltételekkel megilleti a vagyonkezelői jog mindazon vagyonelemre, amely a vagyonkezelésében lévő vagyonból bármely módon – így különösen kitermelés, bontás, megosztás útján – újonnan jön létre, feltéve hogy az újonnan létrejövő vagyonelem és a vagyonkezelő vagyonkezelésében lévő vagyonelem tulajdonosa megegyezik. A felek eltérő megállapodásának hiányában a vagyonkezelői jog e törvény erejénél fogva kiterjed arra a vagyonelemre is – ideértve a tartozékot és az alkotórészt is –, amely a vagyonkezelői jogviszony fennállása alatt válik a vagyon részévé.”
-
-(2) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) Ha a vagyonkezelő törvényi kijelölése nem egyedileg, hanem az érintett vagyoni kör megjelölésével határozza meg a kijelölt személy vagyonkezelésébe kerülő nemzeti vagyont, az a vagyonkezelő, aki az érintett vagyoni körre vonatkozóan már rendelkezik vagyonkezelési szerződéssel, köteles írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került, a nemzeti vagyon körébe tartozó új vagyonelemet. A vagyonkezelői jog ingatlan-nyilvántartási bejegyzésére – újabb szerződés megkötése nélkül – a vagyonkezelő egyoldalú nyilatkozatát tartalmazó kérelme alapján kerülhet sor.”
