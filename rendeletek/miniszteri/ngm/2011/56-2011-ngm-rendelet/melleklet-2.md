@@ -478,17 +478,11 @@
 
 ## 64 PÉNZÜGYI KÖZVETÍTÉS (KIVÉVE: BIZTOSÍTÁSI, NYUGDÍJPÉNZTÁRI TEVÉKENYSÉG)
 
-## 640000 Pénzügyi közvetítés
-
 ## 65 BIZTOSÍTÁS, VISZONTBIZTOSÍTÁS, NYUGDÍJALAPOK (KIVÉVE: KÖTELEZŐ TÁRSADALOMBIZTOSÍTÁS)
-
-## 650000 Biztosítás, viszontbiztosítás, nyugdíjalapok
 
 ## 66 EGYÉB PÉNZÜGYI TEVÉKENYSÉG
 
 ## 660001 Kincstári szolgáltatások államháztartáson belüli szervezeteknek
-
-## 660002 Egyéb pénzügyi tevékenység
 
 ## 68 INGATLANÜGYLETEK
 
@@ -581,6 +575,8 @@
 ## 721132 Mezőgazdasági biotechnológiai alkalmazott kutatás
 
 ## 721133 Mezőgazdasági biotechnológiai kísérleti fejlesztés
+
+## 721200 Génmegőrzés, fajtavédelem
 
 ## 7219 Egyéb természettudományi, műszaki kutatás, fejlesztés
 
@@ -743,8 +739,6 @@
 ## 770000 Kölcsönzése, operatív lízing
 
 ## 78 MUNKAERŐPIACI SZOLGÁLTATÁS
-
-## 780000 Munkaerő-piaci szolgáltatás
 
 ## 79 UTAZÁSKÖZVETÍTÉS, UTAZÁSSZERVEZÉS, EGYÉB FOGLALÁS
 
@@ -1098,11 +1092,13 @@
 
 ## 841905 Nyugdíjbiztosítási alap bevételei (elszámolásai)
 
-## 841906 Finanszírozási műveletek
-
-## 841907 Önkormányzatok elszámolásai a költségvetési szerveikkel
-
 ## 841908 Fejezeti és általános tartalékok elszámolása
+
+## 841911 Forgatási célú finanszírozási műveletek technikai előirányzata
+
+## 841912 Befektetési célú finanszírozási műveletek
+
+## 841913 Támogatási célú finanszírozási műveletek
 
 ## 842 TÁRSADALMI KÖZSZOLGÁLTATÁS
 
@@ -1193,10 +1189,6 @@
 ## 842204 Haderő kiképzése, felkészítése
 
 ## 842205 Haderő (hazai) tevékenysége
-
-## 842206 Honvédelmi felkészítés (komplex védelem)
-
-## 842207 Honvédelmi K+F politika és a hozzá kapcsolódó források igazgatása és szervezése
 
 ## 8423 Igazságügy, bíróság
 
@@ -2412,8 +2404,6 @@
 
 ## 92 SZERENCSEJÁTÉK, FOGADÁS
 
-## 920000 Szerencsejáték, fogadás
-
 ## 93 SPORT-, SZÓRAKOZTATÓ, SZABADIDŐS TEVÉKENYSÉG
 
 ## 931 SPORTTEVÉKENYSÉG
@@ -2476,8 +2466,6 @@
 
 ## 94 KÖZÖSSÉGI, TÁRSADALMI TEVÉKENYSÉGEK
 
-## 940000 Közösségi, társadalmi tevékenységek
-
 ## 95 SZÁMÍTÓGÉP, SZEMÉLYI, HÁZTARTÁSI CIKK JAVÍTÁSA
 
 ## 950000 Számítógép, személyi, háztartási cikk javítása
@@ -2498,7 +2486,7 @@
 
 ## 960900 M.n.s. egyéb személyi szolgáltatás
 
-2. számú melléklet az 56/2011. (XII. 31.) NGM rendelethez[^2]
+2. számú melléklet az 56/2011. (XII. 31.) NGM rendelethez[^6]
 
 Tartalmi meghatározások az államháztartási szakfeladatrend szakfeladataihoz
 
@@ -3400,6 +3388,12 @@ Nem itt kell megtervezni és elszámolni:
 
 - a 7211 szakágazat szakfeladatainak bármelyikéhez egyértelműen hozzárendelhető fejlesztések bevételeit és kiadásait.
 
+721200 Génmegőrzés, fajtavédelem
+
+Itt kell megtervezni és elszámolni:
+
+- a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták, valamint a növényi genetikai erőforrások génmegőrzésével, védelmével, hasznosításával, valamint az ezekhez kapcsolódó kutatás-fejlesztéssel kapcsolatos bevételeket és kiadásokat.
+
 721900 Egyéb természettudományi, műszaki kutatás, fejlesztés komplex támogatása
 
 Itt kell megtervezni és elszámolni:
@@ -4176,7 +4170,7 @@ Itt kell megtervezni és elszámolni:
 
 Itt kell megtervezni és elszámolni:
 
-- a helyi önkormányzatokat, valamint a jogi személyiségű és a többcélú kistérségi társulásokat megillető költségvetési támogatási, valamint a feladatra nem tervezhető sajátos folyó, felhalmozási és tőke jellegű bevételi előirányzatokat és teljesítéseket.
+- a helyi önkormányzatokat, a települési és területi nemzetiségi önkormányzatokat, valamint a társulásokat megillető költségvetési támogatási, valamint a feladatra nem tervezhető sajátos folyó, felhalmozási és tőke jellegű bevételi előirányzatokat és teljesítéseket.
 
 841902 Központi költségvetési befizetések
 
@@ -4198,11 +4192,11 @@ Nem itt kell megtervezni és elszámolni:
 
 Itt kell megtervezni és elszámolni:
 
-- a szociális hozzájárulási adó Egészségbiztosítási Alapot megillető részét és a munkáltatói egészségbiztosítási járulékot, a biztosítotti egészségbiztosítási járulékot, az egyéb járulékokat és hozzájárulásokat, az egészségügyi hozzájárulást, a késedelmi pótlék és bírság összegét, a költségvetési hozzájárulásokat, a rokkantsági, rehabilitációs ellátások fedezetére a Nyugdíjbiztosítási Alaptól átvett pénzeszközöket, az egészségbiztosítási tevékenységgel kapcsolatos egyéb bevételeket.
+- a biztosítotti egészségbiztosítási járulékot, az egyéb járulékokat és hozzájárulásokat, az egészségügyi hozzájárulást, a késedelmi pótlék és bírság összegét, a költségvetési hozzájárulásokat, az egészségbiztosítási tevékenységgel kapcsolatos egyéb bevételeket.
 
 Nem itt kell megtervezni és elszámolni:
 
-- az egészségbiztosítási költségvetési szervekés központi kezelésű előirányzatok bevételeit és támogatásait;
+- az egészségbiztosítási költségvetési szervek bevételeit és támogatásait;
 
 - az ellátások fedezetére szolgáló vagyongazdálkodási bevételeket.
 
@@ -4239,6 +4233,48 @@ Itt kell megtervezni és elszámolni:
 Itt kell megtervezni és elszámolni:
 
 - a szakfeladathoz időlegesen nem köthető fejezeti és más tartalékokat azzal, hogy felhasználáskor a cél szerinti szakfeladatra át kell vezetni.
+
+841911 Forgatási célú finanszírozási műveletek
+
+Itt kell megtervezni és elszámolni:
+
+- a forgatási célú finanszírozási műveletek bevételi és kiadási előirányzatát az önkormányzati alrendszerben.
+
+841912 Befektetési célú finanszírozási műveletek
+
+A befektetési célú finanszírozási műveletek bevételei között kell megtervezni és elszámolni:
+
+- a költségvetési hiány finanszírozásával kapcsolatos felhalmozási, működési célú hosszú lejáratú hitelfelvétel bevételeit, a rövid lejáratú hitelfelvétel bevételeit (a likvid hitelek igénybevétele kivételével),
+
+- a hosszú lejáratú kötvénykibocsátással kapcsolatos bevételeket,
+
+- a költségvetési többlet évközi hasznosítása céljából vásárolt befektetési célú hitelviszonyt megtestesítő értékpapírok (kárpótlási jegyek, kincstárjegyek, államkötvények stb.) eladásakor, beváltásakor elszámolt bevételeket.
+
+A befektetési célú finanszírozási műveletek kiadásai között kell megtervezni és elszámolni:
+
+- a költségvetési többlet évközi hasznosítása céljából vásárolt befektetési célú hitelviszonyt megtestesítő értékpapírok (kárpótlási jegyek, kincstárjegyek, államkötvények stb.) vásárlásának kiadásait,
+
+- a költségvetési hiány fedezetére, valamint a fejlesztések, vagy működés érdekében felvett hosszú lejáratú hitelek, pénzügyi lízing miatti kötelezettségek, a rövid lejáratú hitelek (likvid hitel kivételével) törlesztésével kapcsolatos kiadásokat,
+
+- az önkormányzatok által felhalmozási vagy működési célra kibocsátott hosszú lejáratú kötvények beváltásával kapcsolatos kiadásokat.
+
+Nem itt kell megtervezni és elszámolni:
+
+- a forgatási célú finanszírozási bevételeket és kiadásokat.
+
+841913 Támogatási célú finanszírozási műveletek
+
+A támogatási célú finanszírozási műveletek bevételei között kell megtervezni és elszámolni:
+
+- a költségvetési maradvány, vállalkozási maradvány igénybevételét,
+
+- a költségvetési szerv, fejezet kezelésű előirányzat kiadási és bevételi előirányzatainak különbségeként az államháztartás központi alrendszerében a központi támogatás, és
+
+- az önkormányzat alrendszerében az irányító szervtől kapott támogatás fizetési számlán történő jóváírását.
+
+A támogatási célú finanszírozási műveletek kiadásai között kell megtervezni és elszámolni:
+
+- az önkormányzat alrendszerében az irányító szerv által nyújtott támogatást.
 
 842 Társadalmi közszolgáltatás
 
@@ -4456,63 +4492,33 @@ Itt kell megtervezni és elszámolni:
 
 Itt kell megtervezni és elszámolni:
 
-- a honvédelemmel kapcsolatos kormányzati döntések előkészítésével és végrehajtásával, a honvédelmi vezetésirányítási, a jogi és igazgatási, az informatikai és információvédelmi, a védelempolitikai, a védelmi tervezési, a haderő-tervezési, a hadműveleti és kiképzési, a személyzeti, a kommunikációs és toborzási, vagyongazdálkodási és vagyonfelügyeleti, valamint az ellenőrzési, hatósági és szakhatósági tevékenységekkel, illetve feladatokkal kapcsolatos bevételeket és kiadásokat.
-
-Nem itt kell megtervezni és elszámolni:
-
-- katonai diplomáciai tevékenységeket, illetve feladatokat (842191).
+- a honvédelemmel kapcsolatos közigazgatási és katonai vezetés-irányítási feladatok keretében a kormányzati döntések előkészítésével és végrehajtásával – ide értve a jogi, az igazgatási, a kontrolling, a híradó, az informatikai és információvédelmi, a védelempolitikai és nemzetközi együttműködési, a védelmi tervezési, a haderő-tervezési, a hadműveleti és kiképzési, a humánpolitikai, a személyzeti, a kommunikációs, a toborzási és a civil kapcsolati, továbbá a vagyonfelügyeleti feladatokat is –, valamint az ellenőrzési, a hatósági és szakhatósági tevékenységekkel, illetve feladatokkal kapcsolatos bevételeket és kiadásokat.
 
 842202 Védelmi képesség fenntartása
 
 Itt kell megtervezni és elszámolni:
 
-- az egészségügyi, a logisztikai, az infrastrukturális szakirányítási és központi végrehajtási tevékenységekkel, illetve feladatokkal, a központi katonai adatfeldolgozással, a honvédelmi szervezetek személyi állománya biztosításának, csapat szintű, illetve műveleti (harctéri) egészségügyi ellátásának, a logisztikai, infrastrukturális, híradó és informatikai, geoinformatikai támogatásának, illetve biztosításának közvetlen és külső szolgáltatású tevékenységeivel, illetve feladataival, valamint a szervezetek működésének máshová nem sorolható tevékenységeivel kapcsolatos bevételeket és kiadásokat.
-
-Nem itt kell megtervezni és elszámolni:
-
-- nem harctéri egészségügyi ellátással (86),
-
-- a kiképzési tevékenységet ellátó szervezetek nem fenntartási tevékenységével
-
-kapcsolatos bevételeket és kiadásokat.
+- a logisztikai, egészségügyi, infrastrukturális, protokolláris, valamint pénzügyi és számviteli, a központi beszerzési, a szakanyag ellátási és szolgáltatási, a katonai adatfeldolgozási, a híradó, az informatikai és információvédelmi, a geoinformatikai, a kulturális, a szociális és üdültetési tevékenységekkel, a toborzással, valamint a honvédelmi szervezetek működésének máshová nem sorolható tevékenységeivel és e tevékenységek végrehajtását végző honvédelmi szervezetek intézményi kiadásaival kapcsolatos bevételeket és kiadásokat.
 
 842203 Védelmi képesség fejlesztése
 
 Itt kell megtervezni és elszámolni:
 
-- egy professzionális, sokoldalúan, rugalmasan és hatékonyan alkalmazható, nemzetközi (NATO, EU, ENSZ, EBESZ) együttműködésre képes, feltöltött, kiképzett és bevethető szervezetekkel rendelkező, korszerű eszközökkel felszerelt és finanszírozható haderő szervezeti fejlesztésének feladataival, humán-, egészségügyi, hadfelszerelési, infrastrukturális, NATO biztonsági beruházási és egyéb fejlesztési programjaival kapcsolatos bevételeket és kiadásokat.
+- a katonai képességek fejlesztéséhez kapcsolódó humán-, egészségügyi, hadfelszerelési, infrastrukturális, NATO biztonsági beruházási és egyéb fejlesztési programokkal, valamint
 
-Nem itt kell megtervezni és elszámolni:
-
-- katonai orvostudományi és műszaki tudományi kutatás és kísérleti fejlesztéssel (72),
-
-- nemzetközi NATO, EU fejlesztési együttműködési feladatokkal (842146)
-
-kapcsolatos bevételeket és kiadásokat.
+- a K+ F feladattal kapcsolatos bevételeket és kiadásokat.
 
 842204 Haderő kiképzése, felkészítése
 
 Itt kell megtervezni és elszámolni:
 
-- a nemzeti, a NATO, EU és többnemzeti erők számára meghatározott készenléti és műveleti eljárások érdekében végrehajtott katonai szakmai kiképzési és továbbképzési, egyéni és kollektív kiképzési feladatokkal, a tagországokkal kialakított és elfogadott védelempolitikai, katonai, adminisztratív harcászati és hadműveleti szintű gyakorlatokkal és értékelésekkel, valamint kiképzési rendezvényekkel kapcsolatos bevételeket és kiadásokat.
-
-Nem itt kell megtervezni és elszámolni:
-
-- nemzetközi katonai oktatási, kiképzési, együttműködés feladatait (8421),
-
-- katonai középfokú szakképzést és gyakorlati képzést (8541),
-
-- katonai felsőfokú szakképzést és továbbképzést (8542).
+- a nemzeti, a NATO, EU és többnemzetiségű erők számára meghatározott készenléti és műveleti eljárások érdekében végrehajtott katonai szakmai kiképzési és továbbképzési, egyéni és kollektív kiképzési feladatokkal, a tagországokkal kialakított és elfogadott katonai, adminisztratív harcászati és hadműveleti szintű gyakorlatokkal és értékelésekkel, valamint kiképzési rendezvényekkel kapcsolatos bevételeket és kiadásokat.
 
 842205 Haderő (hazai) tevékenysége
 
 Itt kell megtervezni és elszámolni:
 
-- a haderő védelmi célú hazai alkalmazásával, a hadműveleti és készenléti szolgálat ellátásával, a katonai alegységek készenlétben tartásával, a fegyveres készenléti szolgálat ellátásával, a helyőrségi és egyéb katonai feladatokkal, valamint a tűzszerész feladatokkal a központi katonai adatfeldolgozással kapcsolatos bevételeket és kiadásokat.
-
-Nem itt kell megtervezni és elszámolni:
-
-- nemzetközi katonai és rendészeti szerepvállalást béketámogató és válságkezelő műveletekben (842191).
+- a haderő védelmi célú alkalmazásával, a hadműveleti és készenléti szolgálat ellátásával, a katonai alegységek készenlétben tartásával, a fegyveres készenléti szolgálat ellátásával, a helyőrségi és egyéb katonai feladatokkal, valamint a tűzszerész feladatokkal kapcsolatos bevételeket és kiadásokat.
 
 842206 Honvédelmi felkészítés (komplex védelem)
 
@@ -4974,7 +4980,7 @@ Itt kell megtervezni és elszámolni:
 
 Itt kell megtervezni és elszámolni:
 
-- az egészségbiztosítás jogszabályban meghatározott központi irányítási, szakigazgatási tevékenységével, az igazgatási szervek működésének központi irányításával és felügyeletével összefüggő országos szintű feladatokkal kapcsolatos működési bevételeket és kiadásokat.
+- az egészségbiztosítás jogszabályban meghatározott központi irányítási, szakigazgatási tevékenységével kapcsolatos működési bevételeket és kiadásokat.
 
 Nem itt kell megtervezni és elszámolni:
 
@@ -5018,7 +5024,7 @@ Itt kell megtervezni és elszámolni:
 
 Itt kell megtervezni és elszámolni:
 
-- a gyógyszertámogatás kiadásaival, a speciális beszerzésű gyógyszerkiadással, a gyógyszertámogatás céltartalékával és a méltányossági gyógyszertámogatással kapcsolatos kiadásokat.
+- a gyógyszertámogatás kiadásaival, a speciális beszerzésű gyógyszerkiadással és a gyógyszertámogatás céltartalékával kapcsolatos kiadásokat.
 
 843046 Gyógyászatisegédeszköz-támogatás finanszírozása
 
@@ -5036,7 +5042,7 @@ Itt kell megtervezni és elszámolni:
 
 Itt kell megtervezni és elszámolni:
 
-- a kifizetőhelyeket megillető költségtérítéssel, a postaköltséggel, az egyéb kiadásokkal, az orvosspecifikus vényekkel, a gyógyszergyártók ellentételezésével, elszámolási különbözet rendezésével kapcsolatos kiadásokat.
+- a kifizetőhelyeket megillető költségtérítéssel, a postaköltséggel, az egyéb kiadásokkal, a gyógyszergyártók ellentételezésével, elszámolási különbözet rendezésével, a gyógyszertárak juttatásával és a gyógyszertárak szolgáltatási díjával kapcsolatos kiadásokat.
 
 85 OKTATÁS
 
@@ -5110,9 +5116,9 @@ Nem itt kell megtervezni és elszámolni:
 
 Itt kell megtervezni és elszámolni:
 
-- az általános iskola 1-4. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással, továbbá az iskolaotthonos oktatással kapcsolatos bevételeket és kiadásokat.
+- az általános iskola 1–4. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással, az iskolaotthonos oktatással, valamint a köznevelési törvény szerinti működtetésével kapcsolatos bevételeket és kiadásokat.
 
-Mutatószámok:
+Mutatószámok (kizárólag a szakmai feladatellátás tekintetében):
 
 - Kapacitásmutató: férőhelyek száma
 
@@ -5164,9 +5170,9 @@ Mutatószámok:
 
 Itt kell megtervezni és elszámolni:
 
-- az általános iskola 5-8. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással kapcsolatos bevételeket és kiadásokat.
+- az általános iskola 5–8. évfolyamán, meghatározott időkeretekben az iskola pedagógiai programja szerint (a kötelező tanórák, a nem kötelező tanórák, a tanórán kívüli foglalkozások) végzett neveléssel, oktatással, az iskolaotthonos oktatással, valamint a köznevelési törvény szerinti működtetésével kapcsolatos bevételeket és kiadásokat.
 
-Mutatószámok:
+Mutatószámok (kizárólag a szakmai feladatellátás tekintetében):
 
 - Kapacitásmutató: férőhelyek száma
 
@@ -5218,9 +5224,9 @@ Mutatószámok:
 
 Itt kell megtervezni és elszámolni:
 
-- a zeneművészeti ágra kiadott alapfokú művészetoktatás követelményei és tantervi programjára épülő, a zeneművészetek területén meglévő tehetség felismerése és fejlesztése érdekében végzett művészi kifejezőkészségeket megalapozó, illetve a szakirányú továbbtanulásra felkészítő alapfokú oktatási, nevelési tevékenységgel kapcsolatos bevételeket és kiadásokat.
+- a zeneművészeti ágra kiadott alapfokú művészetoktatás követelményeire és tantervi programjára épülő, a zeneművészetek területén meglévő tehetség felismerése és fejlesztése érdekében végzett művészi kifejezőkészségeket megalapozó, illetve a szakirányú továbbtanulásra felkészítő alapfokú oktatási, nevelési tevékenységgel, valamint az intézmény köznevelési törvény szerinti működtetésével kapcsolatos bevételeket és kiadásokat.
 
-Mutatószámok:
+Mutatószámok (kizárólag a szakmai feladatellátás tekintetében):
 
 - Kapacitásmutató: férőhelyek száma
 
@@ -5230,9 +5236,9 @@ Mutatószámok:
 
 Itt kell megtervezni és elszámolni:
 
-- a képző- és iparművészeti, táncművészeti, szín- és bábművészeti ágakra kiadott alapfokú művészetoktatás követelményei és tantervi programjára épülő, ezen művészetek területén meglévő tehetség felismerése és fejlesztése érdekében végzett művészi kifejezőkészségeket megalapozó, illetve a szakirányú továbbtanulásra felkészítő alapfokú oktatási, nevelési tevékenységgel kapcsolatos bevételeket és kiadásokat.
+- a képző- és iparművészeti, táncművészeti, szín- és bábművészeti ágakra kiadott alapfokú művészetoktatás követelményeire és tantervi programjára épülő, a zeneművészetek területén meglévő tehetség felismerése és fejlesztése érdekében végzett művészi kifejezőkészségeket megalapozó, illetve a szakirányú továbbtanulásra felkészítő alapfokú oktatási, nevelési tevékenységgel, valamint az intézmény köznevelési törvény szerinti működtetésével kapcsolatos bevételeket és kiadásokat.
 
-Mutatószámok:
+Mutatószámok (kizárólag a szakmai feladatellátás tekintetében):
 
 - Kapacitásmutató: férőhelyek száma
 
@@ -7790,34 +7796,4 @@ Nem itt kell megtervezni és elszámolni:
 
 - kapcsolattartási ügyeletet (889204),
 
-- iskolai szociális munkát (889205).
-
-889202 Kórházi szociális munka
-
-Itt kell megtervezni és elszámolni:
-
-- a Gyvt.-ben meghatározott gyermekvédelmi célú kórházi szociális munkával kapcsolatos bevételeket és kiadásokat.
-
-889203 Utcai, lakótelepi szociális munka
-
-Itt kell megtervezni és elszámolni:
-
-- a Gyvt.-ben meghatározott gyermekvédelmi célú utcai, lakótelepi szociális munkával kapcsolatos bevételeket és kiadásokat.
-
-Nem itt kell megtervezni és elszámolni:
-
-- a hajléktalan személyekkel végzett utcai szociális munkát (889929).
-
-889204 Kapcsolattartási ügyelet
-
-Itt kell megtervezni és elszámolni:
-
-- a Gyvt.-ben meghatározott kapcsolattartási ügyelettel összefüggő bevételeket és kiadásokat.
-
-889205 Iskolai szociális munka
-
-Itt kell megtervezni és elszámolni:
-
-- a gyermekjóléti szolgálat által végzett iskolai szociális munkával kapcsolatos bevételeket és kiadásokat.
-
-[^2]: A 2. melléklet az 5/2012. (III. 1.) NGM rendelet 14. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet az 5/2012. (III. 1.) NGM rendelet 14. §-a, a 26/2013. (VI. 28.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
