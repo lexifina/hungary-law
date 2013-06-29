@@ -1,12 +1,12 @@
 ## Az elszámolóházi tevékenységhez szükséges szabályzatok
 
-345. § (1) A 334. §-ban meghatározott elszámolóházi tevékenységek, és a 335. § (3) bekezdésében meghatározott elszámolóházi tevékenység mellett végezhető tevékenységek, a 336. § (2) bekezdés a) pontjában meghatározott kiegészítő szolgáltatás, valamint központi szerződő félként történő kötelezettségvállalás a Felügyelet által jóváhagyott üzletszabályzat, szabályzatok alapján folytathatóak.
+345. § (1) A 334. §-ban meghatározott elszámolóházi tevékenységek és a 335. § (3) bekezdésében meghatározott tevékenységek a Felügyelet által jóváhagyott üzletszabályzat, szabályzatok alapján folytathatóak.
 
 (2) Az (1) bekezdés szerinti elszámolóházi üzletszabályzatban, szabályzatokban meg kell határozni:
 
 a) az ügyfelekkel szembeni jogviszony keletkezésének, megszűnésének rendjét, az ügyfelekkel szemben támasztott pénzügyi és technikai feltételeket;
 
-b) a klíring és az elszámolás rendjét;
+b) az elszámolás és a teljesítés rendjét;
 
 c) a pénzszámlák számlavezetésének rendjét és szabályait;
 
@@ -16,7 +16,7 @@ e) a kockázatok kezelésének módját;
 
 f) a kötelező biztosíték képzésének, felhasználásának módját;
 
-g) a tőzsdei ügylet elszámolásához kapcsolódó kötelezettségvállalás szabályait;
+g)
 
 h) a garanciaalapok képzésének, igénybevételének, kezelésének rendjét;
 
@@ -32,9 +32,9 @@ m)
 
 n) központi értéktári tevékenységet végző elszámolóháznak a 350/B. § (2) bekezdésének b), c) és e) pontjában foglaltakat;
 
-o) központi szerződő fél tevékenységet végző elszámolóháznak a 350/E. § (2) bekezdésének b) pontjában foglaltakat.
+o)
 
-(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek teljesítésével kapcsolatosan azt az időpontot, melyet követően a klíring, illetve elszámolási utasítás visszavonhatatlan.
+(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek teljesítésével kapcsolatosan azt az időpontot, amelyet követően az ügyfél a megbízását nem vonhatja vissza.
 
 (4) Az üzletszabályzatnak és a szabályzatoknak az elszámolóházi tevékenységet végző szervezet ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
@@ -50,7 +50,7 @@ b) a szabályzat nincs összhangban az üzletszabályzat vagy más szabályzat r
 
 c) az MNB a szakhatósági állásfoglalásban a hozzájárulást megtagadja.
 
-(8) Az elszámolóházi tevékenységet végző szervezet az üzletszabályzatát, valamint azok módosítását a Felügyelet jóváhagyását követően a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza. A (2) bekezdés e) és l) pontjában meghatározott szabályzat közzétételétől az elszámolási tevékenységet végző szervezet eltekinthet.
+(8) Az elszámolóházi tevékenységet végző szervezet az üzletszabályzatát, valamint annak módosítását a Felügyelet jóváhagyását követően a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza.
 
 (9) Az elszámolóházi tevékenységet végző szervezet üzletszabályzata és szabályzatai, illetve azok módosításai a (6) bekezdés szerinti nyilvánosságra hozatalt követően lépnek hatályba.
 

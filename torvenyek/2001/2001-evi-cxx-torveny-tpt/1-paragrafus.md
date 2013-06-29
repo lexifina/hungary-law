@@ -36,4 +36,4 @@ o) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kez
 
 p) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő határon át történő szolgáltatás nyújtására,
 
-q) Magyarország területén a befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.
+q) Magyarország területén a befektetési alapkezelő, kollektív befektetési forma, befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott érték-papírkölcsönzésre.

@@ -2,38 +2,40 @@
 
 ## A KÖZPONTI SZERZŐDŐ FÉL TEVÉKENYSÉG ENGEDÉLYEZÉSE
 
-340/D. § (1) Központi szerződő fél által végezhető tevékenységek:
+340/D. § (1) A központi szerződő fél a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolását végzi és az elszámolt ügylet teljesítésére kötelezettséget vállal.
 
-a) központi szerződő féli tevékenység
+(2) A központi szerződő fél az (1) bekezdésben meghatározott tevékenységen kívül jogosult
 
-b) a 334. § a) pontjában meghatározott tevékenység.
+a) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon kötött ügyletek teljesítéséhez kapcsolódóan kötelezettséget vállalni,
 
-(2) A központi szerződő félként történő tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza.
+b) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon kötött ügyletet elszámolni,
 
-(3) A központi szerződő félként történő tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező jogi személyiséggel rendelkező gazdasági társaságnak adja meg, amely rendelkezik
+c) az általa elszámolt, illetve az általa elszámolásra közvetített ügyletek vonatkozásában pénzügyi teljesítést végezni,
 
-a) legalább 20 millió forint alaptőkével,
+d) a Hpt. 3. § (1) bekezdés b) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylet teljesítése érdekében, kizárólag likvid eszközben történő, legalább teljes mértékű fedezettséget biztosító biztosítéknyújtás mellett végezni,
 
-b) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
+e) a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylettel kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezni, valamint
 
-c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval, továbbá elszámolóházzal kötött előszerződéssel,
+f) a fenti tevékenységeket segítő kiegészítő tevékenységként informatikai, adatszolgáltatási, valamint oktatási tevékenységet végezni.
 
-d) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel és
+(3) A központi szerződő fél a (2) bekezdés d)–e) pontjában meghatározott bármely tevékenységet szakosított hitelintézetként végezheti.
 
-e) a 350/E. §-ban meghatározott szabályzatokkal.
+(4) A központi szerződő fél által végzett elszámolás nem minősül elszámolóházi tevékenységnek.
 
-(4) Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5) A központi szerződő fél tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. A Felügyelet engedélye meghatározza a pénzügyi eszközök kategóriáit, amelyek vonatkozásában a központi szerződő fél tevékenysége végezhető. Az (1) bekezdésben meghatározott tevékenység végzéséhez szükséges, továbbá a (2) bekezdésben foglalt tevékenységek végzésére, valamint a (3) bekezdésben foglaltak szerint a szakosított hitelintézetként való működésre jogosító engedély a (6) bekezdésben foglalt engedélyezéssel egy eljárásban is megadható.
 
-(5) Külföldi központi szerződő fél fióktelepe Magyarországon központi szerződő fél tevékenység végzésére akkor kaphat engedélyt, ha
+(6) A központi szerződő fél tevékenységek végzésére jogosító engedélyt a Felügyelet azon Magyarország területén székhellyel rendelkező, jogi személyiséggel rendelkező gazdasági társaság részére adja meg, amely a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben meghatározott előírásoknak való megfelelésen túl rendelkezik:
 
-a) a kérelmező igazolja a (3) bekezdésben foglaltak teljesítését;
+a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
 
-b) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a külföldi kérelmező székhelye szerinti felügyeleti hatóság között;
+b) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval kötött előszerződéssel,
 
-c) a kérelmező nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért;
+c) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel és
 
-d) a kérelmező benyújtja a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájárulását vagy tudomásulvételét tartalmazó nyilatkozatát;
+d) a 350/E. §-ban meghatározott szabályzatokkal.
 
-e) a kérelmező székhelye szerinti állam jogszabályai biztosítják a kérelmező prudens, biztonságos működését; és
+(7) A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 16. cikk (1) bekezdésében meghatározott indulótőke összegét a tevékenységi engedély iránti kérelem benyújtását megelőző naptári hónap utolsó napján érvényes MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
 
-f) a kérelmező székhelye szerint hatáskörrel rendelkező felügyeleti hatóság igazolja, hogy a kérelmező székhelye és főirodája is az adott államban van.
+(8) A (2) bekezdés d) és e) pontjában meghatározott tevékenységet végző központi szerződő fél alapítására, működésére és felügyeletére a Hpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(9) Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.

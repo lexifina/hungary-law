@@ -1,6 +1,6 @@
-35. § (1) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden, a befektetők tájékoztatását szolgáló, a kibocsátó, az ajánlattevő, a forgalmazásban forgalmazóként vagy jegyzési garanciavállalás formájában részt vevő befektetési vállalkozás vagy hitelintézet, illetőleg az értékpapír szabályozott piacra történő bevezetését kezdeményező személy által reklámban vagy egyéb módon közölt információ – ide nem értve a tájékoztatót, az alaptájékoztatót és a hirdetményt – kereskedelmi kommunikáció.
+35. § (1) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden, a befektetők tájékoztatását szolgáló, a kibocsátó, az ajánlattevő, a forgalmazásban forgalmazóként vagy jegyzési garanciavállalás formájában részt vevő befektetési vállalkozás vagy hitelintézet, illetve az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy által reklámban vagy egyéb módon közölt információ – ide nem értve a tájékoztatót, az alaptájékoztatót, a hirdetményt és a 21. § (6) bekezdés szerinti információs dokumentumot – kereskedelmi kommunikáció.
 
-(2) A kereskedelmi kommunikációban foglalt információnak összhangban kell lennie a tájékoztató tartalmával.
+(2) A kereskedelmi kommunikációban foglalt információnak összhangban kell lennie a tájékoztató és a 21. § (6) bekezdés szerinti információs dokumentum tartalmával.
 
 (3) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden reklámnak egyértelmű utalást kell tartalmaznia e jellegére vonatkozóan.
 

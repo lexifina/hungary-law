@@ -8,4 +8,8 @@
 
 (4) Az e § szerinti óvadék igénybevétele esetén a központi szerződő fél az ügyfelét az óvadék haladéktalan visszapótlására szólítja fel. Az óvadék az ügyfél bevételeiből minden más követelést megelőzően visszapótolandó.
 
-(5) A központi szerződő fél jogosult a tevékenységéhez kapcsolódó informatikai feladatokat kiszervezni. Abban az esetben, ha az informatikai feladatok kiszervezése olyan személy részére történik, amely megfelel a központi szerződő fél számára előírt technikai feltételeknek, akkor ezen előírások teljesítését a kiszervezett tevékenységet végző személynél kell vizsgálni.
+(5)
+
+(6) A központi szerződő fél az ügyfelei tulajdonát képező, és az azok ügyfeleit megillető bármely pénzügyi eszközt és pénzeszközt egymástól és a saját vagyonától elkülönítve köteles nyilvántartani.
+
+(7) A központi szerződő fél jogosult a szabályzatában meghatározott módon kockázatkezelési célra létrehozott garanciaalap kezelését végezni.

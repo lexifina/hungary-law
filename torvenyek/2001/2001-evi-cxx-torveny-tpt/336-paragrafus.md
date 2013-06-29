@@ -18,9 +18,9 @@ e) a külföldön kibocsátott értékpapírról belföldi forgalmazás céljár
 
 a) a Bszt. 5. §-a (2) bekezdésének a) és b) pontjaiban meghatározott kiegészítő szolgáltatást,
 
-b) kizárólag tőzsdén kívüli szállítás fizetés ellenében történő elszámolással lezáruló értékpapírügylet esetén a 334. § a) pontjában meghatározott elszámolóházi tevékenységet,
+b) tőzsdén kívüli értékpapírügylet esetén a 334. § a) pontjában meghatározott elszámolóházi tevékenységet,
 
-c) kizárólag értékpapírral történő teljesítés esetén a 334. § c) pontjában meghatározott elszámolóházi tevékenységet,
+c) értékpapírral történő teljesítést,
 
 d) a 334. § d) pontjában meghatározott elszámolóházi tevékenységet,
 

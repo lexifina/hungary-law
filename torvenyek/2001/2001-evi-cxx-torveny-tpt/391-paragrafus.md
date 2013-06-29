@@ -2,51 +2,49 @@
 
 391. § (1) A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
-a) a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár neve, székhelye;
+a) a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár neve, székhelye;
 
-b) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár alapításának időpontja;
+b) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár alapításának időpontja;
 
-c) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenységi köre;
+c) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenységi köre;
 
-d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár jegyzett tőkéjének mértéke;
+d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
 
-e) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
+e) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő él és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
 
-f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár vezető állású személyei;
+f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár vezető állású személyei;
 
-g)
+g) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
 
-h) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenysége megkezdésének időpontja;
+h) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
 
-i) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
+i) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
 
-j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár fióktelepe létesítésének időpontja és helye;
+j) a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
 
-k) a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
+k) a kibocsátó neve, székhelye;
 
-l) a kibocsátó neve, székhelye;
+l) a kibocsátó alapításának időpontja;
 
-m) a kibocsátó alapításának időpontja;
+m) a kibocsátó jegyzett tőkéjének nagysága;
 
-n) a kibocsátó jegyzett tőkéjének nagysága;
+n) a kibocsátó vezető állású személyeinek családi és utóneve, születési helye és ideje, anyja neve (a továbbiakban: természetes személyazonosító adatai), lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
 
-o) a kibocsátó vezető állású személyeinek természetes személyazonosító adatai, lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
+o) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
 
-p) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
+p) a forgalomba hozatal adatai;
 
-q) a forgalomba hozatal adatai;
+q) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
 
-r) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
+r) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 
-s) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
+s) az engedélyezett tájékoztató;
 
-t)
+t) a közzétételre kötelezett által megjelölt közzétételi hely.
 
 u)–v)
 
-x) az engedélyezett tájékoztató;
-
-y) a közzétételre kötelezett által megjelölt közzétételi hely.
+x)–y)
 
 (2) A Felügyelet nyilvántartásba veszi:
 

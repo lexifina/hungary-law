@@ -4,16 +4,24 @@ a) a társaság hatályos létesítő okiratát, három hónapnál nem régebbi 
 
 b) igazolást az alaptőke befizetéséről,
 
-c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval, valamint elszámolóházzal kötött előszerződést,
+c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval, kötött előszerződést,
 
 d) a 350/E. §-ban meghatározott szabályzatokat,
 
 e) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket az alapító okirat nem tartalmazza,
 
-f) a rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök leírását,
+f) a rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök leírását, melyből megállapítható, hogy a kérelmező
 
-g) a felelősségbiztosításról szóló szerződést,
+fa) által üzemeltetett elszámolási rendszer biztosítja a pontos, megbízható és átlátható elszámolási rendet,
+
+fb) adatkezelése megfelel a biztonságos adatvédelem (tárolás, mentés, visszakereshetőség) feltételeinek,
 
 h) a működés első 3 évére vonatkozó üzleti tervet,
 
-i) a kérelmező nyilatkozatát arra vonatkozóan, hogy a központi szerződő fél tevékenységet mikor kívánja megkezdeni.
+i) a kérelmező nyilatkozatát arra vonatkozóan, hogy a központi szerződő fél tevékenységet mikor kívánja megkezdeni,
+
+j) az elszámolás és garanciavállalás részletes bemutatását, különösen az elszámolási technikát, módszereket, adatrögzítési, adatmentési, adatvédelmi megoldásokat,
+
+k) a belső szabályzatokat,
+
+l) a vezető állású személyek megnevezését.

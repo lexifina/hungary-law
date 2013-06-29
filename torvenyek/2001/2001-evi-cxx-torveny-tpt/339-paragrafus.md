@@ -26,4 +26,4 @@ j) a kérelmező nyilatkozatát arra vonatkozóan, hogy az elszámolóházi tev�
 
 k) a vezető állású személyek megnevezését;
 
-l) ha központi szerződő fél tevékenységet nem végez, a központi szerződő féllel kötött előszerződést.
+l)

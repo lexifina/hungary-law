@@ -1,6 +1,6 @@
 ## TIZEDIK RÉSZ
 
-## AZ ELSZÁMOLÓHÁZI ÉS KÖZPONTI ÉRTÉKTÁRI TEVÉKENYSÉG
+## AZ ELSZÁMOLÓHÁZI, KÖZPONTI ÉRTÉKTÁRI ÉS KÖZPONTI SZERZŐDŐ FÉL TEVÉKENYSÉG
 
 ## XLII. Fejezet
 
@@ -8,10 +8,10 @@
 
 334. § Elszámolóházi tevékenység az alábbi tevékenységek végzése:
 
-a) a klíring,
+a) a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolása,
 
-b) a klíringelt ügylet pénzügyi teljesítése,
+b) az a) pont szerint elszámolt ügylet pénzügyi teljesítése,
 
-c) a klíringelt ügylet nem pénzbeli (termékkel) történő teljesítése, ide nem értve az értékpapírral történő teljesítést,
+c) az a) pont szerint elszámolt ügylet nem pénzbeli (termékkel történő) teljesítése, ide nem értve az értékpapírral történő teljesítést,
 
 d) az értékpapír-kölcsönzési rendszer működtetése.

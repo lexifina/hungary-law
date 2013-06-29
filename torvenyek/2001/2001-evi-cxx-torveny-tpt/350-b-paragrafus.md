@@ -18,7 +18,7 @@ f) a központi értéktár által a szolgáltatást igénybe vevők részére fe
 
 g) az értékpapír kölcsönzés szabályait.
 
-(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek elszámolásával kapcsolatosan azt az időpontot, melyet követően a klíring, illetve elszámolási utasítás visszavonhatatlan.
+(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek teljesítésével kapcsolatosan azt az időpontot, amelyet követően az ügyfél a megbízását nem vonhatja vissza.
 
 (4) Az üzletszabályzatnak és a szabályzatoknak a központi értéktár ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 

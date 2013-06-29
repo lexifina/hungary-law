@@ -18,7 +18,15 @@ f) az ügyfelek által a központi szerződő fél részére nyújtandó inform�
 
 g) a központi szerződő fél által alkalmazható szankciók körét és a jogorvoslat rendjét,
 
-h) a szolgáltatást igénybevevők részére felszámított díjat.
+h) a szolgáltatást igénybevevők részére felszámított díjat,
+
+i) az elszámolás és teljesítés rendjét,
+
+j) a pénzszámlák számlavezetésének rendjét és szabályait, amennyiben a 340/D. § (2) bekezdés e) pontja szerinti tevékenységet végez,
+
+k) a pénzkölcsönzés szabályait, amennyiben a 340/D. § (2) bekezdés d) pontja szerinti tevékenységet végez,
+
+l) az ügylet elszámolásával kapcsolatosan azt az időpontot, melyet követően az ügyfél a megbízását nem vonhatja vissza.
 
 (3) A szabályzatoknak a központi szerződő fél ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 

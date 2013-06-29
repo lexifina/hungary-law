@@ -18,9 +18,9 @@ d) rendelkezik a tevékenység folytatásához szükséges személyi, tárgyi, t
 
 e) rendelkezik a 345. §-ban meghatározott szabályzatokkal;
 
-f) ha központi szerződő fél tevékenységet nem végez, legalább a 321. § (1) bekezdése és a 322. § (4) bekezdése szerinti tőzsdei ügyletek teljesítésért történő kötelezettségvállalás tekintetében előszerződést kötött a központi szerződő féllel.
+f)
 
-(6) Tőzsde a 334. §-ban meghatározott elszámolóházi tevékenység folytatására jogosító engedélyt a (4) bekezdés c)–e) pontjaiban meghatározott feltételek teljesítése esetén kaphat.
+(6) Tőzsde a 334. §-ban meghatározott elszámolóházi tevékenység folytatására jogosító engedélyt az (5) bekezdés c)–e) pontjában meghatározott feltételek teljesítése esetén kaphat.
 
 (7) Elszámolóházi tevékenység folytatására jogosító engedélyt a fióktelep akkor kaphat, ha a fióktelepet létesítő külföldi kérelmező igazolja a (4)–(6) bekezdésben foglaltak teljesítését, továbbá
 

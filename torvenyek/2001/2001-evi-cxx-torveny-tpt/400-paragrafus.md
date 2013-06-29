@@ -1,28 +1,28 @@
 400. § (1) A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:
 
-a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára, a tájékoztatási kötelezettségének teljesítésére, a tőzsdei tevékenységre, az elszámolóházi, illetve központi értéktári tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
+a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára, a tájékoztatási kötelezettségének teljesítésére, a tőzsde által végzett tevékenységre, az elszámolóház által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
 
-b) az engedély nélküli tőzsdei, elszámolóházi, illetve központi értéktári tevékenység folytatását megtilthatja;
+b) az engedély nélkül tőzsdei, elszámolóházi, a központi szerződő fél által végzett, illetve központi értéktári tevékenység folytatását megtilthatja;
 
 c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet;
 
-d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
+d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
 
-e) kötelezheti a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
+e) kötelezheti a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
 
-f) a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
+f) a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
 
-g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
+g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
 
 h) a tőzsdei tevékenység folytatását részben vagy egészben meghatározott időre felfüggesztheti;
 
 i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék kereskedésből történő kivezetését;
 
-j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár tevékenységi engedélyét visszavonhatja;
+j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár tevékenységi engedélyét visszavonhatja;
 
 k) a kockázati tőkealap-kezelőt meglévő szerződéses kötelezettségeinek más szolgáltató részére történő átadására kötelezheti;
 
-l) felügyeleti biztost rendelhet ki a kockázati tőkealap-kezelőhöz, a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, illetve a központi értéktárhoz;
+l) felügyeleti biztost rendelhet ki a kockázati tőkealap-kezelőhöz, a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, központi szerződő félhez illetve a központi értéktárhoz;
 
 m) törvényben meghatározott esetben és mértékben bírságot szabhat ki;
 
@@ -32,9 +32,7 @@ o) ha törvény alapján a részvényes a részvénytársasággal szemben tagsá
 
 p) más illetékes hatóságnál eljárást kezdeményezhet;
 
-q)
-
-r) megtilthatja, korlátozhatja vagy feltételhez kötheti a kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár
+q) megtilthatja, korlátozhatja vagy feltételhez kötheti a kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve a központi értéktár
 
 1. osztalékának kifizetését,
 
@@ -48,7 +46,7 @@ r) megtilthatja, korlátozhatja vagy feltételhez kötheti a kockázati tőkeala
 
 6. új fiókjának megnyitását, új tevékenységének, valamint új üzletágának megkezdését;
 
-s) kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat
+r) kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat
 
 1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetve alkalmazására,
 
@@ -58,17 +56,13 @@ s) kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóház
 
 4. megfelelő nagyságú tartalék képzésére;
 
-t) a tőzsde jogszabályba ütköző tevékenységét megtiltja, a tőzsdét új szabályzat kidolgozására vagy új határozat hozatalára kötelezi;
+s) a tőzsde jogszabályba ütköző tevékenységét megtiltja, a tőzsdét új szabályzat kidolgozására vagy új határozat hozatalára kötelezi;
 
-u)
+t) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
 
-v) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
+u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 40. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
 
-w) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 40. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza.
-
-x)
-
-y)
+v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja.
 
 (2) A Felügyelet az (1) bekezdés h), i), n), o), r), s) és v) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
@@ -92,6 +86,6 @@ e) az értékpapír-számlán nyilvántartott dematerializált értékpapír ös
 
 (7) A Felügyelet a tevékenység kiszervezését megtilthatja, ha nem felel meg a Bszt. kiszervezésre vonatkozó előírásainak.
 
-(8) A Felügyelet az (1) bekezdés r) pontja 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
+(8) A Felügyelet az (1) bekezdés r) pont 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
 
 (9)

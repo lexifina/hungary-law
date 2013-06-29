@@ -54,7 +54,7 @@ b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amel
 
 24.
 
-25. céltársaság: magyarországi székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaság, amelynek részvényei a nyilvános ajánlattételi eljárás tárgyát képezik,
+25. céltársaság: magyarországi székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaság, amelynek részvényei a nyilvános vételi ajánlati eljárás tárgyát képezik,
 
 26. csereügylet: az Szmt. szerinti swap ügylet,
 
@@ -96,9 +96,9 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 35. ellenőrzött társaság: a Gt.-ben ilyenként meghatározott fogalom,
 
-36. elszámolási rendszer: pénz- és értékpapír-átutalások egységes rend és közös szabályok szerinti feldolgozására, pozícióvezetésre vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
+36. elszámolási rendszer: a tőzsdén, vagy a tőzsdén kívül megkötött pénz- és tőkepiaci ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
 
-37. elszámolóház: a tőzsdén és tőzsdén kívül megkötött pénz- és tőkepiaci ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat teljesítő szakosított hitelintézet,
+37. elszámolóház: a tőzsdén, a tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat végző szakosított hitelintézet,
 
 38. EU-szintű befektetési vállalkozás anyavállalat: olyan tagállami befektetési vállalkozás anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
 
@@ -134,7 +134,7 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 53. független pénzügyi szakértő: olyan könyvvizsgáló, befektetési tanácsadási tevékenység végzésére jogosult személy vagy forgalmazó, aki a vételi ajánlat közzétételének időpontját megelőző három éven belül nem állt megbízásos jogviszonyban sem az ajánlattevővel, sem a vételi ajánlattal érintett részvénytársasággal, sem az ebben, illetve az ajánlattevőben befolyással rendelkező személlyel,
 
-54. garanciaalap: tőkepiaci ügyletek elszámolásának a biztosítékaként az elszámolóház által kezelt olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
+54. garanciaalap: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, a földgázellátásról szóló 2008. évi XL. törvényben meghatározott egyensúlyozó platformon (a továbbiakban: egyensúlyozó platform) árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként az elszámolóház, illetve a központi szerződő fél által kezelt olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
 
 55. harmadik ország: az az ország, amely nem tagja az Európai Uniónak,
 
@@ -176,7 +176,7 @@ b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót, illetve a m
 
 c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
 
-70. klíring: a fizetési megbízásokra, pénz- és tőkepiaci ügyletek elszámolására – ide nem értve a Hpt. szerinti elszámolásforgalmi ügyletet –, átutalásokra (transzferekre) vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a tényleges teljesítést megelőzően (bruttó vagy nettó elven),
+70. elszámolás: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
 
 71. kockázati tőkealap: kockázati tőkealap-jegy zártkörű forgalomba hozatalával létrehozott és működtetett, jogi személyiséggel rendelkező vagyontömeg, amelyet a kockázati tőkealap-kezelő a befektetők általános megbízása alapján, azok érdekében kezel,
 
@@ -200,9 +200,9 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 81. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer,
 
-82. központi szerződő fél: tőzsdei, tőzsdén kívüli tőkepiaci ügylet és törvényben meghatározott szervezett piacon kötött ügylet teljesítéséhez kapcsolódó kötelezettségvállalás végzésére jogosult gazdasági társaság,
+82. központi szerződő fél: a központi szerződő fél tevékenység végzésére jogosító engedéllyel rendelkező gazdasági társaság,
 
-83. központi szerződő fél tevékenység: az elszámolóház, illetve a központi szerződő fél által a tőzsdeügylet és a tőzsdén kívüli tőkepiaci ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás,
+83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
 
 84. közvetett tulajdon, illetve közvetett befolyás: egy vállalkozás tulajdoni hányadának, illetőleg szavazati jogának a vállalkozásban tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más vállalkozás (köztes vállalkozás) tulajdoni hányadán, szavazati jogán keresztül történő gyakorlása. A közvetett tulajdon, a közvetett befolyás arányának megállapításához a közvetett tulajdonnal, közvetett befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes vállalkozásnak a vállalkozásban fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb. Ha a köztes vállalkozásban fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni,
 
@@ -224,7 +224,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 93.
 
-94. nyilvános ajánlattétel, nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
+94. nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
 
 95. nyilvános forgalomba hozatal: az értékpapír nem zártkörű forgalomba hozatala,
 
@@ -250,7 +250,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
 
-107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló pénzügyi ügyletből eredő tartozásoknak és követeléseknek az adott pénzügyi termék piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
+107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
 
 108. referenciaadat: a Hpt.-ben meghatározott fogalom,
 
@@ -288,7 +288,7 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 119. tagsági jogokat megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzben meghatározott nem pénzbeli vagyoni érték tulajdonba vételét elismerve arra kötelezi magát, hogy az értékpapír birtokosának meghatározott szavazati, vagyoni és egyéb jogokat biztosít,
 
-120. teljesítés: az elszámolóházi tevékenységet végző szervezet ügyfelei, a központi értéktár ügyfelei, valamint a központi szerződő fél ügyfelei egymással szemben – valamint a központi szerződő fél kötelezettségvállalása mellett – kötött ügylet esetében a központi szerződő fél tevékenységet végző szervezet ügyfelei és a központi szerződő fél tevékenységet végző szervezet között – fennálló pénzben meghatározott követeléseinek (pozícióinak) kiegyenlítése (átutalása), illetőleg az ügyfelek egymással szemben nem pénzben fennálló követeléseinek teljesítése (szállítása),
+120. teljesítés: az elszámolóházi tevékenységet végző szervezet ügyfelei, a központi értéktár ügyfelei, valamint a központi szerződő fél ügyfelei között, valamint a központi szerződő fél kötelezettségvállalása mellett kötött ügylet esetében a központi szerződő fél ügyfelei és a központi szerződő fél között fennálló pénzben, illetve nem pénzben meghatározott követelések (pozíciók) kiegyenlítése,
 
 121. termékcsoport: olyan termékek köre, amelyekkel a tőzsdén annak szabályzata alapján azonos feltételek mellett lehet kereskedni,
 

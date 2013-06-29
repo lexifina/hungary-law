@@ -6,7 +6,7 @@
 
 399. § (1)
 
-(2) A Felügyelet külföldi felügyeleti hatósággal kötött, tőzsdei kereskedési joggal rendelkező vállalkozások felügyeletére is kiterjedő nemzetközi együttműködési megállapodás alapján a külföldi felügyeleti hatóság kezdeményezésére külföldi jogszabályban, külföldi felügyeleti hatóság határozatában, külföldi tőzsde alapszabályában vagy szabályzatában, külföldi elszámolóház alapszabályában vagy szabályzatában, illetve külföldi központi értéktár alapszabályában vagy szabályzatában meghatározott előírások megsértése esetén is alkalmazhat intézkedéseket és szankciókat.
+(2) A Felügyelet külföldi felügyeleti hatósággal kötött, tőzsdei kereskedési joggal rendelkező vállalkozások felügyeletére is kiterjedő nemzetközi együttműködési megállapodás alapján a külföldi felügyeleti hatóság kezdeményezésére külföldi jogszabályban, külföldi felügyeleti hatóság határozatában, külföldi tőzsde alapszabályában vagy szabályzatában, külföldi elszámolóház alapszabályában vagy szabályzatában, központi szerződő fél alapszabályában vagy szabályzatában illetve külföldi központi értéktár alapszabályában vagy szabályzatában meghatározott előírások megsértése esetén is alkalmazhat intézkedéseket és szankciókat.
 
 (3) Ha a Felügyelet megállapítja, hogy valamely más tagállamban székhellyel rendelkező kibocsátó, illetőleg forgalmazó a nyilvános forgalomba hozatal szabályait megsértette, illetőleg hogy a Magyarországon szabályozott piacra bevezetett értékpapír más tagállamban székhellyel rendelkező kibocsátója megsértette a forgalomban tartással kapcsolatos kötelezettségeit, értesíti a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságát és az Európai Értékpapír-piaci Hatóságot.
 

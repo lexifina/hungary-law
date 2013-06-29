@@ -1,4 +1,4 @@
-22. § (1) Nem kell tájékoztatót és hirdetményt közzétenni olyan nyilvános ajánlattétel esetén, amikor
+22. § (1) Nem kell tájékoztatót és hirdetményt közzétenni olyan nyilvános értékesítésre történő felajánlás esetén, amikor
 
 a) a kibocsátó korábban már forgalomba hozott részvényekkel azonos fajtájú, illetve azonos osztályba tartozó, azokat helyettesítő részvényeket bocsát ki, és az ilyen új részvények forgalomba hozatala nem jelenti a kibocsátott alaptőke növelését;
 

@@ -4,6 +4,6 @@
 
 (3) Az opció a tőzsdei ügylet megkötésétől számítva legfeljebb öt évre köthető ki. Az opció gyakorlása meghatározott határnapra is kiköthető, ez esetben a határnap nem lehet távolabbi, mint a tőzsdei ügylet megkötésétől számított öt év. Az öt évet meghaladó időtartamra vagy öt évnél távolabbi határnapra, illetve határozatlan időre kikötött opció semmis. A tőzsdei szabályzat az opció – egyes tőzsdei ügyletekben kiköthető – időtartamát és határnapját meghatározhatja.
 
-(4) Az opciós ügylet azáltal jön létre, hogy azt az elszámolóház nyilvántartásba veszi és visszaigazolja. Az elszámolóház által nyilvántartásba vett opciós ügyletből eredő kötelezettséget – a központi szerződő félként kötelezettséget vállaló szervezet szabályzata által meghatározott módon – mindkét fél irányában a központi szerződő félként kötelezettséget vállaló szervezet teljesíti.
+(4)
 
 (5) A bíróság a kötelezettet az opciós ügyletből folyó kötelezettsége alól nem mentesítheti.

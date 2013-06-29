@@ -1,4 +1,4 @@
-347. § (1) Az elszámolóházi tevékenységet végző szervezet a befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató tulajdonát képező, és az ügyfeleiket megillető bármely pénzügyi eszközt és pénzeszközt egymástól és saját vagyonától elkülönítve köteles nyilvántartani.
+347. § (1) Az elszámolóházi tevékenységet végző szervezet az ügyfelei tulajdonát képező, és az azok ügyfeleit megillető bármely pénzügyi eszközt és pénzeszközt egymástól és a saját vagyonától elkülönítve köteles nyilvántartani.
 
 (2)
 

@@ -14,9 +14,9 @@ a) a kibocsátóra, az értékpapírban foglalt kötelezettség teljesítéséé
 
 b) az értékpapírral kapcsolatos kockázatok, valamint az értékpapír által megtestesített jogok befektető általi megismeréséhez szükséges információkat,
 
-c) a nyilvános ajánlattétel általános feltételeit, ideértve a kibocsátó vagy az ajánlattevő által felszámított, a befektetőt terhelő díjakat, költségeket,
+c) a nyilvános értékesítésre történő felajánlás általános feltételeit, ideértve a kibocsátó vagy az ajánlattevő által felszámított, a befektetőt terhelő díjakat, költségeket,
 
-d) a forgalomba hozatal, illetve a szabályozott piacra történő bevezetés részleteit,
+d) a forgalomba hozatal, illetve a szabályozott piacra történő bevezetés, valamint a multilaterális kereskedési rendszerbe történő regisztráció részleteit,
 
 e) a forgalomba hozatal céljának és a forgalomba hozataltól várható haszon felhasználásának ismertetését.
 

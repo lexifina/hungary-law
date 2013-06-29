@@ -1,12 +1,12 @@
 ## Vezető állású személyekre és minősített befolyással rendelkezőkre vonatkozó feltételek
 
-356. § (1) Szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
+356. § (1) Szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi szerződő félnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki,
 
-a) felsőfokú végzettséggel rendelkezik;
+a) aki felsőfokú végzettséggel rendelkezik;
 
-b) legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
+b) aki legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
 
-c) hatósági bizonyítvány útján igazolja, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
+c) aki hatósági bizonyítvány útján igazolja, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 
 d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 

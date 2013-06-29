@@ -4,6 +4,8 @@
 
 353. § (1) Az elszámolóház elleni felszámolási eljárás során a hitelintézetek felszámolására vonatkozó általános szabályokat a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
+(1a) A 340/D. § (2) bekezdés d) vagy e) pontjában meghatározott tevékenységet végző központi szerződő fél elleni felszámolási eljárás során a hitelintézetek felszámolására vonatkozó általános szabályokat a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
 (2) Az elszámolóházi tevékenységet végző szervezet, valamint a központi szerződő fél ellen indított felszámolási eljárás esetén nem tartozik az elszámolóházi tevékenységet végző szervezet, központi szerződő fél felszámolási vagyonába a 346. §-ban, illetve a 350/F. §-ban meghatározott biztosíték és óvadék.
 
 (3) Az elszámolóházi tevékenységet végző szervezettel, a központi szerződő féllel szembeni számlakövetelések kielégítésére – a Cstv. 57. §-ában meghatározott kielégítési sorrendtől eltérően – a felszámolási költségek kielégítését követően kerül sor.

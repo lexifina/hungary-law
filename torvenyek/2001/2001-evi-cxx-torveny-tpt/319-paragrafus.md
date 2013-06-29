@@ -6,4 +6,4 @@
 
 (2) A tőzsdei ügylet azonnali, határidős és opciós ügylet és ezek kombinációja lehet.
 
-(3) A tőzsdei ügylet érvényességéhez a tőzsdei ügylet adatainak a tőzsdei szabályzatban meghatározott módon történő rögzítése, határidős és opciós ügylet esetében továbbá az elszámolóház visszaigazolása is szükséges.
+(3) A tőzsdei ügylet érvényességéhez a tőzsdei ügylet adatainak a tőzsdei szabályzatban meghatározott módon történő rögzítése, ezen felül az elszámolóházi tevékenységet végző szervezet vagy a központi szerződő fél nyilvántartásba vétele és visszaigazolása is szükséges.

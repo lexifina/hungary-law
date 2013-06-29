@@ -6,9 +6,11 @@
 
 a) nem eredményezheti a vállalkozás vezető állású személyei hatáskörének átadását,
 
-b) nem eredményezhet változást az ügyfél és a vállalkozás közötti szerződéses viszonyban és nem befolyásolhatja a vállalkozás ügyfél felé fennálló, e törvényben foglalt kötelezettségeinek teljesítését, és
+b) a központi értéktár, az elszámolóházi tevékenységet végző szervezet esetében
 
-c) nem eredményezhet változást az e törvény szerinti, tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében.
+ba) nem eredményezhet változást az ügyfél és a vállalkozás közötti szerződéses viszonyban és nem befolyásolhatja a vállalkozás ügyfél felé fennálló, e törvényben foglalt kötelezettségeinek teljesítését, és
+
+bb) nem eredményezhet változást az e törvény szerinti tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében.
 
 (3) Ha a vállalkozás e törvényben szabályozott tevékenységet, vagy kritikus funkcióját szervezi ki, a kiszervezésről szóló megállapodás megkötését megelőzően meggyőződik arról, hogy a leendő szerződő fél
 
@@ -22,7 +24,9 @@ d) rendelkezik-e mindazokkal a szervezeti megoldásokkal, működési és eljár
 
 e) rendelkezik-e olyan vészforgatókönyvvel, amely a vészhelyzetek megoldására és a biztonsági eszközök rendszeres felülvizsgálatára vonatkozó szabályokat tartalmazza.
 
-(4) A vállalkozás kritikus funkció kiszervezéséről szóló megállapodást csak azzal köthet, aki megfelel a (3) bekezdésben foglaltaknak.
+(4) A vállalkozás kritikus funkció kiszervezéséről szóló megállapodást csak azzal köthet, aki megfelel a (3) bekezdésben foglaltaknak, valamint a központi szerződő fél esetén a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben foglaltaknak.
+
+(4a) A központi szerződő fél a kockázatkezeléshez kapcsolódó főbb tevékenységének kiszervezéséhez a Felügyelet engedélye szükséges.
 
 (5) A vállalkozás az (1) bekezdésben meghatározott tevékenysége vagy szolgáltatása kiszervezésére harmadik országban székhellyel rendelkező személlyel vagy szervezettel akkor köthet megállapodást, ha a leendő szerződő megfelel a (3) bekezdésben foglaltaknak, valamint:
 
@@ -30,7 +34,7 @@ a) a székhelye szerinti állam e tevékenység végzésére irányadó jogszab�
 
 b) a kiszervezett tevékenységére nézve hatáskörrel rendelkező felügyeleti hatóság és a Felügyelet között együttműködési megállapodás van hatályban.
 
-(6) A (3) és (4) bekezdés alkalmazásában kritikus funkciónak minősül minden olyan funkció, amelynek végrehajtásában tapasztalható hiányosság vagy eltérés kétségessé teszi a vállalkozás e törvényben előírt kötelezettségeinek teljesítését, jövedelmezőségét vagy a befektetési szolgáltatási tevékenység végzésének folyamatosságát.
+(6) A (3) és (4) bekezdés alkalmazásában kritikus funkciónak minősül minden olyan funkció, amelynek végrehajtásában tapasztalható hiányosság vagy eltérés kétségessé teszi a vállalkozás e törvényben előírt kötelezettségeinek teljesítését, jövedelmezőségét vagy a befektetési szolgáltatási tevékenység végzésének folyamatosságát, valamint központi szerződő fél esetén olyan funkció vagy tevékenység, amely a kockázatkezeléshez kapcsolódik.
 
 (7) Nem minősül a (3) és (4) bekezdés alkalmazásában kritikus funkciónak
 

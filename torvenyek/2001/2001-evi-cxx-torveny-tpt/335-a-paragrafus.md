@@ -28,12 +28,16 @@ l) az állam vagyonát kezelő szervezetek számára;
 
 m) az MNB számára;
 
-n) az Országos Betétbiztosítási Alap számára és
+n) az Országos Betétbiztosítási Alap számára,
 
-o) a Befektető-védelmi Alap számára
+o) a Befektető-védelmi Alap számára;
+
+p) pénzforgalmi intézménynek és
+
+q) elektronikuspénz-kibocsátó intézménynek
 
 nyújthat.
 
-(2) Az elszámolóház a Hpt. 3. § (1) bekezdésének b) pontjában meghatározott tevékenységet kizárólag az általa elszámolt ügylet teljesítése érdekében végezheti.
+(2) Az elszámolóház a Hpt. 3. § (1) bekezdés b) pontjában meghatározott tevékenységet kizárólag az általa, a központi szerződő fél által elszámolt vagy központi szerződő fél által elszámolásra közvetített ügylet teljesítése érdekében, kizárólag likvid eszközben történő, legalább teljes mértékű fedezettséget biztosító biztosítéknyújtás mellett végezheti.
 
-(3) Az elszámolóház a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag tőzsdei ügylettel, tőzsdén kívüli értékpapírügylettel, értékpapír forgalomba hozatalával, az értékpapíron alapuló fizetéssel, befektetési szolgáltatással, kiegészítő befektetési szolgáltatással, az értékpapírban foglalt kötelezettségen alapuló fizetéssel vagy erre vonatkozó szolgáltatással, árutőzsdei szolgáltatással, valamint törvényben meghatározott szervezett piac számára nyújtott szolgáltatással kapcsolatos elszámolás lebonyolítása érdekében végezhet.
+(3) Az elszámolóház a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag tőzsdei ügylettel, tőzsdén kívüli értékpapírügylettel, értékpapír forgalomba hozatalával, az értékpapíron alapuló fizetéssel, befektetési szolgáltatással, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatással, az értékpapírban foglalt kötelezettségen alapuló fizetéssel vagy erre vonatkozó szolgáltatással, árutőzsdei szolgáltatással, egyensúlyozó platformon nyújtott szolgáltatással, valamint külön törvényben meghatározott szervezett piac számára nyújtott szolgáltatással kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezhet.

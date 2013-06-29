@@ -16,4 +16,4 @@ d) magára nézve kötelezőnek elfogadja az elszámolóházi tevékenységet v�
 
 (2) Az elszámolóházi tevékenységet végző szervezet által nyújtott szolgáltatásra irányuló szerződést írásba kell foglalni.
 
-(3) Amennyiben az elszámolóházi tevékenységet végző szervezet a központi szerződő fél tevékenységet nem maga végzi, köteles e tevékenység ellátására központi szerződő féllel szerződést kötni.
+(3)

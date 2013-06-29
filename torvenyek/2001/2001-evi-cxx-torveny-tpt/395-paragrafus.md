@@ -1,6 +1,6 @@
 ## Adatszolgáltatás
 
-395. § (1) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár a Felügyeletnek köteles bejelenteni és ezzel egyidejűleg – az i) és k) pontban foglaltak kivételével – közzétenni:
+395. § (1) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár a Felügyeletnek köteles bejelenteni és ezzel egyidejűleg – az i) pontban foglaltak kivételével – közzétenni:
 
 a) valamely engedélyezett tevékenység megkezdését;
 
@@ -8,7 +8,7 @@ b) a részvényesei nevét (cégnevét), illetve tulajdoni és szavazati hányad
 
 c) a járulékos vállalkozásban történő befolyásszerzést, illetve a befolyás megszűnését;
 
-d) a 356. §-ban és a 11. számú mellékletben meghatározott személyi körben bekövetkezett változást;
+d) a 356. §-ban és a Batv. 8. § (5)–(8) bekezdésében meghatározott személyi körben bekövetkezett változást;
 
 e) az ügynökkel kötött szerződés megkötését, módosítását és megszűnését;
 
@@ -30,7 +30,7 @@ b) ha az alapító vagy annak bármely államban működő fióktelepe fizetésk
 
 c) ha az alapító székhelye szerinti felügyeleti hatóság az adott intézménnyel, vagy bármely államban működő fióktelepével szemben intézkedést, illetve szankciót alkalmazott.
 
-(3) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a Felügyeletnek megküldeni és ezzel egyidejűleg közzétenni a közgyűlés által jóváhagyott, független könyvvizsgálói jelentéssel ellátott számviteli beszámolót.
+(3) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a Felügyeletnek megküldeni és ezzel egyidejűleg közzétenni a közgyűlés által jóváhagyott, független könyvvizsgálói jelentéssel ellátott számviteli beszámolót.
 
 (4) A bejelentési kötelezettségének
 
@@ -54,7 +54,7 @@ kell eleget tenni.
 
 (5) Az MNB, a kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
 
-(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
+(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
 
 (7) A nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó szabályok betartásának ellenőrzése keretében a Felügyelet írásbeli megkeresésére a részvényesi jogok gyakorlója köteles e jogok gyakorlására kötött megállapodást feltárni, valamennyi e tárgyban keletkezett irat másolatát a Felügyelet rendelkezésére bocsátani, illetve megjelölni azt a személyt, akinek érdekében ténylegesen eljár.
 

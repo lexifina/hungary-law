@@ -20,7 +20,7 @@ e) a befektetési vállalkozás, hitelintézet és ügyfele között pénzügyi 
 
 f) a tőzsde szabályzatával;
 
-g) az elszámolóházi tevékenységet végző szervezet és a központi értéktár alapszabályával, üzletszabályzatával és szabályzataival;
+g) az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár alapszabályával, üzletszabályzatával és szabályzataival;
 
 h) pénzügyi szolgáltatással és kiegészítő pénzügyi szolgáltatással;
 

@@ -8,6 +8,8 @@ b) a 334. § a), c) és d) pontjaiban meghatározott tevékenységet tőzsdei te
 
 (2) Külföldi szervezet elszámolóházi tevékenységet Magyarországon fióktelepe útján folytathat.
 
+(2a) E törvény alkalmazásában az elszámolóházi tevékenységet végző szervezet az (1) és (2) bekezdésben felsorolt intézmény.
+
 (3) Az elszámolóház elszámolóházi tevékenységen kívül kizárólag
 
 a) a központi értéktári tevékenységet,
@@ -16,7 +18,7 @@ b) a Bszt. 5. §-a (2) bekezdésének a) és b) pontjaiban meghatározott kiegé
 
 c) a 336. § (2) bekezdésének c) pontjában meghatározott tevékenységet,
 
-d) központi szerződő fél tevékenységet,
+d)
 
 e) a Hpt. 3. §-a (1) bekezdésének b) és d) pontjában meghatározott pénzügyi szolgáltatási tevékenységet,
 
@@ -24,7 +26,7 @@ f) értékpapír-kölcsönzést,
 
 g) nemesfém letéti őrzését és letétkezelését,
 
-h) üvegházhatású gázkibocsátási egységekre és légszennyező anyag-kibocsátási jogokra vonatkozó ügyletek elszámolását,
+h) tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura kötött ügyletek elszámolására irányuló,
 
 i) az elszámolóházi tevékenységet segítő kiegészítő tevékenységként:
 
@@ -42,6 +44,6 @@ if) részvényesi meghatalmazotti (nominee)
 
 tevékenységet végezhet.
 
-(4) Az elszámolóház kizárólag abban az esetben jogosult a 335. § (3) bekezdésének d) pontjában meghatározott tevékenységet végezni, amennyiben nem rendelkezik a 335. § (3) bekezdésének a) és b) pontjában meghatározott tevékenység végzésére jogosító engedéllyel.
+(4)
 
 (5) Az elszámolóház jogosult továbbá a központi szerződő fél által kiszervezett tevékenységek végzésére.
