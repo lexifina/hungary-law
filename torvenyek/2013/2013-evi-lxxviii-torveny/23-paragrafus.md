@@ -1,0 +1,1 @@
+23. § Nem lép hatályba a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2013. évi LII. törvény 49. § (2) bekezdése.
