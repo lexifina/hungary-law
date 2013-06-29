@@ -1,0 +1,1 @@
+43. § A Bit. 231/B. § (1)–(3) bekezdésében a „96/A. §-ában foglalt” szövegrész helyébe a „96/A. §-ában és – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – az Ebktv. 30/A.§-ában foglalt” szöveg lép.

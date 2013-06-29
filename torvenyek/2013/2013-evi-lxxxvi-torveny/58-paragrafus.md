@@ -1,0 +1,1 @@
+58. § A Psztv. 37. §-ában az „engedélyezési, ellenőrzési, illetve piacfelügyeleti” szövegrész helyébe a „engedélyezési, ellenőrzési, piacfelügyeleti, valamint hatósági képzéssel és vizsgáztatással kapcsolatos” szöveg lép.

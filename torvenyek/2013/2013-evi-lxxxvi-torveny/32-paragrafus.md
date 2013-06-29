@@ -1,0 +1,5 @@
+32. § A Bit. 138. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A származtatott ügyletekre vonatkozóan a befektetési alapok befektetési és hitelfelvételi szabályairól szóló rendelet származtatott ügyletekre vonatkozó általános szabályokkal kapcsolatos rendelkezéseit kell alkalmazni úgy, hogy a befektetési alap alatt a biztosítót, a befektetési alap nettó eszközértéke helyett a biztosítástechnikai tartalékok fedezetét képező eszközöket, a kezelési szabályzat alatt a biztosító eszközértékelési szabályzatát kell érteni.
+
+(3) A biztosító nem köthet olyan ügyletet, amely a befektetési alapok befektetési és hitelfelvételi szabályairól szóló rendelet származtatott ügyletekre vonatkozó általános szabályokkal kapcsolatban előírt nettósítási szabályainak alkalmazásával rövid nettó pozíciót eredményezne, kivéve az indexre szóló származtatott ügylet esetét, amely nettósítható az indexkosárban szereplő értékpapírokkal, feltéve, ha az értékpapírok összetétele legalább 80 százalékban fedi az indexkosár összetételét.”
