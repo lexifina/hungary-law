@@ -10,7 +10,9 @@ c) az Európai Rendszerkockázati Testülettel,
 
 d) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valamint
 
-e) az Európai Bankbizottsággal.
+e) az Európai Bankbizottsággal,
+
+f) a Központi Bankok Európai Rendszerével.
 
 (2) A Felügyelet teljesíti az (1) bekezdésben meghatározott hatóságok irányában fennálló bejelentési kötelezettségeket.
 

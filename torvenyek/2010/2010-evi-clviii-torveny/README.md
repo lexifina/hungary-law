@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-158-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 2010-158-00-00.11 |
 | 2013-03-27 | 2013. évi XV. törvény | 2010-158-00-00.12 |
 | 2013-06-22 | 2013. évi LXXXIII. törvény | 2010-158-00-00.13 |
+| 2013-06-29 | 2013. évi XCVIII. törvény | 2010-158-00-00.14 |
