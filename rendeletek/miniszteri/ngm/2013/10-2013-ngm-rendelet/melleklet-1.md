@@ -1,6 +1,6 @@
-## 14. §[^1]
+## 14. §[^4]
 
-1. melléklet a 10/2013. (III. 13.) NGM rendelethez
+1. melléklet a 10/2013. (III. 13.) NGM rendelethez[^5]
 
 |  |  |  |  |  | Fejezeti jellemző adatok |  |  |  |  |  |  |  | Önkormányzati jellemző adatok |  |  |  |  |  |  |  |
 
@@ -474,4 +474,5 @@ TARTALOMJEGYZÉK A „H” ŰRLAPGARNITÚRÁHOZ
 
 | Cafetéria rendszer keretében adott juttatások (tájékoztató adat) | 55 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 26/2013. (VI. 28.) NGM rendelet 8. §-a szerint módosított szöveg.
