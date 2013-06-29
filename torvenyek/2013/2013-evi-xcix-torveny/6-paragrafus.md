@@ -1,3 +1,0 @@
-6. § A Vht. 79/E. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha a pénzforgalmi szolgáltató az adóst megillető, de végrehajtás alá nem vonható mentes pénzösszeget a 79/A. §-ban vagy a 79/D. §-ban foglaltak ellenére kifizeti a végrehajtást foganatosító hatóság rendelkezésére, a pénzforgalmi szolgáltató a mentesnek minősülő összegért felelős az adósnak és köteles azt részére visszatéríteni. A mentes összegért fennálló helytállási kötelezettség nem mentesíti a pénzforgalmi szolgáltatót a végrehajtásból eredő kötelezettségek nemteljesítése miatt e törvényben és más jogszabályokban meghatározott jogkövetkezmények alkalmazása alól.”

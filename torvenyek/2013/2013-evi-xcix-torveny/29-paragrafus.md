@@ -5,11 +5,3 @@
 (2) Az 1. §, valamint a 3–8. § e törvény kihirdetését követő 30. napon lép hatályba.
 
 (3) A 2. §, a 9–23. §, a 25. §, a 26. § b)–o) pontja, valamint a 27. és 28. § 2013. október 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
