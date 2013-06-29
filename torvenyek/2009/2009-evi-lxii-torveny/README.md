@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-62-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2009-62-00-00.9 |
 | 2012-10-28 | 2012. évi CLI. törvény | 2009-62-00-00.10 |
 | 2013-01-01 | 2012. évi CLI. törvény | 2009-62-00-00.11 |
+| 2013-06-29 | 2013. évi LXXXVI. törvény | 2009-62-00-00.12 |

@@ -6,6 +6,6 @@
 
 (3) Az (1) bekezdésben meghatározott biztosítónak a kárképviselővel kapcsolatos adatokat, annak kijelölését, illetve az adataiban, valamint a személyében bekövetkezett változásokat 8 napon belül a Felügyeletnek be kell jelentenie.
 
-(4) Az (1) bekezdésben meghatározott biztosítók által kijelölt kárképviselők listáját és a kárképviselők adataiban bekövetkezett változásokat a Felügyelet internetes honlapján folyamatosan, negyedévente pedig a Pénzügyi Közlönyben is közzéteszi.
+(4) Az (1) bekezdésben meghatározott biztosítók által kijelölt kárképviselők listáját és a kárképviselők adataiban bekövetkezett változásokat a Felügyelet internetes honlapján folyamatosan közzéteszi.
 
 (5) Az (1) bekezdésben meghatározott biztosítónak határon átnyúló szolgáltatás esetén a tevékenység megkezdése előtt 30 nappal a szerződésre vonatkozó magyar nyelvű dokumentumokat – ideértve a szerződési feltételeket is – a Felügyelet részére be kell nyújtani.
