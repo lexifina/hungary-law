@@ -12,6 +12,7 @@ e) kombinált szolgáltatás (szöveges üzenetközvetítési szolgáltatás és
 
 (2) Egyidejűleg több értesítés típus is igényelhető.
 
-(3) Az (1) bekezdés szerinti igazgatási szolgáltatási díj (a továbbiakban: díj) egy ingatlan egy naptári évre vonatkozó figyelését tartalmazza, valamint korlátlan darabszámú értesítés küldését az igénylő által választott módon vagy módokon.
+(3)[^2] Az (1) bekezdés szerinti igazgatási szolgáltatási díj (a továbbiakban: díj) egy ingatlan egy évre vonatkozó figyelését tartalmazza, valamint korlátlan darabszámú értesítés küldését az igénylő által választott módon vagy módokon.
 
 [^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 6. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 6/2013. (V. 30.) KIM rendelet 12. §-a szerint módosított szöveg.
