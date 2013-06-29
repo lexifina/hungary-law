@@ -1,14 +1,16 @@
 ## IV. Fejezet
 
-## Az eljárás kezdetén megfizetendő költség[^35]
+## A VÉGREHAJTÓI DÍJ ELŐLEGEZÉSE[^39]
+
+## Az eljárás kezdetén megfizetendő költség[^40]
 
 ## 17. §
 
-(1)[^36] A végrehajtót az eljárása kezdetén a munkadíj és a költségátalány részeként ügyenként megilleti
+(1)[^41] A végrehajtót az eljárása kezdetén a munkadíj és a költségátalány részeként ügyenként megilleti
 
-a) pénzkövetelés behajtása esetén – kivéve a b) pontban foglalt eljárásokat – a pénzfizetésre irányuló végrehajtási eljárásban felszámítható munkadíj összege és a költségátalány 50%-ának megfelelő összeg, de legalább 4000 Ft, legfeljebb 75 000 Ft,
+a)[^42] pénzkövetelés behajtása esetén – kivéve a b) pontban foglalt eljárásokat – a pénzfizetésre irányuló végrehajtási eljárásban felszámítható munkadíj összege és a költségátalány 50%-ának megfelelő összeg, de összesen legalább 4000 Ft, legfeljebb 75 000 Ft,
 
-b) tartásdíj, munkabér és kártérítési összeg behajtására irányuló eljárásban a pénzfizetésre irányuló végrehajtási eljárásban felszámítható munkadíj összege és a költségátalány 50%-ának megfelelő összeg, de legalább 4000 Ft, legfeljebb 60 000 Ft,
+b)[^43] tartásdíj, munkabér és kártérítési összeg behajtására irányuló eljárásban a pénzfizetésre irányuló végrehajtási eljárásban felszámítható munkadíj összege és a költségátalány 50%-ának megfelelő összeg, de összesen legalább 4000 Ft, legfeljebb 60 000 Ft,
 
 c) biztosítási intézkedés végrehajtása esetén a teljes munkadíj és költségátalány összege,
 
@@ -16,60 +18,63 @@ d) meghatározott cselekmény végrehajtása esetén 4000 Ft, a Vht. 184/A. §-�
 
 e) ha az ügyben több végrehajtó jár el, az a)–d) pont szerinti összeg és eljáró végrehajtónként további 2000 Ft, legfeljebb azonban további 10 000 Ft.
 
-f)[^37]
+f)[^44]
 
-(2)[^38] A végrehajtó a Vht. 4. §-a és 225. §-ának (3) bekezdése alapján átvett ügyekben az (1) és (5) bekezdés szerinti költség eljárás kezdetén történő megfizetése nélkül jár el.
+(2)[^45] A végrehajtó a Vht. 4. §-a és 225. §-ának (3) bekezdése, valamint az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 158. § (3) bekezdése alapján átvett ügyekben az (1) és (5) bekezdés szerinti költség eljárás kezdetén történő megfizetése nélkül jár el.
 
-(3)[^39]
+(3)[^46]
 
-(4)[^40] A biztosítási intézkedés végrehajtásáért megfizetett munkadíj és költségátalány összegét be kell számítani a kielégítési végrehajtás lefolytatásáért megfizetendő költség összegébe.
+(4)[^47] A biztosítási intézkedés végrehajtásáért megfizetett munkadíj és költségátalány összegét be kell számítani a kielégítési végrehajtás lefolytatásáért megfizetendő költség összegébe.
 
-(5)[^41] A végrehajtó az eljárása kezdetén költség megfizetésére tarthat igényt a várhatóan felmerülő készkiadás összegének erejéig is.
+(5)[^48] A végrehajtó az eljárása kezdetén költség megfizetésére tarthat igényt a várhatóan felmerülő készkiadás összegének erejéig is.
 
-(6)[^42] Az eljárás kezdetén megfizetett (1) és (5) bekezdés szerinti költséget a munkadíj, a költségátalány, illetőleg a készkiadás összegébe be kell számítani.
+(6)[^49] Az eljárás kezdetén megfizetett (1) és (5) bekezdés szerinti költséget a munkadíj, a költségátalány, illetőleg a készkiadás összegébe be kell számítani.
 
-(7)[^43] A végrehajtó az ügy iratainak megérkezése után haladéktalanul köteles a végrehajtást kérőt az (1) és (5) bekezdés szerinti költség megfizetésére felhívni olyan határidővel, hogy az eljárási cselekményeket előreláthatólag határidőn belül tudja elvégezni; a végrehajtó a felhívástól eltekinthet, ennek tényét és időpontját azonban a végrehajtási ügy irataiban köteles feltüntetni. A felhívás mellőzése esetén a végrehajtó nem állapíthatja meg az eljárásnak a Vht. 52. §-ának e) pontja miatti szünetelését, hanem köteles a végrehajtás foganatosítását az adott ügyben irányadó szabályok szerint megkezdeni és elvégezni; a felhívás mellőzése továbbá nem mentesít a végrehajtási költségek megfizetésének kötelezettsége alól.
+(7)[^50] A végrehajtó az ügy iratainak megérkezése után 8 napon belül, soron kívüli ügyben 3 napon belül – kivéve, ha a végrehajtható okiratot a kiállítójának meg kell küldeni – köteles a végrehajtást kérőt az (1) és (5) bekezdés szerinti költség megfizetésére felhívni olyan határidővel, hogy az eljárási cselekményeket előreláthatólag határidőn belül tudja elvégezni; a végrehajtó a felhívástól eltekinthet, ennek tényét és időpontját azonban a végrehajtási ügy irataiban köteles feltüntetni. A felhívás mellőzése esetén a végrehajtó nem állapíthatja meg az eljárásnak a Vht. 52. §-ának e) pontja miatti szünetelését, hanem köteles a végrehajtás foganatosítását az adott ügyben irányadó szabályok szerint megkezdeni és elvégezni; a felhívás mellőzése továbbá nem mentesít a végrehajtási költségek megfizetésének kötelezettsége alól.
 
-(8)[^44] Az eljárás kezdetén megfizetett (1) és (5) bekezdés szerinti költséget a végrehajtó által kiállított, költségfelhívásra szolgáló jegyzőkönyv alapján kell megfizetni, amely a jegyzőkönyv általános tartalmi kellékein túl (Vht. 35. §) tartalmazza:
+(8)[^51] Az eljárás kezdetén megfizetett (1) és (5) bekezdés szerinti költséget a végrehajtó által kiállított, költségfelhívásra szolgáló jegyzőkönyv alapján kell megfizetni, amely a jegyzőkönyv általános tartalmi kellékein túl (Vht. 35. §) tartalmazza:
 
 a) a végrehajtó adószámát,
 
-b)[^45] a végrehajtást kérő értesítését arról, hogy a végrehajtó az ügyet a bíróságtól, közjegyzőtől a végrehajtás foganatosítására átvette,
+b)[^52] a végrehajtást kérő értesítését arról, hogy a végrehajtó az ügyet a bíróságtól, közjegyzőtől a végrehajtás foganatosítására átvette,
 
 c) a végrehajtási ügyértéket és a végrehajtónak járó díj várható összegét (az utóbbit a munkadíj, jutalék, általános költségátalány, költségátalány, készkiadás szerinti részletezésben),
 
-d)[^46] tájékoztatást arról, hogy az eljárás kezdetén megfizetett (1) és (5) bekezdés szerinti költséget a végrehajtást kérőnek vagy költségmentesség esetén a bírósági gazdasági hivatalnak e rendelet rendelkezései szerint, a jegyzőkönyv kézhezvételétől számított, az abban megállapított határidőben kell megfizetni a végrehajtó részére,
+d)[^53] tájékoztatást arról, hogy az eljárás kezdetén megfizetett (1) és (5) bekezdés szerinti költséget a végrehajtást kérőnek vagy költségmentesség esetén a bírósági gazdasági hivatalnak e rendelet rendelkezései szerint, a jegyzőkönyv kézhezvételétől számított, az abban megállapított határidőben kell megfizetni a végrehajtó részére,
 
-e)[^47] a költség összegét a munkadíj, a költségátalány és a várható készkiadás szerinti bontásban,
+e)[^54] a költség összegét a munkadíj, a költségátalány és a várható készkiadás szerinti bontásban,
 
-f)[^48] a költség megfizetésének módját (átutalás esetén az arra szolgáló számla számát és a számlavezető hitelintézet nevét, továbbá az átutalási megbízáson feltüntetendő közlemény tartalmi elemeit),
+f)[^55] a költség megfizetésének módját (átutalás esetén az arra szolgáló számla számát és a számlavezető hitelintézet nevét, továbbá az átutalási megbízáson feltüntetendő közlemény tartalmi elemeit),
 
 g) tájékoztatást arról, hogy
 
 ga) a végrehajtó intézkedése ellen a Vht. 217. §-a szerinti végrehajtási kifogást lehet előterjeszteni,
 
-gb)[^49] a végrehajtás foganatosítása a költség befizetését követően veszi kezdetét (kivéve a gyermektartás behajtása iránti ügyeket),
+gb)[^56] a végrehajtás foganatosítása a költség befizetését követően veszi kezdetét (kivéve a gyermektartás behajtása iránti ügyeket),
 
 gc) ha a befizetés a jegyzőkönyvben megjelölt határidőben nem történik meg, ettől az időponttól a végrehajtás szünetel, illetve megkezdődik az a határidő, amelynek elteltével a végrehajtás megszűnik [Vht. 52. § e) pont, 54. § (2) bek.].
 
-(9)[^50] A kézbesítés munkadíját és költségátalányát (legalább 2 kézbesítési kísérlet költségátalányát) a kérelmezőnek külön költségfelhívás nélkül, a kézbesítés iránti kérelem előterjesztésével együtt kell megfizetnie. Ha kevesebb helyszíni eljárásra került sor, mint amelynek költségátalányát az eljárás kezdetén költségként megfizették, a fel nem használt összeget a végrehajtó a kérelmezőnek visszafizeti.
+(9)[^57] A kézbesítés munkadíját és költségátalányát (legalább 2 kézbesítési kísérlet költségátalányát) a kérelmezőnek külön költségfelhívás nélkül, a kézbesítés iránti kérelem előterjesztésével együtt kell megfizetnie. Ha kevesebb helyszíni eljárásra került sor, mint amelynek költségátalányát az eljárás kezdetén költségként megfizették, a fel nem használt összeget a végrehajtó a kérelmezőnek visszafizeti.
 
-(10)[^51] Ha a kézbesítendő fizetési meghagyást a végrehajtó a Magyar Bírósági Végrehajtói Kamara által működtetett, a kézbesítendő okiratok végrehajtók részére történő megküldésére szolgáló informatikai alkalmazása útján kézhez vette, a kézbesítés foganatosításának megkezdése szempontjából úgy kell tekintenie, hogy a kézbesítés díja megfizetésre került. A kézbesítések díját a Magyar Országos Közjegyzői Kamara – havonta egy alkalommal, összesítetten – átutalja a Magyar Bírósági Végrehajtói Kamara részére, amely gondoskodik az eljáró végrehajtó elszámolási számlájára való átutalásáról.
+(10)[^58] Ha a kézbesítendő fizetési meghagyást a végrehajtó a Magyar Bírósági Végrehajtói Kamara által működtetett, a kézbesítendő okiratok végrehajtók részére történő megküldésére szolgáló informatikai alkalmazása útján kézhez vette, a kézbesítés foganatosításának megkezdése szempontjából úgy kell tekintenie, hogy a kézbesítés díja megfizetésre került. A kézbesítések díját a Magyar Országos Közjegyzői Kamara – havonta egy alkalommal, összesítetten – átutalja a Magyar Bírósági Végrehajtói Kamara részére, amely gondoskodik az eljáró végrehajtó elszámolási számlájára való átutalásáról.
 
-[^35]: A 17. §-t megelőző alcím a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének c) pontjával megállapított szöveg.
-[^36]: A 17. § (1) bekezdése a 43/2003. (XII. 20.) IM rendelet 3. § (1) bekezdésével megállapított, bevezető szövegrésze a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^37]: A 17. § (1) bekezdésének f) pontját a 8/2008. (III. 1.) IRM rendelet 8. § a) pontja hatályon kívül helyezte.
-[^38]: A 17. § új (2) bekezdését a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva. A 17. § (2) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^39]: A 17. § új (3) bekezdését a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (6) bekezdésre változtatva. A (3) bekezdést a 6/2008. (III. 1.) IRM rendelet 8. § a) pontja hatályon kívül helyezte.
-[^40]: A 17. § új (4) bekezdését a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (7) bekezdésre változtatva. A 17. § (4) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^41]: A 17. § eredeti (2) bekezdésének számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (5) bekezdésre változtatta. A 17. § (5) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^42]: A 17. § eredeti (3) bekezdésének számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (6) bekezdésre változtatta. A 17. § (6) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének h) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^43]: A 17. § eredeti (4) bekezdését a 20/1998. (XII. 21.) IM rendelet 8. §-ának (2) bekezdése iktatta a szövegbe, számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (7) bekezdésre változtatta. A (7) bekezdés a 23/2005. (XI. 10.) IM rendelet 2. § (1) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^44]: A 17. § eredeti (5) bekezdését a 20/1998. (XII. 21.) IM rendelet 8. §-ának (2) bekezdése iktatta a szövegbe, számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (8) bekezdésre változtatta. A (8) bekezdés a 43/2003. (XII. 20.) IM rendelet 3. § (2) bekezdésével megállapított, bevezető szövegrésze a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének h) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^45]: A 17. § (8) bekezdés b) pontja a 27/2010. (V. 11.) IRM rendelet 12. §-a szerint módosított szöveg.
-[^46]: A 17. § (8) bekezdésének d) pontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének h) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^47]: A 17. § (8) bekezdésének e) pontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^48]: A 17. § (8) bekezdésének f) pontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^49]: A 17. § (8) bekezdés g) pontjának gb) alpontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^50]: A 17. § (9) bekezdését a 27/2004. (VIII. 26.) IM rendelet 2. § (5) bekezdése iktatta be. A 17. § (9) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének j) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
-[^51]: A 17. § (10) bekezdését a 27/2010. (V. 11.) IRM rendelet 11. §-a iktatta be.
+[^39]: A IV. fejezet címe a 6/2013. (V. 30.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^40]: A 17. §-t megelőző alcímet a 6/2013. (V. 30.) KIM rendelet 5. § (2) bekezdése iktatta be.
+[^41]: A 17. § (1) bekezdése a 43/2003. (XII. 20.) IM rendelet 3. § (1) bekezdésével megállapított, bevezető szövegrésze a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^42]: A 17. § (1) bekezdés a) pontja a 6/2013. (V. 30.) KIM rendelet 10. § c) pontja szerint módosított szöveg.
+[^43]: A 17. § (1) bekezdés b) pontja a 6/2013. (V. 30.) KIM rendelet 10. § c) pontja szerint módosított szöveg.
+[^44]: A 17. § (1) bekezdésének f) pontját a 8/2008. (III. 1.) IRM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^45]: A 17. § új (2) bekezdését a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva. A 17. § (2) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének e) pontja, a 6/2013. (V. 30.) KIM rendelet 10. § d) pontja szerint módosított szöveg.
+[^46]: A 17. § új (3) bekezdését a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (6) bekezdésre változtatva. A (3) bekezdést a 6/2008. (III. 1.) IRM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^47]: A 17. § új (4) bekezdését a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (7) bekezdésre változtatva. A 17. § (4) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^48]: A 17. § eredeti (2) bekezdésének számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (5) bekezdésre változtatta. A 17. § (5) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^49]: A 17. § eredeti (3) bekezdésének számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (6) bekezdésre változtatta. A 17. § (6) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének h) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^50]: A 17. § eredeti (4) bekezdését a 20/1998. (XII. 21.) IM rendelet 8. §-ának (2) bekezdése iktatta a szövegbe, számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (7) bekezdésre változtatta. A (7) bekezdés a 23/2005. (XI. 10.) IM rendelet 2. § (1) bekezdésével megállapított, a 6/2013. (V. 30.) KIM rendelet 10. § e) pontja szerint módosított szöveg.
+[^51]: A 17. § eredeti (5) bekezdését a 20/1998. (XII. 21.) IM rendelet 8. §-ának (2) bekezdése iktatta a szövegbe, számozását a 20/2001. (XII. 10.) IM rendelet 8. §-ának (1) bekezdése (8) bekezdésre változtatta. A (8) bekezdés a 43/2003. (XII. 20.) IM rendelet 3. § (2) bekezdésével megállapított, bevezető szövegrésze a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének h) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^52]: A 17. § (8) bekezdés b) pontja a 27/2010. (V. 11.) IRM rendelet 12. §-a szerint módosított szöveg.
+[^53]: A 17. § (8) bekezdésének d) pontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének h) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^54]: A 17. § (8) bekezdésének e) pontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^55]: A 17. § (8) bekezdésének f) pontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^56]: A 17. § (8) bekezdés g) pontjának gb) alpontja a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének i) pontja szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^57]: A 17. § (9) bekezdését a 27/2004. (VIII. 26.) IM rendelet 2. § (5) bekezdése iktatta be. A 17. § (9) bekezdése a 23/2005. (XI. 10.) IM rendelet 2. § (3) bekezdésének j) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2005. november 25. napja után indult végrehajtási ügyekben kell alkalmazni.
+[^58]: A 17. § (10) bekezdését a 27/2010. (V. 11.) IRM rendelet 11. §-a iktatta be.
