@@ -10,6 +10,10 @@ a) az Eximbank által a bel- és külföldi hitelintézet számára nyújtott ex
 
 b) az Eximbank által olyan külföldi vevőnek nyújtott hitelnél és pénzkölcsönnél, amikor a célország hitelminősítési besorolása a Gazdasági Együttműködési és Fejlesztési Szervezet „Hivatalosan támogatott exporthitelekről szóló megállapodásban” foglalt módszerek szerint legalább 3 vagy annál jobb és a célország központi költségvetése vagy központi bankja garantálja a hitel és a pénzkölcsön visszafizetését,
 
-c) az Eximbank által külföldi vevőnek nyújtott és a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél,
+c) a bankgaranciával fedezett összeg mértékéig az Eximbank által nyújtott,
+
+ca) a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél, vagy
+
+cb) olyan hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél, amellyel szembeni – hitelkockázati fedezettel nem ellátott – három hónapnál hosszabb futamidejű kitettségre a hitelezési kockázat sztenderd módszere alkalmazásában legfeljebb 50%-os kockázati súly rendelhető,
 
 d) a központi költségvetés készfizető kezességével fedezett kockázatvállalásokra, ideértve a Mehib Rt. nem piacképes kockázatú biztosításával fedezett exportcélú hitelt és pénzkölcsönt is a biztosított összeg önrészesedéssel csökkentett mértékéig.

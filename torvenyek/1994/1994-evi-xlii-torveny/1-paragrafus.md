@@ -16,7 +16,7 @@
 
 a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésben foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás,
 
-b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását elősegítő befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
+b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
