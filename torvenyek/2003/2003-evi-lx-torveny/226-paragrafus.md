@@ -1,1 +1,1 @@
-226. § A Felügyelet az előzetes egyetértést a 205. § (5) bekezdésében meghatározott döntések meghozatalát követően adhatja meg.
+226. § Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a területén bejegyzett székhellyel rendelkező biztosító ellen felszámolási vagy azzal egy tekintet alá eső eljárás indult, a Felügyelet honlapján tájékoztatót tesz közzé az eljárás megindításáról és annak gyakorlati következményeiről.

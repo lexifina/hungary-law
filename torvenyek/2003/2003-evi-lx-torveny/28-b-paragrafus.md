@@ -1,10 +1,10 @@
-28/B. § (1) Az igazgatótanács köteles a legfőbb szerv előkészítő ülése elé olyan indítványt terjeszteni, amely
+28/B. § (1) Az igazgatóság köteles a legfőbb szerv előkészítő ülése elé olyan indítványt terjeszteni, amely
 
 a) tájékoztatást ad az átalakulással elérni kívánt gazdasági célról, az ahhoz szükséges eszközökről, az egyesületi tagok és a munkavállalók jövőbeni helyzetéről;
 
-b) ismerteti az indítványozók és az igazgatótanács álláspontját.
+b) ismerteti az indítványozók és az igazgatóság álláspontját.
 
-(2) Az igazgatótanács köteles a legfőbb szerv átalakulást előkészítő ülését megelőzően az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján és két országos napilapban közzétett hirdetmény útján a (2) bekezdés a) és b) pontjában foglaltakról a tagokat tájékoztatni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, a nyomtatott sajtóban és honlapon történt közlés mellett elektronikus úton is tájékoztatni kell. A hirdetmény és a tag részére elektronikus úton küldött tájékoztatás közötti eltérés esetén a hirdetményben foglaltak az irányadók. Az igazgatótanács a tájékoztatási kötelezettségének úgy tesz eleget, hogy a kölcsönös biztosító egyesület tagjainak legalább tizenöt nap álljon rendelkezésére a 28/A. § (3) bekezdésében meghatározott nyilatkozat megtételére.
+(2) Az igazgatóság köteles a legfőbb szerv átalakulást előkészítő ülését megelőzően az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján és két országos napilapban közzétett hirdetmény útján a (2) bekezdés a) és b) pontjában foglaltakról a tagokat tájékoztatni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, a nyomtatott sajtóban és honlapon történt közlés mellett elektronikus úton is tájékoztatni kell. A hirdetmény és a tag részére elektronikus úton küldött tájékoztatás közötti eltérés esetén a hirdetményben foglaltak az irányadók. Az igazgatóság a tájékoztatási kötelezettségének úgy tesz eleget, hogy a kölcsönös biztosító egyesület tagjainak legalább tizenöt nap álljon rendelkezésére a 28/A. § (3) bekezdésében meghatározott nyilatkozat megtételére.
 
 (3) Az előkészítő ülésen hozott, átalakulásról szóló első döntésnek tartalmaznia kell:
 

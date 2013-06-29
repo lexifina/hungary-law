@@ -18,6 +18,8 @@ köteles foglalkoztatni.
 
 (3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
 
+(3a) Ha az egyéb vezető kinevezésére vagy megválasztására az engedély megszerzésétől vagy a (3) bekezdés szerinti vélelem bekövetkezésétől számított három hónapon belül nem kerül sor, az egyéb vezető csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (3) bekezdésben meghatározott szabályok alkalmazandók.
+
 (4) Az egyéb vezetők legfeljebb 2 részvénytársaságnál tölthetnek be ilyen pozíciót.
 
 (5) A törvény 126. § (4) bekezdésének b) pontjában foglalt feltételeknek eleget tevő biztosító egyesület legalább ügyvezetőt köteles foglalkoztatni.

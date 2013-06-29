@@ -1,13 +1,19 @@
-## A felszámolás
+223. § (1) A felszámolás során a felszámoló a biztosítónak a biztosítási szerződésből származó kötelezettségeit a Cstv. 57. § (1) bekezdés a) és b) pontjában meghatározott követelések kielégítése után a Cstv. 57. § (1) bekezdés c)–h) pontjában meghatározott követelések kielégítése előtt köteles kielégíteni.
 
-223. § (1) A biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, a biztosító szövetkezet és a kölcsönös biztosító egyesület elleni felszámolási eljárás megindítását kizárólag a Felügyelet kezdeményezheti.
+(2) A biztosító biztosítási szerződésből eredő kötelezettségeit az alábbi sorrendben teljesíti:
 
-(2) A Felügyelet felszámolási eljárást abban az esetben kezdeményez, ha
+a) személyi sérüléshez, balesethez, betegséghez kapcsolódó szerződéses kötelezettségek vonatkozásában
 
-a) a felügyeleti intézkedés ellenére az esedékes és nem vitatott fizetési kötelezettségeinek pénzügyi fedezet hiánya miatt 15 munkanapon belül nem tesz eleget, vagy a szanálási tervét a Felügyelet által meghatározott időn belül nem tudja végrehajtani, vagy
+aa) a betegségbiztosítási szerződésből vagy a biztosítási szerződés betegségbiztosítási kockázatainak fedezetéből eredő kötelezettségek, és
 
-b) a biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, a biztosító szövetkezet és a biztosító egyesület tartozásai saját tőkéjét tartósan meghaladják (túladósodás).
+ab) a balesetbiztosítási szerződésből vagy a biztosítási szerződés balesetbiztosítási kockázatainak fedezetéből eredő kötelezettségek, és
 
-(3) A kölcsönös biztosító egyesület felszámolása esetén az Etv. 10. § (3), (5) és (6) bekezdése nem alkalmazható.
+ac) a felelősségbiztosítási szerződésből vagy a biztosítási szerződés felelősségbiztosítási kockázatainak fedezetéből eredő, személyi sérüléssel összefüggésben felmerült, a felszámolás kezdő időpontjáig bekövetkezett biztosítási események alapján elismert szolgáltatások, ideértve a károsultat vagy a károsulttal szemben tartásra jogosult hozzátartozót illető járadékfizetési szolgáltatásokat (e alpont tekintetében a Kártalanítási Alapot, a Kártalanítási Számlát és a Nemzeti Irodát megillető követelések kivételével);
 
-(4) A bíróság a felszámolás iránti kérelemről a benyújtástól számított nyolc napon belül határoz. A bíróság a felszámolást a Felügyelet által kezdeményezett felszámolási eljárásban a biztosító fizetésképtelenség megállapítása nélkül köteles elrendelni. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható.
+b) az életbiztosítási szerződésből eredő kötelezettségek, valamint a nyugdíjbiztosítási szerződésből eredő kötelezettségek (e pont tekintetében az a) pont aa) és ab) alpontjában meghatározott kötelezettségek kivételével);
+
+c) a felszámolás kezdő időpontjáig bekövetkezett biztosítási események alapján elismert szolgáltatások, ide nem értve az a) és b) pontban meghatározott szolgáltatások (e pont tekintetében a Kártalanítási Alapot, a Kártalanítási Számlát és a Nemzeti Irodát megillető követelések kivételével);
+
+d) a Nemzeti Irodát, a Kártalanítási Alapot, a Kártalanítási Számlát az általa teljesített szolgáltatások alapján megillető követelések;
+
+e) az előre fizetett, de kockázatviseléssel meg nem szolgált díjakból származó visszafizetési kötelezettségek.

@@ -8,6 +8,8 @@
 
 (2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
 
+(2a) Ha a vezető állású személy kinevezésére vagy megválasztására az engedély megszerzésétől vagy a (2) bekezdés szerinti vélelem bekövetkezésétől számított három hónapon belül nem kerül sor, a vezető állású személy csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (2) bekezdésben meghatározott szabályok alkalmazandók.
+
 (3) Biztosítónál vezető állású személy kizárólag olyan személy lehet, aki
 
 a) büntetlen előéletű,

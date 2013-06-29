@@ -1,0 +1,1 @@
+226/B. § Minden olyan hitelező, akinek állandó lakóhelye, székhelye vagy fióktelepe az Európai Unió másik tagállamában található, követelését magyar nyelven vagy saját tagállamának hivatalos nyelvén nyújthatja be. Amennyiben követelését saját tagállamának hivatalos nyelvén nyújtja be, úgy a beadványán a „Követelés benyújtása” címet magyar nyelven is fel kell tüntetni.

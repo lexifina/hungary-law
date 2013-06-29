@@ -50,6 +50,6 @@ b) valamennyi érintett tagállam felügyeleti hatóságának hozzájárulása,
 
 c) a választott illetékes felügyeleti hatóság indokolással történő megjelölése.
 
-(6) A (2) bekezdés a) pontja szerinti megállapodások megkötéséről szóló tájékoztatót a Felügyelet a Pénzügyi Közlönyben teszi közzé.
+(6) A (2) bekezdés a) pontja szerinti megállapodások megkötéséről szóló tájékoztatót a Felügyelet internetes honlapján közzéteszi és gondoskodik arról, hogy ezen információk a honlapon folyamatosan elérhetőek legyenek.
 
 (7) A Felügyelet nem rendszeres tájékoztatást kérhet a harmadik országbeli biztosító fióktelepétől a terjesztett biztosítási szerződési feltételekről és az ezzel összefüggő dokumentumokról, annak igazolására, hogy azok megfelelnek a jogszabályoknak.

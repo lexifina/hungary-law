@@ -1,3 +1,7 @@
-158. § (1) Nem jelenti a biztosítási titok sérelmét a biztosító által a harmadik országbeli biztosítóhoz vagy harmadik országbeli adatfeldolgozó szervezethez (harmadik országbeli adatkezelő) történő adattovábbítás abban az esetben, ha a biztosító ügyfele (adatalany) ahhoz írásban hozzájárult, és a harmadik országbeli adatkezelőnél a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a harmadik országbeli adatkezelő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal.
+158. § (1) Nem jelenti a biztosítási titok sérelmét a biztosító által a harmadik országbeli biztosítóhoz vagy harmadik országbeli adatfeldolgozó szervezethez (harmadik országbeli adatkezelő) történő adattovábbítás abban az esetben:
+
+a) ha a biztosító ügyfele (adatalany) ahhoz írásban hozzájárult, vagy
+
+b) ha – az adatalany hozzájárulásának hiányában – az adattovábbításnak törvényben meghatározott adatköre, célja és jogalapja van, és a harmadik országban a személyes adatok védelmének megfelelő szintje az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 8. § (2) bekezdésében meghatározott bármely módon biztosított.
 
 (2) A biztosítási titoknak minősülő adatoknak másik tagállamba történő továbbítása esetén a belföldre történő adattovábbításra vonatkozó rendelkezéseket kell alkalmazni.

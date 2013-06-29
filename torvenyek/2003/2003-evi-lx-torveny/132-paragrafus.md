@@ -28,7 +28,7 @@ f) a biztosítóban minősített befolyással rendelkező kapcsolt vállalkozás
 
 (5) A biztosító szabályzatban határozza meg a (4) bekezdés a) pontjában meghatározott eszközök értékelésének elveire, továbbá a biztosítottak tájékoztatásának módjára és gyakoriságára vonatkozó szabályokat.
 
-(6) A biztosító a befektetési egységekhez kötött életbiztosítások tartalékának fedezetét képező eszközalap(ok) tekintetében a tőke megóvására, illetve a hozamra vonatkozóan garanciát vállalhat (tőke-, illetve hozamgarancia). A hozamra vonatkozó garancia magában foglalja a tőke megóvására vonatkozó garanciát is. A tőkére, illetve a hozamra vonatkozó garanciát a biztosító köteles megfelelő biztosítékkal garantálni. A biztosíték akkor tekinthető megfelelőnek, ha
+(6) Az eszközalap elnevezése, befektetési politikája, kereskedelmi kommunikációja vagy a biztosítási szerződési feltételek a tőke megóvására, illetve a hozamra vonatkozó garanciára való utalást (tőke-, illetve hozamgarancia) akkor tartalmazhatnak, ha a garancia megfelelő biztosítékkal garantált. A hozamra vonatkozó garancia külön utalás nélkül is magában foglalja a tőke megóvására vonatkozó garanciát is. A biztosíték akkor tekinthető megfelelőnek, ha
 
 a) a biztosítékot hitelintézet, biztosító vagy viszontbiztosító nyújtja,
 
@@ -44,4 +44,6 @@ f) a tőke- és hozamgarancia teljes összegére kiterjed, és
 
 g) a biztosíték valamennyi irányadó joghatóság előtt érvényes és érvényesíthető.
 
-(7) A biztosító befektetési egységekhez kötött életbiztosítások tartalékának fedezetét képező eszközalap(ok) tekintetében a tőke megóvására, illetve a hozamra vonatkozóan ígéretet tehet (tőke-, illetve hozamvédelem). A hozamra vonatkozó ígéret magában foglalja a tőke megóvására vonatkozó ígéretet is. A tőkére, illetve a hozamra vonatkozó ígéretet a biztosító köteles a tőke megóvását, illetve a hozamot biztosító pénzügyi eszközökre vonatkozó befektetési politikával alátámasztani a biztosítottak részletes tájékoztatása mellett.
+(7) Az eszközalap elnevezése, befektetési politikája, kereskedelmi kommunikációja vagy a biztosítási szerződési feltételek a tőke megóvására, illetve a hozamra vonatkozó ígéretre való utalást (tőke-, illetve hozamvédelem) akkor tartalmazhatnak, ha a tőke-, illetve hozamvédelem a tőke megóvását vagy a hozamot biztosító pénzügyi eszközökre vonatkozó részletes befektetési politikával alátámasztott. A hozamra vonatkozó ígéret külön utalás nélkül is magában foglalja a tőke megóvására vonatkozó ígéretet is.
+
+(8) E § alkalmazásában kapcsolt vállalkozás a vállalkozás anyavállalata és leányvállalata, a vállalkozás anyavállalatának leányvállalata, a vállalkozásban minősített befolyással rendelkező tulajdonos vagy olyan vállalkozás, amelyben a vállalkozás vagy a vállalkozás tulajdonosa, felügyelőbizottsági tagja, vezető tisztségviselője vagy ezek közeli hozzátartozója minősített befolyással rendelkezik.

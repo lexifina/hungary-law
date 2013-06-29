@@ -20,7 +20,7 @@ h) a kölcsönös biztosító egyesület átalakulására – beleértve a 27. �
 
 (3) A százfős taglétszámot egy naptári éven keresztül átlagosan meghaladó kölcsönös biztosító egyesület legfőbb szerve a következő évi rendes ülésén köteles
 
-a) páratlan számú, de legalább három, legfeljebb tizenegy tagú igazgatótanácsot és
+a) páratlan számú, de legalább három, legfeljebb tizenegy tagú igazgatóságot és
 
 b) páratlan számú, de legalább három, legfeljebb tizenöt tagú felügyelőbizottságot
 
@@ -28,11 +28,11 @@ választani.
 
 (4) A (3) bekezdés alkalmazásában az alapszabályban foglalt elnevezéstől függetlenül
 
-a) igazgatótanács alatt az egyesület ügyintéző és képviseleti szerve,
+a) igazgatóság alatt az egyesület ügyintéző és képviseleti szerve,
 
 b) felügyelő bizottság alatt az egyesület ügyintéző és képviseleti szervének ellenőrzését ellátó testület értendő.
 
-(5) Az igazgatótanács és a felügyelő bizottság tagjait – az alapszabály eltérő rendelkezése hiányában – a legfőbb szerv titkos szavazással, az alapszabályban meghatározott időtartamra választja meg. Az igazgatótanács és a felügyelőbizottság tagjainak a megbízatása az érintett személy elfogadó nyilatkozatával jön létre.
+(5) Az igazgatóság és a felügyelő bizottság tagjait – az alapszabály eltérő rendelkezése hiányában – a legfőbb szerv titkos szavazással, az alapszabályban meghatározott időtartamra választja meg. Az igazgatóság és a felügyelőbizottság tagjainak a megbízatása az érintett személy elfogadó nyilatkozatával jön létre.
 
 (6) A legfőbb szervet az alapszabályban meghatározott módon, a tagjainak küldött meghívó útján kell összehívni. Az alapszabály rendelkezhet úgy is, hogy azoknak a tagoknak, akik ezt kívánják, a legfőbb szerv üléséről szóló meghívót elektronikus úton kell megküldeni.
 

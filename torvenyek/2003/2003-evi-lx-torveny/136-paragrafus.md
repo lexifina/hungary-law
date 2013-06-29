@@ -16,7 +16,7 @@ a) a 134. § a) pontjában felsoroltak közül az állam által nem garantált �
 
 b) a 134. § c) pontjában felsorolt eszközök a biztosítástechnikai tartalékok fedezetének legfeljebb 35 százalékát tehetik ki,
 
-c) a 134. § d) pontjában felsorolt eszközök a biztosítástechnikai tartalékok 35 százalékát tehetik ki, amennyiben a 85/611/EGK irányelv hatálya alá tartoznak, egyéb esetekben 30 százalék erejéig vehetők figyelembe.
+c) a 134. § d) pontjában felsorolt eszközök a biztosítástechnikai tartalékok 35 százalékát tehetik ki, amennyiben az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009. július 13-i 2009/65/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/65/EK irányelv) hatálya alá tartoznak, egyéb esetekben 30 százalék erejéig vehetők figyelembe.
 
 d) a biztosító egy adott ingatlanának (telek, épület) értékét kizárólag az összes bruttó biztosítástechnikai tartalék 10 százalékáig veheti figyelembe fedezetként. E szabályt kell alkalmazni több egymáshoz közel eső olyan ingatlanra is, amelyek egy befektetésnek minősülnek,
 
@@ -34,6 +34,6 @@ j) a biztosító bruttó biztosítástechnikai tartalékainak 5 százalékáig f
 
 (3) A 134. § h) pontjában meghatározott eszközök kategóriáiban felsorolt eszközök együttesen a bruttó biztosítástechnikai tartalékok fedezetének legfeljebb 5 százalékát tehetik ki.
 
-(4) A származtatott ügyletek nem nettósított, összesített – az eszköz értékelési szabályzat, illetve a Tpt. 272. § (5) bekezdése szerint számított – piaci értéke nem haladhatja meg a biztosító bruttó biztosítástechnikai tartalékainak fedezetét képező értékpapírok piaci értékének a tizenöt százalékát.
+(4) A származtatott ügyletek nem nettósított, összesített, az eszközértékelési szabályzat szerint számított piaci értéke nem haladhatja meg a biztosító bruttó biztosítástechnikai tartalékainak fedezetét képező értékpapírok piaci értékének a tizenöt százalékát.
 
 (5) A (2) bekezdésben meghatározott korlátozások nem vonatkoznak a legalább egy tagállam részvételével működő nemzetközi pénzügyi intézmény által kibocsátott eszközökre.

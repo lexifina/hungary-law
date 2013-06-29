@@ -2,11 +2,11 @@
 
 a) a feladatkörében eljáró Felügyelettel,
 
-b) a folyamatban lévő büntetőeljárás keretében eljáró nyomozó hatósággal és ügyészséggel,
+b) a folyamatban lévő büntetőeljárás keretében eljáró nyomozó hatósággal és ügyészséggel, továbbá az általuk kirendelt szakértővel,
 
-c) büntetőügyben, polgári ügyben, valamint a csődeljárás, illetve a felszámolási eljárás ügyében eljáró bírósággal, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval,
+c) büntetőügyben, polgári ügyben, valamint a csődeljárás, illetve a felszámolási eljárás ügyében eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval,
 
-d) a hagyatéki ügyben eljáró közjegyzővel,
+d) a hagyatéki ügyben eljáró közjegyzővel, továbbá az általa kirendelt szakértővel,
 
 e) a (2) bekezdésben foglalt esetekben az adóhatósággal,
 

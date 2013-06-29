@@ -45,3 +45,9 @@ d) biztosítóval nem áll munkaviszonyban vagy munkavégzésre irányuló egyé
 e) ellen a Felügyelet feladatkörébe tartozó törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásainak súlyos vagy ismétlődő megsértése miatt, öt évnél nem régebben a legmagasabb összegű bírság kiszabására nem került sor, illetve a bíróság öt évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt nem állapította meg.
 
 (7) A (6) bekezdés b) pontjában előírt vezetői szakmai gyakorlat befejezése nem eshet az engedélyezési kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra.
+
+(8) A Felügyelet a független biztosításközvetítői tevékenység végzésének engedélyezése iránti kérelmet elutasítja, ha
+
+a) a kérelmező vagy a minősített befolyással rendelkező tulajdonosának független biztosításközvetítői tevékenység végzésére jogosító engedélyét a kérelem benyújtását megelőző 3 év során a Felügyelet intézkedésével visszavonta; vagy
+
+b) a kérelmező vezető tisztségviselője, minősített befolyással rendelkező tulajdonosa a kérelem benyújtását megelőző 3 év során vezető tisztségviselője vagy tulajdonosa volt olyan független biztosításközvetítőnek, amelynek független biztosításközvetítői tevékenység végzésére jogosító engedélyét a kérelem benyújtását megelőző 3 év során a Felügyelet intézkedésével visszavonta.

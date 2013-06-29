@@ -25,3 +25,25 @@ c) „függő biztosításközvetítői” szakképesítéssel; vagy
 d) „független biztosításközvetítői” szakképesítéssel; vagy
 
 e) „biztosítási tanácsadó” szakképesítéssel; vagy
+
+f) külön jogszabály szerinti függő biztosításközvetítői hatósági vizsgával; vagy
+
+g) külön jogszabály szerinti független biztosításközvetítői hatósági vizsgával.
+
+3. A 45. §-ban meghatározott független biztosításközvetítői (alkuszi, többes ügynöki) tevékenységet azon természetes személy végezhet, aki rendelkezik
+
+a) „biztosításközvetítő” szakképesítéssel; vagy
+
+b) „független biztosításközvetítői” szakképesítéssel; vagy
+
+c) „biztosítási tanácsadó” szakképesítéssel; vagy
+
+d) külön jogszabály szerinti független biztosításközvetítői hatósági vizsgával.
+
+4. Az 51. § (1) bekezdésében meghatározott biztosítási szaktanácsadói tevékenységet azon természetes személy végezhet, aki rendelkezik
+
+a) „biztosítási tanácsadó” szakképesítéssel; vagy
+
+b) „biztosítási szakjogász” szakképesítéssel; vagy
+
+c) „aktuárius” szakképesítéssel.

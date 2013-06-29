@@ -6,7 +6,7 @@
 
 1. § (1) Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed:
 
-a) Magyarország területén végzett biztosítási és azzal közvetlenül összefüggő tevékenységre, illetve Magyarország területén székhellyel rendelkező biztosító által e törvény felhatalmazása alapján végzett biztosítási és azzal közvetlenül összefüggő tevékenységre;
+a) Magyarország területén végzett biztosítási és azzal közvetlenül összefüggő tevékenységre, illetve a Magyarország területén székhellyel rendelkező biztosító által e törvény felhatalmazása alapján végzett biztosítási és azzal közvetlenül összefüggő tevékenységre, továbbá a tevékenységi engedély visszavonása után a biztosító biztosítási szerződésekből eredő kötelezettségeinek teljesítésével kapcsolatos tevékenységére;
 
 b) Magyarország területén végzett biztosításközvetítői és biztosítási szaktanácsadói tevékenységre, illetve Magyarország területén székhellyel rendelkező független biztosításközvetítő biztosítással vagy biztosításközvetítői tevékenységgel közvetlenül összefüggő tevékenységére;
 

@@ -63,3 +63,5 @@ a) a (4) bekezdésben meghatározott feltételek nem teljesülnek,
 b) egyébként valószínűsíthető, hogy az átalakulás következtében a biztosítottak – kölcsönös biztosító egyesület részvénytársasággá történő átalakulása esetén a tagok – érdeke sérülne.
 
 (6) Az (1) bekezdés h) és i) pontjai, valamint – ha a biztosítási állományt harmadik országban, illetve tagállamban bejegyzett biztosítótól veszik át – e) pontjának tárgyában kiadott felügyeleti engedély nem mentesíti a kérelmezőt a kockázatviselés helye szerinti ország előírásai által megkívánt egyéb engedélyek megszerzésének kötelezettsége alól.
+
+(7) Az (1) bekezdés f) pontjában meghatározott esetben az átalakulás időpontja legfeljebb hat hónappal lehet későbbi, mint az engedély megadásának időpontja.

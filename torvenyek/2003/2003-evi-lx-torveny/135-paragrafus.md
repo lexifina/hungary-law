@@ -8,4 +8,4 @@ c) a harmadik féllel szembeni követeléseket a viszontkövetelések levonása 
 
 (2) A biztosító biztosítástechnikai tartalékának fedezetét nem képezheti jelzáloggal terhelt, továbbá olyan eszköz, amely felett a rendelkezési jog korlátozott.
 
-(3) A biztosító biztosítástechnikai tartalékának fedezetét nem képezheti a Tpt. 278. § szerinti származtatott ügyletekbe befektető befektetési alap által kibocsátott befektetési jegy.
+(3) A biztosító biztosítástechnikai tartalékának fedezetét nem képezheti a befektetési alapok befektetési és hitelfelvételi szabályairól szóló rendelet szerinti származtatott ügyletekbe befektető befektetési alap által kibocsátott befektetési jegy.

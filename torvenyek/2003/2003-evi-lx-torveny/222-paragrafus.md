@@ -1,13 +1,9 @@
-222. § (1) A felszámolás, illetve a végelszámolás kezdő időpontjában
+222. § (1) A Cstv. 40. §-a vonatkozó rendelkezései nem alkalmazhatók abban az esetben, ha a szerződéssel jogot szerzett fél igazolja, hogy az adott szerződésre más tagállam joga az irányadó és ezen alkalmazandó jog szerint a szerződés megtámadhatósága kizárt.
 
-a) a biztosítási szerződések a folyamatban lévő állományátruházás esetét kivéve megszűnnek;
+(2) A kölcsönös biztosító egyesület felszámolása esetén az Etv. 10. § (3), (5) és (6) bekezdése nem alkalmazható.
 
-b) a megszűnt biztosítási szerződések esetében a megszűnés napjáig járó biztosítási díjak szedhetők be;
+(3) A felszámolás során a biztosítási szerződésből származó kötelezettségek tekintetében a Cstv. 46. § (7) bekezdése nem alkalmazható.
 
-c) új biztosítási szerződés nem köthető és nem hosszabbítható meg, biztosítási állomány – saját elhatározásból – nem adható és nem vehető át.
+(4) Biztosító felszámolása során a hitelezők a felszámolást elrendelő bírósági végzés közzétételétől számított hatvan napon belül kötelesek követeléseiket bejelenteni. E határidő elmulasztása jogvesztéssel jár.
 
-(2) A felszámolás, illetve a végelszámolás kezdő időpontját követő 15. napig a matematikai tartalékhoz tartozó és a befektetési egységekhez kötött életbiztosítások tartalékainak fedezetét képező eszközök listáját a felszámolás, illetve a végelszámolás kezdő időpontjának napjával le kell zárni és azt a felszámolónak, illetve a végelszámolónak át kell adni.
-
-(3) A felszámolás, illetve végelszámolás folyamán a (2) bekezdésben meghatározott eszközök külön kezelendők és azok kizárólag a matematikai tartalékkal, illetve a befektetési egységekhez kötött életbiztosítások tartalékaival szemben fennálló, a biztosítottakkal (kedvezményezettekkel) szembeni kötelezettségek teljesítése után használhatók fel egyéb kötelezettségek teljesítésére.
-
-(4) Ha a matematikai tartalékhoz tartozó eszközök a kötelezettségekre nem nyújtanak kellő fedezetet, úgy – a teljesítés erejéig – a biztosító egyéb eszközeit kell felhasználni.
+(5) A felszámolóra a Cstv. 59. §-a, valamint 60. § (4)–(6) bekezdése nem alkalmazható.
