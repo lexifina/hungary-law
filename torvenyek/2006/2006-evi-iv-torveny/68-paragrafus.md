@@ -6,7 +6,7 @@
 
 (4) Ha a gazdasági társaság jogutód nélkül megszűnik – a felszámolási eljárás, valamint a kényszertörlési eljárás esetét kivéve – végelszámolásnak van helye.
 
-(5) Ha a gazdasági társaság megszűnésére a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló törvény alapján kerül sor, az (1)–(4) bekezdés helyett a jogutód nélküli megszűnés feltételeire, az eljárás lefolytatására, a társaságot terhelő kötelezettségek rendezésére a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló törvényt kell alkalmazni.
+(5) Ha a gazdasági társaság megszűnésére az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A–11/F. §-a alapján kerül sor, az (1)–(4) bekezdésben foglaltak nem alkalmazandók, a jogutód nélküli megszűnés feltételei, az eljárás lefolytatása, a társaságot terhelő kötelezettségek rendezése tekintetében az Áht.-ban foglaltakat kell alkalmazni.
 
 3. CÍM
 
