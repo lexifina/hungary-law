@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-128-00-00
 | 2012-04-15 | 2012. évi XXXI. törvény | 2011-128-00-00.3 |
 | 2012-06-20 | 2012. évi LXXII. törvény | 2011-128-00-00.4 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 2011-128-00-00.5 |
+| 2013-06-30 | 2013. évi CIII. törvény | 2011-128-00-00.6 |

@@ -9,3 +9,5 @@
 (2) A honvédségi erők igénybevétele a szükséges létszámnak megfelelően a Honvéd Vezérkar főnöke, a honvédelemért felelős miniszter, illetve a Kormány döntése alapján történik.
 
 (3) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a megtett intézkedésekről haladéktalanul tájékoztatja a katasztrófák elleni védekezésért felelős minisztert.
+
+(4) A katasztrófaveszély kezdetének és megszűnésének időpontját, helyét a hivatásos katasztrófavédelmi szerv központi szervének vezetője a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzéteszi.
