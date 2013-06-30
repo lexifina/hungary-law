@@ -1,0 +1,1 @@
+12. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: Mód tv.) megállapított 3. § (4) bekezdés m) pontjának rendelkezését a Mód tv. hatálybalépését megelőzően, 2013. évben kezdeményezett átutalásokra is alkalmazni kell.
