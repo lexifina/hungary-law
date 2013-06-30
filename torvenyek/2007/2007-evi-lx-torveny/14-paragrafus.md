@@ -36,7 +36,7 @@ a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részl
 
 b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
 
-c) a kiotói egységek vagyonkezelésében közreműködő szervet [9. § (2) bekezdés].
+c)
 
 (7) Felhatalmazást kap a miniszter, hogy
 
