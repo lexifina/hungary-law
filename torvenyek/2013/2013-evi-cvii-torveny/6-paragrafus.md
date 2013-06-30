@@ -5,11 +5,3 @@
 (3) A 2. § 2014. január 1-jén lép hatályba.
 
 (4) Nem lép hatályba az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvény 12. § (1) bekezdése és 18. §-a.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
