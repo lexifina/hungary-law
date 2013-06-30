@@ -20,7 +20,7 @@ d) a Fővárosi Önkormányzat és a megyei jogú város esetében a 100 millió
 
 (5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
 
-(6) Az önkormányzat az általa vállalt kezességekről jogszabályban foglaltak szerint adatot szolgáltat.
+(6)
 
 (7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja a kormányzati hozzájáruláshoz kötött ügyletek esetében.
 

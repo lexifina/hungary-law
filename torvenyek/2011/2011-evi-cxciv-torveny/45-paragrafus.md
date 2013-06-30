@@ -6,7 +6,7 @@
 
 45. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-a) az önkormányzat adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,
+a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,
 
 b) a kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletéhez történő miniszteri hozzájárulás részletes szabályait,
 
