@@ -12,4 +12,4 @@
 
 (6) A 6. §, a 11. § (3) és (4) bekezdése, a 22. § (4) bekezdése és a 27. § (1) bekezdése 2014. június 30-án lép hatályba.
 
-(7)
+(7) A vagyonkezelésbe adott kibocsátási jogosultságok tekintetében törvény által kijelölt vagyonkezelővel kötött vagyonkezelési szerződés és annak módosításai hatályukat vesztik.

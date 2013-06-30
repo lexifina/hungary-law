@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-101-00-00
 | 2013-06-22 | 2013. évi CI. törvény | 2013-101-00-00.0 (közlönyállapot) |
 | 2013-06-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-101-00-00.1 |
 | 2013-06-23 | 2010. évi CXXX. törvény | 2013-101-00-00.2 |
+| 2013-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-101-00-00.3 |
