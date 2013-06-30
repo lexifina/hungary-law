@@ -1,3 +1,0 @@
-16. § A Kbt. 69. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az ár aránytalanul alacsony voltának megítélésekor az ajánlatkérő korábbi tapasztalataira, a közbeszerzést megelőzően végzett piacfelmérés eredményére vagy a közbeszerzést megelőzően a becsült érték meghatározásához felhasznált egyéb adatokra kell figyelemmel lenni. Köteles az ajánlatkérő az (1) bekezdést alkalmazni különösen akkor, ha az ajánlatban foglalt – az (1) bekezdés szerinti – ellenszolgáltatás több, mint húsz százalékkal eltér a közbeszerzés – az ellenszolgáltatás önállóan értékelésre kerülő valamely eleme esetén az adott elemre eső – 18. § (2) bekezdésének alkalmazása nélkül számított becsült értékétől.”

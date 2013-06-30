@@ -1,5 +1,1 @@
-34. § A Kbt. 182. § (1) bekezdés 18. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
-
-„18. az irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, amelyekben az állam nevében a tulajdonosi (részvényesi, tagsági stb.) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján központi költségvetési szerv vagy intézménye gyakorolja, valamint e szervezetek közbeszerzési szerződései teljesítésének ellenőrzésére és módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését;”
+34–36. §

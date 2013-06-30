@@ -1,3 +1,0 @@
-5. § A Kbt. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kormány a közbeszerzések központosított eljárás keretében történő lefolytatását rendelheti el az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában, meghatározva annak személyi és tárgyi hatályát, az ajánlatkérésre feljogosított szervezetet (központi beszerző szerv), valamint az eljáráshoz való csatlakozás lehetőségét. Jogszabály vagy a támogató szervezet az államháztartásról szóló törvény szerinti költségvetési támogatás nyújtását a központosított eljáráshoz való csatlakozás feltételéhez kötheti.”

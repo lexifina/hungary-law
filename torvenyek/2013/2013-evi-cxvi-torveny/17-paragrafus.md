@@ -1,3 +1,0 @@
-17. § A Kbt. 80. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ajánlattevő és a részvételre jelentkező az ajánlatában, illetve a részvételi jelentkezésben, valamint a 69–70. § szerinti indokolásban elkülönített módon elhelyezett, üzleti titkot [Ptk. 81. § (2) bekezdése] tartalmazó iratok nyilvánosságra hozatalát megtilthatja. Az üzleti titkot tartalmazó iratokat úgy kell elkészíteni, hogy azok a Ptk. 81. § (3) bekezdésére figyelemmel kizárólag olyan információkat tartalmazzanak, amelyek nyilvánosságra hozatala az üzleti tevékenység végzése szempontjából aránytalan sérelmet okozna, továbbá ne tartalmazzanak a (2)–(3) bekezdés szerinti elemeket.”

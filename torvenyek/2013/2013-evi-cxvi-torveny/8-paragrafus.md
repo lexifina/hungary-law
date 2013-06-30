@@ -1,3 +1,0 @@
-8. § A Kbt. 45. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a kiegészítő tájékoztatás iránti kérelmet a (2) bekezdésben foglalt válaszadási határidőt megelőző negyedik, gyorsított vagy hirdetmény nélküli tárgyalásos eljárásban harmadik napnál később nyújtották be, a kiegészítő tájékoztatást az ajánlatkérőnek nem kötelező megadnia, de megadhatja, amennyiben úgy ítéli meg, hogy a későn érkezett kérdés megválaszolása a megfelelő ajánlattételhez, illetve részvételre jelentkezéshez szükséges. Az ajánlatkérő – ha a válaszadáshoz és a válasz figyelembevételéhez nem áll megfelelő idő rendelkezésre – ilyenkor is élhet a (4) bekezdésben foglaltak szerint az ajánlattételi vagy részvételi határidő meghosszabbításának lehetőségével.”
