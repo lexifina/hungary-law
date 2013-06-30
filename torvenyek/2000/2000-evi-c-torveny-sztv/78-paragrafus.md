@@ -11,3 +11,5 @@
 (6) Az eladott (közvetített) szolgáltatások értékeként a vásárolt és változatlan formában értékesített szolgáltatások bekerülési értékét kell elszámolni az értékesítéskor.
 
 (7) A külföldi székhelyű vállalkozás magyarországi fióktelepe a külföldi székhelyű vállalkozástól, vagy annak más fióktelepétől igénybe vett szolgáltatásokat (ideértve az irányítás átterhelt költségeit, ráfordításait is) a számlázott értéken – jellegének megfelelően – a (3)–(4), illetve a (6) bekezdés szerinti szolgáltatásként köteles az anyagjellegű ráfordítások között kimutatni.
+
+(8) A (3)–(4), illetve a (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybe vétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.

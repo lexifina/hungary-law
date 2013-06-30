@@ -50,7 +50,9 @@ e) aki azt kéri,
 
 f) akit jogerős bírói ítélet a cselekvőképességet korlátozó vagy kizáró gondnokság alá helyezett,
 
-g) aki elhalálozott.
+g) aki elhalálozott,
+
+h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be.
 
 (7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:
 
@@ -64,7 +66,9 @@ d) az engedély visszavonását követő 3 év után, ha arra a (6) bekezdés d)
 
 e) az engedély visszavonását követően, ha arra a (6) bekezdés e) pontja miatt,
 
-f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt
+f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt,
+
+g) az engedély visszavonását követően, ha arra a (6) bekezdés h) pontja miatt
 
 került sor.
 
