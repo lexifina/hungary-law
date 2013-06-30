@@ -1,0 +1,3 @@
+15. § A Kbt. 67. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az ajánlatkérő köteles újabb hiánypótlást elrendelni, ha a korábbi hiánypótlási felhívás(ok)ban nem szereplő hiányt észlelt. Nem köteles az ajánlatkérő újabb hiánypótlást elrendelni arra vonatkozóan, ha a hiánypótlással az ajánlattevő (részvételre jelentkező) az ajánlatban (részvételi jelentkezésben) korábban nem szereplő gazdasági szereplőt von be az eljárásba, és e gazdasági szereplőre tekintettel lenne szükséges az újabb hiánypótlás – feltéve, hogy az eljárást megindító felhívásban feltüntette, hogy ilyen esetben nem (vagy csak az általa meghatározott korlátozással) rendel el újabb hiánypótlást. A korábban megjelölt hiányok a későbbi hiánypótlások során már nem pótolhatók.”
