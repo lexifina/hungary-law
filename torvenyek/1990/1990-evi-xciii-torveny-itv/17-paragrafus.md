@@ -28,7 +28,7 @@ m) a közüzemi (vezetékes gáz-, áram-, távhő-szolgáltatási, víz- és cs
 
 n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követelés-elengedést és a tartozásátvállalást is – útján történő megszerzése;
 
-o) a pénzügyi intézmény által elengedett követelés, amennyiben a követelés elengedése a magánszemély adós és családja megélhetési ellehetetlenülésének megelőzése érdekében az azonos helyzetben levők egyenlő elbánásának elve alapján történik. E feltételek fennállásáról a pénzügyi intézmény igazolást ad az adósnak;
+o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elengedett követelés, ha a követelés elengedése – a pénzügyi intézmény által az adósnak kiadott igazolás szerint – az azonos helyzetben levők egyenlő elbánásának elve alapján történik, azzal, hogy a rendelkezés nem alkalmazható, ha az elengedés nem a személyi jövedelemadóról szóló törvény szerinti független felek között valósul meg;
 
 p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is) által megszerzett ajándék;
 
@@ -38,11 +38,7 @@ r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggé
 
 s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
 
-t) a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés feltéve, hogy
-
-ta) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét vagy
-
-tb) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le.
+t)
 
 (2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
