@@ -1,6 +1,6 @@
-7. §[^23] (1) Ha a földhasználó több földhivatal illetékességi területén fekvő termőföldet használ, a bejelentést választása szerint kizárólag a termőföldek fekvése szerint illetékes egyik földhivatal felé kell megtennie.
+7. §[^25] (1) Ha a földhasználó több földhivatal illetékességi területén fekvő termőföldet használ, a bejelentést választása szerint kizárólag a termőföldek fekvése szerint illetékes egyik földhivatal felé kell megtennie.
 
-(2)[^24] Az a földhivatal, amelyiknél az eljárás az (1) bekezdés szerint megindult, az adatlap, vagy az adatlap és a hozzá csatolt szerződés egy-egy példányát a földhasználat nyilvántartásba vételét követően záradékolja, és az azokról készített hiteles másolatot haladéktalanul megküldi a többi illetékes földhivatalnak a földhasználat nyilvántartásba vétele céljából.
+(2)[^26] Az a földhivatal, amelyiknél az eljárás az (1) bekezdés szerint megindult, az adatlap, vagy az adatlap és a hozzá csatolt szerződés egy-egy példányát a földhasználat nyilvántartásba vételét követően záradékolja, és az azokról készített hiteles másolatot haladéktalanul megküldi a többi illetékes földhivatalnak a földhasználat nyilvántartásba vétele céljából.
 
-[^23]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^24]: A 7. § (2) bekezdése a 23/2012. (II. 29.) Korm. rendelet 30. § (3) bekezdés c) pontja, a 206/2013. (VI. 17.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^25]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 599. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 7. § (2) bekezdése a 23/2012. (II. 29.) Korm. rendelet 30. § (3) bekezdés c) pontja, a 206/2013. (VI. 17.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

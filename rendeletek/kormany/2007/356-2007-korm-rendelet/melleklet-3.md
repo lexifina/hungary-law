@@ -10,7 +10,7 @@
 
 ## b) lakcíme;
 
-## 1.2.[^68] a gazdálkodó szervezet kérelmező
+## 1.2.[^70] a gazdálkodó szervezet kérelmező
 
 ## a) megnevezése,
 
@@ -24,7 +24,7 @@
 
 ## 2. Nyilatkozat arról, hogy a kérelmező a kérelmet mint földhasználó a saját földhasználati lapja másolatának kiadása iránt nyújtja-e be.
 
-## 3.[^69] A kérelmezett földhasználati lap másolat típusa:
+## 3.[^71] A kérelmezett földhasználati lap másolat típusa:
 
 ## a) a földhasználati lap teljes másolata,
 
@@ -38,7 +38,7 @@
 
 ## 5. A kérelmezett földhasználati lap másolatok száma.
 
-## 6.[^70] A kérelmező aláírása.
+## 6.[^72] A kérelmező aláírása.
 
 ## II. A kérelem benyújtására szolgáló nyomtatványon a földhivatal által feltüntetendő tartalmi elemek:
 
@@ -52,9 +52,9 @@
 
 ## 5. Az ügyintéző aláírása.
 
-3. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^71]
+3. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^73]
 
-[^68]: A 2. számú melléklet I. 1. pont 1.2. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^69]: A 2. számú melléklet I. 3. pontja a 252/2009. (XI. 16.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
-[^70]: A 2. számú melléklet I. 6. pontját a 252/2009. (XI. 16.) Korm. rendelet 6. § (5) bekezdése iktatta be, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
-[^71]: A 3. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 600. §-a hatályon kívül helyezte, újonnan a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^70]: A 2. számú melléklet I. 1. pont 1.2. alpontja a 429/2012. (XII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^71]: A 2. számú melléklet I. 3. pontja a 252/2009. (XI. 16.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
+[^72]: A 2. számú melléklet I. 6. pontját a 252/2009. (XI. 16.) Korm. rendelet 6. § (5) bekezdése iktatta be, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
+[^73]: A 3. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 600. §-a hatályon kívül helyezte, újonnan a 429/2012. (XII. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
