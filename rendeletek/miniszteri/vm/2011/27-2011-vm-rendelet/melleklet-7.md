@@ -18,6 +18,6 @@
 
 ## 8. A vett minta mennyisége:
 
-7. melléklet a 27/2011. (IV. 12.) VM rendelethez[^30]
+7. melléklet a 27/2011. (IV. 12.) VM rendelethez[^31]
 
-[^30]: A 7. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (2) bekezdése iktatta be.
+[^31]: A 7. mellékletet a 14/2013. (III. 7.) VM rendelet 14. § (2) bekezdése iktatta be.
