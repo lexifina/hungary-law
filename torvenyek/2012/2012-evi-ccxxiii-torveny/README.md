@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-223-00-00
 | 2013-04-09 | 3/2013. (VIII. 7.) BM határozat | 2012-223-00-00.6 |
 | 2013-04-10 | 2010. évi CXXX. törvény | 2012-223-00-00.7 |
 | 2013-04-20 | 2013. évi XLV. törvény | 2012-223-00-00.8 |
+| 2013-06-30 | 2013. évi LXXVIII. törvény | 2012-223-00-00.9 |

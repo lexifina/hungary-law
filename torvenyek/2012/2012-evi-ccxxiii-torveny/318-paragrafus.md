@@ -62,13 +62,7 @@
 
 ## (5) Ha a fiatalkorú a munkakötelezettségének önként nem tesz eleget, a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre kell átváltoztatni. Egyebekben a 48. §-ban foglaltak irányadóak.”
 
-(10) A Btk. 127. § (1) bekezdése a következő szöveggel lép hatályba:
-
-## „(1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja.”
-
-(11) A Btk. 140. §-a a következő (3) bekezdéssel kiegészülve lép hatályba:
-
-## „(3) A 127. § (1) bekezdés a) pontjában meghatározott katonák esetében az (1) és (2) bekezdés szerinti várakozási időn kötelező várakozási időt kell érteni.”
+(10)–(11)
 
 (12) A Btk. 203. § (1) bekezdése a következő szöveggel lép hatályba:
 
