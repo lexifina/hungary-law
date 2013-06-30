@@ -8,4 +8,6 @@ c) a Kollégium elnöke, tagja, vagy azok közeli hozzátartozója;
 
 d) a Bizottság tagja, vagy annak közeli hozzátartozója;
 
-e) az Alapból támogatásban részesülő természetes személy, az Alapból támogatásban részesülő szervezet képviselője, vagy annak közeli hozzátartozója.
+e) az Alapból támogatásban részesülő természetes személy, vagy annak közeli hozzátartozója;
+
+f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő szervezet képviselője vagy annak közeli hozzátartozója.
