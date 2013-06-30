@@ -10,6 +10,6 @@ d) belföldi vagy külföldi természetes és jogi személyek, illetve jogi szem
 
 e) nemzetközi szervezetektől, intézményektől származó támogatások;
 
-f) visszatérítési kötelezettséggel nyújtott támogatások visszatérítései, valamint az Alapból nyújtott támogatással létrehozott gazdasági eredményből való részesedés;
+f) visszafizetési kötelezettséggel nyújtott támogatások visszafizetései, valamint az Alapból nyújtott támogatással létrehozott gazdasági eredményből való részesedés;
 
 g) egyéb bevételek.

@@ -52,13 +52,15 @@ források biztosíthatók.
 
 a) az Új Széchenyi Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések – ideértve K+F nagy infrastruktúrák fejlesztését célzó beruházásokat – társfinanszírozása,
 
-b) a hazai – a Kormány által jóváhagyott – K+F infrastrukturális fejlesztések visszatérítendő támogatása,
+b) a hazai – a Kormány által jóváhagyott – K+F infrastrukturális fejlesztések támogatása,
 
 c) európai uniós együttműködés keretében megvalósuló – a Kormány által jóváhagyott – K+F infrastrukturális beruházások vissza nem térítendő támogatása,
 
 d) a Kormány által jóváhagyott, az Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a K+F kapacitás ösztönzést elősegítő projektek támogatása,
 
 e) az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség.
+
+(5a) Az (5) bekezdés b) pontja szerinti támogatás visszafizetési kötelezettséggel vagy arra tekintet nélkül történő nyújtásáról a Kormány dönt.
 
 (6) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül a nemzetközi European X-Ray Free-Electron Laser Facility (XFEL) GmbH-ban (a továbbiakban: GmbH) való tagi hozzájárulás és éves tagdíj a kutatás-fejlesztésért és technológiai innovációért felelős szerv részére az Alapból biztosítható. A GmbH-ban a kutatás-fejlesztésért és technológiai innovációért felelős szerv 1%-os részesedést szerezhet.
 
