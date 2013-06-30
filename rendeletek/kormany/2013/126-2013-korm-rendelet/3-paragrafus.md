@@ -1,5 +1,0 @@
-3. § (1) A felsővezetéki infrastruktúrával szomszédos ingatlan tulajdonosa (használója) tűrni köteles, hogy a felsővezetéki infrastruktúra működtetője vagy a fejlesztési közreműködő az ingatlanon, vagy az alatt vagy felett vagy annak közelében kisfeszültségű vezetéket és azokhoz tartozó teljes körű áramellátási rendszert (vontatási kábelek, jelzőkábelek, szekrények), ehhez kapcsolódó tartószerkezetet (a továbbiakban együtt: nyomvonal jellegű építmény), jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el, ezeket javítsa, karbantartásukat elvégezze. Az elhelyezés, a javítás és a karbantartás során a környezet- és természetvédelmi, továbbá az épített környezeti, településképi és a műemlékvédelmi érdekeket figyelembe kell venni.
-
-(2) Az ingatlan tulajdonosát (használóját) az ingatlan rendeltetésszerű használatának akadályozása (korlátozása) miatt az akadályozás (korlátozás) mértékének megfelelő egyszeri kártalanítás illeti meg.
-
-(3) Az ingatlan területének felsővezetéki infrastruktúrával közterületen történő megközelítését kártalanítás nélkül köteles tűrni az ingatlan tulajdonosa (használója).
