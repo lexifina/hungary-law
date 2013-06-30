@@ -1,0 +1,1 @@
+Az Országgyűlés Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme, a Magyar Honvédség adatkezelésébe tartozó személyes adatok védelmének biztosítása érdekében a következő törvényt alkotja:
