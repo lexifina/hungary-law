@@ -1,0 +1,3 @@
+19. § (1) A légiközlekedési hatóság a nemzeti minőségbiztosítási ellenőrök listájából jelöli ki az ellenőrt a minőségbiztosítási ellenőrzésben történő részvételre az ellenőrzés időpontja előtt legalább 10 nappal. Az ellenőrt vagy a vezető ellenőrt úgy kell kiválasztani, hogy az jogosult legyen a minőségbiztosítási ellenőrzésben érintett területen a feladatot elvégezni, továbbá rendelkezzen a szükséges nyelvismerettel.
+
+(2) A minőségbiztosítási ellenőrzés végrehajtására szóló személyi megbízást a felülvizsgálat előtt legalább egy héttel a légiközlekedési hatóság vezetője adja ki. A megbízólevél tartalmazza az ellenőr nevét, hatósági ellenőri kártyaszámát, a minőségbiztosítási ellenőrzés időpontját és helyét.
