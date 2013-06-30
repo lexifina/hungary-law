@@ -50,7 +50,7 @@ f)
 
 (4a) A földhasználó az (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – a változásokat (ideértve a használat megszűnését is) 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e bekezdésben megjelölt rendeletben meghatározott formanyomtatványon.
 
-(5) A bejelentést elmulasztó földhasználót az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.
+(5) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a (2) bekezdésben meghatározott bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.
 
 (6) A bírság kiszabásával egyidejűleg az ingatlanügyi hatóság – határidő megjelölésével – a bejelentés pótlására szólítja fel a mulasztó földhasználót. A határozatban előírt határidő elmulasztása esetén – újabb határidő megjelölésével – a bírságot ismételten ki kell szabni.
 

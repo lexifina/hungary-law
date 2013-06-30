@@ -12,8 +12,14 @@
 
 (7) A Módtv. 11. §-ával megállapított 25/B. § (1)–(1e) bekezdésében, (2), (4) és (4a) bekezdésében foglaltakat az ingatlanügyi hatósághoz a földhasználati nyilvántartásba vétel céljából 2012. december 31-ig beérkezett, de el nem bírált földhasználati bejelentések esetében is alkalmazni kell.
 
-(8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. április 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
+(8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. szeptember 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
 
 (9) Azon földhasználók részére, akik a Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírtaknak megfelelően a földhasználatukat 2013. január 1-jétől a termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi VI. törvény (a továbbiakban: Módtv. 2.) hatálybalépéséig az ingatlanügyi hatóságnak bejelentették, a földhasználati nyilvántartási eljárásért megfizetett igazgatási szolgáltatási díjat a fővárosi és megyei kormányhivatal a Módtv. 2. hatálybalépésétől számított 90 napon belül köteles visszatéríteni, kivéve ha ezen határidőn belül a díj jogszabály alapján már visszafizetésre került.
 
 (10) Az egyes agrár tárgyú törvények módosításáról szóló 2013. évi XXXV. törvény (a továbbiakban: Módtv. 3.) 6. §-ával módosított 11. § (1) bekezdésében foglaltakat – az ingatlan-nyilvántartásról szóló törvényben foglaltaktól eltérően – a Módtv. 3. hatálybalépésekor folyamatban lévő, valamint a megismételt ingatlan-nyilvántartási eljárásokban is alkalmazni kell.
+
+(11) A termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi CVII. törvénnyel (a továbbiakban: Módtv. 4.) módosított 25/G. § (1) bekezdésében előírt bejelentési kötelezettség azt a földhasználati nyilvántartásba bejegyzett földhasználót terheli, aki a Módtv. 4. hatálybalépéséig
+
+a) nem tett eleget a Módtv. 14. §-ával megállapított 25/G. § (1) bekezdés szerinti azonosító adatközlési kötelezettségének, és
+
+b) 2013. szeptember 30-ig a 25/B. § (2) bekezdés szerinti földhasználati bejelentést sem tesz.
