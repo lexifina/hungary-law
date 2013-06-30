@@ -1,3 +1,0 @@
-63. § A Tpt. 351. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az elszámolóházi tevékenységet végző szervezet, a központi értéktár, valamint a központi szerződő fél nem szerezhet olyan részesedést, és nem létesíthet olyan tagsági viszonyt vállalkozásban, amely esetben a vállalkozás tartozásaiért a részesedés mértékére való tekintet nélkül korlátlanul felel. A központi szerződő fél befektetései kapcsán a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben foglaltaknak meg kell felelni.”
