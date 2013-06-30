@@ -1,7 +1,3 @@
-## 75. Hatályon kívül helyező rendelkezések
+## 75.
 
-114. § (1)–(3)
-
-(4)
-
-(5)
+### 114. §

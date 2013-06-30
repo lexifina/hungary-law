@@ -1,0 +1,25 @@
+11/F. § (1) Az állami feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény vagy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – az állami feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
+
+(2) Az (1) bekezdés szerinti jogállásváltozásról az érintetteket az átvevő költségvetési szerv a jogállásváltozás időpontját megelőző tizenöt napon belül tájékoztatja. Ha eddig a határidőig az átvevő költségvetési szerv még nincs nyilvántartásba véve, abban az esetben az átvételi felelős tájékoztatja az érintetteket.
+
+(3) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a munkaviszony, ha az átvevő költségvetési szerv a jogállási törvény rendelkezései alapján nem létesíthet közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyt az átadással érintett munkavállalóval, ebben az esetben a munkaviszony e törvény erejénél fogva a jogállásváltozás időpontját követő harmincadik napon megszűnik.
+
+(4) A (3) bekezdésben foglaltakat kell megfelelően alkalmazni, ha a munkavállalóval szemben a jogállási törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a munkavállaló legfeljebb az (5) bekezdésben foglalt időpontig intézkedik, és ezt igazolja.
+
+(5) A jogállásváltozás időpontját követő tizenöt napon belül a munkavállalót a jogállásváltozás időpontjával a jogállási törvény szerint be kell sorolni, és illetményét meg kell állapítani.
+
+(6) A munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül aláírja a kinevezési okmányt, vagy nyilatkozik arról, hogy továbbfoglalkoztatásához nem járul hozzá, ebben az esetben munkaviszonya jogállásváltozás nélkül a jogállásváltozás időpontját követő harmincadik napon megszűnik. E rendelkezést megfelelően alkalmazni kell akkor is, ha a munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül nem tesz nyilatkozatot vagy nem írja alá a kinevezési okiratot.
+
+(7) Határozatlan időtartamú munkaviszony határozatlan időtartamú közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Részmunkaidőben történő foglalkoztatás esetén a jogviszony részmunkaidős közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
+
+(8) A munkavállaló munkaviszonyát a jogállásváltozást követően a rá irányadó jogállási törvény szerint közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyban töltött időként kell elismerni.
+
+(9) A munkaviszonyban álló vezető jogviszonyának átalakulását követően – a jogállási törvény figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
+
+(10) Ha a munkavállaló további foglalkoztatása – az átvevő költségvetési szervre irányadó jogállási törvény vonatkozó szabályaival összhangban – munkaviszonyban történik, abban az esetben az (1) bekezdéstől eltérően a munkaviszony nem alakul át. A munkavállaló részére a munkaszerződést a jogállásváltozás időpontját követő tizenöt napon belül kell átadni. A munkavállaló a munkaszerződés kézhezvételét követő tizenöt napon belül nyilatkozhat arról, hogy továbbfoglalkoztatásához nem járul hozzá, ebben az esetben a munkaviszony a jogállásváltozás időpontját követő harmincadik napon szűnik meg.
+
+(11) Az átvevő költségvetési szerv a (3)–(4), (6) és (10) bekezdés esetén köteles a megszűnés napjával a munkavállaló számára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 77. § (1) bekezdés c) pontja szerinti végkielégítést és az Mt. 63. § (2) bekezdés szerinti távolléti díjat megfizetni.
+
+(12) A társaságnál hatályos kollektív szerződés az állami feladat átvételének időpontjában hatályát veszti.
+
+(13) A társaságnál működő üzemi tanács az állami feladat átvételének időpontjában megszűnik.

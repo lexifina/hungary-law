@@ -8,7 +8,7 @@
 
 (4) Az (5) bekezdésben foglaltak, valamint a 20. § (1) bekezdése alapján idegen pénzeszközként nyilvántartott pénzeszközök terhére vállalt kötelezettségek kivételével több év, vagy a költségvetési éven túli év kiadási előirányzata terhére kötelezettségvállalásra
 
-a) az államháztartás központi alrendszerében a társadalombiztosítás pénzügyi alapjai, valamint a 14. § (3) bekezdés és (4) bekezdés b) és c) pontja szerinti fejezetek kiadási előirányzatai esetén törvényben foglaltak szerint, egyéb esetben a költségvetési évet követő három évben a 29. § (2) bekezdése szerinti kiadási tervszámokkal, az azt követő években a kiadási tervszámok utolsó évére megállapított kiadási tervszámmal,
+a) az államháztartás központi alrendszerében a társadalombiztosítás pénzügyi alapjai, valamint a 14. § (3) bekezdés és (4) bekezdés c) és d) pontja szerinti fejezetek kiadási előirányzatai esetén törvényben foglaltak szerint, egyéb esetben a költségvetési évet követő három évben a 29. § (2) bekezdése szerinti kiadási tervszámokkal, az azt követő években a kiadási tervszámok utolsó évére megállapított kiadási tervszámmal,
 
 b) az államháztartás önkormányzati alrendszerében az irányító szerv által megállapított, ennek hiányában a költségvetési év kiadási előirányzataival
 

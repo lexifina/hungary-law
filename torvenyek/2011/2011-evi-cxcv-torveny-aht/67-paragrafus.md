@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdésben foglaltakon túlmenően a kormányzati ellenőrzési szerv saját nevében közvetlen jogi érdek fennállásának igazolása nélkül keresetet indíthat a hatáskörében eljárva megismert szerződés vagy a szerződés egyes rendelkezései semmisségének megállapítása iránt.
 
-(3) A kormányzati ellenőrzési szerv az ellenőrzés tárgyával kapcsolatos büntetőeljárásokban jogosult a Magyar Állam, valamint az (1) bekezdésben meghatározott szervezetek, mint sértettek képviseletét ellátni.
+(3) A kormányzati ellenőrzési szerv az ellenőrzés tárgyával kapcsolatos büntetőeljárásokban jogosult az állam, valamint az (1) bekezdésben meghatározott szervezetek, mint sértettek képviseletét ellátni.
 
 (4) A kormányzati ellenőrzési szerv a 63. § (1) bekezdésben, valamint az (1) bekezdésben meghatározott jogosultsága gyakorlása érdekében a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. § (2) bekezdésének b) pontja szerinti adatokat – a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre és a nyilvántartásból való kikerülés okára vonatkozó adat kivételével – jogosult igényelni.

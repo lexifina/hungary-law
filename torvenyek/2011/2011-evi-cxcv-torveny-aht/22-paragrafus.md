@@ -1,6 +1,6 @@
 ## 13. A központi költségvetésről szóló törvény elfogadása
 
-22. § (1) A Kormány a központi költségvetésről szóló törvényjavaslatot a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Stabilitási tv.) szerint egyezteti a Költségvetési Tanáccsal.
+22. § (1) A Kormány a központi költségvetésről szóló törvényjavaslatot a Stabilitási tv. szerint egyezteti a Költségvetési Tanáccsal.
 
 (2) A Kormány szeptember 30-áig benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
 

@@ -16,12 +16,14 @@ f) az állami kezesség vállalása és beváltása jogosságának ellenőrzés�
 
 g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése alapján a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alapnak átadott portfóliókkal kapcsolatos gazdálkodás jogszerűségének ellenőrzése céljából az Mpt. hatálya alá tartozó magánnyugdíjpénztárak és szervezetek portfólióátadást megelőző működésének, gazdálkodásának – beleértve az általuk közvetlenül vagy közvetve kezelt portfóliót képező eszközöket is – ellenőrzésére,
 
-h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek, és
+h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
 
-i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére.
+i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére, és
+
+j) működési célú költségvetési támogatás nyújtása esetén a kedvezményezett működésének és gazdálkodásának ellenőrzésére.
 
 (2) A kormányzati ellenőrzési szerv feladatai ellátásával összefüggésben jogosult a minősített adat, az üzleti titok és az ellenőrzött szervezet, valamint az ellenőrzés kapcsán adatszolgáltatásra kötelezett szervezet által kezelt egyéb titokfajták megismerésére.
 
-(3) A kormányzati ellenőrzési szerv az állami vagyon kezelésének ellenőrzése keretében a Magyar Államot, mint tulajdonost törvény alapján megillető ellenőrzési jogkört külön meghatalmazás nélkül kizárólag az állami vagyonnal való gazdálkodás, a vagyonérték-megőrző és vagyongyarapító tevékenység értékelése érdekében gyakorolhatja, a Magyar Állam közvetlen vagy közvetett tulajdonában álló gazdasági társasági részesedés tekintetében.
+(3) A kormányzati ellenőrzési szerv az állami vagyon kezelésének ellenőrzése keretében az államot, mint tulajdonost törvény alapján megillető ellenőrzési jogkört külön meghatalmazás nélkül kizárólag az állami vagyonnal való gazdálkodás, a vagyonérték-megőrző és vagyongyarapító tevékenység értékelése érdekében gyakorolhatja, az állam közvetlen vagy közvetett tulajdonában álló gazdasági társasági részesedés tekintetében.
 
 (4) A kormányzati ellenőrzési szerv személyes adatot az (1) bekezdés szerinti ellenőrzési tevékenysége céljából, az ahhoz szükséges mértékben, az ellenőrzés dokumentumainak megőrzéséig kezelhet.
