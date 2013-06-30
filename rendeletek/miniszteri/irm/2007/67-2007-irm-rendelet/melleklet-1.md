@@ -2004,6 +2004,8 @@
 
 5.13.1. Budapest XIII. kerület
 
+5.13.2. A Fővárosi Önkormányzat által közvetlenül igazgatott Margitsziget
+
 5.14. XIV. Kerületi Rendőrkapitányság, Budapest
 
 5.14.1. Budapest XIV. kerület
@@ -7416,4 +7418,4 @@
 
 21.1.4. Ferihegy–2/B terminál légi határátkelőhely
 
-[^7]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 3. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–3. §-a szerint módosított szöveg.
