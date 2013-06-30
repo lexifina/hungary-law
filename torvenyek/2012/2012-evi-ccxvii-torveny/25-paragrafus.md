@@ -1,6 +1,6 @@
 ## 9. Az ÜHG-egységek értékesítése és forgalomképessége
 
-25. § (1) A magyar állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a vagyonkezelő az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. A magyar állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
+25. § (1) A magyar állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a miniszter az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. A magyar állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
 
 (2) A magyar állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység árverés útján kerül értékesítésre.
 

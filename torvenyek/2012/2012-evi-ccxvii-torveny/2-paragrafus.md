@@ -90,4 +90,8 @@ c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvén
 
 32. villamosenergia-termelő: olyan létesítmény, amely 2005. január 1-jén vagy azt követően harmadik fél számára történő értékesítésre szánt villamos energiát termelt, és amelyben az 1. mellékletben felsorolt tevékenységek közül kizárólag tüzelőanyagok égetését végzik,
 
-33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére.
+33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére,
+
+34. derogációs kérelem: a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikke alapján az Európai Bizottság által a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c. cikke szerinti beruházásokról szóló SA.34086 (2012/N). számú bizottsági határozattal, és a C(2012) 8675 bizottsági határozattal (a továbbiakban: Európai Bizottság határozatai) jóváhagyott magyar derogációs kérelem,
+
+35. derogációs kiosztás: a derogációs kérelem alapján, a jelen törvény 6/A. alcímének megfelelően történő, egyszeri kiosztás egyes magyarországi villamosenergia-termelők részére.
