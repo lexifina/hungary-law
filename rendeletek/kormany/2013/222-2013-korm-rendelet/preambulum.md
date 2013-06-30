@@ -1,1 +1,0 @@
-A Kormány a tőkepiacról szóló 2001. évi CXX. törvény 451. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
