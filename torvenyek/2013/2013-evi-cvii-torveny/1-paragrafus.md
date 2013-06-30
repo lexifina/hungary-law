@@ -1,0 +1,3 @@
+1. § A termőföldről szóló 1994. évi LV. törvény (a továbbiakban: Tft.) 25/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a (2) bekezdésben meghatározott bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.”

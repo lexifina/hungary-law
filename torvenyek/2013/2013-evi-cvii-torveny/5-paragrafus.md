@@ -1,0 +1,1 @@
+5. § A Tft. 25/B. § (2a) bekezdésében az „az (1) bekezdés” szövegrész helyébe az „a (2) bekezdés” szöveg, a 91. § (8) bekezdésében a „2013. április 30-ig” szövegrész helyébe a „2013. szeptember 30-ig” szöveg lép.
