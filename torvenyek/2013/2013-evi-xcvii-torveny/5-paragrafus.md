@@ -1,1 +1,0 @@
-5. § A toborzó- és érdekvédelmi központok, valamint a katonai igazgatási és érdekvédelmi irodák részt vesznek a gazdasági és anyagi szolgáltatások biztosításának előkészítésében, valamint a toborzó, érdekvédelmi és hadkiegészítési szakfeladatok végrehajtásában.

@@ -1,6 +1,4 @@
-78. § (1) Az Szja. 1. számú melléklet 8. pont 8.16. alpontjában a „minősített időszaki” szövegrész helyébe a „különleges jogrendi” szöveg lép.
-
-(2) A Hvt. 19. § (1) bekezdés b) pontjában a „létszámát,” szövegrész helyébe a „létszámát, ide értve az önkéntes tartalékosokat is,” szöveg lép.
+78. § (1)–(2)
 
 (3) A Hjt.
 
