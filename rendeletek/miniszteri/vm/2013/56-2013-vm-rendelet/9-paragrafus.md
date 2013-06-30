@@ -1,0 +1,5 @@
+9. § (1) A nyertes pályázóval a miniszter – a támogatási döntésről szóló értesítés megküldését követő harminc naptári napon belül – hatósági szerződést köt, amelyben meghatározza a támogatás igénybevételének és felhasználásának részletes feltételeit. A szerződéskötésre vonatkozó határidő a nyertes pályázó kérelme alapján egy alkalommal, legfeljebb harminc naptári nappal meghosszabbítható.
+
+(2) A nyertes pályázó a pályázatban foglalt megvalósításra vonatkozó tartalmat a hatósági szerződés megkötését követően – a NAKVI felé történő bejelentési kötelezettsége mellett – legfeljebb egy alkalommal, a miniszter előzetes jóváhagyásával módosíthatja. A módosításra vonatkozó bejelentést az azt kiváltó ok felmerülését követő tíz naptári napon belül, de legfeljebb a fejlesztés teljes megvalósulását megelőző harmincadik napig lehet bejelenteni.
+
+(3) A pályázati felhívásban előírt feltételeket és a pályázatnak a támogatási döntés alapján elfogadott részét a hatósági szerződésben foglaltak szerinti megvalósítási határidőn belül, de legkésőbb 2014. április 30-ig kell teljesíteni.
