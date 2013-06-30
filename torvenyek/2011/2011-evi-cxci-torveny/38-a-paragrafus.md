@@ -1,0 +1,1 @@
+38/A. § E törvénynek a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvénnyel megállapított 23. § (2) bekezdés e) pontját 2013. január 1-jétől kell alkalmazni.

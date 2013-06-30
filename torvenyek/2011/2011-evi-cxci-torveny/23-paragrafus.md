@@ -8,7 +8,9 @@ b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazot
 
 c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavállalót, és
 
-d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót.
+d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót,
+
+e) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses katonát.
 
 (3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint a rehabilitációs hozzájárulás szorzata.
 

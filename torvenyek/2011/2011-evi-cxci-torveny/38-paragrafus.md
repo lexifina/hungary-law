@@ -8,10 +8,12 @@ megváltozott munkaképességű személynek kell tekinteni azt a személyt is, a
 
 (2) Az (1) bekezdés b) pontja szerinti személy komplex minősítését kérelmére a rehabilitációs hatóság elvégzi, és ennek eredményéről hatósági bizonyítványt állít ki.
 
-(3) A 25. § alkalmazásában
+(3) A 25. § alkalmazásában megváltozott munkaképességűnek kell tekinteni
 
-a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott döntés jogerőre emelkedésének napjáig,
+a) azt a személyt is, aki a 30. § (4)–(5) bekezdése vagy a 32. § (1) bekezdése alapján rehabilitációs ellátásban vagy rokkantsági ellátásban részesül, a felülvizsgálat alapján hozott döntés jogerőre emelkedésének napjáig, de legkésőbb a rá irányadó nyugdíjkorhatár betöltéséig,
 
-b) az a) pont alá nem tartozó személyek esetében a 26/A. § szerinti hatósági bizonyítvány kiállításának napjáig, de legkésőbb 2013. december 31-éig
+b) a rokkantsági járadékban részesülő személyt is a rá irányadó nyugdíjkorhatár betöltéséig,
 
-megváltozott munkaképességű személynek kell tekinteni azt a személyt is, akinek a foglalkoztatása alapján a munkáltató 2012 decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
+c) a 33. § (1) bekezdése alapján rehabilitációs ellátásban részesülő személyt is a felülvizsgálat alapján hozott döntés jogerőre emelkedésének napjáig, de legkésőbb a rá irányadó nyugdíjkorhatár betöltéséig,
+
+d) azt az a)–c) pont alá nem tartozó személyt is, akinek a foglalkoztatása alapján a munkáltató 2012 decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült, a 26/A. § szerinti hatósági bizonyítvány kiállításának napjáig, de legkésőbb 2013. december 31-éig.
