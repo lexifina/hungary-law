@@ -224,9 +224,7 @@ b) egy évnél régebben lejárt adó-, illeték-, vámfizetési vagy társadalo
 
 (4) Ha a települési önkormányzat, illetve az önkormányzati hivatal a kincstár (2) bekezdés szerinti határozatában foglaltaknak a határozat közlését követő tizenöt napon belül nem tesz eleget, a meg nem fizetett összeg erejéig a kincsár a határozat bírósági felülvizsgálatára tekintet nélkül beszedési megbízást nyújt be a települési önkormányzat fizetési számlájával szemben.”
 
-(13) Az Áht. 83/A. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség elmulasztása vagy késedelmes teljesítése esetén az önkormányzati hivatal a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki.”
+(13)
 
 (14) Az Áht. 92. § (3) bekezdése helyébe a következő rendelkezés lép:
 

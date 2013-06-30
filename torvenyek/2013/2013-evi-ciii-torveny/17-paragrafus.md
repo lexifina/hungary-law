@@ -24,6 +24,6 @@
 
 lép.
 
-(2) Az Áht. 83/A. § (3) és (4) bekezdésében a „(2) bekezdés” szövegrész helyébe az „(1a) és (2) bekezdés” szöveg lép.
+(2)
 
-(3) Az Áht. 2. § (1) bekezdés n) pontjában a „pártok és pártalapítványok” szövegrész helyébe a „pártok, pártalapítványok és az országgyűlési képviselők általános és időközi választásán egyéni választókerületi képviselőjelöltek” szöveg lép.
+(3)
