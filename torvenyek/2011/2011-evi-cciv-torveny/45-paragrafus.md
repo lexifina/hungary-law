@@ -11,3 +11,5 @@ b) az intézményi szabályzat erre vonatkozó megengedő rendelkezése hiányá
 feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségeinek szülés, továbbá baleset, betegség vagy más váratlan ok miatt, önhibáján kívül nem tud eleget tenni.
 
 (3) Szünetel a hallgatói jogviszony, ha a hallgatót fegyelmi büntetésként eltiltják a tanulmányok folytatásától.
+
+(4) Szünetel a hallgatói jogviszony az önkéntes tartalékos katonai tényleges szolgálatteljesítés időtartamára, amely időszakban a hallgató mentesül a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározott kötelezettségek alól.
