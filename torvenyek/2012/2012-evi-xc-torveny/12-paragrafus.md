@@ -8,6 +8,8 @@ b) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, e
 
 c) a közszolgáltatás megkezdésének és befejezésének időpontját.
 
+(1a) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok és a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A tűzvédelmi hatóság
 
 a) folyamatosan vizsgálja
