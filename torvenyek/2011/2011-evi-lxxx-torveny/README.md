@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-80-00-00
 | --- | --- | --- |
 | 2011-07-01 | 2011. évi LXXX. törvény | 2011-80-00-00.0 (közlönyállapot) |
 | 2011-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-80-00-00.1 |
+| 2013-07-01 | 2013. évi CIX. törvény | 2011-80-00-00.2 |
