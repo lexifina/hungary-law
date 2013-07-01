@@ -1,14 +1,23 @@
+## 6/A. §[^5] Az Intézet közfeladatai körében – az e célból rendelkezésére bocsátott forrás terhére – az információs társadalom fejlesztésével, ezen belül kiemelten a digitális írástudás fejlesztésével, az eMagyarország hálózat szakmai koordinálásával kapcsolatos feladatokat lát el.
+
 7. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A 2. § (4) bekezdésében foglaltakat a jelen rendelet hatálybalépésekor[^5] érvényes vezetői kinevezés határozott időtartamának lejártát, vagy más okból történő megszűnését követően adott kinevezésekre kell alkalmazni.
+(2) A 2. § (4) bekezdésében foglaltakat a jelen rendelet hatálybalépésekor[^6] érvényes vezetői kinevezés határozott időtartamának lejártát, vagy más okból történő megszűnését követően adott kinevezésekre kell alkalmazni.
 
-(3)[^6]
+(3)[^7]
 
-(4)[^7] Az Intézetnek a felsőoktatási és köznevelési intézmények, kutató-fejlesztő helyek, közgyűjtemények és más oktatási, tudományos, és kulturális szervezetek számára biztosított közszolgáltatásai ellátásához nyújtott állami támogatás az Európai Közösséget létrehozó Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat (HL L 312., 2005. 11. 29., 67–73. o.) hatálya alá tartozik.
+(4)[^8] Az Intézetnek a felsőoktatási és köznevelési intézmények, kutató-fejlesztő helyek, közgyűjtemények és más oktatási, tudományos, és kulturális szervezetek számára biztosított közszolgáltatásai ellátásához nyújtott állami támogatás az Európai Közösséget létrehozó Szerződés 86. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami támogatásokra történő alkalmazásáról szóló 2005/842/EK bizottsági határozat (HL L 312., 2005. 11. 29., 67–73. o.) hatálya alá tartozik.
 
-(5)[^8]
+(5)[^9] A rendelet 6/A. §-a
 
-[^5]: A hatálybalépés napja: 2011. február 4.
-[^6]: A 7. § (3) bekezdését a 80/2013. (III. 14.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
-[^7]: A 7. § (4) bekezdése a 80/2013. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^8]: A 7. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+a) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.),
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet (HL L 114., 2012.4.26., 8. o.)
+
+hatálya alá tartozó támogatást tartalmaz.
+
+[^5]: A 6/A. §-t a 240/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A hatálybalépés napja: 2011. február 4.
+[^7]: A 7. § (3) bekezdését a 80/2013. (III. 14.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
+[^8]: A 7. § (4) bekezdése a 80/2013. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 7. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 240/2013. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
