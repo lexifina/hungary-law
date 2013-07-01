@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 2004-1-00-00.32 |
 | 2012-12-16 | 2012. évi CCII. törvény | 2004-1-00-00.33 |
 | 2013-01-01 | 2012. évi CXCVI. törvény | 2004-1-00-00.34 |
+| 2013-07-01 | 2012. évi CCXXIII. törvény | 2004-1-00-00.35 |
