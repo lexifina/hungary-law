@@ -1,0 +1,3 @@
+## 19. § A belügyminiszter irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályairól és a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályairól szóló 23/2003. (VI. 24.) BM–IM együttes rendelet (a továbbiakban: Nyor.) 8. §-a helyébe a következő rendelkezés lép:
+
+## „8. § Védő kirendelése esetén a kirendelő határozatnak tartalmaznia kell az eljáró nyomozó szerv megnevezését, a gyanúsított nevét, lakcímét, a gyanúsításban közölt bűncselekménynek a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti megnevezését, a kirendelésre való utalást és az ügyvéd, illetve az európai közösségi jogász megnevezését.”
