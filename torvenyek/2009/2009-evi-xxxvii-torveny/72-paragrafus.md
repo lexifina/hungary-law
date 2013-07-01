@@ -17,3 +17,15 @@ c) ügyvédi vagy bírói letétbe helyezett készpénzt, államkötvényt;
 d) az erdőgazdálkodó többségi tulajdonában álló erdő tulajdoni hányadára vagy tehermentes egyéb ingatlanára a Magyar Állam javára bejegyzett jelzálogjogot fogadhat el.
 
 (4) A sikeres első erdősítés ellenőrzését követően az erdészeti hatóság a biztosíték 70%-át, az erdőfelújítás befejezésének ellenőrzését követően pedig a teljes biztosítékot felszabadítja.
+
+(5) Az erdészeti hatóság az e célból elkülönített számlájára jogszabályi rendelkezés alapján elhelyezett letétekről az alábbi adatokkal nyilvántartást vezet:
+
+a) a letétet letevő természetes személy vagy gazdálkodó szervezet azonosító adatai,
+
+b) a letét jogcíme,
+
+c) a letét jogosultjának neve, valamint
+
+d) a letét elhelyezésének ideje.
+
+(6) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a) pontjában foglalt adat kivételével közhiteles hatósági nyilvántartásnak minősül.

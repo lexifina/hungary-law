@@ -2,7 +2,7 @@
 
 ## AZ ERDÉSZETI IGAZGATÁS
 
-103. § (1) Az erdészeti hatósági feladatokat ellátó személyek részére szolgálati igazolványt a rendőrség állít ki.
+103. § (1)
 
 (2) Az erdészeti hatóság eljárása során jogosult
 
@@ -28,4 +28,4 @@ e) a bűncselekmény elkövetésén tetten ért vagy az intézkedésének ellens
 
 az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
-(5) Az erdővédelmi szolgálat tagja vegyi eszköz és – a fegyvertartásra vonatkozó külön jogszabályban foglaltak szerint – maroklőfegyver tartására jogosult, melyet külterületen, egyen- vagy formaruhás szolgálatban nyíltan viselhet.
+(5) Az erdővédelmi szolgálat tagja szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.

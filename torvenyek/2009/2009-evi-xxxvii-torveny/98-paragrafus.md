@@ -6,11 +6,39 @@ a) az erdő fennmaradását, fejlődését veszélyeztető állapotról, esemén
 
 b) az erdőben jogszerűen végzett munkák szakmai irányítását elvégezni.
 
-(1a) Az erdészeti szakszemélyzet az e törvényben meghatározott tevékenység folytatására, valamint az intézkedésére való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja.
+(1a) Az erdészeti hatóság az erdészeti munkák szakmai irányítására és az erdő őrzésére jogosult személyekről erdészeti szakszemélyzeti és jogosult erdészeti szakszemélyzeti névjegyzéket vezet. A névjegyzékben a rendészeti feladatokat ellátó erdészeti szakszemélyzetet, illetve jogosult erdészeti szakszemélyzetet elkülönítetten kell nyilvántartani.
 
-(1b) Az erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+(1b) A névjegyzék az erdészeti szakszemélyzet alábbi adatait tartalmazza:
 
-(2) Az erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult
+a) természetes személyazonosító adatok,
+
+b) a szakszemélyzet besorolása:
+
+ba) erdészeti szakszemélyzetként, vagy
+
+bb) jogosult erdészeti szakszemélyzetként,
+
+bc) felsőfokú végzettségű jogosult erdészeti szakszemélyzetként,
+
+c) nyilvántartási kód,
+
+d) rendészeti feladatok ellátása,
+
+e) a továbbképzéseken való részvételt igazoló bejegyzések,
+
+f) lakcím vagy tartózkodási hely,
+
+g) telefonszám, e-mail cím, valamint
+
+h) az erdészeti hatóság által az erdészeti szakszemélyzettel szemben alkalmazott szankciók.
+
+(1c) Az (1a) bekezdés szerinti nyilvántartás az (1b) bekezdés a), f), valamint g) pontjában foglalt adatok kivételével közhiteles hatósági nyilvántartásnak minősül.
+
+(1d) A szakszemélyzet a névjegyzékben szereplő adataiban bekövetkező változást köteles az erdészeti hatóság állandó lakóhely, vagy tartózkodási hely szerint illetékes területi szervéhez 15 napon belül bejelenteni.
+
+(1e) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+
+(2) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult
 
 a) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért személlyel szemben,
 
@@ -20,8 +48,4 @@ c) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetés
 
 az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
-(3) A (2) bekezdés d) pontja alapján elvett faanyagot és szaporítóanyagot, illetve egyéb erdei terméket és az elkövetéshez (veszélyeztetéshez) használt eszközt az erdészeti szakszemélyzet köteles haladéktalanul átadni az erdészeti hatóságnak vagy a rendőrségnek.
-
-(4) Az erdészeti szakszemélyzet őrzési tevékenysége során köteles az e törvény végrehajtására kiadott jogszabályban előírt egyenruha és szolgálati jelvény viselésére.
-
-(5) Az erdészeti szakszemélyzet őrzési tevékenysége során könnygázszóró palack, és – a fegyvertartásra vonatkozó külön jogszabályban foglaltak szerint – gáz- és riasztófegyver, valamint lőfegyver tartására jogosult, melyet egyenruhás szolgálatban nyíltan viselhet.
+(3)–(5)

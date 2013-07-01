@@ -1,0 +1,1 @@
+50/A. § A külön jogszabály alapján nemzeti hatáskörben 2004. május 31-ig támogatással létesített erdő telepítéséhez kapcsolódó pénzügyi tételt keletkeztető műveletekről az erdészeti hatóság közhiteles hatósági nyilvántartást vezet.

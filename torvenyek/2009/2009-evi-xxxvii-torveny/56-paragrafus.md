@@ -17,3 +17,19 @@ d) az erdő talaját veszélyeztető tevékenység;
 e) hó, jég, szél, tűz, légszennyezés, árvíz, talajvízszint változása, fagy (abiotikus erdőkár).
 
 (2) Az erdő fejlődésének, egészségi állapotának folyamatos figyelemmel kísérése, ellenőrzése és erdészeti növényvédelmi előrejelzés készítése céljából az állam erdővédelmi mérő- és megfigyelő rendszert működtet.
+
+(3) Az erdészeti hatóság az e törvény végrehajtására kiadott jogszabály szerint bejelentett erdőkárokról az alábbi adatokkal hatósági nyilvántartást vezet (a továbbiakban: Országos Erdőkár Nyilvántartás):
+
+a) a bejelentő természetes személyazonosító adatai,
+
+b) a károsítás helye,
+
+c) a károsító kódja,
+
+d) a károsítás mértéke,
+
+e) a károsítással érintett terület, valamint
+
+f) a károsítás észlelésének időpontja.
+
+(4) Az Országos Erdőkár Nyilvántartás a (3) bekezdés a) pontjában foglalt adat kivételével közhiteles hatósági nyilvántartásnak minősül.

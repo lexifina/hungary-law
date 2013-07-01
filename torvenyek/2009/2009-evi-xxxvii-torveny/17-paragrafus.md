@@ -2,11 +2,9 @@
 
 17. § (1) Erdőgazdálkodó az erdészeti hatóság által vezetett erdőgazdálkodói nyilvántartásban szereplő tulajdonos vagy jogszerű használó.
 
-(2) Az erdőgazdálkodói nyilvántartás az érintett erdő és az erdőgazdálkodás célját közvetlenül szolgáló, erdő művelési ágú földterület használatára vonatkozóan bejegyzett adatokat hitelesen tanúsítja.
+(2) Az erdőgazdálkodói nyilvántartás a 18. § (6) bekezdés a) pont ag) alpontjában, b) pont bh) alpontjában, c) pont cg)–ci) alpontjában, d) pont db) alpontjában, valamint e) pont eb) alpontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az ellenkező bizonyításig az erdőgazdálkodói nyilvántartásba bejegyzett adatról vélelmezni kell, hogy az a valóságnak megfelel.
-
-(4) Az erdőgazdálkodói nyilvántartásba bejegyzett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
+(3)–(4)
 
 (5) Az erdőgazdálkodói jogok és kötelezettségek a nyilvántartásba történő bejegyzéssel keletkeznek és a nyilvántartásból való törléssel szűnnek meg.
 

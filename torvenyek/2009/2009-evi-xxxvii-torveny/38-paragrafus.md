@@ -37,3 +37,7 @@ c) a 6. § (1) bekezdés b) pontja szerinti faállományt,
 d) az időlegesen igénybe vett erdő területét,
 
 e) a 6 méternél kisebb átlagos szélességű nyiladékot és tűzpásztát.
+
+(4) Az Adattár a (2) bekezdés szerinti adatok tekintetében – a 33. § (2) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(5) Az Adattárba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság bizonyítékként kizárólag közokiratot, teljes bizonyító erejű magánokiratot, valamint a körzeti erdőtervezés során keletkező iratot használhat fel.
