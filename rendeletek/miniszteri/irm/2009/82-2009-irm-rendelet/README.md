@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-82-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2009-82-20-1U.1 | 82/2009. (XII. 30.) IRM rendelet |
+| 2013-07-01 | 2009-82-20-1U.2 | 2017: CLXXIX. törvény |

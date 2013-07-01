@@ -1,4 +1,4 @@
-## 1. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (2) bekezdés b) pontja alkalmazásának a közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet 2. § (1) bekezdésében, 3. §-ában, 4. §-ában, 5. §-ában, 6. §-ában, 7. §-ában és 8. §-ában foglalt jogszabálysértések és jogkövetkezmények tekintetében van helye.
+## 1. §[^2] A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (2) bekezdés b) pontja alkalmazásának a közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet 2. § (1) bekezdésében, 3. §-ában, 4. §-ában, 5. §-ában, 6. §-ában, 7. §-ában , 8. §-ában és 8/A. §-ában foglalt jogszabálysértések és jogkövetkezmények tekintetében van helye.
 
 ## 2. § A Ket. 94. § (2) bekezdés b) pontja alkalmazásának
 
@@ -15,3 +15,5 @@ e) az atomenergia alkalmazásával összefüggő rendőrségi feladatokról szó
 f) a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet 13. § (1) és (2) bekezdésében
 
 foglalt jogszabálysértések és jogkövetkezmények tekintetében van helye.
+
+[^2]: Az 1. § a 34/2013. (VI. 30.) BM rendelet 30. §-a szerint módosított szöveg.
