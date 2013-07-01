@@ -33,3 +33,5 @@ d) összegyűjti és rendszerezett formában a hatóság rendelkezésére bocsá
 (8) A fővárosi és megyei kormányhivatal hatósági közvetítőkről vezetett nyilvántartása tartalmazza a hatósági közvetítő természetes személyazonosító adatait, képesítését, az elérhetőségéhez szükséges adatokat, valamint azt a tevékenységi kört, amelyben hatósági közvetítőként eljárhat.
 
 (9) A (8) bekezdés szerinti nyilvántartásnak a hatósági közvetítő nevére, elérhetőségére, képesítésére, valamint tevékenységi körére vonatkozó adatai nyilvánosak.
+
+(10) A (8) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.

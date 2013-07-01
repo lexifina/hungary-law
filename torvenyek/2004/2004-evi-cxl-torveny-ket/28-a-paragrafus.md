@@ -32,6 +32,8 @@ tart kapcsolatot az ügyféllel.
 
 (2) Az (1) bekezdést megfelelően alkalmazni kell az ügyfél és a hatóság, valamint a hatóságok egymással történő kapcsolattartására.
 
+(2a) Az iratkezelési rendszerek közötti iratáthelyezés szolgáltatáshoz csatlakozott hatóság írásban e szolgáltatás igénybevételével is kapcsolatot tarthat más hatósággal.
+
 (3) Több igénybe vehető kapcsolattartási forma közül a hatóság a költségtakarékosság és a hatékonyság szempontjai alapján választ, előnyben részesítve az elektronikus utat.
 
 (4) Az első kapcsolatfelvétel alkalmával a hatóság felhívja az ügyfél figyelmét a kapcsolattartás lehetséges formáira, és tájékoztatást ad a kapcsolattartásra szolgáló elérhetőségéről, valamint a hatóság által nyújtott elektronikus tájékoztatás elérhetőségéről.

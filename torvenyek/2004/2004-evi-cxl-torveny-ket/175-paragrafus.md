@@ -8,7 +8,9 @@ c) az állam által kötelezően nyújtandó szabályozott elektronikus ügyint�
 
 d) az ügyfélkapu regisztrációs szervet vagy szerveket,
 
-e) az ügyfélkapu regisztrációs adatbázist kezelő szervet vagy szerveket.
+e) az ügyfélkapu regisztrációs adatbázist kezelő szervet vagy szerveket,
+
+f) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásának adatkezelőjét.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
@@ -36,12 +38,14 @@ b) az ügyintézési rendelkezés tételének és nyilvántartásba vételének 
 
 c) az azonosítási hibából eredő kockázat és a biztonsági szintek közötti kapcsolatot, az azonosítási hiba bekövetkezéséből származó lehetséges kár jellege és súlyosságának mérlegelése során figyelembe veendő részletes szempontokat,
 
-d) a szabályozott elektronikus ügyintézési szolgáltatások részletes követelményeit, a szabályozott elektronikus ügyintézési szolgáltatásnyújtás részletes eljárási rendjét, valamint a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési feltételeket,
+d) a szabályozott elektronikus ügyintézési szolgáltatások részletes követelményeit, a szabályozott elektronikus ügyintézési szolgáltatásnyújtás részletes eljárási rendjét, az engedélyköteles szabályozott elektronikus ügyintézési szolgáltatások körét, valamint a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési feltételeket,
 
 e) a szabályozott elektronikus ügyintézési szolgáltató által teljesítendő személyi és pénzügyi feltételeket,
 
-f) az elektronikus ügyintézési szolgáltatás engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és csökkentésével kapcsolatos szabályokat, valamint
+f)
 
 g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
 
 (4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.
+
+(5) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az elektronikus ügyintézési szolgáltatás bejelentéséért, engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.

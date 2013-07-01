@@ -1,6 +1,6 @@
 ## Tájékoztatás
 
-28/C. § (1) Ha jogszabály eltérően nem rendelkezik, az ügyfél az e fejezetben meghatározott valamennyi kapcsolattartási formát használhatja tájékoztatáskérés céljából.
+28/C. § (1) Ha jogszabály eltérően nem rendelkezik, az ügyfél az e fejezetben meghatározott valamennyi kapcsolattartási formát használhatja tájékoztatáskérés céljából, és ha jogszabály lehetővé teszi, az e fejezetben meghatározott valamennyi kapcsolattartási formát használhatja időpontfoglalás céljából.
 
 (2)
 

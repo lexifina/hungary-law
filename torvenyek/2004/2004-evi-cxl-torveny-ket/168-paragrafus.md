@@ -1,49 +1,47 @@
-## Az állam által kötelezően biztosítandó szabályozott elektronikus ügyintézési szolgáltatások
+## Az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások
 
-168. § (1) Az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat a Kormány köteles biztosítani:
+168. § (1) Az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat a Kormány köteles nyújtani:
 
 a) az ügyfél ügyintézési rendelkezésének nyilvántartása,
 
 b) az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről,
 
-c) az ügyfél adataiban bekövetkező változás átvezetése,
+c) összerendelési nyilvántartás szolgáltatás,
 
-d) összerendelési nyilvántartás szolgáltatás,
+d) azonosítási szolgáltatás természetes személy ügyfelek részére,
 
-e) azonosítási szolgáltatás természetes személy ügyfelek részére,
+e) biztonságos kézbesítési szolgáltatás,
 
-f) biztonságos kézbesítési szolgáltatás,
+f) elektronikus dokumentumtárolási szolgáltatás,
 
-g) elektronikus dokumentumtárolási szolgáltatás,
+g) a hatóság nyilatkozattételével kapcsolatos elektronikus igazolás szolgáltatása,
 
-h) biztonságos elektronikus igazolási szolgáltatás,
+h) elektronikus fizetési és elszámolási rendszer,
 
-i) hitelesítés-szolgáltatás,
+i) iratérvényességi nyilvántartás,
 
-j) a hatóság nyilatkozattételével kapcsolatos elektronikus igazolás szolgáltatása,
+j) kormányzati hitelesítés-szolgáltatás,
 
-k) adatelérési felület biztosításával kapcsolatos szabályozott elektronikus ügyintézési szolgáltatás,
+k) kormányzati elektronikus aláírás ellenőrzési szolgáltatás,
 
-l) elektronikus tájékoztatási szolgáltatás,
+l) központi azonosítási ügynök,
 
-m) elektronikus fizetési és elszámolási rendszer,
+m) ÁNYK űrlapbenyújtás támogatási szolgáltatás,
 
-n) iratérvényességi nyilvántartás,
+n) azonosításra visszavezetett dokumentumhitelesítés,
 
-o) kormányzati hitelesítés-szolgáltatás,
+o) elektronikus irat hiteles papír alapú irattá alakítása,
 
-p) kormányzati elektronikus aláírás ellenőrzési szolgáltatás,
+p) papír alapú irat átalakítása hiteles elektronikus irattá,
 
-q) központi azonosítási ügynök,
+q) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás,
 
-r) ÁNYK űrlapbenyújtás támogatási szolgáltatás,
+r) központi érkeztetési ügynök,
 
-s) azonosításra visszavezetett dokumentumhitelesítés,
+s) központi kézbesítési ügynök,
 
-t) elektronikus irat hiteles papír alapú irattá alakítása,
-
-u) papír alapú irat átalakítása hiteles elektronikus irattá,
-
-v) jogszabályban kötelezően nyújtandóként előírt további szabályozott elektronikus ügyintézési szolgáltatások.
+t) az e törvény felhatalmazása alapján kiadott kormányrendeletben kötelezően nyújtandóként előírt további szabályozott elektronikus ügyintézési szolgáltatás.
 
 (2) Jogszabály egyes szabályozott elektronikus ügyintézési szolgáltatások nyújtását más szervek számára is előírhatja.
+
+(3) Kormányrendelet valamely szabályozott elektronikus ügyintézési szolgáltatás igénybevételét kötelezővé teheti, illetve előírhatja, hogy valamely szabályozott elektronikus ügyintézési szolgáltatást kizárólag a jogszabályban kijelölt szolgáltató nyújthatja.

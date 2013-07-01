@@ -2,7 +2,7 @@
 
 21. § (1) Ha jogszabály másként nem rendelkezik, az azonos hatáskörű hatóságok közül az a hatóság jár el, amelynek illetékességi területén
 
-a) az ügyfél lakó- vagy tartózkodási helye, ennek hiányában szálláshelye (a továbbiakban együtt: lakcím), illetve székhelye, telephelye, fióktelepe (a továbbiakban együtt: székhely) van,
+a) az ügyfél lakóhelye, tartózkodási helye, ennek hiányában értesítési címe (a továbbiakban együtt: lakcím), illetve székhelye, telephelye, fióktelepe (a továbbiakban együtt: székhely) van,
 
 b) az ügy tárgyát képező ingatlan fekszik,
 

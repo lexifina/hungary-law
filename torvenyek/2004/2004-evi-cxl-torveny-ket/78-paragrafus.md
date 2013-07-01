@@ -8,7 +8,7 @@
 
 (4) A hatóság a döntését a 28/A. § (1) bekezdésében meghatározott módon közölheti. A 71. § (7) bekezdése szerinti esetben a hatóság a nem elektronikusan kézbesítendő iratokat az elektronikus döntésről készített hiteles papír alapú másolatként kézbesíti.
 
-(5) A hatóság a döntést hivatalos iratként kézbesíti. Telefax útján nem közölhető a határozat és az önállóan fellebbezhető végzés, kivéve, ha a döntés közlésére jogosult személy vagy szerv ezt előzetesen kérte vagy ehhez hozzájárult.
+(5) A hatóság a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy írásbelinek minősülő elektronikus úton kézbesíti. Telefax útján nem közölhető a határozat és az önállóan fellebbezhető végzés, kivéve ha a döntés közlésére jogosult személy vagy szerv ezt előzetesen kérte vagy ehhez hozzájárult.
 
 (6) Ha jogszabály nem zárja ki, a döntést szóban is lehet közölni az (1) és (2) bekezdésben meghatározott személlyel. A közlés tényét és időpontját az iratra fel kell jegyezni, és azt alá kell íratni. Az (1) és (2) bekezdésben meghatározott személy kérelmére a szóban közölt döntést tíz napon belül írásban meg kell küldeni a számára.
 

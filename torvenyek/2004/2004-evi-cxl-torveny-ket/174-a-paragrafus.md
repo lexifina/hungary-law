@@ -13,3 +13,7 @@ c) meghatározza a szakhatósági közreműködésre, az ügyben érdemi dönté
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a végrehajtást foganatosító szervet és a külföldi határozat végrehajtására irányuló megkereséssel kapcsolatban intézkedésre jogosult szervet vagy szerveket.
 
 (3) Felhatalmazást kap a Kormány, hogy a kormányablakot vagy kormányablakokat rendeletben jelölje ki, valamint meghatározza feladat- és hatáskörüket.
+
+(4) Felhatalmazást kap a Kormány, hogy a 169/A. § (3) bekezdése szerinti szervezetet kijelölje, valamint az általa biztosított hatósági szolgáltatások nyújtásának szabályait rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg azokat az ügyeket, amelyekben a kormányablak az ügyre vonatkozó jogszabályban meghatározott hatóság mellett első fokon jogosult eljárni, valamint a kormányablak eljárásának részletes szabályait.

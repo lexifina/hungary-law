@@ -29,3 +29,5 @@ c) az ügyfél, illetve az ellenérdekű ügyfél médiatartalom-szolgáltató, 
 (5) Az ügyfél vagy képviselője, ha más tudomása ellenére az ügy szempontjából jelentős valótlan tényt állít, illetve ha a (3) bekezdés szerinti kötelező adatszolgáltatás körében a (4) bekezdésben foglalt ok hiányában adatszolgáltatási kötelezettségét nem teljesíti, az ügy eldöntése szempontjából jelentős tényt elhallgat, vagy valótlan adatot szolgáltat, eljárási bírsággal sújtható.
 
 (6) A hatóság köteles az ügyfelet a nyilatkozattétellel, illetve adatszolgáltatási kötelezettséggel kapcsolatos jogairól tájékoztatni és kötelességeire, valamint a kötelezettségek elmulasztásának jogkövetkezményeire figyelmeztetni.
+
+(7) Ha jogszabály lehetővé teszi, az ügyfél az (1) bekezdés szerinti nyilatkozatot és a (3)–(4) bekezdés szerinti adatszolgáltatást – az ügyfél elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett – telefonon is megteheti, illetve teljesítheti, továbbá a nyilatkozattételt, adatszolgáltatást telefonon is megtagadhatja.

@@ -4,4 +4,6 @@
 
 a) hozzájárulás adása az ügyintézési rendelkezésben,
 
-b) hozzájárulás az ügyfél ügyintézési rendelkezésében meghatározott módon hitelesített elektronikus nyilatkozatában.
+b) hozzájárulás az ügyfél ügyintézési rendelkezésében meghatározott módon hitelesített elektronikus nyilatkozatában,
+
+c) ha jogszabály lehetővé teszi, hozzájárulás adása telefonon az ügyfél elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítéssel.

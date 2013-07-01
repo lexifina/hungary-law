@@ -30,7 +30,7 @@ j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektron
 
 2. az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről,
 
-3. az ügyfél adataiban bekövetkező változás átvezetése,
+3.
 
 4. összerendelési nyilvántartás vezetése,
 
@@ -66,7 +66,7 @@ j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektron
 
 20. iratérvényességi nyilvántartás vezetése,
 
-21. elektronikus tájékoztatási szolgáltatás,
+21.
 
 22. elektronikus dokumentum titkosítása,
 
@@ -80,7 +80,15 @@ j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektron
 
 27. elektronikus fizetési és elszámolási rendszer,
 
-28. az e törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben szabályozott elektronikus ügyintézési szolgáltatásként nevesített további elektronikus ügyintézéssel kapcsolatos szolgáltatás.
+28. iratkezelő rendszerek közötti iratáthelyezés-szolgáltatás,
+
+29. központi érkeztetési ügynök,
+
+30. központi kézbesítési ügynök,
+
+31. személyre szabott ügyintézési felület,
+
+32. az e törvény felhatalmazása alapján kiadott kormányrendeletben szabályozott elektronikus ügyintézési szolgáltatásként nevesített további elektronikus ügyintézéssel kapcsolatos szolgáltatás.
 
 k) szabályozott elektronikus ügyintézési szolgáltató:
 
@@ -90,12 +98,14 @@ kb) a szabályozott elektronikus ügyintézési szolgáltatást más hatóság �
 
 kc) a hatóságnak nem minősülő olyan személy, aki a szabályozott elektronikus ügyintézési szolgáltatást ügyfelek vagy hatóságok számára ingyenesen vagy ellenérték fejében elérhetővé teszi,
 
-l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, a fizetési titok, valamint a magántitok,
+l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, a fizetési titok, az adótitok, a vámtitok, valamint a magántitok,
 
-m) ügyintézési rendelkezés: az ügyfélnek az elektronikus ügyintézéssel kapcsolatos, jogszabályban meghatározott tartalmú, a jogszabályban rendszeresített űrlap szerinti formában tett és a jogszabályban kijelölt szerv (a továbbiakban: nyilvántartó szerv) által nyilvántartásba vett rendelkezése,
+m)
 
 n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását,
 
 o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató,
 
-p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy.
+p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy,
+
+q) elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nyújtott elektronikus tájékoztatás.

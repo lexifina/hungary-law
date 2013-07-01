@@ -8,7 +8,7 @@
 
 (4) A hatósági eljárásban olyan bizonyíték használható fel, amely alkalmas a tényállás tisztázásának megkönnyítésére. Bizonyíték különösen: az ügyfél nyilatkozata, az irat, a tanúvallomás, a szemléről készült jegyzőkönyv, a szakértői vélemény, a hatósági ellenőrzésen készült jegyzőkönyv és a tárgyi bizonyíték.
 
-(5) A hatóság szabadon választja meg az alkalmazandó bizonyítási eszközt. Törvény előírhatja, hogy a hatóság a határozatát kizárólag valamely bizonyítási eszközre alapozza, továbbá törvény vagy kormányrendelet meghatározott ügyekben kötelezővé teheti valamely bizonyítási eszköz alkalmazását, illetve előírhatja valamely szerv véleményének a kikérését.
+(5) A hatóság szabadon választja meg az alkalmazandó bizonyítási eszközt. Törvény előírhatja, hogy a hatóság a határozatát kizárólag valamely bizonyítási eszközre alapozza, továbbá jogszabály meghatározott ügyekben kötelezővé teheti valamely bizonyítási eszköz alkalmazását, illetve előírhatja valamely szerv véleményének a kikérését.
 
 (6) A hatóság a bizonyítékokat egyenként és összességükben értékeli, és az ezen alapuló meggyőződése szerint állapítja meg a tényállást.
 
