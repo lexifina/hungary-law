@@ -14,8 +14,9 @@ A gyermekmeghallgató szobák nagyságával, felszereltségével és berendezés
 
 5. A gyermekmeghallgató szobában biztosítani kell 0,5 méter magasságban a minimum 20 °C-os hőmérsékletet.
 
-6. A kép- és hangfelvétel készítésére alkalmas technikai eszközöket rejtett módon kell elhelyezni a gyermekmeghallgató szobában.
+6.[^6]
 
 7. Az 1. § (1) és (2) bekezdése szerinti követelményeknek való megfelelést berendezési tárgyak, bútorok, függöny, valamint játszósarok kialakításával kell biztosítani.
 
 [^5]: Az 1. mellékletet a 9/2012. (II. 27.) KIM rendelet 4. §-a iktatta be.
+[^6]: Az 1. melléklet 6. pontját a 9/2013. (VI. 29.) KIM rendelet 78. §-a hatályon kívül helyezte.
