@@ -1,6 +1,6 @@
 ## Végrehajtási kegyelem
 
-1. § (1) Az egy évet meg nem haladó szabadságvesztés végrehajtása alól mentesül a szándékos bűncselekmény miatt elítélt, kivéve ha visszaeső (Btk. 137. § 12., 13., 14. pont).
+1. § (1) Az egy évet meg nem haladó szabadságvesztés végrehajtása alól mentesül a szándékos bűncselekmény miatt elítélt, kivéve ha visszaeső (1978. évi IV. törvény 137. § 12., 13., 14. pont).
 
 (2) A három évet meg nem haladó szabadságvesztés végrehajtása alól mentesül
 
