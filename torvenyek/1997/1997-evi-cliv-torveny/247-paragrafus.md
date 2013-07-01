@@ -187,5 +187,3 @@ s) a terápiás készítmény előállítása céljából történő vérvétel,
 sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat,
 
 t) a vérkészítmények terápiás felhasználásának részletes szabályait,
-
-u) az egységes ágazati humánerőforrás-monitoringrendszer működésének részletes szabályait,
