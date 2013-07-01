@@ -1,6 +1,6 @@
 2. § (1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) pontjában meghatározott tevékenység, továbbá az 1. § (3) bekezdésének g) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (továbbiakban együtt: távszerencsejáték).
 
-(2) Szerencsejáték szervező tevékenység folytatásához — az e törvényben meghatározott kivétellel — az állami adóhatóság engedélye szükséges.
+(2) Szerencsejáték-szervező tevékenység folytatásához – az e törvényben meghatározott kivétellel – az állami adóhatóság engedélye szükséges. Az állami adóhatóság az engedélyesekről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
 (2a) Távszerencsejáték szolgáltatás nyújtásához az állami adóhatóság engedélye szükséges. A távszerencsejáték szolgáltatásokra e törvény hatálya abban az esetben terjed ki, ha
 
@@ -16,7 +16,13 @@ c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irán
 
 a) a folytatni kívánt tevékenység sértené a jóérzést, közbiztonságot, a közszemérmet, illetőleg gyermek vagy ifjúságpolitikai érdekeket,
 
-b) a kérelmező, illetőleg vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye, vagy lakóhelye szerinti állam joga vagy a magyar jog alapján büntetett előéletű, a kérelem benyújtását megelőző 3 éven belül jogerős bírósági ítéletben megállapított közélet tisztasága elleni (Btk. XV. Fejezet VIII. cím), közbizalom elleni (Btk. XVI. Fejezet III. cím), gazdasági (Btk. XVII. Fejezet), vagyon elleni (Btk. XVIII. fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni vagy pénzügyi szabálysértést, tiltott szerencsejáték szabálysértését követte el, illetőleg jogerős bírósági ítéletben megállapított, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti tevékenység korlátozása alatt áll,
+b) a kérelmező, illetve vezető tisztségviselője vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye vagy lakóhelye szerinti állam joga vagy a magyar jog alapján büntetett előéletű, a kérelem benyújtását megelőző 3 éven belül jogerős bírósági ítéletben megállapított
+
+ba) a 2013. június 30-ig hatályban volt Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti közélet tisztasága elleni (1978. évi IV. törvény XV. Fejezet VIII. cím), közbizalom elleni (1978. évi IV. törvény XVI. Fejezet III. cím), gazdasági (1978. évi IV. törvény XVII. Fejezet), vagyon elleni (1978. évi IV. törvény XVIII. fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni vagy pénzügyi szabálysértést, tiltott szerencsejáték szabálysértését,
+
+bb) korrupciós [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. Fejezet], közbizalom elleni (Btk. XXXIII. Fejezet), vagyon elleni erőszakos (Btk. XXXV. Fejezet), vagyon elleni (Btk. XXXVI. Fejezet), szellemi tulajdonjog elleni (Btk. XXXVII. Fejezet), a pénz- és bélyegforgalom biztonsága elleni (Btk. XXXVIII. Fejezet), a költségvetést károsító (Btk. XXXIX. Fejezet), a pénzmosás (Btk. XL. Fejezet), a gazdálkodás rendjét sértő (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő (Btk. XLII. Fejezet), a tiltott adatszerzés és az információs rendszer elleni (Btk. XLIII. Fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni, pénzügyi vagy kereskedelmi szabálysértést (a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény XXV. Fejezet), tiltott szerencsejáték szabálysértését
+
+követte el, illetve jogerős bírósági ítéletben megállapított, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti tevékenység korlátozása alatt áll,
 
 c)
 
