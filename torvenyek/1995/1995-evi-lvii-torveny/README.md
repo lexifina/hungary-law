@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-57-00-00
 | 2013-02-01 | 2012. évi CCXIII. törvény | 1995-57-00-00.35 |
 | 2013-06-10 | 2013. évi LXXIII. törvény | 1995-57-00-00.36 |
 | 2013-06-28 | 2013. évi LXXXII. törvény | 1995-57-00-00.37 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 1995-57-00-00.38 |
