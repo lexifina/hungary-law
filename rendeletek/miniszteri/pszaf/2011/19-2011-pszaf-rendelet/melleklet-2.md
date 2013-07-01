@@ -1,338 +1,518 @@
-## 20110G20000019_2
+| ÖSSZEFOGLALÓ TÁBLA - EGYEDI JELENTÉSEK - RÉSZVÉNYTÁRSASÁGOK ÉS SZÖVETKEZETI HITELINTÉZETEK |
 
-2. melléklet a 19/2011. (X. 20.) PSZÁF rendelethez[^8]
+| Táblakód | Megnevezés | Egyedi adatszolgáltatás |
+
+| MNB-PSZÁF közös táblák |
+
+| 1AB | Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) |  | H |  | N | É | A |  |  |
+
+| 1AN | Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) |  | H |  | N | É | A |  |  |
+
+| 1B | Felügyeleti mérleg (Források) |  | H |  | N | É | A |  |  |
+
+| 1C | Mérlegtételekhez kapcsolódó tájékoztató adatok |  | H |  | N | É | A |  |  |
+
+| 1D | Eladott eszközök halasztott fizetéssel, illetve visszavásárlási kötelezettséggel |  | H |  | N | É | A |  |  |
+
+| 1E | Tranzakciók számításához szükséges adatok |  | H |  | N | É | A |  |  |
+
+| 1F | Értékpapírosítással kapcsolatos adatok |  | H |  | N | É | A |  |  |
+
+| 1G | Eszköz és forrástételek hó végi állományának devizaszerkezete (hitelek bruttó, értékpapírok nettó könyv szerinti értéken) |  | H |  | N | É | A |  |  |
+
+| 2A | Eredménykimutatás |  | H |  | N | É | A |  |  |
+
+| PSZÁF táblák |
+
+| 2C | Eredményadatok részletezése |  |  |  | N | É | A |  |  |
+
+| 3DBA | Származtatott ügyletek (HUF) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N | É | A |  |  |
+
+| 3DBB | Származtatott ügyletek (EUR) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N | É | A |  |  |
+
+| 3DBC | Származtatott ügyletek (USD) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N | É | A |  |  |
+
+| 3DBD | Származtatott ügyletek (CHF) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N | É | A |  |  |
+
+| 3DBE | Származtatott ügyletek (Egyéb devizák) (tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek) |  |  |  | N | É | A |  |  |
+
+| 3H | Hátrasorolt követelések és kötelezettségek |  | H |  | N | É | A |  |  |
+
+| 3I | Tulajdonosi kapcsolatok |  | H |  | N | É | A |  |  |
+
+| 3J1 | Valós értékelést nem alkalmazó hitelintézetek- értékpapírok értékelési adatai |  | H |  | N | É | A |  |  |
+
+| 3J2 | Valós értékelést alkalmazó hitelintézetek - értékpapírok értékelési portfóliók szerinti adatai |  | H |  | N | É | A |  |  |
+
+| 3K1 | Lejáratig tartott értékpapírok közül a tárgynegyedévben kereskedési célúvá vagy értékesíthetővé átsorolt tételek |  |  |  | N | É | A |  |  |
+
+| 3K2 | Kereskedési célú értékpapírok közül a tárgynegyedévben nem kereskedési célúvá átsorolt értékpapírok |  |  |  | N | É | A |  |  |
+
+| 4AT | Lejárati összhang elemzés - összesítő |  | H |  | N | É | A |  |  |
+
+| 4AA | Lejárati összhang elemzés - HUF |  | H |  | N | É | A |  |  |
+
+| 4AB | Lejárati összhang elemzés - EUR |  | H |  | N | É | A |  |  |
+
+| 4AC | Lejárati összhang elemzés - USD |  | H |  | N | É | A |  |  |
+
+| 4AD | Lejárati összhang elemzés - CHF |  | H |  | N | É | A |  |  |
+
+| 4AE | Lejárati összhang elemzés - Egyéb devizák |  | H |  | N | É | A |  |  |
+
+| 4B | Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról |  | H |  | N | É | A |  |  |
+
+| 4E | Egyes betétek és letétek azonosítása |  | H |  | N | É | A |  |  |
+
+| 4LAN | Egyes mérlegtételek könyv szerinti bruttó állománya | ENa |  |  |  |  |  |  |  |
+
+| DMM | Havi jelentés a devizafinanszírozás megfelelési mutatóról |  | H |  | N | É | A |  |  |
+
+| 5A | Hpt. előírások vizsgálata |  | H |  | N | É | A |  |  |
+
+| 5B | Bankközi állományok adatai |  | H |  | N | É | A |  |  |
+
+| 5H | Határon átnyúló tevékenység |  |  |  | N | É | A |  |  |
+
+| 6B | Lakástakarékpénztár adatai |  |  |  | N | É | A |  |  |
+
+| 6CA | Lakástakarékpénztár – Termékösszetétel (értéken) |  |  |  | N | É | A |  |  |
+
+| 6CB | Lakástakarékpénztár – Termékösszetétel (darabszám) |  |  |  | N | É | A |  |  |
+
+| 6DA | Jelzálog-hitelintézet adatai (forintban) |  | H |  | N | É | A |  |  |
+
+| 6DB | Jelzálog-hitelintézet adatai (EURO, USD, CHF) |  | H |  | N | É | A |  |  |
+
+| 6E | Lakástakarékpénztár – Érvényben lévő szerződések adatai |  |  |  | N | É | A |  |  |
+
+| 6F | Lakástakarékpénztár – Kiutalások (várható) adatai |  |  |  | N | É | A |  |  |
+
+| 6GA | Elszámolóház - Mérlegadatok részletezése |  | H |  | N | É | A |  |  |
+
+| 6GB | Elszámolóház – Bevételi adatok részletezése |  | H |  | N | É | A |  |  |
+
+| 7A | Eszközök – Átlagállományok |  |  |  | N | É | A |  |  |
+
+| 7B | Források – Átlagállományok |  |  |  | N | É | A |  |  |
+
+| 7C | Tájékoztató adatok |  |  |  | N | É | A |  |  |
+
+| 7F | Projektfinanszírozási hitelek |  |  |  | N | É | A |  |  |
+
+| 7G | Önálló zálogjog adatai |  |  |  | N | É | A |  |  |
+
+| 7H | Hitelintézet által folyósított hitelek és a hitelállomány alakulása |  | H |  | N | É | A |  |  |
+
+| 7I | Hitelintézet konzorciális hitelezési tevékenységének adatai |  |  |  | N | É | A |  |  |
+
+| 7J | Hitelintézet kiemelt közvetítő útján végzett záloghitelezési tevékenysége |  |  |  | N | É | A |  |  |
+
+| 7K | Hitelintézet által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok |  | H |  | N | É | A |  |  |
+
+| L5 | A negyedévben értékesített fedezeti lakóingatlanok |  |  | N |  |  |  |  |  |
+
+| 8AB | Portfolió összetétel - Kockázatvállalás ügyfelenként a legrégebben lejárt követelés szerint |  |  |  | N | É | A |  |  |
+
+| 8APT | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Összesítő |  | H |  | N | É | A |  |  |
+
+| 8APA | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Forint |  | H |  | N | É | A |  |  |
+
+| 8APB | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Euró |  | H |  | N | É | A |  |  |
+
+| 8APC | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Svájci frank |  | H |  | N | É | A |  |  |
+
+| 8APD | Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja - Egyéb deviza |  | H |  | N | É | A |  |  |
+
+| 8NACT | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Összesítő |  | H |  | N | É | A |  |  |
+
+| 8NACA | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Forint |  | H |  | N | É | A |  |  |
+
+| 8NACB | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Euró |  | H |  | N | É | A |  |  |
+
+| 8NACC | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Svájci frank |  | H |  | N | É | A |  |  |
+
+| 8NACD | Portfolió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Egyéb deviza |  | H |  | N | É | A |  |  |
+
+| 8C | Értékvesztés és értékvesztés visszaírása |  |  |  | N | É | A |  |  |
+
+| 8D | Céltartalék változása |  |  |  | N | É | A |  |  |
+
+| 8E | Értékelési különbözet változása |  |  |  | N | É | A |  |  |
+
+| 8PBB | Portfolió összetétel - Minősítés - Fedezetek figyelembevételével |  |  |  | N | É | A |  |  |
+
+| 8PBC | Átstrukturált hitelek állományának alakulása |  |  |  | N | É | A |  |  |
+
+| 8PBF | Fedezetek, biztosítékok és egyéb mérlegen kívüli tételek |  |  |  | N | É | A |  |  |
+
+| 9AA | Kamatkockázat elemzés (HUF) |  |  |  | N | É | A |  |  |
+
+| 9AB | Kamatkockázat elemzés (EUR) |  |  |  | N | É | A |  |  |
+
+| 9AC | Kamatkockázat elemzés (USD) |  |  |  | N | É | A |  |  |
+
+| 9AD | Kamatkockázat elemzés (CHF) |  |  |  | N | É | A |  |  |
+
+| 9AE | Kamatkockázat elemzés (GBP) |  |  |  | N | É | A |  |  |
+
+| 9AF | Kamatkockázat elemzés (JPY) |  |  |  | N | É | A |  |  |
+
+| 9AG1 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 1. deviza) |  |  |  | N | É | A |  |  |
+
+| 9AG2 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 2. deviza) |  |  |  | N | É | A |  |  |
+
+| 9AG3 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 3. deviza) |  |  |  | N | É | A |  |  |
+
+| 9AG4 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 4. deviza) |  |  |  | N | É | A |  |  |
+
+| 9AG5 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 5. deviza) |  |  |  | N | É | A |  |  |
+
+| 9AG6 | Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó 6. deviza) |  |  |  | N | É | A |  |  |
+
+| 9D | Pénzmosással és terrorizmus finanszírozásával kapcsolatos adatok |  |  |  | N | É | A |  |  |
+
+| 9FA | Fogyasztói panaszügyekre vonatkozó adatok I |  |  |  | N | É | A |  |  |
+
+| 9FB | Fogyasztói panaszügyekre vonatkozó adatok II |  |  |  | N | É | A |  |  |
+
+| 9I | Informatikai adatok |  |  |  | N | É |  |  |  |
+
+| 10GA | Legnagyobb betétesek |  |  |  | N | É | A |  |  |
+
+| 10GB | Tulajdonosoktól és személyektől származó források |  |  |  | N | É | A |  |  |
+
+| 10GC | Befektetésektől származó források |  |  |  | N | É | A |  |  |
+
+| 11AA | Tulajdonosi szerkezet 1 |  |  |  | N | É | A |  |  |
+
+| 11AB | Tulajdonosi szerkezet 2 |  |  |  | N | É | A |  |  |
+
+| 11AC | Szövetkezeti hitelintézetek tagságával és részjegyállományával kapcsolatos adatok |  |  |  | N | É | A |  |  |
+
+| 14A | Mérleg – következő év végére várható állományok |  |  |  |  | É |  |  | V |
+
+| 14B | Eredmény - következő év végére várható adatok |  |  |  |  | É |  |  | V |
+
+| 14HD | Mikro-, kis- és középvállalkozások részesedése a hitelintézetek által a vállalkozásoknak folyósított hitelekből és hitelállománya |  | H |  | N | É | A |  |  |
+
+| 14ND | Mikro-, kis- és középvállalkozások részére a hitelintézetek által nyújtott hitelek - portfólió minősítése |  |  |  | N | É | A |  |  |
+
+| 15B | Saját számlás kereskedési könyvi pozíciók | ENa |  |  |  |  |  |  |  |
+
+| 15C | Kereskedési könyvbe nem kereskedési könyvből átsorolt tételek |  |  |  |  |  |  |  | V |
+
+| 15D | Kereskedési könyvből nem kereskedési könyvbe átsorolt tételek |  |  |  |  |  |  |  | V |
+
+| 16BA | Ügyfél törzsadatok analitikája* * a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | E |  |  |  |  |  |
+
+| 16BB | Hitelek analitikája* * a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | E |  |  |  |  |  |
+
+| 16BC | Mérlegen kívüli kötelezettségek analitikája* * a 20AB negyedéves beszámolót készítő hitelintézetek |  |  | E |  |  |  |  |  |
+
+| 20AA | Összevont felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója |  |  |  | N | É | A |  |  |
+
+| 20AB | Összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolója |  |  |  | N | É | A |  |  |
+
+| 20ABU | Kérdőív az összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolójához |  |  |  | N | É | A |  |  |
+
+| HAD | Hitelintézet felügyeleti alapdíj számítása (éves) |  |  |  |  | É |  |  |  |
+
+| HVDN | Hitelintézet felügyeleti változó díj számítása (negyedéves) |  |  |  | N | É |  |  |  |
+
+| PVAD | Pénzügyi vállalkozás felügyeleti alapdíj számítása (éves)* * Prudenciális szempontból hitelintézetnek minősülő pénzügyi vállalkozás |  |  |  |  | É |  |  |  |
+
+| PVVDN | Pénzügyi vállalkozás felügyeleti változó díj számítása (negyedéves)* * Prudenciális szempontból hitelintézetnek minősülő pénzügyi vállalkozás |  |  |  | N | É |  |  |  |
+
+| A1AB | Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) |  |  |  |  |  |  |  | ÉA |
+
+| A1AN | Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) |  |  |  |  |  |  |  | ÉA |
+
+| A1B | Évközi auditált jelentés - Felügyeleti mérleg (Források) |  |  |  |  |  |  |  | ÉA |
+
+| A2A | Évközi auditált jelentés - Eredménykimutatás |  |  |  |  |  |  |  | ÉA |
+
+| Jelentés gyakoriságának kódja | Rendszeresen küldendő jelentések |  |  |  |  |  |  |  |  |
+
+| Na | Napi jelentés |  |  |  |  |  |  |  |  |
+
+| H | Havonta küldendő jelentés |  |  |  |  |  |  |  |  |
+
+| N | Negyedévente küldendő jelentés |  |  |  |  |  |  |  |  |
+
+| É | Évente küldendő jelentés |  |  |  |  |  |  |  |  |
+
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |  |  |  |  |
+
+| ÉA | Évközi auditált jelentés |  |  |  |  |  |  |  |  |
+
+| ENa | Előkészített napi jelentés |  |  |  |  |  |  |  |  |
+
+| E | Előkészített jelentés |  |  |  |  |  |  |  |  |
+
+| V | Eseti jelentés (változás esetén) |  |  |  |  |  |  |  |  |
+
+| Jelentés gyakoriságának kódja | Felügyeleti jelentéssel együtt kötelezően beküldendő mellékletek megnevezése | Rövid név |  |  |  |  |  |  |  |
+
+| N | Negyedévente küldendő jelentés |  |  |  |  |  |  |  |  |
+
+|  | Az összevont felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója (20AA) | szovjelöf |  |  |  |  |  |  |  |
+
+|  | Nem összevont felügyelet alá tartozó hitelintézet rendszeres negyedéves beszámolója (20AB) | szovjelnöf |  |  |  |  |  |  |  |
+
+|  | Nem összevont felügyelet alá tartozó hitelintézet rendszeres negyedéves kérdőíve (20ABU) | szovjelkiv |  |  |  |  |  |  |  |
+
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |  |  |  |  |
+
+|  | Az összevont felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója (20AA) | szovjelöf |  |  |  |  |  |  |  |
+
+|  | Nem összevont felügyelet alá tartozó hitelintézet rendszeres negyedéves beszámolója (20AB) | szovjelnöf |  |  |  |  |  |  |  |
+
+|  | Nem összevont felügyelet alá tartozó hitelintézet rendszeres negyedéves kérdőíve (20ABU) | szovjelkiv |  |  |  |  |  |  |  |
+
+|  | Éves beszámoló – mérleg | merleg |  |  |  |  |  |  |  |
+
+|  | Éves beszámoló – eredménykimutatás | erkim |  |  |  |  |  |  |  |
+
+|  | Éves beszámoló – cash-flow | cashflow |  |  |  |  |  |  |  |
+
+|  | Éves beszámoló – kiegészítő melléklet | kiegmell |  |  |  |  |  |  |  |
+
+|  | Könyvvizsgálói záradék vagy jelentés | konyvzar |  |  |  |  |  |  |  |
+
+|  | Közgyűlési határozat vagy jegyzőkönyv | kozgyhat |  |  |  |  |  |  |  |
+
+|  | Adózott eredmény felhasználására vonatkozó határozat | erfeloszt |  |  |  |  |  |  |  |
+
+|  | Üzleti jelentés | uzljel |  |  |  |  |  |  |  |
+
+| ÉA | Évközi auditált jelentés |  |  |  |  |  |  |  |  |
+
+|  | Évközi auditált beszámoló – mérleg | evkmerleg |  |  |  |  |  |  |  |
+
+|  | Évközi auditált beszámoló – eredménykimutatás | evkerkim |  |  |  |  |  |  |  |
+
+|  | Évközi audit – Könyvvizsgálói záradék vagy jelentés | evkkonyvzar |  |  |  |  |  |  |  |
+
+| ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK - HITELINTÉZETI FIÓKTELEPEK |
+
+| Táblakód | Megnevezés | Fióktelepek |
+
+| MNB-PSZÁF közös táblák |
+
+| F1AB | Fióktelep – Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) | H |  | N | É | A |  |  |
+
+| F1AN | Fióktelep – Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) | H |  | N | É | A |  |  |
+
+| F1B | Fióktelep – Felügyeleti mérleg (Források) | H |  | N | É | A |  |  |
+
+| F1C | Fióktelep – Mérlegtételekhez kapcsolódó tájékoztató adatok | H |  | N | É | A |  |  |
+
+| F1E | Fióktelep – Tranzakciók számításához szükséges adatok | H |  | N | E | A |  |  |
+
+| F1F | Fióktelep – Értékpapírosítással kapcsolatos adatok | H |  | N | É | A |  |  |
+
+| F1G | Fióktelep – Eszköz és forrástételek hó végi állományának devizaszerkezete (hitelek bruttó, értékpapírok nettó könyv szerinti értéken) | H |  | N | É | A |  |  |
+
+| F2A | Fióktelep – Eredménykimutatás | H |  | N | É | A |  |  |
+
+| PSZÁF táblák |
+
+| F3CB | Fióktelep – Mérlegen kívüli tételek – Függő és jövőbeni kötelezettségek, származtatott és azonnali ügyletek | H |  | N | É | A |  |  |
+
+| F3I | Fióktelep – Tulajdonosi kapcsolatok | H |  | N | É | A |  |  |
+
+| F3J1 | Fióktelep – Valós értékelést nem alkalmazó fióktelepek - értékpapírok értékelési portfóliók szerinti adatai | H |  | N | É | A |  |  |
+
+| F3J2 | Fióktelep – Valós értékelést alkalmazó fióktelepek - értékpapírok értékelési portfóliók szerinti adatai | H |  | N | É | A |  |  |
+
+| F3K1 | Fióktelep – Lejáratig tartott értékpapírok közül a tárgynegyedévben kereskedési célúvá vagy értékesíthetővé átsorolt tételek |  |  | N | É | A |  |  |
+
+| F3K2 | Fióktelep – Kereskedési célú értékpapírok közül a tárgynegyedévben nem kereskedési célúvá átsorolt értékpapírok |  |  | N | É | A |  |  |
+
+| F4AT | Fióktelep – Lejárati összhang elemzés - összesítő | H |  | N | É | A |  |  |
+
+| F4AA | Fióktelep – Lejárati összhang elemzés - HUF | H |  | N | É | A |  |  |
+
+| F4AB | Fióktelep – Lejárati összhang elemzés - EUR | H |  | N | É | A |  |  |
+
+| F4AC | Fióktelep – Lejárati összhang elemzés - USD | H |  | N | É | A |  |  |
+
+| F4AD | Fióktelep – Lejárati összhang elemzés - CHF | H |  | N | É | A |  |  |
+
+| F4AE | Fióktelep – Lejárati összhang elemzés - Egyéb devizák | H |  | N | É | A |  |  |
+
+| F4B | Fióktelep – Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról | H |  | N | É | A |  |  |
+
+| F5B | Fióktelep – Bankközi állományok adatai | H |  | N | É | A |  |  |
+
+| F6B | Lakástakarékpénztár fióktelep adatai |  |  | N | É | A |  |  |
+
+| F6CA | Lakástakarékpénztár fióktelep – Termékösszetétel (értéken) |  |  | N | É | A |  |  |
+
+| F6CB | Lakástakarékpénztár fióktelep – Termékösszetétel (darabszám) |  |  | N | É | A |  |  |
+
+| F6D | Jelzálog–hitelintézet fióktelep adatai | H |  | N | É | A |  |  |
+
+| F6E | Lakás–takarékpénztár fióktelep – Érvényben lévő szerződések adatai |  |  | N | É | A |  |  |
+
+| F6F | Lakástakarékpénztár fióktelep – Kiutalások (várható) adatai |  |  | N | É | A |  |  |
+
+| F7C | Fióktelep – Tájékoztató adatok |  |  | N | É | A |  |  |
+
+| F7EB | Fióktelep – Lebonyolításra átvett hitelek |  |  | N | É | A |  |  |
+
+| F7F | Fióktelep – Projektfinanszírozási hitelek |  |  | N | É | A |  |  |
+
+| F7H | Fióktelep által folyósított hitelek és a hitelállomány alakulása | H |  | N | É | A |  |  |
+
+| F7K | Fióktelep által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok | H |  | N | É | A |  |  |
+
+| L5 | A negyedévben értékesített fedezeti lakóingatlanok |  | N |  |  |  |  |  |
+
+| F8APT | Fióktelep – Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja – Összesítő | H |  | N | É | A |  |  |
+
+| F8APA | Fióktelep – Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja – Forint | H |  | N | É | A |  |  |
+
+| F8APB | Fióktelep – Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja – Euró | H |  | N | É | A |  |  |
+
+| F8APC | Fióktelep – Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja – Svájci frank | H |  | N | É | A |  |  |
+
+| F8APD | Fióktelep – Portfolió elemzés – Kiemelt hiteltermékek kockázati monitoringja – Egyéb deviza | H |  | N | É | A |  |  |
+
+| F8NACT | Fióktelep – Portfolió összetétel – Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Összesítő | H |  | N | É | A |  |  |
+
+| F8NACA | Fióktelep – Portfolió összetétel – Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Forint | H |  | N | É | A |  |  |
+
+| F8NACB | Fióktelep – Portfolió összetétel – Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Euró | H |  | N | É | A |  |  |
+
+| F8NACC | Fióktelep – Portfolió összetétel – Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Svájci frank | H |  | N | É | A |  |  |
+
+| F8NACD | Fióktelep – Portfolió összetétel – Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) - Egyéb deviza | H |  | N | É | A |  |  |
+
+| F8PBB | Fióktelep – Portfolió elemzés – Minősítés - Fedezetek figyelembevételével |  |  | N | É | A |  |  |
+
+| F8PBC | Fióktelep – Átstrukturált hitelek állományának alakulása |  |  | N | É | A |  |  |
+
+| F8PBF | Fióktelep – Fedezetek, biztosítékok és egyéb mérlegen kívüli tételek |  |  | N | É | A |  |  |
+
+| F9D | Fióktelep – Pénzmosással és terrorizmus finanszírozásával kapcsolatos adatok |  |  | N | É | A |  |  |
+
+| F9FA | Fióktelep – Fogyasztói panaszügyekre vonatkozó adatok I |  |  | N | É | A |  |  |
+
+| F9FB | Fióktelep – Fogyasztói panaszügyekre vonatkozó adatok II |  |  | N | É | A |  |  |
+
+| F10GA | Fióktelep – Legnagyobb betétesek |  |  | N | É | A |  |  |
+
+| F14HD | Fióktelep – Mikro-, kis- és középvállalkozások részesedése a fióktelepek által a vállalkozásoknak folyósított hitelekből és hitelállománya | H |  | N | É | A |  |  |
+
+| F14ND | Fióktelep – Mikro-, kis- és középvállalkozások részére a fióktelepek által nyújtott hitelek - portfólió minősítése |  |  | N | É | A |  |  |
+
+| F20A | Fióktelepek rendszeres negyedéves beszámolója |  |  | N | É | A |  |  |
+
+| HFAD | EU tagállami hitelintézet fióktelepe felügyeleti alapdíj számítása (éves) |  |  |  | É |  |  |  |
+
+| HFVDN | EU tagállami hitelintézet fióktelepe felügyeleti változó díj számítása (negyedéves) |  |  | N | É |  |  |  |
+
+| Jelentés gyakoriságának kódja | Rendszeresen küldendő jelentések |  |  |  |  |  |  |  |
+
+| H | Havonta küldendő jelentés |  |  |  |  |  |  |  |
+
+| N | Negyedévente küldendő jelentés |  |  |  |  |  |  |  |
+
+| É | Évente küldendő jelentés |  |  |  |  |  |  |  |
+
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |  |  |  |
+
+| Jelentés gyakoriságának kódja | Felügyeleti jelentéssel együtt kötelezően beküldendő mellékletek megnevezése | Rövid név |  |  |  |  |  |  |
+
+| N | Negyedévente küldendő jelentés |  |  |  |  |  |  |  |
+
+|  | Fióktelep - Negyedéves szöveges jelentés (F20A) | szovjelfiok |  |  |  |  |  |  |
+
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |  |  |  |
+
+|  | Fióktelep - Negyedéves szöveges jelentés (F20A) | szovjelfiok |  |  |  |  |  |  |
+
+|  | Éves beszámoló – mérleg | merleg |  |  |  |  |  |  |
+
+|  | Éves beszámoló – eredménykimutatás | erkim |  |  |  |  |  |  |
+
+|  | Éves beszámoló – cash-flow | cashflow |  |  |  |  |  |  |
+
+|  | Éves beszámoló – kiegészítő melléklet | kiegmell |  |  |  |  |  |  |
+
+|  | Könyvvizsgálói záradék vagy jelentés | konyvzar |  |  |  |  |  |  |
+
+|  | Közgyűlési határozat vagy jegyzőkönyv* | kozgyhat |  |  |  |  |  |  |
+
+|  | Üzleti jelentés | uzljel |  |  |  |  |  |  |
+
+| ÖSSZEFOGLALÓ TÁBLA KONSZOLIDÁLT JELENTÉSEK - HITELINTÉZETEK |
+
+| Táblakód | Megnevezés | KONSZOLIDÁLT ADATSZOLGÁLTATÁS |
+
+| Konszolidált táblák |
+
+| 12A | Összevont alapú mérleg – Eszközök |  |  | N | A |
+
+| 12B | Összevont alapú mérleg – Források |  |  | N | A |
+
+| 12C | Összevont alapú mérlegen kívüli tételek |  |  | N | A |
+
+| 12D | Összevont alapú eredménykimutatás |  |  | N | A |
+
+| 12EA | Összevont alapú felügyelet alá "bevont" vállalkozások |  |  | N | A |
+
+| 12EB | Összevont alapú felügyelet alá nem került vállalkozások |  |  | N | A |
+
+| 13JB | Összevont alapú portfolió elemzés - Minősítés |  |  | N | A |
+
+| 13JC | Összevont alapú portfolió elemzés - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) |  |  | N | A |
+
+| 13KA | Belföldi pénzügyi szervezetek adatai |  |  | N | A |
+
+| 13KB | Külföldi pénzügyi szervezetek adatai |  |  | N | A |
+
+| KONSZDMM | Havi jelentés a devizafinanszírozás megfelelési mutatóról-Konszolidált tételek | EH |  |  |  |
+
+| KDMM | Havi jelentés kiegészítő adatokról – Konszolidált tételek | EH |  |  |  |
+
+| Jelentés gyakoriságának kódja | Rendszeresen küldendő jelentések |  |  |  |  |
+
+| N | Negyedévente küldendő jelentés |  |  |  |  |
+
+| EH | Előkészített havi jelentés |  |  |  |  |
+
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |
+
+| Jelentés gyakoriságának kódja | Felügyeleti jelentéssel együtt kötelezően beküldendő mellékletek megnevezése | Rövid név |  |  |  |
+
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |
+
+|  | Konszolidált éves auditált beszámoló – mérleg | konszmerleg |  |  |  |
+
+|  | Konszolidált éves auditált beszámoló – eredménykimutatás | konszerkim |  |  |  |
+
+|  | Konszolidált éves auditált beszámoló – cash-flow | konszcashflow |  |  |  |
+
+|  | Konszolidált éves auditált beszámoló – saját tőke változása | konsztokevalt |  |  |  |
+
+|  | Konszolidált éves auditált beszámoló – kiegészítő melléklet | konszkiegmell |  |  |  |
+
+|  | Konszolidált éves auditált beszámoló – Közgyűlési határozat vagy jegyzőkönyv | konszkozgyhat |  |  |  |
+
+|  | Konszolidált éves auditált beszámoló – könyvvizsgálói záradék vagy jelentés | konszkonyvzar |  |  |  |
+
+## 20110G20000019_3
+
+2. melléklet a 19/2011. (X. 20.) PSZÁF rendelethez[^10]
 
 KITÖLTÉSI ÚTMUTATÓ
 
-TARTALOMJEGYZÉK
-
-| I. | RÉSZ | 7 |
-
-| AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK | 7 |
-
-| I.1. Kapcsolódó jogszabályok | 7 |
-
-| I.2. Rövidítések | 9 |
-
-| I.3. Fogalmak | 9 |
-
-| I.4. Az adatszolgáltatás formai követelményei | 14 |
-
-| I.5. Az adatszolgáltatás tartalmi követelményei | 16 |
-
-| II. | RÉSZ | 21 |
-
-| AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ RÉSZLETES SZABÁLYOK | 21 |
-
-| II. 1. Egyedi adatszolgáltatás | 21 |
-
-|  | II.1.1. Egyedi adatszolgáltatás - Részvénytársasági és szövetkezeti hitelintézetek | 21 |
-
-|  | 1AB Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) | 21 |
-
-|  | 1AN Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) | 30 |
-
-|  | 1B Felügyeleti mérleg (Források) | 31 |
-
-|  | 1C Mérlegtételekhez kapcsolódó tájékoztató adatok | 37 |
-
-|  | 1D Eladott eszközök halasztott fizetéssel, illetve visszavásárlási kötelezettséggel | 41 |
-
-|  | 1E Tranzakciók számításához szükséges adatok | 42 |
-
-|  | 1F Értékpapírosítással kapcsolatos adatok | 43 |
-
-|  | 1G Eszköz és forrástételek hóvégi állományának devizaszerkezete (hitelek bruttó, értékpapírok nettó könyv szerinti értéken) | 44 |
-
-|  | 2A Eredménykimutatás | 44 |
-
-|  | 2C Eredményadatok részletezése | 56 |
-
-|  | 3DBA - 3DBE Származtatott ügyletek | 60 |
-
-|  | 3H Hátrasorolt követelések és kötelezettségek | 64 |
-
-|  | 3I Tulajdonosi kapcsolatok | 65 |
-
-|  | 3J1 - 3J2 Értékpapírok értékelési adatai | 66 |
-
-|  | 3K1 - 3K2 Lejáratig tartott, kereskedési célú vagy értékesíthető értékpapír potfolióban tárgynegyedévben történt átsorolások | 69 |
-
-|  | 4AT - 4AE Lejárati összhang elemzés | 70 |
-
-|  | 4B Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról | 75 |
-
-|  | 4E Egyes betétek és letétek azonosítása | 77 |
-
-|  | 4LAN Egyes mérlegtételek könyv szerinti bruttó állománya | 79 |
-
-|  | DMM - Havi jelentés a devizafinanszírozás megfelelési mutatóról | 81 |
-
-|  | 5A Hpt. előírások vizsgálata | 90 |
-
-|  | 5B Bankközi állományok adatai | 95 |
-
-|  | 5H Határon átnyúló tevékenység | 95 |
-
-|  | 6B Lakástakarékpénztár adatai | 96 |
-
-|  | 6CA és 6CB Lakástakarékpénztár - Termékösszetétel értéken és darabszámban | 99 |
-
-|  | 6DA és 6DB Jelzálog-hitelintézet adatai forintban és főbb devizákban | 100 |
-
-|  | 6E Lakástakarékpénztár - Érvényben lévő szerződések adatai | 101 |
-
-|  | 6F Lakástakarékpénztár - Kiutalások (várható) adatai | 102 |
-
-|  | 6G Elszámolóház - Mérleg- és bevételi adatok részletezése (6GA és 6GB) | 104 |
-
-|  | 7A Eszközök - Átlagállományok | 107 |
-
-|  | 7B Források - Átlagállományok | 109 |
-
-|  | 7C Tájékoztató adatok | 110 |
-
-|  | 7F Projektfinanszírozási hitelek | 113 |
-
-|  | 7G Önálló zálogjog adatai | 114 |
-
-|  | 7H Hitelintézet által folyósított hitelek és a hitelállomány alakulása | 116 |
-
-|  | 7I Hitelintézet konzorciális hitelezési tevékenységének adatai | 117 |
-
-|  | 7J Hitelintézet kiemelt közvetítő útján végzett záloghitelezési tevékenysége | 118 |
-
-|  | 7K Hitelintézetek által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok | 119 |
-
-|  | L5- A negyedévben értékesített fedezeti lakóingatlanok | 122 |
-
-|  | 8AB Portfólió összetétel - Kockázatvállalás ügyfelenként a legrégebben lejárt követelés szerint (bruttó könyv szerinti / nyilvántartási értéken) | 123 |
-
-|  | 8APT-8APD Portfolió elemzés - Kiemelt hiteltermékek kockázati monitoringja | 127 |
-
-|  | 8NACT-8NACD Portfólió összetétel - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) | 130 |
-
-|  | 8C Értékvesztés és értékvesztés visszaírása | 135 |
-
-|  | 8D Céltartalék változása | 136 |
-
-|  | 8E Értékelési különbözet változása | 138 |
-
-|  | 8PBB Portfolió összetétel - Minősítés - Fedezetek figyelembevételével | 139 |
-
-|  | 8PBC Átstrukturált hitelek állományának alakulása | 145 |
-
-|  | 8PBF Fedezetek, biztosítékok és egyéb mérlegen kívüli tételek | 146 |
-
-|  | 9AA- 9AF Kamatkockázat elemzés (HUF, EUR, USD, CHF, GBP, JPY) | 150 |
-
-|  | 9AG1- 9AG6 Kamatkockázat elemzés (a küszöbértéket elérő vagy meghaladó devizák) | 150 |
-
-|  | 9D Pénzmosással és terrorizmus finanszírozásával kapcsolatos adatok | 153 |
-
-|  | 9FA Fogyasztói panaszügyekre vonatkozó adatok I. | 157 |
-
-|  | 9FB Fogyasztói panaszügyekre vonatkozó adatok II. | 157 |
-
-|  | 9I Informatikai adatok | 159 |
-
-| 10GA-10GC Legnagyobb betétesek; Tulajdonosoktól, személyektől-Befetetésektől származó források 159 |
-
-|  | 11AA - 11AB Tulajdonosi szerkezet 1 és 2 | 161 |
-
-|  | 11AC Szövetkezeti hitelintézetek tagságával és részjegyállományával kapcsolatos adatok | 165 |
-
-|  | 14A Mérleg - Következő év végére várható állományok | 166 |
-
-|  | 14B Eredmény - Következő év végére várható adatok | 167 |
-
-|  | 14HD Mikro-, kis- és középvállalkozások részesedése a hitelintézetek által a vállalkozásoknak folyósított hitelekből és a hitel állománya | 167 |
-
-| 14ND Mikro-, kis- és középvállalkozások részére a hitelintézetek által nyújtott hitelek - portfólió minősítése 169 |
-
-|  | 15B Saját számlás kereskedési könyvi pozíciók | 169 |
-
-|  | 15C Kereskedési könyvbe nem kereskedési könyvből átsorolt tételek | 171 |
-
-|  | 15D Kereskedési könyvből nem kereskedési könyvbe átsorolt tételek | 172 |
-
-|  | 16BA-16BC Előkészített jelentések a 20AB negyedéves beszámolót készítő hitelintézetek hitelezéssel és mérlegen kívüli (függő jövőbeni) kötelezettség-vállalással kapcsolatos ügyfél- és állományi analitikus nyilvántartásainak a felügyeleti ellenőrzéshez elvárt adattartalmáról | 173 |
-
-|  | 16BA Ügyfél törzsadatok analitikája | 173 |
-
-|  | 16BB Hitelek analitikája | 175 |
-
-|  | 16BC Mérlegen kívüli kötelezettségek analitikája | 178 |
-
-|  | 20A Hitelintézetek rendszeres negyedéves beszámolója | 181 |
-
-|  | 20AA Összevont felügyelet alá tartozó hitelintézetek rendszeres negyedéves beszámolója | 181 |
-
-|  | 20AB Összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolója | 185 |
-
-| 20ABU Kérdőív az összevont felügyelet alá nem tartozó hitelintézet rendszeres negyedéves beszámolójához 188 |
-
-|  | HAD Hitelintézet felügyeleti alapdíj számítása | 188 |
-
-|  | HVDN Hitelintézet felügyeleti változó díj számítása | 188 |
-
-|  | PVAD Pénzügyi vállalkozás felügyeleti alapdíj számítása | 190 |
-
-|  | PVVDN Pénzügyi vállalkozás felügyeleti változó díj számítása | 190 |
-
-|  | KTAHE1 - KTAHE6: Hitelintézeti törzsadatok (éves és eseti) | 192 |
-
-|  | HPTPK Pénzügyi közvetítők adatai | 195 |
-
-|  | PKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye | 200 |
-
-|  | PKVEZ Független közvetítők vezető állású személyei | 201 |
-
-|  | Évközi auditált jelentés | 203 |
-
-|  | A1AB Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) | 203 |
-
-|  | A1AN Évközi auditált jelentés - Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) | 203 |
-
-|  | A1B Évközi auditált jelentés - Felügyeleti mérleg (Források) | 203 |
-
-|  | A2A Évközi auditált jelentés - Eredménykimutatás | 203 |
-
-|  | II.1.2. Egyedi adatszolgáltatás - Hitelintézeti fióktelepek | 204 |
-
-|  | F1AB Fióktelep - Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal) | 204 |
-
-|  | F1AN Fióktelep - Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal) | 204 |
-
-|  | F1B Fióktelep - Felügyeleti mérleg (Források) | 204 |
-
-|  | F1C Fióktelep - Mérlegtételekhez kapcsolódó tájékoztató adatok | 204 |
-
-|  | F1E Fióktelep - Tranzakciók számításához szükséges adatok | 204 |
-
-|  | F1F Fióktelep - Értékpapírosítással kapcsolatos adatok | 204 |
-
-|  | F1G Fióktelep - Eszköz és forrástételek hóvégi állományának devizaszerkezete | 204 |
-
-|  | F2A Fióktelep - Eredménykimutatás | 204 |
-
-|  | F3I Fióktelep - Tulajdonosi kapcsolatok | 205 |
-
-|  | F3J1 Fióktelep - Valós értékelést nem alkalmazó hitelintézetek - értékpapírok értékelési adatai | 205 |
-
-|  | F3J2 Fióktelep - Valós értékelést alkalmazó hitelintézetek - Értékpapírok értékelési portfóliók szerinti adatai | 205 |
-
-|  | F3K1 Fióktelep - Lejáratig tartott értékpapírok közül a tárgynegyedévben kereskedési célúvá vagy értékesíthetővé átsorolt tételek | 206 |
-
-|  | F3K2 Fióktelep - Kereskedési célú értékpapírok közül a tárgynegyedévben nem kereskedési célúvá átsorolt értékpapírok | 206 |
-
-|  | F4AT - F4AE Fióktelep - Lejárati összhang elemzés | 206 |
-
-|  | F4B Fióktelep - Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról | 206 |
-
-|  | F5B Fióktelep - Bankközi állományok adatai | 206 |
-
-|  | F6B Lakástakarékpénztár fióktelep adatai | 206 |
-
-|  | F6CA és F6CB Lakástakarékpénztár fióktelep - Termékösszetétel értéken és darabszám | 206 |
-
-|  | F6D Jelzálog-hitelintézet fióktelep adatai | 207 |
-
-|  | F6E Lakástakarékpénztár fióktelep - Érvényben lévő szerződések adatai | 207 |
-
-|  | F6F Lakástakarékpénztár fióktelep - Kiutalások (várható) adatai | 207 |
-
-|  | F7C Fióktelep - Tájékoztató adatok | 207 |
-
-|  | F7EB Fióktelep - Lebonyolításra átvett hitelek | 208 |
-
-|  | F7F Fióktelep - Projektfinanszírozási hitelek | 208 |
-
-|  | F7H Fióktelep által folyósított hitelek és a hitelállomány alakulása | 209 |
-
-|  | F7K Fióktelep által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok | 209 |
-
-|  | L5 A negyedévben értékesített fedezeti lakóingatlanok | 209 |
-
-|  | F8APT-F8APD Fióktelep - Portfolió elemzés - Kiemelt hiteltermékek kockázati monitoringja | 209 |
-
-|  | F8NACT - F8NACD Fióktelep - Portfólió összetétel -Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) | 209 |
-
-|  | F8PBB Fióktelep - Portfólió elemzés - Minősítés | 210 |
-
-|  | F8PBC Fióktelep - Átstrukturált hitelek állományának alakulása | 210 |
-
-|  | F8PBF Fióktelep - Fedezetek, biztosítékok és egyéb mérlegen kívüli tételek | 210 |
-
-|  | F9D Fióktelep - Pénzmosással és terrorizmus finanszírozásával kapcsolatos adatok | 210 |
-
-|  | F9FA Fióktelep - Fogyasztói panaszügyekre vonatkozó adatok I | 210 |
-
-|  | F9FB Fióktelep - Fogyasztói panaszügyekre vonatkozó adatok II | 210 |
-
-|  | F10GA Fióktelep - Legnagyobb betétesek | 210 |
-
-|  | F14HD Fióktelep - Mikro-, kis- és középvállalkozások részesedése a vállalkozásoknak folyósított hitelekből és a hitel állománya | 210 |
-
-|  | F14ND Fióktelep - Mikro-, kis- és középvállalkozások részére nyújtott hitelek - portfólió minősítése | 210 |
-
-|  | F20A Fióktelepek rendszeres negyedéves beszámolója | 211 |
-
-|  | HFAD EU tagállami hitelintézet fióktelepe felügyeleti alapdíj számítása | 214 |
-
-|  | HFVDN EU tagállami hitelintézet fióktelepe felügyeleti változó díj számítása | 214 |
-
-|  | KTAFHE1, KTAFHE2, KTAFHE5, KTAFHE6: Hitelintézeti fióktelepi törzsadatok | 216 |
-
-|  | HPTPK Pénzügyi közvetítők adatai | 218 |
-
-|  | PKVEZ Független közvetítők vezető állású személyei | 218 |
-
-|  | PKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye | 218 |
-
-|  | II.2. Konszolidált adatszolgáltatás | 219 |
-
-|  | 12A-12B Összevont alapú mérleg - eszközök és források | 219 |
-
-|  | 12C Összevont alapú mérlegen kívüli tételek | 219 |
-
-|  | 12D Összevont alapú eredménykimutatás | 219 |
-
-|  | 12EA-12EB Összevont alapú felügyelet alá "bevont", illetve "nem került" vállalkozások | 220 |
-
-|  | 13JB Összevont alapú portfólió elemzés - Minősítés | 222 |
-
-|  | 13JC Összevont alapú portfolió elemzés - kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) | 222 |
-
-| 13KA-13KB Összevont alapú felügyelet alá vont pénzügyi szervezetek adatai (Belföldi, Külföldi) 222 |
-
-| KONSZDMM - Havi jelentés a devizafinanszírozás megfelelési mutatóról - Konszolidált tételek 223 |
-
-|  | KDMM - Havi jelentés kiegészítő adatokról - Konszolidált tételek | 223 |
-
-| III. RÉSZ | 224 |
-
-| SEGÉDLETEK | 224 |
-
-| III.1. Segédanyag a panasz-statisztikai kitöltési útmutatóhoz | 224 |
-
-| III.2. TEÁOR | 228 |
-
 I. RÉSZ
 
-AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
-
-Tartalma:
-
-I.1. Kapcsolódó jogszabályok
-
-I.2. Rövidítések
-
-I.3. Fogalmak
-
-I.4. Az adatszolgáltatás formai követelményei
-
-I.5. Az adatszolgáltatás tartalmi követelményei
+ÁLTALÁNOS SZABÁLYOK
 
 I.1. Kapcsolódó jogszabályok
 
@@ -586,7 +766,7 @@ I.3. Fogalmak
 
 34. Hitelleírás (a tranzakciók kiszámításához szükséges adatokat tartalmazó 1E táblában): az előző hónap végén még a mérlegben szereplő hitel- és hiteljellegű követelések leírása, valamint azok törlesztésekkel csökkentett szerződés szerinti, illetve bruttó könyv szerinti értéke alatti eladása a tárgyhónapban.
 
-35. Hitelviszonyt megtestesítő értékpapír: e R. vonatkozásában a Szmt. 3. § (6) bekezdés 2. pontja szerint meghatározott fogalom, a felügyeleti mérleg szempontjából ide nem értve a határozott idejű befektetési alap által kibocsátott befektetési jegyet. (Lásd a 76. fogalmat.)
+35. Hitelviszonyt megtestesítő értékpapír: a R. vonatkozásában a Szmt. 3. § (6) bekezdés 2. pontja szerint meghatározott fogalom, a felügyeleti mérleg szempontjából ide nem értve a határozott idejű befektetési alap által kibocsátott befektetési jegyet. (Lásd a 76. fogalmat.)
 
 36. Intézményi változás: az adatszolgáltató MPI-k körében bekövetkező változás: összeolvadás, beolvadás, különválás, kiválás, megszűnés, átalakulás más típusú intézménnyé.
 
@@ -838,8 +1018,6 @@ Az éves jelentések közös jellemzője, hogy azokat évente egyszer köteles m
 
 • a IV. negyedévi jelentéssel együtt az előretekintő éves tervtáblákat (14A, 14B),
 
-• június 30-ra vonatkozóan a törzsadat táblákat,
-
 • január 31-ig történik a tárgyévben alapdíj fizetésére kötelezettek éves felügyeleti alapdíj bevallása, amelyet a hitelintézet a jellegének megfelelő tábla beküldésével teljesít.
 
 I.5.3. Szektor-meghatározások
@@ -876,21 +1054,21 @@ I.5.4.3.7. Az értékpapírok kölcsönbeadásából eredő értékpapír-követ
 
 I.5.4.3.8. A cash-pool és a kamat pool (notional pool) konstrukciók eltérően kezelendők a mérlegben:
 
-– a cash-pool esetén összevonódnak a részt vevő számlák egyenlegei, és a főszámla egyenlege (illetve a pool számára nyújtott hitel állománya) a pool-vezető szektorbesorolásának és rezidens-nem-rezidens státuszának megfelelően jelentendő;
+– A cash-pool esetén összevonódnak a részt vevő számlák egyenlegei, és a főszámla egyenlege (illetve a pool számára nyújtott hitel állománya) a pool-vezető szektorbesorolásának és rezidens-nem-rezidens státuszának megfelelően jelentendő.
 
-– a kamat pool esetén a poolban résztvevő számlák nem vonhatók össze. Az egyes ügyfelek számláinak egyenlegét a megfelelő szektoroknál kell kimutatni.
+– A kamat pool esetén a poolban résztvevő számlák nem vonhatók össze. Az egyes ügyfelek számláinak egyenlegét a megfelelő szektoroknál kell kimutatni.
 
 I.5.4.3.9. Kártyaelszámolásokkal kapcsolatos szabályozás:
 
 A különböző elszámolási körökben, szinteken kialakult, pénzügyileg rendezendő nettó pozíciókat az egyéb aktív, illetve passzív elszámolások között, annál a szektornál kell kimutatni, ahová az elszámolást végző intézmény tartozik:
 
-1. az I. szint esetében (bankon belüli kör; mind a kártya birtokosa, mind a kártyát elfogadó kereskedő ugyanazon hitelintézet ügyfele, vagy a birtokos a kártyáját a kibocsátó bank illetve annak megbízottja által üzemeltetett ATM-ből, illetve POS berendezésen keresztül vesz fel készpénzt) az érintett bank elszámolja a saját ügyfeleit érintő műveleteket az ügyfélszámlákon, tehát pénzügyileg a bankon kívül elrendezendő nettó pozíció nem keletkezik;
+1. Az I. szint esetében (bankon belüli kör; mind a kártya birtokosa, mind a kártyát elfogadó kereskedő ugyanazon hitelintézet ügyfele, vagy a birtokos a kártyáját a kibocsátó bank illetve annak megbízottja által üzemeltetett ATM-ből, illetve POS berendezésen keresztül vesz fel készpénzt) az érintett bank elszámolja a saját ügyfeleit érintő műveleteket az ügyfélszámlákon, tehát pénzügyileg a bankon kívül elrendezendő nettó pozíció nem keletkezik.
 
-2. a II. szint esetén (GBC kör) a GBC-vel szembeni nettó követelés, illetve tartozás az E. Pénzügyi kiegészítő tevékenységet végzőkön belül a Pénzügyi és befektetési vállalkozásokkal szembeni egyéb elszámolások között jelentendő;
+2. A II. szint esetén (GBC kör) a GBC-vel szembeni nettó követelés, illetve tartozás az E. Pénzügyi kiegészítő tevékenységet végzőkön belül a Pénzügyi és befektetési vállalkozásokkal szembeni egyéb elszámolások között jelentendő.
 
-3. a III. szint (magyarországi kibocsátású [Visa, illetve MasterCard] bankkártyával magyarországi elfogadóhelyen lebonyolított olyan tranzakciók, amelyek az I. és II. szintbe nem tartoznak bele), valamint a szponzorált bankok esetében hitelintézetekkel szembeni egyéb aktív, illetve passzív elszámolásként jelentendő a fennálló nettó összeg;
+3. A III. szint (magyarországi kibocsátású [Visa, illetve MasterCard] bankkártyával magyarországi elfogadóhelyen lebonyolított olyan tranzakciók, amelyek az I. és II. szintbe nem tartoznak bele), valamint a szponzorált bankok esetében hitelintézetekkel szembeni egyéb aktív, illetve passzív elszámolásként jelentendő a fennálló nettó összeg.
 
-4. a IV. szint (nemzetközi elszámolási körök: Magyarországon kibocsátott kártyával külföldön, vagy külföldi kibocsátású kártyával Magyarországon lebonyolított tranzakciók) esetében az ilyen jellegű követelés, illetve tartozás a VISA-val, illetve az MasterCard-dal szemben áll fenn, tehát a külfölddel szembeni egyéb aktív illetve passzív elszámolások közé kerül.
+4. A IV. szint (nemzetközi elszámolási körök: Magyarországon kibocsátott kártyával külföldön, vagy külföldi kibocsátású kártyával Magyarországon lebonyolított tranzakciók) esetében az ilyen jellegű követelés, illetve tartozás a VISA-val, illetve az MasterCard-dal szemben áll fenn, tehát a külfölddel szembeni egyéb aktív illetve passzív elszámolások közé kerül.
 
 I.5.4.3.10. A felügyeleti mérlegben szereplő eszköz és forrás tételeket mindig eredeti lejáratuk alapján kell a lejárati kategóriákba sorolni a forrás oldali felmondott hitelek kivételével. Nem befolyásolja a lejárat szerinti besorolást sem a szökőév eltérő hossza, sem az, ha az instrumentum lejárata munkaszüneti vagy bankszünnapra esik, és ezért a teljesítés az azt követő munkanapon történik meg.
 
@@ -916,21 +1094,21 @@ A forrás oldalon szereplő felmondott hitelek lejárati besorolása:
 
 I.5.4.11. Az alábbi esetekben kell átsorolások miatt kiigazítási adatokat jelenteni:
 
-1. változás történik az adatszolgáltató ügyfeleinek szektorbesorolásában – ideértve az MPI-k körében bekövetkező változásokat is (például egy hitelintézet egyéb pénzügyi intézménnyé alakul át, vagy egy alapítási engedéllyel rendelkező, még nem pénzügyi vállalatként kezelt új hitelintézet megkapja működési engedélyét);
+1. változás történik az adatszolgáltató ügyfeleinek szektorbesorolásában – ideértve az MPI-k körében bekövetkező változásokat is (például egy hitelintézet egyéb pénzügyi intézménnyé alakul át, vagy egy alapítási engedéllyel rendelkező, még nem pénzügyi vállalatként kezelt új hitelintézet megkapja működési engedélyét stb.).
 
 2. változás történik az egyes állományok instrumentum-, lejárat-, vagy denomináció szerinti besorolásában (akár az előírások változásának következtében is).
 
 II. RÉSZ
 
-AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ RÉSZLETES SZABÁLYOK
+RÉSZLETES SZABÁLYOK
 
-A Kitöltési útmutatóban általánosan érvényesülő alapelv, hogy az egyes táblák kitöltésére vonatkozó részletes szabályok között csak azok az oszlopok és sorok kerülnek megemlítésre, amelynél a tartalom pontos meghatározását és értelmezését alátámasztó információ kerül közlésre.
+A. cím Egyedi adatszolgáltatás
 
-II. 1. Egyedi adatszolgáltatás
+1. Fejezet Részvénytársasági és szövetkezeti hitelintézetek
 
-II.1.1. Egyedi adatszolgáltatás – Részvénytársasági és szövetkezeti hitelintézetek
+II. rész A. cím 1. fejezet 1. szakasz MNB-PSZÁF közös táblák
 
-1AB Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal)
+II.A.1.1.1. – 1AB Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal)
 
 A tábla kitöltése
 
@@ -958,7 +1136,7 @@ Az 1AB2121-1AB2122 TB kötvény sorokon kell kimutatni a TB által 2008 után ki
 
 Az 1AB2211-1AB22122 Jegybanki kötvény sorokon kell szerepeltetni a KVH Rt. kötvények állományát is.
 
-Az 1AB2321-1AB23222 Belföldi hitelintézetek egyéb kötvénye sorokban kell kimutatni a belföldi hitelintézetek által belföldön, illetve külföldön kibocsátott jelzálogleveleken kívüli egyéb hitelviszonyt megtestesítő értékpapírok (kötvény, letéti jegy stb.) hitelintézet tulajdonában lévő állományát a megfelelő lejárat szerint bontva.
+Az 1AB2321-1AB23222 Belföldi hitelintézetek egyéb kötvénye sorokban kell kimutatni a belföldi hitelintézetek által belföldön, illetve külföldön kibocsátott jelzálogleveleken kívüli egyéb hitelviszonyt megtestesítő értékpapírok (pl. kötvény, letéti jegy stb.) hitelintézet tulajdonában lévő állományát a megfelelő lejárat szerint bontva.
 
 1AB3 Tulajdoni részesedések összesen
 
@@ -1026,11 +1204,11 @@ A Lakosság – lakáscélú hitel sorokban kell közölni mind a támogatott, k
 
 A lakosságnak nyújtott fogyasztási hitelek állományát tovább kell bontani a következő hitelfajták szerint:
 
-- az 1AB561211-1AB5612122 sorokban az ingatlanfedezet nélküli személyi hitelek állományát kell jelenteni. (A személyi hitelt a hitelintézet a hitelfelvétel konkrét céljának megjelölése nélkül folyósítja az ügyfélnek.) Az ingatlanfedezetű személyi hitelek állománya a 197-199. sorban, a szabad felhasználású jelzáloghitelek között jelentendő;
+- az 1AB561211-1AB5612122 sorokban az ingatlanfedezet nélküli személyi hitelek állományát kell jelenteni. (A személyi hitelt a hitelintézet a hitelfelvétel konkrét céljának megjelölése nélkül folyósítja az ügyfélnek.) Az ingatlanfedezetű személyi hitelek állománya a 197-199. sorban, a szabad felhasználású jelzáloghitelek között jelentendő.
 
-- az 1AB561221-1AB5612222 sorokban a gépjármű vásárlási hitelek állománya jelentendő (a gépjármű vásárlási hitelek közé azon hitelek állománya sorolandó, amelyek új, vagy használt gépjárművek megvásárlását finanszírozzák);
+- az 1AB561221-1AB5612222 sorokban a gépjármű vásárlási hitelek állománya jelentendő. (A gépjármű vásárlási hitelek közé azon hitelek állománya sorolandó, amelyek új, vagy használt gépjárművek megvásárlását finanszírozzák.)
 
-- az 1AB561231-1AB5612322 sorokban a szabad felhasználású jelzáloghitelek állománya jelentendő. Itt kell kimutatni az ingatlanfedezetű személyi hitelek, továbbá az ingatlanfedezetű áruvásárlási- és egyéb fogyasztási hitelek állományát is. A szabad felhasználású jelzáloghitelhez tartozó gyűjtőszámla hitel állományát – a mentesített követelésrész és a legmagasabb árfolyamot meghaladó árfolyam miatt felmerülő törlesztési kötelezettség kivételével – szintén itt kérjük kimutatni;
+- az 1AB561231-1AB5612322 sorokban a szabad felhasználású jelzáloghitelek állománya jelentendő. Itt kell kimutatni az ingatlanfedezetű személyi hitelek, továbbá az ingatlanfedezetű áruvásárlási- és egyéb fogyasztási hitelek állományát is. A szabad felhasználású jelzáloghitelhez tartozó gyűjtőszámla hitel állományát – a mentesített követelésrész és a legmagasabb árfolyamot meghaladó árfolyam miatt felmerülő törlesztési kötelezettség kivételével – szintén itt kérjük kimutatni.
 
 - az 1AB561241-1AB5612422 sorokban az áruvásárlási hitelek, valamint az egyéb, fogyasztási hitelnek tekintendő, de a fenti három hitelcélba nem sorolható hitelek állományát kell jelenteni. [Az áruvásárlási hitel tartós fogyasztási cikkek (gépjármű kivételével) lakossági ügyfél által történő megvásárlását finanszírozza. Az egyéb fogyasztási hitelek között kell jelenteni a lombard hiteleket is (az értékpapírral fedezett folyószámlahitel kivételével, azokat ugyanis a folyószámlahitelek között kell kimutatni), illetve itt kell kimutatni azokat a hitelkártya-konstrukciókat, ahol a bank nem biztosít kamatmentes periódust, és a kártya csak a hitelhez történő hozzáférést biztosítja.] Az ingatlanfedezetű áruvásárlási és egyéb fogyasztási hitelek állománya az 1AB561231-1AB5612322 sorokban, a szabad felhasználású jelzáloghitelek között jelentendő.
 
@@ -1040,11 +1218,11 @@ Az 1AB56221-1AB562222 sorokban az önálló vállalkozóknak gépjárművásárl
 
 Az önálló vállalkozók által értékesítési céllal épített lakásokkal kapcsolatban nyújtott hitelek állományát az 1AB56231-1AB562322 sorokban kell jelenteni.
 
-Lejáratától függően az 1AB56141-1AB561422 Lakosság – egyéb hitel sorok között kell jelenteni a lakosság részére nyújtott, máshol nem szerepeltetett hiteleket (pl. tandíj hitel, záloghitel, nem lakáscélú ingatlanvásárlási hitel).
+Lejáratától függően az 1AB56141-1AB561422 Lakosság – egyéb hitel sorok között kell jelenteni a lakosság részére nyújtott, máshol nem szerepeltetett hiteleket (pl. tandíj hitel, záloghitel, nem lakáscélú ingatlanvásárlási hitel stb.).
 
 A magánszemélyeknek nyújtott ingatlanfedezetű fogyasztási hiteleket (személyi hiteleket, áruvásárlási hiteleket, illetve a szabad felhasználású hiteleket) nem itt, hanem az 1AB561231-1AB5612322 sorokban, a szabad felhasználású jelzáloghitelek között kell kimutatni.
 
-Az 1AB56241-1AB562422 Önálló vállalkozók – egyéb hitel sorok között kell jelenteni eredeti lejáratának megfelelően az önálló vállalkozók részére nyújtott, máshol nem szerepeltetett hiteleket (pl. záloghitel, nem lakáscélú ingatlanvásárlási hitel). Itt kell kimutatni az önálló vállalkozók által értékesítési céllal épített lakásokkal kapcsolatban nyújtott hitelek állományát is.
+Az 1AB56241-1AB562422 Önálló vállalkozók – egyéb hitel sorok között kell jelenteni eredeti lejáratának megfelelően az önálló vállalkozók részére nyújtott, máshol nem szerepeltetett hiteleket (pl. záloghitel, nem lakáscélú ingatlanvásárlási hitel stb.). Itt kell kimutatni az önálló vállalkozók által értékesítési céllal épített lakásokkal kapcsolatban nyújtott hitelek állományát is.
 
 A Háztartások – Önálló vállalkozók – egyéb hitel – rövid sorba kell besorolni az önálló vállalkozók számára nyújtott, a Széchenyi-kártyához kapcsolódó hiteleket is (kivéve a Széchenyi Kártyahitelt, amelyet a folyószámlahitelek között kell szerepeltetni). Az önálló vállalkozók – egyéb hitelébe tartoznak az önálló vállalkozók részére nyújtott eseti hitelek is. (Eseti hitel: nem pénzügyi vállalatoknak, illetve önálló vállalkozóknak nyújtott ad hoc jellegű, a hitelfelvevő átmeneti likviditási problémáinak megoldására szolgáló rövid lejáratú hitel.)
 
@@ -1142,13 +1320,13 @@ Az 1AB9253, illetve az 1AB9254 sorban a mérlegben közvetlen pénzügyi és bef
 
 Az 1AB9261-1AB9256 nem pénzügyi és befektetési szolgáltatási célú tárgyi eszközök sorokban kell a nem a hitelintézet működéséhez kapcsolódó tárgyi eszközöket (beleértve a nem banküzemi ingatlanokat is) és értékhelyesbítésüket szerepeltetni. A 9261. sorban kell kimutatni a szavatoló tőke számítása során levonandó, nem a pénzügyi intézmény elhelyezését szolgáló ingatlanokhoz kapcsolódó vagyoni értékű jogokat.
 
-1AN Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal)
+II.A.1.1.2. – 1AN Felügyeleti mérleg (Eszközök könyv szerinti nettó adatokkal)
 
 A tábla kitöltése
 
 Az 1AN tábla tartalmilag azonos a 1AB táblában található felügyeleti mérleg eszköz oldalával, csak az egyes sorokban az eszközök nettó (értékvesztéssel, céltartalékkal csökkentett, értékelési különbözettel módosított) értéken jelentendők. Az 1AN tábla kitöltésénél is a 1AB táblához készített kitöltési útmutató az irányadó. A két eszköztábla kitöltése során biztosítani kell az azonos mérlegtételek megegyező tartalmú adatokkal való kitöltését és a lejárat szerinti bontások összhangját is.
 
-1B Felügyeleti mérleg (Források)
+II.A.1.1.3. – 1B Felügyeleti mérleg (Források)
 
 A tábla kitöltése
 
@@ -1310,7 +1488,7 @@ A 1B96 Általános tartalék sorban a Hpt. 75. § (2) bekezdése által előírt
 
 A 1B97 Mérleg szerinti eredmény (év közben Eredmény) sorba az Eredménykimutatás (2A. tábla) alapján kiszámított (halmozott) eredményt kell feltüntetni. (A devizaoszlopban nem szerepelhet összeg.) Év közben ez az eredmény az eredményszámlák lezárása utáni – a bevételeknek, ráfordításoknak és költségeknek – a társasági adóelőleg befizetett összegével csökkentett egyenlege. Év végén az előzetes eredménynél az (előzetes adatok alapján meghatározott) adófizetési kötelezettséggel számított összeget kell figyelembe venni. Az év végi végleges adat az éves beszámoló mérleg szerinti (auditált) eredménye.
 
-1C Mérlegtételekhez kapcsolódó tájékoztató adatok
+II.A.1.1.4. – 1C Mérlegtételekhez kapcsolódó tájékoztató adatok
 
 A tábla kitöltése
 
@@ -1462,7 +1640,7 @@ A „kamatozó hitelkártya követelés” sorokon kell kimutatni a tárgyidősz
 
 Ebben a részben kell kimutatni a Felügyeleti mérleg kitöltési útmutató I. 3. Fogalmak részben definiált és I.5.4.3.2. Az adatszolgáltatás tartalmi követelményei – Általános előírások részben értelmezett konzorciális hitelezési tevékenységből származó követelés és kötelezettség állományát. A nyújtott hitelek között kell jelenteni azokat a kitettségeket, amelyeket a hitelintézet konzorcium keretében helyezett ki – beleértve a másodlagos forgalmazásban vásárolt állományt is – vagy konzorcium tagjaként a hitelintézet által nyújtott konzorciális hitelek összesen állományát devizabontás nélkül, míg a felvett konzorciális hiteleket deviza- és szektorbontás nélkül egy összegben kell kimutatni.
 
-1D Eladott eszközök halasztott fizetéssel, illetve visszavásárlási kötelezettséggel
+II.A.1.1.5. – 1D Eladott eszközök halasztott fizetéssel, illetve visszavásárlási kötelezettséggel
 
 A tábla kitöltése
 
@@ -1496,7 +1674,7 @@ A táblában könyv szerinti értéken az adott eszköznek az I. 3. Fogalmak 46.
 
 Részletfizetés esetén az eladási árat a befolyt összegben, a nyilvántartási értéket pedig arányosan (a részletfizetést a teljes eladási árhoz viszonyítottan) kell figyelembe venni. A visszavásárlási érték a szerződésben rögzített összeg.
 
-1E Tranzakciók számításához szükséges adatok
+II.A.1.1.6. – 1E Tranzakciók számításához szükséges adatok
 
 A tábla kitöltése
 
@@ -1516,7 +1694,7 @@ Az 1E221-1E2264 sorok a két éven túli lejáratú hitelviszonyt megtestesítő
 
 Ebben a táblában egyéb pénzügyi vállalatok alatt az egyéb pénzügyi közvetítők, pénzügyi kiegészítő tevékenységet végzők, biztosítók és nyugdíjpénztárak értendők.
 
-1F Értékpapírosítással kapcsolatos adatok
+II.A.1.1.7. – 1F Értékpapírosítással kapcsolatos adatok
 
 A tábla kitöltése
 
@@ -1534,7 +1712,7 @@ A nettó forgalmat a tárgyidőszakban értékpapírosított vagy eladott hitele
 
 A nettó forgalom számítása során figyelmen kívül kell hagyni az euroövezeti rezidens valamint hazai monetáris pénzügyi intézménynek átadott vagy átvett hiteleket, valamint az intézményi változások során (egyesülés, szétválás stb.) átadott vagy átvett hiteleket.
 
-1G Eszköz és forrástételek hóvégi állományának devizaszerkezete (hitelek bruttó, értékpapírok nettó könyv szerinti értéken)
+II.A.1.1.8. – 1G Eszköz és forrástételek hóvégi állományának devizaszerkezete (hitelek bruttó, értékpapírok nettó könyv szerinti értéken)
 
 A tábla kitöltése
 
@@ -1550,7 +1728,7 @@ E táblában egyéb pénzügyi vállalatok alatt az egyéb pénzügyi közvetít
 
 A tábla d) oszlopában az egyéb EU tagországok devizáit kell kimutatni. Az ebben az oszlopban jelentett összegek devizánkénti bontásáról negyedév végekre vonatkozóan az MNB rendelet szerinti F19, illetve F33 azonosító kódú adatszolgáltatás 03. táblájában kell információt adniuk az adatszolgáltatóknak.
 
-2A Eredménykimutatás
+II.A.1.1.9. – 2A Eredménykimutatás
 
 A tábla kitöltése
 
@@ -1582,13 +1760,13 @@ A tábla első oszlopában a tárgyhónapra könyvelt, a másodikban az év elej
 
 A fő sorok alábontásain belül a következő rendezőelv érvényesül:
 
-• a kamat- és kamat jellegű bevételeket és ráfordításokat fő termékcsoportonként (pénzügyi követelések és kötelezettségek, értékpapírok, származtatott ügyletek) a felügyeleti mérleg szektor bontásának megfelelően kell kimutatni;
+• A kamat- és kamat jellegű bevételeket és ráfordításokat fő termékcsoportonként (pénzügyi követelések és kötelezettségek, értékpapírok, származtatott ügyletek) a felügyeleti mérleg szektor bontásának megfelelően kell kimutatni.
 
-• az eredménykimutatás a származtatott ügyletek eredménytételeit elkülönítetten tartalmazza. A származtatott ügyletek eredményét az ügylet célja [kamat-, illetve nem kamat-fedezeti és egyéb (kereskedési célú)] és az értékelés jellege (valós értékelésbe vont és valós értékelés alá nem tartozó) szerint kell megosztani. Nettósítás csak abban az esetben lehetséges, ha a könyvelés a számviteli szabályoknak megfelelően nettó módon történik, függetlenül a pénzügyi teljesítés módjától;
+• Az eredménykimutatás a származtatott ügyletek eredménytételeit elkülönítetten tartalmazza. A származtatott ügyletek eredményét az ügylet célja [kamat-, illetve nem kamat-fedezeti és egyéb (kereskedési célú)] és az értékelés jellege (valós értékelésbe vont és valós értékelés alá nem tartozó) szerint kell megosztani. Nettósítás csak abban az esetben lehetséges, ha a könyvelés a számviteli szabályoknak megfelelően nettó módon történik, függetlenül a pénzügyi teljesítés módjától.
 
-• az egyéb pénzügyi, befektetési szolgáltatási és egyéb bevételeken és ráfordításokon belül a realizált árfolyamnyereségtől, illetve veszteségtől elkülönítetten jelenik meg a valós értéken történő értékelés szabályai alá tartozó pénzügyi instrumentumok átértékelési nyeresége és vesztesége;
+• Az egyéb pénzügyi, befektetési szolgáltatási és egyéb bevételeken és ráfordításokon belül a realizált árfolyamnyereségtől, illetve veszteségtől elkülönítetten jelenik meg a valós értéken történő értékelés szabályai alá tartozó pénzügyi instrumentumok átértékelési nyeresége és vesztesége.
 
-• az alábbi táblázat az eredménykimutatás meghatározott soraira vonatkozóan jelöli, hogy az adott sort a valós értéken történő értékelést alkalmazó vagy a valós értéken történő értékelést nem alkalmazó hitelintézeteknek kell-e kitöltenie:
+• Az alábbi táblázat az eredménykimutatás meghatározott soraira vonatkozóan jelöli, hogy az adott sort a valós értéken történő értékelést alkalmazó vagy a valós értéken történő értékelést nem alkalmazó hitelintézeteknek kell-e kitöltenie:
 
 | PSZÁF sorkód | Valós értékelést alkalmazó | Valós értékelést nem alkalmazó |
 
@@ -1634,9 +1812,9 @@ A fő sorok alábontásain belül a következő rendezőelv érvényesül:
 
 | 2A04224 | igen | nem |
 
-• az eredménykimutatás 2A08 Értékvesztés, kockázati céltartalékképzés változása című sora a Sajátos értékelési szabályoknak megfelelően (Hitkr. 7. számú melléklet) tartalmazza a követelések és befektetési célú értékpapírok után elszámolt értékvesztés és értékvesztés visszaírás, illetve kockázati és általános kockázati céltartalék-képzés és -felhasználás tárgyévben elszámolt összegeit, a számviteli szabályok szerinti értékvesztés és általános céltartalék-képzésre vonatkozó jogszabályi kivételek figyelembevételével;
+• Az eredménykimutatás 2A08 Értékvesztés, kockázati céltartalékképzés változása című sora a Sajátos értékelési szabályoknak megfelelően (Hitkr. 7. számú melléklet) tartalmazza a követelések és befektetési célú értékpapírok után elszámolt értékvesztés és értékvesztés visszaírás, illetve kockázati és általános kockázati céltartalék-képzés és -felhasználás tárgyévben elszámolt összegeit, a számviteli szabályok szerinti értékvesztés és általános céltartalék-képzésre vonatkozó jogszabályi kivételek figyelembevételével.
 
-• a hitelezési veszteség tárgyévi eredményt érintő sorai a követelés jellegének megfelelő tagolásban jelennek meg az egyéb pénzügyi szolgáltatások bevételei vagy ráfordításai, az egyéb bevételek és ráfordítások, illetve a rendkívüli ráfordítások sorokban.
+• A hitelezési veszteség tárgyévi eredményt érintő sorai a követelés jellegének megfelelő tagolásban jelennek meg az egyéb pénzügyi szolgáltatások bevételei vagy ráfordításai, az egyéb bevételek és ráfordítások, illetve a rendkívüli ráfordítások sorokban.
 
 Az eredménykimutatásban alapértelmezésben
 
@@ -1654,13 +1832,13 @@ Az eredménykimutatásban alapértelmezésben
 
 Az alapértelmezéstől eltérően negatív előjellel kell ellátni azokat az eredménytételeket, amelyeket a számviteli szabályoknak és az ügylet jellegének megfelelően kell az adott tétel-csoportban kimutatni, függetlenül attól, hogy az a bevételt vagy a ráfordítást csökkenti [lásd a tétel megnevezése előtti (-) jelet], így pl.:
 
-• az Szmt., illetve a Hitkr. előírásainak megfelelően ráfordítás csökkentő tételként kell kimutatni a tárgyévben képzett céltartalék és értékvesztés tárgyévi felhasználását, felszabadítását, illetve visszaírását;
+• Az Szmt., illetve a Hitkr. előírásainak megfelelően ráfordítás csökkentő tételként kell kimutatni a tárgyévben képzett céltartalék és értékvesztés tárgyévi felhasználását, felszabadítását, illetve visszaírását.
 
-• a kapcsolódó ügyletek (származtatott ügylethez kapcsolódó alapügylet, alapügylet és annak fedezeti ügylete) valós értéken történő értékeléséből származó értékelési nyereséget és veszteséget ugyanazon tétel-csoportban kell kimutatni bevételt vagy ráfordítást csökkentő tényezőként;
+• A kapcsolódó ügyletek (származtatott ügylethez kapcsolódó alapügylet, alapügylet és annak fedezeti ügylete) valós értéken történő értékeléséből származó értékelési nyereséget és veszteséget ugyanazon tétel-csoportban kell kimutatni bevételt vagy ráfordítást csökkentő tényezőként.
 
-• a valós értékelésbe vont, fedezeti célú származtatott ügyletek értékelési különbözeten kívüli egyéb bevételét és ráfordítását a fedezett ügylettel azonos tételcsoportban – az alapügylettől elkülönítetten – ráfordítást, illetve bevételt csökkentő tételként kell kimutatni;
+• A valós értékelésbe vont, fedezeti célú származtatott ügyletek értékelési különbözeten kívüli egyéb bevételét és ráfordítását a fedezett ügylettel azonos tételcsoportban – az alapügylettől elkülönítetten – ráfordítást, illetve bevételt csökkentő tételként kell kimutatni.
 
-• ha valamelyik ráfordítás vagy költség sor Követel, illetve bevétel sor Tartozik egyenleget mutat, akkor ezt a tételt negatív előjellel kell feltüntetni. Az egyes eredmény sorokban veszteség esetén a negatív előjelet ki kell tenni.
+• Ha valamelyik ráfordítás vagy költség sor Követel, illetve bevétel sor Tartozik egyenleget mutat, akkor ezt a tételt negatív előjellel kell feltüntetni. Az egyes eredmény sorokban veszteség esetén a negatív előjelet ki kell tenni.
 
 A tábla sorai
 
@@ -1834,2252 +2012,6 @@ A 2A04212 Forgatási célú értékpapírok értékvesztésének visszaírása �
 
 A 2A04213 és a 2A04223 Származtatott ügyletek soron a Hitkr. 11. § (1) bekezdés c) pontja szerint egyrészt
 
-• a saját számlára, kereskedési célra (nem fedezeti célra), vagy kereskedési célú alapügylet fedezete céljára kötött határidős és opciós tőzsdei, tőzsdén kívüli, valamint swap ügyletekből származó, várható vagy ténylegesen realizált árfolyamnyereség, illetve -veszteség, kamatbevétel, illetve -ráfordítás üzleti évben elszámolható összegét kell kimutatni (fedezeti ügylet esetében feltéve, hogy az alapügylet eredménye is ilyen bevételként vagy ráfordításként kerül elszámolásra);
+• a saját számlára, kereskedési célra (nem fedezeti célra), vagy kereskedési célú alapügylet fedezete céljára kötött határidős és opciós tőzsdei, tőzsdén kívüli, valamint swap ügyletekből származó, várható vagy ténylegesen realizált árfolyamnyereség, illetve -veszteség, kamatbevétel, illetve -ráfordítás üzleti évben elszámolható összegét kell kimutatni (fedezeti ügylet esetében feltéve, hogy az alapügylet eredménye is ilyen bevételként vagy ráfordításként kerül elszámolásra),
 
-• másrészt itt kerül elszámolásra a valós értéken történő értékelés alkalmazása esetén a kereskedési célú alapügylet fedezetére kötött ügylet után a tárgyévben elszámolható nyereség a kereskedési tevékenység ráfordításait csökkentő tételként, a veszteség a kereskedési tevékenység bevételeit csökkentő tételként.
-
-A Hitkr. 9/C. § (10) bekezdés szerint a kereskedési célú kamatswap ügyletek esetében a változó kamatláb és a fix kamatláb névleges tőkeösszegre vetített, az adott elszámolási időszakra vonatkozó, az értékelés időpontjáig időarányosan számított összegének különbözetét – jellegétől függően –bevételként vagy ráfordításként kell elszámolni az aktív vagy a passzív időbeli elhatárolásokkal szemben. A Hitkr. 9/C. § (11) bekezdés szerinti ügyleteknél ez a módszer nem alkalmazható.
-
-A 2A042133 és a 2A04224 Értékelési különbözet sorok tartalma és annak alábontása egyrészt a Hitkr. 11. § (12) bekezdésen alapul, másrészt itt kell kimutatni a Hitkr. 9/C. § (10) bekezdés szerint a kereskedési célú kamatswap ügyletek hátralévő kamatkülönbözeteinek figyelembevételével meghatározott valós értékelési különbözetet – jellegétől függően – bevételként vagy ráfordításként.
-
-A 2A05 Egyéb eredmény (a Hitkr. 2. számú melléklet függőleges tagolású Eredménykimutatás I. 7. és 10. tételeinek az egyenlege)
-
-A 2A051 Egyéb bevételek üzleti tevékenységből (Hitkr. 2. számú melléklet 7. tétel) és 2A052 Egyéb ráfordítások üzleti tevékenységből sorokat (Hitkr. 2. számú melléklet 10. tétel) meg kell bontani a
-
-2A0511 Bevételek – nem pénzügyi és befektetési szolgáltatás [Hitkr. 2. számú melléklet 7. a) tétel]
-
-2A0521 Ráfordítások – nem pénzügyi és befektetési szolgáltatás [Hitkr. 2. számú melléklet 10. a) tétel]
-
-2A0512 Egyéb bevétel [Hitkr. 2. számú melléklet 7. b) tétel]
-
-2A0522 Egyéb ráfordítás [Hitkr. 2. számú melléklet 10. b) tétel]
-
-sorokra az Szmt. 77. § (1) bekezdés és 81. § (1) bekezdés szerinti tartalommal.
-
-A 2A0511 és 2A0521 sorokon belül elkülönítetten kell kimutatni a lízingbe adott eszközök eredményét, a 2A05111 soron a lízingbe adott eszközök kamat és ÁFA nélküli értékét, a 2A05211 soron a lízingbe adott eszközök könyv szerinti értékét.
-
-A 2A05112 és 2A05212 sorokon a pénzügyi intézmények által folytatott, a pénzügyi szolgáltatások és az Szmt. 77. § (1) bekezdés és 81. § (1) bekezdés szerinti tevékenységek közé nem tartozó – eseti jelleggel vagy rendszeresen végzett – tevékenységek nettó árbevételét (bevételét), illetve költségeit és ráfordításait, amelyek nem szerepelnek az eddigiekben felsorolt tételek között [Hitkr. 11. § (3) bekezdés].
-
-A 2A0512 és 2A0522 Egyéb bevételek és ráfordítások sorokon belül tételesen ki kell mutatni:
-
-a 2A05121 és 2A052201 sorokon a Saját követelés értékesítés bevételét és a Saját követelés könyv szerinti értékét leíráskor, értékesítéskor a Hitkr. 15. § (3) bekezdés szerint, a Hitkr. 9. § (18) bekezdésének figyelembevételével;
-
-a 2A05122 és 2A052202 sorokon a saját készletértékesítés, valamint az immateriális javak és tárgyi eszközök értékesítésének eredmény-elszámolását;
-
-a 2A052203 soron az immateriális javak és tárgyi eszközök terven felüli értékcsökkenésének elszámolása miatti ráfordításokat az Szmt. 53. § szerint;
-
-a 2A05123, illetve 2A052204 sorokon a saját készletek értékvesztését, illetve annak visszaírását kell kimutatni. Évközi visszaírás esetén a 2A052204 sor értékét kell csökkenteni;
-
-a 2A05124 és 2A052205 sorokon a követelések fejében átvett és készletként kimutatott vagyontárgyak értékesítésekor elszámolt bevételeket és ráfordításokat kell kimutatni;
-
-a 2A05125 és 2A052206 sorokon a követelések fejében átvett és készletként kimutatott vagyontárgyak minősítése alapján elszámolt értékvesztést, illetve annak visszaírását az egyéb ráfordítások, illetve az egyéb bevételek között kell elszámolni a Hitkr. 13. § (4) bekezdés szerint. Évközi visszaírás esetén a 2A052206 sor értékét kell csökkenteni;
-
-a 2A05126, 2A05127, 2A052207, 2A052208 sorokon az Egyéb céltartalékok, azon belül elkülönítetten a származtatott ügyletek céltartalék képzését, felhasználását, felszabadítását kell bemutatni. A származtatott ügyletek egyéb céltartaléka a piaci és a kötési érték különbözetét tartalmazza a nem valós értékelés alá eső, nem fedezeti célú ügyletek esetében, beleértve az opciót. Ebbe a kategóriába sorolandók az Szmt. 41. § szerint képzett céltartalékok, amelyek nem a szokásos üzleti tevékenység rendszeresen és folyamatosan felmerülő tevékenységeihez kapcsolódnak, így például végkielégítés, amelyre a fedezet még nem áll rendelkezésre, vagy a várható, jelentős és időszakonként ismétlődő jövőbeni költségekre (pl. átszervezési költségekre) képzett céltartalékok stb.
-
-A 2A052209 Ráfordítások terhére elszámolt adók soron kell kimutatni a helyi önkormányzatok által kivetett – a bekerülési érték részét nem képező, illetve a költségek között el nem számolható – adók (pl. iparűzési adó, építményadó, kommunális adó stb.) értékét.
-
-A 2A05128 és 2A052210 Egyéb sorokban a külön soron nem kiemelt bevételeket és ráfordításokat kell kimutatni. A jelentősebb tételek a következők:
-
-• a Különadó tv. 4., §-a alapján a hitelintézetek által fizetendő járadékok, a 4/A. §-a szerint a pénzügyi szervezetek által fizetendő különadó összege és a 4/B §-a szerint a hitelintézetek által fizetendő hitelintézeti különadó összege;
-
-• az adóssal szemben indított felszámolási eljárás és bírósági perek megelőlegezett költségeként a felszámolónak, a végrehajtónak, illetve az ügyvédnek kifizetett összegek és ezek utólagos megtérülése;
-
-• kapott és kifizetett (fizetendő) bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések, káreseményhez kapcsolódó kapott összegek, amelyek nem tartoznak az egyéb pénzügyi szolgáltatások bevételei és ráfordításai közé;
-
-• cégvásárlás esetén az Szmt. 45. §-a szerint halasztott bevételként kimutatott negatív üzleti vagy cégértéknek az egyéb bevételekkel szembeni megszüntetése (a cégvásárlást követő 5 év vagy ennél hosszabb idő alatt, függetlenül attól, hogy a negatív üzleti vagy cégérték nagyságára ható eszközök, illetve kötelezettségek értéke miként alakult);
-
-• a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság által nyújtott kötött segélyhitelekhez kapcsolódóan a központi költségvetésből adományelemként járó, állammal szembeni követelés összege egyéb bevételként, a kötött segélyhitel követelés – névleges tőkeértékének a hitelfelvevő által vissza nem térítendő – adományelem része egyéb ráfordításként.
-
-A 2A0522101 sorban külön ki kell emelni a pénzügyi szervezetek különadójának és a hitelintézeti különadónak az összegét.
-
-2A06 Általános igazgatási költségek (Hitkr. 2. számú melléklet 8. tétel)
-
-Ebben a tételcsoportban kell kimutatni a hitelintézet működésével (pénzügyi és befektetési szolgáltatásával) kapcsolatos összes általános, banküzemi költséget (az aktívált saját teljesítmények itt nem szerepelhetnek[^9]).
-
-A 2A061 személyi jellegű ráfordítások [Hitkr. 2. számú melléklet 8. a) tétel] soron belül elkülönítetten kell kimutatni a bérköltségeket (2A0611) [Hitkr. 2. számú melléklet 8. aa) tétel], a személyi jellegű egyéb kifizetéseket (2A0612) (Hitkr. 2. számú melléklet 8. ab) tétel) és a bérjárulékokat (2A0613) [Hitkr. 2. számú melléklet 8. ac) tétel].
-
-A 2A062 egyéb igazgatási költségek (anyag jellegű ráfordítások) soron [Hitkr. 2. számú melléklet 8. b) tétel] belül részletezni kell a fizetett bérleti díjakat, a számítástechnikai költségeket, szakértői díjakat, marketing költségeket.
-
-A 2A0625 egyéb soron a máshol nem nevesített költségeket kell szerepeltetni.
-
-2A07 Értékcsökkenési leírások (Hitkr. 2. számú melléklet 9. tétel)
-
-Ez a tételcsoport az immateriális javak, tárgyi eszközök után – a számviteli szabályok szerint – költségként elszámolt terv szerinti és azonnal elszámolható értékcsökkenési leírásokat foglalja magában.
-
-2A08 Értékvesztés és kockázati céltartalékképzés változása (Hitkr. 2. számú melléklet 11., 12., 12/A, 13., 14. tétel)
-
-A Hitkr. 11. § (8) és (9) bekezdése szerint ebben a csoportban a saját és vásárolt követelések, befektetési célú értékpapírok, valamint vagyoni érdekeltségek értékelése kapcsán elszámolt értékvesztéseket és visszaírásokat, illetve csak a függő és jövőbeni kötelezettségekre elszámolt kockázati céltartalék képzéséből és felhasználásából, illetve felszabadításából adódó eredményt kell kimutatni. A Hitkr. 23. § (2), (4) és (5) bekezdése és 24. § (5) bekezdése alapján a határidős és opciós ügyletekre történő céltartalék képzést, felhasználást és felszabadítást itt kell szerepeltetni.
-
-2A09 Szokásos (üzleti) tevékenység eredménye (Hitkr. 2. számú melléklet 15. tétel)
-
-Ez a sor a hitelintézeti tevékenységgel kapcsolatos összes eddigi bevételnek, ráfordításnak és költségnek az egyenlegét – nyereségét, illetve veszteségét – mutatja.
-
-Ebből:
-
-PÉNZÜGYI ÉS BEFEKTETÉSI SZOLGÁLTATÁSOK EREDMÉNYE:
-
-2A091= 2A011-2A012+2A02+2A031-2A032+2A04+2A0512-2A0522-2A06-2A07-2A08
-
-NEM PÉNZÜGYI ÉS BEFEKTETÉSI SZOLGÁLTATÁSOK EREDMÉNYE:
-
-2A092= 2A0511-2A0521
-
-2A10 Rendkívüli eredmény (Hitkr. 2. számú melléklet 18. tétel)
-
-Itt kell közölni a számviteli szabályok szerint elszámolt, rendkívülinek minősített bevételeket [Szmt. 45. §, 86. § (3) és (5) bekezdés] és ráfordításokat [Szmt. 33. §, 86. § (6)-(9) bekezdés]. Az itt szereplő tételeket a szöveges tájékoztatóban fel kell sorolni, és be kell mutatni a hozzájuk kapcsolódó – az eredménykimutatás más részeiben megjelenő – értékvesztéseket, értékvesztés visszaírásokat, céltartalék változásokat is.
-
-Rendkívüli ráfordításként kell elszámolni a behajthatatlannak nem minősíthető – szerződésmódosítás alapján – elengedett saját, illetve vásárolt követelések összegét. A rendkívüli bevételek és ráfordítások között jelennek meg többek között az ellentételezés nélküli tartozásátvállalások, a térítés nélküli (visszaadási kötelezettség nélküli) eszköz átadások vagy átvételek, a gazdasági társaságba bevitt vagyontárgyak, a visszafizetési kötelezettség nélküli végleges pénzátadások [az Szmt. 81. § (2) bekezdés c) pont kivételével] miatti eredményelszámolások.
-
-2011. évtől a 2A1011 és 2A1022 sorok tartalma kiegészül az Szmt. 86. § (3) bekezdés i) pontjában, illetve az Szmt. 86. § (6) bekezdés c)-f) pontjaiban leírt eredménytételekkel.
-
-A 2A1013 és 2A1024 sorok tartalma kiegészül az Szmt. 86. § (7) bekezdés c) pontjában leírt eredménytételekkel.
-
-2A11. Adózás előtti eredmény (Hitkr. 2. számú melléklet 19. tétel)
-
-Ez a sor tartalmazza a hitelintézeti tevékenységből, működésből eredő összes, tárgyévben elszámolt bevétel, ráfordítás és költség egyenlegét, azaz a Szokásos (üzleti) tevékenység eredményének és a Rendkívüli eredménynek az összegét.
-
-2A12 Adófizetési kötelezettség (Év közben adóelőleg) (Hitkr. 2. számú melléklet 20. tétel)
-
-Év közben e soron a havi eredménykimutatásban a ténylegesen befizetett társasági adóelőleg összegét kell szerepeltetni (függetlenül attól, hogy a hitelintézet a fizetett adóelőleget könyveiben hol tartja nyilván).
-
-Az év végére vonatkozó előzetes, még nem auditált jelentésekbe azt az adófizetési kötelezettséget kell beírni, amelynek – az előzetes számítások szerint – az éves beszámolóban szerepelnie kell. Az adófizetési kötelezettségből külön ki kell emelni a hitelintézeti különadó értékét.
-
-Az évközi auditált jelentésben az adófizetési kötelezettséget és a hitelintézeti különadót ugyanilyen módon kell kimutatni.
-
-Az év végi auditált jelentésben szereplő adat megegyezik az éves beszámolóban lévő adófizetési kötelezettség összegével. Az adófizetési kötelezettségből külön ki kell emelni a hitelintézeti különadó értékét az alábbiak szerint:
-
-2A121 Hitelintézeti különadó
-
-Év közben – az évközi auditált jelentés kivételével – ebben a sorban csak decemberre vonatkozóan kell jelenteni a jelentésben a hitelintézeti különadót, a Különadó tv. 4/B. § szerint. Ekkor még a hitelintézeti különadó az előzetes adózás előtti eredmény alapján számítandó. Az év végi auditált jelentésben a hitelintézeti különadót a Különadó tv. 4/B. § (4) bekezdésének megfelelően szintén ezen a soron kell szerepeltetni, de már az auditált eredmény alapján számolva. Amennyiben a hitelintézet a számviteli eredménykimutatásban már év közben kimutatja a hitelintézeti különadót, ennek hatását év közben a felügyeleti eredménykimutatásban a 2A0522101 Pénzügyi szervezetek különadója sorban kell jelenteni. Így a decemberre vonatkozó jelentés, az évközi auditált jelentés és az év végi auditált jelentés kivételével a sor értéke 0 (nulla).
-
-2A13 Adózott eredmény (Hitkr. 2. számú melléklet 21. tétel)
-
-A sor tartalmában csak az auditált év végi jelentésben egyezik meg a Hitkr. 2. számú mellékletében szereplő Eredménykimutatás I. 21. sorával, tekintettel a felügyeleti eredménykimutatás azon korlátozására, hogy év közben csak a befizetett adóelőleget lehet szerepeltetni az adózott eredmény kiszámításánál. December végén a felügyeleti és a számviteli adózott eredmény közel azonos nagyságrendű az év végi adófeltöltési kötelezettség és a várható adófizetési kötelezettség szerepeltetése miatt.
-
-2A14 sor Általános tartalék képzése, felhasználása (Hitkr. 2. számú melléklet 22. tétel)
-
-Itt kell feltüntetni a Hpt., illetve a Hitkr. által előírt, az adózott eredmény terhére – az osztalék, illetve részesedés kifizetése előtt – megképzett általános tartalék összegét, valamint az általános tartaléknak – a Hpt., illetve a Hitkr. által előírt – a hitelintézet tevékenységéből adódó veszteség rendezésére igénybe vett értékét.
-
-2A15 sor Eredménytartalék igénybevétele osztalékra és részesedésre (Hitkr. 2. számú melléklet 23. tétel)
-
-Itt kell szerepeltetni az előző években felhalmozott eredménytartalékból a részvényesek osztalékára, részesedésére történő felhasználást.
-
-2A16 sor Jóváhagyott osztalék és részesedés (Hitkr. 2. számú melléklet 24. tétel)
-
-Itt kell feltüntetni az év végi nyereségből a részvényesek osztalékára, részesedésére történő kifizetés összegét, ebből külön soron is kimutatva a kapcsolt vállalkozásnak, illetve egyéb részesedési viszonyban lévő vállalkozásnak fizetett osztalék, részesedés összegét. (A kiemelt sorok az Szmt.-nek megfelelően nem tartalmazzák a természetes személyeknek történő osztalékfizetés összegét.)
-
-2A17 sor Mérleg szerinti eredmény (Hitkr. 2. számú melléklet 25. tétel)
-
-Az itt közölt adatnak meg kell egyeznie az 1B Felügyeleti mérleg (Források) tábla 1B97 Mérleg szerinti eredmény során jelentett adattal.
-
-Év közben a hitelintézet főkönyvi adatain alapuló, a Hitkr. 12. § (2) bekezdés előírásainak megfelelően havonta lezárt eredményének – a bevételek, ráfordítások és költségek egyenlegének – ténylegesen befizetett társasági adóelőleggel csökkentett összegét kell kimutatni. (Ezt az eredményt nem befolyásolja az, hogy a hitelintézet a fizetett adóelőleget könyveiben hol tartja nyilván).
-
-Az előzetes decemberi eredmény kiszámításánál a bevételek és ráfordítások számbavételénél az adott pénzügyi helyzetnek megfelelően a jogszabály által előírt tartalékokat el kell számolni, és a kiszámított adófizetési kötelezettség összegét kell figyelembe venni.
-
-A végleges decemberi jelentésnél az (auditált) éves beszámoló (a pénzügyi mérleg) adata jelenti a mérleg szerinti eredményt.
-
-Tájékoztató adat
-
-2A18 Évközi számított adófizetési kötelezettség
-
-Ezen a soron kell kimutatni a számított adófizetési kötelezettség összegét. Az adóalap korrekciós tételek hatását és az adófizetési kötelezettséget módosító egyéb tényezőket figyelembe lehet venni. A január 1-től halmozott érték [b) oszlop] minden negyedév végén megegyezik a negyedévente a PSZÁF felé jelentendő 2C tábla 2C81 sor c) oszlopában szereplő értékkel.
-
-2C Eredményadatok részletezése
-
-A tábla kitöltése
-
-A tábla a 2A Eredménykimutatás egyes kiemelt jelentőségű, vagy számvitelileg összetettebb soraira vonatkozóan tartalmaz kiegészítő, részletező adatokat.
-
-A tábla oszlopai
-
-Ha az ügylet eredményének összetevői tisztán bevételi vagy ráfordítás tételek, akkor az a) Bevétel vagy Ráfordítás oszlopban kell az adatot kimutatni.
-
-Ha az eredménytípusokat az ügylet futamidején átívelő teljes összegükben az állomány bruttó és a nettó értékének különbözeteként lehet meghatározni, akkor a b) Bruttó vagy teljes érték oszlopban a 1AB Felügyeleti mérleg szerinti bruttó értéket kell megadni. A Teljes érték a 2C101, 2C102 sorokra értelmezendő, ahol a Bruttó fogalom számvitelileg nem értelmezhető. A c) Könyv szerinti (nettó) érték oszlopban az 1AN Felügyeleti mérleg szerinti nettó értékeket kell kimutatni.
-
-A tábla sorai
-
-2C1 Hitelezési veszteség
-
-A hitelezési veszteség (2C101 sor) a befolyt ellenérték és kintlévőség bruttó értékének különbözete.
-
-A hitelintézet a várható hitelezési vesztesége fedezetére értékvesztést vagy céltartalékot képez (2C102) és ezzel csökkenti a nemteljesítés bekövetkezésének évét terhelő veszteséget.
-
-A 2C11 – 2C15 részletező sorokban az Szmt. 3. § (4) bekezdés 10. pontja szerint behajthatatlannak minősített saját és vásárolt követelések – beleértve a Hitkr. 2. § 29. pontja szerint a vásárolt követeléssel azonosan kezelt követeléseket is – leírása vagy értékesítése, valamint az Szmt. 86. § szerint behajthatatlannak nem minősíthető követelések térítés nélküli elengedése miatti teljes hitelezési veszteség összegét bontják összetevőkre az eredménykimutatás egyéb pénzügyi szolgáltatások bevételei vagy ráfordításai, az egyéb bevételek és ráfordítások, illetve a rendkívüli ráfordítások soraihoz kapcsolódóan.
-
-A 2C102 sorban a tábla 1. pontjában érintett állományokra képzett, a leírást, végleges értékesítést, vagy elengedést megelőzően az előző évek eredményéből vagy tárgyévben képzett értékvesztés teljes összegét kell kimutatni.
-
-A további adatszolgáltatásokra a Hitkr. 11. § (7) bekezdés és a 15. § (3)-(5) bekezdések rendelkezései vonatkoznak.
-
-2C11és 2C13 sorokban a Behajthatatlannak minősített vásárolt, illetve saját követelésekből a leírt vagy véglegesen eladott állomány leírás vagy értékesítés előtti bruttó (teljes fennálló) értékét és könyv szerinti (nettó) értékét kell kimutatni.
-
-Az adott év során a tárgyhó végéig behajthatatlannak minősített és leírt vagy véglegesen eladott összes tőkekövetelések (beleértve az értékpapírokat és a nem értékpapír részesedéseket is) bruttó [b) oszlop] és nettó értékét [c) oszlop] Nem pénzügyi vállalatok, Háztartások, Külföld és Egyéb szektorbontásban kell részletezni a 2C111-2C114, illetve a 2C131-2C134 sorokban. Az eladott követelésekhez kapcsolódó, a nullás számlaosztályban nyilvántartott követelések leírását itt nem kell szerepeltetni a többszörös számbavétel elkerülése érdekében. A 2C111–114 és 2C131-134 részletező sorok nem tartalmazhatják az ezen szektorokhoz kapcsolódó kamat- és kamat jellegű követeléseket. Ezeket a kamatköveteléseket összevontan a 2C115 és 2C135 Leírt kamatkövetelések soron kell jelenteni.
-
-A 2C115 és 2C135 Leírt kamatkövetelések soron egy összegben kell szerepeltetni az adott év során a tárgyhó végéig behajthatatlannak minősített és leírt, illetve egyéb okból leírt, a leírás előtt a rövid lejáratú hitelek között nyilvántartott, 1996. január 1-jét megelőzően keletkezett lejárt kamat- és kamatjellegű jutalék összegét.
-
-A 2C12, 2C14 sorokban a Véglegesen eladott, behajthatatlannak minősített vásárolt, illetve saját követelések eladási értékét kell kimutatni.
-
-Az eladott kihelyezéseket attól a hónaptól kell szerepeltetni a részletező sorokban a megfelelő szektorokra bontva, amelyik hónapban a hitelintézet kivezette azokat a könyveiből, függetlenül attól, hogy ellenértékük kifizetésére mikor került sor.
-
-Itt is külön kell kimutatni az adott év során a tárgyhó végéig – az eladás előtt a rövid lejáratú hitelek között szerepelt – véglegesen eladott kamat- és kamatjellegű jutalékkövetelések összegét.
-
-A 2C15 soron a Behajthatatlannak nem minősíthető, elengedett követelések bruttó (teljes fennálló) értékét és könyv szerinti (nettó) értékét kell kimutatni.
-
-Az elengedett kihelyezéseket attól a hónaptól kell szerepeltetni a részletező sorokban a megfelelő szektorokra bontva és külön a kamatot, amelyik hónapban a hitelintézet kivezette azokat a könyveiből.
-
-2C2 Saját érdekeltségnek véglegesen eladott kihelyezések
-
-A véglegesen eladott összes kihelyezés közül azokat kell bruttó értéken és könyv szerinti nettó értéken [2C21 sor b) és c) oszlop), illetve eladási értéken [2C22 sor b) oszlop] kimutatni (január 1-jétől a tárgyhó végéig), amelyeket a hitelintézet saját érdekeltségének értékesített. Saját érdekeltségnek az a vállalkozás számít, ahol a hitelintézet a vagyoni vagy a szavazati jogoknak legalább tíz százalékát birtokolja.
-
-2C3 Minősített befolyással rendelkező vállalkozásokkal kötött ügyletek eredménye
-
-A kimutatás célja a Hpt. 2. számú melléklet III. fejezet 2. pontja szerint minősített befolyással rendelkező vállalkozásokkal – ezen belül a kapcsolt vállalkozásokkal – lebonyolított ügyletek, tranzakciók és egyéb műveletek jövedelemáramlásainak kimutatása. A táblaszakasz a hitelintézet kétirányú (tulajdonosi és befektetési) – és az átlagos piacitól eltérő kockázatú – kapcsolatából származó eredményét emeli ki az összes kamat- és kamat jellegű, továbbá nem kamat jellegű eredményéből.
-
-[A kapcsolt vállalkozás az Szmt. 3. § (2) bekezdés 7. pontja szerinti, a minősített befolyás a Hpt. szerint meghatározott fogalom.]
-
-2C31 Tulajdonosokhoz kapcsolódó ügyletek eredménye
-
-Itt kell feltüntetni a hitelintézetnek azokkal a vállalkozásokkal kötött ügyleteiből, befektetéseiből, pénzügyi és egyéb tranzakcióból, kockázatvállalásaiból származó bevételeket (2C311) és ráfordításokat (2C312), amelyeknek a hitelintézet egyszerre tulajdona és ügyfele és a vállalkozás a hitelintézetben minősített befolyással rendelkezik.
-
-A tulajdonosi kapcsolatokból származó, a negyedév folyamán elszámolt bevételekből, illetve ráfordításokból és költségekből külön ki kell emelni és kimutatni a kapcsolt vállalkozástól származó kamat- és kamatjellegű (2C31111 és 2C31211), valamint a nem kamatjellegű eredménytételeket (2C31121 és 2C31221).
-
-2C32 Befektetésekhez kapcsolódó ügyletek eredménye
-
-Itt kell feltüntetni a hitelintézetnek azokkal a vállalkozásokkal kötött ügyleteiből, befektetéseiből, pénzügyi és egyéb tranzakcióból, kockázatvállalásaiból származó bevételeket (2C321) és ráfordításokat (2C322), amelyekkel a hitelintézet egyszerre tulajdonosi és ügyfélkapcsolatban van és hitelintézet a vállalkozásban minősített befolyással rendelkezik.
-
-A befektetési kapcsolatokból származó, a negyedév folyamán elszámolt bevételekből, illetve ráfordításokból és költségekből külön ki kell emelni és kimutatni a kapcsolt vállalkozástól származó kamat- és kamatjellegű (2C32111 és 2C32211), valamint a nem kamatjellegű eredménytételeket (2C32121 és 2C32221).
-
-2C4 Bevételek értékpapírokból-osztalék
-
-A 2C41 és 2C42 sorokban az eredménykimutatás 2A02 Bevételek értékpapírokból-osztalék sorának összesen adatait kell részletezni belföldiektől és külföldiektől kapott (járó) osztalékbevételek bontásban.
-
-2C5 Kamattámogatások
-
-A 2C5 részletező soraiban a 12/2001. (I. 31.) Korm. rendeletben nevesített kamattámogatásokat kell kimutatni, eredményszemléletben. Az adatszolgáltatásnak nem részei a jogosultak által közvetlenül (nem hitelintézeten keresztül) igénybevett támogatások (pl. fiatalok otthonteremtési támogatása).
-
-A 2C51 Jelzáloglevéllel finanszírozott hitelek kamattámogatása sorban a 12/2001. (I. 31.) Korm. rendelet 12. §-a alapján az államtól 2009. július 1-jéig kötött szerződésekre kapott kamattámogatást kell jelenteni.
-
-A 2C52 Kiegészítő kamattámogatás sorban a 12/2001. (I. 31.) Korm. rendelet 13-14. §-a alapján az államtól 2009. július 1-jéig kötött szerződésekre kapott kiegészítő kamattámogatást kell jelenteni.
-
-A 2C53 Kamattámogatás értékesítés vagy bérbeadás céljára való lakás építéséhez sorban a 12/2001. (I. 31.) Korm. rendelet 15. §-a alapján az államtól 2009. július 1-jéig kötött szerződésekre kapott kamattámogatást kell jelenteni.
-
-A 2C54 Lakóházfelújítási és víziközmű kamattámogatás sorban a 12/2001. (I. 31.) Korm. rendelet 16. §-a alapján az államtól kapott kamattámogatást kell jelenteni.
-
-A 2C55 Kamattámogatás települési önkormányzatok részére sorban a 12/2001. (I. 31.) Korm. rendelet 22. §-a alapján az államtól kapott kamattámogatást kell jelenteni.
-
-2C6 Kamat jellegű bevételek és ráfordítások
-
-A 2C6 sor alábontó sorai az eredménykimutatás 2A011 Kapott kamatok és kamat jellegű bevételek és 2A012 Fizetett kamatok és kamat jellegű ráfordítások kamat jellegű tételeinek nem teljeskörű részletezésére szolgál.
-
-A 2C61 Rendelkezésre-tartási díjbevételek sorban azok a tételek jelennek meg, amelyeket az ügyfél fizet a hitelszerződésben meghatározott hitelkeretnek a hitelintézet által rendelkezésre tartott, az ügyfél által igénybe nem vett része után a rendelkezésre tartási időszakra vonatkozóan. http://www.bankihitel.hu/?us=fogalomtar&id=381
-
-A 2C62 Kezelési költség sorban a szerződéskötésért és a hitel kezeléséért felszámított – általában egyszeri – költség összegeket (ún. adminisztrációs díjat vagy költségáltalányt) kell kimutatni.
-
-A 2C63 Egyéb, hitelezéssel összefüggő bevételek sor jellemzően a hitelszerződés futamidő alatti módosításáért felszámított – számos esetben egyszeri – díjtételeket tartalmazza, így többek között a hitelkeret-beállítási díjat, hitelfolyósítási díjat, a szerződésmódosítási díjat, előtörlesztési díjat.
-
-(A hitelnyújtással, illetve hitelfelvétellel összefüggésben felmerült egyéb díjakat, így különösen a hitelbírálati díjat, garanciadíjat, ügynöki jutalékot a pénzügyi szolgáltatások eredménytételei között, a földhivatali eljárási díjat, felszólító levél díját, közjegyzői díjat általános igazgatási költségek között, egyéb igazgatási költségként kell elszámolni. Ha az ilyen címen kifizetett díjakat a pénzügyi intézmény az ügyfél felé tovább felszámítja a pénzügyi szolgáltatási díjakba beépítve, akkor az így felszámított díjbevételek egyéb pénzügyi szolgáltatási díjbevételnek minősülnek.)
-
-A 2C64 Faktoring és váltóleszámítolás díj- és kamatbevétele sor tartalma Hitkr. 10. § (3) bekezdés és 17. § (5)-(9) bekezdés szerint a váltóleszámítolási díj, illetve faktorálási díj, amely egyrészt a faktordíj (a követelés kiegyenlítésének idejére számított diszkontált kamat összege), a másrészt a megvásárolt követelés összege után felszámított egyszeri kezelési költség.
-
-A 2C65 Kamatmentesen nyújtott hitel, kölcsön után kapott kezelési költség sorba a Hitkr. 10. § (2) bekezdés i) pontjának megfelelően a kamatmentes hitel kezelési költségét kamat jellegű bevételként kell elszámolni, ha az üzletszabályzat szerint annak tartalma kamat. Ide sorolható a kamatmentes dolgozói hitel kezelési költsége is.
-
-A 2C66 Értékpapírkölcsön után kapott kölcsönzési díjak és a 2C67 Értékpapírkölcsön után fizetett kölcsönzési díjak sorban a Hitkr. 16. § (6) bekezdés ad) és bd) alpontja szerinti eredménytételeket kell kimutatni egyéb pénzügyi, vagy befektetési szolgáltatási eredménytételként.
-
-A 2C68 Exporttal kapcsolatos Kötött Segélyhitelezés bevétele és a 2C69 Exporttal kapcsolatos Kötött Segélyhitelezés ráfordítása sorban a Hitkr. 10. § (7) bekezdés szerinti eredménytételeket kell kimutatni a jogszabályban leírt elszámolási módon.
-
-2C7 Közvetített szolgáltatások
-
-A közvetített szolgáltatás fogalmát az Szmt. 3. § (4) bekezdés 1. pontja határozza meg.
-
-A 2C71 Bevételek soron azokat a hitelintézetnek járó (pl. az ügyfélnek, ügynöknek stb.) továbbszámlázott szolgáltatásokat kell kimutatni, amely mögött – részben vagy egészben – közvetített szolgáltatást tartalmazó ráfordítást számolt el a hitelintézet.
-
-A 2C72 Ráfordítások soron azokat a hitelintézetet terhelő (pl. az anyavállalatnak stb.) továbbszámlázott szolgáltatásokat kell kimutatni, amely mögött – részben vagy egészben – közvetített szolgáltatást tartalmazó bevételt számolt el a hitelintézet.
-
-2C8 Egyéb tájékoztató adatok
-
-A 2C81-2C84 sor alábontó sorai a társasági adóra vonatkoznak, a hitelintézeti különadóra nem.
-
-2C81 Adófizetési kötelezettség korrekciós és módosító tényezők figyelembevételével
-
-A 2C81 sor c) oszlopban kell kimutatni a 2A12 sorból a társasági adó fizetési kötelezettségnek az adóalap korrekciós tételek hatásával és az adófizetési kötelezettséget módosító egyéb tényezőkkel növelt, illetve csökkentett összegét.
-
-Az év végi auditált jelentésben szereplő adat megegyezik az éves beszámolóban lévő adófizetési kötelezettség hitelintézeti különadót nem tartalmazó összegével.
-
-2C82 Adófizetési kötelezettség (halmozott január 1-jétől a tárgy negyedév végéig) sor:
-
-Év közben a Hitkr. 12. § (2) bekezdése alapján az eredménykimutatásban elszámolt tárgyévi bevétel, ráfordítás és költségadatok egyenlege alapján számított várható társasági adó összegét kell szerepeltetni. A várható (számított) társasági adó a tárgy negyedév végéig halmozott adózás előtti eredményből a mindenkori adókulcsokkal számított adófizetési kötelezettséget jelenti. Ha az adózás előtti eredmény negatív, akkor az adófizetési kötelezettség értéke nulla.
-
-Ha a hitelintézet a társasági adófizetési kötelezettséget nem az általános szabályok szerint, hanem a jövedelem-(nyereség-) minimum [Tao. tv. 6. § (7)-(8) bekezdés] adó szabályai szerint állapítja meg, az előzetes számításoknál a minimumadót meg kell határoznia és a két módszerrel számított adó közül a magasabb értéket kell az eredménykimutatásban megjelenítenie.
-
-Az év végére vonatkozó előzetes, még nem auditált jelentésekbe azt az adófizetési kötelezettséget kell beírni, amelynek – a társasági adótörvény előírásai szerint végrehajtott előzetes számítások szerint – az éves beszámolóban szerepelnie kell, azzal az eltéréssel, hogy a hitelintézeti különadót nem kell beszámítani.
-
-2C83 Adóalap korrekciós tételek hatása és 2C84 Egyéb, az adófizetési kötelezettséget módosító tényezők sorokban a hitelintézeti különadón kívüli, a fizetendő társasági adóban érvényesíthető vagy érvényesített, adóalap-növelő vagy csökkentő korrekciók hatását és egyéb módosításokat kell kimutatni.
-
-Az évközi adatszolgáltatásokban csak az ismert és a hitelintézet gazdasági helyzetének megítélését lényegesen meghatározó adóalap korrekciókat kell figyelembe venni. Lényegesnek minősíthető az egyedi adókorrekció kimutatásának szükségessége, ha az az adózás előtti eredmény 20 %-át meghaladja.
-
-Az év végi előzetes, még nem auditált jelentésekben a már ismert és számszerűsített adókorrekciókat kell kimutatni.
-
-Az év végi auditált jelentésben az adóbevallás szerinti értékeket kell megjeleníteni.
-
-A 2C85Adófizetési különbözet (halmozott január 1-jétől a tárgy negyedév végéig) sor az adóhatósággal szemben ténylegesen fennálló adókövetelést (visszatérítendő adót) vagy adókötelezettséget (adótartozást) tartalmazza. A fizetendő adókülönbözetet előjel nélkül, a visszatérítendő adót negatív előjellel kell szerepeltetni. A sor a hitelintézeti különadóból származó adókövetelést, vagy adótartozást is tartalmazza.
-
-A 2C9 Terven felüli értékcsökkenés szakaszban az immateriális javakra, illetve tárgyi eszközökre terven felül elszámolt értékcsökkenés adatokat kell szolgáltatni.
-
-3DBA - 3DBE Származtatott ügyletek
-
-(tájékoztató adatok: kötési árak, elvi főösszegek, piaci értékek, ügyletek és partnerek száma)
-
-3DBA Származtatott ügyletek – HUF;
-
-3DBB Származtatott ügyletek – EUR;
-
-3DBC Származtatott ügyletek – USD;
-
-3DBD Származtatott ügyletek – CHF;
-
-3DBE Származtatott ügyletek – Egyéb devizák
-
-A tábla célja
-
-A táblázat célja a származtatott ügyletekkel kapcsolatos hitelintézeti aktivitásnak és a fennálló ügyletek típusának, jellegének, pozitív vagy negatív piaci értékének (pótlási költségének) felmérése.
-
-A tábla kitöltése
-
-A táblázatokba besorolandó minden származtatott ügylet, amelyben a hitelintézetnek pénzügyi intézményekkel és ügyfelekkel szemben fennálló pozíciója van. Az ügyfeleken belül külön soron kell kiemelni a nem pénzügyi vállalatokkal, illetve a magánszemélyekkel kötött ügyletek adatait. A fennálló pozíció bruttó módon értendő, azaz feltüntetendő minden, még le nem járt szerződésből eredő pozíció, függetlenül attól, hogy az kockázatkezelési értelemben fedezett-e vagy sem.
-
-A származtatott ügyletekre vonatkozó jelentésta forinton (3DBA – HUF) kívül a 3 legfőbb devizára (euró, USA dollár, svájci frank) kell kitölteni, illetve a további devizákra, összesítve, amelyeket külön, számozott (3DBB – Euró, 3DBC – USD, 3DBD – CHF, 3DBE – egyéb devizák) táblázatokban kell szerepeltetni. Az azonos szerkezetű 3DBA – 3DBE táblákat a kitöltési útmutatóban a továbbiakban általánosan 3DB táblaként említjük. A megfelelő devizaértékeket a fordulónapi MNB hivatalos devizaárfolyamon át kell váltani forintra (konvertálni) és a táblázatokat forintban kell kitölteni. Ha a hitelintézetnek a nevesített devizák valamelyikében nincs származtatott ügyletből eredő pozíciója, az adott devizanem táblájának első sorát nullával kell feltölteni, a nemleges jelentés szabályainak megfelelően. A táblázatokban csak az adott deviza szerinti ügyleteket szabad kimutatni.
-
-Az ügyleteket nem kell megbontani aszerint, hogy tőzsdén, vagy tőzsdén kívül köttettek. (E szempontból megkülönböztethető ügyletekből származó pozíciók tehát egységesen kezelendők.)
-
-A tábla oszlopai
-
-A hitelintézet portfoliójában lévő származtatott ügyletekre vonatkozóan kért adatokat az ügylet , fedezeti és nem-fedezeti jellege szerint, azokon belül banki könyvi és kereskedési könyvi bontásban kell kimutatni.
-
-Az Elvi főösszegek/kötési árak oszlopban a határidős rövid és hosszú pozíciók (opciós ügyleteknél az opció típusából adódó pozíciók) névértéke pozitív (abszolút) értékként értelmezendő. Az összesítő sorok az abszolút számként kimutatott részadatok összesített értékei.
-
-A pozíciók lejárati bontásánál az ügylet hátralévő futamidejét kell figyelembe venni.
-
-Az értékek meghatározásakor a fejlécben megjelölt hátralévő futamidejű ügyletek összesített elvi főösszegeit, illetve kötési árait kell megadni az alábbiak szerint:
-
-• egydevizás kamatláb ügyletekből eredő pozíciók esetén az elvi főösszegeket kell a táblázatban feltüntetni;
-
-• kétdevizás határidős és swap ügyletek határidős ügyletrésze miatti hosszú és rövid pozíciók esetén az egyik deviza (bázisdeviza) a névértéket, a másik deviza a határidős kötésértékét mutatja;
-
-• részvényszerződések, kötvényszerződések, nemesfémszerződések és áruszerződések esetén a kötési árat kell feltüntetni, ami a szerződés tárgyául szolgáló alaptermék egy egységének szerződésbeni lehívási vagy határidős ára és az alaptermék szerződés szerinti darabszámának szorzata.
-
-A Pozíciók piaci értéke, összesen fejlécű oszlopokba az előző három oszlopban feltüntetett pozíciók piaci értékét kell beírni. A piaci érték tartalmáról a Hitkr. 22. § (6) bekezdése rendelkezik és a hitelintézet Értékelési szabályzata tartalmaz intézményi előírásokat. Egyéb megbízható információforrás hiányában a piaci érték alatt az intézmény adott ügyletekre vonatkozó modellszámításainak eredménye értendő.
-
-A piaci érték meghatározása
-
-1) a határidős ügylet és a swap ügylet határidős ügyletrésze két ellentétes irányú pénzáramlást foglal magában, azaz hosszú és rövid pozícióval egyaránt rendelkezik. Az ügyletek hosszú és rövid pozícióihoz tartozó pénzáramok (forintra konvertált) jelenértékei előjelesen (hosszú pozíció „+”, rövid pozíció „–”) tüntetendők fel a megfelelő devizatábla piaci érték oszlopában. (Deviza pénzáramok esetén előbb kell a jelenértéket számolni, majd ezt kell adott napi árfolyamon forintra konvertálni);
-
-2) az egyéb származtatott ügyleteknél a pozitív vagy negatív piaci értéket kell feltüntetni előjelhelyesen.
-
-Az ügyleteket szerződésenként összesítve, a lejárattól és a fedezeti céltól függően kell szerepeltetni.
-
-A Szerződések/ügyletek száma és a Partnerek/ügyfelek száma oszlopok értelemszerűen töltendők ki; azon ügylettípusok esetében, amelyek két külön soron jelentendő pozícióra bontandók szét az egyes szerződések, illetve ügyfelek az ügylet mindkét lába esetén beszámítandók az adott sorban feltüntetendő értékbe.
-
-A tábla sorai
-
-Az ügyletek típusa, majd piaci értékének vagy nettó jelenértékének pozitív vagy negatív jellege határozza meg, hogy az adott ügylet, szerződés a tábla mely sorában kerül kimutatásra. Egy pozíciónak jellemzően mindig van valamekkora értéke, amely jellemzően egy-egy intézmény Értékelési szabályzatában rögzített módszertan szerint kerül kiszámításra. Ez az érték vagy pozitív vagy negatív, és ennek alapján kell a megfelelő pozitív vagy negatív sorba besorolni. Az alábontó sorok összege szerepel az összegző sorokon. Ha egy ügylet két lábra (pozícióra) bontásra kerül, egy-egy lábnak megfelelő pénzáram jelenértékének forintra konvertált mértékeinek viszonya határozza meg, hogy az ügylet az adott üzleti napon pozitív vagy negatív értékű az intézmény számára, és e szerint kell a pozitív értékű, vagy a negatív értékű sorba sorolni.
-
-A szerződéses partnerek felosztása pénzügyi szervezetekre és ügyfelekre teljes körű kell, hogy legyen. Pénzügyi szervezetnek minősül minden olyan intézmény, amely a PSZÁF-nak, vagy bármely külföldi társhatóságának felügyeleti hatáskörébe tartozik.
-
-A pénzügyi szervezetek körébe a C, D, E, F szektorokba sorolt intézmények és az azoknak megfelelő külföldi szervezetek tartoznak. A tábla vonatkozásában a pénzügyi szervezetek közé sorolandó a B szektorba tartozó Magyar Nemzeti Bank és a külföldi jegybankok is. Szintén a pénzügyi szervezetekhez kell sorolni a nemzetközi pénzügyi intézményeket.
-
-Az ügyfelek közé sorolandó minden olyan szerződéses partner (nem pénzügyi szervezet/vállalat, önkormányzat, magánszemély, egyéb), amely nem pénzügyi szervezet és nem tartozik a fent kiemelt intézmények közé. A szerződéses partnereket nem kell megkülönböztetni a külföldi/belföldi jellegük szerint.
-
-Az ügyletek típusai:
-
-Egy adott devizához tartozó tábla kitöltése szempontjából kamatláb-szerződésnek kizárólag olyan ügyletek számítanak, amelyek várható pénzáramait nem befolyásolja egyéb deviza árfolyama, csak valamilyen (nem feltétlenül az adott devizához kötődő) kamatláb alakulása.
-
-A devizaszerződésekhez tartozó sorokban kell feltüntetni mindazon ügyleteket, amelyek várható pénzáramainak értékét valamely egyéb deviza árfolyama is befolyásolja. Nem értendők ide azok a szerződések, amelyek tárgya/alapterméke olyan részvény, kötvény, nemesfém, áru, amelyek ellenértékét esetleg más devizában kell kiegyenlíteni; ezeket a tábla megfelelő, nevesített részeiben kell feltüntetni. A több devizás (beleértve az arany) kamatlábügyleteket devizaügyletként kell kezelni.
-
-Azok az összetett ügyletek, amelyek nem bonthatók fel pontosan határidős, swap, vagy opciós pozíciókra, a táblában külön nevesítésre kerülnek. Ezek kiemelten az FX linked swap, a Target Redemption Forward és az Extendible forward ügyletek, amelyeknek meghatározása az egyértelmű beazonosíthatóság elősegítése céljából a 3DB táblákra vonatkozó kitöltési útmutató végén található.
-
-Az egyéb (összetett) ügyletek közé kerülnek besorolásra mindazon ügyletek, amelyek az adatszolgáltató intézmény megítélése szerint nem sorolhatók be pontosan a korábbi sorokban nevesített ügylettípusokba (3DB77-78 sorok). E termékekről az intézmény írásbeli leírást (tájékoztatást) ad a PSZÁF részére, amely leírás tartalmazza a termék értékelési módszertanát és letéti követelményeit is. A leírás beadásának határideje az első olyan jelentés beküldését követő 15. munkanap, amely jelentés először tartalmaz nullától különböző (bruttó) pozíciót az adott termékben.
-
-A tábla oszlopai
-
-A hitelintézet portfoliójában lévő származtatott ügyletekre vonatkozóan kért adatokat az ügylet hátralévő futamideje (lejárata) szerint kell kimutatni, fedezeti és nem-fedezeti célú, azokon belül banki könyvi és kereskedési könyvi bontásban.
-
-Az Elvi főösszeg/kötési ár oszlopban a határidős rövid és hosszú pozíciók (opciós ügyleteknél az opció típusából adódó pozíciók) névértéke pozitív (abszolút) értékként értelmezendő. Az összesítő sorok az abszolút számként kimutatott részadatok összesített értékei.
-
-A Pozíciók piaci értéke, összesen oszlopban az egyes pozíciók piaci értékét előjelesen (vagyis nem abszolút értékben) kell megadni. Az összesítő soron is az előjel figyelembevételével kell a pozícióértéket feltüntetni.
-
-Azon oszlopokba, amelyek fejléce az ügylet hátralévő futamidejére utal, a fejlécben megjelölt hátralévő futamidejű ügyletek összesített elvi főösszegeit, illetve kötési árait kell írni:
-
-• kamatláb szerződések, devizaszerződések, hitelderivatívák és egyéb ügyletekből eredő pozíciók esetén az elvi főösszegeket (névértéket) kell a táblázatban feltüntetni;
-
-• részvényszerződések, kötvényszerződések, nemesfémszerződések és áruszerződések esetén a kötési árat kell feltüntetni, ami a szerződés tárgyául szolgáló alaptermék egy egységének szerződésbeni lehívási vagy határidős ára és az alaptermék szerződés szerinti darabszámának szorzata.
-
-A Pozíciók piaci értéke, összesen fejlécű oszlopokba az előző három oszlopban feltüntetett pozíciók összesített piaci értékét kell beírni. Egyéb megbízható információforrás (pl. tőzsdei ár, egyéb likvid piacon kialakult pillanatnyi ár) hiányában a piaci érték alatt az intézmény adott ügyletekre vonatkozó modellszámításainak eredménye értendő. Azon ügyletek esetében, amelyeknek csak egyik lába szerepel egy adott sorban, az adott lábhoz tartozó pénzáram (forintra konvertált) jelenértéke tüntetendő fel ebben az oszlopban. (Deviza pénzáramok esetén előbb kell a jelenértéket számolni, majd ezt kell adott napi árfolyamon forintra konvertálni.)
-
-Az ügyleteket szerződésenként összesítve, a lejárattól és a fedezeti céltól függően kell szerepeltetni.
-
-A Szerződések/ügyletek száma és a Partnerek/ügyfelek száma oszlopok értelemszerűen töltendők ki; azon ügylettípusok esetében, amelyek két külön soron jelentendő pozícióra bontandók szét, az egyes szerződések, illetve ügyfelek az ügylet mindkét lába esetén beszámítandók az adott sorban feltüntetendő értékbe.
-
-Meghatározások:
-
-1. FX linked swap: olyan ügylet, amelyben egyik deviza (a továbbiakban: 1. deviza) másik devizában (a továbbiakban: 2. deviza) kifejezett árfolyama tekinthető az egyetlen olyan változónak, amely a futamidő során determinálja a nettó kifizetéseket. A futamidő során több elszámolási időpont is lehet; elszámolási időpont alatt itt az az üzleti nap értendő, amely napon érvényes devizaárfolyam az elszámolás alapját képezi. Az ügylet során a szereplők az elvi főösszegre vetített (különböző mértékű) kamatot fizetnek egymásnak. Ha az árfolyam a kötési ár fölött van, az 1. Szereplő az elvi főösszegre vetítve (piaci spot árfolyam/kötési árfolyam – 1) mértékű hozamot fizet a 2. Szereplőnek. Ha az árfolyam a kiütési árfolyam alá gyengül, az 1. Szereplőnek megszűnik a jövőre vonatkozó hozam-fizetési kötelezettsége. Az ügylet besorolásának szempontjából az 1. Szereplőnek ebben az ügyletben rövid pozíciója van az 1. devizában és hosszú pozíciója a 2. devizában. Hasonlóan, 2. Szereplőnek ebben az ügyletben hosszú pozíciója van az 1. devizában és rövid pozíciója a 2. devizában.
-
-Az FX linked swap ügyletek esetében egy devizában hosszúnak tekintendő a pozíció, amennyiben az adatszolgáltató intézmény kapja az adott devizaárfolyam emelkedése által meghatározott, névértékre vetített hozamot, illetve rövidnek, amennyiben fizeti azt. A pozíciókat annak alapján kell lejárat szerint besorolni a megfelelő oszlopba, hogy az ügyletnek mi a szerződés szerinti végleges lejárata, elszámolási időpontoktól, illetve kiütési esemény bekövetkezésének kockázatától (valószínűségétől) függetlenül. Ha egy ügylet esetében a fordulónapig már bekövetkezett a kiütési esemény, megszüntetve ezáltal az árfolyam emelkedéstől függő hozamfizetési kötelezettséget, de az ügylet még nem került lezárásra/elszámolásra, az ügylet várható pénzáramait a szerződésben meghatározott időpontoknak megfelelő sávokba sorolva kell a határidős kötelezettségek között szerepeltetni (3DB71-72 sorok).
-
-2. Target Redemption Forward olyan határidős ügyletek sorozata, amely ügyleteknek különbözik az elvi főösszege aszerint, hogy a spot árfolyam a kötési árfolyamnál magasabb vagy alacsonyabb. Ez az ügylet szintetikusan előállítható lenne vételi és eladási opciók kombinációjaként. Amennyiben azonban szerepel a megállapodásban olyan kitétel, mely szerint a további elszámolásokra vonatkozó megállapodás érvényét veszíti, amint valamelyik szerződő fél valamilyen módon számított, az ügyleten elért eredménye elér egy bizonyos összeget, az ügylet már nem feleltethető meg pontosan opciók kombinációjának, ezért külön nevesített Target Redemption Forwardként kell jelenteni. Ha a profitcél elérésre került, a továbbiakban lejártnak kell tekinteni az ügyletet.
-
-A Target Redemption Forward ügyletekből származó pozíció egy devizában hosszú, ha az adott devizaárfolyam emelkedése értéknövelően hat ezen ügyletből származó pozícióra. Az ügyletben szereplő mindkét devizához tartozó tábla megfelelő soraiban fel kell tüntetni az ügylet paramétereit. Futamidő szerinti besoroláskor az ügylet végleges lejárata veendő alapul, elszámolási időpontoktól, illetve kiütési esemény bekövetkezésének kockázatától (valószínűségétől) függetlenül (3DB73-74 sorok).
-
-3. Extendible forward: olyan ügylet, amelynek keretében az egyik szereplő a másik szereplővel szintetikus határidős ügyleteket köt meghatározott lejáratokra, továbbá opciót (jogot) ad annak, hogy a jövőbeni árfolyamváltozások függvényében – amennyiben egy adott jövőbeni időpontban az ügylet alapjául szolgáló termék árfolyama eléri vagy meghaladja az előre meghatározott referencia értéket – újabb szintetikus határidős ügylet-sorozatot kössön vele az előre meghatározott feltételek szerint. A két határidős ügylet-sorozat kötési árfolyamának egyezősége nem szükségszerű. A második határidős ügylet létrejötte feltételhez – az árfolyam jövőbeni alakulásához, egy előre meghatározott szint eléréséhez – kötött. Ha nem kerül sor a referencia értéke elérésére adott időpontban, akkor a továbbiakban a második szintetikus határidős ügylet sorozat lejártnak tekintendő.
-
-Az Extendible Forward ügyletekből származó pozíció egy devizában hosszú, ha az adott deviza árfolyamemelkedése értéknövelően hat ezen ügyletből származó pozícióra. Az ügyletben szereplő mindkét devizához tartozó tábla megfelelő soraiban fel kell tüntetni az ügylet paramétereit. Futamidő szerinti besoroláskor az ügylet végleges lejárata (biztos megszűnése) veendő alapul, elszámolási időpontoktól, illetve kiütési esemény bekövetkezésének kockázatától függetlenül, annak feltételezésével, hogy az ügyletben szereplő opció lehívásra kerül (3DB75-76 sorok).
-
-3H Hátrasorolt követelések és kötelezettségek
-
-A tábla célja
-
-A jelentésben a mérleg eszköz és forrás oldalán lévő jelentett állományok közül a hátrasorolt követeléseket és kötelezettségeket kell szerepeltetni.
-
-A tábla kitöltése
-
-Ebben a táblában kell a hátrasorolt követelésnek, illetve kötelezettségnek számító, a jogszabályokban nevesített, a szabályozott intézmények szavatoló tőkéjébe beszámítható instrumentumokat, az alapvető, járulékos, alárendelt, kiegészítő alárendelt kölcsöntőkét, a tulajdonossal szembeni vagyoni kötelezettséget és az egyéb hátrasorolt követeléseket, illetve kötelezettségeket kimutatni.
-
-A csoportosításnál mind az eszközök, mind a források között külön kell jelenteni a külföldieknek és a belföldieknek nyújtott, illetve a külföldiektől és a belföldiektől származó instrumentumokat.
-
-A hátrasorolt követeléseket bruttó és nettó értéken is szerepeltetni kell. A táblában nemcsak azokat a hátrasorolt követeléseket, illetve hátrasorolt követelést megtestesítő értékpapírokat kell szerepeltetni, amelyeket a hitelintézet keletkeztetett, hanem azokat is, amelyeket megvásárolt. Minden olyan hátrasorolt követelést, illetve hátrasorolt követelést megtestesítő értékpapírt szerepeltetni kell, ami a hitelfelvevő illetve a kibocsátó intézmény mérlegében a magyar számviteli szabályok szerint kötelezettségnek minősül, függetlenül attól, hogy egyéb számviteli sztenderdek (pl. az IFRS) alapján kötelezettségnek vagy tőkeinstrumentumnak kell besorolni (pl. részvényre átváltható értékpapírok). A hátrasorolt követeléseket nem kell megbontani az instrumentum fő típusa szerint (hitel, vagy értékpapír), csak az instrumentum prudenciális jellege – veszteségviselő képessége – szerinti altípusokat kell elkülönítetten megjeleníteni.
-
-A tábla sorai
-
-A hitelintézetekkel szembeni követeléseket külön sorokon, a többi szabályozott intézménnyel (befektetési vállalkozással, biztosítóval) szembeni, az intézmény szavatoló tőkéjébe beszámítható hátrasorolt követeléseket összevontan, az egyéb pénzügyi vállalatok 3H131 és 3H141, illetve 3H231 és 3H241 kódú soraiban kell szerepeltetni. Ha a szavatoló tőkébe beszámítható kölcsöntőkét külföldi hitelintézetnek nyújtották, akkor aszerint kell azokat besorolni a magyar jogszabályok szerinti altípusokba, hogy milyen szintű tőkeelemnek minősülnek a fogadó intézmény nemzeti joga alapján. Ennek megfelelően az alapvető (Tier 1) tőkébe – limitált módon – beszámítható kölcsöntőkét a 3H121 (és 3H221) alapvető kölcsöntőke soron, a járulékos tőkébe (Tier 2) beszámítható lejárat nélküli kölcsöntőkét a magasabb rendűnek (Upper Tier 2) minősülő 3H122 (és 3H222) járulékos kölcsöntőke soron, a járulékos tőkébe beszámítható – eredetileg legalább ötéves – lejárattal rendelkező, alacsonyabb rendűnek (Lower Tier 2) minősülő kölcsöntőkét a 3H123 (és 3H223) alárendelt kölcsöntőke soron, a kiegészítő tőkébe (Tier 3) beszámítható – eredetileg legalább kétéves – lejárattal rendelkező kölcsöntőkét a 3H124 (és 3H224) kiegészítő alárendelt kölcsöntőke soron kell jelenteni, attól függetlenül, hogy az összeg a limitek miatt ténylegesen az intézménynek az alapvető, a járulékos vagy a kiegészítő tőkéjében szerepel.
-
-A hátrasorolt kötelezettségeket meg kell bontani az instrumentum fő típusa szerint is (hitel vagy értékpapír), nemcsak az instrumentum prudenciális jellege (veszteségviselő képessége) alapján. A 3H311, 3H321, 3H411 és 3H421 Alapvető kölcsöntőke sorokban a Hpt. 5. számú melléklet 11. pontja szerinti alapvető kölcsöntőkét, a 3H312, 3H322, 3H412 és 3H422 Járulékos kölcsöntőke sorokban a Hpt. 5. számú melléklet 18. pontja szerinti járulékos kölcsöntőkét, a 3H313, 3H323, 3H413 és 3H423 Alárendelt kölcsöntőke sorokban a Hpt. 5. számú melléklet 19. pontjában ilyenként meghatározott alárendelt kölcsöntőke szerződés szerinti összegét kell szerepeltetni. A 3H314, 3H324, 3H414 és 3H424 Kiegészítő alárendelt kölcsöntőke sorokban a Hpt. 5. számú melléklet 31. pontjában ilyenként meghatározott kölcsöntőke teljes összegét kell szerepeltetni. A Hpt. 5. számú melléklet 21. pontjában meghatározott, járulékos tőkeként figyelembe vehető átváltoztatható kötvények hó végi állományát a 3H311, 3H312 és 3H313 sorok közül azon a soron kell szerepeltetni, amelyikre vonatkozó feltételeknek megfelel.
-
-A 3H431 Szövetkezeti részjegy, vagyonjegy sorban a szövetkezeti formában működő hitelintézeteknek a tulajdonukat képező részjegy állományt és vagyonjegy-alapot kell feltüntetni. (Itt csak a jegyzett tőkeként még be nem jegyzett részjegy állományt szabad kimutatni. A bármilyen ok miatt visszavett – visszavásárolt – részjegyek állományát nem szabad itt szerepeltetni.) A 3H432 Szövetkezeti egyéb vagyoni hozzájárulás sorban a bankkonszolidáció során kapott vagyoni hozzájárulást, valamint a fel nem sorolt, de a szövetkezeti hitelintézet számára hátrasorolt kötelezettségnek számító egyéb állományt (pl. a konszolidációhoz nem kapcsolódó vagyoni hozzájárulást) kell jelenteni.
-
-3I Tulajdonosi kapcsolatok
-
-A tábla célja
-
-A jelentőtáblát a hitelintézet tevékenységében a tulajdonosokhoz kapcsolódó kockázatvállalások illetve finanszírozási kapcsolatok felméréséhez kell kitölteni.
-
-A tábla kitöltése
-
-A tábla oszlopai
-
-A jelentésben azokhoz a tulajdonosokhoz kapcsolódó kihelyezéseket, és azoktól a tulajdonosoktól kapott forrásokat és az általuk rendelkezésre bocsátott – le nem hívott – hitelkereteket kell szerepeltetni a) Forint, b) Euro, és c) Egyéb deviza bontásban, amelyek részesedése a jegyzett tőkében eléri az 5%-ot. Szövetkezeti hitelintézetek esetében a részjegy állomány 5%-át kell figyelembe venni.
-
-3J1 – 3J2 Értékpapírok értékelési adatai
-
-A táblák célja
-
-A jelentések tartalmilag a mérleg eszköz oldalán lévő 1AB2 Hitelviszonyt megtestesítő értékpapírok, 1AB3 Tulajdoni részesedések és 1AB6 Vagyoni érdekeltségek sorain könyv szerinti értéken jelentett értékpapír állományokat tartalmazza, de a hitelintézet által követett számviteli értékelési eljárásoknak megfelelő értéken és a prudenciális jogszabályokban lefektetett értékelési szabályok szerint.
-
-A 3J1 Valós értékelést nem alkalmazó hitelintézetek – értékpapírok értékelési adatai és 3J2 Valós értékelést alkalmazó hitelintézetek – értékpapírok értékelési portfóliók szerinti adatai táblában mindazokat az értékpapírokat számba kell venni, amelyek az Szmt. értékpapírnak tekint. A számviteli törvény értelmében értékpapírnak kell tekinteni olyan, jogokat megtestesítő okiratokat is, amelyek más törvény (pl. a Tpt.) értelmében nem minősülnek értékpapírnak (így különösen az üzletrész). Ennek alapján a felügyeleti mérleg 1AB6 Vagyoni érdekeltségek között nem értékpapírként nyilvántartott, tulajdoni részesedést jelentő befektetéseket is fel kell tüntetni a táblában.
-
-A jogszabályok instrumentum-típusokra vonatkozó terminológiája nem azonos. A számvitel és a statisztika – noha nem teljesen egybevágó tartalommal, de – a hitelviszonyt megtestesítő értékpapír és a tulajdoni részesedést jelentő befektetés fogalmakat használja, a kereskedési könyvi szabályozás a kötvények, illetve részvények és egyéb értékpapírok megkülönböztetést. Ebben a táblában azoknál a kereskedési szándékkal tartott értékpapíroknál, amelyekre a Kkr. szerinti piaci értéket is jelenteni kell, az instrumentumok megnevezése az egyértelmű beazonosítás érdekében akkor is a Kkr. szerint történt (kötvények, illetve részvények és egyéb értékpapírok), ha a számviteli értékelés bemutatását követeli meg a jelentés. Egyéb állományok esetében a számviteli fogalmak találhatóak a megnevezés rovatban. Azokban az esetekben, amikor a statisztikai mérleg fogalma eltér a számviteli besorolástól (mint pl. a zárt végű ingatlanalap befektetési jegye esetében, amely határozott idejű alap jegyeként a Szmt. 3. § (6) bekezdés 2. pont szerint hitelviszonyt megtestesítő értékpapírnak minősül), az útmutató ebben a táblában minden esetben a számviteli besorolás alkalmazását követeli meg, tehát a hitelviszonyt megtestesítő értékpapírok között kell szerepeltetni. Azokat az értékpapírokat, amelyek lejárattal rendelkeznek, de sem a számviteli, sem a statisztikai mérlegben nem tartoznak a hitelviszonyt megtestesítő papírok közé, pl. kockázati tőkealap jegye, szintén az Egyéb értékpapírok között kell kimutatni.
-
-A magyar állampapírokat minden esetben külön soron kell szerepeltetni. Az állampapírok körét a Tpt. 5. § (1) bekezdés 6. pontjának megfelelően kell értelmezni, ennek megfelelően a magyar állampapírok közé sorolandók az MNB által kibocsátott, hitelviszonyt megtestesítő értékpapírok is.
-
-3J1 Valós értékelést nem alkalmazó hitelintézetek - Értékpapírok értékelési adatai
-
-A tábla kitöltése
-
-Ebben a táblában az Szmt. 59/A-59/F. §-ok szerinti valós értéken történő értékelést nem alkalmazó hitelintézeteknek kell jelenteni az értékpapírokra vonatkozó adatokat forgatási és befektetési célú bontásban.
-
-A tábla sorai
-
-A forgatási célú értékpapírokon belül meg kell különböztetni a Bszt. 103. § (1) bekezdés szerinti, kereskedési szándékkal tartott és a kereskedési könyvben is nyilvántartott értékpapírok állományát, amelyeket a számviteli értékelési szabályoknak megfelelő értéken, és a Kkr. 5-8. §-ok szerinti értéken (piaci érték) is egyaránt jelenteni kell, függetlenül attól, hogy az intézmény a tőkekövetelményt a Kkr. 12. § (2) bekezdés előírásai alapján a Kkr. vagy a Hkr. szerint számítja, és jelenti a PSZÁF felé (3J1114, 3J1124 sorok). A kereskedési szándékkal tartott és a kereskedési könyvben is nyilvántartott értékpapírok állományát tovább kell bontani a saját kezelésű (3J111 sorok), és a portfóliókezelésbe adott állományok (3J112 sorok) elkülönítése érdekében, ahol az értékpapírok értékelését a portfóliókezelő végzi.
-
-A 3J113 Nem kereskedési szándékkal tartott forgatási célú értékpapírok sorokon azokat az eredeti lejárat szerint rövid – legfeljebb egy éves – lejáratú értékpapírokat (pl. DKJ) kell szerepeltetni, amelyeket a számviteli kimutatásokban forgatási célúnak kell besorolni, de nem a Bszt. szerinti kereskedési szándékkal, hanem a kereskedési szabályzat alapján lejáratig tartanak. A kereskedési könyvet nem vezető hitelintézeteknek ezeken a sorokon kell szerepeltetniük a forgatási célú hitel- és tulajdonviszonyt megtestesítő értékpapírok állományát. A 3J1133 Részvények és egyéb értékpapírok sorokon olyan értékpapírok szerepelhetnek, amelyek sem a számviteli, sem a statisztikai mérlegben nem tartoznak a hitelviszonyt megtestesítő papírok közé, pl. részvények, kockázati tőkealap jegye.
-
-A 3J12 Befektetési célú értékpapírok között kell jelenteni a könyvekbe befektetési célúként felvett értékpapírokat, közöttük azoknak a tárgyévben lejáró értékpapíroknak a még fennálló állományát is, amelyeket az Szmt. 30. § (5) bekezdés alapján a számviteli mérlegben a forgatási célú értékpapírok között kell kimutatni. A vagyoni érdekeltségek könyv szerinti értékét és értékvesztését a befektetési célú értékpapírokon belül a részvények és egyéb értékpapírok sorokban (a 3J1231 és 3J1232) kell kimutatni.
-
-3J2 Valós értékelést alkalmazó hitelintézetek - Értékpapírok értékelési adatai
-
-A tábla kitöltése
-
-Ebben a táblában kell jelenteni az értékpapírokra vonatkozó valós érték adatokat az Szmt. 59/A-59/F. §-ok szerinti valós értéken történő értékelést alkalmazó hitelintézeteknek forgatási és befektetési célú bontásban.
-
-A táblában az értékpapírok állományát valós értéken kell kimutatni. Az Szmt. 59/B. § (9) bekezdésének és a Hitkr. 9. § (9) bekezdésének megfelelően a valós értéken értékelt értékesíthető értékpapírok pozitív értékelési különbözete nem része az eszköz könyv szerinti értékének, így a valós értékelést alkalmazó hitelintézeteknél a 3J2 tábla főösszege (3J21) és a felügyeleti mérleg 1AB2, 1AB3 és 1AB6 soraiban szereplő értékek összege eltér egymástól. Ez abból adódik, hogy a fenti jogszabálynak megfelelően a felügyeleti mérlegben a valós értéken értékelt értékesíthető értékpapírok pozitív értékelési különbözete nem jelenik meg az értékpapírhoz kapcsoltan annak könyv szerinti értékében, hanem az 1AB91 Egyéb aktív elszámolások és egyéb eszközök között (1AB914 Egyéb sor).
-
-A tábla sorai
-
-A 3J22 Befektetési célú értékpapírok között kell jelenteni a könyvekbe befektetési célúként felvett értékpapírok közül azoknak a tárgyévben lejáró értékpapíroknak a még fennálló állományát is, amelyeket az Szmt. 30. § (5) bekezdés alapján a számviteli mérlegben a forgatási célú értékpapírok között kell kimutatni.
-
-Az értékpapírok állományát az Szmt. 59/A. §-ban definiált értékelési porfóliók szerint is meg kell bontani. A kereskedési célú értékpapírok kivételével a portfóliókban lévő értékpapírokat aszerint is meg kell különböztetni, hogy bekerüléskor vagy rendkívüli körülmények, illetve a tartási szándék megváltozása miatti átsorolást követően került oda az értékpapír.
-
-A 3J211 Kereskedési célú pénzügyi eszközök közé sorolt – Szmt. 59/A. § (4) bekezdés a) pont szerinti – értékpapírok soron kell szerepeltetni a kereskedési célú pénzügyi eszközök közé sorolt – Szmt. 59/A. § (4) bekezdés a) pont szerinti – értékpapírok állományát az Szmt. 59/B. § (8) bekezdés és Hitkr. 9/A. (3) bekezdés szerinti valós értékén (könyv szerinti érték).
-
-A 3J212 Értékesíthető pénzügyi eszközök közé sorolt – Szmt. 59/A. § (4) bekezdés b) pont szerinti – értékpapírok soron kell szerepeltetni a forgatási célú értékpapírok között nyilvántartott értékesíthető pénzügyi eszközök közé sorolt – Szmt. 59/A. § (4) bekezdés b) pont szerinti – értékpapírokat. Az értékesíthető portfólióban el kell különíteni Hitkr. 9/B. (3) bekezdés szerint a bekerülési értéken értékelt (3J2121 sor), és a valós értéken értékelt állományokat (3J2122 sor). A valós értékelés alá vont értékesíthető instrumentumok esetében az Szmt. 59/B. § (9) bekezdés szerint az értékelési különbözet csak pozitív lehet.
-
-A 3J22 Befektetési célú értékpapírok soron kell szerepeltetni a befektetési célú értékpapírokat. A portfóliókban lévő értékpapírokat aszerint is meg kell különböztetni, hogy bekerüléskor, vagy rendkívüli körülmények, illetve a tartási szándék megváltozása miatti átsorolást követően került oda az értékpapír. A 3J221 Bekerüléskor lejáratig tartottként felvett – Szmt. 59/A. § (4) bekezdés c) pont szerinti – és egyéb befektetési célú értékpapírok soron kell szerepeltetni az Szmt. 59/A. § (4) bekezdés c) pont szerinti a lejáratig tartott értékpapírok mellett azokat bekerüléskor befektetési célúként felvett és a befektetési célúak között nyilvántartott értékpapírokat is, amelyeket nem soroltak be a lejáratig tartott pénzügyi eszközök közé, hanem az értékesíthető portfólióban tartanak, és a törlesztésekkel és az értékvesztéssel csökkentett, visszaírásokkal növelt bekerülési értéken értékelnek. A 3J222 Bekerüléskor befektetési célúként a könyvekbe felvett valós értékelés alatti értékesíthető értékpapírok soron valós értéken kell szerepeltetni azokat bekerüléskor befektetési célúként felvett és a befektetési célúak között nyilvántartott értékpapírokat is, amelyeket nem soroltak be a lejáratig tartott pénzügyi eszközök közé, hanem az értékesíthető portfólióban tartanak, és valós értéken értékelnek. Az értékesíthető pénzügyi eszközök pozitív értékelési különbözete, mely a felügyeleti mérleg 1AB914 Egyéb során jelenik meg, az Szmt. 59/B. § (9) bekezdésének megfelelően nem része az eszköz könyv szerinti értékének. A vagyoni érdekeltségek könyv szerinti értékét és értékvesztését a befektetési célú értékpapírokon belül a hitelintézet szándékának megfelelő sorba (3J221, 3J222, vagy 3J223) kell besorolni a Részvények és egyéb értékpapírok alábontó sorokba.
-
-A 3J23 Kereskedési szándékkal tartott - kereskedési könyvben nyilvántartott értékpapírok piaci értéke soron kell szerepeltetni a Bszt. 103. § (1) bekezdés szerinti, kereskedési szándékkal tartott és a kereskedési könyvben is nyilvántartott értékpapírok állományát a Kkr. 5-8. §-ok szerinti értéken (piaci érték), függetlenül attól, hogy az intézmény a tőkekövetelményt a Kkr. 12. § (2) bekezdés előírásai alapján a Kkr. vagy a Hkr. szerint számítja, és jelenti a PSZÁF felé. A 3J232 soron azokat az értékelési korrekciókat kell feltüntetni, amelyeket a kereskedési könyvben nyilvántartott értékpapírokra a Kkr. 13. sz. melléklet 10. pont alapján az intézmény által alkalmazott számviteli előírások szerint számított negatív értékelési különbözetet meghaladó mértékű jelentős veszteségekhez vezettek, és amelyeket egyébként a szavatoló tőkéből le kell vonni.
-
-A Bszt. 103. § (4) bekezdés előírásai ellenére a kereskedési célú eszközök átsorolásának az Szmt. 59/A. § (12) bekezdés szerinti számviteli és a Bszt. 103. § (5) és (6) bekezdés szerinti prudenciális szabályai eltérőek lehetnek. A 3J241 soron tájékoztató adatként a 3J23 soron feltüntetett állományból azokat az értékpapírokat kell a Kkr. szerinti piaci értéken szerepeltetni, amelyeket a számviteli nyilvántartásokban rendkívüli körülmények miatt a kereskedési célú eszközök közül már átsoroltak más számviteli portfólióba, de amelyek a prudenciális előírások alapján még a kereskedési könyvben vannak nyilvántartva és értékelve. Ezen átsorolt állományok állományok közül a lejáratig tartott, vagy a bekerülési értéken értékelt értékesíthető pénzügyi eszközök közé sorolt tételek könyv szerinti értékét a 3J242 soron, a valós értéken értékelt értékesíthető pénzügyi eszközök közé sorolt tételek könyv szerinti értékét 3J243 soron kell tájékoztató adatként szerepelteni.
-
-3K1 – 3K2 Lejáratig tartott, kereskedési célú vagy értékesíthető értékpapír potfolióban tárgynegyedévben történt átsorolások
-
-A táblák célja
-
-A jelentésekben az Szmt. 59/A-59/F. §-a, illetve a Hitkr. 9/A-9/F. §-a szerinti valós értéken történő értékelést alkalmazó hitelintézeteknek a számviteli jogszabályokban lefektetett értékelési portfóliók közötti átsorolások nyomon követése.
-
-3K1 Lejáratig tartott értékpapírok közül a tárgynegyedévben kereskedési célúvá vagy értékesíthetővé átsorolt értékpapírok
-
-A tábla kitöltése
-
-A tábla sorai
-
-Ebben a táblában az átsorolásokat értékpapíronként kell jelenteni.
-
-A tábla oszlopai
-
-Az a) oszlop értékpapírok megnevezését, a b) oszlop az értékpapírok ISIN kódját tartalmazza. Amennyiben az értékpapírnak nincs, vagy a PSZÁF jelentésfogadó rendszerében még nem ismert az ISIN vagy PSZÁF kódja, a jelentés küldésekor regisztrációs kérelmet kell kitölteni a rendszerben előírtak alapján. A c) oszlopban a lejáratig tartott számviteli portfólióból való kivezetés időpontját kell feltüntetni. A d) oszlopban az átsorolás szerinti új portfólió kódját kell az alábbiak szerint szerepeltetni
-
-K - Kereskedési célú
-
-ÉB - Értékesíthető - Bekerülési értéken értékelt
-
-ÉV - Értékesíthető - Valós értéken értékelt
-
-Az e-i) oszlopokban az Szmt. 59/A. § (11) bekezdés szerinti értékeket, a j) oszlopban a Kkr. 5-8. §-ok szerinti értéket (piaci érték) kell szerepeltetni.
-
-A k) oszlopban az átsorolás jellege szerinti kódot kell az alábbiak szerint szerepeltetni:
-
-J - Szmt. 59/A. § (11) bekezdés szerinti jelentős mennyiség
-
-R - Szmt. 59/A. § (11) bekezdés szerinti rendkívüli körülmények
-
-3K2 Kereskedési célú értékpapírok közül a tárgynegyedévben nem kereskedési célúvá átsorolt értékpapírok
-
-A tábla kitöltése
-
-A tábla sorai
-
-Ebben a táblában az átsorolásokat értékpapíronként kell jelenteni.
-
-A tábla oszlopai
-
-Az a) oszlop értékpapírok megnevezését, a b) oszlop az értékpapírok ISIN kódját tartalmazza. Amennyiben az értékpapírnak nincs, vagy a PSZÁF jelentésfogadó rendszerében még nem ismert az ISIN vagy PSZÁF kódja, a jelentés küldésekor regisztrációs kérelmet kell kitölteni a rendszerben előírtak alapján. A c) oszlopban a kereskedési célú számviteli portfólióból való kivezetés időpontját kell feltüntetni. A d) oszlopban az átsorolás szerinti új portfólió kódját kell az alábbiak szerint szerepeltetni
-
-LT - Lejáratig tartott
-
-ÉB - Értékesíthető - bekerülési értéken értékelt
-
-ÉV - Értékesíthető - Valós értéken értékelt
-
-Az e) oszlopban Kkr. 5-8. §-ok szerinti értéket (piaci érték), f-j) oszlopokban az Szmt. 59/A. § (11) bekezdés szerinti értékeket kell szerepeltetni.
-
-4AT - 4AE Lejárati összhang elemzés
-
-4AT Lejárati összhang elemzés – összesítő
-
-4AA Lejárati összhang elemzés – HUF
-
-4AB Lejárati összhang elemzés – EUR
-
-4AC Lejárati összhang elemzés – USD
-
-4AD Lejárati összhang elemzés – CHF
-
-4AE Lejárati összhang elemzés – Egyéb devizák
-
-A táblák célja
-
-A 4AT-4AE táblák célja a hitelintézet középtávú likviditásának mérése és elemzése devizanemenként és forintban összesítve.
-
-A táblák kitöltése
-
-A táblát a vonatkozási (beszámolási) időpontra elkészített 1AB és 1B Felügyeleti mérleg fennálló állományi adataiból kiindulva a vonatkozó szerződésekkel összhangban kell kitölteni, könyv szerinti bruttó értéken.
-
-A 4AA-4AE részletező táblázatokban a megfelelő devizaértékeket millió forintra kerekítve kell szerepeltetni.
-
-A hitelintézetnek meg kell bontania az egyenletes törlesztőrészleten belül a tőkét és kamatot (annuitásos törlesztés) és ennek megfelelően a táblázatot értelemszerűen kitölteni. A változó kamatozású hiteleknél a törlesztőrészlet – a 9-es kamatkockázati tábláktól eltérően – a szerződés szerinti esedékességi időpontnak megfelelő lejárati sávba sorolandó. A változó kamat számításánál a mérlegkészítéskor ismert kamatfeltételekből kell kiindulni és a jövőbeni kamatáramlást az Eredménytételek táblába beállítani.
-
-A táblák oszlopai
-
-Az a) Lejárt oszlopban kell kimutatni a vonatkozási időszak végéig esedékessé vált, de ki nem fizetett tőke-, kamat- és egyéb követeléseket könyv szerinti bruttó értéken, a mérlegben való nyilvántartás időpontjáig.[^10] Lejárt tételként kell feltüntetni azokat a mérlegben szereplő betéteket, illetve a hitelintézet által kibocsátott értékpapírokat és azok kamatát, járulékát is, amelyeket a lejárat után (az esedékességkor) az ügyfelek nem váltottak ki.
-
-A b) – j) oszlopokban a lejárattal rendelkező tételeket a hátralévő esedékesség (futamidő) szerint kell kimutatni a szerződés törlesztési ütemezésének, teljesítési határidejének vagy a termék lejárati esedékességének megfelelően. Az oszlopokban a lejárati sáv felső értékét az időintervallumba tartozónak kell tekinteni az alsó érték a megelőző lejárati sáv felső értékét követő 1. nap.
-
-Az eszközök közül azokat a tételeket, amelyek a beszámolás (hónap vége) időpontjától számítva legfeljebb 7 napon belül ténylegesen visszafizetésre, beváltásra, eladásra (pl. értékpapír) kerültek, és már nem lehet (mert megszűnt) a szerződés szerinti időintervallumba besorolni, azokat az 1-30 napig terjedő oszlopban és a megfelelő sorban kell feltüntetni az adatszolgáltatás során.[^11] A forrás oldalon lévő tételek besorolásánál azokat a tételeket (betéteket), amelyeknél a lekötés – a szerződésnek megfelelően – folyamatosan meghosszabbítódik, abban az oszlopban kell feltüntetni, amelyik időszakra a lejárat köttetett.[^12]
-
-A k) oszlopban a konkrét lejárathoz (esedékességhez) nem kötődő tételeket kell feltüntetni.
-
-Az l) Összesen oszlopban a lejárt, a lejárattal feltüntetett, illetve a lejárat nélküli oszlopok összesített értékét kell kimutatni.
-
-A táblák sorai
-
-4A01Mérlegtételek
-
-Itt kell számszerűsíteni, hogy a mérlegben a vonatkozási időpontban fennálló állományon az érvényes szerződéses feltételek (lejárat, törlesztés) mellett az adott idősávokon belül milyen összegű pénzbevételek és pénzkiadások várhatók.
-
-A táblát cash-flow szemléletben kell kitölteni, ezért a felügyeleti mérlegben szereplő aktív és passzív kamatelhatárolás állományokat és az egyéb aktív és passzív elszámolásokból az 1C tábla 731 és 732 során kiemelt egyéb aktív és passzív időbeli elhatárolások értékét, a megképzett értékvesztés, céltartalék és értékelési különbözet állományokat nem kell szerepeltetni.
-
-A hátrasorolt követeléseket és kötelezettségeket a 3H táblának megfelelően, az azt megtestesítő pénzügyi instrumentum megfelelő sorában kell kimutatni.
-
-A 4A011 Eszközök sor és 4A012 Források részletezése a mérleg főbb csoportosítása szerint történik. Az eszközöket és forrásokat könyv szerinti bruttó értéken kell kimutatni a felügyeleti mérlegsorok alábbi egyezőségének biztosításával:
-
-|  | 4A tábla sorai | Kitöltési útmutató13 |
-
-| 4A01 | Mérlegtételek | 1AB és 1B Felügyeleti mérlegsorok |
-
-| 4A011 | Eszközök | Eszközök |
-
-| 4A0111 | Pénztár és elszámolási számlák | 1AB1-1AB16 |
-
-| 4A0112 | Államkötvény, MNB kötvények, Diszkont kincstárjegyek | 1AB2111 + 1AB2112 + 1AB2113 + 1AB2211 + 1AB22121 + 1AB22122 |
-
-| 4A0113 | Egyéb értékpapírok | 1AB2+ 1AB3 – 1AB214 – 1AB215 – 1AB222 – 1AB223 – 1AB233 – 1AB234 – 1AB244 – 1AB245 – 1AB253 – 1AB254 – 1AB262 – 1AB263 – 1AB273 – 1AB274 – 1AB3113 – 1AB3114– 1AB322 – 1AB323 – 1AB332 – 1AB333 – 1AB342 – 1AB343 – 1AB353 – 1AB354 – (1AB2111 + 1AB2112 + 1AB2113 + 1AB2211 + 1AB22121 + 1AB22122) |
-
-| 4A0114 | Jegybankkal szembeni betétek | 1AB411 + 1AB412 |
-
-| 4A0115 | Hitelintézetekkel szembeni betétek | 1AB421+1AB422+ 1AB423+1AB4311+1AB4312+1AB4321+1AB4322 |
-
-| 4A0116 | Hitelek | 1AB5– 1AB5113 – 1AB5114 – 1AB5123– 1AB5124– 1AB5133 – 1AB5134 – 1AB533 – 1AB534 – 1AB544– 1AB545– 1AB553 – 1AB554 – 1AB5616 – 1AB5617– 1AB5626 – 1AB5627 – 1AB574 – 1AB575– 1AB583 – 1AB584 |
-
-| 4A01161 | Pénzügyi vállalatoknak nyújtott hitel | 1AB5311+….+1AB5322+1AB5411+….+1AB543322 |
-
-| 4A01162 | Nem pénzügyi vállalatoknak nyújtott hitel | 1AB5511+….+1AB552722 |
-
-| 4A01163 | Háztartásoknak nyújtott hitel | 1AB5611+….+1AB561522 + 1AB5621 + … + 1AB562522 |
-
-| 4A01164 | Egyéb belföldieknek nyújtott hitel | 1AB52+1AB51111+…+1AB511222+1AB5121+1AB5122 +1AB5131+…+1AB51322 +1AB571+…+1AB57322 |
-
-| 4A01165 | Külföld hitelei | 1AB58111+…+1AB58222 |
-
-| 4A0117 | Egyéb követelések | 1AB7- (1AB791+1AB792) + 1AB91-1C731- (1AB9151+…+1AB917) |
-
-| 4A0118 | Vagyoni érdekeltségek | 1AB6 – 1AB612– 1AB613– 1AB625 – 1AB626 – 1AB634 – 1AB635 – 1AB643– 1AB644 |
-
-| 4A0119 | Saját eszközök | 1AB92 – 1AB9232 – 1AB9244 – 1AB9256 – 1AB9265 |
-
-| 4A012 | Források | Források |
-
-| 4A0121 | Betétek | 1B1 |
-
-| 4A01211 | Nem pénzügyi vállalatok betétei | 1B1311+…+ 1B1324 |
-
-| 4A012111 | ebből: látra szóló és folyószámla betét | 1B1311+1B1321 |
-
-| 4A012112 | ebből: lekötött betét | 1B13121+…+1B131222+1B13221+…+1B132222 |
-
-| 4A01212 | Háztartások betétei | 1B1411+…+1B1424 |
-
-| 4A012121 | ebből: látra szóló és folyószámla betét | 1B1411+1B1421 |
-
-| 4A012122 | ebből: lekötött betét | 1B14121+…+1B141222+1B14221+…+1B142222 |
-
-| 4A01213 | Külföld betétei | 1B16111+….+1B1624 |
-
-| 4A0122 | Bankközi betétek | 1B2 |
-
-| 4A01221 | Belföldi hitelintézetek betétei | 1B2111+…+1B211222 |
-
-| 4A01222 | Külföldi hitelintézetek betétei | 1B22111+…+1B222222 |
-
-| 4A01223 | Pénzpiaci alapok betétei | 1B2121+…+1B212222 |
-
-| 4A0123 | Felvett hitelek | 1B3 |
-
-| 4A01231 | Külföld | 1B39111+….+1B392332 |
-
-| 4A01232 | Belföld | 1B311+…+1B38 |
-
-| 4A0124 | Saját kibocsátású, hitelviszonyt megtestesítő értékpapírok | 1B4 |
-
-| 4A0125 | Egyéb kötelezettségek | 1B5+1B7-1C732– (1B741+…+1B75) |
-
-| 4A0126 | Saját tőke | 1B9 |
-
-13 A fősorok értékvesztéssel történő korrekciója szükséges annak érdekében, hogy bruttó állományi adatok szerepeljenek a táblában.
-
-A 4A021 Lejárati rés (gap) I. (Mérleg: Eszközök-Források) sorban kimutatott értékek a hátralévő futamidő szerinti összesített (4A011 Eszközök és 4A012 Források sorok) eszköz- és forrástételek oszloponkénti különbségeként számítandók.
-
-4A03 Mérlegen kívüli biztos, jövőbeni pozíciók
-
-A mérlegen kívüli, biztos jövőbeni pénzáramlással rendelkező származtatott ügyletekből (az opciók kivételével) eredő, szerződés szerint esedékes határidős tőke- és kamatkövetelések miatti pénzbeáramlásokat (4A031) és határidős tőke- és kamatkötelezettségek miatti pénzkiáramlásokat (4A032) kell kimutatni. A származtatott ügyletek kamatáramlását tehát a 4A03 blokkban kell kimutatni, nem a 4A05 Eredménytételek között.
-
-A 4A041 Lejárati rés (gap) II. (Mérleg: Eszközök-Források+ Mérlegen kívüli származtatott ügylet: követelések- kötelezettségek) sorban kimutatott értékek a hátralévő futamidő szerinti összesített (4A011 Eszközök és 4A012 Források, továbbá a 4A31 Származtatott ügyletekből eredő követelések és 4A032 Származtatott ügyletekből eredő kötelezettségek sorok) eszköz- és forrástételek oszloponkénti különbségeként számítandók.
-
-4A05 Eredménytételek
-
-Az eszközökhöz és a forrásokhoz kapcsolódó, szerződés szerint a beszámolási időszak végétől számított, a jövőre vonatkozó esedékes kamat- és kamatjellegű, illetve jutalék-, díj-, járulékbevételeket és ráfordításokat az eszközöktől és a forrásoktól elkülönítetten, pénzforgalmi szemléletben kell szerepeltetni. Az eredménytételeket nem csak 1 évre vonatkozóan kell megadni, hanem a teljes futamidőre, azonban az egy éven túli időszakra csak akkor, ha az intézmény egy éves időtávnál hosszabb időszakra megalapozott eredménybecsléssel rendelkezik.
-
-A 4A061 Lejárati rés (gap) III. (Eredménytételekkel korrigált) sor meghatározásához a mérlegben szereplő eszközök és források, a mérlegen kívüli követelések és kötelezettségek egyenlegéből számított, a 4A041 sorban kimutatott lejárati rést kell korrigálni a 4A051 Kamatbevételek sortól a 4A054 Egyébkiadások sorig tartó eredménytételekkel, amely a bevételek (4A051+4A052) és kiadások (4A053+4A054) oszloponkénti különbségeként számítandó.
-
-A mérleg szerinti pénzáramlástól a tényleges pénzáramlások eltérhetnek. Amennyiben az intézményeknek van ezekről a pénzáramlásokról megalapozott becslése, terve vagy kötelezően átcsoportosítandó eszköz-, forrástételekkel rendelkezik (egyebek mellett az ügyfél késedelmes teljesítése miatti átcsoportosítás, vagy az azonnal készpénzzé tehető értékpapírok átcsoportosítása), akkor ezeket korrekciós tételként a táblázat 4A07 Eszközmódosítások illetve a 4A08 Forrás átcsoportosítások soraiban kell szerepeltetni.
-
-4A07 Eszközmódosítások
-
-A lejárt tételekkel kapcsolatos sorokat a következő logika szerint kell tölteni:
-
-• a 4AT0711 Lejárt tételek miatti korrekciók sorban azoknak követeléseknek a korrekcióját kérjük megjeleníteni, amelyekről a jelentés elkészültének időpontjában van olyan információ, hogy az adós nem lesz képes az eredeti lejáratnak megfelelően törleszteni, a követelés egy része vagy egésze várhatóan lejárt lesz. (Ilyen eset pl. amikor egy szerződésben a kamat-, tőketörlesztés késedelmesen teljesül, hátralékossá válik, és ezért a teljes szerződésállományt át kell minősíteni a lejárt kategóriába.) Ezen követelések pénzáramlásának korrekciója során a kivezetésre kerülő összeget abban az oszlopban ahonnan a kivezetés történik, negatív előjellel, míg a várható befolyás idősávjában [az a) lejárt oszlopban, illetve b)-j) oszlopokban] pozitív előjellel kell szerepeltetni;
-
-• a 4AT0712 Lejárt tételek várható megtérülése sorban azokat a jelentés időpontjában az a) lejárt oszlopban szereplő tételekkel kapcsolatos korrekciókat kell megjeleníteni, amelyekből a rendelkezésre álló információk szerint a jövőben várható befolyás (pl. folyamatban lévő per, vagy per alapján lezajlott végrehajtás stb.) állása alapján valószínű. Ebben az esetben lejárt tételek közül a várható befolyás miatt kikerülő összeget az a) lejárt oszlopban negatív értékkel, míg az új időintervallumban [a b)-j) oszlopokban] pozitív értékkel kell szerepeltetni.
-
-Az eszközmódosítások további sorai a következők szerint töltendők:
-
-• értékpapírok átcsoportosítása: A 4A072 sorban azokat az azonnal likvidálható értékpapírokat kell szerepeltetni, amelyek likviditási problémák esetén készpénzzé tehetők [ezek jellemzően az MNB által a napi fedezetértékelés során meghatározott haircut és befogadási mérték mellett fedezetként elfogadhatónak minősülő (jegybankképes) értékpapírok, így a magyar állampapírok, jegybanki kötvények, vállalati kötvények és jelzáloglevelek, önkormányzati kötvények]. Az átcsoportosítandó értékpapírokat az eredeti lejárati sávnál negatív előjellel, a 0-30 napos sávban pozitív előjellel kell feltüntetni. Az átcsoportosításkor ugyanezen a soron korlátként kötelező figyelembe venni az óvadékba adott, illetve zárolt értékpapírok állományát. Az óvadékba adott, illetve zárolt értékpapírok állományát az 1-30 napos sávból negatív előjellel ki kell vezetni, ugyanakkor az óvadékba adás, illetve zárolás futamidejének megfelelő lejárati sávban pozitív előjellel kell szerepeltetni;
-
-• a lejárat nélküli tétel átcsoportosítása (4A073 sor) akkor indokolt, ha a hitelintézetnek megalapozottan feltételezheti, hogy abból egy meghatározott időintervallumban bevétele (pl. a székház eladásra kerül) vagy kiadása keletkezik. (A saját tőke nem átcsoportosítható!) Az átcsoportosításra kerülő összeget abban az oszlopban, melyből az átvezetés történik, negatív előjellel, míg abban az oszlopban, ahova az átcsoportosítás történik, pozitív előjellel kell szerepeltetni;
-
-• a Hpt. 83. § (4) bekezdés szabályai szerint kezelendő, hitel-tőke konverzióból származó részvényeket, részesedéseket, egyéb üzletrészeket, továbbá követelés ellenében átvett eszközöket a bekerülés időpontjától számított három éves elidegenítési kötelezettségi határidő alapján kell a k) Lejárat nélkül oszlopból negatív előjellel kivezetni és a megfelelő b-g) lejárati oszlopban – pozitív előjellel – feltüntetni a 4A074 soron;
-
-• zárolt hitelintézeti, jegybanki betétkihelyezés (óvadék – repó ügyletek kivételével, kötelező tartalék hiány stb.) miatti átcsoportosítás esetén (4A075) a kivezetést a betét eredeti lekötési sávjánál negatív előjellel, a zárolt betétállomány összegét a zárolás határidejének megfelelő sávban – ennek hiányában a lejárat nélküli sávban – pozitív előjellel kell feltüntetni.
-
-4A08 Forrás átcsoportosítások
-
-Mivel a lejárati rés számításánál a források alapértelmezésben levonandó tételek, ezért a források átcsoportosítása sorokat az eszközökkel azonos előjelt eredményező módon, az alábbiak szerint kell kitölteni:
-
-• az átcsoportosítás miatt másik időoszlopba áthelyezendő összeget az eredeti időintervallumban negatív értékkel, míg az új időintervallumban pozitív értékkel kell szerepeltetni.
-
-A 4A091 Módosított Lejárati rés (gap) IV. (Eszközmódosításokat és Forrásátcsoportosításokat követően) sor meghatározásához az eredménytételekkel korrigált, a 4A061 sorban kimutatott lejárati rést kell korrigálni a 4A07 Eszközmódosítások és 4A08 Forrásátcsoportosítások sorainak azonos oszlopaiban szereplő tételeivel, amely az eszközök (4A071 + 4A0712+4A072 + 4A073 + 4A074 + 4A075) és a források ( 4A081 + 4A082 + 4A083) oszloponkénti különbségeként számítandó.
-
-A sorszabály a tábla c) – j)-ig terjedő oszlopaiban szereplő értékekre áll fenn: 4A091 = 4A061 + (4A0711+4A712 + 4A072 + 4A073 + 4A074 + 4A075) – (4A081 + 4A082 + 4A083).
-
-A fenti szabály alól kivétel az a) Lejárt oszlopban szereplő tételek kezelése, amelynél a következők szerint kell eljárni a módosított lejárati rés számításában:
-
-• Lejárt eszközök: a 4A011 (Eszközök), 4A031 (Mérlegen kívüli követelések), 4A0711 – 4A075 (Eszközmódosítások) sorok a) Lejárt oszlopában szereplő értékeket a 4A061 sor k) Lejárat nélkül oszlop értékéhez kell hozzáadni;
-
-4A091,k=4A061,k+(4A073,k:4A075,k)–4A083,k+(4A0112,a:4A0113,a+4A0115,a:4A0117,a)+ 4A031,a+ (4A0711,a:4A075,a)
-
-• Lejárt források: a 4A012 (Források), 4A032 (Mérlegen kívüli kötelezettségek), 4A081 - 4A083 (Forrás átcsoportosítások) sorok a) Lejárt oszlopában szereplő értékeket a 4A61 sor b) 0-30 nap oszlop értékéből kell levonni.
-
-4A101,b=4A061,b+(4A071,b:4A075,b)–(4A081,b:4A083,b)–(4A0121,a:4A0124,a)–4A032,a–(4A081,a:4A083,a)
-
-A 4A091 sor a) oszlop cellában csak nulla érték szerepelhet.
-
-4A10 Egyéb állományváltozások
-
-Az egyéb állományváltozások között olyan, az előzőekben fel nem sorolt tételek vehetők figyelembe, melyekkel a hitelintézet saját likviditás kezelésében, üzleti terveiben számol.
-
-A 4A1011 Hitelállomány soron kell feltüntetni a bank várakozásait a lejárati sávoknak megfelelően a jövőben várható hitelfolyósításokról a folyósítás várható időpontja szerinti sávban negatív, a lejárati sávban pedig pozitív előjellel. Itt kell számításba venni például, hogy a mérlegen kívül nyilvántartott hitelkeretekből várhatóan mennyi kerül folyósításra.
-
-A 4A1021 Betétállomány sorban kell feltüntetni a bank várakozásait a lejárati sávoknak megfelelően a jövőben várhatóan befolyó új betétállományokra. A befolyás lejárati sávjában negatív előjellel, a kifizetés lejárati sávjában pedig pozitív előjellel.
-
-Az egyéb eszközállomány-változás sorban kell megjeleníteni a le nem hívott hitelkereten kívüli egyéb mérlegen kívüli függő kötelezettségek (nyújtott garanciák, kezességek, opciók stb.) valószínűsíthető lehívásából keletkező követelések pénzáramlását (kifizetés). Az egyéb forrásállomány-változás sorban kell megjeleníteni a rendelkezésre álló mérlegen kívüli függő követelések (kapott hitelkeretek, garanciák, biztosítékok, opciók stb.) valószínűsíthető lehívásából, érvényesítéséből származó kötelezettségek miatti pénzáramlást (bevétel).
-
-A 4A111 Lejárati rés (gap) V. (Egyéb állományváltozásokkal korrigált) értékének kiszámításakor a 4A091 Módosított Lejárati rés (gap) sorhoz hozzá kell adni a 4A101 sor értékét, míg a 4A102 sorban szereplő összegeket le kell vonni. Sorszabály: 4A111=4A091+4A101-4A102).
-
-A tábla 4A1221 és 4A1222 soraiban a Lejárati rés (gap) V. soron kimutatott értékekből a tulajdonosoktól és befektetésektől kapott források, illetve az oda kihelyezett eszközök lejárati szerkezetét kell megjeleníteni, mivel ennek döntő szerepe van a hitelintézetek likviditási helyzetének megítélésében.
-
-4B Tájékoztató adatok a befektetési szolgáltatási tevékenységről és a kiegészítő szolgáltatásról
-
-A tábla célja
-
-A jelentéseket azoknak a hitelintézeteknek kell elkészíteniük, amelyek a Bszt. 5. § (1) és (2) bekezdése által meghatározott befektetési szolgáltatási tevékenységet végeznek, illetve kiegészítő szolgáltatást nyújtanak, függetlenül attól, hogy ez a tevékenységük a Bszt. hatálya alá tartozik, vagy sem. A tábla lehetővé teszi a tárgyidőszak végére vonatkozóan a befektetési szolgáltatási tevékenység felügyeleti vizsgálatát.
-
-A tábla kitöltése
-
-A Hitkr. 12. § (2) bekezdés előírásaiban foglaltak figyelembevételével – a lezárt főkönyv és mérlegen kívüli tételek, valamint a nyilvántartási számlák állományaival megegyezően – történik a tábla kitöltése.
-
-A hitelintézet a kapcsolódó nyilvántartásait a befektetési szolgáltatási tevékenység ellenőrzésére, a felügyeleti jelentés által igényelt részletező adatok megállapíthatóságára alkalmas módon alakítja ki és vezeti.
-
-Év közben mind a saját, mind az idegen értékpapír-állományról folyamatos mennyiségi és értékbeli nyilvántartást kell vezetni.
-
-A devizában végzett műveleteknél, illetve a devizaállományoknál a deviza forintértékét mindig a tárgyidőszak végén a hitelintézetre érvényes számviteli szabályok szerinti devizaárfolyamon kell kimutatni.
-
-A befektetési szolgáltatási tevékenységhez kapcsolódó állományok tagolása és részletezése megegyezik a Hitkr. szerint külön nyilvántartandó és kimutatandó befektetési szolgáltatási tevékenységre vonatkozó előírással, illetve a befektetési szolgáltatással kapcsolatos nyilvántartási adatokkal. A befektetési szolgáltatási tevékenységek elnevezése ugyanakkor a Bszt. 5. §-nak a fogalomrendszerét követi.
-
-A jelentésben közölt adatokat bruttó nyilvántartási értéken kell megadni.
-
-A tábla sorai
-
-Eszközökhöz kapcsolódó adatok
-
-4B11 Tőzsdei vagyonhányad (befektetés): a tőzsdével kapcsolatos vagyoni (tulajdoni) érdekeltség, ideértve a Hitkr. 5. § (13) bekezdés a) pontjában foglaltakat is. A 4B111-es sorban külön ki kell emelni a hazai tőzsdében meglévő vagyonhányadot.
-
-Forgóeszközökhöz kapcsolódó adatok
-
-4B21 Pénzeszköz ügyfelektől a "megbízás felvétele és továbbítása", illetve "megbízás végrehajtása az ügyfél javára" befektetési szolgáltatási tevékenységből eredően: a Bszt. 5. § (1) a) és b) pontjában felsorolt tevékenységekhez kapcsolódó, ügyfeleket megillető – a Hitkr. 5. § (1) bekezdésében foglalt előírásoknak megfelelően külön nyilvántartott – pénzösszegek, függetlenül attól, hogy pénztárban, elszámolási vagy letéti számlán szerepelnek a hitelintézet könyveiben.
-
-4B22 Követelések az ügyfeleknek nyújtott befektetési és kiegészítő szolgáltatásokból: a 4B221–4B225 sorok összege. A 4B22-es sorban a Bszt. 5. § (1), illetve (2) bekezdésében szereplő szolgáltatásokkal kapcsolatban felmerülő követeléseket kell szerepeltetni.
-
-A 4B221-es sorban a Bszt. 5. § (1) bekezdés a) pontjában, a 4B222-es sorban a Bszt. 5. § (1) bekezdés b) pontjában, a 4B223-as sorban a Bszt. 5. § (1) bekezdés f) pontjában, a 4B224-es sorban a Bszt. 5. § (1) bekezdés g) pontjában, a 4B225-ös sorban a Bszt. 5. § (1) bekezdés d), e), h) pontjában és az 5. § (2) bekezdésben foglalt szolgáltatással kapcsolatban keletkezett követeléseket kell feltüntetni.
-
-Ezen felül, a 4B221–4B225 sorok, valamint a 4B23-4B24 sorok kitöltésénél a Hitkr. 5. § (6) bekezdésében, illetve a Hitkr. 18. § (5) bekezdésében foglaltak szerint kell eljárni, figyelembe véve a Bszt. 66. § és 78. §-ban előírtakat.
-
-A 4B25, a 4B26, valamint a 4B27 sorokban a tőzsdei ügyletek, az elszámolóházzal és az elszámolóházi tevékenységet végző szervezettel szembeni, illetve a tőzsdén kívüli ügyletek elszámolásaiból eredő – Hitkr. 5. § (6) bekezdés a) és b), valamint d) pontja szerinti – követeléseket kell kimutatni.
-
-4B28 Befektetési és kiegészítő szolgáltatásokkal összefüggésben per alá vont követelések teljes értéke: a mérlegben szereplő követelésállományból a Bszt. 5. § (1) és (2) bekezdésében meghatározott tevékenységekkel kapcsolatos, bírósági per tárgyát képező, ügyfelekkel szembeni követelések.
-
-Forrásokhoz kapcsolódó adatok
-
-A 4B29-es sorban a Bszt. 5. § (1) és (2) bekezdésében szereplő szolgáltatásokkal kapcsolatban felmerülő kötelezettségeket kell szerepeltetni.
-
-A 4B291-es sorban a Bszt. 5. § (1) bekezdés a) pontjával, a 4B292-es sorban a Bszt. 5. § (1) bekezdés b) pontjával, a 4B273-as sorban a Bszt. 5. § (1) bekezdés d)-h) pontjával és a Bszt. 5. § (2) bekezdéssel összefüggésben keletkezett kötelezettségeket kell szerepeltetni.
-
-A részletező sorokban az ügyfelekkel a megbízás felvétele és továbbítása, illetve megbízás végrehajtása, valamint egyéb tevékenységgel kapcsolatban, a tőzsdei ügyletek és tőzsdén kívüli ügyletekből eredő, valamint az Elszámolóházzal, és elszámolóházi tevékenységet végző szervezettel szembeni – Hitkr. 7. § (4) bekezdés, illetve a 16. § (14) bekezdés szerinti – kötelezettségeket kell kimutatni.
-
-4E Egyes betétek és letétek azonosítása
-
-A tábla célja
-
-A tábla célja – a Pmt. végrehajtásának érdekében – a nem névre szóló betétek és letétek megszűnésének figyelése.
-
-A tábla kitöltése
-
-Ebben a táblában azokat a hitelintézetek által gyűjtött és nem névre szóló források állományi adatait, illetve azok módosulását kell betéti formánként kimutatni, amelyek a beszámolási időszak hónapjában kerültek nevesítésre (azonosításra).
-
-Azokat a Hpt. 105. § (4) bekezdése alapján azonosított betéteseket, amelyek a névre szóló állományban még nem kerültek figyelembe vételre, a táblázatban a Névre szólóvá átalakított állomány –nál a számbavétel hónapjában kell kimutatni.
-
-A tábla oszlopai
-
-Az a) oszlopban a nyitó – az előző hónap utolsó napján fennálló – nem névre szóló állományt kell szerepeltetni. Amennyiben a hitelintézet ilyen állománnyal nem rendelkezik, abban az esetben nullát kell az adott mezőbe beírni.
-
-Az adott hónapban az anonim betétek névre szólóvá történő átalakítását a jelentésben meghatározott személyek szerinti bontásban a b)-e) oszlopokban kell szerepeltetni.
-
-A b), d), f), i) oszlopokban az ügyfelenkénti (a meghatározott személyenkénti) azonosítás darabszámánál az összesen (4E11, 4E12, 4E121, 4E122, 4E2) sorokban a ,,db” oszlopokban az azonosításra kerülő ügyletek darabszámát, az értékekkel jelzett sorokban az azonosított ügyfelek számát (fő) kell kimutatni.
-
-A c), e), g), j) oszlopokban a névre szólóvá átalakított állományt attól függetlenül kell összesítve kimutatni, hogy az adott betét részben vagy egészben a hitelintézetnél marad, vagy kifizetésre kerül.
-
-A h) oszlopban a névre szólóvá átalakított állományból történt kifizetést, megszüntetett betétet kell szerepeltetni. Itt azokat az állományokat is ki kell mutatni, amelyeket anonim betétként szüntetnek meg, mert a felvételnél a felvevő személyt azonosítani kell.
-
-Az ORFK részére – a jogszabályi rendelkezéseknek megfelelően – történt bejelentéseket az i) és j) oszlopban kell kimutatni.
-
-A k) oszlopban mindig a hó végén fennálló nem névre szóló állományt kell szerepeltetni, függetlenül attól, hogy a nem névre szóló állomány a tárgyidőszakban nem vagy nemcsak csökkent, hanem növekedett is (pl. kamattőkésítés, vagy további – még az előző – jogszabály szerint engedélyezett értékpapír-kibocsátás, illetve letételhelyezés, letéti őrzés miatt).
-
-A nem névre szóló betételhelyezéseket külön megnevezett sorokban, csoportosítva kell feltüntetni.
-
-Az összesen sorok az adott betétfajták teljes állományára vonatkoznak (összeghatár nélkül), amelyből a 2 millió Ft felett az ügyfelenkénti azonosítást külön ki kell emelni.
-
-Egy-egy betételhelyezési módozatot az ügyfelek (személyek) által birtokolt két értékhatárra vonatkozóan, a külön sorokban meghatározott nagyság szerint kell kimutatni
-
-A tábla sorai
-
-Az 4E1 Betétek összesen sorban az összes – könyvesbetétként, illetve betéti okiratként elhelyezett és – nem névre szóló betétek, illetve azok névre szólóvá átalakított állományát kell jelenteni.
-
-A 4E11 Takarékbetétkönyvek összesen sorban minden könyvesbetétként elhelyezett betétet kell szerepeltetni.
-
-A 4E12 Betéti okiratok összesen sorban minden betéti okiratként kimutatott betétet fel kell tüntetni.
-
-A felügyeleti mérlegben a betéti okiratok között szerepeltetett takarékleveleket külön sorban kell kimutatni.
-
-A 4E2 Saját kibocsátású értékpapírok összesen sorban a hitelintézet által nem névre szólóan kibocsátott értékpapírjainak változását kell összesítve kimutatni. Itt csak a forrás oldalon a 4 eszköz sorban feltüntetett – nem vagyoni részesedést jelentő – értékpapírokat szabad figyelembe venni.
-
-A névre szólóvá átalakított 2 millió forint feletti értékpapír állományokat meg kell bontani a letéti jegyekre, illetve a többi, a hitelintézet által kibocsátott értékpapír (kötvény, jelzáloglevél) állományra.
-
-Külön kell kimutatni a letétekre vonatkozó, adatokat. Itt nemcsak a letétbe helyező ügyfelet kell feltüntetni, hanem az értékpapírok azonosítását is.
-
-A 4E31 Értékpapírok letétkezelésben összesen sorban a hitelintézetnél megbízás alapján letétkezelésben lévő és nem névre szóló értékpapír állományt kell összesítve kimutatni. A nem névre szóló értékpapír-állományt addig kell kimutatni, amíg a bemutatóra szóló értékpapírt a kibocsátó át nem alakítja névre szólóvá.
-
-Az adott időszakban a letétkezelésben lévő értékpapír állományának változása (letét elhelyezése, vagy -kivétele) miatt a k) oszlop záró állománya eltérhet az a) oszlopban szereplő összegtől, de a tárgyhónap nyitó állománya egyenlő az előző hónap záró állományával. Amikor a letétbe helyezett értékpapírokat névre szólóvá alakítják, akkor kell csak a b)-g) oszlopokban, az ″azonosított állomány-nál kimutatni.
-
-A h) oszlopban a megszüntetett letéteket kell szerepeltetni. Itt azokat az állományokat is ki kell mutatni, amelyeket, mint bemutatóra szóló értékpapír-letéteket szüntetnek meg, mivel a letétet felvevő személyt azonosítani kell, ezért ezt az állományt az ″azonosított állomány″ oszlopaiban szerepeltetni kell.
-
-A 4E32 Értékpapír letétkezelés összesen sorban azoknak a letétet elhelyező személyeknek a számát (fő) és értékpapír állományát kell összesítve szerepeltetni, amelyeknél az értékpapírok piaci értéke meghaladja a 2 millió forintot. A letétet elhelyező azonosított ügyfeleket a b)-g) oszlopokban, az ″azonosított állomány″-nál kell kimutatni, függetlenül attól, hogy az értékpapír névre szóló vagy sem. Az a) nem névre szóló nyitó, illetve a k) záró állomány oszlopban csak akkor kell adatot szerepeltetni, ha a letételhelyező nem azonosított ügyfél.
-
-A 4E41 Értékpapírok letéti őrzésben összesen sorban a hitelintézetnél letéti őrzésben vagy megbízás alapján bizalmi őrzésben lévő és nem névre szóló értékpapír állományt kell összesítve feltüntetni. Az adatok kimutatása a letételhelyezés 4E31 sorában leírtakhoz hasonló.
-
-A 4E42 Értékpapír letéti őrzés összesen sorban azoknak a lététi őrzésre irányuló megbízó személyeknek a számát (fő) és értékpapír állományát kell összesítve szerepeltetni, amelyeknél az értékpapírok piaci értéke meghaladja a 2 millió forintot. Az adatok kimutatása a letételhelyezés 32 sorában leírtakhoz hasonló.
-
-Amennyiben a jelenlegi, tárgyhavi állományban van nem azonosított letételhelyező, illetve letéti őrzési megbízó, akkor azokat továbbra is fel kell tüntetni az a), illetve a k) oszlopban.
-
-4LAN Egyes mérlegtételek könyv szerinti bruttó állománya
-
-A tábla célja:
-
-A tábla a felügyeleti mérleg eszköz és forrás oldali tételeinek eredeti futamidőt figyelembevevő, likviditási szempontú rendszerezésével, a források hátralévő futamidő szerinti összetételének meghatározásával és egyéb, a likviditási pozíciót meghatározó tájékoztató adatok kimutatásával alapadatokat szolgáltat a 366/2011 (XII. 30.) kormányrendelet által a hitelintézet számára előírt likviditási mutatók számításához, ezzel az elvárt minimumkövetelmények teljesítésének ellenőrzéséhez.
-
-A tábla sorai
-
-| SOR | MEGNEVEZÉS | HIVATKOZÁS |
-
-| 4LAN1 | Eszköz oldali tételek |  |
-
-| 4LAN11 | Likvid eszközök |  |
-
-| 4LAN111 | Pénztár | 1AB11 |
-
-| 4LAN112 | Nostro számlák | 1AB12+1AB13+1AB14+1AB151+1AB152 |
-
-| 4LAN1121 | ebből: MNB elszámolási számla | 1AB12+1AB13 |
-
-| 4LAN113 | Állampapír + Jegybanki értékpapír | 1AB2111+1AB2112+1AB2113+1AB2211+ 1AB22121+1AB22122 |
-
-| 4LAN1131 | ebből: szabad rendelkezésű |  |
-
-| 4LAN12 | Jegybankkal szembeni követelés | 4LAN121+4LAN122 |
-
-| 4LAN121 | Rövid hitel, hitel jell. köv., elhelyezett betét és valódi penziós ügylet | 1AB411 |
-
-| 4LAN122 | Hosszú hitel, hitel jell. köv., elhelyezett betét és valódi penziós ügylet | 1AB412+1AB52 |
-
-| 4LAN13 | Bel- és külföldi hitelintézetekkel szembeni követelés | 4LAN131+4LAN132 |
-
-| 4LAN131 | Rövid hitel, hitel jell. köv., elhelyezett betét és valódi penziós ügylet | 1AB421+1AB423+1AB4311+1AB4321+ 1AB5311 +1AB58111+1AB58211+1AB2311+ 1AB2321 +1AB271311+1AB271321+ 1AB272211 +1AB272221 |
-
-| 4LAN132 | Hosszú hitel, hitel jell. köv., elhelyezett betét | 1AB422+1AB4312+1AB4322+1AB5312+ 1AB5313+1AB58112+1AB58212+1AB23121+1AB23122+1AB23221+1AB23222+ 1AB2713121+ 1AB2713122+1AB2713221+ 1AB2713222+ 1AB2722121+1AB2722122+ 1AB2722221+ 1AB2722222 |
-
-| 4LAN14 | Pénzpiaci alapokkal, egyéb pénzügyi közvetítőkkel, pénzügyi kieg. tev.et végzőkkel, biztosítókkal és nyugdíjpénztárakkal szembeni követelés (belföldi) | = 4LAN141+4LAN142 |
-
-| 4LAN141 | Éven belüli hitelek és hiteljellegű követelések és valódi penziós ügylet | 1AB5321+1AB5322+1AB5411+1AB54121+ 1AB54131+1AB5421+1AB54221+1AB54231+1AB5431+1AB54321+1AB54331+1AB2411+ 1AB2421+1AB2431 |
-
-| 4LAN142 | Éven túli hitelek és hiteljellegű követelések és valódi penziós ügylet | 1AB541221+1AB541222+1AB541321+ 1AB541322+1AB542221+1AB542222+ 1AB542321+1AB542322+1AB543221+1AB543222+ 1AB543321+ 1AB543322+ 1AB2412 +1AB2422+1AB2432 |
-
-| 4LAN15 | Egyéb szektorokkal szembeni hitelek és hiteljellegű követelések | 4LAN151+4LNA152+4LAN153 |
-
-| 4LAN151 | Nem-pénzügyi vállalatokkal szembeni hitelek és hiteljellegű követelések | 4LAN1511+4LAN1512 |
-
-| 4LAN1511 | Folyószámlahitelek, hitelkártya követelések | 1AB5511+1AB5521 |
-
-| 4LAN1512 | Hitelek és hiteljellegű követelések és valódi penziós ügyletek | 1AB55121+...+1AB551322+1AB55221+...+1AB552722+ 1AB2511+...+1AB2522 |
-
-| 4LAN152 | Háztartásokkal és háztartásokat segítő nonprofit intézményekkel szembeni hitelek és hiteljellegű követelések | 4LAN1521+4LAN1522 |
-
-| 4LAN1521 | Folyószámlahitelek, hitelkártya követelések | 1AB5611+1AB5621+1AB571 |
-
-| 4LAN1522 | Hitelek és hiteljellegű követelések és valódi penziós ügyletek | 1AB561211+…+1AB561522+1AB56221+…+1AB562522+1AB5721+…+1AB57322+ 1AB2611+ 1AB2612 |
-
-| 4LAN153 | Háztartásokon és nem pénzügyi vállalatokon kívüli egyéb szektorokkal szembeni hitelek és hiteljellegű követelések | 1AB51111+…+1AB511222 +1AB5121 +…+ 1AB5122+ 1AB5131+…+ 1AB51322 + 1AB58121 +…+ 1AB5817522 + 1AB58221+…+1AB58222 + 1AB2121+…+1AB2132 + 1AB27111+…+ 1AB27122 + 1AB27141+…+1AB27212+ 1AB27231 +…+1AB27232 |
-
-| 4LAN16 | ESZKÖZÖK ÖSSZESEN (napi mérlegfőösszeg) |  |
-
-| 4LAN2 | Forrás oldali tételek |  |
-
-| 4LAN21 | Jegybankkal szembeni kötelezettség | 1B321+…+1B323 |
-
-| 4LAN22 | Bel- és külföldi hitelintézetekkel szembeni kötelezettség | 4LAN221+4LAN222+4LAN223 |
-
-| 4LAN221 | Loro számlák | 1B2111+1B22111+1B2221+ 1B22121 |
-
-| 4LAN222 | Éven belüli betétek és felvett hitelek + Valódi penziós ügyletekből szerzett források | 1B21121+1B221121+1B221221+ 1B22221+ 1B3311+1B3313+1B3314+1B39111+1B39113+1B39114+…+1B39121+1B39123+…+1B391252 +1B39211 +1B392131 +1B392132 |
-
-| 4LAN223 | Éven túli betétek és felvett hitelek | 1B211221+1B211222+1B2211221+ 1B2211222+ 1B2212221+1B2212222+ 1B222221+1B222222 +1B33121+1B33122+ 1B391121+1B391122+ 1B391221+1B391222+1B392121+1B392122 |
-
-| 4LAN23 | Háztartásokkal és háztartásokat segítő nonprofit intézményekkel szembeni kötelezettség | 4LAN231+4LAN232 |
-
-| 4LAN231 | Folyószámla- és látra szóló betétek | 1B1411+1B1421+1B151 |
-
-| 4LAN232 | Lekötött betétek | 1B14121+…+1B1414+1B14221+…+1B1424+1B1521+…+1B154+1B361+…+1B363 |
-
-| 4LAN24 | Nem pénzügyi vállalatokkal szembeni kötelezettség | 4LAN241+4LAN242 |
-
-| 4LAN241 | Folyószámla- és látra szóló betétek | 1B1311+1B1321 |
-
-| 4LAN242 | Lekötött betétek, felvett hitelek, repó és egyéb valódi penziós ügyletek | 1B13121+…+1B1314+1B13221+…+1B1324+1B351+…+1B3522 |
-
-| 4LAN25 | Pénzpiaci alapokkal, egyéb pénzügyi közvetítőkkel, pénzügyi kieg. tev.et végzőkkel, biztosítókkal és nyugdíjpénztárakkal szembeni kötelezettség | 4LAN251+4LAN252+4LAN253 |
-
-| 4LAN251 | Folyószámla- és látra szóló betétek | 1B1211+1B1221+1B1231+1B2121 |
-
-| 4LAN252 | Éven belüli betétek és felvett hitelek + Valódi penziós ügyletekből szerzett források | 1B12121+1B1213+1B1214+1B12221+1B1223+1B1224+1B12321+1B1233+1B1234+1B21221+ 1B3321 +1B3411 +1B34131 +1B34132 +1B3421 +1B34231+1B34232+1B3431+1B34331+1B34332 |
-
-| 4LAN253 | Éven túl lekötött betétek és felvett hitelek | 1B121221+1B121222+1B122221+1B122222+1B123221+1B123222+1B212221+1B212222+1B34121+1B34122+ 1B34221+ 1B34222+ 1B34321+1B34322 |
-
-| 4LAN26 | Egyéb szektorokkal szembeni kötelezettségek | 4LAN261+4LAN262 |
-
-| 4LAN261 | Folyószámla- és látra szóló betétek | 1B1111+1B1121+1B1131+1B16111 + 1B16121+1B16131+1B16141+ 1B16151+ 1B16161+1B1621 |
-
-| 4LAN262 | Lekötött betétek, felvett hitelek és valódi penziós ügyletekből származó források | 1B11121+…+1B1114+1B11221+…+1B1124+1B11321+…+1B1134+1B161121+…+ 1B16113+1B161221 +…+1B16123+1B161321+…+1B16133+1B161421+…+1B16143+1B161521+…+1B16153 +1B161621 +…+1B1617+1B16221+… +1B1624+1B311+…+ 1B3122+ 1B37+1B38+ 1B39131+…+1B391332+ 1B39221+…+1B392332 |
-
-| 4LAN27 | Saját kibocsátású, hitelviszonyt megtestesítő értékpapírok | 4LAN271+4LAN272 |
-
-| 4LAN271 | Éven belüli lejáratú | 1B4111+ 1B4131+ 1B4141+ 1B4151+ 1B4211+ 1B4222+ 1B43111+ 1B43121+ 1B43211+ 1B43221 |
-
-| 4LAN272 | Éven túli lejáratú | 1B41121+1B41122+1B4121+1B4122+ 1B41321+ 1B41322+ 1B41421+ 1B41422+ 1B41521+ 1B41522+ 1B42121+ 1B42122+ 1B42221+ 1B142222 +1B431121+ 1B431122+1B431221+ 1B431222+1B432121+1B432122+ 1B432221+ 1B432222 |
-
-| 4LAN28 | Egyéb információk |  |
-
-| 4LAN281 | Tulajdonosoktól származó források | A 10GB táblázatokban meghatározott körre vonatkoztatva (hitelkeretek nélkül) |
-
-| 4LAN282 | Tulajdonosoknak nyújtott források | A 10GB táblázatokban meghatározott körre vonatkoztatva (hitelkeretek nélkül) |
-
-| 4LAN283 | Befektetésektől származó források | A 10GB táblázatokban meghatározott körre vonatkoztatva (hitelkeretek nélkül) |
-
-| 4LAN284 | Befektetéseknek nyújtott források | A 10GB táblázatokban meghatározott körre vonatkoztatva (hitelkeretek nélkül) |
-
-| 4LAN285 | Tartalékkötelezettség | Kötelező jegybanki tartalék összege |
-
-|  |  | Hátralévő lejárat szerint összesen (forint + deviza HUF-ban) |
-
-| 4LAN29 | Külföldről származó források | 1B16111+…+1B1624+1B22111+…+1B222222+1B39111+…+1B392332 + 1B43111+…+1B432222 4LAN29 = 4LAN291+4LAN292+4LAN293+ 4LAN294 + 4LAN295 |
-
-| 4LAN291 | 1 napon belül lejáró külföldi források | 1 napon belül lejáró külföldi források |
-
-| 4LAN292 | 1 héten belül lejáró külföldi források | 1 napon túli lejáratú de 1 héten belül lejáró források |
-
-| 4LAN293 | 1 hónapon belül lejáró külföldi források | 1 héten túli lejáratú de 1 hónapon belül lejáró források |
-
-| 4LAN294 | 1 éven belül lejáró külföldi források | 1 hónapon túli lejáratú de 1 éven belül lejáró források |
-
-| 4LAN295 | 1 éven túli lejáró külföldi források | 1 éven túli lejáratú források |
-
-DMM – Havi jelentés a devizafinanszírozás megfelelési mutatóról
-
-A tábla célja
-
-A tábla a 366/2011. (XII. 30.) Korm. rendelet 4. § (1) bekezdése előírásainak való megfelelés ellenőrzését teszi lehetővé. Amely hitelintézetekre ezen jogszabály hatálya nem terjed ki, a táblát nemlegesen kell megküldenie a PSZÁF részére.
-
-A tábla kitöltése
-
-Az adatokat az 1AB Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal), az 1B Felügyeleti mérleg (Források) és a 4AB-4AE Lejárati összhang elemzés táblák tartalmával összhangban kell kimutatni. A tételeket a Felügyeleti mérleg fennálló állományi adataiból kiindulva a vonatkozó szerződésekkel összhangban kell kitölteni, könyv szerinti bruttó értéken.
-
-Általános előírások
-
-Az adatszolgáltatásnak a tárgyidőszak utolsó napjára vonatkozó deviza állományi adatokat kell tartalmaznia.
-
-A forintra történő átszámítást a tárgyidőszak utolsó napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a Hitkr. 9. § (5) bekezdése alapján kell elvégezni.
-
-Az adatokat millió forintban, kerekítve kell megadni. A súlyozott, illetve a szorzott értékek kiszámításánál a kapott értéket a kerekítés általános szabálya szerint (0,5-től felfelé, 0,49-től lefelé) kell kerekíteni.
-
-A deviza alapú forinthiteleket és az ezekhez tartozó értékvesztést deviza tételként kell számba venni.
-
-Részletes előírások
-
-Az oszlopok tartalma
-
-A tábla kitöltése során a 366/2011. (XII. 30.) Korm. rendelet 3. mellékletében foglaltak az irányadóak, az alábbiak figyelembe vételével.
-
-A tábla a) oszlopában a deviza állományi adatokat az Általános előírások részben előírt módon, a „DMM tábla egyes soraihoz kapcsolódó összefüggések” című tábla alapján kell meghatározni.
-
-A tábla b) oszlopában a 366/2011. (XII. 30.) Korm. rendelet 3. mellékletében meghatározott súlyokat százalékos formában, egy tizedesjeggyel kell feltüntetni.
-
-A tábla c) oszlopában – a jelen kitöltési előírások eltérő rendelkezése hiányában – az a) és b) oszlopban megadott adatok szorzatának eredményét kell megadni.
-
-A sorok tartalma
-
-DMM101 Rendelkezésre álló stabil devizaforrások (2+…+9)
-
-DMM102 Egy év vagy annál hosszabb hátralévő lejáratú deviza betétek és deviza kötelezettségek: ezen a soron kell kimutatni valamennyi forrás oldali, devizában denominált tételt, amelynek a hátralévő lejárata a tárgyidőszak utolsó napján meghaladja az egy évet, ide nem értve a DMM103 sora szerinti óvadéki deviza betéteket. Külön felügyeleti jóváhagyást követően figyelembe vehető a lejárat nélkül kapott kölcsöntőkék összege is.
-
-DMM103 Óvadéki deviza betét: olyan deviza betét, amelyet az óvadékot biztosító a hitelfelvevővel szemben fennálló követelés (hitel) biztosítékaként helyezett el a hitelintézetnél azzal, hogy a szerződés nem vagy nem szerződésszerű teljesítése esetén a hitelintézet követelését a betét felhasználásával kielégítheti. Ezen a soron csak azokat az óvadéki betéteket kell feltüntetni, amelyet éven túli hátralévő lejárattal rendelkező követelés (hitel) biztosítékaként helyeztek el.
-
-DMM104 Lejárat nélküli vagy 1 éven belül lejáró háztartási deviza betétek: ezen a soron kell jelenteni azokat a háztartási betéteket, amelyek hátralévő lejárata kevesebb, mint egy év, vagy a betéthez nem rendelhető lejárat, ide nem értve a DMM103 soron meghatározott óvadéki deviza betétek körét.
-
-DMM105 Lejárat nélküli vagy 1 éven belül lejáró kkv-s deviza betétek: ezen a soron kell jelenteni a mikro-, kis- és középvállalkozások lekötött betétjét, a látra szóló- és folyószámlabetét-állományt, valamint a lejárat nélküli betétet, abban az esetben, ha az lakossággal (CRR szerinti kitettségi osztály) szembeni mérlegen belüli kitettségnek minősül, és nem része a DMM103 és DMM104 soron jelentendő állományoknak.
-
-DMM106 Háztartások tulajdonában lévő, adott hitelintézet által kibocsátott 1 éven belüli hátralévő lejárattal rendelkező deviza kötvények állománya: ezen a soron kell jelenteni az adatszolgáltató által kibocsátott, a háztartások tulajdonában lévő, egy évnél rövidebb hátralévő lejáratú nem HUF denominációjú értékpapírok bruttó értéken számított állományát, az 1B adatszolgáltatásban jelentett adatoknak megfelelően.
-
-DMM107 Lejárat nélküli vagy 1 éven belül lejáró nem pénzügyi vállalatok, központi kormányzat (beleértve a központi költségvetési intézményeket), helyi önkormányzatok, Társadalombiztosítási Alapok, egyéb pénzügyi szolgáltatás közvetítők, pénzügyi kiegészítő tevékenységet végzők, biztosítók és magánnyugdíjpénztárak, a háztartásokat segítő nonprofit intézmények, valamint a külföldiek nem bankközi deviza betétei: ezen a soron kell kimutatni a felsorolt gazdasági szereplők deviza betéteit, amelyek hátralévő lejárata kevesebb, mint egy év, illetve azokat a deviza betéteket, amelyekhez nem rendelhető lejárat, ide nem értve a DMM103 soron meghatározott óvadéki deviza betétek körét és a DMM105 soron szerepeltetett tételeket.
-
-DMM108 Pénzpiaci alapok 1 éven belül lejáró deviza betétei: a pénzpiaci alapok által elhelyezett betétekből azokat kell itt szerepeltetni, amelyeknek a hátralévő lejárata rövidebb, mint egy év.
-
-DMM109 Éven túli hátralévő lejáratú forinttal szembeni nettó devizaswap-állomány: a nettó devizaswap-állományba a tárgyidőszak utolsó napján még le nem járt ügyleteket kell számba venni: pozitív előjellel kell beszámítani az ügyletek termin lábán a deviza eladási ügylet deviza lábát, negatív előjellel pedig az ügyletek termin lábán a deviza vételi ügylet deviza lábát, minden esetben a tárgyidőszak utolsó napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon átszámítva.
-
-DMM210 Finanszírozott stabil devizaeszközök és mérlegen kívüli devizakötelezettségek (11+...+23+33+39+40)
-
-DMM211 Valuta pénztárkészlet: az adatszolgáltatónál lévő valuta készpénzállomány, a törvényes fizetőeszközül szolgáló emlékérmék azok fizikai elhelyezésétől függetlenül, valamint az adatszolgáltató egységei közötti úton lévő készpénzállomány.
-
-DMM212 Egy évnél rövidebb hátralévő lejáratú fedezetlen deviza eszközök: Ezen a soron az egy évnél rövidebb hátralévő lejáratú belföldi, GMU hitelintézeteknél, egyéb külföldi hitelintézményeknél és az MNB-nél vagy külföldi központi banknál vezetett pénzforgalmi (elszámolási, nostro) és betéti számlák, valamint a hozzájuk kapcsolódó átvezetési számlák egyenlegét kell közölni. Itt kell kimutatni a belföldi, a GMU hitelintézeteknél és az egyéb külföldi hitelintézményeknél betéti szerződés keretében elhelyezett betéteket. A betét- vagy hitelszerződés nélkül kötött ügyletek alapján fennálló követelések helyét (hitelként vagy betétként történő jelentését) az dönti el, hogy ki kezdeményezte az ügyletet. A táblázatnak ebben a sorában kell jelenteni a határidős, swap és opciós ügyletek lezárása előtti pénzmozgásokból származó, mérlegtételként kimutatandó követeléseket (tartozik egyenlegű margin fedezeti számlák) is.
-
-DMM213 Fordított repóügylet (csak deviza): itt kell jelenteni az adatszolgáltató által óvadéki repóügylet, sajátos szállításos repó ügyletek és az azonnali vétel-eladási (buy-sell-back) típusú repóügylet keretében repóba vett, devizában denominált értékpapírok értékét.
-
-DMM214 Devizában denominált értékpapírok egy évnél rövidebb hátralevő lejárattal: itt kell jelenteni a nem HUF-ban denominált, az adatszolgáltató saját tulajdonában lévő értékpapírok állományát bruttó értéken, az 1AB adatszolgáltatásban jelentett adatoknak megfelelően.
-
-DMM215 Pénzügyi vállalatoknak nyújtott éven belül lejáró deviza hitel: Ezen soron kizárólag az egy éven belüli hátralévő lejárattal rendelkező, pénzügyi vállalatoknak nyújtott hiteleket kell jelenteni. Ezen soron nem kell szerepeltetni a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követeléseket.
-
-DMM216 Éven túli hátralévő lejáratú deviza államkötvény, konszolidációs deviza államkötvény, MNB által kibocsátott deviza kötvény, egyéb pénzügyi közvetítők deviza kötvénye valamint GMU központi kormányzat deviza kötvénye: a központi kormányzat, az MNB, egyéb pénzügyi közvetítők, illetve GMU központi kormányzat által kibocsátott hitelviszonyt megtestesítő értékpapírok adatszolgáltató tulajdonában lévő, bruttó értéken számított állományát kell jelenteni, az 1AB adatszolgáltatásban jelentett adatoknak megfelelően. Ezen a soron kell kimutatni a jegybanknál elhelyezett, a jegybanki elszámolási számláknál figyelembe nem vett – hosszú lejáratú – devizabetét állományt is.
-
-DMM217 Olyan, devizában denominált értékpapírok, amelyeket a 196/2007. (VII. 30.) Korm. rendelet szerinti 20%-os súlyozású kormányzat, jegybank bocsát ki vagy garantál: ezen a soron kell jelenteni a központi kormányzat vagy központi bank által kibocsátott vagy garantált értékpapírok bruttó értéken számított állományát, az 1AB adatszolgáltatásban jelentett adatoknak megfelelően, ha a kibocsátó vagy garantáló központi kormányzat vagy központi bank kitettségeihez a Hkr. szerint 20 %-os kockázati súly alkalmazandó.
-
-DMM218 Egy éven belül lejáró, nem pénzügyi vállalatoknak és egyéb belföldieknek nyújtott deviza hitelek: A nem pénzügyi vállalatoknak és az egyéb belföldieknek nyújtott, a hátralévő futamidő szerint éven belüli deviza hiteleket kell jelenteni. Ezen a soron kell jelenteni a jegybanknak nyújtott éven belül lejáró hiteleket is. Ugyanakkor nem kell szerepeltetni a lakóingatlannal fedezett, az előző sorokon szerepeltetendő követeléseket.
-
-DMM219 Nem a hitelintézet vagy leányvállalata által kibocsátott tőzsdei indexben szereplő, devizában denominált részvények: ezen a soron a nem HUF-ban denominált, az adatszolgáltató tulajdonában lévő, tőzsdei indexben szereplő, részvény típusú értékpapírok állománya jelentendő bruttó értéken, a tárgyidőszak végi 1AB adatszolgáltatásban jelentett adatoknak megfelelően. Csak a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló 1287/2006/EK bizottsági rendelet 22. cikke szerint is elismerhető, a PSZÁF honlapján közzétett – likvid – részvényeket lehet figyelembe venni.
-
-DMM220 Éven túli hátralévő lejáratú, nem csoporton belüli hitelintézet által kibocsátott, devizában denominált jelzáloglevelek: ezen a soron kell jelenteni az adatszolgáltató tulajdonában lévő, 1 éven túl lejáró jelzáloglevelek állományát bruttó értéken, az 1AB adatszolgáltatásban jelentett adatoknak megfelelően, amelynek kibocsátója az adatszolgáltatóval nem ugyanazon összevont felügyeleti körbe tartozó hitelintézet.
-
-DMM221 Bármilyen lejáratú, 35%-os, vagy annál kisebb súlyozású, lakóingatlannal fedezett deviza kitettségek: ezen a soron kell jelenteni a Hkr. szerinti 35%-os vagy annál kisebb hitelkockázati súlyozású lakóingatlannal fedezett kitettségeket függetlenül az adatszolgáltató által a hitelezési kockázat kezelésére alkalmazott (sztenderd vagy belső minősítési) módszertől. Ebbe a kategóriába tartozik a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követelése is.
-
-DMM222 Egy éven belül lejáró háztartási deviza hitelek: ezen a soron az adatszolgáltató saját dolgozói részére nyújtott devizahitelek állományát is szerepeltetni kell. Ugyanakkor nem kell szerepeltetni a lakóingatlannal fedezett, az előző soron szerepeltetendő, éven belüli lejáratú követeléseket, és a lakóingatlannal fedezett, az előző sorokon szerepeltetendő követeléseket sem.
-
-DMM223 Egyéb fent nem nevesített deviza eszközök (24+...+32)
-
-DMM2231 Lejárt, éven túli hátralévő lejáratú és lejárat nélküli, háztartási deviza hitelek: ezen a soron az adatszolgáltató saját dolgozói részére nyújtott deviza hitelek állományát is szerepeltetni kell. Ugyanakkor nem kell szerepeltetni a lakóingatlannal fedezett, az előző sorokon szerepeltetendő követeléseket.
-
-DMM2232 Lejárt, éven túli hátralévő lejáratú és lejárat nélküli, nem pénzügyi vállalatok deviza hitelei: ezen a soron sem kell szerepeltetni a lakóingatlannal fedezett, előző sorokon szerepeltetendő követeléseket. Ugyanakkor nem kell szerepeltetni a lakóingatlannal fedezett, az előző sorokon szerepeltetendő követeléseket.
-
-DMM2233 Lejárt, éven túli hátralévő lejáratú és lejárat nélküli, hitelintézeteknek nyújtott deviza hitel: ezen a soron kell kimutatni a hitelintézetekkel szemben, hitelszerződés alapján, illetve (a valódi penziós ügyletekben, a sajátos szállításos repó ügyleteken, a betétszerződéseken kívül) bármilyen megállapodás alapján ténylegesen fennálló követelések állományát (ideértve a számlavezetőként nyújtott hiteleket, valamint a más belföldi hitelintézet számára belföldön szervezett konzorciális hitelből a hitelintézet által nyújtott részt is). Ezen a soron nem kell szerepeltetni a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követeléseket.
-
-DMM2234 Nem rezidensek deviza hitelei: ezen a soron kell kimutatni a nem-rezidensekkel szemben devizában fennálló valamennyi, máshol nem jelentett követelés állományt (az értékpapírok és érdekeltségek kivételével).
-
-DMM2235 Egyéb belföldieknek nyújtott, lejárat nélküli, lejárt és éven túli hátralévő lejáratú deviza hitel: ezen a soron kell kimutatni a jegybanknak nyújtott hiteleket, a központi költségvetésnek közvetlenül nyújtott hiteleken felül az állam által szerződés vagy jogszabály alapján más pénztulajdonostól átvállalt hitelek állományát, a Társadalombiztosítási Alapoknak és a helyi önkormányzatoknak nyújtott hiteleket, valamint a háztartásokat segítő nonprofit intézményeknek nyújtott hiteleket és valódi penziós ügyletből származó követeléseket.
-
-DMM2236 Egyéb deviza követelések: ezen a soron a Hitkr. szerinti befektetési szolgáltatási tevékenységből eredő követelések állományát, valamint a külföldiekkel és belföldiekkel szembeni, devizával kapcsolatos valamennyi aktív elszámolást – ideértve az aktív időbeli elhatárolásokat (a kamatelhatárolások kivételével) – és a mérlegben kimutatandó, pozitív értékkel rendelkező derivatív tételek állományát kell jelenteni, ide nem értve az egyéb aktív időbeli elhatárolásokat, a származékos ügyletek pozitív értékelési különbözetét, valamint az egyéb aktív elszámolások és egyéb eszközök értékvesztését és értékelési különbözetét.
-
-DMM2237 Vagyoni érdekeltségek (devizában denominált): ezen a soron kell kimutatni azokat a kevésbé mobilizálható befektetéséket, amelyeket az adatszolgáltató üzletpolitikai, illetve veszteségmérséklési célból szerzett, valamint a nem forgalomképes vagyoni érdekeltségeket. Ide tartozik az összes belföldi – Hpt. szerint meghatározott – hitelintézeti befektetés bekerülési értéke (ide nem értve a befektetés értékvesztését és értékelési különbözetét), az egyéb pénzügyi közvetítők kockázati tőkealap-jegyei, részvényei és egyéb részesedései, üzletrészei, valamint a pénzügyi kiegészítő tevékenységet végzők részvényei, egyéb részesedései és üzletrészei, biztosítók részvényei és nyugdíjpénztárak részesedései (ide nem értve az ezen tételekhez tartozó értékvesztést és értékhelyesbítést). Itt kell jelenteni az adatszolgáltató üzletszerű működését kiegészítő tevékenységet végző, saját járulékos vállalkozásokba történt minden befektetést, a nem pénzügyi vállalatokban lévő valamennyi olyan befektetést, amely nem veszteségmérséklés során került az adatszolgáltató tulajdonába és a nem pénzügyi vállalatok hitel-tőke konverzióból származó részvényeinek és egyéb üzletrészeinek állományát, ide nem értve az ezen tételeken elszámolt értékvesztést és értékelési különbözetet. Szintén ezen a soron kell szerepeltetni a külföldi részvényeket és azokat a veszteségmérséklésként, hitel-tőke konverzióval szerzett külföldi vagyoni érdekeltségeket, amelyek nem hitelintézetekkel, pénzügyi, befektetési vagy a járulékos vállalkozásokkal, illetve biztosítókkal kapcsolatosak, ide nem értve az ezekhez az ügyletekhez kapcsolódó értékvesztést és értékelési különbözetet. Ezen a soron nem kell jelenteni, az előző sorokon már szereplő tételeket (pl. nem az adatszolgáltató vagy leányvállalata által kibocsátott tőzsdei indexben szereplő devizában denominált részvényeket).
-
-DMM2238 Saját deviza eszközök: ezen a soron az adatszolgáltató saját eszközeinek tekintendő tételek szerepelnek. Itt kell jelenteni az adatszolgáltató által visszavásárolt saját, belföldön, illetve külföldön kibocsátott kötvény és saját részvény, visszafizetett szövetkezeti részjegy állományát abban az esetben, ha ezen tételek követeléskiegyenlítés útján kerültek az adatszolgáltatóhoz, az összes olyan készletállományt, amelyet az adatszolgáltató követelés és nem követelés ellenében kapott (ide nem értve a készletekre képzett értékvesztés fennálló állományát), az immateriális javakat és a tárgyi eszközöket értékcsökkenési leírással csökkentett bruttó bekerülési értéken, az ingatlanhoz nem kapcsolódó vagyoni jogok értékét, az immateriális javak között elszámolt szoftverállományt, valamint az immateriális javak egyéb állományát (beleértve az immateriális javak között kimutatható alapítás-átszervezés aktivált értékét is, de ide nem értve az immateriális javak értékhelyesbítését), továbbá az adatszolgáltató elhelyezését szolgáló, vásárolt bérleti jogokat, a pénzügyi és befektetési szolgáltatási célú ingatlanokhoz kapcsolódó egyéb vagyoni értékű jogokat, a mérlegben közvetlen pénzügyi és befektetési szolgáltatási célú tárgyi eszközként szereplő ingatlanok, illetve műszaki berendezések, gépek, felszerelések, járművek értékét, valamint a pénzügyi és befektetési célú beruházásokat és a beruházásokra adott előlegeket (ide nem értve az ezen eszközökhöz tartozó értékhelyesbítést), a nem az adatszolgáltató működéséhez kapcsolódó tárgyi eszközöket értékhelyesbítés nélkül.
-
-DMM2239 Minden egyéb deviza eszköz: ezen a soron a fentiekben nem nevesített devizaeszközöket kell szerepeltetni. Az ezen a soron feltüntetendő összeg maradékelven adódik a hitelintézet mérlegfőösszege és a fent felsorolásra került eszközök különbségeként, csökkentve a fenti tételekhez kapcsolódó értékvesztés, értékelési különbözetek, továbbá az aktív kamatelhatárolások és egyéb aktív időbeli elhatárolások előjelhelyes értékével.
-
-DMM224 Garanciák, egyéb mérlegen kívüli deviza kötelezettségek (34+…+38)
-
-A DMM2241-DMM2245 sorokban részletezett adatokat a „Mérlegen kívüli, értékpapír finanszírozó és hosszú elszámolási idejű, származtatott ügyletek, termékek közötti szerződéses nettósítási megállapodás alapján fennálló kitettségek és azonnali ügyletek - sztenderd módszert alkalmazó hitelintézetek számára” valamint a „Mérlegen kívüli, értékpapír finanszírozó és hosszú elszámolási idejű, származtatott ügyletek, termékek közötti szerződéses nettósítási megállapodás alapján fennálló kitettségek és azonnali ügyletek - IRB módszert alkalmazó hitelintézetek számára” megnevezésű, a PSZÁF-nak teljesített jelentésekben szerepeltett adatokkal összhangban kell jelenteni attól függően, hogy az adatszolgáltató a hitelezési kockázat tőkekövetelményét a Hpt. 76/A. §-a, a Hpt. 76/B-76/D. §-a vagy a Hpt. 76/B. és 76/C. §-a szerint számító hitelintézetnek minősül-e.
-
-DMM226 Változó devizás hitelkeret: olyan le nem hívott hitelkeret, amely esetében az adatszolgáltató saját döntése a folyósított hitel denominációjának megválasztása, ideértve a forintban vagy a devizában denominált ilyen tulajdonsággal rendelkező hitelkereteket is.
-
-DMM301 Devizafinanszírozás megfelelési mutató: ebben a sorban az adatszolgáltatónak a 366/2011. (XII. 30.) Korm. rendelet szerinti devizafinanszírozás megfelelési mutató (DMM) értékét három tizedesjegy pontossággal, százalékpontos (azaz együtthatós) formában kell kimutatni, így például az elvárt szint 0,650 formában jelentendő. A mutató a stabilnak minősített devizaforrások és az 1 éven túli hátralévő lejáratú forinttal szembeni nettó devizaswap-állománynak, valamint a finanszírozott stabil devizaeszközök és mérlegen kívüli devizakötelezettségeknek a hányadosaként számítható ki.
-
-A DMM tábla egyes soraihoz kapcsolódó összefüggések
-
-| Sor | Megnevezés | Hivatkozás |
-
-| DMM102 | Egy év vagy annál hosszabb hátralévő lejáratú deviza betétek és deviza kötelezettségek | 4AB012,f+4AB012,g+4AB012,h+4AB012,i+4AB012,j+4AC012,f +4AC012,g+4AC012,h+4AC012,i+4AC012,j+4AD012,f+4AD012,g +4AD012,h+4AD012,i+4AD012,j+4AE012,f+4AE012,g+4AE012,h +4AE012,i+4AE012,j (ide nem értve a DMM103 soron jelentett tételeket, de beleértve a k oszlopokban, lejárat nélkül kapott kölcsöntőke elemeket) |
-
-| DMM104 | Lejárat nélküli vagy 1 éven belül lejáró háztartási deviza betétek | 4AB01212,b+4AB01212,c+4AB01212,d+4AB01212,e+4AB01212,k +4AC01212,b+4AC01212,c+4AC01212,d+4AC01212,e+4AC01212,k+4AD01212,b+4AD01212,c+4AD01212,d+4AD01212,e+4AD01212,k+4AE01212,b+4AE01212,c+4AE01212,d+4AE01212,e+4AE01212,k (ide nem értve a DMM103 soron jelentett tételeket) |
-
-| DMM106 | Háztartások tulajdonában lévő, adott hitelintézet által kibocsátott, 1 éven belüli hátralévő lejárattal rendelkező deviza kötvények állománya | Az összegnek kisebb egyenlőnek kell lennie a 4AB-4AE0124,b-e összegénél. |
-
-| DMM107 | Lejárat nélküli vagy 1 éven belül lejáró, nem pénzügyi vállalatok, központi kormányzat (beleértve a központi költségvetési intézményeket), helyi önkormányzatok, Társadalombiztosítási Alapok, egyéb pénzügyi szolgáltatás közvetítők, pénzügyi kiegészítő tevékenységet végzők, biztosítók és magánnyugdíjpénztárak, a háztartásokat segítő nonprofit intézmények, valamint a külföldiek nem bankközi deviza betétei | 4AB0121,b-4AB01212,b +4AB0121,c-4AB1212,c +4AB0121,d-4AB01212,d +4AB0121,e-4AB01212,e+4AB0121,k-4AB01212,k + 4AC0121,b-4AC01212,b +4AC0121,c-4AC01212,c +4AC0121,d-4AC01212,d+4AC0121,e-4AC01212,e +4AC0121,k-4AC01212,k+4AD0121,b-4AD01212,b +4AD0121,c -4AD01212,c+4AD0121,d-4AD01212,d +4AD0121,e-4AD01212,e+4AD0121,k-4AD01212,k+4AE0121,b-4AE01212,b+4AE0121,c-4AE01212,c +4AE0121,d-4AE01212,d+4AE0121,e-4AE01212,e+4AE0121,k-4AE01212,k (ide nem értve a DMM103, a DMM105 sorokon jelentett tételeket). |
-
-| DMM108 | Pénzpiaci alapok 1 éven belül lejáró deviza betétei | 4AB01223,b+4AB01223,c+4AB01223,d+4AB01223,e+4AB01223,k +4AC01223,b+4AC01223,c+4AC01223,d+4AC01223,e+4AC01223,k+4AD01223,b+4AD01223,c+4AD01223,d+4AD01223,e+4AD01223,k+4AE01223,b+4AE01223,c+4AE01223,d+4AE01223,e+4AE01223,k |
-
-| DMM109 | Éven túli hátralévő lejáratú, forinttal szembeni nettó devizaswap-állomány | Az ezen a soron jelentett adatot az adatszolgáltató az MNB rendelet szerinti D01 azonosító kódú adatszolgáltatás alapján felépíthető, forinttal szembeni nettó swapállományával összhangban kell jelenteni. |
-
-| DMM211 | Valuta pénztárkészlet | 1AB11,b+1AB11,c |
-
-| DMM212 | Egy évnél rövidebb hátralévő lejáratú fedezetlen deviza eszközök | 1AB14,b+1AB14,c+1AB151,b+1AB151,c+1AB152,b+1AB152,c +1AB411,b+1AB411,c+4AB0115,b+4AB0115,c+4AB0115,d +4AB0115,e+4AC0115,b+4AC0115,c+4AC0115,d+4AC0115,e +4AD0115,b+4AD0115,c+4AD0115,d+4AD0115,e+4AE0115,b +4AE0115,c+4AE0115,d+4AE0115,e |
-
-| DMM214 | Devizában denominált értékpapírok egy évnél rövidebb hátralevő lejárattal | Az MNB rendelet szerinti E21 azonosító kódú adatszolgáltatással [„A bankok és a szakosított hitelintézetek saját tulajdonában lévő, valamint a náluk letétbe helyezett (rezidensek és nem-rezidensek által kibocsátott) értékpapírok állománya, tulajdonosi bontásban”] (a továbbiakban: E21jelentés) összhangban a nem HUF-ban denominált, a hitelintézet saját tulajdonában lévő értékpapírok állománya bruttó értéken. |
-
-| DMM215 | Pénzügyi vállalatoknak nyújtott éven belül lejáró deviza hitel | 4AB01161,b+4AB01161,c+4AB01161,d+4AB01161,e+ 4AC01161,b+4AC01161,c+4AC01161,d+4AC01161,e+ 4AD01161,b+4AD01161,c+4AD01161,d+4AD01161,e+ 4AE01161,b+4AE01161,c+4AE01161,d+4AE01161,e (levonva a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követelése) |
-
-| DMM216 | Éven túli hátralévő lejáratú deviza államkötvény, konszolidációs deviza államkötvény, MNB által kibocsátott deviza kötvény, egyéb pénzügyi közvetítők deviza kötvénye, valamint GMU központi kormányzat deviza kötvénye | legfeljebb a következő adatok összege: 1AB2112,b+1AB2112,c +1AB2113,b+1AB2113,c +1AB22121,b+1AB22121,c +1AB22122,b+1AB22122,c +1AB412,b++1AB412,c 1AB2412,b+1AB2412,c +1AB27112,b +1AB27112,c |
-
-| DMM218 | Egy éven belül lejáró, nem pénzügyi vállalatoknak és egyéb belföldieknek nyújtott deviza hitelek | 4AB01162,b+4AB01162,c+4AB01162,d+4AB01162,e+4AB01164,b +4AB01164,c+4AB01164,d+4AB01164,e+4AC01162,b+4AC01162,c +4AC01162,d+4AC01162,e+4AC01164,b+4AC01164,c+4AC01164,d+4AC01164,e+4AD01162,b+4AD01162,c+4AD01162,d+4AD01162,e+4AD01164,b+4AD01164,c+4AD01164,d+4AD01164,e+4AE01162,b+4AE01162,c+4AE01162,d+4AE01162,e+4AE01164,b+4AE01164,c +4AE01164,d+4AE01164,e (levonva a lakóingatlannal fedezett, előző sorokon szereplő követeléseket (DMM221) |
-
-| DMM 219 | Nem a hitelintézet vagy leányvállalata által kibocsátott, tőzsdei indexben szereplő devizában denominált részvények | E21-es (hitelintézeti) jelentéssel összhangban a nem HUF-ban denominált, az adatszolgáltató tulajdonában lévő, tőzsdei indexben szereplő, a kitöltési előírásoknak megfelelő, a PSZÁF honlapján közzétett részvény típusú értékpapírok állománya felügyeleti mérleggel (1AB adatszolgáltatás) konzisztens bruttó értéken. |
-
-| DMM 220 | Éven túli hátralévő lejáratú, nem csoporton belüli hitelintézet által kibocsátott devizában denominált jelzáloglevelek | E21-es (hitelintézeti) jelentésben szereplő, az adatszolgáltató tulajdonában lévő, 1 éven túl lejáró jelzáloglevelek állománya felügyeleti mérleggel (1AB adatszolgáltatás) konzisztens bruttó értéken, amelynek kibocsátója az adatszolgáltatóval nem ugyanazon összevont felügyeleti körbe tartozó hitelintézet. |
-
-| DMM222 | Egy éven belül lejáró háztartási deviza hitelek | 4AB01163,b+4AB01163,c+4AB01163,d+4AB01163,e+4AC01163,b +4AC01163,c+4AC01163,d+4AC01163,e+4AD01163,b+4AD01163,c+4AD01163,d+4AD01163,e+4AE01163,b+4AE01163,c+4AE01163,d +4AE01163,e (levonva a lakóingatlannal fedezett, DMM221 soron szereplő, éven belüli lejáratú követeléseket) |
-
-| DMM2231 | Lejárt, éven túli hátralévő lejáratú és lejárat nélküli háztartási deviza hitelek | 4AB01163,a+4AB01163,f+4AB01163,g+4AB01163,h+4AB01163,i +4AB01163,j+4AB01163,k+4AC01163,a+4AC01163,f+4AC01163,g +4AC01163,h+4AC01163,i+4AC01163,j+4AC01163,k+4AD01163,a +4AD01163,f+4AD01163,g+4AD01163,h+4AD01163,i+4AD01163,j +4AD01163,k+4AE01163,a+4AE01163,f+4AE01163,g+4AE01163,h +4AE01163,i+4AE01163,j+4AE01163,k (levonva a lejárt és éven túli, lakóingatlannal fedezett, előző sorokon szereplő követeléseket (DMM221) |
-
-| DMM2232 | Lejárt, éven túli hátralévő lejáratú és lejárat nélküli nem pénzügyi vállalatok deviza hitelei | 4AB01162,a+4AB01162,f+4AB01162,g+4AB01162,h+4AB01162,i +4AB01162,j+4AB01162,k+4AC01162,a+4AC01162,f+4AC01162,g +4AC01162,h+4AC01162,i+4AC01162,j+4AC01162,k+4AD01162,a +4AD01162,f+4AD01162,g+4AD01162,h+4AD01162,i+4AD01162,j +4AD01162,k+4AE01162,a+4AE01162,f+4AE01162,g+4AE01162,h +4AE01162,i+4AE01162,j+4AE01162,k (levonva a lakóingatlannal fedezett, előző sorokon szereplő követeléseket (DMM221) |
-
-| DMM2233 | Lejárt, éven túli hátralévő lejáratú és lejárat nélküli hitelintézeteknek nyújtott deviza hitel | 4AB01161,a+4AB01161,f+4AB01161,g+4AB01161,h+4AB01161,i +4AB01161,j+4AB01161,k+4AC01161,a+4AC01161,f+4AC01161,g +4AC01161,h+4AC01161,i+4AC01161,j+4AC01161,k+4AD01161,a +4AD01161,f+4AD01161,g+4AD01161,h+4AD01161,i+4AD01161,j +4AD01161,k+4AE01161,a+4AE01161,f+4AE01161,g+4AE01161,h +4AE01161,i+4AE01161,j+4AE01161,k (az adatmezők hitelintézetekre vonatkozó része levonva a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követeléseket) |
-
-| DMM2234 | Nem rezidensek hitelei | 4AB01165,a+4AB01165,b+4AB01165,c+4AB01165,d+4AB01165,e +4AB01165,f+4AB01165,g+4AB01165,h+4AB01165,i+4AB01165,j +4AB01165,k+4AC01165,a+4AC01165,b+4AC01165,c+4AC01165,d+4AC01165,e+4AC01165,f+4AC01165,g+4AC01165,h+4AC01165,i +4AC01165,j+4AC01165,k+4AD01165,a+4AD01165,b+4AD01165,c +4AD01165,d+4AD01165,e+4AD01165,f+4AD01165,g+4AD01165,h+4AD01165,i+4AD01165,j+4AD01165,k+4AE01165,a+4AE01165,b +4AE01165,c+4AE01165,d+4AE01165,e+4AE01165,f+4AE01165,g +4AE01165,h+4AE01165,i+4AE01165,j+4AE01165,k |
-
-| DMM 2235 | Egyéb belföldieknek nyújtott lejárat nélküli, lejárt és éven túli hátralévő lejáratú deviza hitel | 4AB01164,a+4AB01164,f+4AB01164,g+4AB01164,h+4AB01164,i +4AB01164,j+4AB01164,k+4AC01164,a+4AC01164,f+4AC01164,g +4AC01164,h+4AC01164,i+4AC01164,j+4AC01164,k+4AD01164,a +4AD01164,f+4AD01164,g+4AD01164,h+4AD01164,i+4AD01164,j +4AD01164,k+4AE01164,a+4AE01164,f+4AE01164,g+4AE01164,h +4AE01164,i+4AE01164,j+4AE01164,k |
-
-| DMM2236 | Egyéb deviza követelések | 4AB0117,a+4AB0117,b+4AB0117,c+4AB0117,d +4AB0117,e+4AB0117,f+4AB0117,g+4AB0117,h +4AB0117,i+4AB0117,j+4AB0117,k+4AC0117,a+4AC0117,b +4AC0117,c+4AC0117,d+4AC0117,e+4AC0117,f+4AC0117,g +4AC0117,h+4AC0117,i+4AC0117,j+4AC0117,k+4AD0117,a +4AD0117,b+4AD0117,c+4AD0117,d+4AD0117,e+4AD0117,f +4AD0117,g+4AD0117,h+4AD0117,i+4AD0117,j+4AD0117,k +4AE0117,a+4AE0117,b+4AE0117,c+4AE0117,d+4AE0117,e +4AE0117,f+4AE0117,g+4AE0117,h+4AE0117,i+4AE0117,j +4AE0117,k |
-
-| DMM2237 | Vagyoni érdekeltségek (devizában denominált) | 4AB0118,k+4AC0118,k+4AD0118,k+4AE0118,k [a korábbi sorokkal (pl. DMM219-es sorral) nem átfedő módon megadva] |
-
-| DMM2238 | Saját deviza eszközök | 4AB0119,k+4AC0119,k+4AD0119,k+4AE0119,k |
-
-| DMM2239 | Minden egyéb deviza eszköz | Az ezen a soron feltüntetendő összeg maradékelven adódik a hitelintézet mérlegfőösszege és a fent felsorolásra került eszközök különbségeként csökkentve a fenti tételekhez kapcsolódó értékvesztés értékelési különbözetek, továbbá az aktív kamatelhatárolások és egyéb aktív időbeli elhatárolások előjelhelyes értékével. 1AB0,b+1AB0,c-(DMM211,a+….+DMM222,a)-(DMM2231,a+…+DMM2238,a)- (1AB16,b+1AB16,c+1AB214,b+1AB214,c+1AB215,b+1AB215,c +1AB222,b+1AB222,c+1AB223,b+1AB223,c+1AB233,b+1AB233,c +1AB234,b+1AB234,c+1AB244,b+1AB244,c+1AB245,b+1AB245,c +1AB253,b+1AB253,c++1AB254,b+1AB254,c+1AB262,b+1AB262,c+1AB263,b+1AB263,c +1AB273,b+1AB273,c+1AB274,b+1AB274,c+1AB3113,b+1AB3113,c+1AB3114,b+1AB3114,c+1AB322,b+1AB322,c+1AB323,b+1AB323,c +1AB332,b+1AB332,c+1AB333,b+1AB333,c +1AB342,b +1AB342,c+1AB343,b+1AB343,c +1AB353,b+1AB353,c +1AB354,b+1AB354,c +1AB424,b+1AB424,c+1AB433,b+1AB433,c +1AB5113,b+1AB5113,c+1AB5114,b+1AB5114,c +1AB5123,b +1AB5123,c+1AB5124,b+1AB5124,c +1AB5133,b +1AB5133,c +1AB5134,b+1AB5134,c +1AB533,b+1AB533,c+ 1AB534,b+ 1AB534,c +1AB544,b+1AB544,c+1AB545,b+1AB545,c +1AB553,b +1AB553,c+1AB554,b+1AB554,c+1AB5626,b+1AB5626,c +1AB5627,b+1AB5627,c+1AB5616,b+1AB5616,c+1AB5617,b +1AB5617,c+1AB574,b+1AB574,c+1AB575,b+1AB575,c +1AB583,b+1AB583,c+1AB584,b+1AB584,c+1AB612,b+1AB612,c +1AB613,b+1AB613,c +1AB625,b+1AB625,c+1AB626,b+1AB626,c +1AB634,b+1AB634,c+1AB635,b+1AB635,c +1AB643,b +1AB643,c+1AB644,b+1AB644,c +1AB791,b+1AB791,c +1AB792,b+1AB792,c+1AB916,b+1AB916,c+1AB917,b+1AB917,c +1AB9232,b+1AB9232,c)-(1AB8,b+1AB8,c+1C731,b+1C731,c) |
-
-| DMM2241 | Teljes kockázatú, mérlegen kívüli deviza tételek | Sztenderd módszert alkalmazó intézmények: C11H111,b+C11H111,c Sztenderd és IRB módszert alkalmazó intézmények: C11H111,b+C11H111,c+ C12H111,b+C12H111,c Csak IRB bankok: C12H111,b+C12H111,c |
-
-| DMM2242 | 75%-os súlyozású, egyéb mérlegen kívüli deviza tételek | C12H112,b+C12H112,c |
-
-| DMM2243 | Közepes kockázatú, mérlegen kívüli deviza tételek (kivéve a le nem hívott ígérvény, hitelkeret) | Sztenderd módszert alkalmazó intézmények: C11H112,b-C11H1125,b+C11H112,c-C11H1125,c C12H113,b-C12H1135,b+C12H113,c (bele nem értve a le nem hívott ígérvényt, hitelkeretet) Sztenderd és IRB módszert alkalmazó intézmények: C11H112,b-C11H1125,b+C11H112,c-C11H1125,c+ C12H113,b-C12H1135,b+C12H113,c (bele nem értve a le nem hívott ígérvényt, hitelkeretet) Csak IRB bankok: C12H113,b+C12H113,c (bele nem értve a le nem hívott ígérvényt, hitelkeretet) |
-
-| DMM2244 | Alacsony kockázatú, mérlegen kívüli deviza tételek (kivéve a le nem hívott ígérvény, hitelkeret) | Sztenderd módszert alkalmazó intézmények: C11H113,b-C11H1132,b+C11H113,c-C11H1132,c Sztenderd és IRB módszert alkalmazó intézmények: C11H113,b-C11H1132,b+C11H113,c-C11H1132,c+ C12H114,b-C12H1143,b+C12H114,c (bele nem értve a le nem hívott ígérvényt, hitelkeretet) Csak IRB bankok: C12H114,b+C12H114,c (bele nem értve a le nem hívott ígérvényt, hitelkeretet) |
-
-| DMM2245 | Kockázatmentes, mérlegen kívüli deviza tételek (kivéve a le nem hívott ígérvény, hitelkeret) | Sztenderd módszert alkalmazó intézmények: C11H114,b-C11H1142,b+C11H114,c-C11H1142,c Sztenderd és IRB módszert alkalmazó intézmények: C11H114,b-C11H1142,b+C11H114,c-C11H1142,c+ C12H115,b-C12H1152,b+C12H115,c (bele nem értve a le nem hívott ígérvényt, hitelkeretet) Csak IRB bankok: C12H115,b-C12H1152,b+C12H115,c (bele nem értve a le nem hívott ígérvényt, hitelkeretet) |
-
-| DMM225 | Le nem hívott deviza likviditási és hitelkeret (csak deviza) | Sztenderd és IRB módszert alkalmazó intézmények C11H1125,b+C11H1125,c+C11H1132,b+C11H1132,c+ C11H1142,b+C11H1142,c-DMM226,a Csak IRB bankok: Le nem hívott ígérvény, hitelkeretek-DMM226,a |
-
-| DMM301 | Devizafinanszírozás megfelelési mutató | DMM301,c=DMM101,c/DMM210,c |
-
-5A Hpt. előírások vizsgálata
-
-A tábla célja
-
-A táblázat célja, hogy a hitelintézet a Hpt. által megfogalmazott kockázatok mérésére szolgáló korlátok betartását a hitelintézet is folyamatosan, de legalább havonta figyelni tudja.
-
-A tábla kitöltése
-
-Ebben a táblában az egyes hitelekre, általános tartalékképzésre, nagykockázat vállalásra, valamint a befektetésekre vonatkozó adatokat a törvényi előírásoknak megfelelően kell csoportosítani.
-
-A táblában a beszámolás napján fennálló követelés, befektetés, egyéb kötelezettségvállalás állományát kell szerepeltetni és az aktuális (havi) szavatoló tőkéhez viszonyítani a törvényi előírásoktól való eltérések kimutatása érdekében.
-
-A táblában szereplő sorokban a teljes körű, illetve az egyedi számbavétel alapján kapott értékek összesítésének adatait kell feltüntetni abszolút értékben.
-
-A tábla oszlopai
-
-Az a) oszlopban a teljes (könyv szerinti bruttó) összeget (kivéve, ha a tábla adott sorára vonatkozóan a kitöltési útmutató ettől eltérően nem rendelkezik), a b) oszlopban a tételekhez kapcsolódó értékvesztést, kockázati céltartalék értékét, míg a c) oszlopban az értékvesztéssel, kockázati céltartalékkal csökkentett (nettó) értéket kell kimutatni.
-
-A belső hiteleket ezer forintra kerekítve kell ezekben a részletező sorokban kimutatni. A bankoknak millió Ft-ban (három tizedes jegyig) kell az adatokat szerepeltetni.
-
-A Hpt. 60. § (1) bekezdésében meghatározott vezető állású személyek és azok hozzátartozói, illetve vállalkozásai részére nyújtott kockázatvállalásnak a teljes (nem nettósított és nem súlyozott) összegét kell kimutatni, és a törvényi előírások szerinti hivatkozásoknak megfelelően csoportosítani.
-
-A hitelkeretek esetében a belső szabályzat által meghatározott szerződés szerinti, engedélyezett hitelkereteket kell kimutatni. Az igénybe vett hitelkeretrészt a lakossági kölcsön csoportba kell átsorolni. A munkáltatói, illetve lakossági kölcsönök esetében a még fennálló tartozás összegét kell szerepeltetni.
-
-A tábla sorai
-
-Azokat a hiteleket és kötelezettségvállalásokat, amelyek nem tartoznak a Hpt. 60. § (2) vagy a (3) bekezdésekben kivételként meghatározott belső hitelek közé, az 5A1 Hpt. 60. § (1) bekezdése szerinti belső hitel túllépés sorban kell feltüntetni.
-
-Az ügyfelekkel szembeni kockázat-vállalásokat a Hpt. által előírt eltérő limitrendszer miatt külön kell feltérképezni. Egyes szövetkezeti hitelintézeteknek, illetve a Magyar Fejlesztési Banknak[^13] a rájuk vonatkozó külön meghatározott limiteket, illetve korlát alóli kivételeket kell figyelembe venni. Az MFB esetében a korlátozás alóli speciális kivételeket értelemszerűen kell az egyes sorokban elhelyezni.
-
-Az 5A21 Hpt. 76. § (1)-(2) bekezdésben meghatározott tőkekövetelmény másfélszerese [Hpt. 75. § (3) bekezdés vizsgálatához és 5A22 Eredménytartalék Hpt. 75. § (3) bekezdés vizsgálatához] sorban kell megadni az általános tartalékképzés alóli mentesítés kritériumait a Hpt. 75. § (3) bekezdésnek megfelelően.
-
-Az 5A3 Pénzügyi szolgáltatásból származó veszteség mérséklése, elhárítása érdekében, legfeljebb a szerzéstől számított három évig a hitelintézet tulajdonába került befektetések szakasz azokat a követelés fejében átvett befektetéseket tartalma, amelyeket a 83. § (4) bekezdés szerint a befektetési korlátozásoknál nem kell figyelembe venni. Ezek a hitelintézet tulajdonába csak átmenetileg, a szerzés időpontjától számított legfeljebb hároméves időtartamra, pénzügyi szolgáltatásból származó veszteségmérséklés céljából, illetőleg hitel-tulajdonrész csereügylet vagy felszámolás következtében került - elkülönítetten nyilvántartott és elkülönítetten kezelt, rendszeresen minősített - tulajdoni hányadok, ingatlanok és egyéb eszközök.
-
-Az 5A31 A Hpt. 83. § (4) bekezdése, illetve 85. § (3) bekezdése alapján három éven belüli elidegenítési kötelezettséggel a hitelintézet tulajdonába került tulajdoni hányadok állománya, az 5A33 Hpt. 84. § (2) bekezdés szerinti átvett ingatlanok közül három éven belüli elidegenítési kötelezettséggel a hitelintézet tulajdonába került ingatlanok állománya és az 5A35 Készletek között nyilvántartott, követelés fejében továbbértékesítési céllal átvett egyéb eszközök állománya sorokban a megnevezésben feltüntetett paragrafusok szerinti állományok még nem elidegenített része jelenik meg, amelyeknél még nem járt le a 3 év, vagy lejárt és a hitelintézet nem értékesítette, ezért köteles volt a saját befektetések, ingatlanok, készletek közé átvezetni a tételeket. Az átvett eszközöket, tulajdonrészeket a hitelintézet köteles a számviteli rendszerében elkülönítetten nyilvántartani és a kiegészítő mellékletben külön bemutatni.
-
-Az 5A331-5A333 sorokban a 3 éven belüli, az 5A341-5A343 sorokban a 3 éven túli, elidegenítési kötelezettséggel terhelt tulajdoni hányad, ingatlan, készlet állományát funkciója szerint az alábbiak szerint kell megbontani:
-
-• 5A331 és 5A341 működő - hitelintézet vagy hitelintézeti csoport által üzemeltetett eszközök
-
-• 5A332 és 5A342 működő - hitelintézet vagy hitelintézeti csoporton kívüli vállalkozás által üzemeltetett eszközök
-
-• 5A333 és 5A343 nem üzemeltetett vagy használaton kívüli eszközök
-
-Az 5A32 A Hpt. 83. § (4) bekezdése, illetve 85. § (3) bekezdése szerint a hitelintézet tulajdonában lévő tulajdoni hányadok a három éves elidegenítési időpontot meghaladóan, az 5A34 Hpt. 84. § (2) bekezdés szerinti átvett ingatlanok közül a hitelintézet tulajdonában lévő ingatlanbefektetések a három éves elidegenítési időpontot meghaladóan sorokban azokat a tulajdoni hányadokat (részvény, részjegy, üzletrész, vagyoni részesedés), ingatlanokat kell kimutatni, amelyeket 3 éves elidegenítési kötelezettség terhel, de a szerzéstől, átvételtől számítva a kedvezményes három év már eltelt. Az elidegenítési időpontot meghaladóan az átvett eszközöket a saját befektetések állományával együtt kell vizsgálni a Hpt. 83 § (1)-(3) bekezdése szerinti korlátoknak való megfelelés szempontjából.
-
-Az 5A36 Hitelintézet tulajdonába elidegenítési kötelezettséggel került befektetések állományának elidegenítési határidő szerinti bontása 5A361-5A363 alábontó soraiban az állományt a jelentés dátumától az elidegenítési kötelezettség – szerzéstől számított – 3 éves határnapjáig hátralévő napok száma szerint kell a megadott lejárati sávokba besorolni. Az 1 éven belüli sávban az elidegenítési kötelezettség dátumához, a 2-3 éves sávban a szerzés vagy átvétel napjához legközelebb eső tételek jelennek meg. A 3 éves elidegenítési határnapot meghaladó tétel az alábontó sorokban nem szerepelhet.
-
-Az 5A37 Hitelintézet tulajdonába elidegenítési kötelezettséggel került befektetésekből származó bevételek szakaszban az érintett állomány tartásából származó bevételeket (így például osztalékbevételeket, bérleti díjakat stb.) kell kimutatni a tábla a) ”Összesen„ oszlopában. Az átvett eszközök értékesítéséből származó bevételt nem kell kimutatni.
-
-Külön soron kell kimutatni
-
-• a hitel-tőke konverzióból származó egyéb külföldi részvényekből, részesedésekből, egyéb üzletrészekből és
-
-• a követelés fejében átvett, értékpapírnak nem minősülő, ingatlanokból és egyéb átvett eszközökből származó bevételeket. A bevételeket kell kimutatni.
-
-Az 5A38 Hitelintézet tulajdonába elidegenítési kötelezettséggel került befektetésekből származó ráfordítások sorban az érintett állomány tartásából származó ráfordításokat, felmerülő költségeket kell kimutatni, előjel nélkül.
-
-5A4 A részletező sorokban az egyedi befektetésekre vonatkozó – tételesen kimutatott – adatokat kell összesíteni és kimutatni.
-
-Az 5A4 Hpt. 83. § (1) bekezdése szerinti befektetési korlát túllépés sorban azokat a – tételesen számba vett – befektetéseket kell összesítve kimutatni, amelyek egyedi értéke továbbra is meghaladja a limitet (SZT 15%-át), és amelyet a szavatoló tőkéből le kell vonni.
-
-Az 5A41 Hpt. 83. § (1) bekezdés szerinti befektetési limitet meghaladó tételek összege sorban a Hpt. 83. § (1) bekezdésében meghatározott limitet meghaladó összes befektetésnek, részesedésnek összegét kell kimutatni.
-
-Az 5A42 Hpt. 83. § (1) bekezdés szerinti befektetési korlát alóli kivételek összesen sorban a limitet meghaladó egyedi befektetések közül a 83. § (1) bekezdés szerinti kivételként feltüntetett befektetések értékét kell feltüntetni. Külön sorban kell kimutatni a PIBB és járulékos vállalkozások és külön sorban az egyéb „speciális” pénzügyi szervezetek befektetési értékét.
-
-Az 5A43 Hpt. 83. § (4) bekezdés szerinti befektetési korlát korlát kivételek: Kereskedési könyv alá tartozó tételek összege sorban ki kell emelni a kereskedési könyv alá tartozó (Kkr. II. fejezet) befektetéseket, mert nem tartoznak az egyedi limit alá.
-
-Az 5A44 Hpt. 83. § (4) bekezdés szerinti befektetési korlát alóli egyéb kivételek értéke sorban a 83. § (4) bekezdésében meghatározott egyéb kivételek értékeinek összegét kell jelenteni.
-
-Az 5A45 Hpt. 83. § (1) bekezdés szerinti limit alá tartozó befektetések összesen sorban kell a limit alá tartozó egyedi befektetések összegét feltüntetni.
-
-Az 5A5-os részletező sorokban azokat az egyedi befektetésekre vonatkozó adatokat kell jelenteni, amelyek meghaladják a vállalkozás jegyzett tőkéjének 51%-át.
-
-Külön ki kell emelni a kereskedési könyv alá tartozó befektetéseket, mert nem tartoznak az egyedi limit alá.
-
-Az 5A5 Hpt. 83. § (2) bekezdése szerinti befektetési korlát túllépés sorban az egyedi befektetésnek csak a limitet (51%-ot) meghaladó értékekeit kell – összesítve – kimutatni. Ez az összérték a szavatoló tőkéből levonandó.
-
-Az 5A51 Hpt. 83. § (2) bekezdés szerint 51 %-os befektetési korlátot meghaladó befekt. értéke sorban a Hpt. 83. § (2) bekezdésében meghatározott limitet meghaladó összes befektetésnek, részesedésnek teljes összegét kell kimutatni.
-
-Az 5A52 Hpt. 83. § (2) bekezdés szerinti befektetési korlát alóli kivételek összesen sorban a limitet meghaladó egyedi befektetéseknek a Hpt. 83. § (2) bekezdés szerinti kivételként feltüntetett befektetések értékét kell feltüntetni.
-
-Az 5A53 Hpt. 83. § (4) bekezdés szerinti befektetési korlát korlát kivételek: Kereskedési könyv alá tartozó tételek összege sorban ki kell emelni a kereskedési könyv alá tartozó (Kkr. II. fejezet) befektetéseket, mert nem tartoznak az egyedi limit alá.
-
-Az 5A54 Hpt. 83. § (4) bekezdés szerinti befektetési korlát alóli egyéb kivételek értéke sorban a Hpt. 83. § (4) bekezdésében meghatározott egyéb kivételek értékeinek összegét kell jelenteni.
-
-Az 5A55 Hpt. 83. § (2) bekezdés szerinti 51 %-os befektetési korlátot meghaladó tételek korrigált értéke sorban azokat a – törvény által meghatározott kivételek értékével csökkentett – egyedi befektetések teljes nettó értékét kell jelenteni, amelyek egyedenként meghaladják a vállalkozás jegyzett tőkéjének 51%-át.
-
-5A6 A minősített befolyású befektetésekre vonatkozó adatokat kell ezekben a részletező sorokban jelenteni.
-
-Az 5A6 Hpt. 83. § (3) bekezdése szerinti befektetési korlát túllépés sorban azt az összesített – minősített befolyású részesedést jelentő – befektetési értéket kell kimutatni, amely a limitet (SZT 60%-át) meghaladja és a szavatoló tőkéből le kell vonni.
-
-Az 5A61 Hpt. 83. § (3) bekezdés szerinti befektetések összege (kivételekkel együtt) sorban a Hpt. 83. § (3) bekezdésében meghatározottak szerinti összes minősített befolyású részesedést jelentő befektetésnek összegét kell kimutatni.
-
-Az 5A62 Hpt. 83. § (3) bekezdés szerinti befektetési korlát alóli kivételek összesen sorban a limit alá tartozó egyedi befektetéseknek a Hpt. 83. § (3) bekezdés szerinti kivételként feltüntetett befektetések értékét kell feltüntetni.
-
-Az 5A63 Hpt. 83. § (4) bekezdés szerinti befektetési korlát korlát kivételek: Kereskedési könyv alá tartozó tételek összege sorban ki kell emelni a kereskedési könyv alá tartozó (Kkr. II. fejezet) befektetéseket, mert nem tartoznak az egyedi limit alá.
-
-Az 5A64 Hpt. 83. § (4) bekezdés szerinti befektetési korlát alóli egyéb kivételek értéke sorban a Hpt. 83. § (4) bekezdésében meghatározott egyéb kivételek értékeinek összegét kell jelenteni.
-
-Az 5A65 Hpt. 83. § (3) limit alá tartozó minősített befolyású befektetések összesen sorban kell a limit alá tartozó összes minősített befolyású (közvetlen és közvetett) részesedéssel rendelkező egyedi befektetések összegét feltüntetni.
-
-5A7 Az ingatlanbefektetésekre vonatkozó adatokat kell ezekben a részletező sorokban jelenteni.
-
-Az 5A7 Hpt. 84. § (1) bekezdés szerinti ingatlan befektetés túllépés sorban azt az ingatlanértéket kell kimutatni, amely a törvényben előírt limitet (SZT 5%-át) meghaladja.
-
-Az 5A71 Hpt. 84. § (1) bekezdés szerinti ingatlan befektetések összesen (kivételekkel együtt) sorban a Hpt. 84. §-ban meghatározottak szerinti összes ingatlanbefektetés összegét kell kimutatni.
-
-Az 5A721 Hpt. 84. § (1) bekezdés szerinti közvetlen banküzemi célt szolgáló ingatlan befektetés és a 5A722 Hpt. 84. § (2) bekezdés szerinti ingatlanok összesen (szerzéstől számított 3 évig) sorban a limit alá tartozó egyedi befektetéseknek a Hpt. 84. § (2) bekezdés szerinti kivételként feltüntetett ingatlanok értékét (ideértve a banküzemi ingatlanokat is) kell feltüntetni.
-
-Az 5A73 Hpt. 84. § (1) bekezdés szerinti limit alá tartozó ingatlan befektetés összesen sorban a 84. § (1) bekezdése szerinti – limit alá tartozó – ingatlanok értékét kell kimutatni, amely az összes ingatlan és a jogszabály által meghatározott kivételek értékeinek különbségét jelenti.
-
-Az 5A8 sorba az összes befektetés értékének Hpt. 85. § (1) bekezdésében meghatározott limit feletti összegét kell beírni. Amennyiben az összes befektetés összege kevesebb (nem éri el a limit értékét), abban az esetben a mező nullát kell írni.
-
-Az 5A81 Hpt. 85. § (1) bekezdés befektetések összesen sorban az 5A811-5A815 sorokban részletezett befektetések összesített értékét kell kimutatni.
-
-Az 5A811 Állampapírok és egyéb hitelviszonyt megtestesítő értékpapírok + tulajdonviszonyt megtestesítő értékpapírok + vagyoni érdekeltségek sorban a hitelintézet eszközei között szereplő teljes értékpapír-állományt, befektetést, részesedést, vagyoni érdekeltséget összesítve kell szerepeltetni függetlenül attól, hogy a mérlegben hol kerül kimutatásra. Az állomány az értékpapír formájában fennálló alapvető, járulékos, alárendelt és kiegészítő kölcsöntőkék könyv szerinti értékét nem tartalmazza, azt az 5A815 sorban kell kimutatni.
-
-Az 5A812 Átvett eszközök sorban kell feltüntetni azokat a befektetésnek számító eszközöket, amelyeket a hitelintézet követelés fejében átvett. Az eszköztétel bruttó értékének helye a felügyeleti mérlegben: 1AB9231 sor.
-
-Az 5A813 Tárgyi eszközök (bruttó és nettó értéken) sorban a hitelintézet Tárgyi eszközeit kell szerepeltetni (beleértve a nem banküzemi célú tárgyi eszközöket és a tárgyi eszközökhöz kapcsolódó vagyoni értékű jogokat is). Az eszköztétel bruttó értékének helye a felügyeleti mérlegben: 1AB9251+…+1AB9255 + 1AB9261+…+1AB9264 sorok.
-
-Az 5A814 Vagyoni értékű jogok (bruttó és nettó értéken) sorban az immateriális javak közé sorolt Vagyoni értékű jogokat kell szerepeltetni. Az eszköztétel bruttó értékének helye a felügyeleti mérlegben: 1AB9241 sor.
-
-Az 5A83 és 5A84 sorok a) Összesen oszlopában a tárgyi eszközöknek, illetve a vagyoni értékű jogoknak a terv szerinti értékcsökkenés elszámolt összegével csökkentett bekerülési értékét kell feltüntetni. A c) Nettó érték oszlopban a terv szerinti és terven felüli értékcsökkenéssel és az értékhelyesbítéssel korrigált értéket kell kimutatni.
-
-Az 5A815 PIBB részére nyújtott alapvető kölcsöntőke, járulékos kölcsöntőke és alárendelt kölcsöntőke sorban kell feltüntetni megjelenési formájától függetlenül a hitelintézet által PIBB-nek nyújtott alapvető kölcsöntőke, járulékos kölcsöntőke és alárendelt kölcsöntőke összegét, amely megfelel a kölcsöntőkék szavatoló tőkében való érvényesíthetőségére vonatkozó, a Hpt. 5. számú melléklet 11., 18. és 19. pontjaiban foglalt feltételeknek. A PIBB befektetések teljes értékének összetevőit a 3H Hátrasorolt követelések tábla megfelelő sorai tartalmazzák függetlenül attól, hogy azok a szavatoló tőkébe beszámíthatók vagy sem.
-
-Az 5A821 és 5A826 sorok megnevezésében szereplő Garantiqa Hitelgarancia Zrt.-vel azonos funkciójú új intézmények a Garantiqaval azonosan kezelendők, így jelenleg ide sorolható az Agrár-vállalkozási Hitelgarancia Alapítvány, a MV-Magyar Vállalkozásfinanszírozási Zrt, az Európai Mezőgazdasági Orientációs és Garanciaalap.
-
-Az 5A824 Minősített befolyású PIBB-nek nyújtott (szavatoló tőkéből levont) alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke értéke sorban a szavatoló tőkéből levont, minősített befolyású részesedést képviselő PIBB-nek nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke (beleértve az értékpapír formájában fennálló kölcsöntőke követelést is) könyv szerinti értékét kell kimutatni a Hpt. 5. számú melléklet 25. pont a) alpontja szerint.
-
-Az 5A825 Nem minősített befolyású (közvetlen bef.) PIBB miatt (szavatoló tőkéből levont) túllépés összege sorban a nem befolyásoló részesedésű PIBB intézményekben lévő befektetések, valamint a Hpt. 5. számú mellékletében előírtak szerinti feltételeknek megfelelő alapvető kölcsöntőke, járulékos kölcsöntőke és alárendelt kölcsöntőke összegének a szavatoló tőkéből levonandó (a SZT 10%-a feletti) részét kell szerepeltetni a Hpt. 5. számú melléklet 25. pont b) alpontja szerint.
-
-Az 5A827 Vagyoni értékű jogok (szavatoló tőkéből levont) összege sorban a Vagyoni értékű jogok szavatoló tőkéből levonandó nettó értékét kell szerepeltetni. A Hpt. 2. számú melléklet III. fejezet 1. pontja szerint a befektetés csak a vagyoni értékű jogokat tartalmazza a Hpt. 5. számú melléklet 5. pont b) alpontja szerint a szavatoló tőkéből levonható immateriális javak közül, ezért az összes befektetési korlát túllépését levezető 5A8 sor alábontó sorába szintén csak a vagyoni értékű jogokat kell beszámítani.
-
-Az 5A83 Hpt. 85. § (1) bekezdés szerint figyelembe veendő (közvetlen) befektetések összesen sorban azoknak a közvetlen befektetéseknek az összértékét kell feltüntetni, amelyek a (SZT 100%) limitbe beszámítanak.
-
-Az 5A91-5A99 sorokban a Hpt. 151. § és 152/A. § szerinti tételeket kell bemutatni a felügyeleti intézkedések mérlegelése, a szükséges, illetve kivételes intézkedések megtételének megalapozásához.
-
-5B Bankközi állományok adatai
-
-A tábla célja
-
-A táblázat célja a hitelintézet más hitelintézetekkel kötött ügyleteinek részletes bemutatása. A táblában a jegybankokkal szemben fennálló, mérlegbeni és mérlegen kívüli követelések és kötelezettségek nem szerepelnek.
-
-A tábla kitöltése
-
-A tábla oszlopai
-
-Külön oszlopban a kockázatvállalások közül kiemelve kell szerepeltetni nettó értéken az évet meg nem haladó lejáratú, mérlegen belüli [f) oszlop], illetve mérlegen kívüli kockázatokat [h) oszlop].
-
-Külön oszlopban a kockázatvállalások közül kiemelve kell szerepeltetni nettó értéken azon szerződések állományát, ahol az eredeti futamidő maximum 3 hónap [k1) és k2) oszlop], illetve azon állományok összegét, ahol a hátralévő futamidő 3 hónapon belüli [l1) és l2) oszlop].
-
-A tábla sorai
-
-Az összes hitelintézettel fennálló (bankközi) állományt az 5B1 Összesen sorban kell kimutatni. A sor értéke megegyezik külön-külön a (2+3), illetve a (4+5) sorok összegével.
-
-Az 5B2 Belföldi hitelintézet sorban a belföldi, illetve az 5B3 Külföldi hitelintézet sorban a külföldi hitelintézetek adatait kell külön-külön összesíteni.
-
-Az 5B4 Nem részletezettek sorban azon hitelintézetek adatait kell összesíteni, amely ügyfelek esetében az ügyletek nem érik el az egymillió, illetve a szövetkezeti hitelintézetek esetében az egy ezer forintot.
-
-A részletező sorokban tételesen feltüntetendő bankközi kapcsolatokat ügyfelenként (a törzsszámok feltüntetésével) az 5001. sortól kezdődően fel kell sorolni. A sorok száma nem korlátozott. A részletező sorokban felsorolt ügyfelekre vonatkozó adatokat az 5B5 Részletezettek sorban kell összegezni.
-
-A külföldi intézményeknél a Kódjel oszlopban „Kf” jelzést kell alkalmazni, az Országkód oszlopban az ország – MNB által is használt – ISO kódját kell beírni. A magyar hitelintézetek esetében a Kódjel oszlopban a „Bf” jelzés, illetve az országkód oszlopban a „HU” jelzés alkalmazandó.
-
-Az azonosításra szolgáló Törzsszám oszlopban a külföldi hitelintézet esetén a SWIFT kódot kell megadni
-
-A követeléseket, kötelezettségeket és mérlegen kívüli tételeket és származtatott ügyleteket részletező oszlopokat értelemszerűen és a könyv szerinti/ nyilvántartási (nettó) értéken kell kitölteni.
-
-A mérlegen kívüli tételek számbavételénél a Hitkr. 20. §-ban foglalt előírásokat kell figyelembe venni.
-
-5H Határon átnyúló tevékenység
-
-A tábla célja
-
-A táblázat a hitelintézetek – az I.3.29. pontban meghatározott – Magyarországról külföldre irányuló, határon átnyúló tevékenységként nyújtott pénzügyi szolgáltatásból, illetőleg kiegészítő pénzügyi szolgáltatásból származó követelések és kötelezettségek állományát mutatja gazdasági térségenként és azon belül felügyeleti szempontból jelentős országonként.
-
-A tábla kitöltése
-
-Az oszlopok tartalma
-
-Az a) Ország oszlopban az adott ország – MNB által is használt – ISO kódjelét kell feltüntetni.
-
-A b)-e) Eszközök, a f)-i) Források oszlopokban a határon átnyúló tevékenységből származó követeléseket és kötelezettségeket nettó könyv szerinti értéken, illetve a forráshoz kapcsolódó, megképzett céltartalék állomány esetén a névérték céltartalékkal csökkentett összegén kell kimutatni. Az eszközökön belül a c1) Hitelek, hitel jellegű követelések oszlop a felügyeleti mérleg 1AB5 szakaszával feleltethető meg, azzal a kivétellel, hogy a pénzügyi lízing és faktoring követeléseket az oszlop nem tartalmazza, azokat az c2) Pénzügyi lízing és c3) Faktoring oszlopokban kell kimutatni.
-
-A j)-k) Mérlegen kivüli kötelezettségek és követelések, az l)-m) Származtatott ügyletekből adódó határidős követelések és kötelezettségek a Hitkr. szabályai szerinti, céltartalékkal csökkentett nyilvántartási értéken szerepelnek a táblában.
-
-A műveletekbe a hitelintézetek közötti műveletek is beletartoznak.
-
-A követelés és kötelezettség adatokat előjel nélkül kell megadni.
-
-A sorok tartalma
-
-A tábla soraiban az EGT, azon belül EU térségre, továbbá a harmadik országokra együttesen kell kimutatni a Hpt. 32/D. § (1) bekezdése alapján Magyarországról külföldre irányuló, a határon átnyúló tevékenységből származó követeléseket és kötelezettségeket, eszközöket, forrásokat. Az együttes adatokon belül csak azon országokra kell adatot szolgáltatni, amelyek a táblában előre meghatározottak. A részsorok összesen értéke nem adja végeredményül a három fősorban (EGT, EU, Harmadik országok) szereplő összértéket.
-
-Horvátország adatait az ország teljes jogú EU taggá válását megelőzően az 5H121 soron, majd azt követően az 5H11407 soron kell kimutatni.
-
-6B Lakástakarékpénztár adatai
-
-A tábla célja
-
-Ezt a táblát csak a lakás-takarékpénztáraknak kell kitölteni az Ltpt. hatálya alá tartozó tevékenységéhez kapcsolódó kockázatok vizsgálatához.
-
-A tábla kitöltése
-
-A táblázatokban lakás-takarékpénztárakra vonatkozó jogszabályok betartásának ellenőrzéséhez szolgáló adatokat kell jelenteni.
-
-A megfelelő oszlopban az összegeket millió forintban (három tizedes jegyig), az arányszámokat (kiszámított hányadot) százalékban (százalékjel nélkül) két tizedes pontosságig kell kimutatni.[^14]
-
-A tábla sorai
-
-6B1 Információk a törvényi előírások betartásához
-
-Az a) oszlopban a bruttó összesen az állományok teljes (szerződéses vagy nyilvántartási, értékvesztéssel nem csökkentett könyv szerinti stb.) értékeit, a b) oszlopban a könyv szerinti nettó érték az elszámolt értékvesztéssel (céltartalékkal) csökkentett értéket jelenti.
-
-6B101 Tárgyévi kollektív teljesítménymutató tervszáma (becslés)
-
-Az adatszolgáltatás időpontjában rendelkezésre álló adatok alapján kell megbecsülni a kollektív teljesítménymutató év végi értékét. A számításhoz a lakás-takarékpénztár általános szerződési feltételeiről szóló 47/1997. (III. 12.) Korm. rendelet 1. számú mellékletében lévő képletet kell használni. A lakás-takarékpénztárnak a kollektív teljesítménymutató kiszámításánál azokat a szerződéseket kell figyelembe venni, amelyek az adott évben kikerülnek a lakás-takarékpénztár szerződésállományából (kiutalt és felmondott szerződések).
-
-(A kollektív teljesítménymutató terv- és tényszámának celláit (6B101 és 6B201 sorok) a gyűjtési periódusban üresen kell hagyni, és csak akkor kell értéket kimutatni, ha a tervek szerint, illetve ténylegesen a jogszabályok szerinti kiutalás történik.)
-
-6B102 Hitelviszonyt megtestesítő értékpapírok
-
-Azon hitelviszonyt megtestesítő értékpapír-állomány összegét kell itt jelenteni, ami az adatszolgáltatás időpontjában még forgalomban van.
-
-6B103 Hitelviszonyt megtestesítő értékpapírok az utolsó kibocsátás időpontjában
-
-A hitelviszonyt megtestesítő értékpapír állományának az utolsó kibocsátást követő időpontban meglévő összegét kell kimutatni.
-
-6B104 Összes felvett kölcsön
-
-Itt a lakás-takarékpénztár által felvett kölcsönnek (ideértve a hitelviszonyt megtestesítő értékpapírokat is) az adatszolgáltatás időpontjában meglévő összegét kell jelenteni.
-
-6B105 Az összes felvett kölcsönből a Felügyelet által engedélyezett összeg
-
-A lakás-takarékpénztár által felvett kölcsönből az Ltpt. 10. § (2) bekezdése szerinti, a PSZÁF által engedélyezett összeget kell beírni.
-
-6B106 Összes felvett kölcsön az utolsó kölcsön felvételekor
-
-Itt az utolsó kölcsön felvételekor meglévő összes tartozás összegét kell jelenteni.
-
-6B107 Az utolsó kölcsön felvételekor (hitelviszonyt megtestesítő értékpapír kibocsátásakor) meglévő betétállomány
-
-A kölcsön felvételének időpontja és az értékpapír kibocsátás időpontja közül az időben későbbit kell figyelembe venni.
-
-6B108 Szabad eszközök állománya és aránya a kiutalási összeghez
-
-A tárgyhónapot megelőző hónap utolsó napján a meglévő szabad eszközök összegét, illetve ezen időpont kiutalási összegéhez viszonyított arányát kell ide beírni. A szabad eszközök meghatározása a Ltpt. előírásai szerint történik.
-
-6B109 Központi kormányzat és jegybanki értékpapír, számlapénz, készpénz együttes összege és aránya a szabad eszközökhöz
-
-Itt az adatszolgáltatás időpontjában nyilvántartott az Ltpt. 15. § (2) bekezdésében foglalt kibocsátók értékpapírjai, számlapénz és készpénz együttes állományának összegét kell kimutatni. Ezt az állományt kell arányosítani a tárgyhónapot megelőző hónap utolsó napján meglévő szabad eszközök állományához.
-
-6B110 Éven belüli lejáratú kihelyezés hitelintézethez és aránya a szabad eszközökhöz
-
-Az adatszolgáltatás időpontjában éven belüli lejáratúnak számító, az Ltpt. 15. § (2) bekezdés a)-b) pontjában meghatározott országban székhellyel rendelkező hitelintézetekhez kihelyezett állományt kell itt szerepeltetni. Arányosítani a tárgyhónapot megelőző hónap utolsó napján meglévő szabad eszközök állományához kell.
-
-6B111 Befektetés jelzálog-hitelintézet által kibocsátott jelzáloglevélbe és aránya a szabad eszközökhöz
-
-Az adatszolgáltatás időpontjában nyilvántartott azon befektetések állományát kell beírni, melyeket jelzálog-hitelintézet által kibocsátott jelzáloglevelében testesülnek meg. Az állományt a tárgyhónapot megelőző hónap utolsó napján meglévő szabad eszközök összegéhez kell viszonyítani.
-
-6B112 Folyósított áthidaló kölcsön állománya és aránya a szabad eszközökhöz
-
-A lakás-takarékpénztár által nyújtott áthidaló kölcsöntőke állományát kell feltüntetni. Arányosítani a tárgyhónapot megelőző hónap utolsó napján meglévő szabad eszközök állományához kell. Az áthidaló hitelre vonatkozó korlátot az Ltpt. 11. § (1) bekezdés és 15. § (4) bekezdés rendelkezései szabályozzák.
-
-6B113 A betétállomány és aránya a kiutalási összeghez
-
-Az összes betétbefizetés összegét kell beírni. Arányosítani a rendelkezésre álló kiutalási összeghez kell.
-
-6B114 A betétállomány kamatainak összege és arányuk a kiutalási összeghez
-
-Az összes betétre jóváírt kamat összegét kell beírni, és arányosítani kell a rendelkezésre álló kiutalási összeghez.
-
-6B115 A betétekre jóváírt összes állami támogatás és aránya a kiutalási összeghez
-
-Az összes betét befizetésre jóváírt állami támogatás összegét kell beírni. Arányosítani a rendelkezésre álló kiutalási összeghez kell.
-
-6B116 A betétekre jóváírt állami támogatás összes kamata és aránya a kiutalási összeghez
-
-Az összes betétekre jóváírt állami támogatás kamatát kell beírni és arányosítani a rendelkezésre álló kiutalási összeghez kell.
-
-A 6B113-6B116 sorokon szereplő összegek – azaz az Ltpt. 7. §-a szerinti betét és annak Ltpt. által jóváírt kamata, valamint az Ltpt. 21. § szerint a betétekre jóváírt összes állami támogatás és ennek betétekre jóváírt kamata –, együttesen alkotják az lakástakarékpénztári ügyfelek betétállományának összegét.
-
-6B117 A társasházak és lakásszövetkezetek szerződéses összege
-
-Az Ltpt. 14. §-nak értelmében a lakásszövetkezetekkel és társasházakkal kötött, érvényben lévő lakás-előtakarékossági szerződések szerződéses összegét kell beírni.
-
-6B118 Az összes szerződéses összeg 15%-a az Ltpt. előző hónap utolsó napján érvényben lévő összes szerződéséből
-
-Ebben a sorban a lakás-takarékpénztár előző hónap utolsó napján érvényben lévő, az összes megkötött szerződéséből eredő szerződéses összeg 15%-át kell feltüntetni.
-
-6B119 Tulajdoni részesedés összege más takarékpénztári szolgáltatást nyújtó szervezetben és aránya a szavatoló tőkéhez
-
-Itt kell bemutatni az Ltpt. 12. § (1) bekezdés b) pontjában foglaltak szerint a lakás-takarékpénztár devizabelföldi lakás-takarékpénztárban vagy devizakülföldinek minősülő hitelintézetben szerzett tulajdoni részesedés összegét és annak arányát a lakástakarékpénztár szavatoló tőkéjéhez.
-
-6B2 Éves jelentés a törvényi előírások betartásáról
-
-Az éves információkra vonatkozó jelentési kötelezettség nemcsak az auditált adatoknál áll fenn, hanem az előzetes december 31-i adatokra is. Az auditált adatok alapján összeállított adatokat az éves jelentéssel egyidejűleg kell kitölteni.
-
-6B201 Tárgyévi kollektív teljesítménymutató tényszáma
-
-Az adott év valamennyi kiutalási adatának ismeretében töltendő ki.
-
-6B202 Szabad eszközök kihelyezésével elért tárgyévi hozam
-
-A mindenkor rendelkezésre álló szabad eszközök kihelyezéséből származó, már befolyt hozam összegét kell beírni.
-
-6B203 Szabad eszközök tárgyévi átlagos állománya
-
-A tárgyév valamennyi negyedévének első napján rendelkezésre álló szabad eszközök összegének számtani átlagát kell jelenteni.
-
-6B204 Tárgyévi kollektív kamat
-
-Az Ltpt. 2. § (1) bekezdés 7. pontja szerint számított tárgyévi kollektív kamat tényleges értékét kell jelenteni.
-
-6B205 Kiegyenlítési céltartalék tárgyévet megelőző év december 31-én
-
-A tárgyévet megelőző év végén rendelkezésre álló kiegyenlítési céltartalék állományát kell szerepeltetni.
-
-6B206 Kiegyenlítési céltartalék összege tárgyév december 31-én és aránya a megtakarításhoz
-
-A tárgyév végén rendelkezésre álló kiegyenlítési céltartalék állományát, és annak a tárgyév december 31-i összes megtakarításhoz (betét, elszámolt betéti kamat, állami támogatás és kamatának összege) viszonyított arányát kell szerepeltetni.
-
-6B207 A tárgyévben a Felügyelet engedélyével felvett kölcsön
-
-Itt az Ltpt. 10. § (2) bekezdése szerint a PSZÁF engedélyével a tárgyévben felvett kölcsön összegét kell jelenteni.
-
-6B208 A Felügyelet engedélyével felvett kölcsön után a tárgyévben fizetett kamat
-
-Az összes, a PSZÁF engedélyével felvett kölcsön után a tárgyévben kifizetett kamat összegét kell beírni.
-
-6B209 A kiegyenlítési céltartalék év végi képzett összege
-
-Ide a kiegyenlítési céltartaléknak a jogszabály előírása alapján tárgyévben képzett összegét kell beírni.
-
-6B210 A kiegyenlítési céltartalékból felhasznált összeg
-
-Az Ltpt. 16. § (5) bekezdése szerint felhasznált összeget kell kimutatni.
-
-6B3 Társasházak, lakásszövetkezetek szerződései
-
-A 6B31 soron a tárgynegyedévben, a 6B32 soron a tárgyévben az Ltpt. 6. § (1) bekezdés c) és d) pontjaiban meghatározott lakásszövetkezetekkel, illetve társasházi közösségekkel kötött új szerződések darabszámát, állományát, illetve a hivatkozott időszak összes új szerződéseihez viszonyított arányát kell kimutatni.
-
-6B4 Egyéb információk
-
-6B41 Engedményezett előtakarékossági szerződések darabszáma és szerződéses összege
-
-Itt kell az ügyfél által engedményezett előtakarékossági szerződések számát és a szerződések szerződéses összeg állományát szerepeltetni.
-
-6B42 Engedményezett összegek összesen
-
-Ide az ügyfél rendelkezése alapján ténylegesen engedményezett összegeknek az adott időpontra vonatkozó együttes összegét kell beírni.
-
-6B43 Összes engedményezett összeg aránya az engedményezett szerződések szerződéses összeg összesen értékéhez
-
-E soron a 42. sorban szerepeltetett ténylegesen engedményezett összegeknek együttes értékét kell viszonyítani a 41. sorban feltüntetett engedményezett előtakarékossági szerződésekhez kapcsolódó szerződéses összegek teljes állományához.
-
-6B44 Kiutalási összeg
-
-Ide az Ltpt. 10. § (1) bekezdés szerinti kiutalási összeg aktuális (a beszámolás napján meglévő) értékét kell beírni.
-
-6B45 Kiutalási összeg állománya
-
-Itt az Ltpt. 10. § (1) bekezdés szerint számított, a tárgyhónapot megelőző hónap utolsó napján meglévő kiutalási összeget kell szerepeltetni.
-
-6CA és 6CB Lakástakarékpénztár – Termékösszetétel értéken és darabszámban
-
-6CA Lakástakarékpénztár – Termékösszetétel (értéken)
-
-6CB Lakástakarékpénztár – Termékösszetétel (darabszám)
-
-A táblák célja
-
-A tábla célja a lakás-takarékpénztárak által a működés megkezdése óta megkötött, a PSZÁF által engedélyezett termékek (módozatok) forgalmi adatainak bemutatása.
-
-A táblák kitöltése
-
-Ezekben a táblázatokban a működés engedélyezésének eljárása során benyújtott és a PSZÁF által jóváhagyott ÁSZF-ben meghatározott jelzőszámmal vagy fantázia névvel azonosítható termékek adatait kell felsorolni.
-
-Az egyes termékek állománya és darabszáma külön táblában, de a megfelelő oszlopok szerinti bontásban tüntetendőek fel, a működés megkezdése óta göngyölített és a jelentés időpontjáig elvégzett összesítéssel (számított kumulált értéken).
-
-Az első táblázatban (6CA) az egyes szerződések állományának adatait millió forintban (három tizedes jegyig) szerepeltetni.
-
-A termékösszetételre vonatkozó második táblán (6CB) a termékek darabszámát kell feltüntetni.
-
-A táblák oszlopai
-
-A Teljesítéssel lezárt szerződéseknél az ügyfél elfogadó nyilatkozata alapján teljesített kiutalással lezárt szerződések darabszámát és szerződéses összegét kell a b)-c) oszlopokban – a meghatározott időszakok végéig realizált teljesítésnek megfelelően – részletezni.
-
-Az összes teljesítéssel, kiutalással lezárt szerződést a d) oszlopban kell kimutatni.
-
-A Felmondással megszűnt szerződéseknél valamelyik fél kezdeményezése alapján – az e)-f) oszlopokban feltüntetett időszakokban – felmondott szerződések számát és szerződéses összegét kell kimutatni a működés megkezdésétől kezdődően kumulált értékben. Más módozatra való áttérés vagy szerződés összevonás okán megszűnt szerződéseket itt kell szerepeltetni. A szerződéses összeg csökkentése esetében itt kell feltüntetni a szerződéses összegnek azon részét, amely a csökkentéssel felmondásra került.
-
-Az összes felmondással megszűnt szerződést a g) oszlopban kell kimutatni.
-
-A h) és i) Érvényben lévő szerződés oszlopban azokat a megkötött lakás-előtakarékossági szerződések termékenkénti számát és együttes szerződéses összegét kell feltüntetni, amelyeknél az ügyfél által befizetett számlanyitási díj már beérkezett.
-
-Az érvényben, vagy megtakarítási fázisban lévő szerződéseket meg kell bontani a kiutalás alatt lévő [h) oszlop] és a még ki nem utalható [i) oszlop] állományra. A kiutalás alatt lévő állományban azokat a szerződéseket kell szerepeltetni, amelyek kiutalása – az ügyfél elfogadó nyilatkozata alapján – már megkezdődött, de még nem zárult le. (Ideértve azt is, ha a hitelt nem egy összegben, hanem részletekben kell teljesíteni.)
-
-A j) Megkötött összes szerződés oszlopban a működés kezdete óta megkötött és a már beérkezett számlanyitási díjfizetéssel alátámasztott összes (élő, felmondott, teljesítéssel lezárt) lakás-előtakarékossági szerződések termékenkénti darabszáma és együttes szerződéses összege szerepeltetendő.
-
-A k) – l) oszlopokban az összes tárgynegyedévi, illetve tárgyévi új szerződéseket fel kell tüntetni, függetlenül attól, hogy időközben lejárt vagy megszűnt termékenkénti bontásban. Másik módozatra történő áttérés és szerződés szétbontásából, illetve szerződéses összeg emeléséből eredő szerződéses-darabszám ésszerződéses összeg növekedést is itt kell kimutatni.
-
-A táblák sorai
-
-A 6CA1 Összesen és 6CB1 Összesen db sorban a részletező sorokban szereplő összes terméket számításba kell venni.
-
-A sorok száma nem korlátozott, a felsorolást folytatni kell mindaddig, amíg az összes termék kimutatásra nem kerül.
-
-6DA és 6DB Jelzálog-hitelintézet adatai forintban és főbb devizákban
-
-6DA Jelzálog-hitelintézet adatai (forintban)
-
-6DB Jelzálog-hitelintézet adatai EZER devizában (EURO, USD, CHF, JPY)
-
-A táblák kitöltése
-
-A táblázatokban a jelzálog-hitelintézetekre vonatkozó – Jht. és egyéb – jogszabályok betartásának ellenőrzéséhez szolgáló adatokat kell jelenteni.
-
-A 6DB tábla ezer devizában részletezi a jelzálog-hitelintézet EUR, USD, CHF és JPY-ben nyilvántartott hiteleit, befektetéseit, a fedezeteit, a 6DA tábla millió forintban összegzi a kiemelt négy devizában, továbbá az egyéb devizákban és a forintban nyilvántartott kockázatvállalásokkal kapcsolatos adatokat.
-
-Az adatok kitöltéséhez a jelzálog-hitelintézetek által készített és a PSZÁF által jóváhagyott fedezet nyilvántartási szabályzat az irányadó.
-
-Ebben a táblázatban közölt adatoknak meg kell egyezniük a fedezet-nyilvántartási szabályzatban meghatározott forrásokkal, a hitel-, ingatlan-, értékpapír-, számviteli és jelzáloglevél-nyilvántartásokkal.
-
-A táblák sorai
-
-1011 Jelzáloghitelekből eredő tőkekövetelések állománya és 1012 Kapcsolódó kölcsönrészből eredő tőkekövetelések állománya sorokban a hitel futamidejére vonatkozó hátralévő teljes tőkekövetelés összegét kell szerepeltetni.
-
-A 102 Jelzáloghitelekből eredő kamatkövetelések állománya sorban a hitel futamidejére vonatkozó hátralévő teljes kamatkövetelés összegét kell feltüntetni.
-
-Az 1031, 1032, 1033 sorokban külön kell kimutatni a Jht. 5. § (1) bekezdése szerint az eredetileg a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, az önálló zálogjog vásárlások időpontjában az öt évnél hosszabb, az ötéves, valamint az öt évnél rövidebb futamidejű jelzáloghiteleknek a teljes jelzáloghitel állományhoz viszonyított arányát. Az arányt két tizedesig százalékban kell kimutatni.
-
-A hitelállomány szerződéses futamidejének megállapításánál a futamidő kezdő napja a szerződéskötés, utolsó napja az utolsó tőketörlesztés dátuma. A hiteldöntések meghozatalakor a hitelintézetnek figyelembe kell venni a futamidőknek – a Jht.-ben – előírt arányát.
-
-Az 1081 Állampapír a pótfedezetből és az 1082 Állami készfizető kezességvállalással kibocsátott értékpapír a pótfedezetből sorokban az értékpapírokat a nyilvántartási értéken kell szerepeltetni.
-
-A külön nem részletezett állományi és számított adatokat értelemszerűen a jogszabályi előírásoknak megfelelően kell kimutatni. Az arányszámokat két tizedesig százalékban kell feltüntetni.
-
-Külön soron (felbontott szerződések) kell szerepeltetni azon szerződések darabszámát és az általuk érintett hitelállomány összegét, melyek valamilyen ok (elállás vagy felmondás) miatt a beszámolási időszakban megszüntetésre kerültek.
-
-A 2. táblarészben feltüntetésre kerülő kibocsátott és forgalomba lévő jelzáloglevelek adatainál a sorok száma nem korlátozott, az a-d) oszlopokban kezdődő felsorolást az e-h) oszlopban kell folytatni mindaddig, amíg az összes jelzáloglevél kimutatásra nem kerül. A 6DB tábla 2. táblarészében a négy fő devizában kibocsátott egyedi jelzáloglevelek „Névértéke (még nem törlesztett)” és „Fizetendő kamat összege a futamidő végéig” adatait devizában kell kimutatni. A négy devizában fennálló jelzáloglevél állomány névérték és kamat összegeit a jelentés vonatkozási dátumának napján érvényes MNB hivatalos devizaárfolyamán kell forintra átszámítani és a 6DA tábla 2. táblarészében devizanemenként összesített adatokkal feltüntetni. A sorozatszám mezőben a devizanem ISO kódját kell feltüntetni. Az egyéb devizákban kibocsátott egyedi jelzáloglevelek névérték és kamat összegeit MNB hivatalos devizaárfolyamon átszámított forintértéken kell kimutatni, a jelzáloglevelek sorozatszámának feltüntetésével.
-
-A Jelzáloglevélből származó kötelezettség összesen értéke (amely a 6DA2,d és 6DA2,h cellákban szereplő részösszegek összesített értéke) tartalmazza a 6DA111 sorban szereplő %-os mutató számlálóját.
-
-6E Lakástakarékpénztár – Érvényben lévő szerződések adatai
-
-A tábla célja
-
-A tábla célja, hogy a lakás-takarékpénztár sajátos üzletágának megfelelően a módozatonkénti szerződésállomány, és a hozzátartozó kiutalási összeg fedezettség szempontjából – szigorúan a vonatkozási időponthoz kapcsolódóan – figyelhető legyen. Ennek a táblának a folytatása a 6F tábla, amely a hitelezés biztonságát mutatja meg.
-
-A tábla kitöltése
-
-Ebben a táblában a szerződések adatait módozatonként (szerződés típusonként) és évenként kell kimutatni, de csak a beszámolási időpontban rendelkezésre álló aktuális adatok feltüntetésével vonatkozó tárgyévről.
-
-Visszamenőlegesen nem kell adatot szolgáltatni, csak abban az esetben, ha a működés kezdetének időpontjától kezdődően – bármely ok miatt – nem, vagy téves (igen jelentős eltérést mutató) adatszolgáltatásra került sor.
-
-A jelentésben csak a kiváltott, érvényben lévő, azaz a számlanyitási díj befizetésével megnyitott, a jelentés időpontjáig fel nem mondott és teljesítéssel még le nem zárt szerződéses állomány adatait kell a megfelelő oszlopokban kimutatni.
-
-A tábla sorai
-
-A tárgyévi tábla sorkódja 1-gyel kezdődik. A lakás-takarékpénztár visszamenőlegesen beküldött éves adata a következő 2 számozású lesz.
-
-A megtakarítási év (beszámolás) időpontját a táblázaton a Megtakarítás kezdetének időpontja sor a) oszlopában kell feltüntetni. (Ez a sor független a módozat jelölésétől.)
-
-A tábla egy évet és annak tizenkét hónapját öleli fel.
-
-A negyedévenként esedékes adatszolgáltatást a negyedév végi adatok alapján kell kitölteni, és az aktuális év táblája mindig bővül az éppen aktuális negyedév hónapjainak adataival. Az adott év adatairól – tekintettel a lehetséges felmondásokra, módosításokra, illetve a teljesítéssel megszűnésekre is – addig kell a jelentést küldeni, amíg az összes adott évi szerződés valamilyen módon meg nem szűnik. [^15]
-
-Az adott módozatnál az első évre vonatkozó jelentést az adott évben attól a hónaptól kell kitölteni, amelyik hónapban az első megtakarított állomány (betét elhelyezés) kezdődött. A szerződés (megtakarítás) kezdete az ÁSZF-ben foglaltak alapján a számlanyitási díj befizetésének időpontja. Azokba a hónapokat jelző oszlopokba, ahol az adott módozatnál még nem történt befizetés (nincs állomány) nullát kell írni.
-
-A tábla oszlopai
-
-A megtakarítások módozatainak megjelölését (megnevezését) a 001 sortól kezdődően a b) oszlopban kell szerepeltetni.
-
-A b) Módozat jelölése oszlopba a módozat megnevezését, a felügyeleti engedély és az ÁSZF szerinti termék (esetleg fantázia) nevét kell beírni.
-
-A szerződéses állományokat külön-külön a 001 sortól kezdődően kell feltüntetni. A sorok száma folyamatos, nem korlátozott és mindaddig folytatni kell, míg az adott évhez tartozó összes termék (módozat) felsorolásra nem kerül.
-
-Egy-egy szerződéses módozatra havonként két oszlop vonatkozik.
-
-Az első Megtakarítás értéke oszlopban mindig a betételhelyezéssel már rendelkező, kiváltott szerződések állományát kell jelenteni havi bontásban, és csak az adott hónapban érvényben lévő – és nem kumulált – szerződéses állományt kell feltüntetni.
-
-Ezekben a sorokban az adott módozatból az adott hónapban megkötött állományból az első betétbefizetést már tejesített szerződéses állomány összegét kell millió forintban, három tizedre kerekítve kimutatni.
-
-A második A kiutalás várható időpontja oszlopban az adott módozathoz és adott állományhoz tartozó, az adott modell szerinti, a szerződés kezdetétől számított várható kiutalási időpontot kell (év és az arab számmal jelölt hónap jelöléssel) feltüntetni.
-
-6F Lakástakarékpénztár – Kiutalások (várható) adatai
-
-A tábla célja
-
-A tábla célja, hogy az előrejelzés alapján elősegítse a PSZÁF engedélyével felvehető hitelek tervezhetőségét. A 6E táblák folytatásaként a lakás-takarékpénztárnak – az Ltpt. által megfogalmazottak szerinti – prudens működés érdekében a szabad pénzeszközök és a kiutalások állományát, fedezeti szintjét figyelni kell.
-
-A tábla kitöltése
-
-Ebben a táblában a kiutalások adatait módozatonként és évenként – szigorúan a vonatkozási időponton kívül, ahhoz kapcsolódóan – négy negyedévre előre tervezetten kell kimutatni, de csak a vonatkozási időpontban rendelkezésre álló aktuális (tényleges vagy tervezett) adatok feltüntetésével.
-
-Visszamenőlegesen nem kell adatot jelenteni kivéve, ha a működés kezdetének időpontjától kezdődően – bármely ok miatt – nem, vagy téves (igen jelentős eltérést mutató) adatszolgáltatásra került sor.
-
-A jelentésben csak a megtakarítás befizetésével megnyitott, a jelentés időpontjáig fel nem mondott és teljesítéssel még le nem zárt szerződéses állomány adatait kell a megfelelő oszlopokban kimutatni.
-
-A 6F1-6F185 sorok a tárgyévre, míg a 6F2-6F285 sorok az előre tervezés miatt a következő évre vonatkoznak.
-
-A tábla oszlopai
-
-A kiutalási év időpontját (a tárgyévet, illetve az azt követő évet) a táblázaton a Kiutalás kezdetének időpontja sor a) oszlopában kell feltüntetni.
-
-A tábla egy évet, annak tizenkét hónapját öleli fel. A negyedévenként esedékes adatszolgáltatást a negyedév végi adatok alapján kell kitölteni. Az adott év adatairól – tekintettel a lehetséges felmondásokra, módosításokra, illetve a teljesítéssel megszűnésekre is – addig kell a jelentést küldeni, amíg az összes érvényben lévő (élő) szerződés kifuttatásra nem kerül.
-
-Csak az előre tervezett négy negyedév hónapjainál kell, illetve a beszámolási negyedév utolsó hónapjára lehet a várható adatokat feltüntetni. A tárgynegyedév hónapjainál a tényleges adatokat kell szerepeltetni. Az adatokat millió forintban három tizedes jegy pontossággal kell feltüntetni.
-
-A tábla sorai
-
-A 6F11, 6F21 A kiutalás időpontjához kapcsolódó kiutalási összegek sorában kell – a lakás-takarékpénztár által a szerződések és feltételek teljesülése alapján meghatározott – az adott, kiutalási időponthoz tartozó szerződéses kiutalási összegeket (tényleges, vagy tervezett betétkifizetés és hitelfolyósítás értékét) feltüntetni.
-
-A 6F12, 6F22 A kiutalások fedezete a kiutalás időpontjában sorban a lakás-takarékpénztárnál rendelkezésre álló kiutalási összeget, mint az adott kiutalási időponthoz tartozó kiutalások nyitó-állományként rendelkezésre álló fedezetét szerepeltetni. Ez a fedezet a 31–34 sorokban feltüntetett állományok összegének és a 4 sor értékének különbségét jelenti.
-
-A 6F131, 6F231 Betétállomány sorban az adott kiutalási időpontban már meglévő, és számvitelileg is kimutatott, befizetett betétek, a kamatok, az állami támogatás összegét, valamint az állami támogatás kamatainak tárgynegyedév havi (tényleges, vagy tervezett) nyitó-állományát kell kimutatni.
-
-A 6F132, 6F232 sorba az adott hónapban már befizetett Hiteltörlesztő részletek összegét kell szerepeltetni.
-
-A 6F133, 6F233 Terv szerinti betétállomány sorba az új szerződésekből adódó, valamint a tárgynegyedév hónapjai során várható (tényleges, vagy tervezett) betét, kamat, állami támogatás, állami támogatás kamata állományok összege kerül.
-
-A 6F134, 6F234 Egyéb sorba az olyan, egyéb állományt kell feltüntetni, amely a lakás-takarékpénztár rendelkezésére áll, és felhasználható a kiutalási összeg fedezeteként.
-
-Itt kell szerepeltetni negatív előjellel a beszámolási időszakban fennálló az áthidaló kölcsön aktuális összegét.
-
-A 6F14, 6F24 Előző hónapok kiutalt hitelállománya (kumulált) sorban kell kimutatni az ügyfelek részére korábban már folyósításra került hitelek összesített állományát, amely a tárgynegyedévben még nem nyújt fedezetet a kiutalásokhoz, de hiteltörlesztésként későbbi időpontban visszakerül a kiutalási állományba. Itt a hitelállomány tárgynegyedév havi (tényleges vagy tervezett) nyitó-állományát kell szerepeltetni.
-
-Az 6F15, 6F25 Szabad eszköz (kiutalási összeg maradványa) vagy (negatív előjellel) hiteligény sorban az egyes kiutalási időpontokhoz tartozó szerződéses kiutalási összeget ki kell vonni a kiutalások fedezetéül szolgáló pénzeszközök állományából. Ez a 2 sorból kivont 1 sor eredményét (különbségét) jelenti.
-
-A pozitív eredmény a kiutalási összeg maradványa, vagyis a szabad pénzeszköz.
-
-Amennyiben a különbség negatív, vagyis a fedezet nem elegendő a szerződéses kiutalási összeg kifizetésére, akkor negatív előjelet ki kell tenni, és az összeg hiteligényt jelent.
-
-A 6F16, 6F26 A Felügyelet engedélyével felvehető hitel sorba a hiteligény fedezetére tervezett, felveendő hitel összegét kell beírni.
-
-A 6F17, 6F27 A kiutalások időpontjában tervezett betétállomány 40%-a sorba az adott kiutalási időpontban tervezett betétállomány negyven százalékát kell feltüntetni.
-
-A 6F18, 6F28 sorokba Kiegészítő adatok kerülnek. Az 6F181, 6F281 Betétfizetéstől eltelt három hónap óta befizetés nem történt sorban azt a szerződéses állományt kell jelenteni, ahol a számlanyitási díj befizetése megtörtént és a megtakarítás is már megkezdődött, de a számlára az utolsó befizetéstől számítottan három hónapja újabb befizetés nem történt.
-
-A 6F182, 6F282 A megtakarítási idő még nem kezdődött meg sorba azt a szerződéses állományt kell jelenteni, ahol a számlanyitási díj befizetése már legalább három hónapja megtörtént, de a megtakarítási idő még nem kezdődött meg.
-
-A 6F183, 6F283 Kumulált kiutalási összegek sorban a működés megkezdése óta teljesítéssel lezárt szerződések kiutalásainak összegét kell szerepeltetni.
-
-A 6F184, 6F284 Kumulált szerződéses összegek sorban a működés megkezdése óta teljesítéssel lezárt szerződésekösszege tüntetendő fel.
-
-A 6F185, 6F285 Kumulált kiutalások aránya a teljesítéssel lezárt kumulált szerződésekhez sorba két tizedes pontossággal a 83 és 84 sor hányadosaként kiszámított értéket százalékos formában két tizedes pontossággal kell feltüntetni, amely kifejezi, hogy a működés megkezdése óta kiutalt összegek hogyan aránylanak a teljesítéssel lezárt szerződésekhez.
-
-6G Elszámolóház – Mérleg- és bevételi adatok részletezése (6GA és 6GB)
-
-6GA Elszámolóház – Mérlegadatok részletezése
-
-A tábla célja
-
-A táblázatokban az elszámolóházakra vonatkozó speciális jogszabályok betartásának ellenőrzéséhez szolgáló adatokat kell jelenteni.
-
-Az elszámolóháznak, mint befektetési szolgáltató tevékenységet végző, illetve kereskedési könyvet vezető hitelintézetnek az ilyen irányú adatszolgáltatását a külön jogszabályban meghatározott módon kell teljesíteni.
-
-A tábla kitöltése
-
-Az elszámolóházi tevékenységet folytató szervezet eszköz és forrás tételeire vonatkozó mérlegadatok kitöltése alapjaiban megegyezik a hitelintézetekre vonatkozó számviteli (Hitkr.) előírásokban foglaltakkal, azonban egyes esetekben eltér az általánostól a speciális tartalom miatt, amelyet ebben a táblában kell részletezni.
-
-A mérlegben szereplő tételeket a könyv szerinti nettó értéken (az elszámolt értékvesztéssel csökkentett, a visszaírt értékveszéssel növelt könyv szerinti értéken) kell kimutatni.
-
-A mérlegtételeknek a táblában való kimutatása a Hitkr. előírásainak megfelelően történik, amelyeknél külön ki kell emelni a likviditással kapcsolatos adatokat.
-
-Az egyes eszköztételeket a következők szerint kell részletezni.
-
-A tábla sorai
-
-A 6GA11 Pénzeszközök, valamint a 6GA12 Értékpapírok sorok részletező soraiban a Hitkr. előírásai alapján külön kell feltüntetni a likviditási tartalékhoz sorolt, illetve a nem oda sorolt eszközök értékét.
-
-6GA13 Elszámolóházi és értéktári tevékenységből adódó követelések
-
-Ezen a soron kell összegezni a részletező sorokon kimutatott elszámolóházi és értéktári tevékenységből adódó követelések értékét.
-
-6GA131 Tőzsdével szembeni követelés
-
-A tőzsdével szembeni követelésként kell kimutatni az árutőzsdének, illetve értékpapírtőzsdének nyújtott szolgáltatásokért felszámított díjak miatti követelést.
-
-6GA132 Tőzsdei ügyletekből adódó, befektetési szolgáltatókkal szembeni követelés
-
-Ezen a soron kell kimutatni az árutőzsdén, illetve az értékpapírtőzsdén kötött határidős ügyletek esetén a befektetési szolgáltató – árkülönbözet, illetve közös pénzeszközhöz való hozzájárulás – fizetési kötelezettségének nem teljesítése miatt, az elszámolóház által történő teljesítés (helytállás) összegében fennálló követelést, és az elszámolóházi tevékenység keretében az árutőzsdei, illetve az értékpapír-tőzsdei ügyletek elszámolása miatt a befektetési szolgáltatóknak felszámított egyéb díjak miatti követeléseket.
-
-6GA133 Árkülönbözet miatti követelés
-
-Az árkülönbözet miatti követelésként kell kimutatni – és a könyvviteli nyilvántartásokban az árutőzsdei, valamint az értékpapír-tőzsdei ügyletek részletezésben elkülönítetten kell vezetni – a határidős ügyletek napi elszámoló ára és kötési ára közötti különbözet összegében a befektetési szolgáltató tőzsdeforgalmi számlájára átvezetett, illetve bankszámlájára átutalt pénzösszeget.
-
-6GA134 Értéktári szolgáltatásból adódó követelés
-
-Az értéktári szolgáltatások miatti követelésként kell kimutatni az értékpapírok letétkezeléséért, a letéti őrzéséért, az értékpapírszámla vezetéséért, a letéti igazolások kiállításáért, központi értékpapírszámla vezetéséért, a részvénykönyv vezetéséért, az értékpapírok be- és kiszállításáért, egyéb az elszámolóházi tevékenységet segítő, kiegészítő tevékenységek, továbbá egyéb – a PSZÁF által jóváhagyott Díjszabályzatban rögzített – szolgáltatásokért felszámított díjak miatti követelés összegét.
-
-6GA135 Kölcsönkövetelések
-
-Kölcsönkövetelésként kell kimutatni az elszámolóházi tevékenység során, a befektetési szolgáltatóknak nyújtott pénzkölcsön összegét.
-
-6GA14 Egyéb követelések
-
-Ezen a soron kell feltüntetni a részletező sorokba nem tartozó elszámolóházi és értéktári tevékenységből adódó egyéb követelések értékét.
-
-A 6GA141 soron kell kiemelni a likviditási tartalékhoz tartozó, hitelintézettel kötött felmondhatóságban nem korlátozott óvadéki repóügylet, a sajátos szállításos repó ügyletek és az azonnali vétel-határidős eladási (buy-sell-back) típusú repóügylet keretében repóba vett értékpapírok értékét.
-
-6GA21 Elszámolóházi és értéktári tevékenységből adódó kötelezettségek
-
-Ezen a soron kell összegezni a részletező sorokon kimutatott elszámolóházi és értéktári tevékenységből adódó kötelezettségek értékét.
-
-6GA211 Tőzsdével szembeni kötelezettségek
-
-A tőzsdével szembeni kötelezettségként kell kimutatni az árutőzsdével, illetve értékpapírtőzsdével szemben az elszámolóházi tevékenységhez kapcsolódóan keletkezett tartozásokat.
-
-6GA212 Tőzsdei ügyletekből adódó, befektetési szolgáltatókkal szembeni kötelezettség
-
-Ezen a soron kell kimutatni befektetési szolgáltatókkal szembeni tőzsdeforgalmi számla kötelezettségként a befektetési szolgáltatók által – az árutőzsdei, illetve az értékpapír-tőzsdei ügyletek teljesítése érdekében – a részükre megnyitott tőzsdeforgalmi számlára az elszámolóházhoz átutalt pénzösszeget.
-
-6GA213 Árkülönbözet miatti kötelezettség
-
-Árkülönbözet miatti kötelezettségként kell kimutatni a határidős ügyletek napi elszámolóára és kötési ára közötti különbözet összegében a befektetési szolgáltató által – a tőzsdeforgalmi számláján ilyen címen rendelkezésre álló pénzösszegből – az elszámolóháznak befizetett pénzösszeget.
-
-6GA214 Befektetési szolgáltatók közös pénzeszközhöz való hozzájárulása miatti kötelezettség
-
-A befektetési szolgáltatók közös pénzeszközhöz való hozzájárulása miatti kötelezettségként kell kimutatni a befektetési szolgáltatók által a tőzsdei ügyletek nemteljesítéséből eredő kockázat elkerülése céljából – a tőzsdei szabályzatok alapján – létrehozott, az elszámolóház által kezelt – közös pénzeszköz címén az elszámolóháznak átutalt – pénzösszeget, illetve tőzsdeforgalmi számlájukról teljesített befizetéseket.
-
-6GA215 Tőzsdén kívüli ügyletekből adódó kötelezettségek
-
-A tőzsdén kívüli ügyletekből adódó kötelezettségként kell kimutatni az elszámolóház által, saját számlájára tőzsdén kívül kötött ügyletek miatt fennálló kötelezettségek összegét.
-
-6GA216 Értéktári szolgáltatásból adódó kötelezettség
-
-Az értéktári szolgáltatások miatti kötelezettségként kell kimutatni az értékpapírok letétkezeléséért, a letéti őrzéséért, az értékpapírszámla vezetéséért, a letéti igazolások kiállításáért, központi értékpapírszámla vezetéséért, a részvénykönyv vezetéséért, az értékpapírok be- és kiszállításáért, egyéb az elszámolóházi tevékenységet segítő, kiegészítő tevékenységek, továbbá egyéb – a PSZÁF által jóváhagyott Díjszabályzatban rögzített – szolgáltatásokért felszámított díjak miatti kötelezettség összegét.
-
-6GB Elszámolóház – Bevételi adatok részletezése
-
-A tábla célja
-
-A táblázat célja az elszámolóház összes (és speciális) bevételének a Tpt. 335. § és 336. §-ban meghatározott tevékenységi bontásban történő kimutatása.
-
-A tábla kitöltése
-
-A tábla sorai
-
-A 6GB1 Értéktári és elszámolóházi bevételek, valamint a 6GB2 Pénzügyi szolgáltatási bevételek együttes összege megegyezik a 2A Eredménykimutatás táblázat bevételei fősorainak összegével.
-
-A 6GB11 Értéktári bevételek sor összege központi értéktári és általános értéktári bevételekből tevődik össze.
-
-A 6GB111 Központi értéktári bevételeken belül a jelentés három tevékenységet különít el külön tételként.
-
-A 6GB1111 Központi értékpapír-nyilvántartás és értékpapírkód-kiadás bevételei közé a Tpt. 5. § (1) bekezdés 79. pontjában meghatározott tevékenységhez, valamint az értékpapírkód-kiadási tevékenységhez kapcsolódó bevételeket kell feltüntetni.
-
-A 6GB1112 Dematerializált értékpapír-előállítás, -törlés és nyilvántartás bevételei között azokat a – dematerializált értékpapírokkal kapcsolatos – bevételeket kell kimutatni, amelyek nem az elszámolóház kiegészítő befektetési szolgáltatási tevékenységeihez kapcsolhatók. Ilyen bevételnek minősül alapvetően a dematerializált értékpapír keletkeztetésével, törlésével, nyomdai úton előállított értékpapír átalakításával kapcsolatos szolgáltatás bevétele.
-
-A 6GB1113 Másodlagos értékpapír kiállításának bevételei között kell kimutatni a belföldön kibocsátott értékpapírról külföldi forgalmazás céljára szolgáló okirat, valamint a külföldön kibocsátott értékpapírról belföldi forgalmazás céljára szolgáló okirat kiállítása során keletkezett bevételeket is.
-
-A 6GB112 Általános értéktári bevételek között kell kimutatni az elszámolóház által a Bszt. 5. § (2) bekezdés a) és b) pontjában meghatározott kiegészítő befektetési szolgáltatási tevékenységek bevételeit, valamint az értékpapír kölcsönzési rendszer működtetéséből származó bevételeket. Az átalánydíjas értéktári bevételek között azoknak az általános értéktári tevékenységeknek a bevételeit kell kimutatni, amelyek nem bonthatók meg egyértelműen az egyes kiegészítő befektetési szolgáltatási tevékenységek között.
-
-A 6GB12 Elszámolóházi bevételek sor a tőzsdei és a tőzsdén kívüli ügyletek elszámolásának, valamint a deviza-nyilvántartáshoz kapcsolódó, illetve az egyéb (a fentiekhez egyértelműen nem sorolható szolgáltatás) bevételeinek összegét tartalmazza.
-
-A 6GB121 Tőzsdei ügyletek elszámolásának bevételeit meg kell bontani aszerint, hogy azok belföldi (6GB1211 sor) vagy külföldi (6GB1212 sor) tőzsdéken kötött ügyletekből származnak. A belföldi tőzsdéken kötött ügyletek esetében további bontásban jelennek meg az azonnali és a származtatott, valamint ezeken belül az értéktőzsdei és az árutőzsdei ügyletek elszámolásából származó bevételek.
-
-Külön a 6GB122-6GB124 sorokon kell szerepeltetni a Tőzsdén kívüli ügyletek elszámolásának, a Deviza-nyilvántartási szolgáltatás, mint a deviza alapon végzett számlavezetéshez kapcsolódó, valamint az Egyéb elszámolóházi szolgáltatások bevételeit.
-
-A 6GB13 Részvénykönyvvezetés bevételei között a megbízás alapján végzett tevékenység (Tpt. XV. fejezet) bevételeit kell kimutatni. Az egyéb, elszámolóházi tevékenységet segítő kiegészítő tevékenységek bevételei között a Tpt. 335. § (3) bekezdés i) pontja alapján elkülöníthető és a fenti tevékenységek egyikébe sem sorolható bevételeket kell számszerűsíteni.
-
-A 6GB2 Pénzügyi szolgáltatások bevételei között a Tpt. 335. § (3) bekezdés e) pontjában meghatározott hitel- és pénzkölcsön nyújtásának, valamint a pénzforgalmi szolgáltatásoknak a bevételeit kell kimutatni.
-
-7A Eszközök – Átlagállományok
-
-A tábla célja
-
-A tábla célja, hogy az eszközök negyedéves átlagállományaira vonatkozó adatok meghatározásával segítséget nyújtson a hitelintézettel kapcsolatos jövedelmezőségi mutatók számításához.
-
-A tábla kitöltése
-
-A tábla oszlopai
-
-Az egyes mérlegsorokra az időszak napi állományi adatok alapján számított negyedéves átlagállományt kell megadni bruttó értéken forint, euró, valamint egyéb deviza szerinti bontásban.
-
-(A negyedéves átlagállományok számítása során az eszközök és források összesen értéke nem feltétlenül egyezik meg.)
-
-Az időbeli elhatárolások negyedéves átlagos állományát abban az esetben, ha a hitelintézetnél az aktív időbeli elhatárolás elszámolására csak havonta, a tárgyhónap végén kerül sor és annak összege tárgyhónapot követő hó első napján visszavezetésre kerül, a napi átlagos állomány helyett a negyedévre számított kronológikus átlag alapján kell meghatározni.
-
-A hitelintézetnek a törvényi előírások alapján gondoskodni kell arról, hogy az adatszolgáltatási kötelezettségének eleget tudjon tenni. A prudens magatartás alapvető követelménye, hogy a hitelintézet minden nap képes legyen felmérni eszközeit, forrásait, bevételeit és kiadásait, függetlenül attól, hogy a főkönyvi adatait milyen rendszerességgel zárja. Ennek értelmében lehetővé kell tenni, hogy a táblákhoz szükséges adatok előállítása is – minél rövidebb időn belül – megvalósuljon. (Amennyiben a hitelintézet rendszere nem képes a táblához szükséges adatok napi előállítására, az előírástól eltérő számbavételt külön – írásban is – jelezni kell.)
-
-Az értékelési különbözet sorokban az értéket előjel helyesen kell kimutatni.
-
-Az eszközoldali értékvesztés-állományokat (a felügyeleti mérleghez hasonlóan) negatív előjellel kell feltüntetni.
-
-A fel nem tüntetett (nem konkretizált) eszközöket a tartalmuknak megfelelő sorokban kell szerepeltetni.
-
-Azok a bankok, amelyeknek az informatikai rendszere napi zárásra nem képes, választhatják a heti egyszeri zárás alapján történő átlagolást. A heti átlagolás esetében a negyedév minden szerdájának záró állományai alapján kell az átlagállományt kiszámítani.
-
-A tábla sorai
-
-A tábla sorainak kiszámítása, illetve az eredménykimutatás kapcsolódó sorai:
-
-| PSZÁF kód |
-
-| 7A - Eszközök - Átlagállományok | 1AB – Felügyeleti mérleg (Eszközök)* | 2A - Eredménykimutatás |
-
-| 7A1 | 1AB1 |  |
-
-| 7A11 | 1AB11 | nincs |
-
-| 7A12 | 1AB12 | 2A0111121 |
-
-| 7A13 | 1AB13 + 1AB14 + 1AB151 +1AB152 +1AB16 | 2A0111122,2A011121 |
-
-| 7A2 | 1AB4 |  |
-
-| 7A21 | 1AB411 + 1AB412 | 2A0111121 |
-
-| 7A221 | 1AB421 + 1AB422 | 2A0111122 |
-
-| 7A222 | 1AB423 | 2A0111122 |
-
-| 7A23 | 1AB4311 +…+ 1AB4322 | 2A011121 |
-
-| 7A24 | 1AB424 + 1AB433 |  |
-
-| 7A3 | 1AB2 + 1AB3 | 2A0112 |
-
-| 7A31 | 1AB2 | 2A0112 |
-
-| 7A311 | 1AB2111 +…+1AB2132 | 2A01121 |
-
-| 7A3121 | 1AB2211+..+1AB22122 | 2A012221 |
-
-| 7A3122 | 1AB2311+..+1AB23222 | 2A011222 |
-
-| 7A313 | 1AB2411+…+1AB2432 | 2A011223 |
-
-| 7A314 | 1AB2511+..+1AB2522 | 2A01123 |
-
-| 7A315 | 1AB2611+1AB2612 | 2A01124 |
-
-| 7A316 | 1AB27111+…+1AB27232 | 2A01125 |
-
-| 7A317 | 1AB214+ 1AB222+ 1AB233+ 1AB244+ 1AB253+ 1AB262+ 1AB273 |  |
-
-| 7A318 | 1AB215+ 1AB223+ 1AB234+ 1AB245+ 1AB254+ 1AB263+ 1AB274 |  |
-
-| 7A32 | 1AB3 |  |
-
-| 7A321 | 1AB3111+1AB3112 | 2A02 |
-
-| 7A322 | 1AB33122+ 1AB3313+ 1AB3314 | 2A02 |
-
-| 7A323 | 1AB3411+ 1AB3412 | 2A02 |
-
-| 7A324 | 1AB33121+ 1AB321+ 1AB3311 | 2A0112 |
-
-| 7A325 | 1AB3511+…+1AB3522 | 2A02 v. 2A01125 |
-
-| 7A326 | 1AB3113+ 1AB322+ 1AB332+ 1AB342+ 1AB353 |  |
-
-| 7A327 | 1AB3114+ 1AB323+ 1AB333+ 1AB343+ 1AB354 |  |
-
-| 7A4 | 1AB6 | 2A02-2A021 |
-
-| 7A411 | 1AB611 | 2A02-2A021 |
-
-| 7A412 | 1AB6211+…+1AB624 | 2A02-2A021 |
-
-| 7A413 | 1AB6311+…+1AB633 | 2A02-2A021 |
-
-| 7A42 | 1AB6411+…+1AB6422 | 2A02-2A021 |
-
-| 7A43 | 1AB612+1AB625+1AB634+1AB643 |  |
-
-| 7A44 | 1AB613+ 1AB626+ 1AB635+ 1AB644 |  |
-
-| 7A5 | 1AB5 |  |
-
-| 7A51 | összegző sor (1AB51111 +… + 1AB575) |  |
-
-| 7A511 | 1AB51111+…+1AB511222+ 1AB5121+1AB5122+1AB5131+…+1AB51322 | 2A011111 |
-
-| 7A512 | 1AB52+…+1AB5322 | 2A0111122 |
-
-| 7A513 | 1AB5411+…+1AB543322 | 2A0111123 |
-
-| 7A514 | 1AB5511+…+1AB552722 | 2A011113 |
-
-| 7A5151 | 1AB5611+…+1AB561522 | 2A0111141 |
-
-| 7A5152 | 1AB5621+…+1AB562522 | 2A0111142 |
-
-| 7A516 | 1AB571+…+1AB57322 | 2A011115 |
-
-| 7A517 | 1AB5113+ 1AB5123+1AB5133+ 1AB533+ 1AB544+ 1AB553+ 1AB5616+ 1AB5626+ 1AB574 |  |
-
-| 7A518 | 1AB5114+ 1AB5124+ 1AB5134+ 1AB534+ 1AB545+ 1AB554+ 1AB5617+ 1AB5627 +1AB575 |  |
-
-| 7A52 | összegző sor (1AB58111 +… + 1AB584) |  |
-
-| 7A521 | 1AB58111+…+1AB58122+ 1AB58211+1AB58212 | 2A011121 |
-
-| 7A522 | 1AB58131+…+1AB5817522+ 1AB58221 + 1AB58222 | 2A011122 |
-
-| 7A523 | 1AB583 |  |
-
-| 7A524 | 1AB584 |  |
-
-| 7A6 | 1AB7 |  |
-
-| 7A7 | 1AB8+1AB91 |  |
-
-| 7A8 | 1AB92 |  |
-
-| 7A9 | 1AB0 |  |
-
-*Megjegyzés: Az egyes mérlegtételek tartalmát illetően az 1AB tábla kitöltési segédlete szolgál bővebb információval.
-
-7B Források – Átlagállományok
-
-A tábla célja
-
-A tábla célja, hogy a források és a mérlegen kívüli tételek negyedéves átlagállományaira vonatkozó adatok meghatározásával segítséget nyújtson a hitelintézettel kapcsolatos jövedelmezőségi mutatók számításához.
-
-A tábla kitöltése
-
-A tábla oszlopai
-
-Az egyes sorokra az időszak napi állományi adatai alapján számított negyedéves átlagállományát kell megadni forint, euró, valamint egyéb deviza szerinti bontásban.
-
-(A negyedéves átlagállományok számítása során az eszközök és források összesen értéke nem feltétlenül egyezik meg.)
-
-Az időbeli elhatárolások negyedéves átlagos állományát abban az esetben, ha a hitelintézetnél a passzív időbeli elhatárolás elszámolására csak havonta, a tárgyhónap végén kerül sor és annak összege tárgyhónapot követő hó első napján visszavezetésre kerül, a napi átlagos állomány helyett a negyedévre számított kronológikus átlag alapján kell meghatározni.
-
-A fel nem tüntetett (nem konkretizált) forrásokat, illetve mérlegen kívüli tételeket a tartalmuknak megfelelő sorokban kell szerepeltetni.
-
-Azok a bankok, amelyeknek az informatikai rendszere napi zárásra nem képes, választhatják a heti egyszeri zárás alapján történő átlagolást. A heti átlagolás esetében a negyedév minden szerdájának záró állományai alapján kell az átlagállományt kiszámítani.
-
-(Amennyiben a hitelintézet rendszere nem képes a szükséges adatok napi előállítására a 7A táblával azonos módon az előírástól eltérő számbavételt külön – írásban is – jelezni kell.)
-
-A tábla sorai
-
-A tábla sorainak kiszámítása, illetve az eredménykimutatás kapcsolódó sorai:
-
-| PSZÁF kód |
-
-| 7B - Források - Átlagállományok | 1B - Felügyeleti mérleg (Források) | 2A – Eredménykimutatás |
-
-| 7B1 | 1B1 | 2A0121 |
-
-| 7B111 | 1B1111+…+1B1134 | 2A012111 |
-
-| 7B112 | 1B1211+…+1B1234 | 2A0121123 |
-
-| 7B113 | 1B1311+…+1B1324 | 2A012113 |
-
-| 7B1141 | 1B1411+…+1B1414 | 2A0121141 |
-
-| 7B1142 | 1B1421+…+1B1424 | 2A0121142 |
-
-| 7B115 | 1B151+…+1B154 | 2A012121 |
-
-| 7B12 | 1B16111+…+1B1624 | 2A012122 |
-
-| 7B2 | 1B2 | 2A0121 |
-
-| 7B212 | 1B2111+…+1B212222 | 2A0121122 |
-
-| 7B22 | 1B22111+…+1B222222 | 2A012121 |
-
-| 7B3 | 1B3 | 2A0121 |
-
-| 7B311 | 1B311+…+1B3122 | 2A012111 |
-
-| 7B3121 | 1B321+…+1B323 | 2A0121121 |
-
-| 7B3122 | 1B3311+…+1B3321 | 2A0121122 |
-
-| 7B313 | 1B3411+…+1B34332 | 2A0121123 |
-
-| 7B314 | 1B351 + … + 1B3522 | 2A012113 |
-
-| 7B315 | 1B361-ből, 1B3621-ből, 1B3622-ből | 2A012114 |
-
-| 7B316 | 1B361-ből, 1B3621-ből, 1B3622-ből 1B363,1B371, 1B38 | 2A012115 |
-
-| 7B321 | 1B39111+…+1B391252+ 1B39211+…+1B392132 | 2A012121 |
-
-| 7B322 | 1B39131+…+1B391332+ 1B39221+…+1B392332 | 2A012122 |
-
-| 7B4 | 1B4 | 2A0122 |
-
-| 7B41 | 1B4111+…+1B41122 | 2A01221 |
-
-| 7B42 | 1B4121+1B4122 | 2A01222 |
-
-| 7B43 | 1B4131+…+1B41322+ 1B4211+…+1B42122+ 1B43111+…+1B431122+ 1B43211+…+1B432122 | 2A01223 |
-
-| 7B44 | 1B4141+…+1B41422 | 2A01224 |
-
-| 7B45 | 1B4151+…+1B41522+ 1B4222+…+1B42222+ 1B43121+…+1B431222+ 1B43221+…+1B432222 | 2A01225 |
-
-| 7B5 | 1B5 |  |
-
-| 7B6 | 1B6+1B7 |  |
-
-| 7B7 | 1B8 |  |
-
-| 7B8 | 1B9 |  |
-
-| 7B9 | 1B0 |  |
-
-*Megjegyzés: Az egyes mérlegtételek tartalmát illetően az 1B tábla kitöltési segédlete szolgál bővebb információval.
-
-Mérlegen kívüli tételek – átlagállományok
-
-A jelentést a források átlagállományához hasonlóan kell kitölteni, vagyis a részletező sorokban feltüntetett kötelezettségeknél, valamint követeléseknél az időszak napi (ennek hiányában a heti) állományok alapján számított negyedéves átlagállományt kell feltüntetni forint, euró, valamint egyéb deviza szerinti bontásban.
-
-Az egyes tételek tartalmát illetően a C11H és 3DBA-3DBE táblák kitöltési útmutatója szolgál bővebb információval.
-
-7C Tájékoztató adatok
-
-A tábla célja
-
-A tábla célja, hogy segítséget nyújtson az egyes kockázatok felméréséhez valamint a PSZÁF részére szükséges egyéb információkhoz.
-
-A tábla kitöltése
-
-A tábla sorai
-
-7C1 Jegyzett tőke összetételével kapcsolatos információk
-
-Itt kell a hitelintézet jegyzett tőkéjére vonatkozó adatokat – a részletezés szerint – az éves közgyűlést követően ismertetni.
-
-A 7C11 Jegyzett tőkéből deviza sort csak azoknak a hitelintézeteknek kell kitölteni, akiknél az alapítás vagy a későbbi tőkeemelés devizában történt és a jegyzett tőke fel nem használt része még devizában (pl. bankbetétként) áll rendelkezésre. A deviza értékét a mérlegnél előírtak szerinti árfolyamon kell forintban feltüntetni.
-
-A 7C12 Jegyzett tőke befektetési szolgáltatási vállalkozástól kapott része sorba a befektetési szolgáltatási tevékenységet végző hitelintézetnek a jegyzett tőkén belül – a Hitkr. 8. § (1) bekezdésében meghatározottak szerinti – külön nyilvántartott befektetési szolgáltató tulajdoni részesedését kell beírni.
-
-A 7C13 Jegyzett tőkéből az apport-rész sort csak azoknak a hitelintézeteknek kell kitölteni, akiknél az alapítás vagy a későbbi tőkeemelés apporttal történt (függetlenül attól, hogy a Hpt. szerint apporttal nem lehet már tőkét emelni).
-
-7C2 Tulajdonosokhoz kapcsolódó ügyletek állománya
-
-A részletező sorokban a minősített befolyással rendelkező tulajdonoshoz kapcsolódó ügyletek jövedelmezőségéhez szükséges adatokat kell szerepeltetni.
-
-A tulajdonosokhoz kapcsolódó ügyleteknél a beszámolási időszakra vonatkozó negyedév alatt fennálló (és a mérlegadatok között bruttó, illetve nettó értéken kimutatott) kihelyezések és kötelezettségek negyedéves átlagos állományát a 21, illetve 22 sorokban kell feltüntetni.
-
-Külön ki kell emelni és a 211, illetve 221 sorokban szerepeltetni a kapcsolt vállalkozásokkal[^16] szembeni követelések és kötelezettségek negyedéves átlagos állományát.
-
-7C3 Befektetésekhez kapcsolódó ügyletek állománya
-
-A részletező sorokban a hitelintézet által végrehajtott – és minősített befolyást jelentő – befektetésekhez kapcsolódó ügyletek jövedelmezőségéhez szükséges adatokat az előző 2 Tulajdonosokhoz kapcsolódó ügyletek állománya részletezéséhez hasonló módon kell szerepeltetni.
-
-7C4 Hitelekhez kapcsolódó tájékoztató adatok
-
-7C41 Lakáscélú hitelállomány (hitelcél szerint)
-
-A részletező sorokban értelemszerűen kell kimutatni könyv szerinti bruttó és nettó értéken a lakáscélú hitelállományt, valamint darabszámát.
-
-Az állományi adatok megjelenítésénél a hátralevő tőkerészt kell feltüntetni.
-
-A hitelek db számánál, ha egy ingatlannak több hitelszerződése van, vagyis többféle finanszírozást rendeltek hozzá, akkor a szerződések darabszámát kell megadni.
-
-A hitelcél szerinti bontáshoz nemcsak az új, illetve használt lakás (ház) vásárlás és építés tartozik, hanem minden más lakás célú ingatlan finanszírozást is (házrész, telek stb.) figyelembe kell venni.
-
-7C42 Lombard hitelek
-
-Itt azokat a forint- és devizabetét, valamint az értékpapír fedezete mellett nyújtott, célhoz nem kötött hiteleket kell jelenteni, amelyeknél az ügyfél hitelintézeti betétjét, illetve a már meglévő értékpapírját a hitelintézetnél óvadéki letétbe helyezte, hogy annak fedezete mellett részére hitelt folyósítsanak.
-
-A 421 sorban kell feltüntetni a forint- és devizabetét, a 422 soron az értékpapír fedezet mellett nyújtott lombard kölcsönöket könyv szerinti bruttó és nettó értékén, valamint annak darabszámát. A 4221-4223 soron az értékpapír típusa szerint alá kell bontani a hiteleket.
-
-A 7C5 Hitelekhez és betétekhez kapcsolódó tájékoztató adatok szakasz a mérleg eszköz- és forrásoldalát befolyásoló fő hitelintézeti tevékenységek, a hitelezés és betétgyűjtés során a hitelintézettel üzleti kapcsolatba kerülő természetes és jogi személyiségű ügyfelek számát tartalmazza, a pénzügyi intézmények kivételével. Az adatszolgáltatás alapján értékelhetővé válik a hitelportfolió és a betétállomány átlagos nagysága, granularitása.
-
-7C51 Hitelezett ügyfelek száma (fő)
-
-A sor a felügyeleti mérleg 1AB5 Hitelek sorában – kivéve az 1AB53 és 1AB54 kezdetű pénzügyi intézményi alábontó sorokat – kimutatott hitelállományhoz kapcsolódó összesített ügyfélszámot tartalmazza. Külön soron kell megjeleníteni a lakossági ügyfelek számát, majd ebből kiemelve a jelzáloghitellel rendelkező ügyfelek számát.
-
-7C52 Ügyfélbetétesek száma (fő)
-
-A részletező sorokban kell kimutatni az 1B Felügyeleti mérleg – Források 1B1 sorában szereplő betétállományhoz kapcsolódóan a hitelintézetnél betétet elhelyező vagy folyószámlát vezető ügyfelek számát összesen. Külön soron jelenik meg a lakossági betétesek száma. A táblában a lakossági betétállományból kiemelten kell részletezni a lakossági lekötött betétek negyedév végi állományát és a betételhelyezők darabszámát a betét típusa szerinti megbontásban. Külön sorban kell megjelentetni a lakáscélú betéteket. Az anonim betétek állományát a megfelelő sorban, darabszám megjelölése nélkül kell szerepeltetni, mivel az azokra vonatkozó adatokat a 4E Egyes betétek és letétek azonosítása című tábla tartalmazza.
-
-7C6 Egyéb tájékoztató adatok
-
-7C61 Átlagos statisztikai állományi létszám (fő)
-
-Ebbe a sorba – az adott negyedévre vonatkozó – átlagos statisztikai állományi létszámnak egyszerű számtani átlagát kell feltüntetni. Az átlagos állományi létszámot a Központi Statisztikai Hivatal előírásai szerint teljesített havi munkaügyi adatszolgáltatásban jelentett szervezet tevékenységében résztvevők száma alapján kell megállapítani.
-
-7C62 Hálózati egységek száma
-
-Itt a hitelintézethez tartozó összes hálózati egység számát fel kell tüntetni az elnevezéstől függetlenül. [Pl.: Bármilyen elnevezésű fiók, kirendeltség, iroda, képviselet (külföld is), területi igazgatóság, megyei központ stb.] Azon hálózati egységek számát kell megadni, ahol az ügyfelek számára pénzügyi szolgáltatás nyújtása történik.
-
-7C631 Napi átlagos Giro forgalom darabszáma
-
-Itt a Giro elszámolás forgalomba kerülő tételek napi átlagos darabszámát (a kimenő és a bejövő tételek és üzenetek együttes darabszámának átlagát) kell feltüntetni.
-
-7C632 Napi átlagos VIBER forgalom darabszáma
-
-Itt a VIBER-ben indított tételek napi átlagos darabszámát kell feltüntetni.
-
-7C64 Napi átlagos Swift forgalom darabszáma
-
-Ide a Swift rendszeren keresztül forgalmazott tételek (üzenetek) napi átlagos darabszámát (kimenő és bejövő összes tételszám átlagát) kell beírni.
-
-7C651 Saját kibocsátású kötvényekből 2003. január 1-je után kibocsátott állomány
-
-Itt kell szerepeltetni a felügyeleti mérleg forrás oldalán a 4111-4122 sorokon jelentett, saját kibocsátású kötvényekből a 2003. január 1-je után kibocsátott állomány összegét.
-
-7C652 Saját kibocsátású letéti jegyekből 2003. január 1-je után kibocsátott állomány
-
-Ebbe a sorban kell feltüntetni a felügyeleti mérleg forrás oldalán a 4141-41422 sorokon jelentett, saját kibocsátású letéti jegyek közül a 2003. január 1-je után kibocsátott állomány összegét.
-
-7C653 OBA által biztosított források kamatelhatárolása
-
-Az Országos Betétbiztosítási Alap által biztosított forrásokra (betétek, értékpapírok) elhatárolt kamatot kell jelenteni.
-
-OBA által biztosított források a felügyeleti mérleg forrás oldalán a Hpt. 99-100. §-a alapján betétbiztosítás alá tartozó betétek teljes állománya, valamint a saját kibocsátású kötvények és letéti jegyekből a 2003. január 1-je után kibocsátott állománya, azaz annak összege nem egyezik meg a ténylegesen biztosított forrás (kártalanítás alá tartozó állomány) összegével.
-
-7C7 Tárgyévet megelőző év végére vonatkozó eredményadatok
-
-A részletező sorokban a tárgyévet megelőző év végére vonatkozó eredmény alakulásáról kell tájékoztató adatokat közölni.
-
-Mivel az előzetes év végi eredmény a hitelintézeteknél különböző időpontokban kerülhet át az eredménytartalékba, ezért az összehasonlíthatóság érdekében az előzetes év végi eredmény elfogadásának különböző fokozatait kell külön feltüntetni. Az adott időpontra (eseményre) vonatkozó adatok már nem változhatnak. A még meg nem történt esemény eredmény sorába nullát kell írni, mindaddig, amíg az adott eredmény sor nem tölthető ki.
-
-Az egyes eredmény adatok csak abban az esetben egyezhetnek meg, amennyiben egyes időpontok egybe esnek, illetve a különböző időpontok között a megtárgyalt eredmény adatoknál nem történt változás.
-
-Az előző évet lezáró közgyűlést követően a részletező sorok eredményadatai a tárgyév végéig már nem változhatnak.
-
-A 7C71 sor az év végi előzetes eredménynek (az adózásra vonatkozó jogszabályoknak megfelelően) az adózás utáni, de osztalékfizetés előtti állapotát tükrözi.
-
-A 7C72 soron kell bemutatni a hitelintézet igazgatósága által jóváhagyott előzetes mérleg szerinti eredmény összegét.
-
-A 7C73 soron a hitelintézet könyvvizsgálója által auditált mérleg szerinti eredményt kell feltüntetni, amelynek közgyűlés által jóváhagyott összegét a 74 soron kell bemutatni.
-
-7F Projektfinanszírozási hitelek
-
-A tábla célja
-
-A jelentést a hitelintézetek projektfinanszírozási tevékenysége nagyságrendjének felméréséhez – ezen belül az ingatlanpiaci kitettség alaposabb megítéléséhez – szükséges kitölteni a megadott szektorbontásban.
-
-A projektfinanszírozás fogalmát az I.3.70. pont tartalmazza.
-
-A tábla kitöltése
-
-A tábla a pénzügyi vállalatokon kívüli bel- és külföldieknek nyújtott projektfinanszírozási hitelekre vonatkozó adatokat tartalmazza. A táblában a belföldieknek nyújtott hitelek állományi, folyósítás és egyéb adatai ingatlancél és ingatlantípus bontásban, míg a külföldieknek nyújtott hitelek adatai hasonló oszlopbontásban, de összesítve jelennek meg, a 7F12 Külföldieknek nyújtott hitelállomány összesen sorból kiemelt sorokon szerepeltetve az ingatlanfejlesztési és ingatlanvásárlási hitelek adatait.
-
-A tábla oszlopai:
-
-A tábla a)-l) oszlopaiban a tárgyidőszak utolsó napján fennálló állomány bruttó és nettó értékét, a le nem hívott hitelkeretet kell kimutatni.
-
-Az m) oszlopban a tárgynegyedév végén fennálló szerződésekből a hátralékkal nem rendelkező átstrukturált és újratárgyalt szerződések összegeit összesítve kell kimutatni.
-
-Az n)-q) oszlopokban, a hátralékkal rendelkező nem átstruktúrált hitelek a szerződés legrégebbi hátraléka szerinti késedelembe esés időpontjától eltelt időszak alapján, sávonkénti bontásban jelennek meg.
-
-Az r)-u) oszlopokban pedig a hátralékos átstruktúrált szerződéseket a legrégebbi hátralék szerinti bontásban kell szerepeltetni.
-
-A projektfinaszírozási hitelek első részére vonatkozóan tájékoztató adatokat kell szerepeltetni a bel- és külföldi ingatlanfejlesztési és ingatlanvásárlási hitelekhez kapcsolódóan.
-
-A Projektfinanszírozási hitelek tábla második részében kell a tárgynegyedévi folyósítás összegét feltüntetni külön a forintban, az euróban, valamint az egyéb devizában nyújtottakat.
-
-Egyéb tájékoztató adatként a projekthitelekből kiemelve külön oszlopokban kell feltüntetni az ingatlan fedezettel biztosított állományt és a szindikált állományt.
-
-A szindikált állomány oszlopokban be kell mutatni a szindikátus tagjaként az engedélyezett hitel állományából a már folyósított, valamint a nem folyósított hitelek állományát.
-
-A táblában szerepeltetni kell a projekttel kapcsolatos egyéb hitelintézeti mérlegen belüli kockázatvállalást, (pl. halasztott fizetéssel vállalt követelés), valamint a mérlegen kívüli kötelezettségvállalásokat (garancia, kezességvállalás, lejegyzett kötvény stb.).
-
-Az egyéb tájékoztató adatok táblarésznek megfelelő oszlopbontásban kell szerepeltetni a bel- és külföldi ingatlanfejlesztéshez és ingatlanvásárláshoz kapcsolódó tájékoztató adatokat is.
-
-A tábla sorai
-
-A 7F11 Belföldieknek nyújtott hitelállomány összesen sorban a pénzügyi vállalatokon (C, D, E, F szektor) kívüli intézmények számára történt kihelyezésekre vonatkozóan kell adatokat szolgáltatni. Az adatszolgáltatás részletesen tartalmazza a tárgyidőszak végén fennálló hitelállomány összegét a szerződés szerinti (nyilvántartási) értéken, könyv szerinti (értékvesztéssel csökkentett) értéken, valamint itt jelenik meg a még le nem hívott hitelkeretet is.
-
-A 7F111 Ingatlanfejlesztési hitelek között kell feltüntetni ingatlantípusonkénti bontásban azokat az ügyleteket, amelyekben a bank új létesítmény építését, már meglévő létesítmény építési, műszaki, technológiai szempontból teljes mértékben különálló új részegységének létrehozását finanszírozza, és a hitel megtérülése az ingatlanhoz kapcsolódó jövőbeli cash-flow. Azaz minden olyan ingatlan fejlesztésének a finanszírozása ide tartozik, ahol a közvetlen felhasználó és az építtető, fejlesztő személye nem azonos és, amelyeket részben vagy egészben eladásra vagy bérbeadásra szánt ingatlanok építésére, fejlesztésére jelzáloggal, egyéb fedezettel, vagy fedezet nélkül nyújtott a hitelintézet.
-
-A 7F112 Ingatlanvásárlási hitelek: az előző hiteltípustól annyiban térnek el, hogy ebben az esetben a bank új létesítmény vásárlását finanszírozza és a közvetlen felhasználó és vevő személye nem azonos.
-
-A 7F113-7F117 sorokban kell szerepeltetni az energiaszektor fejlesztésére, a közlekedés, szállítás (autópálya építés, útépítés, vasúti szállítás, légi szállítás) fejlesztésére, a közműfejlesztésre, a közműfejlesztésnek nem minősülő környezetvédelmi célú, valamint a telekommunikációs fejlesztésre nyújtott hiteleket. A hitelek besorolását a finaszírozott tevékenység és az ingatlan típus figyelembevételével kell elvégezni.
-
-A 7F118 sorban kell feltüntetni minden, az előzőekben nem nevesített projektfinanszírozási hitelt.
-
-A 7F12 Külföldieknek nyújtott hitelállomány összesen sora tartalmazza a tárgyidőszak végén fennálló hitelállomány összegét a szerződés szerinti (nyilvántartási) értéken, könyv szerinti (értékvesztéssel csökkentett) értéken, valamint itt kell szerepeltetni a még le nem hívott hitelkereteket.
-
-A hitelfelvevői kör a külföld esetében is a pénzügyi vállalatokon kívüli intézmények köre.
-
-A 7F12 sorból kiemelve, ebből-ös tételként kell szerepeltetni a 7F121 Ingatlanfejlesztési hitelek, valamint a 7F122 Ingatlanvásárlási hitelek összegét.
-
-A tábla első részéhez kapcsolódó tájékoztató adatok között kell szerepeltetni az ingatlanfejlesztési és ingatlanvásárlási hitelekhez kapcsolódó speciális hitelkonstrukciókat, a 7F13 sorban a Cash flow-t nem termelő konstrukciókat (telek jellegű és befejezetlen építés alatt álló konstrukciók), valamint a 7F14 Speciális törlesztési konstrukciójú hiteleket, mint például a balloon és bulett típusú konstrukciókat. A balloon konstrukció fogalmát az I.3.5. pont, a bulett konstrukció fogalmát az I.3.6. pont tartalmazza.
-
-A tábla második „Egyéb tájékoztató adatok” című részéhez kapcsolódóan az első résszel azonos sorbontásban kell tájékoztató adatokat szerepeltetni az ingatlanfejlesztési és ingatlanvásárlási hitelekkel összefüggésben.
-
-7G Önálló zálogjog adatai
-
-A tábla célja
-
-Az önálló zálogjog alkalmazásával kapcsolatos tevékenységre vonatkozó információszolgáltatás.
-
-A tábla kitöltése
-
-Az önálló zálogjogról a Ptk. 269. § bekezdése rendelkezik.
-
-A tábla sorai
-
-A 7G11–7G32 sorokig az adatokat a negyedév végén fennálló állományoknak megfelelően kell kimutatni.
-
-[^8]: A 2. melléklet a 15/2012. (X. 16.) PSZÁF rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a 16BA Ügyfél törzsadatok analitikája, a 16BB Hitelek analitikája és a 16BC Mérlegen kívüli kötelezettségek analitikája című előkészített jelentésekre vonatkozó rendelkezések 2013. július 1-jén lépnek hatályba.
-[^9]: Ha a hitelintézet a saját teljesítményű eszközeit aktiválja, az aktivált előállítási költségek (közvetlen önköltség) az eredménykimutatásban, az általános igazgatási költségek között már nem szerepelnek az alábbi könyvelési lépések eredőjeként: 1. Növeli az általános igazgatási költségeket a Saját előállítású eszközök előállítási költségeinek elszámolása a felmerüléskor (Tartozik: 5… számlák, Követel: 4… számlák). 2.A saját előállítású eszközök aktiválásakor csökken az általános igazgatási költségek az elszámolt előállítási költségekkel azonos értékben, mivel a Saját előállítású eszközök állományba vételét (Tartozik: 13… számlák) az 5-ös számlaosztályon belüli Aktivált saját teljesítmények értéke számlával szemben (Követel: 58 … számlák) kell végrehajtani a számviteli szabályoknak megfelelően.
-[^10]: A lejárt oszlopban csak a már esedékessé vált, de az esedékesség időpontjáig meg nem fizetett tőke, kamat és egyéb követeléseket kell szerepeltetni. A vonatkozási dátumot követően esedékes követelések pénzáramlásai a Lejárt tételek miatti korrekciók blokkban kerülnek kivezetésre.
-[^11]: Ezek a tételek gyakorlatilag az úton lévő tételeket tartalmazzák.
-[^12]: Ez esetben egy három hónapos, folyamatosan megújuló lekötött betétet a hátralévő lejárat szerint, azaz szerződéskötéskor pl. a 31-90 napos kategóriába kell besorolni.
-[^13]: A Magyar Fejlesztési Bank Zrt. esetében a 2001. évi XX. törvényt is figyelembe kell venni.
-[^14]: Pl. ha az érték 124 ezer Ft, akkor a mezobe 0,124, illetve, ha a mutató 0,46451, akkor 46,45 lesz a beírandó adat.
-[^15]: Pl. A 2003. évi szerződések – tekintettel a nyolc éves futamidejű szerződésekre is – legalább 2011. I. negyedévéig biztosan jelentendők.
-[^16]: Kapcsolt vállalkozások az Szmt. szerint kapcsolt vállalkozásként meghatározott vállalkozások.
+[^10]: A 2. melléklet a 3/2013. (IV. 26.) PSZÁF rendelet 6. § (6) bekezdés d) pontjával megállapított szöveg.
