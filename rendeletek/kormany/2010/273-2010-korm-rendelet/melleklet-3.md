@@ -1,6 +1,6 @@
 ## A) A Nemzeti Adó- és Vámhivatal középfokú adóztatási szervei, székhelyük és illetékességi területük
 
-## 1.[^178]
+## 1.[^179]
 
 ## 2. A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Adó Főigazgatósága, székhelye Budapest, illetékességi területe Budapest és Pest megye közigazgatási területe.
 
@@ -18,9 +18,9 @@
 
 ## B) A Nemzeti Adó- és Vámhivatal alsó fokú adóztatási szervei, székhelyük és illetékességi területük
 
-## 1.[^179] A Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága, székhelye Budapest, illetékességi területe az országos hatáskörrel végzett feladatai tekintetében Magyarország területe, a hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe.
+## 1.[^180] A Nemzeti Adó- és Vámhivatal Kiemelt Adózók Adóigazgatósága, székhelye Budapest, illetékességi területe az országos hatáskörrel végzett feladatai tekintetében Magyarország területe, a hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe.
 
-## 2.[^180]
+## 2.[^181]
 
 ## A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Adó Főigazgatósága területén:
 
@@ -82,6 +82,6 @@
 
 3. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez
 
-[^178]: A 2. számú melléklet A) rész 1. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 25. pontja hatályon kívül helyezte.
-[^179]: A 2. számú melléklet B) rész 1. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^180]: A 2. számú melléklet B) rész 2. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 25. pontja hatályon kívül helyezte.
+[^179]: A 2. számú melléklet A) rész 1. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 25. pontja hatályon kívül helyezte.
+[^180]: A 2. számú melléklet B) rész 1. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^181]: A 2. számú melléklet B) rész 2. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 25. pontja hatályon kívül helyezte.
