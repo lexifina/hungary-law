@@ -6,7 +6,7 @@ b) akit a bíróság cselekvőképességet korlátozó vagy kizáró gondnokság
 
 c) aki büntetett előéletű;
 
-d) aki a szövetkezet főtevékenységeként folytatott tevékenység folytatását kizáró foglalkozástól eltiltás vagy a vezető tisztség gyakorlásától való eltiltás [Btk. 56. § (2) bek.] hatálya alatt áll;
+d) aki a szövetkezet főtevékenységeként folytatott tevékenység folytatását kizáró foglalkozástól eltiltás vagy a vezető tisztség gyakorlásától való eltiltás [a Büntető Törvénykönyvről szóló 2012. évi C. törvény 52–54. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 56. § (2) bekezdés] hatálya alatt áll;
 
 e) aki olyan szövetkezetben vagy gazdasági társaságnál, amelyet a cégjegyzékből megszüntetési eljárás során töröltek, a törlést megelőző két éven belül vezető tisztségviselő volt, a törlést követő két évig;
 
