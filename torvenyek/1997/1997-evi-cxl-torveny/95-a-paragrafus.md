@@ -29,3 +29,21 @@ a) a névjegyzékbe való felvétel iránti eljárás jogerős befejezéséig va
 b) a névjegyzékbe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
 
 kezeli.
+
+(9) A (3) bekezdés szerinti névjegyzék az alábbi adatok tekintetében közhiteles hatósági nyilvántartásnak minősül:
+
+a) szakterület, részszakterület, szakág,
+
+b) nyilvántartásba vétel száma,
+
+c) nyilvántartásba vétel időpontja.
+
+(10) A (3) bekezdés szerinti névjegyzék vonatkozásában bizonyítási eszközként
+
+a) végzettséget, szakképzettséget igazoló okirat,
+
+b) akkreditált szakértői tanfolyam jellegű szakmai továbbképzés elvégzéséről szóló tanúsítvány, valamint
+
+c) a szakmai gyakorlatot igazoló irat
+
+vehető figyelembe.
