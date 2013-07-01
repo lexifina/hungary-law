@@ -8,11 +8,11 @@ ba) e tevékenysége gyakorlása során a közforgalmú gyógyszertárba három 
 
 bb) az egészségügyi államigazgatási szerv ismételt figyelmeztetése ellenére a közforgalmú gyógyszertárat nem személyesen vezeti,
 
-c) a személyi jog jogosultja foglalkozás körében elkövetett veszélyeztetés vagy gazdasági bűncselekmény miatt büntetett előéletűvé válik, vagy a személyi jog jogosultját jogerősen letöltendő szabadságvesztésre ítélik vagy a gyógyszerész foglalkozástól eltiltás hatálya alá kerül,
+c) a személyi jog jogosultja foglalkozás körében elkövetett veszélyeztetés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 165. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 171. §] vagy a Btk. XXXVIII–XLIII. Fejezetében, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XVII. fejezetében meghatározott bűncselekmény miatt büntetett előéletűvé válik, vagy a személyi jog jogosultját jogerősen végrehajtandó szabadságvesztésre ítélik, vagy a gyógyszerész foglalkozástól eltiltás hatálya alá kerül,
 
 d) a személyi joggal rendelkező gyógyszerész, vagy a gyógyszertárban dolgozó más személy a 17. § (8)–(11) bekezdésében vagy a 35. § (1) bekezdésében foglaltakat ismételten megsérti,
 
-e) a személyi joggal rendelkező gyógyszerészt a Büntető Törvénykönyvről szóló törvény 290. §-a szerinti bűncselekmény elkövetése miatt jogerősen elítélik.
+e) a személyi joggal rendelkező gyógyszerészt csődbűncselekmény (Btk. 404. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 290. §) elkövetése miatt jogerősen elítélik.
 
 (2) Az (1) bekezdés szerinti esetekben a személyi jog visszavonását követően a gyógyszertár létesítési és működési engedélyét is vissza kell vonni, amennyiben a gyógyszertárat működtető társaság – a (3) bekezdésben foglalt eltéréssel – hat hónapon belül nem biztosít személyi joggal rendelkező gyógyszerészt.
 
