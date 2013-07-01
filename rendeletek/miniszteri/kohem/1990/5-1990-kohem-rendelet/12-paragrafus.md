@@ -8,7 +8,7 @@
 
 (5) Ha az időszakos vizsgálatot a forgalmi engedély érvényességi határidején belül kérték, de a vizsgálatot az érvényességi határidő lejárta utáni időpontra tűzték ki, a vizsganapról szóló értesítés a forgalmi engedély érvényességét a közölt vizsgaidőpontig meghosszabbítja. Ha az időszakos vizsgálatot a forgalmi engedély érvényességi határidejének lejárta után kérték, az értesítés a vizsgahelyre történő közlekedéshez egy alkalomra szóló forgalmi engedélyt helyettesít.
 
-(6)[^125] Az időszakos vizsgálaton az MR. 5–8., 17., 19., 21. §-a kivételével az üzemeltetési műszaki feltételek megtartását, továbbá a közlekedésbiztonsági és környezetvédelmi tulajdonságokat érintő változtatásokat, valamint a közúti közlekedési szolgáltatást végző járművek esetében az ezekre vonatkozó külön feltételek teljesítését ellenőrizni kell, továbbá gépjárművek esetében – a versenyjárművek kivételével – rögzíteni kell a kilométer-számláló műszer által jelzett értéket is.
+(6)[^125] Az időszakos vizsgálaton az MR. 5–8., 17., 19. és 21. §-a kivételével az üzemeltetési műszaki feltételek megtartását, a kötelező gépjármű-felelősségbiztosítás fedezete fennállását, továbbá a közlekedésbiztonsági és környezetvédelmi tulajdonságokat érintő változtatásokat, valamint a közúti közlekedési szolgáltatást végző járművek esetében az ezekre vonatkozó külön feltételek teljesítését ellenőrizni kell, továbbá a gépjárművek esetében – a versenyjárművek kivételével – rögzíteni kell a kilométer-számláló műszer által jelzett értéket is.
 
 (7)[^126] Időszakos vizsgálaton kell bemutatni a vizsgáló állomáson a 2. § (3) bekezdésének e), f), g) és h) és i) pontjában említett járműveket. Az időszakos vizsgálaton az MR. üzemeltetési műszaki feltételeit – kivéve az MR. 5–8. §-ait és 19. §-át – és az MR. megfelelő további műszaki feltételeit is ellenőrizni kell.
 
@@ -53,7 +53,7 @@ b)[^135] a KR.-ben meghatározott esetben.
 [^122]: A 12. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (1) bekezdésével megállapított, a 18/2013. (V. 9.) NFM rendelet 14. § c) pontja szerint módosított szöveg.
 [^123]: A 12. § (2) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte, újonnan a 66/2009. (XI. 27.) KHEM rendelet 10. § (1) bekezdése iktatta be.
 [^124]: A 12. § (3)–(4) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások.
-[^125]: A 12. § (6) bekezdése a 22/2012. (V. 8.) NFM rendelet 6. §-ával megállapított szöveg.
+[^125]: A 12. § (6) bekezdése a 18/2013. (V. 9.) NFM rendelet 7. §-ával megállapított szöveg.
 [^126]: A 12. § (7) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított, a 22/2012. (V. 8.) NFM rendelet 12. §-a szerint módosított szöveg.
 [^127]: A 12. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^128]: A 12. § (9) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások.

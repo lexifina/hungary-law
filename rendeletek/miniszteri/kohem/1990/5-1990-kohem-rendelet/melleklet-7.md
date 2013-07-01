@@ -1,4 +1,4 @@
-7. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^322]
+7. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^323]
 
 ## A vizsgabiztosi tevékenység végzésére jogosító engedély adattartalma
 
@@ -18,4 +18,4 @@ Az engedély tartalmazza:
 
 7. a kiadás helyét, idejét, a hatóság bélyegzőlenyomatát, a kiadmányozó aláírását.
 
-[^322]: A 7. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^323]: A 7. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 23. § (3) bekezdésével megállapított szöveg.
