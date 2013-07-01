@@ -1,5 +1,3 @@
-## 28–32. §
-
 ## 17. Azonosítási szolgáltatás
 
 33. § (1) Az azonosítási szolgáltatás olyan SZEÜSZ, amelynek keretében a SZEÜSZ szolgáltató az elektronikus ügyintézés során megállapítja, hogy egy adott személy megegyezik-e egy korábban regisztrált személlyel.
