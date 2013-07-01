@@ -1,0 +1,3 @@
+123. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 14. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A közérdekű munka tartamába a közérdekű munka alapjául szolgáló szabálysértéssel összefüggésben elrendelt szabálysértési őrizet teljes idejét, valamint a közérdekű munka alapjául szolgáló szabálysértéssel összefüggésben elrendelt, négy órát meghaladó tartamú előállítás tartamát be kell számítani. A szabálysértési őrizet, valamint a négy órát meghaladó tartamú előállítás minden megkezdett óráját egy óra tartamú közérdekű munkaként kell beszámítani.”

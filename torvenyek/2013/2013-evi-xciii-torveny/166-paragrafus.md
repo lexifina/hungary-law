@@ -1,0 +1,3 @@
+166. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 140. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szabálysértési elzárást kiszabó, illetve az átváltoztatásról rendelkező bíróság kérelemre, egészségi, családi vagy más fontos okból a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, valamint a közérdekű munka helyébe lépő szabálysértési elzárás végrehajtását legfeljebb hat hónappal elhalaszthatja. A kérelem előterjesztésének a szabálysértési elzárás megkezdésére előírt időpontig van helye.”
