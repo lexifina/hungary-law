@@ -60,11 +60,13 @@
 
 | 14. | a MÁV Zrt. és a GySEV Zrt. által működtetett vasúti pályahálózaton a GSM-R rendszer megvalósítása |  | Vasúthatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| Felszín feletti építmények (különösen: állomásépületek átalakítása, adótornyok felállítása) | Általános építésügyi hatósági engedélyek | Illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
+|  |  | Elektronikus hírközlési építmények (különösen antennák, antennatartó szerkezetek és felszín alatti távközlési alépítmények) | Hírközlés-hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+|  |  | Felszín feletti építmények (különösen: állomásépületek átalakítása) | Általános építésügyi hatósági engedélyek | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
-2. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^2]
+|  |  | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+
+2. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^3]
 
 Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
@@ -90,4 +92,4 @@ Az 1. § (3) bekezdésben hivatkozott szakhatóságok
 
 | 5. | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^2]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 28. §-ával megállapított, a 394/2012. (XII. 20.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 28. §-ával megállapított, a 394/2012. (XII. 20.) Korm. rendelet 24. §-a szerint módosított szöveg.

@@ -35,3 +35,11 @@ n) a MÁV Zrt. és a GySEV Zrt. által működtetett vasúti pályahálózaton a
 a) a 2. számú mellékletben meghatározott ügyekben az ott meghatározott szervek járnak el;
 
 b) a 2. számú mellékletben nem szereplő ügyekben a szakhatóságként közreműködő szervet az Ngt. 2. §-ának alkalmazásával kell megállapítani.
+
+(4)[^1] Az 1. számú melléklet 14. sora szerinti
+
+a) építésügyi hatósági ügyekben nem kell településképi véleményezési eljárást lefolytatni,
+
+b) beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.
+
+[^1]: Az 1. § (4) bekezdését a 241/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
