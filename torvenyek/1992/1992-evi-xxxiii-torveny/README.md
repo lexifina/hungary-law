@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2012-12-31 | 2009. évi CXXVI. törvény | 1992-33-00-00.84 |
 | 2013-01-01 | 2012. évi CCXVI. törvény | 1992-33-00-00.85 |
 | 2013-01-02 | 2012. évi CCXVI. törvény | 1992-33-00-00.86 |
+| 2013-07-01 | 2012. évi CCV. törvény | 1992-33-00-00.87 |

@@ -1,0 +1,3 @@
+95. § (1) E törvény a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E törvény az egy harmadik ország állampolgára, illetve hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, ...-i, .../2013/EU európai parlamenti és tanácsi rendelet 6., 33. cikkei végrehajtásához szükséges rendelkezéseket állapít meg.
