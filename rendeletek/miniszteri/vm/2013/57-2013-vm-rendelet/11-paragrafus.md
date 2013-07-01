@@ -1,0 +1,1 @@
+## 10. § Az Fmr. 14. § (1) bekezdésében a „földművelésügyi és vidékfejlesztési miniszter” szövegrész helyébe a „földügyért felelős miniszter”, a 14. § (2) bekezdésében a „földművelésügyi és vidékfejlesztési miniszter a pénzügyminiszterrel” szövegrész helyébe a „földügyért felelős miniszter az államháztartásért felelős miniszterrel” szöveg lép.
