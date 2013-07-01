@@ -1,13 +1,13 @@
-40. §[^151] (1)[^152] A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve a közgyógyellátásra jogosultak számára a 13. számú melléklet szerinti adattartalommal közgyógyellátási igazolványt (a továbbiakban: igazolvány) állít ki. A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve az igazolványt a jogosultság kezdő időpontjáig kézbesíti a jogosult részére.
+40. §[^155] (1)[^156] A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve a közgyógyellátásra jogosultak számára a 13. számú melléklet szerinti adattartalommal közgyógyellátási igazolványt (a továbbiakban: igazolvány) állít ki. A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve az igazolványt a jogosultság kezdő időpontjáig kézbesíti a jogosult részére.
 
-(2)[^153] A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve havonta, a tárgyhónapot követő hónap 10. napjáig tájékoztatja a közgyógyellátásra való jogosultságot megállapító hatóságot a kiadott igazolványok igazolványszámáról.
+(2)[^157] A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve havonta, a tárgyhónapot követő hónap 10. napjáig tájékoztatja a közgyógyellátásra való jogosultságot megállapító hatóságot a kiadott igazolványok igazolványszámáról.
 
-(3)[^154] A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve az igazolvány kiadásával egyidejűleg a hatósági nyilvántartás vezetése céljából tájékoztatja az OEP-et a jogosultnak az Szt. 50/C. § (2) bekezdése szerinti adatairól.
+(3)[^158] A fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve az igazolvány kiadásával egyidejűleg a hatósági nyilvántartás vezetése céljából tájékoztatja az OEP-et a jogosultnak az Szt. 50/C. § (2) bekezdése szerinti adatairól.
 
-(4)[^155] A gyógyszerkeret év közbeni módosítása esetén új igazolvány kiadására nem kerül sor, az igazolvány hatályának lejártáig használható.
+(4)[^159] A gyógyszerkeret év közbeni módosítása esetén új igazolvány kiadására nem kerül sor, az igazolvány hatályának lejártáig használható.
 
-[^151]: A 40. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^152]: A 40. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (7) bekezdésével megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^153]: A 40. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés n) pontja szerint módosított szöveg.
-[^154]: A 40. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^155]: A 40. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^155]: A 40. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^156]: A 40. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (7) bekezdésével megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^157]: A 40. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés n) pontja szerint módosított szöveg.
+[^158]: A 40. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^159]: A 40. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

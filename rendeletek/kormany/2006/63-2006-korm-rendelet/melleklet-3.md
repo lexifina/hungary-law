@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^217]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^221]
 
 ## Kérelem aktív korúak ellátásának megállapítására
 
@@ -110,11 +110,13 @@ A kérelmező, valamint házastársának (élettársának) és a vele egy házta
 
 3.1.1. ⬜ itt jelölje be, ha Ön egészségkárosodott, és
 
-3.1.2. jelölje aláhúzással, ha csatolta
+3.1.2. jelölje aláhúzással, ha
 
-a) a Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs szakigazgatási szerv érvényes és hatályos szakvéleményét vagy szakhatósági állásfoglalását, vagy
+a) csatolta a Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs szakigazgatási szerv érvényes és hatályos szakvéleményét vagy szakhatósági állásfoglalását, vagy
 
-b) a Magyar Államkincstár területileg illetékes Igazgatósága igazolását a fogyatékossági támogatásnak vagy a vakok személyi járadékának a folyósításáról.
+b) csatolta a Magyar Államkincstár területileg illetékes Igazgatósága igazolását a vakok személyi járadékának folyósításáról, vagy
+
+c) fogyatékossági támogatásban részesül.
 
 3.1.3. Amennyiben Ön a b) pontban foglaltakat nem igazolta, a hivatal által adatszolgáltatási kérelemmel megkereshető (az ellátást folyósító) hatóság megnevezése és címe:
 
@@ -200,7 +202,7 @@ Kérjük, hogy a nyomtatványon szíveskedjen a megfelelő választ X-szel jelö
 
 - korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
 
-5.1.3. A tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek egészségi állapotára vonatkozó igazolásokat a kérelemhez csatolni kell.
+5.1.3. A tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek egészségi állapotára vonatkozó igazolásokat – a magasabb összegű családi pótlékra, illetve a fogyatékossági támogatásra vonatkozó irat kivételével – a kérelemhez csatolni kell.
 
 5.2. A jövedelmi adatok kitöltéséhez:
 
@@ -258,11 +260,11 @@ c) fogyatékossági támogatásban részesül.
 
 5.3.2.1. az 5.3.1. a) alpontban meghatározott esetben mellékelni kell a Nemzeti Rehabilitációs és Szociális Hivatalnak vagy a rehabilitációs szakigazgatási szervnek a munkaképesség legalább 67%-os mértékű csökkenéséről, illetve a legalább 50%-os mértékű egészségkárosodásról készült érvényes és hatályos szakvéleményét, előzetes szakhatósági állásfoglalását vagy szakhatósági állásfoglalását;
 
-5.3.2.2. az 5.3.1. b) és c) alpontban meghatározott esetekben pedig
+5.3.2.2. az 5.3.1. b) alpontban meghatározott esetben pedig
 
-- vagy mellékelni kell a Magyar Államkincstár illetékes területi szervének igazolását arról, hogy a vak személy vakok személyi járadékában, a súlyosan fogyatékos személy pedig fogyatékossági támogatásban részesül,
+– vagy mellékelni kell a Magyar Államkincstár illetékes területi szervének igazolását arról, hogy a vak személy vakok személyi járadékában részesül,
 
-- vagy meg kell adni a folyósító szerv nevét és címét.
+– vagy meg kell adni a folyósító szerv nevét és címét.
 
 5.3.3. Állástalan az a személy:
 
@@ -290,4 +292,4 @@ e) akinek az aktív korúak ellátására való jogosultság iránti kérelem be
 
 5.3.6. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója nem cselekvőképes, helyette a törvényes képviselője jogosult az aláírásra.
 
-[^217]: A 3. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdés b) pontjával megállapított szöveg.
+[^221]: A 3. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdés b) pontjával megállapított, ugyanezen § (3) bekezdés c) pontja szerint módosított szöveg.

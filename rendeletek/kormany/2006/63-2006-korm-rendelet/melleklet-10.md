@@ -76,12 +76,6 @@
 
 ## ]
 
-## 2.1.3.3. a Magyar Államkincstár területileg illetékes Igazgatóságának igazolását vagy határozatát a magasabb összegű családi pótlék folyósításáról.
-
-## [Ha Ön a fentiekben megjelölt ellátás folyósítását nem igazolta, a hivatal által adatszolgáltatási kérelemmel megkereshető (a megjelölt ellátást folyósító) szerv megnevezése és címe, az ellátás folyósítási száma:
-
-## ]
-
 ## 2.2. ⬜ Normatív [a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50. § (2) bekezdése szerinti] jogcímen kérem a közgyógyellátás megállapítását, jövedelmi helyzetemre és a magas gyógyszerköltségemre tekintettel.
 
 ## (Ez esetben ki kell tölteni a 3. pontban szereplő, a közeli hozzátartozókra vonatkozó adatokat, valamint a jövedelemnyilatkozatot!)
@@ -272,7 +266,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^223]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^227]
 
 ## Háziorvosi igazolás
 
@@ -330,4 +324,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^223]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^227]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

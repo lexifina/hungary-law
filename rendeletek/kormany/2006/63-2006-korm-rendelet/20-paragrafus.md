@@ -1,8 +1,8 @@
 ## Lakásfenntartási támogatás
 
-20. § (1)[^94] A lakásfenntartási támogatás megállapítása iránti kérelmet a 12. számú melléklet szerinti formanyomtatványon kell benyújtani.
+20. § (1)[^96] A lakásfenntartási támogatás megállapítása iránti kérelmet a 12. számú melléklet szerinti formanyomtatványon kell benyújtani.
 
-(2)[^95] A lakásfenntartási támogatás megállapításához
+(2)[^97] A lakásfenntartási támogatás megállapításához
 
 a) az 1. számú melléklet szerinti vagyonnyilatkozat, valamint a háztartás tagjai jövedelmének hitelt érdemlő igazolása,
 
@@ -14,5 +14,5 @@ c) a természetbeni szociális ellátásként nyújtott ellátás esetén az Szt
 
 (3) Az Szt. 38. § (1) bekezdésének b) pontjában szabályozott lakásfenntartási támogatás megállapítása iránt kérelmet nem kell benyújtani.
 
-[^94]: A 20 § (1) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^95]: A 20 § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^96]: A 20 § (1) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^97]: A 20 § (2) bekezdése a 331/2011. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

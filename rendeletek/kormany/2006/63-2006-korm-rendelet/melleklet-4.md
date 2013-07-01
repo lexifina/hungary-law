@@ -1,4 +1,4 @@
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^218]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^222]
 
 ## KÉRELEM
 
@@ -154,4 +154,4 @@ A kérelem 2. c) pontját abban az esetben kell kitölteni, ha az ápolt személ
 
 A kérelemhez minden esetben mellékelni kell a háziorvos igazolását.
 
-[^218]: A 4. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának aj) alpontja, a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bh) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 314/2009. (XII. 28.) Korm. rendelet 37. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés b) pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^222]: A 4. számú melléklet a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának aj) alpontja, a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bh) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 314/2009. (XII. 28.) Korm. rendelet 37. §-a, a 358/2010. (XII. 30.) Korm. rendelet 13. § (1) bekezdés b) pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja szerint módosított szöveg.

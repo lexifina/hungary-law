@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2013-02-26 | 2006-63-20-22.27 | 51/2013. (II. 25.) Korm. rendelet |
 | 2013-04-01 | 2006-63-20-22.28 | 95/2013. (III. 29.) Korm. rendelet |
 | 2013-06-04 | 2006-63-20-22.29 | 176/2013. (VI. 3.) Korm. rendelet |
+| 2013-07-01 | 2006-63-20-22.30 | 95/2013. (III. 29.) Korm. rendelet |
