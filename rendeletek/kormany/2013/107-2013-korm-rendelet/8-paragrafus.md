@@ -1,5 +1,3 @@
-## 7. §[^7]
+## 7. § A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet 4. számú melléklet 1. pontjában foglalt táblázat 7. sorában a „Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett” szövegrész helyébe a „Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság által vezetett” szöveg lép.
 
 ## 8. A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet módosítása
-
-[^7]: A 7. § a 17. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

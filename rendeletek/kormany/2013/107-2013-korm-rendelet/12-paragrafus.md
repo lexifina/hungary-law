@@ -1,5 +1,3 @@
-## 11. §[^14]
+## 11. § A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 3. mellékletében foglalt táblázat 6. sorában és 6. mellékletében foglalt táblázat 6. sorában a „Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett” szövegrész helyébe a „Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság által vezetett” szöveg lép.
 
 ## 12. A fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet módosítása
-
-[^14]: A 11. § a 17. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
