@@ -1,0 +1,1 @@
+A Kormány a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 13. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
