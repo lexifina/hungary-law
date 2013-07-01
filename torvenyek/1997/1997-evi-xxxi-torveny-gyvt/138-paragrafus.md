@@ -10,6 +10,8 @@ d) az ellátással kapcsolatos döntéseket,
 
 e) a jogosultság megállapításához szükséges jövedelmi adatokat.
 
+(1a) Az (1) bekezdés szerinti – a 140. § (1) bekezdés a) pontjába tartozó ellátások tekintetében vezetett – nyilvántartás az (1) bekezdés d) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A gyámhatóság nyilvántartást vezet a hatósági intézkedéssel védelembe vett gyermekekről. A nyilvántartás tartalmazza
 
 a) az (1) bekezdés a) pontjában meghatározott adatokat,

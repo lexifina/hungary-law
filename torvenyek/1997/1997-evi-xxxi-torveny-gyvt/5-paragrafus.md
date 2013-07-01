@@ -4,7 +4,7 @@
 
 a) gyermek: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 12. §-a szerinti kiskorú,
 
-b) fiatalkorú: az a személy, aki a szabálysértés vagy a bűncselekmény elkövetésekor 14. évét betöltötte, de 18. évét még nem,
+b) fiatalkorú: az a személy, aki a szabálysértés elkövetésekor 14. évét, bűncselekmény elkövetésekor 12. évét – illetve 2013. június 30-át megelőzően elkövetett bűncselekmény esetén a 14. évét – betöltötte, de 18. évét még nem,
 
 c) fiatal felnőtt: az a nagykorú személy, aki a 24. évét nem töltötte be,
 
@@ -30,7 +30,7 @@ m) gyermekvédelmi gondoskodás: az e törvényben meghatározottak szerint elre
 
 n) veszélyeztetettség: olyan – a gyermek vagy más személy által tanúsított – magatartás, mulasztás vagy körülmény következtében kialakult állapot, amely a gyermek testi, értelmi, érzelmi vagy erkölcsi fejlődését gátolja vagy akadályozza,
 
-o) várandós anya válsághelyzete: olyan családi, környezeti, szociális, társadalmi helyzet vagy ezek következtében kialakult állapot, amely a várandós anya testi vagy lelki megrendülését, társadalmi ellehetetlenülését okozza, és ezáltal veszélyezteti a gyermek egészséges megszületését,
+o) várandós anya válsághelyzete: olyan családi, környezeti, szociális, társadalmi helyzet vagy ezek következtében kialakult állapot, amely a várandós anya testi vagy lelki megrendülését, társadalmi ellehetetlenülését okozza, és ezáltal veszélyezteti a gyermek egészséges megszületését; ezen belül terhességét eltitkoló válsághelyzetben lévő várandós anya az a válsághelyzetben lévő várandós anya, aki nyilatkozata szerint állapotát környezete és hozzátartozói előtt titokban szándékozik tartani,
 
 p) tartós betegség: azon kórforma, amely a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosít,
 

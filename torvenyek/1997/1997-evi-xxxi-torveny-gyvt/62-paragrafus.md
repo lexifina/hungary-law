@@ -15,3 +15,5 @@ d) az eseti gondnoki jogkörben a szükséges intézkedések megtétele az átme
 a) gondoskodik az örökbefogadás előtti tanácsadás és örökbefogadói tanfolyam, valamint az örökbefogadás utáni segítséget nyújtó szolgáltatások megszervezéséről, továbbá
 
 b) a nemzetközi örökbefogadási ügyekben eljáró központi hatóság (a továbbiakban: központi hatóság) megkeresésére külföldi állampolgárságú gyermek örökbefogadását követően jelentést készít az örökbefogadás helyzetéről.
+
+(4) Ha a terhességét eltitkoló válsághelyzetben lévő várandós anya kérelmére a gyámhatóság a gyermek lakóhelyéül a fővárosi területi gyermekvédelmi szakszolgálat székhelyét állapította meg, a fővárosi területi gyermekvédelmi szakszolgálat feladata a gyermek számára kiállított iratok megőrzése, valamint kiadása a gyámhatóság által megjelölt törvényes képviselő számára.

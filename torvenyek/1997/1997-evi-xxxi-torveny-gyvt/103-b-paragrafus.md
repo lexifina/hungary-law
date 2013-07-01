@@ -20,6 +20,8 @@ h) szakmai tevékenységének leírását,
 
 i) szakértői tevékenysége szüneteltetésének, felfüggesztésének időtartamát.
 
+(2a) Az (1) bekezdés szerinti névjegyzék a (2) bekezdés e)–g) és i) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A névjegyzékben szereplő adatokból – szakterületenkénti tagolásban – a Kormány által erre kijelölt szerv a Szolg. tv. 30. § (2) bekezdésében meghatározottakon túl a honlapján közzéteszi a szakértő
 
 a) értesítési címét,
