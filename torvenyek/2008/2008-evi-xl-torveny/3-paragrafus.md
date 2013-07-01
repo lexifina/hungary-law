@@ -176,4 +176,12 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére propán-, butángázok és ezek elegyeiből álló gázok csővezetéken keresztül történő elosztása és értékesítése.
 
-71.
+71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol tartályban forgalmazott PB-gázt vagy vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, tartályban forgalmazott vagy vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
+
+72. PB-gáz forgalmazó: aki PB-gáz forgalmazási tevékenység végzésére a bányafelügyelet által kiadott, érvényes engedéllyel rendelkezik.
+
+73. PB-gáz kiskereskedő: aki
+
+a) a PB-gáz palackos PB-gáz értékesítőhelyen vagy üzemanyagtöltő állomáson történő értékesítéséhez szükséges, a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerinti bejelentést megtette, illetve a PB-gáz palackból turista használatú palackba történő átfejtés végzésére engedéllyel rendelkezik, vagy
+
+b) önálló kereskedelmi ügynöki tevékenység keretében, a PB-gáz forgalmazóval fennálló szerződéses kapcsolat alapján a PB-gáz forgalmazó tulajdonában lévő palackos PB-gázt értékesít, és a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerint a tevékenységét bejelentette.

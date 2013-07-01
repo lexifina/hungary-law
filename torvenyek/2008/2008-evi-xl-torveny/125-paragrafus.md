@@ -57,3 +57,5 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 (15) Az engedélyesek külön jogszabályban meghatározott informatikai rendszert működtetnek az együttműködés biztosítása érdekében.
 
 (16) A Hivatal köteles a miniszter számára külön jogszabályban meghatározott adatokat szolgáltatni.
+
+(17) A vezetékes PB-gáz szolgáltató, a PB-gáz forgalmazó köteles a Hivatal, továbbá a miniszter számára jogszabályban meghatározott adatokat szolgáltatni.

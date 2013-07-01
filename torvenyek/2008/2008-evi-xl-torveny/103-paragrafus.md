@@ -16,7 +16,15 @@ d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
 
 e) a 141. § (3) bekezdés és a 141/A. § szerinti felajánlási ár, valamint
 
-f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig.
+f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
+
+g) a vezetékes PB-gáz szolgáltatás és a PB-gáz tartályban történő értékesítésének lakossági PB-gáz fogyasztó által fizetendő ára, valamint
+
+h) a 11,5 kg-os töltettömegű palackos PB-gáz
+
+ha) gázkiskereskedő részére történő értékesítésének ára, és
+
+hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára.
 
 (2a) A földgázellátással összefüggésben
 
@@ -33,6 +41,16 @@ e) az egyetemes szolgáltató a (2) bekezdés e) pontjában, és
 f) az egyetemes szolgáltató és a volt közüzemi nagykereskedő a (2) bekezdés f) pontjában
 
 foglalt árat vagy díjat köteles megfizetni.
+
+(2b) A PB-gáz ellátással összefüggésben
+
+a) a lakossági PB-gáz fogyasztó a (2) bekezdés g) pontjában,
+
+b) a PB-gáz kiskereskedő a (2) bekezdés h) pont ha) alpontjában, és
+
+c) a palackos PB-gáz fogyasztó a (2) bekezdés h) pont hb) alpontjában
+
+foglalt árat köteles megfizetni.
 
 (3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdés szerinti díjakat a Hivatal elnöke rendeletben állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát a miniszter rendeletben állapítja meg.
 
