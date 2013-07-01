@@ -10,6 +10,6 @@
 
 (5) A bűnjel csomagolására vagy a bűnjelre erősített bűnjelcímkére a bűnjelkezelő feljegyzi a bűnjelnyilvántartó könyv tételszámát, az ügyirat számát és a terhelt – több terhelt esetén az első helyen megnevezett – nevét. Ha az eljárás ismeretlen terhelt ellen folyik, a terhelt neve helyett az ,,ismeretlen tettes'' szavakat írja.
 
-(6)[^19] Ha a hatóság a bűnjelet az érdekelt őrizetében hagyta, vagy egyes szervek őrizetébe és kezelésébe adta, illetőleg a bűnjel előzetes értékesítése iránt intézkedett, ezt a körülményt a bűnjelkezelő a bűnjelnyilvántartó könyvbe bejegyzi.
+(6)[^20] Ha a hatóság a bűnjelet az érdekelt őrizetében hagyta, vagy egyes szervek őrizetébe és kezelésébe adta, illetőleg a bűnjel előzetes értékesítése iránt intézkedett, ezt a körülményt a bűnjelkezelő a bűnjelnyilvántartó könyvbe bejegyzi.
 
-[^19]: A 12. § (6) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^20]: A 12. § (6) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

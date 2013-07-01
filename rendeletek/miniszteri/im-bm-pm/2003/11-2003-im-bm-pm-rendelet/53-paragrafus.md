@@ -2,6 +2,6 @@
 
 (2) A beszállításnál különösen ügyelni kell arra, hogy a szennyező és más káros hatású bűnjel a küldemény egyéb tartalmának az épségét ne veszélyeztesse.
 
-(3)[^44] Ha a bíróság az érdekelt, valamint egyes szerv őrizetében hagyott vagy kezelésére bízott bűnjel elkobzásáról határozott, erről a bírósági bűnjelkezelő a BGH-t a jogerős határozat megküldésével haladéktalanul értesíti. Az értesítéshez csatolja az erre a célra kiállított bűnjeljegyzék két példányát. A bűnjeljegyzékhez csatolja az őrzéssel kapcsolatban felvett jegyzőkönyvet és a rendelkezésre álló egyéb iratokat.
+(3)[^45] Ha a bíróság az érdekelt, valamint egyes szerv őrizetében hagyott vagy kezelésére bízott bűnjel elkobzásáról határozott, erről a bírósági bűnjelkezelő a BGH-t a jogerős határozat megküldésével haladéktalanul értesíti. Az értesítéshez csatolja az erre a célra kiállított bűnjeljegyzék két példányát. A bűnjeljegyzékhez csatolja az őrzéssel kapcsolatban felvett jegyzőkönyvet és a rendelkezésre álló egyéb iratokat.
 
-[^44]: Az 53. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^45]: Az 53. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

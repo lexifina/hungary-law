@@ -4,6 +4,6 @@
 
 (2) Az értékesítés iránti intézkedés előtt a BGH megvizsgálja a közérdekű célra történő felhasználás lehetőségét, és ha a feltételek fennállnak, értesíti a Karitatív Tanácsot.
 
-(3)[^45] A bíróság, illetőleg a BGH bűnjelraktárában lévő, valamint az érdekelt vagy egyes szerv őrizetében hagyott (kezelésére bízott) elkobzott bűnjel értékesítése iránt a BGH intézkedik. Ha a bűnjel az aránytalanul magas szállítási költség miatt nem szállítható be a BGH-hoz, a BGH az elkobzott bűnjel értékesítéséről annak őrzési helyén gondoskodik.
+(3)[^46] A bíróság, illetőleg a BGH bűnjelraktárában lévő, valamint az érdekelt vagy egyes szerv őrizetében hagyott (kezelésére bízott) elkobzott bűnjel értékesítése iránt a BGH intézkedik. Ha a bűnjel az aránytalanul magas szállítási költség miatt nem szállítható be a BGH-hoz, a BGH az elkobzott bűnjel értékesítéséről annak őrzési helyén gondoskodik.
 
-[^45]: Az 55. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^46]: Az 55. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
