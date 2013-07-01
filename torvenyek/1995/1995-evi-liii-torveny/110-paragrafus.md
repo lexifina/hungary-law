@@ -34,7 +34,7 @@
 
 9. a hatásterület meghatározásának szabályait;
 
-10. Magyarország területén a védelmi és honvédelmi feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét;
+10.
 
 11. a környezeti jelentés készítésére kötelezettek körét, valamint a környezeti jelentés készítésére vonatkozó részletes szabályokat;
 
@@ -149,3 +149,5 @@ a) a külön jogszabály szerinti nitrátérzékeny területeket a MePAR szerint
 b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program részletes szabályait és az ezzel összefüggő adatszolgáltatás és nyilvántartás rendjét meghatározza.
 
 (15) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterek egyetértésével kiadott rendeletben határozza meg az igénybevételi, kibocsátási és szennyezettségi határértékeket.
+
+(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, továbbá a feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét.
