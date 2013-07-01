@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1996-57-00-00.35 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 1996-57-00-00.36 |
 | 2013-02-01 | 2012. évi CCX. törvény | 1996-57-00-00.37 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 1996-57-00-00.38 |

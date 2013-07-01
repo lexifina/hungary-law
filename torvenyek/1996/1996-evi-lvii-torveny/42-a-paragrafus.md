@@ -24,9 +24,9 @@ g) a vizsgáló irodavezető esetében az illetményalap kilencszerese.
 
 (6) A vizsgáló
 
-a) pályakezdő köztisztviselőként, valamint nem pályakezdő köztisztviselőként a próbaidő időtartamára vizsgáló gyakornoki besorolást kap;
+a) pályakezdő köztisztviselőként vizsgáló gyakornoki besorolást kap;
 
-b) vizsgálói besorolást kap, ha a Gazdasági Versenyhivatalban vizsgáló gyakornokként legalább két évet eltöltött és legalább alkalmas minősítésű, illetve abban az esetben, ha a szakterületén legalább három év szakmai gyakorlattal rendelkezik és közigazgatási alapvizsgát tett, vagy azzal egyenértékű képesítést szerzett.
+b) vizsgálói besorolást kap, ha a Gazdasági Versenyhivatalban vizsgáló gyakornokként legalább két évet eltöltött és legalább alkalmas minősítésű, vagy a szakterületén legalább három év szakmai gyakorlattal rendelkezik.
 
 (7) A vizsgáló
 
