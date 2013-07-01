@@ -1,4 +1,4 @@
-71. § (1) A kamara elkülönített jegyzéket vezet a harmadik országbeli könyvvizsgáló gazdálkodókról.
+71. § (1) A kamara – közhiteles hatósági nyilvántartásnak minősülő – elkülönített jegyzéket vezet a harmadik országbeli könyvvizsgáló gazdálkodókról.
 
 (2) A kamara jegyzékébe – kérelem alapján, a vonatkozó külön előírások figyelembevételével – fel kell venni azt a harmadik országbeli könyvvizsgáló gazdálkodót, amely megfelel a következő feltételeknek:
 

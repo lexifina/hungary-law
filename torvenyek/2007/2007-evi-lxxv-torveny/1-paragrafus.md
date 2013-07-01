@@ -24,4 +24,4 @@ f) a könyvvizsgáló jelöltre,
 
 g) a külföldön tevékenységi engedéllyel rendelkező könyvvizsgálóra, ha Magyarországon kíván jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végezni, valamint
 
-h) a Könyvvizsgálói Közfelügyeleti Bizottságra.
+h) a könyvvizsgálói közfelügyeleti feladatokat ellátó szervezetre (a továbbiakban: közfelügyeleti hatóság).

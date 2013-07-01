@@ -1,6 +1,6 @@
 ## A kamarai tag könyvvizsgálók nyilvántartása, az adatok nyilvánossága
 
-32. § (1) A kamarai tag könyvvizsgálók nyilvántartásába azokat a természetes személyeket kell bejegyezni, akiket a kamara e törvény rendelkezései szerint tagjai közé felvett.
+32. § (1) A kamarai tag könyvvizsgálók nyilvántartásába azokat a természetes személyeket kell bejegyezni, akiket a kamara e törvény rendelkezései szerint tagjai közé felvett. A kamarai tag könyvvizsgálók nyilvántartása közhiteles nyilvántartásnak minősül.
 
 (2) A kamara a nyilvántartást központilag vezeti.
 

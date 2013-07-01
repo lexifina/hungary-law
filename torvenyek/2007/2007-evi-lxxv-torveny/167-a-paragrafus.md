@@ -1,1 +1,1 @@
-167/A. § A független ellenőr a könyvvizsgálóval, könyvvizsgáló céggel fennálló kapcsolatának megszűnésétől számított legalább két évig nem vehet részt ellenőrként olyan, jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló vagy könyvvizsgáló cég ellenőrzésében, amellyel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban volt.
+167/A. §

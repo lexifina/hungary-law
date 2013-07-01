@@ -1,4 +1,4 @@
-46. § (1) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég az ok megjelölésével közli a Könyvvizsgálói Közfelügyeleti Bizottsággal, ha a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre irányuló megbízásának időtartama alatt visszahívták vagy lemondott.
+46. § (1) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég az ok megjelölésével közli a közfelügyeleti hatósággal, ha a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre irányuló megbízásának időtartama alatt visszahívták vagy lemondott.
 
 (2) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég, amennyiben az (1) bekezdés szerinti megbízásának időtartama alatt visszahívták vagy lemondott – a külön jogszabály előírásainak figyelembevételével – az ok megjelölésével, illeték és közzétételi költségtérítés nélkül, hitelt érdemlő módon közli azt
 

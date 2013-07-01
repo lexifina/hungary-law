@@ -2,13 +2,13 @@
 
 ## EGYÜTTMŰKÖDÉS MÁS ÁLLAMOK ILLETÉKES HATÓSÁGAIVAL
 
-180. § (1) A Könyvvizsgálói Közfelügyeleti Bizottság – e törvény és a külön jogszabályok előírásainak figyelembevételével – az Európai Gazdasági Térség államai által a könyvvizsgálói közfelügyeleti tevékenység ellátásában történő részvételre kijelölt illetékes hatóságokkal (e fejezet alkalmazásában: illetékes hatóság) együttműködik, azokkal – az illetékes hatóságok feladatkörébe tartozó – adatokat, információkat cserélhet.
+180. § (1) A közfelügyeleti hatóság – e törvény és a külön jogszabályok előírásainak figyelembevételével – az Európai Gazdasági Térség államai által a könyvvizsgálói közfelügyeleti tevékenység ellátásában történő részvételre kijelölt illetékes hatóságokkal (e fejezet alkalmazásában: illetékes hatóság) együttműködik, azokkal – az illetékes hatóságok feladatkörébe tartozó – adatokat, információkat cserélhet.
 
-(2) A Könyvvizsgálói Közfelügyeleti Bizottság az illetékes hatóság megkeresésére köteles késedelem nélkül rendelkezésre bocsátani a kért adatot, információt. Ha a Könyvvizsgálói Közfelügyeleti Bizottság nem tudja a kért adatot, információt haladéktalanul rendelkezésre bocsátani, ennek okáról tájékoztatnia kell az illetékes hatóságot. A megkeresés teljesítésekor az illetékes hatóság figyelmét fel kell hívni arra, hogy a szolgáltatott adat, információ titoktartási kötelezettség alá tartozik és az csak a megkeresésben meghatározott célra használható fel.
+(2) A közfelügyeleti hatóság az illetékes hatóság megkeresésére köteles késedelem nélkül rendelkezésre bocsátani a kért adatot, információt. Ha a közfelügyeleti hatóság nem tudja a kért adatot, információt haladéktalanul rendelkezésre bocsátani, ennek okáról tájékoztatnia kell az illetékes hatóságot. A megkeresés teljesítésekor az illetékes hatóság figyelmét fel kell hívni arra, hogy a szolgáltatott adat, információ titoktartási kötelezettség alá tartozik és az csak a megkeresésben meghatározott célra használható fel.
 
-(3) A Könyvvizsgálói Közfelügyeleti Bizottság az illetékes hatóság megkeresésére vizsgálatot folytat le. Az illetékes hatóság ilyen irányú kérése esetén a vizsgálatban az illetékes hatóság által kijelölt személyek is részt vehetnek.
+(3) A közfelügyeleti hatóság az illetékes hatóság megkeresésére vizsgálatot folytat le. Az illetékes hatóság ilyen irányú kérése esetén a vizsgálatban az illetékes hatóság által kijelölt személyek is részt vehetnek.
 
-(4) A Könyvvizsgálói Közfelügyeleti Bizottság megtagadja az illetékes hatóságtól érkezett, (2) és (3) bekezdés szerinti megkeresés teljesítését, ha
+(4) A közfelügyeleti hatóság megtagadja az illetékes hatóságtól érkezett, (2) és (3) bekezdés szerinti megkeresés teljesítését, ha
 
 a) az információ átadása, a vizsgálat lefolytatása hátrányosan érintheti Magyarország szuverenitását, biztonságát, közrendjét vagy sérti a nemzetbiztonsági szabályokat, vagy
 

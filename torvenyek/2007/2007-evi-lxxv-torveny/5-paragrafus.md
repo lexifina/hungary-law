@@ -22,7 +22,7 @@ i) tanulmányok elismerése az okleveles könyvvizsgálói képzési programban,
 
 j) okleveles könyvvizsgálói képzés szervezésének, folytatásának engedélyezése gazdálkodó számára, oktatási tevékenység végzésének engedélyezése természetes személy számára, valamint az engedélyek visszavonása,
 
-k) minőségellenőrzés lefolytatása
+k) kamarai minőségellenőrzés lefolytatása
 
 l) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti, a kamarai tag könyvvizsgálóra, könyvvizsgáló cégre vonatkozó felügyeleti tevékenység gyakorlása
 

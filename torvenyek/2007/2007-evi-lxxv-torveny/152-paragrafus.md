@@ -16,7 +16,7 @@ g) kialakítja és megszervezi a minőségellenőrök oktatását, gondoskodik a
 
 h) kezdeményezi és alkalmazza az e törvényben meghatározott intézkedéseket,
 
-i) a lefolytatott minőségellenőrzés kapcsán határozatot hoz,
+i) a lefolytatott kamarai minőségellenőrzés kapcsán határozatot hoz,
 
 j) lefolytatja a pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzését szolgáló vizsgálatot, és első fokon határoz a vizsgálat befejezéséről.
 

@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésben foglaltakon túlmenően, rendkívüli minőségellenőrzést kell lefolytatni, ha azt
 
-a) a Könyvvizsgálói Közfelügyeleti Bizottság kezdeményezi,
+a) a közfelügyeleti hatóság kezdeményezi,
 
 b) a kamara fegyelmi megbízottja, fegyelmi bizottsága, szakértői bizottsága kezdeményezi,
 

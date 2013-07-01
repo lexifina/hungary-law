@@ -14,7 +14,7 @@ a) igazolja, hogy van legalább egy olyan, a megfelelő minősítéssel rendelke
 
 b) vállalja, hogy működése során az a kamarai tag könyvvizsgáló, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
 
-(4) A (2) és (3) bekezdés szerinti kérelem elbírálása során ki kell kérni az érintett állami szerv véleményét, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.
+(4) A (2) és (3) bekezdés szerinti kérelem elbírálása során ki kell kérni az érintett állami szerv véleményét, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek), kamarai minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.
 
 (5) A minősítés megadását meg kell tagadni,
 

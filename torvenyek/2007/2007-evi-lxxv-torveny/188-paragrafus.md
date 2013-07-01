@@ -1,1 +1,0 @@
-188. § A kamara gondoskodik arról, hogy a bizottság személyi összetétele, a bizottság ügyrendje, valamint a bizottság működésével összefüggő egyéb nyilvános adatok a honlapján folyamatosan és bárki számára szabadon hozzáférhetőek legyenek.

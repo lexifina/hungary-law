@@ -10,7 +10,7 @@ a) a minden kamarai tag könyvvizsgáló számára kötelező éves szakmai tov�
 
 b) a 49. § szerinti minősítéssel rendelkező kamarai tag könyvvizsgálók számára kialakított kötelező szakmai továbbképzést,
 
-c) azon kamarai tag könyvvizsgálók számára kialakított szakmai továbbképzést, akiket a minőségellenőrzés keretében köteleztek továbbképzésen való részvételre.
+c) azon kamarai tag könyvvizsgálók számára kialakított szakmai továbbképzést, akiket a minőségellenőrzés, a kamarai minőségellenőrzés keretében köteleztek továbbképzésen való részvételre.
 
 (3) A szakmai továbbképzési rendszer célja a szakmai kompetencia folyamatos fenntartása és fejlesztése.
 

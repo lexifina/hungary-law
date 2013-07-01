@@ -10,7 +10,7 @@ c) az irányító struktúra leírása,
 
 d) a belső minőségellenőrzési rendszer leírása és a legfelsőbb irányító (vezető) szerv nyilatkozata a rendszer működésének hatékonyságáról,
 
-e) annak jelzése, hogy mikor volt az utolsó kamarai minőségellenőrzés,
+e) annak jelzése, hogy mikor volt az utolsó minőségellenőrzés, kamarai minőségellenőrzés,
 
 f) azon közérdeklődésre számot tartó gazdálkodók felsorolása, amelyek számára a könyvvizsgáló cég az üzleti év során jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett,
 
@@ -23,3 +23,5 @@ i) a jelentőséget bemutató pénzügyi adatok (különösen a teljes árbevét
 j) információk a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálók díjazásának elveiről.
 
 (2) Az átláthatósági jelentést a könyvvizsgáló cégnek (aláírásra jogosult képviselőjének) alá kell írnia.
+
+(3) Az (1) és (2) bekezdés teljesítését a közfelügyeleti hatóság ellenőrzi.

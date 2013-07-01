@@ -1,4 +1,4 @@
-69. § (1) A kamara elkülönített jegyzéket vezet a harmadik országbeli könyvvizsgálókról.
+69. § (1) A kamara – közhiteles hatósági nyilvántartásnak minősülő – elkülönített jegyzéket vezet a harmadik országbeli könyvvizsgálókról.
 
 (2) A kamara jegyzékébe – kérelem alapján, a vonatkozó külön előírások figyelembevételével – fel kell venni azt a harmadik országbeli könyvvizsgálót, aki megfelel a következő feltételeknek:
 

@@ -1,1 +1,1 @@
-200. § A kamara azokat a határozatait, amelyekre a törvényességi felügyelet kiterjed, továbbá a kamara alapszabályát és egyéb önkormányzati szabályzatait – azok elfogadásától számított 15 napon belül – köteles megküldeni a miniszternek.
+200. § A kamara azokat a határozatait, amelyekre a miniszteri törvényességi felügyelet kiterjed, továbbá a kamara alapszabályát és egyéb önkormányzati szabályzatait – azok elfogadásától számított 15 napon belül – köteles megküldeni a miniszternek.
