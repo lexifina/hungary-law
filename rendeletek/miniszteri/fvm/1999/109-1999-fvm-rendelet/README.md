@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | 2012-08-14 | 1999-109-20-82.14 | 85/2012. (VIII. 6.) VM rendelet |
 | 2013-01-01 | 1999-109-20-82.15 | 148/2012. (XII. 28.) VM rendelet |
 | 2013-02-01 | 1999-109-20-82.16 | 117/2005. (XII. 19.) FVM rendelet |
+| 2013-07-01 | 1999-109-20-82.17 | 57/2013. (VI. 29.) VM rendelet |

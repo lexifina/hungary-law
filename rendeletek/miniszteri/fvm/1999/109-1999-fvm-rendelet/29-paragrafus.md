@@ -1,3 +1,3 @@
-## 24.[^67] Perindítás
+## 24.[^68] Perindítás
 
-[^67]: A 24. alcím a 48/2010. (IV. 27.) FVM rendelet 31. §-ával megállapított szöveg.
+[^68]: A 24. alcím a 48/2010. (IV. 27.) FVM rendelet 31. §-ával megállapított szöveg.

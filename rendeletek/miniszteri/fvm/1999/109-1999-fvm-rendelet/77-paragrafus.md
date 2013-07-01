@@ -1,6 +1,6 @@
-## 56.[^178] Több járási földhivatalt érintő beadvány benyújtása
+## 56.[^180] Több járási földhivatalt érintő beadvány benyújtása
 
-77. §[^179] (1) Ha a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 7. § (4) és (5) bekezdése szerinti kérelmet eredeti okiratokkal együtt ugyanazon a napon több járási földhivatalhoz is benyújtották, a döntés meghozatalára, valamint az ezzel kapcsolatos intézkedések megtételére az a járási földhivatal jogosult, amelynek illetékességi területén
+77. §[^181] (1) Ha a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 7. § (4) és (5) bekezdése szerinti kérelmet eredeti okiratokkal együtt ugyanazon a napon több járási földhivatalhoz is benyújtották, a döntés meghozatalára, valamint az ezzel kapcsolatos intézkedések megtételére az a járási földhivatal jogosult, amelynek illetékességi területén
 
 a) az eljárás több ingatlant érint, ennek hiányában
 
@@ -22,5 +22,5 @@ b) a bejegyzés alapjául szolgáló okiratban első helyen megjelölt ingatlan 
 
 (9) A (8) bekezdésben meghatározott döntésekkel kapcsolatos foganatosító intézkedésekre a (2) és (3) bekezdésben, azok közlésére pedig a (4) bekezdésben foglaltak megfelelően irányadók.
 
-[^178]: Az 56. alcím a 48/2010. (IV. 27.) FVM rendelet 69. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.
-[^179]: A 77. § a 148/2012. (XII. 28.) VM rendelet 12. §-ával megállapított szöveg.
+[^180]: Az 56. alcím a 48/2010. (IV. 27.) FVM rendelet 69. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.
+[^181]: A 77. § a 148/2012. (XII. 28.) VM rendelet 12. §-ával megállapított szöveg.

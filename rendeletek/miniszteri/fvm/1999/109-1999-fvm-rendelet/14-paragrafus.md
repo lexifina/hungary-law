@@ -1,4 +1,4 @@
-## 10.[^37] Elő- és visszavásárlási jog
+## 10.[^38] Elő- és visszavásárlási jog
 
 14. § (1) Elővásárlási jogot egész ingatlanra, egész tulajdoni illetőségre vagy ezek eszmei hányadára lehet bejegyezni.
 
@@ -6,4 +6,4 @@
 
 (3) Ha az elővásárlási, visszavásárlási jogot meghatározott időre kötötték ki, a bejegyzésben a jog gyakorlásának végső időpontját is fel kell tüntetni.
 
-[^37]: A 10. alcím a 48/2010. (IV. 27.) FVM rendelet 16. §-ával megállapított szöveg.
+[^38]: A 10. alcím a 48/2010. (IV. 27.) FVM rendelet 16. §-ával megállapított szöveg.
