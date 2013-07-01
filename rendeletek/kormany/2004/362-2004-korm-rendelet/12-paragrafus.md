@@ -1,1 +1,0 @@
-## Szakértő közreműködése az eljárásban
