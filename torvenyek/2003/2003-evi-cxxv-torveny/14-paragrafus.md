@@ -1,6 +1,6 @@
 14. § (1) Az Egyenlő Bánásmód Hatóság (a továbbiakban: hatóság)
 
-a)
+a) kérelem alapján, illetve az e törvényben meghatározott esetekben hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint kérelem alapján vizsgálatot folytat, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet, a vizsgálat alapján határozatot hoz;
 
 b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
 
@@ -20,6 +20,10 @@ i) közreműködik az Európai Unió Bizottsága számára az egyenlő bánásm�
 
 j)
 
-(2)
+(2) A hatóság a közvélemény folyamatos tájékoztatása érdekében jelentéseit, javaslatait, valamint a működésével kapcsolatos részletes információkat honlapján rendszeresen közzéteszi.
 
-(3)
+(3) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az alapvető jogok biztosa, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
+
+(4) Az eljárásban az ügyintézési határidő hetvenöt nap.
+
+(5) A hatóság a kiskorú ügyfél érdekeinek veszélyeztetettsége esetén soron kívül, de legkésőbb negyvenöt napon belül dönt.

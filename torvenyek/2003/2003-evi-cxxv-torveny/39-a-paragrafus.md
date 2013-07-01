@@ -1,0 +1,1 @@
+39/A. § A hatóság elnöke a vonatkozó jogszabályoknak megfelelően irányítja a hatóság gazdálkodását, ellátja képviseletét és gyakorolja a munkáltatói jogokat az elnökhelyettes és a hatóság köztisztviselői tekintetében.
