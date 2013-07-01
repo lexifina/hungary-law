@@ -11,3 +11,5 @@
 (4) Az adózó a kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
 
 (5) A kisadózó vállalkozások tételes adója és a kisvállalati adó a központi költségvetés bevétele.
+
+(6) Az állami adóhatóság által a kisvállalati adóalanyiságot, illetve a kisadózó vállalkozások tételes adóját választó adózókról, továbbá a kisadózókról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.

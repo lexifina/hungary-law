@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2013-01-01 | 2012. évi CCVIII. törvény | 2012-147-00-00.5 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-147-00-00.6 |
 | 2013-04-21 | 2013. évi XXXVII. törvény | 2012-147-00-00.7 |
+| 2013-07-01 | 2012. évi CCXXIII. törvény | 2012-147-00-00.8 |
