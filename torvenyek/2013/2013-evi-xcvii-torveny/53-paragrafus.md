@@ -4,4 +4,4 @@
 
 ## 32. Előzetes alkalmasság megállapítása
 
-53–54. §
+53. § A hadköteles nyilvántartásban a kiképzett tartalékos egészségi alkalmassága a hivatásos, a szerződéses vagy az önkéntes tartalékos szolgálati viszony megszűnésekor vagy megszüntetésekor érvényes, a személyügyi nyilvántartásban szereplő egészségügyi alkalmassága alapján kerül folyamatosan rögzítésre.

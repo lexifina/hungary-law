@@ -4,4 +4,4 @@
 
 ## 19. Személyes adatszolgáltatási kötelezettség
 
-36. §
+36. § A hadkötelezettség bevezetését követően a rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a nyilvántartott adatok pontosításához a lakóhelye szerint illetékes járási hivatal vezetőjének és a katonai igazgatási központnak – azok megkeresésére – köteles adatot szolgáltatni a katonai szolgálat tervezését és teljesítését befolyásoló, a 4. melléklet a)–f) és t) pontjában meghatározott adatairól.
