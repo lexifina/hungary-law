@@ -1,0 +1,3 @@
+2. § (1) A teljesítményértékelés kötelező elemeinek megállapítása, továbbá mérése, illetve értékelése e rendelet 1–3. mellékleteiben szereplő értékelő lapokon történik, elektronikus formában.
+
+(2) Az (1) bekezdéstől eltérően a hivatásos állomány tagja vonatkozásában a Kormány fegyveres szervet irányító tagja, az Országgyűlési Őrség esetén a rendészetért felelős miniszter (a továbbiakban együtt: fegyveres szervet irányító miniszter), a katonai állomány tagjai vonatkozásában a honvédelemért felelős miniszter rendelkezhet úgy, hogy a teljesítményértékelés kötelező elemeinek megállapítása, továbbá mérése, illetve értékelése papír alapon e rendelet 1–3. mellékleteiben szereplő értékelő lapokon történik.

@@ -1,0 +1,9 @@
+# 10/2013. (I. 21.) Korm. rendelet
+
+a közszolgálati egyéni teljesítményértékelésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-10-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-07-01 | 2013-10-20-22.1 | 10/2013. (I. 21.) Korm. rendelet |
