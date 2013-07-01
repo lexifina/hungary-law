@@ -2,7 +2,7 @@
 
 ## 2. A régészeti lelőhely és a műemléki érték védetté nyilvánításának előkészítése
 
-2. § (1) A régészeti lelőhely és a műemléki érték védetté nyilvánítása (a továbbiakban együtt: védetté nyilvánítás) a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának önálló feladat- és hatáskörrel rendelkező szervezeti egységénél (a továbbiakban: örökségvédelmi iroda) kezdeményezhető.
+2. § (1)[^1] A régészeti lelőhely és a műemléki érték védetté nyilvánítása (a továbbiakban együtt: védetté nyilvánítás) a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaságnál (a továbbiakban: örökségvédelmi iroda) kezdeményezhető.
 
 (2) A védetté nyilvánítás előkészítését az örökségvédelmi iroda hivatalból is megindíthatja. A hivatalból megindítandó előkészítésekre a régészeti örökség és műemléki érték védelméért felelős miniszter (a továbbiakban: miniszter) utasítást adhat az örökségvédelmi irodának.
 
@@ -19,3 +19,5 @@ b) a kezdeményezés olyan régészeti lelőhely védetté nyilvánítására vo
 (6) Azokban az esetekben, amelyekben a miniszter nem tagadta meg a védetté nyilvánítást a (4) bekezdés szerint, a védetté nyilvánítás előkészítése során az örökségvédelmi iroda védetté nyilvánítási dokumentációt készít.
 
 (7) Az örökségvédelmi iroda a (6) bekezdés szerinti esetben a Kötv. 14. §-a és 29. §-a szerinti értesítést megelőzően egyeztetést folytat le az illetékes járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatalával (a továbbiakban: járási építésügyi és örökségvédelmi hivatal) az esetleges ideiglenes védelem alá helyezés tárgyában.
+
+[^1]: A 2. § (1) bekezdése a 28/2013. (VI. 27.) BM rendelet 4. §-a szerint módosított szöveg.
