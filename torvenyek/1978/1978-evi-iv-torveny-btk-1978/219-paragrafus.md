@@ -1,3 +1,0 @@
-## Feljelentés elmulasztása
-
-### 219. §

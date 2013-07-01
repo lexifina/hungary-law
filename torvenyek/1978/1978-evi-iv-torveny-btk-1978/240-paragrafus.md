@@ -1,1 +1,0 @@
-240. § Hamis tanúzás miatt mindaddig, amíg az az ügy, amelyben a hamis tanúzást elkövették (alapügy) nem fejeződik be, büntetőeljárás csak az alapügyben eljáró hatóság feljelentése alapján indítható. Az ilyen feljelentés esetét kivéve a hamis tanúzás elévülése az alapügy befejezésének napján kezdődik.

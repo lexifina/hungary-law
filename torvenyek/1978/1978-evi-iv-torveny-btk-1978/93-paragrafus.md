@@ -1,1 +1,0 @@
-93. § Az összbüntetés tartamát úgy kell meghatározni, mintha halmazati büntetést szabnának ki. Az összbüntetés tartamának azonban el kell érnie a legsúlyosabb büntetést, de nem érheti el a büntetések együttes tartamát.

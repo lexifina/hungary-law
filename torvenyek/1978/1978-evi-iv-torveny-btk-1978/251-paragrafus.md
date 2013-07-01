@@ -1,3 +1,0 @@
-251. § (1) A költségvetési szervnek, gazdálkodó szervezetnek vagy a egyesületnek az a dolgozója, illetőleg tagja, aki a működésével kapcsolatban jogtalan előnyt kér, vagy a kötelességének megszegéséért az ilyen előnyt, illetve annak ígéretét elfogadja, vagy a jogtalan előny kérőjével vagy elfogadójával egyetért, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Ha az elkövető a jogtalan előnyért a kötelességét megszegi, bűntettet követ el, és egy évtől öt évig, fontosabb ügyben történt kötelességszegés esetén, illetőleg ha a cselekményt bűnszövetségben vagy üzletszerűen követi el, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.

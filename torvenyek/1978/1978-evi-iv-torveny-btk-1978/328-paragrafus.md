@@ -1,3 +1,0 @@
-## Vásárlók megkárosítása
-
-### 328. §

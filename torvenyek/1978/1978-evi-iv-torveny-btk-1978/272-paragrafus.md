@@ -1,3 +1,0 @@
-## Közszemérem megsértése
-
-### 272. §

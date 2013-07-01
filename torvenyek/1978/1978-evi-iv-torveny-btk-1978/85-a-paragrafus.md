@@ -1,3 +1,0 @@
-85/A. § (1) Együttműködő terhelt tárgyalásról lemondása esetén (Be. 537. §) a 85. § (1)–(2) bekezdéseinek rendelkezései irányadók azzal, hogy a büntetést a bűnhalmazatban lévő bűncselekményekre a 87/C. § alapján kiszabható büntetések közül a legsúlyosabbnak az alapulvételével kell kiszabni.
-
-(2) Együttműködő terhelt tárgyalásról lemondása esetén (Be. 537. §), ha a törvény a bűnhalmazatban lévő bűncselekmények közül legalább kettőre határozott ideig tartó szabadságvesztést rendel, a 87/C. § alapján kiszabható legsúlyosabb büntetési tétel felső határa a felével emelkedik, de az nem érheti el az egyes bűncselekményekre a 87/C. § alapján kiszabható büntetések együttes tartamát.
