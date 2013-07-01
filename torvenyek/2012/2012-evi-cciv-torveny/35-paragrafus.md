@@ -6,7 +6,7 @@
 
 35. § (1) Az Országgyűlés a köznevelési közfeladatot ellátó intézményt fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos, területi, települési nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a köznevelési feladatot alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami köznevelési intézmény fenntartója) részére normatív és egyéb hozzájárulást állapít meg a következők szerint:
 
-a) a nem állami köznevelési intézmény fenntartóját 2013. augusztus 31-éig – a b) pontban meghatározott 5. melléklet szerinti támogatások esetén 2013. december 31-éig – megillető normatív és egyéb hozzájárulásra a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: 2012. évi költségvetési törvény) 2012. december 31-én hatályos 38. § (1) bekezdés a)–e) és h) pontjának, (2), (3) és (5)–(9) bekezdését a b)–s) pontban meghatározott eltéréssel kell alkalmazni azzal, hogy
+a) a nem állami köznevelési intézmény fenntartóját 2013. szeptember 30-áig – a b) pontban meghatározott 5. melléklet szerinti támogatások esetén 2013. december 31-éig – megillető normatív és egyéb hozzájárulásra a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: 2012. évi költségvetési törvény) 2012. december 31-én hatályos 38. § (1) bekezdés a)–e) és h) pontjának, (2), (3) és (5)–(9) bekezdését a b)–s) pontban meghatározott eltéréssel kell alkalmazni azzal, hogy
 
 aa) az óvodai, iskolai, kollégiumi étkeztetés támogatására a nem állami köznevelési intézmény fenntartóját az általa étkeztetett gyermekek, tanulók után a támogatás nem a 2012. évi költségvetési törvény szerint, hanem a 2. melléklet II. pont 3. b) alpontban meghatározott támogatással azonos összegben és azonos feltételek mellett illeti meg,
 
@@ -48,9 +48,9 @@ r) a Közokt. tv. 86. § (6) bekezdése és a kiegészítő kisebbségi oktatás
 
 s) a Közokt. tv. és végrehajtási rendeletei alatt az Nkt.-t és végrehajtási rendeleteit is érteni kell,
 
-t) a nem állami köznevelési intézmény finanszírozására 2013. szeptember 1-jétől a (2) bekezdése szerinti törvényben meghatározott szabályokat kell alkalmazni.
+t) a nem állami köznevelési intézmény finanszírozására 2013. október 1-jétől a (2) bekezdése szerinti törvényben meghatározott szabályokat kell alkalmazni.
 
-(2) A Kormány a nem állami köznevelési intézmény 2013. szeptember 1-jétől alkalmazandó törvényi finanszírozási szabályait 2013. június 30-áig dolgozza ki és nyújtja be az Országgyűlés részére.
+(2) A Kormány a nem állami köznevelési intézmény 2013. október 1-jétől alkalmazandó törvényi finanszírozási szabályait 2013. szeptember 1-jéig dolgozza ki és nyújtja be az Országgyűlés részére.
 
 (3) Az Országgyűlés a szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami szociális fenntartó) részére támogatást állapít meg a következők szerint:
 
