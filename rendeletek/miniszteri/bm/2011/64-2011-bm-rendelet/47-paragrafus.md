@@ -1,5 +1,3 @@
-## 30. Az állomány minősítése, jellemzése
+## 30.[^36]
 
-47. § (1) A hivatásos állomány tagjával a minősítő ismerteti a minősítéssel, valamint a szolgálati jellemzéssel kapcsolatos jogait.
-
-(2) A hivatásos állománynak a büntetés-végrehajtás gazdálkodó szervezetéhez vezényelt és minősítésre kötelezett tagját az állományilletékes parancsnok a gazdálkodó szervezet vezetőjének írásbeli véleménye alapján minősíti.
+[^36]: A 30. alcímet (47–50. §-t) a 81/2012. (XII. 28.) BM rendelet 26. § (3) bekezdése hatályon kívül helyezte.

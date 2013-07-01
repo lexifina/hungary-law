@@ -14,7 +14,7 @@ d) az iskolai végzettség megszerzésére vonatkozó előírást,
 
 e) a kitüntetést, a jutalmazást,
 
-f)[^39] a fegyelmi eljárással és a méltatlansági eljárással kapcsolatos intézkedéseket,
+f)[^40] a fegyelmi eljárással és a méltatlansági eljárással kapcsolatos intézkedéseket,
 
 g) az illetmény nélküli szabadság, a rész-szolgálatteljesítési idő engedélyezését,
 
@@ -22,7 +22,7 @@ h) a szolgálati viszony szünetelését,
 
 i) a névváltozás átvezetését,
 
-j)[^40] a fegyveres szervek közötti, továbbá a fegyveres szervek és a Magyar Honvédség között történő áthelyezést, a vezénylést, a helyettesítésre történő megbízást,
+j)[^41] a fegyveres szervek közötti, továbbá a fegyveres szervek és a Magyar Honvédség között történő áthelyezést, a vezénylést, a helyettesítésre történő megbízást,
 
 k) a rendelkezési állományba helyezést, annak megszüntetését,
 
@@ -44,5 +44,5 @@ n) mindazokat a döntéseket, amelyek az addig hatályos állományparancs vagy 
 
 (8) Központi hatáskörben vagy más szerv által kiadott állományparancs vagy határozat intézkedésre megküldött példányait személyi iratként kell kezelni, és az iratkezelési szabályzatnak megfelelően az irattári terv előírásai szerint kell selejtezni.
 
-[^39]: A 64. § (2) bekezdés f) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés q) pontja szerint módosított szöveg.
-[^40]: A 64. § (2) bekezdés j) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés r) pontja szerint módosított szöveg.
+[^40]: A 64. § (2) bekezdés f) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés q) pontja szerint módosított szöveg.
+[^41]: A 64. § (2) bekezdés j) pontja a 81/2012. (XII. 28.) BM rendelet 25. § (1) bekezdés r) pontja szerint módosított szöveg.
