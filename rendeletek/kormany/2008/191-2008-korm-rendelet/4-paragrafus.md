@@ -24,7 +24,7 @@ b) a pályázat benyújtásának helyét, határidejét és módját,
 
 c) a pályázat benyújtásának feltételeit, elbírálásának szakmai szempontrendszerét,
 
-d)[^26] támogató szolgáltatás, közösségi alapellátások és jelzőrendszeres házi segítségnyújtás esetén a kötelezően teljesítendő feladatmutatót, általános pályázat esetén az alaptámogatás és az egy feladategységre jutó támogatás várható összegét, egyéb esetben összegét, a feladatmutató számításának módját, valamint kiegészítő működési támogatás biztosítása esetén annak feltételeit,
+d)[^26] támogató szolgáltatás és közösségi alapellátások esetén a kötelezően teljesítendő feladatmutatót, általános pályázat esetén az alaptámogatás és az egy feladategységre jutó támogatás várható összegét, egyéb esetben összegét, a feladatmutató számításának módját, valamint kiegészítő működési támogatás biztosítása esetén annak feltételeit,
 
 e)[^27] alacsonyküszöbű ellátás és utcai szociális munka esetén a működési támogatás alapjául szolgáló ellátási területeket, az egyes ellátási területekhez tartozó működési támogatás összegét és az adott ellátási területen támogatható szolgáltatók számát,
 
@@ -45,7 +45,7 @@ j)[^28] krízisközpont esetén a támogatás alapjául szolgáló szolgáltatá
 [^23]: A 4. § (1) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 36. § (4) bekezdésének ca) alpontja szerint módosított szöveg. E módosító rendelet 35. § (4) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^24]: A 4. § (2) bekezdés b) pontja a 140/2011. (VII. 21.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^25]: A 4. § (4) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^26]: A 4. § (5) bekezdés d) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont cb) alpontja szerint módosított szöveg.
+[^26]: A 4. § (5) bekezdés d) pontja a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^27]: A 4. § (5) bekezdés e) pontja a 140/2011. (VII. 21.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
 [^28]: A 4. § (5) bekezdés j) pontját a 140/2011. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
 [^29]: A 4. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés a) pontja szerint módosított szöveg.
