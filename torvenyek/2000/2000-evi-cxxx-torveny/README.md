@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-130-00-00
 | --- | --- | --- |
 | 2001-01-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2000-130-00-00.1 |
 | 2012-01-01 | 2011. évi CL. törvény | 2000-130-00-00.2 |
+| 2013-07-01 | 2012. évi CCXXIII. törvény | 2000-130-00-00.3 |
