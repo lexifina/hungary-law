@@ -1,0 +1,1 @@
+25. § A Nemzeti Foglalkoztatási Alapból (a továbbiakban: NFA), valamint európai uniós forrásokból felnőtt képzéséhez nyújtható, foglalkoztatás elősegítését célzó képzési támogatás szabályait a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény és a felhatalmazása alapján kiadott jogszabály tartalmazza.
