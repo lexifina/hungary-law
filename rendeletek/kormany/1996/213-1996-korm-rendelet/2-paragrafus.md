@@ -34,5 +34,8 @@ g) az utazási vállalkozó által végzett tevékenységek (utazásszervező, i
 
 h) az utazási vállalkozás engedélyének visszavonására, felfüggesztésére vonatkozó bejegyzést, az ezeket elrendelő határozat számát és keltét.
 
+(8)[^5] A (7) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 [^3]: A 2. § a 182/2009. (IX. 10.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^4]: A 2. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (12) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^5]: A 2. § (8) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
