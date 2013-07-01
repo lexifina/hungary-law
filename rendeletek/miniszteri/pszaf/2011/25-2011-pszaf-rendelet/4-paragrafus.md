@@ -1,4 +1,4 @@
-4. §[^1] (1) Az adatszolgáltató
+4. §[^2] (1) Az adatszolgáltató
 
 a) a napi jelentést a tárgyidőszakot követő 5. munkanap 09:00 óráig,
 
@@ -6,7 +6,7 @@ b) a negyedéves és a féléves jelentést a tárgyidőszakot követő hónap 2
 
 c) az éves jelentést és az éves beszámolót legkésőbb a tárgyévet követő év május 31-ig,
 
-d) az adatszolgáltató törzsadatairól szóló, tárgyév június 30-i állapotot tükröző rendszeres jelentést a második negyedévre vonatkozó negyedéves jelentéssel egyidejűleg a tárgynegyedévet követő hónap 20. munkanapjáig, az időközi változások miatti törzsadat jelentést, eltérő jogszabályi rendelkezés hiányában a változást követő 15 munkanapon belül,
+d)[^3]
 
 e) az egyesített (összesített) éves pénztári beszámolót legkésőbb a tárgyévet követő év május 31-ig,
 
@@ -22,4 +22,5 @@ g) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCV
 
 (4) A felszámolás alatt álló pénztár a negyedéves, illetve féléves jelentést a felszámolás megkezdését megelőző nappal, mint fordulónappal – e rendeletben meghatározott formában és tartalommal – köteles elkészíteni és 30 munkanapon belül a Felügyeletnek megküldeni. A felszámolás időtartama alatt a pénztárnak negyedéves, illetve féléves jelentést nem kell készítenie.
 
-[^1]: A 4. § a 23/2012. (XI. 21.) PSZÁF rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § a 23/2012. (XI. 21.) PSZÁF rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdés d) pontját a 3/2013. (IV. 26.) PSZÁF rendelet 7. § k) pontja hatályon kívül helyezte.
