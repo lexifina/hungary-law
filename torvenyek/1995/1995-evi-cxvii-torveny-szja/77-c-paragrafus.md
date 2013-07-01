@@ -128,6 +128,8 @@ h) a gazdasági társaság és a kibocsátó (jogelődjük) a kérelem benyújt�
 
 i) a gazdasági társaság, a kérelemben megnevezett kapcsolt vállalkozása és a kibocsátó (jogelődjük) a kérelem benyújtását megelőző három naptári éven belül és a kérelem benyújtásának évében a kérelem benyújtásáig nem állt csődeljárás vagy felszámolás (annak megfelelő, külföldi jog szerinti eljárás) hatálya alatt.
 
+(19a) A Nemzeti Adó- és Vámhivatal elnöke az elismert munkavállalói értékpapír-juttatási programokról e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon nyilvántartást vezet, amely közhiteles hatósági nyilvántartásnak minősül.
+
 (20) A Nemzeti Adó- és Vámhivatal elnöke a nyilvántartásba vételt megtagadja, ha
 
 a) a kérelemben bemutatott program nem felel meg az e törvényben meghatározott összes feltételnek;

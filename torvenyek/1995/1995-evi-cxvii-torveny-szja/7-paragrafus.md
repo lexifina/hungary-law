@@ -84,6 +84,12 @@ z) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról
 
 (1a) A 3. § 89. pontjától eltérően nem szerez bevételt a díjfizetés időpontjában a biztosított magánszemély, ha a biztosító teljesítésére – korlátozások nélkül – a díjat fizető személy jogosult.
 
-(2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy, vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely a Büntető Törvénykönyvben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel.
+(2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely
+
+a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban,
+
+b) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatározott vesztegetés, vesztegetés elfogadása, hivatali vesztegetés, hivatali vesztegetés elfogadása, vesztegetés bírósági vagy hatósági eljárásban, vesztegetés elfogadása bírósági vagy hatósági eljárásban vagy befolyással üzérkedés
+
+bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel.
 
 (3) Ahol e törvény valamely rendelkezését a magánszemély tevékenységéből származó bevételi értékhatártól függően kell vagy lehet alkalmazni, az értékhatár a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatás (ideértve különösen az egységes területalapú támogatást is) összegével – ha e törvény eltérően nem rendelkezik – megemelkedik.

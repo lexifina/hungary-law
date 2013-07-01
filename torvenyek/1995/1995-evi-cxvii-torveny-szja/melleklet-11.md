@@ -663,9 +663,3 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 1.
 
 2. a pénzügyi ellenőrzés alapján megállapított adórövidítésből, egyéb jogszabály megsértéséből keletkező befizetés (bírság, késedelmi pótlék stb.), kivéve az önellenőrzési pótlékot, és az olyan adóra vonatkozó adóhiányt, amely jogszerű teljesítés esetén egyébként költségként elszámolható lett volna;
-
-3. a bármilyen címen felvett hitelre (kölcsönre) visszafizetett összeg;
-
-4. azok a befizetési kötelezettségek, amelyekkel összefüggésben a magánszemély adócsökkentést vett igénybe;
-
-5. a tagdíjak, ha törvény másként nem rendelkezik;
