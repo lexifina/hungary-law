@@ -1,1 +1,0 @@
-Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. §-a (2) bekezdésének j) pontjában, valamint 62. §-ának (4) bekezdésében, továbbá a fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontjában kapott felhatalmazás alapján – az érintett miniszterekkel egyetértésben – a következőket rendeljük el:
