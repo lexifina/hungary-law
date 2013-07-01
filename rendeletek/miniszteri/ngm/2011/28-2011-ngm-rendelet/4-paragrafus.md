@@ -1,15 +1,15 @@
-4. § (1)[^20] Ha a nyilvántartásból való törlésre a 3/A. § (1) bekezdés a)–f) pontja szerinti okot adó körülmény merült fel, a belső ellenőr köteles ezt a miniszter részére a körülmény bekövetkeztét követő 30 napon belül az 1. melléklet szerinti kérelem kitöltésével írásban bejelenteni.
+4. § (1)[^18] Ha a nyilvántartásból való törlésre a 3/A. § (1) bekezdés a)–f) pontja szerinti okot adó körülmény merült fel, a belső ellenőr köteles ezt a miniszter részére a körülmény bekövetkeztét követő 30 napon belül az 1. melléklet szerinti kérelem kitöltésével írásban bejelenteni.
 
-(2)[^21] Ha a 3/A. § (1) bekezdés b), c) vagy f) pontjaiban meghatározott, a nyilvántartásból való törlésre okot adó körülmény merült fel, a belső ellenőr vagy a képviseletében eljárni jogosult személy köteles az (1) bekezdés szerinti bejelentés mellékleteként megküldeni a törlés alapjául szolgáló bírósági döntés másolatát.
+(2)[^19] Ha a 3/A. § (1) bekezdés b), c) vagy f) pontjaiban meghatározott, a nyilvántartásból való törlésre okot adó körülmény merült fel, a belső ellenőr vagy a képviseletében eljárni jogosult személy köteles az (1) bekezdés szerinti bejelentés mellékleteként megküldeni a törlés alapjául szolgáló bírósági döntés másolatát.
 
-(3)[^22] A 3/A. § (1) bekezdés g) pontja szerinti esetben a nyilvántartásból való törlésre a halotti anyakönyvi kivonat másolata vagy a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvényben foglalt kezelő központi szerv igazolása alapján hivatalból, díjmenetesen kerül sor. Ebben az esetben a törlést a munkáltató kezdeményezi.
+(3)[^20] A 3/A. § (1) bekezdés g) pontja szerinti esetben a nyilvántartásból való törlésre a halotti anyakönyvi kivonat másolata vagy a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvényben foglalt kezelő központi szerv igazolása alapján hivatalból, díjmenetesen kerül sor. Ebben az esetben a törlést a munkáltató kezdeményezi.
 
-(4)[^23] A 3/A. § (1) bekezdésében meghatározott körülmények ellenőrzéséről a miniszter legalább évente intézkedik.
+(4)[^21] A 3/A. § (1) bekezdésében meghatározott körülmények ellenőrzéséről a miniszter legalább évente intézkedik.
 
-(5)[^24] A belső ellenőr – a 3/A. § (1) bekezdés g) pontja szerinti törlés kivételével – köteles a törlésről haladéktalanul értesíteni a munkáltatói jogok gyakorlóját (megbízóját).
+(5)[^22] A belső ellenőr – a 3/A. § (1) bekezdés g) pontja szerinti törlés kivételével – köteles a törlésről haladéktalanul értesíteni a munkáltatói jogok gyakorlóját (megbízóját).
 
-[^20]: A 4. § (1) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 11. és 12. pontja szerint módosított szöveg.
-[^21]: A 4. § (2) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 11. és 13. pontja szerint módosított szöveg.
-[^22]: A 4. § (3) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 14. pontja és 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^23]: A 4. § (4) bekezdése a 26/2013. (VI. 28.) NGM rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^24]: A 4. § (5) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 13. pontja szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 11. és 12. pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 11. és 13. pontja szerint módosított szöveg.
+[^20]: A 4. § (3) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 14. pontja és 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 4. § (4) bekezdése a 26/2013. (VI. 28.) NGM rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^22]: A 4. § (5) bekezdése a 23/2012. (VIII. 6.) NGM rendelet 9. § 13. pontja szerint módosított szöveg.

@@ -82,6 +82,6 @@
 
 ## Kérelmező aláírása
 
-2–3. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^47]
+2–3. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^45]
 
-[^47]: A 2–3. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^45]: A 2–3. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.

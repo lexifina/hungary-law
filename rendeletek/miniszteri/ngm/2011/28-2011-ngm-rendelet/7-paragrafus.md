@@ -8,6 +8,6 @@
 
 (3) Az „ÁBPE-továbbképzés II.” teljesítésének kötelezettsége a belső ellenőrt az „ÁBPE-továbbképzés I.” sikeres elvégzését követően kétévente (naptári évben számolva) terheli.
 
-(4)–(8)[^28]
+(4)–(8)[^26]
 
-[^28]: A 7. § (4)–(8) bekezdését a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 7. § (4)–(8) bekezdését a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
