@@ -6,6 +6,12 @@ aa) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90-ből a
 
 ab) belföldi utazásszervezés (TEÁOR'08 79.12.-ből belföldi előre összeállított utazási csomagok értékesítése),
 
+ac)[^12] a szálláshelyen igénybe vehető, és a szálláshelyen a szálláshely-szolgáltatással együttesen fizethető bármely szolgáltatás,
+
+ad)[^13] fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyfürdők tevékenysége),
+
+ae)[^14] máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás).
+
 b) az SZJA törvény 71. § (1) bekezdés c) pont cb) alpontja szerinti vendéglátás alszámla terhére
 
 ba) éttermi és mozgó vendéglátás (TEÁOR'08 56.10.),
@@ -13,6 +19,10 @@ ba) éttermi és mozgó vendéglátás (TEÁOR'08 56.10.),
 bb) egyéb vendéglátás (TEÁOR'08 56.29.),
 
 bc) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90-ből a családi panzió szolgáltatása),
+
+bd)[^15] fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyfürdők tevékenysége),
+
+be)[^16] máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás).
 
 c) az SZJA törvény 71. § (1) bekezdés c) pont cc) alpontja szerinti szabadidő alszámla terhére
 
@@ -32,7 +42,7 @@ cg) fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04.),
 
 ch) testedzési szolgáltatás (TEÁOR'08 93.13),
 
-ci)[^12] egyéb sporttevékenység (TEÁOR'08 93.19-ből a verseny- és lovaglóistállók tevékenysége, a sporthorgászat és a sportesemények rendezése, szervezése, promóciója tevékenységből a szabadidős sportrendezvények nevezési, regisztrációs díja),
+ci)[^17] egyéb sporttevékenység (TEÁOR'08 93.19-ből a verseny- és lovaglóistállók tevékenysége, a sporthorgászat és a sportesemények rendezése, szervezése, promóciója tevékenységből a szabadidős sportrendezvények nevezési, regisztrációs díja),
 
 cj) belvízi személyszállítás (TEÁOR'08 50.30.),
 
@@ -52,4 +62,9 @@ cp) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30., 55.90-ből a
 
 [^10]: Az 5. § a 317/2011. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^11]: Az 5. § (1) bekezdése a 301/2012. (X. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^12]: Az 5. § (1) bekezdés c) pont ci) alpontja a 198/2013. (VI. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 5. § (1) bekezdés a) pont ac) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^13]: Az 5. § (1) bekezdés a) pont ad) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^14]: Az 5. § (1) bekezdés a) pont ae) alpontját a 198/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^15]: Az 5. § (1) bekezdés b) pont bd) alpontját a 198/2013. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^16]: Az 5. § (1) bekezdés b) pont be) alpontját a 198/2013. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^17]: Az 5. § (1) bekezdés c) pont ci) alpontja a 198/2013. (VI. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
