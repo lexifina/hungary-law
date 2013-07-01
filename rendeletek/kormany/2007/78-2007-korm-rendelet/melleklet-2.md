@@ -56,7 +56,7 @@
 
 | 9. Cím: ……………….. ….…………………………………….............................. irányítószám település neve …………………….………………………………….… ……………… utca, út, tér házszám | 12. Értesítési cím: ………………. ………………….……………………………………........................... irányítószám település neve ………………………………….…………………………………….… ……………. utca, út, tér házszám |
 
-## Jogelőd ügyfél adatai[^7] (Az esetleges további jogelődöket a JOGE lapon kell felsorolni)
+## Jogelőd ügyfél adatai[^8] (Az esetleges további jogelődöket a JOGE lapon kell felsorolni)
 
 | 13. KÜJ (Környezetvédelmi Ügyfél Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 14. KSH statisztikai számjel: ⬜⬜⬜⬜⬜⬜⬜⬜- ⬜⬜⬜⬜- ⬜⬜⬜- ⬜⬜ |
 
@@ -254,7 +254,7 @@
 
 | 2. KTJ (Környezetvédelmi Terület Jel): ⬜⬜⬜⬜⬜⬜⬜⬜⬜ vagy KTJ lapsorszám: ⬜⬜⬜ |
 
-## Telephelyen található környezetvédelmi objektumok azonosítói[^8]
+## Telephelyen található környezetvédelmi objektumok azonosítói[^9]
 
 | 3. Változás kód | 4. KTJ (Környezetvédelmi Terület Jel) | vagy KTJ lapsorszám |
 
@@ -396,5 +396,5 @@ P. H.
 
 cégszerű aláírás
 
-[^7]: Változásjelentés esetén a jogelőd ügyfél mezőket üresen kell hagyni! A jogelőd javításához vagy esetleges megváltozásának bejelentéséhez a JOGE pótlapot kell használni!
-[^8]: Az objektum KTJ száma és az objektum KTJ lapsorszáma közül egyszerre csak az egyik lehet kitöltve!
+[^8]: Változásjelentés esetén a jogelőd ügyfél mezőket üresen kell hagyni! A jogelőd javításához vagy esetleges megváltozásának bejelentéséhez a JOGE pótlapot kell használni!
+[^9]: Az objektum KTJ száma és az objektum KTJ lapsorszáma közül egyszerre csak az egyik lehet kitöltve!
