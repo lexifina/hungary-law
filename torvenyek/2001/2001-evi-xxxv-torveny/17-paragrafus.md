@@ -2,13 +2,15 @@
 
 17. § (1) A Hatóság
 
-a) nyilvántartásba veszi a 7. § (1) bekezdése, illetve a 8. § (1) bekezdése szerinti szolgáltatókat, a 7. § (2) bekezdése szerinti személyeket (szervezeteket);
+a) nyilvántartásba veszi a 7. § (1) bekezdése, illetve a 8. § (1) bekezdése szerinti szolgáltatókat, a 7. § (5) bekezdése szerinti személyeket (szervezeteket);
 
 b) a szolgáltatók működésének időtartama alatt vizsgálja, illetőleg ellenőrzi, hogy a szolgáltatók megfelelnek-e az e törvény, a felhatalmazása alapján kiadott jogszabályok, a szolgáltatási szabályzat, illetve az általános szerződési feltételek előírásainak;
 
 c) a b) pontban foglalt követelmények nem teljesítése esetén a 21–23. § szerinti intézkedéseket és szankciókat alkalmazza;
 
 d) nyilvántartásokat vezet, és ezeket közcélú távközlő hálózatok segítségével bárki számára hozzáférhető és folyamatosan elérhető módon közzéteszi.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A Hatóság eljárásaira a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt kell alkalmazni.
 

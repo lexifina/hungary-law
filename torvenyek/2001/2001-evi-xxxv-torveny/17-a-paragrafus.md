@@ -4,6 +4,8 @@
 
 (3) A Hatóság a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(3a) A (3) bekezdés szerinti nyilvántartás az engedélyezett szakértői tevékenység tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A Hatóság az elektronikus aláírási szolgáltatási szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e, és nem áll-e a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a Hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy az elektronikus aláírási szolgáltatási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
 (5) A (4) bekezdés alapján megismert személyes adatokat a Hatóság a hatósági ellenőrzés időtartamára vagy az elektronikus aláírási szolgáltatási szakértői nyilvántartásból való törlésről szóló döntés jogerőre emelkedéséig kezeli.

@@ -20,4 +20,6 @@ b) a külföldi hitelesítés-szolgáltató teljesíti az Európai Közösség v
 
 (6) A hitelesítés-szolgáltató a felelősségvállalást vagy a felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítésszolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
 
+(6a) A Hatóság által a (6) bekezdés alapján vezetett jegyzék – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (7) Az (1)–(2) bekezdésben foglaltakon kívüli külföldi székhelyű hitelesítés-szolgáltató által hitelesített tanúsítványhoz a 3. § (1) bekezdése szerinti jogkövetkezmények fűződnek.
