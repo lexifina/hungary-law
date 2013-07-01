@@ -1,0 +1,1 @@
+A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (5) bekezdés c) pontjában foglalt felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 2. § (1) bekezdés a) és b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
