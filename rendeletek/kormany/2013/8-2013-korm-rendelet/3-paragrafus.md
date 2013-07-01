@@ -1,3 +1,3 @@
-3. §[^5]
+3. § Az R. 6. melléklet 2. pontja helyébe a következő rendelkezés lép:
 
-[^5]: A 3. § a 2. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+„2. Dohányterméket kiegészítő termék;”
