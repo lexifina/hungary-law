@@ -24,15 +24,17 @@ e)[^6] az államháztartási törvény végrehajtásáról szóló kormányrende
 
 f)[^7] az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdés d) és e) pontja szerinti kamattámogatott kölcsönökre, valamint
 
-g)[^8] a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény szerinti szerződésmódosításra és gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésre.
+g)[^8] a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény szerinti szerződésmódosításra és gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésre,
 
-(3a)[^9] A (3) bekezdés alkalmazásában a fizetőképesség helyreállításával indokolt mértékű hitelnyújtásnak minősül az is, ha a hitelnyújtó az ingatlanra bejegyzett végrehajtási jog vagy jelzálogjog jogosultja követelésének kielégítése érdekében nyújtja az új hitelt.
+h)[^9] az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság által meghirdetett Vállalkozásfinanszírozási Programnak a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 74. § (1) bekezdésében és 83/A. § (1) bekezdésében említett követelményeknek történő megfelelés elősegítése céljából meghirdetett Patika Hitelprogramja keretében kötött hitel- és kölcsönszerződésekre.
+
+(3a)[^10] A (3) bekezdés alkalmazásában a fizetőképesség helyreállításával indokolt mértékű hitelnyújtásnak minősül az is, ha a hitelnyújtó az ingatlanra bejegyzett végrehajtási jog vagy jelzálogjog jogosultja követelésének kielégítése érdekében nyújtja az új hitelt.
 
 (4) E rendelet hatálya – a 6. § kivételével – nem terjed ki az olyan ingatlanra alapított jelzálogjog fedezete mellett nyújtott hitelre, amelynél a szerződés alapján fennálló hitel tőkeösszege folyamatosan növekszik, és a hitel visszafizetésének esedékessége a természetes személy halálát, illetőleg a fedezetként szolgáló ingatlan életvitelszerű használatának felhagyását vagy értékesítését követően áll be.
 
 (5) E rendelet 6. §-át nem kell alkalmazni az állami kezességvállalással biztosított lakáscélú kölcsönökre.
 
-(6)[^10] E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitellel, vagy pénzügyi lízinggel történő kiváltására, ha
+(6)[^11] E rendelet hatálya – a 4. § (1) és (2) bekezdésében meghatározott belső szabályzati korlátok alkalmazásának kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitellel, vagy pénzügyi lízinggel történő kiváltására, ha
 
 a) ezáltal a hiteltartozás összege nem növekszik a kiváltott hitel, illetve hitelek együttes összegét meghaladó mértékben, és
 
@@ -44,7 +46,7 @@ bb) kizárólag euróhitel, euró alapú hitel , ha valamennyi eredeti hitel eur
 
 bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamennyi eredeti hitel svájci frank hitel vagy svájci frank alapú hitel.
 
-(7)[^11] A (6) bekezdés alkalmazásában a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a hitelnyújtók közötti árfolyamkülönbség és az eredeti hiteltartozás lezárásához vagy az új hitel folyósításához kapcsolódó igazolt díjak, költségek miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét és az új hitel nyújtója a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem használt, visszautalt összeggel.
+(7)[^12] A (6) bekezdés alkalmazásában a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori összege a hitelnyújtók közötti árfolyamkülönbség és az eredeti hiteltartozás lezárásához vagy az új hitel folyósításához kapcsolódó igazolt díjak, költségek miatt haladja meg az eredeti hiteltartozás kiváltáskor fennálló összegét és az új hitel nyújtója a hiteltartozás összegét haladéktalanul csökkenti az eredeti hitelnyújtó által hiteljóváírásra fel nem használt, visszautalt összeggel.
 
 [^1]: Az 1. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 397/2012. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
@@ -54,6 +56,7 @@ bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamenn
 [^6]: Az 1. § (3) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (3) bekezdés f) pontját a 341/2011. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 71/2012. (IV. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: Az 1. § (3) bekezdés g) pontját az 57/2012. (III. 30.) Korm. rendelet 23. §-a iktatta be.
-[^9]: Az 1. § (3a) bekezdését a 397/2012. (XII. 20.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^10]: Az 1. § (6) bekezdése a 397/2012. (XII. 20.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
-[^11]: Az 1. § (7) bekezdését a 152/2010. (IV. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 348/2011. (XII. 30.) Korm. rendelet 43. § (4) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (3) bekezdés h) pontját a 212/2013. (VI. 19.) Korm. rendelet 13. §-a iktatta be.
+[^10]: Az 1. § (3a) bekezdését a 397/2012. (XII. 20.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^11]: Az 1. § (6) bekezdése a 397/2012. (XII. 20.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^12]: Az 1. § (7) bekezdését a 152/2010. (IV. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 348/2011. (XII. 30.) Korm. rendelet 43. § (4) bekezdésével megállapított szöveg.

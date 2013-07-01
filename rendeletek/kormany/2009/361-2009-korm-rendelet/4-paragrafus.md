@@ -1,4 +1,4 @@
-4. §[^14] (1) A hitelnyújtó a belső szabályzatában rögzíti:
+4. §[^15] (1) A hitelnyújtó a belső szabályzatában rögzíti:
 
 a) a hitelezhetőségi vizsgálat alanyi körét, amely a természetes személyre vagy a természetes személy háztartására terjedhet ki, utóbbi esetben a háztartás fogalmának meghatározását is;
 
@@ -10,7 +10,7 @@ d) a természetes személy meglévő hitelei beszámításának technikáját a 
 
 e) a hitelezhetőségi limit kiszámításának módszerét az egyes hiteltípusoknál.
 
-(2)[^15] A devizahitel havi törlesztőrészlete hitelkérelem elbíráltakor nem lehet magasabb:
+(2)[^16] A devizahitel havi törlesztőrészlete hitelkérelem elbíráltakor nem lehet magasabb:
 
 a) euró alapú hiteleknél és euróhiteleknél a hitelezhetőségi limit 80%-ánál;
 
@@ -24,5 +24,5 @@ b) más devizahiteleknél a hitelezhetőségi limit 60%-ánál.
 
 (6) A hitelnyújtó köteles a hitelezés körében a hitelnyújtótól elvárható körültekintéssel eljárni annak érdekében, hogy a természetes személy pénzügyi helyzetét feltárja, ideértve minden olyan hitelinformációs rendszer lekérdezést, amelyhez csatlakozott vagy amelynek tagja.
 
-[^14]: A 4. § a 8. § (2) bekezdése alapján 2010. június 11-én lépett hatályba.
-[^15]: A 4. § (2) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (6) bekezdése szerint módosított szöveg.
+[^15]: A 4. § a 8. § (2) bekezdése alapján 2010. június 11-én lépett hatályba.
+[^16]: A 4. § (2) bekezdése a 152/2010. (IV. 30.) Korm. rendelet 2. § (6) bekezdése szerint módosított szöveg.
