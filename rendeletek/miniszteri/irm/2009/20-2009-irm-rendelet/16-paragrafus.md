@@ -2,17 +2,17 @@
 
 16. § (1) A bíróság a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása részére közli
 
-a)[^16] a 4. számú adatlapon a Bnytv. 16. § (1) bekezdés c), e)–g) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, a vádiratot benyújtó ügyészség megnevezését, a vádirat számát, a vádemelés időpontját, annak tényét, ha a terhelt fiatalkorú, rendkívüli jogorvoslat esetén ennek tényét, előzetes mentesítés esetén ennek tényét, az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, ha az alapeljárásban bűnösséget megállapító jogerős ítéletet hozott, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
+a)[^18] a 4. számú adatlapon a Bnytv. 16. § (1) bekezdés c), e)–g) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, a vádiratot benyújtó ügyészség megnevezését, a vádirat számát, a vádemelés időpontját, annak az eljárásnak az ügyiratszámát, amelyben a megalapozott gyanút a terhelttel közölték, a közlés időpontját, annak tényét, ha a terhelt fiatalkorú, rendkívüli jogorvoslat esetén ennek tényét, előzetes mentesítés esetén ennek tényét, az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, ha az alapeljárásban bűnösséget megállapító jogerős ítéletet hozott, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
 
-b)[^17] a 4. számú adatlapon a Bnytv. 16. § (1) bekezdés c), e) és g) pontjában meghatározott adatokat, valamint azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, ha felmentő ítélet mellett kényszergyógykezelést alkalmazott,
+b)[^19] a 4. számú adatlapon a Bnytv. 16. § (1) bekezdés c), e) és g) pontjában meghatározott adatokat, valamint azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, ha felmentő ítélet mellett kényszergyógykezelést alkalmazott,
 
 c) az 5. számú adatlapon a Bnytv. 16. § (1) bekezdés e)–h) pontjában meghatározott adatokat, ha egységes intézkedés alkalmazása során jogerős ítéletet hozott,
 
-d)[^18] a 6. számú adatlapon a Bnytv. 16. § (1) bekezdés c), e)–g) és j) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, annak tényét, ha a terhelt fiatalkorú, a külföldi határozatot hozó bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, ha a külföldi bíróság által hozott ítélet érvényét elismerte vagy a külföldi bíróság által kiszabott büntetés végrehajtását a magyar hatóság átvette, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
+d)[^20] a 6. számú adatlapon a Bnytv. 16. § (1) bekezdés c), e)–g) és j) pontjában meghatározott adatokat, azt a tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, annak tényét, ha a terhelt fiatalkorú, a külföldi határozatot hozó bíróság megnevezését, határozatának számát, keltét és jogerőre emelkedésének napját, ha a külföldi bíróság által hozott ítélet érvényét elismerte vagy a külföldi bíróság által kiszabott büntetés végrehajtását a magyar hatóság átvette, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
 
-e) a 7. számú adatlapon a Bnytv. 16. § (1) bekezdés i) pontjában meghatározott adatokat, az elévülés napját, az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, ha megállapította, hogy a kiszabott büntetés végrehajtását az elévülés kizárja, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
+e)[^21] az erről szóló külön értesítés (átirat) megküldésével a Bnytv. 16. § (1) bekezdés i) pontjában meghatározott adatokat, az elévülés napját, az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, ha megállapította, hogy a kiszabott büntetés végrehajtását az elévülés kizárja, és az elítélt az ítélet jogerőre emelkedésének napján mentesült,
 
-f)[^19] a 7. számú adatlapon az alapügyben eljárt bíróság megnevezését és határozatának számát, a Bnytv. 16. § (2) bekezdés h) pontjában meghatározott adatokat, valamint a pénzbüntetés közérdekű munkára történő átváltoztatásáról szóló határozat számát és keltét, az eljárt bíróság megnevezését és az így kiszabott büntetés mértékét, ha a pénzbüntetést vagy a közérdekű munkát szabadságvesztésre, vagy a pénzbüntetést közérdekű munkára változtatta át,
+f)[^22] a 7. számú adatlapon az alapügyben eljárt bíróság megnevezését és határozatának számát, a Bnytv. 16. § (2) bekezdés h) pontjában meghatározott adatokat, valamint a pénzbüntetés közérdekű munkára történő átváltoztatásáról szóló határozat számát és keltét, az eljárt bíróság megnevezését és az így kiszabott büntetés mértékét, ha a pénzbüntetést vagy a közérdekű munkát szabadságvesztésre, vagy a pénzbüntetést közérdekű munkára változtatta át,
 
 g) a 7. számú adatlapon a Bnytv. 16. § (1) bekezdés l) pontjában meghatározott adatokat, valamint az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, ha a bíróság a próbára bocsátást meghosszabbította,
 
@@ -22,7 +22,7 @@ i) a 7. számú adatlapon az eljárás tárgyát, a Bnytv. 16. § (1) bekezdés 
 
 j) a 7. számú adatlapon az alapeljárás során eljárt bíróság megnevezését, határozatának számát, a határozat jogerőre emelkedésének napját, valamint a Bnytv. 16. § (1) bekezdés c) pontjában meghatározott adatokat, ha az elítéltet a bíróság végleges hatályú foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás végrehajtása alól mentesítette,
 
-k)[^20]
+k)[^23]
 
 l) a 8. számú adatlapon az eljárt bíróság megnevezését, határozatának számát, a pénzbüntetés megfizetésének napját, ha a terhelt a pénzbüntetést – tekintet nélkül a pénzbüntetés szabadságvesztésre történő átváltoztatására – megfizette,
 
@@ -32,8 +32,9 @@ m) az erről szóló külön értesítés (átirat) megküldésével az alapelj�
 
 (3) Az (1) és (2) bekezdésben meghatározott adatközlést a bíróságnak a nyilvántartásba vételt megalapozó vagy a nyilvántartásban kezelt adatok megváltozását eredményező határozatának jogerőre emelkedése napjától számított három munkanapon belül kell teljesíteni.
 
-[^16]: A 16. § (1) bekezdés a) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^17]: A 16. § (1) bekezdés b) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^18]: A 16. § (1) bekezdés d) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^19]: A 16. § (1) bekezdés f) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^20]: A 16. § (1) bekezdés k) pontját a 60/2012. (XII. 28.) KIM rendelet 11. §-a hatályon kívül helyezte.
+[^18]: A 16. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 73. § (5) bekezdésével megállapított szöveg.
+[^19]: A 16. § (1) bekezdés b) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^20]: A 16. § (1) bekezdés d) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^21]: A 16. § (1) bekezdés e) pontja a 9/2013. (VI. 29.) KIM rendelet 74. § d) pontja szerint módosított szöveg.
+[^22]: A 16. § (1) bekezdés f) pontja a 60/2012. (XII. 28.) KIM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^23]: A 16. § (1) bekezdés k) pontját a 60/2012. (XII. 28.) KIM rendelet 11. §-a hatályon kívül helyezte.
