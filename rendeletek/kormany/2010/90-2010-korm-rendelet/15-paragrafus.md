@@ -10,4 +10,6 @@ c) személyi biztonsági tanúsítványa visszavonásra került vagy érvényess
 
 (3) A felhasználói engedélyre és a titoktartási nyilatkozatra vonatkozó ajánlott mintákat a Miniszterelnöki Hivatal és a Nemzeti Biztonsági Felügyelet a honlapján közzéteszi.
 
-(4) A biztonsági vezető felelőssége, hogy a minősített adatot kezelő szervnél tárolt felhasználói engedély és titoktartási nyilatkozat a felhasználói engedély visszavonását követően a visszaélés szigorúan titkos és titkos minősítésű adattal bűncselekményre a büntető törvénykönyvben meghatározott büntetési tétel felső határának megfelelő ideig fellelhető legyen. Ezt követően intézkedik ezen okmányok selejtezési jegyzőkönyv felvétele mellett történő megsemmisítéséről.
+(4)[^1] A biztonsági vezető felelőssége, hogy a minősített adatot kezelő szervnél tárolt felhasználói engedély és titoktartási nyilatkozat a felhasználói engedély visszavonását követően a Büntető Törvénykönyvről szóló 1978. évi IV. törvény szerinti visszaélés szigorúan titkos és titkos minősítésű adattal, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés bűncselekményre meghatározott büntetési tétel felső határának megfelelő ideig fellelhető legyen. Ezt követően intézkedik ezen okmányok selejtezési jegyzőkönyv felvétele mellett történő megsemmisítéséről.
+
+[^1]: A 15. § (4) bekezdése a 172/2013. (V. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
