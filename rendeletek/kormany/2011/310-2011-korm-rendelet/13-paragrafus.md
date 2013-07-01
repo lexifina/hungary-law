@@ -2,6 +2,8 @@
 
 13. § (1) A Hatóság útmutatót ad ki a 2–4. §-ban hivatkozott, a Magyarországon, valamint az Európai Unióban és az Európai Gazdasági Térségben letelepedett gazdasági szereplők által benyújtandó igazolásokról, nyilatkozatokról, nyilvántartásokról és adatokról.
 
-(2) A Hatóság a Kbt. 36. § (6) bekezdése alapján a magyarországi hatósági és közhiteles elektronikus nyilvántartásokról ad ki útmutatót.
+(2)[^5] A Hatóság a Kbt. 36. § (6) bekezdése alapján a magyarországi hatósági elektronikus nyilvántartásokról ad ki útmutatót.
 
 (3) A Hatóság a Kbt. 172. § (9) bekezdése szerinti útmutató mellett a Kbt. 56. § (1) bekezdés k) pont ka) alpontjában foglalt nemzetközi szervezetek tagállamainak listáját is folyamatosan elérhetővé teszi a honlapján.
+
+[^5]: A 13. § (2) bekezdése a 238/2013. (VI. 30.) Korm. rendelet 4. § (11) bekezdés 2. pontja szerint módosított szöveg.

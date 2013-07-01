@@ -6,11 +6,7 @@ b) a Kbt. 56. § (1) bekezdés e) pontja esetén a letelepedése szerinti orszá
 
 c) amennyiben az illetékes bíróság vagy hatóság nem bocsát ki az a) vagy a b) pont szerinti kivonatot vagy igazolást, vagy azok nem terjednek ki az a) pontban hivatkozott esetek mindegyikére, az ajánlattevő, illetve részvételre jelentkező eskü alatt tett nyilatkozatát, vagy ha ilyen nyilatkozat nem ismert az érintett országban, az ajánlattevő, illetve részvételre jelentkező által az illetékes bíróság, hatóság, kamara vagy szakmai szervezet előtt tett vagy közjegyző által hitelesített nyilatkozatot;
 
-d) a Kbt. 56. § (1) bekezdés g) pontjára vonatkozóan:
-
-da) a Kbt. 56. § (1) bekezdés g) pont ga) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a és az adóhatóságnak az Art. 55. § (6) bekezdése szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból;
-
-db) a Kbt. 56. § (1) bekezdés g) pont gb) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Állampolgársági Hivatal honlapján közzétett adatokból;
+d)[^2]
 
 e) a Kbt. 56. § (1) bekezdés j) pontjára vonatkozóan nem szükséges igazolás vagy nyilatkozat benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -29,3 +25,5 @@ h) a Kbt. 57. § (1) bekezdés d) pontja esetén a 2004/18/EK európai parlament
 i) a Kbt. 57. § (1) bekezdés e) pontja esetén az engedély vagy a jogosítvány másolatát, illetve a szervezeti, kamarai tagságról szóló igazolást;
 
 j) a Kbt. 57. § (1) bekezdés f) pontja esetén az ajánlattevő, illetve részvételre jelentkező eskü alatt tett nyilatkozatát, vagy ha ilyen nyilatkozat nem ismert az érintett országban, az illetékes bíróság, hatóság, kamara vagy szakmai szervezet előtt tett, vagy közjegyző által hitelesített nyilatkozatot.
+
+[^2]: A 4. § d) pontját a 238/2013. (VI. 30.) Korm. rendelet 4. § (12) bekezdése hatályon kívül helyezte.

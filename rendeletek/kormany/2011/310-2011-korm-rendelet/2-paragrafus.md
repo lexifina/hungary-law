@@ -12,11 +12,7 @@ d) a Kbt. 56. § (1) bekezdés e) pontjában foglalt kizáró ok hiányát az ad
 
 e) a Kbt. 56. § (1) bekezdés f) és i) pontja esetén az ajánlattevő vagy részvételre jelentkező közjegyző vagy gazdasági, illetve szakmai kamara által hitelesített nyilatkozatát;
 
-f) a Kbt. 56. § (1) bekezdés g) pontjára vonatkozóan:
-
-fa) a Kbt. 56. § (1) bekezdés g) pont ga) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a és az adóhatóságnak az Art. 55. § (6) bekezdése szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból;
-
-fb) a Kbt. 56. § (1) bekezdés g) pont gb) alpontjában foglalt kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Állampolgársági Hivatal honlapján közzétett adatokból;
+f)[^1]
 
 g) a Kbt. 56. § (1) bekezdés h) pontja esetén – amelyet kizárólag természetes személy gazdasági szereplő köteles igazolni – hatósági erkölcsi bizonyítványt;
 
@@ -29,3 +25,5 @@ ia) a Kbt. 56. § (1) bekezdés k) pont ka) és kb) alpontja tekintetében nem s
 ib) a Kbt. 56. § (1) bekezdés k) pont kc) alpontja tekintetében az ajánlattevő, illetve részvételre jelentkező nyilatkozata arról, hogy olyan társaságnak minősül-e, melyet nem jegyeznek szabályozott tőzsdén vagy amelyet szabályozott tőzsdén jegyeznek; ha az ajánlattevőt vagy részvételre jelentkezőt nem jegyzik szabályozott tőzsdén, akkor a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: pénzmosásról szóló törvény) 3. § r) pontja szerint definiált valamennyi tényleges tulajdonos nevének és állandó lakóhelyének bemutatását tartalmazó nyilatkozatot szükséges benyújtani; amennyiben a pénzmosásról szóló törvény 3. § r) pontja szerinti tényleges tulajdonos nincsen, az ajánlattevő, illetve részvételre jelentkező erre vonatkozó nyilatkozatát;
 
 j) a Kbt. 56. § (2) bekezdésére vonatkozóan az ajánlattevő vagy részvételre jelentkező nyilatkozatát arról, hogy van-e olyan jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25 %-os tulajdoni résszel vagy szavazati joggal rendelkezik; amennyiben van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező köteles azt nyilatkozatban megnevezni, továbbá nyilatkozni, hogy annak vonatkozásában a Kbt. 56. § (2) bekezdésében hivatkozott kizáró feltételek nem állnak fenn.
+
+[^1]: A 2. § f) pontját a 238/2013. (VI. 30.) Korm. rendelet 4. § (12) bekezdése hatályon kívül helyezte.

@@ -10,7 +10,7 @@ a) pénzügyi intézménytől származó, legfeljebb az eljárást megindító f
 
 b) saját vagy jogelődje számviteli jogszabályok szerinti beszámolójának – vagy annak meghatározott részének – benyújtásával (ha a gazdasági szereplő letelepedése szerinti ország joga előírja közzétételét); amennyiben az ajánlatkérő által kért beszámoló a céginformációs szolgálat honlapján megismerhető, a beszámoló adatait az ajánlatkérő ellenőrzi, a céginformációs szolgálat honlapján megtalálható beszámoló csatolása az ajánlatban, illetve részvételi jelentkezésben nem szükséges;
 
-c) az előző legfeljebb három évre vonatkozóan kérhető, teljes – általános forgalmi adó nélkül számított – árbevételéről, illetve ugyanezen időszakban a közbeszerzés tárgyából származó – általános forgalmi adó nélkül számított – árbevételéről szóló nyilatkozatával, attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak;
+c)[^6] az előző legfeljebb három üzleti évre vonatkozóan kérhető, teljes – általános forgalmi adó nélkül számított – árbevételéről, illetve ugyanezen időszakban a közbeszerzés tárgyából származó – általános forgalmi adó nélkül számított – árbevételéről szóló nyilatkozatával, attól függően, hogy az ajánlattevő vagy részvételre jelentkező mikor jött létre, illetve mikor kezdte meg tevékenységét, amennyiben ezek az adatok rendelkezésre állnak;
 
 d) az eljárást megindító felhívásban meghatározott, szakmai felelősségbiztosításának fennállásáról szóló igazolással.
 
@@ -20,7 +20,7 @@ d) az eljárást megindító felhívásban meghatározott, szakmai felelősségb
 
 (4) Az (1) bekezdés c) pontja alkalmazásában az ajánlatkérő jogosult kizárólag a teljes árbevételről, vagy kizárólag a közbeszerzés tárgya szerinti árbevételről vagy mindkettőről szóló nyilatkozat benyújtását előírni.
 
-(4a)[^1] Építési beruházás közbeszerzése esetén, ha a Magyar Kereskedelmi és Iparkamara vállalkozó kivitelezői névjegyzékében megjelenített (1) bekezdés előírásainak megfelelő dokumentumok bizonyítják, hogy a gazdasági szereplő megfelel az ajánlatkérő által meghatározott követelményeknek, a követelmény és a megfelelést igazoló dokumentum helyének pontos megjelölését is köteles elfogadni az ajánlatkérő az (1) bekezdésben meghatározott dokumentumok benyújtása helyett.
+(4a)[^7] Építési beruházás közbeszerzése esetén, ha a Magyar Kereskedelmi és Iparkamara vállalkozó kivitelezői névjegyzékében megjelenített (1) bekezdés előírásainak megfelelő dokumentumok bizonyítják, hogy a gazdasági szereplő megfelel az ajánlatkérő által meghatározott követelményeknek, a követelmény és a megfelelést igazoló dokumentum helyének pontos megjelölését is köteles elfogadni az ajánlatkérő az (1) bekezdésben meghatározott dokumentumok benyújtása helyett.
 
 (5) Azokban az esetekben, amelyekben a 18. §-ban meghatározott minősített ajánlattevők hivatalos jegyzéke bizonyítja – figyelemmel a 18. §-ban és 20. §-ban foglaltakra is –, hogy a gazdasági szereplő megfelel az adott alkalmassági követelménynek, a minősített ajánlattevők elektronikusan elérhető hivatalos jegyzékén való szereplés tényét, illetve az Európai Unió egy másik tagállamában letelepedett gazdasági szereplő által benyújtott, a letelepedési helye szerinti, az elismert ajánlattevők hivatalos listáját vezető szervezettől származó jegyzék szerinti igazolást is köteles az ajánlatkérő elfogadni az (1) bekezdésben foglalt egyéb igazolási módok helyett.
 
@@ -32,4 +32,5 @@ d) az eljárást megindító felhívásban meghatározott, szakmai felelősségb
 
 (9) Az ajánlatkérő a (8) bekezdésben foglalt esetben is csak olyan alkalmassági követelményt írhat elő, amely az (1) bekezdésben foglalt dokumentumokkal igazolható, az ajánlattevő vagy részvételre jelentkező pedig – ahol az ajánlatkérő lehetővé tette – választása szerint jogosult az (1) bekezdésben foglaltak helyett nyilatkozattal igazolni alkalmasságát. Amennyiben az elbírálás során az ajánlatkérőnek kétsége merül fel a nyilatkozat valóságtartalmával kapcsolatban, a Kbt. 67. § (1) bekezdése szerinti felvilágosítás kérés keretében előírhatja a 14. § (1) bekezdése szerinti igazolás benyújtását.
 
-[^1]: A 14. § (4a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 109. § (1) bekezdése iktatta be.
+[^6]: A 14. § (1) bekezdés c) pontja a 238/2013. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 14. § (4a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 109. § (1) bekezdése iktatta be.

@@ -4,4 +4,6 @@
 
 (3) Ha jogszabály a Kbt. 56. § (1) bekezdés e) pontjának hatálya alá tartozó új közterhet állapít meg, az ezzel kapcsolatos igazolást csak azokban az eljárásokban kell csatolni, amelyekben az ajánlattételi vagy részvételi határidő a köztartozásról szóló rendelkezés hatálybalépését követő egy évnél későbbi időpontra esik.
 
-(4) A Bevándorlási és Állampolgársági Hivatal a honlapján a Kbt. 56. § (1) bekezdés g) pont gb) alpontja alapján érintett, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint általa közrendvédelmi bírsággal sújtott gazdasági szereplőkről – a személyes adatok sérelme nélkül – tájékoztatást tesz közzé a határozat jogerőre emelkedésétől számított két évig. Ha a Bevándorlási és Állampolgársági Hivatal tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak, a kizáró okra vonatkozó adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé, megjelölve a keresetet elutasító vagy a határozatot megváltoztató döntés jogerőre emelkedésének időpontját. Amennyiben az adatok nyilvánosságra hozatalára már sor került – a keresetindításról történő tudomásszerzéssel egyidejűleg – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
+(4)[^4]
+
+[^4]: A 11. § (4) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 4. § (12) bekezdése hatályon kívül helyezte.
