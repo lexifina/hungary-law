@@ -13,3 +13,5 @@ b) tagjával szemben a végrehajtói irodai tagságot kizáró, a 254/B. §-ban 
 (5) A cégjegyzékből jogerős határozattal törölt végrehajtói irodát a kamara törli a végrehajtói irodák kamarai nyilvántartásából.
 
 (6) Ha a kamara a hatósági ellenőrzése során megállapítja, hogy a végrehajtói iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a végrehajtói irodai tagság fenntartása feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a végrehajtói irodával szemben törvényességi felügyeleti eljárás lefolytatását.
+
+(7) A végrehajtói irodák nyilvántartása – a 254/G. § (1) bekezdés a), b), e) pontjában foglalt adatok, valamint a 254/G. § (1) bekezdés c) pontjában a végrehajtói iroda tagjainak természetes személyazonosító, valamint lakcímazonosító adatainak kivételével – közhiteles hatósági nyilvántartásnak minősül.

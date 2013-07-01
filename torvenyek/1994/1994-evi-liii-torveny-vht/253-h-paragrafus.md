@@ -1,0 +1,1 @@
+253/H. § A kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a Ket. szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A kamara a Ket. alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
