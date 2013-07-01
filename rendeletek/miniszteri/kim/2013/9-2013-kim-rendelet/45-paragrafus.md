@@ -1,0 +1,3 @@
+## 44. § A 9/2002. (IV. 9.) IM rendelet 107. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a köztársasági elnök az elítélt büntetését kegyelemből egészben vagy részben elengedte vagy a szabadságvesztés végrehajtását próbaidőre felfüggesztette, az első fokon eljárt bíróság haladéktalanul értesíti a bv. csoportot, illetve a BGH-t a szükséges intézkedések megtétele érdekében, valamint azokat a hatóságokat, személyeket, szerveket, szervezeteket, amelyeknek a bíróság a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról vagy közügyektől eltiltásról kiállított értesítőlapot közvetlenül megküldte.”

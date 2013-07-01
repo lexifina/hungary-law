@@ -1,0 +1,3 @@
+## 35. § A 9/2002. (IV. 9.) IM rendelet 40. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a bv. bíró azt észleli, hogy az elítéltet a feltételes szabadság kedvezményéből a Btk. 38. § (4) bekezdés b), c) és d) pontjai valamelyikének, illetve a Btk. 45. § (7) bekezdésében foglaltak miatt az ítélet meghozatalakor ki kellett volna zárni, a Be. 557. §-a szerinti eljárás lefolytatása érdekében az alapügyben eljárt első fokú bíróságot keresi meg, és az első fokú bíróság határozatának megküldéséig az eljárást felfüggeszti. Ha a bv. bíró megállapítja, hogy a Btk. 38. § (2) bekezdésében meghatározott minimális időtartam a szabadságvesztésből még nem telt el, a feltételes szabadságra bocsátást mellőzi.”

@@ -1,0 +1,3 @@
+## 31. § A 9/2002. (IV. 9.) IM rendelet 24. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a bv. intézet közli a bv. csoporttal, hogy a felhívásra megjelent elítélt befogadása megtörtént, a bv. bíró – ha időközben nem merült fel a szabadságvesztés végrehajtásának akadálya – bírói rendelvényt ad a szabadságvesztés végrehajtására. A rendelvényt, a már rendelkezésre álló határozatkiadmányok két példányát, a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról vagy közügyektől eltiltásról kiállított értesítőlapot, valamint az egyéb iratokat a bv. csoport haladéktalanul megküldi a székhelyén működő megyei (fővárosi) bv. intézetnek.”

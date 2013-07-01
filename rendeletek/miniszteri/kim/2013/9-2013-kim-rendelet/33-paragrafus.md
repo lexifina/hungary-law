@@ -1,0 +1,3 @@
+## 32. § A 9/2002. (IV. 9.) IM rendelet 27. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az (1) bekezdésben szabályozott esetben a bv. csoport az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat, az elítéltnek a szabadságvesztés megkezdésére való felhívása végett, megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak. A bv. csoport a feltüntetett iratok mellett a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról vagy közügyektől eltiltásról kiállított értesítőlapot is megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak.”
