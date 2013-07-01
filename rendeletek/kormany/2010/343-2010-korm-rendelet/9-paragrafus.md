@@ -1,4 +1,4 @@
-9. §[^44] (1) A biomassza kereskedő, a biomassza feldolgozó, valamint az üzemanyag-forgalmazó a fenntarthatóság igazolására nyilvántartása alapján köteles félévente a tárgyidőszakot követő hónap 15. napjáig adatot szolgáltatni a mezőgazdasági igazgatási szerv részére.
+9. §[^45] (1) A biomassza kereskedő, a biomassza feldolgozó, valamint az üzemanyag-forgalmazó a fenntarthatóság igazolására nyilvántartása alapján köteles félévente a tárgyidőszakot követő hónap 15. napjáig adatot szolgáltatni a mezőgazdasági igazgatási szerv részére.
 
 (2) A biomassza kereskedő, a biomassza feldolgozó, valamint az üzemanyag-forgalmazó az adatszolgáltatást köteles a mezőgazdasági igazgatási szerv honlapján elektronikusan közzétett, az 5. melléklet szerinti adattartalmú nyomtatványon elvégezni.
 
@@ -8,4 +8,4 @@
 
 (5) A (4) bekezdés szerinti felhívásban előírt határidő eredménytelen leteltét követően a mezőgazdasági igazgatási szerv a biomassza kereskedőt, biomassza feldolgozót vagy az üzemanyag-forgalmazót törli a BÜHG nyilvántartásból.
 
-[^44]: A 9. § a 318/2012. (XI. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^45]: A 9. § a 318/2012. (XI. 13.) Korm. rendelet 8. §-ával megállapított szöveg.

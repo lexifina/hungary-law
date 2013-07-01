@@ -40,6 +40,6 @@
 
 ## 6. a biomassza forrására vagy a begyűjtés helyére vonatkozó adatok.
 
-3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^64]
+3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^65]
 
-[^64]: A 3. melléklet a 318/2012. (XI. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^65]: A 3. melléklet a 318/2012. (XI. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
