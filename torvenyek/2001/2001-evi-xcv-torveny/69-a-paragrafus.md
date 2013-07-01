@@ -1,1 +1,0 @@
-69/A. § Annak a volt hivatásos állományú katonának, akinek szolgálati jogviszonya a szolgálat érdekében áthelyezéssel köztisztviselői vagy közalkalmazotti jogviszonyra változik, és ezt követően ismét szolgálati jogviszonyt létesít, az ismételt szolgálati viszony létesítésekor a 69. § (6) bekezdésének rendelkezéseit kell alkalmazni.

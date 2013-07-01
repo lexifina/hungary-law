@@ -1,1 +1,0 @@
-48/C. § Az állomány tagja eredeti szolgálati beosztása ellátása mellett óraadó oktatóként oktatói feladatot a felsőoktatásról szóló törvényben meghatározott megbízási szerződéssel vagy 75. § (1) bekezdés j) pontjára figyelemmel szolgálati feladatként, külön díjazás nélkül láthat el.

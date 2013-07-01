@@ -1,9 +1,0 @@
-## Jognyilatkozatok
-
-7. § (1) A szolgálati viszonnyal kapcsolatos jognyilatkozatokat (megállapodásokat) – jogszabály eltérő rendelkezése hiányában – alaki kötöttség nélkül lehet megtenni. Az állomány tagjának kérésére azonban a nyilatkozatot akkor is írásba kell foglalni, ha az írásbeliség egyébként nem kötelező. Nem minősül a szolgálati viszonnyal kapcsolatos nyilatkozatnak a szolgálati feladatok végrehajtására vonatkozó parancs vagy intézkedés.
-
-(2) Írásbeliséghez kötött a szolgálati viszony létesítésére, szünetelésére, módosítására és megszüntetésére, az állomány tagjának kinevezésére, alacsonyabb beosztásba helyezésére, előléptetésére, elismerésére, illetménybesorolására, 109/B. § (2) bekezdése szerinti illetmény-megállapítására, beiskolázására, áthelyezésére, vezénylésére, megbízására, helyettesítésére, valamint alkalmasságára vonatkozó nyilatkozat, a teljesítményértékelés, a minősítés, a vezetői értékelés, a fegyelmi, a kártérítési határozat, továbbá a külön törvény szerinti vagyonnyilatkozatról, valamint a nemzetbiztonsági ellenőrzéshez való hozzájárulásról és az ellenőrzés eredményéről készült irat.
-
-(3) Az írásbeli nyilatkozatot közölni kell az állomány tagjával. A nyilatkozat akkor tekinthető közöltnek, ha azt az állomány tagjának vagy az átvételre jogosult személynek kézbesítették, illetve külön jogszabályban meghatározott esetekben és formában az állomány tagjával ismertették. A közlés akkor is hatályos, ha az átvételt az érdekelt megtagadta, vagy azt szándékosan megakadályozta. Erről jegyzőkönyvet kell felvenni.
-
-(4) Az alaki kötöttség megsértésével tett nyilatkozat érvénytelen. A Honvédség írásbeli intézkedését köteles megindokolni, ha az ellen az állomány tagja jogorvoslatot kezdeményezhet. Az írásbeli intézkedésben a jogorvoslat módjára és határidejére utalni kell.

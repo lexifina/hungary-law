@@ -1,1 +1,0 @@
-220. § Amennyiben a szolgálati panasz elbírálásához szükséges olyan adat hiányzik, amely a Honvédség nyilvántartásaiban nem áll rendelkezésre, a döntést hozó elöljáró vagy a szolgálati elöljáró a panasztevőt 15 nap határidő kitűzésével hiánypótlásra szólítja fel. A hiánypótlás időtartama az elintézési határidőbe nem számít bele.

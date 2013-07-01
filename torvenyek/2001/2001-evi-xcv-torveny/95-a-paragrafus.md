@@ -1,1 +1,0 @@
-95/A. § Külföldi szolgálat esetén, ha az állomány tagja a hazai illetménye mellett más juttatásban (külföldi napidíj, devizaellátmány stb.) is részesül, a külszolgálata időtartamára a 91–93. §-okban, a 94. § (2) bekezdésében, valamint a 95. §-ban foglaltaktól jogszabályban el lehet térni.

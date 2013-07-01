@@ -1,1 +1,0 @@
-245. § Az érdek-képviseleti szervet véleményezési jog illeti meg a KNBSZ költségvetésében előirányzott jóléti célú pénzeszközök felhasználásával és szociális juttatásokkal, lakásgazdálkodással, egészségügyi ellátással, illetőleg a szolgálati és munkakörülményekkel összefüggő tervek kialakításával kapcsolatban.

@@ -1,1 +1,0 @@
-182. § A tényleges kár és a kiszabott kártérítés összegének különbözetét leírással, a kiszabott és behajthatatlan kártérítési összeget pedig törléssel kell rendezni. Leírással kell rendezni a kárt abban az esetben is, ha a kártérítési eljárás azért nem volt lefolytatható, mert a károkozó ismeretlen, vagy az eljárás lefolytatását jogszabály kizárja.

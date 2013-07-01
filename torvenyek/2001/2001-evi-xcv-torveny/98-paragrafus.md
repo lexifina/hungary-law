@@ -1,1 +1,0 @@
-98. § Az állomány tagját gyermeke után a munka törvénykönyvéről szóló törvényben meghatározottak szerint illeti meg a pótszabadság. E rendelkezést első alkalommal a 2012. évi szabadság megállapítása során kell alkalmazni.

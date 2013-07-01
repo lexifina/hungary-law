@@ -1,5 +1,0 @@
-109/B. § (1) Az állomány tagja illetményét – a (3) bekezdésben foglaltak kivételével – az állományilletékes parancsnok állapítja meg.
-
-(2) Az illetmény-megállapítás magában foglalja a szolgálati viszony létesítésekor, valamint a szolgálati viszonynak az 50. § (2) bekezdés a)–c) pontja szerinti módosításakor, valamint új illetményelemre való jogosultság esetében az állomány tagja 106. § (1) bekezdés szerinti illetményelemeinek megállapítását, a beosztási illetménynek a 108. § (3) bekezdése szerinti magasabb összegben történő megállapítását, az illetménypótlékra való jogosultságnak, illetőleg alsó-felső határral rendelkező pótlék esetében a pótlék összegének megállapítását, felemelését, valamint kiegészítő illetményekre való jogosultság megállapítását.
-
-(3) Ha az állomány tagja illetményének összegében a (2) bekezdéstől eltérő ok miatt következik be változás, akkor – illetmény-megállapítás helyett – az illetményváltozásban érintettek számára az állományilletékes katonai szervezet személyügyi szerve értesítést készít.

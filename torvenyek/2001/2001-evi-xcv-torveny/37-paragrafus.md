@@ -1,5 +1,0 @@
-37. § (1) Feladata ellátása érdekében az állomány 36. § (1) bekezdése szerint védelemre jelölt tagját – ha a Honvédség és a szakszervezet közötti írásbeli megállapodás kedvezőbb szabályt nem állapít meg – a szolgálati beosztás szerinti havi szolgálatteljesítési ideje 10 százalékának megfelelő szolgálatteljesítési idő-kedvezmény illeti meg. A szolgálatteljesítési idő-kedvezmény igénybevételét legalább 10 nappal korábban be kell jelenteni.
-
-(2) A szolgálatteljesítési idő kedvezmény tartamára távolléti díj jár. A szolgálatteljesítési idő kedvezményt pénzben megváltani nem lehet.
-
-(3) A szakszervezet képviseletében eljáró, szolgálati viszonyban nem álló személy, ha a szakszervezetnek a Honvédséggel szolgálati viszonyban álló tagja van, a Honvédség területére – hivatali időben és a Honvédség előzetesen értesítése mellett – beléphet. A belépés és a Honvédség területén tartózkodás során a szakszervezet képviseletében eljáró köteles betartani a Honvédség működési rendjére vonatkozó szabályokat.

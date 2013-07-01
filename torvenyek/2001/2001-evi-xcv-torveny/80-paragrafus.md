@@ -1,1 +1,0 @@
-80. § A magasabb beosztás betöltéséhez szükséges végzettség, szakképesítés, tanfolyami végzettség, és képzettség megszerzését hazai vagy külföldi katonai, polgári felsőoktatási és középfokú oktatási intézményben, iskolarendszerű vagy iskolarendszeren kívüli oktatás, képzés keretében kell biztosítani.

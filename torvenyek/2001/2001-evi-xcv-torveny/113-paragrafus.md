@@ -1,1 +1,0 @@
-113. § A NATO vagy az EU érdekében feladatokat végrehajtó, Magyarországra települő többnemzeti katonai szervezetnél az állomány szolgálatot teljesítő tagja a szervezetnél teljesített szolgálat időtartamára szövetségesi együttműködési pótlékra jogosult, melynek havi mértéke a beosztási illetmény 50%-a.

@@ -1,1 +1,0 @@
-186. § A Honvédség a 183. § (1) bekezdésén, továbbá a 185. §-ban meghatározott felelőssége alapján az állomány tagjának elmaradt jövedelmét, dologi és nem vagyoni kárát, a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.

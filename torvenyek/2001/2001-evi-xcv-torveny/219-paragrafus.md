@@ -1,1 +1,0 @@
-219. § A Honvéd Vezérkar főnöke által hozott döntés vagy intézkedés, illetve ezek elmulasztása iránti szolgálati panaszt a Honvéd Vezérkar főnökéhez kell benyújtani, aki a döntését, illetve intézkedését megváltoztatja, vagy az ügy összes iratát döntésre a miniszterhez felterjeszti.

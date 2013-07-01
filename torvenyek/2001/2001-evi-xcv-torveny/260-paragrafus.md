@@ -1,1 +1,0 @@
-260. § Akinek a szolgálati viszonyát megszüntették, annak az e törvény szerint számított szolgálati idejét – ha jogszabály eltérően nem rendelkezik – közszolgálati jogviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.

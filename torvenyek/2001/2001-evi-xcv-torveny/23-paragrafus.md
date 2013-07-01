@@ -1,1 +1,0 @@
-23. § Az állomány tagja a választási eljárásról szóló törvény hatálya alá tartozó gyűlésen egyenruháját nem viselheti. Egyéb politikai rendezvényen, illetve a gyülekezési jog hatálya alá tartozó nyilvános rendezvényen egyenruháját csak a Honvédséget képviselő személyként, az állományilletékes parancsnok előzetes írásbeli engedélyével viselheti.

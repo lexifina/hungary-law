@@ -1,1 +1,0 @@
-227. § A nyilvántartható adatok számítógépes rendszerben is feldolgozhatóak. A számítógépes személyügyi nyilvántartó rendszer a Honvédségen belül az egyéb nyilvántartásokkal (adatrendszerekkel) csak külön jogszabályban meghatározott módon, míg egyéb Honvédségen kívüli adatrendszerrel csak törvényi felhatalmazás alapján kapcsolható össze.

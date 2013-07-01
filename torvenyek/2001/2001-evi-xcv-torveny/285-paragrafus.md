@@ -1,1 +1,0 @@
-285. § E törvénynek a munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény 50. §-ával megállapított rendelkezéseit a hatálybalépéskor folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,1 +1,0 @@
-234. § A nyugállomány tagja jogosultságainak érvényesítését, a velük való kapcsolattartást felvállaló egyesületek támogathatók. A nyugállomány tagja ügyeinek intézése, az alap- és szakosított ellátások, szolgáltatások igénybevételének biztosítása, a miniszter által kijelölt központi szerv, illetve a lakóhely szerint illetékes katonai igazgatási szerv feladata.

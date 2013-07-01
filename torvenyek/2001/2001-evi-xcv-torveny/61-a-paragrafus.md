@@ -1,1 +1,0 @@
-61/A. § Az állomány 61. § (1) bekezdésének c) pontja alapján a 48. § (1) bekezdésének g) pontja szerint rendelkezési állományba került tagjának illetmény nélküli szabadsága idejére megüresedett beosztását csak az ok megszűnéséig terjedő határozott időre lehet betölteni. A beosztást a rendelkezési állomány megszűnése után az eredetileg a beosztást betöltőnek kell felajánlani.
