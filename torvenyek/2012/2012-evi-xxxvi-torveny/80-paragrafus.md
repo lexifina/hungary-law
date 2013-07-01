@@ -24,7 +24,7 @@ h) állami vezető – a Kormány tagja és az államtitkár kivételével –,
 
 i) kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személy, közigazgatási szerv munkavállalója,
 
-j) az önkéntes tartalékos szolgálati jogviszony kivételével a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy,
+j) az önkéntes tartalékos szolgálati jogviszony kivételével a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy,
 
 k) a Magyar Nemzeti Vagyonkezelő Zrt. alkalmazottja, illetve igazgatóságának vagy felügyelő bizottságának tagja,
 
