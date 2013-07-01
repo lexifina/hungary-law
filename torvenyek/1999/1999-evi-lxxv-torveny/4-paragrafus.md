@@ -32,27 +32,47 @@ n) sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy 
 
 o) nyilvános hely: közterületnek nem tekinthető, mindenki számára nyitva álló hely;
 
-p) kábítószer-kereskedelemmel függ össze: az ország területére behozatallal, az ország területéről kivitellel, az ország területén átvitellel, kínálással, átadással, forgalomba hozatallal, illetve kereskedéssel elkövetett, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 282–282/C. §-ába ütköző visszaélés kábítószerrel;
+p) kábítószer-kereskedelemmel függ össze:
 
-q) bűnös kapcsolat: a felderítés alá vont személlyel való olyan kapcsolat, amely tekintetében a Btk. 326. §-ába ütköző orgazdaság vagy a Btk. 244. §-ába ütköző bűnpártolás bűncselekményének gyanúja merül fel.
+pa) a 2013. június 30-ig hatályban volt, az ország területére behozatallal, az ország területéről kivitellel, az ország területén átvitellel, kínálással, átadással, forgalomba hozatallal, illetve kereskedéssel elkövetett, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 282–282/C. §-ába ütköző visszaélés kábítószerrel, valamint 283/B. §-ába ütköző visszaélés új pszichoaktív anyaggal,
 
-r) illegális fegyverkereskedelemmel függ össze: a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §);
+pb) a kínálással, átadással, forgalomba hozatallal, illetve kereskedéssel elkövetett kábítószer-kereskedelem, kábítószer készítésének elősegítése vagy új pszichoaktív anyaggal visszaélés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 176–177. §, 182. §, 184. §], az ország területére behozatallal, az ország területéről kivitellel, illetve az ország területén átvitellel elkövetett kábítószer birtoklása, kábítószer készítésének elősegítése vagy új pszichoaktív anyaggal visszaélés (Btk. 178–179. §, 182. §, 184. §);
+
+q) bűnös kapcsolat: a felderítés alá vont személlyel való olyan kapcsolat, amely tekintetében
+
+qa) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 326. §-ába ütköző orgazdaság vagy a 244. §-ába ütköző bűnpártolás,
+
+qb) bűnpártolás (Btk. 282. §) vagy orgazdaság (Btk. 379. §)
+
+bűncselekményének gyanúja merül fel;
+
+r) illegális fegyverkereskedelemmel függ össze:
+
+ra) a 2013. június 30-ig hatályban volt visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §),
+
+rb) a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §) és a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §);
 
 s) szervezett bűnözéssel összefüggő bűncselekmény:
 
-sa) a Btk. 263/C. §-ába ütköző bűnszervezetben részvétel bűntette,
+sa) a 2013. június 30-ig hatályban volt emberkereskedelem (1978. évi IV. törvény 175/B. §) bűntette, valamint az emberkereskedelem (Btk. 192. §),
 
-sb) a bűnszervezetben (Btk. 137. § 8. pont) elkövetett öt évi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények,
+sb) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 250–254. §-aiba ütköző vesztegetés minősített esetei bűntette, 255. §-ába ütköző vesztegetés bűntette, 256. §-ába ütköző befolyással üzérkedés minősített eseteinek bűntette, valamint 258/B–258/D. §-aiba ütköző vesztegetés nemzetközi kapcsolatban minősített eseteinek bűntette, illetve a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés és a hivatali vesztegetés elfogadása minősített esetei (Btk. 290–291. és 293–294. §), a vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), a vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), a befolyással üzérkedés minősített esetei (Btk. 299–300. §),
 
-sc) az emberkereskedelem (Btk. 175/B. §) bűntette,
+sc) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 263/C. §-ába ütköző bűnszervezetben részvétel, illetve a bűnszervezetben részvétel (Btk. 321. §),
 
-sd) a Btk. 250–254. §-aiba ütköző vesztegetés minősített esetei bűntette, a Btk. 255. §-ába ütköző vesztegetés bűntette, a Btk. 256. §-ába ütköző befolyással üzérkedés minősített eseteinek bűntette, valamint a Btk. 258/B–258/D. §-aiba ütköző vesztegetés nemzetközi kapcsolatban minősített eseteinek bűntette,
+sd) bűnszervezetben elkövetett, ötévi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények,
 
-se) a Btk. 259. §-ába ütköző közveszélyokozás bűntette, a Btk. 261. §-ába ütköző terrorcselekmény bűntette, a Btk. 262. §-ába ütköző légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette, a Btk. 263/A. §-ának (1) és (3) bekezdésébe ütköző visszaélés lőfegyverrel vagy lőszerrel bűntette, a Btk. 263/B. §-ába ütköző visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, a Btk. 264. §-ába ütköző visszaélés radioaktív anyaggal bűntette, a Btk. 264/C. §-ába ütköző visszaélés nemzetközi szerződés által tiltott fegyverrel bűntette, a Btk. 270/A. §-ának (3) bekezdésébe ütköző közveszéllyel fenyegetés bűntette, a Btk. 274. §-ának (1) bekezdésébe ütköző közokirat-hamisítás bűntette, a Btk. 282–282/B. §-ába ütköző visszaélés kábítószerrel bűncselekmény,
+se) a bűnszövetségben elkövetett,
 
-sf) a Btk. 303–303/A. §-ába ütköző pénzmosás bűntette, a Btk. 304. §-ába ütköző pénzhamisítás bűntette és a Btk. 304/A. §-ába ütköző pénzhamisítás elősegítésének vétsége,
+1. 2011. december 31-ig hatályban volt csempészet,
 
-sg) a bűnszövetségben elkövetett emberi test tiltott felhasználása [Btk. 173/I. § (3) bekezdés b) pont], emberrablás [Btk. 175/A. § (2) bekezdés a) pont], közérdekű üzem működésének megzavarása [Btk. 260. § (2) bekezdés], visszaélés robbanóanyaggal vagy robbantószerrel [Btk. 263. § (3) bekezdés b) pont], visszaélés nukleáris létesítmény üzemeltetésével [Btk. 264/A. § (2) bekezdés], egyedi azonosító jel meghamisítása [Btk. 277/A. § (2) bekezdés b) pont], bélyeghamisítás [Btk. 307. § (3) bekezdés a) pont], költségvetési csalás [Btk. 310. § (3) bekezdés b) pont, (4) bekezdés b) pont, (5) bekezdés b) pont], a 2011. december 31-ig hatályban volt csempészet, készpénz-helyettesítő fizetési eszközzel visszaélés [Btk. 313/C. § (4) bekezdés b) pont, (5) bekezdés b) pont], rablás [Btk. 321. § (3) bekezdés c) pont, (4) bekezdés b) és c) pontjai], illetve zsarolás [Btk. 323. § (2) bekezdés a) pontja] bűntette.
+2. 2013. június 30-ig hatályban volt emberi test tiltott felhasználása [1978. évi IV. törvény 173/I. § (3) bekezdés b) pont], emberrablás [1978. évi IV. törvény 175/A. § (2) bekezdés a) pont], közérdekű üzem működésének megzavarása [1978. évi IV. törvény 260. § (2) bekezdés], visszaélés robbanóanyaggal vagy robbantószerrel [1978. évi IV. törvény 263. § (3) bekezdés b) pont], visszaélés nukleáris létesítmény üzemeltetésével [1978. évi IV. törvény 264/A. § (2) bekezdés], egyedi azonosító jel meghamisítása [1978. évi IV. törvény 277/A. § (2) bekezdés b) pont], bélyeghamisítás [1978. évi IV. törvény 307. § (3) bekezdés a) pont], költségvetési csalás [1978. évi IV. törvény 310. § (3) bekezdés b) pont, (4) bekezdés b) pont, (5) bekezdés b) pont], készpénz-helyettesítő fizetési eszközzel visszaélés [1978. évi IV. törvény 313/C. § (4) bekezdés b) pont, (5) bekezdés b) pont], rablás [1978. évi IV. törvény 321. § (3) bekezdés c) pont, (4) bekezdés b) és c) pont], illetve zsarolás [1978. évi IV. törvény 323. § (2) bekezdés a) pont],
+
+3. emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés c) pont], emberrablás [Btk. 190. § (2) bekezdés b) pont], nukleáris létesítmény üzemeltetésével visszaélés [Btk. 251. § (2) bekezdés], közérdekű üzem működésének megzavarása [Btk. 323. § (2) bekezdés b) pont], robbanóanyaggal vagy robbantószerrel visszaélés [Btk. 324. § (2) bekezdés], egyedi azonosító jellel visszaélés [Btk. 347. § (2) bekezdés], rablás [Btk. 365. § (3) bekezdés d) pont, (4) bekezdés b) pont], zsarolás [Btk. 367. § (2) bekezdés a) pont], információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (2)–(5) bekezdés], bélyeghamisítás [Btk. 391. § (3) bekezdés b) pont], készpénz-helyettesítő fizetési eszközzel visszaélés [Btk. 393. § (2) bekezdés], költségvetési csalás [Btk. 396. § (3) bekezdés b) pont, (4) bekezdés b) pont, (5) bekezdés b) pont],
+
+sf) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 259. §-ába ütköző közveszélyokozás bűntette, 261. §-ába ütköző terrorcselekmény bűntette, 262. §-ába ütköző légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette, 263/A. §-ának (1) és (3) bekezdésébe ütköző visszaélés lőfegyverrel vagy lőszerrel bűntette, 263/B. §-ába ütköző visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, 264. §-ába ütköző visszaélés radioaktív anyaggal bűntette, 264/C. §-ába ütköző visszaélés nemzetközi szerződés által tiltott fegyverrel bűntette, 270/A. § (3) bekezdésébe ütköző közveszéllyel fenyegetés bűntette, 274. § (1) bekezdésébe ütköző közokirat-hamisítás bűntette, 282–282/B. §-ába ütköző visszaélés kábítószerrel, 283/B. §-ába ütköző visszaélés új pszichoaktív anyaggal, illetve a kábítószer-kereskedelem (Btk. 176–177. §), a kábítószer birtoklása (Btk. 178–179. §), a kóros szenvedélykeltés (Btk. 181. §), a kábítószer készítésének elősegítése (Btk. 182. §), az új pszichoaktív anyaggal visszaélés (Btk. 184. §), a radioaktív anyaggal visszaélés [Btk. 250. § (1)–(4) bekezdés], a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása [Btk. 322. § (1)–(4) bekezdés], a lőfegyverrel vagy lőszerrel visszaélés [Btk. 325. § (1) és (3) bekezdés], a nemzetközi szerződés által tiltott fegyverrel visszaélés [Btk. 326. § (1)–(6) bekezdés], a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a közveszéllyel fenyegetés [Btk. 338. § (2) bekezdés], a közokirat-hamisítás [Btk. 342. § (1) bekezdés],
+
+sg) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 303–303/A. §-ába ütköző pénzmosás bűntette, 304. §-ába ütköző pénzhamisítás bűntette és 304/A. §-ába ütköző pénzhamisítás elősegítésének vétsége, illetve a pénzhamisítás (Btk. 389. §), a pénzhamisítás elősegítése (Btk. 390. §), a pénzmosás (Btk. 399–400. §);
 
 t) felderítés alá vont személy: akivel szemben az együttműködő szervek a szervezett bűnözéssel összefüggő bűncselekmény gyanúja miatt felderítő tevékenységet végeznek;
 

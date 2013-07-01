@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-75-00-00
 | 2011-01-01 | 2010. évi CLXXXV. törvény | 1999-75-00-00.21 |
 | 2012-01-01 | 2011. évi CLXVI. törvény | 1999-75-00-00.22 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1999-75-00-00.23 |
+| 2013-07-01 | 2012. évi CCXXIII. törvény | 1999-75-00-00.24 |
