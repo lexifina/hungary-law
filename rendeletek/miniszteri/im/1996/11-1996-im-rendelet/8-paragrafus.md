@@ -6,10 +6,12 @@
 
 a) a fogvatartottat kioktatásban részesíti, ha a cselekmény tárgyi súlya és az elkövető személyisége miatt a Bv. tvr.-ben meghatározott legenyhébb fegyelmi fenyítés kiszabása is szükségtelen,
 
-b) kiszabja és az elítélttel közli a Bv. tvr. 42. § (1) bekezdésének a) pontjában meghatározott fenyítést,
+b)[^4] kiszabja és a fogvatartottal közli a Bv. tvr. 42. § (1) bekezdés a) pontjában, 121. § (1) bekezdés a) pontjában, valamint 125/A. § (2) bekezdés a) pontjában meghatározott fenyítést,
 
 c) az iratokat a fegyelmi jogkör gyakorlójának visszaküldi, ha fegyelmi eljárás lefolytatását vagy súlyosabb büntetés kiszabását tartja indokoltnak, továbbá, ha a cselekmény elkövetését a fogvatartott nem ismerte el.
 
 (3) Ha a fogvatartott a fenyítés ellen panaszt jelent be, vagy a nevelő a (2) bekezdés c) pontja szerint jár el, a továbbiakban az elsőfokú eljárás szabályait kell alkalmazni.
 
 (4) Fegyelmi fenyítés kiszabása esetén a 21. § (6)–(9) bekezdéseit megfelelően alkalmazni kell azzal, hogy a fenyítés kiszabását csak szóban kell indokolni.
+
+[^4]: A 8. § (2) bekezdés b) pontja a 9/2013. (VI. 29.) KIM rendelet 19. § (3) bekezdésével megállapított szöveg.

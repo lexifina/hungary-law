@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya a büntetés-végrehajtási intézetekben (a továbbiakban: intézet) fogvatartott elítéltek, előzetesen letartóztatottak és az elzárást töltő személyek (a továbbiakban: fogvatartott) fegyelmi felelősségére terjed ki.
+## 1. §[^2] A rendelet hatálya a büntetés-végrehajtási intézetekben (a továbbiakban: intézet) fogvatartott szabadságvesztésre ítélt, elzárásra ítélt, előzetesen letartóztatott, és szabálysértési elzárást töltő (a továbbiakban együtt: fogvatartott) fegyelmi felelősségére terjed ki.
 
 2. § (1) Fegyelmi vétséget követ el az a fogvatartott, aki a büntetés-végrehajtás rendjét vétkesen megszegi, más fogvatartottat fegyelmi vétség elkövetésére szándékosan rábír, vagy más fogvatartott részére fegyelmi vétség elkövetéséhez szándékosan segítséget nyújt.
 
@@ -21,3 +21,5 @@ g) olyan tárgyat tart magánál, amely jogszabály rendelkezése alapján nem l
 h) bódító hatás elérésére alkalmas készítményt állít elő, tart vagy használ,
 
 i) az élelem átvételét vagy elfogyasztását az intézet rendjét vagy biztonságát sértő feltételhez köti.
+
+[^2]: Az 1. § a 9/2013. (VI. 29.) KIM rendelet 19. § (1) bekezdésével megállapított szöveg.
