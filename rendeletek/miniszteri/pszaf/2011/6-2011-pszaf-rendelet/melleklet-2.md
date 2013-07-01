@@ -1,6 +1,86 @@
-## 20110G20000006_1
+## ÖSSZEFOGLALÓ TÁBLÁZAT
 
-2. melléklet a 6/2011. (III. 21.) PSZÁF rendelethez[^7]
+| Táblakód | Megnevezés | Gyakoriság | Adatszolgáltató | Beküldési határidő (munkanapok száma a vonatkozási időhöz viszonyítva, illetve dátum) |
+
+| A/ Egyedi táblák |
+
+| 50A | Befektetési alap nettó eszközértékének megállapítása | N HE | BA | 2 a hét 2. munkanapja, 18 óra |
+
+| 50W | Befektetési alap egy jegyre jutó nettó eszközértéke | N HE | BA | 2 a hét 2. munkanapja, 18 óra |
+
+| 50B | Nettósított értékpapírpozíciók | N HE | BA | 2 a hét 2. munkanapja, 18 óra |
+
+| 50C | Portfóliók hozama, költsége, az alapkezelő díjbevétele | NÉ | BAK, BAKF | 20 |
+
+| 50D | A hozamra és a tőke megóvására tett ígéret miatti kötelezettségek | NÉ | BAK, BAKF | 20 |
+
+| 50F | A befektetési alap egyes jellemzői | NÉ | BAK, BAKF | 20 |
+
+| 50GA | Fogyasztói panaszügyekre vonatkozó adatok I. | NÉ | BAK, BAKF | 20 |
+
+| 50GB | Fogyasztói panaszügyekre vonatkozó adatok II. | NÉ | BAK, BAKF | 20 |
+
+| 50H | Kereskedési partnerek, letétkezelők | NÉ | BAK, BAKF | 20 |
+
+| 50I | A befektetési alapok nettó eszközértéke és száma a negyedév végén | NÉ | BAK, BAKF | 20 |
+
+| 50EE | Befektetési alapkezelő - mérleg / eszközök | É | BAK, BAKF | nem auditált: január 31. auditált: az elfogadást követő 15 nap, de legkésőbb június 15. |
+
+| 50EF | Befektetési alapkezelő - mérleg / források | É | BAK, BAKF |
+
+| 50ER | Befektetési alapkezelő - eredménykimutatás | É | BAK, BAKF |
+
+| B/ Felügyeleti díjra vonatkozó táblák |
+
+| ALAPVDN | Befektetési alap, kockázati tőkealap felügyeleti változó díj számítása (negyedéves) | NÉ | BA | 20 |
+
+| AKVDN | Befektetési alapkezelő változó díj számítása (negyedéves) | NÉ | BAK | 20 |
+
+| AKFVDN | EU tagállami befektetési alapkezelő fióktelepe felügyeleti változó díj számítása (negyedéves) | NÉ | BAKF | 20 |
+
+| AKAD | A befektetési alapkezelő által fizetendő felügyeleti alapdíj (éves) | É | BAK | január 31. |
+
+| AKFAD | EU tagállami befektetési alapkezelő fióktelepe által fizetendő felügyeleti alapdíj (éves) | É | BAKF | január 31. |
+
+| C/ A befektetési alapkezelőre, valamint a befektetési alapokra vonatkozóan, az éves auditált jelentéssel egyidejűleg elektronikusan megküldendő szöveges állományok |
+
+| Rövid név | Megnevezés | Gyakoriság | Adatszolgáltató | Beküldési határidő |
+
+| merleg | Éves beszámoló - mérleg | É | BAK, BAKF BA |  |
+
+| erkim | Éves beszámoló - eredménykimutatás | É | BAK, BAKF BA |  |
+
+| cashflow | Éves beszámoló - cash-flow | É | BAK, BAKF BA | BA esetében: április 30. |
+
+| kiegmell | Éves beszámoló - kiegészítő melléklet | É | BAK, BAKF BA | BAK és BAKF esetében: a beszámoló elfogadását követő 15 nap, |
+
+| konyvzar | Könyvvizsgálói záradék vagy jelentés | É | BAK, BAKF BA | de legkésőbb június 15. |
+
+| kozgyhat | Közgyűlési határozat vagy jegyzőkönyv | É | BAK, BAKF |  |
+
+| erfeloszt | Adózott eredmény felhasználására vonatkozó határozat | É | BAK, BAKF |  |
+
+| uzljel | Üzleti jelentés | É | BAK, BAKF BA |  |
+
+| Az összefoglaló táblázatban előforduló rövidítések |  |  |
+
+| Gyakoriság | Napi | N |  |  |
+
+|  | Heti | HE |  |  |
+
+|  | Negyedéves | NÉ |  |  |
+
+|  | Éves | É |  |  |
+
+| Adatszolgáltató | Befektetési alapkezelő | BAK |  |  |
+
+|  | Befektetési alapkezelő fióktelepe | BAKF |  |  |
+
+|  | Befektetési alap | BA |  |  |
+
+## 20110G20000006_2
+
+2. melléklet a 6/2011. (III. 21.) PSZÁF rendelethez[^9]
 
 Kitöltési útmutató
 
@@ -114,7 +194,7 @@ Az ismétlő blokkon belüli egyéb követelés sorba akkor kell adatot írni, h
 
 A tábla tartalmazza mindazon eszközöket, amelyekbe az alapok a Batv. szerint befektethetnek.
 
-Az állampapírok – a limiteknek megfelelően – OECD és nem OECD állampapírok csoportosításba kerültek.
+Az állampapírok a limiteknek megfelelően OECD és nem OECD állampapírok csoportosításba kerültek.
 
 A tábla oszlopai
 
@@ -124,7 +204,7 @@ A tábla oszlopai
 
 3. oszlop: Az alapban található eszközök darabszáma.
 
-4. oszlop: A befektetési és egyéb eszközöknek az alap kezelési szabályzatában foglalt értékelési elvek szerint kiszámított értéke. A nem az alap nyilvántartás szerinti devizanemében denominált eszközöket – az alap kezelési szabályzatában foglaltak szerint – nyilvántartás szerinti devizanemre átszámított értéken kell jelenteni.
+4. oszlop: A befektetési és egyéb eszközöknek az alap kezelési szabályzatában foglalt értékelési elvek szerint kiszámított értéke. A nem az alap nyilvántartás szerinti devizanemében denominált eszközöket - az alap kezelési szabályzatában foglaltak szerint - nyilvántartás szerinti devizanemre átszámított értéken kell jelenteni.
 
 5. oszlop: Az eszközök nettósított kockázati kitettségének a Bakr. 22. § (2) bekezdés szerint kiszámított értéke.
 
@@ -186,9 +266,9 @@ A táblát az alap nyilvántartás szerinti devizanemében kell kitölteni.
 
 Az értékpapír-pozíciók nettósításának egyes kérdései
 
-Az azonnali ügyletek esetében az értékpapír-pozíciót nettósítani kell a megkötött, de még nem teljesített eladási és vételi tranzakciók – kezelési szabályzat szerinti – piaci áron számított értékével.
+Az azonnali ügyletek esetében az értékpapír-pozíciót nettósítani kell a megkötött, de még nem teljesített eladási és vételi tranzakciók - kezelési szabályzat szerinti - piaci áron számított értékével.
 
-A határidős eladási tranzakció értékpapír-mennyiségével (névérték, darabszám) csökkenteni, míg a határidős vételi pozíció mennyiségével növelni kell az azonnali pozíció mennyiségét, és az így kialakult nettó pozíciót aktuális piaci áron értékelni. Másik lehetőség a táblázat logikáját követve, a határidős pozíciót az azonnali piaci árral számításba venni és így nettósítani. A piaci ár meghatározásánál – itt és minden további esetben is – az alap kezelési szabályzatában foglaltakat kell alkalmazni.
+A határidős eladási tranzakció értékpapír-mennyiségével (névérték, darabszám) csökkenteni, míg a határidős vételi pozíció mennyiségével növelni kell az azonnali pozíció mennyiségét, és az így kialakult nettó pozíciót aktuális piaci áron értékelni. Másik lehetőség a táblázat logikáját követve, a határidős pozíciót az azonnali piaci árral számításba venni és így nettósítani. A piaci ár meghatározásánál - itt és minden további esetben is - az alap kezelési szabályzatában foglaltakat kell alkalmazni.
 
 Opciós ügyletek
 
@@ -196,7 +276,7 @@ Kiírt opció esetén a pozíció piaci értéke és a delta tényező szorzatá
 
 Opciós jogosultság esetén az eladási, illetve vételi opció kötési volumene piaci áron számított nagyságának és az opció delta tényezőjének szorzatát lehet a nettósításnál figyelembe venni.
 
-Az adott opció delta tényezőjét az alap tájékoztatójában – vagy ennek hiányában az alapkezelő saját szabályzatában – foglaltaknak megfelelően kell kiszámítani.
+Az adott opció delta tényezőjét az alap tájékoztatójában - vagy ennek hiányában az alapkezelő saját szabályzatában - foglaltaknak megfelelően kell kiszámítani.
 
 Index-termékek
 
@@ -242,11 +322,11 @@ A befektetési alapok kategorizálása
 
 | Szabad futamidejű kötvényalapok | Olyan alapok, amelyek nem ragaszkodnak egy előre meghatározott durációs limithez. |
 
-| Kötvénytúlsúlyos (vagy óvatos) vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya nem haladja meg a 35%-ot. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 20 %-ot tehetnek ki – ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
+| Kötvénytúlsúlyos (vagy óvatos) vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya nem haladja meg a 35%-ot. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 20%-ot tehetnek ki - ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
 
-| Kiegyensúlyozott vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya 35-65%. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 40 %-ot tehetnek ki – ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
+| Kiegyensúlyozott vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya 35-65%. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 40%-ot tehetnek ki - ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
 
-| Dinamikus vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya meghaladja a 65%-ot. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 40 %-ot tehetnek ki – ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
+| Dinamikus vegyes alapok | A portfolióban lévő nem kötvény típusú eszközök aránya meghaladja a 65%-ot. A nem részvény típusú eszközök kategóriánként (pl. ingatlan-típusú, árupiaci típusú) legfeljebb 40%-ot tehetnek ki - ebből a szempontból a befektetési jegyek teljes egészében a kategóriának megfelelő kitettséget jelentenek, függetlenül az alap feltöltöttségétől. |
 
 | Részvényalapok | A portfolióban lévő részvény-típusú eszközök aránya meghaladja a 80%-ot. |
 
@@ -260,7 +340,7 @@ A befektetési alapok kategorizálása
 
 | Közvetlen ingatlanokba fektető alapok | Azon alapok, amelyek az ingatlankitettséget közvetlen ingatlanok tartásával valósítják meg. |
 
-| Közvetett ingatlanokba fektető alapok | Azon alapok, amelyek a 40 %-ot meghaladó ingatlankitettséget közvetett módon (alapokon, ingatlanrészvényeken stb. keresztül) valósítják meg. |
+| Közvetett ingatlanokba fektető alapok | Azon alapok, amelyek a 40%-ot meghaladó ingatlankitettséget közvetett módon (alapokon, ingatlanrészvényeken stb. keresztül) valósítják meg. |
 
 Az egyes alapok kategóriába sorolásának kiegészítő szabályai:
 
@@ -290,15 +370,15 @@ A tábla oszlopai:
 
 A tábla sorai:
 
-50C51 sor: Halmozódástól tisztított összesen I. = (alapok+pénztárak+biztosítói portfoliók+egyéb portfoliók) - (a pénztári, biztosítói, egyéb portfoliókban lévő saját befektetési alapok befektetési jegyei)
+50C51 sor: Halmozódástól tisztított összesen I. = (alapok+pénztárak+biztosítói portfóliók+egyéb portfoliók) - (a pénztári, biztosítói, egyéb portfoliókban lévő saját befektetési alapok befektetési jegyei)
 
 50C511 sor: Halmozódástól tisztított összesen II. = (alapok+pénztárak+biztosítói portfoliók+egyéb portfoliók) - (az alapokban és a pénztári, biztosítói, egyéb portfoliókban lévő saját befektetési alapok befektetési jegyei)
 
-50C5111 sor: Halmozódástól tisztított összesen III. = (alapok+pénztárak+biztosítói portfoliók+egyéb portfoliók) - (az alapokban és a pénztári, biztosítói, egyéb portfoliókban lévő hazai befektetési alapok befektetési jegyei)
+50C5111 sor: Halmozódástól tisztított összesen III. = (alapok+pénztárak+biztosítói portfóliók+egyéb portfoliók) - (az alapokban és a pénztári, biztosítói, egyéb portfoliókban lévő hazai befektetési alapok befektetési jegyei)
 
 50D HOZAMRA, ILLETVE TŐKE MEGÓVÁSÁRA TETT ÍGÉRET MIATTI KÖTELEZETTSÉGEK
 
-A táblát portfoliónkénti bontásban kell kitölteni, a Batv. 23. §-ában leírtak figyelembe vételével.
+A táblát portfóliónkénti bontásban kell kitölteni, a Batv. 23. §-ában leírtak figyelembe vételével.
 
 A tábla oszlopai:
 
@@ -315,8 +395,6 @@ A tábla oszlopai:
 50F A BEFEKTETÉSI ALAP EGYES JELLEMZŐI
 
 Azokra az alapokra kell kitölteni a táblát, amelyek a tárgynegyedévben legalább egy napon működtek.
-
-A tábla oszlopai:
 
 3. oszlop Az alap működési formája és fajtája: A lehetséges értékek: nyilvános nyíltvégű, nyilvános zártvégű, zártkörű nyíltvégű, zártkörű zártvégű.
 
@@ -376,7 +454,7 @@ Az ügyfelekkel szemben tanúsított magatartás, udvariatlan kiszolgálás, neh
 
 Jutalék, költség, díj mértéke
 
-A portfolió-kezelési tevékenységhez kapcsolódóan vagy egyéb címen felszámított jutalék, költség, díj mértéke, vagy új díj bevezetése miatti panasz.
+A portfólió-kezelési tevékenységhez kapcsolódóan vagy egyéb címen felszámított jutalék, költség, díj mértéke, vagy új díj bevezetése miatti panasz.
 
 Kamat, hozam mértéke
 
@@ -444,7 +522,7 @@ A tábla sorai:
 
 50GB333 Lakossági ügyfelek részére vezetett ügyfélszámlák száma (db): A lakossági ügyfelek részére vezetett, a Tpt. 5. § (1) bekezdés 130. pontja szerinti ügyfélszámlák száma.
 
-50GB341 sor: A befektetési alapkezelőt, mint panaszoltat érintő azon ügyek száma, amelyek kapcsán a Pénzügyi Békéltető Testület eljárását megindította és erről a tárgynegyedévben értesítette az alapkezelőt.
+50GB341 sor: A befektetési alapkezelőt, mint panaszokat érintő azon ügyek száma, amelyek kapcsán a Pénzügyi Békéltető Testület eljárását megindította és erről a tárgynegyedévben értesítette az alapkezelőt.
 
 50GB342 sor: Azon ügyek száma, amelyekkel kapcsolatban a befektetési alapkezelő a tárgynegyedévben igenlő alávetési nyilatkozatot tett, függetlenül attól, hogy az eljárás mikor indult.
 
@@ -460,9 +538,7 @@ A tábla kitöltése:
 
 A befektetési alapkezelő által, a befektetéskezelési tevékenysége során, az üzletkötéshez igénybe vett kereskedési partnereket, letétkezelőket kell a táblázatban felsorolni partnerenként, letétkezelőnként külön-külön sorban kimutatva a velük szemben fennálló kitettség értékét.
 
-A külföldi pénznemben fennálló számlaegyenlegek értékét és a külföldi devizában denominált értékpapírokat forintban kell szerepeltetni. Az átváltási árfolyam a számviteli politikában, kezelési szabályzatban, egyéb dokumentumokban (szerződés) meghatározott árfolyam, illetve ha ilyen nincs, akkor a negyedév végén érvényes, MNB által közzétett hivatalos árfolyam.
-
-Az értékpapírok piaci értékének meghatározásához (a 9. és 10. oszlopnál) az alapkezelő befektetési alapokra vonatkozó kezelési szabályzatában, illetve egyedi portfóliók esetében a szerződésben előírt értékelési szabályokat kell alkalmazni.
+A külföldi pénznemben fennálló számlaegyenlegek értékét és a külföldi devizában denominált értékpapírokat forintban kell szerepeltetni. Az átváltási árfolyam a számviteli politikában, kezelési szabályzatban, egyéb dokumentumokban (szerződés) meghatározott árfolyam, illetve ha ilyen nincs, akkor a negyedév végén érvényes, MNB által közzétett hivatalos árfolyam. Az értékpapírok piaci értékének meghatározásához (a 9. és 10. oszlopnál) az alapkezelő befektetési alapokra vonatkozó kezelési szabályzatában, illetve egyedi portfóliók esetében a szerződésben előírt értékelési szabályokat kell alkalmazni.
 
 A tábla oszlopai:
 
@@ -494,7 +570,7 @@ A Batv. 47. § (1) bekezdésében szereplő bontásban szerepel az alapok nettó
 
 ALAPVDN BEFEKTETÉSI ALAP FELÜGYELETI DÍJA - A VÁLTOZÓ RÉSZ SZÁMÍTÁSA (NEGYEDÉVES)
 
-A befektetési alap által fizetendő változó díj éves mértékét a Batv. 130. § alapján kell meghatározni.
+A befektetési alap által fizetendő változó díj éves mértékét a Batv. 130. § (3)-(4) bekezdése alapján kell meghatározni.
 
 Az adatokat ezer forintban kell jelenteni.
 
@@ -506,37 +582,37 @@ ALAPVDN00101 Tárgynegyedévi működés napjainak száma: Teljes tárgynegyedé
 
 ALAPVDN00102 Tárgynegyedévi változó díj alapja (nettó eszközérték): Az alap HUF-ra átszámított nettó eszközértékének negyedéves átlaga.
 
-ALAPVDN00104 Tárgynegyedévi változó díj fizetési kötelezettség összesen = ALAPVDN00103 - ALAPVDN00111
+ALAPVDN00104 Tárgynegyedévi változó díj fizetési kötelezettség összesen = ALAPVDN00103-ALAPVDN00111
 
 Az ALAPVDN00105-ALAPVDN00111 sorokat csak a II. negyedévre vonatkozó jelentésben kell kitölteni.
 
 ALAPVDN00105 Előző évi működés napjainak száma (nap): Teljes évi működés esetén 360 nap jelentendő. Ha az alapkezelő tevékenységét év közben kezdi meg, akkor a működési napok száma = 360 nap mínusz azon napok száma, amikor az alap még nem működött.
 
-ALAPVDN00109 Előző évre számított változó díj korrekciója = ALAPVDN00108 - ALAPVDN00107
+ALAPVDN00109 Előző évre számított változó díj korrekciója = ALAPVDN00108-ALAPVDN00107
 
 ALAPVDN00110 Előző évben összesen ténylegesen befizetett felügyeleti változó díj = ALAPVDN001101 + ALAPVDN001102
 
-ALAPVDN00111 Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) = ALAPVDN001102 - ALAPVDN00107
+ALAPVDN00111 Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) = ALAPVDN001102-ALAPVDN00107
 
 AKVDN BEFEKTETÉSI ALAPKEZELŐ FELÜGYELETI DÍJA - A VÁLTOZÓ RÉSZ SZÁMÍTÁSA (NEGYEDÉVES)
 
-A befektetési alapkezelő által fizetendő változó díj éves mértékét a Batv. 130. § alapján kell meghatározni.
+A befektetési alapkezelő által fizetendő változó díj éves mértékét a Batv. 130. § (3)-(4) bekezdése alapján kell meghatározni.
 
 Az adatokat ezer forintban kell jelenteni.
 
 A tábla adatainak számítása:
 
-AKVDN02 Tárgynegyedévi változó díj alapja – portfóliókezelési tevékenység keretében kezelt portfólió átlagos nettó eszközértéke: A Batv. 130. § (3) bekezdése szerinti kezelt portfólió nettó eszközértékének negyedéves átlaga.
+AKVDN02 Tárgynegyedévi változó díj alapja - portfóliókezelési tevékenység keretében kezelt portfólió átlagos nettó eszközértéke: A Batv. 130. § (3) bekezdése szerinti kezelt portfólió nettó eszközértékének negyedéves átlaga.
 
-AKVDN04 Tárgynegyedévi változó díj fizetési kötelezettség összesen = AKVDN03 - AKVDN11
+AKVDN04 Tárgynegyedévi változó díj fizetési kötelezettség összesen = AKVDN03-AKVDN11
 
 Az AKVDN05-AKVDN11 sorokat csak a II. negyedévre vonatkozó jelentésben kell kitölteni.
 
-AKVDN09 Előző évre számított változó díj korrekciója = AKVDN08 - AKVDN07
+AKVDN09 Előző évre számított változó díj korrekciója = AKVDN08-AKVDN07
 
-AKVDN10 Előző évben összesen ténylegesen befizetett felügyeleti változó díj = AKVDN101 + AKVDN102
+AKVDN10 Előző évben összesen ténylegesen befizetett felügyeleti változó díj = AKVDN101 +AKVDN102
 
-AKVDN11 Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) = (AKVDN102 - AKVDN07)
+AKVDN11 Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) = (AKVDN102-AKVDN07)
 
 AKFVDN EU TAGÁLLAMI BEFEKTETÉSI ALAPKEZELŐ FIÓKTELEPE FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (NEGYEDÉVES)
 
@@ -548,21 +624,21 @@ A tábla adatainak számítása:
 
 AKFVDN02 Tárgynegyedévi változó díj alapja (portfóliókezelési tevékenység keretében kezelt portfólió átlagos nettó eszközértéke): A Batv. 130. § (3) bekezdése szerinti kezelt portfólió nettó eszközértékének negyedéves átlaga.
 
-AKFVDN04 Tárgynegyedévi változó díj fizetési kötelezettség összesen = AKFVDN03 - AKFVDN11
+AKFVDN04 Tárgynegyedévi változó díj fizetési kötelezettség összesen = AKFVDN03-AKFVDN11
 
 Az AKFVDN05-AKFVDN11 sorokat csak a II. negyedévre vonatkozó jelentésben kell kitölteni.
 
-AKFVDN09 Előző évre számított változó díj korrekciója = AKFVDN08 - AKFVDN07
+AKFVDN09 Előző évre számított változó díj korrekciója = AKFVDN08-AKFVDN07
 
-AKFVDN10 Előző évben összesen ténylegesen befizetett felügyeleti változó díj = AKFVDN101 + AKFVDN102
+AKFVDN10 Előző évben összesen ténylegesen befizetett felügyeleti változó díj = AKFVDN101+AKFVDN102
 
-AKFVDN11 Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) = (AKFVDN102 - AKFVDN07)
+AKFVDN11 Előző évre számított pénzügyileg rendezendő korrekció összesen (túlfizetés + / hiány -) = (AKFVDN102-AKFVDN07)
 
 50EE BEFEKTETÉSI ALAPKEZELŐK MÉRLEGE - ESZKÖZÖK
 
 Az Szmt. vonatkozó előírásainak megfelelően kell kitölteni.
 
-50EF BEFEKTETÉSI ALAPKEZELŐK MÉRLEGE – FORRÁSOK
+50EF BEFEKTETÉSI ALAPKEZELŐK MÉRLEGE - FORRÁSOK
 
 Az Szmt. vonatkozó előírásainak megfelelően kell kitölteni.
 
@@ -576,7 +652,7 @@ A tábla beküldési határideje: tárgyév január 31.
 
 Az adatokat ezer forintban kell szerepeltetni.
 
-A befektetési alapkezelő által fizetendő alapdíj éves mértékét a Batv. 130. § alapján kell meghatározni.
+A befektetési alapkezelő által fizetendő alapdíj éves mértékét a Batv. 130. § (2) bekezdése alapján kell meghatározni.
 
 AKFAD EU TAGÁLLAMI BEFEKTETÉSI ALAPKEZELŐ FIÓKTELEPE ÁLTAL FIZETENDŐ ALAPDÍJ (ÉVES)
 
@@ -584,88 +660,6 @@ A tábla beküldési határideje: tárgyév január 31.
 
 Az adatokat ezer forintban kell szerepeltetni.
 
-Az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe által fizetendő felügyeleti alapdíj éves mértékét a Batv. 130. § alapján kell meghatározni.
+Az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe által fizetendő felügyeleti alapdíj éves mértékét a Batv. 130. § (2) bekezdése alapján kell meghatározni.
 
-KTAAE1 INTÉZMÉNYI ALAPADATOK
-
-Az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe nem jelenti.
-
-KTAAE116 sor: Az intézmény jogi státuszaként az alábbi lehetőségek valamelyike választható: aktív, cégbírósági nyilvántartásba vétel alatt, felszámolás alatt, végelszámolás alatt, átalakulás alatt/beolvadás, átalakulás alatt/összeolvadás, átalakulás alatt/különválás, átalakulás alatt/kiválás, átalakult/beolvadt, átalakult/összeolvadt, átalakult/különvált, átalakult/kivált, inaktív.
-
-KTAAE2 VEZETŐ ÁLLÁSÚ SZEMÉLYEK ADATAI
-
-Az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe nem jelenti.
-
-A Batv. 3. § 69. pontja alapján vezető állású személynek minősülő tisztségviselőre vonatkozóan kell kitölteni.
-
-A tisztségviselőt annak újbóli megválasztása vagy kinevezése esetén az Újraválasztás dátuma cella kitöltésével újra be kell jelenteni.
-
-Ha a tisztségviselő megbízatását, kinevezését visszavonták, akkor a tisztségviselőt a tisztség betöltésének vége dátum megadásával ki kell jelenteni.
-
-A Bejelentés oka cellában az alábbi kódok közül kell választani: „új”, „újraválasztás”, „megszűnés”, „megszűnés elhalálozás miatt”, „adatváltozás”, „adategyeztetés”.
-
-Változás esetén a változásban érintett vezető állású személy adatain túl minden esetben az intézmény vezető állású személyeinek aktuális teljes listáját is szerepeltetni kell. Ebben az esetben a Bejelentés oka cellában az „adategyeztetés” kódot kell kiválasztani.
-
-A táblában „igen” vagy „nem” válasszal kell jelölni, hogy a tisztségviselő vezető beosztásúnak minősül-e, elsőszámú vezető-e, illetve, hogy az intézmény alkalmazottja-e.
-
-A Tisztség betöltésének alapja cellában kell megjelölni, hogy a tisztségviselő a tisztségét „megválasztás” vagy „kinevezés” útján látja el.
-
-A Cégjegyzési joggal rendelkezik cellában kell megjelölni, hogy a tisztségviselő rendelkezik-e cégjegyzési joggal, és ha igen, akkor azt „önállóan” vagy „együttesen” gyakorolja. Amennyiben cégjegyzési joggal nem rendelkezik azt a „nincs joga” szöveggel kell jelezni.
-
-A „Tisztség betöltésének kezdete”, a „Tisztség betöltésének vége” és az „Újraválasztás dátuma” cellák közül legalább az egyik kitöltése kötelező.
-
-KTAAE3 KÖNYVVIZSGÁLÓ ADATAI
-
-Az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe nem jelenti.
-
-A könyvvizsgáló személyére vonatkozó adatok könyvvizsgáló társaság és természetes személy megbízása esetén is kötelezően kitöltendőek.
-
-KTAAE4 KISZERVEZÉSI ADATOK
-
-Az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe nem jelenti.
-
-Attól függően, hogy a kiszervezett tevékenységet természetes személy vagy intézmény végzi, a megfelelő sorok értelemszerűen kitöltendők.
-
-KTAAE5 TULAJDONOS ADATAI
-
-Az adatszolgáltató tulajdonosára vonatkozó adatokat kell megadni, függetlenül attól, hogy eredeti részesedésszerzésről, vagy megváltozó (vétel vagy eladás) tulajdonlásról van-e szó.
-
-Ha a tulajdonos természetes személy, akkor a KTAAE51 kezdetű blokkot kell kitölteni, ha pedig nem természetes személy, akkor a KTAAE52 kezdetű blokkot.
-
-A blokkokon belül külön-külön szakaszban kell feltüntetni a közvetlen, illetve a közvetett tulajdonrészeket.
-
-A közvetett tulajdonrészre vonatkozóan a Tpt. 5. § (1) bekezdés 84. pontja szerint átszámított végeredményt, a tulajdonlás típusa mezőbe pedig a „közvetett” szót kell beírni. A köztes vállalkozás adatait – ha a tulajdonos magánszemély – pl. a KTAAE5101091 - KTAAE51010913 sorokban kell megjeleníteni.
-
-Az eseti jelentés célja, hogy – a tulajdonos adatain kívül – a tulajdonváltozásban érintett tulajdonrésznek a tulajdonváltozás előtti állapotát, és magát a tulajdonváltozást rögzítse. Természetes személy esetén pl. a KTAAE5101 - KTAAE5101064 sorok tartalmazzák a tulajdonos adatait, a KTAAE5101071- KTAAE5101078 sorok rögzítik a tulajdonváltozás előtti állapotot, míg a KTAAE5101081- KTAAE5101088 sorok írják le a tranzakció adatait.
-
-A „tulajdonváltozás előtti állapot vonatkozási dátuma” sorba az az időpont kerül, amióta a jelentendő tranzakció előtti állapot fennállt az adott tulajdonos esetében.
-
-A „tulajdonváltozás típusa” sorba a „szerzés”, illetve „átruházás” megjelölés kerül, és ezenkívül meg kell adni annak az üzleti partnernek a nevét is, akivel a tranzakciót lebonyolították. (Több partner esetén mindegyiket fel kell sorolni.)
-
-Átruházás esetén az új tulajdonosról és a tulajdonáról egy új ismétlőblokkot kell kitölteni.
-
-A tábla december 31-i állapotra vonatkozó beküldése egyúttal a Batv. 136. § (1) bekezdés b) pontjában foglalt, Felügyelet felé történő bejelentési kötelezettség teljesítését is jelenti.
-
-KTAFAE1 INTÉZMÉNYI ALAPADATOK
-
-Csak az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe jelenti.
-
-A tábla kitöltése megegyezik a KTAAE1 táblánál leírtakkal.
-
-KTAFAE2 VEZETŐ ÁLLÁSÚ SZEMÉLYEK ADATAI
-
-Csak az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe jelenti.
-
-Az adatlapot a Batv. 3. § 69. pontja alapján vezető állású személynek minősülő tisztségviselőre vonatkozóan kell kitölteni.
-
-Kitöltésénél a KTAAE2 táblánál leírtak az irányadók.
-
-KTAFAE3 TULAJDONOS ADATAI
-
-Csak az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe jelenti.
-
-Kitöltése megegyezik a KTAAE5 táblánál leírtakkal.
-
-A tábla december 31-i állapotra vonatkozó beküldése egyúttal a Batv. 136. § (1) bekezdés b) pontjában foglalt, Felügyelet felé történő bejelentési kötelezettség teljesítését is jelenti.
-
-[^7]: A 2. melléklet a 22/2012. (XI. 14.) PSZÁF rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet a 22/2012. (XI. 14.) PSZÁF rendelet 2. § (2) bekezdésével megállapított, a 3/2013. (IV. 26.) PSZÁF rendelet 6. § (2) bekezdése szerint módosított szöveg.
