@@ -10,17 +10,13 @@
 
 a) büntetett előéletű, vagy a vezető állás betöltését kizáró foglalkozástól eltiltás hatálya alatt áll,
 
-b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, XVII. fejezetében meghatározott gazdasági bűncselekmény, valamint XVIII. fejezetében meghatározott vagyon elleni bűncselekmény elkövetése miatt
+b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította
 
-ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig,
+ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, XVII. fejezetében meghatározott gazdasági bűncselekmény, valamint XVIII. fejezetében meghatározott vagyon elleni bűncselekmény elkövetése miatt,
 
-bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
+bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII. Fejezetében meghatározott korrupciós bűncselekmény, XXXV. Fejezetében meghatározott vagyon elleni erőszakos bűncselekmény, XXXVI. Fejezetében meghatározott vagyon elleni bűncselekmény, XXXVII. Fejezetében meghatározott szellemi tulajdonjog elleni bűncselekmény, XXXVIII. Fejezetében meghatározott pénz- és bélyegforgalom biztonsága elleni bűncselekmény, XXXIX. Fejezetében meghatározott költségvetést károsító bűncselekmény, XL. Fejezetében meghatározott pénzmosás, XLI. Fejezetében meghatározott gazdálkodás rendjét sértő bűncselekmény, XLII. Fejezetében meghatározott fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmény, valamint XLIII. Fejezetében meghatározott tiltott adatszerzés és az információs rendszer elleni bűncselekmény elkövetése miatt,
 
-bc) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítéstől számított öt évig,
-
-bd) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
-
-be) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
+szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítéstől számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
 
 c) a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 91. §-a szerinti szakmai alkalmassággal és üzleti megbízhatósággal nem rendelkezik,
 
