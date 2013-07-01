@@ -26,4 +26,6 @@
 
 | VI. A HELYESBÍTÉSI KÉRELEM FELADÁSÁNAK IDŐPONTJA: ⬜⬜⬜⬜/⬜⬜/⬜⬜(év/hó/nap ) |
 
-7. melléklet a 92/2011. (XII. 30.) NFM rendelethez
+7. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^11]
+
+[^11]: A 7. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § d) pontjával megállapított szöveg.

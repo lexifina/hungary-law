@@ -202,4 +202,6 @@
 
 ## --------------------(Ez a melléklet szükség szerint több példányban is használható)------------------
 
-3. melléklet a 92/2011. (XII. 30.) NFM rendelethez
+3. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^9]
+
+[^9]: A 3. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § b) pontjával megállapított szöveg.

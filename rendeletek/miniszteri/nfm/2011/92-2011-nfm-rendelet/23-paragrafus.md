@@ -8,6 +8,8 @@
 
 (3) Ha a 27–32. §-ban meghatározott hirdetmények esetében a TED-adatbankban közzétett hirdetmény és az Értesítőben – tájékoztató jelleggel – közzétett hirdetmény tartalma között eltérés van, a hirdetmény ellenőrzésért felelős szervezeti egység a kérelmező kérelme alapján az Értesítőben helyesbítést tesz közzé.
 
-(4) A kérelmezőnek az (1) és (3) bekezdés szerinti helyesbítést a 34. § (6) bekezdése szerinti hirdetményminta kitöltésével és benyújtásával kell kezdeményeznie.
+(4)[^1] A kérelmezőnek az (1) és (3) bekezdés szerinti helyesbítést a 34. § (11) bekezdése szerinti hirdetményminta kitöltésével és benyújtásával kell kezdeményeznie.
 
 (5) A kérelmezőnek a (2) bekezdés szerinti helyesbítést a 32. § szerinti hirdetményminta kitöltésével és benyújtásával kell kezdeményeznie.
+
+[^1]: A 23. § (4) bekezdése a 36/2013. (VI. 30.) NFM rendelet 4. §-a szerint módosított szöveg.
