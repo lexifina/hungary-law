@@ -100,6 +100,8 @@ h) regisztrálási szakterületét, valamint
 
 i) szakmai továbbképzési kötelezettségének teljesítését.
 
+(8a) A könyvviteli szolgáltatást végzők nyilvántartása – a (8) bekezdés b) és c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (9) A könyvviteli szolgáltatást végzők nyilvántartása tartalmazhatja, a könyvviteli szolgáltatást végző önkéntes adatszolgáltatása alapján a nyilvántartásba felvettek
 
 a) telefonszámát,

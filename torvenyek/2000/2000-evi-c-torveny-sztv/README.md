@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2012-12-01 | 2012. évi CXLVI. törvény | 2000-100-00-00.42 |
 | 2013-01-01 | 2012. évi CLXXVIII. törvény | 2000-100-00-00.43 |
 | 2013-06-30 | 2013. évi CIII. törvény | 2000-100-00-00.44 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2000-100-00-00.45 |
