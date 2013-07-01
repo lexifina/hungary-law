@@ -1,7 +1,7 @@
-103. § (1) Az idegenrendészeti hatóság a külföldre utazási tilalom hatálya alatt álló harmadik országbeli állampolgár következő adatait kezeli:
+103. § (1) Az idegenrendészeti hatóság a külföldre utazási korlátozás hatálya alatt álló harmadik országbeli állampolgárral kapcsolatos következő adatokat kezeli:
 
-a) a természetes személyazonosító adatok;
+a) a harmadik országbeli állampolgár természetes személyazonosító adatai, valamint
 
-b) a külföldre utazási tilalmat kezdeményező szerv megnevezése.
+b) a külföldre utazási korlátozást kezdeményező szerv megnevezése.
 
-(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a tilalom megszűnéséig kezeli.
+(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a korlátozás megszűnéséig kezeli.

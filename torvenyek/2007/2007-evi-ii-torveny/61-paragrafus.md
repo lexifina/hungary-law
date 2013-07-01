@@ -12,7 +12,7 @@ c) a külön jogszabályban meghatározottak szerint csomag átvételére és k�
 
 d) az élelmezésének saját költségén történő kiegészítésére;
 
-e) vallásának gyakorlására;
+e) vallásának gyakorlására, ideértve a vallási előírásoknak megfelelő étkezést is;
 
 f) a rendelkezésre álló közművelődési lehetőségek igénybevételére;
 
@@ -34,4 +34,6 @@ c) az általa használt helyiségek tisztán tartásában díjazás nélkül kö
 
 d) a személyét érintő vizsgálatoknak magát alávetni, a ruházat átvizsgálását és a birtokban nem tartható személyes tárgyak elvételét tűrni;
 
-e) a tartására és ellátására fordított költséget és az általa szándékosan okozott kárt megtéríteni.
+e) az (5) bekezdésben meghatározott kivétellel a tartására és ellátására fordított költséget és az általa szándékosan okozott kárt megtéríteni.
+
+(5) A harmadik országbeli állampolgárnak a tartására és ellátására fordított költséget nem kell megtérítenie, ha a menekültügyi hatóság vagy bíróság nemzetközi vagy kiegészítő védelemben részesítette, vagy befogadotti jogállást szerzett.

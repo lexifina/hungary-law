@@ -24,7 +24,7 @@ bf) nemzeti letelepedési engedéllyel,
 
 bg) EK letelepedési engedéllyel, vagy
 
-bh) EU Kék Kártyával;
+bh)
 
 c) rendelkezik a vissza- vagy továbbutazáshoz szükséges engedéllyel;
 

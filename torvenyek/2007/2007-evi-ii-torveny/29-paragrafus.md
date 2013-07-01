@@ -12,6 +12,14 @@ e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a b�
 
 f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 
+(1a) Az idegenrendészeti hatóság a harmadik országbeli állampolgárt a vele szemben elrendelt idegenrendészeti kiutasítás, valamint beutazási és tartózkodási tilalom 47. § (10) bekezdésében foglalt visszavonása esetén az e törvényben foglalt tartózkodási feltételek hiányában humanitárius célból tartózkodási engedéllyel látja el, ha
+
+a) a kiutasítás végrehajtása érdekében az idegenrendészeti hatósággal együttműködött,
+
+b) a számára előírt magatartási szabályokat betartotta és rendszeres megjelenési kötelezettségét teljesítette, valamint
+
+c) nem áll büntetőeljárás hatálya alatt, illetve nem minősül büntetett előéletűnek.
+
 (2) A humanitárius célból kiadott tartózkodási engedély érvényességi ideje
 
 a) az (1) bekezdés a) pontjában foglalt esetben három év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
@@ -20,7 +28,9 @@ b) az (1) bekezdés b) és d) pontjaiban foglalt esetekben egy év, amely alkalm
 
 c) az (1) bekezdés c) és e) pontjaiban foglalt esetekben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható;
 
-d) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás jogerős befejezéséig.
+d) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás jogerős befejezéséig;
+
+e) az (1a) bekezdés szerinti esetben egy év, amely alkalmanként egy évvel meghosszabbítható.
 
 (3) A humanitárius célból kiadott tartózkodási engedély – a 18. § (1) bekezdésben foglaltaktól eltérően – nem hosszabbítható meg, illetve azt vissza kell vonni, ha
 

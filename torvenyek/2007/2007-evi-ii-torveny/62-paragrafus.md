@@ -33,3 +33,13 @@ c) ha a tartózkodási hely nem közösségi szállás vagy befogadó állomás,
 (6) A kijelölt helyen történő tartózkodást elrendelő határozat ellen a harmadik országbeli állampolgár – jogorvoslatként, törvénysértésre hivatkozással – kifogással élhet. A kifogásra az 57. § és az 59. § rendelkezéseit kell megfelelően alkalmazni, azzal, hogy a kifogás a kijelölt helyen történő tartózkodásra vonatkozó kötelezettség hatálya alatt bármikor előterjeszthető.
 
 (7) A kifogást a bíróság nyolc napon belül bírálja el.
+
+(8) Az idegenrendészeti hatóság a harmadik országbeli állampolgár kijelölt helyen való tartózkodását határozattal megszünteti, ha
+
+a) a harmadik országbeli állampolgár engedély nélkül ismeretlen helyre távozott és egy hónap elteltével nem tér vissza,
+
+b) a kijelölt helyen való tartózkodás elrendelésének oka megszűnt, vagy
+
+c) a közösségi szálláson vagy befogadó állomáson történő kötelező tartózkodás elrendelésétől számítva két hónap eltelt.
+
+(9) A kijelölt helyen történő tartózkodást megszüntető határozat ellen a harmadik országbeli állampolgár a (6)–(7) bekezdésben foglaltak szerint élhet jogorvoslattal.

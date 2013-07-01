@@ -19,3 +19,5 @@
 a) a harmadik országbeli állampolgárral szemben a 43. § (2) bekezdése alapján került sor kiutasítással együtt beutazási és tartózkodási tilalom elrendelésére és a harmadik országbeli állampolgár bizonyítani tudja, hogy a kiutasító határozatnak teljes mértékben eleget téve elhagyta az Európai Unió tagállamainak területét, vagy
 
 b) további fenntartása az elrendelésére okot adó körülmények jelentős megváltozására figyelemmel nem indokolt.
+
+(10) A 43. § (2) bekezdése alapján elrendelt idegenrendészeti kiutasítást, valamint a beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból – visszavonhatja, ha a kiutasítás végrehajtására a harmadik országbeli állampolgárnak nem felróható okból a kiutasítás végrehajthatóvá válásától számított tizenkét hónapig nem került sor.

@@ -9,3 +9,7 @@
 (4) Az e törvény hatálybalépése előtt benyújtott, jogerősen el nem bírált letelepedési kérelemmel kapcsolatos eljárásban – a kérelmező nyilatkozata szerint – e törvény nemzeti letelepedési engedélyre vagy EK letelepedési engedélyre vonatkozó rendelkezéseit kell alkalmazni.
 
 (5) A harmadik országbeli állampolgárral szemben e törvény hatálybalépése előtt elrendelt kiutasítást előkészítő őrizetre e törvény kiutasítási őrizetre vonatkozó rendelkezéseit, az e törvény hatálybalépése előtt elrendelt visszautasítási őrizetre és idegenrendészeti őrizetre e törvény idegenrendészeti őrizetre vonatkozó rendelkezéseit kell alkalmazni.
+
+(6) A 2013. július 1-jét megelőzően a dublini eljárásban történő átadás vagy visszaadás végrehajtásának biztosítása érdekében elrendelt és folyamatban lévő idegenrendészeti őrizetet 2013. július 1-jén meg kell szüntetni. Ezzel egyidejűleg a menekültügyi hatóság megvizsgálja a törvényben meghatározott rendelkezésre állást biztosító intézkedések alkalmazását.
+
+(7) A 47. § (10) bekezdésében foglalt rendelkezést a 2013. július 1-jét megelőzően elrendelt idegenrendészeti kiutasítások esetén is alkalmazni lehet.

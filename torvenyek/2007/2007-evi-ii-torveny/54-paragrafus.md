@@ -1,22 +1,22 @@
 ## Az őrizet
 
-54. § (1) Az idegenrendészeti hatóság a kitoloncolás vagy a dublini eljárásban történő átadás vagy visszaadás (a továbbiakban: átadás) végrehajtásának biztosítása érdekében idegenrendészeti őrizetbe veheti azt a harmadik országbeli állampolgárt, aki
+54. § (1) Az idegenrendészeti hatóság a kitoloncolás végrehajtásának biztosítása érdekében idegenrendészeti őrizetbe veheti azt a harmadik országbeli állampolgárt, aki
 
-a) a hatóság elől elrejtőzött, vagy a kitoloncolás vagy az átadás végrehajtását más módon akadályozza;
+a) a hatóság elől elrejtőzött, vagy a kitoloncolás végrehajtását más módon akadályozza,
 
-b) a távozást megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasítás vagy az átadás végrehajtását késlelteti vagy meghiúsítja (szökés veszélye);
+b) a távozást megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasítás végrehajtását késlelteti vagy meghiúsítja, illetve szökésének veszélye áll fenn,
 
-c) a kötelező tartózkodásra kijelölt helyen az előírt magatartási szabályokat súlyosan vagy ismételten megsértette;
+c) a kötelező tartózkodásra kijelölt helyen előírt magatartási szabályokat súlyosan vagy ismételten megsértette,
 
-d) a számára előírt megjelenési kötelezettséget felszólításra sem teljesítette, és ezzel akadályozza az idegenrendészeti vagy a dublini eljárás lefolytatását;
+d) a számára előírt hatóság előtti megjelenési kötelezettséget felszólításra sem teljesítette, és ezzel akadályozza az idegenrendészeti eljárás lefolytatását, vagy
 
 e) szándékos bűncselekmény elkövetése miatt kiszabott szabadságvesztés-büntetésből szabadult.
 
-(2) Az idegenrendészeti őrizetnek az (1) bekezdés a) vagy b) pontja alapján történő elrendelése előtt az idegenrendészeti hatóság mérlegeli, hogy a kitoloncolás, vagy az átadás végrehajtása a 48. § (2) bekezdésben vagy a 62. § (1) bekezdésben foglaltak alkalmazásával biztosítható-e.
+(2) Az idegenrendészeti őrizetnek az (1) bekezdés a), illetve b) pontja alapján történő elrendelése előtt az idegenrendészeti hatóság mérlegeli, hogy a kitoloncolás végrehajtása a 48. § (2) bekezdésében vagy a 62. § (1) bekezdésében foglaltak alkalmazásával biztosítható-e.
 
 (3) Az idegenrendészeti őrizetet határozattal kell elrendelni, és azt a közléssel egyidejűleg végre kell hajtani.
 
-(4) Az idegenrendészeti őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes járásbíróság a harmadik országbeli állampolgár kitoloncolásáig vagy átadásáig, alkalmanként legfeljebb harminc nappal meghosszabbíthat.
+(4) Az idegenrendészeti őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes járásbíróság a harmadik országbeli állampolgár kitoloncolásáig, alkalmanként legfeljebb hatvan nappal meghosszabbíthat.
 
 (5) Az idegenrendészeti őrizet hat hónap elteltével további, legfeljebb hat hónappal – a (4) bekezdésben foglaltak szerint – meghosszabbítható, ha a kiutasítás végrehajtása minden szükséges intézkedés megtétele ellenére azért tart tovább hat hónapnál, mert
 
@@ -26,12 +26,16 @@ b) a kitoloncoláshoz szükséges okmányok beszerzése a harmadik országbeli �
 
 (6) Az idegenrendészeti őrizetet meg kell szüntetni, ha
 
-a) a kiutasítás vagy átadás végrehajtásának feltételei biztosítottak;
+a) a kiutasítás végrehajtásának feltételei biztosítottak,
 
-b) nyilvánvalóvá válik, hogy a kiutasítást vagy átadást nem lehet végrehajtani;
+b) nyilvánvalóvá válik, hogy a kiutasítást nem lehet végrehajtani,
 
-c) az őrizet elrendelésétől számítva hat hónap, vagy az (5) bekezdésben foglalt feltételek fennállása esetén tizenkét hónap eltelt.
+c) az őrizet elrendelésétől számítva hat hónap – vagy az (5) bekezdésben foglalt feltételek fennállása esetén tizenkét hónap – eltelt,
 
-(7) A (6) bekezdés c) pontjának alkalmazásában az őrizet időtartamába a kiutasítást előkészítő őrizet időtartama is beleszámítandó.
+d) a harmadik országbeli állampolgár nemzetközi védelem iránti kérelme alapján a törvényben meghatározottak szerint jogosult a Magyarország területén való tartózkodásra, vagy
 
-(8) Az idegenrendészeti őrizet (6) bekezdés b) és c) pontja alapján történő megszüntetése esetén az őrizetet elrendelő idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyet jelöl ki.
+e) a harmadik országbeli állampolgár menekültügyi őrizet hatálya alá kerül.
+
+(7) A (6) bekezdés c) pontjának alkalmazásában az őrizet időtartamába a kiutasítást előkészítő őrizet időtartama beleszámítandó. A menekültügyi őrizet időtartama az idegenrendészeti őrizet és a kiutasítást előkészítő őrizet időtartamába nem számít bele.
+
+(8) Az idegenrendészeti őrizet (6) bekezdés b), illetve c) pontja alapján történő megszüntetése esetén az őrizetet elrendelő idegenrendészeti hatóság a harmadik országbeli állampolgár számára kijelölt helyen való tartózkodást rendel el.

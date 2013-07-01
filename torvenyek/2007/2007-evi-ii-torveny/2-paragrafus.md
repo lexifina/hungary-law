@@ -40,9 +40,9 @@ o) foglalkoztatás: a vonatkozó jogszabályokkal összhangban bármely munka- v
 
 p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel;
 
-q) felsőfokú szakmai képesítés: a felsőfokú végzettséget és szakképzettséget tanúsító felsőfokú képesítés, amely a munkaszerződésben vagy a kötelező érvényű állásajánlatban meghatározott szakma vagy ágazat szempontjából szükséges felsőfokú végzettséghez kapcsolódó szakképzettséggel egyenértékű;
+q) felsőfokú szakmai képesítés: a felsőfokú végzettséget és szakképzettséget tanúsító felsőfokú képesítés;
 
-r) EU Kék Kártya: olyan engedély, amely magas szintű képzettséggel rendelkező birtokosát valamely tagállam területén történő tartózkodásra és egyúttal magas szintű képzettséget igénylő, a 20/C. §-ban foglalt feltételek szerinti munkavállalásra jogosítja;
+r) EU Kék Kártya: olyan tartózkodási engedély, amely magas szintű képzettséggel rendelkező birtokosát valamely tagállam területén történő tartózkodásra és egyúttal magas szintű képzettséget igénylő, a 20/C. §-ban meghatározott feltételek szerinti munkavállalásra jogosítja;
 
 s) különösen kizsákmányoló foglalkoztatási feltételek: olyan feltételek – a nemi vagy egyéb alapú megkülönböztetésből származó feltételeket is beleértve –, amelyek feltűnően aránytalanul eltérnek a legálisan foglalkoztatott munkavállalók foglalkoztatási feltételeitől, amely eltérés különösen a munkavállalók egészségét és biztonságát érinti, és sérti az emberi méltóságot;
 
