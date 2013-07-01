@@ -22,4 +22,10 @@ gc) jövedéki ügyintézőt foglalkoztat.
 
 (2) Az egyéni vállalkozó, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja törvény) szerinti mezőgazdasági őstermelő mentesül a kettős könyvvezetés és a mérleg hitelesítés kötelezettsége alól, ha az egyéni vállalkozókra az Szja törvény 5. számú mellékletében előírt nyilvántartást vezet.
 
-(3) Nem adható engedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(3) Nem adható engedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét
+
+a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti gazdasági vagy a közélet tisztasága elleni,
+
+b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott
+
+bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.

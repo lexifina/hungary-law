@@ -22,7 +22,13 @@ e) aki az e törvényben meghatározott egyéb feltételekkel is rendelkezik;
 
 f) aki jövedéki ügyintéző, illetve aki jövedéki ügyintézőt foglalkoztat.
 
-(3) Nem adható keretengedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(3) Nem adható keretengedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét
+
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
+
+b) a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott
+
+bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (4) A kérelmező a (2)–(3) bekezdésben foglalt feltételek fennállása mellett is csak akkor kaphat keretengedélyt, ha
 

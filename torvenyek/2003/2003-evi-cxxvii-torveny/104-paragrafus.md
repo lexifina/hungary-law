@@ -10,7 +10,13 @@ c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 
 d) akinek a vámhatóság, az adóhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn.
 
-(3) Nem adható engedély, ha az engedélyt kérelmező természetes személyt vagy a szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(3) Nem adható engedély, ha az engedélyt kérelmező természetes személyt vagy a szervezet vezetőjét, vezető tisztségviselőjét
+
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
+
+b) a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott
+
+bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (4) A jövedéki engedélyes kereskedelmi tevékenységre (kivéve a nem saját számlára végzett közösségi kereskedelmi tevékenységet, illetve a jövedéki termék más tagállamba történő kivitelét) és a saját számlára végzett importtevékenységre szóló jövedéki engedély (2) bekezdésben foglaltakon túli feltétele, hogy a kérelmező
 

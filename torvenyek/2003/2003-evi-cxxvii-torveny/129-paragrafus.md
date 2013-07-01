@@ -71,7 +71,3 @@ c) az adómegállapítási és adófizetési kötelezettség alóli, e törvény
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg az 1 százaléknál nagyobb kéntartalmú fűtőolaj e törvény 53. §-a (1) bekezdésének d) pontjában meghatározott adómentes felhasználása engedélyezésének külön szabályait.
 
 (5) Felhatalmazást kap a kereskedelemért felelős miniszter arra, hogy rendeletben határozza meg a cukortermékek – jogszabályba ütköző felhasználást akadályozó – forgalmazási rendjét és feltételeit.
-
-(6)
-
-(7) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy – a külpolitikáért felelős miniszterrel és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a diplomáciai és konzuli képviselet, a diplomáciai és konzuli képviselet tagja, a nemzetközi szervezet vagy képviselete és ezek tisztviselője, valamint az ezekkel egy tekintet alá eső személyek és szervezetek által megfizetett adó, továbbá az általuk adójeggyel ellátott dohánygyártmány után megfizetett általános forgalmi adó visszaigénylésének részletes szabályait.
