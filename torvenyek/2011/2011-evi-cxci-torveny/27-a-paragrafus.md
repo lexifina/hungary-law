@@ -10,7 +10,17 @@ c) megfelel a társadalmi esélyegyenlőség előmozdításáért felelős minis
 
 (2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormány által kijelölt szervnek bejelenteni. A bejelentés tartalmazza a bejelentő természetes személyazonosító adatait, valamint annak igazolását, hogy vele szemben kizáró ok nem áll fenn. A bejelentő hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a rehabilitációs orvosszakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a Kormány által erre kijelölt szerv részére – annak a bejelentés elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Kormány által erre kijelölt szerv a (4) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől. A Kormány által kijelölt szerv a bejelentés időtartama alatt kezeli az (1) és (4) bekezdésben meghatározott feltételek teljesülését alátámasztó adatokat.
 
+(2a) A bejelentéshez mellékelni kell
+
+a) a végzettséget, képesítést igazoló okiratok másolatát,
+
+b) a szakmai gyakorlatot tanúsító igazolást,
+
+c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást.
+
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: rehabilitációs orvosszakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat. A rehabilitációs orvosszakértői névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(3a) A rehabilitációs orvosszakértői névjegyzék a szakértői tevékenység végzésére való jogosultság tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Kormány által kijelölt szerv a rehabilitációs orvosszakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi az (1) bekezdésben meghatározott feltételek teljesülését. A hatósági ellenőrzés céljából a Kormány által kijelölt szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a rehabilitációs orvosszakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 

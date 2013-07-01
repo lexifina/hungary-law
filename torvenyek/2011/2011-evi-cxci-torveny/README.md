@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-191-00-00
 | 2012-12-07 | 40/2012. (XII. 6.) AB határozat | 2011-191-00-00.14 |
 | 2013-01-01 | 2012. évi CXCII. törvény | 2011-191-00-00.15 |
 | 2013-06-30 | 2013. évi XCVII. törvény | 2011-191-00-00.16 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2011-191-00-00.17 |
