@@ -1,3 +1,0 @@
-105. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 74. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokkal egyező módon határozza meg.”
