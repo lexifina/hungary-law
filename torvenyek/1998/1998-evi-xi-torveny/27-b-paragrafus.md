@@ -32,7 +32,7 @@ fa) a polgárok személyi adatainak és lakcímének nyilvántartásáról szól
 
 fb) a külföldre utazásról szóló 1998. évi XII. törvény 24. §-ának f) pontja szerinti tények és az okmány érvényességi ideje,
 
-fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. §-ának i)–j) pontjai szerinti tények,
+fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pontjának ba)-bb) alpontja szerinti tények,
 
 fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
 

@@ -30,6 +30,8 @@ n) ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláír
 
 o) jogosultságát az elektronikus cégeljárásban való részvételre.
 
+(1a) Az európai közösségi jogászok névjegyzéke az (1) bekezdésben foglalt adatok vonatkozásában – az (1) bekezdés a)–e), valamint k)–n) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) Az (1) bekezdésben foglalt adatok közül a c) és n) pontban felsorolt adatok nem nyilvánosak.
 
 (3) A Magyar Ügyvédi Kamara az (1) bekezdésben felsorolt adatokról központi nyilvántartást vezet.

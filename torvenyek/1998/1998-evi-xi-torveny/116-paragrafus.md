@@ -34,9 +34,13 @@ n) a kamarai tag jogosultságát az elektronikus cégeljárásban való részvé
 
 o) a kamarai tagnak az ügyvédjelölt foglalkoztatására vonatkozó jogosultságát.
 
+(1a) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés a)–d), j), k) és m) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) Külföldi jogi tanácsadó esetén az (1) bekezdés d) pontjában foglaltakat nem kell nyilvántartani, de a külföldi jogi tanácsadóval együttműködő magyar ügyvéd (iroda) adatait, a külföldi iroda nevét, címét és a külföldi bejegyzésre vonatkozó adatait a külföldi jogi tanácsadó nyilvántartásában szerepeltetni kell.
 
 (3) Ügyvédi iroda esetén az iroda nevét, címét, telefon- és telefax-számát, valamint tagjainak nevét, lakcímét kell nyilvántartani.
+
+(3a) A (3) bekezdés szerinti nyilvántartás – a tag természetes személyazonosító, valamint lakcím-azonosító adata kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) Az (1)–(3) bekezdésben felsorolt adatok közül az a), e), h) és n) pontban felsorolt adatok nyilvánosak, közzétehetők, vagy bárki számára kiadhatók.
 
