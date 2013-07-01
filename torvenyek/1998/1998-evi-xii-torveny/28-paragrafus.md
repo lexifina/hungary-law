@@ -21,3 +21,13 @@ d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésér
 (5) Ha az adatszolgáltatás iránti kérelemben hatósági bizonyítvány kiállítását nem kérik, az adatszolgáltatás ügyintézési határideje – a kérelem beérkezését követő naptól számított – húsz nap. Az adatszolgáltatás elektronikus ügyintézés útján is teljesíthető.
 
 (6) Az (1), (2) és (2b) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni.
+
+(7) A központi adatkezelő szerv a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
+
+a) a polgár természetes személyazonosító adatai alapján a polgár útlevele okmányazonosítója titkosított kapcsolati kódjának, illetve
+
+b) a polgár útlevelének okmányazonosítója alapján az útlevélben szereplő természetes személyazonosító adatok
+
+továbbítására jogosult.
+
+(8) A központi adatkezelő szerv az útlevél kiadásáról szóló döntését követően az útlevél okmány megszemélyesítésével egyidejűleg az útlevél okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.
