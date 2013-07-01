@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-134-00-00
 | 2012-12-16 | 2012. évi CCIII. törvény | 2012-134-00-00.2 |
 | 2013-02-22 | 2013. évi I. törvény | 2012-134-00-00.3 |
 | 2013-06-01 | 2013. évi LXXI. törvény | 2012-134-00-00.4 |
+| 2013-07-01 | 2012. évi CCIII. törvény | 2012-134-00-00.5 |
