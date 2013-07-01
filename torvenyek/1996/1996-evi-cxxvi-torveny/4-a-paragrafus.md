@@ -9,3 +9,5 @@ b) a rendelkező nyilatkozat évére vonatkozó központi költségvetésről sz
 (3) Az adóhatóság hivatalból technikai számmal látja el az (1) bekezdés b) pontja szerinti kedvezményezettet.
 
 (4) Az adóhatóság vezetője a rendelkező nyilatkozat évét megelőző év utolsó napjáig az (1) bekezdés szerinti kedvezményezett technikai számát a Magyar Közlönyben közzéteszi.
+
+(5) A (4) bekezdésben meghatározott adatok tekintetében az adóhatóság vezetője – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
