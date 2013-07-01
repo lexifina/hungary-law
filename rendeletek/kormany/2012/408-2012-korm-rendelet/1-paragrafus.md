@@ -8,7 +8,7 @@ ab) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a t
 
 ac) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) szerinti,
 
-ad) a Magyar Honvédség hivatásos és szerződéses állományú tagjainak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) szerinti,
+ad)[^2] a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) szerinti hivatásos és szerződéses katonai,
 
 ae) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) szerinti,
 
@@ -25,3 +25,5 @@ b) az egyházak közcélú – egészségügyi, oktatási, szociális, közműve
 ba) az Mt. szerinti munkaviszonyban állókra, valamint
 
 bb) a Gyvt. 66/G. §-a szerinti hivatásos nevelőszülői jogviszonyban álló hivatásos nevelőszülőkre
+
+[^2]: Az 1. § a) pont ad) alpontja a 187/2013. (VI. 7.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

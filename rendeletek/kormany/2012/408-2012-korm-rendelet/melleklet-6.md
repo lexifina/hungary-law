@@ -156,7 +156,7 @@
 
 ## d) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény 112. §-a szerinti távolléti díj alapját képező illetményt,
 
-## e) a Magyar Honvédség hivatásos és szerződéses állományú tagjainak jogállásáról szóló törvény 123. §-a szerinti távolléti díj alapját képező illetményt,
+## e) a honvédek jogállásáról szóló törvény 2. § 41. pontja szerinti távolléti díj alapját képező illetményt,
 
 ## f) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény 96. § (1) bekezdése szerinti - a 102. § (2) bekezdése szerinti illetményeltérítés figyelembevételével számított - illetményt,
 
@@ -192,7 +192,7 @@
 
 ## - a Hszt. 99. § (2) bekezdésében említett beosztási illetmény, rendfokozati illetmény, illetménykiegészítés és szolgálati időpótlék együttes összege,
 
-## - a Hjt. 106. § (1) bekezdésében említett beosztási illetmény, honvédelmi pótlék, illetménykiegészítés, szolgálati illetménypótlék és kiegészítő illetmény együttes összege,
+## - a Hjt. 122. § (1) bekezdésében említett beosztási illetmény, honvédelmi pótlék, illetménykiegészítés, szolgálati időpótlék, illetménypótlék és kiegészítő illetmény együttes összege,
 
 ## - az Iasz. 96. § (1) bekezdésében említett – a 102. § (2) bekezdés szerinti illetményeltérítés figyelembevételével számított - alapilletmény és alapilletmény jellegű pótlékok együttes összege,
 
