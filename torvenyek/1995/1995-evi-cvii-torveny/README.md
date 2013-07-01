@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-107-00-00
 | 2012-03-01 | 2012. évi V. törvény | 1995-107-00-00.16 |
 | 2012-04-15 | 2012. évi XXXI. törvény | 1995-107-00-00.17 |
 | 2013-01-01 | 2012. évi CCXXIII. törvény | 1995-107-00-00.18 |
+| 2013-07-01 | 2012. évi CCXXIII. törvény | 1995-107-00-00.19 |

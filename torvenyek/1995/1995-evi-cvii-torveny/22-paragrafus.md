@@ -10,7 +10,7 @@ a) az élet elleni közvetlen fenyegetés vagy támadás elhárítására;
 
 b) a testi épséget vagy a személyi szabadságot súlyosan veszélyeztető közvetlen támadás elhárítására;
 
-c) a közveszélyokozás, a terrorcselekmény vagy a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűncselekményének megakadályozására vagy megszakítására;
+c) a terrorcselekmény, a jármű hatalomba kerítése vagy a közveszély okozása bűncselekmény megakadályozására vagy megszakítására;
 
 d) bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének a megakadályozására;
 
