@@ -6,7 +6,7 @@ A Jelnyelvi Tolmácsok Országos Névjegyzékébe történő bejelentés adattar
 
 1 A bejelentő családi neve és utóneve, születési neve, születési helye és ideje, anyja születési neve, lakcíme, értesítési címe.
 
-2. A bejelentő egyéb elérhetősége (telefonszám, e-mail cím), valamint egyéb elérhetőség megadása esetén nyilatkozata arról, hogy hozzájárul-e annak a Nemzeti Rehabilitációs és Szociális Hivatal honlapján való közzétételéhez.[^1]
+2. A bejelentő egyéb elérhetősége (telefonszám, e-mail cím), valamint egyéb elérhetőség megadása esetén nyilatkozata arról, hogy hozzájárul-e annak a Nemzeti Rehabilitációs és Szociális Hivatal honlapján való közzétételéhez.[^2]
 
 3. A szakképesítés, rész-szakképesítés vagy bizonyítvány megnevezése, száma, kiállításának helye, időpontja, a kiállító intézmény megnevezése.
 
@@ -20,4 +20,4 @@ A Jelnyelvi Tolmácsok Országos Névjegyzékébe történő bejelentés adattar
 
 8. A bejelentő aláírása.
 
-[^1]: Egyéb elérhetőség megadása nem kötelező.
+[^2]: Egyéb elérhetőség megadása nem kötelező.
