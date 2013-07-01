@@ -1,6 +1,6 @@
 ## Földhasználati nyilvántartás
 
-25/A. § (1) A földhasználati nyilvántartás az érintett földrészlet használatára vonatkozóan bejegyzett adatokat hitelesen tanúsítja.
+25/A. § (1) A földhasználati nyilvántartás az érintett földrészlet használatával kapcsolatban bejegyzett adatokra vonatkozóan – a természetes személyazonosító és lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) Az ellenkező bizonyításáig a földhasználati nyilvántartásba bejegyzett adatról vélelmezni kell, hogy az a valóságnak megfelel.
 
