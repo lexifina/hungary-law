@@ -1,12 +1,14 @@
-## 4/A. §[^22] A fogvatartott a fogvatartásával kapcsolatos ügyében – a 4. §-ban foglalt jogorvoslati lehetőségek mellett – közvetlenül fordulhat a büntetés-végrehajtási felügyeleti ügyészhez, kérheti az ügyész általi meghallgatását.
+## 4/A. §[^23] A fogvatartott a fogvatartásával kapcsolatos ügyében – a 4. §-ban foglalt jogorvoslati lehetőségek mellett – közvetlenül fordulhat a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészhez, kérheti az ügyész általi meghallgatását.
 
-## 4/B. §[^23] A fogvatartott közvetlenül fordulhat:
+## 4/B. §[^24] A fogvatartott közvetlenül fordulhat:
 
-a) a fogvatartás alatt gyakorolható állampolgári jogainak a sérelme esetén az állampolgári jogok országgyűlési biztosához, illetve a nemzeti és etnikai kisebbségi jogok országgyűlési biztosához,
+a)[^25] a fogvatartás alatt gyakorolható állampolgári jogainak a sérelme esetén az alapvető jogok biztosához,
 
-b) személyes adatainak kezelésével vagy a közérdekű adatok megismeréséhez fűződő jogainak gyakorlásával összefüggő jogsérelem esetén az adatvédelmi biztoshoz,
+b)[^26] személyes adatainak kezelésével vagy a közérdekű adatok megismeréséhez fűződő jogainak gyakorlásával összefüggő jogsérelem esetén a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökéhez,
 
 c) kérelemmel, illetve panasszal a külön jogszabályokban meghatározott nemzetközi szervezetekhez.
 
-[^22]: A 4/A. §-t a 23/2001. (X. 11.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^23]: A 4/B. §-t a 23/2001. (X. 11.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^23]: A 4/A. §-t a 23/2001. (X. 11.) BM rendelet 6. §-a iktatta be, szövege a 34/2013. (VI. 30.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^24]: A 4/B. §-t a 23/2001. (X. 11.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^25]: A 4/B. § a) pontja a 34/2013. (VI. 30.) BM rendelet 9. § c) pontja szerint módosított szöveg.
+[^26]: A 4/B. § b) pontja a 34/2013. (VI. 30.) BM rendelet 9. § d) pontja szerint módosított szöveg.

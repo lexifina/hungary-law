@@ -22,6 +22,6 @@ c) rögzíti a kábítószer-élvezetre, egyéb szenvedélybetegségekre, illetv
 
 (9) A fogvatartott szándékos egészségkárosítása, illetőleg az étkezés megtagadása miatt szükségessé váló orvosi ellátással összefüggő szállítási, őrzési költségek a fogvatartottat terhelik. Amennyiben a fogvatartottnak nincs letéti pénze a költségeket a fogvatartásért felelős megelőlegezi.
 
-(10)[^51] A fogvatartott egészségügyi szolgáltatásra és baleseti ellátásra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet rendelkezései alapján jogosult. A fogvatartottak utáni járulékfizetés a központi költségvetést terheli.
+(10)[^58] A fogvatartott egészségügyi szolgáltatásra és baleseti ellátásra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet rendelkezései alapján jogosult. A fogvatartottak utáni járulékfizetés a központi költségvetést terheli.
 
-[^51]: A 22. § (10) bekezdése a 23/2001. (X. 11.) BM rendelet 17. §-ával megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^58]: A 22. § (10) bekezdése a 23/2001. (X. 11.) BM rendelet 17. §-ával megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

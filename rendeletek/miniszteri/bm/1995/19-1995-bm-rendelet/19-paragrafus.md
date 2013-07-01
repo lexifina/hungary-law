@@ -14,13 +14,13 @@ e) az ébresztő és a takarodó
 
 ## időpontját.
 
-(2)[^46] A takarodó és az ébresztő között legalább 8 óra folyamatos pihenőidőt kell biztosítani.
+(2)[^52] A takarodó és az ébresztő között legalább 8 óra folyamatos pihenőidőt kell biztosítani.
 
-(3)[^47] Az étkezésre naponta háromszor, esetenként legalább 20 percet kell biztosítani.
+(3)[^53] Az étkezésre naponta háromszor, esetenként legalább 20 percet kell biztosítani.
 
-(4)[^48] Az írásos napirendet a mindenkori fogvatartott anyanyelvén vagy az általa értett más nyelven minden zárkában el kell helyezni.
+(4)[^54] Az írásos napirendet a mindenkori fogvatartott anyanyelvén vagy az általa értett más nyelven minden zárkában el kell helyezni.
 
-(5)[^49] A napirendtől eltérni kizárólag
+(5)[^55] A napirendtől eltérni kizárólag
 
 a) befogadás vagy szabadítás, javítási, karbantartási munkálatok,
 
@@ -28,7 +28,7 @@ b) a fogdában tartott ellenőrzés, szemle,
 
 c) a fogvatartással kapcsolatos rendkívüli esemény miatt lehet.
 
-[^46]: Az 19. § új (2) bekezdését a 23/2001. (X. 11.) BM rendelet 16. §-a iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatta. E módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^47]: Az 19. § új (3) bekezdését a 23/2001. (X. 11.) BM rendelet 16. §-a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. E módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^48]: A 19. § eredeti (2) bekezdésének számozását a 23/2001. (X. 11.) BM rendelet 16. § (4) bekezdésre változtatta.
-[^49]: A 19. § eredeti (3) bekezdésének számozását a 23/2001. (X. 11.) BM rendelet 16. § (5) bekezdésre változtatta.
+[^52]: Az 19. § új (2) bekezdését a 23/2001. (X. 11.) BM rendelet 16. §-a iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatta. E módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^53]: Az 19. § új (3) bekezdését a 23/2001. (X. 11.) BM rendelet 16. §-a iktatta a szövegbe, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. E módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^54]: A 19. § eredeti (2) bekezdésének számozását a 23/2001. (X. 11.) BM rendelet 16. § (4) bekezdésre változtatta.
+[^55]: A 19. § eredeti (3) bekezdésének számozását a 23/2001. (X. 11.) BM rendelet 16. § (5) bekezdésre változtatta.
