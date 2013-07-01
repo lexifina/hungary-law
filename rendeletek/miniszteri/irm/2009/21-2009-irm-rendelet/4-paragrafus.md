@@ -1,6 +1,6 @@
 4. § (1) Ha a nyomozást ügyészség vagy katonai nyomozó hatóság végzi, az ujj- és ternyérnyomat rögzítésére, a DNS-minta rögzítésére, az ujj- és tenyérnyomatvételre, valamint a DNS-mintavételre a székhelye szerint illetékes rendőrkapitányságot keresi meg.
 
-(2) Ha az ujj- és tenyérnyomatvételre vagy a DNS-mintavételre büntetés-végrehajtási intézetben szabadságvesztés büntetését töltő elítélt esetében a szabadságvesztés büntetés megkezdését követően indult büntetőeljárásban van szükség, a nyomozást végző ügyészség vagy katonai nyomozó hatóság a szabadságvesztés büntetést végrehajtó büntetés-végrehajtási intézetet keresi meg.
+(2)[^6] Ha az ujj- és tenyérnyomatvételre vagy a DNS-mintavételre büntetés-végrehajtási intézetben szabadságvesztés vagy elzárás büntetését töltő elítélt esetében a szabadságvesztés vagy elzárás büntetés megkezdését követően indult büntetőeljárásban van szükség, a nyomozást végző ügyészség vagy katonai nyomozó hatóság a szabadságvesztés vagy elzárás büntetést végrehajtó büntetés-végrehajtási intézetet keresi meg.
 
 (3) Az (1) és (2) bekezdés szerinti megkereséshez mellékelni kell az ügyészség vagy a katonai nyomozó hatóság által kitöltött,
 
@@ -12,6 +12,10 @@ b) a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére tört
 
 (4) Az (1) bekezdés szerinti megkeresés alapján az ujj- és tenyérnyomat-rögzítést, a DNS-minta-rögzítést, az ujj- és tenyérnyomatvételt, valamint a DNS-mintavételt – az (1) bekezdés alapján arra illetékes rendőrkapitányság állományához tartozó – a 2. §-ban meghatározott személy végzi.
 
-(5) A (2) bekezdés szerinti megkeresés alapján az ujj- és tenyérnyomatvételt, valamint a DNS-mintavételt a szabadságvesztés büntetést végrehajtó büntetés-végrehajtási intézet kijelölt és mintavételről oktatásban részesült tagja végzi.
+(5)[^7] A (2) bekezdés szerinti megkeresés alapján az ujj- és tenyérnyomatvételt, valamint a DNS-mintavételt a szabadságvesztés, illetve az elzárás büntetést végrehajtó büntetés-végrehajtási intézet kijelölt és mintavételről oktatásban részesült tagja végzi.
 
-(6) Az (1) vagy a (2) bekezdés szerinti megkeresés alapján rögzített, valamint felvett ujj- és tenyérnyomatot vagy DNS-mintát az illetékes rendőrkapitányság vagy a szabadságvesztés büntetést végrehajtó büntetés-végrehajtási intézet – az 1. számú adatlappal együtt – haladéktalanul megküldi a megkereső ügyészség vagy katonai nyomozó hatóság részére.
+(6)[^8] Az (1) vagy a (2) bekezdés szerinti megkeresés alapján rögzített, valamint felvett ujj- és tenyérnyomatot vagy DNS-mintát az illetékes rendőrkapitányság vagy a szabadságvesztés, illetve az elzárás büntetést végrehajtó büntetés-végrehajtási intézet – az 1. számú adatlappal együtt – haladéktalanul megküldi a megkereső ügyészség vagy katonai nyomozó hatóság részére.
+
+[^6]: A 4. § (2) bekezdése a 9/2013. (VI. 29.) KIM rendelet 76. §-ával megállapított szöveg.
+[^7]: A 4. § (5) bekezdése a 9/2013. (VI. 29.) KIM rendelet 77. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (6) bekezdése a 9/2013. (VI. 29.) KIM rendelet 77. § b) pontja szerint módosított szöveg.
