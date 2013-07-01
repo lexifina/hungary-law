@@ -12,6 +12,6 @@
 
 (6) Az első fokú bíróságnak fellebbezéssel meg nem támadott ítélete csak a fellebbezési határidő utolsó napjától számított tizenötödik nap elteltével emelkedik jogerőre.
 
-(7) Az első fokú bíróság a keresetnek helytadó ítéletet – jogerőre emelkedése után – közli az illetékes anyakönyvvezetővel.
+(7) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után a statisztikai jogszabályok szerinti népmozgalmi adatokat tartalmazó adatlapot közli az illetékes anyakönyvvezetővel.
 
 (8) A házasságot felbontó vagy az érvénytelenséget megállapító rendelkezés részjogerejét az első fokon eljárt tanács elnöke az iratoknak a másodfokú bírósághoz történő felterjesztése előtt köteles megállapítani.
