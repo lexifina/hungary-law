@@ -1,0 +1,1 @@
+A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (2) bekezdésében kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
