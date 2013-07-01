@@ -1,0 +1,3 @@
+20. § A Bjt. 11. §-a a következő új (3) bekezdéssel egészül ki:
+
+„,,(3) Ha a bíró szolgálati viszonya az 57. § (1) bekezdésének h) pontja alapján szűnt meg, és az ott megjelölt megbízatása lejártát követő 30 napon belül kéri bíróvá történő ismételt kinevezését, őt kérelmére, pályázat kiírása nélkül a köztársasági elnök – az OIT javaslatára – határozatlan időre bíróvá kinevezi, ha egyébként a bírói kinevezéshez szükséges feltételeknek (ide nem értve a pályaalkalmassági vizsgálaton való részvételt) megfelel. A bírói munkakörbe történő beosztásnál a 40. § (4) és (5) bekezdésében írt rendelkezéseket kell alkalmazni, az 57. § (1) bekezdés h) pontjában megjelölt jogviszonyban eltöltött időt pedig szolgálati időként kell figyelembe venni.''”

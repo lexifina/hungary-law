@@ -1,0 +1,1 @@
+140/A. § A Kormány a 140. § (1) bekezdése szerinti korlátozást elrendelő rendeletében előírhatja, hogy a 140. § (1) bekezdése szerinti tevékenység folytatására a nemzeti külkereskedelmi államigazgatási szerv 140/B. §-a szerinti nyilvántartásába felvett természetes személy, jogi személy, jogi személyiség nélküli szervezet jogosult.
