@@ -1,4 +1,4 @@
-## 16/A. §[^28] A hivatásos katasztrófavédelmi szerv
+## 16/A. §[^32] A hivatásos katasztrófavédelmi szerv
 
 a) együttműködik a légiközlekedés elleni jogellenes cselekmény vagy arra irányuló kísérlet esetében annak felszámolásban az együttműködő hatóságokkal és a légiközlekedés védelmében közreműködő szervezetekkel,
 
@@ -10,4 +10,4 @@ d) irányítja a Repülőtéri Védelmi és Kényszerhelyzeti Központ mentést 
 
 e) részt vesz a tűzoltási és műszaki mentési feladatokban, ha a légiközlekedés elleni jogellenes cselekmények során keletkezett tűz, robbanás következményeinek felszámolása vagy műszaki mentése válik szükségessé.
 
-[^28]: A 16/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 12. §-a iktatta be.
+[^32]: A 16/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 12. §-a iktatta be.

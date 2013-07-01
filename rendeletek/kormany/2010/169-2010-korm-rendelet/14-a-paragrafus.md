@@ -1,10 +1,10 @@
-## 14/A. §[^25] A TEK
+## 14/A. §[^26] A TEK
 
 a) a feladatai ellátása során tudomására jutott információkból értékeli a polgári légiközlekedés terrorfenyegetettségi és terrorveszélyeztetettségi szintjét, és tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szervet, az AH-t és a légiközlekedési hatóságot a feladatkörének ellátásához szükséges adatokról,
 
-b) gyűjti és értékeli a polgári légiközlekedés védelmét érintő minősített és nyílt információkat, megelőzi, felderíti a légiközlekedés ellen előkészített vagy tervezett terrorcselekményt, a légijármű hatalomba kerítése bűncselekményt, megszakítja, valamint felszámolja az ilyen cselekményeket,
+b)[^27] gyűjti és értékeli a polgári légiközlekedés védelmét érintő minősített és nyílt információkat, megelőzi, felderíti a légiközlekedés ellen előkészített vagy tervezett terrorcselekményt, a jármű hatalomba kerítése bűncselekményt, megszakítja, valamint felszámolja az ilyen cselekményeket,
 
-c) irányítja a terrorcselekmény, valamint a légijármű hatalomba kerítése bűncselekmény esetében a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország földfelszínén és a légijármű fedélzetén,
+c)[^28] irányítja a terrorcselekmény, valamint a jármű hatalomba kerítése bűncselekmény esetében a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország földfelszínén és a jármű fedélzetén,
 
 d) intézkedéseket kezdeményez a polgári légiközlekedés ellen irányuló terrorcselekmények megelőzése, elhárítása érdekében,
 
@@ -14,4 +14,6 @@ f) elvégzi a repülőtereken a bűncselekményt lőfegyverrel vagy robbanóanya
 
 g) ellátja a veszélyeztetett légijárművek hatáskörébe tartozó műveleti biztosítását.
 
-[^25]: A 14/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 10. §-a iktatta be.
+[^26]: A 14/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 10. §-a iktatta be.
+[^27]: A 14/A. § b) pontja a 172/2013. (V. 30.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^28]: A 14/A. § c) pontja a 172/2013. (V. 30.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

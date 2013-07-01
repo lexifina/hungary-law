@@ -1,6 +1,6 @@
 ## 14. §[^24] Az általános rendőrségi feladatok ellátására létrehozott szerv
 
-1. irányítja a terrorcselekmény, valamint a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűncselekmények kivételével a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország területén,
+1.[^25] irányítja a terrorcselekmény, valamint a jármű hatalomba kerítése bűncselekmények kivételével a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország területén,
 
 2. gondoskodik a kockázatelemzés alapján az 1. § (1) bekezdés b) és c) pontjában megjelölt hatóság által veszélyeztetett légijárműnek minősített légijármű (a továbbiakban: veszélyeztetett légijármű) rendőri biztosításáról a repülőtér területén,
 
@@ -33,3 +33,4 @@
 16. részt vesz a légiközlekedés védelmi személyzetnek a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programban meghatározott védelmi oktatásában.
 
 [^24]: A 14. § a 240/2011. (XI. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^25]: A 14. § 1. pontja a 172/2013. (V. 30.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-53. §[^117]
+53. §[^121]
 
-[^117]: Az 53. § a (4) bekezdése alapján hatályát vesztette.
+[^121]: Az 53. § a (4) bekezdése alapján hatályát vesztette.

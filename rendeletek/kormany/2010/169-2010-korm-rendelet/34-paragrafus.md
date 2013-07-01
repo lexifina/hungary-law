@@ -1,14 +1,14 @@
-## 23. [^96] Áru, postai küldemény, légifuvarozói posta és légifuvarozói anyag légiközlekedési védelmi ellenőrzése és védelme
+## 23. [^100] Áru, postai küldemény, légifuvarozói posta és légifuvarozói anyag légiközlekedési védelmi ellenőrzése és védelme
 
-34. § (1)[^97] Amennyiben nem a légitársaság hajtja végre az áru- és postai küldemény, légifuvarozói posta és a légifuvarozói anyag légiközlekedés védelmi ellenőrzését,, és erre a repülőtéren kívül lévő telephelyen kerül sor, a védelmi ellenőrzés elvégzésére jogosított szervezet köteles a repülőtér üzemben tartóját tájékoztatni azokról a jelzésekről, amelyek alapján beazonosítható, hogy az ellenőrzés megtörtént, valamint azt ki és hol hajtotta végre.
+34. § (1)[^101] Amennyiben nem a légitársaság hajtja végre az áru- és postai küldemény, légifuvarozói posta és a légifuvarozói anyag légiközlekedés védelmi ellenőrzését,, és erre a repülőtéren kívül lévő telephelyen kerül sor, a védelmi ellenőrzés elvégzésére jogosított szervezet köteles a repülőtér üzemben tartóját tájékoztatni azokról a jelzésekről, amelyek alapján beazonosítható, hogy az ellenőrzés megtörtént, valamint azt ki és hol hajtotta végre.
 
-(2)[^98] A repülőtér üzemben tartója a repülőtér rendben és védelmi programjában az (1) bekezdésben meghatározott azonosítási eljárásokat naprakészen tartja, az (1) bekezdésben meghatározott tevékenységet mindaddig elfogadja, amíg védelmi határozatban ennek ellenkezőjére nem kap kötelezést a légiközlekedési hatóságtól.
+(2)[^102] A repülőtér üzemben tartója a repülőtér rendben és védelmi programjában az (1) bekezdésben meghatározott azonosítási eljárásokat naprakészen tartja, az (1) bekezdésben meghatározott tevékenységet mindaddig elfogadja, amíg védelmi határozatban ennek ellenkezőjére nem kap kötelezést a légiközlekedési hatóságtól.
 
 (3) A légijármű fedélzetén maradó tranzitáru és tranzit postai küldemény ellenőrzésének szabályait a légitársaság védelmi programja állapítja meg.
 
-(4)[^99] Az olyan árut és postai küldeményt, légifuvarozói posta és a légifuvarozói anyagot, amelyet a védelmi ellenőrzések elvégzése után az illetéktelen beavatkozástól nem védtek megfelelően, vagy arra utaló jel van, hogy illetéktelen beavatkozástól nem védték megfelelően, ismételten át kell vizsgálni az e rendeletben foglaltak szerint.
+(4)[^103] Az olyan árut és postai küldeményt, légifuvarozói posta és a légifuvarozói anyagot, amelyet a védelmi ellenőrzések elvégzése után az illetéktelen beavatkozástól nem védtek megfelelően, vagy arra utaló jel van, hogy illetéktelen beavatkozástól nem védték megfelelően, ismételten át kell vizsgálni az e rendeletben foglaltak szerint.
 
-[^96]: A 23. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^97]: A 34. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés l) pontja szerint módosított szöveg.
-[^98]: A 34. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^99]: A 34. § (4) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^100]: A 23. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^101]: A 34. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^102]: A 34. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^103]: A 34. § (4) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés l) pontja szerint módosított szöveg.
