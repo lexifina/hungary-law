@@ -1,0 +1,3 @@
+38. § Az ügyvédekről szóló 1998. évi XI. törvény „Elektronikus aláírás használata ügyvédi tevékenység végzése során” alcíme a következő 12/C. §-sal egészül ki:
+
+„12/C. § A Magyar Ügyvédi Kamara és a kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Magyar Ügyvédi Kamara és a kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.”

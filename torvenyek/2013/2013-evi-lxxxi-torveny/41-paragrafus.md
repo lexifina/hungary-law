@@ -1,0 +1,3 @@
+41. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény „A kamara szervezete és működése” alcíme a következő 54/A. §-sal egészül ki:
+
+„54/A. § A kamara és a területi szervezet az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A kamara és a területi szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.”

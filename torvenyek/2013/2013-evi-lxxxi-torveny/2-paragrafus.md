@@ -1,0 +1,3 @@
+2. § A Ket. 40/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az írásbeli meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni, vagy a meghatalmazást ügyintézési rendelkezésben kell megtenni. Az ügyvédnek adott meghatalmazáshoz, ha azt az ügyfél saját kezűleg írta alá, tanúk alkalmazása nem szükséges; az ügyvédi meghatalmazásra egyebekben az erre vonatkozó külön jogszabályok irányadók. Az ügyintézési rendelkezésben adott meghatalmazás esetén a meghatalmazott a képviseleti jogosultságát az ügyintézési rendelkezésre irányadó szabályok szerint igazolja.”

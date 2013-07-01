@@ -1,0 +1,3 @@
+39. § A gazdasági kamarákról szóló 1999. évi CXXI. törvény „A gazdasági kamara alapszabálya” alcíme a következő 16/A. §-sal egészül ki:
+
+„16/A. § A gazdasági kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A gazdasági kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.”
