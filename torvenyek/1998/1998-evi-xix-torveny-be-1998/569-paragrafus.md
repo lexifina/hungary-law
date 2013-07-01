@@ -1,6 +1,6 @@
-## Az elkobzásra, a vagyonelkobzásra, illetőleg a lefoglalt dologról történő rendelkezésre irányuló eljárás
+## Az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére és a lefoglalt dologról történő rendelkezésre irányuló eljárás
 
-569. § (1) Az ügyész indítványára az elkobzásról, a vagyonelkobzásról, illetőleg arról, hogy a lefoglalt dolog az állam tulajdonába kerül, a bíróság határoz, ha büntetőeljárás senki ellen nem indult, vagy azt megszüntették, illetőleg a terhelt ismeretlen helyen tartózkodása vagy elmebetegsége miatt az eljárást felfüggesztették.
+569. § (1) Az ügyész indítványára a bíróság határoz az elkobzásról, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, illetve arról, hogy a lefoglalt dolog az állam tulajdonába kerül, ha büntetőeljárás senki ellen nem indult, vagy azt megszüntették, illetve a terhelt ismeretlen helyen tartózkodása vagy elmebetegsége miatt az eljárást felfüggesztették.
 
 (2) Az eljárást az a bíróság folytatja le, amely a bűncselekmény elbírálására hatáskörrel és illetékességgel rendelkezik, ha ez nem állapítható meg, az a bíróság, amelynél az ügyész indítványozza.
 

@@ -1,6 +1,6 @@
 ## A terhelt
 
-43. § (1) A terhelt az, akivel szemben büntetőeljárást folytatnak. A terhelt a nyomozás során gyanúsított, a bírósági eljárásban vádlott, a büntetés jogerős kiszabása, illetve a megrovás, próbára bocsátás vagy javítóintézeti nevelés jogerős alkalmazása után elítélt.
+43. § (1) A terhelt az, akivel szemben büntetőeljárást folytatnak. A terhelt a nyomozás során gyanúsított, a bírósági eljárásban vádlott, a büntetés jogerős kiszabása, illetve a megrovás, próbára bocsátás, jóvátételi munka végzésének előírása vagy javítóintézeti nevelés jogerős alkalmazása után elítélt.
 
 (2) A terhelt jogosult arra, hogy
 

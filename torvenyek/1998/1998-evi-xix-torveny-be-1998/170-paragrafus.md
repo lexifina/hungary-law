@@ -10,4 +10,4 @@
 
 (5) A (4) bekezdés szerinti nyomozási cselekményt bármely nyomozó hatóság elvégezheti, köteles azonban a hatáskörrel és illetékességgel rendelkező nyomozó hatóságot haladéktalanul értesíteni.
 
-(6) Nyomozást nem lehet indítani közokirat-hamisítás (Btk. 274. §) miatt, ha a hamis vagy hamisított, illetőleg más nevére szóló valódi úti okmányt a külföldi az ország területére történő beutazás érdekében használja fel, feltéve, hogy vele szemben idegenrendészeti eljárásnak van helye. Ez a rendelkezés nem alkalmazható, ha a külföldivel szemben más bűncselekmény elkövetése miatt is nyomozást kell indítani.
+(6) Nyomozást nem lehet indítani közokirat-hamisítás (Btk. 342. §) miatt, ha a hamis vagy hamisított, illetve más nevére szóló valódi úti okmányt a külföldi az ország területére történő beutazás érdekében használja fel, feltéve, hogy vele szemben idegenrendészeti eljárásnak van helye. Ez a rendelkezés nem alkalmazható, ha a külföldivel szemben más bűncselekmény elkövetése miatt is nyomozást kell indítani.

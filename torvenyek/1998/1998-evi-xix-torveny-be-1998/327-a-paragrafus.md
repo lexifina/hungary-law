@@ -1,0 +1,1 @@
+327/A. § Ha a bíróság a vádlottal szemben közérdekű munkát szabott ki és az ítélet jogerőre emelkedett, a bíróság felhívja a terheltet, nyilatkozzon arról, hogy a közérdekű munka végrehajtási helyét a lakóhelye vagy tartózkodási helye szerint kéri-e kijelölni.

@@ -2,34 +2,24 @@
 
 554/B. § Kiemelt jelentőségű ügy
 
-a) a hivatali visszaélés (Btk. 225.§),
+a) a hivatali visszaélés (Btk. 305. §),
 
-b) a közélet tisztasága elleni bűncselekmények [Btk. 250. § (2) bek. a) pont, és (3) bek., 255/B. § és 256. §], ha annak elkövetésével
+b) a korrupciós bűncselekmények [Btk. 294. § (2) és (3) bekezdés, 297. § és 299–300. §], ha annak elkövetésével
 
-ba) a helyi önkormányzat képviselő-testületének tagja, polgármestere, alpolgármestere, képviselő-testülete hivatalának vezető beosztású dolgozója, országgyűlési képviselő, állami vezető,
+ba) a helyi önkormányzat képviselő-testületének tagja, polgármestere, alpolgármestere, képviselő-testülete hivatalának vezető beosztású dolgozója, országgyűlési képviselő, nemzetiségi szószóló, állami vezető,
 
-bb) a központi költségvetési szerv, a központi államigazgatási szerv, illetve ezek területi szerveinek (a továbbiakban együtt e fejezet alkalmazásában: közigazgatási szerv) vezető beosztású dolgozója gyanúsítható megalapozottan, illetve elkövetőként kizárólag az ebben a pontban felsorolt személyek valamelyike jöhet szóba, vagy a bűncselekményt e személyek vonatkozásában követik el, továbbá a nemzetközi közélet tisztasága ellen elkövetett bűncselekmények [Btk. XV. Fejezet VIII. Cím],
+bb) a központi költségvetési szerv, a központi államigazgatási szerv, illetve ezek területi szerveinek (a továbbiakban együtt e fejezet alkalmazásában: közigazgatási szerv) vezető beosztású dolgozója gyanúsítható megalapozottan, illetve elkövetőként kizárólag az ebben a pontban felsorolt személyek valamelyike jöhet szóba, vagy a bűncselekményt e személyek vonatkozásában követik el,
 
-c) a bűnszervezetben részvétel [Btk. 263/C. §],
+c) a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban elkövetett vesztegetés [Btk. 290. § (4) bekezdés], a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy által elkövetett vesztegetés elfogadása [Btk. 291. § (4) bekezdés], a külföldi hivatalos személy működésével kapcsolatban elkövetett hivatali vesztegetés [Btk. 293. § (3) bekezdés], a külföldi hivatalos személy által elkövetett hivatali vesztegetés elfogadása [Btk. 294. § (4) bekezdés], a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban elkövetett befolyás vásárlása [Btk. 298. § (2) bekezdés], a külföldi hivatalos személlyel kapcsolatban elkövetett befolyás vásárlása [Btk. 298. § (3) bekezdés], a külföldi hivatalos személlyel kapcsolatban elkövetett befolyással üzérkedés [Btk. 299. § (3) bekezdés],
 
-d) a bűnszervezetben [Btk. 137. § 8. pont] elkövetett bármely bűncselekmény,
+d) a bűnszervezetben részvétel (Btk. 321. §),
 
-e) a gazdasági életben súlyos következményekkel járó csődbűncselekmény [Btk. 290. § (4) bekezdés], a versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban [Btk. 296/B. §], a pénzmosás [Btk. 303. és 303/A. §] és a költségvetési csalás súlyosabban minősülő esetei [310. § (4)–(5) bekezdés],
+e) a bűnszervezetben (Btk. 459. § 1. pont) elkövetett bármely bűncselekmény,
 
-f) a különösen nagy értékre, kárt, hátrányt okozva, illetve különösen jelentős értékre, kárt, hátrányt okozva elkövetett vagyon elleni bűncselekmények [Btk. XVIII. Fejezet] és
+f) a csődbűncselekmény súlyosabban minősülő esete [Btk. 404. § (3) bekezdés], a versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban (Btk. 420. §), a pénzmosás (Btk. 399. és 400. §) és a költségvetési csalás súlyosabban minősülő esetei [Btk. 396. § (4)–(5) bekezdés],
 
-g) azok a bűncselekmények, amelyek büntethetősége nem évül el:
+g) azok a bűncselekmények, amelyek büntethetősége a Btk. 26. § (3) bekezdése alapján nem évül el,
 
-ga) az 1945. évi VII. törvénnyel törvényerőre emelt és az 1440/1945. (V. 1.) ME rendelettel módosított és kiegészített 81/1945. (II. 5.) ME rendelet 11. és 13. §-ában meghatározott háborús bűntettek;
+h) az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott nemzetközi jog szerint el nem évülő bűncselekmények,
 
-gb) az emberiség elleni egyéb bűncselekmények (Btk. XI. fejezet);
-
-gc) az emberölés súlyosabban minősülő esetei [166. § (2) bekezdés a)–j) pontjai];
-
-gd) az emberrablás és az elöljáró vagy szolgálati közeg elleni erőszak súlyosabban minősülő esetei [175/A. § (4) bekezdés, 355. § (5) bekezdés a) pont];
-
-ge) a terrorcselekmény, a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése és a zendülés súlyosabban minősülő esetei, ha a halált szándékosan okozva követik el [261. § (1) bekezdés, 262. § (2) bekezdés, 352. § (3) bekezdés b) pont];
-
-gf) az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott nemzetközi jog szerint el nem évülő bűncselekmények.
-
-h) a g) pont gf) alpontjában foglalt kivétellel az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott kommunista bűncselekmények.
+i) a h) pontban foglalt kivétellel az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott kommunista bűncselekmények.

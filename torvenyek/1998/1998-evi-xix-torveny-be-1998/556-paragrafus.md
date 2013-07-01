@@ -1,3 +1,3 @@
 ## A szabadságvesztés végrehajtási fokozatának utólagos megállapítása
 
-556. § A bíróság a szabadságvesztés végrehajtási fokozatáról [Btk. 41. § (1) bek., 111. § (2) bek.] utólag határoz, ha erről a jogerős ítélet nem vagy nem a törvénynek megfelelően rendelkezett. A Btk. 45. §-ának (2) bekezdésén alapuló rendelkezés nem pótolható, illetőleg nem vizsgálható felül.
+556. § A bíróság a szabadságvesztés végrehajtási fokozatáról [Btk. 35. § (1) bekezdés, 37. §, 110. §, illetve 1978. évi IV. törvény 41. § (1) bekezdés, 111. § (2) bekezdés] utólag határoz, ha erről a jogerős ítélet nem vagy nem a törvénynek megfelelően rendelkezett. A Btk. 35. § (2) bekezdésén, illetve az 1978. évi IV. törvény 45. § (2) bekezdésén alapuló rendelkezés nem pótolható, illetve nem vizsgálható felül.

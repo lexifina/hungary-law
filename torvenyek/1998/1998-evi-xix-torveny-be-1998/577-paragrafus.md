@@ -6,4 +6,4 @@
 
 (3) A bíróság a kérelem elbírálása előtt beszerzi az ügyész nyilatkozatát. Ha a mentesítés törvényi előfeltételei hiányoznak, a bíróság a kérelmet elutasítja, egyébként érdemben elbírálja.
 
-(4) A bíróság a mentesítést kimondó határozat hatályon kívül helyezéséről az ügyész indítványára vagy hivatalból utólag határoz, ha a mentesítés hatályát vesztette [Btk. 102. § (2) bek., 104. § (2) bek.], vagy utóbb megállapítják, hogy a mentesítésnek törvényi akadálya volt.
+(4) A bíróság a mentesítést kimondó határozat hatályon kívül helyezéséről az ügyész indítványára vagy hivatalból utólag határoz, ha a mentesítés hatályát vesztette [Btk. 100. § (3) bekezdés, 102. § (2) bekezdés], vagy utóbb megállapítják, hogy a mentesítésnek törvényi akadálya volt.

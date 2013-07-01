@@ -22,17 +22,19 @@ a) a terheltet felmentette,
 
 b) az eljárást a büntethetőség elévülése, az eljárás megindításához szükséges magánindítvány, feljelentés vagy kívánat hiánya, a törvényes vád hiánya vagy vádelejtés miatt, illetőleg azért szüntette meg, mert a cselekményt már jogerősen elbírálták;
 
-III. a bíróság a terhelt bűnösségét jogerős határozatában megállapította, de nem szabott ki szabadságvesztést, közérdekű munkát, pénzbüntetést vagy kiutasítást.
+III. a bíróság a terhelt bűnösségét jogerős határozatában megállapította, de nem szabott ki szabadságvesztést, elzárást, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kitiltást, sportrendezvények látogatásától való eltiltást vagy kiutasítást.
 
 (2) Ha a bíróság a terhelt bűnösségét jogerős határozatában megállapította, kártalanítás jár az előzetes letartóztatásért és a házi őrizetért, ha annak tartama meghaladja a jogerősen kiszabott
 
 a) szabadságvesztés tartamát,
 
-b) közérdekű munka tartamát,
+b) elzárás tartamát,
 
-c) pénzbüntetés napi tételeinek számát,
+c) közérdekű munka tartamát,
 
-d) javítóintézeti nevelés tartamát.
+d) pénzbüntetés napi tételeinek számát,
+
+e) javítóintézeti nevelés tartamát.
 
 (3) Az (1)–(2) bekezdés esetén sincs helye kártalanításnak, ha a terhelt
 

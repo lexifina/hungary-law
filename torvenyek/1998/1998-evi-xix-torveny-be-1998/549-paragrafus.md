@@ -1,6 +1,6 @@
 549. § (1) A tárgyalás megkezdése után a bíróság ismerteti a tárgyalás mellőzésével hozott végzést és a tárgyalás tartására irányuló kérelmet.
 
-(2) A tárgyalás tartása iránti kérelemnek az 548. § (3) bekezdésében meghatározott esetében, továbbá ha az ügyész, a vádlott vagy a védő kizárólag az elkobzásra, illetőleg vagyonelkobzásra, a polgári jogi igényre vagy a bűnügyi költségre vonatkozó rendelkezést sérelmezte, a bíróság a tárgyaláson csak ebben a kérdésben határoz.
+(2) A tárgyalás tartása iránti kérelemnek az 548. § (3) bekezdésében meghatározott esetében, továbbá ha az ügyész, a vádlott vagy a védő kizárólag az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére, a polgári jogi igényre vagy a bűnügyi költségre vonatkozó rendelkezést sérelmezte, a bíróság a tárgyaláson csak ebben a kérdésben határoz.
 
 (3) A bíróság – a (2) bekezdés kivételével – a tárgyalás mellőzésével hozott végzését hatályon kívül helyezi, ezt követően a tárgyalást a XIII. Fejezet rendelkezései szerint folytatja le.
 

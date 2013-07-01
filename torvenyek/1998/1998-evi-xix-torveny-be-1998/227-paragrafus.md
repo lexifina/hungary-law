@@ -18,4 +18,4 @@ e) a vádemelés elhalasztásának tartama alatt állapítják meg, hogy a váde
 
 a) a gyanúsított a vádemelés elhalasztásától számított egy éven belül okirattal nem igazolja, hogy legalább hat hónapig tartó folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült vagy megelőző-felvilágosító szolgáltatáson vett részt, illetőleg
 
-b) a vádemelés elhalasztásának tartama alatt a gyanúsított ellen kábítószerrel visszaélés miatt újabb büntetőeljárás indult, és a nyomozás felfüggesztésének vagy megszüntetésének nincs helye.
+b) a vádemelés elhalasztásának tartama alatt a gyanúsított ellen kábítószer-kereskedelem vagy kábítószer birtoklása miatt újabb büntetőeljárás indult, és a nyomozás felfüggesztésének vagy megszüntetésének nincs helye.

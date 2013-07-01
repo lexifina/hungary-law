@@ -4,18 +4,22 @@
 
 (2) A Nemzeti Adó- és Vámhivatal végzi a nyomozást a következő bűncselekmények miatt:
 
-a) nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel [Btk. 263/B. § (1) bekezdés c) pont], engedély nélküli külkereskedelmi tevékenység (Btk. 298. §), jövedékkel visszaélés elősegítése (Btk. 311/B. §),
+a) nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §),
 
-b) áru hamis megjelölése (Btk. 296. §), bitorlás (Btk. 329. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 329/A. §), szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása (Btk. 329/B. §), jogkezelési adat meghamisítása (Btk. 329/C. §) és iparjogvédelmi jogok megsértése (Btk. 329/D. §),
+b) az orgazdaság, ha vámellenőrzés alól elvont nem közösségi árura vagy jövedéki adózás alól elvont termékre követik el (Btk. 379. §),
 
-c) számvitel rendjének megsértése (Btk. 289. §), csődbűncselekmény (Btk. 290. §), visszaélés társadalombiztosítási, szociális vagy más jóléti juttatással (Btk. 309. §), költségvetési csalás (Btk. 310. §), költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása (Btk. 310/A. §), az orgazdaság, ha vámellenőrzés alól elvont nem közösségi árura vagy jövedéki adózás alól elvont termékre követik el (Btk. 326. §), pénzmosás (Btk. 303. §, Btk. 303/A. §), a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 303/B. §),
+c) bitorlás (Btk. 384. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), védelmet biztosító műszaki intézkedés kijátszása (Btk. 386. §), jogkezelési adat meghamisítása (Btk. 387. §) és iparjogvédelmi jogok megsértése (Btk. 388. §),
 
-d) az a)–c) pontokban meghatározott bűncselekményekkel összefüggésben elkövetett közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §) és bélyeghamisítás (Btk. 307. §).
+d) társadalombiztosítási, szociális vagy más jóléti juttatással visszaélés (Btk. 395. §), költségvetési csalás (Btk. 396. §), költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása (Btk. 397. §), jövedékkel visszaélés elősegítése (Btk. 398. §),
 
-e)
+e) számvitel rendjének megsértése (Btk. 403. §), csődbűncselekmény (Btk. 404. §), engedély nélküli nemzetközi kereskedelmi tevékenység (Btk. 406. §),
+
+f) versenytárs utánzása (Btk. 419. §),
+
+g) az a)–f) pontban meghatározott bűncselekményekkel összefüggésben elkövetett közokirat-hamisítás (Btk. 342–343. §), hamis magánokirat felhasználása (Btk. 345. §), egyedi azonosító jellel visszaélés (Btk. 347. §), bélyeghamisítás (Btk. 391. §), pénzmosás (Btk. 399–400. §) és a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §).
 
 (3)
 
-(4) Külföldön lévő magyar kereskedelmi hajón, illetőleg polgári légi járművön magyar állampolgár vagy – a Btk. 3. §-ának (2) bekezdésében, illetve 4. §-ában meghatározott esetben – bárki által elkövetett bűncselekmény miatt a hajó, illetőleg a légi jármű parancsnoka jogosult a nyomozó hatóságra vonatkozó rendelkezések alkalmazására.
+(4) Külföldön lévő magyar kereskedelmi hajón vagy polgári légi járművön magyar állampolgár vagy – a Btk. 3. § (1) bekezdés b) pontjában, illetve a (2) bekezdésében meghatározott esetben – bárki által elkövetett bűncselekmény miatt a hajó, illetve a légi jármű parancsnoka jogosult a nyomozó hatóságra vonatkozó rendelkezések alkalmazására.
 
 (5) A nyomozó hatóságok a legfőbb ügyész engedélyével a külön törvényben meghatározott feltételek esetén az Európai Unió tagállamainak nyomozó hatóságai, továbbá az Európai Rendőrségi Hivatal (EUROPOL) részvételével egy ügyre vagy ügyek meghatározott csoportjaira közös nyomozó csoportot alakíthatnak, illetőleg abban részt vehetnek.

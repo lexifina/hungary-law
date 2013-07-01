@@ -6,6 +6,6 @@
 
 (3) Ha a fellebbezés kizárólag a kényszergyógykezelés elrendelése vagy mellőzése ellen irányul, a felülbírálat az ítélet felmentő rendelkezésére is kiterjed.
 
-(4) A harmadfokú bíróság a megtámadott másodfokú ítéletnek az elkobzásra, a vagyonelkobzásra, a pártfogó felügyelet elrendelésére, a lefoglalásra, a polgári jogi igényre, a szülői felügyeleti jog megszüntetésére vagy a bűnügyi költség viselésére vonatkozó rendelkezését hivatalból felülbírálja.
+(4) A harmadfokú bíróság a megtámadott másodfokú ítéletnek az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére, a pártfogó felügyelet elrendelésére, a lefoglalásra, a polgári jogi igényre, a szülői felügyeleti jog megszüntetésére vagy a bűnügyi költség viselésére vonatkozó rendelkezését hivatalból felülbírálja.
 
 (5) Ha a harmadfokú bíróság a másodfokú bíróság ítéletének a fellebbezéssel nem érintett vádlottra vonatkozó részét hatályon kívül helyezi, vagy a fellebbezéssel nem érintett vádlottat felmenti, és a másodfokú bíróság által e vádlott tekintetében kiszabott büntetést összbüntetésbe foglalták, a harmadfokú bíróság az összbüntetési ítéletet is hatályon kívül helyezi.

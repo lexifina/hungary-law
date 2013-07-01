@@ -1,3 +1,5 @@
+## Számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés
+
 158/A. § (1) A megőrzésre kötelezés a bűncselekmény felderítése és a bizonyítás érdekében a számítástechnikai rendszer útján rögzített adat birtokosának, feldolgozójának, illetőleg kezelőjének a számítástechnikai rendszer útján rögzített meghatározott adat feletti rendelkezési jogának ideiglenes korlátozása.
 
 (2) A bíróság, az ügyész, illetőleg a nyomozó hatóság elrendeli annak a számítástechnikai rendszer útján rögzített adatnak a megőrzését, amely bizonyítási eszköz, vagy bizonyítási eszköz felderítéséhez, a gyanúsított kilétének, tartózkodási helyének a megállapításához szükséges.
@@ -13,7 +15,3 @@
 (7) A megőrzésre kötelezést követően az elrendelő haladéktalanul megkezdi az érintett adatok átvizsgálását, és ennek eredményéhez képest az adatnak a számítástechnikai rendszerbe vagy más adathordozóra történő átmásolásával az adat lefoglalását kell elrendelni, vagy a megőrzésre kötelezést meg kell szüntetni.
 
 (8) A megőrzésre kötelezés az adat lefoglalásáig, de legfeljebb három hónapig tart. A megőrzésre kötelezés megszűnik, ha a büntetőeljárást befejezték. A büntetőeljárás befejezéséről a megőrzésre kötelezettet értesíteni kell.
-
-IX. CÍM
-
-A ZÁR ALÁ VÉTEL ÉS A BIZTOSÍTÁSI INTÉZKEDÉS

@@ -6,4 +6,4 @@
 
 (3) Az ítélet indokolása a 258. § (3) bekezdésében írottakon kívül tartalmazza azoknak az okoknak a feltüntetését, amelyek a bíróságot az ítélet kialakításában vezették, különösen a bűncselekmény hiányára, a bűncselekmény bizonyítottságának hiányára, illetőleg a büntethetőséget kizáró vagy megszüntető okokra való utalást.
 
-(4) Ha a felmentés alapja büntethetőséget kizáró vagy megszüntető ok, a bíróság elkobzást, illetőleg vagyonelkobzást rendelhet el.
+(4) Ha a felmentés alapja büntethetőséget kizáró ok, a bíróság elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét rendelhet el.

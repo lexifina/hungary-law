@@ -2,13 +2,13 @@
 
 470. § (1) Katonai büntetőeljárásnak van helye
 
-a) a katona [Btk. 122. § (1) bek.] által a tényleges szolgálati viszonyának tartama alatt elkövetett katonai bűncselekmény (Btk. XX. Fejezet),
+a) a katona [Btk. 127. § (1) bekezdés] által a tényleges szolgálati viszonyának tartama alatt elkövetett katonai bűncselekmény (Btk. XLV. Fejezet),
 
 b) a Magyar Honvédség tényleges állományú tagja által elkövetett bármely bűncselekmény,
 
-c) a polgári nemzetbiztonsági szolgálatok, valamint a büntetés-végrehajtási szervezet hivatásos állományú tagja által a szolgálati helyen, illetőleg a szolgálattal összefüggésben elkövetett más bűncselekmény,
+c) a polgári nemzetbiztonsági szolgálatok, valamint a büntetés-végrehajtási szervezet hivatásos állományú tagja által a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett más bűncselekmény,
 
-d) a szövetséges fegyveres erő (Btk. 368. §) tagja által belföldön, valamint e személynek a Magyarország határain kívül tartózkodó magyar hajón vagy magyar légi járművön elkövetett, magyar büntető joghatóság alá tartozó bűncselekménye
+d) a szövetséges fegyveres erő tagja által belföldön, valamint e személynek a Magyarország határain kívül tartózkodó magyar hajón vagy magyar légi járművön elkövetett, magyar büntető joghatóság alá tartozó bűncselekménye
 
 esetén.
 

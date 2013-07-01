@@ -2,13 +2,11 @@
 
 572. § (1) A bíróság a próbaidőre felfüggesztett szabadságvesztés végrehajtását az ügyész indítványára vagy hivatalból elrendeli, ha
 
-a) az elkövetőt a szabadságvesztés végrehajtandó része alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték [Btk. 91/A. § b) pont], és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
+a) az elítéltet a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték [Btk. 87. § b) pont], és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
 
-b) az elítéltet a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték [Btk. 91/A. § c) pont], és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
+b) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegte.
 
-c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegte.
-
-(2) Az (1) bekezdés c) pontja esetén a bíróság tárgyaláson határoz.
+(2) Az (1) bekezdés b) pontja esetében a bíróság tárgyaláson határoz.
 
 (3) Ha a próbaidőre felfüggesztett büntetés végrehajtását nem rendelik el, a bűnügyi költséget az állam viseli.
 

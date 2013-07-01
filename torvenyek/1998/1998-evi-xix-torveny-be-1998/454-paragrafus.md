@@ -2,7 +2,7 @@
 
 454. § (1) A fiatalkorú előzetes letartóztatásának a 129. § (2) bekezdésében megállapított okok esetében is csak akkor van helye, ha az a bűncselekmény különös tárgyi súlya folytán szükséges.
 
-(2) A fiatalkorú előzetes letartóztatását
+(2) A fiatalkorú előzetes letartóztatását – az (5a) bekezdésben foglalt kivétellel –
 
 a) javítóintézetben,
 
@@ -15,5 +15,7 @@ kell végrehajtani.
 (4) Az előzetes letartóztatás tartama alatt a bíróság az előzetes letartóztatás végrehajtásának helyét az ügyész, a terhelt vagy a védő indítványára megváltoztathatja. Erről – a tárgyalás előkészítése során hozott határozatig – az előzetes letartóztatást elrendelő bíróság, azt követően az a bíróság határoz, amelyik előtt a büntetőeljárás folyik.
 
 (5) Ha a fiatalkorú előzetes letartóztatását javítóintézetben hajtják végre, és a fiatalkorú büntetés-végrehajtási intézetben vagy rendőrségi fogdában történő ideiglenes elhelyezéséről a bíróság határoz, a bíróság hatáskörére és illetékességére a (4) bekezdést kell alkalmazni.
+
+(5a) A bűncselekmény elkövetésekor tizennegyedik életévét be nem töltött fiatalkorú előzetes letartóztatását javítóintézetben kell végrehajtani.
 
 (6) Az előzetes letartóztatás végrehajtása során a fiatalkorúakat a felnőttkorúaktól el kell különíteni.

@@ -8,4 +8,4 @@
 
 (4) A bíróság úgy rendelkezhet, hogy a házi őrizet előírásainak megtartását a rendőrség – a terhelt hozzájárulásával – a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. A házi őrizet előírásai megtartásának ellenőrzéséről külön jogszabály rendelkezik.
 
-(5) Katonával [Btk. 122. § (1) bek.] szemben szolgálati viszonyának tartama alatt házi őrizet nem rendelhető el.
+(5) Katonával [Btk. 122. § (1) bekezdés] szemben szolgálati viszonyának tartama alatt házi őrizet nem rendelhető el.

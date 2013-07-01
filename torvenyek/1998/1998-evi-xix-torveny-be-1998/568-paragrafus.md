@@ -1,6 +1,6 @@
 ## Eljárás próbára bocsátás esetén
 
-568. § (1) Az alapügyben eljárt bíróság hivatalból vagy az ügyész indítványára tárgyaláson, ítélettel határoz a próbaidő meghosszabbításáról vagy a próbára bocsátást kimondó rendelkezés hatályon kívül helyezéséről [Btk. 73. § (1) és (2) bek.], ha a próbára bocsátott a pártfogó felügyelet magatartási szabályait súlyosan megszegte. A bíróság a pártfogó felügyelet szabályainak súlyos megszegése miatt büntetést szab ki, fiatalkorúval szemben javítóintézeti nevelést is elrendelhet.
+568. § (1) Az alapügyben eljárt bíróság hivatalból vagy az ügyész indítványára tárgyaláson, ítélettel határoz a próbaidő meghosszabbításáról vagy a próbára bocsátást kimondó rendelkezés hatályon kívül helyezéséről [Btk. 65. § (4) bekezdés és 66. § (1) bekezdés], ha a próbára bocsátott a pártfogó felügyelet magatartási szabályait súlyosan megszegte. A bíróság a pártfogó felügyelet szabályainak súlyos megszegése miatt büntetést szab ki, fiatalkorúval szemben javítóintézeti nevelést is elrendelhet.
 
 (2) A bíróság határozata elleni fellebbezésre az ügydöntő határozat elleni jogorvoslatra vonatkozó rendelkezéseket kell alkalmazni.
 

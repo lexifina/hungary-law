@@ -10,4 +10,4 @@
 
 (5) A 175. § (7) bekezdése a bírósági eljárásban is irányadó.
 
-(6) Az (1)–(4) bekezdés rendelkezéseit értelemszerűen kell alkalmazni abban az esetben is, ha a bíróság a gyanúsítottal szemben korábban indult büntetőeljárást a 266. § (6) bekezdése alapján felfüggesztette, azonban az ügyész a vádlott ellen kábítószerrel visszaélés miatt újabb vádiratot nyújtott be [266. § (7) bek.].
+(6) Az (1)–(4) bekezdés rendelkezéseit értelemszerűen kell alkalmazni abban az esetben is, ha a bíróság a gyanúsítottal szemben korábban indult büntetőeljárást a 266. § (6) bekezdése alapján felfüggesztette, azonban az ügyész a vádlott ellen kábítószer-kereskedelem vagy kábítószer birtoklása miatt újabb vádiratot nyújtott be [266. § (7) bekezdés].

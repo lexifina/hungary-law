@@ -4,4 +4,4 @@
 
 (3) Az ügyész a vádiratban a vádlottal szemben polgári jogi igényt terjeszthet elő.
 
-(4) Ha a vádemelés kábítószerrel visszaélés (Btk. 282–282/C. §) miatt történik, és a gyanúsítottal szemben korábban indult büntetőeljárást a bíróság a 266. § (6) bekezdése alapján felfüggesztette, a vádiratban indítványozni kell az eljárás folytatását [266. § (7) bek.] és az ügyek egyesítését.
+(4) Ha a vádemelés kábítószer-kereskedelem (Btk. 176–177. §) vagy kábítószer birtoklása (Btk. 178. §) miatt történik, és a gyanúsítottal szemben korábban indult büntetőeljárást a bíróság a 266. § (6) bekezdése alapján felfüggesztette, a vádiratban indítványozni kell az eljárás folytatását [266. § (7) bekezdés] és az ügyek egyesítését.

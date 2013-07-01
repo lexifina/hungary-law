@@ -1,6 +1,6 @@
 ## A bűnügyi költség viselése
 
-514. § (1) A 339. § (1) bekezdésében szabályozott esetben a bűnügyi költséget a magánvádló viseli, ha azonban a büntetőeljárást a Btk. 32. §-ának a) vagy c) pontja szerinti büntethetőséget megszüntető okból szüntették meg, a 74. § (1) bekezdésének a) pontjában meghatározott bűnügyi költséget az állam viseli. A 339. § (2) bekezdése alkalmazásának akkor is helye van, ha a bíróság az eljárást az 504. § (1) bekezdésének b) pontja, az 510. § (1) bekezdésének első mondata, illetőleg az 512. § (4) bekezdése alapján szüntette meg.
+514. § (1) A 339. § (1) bekezdésében szabályozott esetben a bűnügyi költséget a magánvádló viseli, ha azonban a büntetőeljárást a Btk. 25. § a) vagy c) pontja szerinti büntethetőséget megszüntető okból szüntették meg, a 74. § (1) bekezdés a) pontjában meghatározott bűnügyi költséget az állam viseli. A 339. § (2) bekezdése alkalmazásának akkor is helye van, ha a bíróság az eljárást az 504. § (1) bekezdés b) pontja, az 510. § (1) bekezdés első mondata, illetve az 512. § (4) bekezdése alapján szüntette meg.
 
 (2) A másodfokú bíróság a magánvádlót a másodfokú eljárásban felmerült bűnügyi költség viselésére kötelezi, ha az első fokú bíróság határozata ellen egyedül a magánvádló fellebbezett, és a másodfokú bíróság a határozatot helybenhagyja.
 

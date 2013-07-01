@@ -22,7 +22,7 @@ i) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésrő
 
 j) és megrovást alkalmaz, ha a gyanúsított cselekménye már nem veszélyes, vagy oly csekély fokban veszélyes a társadalomra, hogy a törvény szerint alkalmazható legenyhébb büntetés kiszabása, vagy más intézkedés alkalmazása is szükségtelen.
 
-(2) Az (1) bekezdés a), b), e), g) és h) pontjában meghatározott esetekben, továbbá, ha a büntethetőséget a gyermekkor zárja ki [Btk. 22. § a) pont], a nyomozás megszüntetésére a nyomozó hatóság is jogosult. A nyomozást megszüntető határozatot a nyomozó hatóság az ügyésznek haladéktalanul megküldi.
+(2) Az (1) bekezdés a), b), e), g) és h) pontjában meghatározott esetekben, továbbá, ha a büntethetőséget a gyermekkor zárja ki [Btk. 15. § a) pont], a nyomozás megszüntetésére a nyomozó hatóság is jogosult. A nyomozást megszüntető határozatot a nyomozó hatóság az ügyésznek haladéktalanul megküldi.
 
 (3) Ha a meghatározott személy gyanúsítottkénti kihallgatásától számított két év eltelt [176. § (2) bek.], az ügyész a rendelkezésre álló adatok alapján dönt arról, hogy a nyomozást meg kell-e szüntetni, vagy a 193. § (1) bekezdése szerinti eljárási cselekmény elvégzésének és azt követően vádemelésnek, a vádemelés elhalasztásának vagy az ügy közvetítői eljárásra utalásának van-e alapja.
 

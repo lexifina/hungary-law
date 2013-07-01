@@ -4,4 +4,4 @@
 
 (2) Az (1) bekezdés szerinti korlátozás nem alkalmazható, ha a vádemelés elhalasztásának a 222. § (2) bekezdésében meghatározott ok miatt van helye.
 
-(3) A katonai büntetőeljárásban közvetítői eljárás alkalmazásának a fegyveres szerv sérelmére elkövetett vagyon elleni bűncselekmény miatt nincs helye.
+(3) A katonai büntetőeljárásban közvetítői eljárás alkalmazásának a Btk. 127. § (1) bekezdésében meghatározott szerv sérelmére elkövetett vagyon elleni bűncselekmény miatt nincs helye.

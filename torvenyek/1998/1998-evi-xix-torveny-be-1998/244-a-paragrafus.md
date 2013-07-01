@@ -6,7 +6,7 @@
 
 a) a tizennegyedik életévét be nem töltött tanúnak,
 
-b) annak a tanúnak, akinek sérelmére az élet, a testi épség és az egészség elleni bűncselekmények (Btk. XII. Fejezet I. Cím), vagy a házasság, a család, az ifjúság és a nemi erkölcs elleni bűncselekmények (Btk. XIV. Fejezet) körébe tartozó vagy más, személy elleni erőszakos bűncselekményt követtek el,
+b) annak a tanúnak, akinek sérelmére az élet, a testi épség és az egészség elleni bűncselekmények (Btk. XV. Fejezet), a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények (Btk. XIX. Fejezet) vagy a gyermekek érdekét sértő és a család elleni bűncselekmények (Btk. XX. Fejezet) körébe tartozó vagy más, személy elleni erőszakos bűncselekményt követtek el,
 
 c) annak a tanúnak, akinek a tárgyaláson való megjelenése egészségi állapotára vagy más körülményre tekintettel aránytalan nehézséggel járna,
 

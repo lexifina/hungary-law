@@ -12,9 +12,9 @@ d) ha a vád nem törvényes [2. § (2) bek.],
 
 e) ha az ügyész a vádat elejtette és pótmagánvádnak nincs helye,
 
-f) tevékeny megbánás esetén [Btk. 36. § (1) bek.],
+f) tevékeny megbánás esetén [Btk. 29. § (1) bekezdés],
 
-g) a büntethetőséget megszüntető egyéb ok [Btk. 32. § e) pont] esetén,
+g) a büntethetőséget megszüntető egyéb ok [Btk. 25. § e) pont] esetén.
 
 h) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti konzultációs eljárás eredménye alapján a büntetőeljárást az Európai Unió másik tagállama folytatja le.
 

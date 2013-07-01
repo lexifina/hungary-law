@@ -2,7 +2,7 @@
 
 151. § (1) A lefoglalás a bizonyítás érdekében vagy az elkobzás, illetőleg a vagyonelkobzás biztosítására a dolognak a bíróság, az ügyész, illetőleg a nyomozó hatóság általi őrzésbe vétele vagy megőrzésének más módon történő biztosítása.
 
-(2) A bíróság, az ügyész, illetőleg a nyomozó hatóság elrendeli annak a dolognak – ideértve a nyomozó hatóság által saját segédanyagainak és eszközeinek a felhasználásával létrehozott dolgokat, azokat a dolgokat, amelyeket valamely tárgyról vagy tárgyból úgy különítenek el, hogy értéke nincs és önmagában hasznavehetetlen, és azokat a dolgokat is, amelyek gazdátlannak tekintendők –, illetőleg számítástechnikai rendszernek vagy ilyen rendszer útján rögzített adatokat tartalmazó adathordozónak a lefoglalását, amely
+(2) A bíróság, az ügyész, illetőleg a nyomozó hatóság elrendeli annak a dolognak, illetőleg számítástechnikai rendszernek vagy ilyen rendszer útján rögzített adatokat tartalmazó adathordozónak a lefoglalását, amely
 
 a) bizonyítási eszköz,
 

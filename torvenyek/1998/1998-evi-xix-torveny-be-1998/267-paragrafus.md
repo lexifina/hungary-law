@@ -16,7 +16,7 @@ f) ha az ügyész a vádat elejtette és pótmagánvádnak nincs helye,
 
 g) az olyan bűncselekmény miatt, amelynek a vád tárgyává tett jelentősebb súlyú bűncselekmény mellett a felelősségre vonás szempontjából nincs jelentősége,
 
-h) és a vádlottat megrovásban (Btk. 71. §) részesíti, ha a bűncselekmény már nem veszélyes, vagy oly csekély fokban veszélyes a társadalomra, hogy a törvény szerint alkalmazható legkisebb büntetés kiszabása, vagy más intézkedés alkalmazása is szükségtelen,
+h) és a vádlottat megrovásban (Btk. 64. §) részesíti, ha a bűncselekmény már nem veszélyes, vagy olyan csekély fokban veszélyes a társadalomra, hogy a törvény szerint alkalmazható legkisebb büntetés kiszabása, vagy más intézkedés alkalmazása is szükségtelen,
 
 i) ha az eljárást a 266. § (6) vagy (8) bekezdése alapján függesztette fel, és a vádlott igazolja, hogy legalább hat hónapig folyamatos, kábítószer függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült vagy megelőző-felvilágosító szolgáltatáson vett részt, illetve, ha a tartás elmulasztása vétségének vádlottja a tartási kötelezettségét teljesítette,
 
@@ -24,7 +24,7 @@ j) ha a vád nem törvényes [2. § (2) bek.],
 
 k) ha a vádirat nem felel meg a 217. § (3) bekezdésében foglaltaknak, és az ügyész nem tett eleget a 268. § (1) bekezdése szerinti megkeresésben foglaltaknak,
 
-l) tevékeny megbánás esetén [Btk. 36. § (1) bek.],
+l) tevékeny megbánás esetén [Btk. 29. § (1) bekezdés].
 
 m) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti konzultációs eljárás eredménye alapján a büntetőeljárást az Európai Unió másik tagállama folytatja le.
 

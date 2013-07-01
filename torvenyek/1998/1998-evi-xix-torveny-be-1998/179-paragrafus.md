@@ -8,4 +8,4 @@
 
 (4) A gyanúsított kihallgatásáról a nyomozó hatóság olyan időben köteles intézkedni, hogy a terhelt megfelelő időt és lehetőséget kapjon a védekezésre való felkészülésre [43. § (2) bek. c) pont].
 
-(5) Ha a nyomozás adatai alapján a Btk. 283. §-ában meghatározott büntethetőséget megszüntető okból az eljárás megszüntetésének lehet helye, ennek feltételeiről a nyomozó hatóság tájékoztatja a gyanúsítottat.
+(5) Ha a nyomozás adatai alapján a Btk. 180. § (1) bekezdésében meghatározott büntethetőséget megszüntető okból az eljárás megszüntetésének lehet helye, ennek feltételeiről a nyomozó hatóság tájékoztatja a gyanúsítottat.

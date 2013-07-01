@@ -2,7 +2,7 @@
 
 a) a terhelt bűnösségének megállapítására, továbbá kényszergyógykezelésének elrendelésére a büntető anyagi jog szabályainak megsértése miatt került sor,
 
-b) a bűncselekmény törvénysértő minősítése, a büntetőjog más szabályának megsértése miatt törvénysértő büntetést szabtak ki, vagy törvénysértő intézkedést alkalmaztak, illetőleg a büntetés végrehajtását a Btk. 90. §-ában foglalt kizáró ok ellenére függesztették fel,
+b) a bűncselekmény törvénysértő minősítése, a büntetőjog más szabályának megsértése miatt törvénysértő büntetést szabtak ki, vagy törvénysértő intézkedést alkalmaztak, illetve a büntetés végrehajtását a Btk. 86. §-ában foglalt kizáró ok ellenére függesztették fel,
 
 c) a bíróság határozatának meghozatalára a súlyosítási tilalom [354. és 355. §, 405. § (1) és (3) bek., 549. § (4) bek.] megsértésével került sor.
 

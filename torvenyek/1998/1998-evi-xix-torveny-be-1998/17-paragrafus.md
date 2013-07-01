@@ -8,9 +8,9 @@
 
 (4) Több terhelt esetében a terheltek egyikére illetékes bíróság a többi terhelttel szemben is eljárhat, ha ez a hatáskörét nem haladja meg. Ha több ilyen bíróság van, a megelőzés az irányadó.
 
-(5) A közveszélyokozás (Btk. 259. §), valamint a közérdekű üzem működésének megzavarása (Btk. 260. §) esetén a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetve a főváros területére terjed ki.
+(5) A közveszély okozása (Btk. 322. §), valamint a közérdekű üzem működésének megzavarása (Btk. 323. §) esetén a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel.
 
-(6) Visszaélés radioaktív anyaggal (Btk. 264. §), visszaélés nukleáris létesítmény üzemeltetésével (Btk. 264/A. §), visszaélés atomenergia alkalmazásával (Btk. 264/B. §) és a gazdasági bűncselekmények (Btk. XVII. Fejezet) miatt – kivéve a számvitel rendjének megsértését (Btk. 289. §), valamint a pénzügyi bűncselekményeket (Btk. XVII. Fejezet III. Cím) – a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetőleg a főváros területére terjed ki.
+(6) A radioaktív anyaggal visszaélés (Btk. 250. §), nukleáris létesítmény üzemeltetésével visszaélés (Btk. 251. §), atomenergia alkalmazásával visszaélés (Btk. 252. §), a gazdasági csalás (Btk. 374. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §) – kivéve a különösen nagy vagy különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalást [Btk. 375. § (3) bekezdés a) pont, (4) bekezdés], valamint a különösen nagy vagy különösen jelentős kárt nem okozó elektronikus készpénz-helyettesítő fizetési eszközzel elkövetett információs rendszer felhasználásával elkövetett csalást [Btk. 375. § (5) bekezdés] –, a pénzhamisítás (Btk. 389. §), a pénzhamisítás elősegítése (Btk. 390. §), a bélyeghamisítás (Btk. 391. §), a költségvetést károsító bűncselekmények (Btk. XXXIX. Fejezet) – kivéve a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó költségvetési csalást [Btk. 396. § (4) bekezdés a) pont és (5) bekezdés] és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztását (Btk. 397. §) –, a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §), a gazdálkodás rendjét sértő bűncselekmények (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmények (Btk. XLII. Fejezet), a tiltott adatszerzés és az információs rendszer elleni bűncselekmények (Btk. XLIII. Fejezet) esetén a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel.
 
 (7) Ha a terhelt különböző bíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (5)–(6) bekezdés szerint illetékes.
 
@@ -18,4 +18,4 @@
 
 (9)
 
-(10) A 16. § (1) bekezdés j) pontjában meghatározott bűncselekmények miatt indított eljárásban a Fővárosi Törvényszék jár el.
+(10) A 16. § (1) bekezdés x) pontjában meghatározott bűncselekmények miatt indított eljárásban a Fővárosi Törvényszék jár el.

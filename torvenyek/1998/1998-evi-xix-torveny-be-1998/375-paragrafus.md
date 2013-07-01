@@ -4,4 +4,4 @@
 
 (3) Az ítéletet az (1) bekezdés alapján nem kell hatályon kívül helyezni, ha a bíróság a törvény kötelező rendelkezése ellenére nem tartott előkészítő ülést.
 
-(4) Ha az első fokú bíróság a lefoglalt dologról, az elkobzásról, illetőleg a vagyonelkobzásról a törvény rendelkezése ellenére nem rendelkezett, és a döntéshez szükséges adatok a másodfokú eljárás során bizonyítás felvétele keretében nem tisztázhatóak, a másodfokú bíróság az első fokú bíróságot az 569. § (1) bekezdésében írt különleges eljárás lefolytatására utasítja.
+(4) Ha az elsőfokú bíróság a lefoglalt dologról, az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, és a döntéshez szükséges adatok a másodfokú eljárás során bizonyítás felvétele keretében nem tisztázhatóak, a másodfokú bíróság az elsőfokú bíróságot az 569. § (1) bekezdésében írt különleges eljárás lefolytatására utasítja.

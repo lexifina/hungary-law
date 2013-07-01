@@ -16,7 +16,7 @@ c) a 212. § (2) bekezdése szerinti határozat
 
 ellen.
 
-(5) Fellebbezésre tekintet nélkül végrehajtható a személyi szabadságot elvonó vagy korlátozó kényszerintézkedés elrendelése. A személyi szabadságot elvonó vagy korlátozó kényszerintézkedés megszüntetése miatt bejelentett ügyészi fellebbezés – feltéve, hogy a megszüntetést nem az ügyész indítványozta – halasztó hatályú.
+(5) Fellebbezésre tekintet nélkül végrehajtható a személyi szabadságot elvonó vagy korlátozó kényszerintézkedés és az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelése. A személyi szabadságot elvonó vagy korlátozó kényszerintézkedés megszüntetése miatt bejelentett ügyészi fellebbezés – feltéve, hogy a megszüntetést nem az ügyész indítványozta – halasztó hatályú.
 
 (5a) A tanúvallomást a 82. § (1) bekezdés d) pontja alapján megtagadó személynek a számára információt átadó személy kilétének felfedésére a 82. § (6) bekezdése alapján történt kötelezése ellen bejelentett fellebbezés halasztó hatályú.
 

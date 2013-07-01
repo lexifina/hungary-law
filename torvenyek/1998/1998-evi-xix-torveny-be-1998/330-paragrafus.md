@@ -2,11 +2,11 @@
 
 330. § (1) A bíróság a vádlottat bűnösnek mondja ki, ha megállapítja, hogy bűncselekményt követett el, és büntethető.
 
-(2) A bűnösséget megállapító ítéletben a bíróság
+(2) (2) A bűnösséget megállapító ítéletben a bíróság
 
 a) büntetést szab ki,
 
-b) a vádlottat próbára bocsátja, vagy megrovásban részesíti,
+b) a vádlottat próbára bocsátja, számára jóvátételi munka végzését írja elő, vagy megrovásban részesíti,
 
 c) a büntetés kiszabását mellőzi.
 

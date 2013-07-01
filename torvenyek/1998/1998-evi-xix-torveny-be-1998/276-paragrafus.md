@@ -26,4 +26,4 @@ ellen.
 
 (3) A jogerős határozat elleni jogorvoslat iránti indítvány elbírálására vonatkozó határozat hozatalát a bíróság mellőzheti.
 
-(4) Ha a bíróság a vádlottat megrovásban (Btk. 71. §) részesíti, ez ellen fellebbezésnek nincs helye, de az ügyész és a vádlott, valamint védője a végzés közlésétől számított nyolc napon belül tárgyalás tartását kérheti. A kérelem alapján a bíróság tárgyalást tart. A vádlottnak az idézést legalább öt nappal a tárgyalás előtt kell kézbesíteni.
+(4) Ha a bíróság a vádlottat megrovásban (Btk. 64. §) részesíti, ez ellen fellebbezésnek nincs helye, de az ügyész és a vádlott, valamint védője a végzés közlésétől számított nyolc napon belül tárgyalás tartását kérheti. A kérelem alapján a bíróság tárgyalást tart. A vádlottnak az idézést legalább öt nappal a tárgyalás előtt kell kézbesíteni.

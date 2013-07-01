@@ -28,6 +28,6 @@ f) a közigazgatási hatósági eljárás és szolgáltatás általános szabál
 
 (7a) A 69/A. § (1) bekezdése alapján létrejött elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
 
-(8) A katonának [Btk. 122. § (1) bek.] kézbesítendő iratot az elöljárója útján kell kézbesíteni. A kézbesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a katonának az iratot küldő bíróság, ügyész, illetőleg nyomozó hatóság székhelyén nincs elöljárója, és a késedelmes kézbesítés az eljárás sikerét vagy a katona jogát, illetőleg méltányolható érdekét sértené. Ha a katona szolgálati viszonya a büntetőeljárás alatt megszűnik, a kézbesítésre az általános szabályok az irányadók.
+(8) A katonának [Btk. 127. § (1) bekezdés] kézbesítendő iratot az elöljárója útján kell kézbesíteni. A kézbesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a katonának az iratot küldő bíróság, ügyész vagy nyomozó hatóság székhelyén nincs elöljárója, és a késedelmes kézbesítés az eljárás sikerét vagy a katona jogát vagy méltányolható érdekét sértené. Ha a katona szolgálati viszonya a büntetőeljárás alatt megszűnik, a kézbesítésre az általános szabályok az irányadók.
 
 (9) Ha a címzett fogva van, a neki kézbesítendő iratot – idézés és értesítés esetén az intézetnek szóló, az előállításra vonatkozó megkereséssel egyidejűleg – a fogvatartást végrehajtó intézet parancsnoka útján kell kézbesíteni.

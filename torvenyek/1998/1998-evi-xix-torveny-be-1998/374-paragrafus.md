@@ -1,8 +1,4 @@
-374. § (1) Ha a másodfokú bíróság az eljárást a 373. § (1) bekezdésének I. a) pontja alapján szünteti meg, az első fokú bíróság ítéletének az elkobzásra, vagyonelkobzásra és a polgári jogi igény megállapítására vonatkozó rendelkezését
-
-a) hatályban tartja, ha ezekre nézve nem jelentettek be fellebbezést
-
-b)
+374. § (1) Ha a másodfokú bíróság az eljárást a 373. § (1) bekezdés I. a) pontja alapján szünteti meg, az elsőfokú bíróság ítéletének az elkobzásra, a vagyonelkobzásra, az elektronikus adat végleges hozzáférhetetlenné tételére és a polgári jogi igény megállapítására vonatkozó rendelkezését hatályban tartja, ha ezekre nézve nem jelentettek be fellebbezést.
 
 (2)
 

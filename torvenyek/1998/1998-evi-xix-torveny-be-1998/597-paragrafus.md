@@ -1,6 +1,6 @@
 ## A kegyelmi kérelem
 
-597. § (1) Kegyelem iránti előterjesztést – hivatalból vagy kérelemre – a büntetőeljárás megszüntetésére a vádirat benyújtásáig a legfőbb ügyész, azt követően az igazságügyért felelős miniszter, a még végre nem hajtott büntetés, a próbára bocsátás és a javítóintézeti nevelés elengedésére vagy mérséklésére, illetőleg a büntetett előélethez fűződő hátrányok alóli mentesítésre az igazságügyért felelős miniszter tehet a köztársasági elnökhöz.
+597. § (1) Kegyelem iránti előterjesztést – hivatalból vagy kérelemre – a büntetőeljárás megszüntetésére a vádirat benyújtásáig a legfőbb ügyész, azt követően az igazságügyért felelős miniszter, a még végre nem hajtott büntetés, a próbára bocsátás, a jóvátételi munka és a javítóintézeti nevelés elengedésére vagy mérséklésére, illetve a büntetett előélethez fűződő hátrányok alóli mentesítésre az igazságügyért felelős miniszter tehet a köztársasági elnökhöz.
 
 (2) Az (1) bekezdésben fel nem sorolt intézkedés mérséklése vagy elengedése, valamint a már végrehajtott büntetés vagy intézkedés utólagos elengedése iránt kegyelmi kérelem nem nyújtható be.
 

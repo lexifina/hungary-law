@@ -1,6 +1,6 @@
 ## A rendbírság
 
-161. § (1) Az e törvényben meghatározott esetekben a rend fenntartása érdekében, valamint az eljárási kötelezettségek megszegése miatt ezer forinttól kétszázezer forintig, különösen súlyos vagy ismételt esetben ötszázezer forintig terjedő rendbírság szabható ki.
+161. § (1) Az e törvényben meghatározott esetekben a rend fenntartása érdekében, valamint az eljárási kötelezettségek megszegése miatt – e törvény eltérő rendelkezése hiányában – ezer forinttól kétszázezer forintig, különösen súlyos vagy ismételt esetben ötszázezer forintig terjedő rendbírság szabható ki.
 
 (2) A rendbírság összegének megállapításánál a kiszabására okot adó cselekmény súlyát és következményeit kell figyelembe venni.
 

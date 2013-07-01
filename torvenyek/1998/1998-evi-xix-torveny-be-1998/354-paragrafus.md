@@ -10,20 +10,18 @@
 
 a) büntetést azzal szemben, akinek az ügyét első fokon önállóan alkalmazott intézkedéssel bírálták el,
 
-b) közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás helyett szabadságvesztést annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
+b) elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, a sportrendezvények látogatásától való eltiltás, kiutasítás helyett szabadságvesztést annak felfüggesztése mellett sem,
 
-c) felfüggesztett szabadságvesztés helyett részben felfüggesztett szabadságvesztést, végrehajtandó szabadságvesztést,
+c) felfüggesztett szabadságvesztés helyett végrehajtandó szabadságvesztést,
 
-d) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
+d) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése mellett sem,
 
-e) részben felfüggesztett szabadságvesztés helyett hosszabb tartamú részben felfüggesztett szabadságvesztést, a részben felfüggesztett szabadságvesztés végrehajtandó részénél hosszabb tartamú végrehajtandó szabadságvesztést,
+e) az elsőfokú bíróság által alkalmazott büntetések számát meghaladó további büntetéseket, ide nem értve a szabadságvesztés helyett alkalmazott büntetéseket,
 
-f) az elsőfokú bíróság által alkalmazott büntetések számát meghaladó további büntetéseket, ide nem értve a szabadságvesztés helyett alkalmazott büntetéseket,
+f) az elsőfokú bíróság által nem alkalmazott mellékbüntetést,
 
-g) az elsőfokú bíróság által nem alkalmazott mellékbüntetést,
+g) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, annak felfüggesztése mellett sem.
 
-h) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem.]
-
-(5) Ha az első fokú bíróság az elkobzásról, illetőleg a vagyonelkobzásról a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
+(5) Ha az elsőfokú bíróság az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
 
 (6) Ha az első fokú bíróság szabálysértés miatt alkalmazott jogkövetkezményt [337. § (1) bek.], e jogkövetkezmény a másodfokú eljárásban akkor súlyosítható, ha a fellebbezés a felmentő rendelkezés ellen irányul, vagy az a szabálysértés miatt alkalmazott jogkövetkezmény súlyosítását célozza.
