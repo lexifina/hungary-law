@@ -1,5 +1,0 @@
-## 4. § A pénzügyi hozzájárulás forrása a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 4. Uniós programok kiegészítő támogatása alcím, 9. az egyes állatbetegségek ellenőrzése és felszámolása támogatása jogcímcsoporton előirányzott 1680 millió forint, valamint az Európai Mezőgazdasági Garanciaalap terhére a Határozat szerint a 2. § szerinti célterületek finanszírozására meghatározott pénzösszeg.
-
-5. § (1) A jogosultság mértékét alátámasztó számlákon és egyéb bizonylatokon szereplő összegekhez abban az esetben nyújtható pénzügyi hozzájárulás, amennyiben a számlák és bizonylatok teljesítési dátuma a végrehajtási időszakra esik, de nem az adott tárgyidőszakot követően keletkezett. A pénzügyi hozzájárulás folyósítására a 13. § (2) bekezdése esetén csak pénzügyileg teljesített számla esetében kerülhet sor.
-
-(2) A pénzügyi hozzájárulás alapja a pénzügyileg teljesített számlán és egyéb bizonylaton szereplő költségek általános forgalmi adót és egyéb adót nem tartalmazó összege.
