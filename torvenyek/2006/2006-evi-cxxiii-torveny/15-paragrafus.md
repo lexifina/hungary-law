@@ -2,7 +2,7 @@
 
 15. § (1) A közvetítői eljárás azon a napon fejeződik be, amikor
 
-a) a megállapodás alapján a terhelt a bűncselekménnyel okozott kárt a sértettnek megtérítette vagy a bűncselekmény káros következményeit egyéb módon jóvátette,
+a) a megállapodás alapján, vagy a közvetítői eljárás megindítását megelőzően, de a megállapodásban jóváhagyott módon a terhelt a bűncselekménnyel okozott kárt a sértettnek megtérítette vagy a bűncselekmény káros következményeit egyéb módon jóvátette,
 
 b) a terhelt a megállapodás alapján a kár megtérítését részletekben történő fizetéssel vagy egyéb módon nyújtandó jóvátétellel az első részlet tekintetében teljesítette, ha a megállapodás értelmében a teljesítés a felfüggesztés határidején belül nem fejeződhet be,
 
