@@ -6,8 +6,10 @@
 
 a) a háztartási méretű kiserőmű építéséhez,
 
-b) A 0,5 MW-nál nem nagyobb névleges teljesítőképességű kiserőmű építéséhez, ha az nem csatlakozik villamosműhöz,
+b) a védett természeti terület és Natura 2000 terület kivételével az 50 kVA-nál nagyobb, de legfeljebb 0,5 MW névleges teljesítőképességű kiserőmű építéséhez, ha az nem csatlakozik villamosműhöz,
 
 c) a magánvezetékre, ha a teljes magánvezeték egy épületen belül helyezkedik el,
 
-d) a kisfeszültségű csatlakozó berendezésre, amennyiben az kizárólag olyan ingatlanon kerül megépítésre, amelynek tulajdonosa az építéshez hozzájárult.
+d) a kisfeszültségű csatlakozó berendezésre, amennyiben az kizárólag olyan ingatlanon kerül megépítésre, amelynek tulajdonosa az építéshez hozzájárult,
+
+e) a védett természeti terület és Natura 2000 terület kivételével a kisfeszültségű magánvezetékre, amennyiben az kizárólag olyan ingatlanon kerül megépítésre, amelynek tulajdonosa az építéshez hozzájárult.
