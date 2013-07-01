@@ -8,10 +8,10 @@ c) a rendkívüli méltánylást érdemlő körülményt annak hitelt érdemlő 
 
 d) a kiskorú gyermek láthatásának jogát az azt megalapozó bírósági döntéssel vagy okiratba foglalt megállapodással.
 
-(2)[^55] A regionális igazgatóság a Tv. 75. § (1) bekezdés a) vagy b) pontja alapján vezetett résznyilvántartásból ellenőrzi, hogy a volt házastárs legalább egy évig Magyarország területén tartózkodott az EGT-állampolgár vagy a magyar állampolgár családtagjaként.
+(2)[^57] A regionális igazgatóság a Tv. 75. § (1) bekezdés a) vagy b) pontja alapján vezetett résznyilvántartásból ellenőrzi, hogy a volt házastárs legalább egy évig Magyarország területén tartózkodott az EGT-állampolgár vagy a magyar állampolgár családtagjaként.
 
 (3) Ha a harmadik ország állampolgárságával rendelkező házastárs a Tv. 11. § (2) bekezdése alapján családtagként fennmaradó tartózkodási jogát a volt házastársa által a sérelmére elkövetett szándékos bűncselekményre alapítja, erre nézve a regionális igazgatóság a Tv. 82. § (1) bekezdés b) pontja alapján adatot igényel a bűntettesek nyilvántartásából.
 
 (4) Ha a harmadik ország állampolgárságával rendelkező házastárs a Tv. 11. § (2) bekezdése alapján családtagként fennmaradó tartózkodási jogát a házasságkötés előtt fennálló letelepedett jogállására alapítja, azt a regionális igazgatóság a letelepedett jogállással rendelkezők nyilvántartásában ellenőrzi.
 
-[^55]: A 29. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^57]: A 29. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

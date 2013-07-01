@@ -12,7 +12,7 @@ d) a Hivatal területi szerve (a továbbiakban: regionális igazgatóság);
 
 e) a vízumkiadásra feljogosított magyar konzuli tisztviselő (a továbbiakban: konzuli tisztviselő);
 
-f)[^2] a Rendőrség.
+f)[^2] az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: Rendőrség).
 
 [^1]: A 2. § a) pontját a 282/2011. (XII. 21.) Korm. rendelet 23. §-a hatályon kívül helyezte.
-[^2]: A 2. § f) pontja a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § f) pontja a 221/2013. (VI. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
