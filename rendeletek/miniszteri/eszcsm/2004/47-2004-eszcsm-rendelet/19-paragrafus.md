@@ -1,4 +1,4 @@
-19. § (1)[^16] Sürgősségi fogadóhelyet minden a sürgősségi ellátásban részt vevő aktív betegellátást végző egészségügyi szolgáltató működtet, amennyiben nem rendelkezik sürgősségi osztállyal.
+19. § (1)[^18] Sürgősségi fogadóhelyet minden a sürgősségi ellátásban részt vevő aktív betegellátást végző egészségügyi szolgáltató működtet, amennyiben nem rendelkezik sürgősségi osztállyal.
 
 (2) A sürgős ellátást igénylő beteg részére az egészségügyi szolgáltató a sürgősségi esetek fogadására szolgáló – a szolgáltató akkreditációs szintjének megfelelő – elkülönített fogadóhelyet alakít ki.
 
@@ -24,9 +24,9 @@ eb) intenzív osztályon történő elhelyezéséről, illetve a szolgáltató m
 
 ec) más, a beteg állapota által indokolt ellátási szinten működő egészségügyi szolgáltatóhoz történő továbbküldéséről.
 
-(6)[^17] Sürgősségi osztályt akkor kell létesíteni, ha az egészségügyi szolgáltatónál a várható sürgősségi betegforgalom a napi 40 főt átlagosan meghaladja.
+(6)[^19] Sürgősségi osztályt akkor kell létesíteni, ha az egészségügyi szolgáltatónál a várható sürgősségi betegforgalom a napi 40 főt átlagosan meghaladja.
 
-(7)[^18] Sürgősségi centrumot a legmagasabb ellátási szinten működő olyan egészségügyi szolgáltatónál kell létesíteni, amely a sürgősségi feladatok széles skáláját képes ellátni.
+(7)[^20] Sürgősségi centrumot a legmagasabb ellátási szinten működő olyan egészségügyi szolgáltatónál kell létesíteni, amely a sürgősségi feladatok széles skáláját képes ellátni.
 
 (8) A sürgősségi osztályon, illetve centrumban történik az (5) bekezdésben írtakon túlmenően a legfeljebb 24 óra alatti végleges ellátás, illetve a megfigyelést igénylő esetek ellátása és a betegnek a közvetlenül az osztályról, illetve centrumból történő elbocsátása.
 
@@ -38,11 +38,11 @@ b) toxikológia a progresszivitás harmadik szintjén,
 
 c) gyermek és felnőtt égéssebészet a progresszivitás második, harmadik szintjén,
 
-d)[^19] idegsebészet, stroke a progresszivitás második szintjén,
+d)[^21] idegsebészet, stroke a progresszivitás második szintjén,
 
 e) infektológia a progresszivitás harmadik szintjén.
 
-[^16]: A 19. § (1) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^17]: A 19. § (6) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^18]: A 19. § (7) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^19]: A 19. § (9) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 14. §-a szerint módosított szöveg.
+[^18]: A 19. § (1) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
+[^19]: A 19. § (6) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
+[^20]: A 19. § (7) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
+[^21]: A 19. § (9) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 14. §-a szerint módosított szöveg.
