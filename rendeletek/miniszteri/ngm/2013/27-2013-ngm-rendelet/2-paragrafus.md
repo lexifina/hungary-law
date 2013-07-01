@@ -1,3 +1,1 @@
-## 1. §[^2]
-
-[^2]: Az 1. § a 3. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+## 1. § A munkaügyi központok, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala munkaügyi kirendeltségének illetékességéről szóló 44/2012. (XII. 22.) NGM rendelet (a továbbiakban: NGM rendelet) 1. melléklete helyébe az 1. melléklet lép.
