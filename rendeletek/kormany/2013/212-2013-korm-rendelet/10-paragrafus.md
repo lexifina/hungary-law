@@ -1,0 +1,9 @@
+10. § (1) A kamattámogatást a támogatást nyújtó szerv köteles közvetlenül megfizetni az MFB Zrt. részére a (2) és a (3) bekezdésben foglaltak szerint.
+
+(2) A pénzügyi intézmény és az MFB Zrt. között fennálló, a Patika Hitelprogramra vonatkozó refinanszírozási jogviszony alapján az MFB Zrt. által megkötött, hatályos refinanszírozási kölcsönszerződések adatait az MFB Zrt. összesíti és a kamattámogatás részére történő kifizetése céljából azon hónap 15. napjáig, amelyben a kamatfizetés esedékessé válik, igénylést nyújt be a támogatást nyújtó szervhez. Az igénylés az egyes támogatói okiratok szerinti bontásban tartalmazza az MFB Zrt. részére kifizetendő kamattámogatási összeget.
+
+(3) A támogatást nyújtó szerv a (2) bekezdés szerinti igénylés alapján az igénylés támogatást nyújtó szerv általi átvételétől számított 15 naptári napon belül köteles a támogatói okiratban foglaltak alapján kifizetni a kamattámogatás teljes összegét az MFB Zrt. részére. Ha a támogatást nyújtó szerv az igénylés beérkezésétől számított 15 naptári napon belül nem teljesíti a fizetési kötelezettséget az MFB Zrt. felé, úgy a támogatást nyújtó szerv mint kötelezett késedelembe esik és a késedelembe esés időpontjától kezdve köteles a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot fizetni az MFB Zrt. részére.
+
+(4) Az MFB Zrt. és a pénzügyi intézmény közötti refinanszírozási szerződés megkötésének feltétele, hogy a kamattámogatás MFB Zrt. részére történő kifizetésének igénylésére és tényleges kifizetésére vonatkozó részletes eljárási szabályokat az MFB Zrt., a támogatást nyújtó szerv és az államháztartásért felelős miniszter által kijelölt szerv között létrejövő megállapodás szabályozza.
+
+(5) A kamattámogatásra való jogosultságnak a gyógyszerész érdekkörében bekövetkező okból történő elvesztése esetén a gyógyszerész és a pénzügyi intézmény kamattartozása azonnal esedékessé válik.
