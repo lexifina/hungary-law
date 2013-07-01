@@ -32,8 +32,22 @@ j) családtag: a külföldi
 
 ja) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
 
-jb) szülője, ha az elismerését kérő vagy a nemzetközi védelemben részesített személy kiskorú,
+jb) szülője, illetve vele érkező, a magyar jog szerint érte felelős külföldi személy, ha az elismerését kérő vagy a nemzetközi védelemben részesített személy kiskorú;
 
 jc) házastársa, amennyiben a családi kapcsolat már a Magyarországra érkezést megelőzően is fennállt;
 
-k) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú, vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik.
+k) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú, vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik;
+
+l) rendelkezésre állást biztosító intézkedés: olyan intézkedés, amelyben a menekültügyi hatóság
+
+la) az elismerését kérő a menekültügyi hatóság előtti rendszeres jelentkezési kötelezettségéről,
+
+lb) a kijelölt tartózkodási hely – magánszállás, befogadó állomás, közösségi szállás vagy meghatározott megye közigazgatási területe – elrendeléséről, vagy
+
+lc) a menekültügyi óvadék alkalmazásáról
+
+rendelkezik;
+
+m) dublini eljárás: az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i, 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i, 1560/2003/EK bizottsági rendeletet (a továbbiakban együtt: dublini rendeletek) alkalmazó állam (a továbbiakban: tagállam) meghatározására és a kérelmező átadás-átvételére irányuló eljárás.
+
+n) integrációs szerződés: olyan hatósági szerződés, amelyet a menekültügyi hatóság a nemzetközi védelemben részesített személlyel köt, annak társadalmi beilleszkedése elősegítése érdekében; a szerződés tartalmazza a hatósági szerződéssel érintett felek jogait és kötelezettségeit, a külföldi együttműködési kötelezettségét, valamint a szerződés megszegésének jogkövetkezményeit.

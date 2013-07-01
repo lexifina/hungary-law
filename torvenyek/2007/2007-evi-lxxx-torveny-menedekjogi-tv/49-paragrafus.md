@@ -1,6 +1,6 @@
-49. § (1) Az előzetes vizsgálati eljárás során a menekültügyi hatóság megvizsgálja, hogy fennállnak-e az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet (a továbbiakban együtt: dublini rendeletek) alkalmazásának feltételei.
+49. § (1) Az előzetes vizsgálati eljárás során a menekültügyi hatóság megvizsgálja, hogy fennállnak-e a dublini rendeletek alkalmazásának feltételei.
 
-(2) Ha a menekültügyi hatóság megállapítja, hogy a kérelem megvizsgálásáért felelős, a dublini rendeleteket alkalmazó állam (a továbbiakban: tagállam) meghatározására és a kérelmező átadás-átvételére irányuló eljárás (a továbbiakban: dublini eljárás) lefolytatásának van helye, a dublini eljárás befejezéséig az előzetes vizsgálati eljárást felfüggeszti.
+(2) Ha a menekültügyi hatóság megállapítja, hogy a dublini eljárás lefolytatásának van helye, a dublini eljárás befejezéséig az előzetes vizsgálati eljárást felfüggeszti.
 
 (3) A (2) bekezdés szerinti eljárást felfüggesztő végzéssel szemben jogorvoslatnak nincs helye.
 

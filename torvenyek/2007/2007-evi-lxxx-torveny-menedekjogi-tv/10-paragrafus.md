@@ -10,9 +10,11 @@ b) nem tölthet be olyan munkakört, illetve feladatkört, továbbá nem viselhe
 
 (3) A menekült jogosult
 
-a) külön jogszabályban meghatározott személyazonosító igazolványra és a Genfi Egyezményben foglalt kétnyelvű úti okmányra;
+a) a jogszabályban meghatározott személyazonosító igazolványra és – ha nemzetbiztonsági vagy közrendi érdek a kiállítását nem zárja ki – Genfi Egyezményben foglalt kétnyelvű úti okmányra,
 
-b) az e törvényben és külön jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra.
+b) az e törvényben és más jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra, valamint
+
+c) a törvényben meghatározott, társadalmi beilleszkedését elősegítő támogatásokra.
 
 (4) A menekült köteles
 

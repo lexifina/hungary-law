@@ -1,4 +1,4 @@
-62. § Az üldöztetés, illetve a súlyos sérelem hátterében állhat
+62. § Az elismerés feltételeinek vizsgálata során az üldöztetés, illetve a súlyos sérelem hátterében állhat
 
 a) az az állam, ahonnan a kérelmező menekülni kényszerült;
 

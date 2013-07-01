@@ -18,4 +18,4 @@
 
 (9) Az elismerés iránti közös kérelem a cselekvőképes vagy korlátozottan cselekvőképes családtagra akkor terjed ki, ha a közös kérelmezéshez előzetesen vagy legkésőbb személyes meghallgatásakor írásban hozzájárul. Az elismerés iránti közös kérelem a cselekvőképtelen családtagra a törvényes képviselő vagy az ügygondnok írásbeli hozzájárulásával terjed ki.
 
-(10) A menekültügyi hatóság az elismerés iránti kérelem benyújtásakor intézkedik az elismerését kérő arcképmásának, valamint ujjnyomatának rögzítése iránt.
+(10) A menekültügyi hatóság az elismerés iránti kérelem benyújtásakor, illetve a menekültügyi őrizet elrendelésekor intézkedik az elismerését kérő arcképmásának, valamint ujjnyomatának rögzítése iránt.

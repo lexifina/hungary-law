@@ -34,7 +34,15 @@ p) jövedelmi, vagyoni helyzetére vonatkozó olyan adatokat, amelyeket nyilatko
 
 q) a hivatalból indított eljárás tényét és időpontját;
 
-r) a menekültügyi eljárás során e törvény alapján foganatosított eljárási cselekmény tényét és időpontját.
+r) a menekültügyi eljárás során e törvény alapján foganatosított eljárási cselekmény tényét és időpontját;
+
+s) az elismerését kérővel szemben elrendelt menekültügyi őrizet jogalapját, határidejét vagy időtartamát, helyét, az elrendelő szerv megnevezését, a határozat számát;
+
+t) az elismerését kérő számára kijelölt tartózkodási helyet elrendelő határozat jogalapját, számát, az elrendelő szerv megnevezését, valamint a kijelölt tartózkodási hely megjelölését; valamint
+
+u) a menekültügyi óvadék összegét, valamint letételének, visszaadásának és államra szállásának időpontját.
+
+(1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c), f)–i), n), q) és r) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A menekültügyi hatóság
 
@@ -44,7 +52,7 @@ b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és 
 
 (3) Az ujjnyomat-adat rögzítésének és tárolásának célja
 
-a) a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i 2725/2000/EK tanácsi rendelet 4. cikkében foglaltak végrehajtása;
+a) az Európai Parlament és a Tanács .../2013/EU rendeletének hatékony alkalmazása érdekében az ujjnyomatok összehasonlítására és az Eurodac rendszerhez a tagállamok rendészeti szervei és az Europol részére biztosított, rendészeti célú hozzáférés biztosítására irányuló, ...-i, .../2013/EU európai parlamenti és tanácsi rendelet végrehajtása;
 
 b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.
 

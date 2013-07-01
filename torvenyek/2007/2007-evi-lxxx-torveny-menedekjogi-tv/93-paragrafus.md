@@ -30,4 +30,10 @@ i) állapítsa meg a hazatérés és a harmadik országban történő leteleped�
 
 a) határozza meg a menekültügy szervezeti rendszerének felépítését, feladatait és működési rendjét;
 
-b) jelölje ki a menekültügyi nyilvántartás, valamint a 83. § (3) bekezdésben meghatározott adatkör tekintetében az adatfeldolgozásra jogosult szervet.
+b) jelölje ki a menekültügyi nyilvántartás, valamint a 83. § (3) bekezdésben meghatározott adatkör tekintetében az adatfeldolgozásra jogosult szervet;
+
+c) határozza meg az Európai Parlament és a Tanács .../2013/EU rendeletének 33. cikke szerinti korai előrejelzésre, készültségre és válságkezelésre vonatkozó rendszer működtetéséhez szükséges adatközlésre vonatkozó részletes szabályokat és jelölje ki a felelős hatóságokat,
+
+d) határozza meg a menekültügyi óvadék összege mértékét, a menekültügyi óvadék letételével összefüggő eljárási szabályokat, valamint a menekültügyi óvadék kezelésével kapcsolatos rendelkezéseket, továbbá
+
+e) határozza meg a menekültügyi őrizet végrehajtására vonatkozó részletes szabályokat,

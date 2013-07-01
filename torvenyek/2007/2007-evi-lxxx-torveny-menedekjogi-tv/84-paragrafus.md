@@ -4,4 +4,6 @@ a) a befogadó állomáson elhelyezettek természetes személyazonosító adatai
 
 b) a befogadó állomás által nyújtott ellátás, illetve támogatás mértékéről és időtartamáról.
 
+(1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés b) pontjában foglalt adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A befogadó állomáson elhelyezett személy adatait a befogadó állomás végleges elhagyását követő egy évig kell kezelni.
