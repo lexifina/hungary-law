@@ -6,4 +6,6 @@ a) a tárgyévi felügyeleti alapdíj megfizetésekor (tárgyév január 31-ig),
 
 b) az éves jelentés esetében 2011. évre vonatkozóan a 2012. május 31-ig teljesítendő jelentésnél,
 
-c) a törzsadatjelentés esetében a 2012. április 30-i állapotnak megfelelő, az éves jelentéssel egyidejűleg megküldendő jelentésnél, valamint a 2012. évben bekövetkező változásoknál
+c)[^3]
+
+[^3]: Az 5. § (2) bekezdés c) pontját a 3/2013. (IV. 26.) PSZÁF rendelet 7. § e) pontja hatályon kívül helyezte.
