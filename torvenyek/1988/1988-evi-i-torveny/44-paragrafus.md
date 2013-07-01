@@ -8,7 +8,7 @@ b) a közúti forgalom szabályozására,
 
 c) a közúti közlekedési szolgáltatások és a közúti járművek üzemeltetésének szabályszerűségére, illetve a jármű üzemeltetésére vonatkozó előírások megtartására, ideértve az adott tevékenységhez előírt okmányok, engedélyek, jelzések, felszerelések ellenőrzését is,
 
-d) a járművek műszaki állapotára, közlekedésbiztonsági és környezetvédelmi megfelelőségére,
+d) a járművek műszaki állapotára, közlekedésbiztonsági és környezetvédelmi megfelelőségére, továbbá a felelősségbiztosítási kötelezettség teljesítésére,
 
 e) a járművek összeépítésére és átalakítására vonatkozó előírások megtartására, valamint a külön jogszabályban meghatározott alkatrészek minősége tanúsításának meglétére,
 

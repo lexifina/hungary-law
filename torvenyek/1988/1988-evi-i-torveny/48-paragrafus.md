@@ -42,7 +42,7 @@ a) a Kormány, hogy
 
 18. a 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja, valamint a 33/C. § (1) bekezdése szerinti hatósági ellenőrzés lefolytatására jogosult közútkezelő kijelölését,
 
-19. az útdíj alapjául szolgáló költségek felosztásának, valamint az útdíj számításának elveit, a díjköteles utak használatáért történő elektronikus díjfizetést lehetővé tévő rendszer bevezetésére, üzemeltetésére, az úthasználati díjak beszedésére, ellenőrzésére és behajtására vonatkozó részletes szabályokat, a 33/A. § (2) bekezdése szerinti útdíj fizetésére kötelezettek körét,
+19.
 
 20. a 21. §-ban meghatározott bírság kiszabására jogosult hatóság vagy hatóságok kijelölését,
 
@@ -152,7 +152,7 @@ b) a miniszter, hogy
 
 37. a közúti forgalom biztonságát veszélyeztető módon veszteglő gépjárművek elszállításának, tárolásának és értékesítésének szabályait,
 
-38. a Magyarországon található európai elektronikus útdíjszedési szolgáltatással érintett EETS-területre, az EETS útdíjszedő szervezetekre, az ott alkalmazott technológiákra, és az útdíj megállapításával összefüggő adatokra vonatkozó nyilvántartás vezetésére jogosult szervezetet és a nyilvántartás vezetésére vonatkozó részletszabályokat.
+38.
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
@@ -164,7 +164,7 @@ f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében é
 
 g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
-1. a külön jogszabály szerinti versenyeztetési eljárásban kiválasztott, a külön jogszabály szerinti díjköteles utak használatáért díjszedésre jogosult szervezetet,
+1.
 
 2. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
 

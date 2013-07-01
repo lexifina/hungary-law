@@ -1,4 +1,4 @@
-24. § (1) Az üzemben tartó felelős azért, hogy a forgalomban tartott járműve a műszaki, közlekedésbiztonsági és környezetvédelmi követelményeknek megfeleljen.
+24. § (1) Az üzemben tartó felelős azért, hogy a forgalomban tartott járműve a műszaki, közlekedésbiztonsági és környezetvédelmi követelményeknek megfeleljen, valamint a kötelező gépjármű-felelősségbiztosításról szóló törvényben meghatározott biztosítási kötelezettségének eleget tegyen.
 
 (2) A járművek megfelelőségét időszakos vizsgálaton a közlekedési hatóság ellenőrzi.
 

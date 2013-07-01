@@ -36,4 +36,6 @@ je) a járműnek a 25/B. § (4) bekezdés b) pontjában meghatározott iratban f
 
 jf) a járműnek a 25/B. § (4) bekezdés b) pontjában meghatározott iratban foglalt használati jogosultság időtartamát.
 
+(1a) A közigazgatási bírságnyilvántartás az (1) bekezdésben foglalt adatok tekintetében – az (1) bekezdés a) és b) pontjában, valamint a j) pont ja) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A közigazgatási bírságnyilvántartás részére az (1) bekezdésben meghatározott adatokat az eljáró hatóság, illetve a bíróság jogszabályban meghatározott formában és módon közli.
