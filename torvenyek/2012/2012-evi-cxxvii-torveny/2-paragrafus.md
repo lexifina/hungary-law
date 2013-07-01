@@ -35,3 +35,5 @@ gi) ötven anyanyúl és szaporulata;
 h) szolgáltató állatorvos: állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos.
 
 (2) E törvényben szereplő iratok kézbesítésére a hivatalos iratok kézbesítésére vonatkozó általános szabályokat kell alkalmazni.
+
+(3) A Kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
