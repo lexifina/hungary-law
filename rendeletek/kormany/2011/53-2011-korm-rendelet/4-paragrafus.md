@@ -2,19 +2,19 @@
 
 (2) E rendelet 1–3. §-a, 4. § (3) és (5)–(12) bekezdése 2011. május 1-jén lép hatályba.
 
-(3)[^4] Ahol e rendelet hatálybalépése előtt alkotott kormányrendelet, miniszterelnöki rendelet, miniszteri rendelet vagy kormányhatározat Központi Szolgáltatási Főigazgatóságot említ, azon – ha jogszabály eltérően nem rendelkezik – Közbeszerzési és Ellátási Főigazgatóságot kell érteni.
+(3)[^7] Ahol e rendelet hatálybalépése előtt alkotott kormányrendelet, miniszterelnöki rendelet, miniszteri rendelet vagy kormányhatározat Központi Szolgáltatási Főigazgatóságot említ, azon – ha jogszabály eltérően nem rendelkezik – Közbeszerzési és Ellátási Főigazgatóságot kell érteni.
 
-(4)[^5]
+(4)[^8]
 
-(5)–(8)[^6]
+(5)–(8)[^9]
 
-(9)[^7] A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet 2. § a) pont aa) alpontjában és b) pontjában meghatározott szerveknek 2011. május 1. napja előtt nyújtott informatikai és telekommunikációs szolgáltatások, az ezzel összefüggésben kötött, 2011. május 1-jén hatályban lévő polgári jogi szerződések, továbbá az átvett feladatokat a munkakörük szerint ellátó foglalkoztatottak továbbfoglalkoztatása tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. a Központi Szolgáltatási Főigazgatóság jogutódja.
+(9)[^10] A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet 2. § a) pont aa) alpontjában és b) pontjában meghatározott szerveknek 2011. május 1. napja előtt nyújtott informatikai és telekommunikációs szolgáltatások, az ezzel összefüggésben kötött, 2011. május 1-jén hatályban lévő polgári jogi szerződések, továbbá az átvett feladatokat a munkakörük szerint ellátó foglalkoztatottak továbbfoglalkoztatása tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. a Központi Szolgáltatási Főigazgatóság jogutódja.
 
-(10)[^8] A Közbeszerzési és Ellátási Főigazgatóság által a (9) bekezdés szerinti szolgáltatások nyújtásához használt állami tulajdonú eszközöket az MNV Zrt. – a Főigazgatóság vagyonkezelői jogának megszüntetését követően – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. használatába adja.
+(10)[^11] A Közbeszerzési és Ellátási Főigazgatóság által a (9) bekezdés szerinti szolgáltatások nyújtásához használt állami tulajdonú eszközöket az MNV Zrt. – a Főigazgatóság vagyonkezelői jogának megszüntetését követően – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. használatába adja.
 
 (11) A Központi Szolgáltatási Főigazgatóságról szóló 272/2003. (XII. 24.) Korm. rendelet 2. § h)–j) pontjában meghatározott feladatokkal összefüggésben kötött, 2011. május 1-jén hatályban lévő polgári jogi szerződések tekintetében, továbbá e feladatokat a munkakörük szerint ellátó foglalkoztatottak továbbfoglalkoztatása tekintetében a Központi Szolgáltatási Főigazgatóság jogutódja a Közgyűjteményi Ellátó Szervezet.
 
-(12)[^9]
+(12)[^12]
 
 Melléklet az 53/2011. (III. 31.) Korm. rendelethez
 
@@ -242,9 +242,9 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 17. Taxi szolgáltatás
 
-[^4]: A 4. § (3) bekezdése a 4. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
-[^5]: A 4. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. § (5)–(8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 4. § (9) bekezdése a 169/2013. (V. 29.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
-[^8]: A 4. § (10) bekezdése a 402/2012. (XII. 28.) Korm. rendelet 20. §-ával megállapított, a 169/2013. (V. 29.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
-[^9]: A 4. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § (3) bekezdése a 4. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
+[^8]: A 4. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. § (5)–(8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 4. § (9) bekezdése a 169/2013. (V. 29.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (10) bekezdése a 402/2012. (XII. 28.) Korm. rendelet 20. §-ával megállapított, a 169/2013. (V. 29.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § (12) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

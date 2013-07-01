@@ -1,4 +1,4 @@
-3. §[^3] (1) A Főigazgatóság:
+3. §[^4] (1) A Főigazgatóság:
 
 a) biztosítja a Miniszterelnökség, a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvény 1. §-ában felsorolt minisztériumok – kivéve a Honvédelmi Minisztériumot, továbbá a Külügyminisztérium irányítása alá tartozó külképviseleteket – működéséhez szükséges munkakörnyezetet, ennek keretében gondoskodik az említett szervezetek elhelyezését szolgáló ingatlanok és az intézményi működéshez szükséges gépjárművek üzemeltetéséről, továbbá a szervezetek munkavégzéshez szükséges tárgyi eszközökkel történő ellátásáról – ide nem értve az informatikai-telekommunikációs eszközöket –, illetve az intézményi működéshez szükséges kiszolgáló tevékenységek megszervezéséről,
 
@@ -18,8 +18,10 @@ h) ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat,
 
 (2) A Főigazgatóság az (1) bekezdés a) pontjában meghatározott szolgáltatásokat e rendelet mellékletében meghatározott körben és terjedelemben biztosítja.
 
-(3) A Főigazgatóság a (2) bekezdés szerinti ellátási szolgáltatások nyújtásának módjára és szintjére, valamint a szolgáltatások igénybevételének rendjére vonatkozóan az (1) bekezdés a) pontjában meghatározott szervekkel megállapodást köt. A megállapodás tartalmazza a Főigazgatóság által nyújtott szolgáltatások részletezését az igénybe vevővel egyeztetett egyedi igények figyelembevételével.
+(3)[^5] A Főigazgatóság a (2) bekezdés szerinti ellátási szolgáltatások nyújtásának módjára és szintjére, valamint a szolgáltatások igénybevételének rendjére vonatkozóan az (1) bekezdés a) pontjában meghatározott szervekkel megállapodást köt. A megállapodás tartalmazza a Főigazgatóság által nyújtott szolgáltatások részletezését és feltételeit, így különösen a megállapodás megkötésének időpontjában ellátandó intézményi létszámot, az adott intézmény elhelyezésére szolgáló ingatlanokat, az adott intézmény használatában és a Főigazgatóság üzemeltetésében lévő gépkocsikat, az adott intézmény ellátására a Főigazgatóság költségvetésben rendelkezésre álló költségvetési forrást. A megállapodásban rögzített szolgáltatásokat meghaladó igények akkor teljesíthetők, ha azok költségvetési fedezetét az ellátott intézmény a Főigazgatóság részére biztosítja.
 
-(4) A Főigazgatóság a (2) bekezdés szerinti szolgáltatások nyújtására a Miniszterelnökség fejezethez, valamint az egyes minisztériumi fejezetekhez tartozó – az (1) bekezdés a) pontjában nem szereplő – költségvetési szervekkel megállapodást köthet.
+(4)[^6] A Főigazgatóság a (2) bekezdés szerinti szolgáltatások nyújtására – szabad kapacitásrendelkezésre állása esetén az (1) bekezdés a) pontjában nem szereplőközponti költségvetési szervekkel, valamint a nemzeti vagyonról szóló 2011. évi. CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő más szervezetekkel, továbbá az Országgyűlés felügyelete alá tartozó más szervekkel megállapodást köthet. A megállapodásokban – összhangban a szakfeladatrendről és az államháztartási szakágazati rendről szóló 56/2011. (XII. 31.) NGM rendelet 3. § (1) bekezdésében foglaltakkal – rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
 
-[^3]: A 3. § a 4. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
+[^4]: A 3. § a 4. § (2) bekezdése alapján 2011. május 1-jén lép hatályba.
+[^5]: A 3. § (3) bekezdése a 238/2013. (VI. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdése a 238/2013. (VI. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
