@@ -52,6 +52,8 @@ ca) természetes személyek esetén a természetes személyazonosító adatokat,
 
 cb) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
+(2a) Az (1) bekezdés c), l), m), n), o), q) és r) pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
 (3) Élelmiszer-, illetve takarmány-vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
 
 (4) Az élelmiszerlánc-felügyeleti szerv a (2) bekezdés a) és c) pontja szerinti adatokat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-nyilvántartási rendszerből veszi át.

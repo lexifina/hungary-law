@@ -2,6 +2,8 @@
 
 38/A. § (1) Az élelmiszerlánc-felügyelet megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében az élelmiszerlánc-felügyeleti szerv létrehozza és működteti az élelmiszerlánc-felügyeleti információs rendszert (a továbbiakban: FELIR).
 
+(1a) A FELIR a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A FELIR tartalmazza
 
 a) az e törvény hatálya alá tartozó

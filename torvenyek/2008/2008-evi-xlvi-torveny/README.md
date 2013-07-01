@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2012-10-01 | 2012. évi XVIII. törvény | 2008-46-00-00.15 |
 | 2013-01-01 | 2012. évi XVIII. törvény | 2008-46-00-00.16 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 2008-46-00-00.17 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2008-46-00-00.18 |
