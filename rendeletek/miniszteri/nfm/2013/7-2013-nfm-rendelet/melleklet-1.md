@@ -2,7 +2,17 @@
 
 1. A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:
 
-1.1.[^4]
+1.1. a külön jogszabályban meghatározott szakrendszerek kivételével – a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával kötött egyedi megállapodás szerint – az okmányirodák és kormányablakok működéséhez szükséges informatikai rendszerek, beleértve a szükséges végfelhasználói hardver és szoftver infrastruktúra biztonságos és menedzselt üzemeltetését és karbantartását, ezen belül:
+
+1.1.1. a munkaállomások, nyomtatók és kiegészítő perifériák üzemeltetését és karbantartását;
+
+1.1.2. az IP telefonszolgáltatás üzemeltetését és karbantartását;
+
+1.1.3. a támogató rendszerek üzemeltetését és karbantartását;
+
+1.1.4. a LAN/WAN üzemeltetést és biztosítást, végpontépítést;
+
+1.1.5. az új okmányirodában vagy kormányablakban LAN kialakítását, a költöztetések infokommunikációs eszközöket érintő támogatását.
 
 1.2. az ÁROP 1.1.17. „Kormányzati informatikai szolgáltatási és e-közigazgatási sztenderdek” elnevezésű projekt keretei között megvalósuló Konszolidációs Adatvagyon Hasznosítás rendszer;
 
@@ -56,7 +66,7 @@
 
 1.27. a Svájci–Magyar egészségprogram „8. prioritás: alapellátás fejlesztése” elnevezésű projekt keretei között megvalósuló Praxis közösség tevékenységét támogató rendszer.
 
-1.28.[^5] a külön jogszabályban meghatározott elektronikus útdíjrendszer (a továbbiakban: UD rendszer), beleértve az UD rendszer üzemeltetéséhez kapcsolódó IT biztonsági rendszer üzemeltetését, az éles üzemet megelőző testre szabását és előzetes tesztelését, ezen belül:
+1.28.[^4] a külön jogszabályban meghatározott elektronikus útdíjrendszer (a továbbiakban: UD rendszer), beleértve az UD rendszer üzemeltetéséhez kapcsolódó IT biztonsági rendszer üzemeltetését, az éles üzemet megelőző testre szabását és előzetes tesztelését, ezen belül:
 
 1.28.1. a biztonságos üzemeltetéshez szükséges IT biztonsági szabályozás és politika kialakítását;
 
@@ -74,13 +84,13 @@
 
 1.28.8. a rendszerkapcsolatok és azok illesztései folyamatos biztosítását;
 
-1.29.[^6] a külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+1.29.[^5] a külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
 2. A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:
 
 2.1. Az 1.17. pont szerinti önkormányzati ASP központot kiszolgáló informatikai rendszer.
 
-2.2.[^7] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+2.2.[^6] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
 3. A központi szolgáltató a következő informatikai rendszerek fejlesztésében működik közre:
 
@@ -104,7 +114,6 @@
 
 3.10. Az 1.26. pont szerinti Mentés irányítási rendszer.
 
-[^4]: Az 1. melléklet 1.1. pontja az 5. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
-[^5]: Az 1. melléklet 1.28. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^6]: Az 1. melléklet 1.29. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^4]: Az 1. melléklet 1.28. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^5]: Az 1. melléklet 1.29. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^6]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
