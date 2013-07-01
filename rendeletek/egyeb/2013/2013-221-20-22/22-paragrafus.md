@@ -1,0 +1,1 @@
+## „(3) A Tv. 45. § (5) bekezdésében meghatározott kiutasítási akadály felmerülése esetén az idegenrendészeti hatóság a kísérő nélküli kiskorú elhelyezése érdekében haladéktalanul megkeresi a járási gyámhivatalt.”
