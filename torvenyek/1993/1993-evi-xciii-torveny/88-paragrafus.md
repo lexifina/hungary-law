@@ -4,7 +4,7 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a munkavédelmi hatóságot vagy hatóságokat, illetőleg az e törvény 86. §-ának (2) bekezdésében említett Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok, a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóságok tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
+a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes építési munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
 
 b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
@@ -18,7 +18,7 @@ a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvéde
 
 b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
 
-c) rendeletben határozza meg a Magyar Honvédségnél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságoknál a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 

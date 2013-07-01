@@ -12,6 +12,8 @@ d) a munkavédelmi bírság tényét és mértékét;
 
 e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság milyen döntést hozott.
 
+(2a) Az (1) bekezdésben meghatározott nyilvántartás – a (2) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A hatósági nyilvántartás adatait a munkavédelmi hatóság informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkavédelmi hatóság által történik a jogsértést megállapító határozat jogerősítésének napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatának jogerőre emelkedésének napján.
 
 (4) A munkavédelmi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat meghozatalától számított két év elteltével törli.

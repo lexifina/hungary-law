@@ -3,3 +3,5 @@
 (2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a munkavédelmi hatóság, illetve a kamara annak engedélyezi, aki büntetlen előéletű, nem áll a munkabiztonsági szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik az e törvény felhatalmazása alapján a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (3) A munkavédelmi hatóság, illetve a kamara a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4) A (3) bekezdésben meghatározott nyilvántartás a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott közhiteles adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.

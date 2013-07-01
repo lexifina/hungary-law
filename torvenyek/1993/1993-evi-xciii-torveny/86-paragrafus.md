@@ -8,6 +8,6 @@ c) a nemdohányzók védelmére vonatkozó előírások ellenőrzésére,
 
 d) a bányafelügyelet hatáskörébe tartozó hatósági ügyekre, kivéve a munkaegészségügyi feladatokat, továbbá
 
-e) a Magyar Honvédségre, a Katonai Nemzetbiztonsági Szolgálatra, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságokra, a rendvédelmi szervekre, az Országgyűlési Őrségre és az önkormányzati tűzoltóságra.
+e) a honvédségi szervezetekre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes építési munkahelyre, a Katonai Nemzetbiztonsági Szolgálatra, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervekre, az Országgyűlési Őrségre és az önkormányzati tűzoltóságra.
 
 (2) Az (1) bekezdés e) pontjában említett szervek tekintetében külön jogszabály rendelkezik a munkavédelmi hatósági tevékenység ellátásáról.
