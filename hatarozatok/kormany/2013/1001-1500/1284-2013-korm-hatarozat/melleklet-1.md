@@ -30,7 +30,7 @@
 
 ## a) az állami vagyon felügyeletéért felelős minisztert, hogy a PTA megszűnését és az NT Nonprofit Közhasznú Kft. 100%-os társasági részesedésének állami tulajdonba kerülését követően a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján intézkedjen az NT Nonprofit Közhasznú Kft. végelszámolással történő megszüntetése érdekében azzal, hogy az NT Nonprofit Közhasznú Kft. megszűnését követően a tartozások kiegyenlítését követően fennmaradó vagyona vagyonkezelési szerződés útján a NIIFI-hez kerüljön;
 
-## b) az informatikáért felelős minisztert, hogy gondoskodjon arról, hogy a megszűnt NT Nonprofit Közhasznú Kft. céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen a NIIFI által.
+## b)[^1] az informatikáért felelős minisztert, hogy gondoskodjon arról, hogy a NT Nonprofit Közhasznú Kft. céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen a NIIFI által.
 
 ## Felelős: az állami vagyonért felelős miniszter
 
@@ -76,7 +76,7 @@
 
 ## Határidő: a Korm. határozat hatályba lépését követően azonnal
 
-## 10. A Kormány felhívja a fejlesztéspolitikáért felelős minisztert, hogy intézkedjen arról, hogy a Társadalmi Megújulás Operatív Program (TÁMOP) 2.1.2. „Idegen nyelvi és informatikai kompetenciák fejlesztése” című, folyamatban lévő kiemelt projekt konzorciumi partneri feladatait, valamint az NT Nonprofit Közhasznú Kft. projektben foglalkoztatott munkatársainak folytatólagos foglalkoztatását kedvezményezettként a NIIFI lássa el az NT Nonprofit Közhasznú Kft. 4. pontjában foglalt megszűnésétől kezdve.
+## 10.[^2] A Kormány felhívja a fejlesztéspolitikáért felelős minisztert, hogy intézkedjen arról, hogy a Társadalmi Megújulás Operatív Program (TÁMOP) 2.1.2. „Idegen nyelvi és informatikai kompetenciák fejlesztése” című, folyamatban lévő kiemelt projekt konzorciumi partneri feladatait, valamint az NT Nonprofit Közhasznú Kft. projektben foglalkoztatott munkatársainak folytatólagos foglalkoztatását kedvezményezettként a NIIFI lássa el.
 
 ## Felelős: fejlesztéspolitikáért felelős miniszter
 
@@ -195,3 +195,6 @@ XVII. Nemzeti Fejlesztési Minisztérium
 | Magyar Államkincstár | 1 példány |  |  | egyéb : azonnal | 131 000 |  | 131 000 |  |  |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont b) alpontja az 1387/2013. (VI. 30.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 10. pont az 1387/2013. (VI. 30.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
