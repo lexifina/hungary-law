@@ -1,41 +1,23 @@
-## A 2. § szerinti földgázforrás ára és mennyisége 2013. második negyedévre, valamint a felek köre
+## A 2. § szerinti földgázforrás ára és mennyisége 2013. harmadik negyedévre, valamint a felek köre
 
-## 1. Az E.ON Földgáz Trade Zrt. mint volt közüzemi nagykereskedő által értékesítendő, nem földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
+## Az E.ON Földgáz Trade Zrt. mint volt közüzemi nagykereskedő által értékesítendő, nem földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
 
 |  | A | B | C | D |
 
-| 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Nem hazai termelésből beszerzett földgázforrás ára (USD/GJ) | Hazai termelésből beszerzett földgázforrás ára (Ft/MJ) |
+| 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Nem hazai termelésből beszerzett földgázforrás ára (USD/GJ) | Hazai termelésből beszerzett földgázforrás ára (forint/MJ) |
 
-| 2. | FŐGÁZ Zrt. | 3562 | 11,978 | – |
+| 2. | FŐGÁZ Zrt. | 1389 | 11,915 | – |
 
-| 3. | E.ON Energiaszolgáltató Kft. | 1018 | 11,978 | – |
+| 3. | E.ON Energiaszolgáltató Kft. | 812 | 11,915 | – |
 
-| 4. | E.ON Energiaszolgáltató Kft. | 1031 | – | 0,864 |
+| 4. | E.ON Energiaszolgáltató Kft. | 540 | – | 1,310 |
 
-| 5. | GDF SUEZ Energia Magyarország Zrt. | 1438 | 11,978 | – |
+| 5. | GDF SUEZ Energia Magyarország Zrt. | 404 | 11,915 | – |
 
-| 6. | GDF SUEZ Energia Magyarország Zrt. | 1020 | – | 0,581 |
+| 6. | GDF SUEZ Energia Magyarország Zrt. | 1020 | – | 0,974 |
 
 | 7. | TIGÁZ Zrt. | – | – | – |
 
-## 2. Az E.ON Földgáz Trade Zrt. mint volt közüzemi nagykereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége:
+3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^26]
 
-|  | A | B | C |
-
-| 1. | Szerződött egyetemes szolgáltató | Földgázforrás mennyisége (TJ) | Földgázforrás ára (Ft/MJ) |
-
-| 2. | Alpiq Csepeli Erőmű Kft. | – | – |
-
-| 3. | FŐGÁZ Zrt. | – | – |
-
-| 4. | E.ON Energiaszolgáltató Kft. | – | – |
-
-| 5. | GDF SUEZ Energia Magyarország Zrt. | – | – |
-
-| 6. | ISD POWER Kft. | – | – |
-
-| 7. | TIGÁZ Zrt. | – | – |
-
-3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^27]
-
-[^27]: A 3. melléklet a 13/2013. (IV. 3.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^26]: A 3. melléklet a 34/2013. (VI. 27.) NFM rendelet 1. § (3) bekezdésével megállapított szöveg.
