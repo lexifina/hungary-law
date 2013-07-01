@@ -36,11 +36,19 @@ q) a földtani közeg által okozott veszélyek és káros folyamatok elleni vé
 
 r) a földtani közeg hasznosítási lehetőségeinek számbavétele, értékelése és a hasznosítás földtani feltételeinek meghatározása.
 
-(2) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését a bányafelügyelet annak engedélyezi, aki megfelel a külön jogszabályban meghatározott feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
+(2) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését a bányafelügyelet annak a gazdálkodó szervezetnek, valamint e tevékenységet végző, irányító, felügyelő személynek engedélyezi, aki megfelel a jogszabályban meghatározott feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
+
+(2a) A gazdálkodó szervezetekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza az engedélyes megnevezését, székhelyét (telephelyét, fióktelepét), az engedély fajtáját és hatályát, a felelős személy nevét és lakcímét, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségét és a robbanóanyag kereskedelmi megnevezését.
+
+(2b) A tevékenységet végző, irányító, felügyelő személyekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza a tevékenység folytatására engedéllyel rendelkező természetes személyazonosító adatait, az engedély típusát, nyilvántartási számát, kiadójának nevét, érvényességi körét, hatályát, az engedélyező határozat számát.
+
+(2c) A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő polgári felhasználású robbanóanyag-forgalmazási tevékenység folytatására irányuló szándékát köteles a bányafelügyeletnek bejelenteni.
 
-(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenységek folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, gyakorlati idővel, és megfelel az ott meghatározott egyéb feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
+(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenység folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, gyakorlati idővel, és megfelel az ott meghatározott egyéb feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet, amely tartalmazza a tevékenység folytatására engedéllyel rendelkező személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát, engedélyének sorszámát, az engedélyezett tevékenység megnevezését, valamint a nyilvántartásból törlés időpontját és iktatási számát.
+
+(4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a tevékenység folytatására engedéllyel rendelkező személyek jegyzékét, amely tartalmazza az engedéllyel rendelkező személy nevét és címét, engedélyének számát, és az engedélyezett tevékenység betűkódját.
 
 (5) A bányafelügyelet – tudomására jutását követően – haladéktalanul köteles intézkedni a hatósági felügyelete alá tartozó tevékenységek gyakorlásával kapcsolatban a 2. §-ban meghatározott közérdek sérelmének megelőzésére, illetőleg megszüntetésére.
 

@@ -8,4 +8,6 @@
 
 (4) A bányafelügyelet az engedély kiadásával egyidejűleg nyilvántartásba veszi a bányaüzemi felelős műszaki vezetőt. A nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát. A nyilvántartásból kizárólag a bányaüzemi felelős műszaki vezetői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (5) A bányaüzemi felelős műszaki vezető felel a 27. § (2) bekezdésében foglalt rendelkezések, a műszaki előírások és bányabiztonsági szabályok bányaüzemben történő végrehajtásáért, valamint megtartásuk ellenőrzéséért, e körben a bányavállalkozó képviselőjének minősül. Felelőssége nem zárja ki a bányavállalkozó vagy beosztása, munkaköre alapján más személy felelősségét.

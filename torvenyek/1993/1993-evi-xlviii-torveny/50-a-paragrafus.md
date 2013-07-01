@@ -72,7 +72,7 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 23. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljáráshoz kötött építési tevékenységek körére és az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
 
-24. az ásványi nyersanyag és geotermikus energiavagyon hatósági nyilvántartására,
+24. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 
 25. a 26/A. § (5) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
 
