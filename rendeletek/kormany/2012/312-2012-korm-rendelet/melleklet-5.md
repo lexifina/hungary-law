@@ -1,20 +1,10 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^59]
 
 ## Szakhatósági dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
 I. A természet- és tájvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentumok
 
-1. Antenna létesítésének építési, vagy fennmaradási engedélyezési eljárása esetén
-
-1.1. Az antennát befogadó ingatlan és a szomszédos ingatlanok helyszínrajza 1:1000 léptékben.
-
-1.2. Az antenna szerkezeti vázrajza oldalnézetben.
-
-1.3. Az antennát övező táj 4 km-es sugarú körön belüli vázrajza, 1:5000 léptékű vázrajz, amelyen ábrázolni kell mindazon építményt és természeti képződményt (jellemző magassági adatokkal), amelyek befolyásolják az antenna láthatóságát.
-
-1.4. Az antenna esetleges álcázási módja.
-
-1.5. Az antenna és a vele távközlési kapcsolatban lévő szomszédos antennák elhelyezkedésének vázrajza értelemszerű léptékben.
+1.
 
 2. Épület építési, bontási és fennmaradási engedélyezési eljárása esetén
 
@@ -195,3 +185,5 @@ A tűzvédelmi dokumentáció tartalma
 2.1. Írásos munkarész, mely tartalmazza az épület azon építészeti és tűzvédelmi tulajdonságait, amelyek a tűztávolság vonatkozó jogszabály szerinti megállapításához szükségesek.
 
 2.2. Helyszínrajz, melyen feltüntetik az engedélyezéssel érintett építményt és a szomszédos építményeket, valamint a közöttük lévő távolságot.
+
+[^59]: Az 5. melléklet a 76. § szerint módosított szöveg.

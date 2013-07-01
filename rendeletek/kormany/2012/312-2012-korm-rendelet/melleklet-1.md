@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^59]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^58]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -136,4 +136,6 @@ b) az antennatartó szerkezet méretétől függetlenül a szerkezetre antenna f
 
 33. A legfeljebb 2,0 m mélységű és legfeljebb 20 m3 légterű pince építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
 
-[^59]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja szerint módosított szöveg.
+34. Közterületen, filmforgatáshoz kapcsolódó építmény létesítése.
+
+[^58]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a szerint módosított szöveg.

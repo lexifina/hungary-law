@@ -44,4 +44,4 @@ c) a kérelmezett eljárás típusa és az eljárás megindulásának időpontja
 
 d) a 8. mellékletben meghatározott tartalmú utcai homlokzati terv vagy látványterv.
 
-[^3]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^3]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
