@@ -16,7 +16,7 @@ e) állami vagy önkormányzati támogatások felhasználásának vizsgálata, v
 
 a) közigazgatási államtitkár, helyettes államtitkár,
 
-b) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+b) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a honvédek jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
 
 c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
 
