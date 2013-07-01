@@ -40,8 +40,8 @@ b) a törvény a pénztártitok megtartásának kötelezettsége alól felmenté
 
 (5)–(7)
 
-(8) A pénztártitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
+(8) A pénztártitok és az üzleti titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
 a) a pénztár a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti;
 
-b) a pénzügyi információs egységként működő hatóság – a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresése teljesítése céljából, ha a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot – írásban kér pénztártitoknak minősülő adatot a pénztártól.
+b) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér pénztártitoknak vagy üzleti titoknak minősülő adatot a pénztártól.
