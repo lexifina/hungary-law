@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-55-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 2002-55-00-00.13 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2002-55-00-00.14 |
 | 2013-04-02 | 2013. évi XX. törvény | 2002-55-00-00.15 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2002-55-00-00.16 |
