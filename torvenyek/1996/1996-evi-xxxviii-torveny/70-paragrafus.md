@@ -2,4 +2,4 @@
 
 (2) Ha a külföldi igazságügyi hatóság az eljárási jogsegélynek kifejezetten bíróság által történő teljesítését kéri, vagy ha az a magyar jog szerint a bíróság által teljesíthető, a legfőbb ügyész a jogsegélykérelmet megküldi a miniszternek, aki azt a teljesítés végett az illetékes bíróságnak továbbítja.
 
-(3) A megkeresés teljesítését követően, illetőleg ha a megkeresés teljesítése elháríthatatlan akadályba ütközik, vagy ha a megkeresés teljesítése során olyan körülmények merülnek fel, amelyek folytán e törvény rendelkezései szerint nincs helye az eljárási jogsegély iránti megkeresés teljesítésének, az iratokat az akadály megjelölésével az ügyész a legfőbb ügyésznek, a bíróság pedig a miniszternek küldi meg.
+(3) A megkeresés teljesítését követően, illetve ha a megkeresés teljesítése elháríthatatlan akadályba ütközik, vagy ha a megkeresés teljesítése során olyan körülmények merülnek fel, amelyek folytán e törvény rendelkezései szerint nincs helye az eljárási jogsegély iránti megkeresés teljesítésének, az iratokat az akadály megjelölésével az ügyész a legfőbb ügyésznek, a bíróság pedig a miniszternek küldi meg.

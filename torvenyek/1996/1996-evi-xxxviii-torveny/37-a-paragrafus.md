@@ -1,4 +1,4 @@
-37/A. § A büntetőeljárás átadása kötelező, ha a magyar büntető joghatóság alá tartozó ügyben (Btk. 3. és 4. §), a külföldi által
+37/A. § A büntetőeljárás átadása kötelező, ha a magyar büntető joghatóság alá tartozó ügyben a külföldi által
 
 a) belföldön, valamint
 

@@ -1,6 +1,6 @@
 12. § Nincs helye a kiadatásnak, ha
 
-a) az a bűncselekmény, illetőleg az a büntetés, amely miatt a kiadatást kérik, akár a megkereső államban, akár Magyarországon elévült,
+a) az a bűncselekmény, illetve az a büntetés, amely miatt a kiadatást kérik, akár a megkereső államban, akár Magyarországon elévült,
 
 b) a kiadni kért személy e bűncselekményre vagy büntetésre nézve kegyelemben részesült,
 

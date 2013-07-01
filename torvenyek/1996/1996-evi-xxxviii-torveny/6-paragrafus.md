@@ -1,6 +1,6 @@
 6. § (1) A miniszter a külföldi államtól viszonossági nyilatkozatot kérhet, és a külföldi állam kezdeményezésére viszonossági nyilatkozatot tehet.
 
-(2) Viszonosság hiányában a jogsegély iránti külföldi megkeresés teljesítéséről a miniszter, illetőleg a legfőbb ügyész a külpolitikáért felelős miniszterrel egyetértésben dönt.
+(2) Viszonosság hiányában a jogsegély iránti külföldi megkeresés teljesítéséről a miniszter, illetve a legfőbb ügyész a külpolitikáért felelős miniszterrel egyetértésben dönt.
 
 (3) A vagyonelkobzás vagy az elkobzás végrehajtásának átvétele, illetve átengedése nemzetközi szerződésben vállalt kötelezettség alapján történhet.
 

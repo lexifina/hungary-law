@@ -1,1 +1,1 @@
-39. § Ha a külföldi hatóság az eljárást átveszi, a legfőbb ügyész, illetőleg a miniszter erről szóló értesítése alapján az ügyész, illetőleg a bíróság az eljárást megszünteti.
+39. § Ha a külföldi hatóság az eljárást átveszi, a legfőbb ügyész, illetve a miniszter erről szóló értesítése alapján az ügyész, illetve a bíróság az eljárást megszünteti.

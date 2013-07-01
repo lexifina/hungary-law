@@ -2,4 +2,4 @@
 
 (2) Ha az igazságügyért felelős miniszter a büntetés végrehajtását átveszi, a büntetőeljárást meg kell szüntetni.
 
-(3) A felfüggesztésről, illetőleg a megszüntetésről az az ügyész vagy az a bíróság dönt, amely előtt a büntetőeljárás folyamatban van.
+(3) A felfüggesztésről, illetve a megszüntetésről az az ügyész vagy az a bíróság dönt, amely előtt a büntetőeljárás folyamatban van.
