@@ -30,7 +30,7 @@ d) gyógyszer, gyógyászati segédeszköz, valamint gyógyászati ellátás ár
 
 (5) Az egészségbiztosító a külön jogszabályban meghatározottak figyelembevételével gyógyászati ellátás támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdés b)–c) pontjában foglalt feltételeknek és külön jogszabályban foglaltak szerint gyógyászati ellátás rendelésére jogosult.
 
-(6) Az egészségbiztosító külön jogszabályban foglaltak szerint anyatej, gyógyszer, gyógyászati segédeszköz saját maga vagy a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti hozzátartozója részére (pro família) támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdésben foglalt feltételeknek.
+(6) Az egészségbiztosító külön jogszabályban foglaltak szerint anyatej, gyógyszer, gyógyászati segédeszköz saját maga vagy a Ptk. szerinti hozzátartozója részére (pro família) támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdésben foglalt feltételeknek.
 
 (7) Az az orvos, aki rendelkezik a (6) bekezdés szerinti szerződéssel, jogosult saját maga vagy a Ptk. szerinti hozzátartozója részére
 

@@ -1,0 +1,1 @@
+83/C. § E törvény 9/A. §-a a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
