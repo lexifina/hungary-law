@@ -308,6 +308,6 @@
 
 ## 12. Az értesítést kiállította.
 
-2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^258]
+2. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^265]
 
-[^258]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.
+[^265]: A 2. számú melléklet a 14/2009. (VI. 3.) IRM rendelet 44. § (1) bekezdésével megállapított, a 41/2011. (XII. 30.) KIM rendelet 30. § k) pontja szerint módosított szöveg.

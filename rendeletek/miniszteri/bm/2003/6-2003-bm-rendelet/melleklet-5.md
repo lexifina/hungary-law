@@ -686,6 +686,6 @@
 
 ## b) Kijavítás: a feleség házassági neve: Kovács-Nagy Ilona. 2013. január 3. X. Y. aktő.
 
-5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^262]
+5. számú melléklet a 6/2003. (III. 7.) BM rendelethez[^269]
 
-[^262]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.
+[^269]: Az 5. számú mellékletet a 2/2006. (I. 13.) BM rendelet 36. §-a iktatta be. E módosító rendelet 37. § (2) bekezdése alapján 2006. március 1-jén lépett hatályba.

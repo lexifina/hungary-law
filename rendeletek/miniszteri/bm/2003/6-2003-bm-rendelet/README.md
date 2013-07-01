@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-6-20-0A
 | 2012-12-05 | 2003-6-20-0A.14 | 50/2012. (XII. 4.) KIM rendelet |
 | 2013-01-01 | 2003-6-20-0A.15 | 54/2012. (XII. 28.) KIM rendelet |
 | 2013-03-01 | 2003-6-20-0A.16 | 54/2012. (XII. 28.) KIM rendelet |
+| 2013-07-01 | 2003-6-20-0A.17 | 9/2013. (VI. 29.) KIM rendelet |
