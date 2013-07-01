@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-31-20-2
 | --- | --- | --- |
 | 2013-06-19 | 2013-31-20-2W.1 | 31/2013. (VI. 18.) NFM rendelet |
 | 2013-06-20 | 2013-31-20-2W.2 | 2010: CXXX. törvény |
+| 2013-07-01 | 2013-31-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
