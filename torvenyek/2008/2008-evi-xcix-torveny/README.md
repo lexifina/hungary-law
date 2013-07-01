@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-99-00-00
 | 2012-12-28 | 2012. évi CCXXI. törvény | 2008-99-00-00.15 |
 | 2013-01-01 | 2012. évi CXCVI. törvény | 2008-99-00-00.16 |
 | 2013-01-02 | 2012. évi CCXXI. törvény | 2008-99-00-00.17 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2008-99-00-00.18 |
