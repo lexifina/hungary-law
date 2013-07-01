@@ -1,0 +1,1 @@
+## 3. § Ha ugyanazon terhelt ügyében más büntetőeljárás során, három hónapnál nem régebben készült környezettanulmány vagy pártfogó felügyelői vélemény áll rendelkezésre, az újonnan érkezett elrendelésnek a korábbi irat szükség szerinti aktualizálásával is eleget lehet tenni.

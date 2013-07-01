@@ -1,0 +1,1 @@
+## 5. § A pártfogó felügyelői vélemény vagy a környezettanulmány elkészítésére rendelkezésre álló idő – jogszabály eltérő rendelkezésének hiányában – az elrendelésnek az igazságügyi szolgálathoz való érkezésétől számított 30 nap, kivéve, ha az elrendelő az eljárás jellegére figyelemmel a teljesítésre külön határidőt szabott.
