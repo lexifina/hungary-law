@@ -1,1 +1,0 @@
-## Az engedély érvényessége
