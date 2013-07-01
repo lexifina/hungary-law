@@ -6,7 +6,7 @@ a) azt az igazságügyi szakértő kéri,
 
 b) a névjegyzékbe való bejegyzés feltételei – ide nem értve a 3. § (4) bekezdésében meghatározott feltételt – már a felvételkor sem álltak fenn, vagy utóbb megszűntek,
 
-c)
+c) a névjegyzékbe megalapozatlan szakvélemény miatt öt alkalommal kerül bejegyzés,
 
 d) a névjegyzékben szereplő adatok változását felhívásra, ismételten nem jelenti be,
 
@@ -30,7 +30,7 @@ i) meghalt,
 
 j) büntetett előéletű, a bíróság jogerős ítéletével eltiltotta az igazságügyi szakértői vagy a szakterületének megfelelő tevékenység folytatását kizáró foglalkozástól.
 
-(2) Ha a névjegyzékből történő törlésre az (1) bekezdés f) pontja vagy a h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított 5 éven belül, ha a törlésre az (1) bekezdés g) pontja vagy h) pontjának hb) és hc) alpontjai alapján kerül sor, a határozat jogerőre emelkedésétől számított 1 éven belül a névjegyzékbe nem vehető fel.
+(2) Ha a névjegyzékből történő törlésre az (1) bekezdés c) és f) pontja vagy a h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított 5 éven belül, ha a törlésre az (1) bekezdés g) pontja vagy h) pontjának hb) és hc) alpontjai alapján kerül sor, a határozat jogerőre emelkedésétől számított 1 éven belül a névjegyzékbe nem vehető fel.
 
 (3) Az igazságügyi szakértői névjegyzéket vezető hatóság az (1) bekezdés a) és b) pontja esetében az igazságügyi szakértőt az érintett szakterületről törli.
 

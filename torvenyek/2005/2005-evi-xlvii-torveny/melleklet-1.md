@@ -26,7 +26,7 @@ b) az engedélyezni kért szakterület(ek) megnevezését.
 
 a) a külön jogszabályban megjelölt képesítési feltétel meglétét tanúsító okirat hiteles másolatát (honosított vagy elismert okirat esetében ennek hiteles másolatát),
 
-b) a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény igazolására kiállított hatósági bizonyítványt,
+b) a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény igazolására kiállított hatósági erkölcsi bizonyítványt,
 
 c) a szakmai működés részletes leírását (a kérelmező – a pontos naptári időtartam szerinti meghatározással – mikor, hol, milyen munkakört töltött be, milyen időtartamú szakmai gyakorlattal és képesítéssel rendelkezik; a szakmai működés, a szaktudás megítéléséhez szükséges egyéb adatokat pl. a szakmai cikkek, értekezések megjelenésének időpontját és helyét stb.),
 

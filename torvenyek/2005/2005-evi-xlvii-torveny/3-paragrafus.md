@@ -24,6 +24,8 @@ f) a névjegyzékbe való felvételét követően tagja – törvény eltérő r
 
 (6) Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegének igazolására az igazságügyi szakértői névjegyzéket vezető hatóság szakhatósági állásfoglalást szerez be. A szakhatóság eljárására irányadó ügyintézési határidő harminc nap.
 
+(6a) Ha a kérelemhez benyújtott iratok és a rendelkezésre álló adatok alapján az igazságügyi szakértői névjegyzéket vezető hatóság azt állapítja meg, hogy a kérelmező a névjegyzékbevétel feltételeinek kétséget kizáróan megfelel, az igazságügyi szakértői névjegyzéket vezető hatóság a szakhatóság megkeresését mellőzheti, és a szakmai gyakorlati idő szakirányú jellegét maga állapíthatja meg.
+
 (7) A miniszter a rendeletében az igazságügyi szakértői tevékenység folytatásához kötelező szakmai gyakorlat időtartamára egyes szakterületeken öt évnél rövidebb határidőt állapíthat meg, ha
 
 a) a képesítés megszerzése már feltételezi az igazságügyi szakértői tevékenység végzéséhez szükséges szakmai gyakorlatot,

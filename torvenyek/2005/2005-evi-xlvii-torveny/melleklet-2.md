@@ -56,7 +56,7 @@ o) nyilvántartási szám;
 
 p) az igazgatási ügyiratok ügyszáma;
 
-q)
+q) megalapozatlan szakvélemény adásának ténye, az ügyre történő utalással;
 
 r) a késedelembe esés ténye, az ügyre történő utalással;
 
@@ -64,7 +64,7 @@ s) a szakértő ellen
 
 sa) közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
 
-sb) indult etikai eljárás során kiszabott etikai büntetés, vagy a felmentés valamint az eljárás megszüntetésének ténye.
+sb) indult etikai eljárás során kiszabott etikai büntetés,
 
 t) annak ténye, hogy a szakértő az elektronikus kézbesítést vállalja,
 

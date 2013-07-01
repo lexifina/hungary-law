@@ -11,3 +11,5 @@ d) alkalmazásában álló vagy oda szolgálatteljesítésre berendelt igazság�
 (2) A szakértői intézmény (1) bekezdésben foglalt adatai nyilvánosak és azokat az igazságügyi szakértői névjegyzéket vezető hatóság a világhálón is közzéteszi. Az (1) bekezdésben foglaltakat a szakértői intézmény szakértői tevékenységet végző szervezeti egységeire is megfelelően alkalmazni kell.
 
 (3) Az (1) bekezdésben meghatározott adatokban bekövetkezett változásokat – ideértve azon szakterület (szakterületek) változását, melyen a szakértői intézmény szakértői tevékenységet végez – a szakértői intézmény vezetője köteles 8 napon belül az igazságügyi szakértői névjegyzéket vezető hatóságnak bejelenteni.
+
+(4) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés d) pontjában foglalt adat tekintetében közhiteles hatósági nyilvántartásnak minősül.

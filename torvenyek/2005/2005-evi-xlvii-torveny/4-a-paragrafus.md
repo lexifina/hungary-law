@@ -1,6 +1,6 @@
 4/A. § (1) A kérelmező a névjegyzékbe való felvételt megelőzően
 
-a) hatósági bizonyítvánnyal igazolja, hogy a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény vele szemben nem áll fenn, vagy
+a) hatósági erkölcsi bizonyítvánnyal igazolja, hogy a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény vele szemben nem áll fenn, vagy
 
 b) kéri, hogy az arra vonatkozó adatokat, amely szerint a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény vele szemben nem áll fenn, a bűnügyi nyilvántartó szerv az igazságügyi szakértői névjegyzéket vezető hatóság részére – annak a névjegyzékbe való felvétel elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 

@@ -6,7 +6,7 @@ a) a kérelmező,
 
 b) az igazságügyi szakértő
 
-azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány tartalmaz.
 
 (3) A (2) bekezdésben meghatározott személyes adatokat az igazságügyi szakértői névjegyzéket vezető hatóság
 

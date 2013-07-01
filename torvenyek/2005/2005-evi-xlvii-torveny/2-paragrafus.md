@@ -8,9 +8,11 @@ c) e célra létesített igazságügyi szakértői intézmény,
 
 d) igazságügyi szakértői testület,
 
-e) külön jogszabályban feljogosított állami szerv, intézmény, szervezet (a továbbiakban együtt: szervezet)
+e) külön jogszabályban feljogosított állami szerv, intézmény, szervezet (a továbbiakban együtt: szervezet),
 
-[a továbbiakban az a)–e) pont e törvény alkalmazásában együtt: szakértő] végezhet.
+f) külön törvény szerinti Teljesítésigazolási Szakértői Szerv
+
+[a továbbiakban az a)–f) pont e törvény alkalmazásában együtt: szakértő] végezhet.
 
 (2) Az igazságügyi szakértő az igazságügyi szakértői tevékenységet önálló tevékenységként, egyéni vállalkozóként, társaság vagy vállalkozás tagjaként vagy alkalmazottjaként, illetve e célra létesített igazságügyi szakértői intézmény nevében végezheti.
 
