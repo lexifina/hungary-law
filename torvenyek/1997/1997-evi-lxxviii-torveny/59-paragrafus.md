@@ -26,7 +26,7 @@ az országos illetékességű – a személyes adatok kezelése tekintetében ad
 
 a) az ingatlan-nyilvántartási rendszerből az építésügyi és építésfelügyeleti hatóság számára az ingatlan-nyilvántartásra vonatkozó jogszabályok szerint, a tényállás tisztázásához szükséges, általuk megjelölt – eljárás alá vont ingatlanokhoz kapcsolódó – személyek 58. § (10) bekezdés a) és b) pontja szerinti személyes adatait,
 
-b) az országos elektronikus közhiteles személyiadat- és lakcímnyilvántartásból az ügyfél 58. § (10) bekezdés a) és b) pontja szerinti személyes adatait,
+b) az országos elektronikus közhiteles polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból az ügyfél 58. § (10) bekezdés a) és b) pontja szerinti személyes adatait,
 
 c) a szakmai kamarák nyilvántartásaiból a szakmagyakorló 58. § (10) bekezdése szerinti személyes adatait,
 

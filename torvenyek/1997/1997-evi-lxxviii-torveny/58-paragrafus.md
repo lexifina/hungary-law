@@ -115,3 +115,15 @@ e) a (9) bekezdés a) és d) pontja kivételével a szakképzettség megnevezés
 f) elektronikus ügyintézés, kapcsolattartás esetén az elektronikus levélcím, telefonszám,
 
 g) bírságok, szankciók, fegyelmi büntetések.
+
+(11) A Nyilvántartás a lánctartozások elkerülése érdekében, a tervezési vagy építőipari kivitelezési tevékenység végzésének felfüggesztése vagy a nyilvántartásból törlés céljából tartalmazza az építmény tervezésére vagy építőipari kivitelezési tevékenység végzésére irányuló szerződéses főkötelezettséghez kapcsolódó díjfizetési kötelezettség nem teljesítése tárgyában hozott marasztaló jogerős bírósági ítéletről kiállított értesítést, amely
+
+a) a marasztalt fél (10) bekezdés szerinti, a bíróság rendelkezésére álló adatait, továbbá
+
+b) az ítélet rendelkező részének és indokolásának a díjfizetési kötelezettség nem teljesítésével összefüggő részét
+
+tartalmazza.
+
+(12) A szakmai kamara, továbbá a Magyar Kereskedelmi és Iparkamara a (11) bekezdésben meghatározott értesítés vagy kormányrendeletben meghatározott nemfizetési jelzés alapján – az 52. § (3) bekezdésben foglalt alapelvek figyelembe vétele mellett – a (11) bekezdésben meghatározott jogkövetkezményt alkalmazhat, mely a kamarák nyilvántartásának közérdekből nyilvános részét képezik.
+
+(13) A bíróság a (11) bekezdésben foglalt értesítést az ítélet kihirdetésétől számított 15 napon belül elektronikus úton megküldi a Nyilvántartás számára.

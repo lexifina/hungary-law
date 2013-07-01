@@ -2,15 +2,9 @@
 
 39. § (1) Az építőipari kivitelezési tevékenység az építési beruházás megvalósítása keretében végzett építési tevékenységek összessége.
 
-(2) Építőipari kivitelezési tevékenységet az folytathat,
+(2)
 
-a) akinek az építőipari kivitelezési tevékenység a tevékenységi körében szerepel, továbbá a kivitelezési tevékenység végzéséhez alkalmas telephellyel rendelkezik,
-
-b) aki rendelkezik a megjelölt építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel vagy legalább egy – vele tagsági, alkalmazotti jogviszonyban álló – ilyen szakképesítésű szakmunkással, és
-
-c) aki – a csak a 39/A. § (2) bekezdésében meghatározott tevékenységet végzők kivételével – vele munkaviszonyban vagy tagsági jogviszonyban álló olyan személyt alkalmaz, aki az a) pont szerinti tevékenységi körbe tartozó, csak felelős műszaki vezető irányításával végezhető kivitelezési tevékenységek tekintetében a felelős műszaki vezetői feladatok ellátására jogosult.
-
-(3) Aki üzletszerű gazdasági tevékenységként építőipari kivitelezési tevékenységet (a továbbiakban: vállalkozó kivitelezői tevékenység) kíván folytatni, köteles az erre irányuló szándékát a névjegyzéket vezető szervnek bejelenteni.
+(3) Aki üzletszerű gazdasági tevékenységként építőipari kivitelezési tevékenységet (a továbbiakban: vállalkozó kivitelezői tevékenység) kíván folytatni, annak rendelkezni kell a kormányrendeletben meghatározott feltételekkel és köteles az erre irányuló szándékát a névjegyzéket vezető szervnek bejelenteni.
 
 (4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő vállalkozó kivitelezői tevékenység folytatására irányuló szándékát köteles a névjegyzéket vezető szervnek bejelenteni.
 

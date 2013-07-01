@@ -45,3 +45,5 @@ a) hozzájárulását nem adja meg, indokolni köteles,
 b) hozzájárulás kérdésében 60 napon belül nem határoz, a hozzájárulást megadottnak kell tekinteni.
 
 (12) Amennyiben a keretövezet változtatása szükséges, és a (10) bekezdésben foglalt eset nem áll fenn, a fővárosi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervet módosíthatja.
+
+(13) A bíróság az 58. § (13) bekezdése szerinti kötelezettségét 2013. december 31-éig papír alapon is teljesítheti. Az adatkezelő gondoskodik a papír alapú ítéletek Nyilvántartásba történő elektronikus feltöltéséről.
