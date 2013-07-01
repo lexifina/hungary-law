@@ -14,7 +14,7 @@ b) a tervezett forgalomra vonatkozó információkat.
 
 (3) Az elvi létesítési engedély iránti kérelemhez – a 4. § (2) bekezdés b)–c) pontjában foglaltakon túlmenően, valamint a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
 
-a)[^13] a kérelmező gazdasági társaság esetében a társasági szerződést, illetve alapító okiratot, alapszabályt és az üzleti tervet;
+a)[^14] a kérelmező gazdasági társaság esetében a társasági szerződést, illetve alapító okiratot, alapszabályt és az üzleti tervet;
 
 b) a futópályák tervezett kiépítéséről, pályairányokról, méretekről, a futópályák akadályviszonyairól szóló dokumentumokat;
 
@@ -40,7 +40,7 @@ jb) az építésügyi hatósági eljárásokról és az építésügyi hatóság
 
 jc) amennyiben a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendelet szerint tervtanácsi vélemény is szükséges, a tervtanácsi véleményt.
 
-(4)[^14] Ha a kérelmező a kérelemhez a (3) bekezdés a) pontja szerinti társasági szerződés, alapító okirat vagy alapszabály eredeti vagy közjegyző által hitelesített példányát nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet. A kérelmező gazdasági társaság cégkivonatát a légiközlekedési hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(4)[^15] Ha a kérelmező a kérelemhez a (3) bekezdés a) pontja szerinti társasági szerződés, alapító okirat vagy alapszabály eredeti vagy közjegyző által hitelesített példányát nem csatolja, a légiközlekedési hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet. A kérelmező gazdasági társaság cégkivonatát a légiközlekedési hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-[^13]: A 12. § (3) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^14]: A 12. § (4) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^14]: A 12. § (3) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^15]: A 12. § (4) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
