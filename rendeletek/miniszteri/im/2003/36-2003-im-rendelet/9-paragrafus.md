@@ -1,6 +1,6 @@
 ## Adaptációs szabadság
 
-9. § (1) Az adaptációs szabadságról [Bv. tvr. 84/A. § (3) bek.] a főigazgató főorvos az intézeti Adaptációs Bizottság szakmai álláspontját figyelembe véve dönt. Az Adaptációs Bizottság tagjai:
+9. § (1)[^10] Az adaptációs szabadságról [Bv. tvr. 84/A. § (4) bek.] a főigazgató főorvos az intézeti Adaptációs Bizottság szakmai álláspontját figyelembe véve dönt. Az Adaptációs Bizottság tagjai:
 
 a) a főigazgató főorvos,
 
@@ -21,3 +21,5 @@ g) az IMEI betegjogi képviselője.
 (3) Az adaptációs szabadságra vonatkozó engedély megadásánál figyelembe kell venni a beteg állapotát és szociális körülményeit, valamint azt a cselekményt, amelynek elkövetése miatt a kényszergyógykezelést elrendelték.
 
 (4) Az adaptációs szabadság a beteg gondozására alkalmas – és ezt írásban vállaló – személynél tölthető el. A beteg a gondozást vállaló személy kíséretében bocsátható adaptációs szabadságra.
+
+[^10]: A 9. § (1) bekezdés nyitó szövegrésze a 9/2013. (VI. 29.) KIM rendelet 68. § e) pontja szerint módosított szöveg.

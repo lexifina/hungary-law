@@ -6,4 +6,6 @@
 
 (3) Az adaptációs szabadság engedélyezéséről az IMEI értesíti az orvosi ellenőrzést végző szervet, a beteg adaptációs szabadsága ideje alatti tartózkodási helye szerint illetékes rendőrkapitányságot és települési önkormányzatot, továbbá pártfogó felügyelet alatt álló beteg esetén a pártfogó felügyelőt. Az adaptációs szabadságra bocsátott beteget igazolással, továbbá szükség esetén megfelelő ruházattal kell ellátni.
 
-(4) A pszichiátriai gondozó intézet az ellenőrzésen észleltekről tájékoztatja az IMEI-t, és a beteg állapotának romlása esetén visszaszállítása iránt az Országos Mentőszolgálat útján – szükség esetén a rendőrség igénybevételével – haladéktalanul intézkedik.
+(4)[^11] A pszichiátriai gondozó intézet az ellenőrzésen észleltekről tájékoztatja az IMEI-t, és a beteg állapotának romlása esetén visszaszállítása iránt az Országos Mentőszolgálat útján – szükség esetén az általános rendőrségi feladatok ellátására létrehozott szerv igénybevételével – haladéktalanul intézkedik.
+
+[^11]: A 10. § (4) bekezdése a 9/2013. (VI. 29.) KIM rendelet 68. § f) pontja szerint módosított szöveg.
