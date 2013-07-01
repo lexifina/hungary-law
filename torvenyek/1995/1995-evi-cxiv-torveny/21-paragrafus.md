@@ -1,6 +1,6 @@
 ## Az etikai bizottság
 
-21. § (1) A küldöttgyűlés tagjai közül megválasztja a 12 tagú etikai bizottságot: 11 tagot és az elnököt.
+21. § (1) A küldöttgyűlés a szakértők közül megválasztja a 12 tagú etikai bizottságot: 11 tagot és az elnököt.
 
 (2)
 

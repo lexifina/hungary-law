@@ -10,7 +10,7 @@ c) dönt a MISZK tisztségviselőinek díjazásáról,
 
 d) megalkotja a MISZK Alapszabályát,
 
-e) meghatározza a kamarai hozzájárulás mértékét és a területi kamarák anyagi hozzájárulását,
+e) meghatározza az éves kamarai hozzájárulás legalacsonyabb mértékét és a MISZK által nyújtott szolgáltatásokért fizetendő egyéb hozzájárulások mértékét, a kamarai hozzájárulás alóli részleges vagy teljes mentesülés szabályait és a területi kamarák anyagi hozzájárulását,
 
 f) elfogadja az elnökség jelentéseit, véleményt nyilvánít az előterjesztésekről, iránymutatásokról,
 
@@ -24,6 +24,6 @@ j) javaslatot tesz az igazságügyért felelős miniszter rendeletében szabály
 
 (3) A MISZK elnöksége szükség szerint, de évenként legalább egy alkalommal összehívja a küldöttgyűlést. A tagok legalább egyharmadának indítványára a küldöttgyűlést össze kell hívni. A területi kamarák elnökeit és a területi kamarák által választott tagokat az (5) bekezdésben foglaltakra való figyelmeztetés mellett kell meghívni.
 
-(4) A küldöttgyűlés határozatképes, ha azon a tagok fele jelen van. A küldöttgyűlés határozatainak érvényességéhez a megjelent tagok többségének szavazata, a MISZK Alapszabályának elfogadásához és módosításához a tagok kétharmadának szavazata kell. Szavazategyenlőség esetén az elnök szavazata dönt.
+(4) A küldöttgyűlés határozatképes, ha azon a tagok több, mint a fele jelen van. A küldöttgyűlés határozatainak érvényességéhez a megjelent tagok többségének szavazata, a MISZK Alapszabályának elfogadásához és módosításához a tagok kétharmadának szavazata kell. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 (5) A küldöttgyűlés határozatképtelensége esetén legalább nyolc nappal későbbre, azonos napirenddel összehívott küldöttgyűlés – a megjelentek számára tekintet nélkül – határozatképes.

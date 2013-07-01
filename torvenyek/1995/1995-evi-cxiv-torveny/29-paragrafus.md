@@ -22,7 +22,7 @@ h) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
 
 (3) Az etikai bizottság elnöke, az etikai tanács elnöke és tagja, a vizsgálóbiztos, a 37. § (3) bekezdése szerinti szakértő, valamint a jegyzőkönyvvezető haladéktalanul köteles bejelenteni, ha vele szemben kizáró ok áll fenn.
 
-(4) A panaszolt szakértő az (1) bekezdésben felsorolt körülményekre hivatkozással az etikai bizottság elnökével, az etikai tanács elnökével és tagjával, a vizsgálóbiztossal, a 37. § (3) bekezdése szerinti szakértővel, valamint a jegyzőkönyvvezetővel szemben kizárási indítványt terjeszthet elő az eljáró etikai tanácsnál.
+(4) A panaszolt szakértő és a területi kamara elnöke az (1) bekezdésben felsorolt körülményekre hivatkozással az etikai bizottság elnökével, az etikai tanács elnökével és tagjával, a vizsgálóbiztossal, a 37. § (3) bekezdése szerinti szakértővel, valamint a jegyzőkönyvvezetővel szemben kizárási indítványt terjeszthet elő az eljáró etikai tanácsnál.
 
 (5) A kizárási indítványról, ha az
 

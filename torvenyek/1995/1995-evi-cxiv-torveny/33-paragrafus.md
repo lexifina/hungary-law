@@ -4,6 +4,12 @@ a) az annak tárgyát képező cselekményt etikai eljárás során már jogerő
 
 b) az abban megjelölt személy nem igazságügyi szakértő,
 
-c) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kezdeményezésnek a felhívásban megjelölt hiányait nem pótolta.
+c) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kezdeményezésnek a felhívásban megjelölt hiányait nem pótolta,
+
+d) a kezdeményezés és mellékletei alapján az etikai vétség elkövetése egyértelműen kizárható,
+
+e) a cselekmény elévült,
+
+f) a kezdeményezésben foglaltak vizsgálatát jogszabály kizárja.
 
 (2) A határozatot kézbesíteni kell a kezdeményezőnek és a panaszolt szakértőnek; a panaszolt szakértő példányához a kezdeményezést és annak mellékleteit is csatolni kell.

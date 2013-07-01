@@ -10,7 +10,7 @@ b) a sérelmezett cselekmény a 26. § (1) bekezdése alapján nem minősül eti
 
 c) a kezdeményezés és mellékletei alapján az etikai vétség elkövetésének alapos gyanúja nem állapítható meg,
 
-d) a kezdeményezést a 33. § (1) bekezdés a) vagy b) pontja alapján el kellett volna utasítani.
+d) a kezdeményezést a 33. § (1) bekezdés alapján el kellett volna utasítani.
 
 (3) A cselekmény elévült, ha
 

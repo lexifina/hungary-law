@@ -1,6 +1,6 @@
 ## A kamarai tagság szünetelése
 
-3/B. § (1) A szakértő – kérelmére – a kamara engedélyével kamarai tagságát szüneteltetheti. A szakértő a szünetelés alatt igazságügyi szakértői tevékenységet nem végezhet, a kamarai tagságából és az igazságügyi szakértői tevékenységről szóló törvényből eredő jogai és kötelezettségei szünetelnek. A szünetelés időtartama legfeljebb két év, amely indokolt esetben egy évvel meghosszabbítható. A szünetelés engedélyezésének szabályairól a MISZK Alapszabálya rendelkezik.
+3/B. § (1) A szakértő – kérelmére – a kamara engedélyével kamarai tagságát szüneteltetheti. A szakértő a szünetelés alatt igazságügyi szakértői tevékenységet nem végezhet, a kamarai tagságából és az igazságügyi szakértői tevékenységről szóló törvényből eredő jogai és kötelezettségei szünetelnek. A szünetelés időtartama legfeljebb két év, amely indokolt esetben évente meghosszabbítható. A szünetelés engedélyezésének szabályairól a MISZK Alapszabálya rendelkezik.
 
 (2) A kérelem elbírálására a 9/A. §-t kell alkalmazni. A területi elnökség a jogerős határozatot megküldi az igazságügyi szakértői névjegyzéket vezető hatóságnak az igazságügyi szakértői névjegyzékbe történő bejegyzés céljából.
 

@@ -1,6 +1,6 @@
 ## A számvizsgáló bizottság
 
-22. § (1) A küldöttgyűlés a tagjai közül megválasztja a háromtagú számvizsgáló bizottságot: két tagot és az elnököt.
+22. § (1) A küldöttgyűlés a a szakértők közül megválasztja a háromtagú számvizsgáló bizottságot: két tagot és az elnököt.
 
 (2) A számvizsgáló bizottság a MISZK gazdasági és pénzügyi működését ellenőrzi. A számvizsgáló bizottság évente egyszer köteles a küldöttgyűlésnek beszámolni.
 

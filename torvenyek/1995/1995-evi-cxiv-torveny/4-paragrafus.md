@@ -16,4 +16,4 @@ a) megtartsa a kamara alapszabályában és egyéb szabályzatában foglaltakat,
 
 b) megfizesse a kamarai tagdíjat.
 
-c) részt vegyen a kamara által szervezett – és a MISZK Alapszabályában előírt – jogi és szakmai képzésekben.
+c) részt vegyen a kamara által szervezett – és a MISZK Alapszabályában előírt – szakmai képzésekben.

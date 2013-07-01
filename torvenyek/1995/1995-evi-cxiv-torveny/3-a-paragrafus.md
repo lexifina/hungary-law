@@ -1,4 +1,4 @@
-3/A. § (1) Ha a szakértő a kamarai tagdíjat nem fizeti meg, kamarai tagsága megszűnik. A kamarai tagdíjfizetés részletes szabályait a területi kamara alapszabálya állapítja meg.
+3/A. § (1) Ha a szakértő a kamarai tagdíjat nem fizeti meg, kamarai tagsága megszűnik. A kamarai tagdíjfizetés részletes szabályait – ide nem értve a kamarai tagdíj legalacsonyabb mértékét – a területi kamara alapszabálya állapítja meg.
 
 (2) A kamarai tagságnak az (1) bekezdésben meghatározott okból való megszűnését a területi elnökség állapítja meg. A kamarai tagság az erről szóló határozat jogerőre emelkedésének napján szűnik meg. A határozat elleni jogorvoslati kérelem előterjesztésére és elbírálására a 9/A. § rendelkezései – a (3) bekezdésben foglalt kivétellel – megfelelően irányadók.
 

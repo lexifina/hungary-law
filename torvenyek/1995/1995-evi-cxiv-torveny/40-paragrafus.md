@@ -10,4 +10,4 @@
 
 (6) Ha az etikai tárgyaláson megjelent panaszolt szakértőt az etikai tanács meghallgatja, ennek kezdetekor figyelmeztetni kell arra, hogy a nyilatkozattételt a meghallgatás során bármikor megtagadhatja. Figyelmeztetni kell arra is, hogy bármi, amit mond, illetve rendelkezésre bocsát, bizonyítékként felhasználható. A figyelmeztetés megtörténtét és az arra adott választ jegyzőkönyvbe kell foglalni. A figyelmeztetés elmaradása esetén a panaszolt szakértő nyilatkozata és a meghallgatása során általa csatolt bizonyíték – a panaszolt szakértő terhére – nem használható fel.
 
-(7) Az etikai tanács a tárgyalást további bizonyítás lefolytatása érdekében elhalaszthatja.
+(7) Az etikai tanács a tárgyalást további bizonyítás lefolytatása érdekében legfeljebb 60 nappal elhalaszthatja.

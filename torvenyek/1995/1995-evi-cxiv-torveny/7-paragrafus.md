@@ -20,7 +20,9 @@ g) javaslatot tesz az igazságügyért felelős miniszter rendeletében szabály
 
 h) dönt a területi kamara tisztségviselőinek díjazásáról,
 
-i) az a) pontban felsoroltakat visszahívhatja.
+i) az a) pontban felsoroltakat visszahívhatja,
+
+j) a MISZK által megállapított legalacsonyabb mértéknek megfelelően meghatározza a kamarai hozzájárulás mértékét.
 
 (3) A területi kamara elnöksége szükség szerint, de évente legalább egy alkalommal köteles a közgyűlést összehívni. A kamarai tagok legalább egyharmadának indítványára a közgyűlést össze kell hívni. A kamarai tagok összehívása az (5) bekezdésben foglaltakra való figyelmeztetés mellett történik.
 
