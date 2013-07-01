@@ -2,14 +2,6 @@
 
 XCII. törvény 22. §-a 2013. augusztus 1-jén lép hatályba.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2013. évi CXXIV. törvényhez
 
 „9. melléklet a 2012. évi CCIV. törvényhez
