@@ -1,3 +1,5 @@
+## 5. §[^13]
+
 ## Állami tulajdonú gazdálkodó szervezetekre vonatkozó speciális szabályok
 
 6. §[^14] (1) Központi költségvetési szerv az alaptevékenységébe tartozó közfeladat hatékonyabb ellátása céljából – az irányítását vagy felügyeletét ellátó szerv vezetője útján – kezdeményezheti az MNV Zrt.-nél a Vtv. 29. §-ának (1) bekezdése szerinti gazdálkodó szervezet alapítását, abban részesedés vagy további részesedés szerzését (a továbbiakban együtt: alapítás), továbbá a Vtv. 29. §-ának (3) bekezdése szerinti meghatalmazás kiadását.
@@ -14,5 +16,6 @@
 
 (7)[^15]
 
+[^13]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
 [^14]: A 6. § a 348/2010. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^15]: A 6. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
