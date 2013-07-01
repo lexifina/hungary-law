@@ -10,4 +10,7 @@ b) a munkaerő foglalkoztatása a foglalkoztató több – különböző kirende
 
 (3)[^19] Amennyiben a munkaerőigény bejelentéshez harmadik országbeli állampolgár foglalkoztatására irányuló kérelem kapcsolódik, úgy a munkaerőigény a munkavállalási engedély iránti kérelemmel egyidejűleg az (1) és (2) bekezdésben meghatározottak szerinti is benyújtható.
 
+(4)[^20] A munkaerőigény elektronikus úton is benyújtható.
+
 [^19]: A 17. § (3) bekezdését a 35/2012. (XII. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A 17. § (4) bekezdését a 35/2012. (XII. 14.) NGM rendelet 1. § (3) bekezdése iktatta be.

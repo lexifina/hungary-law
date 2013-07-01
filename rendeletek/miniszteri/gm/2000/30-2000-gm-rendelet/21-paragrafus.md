@@ -1,6 +1,6 @@
 ## Támogatás munkaerőpiaci szolgáltatást nyújtók részére
 
-21. § (1)[^23] A munkaügyi központ az Flt. 13/A. § (3) bekezdés alapján, pályázati eljárás eredményeként támogatást nyújthat olyan egyéni vállalkozó, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság részére, aki (amely) térítésmentesen
+21. § (1)[^24] A munkaügyi központ az Flt. 13/A. § (3) bekezdés alapján, pályázati eljárás eredményeként támogatást nyújthat olyan egyéni vállalkozó, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság részére, aki (amely) térítésmentesen
 
 a) munkaerőpiaci és foglalkozási információt nyújt elmaradott térségekben, vagy munkaerőpiacon hátrányos helyzetben lévő rétegek számára,
 
@@ -18,23 +18,23 @@ b) vállalja, hogy a pályázati felhívásban meghatározott dologi feltételek
 
 c) vállalja, hogy a szolgáltatás nyújtásával kapcsolatban tudomására jutott adatokat rendeltetésszerűen használja fel,
 
-d)[^24] a munkaügyi központ által támogatott szolgáltatást nyújtó személyek rendelkeznek a mellékletben meghatározott feltételekkel, továbbá
+d)[^25] a munkaügyi központ által támogatott szolgáltatást nyújtó személyek rendelkeznek a mellékletben meghatározott feltételekkel, továbbá
 
 e) a támogatott szolgáltatást igénybe vevő személyeket a munkaügyi központtal kötött megállapodásban rögzített azonosításra alkalmas módon nyilvántartja,
 
-f)[^25] a rendezett munkaügyi kapcsolatoknak az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott feltételeinek megfelel, és azok teljesülésének igazolására a külön jogszabályban meghatározott módon sor kerül.
+f)[^26] a rendezett munkaügyi kapcsolatoknak az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott feltételeinek megfelel, és azok teljesülésének igazolására a külön jogszabályban meghatározott módon sor kerül.
 
-f)[^26] a rendezett munkaügyi kapcsolatok – a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló 1/2012. (I. 26.) NGM rendeletben meghatározott – feltételeinek megfelel, és azok teljesülését az NGM rendeletben meghatározott módon igazolja.
+f)[^27] a rendezett munkaügyi kapcsolatok – a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló 1/2012. (I. 26.) NGM rendeletben meghatározott – feltételeinek megfelel, és azok teljesülését az NGM rendeletben meghatározott módon igazolja.
 
 (3) Az (1) bekezdés b) pontjában meghatározott támogatás természetes személy részére abban az esetben nyújtható, ha a támogatni kért szolgáltatási tevékenységre jogosító vállalkozói igazolvánnyal rendelkezik.
 
-(4)[^27]
+(4)[^28]
 
-(5)–(7)[^28]
+(5)–(7)[^29]
 
-[^23]: A 21. § (1) bekezdése a 48/2012. (XII. 28.) NGM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^24]: A 21. § (2) bekezdésének d) pontja a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^25]: A 21. § (2) bekezdésének f) pontját a 2/2006. (II. 2.) FMM rendelet 2. §-a iktatta be, szövege a 8/2006. (V. 22.) FMM rendelet 4. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 4. § (1) bekezdését.
-[^26]: A 21. § (2) bekezdés újabb f) pontját a 3/2012. (II. 10.) NGM rendelet 7. § (1) bekezdése iktatta be.
-[^27]: A 21. § (4) bekezdését a 31/2004. (XII. 21.) FMM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése.
-[^28]: A 21. § (5)–(7) bekezdését a 31/2004. (XII. 21.) FMM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 3/2007. (II. 9.) SZMM rendelet 25. § (1) bekezdésének b) pontja.
+[^24]: A 21. § (1) bekezdése a 48/2012. (XII. 28.) NGM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^25]: A 21. § (2) bekezdésének d) pontja a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 21. § (2) bekezdésének f) pontját a 2/2006. (II. 2.) FMM rendelet 2. §-a iktatta be, szövege a 8/2006. (V. 22.) FMM rendelet 4. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 4. § (1) bekezdését.
+[^27]: A 21. § (2) bekezdés újabb f) pontját a 3/2012. (II. 10.) NGM rendelet 7. § (1) bekezdése iktatta be.
+[^28]: A 21. § (4) bekezdését a 31/2004. (XII. 21.) FMM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése.
+[^29]: A 21. § (5)–(7) bekezdését a 31/2004. (XII. 21.) FMM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 3/2007. (II. 9.) SZMM rendelet 25. § (1) bekezdésének b) pontja.
