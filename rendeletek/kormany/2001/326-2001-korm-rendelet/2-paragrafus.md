@@ -2,13 +2,13 @@
 
 2. §[^3] (1) A családi gazdaság nyilvántartásba vételével összefüggő feladatokat a családi gazdaság központja szerint illetékes megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: Földművelésügyi Igazgatóság) látja el.
 
-(2) Az (1) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
+(2) A családi gazdaságok nyilvántartása a következő adatokat tartalmazza:
 
 a) a családi gazdálkodó természetes személyazonosító adatai, lakcíme, adóazonosító jele, adószáma, legmagasabb iskolai végzettsége és a végzettséget igazoló okirat száma,
 
-b) a gazdálkodó család tagjainak természetes személyazonosító adatai, lakcíme, illetve rokoni jogviszonya kódja,
+b) a gazdálkodó család tagjainak természetes személyazonosító adatai, lakcíme, adóazonosító jele, illetve rokoni jogviszonya kódja,
 
-c) a családi gazdaság részét képező termőföldekhez kapcsolódó következő adatoknak a termőföld fekvése szerinti településenként való megjelölése
+c) a családi gazdaság részét képező termőföldekhez kapcsolódó következő adatoknak a termőföld fekvése szerinti településenként való megjelölése:
 
 ca) a termőföld helyrajzi száma,
 
@@ -20,8 +20,10 @@ cd) a termőföld külterületi vagy belterületi fekvése,
 
 d) a családi gazdaság részét képező termőföldek összterülete,
 
-e) a kérelem kelte.
+e) az igénylés benyújtásának és a nyilvántartásba vételének időpontja, a nyilvántartásba vételre irányuló eljárás ügyszáma, és
 
-(3) Az (1) bekezdés szerinti nyilvántartásokból a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) országos adatbázist hoz létre.
+f) a módosítási kérelem benyújtásának és a nyilvántartásba vételének időpontja, a módosításra irányuló eljárás ügyszáma.
 
-[^3]: A 2. § a 189/2013. (VI. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+(3) A családi gazdaságok nyilvántartása – a (2) bekezdés a) és b) pontjában foglalt természetes személyazonosító és lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+[^3]: A 2. § a 203/2013. (VI. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

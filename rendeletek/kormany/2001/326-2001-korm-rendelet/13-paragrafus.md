@@ -1,3 +1,3 @@
-## 12. §[^39]
+## 12. §[^40]
 
-[^39]: A 12. §-t a 276/2002. (XII. 21.) Korm. rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
+[^40]: A 12. §-t a 276/2002. (XII. 21.) Korm. rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
