@@ -6,7 +6,7 @@
 
 53. § (1) A szakszolgálati engedély azt igazolja, hogy a légijármű vezetője, illetve a szakszemélyzet tagja az adott tevékenység ellátására szakmailag, továbbá egészségügyi és közbiztonsági szempontból alkalmas.
 
-(2) A szakszolgálati engedélyt a légiközlekedési hatóság, illetve a katonai légügyi hatóság adja ki.
+(2) A szakszolgálati engedélyt a légiközlekedési hatóság, illetve a katonai légügyi hatóság adja ki. A légiközlekedési hatóság, illetve a katonai légügyi hatóság a kiadott szakszolgálati engedélyekről nyilvántartást vezet, amely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A szakszolgálati engedély jogszabályban meghatározott feltételek hiánya esetén, vagy ha tulajdonosa a tevékenység folytatásának szabályait szándékosan vagy gondatlanul megszegi, meghatározott időre felfüggeszthető. Amennyiben a feltételek nem teljesülnek, az engedélyt véglegesen vissza kell vonni.
 
