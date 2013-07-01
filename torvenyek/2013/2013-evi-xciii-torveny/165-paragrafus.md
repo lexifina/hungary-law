@@ -1,3 +1,0 @@
-165. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 139. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha az elkövető a felhívásban megjelölt határnapon a szabálysértési elzárás büntetés végrehajtása érdekében a büntetés-végrehajtási intézetben nem jelent meg, és az elővezetése sem vezetett eredményre, a szabálysértési hatóság az elkövető kijelölt büntetés-végrehajtási intézetbe történő előállítása céljából körözését rendeli el. A körözést vissza kell vonni, ha elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.”

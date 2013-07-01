@@ -2,4 +2,4 @@
 
 a) 13. § (1) bekezdés b) pont bh) alpontja, valamint
 
-b) 20. § (5) bekezdése.
+b)

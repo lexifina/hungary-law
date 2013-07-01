@@ -1,5 +1,0 @@
-143. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 89. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy részére a szabálysértési eljárást megszüntető, a felfüggesztő, illetve a szabálysértési hatóságnak a 101. §-ban meghatározott eljárásban hozott, szabálysértési felelősséget megállapító határozatát hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
-
-(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt döntést a hirdetmény kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.”

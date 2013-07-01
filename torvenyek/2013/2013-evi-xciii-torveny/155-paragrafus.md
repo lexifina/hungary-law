@@ -1,3 +1,0 @@
-155. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 120. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha a bíróság a 118. § (1) bekezdése szerinti határozat ellen előterjesztett tárgyalás tartására irányuló kérelem alapján tart tárgyalást, a (4) bekezdésben írt módon állapítja meg a tényállást. Döntésének megfelelően a 118. § (1) bekezdése szerinti határozatát hatályban tartja, megváltoztatja, vagy hatályon kívül helyezi, és az eljárást megszünteti azzal, hogy a meghallgatás nélküli eljárásban hozott határozatban megállapított rendelkezéseknél hátrányosabb rendelkezést akkor hozhat, ha a tárgyaláson új bizonyíték merül fel.”
