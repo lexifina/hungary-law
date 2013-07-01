@@ -1,3 +1,5 @@
+## 12. §[^4]
+
 13. § (1) A T. 14. §-a szerinti szüneteltetési ok megállapítása érdekében
 
 a) a megállapító szerv a szolgálati járandóság megállapítására irányuló eljárás megindítását követő öt napon belül küldi meg a kérelmező, jogosult természetes személyazonosító adatait,
@@ -21,3 +23,5 @@ a) az (1) bekezdés a) pontja szerinti esetben a megállapító szerv a szolgál
 b) az (1) bekezdés b) pontja szerinti esetben a nyugdíjfolyósító szerv hivatalból rendeli el.
 
 (5) A T. 14. §-a szerinti szüneteltetési ok esetén a szolgálati járandóság újbóli folyósításáról a nyugdíjfolyósító szerv kérelemre határoz.
+
+[^4]: A 12. §-t a 425/2012. (XII. 29.) Korm. rendelet 27. § (3) bekezdése hatályon kívül helyezte.
