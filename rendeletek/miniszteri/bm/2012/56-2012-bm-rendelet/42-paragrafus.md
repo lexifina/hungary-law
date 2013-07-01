@@ -1,3 +1,5 @@
+## 40–41. §[^21]
+
 42. § (1) A hivatásos állomány tagját megillető alap- és pótszabadság mértékét évente, valamint a jogosultság változását követően meg kell állapítani, és azt az érintett tudomására kell hozni.
 
 (2) A szabadság nyilvántartását és a kiadás tervezését szervezeti egységenként a szolgálati feladatok függvényében és az érintettek igényének figyelembevételével az Országgyűlési Őrség parancsnokának intézkedése szerint kell végrehajtani.
@@ -17,3 +19,5 @@ b) a váltásos szolgálati időrendszerben dolgozók szolgálati napjait el kel
 c) a napok hányadosát három tizedes jegyig kell kiszámítani, a kerekítés szabályai szerint. A tört napokból kapott szabadságot szintén a kerekítés szabályai szerint kell meghatározni.
 
 (7) A Hszt. 94. § (1) bekezdés a) pontjában meghatározott egészségügyi szabadság a gyermek kórházi ápolását vagy betegségét megállapító orvosi igazolás alapján vehető igénybe.
+
+[^21]: A 40–41. §-t a 81/2012. (XII. 28.) BM rendelet 43. § (2) bekezdése hatályon kívül helyezte.

@@ -4,6 +4,6 @@
 
 (2) A Hszt. 126. § (5) és (6) bekezdésében meghatározott személyekkel szemben a fegyelmi jogkört az Országgyűlés elnöke gyakorolja.
 
-(3)[^33] Az Országgyűlési Őrség rendelkezési állományába tartozó, a Hszt. 42. § (2) bekezdése szerinti más szervhez vezényelt hivatásos állományú esetében a fegyelmi jogkört az Országgyűlési Őrség parancsnoka gyakorolja.
+(3)[^34] Az Országgyűlési Őrség rendelkezési állományába tartozó, a Hszt. 42. § (2) bekezdése szerinti más szervhez vezényelt hivatásos állományú esetében a fegyelmi jogkört az Országgyűlési Őrség parancsnoka gyakorolja.
 
-[^33]: A 74. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^34]: A 74. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés j) pontja szerint módosított szöveg.

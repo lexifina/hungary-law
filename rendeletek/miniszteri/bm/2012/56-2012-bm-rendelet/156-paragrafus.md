@@ -1,3 +1,3 @@
-## 155. §[^48]
+## 155. §[^53]
 
-[^48]: A 155. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 155. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

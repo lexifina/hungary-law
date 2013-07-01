@@ -22,7 +22,7 @@ h) a szolgálati viszony szünetelését,
 
 i) a névváltozás átvezetését,
 
-j)[^21] a fegyveres szervek közötti, továbbá a fegyveres szerv és a Magyar Honvédség között történő áthelyezést, a vezénylést, más szervhez vezénylést, a megbízást és a helyettesítést,
+j)[^22] a fegyveres szervek közötti, továbbá a fegyveres szerv és a Magyar Honvédség között történő áthelyezést, a vezénylést, más szervhez vezénylést, a megbízást és a helyettesítést,
 
 k) a rendelkezési állományba helyezést, annak megszüntetését,
 
@@ -44,4 +44,4 @@ n) mindazokat a döntéseket, amelyek az addig hatályos állományparancs vagy 
 
 (8) Más szerv által kiadott állományparancs vagy határozat intézkedésre megküldött példányait személyi iratként kell kezelni, és az iratkezelési szabályzatnak megfelelően az irattári terv előírásai szerint kell selejtezni.
 
-[^21]: Az 53. § (2) bekezdés j) pontja a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^22]: Az 53. § (2) bekezdés j) pontja a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés h) pontja szerint módosított szöveg.
