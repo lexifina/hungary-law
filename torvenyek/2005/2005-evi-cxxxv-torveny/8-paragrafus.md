@@ -18,22 +18,22 @@ g) a büntetőeljárás lefolytatásához szükséges magánindítványt nem tet
 
 h) a kárenyhítésre okot adó bűncselekmény miatt indult büntetőeljárásban, illetve a bűncselekménnyel összefüggésben
 
-1. hamis vád (Btk. 233–236. §),
+1. hamis vád (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 233–236. §, illetve Btk. 268–270. §),
 
-2. hatóság félrevezetése (Btk. 237. §),
+2. hatóság félrevezetése (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 237. §, illetve Btk. 271. §),
 
-3. hamis tanúzás (Btk. 238–241. §),
+3. hamis tanúzás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 238–241. §, illetve Btk. 272–275. §),
 
-4. hamis tanúzásra felhívás (Btk. 242. §),
+4. hamis tanúzásra felhívás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 242. §, illetve Btk. 276. §),
 
-5. hatósági eljárás akadályozása (Btk. 242/A. §),
+5. a 2013. június 30-ig hatályban volt hatósági eljárás akadályozása (1978. évi IV. törvény 242/A. §), illetve kényszerítés hatósági eljárásban (Btk. 278. §),
 
-6. mentőkörülmény elhallgatása (Btk. 243. §),
+6. mentő körülmény elhallgatása (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 243. §, illetve Btk. 281. §),
 
-7. bűnpártolás (Btk. 244. §),
+7. bűnpártolás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 244. §, illetve Btk. 282. §),
 
-8. zártörés (Btk. 249. §),
+8. zártörés (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 249. §, illetve Btk. 287. §),
 
-9. az elkövető, illetőleg az elkövető hozzátartozója sérelmére személy elleni erőszakos vagy közveszélyt okozó
+9. az elkövető, illetve az elkövető hozzátartozója sérelmére személy elleni erőszakos vagy közveszélyt okozó
 
 bűncselekményt követett el, és azt a bíróság jogerős határozatában megállapította.

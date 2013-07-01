@@ -5,3 +5,5 @@
 (2) E törvényt kell alkalmazni a hatálybalépését megelőzően elkövetett bűncselekménnyel összefüggésben, ha a kárenyhítés iránti kérelem benyújtását a Korm. rendelet – mint korábbi jogszabály – lehetővé tette.
 
 (3) E törvénynek a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 122. § (3) bekezdésével megállapított 15/A. §-át a hatálybalépését megelőzően jogerősen megállapított, de még meg nem fizetett tartozásokra is alkalmazni kell.
+
+(4) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 59. §-ával megállapított 11. § (5a) bekezdését e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.

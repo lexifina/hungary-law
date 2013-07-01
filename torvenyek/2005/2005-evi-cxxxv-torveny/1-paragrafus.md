@@ -26,7 +26,7 @@ a) bűncselekmény esetén
 
 aa) a feljelentés elutasítására, a nyomozás megszüntetésére, az eljárás megszüntetésére, illetve a vádlott felmentésére gyermekkor, kóros elmeállapot, kényszer vagy fenyegetés, tévedés, jogos védelem, végszükség vagy elöljáró parancsa,
 
-ab) a feljelentés elutasítására, illetve az eljárás megszüntetésére a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 32. §-ában meghatározott büntethetőséget megszüntető ok
+ab) a feljelentés elutasítására, illetve az eljárás megszüntetésére a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 25. §-ában – illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 32. §-ában – meghatározott büntethetőséget megszüntető ok,
 
 b) tulajdon elleni szabálysértés esetén a feljelentés elutasítására, illetve a szabálysértési eljárás megszüntetésére a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 83. § (1) bekezdés bb) és bc) alpontjában, c)–e) és h)–i) pontjában meghatározott ok
 
