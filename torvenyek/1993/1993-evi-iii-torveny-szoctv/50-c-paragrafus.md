@@ -16,7 +16,13 @@ e) a jogosult betegségének BNO kódját,
 
 f) a jogosult számára megállapított, a jogosultsági időtartam alatt még felhasználható és az 50/E. §-ban szabályozott időszakban még rendelkezésre álló gyógyszerkeretének összegét,
 
-g) a jogosult közgyógyellátási igazolványának számát.
+g) a jogosult közgyógyellátási igazolványának számát,
+
+h) a támogatás jogcímét (alanyi, normatív, méltányossági),
+
+i) a közgyógyellátásra jogosult által a közgyógyellátás terhére igénybe vett gyógyszert és gyógyászati segédeszközt.
+
+(3a) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés c)–i) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A nyilvántartás adatainak megismerésére – a (3) bekezdés e) pontja szerinti adat kivételével – az 51. §-ban meghatározott módon és célból a működési engedéllyel rendelkező gyógyszertár jogosult.
 
