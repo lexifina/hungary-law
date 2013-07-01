@@ -4,4 +4,6 @@
 
 (3) A 11–12. §-ok alapján végzett ellenőrzések eredményéről, valamint az (1) bekezdés szerinti bejelentési kötelezettséget teljesítő előállítók naprakész jegyzékéről az ellenőrző hatóságok félévente tájékoztatják a Minisztériumot.
 
-(4) A földrajzi árujelzővel ellátott hazai termékekről a Minisztérium nyilvántartást vezet, amelyet honlapján is közzétesz. A nyilvántartás tartalmazza az oltalom alatt álló földrajzi árujelzőt, a nemzeti oltalom keletkezésének napját, az oltalom alatt álló földrajzi árujelző összefoglaló lapja, illetve egységes dokumentuma vagy termékleírása közzétételének napját, valamint az elnevezés közösségi nyilvántartásba való bejegyzésének napját, továbbá utóbbiak esetében az Európai Unió Hivatalos Lapjára történő utalást.
+(4)[^14]
+
+[^14]: A 14. § (4) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 15. §-a hatályon kívül helyezte.
