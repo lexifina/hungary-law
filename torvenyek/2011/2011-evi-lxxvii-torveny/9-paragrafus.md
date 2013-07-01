@@ -3,3 +3,21 @@
 (2) Amennyiben a világörökségi területet érintő restaurálási, helyreállítási, fejlesztési és építési tevékenységre irányuló kérelem esetében szakértői vélemény beszerzése szükséges, az eljáró hatóság, szakhatóság – a saját költségei terhére – a kulturális szakértői tevékenység folytatásának feltételeiről és a kulturális szakértői nyilvántartás vezetéséről szóló miniszteri rendeletben meghatározott szakértőt rendel ki.
 
 (3) A szakértő a szakértői véleményében világörökségi komplex hatásvizsgálati dokumentációt köteles bemutatni.
+
+(4) A kulturális szakértői nyilvántartás az alábbi adatok tekintetében közhiteles hatósági nyilvántartásnak minősül:
+
+a) szakterület, részszakterület, szakág,
+
+b) nyilvántartásba vétel száma,
+
+c) nyilvántartásba vétel időpontja.
+
+(5) A (4) bekezdés szerinti nyilvántartás vonatkozásában bizonyítási eszközként
+
+a) a végzettséget, szakképzettséget igazoló okirat,
+
+b) az akkreditált szakértői tanfolyam jellegű szakmai továbbképzés elvégzéséről szóló tanúsítvány, valamint
+
+c) a szakmai gyakorlatot igazoló irat
+
+vehető figyelembe.
