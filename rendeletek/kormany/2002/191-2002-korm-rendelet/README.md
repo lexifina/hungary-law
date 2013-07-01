@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-191-20-
 | 2013-02-01 | 2002-191-20-22.19 | 18/2013. (I. 30.) Korm. rendelet |
 | 2013-03-21 | 2002-191-20-22.20 | 101/2004. (IV. 27.) Korm. rendelet |
 | 2013-04-05 | 2002-191-20-22.21 | 65/2012. (IV. 2.) Korm. rendelet |
+| 2013-07-01 | 2002-191-20-22.22 | 172/2013. (V. 30.) Korm. rendelet |
