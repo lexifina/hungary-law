@@ -20,6 +20,6 @@ A törvényben hivatkozott jogszabályok rövidítése
 
 9. Cstv.: a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény,
 
-10. Btk.: a Büntető Törvénykönyvről szóló 1978. évi IV. törvény,
+10. Btk.: a Büntető Törvénykönyvről szóló 2012. évi C. törvény,
 
 11. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény.
