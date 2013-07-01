@@ -34,4 +34,4 @@ h) a mozgásában korlátozott személy parkolási igazolvány jogszerű haszná
 
 (7) A képviselő-testület a szervezeti és működési szabályzatában, illetőleg – a szabályzattal együtt elfogadott – hivatali ügyrendben határozhatja meg a felügyelet szervezeti formáját, a felügyelet, illetőleg a felügyelő feladatait.
 
-(8) A felügyelő az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+(8)
