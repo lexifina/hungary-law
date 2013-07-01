@@ -26,6 +26,8 @@ g) vezeti az országos szakképzési névjegyzéket.
 
 (4) Az állami szakképzési és felnőttképzési szerv az általa őrzött törzslapokat ötven év után átadja az illetékes levéltárnak, és az átadott törzslapok központi nyilvántartási adatait törli.
 
+(4a) Az (1) bekezdés c) pontjában foglalt nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (5) A nyilvántartás alapján az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre az állami szakképzési és felnőttképzési szerv.
 
 (5a) Az iskolarendszeren kívüli szakképzésben szerzett szakképesítésről az (5) bekezdés alapján készült bizonyítványmásodlat kiállítására alkalmazni kell a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendelet bizonyítványmásodlatra vonatkozó rendelkezéseit.

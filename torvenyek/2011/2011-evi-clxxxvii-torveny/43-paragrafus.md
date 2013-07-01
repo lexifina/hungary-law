@@ -1,6 +1,6 @@
 ## 26. A tanulószerződés kötésére jogosult szervezet
 
-43. § (1) Tanulószerződést az a gyakorlati képzést szervező gazdálkodó szervezet vagy – a (2) bekezdésben meghatározott – egyéb olyan szerv, szervezet (a továbbiakban együtt: gyakorlati képzést szervező szervezet) köthet, amely a gyakorlati képzés folytatására jogosult szervezetek nyilvántartásában (a továbbiakban e fejezet alkalmazásában: nyilvántartás) szerepel.
+43. § (1) Tanulószerződést az a gyakorlati képzést szervező gazdálkodó szervezet vagy – a (2) bekezdésben meghatározott – egyéb olyan szerv, szervezet (a továbbiakban együtt: gyakorlati képzést szervező szervezet) köthet, amely a gyakorlati képzés folytatására jogosult szervezetek közhiteles hatósági nyilvántartásában (a továbbiakban e fejezet alkalmazásában: nyilvántartás) szerepel.
 
 (2) A tanulószerződés kötésére jogosult egyéb szerv, szervezet
 

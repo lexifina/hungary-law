@@ -10,6 +10,8 @@
 
 (5) A szakmai vizsgabizottsági tagságra vonatkozó megbízás – a képzést folytató intézmény által javasolt, a képzésben részt vett oktató vizsgabizottsági tag kivételével – az országos szakképzési névjegyzék részét képező vizsgabizottsági névjegyzéken (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személynek adható.
 
+(5a) A (4) és (5) bekezdés, valamint az 58. § (3) bekezdés szerinti országos szakképzési névjegyzék részét képező szakértői névjegyzék közhiteles hatósági nyilvántartásnak minősül.
+
 (6) A szakmai vizsgabizottság munkáját szakértők segíthetik.
 
 (7) A szakmai vizsgabizottság döntése, intézkedése vagy intézkedésének elmulasztása ellen a vizsgázó jogszabálysértésre hivatkozva – a közléstől, ennek hiányában a tudomásra jutástól számított öt napon belül – törvényességi kérelmet nyújthat be.

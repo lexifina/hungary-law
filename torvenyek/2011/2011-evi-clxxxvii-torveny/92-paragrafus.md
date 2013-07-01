@@ -90,7 +90,7 @@ Amennyiben a szakiskolai közismereti kerettanterv 2012. augusztus 15-ig nem ker
 
 (31)–(32)
 
-(33) A Kormány a 88. § (6) bekezdésében meghatározott rendeletet 2013. május 31-ig adja ki.
+(33)
 
 (34) Az e törvény hatálybalépése előtt a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXVI. törvény alapján megalakult regionális fejlesztési és képzési bizottságok 2012. szeptember 30-ig látják el feladataikat. Az e törvényben meghatározott megyei fejlesztési és képzési bizottságokat 2012. szeptember 30-ig kell megalakítani, amely bizottságok az e törvény szerinti feladataikat 2012. október 1-jétől látják el.
 
