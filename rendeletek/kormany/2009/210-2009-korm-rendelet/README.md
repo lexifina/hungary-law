@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-210-20-
 | 2013-01-19 | 2009-210-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-02-01 | 2009-210-20-22.14 | 402/2012. (XII. 28.) Korm. rendelet |
 | 2013-06-04 | 2009-210-20-22.15 | 176/2013. (VI. 3.) Korm. rendelet |
+| 2013-07-01 | 2009-210-20-22.16 | 8/2013. (I. 18.) Korm. rendelet |

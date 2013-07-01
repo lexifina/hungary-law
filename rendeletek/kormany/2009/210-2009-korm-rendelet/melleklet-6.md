@@ -28,7 +28,7 @@
 
 1.12. Közérzetjavító és étrend-kiegészítő termék (gyógynövény, biotermék, testépítő szer stb.);
 
-2. Dohányáru (dohánytermék, dohányzáshoz szükséges kellék);
+2.[^43] Dohányterméket kiegészítő termék;
 
 3. Textil (szövet, ruházati méteráru, háztartási textiltermék, lakástextília, ágynemű, asztalterítő, törölköző, kötőfonal, hímzéshez, valamint takaró és szőnyeg készítéséhez szükséges alapanyag, rövidáru, tű, varrócérna, gomb stb.);
 
@@ -143,3 +143,5 @@
 58. Zálogház által, a tevékenysége keretén belül felvett és ki nem váltott zálogtárgy;
 
 59. Egyéb (jelölje meg).
+
+[^43]: A 6. melléklet 2. pontja a 8/2013. (I. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
