@@ -1,20 +1,12 @@
-| Sorszám | A járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalma („ittas vezetés”) | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
+| Sorszám | a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalma („ittas vezetés”) | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
-| 1. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke 0,50‰ véralkohol-koncentrációt vagy a kilélegzett levegőben a 0,30 mg/l-t nem haladja meg, feltéve, ha az nem minősül bűncselekménynek | 4. § (1) bekezdés c) pont | 100 000 | járművezető |
+| 1. | gépi meghajtású járművet vezető szervezetében 0,30 gramm/liter véralkohol-, illetve 0,15 milligramm/liter levegőalkohol-koncentrációt meg nem haladó értéket eredményező szeszes ital fogyasztásából származó alkohol van | 4. § (1) bekezdés c) pont | 30 000 | járművezető |
 
-| 2. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke 0,50‰ véralkohol-koncentrációnál magasabb, de 0,80‰ véralkohol-koncentrációt nem haladja meg vagy a kilélegzett levegőben 0,30 mg/l-nél magasabb, de a 0,50 mg/l-t nem haladja meg, feltéve, ha azok nem minősülnek bűncselekménynek | 4. § (1) bekezdés c) pont | 150 000 |
+| 2. | gépi meghajtású járművet vezető szervezetében 0,30 gramm/liter véralkohol-, illetve 0,15 milligramm/liter levegőalkohol-koncentrációnál magasabb értéket eredményező szeszes ital fogyasztásából származó alkohol van, amennyiben az nem minősül bűncselekménynek | 4. § (1) bekezdés c) pont | 100 000 |  |
 
-| 3. | gépi meghajtású járművet vezetőnél a szeszes ital fogyasztásából származó alkohol mértéke a 0,80‰ véralkohol-koncentrációt vagy a kilélegzett levegőben a 0,50 mg/l-t meghaladja, feltéve, ha az nem minősül bűncselekménynek | 4. § (1) bekezdés c) pont | 200 000 |
+| 3. | nem gépi meghajtású járművet vezető vagy hajtó szervezetében 0,50 gramm/liter véralkohol-, illetve 0,25 milligramm/liter levegőalkohol-koncentrációnál magasabb értéket eredményező szeszes ital fogyasztásából származó alkohol van, amennyiben az nem minősül bűncselekménynek és a járművel a) nem főútvonalon közlekednek, b) főútvonalon közlekednek | 4. § (1) bekezdés c) pont | 30 000 60 000 | járművezető, hajtó |
 
-| 4. | nem gépi meghajtású járművet vezetőnél vagy hajtójánál a szeszes ital fogyasztásából származó alkohol mértéke 0,50‰ véralkohol-koncentrációnál magasabb, de 0,80‰ véralkohol-koncentrációt nem haladja meg vagy a kilélegzett levegőben 0,30 mg/l-nél magasabb, de a 0,50 mg/l-t nem haladja meg, ha a járművel | 4. § (1) bekezdés c) pont |  | járművezető, hajtó |
-
-| a) nem főúton közlekednek, | 10 000 |
-
-| b) főúton közlekednek. | 30 000 |
-
-| 5. | nem gépi meghajtású járművet vezetőnél vagy hajtójánál a szeszes ital fogyasztásából származó alkohol mértéke 0,80‰ véralkohol-koncentrációt vagy a kilégzett levegőben 0,50 mg/l-t meghaladja | 4. § (1) bekezdés c) pont | 60 000 | járművezető, hajtó |
-
-## 11/E . melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^37]
+## 11/E . melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^38]
 
 | Sorszám | Az autópálya leálló sávjának igénybevételére | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
 
@@ -22,7 +14,7 @@
 
 | 2. |  |  |  |  |
 
-11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^38]
+11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^39]
 
-[^37]: A 11/E. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege e módosító rendelet 10. § (4) bekezdése szerint módosított szöveg.
-[^38]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be.
+[^38]: A 11/E. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege e módosító rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^39]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be.
