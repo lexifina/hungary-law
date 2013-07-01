@@ -8,6 +8,22 @@
 
 (4) A pedagógusok tevékenységét szakértők, szaktanácsadók segítik. A szaktanácsadó feladata a pedagógusok munkájának szakirányú (tantárgyi vagy sajátos pedagógiai területen igényelt) segítése, véleményezése, konzultációk, továbbképzések, szakmai fórumok szervezése. A szaktanácsadó központi szakmai irányítás mellett látja el feladatait. Szaktanácsadói megbízást kizárólag az kaphat, aki pedagógus-munkakör betöltéséhez szükséges felsőfokú iskolai végzettséggel és szakképzettséggel, pedagógus-szakvizsgával, valamint a nevelő-oktató munkában eltöltött legalább tízéves szakmai gyakorlattal rendelkezik. A szaktanácsadó pedagógiai-szakmai szolgáltatást nyújtó intézmény alkalmazásában áll vagy egyéb köznevelési intézmény alkalmazottja vagy onnan öt évnél nem régebben ment nyugdíjba.
 
+(4a) Az Oktatáskutató és Fejlesztő Intézet a szaktanácsadókról névjegyzéket vezet. Az Oktatáskutató és Fejlesztő Intézet döntése elleni fellebbezést az oktatásért felelős miniszter bírálja el.
+
+(4b) A szaktanácsadói névjegyzék tartalmazza a szaktanácsadó
+
+a) természetes személyazonosító és lakcímadatát,
+
+b) végzettségét és szakképzettségét,
+
+c) a szakterületének jogszabályban meghatározott megnevezését,
+
+d) nyilvántartásba-vételi számát.
+
+(4c) A (4a) bekezdés szerinti névjegyzék a (4b) bekezdés c)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(4d) A szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során az 82. § (9)–(12) bekezdését kell alkalmazni.
+
 (5)
 
 (6) A köznevelési intézményben végzett munka jellegén, természetén nem változtat az a körülmény, hogy a köznevelési intézménynek ki a fenntartója. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az állami intézményfenntartó központ vezetője gyakorolja. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az adott köznevelési intézményben alkalmazottak felett a helyi munkaszervezéssel összefüggő, az állami intézményfenntartó központ szervezeti és működési szabályzatában meghatározott egyes átruházott munkáltatói jogokat gyakorol.

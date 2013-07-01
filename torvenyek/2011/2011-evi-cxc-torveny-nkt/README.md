@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2013-01-01 | 2012. évi CXXIV. törvény | 2011-190-00-00.8 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2011-190-00-00.9 |
 | 2013-05-10 | 2013. évi LV. törvény | 2011-190-00-00.10 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2011-190-00-00.11 |

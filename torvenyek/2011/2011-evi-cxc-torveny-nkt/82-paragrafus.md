@@ -10,15 +10,43 @@ b) rendelkezik a hivatal engedélyével.
 
 (3) Az (1) bekezdés b) pontjában foglalt esetben a köznevelési szakértői tevékenység folytatását a hivatal annak engedélyezi, aki szakirányú felsőfokú végzettséggel és szakterületén szerzett tízéves gyakorlattal rendelkezik, és szakterületének elismert képviselője. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét.
 
-(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet, amely tartalmazza a köznevelési szakértői tevékenység folytatására jogosult személy természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet. A nyilvántartásba vétel határozatlan időre szól. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat. Az Országos szakértői névjegyzék tartalmazza a köznevelési szakértői tevékenység folytatására jogosult szakértő
+
+a) természetes személyazonosító és lakcímadatát,
+
+b) munkahelyét,
+
+c) jogszabályban meghatározott szakterületét, szakirányát,
+
+d) nyilvántartásba-vételi számát,
+
+e) szakértői igazolásának számát.
+
+(4a) A (4) bekezdés szerinti névjegyzék a (4) bekezdés c)–e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (5) Az (1) bekezdés szerinti tevékenység folytatását külön jogszabály továbbképzéshez vagy szakvizsga letételéhez kötheti.
 
-(6) A hivatal által vezetett Országos érettségi vizsgaelnöki névjegyzék tartalmazza azok nevét, szakterületét, lakcímét és munkahelyét, akik érettségi vizsga vizsgaelnöki megbízást kaphatnak. Az Országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
+(6) Az Országos érettségi vizsgaelnöki névjegyzék tartalmazza az érettségi vizsgaelnöki megbízás ellátására jogosult
+
+a) természetes személyazonosító és lakcímadatát,
+
+b) munkahelyét,
+
+c) jogszabályban meghatározott szakterületét,
+
+d) nyilvántartásba-vételi számát,
+
+e) vizsgaelnöki igazolásának számát,
+
+f) vizsgaelnöki igazolásának hatályát.
+
+(6a) A (6) bekezdés szerinti névjegyzék a (6) bekezdés c)–f) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(6b) Az Országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
 
 (7) A (6) bekezdés szerinti névjegyzékbe nyilvános pályázat útján lehet felvételt nyerni. A pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni. A (6) bekezdés szerinti névjegyzékbe való felvétel öt évre szól. Szakképzés tekintetében a vizsgaelnöki névjegyzék elkészítéséről és kiadásáról a szakképzésről szóló törvény rendelkezik.
 
-(8) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében köznevelési szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben, oktatásban szerezte.
+(8) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében köznevelési szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6b) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben, oktatásban szerezte.
 
 (9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az Országos szakértői névjegyzékből, az Országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 

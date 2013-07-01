@@ -17,3 +17,27 @@
 (8) Az e §-ban szabályozott köznevelési intézmények kötelesek bejelentkezni a KIR-be és adatot szolgáltatni számára.
 
 (9) A Magyarország területén tartózkodó menedékesek gyermekei részére az oktatásért felelős miniszter – az idegenrendészetért és menekültügyért felelős miniszter egyetértésével – ideiglenes működési engedély kiadásával engedélyezheti nevelési-oktatási intézmény működését a 90. § (1) bekezdésben meghatározott feltételek hiányában is, ha működése nem ellentétes az Alaptörvényben foglaltakkal. Az ideiglenes működési engedély egy évre szól és több alkalommal is meghosszabbítható. Az ideiglenes működési engedély iránti kérelmet az idegenrendészetért és menekültügyért felelős miniszter nyújtja be. Az ideiglenes működési engedély kiadásával egyidejűleg a nevelési-oktatási intézményt nyilvántartásba kell venni. Az ideiglenes működési engedélyben az oktatásért felelős miniszter tudomásul veszi, hogy az ideiglenes menedéket élvezők Magyarország területén gyermekeik részére megszervezték az óvodai nevelést vagy iskolai nevelés-oktatást. Az ideiglenes működési engedély nem jelenti annak elismerését, hogy a nevelési-oktatási intézmény megfelel azon ország előírásainak, ahonnan az ideiglenes menedéket élvezők Magyarország területére érkeztek, továbbá nem jelenti az iskola által kiállított bizonyítvány Magyarország részéről történő elismerését.
+
+(10) A külföldi nevelési-oktatási intézményekről vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
+(11) A (10) bekezdés alapján a külföldi nevelési-oktatási intézményekről vezetett nyilvántartás tartalmazza
+
+a) a köznevelési intézmény
+
+aa) hivatalos nevét,
+
+ab) székhelyét és telephelyeit,
+
+ac) alapító okiratának számát,
+
+ad) nyilvántartásba-vételi számát,
+
+ae) képviseletére jogosult személy nevét,
+
+b) a fenntartó
+
+ba) nevét,
+
+bb) képviseletére jogosult személy nevét,
+
+bc) Magyarországon bejegyzett címét.
