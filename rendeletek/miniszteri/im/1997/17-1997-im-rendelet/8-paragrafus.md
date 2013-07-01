@@ -1,4 +1,4 @@
-8. §[^19] (1) A szabadságvesztéseket a Bv. tvr. 24/A. §-ában meghatározott sorrendben kell foganatba venni, figyelemmel a Bv. tvr. 48. §-ának (4) bekezdésére is.
+8. §[^29] (1) A szabadságvesztéseket a Bv. tvr. 24/A. §-ában meghatározott sorrendben kell foganatba venni, figyelemmel a Bv. tvr. 48. §-ának (4) bekezdésére is.
 
 (2) Ha azonos napon több szabadságvesztés végrehajtására érkezik bírói értesítés, akkor a foganatba vétel sorrendjénél az alábbiak szerint kell eljárni:
 
@@ -14,4 +14,4 @@ d) az a)–c) ponton kívüli esetekben az azonos fokozatok esetén a hosszabb t
 
 (4) Ha a bv. intézet azt észleli, hogy a szabadságvesztések tekintetében összbüntetésbe foglalásnak lehet helye, erről az illetékes bíróságot haladéktalanul értesíti.
 
-[^19]: A 8. § a 6/2000. (III. 22.) IM rendelet 5. §-ával megállapított szöveg.
+[^29]: A 8. § a 6/2000. (III. 22.) IM rendelet 5. §-ával megállapított szöveg.

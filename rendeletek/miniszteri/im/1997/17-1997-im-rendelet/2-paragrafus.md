@@ -6,6 +6,7 @@
 
 (4) Ha az elítéltet a bíróság rendelkezése alapján a rendőrség elfogja és az elfogás napján a bv. intézetnek nem adja át, a rendőrségi fogdában töltött időt – a rendőrség igazolása alapján – a szabadságvesztés utolsó napjának a kiszámításánál kell figyelembe venni.
 
-(5) Az elítélttel szemben a magyar bíróság által kibocsátott elfogó parancs alapján a külföldi hatóságok által foganatosított fogvatartás idejét – hivatalos igazolás alapján – a szabadságvesztés utolsó napjának a kiszámítását végző bv. intézetnek kell figyelembe vennie.
+(5)[^3] Az elítélttel szemben a magyar bíróság által kibocsátott elfogató parancs alapján a külföldi hatóságok által foganatosított fogvatartás idejét – hivatalos igazolás alapján – a szabadságvesztés utolsó napjának a kiszámítását végző bv. intézetnek kell figyelembe vennie.
 
 [^2]: A 2. § (1) bekezdésének utolsó mondatát a 24/2003. (VII. 1.) IM rendelet 28. §-ának (1) bekezdése iktatta a szövegbe.
+[^3]: A 2. § (5) bekezdése a 9/2013. (VI. 29.) KIM rendelet 24. § a) pontja szerint módosított szöveg.

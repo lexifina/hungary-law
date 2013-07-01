@@ -1,4 +1,4 @@
-2/A. §[^3] (1) A bv. intézet a házi őrizetben töltött idő tartamát a 2. § (2) bekezdésében meghatározott számítási mód szerint kiszámítja. A házi őrizetben töltött idő tartamát a bv. intézet a bíróságnak a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 99. §-ának (3) bekezdése alapján hozott rendelkezése szerint átszámítja. Az eredményhez, amennyiben töredéknap marad fenn, a Btk. 99. §-ának (4) bekezdése alapján egy napot hozzá kell adni. Az így kapott tartam a házi őrizet miatt a szabadságvesztésbe beszámítandó tartam (a továbbiakban: házi őrizet miatt beszámítandó tartam).
+2/A. §[^4] (1)[^5] A bv. intézet a házi őrizetben töltött idő tartamát a 2. § (2) bekezdésében meghatározott számítási mód szerint kiszámítja. A házi őrizetben töltött idő tartamát a bv. intézet a bíróságnak a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 92. § (3) bekezdése alapján hozott rendelkezése szerint átszámítja. Az eredményhez, amennyiben töredéknap marad fenn, a Btk. 92. § (4) bekezdése alapján egy napot hozzá kell adni. Az így kapott tartam a házi őrizet miatt a szabadságvesztésbe beszámítandó tartam (a továbbiakban: házi őrizet miatt beszámítandó tartam).
 
 (2) A házi őrizetben töltött időtartamot és a házi őrizet miatt beszámítandó tartamot napokban kell megállapítani.
 
@@ -8,4 +8,5 @@
 
 (5) Összbüntetésbe foglalás esetén a házi őrizet miatt beszámítandó tartamot alapítéletenként külön-külön kell meghatározni.
 
-[^3]: A 2/A. §-t a 24/2003. (VII. 1.) IM rendelet 28. §-ának (2) bekezdése iktatta a szövegbe.
+[^4]: A 2/A. §-t a 24/2003. (VII. 1.) IM rendelet 28. §-ának (2) bekezdése iktatta a szövegbe.
+[^5]: A 2/A. § (1) bekezdése a 9/2013. (VI. 29.) KIM rendelet 23. § (1) bekezdésével megállapított szöveg.
