@@ -1,9 +1,9 @@
-36. §[^48] (1) A Tv. 30. § (7) bekezdése alapján elrendelt visszatérítési kötelezettséget az elismerését kérő postai utalvány vagy házipénztári befizetés útján teljesítheti.
+36. §[^61] (1) A menekültügyi hatóság a befogadás anyagi feltételeinek korlátozása keretében – a Tv. 30. § (6) bekezdésében meghatározott szempontok mérlegelése alapján – rendelkezhet a befogadás anyagi feltételei mértékének 25, 50 vagy 75 százalékban történő csökkentéséről.
 
-(2) Különös méltánylást érdemlő esetben a menekültügyi hatóság a visszatérítési kötelezettség megállapítása során részletfizetést engedélyezhet.
+(2) Amennyiben a korlátozó rendelkezés a befogadás olyan anyagi feltételét érinti, amelynek mértéke nem számszerűsíthető, a menekültügyi hatóság a (3) bekezdés szerinti arányszámoktól eltekinthet, és az adott befogadás anyagi feltételére vonatkozó rendelkezések alapján dönthet a korlátozás mértékéről.
 
-(3) A menekültügyi hatóság a befogadási feltételek korlátozása keretében – a Tv. 30. § (6) bekezdésében foglalt szempontok mérlegelése alapján – rendelkezhet a befogadási feltételek mértékének 25, 50 vagy 75 százalékban történő csökkentéséről.
+(3) A Tv. 30. § (2) bekezdése alapján kiszabott szankció esetén – amennyiben a szankcióval érintett személy tanköteles korú gyermek felügyeletéért felel – az áthelyezés során a tanköteles korú gyermek tanulmányai folytatásának lehetőségét biztosítani kell.
 
-(4) Amennyiben a korlátozó rendelkezés olyan befogadási feltételt érint, amelynek mértéke nem számszerűsíthető, a menekültügyi hatóság a (3) bekezdés szerinti arányszámoktól eltekinthet, és az adott befogadási feltételre vonatkozó rendelkezések alapján dönthet a korlátozás mértékéről.
+(4) Különleges bánásmódot igénylő személy esetén az elismerését kérő egyéni helyzetére tekintettel megállapított befogadás anyagi feltételeit az áthelyezést követően is biztosítani kell.
 
-[^48]: A 36. § a 290/2010. (XII. 21.) Korm. rendelet 96. §-ával megállapított szöveg.
+[^61]: A 36. § a 221/2013. (VI. 24.) Korm. rendelet 41. §-ával megállapított szöveg.

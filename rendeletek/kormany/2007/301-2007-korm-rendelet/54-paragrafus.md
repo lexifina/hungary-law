@@ -1,14 +1,14 @@
 ## Lakhatási támogatás
 
-54. § (1)[^90] A településen elismert minimális lakásnagyságot és minőséget meg nem haladó lakásban vagy szálláson lakó menekültnek, illetve oltalmazottnak a lakó- vagy tartózkodási hely szerint illetékes járási hivatal – a menekültügyi hatóság előzetes jóváhagyásával – lakhatási támogatást nyújthat.
+54. § (1)[^112] A településen elismert minimális lakásnagyságot és minőséget meg nem haladó lakásban vagy szálláson lakó menekültnek, illetve oltalmazottnak a lakó- vagy tartózkodási hely szerint illetékes járási hivatal – a menekültügyi hatóság előzetes jóváhagyásával – lakhatási támogatást nyújthat.
 
 (2) A támogatás igénylésekor igazolni kell, hogy a menekült, illetve az oltalmazott a lakásbérleti vagy albérleti díj, illetve a szállásköltség támogatáson felüli részére fedezettel rendelkezik. A lakhatási támogatás igénybevételére egyazon lakásban együtt élő menekültek, illetve oltalmazottak közül csak az egyik jogosult.
 
-(3)[^91] A támogatás csak érvényes bérleti, albérleti szerződés vagy befogadó nyilatkozat alapján, a bérleti, albérleti díj vagy szállásköltség összegéről kiállított számla ellenében, előzetes környezettanulmányt követően folyósítható. A támogatásról szóló határozatot a járási hivatal megküldi a menekültügyi hatóságnak.
+(3)[^113] A támogatás csak érvényes bérleti, albérleti szerződés vagy befogadó nyilatkozat alapján, a bérleti, albérleti díj vagy szállásköltség összegéről kiállított számla ellenében, előzetes környezettanulmányt követően folyósítható. A támogatásról szóló határozatot a járási hivatal megküldi a menekültügyi hatóságnak.
 
 (4) A támogatás hat hónapra állapítható meg, amely – kérelemre – négy éven belül legfeljebb további három alkalommal, alkalmanként hat hónapos időtartamra állapítható meg.
 
-(5)[^92] A támogatás folyósítása közben bekövetkező lakcímváltozást a menekültügyi hatóságnak 15 napon belül be kell jelenteni, és ezzel egyidejűleg új kérelmet kell benyújtani. A támogatás lakcímváltozás miatt történő ismételt megállapítását a lakcímváltozást megelőzően megállapított támogatási összeg módosításának kell tekinteni, így a folyósítás időtartamába be kell számítani a lakcímváltozást megelőző lakhatási támogatás folyósításának időtartamát. A menekültügyi hatóság a lakcímváltozás bejelentéséről értesíti a korábbi és az új lakóhely szerint illetékes járási hivatalt.
+(5)[^114] A támogatás folyósítása közben bekövetkező lakcímváltozást a menekültügyi hatóságnak 15 napon belül be kell jelenteni, és ezzel egyidejűleg új kérelmet kell benyújtani. A támogatás lakcímváltozás miatt történő ismételt megállapítását a lakcímváltozást megelőzően megállapított támogatási összeg módosításának kell tekinteni, így a folyósítás időtartamába be kell számítani a lakcímváltozást megelőző lakhatási támogatás folyósításának időtartamát. A menekültügyi hatóság a lakcímváltozás bejelentéséről értesíti a korábbi és az új lakóhely szerint illetékes járási hivatalt.
 
 (6) A támogatás összege
 
@@ -20,9 +20,9 @@ c) az igénylő háztartásában nevelt legalább három kiskorú gyermek eseté
 
 (7) A támogatást úgy kell megállapítani, hogy annak összege a bérleti, albérleti díj vagy szállásköltség 100%-át nem haladhatja meg.
 
-(8)[^93] A támogatás összegét a kormányhivatal havonta folyósítja és igényli vissza a menekültügyi hatóságtól.
+(8)[^115] A támogatás összegét a kormányhivatal havonta folyósítja és igényli vissza a menekültügyi hatóságtól.
 
-[^90]: Az 54. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
-[^91]: Az 54. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
-[^92]: Az 54. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 50. § e) pontja szerint módosított szöveg.
-[^93]: Az 54. § (8) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^112]: Az 54. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^113]: Az 54. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^114]: Az 54. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 50. § e) pontja szerint módosított szöveg.
+[^115]: Az 54. § (8) bekezdése az 51/2013. (II. 25.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
