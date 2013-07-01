@@ -18,4 +18,6 @@ c) az ellenőrzése eredményeként hozott jogerős és előzetesen végrehajtha
 
 d) a döntése ellen indított jogorvoslati eljárás tényét, és a jogorvoslati eljárás eredményét.
 
+(6a) A (6) bekezdés a) pontja szerinti, a tevékenységi engedéllyel rendelkezőkről szóló jegyzék – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (7) A (2) bekezdésében felsorolt dokumentumok, valamint a 13. § (1) és (3) bekezdésében foglalt bejelentés elektronikus úton is benyújthatóak.

@@ -38,23 +38,31 @@ c) rendelkezik a közraktár tárolási, raktározási tevékenységéhez haszn�
 
 d) a részvénytársaságnak és az igazgatóság tagjainak belföldön köztartozása nincs,
 
-e) az igazgatóság tagja
+e)
 
-ea) büntetlen előéletű,
+(3a) A kérelmező nem kaphat a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges közraktári engedélyt, ha az igazgatóság tagja
 
-eb) büntetlen előéletű, de büntetőjogi felelősségét a bíróság a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. fejezet III. címében meghatározott államtitok és szolgálati titok megsértése, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, a XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, önbíráskodás, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, a XVII. fejezetben meghatározott gazdasági bűncselekmény, a XVIII. fejezetben meghatározott vagyon elleni bűncselekmény elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, amíg az e tényre vonatkozó adat kezelését a bűnügyi nyilvántartási rendszerben a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) elrendeli,
+a) büntetett előéletű,
 
-ec) nem áll a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt,
+b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság
 
-ed) nem áll az eb) alpontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt.
+ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben (a továbbiakban: 1978. évi IV. törvény) meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, a XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, önbíráskodás, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, a XVII. fejezetben meghatározott gazdasági bűncselekmény, a XVIII. fejezetben meghatározott vagyon elleni bűncselekmény,
+
+bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősített adattal visszaélés, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XXVII. Fejezetében meghatározott korrupciós bűncselekmény, bűnszervezetben részvétel, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény
+
+elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, amíg az e tényre vonatkozó adat kezelését a bűnügyi nyilvántartási rendszerben a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) elrendeli,
+
+c) a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll,
+
+d) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (4) A 2. § (5) bekezdés alapján a közraktári engedély csak akkor adható meg, ha a közraktár részére a tulajdonjogot az ingatlan-nyilvántartásba jogerősen bejegyezték.
 
 (5) Ha a kérelmező a (3) bekezdés b)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(6) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg az igazgatóság tagja hatósági bizonyítvánnyal igazolja azt a tényt, hogy megfelel az 5. § (3) bekezdés e) pontjában meghatározott feltételnek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a (7) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(6) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg az igazgatóság tagja hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a (3a) bekezdésben meghatározott kizáró feltétel, vagy kéri, hogy az erre vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a (7) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
-(7) A felügyelet a részvénytársasági formában működő közraktári tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az igazgatóság tagja megfelel az 5. § (3) bekezdés e) pontjában meghatározott feltételnek. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy az igazgatóság tagja megfelel-e az 5. § (3) bekezdés e) pontjában meghatározott feltételnek.
+(7) A felügyelet a részvénytársasági formában működő közraktári tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az igazgatóság tagjával szemben nem áll fenn a (3a) bekezdésben meghatározott kizáró feltétel. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy az igazgatóság tagjával szemben nem áll-e fenn a (3a) bekezdésben meghatározott kizáró feltétel.
 
 (8) A (6) és (7) bekezdés alapján megismert személyes adatokat a felügyelet
 
