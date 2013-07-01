@@ -1,3 +1,3 @@
-4. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^31]
+4. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^32]
 
-[^31]: A 4. számú melléklet a 280/2008. (XI. 28.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^32]: A 4. számú melléklet a 280/2008. (XI. 28.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

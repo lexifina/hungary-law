@@ -4,6 +4,8 @@
 
 (2) Az (1) bekezdés szerinti engedéllyel rendelkezőkről a Hivatal nyilvántartást vezet a következő tartalommal: a kötelezett megnevezése, székhelyének és telephelyének elérhetősége (postai cím, telefon, fax, elektronikus levelezési cím), nyilvántartási száma. A nyilvántartást a Hivatal a honlapján bárki számára ingyenesen és korlátozás nélkül elérhető módon folyamatosan közzéteszi.
 
+(2a)[^6] A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A Hivatal a kötelezettnek akkor ad engedélyt, ha
 
 a) a kötelezett vagy annak alkalmazottja rendelkezik a jogszabályban meghatározott szakképesítéssel,
@@ -28,3 +30,4 @@ b) az e rendelet alapján ellenőrzésre jogosult hatóságok megállapítása s
 
 [^4]: A 3. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 3. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 7. §-a iktatta be.
