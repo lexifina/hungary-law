@@ -272,7 +272,7 @@
 
 ## (2)[^28]
 
-## (3)[^29] A kimagasló érdemeket szerzett vagy szolgálatát hosszabb ideig kiválóan végrehajtó őrt, a felügyeletet gyakorló rendőri szerv igazságügyi és rendészeti miniszteri jutalomra, kitüntetésre terjesztheti fel.
+## (3)[^29] A kimagasló érdemeket szerzett vagy szolgálatát hosszabb ideig kiválóan végrehajtó őrt, a felügyeletet gyakorló rendőri szerv belügyminiszteri jutalomra, kitüntetésre terjesztheti fel.
 
 ## Az őr általános kötelességei
 
@@ -744,7 +744,7 @@
 
 ## c) a közbiztonsági helyzetből adódó reagálásra;
 
-## d) minősített időszak – az Alkotmány 8. §-ának (4) bekezdésében meghatározott rendkívüli állapot, szükségállapot vagy veszélyhelyzet – bevezetésekor.
+## d)[^70] az Alaptörvény 48–54. cikkében szabályozott különleges jogrend bevezetésekor.
 
 ## (3) Megerősített szolgálatot rendelhet el:
 
@@ -812,7 +812,7 @@
 
 ## b) a munkáltató;
 
-## c)[^70] az őrség irányítására jogosult személy.
+## c)[^71] az őrség irányítására jogosult személy.
 
 ## (2) Az őrséget ellenőrizni köteles:
 
@@ -900,7 +900,7 @@
 
 ## 69. § (1) Az őrség elhelyezési körletéről, berendezési tárgyairól, okmányairól a munkáltató köteles gondoskodni. Az őrség elhelyezési körlete és annak berendezése biztosítsa az őrszolgálat maradéktalan ellátását, az őrhelyekkel való összeköttetést, a kulturált – és a létesítményen belül elkülönített – elhelyezést (étkezést, pihenést, tisztálkodást stb.).
 
-## (2)[^71] Az őrség elhelyezési körlete – az őrség szervezeti felépítésétől függően – a következőkből álljon:
+## (2)[^72] Az őrség elhelyezési körlete – az őrség szervezeti felépítésétől függően – a következőkből álljon:
 
 ## a) az őrségparancsnok részére egy szolgálati helyiségből;
 
@@ -964,7 +964,7 @@
 
 ## i) a riadótervet;
 
-## j)[^72] az őrparancsnok okmányait, ha az őrségnél az őrparancsnoki beosztást nem hozták létre.
+## j)[^73] az őrparancsnok okmányait, ha az őrségnél az őrparancsnoki beosztást nem hozták létre.
 
 ## 71. § (1) Az őrparancsnok szolgálati helyiségének tárgyai:
 
@@ -1024,7 +1024,7 @@
 
 ## (2) Képzési, felkészülési követelmények:
 
-## a)[^73] jogi ismeretek:
+## a)[^74] jogi ismeretek:
 
 ## – alkotmányjog és az államigazgatási jog területéről:
 
@@ -1032,7 +1032,7 @@
 
 ## – a büntetőjog és a büntetőeljárás-jog területéről:
 
-## = ismerje a bűncselekmény fogalmát és jogi ismérveit, a bűncselekmények elkövetőire vonatkozó általános rendelkezéseket, a büntetőjogi felelősségre vonás akadályait, az emberölés, a hivatalos személy elleni bűncselekmények, a közveszélyokozás, a terrorcselekmény törvényi tényállásait, a büntetőeljárás megindítását, szakaszait, a bizonyítás elveit, eszközeit. Legyen jártas a személyi szabadság megsértése, a testi sértés, a segítségnyújtás elmulasztása, a foglalkozás körében elkövetett veszélyeztetés, a robbanóanyaggal vagy robbanószerrel, a lőfegyverrel vagy lőszerrel visszaélés, a rablás, a lopás, a rongálás bűncselekmények törvényi tényállási elemeinek ismeretében, a kényszer, a fenyegetés, a tévedés, a jogos védelem és a végszükség értelmezésében,
+## = ismerje a bűncselekmény fogalmát és jogi ismérveit, a bűncselekmények elkövetőire vonatkozó általános rendelkezéseket, a büntetőjogi felelősségre vonás akadályait, az emberölés, a hivatalos személy elleni bűncselekmények, a közveszély okozása, a terrorcselekmény, a terrorcselekmény feljelentésének elmulasztása, valamint a terrorizmus finanszírozása bűncselekmények törvényi tényállásait, a büntetőeljárás megindítását, szakaszait, a bizonyítás elveit, eszközeit. Legyen jártas a személyi szabadság megsértése, a testi sértés, a segítségnyújtás elmulasztása, a foglalkozás körében elkövetett veszélyeztetés, a robbanóanyaggal vagy robbantószerrel visszaélés, a lőfegyverrel vagy lőszerrel visszaélés, a rablás, a lopás, a rongálás bűncselekmények törvényi tényállási elemeinek ismeretében, a kényszer, a fenyegetés, a tévedés, a jogos védelem és a végszükség értelmezésében,
 
 ## – legyen jártas az Fbő. törvény és a jelen rendelet előírásainak alkalmazásában;
 
@@ -1096,11 +1096,11 @@
 
 ## c) az önvédelmi vizsga alól, ha a jelölt igazolja, hogy valamely küzdősportban sportminősítést (pl. övfokozat) szerzett.
 
-## X. Fejezet[^74]
+## X. Fejezet[^75]
 
-## ZÁRÓ RENDELKEZÉSEK[^75]
+## ZÁRÓ RENDELKEZÉSEK[^76]
 
-## 77. §[^76] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
+## 77. §[^77] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
 
 ## 1. számú függelék
 
@@ -1338,7 +1338,7 @@ aláírás
 [^26]: A melléklet 17. §-át a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
 [^27]: A 18. § (1) bekezdésének bevezető része a 2/2001. (I. 19.) BM rendelet 1. §-ával megállapított szöveg.
 [^28]: A melléklet 18. § (2) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
-[^29]: A melléklet 18. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
+[^29]: A melléklet 18. § (3) bekezdése a 34/2013. (VI. 30.) BM rendelet 13. § a) pontja szerint módosított szöveg.
 [^30]: A melléklet 19. § (1) bekezdés d) pontja a 35/2010. (V. 12.) IRM rendelet 2. §-a szerint módosított szöveg.
 [^31]: A melléklet 19. § (1) bekezdés i) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^32]: A melléklet 20. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
@@ -1379,10 +1379,11 @@ aláírás
 [^67]: A Melléklet 52. § (1) bekezdése a 4/2010. (XI. 25.) BM rendelet 2. §-ával megállapított szöveg.
 [^68]: A melléklet 52. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^69]: A Melléklet 52. § (10) bekezdését a 4/2010. (XI. 25.) BM rendelet 3. §-a iktatta be.
-[^70]: A melléklet 61. § (1) bekezdés c) pontját a 86/2009. (XII. 30.) IRM rendelet 8. §-a iktatta be.
-[^71]: A melléklet 69. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^72]: A melléklet 70. § (2) bekezdés j) pontját a 86/2009. (XII. 30.) IRM rendelet 9. §-a iktatta be.
-[^73]: A melléklet 73. § (2) bekezdésének a) pontja a 2/2001. (I. 19.) BM rendelet 2. §-ával megállapított, a 35/2010. (V. 12.) IRM rendelet 2. §-a szerint módosított szöveg.
-[^74]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^75]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^76]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^70]: A melléklet 53. § (2) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 12. §-ával megállapított szöveg.
+[^71]: A melléklet 61. § (1) bekezdés c) pontját a 86/2009. (XII. 30.) IRM rendelet 8. §-a iktatta be.
+[^72]: A melléklet 69. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^73]: A melléklet 70. § (2) bekezdés j) pontját a 86/2009. (XII. 30.) IRM rendelet 9. §-a iktatta be.
+[^74]: A melléklet 73. § (2) bekezdésének a) pontja a 2/2001. (I. 19.) BM rendelet 2. §-ával megállapított, a 35/2010. (V. 12.) IRM rendelet 2. §-a, a 34/2013. (VI. 30.) BM rendelet 13. § b)–c) pontja szerint módosított szöveg.
+[^75]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^76]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^77]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
