@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2012-08-01 | 2012. évi XCIV. törvény | 2000-42-00-00.26 |
 | 2012-09-01 | 2012. évi XCIV. törvény | 2000-42-00-00.27 |
 | 2013-01-01 | 2012. évi LXXXVI. törvény | 2000-42-00-00.28 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2000-42-00-00.29 |

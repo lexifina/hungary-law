@@ -22,7 +22,7 @@ f) a tengeri hajók engedélyezett felszereléseiről, illetve a visszavont vagy
 
 g) a hajózási hatóság által kiadott szolgálati könyvekről vezetett nyilvántartásban szereplő személy természetes személyazonosító adatait,
 
-h) a révkalauzok nyilvántartásába felvett személy természetes személyazonosító adatait
+h)
 
 kezeli.
 

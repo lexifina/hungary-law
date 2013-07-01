@@ -23,3 +23,19 @@ e) az EGT-államok hajózási hatóságai által kiállított hajózási engedé
 (3) A hajózási engedélyben meg kell határozni azt a tevékenységet és területet, amelyre az engedély vonatkozik, továbbá a tevékenység folytatásának feltételeit.
 
 (4) A hajózási hatóság és a rendőrség vízirendészeti szerve jogosult ellenőrizni, hogy a Magyarország területén engedélykötelesnek minősített hajózási tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel rendelkezik-e. Amennyiben az engedélyköteles tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel nem rendelkezik, a rendőrség vízirendészeti szerve haladéktalanul értesíti a hajózási hatóságot.
+
+(5) A hajózási hatóság a kiadott hajózási engedélyekről nyilvántartást vezet, amely tartalmazza:
+
+a) a vezető nevét,
+
+b) az engedélyezett hajózási tevékenységet,
+
+c) az üzemeltetett úszólétesítmények lajstromszámát, nevét, illetve jelét,
+
+d) azt a vízterületet (folyó, tó, folyamkilométer stb.), amelyen az engedélyezett hajózási tevékenység végezhető,
+
+e) a hajózási engedély időbeli hatályát,
+
+f) a kérelmező hajózási vállalkozás és a hajózási tevékenységhez használt úszólétesítmény magyar tulajdoni hányadának a megjelölését.
+
+(6) A hajózási engedélyekről vezetett nyilvántartás az (5) bekezdésben foglalt adatok tekintetében – az (5) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.

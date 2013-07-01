@@ -64,7 +64,7 @@ rendeletben történő megállapítására.
 
 13. a hajózási rangjelzések használatára vonatkozó szabályoknak,
 
-14. a révkalauzi tevékenység ellátása részletes feltételeinek,
+14.
 
 15. a veszélyes áruk tengeri és belvízi fuvarozásának,
 

@@ -8,4 +8,4 @@
 
 (3) A hajózási hatóság által kiadott képesítő okmánnyal rendelkező személy nem végezheti a képesítő okmányban megnevezett képesítésnek megfelelő tevékenységet, ha büntetett előéletű, vagy ha hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatálya alatt áll.
 
-(4) A hajózási képesítések nyilvántartását a hajózási hatóság végzi.
+(4) A hajózási hatóság az általa kiadott hajózási képesítő okmányokról közhiteles hatósági nyilvántartást vezet.
