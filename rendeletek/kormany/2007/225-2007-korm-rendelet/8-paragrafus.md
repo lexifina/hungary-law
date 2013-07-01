@@ -1,6 +1,6 @@
 8. § (1) Ha e rendelet eltérően nem rendelkezik, fogyasztóvédelmi hatóságként a Kormány a területileg illetékes felügyelőséget jelöli ki.
 
-(2)[^22] A Kormány
+(2)[^23] A Kormány
 
 a) az Fgytv. 38. § (1)–(3) és (7)–(8) bekezdésében, 43/A. § (1) bekezdés d) pontjában, valamint (3) bekezdésében, 45/B. §-ában, továbbá 48. § (3) bekezdésében,
 
@@ -18,7 +18,7 @@ g) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. év
 
 foglaltak tekintetében fogyasztóvédelmi hatóságként az NFH-t jelöli ki.
 
-(3)[^23] A Kormány
+(3)[^24] A Kormány
 
 a) az Fgytv. 17. § (5) bekezdésében, 43/A. § (1) bekezdés a)–c) és e)–k) pontjában, valamint (2) és (4) bekezdésében, továbbá 47. § (6) és (7) bekezdésében,
 
@@ -32,8 +32,8 @@ e) a Vet. 163. § (1) bekezdésében és (3) bekezdés b) pontjában
 
 foglaltak tekintetében fogyasztóvédelmi hatóságként az NFH-t és a felügyelőségeket jelöli ki.
 
-(4)[^24] A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 16. §-a (6) bekezdésének g) pontja szerinti esetben a vámtitokról az eljárásra illetékes felügyelőséget az NFH útján kell tájékoztatni.
+(4)[^25] A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 16. §-a (6) bekezdésének g) pontja szerinti esetben a vámtitokról az eljárásra illetékes felügyelőséget az NFH útján kell tájékoztatni.
 
-[^22]: A 8. § (2) bekezdése a 306/2012. (X. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^23]: A 8. § (3) bekezdése a 306/2012. (X. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^24]: A 8. § (4) bekezdése a 214/2008. (VIII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja, a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^23]: A 8. § (2) bekezdése a 306/2012. (X. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (3) bekezdése a 306/2012. (X. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^25]: A 8. § (4) bekezdése a 214/2008. (VIII. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja, a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
