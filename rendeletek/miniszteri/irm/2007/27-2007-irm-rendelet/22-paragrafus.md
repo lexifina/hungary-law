@@ -1,4 +1,4 @@
-## 21. §[^22] Az őrizetesnek az őrizet időtartamának meghosszabbítása, illetve felülvizsgálata céljából történő bíróság elé állítása, a diplomáciai vagy konzuli képviseleten történő meghallgatása céljából, továbbá a 20. § (1) bekezdésében foglalt esetekben történő szállítása a Rendőrség feladata.
+## 21. §[^23] Az őrizetesnek az őrizet időtartamának meghosszabbítása, illetve felülvizsgálata céljából történő bíróság elé állítása, a diplomáciai vagy konzuli képviseleten történő meghallgatása céljából, továbbá a 20. § (1) bekezdésében foglalt esetekben történő szállítása a Rendőrség feladata.
 
 22. § (1) Az őrizetesnek a fogva tartás helyéről történő rendkívüli eseménynek minősülő eltávozásáról az őrzött szállás vezetőjének haladéktalanul értesítenie kell az őrizetet elrendelő idegenrendészeti hatóságot.
 
@@ -10,4 +10,4 @@
 
 (5) Az őrizetes haláláról az őrzött szállás az őrizetet elrendelő idegenrendészeti hatóságot és az illetékes külképviseletet haladéktalanul értesíti.
 
-[^22]: A 21. § az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
+[^23]: A 21. § az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
