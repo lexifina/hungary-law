@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-257-20-
 | --- | --- | --- |
 | 2009-04-11 | 2007-257-20-22.3 | 257/2007. (X. 4.) Korm. rendelet |
 | 2012-01-01 | 2007-257-20-22.4 | 287/2011. (XII. 22.) Korm. rendelet |
+| 2013-07-01 | 2007-257-20-22.5 | 238/2013. (VI. 30.) Korm. rendelet |

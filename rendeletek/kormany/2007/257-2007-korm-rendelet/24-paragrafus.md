@@ -10,4 +10,6 @@ c) ha az elektronikus árlejtést szakaszokban folytatták le, az utolsó szakas
 
 (2) Első helyen rangsoroltnak az az ajánlattevő minősül, akinek ajánlatát az informatikai rendszer az árlejtés lezárásakor a legkedvezőbb ajánlatként tartja nyilván.
 
-(3) Az elektronikus árlejtés lezárásakor az ajánlatkérő az árlejtés során érvényes ajánlatot tett ajánlattevőket elektronikus úton tájékoztatja az elektronikus árlejtés során az ellenszolgáltatás mértéke, illetve a bírálati részszempontok tekintetében kialakult rangsorról.
+(3)[^44] Az elektronikus árlejtés lezárásakor az ajánlatkérő az árlejtés során érvényes ajánlatot tett ajánlattevőket elektronikus úton tájékoztatja az elektronikus árlejtés során az ellenszolgáltatás mértéke, illetve az értékelési részszempontok tekintetében kialakult rangsorról. Az ajánlatkérő továbbá a Kbt. 62. § (4) bekezdésétől eltérően ebben a tájékoztatásban ismerteti a közbeszerzés becsült értékét és a szerződés teljesítéséhez rendelkezésre álló anyagi fedezet összegét.
+
+[^44]: A 24. § (3) bekezdése a 238/2013. (VI. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
