@@ -1,0 +1,3 @@
+23. § A Kstv. 33. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kisajátítási határozat jogerőre emelkedése után a határozatot – a jogerőre utaló feljegyzéssel ellátva – a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási terv egy példányát is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat jogerőre emelkedéséről a többi ügyfelet is értesíteni kell.”

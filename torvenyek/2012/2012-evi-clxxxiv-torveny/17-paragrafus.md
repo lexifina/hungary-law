@@ -1,0 +1,3 @@
+17. § A Kstv. a következő 24/B. §-sal egészül ki:
+
+„24/B. § Ha a kisajátítási terv záradéka a kisajátítási eljárás folyamán lejár, a kisajátítási hatóság a tervet újrazáradékolás céljából az erre hatáskörrel rendelkező szervnek megküldi és ezt követően eljárását az újrazáradékolásig felfüggeszti.”
