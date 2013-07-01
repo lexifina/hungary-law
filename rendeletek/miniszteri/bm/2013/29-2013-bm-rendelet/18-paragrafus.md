@@ -1,0 +1,5 @@
+18. § (1) Az elismerését kérő a menekültügyi őrzött befogadó központ erre a célra kijelölt területén a közművelődési, illetve a sportolási lehetőségeket, valamint a könyvtárat szabadon használhatja, továbbá rádióműsort hallgathat, a televízió műsorát nézheti.
+
+(2) A menekültügyi őrzött befogadó központban családjával tartózkodó kiskorú elismerését kérő számára biztosítani kell a korának és fejlettségének megfelelő oktatási és szabadidős tevékenységhez szükséges feltételeket, illetve eszközöket, így különösen játszószoba használatát, gyermekpedagógus vagy speciálisan képzett szociális gondozó által nyújtott foglalkoztatást. A tanköteles kiskorú fejlettségi szintjének megfelelő oktatás biztosítása érdekében a menekültügyi őrzött befogadó központ vezetője haladéktalanul megkeresi a Klebelsberg Intézményfenntartó Központnak a menekültügyi őrzött befogadó központ helye szerint illetékes tankerületét.
+
+(3) Az elismerését kérő az általa használt helyiségek tisztán tartásában való közreműködés kivételével más munkára nem kötelezhető.
