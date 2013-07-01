@@ -13,3 +13,5 @@ c) annak a szolgáltatási tevékenységnek a megjelölését, amelynek folytat�
 d) a tilalom időbeli és területi hatályát, valamint
 
 e) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön jogszabályban meghatározott adatokat.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés c) és d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.

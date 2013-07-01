@@ -14,4 +14,6 @@ d) az engedély számát és a tevékenység megkezdésének vagy folytatásána
 
 e) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön jogszabályban meghatározott adatokat.
 
+(2a) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés c) és d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A szolgáltatás felügyeletét ellátó hatóság az adott szolgáltatási tevékenység tekintetében törli a nyilvántartásból azt a szolgáltatót, aki a tevékenység végzésére a továbbiakban nem jogosult.
