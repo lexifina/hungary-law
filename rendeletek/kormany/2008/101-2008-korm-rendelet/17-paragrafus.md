@@ -2,9 +2,9 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-17. § (1) Ez a rendelet az Európai Közösségek saját forrásainak rendszeréről szóló 2007. június 7-i 2007/436/EK, Euratom tanácsi határozat hatálybalépésének napján lép hatályba.[^13]
+17. § (1) Ez a rendelet az Európai Közösségek saját forrásainak rendszeréről szóló 2007. június 7-i 2007/436/EK, Euratom tanácsi határozat hatálybalépésének napján lép hatályba.[^15]
 
-(2) A rendelet hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^14]
+(2) A rendelet hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^16]
 
 (3) E rendelet hatálybalépésével egyidejűleg hatályát veszti az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények feladat- és hatásköréről, valamint a kapcsolódó eljárásrendről szóló 84/2004. (IV. 19.) Korm. rendelet.
 
@@ -18,5 +18,5 @@ a) a Tanács 2007/436/EK, Euratom határozata (2007. június 7.) az Európai Kö
 
 b) a Tanács 1150/2000/EK, Euratom rendelete (2000. május 22.) a Közösségek saját forrásainak rendszeréről szóló 94/728/EK, Euratom határozat végrehajtásáról.
 
-[^13]: A 15/2009. (IV. 2.) KüM határozat alapján a hatálybalépés időpontja 2009. március 1.
-[^14]: Lásd a 15/2009. (IV. 2.) KüM határozatot.
+[^15]: A 15/2009. (IV. 2.) KüM határozat alapján a hatálybalépés időpontja 2009. március 1.
+[^16]: Lásd a 15/2009. (IV. 2.) KüM határozatot.

@@ -6,7 +6,7 @@
 
 1. Európai Unió saját forrásai: az Európai Közösségek saját forrásainak rendszeréről szóló 2007/436/EK, Euratom tanácsi határozat (a továbbiakban: 2007/436/EK, Euratom határozat) 2. cikke értelmében a tradicionális saját források, az áfa alapú hozzájárulás és a GNI alapú hozzájárulás.
 
-2.[^1] Tradicionális saját források: a 2007/436/EK, Euratom határozat 2. cikke szerinti, az Európai Közösség által a tagsággal nem rendelkező országokkal folytatott kereskedelemre megállapított vámok, egyéb vámok (a továbbiakban: vámok), valamint a cukorágazat piacának közös szervezése keretein belül nyújtott hozzájárulások (a továbbiakban: cukorágazati hozzájárulások).
+2.[^2] Tradicionális saját források: a 2007/436/EK, Euratom határozat 2. cikke szerinti, az Európai Közösség által a tagsággal nem rendelkező országokkal folytatott kereskedelemre megállapított vámok, egyéb vámok (a továbbiakban: vámok), valamint a cukorágazat piacának közös szervezése keretein belül nyújtott hozzájárulások (a továbbiakban: cukorágazati hozzájárulások).
 
 3. Áfa alapú hozzájárulás: a 2007/436/EK, Euratom határozat 2. cikke értelmében a tagállam harmonizált áfa alapjára vetített, minden tagállamra egységesen alkalmazott egységkulccsal képzett összeg.
 
@@ -20,4 +20,4 @@
 
 8. Együttműködési megállapodás: az egyes saját forrás típusokkal összefüggő feladatok összehangolt teljesítése érdekében egymástól független szervek között kötött két- vagy többoldalú megállapodás.
 
-[^1]: A 2. § 2. pontja a 292/2009. (XII. 19.) Korm. rendelet 245. §-ával megállapított szöveg.
+[^2]: A 2. § 2. pontja a 292/2009. (XII. 19.) Korm. rendelet 245. §-ával megállapított szöveg.

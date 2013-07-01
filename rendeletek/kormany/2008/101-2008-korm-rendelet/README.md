@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-101-20-
 | --- | --- | --- |
 | 2010-01-01 | 2008-101-20-22.2 | 101/2008. (IV. 29.) Korm. rendelet |
 | 2012-01-01 | 2008-101-20-22.3 | 269/2011. (XII. 20.) Korm. rendelet |
+| 2013-07-01 | 2008-101-20-22.4 | 172/2015. (VII. 2.) Korm. rendelet |
