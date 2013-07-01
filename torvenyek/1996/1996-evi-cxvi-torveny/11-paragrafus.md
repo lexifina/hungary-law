@@ -6,155 +6,53 @@
 
 a) aki büntetett előéletű;
 
-b) akit a Btk. szerinti
+b) akit a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben vagy a Btk.-ban meghatározott alábbi bűncselekmények elkövetése miatt a bíróság elítélt, és a (4) bekezdésben meghatározott időtartam még nem telt el:
 
-ba) állam elleni bűncselekmény (Btk. X. fejezet),
+1. emberiség elleni bűncselekmény (1978. évi IV. törvény XI. fejezet), illetve emberiesség elleni bűncselekmény (Btk. XIII. Fejezet), háborús bűncselekmény (Btk. XIV. Fejezet),
 
-bb) emberiség elleni bűncselekmény (Btk. XI. fejezet),
+2. emberölés (1978. évi IV. törvény 166. §, Btk. 160. §), erős felindulásban elkövetett emberölés (1978. évi IV. törvény 167. §, Btk. 161. §), öngyilkosságban közreműködés (1978. évi IV. törvény 168. §, Btk. 162. §), szándékosan elkövetett súlyos testi sértés, és annak minősített esetei [1978. évi IV. törvény 170. § (2)–(6) bekezdés, Btk. 164. § (3) és (6)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (1978. évi IV. törvény 171. §, Btk. 165. §),
 
-bc) egyes élet, a testi épség és az egészség elleni bűncselekmények:
+3. visszaélés méreggel (1978. évi IV. törvény 265. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), illetve kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), méreggel visszaélés (Btk. 188. §),
 
-1. emberölés (Btk. 166. §),
+4. kényszerítés (1978. évi IV. törvény 174. §, Btk. 195. §), személyi szabadság megsértése (1978. évi IV. törvény 175. §, Btk. 194. §), emberrablás (1978. évi IV. törvény 175/A. §, Btk. 190. §), emberkereskedelem (1978. évi IV. törvény 175/B. §, Btk. 192. §), illetve emberrablás feljelentésének elmulasztása (Btk. 191. §),
 
-2. erős felindulásban elkövetett emberölés (Btk. 167. §),
+5. erőszakos közösülés (1978. évi IV. törvény 197. §), szemérem elleni erőszak (1978. évi IV. törvény 198. §), megtévesztéssel, erőszakkal, avagy az élet vagy testi épség ellen irányuló közvetlen fenyegetéssel elkövetett kerítés [1978. évi IV. törvény 207. § (3) bekezdés b) pont], illetve szexuális erőszak (Btk. 197. §), megtévesztéssel, erőszakkal vagy fenyegetéssel elkövetett kerítés [Btk. 200. § (4) bekezdés c) pont],
 
-3. öngyilkosságban közreműködés (Btk. 168. §),
+6. lelkiismereti és vallásszabadság megsértése (1978. évi IV. törvény 174/A. §, Btk. 215. §), közösség tagja elleni erőszak (1978. évi IV. törvény 174/B. §, Btk. 216. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (1978. évi IV. törvény 174/C. §, Btk. 217. §), magánlaksértés bűntette [1978. évi IV. törvény 176. § (2) bekezdés b) pont, (3)–(4) bekezdés, Btk. 221. § (2) bekezdés b) pont és (3)–(4) bekezdés],
 
-4. szándékosan elkövetett súlyos testi sértés, és annak minősített esetei [Btk. 170. § (2)–(6) bekezdés],
+7. visszaélés radioaktív anyaggal (1978. évi IV. törvény 264. §), visszaélés nukleáris létesítmény üzemeltetésével (1978. évi IV. törvény 264/A. §), visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), környezetkárosítás [1978. évi IV. törvény 280. § (1) és (2) bekezdés, Btk. 241. § (1) bekezdés], természetkárosítás [1978. évi IV. törvény 281. § (1)–(3) bekezdés, Btk. 242. § (1)–(2) bekezdés, 243. § (1)–(2) bekezdés], veszélyes hulladékra elkövetett, a hulladékgazdálkodás rendjének megsértése [1978. évi IV. törvény 281/A. § (2) bekezdés, Btk. 248. § (2) bekezdés], illetve ózonréteget lebontó anyaggal visszaélés [Btk. 249. § (1) bekezdés], radioaktív anyaggal visszaélés (Btk. 250. §), nukleáris létesítmény üzemeltetésével visszaélés (Btk. 251. §), atomenergia alkalmazásával visszaélés (Btk. 252. §),
 
-5. foglalkozás körében elkövetett veszélyeztetés (Btk. 171. §),
+8. állam elleni bűncselekmény (1978. évi IV. törvény X. fejezet, Btk. XXIV. Fejezet),
 
-bd) egyes szabadság és az emberi méltóság elleni bűncselekmények:
+9. visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), visszaélés bizalmas minősítésű adattal (1978. évi IV. törvény 222. §), illetve minősített adattal visszaélés (Btk. 265. §),
 
-1. kényszerítés (Btk. 174. §),
+10. hivatali bűncselekmények (1978. évi IV. törvény XV. fejezet, IV. cím Btk. XXVIII. Fejezet),
 
-2. a lelkiismereti és vallásszabadság megsértése (Btk. 174/A. §),
+11. hivatalos személy elleni bűncselekmények (1978. évi IV. törvény XV. fejezet V. cím, Btk. XXIX. Fejezet),
 
-3. közösség tagja elleni erőszak (Btk. 174/B. §),
+12. közveszélyokozás [1978. évi IV. törvény 259. § (1)–(3) és (5) bekezdés], közérdekű üzem működésének megzavarása (1978. évi IV. törvény 260. §, Btk. 323. §), terrorcselekmény (1978. évi IV. törvény 261. §, Btk. 314–316. §), légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §, Btk. 321. §), illetve terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), jármű hatalomba kerítése (Btk. 320. §), közveszély okozása [Btk. 322. § (1)–(4) bekezdés], robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §),
 
-4. az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (Btk. 174/C. §),
+13. nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §, Btk. 327. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), illetve nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §),
 
-5. személyi szabadság megsértése (Btk. 175. §),
+14. rémhírterjesztés (1978. évi IV. törvény 270. §, Btk. 337. §), közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §, Btk. 338. §), garázdaság (1978. évi IV. törvény 271. §, Btk. 339. §),
 
-6. emberrablás (Btk. 175/A. §),
+15. embercsempészés (1978. évi IV. törvény 218. §, Btk. 353. §),
 
-7. emberkereskedelem (Btk. 175/B. §),
+16. rablás (1978. évi IV. törvény 321. §, Btk. 365. §), kifosztás (1978. évi IV. törvény 322. §, Btk. 366. §), zsarolás (1978. évi IV. törvény 323. §, Btk. 367. §), önbíráskodás (1978. évi IV. törvény 273. §, Btk. 368. §),
 
-8. magánlaksértés bűntette [Btk. 176. § (2) bekezdés b) pont, (3) és (4) bekezdés],
+17. lopás (1978. évi IV. törvény 316. §, Btk. 370. §), sikkasztás (1978. évi IV. törvény 317. §, Btk. 372. §), csalás (1978. évi IV. törvény 318. §, Btk. 373. §), hűtlen kezelés (1978. évi IV. törvény 319. §, Btk. 376. §), hanyag kezelés (1978. évi IV. törvény 320. §, Btk. 377. §), rongálás (1978. évi IV. törvény 324. §, Btk. 371. §), orgazdaság (1978. évi IV. törvény 326. §, Btk. 379. §), jármű önkényes elvétele (1978. évi IV. törvény 327. §, Btk. 380. §), illetve információs rendszer felhasználásával elkövetett csalás (Btk. 375. §),
 
-be) egyes nemi erkölcs elleni bűncselekmények:
+18. pénzhamisítás (1978. évi IV. törvény 304. §, Btk. 389. §), pénzhamisítás elősegítése (1978. évi IV. törvény 304/A. §, Btk. 390. §),
 
-1. erőszakos közösülés (Btk. 197. §),
+19. a 2011. december 31-ig hatályban volt csempészet,
 
-2. szemérem elleni erőszak (Btk. 198. §),
+20. költségvetési csalás (1978. évi IV. törvény 310. §, Btk. 396. §),
 
-3. megtévesztéssel, erőszakkal, avagy az élet vagy testi épség ellen irányuló közvetlen fenyegetéssel elkövetett kerítés [Btk. 207. § (3) bekezdés b) pont],
+21. pénzmosás (1978. évi IV. törvény 303. §, Btk. 399. §),
 
-bf) egyes államigazgatás, igazságszolgáltatás és a közélet tisztasága elleni bűncselekmények:
+22. számítástechnikai rendszer és adatok elleni bűncselekmény (1978. évi IV. törvény 300/C. §), számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása (1978. évi IV. törvény 300/E. §), illetve információs rendszer vagy adat megsértése (Btk. 423. §), információs rendszer védelmét biztosító technikai intézkedés kijátszása (Btk. 424. §) vagy
 
-1. embercsempészés (Btk. 218. §),
-
-2. visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §),
-
-3. visszaélés bizalmas minősítésű adattal (Btk. 222. §),
-
-4. hivatali bűncselekmények (Btk. XV. fejezet, IV. cím),
-
-5. hivatalos személy elleni bűncselekmények (Btk. XV. fejezet V. cím),
-
-bg) egyes közbiztonság elleni bűncselekmények:
-
-1. közveszélyokozás [Btk. 259. § (1)–(3) és (5) bekezdés],
-
-2. közérdekű üzem működésének megzavarása (Btk. 260. §),
-
-3. terrorcselekmény (Btk. 261. §),
-
-4. nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §),
-
-5. légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §),
-
-6. visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §),
-
-7. visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §),
-
-8. visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §),
-
-9. bűnszervezetben részvétel (Btk. 263/C. §),
-
-10. visszaélés radioaktív anyaggal (Btk. 264. §),
-
-11. visszaélés nukleáris létesítmény üzemeltetésével (Btk. 264/A. §),
-
-12. visszaélés atomenergia alkalmazásával (Btk. 264/B. §),
-
-13. visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §),
-
-14. visszaélés méreggel (Btk. 265. §),
-
-bh) egyes köznyugalom elleni bűncselekmények:
-
-1. rémhírterjesztés (Btk. 270. §),
-
-2. közveszéllyel fenyegetés (Btk. 270/A. § ),
-
-3. garázdaság (Btk. 271. §),
-
-4. önbíráskodás (Btk. 273. §),
-
-bi) egyes közegészség elleni bűncselekmények:
-
-1. környezetkárosítás, [Btk. 280. § (1) és (2) bekezdés],
-
-2. természetkárosítás [Btk. 281. § (1)–(3) bekezdés],
-
-3. veszélyes hulladékra elkövetett, a hulladékgazdálkodás rendjének megsértése [Btk. 281/A. § (2) bekezdés],
-
-4. visszaélés kábítószerrel (Btk. 282–282/C. §),
-
-5. visszaélés kábítószer-prekurzorral (Btk. 283/A. §),
-
-bj) egyes gazdálkodási kötelességeket és a gazdálkodás rendjét sértő bűncselekmények:
-
-1. számítástechnikai rendszer és adatok elleni bűncselekmény (Btk. 300/C. §),
-
-2. számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása (Btk. 300/E. §),
-
-bk) egyes pénz- és bélyeghamisítás bűncselekmények:
-
-1. pénzmosás (Btk. 303. §),
-
-2. pénzhamisítás (Btk. 304. §),
-
-3. pénzhamisítás elősegítése (Btk. 304/A. §),
-
-bl) költségvetési csalás (Btk. 310. §), a 2011. december 31-ig hatályban volt csempészet,
-
-bm) egyes vagyon elleni bűncselekmények:
-
-1. lopás (Btk. 316. §),
-
-2. sikkasztás (Btk. 317. §),
-
-3. csalás (Btk. 318. §),
-
-4. hűtlen kezelés (Btk. 319.§),
-
-5. hanyag kezelés (Btk. 320. §),
-
-6. rablás (Btk. 321. §),
-
-7. kifosztás (Btk. 322. §),
-
-8. zsarolás (Btk. 323. §),
-
-9. rongálás (Btk. 324. §),
-
-10. orgazdaság (Btk. 326.§),
-
-11. jármű önkényes elvétele (Btk. 327. §),
-
-vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt, és a (4) bekezdésben meghatározott időtartam még nem telt el;
+23. bűnszervezet keretében elkövetett bűntett;
 
 c) akivel szemben a b) pontban meghatározott szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás van folyamatban, a büntetőeljárás jogerős befejezéséig.
 

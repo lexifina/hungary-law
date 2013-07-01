@@ -2,7 +2,7 @@
 
 30. § (1) A nukleáris védettség biztosítja
 
-a) a nukleáris és más radioaktív anyagok jogtalan eltulajdonításának, a Btk. szerinti visszaélés radioaktív anyaggal (264. §), a szabotázs, valamint a nukleáris vagy más radioaktív anyaggal való közveszélyokozás, környezetkárosítás elkövetésének megelőzését;
+a) a nukleáris és más radioaktív anyagok jogtalan eltulajdonításának, a Btk. szerinti radioaktív anyaggal visszaélés (250. §), a szabotázs, valamint a nukleáris vagy más radioaktív anyaggal való közveszély okozása, környezetkárosítás elkövetésének megelőzését;
 
 b) a fenyegetettség mindenkori szintje alapján a fizikai védelmet a használatban lévő, tárolás vagy szállítás alatt álló nukleáris és más radioaktív anyagok jogtalan eltulajdonítása, valamint a szabotázs ellen;
 

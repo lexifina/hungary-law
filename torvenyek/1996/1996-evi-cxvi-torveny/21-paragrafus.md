@@ -8,7 +8,7 @@ a) ha a tulajdont szerző természetes személyt, illetve a Polgári Törvényk�
 
 aa) szándékos bűncselekmény elkövetése miatt vagy
 
-ab) a Btk. 259. § (4) bekezdésében, a 260. § (6) bekezdésében, a 264. § (4) bekezdésében, a 264/C. § (4) bekezdésében, a 280. § (3) bekezdésében, a 281. § (4) bekezdésében és a 281/A. § (3) bekezdésében meghatározott bűncselekmény miatt
+ab) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 259. § (4) bekezdésében, a 260. § (6) bekezdésében, a 264. § (4) bekezdésében, a 264/C. § (4) bekezdésében, a 280. § (3) bekezdésében, a 281. § (4) bekezdésében és a 281/A. § (3) bekezdésében meghatározott bűncselekmény, illetve a Btk. 241. § (2) bekezdésében, 242. § (3) bekezdésében, 243. § (3) bekezdésében, 248. § (3) bekezdésében, 249. § (2) bekezdésében, 250. § (4) bekezdésében, 322. § (5) bekezdésében, 323. § (5) bekezdésében vagy 326. § (7) bekezdésében meghatározott bűncselekmény miatt
 
 jogerősen elítélte, és a büntetett előélethez fűződő hátrányos jogkövetkezmények alól még nem mentesült, valamint
 

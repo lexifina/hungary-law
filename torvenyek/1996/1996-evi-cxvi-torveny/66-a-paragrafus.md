@@ -4,4 +4,6 @@
 
 (3) Azon foglalkoztatottak esetében, akik munkaköre az Atvmtv. az e törvény 11. § (3) bekezdését módosító rendelkezésének hatálybalépését megelőzően is a 11. § (3) bekezdés hatálya alá tartozott, a Btk. 221–222. §, 259. § (5) bekezdés, 264/A. §, 264/B. §, 265. §, 270. §, 270/A. §, 280. § (1) és (2) bekezdés, 281. § (1)–(3) bekezdés, 281/A. § (2) bekezdés és a 303. § szerinti bűncselekmények esetében csak a hatálybalépést követő elkövetést, vagy emiatt indult büntetőeljárást lehet figyelembe venni.
 
+(3a) A 2013. július 1-jét megelőzően már foglalkoztatottak tekintetében a visszaélés új pszichoaktív anyaggal bűncselekmény esetében csak a 2013. július 1-jét követő elkövetést vagy emiatt indult büntetőeljárást lehet figyelembe venni.
+
 (4)

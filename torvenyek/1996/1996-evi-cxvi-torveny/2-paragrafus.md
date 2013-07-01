@@ -78,11 +78,19 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 34. fizikai védelmi terv: a fizikai védelmi rendszer működését, az elrettentés, észlelés, késleltetés és elhárítás fizikai védelmi funkciók konkrét megvalósulását leíró terv;
 
-35. szabotázs: nukleáris vagy más radioaktív anyag nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint a radiológiai következmények szempontjából jelentős rendszer, rendszerelem ellen irányuló tevékenységgel szándékosan elkövetett – a Btk. szerinti – közveszélyokozás (259. §), közérdekű üzem működésének megzavarása (260. §) vagy kísérletének, előkészületének, szándékos környezetkárosítás (280. §) vagy kísérletének rendkívüli esemény bekövetkezését célzó elkövetése;
+35. szabotázs: nukleáris vagy más radioaktív anyag nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint a radiológiai következmények szempontjából jelentős rendszer, rendszerelem ellen irányuló tevékenységgel szándékosan elkövetett – a Btk., illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti – közveszély okozása, közérdekű üzem működésének megzavarása vagy kísérletének, előkészületének, szándékos környezetkárosítás vagy kísérletének rendkívüli esemény bekövetkezését célzó elkövetése;
 
-36. nukleáris vagy más radioaktív anyaggal elkövetett közveszélyokozás, környezetkárosítás: nukleáris vagy más radioaktív anyaggal elkövetett – a Btk. szerinti – szándékos közveszélyokozás (259. §) vagy kísérlete, előkészülete, továbbá szándékos környezetkárosítás (280. §) vagy kísérlete;
+36. nukleáris vagy más radioaktív anyaggal elkövetett közveszély okozása, környezetkárosítás:
 
-37. nukleáris vagy más radioaktív anyag jogtalan eltulajdonítása: nukleáris vagy más radioaktív anyag a Btk. szerinti ellopása (316. §) vagy elrablása (321. §);
+a) 2013. június 30-ig hatályban volt, az 1978. évi IV. törvény szerinti nukleáris vagy más radioaktív anyaggal elkövetett szándékos közveszélyokozás (259. §) vagy kísérlete, előkészülete, továbbá szándékos környezetkárosítás (280. §) vagy kísérlete,
+
+b) nukleáris vagy más radioaktív anyaggal elkövetett – a Btk. szerinti – szándékos környezetkárosítás (241. §) vagy kísérlete, továbbá szándékos közveszély okozása (322. §) vagy kísérlete, előkészülete;
+
+37. nukleáris vagy más radioaktív anyag jogtalan eltulajdonítása:
+
+a) nukleáris vagy más radioaktív anyagnak a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti ellopása (316. §) vagy elrablása (321. §),
+
+b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Btk. szerinti rablás (365. §) vagy lopás (370. §);
 
 38. ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának kizárása, a környezet elemeitől történő elszigeteléssel;
 
