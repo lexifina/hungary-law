@@ -50,19 +50,19 @@ da) a szolgálati tevékenység, a készenléti és ügyeleti szolgálati rendsz
 
 db) az önkéntes tartalékos őrzésvédelmi és a katonai rendészeti tevékenység teljesítését,
 
-dc) a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,
+dc) a személyi szabadság korlátozásának eljárási szabályait és a végrehajtásának módját, a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,
 
 e) a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe, irányítása, fenntartói irányítása és felügyelete alá tartozó, valamint a Honvédség hadrendje szerinti szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
 
-f) a Honvédség személyi állományának élet-, szolgálati, és munkakörülményeivel összefüggő juttatásainak, ideértve az egyes szociális juttatások, a laktanyai elhelyezés, és a lakhatást célzó ellátás jogosultjainak körét, feltételeit és rendjét,
+f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, továbbá a honvédségi munkavállalóknak és a kormánytisztviselőknek nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások körét, a jogosultság feltételeit és rendjét, továbbá a külföldi szolgálatot teljesítő és külföldi képzésben részt vevő honvédségi munkavállalók és kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
 
 g) a NATO-NYEU központi nyilvántartó, a NATO-NYEU központi rejtjel elosztó hatóság működési rendjét, valamint a nyilvántartó rendszer működéséhez szükséges általános követelményeket és eljárásokat,
 
-h) a meg nem térülő károk leírással és törléssel történő rendezésének és nyilvántartásának sajátos szabályait,
+h) a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,
 
 i) az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 
-j) honvédelmi ágazatban dolgozók igazolványának fajtáit, az igazolványok kezelését és kiadását,
+j) a Honvédségnél rendszeresített igazolványok fajtáit, az igazolványok kezelését és kiadását,
 
 k) a behívásra tervezhető létszámot, a katonai szolgálat időtartamát, a katonai szolgálatra való behívás időpontját,
 
@@ -74,6 +74,8 @@ n) a szövetségi és honi védelmi infrastruktúra működésének biztosítás
 
 o) a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és használatukra vonatkozó szabályokat,
 
-p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait.
+p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait,
+
+q) a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy feladatkörükben eljárva a honvédelemért felelős miniszterrel egyetértésben, rendeletben határozzák meg ágazatuk honvédelmi feladatait, valamint az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.

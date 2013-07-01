@@ -14,4 +14,6 @@ b) a helyi védelmi bizottság illetékességi területén működő, a helyi v�
 
 c) a fővárosi és megyei kormányhivatal képviselője,
 
-d) különleges jogrend bevezetése esetén a katonai igazgatási szerv képviselője.
+d) különleges jogrend bevezetése esetén a katonai igazgatási szerv képviselője,
+
+e) a helyi védelmi bizottság titkára.

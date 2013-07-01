@@ -4,7 +4,7 @@
 
 (2) A Honvédség tényleges katonai és a rendvédelmi szervek hivatásos állományú tagjainak szolgálati viszonyára vonatkozó szabályok rendeletben – a békeidőszakban irányadó szabályoktól eltérően – állapíthatók meg. Rendelet alapján:
 
-a) szünetel a Honvédség hivatásos állományába történő felvétel,
+a) szünetel a Honvédség hivatásos állományába történő felvétel, továbbá a hivatásos szolgálati viszony lemondással nem szüntethető meg,
 
 b) a szolgálati idő kezdete és vége a megelőző védelmi helyzethez, rendkívüli állapothoz vagy szükségállapothoz igazodóan szabályozható,
 

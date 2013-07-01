@@ -4,7 +4,7 @@ a) az ország egész területére, vagy több megyét érintő részére a Korm�
 
 b) illetékességi területén a megyei, fővárosi (a továbbiakban együtt: megyei) védelmi bizottság elnöke, valamint a polgármester,
 
-c) a törvényben meghatározott esetben és feltételek szerint a katonai igazgatás területi szervének vezetője [a továbbiakban az a)–c) pontban felsoroltak együtt: igénybevételi hatóság].
+c) a törvényben meghatározott esetben és feltételek szerint a katonai igazgatás területi szervének vezetője, továbbá a (6) bekezdés szerinti esetben a lőtér és a gyakorlótér működtetéséért felelős parancsnok [a továbbiakban az a)–c) pontban felsoroltak együtt: igénybevételi hatóság].
 
 (2) A Kormány rendeletében meghatározott eljárási szabályok szerint elrendeli
 
@@ -36,6 +36,6 @@ a) megállapítja a helyi jellegű szolgáltatások és szolgáltatásra kötele
 
 b) nyilvántartást vezet, amelyben elősegíti a megyei védelmi bizottság elnökének, valamint a helyi védelmi bizottság illetékességi területén a polgármesterek hatáskörébe tartozó igénybevételi jog gyakorlását, koordinálja az igénybevétel helyi szintű végrehajtását.
 
-(6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője jogosult.
+(6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője, lőterek és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésére pedig a lőtér és gyakorlótér működtetéséért felelős parancsnok jogosult.
 
 (7) Rendkívüli állapot vagy szükségállapot idején, ha az (1) bekezdés b) és c) pontja szerinti igénybevételi hatóság intézkedésének időigénye miatt a honvédségi érdekek sérelmének súlyos és közvetlen veszélye áll fenn, az illetékes katonai szervezet parancsnoka közvetlenül a szolgáltatásra kötelezettel közölt határozattal elrendelheti a gépjárművek, műszaki munkagépek, üzemanyag-technikai eszközök, valamint a szükséges üzemanyag igénybevételét.

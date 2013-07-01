@@ -17,3 +17,5 @@
 (Az esküt tevő meggyőződése szerint:)
 
 „Isten engem úgy segéljen!”
+
+(4) A Honvédség hadrendje szerinti szervezeteknél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható.

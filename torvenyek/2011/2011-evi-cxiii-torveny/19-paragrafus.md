@@ -8,7 +8,7 @@
 
 a) Magyarország biztonság- és védelempolitikájának alapelveit, valamint az azokban előírt feladatok végrehajtásának főbb irányait és feltételeit,
 
-b) a Honvédség részletes bontású létszámát, főbb haditechnikai eszközeit és biztosítja az ezekhez szükséges anyagi forrásokat.
+b) a Honvédség részletes bontású létszámát, ide értve az önkéntes tartalékosokat is, főbb haditechnikai eszközeit és biztosítja az ezekhez szükséges anyagi forrásokat.
 
 (2) Az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága folyamatosan figyelemmel kíséri a Honvédség feladatainak megvalósítását, felkészültsége és felszereltsége színvonalát, a rendelkezésre bocsátott anyagi erőforrások felhasználását.
 

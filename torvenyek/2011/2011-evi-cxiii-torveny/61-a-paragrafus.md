@@ -1,0 +1,3 @@
+61/A. § (1) Műveleti területen végzett katonai tevékenység során a katona, amennyiben azt a műveletet folytató többnemzeti katonai szervezet műveleti utasítása, harctevékenységi előírásokat tartalmazó dokumentuma megengedi, az abban foglaltak szerint, a nemzetközi jog normáival összhangban testi sérülés okozására alkalmas kényszerítő eszközt is használhat, azonban annak használata nem irányulhat az emberi élet kioltására.
+
+(2) Az (1) bekezdés alkalmazása során nem minősül lőfegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.
