@@ -24,7 +24,7 @@ k) a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII
 
 l) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.), valamint
 
-m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.),
+m)
 
 n) a viszontbiztosítókról szóló 2007. évi CLIX. törvény (a továbbiakban: Vbit.),
 
@@ -39,3 +39,5 @@ r) a befektetési alapkezelőkről és a kollektív befektetési formákról sz�
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
 (2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.
+
+(3) A Felügyelet látja el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdésének a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltatók – ide nem értve a pénzügyi, kiegészítő pénzügyi szolgáltatások közül kizárólag pénzfeldolgozást végző szolgáltatók – vonatkozásában a Pmt.-ben meghatározott felügyeleti feladatokat.

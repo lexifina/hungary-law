@@ -36,7 +36,9 @@ irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékér
 
 f) az 50. § (3) bekezdésében meghatározottak alapján alkalmazandó formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására
 
-vonatkozó részletes szabályokat.
+g) az 1. mellékletben meghatározott kötelező elektronikus kapcsolattartással érintett ügyekben a nem természetes személy, szervezet és a Felügyelet között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá a Felügyelet által működtetett kézbesítési tárhely működtetésére és használatára.
+
+vonatkozó részletes szabályokat,
 
 (2) Felhatalmazást kap a Felügyelet elnöke, hogy a pénzügyi közvetítőrendszer biztonságos működése érdekében az érintett tevékenység folytatására jogosult valamennyi, a 4. §-ban meghatározott törvények hatálya alá tartozó személyre és szervezetre kiterjedően határozott időre, de legfeljebb kilencven napra egyes, a 4. §-ban meghatározott törvények hatálya alá tartozó tevékenységek végzését, e tevékenységek körébe tartozó szolgáltatások nyújtását, ügyletek kötését, termékek forgalmazását rendeletben tiltsa meg, korlátozza vagy feltételekhez kösse.
 
