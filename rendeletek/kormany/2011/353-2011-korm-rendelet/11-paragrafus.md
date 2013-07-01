@@ -1,4 +1,4 @@
-## 10. §[^15] Adósságmegújító hitel esetén nem kell alkalmazni a 3-4. §-t, az 5. § (1) bekezdését, az 5. § (2a) bekezdés a)–c), g) és h) pontját, az 5. § (3) bekezdés d) pont db) alpontját, a 6. § (1) bekezdés d) pontját, a 6. § (2) bekezdés a) pontját, a 7. § (1) bekezdés b) pontját és a 9. § (1) bekezdés b) pontját.
+## 10. §[^24] Adósságmegújító hitel és kezesség-, illetve garanciavállalás esetén nem kell alkalmazni a 3–4. §-t, az 5. § (1) bekezdését, az 5. § (2a) bekezdés a)–c), g) és h) pontját, az 5. § (3) bekezdés d) pont db) alpontját, a 6. § (1) bekezdés d) pontját, a 6. § (2) bekezdés a) pontját és a 7. § (1) bekezdés b) pontját, továbbá adósságmegújító hitel esetén a 9. § (1) bekezdés b) pontját.
 
 ## 3. A kormányzati szektorba sorolt egyéb szervezetek ügyleteinek engedélyezése
 
@@ -16,4 +16,4 @@ a) a kormányzati szektorba sorolt egyéb szervezetnek a kérelem benyújtását
 
 b) a kormányzati szektorba sorolt egyéb szervezet tárgyévi üzleti tervét vagy nyilatkozatot arról, hogy üzleti terv készítését az alapító, tulajdonos szervezet, illetve az alapítói, tulajdonosi jogokat gyakorló szervezet nem írta elő.
 
-[^15]: A 10. § a 271/2012. (IX. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^24]: A 10. § a 234/2013. (VI. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
