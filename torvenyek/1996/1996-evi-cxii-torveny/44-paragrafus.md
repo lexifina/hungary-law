@@ -30,6 +30,12 @@ b) más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikusp
 
 c) olyan tisztséget tölt be, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
 
-(6) Akivel szemben a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetőleg külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig vezető állású személyként nem foglalkoztatható, illetve az ilyen feladatok általa történő ellátását fel kell függeszteni.
+(6) Akivel szemben
+
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében,
+
+b) a Btk. XXVII. Fejezetében vagy XXXV–XLIII. Fejezetében
+
+meghatározott bűncselekmény miatt az ügyész vádat emelt, illetve külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig vezető állású személyként nem foglalkoztatható, illetve az ilyen feladatok általa történő ellátását fel kell függeszteni.
 
 (7) Nyilvános részvénytársasági formában működő hitelintézet alapszabálya – a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 295. §-ának (2) bekezdésétől eltérően – az igazgatósági tagok visszahívását a szavazatok egyszerű többségénél nagyobb, de legfeljebb háromnegyedes arányú határozathoz is kötheti.

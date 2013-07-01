@@ -58,9 +58,11 @@ c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek 
 
 (7) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
-a) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
+a) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
 
-b) a magyar bűnüldöző szerv, illetőleg a pénzügyi információs egységként működő hatóság – a Pmt.-ben meghatározott feladatkörében eljárva, vagy nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv, illetőleg külföldi pénzügyi információs egység írásbeli megkeresése teljesítése céljából, ha a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
+b) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, amennyiben a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől,
+
+c) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, amennyiben a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
 (8) A Felügyelet, valamint az MNB jogszabályban a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
 
