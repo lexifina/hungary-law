@@ -6374,16 +6374,6 @@
 
 ## Bp. XXIII. kerület 015
 
-3. számú melléklet a 105/1999. (XII. 25.) FVM rendelethez
+3. számú melléklet a 105/1999. (XII. 25.) FVM rendelethez[^16]
 
-A földminősítő igazolvány
-
-| A földminősítő igazolvány |
-
-| előlap |  | hátlap |
-
-| ……………. Megyei Földhivatal Földminősítő igazolvány (igazolvány száma) |  | Az igazolvány tulajdonosa az 1994. évi LV. törvény értelmében földminősítési, valamint helyszíni ellenőrzési tevékenységre jogosult. A munkavégzés érdekében bármely ingatlanra – a lakás és lakás céljára szolgáló helyiségek kivételével – beléphet, ott földminősítéssel, helyszíni ellenőrzéssel kapcsolatos munkákat végezhet. Az igazolvány a kiállítástól számított 5 évig érvényes. Kelt: ………………………….. P. H. |
-
-| (név) | A fénykép helye |
-
-|  | ………………………… a tulajdonos aláírása |  | ………………………………. aláírás |
+[^16]: A 3. számú melléklet az 57/2013. (VI. 29.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
