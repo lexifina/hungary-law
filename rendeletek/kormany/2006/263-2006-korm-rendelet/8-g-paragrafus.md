@@ -1,3 +1,3 @@
-## A katonai légügyi hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^191]
+## A katonai légügyi hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^193]
 
-[^191]: A második 8/G. §-t megelőző alcímet a 177/2011. (IX. 1.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^193]: A második 8/G. §-t megelőző alcímet a 177/2011. (IX. 1.) Korm. rendelet 12. § (4) bekezdése iktatta be.

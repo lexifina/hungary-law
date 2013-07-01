@@ -76,6 +76,8 @@ c) a nemzeti víziút használatának idegen állam lobogója alatt közlekedő 
 
 kapcsolatos ügyekben.
 
+(2a)[^124] Az Útügyi, Vasúti és Hajózási Hivatal a (2) bekezdés 12., 14., 19–20. pontjában foglalt feladataival összefüggésben nyilvántartást vezet, mely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
 (3) Hajózási igazgatási feladatkörében az Útügyi, Vasúti és Hajózási Hivatal ellátja
 
 a) a víziutak nyilvántartásával,
@@ -98,7 +100,7 @@ i) a tengeri hajózási szolgálatot teljesítő személy egészségi alkalmass�
 
 j) elemi csapás vagy egyéb veszély esetén az úszólétesítmények ideiglenes igénybevételével,
 
-k)[^124] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
+k)[^125] Magyarország konzuli tisztviselőjének a hajóokmányok érvényességének ideiglenes meghosszabbítására való felkérésével,
 
 l) az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító elismert szervezetek elismerését megalapozó javaslathoz az elismerést kérelmező szervezet auditálásával, továbbá az elismerést elnyert szervezet tevékenységének ellenőrzésével,
 
@@ -116,6 +118,8 @@ r) a hajózási képesítések nyilvántartásával, ideértve az elektronikus n
 
 ## kapcsolatos feladatokat.
 
+(3a)[^126] A (3) bekezdés d) pontja szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A Vkt. 48/B. §-ának (1) bekezdésében meghatározott folyami információs szolgáltatás működtetéséhez, ellenőrzéséhez kapcsolódó feladatokat az Útügyi, Vasúti és Hajózási Hivatal végzi.
 
 (5) A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a hajózási hatóság jár el a következő tevékenységek tekintetében:
@@ -130,4 +134,6 @@ c) a Vkt.-ben előírt képesítési követelményekkel összefüggő képzési 
 [^121]: A 7. § a 326/2010. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^122]: A 7. § (1) bekezdés b. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^123]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^124]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^124]: A 7. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^125]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^126]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.
