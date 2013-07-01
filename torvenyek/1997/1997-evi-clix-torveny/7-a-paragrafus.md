@@ -1,4 +1,4 @@
-7/A. § (1) A rendőrség a fegyveres biztonsági őrökről – a hatósági szolgálati igazolványok hitelességének és a fegyveres biztonsági őrök tevékenységének az ellenőrzése céljából – nyilvántartást vezet.
+7/A. § (1) A rendőrség a fegyveres biztonsági őrökről – a hatósági szolgálati igazolványok hitelességének és a fegyveres biztonsági őrök tevékenységének az ellenőrzése céljából – közhiteles hatósági nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
