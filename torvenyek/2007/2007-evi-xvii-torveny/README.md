@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2012-01-01 | 2011. évi CLXVIII. törvény | 2007-17-00-00.19 |
 | 2012-04-01 | 2011. évi CLXXIV. törvény | 2007-17-00-00.20 |
 | 2012-12-28 | 2012. évi CCXIII. törvény | 2007-17-00-00.21 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2007-17-00-00.22 |

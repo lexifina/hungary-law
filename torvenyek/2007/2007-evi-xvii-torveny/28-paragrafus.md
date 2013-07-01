@@ -94,4 +94,4 @@ f) a kérelemre nyilvántartásba vett ügyfél számára a nyilvántartott adat
 
 (7) A mezőgazdasági és vidékfejlesztési támogatási szerv, a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti információs rendszeren keresztül az élelmiszerlánc-felügyeleti szerv a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
 
-(8) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását az ügyfél-azonosító szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél részére csak egy ügyfél-azonosító szám állapítható meg.
+(8) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását az ügyfél-azonosító szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél részére csak egy ügyfél-azonosító szám állapítható meg. Az ügyfél-nyilvántartási rendszer az ügyfél-azonosító szám tekintetében közhiteles hatósági nyilvántartásnak minősül.
