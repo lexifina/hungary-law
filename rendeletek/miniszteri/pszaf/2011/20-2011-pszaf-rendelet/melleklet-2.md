@@ -1,152 +1,116 @@
-## 20110G20000020_2
+| ÖSSZEFOGLALÓ TÁBLÁZAT |
 
-2. melléklet a 20/2011. (X. 20.) PSZÁF rendelethez[^6]
+| Táblakód | Megnevezés | Gyakoriság |
 
-Tartalom
+| Pénzügyi vállalkozások és fióktelepek táblái |
 
-| I. RÉSZ | 5 |
+| 20B | A pénzügyi vállalkozás rendszeres negyedéves beszámolója | N | É | A |  |  |
 
-|  | AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK | 5 |
+| 20C | A pénzügyi vállalkozás engedélyezési feltételeknek való megfelelése | N | É | A |  |  |
 
-| I.1. Kapcsolódó jogszabályok | 5 |
+| 21A | PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Eszközök | N | É | A |  |  |
 
-| I.2. Rövidítések | 6 |
+| 21B | PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Források | N | É | A |  |  |
 
-| I.3. Fogalmak | 6 |
+| 21C | PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖTELEZETTSÉGEI | N | É | A |  |  |
 
-| I.4. Az adatszolgáltatás formai követelményei | 8 |
+| 21D | PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖVETELÉSEI | N | É | A |  |  |
 
-|  | I.4.1 Előkészített jelentés | 9 |
+| 21E | PÉNZÜGYI VÁLLALKOZÁSOK - TÁJÉKOZTATÓ ADATOK (Speciális tevékenységekkel kapcsolatban) | N | É | A |  |  |
 
-| I.5. Az adatszolgáltatás tartalmi követelményei | 9 |
+| 21H | PÉNZÜGYI VÁLLALKOZÁSOK - Határon átnyúló tevékenység |  |  |  |  | ENe |
 
-|  | I.5.1. A Felügyeleti mérleg és a kapcsolódó jelentések kitöltésének általános előírásai | 10 |
+| 21R | PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGADATOK RÉSZLETEZÉSE | N | É | A |  |  |
 
-|  | I.5.2. A felügyeleti díj adatszolgáltatás kitöltésének általános előírásai | 11 |
+| 22A | PÉNZÜGYI VÁLLALKOZÁSOK EREDMÉNYKIMUTATÁSA | N | É | A |  |  |
 
-|  | I.5.3. Szektor meghatározások | 12 |
+| 23B | PÉNZÜGYI VÁLLALKOZÁSOK – Lejárati összhangelemzés | N | É | A |  |  |
 
-| II. RÉSZ | 13 |
+| 23C | PÉNZÜGYI VÁLLALKOZÁSOK – Ügyfelekkel szembeni tőkekövetelések alakulása | N | É | A |  |  |
 
-| AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ RÉSZLETES SZABÁLYOK | 13 |
+| 24C | PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ELEMZÉS – ÜGYFELEKKEL SZEMBENI KÖVETELÉSEK KOCKÁZATI MONITORINGJA | N | É | A |  |  |
 
-|  | I. Fejezet | 13 |
+| 24D | PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ÖSSZETÉTEL- Minősítés - Fedezetek figyelembevételével | N | É | A |  |  |
 
-|  | NEGYEDÉVES JELENTÉS | 13 |
+| 24E | PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ÖSSZETÉTEL- Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) | N | É | A |  |  |
 
-| 20B A pénzügyi vállalkozás rendszeres negyedéves beszámolója | 13 |
+| 24F | PÉNZÜGYI VÁLLALKOZÁSOK - Értékvesztés és értékvesztés visszaírása | N | É | A |  |  |
 
-| 20C A pénzügyi vállalkozás engedélyezési feltételeknek való megfelelése | 14 |
+| 24K | Pénzügyi vállalkozások által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok |  |  |  | EH |  |
 
-| 21A PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Eszközök, valamint | 15 |
+| 24R | PÉNZÜGYI VÁLLALKOZÁSOK - Átstrukturált követelések állományának alakulása | N | É | A |  |  |
 
-| 21B PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Források | 15 |
+| 25A | PÉNZÜGYI VÁLLALKOZÁSOK – Követelések részletezése | N | É | A |  |  |
 
-| 21C PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖTELEZETTSÉGEI | 16 |
+| 25B | PÉNZÜGYI VÁLLALKOZÁSOK – Kötelezettségek részletezése | N | É | A |  |  |
 
-| 21D PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGEN KÍVÜLI KÖVETELÉSEI | 16 |
+| 25C | PÉNZÜGYI VÁLLALKOZÁSOK - A pénzmosás megelőzésével és a terrorizmus finanszírozással kapcsolatos adatok | N | É | A |  |  |
 
-| 21E PÉNZÜGYI VÁLLALKOZÁSOK - TÁJÉKOZTATÓ ADATOK (speciális tevékenységekkel kapcsolatosan) | 17 |
+| 27AA | PÉNZÜGYI VÁLLALKOZÁSOK - Fogyasztói panaszügyekre vonatkozó adatok I. | N | É | A |  |  |
 
-| 21R PÉNZÜGYI VÁLLALKOZÁSOK - MÉRLEGADATOK RÉSZLETEZÉSE | 18 |
+| 27AB | PÉNZÜGYI VÁLLALKOZÁSOK - Fogyasztói panaszügyekre vonatkozó adatok II. | N | É | A |  |  |
 
-| 22A PÉNZÜGYI VÁLLALKOZÁSOK EREDMÉNYKIMUTATÁSA | 20 |
+| L5 | A negyedévben értékesített fedezeti lakóingatlanok | N |  |  |  |  |
 
-| 23B PÉNZÜGYI VÁLLALKOZÁSOK - Lejárati összhangelemzés | 21 |
+| PVVDN | PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves) | N | É | A |  |  |
 
-| 23C PÉNZÜGYI VÁLLALKOZÁSOK - Ügyfelekkel szembeni tőkekövetelések alakulása | 22 |
+| PVFVDN | EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves) | N | É | A |  |  |
 
-| 24C PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ELEMZÉS - ÜGYFELEKKEL SZEMBENI KÖVETELÉSEK KOCKÁZATI MONITORINGJA | 23 |
+| PVAD | PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves) |  | É |  |  |  |
 
-| 24D PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ÖSSZETÉTEL - Minősítés - Fedezetek figyelembevételével 15 |
+| PVFAD | EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves) |  | É |  |  |  |
 
-| 24E PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ÖSSZETÉTEL - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken) | 32 |
+| Pénzpiaci alkuszok táblái |
 
-| 24F ÉRTÉKVESZTÉS ÉS ÉRTÉKVESZTÉS VISSZAÍRÁSA | 34 |
+| PUTAD | Független közvetítők felügyeleti alapdíj számítása |  | É |  |  |  |
 
-| 24R ÁTSTRUKTURÁLT KINTLÉVŐSÉGEK ÁLLOMÁNYÁNAK ALAKULÁSA | 35 |
+| Kód | Gyakoriság |  |  |  |  |  |
 
-| 25A PÉNZÜGYI VÁLLALKOZÁSOK - Követelések részletezése | 37 |
+| N | Negyedévente küldendő jelentés |  |  |  |  |  |
 
-| 25B PÉNZÜGYI VÁLLALKOZÁSOK - Kötelezettségek részletezése | 38 |
+| É | Évente küldendő jelentés |  |  |  |  |  |
 
-| 25C PÉNZÜGYI VÁLLALKOZÁSOK - A pénzmosás megelőzésével és a terrorizmus finanszírozással kapcsolatos adatok 40 |
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |  |
 
-| 27AA Fogyasztói panaszügyekre vonatkozó adatok I. | 42 |
+| EH | Előkészített havi jelentés (külön felhívás alapján) |  |  |  |  |  |
 
-| 27AB Fogyasztói panaszügyekre vonatkozó adatok II. | 43 |
+| ENe | Előkészített negyedéves jelentés (külön felhívás alapján) |  |  |  |  |  |
 
-| L5 A negyedévben értékesített fedezeti lakóingatlanok | 47 |
+| Jelentés kódja | Felügyeleti jelentéssel együtt kötelezően beküldendő mellékletek megnevezése | Rövid név |  |  |  |  |
 
-| PVVDN PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves) | 48 |
+| N | Negyedévente küldendő jelentés |  |  |  |  |  |
 
-| PVFVDN EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves) | 49 |
+|  | A pénzügyi vállalkozás rendszeres negyedéves beszámolója (20B) | szovjel |  |  |  |  |
 
-|  | II. fejezet | 50 |
+|  | Pénzügyi vállalkozás engedélyezési feltételeknek való megfelelése (20C) | kérdőív (ERA) |  |  |  |  |
 
-|  | ELŐKÉSZÍTETT JELENTÉS | 50 |
+| A | Auditált jelentés (évzáráskor ) |  |  |  |  |  |
 
-| II.1. Előkészített Havi jelentés (24K) | 50 |
+|  | A pénzügyi vállalkozás rendszeres negyedéves beszámolója (20B) | szovjel |  |  |  |  |
 
-| 24K Pénzügyi vállalkozások által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok | 50 |
+|  | Pénzügyi vállalkozás engedélyezési feltételeknek való megfelelése (20C) | kérdőív (ERA) |  |  |  |  |
 
-| II.2. Előkészített Negyedéves jelentés (21H) | 53 |
+|  | Éves beszámoló – mérleg | merleg |  |  |  |  |
 
-| 21H Pénzügyi vállalkozások - Határon átnyúló tevékenység | 53 |
+|  | Éves beszámoló – eredménykimutatás | erkim |  |  |  |  |
 
-|  | III. Fejezet | 54 |
+|  | Éves beszámoló – cash-flow | cashflow |  |  |  |  |
 
-|  | ÉVES JELENTÉS | 54 |
+|  | Éves beszámoló – kiegészítő melléklet | kiegmell |  |  |  |  |
 
-|  | PVAD | PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves) | 54 |
+|  | Könyvvizsgálói záradék vagy jelentés | konyvzar |  |  |  |  |
 
-| PVFAD EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves) | 54 |
+|  | Közgyűlési határozat vagy jegyzőkönyv | kozgyhat |  |  |  |  |
 
-|  | ÉVES AUDITÁLT JELENTÉS | 54 |
+|  | Adózott eredmény felhasználására vonatkozó határozat | erfeloszt |  |  |  |  |
 
-|  | IV. Fejezet | 55 |
+|  | Üzleti jelentés | uzljel |  |  |  |  |
 
-|  | ESETI JELENTÉS | 55 |
+## 20110G20000020_3
 
-| HPTPK Pénzügyi közvetítők adatai | 55 |
+2. melléklet a 20/2011. (X. 20.) PSZÁF rendelethez[^10]
 
-| PKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye | 55 |
-
-| PKVEZ Független közvetítők vezető állású személyei | 55 |
-
-| PKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye | 61 |
-
-| PKVEZ Független közvetítők vezető állású személyei | 62 |
-
-| V. Fejezet | 63 |
-
-| A PÉNZÜGYI VÁLLALKOZÁSOK TÖRZSADATAI - ÉVES, ESETI | 63 |
-
-| KTAPVE1 INTÉZMÉNYI ALAPADATOK | 63 |
-
-| KTAPVE2 BEJELENTÉS- ÉS ENGEDÉLYKÖTELES TISZTSÉGVISELŐK | 64 |
-
-| KTAPVE3 TULAJDONOS ADATAI | 64 |
-
-| KTAPVE4 MINŐSÍTETT BEFOLYÁS | 65 |
-
-| KTAPVE5 KÖNYVVIZSGÁLÓ ADATAI | 65 |
-
-| KTAPVE6 KISZERVEZÉS ADATOK | 65 |
-
-|  | VI. Fejezet | 66 |
-
-|  | PÉNZPIACI ALKUSZOK JELENTÉSEI - ESETI | 66 |
-
-| AHPTPK PÉNZPIACI ALKUSZ - Pénzügyi közvetítők adatai | 66 |
-
-| APKTEV PÉNZPIACI ALKUSZ - Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye | 66 |
-
-| APKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye | 69 |
-
-| PÉNZPIACI ALKUSZOK JELENTÉSEI - ÉVES | 70 |
-
-|  | PUTAD Független közvetítők felügyeleti alapdíj számítása | 70 |
+KITÖLTÉSI ÚTMUTATÓ
 
 I. RÉSZ
 
@@ -222,7 +186,7 @@ a devizakölcsönök törlesztési árfolyamának rögzítését érintő megté
 
 a statisztikai számjel elemeiről és nómenklatúráiról szóló 21/2012. (IV. 16.) KIM rendelet [a továbbiakban: 21/2012. (IV. 16.) KIM rendelet],
 
-a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 14/2011. (X. 13.) MNB rendelet (a továbbiakban: MNB rendelet),
+a jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 20/2012. (X.15.) MNB rendelet (a továbbiakban: MNB rendelet),
 
 a felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről szóló 1/2012. (II. 23.) PSZÁF rendelet.
 
@@ -246,7 +210,7 @@ Az alábbiakban közölt fogalmak az adatszolgáltatásra vonatkozó táblákra,
 
 Állampapír: a Tpt. 5. § (1) bekezdés 6. pontjában meghatározott értékpapír.
 
-Átstrukturált szerződések (2010. január 1-t követően), valamint újratárgyalt vagy prolongált szerződések (2010. január 1. előtt): a Hitkr. 2. § 48. pontja szerinti fogalom.
+Átstrukturált szerződések (2010. január 1-jét követően), valamint újratárgyalt vagy prolongált szerződések (2010. január 1. előtt): a Hitkr. 2. § 48. pontja szerinti fogalom.
 
 Befektetési jegy: a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény 3. § 15. pontja szerinti definíció alkalmazandó.
 
@@ -464,11 +428,13 @@ II. RÉSZ
 
 AZ ADATSZOLGÁLTATÁSRA VONATKOZÓ RÉSZLETES SZABÁLYOK
 
-I. Fejezet
+1. Fejezet
 
 NEGYEDÉVES JELENTÉS
 
-20B A pénzügyi vállalkozás rendszeres negyedéves beszámolója
+II. Rész 1. Fejezet 1. Pénzügyi vállalkozások szöveges beszámolói
+
+II. 1. 1. 1. - 20B A pénzügyi vállalkozás rendszeres negyedéves beszámolója
 
 A tábla célja
 
@@ -532,7 +498,7 @@ VII. Egyéb
 
 15. Tájékoztatást kell nyújtani, ha a pénzügyi vállalkozás a tárgynegyedévben kezdi el határon átnyúló tevékenység folytatását, ennek keretében pénzügyi szolgáltatás vagy kiegészítő pénzügyi szolgáltatás nyújtását. Szöveges kiegészítést kell nyújtani a 21H Határon átnyúló tevékenység táblában szolgáltatott adatok jelentős nagyságrendje, jelentős változása esetén a változás okairól.
 
-20C A pénzügyi vállalkozás engedélyezési feltételeknek való megfelelése
+II. 1. 1. 2. - 20C A pénzügyi vállalkozás engedélyezési feltételeknek való megfelelése
 
 A tábla célja
 
@@ -552,11 +518,11 @@ Részletes szabályok:
 
 5.3. A tárgyi feltételek meglétét kiszervezett tevékenység esetén a kiszervezést végző társaságra értelmezve kell megadni.
 
-21–27. TÁBLÁK
+II. Rész 1. Fejezet 2. Pénzügyi vállalkozások – Mérleg, mérlegen kívüli állomány és eredménykimutatás
 
-21A PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE – Eszközök, valamint
+II. 1. 2. 1. - 21A PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE – Eszközök
 
-21B PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Források
+II. 1. 2. 2. - 21B PÉNZÜGYI VÁLLALKOZÁSOK MÉRLEGE - Források
 
 A táblák célja
 
@@ -586,7 +552,7 @@ A 21B87 Értékelési tartalék sorban kell összegezni – a számviteli szabá
 
 A pénzügyi vállalkozásnak ugyanezen a táblákon kell közölni az auditált, éves beszámolónak megfelelő adatokat. Az év végén a 21A tábla i) oszlopában szereplő eszközök, illetve a 21B tábla d) oszlopban szereplő források auditált adatainak meg kell egyeznie a pénzügyi vállalkozások részére előírt éves beszámoló adataival.
 
-21C PÉNZÜGYI VÁLLALKOZÁSOK – MÉRLEGEN KÍVÜLI KÖTELEZETTSÉGEI
+II. 1. 2. 3. - 21C PÉNZÜGYI VÁLLALKOZÁSOK – MÉRLEGEN KÍVÜLI KÖTELEZETTSÉGEI
 
 A tábla célja
 
@@ -608,7 +574,7 @@ A tábla oszlopai
 
 A tételeket a szerződés szerinti devizanem alapján kell besorolni az a) forint, b) euró, c) egyéb deviza oszlopokba. A d) oszlopban szereplő érték az egyes tételek összesített értékét tartalmazza.
 
-21D PÉNZÜGYI VÁLLALKOZÁSOK – MÉRLEGEN KÍVÜLI KÖVETELÉSEI
+II. 1. 2. 4. - 21D PÉNZÜGYI VÁLLALKOZÁSOK – MÉRLEGEN KÍVÜLI KÖVETELÉSEI
 
 A tábla célja
 
@@ -634,35 +600,7 @@ A tábla oszlopai
 
 A tételeket a szerződés szerinti devizanem alapján kell besorolni az a) forint, b) euró, c) egyéb deviza oszlopokba. A d) oszlopban szereplő érték az egyes tételek összesített értékét tartalmazza.
 
-21E PÉNZÜGYI VÁLLALKOZÁSOK – TÁJÉKOZTATÓ ADATOK (speciális tevékenységekkel kapcsolatosan)
-
-A tábla célja
-
-A táblában a speciális tevékenységet (hitelreferencia szolgáltatást, a bankközi piacon pénzügyi ügynöki tevékenységet) végző pénzügyi vállalkozások jellemző adatait kell gyűjteni a rendelkezésre álló felügyeleti információk bővítési igényének kielégítése céljából.
-
-A táblát csak azoknak a pénzügyi vállalkozásoknak kell kitölteni és csak azt a részét, amely a Felügyelet által engedélyezett tevékenységre vonatkozik. Ezek a tevékenységek: a Hpt. 3. § (2) bekezdés d) pontja szerint a bankközi piacon pénzügyi ügynöki tevékenység, valamint a Hpt. 3. § (1) bekezdés k) pontja szerinti hitelreferencia szolgáltatási tevékenység.
-
-A tájékoztató adatokat tartalmazó táblázat az előzőekben hivatkozott tevékenységet végző pénzügyi vállalkozások – tevékenységük jellegének megfelelő – forgalmi-állományi adatainak áttekintésére szolgál.
-
-A tábla kitöltése
-
-A tábla az analitikai nyilvántartásokon alapul. A tájékoztató adatok kitöltése mellett a tevékenységhez kapcsolódó egyéb információkat továbbra is a 20B szöveges tábla VII. fejezetében kell bemutatni.
-
-A tábla kitöltése során az egyes tevékenységekhez kapcsolódó táblarészekre vonatkozó szabályok:
-
-1.) A bankközi piacon pénzügyi ügynöki tevékenységet végző intézményeknél a közvetített ügyletekre vonatkozó főbb forgalmi adatok
-
-A 21E111-21E116 sorokon a közvetített ügyletekre (spot, határidős, swap ügyletek, vásárolt és kiírt opció, egyéb) vonatkozó főbb forgalmi adatokat kell részletezni, amelyeket a 21E11 Ügyletek összesen soron kell összesíteni.
-
-2.) A hitelreferencia szolgáltató intézmények adatai
-
-A 21E211-21E213 sorokon a tárgynegyedévben, valamint a beszámolási időszak végéig a KHR rendszerből lehívott tranzakciók darabszámát kell közölni. A tárgynegyedévi oszlopban az adott negyedévben történt lehívásokat és azok eredménye szerinti összesítéseket darabszámban kell kimutatni, míg a halmozott oszlop a naptári éven belül a beszámolási időszak végéig összesített adatokat tartalmazza.
-
-Az Egyéb tájékoztató adatok alatt a lehívások vonatkozásában a kapcsolódó hitelszerződések típusa szerinti információkat kell megadni.
-
-A 21E2231-21E2232 sorokon kell bemutatni, hogy a tárgynegyedévben hány új tétel került felvételre – természetes személyek és gazdasági társaságok együttesen – a rendszerbe és mennyi volt a rendszerből kivezetettek tárgynegyedévi darabszáma.
-
-21R PÉNZÜGYI VÁLLALKOZÁSOK – MÉRLEGADATOK RÉSZLETEZÉSE
+II. 1. 2. 5. - 21R PÉNZÜGYI VÁLLALKOZÁSOK – MÉRLEGADATOK RÉSZLETEZÉSE
 
 A tábla célja
 
@@ -702,7 +640,7 @@ A 21R2 sor alatt összesített, és a felügyeleti mérleg eszközei között ki
 
 A felügyeleti mérleg forrás adatok részletezése során a 21R3 Hitelintézetekkel szembeni kötelezettségek sorból a felvett hiteleket külön sorokban, lejárat szerinti bontásban kell jelenteni. Az ügyfelekkel szembeni kötelezettségeket (21R4 sor) – a követelésekkel megegyező – szektor szerinti bontásban kell közölni. A 21R3 és 21R4 sorokat a felügyeleti mérleg vonatkozó adatával (21B1 és 21B2) egyezően kell kitölteni.
 
-22A PÉNZÜGYI VÁLLALKOZÁSOK EREDMÉNYKIMUTATÁSA
+II. 1. 2. 6. - 22A PÉNZÜGYI VÁLLALKOZÁSOK EREDMÉNYKIMUTATÁSA
 
 A tábla célja
 
@@ -736,7 +674,9 @@ Az év végére vonatkozó előzetes, még nem auditált jelentésekben az eredm
 
 Auditált eredménykimutatás: A pénzügyi vállalkozás évente egy alkalommal ugyanezen a táblán, a „Halmozott” elnevezésű oszlopban közli az auditált éves beszámolónak megfelelő adatokat. Az auditált eredménykimutatás „Tárgynegyedév” oszlopában az auditált éves beszámolóban szereplő érték tárgynegyedévre jutó, időarányos részét kell szerepeltetni. A 22A51 Adófizetési kötelezettség soron szereplő adatnak az év végi auditált jelentésben meg kell egyezni az éves beszámolóban lévő adófizetési kötelezettség összegével.
 
-23B PÉNZÜGYI VÁLLALKOZÁSOK – Lejárati összhangelemzés
+II. Rész 1. Fejezet 3. Pénzügyi vállalkozások – Lejárati összhang, Ügyfelekkel szembeni tőkekövetelések
+
+II. 1. 3. 1. - 23B PÉNZÜGYI VÁLLALKOZÁSOK – Lejárati összhangelemzés
 
 A tábla célja
 
@@ -768,7 +708,7 @@ A mérlegen kívüli követelésekből a 23B321 soron kell a kapott garanciák �
 
 A 23B41 Nettó bázispozíció értékének kiszámításakor a 23B21 Bázispozíció sorhoz a 23B32 soron kimutatott mérlegen kívüli követelés értékét, mint várható pénzbevételt hozzá kell adni és a 23B31 sorban szereplő mérlegen kívüli kötelezettségek, mint várható kiadás összegét le kell vonni. A 23B42 Halmozott nettó bázispozíció sorban a kumulált értékek kiszámítása a 23B41 sor alapján történik, az egymást követő oszlopokban számított módosított bázispozíciók összeadásával létrejött értékeket kell feltüntetni.
 
-23C PÉNZÜGYI VÁLLALKOZÁSOK – Ügyfelekkel szembeni tőkekövetelések alakulása
+II. 1. 3. 2. - 23C PÉNZÜGYI VÁLLALKOZÁSOK – Ügyfelekkel szembeni tőkekövetelések alakulása
 
 A tábla célja
 
@@ -804,7 +744,9 @@ A tábla sorai
 
 A tábla soraiban az ügyfelekkel szembeni tőkekövetelést részletezni kell az engedélyezett tevékenységek (pénzügyi lízing, hitel és pénzkölcsön, faktoring) összértéke és darabszáma szerint. A megvásárolt követeléseket (folyó faktoring, illetve work-out ügyletek) a mérlegben szereplő bruttó bekerülési értéken kell kimutatni.
 
-24C PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ELEMZÉS – ÜGYFELEKKEL SZEMBENI KÖVETELÉSEK KOCKÁZATI MONITORINGJA
+II. Rész 1. Fejezet 4. Pénzügyi vállalkozások – Portfolióminőség
+
+II. 1. 4. 1. - 24C PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ELEMZÉS – ÜGYFELEKKEL SZEMBENI KÖVETELÉSEK KOCKÁZATI MONITORINGJA
 
 A tábla célja
 
@@ -878,7 +820,7 @@ A 24C531 Egyéb eljárás alá vont lakóingatlanok száma sorban azon lakóinga
 
 A 24C532 Egyéb eljárás keretében értékesített, illetve fedezeti kötelékből kikerülő lakóingatlanok száma soron a tárgyidőszakban az előző soron feltüntetett eljárás, esemény (pl. készfizető kezes teljesít) kapcsán ténylegesen értékesített lakóingatlanok számát kell feltüntetni.
 
-24D PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ÖSSZETÉTEL - Minősítés - Fedezetek figyelembevételével
+II. 1. 4. 2. - 24D PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ÖSSZETÉTEL - Minősítés - Fedezetek figyelembevételével
 
 A tábla célja
 
@@ -1070,7 +1012,7 @@ A 2010. január 1-jén vagy azt követően átstrukturált, módosított, újrat
 
 Az átstrukturált követelések minősítésének az átstrukturálást követő javulása vagy romlása esetén mindenkor a pénzügyi vállalkozás Eszközök és források értékelési szabályzatában foglaltaknak megfelelően kell eljárni, és a követelést a megfelelő eszközminősítési kategóriába, illetve értékelési csoportba kell átsorolni. Ha az ügylet problémamentessé válik, önmagában ettől nem szűnik meg az átstrukturált minősítése. Az átminősítés csak akkor szűnik meg, ha teljesülnek bizonyos feltételek, pl. ha az átstrukturált követelés adósa megváltozik, új kötelezettje lesz és így besorolható az új kötelezett fizetőképességének megfelelően. Feltéve, ha az új kötelezettel a szerződés piaci feltételekkel kerül megkötésre, valamint a megállapított értékvesztés teljes mértékben visszaírásra kerül, valamint az új kötelezett fizetőképessége megfelelő, és valós átstrukturálás következik be, amely nem pusztán egy késedelmes követelésnek az adós kapcsolt vállalkozásai közötti átadására irányul.
 
-24E PÉNZÜGYI VÁLLALKOZÁSOK - PORTFOLIÓ ÖSSZETÉTEL - Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken)
+II. 1. 4. 3. - 24E PÉNZÜGYI VÁLLALKOZÁSOK – PORTFOLIÓ ÖSSZETÉTEL – Kockázatvállalás szerződésenként a legrégebbi hátralék szerint (bruttó könyv szerinti értéken)
 
 A tábla célja
 
@@ -1148,7 +1090,7 @@ Nem lehetséges a kifizetett összeget a kifizetést követően az adóssal szem
 
 • Külön soron kell megjeleníteni a halasztott kamatfizetéses lakáshitelek, tandíjhitelek kockázati céltartalékkal fedezett, tőkésített kamatát. (24E73)
 
-24F ÉRTÉKVESZTÉS ÉS ÉRTÉKVESZTÉS VISSZAÍRÁSA
+II. 1. 4. 4. - 24F ÉRTÉKVESZTÉS ÉS ÉRTÉKVESZTÉS VISSZAÍRÁSA
 
 A tábla célja
 
@@ -1198,7 +1140,7 @@ Az n) oszlopban tájékoztató jelleggel kell szerepeltetni a nem-problémamente
 
 Az l) oszlop Értékvesztés változásának és az n) oszlopban feltüntetett értékek eredményre való hatása az o) oszlopban szerepel.
 
-24R ÁTSTRUKTURÁLT KINTLÉVŐSÉGEK ÁLLOMÁNYÁNAK ALAKULÁSA
+II. 1. 4. 5. - 24R ÁTSTRUKTURÁLT KINTLÉVŐSÉGEK ÁLLOMÁNYÁNAK ALAKULÁSA
 
 A tábla célja
 
@@ -1250,7 +1192,9 @@ Az adott szektoroknál kiemelt tételként kell szerepeltetni a projekthiteleket
 
 A 24R2 sor a forintban fennálló, deviza árfolyamkockázattal nem rendelkező, a 24R3 sor az euróban, a 24R4 sor pedig az egyéb deviza kockázatvállalások adatait tartalmazza.
 
-25A PÉNZÜGYI VÁLLALKOZÁSOK – Követelések részletezése
+II. Rész 1. Fejezet 5. Pénzügyi vállalkozások – Követelések és kötelezettségek részletezése
+
+II. 1. 5. 1. - 25A PÉNZÜGYI VÁLLALKOZÁSOK – Követelések részletezése
 
 A tábla célja
 
@@ -1302,7 +1246,7 @@ Work-out faktoring tevékenység esetén a követelések adatait a „25A4 Nem r
 
 Ha a pénzügyi vállalkozásnak van államháztartással szembeni követelése, azt – nagyságrendjétől függően – a részletező sorokban be kell mutatni. Az adójellegű tételeket – nagyságrendjüktől függetlenül – a nem részletezett sorokban kell feltüntetni.
 
-25B PÉNZÜGYI VÁLLALKOZÁSOK – Kötelezettségek részletezése
+II. 1. 5. 2. - 25B PÉNZÜGYI VÁLLALKOZÁSOK – Kötelezettségek részletezése
 
 A tábla célja
 
@@ -1314,7 +1258,7 @@ A táblában a pénzügyi vállalkozásnak a kötelezettségeit (forrásokat) ke
 
 A tábla oszlopai
 
-Az ügyfeleket (forrásnyújtókat) a részletező sorokban tételesen, az a) Ügyfél (partner) megnevezése oszlopban név szerint, és a c) oszlopban a törzsszám feltüntetésével kell felsorolni. Az a) és d) oszlopok kötelezően kitöltendőek.
+Az ügyfeleket (forrásnyújtókat) a részletező sorokban tételesen, az a) Ügyfél (partner) megnevezése oszlopban név szerint, és a c) oszlopban a törzsszám feltüntetésével kell felsorolni. Az a) és d) oszlopok kötelező kitölteni.
 
 A h) Kötelezettségek jogcíme megegyezik a követelések jogcím kódjaival, azzal, hogy a követelés szó helyett értelemszerűen itt a kötelezettség fordulatot kell alkalmazni. A kötelezettségek jogcímei és azok besorolásai a pénzügyi vállalkozás által igénybe vett szolgáltatásokhoz (Forrás oldalhoz) kapcsolódnak. Abban az esetben, ha a pénzügyi vállalkozásnak egy ügyfél felé többféle kötelezettsége van, akkor ezeket a táblában összevontan, egy összegben kell szerepeltetni. Amennyiben az egy ügyféllel szembeni kötelezettségek összevontan kerülnek kimutatásra a h) Kötelezettség jogcíme oszlopban vagy a legnagyobb kötelezettség (forrás) szerint kell a jogcímet feltüntetni, vagy a „7” jogcím kódot kell szerepeltetni. Az f) és j) Lejárat oszlopokban az ügyféllel szembeni kötelezettség szerződés szerinti lejáratának határidejét kell szerepeltetni. Ha egy ügyféllel szemben a pénzügyi vállalkozásnak több azonos típusú kötelezettsége van, azt részletező táblamellékletben külön-külön kell kimutatni, és a pénzügyi vállalkozásnál megőrizni, de nem kell a Felügyeletnek megküldeni. Az összevont kötelezettség esetén az állományból a legkorábbi lejáratot kell feltüntetni.
 
@@ -1356,7 +1300,9 @@ A Tulajdonos (25B2) sorból külön soron (25B21) kell kiemelni a pénzügyi vá
 
 Ha a pénzügyi vállalkozásnak van államháztartással szembeni kötelezettsége, a részletező sorokban ezeket a kötelezettségeket is – nagyságrendjüktől függően – be kell mutatni. Az adó jellegű tételeket – nagyságrendjüktől függetlenül – a nem részletezett sorokban kell feltüntetni.
 
-25C PÉNZÜGYI VÁLLALKOZÁSOK - A pénzmosás megelőzésével és a terrorizmus finanszírozással kapcsolatos adatok
+II. Rész 1. Fejezet 6. Pénzügyi vállalkozások – Visszaélések
+
+II. 1. 6. 1. - 25C PÉNZÜGYI VÁLLALKOZÁSOK - A pénzmosás megelőzésével és a terrorizmus finanszírozással kapcsolatos adatok
 
 A tábla célja
 
@@ -1422,23 +1368,21 @@ A 25C2 sorban kimutatott összes ügyfél-átvilágítás adatokat a 25C31-25C36
 
 25C44 Bejelentésekből közvetítő által végzett tranzakciók bejelentése: e sorba azon bejelentések kerülnek, amelyeknél a szolgáltató közvetítője útján végzett tevékenysége során került sor bejelentésre.
 
-25C5 Bejelentésekből 24/48 órára felfüggesztett tranzakció: A bejelentésekből 24/48 órára felfüggesztett tranzakciók sorban azon bejelentéseket kell feltüntetni, amelyek során a pénzügyi vállalkozás 24 vagy 48 órás felfüggesztést alkalmazott.
+25C5 Bejelentésekből 24/48 órára felfüggesztett tranzakció: a bejelentésekből 24/48 órára felfüggesztett tranzakciók sorban azon bejelentéseket kell feltüntetni, amelyek során a pénzügyi vállalkozás 24 vagy 48 órás felfüggesztést alkalmazott.
 
 25C6 Bíróság által pénzmosás miatt zárolt követelések: Ebben a sorban a bíróságok által pénzmosás miatt zárolt ügyfélkövetelések számát és összegét kell feltüntetni.
 
-25C7 Terrorizmus finanszírozásának gyanúja miatti bejelentés: A terrorizmus finanszírozásának gyanúja miatti bejelentés sorban azokat a bejelentéseket kell feltüntetni, amelyeket a pénzügyi vállalkozás a terrorizmus finanszírozásának gyanúja miatt tett.
+25C7 Terrorizmus finanszírozásának gyanúja miatti bejelentés: a terrorizmus finanszírozásának gyanúja miatti bejelentés sorban azokat a bejelentéseket kell feltüntetni, amelyeket a pénzügyi vállalkozás a terrorizmus finanszírozásának gyanúja miatt tett.
 
 25C8 Szankciós lista alapján zárolt követelések: A szankciós lista alapján zárolt követelések sorban azt az ügyfélszámot és azok teljes ügyfélkövetelését kell feltüntetni, amelyet a pénzügyi vállalkozás az ügyfél szankciós listán való szereplése miatt az adott negyedévben zárolt, és ezt a pénzügyi információs egységként működő hatóságnak, mint illetékes hatóságnak bejelentett. Az aktuális szankciós listák a Felügyelet honlapján a Pénzmosás ellen / Fontos listák menüpont alatt érhetők el.
 
-27AA Fogyasztói panaszügyekre vonatkozó adatok I.
-
-27AB Fogyasztói panaszügyekre vonatkozó adatok II.
+II. Rész 1. Fejezet 7. Pénzügyi vállalkozások – Fogyasztói panaszügyek
 
 A táblák célja
 
 A táblák fogyasztóvédelmi célból a nyilvántartásba vett, fogyasztóktól érkezett panaszbejelentések és azok feldolgozásának, kezelésének felmérését célozzák. Ezekben a táblázatokban azokat az adatszolgáltató magatartására, tevékenységére vagy mulasztására vonatkozó, a panasznyilvántartó rendszerben rögzített panaszokat kell bemutatni, amelyek a pénzügyi vállalkozásokhoz (beleértve azok közvetítőihez) akár fiókban, ügyfélszolgálaton, postán stb. keresztül írásban (papír alapon vagy elektronikus úton) érkeztek be, vagy szóban (telefonon vagy személyesen) hangzottak el. A táblázatokban nem kell bemutatni azokat a szóbeli panaszokat, amelyeket a szolgáltató azonnal megvizsgált és szükség szerint orvosolt, amennyiben a fogyasztó nem jelezte, hogy panasza kezelését vitatja. Az adatszolgáltatás teljesítésének alapját a Hpt. rendelkezései képezik.
 
-27AA Fogyasztói panaszügyekre vonatkozó adatok I.
+II. 1. 7. 1. - 27AA Fogyasztói panaszügyekre vonatkozó adatok I.
 
 A tábla kitöltése
 
@@ -1458,7 +1402,7 @@ A 27AA21 sorban az időszak végén folyamatban lévő peresített panaszügyek 
 
 A 27AA22 és 27AA23 sorokban a tárgyidőszakban lezárt peresített panaszügyeket kell megbontani aszerint, hogy a panaszos vagy az adatszolgáltató javára zárult-e a per. A lezárult peresített panaszügyeket tovább kell bontani a panaszügyek megalapozottsága szerint. A panaszügyek megalapozottsága sorokban a lezárt, peresített panaszt az adatszolgáltató panaszkezelési eljárásának eredménye (elutasított, részben megalapozott, megalapozott panasz) szerint kell besorolni.
 
-27AB Fogyasztói panaszügyekre vonatkozó adatok II.
+II. 1. 7. 2. - 27AB Fogyasztói panaszügyekre vonatkozó adatok II.
 
 A tábla kitöltése
 
@@ -1600,11 +1544,11 @@ B. Lízinggel kapcsolatos panaszok
 
 Gépjármű-, lakás- és egyéb eszköz (gép, berendezés stb.) lízingelésével kapcsolatos tranzakcióik miatti panaszok.
 
-• Ingatlanlízing: a fogyasztók részére új építésű és használt lakóingatlanok, üdülőingatlanok, a lakóingatlanhoz kapcsolódó kiegészítő ingatlanok (garázs, tároló, gépkocsi beálló), valamint építési telek megvásárlásához kínált azon finanszírozási forma, amelynek során a lízingbeadó pénzügyi vállalkozás az ingatlant adásvételi szerződéssel megvásárolja az eladótól, és egy lízingszerződéssel lízingbe adja a lízingbevevőnek azzal, hogy a futamidő végéig, illetve az esetleges végtörlesztésig az ingatlan tulajdonjogát a pénzügyi vállalkozás fenntartja.
+- Ingatlanlízing: a fogyasztók részére új építésű és használt lakóingatlanok, üdülőingatlanok, a lakóingatlanhoz kapcsolódó kiegészítő ingatlanok (garázs, tároló, gépkocsi beálló), valamint építési telek megvásárlásához kínált azon finanszírozási forma, amelynek során a lízingbeadó pénzügyi vállalkozás az ingatlant adásvételi szerződéssel megvásárolja az eladótól, és egy lízingszerződéssel lízingbe adja a lízingbevevőnek azzal, hogy a futamidő végéig, illetve az esetleges végtörlesztésig az ingatlan tulajdonjogát a pénzügyi vállalkozás fenntartja.
 
-• Gépjárműlízing: a fogyasztók részére új és használt személygépkocsik és rendszámozható motorkerékpár megvásárlásához kínált azon finanszírozási forma, amelynek során a lízingbeadó pénzügyi vállalkozás a járművet adásvételi szerződéssel megvásárolja az eladótól és egy lízingszerződéssel lízingbe adja a lízingbevevőnek azzal, hogy a futamidő végéig, illetve az esetleges végtörlesztésig a gépjármű tulajdonjogát a pénzügyi vállalkozás fenntartja.
+- Gépjárműlízing: a fogyasztók részére új és használt személygépkocsik és rendszámozható motorkerékpár megvásárlásához kínált azon finanszírozási forma, amelynek során a lízingbeadó pénzügyi vállalkozás a járművet adásvételi szerződéssel megvásárolja az eladótól és egy lízingszerződéssel lízingbe adja a lízingbevevőnek azzal, hogy a futamidő végéig, illetve az esetleges végtörlesztésig a gépjármű tulajdonjogát a pénzügyi vállalkozás fenntartja.
 
-• Egyéb lízing: a fenti két kategóriába be nem sorolt eszközök lízingelésével kapcsolatos panasz.
+- Egyéb lízing: a fenti két kategóriába be nem sorolt eszközök lízingelésével kapcsolatos panasz.
 
 C. Faktoringgal kapcsolatos panaszok
 
@@ -1616,11 +1560,13 @@ D. Egyéb tevékenységgel kapcsolatos panaszok
 
 Minden, a fenti kategóriába be nem sorolt panaszt itt kell feltüntetni.
 
-L5 A negyedévben értékesített fedezeti lakóingatlanok
+II. Rész 1. Fejezet 8. Pénzügyi vállalkozások – Értékesített lakóingatlanok
+
+II. 1. 8. 1. - L5 A negyedévben értékesített fedezeti lakóingatlanok
 
 A tábla beküldése
 
-A táblát a Devizakölcsöntv. 1. § (1) bekezdés 6. pontjában meghatározott hitelezőknek[^7] kell kitölteni, és a tárgynegyedévet követő hónap 15. naptári napjáig – amennyiben ez nem munkanap, akkor az azt követő munkanapig – kell beküldeni. Az L5 táblát a Devizakölcsöntv. 9. § (1) bekezdésében előírt adatszolgáltatási kötelezettség teljesítésére szolgáló L3, L4 táblákkal együtt, egy jelentésként kell a Felügyelet részére megküldeni. Az L5 tábla adatszolgáltatói köre tehát megegyezik az L3-L4 táblákéval.
+A táblát a Devizakölcsöntv. 1. § (1) bekezdés 6. pontjában meghatározott hitelezőknek[^11] kell kitölteni, és a tárgynegyedévet követő hónap 15. naptári napjáig – amennyiben ez nem munkanap, akkor az azt követő munkanapig – kell beküldeni. Az L5 táblát a Devizakölcsöntv. 9. § (1) bekezdésében előírt adatszolgáltatási kötelezettség teljesítésére szolgáló L3, L4 táblákkal együtt, egy jelentésként kell a Felügyelet részére megküldeni. Az L5 tábla adatszolgáltatói köre tehát megegyezik az L3-L4 táblákéval.
 
 Általános kitöltési szabályok
 
@@ -1648,7 +1594,39 @@ A g)-i) oszlopokban kell szerepeltetni azokat a fedezeti lakóingatlanokat, amel
 
 A j)-l) oszlopokban kell feltüntetni az értékesített fedezeti lakóingatlanok (90 napon túli lejárt követeléssel terhelt fedezeti lakóingatlanok) közül azokat, amelyek értékesítését nem az adatszolgáltató, hanem más követelés-jogosult (pl. más hitelező pénzügyi intézmény, közüzemi szolgáltató, adóhatóság) kezdeményezte, és a zálogtárgyra vezetett végrehajtásba az adatszolgáltató zálogjogosultként kapcsolódott be.
 
-PVVDN PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves)
+II. Rész 1. Fejezet 9. Pénzügyi vállalkozások – Speciális tevékenységek
+
+II. 1. 9. 1. - 21E PÉNZÜGYI VÁLLALKOZÁSOK – TÁJÉKOZTATÓ ADATOK (speciális tevékenységekkel kapcsolatosan)
+
+A tábla célja
+
+A táblában a speciális tevékenységet (hitelreferencia szolgáltatást, a bankközi piacon pénzügyi ügynöki tevékenységet) végző pénzügyi vállalkozások jellemző adatait kell gyűjteni a rendelkezésre álló felügyeleti információk bővítési igényének kielégítése céljából.
+
+A táblát csak azoknak a pénzügyi vállalkozásoknak kell kitölteni és csak azt a részét, amely a Felügyelet által engedélyezett tevékenységre vonatkozik. Ezek a tevékenységek: a Hpt. 3. § (2) bekezdés d) pontja szerinti, a bankközi piacon pénzügyi ügynöki tevékenység, valamint a Hpt. 3. § (1) bekezdés k) pontja szerinti hitelreferencia szolgáltatási tevékenység.
+
+A tájékoztató adatokat tartalmazó táblázat az előzőekben hivatkozott tevékenységet végző pénzügyi vállalkozások – tevékenységük jellegének megfelelő – forgalmi-állományi adatainak áttekintésére szolgál.
+
+A tábla kitöltése
+
+A tábla az analitikai nyilvántartásokon alapul. A tájékoztató adatok kitöltése mellett a tevékenységhez kapcsolódó egyéb információkat továbbra is a 20B szöveges tábla VII. fejezetében kell bemutatni.
+
+A tábla kitöltése során az egyes tevékenységekhez kapcsolódó táblarészekre vonatkozó szabályok:
+
+1.) A bankközi piacon pénzügyi ügynöki tevékenységet végző intézményeknél a közvetített ügyletekre vonatkozó főbb forgalmi adatok
+
+A 21E111-21E116 sorokon a közvetített ügyletekre (spot, határidős, swap ügyletek, vásárolt és kiírt opció, egyéb) vonatkozó főbb forgalmi adatokat kell részletezni, amelyeket a 21E11 Ügyletek összesen soron kell összesíteni.
+
+2.) A hitelreferencia szolgáltató intézmények adatai
+
+A 21E211-21E213 sorokon a tárgynegyedévben, valamint a beszámolási időszak végéig a KHR rendszerből lehívott tranzakciók darabszámát kell közölni. A tárgynegyedévi oszlopban az adott negyedévben történt lehívásokat és azok eredménye szerinti összesítéseket darabszámban kell kimutatni, míg a halmozott oszlop a naptári éven belül a beszámolási időszak végéig összesített adatokat tartalmazza.
+
+Az Egyéb tájékoztató adatok alatt a lehívások vonatkozásában a kapcsolódó hitelszerződések típusa szerinti információkat kell megadni.
+
+A 21E2231-21E2232 sorokon kell bemutatni, hogy a tárgynegyedévben hány új tétel került felvételre – természetes személyek és gazdasági társaságok együttesen – a rendszerbe és mennyi volt a rendszerből kivezetettek tárgynegyedévi darabszáma.
+
+II. Rész 1. Fejezet 10. Pénzügyi vállalkozások – Felügyeleti változó díj
+
+II. 1. 10. 1. - PVVDN PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves)
 
 A tábla célja
 
@@ -1688,7 +1666,7 @@ A PVVDN10 soron az előző évben összesen ténylegesen befizetett felügyeleti
 
 A PVVDN11 soron az előző évben kizárólag az előző évre vonatkozóan ténylegesen pénzügyileg rendezett felügyeleti változó díj és az auditált adatok alapján az előző évre számított változó díj különbségét kell jelenteni (PVVDN11=PVVDN102-PVVDN07). A soron a túlfizetés pozitív értékkel, a hiány negatív értékkel szerepel. A második negyedév kivételével, ezen a soron csak 0 (nulla) érték szerepelhet.
 
-PVFVDN EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves)
+II. 1. 10. 2. - PVFVDN EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI VÁLTOZÓ DÍJ SZÁMÍTÁSA (negyedéves)
 
 A tábla célja
 
@@ -1700,13 +1678,13 @@ A fióktelep felügyeleti változó díj számításának alapja a mérlegfőös
 
 A tábla kitöltése megegyezik a PVVDN tábla kitöltésére vonatkozó előírásokkal, azzal az eltéréssel, hogy a fióktelep által fizetendő változó díj éves mértéke a Hpt. 139/A. § (9) bekezdése értelmében a pénzügyi vállalkozás magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,1 ezreléke.
 
-II. fejezet
+2. Fejezet
 
 ELŐKÉSZÍTETT JELENTÉS
 
-II.1. Előkészített Havi jelentés (24K)
+II. Rész 2. Fejezet 1. Pénzügyi vállalkozások havi jelentés
 
-24K Pénzügyi vállalkozások által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok
+II. 2. 1. 1. - 24K Pénzügyi vállalkozások által nyújtott gyűjtőszámlahitelekhez kapcsolódó adatok
 
 A tábla célja
 
@@ -1810,9 +1788,9 @@ A tábla ezen szakaszában adatot kell szolgáltatni a Magyar Állammal szemben 
 
 A tábla ezen szakaszában adatot kell szolgáltatni a Magyar Állammal szembeni érvényesített állami készfizető és egyszerű kezességgel kapcsolatban [Devizakölcsöntv. 2. § (3) bekezdés].
 
-II.2. Előkészített Negyedéves jelentés (21H)
+II. Rész 2. Fejezet 2. Pénzügyi vállalkozások negyedéves jelentés
 
-21H Pénzügyi vállalkozások - Határon átnyúló tevékenység
+II. 2. 2. 1. - 21H Pénzügyi vállalkozások - Határon átnyúló tevékenység
 
 A tábla célja
 
@@ -1836,13 +1814,15 @@ A j)-k) Mérlegen kívüli kötelezettségek és követelések, az l)-m) Szárma
 
 A követelés és kötelezettség adatokat előjel nélkül kell megadni.
 
-III. Fejezet
+3. Fejezet
 
 ÉVES JELENTÉS
 
 A pénzügyi vállalkozás és a fióktelep a felügyeleti alapdíj számításáról szóló éves bevallást a rendelet 5. § (5) bekezdésében foglaltak szerint, tárgyév január 31. napjáig köteles a Felügyeletnek benyújtani.
 
-PVAD PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves)
+II. Rész 3. Fejezet 1. Pénzügyi vállalkozások - Felügyeleti alapdíj
+
+II. 3. 1. 1. - PVAD PÉNZÜGYI VÁLLALKOZÁS FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves)
 
 A tábla célja
 
@@ -1858,487 +1838,23 @@ A PVAD1 Előírt alapdíj sor tartalmazza a pénzügyi vállalkozás részére e
 
 A PVAD2 Megfizetett alapdíj sor kitöltésénél az I. RÉSZ 5.2. pontjában meghatározottak szerint a felügyeleti díj fizetésére vonatkozó előírásokat kell figyelembe venni.
 
-PVFAD EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves)
+II. 3. 1. 2. - PVFAD EU TAGÁLLAMI PÉNZÜGYI VÁLLALKOZÁS FIÓKTELEPE FELÜGYELETI ALAPDÍJ SZÁMÍTÁSA (éves)
 
 A tábla kitöltése megegyezik a PVAD tábla kitöltésére vonatkozó előírásokkal.
 
-ÉVES AUDITÁLT JELENTÉS
+II. Rész 3. Fejezet 2. Pénzügyi vállalkozások – Auditált jelentés
+
+II. 3. 2. 1. - ÉVES AUDITÁLT JELENTÉS
 
 Minden, az előzőekben részletezett negyedéves jelentést (20B, 20C, 21A, 21B, 21C, 21D, 21E, 21R, 22A, 23B, 23C, 24C, 24D, 24E, 24F, 24R, 25A, 25B, 25C, 27AA, 27AB PVVDN, PVFVDN), az auditált adatokkal is meg kell küldeni a Felügyeletnek a rendelet 5. § (4) bekezdése szerint.
 
-IV. Fejezet
+4. Fejezet
 
-ESETI JELENTÉS
+PÉNZPIACI ALKUSZOK JELENTÉSEI
 
-HPTPK Pénzügyi közvetítők adatai
+II. Rész 4. Fejezet 1. PÉNZPIACI ALKUSZOK JELENTÉSEI - ÉVES
 
-PKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye
-
-PKVEZ Független közvetítők vezető állású személyei
-
-A tábla célja
-
-A tábla a pénzügyi vállalkozásoknak a Hpt. 3. § (10) bekezdésében meghatározott bejelentési kötelezettsége teljesítésére szolgál, figyelembe véve a Hpt. 188. § (1) bekezdésében foglalt jogszabályi előírást a Felügyelet által nyilvántartandó adatok körére.
-
-Általános előírások
-
-1. Az adatszolgáltatás alanyi és tárgyi hatálya
-
-A HPTPK Pénzügyi közvetítők adatai és annak mellékletét képező PKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye, valamint PKVEZ Független közvetítők vezető állású személyei táblákban kell a megbízó pénzügyi intézménynek a Hpt. 3. § (10) bekezdésében meghatározottak szerint a Felügyelet felé történő felügyeleti bejelentési kötelezettség alá tartozó
-
-a) függő ügynök [Hpt. 6/E. § (1) bekezdés a) pont ab) alpontja],
-
-b) többes ügynök [Hpt. 6/E. § (1) bekezdés a) pont bb) alpontja] és a
-
-c) közvetítői alvállalkozó [Hpt. 6/E. § (2) bekezdés]
-
-adatait bejelenteni.
-
-Megbízó pénzügyi intézmény alatt a lánc legfelső szintjén álló azon pénzügyi intézményt értjük, akinek a pénzügyi termékét, illetve szolgáltatását a láncban alatta álló szereplők közvetítik.
-
-Közvetítői lánc: A megbízó pénzügyi intézmény alatt főszabályként összesen legfeljebb két közvetítői szint lehetséges, a megbízó alatt, az első szinten álló szereplő a közvetítő, a legalsó szinten álló szereplő a közvetítői alvállalkozó.
-
-Kivételes esetben akkor lehet a közvetítői lánc háromszintű, ha egy pénzügyi intézmény közvetít egy másik pénzügyi intézménynek, és alattuk további egy vagy két közvetítői szint van. Ezekben az esetekben a legalsó szinten elhelyezkedő szereplő minden esetben közvetítői alvállalkozónak minősül. Ha a közbülső két szinten (a megbízó alatt első szinten és második szinten) álló szereplő bármelyike pénzügyi intézmény, akkor az adatszolgáltatás vonatkozásában az pénzügyi intézményi közvetítőnek tekintendő.
-
-Ha egy pénzügyi intézmény közvetít egy másik pénzügyi intézménynek, de alattuk nincs további közvetítői szint, akkor függetlenül attól, hogy egy pénzügyi intézmény végez közvetítői tevékenységet, ebben a relációban – a tevékenysége alapján – a pénzügyi intézmény közvetítőnek minősül és az igénybevevő pénzügyi intézményt adatszolgáltatási kötelezettség terheli a vonatkozásában.
-
-A közvetítői alvállalkozó a megbízó pénzügyi intézményhez nem közvetlenül, hanem közvetve, egy másik közvetítőn keresztül kapcsolódik, vagyis a közvetítői láncban a legalsó szinten foglal helyet.
-
-A táblákban a pénzügyi vállalkozásnak adatot kell szolgáltatniuk a függő ügynökként, többes ügynökként történő bejelentés alapján igénybevett közvetítőkre, valamint a közvetítők által igénybe vett alvállalkozókra is.
-
-Az adatszolgáltatási kötelezettséget az alvállalkozók vonatkozásában a közvetítő típusára tekintet nélkül kell teljesíteni, így ebből a szempontból a bejelentési kötelezettség az engedélyköteles közvetítők (többes kiemelt közvetítő, kiemelt közvetítő) alvállalkozóira is vonatkozik.
-
-A tábla kitöltésekor, az egyes pénzügyi közvetítők besorolására vonatkozóan segítséget nyújthat a Felügyelet által – honlapján a Pénzügyi közvetítői engedélyek kiadására vonatkozóan – közzétett engedélyezési útmutató, amely az alábbi elérési úton érhető el:
-
-http://www.pszaf.hu/bal_menu/szabalyozo_eszkozok/engedelyezesi_utmutatok/kozvetitoeng
-
-A táblában nem kell szerepeltetni, azaz a Felügyeletnek bejelenteni a pénzügyi közvetítő saját alkalmazottait.
-
-2. Az adatszolgáltatás beküldésének módja
-
-Miután a külföldi székhelyű közvetítőnek, illetve a külföldi székhelyű közvetítő alvállalkozójának a KAP rendszeren keresztüli bejelentése/kijelentése/változás bejelentése a nyilvántartásba automatikusan nem töltődik be, ezért azt a Felügyelet nem tudja adatszolgáltatásként elfogadni. Így amennyiben a szóban forgó pénzügyi közvetítő külföldi székhelyű társaság, úgy nemcsak magát a közvetítőt, de az általa igénybe vett közvetítői alvállalkozót is ugyanilyen módon, ugyanezen táblákon, postai úton az Engedélyezési és jogérvényesítési igazgatóság részére kell bejelenteni (kijelenteni, változást jelenteni egyaránt), még akkor is, ha magyar székhelyű maga az alvállalkozó. Ekkor a bejelentés tárgyában a „külföldi székhelyű közvetítő”, illetve „külföldi székhelyű közvetítő alvállalkozója” szöveget kell feltüntetni.
-
-3. Az adatszolgáltatás beküldési gyakorisága
-
-A függő ügynökökre és többes ügynökökre vonatkozó bejelentést a megbízási jogviszony létrejöttétől számított 5 munkanapon belül kell a Felügyelet részére megküldeni.
-
-Abban az esetben, ha a pénzügyi intézmény által megbízott közvetítő közvetítői alvállalkozót vesz igénybe, úgy az alvállalkozóra vonatkozó bejelentési kötelezettséget a közvetítőre vonatkozó bejelentéssel egyidejűleg kell teljesíteni. Abban az esetben, ha a Felügyeletnek már bejelentett közvetítő a bejelentést követően köt közvetítői alvállalkozóval megbízási szerződést, az erre vonatkozó adatszolgáltatást a megbízási jogviszony létrejöttétől, illetve a megbízó pénzügyi intézmény általi tudomásszerzéstől számított 5 munkanapon belül kell megküldeni.
-
-A már bejelentett közvetítőket érintő változásokat akár érdemi, akár adatváltozás, illetve a kijelentésüket a változástól, illetve a szerződés megszűnésétől számított 5 munkanapon belül kell megküldeni a KAP rendszeren keresztül eredeti jelentésként.
-
-Módosító jelentést akkor kell küldeni, ha a beküldött adatok hibás adatszolgáltatás miatt javításra szorulnak. Ekkor a javítást visszamenőleg végre kell hajtani.
-
-Érdemi változás alatt értjük, ha a közvetítővel való kapcsolatban történik változás, így pl. ha a megbízási jogviszony tartalma, feltételei módosulnak (pl. ha a kiemelt közvetítő a továbbiakban ugyanazon megbízó pénzügyi vállalkozás függő ügynökeként tevékenykedik).
-
-Adatváltozás alatt azt értjük, ha a közvetítő törzsszáma változatlan, viszont a közvetítő nevében, székhelyében, egyéb adatában változás történik.
-
-4. Az adatszolgáltatás általános formai és tartalmi szabályai
-
-A Felügyelet által előírt táblák formáját, szerkezetét megváltoztatni nem lehet.
-
-Az egyes mezőkbe történő adatbevitel során, az adattartalom elején, közben és a végén felesleges szóköz (space) karakter nem használható.
-
-A táblában dátum formátumaként ééééhhnn tüntetendő fel. Az év, hó, nap közé és a végére elválasztó karakter (pl. pont) nem kerülhet.
-
-Személynevek esetén a Dr. használatát egységesen kell kezelni pl. Dr. Kiss Ferenc.
-
-Az adatszolgáltatásban a gyűjtőblokkok egymás alá másolásával és a PSZÁF kód megfelelő átírásával (HPTPK10001-HPTPK19999) egyidejűleg 9999 közvetítői láncot lehet bejelenteni. Egy gyűjtőblokkban egyidejűleg bejelenthető egy konkrét lánchoz első szinten, második szinten, esetleg harmadik szinten kapcsolódó pénzügyi közvetítő is, a megfelelő blokkok kitöltésével. Adott gyűjtőblokkon belül először a HPTPK1xxxx1 alábontó sorain meg kell adni a megbízó pénzügyi vállalkozás nevét és törzsszámát, majd a HPTPK1xxxx2 (Megbízó alatt első szinten álló szereplő), HPTPK1xxxx3 (Megbízó alatt második szinten álló szereplő) és HPTPK1xxxx4 (Megbízó alatt harmadik szinten álló szereplő) sorokon bejelenthetőek a közvetítői lánc „függőleges” szereplői, illetve azok részletes adatai.
-
-Amennyiben adott közvetítői láncolathoz bármelyik szinten „vízszintesen” további szereplő kapcsolódik, akkor azt külön gyűjtőblokkban lehet bejelenteni. Ebben az esetben a korábban vagy az adott jelentésben már bejelentett pénzügyi közvetítő részletező adatait (HPTPK1xxxx2, illetve HPTPK1xxxx3) nem szükséges ismételten bejelenteni.
-
-Például, a megbízó pénzügyi intézmény egyidejűleg bejelentheti X Kft.-t, mint közvetítőjét, illetve Y Bt.-t, mint X Kft. által bevont közvetítői alvállalkozót a következők szerint:
-
-- a HPTPK1000111 és HPTPK1000112 sorokon feltünteti a megbízó intézmény nevét és törzsszámát;
-
-- a HPTPK100012 Pénzügyi közvetítő adatai (Megbízó alatt első szinten álló szereplő) részletező sorain be kell mutatni X Kft., mint közvetítő részletes adatait;
-
-- a HPTPK100013 Pénzügyi közvetítő adatai (Megbízó alatt második szinten álló szereplő) részletező sorain pedig az Y Bt., mint közvetítői alvállalkozó adatait kell feltüntetni.
-
-Amennyiben X Kft-hez, mint adott megbízó pénzügyi intézmény közvetítőjéhez másik közvetítői alvállalkozó is kapcsolódik, Z Kft., akkor annak adatát a következő blokkban (HPTPK100021 kezdetű gyűjtőblokkban), az alábbiak szerint kell bemutatni:
-
-- a HPTPK1000211 és HPTPK1000212 sorokon újra feltünteti a megbízó intézmény nevét és törzsszámát;
-
-- a HPTPK1000221 és HPTPK1000222 sorokon ismét fel kell tüntetni X Kft. nevét és törzsszámát, de a további sorokon nem szükséges ismételten bejelenteni az X Kft., mint közvetítő részletes adatait;
-
-- elegendő a HPTPK100023 Pénzügyi közvetítő adatai (Megbízó alatt második szinten álló szereplő) részletező sorain a Z Kft., mint X Kft. által bevont közvetítő (közvetítői alvállalkozó) adatait szerepeltetni.
-
-Az adatszolgáltatásban a közvetítői láncolat bemutatásakor nem lehet hivatkozni azonban olyan pénzügyi közvetítőre, amely közvetítőt korábban vagy az adott adatszolgáltatásban a megbízó pénzügyi intézmény nem jelentette be, így az még nem szerepel a felügyeleti adatbázisban.
-
-A HPTPK táblában az adott sorokhoz tartozó jelölések jelentése:
-
-- A *-gal jelölt mező kitöltése kötelező.
-
-- A ** -gal jelölt mezők közül legalább az egyik kitöltése kötelező.
-
-Kitöltés részletes szabályai
-
-| HPTPK Pénzügyi közvetítők adatai |
-
-| Azonosító | Megnevezés | Kitöltési útmutató |
-
-| Jogszabályi előírások: Hpt. 3. § (10) bekezdés, 6/E. § (1) bekezdés a) pont ab) alpont és b) pont bb) alpont, valamint 6/E. § (2) bekezdés, 188. § (1) bekezdés, 3. számú melléklet I. Azonosító adatok |
-
-| Megjegyzés: az azonosítóban szereplő xxxx megjelölés a gyűjtőblokk folyamatos sorszámára utal (0001-9999-ig) (pl. 1. blokk első PSZÁF sorkódja: 100011 és utolsó PSZÁF sorkódja: 10001462, a 2. blokk első PSZÁF sorkódja: 100021 és utolsó PSZÁF sorkódja: 10002462) |
-
-| HPTPK1xxxx1 | Pénzügyi közvetítő kapcsolódása a közvetítői lánchoz |
-
-| HPTPK1xxxx11 | Megbízó pénzügyi intézmény neve | Az adatszolgáltatásra kötelezett megbízó pénzügyi vállalkozás teljes nevét kell feltüntetni. |
-
-| HPTPK1xxxx12 | Megbízó pénzügyi intézmény törzsszáma | A megbízó pénzügyi vállalkozás adószámának első nyolc számjegye. |
-
-| HPTPK1xxxx2 | Pénzügyi közvetítő adatai (Megbízó alatt első szinten álló szereplő) Ebben a blokkban kell feltüntetni a megbízó pénzügyi intézmény alatt első szinten álló, azaz közvetlenül kapcsolódó pénzügyi közvetítő adatait. |
-
-| HPTPK1xxxx21 | Közvetítő neve | A pénzügyi közvetítő teljes nevét kell feltüntetni. |
-
-| HPTPK1xxxx22 | Közvetítő törzsszáma | A pénzügyi közvetítő adószámának első nyolc számjegye. Külföldi székhelyű közvetítő esetén a papír alapú adatszolgáltatásban üres cella. |
-
-| HPTPK1xxxx23 | Székhelye | A pénzügyi közvetítő létesítő okiratában feltüntetett székhelye. A HPTPK1xxx231 Irányítószám soron a település négy karakterből álló, a Magyar Posta által használt számát kell beírni, pont és egyéb írásjel nélkül (pl. 7400, 1213). A HPTPK1xxx232 Város soron a magyarországi hivatalos helységnevek használhatók. [Abban az esetben, ha az irányítószám és a hozzá tartozó település a következő: pl. 4551 Nyíregyháza (Oros), a Város soron a „Nyíregyháza” vagy az „Oros” a feltüntetendő, a kettő együttes megjelenítését az ellenőrző program nem fogadja el.] A HPTPK1xxx233 Utca, házszám, emelet, ajtó soron formai követelmény, hogy az utcanév mellett a közterület típusa (tér, utca, út, körút, stb.) is kerüljön beírásra. Rövidítés nem megengedett (pl. utca helyett „u.”). A HPTPK1xxx234 Ország soron kell feltüntetni a pénzügyi közvetítő székhelye szerinti ország megnevezését. Az elektronikus úton megküldött adatszolgáltatásban csak „Magyarország” szerepelhet. Lásd általános részben leírtak szerint a külföldi székhelyű közvetítő postai úton történő bejelentésére vonatkozó előírást. Külföldi székhelyű közvetítő esetén az ország teljes magyar nevét kell feltüntetni. |
-
-| HPTPK1xxx24 | Tevékenység végzésére szolgáló fiókok, telephelyek száma (db, részletezve a PKTEV táblában) | Ebben a sorban kell megadni a pénzügyi közvetítő tevékenységi helyeként működő fiókok és telephelyek darabszámát. A tevékenység pontos helyét a kapcsolódó PKTEV tábla gyűjtősoraiban kell feltüntetni, minden esetben megjelölve a közvetítő teljes nevét és törzsszámát is. A PKTEV tábla gyűjtősoraiban azt a földrajzi helyet kell megjelölni, ahol a pénzügyi közvetítő közvetítői tevékenységét végzi pl. iroda, fiók címe. Amennyiben nem rendelkezik a székhelytől eltérő tevékenységi hellyel, akkor ezen a soron 0-t kell megadni. |
-
-| HPTPK1xxxx251, HPTPK1xxxx252 | Pénzügyi szolgáltatási tevékenység kezdete és vége (ééééhhnn) | A pénzügyi közvetítői tevékenység tényleges megkezdésének időpontja, amely nem lehet 2010. január 1-jét megelőző időpont. Az „átkategorizált” régi ügynökök esetén is csak a megváltozott jogszabályi feltételek mellett végzett pénzügyi tevékenység kezdetét kell feltüntetni, amely – a Hpt. átmeneti szabályai miatt – megelőzheti az új feltételek szerint kiadott felügyeleti engedély keltét. A pénzügyi szolgáltatás tevékenység vége időpontjaként a közvetítői szerződés megszűnésének keltét kell szerepeltetni. Új közvetítő bejelentése esetén a HPTPK1xxxx251 sort, meglévő közvetítői kapcsolat megszűnése esetén az HPTPK1xxxx252 sort kell kitölteni, azaz kitöltése vagylagos. (Csak az egyik mező töltendő, mindkettő kitöltése vagy üresen hagyása hibás.) |
-
-| HPTPK1xxxx261 | Közvetítő típusa | Kiválasztandó a Hpt. 6/E. § alapján történt besorolás szerint: „függő ügynök", „többes ügynök, „kiemelt közvetítő” (csak abban az esetben, ha a lánc legalsó szintjén közvetítői alvállalkozó áll), „többes kiemelt közvetítő” (csak abban az esetben, ha a lánc legalsó szintjén közvetítői alvállalkozó áll). |
-
-| HPTPK1xxxx262 | Közvetítő státusza | A státusz a közvetítő közvetítői lánchoz történő kapcsolódásának jellegét, a hierarchiában betöltött helyét mutatja be. Kiválasztandó: „közvetítő” vagy „pénzügyi intézményi közvetítő”. (Fogalmakat lásd. Általános előírások 1. pont) |
-
-| HPTPK1xxxx263 | Függő közvetítő (függő ügynök vagy kiemelt közvetítő) által végzett tevékenység(ek) |
-
-| HPTPK1xxxx2631 | Hpt. 2. sz. melléklet III./19. a) pont | Ebben a blokkban kell megjelölni „X” jel feltüntetésével, hogy a függő közvetítő milyen tevékenysége(ke)t végez. |
-
-| HPTPK1xxxx2632 | Hpt. 2. sz. melléklet III./19. b) pont |
-
-| HPTPK1xxxx2633 | Hpt. 2. sz. melléklet III./19. c) pont |
-
-| HPTPK1xxxx2634 | Behajtás, követeléskezelés |
-
-| HPTPK1xxxx264 | Vezető állású személyek száma (db, részletezve a PKVEZ táblában) | Ebben a sorban kell megadni a független pénzügyi közvetítő (többes ügynök, többes kiemelt közvetítő) vezető állású személyeinek darabszámát. (Egy közvetítőhöz több vezető állású személy is megadható.) A vezető állású személyek részletező adatait a kapcsolódó PKVEZ tábla gyűjtősoraiban kell feltüntetni, minden esetben megjelölve a közvetítő teljes nevét és törzsszámát is. |
-
-| HPTPK1xxxx271 | Többes ügynök vagy többes kiemelt közvetítő tevékenységéhez kiadott engedély adatai | A HPTPK1xxxx271 alábontó soraiban meg kell adni a pénzügyi közvetítő részére 2010. január 1. után kiadott engedélyező határozat számát, valamint az engedély keltét (ééééhhnn formátumban). |
-
-| HPTPK1xxxx3 | Pénzügyi közvetítő adatai (Megbízó alatt második szinten álló szereplő) Ebben a blokkban kell feltüntetni a megbízó pénzügyi intézmény alatt második szinten álló, azaz a megbízóhoz közvetve (pénzügyi közvetítőn keresztül) kapcsolódó pénzügyi közvetítő adatait. |
-
-| HPTPK1xxxx31-től HPTPK1xxxx3712 sorok | A blokk kitöltésekor – a HPTPK1xxxx361 (Közvetítő típusa) és a HPTPK1xxxx362 (Közvetítő státusza) sor kivételével – a HPTPK1xxxx21-27124 soroknál leírtak szerint kell eljárni. A HPTPK1xxxx361 soron a közvetítő típusa kiválasztandó az alábbiakból: „függő ügynök”, „többes ügynök”, „kiemelt közvetítő” (csak abban az esetben, ha a lánc legalsó szintjén közvetítői alvállalkozó áll), „többes kiemelt közvetítő” (csak abban az esetben, ha a lánc legalsó szintjén közvetítői alvállalkozó áll), „közvetítői alvállalkozó”. Közvetítői alvállalkozói státusz esetén a típus cellában is a közvetítői alvállalkozó kódot kell kiválasztani. A HPTPK1xxxx362 soron a közvetítő státusza kiválasztandó az alábbiakból: „közvetítő”, „pénzügyi intézményi közvetítő” vagy „közvetítői alvállalkozó”. |
-
-| HPTPK1xxxx4 | Pénzügyi közvetítő adatai (Megbízó alatt harmadik szinten álló szereplő) Ebben a blokkban kell feltüntetni a megbízó pénzügyi intézmény alatt harmadik szinten álló, azaz a megbízóhoz közvetve kapcsolódó pénzügyi közvetítő adatait. |
-
-| HPTPK1xxxx41-től HPTPK1xxxx462 sorok | A blokk kitöltésekor – a HPTPK1xxxx461 (Közvetítő típusa) és a HPTPK1xxxx462 (Közvetítő státusza) sor kivételével – a HPTPK1xxxx21-262 soroknál leírtak szerint kell eljárni. A HPTPK1xxxx461 soron a közvetítő típusa: „közvetítői alvállalkozó”. A HPTPK1xxxx462 soron a közvetítő státusza: „közvetítői alvállalkozó”. |
-
-Ha a megbízó az egyik közvetítőjét annak összes közvetítői alvállalkozójával együtt ki szeretné jelenteni, akkor elegendő a közvetítőt kijelenteni, az alvállalkozói kapcsolat ebben az esetben a nyilvántartásban automatikusan lezáródik.
-
-PKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye
-
-A tábla célja
-
-A tábla a pénzügyi vállalkozások a Hpt. 3. § (10) bekezdésében meghatározott bejelentési kötelezettség alá tartozó pénzügyi közvetítők Hpt. 188. § (1) bekezdésében b) pontjában foglalt tevékenység helyeinek bejelentésére szolgál.
-
-A tábla kitöltése
-
-Ebben a táblában meg kell megadni a HPTPK táblában bejelentett pénzügyi közvetítők (közvetítő, pénzügyi intézményi közvetítő, közvetítői alvállalkozó) nevét, a törzsszámát és a tevékenység helyét, valamint a tevékenység helye változásának időpontját.
-
-Tevékenység helye alatt azt a földrajzi helyet értjük, ahol a pénzügyi közvetítő a pénzügyi közvetítői tevékenységét végzi pl. iroda, fiók címe.
-
-Amennyiben magyarországi székhellyel rendelkezik a pénzügyi közvetítő, de a tevékenység földrajzi helye nem Magyarország, abban az esetben is a PKTEV táblát elektronikus úton – a KAP rendszeren keresztül – kell beküldeni a változást (megnyitást vagy bezárást) követő 5 munkanapon belül.
-
-Amennyiben a pénzügyi közvetítő külföldi székhelyű, akkor – a HPTPK táblához hasonlóan – a PKTEV táblát is az Általános előírások 2. pontjában foglaltak szerint postai úton – tehát nem a KAP rendszeren keresztül – kell az Engedélyezési és jogérvényesítési igazgatóság részére megküldeni a nyilvántartásba való felvitel, illetve törlés érdekében.
-
-Ebben az esetben is a „külföldi székhelyű közvetítő”, illetve „külföldi székhelyű közvetítő alvállalkozója” szöveget kell feltüntetni.
-
-Fentiekre tekintettel, ha a közvetítő/közvetítői alvállalkozó rendelkezik a székhelytől eltérő tevékenységi hellyel, így a HPTPK táblában a vonatkozó soron (pl. HPTPK1xxxx24) nem „0” értéket tüntetett fel, akkor adott pénzügyi közvetítőnek valamennyi tevékenységi helyét fel kell tüntetni a tábla ismétlősorain.
-
-Ha a HPTPK táblában bejelentett közvetítők egyike sem rendelkezik a székhelyétől eltérő tevékenységi hellyel, akkor a PKTEV táblát adatokkal nem kell kitölteni, hanem nemlegesen (a kötelező mezők 0-val való kitöltése után) kell beküldeni.
-
-A tábla első sorában (PKTEV1xxxx1) fel kell tüntetni a pénzügyi közvetítő teljes nevét.
-
-A tábla második sorában (PKTEV1xxxx2) kell kötelezően megadni a pénzügyi közvetítő törzsszámát. Külföldi székhelyű közvetítő esetén a papír alapú adatszolgáltatásban üres.
-
-Törzsszám a pénzügyi közvetítő adószámának első nyolc számjegye.
-
-A tábla PKTEV1xxxx3 alábontó soraiban fel kell tüntetni a pénzügyi közvetítő tevékenységének pontos helyét a következők szerint:
-
-• A PKTEV1xxxx31 Irányítószám soron a települések négy karakterből álló számát kell beírni, pont és egyéb írásjel nélkül (pl. 7400, 1213). Amennyiben a belföldi székhelyű pénzügyi közvetítő határon átnyúló szolgáltatást végez, vagy külföldi fióktelepet működtet, akkor a külföldi fiók, iroda működése helye szerinti település irányítószámát kell feltüntetni.
-
-• A PKTEV1xxxx32 Város soron magyarországi hivatalos helységnevek használhatók.
-
-• A PKTEV1xxxx33 Utca, házszám, emelet, ajtó soron az utcanév mellett a közterület típusát (tér, utca, út, körút stb.) is meg kell adni. A rövidítés nem megengedett pl. utca helyett „u.”.
-
-• A PKTEV1xxxx34 Ország soron „Magyarország” megnevezést vagy amennyiben a belföldi székhelyű pénzügyi közvetítő határon átnyúló szolgáltatást végez, vagy külföldi fióktelepet működtet, akkor a külföldi fiók, iroda működése helye szerinti ország teljes magyar nevét kell feltüntetni.
-
-A PKTEV1xxxx41, illetve a PKTEV1xxxx42 sorokon kell megadni az adott tevékenységi hely működése megkezdésének, illetve megszűnésének időpontját eeeehhnn formátumban pl. 20100311.
-
-A PKTEV1xxxx41 és 42 sor kitöltése vagylagos: amennyiben új telephely, fióktelep bejelentése történik, akkor a nyitást a 41 soron, ha adott tevékenységi hely megszűnik, akkor a megszűnés időpontját a 42 soron kell jelenteni. (Csak egyik mező töltendő, mindkettő kitöltése vagy üresen hagyása hibás.)
-
-PKVEZ Független közvetítők vezető állású személyei
-
-A tábla célja
-
-A tábla a független pénzügyi közvetítők Hpt. 188. § (1) bekezdés h) pontjában foglalt vezető állású személyeinek bejelentésére szolgál.
-
-A tábla kitöltése
-
-A vezető állású személyre vonatkozó adatokat (Hpt. 188. §, 3. számú melléklet I. fejezet) a Hpt. 188. § (1) bekezdés h) pontjában foglaltak szerint – csak a független pénzügyi közvetítők (többes ügynök, illetve többes kiemelt közvetítő) esetén kell kitölteni. Közvetítői alvállalkozó esetén a vezető állású személyre vonatkozó adatokat nem kell megadni.
-
-Amennyiben a pénzügyi közvetítő külföldi székhelyű, akkor – a HPTPK és PKTEV táblához hasonlóan – a PKVEZ táblát is az Általános előírások 2. pontjában foglaltak szerint postai úton – tehát nem a KAP rendszeren keresztül – kell az Engedélyezési és jogérvényesítési igazgatóság részére megküldeni a nyilvántartásba való felvitel, illetve törlés érdekében.
-
-Ebben az esetben is a „külföldi székhelyű közvetítő”, illetve „külföldi székhelyű közvetítő alvállalkozója” szöveget kell feltüntetni.
-
-Fentiekre tekintettel, ha a pénzügyi közvetítő független közvetítő (többes ügynök vagy többes kiemelt közvetítő), így a HPTPK táblában a vonatkozó soron (pl. HPTPK1xxxx264) nem „0” értéket tüntetett fel, akkor adott pénzügyi közvetítőnek valamennyi vezető állású személyét fel kell tüntetni a tábla ismétlősorain.
-
-Ha a HPTPK táblában bejelentett közvetítők egyike sem független közvetítő, akkor a PKVEZ táblát adatokkal nem kell kitölteni, hanem nemlegesen (a kötelező mezők 0-val való kitöltése után) kell beküldeni.
-
-Egy korábbi adatszolgáltatásban már bejelentett közvetítőhöz tartozó vezető állású személy be- vagy kijelentésekor elegendő a PKVEZ táblát tölteni.
-
-Ebben a táblában kell feltüntetni a vezető állású személy nevét, születési helyét – az ország megjelölése nélkül – és idejét.
-
-Budapesti születési hely esetén csak a város nevét kell megadni a kerület megjelölése nélkül.
-
-Meg kell adni továbbá a vezető beosztásúnak minősülő tisztség megnevezését és a tisztség betöltésének kezdetét, illetve végét.
-
-A tisztség betöltésének kezdeteként a megválasztás, kinevezés, alkalmazás időpontját, illetve annak megszűnésének napját kell jelenteni.
-
-Amennyiben a kinevezés határozott időre szól, a bejelentéskor akkor is csak a jogviszony kezdete adható meg.
-
-V. Fejezet
-
-A PÉNZÜGYI VÁLLALKOZÁSOK TÖRZSADATAI - ÉVES, ESETI
-
-A jelentés táblái
-
-KTAPVE1 INTÉZMÉNYI ALAPADATOK
-
-KTAPVE2 BEJELENTÉS- ÉS ENGEDÉLYKÖTELES TISZTSÉGVISELŐK
-
-KTAPVE3 TULAJDONOS ADATAI
-
-KTAPVE4 MINŐSÍTETT BEFOLYÁS
-
-KTAPVE5 KÖNYVVIZSGÁLÓ ADATAI
-
-KTAPVE6 KISZERVEZÉS ADATOK
-
-A táblák kitöltése évente egy alkalommal kötelező, abban az esetben is, ha az általuk érintett területen az elmúlt 12 hónap folyamán nem történt változás. A valamennyi törzsadat táblát tartalmazó éves jelentésnek a június 30-i állapotot kell tükröznie és a második negyedéves jelentéssel egyidejűleg kell a Felügyelet részére az e rendeletben foglaltak szerint megküldeni. Az éves jelentés nem pótolja az évközi változásra vonatkozó bejelentési kötelezettséget.
-
-A törzsadatok (kivéve a minősített befolyásra vonatkozó törzsadatok) évközi változását a törzsadatban történt változást követő 15 munkanapon belül eseti jelentésként kell megküldeni azzal, hogy elegendő csak annak a táblának kitöltése és beküldése, amelyben a változás történt. A minősített befolyásra vonatkozó törzsadatok (KTAPVE4) évközi változását a Hpt. 41. § (2) bekezdésében előírt határidőn belül kell megküldeni.
-
-A táblák kitöltéséhez fűzött magyarázatok:
-
-A *-gal jelölt mezők kitöltése kötelező.
-
-A **-gal jelölt mezők közül legalább az egyik kitöltése kötelező.
-
-A ***-gal jelölt mezőket csak a június 30-át megelőző egy évben tevékenységi engedélyt kapott intézménynek kell kitölteni.
-
-A ****-gal jelölt mezők kitöltése a június 30-át megelőző egy évben történt változás esetén kötelező.
-
-KTAPVE1 INTÉZMÉNYI ALAPADATOK
-
-A táblában megjelölésre kerültek a beszámolási időszakban történt tevékenységi engedélyszerzés, illetve a tárgyévben történt változás esetén kötelezően kitöltendő mezők.
-
-Az Intézmény jogi státusza sor kitöltéséhez az alábbi felsorolás által megadott lehetőségek választhatóak: aktív, cégbírósági nyilvántartásba vétel alatt, felszámolás alatt, végelszámolás alatt, átalakulás alatt/beolvadás, átalakulás alatt/összeolvadás, átalakulás alatt/különválás, átalakulás alatt/kiválás, átalakult/beolvadt, átalakult/összeolvadt, átalakult/különvált, átalakult/kivált, inaktív.
-
-A táblában fel kell tüntetni a pénzügyi vállalkozás telephelyeinek számát, melyet meg kell bontani a földrajzi elhelyezkedésük szerint „Belföld”, azon belül „Budapest”, „Vidéki város”, „Egyéb település” valamint „Külföld” kategóriákra. A pénzügyi vállalkozás telephelye a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 7. § (2) bekezdésében meghatározott hely.
-
-Itt kell jelenteni a hivatalos levelek címzettjének nevét, beosztását, illetve tisztségét, a Felügyelet kapcsolattartásért és a felügyeleti adatszolgáltatásért felelős személy nevét és elérhetőségeit, valamint a Hpt. 215/B. § (15) bekezdés alapján kijelölt fogyasztóvédelmi ügyekért felelős kapcsolattartó adatait, amelyek kötelezően kitöltendőek.
-
-KTAPVE2 BEJELENTÉS- ÉS ENGEDÉLYKÖTELES TISZTSÉGVISELŐK
-
-Ezt a táblát minden olyan – a Hpt. 2. számú melléklet III. Egyéb meghatározások 25. pont c) és e) alpontja által a pénzügyi vállalkozások esetében meghatározott – vezető állású személy, illetve annak változása esetében ki kell tölteni, aki a részvénytársasági vagy szövetkezeti formában működő pénzügyi vállalkozás ügyvezetője, igazgatóságának vagy felügyelő bizottságának elnöke, valamint az alapítványi formában működő pénzügyi vállalkozás kuratóriumának tagja, ellenőrző testületének elnöke, illetve ügyvezetője.
-
-A tábla gyűjtőblokkjaiban egyidejűleg több vezető állású személy szerepeltetésére van lehetőség. Ebben a táblában kell a tisztségviselők személyében, illetve adataiban történt évközi változást is jelenteni.
-
-Ha a tisztségviselő megbízatása, kinevezése visszavonásra került, akkor a tisztségviselőt a tisztség betöltésének vége dátum megadásával ki kell jelenteni.
-
-A Bejelentés oka cellában az alábbi kódok közül kell választani: „új”, „újraválasztás”, „megszűnés”, „megszűnés elhalálozás miatt”, „adatváltozás”, „adategyeztetés”.
-
-Változás esetén a változásban érintett vezető állású személy adatain túl minden esetben az intézmény vezető állású személyeinek aktuális teljes listáját is szerepeltetni kell. Ebben az esetben a Bejelentés oka cellában az „adategyeztetés” kódot kell kiválasztani. A táblában „igen” vagy „nem” válasszal kell jelölni, hogy a tisztségviselő vezető beosztásúnak minősül-e, elsőszámú vezető-e, illetve, hogy az intézmény alkalmazottja-e.
-
-A Tisztség betöltésének alapja cellában kell megjelölni, hogy a tisztségviselő a tisztségét „megválasztás” vagy „kinevezés” útján látja el.
-
-A Cégjegyzési joggal rendelkezik cellában kell megjelölni, hogy a tisztségviselő rendelkezik-e cégjegyzési joggal, és ha igen, akkor azt „egyedül” vagy ”közösen” gyakorolja. Amennyiben cégjegyzési joggal nem rendelkezik azt a „nincs joga” szöveggel kell jelezni.
-
-A Tisztség betöltésének kezdete, a Tisztség betöltésének vége és az Újraválasztás dátuma cellák közül legalább az egyik kitöltése kötelező.
-
-KTAPVE3 TULAJDONOS ADATAI
-
-Ebben a táblában a pénzügyi vállalkozás minimum 1% tulajdoni hányaddal rendelkező tulajdonosára vonatkozó adatokat kell jelenteni. A június 30-i állapotra vonatkozóan a tábla abban az esetben is kötelezően kitöltendő, ha a tulajdonosi szerkezetben az elmúlt 12 hónap folyamán változás nem történt. A június 30-án fennálló tulajdonosi szerkezetet úgy kell jelenteni, hogy abból a különböző típusú tulajdonrészek egyértelműen megállapíthatók legyenek. Külön blokkban kell feltüntetni a közvetlen és közvetett tulajdonrészeket. Azt, hogy „közvetlen” vagy „közvetett” tulajdonlásról van-e szó, a Tulajdonlás típusa soron kell jelezni. A közvetett tulajdonrészre vonatkozóan a Hpt. 4. számú melléklete szerint átszámított végeredményt kell feltüntetni. Közvetett tulajdonlás esetén a köztes vállalkozásra vonatkozó azonosító adatokat is ki kell tölteni.
-
-Az eseti jelentés beküldésének célja, hogy a Tulajdonos adatai mellett (értelemszerűen külön blokkban a természetes személyeket – KTAPVE3101-KTAPVE3199 – és jogi személyeket – KTAPVE3201-KTAPVE3299 –, mint tulajdonosokat) a tulajdonváltozásban érintett tulajdonrésznek a tulajdonváltozás előtti állapotát – pl. természetes személy esetén a KTAPVE3101071- KTAPVE3101078 – és magát a tulajdonváltozást rögzítse.
-
-A tranzakcióra vonatkozó információkat és adatokat a „Tulajdonváltozás időpontja…” sortól kezdődően kell megjeleníteni (pl. természetes személy esetén: KTAPVE3101081- KTAPVE3101088). Ha a Tulajdonváltozás típusa cellában vétel, eladás stb. szerepel, akkor a Tulajdoni rész (% és Ft) sorokban a vett/eladott mennyiség jelenik meg. A tranzakció utáni összes tulajdoni rész a tranzakciót megelőző állapot és a tranzakció összesítéséből látható.
-
-A Tulajdonváltozás időpontja cellában vétel, eladás esetén a szerződés keltét, tőkeleszállítás, tőkeemelés esetén a közgyűlési határozat keltét kell feltüntetni.
-
-A Tulajdonváltozás típusa cellában kell szerepeltetni, hogy pl. vétel, eladás, tőkeleszállítás, tőkeemelés történt. Ebben a cellában kell feltüntetni továbbá az üzleti partner nevét, akivel a tranzakciót lebonyolította. Több partner esetén a neveket egymás mellett kell felsorolni.
-
-Amennyiben eladás történik, akkor az új tulajdonost és a tulajdont egy új ismétlőblokkban meg kell jeleníteni.
-
-KTAPVE4 MINŐSÍTETT BEFOLYÁS
-
-Ezt a táblát kell kitöltenie a pénzügyi vállalkozásnak a minősített befolyással rendelkező tulajdonosra vonatkozó adatokról, évente minden esetben a június 30-i állapotra vonatkozóan, illetve év közben, ha az adott intézményben a Hpt. 37. § értelmében engedélyköteles minősített befolyású részesedés-változás történt, és az erre vonatkozó engedélyt a Felügyelet megadta.
-
-A Minősített befolyás típusa cellában kell jelezni a „közvetlen”, illetve a „közvetett” befolyást.
-
-Közvetett tulajdonlás esetén a Hpt. 4. számú melléklet szerint a minősített befolyást szerzett jogi és természetes személyek köztes vállalkozásának tulajdoni hányadát is számításba kell venni. Természetes személy minősített befolyású részesedésének meghatározásánál a természetes személy és a közeli hozzátartozói által birtokolt, illetve gyakorolt tulajdoni hányadot is figyelembe kell venni a köztes vállalkozásból adódó közvetett tulajdonlás mellett (Hpt. 4. számú melléklet 2. pont). A közeli hozzátartozókra és a köztes vállalkozásokra vonatkozó adatokat is ki kell tölteni.
-
-Tulajdonosi csoportok esetén a tulajdonosok adatait a tábla ismétlőblokkos szerkezetében értelemszerűen kell megadni.
-
-KTAPVE5 KÖNYVVIZSGÁLÓ ADATAI
-
-Ebben a táblában kell a könyvvizsgáló személyében és adataiban történt változást bejelenteni, valamint a megbízás megszűnésével a könyvvizsgálót kijelenteni.
-
-A könyvvizsgáló megbízására a Hpt. 133. §-ban írtak az irányadóak.
-
-A könyvvizsgáló személyére vonatkozó adatok könyvvizsgáló társaság és természetes személy megbízása esetén is kötelezően kitöltendőek. A tábla lehetőséget ad a helyettes könyvvizsgálóra vonatkozó adatok kitöltésére is. A „Pénzügyi intézményi minősítést igazoló azonosító” cellában a könyvvizsgáló személy, illetve társaság, pénzügyi intézményi minősítési számát kell jelenteni, amelyet 2008. január 1. előtt a Felügyelet, 2008-tól pedig a Magyar Könyvvizsgáló Kamara bocsát ki a könyvvizsgáló számára.
-
-KTAPVE6 KISZERVEZÉS ADATOK
-
-Ebben a táblában kell a kiszervezett tevékenységet és a kiszervezést végzők adataiban történt változást bejelenteni, valamint a kiszervezett tevékenységet kijelenteni. A kiszervezésre vonatkozó szabályokat a Hpt. 13/A. §-a tartalmazza.
-
-A tábla gyűjtőblokkjaiban egyidejűleg több kiszervezett tevékenység szerepeltetésére van lehetőség. Ha a tevékenység kiszervezése megszűnt, akkor a kiszervezést a kiszervezés vége dátum megadásával ki kell jelenteni.
-
-Attól függően, hogy a kiszervezett tevékenységet természetes személy vagy intézmény végzi, a megfelelő sorok értelemszerűen töltendők.
-
-A Kiszervezett tevékenység (Hpt. 13/A. §-nak megfelelően) cellában kell feltüntetni a tevékenység megnevezését.
-
-VI. Fejezet
-
-PÉNZPIACI ALKUSZOK JELENTÉSEI - ESETI
-
-A jelentés táblái
-
-AHPTPK PÉNZPIACI ALKUSZ - Pénzügyi közvetítők adatai
-
-APKTEV PÉNZPIACI ALKUSZ - Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye
-
-A tábla célja
-
-A tábla a pénzpiaci alkuszoknak a Hpt. 3. § (10) bekezdésében meghatározott bejelentési kötelezettsége teljesítésére szolgál, figyelembe véve a Hpt. 188. § (1) bekezdésében foglalt jogszabályi előírást a Felügyelet által nyilvántartandó adatok körére.
-
-Általános előírások
-
-1. Az adatszolgáltatás alanyi és tárgyi hatálya
-
-Az AHPTPK PÉNZPIACI ALKUSZ - Pénzügyi közvetítők adatai és annak mellékletét képező APKTEV PÉNZPIACI ALKUSZ - Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye táblákban kell a pénzpiaci alkusznak a Hpt. 3. § (10) bekezdésében meghatározottak szerint a Felügyelet felé történő felügyeleti bejelentési kötelezettség alá tartozó közvetítői alvállalkozók [Hpt. 6/E. § (2) bekezdés] adatait bejelenteni.
-
-Alkusz: Hpt. 6/E. § (1) bekezdés b) pont bc) alpontja szerinti közvetítő.
-
-Közvetítői lánc: Az alkusz alatt legfeljebb egy közvetítői szint lehetséges, ahol a közvetítői alvállalkozó áll.
-
-A táblában nem kell szerepeltetni, azaz a Felügyeletnek nem kell bejelenteni a pénzügyi közvetítő (közvetítői alvállalkozó) saját alkalmazottait.
-
-2. Az adatszolgáltatás beküldésének módja
-
-Amennyiben a szóban forgó közvetítői alvállalkozó külföldi székhelyű, úgy azt ugyanilyen módon, ugyanezen táblákon, postai úton az Engedélyezési és jogérvényesítési igazgatóság részére kell bejelenteni (kijelenteni, változást jelenteni egyaránt). Ekkor a bejelentés tárgyában a „külföldi székhelyű közvetítői alvállalkozó” szöveget kell feltüntetni.
-
-Miután a külföldi székhelyű alvállalkozónak a KAP rendszeren keresztüli bejelentése/kijelentése/változás bejelentése a nyilvántartásba automatikusan nem töltődik be, ezért azt a Felügyelet nem tudja adatszolgáltatásként elfogadni.
-
-3. Az adatszolgáltatás beküldési gyakorisága
-
-Az alvállalkozókra vonatkozó bejelentést a megbízási jogviszony létrejöttétől számított 5 munkanapon belül kell a Felügyelet részére megküldeni.
-
-A már bejelentett alvállalkozókat érintő változásokat akár érdemi, akár adatváltozás, illetve a kijelentésüket a változástól, illetve a szerződés megszűnésétől számított 5 munkanapon belül kell megküldeni a KAP rendszeren keresztül eredeti jelentésként.
-
-Módosító jelentést akkor kell küldeni, ha a már beküldött adatok hibás adatszolgáltatás miatt javításra szorulnak. Ekkor a javítást visszamenőleg végre kell hajtani.
-
-Érdemi változás alatt értjük, ha a közvetítővel való kapcsolatban történik változás, így pl. ha a megbízási jogviszony megszűnik.
-
-Adatváltozás alatt azt értjük, ha a közvetítő törzsszáma változatlan, viszont a közvetítő nevében, székhelyében, egyéb adatában változás történik.
-
-4. Az adatszolgáltatás általános formai és tartalmi szabályai
-
-A Felügyelet által előírt táblák formáját, szerkezetét megváltoztatni nem lehet.
-
-Az egyes mezőkbe történő adatbevitel során, az adattartalom elején, közben és a végén felesleges szóköz (space) karaktert nem használható.
-
-A táblában dátum formátumaként ééééhhnn tüntetendő fel. Az év, hó, nap közé és a végére elválasztó karakter (pl. pont) nem kerülhet.
-
-Az adatszolgáltatásban a gyűjtőblokkok egymás alá másolásával és a PSZÁF kód megfelelő átírásával (AHPTPK10001-AHPTPK19999) egyidejűleg 9999 közvetítői láncot lehet bejelenteni, mely ebben az esetben a pénzpiaci alkuszból és az alatta álló közvetítői alvállalkozóból áll.
-
-A HPTPK táblában az adott sorokhoz tartozó jelölések jelentése:
-
-- A *-gal jelölt mező kitöltése kötelező.
-
-- A ** -gal jelölt mezők közül az egyik kitöltése kötelező, mindkettő kitöltése vagy üresen hagyása hibás.
-
-A kitöltés részletes szabályai
-
-| AHPTPK PÉNZPIACI ALKUSZ - Pénzügyi közvetítők adatai |
-
-| PSZÁF kód | Megnevezés | Kitöltési útmutató |
-
-| Jogszabályi előírások: Hpt. 3. § (10) bekezdés, 6/E. § (2) bekezdés 188. § (1) bekezdés, 3. számú melléklet I. Azonosító adatok |
-
-| Megjegyzés: az azonosítóban szereplő xxxxx megjelölés a gyűjtőblokk folyamatos sorszámára utal (0001-9999-ig) (pl. 1. blokk első PSZÁF sorkódja: 100011 és utolsó PSZÁF sorkódja: 10001472, a 2. blokk első PSZÁF sorkódja: 100021 és utolsó PSZÁF sorkódja: 10002472) |
-
-| AHPTPK1xxxx1 | Pénzügyi közvetítő kapcsolódása a közvetítői lánchoz |
-
-| AHPTPK1xxxx11 | Alkusz neve* | Itt kell az adatszolgáltatásra kötelezett alkusz teljes nevét feltüntetni. |
-
-| AHPTPK1xxxx12 | Alkusz törzsszáma* | Az alkusz adószámának első nyolc számjegye. |
-
-| AHPTPK1xxxx2 | Pénzügyi közvetítő adatai (Az alkusz alatt álló szereplő) Ebben a blokkban kell feltüntetni az alkusz alatt első szinten álló, azaz közvetlenül kapcsolódó pénzügyi közvetítő (közvetítői alvállalkozó) adatait. |
-
-| AHPTPK1xxxx21 | Közvetítő neve* | A pénzügyi közvetítő teljes nevét kell feltüntetni. |
-
-| AHPTPK1xxxx22 | Közvetítő törzsszáma* | A pénzügyi közvetítő adószámának első nyolc számjegye. Külföldi székhelyű közvetítő esetén a papír alapú adatszolgáltatásban üres cella. |
-
-| AHPTPK1xxxx23 | Székhelye* | A pénzügyi közvetítő létesítő okiratában feltüntetett székhelye. Az AHPTPK1xxxx231 Irányítószám soron a település négy karakterből álló, a Magyar Posta által használt számát kell beírni, pont és egyéb írásjel nélkül (pl. 7400, 1213). Az AHPTPK1xxxx232 Város soron a magyarországi hivatalos helységnevek használhatók. [Abban az esetben, ha az irányítószám és a hozzá tartozó település a következő: pl. 4551 Nyíregyháza (Oros), a Város soron a „Nyíregyháza” vagy az „Oros” a feltüntetendő, a kettő együttes megjelenítését az ellenőrző program nem fogadja el.] Az AHPTPK1xxxx233 Utca, házszám, emelet, ajtó soron formai követelmény, hogy az utcanév mellett a közterület típusa (tér, utca, út, körút stb.) is kerüljön beírásra. Rövidítés nem megengedett (pl. utca helyett „u.”). Az AHPTPK1xxxx234 Ország soron kell feltüntetni a pénzügyi közvetítő székhelye szerinti ország megnevezését. Az elektronikus úton megküldött adatszolgáltatásban csak „Magyarország” szerepelhet. Lásd általános részben leírtak szerint a külföldi székhelyű közvetítő postai úton történő bejelentésére vonatkozó előírást. Külföldi székhelyű közvetítő esetén az ország teljes magyar nevét kell feltüntetni. |
-
-| AHPTPK1xxxx24 | Tevékenység végzésére szolgáló fiókok, telephelyek száma (db, részletezve a PKTEV táblában)* | Ebben a sorban kell megadni a pénzügyi közvetítő tevékenységi helyeként működő fiókok és telephelyek darabszámát. A tevékenység pontos helyét a kapcsolódó APKTEV tábla gyűjtősoraiban kell feltüntetni minden esetben megjelölve a közvetítői alvállalkozó teljes nevét és törzsszámát is. Az APKTEV tábla gyűjtősoraiban azt a földrajzi helyet kell megjelölni, ahol a pénzügyi közvetítő közvetítői tevékenységét végzi pl. iroda, fiók címe. Amennyiben nem rendelkezik a székhelytől eltérő tevékenységi hellyel, akkor ezen a soron 0-t kell megadni. |
-
-| AHPTPK1xxxx251, AHPTPK1xxxx252 | Pénzügyi szolgáltatási tevékenység kezdete és vége (ééééhhnn)** | A pénzügyi közvetítői tevékenység megkezdésének időpontja. A pénzügyi szolgáltatás tevékenység vége időpontjaként a közvetítői szerződés megszűnésének időpontját kell szerepeltetni. Új közvetítő bejelentése esetén az AHPTPK1xxxx251 sort, meglévő közvetítői kapcsolat megszűnése esetén az AHPTPK1xxxx252 sort kell kitölteni, azaz kitöltése vagylagos. (Csak az egyik mező töltendő, mindkettő kitöltése vagy üresen hagyása hibás.) |
-
-| AHPTPK1xxxx261 | Közvetítő típusa* | Kiválasztandó a Hpt. 6/E. § alapján történt besorolás szerint: „közvetítői alvállalkozó”. |
-
-| AHPTPK1xxxx262 | Közvetítő státusza* | A státusz a közvetítő közvetítői lánchoz történő kapcsolódásának jellegét, a hierarchiában betöltött helyét mutatja be. Kiválasztandó: „közvetítői alvállalkozó”. |
-
-APKTEV Bejelentési kötelezettség alá tartozó közvetítők tevékenységi helye
-
-A tábla célja
-
-A tábla a Hpt. 3. § (10) bekezdésében meghatározott bejelentési kötelezettség alá tartozó pénzügyi közvetítők Hpt. 188. § (1) bekezdés b) pontjában foglalt tevékenység helyeinek bejelentésére szolgál.
-
-A tábla kitöltése
-
-Ebben a táblában meg kell megadni az AHPTPK táblában bejelentett pénzügyi közvetítők (közvetítői alvállalkozók) nevét, törzsszámát és a tevékenység helyét, valamint a tevékenység helye változásának időpontját.
-
-Tevékenység helye alatt azt a földrajzi helyet értjük, ahol a pénzügyi közvetítő a pénzügyi közvetítői tevékenységét végzi pl. iroda, fiók címe.
-
-Amennyiben magyarországi székhellyel rendelkezik a pénzügyi közvetítő, de a tevékenység földrajzi helye nem Magyarország, abban az esetben is az APKTEV táblát kell beküldeni elektronikus úton – a KAP rendszeren keresztül – a változást (megnyitást vagy bezárást) követő 5 munkanapon belül.
-
-Amennyiben a pénzügyi közvetítő külföldi székhelyű, akkor – az AHPTPK táblához hasonlóan – az APKTEV táblát is az Általános előírások 2. pontjában foglaltak szerint postai úton – tehát nem a KAP rendszeren keresztül – kell az Engedélyezési és jogérvényesítési igazgatóság részére megküldeni a nyilvántartásba való felvitel, illetve törlés érdekében.
-
-Ebben az esetben is a „külföldi székhelyű közvetítői alvállalkozó” szöveget kell feltüntetni.
-
-Fentiekre tekintettel, ha a közvetítő rendelkezik a székhelytől eltérő tevékenységi hellyel, így az AHPTPK táblában a vonatkozó soron (pl. AHPTPK1xxxx24) nem „0” értéket tüntetett fel, akkor adott pénzügyi közvetítőnek valamennyi tevékenységi helyét fel kell tüntetni a tábla ismétlősorain.
-
-Ha az AHPTPK táblában bejelentett közvetítők egyike sem rendelkezik a székhelyétől eltérő tevékenységi hellyel, akkor az APKTEV táblát nem kell kitölteni, hanem nemlegesen (a kötelező mezők 0-val való kitöltése után) kell beküldeni.
-
-Egy korábbi adatszolgáltatásban már bejelentett közvetítő új tevékenységi helyének vagy a régi megszűnésének bejelentésekor elegendő csak az APKTEV táblát tölteni.
-
-A tábla első sorában (APKTEV1xxxx1) fel kell tüntetni a pénzügyi közvetítő teljes nevét.
-
-A tábla második sorában (APKTEV1xxxx2) kell kötelezően megadni a pénzügyi közvetítő törzsszámát. Külföldi székhelyű közvetítő esetén a papír alapú adatszolgáltatásban üres cella.
-
-Törzsszám a pénzügyi közvetítő adószámának első nyolc számjegye.
-
-A tábla APKTEV1xxxx3 alábontó soraiban fel kell tüntetni a pénzügyi közvetítő tevékenységének pontos helyét a következők szerint:
-
-• Az APKTEV1xxxx31 Irányítószám soron a települések négy karakterből álló számát kell beírni, pont és egyéb írásjel nélkül (pl. 7400, 1213). Amennyiben a belföldi székhelyű pénzügyi közvetítő határon átnyúló szolgáltatást végez, vagy külföldi fióktelepet működtet, akkor a külföldi fiók, iroda működése helye szerinti település irányítószámát kell feltüntetni.
-
-• Az APKTEV1xxxx32 Város soron magyarországi hivatalos helységnevek használhatók.
-
-• Az APKTEV1xxxx33 Utca, házszám, emelet, ajtó soron az utcanév mellett a közterület típusát (tér, utca, út, körút stb.) is meg kell adni. A rövidítés nem megengedett pl. utca helyett „u.”.
-
-• Az APKTEV1xxxx34 Ország soron „Magyarország” megnevezést vagy amennyiben a belföldi székhelyű pénzügyi közvetítő határon átnyúló szolgáltatást végez, vagy külföldi fióktelepet működtet, akkor a külföldi fiók, iroda működése helye szerinti ország teljes magyar nevét kell feltüntetni.
-
-Az APKTEV1xxxx41, illetve az APKTEV1xxxx42 sorokon kell megadni az adott tevékenységi hely működése megkezdésének, illetve megszűnésének időpontját eeeehhnn formátumban pl. 20100311.
-
-Az APKTEV1xxxx41 és 42 sor kitöltése vagylagos: amennyiben új telephely, fióktelep bejelentése történik, akkor a nyitást a 41 soron, ha adott tevékenységi hely megszűnik, akkor a megszűnés időpontját a 42 soron kell jelenteni. (Csak az egyik mező töltendő, mindkettő kitöltése vagy üresen hagyása hibás.)
-
-PÉNZPIACI ALKUSZOK JELENTÉSEI - ÉVES
-
-PUTAD Független közvetítők felügyeleti alapdíj számítása
+II. 4. 1. 1. - PUTAD Független közvetítők felügyeleti alapdíj számítása
 
 A tábla célja
 
@@ -2358,5 +1874,5 @@ Az 1. Előírt alapdíj (PUTAD1) sor tartalmazza a független közvetítő rész
 
 A 2. Megfizetett alapdíj (PUTAD2) sor kitöltésénél az I. RÉSZ 5.2. pontjában meghatározottak szerint a felügyeleti díj fizetésére vonatkozó előírásokat kell figyelembe venni.
 
-[^6]: A 2. melléklet a 16/2012. (X. 16.) PSZÁF rendelet 3. § b) pontjával megállapított szöveg.
-[^7]: „6. hitelező: lakáshitel-szerződésből eredő követeléssel rendelkező személy”
+[^10]: A 2. melléklet a 3/2013. (IV. 26.) PSZÁF rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^11]: „6. hitelező: lakáshitel-szerződésből eredő követeléssel rendelkező személy”

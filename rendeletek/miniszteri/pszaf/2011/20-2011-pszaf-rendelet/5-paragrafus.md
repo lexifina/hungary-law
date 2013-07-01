@@ -1,4 +1,4 @@
-5. §[^4] (1) A beszámolás napja a tárgyidőszak utolsó munkanapja.
+5. §[^5] (1) A beszámolás napja a tárgyidőszak utolsó munkanapja.
 
 (2) A pénzügyi vállalkozás és a fióktelep
 
@@ -6,19 +6,13 @@ a) a negyedéves jelentést – a negyedévben értékesített fedezeti lakóing
 
 b) az előkészített jelentést – amennyiben az intézmény a Felügyelet egyedi felhívása alapján az adatszolgáltatásra kötelezett – a felhívásban meghatározott vonatkozási időpontra és határidőre, valamint időtartamig,
 
-c) a törzsadatairól szóló jelentését
+c)[^6]
 
-ca) első alkalommal a Felügyelet által kiadott tevékenységi engedélyről szóló határozat jogerőre emelkedését követő 15 munkanapon belül,
-
-cb) a ca) alpontban megjelölt időpontot követően (valamennyi törzsadat táblát egy jelentésben feltöltve) a tárgyév június 30-i állapotot tükröző éves jelentést a második negyedévre vonatkozó negyedéves jelentéssel egyidejűleg a tárgynegyedévet követő hónap 20. munkanapjáig,
-
-cc) az időközi változások miatti törzsadat-jelentést – az 1. melléklet szerinti KTAPVE4 jelentés kivételével – a változást követő 15 munkanapon belül, az 1. melléklet szerinti KTAPVE4 jelentést a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben előírt határidőn belül,
-
-d) a pénzügyi közvetítők bejelentésére vonatkozó jelentését a változást követő 5 munkanapon belül
+d)[^7]
 
 köteles a Felügyelet részére megküldeni.
 
-(3) A pénzpiaci alkusz a pénzügyi közvetítők bejelentésére vonatkozó jelentést a változást követő 5 munkanapon belül köteles a Felügyelet részére megküldeni.
+(3)[^8]
 
 (4) A pénzügyi vállalkozás és a fióktelep magyar nyelven, az éves beszámoló elfogadását követő 15 munkanapon belül, de legkésőbb a tárgyévet követő év május 31-ig köteles eljuttatni a Felügyelet részére az éves beszámoló alapján készített auditált mérlegadatokat és eredménykimutatást tartalmazó felügyeleti jelentést, a cégszerű aláírással ellátott éves beszámolót a könyvvizsgálói záradékkal és az adózott eredmény felhasználására vonatkozó határozattal, valamint a közgyűlési határozattal vagy jegyzőkönyvvel, továbbá az üzleti jelentést.
 
@@ -26,4 +20,7 @@ köteles a Felügyelet részére megküldeni.
 
 (6) A pénzügyi vállalkozás és fióktelep a felügyeleti változó díj számításáról szóló negyedéves jelentést a Felügyeletnek küldendő negyedéves adatszolgáltatás részeként, a tárgynegyedévet követő hónap 20. munkanapjáig, a tárgyévre számított felügyeleti változó díj auditálás utáni esetleges különbözetét a tárgyévet követő év második negyedévére vonatkozó bevallásban – külön korrekciós tételként – köteles eljuttatni a Felügyelet részére.
 
-[^4]: Az 5. § a 16/2012. (X. 16.) PSZÁF rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 5. § a 16/2012. (X. 16.) PSZÁF rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (2) bekezdés c) pontját a 3/2013. (IV. 26.) PSZÁF rendelet 7. § g) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (2) bekezdés d) pontját a 3/2013. (IV. 26.) PSZÁF rendelet 7. § g) pontja hatályon kívül helyezte.
+[^8]: Az 5. § (3) bekezdését a 3/2013. (IV. 26.) PSZÁF rendelet 7. § g) pontja hatályon kívül helyezte.
