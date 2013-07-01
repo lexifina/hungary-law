@@ -1,0 +1,11 @@
+## 25. § Az ideiglenes használatbavételre a 19–24. § rendelkezéseit a 26. §-ban foglalt eltéréssel kell alkalmazni.
+
+26. § (1) A vasúti közlekedési hatóság ideiglenes használatbavételi engedélyével a kérelmező az építményt vagy annak egy részét az építési munka teljes befejezése előtt, meghatározott időtartamra ideiglenesen használatba veheti, ha azt forgalomszervezési érdekek, műszaki vagy technológiai okok indokolják.
+
+(2) A vasúti közlekedési hatóság abban az esetben engedélyezi új létesítésű vasúti építmény ideiglenes használatbavételét, ha az építmény, vagy annak egy része műszaki átadása megtörtént, az építési engedélynek megfelelően épült meg, rendeltetésszerű használatra alkalmas, valamint kielégíti a forgalombiztonsági követelményeket.
+
+(3) Ideiglenes használatbavételi engedélyt a vasúti közlekedési hatóság kizárólag határozott időtartamra, legfeljebb két évre adhat, amely időtartamot a forgalomszervezési, műszaki, vagy technológiai igények és az építés ütemezésének figyelembevételével határoz meg.
+
+(4) A vasúti közlekedési hatóság ideiglenes használatbavételi engedély időbeli hatályának időtartamát kérelemre legfeljebb két alkalommal egy-egy év időtartamra meghosszabbíthatja.
+
+(5) Az ideiglenes használatbavételi engedélynek tartalmaznia kell a végleges használatbavételi engedély megadásának feltételeit.
