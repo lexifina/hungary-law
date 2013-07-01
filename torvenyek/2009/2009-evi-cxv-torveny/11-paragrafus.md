@@ -20,6 +20,8 @@ h) ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számá
 
 i) a törlés időpontját és okát.
 
+(1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–i) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába kizárólag az e törvényben meghatározott esetben jogosult adatokat bejegyezni, valamint a nyilvántartásból adatot törölni. A nyilvántartást vezető szerv a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (3) A nyilvántartást vezető szerv az egyéni vállalkozói jogviszony fennállásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az egyéni vállalkozó megfelel-e a 3. § (2) bekezdésének b) és c) pontjában meghatározott feltételeknek, továbbá, hogy nem áll-e valamely tevékenysége tekintetében foglalkozástól eltiltás hatálya alatt.

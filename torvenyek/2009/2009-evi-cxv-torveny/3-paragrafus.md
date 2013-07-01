@@ -12,7 +12,13 @@ d) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 a) aki korlátozottan cselekvőképes vagy cselekvőképtelen,
 
-b) akit a közélet tisztasága elleni [a büntető törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. Fejezet VII. cím] a nemzetközi közélet tisztasága elleni (Btk. XV. Fejezet VIII. cím), gazdasági (Btk. XVII. Fejezet), vagyon elleni (Btk. XVIII. Fejezet) bűncselekmény miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
+b) akit
+
+ba) a 2013. június 30-ig hatályban volt közélet tisztasága elleni [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. Fejezet VII. cím], nemzetközi közélet tisztasága elleni (1978. évi IV. törvény XV. Fejezet VIII. cím), gazdasági (1978. évi IV. törvény XVII. Fejezet) vagy vagyon elleni (1978. évi IV. törvény XVIII. Fejezet) bűncselekmény,
+
+bb) korrupciós [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. Fejezet], vagyon elleni erőszakos (Btk. XXXV. Fejezet), vagyon elleni (Btk. XXXVI. Fejezet), szellemi tulajdonjog elleni (Btk. XXXVII. Fejezet), pénz- és bélyegforgalom biztonsága elleni (Btk. XXXVIII. Fejezet), költségvetést károsító (Btk. XXXIX. Fejezet), pénzmosás (Btk. XL. Fejezet), a gazdálkodás rendjét sértő (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő (Btk. XLII. Fejezet) vagy a tiltott adatszerzés és az információs rendszer elleni (Btk. XLIII. Fejezet) bűncselekmény
+
+miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
 
 c) akit szándékos bűncselekmény miatt jogerősen egy évet meghaladó, végrehajtandó szabadságvesztére ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
 
