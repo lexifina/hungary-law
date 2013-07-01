@@ -16,7 +16,7 @@ fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, illetve intézm�
 
 fb) egészségügyi szolgáltató,
 
-fc) közoktatási intézmény,
+fc) köznevelési intézmény,
 
 fd) felsőoktatási intézmény,
 

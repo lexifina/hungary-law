@@ -10,12 +10,12 @@ b) amelynek ellátását törvény, kormányrendelet vagy miniszteri rendelet (a
 
 (4) Aki a fogadó szervezetnél jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapuló tevékenységet végez, az e körbe tartozó feladatokat a fogadó szervezetnél önkéntes jogviszonyban nem végezheti.
 
-(5) A tanuló nem létesíthet önkéntes jogviszonyt azzal a közoktatási intézménnyel, amellyel tanulói jogviszonyban, kollégiumi tagsági viszonyban áll. Ez a korlátozás nem vonatkozik a közoktatási intézmény által szervezett és a tanulói jogviszonnyal, kollégiumi tagsági viszonnyal összefüggő kötelezettséget nem érintő táboroztatási tevékenységre és egyéb közösségi programokra.
+(5) A tanuló nem létesíthet önkéntes jogviszonyt azzal a nevelési-oktatási intézménnyel, amellyel tanulói jogviszonyban, kollégiumi tagsági viszonyban áll. Ez a korlátozás nem vonatkozik a köznevelési intézmény által szervezett és a tanulói jogviszonnyal, kollégiumi tagsági viszonnyal összefüggő kötelezettséget nem érintő táboroztatási tevékenységre és egyéb közösségi programokra.
 
 (6) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
 
 a) a fogadó szervezet az önkéntes által okozott kár megtérítésére felelősségbiztosítási szerződést kötött,
 
-b) az önkéntes szállása, ellátása és visszautazása biztosított,
+b) az önkéntes szállása, ellátása és visszautazása biztosított, valamint
 
 c) az önkéntes egészségügyi szolgáltatásra jogosult, vagy rendelkezik az egészségügyi szolgáltatások költségét fedező biztosítással.

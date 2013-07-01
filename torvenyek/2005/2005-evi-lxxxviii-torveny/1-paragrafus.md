@@ -12,6 +12,8 @@ a) az önkéntes véradásra,
 
 b) az önkéntes, illetve létesítményi tűzoltóként végzett tevékenységre,
 
-c) a polgári természetőrként végzett tevékenységre.
+c) a polgári természetőrként végzett tevékenységre,
+
+d) a nemzeti köznevelésről szóló törvény szerinti közösségi szolgálatra.
 
 (3) E törvény nem érinti a 3. § (1) bekezdésén kívüli személynél, szervezetnél, illetve tevékenységi körben más vagy mások javára, ellenszolgáltatás nélkül végzett önkéntes tevékenységet.

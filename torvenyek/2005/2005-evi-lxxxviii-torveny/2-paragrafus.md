@@ -1,8 +1,8 @@
-2. § (1) Közérdekű önkéntes tevékenység a fogadó szervezetnél a 3. §-ban meghatározott tevékenységi körben ellenszolgáltatás nélkül végzett munka, kivéve, ha
+2. § (1) Közérdekű önkéntes tevékenység a fogadó szervezetnél a 3. §-ban meghatározott tevékenységi körben ellenszolgáltatás nélkül végzett tevékenység, kivéve, ha
 
 a) a személy a tevékenységet maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója javára végzi,
 
-b) a tevékenység jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapul,
+b) a tevékenység jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapul, vagy
 
 c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban, egyesület, illetve egyház tagjaként, alapítvány, közalapítvány kezelő szervének tagjaként vagy egyházi személyként.
 

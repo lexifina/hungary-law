@@ -2,7 +2,7 @@
 
 (2) Amennyiben az önkéntes bizonyítja, hogy
 
-a) a testi sérüléséből, illetve egészségkárosodásából eredő kára,
+a) a testi sérüléséből, illetve egészségkárosodásából eredő kára, vagy
 
 b) a tulajdonában vagy használatában álló, a közérdekű önkéntes tevékenység ellátásához szükséges dologban a közérdekű önkéntes tevékenység végzésének helyén keletkező kára
 

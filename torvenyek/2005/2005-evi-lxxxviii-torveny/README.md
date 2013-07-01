@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-88-00-00
 | 2012-06-27 | 2012. évi LXXVI. törvény | 2005-88-00-00.12 |
 | 2013-01-01 | 2012. évi CCX. törvény | 2005-88-00-00.13 |
 | 2013-02-01 | 2012. évi CCVIII. törvény | 2005-88-00-00.14 |
+| 2013-07-01 | 2013. évi XLIV. törvény | 2005-88-00-00.15 |

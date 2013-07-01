@@ -4,7 +4,7 @@ a) a közérdekű önkéntes tevékenység tartalmát,
 
 b) a közérdekű önkéntes tevékenység ellátásának helyét,
 
-c) a közérdekű önkéntes tevékenységre fordítandó időt és a pihenőidőt,
+c) a közérdekű önkéntes tevékenységre fordítandó időt és a pihenőidőt, valamint
 
 d) azokat a 2. § (3) bekezdésének a)–h) pontja szerinti juttatásokat, amelyeket az önkéntesnek biztosítanak, és rendelkezni kell azokról az önkéntes szerződés megszűnésének esetére.
 
@@ -28,6 +28,6 @@ e) az önkéntes harmadik országbeli állampolgár, ide nem értve a menekültk
 
 f) bármelyik fél azonnali hatályú felmondáshoz való jogát korlátozzák,
 
-g) az önkéntes kéri,
+g) az önkéntes kéri, vagy
 
 h) ezt jogszabály elrendeli.

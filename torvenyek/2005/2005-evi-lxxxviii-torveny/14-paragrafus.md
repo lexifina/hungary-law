@@ -12,7 +12,7 @@ e) a közérdekű önkéntes tevékenység megkezdésének időpontját,
 
 f) határozott időre kötött önkéntes szerződés esetén azt az időpontot, amikor a szerződés hatálya megszűnik,
 
-g) tizennyolcadik életévét be nem töltött önkéntes esetén a közérdekű önkéntes tevékenységre fordított idővel kapcsolatos adatokat,
+g) tizennyolcadik életévét be nem töltött önkéntes esetén a közérdekű önkéntes tevékenységre fordított idővel kapcsolatos adatokat, valamint
 
 h) az önkéntesnek a 2. § (3) bekezdése szerint nyújtott juttatásokat.
 

@@ -4,7 +4,7 @@ a) az egészséget nem veszélyeztető és biztonságos munkavégzés feltétele
 
 b) a szükséges pihenőidőt,
 
-c) a közérdekű önkéntes tevékenység ellátásához szükséges tájékoztatást és irányítást, az ismeretek megszerzését,
+c) a közérdekű önkéntes tevékenység ellátásához szükséges tájékoztatást és irányítást, az ismeretek megszerzését, valamint
 
 d) tizennyolcadik életévét be nem töltött önkéntes, illetve a korlátozottan cselekvőképes nagykorú önkéntes esetén a közérdekű önkéntes tevékenység folyamatos, szakszerű felügyeletét.
 

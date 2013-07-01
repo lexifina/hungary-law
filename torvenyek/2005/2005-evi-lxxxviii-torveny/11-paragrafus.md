@@ -1,35 +1,33 @@
-11. § (1) A fogadó szervezet a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszternek (a továbbiakban: miniszter) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
+11. § (1) A fogadó szervezet a társadalmi esélyegyenlőség előmozdításáért felelős miniszternek (a továbbiakban: miniszter) köteles – a (2) bekezdésben foglaltak kivételével előzetesen – bejelenteni az önkéntesek foglalkoztatását, és a bejelentett adatokban bekövetkező változásokat. A bejelentést a miniszter által e célra rendszeresített és a miniszter által vezetett minisztérium honlapján, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 14. § (1) bekezdése szerinti honlapon (a továbbiakban: Civil Információs Portál), valamint a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell teljesíteni. Az adatlap és az elektronikus űrlap adattartalmát az 1. melléklet határozza meg.
 
-a) az önkéntesek foglalkoztatását,
+(2) Ha az önkéntes szükséghelyzetben történő alkalmi foglalkoztatásának előzetes bejelentésére nincs lehetőség, a bejelentési kötelezettségnek a közérdekű önkéntes tevékenység megkezdésétől számított tizenöt napon belül kell eleget tenni. Az 1. melléklet 1–3. pontja szerinti adatokban bekövetkező változást az azt követő tizenöt napon belül kell bejelenteni.
 
-b) a Bejelentési lapon feltüntetett adatokban bekövetkező változásokat.
-
-(2) Ha az önkéntes szükséghelyzetben történő alkalmi foglalkoztatásának előzetes bejelentésére nincs lehetőség, a bejelentési kötelezettségnek a közérdekű önkéntes tevékenység megkezdésétől számított tizenöt napon belül kell eleget tenni. A melléklet 1. pontja szerinti adatokban bekövetkező változást az azt követő tizenöt napon belül kell bejelenteni.
-
-(3) A bejelentéshez mellékelni kell
+(3) A bejelentéshez csatolni kell
 
 a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát;
 
-b) civil szervezet, közhasznú szervezet esetében
+b) civil szervezet és közhasznú szervezet esetén
 
-ba) a hatályos létesítő okirat másolatát és
+ba) a hatályos létesítő okirat másolatát, és
 
-bb) a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól (hatályos kivonat, cégkivonat);
+bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
 
-c) egyházi jogi személy esetén a nyilvántartásba vételére illetékes szerv harminc napnál nem régebbi igazolását az egyházi jogi személy adatairól.
+c) az egyházak nyilvántartásába fel nem vett belső egyházi jogi személy esetén az egyház egésze, illetve legfőbb szerve vagy az egyházak nyilvántartásába felvett felettes egyházi szerve – az egyházak nyilvántartásában feltüntetett – képviselőjének nyilatkozatát a fogadó szervezet nevéről, székhelyéről és képviselőjének személyéről, továbbá arról, hogy a fogadó szervezet belső egyházi jogi személy;
 
-(4) Fogadó intézmény, illetve annak fenntartója esetén a bejelentéshez mellékelni kell annak igazolását, hogy a fogadó intézmény jogszerűen működik, továbbá, ha a fogadó intézmény, illetve annak fenntartója
+d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
 
-a) egyesület, alapítvány, közalapítvány, a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól,
+e) fogadó intézmény, illetve annak fenntartója esetén annak igazolását, hogy a fogadó intézmény jogszerűen működik.
 
-b) egyéni vállalkozó, az egyéni vállalkozókról vezetett nyilvántartásba történő bejegyzés igazolását,
+(4) Ha a bejelentéshez
 
-c) cégjegyzékben nyilvántartott cég, a nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát.
+a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a bíróság nyilvántartásából szerzi be, illetve ellenőrzi,
 
-(4a) A cégjegyzékben nyilvántartott fogadó intézmény, illetve a fenntartója cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
 
-(4b) Ha a szervezet adatairól szóló, a nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolásának (hatályos kivonat) benyújtására kötelezett civil szervezet a (3) bekezdés b) pont bb) alpontja vagy a (4) bekezdés a) pontja szerinti mellékletet a bejelentéshez nem csatolja, a hatályos kivonatot a miniszter saját hatáskörben szerzi be a bíróságtól.
+(4a) A bejelentést benyújtó egyház vagy belső egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig az egyház és a nyilatkozatot kiállító felettes egyházi szerv adatait a miniszter az egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
 
-(5) Ha a fogadó szervezet egyházi jogi személy – annak alapszabályában jogi személynek nyilvánított, nyilvántartásba nem vett – szervezeti egysége, a kérelemhez mellékelni kell az egyházi jogi személy képviselőjének erre vonatkozó nyilatkozatát.
+(4b) A cégjegyzékben nyilvántartott fogadó szervezet cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
+
+(5)
 
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.
