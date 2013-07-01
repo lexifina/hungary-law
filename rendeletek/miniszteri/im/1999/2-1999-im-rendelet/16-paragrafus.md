@@ -1,4 +1,4 @@
-## 15. §[^16] A bv. szervek dolgozóinak előzetes és időszakos orvosi alkalmassági vizsgálata során a bv. szerv alapellátó orvosa foglalkozás-egészségügyi alapszolgáltatást nyújt.
+## 15. §[^18] A bv. szervek dolgozóinak előzetes és időszakos orvosi alkalmassági vizsgálata során a bv. szerv alapellátó orvosa foglalkozás-egészségügyi alapszolgáltatást nyújt.
 
 16. § (1) A bv. intézet működésével és a fogvatartottak ellátásával kapcsolatos szolgáltató, számítástechnikai, kulturális, oktatási, valamint az adminisztratív tevékenység keretében munkát végző fogvatartott foglalkozás-egészségügyi ellátását a bv. intézet alapellátó orvosa nyújtja, a bv. szervezet foglalkozás-egészségügyi szolgálatainak felügyeletével.
 
@@ -6,4 +6,4 @@
 
 (3) A munkáltató a fogvatartottak foglalkozás-egészségügyi ellátására a bv. foglalkozás-egészségügyi szolgálatához nem tartozó szolgáltatást is igénybe vehet, ha az számára kedvezőbb, vagy azt egyéb körülmény indokolja.
 
-[^16]: A 15. § a 41/2011. (XII. 30.) KIM rendelet 24. §-a szerint módosított szöveg.
+[^18]: A 15. § a 41/2011. (XII. 30.) KIM rendelet 24. §-a szerint módosított szöveg.

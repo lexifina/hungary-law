@@ -1,8 +1,8 @@
-## 1. §[^1] E rendeletet kell alkalmazni a büntetés-végrehajtási szervezeten (a továbbiakban: bv. szervezet) belül működő minden büntetés-végrehajtási szervnél (a továbbiakban: bv. szerv) foglalkoztatott fogvatartott szervezett munkavégzésére és szervezett tevékenységére.
+## 1. §[^2] E rendeletet kell alkalmazni a büntetés-végrehajtási szervezeten (a továbbiakban: bv. szervezet) belül működő minden büntetés-végrehajtási szervnél (a továbbiakban: bv. szerv) foglalkoztatott fogvatartott szervezett munkavégzésére és szervezett tevékenységére.
 
 ## 2. § E rendelet alkalmazásában
 
-a) fogvatartott: a szabadságvesztésre ítélt és az előzetesen letartóztatott;
+a)[^3] fogva tartott: a szabadságvesztésre vagy elzárásra ítélt, az előzetesen letartóztatott és a szabálysértési elzárást büntetés-végrehajtási intézetben töltő személy;
 
 b) fogvatartott munkabalesete:
 
@@ -20,10 +20,11 @@ c) a fogvatartott balesete (nem munkabaleset):
 
 d) szervezett tevékenység: szervezett munkavégzésnek nem minősülő, a kötelezettségek teljesítésével és a jogok gyakorlásával összefüggésben végzett tevékenység;
 
-e)[^2]
+e)[^4]
 
-f)[^3]
+f)[^5]
 
-[^1]: Az 1. § a 41/2011. (XII. 30.) KIM rendelet 20. §-ával megállapított szöveg.
-[^2]: A 2. § e) pontját a 41/2011. (XII. 30.) KIM rendelet 24. §-a hatályon kívül helyezte.
-[^3]: A 2. § f) pontját a 230/2008. (IX. 12.) Korm. rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § a 41/2011. (XII. 30.) KIM rendelet 20. §-ával megállapított szöveg.
+[^3]: A 2. § a) pontja a 9/2013. (VI. 29.) KIM rendelet 25. §-ával megállapított szöveg.
+[^4]: A 2. § e) pontját a 41/2011. (XII. 30.) KIM rendelet 24. §-a hatályon kívül helyezte.
+[^5]: A 2. § f) pontját a 230/2008. (IX. 12.) Korm. rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
