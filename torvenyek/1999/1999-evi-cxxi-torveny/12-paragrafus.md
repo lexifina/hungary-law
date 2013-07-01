@@ -26,4 +26,4 @@ j) közreműködik a külkereskedelem fejlesztésében, részt vesz a külkeresk
 
 (3) Az országos kamara alapszabálya az országos kamara számára további feladatokat állapíthat meg.
 
-(4)
+(4) A Magyar Kereskedelmi és Iparkamara külön jogszabály szerint – a területi kereskedelmi és iparkamarák bevonásával – biztosítja a Teljesítésigazolási Szakértői Szerv működésének feltételeit.
