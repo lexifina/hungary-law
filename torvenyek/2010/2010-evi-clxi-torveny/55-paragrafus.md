@@ -1,3 +1,0 @@
-55. § Az Nbjtv. 48. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ha a külföldi bíróság olyan szabadságvesztést szabott ki, amely tartamának meghatározott részét rendelte végrehajtani, és a fennmaradó rész végrehajtását az ítélkező külföldi bíróság felfüggesztette (a továbbiakban: külföldi bíróság által kiszabott részben felfüggesztett szabadságvesztés), a bíróság az ilyen szabadságvesztést úgy ismeri el, mintha a szabadságvesztés végrehajtását a Btk. alapján részben felfüggesztette volna. A szabadságvesztés végrehajtandó és felfüggesztett része, valamint a próbaidő tartamára a külföldi bíróság ítéletében meghatározott tartamok az irányadók. Ebben az esetben a Btk. 90. § (1)–(2) bekezdésében meghatározott tartamok nem alkalmazhatók.”
