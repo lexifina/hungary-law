@@ -36,15 +36,17 @@ b)[^22] az élelmiszer-higiéniai és állat-egészségügyi követelményeknek 
 
 (5)[^23] Az engedélyezési eljárás ügyintézési határideje tizenöt nap. A jegyző az engedély megadásával egyidejűleg a vásárt, a piacot és annak fenntartóját nyilvántartásba veszi. A nyilvántartás nyilvános. A jegyző a nyilvántartást az önkormányzat honlapján – amennyiben azzal az önkormányzat rendelkezik – közzéteszi.
 
-(6)[^24] A jegyző által a vásárokról és piacokról vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
+(5a)[^24] A jegyző által vezetett, (5) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatokat kivéve – közhiteles hatósági nyilvántartásnak minősül.
+
+(6)[^25] A jegyző által a vásárokról és piacokról vezetett nyilvántartás – a Szolgtv.-ben meghatározott adatokon túl – tartalmazza:
 
 a) az engedély kiadása és a nyilvántartásba vétel időpontját;
 
 b) az engedély és a nyilvántartás sorszámát;
 
-c)[^25] a fenntartó által a kérelemben a (3) bekezdés a)–c) pontja alapján megadott adatokat;
+c)[^26] a fenntartó által a kérelemben a (3) bekezdés a)–c) pontja alapján megadott adatokat;
 
-d)–e)[^26]
+d)–e)[^27]
 
 f) a vásár, piac elnevezését, (szak)jellegét;
 
@@ -60,9 +62,9 @@ k) az ellenőrző hatóságoknak a vásár, piac működését érintő intézke
 
 l) a nyilvántartásból való törlés tényét, annak időpontját.
 
-(7)[^27] A (6) bekezdés c)–i) pontjában foglalt adatokban történő változásról a fenntartó köteles a jegyzőt haladéktalanul értesíteni. A jegyző a változást a nyilvántartásba bejegyzi.
+(7)[^28] A (6) bekezdés c)–i) pontjában foglalt adatokban történő változásról a fenntartó köteles a jegyzőt haladéktalanul értesíteni. A jegyző a változást a nyilvántartásba bejegyzi.
 
-(8)[^28] A (3) bekezdésben felsorolt adatok és dokumentumok, valamint a (7) bekezdésben foglalt értesítés elektronikus úton is benyújthatók.
+(8)[^29] A (3) bekezdésben felsorolt adatok és dokumentumok, valamint a (7) bekezdésben foglalt értesítés elektronikus úton is benyújthatók.
 
 [^13]: A 3. §-t a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^14]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
@@ -75,8 +77,9 @@ l) a nyilvántartásból való törlés tényét, annak időpontját.
 [^21]: A 4. § (4) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
 [^22]: A 4. § (4) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 235. § (2) bekezdése szerint módosított szöveg.
 [^23]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított és a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^24]: A 4. § (6) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
-[^25]: A 4. § (6) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni. [A 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja alapján a „ , telefonszámát” szövegrész hatályát veszti; a módosítás nem vezethető át.]
-[^26]: A 4. § (6) bekezdés d)–e) pontját a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^27]: A 4. § (7) bekezdése a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
-[^28]: A 4. § (8) bekezdése e rendelet 10. § (2) bekezdése alapján 2009. december 28-án lép hatályba.
+[^24]: A 4. § (5a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^25]: A 4. § (6) bekezdés nyitó szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a (3) bekezdés a) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^26]: A 4. § (6) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni. [A 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja alapján a „ , telefonszámát” szövegrész hatályát veszti; a módosítás nem vezethető át.]
+[^27]: A 4. § (6) bekezdés d)–e) pontját a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^28]: A 4. § (7) bekezdése a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont ga) alpontja szerint módosított szöveg.
+[^29]: A 4. § (8) bekezdése e rendelet 10. § (2) bekezdése alapján 2009. december 28-án lép hatályba.
