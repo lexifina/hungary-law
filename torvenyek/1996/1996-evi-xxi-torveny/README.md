@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-21-00-00
 | 2012-05-31 | 2012. évi LXIII. törvény | 1996-21-00-00.32 |
 | 2012-07-06 | 2012. évi XCIII. törvény | 1996-21-00-00.33 |
 | 2013-01-01 | 2012. évi CCVII. törvény | 1996-21-00-00.34 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 1996-21-00-00.35 |

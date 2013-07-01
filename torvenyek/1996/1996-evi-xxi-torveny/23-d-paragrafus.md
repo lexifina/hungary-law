@@ -17,3 +17,13 @@
 (8) Az állami főépítész – felkérésre – állást foglal a terület- és településfejlesztési koncepcióknak, programoknak, építészeti-műszaki terveknek, továbbá más ágazati terveknek és koncepcióknak a területrendezési tervekkel való összhangjáról, valamint a külön jogszabályban meghatározott területrendezési tanulmánytervről.
 
 (9) A kiemelt térségi és megyei tervekkel összhangban nem lévő településrendezési eszközöket – az állami főépítész térségi területfelhasználási engedélye birtokában – a területrendezési tervvel összhangban lévőnek kell tekinteni.
+
+(10) Az állami főépítész a területrendezési hatósági eljárásban kiadott térségi területfelhasználási engedélyekről közhiteles hatósági nyilvántartás vezet.
+
+(11) A (10) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
+
+a) a területrendezési terv megnevezése, amelyre a térségi területfelhasználási engedély vonatkozik,
+
+b) a térségi területfelhasználási engedély által érintett települések megnevezése, valamint
+
+c) a térségi területfelhasználási engedély kiadásának dátuma, iktató száma, érvényesség dátuma, valamint az engedélyezés típusa.
