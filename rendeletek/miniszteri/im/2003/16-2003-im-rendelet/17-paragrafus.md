@@ -6,11 +6,11 @@
 
 (3) A nyomozás során fokozott figyelmet kell fordítani
 
-a)[^26] a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló IRM rendelet és a bűnügyi és rendészeti biometrikus adatok nyilvántartása részére történő adatközlés és az e nyilvántartások által teljesített adatszolgáltatás, valamint az ujj- és tenyérnyomatvétel és a DNS-mintavétel szabályairól szóló IRM rendelet rendelkezéseinek betartására, továbbá
+a)[^37] a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló IRM rendelet és a bűnügyi és rendészeti biometrikus adatok nyilvántartása részére történő adatközlés és az e nyilvántartások által teljesített adatszolgáltatás, valamint az ujj- és tenyérnyomatvétel és a DNS-mintavétel szabályairól szóló IRM rendelet rendelkezéseinek betartására, továbbá
 
 b) a bűncselekmény elkövetését elősegítő, illetve megkönnyítő okok, körülmények felderítésére, az újabb bűncselekmények megelőzése érdekében.
 
-(4)[^27] A parancsnok az újabb bűncselekmények megelőzése végett a (3) bekezdés b) pontja alapján tett intézkedéséről vagy azzal kapcsolatos javaslatáról, továbbá a Be. 63/A. §-ának (1) bekezdése szerinti tájékoztatási kötelezettsége teljesítéséről a katonai ügyészt értesíti.
+(4)[^38] A parancsnok az újabb bűncselekmények megelőzése végett a (3) bekezdés b) pontja alapján tett intézkedéséről vagy azzal kapcsolatos javaslatáról, továbbá a Be. 63/A. §-ának (1) bekezdése szerinti tájékoztatási kötelezettsége teljesítéséről a katonai ügyészt értesíti.
 
-[^26]: A 17. § (3) bekezdés a) pontja a 20/2009. (VI. 19.) IRM rendelet 31. §-ával megállapított szöveg.
-[^27]: A 17. § (4) bekezdése a 3/2006. (VII. 14.) IRM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a folyamatban lévő nyomozások során is alkalmazni kell.
+[^37]: A 17. § (3) bekezdés a) pontja a 20/2009. (VI. 19.) IRM rendelet 31. §-ával megállapított szöveg.
+[^38]: A 17. § (4) bekezdése a 3/2006. (VII. 14.) IRM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a folyamatban lévő nyomozások során is alkalmazni kell.

@@ -1,4 +1,4 @@
-## 27. §[^38]
+## 27. §[^52]
 
 ## A bűnügyi költségek
 
@@ -6,4 +6,4 @@
 
 (2) A bűnügyi költségeket a nyomozási iratok között elhelyezett költségjegyzéken folyamatosan vezetni kell.
 
-[^38]: A 27. §-t és az azt megelőző alcímet a 35/2010. (V. 12.) IRM rendelet 4. §-a hatályon kívül helyezte.
+[^52]: A 27. §-t és az azt megelőző alcímet a 35/2010. (V. 12.) IRM rendelet 4. §-a hatályon kívül helyezte.
