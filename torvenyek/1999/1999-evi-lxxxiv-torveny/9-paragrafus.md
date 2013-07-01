@@ -45,3 +45,5 @@ b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) és f) pont
 feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
 
 (6) Az (1) bekezdés b) és f) pontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
+
+(7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.

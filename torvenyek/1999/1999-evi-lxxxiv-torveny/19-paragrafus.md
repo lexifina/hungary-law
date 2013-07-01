@@ -57,3 +57,5 @@ ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti kö
 b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
+
+(4) A Rendőrség az útdíjköteles elemi útszakaszok díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadata alapján történő lekérdezéssel jogosult a járműnyilvántartás 9. § (1) bekezdés szerinti adatait megismerni.

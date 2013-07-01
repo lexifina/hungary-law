@@ -8,7 +8,11 @@
 
 a) a közrend és a közbiztonság fenntartásával összefüggő feladatai ellátása, valamint a bűncselekmények megelőzése céljából a rendőrség,
 
-b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából az e szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési és közigazgatási eljárások lefolytatása céljából
+
+ba) a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+
+bb) közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, valamint az autópályák, autóutak és főutak használatának díjáról szóló törvény szerinti útdíjellenőrzésre feljogosított szervezet,
 
 c) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
 

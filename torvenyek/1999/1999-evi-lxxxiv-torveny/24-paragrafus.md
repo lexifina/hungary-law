@@ -21,3 +21,13 @@ a) kérje írásos hozzájárulását ahhoz, hogy a kérelemben felsorolt adatai
 b) tájékoztassa arról, hogy a kérelmezőt közvetlenül keresse meg, ha vele a kapcsolatot fel kívánja venni.
 
 (5) Törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a nyilvántartó az engedély-nyilvántartásnak a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, valamint a b) pont ba) és bb) alpontjában meghatározott adatairól a személyazonosításra alkalmas járművezetői engedély érvényességének megállapítása céljából adatot szolgáltathat. A 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatot a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
+
+(6) A nyilvántartó a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
+
+a) a polgár természetes személyazonosító adatai alapján a polgár vezetői engedélye okmányazonosítója titkosított kapcsolati kódjának, illetve
+
+b) a polgár vezetői engedélyének okmányazonosítója alapján a személyiadat- és lakcímnyilvántartásban szereplő természetes személyazonosító adatok
+
+továbbítására jogosult.
+
+(7) A nyilvántartó a vezetői engedély kiadásáról szóló döntését követően a vezetői engedély okmány megszemélyesítésével egyidejűleg a vezetői engedély okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.

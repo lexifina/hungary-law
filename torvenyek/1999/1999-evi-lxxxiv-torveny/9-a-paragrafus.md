@@ -15,3 +15,5 @@ f) a jármű származását igazoló okmányok adatait,
 g) a származás ellenőrzésének eredményét.
 
 (2) A származás-ellenőrzési nyilvántartásba vétellel összefüggő közlekedési igazgatási hatósági eljárás során a járművet hatósági jelzéssel és engedéllyel ellátni abban az esetben lehet, ha a kötelező gépjármű-felelősségbiztosítás fedezetének meglétét a jármű tulajdonosa igazolta, valamint ha a külön jogszabály alapján a közlekedési hatóság a járművet a közúti forgalomban való részvételre alkalmasnak minősítette.
+
+(3) A származás-ellenőrzési nyilvántartás az (1) bekezdés c)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.

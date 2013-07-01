@@ -21,3 +21,5 @@ h) a jármű azonosító és műszaki adatait, valamint motorjának egyedi azono
 (3) Az (1) bekezdés h) pontjában szereplő adat a járműnyilvántartásból kerül az eredetiségvizsgálati nyilvántartásba.
 
 (4) Az előzetes eredetiségvizsgálati eljárás során felvett adatokat a nyilvántartó ellenőrzés céljából jogosult a járműnyilvántartás adataival összevetni.
+
+(5) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés b)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.

@@ -1,1 +1,1 @@
-23. § A nyilvántartó a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokról a járműazonosító adatok kivételével szolgáltat adatot, ha az érintett személy a személyes adatainak szolgáltatását megtiltotta.
+23. § A nyilvántartó a 9. § (2) bekezdésében megjelölt adatokról a járműazonosító adatok kivételével szolgáltat adatot, ha az érintett személy a személyes adatainak szolgáltatását megtiltotta.
