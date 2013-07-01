@@ -4,7 +4,7 @@
 
 a) az üzleti kapcsolat létesítésekor;
 
-b) a 17. §-ban meghatározottak kivételével a hárommillió-hatszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor;
+b) a 11/A. §-ban és a 17. §-ban meghatározott kivétellel a hárommillió-hatszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor;
 
 c) pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény felmerülése esetén, ha az a)–b) pontban meghatározottak szerint átvilágításra még nem került sor;
 

@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-136-00-00
 | 2011-04-30 | 2010. évi CLIX. törvény | 2007-136-00-00.19 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-136-00-00.20 |
 | 2012-01-05 | 2011. évi CCVII. törvény | 2007-136-00-00.21 |
+| 2013-07-01 | 2013. évi LII. törvény | 2007-136-00-00.22 |

@@ -1,0 +1,3 @@
+8/A. § (1) Az ügyfél 8. §-ban meghatározott írásbeli nyilatkoztatása mellőzhető, ha a szolgáltató a 8. § (1)–(5) bekezdésében meghatározott adatokat a 7. § (4) bekezdésében meghatározott és részére bemutatott okiratok, valamint a nyilvánosan hozzáférhető nyilvántartások vagy olyan nyilvántartások alapján rögzíti, amelyeknek kezelőjétől törvény alapján adatigénylésre jogosult.
+
+(2) Az (1) bekezdésben meghatározott esetben a szolgáltató köteles az arra vonatkozó információt is rögzíteni, hogy a 8. § (1)–(5) bekezdésében meghatározott adatok rögzítésére az ügyfél 8. §-ban meghatározott írásbeli nyilatkoztatása mellőzésével került sor.

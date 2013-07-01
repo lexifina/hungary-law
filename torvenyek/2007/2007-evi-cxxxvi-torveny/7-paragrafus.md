@@ -24,7 +24,7 @@ bb) székhelyének, külföldi székhelyű vállalkozás esetén magyarországi 
 
 bc) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyzékszámát, egyéb jogi személy esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat számát vagy nyilvántartási számát.
 
-(3) A szolgáltató az azonosítás során a (2) bekezdésben meghatározott adaton kívül – ha erre az ügyfél és az üzleti kapcsolat, ügyleti megbízás azonosításához az üzleti kapcsolat vagy ügyleti megbízás jellege és összege és az ügyfél körülményei alapján a 33. §-ban foglalt belső szabályzatban meghatározott esetekben, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van – az alábbi adatokat rögzítheti:
+(3) A szolgáltató az azonosítás során a (2) bekezdésben meghatározott adaton kívül – ha erre az ügyfél és az üzleti kapcsolat, ügyleti megbízás azonosításához az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján a 33. §-ban foglalt belső szabályzatban rögzített eljárás eredménye alapján, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van – az alábbi adatokat rögzítheti:
 
 a) természetes személy
 
@@ -63,3 +63,7 @@ c) cégbejegyzési, hatósági vagy bírósági nyilvántartásba vétel iránti
 (5) A (4) bekezdés c) pontjában meghatározott esetben a jogi személy vagy jogi személyiséggel nem rendelkező szervezet köteles a cégbejegyzés, hatósági vagy bírósági nyilvántartásba vétel megtörténtét követő 30 napon belül okirattal igazolni, hogy a cégbejegyzés vagy nyilvántartásba vétel megtörtént, valamint a szolgáltató köteles a cégjegyzékszámot vagy egyéb nyilvántartási számot rögzíteni.
 
 (6) A személyazonosság igazoló ellenőrzése érdekében a szolgáltató köteles ellenőrizni a (4) bekezdés alapján bemutatott azonosságot igazoló okirat érvényességét.
+
+(7) A személyazonosság igazoló ellenőrzése során a szolgáltató köteles ellenőrizni a meghatalmazott esetében a meghatalmazás érvényességét, a rendelkezésre jogosult esetében a rendelkezési jog jogcímét, továbbá a képviselő képviseleti jogosultságát.
+
+(8) Az azonosítás és a személyazonosság igazoló ellenőrzése érdekében a szolgáltató a 6. § (1) bekezdésében meghatározott esetben jogosult a (2)–(7) bekezdésben meghatározott intézkedéseken túlmenően – ha erre az ügyfél és az üzleti kapcsolat, ügyleti megbízás azonosításához az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján a 33. §-ban foglalt belső szabályzatban rögzített eljárás eredménye alapján, a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében szükség van – a személyazonosságra vonatkozó adat nyilvánosan hozzáférhető nyilvántartás vagy olyan nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.

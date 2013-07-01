@@ -1,0 +1,1 @@
+35/B. § Az e törvényben meghatározott felügyeletet ellátó szerv a felügyeleti tevékenységének gyakorlása során biztosítja a szolgáltatónak a Kit., valamint a Kit. szerinti uniós jogi aktusoknak való megfelelését.
