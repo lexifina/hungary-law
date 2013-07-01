@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-128-00-00
 | 2011-07-01 | 2011. évi LXXIII. törvény | 2000-128-00-00.8 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2000-128-00-00.9 |
 | 2013-01-01 | 2012. évi XCIII. törvény | 2000-128-00-00.10 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2000-128-00-00.11 |

@@ -24,6 +24,8 @@ k) a vezetői engedély visszaadásának időpontját,
 
 l) az utánképzés igazolásának időpontját.
 
+(1a) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A pontrendszer hatálya alá tartozó szabályszegést elbíráló szabálysértési hatóság, közigazgatási hatóság, fegyelmi hatóság, a helyszínen alkalmazott közigazgatási bírság és a helyszíni bírság kiszabására jogosult hatóság az (1) bekezdés a)–h), a bíróság az (1) bekezdés a)–g) pontjaiban megjelölt adatokról a jogerőre emelkedéstől számított nyolc napon belül értesíti a Nyilvántartót.
 
 (3) A Nyilvántartót az (1) bekezdés j)–k) pontjaiban megjelölt adatokról a vezetői engedély átvételére, kiadására jogosult, külön jogszabályban meghatározott hatóság az okmány leadását, kiadását, az igazolás bemutatását követő három napon belül értesíti.
