@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2013-01-01 | 2012. évi CCXVI. törvény | 1991-4-00-00.86 |
 | 2013-04-19 | 2010. évi CLIII. törvény | 1991-4-00-00.87 |
 | 2013-05-03 | 2013. évi XLI. törvény | 1991-4-00-00.88 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 1991-4-00-00.89 |
