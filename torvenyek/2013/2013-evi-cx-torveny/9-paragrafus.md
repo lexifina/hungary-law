@@ -5,11 +5,3 @@ a) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai M
 b) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet;
 
 c) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet módosításáról szóló 46/2005. (VI. 28.) GKM rendelet.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
