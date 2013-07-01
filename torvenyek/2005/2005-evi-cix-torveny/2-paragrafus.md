@@ -2,6 +2,10 @@
 
 2. § (1) Magyarország területén hadiipari tevékenység végzéséhez engedély szükséges. Az engedély megadásával egyidejűleg a hadiipari gyártás- és szolgáltatásfelügyelet nyilvántartásba veszi az engedélyest.
 
+(1a) Az (1) bekezdés szerinti nyilvántartás tartalmazza a jogosult nevét, lakóhelyét vagy székhelyét, adószámát, engedélye számát és az engedély hatályosságának megjelölését.
+
+(1b) Az (1) bekezdés szerinti nyilvántartás az (1a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) Nem végezhető olyan tevékenység, mely Magyarország nemzetközi kötelezettségvállalásába ütközik.
 
 (3) Nem kell külön engedélyt beszerezniük a Magyar Honvédség, valamint a polgári nemzetbiztonsági szolgálatok, a rendvédelmi és rendészeti szervek – e törvény alkalmazásában ideértve a Nemzeti Adó- és Vámhivatalt is – kutatással és fejlesztéssel, javítással és karbantartással foglalkozó, valamint hatástalanítást és megsemmisítést végző szervezeti egységeinek.
