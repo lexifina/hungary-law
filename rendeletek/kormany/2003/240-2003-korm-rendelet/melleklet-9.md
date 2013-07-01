@@ -84,4 +84,6 @@
 
 | 40. | Kormányhivatalok | Bírságbevételek miatti követelések és kötelezettségek Egyéb központosított bevételek (vadkísérő-jegy befizetése, trófea bírálat, erdőfenntartási járulék, halászati haszonbérleti díj, erdővédelmi járulék, állami vadászjegyek díja, földvédelmi járulék) miatti követelések és kötelezettségek. |
 
+| 41. | Állami Autópálya Kezelő Zrt. | Az állam elektronikus útdíjból és a kapcsolódó általános forgalmi adóból származó követelései és kötelezettségei |
+
 9. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez

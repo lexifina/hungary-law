@@ -20,4 +20,4 @@
 
 8. számú melléklet a 240/2003. (XII. 17.) Korm. rendelethez[^36]
 
-[^36]: A 8. számú melléklet a 74/2013. (III. 11.) Korm. rendelet 24. § (3) bekezdésével megállapított szöveg.
+[^36]: A 8. számú melléklet a 74/2013. (III. 11.) Korm. rendelet 24. § (3) bekezdésével megállapított, a 209/2013. (VI. 18.) Korm. rendelet 48. §-a szerint módosított szöveg.
