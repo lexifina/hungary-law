@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-75-00-00
 | 2012-12-23 | 2012. évi CCVIII. törvény | 2011-75-00-00.16 |
 | 2013-03-30 | 2013. évi XXVIII. törvény | 2011-75-00-00.17 |
 | 2013-06-01 | 2013. évi LXVIII. törvény | 2011-75-00-00.18 |
+| 2013-07-01 | 2012. évi CCV. törvény | 2011-75-00-00.19 |
