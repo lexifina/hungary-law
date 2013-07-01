@@ -1,4 +1,4 @@
-4. §[^3] (1) Az alábbi utak díjmentesen használhatóak az autópályák, autóutak és főutak használatának díjáról szóló miniszteri rendelet szerinti D1 kategóriába tartozó járművel:
+4. §[^4] (1) Az alábbi utak díjmentesen használhatóak az autópályák, autóutak és főutak használatának díjáról szóló miniszteri rendelet szerinti D1 kategóriába tartozó járművel:
 
 1. az M1 autópálya Budapest és M0 autóút közötti szakaszán (szelvényszám: 5–16);
 
@@ -14,7 +14,7 @@
 
 7. az M3 autópálya Hatvant elkerülő (21. sz. főút és 32. sz. főút közötti) szakaszán (szelvényszám: 55–59);
 
-8. az M3 autópálya Nyíregyházát elkerülő (4. sz. főút és 4911. j. összekötő út közötti) szakaszán (szelvényszám: 227–234);
+8.[^5] az M3 autópálya Nyíregyházát elkerülő (4. sz. főút és 403 főút közötti) szakaszán (szelvényszám: 227–234);
 
 9. az M35 autópálya Debrecent elkerülő (354. sz. főút és 4. sz. főút közötti) szakaszán (szelvényszám: 37–44);
 
@@ -48,16 +48,18 @@
 
 24. az M9 autóút (61. sz. főút jelzés) Kaposvárt elkerülő szakaszán (szelvényszám: 112+340–128+3469).
 
-(2) Az alábbi utak díjmentesen használhatóak az autópályák, autóutak és főutak használatának díjáról szóló miniszteri rendelet szerinti D2, D3 és D4 kategóriába tartozó járművel:
+(2)[^6] Az alábbi utak díjmentesen használhatóak az autópályák, autóutak és főutak használatának díjáról szóló miniszteri rendelet szerinti B2 kategóriába tartozó járművel:
 
-1. az M1 autópálya Budapest és M0 autóút közötti szakaszán (szelvényszám: 5–16);
+1. az M1 autópálya Budapest és M0 autóút közötti szakaszán (szelvényszám: 5 + 500–16);
 
 2. az M3 autópálya Budapest és M0 autóút közötti szakaszán (szelvényszám: 11–13);
 
 3. az M5 autópálya Budapest és M0 autóút (gyáli csomópont) közötti szakaszán (szelvényszám: 13–22);
 
-4. az M7 autópálya Budapest és M0 autóút közötti szakaszán (szelvényszám: 5–16);
+4. az M7 autópálya Budapest és M0 autóút közötti szakaszán (szelvényszám: 5 + 500–16);
 
 5. az M4 autóút (4. sz. főút jelzés) Budapest és M0 autóút közötti szakaszán (szelvényszám: 19+100–25+000).
 
-[^3]: A 4. § a 42/2010. (V. 13.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 4. § a 42/2010. (V. 13.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 4. § (1) bekezdés 8. pontja a 25/2013. (V. 31.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (2) bekezdése a 25/2013. (V. 31.) NFM rendelet 13. § (2) bekezdésével megállapított szöveg.

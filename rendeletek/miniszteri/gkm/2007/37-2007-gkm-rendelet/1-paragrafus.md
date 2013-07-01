@@ -1,7 +1,3 @@
-1. § Úthasználati díjat (a továbbiakban: díjat), továbbá a díjfizetés elmulasztása esetén pótdíjat kell fizetni
+1. §[^1] Használati díjat (a továbbiakban: díj), továbbá a díjfizetés elmulasztása esetén pótdíjat kell fizetni a 3–4. §-ban foglalt kivétellel a gyorsforgalmi utak meghatározott járművel történő használatáért.
 
-a) a 3–4. §-ban foglalt kivétellel a gyorsforgalmi utak, valamint
-
-b) a 2. § szerinti országos főutak
-
-meghatározott járművel történő használatáért.
+[^1]: Az 1. § a 25/2013. (V. 31.) NFM rendelet 11. §-ával megállapított szöveg.
