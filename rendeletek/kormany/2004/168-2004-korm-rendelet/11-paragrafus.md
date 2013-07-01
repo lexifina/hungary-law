@@ -38,10 +38,13 @@ l)[^30]
 
 m)[^31] a központosított közbeszerzési eljárások eredményeként létrejött keretszerződések és keretmegállapodások hatályos szövegét – összhangban a közbeszerzési törvény 80. §-ában foglaltakkal – közzéteszi a központosított közbeszerzési portálon;
 
-n) ellátja mindazon egyéb feladatot, melyet jogszabály a központosított közbeszerzési rendszer működtetésével kapcsolatban a hatáskörébe utal.
+n) ellátja mindazon egyéb feladatot, melyet jogszabály a központosított közbeszerzési rendszer működtetésével kapcsolatban a hatáskörébe utal;
+
+o)[^32] a központi beszerző szervezet e rendelet szerinti feladataival összefüggésben a Nemzeti Fejlesztési Minisztérium (a továbbiakban: NFM) részére, lekérdezésre haladéktalanul adatot szolgáltat.
 
 [^27]: A 10. § a 33/2012. (III. 7.) Korm. rendelet 10. § (1) bekezdése, a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. §-át.
 [^28]: A 11. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
 [^29]: A 11. § (3) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
 [^30]: A 11. § (3) bekezdés l) pontját a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^31]: A 11. § (3) bekezdés m) pontja a 33/2012. (III. 7.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 11. § (3) bekezdés o) pontját a 238/2013. (VI. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
