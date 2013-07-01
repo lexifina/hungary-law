@@ -20,31 +20,77 @@
 
 | Értesítési címe*: |
 
-| Lakástelefon*: Mobiltelefon*: E-mail cím*: |
+| Lakástelefon*: |
+
+| Mobiltelefon*: |
+
+| E-mail cím*: |
 
 | Állampolgársága: |
 
-| Nem magyar állampolgár kérelmező esetén Magyarország területén tartózkodás jogcíme: |
+| Nem magyar állampolgár kérelmező esetén a Magyarország területén tartózkodás jogcíme: |
 
 | II. A kérelemre okot adó bűncselekményre, valamint tulajdon elleni szabálysértésre és annak közvetlen következményeként elszenvedett sérelemre vonatkozó adatok |
 
-| A bűncselekmény/ tulajdon elleni szabálysértés megnevezése: |
+| A bűncselekmény/tulajdon elleni szabálysértés megnevezése: |
 
-| A bűncselekmény/ tulajdon elleni szabálysértés elkövetésének helye: |
+| A bűncselekmény/tulajdon elleni szabálysértés elkövetésének helye: |
 
-| A bűncselekmény/ tulajdon elleni szabálysértés elkövetésének időpontja: ............... év ............................... hó ............. nap |
+| A bűncselekmény/tulajdon elleni szabálysértés elkövetésének időpontja: ............... év ......................... hó ............ nap |
 
-| A bűncselekmény/ tulajdon elleni szabálysértés elkövetésének rövid leírása: |
+| A bűncselekmény/tulajdon elleni szabálysértés elkövetésének rövid leírása: |
 
-| A kérelmezőt ért sérelmek: □ testi sérülés: ....................................................................................................................................................................................................... □ lelki sérülés, érzelmi megrázkódtatás: ....................................................................................................................................................................................................... □ vagyoni kár: ....................................................................................................................................................................................................... □ egyéb: ....................................................................................................................................................................................................... |
+| A kérelmezőt ért sérelmek: |
+
+| ⬜ testi sérülés: |
+
+| ...................................................................................................................................................................................................................................... |
+
+| ⬜ lelki sérülés, érzelmi megrázkódtatás: |
+
+| ...................................................................................................................................................................................................................................... |
+
+| ⬜ vagyoni kár: |
+
+| ...................................................................................................................................................................................................................................... |
+
+| ⬜ egyéb: |
+
+| ...................................................................................................................................................................................................................................... |
 
 | III. Az igényelt támogatás(ok) megjelölése |
 
-| Minden áldozat jogosult arra, hogy az áldozatsegítő szolgálat segítséget nyújtson számára a bűncselekmény/ tulajdon elleni szabálysértés okozta jogi, szociális, gyermekvédelmi, egészségügyi, társadalombiztosítási, munkaügyi vagy bármely egyéb probléma megoldásához (érdekérvényesítés elősegítése). Jogosult továbbá arra, hogy az áldozatsegítő szolgálat a bűncselekménnyel/ tulajdon elleni szabálysértéssel összefüggő jogi kérdések rendezése érdekében, rászorultság esetén az áldozati státusz igazolásával ügyvédi támogatáshoz segítse hozzá (jogi segítségnyújtás). Ezen túlmenően az azonnali pénzügyi segélyt és az állami kárenyhítést ezen a nyomtatványon kell kérni. A következő támogatásokat igényelem: □ azonnali pénzügyi segély célja: □ lakhatással kapcsolatos kiadás □ ruházkodással kapcsolatos kiadás □ élelmezéssel kapcsolatos kiadás □ utazással kapcsolatos kiadás □ gyógyászati jellegű kiadás □ kegyeleti jellegű kiadás |
+| Minden áldozat jogosult arra, hogy az áldozatsegítő szolgálat segítséget nyújtson számára a bűncselekmény/ tulajdon elleni szabálysértés okozta jogi, szociális, gyermekvédelmi, egészségügyi, társadalombiztosítási, munkaügyi vagy bármely egyéb probléma megoldásához (érdekérvényesítés elősegítése). Jogosult továbbá arra, hogy az áldozatsegítő szolgálat a bűncselekménnyel/ tulajdon elleni szabálysértéssel összefüggő jogi kérdések rendezése érdekében, rászorultság esetén az áldozati státusz igazolásával ügyvédi támogatáshoz segítse hozzá (jogi segítségnyújtás). Ezen túlmenően az azonnali pénzügyi segélyt és az állami kárenyhítést ezen a nyomtatványon kell kérni. |
 
-| indoka, krízishelyzet leírása: ....................................................................................................................................................................................................... ....................................................................................................................................................................................................... ....................................................................................................................................................................................................... ....................................................................................................................................................................................................... ....................................................................................................................................................................................................... ....................................................................................................................................................................................................... ....................................................................................................................................................................................................... ....................................................................................................................................................................................................... □ kárenyhítés [Igénylése esetén a nyomtatvány B) részét is ki kell tölteni!] Az azonnali pénzügyi segély kizárólag olyan rendkívüli kiadásokra tekintettel kérhető, amelyek megfizetésére az áldozat a bűncselekmény/ tulajdon elleni szabálysértés következtében nem képes. |
+| A következő támogatásokat igényelem: |
 
-| A pénzben nyújtott támogatás kifizetésének módja: □ készpénz (Kizárólag azonnali pénzügyi segély esetén!) Állami kárenyhítés esetén csak az alábbiak választhatóak: □ postai utalvány (cím: ..........................................................) □ saját névre szóló fizetési számlára utalás: (Pénzforgalmi szolgáltató megnevezése ......................................................................................., számlaszám: □□□□□□□□–□□□□□□□□–□□□□□□□□) |
+| ⬜ azonnali pénzügyi segély |
+
+| célja: |
+
+| ⬜ lakhatással kapcsolatos kiadás | ⬜ ruházkodással kapcsolatos kiadás |
+
+| ⬜ élelmezéssel kapcsolatos kiadás | ⬜ utazással kapcsolatos kiadás |
+
+| ⬜ gyógyászati jellegű kiadás | ⬜ kegyeleti jellegű kiadás |
+
+| indoka, krízishelyzet leírása: ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ⬜ kárenyhítés [Igénylése esetén a nyomtatvány B) részét is ki kell tölteni!] |
+
+| Az azonnali pénzügyi segély kizárólag olyan rendkívüli kiadásokra tekintettel kérhető, amelyek megfizetésére az áldozat a bűncselekmény/tulajdon elleni szabálysértés következtében nem képes. |
+
+| A pénzben nyújtott támogatás kifizetésének módja: |
+
+| ⬜ pénztári kifizetés (Kizárólag azonnali pénzügyi segély esetén kérhető!) |
+
+| Állami kárenyhítés esetén csak az alábbiak választhatóak: |
+
+| ⬜ postai utalvány (cím: ..........................................................) |
+
+| ⬜ saját névre szóló fizetési számlára utalás: |
+
+| (Pénzforgalmi szolgáltató megnevezése ......................................................................................., |
+
+| számlaszám: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
 | IV. Mellékletek (megnevezése, darabszáma) |
 
@@ -56,19 +102,25 @@
 
 | V. Közlemények |
 
-| 1. Kijelentem, hogy korábban igénybe vett, pénzben nyújtott áldozatsegítő támogatásokkal kapcsolatos, illetve a jogi segítségnyújtási díjra vonatkozó visszafizetési kötelezettség terhel / nem terhel. 2. Kijelentem, hogy jelen kérelmemben feltüntetett bűncselekménnyel / tulajdon elleni szabálysértéssel összefüggésben ugyanilyen tartalmú támogatást korábban kaptam / nem kaptam. 3. Kijelentem, hogy valótlan adatszolgáltatás vagy az ellenőrzésre irányuló vizsgálat akadályoztatása miatt velem szemben a támogatást kizáró ok áll fenn / nem áll fenn. 4. A nyomtatványt kérésemre – jelenlétemben – az áldozatsegítő szolgálat munkatársa töltötte ki. Igen / Nem 5. Egyéb közlendők: ...................................................................................................................................................................................................... ...................................................................................................................................................................................................... ...................................................................................................................................................................................................... ...................................................................................................................................................................................................... ...................................................................................................................................................................................................... |
+| 1. Kijelentem, hogy korábban igénybe vett, pénzben nyújtott áldozatsegítő támogatásokkal kapcsolatos, illetve a jogi segítségnyújtási díjra vonatkozó visszafizetési kötelezettség terhel / nem terhel. |
 
-## A *-gal jelölt adatok megadása nem kötelező.
+| 2. Kijelentem, hogy jelen kérelmemben feltüntetett bűncselekménnyel / tulajdon elleni szabálysértéssel összefüggésben ugyanilyen tartalmú támogatást korábban kaptam / nem kaptam. |
 
-## Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak.
+| 3. Kijelentem, hogy valótlan adatszolgáltatás vagy az ellenőrzésre irányuló vizsgálat akadályoztatása miatt velem szemben a támogatást kizáró ok áll fenn / nem áll fenn. |
 
-## A kérelmező a nyomtatvány aláírásával hozzájárul ahhoz, hogy az általa közölt adatokat a fővárosi és megyei kormányhivatal igazságügyi szolgálata és a Közigazgatási és Igazságügyi Hivatal kezelje.
+| 4. A nyomtatványt kérésemre - jelenlétemben - az áldozatsegítő szolgálat munkatársa töltötte ki. Igen / Nem |
 
-## Kelt: ...................................., ......... év ............................. hó ................ nap.
+| 5. Egyéb közlendők: ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... ...................................................................................................................................................................................................................................... |
 
-## .............................................................
+| A *-gal jelölt adatok megadása nem kötelező. |
 
-## kérelmező aláírása
+| Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak. |
+
+| A kérelmező a nyomtatvány aláírásával hozzájárul ahhoz, hogy az általa közölt adatokat a fővárosi és megyei kormányhivatal és a Közigazgatási és Igazságügyi Hivatal az azonnali pénzügyi segély, illetve az állami kárenyhítés iránti kérelem elbírálása és kifizetése céljából, az azokhoz szükséges mértékben kezelje. |
+
+| Kelt: ...................................., ......... év ............................. hó ............... nap. |
+
+| kérelmező aláírása |
 
 ## B) RÉSZ
 
@@ -186,9 +238,9 @@
 
 | Havi nettó jövedelme: |
 
-| IV. A döntéshozatalhoz szükséges egyéb adatok |
+| IV. A döntéshozatalhoz szükséges egyéb adatok |
 
-| A kérelmező ellen – a kárenyhítésre okot adó bűncselekmény miatt indult eljárásban, illetve a bűncselekménnyel összefüggésben – indult-e valamely, a IV. pontban megjelölt bűncselekmény miatt eljárás; Az itt felsorolt valamely bűncselekmény elkövetése jogerős bírósági határozatban megállapításra került-e? | ⬜ Hamis vád ⬜ Hamis tanúzás ⬜ Hamis tanúzásra felhívás ⬜ Hatóság félrevezetése ⬜ Hatósági eljárás akadályozása ⬜ Mentőkörülmény elhallgatása ⬜ Bűnpártolás ⬜ Zártörés ⬜ Az elkövető, illetőleg az elkövető hozzátartozója sérelmére személy elleni erőszakos vagy közveszélyt okozó bűncselekmény |
+| A kérelmező ellen - a kárenyhítésre okot adó bűncselekmény miatt indult eljárásban, illetve a bűncselekménnyel összefüggésben - indult-e valamely, a IV. pontban megjelölt bűncselekmény miatt eljárás; ............................................................................................. ............................................................................................. Az itt felsorolt valamely bűncselekmény elkövetése jogerős bírósági határozatban megállapításra került-e? .......................................................................................................................................................................................... | □ Hamis vád (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 233-236. §, illetve Btk. 268-270. §) □ Hamis tanúzás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 238-241. §, illetve Btk. 272-275. §) □ Hamis tanúzásra felhívás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 242. §, illetve Btk. 276. §) □ Hatóság félrevezetése (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 237. §, illetve Btk. 271. §) □ A 2013. június 30-ig hatályban volt hatósági eljárás akadályozása (1978. évi IV. törvény 242/A. §), illetve kényszerítés hatósági eljárásban (Btk. 278. §) □ Mentőkörülmény elhallgatása (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 243. §, illetve Btk. 281. §) □ Bűnpártolás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 244. §, illetve Btk. 282. §) □ Zártörés (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 249. §, illetve Btk. 287. §) □ Az elkövető, illetőleg az elkövető hozzátartozója sérelmére elkövetett személy elleni erőszakos vagy közveszélyt okozó bűncselekmény |
 
 | V. Mellékletek |
 

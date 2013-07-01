@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-1-20-06
 | 2011-07-22 | 2006-1-20-06.8 | 23/2011. (VII. 21.) BM rendelet |
 | 2012-04-15 | 2006-1-20-06.9 | 20/2012. (IV. 13.) BM rendelet |
 | 2012-09-19 | 2006-1-20-06.10 | 43/2012. (IX. 18.) KIM rendelet |
+| 2013-07-01 | 2006-1-20-06.11 | 48/2009. (IX. 28.) IRM rendelet |
