@@ -1,0 +1,1 @@
+## 2. § A közfelügyeleti hatóság három évnél gyakoribb minőségellenőrzést is elrendelhet, ha a kamarai tag könyvvizsgáló, könyvvizsgáló cég utolsó minőségellenőrzése „nem felelt meg” eredménnyel zárult, valamint, ha azt a könyvvizsgálói szolgáltatást igénybe vevők érdekét veszélyeztető helyzet indokolja.
