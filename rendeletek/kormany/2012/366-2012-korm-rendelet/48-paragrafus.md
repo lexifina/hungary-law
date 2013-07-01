@@ -1,4 +1,4 @@
-## 47. §[^16]
+## 47. §[^15]
 
 ## 12. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 22. § (4) bekezdés 2014. január 1-jén lép hatályba.
 
-[^16]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
