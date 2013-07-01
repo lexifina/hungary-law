@@ -1,0 +1,1 @@
+## 21. § Ha a parancsnok az általános megelőzés, a katonai rend és fegyelem megszilárdítása érdekében indokoltnak tartja, hogy a bíróság a tárgyalást a Be. 278. § (2) bekezdése alapján ne a bíróság hivatalos helyiségében, hanem a hivatásos katasztrófavédelmi szervnél tartsa meg, ennek indítványozására a katonai ügyésznek javaslatot tesz.
