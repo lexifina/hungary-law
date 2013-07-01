@@ -2,7 +2,7 @@
 
 (2) A bíróság a határozatában az 137. § (2) bekezdése szerint állapítja meg az adott bűncselekményre alkalmazandó magatartási szabályt vagy alternatív szankciót, és ennek megfelelően rendelkezik ennek végrehajtásáról úgy, hogy az a lehető legnagyobb mértékben megfeleljen annak a magatartási szabálynak vagy alternatív szankciónak, amelyet a tagállami határozat tartalmaz.
 
-(3) Ha a 137. § (1) bekezdés b) pontjában foglalt esetben
+(3) Ha a 137. § (1) bekezdésében foglalt esetben
 
 a) a tagállami hatóság úgy függesztette fel a szabadságvesztés végrehajtását, hogy annak a Btk. szerint nincs helye,
 
@@ -10,7 +10,11 @@ b) az elítélt olyan bűncselekményt követett el, amely miatt a büntetés ki
 
 c) a tagállami hatóság a szabadságvesztésre ítéltet úgy bocsátotta feltételes szabadságra, hogy annak a Btk. szerint nincs helye,
 
-a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást vagy feltételes szabadságra bocsátást is felfüggesztett szabadságvesztésként, próbára bocsátásként vagy feltételes szabadságra bocsátásként ismeri el úgy, mintha a szabadságvesztés végrehajtásának felfüggesztése, a próbára bocsátás, illetve a feltételes szabadságra bocsátás a Btk. rendelkezései szerint történt volna.
+d) a tagállami hatóság a sportrendezvények látogatásától való eltiltást nem sportrendezvénnyel összefüggésben szabta ki,
+
+e) a tagállami hatóság úgy rendelte el a jóvátételi jellegű munka elvégzését, hogy annak a Btk. szerint nincs helye,
+
+a bíróság az ilyen felfüggesztett szabadságvesztést, próbára bocsátást, feltételes szabadságra bocsátást, sportrendezvények látogatásától való eltiltást vagy jóvátételi jellegű munkát is felfüggesztett szabadságvesztésként, próbára bocsátásként, feltételes szabadságra bocsátásként, a sportrendezvények látogatásától való eltiltásként vagy jóvátételi munkaként ismeri el úgy, mintha a szabadságvesztés végrehajtásának felfüggesztése, a próbára bocsátás, a feltételes szabadságra bocsátás, a sportrendezvények látogatásától való eltiltás kiszabása, illetve a jóvátételi munka előírása a Btk. rendelkezései szerint történt volna.
 
 (4) Ha a magatartási szabály vagy alternatív szankció tagállami határozatban megjelölt időtartama meghaladja a Btk. szerint megállapítható leghosszabb időtartamot, akkor a bíróság a szankció időtartamát a Btk. szerint meghatározható leghosszabb időtartamban állapítja meg.
 

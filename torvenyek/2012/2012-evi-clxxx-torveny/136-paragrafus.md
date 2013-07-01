@@ -4,4 +4,4 @@
 
 ## 49. Értelmező rendelkezés
 
-136. § E fejezet alkalmazásában alternatív szankció a végrehajtandó szabadságvesztés büntetéstől vagy szabadságelvonással járó intézkedéstől, illetve pénzbüntetéstől eltérő szankció.
+136. § E fejezet alkalmazásában alternatív szankció a végrehajtandó szabadságvesztés büntetéstől, az elzárástól, a szabadságelvonással járó intézkedéstől, illetve a pénzbüntetéstől eltérő szankció.

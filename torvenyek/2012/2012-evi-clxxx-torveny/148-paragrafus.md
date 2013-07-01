@@ -4,7 +4,17 @@
 
 ## 52. A végrehajtás átvétele
 
-148. § (1) Egy másik tagállamban bűncselekmény elkövetése miatt kiszabott pénzösszeg (a továbbiakban: tagállami pénzbüntetés), jogi személlyel szemben büntetőeljárásban alkalmazott pénzbírság, büntetőeljárásban megállapított eljárási költség, valamint a sértett vagy a köz javára fizetendő jóvátétel végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alapjául szolgáló jogerős határozat (a továbbiakban e fejezet alkalmazásában: pénzbüntetést kiszabó tagállami határozat) elismeréséről és végrehajtásáról, ha a pénzbüntetést kiszabó tagállami határozatot a 13. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték, feltéve, hogy a terhelt Magyarországon lakóhellyel, tartózkodási hellyel, vagyonnal vagy jövedelemmel, a jogi személy Magyarországon székhellyel vagy telephellyel rendelkezik.
+148. § (1) Egy másik tagállamban büntetendő cselekmény elkövetése miatt
+
+a) kiszabott pénzösszeg (a továbbiakban: tagállami pénzbüntetés),
+
+b) jogi személlyel szemben alkalmazott pénzbírság,
+
+c) indult eljárásban megállapított eljárási költség,
+
+d) a sértett vagy a köz javára fizetendő jóvátétel
+
+végrehajtása iránti megkeresés esetén a bíróság dönt a megkeresés alapjául szolgáló jogerős határozat (a továbbiakban e fejezet alkalmazásában: pénzbüntetést kiszabó tagállami határozat) elismeréséről és végrehajtásáról, ha a pénzbüntetést kiszabó tagállami határozatot a 13. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték, feltéve, hogy a terhelt Magyarországon lakóhellyel, tartózkodási hellyel, vagyonnal vagy jövedelemmel, a jogi személy Magyarországon székhellyel vagy telephellyel rendelkezik.
 
 (2) A pénzbüntetést kiszabó tagállami határozat elismeréséről és végrehajtásáról a terhelt, a jóvátétel fizetésére kötelezett lakóhelye, az eljárás alá vont jogi személy székhelye, ezek hiányában a végrehajtás alá vonható vagyontárgy helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik. Ha az eljárásra illetékes bíróság nem állapítható meg, a pénzbüntetést kiszabó tagállami határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság dönt.
 

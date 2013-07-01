@@ -18,17 +18,21 @@ af) az elítélt meghatározott tanulmányokat folytasson;
 
 ag) az elítélt – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát;
 
-ah) az elítélt, ha munkaképes – a lehetőségekhez képest – álljon munkaviszonyban, vagy egyéb keresőfoglalkozást folytasson;
+ah) az elítélt, ha munkaképes – a lehetőségekhez képest – álljon munkaviszonyban, vagy egyéb kereső foglalkozást folytasson;
 
 ai) az elítélt a munkahelyének és a lakóhelyének megváltoztatására irányuló szándékát a pártfogó felügyelőnek előzetesen jelentse be;
 
 aj) az elítélt a pártfogó felügyelővel rendszeres kapcsolatot tartson;
 
-ak) az elítélt a bűncselekménnyel okozott kárt térítse meg;
+ak) az elítélt a bűncselekménnyel okozott kárt térítse meg,
 
 b) közérdekű munkát szab ki,
 
-akkor e magatartási szabályoknak és alternatív szankcióknak valamely tagállam által történő elismerése és végrehajtása érdekében a bíróság a jogerős ítéletet és a 10. számú mellékletben megjelölt tanúsítványt megküldi az elítélt személy lakóhelye vagy tartózkodási helye szerinti tagállam hatáskörrel rendelkező illetékes hatóságának, ha az elítélt visszatért vagy vissza kíván térni abba a tagállamba, vagy az elítélt kérelmére – ha családi, kulturális vagy gazdasági kapcsolataira tekintettel a társadalomba való beilleszkedésének elősegítését szolgálja – ettől eltérő tagállam hatáskörrel rendelkező illetékes hatóságának, feltéve hogy ez utóbbi a továbbításhoz hozzájárult.
+c) sportrendezvények látogatásától való eltiltást szab ki,
+
+d) a büntetés kiszabását egy évre elhalasztja, és jóvátételi munka végzését írja elő,
+
+akkor e magatartási szabályoknak és alternatív szankcióknak valamely tagállam által történő elismerése és végrehajtása érdekében a bíróság a jogerős ítéletet és a 10. mellékletben megjelölt tanúsítványt megküldi az elítélt személy lakóhelye vagy tartózkodási helye szerinti tagállam hatáskörrel rendelkező illetékes hatóságának, ha az elítélt visszatért vagy vissza kíván térni abba a tagállamba, vagy az elítélt kérelmére – ha családi, kulturális vagy gazdasági kapcsolataira tekintettel a társadalomba való beilleszkedésének elősegítését szolgálja – ettől eltérő tagállam hatáskörrel rendelkező illetékes hatóságának, feltéve hogy ez utóbbi a továbbításhoz hozzájárult.
 
 (2) Az elítélt kérelmét, illetve arra vonatkozó nyilatkozatát, hogy vissza kíván térni a lakóhelye vagy tartózkodási helye szerinti tagállamba, a bíróság jegyzőkönyvbe foglalja.
 

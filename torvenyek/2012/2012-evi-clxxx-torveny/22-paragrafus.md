@@ -1,4 +1,4 @@
-22. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtásáról hozott határozatában elhalaszthatja a keresett személy átadását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, vagy ha már elítélték, az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés büntetését vagy szabadságelvonással járó intézkedését végrehajthassák.
+22. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtásáról hozott határozatában elhalaszthatja a keresett személy átadását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, vagy ha már elítélték, az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés vagy elzárás büntetését, illetve szabadságelvonással járó intézkedését végrehajthassák.
 
 (2) Az (1) bekezdésben meghatározott átadást elhalasztó határozatot a Fővárosi Törvényszék az európai elfogatóparancs végrehajtásáról hozott határozatát követően is meghozhatja.
 

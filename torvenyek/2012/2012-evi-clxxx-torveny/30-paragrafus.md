@@ -6,7 +6,7 @@
 
 a) a személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – Magyarország területét, vagy elhagyása után ide visszatér;
 
-b) a bűncselekmény szabadságvesztés büntetéssel nem büntethető vagy szabadságelvonással járó intézkedéssel nem fenyegetett;
+b) a bűncselekmény szabadságvesztés vagy elzárás büntetéssel nem büntethető, vagy szabadságelvonással járó intézkedéssel nem fenyegetett;
 
 c) a büntetőeljárás eredményeként nem kerül sor személyi szabadságot korlátozó intézkedés alkalmazására;
 

@@ -4,43 +4,51 @@
 
 a) közérdekű munkát kiszabó határozatot, és gondoskodik annak végrehajtásáról,
 
-b) felfüggesztett szabadságvesztésről, feltételes szabadságra bocsátásról, próbára bocsátásról rendelkező határozatot, és gondoskodik az abban foglalt egy vagy több alábbi, az elítélt személy számára előírt kötelezettség vagy tilalom végrehajtásáról:
+b) sportrendezvények látogatásától való eltiltást kiszabó határozatot, és gondoskodik annak végrehajtásáról,
 
-ba) arra vonatkozó kötelezettség, hogy az elítélt lakóhelyének vagy munkahelyének megváltozását az illetékes hatóságnak bejelentse;
+c) jóvátételi jellegű munka elvégzését elrendelő határozatot, és gondoskodik annak végrehajtásáról,
 
-bb) arra vonatkozó tilalom, hogy az elítélt belépjen bizonyos helyekre vagy meghatározott területre;
+d) felfüggesztett szabadságvesztésről, feltételes szabadságra bocsátásról, próbára bocsátásról rendelkező határozatot, és gondoskodik az abban foglalt egy vagy több alábbi, az elítélt személy számára előírt kötelezettség vagy tilalom végrehajtásáról:
 
-bc) Magyarország területének elhagyására vonatkozó korlátozás;
+da) arra vonatkozó kötelezettség, hogy az elítélt lakóhelyének vagy munkahelyének megváltozását az illetékes hatóságnak bejelentse;
 
-bd) az elítélt magatartására, lakóhelyére, oktatására és képzésére, szabadidős tevékenységére, szakmai tevékenysége végzésének korlátozására vagy módjára vonatkozó előírások;
+db) arra vonatkozó tilalom, hogy az elítélt belépjen bizonyos helyekre vagy meghatározott területre;
 
-be) arra vonatkozó kötelezettség, hogy az elítélt meghatározott időpontokban egy meghatározott hatóságnál jelentkezzen;
+dc) Magyarország területének elhagyására vonatkozó korlátozás;
 
-bf) arra vonatkozó tilalom, hogy az elítélt meghatározott személyekkel kapcsolatot tartson;
+dd) az elítélt magatartására, lakóhelyére, oktatására és képzésére, szabadidős tevékenységére, szakmai tevékenysége végzésének korlátozására vagy módjára vonatkozó előírások;
 
-bg) arra vonatkozó tilalom, hogy az elítélt a bűncselekmény elkövetéséhez felhasznált, meghatározott tárgyakat használjon;
+de) arra vonatkozó kötelezettség, hogy az elítélt meghatározott időpontokban egy meghatározott hatóságnál jelentkezzen;
 
-bh) arra vonatkozó kötelezettség, hogy az elítélt a bűncselekménnyel okozott kárt megtérítse, illetve annak teljesítését bizonyítsa;
+df) arra vonatkozó tilalom, hogy az elítélt meghatározott személyekkel kapcsolatot tartson;
 
-bi) arra vonatkozó kötelezettség, hogy az elítélt a pártfogó felügyelővel rendszeresen kapcsolatot tartson, vele együttműködjön;
+dg) arra vonatkozó tilalom, hogy az elítélt a bűncselekmény elkövetéséhez felhasznált, meghatározott tárgyakat használjon;
 
-bj) arra vonatkozó kötelezettség, hogy az elítélt meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát.
+dh) arra vonatkozó kötelezettség, hogy az elítélt a bűncselekménnyel okozott kárt megtérítse, illetve annak teljesítését bizonyítsa;
+
+di) arra vonatkozó kötelezettség, hogy az elítélt a pártfogó felügyelővel rendszeresen kapcsolatot tartson, vele együttműködjön;
+
+dj) arra vonatkozó kötelezettség, hogy az elítélt meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát.
 
 (2) A bíróság
 
 a) az (1) bekezdés a) pontjában foglalt esetben közérdekű munkát,
 
-b) az (1) bekezdés ba), bb), bd)–bj) alpontjaiban foglalt kötelezettség vagy tilalom esetén a feltételes szabadság tartamára, a próbára bocsátás, illetve a szabadságvesztés felfüggesztésének próbaidejére elrendelt pártfogó felügyelet keretében előírt magatartási szabályt,
+b) az (1) bekezdés b) pontjában foglalt esetben sportrendezvények látogatásától való eltiltást,
 
-c) az (1) bekezdés bc) alpontjában foglalt korlátozás esetén a külön törvényben meghatározott külföldre utazási tilalmat
+c) az (1) bekezdés c) pontjában foglalt esetben jóvátételi munkát,
 
-határoz meg, illetve szab ki.
+d) az (1) bekezdés da), db), dd)–dj) alpontjában foglalt kötelezettség vagy tilalom esetén a feltételes szabadság tartamára, a próbára bocsátás, illetve a szabadságvesztés felfüggesztésének próbaidejére elrendelt pártfogó felügyelet keretében előírt magatartási szabályt,
+
+e) az (1) bekezdés dc) alpontjában foglalt korlátozás esetén a külön törvényben meghatározott külföldre utazási tilalmat
+
+határoz meg, rendel el, illetve szab ki.
 
 (3) Az elismerés és végrehajtás feltétele, hogy a tagállami hatóság által hozott jogerős határozatot (a továbbiakban e fejezet alkalmazásában: alternatív szankciót kiszabó tagállami határozat) a 10. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték, és az elítélt lakóhelye vagy tartózkodási helye Magyarországon van, valamint az elítélt Magyarországra visszatért vagy vissza kíván térni.
 
 (4) Az alternatív szankciót kiszabó tagállami határozat elismeréséről és végrehajtásáról az elítélt lakóhelye vagy tartózkodási helye szerint illetékes törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik.
 
-(5) Ha a Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező elítélt a jogerős tagállami határozatba foglalt magatartási szabály vagy közérdekű munka magyar hatóság által történő végrehajtását kéri, és igazolja, hogy Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik, az alternatív szankciót kiszabó tagállami határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság dönt, ha a tagállami határozatot a 10. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték.
+(5) Ha a Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező elítélt a jogerős tagállami határozatba foglalt magatartási szabály, közérdekű munka, sportrendezvények látogatásától való eltiltás vagy jóvátételi jellegű munka magyar hatóság által történő végrehajtását kéri, és igazolja, hogy Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik, az alternatív szankciót kiszabó tagállami határozat elismeréséről és végrehajtásáról a Budai Központi Kerületi Bíróság dönt, ha a tagállami határozatot a 10. számú melléklet szerinti tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték.
 
 (6) Ha az alternatív szankciót kiszabó tagállami határozat nem postai úton érkezett, a bíróság kérheti a tagállami hatóságot, hogy a határozat és a tanúsítvány eredeti példányát küldje meg számára.
 

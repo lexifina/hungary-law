@@ -32,4 +32,4 @@ bb) csak külön engedély alapján hozzáférhető, és ezen engedély hiányzi
 
 bc) csak más tagállam vagy harmadik ország hozzájárulásával adható át, és ezen hozzájárulás hiányzik.
 
-(8) A megkeresés teljesítése megtagadható, ha a kérelem olyan bűncselekményre vonatkozik, amely egy évnél rövidebb időtartamú szabadságvesztéssel büntetendő.
+(8) A megkeresés teljesítése megtagadható, ha a kérelem olyan bűncselekményre vonatkozik, amely egy évnél rövidebb időtartamú szabadságvesztéssel vagy elzárással büntetendő.

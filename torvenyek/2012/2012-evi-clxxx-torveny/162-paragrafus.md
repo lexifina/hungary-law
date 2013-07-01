@@ -1,6 +1,6 @@
 ## 55. A végrehajtás átadása
 
-162. § (1) A bűncselekmény elkövetéséhez eszközül használt vagy arra szánt dolog elkobzásának vagy a Btk. 77/B. § (1) bekezdés a)–c) pontja alapján elrendelt vagyonelkobzásnak egy másik tagállamban való végrehajtása iránt az a bíróság, amelynek eljárásában az elkobzás vagy a vagyonelkobzás végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami hatósághoz címzett közvetlen megkeresés útján intézkedhet.
+162. § (1) A bűncselekmény elkövetéséhez eszközül használt vagy arra szánt dolog elkobzásának, vagy a Btk. 74. § (1) bekezdés a)–d) pontja alapján elrendelt vagyonelkobzásnak egy másik tagállamban való végrehajtása iránt az a bíróság, amelynek eljárásában az elkobzás vagy a vagyonelkobzás végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami hatósághoz címzett közvetlen megkeresés útján intézkedhet.
 
 (2) A bíróság kiállítja a 14. számú mellékletben szereplő tanúsítványt, amelyet – a megkeresés alapjául szolgáló határozattal együtt – a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít. A számítástechnikai rendszer útján továbbított tanúsítványt és határozatot minősített elektronikus aláírással kell ellátni.
 

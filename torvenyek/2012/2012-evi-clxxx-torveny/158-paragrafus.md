@@ -10,7 +10,7 @@ d) ha a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan 
 
 e) ha a terhelt közjogi tisztség betöltésén alapuló mentességet, illetve nemzetközi jogon alapuló mentességet élvez, és a mentelmi jogot nem függesztették fel, illetve a nemzetközi jogon alapuló mentességet nem függesztették fel;
 
-f) ha a vagyonelkobzást a tagállami határozathoz csatolt tanúsítvány i. pont 1.2. iii vagy iv alpontja szerinti vagyonra kell elrendelni, de a Btk. 77/B. § (1) bekezdés b) pontja a vagyonelkobzásra nem ad lehetőséget;
+f) ha a vagyonelkobzást a tagállami határozathoz csatolt tanúsítvány i. pont 1.2. iii vagy iv alpontja szerinti vagyonra kell elrendelni, de a Btk. 74. § (1) bekezdés b) pontja a vagyonelkobzásra nem ad lehetőséget;
 
 g) ha a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki.
 

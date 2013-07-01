@@ -22,7 +22,7 @@ j) az alternatív szankciót kiszabó tagállami határozat olyan orvosi kezelé
 
 k) az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki;
 
-l) a felfüggesztett szabadságvesztés vagy a próbára bocsátás, illetve a feltételes szabadságra bocsátás tagállami határozatban megállapított próbaideje, illetve tartama nem éri el a hat hónapot.
+l) a felfüggesztett szabadságvesztés, a próbára bocsátás, vagy a feltételes szabadságra bocsátás tagállami határozatban megállapított próbaideje, tartama, illetve a sportrendezvények látogatásától való eltiltás tartama nem éri el a hat hónapot.
 
 (2) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
