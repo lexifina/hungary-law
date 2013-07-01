@@ -5,11 +5,3 @@ a) a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilni
 b) a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) A (CIV) és B (CIM) Függeléke módosításának kihirdetéséről szóló 11/1991. (V. 23.) KHVM rendelet,
 
 c) a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) KM rendelet módosításáról szóló 47/2005. (VI. 29.) GKM rendelet.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
