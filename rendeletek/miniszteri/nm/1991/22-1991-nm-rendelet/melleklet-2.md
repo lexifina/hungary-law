@@ -10,7 +10,7 @@
 
 ## 5. Elmebetegség bármely formája.
 
-## II.[^36] Szemészeti szempontból szakorvosi véleményezést igénylő megbetegedések
+## II.[^44] Szemészeti szempontból szakorvosi véleményezést igénylő megbetegedések
 
 ## 1. az I. alkalmassági csoportban:
 
@@ -34,7 +34,7 @@
 
 ## – csőlátótér.
 
-## III.[^37] Lőfegyver megszerzésére, tartására való egészségi alkalmasság vizsgálata kapcsán szakorvosi véleményezést igénylő egyéb megbetegedések:
+## III.[^45] Lőfegyver megszerzésére, tartására való egészségi alkalmasság vizsgálata kapcsán szakorvosi véleményezést igénylő egyéb megbetegedések:
 
 ## 1. Beszéd útján történő kommunikáció nehezített volta (hangképzési, beszéd- és/vagy hallászavar).
 
@@ -54,13 +54,13 @@
 
 ## 6. Központi és perifériás idegrendszer bármilyen betegsége, és annak maradványtünetei, ha olyan funkciókiesést okoznak, hogy a lőfegyver biztonságos használatát befolyásolják.
 
-## 7.[^38]
+## 7.[^46]
 
 2. számú melléklet
 
-a 22/1991. (XI. 15.) NM rendelethez[^39]
+a 22/1991. (XI. 15.) NM rendelethez[^47]
 
-[^36]: Az 1. számú melléklet II. pontja a 13/1997. (VI. 20.) NM rendelet 1. §-ával megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^37]: Az 1. számú melléklet III. pont nyitó szövegrésze a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^38]: Az 1. számú melléklet III. pont 7. alpontját a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése hatályon kívül helyezte.
-[^39]: A 2. számú melléklet a 9/2010. (III. 18.) EüM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^44]: Az 1. számú melléklet II. pontja a 13/1997. (VI. 20.) NM rendelet 1. §-ával megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^45]: Az 1. számú melléklet III. pont nyitó szövegrésze a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^46]: Az 1. számú melléklet III. pont 7. alpontját a 9/2010. (III. 18.) EüM rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^47]: A 2. számú melléklet a 9/2010. (III. 18.) EüM rendelet 13. § (2) bekezdésével megállapított szöveg.
