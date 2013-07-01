@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-46-20-2
 | --- | --- | --- |
 | 2012-03-29 | 2012-46-20-22.1 | 46/2012. (III. 28.) Korm. rendelet |
 | 2012-03-30 | 2012-46-20-22.2 | 2010: CXXX. törvény |
+| 2013-07-01 | 2012-46-20-22.3 | 238/2013. (VI. 30.) Korm. rendelet |
