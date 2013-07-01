@@ -24,7 +24,7 @@
 
 11. Egyéb intézkedés.
 
-12.[^11] Az ügyfél nyilatkozata
+12.[^12] Az ügyfél nyilatkozata
 
 A szabályszegés elkövetését elismerem, a tájékoztatást megkaptam, a bírságot a helyszínen készpénzben, bankkártyával megfizetem a későbbi befizetéshez készpénz-átutalási megbízást átvettem.
 
@@ -38,4 +38,4 @@ Az eljáró hatóság megnevezése, bélyegzőlenyomata, a hatóság eljáró ta
 
 Az ügyfél által történő átvételt igazoló záradék, az ügyfél aláírása.
 
-[^11]: A 3. melléklet 12. pontja a 47/2012. (VIII. 23.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. melléklet 12. pontja a 47/2012. (VIII. 23.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
