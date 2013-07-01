@@ -1,6 +1,6 @@
 ## 7. Adattovábbítás külföldre
 
-8. § (1) Személyes adatot e törvény hatálya alá tartozó adatkezelő harmadik országban adatkezelést folytató adatkezelő részére akkor továbbíthat, vagy harmadik országban adatfeldolgozást végző adatfeldolgozó részére akkor adhat át, ha
+8. § (1) Személyes adatot e törvény hatálya alá tartozó adatkezelő vagy adatfeldolgozó harmadik országban adatkezelést folytató adatkezelő részére akkor továbbíthat, vagy harmadik országban adatfeldolgozást végző adatfeldolgozó részére akkor adhat át, ha
 
 a) ahhoz az érintett kifejezetten hozzájárult, vagy
 
