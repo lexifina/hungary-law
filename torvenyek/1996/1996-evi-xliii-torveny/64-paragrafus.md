@@ -8,6 +8,6 @@
 
 (4) Akinek a rokkantságát, megváltozott munkaképességű személyek ellátását a szolgálattal összefüggő baleset, betegség miatt állapították meg, és a rokkantságát, megváltozott munkaképességű személyek ellátását megszüntették, a hivatásos állományba visszavehető, ha az egészségi állapotának megfelelő beosztás részére biztosítható.
 
-(5) A hivatásos állomány szolgálati járandóságban részesülő volt tagja – az (1)–(4) bekezdésben meghatározott feltételeknek való megfelelés esetén is – csak akkor vehető vissza hivatásos állományba, ha a szolgálati járandóságának folyósítását a hivatásos szolgálat idejére szünetelteti.
+(5)
 
 (6) Visszavétel esetén a hivatásos állomány tagja legfeljebb olyan rendfokozatba léptethető elő, mint amilyen rendfokozatot folyamatos szolgálatteljesítés esetén soron történő előléptetéssel elérhetett volna.

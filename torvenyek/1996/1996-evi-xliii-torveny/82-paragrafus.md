@@ -1,9 +1,11 @@
-## A hivatásos állomány tagjának minősítése
+## A hivatásos állomány tagjának teljesítményértékelése és minősítése
 
-82. § (1) A hivatásos állomány tiszti, főtiszti és tábornoki rendfokozatú tagját — a nyugdíjkorhatár elérését megelőző 5 év kivételével — magasabb beosztásba történő kinevezése, besorolása előtt, továbbá szakmai alkalmatlanságának felmerülése esetén, a próbaidő megszűnése után, a véglegesítéskor, a szolgálati viszony meghosszabbításakor, illetve, ha azt fontos okból maga kérte, de legalább 5 évenként az állományilletékes parancsnok minősíti. Egyéb esetekben szolgálati jellemzést kell készíteni.
+82. § (1) A hivatásos állomány tagjának szolgálatellátását, magatartását és a vele szemben támasztott követelményekhez való viszonyát évente 2 alkalommal értékelni kell (a továbbiakban: teljesítményértékelés).
 
-(2) A hivatásos állomány tiszthelyettesi és zászlósi rendfokozatú tagjairól minden esetben szolgálati jellemzést kell készíteni, melynek tartalmát és készítésének eseteit külön jogszabály állapítja meg.
+(2) A teljesítményértékelés kötelező és ajánlott elemekből áll.
 
-(3) A minősítés és a szolgálati jellemzés célja a hivatásos állomány tagja szolgálati teljesítményének megítélése, a teljesítményt befolyásoló ismeretek, képességek, személyiségjegyek értékelése, továbbá az előmenetelének elősegítése.
+(3) A teljesítményértékelés szintjének meghatározásakor figyelembe kell venni a szolgálati hely szervezeti teljesítményének – miniszter által meghatározott rendben és szempontok alapján végrehajtott – tárgyévi értékelését.
 
-(4) A minősítés kötelező elemeit a törvény 4. számú mellékletében foglalt minősítési lap tartalmazza. A minősítésben csak kellően alátámasztott, tényeken alapuló megállapítások szerepelhetnek. A minősített alkalmasságának megítélését indokolni kell.
+(4) A tárgyévet lezáró teljesítményértékelés – az értékelt képességeinek és szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelését, valamint a beosztás ellátására való alkalmasságára, további fejleszthetőségére és előmenetelre vonatkozó következtetést is tartalmazó – szöveges indokolással kiegészítve adja az értékelt tárgyévre szóló minősítését.
+
+(5) Az értékelő vezető a minősítés alapján kezdeményezheti az értékeltnek a vezetői és utánpótlási adatbankba való felvételét vagy az abból való törlését, továbbá a szolgálati viszony módosítását vagy megszüntetését.

@@ -57,9 +57,3 @@ III.*
 8. a megszűnés módja
 
 IV.
-
-1. az alkalmazó fegyveres vagy közigazgatási szerv neve és címe
-
-2. a tartalékállományba helyezés időpontja
-
-3. a tartalékállományba helyezés időtartama

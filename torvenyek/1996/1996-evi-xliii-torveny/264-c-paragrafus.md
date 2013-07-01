@@ -2,13 +2,11 @@
 
 264/C. § (1) Ha az öregségi nyugdíjkorhatár elérése előtt a szolgálati járandóságra jogosult
 
-a) vállalja, hogy hivatásos szolgálati viszony keretében a különleges foglakoztatási állományban (a továbbiakban: szenior állomány) teljesít szolgálatot,
+a) vállalja, hogy hivatásos szolgálati viszony keretében a különleges foglakoztatási állományban (a továbbiakban: szenior állomány) teljesít szolgálatot, és
 
-b) megfelel a miniszter által meghatározott alkalmassági követelményeknek, és
+b) megfelel a miniszter által meghatározott alkalmassági követelményeknek
 
-c) a szolgálati járandóságát a különleges foglalkoztatási állomány idejére szünetelteti,
-
-kérelmére – függetlenül attól, hogy melyik fegyveres szervnél vagy a Magyar Honvédségnél állt fenn szolgálati viszonya – a rendőrség különleges foglalkoztatási állományába kell venni.
+c)
 
 (2) A szenior állományba tartozó szolgálati beosztást nem lát el.
 

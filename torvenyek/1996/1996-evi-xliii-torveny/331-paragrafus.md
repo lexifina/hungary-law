@@ -1,1 +1,3 @@
-331. §
+## Az öregségi nyugdíj, korhatár előtti ellátás, valamint szolgálati járandóság szüneteltetése
+
+331. § Az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy hivatásos állományba való visszavételéről, valamint a szolgálati járandóságban részesülő személy szenior állományba vételéről az állományilletékes parancsnok – az öregségi nyugdíjnak, korhatár előtti ellátásnak, illetve szolgálati járandóságnak a Tny. tv. 83/C. § (1) bekezdése, illetve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. § (1) bekezdése szerint történő szüneteltetése érdekében, az érintett személy nevének és társadalombiztosítási azonosító jelének megküldésével – haladéktalanul értesíti a nyugdíjfolyósító szervet.
