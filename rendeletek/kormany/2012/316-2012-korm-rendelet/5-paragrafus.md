@@ -1,3 +1,5 @@
+## 4/A. §[^2] A jelzőrendszeres házi segítségnyújtást a Főigazgatóság biztosítja az Szt. 91. § (2) bekezdése szerint.
+
 ## 3. Módszertani feladat- és hatáskör
 
 5. § (1) A Főigazgatóság ellátja az országos szociális, illetve gyermekjóléti, gyermekvédelmi módszertani feladatokat. Ennek keretében
@@ -21,3 +23,5 @@ h) ellátja az alapító okiratában meghatározott egyéb feladatokat.
 (2) A Főigazgatóság az (1) bekezdés szerinti módszertani feladatainak ellátásába szociális, gyermekjóléti, gyermekvédelmi szolgáltatókat, intézményeket, illetve szakmai szervezeteket is bevonhat.
 
 (3) A Főigazgatóság működteti az országos gyermekvédelmi szakértői bizottságot.
+
+[^2]: A 4/A. §-t a 89/2013. (III. 28.) Korm. rendelet 6. §-a iktatta be.
