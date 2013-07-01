@@ -1,0 +1,3 @@
+## 10. § Az R1. 7/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha a gépjármű az ellenőrzéskor a gépjárműre egyébként irányadó díjkategóriához képest alacsonyabb díjkategóriába tartozó, érvényes jogosultsággal rendelkezik, akkor az alacsonyabb és az egyébként irányadó díjkategóriához rendelt pótdíjak különbözetét kell megfizetni és a (9) bekezdés szerinti maximalizált pótdíj nem állapítható meg. Ha a járműre a 6. § (6) bekezdése szerinti jogosultságot vásárolták, de a jármű a forgalmi engedélye alapján nem motorkerékpár, akkor a jármű kategóriájának megfelelő teljes pótdíjat kell megfizetni.”
