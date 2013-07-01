@@ -4,11 +4,29 @@
 
 a) ellátja az 1. § (2) bekezdés 15. pontjában meghatározott feladatot, amelynek keretében
 
-aa) jogszabályban meghatározottak szerint végzi a terrorcselekmény [Btk. 261. §], a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése [Btk. 262. §], valamint az azokkal összefüggésben elkövetett más bűncselekmények megelőzését, felderítését, megszakítását, az elkövetők elfogását,
+aa) jogszabályban meghatározottak szerint végzi
 
-ab) végzi az emberrablás [Btk. 175/A. §], valamint az azzal összefüggésben elkövetett más bűncselekmények megszakítását, az elkövetők elfogását,
+1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekmény (1978. évi IV. törvény 261. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §),
 
-ac) végzi az emberrablással [Btk. 175/A. §] összefüggésben elkövetett bűncselekményeket elkövető személyekkel, csoportokkal, szervezetekkel szembeni megelőzési, felderítési feladatokat,
+2. a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §),
+
+valamint az azokkal összefüggésben elkövetett más bűncselekmények megelőzését, felderítését, megszakítását, az elkövetők elfogását,
+
+ab) végzi
+
+1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberrablás (1978. évi IV. törvény 175/A. §), valamint az azzal összefüggésben elkövetett,
+
+2. az emberrablás (Btk. 190. §), az emberrablás feljelentésének elmulasztása (Btk. 191. §), valamint az azokkal összefüggésben elkövetett
+
+más bűncselekmények megszakítását, az elkövetők elfogását,
+
+ac) végzi
+
+1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberrablással (1978. évi IV. törvény 175/A. §),
+
+2. az emberrablással (Btk. 190. §)
+
+összefüggésben elkövetett bűncselekményeket elkövető személyekkel, csoportokkal, szervezetekkel szembeni megelőzési, felderítési feladatokat,
 
 ad) a terrorizmus elleni küzdelem keretében – Magyarország nemzetbiztonsági érdekei érvényesítésének elősegítése érdekében – megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak,
 

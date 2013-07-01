@@ -14,7 +14,7 @@ e) a társadalombiztosítási nyilvántartásból,
 
 f) az adóhatóság által vezetett nyilvántartásból,
 
-g) a közúti közlekedési nyilvántartásokból (az engedély-nyilvántartás, a járműnyilvántartás, a származás-ellenőrzési nyilvántartás, az okmánytár, a parkolási igazolvány nyilvántartás és az előzetes eredetiségvizsgálati nyilvántartás),
+g) a közúti közlekedési nyilvántartásokból (az engedély-nyilvántartás, a járműnyilvántartás, a származás-ellenőrzési nyilvántartás, az okmánytár, a parkolási igazolvány nyilvántartás, a díjköteles útszakaszok díjmentes használatára jogosultak nyilvántartása és az előzetes eredetiségvizsgálati nyilvántartás),
 
 h) törvényben meghatározottak szerint a bűnügyi nyilvántartási rendszer nyilvántartásaiból, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásaiból,
 
@@ -24,7 +24,7 @@ j) a központi idegenrendészeti nyilvántartásból,
 
 k) a menekültügyi nyilvántartásból,
 
-l)
+l) az autópályák, autóutak és főutak használatának megtett úttal arányos díjáról szóló törvény alapján az UD Rendszerben kezelt jogosulatlan úthasználók adatbázisából,
 
 m) a személyszállítást végző légi fuvarozóknak a légi közlekedésről szóló törvény alapján kezelt adatokat tartalmazó adatbázisából,
 
@@ -40,7 +40,9 @@ s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántar
 
 t) a közjegyzői zálogjogi nyilvántartásból,
 
-u) a szabálysértési nyilvántartásból.
+u) a szabálysértési nyilvántartásból,
+
+v) központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartásból
 
 (3) Az általános munkarend korlátaitól függetlenül kérhető adat a (2) bekezdés a), d), i), j), k) és m) pontjaiban felsorolt nyilvántartásokból, a közúti közlekedési nyilvántartások közül az engedély-nyilvántartásból és a járműnyilvántartásból, valamint a bűnügyi nyilvántartások közül a bűntettesek nyilvántartásából. Az adatkéréseket hiányos és töredékadatok esetén is teljesíteni kell.
 

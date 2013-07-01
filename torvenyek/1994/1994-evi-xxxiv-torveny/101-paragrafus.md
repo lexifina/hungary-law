@@ -30,7 +30,11 @@ n) a rendőrség határellenőrzési feladatokat ellátó szerve által a 91/O. 
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-a) az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az elővezetés és a kísérés végrehajtásával kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
+a) az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
+
+aa) az elővezetés és a kísérés végrehajtásával kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait, továbbá
+
+ab) az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről szóló törvényben meghatározott szakértői vizsgálat biztonságos és eredményes végrehajtásának biztosítása céljából történő rendőri közreműködés nyomán felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
 
 b) a honvédelemért felelős miniszterrel egyetértésben rendeletben állapítsa meg a katonai alakulatok és szállítmányok államhatáron történő átléptetésének rendjét,
 

@@ -8,19 +8,19 @@ c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt ki
 
 d) a rendőrségen fogvatartott, a házi őrizet, illetve a lakhelyelhagyási tilalom alá helyezett és azon személyek adatait, akikkel szemben távoltartást rendeltek el, valamint akiknek óvadék vagy biztosíték letétbe helyezését engedélyezték, a bűncselekmény büntethetőségének elévüléséig vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig;
 
-e) súlyos bűncselekmény esetén vagy ha a bűncselekmény
+e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
 
-1. élet, testi épség, személyes szabadság és erőszakkal elkövetett tulajdon elleni bűntett, illetve az embercsempészet és az emberkereskedelem három évig terjedő szabadságvesztéssel fenyegetett alakzata,
+1. élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az emberkereskedelem és az embercsempészet három évig terjedő szabadságvesztéssel fenyegetett alakzata,
 
-2. nemi erkölcs elleni bűncselekmények három évig terjedő szabadságvesztéssel fenyegetett alakzata,
+2. nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel fenyegetett alakzata,
 
 3. gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel fenyegetett bűntett,
 
-4. üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő,
+4. üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
 
-5. visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, visszaélés nukleáris anyaggal, visszaélés radioaktív anyaggal, visszaélés atomenergia alkalmazásával,
+5. kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
 
-6. pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítás, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, a közélet tisztasága, valamint a nemzetközi közélet tisztasága elleni bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
+6. pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
 
 a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, kriminalisztikai szempontból fontos jellemzőit húsz évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig;
 

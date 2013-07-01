@@ -18,7 +18,15 @@ g) ha a bűncselekmény megelőzésére, magakadályozására, felderítésére,
 
 h) hírközlési rendszerekből és egyéb adattároló eszközökből információt gyűjthet.
 
-(2) Az (1) bekezdésben foglaltak teljesítésére a rendőrség a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a rendőrség kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszony, illetve munkajogviszony (a továbbiakban: munkaviszony) létesítését.
+(1a) A rendőrség a vagyon-visszaszerzési eljárás során a bűncselekményből származó vagyon felderítése érdekében
+
+a) a 64. § (1) bekezdés a)–c) és f)–g) pontjában foglaltakat alkalmazhatja;
+
+b) a bűncselekményből származó vagyonnal kapcsolatban lévő személyt, valamint a bűncselekményből származó vagyonnal kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhet, arról információt gyűjthet, az észlelteket technikai eszközzel rögzítheti;
+
+c) sérülést vagy egészségkárosodást nem okozó csapdát alkalmazhat.
+
+(2) Az (1)–(1a) bekezdésben foglaltak teljesítésére a rendőrség a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a rendőrség kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszony, illetve munkajogviszony (a továbbiakban: munkaviszony) létesítését.
 
 (3) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet a (2) bekezdés hatálya alá tartozó szervezeteknél.
 

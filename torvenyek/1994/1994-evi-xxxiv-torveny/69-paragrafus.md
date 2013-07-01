@@ -16,19 +16,27 @@ e) számítástechnikai eszköz vagy rendszer útján továbbított, vagy azon t
 
 (3) A rendőrség az (1) bekezdésben felsorolt titkos információgyűjtésre szolgáló eszközöket és módszereket (a továbbiakban: különleges eszközök) az ott meghatározottak szerint alkalmazhatja a bűncselekmény gyanúja miatt körözött személy felkutatására, továbbá
 
-a) a lelkiismereti és vallásszabadság megsértése (Btk. 174/A. §), a kitartottság (Btk. 206. §), a hivatali visszaélés (Btk. 225. §), a visszaélés új pszichoaktív anyaggal (Btk. 283/B. §),
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti lelkiismereti és vallásszabadság megsértése (1978. évi IV. törvény 174/A. §), kitartottság (1978. évi IV. törvény 206. §), hivatali visszaélés (1978. évi IV. törvény 225. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), illetve az új pszichoaktív anyaggal visszaélés (Btk. 184. §), a kitartottság (Btk. 202. §), a gyermekprostitúció kihasználása [Btk. 203. § (3) bekezdés], a lelkiismereti és vallásszabadság megsértése (Btk. 215. §), a hivatali visszaélés (Btk. 305. §),
 
 b) az (1) bekezdésben nem említett, üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
 
-c) az emberkereskedelem (Btk. 175/B. §), a tiltott pornográf felvétellel visszaélés (Btk. 204. §), a kerítés (Btk. 207. §), az embercsempészés (Btk. 218. §), a bűnpártolás (Btk. 244. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §), a visszaélés bizalmas minősítésű adattal (Btk. 222. §), a visszaélés korlátozott terjesztésű minősítésű adattal (Btk. 222/A. §), a vesztegetés (Btk. 250. §), a vesztegetés nemzetközi kapcsolatban (Btk. 255/B. §), a környezetkárosítás (Btk. 280. §), a természetkárosítás (Btk. 281. §), a hulladékgazdálkodás rendjének megsértése (Btk. 281/A. §) bűncselekmények három évig terjedő szabadságvesztéssel fenyegetett alakzata,
+c) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberkereskedelem (1978. évi IV. törvény 175/B. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), kerítés (1978. évi IV. törvény 207. §), embercsempészés (1978. évi IV. törvény 218. §), bűnpártolás (1978. évi IV. törvény 244. §), visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), visszaélés bizalmas minősítésű adattal (1978. évi IV. törvény 222. §), visszaélés korlátozott terjesztésű minősítésű adattal (1978. évi IV. törvény 222/A. §), vesztegetés (1978. évi IV. törvény 250. §), vesztegetés nemzetközi kapcsolatban (1978. évi IV. törvény 255/B. §), környezetkárosítás (1978. évi IV. törvény 280. §), természetkárosítás (1978. évi IV. törvény 281. §) és hulladékgazdálkodás rendjének megsértése (1978. évi IV. törvény 281/A. §) bűncselekmények három évig terjedő szabadságvesztéssel fenyegetett alakzata, illetve az egészségügyi termék hamisítása (Btk. 186. §), az emberkereskedelem (Btk. 192. §), a kerítés (Btk. 200. §), a gyermekpornográfia (Btk. 204. §), a környezetkárosítás (Btk. 241. §), a természetkárosítás (Btk. 242–243. §), a hulladékgazdálkodás rendjének megsértése (Btk. 248. §), az ózonréteget lebontó anyaggal visszaélés (Btk. 249. §), a minősített adattal visszaélés (Btk. 265. §), a bűnpártolás (Btk. 282. §), a hivatali vesztegetés elfogadása (Btk. 294. §), az embercsempészés (Btk. 353. §) bűncselekmények három évig terjedő szabadságvesztéssel fenyegetett alakzata,
 
 d) az (1) bekezdésben vagy az a)–c) pontban meghatározott bűncselekmény kísérlete, valamint – ha az előkészületet a törvény büntetni rendeli – előkészülete
 
 felderítése során.
 
-(4) Az állam elleni bűncselekmények (Btk. X. fejezet), az emberiség elleni bűncselekmények (Btk. XI. fejezet), továbbá a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítése a nyomozás elrendeléséig a nemzetbiztonsági szolgálatok hatáskörébe tartozik.
+(4) Az alábbi bűncselekmények esetében a bűncselekmény felderítése a nyomozás elrendeléséig a nemzetbiztonsági szolgálatok hatáskörébe tartozik:
 
-(5) A rombolás (Btk. 142. §) és a terrorcselekmény (Btk. 261. §) felderítése a rendőrség hatáskörébe tartozik.
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), továbbá a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
+
+b) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet) továbbá a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §).
+
+(5) Az alábbi bűncselekmények felderítése a rendőrség hatáskörébe tartozik:
+
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti rombolás (1978. évi IV. törvény 142. §) és terrorcselekmény (1978. évi IV. törvény 261. §),
+
+b) a rombolás (Btk. 257. §), a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318. §).
 
 (6) Az (1) bekezdés c) pontjában foglaltak teljesítéséhez a távközlési, illetőleg postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
 

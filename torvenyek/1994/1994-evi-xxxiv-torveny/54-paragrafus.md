@@ -4,7 +4,7 @@ a) az élet elleni közvetlen fenyegetés vagy támadás elhárítására;
 
 b) a testi épséget súlyosan veszélyeztető közvetlen támadás elhárítására;
 
-c) a közveszélyokozás, a terrorcselekmény vagy a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűncselekményének megakadályozására vagy megszakítására;
+c) a terrorcselekmény (Btk. 314–316. §), a jármű hatalomba kerítése (Btk. 320. §) vagy a közveszély okozása (Btk. 322. §) bűncselekmények megakadályozására vagy megszakítására;
 
 d) bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének megakadályozására;
 

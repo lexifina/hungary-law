@@ -10,7 +10,7 @@ c) közveszély, továbbá az életet vagy testi épséget fenyegető közvetlen
 
 d) rendkívüli vagy tisztázatlan okból bekövetkezett halálesettel kapcsolatos intézkedés megtételére;
 
-e) végrehajtási eljárás lefolytatása céljából, ha az abban való közreműködés — jogszabály alapján — a rendőrség számára kötelező;
+e) végrehajtási eljárás lefolytatása, illetve az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről szóló törvényben meghatározott szakértői vizsgálat biztonságos és eredményes végrehajtásának biztosítása céljából, ha az abban való közreműködés – jogszabály alapján – a rendőrség számára kötelező;
 
 f) az elővezetés végrehajtása érdekében;
 

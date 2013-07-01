@@ -2,7 +2,7 @@
 
 58. § (1) A rendőrök csapaterőben alkalmazhatók
 
-a) az alkotmányos rend erőszakos megváltoztatására irányuló bűncselekmény (Btk. 139. §), a lázadás (Btk. 140. §), valamint a rombolás (Btk. 142. §) elkövetése esetén;
+a) az alkotmányos rend erőszakos megváltoztatása (Btk. 254. §), a lázadás (Btk. 256. §), illetve a rombolás (Btk. 257. §) bűncselekmények elkövetése esetén;
 
 b) a személyek élet- és vagyonbiztonságát tömegesen veszélyeztető események megszüntetésére vagy az ilyen következményekkel járó erőszakos cselekmények megakadályozására és az elkövetők elfogására;
 
