@@ -4,6 +4,8 @@
 
 (2) A nyilvántartás az egyéni vállalkozónak, az egyéni cégnek vagy a gazdasági társaság cégbírósághoz bejelentett vezető tisztségviselőjének, a tevékenységet személyesen végzőnek, és a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő természetes személynek – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – a természetes személyazonosító adatait és állampolgárságát tartalmazza.
 
+(2a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A rendőrség az adatokat a működési engedély vagy az igazolvány visszavonásáig tartja nyilván. Az 5. § (4) bekezdés b) pontjában és az 5/A. § (5) bekezdés b) pontjában foglaltak ellenőrzése céljából a rendőrség a felügyeleti bírsággal sújtott vállalkozások adatait a felügyeleti bírság kiszabását követő két évig tartja nyilván, ha a kiszabott bírságot a bírsággal sújtott vállalkozás a határozat jogerőre emelkedésétől számított két éven belül nem fizeti meg.
 
 (4) A nyilvántartásból adattovábbításra irányuló kérelmet – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben foglaltak kivételével – teljesíteni nem lehet.
