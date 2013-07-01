@@ -62,7 +62,7 @@ van helye.
 
 a) 20. § (1) bekezdés a) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet (a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet) 1. mellékletének 1. pontjában, 2. pont a) alpontjában és 5. pontjában foglalt esetekben,
 
-b)[^4] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. melléklet 1–61. sorában foglalt esetekben,
+b)[^4] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. mellékletében foglalt esetekben,
 
 c) 20. § (1) bekezdés c) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 3. mellékletének B2-B3 soraiban, B5-B6 soraiban, B8-B9 soraiban, B11-B12 soraiban, C2-C3 soraiban, D2-D3 soraiban, D5-D6 soraiban, D8-D9 soraiban, D11-D12 soraiban, D14-D15 soraiban, D17-D18 soraiban, E1 sorában foglalt esetekben,
 
@@ -78,7 +78,9 @@ h) 44. § (4) bekezdése alapján a közúti járművek forgalomba helyezéséne
 
 i)[^5] 20. § (1) bekezdés k) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet 11/A–11/G. mellékletében foglalt esetekben,
 
-j)[^6] 20. § (1) bekezdés l) pontja alapján a magyarországi illetőségű személy vagy szervezet által a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára vonatkozó szabályok megsértése esetén
+j)[^6] 20. § (1) bekezdés l) pontja alapján a magyarországi illetőségű személy vagy szervezet által a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára vonatkozó szabályok megsértése esetén,
+
+k)[^7] 20. § (1) bekezdés m) pontja alapján az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok megsértése esetén
 
 ## van helye.
 
@@ -102,6 +104,7 @@ van helye.
 
 [^2]: A 2. § (1) bekezdés e) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (1) bekezdése iktatta be.
 [^3]: A 2. § (3) bekezdés h) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (2) bekezdése iktatta be.
-[^4]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított, a 31/2013. (VI. 18.) NFM rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^5]: A 2. § (5) bekezdés i) pontját a 42/2011. (VIII. 11.) NFM rendelet 16. § (2) bekezdése iktatta be, szövege a 47/2012. (VIII. 23.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^6]: A 2. § (5) bekezdés j) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (4) bekezdése iktatta be.
+[^7]: A 2. § (5) bekezdés k) pontját a 31/2013. (VI. 18.) NFM rendelet 5. § (1) bekezdése iktatta be.
