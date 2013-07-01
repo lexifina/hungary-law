@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-84-00-00
 | 2013-06-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-84-00-00.1 |
 | 2013-06-16 | 2010. évi CXXX. törvény | 2013-84-00-00.2 |
 | 2013-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-84-00-00.3 |
+| 2013-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-84-00-00.4 |

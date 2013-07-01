@@ -1,3 +1,13 @@
 ## 46. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-46. §
+46. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény 175/A. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartása – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.”
+
+(2) Az adózás rendjéről szóló 2003. évi XCII. törvény IX. Fejezete a következő alcímmel és 179/A. §-sal egészül ki:
+
+„Az állami adó- és vámhatóság által vezetett közhiteles hatósági nyilvántartások
+
+179/A. § Az állami adóhatóság a 7. § (5) bekezdésében, a 16. § (3), (4) és (11) bekezdésében, a 17. § (5), (10)–(12) és (17) bekezdésében, a 20. § (1) és (6) bekezdésében, a 20/A. § (2) bekezdésében, a 22. § (1), (4) és (5) bekezdésében, a 22/A. § (1) bekezdésében, az 54. § (5) bekezdésében, az 55. § (4)–(6) bekezdésében és az 55/A. §-ban meghatározott adatok tekintetében közhiteles hatósági nyilvántartást vezet, illetve a 24. § (1) bekezdésében, a 43. § (1) bekezdésében, az 54. § (6) bekezdésében, a 176/C–176/E. §-ban, valamint a 178. § 31. és 32. pontjában foglalt nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az állami adó- és vámhatóság a 22/C. §-ban meghatározott adatokról közhiteles hatósági nyilvántartást vezet. E nyilvántartások azon adat kivételével minősülnek közhitelesnek, amely adatokat jogszabály más nyilvántartás részeként közhitelesnek minősít.”
+
+(3) Az adózás rendjéről szóló 2003. évi XCII. törvény 175/C. § (1) bekezdésében a „nyilvántartásba veszi.” szövegrész helyébe a „nyilvántartásba veszi, amely nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.” szöveg lép.
