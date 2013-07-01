@@ -1,3 +1,9 @@
 ## 4. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
-27. §
+27. § A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 157/A. §-a helyébe a következő rendelkezés lép:
+
+„157/A. § A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha
+
+a) a magyar bűnüldöző szerv – nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – írásban kér biztosítási titoknak minősülő adatot a biztosítótól.
+
+b) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér biztosítási titoknak minősülő adatot a biztosítótól.”

@@ -1,0 +1,3 @@
+43. § A Kit. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az uniós jogi aktus pénzeszközök átutalására vonatkozó korlátozó intézkedést rendel el, a pénzügyi szolgáltató – ide nem értve a pénzfeldolgozást végző szolgáltatót – az uniós jogi aktusban rögzített esetekben a pénzeszközök átutalása és a pénzügyi szolgáltatás kezdeményezéséről, fogadásáról, teljesítéséről haladéktalanul értesíti a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szervet, illetve az uniós jogi aktusban meghatározott esetekben a teljesítés engedélyezése iránti kérelmet nyújt be a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szervhez.”

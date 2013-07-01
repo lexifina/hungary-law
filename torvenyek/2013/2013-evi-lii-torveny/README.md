@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-52-00-00
 | --- | --- | --- |
 | 2013-06-30 | 2013. évi LII. törvény | 2013-52-00-00.0 (közlönyállapot) |
 | 2013-06-30 | 2013. évi LXXVIII. törvény | 2013-52-00-00.1 |
+| 2013-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-52-00-00.2 |

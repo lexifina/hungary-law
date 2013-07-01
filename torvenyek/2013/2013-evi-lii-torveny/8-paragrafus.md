@@ -1,0 +1,5 @@
+8. § A Pmt. „Ügyfél-átvilágítási intézkedések” alcíme a következő 11/A. §-sal egészül ki:
+
+„11/A. § (1) A szolgáltató a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében a háromszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.
+
+(2) Az 1. § (1) bekezdés a) pontjában meghatározott tevékenységet végző szolgáltató a készpénzátutalás és a fizetési számlára történő közvetlen – pénzforgalmi szolgáltató igénybevétele nélküli – készpénzbefizetés teljesítésekor, valamint az 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén – a megtakarítási elemet nem tartalmazó, tisztán kockázati életbiztosításokat ide nem értve – a szerződés szerint elvárt díjon felül történő készpénzbefizetés teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.”
