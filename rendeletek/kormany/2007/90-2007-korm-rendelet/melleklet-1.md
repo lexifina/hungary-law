@@ -66,7 +66,7 @@ b) Dokumentációk:
 
 3. A kárelhárítási tervek tartalma
 
-a)[^36] Együttműködési terv:
+a)[^37] Együttműködési terv:
 
 – az üzemen belüli figyelőhálózat felépítése,
 
@@ -106,4 +106,4 @@ d) Kárelhárítási anyagok és eszközök meghatározása:
 
 – az elhasznált kárelhárítási anyagokat és eszközöket a kárelhárítást követően azonnal pótolni kell.
 
-[^36]: Az 1. számú melléklet 3. pont a) alpont negyedik franciabekezdése a 351/2010. (XII. 30.) Korm. rendelet 181. § (1) bekezdése, a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^37]: Az 1. számú melléklet 3. pont a) alpont negyedik franciabekezdése a 351/2010. (XII. 30.) Korm. rendelet 181. § (1) bekezdése, a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja, a 23/2012. (II. 29.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.

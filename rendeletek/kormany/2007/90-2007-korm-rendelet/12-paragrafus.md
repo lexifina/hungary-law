@@ -8,4 +8,7 @@
 
 (3) Az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) a felügyelőségek által szolgáltatott adatok alapján országos nyilvántartást vezet.
 
+(4)[^14] A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 [^13]: A 12. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 12. § (4) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 10. §-a iktatta be.
