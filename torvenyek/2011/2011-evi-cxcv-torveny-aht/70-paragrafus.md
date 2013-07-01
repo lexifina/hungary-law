@@ -38,6 +38,8 @@ i) a szakmai gyakorlat időtartamát vagy a gyakorlat alóli felmentést igazol�
 
 j) a kötelező szakmai továbbképzésen történő részvétel idejét.
 
+(5a) Az (5) bekezdés szerinti nyilvántartás az (5) bekezdés b), és g)–j) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (6) Az (5) bekezdésben meghatározott adatok közül a belső ellenőr nyilvántartási száma, neve és választása alapján az (5) bekezdés c)–f) pontjában meghatározott adatainak egyike nyilvános, ezen adatokról bárki tájékoztatást kaphat. A nyilvántartásba vételt végző szervezet a nyilvántartásban szereplő belső ellenőr nyilvános adatait honlapján nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kaphasson.
 
 (7) Törölni kell a nyilvántartásból, aki a (4) bekezdésben, az (5) bekezdés szerinti nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesíti. A nyilvántartásba vétel, valamint a nyilvántartásból való törlés szabályait az államháztartásért felelős miniszter rendeletben állapítja meg. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.

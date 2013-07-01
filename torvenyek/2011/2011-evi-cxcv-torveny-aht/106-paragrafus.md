@@ -10,6 +10,8 @@ b) a fogyatékossági ellátásban részesülő személy neve, születési helye
 
 c) a lakáscélú támogatásokkal kapcsolatban a (3) bekezdésben foglalt adatok.
 
+(2a) A (2) bekezdés a) pontja szerinti családtámogatási ellátás jogcíme és összege adatkör, valamint a (2) bekezdés b) pontja szerinti a fogyatékossági ellátás jogcíme és összege adatkör tekintetében az egységes szociális nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A nyilvántartás közhitelesen tanúsítja továbbá a családtámogatási ellátásra, valamint a fogyatékossági támogatásra jogosult személyét.
+
 (3) A lakáscélú támogatást nyújtó hitelintézet a támogatott személy és – ha a támogatás megállapításának a támogatottnak más személlyel való együttköltözése a feltétele – az együttköltöző személy természetes személyazonosító adatait, adóazonosító jelét, valamint a támogatási szerződésben vállalt kötelezettségekre vonatkozó adatokat a támogatási szerződés keltétől, szerződésmódosítás keltétől, illetve a támogatási szerződés megszűnésétől számított harminc napon belül a kincstár számára átadja. A kincstár az átadott adatokat a lakáscélú támogatás szabályszerű igénybevételének és felhasználásának ellenőrzése céljából a támogatásra vonatkozó visszakövetelési jog vagy a támogatással megszerzett ingatlanon az állami igényt biztosító jelzálogjog, elidegenítési és terhelési tilalom fennállásáig jogosult kezelni.
 
 (4) A (2) bekezdés a)–c) pontjában meghatározott adatokat a kincstár a nyújtott támogatások visszakövetelésére vonatkozó igény elévüléséig kezeli.
