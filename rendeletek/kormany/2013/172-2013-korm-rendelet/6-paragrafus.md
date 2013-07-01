@@ -1,0 +1,1 @@
+## 5. § A Szervezett Bűnözés Elleni Koordinációs Központról szóló 305/2006. (XII. 23.) Korm. rendelet 13. § (2) bekezdés a) pontjában a „bűncselekmény a Büntető Törvénykönyvről szóló 1978. évi IV. törvény” szövegrész helyébe a „bűncselekménynek a Büntető Törvénykönyvről szóló 2012. évi C. törvény” szöveg lép.
