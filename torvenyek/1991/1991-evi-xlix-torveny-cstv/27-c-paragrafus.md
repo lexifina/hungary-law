@@ -28,7 +28,7 @@ c) nem tanúsíthat feladata ellátása körében, sem azon kívül olyan magata
 
 (3a) A felszámoló ellenőrzi, hogy a felszámolóbiztos nem esik-e kizáró okok alá, nem folytat-e az e törvényben foglalt tilalom alá eső tevékenységet.
 
-(4) A felszámolói névjegyzékben fel kell tüntetni:
+(4) A felszámolói névjegyzék közhiteles hatósági nyilvántartás. A névjegyzékben fel kell tüntetni:
 
 a) a felszámoló nevét, székhelyét, telephelyét, fióktelepét (működési terület),
 
@@ -40,9 +40,7 @@ d) a felszámoló minden közvetlen vagy közvetett részesedéssel rendelkező 
 
 e) annak a jogi személynek vagy jogi személyiség nélküli szervezetnek a nevét, székhelyét, nyilvántartási számát, amelyben a felszámoló gazdasági társaság közvetlen vagy közvetett részesedéssel rendelkezik,
 
-f) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők, ezenkívül a közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók nevét, lakcímét,
-
-g)
+f) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők, ezenkívül a közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók nevét, lakcímét.
 
 (5) A nyilvántartó szerv a felszámoló szervezet vezetőjére 10 000 forinttól 200 000 forintig terjedő bírságot szab ki, ha hamis vagy valótlan adatot, dokumentumot szolgáltatott, megszegi a (3) bekezdés szerinti tilalmat, nem teljesíti vagy késedelmesen teljesíti a (2) bekezdés f) pontja szerinti kötelezettségét, ismétlődő kötelezettségszegés esetén pedig törölheti a nyilvántartásból.
 
