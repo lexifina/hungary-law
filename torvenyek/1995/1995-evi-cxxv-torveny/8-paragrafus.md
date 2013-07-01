@@ -12,7 +12,7 @@ e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazs
 
 f) elvégzi a hatáskörébe tartozó, valamint a 68. § (4) bekezdésének f) pontjában meghatározott személyek nemzetbiztonsági ellenőrzését, illetve ellátja az objektumai műveleti védelmét,
 
-g) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
+g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 

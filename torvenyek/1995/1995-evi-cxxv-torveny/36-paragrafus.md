@@ -2,7 +2,7 @@
 
 a) az élet elleni vagy a testi épséget súlyosan veszélyeztető támadás, illetve az ezekkel történő közvetlen fenyegetés elhárítására;
 
-b) az alkotmányos rend erőszakos megváltoztatása (Btk. 139. §), a rombolás (Btk. 142. §), a kémkedés (Btk. 147. §), a népirtás (Btk. 155. §), a közveszélyokozás (Btk. 259. §), a terrorcselekmény (Btk. 261. §), a légijármű hatalomba kerítése (Btk. 262. §) bűncselekmények elkövetésének megakadályozására vagy megszakítására;
+b) a népirtás (Btk. 142. §), az alkotmányos rend erőszakos megváltoztatása (Btk. 254. §), a rombolás (Btk. 257. §), a kémkedés (Btk. 261. §), a terrorcselekmény (Btk. 314–316. §), a jármű hatalomba kerítése (Btk. 320. §) és a közveszély okozása (Btk. 322. §) bűncselekmények megakadályozására vagy megszakítására;
 
 c) a nemzetbiztonsági szolgálattal összefüggő „Szigorúan titkos!” minősítési szintű minősített adatnak személy elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
 
