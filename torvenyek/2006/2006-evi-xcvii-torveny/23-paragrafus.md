@@ -22,7 +22,7 @@ ab) eljárási költség viselésére,
 
 ac) költségmentességre,
 
-ad) elektronikus kapcsolattartásra
+ad)
 
 vonatkozó rendelkezései, továbbá
 
