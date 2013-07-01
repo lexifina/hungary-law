@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2012-05-20 | 1993-146-20-22.26 | 81/2012. (IV. 18.) Korm. rendelet |
 | 2013-01-01 | 1993-146-20-22.27 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2013-03-01 | 1993-146-20-22.28 | 417/2012. (XII. 29.) Korm. rendelet |
+| 2013-07-01 | 1993-146-20-22.29 | 97/2013. (III. 29.) Korm. rendelet |

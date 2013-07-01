@@ -54,6 +54,6 @@
 
 ## 10. A kérelmező aláírása
 
-3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^228]
+3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^229]
 
-[^228]: Az R. 3. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés b) pontjával megállapított szöveg.
+[^229]: Az R. 3. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés b) pontjával megállapított szöveg.

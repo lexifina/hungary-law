@@ -1,3 +1,3 @@
-40. §[^205]
+40. §[^206]
 
-[^205]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^206]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte.
