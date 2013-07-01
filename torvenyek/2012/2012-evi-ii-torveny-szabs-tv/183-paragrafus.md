@@ -8,6 +8,14 @@ b) lőfegyverdarabot vagy lőszerelemet engedély nélkül készít, megszerez, 
 
 szabálysértést követ el.
 
+(1a) Aki
+
+a) kézilőfegyverhez, vadászlőfegyverhez vagy sportlőfegyverhez tartozó, csekély mennyiségű lőszert engedély nélkül megszerez vagy tart,
+
+b) az engedéllyel tartott kézilőfegyveréhez, vadászlőfegyveréhez vagy sportlőfegyveréhez tartozó csekély mennyiségű lőszert engedéllyel nem rendelkezőnek átad,
+
+szabálysértést követ el.
+
 (2) Aki
 
 a) a légfegyver, gáz- és riasztófegyver, muzeális fegyver, színházi fegyver, illetve hatástalanított lőfegyver gyártására, kereskedelmére, megszerzésére, birtoklására, viselésére, tartására vagy használatára vonatkozó szabályokat megszegi,
@@ -15,5 +23,7 @@ a) a légfegyver, gáz- és riasztófegyver, muzeális fegyver, színházi fegyv
 b) a lőtér üzemeltetésére vonatkozó rendelkezéseket megszegi,
 
 szabálysértést követ el.
+
+(2a) E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
 
 (3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.

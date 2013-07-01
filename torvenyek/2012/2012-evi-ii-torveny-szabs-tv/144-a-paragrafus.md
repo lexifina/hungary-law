@@ -62,4 +62,6 @@ vehető nyilvántartásba.
 
 (6) Az (5) bekezdés a)–c) pontjában meghatározott foglalkoztatók kötelesek bejelenteni, az (5) bekezdés d)–e) pontjában meghatározott foglalkoztatók bejelenthetik az állami foglalkoztatási szerv részére a (2) bekezdés a)–i) pontjaiban foglalt adatokat.
 
+(6a) Az állami foglalkoztatási szerv a pártfogó felügyelő Bv. tvr. 64. § (1) bekezdése szerinti értesítése alapján, a munkahely kijelölésének megfelelően haladéktalanul módosítja a foglalkoztatói nyilvántartásban nyilvántartott adatokat.
+
 (7) A foglalkoztatói nyilvántartásból a 157. § (1) bekezdésében meghatározott szervek, az ott meghatározott célból jogosultak adatot átvenni.

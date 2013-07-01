@@ -2,7 +2,7 @@
 
 199. § (1) Aki
 
-a) a kábítószerek, vagy a pszichotrop anyagokkal kapcsolatos engedély-, illetve bejelentés-köteles tevékenységek végzésének szabályait, továbbá az ezen anyagokkal kapcsolatos adatszolgáltatási kötelezettségre vonatkozó szabályokat megszegi,
+a) a kábítószerekkel, a pszichotrop anyagokkal vagy az új pszichoaktív anyagokkal kapcsolatos engedély-, illetve bejelentésköteles tevékenységek végzésének szabályait, továbbá az ezen anyagokkal kapcsolatos adatszolgáltatási kötelezettségre vonatkozó szabályokat megszegi,
 
 b) kábítószer-prekurzornak minősülő vegyi anyagokkal (jegyzékben szereplő anyagok) kapcsolatos engedély-, illetve bejelentés-köteles tevékenységek végzésének szabályait megszegi,
 

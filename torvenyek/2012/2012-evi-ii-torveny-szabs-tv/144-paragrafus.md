@@ -8,6 +8,10 @@
 
 (4) A közérdekű munka végrehajtása érdekében az állami foglalkoztatási szerv elsősorban az elkövető lakóhelye vagy tartózkodási helye szerinti település területén működő, vagy olyan közérdekű munka végzésére alkalmas munkahelyet jelöl ki, amelynek a megközelítése – az elkövető lakóhelyétől vagy tartózkodási helyétől – tömegközlekedési eszközzel az egy órát nem haladja meg. A közérdekű munka végrehajtása során az állami foglalkoztatási szerv – az elkövető egészségi állapotának és munkára való alkalmasságának figyelembevételével, a munkáltató beleegyezésével – foglalkoztatót jelöl ki a közérdekű munka végrehajtásának helyéül.
 
+(4a) Az állami foglalkoztatási szerv a munkahely kijelölésekor figyelembe veszi, hogy a foglalkoztatót a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) alapján közérdekű munka végrehajtására szolgáló munkahelyként kijelölték-e.
+
+(4b) Ha az állami foglalkoztatási szervet a pártfogó felügyelő a Bv. tvr. 64. § (1) bekezdése alapján értesítette arról, hogy a 144/A. § (1) bekezdés szerinti nyilvántartásban is szereplő foglalkoztatót közérdekű munka végrehajtására szolgáló munkahelyként jelölte ki, és a 144/A. § (2) bekezdés c) pontja alapján a foglalkoztatónál több elkövető nem állítható munkába, a foglalkoztatót a (4) bekezdés alapján közérdekű munka végrehajtásának helyéül nem lehet kijelölni.
+
 (5) A kijelölt munkahely haladéktalanul értesíti az állami foglalkoztatási szervet, ha az elkövető nem kezdi meg a közérdekű munka végzését, vagy munkakötelezettségének nem tesz eleget.
 
 (6) A közérdekű munka végzésére szolgáló munkahely kijelölése során az állami foglalkoztatási szerv figyelembe veszi a településen rendelkezésre álló, közfoglalkoztatottakat foglalkoztató gazdálkodó szervezetek munkaerőigényét is.

@@ -4,7 +4,7 @@
 
 a) ötvenezer forintot meg nem haladó értékre lopást, sikkasztást, jogtalan elsajátítást, orgazdaságot,
 
-b) ötvenezer forintot meg nem haladó kárt okozva készpénz-helyettesítő fizetési eszközzel visszaélést, csalást, szándékos rongálást,
+b) ötvenezer forintot meg nem haladó kárt okozva csalást, szándékos rongálást,
 
 c) ötvenezer forintot meg nem haladó vagyoni hátrányt okozva hűtlen kezelést
 
