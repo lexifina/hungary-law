@@ -1,3 +1,3 @@
-## 3–5. §[^3]
+## 5. § A PM rendelet 61/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 3–5. § a 16. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+## „(1) A Jöt. 7. § 37. pontjában megjelölt denaturáláshoz legalább 1 tömegszázalék etil-tercier-butil-étert, illetve amennyiben a bioetanol a Jöt. 7. § 37/B. pontjában meghatározott E85 előállításához kerül felhasználásra, legalább 2 tömegszázalék izo-butilalkoholt kell denaturálószerként alkalmazni. A denaturálásról az adóraktár-engedélyesnek a 61. § (5) bekezdése szerint jegyzőkönyvet kell felvennie.”

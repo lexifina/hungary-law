@@ -1,3 +1,3 @@
-## 12. §[^5]
+## 12. § A PM rendelet 138. §-a a következő (12) bekezdéssel egészül ki:
 
-[^5]: A 12. § a 16. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+## „(12) A 2013. július 1-jét megelőzően denaturált alkoholtermékekre 2013. június 30-át követően is a denaturálásukkor hatályos denaturálási szabályokat kell alkalmazni.”
