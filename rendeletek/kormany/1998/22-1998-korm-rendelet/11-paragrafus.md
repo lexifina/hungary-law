@@ -1,6 +1,4 @@
-11. §[^18] (1) Az 5. § (1) és (4) bekezdésében előírt kötelezettség teljesítéséhez szükséges megalapozó felméréseket, adatgyűjtéseket 2011. január 1. napja és 2012. december 31. napja között, azt követően a tényleges minősítést és felülvizsgálatot legkésőbb 2013. június 30-ig kell elvégezni.
-
-(2) Ez a § 2013. július 1-jén hatályát veszti.
+11. §[^18]
 
 Melléklet a 22/1998. (II. 13.) Korm. rendelethez
 
@@ -46,4 +44,4 @@ eb) A gyomnövényzet a környezetre kifejezetten veszélyes módon dominál, az
 
 Előrehaladott ligetesedés, cserjésedés figyelhető meg. Gazdasági értékük nincs, sőt szanálásuk, rekonstrukciójuk ráfordítást igényel, természetvédelmi értékük változó, általában alacsony.
 
-[^18]: A 11. §-t a 376/2010. (XII. 31.) Korm. rendelet 3. §-a iktatta be, a (2) bekezdés alapján hatályát veszti 2013. július 1-jén.
+[^18]: A 11. §-t a 376/2010. (XII. 31.) Korm. rendelet 3. §-a iktatta be, hatályát vesztette a (2) bekezdés alapján.
