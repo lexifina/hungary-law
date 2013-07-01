@@ -1,3 +1,5 @@
 3. § (1) A távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § b) pontjában meghatározott díjfizető közül a lakossági díjfizető (a továbbiakban: lakossági díjfizető) és a Tszt. 3. § g) pont ga) alpontjában meghatározott lakossági felhasználó részére, a távhőszolgáltató által kibocsátott számlában a 2012. december 31-ét követő időszakra vonatkozóan meghatározott szolgáltatási egységre jutó fizetendő összeg nem haladhatja meg a 2012. november 1-jén alkalmazott díjtételek alapján, ugyanazon feltételekkel (fogyasztás, légtérfogat stb.) számított összeg 90%-át.
 
 (2) A távhőszolgáltató egyértelműen, írásban, a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével egyidejűleg köteles tájékoztatást nyújtani a lakossági díjfizető, valamint a lakossági felhasználó részére az (1) bekezdésben foglaltak teljesüléséről.
+
+(3) A távhőszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. január 1-je óta eltelt időszakban.
