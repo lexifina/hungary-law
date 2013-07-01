@@ -2,7 +2,7 @@
 
 ## 43. § A három hónapot meghaladó tartózkodásra jogosító vízumokmány érvénytelen, ha
 
-a)[^87] a vízum – érvényességi idejére, az engedélyezett tartózkodási napok és beutazások számára tekintettel – a Magyarországra történő beutazásra, illetve a Magyarország területén történő tartózkodásra nem használható fel;
+a)[^88] a vízum – érvényességi idejére, az engedélyezett tartózkodási napok és beutazások számára tekintettel – a Magyarországra történő beutazásra, illetve a Magyarország területén történő tartózkodásra nem használható fel;
 
 b) a három hónapot meghaladó tartózkodásra jogosító vízumot jogerősen visszavonták;
 
@@ -16,7 +16,7 @@ f) a jogosultja tartózkodási engedély okmányt, letelepedett státuszt igazol
 
 g) jogosultja meghalt.
 
-h)[^88] jogosultja magyar állampolgárságot szerzett.
+h)[^89] jogosultja magyar állampolgárságot szerzett.
 
-[^87]: A 43. § a) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) és (4) bekezdése szerint módosított szöveg.
-[^88]: A 43. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 36. §-a iktatta be.
+[^88]: A 43. § a) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) és (4) bekezdése szerint módosított szöveg.
+[^89]: A 43. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 36. §-a iktatta be.

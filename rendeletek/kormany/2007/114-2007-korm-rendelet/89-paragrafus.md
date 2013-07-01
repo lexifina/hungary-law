@@ -10,19 +10,19 @@ c) a Tv. 30. § (1) bekezdés d) pontjában meghatározott esetben a szülő mag
 
 d) a Tv. 30. § (1) bekezdés e) pontjában meghatározott esetben az emberkereskedelem áldozatává vált harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság,
 
-e)[^161] a Tv. 30. § (1) bekezdés f) pontjában meghatározott esetben a Rendőrség,
+e)[^163] a Tv. 30. § (1) bekezdés f) pontjában meghatározott esetben a Rendőrség,
 
 f) a Tv. 30. § (1) bekezdés g) pontjában meghatározott esetben az úti okmányt visszatartó, illetve visszavonó regionális igazgatóság,
 
-g)[^162] a Tv. 30. § (1) bekezdés j) pontjában meghatározott esetben a kijelölt tartózkodási hely szerint illetékes regionális igazgatóság vagy a Rendőrség,
+g)[^164] a Tv. 30. § (1) bekezdés j) pontjában meghatározott esetben a kijelölt tartózkodási hely szerint illetékes regionális igazgatóság vagy a Rendőrség,
 
-h)[^163] a Tv. 30. § (1) bekezdés k) pontjában meghatározott esetben a szálláshely szerint illetékes regionális igazgatóság
+h)[^165] a Tv. 30. § (1) bekezdés k) pontjában meghatározott esetben a szálláshely szerint illetékes regionális igazgatóság
 
 ## hatáskörébe tartozik.
 
-(2)[^164] Az ideiglenes tartózkodásra jogosító igazolás érvényét veszti, ha a harmadik országbeli állampolgár az ideiglenes tartózkodásra jogosító igazolás kiállítására alapul szolgáló eljárás eredményeként tartózkodási engedély átvételére jogosító vízumot, tartózkodási engedélyt vagy ideiglenes letelepedési engedélyt kap.
+(2)[^166] Az ideiglenes tartózkodásra jogosító igazolás érvényét veszti, ha a harmadik országbeli állampolgár az ideiglenes tartózkodásra jogosító igazolás kiállítására alapul szolgáló eljárás eredményeként tartózkodási engedély átvételére jogosító vízumot, tartózkodási engedélyt vagy ideiglenes letelepedési engedélyt kap.
 
-[^161]: A 89. § (1) bekezdésének e) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^162]: A 89. § (1) bekezdés g) pontja a 168/2011. (VIII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^163]: A 89. § (1) bekezdés h) pontját a 168/2011. (VIII. 24.) Korm. rendelet 12. §-a iktatta be.
-[^164]: A 89. § (2) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^163]: A 89. § (1) bekezdésének e) pontja a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^164]: A 89. § (1) bekezdés g) pontja a 168/2011. (VIII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^165]: A 89. § (1) bekezdés h) pontját a 168/2011. (VIII. 24.) Korm. rendelet 12. §-a iktatta be.
+[^166]: A 89. § (2) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.

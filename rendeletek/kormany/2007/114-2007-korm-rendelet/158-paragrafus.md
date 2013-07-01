@@ -2,7 +2,7 @@
 
 ## és hatósági intézkedések
 
-158. §[^302] (1) A harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását, a regionális igazgatóságnak vagy a Rendőrségnek jelentheti be. A bejelentő harmadik országbeli állampolgár részére – az állampolgárság valószínűsítése esetén – igazolást kell kiállítani a bejelentés tényéről.
+158. §[^309] (1) A harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását, a regionális igazgatóságnak vagy a Rendőrségnek jelentheti be. A bejelentő harmadik országbeli állampolgár részére – az állampolgárság valószínűsítése esetén – igazolást kell kiállítani a bejelentés tényéről.
 
 (2) Ha az elveszettnek, megsemmisültnek hitt okmányt a jogosultja megtalálja és részére új úti okmányt vagy tartózkodásra jogosító engedélyt még nem adtak ki, az ideiglenes tartózkodásra jogosító igazolást a kiállító hatóságnak le kell adnia.
 
@@ -16,4 +16,4 @@
 
 (7) Ha a Tv.-ben meghatározott eljárások során kiadott okmánynak a Hivatal általi körözése indokolt, annak a nyilvántartásba történő bejegyzéséről az okmányt kiállító regionális igazgatóság gondoskodik.
 
-[^302]: A 158. § a 15/2013. (I. 28.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
+[^309]: A 158. § a 15/2013. (I. 28.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
