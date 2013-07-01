@@ -8,10 +8,10 @@
 
 (4) A talált nyomok és anyagmaradványok pontos, számmal is azonosított helyét, jellegzetességeik leírását, a rögzítés, az eredetben való biztosítás, illetve megmintázás tényét a nyomozási cselekményről készült jegyzőkönyvbe kell foglalni. A talált nyomok és anyagmaradványok helyét a jegyzőkönyvbe foglaláskor alkalmazott számozással egyezően, egyértelműen magyarázott jelek segítségével a helyszínvázlatban is fel kell tüntetni. Ugyanezen számozást kell alkalmazni a jegyzőkönyvhöz csatolt fényképmellékletben is.
 
-(5)[^37] A szagmaradvány rögzítéséről az erre rendszeresített űrlapon jegyzőkönyvet kell felvenni.
+(5)[^38] A szagmaradvány rögzítéséről az erre rendszeresített űrlapon jegyzőkönyvet kell felvenni.
 
 (6) Ha utóbb kiderül, hogy a nyom vagy az anyagmaradvány rögzítése nem sikerült, erről a jegyzőkönyvben alkalmazott számozásra hivatkozással feljegyzést kell készíteni.
 
 (7) A rögzített, eredetben biztosított, illetve megmintázott nyomokat és anyagmaradványokat a bűnjelkezelésről szóló jogszabályokban foglaltak szerint kell kezelni.
 
-[^37]: A 35. § (5) bekezdése a 21/2006. (IX. 11.) IRM rendelet 33. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^38]: A 35. § (5) bekezdése a 21/2006. (IX. 11.) IRM rendelet 33. § (3) bekezdésének b) pontja szerint módosított szöveg.

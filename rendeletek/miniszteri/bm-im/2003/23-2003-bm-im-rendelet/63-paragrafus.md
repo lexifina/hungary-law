@@ -22,6 +22,6 @@ g) javaslatot az előzetes letartóztatás indítványozására a Be. 129. §-á
 
 h) mindazon körülményeket, amelyek az indítványhoz szükségesek, így különösen azt, hogy a gyanúsítottnak meghatalmazott védője van, vagy védelemről kirendelés útján gondoskodtak, a fogva tartás helyét, a védő értesítési helyét, illetőleg – magánindítványra üldözendő bűncselekmény esetén – a magánindítvány előterjesztésére utalást.
 
-(3)[^48] Ha a nyomozó szerv az előzetes letartóztatás rendőrségi fogdán történő végrehajtását tartja indokoltnak, az előzetes letartóztatás indítványozására irányuló előterjesztésnek a (2) bekezdésben foglaltakon túl tartalmaznia kell az erre tett javaslatot, az elhelyezés kért időtartamát, az ezen időtartam alatt elvégzendő nyomozási cselekmények felsorolását, és azoknak a körülményeknek a megjelölését, amelyek a rendőrségi fogdán történő elhelyezést a nyomozási cselekmények elvégzése érdekében indokolttá teszik.
+(3)[^49] Ha a nyomozó szerv az előzetes letartóztatás rendőrségi fogdán történő végrehajtását tartja indokoltnak, az előzetes letartóztatás indítványozására irányuló előterjesztésnek a (2) bekezdésben foglaltakon túl tartalmaznia kell az erre tett javaslatot, az elhelyezés kért időtartamát, az ezen időtartam alatt elvégzendő nyomozási cselekmények felsorolását, és azoknak a körülményeknek a megjelölését, amelyek a rendőrségi fogdán történő elhelyezést a nyomozási cselekmények elvégzése érdekében indokolttá teszik.
 
-[^48]: A 63. § (3) bekezdését a 21/2006. (IX. 11.) IRM rendelet 17. §-a iktatta be.
+[^49]: A 63. § (3) bekezdését a 21/2006. (IX. 11.) IRM rendelet 17. §-a iktatta be.

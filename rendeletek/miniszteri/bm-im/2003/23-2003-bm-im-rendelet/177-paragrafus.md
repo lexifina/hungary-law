@@ -1,6 +1,6 @@
 177. § (1) Nem magyar állampolgár gyanúsított ügyében a nyomozás elrendeléséről, felfüggesztéséről és megszüntetéséről, valamint a személyi szabadságát korlátozó kényszerintézkedésekről a nyomozó szerv 24 órán belül értesíti:
 
-a)[^95] a Bevándorlási és Állampolgársági Hivatalnak (a továbbiakban: BÁH) a nyomozó szerv székhelye szerint illetékes hatóságát,
+a)[^110] a Bevándorlási és Állampolgársági Hivatalnak (a továbbiakban: BÁH) a nyomozó szerv székhelye szerint illetékes hatóságát,
 
 b) más jogszabályban előírt szerveket.
 
@@ -30,4 +30,4 @@ e) a gyanúsított fogvatartása esetén a fogvatartás helyét.
 
 (3) Ha a nem magyar állampolgár több más állam állampolgára, az általa megjelölt külképviseletet kell értesíteni.
 
-[^95]: A 177. § (1) bekezdésének a) pontja a 8/2007. (III. 6.) IRM rendelet 4. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^110]: A 177. § (1) bekezdésének a) pontja a 8/2007. (III. 6.) IRM rendelet 4. § (2) bekezdésének b) pontja szerint módosított szöveg.

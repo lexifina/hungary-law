@@ -1,5 +1,5 @@
 ## A Be. 146. §-ához
 
-## (Intézkedés a külföldre utazási tilalom biztosítására)[^53]
+## (Intézkedés a külföldre utazási tilalom biztosítására)[^54]
 
-[^53]: A 74. §-t megelőző alcím a 21/2006. (IX. 11.) IRM rendelet 20. §-ával megállapított szöveg.
+[^54]: A 74. §-t megelőző alcím a 21/2006. (IX. 11.) IRM rendelet 20. §-ával megállapított szöveg.

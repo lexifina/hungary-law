@@ -6,13 +6,13 @@
 
 a) az ügy történeti tényállásához kapcsolódó államigazgatási eljárás;
 
-b)[^69] a Rendőrségről szóló 1994. évi XXXIV. törvény alapján végzett
+b)[^72] a Rendőrségről szóló 1994. évi XXXIV. törvény alapján végzett
 
 ba) igazoltatás, ruházat- és csomag átvizsgálás,
 
 bb) felvilágosítás kérés,
 
-bc)[^70]
+bc)[^73]
 
 bd) műszeres ellenőrzés,
 
@@ -24,12 +24,12 @@ bg) jármű átvizsgálás,
 
 bh) fedett nyomozó igénybevétele, titkos információgyűjtés,
 
-bi)[^71] egyéb – a felderítés érdekében foganatosított – rendőri intézkedés
+bi)[^74] egyéb – a felderítés érdekében foganatosított – rendőri intézkedés
 
 ## során keletkezett iratokat, biztosított tárgyakat.
 
 (2) A más nyomozó szerv vagy más szerv eljárása során keletkezett bizonyítási eszközök beszerzésére a Be. 71. §-ában szabályozott megkeresésre vonatkozó szabályokat kell értelemszerűen alkalmazni.
 
-[^69]: A 116. § (1) bekezdésének b) pontja a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 5. pontja szerint módosított szöveg.
-[^70]: A 116. § (1) bekezdése b) pontjának bc) alpontját a 11/2005. (III. 24.) BM–IM együttes rendelet 5. §-a hatályon kívül helyezte.
-[^71]: A 116. § (1) bekezdése b) pontjának bi) alpontja a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 5. pontja szerint módosított szöveg.
+[^72]: A 116. § (1) bekezdésének b) pontja a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 5. pontja szerint módosított szöveg.
+[^73]: A 116. § (1) bekezdése b) pontjának bc) alpontját a 11/2005. (III. 24.) BM–IM együttes rendelet 5. §-a hatályon kívül helyezte.
+[^74]: A 116. § (1) bekezdése b) pontjának bi) alpontja a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 5. pontja szerint módosított szöveg.

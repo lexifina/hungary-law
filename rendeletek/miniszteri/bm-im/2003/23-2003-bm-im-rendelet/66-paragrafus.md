@@ -1,4 +1,4 @@
-## 65. §[^50] Az előzetes letartóztatás rendőrségi fogdában történő végrehajtása esetén a fogda parancsnoka részére a fogva tartásért felelős ad rendelvényt, amelyben – az ügyész, illetve a nyomozó szerv vezetőjének előírásai szerint – rendelkezni kell a gyanúsítottnak az ugyanabban az ügyben fogva tartottaktól történő elkülönítéséről, a levelezési, a telefonon keresztül történő kapcsolattartási és látogatófogadási, valamint a csomagküldeményhez való jogának esetleges korlátozásáról vagy tiltásáról. A rendelvényen fel kell tüntetni a fogva tartott védőjének, illetve törvényes képviselőjének nevét, címét és telefonszámát is.
+## 65. §[^51] Az előzetes letartóztatás rendőrségi fogdában történő végrehajtása esetén a fogda parancsnoka részére a fogva tartásért felelős ad rendelvényt, amelyben – az ügyész, illetve a nyomozó szerv vezetőjének előírásai szerint – rendelkezni kell a gyanúsítottnak az ugyanabban az ügyben fogva tartottaktól történő elkülönítéséről, a levelezési, a telefonon keresztül történő kapcsolattartási és látogatófogadási, valamint a csomagküldeményhez való jogának esetleges korlátozásáról vagy tiltásáról. A rendelvényen fel kell tüntetni a fogva tartott védőjének, illetve törvényes képviselőjének nevét, címét és telefonszámát is.
 
 66. § (1) Ha az előzetes letartóztatás meghosszabbítása indokolt, az erre vonatkozó előterjesztést úgy kell megküldeni, hogy az az előzetes letartóztatás lejáratának időpontja előtt legalább tíz nappal megérkezzen az ügyészhez.
 
@@ -10,4 +10,4 @@
 
 (5) A nyomozó szerv vezetője minden törvényes intézkedést köteles megtenni azért, hogy az előzetes letartóztatás az elkerülhetetlenül szükséges időre korlátozódjon, illetve hogy a vádemelés feltételeinek megállapításához szükséges eljárási cselekményeket folyamatosan, késedelem nélkül végezzék el.
 
-[^50]: A 65. § a 21/2006. (IX. 11.) IRM rendelet 18. §-ával megállapított szöveg.
+[^51]: A 65. § a 21/2006. (IX. 11.) IRM rendelet 18. §-ával megállapított szöveg.
