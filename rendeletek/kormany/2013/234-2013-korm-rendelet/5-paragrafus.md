@@ -1,0 +1,1 @@
+## „h) az ügyletből – adósságmegújító hitel esetén mind az eredeti, mind az azt kiváltó ügyletből – eredő, szerződés szerint az önkormányzatot terhelő fizetési kötelezettségeket esedékesség és összeg szerint tartalmazó dokumentumokat.”
