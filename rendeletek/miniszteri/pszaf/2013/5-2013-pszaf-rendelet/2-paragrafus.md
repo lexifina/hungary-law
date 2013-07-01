@@ -1,0 +1,3 @@
+2. § (1) E rendelet szabályait kell alkalmazni azon, a Felügyelet hatáskörébe tartozó ügyek esetében – kivéve a bejelentési kötelezettséget –, amelyek vonatkozásában törvény a Felügyelet és a befektetési alapkezelő között az általa kezelt befektetési alap tekintetében kizárólagos elektronikus kapcsolattartást ír elő.
+
+(2) Az elektronikus kapcsolattartás kiterjed a kérelem benyújtásától a Felügyelet által az ügy érdemében hozott vagy az ügyet egyéb módon lezáró hatósági döntésnek az ügyféllel történő közléséig terjedő eljárási cselekményekre és jognyilatkozatokra, a hatósági döntés kijavításával, kiegészítésével, módosításával vagy visszavonásával, valamint az újrafelvétellel kapcsolatos eljárásokra.
