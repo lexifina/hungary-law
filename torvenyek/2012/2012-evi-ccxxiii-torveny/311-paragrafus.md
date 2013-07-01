@@ -1,0 +1,1 @@
+311. § A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 163. § (2) bekezdés c) pontjában a „nemi erkölcs elleni bűncselekmény” szövegrész helyébe a „nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény” szöveg lép.

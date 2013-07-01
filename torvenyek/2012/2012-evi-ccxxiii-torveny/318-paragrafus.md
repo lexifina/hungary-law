@@ -1,3 +1,11 @@
+## „d) kiadás, amely
+
+## da) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban,
+
+## db) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatározott vesztegetés, vesztegetés elfogadása, hivatali vesztegetés, hivatali vesztegetés elfogadása, vesztegetés bírósági vagy hatósági eljárásban, vesztegetés elfogadása bírósági vagy hatósági eljárásban vagy befolyással üzérkedés
+
+## bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel, és az elkövetés tényét jogerős bírósági ítélet megállapította,”
+
 ## 12. A Büntető Törvénykönyvről szóló 2012. évi C. törvény eltérő tartalommal hatálybalépő rendelkezései
 
 318. § (1) A Btk. 6. § (2) bekezdése a következő szöveggel lép hatályba:

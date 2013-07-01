@@ -1,0 +1,5 @@
+## „VII. FEJEZET
+
+## A FOGLALKOZÁSTÓL ELTILTÁS, A JÁRMŰVEZETÉSTŐL ELTILTÁS, A KIUTASÍTÁS, A KÖZÜGYEKTőL ELTILTÁS, A KITILTÁS ÉS A SPORTRENDEZVÉNYEK LÁTOGATÁSÁTÓL VALÓ ELTILTÁS VÉGREHAJTÁSA”
+
+73. § A Bv. tvr. 72. § (1) bekezdése helyébe a következő rendelkezés lép:

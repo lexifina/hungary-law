@@ -1,0 +1,1 @@
+10. § A Be. 64/A. § alkalmazásában a büntetőeljárást soron kívül kell lefolytatni az 1978. évi IV. törvény szerinti kiskorú sértett sérelmére elkövetett, az élet, a testi épség és az egészség elleni bűncselekmény (1978. évi IV. törvény XII. Fejezet I. Cím) vagy a házasság, a család, az ifjúság és a nemi erkölcs elleni bűncselekmény (1978. évi IV. törvény XIV. Fejezet) miatt is.

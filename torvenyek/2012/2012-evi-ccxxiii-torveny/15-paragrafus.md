@@ -1,0 +1,1 @@
+15. § A Be. 190. § (2) bekezdésében meghatározott esetben a nyomozás megszüntetésére a nyomozó hatóság akkor is jogosult, ha a büntethetőséget az 1978. évi IV. törvény 22. § a) pontjában meghatározott gyermekkor zárja ki.
