@@ -24,4 +24,6 @@ j) humuszos termőréteg: a talaj felső, biológiailag aktív, szerves anyagot 
 
 k) ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
 
-l) talajvédelmi terv: a talajvédelmi hatósági eljárásokat megalapozó szakanyag.
+l) talajvédelmi terv: a talajvédelmi hatósági eljárásokat megalapozó szakanyag;
+
+m) kisajátítás alapjául szolgáló közérdekű célból megvalósuló beruházás területével szomszédos terület, valamint e területtel szomszédos terület: olyan termőföldnek minősülő földrészlet, amely egy kisajátítás alapjául szolgáló közérdekű célból megvalósuló beruházáshoz közvetlenül kapcsolódik, vagy attól önálló helyrajzi számon nyilvántartott út (árok, csatorna) választja el.

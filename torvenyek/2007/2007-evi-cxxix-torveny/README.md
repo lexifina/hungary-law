@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2012-04-14 | 2012. évi XVIII. törvény | 2007-129-00-00.11 |
 | 2012-05-27 | 2012. évi XLVI. törvény | 2007-129-00-00.12 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 2007-129-00-00.13 |
+| 2013-07-01 | 2012. évi CLXXXIV. törvény | 2007-129-00-00.14 |
