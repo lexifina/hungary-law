@@ -1,4 +1,4 @@
-7. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^66]
+7. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^67]
 
 ## A használatbavételi engedély iránti kérelem adattartalma
 
@@ -30,4 +30,4 @@ d) kivitelezés befejezési időpontja.
 
 9. Az építési engedély száma, kelte.
 
-[^66]: A 7. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § f) pontjával megállapított szöveg.
+[^67]: A 7. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § f) pontjával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 41. §[^57] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^58] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+## 41. §[^58] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^59] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-## 42. §[^59] Ez a rendelet
+## 42. §[^60] Ez a rendelet
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének,
 
@@ -10,6 +10,6 @@ c) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a ny
 
 való megfelelést szolgálja.
 
-[^57]: A 41. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.
-[^58]: A hatálybalépés napja: 2011. szeptember 15.
-[^59]: A 42. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.
+[^58]: A 41. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.
+[^59]: A hatálybalépés napja: 2011. szeptember 15.
+[^60]: A 42. §-t a 82/2011. (V. 18.) Korm. rendelet 44. §-a iktatta be.

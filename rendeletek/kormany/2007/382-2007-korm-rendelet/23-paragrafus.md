@@ -20,15 +20,16 @@ b) idegen tulajdonban lévő ingatlanon történő építési tevékenység vég
 
 ba) az ingatlannal rendelkezni jogosult(ak) hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel, illetőleg
 
-bb) a kisajátítási eljárás útján megszerzett ingatlan birtokba adását vagy a kisajátítási határozat azonnali végrehajtását elrendelő határozattal;
+bb)[^32] a kisajátítási eljárás útján megszerzett ingatlan birtokba adását vagy a kisajátítási határozat azonnali végrehajtását elrendelő határozattal vagy a kisajátításról szóló határozattal;
 
 c) közös tulajdonban álló ingatlanon történő építési tevékenység végzése esetében – az a) pontban meghatározottakon túlmenően – a tulajdonostárs(ak) hozzájáruló nyilatkozatával vagy az ezt pótló bírósági ítélettel;
 
 d) társasházi tulajdon esetében az erről szóló külön jogszabályban meghatározottak szerint.
 
-(3)[^32] Ha a kérelmező a kérelemhez az érintett telekre vonatkozó tulajdonjogát feltüntető ingatlan-nyilvántartási tulajdoni lap három hónapnál nem régebbi hiteles másolatát nem csatolja, a Hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
+(3)[^33] Ha a kérelmező a kérelemhez az érintett telekre vonatkozó tulajdonjogát feltüntető ingatlan-nyilvántartási tulajdoni lap három hónapnál nem régebbi hiteles másolatát nem csatolja, a Hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
 
 [^29]: A 22. § a 182/2009. (IX. 10.) Korm. rendelet 607–608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^30]: A 23. § (1) bekezdése a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének c) pontja, a 245/2012. (VIII. 31.) Korm. rendelet 12. § a) pont aa) alpontja szerint módosított szöveg.
 [^31]: A 23. § (2) bekezdésének bevezető szövegrésze a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 607. §-a, a 245/2012. (VIII. 31.) Korm. rendelet 12. § a) pont ab) alpontja szerint módosított szöveg.
-[^32]: A 23. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 606. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 23. § (2) bekezdés b) pont bb) alpontja a 154/2013. (V. 24.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^33]: A 23. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 606. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

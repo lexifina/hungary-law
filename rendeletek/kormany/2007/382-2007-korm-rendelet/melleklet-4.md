@@ -1,4 +1,4 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^63]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^64]
 
 1. A villamosenergia-ipari építésügyi engedélyezési eljárásokban kijelölt szakhatóságok
 
@@ -28,7 +28,7 @@
 
 | 6. | Minden eljárásban. | A helyi építésügyi követelményeknek (HÉSZ) való megfelelés és a helyi településrendezési tervekkel való összhang megállapítása kérdésében, valamint annak elbírálása kérdésében, hogy az építmény vagy tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, a fővárosban a főjegyző | fővárosi és megyei kormányhivatal |
 
-| 7. | A Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett adatbázisban szereplő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás | Annak elbírálása kérdésében, hogy az építmény vagy tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | régészeti lelőhelyen vagy régészeti védőövezet területén lévő építmény engedélyezésére irányuló eljárás esetén a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala, műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás esetén az illetékes fővárosi vagy a megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
+| 7. | A Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság által vezetett adatbázisban szereplő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás | Annak elbírálása kérdésében, hogy az építmény vagy tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | régészeti lelőhelyen vagy régészeti védőövezet területén lévő építmény engedélyezésére irányuló eljárás esetén a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala, műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás esetén az illetékes fővárosi vagy a megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 8. | Minden eljárásban a nyomvonalas létesítmény, valamint szélerőmű engedélyezése kivételével. | Létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása. | első fokon eljáró tűzvédelmi szakhatóság | másodfokon eljáró tűzvédelmi szakhatóság |
 
@@ -68,4 +68,4 @@
 
 – kéményseprő-ipari szolgáltató szerv.
 
-[^63]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a, az 51/2013. (II. 25.) Korm. rendelet 16. §-a, a 86/2013. (III. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^64]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a, az 51/2013. (II. 25.) Korm. rendelet 16. §-a, a 86/2013. (III. 21.) Korm. rendelet 4. §-a, a 107/2013. (IV. 5.) Korm. rendelet 7. §-a szerint módosított szöveg.
