@@ -1,0 +1,1 @@
+210. § Mentesül a kártérítési felelősség alól az állomány tagja, ha a kárt a műveleti területen történt szolgálatteljesítés során adott műveleti körülmények okozták, vagy a kár – mérlegelést lehetővé nem tevő – műveleti szükség következménye.

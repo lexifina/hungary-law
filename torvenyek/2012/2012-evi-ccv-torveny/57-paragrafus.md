@@ -1,0 +1,3 @@
+57. § (1) Ha az állomány 42. § (2) bekezdés b)–f) pontja alapján vezényelt tagjának viselt rendfokozata egy rendfokozati szinttel eltér a vezénylés idejére tervezett beosztásban elérhető, jogszabályban meghatározott rendfokozattól, az állomány tagja a vezénylés időtartamára magasabb rendfokozatba előléptethető, kinevezhető vagy részére eggyel alacsonyabb rendfokozat állapítható meg.
+
+(2) A vezénylés megszűnését, megszüntetését követően a 46. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy megfelelő szolgálati beosztásnak a viselt rendfokozatnak megfelelő beosztás minősül.

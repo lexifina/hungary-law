@@ -1,0 +1,1 @@
+278. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 80. § j) pontjában, 96. § (3) bekezdésében és a 97. § (1) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.

@@ -4,4 +4,8 @@
 
 ## 15. Közös rendelkezések
 
-26. §
+26. § (1) A szociális és gazdasági érdekek védelme, továbbá a szolgálati rend és fegyelem fenntartása érdekében e törvény szabályozza az érdekképviseleti szervezetek, ezen belül különösen a szakszervezet és a Honvédség kapcsolatrendszerét.
+
+(2) Az állomány tagja szociális és gazdasági érdekei előmozdítása és védelme érdekében másokkal együtt érdekképviseleti szervezetet alakíthat, az általa választott érdekképviseleti szervezetbe, annak szabályaitól függően beléphet, vagy az érdekképviseleti szervezetektől távol maradhat.
+
+(3) Az érdekképviseleti szervezetek e törvény keretei között szabadon működhetnek és gyakorolhatják jogosítványaikat, szövetségeket létesíthetnek, ilyenekhez csatlakozhatnak, ideértve a nemzetközi szövetségeket is. Az érdekképviseleti szervezetek sztrájkot nem szervezhetnek, tevékenységükkel nem veszélyeztethetik a Honvédség iránti közbizalom fenntartását, valamint nem akadályozhatják meg a Honvédség jogszerű és rendeltetésszerű működését, a szolgálati feladatok ellátását.

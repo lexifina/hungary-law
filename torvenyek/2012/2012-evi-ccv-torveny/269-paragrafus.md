@@ -1,0 +1,1 @@
+269. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 23. pontjában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.

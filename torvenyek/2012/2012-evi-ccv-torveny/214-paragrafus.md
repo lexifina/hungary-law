@@ -1,0 +1,5 @@
+214. § (1) Az önkéntes tartalékos katona szerződésében legalább 3, de legfeljebb 6 hónapig terjedő próbaidőt kell kikötni. Nem kell próbaidőt kikötni, ha az önkéntes tartalékos szolgálati viszony létesítésére a hivatásos vagy a szerződéses szolgálati viszony megszűnésével egyidejűleg kerül sor.
+
+(2) Az önkéntes tartalékos katona honvéd esküt tesz.
+
+(3) Az önkéntes tartalékos katona a rendelkezésre állás időszakában is köteles bejelenteni a munkáltatói jogkör gyakorlójának az országgyűlési képviselői, az európai parlamenti képviselői, a főpolgármesteri, a polgármesteri, a helyi önkormányzati képviselői és a nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, és annak elmaradását. A jelöltként történő nyilvántartásba vételtől tényleges szolgálatteljesítésre nem hívható be, és a tisztségbe történt megválasztásakor az önkéntes tartalékos szolgálati viszonya e törvény erejénél fogva megszűnik.

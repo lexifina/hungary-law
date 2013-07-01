@@ -1,0 +1,5 @@
+181. § (1) Ha a szolgálati panasz elbírálásához olyan adat szükséges, amely nem áll a Honvédség rendelkezésére, akkor a szolgálati panasz elbírálására jogosult munkáltatói jogkört gyakorló 15 napos határidő kitűzésével hiánypótlásra szólítja fel az állomány tagját. A határidő indokolt esetben, egy alkalommal, 15 nappal meghosszabbítható. A hiánypótlás időtartama az elintézési határidőbe nem számít bele. A szolgálati panaszt el kell utasítani, ha az állomány tagja annak meghosszabbítását nem kérte, és a hiánypótlásra nyitva álló határidő eredménytelenül telt el.
+
+(2) Ha e törvény eltérően nem rendelkezik, a szolgálati panasz jogerős elbírálásáig a megtámadott jognyilatkozat nem hajtható végre.
+
+(3) A szolgálati panasz jogának gyakorlása nem korlátozható, az állomány tagját a szolgálati panasz megalapozatlansága miatt hátrány nem érheti, kivéve, ha azzal szándékos fegyelemsértést, szabálysértést vagy bűncselekményt valósít meg. A szolgálati panaszra vonatkozó szabályok nem érintik a más jogszabályban meghatározott panaszjog gyakorlását.

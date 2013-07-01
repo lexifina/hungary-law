@@ -1,1 +1,1 @@
-276–278. §
+276. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 14. § (4) bekezdésében az „és a Hjt. 225. §-ában meghatározott központi személyügyi nyilvántartásokat kezelő szerveknek” szövegrész helyébe a „meghatározott, valamint a Magyar Honvédség központi személyügyi nyilvántartását kezelő szerv részére” szöveg lép.

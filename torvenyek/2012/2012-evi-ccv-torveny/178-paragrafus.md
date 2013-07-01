@@ -1,0 +1,1 @@
+178. § A hadkötelezettség alapján teljesített szolgálattal összefüggő balesetekkel, a hadkötelezettség alapján teljesített szolgálattal összefüggésben kialakult, vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálása során a 13. §-t, a 172–177.§-t és a 182–186. §-t megfelelően alkalmazni kell.

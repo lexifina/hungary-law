@@ -1,3 +1,7 @@
 ## 19. A szolgálati beosztás betöltéséhez kapcsolódó feltételek
 
-33–34. §
+33. § (1) A tiszti rendfokozattal rendszeresített beosztás betöltéséhez legalább főiskolai vagy felsőfokú alapképzésben szerzett alapfokozatú végzettség, az altiszti rendfokozattal rendszeresített beosztás betöltéséhez legalább érettségi bizonyítvány, a legénységi beosztásokhoz pedig legalább alapfokú iskolai végzettség szükséges. Miniszteri rendelet határozza meg a szolgálati beosztásokhoz kapcsolódó iskolai végzettséget, szakképzettséget, szakképesítést, továbbá a nyelvi és más munkaköri követelményeket.
+
+(2) Az állomány tagjának a katonai szolgálatra való 31. § (1) bekezdése szerinti alkalmasságon túl meg kell felelnie a szolgálati beosztáshoz kapcsolódó egészségi, pszichikai és fizikai alkalmassági feltételeknek. Miniszteri rendelet határozza meg a szolgálati beosztásnak és életkornak megfelelő egészségi, pszichikai és fizikai alkalmassági követelményeket. Az egészségi, a pszichikai és a fizikai alkalmassági követelményeket az érintettek tudomására kell hozni.
+
+(3) A szolgálati beosztás betöltésének további feltétele az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben előírt vagyonnyilatkozat-tételi kötelezettség esedékességkori teljesítése, a jogszabályban meghatározott fontos és bizalmas munkakörben pedig az állami élet és a nemzetgazdaság jogszerű működéséhez indokolt, valamint – amennyiben szükséges – a nemzetközi kötelezettségvállalásokból fakadó biztonsági feltételeknek való megfelelés (a továbbiakban együtt: nemzetbiztonsági alkalmasság).
