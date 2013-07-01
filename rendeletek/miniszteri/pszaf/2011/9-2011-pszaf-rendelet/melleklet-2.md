@@ -1,4 +1,170 @@
-## 20110G20000009_2
+| ÖSSZEFOGLALÓ TÁBLÁZAT |
+
+| Táblakód | Megnevezés | Adatszolgáltató | Gyakoriság |
+
+| A/ Egyedi táblák |
+
+| 30B | Pénzfedezettségi jelentés (a deviza egységében) | BV, BVF | N |
+
+| 30C | Értékpapír fedezettség részletezése (darab) | BV, BVF, HB, HBF | N |
+
+| 30DA | Saját számlás értékpapír-állományok a hónap végén | BV, BVF HB, HBF | H, NÉ H |
+
+| 30DB | Saját számlás pozíciók piaci értéke a hónap végén | BV, BVF HBF | H, NÉ H |
+
+| 30K | Tőzsdén kívüli azonnali értékpapírügyletek adatai | BV, BVF, HB, HBF | HE |
+
+| 31A | Felügyeleti mérleg - Eszközök | BV BVF | H, NÉ, É H, NÉ |
+
+| 31B | Felügyeleti mérleg - Források | BV BVF | H, NÉ, É H, NÉ |
+
+| 31C | Tájékoztató adatok (1) | BV | H, NÉ |
+
+| 31D1 | Tájékoztató adatok (2) | BV, BVF HB, HBF | H, NÉ H |
+
+| 31D2 | Idegen tulajdonú értékpapírok állománya piaci értéken | BV, BVF HB, HBF | H, NÉ H |
+
+| 31D3 | Tájékoztató adatok (4) | BV, BVF, HB, HBF | Z |
+
+| 32A | Eredménykimutatás | BV BVF | H, NÉ, É H, NÉ |
+
+| 32B | Eredményadatok részletezése | BV BVF | H, NÉ, É H, NÉ |
+
+| 33HSZLA | Számlavezetők | HB | NÉ |
+
+| 33SZLA | Számlavezetők | BV | NÉ |
+
+| 33LEZ | A negyedév során lezárt pozíciók adatai | BV, HB | NÉ |
+
+| 33NYIPO | Nyitott pozíciók adatai a negyedév végén | BV, HB | NÉ |
+
+| 33KP | Az ügyfelek kockázati profiljának kategóriái | BV, HB | NÉ |
+
+| 34A | Értékpapír kölcsönzés | BV | H, NÉ |
+
+| 34B | Értékpapír repó | BV | H, NÉ |
+
+| 35A | Havi forgalmazási jelentés - szabályozott piaci kereskedési adatai | BV, BVF HB, HBF | H, NÉ H |
+
+| 35B | Havi forgalmazási adatok - szabályozott piacon kívüli kereskedési adatai | BV, BVF HB, HBF | H, NÉ H |
+
+| 35C | Havi kereskedési adatok partnerek, illetve megbízók szerint | BV, BVF HB, HBF | H, NÉ H |
+
+| 37A | Portfólió elemzés - minősítés | BV, BVC | NÉ |
+
+| 37B1 | Értékvesztés és értékvesztés visszaírása | BV | NÉ |
+
+| 37B2 | Céltartalék változása | BV | NÉ |
+
+| 37C | Pénzmosás megelőzésével és terrorizmus finanszírozásával kapcsolatos adatok | BV, BVF, AT | NÉ |
+
+| 37FA | Fogyasztói panaszügyekre vonatkozó adatok I. | BV, BVF, AT | NÉ |
+
+| 37FB | Fogyasztói panaszügyekre vonatkozó adatok II. | BV, BVF, AT | NÉ |
+
+| 38I1 | Teljesített jegyzési garanciák | BV, HB | Z |
+
+| 38I2 | Hozamra és tőkemegóvásra tett garancia teljesítése | BV, HB | Z |
+
+| 38J4 | Pénzügyi instrumentum számviteli átsorolása | BV | Z |
+
+| 39AC | Tőzsdei megbízásra végrehajtott áruügyletek fedezettsége | BV, BVF, AT HB, HBF | H, NÉ H |
+
+| 39AD | Tőzsdei saját számlás áruügyletek | BV, BVF, AT HB, HBF | H, NÉ H |
+
+| 39AE | Ügyfél- és saját eszközök hely szerinti kimutatása | AT | H, NÉ, PEE |
+
+| 39AF | Árutőzsdei szolgáltatók havi forgalma | AT | H, NÉ |
+
+| 39KC | Elszámolóház - Ügyfél- és saját tulajdonú értékpapír-állomány | EL | H |
+
+| KELERER | KELER értékpapír számla | EL | N |
+
+| KELERPE | KELER pénzszámla egyenleg (a deviza egységében) | EL | N |
+
+| KELERA2 | KELER Bruttó kereskedési állomány | EL | N |
+
+| B/ Konszolidált táblák |
+
+| 31KA | Összevont felügyeleti mérleg - Eszközök | BVC | NÉ |
+
+| 31KB | Összevont felügyeleti mérleg - Források | BVC | NÉ |
+
+| 31KC | Összevonás jellemzői | BVC | NÉ |
+
+| 31KD | Összevonásba nem került szoros kapcsolatok jellemzői | BVC | NÉ |
+
+| 32KA | Összevont eredménykimutatás | BVC | NÉ |
+
+| C/ MiFID TREM tábla |
+
+| MiFID | MiFID tranzakciós jelentés | BV, BVF, HB, HBF, AK, AT | Z |
+
+| D/ Felügyeleti díjra vonatkozó táblák |
+
+| BVAD | Befektetési vállalkozás felügyeleti alapdíj számítása | BV | É |
+
+| BVVDN | Befektetési vállalkozás felügyeleti változó díj számítása | BV | NÉ |
+
+| BVFAD | Más EGT-állambeli befektetési vállalkozás fióktelepe felügyeleti alapdíj számítása | BVF | É |
+
+| BVFVDN | Más EGT-állambeli befektetési vállalkozás fióktelepe felügyeleti változó díj számítása | BVF | NÉ |
+
+| ASZAD | Árutőzsdei szolgáltató felügyeleti alapdíj számítása | AT | É |
+
+| E/ Az éves jelentéssel egyidejűleg elektronikusan megküldendő szöveges állományok |
+
+| Rövid név | Megnevezés | Adatszolgáltató | Gyakoriság |
+
+| merleg | Éves beszámoló - mérleg | BV, BVF | É |
+
+| erkim | Éves beszámoló - eredménykimutatás | BV, BVF | É |
+
+| cashflow | Éves beszámoló - cash-flow | BV, BVF | É |
+
+| kiegmell | Éves beszámoló - kiegészítő melléklet | BV, BVF | É |
+
+| konyvzar | Könyvvizsgálói záradék vagy jelentés | BV, BVF | É |
+
+| kozgyhat | Közgyűlési határozat vagy jegyzőkönyv | BV, BVF | É |
+
+| erfeloszt | Adózott eredmény felhasználására vonatkozó határozat | BV, BVF | É |
+
+| uzljel | Üzleti jelentés | BV, BVF | É |
+
+| Az összefoglaló táblában előforduló rövidítések |  |
+
+| Adat- | Befektetési vállalkozás | BV |  |
+
+| szolgáltató | Befektetési vállalkozás által konszolidált csoport | BVC |  |
+
+|  | Külföldi befektetési vállalkozás fióktelepe | BVF |  |
+
+|  | Befektetési szolgáltatási tevékenység végzésére engedéllyel rendelkező hitelintézet | HB |  |
+
+|  | Külföldi hitelintézet befektetési szolgáltatási tevékenység végzésére engedéllyel rendelkező fióktelepe | HBF |  |
+
+|  | Befektetési alapkezelő | AK |  |
+
+|  | Árutőzsdei szolgáltató | AT |  |
+
+|  | Elszámolóház | EL |  |
+
+| Gyakoriság | Napi | N |  |
+
+|  | Heti | HE |  |
+
+|  | Havi | H |  |
+
+|  | Negyedéves | NÉ |  |
+
+|  | Éves | É |  |
+
+|  | PSZÁF egyedi elrendelése szerint (pl. előkészített jelentés) | PEE |  |
+
+|  | Esetenként küldendő jelentés | Z |  |
+
+## 20110G20000009_3
 
 2. melléklet a 9/2011. (VI. 17.) PSZÁF rendelethez[^9]
 
@@ -254,11 +420,9 @@ Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, va
 
 | Negyedéves jelentés | 30DA, 30DB, 31A, 31B, 31C, 31D1, 31D2, 32A, 32B, 33SZLA, 33LEZ, 33NYIPO, 33KP, 34A, 34B, 35A, 35B, 35C, 37A, 37B1, 37B2, 37C, 37FA, 37FB, 39AC, 39AD, BVVDN |
 
-| Éves auditált jelentés | 31A, 31B, 32A, 32B |
+| Eves auditált jelentés | 31A, 31B, 32A, 32B |
 
 | Eseti jelentés | MIFID, 31D3, 38I1, 38I2, 38J4 |
-
-| Törzsadatok | KTATE1, KTATE2, KTATE3, KTATE4, KTATE5 |
 
 | Felügyeleti alapdíj | BVAD |
 
@@ -272,13 +436,11 @@ Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, va
 
 | Heti jelentés | 30K |
 
-| Havi jelentés | 30DA, 30DB, 31A, 31B, 31D1, 31D2, 32A,32B, 35A, 35B, 35C, 39AC, 39AD |
+| Havi jelentés | 30DA, 30DB, 31A, 31B, 31D1, 31D2, 32A, 32B, 35A, 35B, 35C, 39AC, 39AD |
 
 | Negyedéves jelentés | 30DA, 30DB, 31A, 31B, 31D1, 31D2, 32A, 32B, 35A, 35B, 35C, 37C, 37FA, 37FB, 39AC, 39AD, BVFVDN |
 
 | Eseti jelentés | MIFID, 31D3 |
-
-| Törzsadatok | KTAFTE1, KTAFTE2, KTAFTE3 |
 
 | Felügyeleti alapdíj | BVFAD |
 
@@ -328,7 +490,7 @@ Befektetési szolgáltatási tevékenység végzésére engedéllyel rendelkező
 
 | Havi jelentés | 39KC |
 
-6.9. A Rendelet 2.§ (2) bekezdése alapján nem jelentendő táblák
+6.9. A Rendelet 2. § (2) bekezdése alapján nem jelentendő táblák
 
 | Napi jelentés | 30B, 30C |
 
@@ -1502,64 +1664,6 @@ A Felügyelet felhívja az adatszolgáltatók figyelmét a MiFID TREM tábla pon
 
 A MiFID tranzakciós jelentéssel kapcsolatos részletesebb információkat a Felügyelet a honlapján közzéteszi.
 
-D/ Törzsadat táblák
-
-KTATE1 INTÉZMÉNYI ALAPADATOK
-
-KTATE106 sor: Intézmény jogi státusza
-
-A következő lehetőségek választhatóak: aktív, cégbírósági nyilvántartásba vétel alatt, felszámolás alatt, végelszámolás alatt, átalakulás alatt/beolvadás, átalakulás alatt/összeolvadás, átalakulás alatt/különválás, átalakulás alatt/kiválás, átalakult/beolvadt, átalakult/összeolvadt, átalakult/különvált, átalakult/kivált, inaktív.
-
-KTATE2 VEZETŐ ÁLLÁSÚ SZEMÉLY ADATAI
-
-A Bszt. 4. § (2) bekezdés 71. pont a) és c) alpontjai alapján vezető állású személynek minősülő tisztségviselőre vonatkozóan kell kitölteni.
-
-A „Bejelentés oka” cellában a következők valamelyike szerepelhet: „új”, „újraválasztás”, „megszűnés”, „megszűnés elhalálozás miatt”, „adatváltozás”, „adategyeztetés”.
-
-Változás esetén nem csak a változásban érintett vezető állású személy adatait, hanem az intézmény vezető állású személyeinek aktuális teljes listáját is szerepeltetni kell. Az utóbbiak esetében a „Bejelentés oka” cellában az „adategyeztetés” kódot kell kiválasztani.
-
-KTATE3 KÖNYVVIZSGÁLÓ ADATAI
-
-A könyvvizsgáló személyére vonatkozó adatok könyvvizsgáló társaság és természetes személy megbízása esetén is kötelezően kitöltendőek.
-
-KTATE4 KISZERVEZÉS ADATAI
-
-Attól függően, hogy a kiszervezett tevékenységet természetes személy vagy intézmény végzi-e, a megfelelő sorok értelemszerűen töltendők ki.
-
-KTATE5 TULAJDONOS ADATAI
-
-A befektetési vállalkozás tulajdonosára vonatkozó adatokat kell megadni, függetlenül attól, hogy eredeti részesedésszerzésről vagy megváltozó (vétel vagy eladás) tulajdonlásról van-e szó.
-
-Ha a tulajdonos magánszemély, akkor a KTATE51 kezdetű blokkot kell kitölteni, ha pedig jogi személy vagy jogi személyiség nélküli gazdasági társaság, akkor a KTATE52 kezdetű blokkot.
-
-A blokkokon belül külön-külön szakaszban kell feltüntetni a közvetlen, illetve a közvetett tulajdonrészeket.
-
-A közvetett tulajdonrészre vonatkozóan a Tpt. 5. § (1) bekezdés 84. pontja szerint átszámított végeredményt, a tulajdonlás típusa mezőbe pedig a „közvetett” szót kell beírni. A köztes vállalkozás adatait – ha a tulajdonos magánszemély – pl. a KTATE5101091 - KTATE51010913 sorokban kell megjeleníteni.
-
-Az eseti jelentés célja, hogy – a tulajdonos adatain kívül – a tulajdonváltozásban érintett tulajdonrésznek a tulajdonváltozás előtti állapotát, és magát a tulajdonváltozást rögzítse. Természetes személy esetén pl. a KTATE5101 - KTATE5101064 sorok tartalmazzák a tulajdonos adatait, a KTATE5101071- KTATE5101078 sorok rögzítik a tulajdonváltozás előtti állapotot, míg a KTATE5101081- KTATE5101088 sorok írják le a tranzakció adatait.
-
-A „tulajdonváltozás előtti állapot vonatkozási dátuma” sorba az az időpont kerül, amióta a jelentendő tranzakció előtti állapot fennállt az adott tulajdonos esetében.
-
-A „tulajdonváltozás típusa” sorba a „vétel”, illetve „eladás” megjelölés kerül, és ezenkívül meg kell adni annak az üzleti partnernek a nevét is, akivel a tranzakciót lebonyolították. (Több partner esetén mindegyiket fel kell sorolni.)
-
-Eladás esetén az új tulajdonosról és a tulajdonáról egy új ismétlőblokkot kell kitölteni.
-
-A tábla december 31-i állapotra vonatkozó beküldése egyúttal a Bszt. 123. § (1) bekezdés b) és (4) bekezdés b) pontjában foglalt, Felügyelet felé történő bejelentési kötelezettség teljesítését is jelenti.
-
-KTAFTE1 INTÉZMÉNYI ALAPADATOK
-
-Kitöltése megegyezik a KTATE1 táblánál leírtakkal.
-
-KTAFTE2 VEZETŐ ÁLLÁSÚ SZEMÉLY ADATAI
-
-Kitöltése megegyezik a KTATE2 táblánál leírtakkal. A Bszt. 4. § (2) bekezdés 71. pontja alapján vezető állású személynek minősülő tisztségviselőre vonatkozóan kell kitölteni.
-
-KTAFTE3 TULAJDONOS ADATAI
-
-Kitöltése megegyezik a KTATE5 táblánál leírtakkal.
-
-A tábla december 31-i állapotra vonatkozó beküldése egyúttal a Bszt. 123. § (1) bekezdés b) és (4) bekezdés b) pontjában foglalt, Felügyelet felé történő bejelentési kötelezettség teljesítését is jelenti.
-
 E/ Felügyeleti díjra vonatkozó táblák
 
 BVAD - Befektetési vállalkozás felügyeleti alapdíj számítása
@@ -1682,4 +1786,4 @@ A tábla kitöltése
 
 A táblában a Bszt. 156. § rendelkezése alapján számított felügyeleti éves alapdíj összegét kell szerepeltetni.
 
-[^9]: A 2. melléklet a 25/2012. (XI. 27.) PSZÁF rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet a 25/2012. (XI. 27.) PSZÁF rendelet 2. § (2) bekezdésével megállapított, a 3/2013. (IV. 26.) PSZÁF rendelet 6. § (3) bekezdése, a 7. § c) pontja szerint módosított szöveg.
