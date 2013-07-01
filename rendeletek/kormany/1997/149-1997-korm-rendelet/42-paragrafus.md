@@ -12,7 +12,7 @@ d)[^190] az örökbefogadandó gyermek törvényes képviselőjét,
 
 e) a házasságban élő, de önállóan örökbe fogadni szándékozó személy vele együttélő házastársát,
 
-f)[^191] a kiskorú vér szerinti szülő törvényes képviselőjét.
+f)[^191] a kiskorú vér szerinti szülő törvényes képviselőjét, kivéve, ha titkolt terhesség esetén helyt ad a korlátozottan cselekvőképes kiskorú Gyvt. 128. § (1a) bekezdése szerinti kérelmének.
 
 (2)[^192] Az (1) bekezdés d) és f) pontja szerinti törvényes képviselő, a hivatásos gyám, a gyermekotthon vezetője és a gyermekvédelmi szakszolgálat eseti gondnoka a nyilatkozatát írásban is előterjesztheti.
 
@@ -22,6 +22,6 @@ f)[^191] a kiskorú vér szerinti szülő törvényes képviselőjét.
 [^188]: A 42. § (1) bekezdés b) pontja a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^189]: A 42. § (1) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés f) pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
 [^190]: A 42. § (1) bekezdés d) pontja a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^191]: A 42. § (1) bekezdés f) pontját a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^191]: A 42. § (1) bekezdés f) pontját a 173/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^192]: A 42. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^193]: A 42. § (3) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## Eredménytelen védelembe vétel[^481]
+## Eredménytelen védelembe vétel[^486]
 
-[^481]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^486]: A 91/E. §-t megelőző alcímet a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be.

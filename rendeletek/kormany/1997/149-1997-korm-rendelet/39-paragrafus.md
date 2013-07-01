@@ -38,11 +38,11 @@ c) az örökbe fogadni szándékozó személy tájékoztatását arról, hogy a 
 
 (5) Alkalmatlanság megállapítása esetén új eljárás a határozat jogerőre emelkedésétől számított 1 éven belül nem indítható.
 
-(6)[^163] A gyámhivatalnak az örökbefogadásra való alkalmasságot megállapító határozata annak jogerőre emelkedésétől számított 2 évig hatályos. Ha a 2 éven belül az örökbefogadási eljárás jogerős befejezésére kerül sor, a határozat az örökbefogadás tárgyában hozott határozat jogerőre emelkedésének napjával hatályát veszti.
+(6)[^163] A gyámhivatalnak az örökbefogadásra való alkalmasságot megállapító határozata annak jogerőre emelkedésétől számított három évig hatályos. Ha három éven belül az örökbefogadási eljárás jogerősen befejeződik, a határozat az örökbefogadás tárgyában hozott határozat jogerőre emelkedésének napjával hatályát veszti.
 
 (7)[^164] Ha az örökbe fogadni szándékozó személy testvérek örökbefogadására való alkalmasságát megállapították, és a hatályvesztést megelőzően a testvér is örökbe fogadhatóvá válik, a határozat hatálya meghosszabbodik a testvér örökbefogadási eljárásának jogerős befejezéséig.
 
-(8)[^165] A határozat hatálya – a hatályvesztést megelőzően benyújtott kérelemre és a gyermekvédelmi szakszolgálat javaslatára – legfeljebb 1 évvel meghosszabbítható, amennyiben 2 éven belül nem kerül sor örökbefogadásra és azok a körülmények, amelyekre tekintettel az alkalmasságot megállapították, nem változtak. Ha a hatályvesztéskor folyamatban van az örökbefogadási eljárás, annak jogerős befejezéséig a határozat hatálya meghosszabbodik.
+(8)[^165] A határozat hatálya – a hatályvesztést megelőzően benyújtott kérelemre és a gyermekvédelmi szakszolgálat javaslatára – legfeljebb 1 évvel meghosszabbítható, amennyiben három éven belül nem kerül sor örökbefogadásra és azok a körülmények, amelyekre tekintettel az alkalmasságot megállapították, nem változtak. Ha a hatályvesztéskor folyamatban van az örökbefogadási eljárás, annak jogerős befejezéséig a határozat hatálya meghosszabbodik.
 
 (9)[^166] Ha a meghosszabbított hatály lejártáig sem került sor örökbefogadásra, az örökbefogadás előtti eljárást – az örökbefogadás előtti tanácsadáson és felkészítő tanfolyamon való részvétel kivételével – az örökbe fogadni szándékozó személy kérelmére meg kell ismételni.
 
@@ -51,8 +51,8 @@ c) az örökbe fogadni szándékozó személy tájékoztatását arról, hogy a 
 (11)[^167] Az örökbefogadásra való alkalmasságot megállapító határozat hatályának leteltével, ha az örökbe fogadni szándékozó személy az alkalmasság megállapítása iránt ismételt kérelmet nem terjeszt elő, adatait a gyermekvédelmi szakszolgálat törli a nyilvántartásából, és erről értesíti az örökbe fogadni szándékozó személyek országos nyilvántartását, valamint az örökbe fogadni szándékozó személyt.
 
 [^162]: A 39. § a 251/2006. (XII. 6.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^163]: A 39. § (6) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^163]: A 39. § (6) bekezdése a 97/2013. (III. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
 [^164]: A 39. § (7) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^165]: A 39. § (8) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^165]: A 39. § (8) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított, a 97/2013. (III. 29.) Korm. rendelet 65. § (1) bekezdése szerint módosított szöveg.
 [^166]: A 39. § (9) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 16. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^167]: A 39. § (11) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 17. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

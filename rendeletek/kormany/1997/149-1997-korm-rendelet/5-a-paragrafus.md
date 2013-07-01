@@ -22,7 +22,7 @@ i) a gyámhatóságok ellenőrzése során, a gyermekjóléti és gyermekvédelm
 
 j) a gyermek sérelmére elkövetett bűncselekmény gyanúja esetén segítséget nyújt a tudomást szerző gyámhatóságoknak, valamint a gyermekvédelmi rendszerben működő szakembereknek a szükséges feljelentés megtételéhez,
 
-k)[^9] a büntetőjogi felelősségre nem vonható 14 év alatti elkövetők ügyében szakmai támogatást nyújt a gyámhivatalnak és a gyermekjóléti szolgálatnak a kiskorú, illetve családja részére nyújtandó segítségre vonatkozóan, továbbá kezdeményezi a szükséges gyermekvédelmi intézkedéseket, és ezek végrehajtását ellenőrzi.
+k)[^9] a büntetőjogi felelősségre nem vonható 12, illetve 14 év alatti elkövetők ügyében szakmai támogatást nyújt a gyámhivatalnak és a gyermekjóléti szolgálatnak a kiskorú, illetve családja részére nyújtandó segítségre vonatkozóan, továbbá kezdeményezi a szükséges gyermekvédelmi intézkedéseket, és ezek végrehajtását ellenőrzi.
 
 (2) A szociális és gyámhivatal minden év június 30. napjáig az előző évre vonatkozóan a 2. számú melléklet szerinti jelentésben elemzi az illetékességi területén a gyermekkorú, illetve a fiatalkorú bűnelkövetés helyzetét, és értékeli a bűnmegelőzési tevékenységet.
 
@@ -40,6 +40,6 @@ b) a gyermekjóléti szolgálattól a családgondozás és a védelembe vétel e
 [^6]: Az 5/A. §-t a 72/2003. (V. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 331/2006. (XII. 23.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^7]: Az 5/A. § (1) bekezdés a) pontja a 258/2011. (XII. 7.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
 [^8]: Az 5/A. § (1) bekezdés b) pontja a 258/2011. (XII. 7.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 5/A. § k) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 1. pontja szerint módosított szöveg.
+[^9]: Az 5/A. § k) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 1. pontja, a 172/2013. (V. 30.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: Az 5/A. § (3) bekezdés a) pontja a 237/2010. (IX. 13.) Korm. rendelet 15. § a) pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 1. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 2. pontja szerint módosított szöveg.
 [^11]: Az 5/A. § (4) bekezdése a 258/2011. (XII. 7.) Korm. rendelet 29. § (2) bekezdésével megállapított, a 349/2012. (XII. 12.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.

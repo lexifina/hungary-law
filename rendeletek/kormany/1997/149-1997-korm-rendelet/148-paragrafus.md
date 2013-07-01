@@ -2,6 +2,6 @@
 
 (2) A gyámhivatal megkeresésre, illetőleg a törvényes képviselő személyében történt változás esetén hivatalból haladéktalanul közli a hitelintézettel a törvényes képviselő nevét és lakcímét.
 
-(3)[^716] A gyámhivatal az ügyben való illetékességének megszűnéséről értesíti a hitelintézetet.
+(3)[^722] A gyámhivatal az ügyben való illetékességének megszűnéséről értesíti a hitelintézetet.
 
-[^716]: A 148. § (3) bekezdés második mondatát a 237/2010. (IX. 13.) Korm. rendelet 16. § j) pontja hatályon kívül helyezte.
+[^722]: A 148. § (3) bekezdés második mondatát a 237/2010. (IX. 13.) Korm. rendelet 16. § j) pontja hatályon kívül helyezte.

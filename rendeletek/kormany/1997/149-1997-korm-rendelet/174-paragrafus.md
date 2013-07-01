@@ -1,6 +1,6 @@
-174. §[^809] (1) E rendeletnek az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelettel megállapított 10. § (4) bekezdését az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelet hatálybalépésekor[^810] folyamatban lévő ügyekben is alkalmazni kell.
+174. §[^815] (1) E rendeletnek az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelettel megállapított 10. § (4) bekezdését az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelet hatálybalépésekor[^816] folyamatban lévő ügyekben is alkalmazni kell.
 
-(2) E rendeletnek az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelettel megállapított 10. § (5) és (6) bekezdését, valamint 11. § (1) és (7) bekezdését az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelet hatálybalépését[^811] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+(2) E rendeletnek az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelettel megállapított 10. § (5) és (6) bekezdését, valamint 11. § (1) és (7) bekezdését az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelet hatálybalépését[^817] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
 
 (3) A 2012. február 1-jén 16. életévét betöltött és iskoláztatási támogatás felfüggesztése hatálya alatt álló gyermek felülvizsgálata eredményeként
 
@@ -16,6 +16,6 @@ cb) gyámhatósági fenntartásos betétben való elhelyezése érdekében megke
 
 (4) E rendeletnek az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelettel megállapított 145. § (2a), (3), (3a) és (5) bekezdését az egyes gyermekvédelmi és családtámogatási tárgyú kormányrendeletek módosításáról szóló 21/2012. (II. 29.) Korm. rendelet hatálybalépésekor folyamatban lévő gondnokság alá helyezési eljárásokban és a felülvizsgálati eljárásokban is alkalmazni kell.
 
-[^809]: A 174. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1323. pontja hatályon kívül helyezte, újonnan a 21/2012. (II. 29.) Korm. rendelet 15. §-a iktatta be.
-[^810]: A hatálybalépés napja: 2012. március 3.
-[^811]: A hatálybalépés napja: 2012. március 3.
+[^815]: A 174. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1323. pontja hatályon kívül helyezte, újonnan a 21/2012. (II. 29.) Korm. rendelet 15. §-a iktatta be.
+[^816]: A hatálybalépés napja: 2012. március 3.
+[^817]: A hatálybalépés napja: 2012. március 3.

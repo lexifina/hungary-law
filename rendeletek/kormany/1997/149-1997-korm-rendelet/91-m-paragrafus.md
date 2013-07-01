@@ -1,3 +1,3 @@
-## 91/L. §[^498]
+## 91/L. §[^503]
 
-[^498]: A 91/L. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja.
+[^503]: A 91/L. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja.

@@ -6,7 +6,7 @@
 
 ## Intézkedések a hagyatéki eljárás megindítása előtt
 
-156. § (1)[^731] Ha a gyermek, a gondnokság alatt álló – ide nem értve a cselekvőképességet korlátozó gondnokság alá helyezett azon személyt, akinek a bíróság az ingó és ingatlanvagyonnal, valamint az örökösödési ügyekkel kapcsolatos jognyilatkozatot nem korlátozta – az ismeretlen helyen levő, az ügyeinek vitelében akadályozott személy, a méhmagzat ingó vagyonra vonatkozó öröklési érdeke veszélyeztetve van, a gyámhivatal az ingóságot leltároztatja és kezdeményezi a hagyatéki eljárás lefolytatását.
+156. § (1)[^737] Ha a gyermek, a gondnokság alatt álló – ide nem értve a cselekvőképességet korlátozó gondnokság alá helyezett azon személyt, akinek a bíróság az ingó és ingatlanvagyonnal, valamint az örökösödési ügyekkel kapcsolatos jognyilatkozatot nem korlátozta – az ismeretlen helyen levő, az ügyeinek vitelében akadályozott személy, a méhmagzat ingó vagyonra vonatkozó öröklési érdeke veszélyeztetve van, a gyámhivatal az ingóságot leltároztatja és kezdeményezi a hagyatéki eljárás lefolytatását.
 
 (2) A gyámhivatal a hagyatéki leltár alapján
 
@@ -16,7 +16,7 @@ b) figyelmezteti a törvényes képviselőt a hagyaték visszautasításának le
 
 c) elbírálja az örökségnek a törvényes képviselő által bejelentett visszautasítását.
 
-(3)[^732] A gyámhivatal biztosítási intézkedést kezdeményezhet a hagyaték helye szerint illetékes hagyatéki ügyben eljáró hatóságnál, a hagyaték, illetve a hagyatékhoz tartozó vagyontárgyak megóvása érdekében.
+(3)[^738] A gyámhivatal biztosítási intézkedést kezdeményezhet a hagyaték helye szerint illetékes hagyatéki ügyben eljáró hatóságnál, a hagyaték, illetve a hagyatékhoz tartozó vagyontárgyak megóvása érdekében.
 
-[^731]: A 156. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^732]: A 156. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 30. pontja szerint módosított szöveg.
+[^737]: A 156. § (1) bekezdése a 262/2001. (XII. 21.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^738]: A 156. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 30. pontja szerint módosított szöveg.

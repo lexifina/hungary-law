@@ -36,7 +36,7 @@ b) a gyermekvédelmi közvetítői (mediációs) eljárás igénybevételét kez
 
 a) a gyermek elhelyezésének megváltoztatása iránt pert indíthat, feltéve, hogy az elhelyezés megváltoztatása a kiskorú gyermek érdekében áll,
 
-b)[^135] feljelentést tesz a Gyszr. 8. §-a (2) bekezdésének a) pontja alapján a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 195. §-ának (4) bekezdése szerinti kiskorú veszélyeztetése miatt.
+b)[^135] feljelentést tesz a Gyszr. 8. §-a (2) bekezdésének a) pontja alapján a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 195. § (4) bekezdése szerinti kiskorú veszélyeztetése, illetve a 2012. évi C. törvény (a továbbiakban: Btk.) 210. § (1) bekezdése szerinti kiskorúval való kapcsolattartás akadályozása miatt.
 
 (8)[^136]
 
@@ -47,5 +47,5 @@ b)[^135] feljelentést tesz a Gyszr. 8. §-a (2) bekezdésének a) pontja alapj�
 [^132]: A 33. § (3) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^133]: A 33. § (4) bekezdés nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 7. pontja szerint módosított szöveg.
 [^134]: A 33. § (5) bekezdés bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 12. pontja, a 360/2010. (XII. 30.) Korm. rendelet 25. § 7. pontja szerint módosított szöveg.
-[^135]: A 33. § (7) bekezdésének b) pontja a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése b) pontjának bc) alpontja szerint módosított szöveg.
+[^135]: A 33. § (7) bekezdésének b) pontja a 339/2007. (XII. 15.) Korm. rendelet 30. § (2) bekezdése b) pontjának bc) alpontja, a 172/2013. (V. 30.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^136]: A 33. § (8) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés k) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
