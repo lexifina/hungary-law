@@ -1,3 +1,3 @@
-## 71. §[^31]
+## 71. §[^25]
 
-[^31]: A 71. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^25]: A 71. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.

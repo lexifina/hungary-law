@@ -1,3 +1,3 @@
-## 47. §[^14]
+## 47. §[^11]
 
-[^14]: A 47. § a 77. § (3) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+[^11]: A 47. § a 77. § (3) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
