@@ -1,3 +1,3 @@
-## 17/F. §[^62] Az illetékes hatóságok az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállam vagy az Európai Bizottság kérésére információt nyújtanak az e rendelet követelményeivel kapcsolatban elvégzett vizsgálatok és ellenőrző intézkedések eredményeiről.
+## 17/F. §[^64] Az illetékes hatóságok az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállam vagy az Európai Bizottság kérésére információt nyújtanak az e rendelet követelményeivel kapcsolatban elvégzett vizsgálatok és ellenőrző intézkedések eredményeiről.
 
-[^62]: A 17/F. §-t a 6/2013. (I. 18.) EMMI rendelet 11. §-a iktatta be.
+[^64]: A 17/F. §-t a 6/2013. (I. 18.) EMMI rendelet 11. §-a iktatta be.

@@ -1,12 +1,12 @@
-## Az emberi szövetek és sejtek gyűjtésére vonatkozó követelmények[^34]
+## Az emberi szövetek és sejtek gyűjtésére vonatkozó követelmények[^36]
 
-16/A. §[^35] (1) Az emberi szövetek és sejtek gyűjtését a (2)–(9) bekezdésben foglalt rendelkezések szerint kell végezni. A (2)–(9) bekezdésben foglalt rendelkezéseket nem kell alkalmazni az emberi reprodukcióra irányuló különleges eljárások donora és recipiense közötti adományozás esetén, ha az ivarsejtek felhasználására azok tárolása nélkül kerül sor (közvetlen felhasználás).
+16/A. §[^37] (1) Az emberi szövetek és sejtek gyűjtését a (2)–(9) bekezdésben foglalt rendelkezések szerint kell végezni. A (2)–(9) bekezdésben foglalt rendelkezéseket nem kell alkalmazni az emberi reprodukcióra irányuló különleges eljárások donora és recipiense közötti adományozás esetén, ha az ivarsejtek felhasználására azok tárolása nélkül kerül sor (közvetlen felhasználás).
 
 (2) Emberi szövetek és sejtek gyűjtését az egészségügyi szolgáltatások szakmai minimumfeltételeiről szóló jogszabály személyi feltételeinek megfelelő szakorvosi szakképesítéssel és gyakorlattal rendelkező személy végezheti.
 
 (3) A szövetbank vagy a gyűjtő szervezet és a donor kiválasztását végző egészségügyi szolgáltató közötti írásbeli megállapodásban rögzíteni kell azt az eljárásrendet, amely a 7. számú melléklet szerinti kiválasztási kritériumok megfelelő alkalmazását biztosítja.
 
-(4)[^36] A szövetbank és a gyűjtést végző szervezet közötti írásbeli megállapodásban meg kell határozni a begyűjtendő szövetek, sejtek, illetve vizsgálati minták jellegét és a gyűjtés során követendő eljárásokat.
+(4)[^38] A szövetbank és a gyűjtést végző szervezet közötti írásbeli megállapodásban meg kell határozni a begyűjtendő szövetek, sejtek, illetve vizsgálati minták jellegét és a gyűjtés során követendő eljárásokat.
 
 (5) Az egészségügyi szolgáltató szakmai eljárásrendet alkot
 
@@ -28,6 +28,6 @@ d) a donor 8. számú melléklet szerinti vizsgálatainak értékelésére
 
 (9) A szövetek és sejtek gyűjtéséhez olyan, a 9. számú melléklet szerinti eszközöket, gyűjtőanyagokat és -berendezéseket kell használni, amelyek megfelelnek az in vitro orvostechnikai eszközökről szóló jogszabály, továbbá a vonatkozó szakmai szabályok szerinti követelményeknek is.
 
-[^34]: A 16/A. §-t megelőző alcímet a 20/2007. (IV. 19.) EüM rendelet 7. §-a iktatta be.
-[^35]: A 16/A. §-t a 20/2007. (IV. 19.) EüM rendelet 7. §-a iktatta be.
-[^36]: A 16/A. § (4) bekezdése a 12/2012. (VIII. 6.) EMMI rendelet 10. § f) pontja szerint módosított szöveg.
+[^36]: A 16/A. §-t megelőző alcímet a 20/2007. (IV. 19.) EüM rendelet 7. §-a iktatta be.
+[^37]: A 16/A. §-t a 20/2007. (IV. 19.) EüM rendelet 7. §-a iktatta be.
+[^38]: A 16/A. § (4) bekezdése a 12/2012. (VIII. 6.) EMMI rendelet 10. § f) pontja szerint módosított szöveg.

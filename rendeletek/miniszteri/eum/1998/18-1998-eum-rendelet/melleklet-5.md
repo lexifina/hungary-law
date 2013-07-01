@@ -1,4 +1,4 @@
-## a)[^73] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az OTNY-be történő nyilvántartásba vételéhez
+## a)[^75] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az OTNY-be történő nyilvántartásba vételéhez
 
 ## (szerv-, szövetátültetéssel kapcsolatosan)*
 
@@ -120,7 +120,7 @@
 
 ## 8 Az OTNY-nél történő személyes visszavonás esetén az OTNY munkatársának aláírása; háziorvoson keresztül történő visszavonás esetén a háziorvos neve, címe, aláírása és OONY.
 
-## c) Adatlap a kijelölt egészségügyi dolgozóról[^74]
+## c) Adatlap a kijelölt egészségügyi dolgozóról[^76]
 
 ## Az adatközlés célja:9
 
@@ -168,8 +168,8 @@
 
 ## 11 Az egészségügyi szakdolgozóknál a működési nyilvántartás szerinti szám, orvosoknál/gyógyszerészeknél az OONY, illetőleg a GYONY szerinti szám. GYONY szerinti szám esetén a nyilvántartási szám után egy ,,x''-et kérünk beírni.
 
-5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^75]
+5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^77]
 
-[^73]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése szerint módosított szöveg.
-[^74]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
-[^75]: Az 5. számú melléklet a 26/2010. (V. 12.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^75]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^76]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
+[^77]: Az 5. számú melléklet a 26/2010. (V. 12.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.

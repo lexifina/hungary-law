@@ -1,82 +1,4 @@
-## Az éves jelentéshez alkalmazandó formanyomtatványok
-
-## A. A súlyos szövődményekre vonatkozó éves jelentéshez alkalmazandó formanyomtatvány
-
-| Jelentéstevő ország |  |
-
-| Jelentési időszak (év) január 1–december 31. |  |
-
-| Súlyos szövődmény(ek) előfordulásának száma szövet- és sejttípusonként (vagy a szövetekkel és sejtekkel érintkezésbe lépő termék típusa szerint) |
-
-|  | A szövet/sejt (vagy a szövetekkel és sejtekkel érintkezésbe lépő termék) típusa | Súlyos szövődmény(ek) előfordulásának száma | Ebből az elosztott szövetek/ sejtek száma összesen (amennyiben az adat rendelkezésre áll) |
-
-| 1 |  |  |  |
-
-| 2 |  |  |  |
-
-| 3 |  |  |  |
-
-| 4 |  |  |  |
-
-| ... |  |  |  |
-
-| Összesen |  |  |
-
-| Az elosztott szövetek és sejtek száma összesen (köztük azon szövet- és sejttípus feltüntetésével, amelyre vonatkozóan nem jelentettek súlyos szövődményeket): |
-
-| Az érintett recipiensek száma (a recipiensek száma összesen): |
-
-| A bejelentett súlyos szövődmények jellege | Súlyos szövődmény(ek) előfordulásának száma összesen |
-
-| Átvitt bakteriális fertőzés |  |
-
-| Átvitt vírusos fertőzés | HBV |  |
-
-| HCV |  |
-
-| HIV–1/2 |  |
-
-| Egyéb (határozza meg) |  |
-
-| Átvitt parazitás fertőzés | Malária |  |
-
-| Egyéb (határozza meg) |  |
-
-| Átvitt rosszindulatú betegségek |  |
-
-| Egyéb betegségek átvitele |  |
-
-| Egyéb súlyos szövődmények (határozza meg) |  |
-
-## B. A súlyos káros eseményekre vonatkozó éves jelentéshez alkalmazandó formanyomtatvány
-
-| Jelentéstevő ország |
-
-| Jelentési időszak (év) január 1–december 31. |
-
-| A feldolgozott szövetek és sejtek teljes száma |
-
-| A szövetek és sejtek minőségét és biztonságát érintő, az alábbiak valamelyikében bekövetkezett eltérés miatti súlyos káros esemény száma összesen | Részletezés |
-
-|  | Szövet- és sejthiba (határozza meg) | Felszerelés meghibásodása (határozza meg) | Emberi mulasztás (határozza meg) | Egyéb (határozza meg) |
-
-| Gyűjtés |  |  |  |  |
-
-| Vizsgálat |  |  |  |  |
-
-| Szállítás |  |  |  |  |
-
-| Feldolgozás |  |  |  |  |
-
-| Tárolás |  |  |  |  |
-
-| Elosztás |  |  |  |  |
-
-| Anyagok |  |  |  |  |
-
-| Egyéb (határozza meg) |  |  |  |  |
-
-13. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^99]
+13. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^102]
 
 A) Előzetes jelentés a feltételezett súlyos káros eseményekről vagy szövődményekről
 
@@ -128,4 +50,4 @@ B) Végleges jelentés a súlyos káros eseményekről vagy szövődményekről
 
 10. Következtetés/nyomon követés (szükség esetén)
 
-[^99]: A 13. számú mellékletet a 41/2013. (VI. 17.) EMMI rendelet 6. § (2) bekezdése iktatta be.
+[^102]: A 13. számú mellékletet a 41/2013. (VI. 17.) EMMI rendelet 6. § (2) bekezdése iktatta be.
