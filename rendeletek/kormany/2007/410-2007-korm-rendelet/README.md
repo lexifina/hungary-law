@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-410-20-
 | 2012-08-24 | 2007-410-20-22.16 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2012-09-01 | 2007-410-20-22.17 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2013-05-11 | 2007-410-20-22.18 | 138/2013. (V. 10.) Korm. rendelet |
+| 2013-07-01 | 2007-410-20-22.19 | 175/2013. (V. 31.) Korm. rendelet |

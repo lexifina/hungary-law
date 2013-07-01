@@ -1,6 +1,6 @@
-## 17. §[^39] Ez a rendelet a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvénnyel együtt a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 17. §[^38] Ez a rendelet a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvénnyel együtt a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^40]
+1. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^39]
 
-[^39]: A 17. §-t a 138/2013. (V. 10.) Korm. rendelet 6. §-a iktatta be.
-[^40]: Az 1. melléklet a 69/2009. (IV. 2.) Korm. rendelet 7. §-ával megállapított, a 228/2012. (VIII. 23.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^38]: A 17. §-t a 138/2013. (V. 10.) Korm. rendelet 6. §-a iktatta be.
+[^39]: Az 1. melléklet a 69/2009. (IV. 2.) Korm. rendelet 7. §-ával megállapított, a 228/2012. (VIII. 23.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.

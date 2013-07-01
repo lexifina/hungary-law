@@ -1,10 +1,10 @@
-## 9/A. §[^13]
+## 9/A. §[^12]
 
-10. §[^14] (1)[^15] A 2–8. § alapján kiszabott bírság összegét a bírságot kiszabó határozat jogerőre emelkedésétől számított 30 napon belül az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Magyar Államkincstárnál vezetett 10023002-01451715-30000003 számú célelszámolási számlájára kell befizetni.
+10. §[^13] (1)[^14] A 2–8/A. § alapján kiszabott bírság összegét a bírságot kiszabó határozat jogerőre emelkedésétől számított 30 napon belül az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Magyar Államkincstárnál vezetett 10023002-01451715-30000003 számú célelszámolási számlájára kell befizetni.
 
-(2)[^16]
+(2)[^15]
 
-[^13]: A 9/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 10. § (16) bekezdése iktatta be, hatályon kívül helyezte a 348/2009. (XII. 30.) Korm. rendelet 6. § (5) bekezdése.
-[^14]: A 10. § a 10/2011. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^15]: A 10. § (1) bekezdése a 71/2011. (IV. 28.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
-[^16]: A 10. § (2) bekezdését a 71/2011. (IV. 28.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^12]: A 9/A. §-t a 212/2009. (IX. 29.) Korm. rendelet 10. § (16) bekezdése iktatta be, hatályon kívül helyezte a 348/2009. (XII. 30.) Korm. rendelet 6. § (5) bekezdése.
+[^13]: A 10. § a 10/2011. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^14]: A 10. § (1) bekezdése a 71/2011. (IV. 28.) Korm. rendelet 4. § (4) bekezdése, a 175/2013. (V. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^15]: A 10. § (2) bekezdését a 71/2011. (IV. 28.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
