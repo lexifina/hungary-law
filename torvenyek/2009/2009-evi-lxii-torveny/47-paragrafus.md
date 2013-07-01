@@ -22,13 +22,17 @@ j) a 46. § (2) bekezdésében foglalt adatok tekintetében – nemzetbiztonság
 
 k) a 46. § (2) bekezdésében foglalt adatok tekintetében – törvényben meghatározott szabálysértési hatósági eljárások lefolytatása, illetve közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a rendőrség, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 
-l) a 46. § (2) bekezdésében foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
+l) a 46. § (2) bekezdésében foglalt adatok tekintetében közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából
+
+la) a közlekedési hatóság és a közlekedési igazgatási hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan, és
+
+lb) a közúti közlekedésről szóló törvényben meghatározott ellenőrző hatóság a közúti forgalomban résztvevő jármű tekintetében, az adatigénylés időpontja szerinti adatokra vonatkozóan.
 
 m) a 46. § (2) bekezdésében foglalt adatok tekintetében – az Egészségbiztosítási Alapot, illetve a Nyugdíjbiztosítási Alapot megillető megtérítési követelések érvényesítése céljából – az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv, a káresemény időpontja szerinti adatokra vonatkozóan;
 
 n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy és jogi személyiséggel nem rendelkező szervezet a felhasználás céljának és jogalapjának igazolása mellett.
 
-(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
+(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
 
 (3) Az (1) bekezdés n) pontjában szereplő adatigénylő az adatszolgáltatásért a mindenkori általános tételű eljárási illetéknek megfelelő összegű díjat köteles fizetni a kötvénynyilvántartó szerv részére.
 
