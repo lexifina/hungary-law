@@ -1,14 +1,13 @@
-17. § (1)[^43] A sportrendezvény látogatásától való eltiltást a szervező köteles az eltiltott személlyel, valamint a rendőrséggel írásban közölni. Az eltiltás az erről szóló szervezői közlés kézbesítése napjától hatályos.
+17. §[^43] (1) A sportrendezvényen történő részvételből való kizárást a szervező köteles a kizárt személlyel, valamint a rendőrséggel írásban közölni. A kizárás az erről szóló szervezői közlés kézbesítésének napjától hatályos.
 
-(2) Az eltiltásról szóló írásbeli közlésben ismertetni kell:
+(2) A kizárásról szóló írásbeli közlésben ismertetni kell:
 
-a) az eltiltás alapjául szolgáló cselekményt, annak időpontját és helyszínét;
+a) a kizárás alapjául szolgáló cselekményt, annak időpontját és helyszínét;
 
-b) az eltiltás időtartamát;
+b) a kizárás időtartamát;
 
-c) azokat a sportrendezvényeket, illetve sportlétesítményeket, amelyekre kiterjed az eltiltás hatálya;
+c) azokat a sportrendezvényeket, illetve sportlétesítményeket, amelyekre kiterjed a kizárás hatálya;
 
-d)[^44] azt, hogy az eltiltott személynek a Rendőrségről szóló 1994. évi XXXIV. törvény 91/J. § (1) bekezdés b) pontjában meghatározott adatait a rendőrség az eltiltás hatályának lejártától számított egy évig nyilvántartja.
+d) azt, hogy a kizárt személynek a Rendőrségről szóló 1994. évi XXXIV. törvény 91/J. § (1) bekezdés b) pontjában meghatározott adatait a rendőrség az kizárás hatályának lejártától számított egy évig nyilvántartja.
 
-[^43]: A 17. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^44]: A 17. § (2) bekezdés d) pontját a 247/2009. (XI. 10.) Korm. rendelet 8. § (2) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 17. § a 172/2013. (V. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
