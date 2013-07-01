@@ -1,0 +1,3 @@
+## 2. § A kitoloncolás végrehajtásának szabályairól szóló 26/2007. (V. 31.) IRM rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a harmadik országbeli állampolgár légi úton történő kitoloncolásához közvetlen légi járat igénybevételére nincs lehetőség, de a kitoloncolás végrehajtása a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtásról szóló, 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam területén történő átszállítással (e § alkalmazásában a továbbiakban: légi átszállítás) biztosítható, a Hivatal ehhez az adott állam (a továbbiakban: felkért állam) kijelölt hatóságának hozzájárulását kéri.”
