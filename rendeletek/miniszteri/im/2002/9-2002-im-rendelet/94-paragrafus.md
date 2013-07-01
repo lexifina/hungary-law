@@ -1,20 +1,11 @@
-## 93/P. §[^227] Ha a bíróság a végleges hatállyal kiutasított elítéltet a Be. 565. §-a szerinti eljárásban mentesíti, erről a területi idegenrendészeti hatóságot határozatának jogerős kiadmányával értesíti.
+## V. Fejezet[^207]
 
-## V. Fejezet[^228]
+## A KÖZÜGYEKTŐL ELTILTÁS VÉGREHAJTÁSA
 
-## A MELLÉKBÜNTETÉSEK VÉGREHAJTÁSA
+## A közügyektől eltiltásról kiállított értesítőlap tartalma
 
-## A mellékbüntetésről kiállított értesítőlap tartalma
+94. § (1) A bíróság a közügyektől eltiltásról külön értesítőlapot állít ki.
 
-94. § (1) A bíróság a közügyektől eltiltásról és a kitiltásról külön értesítőlapot állít ki.
+(2) Az értesítőlapnak a 3. § (1) bekezdés a)–c) pontjaiban, valamint a 3. § (2) bekezdésében meghatározott adatokon felül tartalmaznia kell a közügyektől eltiltás lejáratának napját is, ha azt a bíróság olyan szabadságvesztés mellett alkalmazta, amelyet az előzetes fogvatartással, illetve házi őrizettel teljes egészében kitöltöttnek vett, és az elítélt az ítélet jogerőre emelkedésekor szabadlábon van.
 
-(2) Az értesítőlapnak a 3. § (1) bekezdésének a)–c) pontjaiban, valamint a 3. § (2) bekezdésében meghatározott adatokon felül tartalmaznia kell a közügyektől eltiltás és a kitiltás lejáratának napját is, ha
-
-a) azt a bíróság olyan szabadságvesztés mellett alkalmazta, amelyet az előzetes fogva tartással, illetve házi őrizettel teljes egészében kitöltöttnek vett, és az elítélt az ítélet jogerőre emelkedésekor szabadlábon van,
-
-b) a kitiltást olyan részben felfüggesztett szabadságvesztés mellett alkalmazta, amely esetében a végrehajtandó részt az előzetes fogva tartással, illetve házi őrizettel teljes egészében kitöltöttnek vett, és az elítélt az ítélet jogerőre emelkedésekor szabadlábon van,
-
-c) a kitiltást felfüggesztett szabadságvesztés mellett alkalmazta.
-
-[^227]: A 93/P. §-t a 11/2010. (III. 31.) IRM rendelet 18. §-a iktatta be.
-[^228]: Az V. Fejezet (94–99. §) a 11/2010. (III. 31.) IRM rendelet 19. §-ával megállapított szöveg.
+[^207]: A V. Fejezet (94–98. §) a 9/2013. (VI. 29.) KIM rendelet 43. §-ával megállapított szöveg.

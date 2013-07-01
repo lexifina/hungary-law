@@ -1,9 +1,13 @@
-## 52/A. §[^98] A 11–17. §-ban és a 19. § (5) bekezdésében a végrehajtandó szabadságvesztésre vonatkozó szabály a részben felfüggesztett szabadságvesztés végrehajtandó részére, a felfüggesztett szabadságvesztésre vonatkozó szabály pedig a részben felfüggesztett szabadságvesztés felfüggesztett részére is alkalmazandó.
-
-## III. Fejezet
+## III. Fejezet[^115]
 
 ## A KÖZÉRDEKŰ MUNKA VÉGREHAJTÁSA
 
-## Általános rendelkezés
+## Általános rendelkezések
 
-[^98]: Az 52/A. §-t a 11/2010. (III. 31.) IRM rendelet 15. §-a iktatta be.
+## 53. § A közérdekű munkát kiszabó jogerős ítéletről kiállított értesítőlapon a bíróság feltünteti,
+
+a) azt, hogy az eljárás során készült-e pártfogó felügyelői vélemény,
+
+b) az elítélt iskolai végzettségét, szakképzettségét, továbbá a munkaképességét érintő ismert egyéb adatokat is, valamint az elítélt arra irányuló kérelmét, hogy a büntetést a tartózkodási helyén hajtsák végre.
+
+[^115]: A III. Fejezet (53–68. §) a 9/2013. (VI. 29.) KIM rendelet 38. §-ával megállapított szöveg.

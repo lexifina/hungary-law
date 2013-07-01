@@ -1,17 +1,17 @@
 ## Intézkedés a szabadságvesztés végrehajtása érdekében
 
-22. § (1)[^65] A járásbíróságtól gyűjtőjegyzékkel érkezett értesítőlapot a bv. előadó ellenőrzi, megállapítja, hogy a gyűjtőjegyzék első sorszáma az előzőleg küldött gyűjtőjegyzék utolsó sorszámát folyamatosan követi-e, és hogy a gyűjtőjegyzéken feltüntetett mellékleteket csatolták-e. A bv. bíró az észlelt hiányok pótlására felhívja a járásbíróságot.
+22. § (1)[^75] A járásbíróságtól gyűjtőjegyzékkel érkezett értesítőlapot a bv. előadó ellenőrzi, megállapítja, hogy a gyűjtőjegyzék első sorszáma az előzőleg küldött gyűjtőjegyzék utolsó sorszámát folyamatosan követi-e, és hogy a gyűjtőjegyzéken feltüntetett mellékleteket csatolták-e. A bv. bíró az észlelt hiányok pótlására felhívja a járásbíróságot.
 
-(2)[^66] A bv. előadó a gyűjtőjegyzéken feljegyzi azt az előírási tételszámot, amelyen az ügyet a szabadságvesztés végrehajtási ügykönyvben előírta, és a gyűjtőjegyzék egyik példányát visszaküldi a járásbíróságnak.
+(2)[^76] A bv. előadó a gyűjtőjegyzéken feljegyzi azt az előírási tételszámot, amelyen az ügyet a szabadságvesztés végrehajtási ügykönyvben előírta, és a gyűjtőjegyzék egyik példányát visszaküldi a járásbíróságnak.
 
-(3)[^67] A bv. előadó az (1)–(2) bekezdés szerint jár el akkor is, ha a járásbíróság azt közli, hogy a szabadságvesztésről szóló értesítőlapot a bv. őrnek adta át.
+(3)[^77] A bv. előadó az (1)–(2) bekezdés szerint jár el akkor is, ha a járásbíróság azt közli, hogy a szabadságvesztésről szóló értesítőlapot a bv. őrnek adta át.
 
-(4)[^68] Ha a szabadságvesztésről szóló értesítőlapot a törvényszék közvetlenül a bv. csoportnak küldte meg, a bv. előadó a (2) bekezdés és a 14. § (2) bekezdése szerint jár el.
+(4)[^78] Ha a szabadságvesztésről szóló értesítőlapot a törvényszék közvetlenül a bv. csoportnak küldte meg, a bv. előadó a (2) bekezdés és a 14. § (2) bekezdése szerint jár el.
 
-(5)[^69] Ha a szabadságvesztésről szóló értesítőlapot az ítélőtábla, illetőleg a Kúria küldte meg a bv. csoportnak, a bv. előadó a szabadságvesztés végrehajtási ügy előírási tételszámát átiratban közli az első fokú bírósággal.
+(5)[^79] Ha a szabadságvesztésről szóló értesítőlapot az ítélőtábla, illetőleg a Kúria küldte meg a bv. csoportnak, a bv. előadó a szabadságvesztés végrehajtási ügy előírási tételszámát átiratban közli az első fokú bírósággal.
 
-[^65]: A 22. § (1) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § f) pontja szerint módosított szöveg.
-[^66]: A 22. § (2) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § g) pontja szerint módosított szöveg.
-[^67]: A 22. § (3) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § h) pontja szerint módosított szöveg.
-[^68]: A 22. § (4) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § g) pontja szerint módosított szöveg.
-[^69]: A 22. § (5) bekezdése a 23/2003. (VI. 26.) IM rendelet 13. §-ával megállapított, a 41/2011. (XII. 30.) KIM rendelet 28. § a) bekezdése szerint módosított szöveg.
+[^75]: A 22. § (1) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § f) pontja szerint módosított szöveg.
+[^76]: A 22. § (2) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § g) pontja szerint módosított szöveg.
+[^77]: A 22. § (3) bekezdése az 57/2012. (XII. 28.) KIM rendelet 12. § h) pontja szerint módosított szöveg.
+[^78]: A 22. § (4) bekezdése a 41/2011. (XII. 30.) KIM rendelet 28. § g) pontja szerint módosított szöveg.
+[^79]: A 22. § (5) bekezdése a 23/2003. (VI. 26.) IM rendelet 13. §-ával megállapított, a 41/2011. (XII. 30.) KIM rendelet 28. § a) bekezdése szerint módosított szöveg.

@@ -12,4 +12,6 @@ d) korábbi életfelfogására, életvezetésére vonatkozó adatokat,
 
 e) és hogy az elítélt ellen van-e újabb büntetőeljárás folyamatban.
 
-(3) Ha a bv. bíró a rendelkezésre álló adatok alapján a feltételes szabadságra bocsátást engedélyező határozatában elrendeli az elítélt pártfogó felügyeletét [Btk. 48. § (3) bek.], szükség esetén külön magatartási szabályokat határoz meg.
+(3)[^239] Ha a bv. bíró a rendelkezésre álló adatok alapján a feltételes szabadságra bocsátást engedélyező határozatában elrendeli az elítélt pártfogó felügyeletét (Btk. 69. §), szükség esetén külön magatartási szabályokat határoz meg.
+
+[^239]: A 124. § (3) bekezdése a 9/2013. (VI. 29.) KIM rendelet 57. § 25. pontja szerint módosított szöveg.

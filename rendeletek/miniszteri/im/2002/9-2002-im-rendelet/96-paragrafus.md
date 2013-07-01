@@ -1,12 +1,8 @@
-## Végrehajtandó és részben felfüggesztett szabadságvesztés mellett kiszabott mellékbüntetés
+## kell megküldeni.
 
-96. § (1) A bíróság az értesítőlapot – mellékbüntetésenként külön-külön – két példányban állítja ki, ha a mellékbüntetést olyan szabadságvesztés mellett szabta ki,
+## Végrehajtandó szabadságvesztés mellett kiszabott közügyektől eltiltás
 
-a) amelynek a végrehajtását nem függesztette fel,
-
-b) amelynek a végrehajtását részben függesztette fel,
-
-c) amelyet az előzetes fogva tartással, illetve házi őrizettel kitöltöttnek vett, azonban a terhelt a határozat jogerőre emelkedésekor akár abban, akár más ügyben fogva van.
+96. § (1) A bíróság az értesítőlapot két példányban állítja ki, ha a közügyektől eltiltást olyan szabadságvesztés mellett szabta ki, amelyet az előzetes fogvatartással, illetve házi őrizettel kitöltöttnek vett, azonban a terhelt a határozat jogerőre emelkedésekor akár abban, akár más ügyben fogva van.
 
 (2) A bíróság az értesítőlap egyik példányát „I”, a másik példányát „II” jelzéssel látja el.
 

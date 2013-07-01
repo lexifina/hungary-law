@@ -1,5 +1,7 @@
-## 65–66. §[^136]
+## Pénzbüntetés átváltoztatása közérdekű munkára
 
-## A közérdekű munka végrehajtásának félbeszakítása
+## 67. § Pénzbüntetés közérdekű munkára átváltoztatása esetén a közérdekű munka végrehajtására vonatkozó rendelkezéseket a következő eltérésekkel kell alkalmazni:
 
-[^136]: A 65–66. §-t és az azt megelőző alcímet a 23/2003. (VI. 26.) IM rendelet 64. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+a) a bv. bíró a pénzbüntetést helyettesítő közérdekű munkáról kiállított értesítőlappal együtt az átváltoztató végzést megküldi a pártfogó felügyelői szolgálatnak,
+
+b) ha a közérdekű munka megkezdése előtt a BGH arról értesíti a bv. csoportot, hogy az elítélt a pénzbüntetést részben megfizette, a bv. bíró a közérdekű munkáról kiállított értesítőlapra – a részbeni megfizetésre tekintettel – vezet bírói rendelvényt.
