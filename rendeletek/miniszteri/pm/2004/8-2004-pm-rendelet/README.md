@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-8-20-53
 | 2012-07-01 | 2004-8-20-53.30 | 53/2011. (XII. 29.) NGM rendelet |
 | 2013-01-01 | 2004-8-20-53.31 | 52/2012. (XII. 29.) NGM rendelet |
 | 2013-06-28 | 2004-8-20-53.32 | 22/2013. (VI. 27.) NGM rendelet |
+| 2013-07-01 | 2004-8-20-53.33 | 22/2013. (VI. 27.) NGM rendelet |

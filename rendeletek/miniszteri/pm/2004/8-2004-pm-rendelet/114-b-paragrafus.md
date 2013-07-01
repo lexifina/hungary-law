@@ -1,4 +1,4 @@
-114/B. §[^553] (1)[^554] A Jöt. 57/C. § (2) bekezdés szerinti nyilvántartásba vételhez a kérelmet a 24/A. számú melléklet szerinti adattartalommal kell benyújtani a vámhatósághoz. A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező kérelmező a kérelmet angol, német vagy francia nyelven is benyújthatja.
+114/B. §[^559] (1)[^560] A Jöt. 57/C. § (2) bekezdés szerinti nyilvántartásba vételhez a kérelmet a 24/A. számú melléklet szerinti adattartalommal kell benyújtani a vámhatósághoz. A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező kérelmező a kérelmet angol, német vagy francia nyelven is benyújthatja.
 
 (2) Az (1) bekezdés szerinti kérelemhez csatolni kell
 
@@ -8,13 +8,13 @@ b) a Jöt. 57/C. § (1) bekezdés b) pontja szerinti telephely használati jogc�
 
 c) az adó-visszaigénylési jog érvényesítésével érintett kereskedelmi járművek forgalmi engedélyét, bérelt kereskedelmi jármű esetén a bérleti szerződést;
 
-d)[^555] a közúti árufuvarozási, illetve személyszállítási tevékenység folytatására jogosító engedélyt, saját számlás szállítás esetén a közúti áruszállítási vagy közúti személyszállítási igazolványt.
+d)[^561] a közúti árufuvarozási, illetve személyszállítási tevékenység folytatására jogosító engedélyt, saját számlás szállítás esetén a közúti áruszállítási vagy közúti személyszállítási igazolványt.
 
 e) – a Jöt. 57/C. § (1) bekezdés a) pontja szerinti esetben – az üzemanyagkártya használatára vonatkozó szerződést;
 
 f) pénzügyi képviselő alkalmazása esetén a pénzügyi képviselővel kötött szerződést.
 
-(3)[^556] A kérelmezőnek – a (4) bekezdésben foglalt eltéréssel – a (2) bekezdésben foglalt okiratokat, bizonylatokat elegendő másolatban a kérelemhez csatolni. A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező, kereskedelmi járművet üzemeltető személynek a (2) bekezdésben foglalt okiratok hiteles fordítását vagy azok rövid magyar nyelvű kivonatát is csatolni kell a kérelemhez, kivéve, ha az okiratok angol, német vagy francia nyelvűek.
+(3)[^562] A kérelmezőnek – a (4) bekezdésben foglalt eltéréssel – a (2) bekezdésben foglalt okiratokat, bizonylatokat elegendő másolatban a kérelemhez csatolni. A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező, kereskedelmi járművet üzemeltető személynek a (2) bekezdésben foglalt okiratok hiteles fordítását vagy azok rövid magyar nyelvű kivonatát is csatolni kell a kérelemhez, kivéve, ha az okiratok angol, német vagy francia nyelvűek.
 
 (4) A kérelmezőnek nem kell csatolnia a (2) bekezdés a), c)–d) pontja szerinti dokumentumokat, ha a Közösségi Vámkódexről szóló 1992. október 12-i 2913/92/EGK tanácsi rendelet 5a. cikke szerinti engedélyezett gazdálkodói tanúsítvánnyal (a továbbiakban: AEO tanúsítvány) rendelkezik. A kérelemnek tartalmaznia kell az AEO tanúsítvány számát.
 
@@ -22,14 +22,14 @@ f) pénzügyi képviselő alkalmazása esetén a pénzügyi képviselővel köt�
 
 (6) A vámhatóság a nyilvántartásba vételt, illetve a változások visszaigazolását a benyújtástól számított 15 napon belül teljesíti.
 
-(7)[^557] A Jöt. 57/C. §-ában meghatározott esetekben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
+(7)[^563] A Jöt. 57/C. §-ában meghatározott esetekben az adó-visszaigénylési (-levonási) jogosultság az alábbi okmányok birtokában érvényesíthető:
 
 a) a Jöt. 57/C. § (1) bekezdés a) pontja szerinti esetben a gázolaj adózottan történt beszerzését a beszerzés helye és időpontja szerint is részletező, az üzemanyagkártya kibocsátója által kiállított számla másolati példánya,
 
 b) a Jöt. 57/C. § (4) bekezdés b) pontja szerinti esetben az ott meghatározott kimutatás.
 
-[^553]: A 114/B. §-t a 18/2010. (XII. 30.) NGM rendelet 14. §-a iktatta be.
-[^554]: A 114/B. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^555]: A 114/B. § (2) bekezdés d) pontja az 52/2012. (XII. 29.) NGM rendelet 40. § (2) bekezdésével megállapított szöveg.
-[^556]: A 114/B. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 40. § (3) bekezdésével megállapított szöveg.
-[^557]: A 114/B. § (7) bekezdése az 52/2012. (XII. 29.) NGM rendelet 40. § (4) bekezdésével megállapított szöveg.
+[^559]: A 114/B. §-t a 18/2010. (XII. 30.) NGM rendelet 14. §-a iktatta be.
+[^560]: A 114/B. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^561]: A 114/B. § (2) bekezdés d) pontja az 52/2012. (XII. 29.) NGM rendelet 40. § (2) bekezdésével megállapított szöveg.
+[^562]: A 114/B. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^563]: A 114/B. § (7) bekezdése az 52/2012. (XII. 29.) NGM rendelet 40. § (4) bekezdésével megállapított szöveg.

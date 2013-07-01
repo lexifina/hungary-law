@@ -1,6 +1,6 @@
-## E85[^525]
+## E85[^531]
 
-111/A. §[^526] (1) Az E85 adómértékének megállapításához szükséges okmányok:
+111/A. §[^532] (1) Az E85 adómértékének megállapításához szükséges okmányok:
 
 a) a bioetanol gyártásához felhasznált etilalkohol alapanyagának mezőgazdasági eredetéről és Közösségben történt előállításáról
 
@@ -18,5 +18,5 @@ d) az E85 fenntarthatósági igazolása.
 
 (2) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes a Jöt. 52. § (7) bekezdése szerinti nyilatkozatot adóbevallásában teszi meg.
 
-[^525]: A 111/A. §-t megelőző alcímet a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 18/2010. (XII. 30.) NGM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^526]: A 111/A. §-t a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 22/2013. (VI. 27.) NGM rendelet 9. §-ával megállapított szöveg.
+[^531]: A 111/A. §-t megelőző alcímet a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 18/2010. (XII. 30.) NGM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^532]: A 111/A. §-t a 33/2006. (XII. 25.) PM rendelet 17. §-a iktatta be, szövege a 22/2013. (VI. 27.) NGM rendelet 9. §-ával megállapított szöveg.

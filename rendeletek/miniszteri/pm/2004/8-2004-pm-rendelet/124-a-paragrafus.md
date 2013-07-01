@@ -1,4 +1,4 @@
-124/A. §[^599] (1)[^600] Az elkobzott ásványolajtermékek a Jöt. 120. § (8) bekezdése szerinti átadását a hatósági felügyeletet ellátó vámszerv felügyelete mellett, hatósági tanú jelenlétében kell elvégezni.
+124/A. §[^605] (1)[^606] Az elkobzott ásványolajtermékek a Jöt. 120. § (8) bekezdése szerinti átadását a hatósági felügyeletet ellátó vámszerv felügyelete mellett, hatósági tanú jelenlétében kell elvégezni.
 
 (2) Az átadás-átvételről jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell
 
@@ -14,8 +14,8 @@ e) az átadó és az átvevő képviseletében eljáró személyek, hatósági t
 
 f) a felmerült költséget.
 
-(3)[^601] A Jöt. 120. § (8) bekezdésében foglalt elszámolás módját a NAV elnöke egyedileg határozza meg, illetve a NAV szerveinek történő átadás esetére belső rendelkezésben szabályozza.
+(3)[^607] A Jöt. 120. § (8) bekezdésében foglalt elszámolás módját a NAV elnöke egyedileg határozza meg, illetve a NAV szerveinek történő átadás esetére belső rendelkezésben szabályozza.
 
-[^599]: A 124/A. §-t a 20/2006. (VIII. 30.) PM rendelet 4. §-a iktatta be.
-[^600]: A 124/A. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
-[^601]: a 124/A. § (3) bekezdése a 22/2013. (VI. 27.) NGM rendelet 10. §-ával megállapított szöveg.
+[^605]: A 124/A. §-t a 20/2006. (VIII. 30.) PM rendelet 4. §-a iktatta be.
+[^606]: A 124/A. § (1) bekezdése a 17/2011. (IV. 19.) NGM rendelet 56. § (2) bekezdése szerint módosított szöveg.
+[^607]: a 124/A. § (3) bekezdése a 22/2013. (VI. 27.) NGM rendelet 10. §-ával megállapított szöveg.
