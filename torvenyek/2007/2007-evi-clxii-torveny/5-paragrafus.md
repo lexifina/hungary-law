@@ -1,3 +1,0 @@
-5. § A Btk. 214/A. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Aki az Európai Unió tagállama, az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam területén való jogellenes tartózkodáshoz, amelynek állampolgára az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, vagyoni haszonszerzés végett olyan külföldinek nyújt segítséget, aki nem rendelkezik ezen államok valamelyikének állampolgárságával, ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.”

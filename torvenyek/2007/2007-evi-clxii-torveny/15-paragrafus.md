@@ -1,3 +1,0 @@
-15. § A Btk. 303/C. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A 303. § és a 303/A. § alkalmazásában pénzügyi tevékenységen, illetve pénzügyi szolgáltatás igénybevételén a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási vagy befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap- kezelési, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél, vagy biztosítási, viszontbiztosítási vagy független biztosításközvetítői, illetve önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíjszolgáltatási tevékenységet, illetve annak igénybevételét kell érteni.”
