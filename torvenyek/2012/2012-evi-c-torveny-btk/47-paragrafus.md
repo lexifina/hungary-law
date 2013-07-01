@@ -2,7 +2,7 @@
 
 47. § (1) A közérdekű munka tartamát órákban kell meghatározni, annak legkisebb mértéke negyvennyolc, legnagyobb mértéke háromszáztizenkettő óra.
 
-(2) A közérdekű munkát az elítélt, ha törvény eltérően nem rendelkezik, hetente egy napon – a heti pihenőnapon vagy a szabadidejében –, díjazás nélkül végzi.
+(2) A közérdekű munkát az elítélt, ha törvény eltérően nem rendelkezik, hetente legalább egy napon – a heti pihenőnapon vagy a szabadidejében –, díjazás nélkül végzi.
 
 (3) A bíróság ítéletében a közérdekű munka jellegéről rendelkezik.
 

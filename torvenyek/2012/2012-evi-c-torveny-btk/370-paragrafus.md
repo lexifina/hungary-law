@@ -14,19 +14,19 @@ b) a szabálysértési értékre elkövetett lopást
 
 ba) bűnszövetségben,
 
-bb) közveszély színhelyén,
+bb) üzletszerűen,
 
-bc) üzletszerűen,
+bc) dolog elleni erőszakkal – ideértve azt is, ha a dolog eltulajdonításának megakadályozására szolgáló eszközt állagsérelem okozása nélkül eltávolítják, vagy a dolog eltulajdonításának megakadályozására alkalmatlanná teszik –,
 
-bd) dolog elleni erőszakkal – ideértve azt is, ha a dolog eltulajdonításának megakadályozására szolgáló eszközt állagsérelem okozása nélkül eltávolítják, vagy a dolog eltulajdonításának megakadályozására alkalmatlanná teszik –,
+bd) zsebtolvajlás útján,
 
-be) zsebtolvajlás útján,
+be) egy vagy több közokirat, magánokirat vagy készpénz-helyettesítő fizetési eszköz egyidejű elvételével,
 
 bf) helyiségbe vagy ehhez tartozó bekerített helyre megtévesztéssel, vagy a jogosult, illetve a használó tudta és beleegyezése nélkül bemenve,
 
 bg) hamis vagy lopott kulcs használatával,
 
-bh) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére, vagy
+bh) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére vagy
 
 bi) erdőben jogellenes fakivágással
 
@@ -34,7 +34,7 @@ követik el.
 
 (3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
 
-a) a lopást nagyobb értékre vagy
+a) a lopást nagyobb értékre,
 
 b) a kisebb értékre elkövetett lopást
 
@@ -46,7 +46,9 @@ bc) vallási tisztelet tárgyára,
 
 bd) holttesten lévő tárgyra, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyra,
 
-be) nemesfémre
+be) nemesfémre vagy
+
+c) a lopást szabálysértési vagy kisebb értékre közveszély színhelyén
 
 követik el.
 
@@ -54,7 +56,7 @@ követik el.
 
 a) a lopást jelentős értékre vagy
 
-b) a nagyobb értékre elkövetett lopást a (2) bekezdés ba)–be) pontjában meghatározott valamely módon
+b) a nagyobb értékre elkövetett lopást a (2) bekezdés ba)–be) pontjában meghatározott valamely módon vagy közveszély színhelyén
 
 követik el.
 
@@ -62,7 +64,7 @@ követik el.
 
 a) a lopást különösen nagy értékre vagy
 
-b) a jelentős értékre elkövetett lopást a (2) bekezdés ba)–be) pontjában meghatározott valamely módon
+b) a jelentős értékre elkövetett lopást a (2) bekezdés ba)–be) pontjában meghatározott valamely módon vagy közveszély színhelyén
 
 követik el.
 
@@ -70,6 +72,6 @@ követik el.
 
 a) a lopást különösen jelentős értékre vagy
 
-b) a különösen nagy értékre elkövetett lopást a (2) bekezdés ba)–be) pontjában meghatározott valamely módon
+b) a különösen nagy értékre elkövetett lopást a (2) bekezdés ba)–be) pontjában meghatározott valamely módon vagy közveszély színhelyén
 
 követik el.

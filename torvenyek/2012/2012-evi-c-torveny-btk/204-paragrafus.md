@@ -6,7 +6,7 @@ a) megszerez vagy tart, bűntett miatt három évig,
 
 b) készít, kínál, átad vagy hozzáférhetővé tesz, egy évtől öt évig,
 
-c) forgalomba hoz, azzal kereskedik, illetve ilyen felvételt a nagy nyilvánosság számára hozzáférhetővé tesz, vagy ezekhez anyagi eszközöket szolgáltat, két évtől nyolc évig
+c) forgalomba hoz, azzal kereskedik, illetve ilyen felvételt a nagy nyilvánosság számára hozzáférhetővé tesz, két évtől nyolc évig
 
 terjedő szabadságvesztéssel büntetendő.
 
@@ -26,7 +26,7 @@ terjedő szabadságvesztéssel büntetendő.
 
 a) tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf felvételen való szereplésre felhív,
 
-b) olyan pornográf műsoron vesz részt, amelyben tizennyolcadik életévét be nem töltött személy szerepel,
+b) olyan pornográf műsoron vesz részt, amelyben tizennyolcadik életévét be nem töltött személy szerepel vagy ilyen személyek szerepelnek,
 
 c) tizennyolcadik életévét be nem töltött személy vagy személyek pornográf műsorban való szerepeltetéséhez anyagi eszközöket szolgáltat.
 

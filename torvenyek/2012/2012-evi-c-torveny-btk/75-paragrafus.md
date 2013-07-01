@@ -6,6 +6,12 @@ b) ha a 74. § (1) bekezdése alapján vagyonelkobzás alá eső vagyon az egyé
 
 c) a 74. § (5) bekezdés b) pontjában meghatározott esetben.
 
-(2) A vagyonelkobzást akkor is el kell rendelni, ha az elkövető gyermekkor, kóros elmeállapot, vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető, illetve ha az elkövetőt megrovásban részesítették.
+(2) A vagyonelkobzást akkor is el kell rendelni, ha
+
+a) az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
+
+b) ha az elkövetőt megrovásban részesítették,
+
+c) az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
 
 (3) Az elkobzott vagyon törvény eltérő rendelkezése hiányában az államra száll.

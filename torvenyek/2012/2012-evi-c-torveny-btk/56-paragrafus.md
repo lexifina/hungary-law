@@ -1,6 +1,6 @@
 56. § (1) A járművezetéstől eltiltás határozott ideig tart, vagy végleges hatályú.
 
-(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartama az elkövető vezetői engedélyét – a járművezetéstől eltiltásra ítélését megelőzően – a bűncselekménnyel összefüggésben a helyszínen elvették, vagy azt a hatóságnál leadta.
+(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az elkövető vezetői engedélyét – a járművezetéstől eltiltásra ítélését megelőzően – a bűncselekménnyel összefüggésben a helyszínen elvették, vagy azt a hatóságnál leadta.
 
 (3) A határozott ideig tartó eltiltás legrövidebb tartama egy hónap, leghosszabb tartama tíz év. A járművezetéstől eltiltást hónapokban vagy években, illetve években és hónapokban kell meghatározni.
 

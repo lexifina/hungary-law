@@ -2,9 +2,9 @@
 
 393. § (1) Aki
 
-a) olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, vagy amelynek a használatára nem vagy nem kizárólagosan jogosult, mástól, annak beleegyezése nélkül, jogtalanul megszerez,
+a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, vagy amelynek a használatára nem vagy nem kizárólagosan jogosult, mástól, annak beleegyezése nélkül, jogtalanul elvesz vagy megszerez,
 
-b) hamis vagy meghamisított, az a) pontban meghatározott módon megszerzett készpénz-helyettesítő fizetési eszközt, vagy az elektronikus készpénz-helyettesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket átad, megszerez, az ország területére behoz, onnan kivisz, vagy azon átszállít,
+b) hamis vagy meghamisított, az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt, vagy az elektronikus készpénz-helyettesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket átad, megszerez, az ország területére behoz, onnan kivisz, vagy azon átszállít,
 
 vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 

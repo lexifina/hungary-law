@@ -10,7 +10,7 @@ c) nemesfémen a nemesfém ötvözetét vagy a fémkereskedelmi engedélykötele
 
 d) a különös visszaesés szempontjából hasonló jellegű bűncselekmény:
 
-da) az erőszakos vagyon elleni,
+da) a vagyon elleni erőszakos,
 
 db) a vagyon elleni,
 

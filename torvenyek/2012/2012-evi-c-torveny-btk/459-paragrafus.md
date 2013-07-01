@@ -64,9 +64,11 @@ h) az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-
 
 i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja,
 
-j) a Magyar Honvédség állományilletékes parancsnoka, és a hajó vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
+j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
 
-k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, minisztériumnál, autonóm államigazgatási szervnél, kormányhivatalnál, központi hivatalnál, önálló szabályozó szervnél, rendvédelmi szervnél, a Katonai Nemzetbiztonsági Szolgálatnál, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél, megyei intézményfenntartó központnál vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik;
+k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, minisztériumnál, autonóm államigazgatási szervnél, kormányhivatalnál, központi hivatalnál, önálló szabályozó szervnél, rendvédelmi szervnél, a Katonai Nemzetbiztonsági Szolgálatnál, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél, megyei intézményfenntartó központnál vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+
+l) a választási bizottság tagja;
 
 12. közfeladatot ellátó személy:
 
@@ -84,7 +86,7 @@ f) az egészségügyi dolgozó és az egészségügyi szolgáltatóval munkavég
 
 g) az állami mentőszolgálat, valamint a mentésre feljogosított más szervezet tagja a mentéssel és betegszállítással összefüggésben,
 
-h) az önkéntes és a létesítményi tűzoltóság, valamint a tűzoltó-egyesület tagja a tűzoltási és műszaki mentési feladatainak ellátása során,
+h) az önkormányzati és a létesítményi tűzoltóság, valamint az önkéntes tűzoltó egyesület tagja a tűzoltási és műszaki mentési feladatainak ellátása során,
 
 i) a nemzeti köznevelésről szóló törvényben meghatározott esetben a pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott, továbbá a nemzeti felsőoktatásról szóló törvényben meghatározott esetben a felsőoktatási intézmény oktatója, tanára és tudományos kutatója,
 

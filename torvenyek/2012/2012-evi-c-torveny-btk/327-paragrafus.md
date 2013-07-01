@@ -32,14 +32,14 @@ követik el.
 
 (5) E § alkalmazásában – ha a nemzetközi jogi kötelezettség alapján a kötelezettséget, illetve tilalmat kihirdető jogszabály eltérően nem rendelkezik –
 
-a) pénzeszközön az Iránnal szembeni korlátozó intézkedésekről és a 423/2007/EK rendelet hatályon kívül helyezéséről szóló 961/2010/EU rendelet (a bekezdés alkalmazásában a továbbiakban: 961/2010/EU rendelet) 1. cikk. j) pontjában meghatározott eszközöket,
+a) pénzeszközön az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet (e bekezdés alkalmazásában a továbbiakban: 267/2012/EU rendelet) 1. cikk l) pontjában meghatározott eszközöket,
 
-b) pénzeszközök zárolásán a 961/2010/EU rendelet 1. cikk i) pontjában meghatározottakat,
+b) pénzeszközök zárolásán a 267/2012/EU rendelet 1. cikk k) pontjában meghatározottakat,
 
-c) gazdasági forráson a 961/2010/EU rendelet 1. cikk. f) pontjában meghatározott eszközöket,
+c) gazdasági forráson a 267/2012/EU rendelet 1. cikk h) pontjában meghatározott eszközöket,
 
-d) gazdasági források zárolásán a 961/2010/EU rendelet 1. cikk h) pontjában meghatározott eszközöket,
+d) gazdasági források zárolásán a 267/2012/EU rendelet 1. cikk j) pontjában meghatározott eszközöket,
 
-e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 1236/2005/EK rendelet (e fejezet alkalmazásában a továbbiakban: 1236/2005/EK rendelet) II. mellékletében meghatározott árut
+e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 2005. június 27-i 1236/2005/EK tanácsi rendelet (e fejezet alkalmazásában a továbbiakban: 1236/2005/EK rendelet) II. mellékletében meghatározott árut
 
 kell érteni.

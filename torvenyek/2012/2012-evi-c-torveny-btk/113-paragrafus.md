@@ -12,4 +12,6 @@ b) szabadságvesztésre
 
 kell átváltoztatni.
 
-(4) A behajthatatlan pénzbüntetés helyébe lépő közérdekű munkát úgy kell megállapítani, hogy egynapi tétel helyébe egynapi közérdekű munka lép. Ha a fiatalkorú a számára meghatározott munkát önhibájából nem végzi el, a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre kell átváltoztatni.
+(4) A pénzbüntetés helyébe lépő közérdekű munkát úgy kell megállapítani, hogy egy napi tétel helyébe két óra közérdekű munka lép. Egyebekben a pénzbüntetés helyébe lépő közérdekű munkára a 47. §-ban foglaltak irányadóak azzal, hogy annak tartama eltérhet a 47. § (1) bekezdésében meghatározottaktól.
+
+(5) Ha a fiatalkorú a munkakötelezettségének önként nem tesz eleget, a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre kell átváltoztatni. Egyebekben a 48. §-ban foglaltak irányadóak.

@@ -10,6 +10,6 @@
 
 (6) Ha az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás legkorábbi időpontjának elhalasztására az (1), (2), (4) és (5) bekezdés szerinti határozott tartamú szabadságvesztés miatt kerül sor, a feltételes szabadságra bocsátás legkorábbi időpontját a határozott tartamú szabadságvesztésbe beszámított előzetes fogva tartás, valamint házi őrizet idejének figyelembevételével kell megállapítani.
 
-(7) A bíróság az életfogytig tartó szabadságvesztésre ítéltet akkor bocsáthatja feltételes szabadságra, ha a szabadságvesztésből az elítélt letöltötte a bíróság által meghatározott időtartamot, és alaposan feltehető, hogy a büntetés célja további szabadságelvonás nélkül is elérhető.
+(7) Nem bocsátható feltételes szabadságra az elítélt, ha ismételten életfogytig tartó szabadságvesztésre ítélik. Ha a korábbi életfogytig tartó szabadságvesztést még nem hajtották végre, az ismételten kiszabott életfogytig tartó szabadságvesztés nem hajtható végre.
 
-(8) Nem bocsátható feltételes szabadságra az elítélt, ha ismételten életfogytig tartó szabadságvesztésre ítélik. Ha a korábbi életfogytig tartó szabadságvesztést még nem hajtották végre, az ismételten kiszabott életfogytig tartó szabadságvesztés nem hajtható végre.
+(8)

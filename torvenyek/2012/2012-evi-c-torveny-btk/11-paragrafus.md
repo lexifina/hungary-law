@@ -10,4 +10,4 @@ b) aki az elkövetés elhárítása céljából korábbi felhívását, ajánlko
 
 c) aki az előkészületet a hatóságnál a bűncselekmény elkövetésének megkezdése előtt feljelenti.
 
-(3) Ha az (1) bekezdésben meghatározott esetben az előkészület már önmagában is megvalósít más bűncselekményt, az elkövető e bűncselekmény miatt büntethető.
+(3) Ha a (2) bekezdésben meghatározott esetben az előkészület már önmagában is megvalósít más bűncselekményt, az elkövető e bűncselekmény miatt büntethető.

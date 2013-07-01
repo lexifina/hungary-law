@@ -1,12 +1,12 @@
 ## Okirattal visszaélés
 
-346. § (1) Aki olyan közokiratot, amely nem vagy nem kizárólag a sajátja,
+346. § (1) Aki egy vagy több olyan közokiratot, amely nem vagy nem kizárólag a sajátja,
 
 a) mástól, annak beleegyezése nélkül jogtalanul megszerez,
 
 b) jogtalanul megsemmisít, megrongál, vagy
 
-c) a jogosult elől jogtalanul elvon, elvesz vagy eltitkol,
+c) mástól jogtalanul elvesz, vagy a jogosult elől jogtalanul eltitkol,
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
