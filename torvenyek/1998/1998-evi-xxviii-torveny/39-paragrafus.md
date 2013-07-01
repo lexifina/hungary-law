@@ -15,3 +15,5 @@ c) az állatgondozók rendelkeznek szakirányú képzettséggel;
 d) alapítói nyilatkozat a tartós működtetéshez szükséges vagyoni fedezet meglétéről.
 
 (3) Az állatkert létesítése iránt benyújtott kérelemhez csatolni kell az állattartási szabályzatot.
+
+(4) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
