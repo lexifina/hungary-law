@@ -19,3 +19,7 @@ f) a vizsgálói jogosultság felfüggesztésének és törlésének tényét,
 g) a hatósági szerződés megszüntetésének, a vizsgálói jogosultság felfüggesztésének és törlésének alapjául szolgáló jogerős bírósági vagy más hatósági határozat számát,
 
 h) a nyilvántartásba való bejegyzés, törlés időpontját.
+
+(3)[^6] Az (1) bekezdés szerinti nyilvántartás a (2) bekezdésben meghatározott adatok tekintetében a – természetes személyazonosító adatok és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+[^6]: A 8. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 19. § (1) bekezdése iktatta be.

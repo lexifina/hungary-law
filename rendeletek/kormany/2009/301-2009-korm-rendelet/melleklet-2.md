@@ -64,7 +64,7 @@ Ismernie kell:
 
 – az iratkezelés, irattározás szabályait,
 
-–[^10] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+–[^12] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
 
 – az okmányokkal kapcsolatos jogosultságokat.
 
@@ -144,4 +144,4 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^10]: A 2. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
