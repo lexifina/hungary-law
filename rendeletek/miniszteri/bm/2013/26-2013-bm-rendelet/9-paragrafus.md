@@ -1,0 +1,37 @@
+9. § (1) Amennyiben az ajánlott elemek alkalmazásának mellőzéséről döntöttek, a kötelező elemek és a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszintet az egyéni teljesítményszint meghatározásakor a (2)–(5) bekezdés szerinti súlyozott értékekkel kell figyelembe venni.
+
+(2) Az országos parancsnok, a területi és helyi szerv vezetője, valamint ezek szervezetszerű helyettesi beosztást ellátó értékelt személy esetén az egyes elemek súlyozása:
+
+a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 25%,
+
+b) a teljesítményértékelés kötelező elemeként meghatározott kompetencia alapú munkamagatartás értékelési tényezők: 25%,
+
+c) a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszint: 50%.
+
+(3) A (2) bekezdésben nem említett vezető értékelt személy esetén az egyes elemek súlyozása:
+
+a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 35%,
+
+b) a teljesítményértékelés kötelező elemeként meghatározott kompetencia alapú munkamagatartás értékelési tényezők: 25%,
+
+c) a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszint: 40%.
+
+(4) Az I. besorolási osztályba tartozó beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
+
+a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 40%,
+
+b) a teljesítményértékelés kötelező elemeként meghatározott kompetencia alapú munkamagatartás értékelési tényezők: 35%,
+
+c) a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszint: 25%.
+
+(5) A II. besorolási osztályba tartozó beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
+
+a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 40%,
+
+b) a teljesítményértékelés kötelező elemeként meghatározott kompetencia alapú munkamagatartás értékelési tényezők: 40%,
+
+c) a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszint: 20%.
+
+(6) A (4)–(5) bekezdés szerint értékelt személyek esetén a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszintként 1/3-ad részben a beosztása szerinti szervezeti elem teljesítményértékelésének eredményét kell figyelembe venni.
+
+(7) A vezényelt vonatkozásában végrehajtott teljesítményértékelés során a szervezeti teljesítmény értékét – súlyszám hiányában – egyenlő arányban el kell osztani a munkaköri egyéni teljesítménykövetelmények és a kompetencia alapú munkamagatartás értékelése között.
