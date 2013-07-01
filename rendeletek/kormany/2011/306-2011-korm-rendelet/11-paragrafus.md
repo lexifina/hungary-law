@@ -1,1 +1,0 @@
-## 10. § Az ajánlatkérőként szerződő fél vagy a nevében eljáró személy (szervezet) a szerződés teljesítése során az építési napló adatai alapján köteles ellenőrizni, hogy a teljesítésben a Kbt. 128. § (2)–(3) bekezdésében foglaltaknak megfelelő alvállalkozó vesz részt.

@@ -1,4 +1,4 @@
-14. § (1) Az ajánlatkérőként szerződő fél, vagy – európai uniós támogatás esetén szállítói kifizetés során – a kifizetésre köteles szervezet (e § alkalmazásában a továbbiakban együtt: ajánlatkérőként szerződő fél), amennyiben az ajánlattevőként szerződő fél a teljesítéshez alvállalkozót vesz igénybe, a Kbt. 130. § (3) bekezdésétől eltérően a következő szabályok szerint köteles az ellenszolgáltatást teljesíteni:
+14. § (1)[^8] Az ajánlatkérőként szerződő fél, vagy – európai uniós támogatás esetén szállítói kifizetés során – a kifizetésre köteles szervezet (e § alkalmazásában a továbbiakban együtt: ajánlatkérőként szerződő fél), amennyiben az ajánlattevőként szerződő fél a teljesítéshez alvállalkozót vesz igénybe, a Ptk. 292/B. § (1) bekezdésétől eltérően a következő szabályok szerint köteles az ellenszolgáltatást teljesíteni:
 
 a) az ajánlattevőként szerződő felek legkésőbb a teljesítés elismerésének időpontjáig kötelesek nyilatkozatot tenni az ajánlatkérőnek, hogy közülük melyik mekkora összegre jogosult az ellenszolgáltatásból;
 
@@ -18,8 +18,11 @@ h) ha az ajánlattevőként szerződő felek valamelyike az e) vagy az f) pont s
 
 i) részben vagy egészben európai uniós támogatásból megvalósított közbeszerzés esetén a d) pont szerinti határidő harminc nap.
 
-(2) A felek kizárólag az (1) bekezdés g) pontja szerinti ellenszolgáltatás halasztott teljesítésében állapodhatnak meg a Kbt. 130. § (4) bekezdésének megfelelően. Az Art. 36/A. § (3) bekezdését az ajánlattevőként szerződő féllel szemben csak az (1) bekezdés g) pontja szerinti összegre lehet alkalmazni.
+(2)[^9] A felek kizárólag az (1) bekezdés g) pontja szerinti ellenszolgáltatás halasztott teljesítésében állapodhatnak meg a Ptk. 292/B. § (2) bekezdésének megfelelően. Az Art. 36/A. § (3) bekezdését az ajánlattevőként szerződő féllel szemben csak az (1) bekezdés g) pontja szerinti összegre lehet alkalmazni.
 
 (3) Ha az ellenszolgáltatást több részletben teljesíti az ajánlatkérőként szerződést kötő fél, minden részlettel kapcsolatban alkalmazni kell az (1)–(2) bekezdést.
 
 (4) Ha a közbeszerzési szerződés teljesítése érdekében a nyertes ajánlattevő (ajánlattevők) projekttársaságot hoztak létre, e § alkalmazásában a nyertes ajánlattevőként szerződő fél alatt a projekttársaságot kell érteni.
+
+[^8]: A 14. § (1) bekezdés nyitó szövegrésze a 238/2013. (VI. 30.) Korm. rendelet 3. § (4) bekezdés 1. pontja szerint módosított szöveg.
+[^9]: A 14. § (2) bekezdése a 238/2013. (VI. 30.) Korm. rendelet 3. § (4) bekezdés 2. pontja szerint módosított szöveg.
