@@ -1,6 +1,6 @@
 ## 1. Általános rendelkezések
 
-1. § (1) E rendelet hatálya – a (2) bekezdésben foglaltak kivételével – az építésügy, a településfejlesztés- és rendezés körébe tartozóan kiterjed:
+1. § (1)[^1] E rendelet hatálya – a (2) bekezdésben foglaltak kivételével – az építésügy, a településfejlesztés- és rendezés körébe tartozóan kiterjed:
 
 a) az e rendelet hatálybalépése előtt az építésügy, a településfejlesztés és -rendezés körébe tartozó dokumentációk központi nyilvántartásáról szóló 277/2008. (XI. 24.) Korm. rendelettel a Dokumentációs Központ részére átadni vagy szolgáltatni rendelt adatok, dokumentációk, tervtárak (ideértve a bauxitbeton és martinsalak felhasználásával készült építményekre vonatkozó nyilvántartásokat és dokumentációkat, és az önkéntesen átadott dokumentációkat, gyűjteményeket, dokumentumtárakat is),
 
@@ -32,9 +32,11 @@ n) az építési napló és mellékletei,
 
 o) az épület ingatlan-nyilvántartási feltüntetéséhez a vonatkozó jogszabályi előírások szerint szükséges, hatályos földhivatali záradékkal ellátott változási vázrajz (a továbbiakban: épület-feltüntetési vázrajz),
 
-p) a régészeti és a műemléki védelem alatt álló ingatlanok, területek – külön jogszabály szerinti – nyilvántartási adatai
+p) a régészeti és a műemléki védelem alatt álló ingatlanok, területek – külön jogszabály szerinti – nyilvántartási adatai,
 
-## [a továbbiakban az a)–o) pont együtt: dokumentációk] kezelésére, az építésügy körébe tartozó tevékenységekkel összefüggő adatokra, azok átadására, kezelésére, továbbá az építésügy körébe tartozó hatósági és szakmai tevékenységeket kiszolgáló központi elektronikus alkalmazások és adatállományok működésére és működtetésére.
+q)[^2] az Étv. 58. § (11) bekezdése szerinti értesítés
+
+## [a továbbiakban az a)–q) pont együtt: dokumentációk] kezelésére, az építésügy körébe tartozó tevékenységekkel összefüggő adatokra, azok átadására, kezelésére, továbbá az építésügy körébe tartozó hatósági és szakmai tevékenységeket kiszolgáló központi elektronikus alkalmazások és adatállományok működésére és működtetésére.
 
 (2) E rendelet hatálya nem terjed ki
 
@@ -55,3 +57,6 @@ g) a távhőszolgáltatásról szóló törvény szerinti távhő-szolgáltatás
 h) a vasúti pálya, a vasút egyéb helyhez kötött létesítményei és berendezései, a sikló, a függőpálya, a távolsági szalagpálya és a sífelvonó,
 
 i) a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 13. § (2) bekezdés a)–j) pontjában meghatározott sajátos építményfajták
+
+[^1]: Az 1. § (1) bekezdés záró szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés q) pontját a 109/2013. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
