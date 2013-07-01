@@ -6,6 +6,6 @@
 
 (3) Ha a betanulás ideje alatt az elítélt az érvényes norma szerinti 85 százalékos teljesítményt eléri, ettől az időponttól a teljesítménye alapján kell díjazni.
 
-(4)[^116] A tanulóidő tartamára a tartási költséghez való hozzájárulást arányosan csökkenteni kell.
+(4)[^119] A tanulóidő tartamára a tartási költséghez való hozzájárulást arányosan csökkenteni kell.
 
-[^116]: A 126. § (4) bekezdését a 18/2002. (XI. 30.) IM rendelet 36. §-a iktatta a szövegbe.
+[^119]: A 126. § (4) bekezdését a 18/2002. (XI. 30.) IM rendelet 36. §-a iktatta a szövegbe.

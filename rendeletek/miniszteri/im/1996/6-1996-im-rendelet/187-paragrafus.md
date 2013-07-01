@@ -1,8 +1,8 @@
-## 186. §[^163]
+## 186. §[^168]
 
 187. § (1) A szabadságvesztés félbeszakítását az engedélyező megszünteti, ha a tudomására jut, hogy
 
-a) az elítélttel szemben a félbeszakítás tartama alatt elkövetett bűncselekmény miatt büntetőeljárás indult, vagy újabb szabadságvesztés végrehajtásáról érkezik értesítés;
+a)[^169] az elítélttel szemben a félbeszakítás tartama alatt elkövetett bűncselekmény miatt büntetőeljárás indult, illetve újabb szabadságvesztés vagy elzárás végrehajtásáról érkezik értesítés;
 
 b) az elítéltet más ügyben előzetes letartóztatásba helyezték;
 
@@ -12,4 +12,5 @@ c) a félbeszakítás indoka az engedélyezett határidő letelte előtt megszű
 
 (3) A félbeszakítás megszüntetéséről az elítéltet írásban haladéktalanul tájékoztatni kell, és fel kell szólítani, hogy a megadott időpontban az intézetben jelentkezzen.
 
-[^163]: A 186. §-t a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^168]: A 186. §-t a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^169]: A 187. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 9. §-ával megállapított szöveg.

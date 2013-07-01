@@ -1,3 +1,5 @@
-160. § (1) A nem dolgozó elítélt nyugellátásából – ha azt az intézetbe folyósítják – a hozzájárulás összegét le kell vonni.
+160. §[^137] (1) A nem dolgozó elítélt nyugellátásából, korhatár előtti ellátásából, szolgálati járandóságából – ha azt az intézetbe folyósítják – a hozzájárulás összegét le kell vonni.
 
-(2) Ha a nyugellátásban részesülő elítélt dolgozik, a hozzájárulást a munkadíjából kell levonni.
+(2) Ha a nyugellátásban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő elítélt dolgozik, a hozzájárulást a munkadíjból kell levonni.
+
+[^137]: A 160. § a 9/2013. (VI. 29.) KIM rendelet 7. §-ával megállapított szöveg.

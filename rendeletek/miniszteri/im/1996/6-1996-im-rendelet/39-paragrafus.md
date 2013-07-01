@@ -1,4 +1,4 @@
-39. § (1)[^50] Az elhelyezés során
+39. § (1)[^53] Az elhelyezés során
 
 a) a különböző végrehajtási fokozatba tartozókat egymástól,
 
@@ -16,9 +16,9 @@ f) a dohányzókat a nem dohányzóktól
 
 (2) Jogszabály az (1) bekezdésben foglaltakon túl, az elkülönítés egyéb szempontjait is meghatározhatja.
 
-(3)[^51]
+(3)[^54]
 
 (4) Az elkülönítést külön körleten, ennek elkülönített részén, illetve külön zárkában vagy lakóhelyiségben kell végrehajtani.
 
-[^50]: A 39. § (1) bekezdés f) pontját a 41/2011. (XII. 30.) KIM rendelet 3. §-a iktatta be.
-[^51]: A 39. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^53]: A 39. § (1) bekezdés f) pontját a 41/2011. (XII. 30.) KIM rendelet 3. §-a iktatta be.
+[^54]: A 39. § (3) bekezdését a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.

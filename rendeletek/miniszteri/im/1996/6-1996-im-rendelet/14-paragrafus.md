@@ -2,7 +2,7 @@
 
 14. § (1) Ha a bíróság felhívására az elítélt az illetékes megyei (fővárosi) intézet hivatali idejében jelentkezik, az intézet
 
-a)[^13] haladéktalanul megkéri az illetékes bíróságtól a bírói értesítést, az ítéletkiadmányt, a foglalkozásról eltiltásról, járművezetéstől eltiltásról, kiutasításról, illetve mellékbüntetésről szóló értesítést;
+a)[^14] haladéktalanul megkéri az illetékes bíróságtól a bírói értesítést, az ítéletkiadmányt, a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról, illetve közügyektől eltiltásról szóló értesítést;
 
 b) az elítéltet ellátja hitelezett utazási igazolvánnyal és útba indítja a végrehajtásra kijelölt intézetbe;
 
@@ -16,7 +16,7 @@ d) tájékoztatja az elítéltet a jelentkezési kötelezettségéről és a kö
 
 (4) Az elítélt nem indítható útba, és az intézetbe be kell fogadni, ha
 
-a) a várható szabadulásáig hátralévő idő a hatvan napot nem haladja meg;
+a)[^15] a várható szabadulásáig hátralévő idő a kilencven napot nem haladja meg;
 
 b) olyan betegségben szenved, amely az utazást akadályozza;
 
@@ -34,4 +34,5 @@ h) az utazást nem vállalja, vagy alapos okból feltételezhető, hogy a jelent
 
 i) a bíróság vagy az ügyész a szabadságvesztés ideiglenes foganatbavételét rendelte el.
 
-[^13]: A 14. § (1) bekezdés a) pontja a 11/2010. (III. 31.) IRM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 14. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^15]: A 14. § (4) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 17. § a) pontja szerint módosított szöveg.

@@ -1,26 +1,28 @@
-## A szabadságvesztés mellett kiszabott foglalkozástól eltiltással, járművezetéstől eltiltással, kiutasítással, közügyektől eltiltással és kitiltással kapcsolatos rendelkezések[^189]
+## A szabadságvesztés mellett kiszabott foglalkozástól eltiltással, járművezetéstől eltiltással, kitiltással, sportrendezvények látogatásától való eltiltással, kiutasítással és közügyektől eltiltással kapcsolatos rendelkezések[^197]
 
-203. §[^190] (1) A szabadítás napján a foglalkozástól eltiltásról, járművezetéstől eltiltásról, közügyektől eltiltásról vagy kitiltásról kiállított II. jelzésű értesítőlapot meg kell küldeni:
+203. §[^198] (1) A szabadítás napján a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról vagy közügyektől eltiltásról kiállított II. jelzésű értesítőlapot meg kell küldeni:
 
 a) közügyektől eltiltás és foglalkozástól eltiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye szerinti rendőrkapitányságnak,
 
 b) kitiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye szerinti rendőrkapitányságnak, továbbá a kitiltással érintett helység szerint illetékes rendőrkapitányságnak,
 
-c)[^191] járművezetéstől eltiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal).
+c) járművezetéstől eltiltás esetén az elítélt lakóhelye, ennek hiányában tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal),
 
-(2) Az (1) bekezdés szerinti értesítésen fel kell tüntetni a szabadulás napját és jogcímét és a foglalkozástól eltiltásba, járművezetéstől eltiltásba, közügyektől eltiltásba vagy kitiltásba beszámítható vagy nem beszámítható időket.
+d) sportrendezvények látogatásától való eltiltás esetén a rendőrség sportrendészeti nyilvántartást vezető szervének.
 
-(3) Ha a fogva tartott a szabadságvesztést követően előzetes letartóztatás, pénzbüntetést vagy közérdekű munkát helyettesítő szabadságvesztés végrehajtása miatt marad fogva, az intézet a szabadságvesztés letöltése után haladéktalanul megküldi az (1) bekezdésben meghatározott illetékes hatóságnak az értesítést és a végrehajtandó foglalkozástól eltiltásról, járművezetéstől eltiltásról, közügyektől eltiltásról vagy kitiltásról szóló II. jelzésű értesítőlapot.
+(2) Az intézet a kiutasításról kiállított II. jelzésű értesítőlapot a 231. § (1) bekezdésében meghatározottak szerint megküldi a bíróság székhelye szerinti területi idegenrendészeti hatóságnak.
 
-(4) Ha a szabadságvesztésből szabadult elítéltnél a kegyelem a foglalkozástól eltiltásra, járművezetéstől eltiltásra, közügyektől eltiltásra vagy kitiltásra is kiterjed, az értesítésen ezt is fel kell tüntetni.
+(3) Az (1) és (2) bekezdés szerinti értesítésen fel kell tüntetni a szabadulás napját és jogcímét és a foglalkozástól eltiltásba, járművezetéstől eltiltásba, kitiltásba, sportrendezvények látogatásától való eltiltásba, kiutasításba vagy közügyektől eltiltásba beszámítható vagy nem beszámítható időket.
 
-(5) Ha az elítélt összbüntetésből szabadul, az intézet a végrehajtásra kerülő foglalkozástól eltiltást, járművezetéstől eltiltást, közügyektől eltiltást vagy kitiltást tartalmazó II. jelzésű értesítőlapot megküldi az (1) bekezdésében megjelölt hatóságoknak.
+(4) Ha a fogvatartott a szabadságvesztést követően előzetes letartóztatás, elzárás, pénzbüntetést vagy közérdekű munkát helyettesítő szabadságvesztés végrehajtása miatt marad fogva, az intézet a szabadságvesztés letöltése után haladéktalanul megküldi az (1) és (2) bekezdésben meghatározott illetékes hatóságnak az értesítést és a végrehajtandó foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról vagy közügyektől eltiltásról szóló II. jelzésű értesítőlapot.
 
-(6) Ha összbüntetésbe foglalásnak nincs helye, vagy arra más okból nem került sor, a szabadításkor a foglalkozástól eltiltásról, járművezetéstől eltiltásról, közügyektől eltiltásról vagy kitiltásról kiállított értesítőlapot meg kell küldeni az (1) bekezdésben felsorolt hatóságoknak.
+(5) Ha a szabadságvesztésből szabadult elítéltnél a kegyelem a foglalkozástól eltiltásra, járművezetéstől eltiltásra, kitiltásra, sportrendezvények látogatásától való eltiltásra, kiutasításra vagy közügyektől eltiltásra is kiterjed, az értesítésen ezt is fel kell tüntetni.
 
-(7)[^192] Ha a foglalkozástól eltiltás, járművezetéstől eltiltás, közügyektől eltiltás vagy kitiltás hatálya alatt álló elítélt feltételes szabadságát megszüntetik vagy a kegyelemből felfüggesztett szabadságvesztés végrehajtását elrendelik, erről a befogadó intézet értesíti az illetékes rendőrkapitányságot, illetve járási hivatalt. Az értesítésen fel kell tüntetni az elítélt személyi adatait, a büntetés nemét, tartamát, azon szabadságvesztés adatait, amelyből az elítélt feltételes szabadságra bocsátással vagy kegyelemmel szabadult, az új befogadás alapjául szolgáló bírósági határozat adatait. Az értesítést annak a hatóságnak kell megküldeni, amelynek az (1) bekezdés alapján az értesítőlapot továbbították.
+(6) Ha az elítélt összbüntetésből szabadul, az intézet a végrehajtásra kerülő foglalkozástól eltiltást, járművezetéstől eltiltást, kitiltást, sportrendezvények látogatásától való eltiltást, kiutasítást, vagy közügyektől eltiltást tartalmazó II. jelzésű értesítőlapot megküldi az (1) és (2) bekezdésében megjelölt hatóságoknak.
 
-[^189]: A 203. §-t megelőző alcím a 11/2010. (III. 31.) IRM rendelet 7. §-ával megállapított szöveg.
-[^190]: A 203. § a 11/2010. (III. 31.) IRM rendelet 7. §-ával megállapított szöveg.
-[^191]: A 203. § (1) bekezdés c) pontja az 50/2012. (XII. 4.) KIM rendelet 7. § b) pontja szerint módosított szöveg.
-[^192]: A 203. § (7) bekezdése az 50/2012. (XII. 4.) KIM rendelet 7. § c) pontja szerint módosított szöveg.
+(7) Ha összbüntetésbe foglalásnak nincs helye, vagy arra más okból nem került sor, a szabadításkor a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról vagy közügyektől eltiltásról kiállított értesítőlapot meg kell küldeni az (1) és (2) bekezdésben felsorolt hatóságoknak.
+
+(8) Ha a foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás, kiutasítás vagy közügyektől eltiltás hatálya alatt álló elítélt feltételes szabadságát megszüntetik vagy a kegyelemből felfüggesztett szabadságvesztés végrehajtását elrendelik, erről a befogadó intézet értesíti az illetékes rendőrkapitányságot, járási hivatalt vagy a Bevándorlási és Állampolgársági Hivatalt. Az értesítésen fel kell tüntetni az elítélt személyi adatait, a büntetés nemét, tartamát, azon szabadságvesztés adatait, amelyből az elítélt feltételes szabadságra bocsátással vagy kegyelemmel szabadult, az új befogadás alapjául szolgáló bírósági határozat adatait. Az értesítést annak a hatóságnak kell megküldeni, amelynek az (1) és (2) bekezdés alapján az értesítőlapot továbbították.
+
+[^197]: A 203. §-t megelőző alcím a 9/2013. (VI. 29.) KIM rendelet 12. §-ával megállapított szöveg.
+[^198]: A 203. § a 9/2013. (VI. 29.) KIM rendelet 12. §-ával megállapított szöveg.

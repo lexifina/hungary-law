@@ -2,6 +2,6 @@
 
 96. § (1) A vallási eseményekről az elítélteket megfelelő időben tájékoztatni kell.
 
-(2)[^101] A biztonsági elkülönítésben lévő, a magánelzárást töltő, a különleges biztonságú körleten, illetve zárkában, valamint a hosszú időre ítéltek körletén elhelyezett elítélt kizárólag egyéni lelki gondozásban részesülhet.
+(2)[^104] A biztonsági elkülönítésben lévő, a magánelzárást töltő, a különleges biztonságú körleten, illetve zárkában, valamint a hosszú időre ítéltek körletén elhelyezett elítélt kizárólag egyéni lelki gondozásban részesülhet.
 
-[^101]: A 96. § (2) bekezdése a 61/2007. (XII. 23.) IRM rendelet 5. §-ával megállapított szöveg.
+[^104]: A 96. § (2) bekezdése a 61/2007. (XII. 23.) IRM rendelet 5. §-ával megállapított szöveg.

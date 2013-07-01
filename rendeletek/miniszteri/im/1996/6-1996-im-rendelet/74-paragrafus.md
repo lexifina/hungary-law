@@ -10,10 +10,10 @@
 
 (6) Az alapfokú oktatásban részt vevők tanszereit, tankönyveit és az oktatás egyéb költségeit a bv. szervezet biztosítja. Az egyéb oktatási formákban részt vevők számára a költségek biztosíthatók.
 
-(7)[^81] A börtön- vagy fogházbüntetését töltő, I. biztonsági csoportba sorolt elítélt a parancsnok engedélyével, kivételesen, az intézeten kívül is folytathat tanulmányokat, és leteheti a szükséges vizsgákat. Ennek részletes szabályait az országos parancsnok intézkedésben határozza meg.
+(7)[^84] A börtön- vagy fogházbüntetését töltő, I. biztonsági csoportba sorolt elítélt a parancsnok engedélyével, kivételesen, az intézeten kívül is folytathat tanulmányokat, és leteheti a szükséges vizsgákat. Ennek részletes szabályait az országos parancsnok intézkedésben határozza meg.
 
 (8) Ha az alapfokú iskolai oktatás feltételeit az intézet nem tudja biztosítani, az elítéltet – kérelmére – az erre kijelölt másik intézetbe kell szállítani.
 
 (9) A különleges biztonságú körleten elhelyezett elítélt az oktatásban egyéni tanulóként vehet részt.
 
-[^81]: A 74. § (7) bekezdése a 18/2002. (XI. 30.) IM rendelet 22. §-ával megállapított szöveg.
+[^84]: A 74. § (7) bekezdése a 18/2002. (XI. 30.) IM rendelet 22. §-ával megállapított szöveg.

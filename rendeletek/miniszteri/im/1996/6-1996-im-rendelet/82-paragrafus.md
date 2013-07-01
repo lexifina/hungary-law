@@ -1,4 +1,4 @@
-## 81/A. §[^90] Kimaradás és rövid tartamú eltávozás a jogszabályban meghatározott feltételek fennállása esetén is csak kivételesen engedélyezhető, ha további szabadságvesztést kell végrehajtani.
+## 81/A. §[^93] Kimaradás és rövid tartamú eltávozás a jogszabályban meghatározott feltételek fennállása esetén is csak kivételesen engedélyezhető, ha további szabadságvesztést kell végrehajtani.
 
 82. § (1) Nem engedélyezhető rövid tartamú eltávozás, ha
 
@@ -10,7 +10,7 @@ c) az elítélt a korábbi távollétéről önhibájából nem tért vissza, az
 
 d) az elítélt a korábbi távollétéről önhibájából késve tért vissza, illetve ittasan vagy bódult állapotban visszatérve az intézet rendjét megzavarta, a visszaérkezéstől számított hat hónapig.
 
-(2)[^91] Rövid tartamú eltávozás nem engedélyezhető olyan helységbe, ahonnan az elítéltet kitiltották, kivéve, ha azt a rendőrség előzetesen engedélyezte.
+(2)[^94] Rövid tartamú eltávozás nem engedélyezhető olyan helységbe, ahonnan az elítéltet kitiltották, kivéve, ha azt a rendőrség előzetesen engedélyezte.
 
 (3) Rövid tartamú eltávozás – kivételesen – az (1) bekezdés c)–d) pontjában meghatározott feltételek fennállása esetén is engedélyezhető, ha az elítélt
 
@@ -20,5 +20,5 @@ b) a várható szabadulása négy hónapon belül esedékes;
 
 c) személyi vagy családi körülményei az eltávozást különösen indokolják.
 
-[^90]: A 81/A. §-t a 18/2002. (XI. 30.) IM rendelet 25. §-a iktatta a szövegbe.
-[^91]: A 82. § (2) bekezdése a 18/2002. (XI. 30.) IM rendelet 68. §-ának (1) bekezdése szerint módosított szöveg.
+[^93]: A 81/A. §-t a 18/2002. (XI. 30.) IM rendelet 25. §-a iktatta a szövegbe.
+[^94]: A 82. § (2) bekezdése a 18/2002. (XI. 30.) IM rendelet 68. §-ának (1) bekezdése szerint módosított szöveg.

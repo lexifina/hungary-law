@@ -1,6 +1,6 @@
 ## Az elítélt egyéni felszerelése
 
-## 1.[^250] Étkezési felszerelés:
+## 1.[^263] Étkezési felszerelés:
 
 ## – pohár (nem lehet üveg vagy porcelán);
 
@@ -10,7 +10,7 @@
 
 ## – evőcsésze (csajka), kivéve éttermi étkeztetéskor.
 
-## 2.[^251] Formaruházat:
+## 2.[^264] Formaruházat:
 
 ## – sapka;
 
@@ -40,5 +40,5 @@
 
 3. számú melléklet a 6/1996. (VII. 12.) IM rendelethez
 
-[^250]: A 2. számú melléklet 1. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (3) bekezdése, valamint a 24/2003. (VII. 1.) IM rendelet 25. §-ának (1)–(2) bekezdése szerint módosított szöveg.
-[^251]: A 2. számú melléklet 2. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (3) bekezdése, valamint a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^263]: A 2. számú melléklet 1. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (3) bekezdése, valamint a 24/2003. (VII. 1.) IM rendelet 25. §-ának (1)–(2) bekezdése szerint módosított szöveg.
+[^264]: A 2. számú melléklet 2. pontja a 18/2002. (XI. 30.) IM rendelet 66. §-ának (3) bekezdése, valamint a 24/2003. (VII. 1.) IM rendelet 26. § (2) bekezdésének c) pontja szerint módosított szöveg.
