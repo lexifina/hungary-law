@@ -5,3 +5,5 @@
 (2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kormányrendeletben meghatározott szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (3) A kormányrendeletben meghatározott szerv a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4) A (3) bekezdés szerinti nyilvántartás, a szakértői tevékenység végzésére való jogosultságra vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.

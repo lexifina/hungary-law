@@ -2,17 +2,17 @@
 
 71. § (1) A kormányrendeletben meghatározott szerv vezeti
 
-a) a régészeti lelőhelyek hatósági,
+a) a régészeti lelőhelyek,
 
 b) a régészeti feltárási engedélyek,
 
 c) a védetté nyilvánított régészeti lelőhelyek,
 
-d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek
+d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek és történeti tájak
 
 központi, közhiteles nyilvántartását, amely tartalmazza az a)–d) pontokban meghatározottakkal összefüggő, az örökségvédelem szempontjából fontos adatokat.
 
-(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi hatósági nyilvántartást vezet:
+(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet:
 
 a) a védetté nyilvánított kulturális javakról,
 
@@ -22,4 +22,6 @@ c) a jogtalanul eltulajdonított, eltűnt védett kulturális örökségi elemek
 
 d) jogszabályban meghatározott egyéb adatokról, valamint
 
-e) az a)–d) pontokban meghatározottakkal összefüggő, a kulturális örökség szempontjából fontos adatokról.
+e) az a)–d) pontokban meghatározottakkal összefüggő, a kulturális örökség szempontjából fontos adatokról,
+
+f) az ideiglenesen védetté nyilvánított kulturális javakról.
