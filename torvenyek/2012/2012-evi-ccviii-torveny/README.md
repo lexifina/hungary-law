@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-208-00-00
 | 2013-02-02 | 2010. évi CXXX. törvény | 2012-208-00-00.8 |
 | 2013-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-208-00-00.9 |
 | 2013-04-02 | 2013. évi XX. törvény | 2012-208-00-00.10 |
+| 2013-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-208-00-00.11 |

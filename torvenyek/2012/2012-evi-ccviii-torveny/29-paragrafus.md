@@ -1,1 +1,1 @@
-29. §
+29. § Hatályát veszti a közbeszerzésekről szóló 2011. évi CVIII. törvény 18. § (6) bekezdésében az „az állami köznevelési intézményfenntartó által fenntartott és működtetett intézményenként,” szövegrész.
