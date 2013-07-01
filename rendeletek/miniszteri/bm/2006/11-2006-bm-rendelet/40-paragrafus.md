@@ -1,4 +1,4 @@
-## 39. §[^39]
+## 39. §[^43]
 
 ## II. RÉSZ
 
@@ -12,4 +12,4 @@
 
 (4) A (2) bekezdésben meghatározott beosztásból felfüggesztéssel szemben a felfüggesztett a 17. § (7) bekezdése szerint élhet panasszal.
 
-[^39]: A 39. §-t az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^43]: A 39. §-t az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés f) pontja hatályon kívül helyezte.
