@@ -10,7 +10,7 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 4. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 
-5. Btk.: a Büntető Törvénykönyvről szóló 1978. évi IV. törvény,
+5. Btk.: a Büntető Törvénykönyvről szóló 2012. évi C. törvény,
 
 6. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 

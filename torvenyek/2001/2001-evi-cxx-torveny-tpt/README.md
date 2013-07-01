@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2013-01-01 | 2012. évi CLI. törvény | 2001-120-00-00.45 |
 | 2013-06-22 | 2013. évi LXXXIII. törvény | 2001-120-00-00.46 |
 | 2013-06-29 | 2013. évi XCVIII. törvény | 2001-120-00-00.47 |
+| 2013-07-01 | 2012. évi CCXXIII. törvény | 2001-120-00-00.48 |
