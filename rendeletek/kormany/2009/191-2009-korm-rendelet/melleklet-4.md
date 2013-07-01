@@ -10,7 +10,7 @@
 
 ## e) Minden felmért adat bejegyzésénél külön sorban kell feltüntetni (esetleg az építményre, építményrészre hivatkozással) a munkanemet (pl. I. földmunka), majd a következő sorban a kelet és szint adatát, vonalas építkezésnél a szelvényszámot, a költségvetési (pótköltségvetési) tételszámot (naplóoldalszámot), amelyre a bejegyzendő adatok vonatkoznak. A hivatkozási szám után címszószerűen be kell írni a felmért tétel megnevezését (pl. földkiemelés III. o.).
 
-4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^199]
+4. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^203]
 
 Az építési tevékenység megkezdésének tudomásulvételére irányuló kérelem
 
@@ -106,4 +106,4 @@ b) címe:
 
 Kelt: ........................... , ........ év .............................. hó .......... nap
 
-[^199]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § c) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 20. pontja, valamint (21) bekezdés j) pontja szerint módosított szöveg.
+[^203]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § c) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 20. pontja, valamint (21) bekezdés j) pontja szerint módosított szöveg.

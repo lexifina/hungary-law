@@ -1,30 +1,34 @@
 ## A kivitelező
 
-12. § (1) A vállalkozó kivitelező csak olyan építőipari kivitelezési tevékenységet végezhet
+12. § (1)[^53] Építőipari kivitelezési tevékenységet – az Étv. 39/A. § (5) bekezdésében foglaltakon túlmenően – a vállalkozó kivitelező akkor vállalhat, ha
 
-a)[^51]
+a) a vállalkozó kivitelezői tevékenységre jogosultak névjegyzéke a vállalkozó kivitelezőre vonatkozóan tartalmazza a vállalt tevékenységet, és
 
-b) amelynek végzéséhez
+b) a vállalkozó kivitelező a vállalt kivitelezői tevékenység végzésében közvetlenül részt vesz.
 
-ba)[^52] – a 13. § (8) bekezdésében meghatározottak kivételével – rendelkezik az építőipari kivitelezési tevékenység jellegének megfelelő jogosultsággal rendelkező felelős műszaki vezetővel,
+(1a)[^54] A vállalkozó kivitelező az általa vállalt tevékenységből olyan építőipari kivitelezési tevékenységet végezhet
 
-bb) elegendő számú és megfelelő szakképesítésű munkavállaló áll rendelkezésre,
+a) amelyhez
 
-bc) a kivitelezési dokumentáció az építési munkahelyen rendelkezésre áll,
+aa) – a 13. § (8) bekezdésében meghatározottak kivételével – rendelkezik az építőipari kivitelezési tevékenység jellegének megfelelő jogosultsággal rendelkező – vele tagsági, munkavállalói vagy munkavégzésre irányuló egyéb jogviszonyban álló – felelős műszaki vezetővel,
 
-bd) az építési naplót az építési területen megnyitották,
+ab) rendelkezik a kivitelezési tevékenységnek megfelelő szakképesítéssel, vagy elegendő számú és tevékenység jellegének megfelelő szakképesítésű – vele tagsági, munkavállalói vagy munkavégzésre irányuló egyéb jogviszonyban álló – szakmunkással,
 
-c)[^53] amelynek megkezdéséhez és végzéséhez rendelkezésre áll az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott hatósági engedély, vagy tudomásulvételi eljárás keretében az építésügyi vagy építésfelügyeleti hatóság az építési tevékenység megkezdését nem tiltotta meg,
+ac) rendelkezik a 35. § (2) bekezdése szerinti alkalmas telephellyel,
 
-d)[^54] amelynek végzésére vonatkozóan az építtetővel vagy – alvállalkozói építési szerződés esetén – a megrendelő vállalkozó kivitelezővel a 3. § (1)–(3) bekezdés szerint írásban szerződést kötöttek,
+ad) a kivitelezési dokumentáció készítési kötelezettség esetén a kivitelezési dokumentáció az építési munkaterületen rendelkezésre áll, és
 
-e) amelynek megkezdéséhez az e rendeletben előírt bejelentési kötelezettségének az építtető határidőben eleget tett, és az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység végzését nem tiltotta meg,
+ae) az építési napló vezetési kötelezettség esetén az építési naplót az építési munkaterületen megnyitották és az előírásoknak megfelelően vezetik,
 
-f)[^55] amelynek megkezdését az építési munkahelyeken és az építési folyamatok során megvalósítandó minimális munkavédelmi követelményekről szóló jogszabályban meghatározott feltételek fennállása esetén – az ott rögzített adatok megadásával – előzetesen bejelenti az építési munkahely szerint illetékes munkavédelmi hatóságnak
+b) amelynek megkezdéséhez és végzéséhez – ha jogszabály kötelezővé teszi – rendelkezésre áll az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet szerinti hatósági engedély vagy tudomásul vétel,
+
+c) amelynek végzésére vonatkozóan az építtetővel vagy – alvállalkozói építési szerződés esetén – a megrendelő vállalkozó kivitelezővel a 3. § (1)–(3) bekezdése szerint írásban szerződést kötöttek, és
+
+d) amelynek végzését az építésügyi vagy építésfelügyeleti hatóság nem tiltotta meg.
 
 (2) A vállalkozó kivitelező feladata az Étv. 40. § (1) bekezdésében és 43. § (2) bekezdésében foglaltakon túlmenően:
 
-a)[^56] az építőipari kivitelezési tevékenység megkezdésekor az építtetőtől [alvállalkozó kivitelező esetében a megrendelő vállalkozó kivitelezőtől] az építési munkaterület átvétele, annak szükség szerinti lőszermentesítése,
+a)[^55] az építőipari kivitelezési tevékenység megkezdésekor az építtetőtől [alvállalkozó kivitelező esetében a megrendelő vállalkozó kivitelezőtől] az építési munkaterület átvétele, annak szükség szerinti lőszermentesítése,
 
 b) az építési napló megnyitása az e rendeletben meghatározottak szerint,
 
@@ -38,9 +42,9 @@ f) annak biztosítása, hogy az építési munkaterületen csak olyan személyek
 
 g) a műszaki átadás-átvételi eljárás során a berendezések, rendszerek működési próbája és a tapasztalt rendellenességek, hiányosságok megszüntetése, szükség esetén a próba megismétlése,
 
-h)[^57] a kivitelezés befejezésével a mérési jegyzőkönyvek kiállítása, az alkalmazott építési termékek teljesítménynyilatkozatainak rendelkezésre bocsátása,
+h)[^56] a kivitelezés befejezésével a mérési jegyzőkönyvek kiállítása, az alkalmazott építési termékek teljesítménynyilatkozatainak rendelkezésre bocsátása,
 
-i) az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor (az építőipari kivitelezési tevékenység befejezésekor) az építési munkaterület átadása az építtetőnek,
+i)[^57] az építési szerződés szerint az építési munkaterület visszaadása az építtetőnek, alvállalkozói szerződés esetén a megrendelő vállalkozó kivitelezőnek,
 
 j) az építési munkaterület őrzésének biztosítása,
 
@@ -62,13 +66,11 @@ c) az építési napló vezetése, külön megállapodás esetén az alvállalko
 
 (5) A vállalkozó kivitelező az építési napló vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél aláírásával az építési naplóban rögzíteni kell.
 
-[^51]: A 12. § (1) bekezdés a) pontját a 322/2012. (XI. 16.) Korm. rendelet 93. § j) pontja hatályon kívül helyezte.
-[^52]: A 12. § (1) bekezdés b) pont ba) alpontja a 322/2012. (XI. 16.) Korm. rendelet 67. § (1) bekezdésével megállapított szöveg.
-[^53]: A 12. § (1) bekezdés c) pontja a 322/2012. (XI. 16.) Korm. rendelet 67. § (2) bekezdésével megállapított szöveg.
-[^54]: A 12. § (1) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 67. § (2) bekezdésével megállapított szöveg.
-[^55]: A 12. § (1) bekezdés f) pontja a 324/2011. (XII. 28.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^56]: A 12. § (2) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ea) alpontja szerint módosított szöveg.
-[^57]: A 12. § (2) bekezdés h) pontja a 322/2012. (XI. 16.) Korm. rendelet 67. § (3) bekezdésével megállapított szöveg.
+[^53]: A 12. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^54]: A 12. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^55]: A 12. § (2) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ea) alpontja szerint módosított szöveg.
+[^56]: A 12. § (2) bekezdés h) pontja a 322/2012. (XI. 16.) Korm. rendelet 67. § (3) bekezdésével megállapított szöveg.
+[^57]: A 12. § (2) bekezdés i) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^58]: A 12. § (2) bekezdés l) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 7. pontja, a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont eb) alpontja szerint módosított szöveg.
 [^59]: A 12. § (2) bekezdés m) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 8. pontja szerint módosított szöveg.
 [^60]: A 12. § (4) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § e) pont ec) alpontja szerint módosított szöveg.

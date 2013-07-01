@@ -62,7 +62,7 @@ ba) a közvetlen költségek között nem szereplő általános költségeket,
 
 bb) a tervezett nyereséget.
 
-(6)[^19] Az építési szerződés megkötésekor az ár vizsgálata során az építésügyért felelős miniszter által működtetett honlapon található elektronikus költségvetési kiírási programban meghatározott élőmunka szükségleti normatívákat irányadónak lehet tekinteni.
+(6)[^19] Aránytalanul alacsony árajánlatnak minősül, ha a vállalkozó kivitelező által alkalmazott rezsióradíj alacsonyabb az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építésügyért felelős miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékénél. Az építési szerződés megkötésekor az aránytalanul alacsony ár vizsgálata során az építésügyért felelős miniszter által működtetett honlapon található elektronikus költségvetési kiírási programban meghatározott élőmunka szükségleti normatívákat irányadónak lehet tekinteni.
 
 (7) Az építési naplóban köteles haladéktalanul közölni
 
@@ -85,6 +85,6 @@ b) az építtető a fővállalkozó kivitelezővel a pótmunka igényét.
 [^16]: A 3. § (2) bekezdés k) pontja a 322/2012. (XI. 16.) Korm. rendelet 57. § (2) bekezdésével megállapított szöveg.
 [^17]: A 3. § (2) bekezdés p) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^18]: A 3. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ac) alpontja szerint módosított szöveg.
-[^19]: A 3. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^20]: A 3. § (9) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^21]: A 3. § (11) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ad) alpontja szerint módosított szöveg.

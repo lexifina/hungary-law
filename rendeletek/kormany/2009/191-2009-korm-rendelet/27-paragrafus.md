@@ -1,4 +1,4 @@
-27. § (1)[^150] Az építési napló címoldalból, sorszámozott és azonosító jellel ellátott nyilvántartási rész lapokból és folyamatosan számozott naplórészből áll.
+27. § (1)[^151] Az építési napló címoldalból, sorszámozott és azonosító jellel ellátott nyilvántartási rész lapokból és folyamatosan számozott naplórészből áll.
 
 (2) Az építési naplóba a bejegyzéseket úgy kell megtenni, hogy azon később észrevehetetlenül ne lehessen változtatni vagy a bejegyzést eltávolítani.
 
@@ -22,4 +22,4 @@ a) a vállalkozó kivitelező által szerződésben vállalt kötelezettsége te
 
 b) a vállalkozó kivitelezővel szerződéses viszonyban álló alvállalkozó kivitelező kötelezettsége teljesítésében közreműködő, vele szerződéses viszonyban álló további alvállalkozó kivitelező (9) bekezdés szerinti adatait (építési napló melléklete).
 
-[^150]: [A 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 13. pontjával elrendelt módosítás, amely szerint a „lapokból, és folyamatosan számozott naplórészből áll” szövegrész helyébe a „lapokból, folyamatosan számozott naplórészből és összesítő lapból áll” szöveg lép, nem vezetehető át.]
+[^151]: [A 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 13. pontjával elrendelt módosítás, amely szerint a „lapokból, és folyamatosan számozott naplórészből áll” szövegrész helyébe a „lapokból, folyamatosan számozott naplórészből és összesítő lapból áll” szöveg lép, nem vezetehető át.]
