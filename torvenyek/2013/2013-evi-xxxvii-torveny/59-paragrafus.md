@@ -1,1 +1,1 @@
-### 59. §
+59. § Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 458. § (1) bekezdés b) pontjában az „annak tartama” szövegrész helyébe az „a gyermekgondozási segély, ápolási díj folyósítása” szöveg lép.
