@@ -4,7 +4,7 @@
 
 a) táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban részesül;
 
-b) gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha annak tartama alatt a tag személyes közreműködését, az egyházi személy egyházi szolgálatát, illetőleg az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja.
+b) gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozási segély, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi személy egyházi szolgálatát, illetőleg az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja.
 
 (2) A kifizető a tagjával (ideértve az egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó, a mezőgazdasági őstermelő az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, illetőleg maga az egyéni vállalkozó, a mezőgazdasági őstermelő
 
