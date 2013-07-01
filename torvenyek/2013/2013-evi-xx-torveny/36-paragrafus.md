@@ -2,4 +2,4 @@
 
 36. § (1)
 
-(2)
+(2) Hatályát veszti a Kenytv. 11. § (2) bekezdése és 12. § (1) bekezdés c) és d) pontja.
