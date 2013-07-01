@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2013-05-03 | 2013. évi XXXVI. törvény | 1990-93-00-00.125 |
 | 2013-05-17 | 2013. évi LIII. törvény | 1990-93-00-00.126 |
 | 2013-06-30 | 2013. évi CIII. törvény | 1990-93-00-00.127 |
+| 2013-07-01 | 2012. évi CLXXXIV. törvény | 1990-93-00-00.128 |
