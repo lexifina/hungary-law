@@ -10,4 +10,4 @@ b) olyan irat vagy más bizonyíték szükséges, amely a megkeresett hatóságn
 
 (4) Ha jogszabály ennél rövidebb határidőt nem állapít meg, a megkeresést nyolc napon belül kell teljesíteni.
 
-(5) Ha a megkeresésben foglaltak teljesítéséhez magyar külképviseleti hatóság megkeresése szükséges, a megkeresésben foglaltak teljesítésének határideje a megkeresésnek a külképviseleti hatósághoz történő megérkezése napján kezdődik.
+(5) A pénzügyi és vagyoni korlátozás foganatosításáért felelős szerv a 10. § (3) és (4) bekezdése szerinti feladatának ellátásához illetékes külföldi hatóságot is megkereshet.

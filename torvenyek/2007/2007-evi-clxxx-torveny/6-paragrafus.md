@@ -1,8 +1,8 @@
 ## A mentesítési eljárás
 
-6. § (1) Ha a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus lehetővé teszi a pénzügyi és vagyoni korlátozó intézkedés alóli mentesítést, az e §-ban meghatározott mentesítési eljárás lefolytatásának van helye.
+6. § (1) Ha a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus lehetővé teszi az 1. § c) pont ca) alpontjában meghatározott pénzügyi és vagyoni korlátozó intézkedés alóli mentesítést, az e §-ban meghatározott mentesítési eljárás lefolytatásának van helye.
 
-(2) A mentesítés iránti kérelmet a bíróságnak címezve, a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szervhez kell benyújtani. A pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv
+(2) Amennyiben a mentesítés a bíróságnak az 1. § c) pont ca) alpontjának végrehajtásárára irányuló zárlat feloldására irányul, a mentesítés iránti kérelmet a bíróságnak címezve, a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szervhez kell benyújtani. A pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv
 
 a) a kérelem benyújtásáról értesíti az adópolitikáért felelős minisztert,
 

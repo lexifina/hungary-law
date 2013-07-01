@@ -10,4 +10,4 @@ b) olyan irat vagy más bizonyíték szükséges, amely a megkeresett hatóságn
 
 (4) Az (1) bekezdésben meghatározott esetben a megkeresést nyolc napon belül teljesíteni kell.
 
-(5) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításért felelős szerv a 11. § szerinti engedélyezési eljárás lefolytatása során illetékes külföldi hatóságot is megkereshet. Ha a megkeresésben foglaltak teljesítéséhez magyar külképviseleti hatóság megkeresése szükséges, a megkeresésben foglaltak teljesítésének határideje a megkeresésnek a külképviseleti hatósághoz történő megérkezése napján kezdődik.
+(5) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv a 11. § szerinti engedélyezési eljárás lefolytatása során illetékes külföldi hatóságot is megkereshet.
