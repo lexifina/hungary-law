@@ -1,6 +1,18 @@
 37. § (1)
 
-(2)
+(2) Hatályát veszti a Kkt.
+
+a) 29/F. §-a,
+
+b) 33/A. § (2) bekezdése,
+
+c) 33/B. § (2) és (9) bekezdése,
+
+d) 48. § (3) bekezdés a) pont 19. alpontja,
+
+e) 48. § (3) bekezdés b) pont 38. alpontja,
+
+f) 48. § (3) bekezdés g) pont 1. alpontja.
 
 (3) Nem lép hatályba
 
