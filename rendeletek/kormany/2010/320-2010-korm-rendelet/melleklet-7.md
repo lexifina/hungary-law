@@ -40,8 +40,8 @@
 
 | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 6. | A külön kormányrendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala által vezetett adatbázisban szerepelő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy az építmény a régészeti örökség és a műemléki érték védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint, vagy további feltételek mellett megfelel-e. | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 6. | A külön kormányrendeletben meghatározott, a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és műemlékeket tartalmazó, a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság által vezetett adatbázisban szerepelő régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben műemléket érintő építmény engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy az építmény a régészeti örökség és a műemléki érték védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint, vagy további feltételek mellett megfelel-e. | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-7. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^52]
+7. melléklet a 320/2010. (XII. 27.) Korm. rendelethez[^55]
 
-[^52]: A 7. mellékletet a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^55]: A 7. mellékletet a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.

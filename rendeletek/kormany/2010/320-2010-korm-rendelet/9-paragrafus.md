@@ -2,9 +2,9 @@
 
 9. § (1) A Kormány közraktározás-felügyeletként a Hivatalt jelöli ki.
 
-(2)[^12] A közraktározás-felügyeleti eljárásban első fokon országos illetékességgel a Hivatal kereskedelmi hatósága jár el.
+(2)[^14] A közraktározás-felügyeleti eljárásban első fokon országos illetékességgel a Hivatal kereskedelmi hatósága jár el.
 
-(3)[^13]
+(3)[^15]
 
-[^12]: A 9. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
-[^13]: A 9. § (3) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^14]: A 9. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
+[^15]: A 9. § (3) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.

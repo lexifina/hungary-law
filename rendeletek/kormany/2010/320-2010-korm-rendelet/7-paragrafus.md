@@ -28,6 +28,16 @@ b) 1. § (1) bekezdés k) pontjában meghatározott tevékenység
 
 (5) A Kormány a (3) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatalt jelöli ki.
 
+(6)[^10] Az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül:
+
+a) az idegenvezetői szolgáltatást ténylegesen végző személy idegenvezető szakképesítését igazoló okirat másolata,
+
+b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeretét tanúsító nyelvvizsga-bizonyítvány másolata vagy azzal egyenértékű nyelvismeretet igazoló okirat másolata.
+
+(7)[^11] A lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a szakmai tevékenységért felelős személy szakképesítését igazoló okirat.
+
 [^7]: A 7. § (2) bekezdése a 245/2012. (VIII. 31.) Korm. rendelet 16. §-ával megállapított, a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
 [^8]: A 7. § (3) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^9]: A 7. § (3) bekezdés f) pontját az 55/2011. (IV. 12.) Korm. rendelet 21. §-a iktatta be, szövege a 7/2013. (I. 18.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^10]: A 7. § (6) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^11]: A 7. § (7) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.

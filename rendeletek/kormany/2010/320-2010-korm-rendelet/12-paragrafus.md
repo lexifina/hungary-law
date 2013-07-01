@@ -2,9 +2,9 @@
 
 12. § (1) A Kormány – a (2) bekezdésben meghatározott körben, illetve a (3) és (4) bekezdésben foglalt kivétellel – műszaki biztonsági hatóságként az illetékes területi mérésügyi és műszaki biztonsági hatóságot, másodfokon a Hivatal központi szervét jelöli ki.
 
-(2)[^14] A 12. § (1) bekezdés szerinti hatóság a műszaki biztonsági hatóságok műszaki biztonsági tevékenységének részletes szabályairól szóló kormányrendeletben meghatározott, műszaki biztonsági szempontból veszélyes berendezésekkel és létesítményekkel kapcsolatos eljárásokban műszaki biztonsági hatóságként jár el, valamint ellátja a gázcsatlakozóvezeték- és a felhasználói berendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységgel kapcsolatos hatósági feladatokat, valamint e tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti hatósági feladatokat. Továbbá műszaki biztonsági hatóságként jár el a felvonó, mozgólépcső létesítésének, áthelyezésének, főbb műszaki adatainak megváltoztatásával járó átalakításának, használatbavételének, valamint elbontásának engedélyezésével kapcsolatos hatósági eljárásokban.
+(2)[^16] A 12. § (1) bekezdés szerinti hatóság a műszaki biztonsági hatóságok műszaki biztonsági tevékenységének részletes szabályairól szóló kormányrendeletben meghatározott, műszaki biztonsági szempontból veszélyes berendezésekkel és létesítményekkel kapcsolatos eljárásokban műszaki biztonsági hatóságként jár el, valamint ellátja a gázcsatlakozóvezeték- és a felhasználói berendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységgel kapcsolatos hatósági feladatokat, valamint e tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti hatósági feladatokat. Továbbá műszaki biztonsági hatóságként jár el a felvonó, mozgólépcső létesítésének, áthelyezésének, főbb műszaki adatainak megváltoztatásával járó átalakításának, használatbavételének, valamint elbontásának engedélyezésével kapcsolatos hatósági eljárásokban.
 
-(3)[^15] A Kormány műszaki biztonsági hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első fokon a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
+(3)[^17] A Kormány műszaki biztonsági hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első fokon a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
 
 a) az egyes hegesztett szerkezetek gyártását, szerelését, átalakítását és javítását végző gazdálkodó szervezetek nyilvántartásba vételével,
 
@@ -24,11 +24,14 @@ h) a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgáló
 
 ## kapcsolatos eljárásokban.
 
-(4)[^16] A Kormány a (3) bekezdés a)–c) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
+(3a)[^18] A (3) bekezdés a)–b) pontjában foglalt nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(5)[^17] A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
+(4)[^19] A Kormány a (3) bekezdés a)–c) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
 
-[^14]: A 12. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^15]: A 12. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^16]: A 12. § (4) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^17]: A 12. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+(5)[^20] A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
+
+[^16]: A 12. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^17]: A 12. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^18]: A 12. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^19]: A 12. § (4) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^20]: A 12. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 5. § (7) bekezdése iktatta be.
