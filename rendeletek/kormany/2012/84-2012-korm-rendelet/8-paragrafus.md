@@ -4,6 +4,7 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A rendeletben kijelölt szervezetnek a kijelölés szerinti szolgáltatást, ha jogszabály másképp nem rendelkezik, legkésőbb 2013. január 1-jétől nyújtania kell.
+(2)[^12]
 
 [^11]: A 7. § a 174/2012. (VII. 26.) Korm. rendelet 92. §-a szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdését a 2013: LXXXI. törvény 17. § (2) bekezdése hatályon kívül helyezte.
