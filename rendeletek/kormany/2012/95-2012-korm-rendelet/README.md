@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-95-20-2
 | 2012-08-01 | 2012-95-20-22.3 | 214/2012. (VII. 30.) Korm. rendelet |
 | 2012-11-16 | 2012-95-20-22.4 | 317/2012. (XI. 13.) Korm. rendelet |
 | 2013-01-01 | 2012-95-20-22.5 | 317/2012. (XI. 13.) Korm. rendelet |
+| 2013-07-01 | 2012-95-20-22.6 | 237/2013. (VI. 30.) Korm. rendelet |

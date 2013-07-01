@@ -32,8 +32,11 @@ b) a 8. §-ban foglalt feladatai ellátása érdekében a TÁMOP 5.5.7. „Beteg
 
 (12)[^16] A Hivatalt a számára az 1. § b) pontjában meghatározott, 2012. július 1-jét megelőzően az Országos Nyugdíjbiztosítási Főigazgatóság által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
 
+(13)[^17] Az 1. § a) és b) pontjában kijelölt rehabilitációs hatóságnál orvosszakértői munkakörben foglalkoztatott kormánytisztviselők munkaköri pótléka megállapításánál a közszolgálati tisztviselők részére adható juttatásokról és egyes illetménypótlékokról szóló 249/2012. (VIII. 31.) Korm. rendelet 3. § (7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
+
 [^12]: A 23. § (1a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 48. §-a iktatta be.
 [^13]: A 23. § (9) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
 [^14]: A 23. § (10) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
 [^15]: A 23. § (11) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
 [^16]: A 23. § (12) bekezdését a 132/2012. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^17]: A 23. § (13) bekezdését a 237/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
