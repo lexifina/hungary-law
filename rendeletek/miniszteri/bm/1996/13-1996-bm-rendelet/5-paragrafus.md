@@ -1,6 +1,6 @@
-## 4. §[^18] A vízirendészeti feladatokat ellátó rendőri szerveknek vízi közlekedési baleset esetében segítséget kell nyújtani a kár elhárítása, a sérült személyek orvosi ellátása, a veszélyhelyzetben levő személyek mentése, valamint a hajóút felszabadítása érdekében.
+## 4. §[^19] A vízirendészeti feladatokat ellátó rendőri szerveknek vízi közlekedési baleset esetében segítséget kell nyújtani a kár elhárítása, a sérült személyek orvosi ellátása, a veszélyhelyzetben levő személyek mentése, valamint a hajóút felszabadítása érdekében.
 
-5. §[^19] (1) A nemzetközi forgalomban közlekedő hajók ellenőrzését – a (3) bekezdésben foglaltak kivételével – a nemzetközi forgalom számára nyitva álló határátkelőhelyek kikötőiben kell lefolytatni közösen a Nemzeti Adó- és Vámhivatallal.
+5. §[^20] (1) A nemzetközi forgalomban közlekedő hajók ellenőrzését – a (3) bekezdésben foglaltak kivételével – a nemzetközi forgalom számára nyitva álló határátkelőhelyek kikötőiben kell lefolytatni közösen a Nemzeti Adó- és Vámhivatallal.
 
 (2) A nemzetközi forgalomban közlekedő hajók közös ellenőrzésében szükség szerint a hivatásos katasztrófavédelmi szerv is részt vehet.
 
@@ -24,5 +24,5 @@ d) a hajó vezetőjének vagy a személyzet szolgálatban lévő tagjainak munka
 
 (8) A veszélyes árut szállító külföldi úszólétesítmény csak akkor léptethető be, ha a hivatásos katasztrófavédelmi szerv ellenőrzése során szabálytalanságot nem állapított meg.
 
-[^18]: A 4. § az 50/2012. (X. 11.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^19]: Az 5. § az 50/2012. (X. 11.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^19]: A 4. § az 50/2012. (X. 11.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^20]: Az 5. § az 50/2012. (X. 11.) BM rendelet 1. § (4) bekezdésével megállapított szöveg.
