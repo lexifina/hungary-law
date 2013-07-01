@@ -1,0 +1,19 @@
+## 2. A hatáskör
+
+2. § (1) A rendőr-főkapitányság hatáskörébe az 1. mellékletben felsorolt bűncselekmények nyomozása tartozik.
+
+(2) A KR NNI hatáskörébe tartozik
+
+a) a 2. mellékletben felsorolt bűncselekmények nyomozása,
+
+b) a bűncselekmény bűnszervezetben történő elkövetésének gyanúja esetén a nyomozás, ha az annak alapjául szolgáló bűncselekménynek – a 2006. évi CI. törvénnyel kihirdetett, az Egyesült Nemzetek keretében, Palermóban, 2000. december 14-én létrejött, a nemzetközi szervezett bűnözés elleni Egyezmény 3. cikk (2) bekezdésében meghatározott – nemzetközi jellege van (a továbbiakban: nemzetközi jelleg).
+
+(3) Az RRI hatáskörébe tartozik
+
+a) a 3. mellékletben felsorolt bűncselekmények nyomozása, ha azokat az RRI – a Rendőrség szervei illetékességi területének megállapításáról szóló miniszteri rendeletben (a továbbiakban: miniszteri rendelet) meghatározott – illetékességi területén követték el, valamint
+
+b) az illetékességi területén elkövetett azon bűncselekmények nyomozása, amelyek nem a rendőr-főkapitányság vagy a KR NNI hatáskörébe tartoznak.
+
+(4) A vízirendészeti rendőrkapitányság hatáskörébe tartozik a 4. mellékletben felsorolt bűncselekmények nyomozása, ha azokat a vízirendészeti rendőrkapitányság – miniszteri rendeletben meghatározott – illetékességi területén követték el.
+
+(5) A rendőrkapitányság hatáskörébe tartozik – a (3) bekezdés b) pontjában és a (4) bekezdés b) pontjában megjelölt bűncselekmények kivételével – a Rendőrség nyomozó hatóságainak hatáskörébe tartozó, az 1–4. mellékletben fel nem sorolt bűncselekmények nyomozása.

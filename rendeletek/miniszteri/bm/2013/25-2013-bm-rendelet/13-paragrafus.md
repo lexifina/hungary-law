@@ -1,0 +1,5 @@
+## 12. § Hatályát veszti a Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 3/2008. (I. 16.) IRM rendelet.
+
+13. § (1) E rendelet hatálybalépését követően a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott bűncselekmény miatt indult, a Rendőrség nyomozó hatóságainak hatáskörébe tartozó nyomozásokban a Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 3/2008. (I. 16.) IRM rendeletnek a 2013. június 30-án hatályos rendelkezéseit kell alkalmazni.
+
+(2) E rendelet hatálybalépésekor folyamatban lévő, a Rendőrség nyomozó hatóságainak hatáskörébe tartozó nyomozásokban a Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 3/2008. (I. 16.) IRM rendeletnek a nyomozás megindulása napján hatályos rendelkezéseit kell alkalmazni.
