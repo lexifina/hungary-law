@@ -1,5 +1,3 @@
-## 9. §[^4]
-
 ## 6. Az útdíjszolgáltató
 
 10. § (1) A felügyeleti szerv a kijelölt egyetemes útdíjszolgáltatót nyilvántartásba veszi.
@@ -35,5 +33,3 @@ d) vezető volt olyan útdíjszolgáltatói tevékenységet végző szervezetné
 (6) A személyes megbízhatóság követelményének nem felel meg az a vezető sem, akire nézve a (4) bekezdésben meghatározott kizáró okok valamelyike a kérelem benyújtását követően, és a nyilvántartásba vétel tárgyában hozott határozat közlését megelőzően következik be.
 
 (7) Nem magyar állampolgár esetében az érintett vezető személyes jogának rendelkezései, a (4) bekezdés c) pontja esetében pedig az ott írt okokból elmarasztalt gazdálkodó szervezet személyes jogának rendelkezései az irányadók.
-
-[^4]: A 9. § a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.

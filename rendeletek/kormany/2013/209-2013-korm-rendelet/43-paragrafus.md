@@ -1,4 +1,4 @@
-## 31–42. §[^8]
+## 31–42. §[^1]
 
 ## 18. A felügyeleti szerv
 
@@ -14,4 +14,4 @@ d) vezeti a miniszter rendelete szerinti nyilvántartásokat.
 
 (2) A felügyeleti szerv tájékoztatja az Európai Unió tagországainak illetékes szerveit, valamint az Európai Bizottságot az EETS-sel összefüggő intézkedéseiről.
 
-[^8]: A 31–42. § a 47. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^1]: A 31–42. § a 47. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.

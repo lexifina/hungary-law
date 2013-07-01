@@ -1,5 +1,3 @@
-## 11. §[^5]
-
 ## 7. Az EETS szolgáltató
 
 12. § (1) Az EETS szolgáltatóra az útdíjszolgáltatóra vonatkozó rendelkezéseket a jelen alcímben foglalt kiegészítésekkel kell alkalmazni.
@@ -11,5 +9,3 @@
 (4) Amennyiben az EETS szolgáltató nem tudja teljesíteni a (2) bekezdésben meghatározott területi lefedettségre vonatkozó követelményeket, kérheti, hogy a felügyeleti szerv útdíjszolgáltatóként vegye nyilvántartásba, amennyiben az ezzel kapcsolatos feltételeknek megfelel.
 
 (5) Az alkalmazott EETS fedélzeti eszközöknek rendelkezniük kell a tanúsító szerv által kiállított tanúsítvánnyal.
-
-[^5]: A 11. § a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.

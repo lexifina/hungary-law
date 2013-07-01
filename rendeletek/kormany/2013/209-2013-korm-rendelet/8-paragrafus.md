@@ -24,6 +24,4 @@ g) kereskedelmi feltételek – ideértve a szolgáltatási szintre vonatkozó k
 
 (6) Az útdíjszedő honlapján köteles naprakészen közzétenni azoknak az útszakaszoknak a jegyzékét, amelynek használatáért útdíjat kell fizetni.
 
-(7)[^3]
-
-[^3]: A 8. § (7) bekezdése a 47. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+(7) Az útdíjszedő köteles az érvénytelenített fedélzeti eszközökről az útdíjszolgáltatók által rendelkezésére bocsátott adatokat nyilvántartani és ellenőrzés-támogatási tevékenysége során ezen adatokat felhasználni.
