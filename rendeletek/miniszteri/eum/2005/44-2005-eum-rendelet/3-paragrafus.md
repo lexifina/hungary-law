@@ -10,7 +10,7 @@ d) garantálja, hogy a forgalomba hozatalra engedélyezett gyógyszereket a hat�
 
 e) a gyógyszer gyártásával összefüggő minőségi kifogásokról negyedévente minőségi jelentést küld a GYEMSZI-nek;
 
-f) azonnal tájékoztatja a GYEMSZI-t, a Nemzeti Adó- és Vámhivatalt és a forgalombahozatali engedély jogosultját, amennyiben tudomására jut, hogy a gyártási engedélyének hatálya alá tartozó gyógyszereket hamisítják vagy feltehetően hamisítják, függetlenül a gyógyszer forgalmazásának formájától;
+f)[^13] azonnal tájékoztatja a GYEMSZI-t, a rendőrséget és a forgalombahozatali engedély jogosultját, amennyiben tudomására jut, hogy a gyártási engedélyének hatálya alá tartozó gyógyszereket hamisítják vagy feltehetően hamisítják, függetlenül a gyógyszer forgalmazásának formájától;
 
 g) ellenőrzi, hogy azokat a gyártókat, importőröket vagy forgalmazókat, akiktől a hatóanyagokat beszerzi, a letelepedésük szerinti tagállam hatáskörrel rendelkező hatóságánál bejegyezték-e;
 
@@ -21,3 +21,4 @@ h) ellenőrzi a hatóanyagok és segédanyagok eredetiségét és minőségét.
 (3) Az (1) bekezdés a) pontja alkalmazása során a gyógyszergyártási engedély jogosultjának a helyes gyártási gyakorlat megfelelő szabályainak betartása által biztosítania kell, hogy a segédanyagok alkalmasak legyenek a gyógyszerekben való felhasználásra. A segédanyagok tekintetében a helyes gyártási gyakorlat szabályait az Európai Bizottság iránymutatásaival összhangban végzett kockázatelemzés alapján kell megállapítani. A kockázatelemzés során figyelembe kell venni a megfelelő minőségbiztosítási rendszerek követelményeit, a segédanyagok forrását és tervezett felhasználását, valamint a minőségi hiányosságok korábbi eseteit. A gyógyszergyártási engedély jogosultjának biztosítania kell, hogy az ily módon megállapított megfelelő helyes gyártási gyakorlatot alkalmazzák. A gyártási engedély jogosultjának a meghozott intézkedéseket dokumentálnia kell.
 
 [^12]: A 3. § az 53/2012. (XII. 28.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^13]: A 3. § (1) bekezdés f) pontja az 53/2012. (XII. 28.) EMMI rendelet 18. § (2) bekezdése szerint módosított szöveg.
