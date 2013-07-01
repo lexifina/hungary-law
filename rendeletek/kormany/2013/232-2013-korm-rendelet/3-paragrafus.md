@@ -1,0 +1,1 @@
+## 2. § Az e rendeletben szabályozott jogszabályi kezesség tekintetében az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendeletet (a továbbiakban: R.) az e rendeletben foglalt eltérésekkel kell alkalmazni.

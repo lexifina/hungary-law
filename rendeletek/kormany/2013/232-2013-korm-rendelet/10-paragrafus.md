@@ -1,0 +1,5 @@
+10. § (1) Az állami készfizető kezesség érvényesítésének feltétele, hogy a KAVOSZ VF nem teljesítése esetén a pénzügyi intézmény a refinanszírozási célú hitelszerződés felmondását megelőzően írásban felszólítja a KAVOSZ VF-t a tartozása megfizetésére.
+
+(2) Amennyiben a refinanszírozási célú hitelszerződés felmondásra kerül, a lejáratkor a kölcsönt a KAVOSZ VF még nem fizette teljesen vissza, vagy a hitelszerződés alapján fennálló követelés jogszabály alapján esedékessé válik, a pénzügyi intézmény a refinanszírozási célú hitelszerződés lejáratát, esedékessé válását vagy – amennyiben az korábbi – annak felmondását követő 180 naptári napon belül érvényesítheti az állami kezességvállalásból eredő jogait a NAV-nál az R. 11. számú melléklete szerinti igénylőlapon jelzett adatok és dokumentumok rendelkezésre bocsátásával a 10032000-01907003 számú „NAV Állami kezesség beváltás” folyósítási számla ellenében. E határidő elmulasztása jogvesztéssel jár.
+
+(3) A NAV az érvényesítés iránti kérelmet elutasítja, ha a megkötött refinanszírozási célú hitelszerződés nem felelt meg a Kvtv. 44/B. §-ában vagy az e rendeletben meghatározott feltételeknek.
