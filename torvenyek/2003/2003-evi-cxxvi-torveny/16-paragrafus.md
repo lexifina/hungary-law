@@ -96,6 +96,6 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 
 (13) A személy jogosult a saját forgalmára vonatkozó adatok lekérésére.
 
-(14) A vámtitok megőrzésének a kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi információs egységként működő hatóság – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresése teljesítése céljából, ha a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot – írásban kér vámtitoknak minősülő adatot a vámhatóságtól.
+(14) A vámtitok megőrzésének a kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából közvetlen hozzáféréssel lekérdez vagy írásbeli megkeresés útján kér vámtitoknak minősülő adatot a vámhatóságtól.
 
 (15) Piackutatásra vagy egyéb célra díjfizetés ellenében adható át olyan forgalmi adat, amely személlyel nem azonosítható, azonban nem adható át adat stratégiai termékekről, így különösen az állami tartalék célú áruforgalomról, a nemzetbiztonsági és honvédelmi célú áruforgalomról, továbbá ha a forgalmazásban az exportőr, importőr vagy gyártó száma háromnál kevesebb. A fizetendő díj mértékének meghatározó szempontjait e törvény végrehajtási rendelete tartalmazza.

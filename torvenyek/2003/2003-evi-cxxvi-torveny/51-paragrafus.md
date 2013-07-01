@@ -9,3 +9,5 @@
 (5) A vámhatóság számlavezető szerve évente, november 1-jéig köteles közölni az adóssal a vámösszegre, valamint az egyéb adójellegű kötelezettségekre és díjakra vonatkozó jogcímenkénti egyenleget, valamint a befizetővel a központi vámbiztosíték letéti számlára egyedi azonosítással befizetett készpénzes vámbiztosítéka(i) egyenlegét.
 
 (6) Az adatfeldolgozási technika alkalmazásával benyújtott árunyilatkozatok esetében, amennyiben a technikai feltételek adottak, a vámhatóság döntését elektronikus dokumentum formájában hozhatja meg. Az e bekezdésben meghatározott döntések kiadmányozása személy által felügyelt automatizált aláírással, elektronikus formában történik.
+
+(7) A vámhatóság által vezetett, a vámokkal és nem közösségi adókkal és díjakkal kapcsolatos kötelezettségeket és pénzforgalmat nyilvántartó folyószámla-nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
