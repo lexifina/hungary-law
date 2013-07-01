@@ -10,6 +10,6 @@ a) az alapügyben akár felmerült, akár fel nem merült tényre vonatkozó oly
 
 b) a jogi személlyel szemben ugyanazon terhelt cselekményével összefüggésben több ítélet alkalmazott intézkedést.
 
-(2) Ha a perújítást azon vádlott vonatkozásában rendelték el, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a perújítás elrendelése az ítélet jogi személyre vonatkozó rendelkezésére is kihat.
+(2) Ha a perújítást azon vádlott vonatkozásában rendelték el, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a perújítás elrendelése az ítélet jogi személyre vonatkozó rendelkezésére is kihat. Ha a bíróság megállapítja, hogy a perújítás alapos, és új ítéletet hoz, a 3. § rendelkezései az új ítélet kapcsán is alkalmazandók.
 
 (3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen perújítási indítványt az ügyész és a jogi személy képviselője terjeszthet elő.

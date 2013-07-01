@@ -2,7 +2,7 @@
 
 24. § (1) Felülvizsgálatnak az ítélet jogi személyre vonatkozó rendelkezése ellen a Be. 416. §-a (1) bekezdésének c) pontjában meghatározott eseten kívül akkor van helye, ha a jogi személlyel szemben az intézkedés alkalmazására vagy annak mellőzésére a büntető anyagi jog, vagy e törvény szabályainak megsértése miatt került sor.
 
-(2) Ha a felülvizsgálatnak azon vádlott vonatkozásában van helye, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a felülvizsgálat kiterjed az ítélet jogi személyre vonatkozó rendelkezésére is.
+(2) Ha a felülvizsgálatnak azon vádlott vonatkozásában van helye, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a felülvizsgálat kiterjed az ítélet jogi személyre vonatkozó rendelkezésére is. A 3. § rendelkezései a felülvizsgálati eljárás során, illetve a megismételt eljárás során hozott határozat kapcsán is alkalmazandók.
 
 (3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen felülvizsgálati indítvány benyújtására az ügyész – a jogi személlyel szemben intézkedés alkalmazása érdekében hat hónapon belül – és a jogi személy képviselője jogosult.
 

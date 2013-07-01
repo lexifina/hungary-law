@@ -1,10 +1,10 @@
 ## A jogi személy képviselője
 
-9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében – annak képviselőjeként – meghatalmazás vagy kirendelés alapján ügyvéd jár el. A bíróság, az ügyész, illetőleg a nyomozó hatóság ügyvédet rendel ki, ha a jogi személynek nincs meghatalmazott képviselője.
+9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében – annak képviselőjeként – meghatalmazás vagy kirendelés alapján ügyvéd jár el. A bíróság, az ügyész, illetve a nyomozó hatóság ügyvédet rendel ki, ha a jogi személynek nincs meghatalmazott képviselője.
 
 (2) A jogi személy (1) bekezdés szerinti képviseletére – a (3) bekezdésben foglalt kivétellel – meghatalmazást a jogi személy törvényes képviselője adhat.
 
-(3) A terhelt, a terhelt hozzátartozója, illetőleg védője a jogi személynek az (1) bekezdés szerinti képviseletére meghatalmazást nem adhat. A terhelt védője nem lehet a jogi személy (1) bekezdés szerinti képviselője.
+(3) A terhelt, a terhelt hozzátartozója, illetve védője a jogi személynek az (1) bekezdés szerinti képviseletére meghatalmazást nem adhat. A terhelt védője nem lehet a jogi személy (1) bekezdés szerinti képviselője.
 
 (4) A jogi személynek az (1) bekezdés szerinti képviselőjére – az (5) bekezdésben meghatározott eltérésekkel – a védőre vonatkozó szabályok irányadók.
 

@@ -6,4 +6,4 @@
 
 (3) Megalapozatlanság [Be. 351. § (2) bek.] esetén a másodfokú bíróság az első fokú bíróságtól eltérő tényállást állapíthat meg, ha a felvett bizonyítás alapján a jogi személlyel szemben alkalmazott intézkedés mellőzésének van helye.
 
-(4) A másodfokú bírósági eljárásban a jogi személlyel szemben intézkedést alkalmazni, illetőleg az alkalmazott intézkedést súlyosítani, vagy az első fokú eljárás során alkalmazott intézkedés mellett más intézkedést alkalmazni csak akkor lehet, ha az ügyész a jogi személy terhére fellebbezést jelentett be. A jogi személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami a jogi személlyel szemben intézkedés vagy súlyosabb intézkedés alkalmazására irányul.
+(4) A másodfokú bírósági eljárásban a jogi személlyel szemben intézkedést alkalmazni, illetve az alkalmazott intézkedést súlyosítani, vagy az első fokú eljárás során alkalmazott intézkedés mellett más intézkedést alkalmazni csak akkor lehet, ha az ügyész a jogi személy terhére fellebbezést jelentett be. A jogi személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami a jogi személlyel szemben intézkedés vagy súlyosabb intézkedés alkalmazására irányul.

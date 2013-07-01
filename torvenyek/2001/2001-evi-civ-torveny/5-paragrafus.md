@@ -18,7 +18,7 @@ f)
 
 g) nem folytathat egyéb olyan tevékenységet, amelynek gyakorlásától a bíróság eltiltotta.
 
-(3) A tevékenység korlátozása esetén az ítélet jogerőre emelkedése napján a bíróság rendelkezésétől függően
+(3) A tevékenység korlátozása esetén a bíróság határozatának jogerőre emelkedése napján a bíróság rendelkezésétől függően
 
 a) beállnak a jogi személlyel a közbeszerzési eljárás alapján megkötött szerződés azonnali hatályú felmondásának jogkövetkezményei,
 

@@ -2,7 +2,7 @@
 
 26. § (1) A jogi személlyel szemben alkalmazott intézkedés végrehajtása iránt a bíróság a megszűntnek nyilvánítás és a tevékenység korlátozása esetén a jogi személyről nyilvántartást vezető bíróságot keresi meg.
 
-(2) A jogi személy megszüntetése esetén a nyilvántartást vezető bíróság az egyes jogi személyekre vonatkozó külön törvényeknek a megszűntnek nyilvánítás, illetőleg a feloszlatás esetén irányadó szabályai szerint jár el, azzal az eltéréssel, hogy ha a bíróság a büntetőeljárás során a jogi személy vagyonát érintően vagyonelkobzást (Btk. 77/B–77/C. §) alkalmazott, annak bírósági végrehajtása megelőzi a jogi személy vagyonának felosztását és így a végelszámolási, illetőleg felszámolási eljárás megindítását, illetőleg folytatását.
+(2) A jogi személy megszüntetése esetén a nyilvántartást vezető bíróság az egyes jogi személyekre vonatkozó külön törvényeknek a megszűntnek nyilvánítás, illetve a feloszlatás esetén irányadó szabályai szerint jár el, azzal az eltéréssel, hogy ha a bíróság a büntetőeljárás során a jogi személy vagyonát érintően vagyonelkobzást alkalmazott, annak bírósági végrehajtása megelőzi a jogi személy vagyonának felosztását és így a végelszámolási, illetve felszámolási eljárás megindítását, illetve folytatását.
 
 (3) A jogi személy vagyonát érintően végrehajtott vagyonelkobzás esetén is irányadó a Polgári Törvénykönyvnek az állam határozattal, kártalanítás nélküli tulajdonszerzésére vonatkozó felelősségi szabálya.
 
