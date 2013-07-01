@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-22-20-0
 | --- | --- | --- |
 | 2012-01-01 | 2011-22-20-0G.1 | 22/2011. (X. 20.) PSZÁF rendelet |
 | 2013-01-01 | 2011-22-20-0G.2 | 3/2012. (VIII. 28.) PSZÁF rendelet |
+| 2013-07-01 | 2011-22-20-0G.3 | 3/2012. (VIII. 28.) PSZÁF rendelet |
