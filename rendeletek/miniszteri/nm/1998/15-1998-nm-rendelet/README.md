@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2013-02-08 | 1998-15-20-3D.18 | 11/2013. (II. 7.) EMMI rendelet |
 | 2013-03-08 | 1998-15-20-3D.19 | 20/2013. (III. 5.) EMMI rendelet |
 | 2013-04-01 | 1998-15-20-3D.20 | 25/2013. (III. 29.) EMMI rendelet |
+| 2013-07-01 | 1998-15-20-3D.21 | 26/2013. (III. 29.) EMMI rendelet |

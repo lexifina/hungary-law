@@ -22,7 +22,7 @@
 
 ## ** Az egyenlegnek legkésőbb a gyermek családi pótléka személyre szóló felhasználásáról készített beszámoló időpontjában nullának kell lennie.
 
-8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^418]
+8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^420]
 
 KAPCSOLATTARTÁSI NAPLÓ
 
@@ -40,4 +40,4 @@ ________________
 
 * Ha a kapcsolattartás a gyermek elvitelével valósul meg, az aláírás igazolja a gyermek elvitelét, illetve visszahozatalát.
 
-[^418]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.
+[^420]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.
