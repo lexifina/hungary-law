@@ -12,6 +12,14 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (2) Aki az (1) bekezdés szerinti jelnyelvi tolmácsolási tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Jelnyelvi Tolmácsok Országos Névjegyzékét (a továbbiakban: Névjegyzék) vezető hatóságnak bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
+(2a) A bejelentéshez mellékelni kell
+
+a) a képesítési feltételek teljesítésének igazolását,
+
+b) a tolmácsolási gyakorlat meglétének igazolását,
+
+c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást.
+
 (3) A Névjegyzéket vezető hatóság a jelnyelvi tolmácsolási tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet.
 
 (4) A Névjegyzék tartalmazza a jelnyelvi tolmács
@@ -35,6 +43,8 @@ h) továbbképzésen történő részvételének helyét, időpontját és időt
 i) igazolt szakmai gyakorlatának időtartamát,
 
 j) tevékenységének szüneteltetése esetén annak tényét, valamint időtartamát.
+
+(4a) A (3) bekezdés szerinti nyilvántartás a (4) bekezdés e), g) és j) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (5) A Névjegyzékben szereplő adatokból a Névjegyzéket vezető hatóság a honlapján közzéteszi a jelnyelvi tolmács
 
