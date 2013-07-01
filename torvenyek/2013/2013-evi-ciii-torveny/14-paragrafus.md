@@ -1,39 +1,89 @@
 ## 11. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-14. § (1)–(3)
+14. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A (2) bekezdésben foglaltak és a jogszabályon alapuló, kötelező kezesség-, illetve garanciavállalás kivételével az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat az Áht. szerinti önkormányzati kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.”
+
+(2) A Gst. 10. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Települési önkormányzat adósságot keletkeztető ügyletet – a (2) bekezdés szerinti kormányzati engedély nélkül megköthető ügyletek és a (10) bekezdés szerinti adósságmegújító hitel kivételével – csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló 1990. évi C. törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette.”
+
+(3) A Gst. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Nincs szükség a Kormány hozzájárulására
+
+a) a központi költségvetésből nyújtott, európai uniós vagy más nemzetközi szervezettől megnyert pályázat önrészének és az így megnyert támogatás előfinanszírozásának biztosítására szolgáló,
+
+b) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozó,
+
+c) a likvid hitelre vonatkozó,
+
+d) a fővárosi önkormányzat és megyei jogú város esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át meg nem haladó, de legfeljebb 10 millió forint összegű fejlesztési célú
+
+adósságot keletkeztető ügylet megkötéséhez, továbbá
+
+e) a d) pont szerinti önkormányzat-kategóriákba tartozó önkormányzatok ott leírtak szerinti értékhatárokat meg nem haladó összegű Áht. szerinti önkormányzati kezesség- és garanciavállalásaihoz.”
 
 (4)
 
-(5)–(8)
+(5) A Gst. 10. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A (2) bekezdés d) pontjának alkalmazásakor az ugyanazon fejlesztési cél megvalósítását szolgáló fejlesztésekhez kapcsolódó ügyletek értékét egybe kell számítani.”
+
+(6) A Gst. 10. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) A (2) bekezdés e) pontjának alkalmazásakor az ugyanazon adósnak nyújtott kezesség- és garanciavállalások értékét egybe kell számítani.”
+
+(7) A Gst. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az önkormányzat működési célra a (4a) bekezdés szerinti ügylet kivételével csak likvid hitelt vehet fel.”
+
+(8) A Gst. 10. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az önkormányzat a 2012. december 31-e előtt kötött működési célú ügyletét egyszeri alkalommal, a Kormány előzetes hozzájárulásával naptári éven túli futamidejű adósságmegújító hitellel kiválthatja vagy szerződésmódosítással naptári éven túli futamidejű ügyletté alakíthatja. Ezen adósságmegújító hitel, illetve a szerződésmódosítás eredményeként előálló ügylet összege nem lehet nagyobb, mint az eredeti ügyletből 2012. december 31-én fennálló adósság. A Kormány az előzetes hozzájárulást a (10) bekezdésben meghatározott feltételek teljesülése esetén adja meg.”
 
 (9)–(10)
 
-(11)–(15)
+(11) A Gst. 10. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-(16) A Gst. a következő 28/A. §-sal egészül ki:
+„(8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járulhat hozzá:
 
-„28/A. § (1) A fizetési kötelezettség vállalkozási tevékenységet végző jogalanya által a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófaveszély és veszélyhelyzet (a továbbiakban együtt: katasztrófahelyzet) esetén, annak időtartama alatt, ellenszolgáltatás nélkül, a katasztrófahelyzet következményeinek elhárítása, mérséklése céljából
+a) az adósságot keletkeztető ügylet – a (7) bekezdés szerinti adatszolgáltatást is figyelembe véve – az államháztartás önkormányzati alrendszere adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
 
-a) végzett tevékenységet vagy
+b) az adósságot keletkeztető ügylet az önkormányzat törvényben meghatározott feladatának ellátásához szükséges kapacitás létrehozását eredményezi, azzal, hogy a működési kiadások folyamatos teljesítése biztosított, és
 
-b) a katasztrófahelyzetben lévők számára nyújtott szolgáltatást, termékátadást
+c) ha teljesül az (1a) és a (3) bekezdés szerinti feltétel.”
 
-a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevékenységvégzésnek kell tekinteni, mint amit a jogalany a vállalkozási, gazdasági tevékenységi körében fejtett ki.
+(12) A Gst. 10. §-a a következő (8a) bekezdéssel egészül ki:
 
-(2) Nem keletkezik fizetési kötelezettség
+„(8a) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha teljesül a (3) bekezdés és a (8) bekezdés b) pontja szerinti feltétel, azzal, hogy a (3) bekezdés alkalmazása során az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségét kell érteni.”
 
-a) az (1) bekezdés szerinti tevékenységvégzés után, feltéve, ha azt a fizetési kötelezettséggel érintett, vállalkozási tevékenységet végző jogalany a tevékenységvégzés napjától számított 60 napon belül, a nyújtott szolgáltatás és átadott termék megnevezésével, mennyiségének megjelölésével a fizetési kötelezettséggel kapcsolatos ügyben illetékes adóhatósághoz bejelenti,
+(13) A Gst. 10. §-a következő (8b) bekezdéssel egészül ki:
 
-b) az (1) bekezdés szerinti tevékenységvégzés keretében – a katasztrófahelyzetre tekintettel – a katasztrófahelyzetben levők által kapott vagyoni érték után.
+„(8b) A Kormány a (8), (8a) és (10) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi.”
 
-(3) Fizetési kötelezettséget megállapító jogszabály katasztrófahelyzet, továbbá a jogalanyok széles körét érintő – veszélyhelyzetnek nem minősülő – az emberi életet veszélyeztető elemi csapás, ipari szerencsétlenség esetén, az (1) és (2) bekezdésben foglaltakhoz képest a jogalanyokra kedvezőbb rendelkezést is megállapíthat.”
+(14) A Gst. 10. § (9) bekezdése helyébe a következő rendelkezés lép:
 
-(17) A Gst. 45. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+„(9) Az önkormányzat az (1) bekezdés szerinti hozzájárulás iránti kérelméhez
 
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
+a) hitel felvételének szándéka esetén a hitelt folyósító pénzügyi szolgáltató és az önkormányzat közötti hitelszerződés tervezetét,
 
-„a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,”
+b) kötvény nyilvános kibocsátásának szándéka esetén a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
 
-(18) A Gst. a következő 50. §-sal egészül ki:
+c) kötvény zártkörű kibocsátásának szándéka esetén a befektető és az önkormányzat közötti, a kötvény lejegyzéséről vagy megvásárlásáról szóló megállapodás tervezetét,
 
-„50. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: 2013. évi CIII. tv.) megállapított 28/A. § (1) és (2) bekezdését a 2013. március 14-e és 16-a közötti időszakban bekövetkezett szélsőséges időjárási körülmények során a mentéshez ellenérték nélkül nyújtott segítségre, továbbá a 2013. évi CIII. tv. hatálybalépését megelőzően, 2013. évben kihirdetett veszélyhelyzetre is alkalmazni kell azzal, hogy a 2013. évi CIII. tv. hatálybalépését megelőzően folytatott 28/A. § szerinti tevékenységvégzés esetén a bejelentési kötelezettséget a 2013. évi CIII. tv. hatálybalépésétől számított 60 napon belül kell teljesíteni.”
+d) kezesség-, illetve garanciavállalás esetén a kezesi szerződés, illetve a garanciaszerződés és a kezességgel, illetve garanciával biztosított ügyletről szóló szerződés tervezetét és az adósnak az ügylet futamidejének végéig tartó időszakra vonatkozó pénzügyi információit,
+
+e) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó dokumentumokat
+
+mellékeli.”
+
+(15) A Gst. 10. § (13) bekezdése helyébe a következő rendelkezés lép:
+
+„(13) A megkötött adósságot keletkeztető ügyletekre, valamint a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
+
+a) a szerződésmódosítást követően előálló kondíciók mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
+
+b) a módosított szerződés az eredetihez képest hosszabb futamidejű vagy nagyobb ügyletértékű, vagy az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, vagy a kezesség, illetve garancia összege nő.”
+
+(16)–(18)
