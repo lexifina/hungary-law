@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-166-00-00
 | 2012-10-02 | 2010. évi CXXX. törvény | 2011-166-00-00.16 |
 | 2013-01-01 | 2012. évi CXCVI. törvény | 2011-166-00-00.17 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2011-166-00-00.18 |
+| 2013-07-01 | 2013. évi LXXVI. törvény | 2011-166-00-00.19 |
