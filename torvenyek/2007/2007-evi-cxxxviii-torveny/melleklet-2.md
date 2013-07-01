@@ -209,3 +209,19 @@ e) a kereskedési könyv szerinti nyitva szállítás értékét a második szer
 25. Ha a 23. pont szerinti korlátozások figyelembevételével meghatározott járulékos tőke értékét meghaladja a 24. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
 
 26. A 12., 21. és a 24. pontban foglalt levonásokat követően fennmaradó – a 14. pont f) alpontjában és a 24. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 101. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
+
+27. A 12., 21. és a 24. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni a 101. § szerinti limittúllépések összegét. A levonások során érvényesíteni kell a 23. pontban meghatározott korlátozásokat.
+
+28. A szavatoló tőke a 105. § (1) bekezdés b) pontjának bb) és bc) alpontja és a 105. § (5) bekezdése alkalmazásában a 27. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
+
+29. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az lapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 27. pontban foglalt levonások és a 105. § (1) bekezdés b) pontjának bb) és bc) alpontja, a 105. § (5) bekezdése és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 23. pontban meghatározott korlátozások miatt fel nem használható része alkotja.
+
+30. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
+
+a) megfelel a 18. pont a), b), d), e) és f) alpontjaiban rögzített feltételeknek,
+
+b) eredeti futamideje legalább két év,
+
+c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően kizárólag akkor fizethető vissza, ha a kereskedési könyvet vezető intézmény megfelel a rá vonatkozó tőkekövetelményeknek.
+
+31. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének 200%-át.

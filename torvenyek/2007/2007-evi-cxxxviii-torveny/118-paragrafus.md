@@ -44,7 +44,9 @@ c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bű
 
 d) a Befektető-védelmi Alap által külföldi befektetővédelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
 
-e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art. 52. §-ának (8) bekezdése alapján szolgáltat adatot.
+e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art. 52. §-ának (8) bekezdése alapján szolgáltat adatot,
+
+f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól.
 
 (5) A (4) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 

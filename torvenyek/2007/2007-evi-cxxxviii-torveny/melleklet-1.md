@@ -6,7 +6,7 @@
 
 3. Bit.: a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény,
 
-4. Btk.: a Büntető Törvénykönyvről szóló 1978. évi IV. törvény,
+4. Btk.: a Büntető Törvénykönyvről szóló 2012. évi C. törvény,
 
 5. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 
