@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-26-20-2
 | --- | --- | --- |
 | 2013-06-29 | 2013-26-20-2X.1 | 26/2013. (VI. 28.) NGM rendelet |
 | 2013-06-30 | 2013-26-20-2X.2 | 2010: CXXX. törvény |
+| 2013-07-01 | 2013-26-20-2X.3 | 2010: CXXX. törvény |
