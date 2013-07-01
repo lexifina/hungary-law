@@ -19,3 +19,7 @@ b) a nyilvántartásba vett személy elhalálozott,
 c) a tevékenység végzésére vonatkozó, külön jogszabályban előírt jogosultságát elveszti, vagy
 
 d) a foglalkozástól jogerősen eltiltották.
+
+(3)[^10] A nyilvántartás az (1) bekezdés b)–e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+[^10]: A 23. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 16. §-a iktatta be.
