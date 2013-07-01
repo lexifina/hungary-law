@@ -8,7 +8,7 @@ c) bűnösséget megállapító jogerős ítéletben a bíróság által megáll
 
 ca) bűncselekmény megnevezését,
 
-cb) bűncselekmény Btk. szerinti minősítését,
+cb) bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
 
 cc) elkövetői és elkövetési alakzatot,
 
@@ -20,7 +20,7 @@ cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként 
 
 d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
 
-e) a kiszabott büntetés (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát) és mellékbüntetés nemét, mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+e) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 
 f) a büntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 
@@ -40,7 +40,7 @@ m) a szakrendszeri azonosító kódot.
 
 (2) A büntetés-végrehajtási adatok közül a bűntettesek nyilvántartása tartalmazza
 
-a) a szabadságvesztés előjegyzett kezdő napját, foganatba vételének (a befogadásnak, illetve a szabadságvesztés végrehajtása megkezdésének) napját, valamint a szabadságvesztés előjegyzett utolsó napját,
+a) a szabadságvesztés vagy az elzárás előjegyzett kezdő napját, foganatba vételének (a befogadásnak, illetve a szabadságvesztés vagy az elzárás végrehajtása megkezdésének) napját, valamint a szabadságvesztés vagy az elzárás előjegyzett utolsó napját,
 
 b) a feltételes szabadságra bocsátás napját, a feltételes szabadság leteltének napját, a feltételes szabadság megszüntetésének tényét, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát és keltét, a pártfogó felügyelet időtartamát,
 
@@ -48,4 +48,4 @@ c) a büntetés félbeszakítása esetén az engedélyező megnevezését, hatá
 
 d) a szabadon bocsátás napját,
 
-e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás leteltének napját, továbbá e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.
+e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, továbbá e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.

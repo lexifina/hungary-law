@@ -6,8 +6,10 @@ b) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet 
 
 c) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, de büntetés kiszabását mellőzte,
 
-d) akivel szemben a bíróság felmentő ítélet mellett kényszergyógykezelést, elkobzást, vagyonelkobzást alkalmazott,
+d) akivel szemben a bíróság felmentő ítélet mellett kényszergyógykezelés, elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele intézkedést alkalmazott,
 
 e) akivel szemben a bíróság próbára bocsátást alkalmazott, valamint
 
-f) akit az ügyész megrovásban részesített.
+f) akivel szemben a bíróság jóvátételi munkát alkalmazott, valamint
+
+g) akit az ügyész megrovásban részesített.

@@ -14,14 +14,14 @@ a) annak a személynek, akire az adatigénylés vonatkozik
 
 aa) a családi és utónevét,
 
-ab) a születési családi és utónevét,
+ab) születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, előző születési családi és utónevét,
 
 ac) a születési helyét és idejét,
 
-ad) az anyja születési családi és utónevét,
+ad) az anyja születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, anyja előző születési családi és utónevét,
 
 ae) az állampolgárságát,
 
-af) a lakcímét, valamint
+af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, valamint
 
 b) az adatigénylő pontos megnevezését és címét.

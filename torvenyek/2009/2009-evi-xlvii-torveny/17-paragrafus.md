@@ -18,4 +18,6 @@ b) a közérdekű munka szabadságvesztés büntetésre történő átváltoztat
 
 közli a bűnügyi nyilvántartó szervvel.
 
+(7a) A 16. § (2) bekezdés i) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
+
 (8) A 16. § (2) bekezdés j) pontjában meghatározott adatot az igazságügyi megfigyelő és elmegyógyító intézet közli a bűnügyi nyilvántartó szervvel.

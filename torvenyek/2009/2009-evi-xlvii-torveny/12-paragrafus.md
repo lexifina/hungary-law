@@ -5,3 +5,5 @@
 (3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (4) A 11. § (2) bekezdés a)–d) pontjában meghatározott adatokat a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
+
+(5) A 11. § (2) bekezdés e) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.

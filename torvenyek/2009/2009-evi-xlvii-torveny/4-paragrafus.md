@@ -14,13 +14,13 @@ a) az érintett
 
 aa) családi és utónevét,
 
-ab) születési családi és utónevét,
+ab) születési családi és utónevét, továbbá annak megváltozása esetén előző születési családi és utónevét,
 
 ac) nemét,
 
 ad) születési helyét és idejét,
 
-ae) anyja születési családi és utónevét,
+ae) anyja születési családi és utónevét, továbbá annak megváltoztatása esetén anyja előző születési családi és utónevét,
 
 af) személyi azonosítóját,
 
@@ -28,7 +28,7 @@ ag) előző családi és utónevét,
 
 ah) állampolgárságát, előző állampolgárságát, valamint
 
-ai) lakcímét (a továbbiakban együtt: személyazonosító adatok),
+ai) lakcímét, továbbá annak megváltozása esetén előző lakcímét (a továbbiakban együtt: személyazonosító adatok),
 
 b) az érintett arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak,
 

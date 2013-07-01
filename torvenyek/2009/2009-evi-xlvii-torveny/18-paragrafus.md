@@ -10,7 +10,7 @@ b) életfogytig tartó szabadságvesztés esetén az elítélt személy halálá
 
 kell nyilvántartani.
 
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett vagy részben felfüggesztett
 

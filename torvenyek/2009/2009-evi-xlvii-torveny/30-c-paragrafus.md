@@ -18,7 +18,7 @@ h) a kényszerintézkedést és egyéb korlátozást elrendelő határozat, a b�
 
 ha) megnevezését,
 
-hb) Btk. szerinti minősítését,
+hb) 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
 
 i) a határozattal és a határozatot hozó bírósággal kapcsolatban:
 
