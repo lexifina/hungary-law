@@ -24,7 +24,7 @@ c) helyi közforgalomban közlekedő közösségi közlekedési eszközön, hely
 
 (3) Az (1) bekezdés a) pontjában foglaltaktól eltérően dohányzóhely kijelölése nélkül is lehet dohányozni
 
-a) a dohánytermék kereskedelmi bemutatója céljából létrejött rendezvényen,
+a)
 
 b) szállásszolgáltatást nyújtó intézmények kifejezetten dohányzóként kiadott és ekként megjelölt, zárt légterű szobáiban,
 

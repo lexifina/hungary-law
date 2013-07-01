@@ -20,4 +20,4 @@ c) egyik keskenyebb oldalán, az oldal legalább 10%-át kitevő felületen a ci
 
 (5) A dohánytermékek címkézésének és csomagolásának további részletes szabályaira külön jogszabály rendelkezései az irányadóak.
 
-(6) Dohánytermék árusítása automatából nem megengedett.
+(6)
