@@ -10,6 +10,8 @@ d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgál
 
 e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság milyen döntést (hatályon kívül vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító) hozott.
 
+(1a) Az (1) bekezdésben meghatározott nyilvántartás – az (1) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A hatósági nyilvántartás adatait a munkaügyi hatóság az általa létrehozott informatikai rendszerben kezeli. Az (1) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkaügyi hatóság által történik a jogsértést megállapító határozat jogerősítésének napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
 
 (3) A munkaügyi hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.

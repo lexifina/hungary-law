@@ -20,6 +20,6 @@ is érteni kell.
 
 (6) Felhatalmazást kap
 
-a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a Magyar Honvédségnél, valamint azon gazdasági társaságoknál, amelyeknél az állam nevében a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja, valamint a Katonai Nemzetbiztonsági Szolgálatnál,
+a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, illetve ideiglenes építési munkahelynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter,
 
-b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél.
+b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál.

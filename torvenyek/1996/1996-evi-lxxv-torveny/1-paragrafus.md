@@ -32,4 +32,4 @@ e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
 (7) A (6) bekezdés szerinti vélelemre alapított határozat kizárólag a 3. § (1) bekezdés a)–b), valamint i) pontjainak megsértésével összefüggésben tartalmazhat rendelkezést. Az ebbe a körbe nem tartozó jogsértések miatt a tevékenységet ténylegesen irányító foglalkoztatóval szemben a vélelemmel megállapított munkaviszonyt érintően csak a vélelmet tartalmazó határozat jogerőre emelkedése után történt elkövetés esetén hozható határozat.
 
-(8) Az ágazati miniszter eltérő szabályokat állapíthat meg a Magyar Honvédségnél, valamint azon gazdasági társaságoknál, amelyeknél az állam nevében a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja, a Katonai Nemzetbiztonsági Szolgálatnál, továbbá a rendvédelmi szerveknél a 3. § alkalmazására, és a feladatok ellátására önálló szervezetet hozhat létre.
+(8)
