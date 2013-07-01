@@ -1,15 +1,35 @@
-## 2. § Kisajátítási terv készítésével kapcsolatos földmérési munka csak a megrendelő írásbeli megbízása alapján és a földmérési és térképészeti tevékenységről szóló jogszabályok rendelkezése szerint földmérésre jogosult (a továbbiakban: földmérő) által végezhető.
-
 ## A kisajátítási terv elemei
 
-3. § (1) A kisajátítási terv kisajátítási átnézeti térképből, ha a kisajátítás az ingatlan területének csak egy részét érinti, kisajátítási változási vázrajzból (a továbbiakban: kisajátítási vázrajz) és a hozzájuk tartozó területkimutatásokból áll.
+3. §[^4] (1) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást eredményező kisajátítás esetén a kisajátítási terv elemei a következők:
 
-(2) A kisajátítási átnézeti térkép a kisajátítással érintett földrészleteket és azok közvetlen környezetét ábrázoló, az ingatlan-nyilvántartási térkép alapján készített rajzi munkarész, amely nyomvonalas építmény esetén annak nyomvonalát is tartalmazza.
+a) kisajátítási változási vázrajz (a továbbiakban: kisajátítási vázrajz) és a hozzá tartozó területkimutatás,
 
-(3) Egész földrészlet kisajátítása esetén a kisajátítási vázrajzot a földrészletre vonatkozó ingatlan-nyilvántartási térkép hiteles másolata helyettesíti.
+b) – ha a kisajátítási cél megvalósítása több ingatlant érint – a kisajátítási átnézeti térkép, és
 
-(4) A kisajátítási vázrajzot földrészletenként kell elkészíteni.
+c) a kisajátítással érintett ingatlannal kapcsolatban az alábbi adatokat tartalmazó dokumentum (a továbbiakban: jogosultak listája):
 
-(5) A kisajátítási vázrajzot az ingatlan-nyilvántartási térkép alapján, digitális formában úgy kell elkészíteni, hogy a változás az ingatlan-nyilvántartásban átvezethető legyen.
+ca) a tulajdonos neve, lakcíme (székhelye), tulajdoni hányada, a tulajdonszerzés jogcíme, valamint az ingatlanon fennálló egyéb jog jogosultjának neve, lakcíme (székhelye), a jog megszerzésének jogcíme – az ingatlan-nyilvántartásban széljegyzett jogosultak adatait is ideértve –,
 
-(6) Az átnézeti térképhez tartozó területkimutatást a 2. számú melléklet, a kisajátítási vázrajzhoz tartozó területkimutatást a 3. számú melléklet szerint kell elkészíteni. Egész földrészlet kisajátítása esetén a területkimutatást a tulajdoni lap – harminc napnál nem régebbi – hiteles másolata helyettesíti.
+cb) az ingatlan felett a kisajátítást követően tulajdonosi jogokat gyakorló szervezet neve és címe (székhelye), ha az állam vagy az önkormányzat tulajdonszerzésének ingatlan-nyilvántartásba történő bejegyzéséhez – jogszabály alapján – a tulajdonosi joggyakorló egyidejű bejegyzése is szükséges.
+
+(2) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást nem eredményező, egész ingatlanra vonatkozó és építmény létesítésére irányuló kisajátítás esetén a kisajátítási terv elemei a következők:
+
+a) az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott, hiteles ingatlan-nyilvántartási térkép vagy – ha a kisajátítási cél megvalósítása több ingatlant érint – a kisajátítási átnézeti térkép, és
+
+b) a jogosultak listája.
+
+(3) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást nem eredményező, egész ingatlanra vonatkozó és építmény létesítésére nem irányuló kisajátítás esetén a kisajátítási terv elemei a következők:
+
+a) az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott, hiteles ingatlan-nyilvántartási térkép és
+
+b) a jogosultak listája.
+
+(4) Ha a kisajátítási hatósághoz benyújtott kisajátítási terv nem tartalmazza a (3) bekezdés a) pontja szerinti térképet, azt a kisajátítási hatóság – a Kstv. 24. § (7) bekezdés alapján – hivatalból szerzi be.
+
+(5) A kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő feljegyzéséhez – a Kstv. szerinti esetben – csatolt kisajátítási terv az (1) bekezdés szerinti dokumentumok másolatát tartalmazza.
+
+(6) A (2) és (3) bekezdés alkalmazásában egész ingatlan kisajátításának kell tekinteni az olyan egész ingatlan kisajátítását is, melynek a kisajátítást kérő is tulajdonosa.
+
+(7) A kisajátítási tervet ingatlanonként kell elkészíteni.
+
+[^4]: A 3. § a 154/2013. (V. 24.) Korm. rendelet 4. §-ával megállapított szöveg.

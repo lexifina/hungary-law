@@ -1,39 +1,25 @@
-6. § (1) A kisajátítási tervet – hat példányban – a kisajátítást kérő záradékolás céljából benyújtja a földhivatalhoz. A záradékolás iránti kérelemben meg kell jelölni a későbbi kisajátítás tervezett célját. Ha a kisajátítás termőföldet is érint, akkor – az 1. számú mellékletben foglalt vizsgálati szempontok mellett – a kisajátítási vázrajzot földügyi szempontok szerint is vizsgálni és záradékolni kell.
+6. §[^7] (1) A kisajátítási tervet
 
-(2) A kisajátítási tervhez mellékelni kell a következő iratokat, okiratokat és munkarészeket:
+a) a 3. § (1) bekezdése szerinti esetben földhivatali és építésügyi záradékkal kell ellátni (a továbbiakban: kettős záradékolás),
 
-a) vizsgálat és záradékolás iránti kérelem,
+b) a 3. § (2) bekezdése szerinti esetben építésügyi záradékkal kell ellátni (a továbbiakban: egyszeri záradékolás), kivéve, ha az adott ingatlanra vonatkozóan a kisajátítást kérő rendelkezésére áll a kisajátítás céljára megadott jogerős építési engedély,
 
-b) tartalomjegyzék,
+c) a 3. § (3) bekezdése szerinti esetben záradékkal nem kell ellátni.
 
-c) műszaki leírás (minőségi tanúsítvány),
+(2) Az építésügyi záradékolás
 
-d) vizsgálati jegyzőkönyv,
+a) a Kormány által rendeletben meghatározott nemzetgazdasági szempontból kiemelt beruházásokkal összefüggő kisajátítási tervek esetében a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalának építésfelügyeleti hatósági és örökségvédelemmel kapcsolatos hatósági feladatokat is ellátó önálló feladat- és hatáskörrel rendelkező szervezeti egysége,
 
-e) adatszolgáltatási számla másolata,
+b) egyéb kisajátítási tervek esetében az első fokú építésügyi hatóságként – kormányrendeletben foglaltak szerint – eljáró járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala
 
-f) a felhasznált alappontok helyszínelés eredményével kiegészített pontleírásai,
+## (az a) és b) pont a továbbiakban együtt: építésügyi hatóság) hatáskörébe tartozik.
 
-g) a felhasznált és újonnan létesített alappontok és numerikus részletpontok koordináta-jegyzéke, illetve pontjegyzéke,
+(3) Kettős záradékolást igénylő kisajátítási tervet négy példányban, egyszeri záradékolást igénylő kisajátítási tervet két példányban kell benyújtani záradékolásra. Ez a rendelkezés nem zárja ki, hogy a kérelmező ennél több példány záradékolását is kérje. A záradékolás iránti kérelemben meg kell jelölni a kisajátítás tervezett célját. A záradékolás során ugyanazon hiány vagy hiba esetében hiánypótlásnak legfeljebb kétszer van helye.
 
-h) mérési és számítási jegyzőkönyvek kinyomtatva és számítógépes adathordozón,
+(4) Kettős záradékolás esetén a földhivatal az általa záradékolt kisajátítási tervet a záradékolási kérelemmel együtt – mely kérelem egyidejűleg az építésügyi hatóság számára címzett záradékolás iránti kérelemnek is minősül – a záradékolást követő két napon belül, a kérelmező egyidejű értesítése mellett, záradékolás céljából megküldi az építésügyi hatóságnak. Ebben az esetben az építésügyi záradékolás illetékét a földhivatalnál kell megfizetni. A földhivatal az általa történt záradékolást követően az illetéket a központi költségvetés részére két napon belül befizeti. Ha földhivatali záradékolásra nem kerül sor, az illetéket a földhivatal a kérelmező részére két napon belül visszatéríti.
 
-i) mérési jegyzetek, mérési és számítási vázlatok (tömbrajz, pontszámos mérési vázlat), tervezési és kitűzési (kiosztási) vázlat,
+(5) Ha ugyanazon kisajátítási cél érdekében készült kisajátítási tervek egy része kettős, más része egyszeri záradékolást igényel, a kérelmező kérelmére a földhivatal a kettős záradékolást igénylő kisajátítási tervvel együtt benyújtott egyszeri záradékolást igénylő tervet is megküldi az építésügyi hatóságnak. Ebben az esetben a (4) bekezdést megfelelően alkalmazni kell azzal, hogy a földhivatal az egyszeri záradékolást igénylő tervet akkor is megküldi az építésügyi hatóság részére, ha a földhivatali záradékolásra nem kerül sor.
 
-j) területszámítási munkarészek és területkimutatás a változási vázrajzon vagy külön munkarészként,
+(6) A (4) bekezdéstől eltérően kérelemre a földhivatal az általa záradékolt kisajátítási tervet – az építésügyi hatóságnak való megküldés helyett – a kérelmező részére kézbesíti. Ebben az esetben az építésügyi záradékolás illetékét a kérelmezőnek az építésügyi hatóságnál kell megfizetnie.
 
-k) változási vázrajz hat példányban,
-
-l) digitális adatállomány a változási vázrajzról adathordozón, kísérő bizonylattal,
-
-m) kisajátítási átnézeti térkép a hozzá tartozó terület-kimutatással,
-
-n) a vizsgálathoz és záradékoláshoz szükséges egyéb okiratok.
-
-(3) A földhivatal a benyújtott kisajátítási tervet megvizsgálja. A megfelelőnek talált kisajátítási átnézeti térképet „Az állami alapadat-tartalom az érvényes ingatlan-nyilvántartási állapottal megegyezik. A záradék a keltezéstől számított egy évig érvényes, későbbi felhasználás előtt a térképet újra záradékoltatni kell”, a kisajátítási vázrajzot pedig „A helyrajzi számozás és a területszámítás helyes. A záradék a keltezéstől számított egy évig érvényes, későbbi felhasználás előtt a vázrajzot újra záradékoltatni kell” záradékkal látja el. A földügyi záradék szövege: „A művelési ágak és a minőségi osztályok feltüntetése, valamint a földminősítési adatok számítása helyes.”
-
-(4)[^3]
-
-(5) Amennyiben a hibák javítására, illetve a hiányok pótlására nem megfelelően került sor, a kisajátítást kérőt a hibák javítására, illetve a hiányok pótlására ismételten fel kell hívni.
-
-[^3]: A 6. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 627. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 6. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
