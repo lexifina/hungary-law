@@ -63,3 +63,9 @@
 29. vásár: olyan épület, épületegyüttes vagy terület, ahol rendszerint többen folytatnak idényjellegű vagy meghatározott eseményekhez, naptári napokhoz kötődő eseti jellegű kiskereskedelmi tevékenységet;
 
 30. vendéglátás: kész- vagy helyben készített ételek, italok jellemzően helyben fogyasztás céljából történő forgalmazása, ideértve az azzal összefüggő szórakoztató és egyéb szolgáltató tevékenységet is.
+
+31. üzlet működésével összefüggésben elkövetett jogellenes cselekmény: az üzlet területén, illetve az üzlet bejáratától számított 5 méteres távolságon belül az üzlet működésével közvetlen összefüggésben elkövetett bűncselekmény vagy szabálysértés,
+
+a) amely az üzemeltető, foglalkoztatott tudomásával vagy közreműködésével valósul meg, vagy
+
+b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzletmenet biztosítása érdekében szükséges intézkedés elmulasztása tesz lehetővé, feltéve, hogy az üzemeltető tud, vagy a tőle elvárható gondosság tanúsítása esetén tudhatott volna a foglalkoztatott mulasztásáról.
