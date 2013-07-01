@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2012-11-30 | 2012. évi CLXXVIII. törvény | 1997-80-00-00.64 |
 | 2013-01-01 | 2012. évi CLXXVIII. törvény | 1997-80-00-00.65 |
 | 2013-05-03 | 2013. évi XLI. törvény | 1997-80-00-00.66 |
+| 2013-07-01 | 2013. évi XCIII. törvény | 1997-80-00-00.67 |

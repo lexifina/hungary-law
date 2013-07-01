@@ -20,15 +20,15 @@ h) az aktív korúak ellátására való jogosultság keretében megállapított
 
 részesül,
 
-i) a közoktatásról szóló törvény hatálya alá tartozó alapfokú, középfokú nevelési-oktatási vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó – magyar állampolgársággal nem rendelkező – személy, aki a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
+i) a köznevelésről szóló törvény hatálya alá tartozó nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerinti köznevelési intézményben, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
 
 j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 
 k) a reá irányadó nyugdíjkorhatárt betöltötte és jövedelme nem éri el a minimálbér 30 százalékát,
 
-l) kiskorú, magyar állampolgársággal és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
+l) kiskorú, magyar állampolgársággal, menekült vagy oltalmazott jogállással és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
 
-m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá az illetékes magyar hatóság által ideiglenes hatállyal elhelyezett, otthont nyújtó ellátás keretében átmeneti és tartós nevelésbe vett külföldi kiskorú személy,
+m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi kiskorú személy,
 
 n) fogvatartott,
 
@@ -50,7 +50,7 @@ w) a szociális szövetkezetben a szövetkezetekről szóló törvényben meghat
 
 (2) A 13. § hatálya alá tartozó külföldi személy az ugyanott hivatkozott külön jogszabály, illetőleg nemzetközi egyezmény szerint jogosult egészségügyi ellátásra.
 
-(3) Az (1) bekezdés a)–k), továbbá o), s), u), v) és w) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
+(3) Az (1) bekezdés a)–k), továbbá o), s), u) és v) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas és a szomszédos államokban élő magyarokról szóló törvény hatálya alatt álló, nappali rendszerű oktatás keretében államilag támogatott vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában résztvevő hallgató kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
 
 (4) Az egészségügyi szolgáltatásokra vonatkozó igényjogosultságot egyszerre csak egy jogcímre tekintettel lehet megállapítani. Amennyiben a jogosultság egyszerre több jogcím alapján is megállapítható, akkor a jogcímek (1) bekezdésben foglalt felsorolása jogosultsági sorrendet jelent azzal, hogy a (2) bekezdésben meghatározott jogcím az (1) bekezdésben felsorolt jogcímeket megelőzi.
 

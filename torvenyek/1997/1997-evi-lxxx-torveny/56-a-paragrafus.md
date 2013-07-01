@@ -4,6 +4,8 @@ Tbj. 56/A. § (1) A magyar jogszabályok szerint bejegyzésre nem kötelezett 
 
 (2) A külföldi vállalkozás a biztosítási kötelezettséggel járó jogviszonnyal összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget az Art. 8. és 9. §-ában meghatározott képviselő útján, ennek hiányában közvetlenül saját maga teljesíti. Ha a külföldi vállalkozás a járulékkötelezettséget közvetlenül teljesíti, a biztosítás kezdetét megelőzően köteles bejelentkezni az állami adóhatóságnál, és kérelmezni, hogy az állami adóhatóság foglalkoztatói minőségében vegye nyilvántartásba.
 
+(2a) Az állami adóhatóság által a külföldi vállalkozásokról vezetett (2) bekezdés szerinti nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) Ha a külföldi vállalkozás a járulékkötelezettségek teljesítésére nem rendelkezik Art. szerinti képviselővel, és a (2) bekezdésben foglalt bejelentkezést is elmulasztja, az általa foglalkoztatott természetes személy biztosításával összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget a foglalkoztatott teljesíti, és viseli a járulékkötelezettségek elmulasztása miatti jogkövetkezményeket (ide nem értve a mulasztási bírságot és az adóbírságot).
 
 (4) Ha a munkavállaló magyarországi foglalkoztatására

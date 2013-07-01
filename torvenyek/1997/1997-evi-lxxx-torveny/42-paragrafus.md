@@ -23,3 +23,5 @@ g) társadalombiztosítási azonosító jel (a továbbiakban: TAJ szám).
 (3) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján – a felhasználás céljának és jogalapjának egyidejű megjelölése mellett – jogszabályban meghatározott módon szolgáltathatnak.
 
 (4) A bíróságok, az ügyészségek, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+
+(5) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, valamint a Magyarország által kötött nemzetközi egyezmények alapján egészségbiztosítási jogosultságokat igazoló nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
