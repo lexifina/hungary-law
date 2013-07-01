@@ -1,8 +1,8 @@
-## 5. §[^4] A lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimum követelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről szóló, 2001. július 20-i 2001/55/EK tanácsi irányelv, valamint a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról szóló, 2004. április 29-i 2004/83/EK tanácsi irányelv alapján a nemzeti kapcsolattartó pontra háruló feladatokat Magyarország Európai Unió mellett működő Állandó Képviselete látja el.
+## 5. §[^6] A lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimumkövetelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről szóló, 2001. július 20-i 2001/55/EK tanácsi irányelv, valamint a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályozásról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelv alapján a nemzeti kapcsolattartó pontra háruló feladatokat Magyarország Európai Unió mellett működő Állandó Képviselete látja el.
 
-6. § (1)[^5]
+6. § (1)[^7]
 
 (2) A Tv. 83. § (3) bekezdésében foglalt adatkör tekintetében adatfeldolgozó szerv a Bűnügyi Szakértői és Kutatóintézet.
 
-[^4]: Az 5. § a 26/2012. (V. 16.) BM rendelet 3. §-a szerint módosított szöveg.
-[^5]: A 6. § (1) bekezdését a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 27. pontja hatályon kívül helyezte.
+[^6]: Az 5. § a 33/2013. (VI. 28.) BM rendelet 7. §-ával megállapított szöveg.
+[^7]: A 6. § (1) bekezdését a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 27. pontja hatályon kívül helyezte.
