@@ -10,7 +10,7 @@ c) az országgyűlési biztos, továbbá az általa írásban megbízott személ
 
 d) a bíró, az ügyész, a bírósági és ügyészségi dolgozó, a pártfogó felügyelő, a közjegyző, valamint az önálló bírósági végrehajtó, végrehajtó-helyettes és kézbesítési végrehajtó;
 
-e)[^1] a hatósági eljárást, nyomozati cselekményeket, illetve a fogvatartottak intézetbe szállítását, előállítását és terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, nyomozó hatóság elé állítását végző személy;
+e)[^2] a hatósági eljárást, nyomozati cselekményeket, illetve a fogvatartottak intézetbe szállítását, előállítását és terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, nyomozó hatóság elé állítását végző személy;
 
 f) a bv. szerv, illetve bv. szervezet felett irányítási, felügyeleti jogot gyakorló szervek képviselője;
 
@@ -30,7 +30,7 @@ m) a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: 
 
 n) a személyi állomány és a fogvatartottak sürgősségi vagy egyéb egészségügyi ellátásában szükségszerűen vagy engedéllyel együttműködő személy;
 
-o)[^2] a katona [Btk. 122. § (1) bek.] állományilletékes parancsnoka vagy annak megbízottja.
+o)[^3] a katona [a Büntető Törvénykönyvről szóló 2012. évi C. törvény 127. § (1) bekezdés] állományilletékes parancsnoka vagy annak megbízottja.
 
-[^1]: A 4. § e) pontja a 2/2009. (II. 10.) IRM rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^2]: A 4. § o) pontját a 61/2007. (XII. 23.) IRM rendelet 10. §-a iktatta be.
+[^2]: A 4. § e) pontja a 2/2009. (II. 10.) IRM rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 4. § o) pontját a 61/2007. (XII. 23.) IRM rendelet 10. §-a iktatta be, szövege a 34/2013. (VI. 30.) BM rendelet 28. § b) pontja szerint módosított szöveg.

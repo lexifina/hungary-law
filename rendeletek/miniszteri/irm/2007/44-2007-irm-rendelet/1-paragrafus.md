@@ -12,10 +12,12 @@ c) a fogvatartotthoz látogatási céllal érkező személy;
 
 d) a szakorvosi vizsgálatra jelentkező, szabadlábon lévő elítélt;
 
-e) a bűnmegelőzési célú látogatás keretén belül az oktatási intézmények 18. életévüket betöltött tanulója, hallgatója, oktatója;
+e)[^1] a bűnmegelőzési célú látogatás keretén belül az oktatási intézmények oktatója, valamint 14. életévét betöltött tanulója, hallgatója;
 
 f) a bv. szerv parancsnoka, igazgatója, főigazgató főorvosa, ügyvezető igazgatója (a továbbiakban együtt: bv. szerv vezetője) által engedélyezett személy;
 
 g) a fogvatartott nem védőként eljáró jogi képviselője, törvényes képviselője, illetve meghatalmazás alapján eljáró egyéb képviselője (a továbbiakban: fogvatartott képviselője).
 
 (3) A bv. szerv területére belépő személyt a belépés szabályairól, illetve a bv. szerv rendjére és biztonságára vonatkozó előírásokról tájékoztatni kell.
+
+[^1]: Az 1. § (2) bekezdés e) pontja a 34/2013. (VI. 30.) BM rendelet 28. § a) pontja szerint módosított szöveg.
