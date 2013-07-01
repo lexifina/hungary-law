@@ -22,4 +22,7 @@ e) a monitoring adat-nyilvántartási rendszer
 
 működtetése.
 
+(3)[^17] A (2) bekezdés a) pontjában foglalt nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 [^16]: A 7. § a 88/2010. (III. 26.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^17]: A 7. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 11. §-a iktatta be.
