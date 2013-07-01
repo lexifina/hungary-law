@@ -46,19 +46,11 @@ szemben, ha az a)–j), n), s) és t) pontban megjelölt szerv vagy személy ír
 
 (4) A biztosítási titoktartási kötelezettség az eljárás keretén kívül a (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
 
-(5) A biztosító, a biztosításközvetítő és a biztosítási szaktanácsadó a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére akkor is köteles haladéktalanul tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben foglaltak szerinti
+(5) A biztosító, a biztosításközvetítő és a biztosítási szaktanácsadó a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére akkor is köteles haladéktalanul tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
 
-a) kábítószerrel visszaéléssel,
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben foglaltak szerinti kábítószerrel visszaéléssel, új pszichoaktív anyaggal visszaéléssel, terrorcselekménnyel, robbanóanyaggal vagy robbantószerrel visszaéléssel, lőfegyverrel vagy lőszerrel visszaéléssel, pénzmosással, bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel,
 
-b) terrorcselekménnyel,
-
-c) robbanóanyaggal vagy robbantószerrel visszaéléssel,
-
-d) lőfegyverrel vagy lőszerrel visszaéléssel,
-
-e) pénzmosással,
-
-f) bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel
+b) a Btk. szerinti kábítószer-kereskedelemmel, kábítószer birtoklásával, kóros szenvedélykeltéssel vagy kábítószer készítésének elősegítésével, új pszichoaktív anyaggal visszaéléssel, terrorcselekménnyel, terrorcselekmény feljelentésének elmulasztásával, terrorizmus finanszírozásával, robbanóanyaggal vagy robbantószerrel visszaéléssel, lőfegyverrel vagy lőszerrel visszaéléssel, pénzmosással, bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel
 
 van összefüggésben.
 

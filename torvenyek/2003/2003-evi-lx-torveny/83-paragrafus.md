@@ -24,7 +24,13 @@ e) biztosítónál nem tevékenykedik könyvvizsgálóként.
 
 (4) A biztosító felügyelő bizottságának tagjai közül a (3) bekezdés c), illetve d) pontjaiban foglaltak kizárólag a felügyelő bizottság elnökére nézve kötelezőek.
 
-(5) Akivel szemben a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, vagy külföldön az illetékes hatóság vádat emelt olyan vagyon elleni, vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, a büntetőeljárás jogerős befejezéséig vezető állású személyként nem foglalkoztatható, illetve az ilyen feladatok általa történő ellátását fel kell függeszteni.
+(5) Akivel szemben
+
+a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, XVII. és XVIII. fejezetében,
+
+b) a Btk. XXVII. vagy XXXV–XLIII. Fejezetében
+
+meghatározott bűncselekmény miatt az ügyész vádat emelt, vagy külföldön az illetékes hatóság vádat emelt olyan bűncselekmény miatt, amely az 1978. évi IV. törvény XVII. vagy XVIII. fejezete szerint 2013. június 30-ig büntetendő volt, vagy a Btk. XXXV–XLIII. Fejezetében foglaltak szerint büntetendő, a büntetőeljárás jogerős befejezéséig vezető állású személyként nem foglalkoztatható, illetve az ilyen feladatok általa történő ellátását fel kell függeszteni.
 
 (6) A Felügyelet indokolt esetben, a kötelezettségszegés súlyának figyelembevételével kezdeményezheti a vezető állású személy felmentését.
 
