@@ -14,7 +14,7 @@ b) a tartósan álláskereső személyek után az Eat. 462/C. § (2) bekezdése 
 
 c) a gyermekgondozási díj folyósítását követően, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint, vagy
 
-d) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § (3) bekezdése szerint
+d) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § szerint
 
 a foglalkoztatás első két évében igénybe vehető szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 100 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
