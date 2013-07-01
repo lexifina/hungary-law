@@ -1,0 +1,1 @@
+## 7. § Nyomozótisztként – a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 38. §-ában meghatározott kizáró okokon túl – nem járhat el az, akinek a terhelt szolgálati elöljárója.
