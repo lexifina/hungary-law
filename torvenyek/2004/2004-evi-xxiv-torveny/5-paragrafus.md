@@ -20,4 +20,6 @@ af) a lőszer azonosítását lehetővé tevő adatok, valamint
 
 b) a gyártó által gyártott és raktározott lőfegyverről, tűzfegyver fődarabról, lőszerről – a gyártásra jogosító engedély érvényességi idejének lejártától számított húsz évig – az a) pont ad)–af) alpontjában meghatározott adattartalommal, a lőfegyver műszaki érvényességének kivételével.
 
+(2a) A (2) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A központi nyilvántartásban kezelt adatok statisztikai, illetve tudományos kutatási célra – törvény eltérő rendelkezése hiányában – személyazonosításra alkalmatlan módon átadhatók és felhasználhatók.
