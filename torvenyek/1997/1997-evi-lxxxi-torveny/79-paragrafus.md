@@ -18,6 +18,8 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (3) A nyugdíjfolyósító szerv által folyósított ellátásokból történő levonásra a bírósági végrehajtásról szóló törvény rendelkezéseit kell alkalmazni.
 
+(3a) A (2) bekezdéstől eltérően a külföldön élő vagy tartózkodó jogosult kérelmére a nyugellátást negyedévente, félévente vagy évente utólag kell folyósítani, ha a nyugellátás havi összege nem haladja meg az öregségi nyugdíj jogszabályban meghatározott legkisebb összegét.
+
 (4) A szociálpolitikai, szociális biztonsági egyezményt kötött államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára történő folyósítás költségét az ellátásra jogosult viseli.
 
 (5)

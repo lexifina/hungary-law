@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2013-01-01 | 2012. évi CXII. törvény | 1997-81-00-00.54 |
 | 2013-04-02 | 2013. évi XX. törvény | 1997-81-00-00.55 |
 | 2013-04-29 | 2013. évi XL. törvény | 1997-81-00-00.56 |
+| 2013-07-01 | 2012. évi CCVIII. törvény | 1997-81-00-00.57 |
