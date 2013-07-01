@@ -4,27 +4,27 @@ a) a költségvetési évben befolyt 2. § c)–e) pontja szerinti bevételt, am
 
 b) a kötelezettségvállalások azon állományát, amelyre a kötelezettségvállalás a 46. § (1) bekezdése alapján a költségvetési év előirányzatai terhére történt, de a pénzügyi teljesítés áthúzódik a költségvetési évet követő év június 30-áig,
 
-c)[^192] az európai uniós forrásból finanszírozott programok, a nemzetközi szerződések alapján megvalósuló segélyprogramok, a Nemzetközi Fejlesztési Együttműködés, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 2. § 22. pontja szerinti kibocsátási jogosultságok eladásából befolyt bevételek előirányzat-maradványát,
+c)[^193] az európai uniós forrásból finanszírozott programok, a nemzetközi szerződések alapján megvalósuló segélyprogramok, a Nemzetközi Fejlesztési Együttműködés, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 2. § 22. pontja szerinti kibocsátási jogosultságok eladásából befolyt bevételek előirányzat-maradványát,
 
 d) az átvett pénzeszközt, ha az átadó államháztartáson kívüli szervezet, személy az annak terhére ellátandó feladatot meghatározta,
 
-e)[^193] az elkülönített állami pénzalapból meghatározott célra, elszámolási kötelezettséggel kapott támogatásokat államháztartáson belülről,
+e)[^194] az elkülönített állami pénzalapból meghatározott célra, elszámolási kötelezettséggel kapott támogatásokat államháztartáson belülről,
 
 f) a deviza- és a valuta készlet év végi értékelése során megállapított árfolyamnyereség összegét,
 
 g) a felsőoktatási intézményekben állami részösztöndíjas és önköltséges tanulmányokat folytató hallgatók által fizetett önköltségből és az államháztartáson kívülről érkező adományokból származó előirányzat-maradványát,
 
-h)[^194] a Széchenyi Kártya Program előirányzat-maradványát,
+h)[^195] a Széchenyi Kártya Program előirányzat-maradványát,
 
-i)[^195] a Beruházás ösztönzési célelőirányzat előirányzat-maradványát,
+i)[^196] a Beruházás ösztönzési célelőirányzat előirányzat-maradványát,
 
-j)[^196] az EU Önerő Alap előirányzat-maradványát, és
+j)[^197] az EU Önerő Alap előirányzat-maradványát, és
 
-k)[^197] a Kormány egyedi határozatával átcsoportosított előirányzat előirányzat-maradványát, ha annak terhére az előirányzat-átcsoportosítást követő harminc napon belül megtörténik a kötelezettségvállalás.
+k)[^198] a Kormány egyedi határozatával átcsoportosított előirányzat előirányzat-maradványát, ha annak terhére az előirányzat-átcsoportosítást követő harminc napon belül megtörténik a kötelezettségvállalás.
 
-[^192]: Az Ávr. 150. § c) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 36. pontja szerint módosított szöveg.
-[^193]: Az Ávr. 150. § e) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 37. pontja szerint módosított szöveg.
-[^194]: Az Ávr. 150. § h) pontja a 332/2012. (XI. 28.) Korm. rendelet 1. §-ával megállapított és a 413/2012. (XII. 29.) Korm. rendelet 39. § 38. pontja szerint módosított szöveg.
-[^195]: Az Ávr. 150. § i) pontja a 332/2012. (XI. 28.) Korm. rendelet 1. §-ával megállapított és a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 29. pontja szerint módosított szöveg.
-[^196]: Az Ávr. 150. § j) pontját a 332/2012. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 39. § 39. pontja szerint módosított szöveg.
-[^197]: Az Ávr. 150. § k) pontját a 413/2012. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^193]: Az Ávr. 150. § c) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 36. pontja szerint módosított szöveg.
+[^194]: Az Ávr. 150. § e) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 37. pontja szerint módosított szöveg.
+[^195]: Az Ávr. 150. § h) pontja a 332/2012. (XI. 28.) Korm. rendelet 1. §-ával megállapított és a 413/2012. (XII. 29.) Korm. rendelet 39. § 38. pontja szerint módosított szöveg.
+[^196]: Az Ávr. 150. § i) pontja a 332/2012. (XI. 28.) Korm. rendelet 1. §-ával megállapított és a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 29. pontja szerint módosított szöveg.
+[^197]: Az Ávr. 150. § j) pontját a 332/2012. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 39. § 39. pontja szerint módosított szöveg.
+[^198]: Az Ávr. 150. § k) pontját a 413/2012. (XII. 29.) Korm. rendelet 36. §-a iktatta be.

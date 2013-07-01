@@ -1,6 +1,6 @@
-## [Az Áht. 59. §-ához][^133]
+## [Az Áht. 59. §-ához][^134]
 
-110. §[^134] (1) Az Áht. 59. § (1) és (2) bekezdése szerinti vizsgálat lefolytatására a 108. § (1)–(4) bekezdése szabályait az e §-ban foglalt eltérésekkel kell alkalmazni.
+110. §[^135] (1) Az Áht. 59. § (1) és (2) bekezdése szerinti vizsgálat lefolytatására a 108. § (1)–(4) bekezdése szabályait az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A Kincstár az Áht. 59. § (1) bekezdése alapján a hiányok pótlására és módosításra – az igénylés feltételeit tartalmazó jogszabályban meghatározott igénylési rendhez igazodóan – legfeljebb nyolcnapos határidőt állapít meg. Ha a felhívás címzettje a hiánypótlásnak nem tesz eleget vagy azt nem megfelelően teljesíti, és emiatt a támogatási igény az elbírálásra jogosult szervnek nem továbbítható, a támogatási igény dokumentációját – egy másolati példány megtartásával – az ok megjelölésével a Kincstár visszaküldi a benyújtónak.
 
@@ -28,5 +28,5 @@ d) a tájékoztatást a felhívásban foglaltak elmulasztásának jogkövetkezm�
 
 (5) A Kincstár az Áht. 59. § (3) bekezdése szerinti határozatot a (4) bekezdés c) pontja szerinti kötelezés elmulasztását követő harminc napon belül adja ki.
 
-[^133]: Az Ávr. 110. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^134]: Az Ávr. 110. § a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^134]: Az Ávr. 110. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^135]: Az Ávr. 110. § a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@
 
 a) a központi költségvetésről szóló törvényben megállapított bevételi és kiadási előirányzatokról, azok Országgyűlés, Kormány hatáskörében végzett módosításairól, átcsoportosításairól, továbbá azok kincstári költségvetésében szereplő előirányzatairól, az előirányzatok módosításairól, átcsoportosításairól a Kincstár, és
 
-b)[^201] a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások előirányzatainak módosításairól, átcsoportosításairól a helyi önkormányzatokért felelős miniszter, a nemzetiségi önkormányzatok költségvetési támogatását biztosító előirányzatok módosításairól, átcsoportosításairól a nemzetiségpolitikáért felelős állami szerv
+b)[^202] a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások előirányzatainak módosításairól, átcsoportosításairól a helyi önkormányzatokért felelős miniszter, a nemzetiségi önkormányzatok költségvetési támogatását biztosító előirányzatok módosításairól, átcsoportosításairól a nemzetiségpolitikáért felelős állami szerv
 
 nyilvántartást vezet.
 
@@ -20,4 +20,4 @@ b) az előirányzatnak, és azok módosításának, átcsoportosításának egys
 
 c) az előirányzatok módosításának, átcsoportosításának hatásköreire.
 
-[^201]: Az Ávr. 165. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 40. pontja szerint módosított szöveg.
+[^202]: Az Ávr. 165. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 40. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-109. §[^132]
+109. §[^133]
 
-[^132]: Az Ávr. [Az Áht. 58. § (4) bekezdéséhez] alcímet (109. §-t) a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 10. pontja hatályon kívül helyezte.
+[^133]: Az Ávr. [Az Áht. 58. § (4) bekezdéséhez] alcímet (109. §-t) a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 10. pontja hatályon kívül helyezte.
