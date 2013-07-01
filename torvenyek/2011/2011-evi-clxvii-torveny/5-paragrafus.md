@@ -10,7 +10,7 @@ ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege e
 
 (3) A (2) bekezdés alapján nem csökkenthető a szolgálati járandóság összege, ha
 
-a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor a Hszt. 180. §-a vagy a Hjt. 201. §-a alapján minősítő határozattal megállapították,
+a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor minősítő határozattal megállapították,
 
 b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát, vagy
 

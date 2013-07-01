@@ -4,9 +4,7 @@ a) a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. 
 
 b) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 11. § (4a) bekezdés a) pontjára vagy 45/A. §-ára tekintettel,
 
-c) a Hszt. 64. § (5) bekezdése vagy 264/C. § (1) bekezdés c) pontja alapján, vagy
-
-d) a Hjt. 69. § (5) bekezdése alapján
+c)–d)
 
 kérelmezi.
 

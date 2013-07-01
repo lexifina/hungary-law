@@ -2,7 +2,13 @@
 
 a) öt évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő szándékos bűncselekményt, vagy
 
-b) öt évet el nem érő szabadságvesztéssel büntetendő szándékos testi sértés [Btk. 170. § (2) bekezdés], személyi szabadság megsértése [Btk. 175. § (1) bekezdés], emberkereskedelem [Btk. 175/B. § (1) bekezdés], embercsempészés [Btk. 218. § (1) bekezdés], hivatali visszaélés (Btk. 225. §), bántalmazás hivatalos eljárásban [Btk. 226. § (1) bekezdés], vesztegetés [Btk. 251. § (1) bekezdés, 253. § (1) bekezdés, 254. § (1) bekezdés], befolyás vásárlása (Btk. 256/A. §), vesztegetés nemzetközi kapcsolatban [Btk. 258/B. § (1) bekezdés, 258/C. § (1) bekezdés], vagy befolyással üzérkedés és befolyás vásárlása nemzetközi kapcsolatban [Btk. 258/E. § (2) bekezdés] bűncselekményt
+b) öt évet el nem érő szabadságvesztéssel büntetendő
+
+ba) a 2013. június 30-ig hatályban volt szándékos testi sértés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 170. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (1) bekezdés], emberkereskedelem [1978. évi IV. törvény 175/B. § (1) bekezdés], embercsempészés [1978. évi IV. törvény 218. § (1) bekezdés], hivatali visszaélés (1978. évi IV. törvény 225. §), bántalmazás hivatalos eljárásban [1978. évi IV. törvény 226. § (1) bekezdés], vesztegetés [1978. évi IV. törvény 251. § (1) bekezdés, 253. § (1) bekezdés, 254. § (1) bekezdés], befolyás vásárlása (1978. évi IV. törvény 256/A. §), vesztegetés nemzetközi kapcsolatban [1978. évi IV. törvény 258/B. § (1) bekezdés, 258/C. § (1) bekezdés], vagy befolyással üzérkedés és befolyás vásárlása nemzetközi kapcsolatban [1978. évi IV. törvény 258/E. § (2) bekezdés],
+
+bb) szándékos testi sértés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 164. § (3) bekezdés], személyi szabadság megsértése [Btk. 194. § (1) bekezdés], emberkereskedelem [Btk. 192. § (1) bekezdés], vesztegetés [Btk. 290. § (1) és (4) bekezdés], vesztegetés elfogadása [Btk. 291. § (1) bekezdés], hivatali vesztegetés [Btk. 293. § (1) és (3) bekezdés], befolyás vásárlása (Btk. 298. §), hivatali visszaélés (Btk. 305. §) vagy embercsempészés [Btk. 353. § (1) bekezdés]
+
+bűncselekményt
 
 követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült.
 
@@ -22,7 +28,7 @@ b) a nyugdíjfolyósító szerv havonta elektronikus úton továbbítja a szolg�
 
 a bűnügyi nyilvántartó szervnek.
 
-(4) A bűnügyi nyilvántartó szerv a (3) bekezdésben meghatározott személyek természetes személyazonosító adatait összeveti a bűntettesek nyilvántartásában kezelt adatokkal. Ha az összevetés alapján a bűnügyi nyilvántartó szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdés szerinti bűncselekményt követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényt, a bűncselekmény vagy bűncselekmények elkövetésének idejét, valamint az érintett természetes személyazonosító adatait továbbítja a Hszt. 199. §-ában és a Hjt. 225. §-ában meghatározott központi személyügyi nyilvántartásokat kezelő szerveknek (a továbbiakban együtt: központi személyügyi nyilvántartást kezelő szerv).
+(4) A bűnügyi nyilvántartó szerv a (3) bekezdésben meghatározott személyek természetes személyazonosító adatait összeveti a bűntettesek nyilvántartásában kezelt adatokkal. Ha az összevetés alapján a bűnügyi nyilvántartó szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdés szerinti bűncselekményt követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényt, a bűncselekmény vagy bűncselekmények elkövetésének idejét, valamint az érintett természetes személyazonosító adatait továbbítja a Hszt. 199. §-ában meghatározott, valamint a Magyar Honvédség központi személyügyi nyilvántartását kezelő szerv részére (a továbbiakban együtt: központi személyügyi nyilvántartást kezelő szerv).
 
 (5) A központi személyügyi nyilvántartást kezelő szerv a bűnügyi nyilvántartó szervtől átvett adatokat összeveti az általa kezelt központi személyügyi nyilvántartás adattartalmával. Ha az összevetés alapján a központi személyügyi nyilvántartást kezelő szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdésben meghatározott bűncselekményt a szolgálati viszonyának időtartama alatt követte el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényről, valamint az érintett személy természetes személyazonosító adatairól tájékoztatja a (3) bekezdés a) pontja szerinti esetben a nyugdíjmegállapító szervet, a (3) bekezdés b) pontja szerinti esetben pedig a nyugdíjfolyósító szervet.
 
