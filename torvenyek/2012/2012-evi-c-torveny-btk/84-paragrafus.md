@@ -1,0 +1,3 @@
+84. § (1) Tárgyalásról lemondás esetén a bűnhalmazatban lévő bűncselekményekre a halmazati büntetésre vonatkozó rendelkezések az irányadók azzal, hogy a bűnhalmazatban lévő bűncselekmények büntetési tételeinek felső határát a 83. § (1)–(2) bekezdése alapján kiszabható büntetések közül a legsúlyosabbnak az alapulvételével kell kiszabni.
+
+(2) Ha e törvény a bűnhalmazatban lévő bűncselekmények közül legalább kettőre határozott ideig tartó szabadságvesztést rendel, a 83. § (1)–(2) bekezdése alapján kiszabható legsúlyosabb büntetési tétel felső határa a legmagasabb büntetési tétel középmértékével emelkedik, de nem érheti el az egyes bűncselekményekre a 83. § (1)–(2) bekezdés alapján kiszabható büntetések együttes tartamát.

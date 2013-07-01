@@ -1,0 +1,33 @@
+22. § (1) Nem büntetendő az a cselekmény, amely a saját, illetve más vagy mások személye, javai vagy a közérdek ellen intézett, illetve ezeket közvetlenül fenyegető jogtalan támadás elhárításához szükséges.
+
+(2) A jogtalan támadást úgy kell tekinteni, mintha az a védekező életének kioltására is irányult volna, ha
+
+a) azt személy ellen
+
+aa) éjjel,
+
+ab) fegyveresen,
+
+ac) felfegyverkezve vagy
+
+ad) csoportosan
+
+követik el,
+
+b) az a lakásba
+
+ba) éjjel,
+
+bb) fegyveresen,
+
+bc) felfegyverkezve vagy
+
+bd) csoportosan
+
+történő jogtalan behatolás, vagy
+
+c) az a lakáshoz tartozó bekerített helyre fegyveresen történő jogtalan behatolás.
+
+(3) Nem büntethető, aki az elhárítás szükséges mértékét ijedtségből vagy menthető felindulásból lépi túl.
+
+(4) A megtámadott nem köteles kitérni a jogtalan támadás elől.

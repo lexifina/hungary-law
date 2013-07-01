@@ -1,0 +1,3 @@
+96. § (1) Ha a foglalkozástól eltiltást, a járművezetéstől eltiltást, a kitiltást, a sportrendezvények látogatásától való eltiltást vagy a kiutasítást szabadságvesztés mellett szabták ki, és a szabadságvesztés büntetéseket összbüntetésbe foglalták, akkor több, azonos tartalmú foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás közül azt kell végrehajtani, amelyik az elítéltre hátrányosabb.
+
+(2) A közügyektől eltiltás mellékbüntetés nem foglalható összbüntetésbe. Több közügyektől eltiltás mellékbüntetés közül azt kell végrehajtani, amelyik a leghosszabb tartamú.

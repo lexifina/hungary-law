@@ -1,0 +1,1 @@
+94. § Az összbüntetés tartamát úgy kell meghatározni, mintha halmazati büntetést szabnának ki. Az összbüntetés tartamának azonban el kell érnie a legsúlyosabb büntetésnek és a rövidebb büntetés vagy büntetések egyharmad részének összegeként számított tartamot, de az nem haladhatja meg a büntetések együttes tartamát.

@@ -1,0 +1,1 @@
+5. § A bűncselekmény bűntett vagy vétség. Bűntett az a szándékosan elkövetett bűncselekmény, amelyre e törvény kétévi szabadságvesztésnél súlyosabb büntetés kiszabását rendeli, minden más bűncselekmény vétség.

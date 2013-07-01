@@ -1,0 +1,1 @@
+274. § Hamis tanúzás miatt mindaddig, amíg az az alapügy, amelyben a hamis tanúzást elkövették, nem fejeződik be, büntetőeljárás csak az alapügyben eljáró hatóság feljelentése alapján indítható. Az ilyen feljelentés esetét kivéve a hamis tanúzás büntethetőségének elévülése az alapügy befejezésének napján kezdődik.

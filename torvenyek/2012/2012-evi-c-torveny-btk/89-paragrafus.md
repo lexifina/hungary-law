@@ -1,0 +1,7 @@
+## A különös, a többszörös és az erőszakos többszörös visszaesőkre vonatkozó rendelkezések
+
+89. § (1) A különös és a többszörös visszaesővel szemben – ha e törvény másként nem rendelkezik – az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a huszonöt évet. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (1)–(2) bekezdése szerinti büntetési tételt kell a felével emelni.
+
+(2) A különös és a többszörös visszaesővel szemben a büntetés a 82. § (1) bekezdése alapján csak különös méltánylást érdemlő esetben enyhíthető.
+
+(3) Az (1) bekezdésben meghatározott súlyosabb jogkövetkezmények nem alkalmazhatók, ha e törvény Különös Része a különös visszaesőként történő elkövetést a bűncselekmény súlyosabban minősülő eseteként rendeli büntetni.
