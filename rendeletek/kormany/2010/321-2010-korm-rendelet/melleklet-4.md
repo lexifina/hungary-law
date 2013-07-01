@@ -36,7 +36,7 @@
 
 ## e) rendelkezésre áll a gazdálkodó szervezet írásbeli nyilatkozata arról, hogy vizsgálataiknál az ellenőrzést végző hatósággal egyeztetett időpontban és módon járnak el.
 
-4. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^23]
+4. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^25]
 
 A veszélyes folyadékok és olvadékok tárolótartályainak és tároló létesítményeinek létesítési, használatbavételi, átalakítási és megszüntetési engedélyezési eljárásában kijelölt szakhatóságok
 
@@ -76,7 +76,7 @@ A veszélyes folyadékok és olvadékok tárolótartályainak és tároló léte
 
 | 7. | A hatósági nyilvántartásban szereplő régészeti lelőhelyen megvalósuló létesítési vagy használatbavételi eljárás vagy külön jogszabályban meghatározott esetekben műemléket érintő tevékenység engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy a tervezett tárolótartály a régészeti örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
 
-5. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^24]
+5. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^26]
 
 A nyomástartó berendezések létesítési, használatbavételi, átalakítási és megszüntetési engedélyezési eljárásában kijelölt szakhatóságok
 
@@ -86,5 +86,5 @@ A nyomástartó berendezések létesítési, használatbavételi, átalakítási
 
 | 2. | Veszélyes töltetű nyomástartó berendezés létesítése, használatbavétele, átalakítása és megszüntetése esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | 1. Minden esetben annak elbírálása kérdésében, hogy a tervezett nyomástartó berendezés a levegőtisztaság- védelmi előírásoknak és határértékeknek, levegővédelmi szempontból az elérhető legjobb technika, valamint a felszíni vizek, a felszín alatti vizek és ivóvízbázisok védelme követelményeinek a kérelem szerint vagy további feltételek mellett megfelel-e. 2. Barlang védőövezetében létesítendő nyomástartó berendezés esetében, annak elbírálása kérdésében, hogy a tervezett nyomástartó berendezés a barlang védelmére vonatkozó jogszabályi követelményeknek a kérelem szerint vagy további feltételek mellett megfelel-e. | környezetvédelmi, természetvédelmi és vízügyi felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
-[^23]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át. Szövege az 51/2013. (II. 25.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^24]: Az 5. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (24) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
+[^25]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át. Szövege az 51/2013. (II. 25.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^26]: Az 5. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (24) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.

@@ -26,6 +26,6 @@
 
 ## – a szervezet legyen tagja a Magyar Hegesztéstechnikai és Anyagvizsgálati Egyesülésnek.
 
-2. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^21]
+2. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^23]
 
-[^21]: A 2. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (21) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
+[^23]: A 2. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (21) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.

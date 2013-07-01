@@ -32,6 +32,6 @@
 
 ## – a szervezet rendelkezzen felelősségbiztosítással, amely a szervezetre felróható okból bekövetkező kár(ok) fedezetét biztosítani képes.
 
-3. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^22]
+3. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^24]
 
-[^22]: A 3. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (22) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
+[^24]: A 3. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (22) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.

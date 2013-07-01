@@ -1,3 +1,3 @@
-1. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^20]
+1. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^22]
 
-[^20]: Az 1. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (20) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.
+[^22]: Az 1. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (20) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át.

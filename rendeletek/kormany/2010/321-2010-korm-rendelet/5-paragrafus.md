@@ -1,6 +1,6 @@
 ## 2. Piacfelügyeleti tevékenység
 
-5. § (1)[^12] A Hivatal piacfelügyeleti hatóságként (a továbbiakban: piacfelügyeleti hatóság) ellenőrzi a külön jogszabályban meghatározott termékek (a továbbiakban: termék) megfelelőségére vonatkozó, a külön jogszabályokban foglalt alapvető védelmi követelmények betartását.
+5. § (1)[^14] A Hivatal piacfelügyeleti hatóságként (a továbbiakban: piacfelügyeleti hatóság) ellenőrzi a külön jogszabályban meghatározott termékek (a továbbiakban: termék) megfelelőségére vonatkozó, a külön jogszabályokban foglalt alapvető védelmi követelmények betartását.
 
 (2) Piacfelügyeleti eljárás keretében kell az olyan termékek megfelelőségét is elbírálni, amelyek
 
@@ -8,9 +8,9 @@ a) használatbavételéhez összeszerelés, helyre szerelés vagy más installá
 
 b) alkalmazhatóságára a forgalmazási műveletek – különösen a szállítás, raktározás – hatással lehetnek,
 
-c)[^13] esetében nem történt kereskedelmi forgalomba hozatal a használatbavételt megelőzően, így különösen a saját használatra, a közvetlen vagy egyedi megrendelésre gyártott termékek esetén.
+c)[^15] esetében nem történt kereskedelmi forgalomba hozatal a használatbavételt megelőzően, így különösen a saját használatra, a közvetlen vagy egyedi megrendelésre gyártott termékek esetén.
 
-(3)[^14] A piacfelügyeleti hatóság a saját laboratóriumában vagy amennyiben a vizsgálat alá vont termék tulajdonságai (így például a mérete, összetettsége) ezt nem teszik lehetővé, a gyártó vagy az üzemeltető telephelyén a terméket az előírt követelmények teljesítése tekintetében vizsgálat alá vonhatja.
+(3)[^16] A piacfelügyeleti hatóság a saját laboratóriumában vagy amennyiben a vizsgálat alá vont termék tulajdonságai (így például a mérete, összetettsége) ezt nem teszik lehetővé, a gyártó vagy az üzemeltető telephelyén a terméket az előírt követelmények teljesítése tekintetében vizsgálat alá vonhatja.
 
 (4) A piacfelügyeleti hatóság eljárása során a szükséges vizsgálatok elvégzéséhez akkreditált vagy bejelentett szervezetek közreműködését veheti igénybe, vagy elrendelheti azok igénybevételét a megfelelőség igazolásához.
 
@@ -20,6 +20,6 @@ c)[^13] esetében nem történt kereskedelmi forgalomba hozatal a használatbav�
 
 (7) Ha a piacfelügyeleti hatóság az üzleti titok körébe tartozó információkhoz jut hozzá, gondoskodik ezen információk védelméről. Az üzleti titok nem akadályozhatja azt, hogy a piacfelügyeletre irányuló tevékenységek hatékonyságának biztosítása szempontjából jelentős információkat az illetékes piacfelügyeleti hatóságok egymás, valamint a vizsgáló és tanúsító intézmények a piacfelügyeleti hatóság tudomására hozzák.
 
-[^12]: Az 5. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (2) bekezdés c) pontja a 7/2013. (I. 18.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
-[^14]: Az 5. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (14) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (2) bekezdés c) pontja a 7/2013. (I. 18.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^16]: Az 5. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 6. § (14) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 11. §[^19] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+## 11. §[^21] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
 
 a) a nyomástartó berendezésre, nyomástartó létesítményre,
 
@@ -26,4 +26,4 @@ l) az adópolitikáért felelős miniszterrel és a közigazgatási informatiká
 
 vonatkozó részletes szabályokat rendeletben szabályozza.
 
-[^19]: A 11. § a 7/2013. (I. 18.) Korm. rendelet 6. § (18) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^21]: A 11. § a 7/2013. (I. 18.) Korm. rendelet 6. § (18) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
