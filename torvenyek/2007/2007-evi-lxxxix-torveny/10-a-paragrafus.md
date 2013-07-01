@@ -1,0 +1,1 @@
+10/A. § A rendőrség a Kormány által rendeletben meghatározott eljárásrend szerint megállapíthatja a határforgalomra, a határátkelőhelyen történő tartózkodásra vonatkozó szabályokat, valamint a határátkelőhely működésének a szabályait (a továbbiakban: a határátkelőhely rendje).

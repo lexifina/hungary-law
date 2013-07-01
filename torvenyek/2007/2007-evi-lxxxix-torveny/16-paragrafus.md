@@ -12,7 +12,9 @@ a) a határátkelőhely megnyitására és határátlépési pont létesítésé
 
 b) az ideiglenes határátkelőhely megnyitásának és működésének szabályait, és kijelölje az eljárásra jogosult szervet,
 
-c) a belső határon az ellenőrzés ideiglenes bevezetésének feltételeit.
+c) a belső határon az ellenőrzés ideiglenes bevezetésének feltételeit,
+
+d) a határátkelőhely rendjének kötelező tartalmát, megállapításának módját, részletes eljárási szabályait és feltételeit.
 
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
