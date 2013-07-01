@@ -18,6 +18,8 @@ c) a rendészeti feladatokat ellátó személy tevékenységi területének megj
 
 d) a szolgálati igazolvány és a szolgálati jelvény sorszámát.
 
+(2a) Az (1) bekezdésben meghatározott nyilvántartás a (2) bekezdés b)–d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A rendészeti feladatokat ellátó személyek nyilvántartása számára a (2) bekezdésben meghatározott adatokat
 
 a) az 1. § (1) bekezdés c) és k) pontjában meghatározottak esetében a természetvédelmi hatóság,
