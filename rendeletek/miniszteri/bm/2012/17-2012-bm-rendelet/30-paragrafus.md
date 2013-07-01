@@ -1,7 +1,11 @@
-## 29. § A látogatók biztonsági ellenőrzésére az R. 88–90. §-át, a beléptetésére a büntetés-végrehajtási szervek területére be- és kilépés, valamint büntetés-végrehajtási szervek területén tartózkodás részletes szabályairól szóló rendelet előírásait kell alkalmazni.
+## 29. §[^16] A látogatásra, valamint a látogatók biztonsági ellenőrzésére az R. 88–90. §-át, a beléptetésre a büntetés-végrehajtási szervek területére történő be- és kilépés, valamint a büntetés-végrehajtási szervek területén tartózkodás részletes szabályairól szóló rendelet előírásait kell alkalmazni.
 
 ## 20. Csomagküldés
 
-30. § (1) Az elkövető havonta egy csomagot kaphat.
+30. § (1)[^17]
 
-(2) A csomagküldésre egyebekben az R. 91. §-át, továbbá 1. számú mellékletét kell alkalmazni.
+(2)[^18] A csomagküldésre az R. 91. §-át, továbbá 1. számú mellékletét kell alkalmazni.
+
+[^16]: A 29. § a 34/2013. (VI. 30.) Bm rendelet 39. §-ával megállapított szöveg.
+[^17]: A 30. § (1) bekezdését a 34/2013. (VI. 30.) BM rendelet 42. § a) pontja hatályon kívül helyezte.
+[^18]: A 30. § (2) bekezdése a 34/2013. (VI. 30.) BM rendelet 42. § b) pontja szerint módosított szöveg.
