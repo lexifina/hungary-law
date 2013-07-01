@@ -1,4 +1,4 @@
-## 5. §[^2]
+## 5. §[^3]
 
 1. melléklet a 347/2012. (XII. 11.) Korm. rendelethez
 
@@ -170,4 +170,4 @@ Megjegyzés:
 
 |  | 4.7. | A 4.6. pont alatti tevékenységet további, a 3.5. pont szerinti kiszállási díj terheli |
 
-[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
