@@ -1,3 +1,1 @@
-23. §[^1]
-
-[^1]: A 23. § a 22. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+23. § Hatályát veszti a 18. § (2) bekezdés b) pontjában a „szolgálati jellemzését,” szövegrész.

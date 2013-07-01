@@ -4,10 +4,12 @@
 
 a) a bűnügyi nyilvántartás terheltre vonatkozó értesítését,
 
-b) a terhelt minősítését, szolgálati jellemzését, a dicséreteiről és fenyítéseiről szóló kimutatást,
+b)[^6] a terhelt minősítését, a dicséreteiről és fenyítéseiről szóló kimutatást,
 
 c) a pénzügyi szervnek a terhelt illetményéről szóló igazolását, továbbá
 
 d) a bűnjeljegyzéket és a bűnügyi költségjegyzéket.
 
 (3) A bűnjelet a nyomozási iratokkal együtt kell megküldeni. Amennyiben a bűnjel csatolása – annak jellegénél fogva – nem lehetséges vagy más fontos ok azt indokolja, a bűnjelnek a bűncselekménnyel kapcsolatos egyedi tulajdonságait rögzítő iratot vagy fényképet kell a nyomozási iratokhoz csatolni.
+
+[^6]: A 18. § (2) bekezdés b) pontja a 23. § szerint módosított szöveg.
