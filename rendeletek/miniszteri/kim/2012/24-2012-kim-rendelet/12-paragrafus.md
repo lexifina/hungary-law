@@ -1,3 +1,1 @@
-## 11. §[^10]
-
-[^10]: A 11. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+## 11. § A Köt.12. § (3) bekezdésében meghatározott közzététel helye a Civil Információs Portál.

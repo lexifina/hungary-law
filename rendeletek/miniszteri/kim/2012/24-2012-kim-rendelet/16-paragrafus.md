@@ -1,5 +1,3 @@
-## 15. §[^14]
-
 ## 8. Civil információs centrumok
 
 16. § (1) A Civil tv. 51. § (2) bekezdése szerinti nyilvános pályázat nyertesei jogosultak a miniszter által adományozott civil információs centrum cím viselésére a (4) bekezdésben meghatározott szerződés időszaka alatt.
@@ -9,5 +7,3 @@
 (3) A civil információs centrum a Civil tv. 51. §-a és 52. §-a szerinti szolgáltatásokat ellenszolgáltatás nélkül nyújtja.
 
 (4) A nyilvános pályázat nyerteseivel a miniszter határozott idejű szakmai együttműködési megállapodást köt. A határozott idő elteltével a cím viselésére vonatkozó jogosultság megszűnik.
-
-[^14]: A 15. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.

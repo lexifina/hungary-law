@@ -1,5 +1,7 @@
-## 14. §[^13]
+## 14. § A Tanács elnöke az alapkezelőn keresztül teljesíti a Civil tv. 67. § (2) bekezdése szerinti közzétételi kötelezettségét.
 
 ## 7. A civil szervezetek adatszolgáltatása
 
-[^13]: A 14. § a 18. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+15. § (1) A civil információs centrumok a Civil tv. 52. § (1) bekezdés f) pontjában meghatározott adatszolgáltatási kötelezettségüknek elektronikus úton tesznek eleget.
+
+(2) A Civil tv. 53. § (7) bekezdésében meghatározott jelentős költségvetési támogatásban részesülő szervezet vezető tisztségviselője az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény melléklete szerinti vagyonnyilatkozatát zárt borítékban küldi meg a Civil Információs Portál szerkesztősége részére, amely a letétbe helyezés idejét és tényét közzéteszi a Civil Információs Portálon.

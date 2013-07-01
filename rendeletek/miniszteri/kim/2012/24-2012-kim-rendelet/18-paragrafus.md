@@ -2,6 +2,6 @@
 
 18. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^15] A 3–15. §, valamint az 1. melléklet 2013. július 1. napján lép hatályba.
+(2)[^5] A 3–15. §, valamint az 1. melléklet 2013. július 1. napján lép hatályba.
 
-[^15]: A 18. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 25. §-a szerint módosított szöveg.
+[^5]: A 18. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 25. §-a szerint módosított szöveg.
