@@ -6,7 +6,7 @@ a) a tévedés, megtévesztés felismerésekor;
 
 b) jogellenes fenyegetés esetében a kényszerhelyzet megszűntekor;
 
-c) a felek szolgáltatásainak feltűnő aránytalansága vagy tisztességtelen szerződési feltétel [209/A. § (1) bekezdés, 301/A. § (4) bekezdés] esetén a sérelmet szenvedő fél teljesítésekor – részletekben történő teljesítésnél az első teljesítéskor –, illetve, ha ő a teljesítéskor kényszerhelyzetben volt, ennek megszűntekor.
+c) a felek szolgáltatásainak feltűnő aránytalansága vagy tisztességtelen szerződési feltétel [209/A. § (1) bekezdés, 292/A. § (4) bekezdés, 301/A. § (4) bekezdés, 405. § (1) bekezdés és 407/A. § (1) bekezdés] esetén a sérelmet szenvedő fél teljesítésekor – részletekben történő teljesítésnél az első teljesítéskor –, illetve, ha ő a teljesítéskor kényszerhelyzetben volt, ennek megszűntekor.
 
 (3) A megtámadási határidőre az elévülés nyugvásának és megszakadásának szabályai megfelelően irányadók. A megtámadásra jogosult a szerződésből eredő követeléssel szemben kifogás útján megtámadási jogát akkor is érvényesítheti, ha a megtámadási határidő már eltelt.
 
