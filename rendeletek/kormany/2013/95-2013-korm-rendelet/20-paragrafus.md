@@ -1,9 +1,8 @@
-## 13–19. §[^5]
+## 13–19. §[^4]
 
-20. § (1)[^6]
+20. § (1)[^5]
 
-(2)[^7]
+(2) A Pr. 35. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^5]: A 13–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 20. § (2) bekezdése a 25. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+[^4]: A 13–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
