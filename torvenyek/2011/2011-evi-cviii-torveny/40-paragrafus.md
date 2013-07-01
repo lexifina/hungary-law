@@ -4,7 +4,7 @@ a) a közbeszerzésnek azt a részét (részeit), amelynek teljesítéséhez az 
 
 b) az ezen részek tekintetében a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozókat, valamint a közbeszerzésnek azt a százalékos arányát, amelynek teljesítésében a megjelölt alvállalkozók közre fognak működni.
 
-(2) Az (1) bekezdés szerinti megjelölés és igénybevétel nem érinti az ajánlattevő teljesítésért való felelősségét.
+(2) Az (1) bekezdés szerinti megjelölés és igénybevétel nem érinti az ajánlattevő teljesítésért való felelősségét. A több szakaszból álló eljárások részvételi szakaszában az (1) bekezdés szerint tett nyilatkozatot az ajánlattevő az eljárás ajánlattételi szakaszában – a 26. § figyelembe vételével – módosíthatja, ebben az esetben ismét be kell nyújtania nyilatkozatát arról, hogy nem vesz igénybe a kizáró okok hatálya alá eső alvállalkozót [87. § (1) bekezdés d) pontja, 91. § (1) bekezdés d) pontja, 107. § (4) bekezdés e) pontja]. A módosítás az alkalmasság igazolásában részt vevő gazdasági szereplő esetében nem eredményezheti az alkalmasság igazolásakor tett nyilatkozatok tartalmának módosulását.
 
 (3) Ha az ajánlatkérő támogatásra irányuló igényt (pályázatot) nyújtott be, vagy fog benyújtani, az eljárást megindíthatja – függetlenül attól, hogy sor került-e már a támogatás pályázati felhívásának megjelenésére –, az eljárást megindító felhívásban azonban fel kell hívni a gazdasági szereplők figyelmét erre a körülményre, valamint a (4) bekezdésben foglaltakra.
 

@@ -22,7 +22,7 @@ j) a kormány által az európai uniós és egyéb nemzetközi támogatások ell
 
 k) az állami vagyon felügyeletéért felelős miniszter;
 
-l) a legfőbb ügyész.
+l) az ügyész.
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását
 

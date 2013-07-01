@@ -14,13 +14,9 @@ e) egy évnél régebben lejárt adó-, vámfizetési vagy társadalombiztosít�
 
 f) korábbi – három évnél nem régebben lezárult – közbeszerzési eljárásban hamis adatot szolgáltatott és ezért az eljárásból kizárták, vagy a hamis adat szolgáltatását jogerősen megállapították, a jogerősen megállapított időtartam végéig;
 
-g) az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) pontja szerinti rendezett munkaügyi kapcsolatok követelményeinek megsértésével
+g)
 
-ga) a munkaviszony létesítésével összefüggő bejelentési kötelezettség elmulasztásával összefüggésben két évnél nem régebben jogerőre emelkedett közigazgatási, vagy annak felülvizsgálata esetén bírósági határozatban megállapított és munkaügyi bírsággal vagy az adózás rendjéről szóló törvény szerinti mulasztási bírsággal sújtott jogszabálysértést követett el, vagy
-
-gb) külföldi Magyarországon engedélyhez kötött foglalkoztatása esetén az engedély megkérésére vonatkozó munkáltatói kötelezettség elmulasztásával összefüggésben két évnél nem régebben jogerőre emelkedett közigazgatási vagy annak felülvizsgálata esetén bírósági határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel, vagy a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el;
-
-h) a büntető törvénykönyv szerinti bűnszervezetben részvétel – ideértve bűncselekmény bűnszervezetben történő elkövetését is –, vesztegetés, vesztegetés nemzetközi kapcsolatokban, hűtlen kezelés, hanyag kezelés, költségvetési csalás, az európai közösségek pénzügyi érdekeinek megsértése, illetve pénzmosás bűncselekményt vagy személyes joga szerinti hasonló bűncselekményt követett el, feltéve, hogy a bűncselekmény elkövetése jogerős bírósági ítéletben megállapítást nyert, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült;
+h) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény szerinti bűnszervezetben részvétel – ideértve a bűncselekmény bűnszervezetben történő elkövetését is –, vesztegetés, vesztegetés nemzetközi kapcsolatokban, hűtlen kezelés, hanyag kezelés, költségvetési csalás, az európai közösségek pénzügyi érdekeinek megsértése vagy pénzmosás bűncselekményt, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII. Fejezetében meghatározott korrupciós bűncselekmények, bűnszervezetben részvétel – ideértve bűncselekmény bűnszervezetben történő elkövetését is –, hűtlen kezelés, hanyag kezelés, költségvetési csalás vagy pénzmosás bűncselekményt, illetve személyes joga szerinti hasonló bűncselekményt követett el, feltéve, hogy a bűncselekmény elkövetése jogerős bírósági ítéletben megállapítást nyert, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült;
 
 i) korábbi közbeszerzési eljárás eredményeként 2010. szeptember 15-ét követően kötött szerződésével kapcsolatban az alvállalkozója felé fennálló (vég- vagy részszámlából fakadó) két éven belül született jogerős és végrehajtható közigazgatási, vagy bírósági határozatban megállapított fizetési kötelezettsége 10%-ot meghaladó részét, az ilyen határozatban megállapított fizetési határidőn belül nem teljesítette, annak ellenére, hogy az ajánlatkérőként szerződést kötő fél a részére határidőben fizetett;
 
@@ -32,15 +28,25 @@ ka) nem EU-, EGT- vagy OECD-tagállamban vagy olyan államban rendelkezik adóil
 
 kb) a közbeszerzési szerződéssel kapcsolatban megszerzett jövedelme az adóilletősége szerinti országban kedvezményesebben adózna (a jövedelemre kifizetett végleges, adó-visszatérítések után kifizetett adót figyelembe véve), mint ahogy a gazdasági szereplő az adott országból származó belföldi forrású jövedelme után adózna. Ennek a feltételnek nem kell eleget tennie a gazdasági szereplőnek, ha Magyarországon bejegyzett fióktelepe útján fogja teljesíteni a közbeszerzési szerződést és a fióktelepnek betudható jövedelemnek minősülne a szerződés alapján kapott jövedelem,
 
-kc) olyan nem szabályozott tőzsdén jegyzett társaság, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pontja szerinti tényleges tulajdonosa nem megismerhető.
+kc) olyan szabályozott tőzsdén nem jegyzett társaság, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pontja szerinti tényleges tulajdonosa nem megismerhető.
 
 (2) Az eljárásban nem lehet ajánlattevő vagy részvételre jelentkező az a gazdasági szereplő, amelyben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amelynek tekintetében az (1) bekezdés k) pontjában meghatározott feltételek fennállnak. Amennyiben a több, mint 25%-os tulajdoni résszel vagy szavazati hányaddal rendelkező gazdasági társaság társulásként adózik, akkor az ilyen társulás tulajdonos társaságaira vonatkozóan kell az (1) bekezdés ka) pontja szerinti feltételt megfelelően alkalmazni.
 
 (3) Az (1) bekezdés e) pontjában említett adófizetési kötelezettség alatt a belföldi székhelyű gazdasági szereplő tekintetében az állami adóhatóság és a vámhatóság által nyilvántartott adófizetési kötelezettséget kell érteni.
 
-(4) Az (1) bekezdés h) pontjában említett bűnszervezetben részvétel, vesztegetés, vesztegetés nemzetközi kapcsolatokban, az európai közösségek pénzügyi érdekeinek megsértése, illetve pénzmosás bűncselekményhez hasonló bűncselekmény alatt az Európai Unió más tagállamában letelepedett ajánlattevő esetében a 98/733/IB tanácsi együttes fellépés 2. cikkének (1) bekezdésében meghatározott bűnszervezetben való részvételt, az 1997. május 26-i tanácsi jogi aktus 3. cikkében meghatározott korrupciót, a 98/742/IB tanácsi együttes fellépés 3. cikkének (1) bekezdésében meghatározott korrupciót, az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezmény 1. cikke szerinti csalást, valamint a pénzügyi rendszerek pénzmosás céljára való felhasználásának megelőzéséről szóló, 1991. június 10-i 91/308/EGK tanácsi irányelv 1. cikkében meghatározott pénzmosást kell érteni.
+(4) Az (1) bekezdés h) pontjában említett hasonló bűncselekmény alatt az Európai Unió más tagállamában letelepedett ajánlattevő esetében
 
-(5) Az (1) bekezdés g) pontjának alkalmazását nem érinti, ha a gazdasági szereplő a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+a) bűnszervezetben részvétel bűncselekmény esetén a szervezett bűnözés elleni küzdelemről szóló, 2008. október 24-i 2008/841/IB tanácsi kerethatározat 2. cikkében meghatározott bűnszervezetben való részvételhez kapcsolódó bűncselekményt,
+
+b) vesztegetés, vesztegetés elfogadása, hivatali vesztegetés, hivatali vesztegetés elfogadása, vesztegetés bírósági vagy hatósági eljárásban, vesztegetés elfogadása bírósági vagy hatósági eljárásban bűncselekmény esetén az 1997. május 26-i tanácsi jogi aktus 3. cikkében meghatározott korrupciót,
+
+c) költségvetési csalás bűncselekmény esetén az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezmény 1. cikke szerinti csalást,
+
+d) pénzmosás bűncselekmény esetén a pénzügyi rendszerek pénzmosás céljára való felhasználásának megelőzéséről szóló, 1991. június 10-i 91/308/EGK tanácsi irányelv 1. cikkében meghatározott pénzmosást
+
+kell érteni.
+
+(5)
 
 (6) Az ajánlatkérő az eljárást megindító felhívásban köteles hivatkozni az (1) és (2) bekezdésekben foglalt kizáró okokra.
 

@@ -20,7 +20,7 @@ h) a 6. § (1) bekezdés a)–f) pontja szerinti ajánlatkérők által odaíté
 
 i) ha a szolgáltatási koncesszió a koncessziós törvény hatálya alá tartozik, azzal, hogy a koncessziós törvény szerinti eljárásról az ajánlatkérőnek a Közbeszerzési Hatóságot haladéktalanul írásban tájékoztatnia kell;
 
-j) ha a szolgáltatási koncesszió az autóbusszal végzett menetrend szerinti személyszállításról vagy villamossal végzett helyi közforgalmú vasúti szolgáltatás esetén a vasúti közlekedésről szóló törvények hatálya alá tartozik, azzal, hogy az e törvények szerinti eljárásról az ajánlatkérőnek a Közbeszerzési Hatóságot haladéktalanul írásban tájékoztatnia kell;
+j) a személyszállítási szolgáltatásokról szóló törvény szerinti közúti és vasúti személyszállítási közszolgáltatásra vonatkozó szerződés megkötésére, az autóbusszal vagy villamossal végzett személyszállítási közszolgáltatás esetében azonban kizárólag abban az esetben, amennyiben a szerződés szolgáltatási koncessziónak minősül; a személyszállítási szolgáltatásokról szóló törvény szerinti pályázati eljárásról az ajánlatkérőnek a Közbeszerzési Hatóságot három napon belül írásban tájékoztatnia kell;
 
 k) azokra a megállapodásokra, amelyeket
 

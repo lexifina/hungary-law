@@ -1,4 +1,4 @@
-16. § (1) Az építési beruházás becsült értéke megállapításakor a teljes beruházásért járó ellenértéket kell figyelembe venni.
+16. § (1) Az építési beruházás becsült értéke megállapításakor a teljes beruházásért járó ellenértéket kell figyelembe venni. Annak megítéléséhez, hogy mit kell egy építési beruházásnak tekinteni, a gazdasági és egyben műszaki funkció egységét kell döntő szempontként figyelembe venni.
 
 (2) Az építési beruházás becsült értékébe be kell számítani a megvalósításához szükséges, az ajánlatkérő által rendelkezésre bocsátott áruk és szolgáltatások becsült értékét is.
 

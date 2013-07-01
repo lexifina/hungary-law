@@ -4,4 +4,4 @@
 
 (3) Az ajánlatkérő a részvételi jelentkezéseket köteles a lehető legrövidebb időn belül elbírálni, az elbírálást olyan időtartam alatt kell elvégeznie, hogy a részvételi szakasz eredményéről a részvételre jelentkezők értesítése megelőzze a részvételi felhívásban feltüntetett, az ajánlattételi felhívás megküldésének időpontját.
 
-(4) Az ajánlatkérő indokolt esetben az ajánlattételi felhívás megküldésére korábban megjelölt időpontot legfeljebb 30 nappal elhalaszthatja, ebben az esetben az eredeti időpont lejárta előtt minden részvételre jelentkezőnek egyidejűleg értesítést küld az ajánlattételi felhívás megküldésének új időpontjáról, és a részvételi szakasz eredményéről ezt megelőzően kell a részvételre jelentkezőket értesíteni.
+(4) Az ajánlatkérő indokolt esetben az ajánlattételi felhívás megküldésére korábban megjelölt időpontot legfeljebb összesen 30 nappal elhalaszthatja, ebben az esetben az eredeti – vagy a módosított – időpont lejárta előtt minden részvételre jelentkezőnek egyidejűleg értesítést küld az ajánlattételi felhívás megküldésének új időpontjáról, és a részvételi szakasz eredményéről ezt megelőzően kell a részvételre jelentkezőket értesíteni.

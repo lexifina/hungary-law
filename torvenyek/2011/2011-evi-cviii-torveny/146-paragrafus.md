@@ -1,6 +1,6 @@
 ## A Közbeszerzési Döntőbizottság vizsgálatának terjedelme
 
-146. § (1) Ha a Közbeszerzési Döntőbizottság eljárása során a kérelem vagy a kezdeményezés alapján vizsgáltakon túli jogsértésről szerez tudomást az érdemi határozat [152. §] meghozatala előtt, ezek vonatkozásában is eljárhat hivatalból. Az eljárás kiterjesztésére akkor van lehetőség, ha a feltárt jogsértés sérti a verseny tisztaságát vagy nyilvánosságát, az ajánlatkérők esélyegyenlőségét vagy érdemben kihatott az ajánlatkérő döntésére. Az eljárás kiterjesztéséről az eljáró tanács jelzése alapján a Közbeszerzési Döntőbizottság elnöke dönt.
+146. § (1) Ha a Közbeszerzési Döntőbizottság eljárása során a kérelem vagy a kezdeményezés alapján vizsgáltakon túli jogsértésről szerez tudomást az érdemi határozat [152. §] meghozatala előtt, ezek vonatkozásában is eljárhat hivatalból. Az eljárás kiterjesztésére akkor van lehetőség, ha a feltárt jogsértés sérti a verseny tisztaságát vagy nyilvánosságát, az ajánlattevők esélyegyenlőségét vagy érdemben kihatott az ajánlatkérő döntésére. Az eljárás kiterjesztéséről az eljáró tanács jelzése alapján a Közbeszerzési Döntőbizottság elnöke dönt.
 
 (2) A Közbeszerzési Döntőbizottság a kérelem visszavonása esetén az eljárást folytatja, ha a rendelkezésre álló adatok alapján súlyos jogsértés valószínűsíthető.
 

@@ -16,10 +16,6 @@ b) kiemelkedően fontos közérdek fűződik a szerződés teljesítéséhez.
 
 (3) A szerződéshez közvetlenül kapcsolódó gazdasági érdek (így különösen a késedelmes teljesítésből, az új közbeszerzési eljárás lefolytatásából, a szerződő fél esetleges változásából vagy az érvénytelenségből következő kötelezettségekből eredő költség) nem tekinthető kiemelkedően fontos közérdeknek, a szerződés érvényességéhez fűződő további gazdasági érdekek pedig kizárólag akkor, ha a szerződés érvénytelensége aránytalan következményekkel járna.
 
-(4) Semmis a közbeszerzési eljárás alapján megkötött szerződés azon rendelkezése, amely
-
-a) kizárja vagy korlátozza az ajánlatkérő szerződésszegése esetére irányadó jogkövetkezmények alkalmazását, vagy
-
-b) a késedelmi kamatra vonatkozóan a Ptk. 301/A. §-ának (2) és (3) bekezdésében foglaltaktól a jogosult terhére tér el.
+(4) Semmis – a késedelmi kamat tekintetében a Ptk. 301/B. § (2) bekezdésében lehetővé tett eset kivételével – a közbeszerzési eljárás alapján megkötött szerződés azon rendelkezése, amely kizárja vagy korlátozza az ajánlatkérő szerződésszegése esetére irányadó jogkövetkezmények alkalmazását.
 
 (5) E törvény rendelkezései nem zárják ki a Ptk. 200. §-a (2) bekezdésének alkalmazását a közbeszerzésre, illetve a közbeszerzési eljárásra vonatkozó jogszabályokba ütköző módon megkötött szerződés semmisségének megállapítása tekintetében.

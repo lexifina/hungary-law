@@ -32,6 +32,6 @@ b) a nyertes ajánlattevő közvetetten vagy közvetlenül 25%-ot meghaladó tul
 
 (8) Az ajánlatkérőnek az eljárást megindító felhívásban a szerződés időtartamát úgy kell meghatároznia, hogy amennyiben a szerződés tárgya, a választott szerződéses konstrukció vagy a hozzá kapcsolódó fizetési feltételek vagy a nyertes ajánlattevő által eszközölt befektetés nem indokolja, a szerződés ne kösse határozatlan vagy aránytalanul hosszú határozott időtartamra, amely a verseny fenntartása és a közpénzek hatékony elköltésének céljával ellenkezik.
 
-(9) Amennyiben az építési beruházás megvalósítására irányuló szerződésben a felek tartalékkeret kötnek ki, annak értéke nem haladhatja meg a szerződésben foglalt ellenszolgáltatás 5%-át.
+(9) Amennyiben az építési beruházás megvalósítására irányuló szerződésben a felek tartalékkeret kötnek ki, annak értéke nem haladhatja meg a szerződésben foglalt ellenszolgáltatás 10%-át.
 
 (10) A szerződésbe foglalhatók olyan rendelkezések, amelyek minden ajánlattevő számára előre megismerhető módon, egyértelműen rögzítik a szerződés meghatározott tartalmi elemei későbbi változásának pontos feltételeit és tartalmát. Az ilyen rendelkezések esetében nem kell vizsgálni a 132. §-ban foglalt feltételek fennállását, az előirányzott változások azonban nem eredményezhetik a szerződés tárgyának alapvető megváltozását.

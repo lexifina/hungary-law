@@ -8,8 +8,8 @@ a) a kérelmező a hiánypótlási felhívásnak a meghatározott határidő ala
 
 b) az ajánlatkérő a közbeszerzési eljárást megindító hirdetményét, felhívását jogszerűen visszavonta.
 
-(4) A Döntőbizottság a jogorvoslati eljárást akkor is megszünteti végzéssel, ha a (3) bekezdés alapján a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban az eljárás megindítását követően jutott a Döntőbizottság tudomására.
+(4) A Döntőbizottság a jogorvoslati eljárást akkor is megszünteti, ha a (3) bekezdés alapján a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban az eljárás megindítását követően jutott a Döntőbizottság tudomására.
 
 (5) A kérelmező az eljárás megindítására irányuló kérelmét az érdemi határozat [152. §] meghozataláig visszavonhatja.
 
-(6) Ha a Közbeszerzési Döntőbizottság a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja, vagy a jogorvoslati eljárást a (4) bekezdésben foglalt okból végzéssel megszünteti, az igazgatási szolgáltatási díj a kérelmezőnek visszajár. A kérelem visszavonása esetén azonban a kérelmező nem tarthat igényt az igazgatási szolgáltatási díj visszatérítésére.
+(6) Ha a Közbeszerzési Döntőbizottság a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja, vagy a jogorvoslati eljárást a (4) bekezdésben foglalt okból megszünteti, az igazgatási szolgáltatási díj a kérelmezőnek visszajár. A kérelem visszavonása esetén azonban a kérelmező nem tarthat igényt az igazgatási szolgáltatási díj visszatérítésére.

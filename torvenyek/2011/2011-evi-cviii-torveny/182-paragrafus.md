@@ -20,7 +20,7 @@
 
 9. az elektronikusan gyakorolható eljárási cselekmények, az elektronikus árlejtés szabályait, valamint az elektronikus úton történő beszerzés részletes szabályait;
 
-10. az építési beruházások közbeszerzéseire, valamint az építési beruházások megvalósítására irányuló közbeszerzési szerződések teljesítésére vonatkozó részletes szabályokat, továbbá az építési beruházások megvalósítására irányuló közbeszerzési szerződések esetén a szerződésben foglalt ellenérték kifizetésének – e törvénytől eltérő – szabályait;
+10. az építési beruházások közbeszerzéseire, valamint az építési beruházások megvalósítására irányuló közbeszerzési szerződések teljesítésére vonatkozó részletes szabályokat, továbbá az építési beruházások megvalósítására irányuló közbeszerzési szerződések esetén a szerződésben foglalt ellenérték kifizetésének – e törvénytől és a Ptk.-tól eltérő – szabályait;
 
 11. a gyógyszerek és az orvostechnikai eszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait;
 
@@ -36,7 +36,7 @@
 
 17. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 
-18. az irányítása vagy felügyelete alá tartozó költségvetési szervek, továbbá az azok vagyonkezelésébe tartozó, többségi állami tulajdonban álló gazdálkodó szervezetek, valamint a Kormány közalapítványai közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, e szervezetek közbeszerzési szerződései teljesítésének ellenőrzésére és módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő, vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését;
+18. az irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, amelyekben az állam nevében a tulajdonosi (részvényesi, tagsági stb.) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján központi költségvetési szerv vagy intézménye gyakorolja, valamint e szervezetek közbeszerzési szerződései teljesítésének ellenőrzésére és módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését;
 
 19. az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában, az uniós értékhatárokat el nem érő árubeszerzésekre, valamint szolgáltatás megrendelésekre e törvény 123. §-ának alkalmazásában kötelezően alkalmazandó eljárási szabályokat;
 

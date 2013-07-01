@@ -6,6 +6,6 @@
 
 (4) Az ajánlatkérőnek a közpénzek felhasználásakor a hatékony és felelős gazdálkodás elvét szem előtt tartva kell eljárnia.
 
-(5) Az Európai Unióban letelepedett gazdasági szereplők és a közösségi áruk számára nemzeti elbánást kell nyújtani a közbeszerzési eljárásban. Az Európai Unión kívül letelepedett gazdasági szereplők és a nem közösségi áruk számára nemzeti elbánást a közbeszerzési eljárásban Magyarországnak és az Európai Uniónak a közbeszerzések terén fennálló nemzetközi kötelezettségeivel összhangban kell nyújtani.
+(5) Az Európai Unióban letelepedett gazdasági szereplők és a közösségi származású áruk számára nemzeti elbánást kell nyújtani a közbeszerzési eljárásban. Az Európai Unión kívül letelepedett gazdasági szereplők és a nem közösségi származású áruk számára nemzeti elbánást a közbeszerzési eljárásban Magyarországnak és az Európai Uniónak a közbeszerzések terén fennálló nemzetközi kötelezettségeivel összhangban kell nyújtani.
 
 (6) A közbeszerzési eljárás nyelve a magyar, az ajánlatkérő a közbeszerzési eljárásban lehetővé teheti – de nem követelheti meg – a magyar helyett más nyelv használatát is.

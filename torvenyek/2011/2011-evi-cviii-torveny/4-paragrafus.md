@@ -38,7 +38,7 @@ c) építési beruházás esetén az építőanyag-szállítót;
 
 14. közbeszerzési eljárás megkezdése: A közbeszerzés megkezdésén a közbeszerzési eljárást megindító hirdetmény feladásának időpontját, a közvetlen részvételi felhívás [38. § (1) bekezdés] megküldésének időpontját, a hirdetmény nélküli tárgyalásos eljárás esetében pedig az ajánlattételi felhívás – a 99. § (2) bekezdése szerinti esetben a tárgyalási meghívó – megküldésének, ennek hiányában a tárgyalás megkezdésének időpontját kell érteni;
 
-15. közösségi áru: a Közösségi Vámkódexről szóló tanácsi rendeletben (2913/92/EGK rendelet) így meghatározott fogalom;
+15.
 
 16. meghatározó befolyást képes gyakorolni az a szervezet, amely az alábbi feltételek közül legalább eggyel rendelkezik egy másik szervezet tekintetében:
 

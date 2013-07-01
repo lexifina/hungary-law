@@ -26,6 +26,10 @@ b) ha a meghívásos, a hirdetmény közzétételével induló tárgyalásos elj
 
 c) ha a hirdetmény nélküli tárgyalásos eljárást a 94. § (2) bekezdés d) pontja alapján indították;
 
-d) a keretmegállapodás alapján történő közbeszerzés esetében, kivéve, ha a közbeszerzés a verseny újranyitásával valósul meg [110. § (4) bekezdés b) pont].
+d) a keretmegállapodás alapján történő közbeszerzés esetében, kivéve, ha a közbeszerzés a verseny újranyitásával valósul meg [110. § (4) bekezdés b) pont];
+
+e) ha a hirdetmény nélküli tárgyalásos eljárást a 94. § (2) bekezdés c) pontja, (3) bekezdése, vagy (4) bekezdés b)–d) pontja alapján indították és a 141. § (3) bekezdése szerinti határidőben a Közbeszerzési Döntőbizottság elnöke nem élt a jogorvoslati eljárás megindításának jogával;
+
+f) ha a 122. § (7) bekezdés a) pontja vagy a 122/A. § szerinti eljárásban csak egy ajánlatot nyújtottak be.
 
 (9) Az ajánlatkérő a nyertes szervezettel (személlyel) szemben csak abban az esetben mentesül a közbeszerzési szerződés megkötésének kötelezettsége alól, ha az ajánlatok elbírálásáról szóló írásbeli összegezés megküldését követően – általa előre nem látható és elháríthatatlan ok következtében – beállott lényeges körülmény miatt a közbeszerzési szerződés megkötésére vagy teljesítésére nem képes.

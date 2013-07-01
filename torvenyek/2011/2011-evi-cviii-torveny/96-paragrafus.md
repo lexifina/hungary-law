@@ -1,6 +1,6 @@
 96. § (1) Az ajánlattételi felhívásnak a 38. §-ban foglaltakon túl a következőket kell tartalmaznia:
 
-a) a tárgyalásos eljárás 94. § szerinti jogcímét;
+a) a tárgyalásos eljárás jogcímét;
 
 b) a tárgyalás lefolytatásának menetét és az ajánlatkérő által előírt alapvető szabályait;
 

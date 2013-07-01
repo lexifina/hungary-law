@@ -10,7 +10,7 @@
 
 (5) A (3) bekezdés szerinti határidő számításakor a jogsértés tudomásra jutása időpontjának kell tekinteni
 
-a) a jogellenes tartalmú, a közbeszerzési eljárást megindító hirdetmény közzétételétől vagy közvetlen felhívás kézhezvételétől, vagy dokumentáció esetében annak rendelkezésre bocsátásától számított tizenötödik napot;
+a) a jogellenes tartalmú, a közbeszerzési eljárást megindító hirdetmény közzétételének vagy közvetlen felhívás kézhezvételének, vagy dokumentáció esetében annak rendelkezésre bocsátásának napját;
 
 b) az előírt határidő lejártánál később feladott hirdetmény esetében a hirdetmény közzétételétől számított tizenötödik napot;
 
@@ -18,7 +18,7 @@ c) a közbeszerzési eljárást lezáró döntésben a megtekintett iratokkal ka
 
 d) ha a kérelemmel érintett jogsértéssel összefüggésben előzetes vitarendezést kérelmeztek és az ajánlatkérő a jogsértéssel kapcsolatban álláspontját megküldte, de egyéb intézkedést nem tett, ezen jogsértés tekintetében az ajánlatkérői álláspont megküldésének időpontját;
 
-e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [31. § (1) bekezdés f) pont] honlapon való közzétételétől számított harmincadik napot.
+e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [31. § (1) bekezdés e) pont] Közbeszerzési Hatóság által működtetett adatbázisban – amennyiben az Adatbázisban való közzététel valamely okból nem lehetséges az ajánlatkérő saját vagy fenntartója honlapján – való közzétételétől számított harmincadik napot.
 
 (6) A (3) bekezdés szerinti határidő számításakor a jogsértés megtörténtének kell tekinteni
 

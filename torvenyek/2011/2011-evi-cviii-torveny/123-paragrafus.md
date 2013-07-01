@@ -1,4 +1,4 @@
-123. § (1) Az ajánlatkérő az uniós értékhatárokat el nem érő értékű árubeszerzésre és szolgáltatás megrendelésre irányuló közbeszerzése megvalósításakor – választása szerint – az e törvény Második Részében foglalt szabályok által nem kötött, önálló eljárási szabályokat alakíthat ki.
+123. § (1) Az ajánlatkérő az e törvény Második Részében foglalt szabályok által nem kötött, önálló eljárási szabályokat alakíthat ki.
 
 (2) Az ajánlatkérő az általa megválasztott eljárási fajtáról a közbeszerzési eljárás során nem térhet át másikra; ha az általa a közbeszerzés során alkalmazandó eljárás szabályait önállóan alakítja ki, köteles ezeket a szabályokat megjeleníteni az eljárást megindító felhívásban. Az eljárást megindító felhívásnak minden esetben biztosítania kell, hogy annak alapján a gazdasági szereplők egyenlő eséllyel megfelelő ajánlatot tehessenek, illetve részvételi jelentkezést nyújthassanak be.
 

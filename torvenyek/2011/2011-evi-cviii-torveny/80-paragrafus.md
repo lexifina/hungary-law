@@ -1,6 +1,6 @@
 ## Az ajánlatok, részvételi jelentkezések nyilvánossága és az üzleti titok védelme
 
-80. § (1) Az ajánlattevő és a részvételre jelentkező az ajánlatában, illetve a részvételi jelentkezésben, valamint a 69–70. § szerinti indokolásban elkülönített módon elhelyezett, üzleti titkot [Ptk. 81. § (2) bekezdése] tartalmazó iratok nyilvánosságra hozatalát megtilthatja. Az üzleti titkot tartalmazó iratokat úgy kell elkészíteni, hogy azok ne tartalmazzanak a (2)–(3) bekezdés szerinti elemeket.
+80. § (1) Az ajánlattevő és a részvételre jelentkező az ajánlatában, illetve a részvételi jelentkezésben, valamint a 69–70. § szerinti indokolásban elkülönített módon elhelyezett, üzleti titkot [Ptk. 81. § (2) bekezdése] tartalmazó iratok nyilvánosságra hozatalát megtilthatja. Az üzleti titkot tartalmazó iratokat úgy kell elkészíteni, hogy azok a Ptk. 81. § (3) bekezdésére figyelemmel kizárólag olyan információkat tartalmazzanak, amelyek nyilvánosságra hozatala az üzleti tevékenység végzése szempontjából aránytalan sérelmet okozna, továbbá ne tartalmazzanak a (2)–(3) bekezdés szerinti elemeket.
 
 (2) Az ajánlattevő nem tilthatja meg nevének, címének (székhelyének, lakóhelyének), valamint olyan ténynek, információnak, megoldásnak vagy adatnak (a továbbiakban együtt: adat) a nyilvánosságra hozatalát, amely a 71. § szerinti értékelési szempont alapján értékelésre kerül, de az ezek alapjául szolgáló – a (3) bekezdés hatálya alá nem tartozó – részinformációk, alapadatok (így különösen az árazott költségvetés) nyilvánosságra hozatalát megtilthatja.
 
