@@ -1,4 +1,4 @@
-17. § Az „art” besorolású mozik üzemeltetésének, valamint az „art” besorolású filmalkotások terjesztésének támogatására vonatkozó részletes szabályokat a kultúráért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.
+17. § A kultúráért felelős miniszter (a továbbiakban: miniszter) évente dönt az „art” besorolású mozik, valamint az „art” besorolású filmalkotások forgalmazásának támogatásáról.
 
 ## III. Fejezet
 

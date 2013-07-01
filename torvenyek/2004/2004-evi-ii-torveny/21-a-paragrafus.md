@@ -8,6 +8,8 @@ ab) rövid tartalmát,
 
 ac) előállítójának, producerének, rendezőjének, forgatókönyvírójának, zeneszerzőjének, operatőrének és főszereplőinek nevét,
 
+ad) játékidejét,
+
 b) a filmterjesztőnek a filmalkotás besorolására vonatkozó javaslatát a 21. §-ban meghatározott kategóriák alapján, valamint
 
 c) a terjesztés megkezdésének tervezett időpontját.

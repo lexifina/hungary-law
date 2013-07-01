@@ -10,6 +10,8 @@ b) a támogatásra jogosultság megállapítása során elfogadott költségvet�
 
 c) a filmelőállító visszavonhatatlan jognyilatkozatát, hogy a (4) bekezdés szerinti kötelezettségnek eleget tesz.
 
+(2a) A filmelőállító vagy filmgyártó vállalkozás jogosult a költségellenőrzési eljárásra irányuló kérelmét naptári hónapok szerinti vagy naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják.
+
 (3) A Hivatal
 
 a) a filmelőállító, illetve a filmgyártó vállalkozás önálló vagy együttes,
@@ -26,7 +28,9 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az MNF – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
 
-b) kérelemhez – ha azt a Hivatal az MNF kérelmére adja ki – csatolni kell az MNF és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot.
+b) kérelemhez – ha azt a Hivatal az MNF kérelmére adja ki – csatolni kell az MNF és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
+
+c) a kérelemhez csatolni kell a (2) bekezdésben meghatározott iratokat.
 
 (6) A támogatási igazolás tartalmazza
 

@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2012-12-16 | 2012. évi CXCIX. törvény | 2004-2-00-00.19 |
 | 2013-01-01 | 2012. évi CXCIX. törvény | 2004-2-00-00.20 |
 | 2013-02-13 | 2012. évi CXCIX. törvény | 2004-2-00-00.21 |
+| 2013-07-01 | 2013. évi LXXXIV. törvény | 2004-2-00-00.22 |

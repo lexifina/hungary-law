@@ -11,7 +11,3 @@
 (6) A vagyonnak az Szt. szerinti bekerülési értéke megegyezik a vagyonnak az átadás időpontjában a Társaság által vezetett könyv szerinti értékével.
 
 (7) Az e § szerinti vagyonátadás adó- és illetékmentes.
-
-2. CÍM
-
-Felhatalmazó rendelkezések

@@ -1,4 +1,6 @@
-15. § (1) Közvetlen támogatás a 12. § (3) bekezdésének a)–e) pontjaiban meghatározott tevékenységek esetében pályázat útján nyújtható. Ha törvény másként nem rendelkezik, a támogató a támogatási szabályzatában meghatározott mértékig és feltételek mellett egyedi támogatást is nyújthat, ha a pályázati úton előzőleg kiválasztott célok megvalósítása másként nem biztosítható.
+15. § (1) Közvetlen támogatás a 12. § (3) bekezdésének a)–e) pontjaiban meghatározott tevékenységek esetében – az (1a) bekezdésben foglalt kivétellel – pályázat útján nyújtható. Ha a törvény másként nem rendelkezik, a támogató a támogatási szabályzatában meghatározott mértékig és feltételek mellett egyedi támogatást is nyújthat, ha a pályázati úton előzőleg kiválasztott célok megvalósítása másként nem biztosítható.
+
+(1a) Az „art” besorolású filmalkotások forgalmazásának támogatása egyedi kérelem alapján is történhet.
 
 (2) Közvetlen támogatás filmgyártás céljára kizárólag akkor folyósítható, ha a támogató megállapította, hogy a támogatást igénylő filmelőállító rendelkezik
 

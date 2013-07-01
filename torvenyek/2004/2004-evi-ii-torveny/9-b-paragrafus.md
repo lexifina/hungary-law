@@ -26,7 +26,7 @@ h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó k
 
 i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján.
 
-(2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapító okiratában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a Hivatalos Értesítőben, valamint honlapján közzéteszi.
+(2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapító okiratában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a honlapján közzéteszi.
 
 3. CÍM
 

@@ -14,7 +14,9 @@
 
 a) a 2012. évben a 3000,0 millió forintot,
 
-b) a 2013. évben a 7000,0 millió forintot
+b) a 2013. évben a 9700,0 millió forintot,
+
+c) a 2014. évben a 7000,0 millió forintot.
 
 nem haladhatja meg.
 
@@ -22,7 +24,7 @@ nem haladhatja meg.
 
 (9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az MNF-től, ha a Hivatal által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata jogerőre emelkedett és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat jogerőre emelkedésének időpontjáról a Hivatal nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdés szerinti határozat jogerőre emelkedésének sorrendjében történhet.
 
-(10) Az MNF a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelmének benyújtását követő 5 banki napon belül kezdeményezi a kincstárnál.
+(10) Az MNF a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelmének benyújtását követő 5 banki napon belül kezdeményezi a kincstárnál. Az MNF a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
 
 (11) Az MNF a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban vagy az MTVA által nyújtott támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hivatalnak 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet.
 

@@ -42,7 +42,7 @@ b) forgatásának során a szereplők (az utómunka során a narrátor) által h
 
 14. támogató: a mozgóképszakmai célok támogatását végző szervezet vagy intézmény;
 
-15. filmterjesztés: a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
+15. filmterjesztés: a filmalkotás nyilvános előadása, nyilvánossághoz közvetítése sugárzás útján vagy oly módon, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhatják meg, továbbá a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
 
 a) forgalmazással, illetve az arra történő felkínálással,
 
@@ -68,7 +68,7 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 22.
 
-23. megrendelésre készülő filmalkotás: az a filmalkotás, amelynek gyártásában az adott film tekintetében magyar filmgyártónak minősülő vállalkozás vesz részt;
+23. megrendelésre készülő filmalkotás: az a filmalkotás, amelynek gyártásában az adott film tekintetében filmgyártónak minősülő vállalkozás vesz részt;
 
 24. nem megrendelésre készülő filmalkotás: az a filmalkotás, amelynek gyártásában az adott film tekintetében magyar filmelőállítónak minősülő vállalkozás vesz részt;
 

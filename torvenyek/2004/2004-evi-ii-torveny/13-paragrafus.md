@@ -26,4 +26,4 @@ az időpontja.
 
 (8) Ha jogszabály másként nem rendelkezik, e törvény alkalmazásában a magyar részvételű filmalkotás és a nemzetközi koprodukciós filmalkotás magyar filmelőállítóját a magyar filmalkotás előállítójával megegyező jogok és kötelezettségek illetik meg, illetve terhelik.
 
-(9) Közvetlen támogatásban a magyar filmalkotás és a magyar részvételű filmalkotás részesíthető.
+(9) Közvetlen támogatásban a magyar filmalkotás és a magyar részvételű filmalkotás részesíthető. Ez a korlátozás nem vonatkozik az „art” besorolású filmalkotások forgalmazásának támogatására.
