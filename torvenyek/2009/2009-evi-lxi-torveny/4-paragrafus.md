@@ -27,3 +27,5 @@ is végezhető, feltéve, ha az a)–b) pont szerinti felhasználásról, tárol
 (9) A (8) bekezdésben meghatározott anyagkísérő okmány olyan bizonylat, amely a szállított fémkereskedelmi engedélyköteles anyag származásának, eredetének, valamint a fémkereskedő általi átvételének és értékesítésének, a kereskedő telephelyei közötti szállításnak igazolására szolgál.
 
 (10) A fémkereskedelmi hatóság a fémkereskedőkről, telephelyeikről, valamint a telephelyek nyitva tartásáról nyilvántartást vezet, amelyet honlapján közzétesz.
+
+(11) A fémkereskedelmi hatóság által a (10) bekezdés alapján vezetett nyilvántartás – a telephelyek nyitva tartására vonatkozó adat, illetve azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.

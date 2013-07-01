@@ -14,4 +14,4 @@ e) aki a fémkereskedelmi tevékenység vonatkozó adatszolgáltatási köteleze
 
 f) aki rendelkezik a külön jogszabályban meghatározott képesítéssel vagy amely a külön jogszabályban meghatározott képesítéssel rendelkező személyt foglalkoztat.
 
-(2) Nem adható engedély, ha a kérelmezőt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(2) Nem adható engedély, ha a kérelmezőt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét a 2013. június 30-ig hatályban volt gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.

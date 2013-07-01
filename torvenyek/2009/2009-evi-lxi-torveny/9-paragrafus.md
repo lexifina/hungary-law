@@ -14,7 +14,7 @@ b) a fémkereskedő az e törvényben a tevékenységi biztosíték rendelkezés
 
 c) az 5. § (4) bekezdés szerinti kötelezettségét nem teljesíti,
 
-d) a fémkereskedőt, a fémkereskedő vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és az elítélt az ítélet jogerőre emelkedésével a büntetett előélethez fűződő hátrányos következmények alól nem mentesült,
+d) a fémkereskedőt, a fémkereskedő vezetőjét, vezető tisztségviselőjét a 2013. június 30-ig hatályban volt gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény, illetve a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és az elítélt az ítélet jogerőre emelkedésével a büntetett előélethez fűződő hátrányos következmények alól nem mentesült,
 
 e) a fémkereskedő nem felel meg a 6. § (1) bekezdés a) pontjában, illetve a 7. § (1) bekezdésében foglalt feltételeknek.
 
