@@ -1,0 +1,3 @@
+64. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 82. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Törvény eltérő rendelkezése hiányában az anyakönyvvezető és a hazai anyakönyvezést végző hatóság a papír alapú anyakönyvbe, valamint az anyakönyvi alapiratokba történő betekintésről, a papír alapú anyakönyvből történő adatátvételről, valamint a papír alapú anyakönyvi alapiratról történő másolat készítéséről hivatalos feljegyzést készít, amely tartalmazza a betekintő személy nevét, azt, hogy mely állami vagy önkormányzati szerv nevében jár el, valamint a betekintés célját és jogalapját.”

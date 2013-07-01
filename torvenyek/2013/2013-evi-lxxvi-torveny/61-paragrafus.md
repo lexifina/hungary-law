@@ -1,0 +1,3 @@
+61. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 80. §-a a következő szöveggel lép hatályba:
+
+„80. § Az anyakönyvvezető és a hazai anyakönyvezést végző hatóság a statisztikáról szóló törvényben meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából az anyakönyvi eljárás során a népmozgalmi adatszolgáltatás teljesítéséig kezeli a népmozgalmi adatszolgáltatás körébe tartozó, a statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott adatokat. Az anyakönyvvezető és a hazai anyakönyvezést végző hatóság által kezelt, a népmozgalmi adatszolgáltatás körébe tartozó adatokból a Központi Statisztikai Hivatal részére teljesítendő adattovábbítás kivételével adattovábbítás nem teljesíthető.”

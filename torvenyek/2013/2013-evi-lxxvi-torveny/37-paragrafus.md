@@ -1,0 +1,9 @@
+37. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 45. §-a a következő szöveggel lép hatályba:
+
+„45. § (1) A magyar állampolgár anyakönyvi kivonatán a (2) bekezdésben foglalt kivétellel két utónevet lehet feltüntetni. Annak a magyar állampolgárnak, akinek a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, a születési anyakönyvi kivonat kiállítása iránti kérelemben írásban nyilatkoznia kell, hogy melyik két utónevét kívánja viselni. A nyilatkozat alapján a születési anyakönyvben a viselni nem kívánt utónevét törölni kell. Ha az érintett személy a nyilatkozatot nem teszi meg, az anyakönyvi kivonaton az anyakönyvben szereplő utónevei közül az első kettőt kell feltüntetni. A nyilatkozatban a viselni kívánt utónevek sorrendje nem módosítható.
+
+(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a magyar állampolgár nevének viselésére a más állampolgársága szerinti jog alapján jogosult.
+
+(3) Elhalt magyar állampolgár esetén, ha a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, az elhalt személy 1953. január 1-je után kötött házassága anyakönyvi bejegyzését, ennek hiányában a személyazonosság igazolására alkalmas hatósági igazolványban szereplő utóneveket kell a viselt utónevek tekintetében alapul venni.
+
+(4) Az (1) bekezdésben meghatározott esetekben a születési – és 1953. január 1. előtti házassági bejegyzés esetében a házassági – anyakönyvben az elhalt utónevének bejegyzését a halálesetet nyilvántartó anyakönyvvezető vagy a hazai anyakönyvezést végző hatóság értesítése alapján kell elvégezni.”

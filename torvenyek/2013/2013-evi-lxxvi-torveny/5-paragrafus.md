@@ -1,0 +1,9 @@
+5. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 8. §-a a következő szöveggel lép hatályba:
+
+„8. § (1) A mozgó járművön történt halálesetet az az anyakönyvvezető jegyzi be az anyakönyvbe, akinek az illetékességi területén a holttestet a járműről leemelték.
+
+(2) Talált holttest esetében a haláleset bejegyzésére az az anyakönyvvezető illetékes, akinek az illetékességi területén a holttestet megtalálták.
+
+(3) A halál tényének bírósági megállapítása esetén a haláleset bejegyzésére az az anyakönyvvezető illetékes, akinek az illetékességi területén a bíróság döntése szerint a haláleset bekövetkezett.
+
+(4) Ha a bíróság holtnak nyilvánító döntést hozott, a halálesetet a holtnak nyilvánított személy születését nyilvántartó anyakönyvvezető jegyzi be az anyakönyvbe.”
