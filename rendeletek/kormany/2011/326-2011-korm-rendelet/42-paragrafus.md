@@ -1,4 +1,4 @@
-## 41/A. §[^18] A Hivatal a 26. § (3) bekezdésében, a 27. § (2) és (3) bekezdésében, továbbá amennyiben a vezetői engedély nem került a hatóság birtokába, akkor a 36. § (9) bekezdésében meghatározott esetekben az okmány érvénytelensége, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő – külön jogszabályban foglaltak szerinti – elhelyezéséről, illetve törléséről. Az engedély-nyilvántartásban hamis vagy meghamisított érvénytelenségi okkal szereplő vezetői engedélyről akkor kell figyelmeztető jelzést továbbítani a SIS II-be, ha a hamis vagy meghamisított okmány elvétele, lefoglalása vagy bevonása tényének engedély-nyilvántartásba történő bejegyzésére nem került sor.
+## 41/A. §[^19] A Hivatal a 26. § (3) bekezdésében, a 27. § (2) és (3) bekezdésében, továbbá amennyiben a vezetői engedély nem került a hatóság birtokába, akkor a 36. § (9) bekezdésében meghatározott esetekben az okmány érvénytelensége, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő – külön jogszabályban foglaltak szerinti – elhelyezéséről, illetve törléséről. Az engedély-nyilvántartásban hamis vagy meghamisított érvénytelenségi okkal szereplő vezetői engedélyről akkor kell figyelmeztető jelzést továbbítani a SIS II-be, ha a hamis vagy meghamisított okmány elvétele, lefoglalása vagy bevonása tényének engedély-nyilvántartásba történő bejegyzésére nem került sor.
 
 ## IV. Fejezet
 
@@ -20,7 +20,7 @@ d) a jármű műszaki alkalmasságát a közlekedési hatóság megállapította
 
 e) a jármű üzemben tartója Magyarország területén rendelkezik lakóhellyel vagy székhellyel (telephellyel).
 
-(2a)[^19] Ha a kérelem elbírálásához szükséges és az érintett gazdasági társaság a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a gazdasági társaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2a)[^20] Ha a kérelem elbírálásához szükséges és az érintett gazdasági társaság a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot, valamint a gazdasági társaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (3) A (2) bekezdésben foglaltak igazolása mellett, a járművek forgalomba helyezésének további feltételei:
 
@@ -66,5 +66,5 @@ c) a jármű műszaki alkalmasságát tanúsító, a közlekedési hatóság ál
 
 (13) A jármű forgalomba helyezése iránti, vagy a már forgalomba helyezett járművel kapcsolatos eljárások során a közlekedési igazgatási hatóság az ügyfél kérelmének megfelelő adattartalmú elektronikus kérelmet állít elő.
 
-[^18]: A 41/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (3) bekezdése iktatta be.
-[^19]: A 42. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 44. § (1) bekezdése iktatta be.
+[^19]: A 41/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (3) bekezdése iktatta be.
+[^20]: A 42. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 44. § (1) bekezdése iktatta be.
