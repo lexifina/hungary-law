@@ -1,12 +1,12 @@
-1. melléklet a 21/2011. (X. 20.) PSZÁF rendelethez[^3]
+1. melléklet a 21/2011. (X. 20.) PSZÁF rendelethez[^5]
 
 | ÖSSZEFOGLALÓ TÁBLÁZAT |
 
-| Táblakód | Megnevezés | Adatszolgáltató | Gyakoriság | Beküldési határidő (munkanapok száma a vonatkozási időhöz viszonyítva, illetve dátum) |
+| Táblakód | Megnevezés | Adat- szolgáltató | Gyakori- ság | Beküldési határidő (munkanapok száma a vonatkozási időhöz viszonyítva, illetve dátum) |
 
 | Egészségpénztárak |
 
-| Negyedéves jelentés |  |  |  |  |
+| Negyedéves jelentés |
 
 | 71EA | Pénzforgalmi jelentés - Bevételek | NEP, KEP, VSZ | NÉ | 20 |
 
@@ -220,38 +220,6 @@
 
 | 75SB6 | Szolgáltatások | SP | É | A pénzügyi tervet elfogadó közgyűlést követő 20. munkanap |
 
-| Törzsadat jelentés (éves) |
-
-| KTAPT1 | Intézményi alapadatok | EP/SP | É | 20 |
-
-| KTAPT2 | Vezető tisztségviselők/kötelező alkalmazottak | EP/SP | É | 20 |
-
-| KTAPT3 | Könyvvizsgáló adatai | EP/SP | É | 20 |
-
-| KTAPT4 | Megbízás/Kiszervezés adatai | EP/SP | É | 20 |
-
-| KTAPT5 | Pénztár tagdíjmegosztása | EP/SP | É | 20 |
-
-| KTAPT6 | Jogutódlási adatok | EP/SP | É | 20 |
-
-| KTAPT7 | Telephely adatok | EP/SP | É | 20 |
-
-| Törzsadat jelentés (eseti) |
-
-| KTAPT1 | Intézményi alapadatok | EP/SP | V | eltérő jogszabályi rendelkezés hiányában, 15 |
-
-| KTAPT2 | Vezető tisztségviselők/kötelező alkalmazottak | EP/SP | V | eltérő jogszabályi rendelkezés hiányában, 15 |
-
-| KTAPT3 | Könyvvizsgáló adatai | EP/SP | V | eltérő jogszabályi rendelkezés hiányában, 15 |
-
-| KTAPT4 | Megbízás/Kiszervezés adatai | EP/SP | V | eltérő jogszabályi rendelkezés hiányában, 15 |
-
-| KTAPT5 | Pénztár tagdíjmegosztása | EP/SP | V | eltérő jogszabályi rendelkezés hiányában, 15 |
-
-| KTAPT6 | Jogutódlási adatok | EP/SP | V | eltérő jogszabályi rendelkezés hiányában, 15 |
-
-| KTAPT7 | Telephely adatok | EP/SP | V | eltérő jogszabályi rendelkezés hiányában, 15 |
-
 | A negyedéves, féléves illetve az éves jelentéssel egyidejűleg elektronikusan megküldendő dokumentumok |
 
 | Rövid név | Megnevezés | Adatszolgáltató | Gyakoriság | Beküldési határidő (munkanapok száma a vonatkozási időhöz viszonyítva, illetve dátum) |
@@ -276,17 +244,17 @@
 
 | hputerv | Hosszú távú pénzügyi terv szöveges melléklete | EP/SP | É | hosszú távú pénzügyi tervvel egyidejűleg |
 
-| Az összefoglaló táblában előforduló rövidítések |  |
+| Az összefoglaló táblában előforduló rövidítések |  |  |
 
-| Adatszolgáltató | Önkéntes kölcsönös egészségpénztár | EP |
+| Adat- szolgáltató | Önkéntes kölcsönös egészségpénztár | EP |  |  |
 
-| Nagy pénztári besorolású intézmény: azon önkéntes kölcsönös egészségpénztár, amelynek taglétszáma az év utolsó napján (a IV. negyedéves illetve a II. féléves adatszolgáltatás tartalma alapján) meghaladja a 30.000 főt, vagy könyv szerinti értéken számított vagyona meghaladja a két milliárd forintot. | NEP |
+| Nagy pénztári besorolású intézmény: azon önkéntes kölcsönös egészségpénztár, amelynek taglétszáma az év utolsó napján (a IV. negyedéves illetve a II. féléves adatszolgáltatás tartalma alapján) meghaladja a 30.000 főt, vagy könyv szerinti értéken számított vagyona meghaladja a két milliárd forintot. | NEP |  |  |
 
-| Közepes pénztári besorolású intézmény: azon önkéntes kölcsönös egészségpénztár, amelynek taglétszáma az év utolsó napján (a IV. negyedéves illetve a II. féléves adatszolgáltatás tartalma alapján) legalább 1.001 fő és nem haladja meg a 30.000 főt, vagy könyv szerinti értéken számított vagyona meghaladja a kétszáz millió forintot és nem haladja meg a két milliárd forintot. | KEP |
+| Közepes pénztári besorolású intézmény: azon önkéntes kölcsönös egészségpénztár, amelynek taglétszáma az év utolsó napján (a IV. negyedéves illetve a II. féléves adatszolgáltatás tartalma alapján) legalább 1.001 fő és nem haladja meg a 30.000 főt, vagy könyv szerinti értéken számított vagyona meghaladja a kétszáz millió forintot és nem haladja meg a két milliárd forintot. | KEP |  |  |
 
-| Kis pénztári besorolású intézmény: azon önkéntes kölcsönös egészségpénztár, amelynek taglétszáma az év utolsó napján (a IV. negyedéves illetve a II. féléves adatszolgáltatás tartalma alapján) nem haladja meg az 1.000 főt, vagy könyv szerinti értéken számított vagyona nem haladja meg a kétszáz millió forintot. | KISEP |
+| Kis pénztári besorolású intézmény: azon önkéntes kölcsönös egészségpénztár, amelynek taglétszáma az év utolsó napján (a IV. negyedéves illetve a II. féléves adatszolgáltatás tartalma alapján) nem haladja meg az 1.000 főt, vagy könyv szerinti értéken számított vagyona nem haladja meg a kétszáz millió forintot. | KISEP |  |  |
 
-| Önkéntes kölcsönös önsegélyező pénztár | SP |
+| Önkéntes kölcsönös önsegélyező pénztár | SP |  |  |
 
 | Nagy pénztári besorolású intézmény: azon önkéntes kölcsönös önsegélyező pénztár, amelynek taglétszáma az év utolsó napján (a IV. negyedéves illetve a II. féléves adatszolgáltatás tartalma alapján) meghaladja a 30.000 főt, vagy könyv szerinti értéken számított vagyona meghaladja a két milliárd forintot. | NSP |  |  |
 
@@ -301,8 +269,6 @@
 | Féléves | F |  |  |
 
 | Éves | É |  |  |
-
-| Változás esetén | V |  |  |
 
 71EA
 
@@ -2078,4 +2044,4 @@ Pénzforgalmi jelentés - Kiadások
 
 |  |  | Tilos |  |  |  |  |  |  |  |
 
-[^3]: Az 1. melléklet a 29/2012. (XII. 27.) PSZÁF rendelet 3. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet a 29/2012. (XII. 27.) PSZÁF rendelet 3. §-ával megállapított, a 3/2013. (IV. 26.) PSZÁF rendelet 6. § (8) bekezdése, a 7. § h) pontja szerint módosított szöveg.
