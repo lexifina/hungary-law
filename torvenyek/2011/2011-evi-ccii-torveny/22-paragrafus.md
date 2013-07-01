@@ -6,6 +6,8 @@ b) a Kormány tagja,
 
 c) a Magyar Nemzeti Bank elnöke, az önálló szabályozó szerv vezetője,
 
-d) a helyi önkormányzat képviselő-testülete.
+d) a helyi önkormányzat képviselő-testülete,
+
+e) a Honvéd Vezérkar főnöke.
 
 (2) Az (1) bekezdés szerinti elismerés elnevezésében és külső formájában nem hasonlíthat az állami kitüntetésekhez, valamint a Kossuth-díjhoz és a Széchenyi-díjhoz.
