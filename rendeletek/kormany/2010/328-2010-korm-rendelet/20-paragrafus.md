@@ -1,3 +1,3 @@
-## 19/A. §[^49] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81/B. §-ban foglaltak tekintetében a Kormány mezőgazdasági igazgatási szervként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki. Az őstermelői igazolvány használatának jogszerűsége megállapításához szükséges helyszíni ellenőrzést a megyei kormányhivatal földművelésügyi igazgatósága a járási állat-egészségügyi hivatalhoz delegált falugazdászok közreműködésével folytatja le.
+## 19/A. §[^54] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81/B. §-ban foglaltak tekintetében a Kormány mezőgazdasági igazgatási szervként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki. Az őstermelői igazolvány használatának jogszerűsége megállapításához szükséges helyszíni ellenőrzést a megyei kormányhivatal földművelésügyi igazgatósága a járási állat-egészségügyi hivatalhoz delegált falugazdászok közreműködésével folytatja le.
 
-[^49]: A 19/A. §-t az 51/2013. (II. 25.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^54]: A 19/A. §-t az 51/2013. (II. 25.) Korm. rendelet 23. § (4) bekezdése iktatta be.
