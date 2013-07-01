@@ -50,7 +50,7 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 15.
 
-16. az európai közösségi jogi aktusok, honosított harmonizált szabványok által nem szabályozott tűzoltó-technikai termék vonatkozásában a tűzvédelmi biztonságossági követelményeket,
+16. az európai uniós jogi aktusok, nemzeti, harmonizált, vagy európai szabványok által nem vagy nem teljes körűen szabályozott tűzoltó-technikai termék vonatkozásában a tűzvédelmi, biztonságossági követelményeket,
 
 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
 
@@ -64,7 +64,9 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit, a tevékenységek bejelentésének és a tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat.
+25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat,
+
+26. a műszaki előírás által meghatározott tűzállósági vagy tűzvédelmi követelménnyel érintett, de a 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezetek esetében a műszaki előírásban meghatározott követelményeknek való megfelelés szakértői nyilatkozattal történő igazolhatóságának eseteit és módját.
 
 (3)
 

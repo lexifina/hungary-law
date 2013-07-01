@@ -12,6 +12,8 @@ c) a szakértői igazolvány számát, a kiadás időpontját, valamint
 
 d) a tűzvédelmi szakterület megnevezését.
 
+(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl a nyilvántartásnak a (3) bekezdés b)–d) pontjában szereplő adatai is nyilvánosak.
 
 (5) A tűzvédelmi hatóság az engedély megadásával egyidejűleg tűzvédelmi szakértői igazolványt állít ki. A hatósági igazolvány tartalmazza a szakértő természetes személyazonosító adatait, a tűzvédelmi szakterület megnevezését, a szakértői igazolvány számát, a kiadás időpontját. A hatósági igazolványon a hitelessége igazolásához szükséges további – nem személyes – adatok is feltüntethetőek.

@@ -8,7 +8,7 @@ b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzé
 
 c) beépített tűzjelző berendezés vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
 
-d) tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok, valamint tűzjelző és tűzoltó központok távfelügyelete,
+d)
 
 e) tűzvédelmi szakvizsgával összefüggő oktatásszervezés,
 
@@ -25,3 +25,5 @@ a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, e
 b) a szolgáltatás megkezdésének és befejezésének időpontját, valamint
 
 c) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltókészülék-javító műhely címét.
+
+(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
