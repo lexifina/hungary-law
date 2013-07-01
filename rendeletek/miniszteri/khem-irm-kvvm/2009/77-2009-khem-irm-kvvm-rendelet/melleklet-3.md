@@ -668,72 +668,62 @@
 
 3. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^3]
 
-## A jármű környezetvédelmi tulajdonságának és a felülvizsgálat érvényességének jelölése plakettel
+## A jármű környezetvédelmi tulajdonságának jelölése plakettel
 
 1. A jelölés célja
 
-A plakett (öntapadós matrica) alkalmazásának célja a jármű környezetvédelmi tulajdonságának és a felülvizsgálat érvényességének látható, megkülönböztető jelölése.
+A plakett (öntapadós matrica) alkalmazásának célja a jármű környezetvédelmi tulajdonságának látható, megkülönböztető jelölése.
 
 2. Környezetvédelmi tulajdonság és a plakett színe
 
-A plakett fekete, piros, kék vagy zöld színével jelzi a jármű környezetvédelmi tulajdonságát, amelynek alapja a jármű környezetvédelmi osztályba sorolása. A járműveket a környezetvédelmi tulajdonság szerint a következő négy csoportba kell sorolni:
+A plakett fekete, kék vagy zöld színével jelzi a jármű környezetvédelmi tulajdonságát, amelynek alapja a jármű környezetvédelmi osztályba sorolása. A járműveket a környezetvédelmi tulajdonság szerint a következő három csoport valamelyikébe kell sorolni:
 
-2.1. Fekete színű plakett – korszerűtlen, nem környezetbarát járművek, amelynek a környezetvédelmi osztályba sorolása: 0, 1, 3.
+2.1. Fekete színű plakett – korszerűtlen, nem környezetbarát jármű, amelynek a környezetvédelmi osztályba sorolása: 0, 1, 3, valamint az olyan 2. környezetvédelmi osztályba sorolt jármű, amely a 4. osztályba történő átsoroláshoz az MR.-ben meghatározott feltételeknek nem felel meg.
 
-2.2. Piros színű plakett – korszerűtlen, kevésbé környezetbarát járművek, amelynek a környezetvédelmi osztályba sorolása: 2.
+2.2. Kék színű plakett – korszerű, környezetbarát jármű, amelynek a környezetvédelmi osztályba sorolása: 4, 6, 7, 8, továbbá az olyan 2. környezetvédelmi osztályba sorolt jármű, amely a 4. környezetvédelmi osztályba soroláshoz az MR.-ben meghatározott feltételeknek megfelel.
 
-2.3. Kék színű plakett – korszerű, környezetbarát járművek, amelynek a környezetvédelmi osztályba sorolása: 4, 6, 7, 8.
+2.3. Zöld színű plakett – korszerű, kiemelten környezetbarát jármű, amelynek a környezetvédelmi osztályba sorolása: 9 és az e fölöttiek.
 
-2.4. Zöld színű plakett – korszerű, kiemelten környezetbarát járművek, amelynek a környezetvédelmi osztályba sorolása: 9 és az e fölöttiek.
-
-A tiszta gázüzemű vagy elektromos meghajtású, illetőleg – hibrid (elektromos és Otto- vagy dízelmotoros) 5. számú környezetvédelmi osztályba sorolt járművekhez, amennyiben az az Otto- vagy dízelmotor osztályba sorolása szerint korszerűtlen, akkor piros, minden más esetben zöld színű plakettet kell kiadni.
+A tiszta gázüzemű vagy elektromos meghajtású és a hibrid (elektromos és Otto- vagy dízelmotoros) 5. számú környezetvédelmi osztályba sorolt járművekhez, amennyiben az az Otto- vagy dízelmotor osztályba sorolása szerint korszerűtlen, akkor fekete, minden más esetben zöld színű plakettet kell kiadni.
 
 3. A plakett alakja, felhelyezése
 
 3.1. A plakett alakja:
 
-A külső hatszög oldalhosszúsága 14,0 mm
-
-A külső hatszög vonalvastagsága 1 mm
-
-A belső hatszög oldalhosszúsága 5,0 mm
-
-A belső hatszög vonalvastagsága 0,5 mm
-
-A hónapokat jelző számok magassága 3,0 mm
-
-A 2, 4, 6, 8, 10, 12 hónapot jelző vonal hossza 2,0 mm
-
-Az 1, 3, 5, 7, 9, 11 hónapot jelző vonal hossza 1,0 mm
-
-A hónapot jelző vonal vastagsága 0,5 mm
-
-Az évszám utolsó két jegyének magassága 2,5 mm
-
-Az évszámot befoglaló négyzet magassága 3,0 mm
-
-Az évszámot befoglaló négyzet vonalvastagsága 0,5 mm
+A plakett egyedi sorszámot tartalmaz. A sorszám a szín kezdőbetűjével kezdődik (F=fekete, K=kék, Z=zöld).
 
 3.2. A plakett felhelyezése
 
-3.2.1. A plakettet a forgalomba helyezés előtti, illetve időszakos vizsgálat keretében a forgalmi engedély időbeli hatályának meghosszabbítását követően biztonságos felragasztással és – az első felhelyezés kivételével – a lejárt plakett eltávolítása után kell elhelyezni.
+3.2.1. A plakettet a forgalomba helyezés előtti vizsgálat alapján, valamint időszakos vizsgálat keretében a forgalmi engedély időbeli hatályának meghosszabbítását követően – a 3.2.2. pontban meghatározott esetek kivételével a rendszámtáblán lévő plakett eltávolítása után – biztonságos felragasztással kell elhelyezni.
 
-3.2.2. A jármű környezetvédelmi tulajdonságának megfelelő színű plakettet az érvényességi évének utolsó két számát tartalmazó négyszög és az érvényességi év hónapjának külső köríven lévő sorszáma kilyukasztását követően kell felragasztani, oly módon elforgatva, hogy az érvényességi év felül középen legyen. Például egy 2004. januárig érvényes jármű esetén:
+3.2.2. Nem kell eltávolítani a rendszámtábláról a korábban elhelyezett, a kiadandó plakett színével megegyező színű, ép (jól olvasható azonosítóval rendelkező) plakettet.
 
-3.3.3. A plakettet a hátsó rendszámtáblára a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló miniszteri rendeletben meghatározott:
+3.2.3. A plakettet a hátsó rendszámtáblára a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott:
 
-–  „A” típusú rendszámtábla esetében betűjelek és a számjegyek közötti kötőjel alá, középre,
+– „A” típusú rendszámtábla esetében betűjelek és a számjegyek közötti kötőjel alá, középre,
 
-–  „B” típusú rendszámtábla esetében az utolsó számjegy jobb felső részéhez,
+– „B” típusú rendszámtábla esetében az utolsó számjegy jobb felső részéhez,
 
-–  „C” típusú rendszámtábla esetében a bal felső sarokba kell elhelyezni.
+– „C” típusú rendszámtábla esetében a bal felső sarokba kell elhelyezni.
+
+3.2.4. A rendszámtáblán elhelyezett plakettek színe a kiadásukkor hatályos rendeleteknek megfelelően – színüktől függetlenül – a jármű műszaki érvényességi idejéig érvényesek vagy az ügyfél kérelmére a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló jogszabályban meghatározott díj megfizetése mellett a 2. pont szerinti plakettre cserélhetők.
 
 4. A plakett kezelése, adminisztráció
 
-4.1. A plakett a közlekedési hatóság által, kizárólag a hatósági szerződéssel rendelkező vizsgáló állomást üzemeltető gépjárműfenntartó szervezetek részére, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalainak szervezeti egységeiként működő okmányirodáknak, illetve a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok felülvizsgáló szervezeteinek szín és darabszám szerint adható át.
+4.1. A plakett
 
-4.2. A vizsgálóállomás köteles a plakett színét a műszaki adatlapon rögzíteni.
+a) a fővárosi és megyei kormányhivatalok szervezeti egységeiként működő járási (fővárosi kerületi) hivatalai, valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala,
 
-4.3. Az átvevő szervezeteknek színenként darabszám szerint el kell számolnia a közlekedési hatóságtól felvett plakettekkel. Ennek érdekében az átvevő szervezet köteles a felvett és kiadott plakettekről, valamint a megmaradt készletről a közlekedési hatóság által meghatározott nyilvántartást naprakészen vezetni és azt a közlekedési hatóság által meghatározott időközönként a közlekedési hatóságnak bemutatni. A Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok felülvizsgáló szervezeteinél a felvett plakettek nyilvántartását és a velük való elszámolást és annak ellenőrzését a szerv vezetője szabályozza.
+b) a hatósági szerződéssel rendelkező vizsgáló állomást üzemeltető gépjárműfenntartó szervezetek,
 
-[^3]: A 3. melléklet a 76/2012. (XII. 22.) NFM rendelet 16. §-a szerint módosított szöveg.
+c) a közlekedési hatósággal a műszaki megvizsgálás nélküli, megfelelőségi nyilatkozat alkalmazásával történő forgalomba helyezés érdekében megállapodást kötött jármű forgalmazók, továbbá
+
+d) a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok felülvizsgáló szervezetei
+
+részére szín és sorszám szerint adható át.
+
+4.2. A vizsgálóállomás köteles a plakett színét és sorszámát a műszaki adatlapon rögzíteni.
+
+4.3. Az átvevő szervezeteknek színenként sorszám szerint el kell számolnia a közlekedési hatóságtól felvett plakettekkel. Ennek érdekében az átvevő szervezet köteles a felvett és kiadott plakettekről, valamint a megmaradt készletről a közlekedési hatóság által meghatározott nyilvántartást naprakészen vezetni, és azt a közlekedési hatóság által meghatározott időközönként a közlekedési hatóságnak bemutatni. A Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok felülvizsgáló szervezeteinél a felvett plakettek nyilvántartását és a velük való elszámolást és annak ellenőrzését a szerv vezetője szabályozza.
+
+[^3]: A 3. melléklet a 18/2013. (V. 9.) NFM rendelet 16. §-ával megállapított szöveg.
