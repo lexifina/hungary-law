@@ -14,6 +14,6 @@ c) a dohánybolt vagy elkülönített hely a jogszabályoknak, illetve a kérele
 
 (2) A vámhatóság az ellenőrzési eljárása körében jogosult különösen szemlét tartani, illetve a jogszerű működés ellenőrzéséhez szükséges adatok, illetve nyilatkozatok szolgáltatására, iratok bemutatására a kérelmezőt felhívni.
 
-(3)–(4)[^1]
+(3) A vámhatóság a Tv. 23. § (1) bekezdés a) pontja szerint jár el akkor, ha az ellenőrzés során merül fel olyan tény, adat vagy körülmény, amely miatt az engedélykérelem elutasításának lett volna helye, feltéve, hogy az legfeljebb 90 napos határidőn belül nem orvosolható.
 
-[^1]: A 9. § (3)–(4) bekezdése a 13. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+(4) Amennyiben a (3) bekezdés szerinti esetben az engedély visszavonására okot adó tény, adat vagy körülmény orvosolható, úgy a vámhatóság köteles az orvoslásra legalább 30 napos, legfeljebb 90 napos határidőt tűzni.
