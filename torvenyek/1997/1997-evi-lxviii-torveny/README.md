@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 1997-68-00-00.37 |
 | 2013-01-01 | 2012. évi LXXXVI. törvény | 1997-68-00-00.38 |
 | 2013-04-02 | 2013. évi XX. törvény | 1997-68-00-00.39 |
+| 2013-07-01 | 2012. évi CCV. törvény | 1997-68-00-00.40 |
