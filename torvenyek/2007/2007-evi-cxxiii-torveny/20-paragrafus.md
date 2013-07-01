@@ -4,4 +4,4 @@ a) mező- és erdőgazdasági művelés alatt álló ingatlan esetében a folyó
 
 b) a kisajátított épületben levő lakás (nem lakás céljára szolgáló helyiség) és a cserelakás (cserehelyiség) bérleti díja közötti ötévi különbözetet;
 
-c) az egyéb, indokolt és igazolt költségeket.
+c)

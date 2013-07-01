@@ -10,8 +10,4 @@ b) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentős
 
 (3) A (2) bekezdésben nem szereplő esetekben az állami, illetve önkormányzati tulajdonosi jogokat gyakorló szerv a kisajátítás alapján az állam, illetve a helyi önkormányzat tulajdonába került ingatlant – a kisajátítási eljárásban a kisajátítás kérő harmadik személy által megfizetett kártalanításra tekintettel – versenyeztetés és ellenszolgáltatás nélkül, külön törvény rendelkezései szerint adja a kisajátítást kérő harmadik személy tulajdonába, vagyonkezelésébe vagy használatába.
 
-(4) Nem lehet tulajdonba adni az ingatlant, ha
-
-a) jogszabály rendelkezésénél fogva kizárólagos állami tulajdonba, az önkormányzat forgalomképtelen törzsvagyonába tartozik, illetve a kisajátítási cél megvalósítása következtében kizárólagos állami tulajdonná, forgalomképtelen önkormányzati törzsvagyonná válik;
-
-b) a tulajdonba adás egyéb okból nem lehetséges.
+(4) Nem lehet annak a tulajdonába adni az ingatlant, aki az ingatlanon jogszabály rendelkezésénél fogva nem szerezhet tulajdonjogot.

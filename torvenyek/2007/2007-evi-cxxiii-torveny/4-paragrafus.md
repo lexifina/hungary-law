@@ -1,10 +1,10 @@
-4. § (1) A 2. § szerinti közérdekű célokra az alábbi feltételek mellett lehetséges kisajátítás:
+4. § (1) A 2. § szerinti közérdekű célokra az alábbi esetekben lehetséges kisajátítás:
 
-a) honvédelem céljából, ha az ingatlan kisajátítását a külön törvényben meghatározott esetben és feltételek fennállása mellett igénylik, és az a honvédelmi feladatok ellátása érdekében szükséges;
+a) honvédelem céljából, ha az ingatlan kisajátítása a honvédelemről szóló törvényben meghatározott honvédelmi érdekből szükséges;
 
 b) nemzetközi szerződés alapján megvalósuló területcsere céljából, ha a másik ország részére szükséges területátadás más módon nem lehetséges;
 
-c) terület- és településrendezés céljából, ha a kérelemben megjelölt építmény, fejlesztési cél (a továbbiakban: cél) a területrendezési tervben, vagy a helyi építési szabályzatban szerepel, a cél az érintett ingatlanok tulajdonosai részéről (a beruházás jellege, anyagi terhei, vagy a létesítmény megvalósítójának jogszabályi kijelölése miatt) nem valósítható meg, továbbá a cél rendeltetése, jellege miatt – a környező építmények, ingatlanok rendeltetésszerű használatának biztosítására, vagy jellegére is figyelemmel – a célt az adott ingatlanon szükséges megvalósítani, vagy más ingatlanon való megvalósítása a tulajdonban nagyobb sérelemmel járna;
+c) a 2. § d) pontja szerinti célból, valamint terület- és településrendezés céljából, ha a kérelemben megjelölt építmény, fejlesztési cél (a továbbiakban: cél) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szerepel, a cél megvalósítása az érintett ingatlanok tulajdonosai részéről (a beruházás jellege, anyagi terhei vagy a létesítmény megvalósítójának jogszabályi kijelölése miatt) nem várható el, továbbá a cél rendeltetése, jellege miatt – a környező építmények, ingatlanok rendeltetésszerű használatának biztosítására vagy jellegére is figyelemmel – a célt az adott ingatlanon szükséges megvalósítani, vagy más ingatlanon való megvalósítása a tulajdonban nagyobb sérelemmel járna;
 
 d) közlekedési infrastruktúra fejlesztése keretében közút, vasút, repülőtér, híd, alagút, hajózási létesítmény létesítése, fejlesztése céljából, ha
 
@@ -12,7 +12,7 @@ da) gyorsforgalmi közúthálózatnak jogszabállyal megállapított nyomvonalon
 
 db) a felszíni vagy felszín alatti vasút létesítési joga alapján történő igénybevétel (létesítés, üzemeltetés) a létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza,
 
-dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
+dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
 
 dd) híd vagy alagút építése, fejlesztése érdekében, amennyiben arra – országos közút építése, fenntartása, fejlesztése, üzemeltetése érdekében – közlekedésbiztonsági, vagy közlekedéspolitikai szempontok alapján kerül sor,
 
@@ -52,7 +52,7 @@ h) elektronikus hírközlési szolgáltatás céljából, ha az elektronikus hí
 
 i) örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
 
-ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
+ia) az érintett ingatlanon olyan tevékenység folyik, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
 
 ib) a védetté nyilvánított régészeti lelőhely vagy műemlék feltárása, védőövezetének kialakítása, megközelítése másként nem lehetséges,
 
@@ -62,11 +62,13 @@ id) korábban összefüggő történeti együttes része volt, és az eredeti eg
 
 j) természetvédelem céljából, ha
 
-ja) a tulajdonos a védett természeti területen, a védelem céljával oly mértékig össze nem egyeztethető tevékenységet folytat, amely a kisajátítás hiányában a védett természeti terület elpusztulását eredményezi,
+ja) védett természeti területen a védelem céljával oly mértékig össze nem egyeztethető tevékenység folyik, amely a kisajátítás hiányában a védett természeti terület elpusztulását eredményezi,
 
-jb) a védett természeti területek természetvédelmi kezeléséért felelős szerv – külön törvény rendelkezése szerint – a védett természeti területek védettségi szintjének helyreállítása érdekében kezdeményezi;
+jb) a védett természeti területek természetvédelmi kezeléséért felelős szerv – törvény rendelkezése szerint – a védett természeti területek védettségi szintjének helyreállítása érdekében kezdeményezi,
 
-k) vízgazdálkodási feladatok ellátása céljából, ha
+jc) védett természeti területen a védett természeti területek természetvédelmi kezeléséért felelős szerv által megvalósítandó élőhely-rekonstrukciós beruházások beavatkozási vagy célterületén az élőhely helyreállítása másképp nem végezhető el;
+
+k) vízgazdálkodási és víziközmű-szolgáltatási feladatok ellátása céljából, ha
 
 ka) a Vásárhelyi Terv Továbbfejlesztése szerinti nyomvonalas létesítménynek jogszabállyal megállapított nyomvonalon való megépítése,
 
@@ -80,7 +82,7 @@ ke) a közcélú vízilétesítmény, illetve vízbázisok (távlati vízbáziso
 
 l) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés céljából, ha
 
-la) a tulajdonos az erdejében olyan tevékenységet folytat, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
+la) az erdőben olyan tevékenység folyik, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
 
 lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna;
 

@@ -1,6 +1,6 @@
 ## Kisajátítási célok és feltételek
 
-2. § Ingatlant kisajátítani a 3. § szerinti feltételek fennállása esetén, az alábbi közérdekű célokra lehetséges:
+2. § Ingatlant kisajátítani a 3. § szerinti feltételek fennállása esetén, a 4. és 5. § szerinti esetekben, az alábbi közérdekű célokra lehetséges:
 
 a) honvédelem;
 

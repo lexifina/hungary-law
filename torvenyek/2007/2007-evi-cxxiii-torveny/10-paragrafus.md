@@ -4,7 +4,7 @@ a) az ingatlanra feljegyzett tények megszűnéséért;
 
 b) az olyan épületért, amelynél az építést vagy fennmaradást engedélyező határozat a későbbi lebontás esetére a kártalanítást kizárta, illetőleg amelynek a tulajdonos költségére való lebontását az építésügyi hatóság elrendelte.
 
-(2) Az elmaradt haszon megtérítésére a 18. § keretei között kerülhet sor.
+(2)
 
 (3) Az (1) bekezdés b) pontjában említett épületet, továbbá – ha az ingatlanon használhatatlan romépület áll, amiért a tulajdonos érték hiányában kártalanítást nem kapott – a használhatatlan romépületet a tulajdonos lebonthatja és anyagát elviheti.
 

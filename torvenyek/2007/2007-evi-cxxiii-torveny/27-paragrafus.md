@@ -1,3 +1,3 @@
-27. § (1) A tárgyaláson ismertetni kell a kártalanításra vonatkozó szakvéleményt és meg kell vitatni az ügyfelek által a kisajátítási tervre, továbbá a szakvéleményre tett észrevételeket. A kisajátítási hatóság és az ügyfelek kérhetik a szakértői vélemény kiegészítését.
+27. § (1) A tárgyaláson ismertetni kell a szakértői véleményt és meg kell vitatni az ügyfelek által a kisajátítási tervre, továbbá a szakértői véleményre előzetesen, valamint a tárgyaláson tett észrevételeket. A kisajátítási hatóság és az ügyfelek kérhetik a szakértői vélemény kiegészítését.
 
-(2) Ha a lakások, illetőleg a nem lakás céljára szolgáló helyiségek használóinak elhelyezéséről a lakásügyi, illetve az elhelyező hatóságnak kell határoznia, annak legkésőbb a tárgyaláson nyilatkoznia kell az elhelyezés módjáról; ettől a nyilatkozatától egyoldalúan nem térhet el.
+(2) A tulajdonos, valamint az ingatlant használó legkésőbb a tárgyaláson nyilatkozik arról, hogy az ingatlant – a 29. §-ban foglalt végső határidőre figyelemmel – mennyi időn belül képes birtokba bocsátani.
