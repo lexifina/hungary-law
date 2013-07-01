@@ -70,35 +70,15 @@ c) a magánszemély adózó a b) pont szerinti saját magára vonatkozó adatokh
 
 hozzáférhet.
 
-(16) Adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység az adópolitikáért felelős miniszter engedélyével folytatható. E tevékenységek folytatását az adópolitikáért felelős miniszter annak engedélyezi, aki büntetlen előéletű, és nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik az e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az ott meghatározott egyéb feltételeknek. Az adópolitikáért felelős miniszter a tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet. Az adópolitikáért felelős miniszter az engedély megadásával egyidejűleg hivatalból igazolványt állít ki. Az engedély kiadásával, visszavonásával, valamint az igazolvány pótlásával, cseréjével, a nyilvántartásban szereplő adatok módosításával összefüggő, továbbá a tevékenységek határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért (e §-ban a továbbiakban együtt: eljárás) külön jogszabály szerinti igazgatási szolgáltatási díjat kell fizetni. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenységet akkor folytathat, ha legalább egy tagja vagy alkalmazottja az e bekezdés szerinti nyilvántartásban szerepel.
+(16)
 
-(17) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a (16) bekezdés szerinti engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat azzal, hogy az eljárás során méltányossági eljárásnak nincs helye.
+(17) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység végzéséhez szükséges engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat azzal, hogy az eljárás során méltányossági eljárásnak nincs helye.
 
-(18) A (16) bekezdés szerinti nyilvántartások – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – a természetes személy következő adatait és az alábbi tényeket tartalmazzák:
+(18) Felhatalmazást kap a Kormány, hogy az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezetet rendeletben kijelölje.
 
-a) természetes személyazonosító adatok,
+(19)
 
-b)–c)
-
-d) lakcím, levelezési cím,
-
-e) telefonszám, elektronikus elérhetőség,
-
-f) hatósági igazolvány száma, a kiadás időpontja,
-
-g) a szakképesítést igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
-
-h) egyéb szakképesítések megnevezése, az ezen képesítéseket igazoló oklevél, bizonyítvány száma, a kiállító intézmény neve, a kiállítás kelte,
-
-i) az államilag elismert idegennyelv-tudást igazoló nyelvvizsga (nyelvvizsgák) típusa, valamint fokozata.
-
-(19) A (16) bekezdés szerinti nyilvántartásban szereplő adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység folytatására jogosult személy neve, levelezési címe, nyilvántartási száma, adótanácsadói, adószakértői, okleveles adószakértői igazolványának száma, valamint hozzájárulása esetén egyéb, a nyilvántartásban szereplő adata nyilvános. A tárgyévben nyilvántartásba vettek nyilvános adatait, illetve a nyilvántartásban szereplő nyilvános adatokban bekövetkezett változásokat az adópolitikáért felelős miniszter a Pénzügyi Közlönyben évente – a tárgyévet követő év március 31-ig – közzéteszi, továbbá internetes honlapján valamennyi nyilvántartásba vett személy nyilvános adatait nyilvánosságra hozza.
-
-(20) A (16) bekezdés szerinti hatósági eljárás – ide nem értve a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárást – ügyintézési határideje 60 nap azzal, hogy – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően – ha a (16) bekezdés szerinti engedélyező szerv a rá irányadó ügyintézési határidőn belül nem hozott határozatot, az ügyfelet nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
-
-(21) Amennyiben a kérelmező az eljárás – ide nem értve a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárást – iránti kérelmét hibásan, hiányosan, vagy nem a (17) bekezdésben hivatkozott rendelet szerinti mellékletekkel felszerelve terjeszti elő, akkor a kérelmezőt az adópolitikáért felelős miniszter a kérelem előterjesztését követő 30 napon belül hiánypótlásra hívja fel.
-
-(22) A (16) bekezdés szerinti eljárás iránti kérelmet az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett külön közleményben megjelölt címen, az adópolitikáért felelős miniszter által vezetett minisztérium e feladatra kijelölt szervezeti egységénél, valamint a kincstár területi szervezeti egységeinél lehet előterjeszteni.
+(20)–(22)
 
 (23)
 

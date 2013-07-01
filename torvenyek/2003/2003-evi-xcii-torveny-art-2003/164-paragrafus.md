@@ -4,9 +4,9 @@
 
 (1a) A bíróság által jogerősen megállapított
 
-a) költségvetési csalás (Btk. 310. §),
+a) csalás (Btk. 373. §), költségvetési csalás (Btk. 396. §),
 
-b) csalás (Btk. 318. §),
+b) a 2013. június 30-ig hatályban volt költségvetési csalás, csalás,
 
 c) a 2011. december 31-ig hatályban volt jogosulatlan gazdasági előny megszerzése, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, vagy
 
@@ -18,7 +18,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíthető, mert tartozását a vádirat benyújtásáig az adóhatóság által megjelölt számlára kiegyenlítette, és vele szemben az eljárást ez okból megszüntették, vagy
 
-b) az eljárást az elkövetővel szemben a Btk. 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
+b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
 
 (2) Az önellenőrzés bevallása – ha az adókülönbözet az adózó javára mutatkozik – az (1) bekezdésben meghatározott elévülést megszakítja.
 

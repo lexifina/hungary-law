@@ -1,13 +1,15 @@
-175/A. § (1) Az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az adópolitikáért felelős miniszter részére – annak az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az adópolitikáért felelős miniszter arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a kérelmező büntetlen előéletű-e, valamint gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakörellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+## Adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vétele
 
-(2) Az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében az adópolitikáért felelős miniszter ellenőrzi azt is, hogy az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenységet gyakorló személy büntetlen előéletű-e, valamint nem áll-e gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az adópolitikáért felelős miniszter adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenységet gyakorló személy büntetlen előéletű-e, valamint gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+175/A. § (1) Adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezet (a továbbiakban: nyilvántartásba vételt végző szervezet) engedélyével folytatható.
 
-(3) Ha az adópolitikáért felelős miniszter a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az adótanácsadói, adószakértői vagy okleveles adószakértői tevékenységet gyakorló személy büntetett előéletű vagy gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll, haladéktalanul intézkedik az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásához szükséges engedély visszavonása érdekében.
+(2) Adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység folytatását a nyilvántartásba vételt végző szervezet annak engedélyezi, aki
 
-(4) Az (1) és (2) bekezdés alapján megismert személyes adatokat az adópolitikáért felelős miniszter
+a) büntetlen előéletű,
 
-a) az adótanácsadói, adószakértői vagy okleveles adószakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
+b) nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és
 
-b) adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-kezeli.
+(3) Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenységet akkor folytathat, ha legalább egy tagja vagy alkalmazottja az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásában szerepel.
+
+(4) Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartása – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
