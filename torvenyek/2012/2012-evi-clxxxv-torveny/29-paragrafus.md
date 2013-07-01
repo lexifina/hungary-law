@@ -3,3 +3,5 @@
 (2) Az (1) bekezdés szerinti kötelezettség ellátására létrehozott közvetítő szervezet tevékenységét a környezetvédelmi hatóság engedélyének birtokában, kormányrendeletben meghatározott feltételekkel végzi.
 
 (3) A környezetvédelmi hatóság az engedéllyel rendelkező közvetítő szervezetekről nyilvántartást vezet.
+
+(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
