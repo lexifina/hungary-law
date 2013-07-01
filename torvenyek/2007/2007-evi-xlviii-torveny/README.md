@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-48-00-00
 | 2007-12-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2007-48-00-00.2 |
 | 2012-01-01 | 2011. évi LXIII. törvény | 2007-48-00-00.3 |
 | 2012-05-15 | 2012. évi XXXI. törvény | 2007-48-00-00.4 |
+| 2013-07-01 | 2013. évi LII. törvény | 2007-48-00-00.5 |
