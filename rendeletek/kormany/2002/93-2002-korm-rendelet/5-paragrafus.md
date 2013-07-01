@@ -1,4 +1,4 @@
-## 4. §[^23] A könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezetként, valamint az e rendelet hatálya alá tartozó könyvviteli szolgáltatást nyújtók tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Kormány a számviteli szabályozásért felelős minisztert (a továbbiakban: nyilvántartásba vételt végző szervezet) jelöli ki.
+## 4. §[^23]
 
 5. §[^24] (1)[^25] A könyvviteli szolgáltatás végzésére jogosító engedélyt kérelme esetén meg kell adni minden olyan természetes személynek, aki megfelel a számviteli törvény 151. §-a (5) bekezdésének b) pontja szerinti feltételeknek.
 
@@ -32,7 +32,7 @@ d) a külön jogszabályban meghatározott igazgatási szolgáltatási díj megf
 
 (11)[^36] Ha a 8. § (1) bekezdése szerinti igazolvány elveszett, ellopták, megsemmisült, illetve megrongálódott, a nyilvántartásba vett személy 30 napon belül köteles ezt az 1. számú mellékletben meghatározott adattartalommal bejelenteni a nyilvántartásba vételt végző szervezetnek a 10/C. §-ban meghatározottak szerint. A bejelentéshez mellékelni kell a (2) bekezdés c) és d) pontjában előírt dokumentumot, illetve megrongálódás esetén az igazolványt is.
 
-[^23]: A 4. § a 357/2012. (XII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^23]: A 4. §-t a 226/2013. (VI. 24.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^24]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni
 [^25]: Az 5. § (1) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^26]: Az 5. § (2) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 12. §-a, a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja szerint módosított szöveg.

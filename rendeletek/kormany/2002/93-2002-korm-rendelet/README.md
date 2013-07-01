@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-93-20-2
 | 2013-01-01 | 2002-93-20-22.12 | 357/2012. (XII. 13.) Korm. rendelet |
 | 2013-02-01 | 2002-93-20-22.13 | 357/2012. (XII. 13.) Korm. rendelet |
 | 2013-06-25 | 2002-93-20-22.14 | 226/2013. (VI. 24.) Korm. rendelet |
+| 2013-07-01 | 2002-93-20-22.15 | 226/2013. (VI. 24.) Korm. rendelet |
