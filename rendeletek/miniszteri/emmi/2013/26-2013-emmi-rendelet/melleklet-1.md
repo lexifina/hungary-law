@@ -1,3 +1,3 @@
-1–2. melléklet a 26/2013. (III. 29.) EMMI rendelethez[^4]
+1–2. melléklet a 26/2013. (III. 29.) EMMI rendelethez[^19]
 
-[^4]: Az 1–2. melléklet a 40. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^19]: Az 1–2. melléklet a 49/2013. (VII. 10.) EMMI rendelet 39. § g) pontja alapján nem lép hatályba.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-26-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-07-01 | 2013-26-20-5H.1 | 26/2013. (III. 29.) EMMI rendelet |
+| 2013-07-02 | 2013-26-20-5H.2 | 49/2013. (VII. 10.) EMMI rendelet |
