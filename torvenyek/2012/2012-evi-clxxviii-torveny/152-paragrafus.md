@@ -1,9 +1,7 @@
-152. § Az Áfa tv.
+152. §
 
 a)
 
 b)–c)
 
-d) 9. számú melléklete a 8. melléklet szerint módosul.
-
-szerint módosul.
+d)

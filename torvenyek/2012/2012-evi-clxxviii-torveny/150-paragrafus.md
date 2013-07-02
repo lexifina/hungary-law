@@ -1,5 +1,0 @@
-150. § Az Áfa tv. a következő 283. §-sal egészül ki:
-
-„283. § (1) E törvénynek a Mód3 törvénnyel megállapított 9. számú melléklet 11/A. pontját azokban az esetekben kell alkalmazni először, amelyekben az adófizetési kötelezettség 2013. július 1. napján vagy azt követően keletkezik.
-
-(2) A Horvát Köztársaságban gazdasági céllal letelepedett adóalanyokat az Áfa tv. XVIII. Fejezetében szabályozott adó-visszatéríttetési jog az ott meghatározott feltételek fennállása mellett a Horvát Köztársaságnak az Európai Unióhoz történő csatlakozása napján vagy azt követően belföldön teljesített ügyletek tekintetében illeti meg. A Horvát Köztársaságban letelepedett adóalanyok esetében a 2013. évi adóvisszatérítési időszakra vonatkozóan benyújtott adó-visszatéríttetési kérelmekre a 251/B. § (2) bekezdés b) pontjában foglalt összeget időarányosan kell figyelembe venni.”
