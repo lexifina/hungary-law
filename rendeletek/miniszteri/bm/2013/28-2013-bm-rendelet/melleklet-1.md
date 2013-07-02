@@ -1,4 +1,4 @@
-## 4. § A régészeti lelőhely és a műemléki érték védetté nyilvánításáról, nyilvántartásáról és a régészeti feltárás részletes szabályairól szóló 80/2012. (XII. 28.) BM rendelet 2. § (1) bekezdésében a „Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának önálló feladat- és hatáskörrel rendelkező szervezeti egységénél” szövegrész helyébe a „Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaságnál” szöveg lép.
+## 4. §[^2]
 
 1. melléklet a 28/2013. (VI. 27.) BM rendelethez
 
@@ -67,3 +67,5 @@ A minimális rezsióradíj egyes elemeire vonatkozó tételes értékek
 | 30. | 23+25+27+29. Mindösszesen | 2383 |
 
 * Havi 114 000 Ft alapbérrel és 174 munkaórával számolva.
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
