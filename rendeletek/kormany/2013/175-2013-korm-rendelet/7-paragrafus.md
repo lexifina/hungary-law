@@ -1,1 +1,3 @@
-## 6. § Az R2. a 2. melléklet szerinti 11/H. melléklettel egészül ki.
+## 5–6. §[^4]
+
+[^4]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
