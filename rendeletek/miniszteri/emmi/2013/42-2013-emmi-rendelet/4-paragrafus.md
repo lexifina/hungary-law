@@ -1,3 +1,0 @@
-## 3. § Az NMr. 8. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) A II. alkalmassági csoportba tartozó, lőfegyvertartási engedélyt kérelmező vagy lőfegyvertartási engedéllyel rendelkező személy – a KR1. 23. § (1) bekezdésében meghatározott személy kivételével – orvosi alkalmasságának megállapítása a gépjármű-vezetői egészségi alkalmassági vizsgálatával egyidejűleg is történhet. A térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendeletben meghatározott térítési díjat a vizsgálatok egyidejű elvégzése esetén is mindkét vizsgálat tekintetében meg kell fizetni.”
