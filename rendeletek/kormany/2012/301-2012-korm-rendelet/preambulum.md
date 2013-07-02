@@ -1,1 +1,0 @@
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § d) pontjában, a 11. § tekintetében a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés i) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
