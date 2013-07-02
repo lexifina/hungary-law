@@ -12,9 +12,9 @@ b) büntetlen előéletű,
 
 c) nem áll közügyektől eltiltás hatálya alatt,
 
-d) nem áll foglalkozástól eltiltás hatálya alatt, vagy
+d) nem áll foglalkozástól vagy tevékenységtől eltiltás hatálya alatt, vagy
 
-e) mely foglalkozástól eltiltás hatálya alatt áll.
+e) mely foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (4) A (3) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, a (3) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
 

@@ -10,13 +10,7 @@
 
 (6) A 16. § (2) bekezdés e)–g) pontjában meghatározott adatokat a javítóintézeti nevelést végrehajtó szerv közli a bűnügyi nyilvántartó szervvel.
 
-(7) A 16. § (2) bekezdés h) pontja szerinti,
-
-a) a pénzbüntetés szabadságvesztés büntetésre történő átváltoztatására vonatkozó adatokat az alapügyben első fokon eljárt bíróság,
-
-b) a közérdekű munka szabadságvesztés büntetésre történő átváltoztatására vonatkozó adatokat a büntetés-végrehajtási bíró
-
-közli a bűnügyi nyilvántartó szervvel.
+(7) A 16. § (2) bekezdés h) pontja szerinti adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
 (7a) A 16. § (2) bekezdés i) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
 
