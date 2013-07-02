@@ -1,1 +1,0 @@
-299. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 45. § (7) bekezdésében az „önállóan, főbüntetés kiszabása nélkül, illetve mellékbüntetésként” szövegrész helyébe a „büntetésként” szöveg lép.

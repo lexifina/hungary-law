@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-223-00-00
 | 2013-04-20 | 2013. évi XLV. törvény | 2012-223-00-00.8 |
 | 2013-06-30 | 2013. évi LXXVIII. törvény | 2012-223-00-00.9 |
 | 2013-07-01 | 2013. évi LXXXVIII. törvény | 2012-223-00-00.10 |
+| 2013-07-02 | 2010. évi CXXX. törvény | 2012-223-00-00.11 |

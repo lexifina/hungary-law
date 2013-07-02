@@ -1,3 +1,0 @@
-## „334. § Az eljárásnak a 332. § (1) bekezdés a)–b) és f)–g) pontja alapján történt megszüntetése esetén a bíróság elkobzást, vagyonelkobzást vagy elektronikus adat végleges hozzáférhetetlenné tételét rendelhet el. Az eljárásnak a 332. § (5) bekezdése alapján történt megszüntetése esetén a bíróság a korábbi ügydöntő határozat elkobzást, vagyonelkobzást, illetve elektronikus adat végleges hozzáférhetetlenné tételét kimondó rendelkezését hatályában fenntartja.”
-
-133. § A Be. 354. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
