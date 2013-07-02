@@ -1,4 +1,4 @@
-## 15. §[^14]
+## 15. §[^15]
 
 ## 16. Záró rendelkezések
 
@@ -8,7 +8,7 @@
 
 (3) A 7. § 2013. július 11-én lép hatályba.
 
-(4)[^15]
+(4)[^16]
 
-[^14]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 16. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 16. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
