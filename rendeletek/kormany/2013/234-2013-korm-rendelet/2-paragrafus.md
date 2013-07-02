@@ -1,3 +1,3 @@
-## 1. § Az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló 353/2011. (XII. 30.) Korm. rendelet (a továbbiakban: Rendelet) 1. §-a helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „1. § E rendeletet a helyi önkormányzatok, a nemzetiségi önkormányzatok, a többcélú kistérségi társulások, az egyéb, jogi személyiséggel rendelkező társulások, a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanácsok (a továbbiakban együtt: önkormányzat) és a kormányzati szektorba sorolt egyéb szervezetek minden olyan adósságot keletkeztető ügyletére és kezesség-, illetve garanciavállalására (az 1. és 2. alcím alkalmazásában a továbbiakban együtt: ügylet) alkalmazni kell, amelyhez a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: stabilitási törvény) szerint a Kormány hozzájárulása szükséges.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
