@@ -1,9 +1,0 @@
-11. § A Ket. „Ügyfél-regisztrációs eljárás” alcíme a következő 168/B. §-sal egészül ki:
-
-„168/B. § (1) Az életvitelszerűen külföldön élő, Magyarországon bejelentett lakóhellyel vagy szálláshellyel nem rendelkező természetes személy a 168/A. § megfelelő alkalmazásával önkéntesen regisztrálhat az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásába (a továbbiakban: elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartása) annak érdekében, hogy közigazgatási hatósági ügyeit elektronikusan tudja intézni. Ezen adatokat az elektronikus ügyintézést igénybe vevő külföldiek nyilvántartásának vezetésére kijelölt szerv kezeli. Az e bekezdés szerinti természetes személynek az állam által kötelezően nyújtandó azonosítási szolgáltatásra történő regisztrációjával egyidejűleg a regisztrációs szerv kezdeményezi e személy felvételét az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásába.
-
-(2) Az (1) bekezdés szerinti személy ügyintézési rendelkezést akkor tehet, ha szerepel az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásában.
-
-(3) Az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásának adatkezelője a bejegyzéssel egyidejűleg a természetes személy számára egyedi nyilvántartási azonosítót, valamint ahhoz rendelten összerendelési nyilvántartási kapcsolati kódot képez és azt – titkosítva – az összerendelési nyilvántartásnak az összerendelési nyilvántartásra vonatkozó rendelkezések szerint átadja.
-
-(4) Az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásából – az összerendelési nyilvántartáson keresztül – azonosítási célú adattovábbítás teljesíthető. A nyilvántartott természetes személy adatait az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartása a regisztráció törlésétől számított 5 évig, de legfeljebb a regisztrációtól számított 50 évig tartalmazza.”

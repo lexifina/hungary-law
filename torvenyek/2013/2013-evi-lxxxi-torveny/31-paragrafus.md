@@ -2,4 +2,4 @@
 
 (2) Nem lép hatályba az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 23. §-a, 25. §-a, 29. §-a és 36. §-a.
 
-(3) Hatályát veszti a szabályozott elektronikus ügyintézési szolgáltatásokról és állam által kötelezően nyújtott szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet 174. §-a.
+(3)

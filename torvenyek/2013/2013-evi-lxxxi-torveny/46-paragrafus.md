@@ -1,3 +1,0 @@
-46. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény „Az agrárkamara alapszabálya” alcíme a következő 18/A. §-sal egészül ki:
-
-„18/A. § Az agrárkamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. Az agrárkamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.”
