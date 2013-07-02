@@ -1,8 +1,9 @@
-## 3–23. §[^2]
+## 3–23. §[^3]
 
-24. § (1)[^3]
+24. § (1)[^4]
 
-(2) Hatályát veszti a Gyer. 65. § (1) bekezdés c) és d) pontja.
+(2)[^5]
 
-[^2]: A 3–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3–23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 24. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
