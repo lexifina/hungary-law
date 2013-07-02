@@ -1,0 +1,1 @@
+## 6. § A jegyző által kiállított hatósági bizonyítvánnyal az egyetemes útdíjszolgáltató a hatósági bizonyítványban megjelölt útdíjköteles elemi útszakaszokra díjmentes viszonylati jegyet állít ki a kérelmező részére.
