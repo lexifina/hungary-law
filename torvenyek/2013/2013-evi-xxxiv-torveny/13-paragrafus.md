@@ -12,6 +12,6 @@
 
 a)
 
-b) 398. §-ában a „fizetési késedelem leküzdéséről szóló 2000/35/EK irányelvének 5. cikkével” szövegrész helyébe a „késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével” szöveg
+b)
 
 lép.
