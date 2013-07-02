@@ -10,16 +10,10 @@ Határidő: 2013. július 1.
 
 2. egyetért azzal, hogy az NT Nemzetközi Technológiai Nonprofit Közhasznú Kft. által a Puskás Tivadar Közalapítvány megszüntetésével kapcsolatos feladatokról szóló 1284/2013. (V. 27.) Korm. határozat [a továbbiakban: 1284/2013. (V. 27.) Korm. határozat] 4. pontjának b) alpontjában és 10. pontjában meghatározott feladatok ellátására foglalkoztatott munkaviszonyban álló munkavállalók a Nemzeti Információs Infrastruktúra Fejlesztési Intézet állományában munkáltatói jogutódlással kerüljenek továbbfoglalkoztatásra.
 
-3. A Társadalmi Megújulásért Operatív Program kiemelt projektjeinek akciótervben megnevezett kedvezményezettjét érintő változásokról szóló 1194/2011. (VI. 15.) Korm. határozat 5. pontjában az „az NT Nemzetközi Technológiai Nonprofit Közhasznú Kft.-vel” szövegrész helyébe az „a Nemzeti Információs Infrastruktúra Fejlesztési Intézettel” szöveg lép.
-
-4. A TÁMOP 2.1.2-12/1-2012-0001 „Idegen nyelvi és informatikai kompetenciák fejlesztése című” kiemelt projekt támogatásának jóváhagyásáról és akciótervi nevesítéséről szóló 1238/2012. (VII. 12.) Korm. határozat 1. mellékletében és 2. mellékletében az „az NT Nemzetközi Technológiai Nonprofit Közhasznú Kft.-vel” szövegrész helyébe az „a Nemzeti Információs Infrastruktúra Fejlesztési Intézettel” szöveg lép.
-
-5. A Kormány visszavonja a 1284/2013. (V. 27.) Korm. határozat
-
-a) 4. pont b) alpontjában a „megszűnt” szövegrészt, és
-
-b) 10. pontjában „az NT Nonprofit Közhasznú Kft. 4. pontjában foglalt megszűnésétől kezdve” szövegrészt.
+3–5.[^2]
 
 6. a) Ez a határozat – a b) alpontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
 b) A 3. és 4. pont 2013. július 1-jén lép hatályba.
+
+[^2]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
