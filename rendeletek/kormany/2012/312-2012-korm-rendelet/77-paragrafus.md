@@ -1,1 +1,3 @@
-## 76. § Hatályát veszti az 5. melléklet I. rész 1. pontja, valamint a 6. mellékletben foglalt táblázat 6. sora.
+## 76. §[^57]
+
+[^57]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
