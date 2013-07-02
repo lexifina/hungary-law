@@ -1,3 +1,0 @@
-## „(4) A műszaki biztonsági hatóság a tanúsító szervezetet közhiteles hatósági nyilvántartásba veszi. A műszaki biztonsági hatóság a nyilvántartásba vett tanúsító szervezetek jegyzékét a műszaki biztonsági hatóság elektronikus tájékoztató oldalán félévenként közzéteszi. A műszaki biztonsági hatóság a tanúsító szervezet megnevezésén, székhelyének címén, a kijelölési okirat számán, valamint a nyilvántartásba vételének időpontján és időbeli hatályán kívül csak olyan adatokat tehet közzé, amelyek közzétételéhez a szervezet előzetesen hozzájárult.”
-
-## 25. A fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet módosítása
