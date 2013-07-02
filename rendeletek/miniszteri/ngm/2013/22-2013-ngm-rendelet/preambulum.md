@@ -1,5 +1,0 @@
-A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. § (2) bekezdés b) pontjában kapott felhatalmazás alapján,
-
-a 2. alcím vonatkozásában a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. § (2) bekezdés a)–d), g) és u) pontjában kapott felhatalmazás alapján
-
-az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § c) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
