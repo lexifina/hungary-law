@@ -1,4 +1,4 @@
-## 24. § Hatályát veszti a Pr. 9. számú melléklet 2.1.3.3. alpontja.
+## 24. §[^15]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 12. §, a 20. § (2) bekezdése, a 22. § (3) bekezdése, a 23. § (2) bekezdése, a 24. §, valamint a 9–11. melléklet 2013. július 1-jén lép hatályba.
 
 (3) A 21. § (2) bekezdése, valamint a 23. § (3) bekezdése 2013. október 1-jén lép hatályba.
+
+[^15]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
