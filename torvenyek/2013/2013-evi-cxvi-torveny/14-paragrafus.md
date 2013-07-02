@@ -1,3 +1,0 @@
-14. § A Kbt. 67. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A hiányok pótlása – melynek során az ajánlatban vagy részvételi jelentkezésben szereplő iratokat módosítani és kiegészíteni is lehet – csak arra irányulhat, hogy az ajánlat vagy részvételi jelentkezés megfeleljen az ajánlati, részvételi, illetve ajánlattételi felhívás, a dokumentáció vagy a jogszabályok előírásainak. A hiánypótlás során a 26. § nem megfelelő alkalmazása esetén az ajánlatban vagy több szakaszból álló eljárásban a részvételi jelentkezésben alvállalkozóként megjelölt gazdasági szereplő közös ajánlattevőnek vagy több szakaszból álló eljárásban kizárólag a részvételi szakaszban közös részvételre jelentkezőnek minősíthető.”
