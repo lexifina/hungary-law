@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 1–24., 26. és 27. pontjában és az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
