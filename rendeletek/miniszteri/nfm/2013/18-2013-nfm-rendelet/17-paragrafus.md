@@ -1,4 +1,4 @@
-## 16. § A közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelet 3. melléklete helyébe a 2. melléklet lép.
+## 16. §[^10]
 
 ## 3. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) A 7. §, a 10. §, a 16. § és a 2. melléklet 2013. július 1-jén lép hatályba.
 
 (4) A 2. § és az 5. § 2013. október 1-jén lép hatályba.
+
+[^10]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

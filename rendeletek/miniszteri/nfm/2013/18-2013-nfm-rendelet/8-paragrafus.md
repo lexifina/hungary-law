@@ -1,3 +1,3 @@
-## 7. § Az R. 12. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^6]
 
-## „(6) Az időszakos vizsgálaton az MR. 5–8., 17., 19. és 21. §-a kivételével az üzemeltetési műszaki feltételek megtartását, a kötelező gépjármű-felelősségbiztosítás fedezete fennállását, továbbá a közlekedésbiztonsági és környezetvédelmi tulajdonságokat érintő változtatásokat, valamint a közúti közlekedési szolgáltatást végző járművek esetében az ezekre vonatkozó külön feltételek teljesítését ellenőrizni kell, továbbá a gépjárművek esetében – a versenyjárművek kivételével – rögzíteni kell a kilométer-számláló műszer által jelzett értéket is.”
+[^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
