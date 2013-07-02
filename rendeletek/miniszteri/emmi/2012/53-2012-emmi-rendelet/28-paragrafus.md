@@ -1,4 +1,4 @@
-## 25–27. §[^9]
+## 25–27. §[^10]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 14. § (2)–(3) bekezdése 2013. július 2-án lép hatályba.
 
-[^9]: A 25–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 25–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
