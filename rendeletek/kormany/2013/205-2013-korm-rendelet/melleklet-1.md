@@ -1,8 +1,4 @@
-## 9. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 1. melléklete a következő 34. ponttal egészül ki:
-
-## (Építési engedély nélkül végezhető építési tevékenységek)
-
-## „34. Közterületen, filmforgatáshoz kapcsolódó építmény építése.”
+## 9. §[^2]
 
 1. melléklet a 205/2013. (VI. 14.) Korm. rendelethez
 
@@ -47,3 +43,5 @@ Egyéb:
 Dátum:
 
 Kérelmező aláírása
+
+[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
