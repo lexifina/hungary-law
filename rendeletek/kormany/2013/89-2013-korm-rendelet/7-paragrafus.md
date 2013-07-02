@@ -1,7 +1,7 @@
-## 6. § A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet 2. alcíme a következő 4/A. §-sal egészül ki:
-
-## „4/A. § A jelzőrendszeres házi segítségnyújtást a Főigazgatóság biztosítja az Szt. 91. § (2) bekezdése szerint.”
+## 6. §[^7]
 
 ## 4. A közforgalmú személyszállítási utazási kedvezményekről szóló
 
 ## 85/2007. (IV. 25.) Korm. rendelet módosítása
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

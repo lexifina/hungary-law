@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-89-20-2
 | 2013-03-29 | 2013-89-20-22.1 | 89/2013. (III. 28.) Korm. rendelet |
 | 2013-03-30 | 2013-89-20-22.2 | 2010: CXXX. törvény |
 | 2013-07-01 | 2013-89-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-07-02 | 2013-89-20-22.4 | 2010: CXXX. törvény |
