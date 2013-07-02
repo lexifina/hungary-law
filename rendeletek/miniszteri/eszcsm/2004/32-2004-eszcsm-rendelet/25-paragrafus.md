@@ -20,7 +20,7 @@
 
 (10)[^137] Azok az 1-es típusú cukorbetegek, akik a 2. számú melléklet 2013. április 30-án hatályos EÜ100 2. és EÜ100 3. pontja alapján nem jogosultak analóg inzulin készítmény alkalmazására, de kórtörténetük alapján korábban jogosultak voltak ilyen készítmény alkalmazására, a 2. számú mellékletnek a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet módosításáról szóló 31/2013. (IV. 30.) EMMI rendelettel megállapított EÜ100 2. és EÜ100 3. pontjában foglalt indikációk teljesülése esetén jogosultak analóg inzulin készítmény alkalmazására, függetlenül attól, hogy korábban álltak-e legalább 3 hónapig humán intenzifikált inzulinkezelés alatt.
 
-(11)[^138] A 2. számú mellékletnek a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet módosításáról szóló 31/2013. (IV. 30.) EMMI rendelettel megállapított EÜ100 57. pontját 2013. május 16-ától kell alkalmazni azzal, hogy a 2. számú melléklet EÜ100 57. pontjában felsorolt támogatott indikációk tekintetében az indikációs pont alapján rendelhető készítmény alkalmazására az a beteg is jogosult, aki 2013. február 1-jétől számítva emelt, indikációhoz kötött támogatással az adott készítménnyel megszakítás nélkül legalább 3 hónapig folyamatosan kezelésben részesült.
+(11)[^138]
 
 [^129]: A 24/A. §-t a 31/2010. (V. 13.) EüM rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 12. § a) pontja, újonnan a 47/2011. (VII. 27.) NEFMI rendelet 7. §-a iktatta be.
 [^130]: A 25. §-t a 36/2010. (V. 14.) EüM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 5. §-a, újonnan a 2/2012. (I. 3.) NEFMI rendelet 5. §-a iktatta be.
@@ -31,4 +31,4 @@
 [^135]: A 25. § (8) bekezdését a 10/2013. (I. 31.) EMMI rendelet 11. § (2) bekezdése iktatta be.
 [^136]: A 25. § (9) bekezdését a 10/2013. (I. 31.) EMMI rendelet 11. § (2) bekezdése iktatta be.
 [^137]: A 25. § (10) bekezdését a 31/2013. (IV. 30.) EMMI rendelet 1. §-a iktatta be.
-[^138]: A 25. § (11) bekezdését a 31/2013. (IV. 30.) EMMI rendelet 1. §-a iktatta be.
+[^138]: A 25. § (11) bekezdését a 31/2013. (IV. 30.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 2. §-a.
