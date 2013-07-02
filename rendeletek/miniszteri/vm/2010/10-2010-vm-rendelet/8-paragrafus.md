@@ -2,7 +2,7 @@
 
 ## 8. § Ez a rendelet
 
-a)–d)[^2]
+a)–d)[^4]
 
 e) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 2. cikke 35. pontjának, 4. cikkének, 22. cikke (4) bekezdésének, IX. és X. mellékletének;
 
@@ -14,4 +14,4 @@ h) a vízpolitika területén a környezetminőségi előírásokról, a 82/176/
 
 való megfelelést szolgálja.
 
-[^2]: A 8. § a)–d) pontját a 11. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 8. § a)–d) pontját a 11. § (2) bekezdése hatályon kívül helyezte.

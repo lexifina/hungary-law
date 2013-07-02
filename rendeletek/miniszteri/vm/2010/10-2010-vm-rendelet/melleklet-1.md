@@ -1,6 +1,6 @@
-## 11. §[^4]
+## 11. §[^6]
 
-1. melléklet a 10/2010. (VIII. 18.) VM rendelethez
+1. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^7]
 
 1. A FELSZÍNI VIZEKRE MEGHATÁROZOTT KÖRNYEZETMINŐSÉGI HATÁRÉRTÉKEK (EQS)
 
@@ -76,7 +76,7 @@
 
 | 34 | Benzo[a]pirén | 50-32-8 | 0,05 | 0,1 |
 
-| 35 | Benzo[b]fluorantén | 205-99-2 | Σ=0,003 | nem alkalmazható |
+| 35 | Benzo[b]fluorantén | 205-99-2 | Σ=0,03 | nem alkalmazható |
 
 | 36 | Benzo[k]fluorantén | 207-08-9 |  |  |
 
@@ -162,4 +162,5 @@ ix A poliaromás szénhidrogének (PAH) elsőbbségi anyagcsoportja (28. sorszá
 
 * Az EQS-ek alapján történő értékelést a halak szervezetét felépítő – az anyagcsoport felhalmozódása szempontjából mérvadó – szövet nedves tömegére vonatkoztatott szennyezőanyag-koncentráció alapján kell elvégezni.
 
-[^4]: A 11. § a (3) bekezdés alapján hatályát vesztette.
+[^6]: A 11. § a (3) bekezdés alapján hatályát vesztette.
+[^7]: Az 1. § melléklet az 54/2013. (VI. 24.) VM rendelet 3. §-a szerint módosított szöveg.
