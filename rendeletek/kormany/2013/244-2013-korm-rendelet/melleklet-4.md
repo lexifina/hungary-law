@@ -50,18 +50,6 @@
 
 ## 7. A dohánytermék kiskereskedelmi (fogyasztói) értékesítési ára; egyéb termék esetén az első javasolt fogyasztói ár.
 
-4. melléklet a 244/2013. (VI. 30.) Korm. rendelethez
+4. melléklet a 244/2013. (VI. 30.) Korm. rendelethez[^9]
 
-1. A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezési eljárás egyes szabályairól szóló 181/2013. (VI. 7.) Korm. rendelet (a továbbiakban: engedélyezési rendelet) 1. melléklet 1.5. pontja helyébe a következő rendelkezés lép:
-
-„1.5. A dohánytermékek kiskereskedelmi értékesítése – ide nem értve a Tv. által lehetővé tett kivételes dohányértékesítési lehetőséget (mozgóbolt) – kizárólag
-
-a) a dohánybolt üzletterében, vagy
-
-b) a Tv. rendelkezéseinek megfelelő esetben az elkülönített helyen, azaz az üzlet térben leválasztott helyiségrészén belül történhet.
-
-A b) alpont alkalmazásában az elkülönített hely akkor minősül térben leválasztott helyiségrésznek, ha az az üzlet más részeitől legalább mozgatható vagy rögzített, nem átlátszó térelválasztóval, így különösen paravánnal, vagy függönnyel elkülönül.”
-
-2. Az engedélyezési rendelet 1. melléklet 1.7. pontja helyébe a következő rendelkezés lép:
-
-„1.7. Az 1.5. pont b) alpont alkalmazásában a dohánytermék fizikai átadására minden esetben az elkülönített helyen belül kerülhet csak sor; adott esetben – ha az üzlet üzemeltetője és a koncesszió jogosultja ugyanazon személy – az értékesítés más elemei (pl. az áru pénztárgépben való rögzítése) történhetnek az üzlethelyiség más részében is.”
+[^9]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
