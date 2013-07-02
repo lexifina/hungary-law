@@ -1,4 +1,4 @@
-## 78. § Hatályát veszti a rendőrség nyomozó hatóságainál létesítendő gyermekmeghallgató szobák kialakításáról szóló 32/2011. (XI. 18.) KIM rendelet 1. melléklet 6. pontja.
+## 78. §[^27]
 
 ## 19. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 50–51. §, az 54–55. §, a 59. § (3) bekezdése és a 60. § 2014. január 1-jén lép hatályba.
 
 (3) A 73. § (2) bekezdése 2014. július 1-jén lép hatályba.
+
+[^27]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

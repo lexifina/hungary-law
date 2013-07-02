@@ -1,3 +1,0 @@
-## 39. § A 9/2002. (IV. 9.) IM rendelet 78. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha a felnőttkorú elítélt a pénzbüntetést a felhívásban megjelölt határidőben nem fizette meg, halasztás vagy részletfizetés engedélyezése esetén a befizetésre meghatározott határnapot vagy részlet befizetését elmulasztotta, a BGH megkeresi a bv. bírót a pénzbüntetés, illetve a pénzbüntetés meg nem fizetett része szabadságvesztésre átváltoztatása iránt. A bv. bíró beszerzi az elsőfokú bíróságtól a pénzbüntetést jogerősen kiszabó határozatot, és ha annak feltételei fennállnak, továbbá nincs a büntetés végrehajtását kizáró ok, haladéktalanul dönt a meg nem fizetett pénzbüntetés szabadságvesztésre átváltoztatásáról.”

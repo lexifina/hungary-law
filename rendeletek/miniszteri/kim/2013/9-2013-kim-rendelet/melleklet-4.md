@@ -1,41 +1,43 @@
-## .....................................................................
-
-## Járásbíróság/Törvényszék/Ítélőtábla/Kúria
-
 ## ÉRTESÍTÉS
 
-## házi őrizet elrendeléséről, fenntartásáról, megszüntetéséről
-
-| A terhelt családi és utóneve (születési családi és utónév is) | Születési helye és ideje | Anyja neve | Foglalkozás | Munkahelye |
-
-| A terhelt lakóhelye/tartózkodási helye: ..................................................................................................................................................................................................... város .................................................... irányítószám, .................................................................... utca (tér) ............ házszám. |
+## az elektronikus adathoz való hozzáférés végleges megakadályozásának és a hozzáférés újbóli biztosításának elrendeléséről
 
 | Az ügyben eljárt bíróság megnevezése, határozatának száma és kelte: |
 
-| ................................................................................ Járásbíróság/Törvényszék/Ítélőtábla/Kúria ......................./20......../...........számú végzése |
+| ................................................................................ Bíróság/Törvényszék ......................./20......../...........számú végzése |
 
-| 20... évi .................................................... hó ......... nap |
+| 20... év .................................................... hó ......... nap |
 
-| ................................ Törvényszék/Ítélőtábla/Kúria ...................../20......../........... számú végzése |
+| ................................ Törvényszék/Ítélőtábla, mint másodfokú bíróság ...................../20......../........... számú végzése |
 
-| mint másodfokú bíróság | 20......... évi .......................................................... hó ........ nap |
+| 20... év .................................................... hó ......... nap |
 
-| - A bíróság a terhelt házi őrizetét elrendeli. A terhelt nem hagyhatja el a ..................................................................................................................................................................................................... alatt lévő lakást, kizárólag ....................................................................................................................................................................................... céljából ................................................................................. időben ...................................................................................................... távolságra, úticélra. - A bíróság a terhelt házi őrizetét fenntartja - A bíróság a terhelt házi őrizetét megszünteti |
+| A bíróság rendelkezése: - ⬜ az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának megszűnése és a végleges megakadályozás elrendelése - ⬜ az elektronikus adathoz való hozzáférés végleges megakadályozásának elrendelése - ⬜ az elektronikus adathoz való hozzáférés végleges megakadályozásának mellőzése és a hozzáférés újbóli biztosításának elrendelése - ⬜ az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának mellőzése a tárhelyszolgáltató teljesítésére figyelemmel - ⬜ az elektronikus adathoz való hozzáférés végleges megakadályozásának megszüntetése a tárhelyszolgáltató teljesítésére figyelemmel. |
 
-| A házi őrizet - a bíróságnak a tárgyalás előkészítése során hozott határozatáig, - az elsőfokú bíróság ügydöntő határozatának a kihirdetéséig, de legfeljebb - a Btk.92. §-a szerinti beszámítás alapján - a nem jogerős ítélettel kiszabott szabadságvesztés tartamáig, - a másodfokú eljárás befejezéséig, de legfeljebb - a Btk. 92. §-a szerinti beszámítás alapján - a nem jogerős ítélettel kiszabott szabadságvesztés tartamáig, - a harmadfokú eljárás befejezéséig, de legfeljebb - a Btk. 92. §-a szerinti beszámítás alapján - a nem jogerős ítélettel kiszabott szabadságvesztés tartamáig tarthat. |
+| Az elektronikus adat azonosítására és elérésére vonatkozó adatok: - IP cím ipv4 vagy ipv6 megadásával: …………………………………….. - alhálózati maszk: ………………………………….. - domain név: ………………………………… - URL cím: ………………………………….. - portszám : ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-| Ha a bíróság házi őrizet fenntartásáról határoz [Be. 138. § (3) bekezdés], az 20...... év ............... hónap ................. napjáig, de legfeljebb az elsőfokú bíróságnak a tárgyalás előkészítése során hozott határozatig tarthat. |
+| Az eljárás típusa: új eljárás – fellebbezési eljárás – rendkívüli jogorvoslat |
 
-| A házi őrizet előírásának a megtartását a rendőrség a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. |
+| A jogorvoslat eredménye: |
 
-| A házi őrizet megszegéséről a ........................................ /20.........................../..................... számra hivatkozással az ügyészséget/az elsőfokú bíróságot kell haladéktalanul értesíteni. Az értesítendő ügyészség/bíróság megnevezése és telefonszáma: ..................................................................................................................................................................................... |
+| A hozzáférés végleges megakadályozása teljesítésével az elektronikus adattartalom helyén a hozzáférést biztosító elektronikus hírközlési szolgáltatók által megjelenítendő tájékoztatás szövege: …………………………………………………………………………………………………. ………………………………………………………………………………………………….. |
+
+| A végrehajtás kezdő időpontja az elektronikus hírközlési szolgáltatóknak a határozatról küldött értesítés kézbesítésének [Be. ,. § bekezdés] a napjától számított egy munkanap. |
+
+| Hivatkozás korábbi ügyszámra: Ha az ügyben az elektronikus adathoz való hozzáférés ideiglenes megakadályozását elrendelték, az eljárt bíróság megnevezése, határozatának száma és kelte. ................................................................................... Bíróság/Törvényszék ......................../20......../...........számú végzése 20….. év .................................................... hó ......... nap ...................................... Törvényszék/Ítélőtábla, mint másodfokú bíróság ....................../20......../........... számú végzése 20..... év .................................................... hó ......... nap |
+
+| Az elektronikus adathoz való hozzáférés végleges megakadályozására vagy a hozzáférés újbóli biztosítására vonatkozó kötelezettség megszegéséről a ............................/20............/................ számra hivatkozással az első fokon eljárt bíróságot kell haladéktalanul értesíteni. |
+
+| Megjegyzés: |
 
 | ......................................, 20........ évi .......................... hó ......... napján. |
 
-|  | ............................................................................ a tanács elnöke - bíró - bírósági ügyintéző |
+|  | ............................................................................ a tanács elnöke - bíró |
 
-| ........................................................................................... Rendőrkapitányság Vezetőjének |
+| 341 | Értesítés elektronikus adathoz való hozzáférés végleges megakadályozásának elrendeléséről, megszüntetéséről. |
 
-| 206/a. | Értesítés házi őrizet elrendeléséről, fenntartásáról, megszüntetéséről. |
+## ”
 
-4. melléklet a 9/2002 (IV. 9.) IM rendelethez
+4–9. melléklet a 9/2013. (VI. 29.) KIM rendelethez[^29]
+
+[^29]: A 4–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,7 @@
+## „
+
+## 36. melléklet a 9/2002 (IV. 9.) IM rendelethez
+
 ## ÉRTESÍTÉS
 
 ## az elektronikus adathoz való hozzáférés ideiglenes megakadályozásának és a hozzáférés újbóli biztosításának elrendeléséről a vádirat benyújtása előtt

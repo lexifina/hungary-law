@@ -1,7 +1,9 @@
-59. § (1) A 9/2002. (IV. 9.) IM rendelet Melléklete helyébe e rendelet 1. melléklete lép.
+## 56–58. §[^12]
 
-(2) A 9/2002. (IV. 9.) IM rendelet az e rendelet 2. melléklete szerinti 2–35. melléklettel egészül ki.
+59. § (1)–(2)[^13]
 
-(3)[^3]
+(3)[^14]
 
-[^3]: Az 59. § (3) bekezdése a 79. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^12]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 59. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 59. § (3) bekezdése a 79. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
