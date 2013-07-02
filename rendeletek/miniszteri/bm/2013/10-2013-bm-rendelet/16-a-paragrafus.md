@@ -1,6 +1,6 @@
 ## 16. § A parancsnoki nyomozás során elrendelt őrizetet rendőrségi fogdában kell végrehajtani.
 
-16/A. §[^5] (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésére a parancsnok tesz előterjesztést a katonai ügyészhez.
+16/A. §[^6] (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésére a parancsnok tesz előterjesztést a katonai ügyészhez.
 
 (2) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele indítványozása iránti előterjesztésnek tartalmaznia kell:
 
@@ -46,4 +46,4 @@ g) az elektronikus adatot tároló tárhelyszolgáltató nevének és címének,
 
 5. URL cím: egységes erőforrás azonosító, amely egyetlen címben foglalja össze az interneten megtalálható elektronikus adat azonosításához szükséges legfontosabb információkat, mint a protokoll, a domain név vagy IP cím, a portszám és az elérési út a célszerveren.
 
-[^5]: A 16/A. §-t a 34/2013. (VI. 30.) BM rendelet 44. §-a iktatta be.
+[^6]: A 16/A. §-t a 34/2013. (VI. 30.) BM rendelet 44. §-a iktatta be.

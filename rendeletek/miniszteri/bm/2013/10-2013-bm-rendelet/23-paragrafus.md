@@ -1,1 +1,3 @@
-23. § Hatályát veszti a 18. § (2) bekezdés b) pontjában a „szolgálati jellemzését,” szövegrész.
+23. §[^8]
+
+[^8]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
