@@ -1,1 +1,0 @@
-109. § A menedékjogról szóló 2007. évi LXXX. törvény VI. Fejezetének címe helyébe az „A BEFOGADÁSI FELTÉTELEK, A MENEKÜLTÜGYI ŐRIZET; A MENEKÜLT, AZ OLTALMAZOTT, VALAMINT A MENEDÉKES ELLÁTÁSA ÉS TÁMOGATÁSA” fejezetcím lép.

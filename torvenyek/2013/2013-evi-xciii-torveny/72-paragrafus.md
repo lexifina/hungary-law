@@ -1,3 +1,0 @@
-72. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 67/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az idegenrendészeti hatóság a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről szóló, 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 19., illetve 20. cikke alapján történő ellenőrzés céljából a harmadik országbeli állampolgár ujjnyomatát rögzítheti.”
