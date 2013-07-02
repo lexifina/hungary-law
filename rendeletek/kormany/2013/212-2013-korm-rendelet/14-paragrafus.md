@@ -1,5 +1,3 @@
-## 13. § A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló 361/2009. (XII. 30.) Korm. rendelet 1. § (3) bekezdése a következő h) ponttal egészül ki:
+## 13. §[^1]
 
-## (E rendelet hatálya nem terjed ki:)
-
-## „h) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság által meghirdetett Vállalkozásfinanszírozási Programnak a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 74. § (1) bekezdésében és 83/A. § (1) bekezdésében említett követelményeknek történő megfelelés elősegítése céljából meghirdetett Patika Hitelprogramja keretében kötött hitel- és kölcsönszerződésekre.”
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -24,8 +24,8 @@
 
 6. A kölcsönszerződés száma
 
-7. A kölcsön támogatástartalma (TT) forintban és euróban[^1] kifejezve
+7. A kölcsön támogatástartalma (TT) forintban és euróban[^2] kifejezve
 
 8. A támogatást nyújtó szerv által kiállított, keltezéssel és aláírással ellátott nyilatkozat, amelyből kiderül, hogy a kedvezményes kölcsön felhasználására az MFB Zrt. által meghirdetett MFB Vállalkozásfinanszírozási Program 10.3 Patika Hitelprogram hitelcélja keretében kerül sor, melyhez a támogatást nyújtó szerv kamattámogatást biztosított.
 
-[^1]: Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 35. §-ának az alapul vételével.
+[^2]: Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 35. §-ának az alapul vételével.
