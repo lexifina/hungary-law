@@ -1,3 +1,3 @@
-## 48–54. §[^12]
+## 48–54. §[^17]
 
-[^12]: A 48–54. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^17]: A 48–54. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.

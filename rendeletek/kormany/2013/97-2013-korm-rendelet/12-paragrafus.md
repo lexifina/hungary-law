@@ -1,1 +1,0 @@
-## „(6) A gyámhivatalnak az örökbefogadásra való alkalmasságot megállapító határozata annak jogerőre emelkedésétől számított három évig hatályos. Ha három éven belül az örökbefogadási eljárás jogerősen befejeződik, a határozat az örökbefogadás tárgyában hozott határozat jogerőre emelkedésének napjával hatályát veszti.”

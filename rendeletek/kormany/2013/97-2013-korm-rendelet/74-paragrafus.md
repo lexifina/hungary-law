@@ -1,3 +1,3 @@
-## „(11) A terhességét eltitkoló válsághelyzetben lévő várandós anyát, valamint a szülést követően az anyát és a gyermeket – az anya kérelmére – bármely családok átmeneti otthonának be kell fogadnia.
+## 72–73. §[^38]
 
-## (12) Titkolt terhesség esetén az örökbefogadási eljárásra a gyermek születési helye szerinti kijelölt gyámhivatal az illetékes. A kijelölt gyámhivatal illetékessége titkolt terhesség esetén az örökbefogadási eljárás befejezéséig nem változik és kiterjed a törvényes képviselő kérelmére a gyermek lakóhelyének megállapításával egyidejűleg a gyermek iratainak kiadásáról történő intézkedésre is, ha a gyermek iratai az anya kérelmére a fővárosi területi gyermekvédelmi szakszolgálathoz érkeztek.”
+[^38]: A 72–73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

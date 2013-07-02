@@ -1,12 +1,9 @@
-## 12. §[^3]
+## 12. §[^4]
 
-13. § (1) A Gyer. 42. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+13. § (1)[^5]
 
-(A kijelölt gyámhivatal az eljárás során köteles meghallgatni:)
+(2)[^6]
 
-## „f) a kiskorú vér szerinti szülő törvényes képviselőjét, kivéve, ha titkolt terhesség esetén helyt ad a korlátozottan cselekvőképes kiskorú Gyvt. 128. § (1a) bekezdése szerinti kérelmének.”
-
-(2)[^4]
-
-[^3]: A 12. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^4]: A 13. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^4]: A 12. § a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^5]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 13. § (2) bekezdése a 77. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
