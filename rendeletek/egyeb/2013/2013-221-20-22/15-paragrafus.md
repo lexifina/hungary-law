@@ -1,1 +1,3 @@
-## „(3) A Tv. 29. § (1) bekezdés a)–f) pontjának, valamint 29. § (1a) bekezdésének hatálya alá tartozó harmadik országbeli állampolgárnak a tartózkodási engedély kiadásához, illetve meghosszabbításához ki kell töltenie a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 25/2007. (V. 31.) IRM rendeletben meghatározott adatlapot, továbbá az adatlaphoz mellékelnie kell egy darab arcfényképet.”
+## 9–14. §[^3]
+
+[^3]: A 9–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

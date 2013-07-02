@@ -1,5 +1,3 @@
-## 24. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 128. §-a helyébe a következő rendelkezés lép:
+## 19–24. §[^5]
 
-## „128. § (1) Az őrizetet elrendelő hatóságnak az őrizet meghosszabbítására irányuló indítványához csatolnia kell a harmadik országbeli állampolgár személyazonosságának és tartózkodása jogszerűségének megállapítására, illetve az idegenrendészeti őrizet első hat hónapos időtartama alatt a kiutaztatására tett intézkedésekre vonatkozó tájékoztatást, amelyet a harmadik országbeli állampolgár jogi képviselőjének vagy a kijelölt ügygondnoknak is meg kell küldeni.
-
-## (2) Az őrizetet elrendelő hatóságnak az őrizet hat hónapon túli időtartama alatt az őrizet meghosszabbítására irányuló indítványához csatolnia kell az érintett harmadik országbeli állampolgár együttműködésének hiányára, vagy a kitoloncoláshoz szükséges okmányok beszerzése vonatkozásában a harmadik országbeli állampolgár származási országa, visszafogadására vagy befogadására köteles állam hatóságai eljárásának elhúzódását alátámasztó tényekre vonatkozó tájékoztatást, amelyet a harmadik országbeli állampolgár jogi képviselőjének vagy kirendelt ügygondnokának is meg kell küldeni.”
+[^5]: A 19–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

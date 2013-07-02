@@ -1,1 +1,0 @@
-## „(7) A Tv. 54. § (6) bekezdés b) pontjának alkalmazása esetén a harmadik országbeli állampolgárt a Tv. 30. § (1) bekezdés h) pontja szerinti ideiglenes tartózkodásra jogosító igazolással kell ellátni.”

@@ -1,3 +1,0 @@
-## 19. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 115. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) Ha a harmadik országbeli állampolgár utólag, készpénzben teljesíti fizetési kötelezettségét, vagy rendelkezik a befizetés banki terhelését igazoló bizonylattal, a Rendőrség az önálló beutazási és tartózkodási tilalmat törli, és ezt követően intézkedik a kiléptetésre vagy engedélyezi a beléptetést. A törlés tényéről a Rendőrség haladéktalanul értesíti az elrendelő idegenrendészeti hatóságot.”

@@ -1,3 +1,3 @@
-## 26. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 140. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 26. §[^7]
 
-## „(2) Befogadott harmadik országbeli állampolgár esetén az egészségbiztosítási szolgáltatások a Tv. 29. § (1) bekezdés b) pontja alapján kiadott humanitárius tartózkodási engedéllyel vehetőek igénybe. Az emberkereskedelem áldozatává vált harmadik országbeli állampolgár esetén az egészségbiztosítási szolgáltatások a Tv. 29. § (1) bekezdés e) pontja alapján kiállított humanitárius tartózkodási engedéllyel, illetve a Tv. 30. § (1) bekezdés e) pontja alapján kiállított ideiglenes tartózkodásra jogosító igazolással vehetőek igénybe.”
+[^7]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
