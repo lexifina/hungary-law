@@ -1,3 +1,0 @@
-4. § Az Sztv. 27/D. § (2) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(2) A szabálysértési nyilvántartó szerv a sportrendezvényről történő kitiltás hatálya alatt álló személy családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét, a 27/A. § (1) bekezdés b) pont ba) alpontban, valamint a 27/A. § (1) bekezdés e) pontban szereplő adatokat a sportról szóló törvényben meghatározott sportrendészeti nyilvántartás részére történő adatátadás útján a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek továbbíthatja. ”
