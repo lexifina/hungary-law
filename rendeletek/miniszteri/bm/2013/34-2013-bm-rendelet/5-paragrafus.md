@@ -1,3 +1,0 @@
-## 4. § Az R1. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A fogda a fogvatartottak elhelyezésére, biztonságos őrzésére szolgáló, huzamos emberi tartózkodásra alkalmas épület vagy épületrész. A zárkában elhelyezhető létszámot úgy kell meghatározni, hogy minden fogvatartottra legalább hat köbméter légtér és három négyzetméter – fiatalkorú és női fogvatartottak esetén három és fél négyzetméter – mozgástér jusson. A mozgástér meghatározása szempontjából a zárka alapterületéből az azt csökkentő berendezési és felszerelési tárgyak által elfoglalt területet figyelmen kívül kell hagyni. A zárka felszerelési és berendezési tárgyait a melléklet tartalmazza.”
