@@ -1,0 +1,216 @@
+# A Kormány 1393/2013. (VII. 2.) Korm. határozata
+
+Magyar Közlöny 2013. évi 113. szám, 2013. július 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3b0281830677bd472d09a55caaab10e134afe051/dokumentumok/a4b6515cbb9b34684cee6fc486a38b00c9d13d12/letoltes)
+
+---
+
+A Kormány 1393/2013. (VII. 2.) Korm. határozata
+a Wekerle Terv – a magyar gazdaság Kárpát-medencei léptékű növekedési stratégiája végrehajtásának
+a 2013. évre vonatkozó kormányzati intézkedési tervéről
+1. A Kormány
+a) elfogadja e határozat 1. mellékletét képező, a Wekerle Terv – a magyar gazdaság Kárpát-medencei léptékű
+növekedési stratégiája végrehajtásának 2013. évre vonatkozó kormányzati intézkedési tervét és elrendeli
+annak végrehajtását hazai költségvetési források és folyamatban lévő európai uniós pályázati konstrukciók
+terhére;
+b) felhívja a feladatkörükben érintett minisztereket, hogy az intézkedési tervben foglalt feladatok
+végrehajtásáról, a szomszédos államokbeli partnerekkel folytatott egyeztetések állásáról 2014-től kezdődően
+évente készítsenek tájékoztatót a nemzetgazdasági miniszternek;
+Felelős: feladatkörükben érintett miniszterek
+Határidő: minden év március 15.
+c) felhívja a nemzetgazdasági minisztert, hogy a feladatkörükben érintett miniszterek tájékoztatói alapján
+2014-től kezdődően évente készítsen jelentést a Kormány számára az intézkedési tervben foglalt feladatok
+végrehajtásáról.
+Felelős: nemzetgazdasági miniszter
+Határidő: minden év május 31.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1393/2013. (VII. 2.) Korm. határozathoz
+A Wekerle Terv – a magyar gazdaság Kárpát-medencei léptékű növekedési stratégiája
+2013. évre vonatkozó kormányzati intézkedési terve
+I. Határon átívelő együttműködést ösztönző és vállalkozásfejlesztéssel összefüggő feladatok
+1. A határokon átívelő vállalkozói, üzleti kapcsolatok bővítése érdekében a Kárpát Régió Üzleti Hálózat Zártkörűen
+Működő Részvénytársaság létrehozása, ezen keresztül a határon túli irodahálózat üzemeltetése, szakmai
+programjainak megvalósítása.
+Felelős: nemzetgazdasági miniszter
+Határidő: folyamatosan
+2. A szomszédos országok nemzeti és európai uniós közbeszerzési értékhatár közé eső pályázati lehetőségeiről
+információszolgáltatás biztosítása.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2013. december 31.
+3. Ipari parkok nemzetközi kapcsolatainak fejlesztése: az ipari parkok közötti nemzetközi együttműködési lehetőségek
+(határon átnyúló ipari park, „tükör-ipari park”) feltérképezése és ezen együttműködési lehetőségek megjelenítése
+az ipari park portálon.
+Felelős: nemzetgazdasági miniszter
+Határidő: folyamatosan
+
+4. Magyarország és a szomszédos országok azon területei esetében, amelyek között intenzív gazdasági kapcsolatok
+léteznek vagy kialakíthatóak, a gazdaságfejlesztési célok megfogalmazásának támogatása és azok integrálása
+a magyar szakpolitikák tervezési dokumentumaiba.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+emberi erőforrások minisztere
+nemzetpolitikáért felelős miniszterelnök-helyettes
+vidékfejlesztési miniszter
+Határidő: 2013. december 31.
+5. A szomszédos országokkal együttműködésben a helyi gazdaság- és termékfejlesztés ösztönzése, sikeres helyi
+gazdaságfejlesztési példák elterjesztése, a helyi termékek jól működő hálózatokba, minősítési, marketing és
+értékesítési rendszerekbe történő bevonása.
+Felelős: nemzetgazdasági miniszter
+vidékfejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+nemzetpolitikáért felelős miniszterelnök-helyettes
+Határidő: folyamatosan
+6. A Kárpát Régió Üzleti Hálózat Zártkörűen Működő Részvénytársaság közreműködésével a Wekerle Tervben érintett
+vállalkozások közép-európai és harmadik országok külpiacára segítése, külkereskedelem-fejlesztési pályázati
+konstrukció kidolgozása.
+Felelős: nemzetgazdasági miniszter
+közigazgatási és igazságügyi miniszter
+nemzetpolitikáért felelős miniszterelnök-helyettes
+Határidő: 2013. december 31.
+7. A hét határszakasz menti 2014–2020-as tervezés-programozás és az Európai Területi Együttműködési programokra
+való felkészülés elősegítése.
+Felelős: Miniszterelnökséget vezető államtitkár
+közigazgatási és igazságügyi miniszter
+nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+emberi erőforrások minisztere
+vidékfejlesztési miniszter
+nemzetpolitikáért felelős miniszterelnök-helyettes
+Határidő: 2013. december 31.
+8. Az Európai Területi Társulások működésének és alapításának támogatása a határmenti fejlesztések megvalósítása
+érdekében.
+Felelős: közigazgatási és igazságügyi miniszter
+nemzetgazdasági miniszter
+nemzetpolitikáért felelős miniszterelnök-helyettes
+vidékfejlesztési miniszter
+Határidő: 2013. december 31.
+9. Működő és alakuló klaszterek határon átnyúló pályázati lehetőségeinek vizsgálata, a 2014–2020-as programokban
+határon átnyúló klaszterek támogatási lehetőségeinek feltérképezése.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+nemzetpolitikáért felelős miniszterelnök-helyettes
+vidékfejlesztési miniszter
+Határidő: 2013. december 31.
+10. A Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság közreműködésével a hazai kis- és
+középvállalkozások exporttermékeinek vásárlásához a szomszédos országokban működő vállalkozások részére
+nyújtott vevőhitel konstrukció kidolgozása és bevezetése.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2013. december 31.
+
+11. Az Európai Unió 2014–2020-as programozási időszakára vonatkozó fejlesztési forrástervezés során a Wekerle Terv
+célrendszerének érvényesítése.
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+emberi erőforrások minisztere
+vidékfejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+Határidő: 2013. december 31.
+II. Az infrastruktúra összehangolását célzó feladatok
+12. A magyar–szerb határszakaszon határátkelőhelyek létesítésére, a határinfrastruktúra fejlesztésére irányuló projektek
+megvalósítása.
+a) Röszke–Horgos (Horgoš) II. autópálya határátkelőhely áteresztő képességének javítása, továbbá
+az autópályáról letiltott forgalom jogszerű átléptetése érdekében a Röszke–Horgos (Horgoš) I. közúti
+határátkelőhely újbóli megnyitása.
+Felelős: nemzetgazdasági miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+Határidő: 2014. április 30.
+b) Bácsszentgyörgy–Rasztina (Rastina) határátkelőhely létesítése.
+Felelős: nemzetgazdasági miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+Határidő: 2014. április 30.
+13. A magyar–ukrán határszakaszon határátkelőhelyek létesítésére, a határinfrastruktúra fejlesztésére irányuló
+projektek megvalósítása az útlevél- és vámvizsgálat gyorsítása, a magyar–magyar kapcsolattartás megkönnyítése,
+a kereskedelmi kapcsolatok élénkítése, a munkaerőpiaci együttműködés megkönnyítése, valamint a turizmus
+fejlesztése céljából.
+a) Beregsurány–Asztély közúti határátkelőhely fejlesztése.
+b) Tiszabecs–Tiszaújlak közúti határátkelőhely fejlesztése.
+c) Záhony–Csap Közös Kapcsolattartási Szolgálati Hely létesítése.
+Felelős: nemzetgazdasági miniszter
+belügyminiszter
+Határidő: 2015. november 30.
+14. Határmenti új közúti kapcsolatok kialakítására, illetve meglévő kapcsolatok rekonstrukciójára irányuló projektek
+megvalósítása.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2015. november 30.
+15. Kisköltségű, meglévő határátlépési pontok akadálymentesítésére irányuló projektek megvalósítása.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2014. április 30.
+III. A munkaerőpiaci együttműködést célzó feladatok
+16. Komplex akkreditációs program előkészítése érdekében a szakképzési kapacitások, szakképesítési struktúrák és
+tartalmak összehasonlító elemzése, illetve a munkaerőpiaci igényekhez való illeszkedésük vizsgálata.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2013. december 31.
+17. Az Országos Képzési Jegyzékben szereplő szakképesítéseknek – a Magyar Képesítési Keretrendszerben történő
+elhelyezésüket követően – az Európai Képesítési Keretrendszerbe (a továbbiakban: EKKR) történő besorolása
+a szomszédos országok EKKR-hez való csatlakozásának figyelembevételével.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2013. október 30.
+
+18. A Horizon2020 pályázás hatékonyságának növelése érdekében a 2014–2020-as időszak pályázat-előkészítési
+tevékenysége körében a kutatási kapcsolatok és pályázati konzorciumok kialakításának támogatása, támaszkodva
+a kétoldalú kormányközi tudományos és technológiai megállapodásokra.
+Felelős: nemzetgazdasági miniszter
+emberi erőforrások minisztere
+Határidő: 2013. december 31.
+19. Határon átnyúló felnőttképzési lehetőségek és szomszédos országbeli képző partnerek bevonásának biztosítása
+a 2014–2020-as tervezési időszak európai uniós támogatási programjaiba (a transznacionalitás elvének alkalmazása).
+Felelős: nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+közigazgatási és igazságügyi miniszter
+emberi erőforrások minisztere
+nemzetpolitikáért felelős miniszterelnök-helyettes
+vidékfejlesztési miniszter
+Határidő: 2013. december 31.
+20. A hazai szakképzési fejlesztések szomszédos országokban történő megismertetése, egymástól való tanulás útján
+a szakképzésben és felnőttképzésben oktatók továbbképzése a duális szakképzésről.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2014. március 31.
+IV. A Wekerle Terv ágazati kitörési pontjaival összefüggő feladatok
+21. Környezetipari fejlesztések promóciója a közép-európai régióban, innovatív környezetvédelmi és vízügyi
+technológiák exportjának ösztönzése a térségi környezetipari beruházások és a környezetipari termékek iránti igény
+feltérképezésével.
+Felelős: nemzetgazdasági miniszter
+vidékfejlesztési miniszter
+Határidő: folyamatosan
+22. Családi gazdaságok fejlesztését szolgáló program kidolgozása.
+Felelős: vidékfejlesztési miniszter
+nemzetgazdasági miniszter
+közigazgatási és igazságügyi miniszter
+Határidő: 2013. december 31.
+23. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli
+területekkel való nemzetközi együttműködésre nyújtandó támogatások hatékonyabb felhasználása érdekében
+a határmenti LEADER térségek közötti kapcsolatépítés, projektgeneráló és pályázat-előkészítő tevékenység
+megvalósítása.
+Felelős: vidékfejlesztési miniszter
+Határidő: 2013. augusztus 31.
+24. A szomszédos országokban működő turisztikai partnerségek és határon átnyúló együttműködési lehetőségek
+felmérése, lehetséges kiemelt termékek beazonosítása különös tekintettel a kulturális örökség megóvandó
+értékeire, valamint határokon átívelő turisztikai főtengelyek meghatározása.
+Felelős: nemzetgazdasági miniszter
+nemzetpolitikáért felelős miniszterelnök-helyettes
+Határidő: 2013. december 31.
+25. Közép-európai zarándokutak kiépítésének támogatása: Mária út projekt kiemelt, országos projektként történő
+kezelése, a továbbfejlesztéshez szükséges gazdaságdiplomáciai lépések megtétele.
+Felelős: nemzetgazdasági miniszter
+külügyminiszter
+emberi erőforrások minisztere
+nemzetpolitikáért felelős miniszterelnök-helyettes
+Határidő: 2013. december 31.
+
+26. A szomszédos országokban tevékenykedő falusi szálláshely-szolgáltatók továbbképzését szolgáló program
+megvalósítása, turisztikai termékfejlesztési és marketing ismeretek (know-how) átadása vidéki- és agroturisztikai
+termékek fejlesztéséhez.
+Felelős: nemzetgazdasági miniszter
+vidékfejlesztési miniszter
+Határidő: 2013. december 31.
+27. Helyi közösségek ösztönzése az általuk nyilvántartott és gondozott nemzeti értékek gyűjteményeinek
+összeállítására és a gyűjtemények adatainak Magyar Értéktárba történő felvétele.
+Felelős: vidékfejlesztési miniszter
+nemzetgazdasági miniszter
+közigazgatási és igazságügyi miniszter
+nemzetpolitikáért felelős miniszterelnök-helyettes
+Határidő: folyamatosan

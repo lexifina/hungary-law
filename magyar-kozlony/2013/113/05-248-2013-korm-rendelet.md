@@ -1,0 +1,40 @@
+# A Kormány 248/2013. (VII. 2.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 113. szám, 2013. július 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3b0281830677bd472d09a55caaab10e134afe051/dokumentumok/a4b6515cbb9b34684cee6fc486a38b00c9d13d12/letoltes)
+
+---
+
+A Kormány 248/2013. (VII. 2.) Korm. rendelete
+a telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes
+szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló
+57/2013. (II. 27.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató
+tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 57/2013. (II. 27.)
+Korm. rendelet (a továbbiakban: R.) 17. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő
+(3) bekezdéssel egészül ki:
+„(2) A 2. melléklet 67. és 68. pontjában meghatározott telepengedély-köteles tevékenység folytatója
+– a (3) bekezdés kivételével – 2013. szeptember 30-ig köteles a 3. § (2) bekezdése alapján a telepengedély kiadására
+irányuló kérelmet a telep fekvése szerint illetékes települési önkormányzat jegyzőjének benyújtani azzal, hogy
+a tevékenység a kérelem jogerős elbírálásáig folytatható.
+(3) Nem kell telepengedély kiadására irányuló kérelmet benyújtani azon nem veszélyes és veszélyes hulladék
+gyűjtési tevékenység folytatása esetén, amelyet annak gyakorlója a telepengedély alapján gyakorolható ipari és
+szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről szóló 80/1999. (VI. 11.) Korm. rendelet alapján
+kiadott telepengedély, majd 2009. március 31-től a telepengedély, illetve a telep létesítésének bejelentése alapján
+gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és
+a bejelentés szabályairól szóló 358/2008. (XII. 31.) Korm. rendelet szerint bejelentés alapján végzett. Ebben az esetben
+a tevékenység folytatását 2013. január 1-től telepengedély hiányában is jogszerűnek kell tekinteni.”
+2. §
+Az R. 2. melléklete e rendelet 1. melléklete szerint módosul.
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 248/2013. (VII. 2.) Korm. rendelethez
+Az R. 2. melléklet 67. és 68. pontja helyébe a következő rendelkezések lépnek:
+(Telepengedély-köteles tevékenységek)
+„67. nem veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása
+68. veszélyes hulladék hulladékgazdálkodási engedély köteles gyűjtése, hasznosítása, ártalmatlanítása”
