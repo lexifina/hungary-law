@@ -1,1 +1,0 @@
-## 4. § A felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet 2. melléklet II. pont 22. alpontjában a „vagy más gazdasági bűncselekmény” szövegrész helyébe a „vagy más, a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény” szöveg lép.
