@@ -1,1 +1,3 @@
-16. § Hatályát veszti a Magyar Művészeti Akadémia tagjainak életjáradékáról szóló 427/2012. (XII. 29.) Korm. rendelet.
+16. §[^1]
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
