@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-174-00-00
 | 2012-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-174-00-00.7 |
 | 2012-04-02 | 2010. évi CXXX. törvény | 2011-174-00-00.8 |
 | 2013-07-01 | 2013. évi LXXXI. törvény | 2011-174-00-00.9 |
+| 2013-07-02 | 2010. évi CXXX. törvény | 2011-174-00-00.10 |
