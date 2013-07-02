@@ -1,4 +1,4 @@
-## „i/1. Nehéz tehergépkocsi: tehergépkocsi, vontató, valamint e járművekből és pótkocsiból álló járműszerelvény, amelynek megengedett legnagyobb össztömege a 7,5 tonnát meghaladja.”
+## 50–51. §[^5]
 
 ## 23. Az Európai Unió jogának való megfelelés
 
@@ -17,3 +17,5 @@ való megfelelést szolgálja.
 (2) Ez a rendelet az európai elektronikus útdíjszedési szolgáltatás és műszaki elemei meghatározásáról szóló, 2009. október 6-i 2009/750/EK bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) E rendelet 1. és 10. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
+
+[^5]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
