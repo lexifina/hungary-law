@@ -1,4 +1,4 @@
-## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Magyar Turizmus Zrt. hatékony marketing tevékenységére 1200,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 2. Turisztikai célelőirányzat jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Magyar Turizmus Zrt. Magyarország turisztikai attrakcióinak népszerűsítését elősegítő hatékony marketingkommunikációs tevékenységének, valamint belföldön megvalósuló nemzetközi és országos hatókörű, turisztikai vonzerővel bíró rendezvények támogatására 1200,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 2. Turisztikai célelőirányzat jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
 
 ## Felelős: átcsoportosításért: nemzetgazdasági miniszter
 
@@ -6,7 +6,7 @@
 
 ## Felelős: elszámolásért és a visszafizetési kötelezettség teljesítéséért: nemzeti fejlesztési miniszter
 
-## Határidő: 2013. december 15.
+## Határidő: 2013. december 15.[^1]
 
 1. melléklet az 1042/2013. (II. 1.) Korm. határozathoz
 
@@ -97,3 +97,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A Korm. határozat az 1412/2013. (VII. 3.) Korm. határozat 3. pontja szerint módosított szöveg.
