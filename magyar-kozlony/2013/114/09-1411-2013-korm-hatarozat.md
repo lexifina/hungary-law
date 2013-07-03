@@ -1,0 +1,148 @@
+# A Kormány 1411/2013. (VII. 3.) Korm. határozata
+
+Magyar Közlöny 2013. évi 114. szám, 2013. július 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/da12a1ed288330384226c3caef322858c0f1e399/dokumentumok/e4a484cdb42b4929113b5847f5012ba6d6842d56/letoltes)
+
+---
+
+A Kormány 1411/2013. (VII. 3.) Korm. határozata
+Magyarország Kormánya és a Magyar Természetjáró Szövetség közötti együttműködés kereteinek
+meghatározásáról
+A Kormány
+1. elismeri a Magyar Természetjáró Szövetségnek az elmúlt évtizedek során elért eredményeit a természetjárás
+szervezése, infrastruktúrájának fenntartása és fejlesztése terén,
+2. egyetért azzal, hogy a miniszterelnök a Kormány nevében a Magyar Természetjáró Szövetséggel az 1. melléklet
+szerinti együttműködési megállapodást aláírja,
+Felelős: miniszterelnök
+Határidő: azonnal
+3. egyetért azzal, hogy a miniszterek a jogszabályok előkészítésében való társadalmi részvételről szóló törvénynek
+megfelelő stratégiai partnerségi megállapodást kössenek a Magyar Természetjáró Szövetséggel, és folyamatos
+egyeztetéseket folytassanak a Magyar Természetjáró Szövetséggel az együttműködés újabb területeinek
+meghatározása céljából,
+Felelős: feladatkörükben érintett miniszterek
+Határidő: 2013. december 31.
+4. felhívja a minisztereket, hogy feladatkörükben eljárva e kormányhatározattal összhangban alakítsák ki az ágazati
+együttműködés kereteit a Magyar Természetjáró Szövetséggel,
+Felelős: feladatkörükben érintett miniszterek
+Határidő: 2013. december 31.
+5. biztosítja a Magyar Természetjáró Szövetség részére a magyarországi természetjárás európai színvonalú
+megújításához szükséges költségvetési támogatást.
+Felelős: feladatkörükben érintett miniszterek
+nemzetgazdasági miniszter
+Határidő: a központi költségvetésről szóló törvény tervezése során
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1411/2013. (VII. 3.) Korm. határozathoz
+EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS
+Amely létrejött egyrészről
+Magyarország Kormánya (képviseli Orbán Viktor miniszterelnök, a továbbiakban: Kormány),
+másrészről a
+Magyar Természetjáró Szövetség (székhely: 1065 Budapest, Bajcsy-Zsilinszky út 31. II/3., adószám: 19001511-2-42,
+képviseli: Garancsi István elnök, a továbbiakban: MTSZ) között.
+Preambulum
+Szerződő Felek
+– elismerve, hogy az MTSZ az 1987-ben létrehozott Magyar Természetbarát Szövetség jogutódja, az 1913-ban
+létrehozott Magyar Turista Szövetség utódja, és az 1873 óta alakult magyar természetjáró szervezetek
+hagyományainak folytatója és ápolója,
+– elismerve, hogy az MTSZ-nek közel 200 tagszervezete és csaknem 12 000 igazolt tagja van, és az Európai
+Gyalogos Turistaszövetség (EWV) magyarországi tagszervezete,
+– értékelve, hogy az MTSZ a magyarországi szervezett természetjárás legjelentősebb képviselője,
+– elősegítve, hogy a magyar turistaság a természetjárás adta tapasztalatok és élmények mentén a természetes
+környezetének, és ősi lakhelyének – a magyar földnek, felelősségteljes gondozójává, védőjévé, építőjévé
+váljon,
+
+– annak előmozdítása érdekében, hogy az MTSZ a társadalom egészsége, versenyképessége szempontjából
+hasznos tevékenységét – a természetjárást, környezetünk szépségeinek, a magyarországi, vagy magyarlakta
+területeknek a bejárását, megismerését – minél több önkéntes bevonásával, minél szélesebb körben végezhesse,
+– elismerve, hogy az MTSZ az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek
+működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.), valamint a Ptk.
+rendelkezései alapján önkéntesen létrehozott, önkormányzattal rendelkező civil szervezet, amely a gyalogos
+turista és rokon tevékenységek szabályai és szellemisége alapján az alapszabályában meghatározott céljának
+elérésére szervezi tagjai tevékenységét,
+– elismerve, hogy az MTSZ mellett tagszervezetei is aktív szerepet vállalnak a magyarországi, vagy magyarlakta
+területeken a gyalogos turista és rokon tevékenységek gyakorlásában, népszerűsítésében,
+– elismerve, hogy az MTSZ ellátja a gyalogos turista, kerékpáros és túraevezős természetjárók társadalmi
+érdekképviseletét, s mint közhasznú szervezet részt vesz a feladatait érintő jogalkotás társadalmi vitáin,
+jogszabály-módosításokat kezdeményez és az állami szerveknek bemutatja a természetjárás társadalmi-
+gazdasági környezetét,
+– az Alaptörvény P) cikk (1) bekezdése és a Civil tv. rendelkezései által szabott keretek közt
+a következő megállapodást kötik:
+I. Az együttműködés célja és keretei
+1. Szerződő Felek
+a) eszközeikhez és lehetőségeikhez mérten támogatják és végrehajtják az egészséges életmódra nevelést,
+a szabadidősport és rekreációs, valamint ifjúsági turisztikai tevékenységeket népszerűsítő kezdeményezés
+kiterjesztésére irányuló lépéseket,
+b) felismerték, hogy a lakosság egészségi állapota közvetlenül befolyásolja az ország versenyképességét,
+mivel a hosszabb és egészségesebb élet együtt jár a foglalkoztatás bővülésével, az aktívan töltött évek
+növekedésével, tehát társadalmi érdek a népesség egészségi állapotának megőrzése, javítása, melyhez
+minden, az egészséges életmódra nevelő, szemléletformáló kezdeményezés, program hozzájárul,
+c) célul tűzik ki a fenntartható turizmus fejlesztését, a falusi és ökoturisztikai fejlesztést, valamint az oktatás-
+és képzésfejlesztésen keresztül történő szemléletformálást a felnövekvő nemzedékek számára, továbbá
+a gazdaságélénkítést,
+d) célul tűzik ki a magyarországi természetjárás európai színvonalú megújítását a természetjárás szervezése,
+infrastruktúrájának fenntartása és fejlesztése terén,
+e) az együttműködés keretében arra törekszenek, hogy olyan jogszabályok és kormányzati döntések
+születhessenek, amelyek alkalmasak arra, hogy biztosítsák az MTSZ által végzett közcélú tevékenységek
+– a természetjárás jogi, technikai és szervezési feltételeinek segítése, a fejlesztési célkitűzések meghatározása,
+elérésük segítése – működtetését Magyarországon, a MTSZ, illetve a Kormány és a minisztériumok közötti
+együttműködést a természetjárással kapcsolatos tevékenységek végrehajtásában, ezzel pedig a népesség
+testi, lelki fejlődését, társadalmi elkötelezettségét segítsék elő,
+f) tanulmányozzák az együttműködés keretében elfogadott fejlesztési, fenntartási és kutatási projekteket és
+a lehető leghatékonyabban elősegítik azok megvalósulását,
+g) az együttműködés keretében folyamatos párbeszédet folytatnak egymással, amelynek elősegítésére közös
+munkacsoportokat hoznak létre,
+h) vallják, hogy a társadalmi egyeztetés a jó állam alapvető feltétele, mert elősegíti a jó minőségű,
+az életviszonyoknak megfelelő jogszabályok megalkotását, valamint a jogszabállyal érintett társadalmi
+rétegek képviseletét a jogszabály-előkészítés során, amely nagyobb legitimációt biztosít az elfogadott
+jogszabályoknak.
+II. Támogató intézkedések
+2. A Kormány kötelezettséget vállal arra, hogy a jelen megállapodás céljának betöltését a következő intézkedéseivel segíti:
+a) az MTSZ társadalmi célokat szolgáló fejlesztési intézkedések megvalósításába történő bevonása pályázati
+projekteken keresztül,
+b) jogszabályban meghatározott állami közfeladat MTSZ általi ellátása esetén, az állami vagy helyi
+önkormányzati szervvel, intézménnyel azonos feltételek szerinti költségvetési támogatás biztosítása.
+
+3. A 2. pont szerinti intézkedések nem zárják ki az MTSZ részére az átvállalt közfeladat hatékonyabb ellátása érdekében
+az állami szervek, intézmények, a helyi önkormányzat és a helyi önkormányzati szervek, intézmények által nyújtható
+egyéb támogatást, így különösen a tulajdonukban lévő ingatlanok térítésmentes tulajdonba adását vagy azok
+hosszútávra szóló ingyenes használatra történő átengedését.
+4. A Kormány a jog által biztosított kereteken belül védelmet nyújt az MTSZ nevével, jelvényeivel való visszaélések
+ellen.
+III. Egyeztetések a Szerződő Felek között
+5. A Szerződő Felek a jelen megállapodás végrehajtásában kölcsönösen együttműködve járnak el, és annak teljesítését
+érintő minden lényeges körülményről egymást tájékoztatják.
+6. A Szerződő Felek – a természetjárásra való közvetlen kihatása esetén – a következő tárgykörökkel kapcsolatos
+jogszabályok és azok módosítása előkészítésében együttműködési kötelezettséget vállalnak:
+a) természeti környezet alakítása és védelme (erdő- és mezőgazdálkodás, természetvédelem),
+b) épített környezet alakítása és védelme (építésügy, kulturális örökség gondozása),
+c) civil szféra szabályozása, önkéntesség,
+d) közlekedés,
+e) turizmus,
+f) egészséges életmódra nevelés, szabadidősport és rekreáció, ifjúsági turizmus,
+g) oktatási ügyek (köznevelés, felnőttoktatás).
+7. A Szerződő Felek a jogszabályok és azok módosítása előkészítésében vállalt együttműködési kötelezettségük
+teljesítésére közös munkacsoportokat alakítanak és működtetnek. A közös munkacsoportok évente legalább
+kétszer üléseznek, az üléseket az ágazati feladatokért felelős miniszter hívja össze. A közös munkacsoport létszámát,
+szervezetét és működését az MTSZ és az ágazati feladatokért felelős miniszter jelen megállapodáshoz fűzött
+kiegészítő jegyzőkönyvekben állapítja meg.
+8. Az MTSZ tudomásul veszi, hogy az egyeztetések során megfogalmazott észrevételei és javaslatai nem jelentenek
+kötelezettséget a jogszabály előkészítése során a jogszabály előkészítőjére.
+9. A Szerződő Felek a közös munkacsoportokon túli aktuális feladataik meghatározása érdekében, valamint a szakmai,
+koncepcionális kérdések megtárgyalása céljából évente legalább két alkalommal személyes egyeztetést tartanak.
+10. A személyes részvétellel történő egyeztetést bármelyik Szerződő Fél kezdeményezheti a másik Szerződő
+Félhez intézett írásos javaslatában, amelyben a javaslatot tevő Szerződő Fél megjelöli a személyes részvétellel
+történő egyeztetés tervezett időpontját, valamint a személyes részvétellel történő egyeztetéssel érinteni kívánt
+témaköröket.
+11. Szerződő Felek kötelezettséget vállalnak arra, hogy az egyeztetéseiken felmerülő adatokat, információkat az azokra
+irányadó adatvédelmi és titoktartási szabályok szerint kezelik.
+IV. Záró rendelkezések
+12. Jelen megállapodást a Felek határozatlan időre kötik.
+13. A megállapodást bármelyik fél a másik félhez intézett írásbeli nyilatkozattal felmondhatja. Felmondás esetén
+a megállapodás hatálya a felmondás közlésétől számított 90. napon szűnik meg.
+14. A jelen megállapodás megszüntetése nem érinti a jelen megállapodás hatálya alatt megkötött egyedi
+megállapodások hatályát és a megkezdett projektek befejezését.
+ Magyarország Kormánya nevében
+ Orbán Viktor
+ miniszterelnök
+ A Magyar Természetjáró Szövetség nevében
+ Garancsi István
+ elnök
