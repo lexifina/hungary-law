@@ -1,0 +1,1 @@
+## 4. § Az eljáró hatóság az általa hozott döntések kézbesítése – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton történik. A döntés kézbesítésének napja a hirdetmény kifüggesztését követő ötödik nap.
