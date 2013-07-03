@@ -46,7 +46,7 @@ oc) az ESZA Társadalmi Szolgáltató Nonprofit Kft.,
 
 od)[^354] Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft.,
 
-oe)[^355]
+oe)[^355] a Nemzeti Fejlesztési Programiroda Nonprofit Kft. és
 
 of) a Regionális Fejlesztési Holding Zrt. tevékenységét.
 
@@ -59,4 +59,4 @@ of) a Regionális Fejlesztési Holding Zrt. tevékenységét.
 [^352]: A 85. § n) pont nd) alpontját a 370/2010. (XII. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
 [^353]: A 85. § o) pont ob) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^354]: A 85. § o) pont od) alpontja a 86/2011. (V. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^355]: A 85. § o) pont oe) alpontját a 293/2012. (X. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^355]: A 85. § o) pont oe) alpontját a 293/2012. (X. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte, újonnan a 245/2013. (VII. 2.) Korm. rendelet 1. §-a iktatta be.

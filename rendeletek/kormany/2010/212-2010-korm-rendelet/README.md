@@ -55,3 +55,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2013-05-18 | 2010-212-20-22.47 | 150/2013. (V. 17.) Korm. rendelet |
 | 2013-05-30 | 2010-212-20-22.48 | 169/2013. (V. 29.) Korm. rendelet |
 | 2013-07-01 | 2010-212-20-22.49 | 226/2013. (VI. 24.) Korm. rendelet |
+| 2013-07-03 | 2010-212-20-22.50 | 293/2012. (X. 16.) Korm. rendelet |
