@@ -10,7 +10,7 @@
 
 (5) A 291. § (3) bekezdése 2013. július 2-án lép hatályba.
 
-(5a) A 310. § (1) bekezdése 2014. január 1-jén lép hatályba.
+(5a) A 310. § (1) bekezdése 2014. január 1-jén lép hatályba
 
 (6) A 234. § a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében, a SIS II alkalmazhatóságáról szóló tanácsi határozatban foglalt napon lép hatályba.
 
