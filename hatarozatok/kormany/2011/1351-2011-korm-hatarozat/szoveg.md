@@ -6,7 +6,7 @@ a) a Nemzeti Közszolgálati Egyetem egységes elhelyezésének biztosítása a 
 
 b) a Ferencvárosi Torna Club új labdarúgó stadionjának felépítése;
 
-c)[^1]
+c)[^2] a Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ megvalósítása;
 
 d) egy, a magyar történelmet és kultúrát, kiemelkedő személyiségeinket kortárs módon, interaktívan, könnyen befogadhatóan bemutató kiállítótér és rendezvényhelyszín megvalósítása;
 
@@ -32,13 +32,14 @@ h) az adott beruházás előkészítéséhez és megvalósításához szüksége
 
 i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az azok végrehajtásához szükséges kormányzati-közigazgatási koordináció szervezését, irányítását.
 
-4.[^2] A Kormány külön döntése esetén és az abban foglaltak szerint a kormánybiztos a 3 milliárd forint beruházási érték feletti, a minisztériumok vagy az irányításuk alá tartozó költségvetési szervek és gazdasági társaságok, továbbá a Kormány, a minisztérium (miniszter), a központi államigazgatási szerv (vezetője) által alapított alapítványok, illetve közalapítványok által bármely forrásból végzendő beruházások esetén felügyeli az előkészítés és a megvalósítás munkálatait, szervezi a szükséges kormányzati koordinációt, véleményezi a kormány-előterjesztéseket és figyelemmel kíséri a kormányhatározatok végrehajtását.
+4.[^3] A Kormány külön döntése esetén és az abban foglaltak szerint a kormánybiztos a 3 milliárd forint beruházási érték feletti, a minisztériumok vagy az irányításuk alá tartozó költségvetési szervek és gazdasági társaságok, továbbá a Kormány, a minisztérium (miniszter), a központi államigazgatási szerv (vezetője) által alapított alapítványok, illetve közalapítványok által bármely forrásból végzendő beruházások esetén felügyeli az előkészítés és a megvalósítás munkálatait, szervezi a szükséges kormányzati koordinációt, véleményezi a kormány-előterjesztéseket és figyelemmel kíséri a kormányhatározatok végrehajtását.
 
 5. A kormánybiztos tevékenységét a miniszterelnök irányítja. A kormánybiztos a tevékenységéről köteles negyedévente beszámolni a Kormánynak.
 
-6. A kormánybiztos tevékenységét a Közigazgatási és Igazságügyi Minisztériumban működő ötfős titkárság segíti.
+6.[^4] A kormánybiztos tevékenységét a Miniszterelnökség keretében működő hét fős titkárság segíti. A Miniszterelnökség mindenkori engedélyezett belföldi létszáma a kormánybiztos megbízatásának időtartamára 2 fővel emelkedik.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 2. pont c) alpontját az 1185/2013. (IV. 9.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^2]: A 4. pont az 1358/2011. (X. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont c) alpontját az 1185/2013. (IV. 9.) Korm. határozat 2. pontja hatályon kívül helyezte, újonnan az 1396/2013. (VII. 2.) Korm. határozat 10. pont a) alpontja iktatta be.
+[^3]: A 4. pont az 1358/2011. (X. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1396/2013. (VII. 2.) Korm. határozat 10. pont b) alpontjával megállapított szöveg.
