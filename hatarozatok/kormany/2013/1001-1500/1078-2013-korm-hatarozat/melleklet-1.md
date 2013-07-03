@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Kálvin téri református templom felújítására 500,0 millió forint, a Kalocsai Nagyboldogasszony Főszékesegyház és Érseki Kincstár felújítására 500,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján a Kálvin téri református templom felújítására 500,0 millió forint, a Kalocsai Nagyboldogasszony Főszékesegyház, Érseki Kastély, Huber ház – Paprika Múzeum – Étterem, Szentháromság szobor és Szentháromság tér felújítására 500,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
 
 ## Felelős: átcsoportosításért: nemzetgazdasági miniszter
 
@@ -6,9 +6,11 @@
 
 ## Felelős: elszámolásért és a visszafizetési kötelezettségért: emberi erőforrások minisztere
 
-## Határidő: 2013. december 20.
+## Határidő: a Kálvin téri református templom felújítása kapcsán: 2013. december 20.;
 
-## 2.[^1]
+## a Kalocsai Nagyboldogasszony Főszékesegyház, Érseki Kastély, Huber ház – Paprika Múzeum – Étterem, Szentháromság szobor és Szentháromság tér felújítása kapcsán: 2014. május 30.
+
+## 2.[^2]
 
 1. melléklet az 1078/2013. (II. 21.) Korm. határozathoz
 
@@ -102,4 +104,5 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1412/2013. (VII. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
