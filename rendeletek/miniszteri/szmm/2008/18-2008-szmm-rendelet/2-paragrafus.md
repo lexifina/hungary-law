@@ -12,7 +12,7 @@ d) a védőeszközzel együtt forgalomba hozott csatlakozórendszer, amely azt e
 
 (2) Az (1) bekezdésben foglaltaktól eltérően nem minősülnek védőeszköznek
 
-a) a Magyar Honvédség és a rendvédelmi szervek kötelékében szolgálatot teljesítő személyek számára kifejlesztett és gyártott védő funkciójú eszközök (pl. sisakok, pajzsok);
+a)[^2] a Magyar Honvédség és a rendvédelmi szervek, valamint az Országgyűlési Őrség kötelékében szolgálatot teljesítő személyek számára kifejlesztett és gyártott védő funkciójú eszközök (pl. sisakok, pajzsok);
 
 b) támadók elleni önvédelmi célra készült eszközök (pl. aeroszolos spray, támadásleszerelő eszközök);
 
@@ -21,3 +21,5 @@ c) magánhasználatra fejlesztett és gyártott védő funkciójú eszközök, a
 d) a hajók és légijárművek utasai részére kifejlesztett védelmi és mentőeszközök, amelyek nem állandó viselésre készültek;
 
 e) a két- vagy háromkerekű gépjárművek használói számára készült bukósisakok.
+
+[^2]: A 2. § (2) bekezdés a) pontja a 17/2013. (VI. 4.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.

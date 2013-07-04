@@ -22,4 +22,6 @@ c) a követelményeknek meg nem felelő EK-jelöléssel van ellátva,
 
 (6) A használó kérelmére a védőeszköz időszakos felülvizsgálatát a gyártó vagy bejelentett szervezet végzi el.
 
-(7) Ha az NFH a védőeszközzel kapcsolatosan külön jogszabály szerinti piacfelügyeleti intézkedést alkalmaz, erről haladéktalanul tájékoztatja az Európai Bizottságot, megjelölve az intézkedés indokait, különösen, ha a meg nem felelés oka a 3. számú melléklet szerinti alapvető követelmények be nem tartása, vagy a honosított harmonizált szabványok alkalmazása esetén ezek helytelen alkalmazása vagy hiányossága.
+(7)[^6] Ha az piacfelügyeleti hatóság a védőeszközzel kapcsolatosan külön jogszabály szerinti piacfelügyeleti intézkedést alkalmaz, erről haladéktalanul tájékoztatja az Európai Bizottságot, megjelölve az intézkedés indokait, különösen, ha a meg nem felelés oka a 3. számú melléklet szerinti alapvető követelmények be nem tartása, vagy a honosított harmonizált szabványok alkalmazása esetén ezek helytelen alkalmazása vagy hiányossága.
+
+[^6]: A 13. § (7) bekezdése a 17/2013. (VI. 4.) NGM rendelet 10. § (3) bekezdése szerint módosított szöveg.
