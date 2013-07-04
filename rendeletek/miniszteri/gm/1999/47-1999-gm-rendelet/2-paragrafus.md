@@ -16,6 +16,14 @@ I. Fejezet
 
 1.2.[^3] Nem tartozik a szabályzat hatálya alá a zárt technológiai láncba (géprendszerbe) beépített és csak a gépet kiszolgáló emelőszerkezet és azok teherfelvevő eszközei, a felvonó, az úszólétesítményeken lévő emelőgép, valamint a földmunkagép, kivéve, ha az emelőgép (daru) üzemmódban működik.
 
+1.3.[^4] Nem tartozik továbbá a szabályzat hatálya alá a kiszolgált technológiába épített vagy ahhoz telepített, és kizárólag egy meghatározott munkadarab megfogására alkalmas emelőgép 200 kg megengedett teherbírás alatt és legfeljebb 2,00 m emelési magasságig, amennyiben:
+
+– a gyártó a használati utasításában meghatározta a felülvizsgálatok rendjét és módját, és a munkáltató a felülvizsgálatot annak megfelelően végzi el,
+
+– a munkáltató igazolt módon gondoskodik a kezelő balesetmentes munkavégzéséhez szükséges oktatásáról és meggyőződik a szakmai ismeretek elsajátításáról, valamint
+
+– a munkáltató kockázatértékelése alapján gondoskodik az emelőgép veszélymentes üzemeltetéséről.
+
 2. Fogalommeghatározások
 
 2.1. Emelőgép
@@ -68,7 +76,7 @@ Aki az emelőgép tulajdonosa vagy bérbe adója, illetve aki az emelőgépet ü
 
 2.11. Teherfelvevő eszköz
 
-A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 21/1998. (IV. 17.) IKIM rendelet szerint.
+A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 21/1998. (IV. 17.) IKIM rendelet[^5] szerint.
 
 2.12. Irányító
 
@@ -130,7 +138,7 @@ Az emelőgép karbantartója köteles:
 
 4.4. az emelőgép dokumentációjába (emelőgép napló, darukönyv) bejegyezni és tanúsítani a javítás utáni vizsgálat, a karbantartás, a javítás, illetve a darun végzett bármilyen tevékenység tényét, illetőleg ha szükségesnek ítéli, akkor a további működés letiltását, vagy a működést korlátozó feltételeket;
 
-4.5.[^4] az üzemeltető részére átadni:
+4.5.[^6] az üzemeltető részére átadni:
 
 – az egyműbizonylatú, folyamatosan felhasználható anyagok, részegységek (sodronykötél, acélszerkezeti anyagok, teherviselésben részt vevő kötőelemek stb.) bizonylatainak hiteles másolatait,
 
@@ -150,13 +158,13 @@ Az emelőgép karbantartója köteles:
 
 5. Személyi feltételek
 
-5.1.[^5] Emelőgép-kezelő
+5.1.[^7] Emelőgép-kezelő
 
 Emelőgépet önállóan az a személy kezelhet, aki
 
 – 18. életévét betöltött, vagy szakmunkás,
 
-– a feladat elvégzésére a vonatkozó jogszabály[^6] szerint előzetes és időszakos orvosi vizsgálat alapján alkalmas,
+– a feladat elvégzésére a vonatkozó jogszabály[^8] szerint előzetes és időszakos orvosi vizsgálat alapján alkalmas,
 
 – rendelkezik az emelőgép kezelésére államilag elismert szakképesítéssel és a helyváltoztatásra is képes emelőgép esetében – ha azt maga vezeti – az ahhoz szükséges vezetői engedéllyel.
 
@@ -164,7 +172,7 @@ Emelőgépet önállóan az a személy kezelhet, aki
 
 Emelőgép karbantartását önállóan az a személy végezheti, aki
 
-– a feladat elvégzésére a vonatkozó jogszabály[^7] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas,
+– a feladat elvégzésére a vonatkozó jogszabály[^9] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas,
 
 – szakirányú szakmai képzettséggel (pl. lakatos vagy erősáramú végzettségű szakmunkás bizonyítvánnyal),
 
@@ -194,7 +202,7 @@ A teher felfüggesztését, felerősítését az emelőgép teherfelvevő szerke
 
 – 18. életévét betöltötte,
 
-– a feladat elvégzésére a vonatkozó jogszabály[^8] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas, és
+– a feladat elvégzésére a vonatkozó jogszabály[^10] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas, és
 
 – a munkájához szükséges szakmai és munkavédelmi ismereteket oktatás keretében, igazolható módon elsajátította.
 
@@ -204,7 +212,7 @@ A rendszeresen átszerelhető emelőgépet az a személy szerelheti fel és le, 
 
 – a gép-, illetve a működtető energiafajta szerinti (villany-, hidraulika-) szerelő szakmunkás,
 
-– a feladat elvégzésére a vonatkozó jogszabály[^9] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas,
+– a feladat elvégzésére a vonatkozó jogszabály[^11] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas,
 
 – rendelkezik az általa szerelt berendezés kezeléséhez szükséges képesítéssel, kivéve, ha az előírt képesítéssel rendelkező kezelő a szerelésnél jelen van.
 
@@ -222,17 +230,17 @@ A rendszeresen átszerelhető emelőgépet az a személy szerelheti fel és le, 
 
 – az emelőgép kezelőt, a más – általa korábban még nem kezelt – emelőgéptípus kezelése előtt.
 
-6.3.[^10] A munkavédelmi oktatásokhoz az üzemeltető munkavédelmi szakképzettséggel rendelkező személlyel tematikát készíttet, amelynek ki kell terjednie a munkahelyek, munkaeszközök, a technológia kockázataira, annak elhárítására, a vonatkozó jogszabályok betartására.
+6.3.[^12] A munkavédelmi oktatásokhoz az üzemeltető munkavédelmi szakképzettséggel rendelkező személlyel tematikát készíttet, amelynek ki kell terjednie a munkahelyek, munkaeszközök, a technológia kockázataira, annak elhárítására, a vonatkozó jogszabályok betartására.
 
 6.4. Igazolható módon meg kell győződni a munkavédelmi ismeretek elsajátításáról.
 
 7. Emelőgép vizsgálatok
 
-7.1.[^11] Az üzembe helyezést megelőző munkavédelmi szempontú előzetes vizsgálatok
+7.1.[^13] Az üzembe helyezést megelőző munkavédelmi szempontú előzetes vizsgálatok
 
-7.1.1.[^12] Az emelőgép üzembe helyezésének feltétele a munkavédelmi üzembe helyezés.
+7.1.1.[^14] Az emelőgép üzembe helyezésének feltétele a munkavédelmi üzembe helyezés.
 
-7.1.2.[^13]
+7.1.2.[^15]
 
 7.2. Időszakos vizsgálatok
 
@@ -240,7 +248,7 @@ A rendszeresen átszerelhető emelőgépet az a személy szerelheti fel és le, 
 
 7.2.2. Az időszakos biztonsági felülvizsgálatot legalább ötévenként, vagy az emelőgép környezetének megváltozásakor (pl. a kiszolgált technológia megváltozásakor) kell elvégezni, kivéve, ha a gyártó ennél rövidebb gyakoriságot ír elő.
 
-7.2.3. Az időszakos biztonsági felülvizsgálat alkalmával vizsgálni kell, hogy az emelőgép szerkezeti kialakítása, gépészeti és villamos berendezése, valamint az emelőgép biztonsági berendezései megfelelnek-e az üzembe helyezés időpontjában érvényes biztonsági és egészségvédelmi követelményeknek, eredeti funkciójának megfelelően üzemel-e, a környezetének jellemzői azonosak-e a tervezéskor és gyártáskor figyelembe vettekkel.
+7.2.3.[^16] Az időszakos biztonsági felülvizsgálat alkalmával vizsgálni kell, hogy az emelőgép szerkezeti kialakítása, gépészeti és villamos berendezése, valamint biztonsági berendezései megfelelnek-e az érvényes biztonsági és egészségvédelmi követelményeknek, az emelőgép eredeti funkciójának megfelelően üzemel-e, az emelőgép környezetének jellemzői azonosak-e a tervezéskor és gyártáskor figyelembe vettekkel.
 
 7.2.4. Az időszakos biztonsági felülvizsgálat során vizsgálni kell az emelőgép korszerűsítésének szükségességét elsősorban a veszélyek csökkentése érdekében.
 
@@ -274,7 +282,7 @@ A rendszeresen átszerelhető emelőgépet az a személy szerelheti fel és le, 
 
 – a vizsgálatot végző személy nevét, beosztását.
 
-7.2.10.[^14] Az emelőgép időszakos vizsgálatára emelőgép szakértő jogosult. Az emelőgép fővizsgálatára – kivéve az 1000 kg-nál nagyobb megengedett teherbírású emelőgépet és az olyan emelőgépet, amelynél a kezelői munkahely az emelőkocsin van, és a kocsi 1,5 m-nél magasabbra emelhető – és szerkezeti vizsgálatára emelőgép ügyintéző, csak a szerkezeti vizsgálatára emelőgép vizsgáló is jogosult.
+7.2.10.[^17] Az emelőgép időszakos vizsgálatára emelőgép szakértő jogosult. Az emelőgép fővizsgálatára – kivéve az 1000 kg-nál nagyobb megengedett teherbírású emelőgépet és az olyan emelőgépet, amelynél a kezelői munkahely az emelőkocsin van, és a kocsi 1,5 m-nél magasabbra emelhető – és szerkezeti vizsgálatára emelőgép ügyintéző, csak a szerkezeti vizsgálatára emelőgép vizsgáló is jogosult.
 
 8. Az üzemeltetésre vonatkozó szabályok
 
@@ -292,7 +300,7 @@ A rendszeresen átszerelhető emelőgépet az a személy szerelheti fel és le, 
 
 8.1.6. Ha bárki olyan rendellenességet, veszélyes helyzetet észlel, amely az élet- vagy vagyonbiztonságot veszélyezteti, akkor köteles a kezelőnek ,,Vigyázz! Azonnal állj'' jelzést adni. Ezt a kezelő köteles végrehajtani.
 
-8.1.7.[^15] Amennyiben külön jogszabály[^16] eltérően nem rendelkezik, emelőgéppel személyeket emelni csak erre a célra tervezett és tanúsított kiegészítő felszereléssel, illetve az erre az üzemmódra alkalmassá tett emelőgéppel szabad.
+8.1.7.[^18] Amennyiben külön jogszabály[^19] eltérően nem rendelkezik, emelőgéppel személyeket emelni csak erre a célra tervezett és tanúsított kiegészítő felszereléssel, illetve az erre az üzemmódra alkalmassá tett emelőgéppel szabad.
 
 8.1.8. A teher megemelése, haladása előtt és alatt a kezelő jelzésére az emelőgép hatókörzetében tartózkodó személy köteles úgy eltávolodni, hogy az emelőgép és az emelt teher őt ne veszélyeztesse, kivéve a színpadi munka esetén.
 
@@ -302,7 +310,7 @@ A rendszeresen átszerelhető emelőgépet az a személy szerelheti fel és le, 
 
 8.1.11. A kezelőnek és az irányítónak a terhet, illetőleg a kezelőnek az irányító jelzéseit a tehermozgatás egész folyamata alatt figyelemmel kell kísérnie.
 
-8.1.12.[^17] Amennyiben külön jogszabály[^18] eltérően nem rendelkezik, megemelt terhet csak olyan terület felett szabad vinni, ahol személyek nem tartózkodnak, kivéve a színpadi munkát.
+8.1.12.[^20] Amennyiben külön jogszabály[^21] eltérően nem rendelkezik, megemelt terhet csak olyan terület felett szabad vinni, ahol személyek nem tartózkodnak, kivéve a színpadi munkát.
 
 8.1.13. Amennyiben megemelt terhen vagy alatta munkát kell végezni, csak akkor szabad ha a teher tartását biztonságos alátámasztás vagy egyéb szerkezeti megoldás biztosítja (pl. önzáró menetorsó), kivéve a gépjármű szerviz- és a vasúti emelőt, valamint a színpadi tevékenységet.
 
@@ -372,7 +380,7 @@ A hangjelzések a következők legyenek:
 
 8.2.11. Nem emelhet meg az emelőgéppel olyan terhet:
 
-–[^19] amelyen személy tartózkodik, kivéve: a személy emelésére is alkalmas, illetve személytartóval rendelkező emelőgép;
+–[^22] amelyen személy tartózkodik, kivéve: a személy emelésére is alkalmas, illetve személytartóval rendelkező emelőgép;
 
 – amely tömegközéppontja emelés közben veszélyes mértékben eltolódik;
 
@@ -430,7 +438,7 @@ A hangjelzések a következők legyenek:
 
 8.3. Teherkötözésre és irányításra vonatkozó előírások
 
-8.3.1. A kötöző feladata a teherfelvevő eszköz helyes kiválasztása és alkalmazása, a terhek biztonságos felerősítése, rögzítése és – amennyiben az üzemeltető ettől eltérően nem rendelkezett – az emelőgép kezelő irányítása jelzésekkel a vonatkozó jogszabály[^20] szerint.
+8.3.1. A kötöző feladata a teherfelvevő eszköz helyes kiválasztása és alkalmazása, a terhek biztonságos felerősítése, rögzítése és – amennyiben az üzemeltető ettől eltérően nem rendelkezett – az emelőgép kezelő irányítása jelzésekkel a vonatkozó jogszabály[^23] szerint.
 
 8.3.2. A kötöző, illetőleg az irányító a teher kötözésekor és az oldásakor, valamint az emelőgép kezelő irányítása, továbbá az emelőgép minden mozgása során helyzetét úgy válassza meg, hogy a terhet állandóan figyelemmel tudja kísérni, illetőleg kapcsolatban (jelzés vagy beszéd) legyen a kezelővel.
 
@@ -488,7 +496,7 @@ Kötözőágak által bezárt szög két ágon terhelve | Teherbírás (%)
 
 8.3.14. A teherfüggesztő eszközt az emelt teher sarkainál, éleinél fellépő megtöréstől megfelelő megoldással (pl. kötélvédő saru alkalmazásával) védeni kell.
 
-8.3.15. Az irányító az emelőgép-kezelőt az emelés és szállítás műveletei alatt egyértelmű jelzésekkel köteles tájékoztatni és irányítani, a vonatkozó jogszabály[^21] szerint. A karjelzés helyettesíthető megfelelő és megbízható kétoldalú rádiókapcsolattal, kötelező visszajelzéssel.
+8.3.15. Az irányító az emelőgép-kezelőt az emelés és szállítás műveletei alatt egyértelmű jelzésekkel köteles tájékoztatni és irányítani, a vonatkozó jogszabály[^24] szerint. A karjelzés helyettesíthető megfelelő és megbízható kétoldalú rádiókapcsolattal, kötelező visszajelzéssel.
 
 8.3.16. Az irányító a teher megemelésére jelzést csak akkor adhat, ha:
 
@@ -612,15 +620,15 @@ Kötözőágak által bezárt szög két ágon terhelve | Teherbírás (%)
 
 8.5.3. Ha indokolt, az emelőgép mozgás területét, kinyúlását úgy kell behatárolni vagy ellenirányban villamosan reteszelni, hogy a közterület veszélyeztetése ki legyen zárva.
 
-8.5.4. 15 m emelőmagasságig az emelőgép munkatere kerettel (fa- vagy acélszerkezet) is behatárolható, ha a munkaterület legalább kétharmada ezen belül van. Az elkerítést a vonatkozó jogszabály[^22] szerinti színjelöléssel és sötétben megfelelő világítással kell ellátni.
+8.5.4. 15 m emelőmagasságig az emelőgép munkatere kerettel (fa- vagy acélszerkezet) is behatárolható, ha a munkaterület legalább kétharmada ezen belül van. Az elkerítést a vonatkozó jogszabály[^25] szerinti színjelöléssel és sötétben megfelelő világítással kell ellátni.
 
-8.6.[^23] A nagy- és kisfeszültségű föld feletti szabadvezeték közelében végzett emelés.
+8.6.[^26] A nagy- és kisfeszültségű föld feletti szabadvezeték közelében végzett emelés.
 
-8.6.1.[^24] A nagy- és kisfeszültségű föld feletti szabadvezeték közelében üzemeltetett emelőgépnél a vezetékeket feszültségmentesíteni kell. Ha ez nem lehetséges, akkor a külön jogszabályban[^25] feszültségszinttől függően meghatározott biztonsági távolságot kell biztosítani.
+8.6.1.[^27] A nagy- és kisfeszültségű föld feletti szabadvezeték közelében üzemeltetett emelőgépnél a vezetékeket feszültségmentesíteni kell. Ha ez nem lehetséges, akkor a külön jogszabályban[^28] feszültségszinttől függően meghatározott biztonsági távolságot kell biztosítani.
 
 A vonatkozó jogszabályban foglaltakon túl a telepítés, üzemeltetés megkezdése előtt ki kell kérni a vezeték kezelőjének (áramszolgáltató) írásbeli nyilatkozatát is a feszültség nagyságáról és a biztonsági távolságról.
 
-8.6.2.[^26] Amennyiben az emelőgép magassága a 4 métert meghaladja és a vezeték szakasz nem feszültségmentesíthető, az emelési utasításban rögzíteni kell:
+8.6.2.[^29] Amennyiben az emelőgép magassága a 4 métert meghaladja és a vezeték szakasz nem feszültségmentesíthető, az emelési utasításban rögzíteni kell:
 
 – hogy a legkisebb biztonsági távolság határára jelzőőrt kell állítani,
 
@@ -632,19 +640,19 @@ A vonatkozó jogszabályban foglaltakon túl a telepítés, üzemeltetés megkez
 
 A jelzőőrt egyéb feladattal megbízni nem szabad.
 
-8.6.3.[^27] A nagy- és kisfeszültségű föld feletti szabadvezeték veszélyes közelébe telepített, illetőleg üzemeltetett emelőgép kezelőjével és a kötöző, irányító személyzettel a munkálatok megkezdése előtt a biztonságos munkavégzés feltételeit el kell sajátíttatni, ellenőrizhető módon.
+8.6.3.[^30] A nagy- és kisfeszültségű föld feletti szabadvezeték veszélyes közelébe telepített, illetőleg üzemeltetett emelőgép kezelőjével és a kötöző, irányító személyzettel a munkálatok megkezdése előtt a biztonságos munkavégzés feltételeit el kell sajátíttatni, ellenőrizhető módon.
 
-8.6.4.[^28] Ha az emelőgép vagy valamelyik része érintkezésbe kerül a feszültség alatt álló erősáramú szabadvezetékkel, akkor az emelőgép-kezelő:
+8.6.4.[^31] Ha az emelőgép vagy valamelyik része érintkezésbe kerül a feszültség alatt álló erősáramú szabadvezetékkel, akkor az emelőgép-kezelő:
 
 – adjon hangjelzést, amely az ott tartózkodó személyek figyelmét felhívja a veszélyhelyzetre,
 
 – kísérelje meg az emelőgépet eltávolítani a vezetéktől, vagy kérjen intézkedést a vezeték feszültségmentesítésére,
 
-– csak a biztonsági előírások betartásával hagyja el az emelőgépet úgy, hogy egyszerre ne kerüljön kapcsolatba az emelőgép fém részével, valamint a talajjal.[^29]
+– csak a biztonsági előírások betartásával hagyja el az emelőgépet úgy, hogy egyszerre ne kerüljön kapcsolatba az emelőgép fém részével, valamint a talajjal.[^32]
 
 Ebben az esetben az ott tartózkodó személyek kötelesek a veszélyes teret elhagyni.
 
-8.6.5.–8.6.6.[^30]
+8.6.5.–8.6.6.[^33]
 
 8.7. Egyéb különleges emelési műveletek
 
@@ -862,7 +870,7 @@ Darut önállóan az a személy kezelhet, aki
 
 – kohászati daru esetén 22. életévét betöltötte, és
 
-– a feladat elvégzésére a vonatkozó jogszabály[^31] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas, és
+– a feladat elvégzésére a vonatkozó jogszabály[^34] szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas, és
 
 – rendelkezik az előírt képesítéssel.
 
@@ -1000,7 +1008,7 @@ Darut önállóan az a személy kezelhet, aki
 
 – rendelkezik ehhez az üzemmódhoz szükséges speciális teherfelvevő eszközökkel;
 
-– megfelel a vonatkozó közlekedésbiztonsági előírásoknak;[^32]
+– megfelel a vonatkozó közlekedésbiztonsági előírásoknak;[^35]
 
 – vizsgálatára az akkreditált laboratórium ellenőrzése kiterjedt.
 
@@ -1178,9 +1186,9 @@ Ha terhet rakományról kell levenni, a műveleteket fordított sorrendben kell 
 
 3.3.2. Személyek emelése
 
-3.3.2.1.[^33] Amennyiben külön jogszabály eltérően nem rendelkezik csak olyan térben szabad a személytartóval személyeket magasba emelni, ahol a nagy- és kisfeszültségű föld feletti szabadvezetékre történő ráhaladás kizárt, és a személytartóban lévő kezelőnek szabad manipulációs lehetősége van a kosárral elérendő hely környezetében.
+3.3.2.1.[^36] Amennyiben külön jogszabály eltérően nem rendelkezik csak olyan térben szabad a személytartóval személyeket magasba emelni, ahol a nagy- és kisfeszültségű föld feletti szabadvezetékre történő ráhaladás kizárt, és a személytartóban lévő kezelőnek szabad manipulációs lehetősége van a kosárral elérendő hely környezetében.
 
-3.3.2.2.[^34] Amennyiben külön jogszabály[^35] eltérően nem rendelkezik nagyfeszültségű föld feletti szabadvezeték közelében a biztonsági övezeten belül tilos az emelőberendezést személyemelésre felhasználni.
+3.3.2.2.[^37] Amennyiben külön jogszabály[^38] eltérően nem rendelkezik nagyfeszültségű föld feletti szabadvezeték közelében a biztonsági övezeten belül tilos az emelőberendezést személyemelésre felhasználni.
 
 3.3.2.3. A személytartóban tartózkodók az irányító és a kezelő, valamint a talajszinten tartózkodók között egyezményes jelzésrendszert kell kialakítani. Ezt minden érintett személlyel el kell sajátíttatni. A vészjeladás és vészleállítás módját minden érintett személynek ismerni kell.
 
@@ -1527,35 +1535,38 @@ egyéb emelőszerkezetekre
 [^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 11. §-ának 32. pontja hatályon kívül helyezte.
 [^2]: A melléklet I. Fejezetének 1.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
 [^3]: A melléklet I. Fejezetének 1.2. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^4]: A melléklet I. Fejezetének 4.5. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^5]: A melléklet I. Fejezetének 5.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^6]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet.
-[^7]: 33/1998. (VI. 24.) NM rendelet.
-[^8]: 33/1998. (VI. 24.) NM rendelet.
+[^4]: A melléklet I. fejezet 1. alcím 1.3. pontját a 17/2013. (VI. 4.) NGM rendelet 11. § (1) bekezdése iktatta be.
+[^5]: A 21/1998. (IV. 17.) IKIM rendeletet a 16/2008. (VIII. 30.) NFGM rendelet hatályon kívül helyezte 2009. december 29. napjával.
+[^6]: A melléklet I. Fejezetének 4.5. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^7]: A melléklet I. Fejezetének 5.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^8]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet.
 [^9]: 33/1998. (VI. 24.) NM rendelet.
-[^10]: A melléklet I. Fejezetének 6.3. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^11]: A melléklet I. Fejezetének 7.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^12]: A melléklet I. Fejezetének 7.1.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^13]: A melléklet I. fejezetének 7.1.2. alpontját a 135/2004. (XII. 16.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.
-[^14]: A melléklet I. Fejezetének 7.2.10. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^15]: A melléklet I. Fejezetének 8.1.7. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^16]: A munkaeszközök és használatuk biztonsági és egészségügyi követelményeinek minimális szintjéről szóló 14/2004. (IV. 19.) FMM rendelet.
-[^17]: A melléklet I. Fejezetének 8.1.12. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^18]: A munkaeszközök és használatuk biztonsági és egészségügyi követelményeinek minimális szintjéről szóló 14/2004. (IV. 19.) FMM rendelet.
-[^19]: A melléklet I. Fejezete 8.2.11. alpontjának első francia bekezdése a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^20]: 2/1988. (I. 16.) MüM rendelet.
-[^21]: 2/1988. (I. 16.) MüM rendelet.
-[^22]: 2/1988. (I. 16.) MüM rendelet.
-[^23]: A melléklet I. Fejezetének 8.6. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^24]: A melléklet I. Fejezetének 8.6.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^25]: A villamosmű biztonsági övezetéről szóló 122/2004. (X. 15.) GKM rendelet 14. § (2) bekezdés d) pont.
-[^26]: A melléklet I. Fejezetének 8.6.2. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^27]: A melléklet I. Fejezetének 8.6.3. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^28]: A melléklet I. Fejezetének 8.6.4. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^29]: A Feszültség Alatti Munkavégzés Biztonsági Szabályzat kiadásáról szóló 72/2003. (X. 29.) GKM rendelet.
-[^30]: A melléklet I. fejezetének 8.6.5–8.6.6. alpontját a 135/2004. (XII. 16.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.
-[^31]: 33/1998. (VI. 24.) NM rendelet.
-[^32]: 6/1990. (IV. 12.) KöHÉM rendelet.
-[^33]: A melléklet III. Fejezetének 3.3.2.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^34]: A melléklet III. Fejezetének 3.3.2.2. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^35]: A Feszültség Alatti Munkavégzés Biztonsági Szabályzat kiadásáról szóló 72/2003. (X. 29.) GKM rendelet.
+[^10]: 33/1998. (VI. 24.) NM rendelet.
+[^11]: 33/1998. (VI. 24.) NM rendelet.
+[^12]: A melléklet I. Fejezetének 6.3. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^13]: A melléklet I. Fejezetének 7.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^14]: A melléklet I. Fejezetének 7.1.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^15]: A melléklet I. fejezetének 7.1.2. alpontját a 135/2004. (XII. 16.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^16]: A melléklet I. fejezet 7. alcím 7.2.3. pontja a 17/2013. (VI. 4.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^17]: A melléklet I. Fejezetének 7.2.10. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^18]: A melléklet I. Fejezetének 8.1.7. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^19]: A munkaeszközök és használatuk biztonsági és egészségügyi követelményeinek minimális szintjéről szóló 14/2004. (IV. 19.) FMM rendelet.
+[^20]: A melléklet I. Fejezetének 8.1.12. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^21]: A munkaeszközök és használatuk biztonsági és egészségügyi követelményeinek minimális szintjéről szóló 14/2004. (IV. 19.) FMM rendelet.
+[^22]: A melléklet I. Fejezete 8.2.11. alpontjának első francia bekezdése a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^23]: 2/1988. (I. 16.) MüM rendelet.
+[^24]: 2/1988. (I. 16.) MüM rendelet.
+[^25]: 2/1988. (I. 16.) MüM rendelet.
+[^26]: A melléklet I. Fejezetének 8.6. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^27]: A melléklet I. Fejezetének 8.6.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^28]: A villamosmű biztonsági övezetéről szóló 122/2004. (X. 15.) GKM rendelet 14. § (2) bekezdés d) pont.
+[^29]: A melléklet I. Fejezetének 8.6.2. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^30]: A melléklet I. Fejezetének 8.6.3. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^31]: A melléklet I. Fejezetének 8.6.4. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^32]: A Feszültség Alatti Munkavégzés Biztonsági Szabályzat kiadásáról szóló 72/2003. (X. 29.) GKM rendelet.
+[^33]: A melléklet I. fejezetének 8.6.5–8.6.6. alpontját a 135/2004. (XII. 16.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^34]: 33/1998. (VI. 24.) NM rendelet.
+[^35]: 6/1990. (IV. 12.) KöHÉM rendelet.
+[^36]: A melléklet III. Fejezetének 3.3.2.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^37]: A melléklet III. Fejezetének 3.3.2.2. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^38]: A Feszültség Alatti Munkavégzés Biztonsági Szabályzat kiadásáról szóló 72/2003. (X. 29.) GKM rendelet.
