@@ -58,14 +58,6 @@ Határidő: azonnal
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
-10. A H.
+10.[^1]
 
-a) 2. pont c) alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány a kormánybiztos feladatkörébe utalja az alábbi beruházások előkészítését és megvalósításuk irányítását:)
-
-„c) a Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ megvalósítása;”
-
-b) 6. pontja helyébe a következő rendelkezés lép:
-
-„6. A kormánybiztos tevékenységét a Miniszterelnökség keretében működő hét fős titkárság segíti. A Miniszterelnökség mindenkori engedélyezett belföldi létszáma a kormánybiztos megbízatásának időtartamára 2 fővel emelkedik.”
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
