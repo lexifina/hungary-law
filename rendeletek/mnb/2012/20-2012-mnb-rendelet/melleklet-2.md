@@ -284,7 +284,7 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatás |
 
-2. melléklet a 20/2012. (X. 15.) MNB rendelethez[^7]
+2. melléklet a 20/2012. (X. 15.) MNB rendelethez[^8]
 
 I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -1934,4 +1934,4 @@ A2 tábla: DEVIZAÜGYLETEK 1
 
 | Forgalom névleges értéken 2013. áprilisában | Negatív értékek és nem numerikus adatok nem megengedettek! | (millió USD-ben) |
 
-[^7]: A 2. melléklet a 8/2013. (V. 27.) MNB rendelet 4. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 8/2013. (V. 27.) MNB rendelet 4. §-a szerint módosított szöveg.
