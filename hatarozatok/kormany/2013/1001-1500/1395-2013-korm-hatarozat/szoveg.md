@@ -20,4 +20,6 @@ c) közreműködik a sport területét érintő jogszabályok véleményezéséb
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5. Hatályát veszti a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1149/2011. (V. 18.) Korm. határozat.
+5.[^2]
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
