@@ -18,19 +18,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1078/2013. (II. 21.) Korm. határozat 1. pontjában
-
-## a) a „Kalocsai Nagyboldogasszony Főszékesegyház és Érseki Kincstár” szövegrész helyébe a „Kalocsai Nagyboldogasszony Főszékesegyház, Érseki Kastély, Huber ház – Paprika Múzeum – Étterem, Szentháromság szobor és Szentháromság tér” szöveg,
-
-## b) a „Határidő: 2013. december 20.” szövegrész helyébe a
-
-## „Határidő: a Kálvin téri református templom felújítása kapcsán: 2013. december 20.;
-
-## a Kalocsai Nagyboldogasszony Főszékesegyház, Érseki Kastély, Huber ház – Paprika Múzeum – Étterem, Szentháromság szobor és Szentháromság tér felújítása kapcsán: 2014. május 30.” szöveg
-
-## lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1042/2013. (II. 1.) Korm. határozatban a „hatékony marketing tevékenységére” szövegrész helyébe a „Magyarország turisztikai attrakcióinak népszerűsítését elősegítő hatékony marketingkommunikációs tevékenységének, valamint belföldön megvalósuló nemzetközi és országos hatókörű, turisztikai vonzerővel bíró rendezvények támogatására” szöveg lép.
+## 2–3.[^1]
 
 1. melléklet az 1412/2013. (VII. 3.) Korm. határozathoz
 
@@ -121,3 +109,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
