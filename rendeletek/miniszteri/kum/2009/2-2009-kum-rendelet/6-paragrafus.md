@@ -1,26 +1,26 @@
-## 5. § Az elismerések pénzügyi fedezetét a Külügyminisztérium fejezeti költségvetésben kell biztosítani.
+## 5. §[^8] Az elismerések pénzügyi fedezetét a Külügyminisztérium központi igazgatása cím költségvetésében kell biztosítani.
 
 6. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^1]
+(2)–(3)[^9]
 
 Melléklet a 2/2009. (III. 10.) KüM rendelethez
 
-I. „Magyar Köztársaság Nemzetközi Kapcsolataiért” elismerés
+I. „Magyarország Nemzetközi Kapcsolataiért” elismerés[^10]
 
-1. A Magyar Köztársaság külpolitikai érdekeinek érvényesítésében, a magyar diplomáciai és konzuli szolgálat működésének fejlesztésében, az euro-atlanti integráció elmélyítésében, illetve a Magyar Köztársaság és egyes külállamok kétoldalú kapcsolatai fejlesztésének valamely területén kiemelkedő tevékenységet végzett személyek elismeréséért adományozható.
+1.[^11] A Magyarország külpolitikai érdekeinek érvényesítésében, a magyar diplomáciai és konzuli szolgálat működésének fejlesztésében, az euro-atlanti integráció elmélyítésében, illetve a Magyarország és egyes külállamok kétoldalú kapcsolatai fejlesztésének valamely területén kiemelkedő tevékenységet végzett személyek elismeréséért adományozható.
 
 2. Az elismerés évente legfeljebb 3 fő részére adományozható.
 
 3. Az elismerés átadására minden évben augusztus 24-én, a Lánchíd 1842. évi alapkőtételi ünnepségének évfordulóján kerül sor.
 
-4. A kitüntetett elismerő oklevelet és kisplasztikát kap.
+4.[^12] A kitüntetett elismerő oklevelet és kisplasztikát kap.
 
-A Lánchidat formázó, bronzból készült, 15 cm hosszúságú kisplasztika 20 cm átmérőjű fehér márvány alapzaton áll, az alapzaton – A Magyar Köztársaság külügyminiszterétől – A Magyar Köztársaság Nemzetközi Kapcsolataiért – vésett felirattal. A kisplasztikát Erőss Ildikó szobrászművész tervezte.
+A Lánchidat formázó, bronzból készült, 15 cm hosszúságú kisplasztika 20 cm átmérőjű fehér márvány alapzaton áll, az alapzaton – A Magyarország külügyminiszterétől – A Magyarország Nemzetközi Kapcsolataiért – vésett felirattal. A kisplasztikát Erőss Ildikó szobrászművész tervezte.
 
 II. „Európai Magyarországért” elismerés
 
-1. A hosszú időn keresztül kiemelkedő, rendkívüli teljesítményükkel hazánk európai integrációját elősegítő, illetve a Magyar Köztársaság sikeres, az ország és állampolgárai érdekeit támogató európai uniós tagsághoz, valamint a tagságból fakadó feladatok teljesítéséhez hozzájáruló személyek elismeréséért adományozható.
+1.[^13] A hosszú időn keresztül kiemelkedő, rendkívüli teljesítményükkel hazánk európai integrációját elősegítő, illetve a Magyarország sikeres, az ország és állampolgárai érdekeit támogató európai uniós tagsághoz, valamint a tagságból fakadó feladatok teljesítéséhez hozzájáruló személyek elismeréséért adományozható.
 
 2. Az elismerés évente 5 fő részére adományozható.
 
@@ -30,7 +30,7 @@ II. „Európai Magyarországért” elismerés
 
 III. „Magyarországért Európában” elismerés
 
-1. A hosszú időn keresztül kiemelkedő, rendkívüli teljesítményükkel hazánk európai integrációját elősegítő, illetve a Magyar Köztársaság sikeres, az ország és állampolgárai érdekeit támogató európai uniós tagsághoz, valamint a tagságból fakadó feladatok teljesítéséhez hozzájáruló személyek elismeréséért adományozható.
+1.[^14] A hosszú időn keresztül kiemelkedő, rendkívüli teljesítményükkel hazánk európai integrációját elősegítő, illetve a Magyarország sikeres, az ország és állampolgárai érdekeit támogató európai uniós tagsághoz, valamint a tagságból fakadó feladatok teljesítéséhez hozzájáruló személyek elismeréséért adományozható.
 
 2. Az elismerés évente 5 fő részére adományozható.
 
@@ -44,7 +44,7 @@ IV. „Magyar Külügyek Szolgálatáért” érdemérem
 
 2. Az elismerés évente 10 fő részére adományozható.
 
-3. Az elismerés átadására minden évben, az október 23-ai nemzeti ünnep alkalmából kerül sor.
+3.[^15]
 
 4. Az elismerés díszdobozban elhelyezett ezüst érdemérem, melyhez sorszámozott adományozó okirat jár.
 
@@ -52,7 +52,7 @@ Az érdemérem előlapján gróf Andrássy Gyula mellképe látható, valamint k
 
 V. „Pro auxilio civium Hungarorum” emlékérem
 
-1. A magyar állampolgárok védelméért a Magyar Köztársaság kinevezett tiszteletbeli konzuli tisztviselőjének megszakítás nélkül tíz éve eredményesen tevékenykedő, továbbá a magyar állampolgárok érdekében kimagasló tettet végrehajtó magyar tiszteletbeli vagy hivatásos konzuli tisztviselő elismeréséért adományozható.
+1.[^16] A magyar külügyminiszter által kinevezett és a magyar állampolgárok védelméért megszakítás nélkül tíz éve eredményesen tevékenykedő tiszteletbeli konzuli tisztviselő, továbbá a magyar állampolgárok érdekében kimagasló tettet végrehajtó magyar tiszteletbeli vagy hivatásos konzuli tisztviselő elismeréséért adományozható.
 
 2. Az elismerés évente 5 fő részére adományozható.
 
@@ -69,6 +69,16 @@ VI. „Pro Patria Hungarica” emlékérem
 3. A kitüntetett emlékérmet és igazoló okiratot kap.
 
 Az emlékérem kerek alakú, bronzból készült, átmérője 125, vastagsága 12 milliméter. Az emlékérem egyik oldalát Szent István kardjának másolatát ábrázoló kép és a „Pro Patria Hungarica” felirat díszíti. Az emlékérmet Török Richárd tervezte.
+
+VII. „Külügyi Újságírói Nívódíj”[^17]
+
+1. A külpolitikai újságírásban kimagasló teljesítményt nyújtó újságírónak, szerkesztőségnek, médiumnak adományozható.
+
+2. Évente legfeljebb 3 elismerés adományozható.
+
+3. A kitüntetett üvegplasztikát és igazoló okiratot kap.
+
+Az átlátszó üvegplasztikát, mely hasáb alakú, alapja 670x670 mm-es négyzet, magassága 1870 mm, „A Magyar Külügyminisztérium Újságírói Nívódíja” felirat díszíti. Az optikai üveg hasáb felső 8 mm-e nemzeti színű. Az üvegplasztikát Botos Péter üvegművész tervezte.
 
 Függelék a 2/2009. (III. 10.) KüM rendelethez
 
@@ -148,4 +158,13 @@ részéről
 
 Jan Kubis s. k.
 
-[^1]: A 6. § (2)–(3) bekezdése a (3) bekezdés alapján hatályát vesztette.
+[^8]: Az 5. § az 1/2013. (VI. 26.) KüM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^9]: A 6. § (2)–(3) bekezdése a (3) bekezdés alapján hatályát vesztette.
+[^10]: A melléklet I. pont címe az 1/2013. (VI. 26.) KüM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^11]: A melléklet I. pont 1. alpontja az 1/2013. (VI. 26.) KüM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^12]: A melléklet I. pont 4. alpontja az 1/2013. (VI. 26.) KüM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^13]: A melléklet II. pont 1. alpontja az 1/2013. (VI. 26.) KüM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^14]: A melléklet III. pont 1. alpontja az 1/2013. (VI. 26.) KüM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^15]: A melléklet IV. pont 3. alponját az 1/2013. (VI. 26.) KüM rendelet 3. §-a hatályon kívül helyezte.
+[^16]: A melléklet V. pont 1. alpontja az 1/2013. (VI. 26.) KüM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^17]: A melléklet VII. pontját az 1/2013. (VI. 26.) KüM rendelet 1. § (5) bekezdése iktatta be.
