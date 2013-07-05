@@ -1,0 +1,3 @@
+36. § Az Eht. a következő 165. §-sal egészül ki:
+
+„165. § E törvénynek a Módtv.-vel megállapított eljárási rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.”
