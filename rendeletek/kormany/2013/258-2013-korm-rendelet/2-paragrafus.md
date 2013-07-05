@@ -1,0 +1,1 @@
+## 1. § A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján a Magtárház Kikötő Korlátolt Felelősségű Társaság „felszámolás alatt” gazdasági társaságot (székhelye: 1012 Budapest, Várfok utca 7. I. em. 1.; cégjegyzékszáma: 01-09-938277) stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősíti.
