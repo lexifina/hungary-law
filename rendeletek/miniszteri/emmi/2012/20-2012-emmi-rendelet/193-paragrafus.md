@@ -36,6 +36,9 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (14) E rendelet hatálybalépésekor működő nevelési-oktatási intézmények esetében a fenntartónak, működtetőnek 2013. május 31-éig kell eleget tennie a 2. mellékletben meghatározott követelményeknek.
 
+(15)[^113] Ha az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetében az oktatásért felelős miniszter 2013. május 31-ig döntött a fenntartói jog átadásával, a köznevelési intézmény átalakításával kapcsolatban, és az újonnan létrehozott köznevelési intézménynek a 2013/2014. tanévben történő működéséhez működési engedélyre van szüksége, a működési engedély iránti kérelem a köznevelési intézmény székhelye szerint illetékes kormányhivatalhoz 2013. július 15-ig nyújtható be.
+
 [^110]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
 [^111]: A 193. § (10) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
 [^112]: A 193. § (11) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
+[^113]: A 193. § (15) bekezdését a 47/2013. (VII. 4.) EMMI rendelet 12. §-a iktatta be.
