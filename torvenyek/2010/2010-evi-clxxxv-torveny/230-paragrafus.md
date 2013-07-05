@@ -1,3 +1,0 @@
-## VII. Fejezet
-
-## AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS

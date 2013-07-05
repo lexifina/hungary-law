@@ -6,4 +6,4 @@
 
 (4) Az (1)–(3) bekezdésben foglaltak teljesítését hivatalból vagy kérelemre a Hivatal ellenőrzi.
 
-(5) A (3)–(4) bekezdésben foglaltak teljesítését hivatalból vagy kérelemre a Hivatal ellenőrzi.
+(5) Az (1)–(3) bekezdés szerinti továbbítási kötelezettség a helyi vagy körzeti vételkörzetű, földfelszíni műsorszórás révén megvalósított műsorterjesztési szolgáltatást nyújtó műsorterjesztőt e szolgáltatása tekintetében nem terheli.
