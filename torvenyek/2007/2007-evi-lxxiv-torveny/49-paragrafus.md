@@ -1,1 +1,1 @@
-49–52. §
+49. § E törvénynek a helyi és körzeti televíziók digitális átállásának biztosítása érdekében szükséges és egyes hírközléssel összefüggő törvénymódosításokról szóló 2013. évi CXXI. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.

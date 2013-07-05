@@ -1,4 +1,4 @@
-41. § (1) A 40. §-ban foglaltak szerint előzetesen elfogadott pályázati kiírási dokumentáció alapján a pályázatról a Hatóság honlapján hirdetményt, két országos napilapban felhívást tesz közzé.
+41. § (1) A pályázatról a Hatóság honlapján hirdetményt, két országos napilapban felhívást tesz közzé.
 
 (2) A pályázati kiírási dokumentáció nyilvántartásba vétel mellett elektronikus formában a Hatóság honlapjáról ingyenesen letölthető, nyomtatott formában költségtérítés ellenében szerezhető be a Hatóság székhelyén.
 
@@ -12,6 +12,6 @@
 
 (7) A Hatóság a konzultációs észrevételekről összefoglalót készít, amelyet a honlapján közzétesz.
 
-(8) A Hatóság a konzultációs észrevételek alapján a hirdetmény megjelenését követő harminc napon belül véglegesíti a pályázati kiírási dokumentációt, amelyet a Bizottság számára állásfoglalás kérés céljából megküld.
+(8) A Hatóság a konzultációs észrevételek alapján a hirdetmény megjelenését követő harminc napon belül véglegesíti a pályázati kiírási dokumentációt.
 
-(9) A Bizottság az állásfoglalása meghozatala során a 40. § (6) bekezdésében foglaltak szerint jár el (végleges elfogadás).
+(9)

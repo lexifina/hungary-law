@@ -1,14 +1,14 @@
-## Pályázati eljárás
+## Az országos vételkörzetű digitális műsorszóró hálózat üzemeltetési jogosultságának elnyerésére vonatkozó pályázati eljárás
 
-39. § (1) A digitális rádió és televízió műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (a továbbiakban: pályázati eljárás) a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell a 39–43. §-okban foglalt eltéréssel megfelelően alkalmazni.
+39. § (1) Az országos digitális rádió- és televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (a 39–43. § alkalmazásában a továbbiakban: pályázati eljárás) a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell a 39–43. §-ban foglalt eltéréssel megfelelően alkalmazni. Az országos pályázati eljárásra a 43/A–43/K. §-ban foglaltak megfelelően alkalmazandóak.
 
 (2) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazza:
 
-a) a 43. § (1) bekezdésében foglalt pályázat esetében az Mttv. 84. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatók audiovizuális és rádiós médiaszolgáltatásainak kötelező továbbítását,
+a)
 
 b) az állampolgárok tájékozódását szolgáló, e törvény hatálybalépésekor legalább négy éve működő, legalább két, hír-, illetve közéleti tartalmú műsorokat szolgáltató televíziós médiaszolgáltatóval és a legalább három éve működő, országos rádió közösségi médiaszolgáltatókkal szemben fennálló, a legnagyobb lakossági eléréssel rendelkező hálózaton és a televíziós médiaszolgáltatók esetében mobilvételű digitális televízió műsorszóró hálózaton történő műsorterjesztésre vonatkozó szerződéskötési kötelezettséget és részletes szabályait,
 
-c) legfeljebb négy általános tematikájú országos médiaszolgáltatóval szemben fennálló, műsorterjesztésre vonatkozó szerződéskötési kötelezettséget, amely a jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító médiaszolgáltatók esetében akkor alkalmazható, ha erről kötelezettségvállaló nyilatkozatot tesznek, és a szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik,
+c) legfeljebb négy általános tematikájú országos médiaszolgáltatóval szemben fennálló, műsorterjesztésre vonatkozó szerződéskötési kötelezettséget,
 
 d) a pályázaton elnyerhető digitális műsorszóró hálózat, illetve műsorszóró adó műszaki és ellátottsági jellemzőit,
 
@@ -46,7 +46,7 @@ g) a felhasználók és előfizetők tájékoztatásában, valamint digitális v
 
 h) az érintett országos analóg földfelszíni televíziós sugárzás előrehozott lekapcsolásában való közreműködésre vonatkozó, a (2) bekezdés h) pontja szerinti feltételnél kedvezőbb vállalásokat.
 
-(4) A pályázati kiírási dokumentáció, a 43. § (2) bekezdésében foglalt pályázat kivételével, a (2) és (3) bekezdésben, valamint az Mttv. 9–11. §-aiban meghatározottakon túl további műsortartalmi feltételeket és értékelési szempontokat nem tartalmazhat.
+(4) A pályázati kiírási dokumentáció a (2) és (3) bekezdésben, valamint az Mttv. 9–11. §-ában meghatározottakon túl további műsortartalmi feltételeket és értékelési szempontokat nem tartalmazhat.
 
 (5) A digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó pályázaton – kivéve a kizárólag mobil vételű digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó a 43. § (3) bekezdésében foglalt pályázatot – nem vehet részt olyan vállalkozás, vagy a vállalkozással irányítási viszonyban álló vállalkozás, amely
 
@@ -54,8 +54,8 @@ a) előfizetőinek összesített száma a televíziós műsorterjesztési piacok
 
 b) az Mttv. hatálya alá tartozó, elsősorban Magyarország területére irányuló médiaszolgáltatást végez.
 
-(6) A 43. § (2) bekezdésében foglalt pályázaton nem vehet részt országos rádiós médiaszolgáltató, vagy azzal irányítási viszonyban álló vállalkozás, kivéve az Mttv. szerinti közszolgálati rádiós médiaszolgáltatót, valamint országos közösségi médiaszolgáltatót.
+(6)
 
 (7) A pályázaton egyidejűleg nem vehetnek részt olyan természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok vagy egyéb szervezetek, amelyek egymással irányítási viszonyban állnak.
 
-(8) Amennyiben a jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a (2) bekezdés c) pontjában foglalt lehetőséggel nem élnek, a nyertes digitális műsorszóró hálózat üzemeltetője a rendelkezésre álló átviteli kapacitások vonatkozásában szabadon köthet szerződést más általános tematikájú országos médiaszolgáltatóval. A jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a 43. § (1) bekezdésében foglalt pályázaton értékesített bármely digitális műsorszóró hálózatra abban az esetben kerülhetnek fel, ha szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik.
+(8)

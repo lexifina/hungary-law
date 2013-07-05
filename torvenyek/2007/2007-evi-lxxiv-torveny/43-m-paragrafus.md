@@ -2,10 +2,6 @@
 
 (2) Az (1) bekezdés alkalmazásában közfeladatnak az alábbiak minősülnek:
 
-a) az Alaptörvénynek megfelelően kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos műsorterjesztés,
+a) a kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos műsorterjesztés,
 
-b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek műsorterjesztésen keresztüli szolgálata,
-
-c) valamely közösség kultúrájának műsorterjesztésen keresztüli megőrzése, védelme és támogatása, vagy
-
-d) a nemzetiségi nyelv műsorterjesztésen keresztüli ápolása.
+b) a valamely közösség speciális oktatási, kulturális, tájékoztatási vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek műsorterjesztésen keresztüli szolgálata.

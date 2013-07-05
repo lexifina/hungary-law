@@ -14,7 +14,7 @@ c) az a) pont szerinti hálózaton műsorterjesztési szolgáltatás, kiegészí
 
 (4) az Mttv. 1. §-ában meghatározott feltételek alapján magyar joghatóság alá tartozó, digitális műsorszóró hálózaton, illetve műsorszóró adón nyújtott médiaszolgáltatás az Mttv. 42. §-a szerinti nyilvántartásba vétel alapján kezdhető meg. Nincs szükség újabb nyilvántartásba vételre a hatályos műsorszolgáltatási szerződés alapján szolgáltatott műsorok, illetve a kizárólag műsorelosztó rendszer segítségével végzett médiaszolgáltatás digitális műsorszóró hálózaton történő egyidejű terjesztéséhez.
 
-(5) A digitális műsorszóró hálózat üzemeltetőjét az Mttv.-ben, illetve az (1) bekezdés szerinti pályázat során meghatározott továbbítási, illetve szerződéskötési kötelezettség terheli. A digitális műsorszóró adó üzemeltetőjét az (1) bekezdés szerinti pályázat során meghatározott továbbítási és szerződéskötési kötelezettség terheli.
+(5) Az országos digitális műsorszóró hálózat üzemeltetőjét az Mttv.-ben, illetve az (1) bekezdés szerinti pályázat során meghatározott továbbítási, illetve szerződéskötési kötelezettség terheli. A helyi és körzeti vételkörzetű digitális műsorszóró adó vagy műsorszóró hálózat üzemeltetőjét az (1) bekezdés szerinti pályázat során meghatározott továbbítási és szerződéskötési kötelezettség terheli.
 
 (6) A digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetője kizárólag a rendelkezésre álló adatátviteli kapacitás műsorterjesztésre le nem kötött hányadát jogosult – ebben a sorrendben – kiegészítő médiaszolgáltatás, és/vagy elektronikus hírközlési szolgáltatás céljára használni, illetve más számára ilyen szolgáltatás nyújtása céljából a fennmaradó szabad kapacitás használatára átengedni.
 
