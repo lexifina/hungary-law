@@ -1,0 +1,674 @@
+## 1. A Kormány
+
+## a) megtárgyalta és elfogadta az 1. mellékletben foglalt Befektetés a jövőbe Nemzeti Kutatás-fejlesztési és Innovációs Stratégiát (2013–2020) (a továbbiakban: KFI Stratégia) és a 2. mellékletben foglalt, a Nemzeti Kutatás-fejlesztési és Innovációs Stratégia (2013–2020) végrehajtásának 2013–2014. évi intézkedési tervét;
+
+## b) felhívja a kutatás-fejlesztésért és technológiai innovációért felelős minisztert és a Miniszterelnökséget vezető államtitkárt, hogy a 2014–2020 közötti európai uniós fejlesztési források felhasználásának tervezésével és intézményrendszerének kialakításával összefüggő aktuális feladatok teljesítésekor vegyék figyelembe azokat az eszközöket, amelyek lehetőséget biztosítanak a KFI Stratégia céljainak megvalósítására;
+
+## Felelős: a kutatás-fejlesztésért és technológiai innovációért felelős miniszter
+
+## a Miniszterelnökséget vezető államtitkár
+
+## Határidő: 2013. december 31.
+
+## c) felhívja a kutatás-fejlesztésért és technológiai innovációért felelős minisztert, a fejlesztéspolitikáért felelős minisztert, a kormányzati tudománypolitikáért felelős minisztert, az agrárpolitikáért felelős minisztert, a környezetvédelemért felelős minisztert, valamint a vízgazdálkodásért felelős minisztert, hogy a Nemzeti Reform Program 32–38. pont szerinti intézkedéseiben meghatározott ágazati stratégiák, valamint az intelligens szakosodási stratégia (RIS3/S3) elkészítése során vegyék figyelembe a KFI Stratégia 3.1–3.5. pontja szerinti jövőképet, célkitűzéseket, valamint az annak végrehajtását szolgáló, a KFI Stratégia 4.5. pontja szerinti eszközrendszert;
+
+## Felelős: a kutatás-fejlesztésért és technológiai innovációért felelős miniszter
+
+## a fejlesztéspolitikáért felelős miniszter
+
+## a kormányzati tudománypolitikáért felelős miniszter
+
+## az agrárpolitikáért felelős miniszter
+
+## a környezetvédelemért felelős miniszter
+
+## a vízgazdálkodásért felelős miniszter
+
+## Határidő: 2013. december 31.
+
+## d) felhívja a kutatás-fejlesztésért és technológiai innovációért felelős minisztert, hogy a fejlesztéspolitikáért felelős miniszter, a kormányzati tudománypolitikáért felelős miniszter, az agrárpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter, a vízgazdálkodásért felelős miniszter és a tudománypolitika koordinációjáért felelős miniszter bevonásával a KFI Stratégia alapján készítsen részletes intézkedési tervet kétéves periódusonként, amely tartalmazza a határidők, a költségvetési forrás meghatározását, továbbá az egyes feladatok felelőseinek megnevezését;
+
+## Felelős: a kutatás-fejlesztésért és technológiai innovációért felelős miniszter
+
+## a fejlesztéspolitikáért felelős miniszter
+
+## a kormányzati tudománypolitikáért felelős miniszter
+
+## az agrárpolitikáért felelős miniszter
+
+## a környezetvédelemért felelős miniszter
+
+## a vízgazdálkodásért felelős miniszter
+
+## a tudománypolitika koordinációjáért felelős miniszter
+
+## Határidő: első alkalommal: 2014. december 31.
+
+## e) felhívja a kutatás-fejlesztésért és technológiai innovációért felelős minisztert, hogy kétévente készítsen átfogó jelentést a KFI Stratégia megvalósításáról.
+
+## Felelős: a kutatás-fejlesztésért és technológiai innovációért felelős miniszter
+
+## Határidő: első alkalommal: 2014. december 31.
+
+## 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 3. Hatályát veszti a Kormány 2009–2010-re vonatkozó tudomány-, technológia- és innováció-politikai intézkedési tervéről szóló 1019/2009. (II. 19.) Korm. határozat.
+
+1. melléklet az 1414/2013. (VII. 4.) Korm. határozathoz
+
+BEFEKTETÉS A JÖVŐBE
+
+Nemzeti Kutatás-fejlesztési és Innovációs Stratégia (2013-2020)
+
+1. Áttekintő helyzetkép
+
+1.1. A kormányzati KFI-stratégia nemzetközi környezete
+
+Az Európai Unió versenyképessége a kutatás-fejlesztés és az innováció (KFI) területén – globális léptékben nézve - hosszabb ideje visszaesést mutat. Európában az elmúlt évtizedben a KFI – benne különösen a K+F – területi és strukturális különbségei tovább növekedtek, az úgynevezett európai paradoxon pedig - vagyis az az ellentmondás, hogy amíg Európában kiváló tudományos eredmények születnek, addig a gyakorlati innovációs teljesítmények ennél jóval szerényebbek - tovább él.[^1] Természetesen mindezek hatásai Kelet-Közép-Európában és Magyarországon is jelentkeznek (ld. 1. és 2. ábra).
+
+| 1. ábra: A kutatás-fejlesztési szektor mérete és fő finanszírozóinak aránya (2010) |
+
+| Megjegyzés: A körök mérete a K+F ráfordítások összegével arányos. A jobboldali ábra a baloldali ábra Magyarországot is ábrázoló területének a felnagyítása és kiegészítése egyes régióbeli országokkal. Forrás: OECD-MSTI 2012/1 |
+
+Éppen ezért figyelemre méltó, hogy a fejlett európai uniós országok többsége és az Európai Unió egésze - a világgazdasági válság ellenére - törekszik a K+F-támogatások növelésére.[^2] Az Európai Unió 2014 és 2020 közötti időszakra vonatkozó K+F-fejlesztési keretprogramja, vagyis a Horizont 2020 stratégia pedig az uniós szinten elérhető K+F célú források jelentős növelését tűzi ki célul (a költségvetés megoszlását ld. 3. ábra). Amíg a jelenleg is futó 7. Keretprogram forrása 53 milliárd euró, addig a következő tervezési időszakban ez az összeg 81 milliárd euróra emelkedhet.[^3] Amennyiben tehát Magyarország ezeket a forrásokat minél nagyobb mértékben ki akarja használni - és mást aligha tűzhetünk ki célul -, akkor a jövőben az Európai Unió átlagánál erőteljesebben kell befektetnie a kutatás-fejlesztésbe és az innovációba.
+
+Ám nem csupán a szűken vett K+F-támogatások várható növekedéséről van szó, az Európai Bizottság a 2014 és 2020 közötti tervezési időszakra kifejezett célként fogalmazza meg a kohéziós, valamint az innováció-politikai eszközök összehangolását. Hasonlóképpen, a következő tervezési időszakban - az eddigiekhez képest – több forrás állhat rendelkezésre az uniós szintű K+F-infrastruktúra fejlesztésére. A fejlesztési források növekedése és összehangolása mellett az új tervezési időszakban mind nemzeti, mind pedig közösségi szinten új típusú kormányzati beavatkozások is várhatóak; a keresleti oldali programoktól az egységes szabadalmon és a szabványosítási csomagon át, az uniós léptékű kockázati tőke intézményrendszer megvalósításáig és a közös programozási kezdeményezések támogatásáig.
+
+2. ábra: GDP-arányos K+F ráfordítások 2000-2011 (%)
+
+Megjegyzés: az EU-15 az Európai Unió régi, az EU-12 az új (2004-ben és azután belépett) tagállamait jelenti
+
+Forrás: OECD-MSTI 2012/1
+
+3. ábra: A Horizont 2020 keretprogram költségvetésének tervezett megoszlása
+
+A következő tervezési periódusban az Európai Unió a versenyképességet támogató szakpolitikák terén egy új rendező elvet is előtérbe állít: a régiók intelligens – vagy a tartalmat pontosabban visszaadó szóhasználattal ésszerű és hatékony – szakosodását (”smart specialisation”, ld. Eurada 2011/a és 2011/b). Az elmúlt évtized ugyanis bebizonyította: a világgazdasági verseny ma már nemcsak gazdasági tömbök és országok, hanem ennél alacsonyabb térségi szinten, a régiók szintjén is egyre élesebbé válik. Ebben a versenyben pedig hátrányt jelent, ha Európában a tudáshoz való hozzáférés területileg korlátozottabb, mint az Egyesült Államok vagy Ázsia gazdaságaiban. Európa nem mondhat le arról, hogy - a helyi sajátosságoknak és a komparatív előnyöknek megfelelően - minden régióban létrejöjjön a kutatás-fejlesztési és innovációs képességek kritikus tömege.
+
+Amíg nyilvánvaló, hogy a KFI-re támaszkodó intelligens regionális szakosodás stratégiája jelentősen erősítheti Európa globális versenypozícióit, addig gondot okoz, hogy Európában a tervezési régiók adminisztratív határai, valamint a gazdasági térségek határai a legtöbb esetben nem esnek egybe. Ráadásul a kutatás-fejlesztés és az innováció az egyik leginkább nemzetközi gazdasági tevékenység, így a nemzeti innovációs rendszereket és a globális innovációs rendszereket érintő hatások is állandóan változnak.
+
+Az Európai Unió Horizont 2020 stratégiájának megvalósítása Magyarországon is komoly következményekkel jár, már pusztán azért is, mert ez a közösségi politika hosszú időre, minimálisan a tervezési időszak hét esztendejére meghatározza a hazai KFI-politika nemzetközi kereteit. Ha pedig Magyarország ezeket a támogatási lehetőségeket ki akarja használni, akkor az uniós átlagánál jóval nagyobb figyelmet kell fordítania a KFI-re. Ez egyrészt a nemzeti reform programok végrehajtásának a korábbinál alaposabb versenyképességi monitoringját és számonkérését jelenti, másrészt pedig az Innovációs Unió tervezett intézkedései, valamint az Európai Kutatási Térség (ERA) kiterjesztése is az innováció és a tudás egységes piacának kiteljesedése irányába mutatnak.
+
+1.2. Hazai helyzetkép
+
+Magyarországon a GDP-arányos K+F-ráfordítások - javarészt a mindenkori éves költségvetések korlátozott mozgástere miatt – csak lassan növekednek (ld. 4. ábra). Noha 2011-ben a kutatás-fejlesztési ráfordítás a GDP arányában - az elmúlt két évtizedet nézve - a legmagasabb értékre, 1,2%-ra ugrott, ez még mindig messze elmarad a 2%-os európai uniós átlagtól.
+
+A források szükséges növelése mellett fontos a kormányzati politika, valamint a KFI-szakpolitika közötti összhang megteremtése. Magyarország ugyanis a globális versenyben csakis akkor lehet sikeres, és az ország csakis akkor képes gyorsan felzárkózni az európai élmezőnyhöz, ha a mindenkori magyar kormányok a kutatás-fejlesztést és az innovációt a jövőbe való, és hosszabb távon kifizetődő beruházásnak tekintik, az ágazatot érintő konkrét lépéseket pedig ennek jegyében teszik meg.[^4]
+
+4. ábra: A K+F ráfordítások Magyarországon, 2000-2011, a források megoszlása szerint (Mrd Ft)
+
+Forrás: KSH
+
+5 ábra: A K+F ráfordítások alakulása Magyarországon 2001-2011. (GDP-arányosan, százalékban, pénzügyi forrás szerint)
+
+Forrás: KSH
+
+A lassan növekvő ráfordítások ellenére 2008 óta megfigyelhető pozitív tendencia, hogy az összes K+F-ráfordításon belül a vállalati K+F-források gyorsan növekednek, és ma már meghaladják az állami forrásokat (ld. 5. ábra). Az Európai Unión belül a KFI élvonalát jelentő országokban, de az Egyesült Államokban és Japánban is, a vállalatok adják a kutatás-fejlesztési és innovációs beruházások nagyobb hányadát, hiszen ez a versenyképességük növeléséhez szükséges alapvető érdekük. Az állam korlátozottan lép be a vállalkozások helyére, az állam alapvető feladata sokkal inkább a keretfeltételek biztosítása.
+
+Magyarországon a vállalati szféra különösen jól reagált az EU-társfinanszírozási források megjelenésére, és ezeket felhasználva arányaiban egyre többet költ K+F-re. Ugyanakkor tény az is, hogy a rendszerváltás óta eltelt csaknem negyed században mindössze nyolc olyan esztendő volt - 1997, 1998, 1999, 2001, 2002, 2005, 2006 és 2011 - amikor reálértéken nem csökkent a költségvetési K+F-ráfordítás.
+
+Miközben a felsőoktatási K+F-ben strukturált igazodás nem valósult meg – azaz a szétaprózott K+F kapacitásokat és képességeket az elmúlt időszak beruházásai legfeljebb konzerválni voltak képesek – a Magyar Tudományos Akadémia kutatóhálózatának megújítása fontos lépéseket hozott. Az új akadémiai kutatóközpontok takarékosabb intézményi működési keretek között, koncentráltabb kutatási stratégia alapján végezhetik közfeladataikat. A kutatóintézet-hálózatban és az egyetemeken 2009-2012 között összesen 65 (39 akadémiai és 26 egyetemi) Lendület-kutatócsoport alakult, amelyek a – nemzetközileg is számottevő teljesítményű kutatók és fiatal tehetségek külföldről történő hazahívásával, illetve itthon tartásával – a kutatóhálózat tartalmi megújulásának meghatározó elemei.[^5]
+
+Amíg a vállalati szektor arányaiban növekvő K+F-ráfordítása kedvező trendnek tekinthető, addig a jövő szempontjából aggodalomra ad okot, hogy a közfinanszírozású kutatás-fejlesztési szektor egyre nehezebben képes lépést tartani a globális léptékű tudományos kiválósági versenyben:
+
+− a Lendület-kutatócsoportok örvendetes növekedése ellenére növekvő problémát jelent a kutatói utánpótlás megoldása;
+
+− a kutatási infrastruktúra színvonala elmarad az EU fejlettebb országaitól;
+
+− a szektorban csak lassan halad előre az egyéni és az intézményi kiválóságot egyaránt erősítő szemléletváltás;
+
+− az országban kevés a nemzetközileg is versenyképes tudásközpont;
+
+− az alap- és alkalmazott kutatás-finanszírozás rendszerszerű stabilitása csak részben biztosított.
+
+Ennek ellenére a közfinanszírozású kutatás-fejlesztési szektor néhány részterületen megőrizte, sőt, erősítette tudományos színvonalát. Többek között ezt tükrözik a 7. Keretprogram részvételi adatai is: az új tagállamok közül - Lengyelország mögött – a hazai K+F-szektorból jelentkezett a legtöbb sikeres pályázó, és így – másodikként - Magyarország nyerte el a legtöbb forrást is. Ugyanakkor, ha az Európai Unió egészét vesszük viszonyítási alapnak, akkor népességarányosan és a résztvevők sikerarányát tekintve már jóval szerényebbek ezek az eredmények[^6](ld. 6. ábra). Jól mutatja ezt, hogy százezer lakosra vetítve a kutatói létszám az új tagállamok átlagában 245 fő, míg a fejlettebb EU országokban 560 fő, ami több mint kétszeres kutatói bázisra utal.[^7] Az eredményesebb szereplés tehát alapvetően azon múlik, hogy létrejön-e Magyarországon a kutatási-fejlesztési kapacitásoknak az a kritikus tömege, amely a sikerarány megtartásával, illetve javításával további jelentős EU-s források megszerzését teszi lehetővé.[^8] A jövőre nézve a gondokat tetézi, hogy a műszaki és a természettudományi pályák népszerűségvesztése, az oktatási rendszerben a tanári pálya presztízsének csökkenése hátráltatja a tehetséggondozást és a kutatói utánpótlást, a gazdasági-jogi-humántudományi képzésben pedig a képzések volumenének tervezett csökkentése a gazdaság innovációs abszorpciós képességére is hatással lehet.
+
+6. ábra: A 7. Keretprogram sikerarányai és az egy lakosra jutó támogatás, 2010
+
+Forrás: Nemzeti Innovációs Hivatal, CORDA adatbázis
+
+Napjainkban a vállalati szektor K+F-tevékenysége egyszerre szétaprózódott és koncentrált. Szétaprózódott, hiszen a K+F területén működő vállalati kutatóhelyek több mint felében a foglalkoztatottak száma nem éri el a húsz főt. Ugyanakkor koncentrált is, mert a foglalkoztatottak száma az összes K+F-tevékenységet folytató vállalati kör csupán egytizedében haladja meg a 250 főt. A nagyvállalatok K+F ráfordításai jelentősen meghaladják a kis- és közepes cégek ráfordításait (ld. 7. és 8. ábra).
+
+7. ábra: Egy vállalatra jutó K+F ráfordítás Magyarországon 2001-2011, méretkategóriák szerint (nagyvállalatok és az összes vállalat átlaga, millió Ft)
+
+Forrás: KSH
+
+8. ábra: Egy vállalatra jutó K+F ráfordítás Magyarországon 2001-2011, méretkategóriák szerint (mikro-, kis- és közepes vállalatok átlaga, millió Ft)
+
+Forrás: KSH
+
+Ráadásul mindez erős területi koncentrációval is párosul, Budapest és agglomerációja messze kiemelkedik a vállalati K+F területén. Hasonlóképpen a vállalati K+F tevékenység ágazatilag is nagyon koncentrált, ma a húzóágazatok[^9] a gyógyszeripar, a járműipar és az informatika, és ezek az ágazatok adják a vállalati ráfordítások döntő hányadát (ld. 9. ábra).
+
+9. ábra: A vállalkozások kutatás-fejlesztési ráfordításai Magyarországon 2000-2010, főbb ágazatok szerint, milliárd forint
+
+Forrás: KSH
+
+A globális nagyvállalatok ma már egyre komolyabb szerepet játszanak a magyarországi kutatás-fejlesztésben és innovációban, ugyanakkor a magyarországi leányvállalatoknak az anyavállalatok K+F-re vonatkozó stratégiai döntéseire ma még viszonylag csekély hatásuk van.[^10] Szintén viszonylag kevés ma még a K+F-re alapozó, a helyi gazdasággal integrált külföldi működő-tőke beruházás is. Kedvező trend viszont, hogy az informatikai és a gépipari-elektronikai kisvállalatok egyre több esetben sikerrel veszik a nemzetközi piacok meghódításának első akadályait.
+
+Magyarország - európai uniós szinten - a közepes innovációs teljesítményű országok közé sorolható (ld. Innovation Union Scoreboard, 10. ábra). A globális értékláncokba bekapcsolódott iparágak - mint amilyen a gyógyszeripar, az infokommunikációs szektor és a járműgyártás -, továbbá a nemzetközi kapcsolatokkal rendelkező kutató-fejlesztők jelentősen erősítik a hazai innovációs rendszer teljesítményét. Ugyanakkor a hazai vállalatok többségének teljesítménye a kutatás-fejlesztés és az innováció terén jócskán elmarad a fejlettebb EU-tagállamok vállalataiétól.
+
+Pozitív tendencia, hogy térségi kitekintésben Budapest és vonzáskörzete már ma is európai léptékű tudástermelő régiónak tekinthető (Borsi és Viszt, 2010), KFI-teljesítménye az Európai Kutatási Térség (ERA) szintjén is jelentős (ld. Lengyel és Leydesdorff, 2008).
+
+A most vitára indított stratégia az országos kereteket rögzíti. A globális szemszögből más pozíciójú régiók innovációs helyzetének értékelése és a regionális szinten megfogalmazható iránymutatások kidolgozása önálló és szerteágazó feladat. A térségi specializációkhoz kötött helyzetértékelést és az ún. intelligens szakosodási stratégiák[^11] kidolgozását a kormányzat a helyi szereplőkkel egyeztetve zömében 2013-ban tervezi megvalósítani.
+
+10. ábra: Az Innovációs Unió Eredménytábla 2011. évi adatai – Magyarország
+
+Forrás: Innovation Union Scoreboard
+
+Európai uniós összehasonlításban Magyarország teljesítménye mindenekelőtt az innovációs együttműködéseket leíró mutatók, főként a kutatóhelyek és a vállalatok közötti kapcsolatok terén marad el az átlagostól. Kiugróan gyenge pont a kis- és közepes vállalkozások együttműködése a hazai és a külföldi nagyvállalatokkal, tudásbázisokkal. Az Innovációs Eredménytábla további adatai szerint az utóbbi 5 év alatt a gazdasági hatásokat és a szellemi tulajdon védelmét mutató indikátorok terén volt a legnagyobb javulás, különösen az innovatív termékek eladása (25%), az EU-védjegyek (15%), és a tudásintenzív szolgáltatások exportja (12%) növekedett. Romlott a mutató az innováció finanszírozása és támogatása (különösen a kockázati tőke 32%-os csökkenése miatt), valamint az innovációt bevezető vállalkozások száma tekintetében.
+
+Ezzel szemben a közfinanszírozású kutatóhelyek külföldi, elsősorban kutatási jellegű kapcsolatai viszonylag erősek. Ez részben arra vezethető vissza, hogy Magyarországon a K+F terén a tudományos szempontok jóval erősebben érvényesülnek, mint a gyakorlati, ipari hasznosítás szempontjai. Kiaknázatlan lehetőség, hogy ma még nagyon gyenge és fejletlen a tudás- és technológiaigényes induló vállalkozásokat segítő környezet (pl.: az inkubáció).
+
+Európai uniós összevetésben hátrány, hogy Magyarországon a start-up és spin-off cégeket segítő magvető tőke („seed capital”) hiánya miatt a spin-off folyamatok gyakran kezdeti szakaszban elakadnak. Hasonlóképpen, a technológia-transzfert ösztönző mechanizmusok sem kellően hatékonyak (ld. Havas, 2011). A hazai középvállalati szektorban viszonylag kevés a piacvezérelt kutatás-fejlesztés, és csekély a K+F iránti keresletük is. Az alacsony számú innovatív kisvállalatok körében hiányzik az innovációs fejlesztés stratégiáját következetesen megvalósító szervezeti bázis, és rendszerint hiányzik az ehhez szükséges vállalati kultúra, továbbá az anyagi és humán felkészültség is.
+
+Nemzetközi összevetésben a hazai adóoldali K+F-kedvezményrendszer ugyan jelentős ösztönző hatást fejt ki, ám az alkalmazott eszközrendszer többnyire a nagyvállalatok K+F tevékenységének erősítésére irányul (ld. 11. ábra). A jelenlegi konstrukció egyik problémája, hogy csak ritkán éri el a tudás-intenzív, de alacsonyabb nyereséget produkáló, fiatal innovatív mikro- és kisvállalatokat.
+
+11. ábra: A vállalkozások K+F tevékenységének közvetett és közvetlen kormányzati támogatása GDP-arányosan, százalékban, az OECD országokban, 2010
+
+Forrás: OECD OECD Science, Technology and Industry Outlook 2012
+
+Magyarország - európai uniós szinten kimutatható - közepes innovációs teljesítménye az okok széles körére vezethető vissza, de nyilvánvalóan nem választható el a hazai KFI-szakpolitikai gyakorlat tartósan jelenlévő problémáitól:
+
+− az állami szerepvállalás terén részben még ma is hiányzik a stratégiai szemlélet (szemben például Észtországgal, ahol az 1990-es években döntően a humán kapacitások megerősítésére építő stratégiát dolgoztak ki és valósítottak meg);[^12]
+
+− az irányítási rendszer, a szabályozás és az intézményi struktúra az elmúlt évtizedben gyakran változott, a KFI-vel kapcsolatos intézkedések következetes végrehajtása, nyomon követése és rendszerszerű értékelése többnyire elmaradt;
+
+− a különböző KFI támogatások – így különösen a jelentős EU-s forrásokkal bíró kohéziós politika és a hazai eszközrendszerre támaszkodó KFI-politika – összehangoltsága nem megfelelő;
+
+− az állami K+F-finanszírozási rendszerbe alacsony költséghatékonyságú elemek is beépültek (pl. a K+F-adókedvezmények alkalmazásában tapasztalt visszásságok);
+
+− a közszféra innovációiról és azok gazdasági-társadalmi hatásairól a gondolkodás épp csak megkezdődött.
+
+További probléma, hogy a KFI-intézményrendszerben többnyire hiányzik az innováció-menedzsment szemlélet és kompetencia (beleértve a szellemi tulajdonvédelemmel kapcsolatos tudatosságot, valamint a jogérvényesítés hiányosságait is). Részben erre vezethető vissza, hogy - az időszakosan egyébként bőséges – K+F-támogatási eszközrendszer hatásfoka viszonylag alacsony. A területi egyenlőtlenségek növekedése, valamint az uniós források terén a Közép-Magyarország Régió (KMR) támogatási szabályai megnehezítik a legjelentősebb K+F-bázisokkal rendelkező régió támogatását; miközben a vidéki térségek gyakran a K+F-források ésszerű felhasználásának problémájával küszködnek.
+
+1.3. Keretfeltételek
+
+A kutatás-fejlesztés és az innováció területén az állam nem veheti át a vállalkozások alapvető szerepét, ugyanakkor a mindenkori kormányok fontos feladata, hogy olyan keretfeltételeket alakítsanak ki, amelyek a vállalatokat a kutatás-fejlesztésre és az innovációra ösztönzik. A vállalatokat ösztönző keretfeltételek legfontosabb elemei:
+
+− A nemzetközi gazdasági folyamatok és a makrogazdasági környezet: ide tartozik a külföldi működőtőke-finanszírozás, a gazdaság szerkezetének alakulása, a globális folyamatokban való részvétel a gazdasági-pénzügyi turbulenciák közepette is.
+
+− Intézményrendszeri stabilitás és koordinált működés az érintett szakpolitikák között: a rendszerváltás óta valamennyi kormányzat jelentősen megváltoztatta a KFI-irányítás intézményrendszerét. Nagyon lényeges, hogy ez a kérdéskör nyugvópontra jusson, és ennek a széles körben kidolgozott és megfelelően menedzselt stratégia lehet az egyik támpontja.
+
+− Jogi környezet kiszámítható és támogató működése: a jogrendszer az innováció elengedhetetlen kelléke, e nélkül nem remélhető a KFI-re alapozott gazdasági felzárkózás.
+
+− A K+F állami finanszírozásának stabilitása: a gyakorlat azt mutatja, hogy az állam – a korlátozott költségvetési források miatt – csak nehezen tud tartós finanszírozást biztosítani a K+F-szektornak, ezért a KFI-stratégiának erre kifejezett hangsúlyt kell fektetnie.
+
+− Az erős verseny feltételeinek érvényesülése: az üzleti környezet javításával (pl. az adminisztrációs terhek csökkentésével, különösen a kezdő és innovatív vállalkozások esetében), a kiszámítható versenyjog-alkalmazással fontos keretfeltétel teremthető meg.
+
+− A vállalkozói készségek és a vállalkozói-szellem fejlődése: a technológiai vállalkozó, mint pozitív szerepminta megjelenítése, továbbá az oktatási rendszerből kilépő, cégvezetésre alkalmas fiatalok vállalkozói készségének javulása elengedhetetlen a stratégia sikeréhez.
+
+− Az oktatáspolitika (a stratégia 2020-as időtávja következtében elsősorban a felsőoktatás-politika) eredményessége és az oktatás színvonala: értelemszerűen a kutatás-fejlesztési munka végzésére alkalmas szakemberek kibocsátása, illetve a matematikai és a természettudományos oktatás, valamint a digitális írástudás fejlődése alapvetően kihat a KFI-stratégia sikerére.
+
+− Intenzív és kedvező irányú mobilitás: mind a horizontális (országhatárokon átlépő, régiók közötti, szektoron belüli) mobilitás, mind pedig a vertikális (a különböző szektorok közötti, továbbá az értékteremtési folyamat egyes állomásai közötti) mobilitás erősödése, és kedvező irányú egyenlege kedvez a tudásvezérelt gazdaság fejlődésének.
+
+2. Problémaazonosítás és stratégiai alternatívák
+
+2.1. SWOT-analízis
+
+A helyzetelemzésben feltárt jellemzőket alapul véve, a hazai innovációs rendszer erősségeit, gyengeségeit, lehetőségeit és veszélyeit az alábbiak szerint rendszerezhetjük (ld. 1. táblázat.).
+
+1. táblázat: A hazai KFI-rendszer SWOT-analízise
+
+| Erősségek | Gyengeségek |
+
+| • Egyes (szűkebb) tudományterületek a globális élvonal közelében vannak (pl. a magyar matematikai kutatás és oktatás világhírű). • Egyes szegmensekben erősödő egyetemi-vállalati együttműködések. • A kutatói elit használja a nemzetközi forrásokat, infrastruktúrát és adatbázisokat. • Képzett és kiemelkedő tudományos teljesítményre képes élvonalbeli kutatók, egyes kutatási résterületeken nemzetközileg is jelentős teljesítmények. • Élvonalbeli munkakultúra sok nagy cégnél, K+F és tudásközpontok megjelenése, koncentrált K+F. • Réspiacot megtalált nagy növekedési képességű, saját high-tech fejlesztést végző induló vállalatok megjelenése ("born global" attitűd). • Tőkeerő, modern KFI infrastruktúra a nagyvállalatoknál, ígéretes együttműködések egyetemekkel. • A gazdasági és innovációs környezetet meghatározó lényeges jogszabályok (társasági jog, versenyjog, fogyasztóvédelem, számviteli szabályok, szellemi tulajdonvédelem stb.) kialakítása összhangban van a fejlett országok joggyakorlatával. | • A kutatásban nem kapnak kellő hangsúlyt a piaci-társadalmi igények/elvárások, gyenge a K+F gazdasági-társadalmi hasznosítása – beleértve a közszféra innovációit is. • Szétaprózott, nem kellően fókuszált kutatási kapacitások és teljesítmények. • Általában szerény a kereslet a magyar kutatóintézeti szektor szolgáltatásai iránt (továbbá: az egyetemi/akadémiai kutatási hajlandóság és az ipar kutatási igényei nem találkoznak, az egyetemek/akadémia reakcióképessége lassú). • Korszerűtlen és szétforgácsolódó infrastruktúra, gyakran hiányzó kutatói utánpótlás, gyenge menedzsment a tudásbázis intézményeiben, lassú az intézményi tanulás. • Elégtelen és hullámzó a kutatás finanszírozása, a K+F intézményi (normatív) finanszírozás alacsony szintű. • Korszerűtlen a TéT oktatás, alulfejlett a gyakorlati és a multi-diszciplináris oktatás. A természettudományos és műszaki pályák népszerűségvesztése - összhangban az európai trendekkel. • Nem kellően harmonizált az innováció-politikai eszközrendszer („policy mix”). • A KKV-k esetében tőkehiány, globális összevetésben gyenge innovációs és növekedési ambíciók és képességek. • KFI-menedzsment hiányosságok a KKV-k többségénél, alacsony szintű az innovációs és a szellemi tulajdonvédelmi tudatosság. Gyenge az IPR védelem iránti kereslet. Olykor a vállalkozói szellem és a kudarctűrés hiánya. • A kkv-k és a kutatóintézetek között a kapcsolatfelvételnek nincs kialakult formája, gyakorlata (pl. szolgáltatás megrendelése, infrastruktúrahasználat stb.) • A K+F értéklánc szereplői között gyengék a kapcsolatok, nem elég hatékony az együttműködés. • Alacsony szintű a magvető tőke, elégtelenek a technológiai inkubációs folyamatok. • Nem hatékonyak a technológatranszfer folyamatok, rossz hatásfokkal működnek a hazai adaptív innovációs folyamatok. • A spin-off folyamatokat számos szemléletbeli-intézményi tényező hátráltatja. • Hiányosak az állami innováció-management szolgáltatások. • A KFI szempontjaira tekintettel levő értékelési kultúra fejletlen. • Az oktatás környezetének bizonytalanságai, illetve a tanári pálya presztízsének csökkenése hátráltatja a tehetséggondozást és a kutatói utánpótlást. • A KFI-t meghatározó intézményi struktúra, szabályozási és támogatási környezet nem kellően hatékony, a szakpolitikai célokat az intézményrendszer nem tudta eddig megvalósítani. • Az emberi erőforrások terén az alacsony számú doktori végzettség vagy a felsőfokú végzettek alacsony aránya, a finanszírozás terén az alacsony színvonalú kockázati tőke (aminek a magvető tőke csak egy eleme), a KKV-szektor innovációs gyengeségei, az alacsony szabadalmi aktivitás, az innovációs rendszeren belüli kapcsolati hálózatok hiányosságai. |
+
+| Lehetőségek | Veszélyek |
+
+| • KFI-barát gazdasági és szabályozási környezet megerősödése. • Egyetemi tudásközpontok megerősödése, a kutatási eredmények hangsúlyosabb "oktatásba vitele". • (Iparági) klaszterek gazdasági szerepének növekedése. • Gazdasági-társadalmi igényeket jobban kielégítő ”vállalkozó egyetemek” kialakulása. • Az erőforrás-allokáció globális optimalizálásának kihasználása, a K+F-et telepítő FDI vonzása. • Új K+F intenzív iparágak megerősödése, magyar közép- és nagyvállalatok külföldi térnyerése. • Gyakorlatorientált képzés (duális képzés) térnyerése, vállalkozói, innováció-menedzsment stb. oktatás erősödése, a "digitális írástudás" javulása. • Beszállítói háttéripar megerősítése, K+F iránti kereslet felfutása. • K+F adókedvezmények rendszerének továbbfejlesztése (normatív K+F adókedvezmények bevezetése) • Együttműködés segítése a vállalkozások és a fejlesztő/infrastruktúrát birtokló intézmények között • A KFI szolgáltatók akkreditálásának bevezetése az egységes ”minőségi szolgáltatás” nyújtása érdekében. • Az EU által kiemelten kezelt eszközrendszerek elterjedése (innovatív közbeszerzések, intelligens szakosodás, kereskedelmi hasznosítást megelőző beszerzés stb.). • Csatlakozás a nagy EU-s együttműködési programokhoz. • Erőteljesebb K+F diplomácia. • Hatékony inkubáció új eszközeinek kialakítása (pl. nyitott labor, tech shop). • Természettudományos és műszaki oktatás fejlesztése. • Tehetséggondozás megerősítése. • Párbeszéd erősítése az egyetemek és a nagyvállalatok között. • kulturális intézmények erőteljesebb részvétele a KFI legújabb eredményeinek terjesztésében • Konvergencia-régiók KFI-teljesítményének felzárkóztatása elsősorban a Strukturális Alapok segítségével • Az innovációs eredmények hasznosításától várható, Magyarország versenyképességét növelő közvetett társadalmi eredmények (pl. a közszolgálati innováció révén). | • Leszakadás a globális élvonaltól, a kutatói utánpótlás nem lesz elégséges a nemzetközileg versenyképes szinthez. • Az oktatás hiányosságai fennmaradnak, a képzett szakemberek hiánya nő. • A globális pénzügyi és gazdasági válság mélyülése. • Gyenge marad a gazdaság és társadalom K+F iránti igénye és érdeklődése. • Agyelszívás, elsorvadó közfinanszírozású kutatás. • A globális hálózatokba való bekapcsolódáshoz nem lesz megfelelő mennyiségű és képzettségű szakember. • Megmarad a nemzetközi, térségek közötti, illetve vállalat-típusok közötti digitális szakadék. • Gyenge marad a KKV szektor, nem tud komoly KFI-iránti keresletet gerjeszteni, illetve kapacitásokat kiépíteni. • Nem tudjuk kihasználni a nemzetközi KFI együttműködésekben rejlő szinergiákat. • Nem vagy alig lesz K+F-re alapozó, a magyar gazdaságba kellőképpen integrált FDI. • Nem, vagy alig lesznek hazai KFI alapokon megerősödő vállalkozások. • Rövidtávú költségvetési szempontok felülírják a kívánatos KFI fejlesztését szolgáló forrásokat. • A KFI-intézményrendszer, szabályozás és támogatási rendszer stabilitásának hiánya ellehetetleníti a szakterület számára alapvető hosszú távú tervezést. • A területi egyenlőtlenségek növekedése és a KMR támogatási szabályai megnehezítik a régió támogatását. • Nem tudjuk hatékonyan felhasználni az EU-s forrásokat. • A K+F finanszírozás általában is gyengélkedik. |
+
+A SWOT analízis alapján az erősségekre építve, a lehetőségeket kihasználva, a gyengeségeket csökkentve/megszüntetve, a veszélyekre figyelve/elkerülve lehet stratégiai szintű problémákat megoldani, stratégiai célokat és feladatokat kitűzni.
+
+2.2. A hazai KFI rendszer főbb problémái
+
+A helyzetértékelés és a SWOT analízis alapján a hazai KFI-rendszerben három főbb problématerület rajzolódik ki (ld. 12. ábra):
+
+− A tudásbázisok és a tudástermelés gyengeségei: a gazdaság magasabb hozzáadott értékű és tudás-igényes folyamatai csak lassan bontakoznak ki akkor, ha a kutatói utánpótlás akadozik, ha a tudományos-technológiai oktatás nehézségekkel küzd, vagy ha hiányoznak a nemzetközileg is versenyképes kutatóközpontok. A tudástermelés elidegenedhet a társadalomtól, ha nem képes annak igényeire reflektálni.
+
+− A tudásáramlás, a tudás- és technológiatranszfer hiányosságai: ha a tudástranszfer intézményei és szervezetei gyengék, vagyis nem képesek a gazdaság számára is felhasználható módon közvetíteni a kutatás-fejlesztés során teremtett tudást, akkor olyan szűk keresztmetszet alakulhat ki, ami önmagában is megnehezíti a magasabb hozzáadott érték előállítást, tágabb értelemben az ország gazdasági felzárkózását.
+
+− A tudáshasznosítást végző vállalati és közösségi szektorok (innovatív) működését akadályozó tényezők: a Magyarországra jellemző duális gazdasági szerkezet egyik következménye, hogy amíg a külföldi nagyvállalatok többnyire korszerű technológiát és menedzsmenttudást honosítanak meg, addig a középvállalati, valamint a kisvállalati szektor csak lassan csökkenti innovációs lemaradását. A közszféra innovációiban rejlő potenciál nem jelenik meg a kormányzati szintű gondolkodásban.
+
+A problémák a KFI-stratégiában világos munkamegosztást kívánnak:
+
+− a nemzeti innovációs rendszer alapját a tudásbázisok képezik (az egyetemi-akadémiai, a versenyszféra, a non-profit és a közösségi szektorok tudásbázisai egyaránt),
+
+− a tudást felhasználó társadalmi és gazdasági szereplők – kiemelten a vállalkozások, valamint a közszféra – elsősorban a hasznosítás és a hozzáadott érték alkotásának folyamatában érdekeltek,
+
+− a tudáshasznosító szereplők versenyképességi szempontból pedig erősen függnek nemcsak a tudásbázisok mennyiségi és minőségi kínálatától, hanem a közvetítőrendszer hatékonyságától is (bővebben ld. 1.3. fejezet).
+
+A nemzetközi szakirodalom az ipari közjavak („industrial commons”) fogalmát használja annak leírására, hogy egy ország ipara csakis akkor lehet globálisan versenyképes, ha erős – és gyakorlatilag az ország valamennyi vállalata által elérhető – K+F fundamentumokra építkezik.[^13] Sőt, a nemzetközi szakirodalom azt is kiemeli, hogy az ipar akkor képes valóban hatékonyan felhasználni ezeket a közjavakat, ha az adott országban a stratégiailag átgondolt innovációs közvetítő mechanizmusok, a szükséges menedzsment-kapacitások, valamint a hálózatos együttműködés változatos formái is megjelennek. Ebből eredően olyan KFI-stratégiára van szükség, amely a problématérkép középső nagy blokkjában szereplő tudásáramlás, tudás- és technológiatranszfer, valamint az együttműködési mechanizmusok problémáit is kezelni képes.
+
+12. ábra: A KFI főbb problématerületei Magyarországon
+
+2.3. Stratégiai alternatívák és a KFI-re alapozó intelligens szakosodás
+
+A kutatás-fejlesztés támogatása és az innovációs rendszer fejlesztése mindenekelőtt a jövőbe való hosszú távú beruházás. A jövő szempontjából pedig nem lehet közömbös, hogy Magyarország húzóerőnek, dinamizálandó erőforrásnak tekinti-e a kutatás-fejlesztést és innovációt - vagy csupán olyan területnek, amelyre kényszerből áldozni kell, mert a KFI-vel valamennyi fejlett és felzárkózó országnak foglalkoznia „illik”. Ezért a stratégia alapvető célként tűzi ki, hogy Magyarországon a kutatás-fejlesztésbe és innovációba való beruházások megerősödjenek, a kapcsolódó intézményi megoldások korszerűsödjenek és ennek eredményeként - a stratégiai időhorizonton belül - valódi áttörés játszódjék le (ld. 13. ábra).
+
+13. ábra: Magyarország stratégiai válaszúton: a KFI teremtette kihívások
+
+A nemzetközi tapasztalatok szerint a kutatás-fejlesztés állami támogatása számottevő multiplikátorhatással jár, és jelentős vállalati többlet-ráfordításokat generál (Streicher, Schibany, Gretzmacher, 2004). Ezek a vállalati többlet-ráfordítások pedig nemcsak a hosszú távú növekedés alapjait teremtik meg, hanem a gazdasági fejlődés élvonalától elmaradó országokban a valódi felzárkózást is lehetővé teszik.
+
+A K+F-re fordított állami kiadások nagysága valamint a GDP növekedése közötti kapcsolat rendkívül szoros, és ez a kapcsolat egyértelműen pozitív. Ráadásul a K+F-beruházások megtérülése sokszorosan meghaladja más beruházási formákét (ld. 2. táblázat, Enterplan, 2005). Mindemellett a K+F tevékenység társadalmi megtérülése - vagyis a K+F beruházások növelésének hatása a többi vállalat kibocsátásának növekedésére - lényegesen magasabb, mint a vállalati megtérülés (Griffith 2000; Corderi é.n.). Ez meghaladja az oktatás OECD országokban becsült 13-14%-os megtérülését (Enterplan, 2005), noha az oktatás szintén a felzárkózó országok fontos kitörési pontját jelenti.
+
+A nemzetközi szakirodalom a vállalati megtérülést a legtöbb esetben 20-30% közé teszi (Hall, Mairesse, Mohnen 2009). A társadalmi megtérülés ennél általában magasabb, néhány esetben elérheti a 80-100%-ot is, igaz, a szórás is jelentős (Amir Piric, Neville Reeve é.n.). Az innovációs rendszer fejlettségének emelkedésével párhuzamosan a ráfordítások mikrogazdasági megtérülése is jobban kimutatható.
+
+2. táblázat: A K+F, mint kiemelten megtérülő befektetés
+
+| Ország | A K+F megtérülése | Hivatkozás |
+
+| Egyesült Királyság | vállalati megtérülés: 7-14%, társadalmi megtérülés: min. 30% | Griffith, 2000 |
+
+| Kanada | a K+F beruházások megtérülése a fizikai beruházásokét 2,5-4-szeresen múlja felül | Hall, Mairesse, Mohnen 2009 |
+
+| OECD 17 fejlett országa | a BERD 0,1 százalékpontos emelése az egy főre eső nemzetgazdasági kibocsátást 0,3–0,4%-kal képes növelni | Bassanini – Scarpetta 2001 |
+
+| USA | 1959 és 2004 között az időszak GDP-növekedésének 5%-a, később, 1995 és 2004 között már 7%-a a K+F tevékenységnek volt köszönhető | National Science Foundation 2007 |
+
+| EU | A vállalat K+F kiadásának megduplázása az adott vállalat foglalkoztatottságát 2-3%-kal növeli. A K+F beruházások megduplázása a vállalatok munkaerő-keresletét a magas K+F intenzitású szektorokban 15-20%-kal, az alacsonyabb intenzitású ágazatokban 8-10%-kal növeli | EC-IPTS 2011, EC 2011 |
+
+A KFI-stratégiát annak érdekében, hogy Magyarországon a KFI szektorra fordított állami és vállalati források ténylegesen a jövőbe való beruházássá váljanak, három prioritási tengely köré célszerű felépíteni:
+
+1. nemzetközileg versenyképes tudásbázisok, amelyek megalapozzák a gazdasági és társadalmi fejlődést,
+
+2. hazai és nemzetközi szinten hatékony tudás- és technológiai transzfer együttműködések előmozdítása, valamint
+
+3. a korszerű TéT eredményeket intenzíven hasznosító, illetve innovatív vállalatok, valamint a közszféra.
+
+Ez a három prioritástengely egyúttal azt is jelenti, hogy Magyarországon a KFI területén tervszerű rendszerépítésre van szükség. A felzárkózás az innovációs rendszerbe fogott hajtóerőkre épülően, különösen négy dinamizáló tényező eredményeként adódik:
+
+− beruházás a K+F-be és a kutatás-fejlesztési iránti kereslet élénkítése,
+
+− termelékenységet javító innovációk bevezetése,
+
+− hatékony támogatási és finanszírozási rendszer kiépítése,
+
+− start-up ökoszisztéma kiteljesítése.
+
+A KFI Stratégia területi-technológiai-ágazati vetületét a 2013. folyamán elkészülő Nemzeti S3 Stratégia 2020 dokumentum határozza meg. A Nemzeti S3 Stratégia a következők szerint illeszkedik a KFI Stratégiához:
+
+• A KFI Stratégia megadja az országos kereteket, valamint a gazdaság- és társadalom kutatás-fejlesztési és innovációs célkitűzéseit.
+
+• A KFI Stratégiára tekintettel a hét NUTS-2 régióban az EU S3 tervezési módszertanát adaptálva regionális stratégiai terveket állítanak össze.
+
+• A régiók közötti technológiai-ágazati szinergiák azonosítása érdekében a hét stratégiai tervezési dokumentumot egy szintézis-dokumentumban szükséges összefoglalni.
+
+• A szintézis-terveket teljes összhangba kell hozni a KFI Stratégiával. A regionális érintettekkel történő konzultációt követően a Nemzeti S3 Stratégia 2020 kormányzati elfogadásával áll elő a hosszú távú, a specializációs törekvéseket KFI-alapokon rögzítő tervezési keretrendszer.
+
+14. ábra: Az intelligens szakosodás tervezésének illesztése
+
+A KFI-t alkotó elemek rendszerszemléletű erősítésének fontos eszköze a stratégia folyamatos időközönkénti átfogó értékelése, és ha szükséges módosítása. Így az első átfogó értékelés alkalmával egyrészt kiderülhet, hogy van-e lényeges rendszerelem, aminek dinamizálásáról szintén gondoskodni szükséges, másrészt sor kerülhet a nemzeti szintű KFI-stratégiai menedzsment – melynek része a fentiek szerinti S3 tervezés – javítására is.[^14] Az értékelés ezért nemcsak a gördülő tervezés és megvalósítás egyik hangsúlyos eleme, hanem lehetővé teszi a kutatás-fejlesztés, valamint az innováció korszerű mérési módszereinek kidolgozását és megvalósítását.
+
+3. Jövőkép és célkitűzések
+
+3.1. Átfogó jövőkép
+
+A 2020-ig terjedő KFI-stratégia az innovációs rendszer egészének megújítását és megerősítését tűzi ki célul, jövőképe az alábbi mondatban foglalható össze:
+
+| Magyarországon - a KFI-szakpolitika aktív támogatásával - 2020-ra jelentősen megerősödnek és a globális innovációs folyamatok egyenrangú szereplőivé válnak a nemzeti innovációs rendszer kulcsszereplői, amelyek ezt követően - a tovagyűrűző hatások révén - képessé válnak arra, hogy dinamizálják a nemzeti innovációs rendszer egészét, és ezzel jelentős mértékben hozzájárulnak a magyar gazdaság versenyképességének növekedéséhez, valamint fenntartható tudásgazdasággá alakulásához |
+
+A jövőképet meghatározó hosszú mondat valamennyi eleme kiemelten fontos. A jövőkép szerint a nemzeti innovációs rendszer szereplői a kutató-fejlesztő szervezetek, a vállalatok, a kormányzati intézmények, az innovációs fejlesztéseket finanszírozó szervezetek, az egyetemek, főiskolák és a szakképző szervezetek, a kutatókórházak, a könyvtárak, levéltárak, muzeális intézmények, közművelődési intézmények és egyéb információs központok, valamint a sikeres innovációs folyamatokhoz szükséges jogi, vezetési, inkubációs, informatikai, kereskedelmi (marketing) és egyéb szolgáltatásokat nyújtó szervezetek. Közülük jelentős tovagyűrűző hatást gyakorolni képes kulcsszereplők:
+
+• a „világelitbe” tartozó kutatóműhelyek,
+
+• a globális nagyvállalatok nemzeti innovációs rendszerbe integrált K+F központjai,
+
+• a nemzetközi piacokon terjeszkedő K+F intenzív magyar középvállalatok,[^15]
+
+• a KFI-re építkező és gyors növekedésre képes kisvállalatok (a szakzsargont követve és David Birch kifejezésével élve, a „gazellák”[^16]),
+
+• az innovatív beszállító kkv-k,
+
+• az innovatív kezdő (start-up) vállalkozások,
+
+• a nemzetközi piacokba integrált korai fázisú és kockázatitőke-befektetők, valamint
+
+• a közszféra K+F tevékenységet végző, illetve innovációs eredményeket hasznosító intézményei.[^17]
+
+Ezek a szervezetek akkor válnak a globális innovációs folyamatok egyenrangú szereplőivé, ha innovációs és gazdasági teljesítményük közelíti a fejlett országok átlagát.[^18] Az innovációs rendszer egészének dinamizálására vonatkozó jövőkép tehát azt célozza, hogy – a közvetlen és közvetett hatásokon keresztül - az innovációs rendszer valamennyi szereplőjének növekedjen a teljesítménye.[^19] Végül a fenntartható tudásgazdaság a gazdasági folyamatok olyan tudásvezérelt szervezési rendszerét jelenti, amely környezeti, társadalmi és gazdasági szempontból egyaránt fenntartható, miközben a kreatív, illetve magas szellemi hozzáadott értékkel járó munkahelyek száma növekszik.[^20] A környezeti fenntarthatóságban – összefüggésben a gazdasági növekedéssel – kiemelt szerep jut az ún. zöld gazdaság térnyerésének. A társadalmi fenntarthatóság a humán és társadalmi tőkével kapcsolatos feladatokra (lásd KRPIH (2008)), míg a gazdasági fenntarthatóság elsősorban a makrogazdasági egyensúly fenntartásának követelményére utal. A társadalmi és gazdasági fenntarthatóság szempontjából a közszféra érintett intézményei esetében alapvető fontosságú, hogy az innovációs potenciál fejlesztése a közfeladataikkal való összhang megteremtése (pl. a humánerőforrás tekintetében annak zavartalan ellátásának biztosítása – mellett történjen.
+
+A KFI Stratégia és a készülő tudománypolitikai stratégia együttesen alkotják a TTI-szakpolitika egészét. Azaz, a KFI Stratégia a készülő tudománypolitikai stratégiával és a 2014–2020 közötti európai uniós fejlesztési források felhasználásának előfeltételeiként meghatározott ex-ante kondicionalitásnak tekinthető az intelligens szakosodási stratégiával (smart specialisation strategy − S3) együttesen jelöli ki a K+F+I rendszer és a kutatások, tudomány művelés közpolitikai szempontból releváns kereteit.
+
+A fenti jövőképet számszerűsített célkitűzések is kifejezik, amelyek egyúttal megfelelnek az Európa 2020 stratégiához kidolgozott, az Európai Bizottsághoz 2011-ben benyújtott Nemzeti Reformprogram vállalásainak:
+
+| Magyarország 2020-ra a GDP-arányos K+F ráfordításokat 1,8%-ra, 2030-ra pedig 3%-ra növeli. |
+
+Kiegészítő célkitűzésként a vállalkozások GDP-arányos K+F ráfordítása 2020-ra 1,2%-ra növekszik.
+
+3.2. További részletes és számszerű célkitűzések
+
+Az átfogó jövőképet és annak számszerűsíthető célmutatóját, a stratégia fő elemeire építve, további számszerű célkitűzések egészítik ki. Ezek a részletes és számszerűsíthető célkitűzések a jelenlegi állapothoz képest rögzítik az elérendő célokat. Az alábbi felsorolásban szereplő „+” jelölés azt jelenti, hogy a maihoz képest mennyi új, pótlólagos kapacitás jelenik meg a hazai innovációs rendszerben. Természetesen a stratégia – többlet-kapacitásokon kívül - fontos célnak tekinti a meglévő kapacitások megerősítését is.
+
+| 2020-ra, a stratégia hét esztendeje alatt Magyarországon: +30 nagyobb kutatási és technológiai fejlesztési műhely lép be a „világelitbe” +30 globális nagyvállalati K+F központ telepedik meg / erősödik meg +30 K+F intenzív makroregionális középvállalat termel és szolgáltat +300 KFI és növekedésorientált kisvállalat (ún. „gazella”) cég találja meg globális piaci számításait +1000 innovatív kezdő vállalkozás jut az induláshoz szükséges jelentős támogatáshoz a már megtelepedett, illetve megtelepedő globális nagyvállalatokat hazai döntéshozatali központú innovatív beszállító cégek tömegei szolgálják ki |
+
+A célkitűzésekhez kapcsolódó – és a KFI-stratégiában használt – definíciókat és meghatározásokat a Melléklet részletezi. A stratégia megvalósításának nyomon követésére javasolt további mérőszámok részletes szakmai tartalma a stratégiai időhorizonton folyamatosan kerül kidolgozásra.
+
+3.3. A tudásbázisokkal kapcsolatos specifikus célok
+
+A KFI-stratégia és a tudománypolitikai stratégia számos ponton összefügg egymással, ezek közül kiemelkedik a tudományos kutatás kérdésköre. Ennek két válfaját különböztetjük meg:
+
+• a rendszerint hosszabb időtávra tekintő alapkutatást (vagy felfedező kutatást) és
+
+• a rövidebb időtávra tekintő célzott kutatást (amelynek jelentős alkalmazott kutatási tartalma is van).
+
+Az alapkutatások feltételrendszerének biztosítása nélkül az alkalmazott kutatások és fejlesztések, továbbá a tudásvezérelt gazdaság és társadalom utánpótlási csatornái apadhatnak el,[^21] ezért a KFI-stratégia fontosnak tartja, hogy az alapkutatások fizikai és humán erőforrásai rendelkezésre álljanak, és a finanszírozási feltételek biztosítottak legyenek.
+
+A tudományos kiválóság elismerése és ösztönzése mellett a KFI-stratégia külön is támogatja, hogy a tudásbázisok professzionális menedzsment struktúrákkal kapcsolódjanak a hazai vállalati szereplőkhöz. A fő cél az, hogy a kiemelkedő tudásközpontok – szakterületüket bekapcsolva a nemzetközi folyamatokba – színvonalas kutatói utánpótlást biztosítsanak, és egyúttal erősítsék a hazai vállalatok pozícióit is a nemzetközi versenyben. A tudásközpontok nemzetközi versenyben való helytállását a kutatási infrastruktúrák fejlesztése erősíti[^22], továbbá az, hogy a külföldi kutatók Magyarországra vonzását, vagy a magyar kutatók külföldről való hazahívását kutatólaboratóriumok alapítása is elősegíti. A stratégia – kisebb súllyal – segíteni kívánja azt is, hogy a tudásbázisok a közszféra innovációihoz is hatékonyan járuljanak hozzá.
+
+A jövőkép szerint a magas színvonalú, élenjáró eredményeket elérő tudásbázisok fejlesztését alapvetően a hazai tudásbázisra célszerű, és kell alapozni. Ezek felfejlesztésével a hazai és a külföldi üzleti szektor újtudás-igénye közvetlenül és egyszerre is kiszolgálhatóvá válhat, továbbá megkezdődhet a közösségi szektorok (közszféra) innováció-alapú fejlesztése. A nemzetközileg versenyképes tudásközpontok más szektorokkal és szervezetekkel való kapcsolatai jelentős tovagyűrűző hatásokat is kifejthetnek, szervezeti határaikon kívül is segítve a modernizációs folyamatokat azokon a részterületeken is, ahová a multinacionális cégek KFI-központjainak hatásai csak jóval áttételesebben jutnának el (ld. 15. ábra).
+
+15. ábra: A tudásbázisok fejlesztésének alternatívái
+
+A stratégia szerint a tudásbázisok fejlesztésénél kitüntetett szerepet játszanak a ma ismert jövő-technológiák,[^23] például az úgynevezett „konvergáló technológiák”, mint az infokommunikáció, a biotechnológia, a kognitív technológiák és a nanotechnológiák, továbbá a matematika. Azt, hogy ezek fejlesztése hogyan szolgálja a hasznosan a magyar gazdasági-társadalmi fejlődést, részben az intelligens szakosodási stratégiák kidolgozása hivatott eldönteni.
+
+A tudásbázisok fejlesztésénél specifikus célkitűzések:
+
+| A1. Képzés és tehetséggondozás |
+
+| A2. Kutatóhelyek erősítése (kiemelten az MTA-n és a felsőoktatásban) |
+
+| A3. Nemzetközileg versenyképes K+F infrastruktúra |
+
+| A4. Modern kutatásmenedzsment |
+
+3. táblázat: A tudásbázisok erősítését célzó eszközök szakmai tartalma
+
+| Képzés és tehetséggondozás 1) A kutatói-fejlesztői munkahelyek bővítéséhez szükséges felsőfokú képzés erősítése. 2) Kreatív, innovatív szakembereket kibocsátó szakképzés fejlesztése. 3) Interdiszciplináris szemléletmód erősítése a felsőoktatásban. 4) A vállalkozói, üzletvezetési, projektvezetési, szellemi tulajdonvédelmi, pályázati, innováció menedzsment, stb. ismeretek oktatásának általánossá tétele, erősítése a gazdasági, műszaki, természettudományos, a kutatói és közszolgálati képzésekben egyaránt. 5) Tehetségazonosítás és fejlesztés az iskolarendszerű és a nem formális, informális oktatásban, tematikus tehetséggondozás, elitképzés. 6) Ösztöndíjprogramok kialakítása 7) A teljes oktatási vertikumban a kreativitás és vállalkozói attitűd erősítése – és az ezt elősegítő pedagógusképzés. | A kutatóhelyek erősítése 1) Kiemelkedő kutatóhelyek nemzetközi színvonalra történő fókuszált fejlesztése, az uniós források bevonása. 2) Kutatók nemzetközi mobilitásának támogatása és a hazai reintegráció elősegítése. 3) BRIC+ országokból PhD hallgatók és post-doc kutatók Magyarországra vonzása. 4) Kutatóképzés, doktori iskolák megerősítése és továbbfejlesztése az EIT tudásháromszög lehetőségeinek kiaknázásával. 5) Kutatói életpálya modell kialakítása és érvényesítése. 6) Az alapkutatás kiszámítható, stabil állami támogatása (kiemelten az MTA-n és a felsőoktatásban). 7) Összehangolt stratégia az egyetemek kutatásaihoz – globális kihívásokra való válaszadás a kutatásokban. 8) Az intézményi technológiatranszfer infrastruktúra és folyamatok támogatása 9) Vállalati szereplők és az akadémiai/egyetemi kutatók közötti kapcsolat kiépítése (részben tudásáramlást erősítő feladat is). |
+
+| Nemzetközileg versenyképes K+F infrastruktúra 1) A kutatási infrastruktúrák versenyképességének erősítése, különös tekintettel a stratégiai prioritási területekre és az európai kutatási irányokra. 2) A K+F infrastruktúrák hazai hálózatosodásának ösztönzése. 3) A nagy nemzetközi infrastruktúrákhoz, hálózatokhoz való csatlakozás elősegítése (benne kiemelten: ESFRI és ELI, ld. a mellékletet). 4) Az infrastruktúrák kihasználtságának növelése együttműködések keretében. 5) Az infrastruktúrák regiszterének nyilvánossá tétele, a szabad kapacitások hozzáférhetőségének biztosítása. | Modern kutatásmenedzsment 1) Új szemléletű kutatásmenedzsment érvényesítése a kutatóhelyek és intézetek vezetésében, (a kiválóság és relevancia együttes menedzselése, projekt- és vállalkozás szemlélet). 2) Vállalkozások, spin-off-ok létrehozásának segítése a kutatóbázisokban. 3) A kutatási és vállalkozói szféra szinergiájának fokozása. 4) A kutatás, oktatás és vállalkozás közös projektekbe vonása, a tudásháromszög erősítése az EIT forrásaival és struktúrájában. 5) Vállalkozásokkal közös gyakorlatorientált kutató-fejlesztő képzés erősítése. |
+
+3.4. A tudásáramlás erősítése
+
+A tudásáramlás erősítésének célja, hogy a nemzeti innovációs rendszer szereplői között erősödjenek az innovációhoz vezető kapcsolatok, fejlődjenek az innováció-menedzsment készségek és képességek, erősödjenek az integrált innovációs szolgáltatások, amelyek együttesen javíthatják mind a magánszektor, mind pedig a közösségi-állami szektor hatékonyságát (ld. 16. ábra). Az állam kitüntetett feladata, hogy a KFI-szakterületen a verseny és az együttműködés kedvező arányát („competition+co-operation=co-opetition”) segítse elő.
+
+16. ábra: A tudásáramlás fejlesztésének alternatívái
+
+A tudásáramláshoz kötődő specifikus célkitűzések:
+
+| B1. Hatékony központi állami innovációs szolgáltatások |
+
+| B2. Decentralizált innovációs szolgáltatások bevezetése |
+
+| B3. Erős hagyományos innovációs kooperációk |
+
+| B4. Nyílt, prekompetitív és társadalmi innovációs együttműködések felkarolása |
+
+| B5. EU és nemzetközi pályázatokon és kezdeményezésekben való hatékony részvétel |
+
+4. táblázat: Az intenzívebb tudásáramlást erősítő eszközök szakmai tartalma
+
+| Központi állami innovációs szolgáltatások 1) Integrált, ügyfélorientált informatikai bázisú nemzeti innovációs szolgáltató rendszer kiépítése figyelemmel a nemzetközi jó gyakorlatokra. 2) Központi KFI információs elemző és szolgáltató adatbázis működtetése (ami KFI Obszervatóriumként már elkezdte működését a Nemzeti Innovációs Hivatalban). 3) Mentorrendszerű innovációs szolgáltatások erősítése. 4) A közszféra KFI keresletének közvetítése a tudásbázisok (A pillér) felé 5) KFI-szolgáltatások minőségének biztosítása (pl. akkreditáció, képzés). | Hagyományos innovációs kooperációk 1) A mainál hatékonyabban működő K+F célú együttműködések (pl. technológiai klaszterek) létrehozásának, működésének elősegítése. 2) Tudományos és technológiai transzferszervezetek és irodák működésének ösztönzése. 3) Konzorciális pályázati, szektorközi (tudomány és ipar) és vállalati együttműködések ösztönzése hazai és nemzetközi szinten egyaránt.24 |
+
+| Decentralizált innovációs szolgáltatások 1) Regionális adottságok kihasználása, helyi speciális igényeknek való jobb megfelelés. 2) Integrált, egyablakos, régiónként egy innovációs szolgáltató bázis kiépítése. 3) Szellemi tulajdonvédelmi információs pontok felállítása 4) Vállalkozások számára tömegesen és gyorsan elérhető szolgáltatások nyújtása (pl. a nemzetközi gyakorlatban elterjedt innovációs voucher, hazai példája, az Innocsekk mintájára)25. 5) Regionális információs bázisok megerősítése és a nemzeti centralizált rendszerrel való kompatibilitás biztosítása. | Nyílt, prekompetitív és társadalmi innovációs együttműködések felkarolása 1) Felhasználók, társadalmi szereplők bevonása az innovációs fejlesztési folyamatokba (open innovation). 2) Platform jellegű vállalati és szektorközi kooperáció erősítése. 3) Szociális innovációs lehetőségek feltárása és felkarolása 4) Keresleti oldalt erősítő prekompetitív eszközök (pl. gazdasági hasznosítást megelőző beszerzés, pre-commercial procurement (PCP), amely egy szűk körben, előnyben részesíti az állami kiírásoknál az innovatív KKV-kat)26. 5) Új, web-alapú társadalmi innovációs megoldások elterjedésének ösztönzése (crowd-funding és crowd-sourcing). |
+
+| EU és nemzetközi pályázatokon és kezdeményezésekben való hatékony részvétel 1) Magyar érdekek képviselete az EU KFI szervezeteiben, kezdeményezéseiben és fórumain (pl. nemzeti kontakt pontok, national contact points, NPCs). 1) EIT KIC-ben - lehetőleg témavezetőként - való magyar részvétel segítése. Az erős hazai KFI-területeken az Európai Innovációs Partnerségi (EIP), ill. a Közös Program Kezdeményezésekben (JPI) való részvétel felkarolása, ösztönzése. 3) Az EU programok és kezdeményezések hatékonyabb elérésének biztosítása (brüsszeli KFI képviselet, hazai rásegítő programok, nemzeti kiegészítő támogatások, partnerkeresés segítése). 4) Kiemelt relációkban a kétoldalú TéT és ipari K+F együttműködések fókuszált elősegítése, a TéT attaséi hálózat továbbfejlesztése és bővítése stratégiailag fontos területeken. 5) Makroregionális együttműködések K+F elemeinek erősítése. 6) Forráskoordináció a KFI-források hatékony, szinergikus felhasználására a 2014-2020-as tervezési ciklusban. 7) Az Enterprise Europe Network magyarországi folyamatainak jobb becsatornázása a stratégiába. |
+
+24 A KFI Stratégia hatóköre nem terjed ki az ipari parkok / technológiai parkok / tudományos parkok fizikai létesítményeinek támogatására, mivel az a szélesebben értelmezett fejlesztéspolitikához tartozik. Ugyanakkor e létesítmények az vállalat-kutatóhely kapcsolatok ösztönzésének fontos térbeli csomópontját jelenthetik, melyet a stratégia eszközrendszere elismer és a megfelelő módon – például a parkokba település ösztönzésével – támogat.
+
+25 A voucher-konstrukció lényege a következő: ha a cégeknek például szabadalmi, kutatási stb. szolgáltatásra van szükségük, megrendelik, befogadják az azt nyújtó szervezet számláját, amit a támogató szervezet közvetlenül a számlát kibocsátó részére fizet ki. A főbb használt fogalmakat a Melléklet is összegzi.
+
+26 A PCP kutatás-fejlesztési és kapcsolódó szolgáltatások olyan beszerzését jelenti, ahol az új fejlesztések potenciálisan közösségi (állami) igényeket szolgálhatnak ki anélkül, hogy a megbízó szervezet elkötelezné magát a fejlesztés eredményeként megszülető termék, illetve technológia tényleges beszerzése mellett.
+
+3.5. A tudásfelhasználással kapcsolatos specifikus célok
+
+A gazdaságban „spontán keletkező”, üzleti haszonnal kecsegtető új tudás kiaknázását elsősorban a jelentős KFI tevékenységet végző, tudás-intenzív vállalkozásoknál várhatjuk, de az innovatív közszféra termelékenység-javulása is kívánatos.[^24]
+
+17. ábra: A tudásfelhasználás javításának alternatívái
+
+A stratégia a gyorsan növekvő KKV-k között kiemelten fontosnak tartja a jelentős KFI-tevékenységet végző, tudás-intenzív és nagy növekedési potenciállal rendelkező vállalkozások, az úgynevezett „gazellák” erősítését és fejlesztését.[^25] Ezek a vállalkozások:
+
+− a gazdaságban lecsapódó hozzáadott értéket az átlagosnál jóval magasabban növelik, amivel együtt jár a jól fizető munkahelyek számának a növekedése is,
+
+− ők adják azt a potenciált, amelynek segítségével az innovatív középvállalati réteg is megerősödhet, és
+
+− ebben a vállalati szegmensben remélhető eredeti, áttörést jelentő innovációk megjelenése is.
+
+Ezért a stratégia célul tűzi, hogy a K+F- és növekedésorientált kisvállalatok („gazellák”) kifejezett és erőteljes kedvezményezésével jelentősen növekedjék az ilyen típusú vállalkozások száma és gazdasági aktivitása. Ez a befektetés az állam részéről egyben azt is jelenti, hogy néhány év múlva nagyobb számban jelenhetnek meg a magasabb jövedelmet generáló munkahelyek, és magasabb lesz ezeknek a cégeknek a nyeresége is. A befektetés tehát megtérül, a nemzetgazdasági átlagnál jóval nagyobb mértékben nő ennek a szektornak hozzáadott értéke (ld. 17. ábra).
+
+A stratégia célja továbbá, hogy az innovatív kezdő vállalkozások - többféle korláttal szembesülve – ne bizonytalanodjanak el már az életciklusuk kezdeti, kritikus szakaszán. Ezért a stratégia keretein belül számukra kedvező, ún. innovációs ökoszisztémát kell létrehozni. Ez az ökoszisztéma pedig nemcsak a komoly növekedési eséllyel rendelkező gazellák kedvezményezését, hanem egyúttal az innovatív kezdő (start-up) vállalkozások helyzetbe hozását is jelenti.
+
+A tudásfelhasználás területén a kisvállalatokkal kapcsolatos specifikus célkitűzések:
+
+| C1. Start-up ökoszisztéma építése |
+
+| C2. Szellemi tulajdonvédelem tudatosítása, jogérvényesítése, könnyítése |
+
+5. táblázat: A kisvállalati szektor tudásalkalmazását segítő eszközök szakmai tartalma
+
+| Start-up ökoszisztéma építése 1) Fiatal vállalkozásokat segítő technológiai inkubációs rendszer kiépítésének és működtetésének támogatása. 2) Induló vállalkozások komplex szolgáltatási rendszerrel (pl. mentorálás, voucher jellegű támogatás) való ellátása, mely javítja a túlélési esélyeket az életpálya kezdeti szakaszában. 3) Fiatal vállalkozások piaci alapú finanszírozásra való felkészítésének támogatása. 4) Magvető- és kockázati tőke alapok szerepének megerősítése, valamint stabil, piackonform pénzügyi és jogi szabályozási keretek, adó- és járulékelemek biztosítása. 5) Képzéssel és akkreditálással segíteni, hogy megfelelően képzett és megfelelő mennyiségű projektbíráló és menedzselő szakember, coach álljon rendelkezésre. 6) A befektetésre érett KFI projektek és a befektetők egymásra találásának segítése. 7) Külföldi start-up és korai fázisú befektetők bevonása ismeretek- és kapcsolati-háló átadása céljából. 8) A pályázati programok alkalmasak legyenek a korai fázis támogatására. 9) A kockázati tőkéről szóló törvény korszerűsítése és az ösztönző mechanizmusok világosabbá tétele. | Szellemi tulajdonvédelem tudatosítása, jogérvényesítése, könnyítése 1) A szellemi tulajdonnal kapcsolatos jogérvényesítés hatékonyabbá tétele. 2) Támogatás szabadalmi kérelmek benyújtásához. 3) Az oltalom fenntartásának támogatása 4) A szabadalmon kívüli iparjogvédelmi és szerzői jogi védelem támogatása (pl. formatervezési mintaoltalom, adatbázis-oltalom). 5) Az SZTNH szellemi tulajdonvédelmi stratégiájának végrehajtása és becsatornázása a KFI-stratégiába. |
+
+Az induló KFI intenzív vállalkozásokon kívül, a gazdaság versenyképességének erősítéséhez szükségesek a középvállalkozások (követő vagy adaptív) fejlesztései, innovációi is. Esetükben kiemelten fontos a külpiacra való kilépés, valamint a magas szintű beszállítóvá válás elősegítése.
+
+Ezeknek a vállalatoknak a célzott segítése egyrészt versenyképesség-növelő hatású, másrészt a segítéssel lehetővé válik, hogy a későbbiekben – amikor az adaptáció már nem elég a versenyben való helytálláshoz – nagyobb számban is újtudás-vásárlóként és/vagy -alkalmazóként lépjenek fel. A stratégia keretében pedig a folyamatosan erősödő tudásközpontok és egyéb korszerűsödő K+F kapacitások idővel képessé válhatnak ennek az igénynek a kielégítésére. Cél továbbá, hogy – tekintettel a közbeszerzések jelentős innovációs tartalmára - egyre több hazai középméretű vállalat legyen képes az állami vagy önkormányzati innovációs tartalmú közbeszerzésekben való részvételre.
+
+A középméretű cégekkel kapcsolatos specifikus célkitűzések:
+
+| C3. K+F iránti középvállalati igény megteremtése |
+
+| C4. Hatékony külpiacra segítés |
+
+| C5. Tudatos állami kereslet az innovációra |
+
+6. táblázat: A középvállalati szektor tudásalkalmazását segítő eszközök szakmai tartalma
+
+| K+F iránti igény megteremtése 1) Határokon átnyúló KFI együttműködések rendszerszintű ösztönözése. 2) Fókuszált külföldi piacokon, célterületeken a magyar vállalatok innovációs tevékenységét segítő szolgáltató irodák működtetése. 3) Tudás és technológia intenzív cégek külpiacra lépésének segítése tanácsadással, képzéssel és egyéb szolgáltatásokkal. 6) Az innovatív cégek növekedését gátló adminisztrációs terhek csökkentése. | Hatékony külpiacra segítés 1) Modern vezetési, értékesítési, üzletviteli, termelésszervezési, pályázással kapcsolatos kompetenciák és ismeretek fejlesztése, tréningek, továbbképzések támogatása. 2) IP tudatosság erősítése. 3) Kooperációs készségek erősítése. |
+
+| Tudatos állami kereslet az innovációra 1.) A közbeszerzési megbízások KFI-szakpolitikai célokra történő alkalmazhatóságának vizsgálata és ahhoz igazodó közbeszerzési gyakorlatok meghonosítása. 2.) Kereskedelmi hasznosítást megelőző beszerzés (pre-commercial procurement, PCP) akciók indítása. 3.) A NATO-n belül technológiai specializáció fejlesztése. 4.) Innovatív megoldások kifejlesztésének és alkalmazásának ösztönzése, támogatása a közszférában. |
+
+Annak érdekében, hogy a nemzeti innovációs rendszer dualitása enyhüljön, kiemelt cél a multinacionális hátterű vállalati kutatóközpontok, valamint a hazai felsőoktatási szervezetek és K+F-fel foglalkozó KKV-k (nem minden esetben kizárólag innovációs célú) együttműködésének erősítése. A nemzetközi vállalatok kutatóközpontjai korszerű tudást hoznak a nemzetgazdaságnak és ösztönzően hatnak a hazai tudásbázis fejlesztésére is.
+
+A stratégia célja, hogy:
+
+− egyrészt a multinacionális nagyvállalatok már meglévő kutató-fejlesztő központjait tovább erősítse,
+
+− másrészt pedig a multinacionális nagyvállalatok új kutató-fejlesztő központokat telepítsenek Magyarországra.
+
+A már itt működő központok globális pozíciója jelentősen javítható a megfelelő üzleti és innovációs környezet kialakításával, a mennyiségi és minőségi szakember-, ill. kutatói kínálat biztosításával. További cél, hogy a betelepülő központok, valamint a hazai kutató-fejlesztő, illetve vállalati szektorok összekapcsolásával nemzetközi élvonalbeli újtudás-felhalmozási és –alkalmazási kultúra alakuljon ki. Ez a kultúra teszi lehetővé, hogy megerősödjön a hazai szervezetek bekapcsolódása a nemzetközi tudásáramlásba, illetve elindulhasson az a specializáció, melynek segítségével Magyarország megtalálhatja szerepét a globális innovációs térben. Jól működő ökoszisztéma esetén a multinacionális cégekben dolgozó kutatók, mérnökök kreatív, vállalkozó szellemű része saját K+F alapú vállalkozásokat is képes elindítani.
+
+A nagyvállalatokkal kapcsolatos specifikus célkitűzések:
+
+| C6. Magas tudástartalmú nagyvállalati munkahelyek, intenzív helyi tudáskapcsolatokkal |
+
+| C7. Egyre innovatívabb, diverzifikálódó beszállító KKV-k |
+
+7. táblázat: A nagyvállalati szektor hazai értékteremtését fokozó eszközök szakmai tartalma
+
+| Nagyvállalati munkahelyek intenzív helyi tudáskapcsolatokkal 1) A multinacionális nagyvállalatokat nem lehet kizárólag az adórendszer és olcsó munkaerő, valamint az infrastruktúra elemeivel tartósan Magyarországon tartani. A nemzetközi versenyben a tartós pozíciókat a humán erőforrás magas színvonala biztosítja. 2) Ehhez olyan magas szintű képzés szükséges, amely igazodik ezen cégek jövőbeli igényeihez. A magas szintű képzés, összekapcsolva a vállalati igényeket is szolgáló kutatás-fejlesztéssel, lehetőséget ad a cégek K+F tevékenységének Magyarországra telepítéséhez, kvalifikált munkahelyek tízezreinek megteremtésére, és ezzel a cégek tartós hazai letelepedésének biztosítására. 3) A nagyvállalati K+F központok magyarországi megerősítése és Magyarországra vonzása EKD (egyedi kormánydöntések) segítségével. 4) Ugyanakkor napjainkban a hazai iparszerkezet nem kedvez az új, eredeti fejlesztésnek, a sikeres innovációnak. Ezért szükség van egy olyan programra, amely keretében a legkiválóbb akadémiai/felsőoktatási kutatatói bázisok is integrált nagy iparági projektek megvalósításában vehetnek részt. | Innovatív, diverzifikálódó beszállító KKV-k 1) A fejlesztési tevékenységet elismerő eszközrendszer (pl. kutató-fejlesztői munkahely támogatása). 2) Integrátor-programok, klaszteresedés támogatása. |
+
+A korszerű versenygazdaságban az állam szerepe mindinkább meghatározó.[^26] Mivel az állami szolgáltatások munka-intenzívek, termelékenységük pedig lassabban nő, mint a feldolgozóiparé,[^27] ezért a közszféra tudatos innovációs fejlesztése gazdasági növekedési és jóléti hatásokkal jár.[^28] Azokban az országokban, ahol elmaradnak a közszféra innovációi, kevésbé sikeres a vállalkozások innovációs teljesítménye (Inzelt (2013)). A KFI-stratégia célul tűzi, hogy 2020-ig az innovációs rendszer részeként a közszféra innovációi nagyobb figyelmet kapjanak, elsősorban a legnagyobb közösségi szektorokra tekintettel.
+
+A közszféra-innovációkkal kapcsolatban a stratégia általános célkitűzést fogalmaz meg:
+
+| P1. Innovációk dinamizálása az egészségügyben, környezetügyben, energetikában, oktatásban, közlekedésben/logisztikában |
+
+8. táblázat: A közszféra innovációit dinamizáló eszközök szakmai tartalma
+
+| Innovációk dinamizálása az egészségügyben, környezetügyben, energetikában, oktatásban, közlekedésben 1) Az oktatási szakterülethez (OFI (2011)) hasonlóan helyzetértékelés és stratégiai javaslatok kidolgozása az egészségügyi, környezetügyben, energetikai és közlekedési-logisztikai innovációs rendszerekről. 2) Az innovatív közbeszerzés eszközeinek alkalmazása a szakterületeken (pre-commercial procurement, PCP is). 3. A tudásbázisokra (lásd A pillér) alapozva alkalmazott kutatások megrendelése és felhasználása a közpolitikában, közszférában. 4. Innovatív javak és szolgáltatások közbeszerzése olyan teljesítményre, illetve funkciókra alapozva, ami fejlesztést igényel. |
+
+A vállalatok és a közösségi szolgáltatások technológiai korszerűsödése döntően nem új, eredeti fejlesztésekkel és innovációval, hanem nagy tömegben a korábban kifejlesztett és alkalmazott, vagyis adaptív innovációs megoldások keretében játszódik le. Az adaptív innovációk egy jelentős része szervezési, marketing, illetve szolgáltatási innováció, melyek informatikai és kommunikációs technológiai (IKT) megoldásai érdemben javítják a termelékenységet és a minőséget a magán- és a közösségi szektorokban egyaránt.
+
+Az adaptív innovációs folyamatokkal kapcsolatos célkitűzés:
+
+| C8. Adaptív innovációs megoldások - elsősorban informatikai és kommunikációs technológiákra alapozott - terjedésének gyorsítása |
+
+9. táblázat: Az adaptív innovációkat támogató eszközök szakmai tartalma
+
+| IKT alkalmazások terjedésének és fejlesztésének gyorsítása 1) A korszerű KFI igényeket kielégítő informatikai alap infrastruktúra folyamatos fejlesztése és kedvezmények nyújtása (hálózatok korszerűsítése, összekapcsolása, szoftverházak feladatra és méretre hangolása). 2) Innovatív IKT alkalmazások és ismeretek fejlesztése, használata a KFI és a vállalatirányítás területén, illetve együttműködésük elősegítésére. 3) Tartalomszolgáltatás fejlesztése. 4) Az innovációt és kreativitást segítő digitális írástudás elősegítése, valamint a lakossági számítógépes és mobil penetráció növelése. |
+
+A vállalati kör egy része számára a kutatás-fejlesztési támogatás sokkal hatékonyabb a közvetett ösztönzőkön keresztül. Ezért a stratégia a teljes vállalati kört érintően célként fogalmazza meg az alábbi célkitűzést:
+
+| C9. Európa legversenyképesebb K+F adóösztönző rendszere |
+
+10. táblázat: Az adóoldali ösztönzés lehetőségei
+
+| Versenyképes K+F adóösztönző rendszer 1. Megfontolandó, hogy a 2014-ben kezdődő költségvetési periódus során a Strukturális Alapok K+F támogatásra fordítandó hányadának egy részét adókedvezmény formájában vehessék igénybe a vállalatok (A megoldás gyakorlati alkalmazhatósága nagyban függ az EU formálódó eljárásrendjétől). 2. Megfontolandó, hogy a vállalati-kutatóhelyi kapcsolatokat ösztönző K+F adókedvezmény – a költségvetés korlátait figyelembe véve – hazai forrásból is működjön. A konstrukció kialakításába az érintett piaci szereplők bevonása is indokolt.32 |
+
+32 Megjegyezzük, hogy a stratégia készítésének időpontjában 3 jogcímen is igénybe vehető fejlesztési adókedvezmény, ami a K+F szempontjából is releváns lehet. A teljes adóoldali K+F ösztönzés egységes szabályozása ezért is kiemelten fontos.
+
+A KFI-stratégia célkitűzéseit segítő eszközrendszer kidolgozása során – a korábban bemutatott és részletesen elemzett problémafához igazodóan – horizontális prioritásokat is érvényesíteni szükséges. Ezek a következők:
+
+• H1. Intelligens szakosodás a régiókban (S3)
+
+• H2. Fenntarthatóság, esélyegyenlőség
+
+• H3. A prioritási tengelyek stabil finanszírozási feltételeinek biztosítása
+
+• H4: A tudás és technológia társadalmi megismertetése és elismertségének erősítése
+
+• H5. Globális társadalmi kihívásoknak megfelelés
+
+• H6. Stabil és innovációbarát gazdasági és szabályozási környezet
+
+A horizontális prioritások érvényesülését és megvalósítását a 6. sz. melléklet részletesen is ismerteti.
+
+3.6. Számszerűsített célkitűzések (indikátorok)
+
+A KFI-stratégia 2020-ig tervezett megvalósításának eredményességét prioritási tengelyek szerint – a már ismertetett fő számszerű célkitűzések mellett – az alábbi indikátorok mérik:
+
+A nemzetközileg versenyképes tudásbázisok prioritási tengely fő célkitűzései:
+
+• +30 nagyobb kutatási és technológiai fejlesztési műhely található a világelitben,
+
+• az összes GDP-arányos KFI ráfordítás (GERD/GDP arány) 1,8%-ra emelése.
+
+A prioritási tengelyhez kapcsolódó további célkitűzések:
+
+• a vállalati KFI ráfordítások arányának (a BERD/GDP mutató értékének) 1,2%-ra emelése,
+
+• kutatók, fejlesztők tényleges száma: a GERD/GDP célkitűzés teljesítéséhez mintegy 56.000 kutatói, fejlesztői munkahelyre van szükség 2020-ra.
+
+A hazai és nemzetközi szinten hatékony tudás- és technológiai transzfer együttműködések prioritási tengely fő célkitűzései:
+
+• sikeresség a nemzetközi és EU-s KFI programokban,
+
+• az innovációs lánc teljességét lefedő innováció-menedzsment szolgáltatások.
+
+• a stratégiában rögzített kiemelt vállalati célcsoportok igényeire épített (kliens orientált) minősített innovációs szolgáltatások száma.
+
+A prioritási tengelyhez kapcsolódó további célkitűzések:
+
+• szellemi tulajdonhoz kapcsolódó rezidens bevételek növekedése (a fizetési mérleghez kapcsolódóan),
+
+• nemzetközi társzerzős tudományos közlemények növelése.
+
+A korszerű TéT eredményeket intenzíven hasznosító magyar vállalatok prioritási tengely fő célkitűzései:
+
+• +30 globális nagyvállalati K+F központ telepedett/erősödött meg,
+
+• +30 K+F intenzív makroregionális multi középvállalat termel és szolgáltat,
+
+• +300 csúcstechnológiai gazella cég találja meg globális piaci számításait,
+
+• +1000 innovatív start-up cég kap az induláshoz jelentős támogatást 2020-ig.
+
+A prioritási tengelyhez kapcsolódó további, jórészt indirekt, ám monitorozandó célkitűzések:
+
+• termelékenység-növekedés,
+
+• exportáló KKV-k (kiemelten: a KFI intenzív középvállalatok) arányának növekedése,
+
+• innovatív cégek aránya a 10 fő felett foglalkoztató működő vállalkozások között (a mutató értékét 30%-ra szükséges növelni 2020-ra).
+
+Az eddig kidolgozott indikátorok pontos szakmai tartalmát és a hozzájuk tartozó célértékeket a 7. sz. melléklet részletesen is tartalmazza.
+
+3.7. A célkitűzések rendszerbe foglalása
+
+A kibontott célrendszerben több külön szálon futó, önállóan is jelentős hasznot hordozó célkitűzés került meghatározásra (ld. 18. ábra). A hozzájuk kötődő intézkedések megvalósítása a magyar innovációs rendszer fontos tényezőit erősíti, hozzájárulva ezzel a társadalom és gazdaság általános fejlődéséhez. Átfogó és valóban mélyen gyökerező teljesítményjavulásra azonban csakis abban az esetben kerülhet sor, ha valamennyi lényeges célkitűzés irányában komoly lépések történnek, illetve, ha a rendszerszemléletű stratégiai irányítás hosszabb távon is érvényesül.
+
+A célkitűzések megvalósítását segítő állami eszközökkel az adott beavatkozási területeken:
+
+− a piaci kudarcok („market failures”),
+
+− a rendszerszintű kudarcok („systemic failures”), és
+
+− a kormányzati kudarcok („government failures”) küszöbölhetők ki, illetve kezelhetők.
+
+A piaci kudarcok esetében az államnak azért kell beavatkoznia, mert a piaci erőkre hagyatkozva nem valósíthatók meg maximális gazdasági-társadalmi megtérülést hozó humán-, infrastruktúra- és tőkebefektetések. A célrendszert áttekintve megállapítható, hogy a tudástermelés nagy alappillérétől (kiválósági központok, szervezeti kiválóság növelése) a hasznosításig (innovatív KKV-k ösztönzése, támogatása) a piaci kudarcok egész láncolatáról beszélhetünk. A KFI beavatkozási területeken az intézkedések miatt bekövetkező eredmény- és hatékonyság-növekedést azonban meg lehet többszörözni (multiplikatív hatás), ha a KFI-stratégia valódi küldetéssel, irányultsággal rendelkezik, amely a külön-külön szálon futó intézkedéseket rendszerbe foglalja.
+
+A nemzetközi tapasztalatok szerint a stratégiának irányt, keretet olyan típusú állami szerepfelfogás képes adni, amelyik a Nemzeti Innovációs Rendszer (NIR) építésen alapszik, és nemcsak a közgazdaságtan fő áramában kitüntetett piaci kudarcok kiküszöbölését veszi figyelembe, hanem a már említett rendszerszintű kudarcokat és kormányzati kudarcokat is.[^29] A NIR-szemlélet alkalmas arra, hogy a stratégia tekintetbe vegye:
+
+− a nemzeti innovációs rendszer meghatározó szektorainak (az egészségi ágazattól az élelmiszer, vagy az energiagazdaságig), illetve magának a nemzeti integrált szintnek a sajátos dinamikáját,
+
+− a feladatok meghatározásának olyan módozatait, amelyek a sajátos rendszerjellemzők alapján a piacokat formáló és a cégek innovációs magatartását befolyásoló specifikus struktúrák, szervezetek és ösztönzők igénybevételét, és nem pusztán a piaci tökéletlenségre hivatkozó közvetlen támogatások valamilyen rendszer szerinti allokációját biztosítják.
+
+Ez a szerepvállalás a KFI stratégia meghatározott prioritásaira és fókuszterületeire feltételezi a felülről indított kormányzati programokat is, a részpiacokat (pl. az alternatív energiaellátást) szabályozó lépéseket, az intézmény- és szervezetépítést, mint ahogyan a klasszikus versenyerősítő szabályozási lépéseket is.
+
+A stratégia önálló kiemelt feladatának tekinti a nagyobb ipari és tudásbázisok koncentrált, nemzetközi színvonalú, nagy KFI projektjeinek együttműködésen alapuló megvalósítását, amely szintén követi az integrált innovációs rendszerépítés felülről irányított top-down elvét. Ezek kettős értelemben is jótékony hatással lehetnek az innovációs rendszerépítésre: egyrészt átfogják és ágazatilag lefedik az innovációs rendszer dinamikus szektorait, másrészt megvalósításukkal a tudásáramlás klaszterfolyamatait valósítják meg a hálózati kapcsolatok elmélyítésével és erősítésével.
+
+Végül, kivételes esetekben az állam a hazai KFI rendszer nemzetközi szempontból világszínvonalú tudomány és kutatási területeire olyan programokat is kezdeményezhet, amelyben a KFI kockázatvállalást, a proaktivitást tekintve túllép az innovációs rendszerépítés keretein. Ilyen esetben nem csupán a felfedező kutatások támogatásáról van szó, de - éppen ezek technológiai összekapcsolódása miatt - a hasznosítási tér feltárása, és az interdiszciplinaritásból következő rendszer kockázatok kezelése is a feladatai közé tartozik, beleértve a megtérülést biztosító kereskedelmi hasznosítás modellezését, kidolgozását.
+
+Az intelligens szakosodási programot a KFI-stratégia rendszerszemléletű felfogására és prioritásaira építve, a regionális szereplők és helyi szakemberek partneri hálózatai dolgozzák ki és hajtják végre. Az Európa 2020 stratégia céljai és elvárásai szerint, ennek az átfogó (eredetileg a szektorális innovációs rendszerekre és ezek együttműködési logikájára értelmezett), EU szintű területfejlesztési koncepciónak az összes európai régió tudás és tanulási folyamatát kell optimalizálnia. Ebben az előre tekintő, sok partnert és innovációs szereplőt szervező, összehangolt, térségi bázisú és KFI-specializációkra alapozó program kialakításában kiemelt szerepe van az okos, a kulcságazatokkal és vállalatokkal együttműködő térségi, illetve helyi politikáknak. A regionális politika alapját a lehető legmélyebben a területi gazdasági rendszerbe ágyazódott, nemzetközileg is versenyképes iparági és szolgáltatási szektorok és a diverzifikált térszerkezet képezi. Ugyanakkor az egyes régiók éppen a globális innovációs és technológiai kapcsolat rendszerrel rendelkező iparági és szolgáltatási platformok tekintetében mutatják a legszélsőségesebb fejlettségi különbségeket. Ezért a regionális innovációs stratégiának arról is gondoskodnia kell, hogy a KFI-stratégia horizontális megközelítéséből és a fejlettebb régiók dinamikájából táplálkozó szakosodási folyamat az elmaradott és felzárkózó térségekben is növekedést eredményezzen.
+
+Az ország egyetlen tudásintenzívnek tekinthető központi régiójában és újonnan megerősödő (pl. a kiemelt ipari ágazatok) térségeiben kialakuló diverzifikált, technológiaintenzív ipari és szolgáltatási struktúrák egyértelműen kedvezőek (a méretgazdaságossági hatások miatt) a K+F, a humán (képzési és tanulási) valamint a hálózati programokra épülő növekedés folyamat dinamikája szempontjából. A hátrányos helyzetű térségekben ezt a folyamatot egyrészt a fejlettebb régiók technológiai platformjaihoz igazodó, hatékony tudás és innovációs transzfer segíti a megfelelő szakosodási területeken, ahol a helyben elindított képzési és tanulási programok a legjobb méretgazdaságossági jellemzőkkel, eredményesen valósíthatók meg. Itt fontos szerepe van a hálózati kapcsolatok fejlesztése szempontjából elsődleges infrastruktúra fejlesztésnek, főként az ICT területen. Továbbá az innovációra alapozott térségi felzárkózásban fontos szerep jut egyes rendszerszerűen épülő közösségi-közszolgáltatási funkciót megvalósító programoknak, amelyek a KFI-stratégia egyik célkitűzését képező közszektor innovációját valósíthatják meg.[^30]
+
+A szakosodási programok realizálása, a KFI-eredmények hasznosítása és a technológia-adaptáció érdekében célszerű az alkalmazott eszközrendszerben is különbséget tenni a komplex régiós programok megvalósításához szükséges, rendszerint korai fázisú KFI-programok és a hasznosítási oldalt reprezentáló vállalati támogatások között. Az elválasztás lényege, hogy a KFI-projekt részek nem kötődnének feltétlenül a területiséghez, horizontális formában minden régió számára egyenlő feltételekkel és hozzáféréssel lennének pályázhatók, miközben az innovációs vállalati program támogatási preferenciáinak célszerűen igazodnia kell a régiós, ágazatilag meghatározott program feltételekhez.
+
+A stratégia kiemelt intézmény- és szervezetfejlesztési súlypontja a nemzetközi színvonalú modern innovációs menedzsment meghonosítása. Itt olyan innovációs szolgáltatások célzott és szegmentált bevezetéséről, illetve megvalósításáról van szó, amely a stratégia kitüntetett kedvezményezett célcsoportjainak (például a fiatal innovatív vállalkozásoknak) nyújt a növekedésükhöz és az innovatív képességük megerősítéséhez ügynökségi szolgáltatásokat. Mindezek a feladatok megalapozzák a további, gyors növekedési képességű KFI és technológia-intenzív fiatal vállalkozások dinamikus növekedését szolgáló támogatási programokat (pl. technológiai inkubátor programot). A technológiai inkubátor program kiteljesedésével a fiatal, innovatív mikro- és kisvállalatok (gazellák) tartós fejlődése szempontjából biztosítja az elengedhetetlen környezeti feltételeket, az úgynevezett ökoszisztémát. Erre láncszerűen - mint az innovációs rendszer egyik kitüntetett dinamikus csomópontját képező célcsoportra - további szabályozási elemek és ösztönzők építhetők rá a kockázati tőke befektetések orientálásától a speciális járulék- és adókedvezményekig.
+
+18. ábra: Célrendszer: a gazdaság KFI-alapú dinamizálása
+
+4. A stratégia végrehajtásának fő eszközei
+
+4.1. A szakpolitikai eszközrendszer elemei
+
+A KFI-szakpolitika számára rendelkezésre álló eszközök (”policy mix”) tervezése egységesen a stratégia célcsoportjainak fejlődését szolgálja, és figyelembe veszi az adópolitikai ösztönzőket is (ld. 19. ábra).
+
+19. ábra: A KFI-szakpolitikai eszközök csoportosítása
+
+Forrás: Adaptáció a Raising EU R&D intensity, 2003 kötet alapján
+
+A KFI szakpolitikai eszközrendszer konkrét eszközeinek alkalmazása nem elsősorban finanszírozási döntés kérdése, ám a megfelelő eszközök tudatos használata pénzügyileg is hatékony szakpolitikai beavatkozásra ad lehetőséget:
+
+− a közvetlen eszközök a KFI közvetlen pénzügyi támogatását jelentik;
+
+− a közvetett (fiskális – adóoldali –, szabályozási, szabványosítási) eszközök az innovációs rendszer szereplőinek viselkedését automatizmusokon keresztül befolyásolják;
+
+− a keresletoldali eszközök (pl. innovatív közbeszerzés, kereskedelmi hasznosítást megelőző beszerzés) alkalmazása a stratégia időkeretén belül Magyarországon elsősorban nem a többletforrások KFI eredmények beszerzése érdekében való biztosítását jelentheti, hanem a rendelkezésre álló források innováció-tudatos elköltésével képzelhető el;
+
+− a rendszerszemléletű beavatkozások többnyire kis forrásigényűek, mivel nem magának a KFI tevékenységnek a támogatására irányulnak, hanem a nemzeti innovációs rendszer építéséhez a szektorközi kapcsolatok és a hálózatosodás ösztönzése, vagy a szakpolitikai irányítás, hatósági és szolgáltató tevékenység fejlesztése révén járulnak hozzá.
+
+A stratégia rugalmasságát korszerű intézményrendszeri megoldások és az új közszféra-menedzsment („new public management”) elveihez igazodó tervezett visszacsatolási mechanizmusok biztosítják. Nagyon lényeges ugyanis, hogy a kedvezményezettek támogatása során a szakszerű és érdekkonfliktusoktól mentes támogatás együttes követelményrendszerének megfelelő írott és íratlan szabályok érvényesüljenek.
+
+4.2. A tudásbázisokat támogató eszközök
+
+Nemzetközi tapasztalatok szerint a tudásbázisok megerősödését elsősorban a közvetlen állami támogatási konstrukciók szolgálják leghatékonyabban. A hatékonysághoz és a jótékony gazdasági hatások kiteljesedéséhez azonban a kiemelt támogatásért teljesítményelvárásokat is meg kell fogalmazni. A nemzetközi pozíciókra törő tudásbázisok esetében – a támogatással párhuzamosan – ez elsősorban a kiválóság-alapú szemlélet, a kutatási-tudományos autonómia és a hasznosítás-orientált tudomány-menedzsment megfelelő eszközeinek a használatát jelenti (ld. 20. ábra).
+
+20. ábra: A tudásbázisokat erősítő főbb eszközök
+
+A rendszerszemléletben kidolgozott eszközrendszer a közfinanszírozású szektor tudásbázisait az együttműködést megkövetelő (konzorciumi) vállalati KFI-pályázatokkal, továbbá az adórendszeri ösztönzés KFI együttműködést kedvezményező eszközeivel is segíti.
+
+4.3. Az innovatív vállalati célcsoportokat támogató eszközök
+
+Az innovatív kis- és középvállalatokat életciklusuk különböző szakaszaiban az adott szakaszhoz jól illeszkedő, nemzetgazdasági szinten megtérülő támogatási megoldások segítik (ld. 21. ábra).
+
+21. ábra: Az innovatív hazai KKV-kat erősítő eszközök
+
+[^1]: Egyes szerzők szerint már nem igaz az sem, hogy – ha az innovációban nem is – a tudományban Európa képes tartani a lépést az Egyesült Államokkal, ugyanis a jövő szempontjából kulcsfontosságú tudományos területeken az EU már hátrányban van (ld. Dosi et al., 2006)
+[^2]: A fejlett KFI szakpolitikák gyakran anticiklikus jelleget öltenek. E szerint gazdasági depresszió esetén a kormányzatok erősen növelik a KFI-re fordított összegeket. 2009-ben 29 európai országból 25 növelte a kormányzati K+F kiadásokat, és 12 ország 5%-nál is nagyobb mértékben tudta növelni a kormányzati K+F kiadásait. Bár 10 olyan ország is van, ahol a kormányzati K+F ráfordítások csökkentek, mindössze 4 esetében van példa arra, hogy a gazdasági visszaesésnél erőteljesebben csökkentek a kormányzati K+F kiadások
+[^3]: Ugyanakkor a 81 milliárd euróra tervezett összeg indikatív, és előfordulhat, hogy a Horizont 2020 költségvetését végül alacsonyabb főösszeggel fogadják el.
+[^4]: Az elemzések – bonyolult módszertanok alkalmazásával – rendre megerősítik, hogy a K+F messze nagyobb megtérülést eredményez, mint például a gépberuházás (Ld.: Hall, Mairesse, Mohnen, 2009).
+[^5]: A jövőben általában is kulcsszerepe lesz a kimagasló teljesítményt nyújtó iskolateremtő kutatók köré szerveződő kutatócsoportoknak, és várható a külső tanácsadó testületek szerepének növekedése, az egyéni, kutatócsoporti és kutatóközponti teljesítménykövetelmény-rendszer kiteljesedése is.
+[^6]: Más megközelítésben ugyanezt a trendet fejezi ki, hogy a tudományos intézményi rendszer mind az intézményi kiválóság, mind a nemzetközi összehasonlítás szerint túlzottan széttöredezett (átlagos projektméret, átlagos kutatóhely-méret, fajlagos kutatásfinanszírozás stb.). Például a 7. Keretprogramban az egy kutatóra jutó átlagos projektméret 100 ezer euró/kutató, miközben a kelet-közép-európai országokban ennek harmada, 33 ezer euró/kutató átlagos projektméret a jellemző. Ld: Fraunhofer, 2012.
+[^7]: Fraunhofer, 2012.
+[^8]: A stratégia írásának időpontjában a felsőoktatás átalakításával kapcsolatban számos intézkedés végrehajtása van folyamatban. Az EU-források abszorpciójának növelésére a tudományos kiválóság erősítésére szükség van, ami a stratégiai időhorizonton nyilvánvalóan intézkedéseket igényel (ld. később pl. a kutatói életpálya-modell kidolgozására irányuló terveket).
+[^9]: Ha a K+F-re szűkítéstől eltekintünk, az élelmiszeripar is Magyarország jelentős innovatív húzóágazatai közé sorolható.
+[^10]: Az állítás a külföldi működőtőke egészét tekintve releváns. Természetesen Magyarországon jelen vannak olyan tekintélyes nemzetközi nagyvállalatok is, melyek magyarországi K+F központja fontos szerepet játszik az anyavállalati stratégiai döntésekben
+[^11]: Az intelligens szakosodás – a fogalom tartalmát tekintve – a térségi, ágazati, tudomány- és technológiaterületi vetületeket figyelembe vevő ésszerű és hatékony szakosodást jelent.
+[^12]: Török (2006) is felhívja a figyelmet, hogy a hazai KFI-szakterület évtizedek óta stratégia nélkül próbál stratégiai szerepet játszani a nemzetgazdaságban.
+[^13]: A középkorban működő faluközösségi analógiára utalva. A faluközösségekben a szabadon hasznosítható közlegelők minden gazdálkodó számára hozzáférhetők voltak (ld. Pisano és Shih, 2009).
+[^14]: Első lépésként – lásd a tervezett irányítási szerepköröket – olyan menedzsment struktúrák kialakítása indokolt, amely a rendszerszintű determinációkat is figyelembe veszi és összefüggéseiben tekint a kutatás-fejlesztés és innováció területének egészére. Mivel Magyarországon kevés a vonatkozó intézményrendszeri tapasztalat, ezért az első értékelésektől a jelentősebb tanulási hatás is elvárt.
+[^15]: A szakpolitika fontosnak tartja, hogy a magyar tulajdonosi hátterű cégek erősödjenek, ugyanakkor e törekvéseket a nemzetközi versenyszabályozással összhangban kell megvalósítani.
+[^16]: David Birch, 1979.
+[^17]: A közszféra esetében a célok elérését társadalmi hatások szolgálják (pl. a közfeladatok magasabb színvonalú és költséghatékony ellátásához, a lakosság egészségi állapotának és munkaképességének javításához való hozzájárulás révén)
+[^18]: Mindez részletekbe menő méréseket és értékeléseket indokol. Meg kell említeni, hogy a nemzeti innovációs rendszer teljesítménye nem független az ágazati, regionális és technológiai innovációs rendszerek nemzetközi beágyazottságától és teljesítményétől (Vas és Bajmócy (2012)). A stratégia jövőbeli értékelései során e kérdésekkel is hangsúlyosan foglalkozni kell.
+[^19]: Rendszerszemléletű elemzés már az 1990-es években is készült Magyarországon (Ld.: Inzelt, 1996, Papanek, 1999), az egységes rendszerszemléletű KFI-szakpolitika azonban eddig nem nyert létjogosultságot.
+[^20]: A stratégia részelemei figyelembe veszik az Európai Unió intelligens, fenntartható és inkluzív növekedési célkitűzését.
+[^21]: A megfontolást az MTA (2011) beszámoló is kiemelten hangsúlyozza.
+[^22]: A kutatási infrastruktúrák kiemelt nemzetközi jelentőségét a 4. sz. melléklet külön is ismerteti.
+[^23]: Például az informatikában az Európai Bizottság Future and Emerging Technologies (FET) kezdeményezését lehet említeni.
+[^24]: A KFI kapacitások erősítése és a KFI tevékenységek ösztönzése e területeken a közvetlen, versenyképességet javító hatások mellett jelentős további pozitív gazdasági-társadalmi hatásokkal járhatnak.
+[^25]: A szakirodalomban - David Birch nyomán – a „gazellák megnevezés terjedt el. Az EU terminológiában ismert továbbá a fiatal innovatív vállalkozás (Young Innovative Companies, YIC) kifejezés is.
+[^26]: A Wagner-törvény értelmében a gazdasági fejlettség növekedésével együtt jár az állami kiadások arány-növekedése.
+[^27]: Ezt Baumol-hatásként ismeri a közgazdasági szakirodalom.
+[^28]: 
+[^29]: Az élenjáró országok innovációs és technológia-politikai stratégiáját a nagy társadalmi-gazdasági kihívások, és/vagy bonyolult tudományos-technológiai komplex fejlesztési problémák megoldására irányuló, a jövő technológiáit tudományosan előkészítő, gyakran nagyléptékű nemzetközi partnerségi fejlesztési programok, együttműködések keretei között határozzák meg. A fejlett innovációs kultúrájú országokban, ahol a KFI szakpolitika már évtizedek óta emancipálódott (tehát kulturálisan meghatározott tradíciók, közpolitikai, igazgatási keretek és intézményi minták közt működik), érett, a meghatározó elemeket tekintve kiegyensúlyozott nemzeti és regionális innovációs rendszerek fejlődtek ki.
+[^30]: A rendszerszintű építkezés mikroszintjein a közösségvezérelt helyi fejlesztések (community led local development, CLLD) figyelmet érdemelnek. A régiók alatti szinten használható CLLD olyan eszköz, amely helyi szinten képes kiegészíteni a fejlesztési támogatásokat, és ösztönzi a települési szereplők, a helyi közösség tagjai közötti együttműködést. Ezen keresztül fejleszthetőek a közösségi kapacitások és ösztönözhető az innováció (beleértve a társadalmi innovációt is), a vállalkozói tevékenység és a változásra való képesség.

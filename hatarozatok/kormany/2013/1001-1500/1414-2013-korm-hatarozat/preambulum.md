@@ -1,0 +1,1 @@
+A Kormány az Európa 2020 stratégiához kapcsolódó Nemzeti Reform Programban vállalt, hazánk kutatás-fejlesztési és innovációs teljesítményének növelésére irányuló célkitűzések elérése érdekében a következő határozatot hozza:
