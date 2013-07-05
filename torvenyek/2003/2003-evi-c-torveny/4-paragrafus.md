@@ -22,7 +22,7 @@ e)
 
 f)
 
-g) meghatározza az elektronikus hírközlés biztonságának alapelveit, minősített időszaki felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
+g) meghatározza az elektronikus hírközlés biztonságának alapelveit, a különleges jogrend idejére irányuló felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
 
 h) meghatározza az elektronikus hírközlés területén a nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
 

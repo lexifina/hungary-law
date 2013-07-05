@@ -14,7 +14,7 @@
 
 (7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a kormányzati célú hálózat működtetőjével.
 
-(8) Műszaki, forgalmi, katasztrófa- vagy egyéb veszély miatt keletkező üzemzavar elhárításához a szolgáltató köteles külön jogszabályban meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott felkészülési, zavarelhárítási és katasztrófaelhárítási tervekkel és a felkészülésre vonatkozó jogszabályokból következő feladatok ellátásához szükséges mértékű és összetételű tartalékokkal rendelkezni.
+(8) Műszaki, forgalmi, katasztrófa- vagy egyéb veszély miatt keletkező üzemzavar elhárításához a szolgáltató köteles külön jogszabályban meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott felkészülési, zavarelhárítási, katasztrófaelhárítási és üzletmenet-folytonossági tervekkel és a felkészülésre vonatkozó jogszabályokból következő feladatok ellátásához szükséges mértékű és összetételű tartalékokkal rendelkezni.
 
 (9) Minősített időszak esetében alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében az elektronikus hírközlési szolgáltatóknak külön jogszabályban meghatározott módon együtt kell működniük egymással, illetve az illetékes szervezetekkel.
 

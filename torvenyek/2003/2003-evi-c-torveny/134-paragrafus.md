@@ -34,7 +34,19 @@ d) az előfizető a szolgáltatást törvénybe ütköző módon vagy célokra h
 
 (10) A szolgáltató jogosult a szerződés felmondása helyett biztosítékot kérni vagy – a 137. § feltételei szerint – korlátozni a szolgáltatások körét, illetve használatát. Amennyiben az előfizető a korlátozás okát 30 napon belül nem szünteti meg, a korlátozás nem akadálya a felmondásnak, ha a felmondás feltételei egyébként fennállnak.
 
-(11) Az előfizetői szerződés megszűnése egyes eseteinek az (1)–(9) bekezdésekben nem szabályozott feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
+(10a) Az előfizetői szerződés megszűnik továbbá:
+
+a) az előfizető halálával, jogutód nélküli megszűnésével,
+
+b) a szolgáltató halálával, jogutód nélküli megszűnésével,
+
+c) az átadó szolgáltatóval fennálló előfizetői szerződés a számhordozásra vonatkozó szabályok szerint a számhordozás megvalósulásával, amennyiben az nem módosul, vagy
+
+d) a felek közös megegyezésével, figyelemmel a 127. § (4) bekezdésére és azzal a feltétellel, hogy a ráutaló magatartással kötött előfizetői szerződést ráutaló magatartással, kifejezett szóbeli vagy írásos nyilatkozattal, a szóban kötött előfizetői szerződést kifejezett szóbeli vagy írásos nyilatkozattal, míg az írásban kötött előfizetői szerződést kifejezett írásos nyilatkozattal szüntethetik meg a felek.
+
+(10b) Az előfizetői szerződés kizárólag az e törvényben és a végrehajtására kiadott jogszabályban foglalt esetekben és módon szűnhet meg, az előfizetői szerződés bármely ezzel ellentétes rendelkezése semmis.
+
+(11) Az előfizetői szerződés megszűnése egyes eseteinek az (1)–(10a) bekezdésben nem szabályozott feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
 
 (12) A szolgáltató – a másik szolgáltató kérelmére – köteles felmondani az előfizetői szerződést, ha a szolgáltató elektronikus hírközlő hálózatát másik szolgáltató használja, vagy a díjat másik szolgáltató helyett szedi be, és
 

@@ -8,7 +8,7 @@ b) a jelentős piaci erővel nem rendelkező szolgáltatókra vonatkozó kötele
 
 c) referenciaajánlatokkal kapcsolatos döntés,
 
-d) frekvenciagazdálkodás körében előírható korlátozásról szóló döntés
+d)
 
 meghozatalát megelőzően, valamint ha megítélése szerint egyébként szükséges, hatósági hatáskörébe tartozó ügyekben egyeztetést kezdeményez az érdekeltekkel (a továbbiakban: egyeztetés). Ennek keretében hatósági döntésének meghozatala előtt legalább harminc nappal közzéteszi a döntés tervezetét, valamint az egyeztetés lefolytatásához szükséges, az adott döntéshez kapcsolódó előkészítő anyagokat.
 

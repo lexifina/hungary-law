@@ -1,4 +1,4 @@
-11. § (1) A rádiótávközlési és rádióspektrum-politika érvényesítése érdekében a Hatóság, mint polgári frekvenciagazdálkodó hatóság, a nem polgári célú frekvenciagazdálkodó, önálló hatáskörrel rendelkező szervezeti egysége (a továbbiakban: KFGH), mint nem polgári frekvenciagazdálkodó hatóság (a továbbiakban együtt: frekvenciagazdálkodó hatóságok) műszaki tervet készít a szabályozás előkészítése érdekében:
+11. § (1) A rádiótávközlési és rádióspektrum-politika érvényesítése érdekében a Hatóság, mint polgári frekvenciagazdálkodó hatóság, valamint a Hatóság önálló hatáskörrel rendelkező szervezeti egysége, a Közigazgatási Frekvenciagazdálkodási Hatóság (a továbbiakban: KFGH), mint nem polgári frekvenciagazdálkodó hatóság (a továbbiakban együtt: frekvenciagazdálkodó hatóságok) műszaki tervet készít a szabályozás előkészítése érdekében:
 
 a) a frekvenciasávok újrafelosztására, illetőleg átrendezésére;
 

@@ -18,7 +18,7 @@ c) az elektronikus hírközlési szolgáltatások használata során a személye
 
 (4) Ha jogszabály az előfizető értesítését írja elő és a szolgáltató a szolgáltatás jellegéből adódóan nem köteles számlalevelet küldeni, illetve ha az értesítés számlalevélben történő teljesítésére azért nincs mód, mert az értesítés jogszabály által előírt időpontja a számlalevél előfizetőnek történő, szolgáltató általános szerződési feltételei által meghatározott megküldési időpontját megelőzi, a szolgáltató választása szerint – a 144. § (5) és (6) bekezdésében foglaltakra figyelemmel – az értesítési kötelezettségének a következő módon tehet eleget:
 
-a) az előfizető közvetlen értesítésével az elektronikus hírközlési szolgáltatás jellegéhez igazodó módon,
+a) az előfizető közvetlen értesítésével, postai úton az elektronikus hírközlési szolgáltatás jellegéhez igazodó módon,
 
 b) elektronikus levélben az előfizető által e célra megjelölt e-mail címre;
 
@@ -28,9 +28,11 @@ d) az értesítendő előfizetők körétől függően országos vagy megyei nap
 
 (5) A (4) bekezdés a)–c) pontjában meghatározott értesítési módokat a szolgáltató akkor alkalmazhatja, ha maradandó módon rögzíteni tudja, hogy
 
-a) a szóbeli értesítést az előfizető tudomásul vette, vagy
+a) a szóbeli értesítést az előfizető tudomásul vette,
 
-b) az elektronikus dokumentumban vagy az elektronikus levélben foglalt értesítést az elektronikus értesítés elfogadásáról előzetesen nyilatkozó előfizetőnek hitelesen igazolható módon megküldték.
+b) az elektronikus dokumentumban vagy az elektronikus levélben foglalt értesítést az elektronikus értesítés elfogadásáról előzetesen nyilatkozó előfizetőnek hitelesen igazolható módon megküldték, vagy
+
+c) a postai levélben foglalt értesítést az előfizetőnek igazolható módon megküldték.
 
 (6) A (4) bekezdés d) pontjában meghatározott értesítési módot a szolgáltató kizárólag e törvény 136. § (1) bekezdése és a 132. § (4) bekezdése szerinti értesítések esetén alkalmazhatja. Nem alkalmazhatja a (4) bekezdés d) pontjában meghatározott értesítési módot, ha az előfizetői szerződés tárgyát képező szolgáltatásra irányadó az előfizető által fizetendő előfizetési díjak és egyéb kapcsolódó díjak – beleértve a számhordozással kapcsolatos díjakat és a szerződés megszüntetésekor esedékes díjakat, az előfizető számára nyújtott kedvezmények, valamint a költségek mértéke, a díjak megfizetésének ideje, módja változik.
 
@@ -48,6 +50,6 @@ d) a szolgáltatásokhoz és alkalmazásokhoz való hozzáférés, illetve azok 
 
 (9) A szolgáltatások egyes kategóriái tekintetében a Hatóság megkövetelheti, hogy a tájékoztatásra közvetlenül a hívás kapcsolása előtt kerüljön sor.
 
-(10) A Hatóság annak érdekében, hogy az előfizetők, és felhasználók megfelelő információkkal rendelkezve a szolgáltatások minőségéről, az árakról és díjszabásokról, összehasonlíthassák az egyes szolgáltatásokat és a választási szabadságnak megfelelően ésszerű döntéseket hozzanak, előírhatja, hogy a hírközlési szolgáltatók összehasonlításra alkalmas módon az általuk nyújtott szolgáltatások minőségéről, elérhetőségéről, valamint áráról adatokat szolgáltassanak a Hatóságnak, vagy ilyen adatokat tegyenek közzé.
+(10) A Hatóság – annak érdekében, hogy az előfizetők és felhasználók megfelelő információkkal rendelkezve a szolgáltatások minőségéről, az árakról és díjszabásokról, összehasonlíthassák az egyes szolgáltatásokat és a választási szabadságnak megfelelően ésszerű döntéseket hozzanak – határozatával előírhatja, hogy a hírközlési szolgáltatók összehasonlításra alkalmas módon az általuk nyújtott szolgáltatások minőségéről, elérhetőségéről, áráról, valamint az összehasonlítást lehetővé tevő, azt megkönnyítő további jellemzőiről adatokat szolgáltassanak a Hatóságnak vagy ilyen adatokat tegyenek közzé.
 
 (11) A Hatóság a hírközlési szolgáltatók által benyújtott információk alapján összehasonlító adatokat tesz közzé, hogy lehetővé tegye a felhasználók és az előfizetők számára, interaktív útmutatók vagy hasonló műszaki megoldások, alkalmazások segítségével a független költségértékelést.
