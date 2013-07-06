@@ -8,6 +8,14 @@ b) meghatározza a NER végrehajtásában közreműködő szervek együttműköd
 
 c) kijelölje azokat a határátkelőhelyeket, amelyeken a NER értelmében biztosítani kell a nemzetközi horderejű közegészségügyi-járványügyi szükséghelyzet felderítésére és az arra történő reagálásra alkalmas alapvető fontosságú képességeket.
 
+d) a nemzetközi horderejű közegészségügyi-járványügyi veszélyhelyzet fennállása esetén
+
+da) a c) pont alapján kijelölt határátkelőhelyeken alkalmazható, valamint
+
+db) személyek, szállítmányok és közlekedési eszközök tekintetében alkalmazható
+
+korlátozásokat, intézkedéseket és ellenőrzési eszközöket kijelölje, valamint azok alkalmazásának részletes feltételeit megállapítsa.
+
 (3)
 
 (4)
