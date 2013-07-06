@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2013-01-01 | 1997-217-20-22.104 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2013-04-01 | 1997-217-20-22.105 | 34/2013. (II. 14.) Korm. rendelet |
 | 2013-05-25 | 1997-217-20-22.106 | 136/2013. (V. 10.) Korm. rendelet |
+| 2013-07-06 | 1997-217-20-22.107 | 254/2013. (VII. 5.) Korm. rendelet |

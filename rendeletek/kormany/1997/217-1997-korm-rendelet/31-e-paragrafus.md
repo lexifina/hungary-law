@@ -1,3 +1,5 @@
-31/E. §[^395] Az Ebtv. 50. §-ának (1) bekezdése alapján méltányosságból engedélyezett pénzellátás összegének megállapítása és folyósítása az egészségbiztosítási szakigazgatási szerv feladata. A méltányosságból engedélyezett ellátás folyósításának időtartama újabb ellátás megállapítására nem jogosít. A méltányosságból engedélyezett táppénz folyósításának időtartamát azonban az újabb keresőképtelenség alapján járó táppénz folyósításának időtartamába be kell számítani.
+31/E. §[^399] (1) Az Ebtv. 50. § (1) bekezdése alapján méltányosságból engedélyezett pénzbeli ellátás összegének megállapítása és folyósítása, valamint az Ebtv. 50. § (2)–(3) bekezdése alapján méltányosságból engedélyezett gyermekápolási táppénz folyósítása az egészségbiztosítási szakigazgatási szerv feladata.
 
-[^395]: A Vhr. 31/E. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 51. pontja szerint módosított szöveg.
+(2) Az Ebtv. 50. § (1) bekezdése alapján méltányosságból engedélyezett táppénz folyósításának időtartamát az újabb keresőképtelenség alapján járó táppénz folyósításának időtartamába be kell számítani. A méltányosságból engedélyezett ellátás folyósításának időtartama újabb ellátás megállapítására nem jogosít.
+
+[^399]: A Vhr. 31/E. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 11. §-ával megállapított szöveg.

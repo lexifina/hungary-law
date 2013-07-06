@@ -2,9 +2,9 @@
 
 51. § (1) E rendelet 1998. január 1-jén lép hatályba.
 
-(2)–(4)[^497]
+(2)–(4)[^501]
 
-(5)[^498]
+(5)[^502]
 
-[^497]: A Vhr. 51. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1309. pontja hatályon kívül helyezte.
-[^498]: A Vhr. 51. §-ának (5) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^501]: A Vhr. 51. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1309. pontja hatályon kívül helyezte.
+[^502]: A Vhr. 51. §-ának (5) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének g) pontja hatályon kívül helyezte.

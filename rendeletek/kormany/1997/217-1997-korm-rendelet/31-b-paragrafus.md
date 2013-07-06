@@ -1,10 +1,10 @@
-31/B. §[^385] (1)[^386]
+31/B. §[^388] (1)[^389]
 
-(2)[^387] A táppénz folyósításának időtartama a méltányosságból engedélyezett ellátás folyósításának időtartamával együtt sem haladhatja meg az egy évet.
+(2)[^390] A táppénz folyósításának időtartama a méltányosságból engedélyezett ellátás folyósításának időtartamával együtt sem haladhatja meg az egy évet.
 
-(3)[^388] Nem engedélyezhető méltányosságból táppénz, ha a biztosított jogszabály alapján egyéb ellátásra szerzett jogosultságot, illetve ellátásban részesül.
+(3)[^391] Nem engedélyezhető méltányosságból táppénz, ha a biztosított jogszabály alapján egyéb ellátásra szerzett jogosultságot, illetve ellátásban részesül, kivéve, ha a gyermekgondozási támogatás mellett munkavégzési kötelezettsége van.
 
-[^385]: A Vhr. 31/B. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
-[^386]: A Vhr. 31/B. § (1) bekezdését a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.
-[^387]: A Vhr. 31/B. § (2) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^388]: A 31/B. § (3) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^388]: A Vhr. 31/B. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^389]: A Vhr. 31/B. § (1) bekezdését a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.
+[^390]: A Vhr. 31/B. § (2) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^391]: A Vhr. 31/B. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
