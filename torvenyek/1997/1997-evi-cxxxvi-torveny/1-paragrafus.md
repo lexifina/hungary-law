@@ -14,4 +14,4 @@ b) bel- és külföldi jogi és természetes személyek befizetései, hozzájár
 
 (5) A központi költségvetési támogatás rendelkezésre bocsátását – a forrásra vonatkozó szabályozásnak megfelelően – finanszírozási terv rögzíti.
 
-(6) Az OTKA javára vállalt befizetések a Ptk. 593–596. §-ai alapján közérdekű kötelezettségvállalásnak minősülnek.
+(6) Az OTKA javára vállalt befizetések közérdekű kötelezettségvállalásnak minősülnek.
