@@ -1,6 +1,6 @@
-## 9. §[^1]
+## 9. §[^12] Ez a rendelet a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^2]
+1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^13]
 
 Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 
@@ -22,11 +22,11 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 
 | 2.5. | A nukleáris létesítmények biztonsági övezetének kijelölésére irányuló eljárásában. | Annak elbírálása, hogy a nukleáris létesítmény biztonsági övezete határának kijelölésével a sugár- egészségügy és sugárvédelem követelményei teljesülnek-e. | biztonsági övezet kijelölése | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
-| 3.1. | A nukleáris létesítmény telepítése, létesítése, végleges leállítása esetén. | A nukleáris létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | a) telephely engedély, b) létesítési engedély, c) végleges leállítási engedély, d) építési (bontási) engedély | Magyar Bányászati és Földtani Hivatal |
+| 3.1. | A nukleáris létesítmény telephelyének vizsgálatára és értékelésére, telephelye jellemzőinek és alkalmasságának megállapítására, a nukleáris létesítmény létesítésére, végleges leállítására irányuló eljárásban. | A nukleáris létesítmény telephelyének vizsgálatára és értékelésére, a telephelye jellemzőinek és alkalmasságának megállapítására, valamint tervezésére vonatkozó, földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. Nukleáris létesítmény végleges leállítása esetén a földtani és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | a) telephely vizsgálati és értékelési engedély, b) telephely engedély, c) létesítési engedély, d) végleges leállítási engedély | Magyar Bányászati és Földtani Hivatal területileg illetékes bányakapitánysága |
 
-| 3.2. | A nukleáris létesítmény helykijelölése, telepítése, létesítése, üzembe helyezése, üzemeltetése, átalakítása, végleges leállítása, továbbá a nukleáris létesítmény rendszereinek és rendszerelemeinek átalakítása esetén, amennyiben annak tűz- és katasztrófavédelmi vonzata van. | A nukleáris létesítmények telepítésére és tervezésére vonatkozó tűz- és katasztrófavédelmi követelményeknek való megfelelés vizsgálata. | a) telephely engedély, b) létesítési engedély, c) üzembe helyezési engedély, d) üzemeltetési engedély, e) végleges leállítási engedély, f) építési (bontási) és használatba vételi engedély, g) átalakítási engedély | BM Országos Katasztrófa- védelmi Főigazgatóság |
+| 3.2. | A nukleáris létesítmény létesítése, üzembe helyezése, üzemeltetése, átalakítása, végleges leállítása, továbbá a nukleáris létesítmény rendszereinek és rendszerelemeinek átalakítása esetén, ha annak tűz- és katasztrófavédelmi vonzata van. | A nukleáris létesítményre, a nukleáris létesítmény rendszereire, rendszerelemeire vonatkozó tűz- és katasztrófavédelmi követelményeknek való megfelelés vizsgálata. | a) létesítési engedély, b) üzembe helyezési engedély, c) üzemeltetési engedély, d) átalakítási engedély, e) végleges leállítási engedély, f) építési (bontási) és használatbavételi engedély | BM Országos Katasztrófavédelmi Főigazgatóság |
 
-| 4.1. | A nukleáris létesítmény esetében minden olyan eljárásban, amelynek eredményeként a fizikai védelem funkciói megváltozhatnak. | Annak elbírálása, hogy a nukleáris létesítmények, nukleáris és más radioaktív anyagok, valamint a radioaktív hulladékok fizikai védelme rendészeti és személyi követelményei teljesülnek-e. | a) telephely engedély, b) létesítési engedély, c) üzembe helyezési engedély, d) üzemeltetési engedély, e) végleges leállítási engedély, f) leszerelési engedély | Országos Rendőr- főkapitányság |
+| 4.1. |  |  |  |  |
 
 | 4.2. |  |  |  |  |
 
@@ -48,5 +48,5 @@ Az OAH hatósági eljárásaiban közreműködő szakhatóságok
 
 | 6.4. | Ha a nukleáris létesítmény telepítése, létesítése termőföldön valósul meg. | Termőföld mennyiségi védelme követelményeinek kérdésében. | létesítési engedély | földügyért felelős miniszter |
 
-[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 190/2011. (IX. 19.) Korm. rendelet 43. §-a, a 246/2011. (XI. 24.) Korm. rendelet 11. §-a, a 304/2011. (XII. 23.) Korm. rendelet 45. §-a, a 74/2012. (IV. 13.) Korm. rendelet 7. §-a, a 265/2012. (IX. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^12]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 216/2013. (VI. 21.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^13]: Az 1. melléklet a 190/2011. (IX. 19.) Korm. rendelet 43. §-a, a 246/2011. (XI. 24.) Korm. rendelet 11. §-a, a 304/2011. (XII. 23.) Korm. rendelet 45. §-a, a 74/2012. (IV. 13.) Korm. rendelet 7. §-a, a 265/2012. (IX. 17.) Korm. rendelet 1. §-a, a 218/2013. (VI. 21.) Korm. rendelet 1. § (1)–(2) bekezdése szerint módosított szöveg.
