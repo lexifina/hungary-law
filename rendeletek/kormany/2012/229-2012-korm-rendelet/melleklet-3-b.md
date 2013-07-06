@@ -18,6 +18,6 @@
 
 |  | (fő)jegyző |  | polgármester |  |  |  |
 
-3/b. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^66]
+3/b. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^67]
 
-[^66]: A 3/b. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^67]: A 3/b. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
