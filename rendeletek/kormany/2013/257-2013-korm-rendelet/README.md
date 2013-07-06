@@ -1,0 +1,9 @@
+# 257/2013. (VII. 5.) Korm. rendelet
+
+egyes gyermekvédelmi tárgyú és kapcsolódó kormányrendeleteknek a hátrányos, halmozottan hátrányos helyzet fennállásának megállapításával, valamint a családi pótlék felhasználásával összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-257-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-07-06 | 2013-257-20-22.1 | 257/2013. (VII. 5.) Korm. rendelet |
