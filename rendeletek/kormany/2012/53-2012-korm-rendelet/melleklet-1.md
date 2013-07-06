@@ -70,7 +70,7 @@
 
 4.1. a geotermikus energia felszín alatti víz kitermelését nem igénylő, 20 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével,
 
-4.2. földtani szerkezet kutatását szolgáló, az 1.1. pont szerinti kutatóépítmény,
+4.2.[^6] földtani kutatást szolgáló, vagy nukleáris létesítmény telephely vizsgálati és értékelési engedélyében jóváhagyott telephely vizsgálati és értékelési program végrehajtásához szükséges 1.1. pont szerinti kutatóépítmény,
 
 4.3. polgári felhasználású robbanóanyag raktára,
 
@@ -81,3 +81,4 @@
 4.6. a koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével.
 
 [^5]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet 4. pont 4.2. alpontja a 218/2013. (VI. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

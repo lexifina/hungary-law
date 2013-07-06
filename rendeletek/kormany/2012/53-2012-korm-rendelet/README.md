@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-53-20-2
 | 2012-04-27 | 2012-53-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-04-28 | 2012-53-20-22.4 | 2010: CXXX. törvény |
 | 2013-02-01 | 2012-53-20-22.5 | 18/2013. (I. 30.) Korm. rendelet |
+| 2013-07-06 | 2012-53-20-22.6 | 218/2013. (VI. 21.) Korm. rendelet |
