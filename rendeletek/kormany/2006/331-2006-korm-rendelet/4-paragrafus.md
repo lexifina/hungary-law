@@ -34,7 +34,9 @@ o)[^27] dönt a családi pótlék természetbeni formában történő nyújtás�
 
 p)[^28] kezdeményezi a folyósító szervnél az iskoláztatási támogatás folyósításának szüneteltetését és a szüneteltetés megszüntetését, felülvizsgálja az iskoláztatási támogatás folyósításának szüneteltetését,
 
-q)[^29] megkeresi az adóhatóságot a gondozási díj behajtása érdekében.
+q)[^29] megkeresi az adóhatóságot a gondozási díj behajtása érdekében,
+
+r)[^30] a gyermek gondozási helyére vonatkozó javaslat kialakítása érdekében felkérhet az illetékességi területén kívüli más megyei (fővárosi) gyermekvédelmi szakértői bizottságot szakvélemény elkészítésére.
 
 [^22]: A 4. §-t megelőző alcím a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^23]: A 4. § nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdésével megállapított szöveg.
@@ -44,3 +46,4 @@ q)[^29] megkeresi az adóhatóságot a gondozási díj behajtása érdekében.
 [^27]: A 4. § o) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
 [^28]: A 4. § p) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
 [^29]: A 4. § q) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
+[^30]: A 4. § r) pontját a 257/2013. (VII. 5.) Korm. rendelet 21. §-a iktatta be.
