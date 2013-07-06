@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2013-04-01 | 2013. évi XXVII. törvény | 1993-3-00-00.79 |
 | 2013-06-15 | 2013. évi LXXV. törvény | 1993-3-00-00.80 |
 | 2013-07-01 | 2013. évi XXVII. törvény | 1993-3-00-00.81 |
+| 2013-07-06 | 2013. évi CXXVII. törvény | 1993-3-00-00.82 |
