@@ -1,4 +1,4 @@
-## 91/U. §[^512]
+## 91/U. §[^517]
 
 ## XIII. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## 92. § A családba fogadás iránti eljárás során a gyámhivatal
 
-a)[^513] meghallgatja a Gyvt. 128. §-ában meghatározott személyeken kívül a családba fogadó személyt, illetve személyeket,
+a)[^518] meghallgatja a Gyvt. 128. §-ában meghatározott személyeken kívül a családba fogadó személyt, illetve személyeket,
 
 b) tájékoztatja a feleket nyilatkozataik jogkövetkezményéről,
 
@@ -16,5 +16,5 @@ d) megvizsgálja a szülő(k) által megnevezett családba fogadó személy(ek) 
 
 e) környezettanulmányt készít.
 
-[^512]: A 91/U. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
-[^513]: A 92. § a) pontja a 14/2003. (II. 12.) Korm. rendelet 53. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^517]: A 91/U. §-t a 21/2012. (II. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 6. § (1) bekezdés d) pontja.
+[^518]: A 92. § a) pontja a 14/2003. (II. 12.) Korm. rendelet 53. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.

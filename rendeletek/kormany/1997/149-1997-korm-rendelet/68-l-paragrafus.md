@@ -1,6 +1,6 @@
 ## intézkedik.
 
-68/L. §[^354] (1)[^355] A települési önkormányzat jegyzője a 68/K. § alapján igényelt előleggel
+68/L. §[^359] (1)[^360] A települési önkormányzat jegyzője a 68/K. § alapján igényelt előleggel
 
 a) a tárgyév június 5-ig kifizetett óvodáztatási támogatás esetében a tárgyév június 13-ig,
 
@@ -24,8 +24,8 @@ b) a tárgyév december 5-ig kifizetett óvodáztatási támogatás esetében a 
 
 ## rendelkezik a Magyar Államkincstár felé a 12. és 13. számú melléklet szerint igényelt támogatásoknak a települési önkormányzatok részére történő átutalásáról.
 
-(4)[^356] Ha a tárgyhónapban kifizetett óvodáztatási támogatás összege alacsonyabb, mint a 68/K. § alapján igényelt előleg összege, a települési önkormányzat a különbözetet az államháztartásról szóló törvényben foglaltak szerint köteles visszafizetni a központi költségvetés felé.
+(4)[^361] Ha a tárgyhónapban kifizetett óvodáztatási támogatás összege alacsonyabb, mint a 68/K. § alapján igényelt előleg összege, a települési önkormányzat a különbözetet az államháztartásról szóló törvényben foglaltak szerint köteles visszafizetni a központi költségvetés felé.
 
-[^354]: A 68/L. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^355]: A 68/L. § (1) bekezdés záró szövegrésze a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^356]: A 68/L. § (4) bekezdése a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^359]: A 68/L. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^360]: A 68/L. § (1) bekezdés záró szövegrésze a 98/2013. (III. 29.) Korm. rendelet 25. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^361]: A 68/L. § (4) bekezdése a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés k) pontja szerint módosított szöveg.

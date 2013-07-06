@@ -1,4 +1,4 @@
-134/A. §[^679] (1) A gondnokrendelő határozat rendelkező része a 14. §-ban foglaltakon túl tartalmazza
+134/A. §[^687] (1) A gondnokrendelő határozat rendelkező része a 14. §-ban foglaltakon túl tartalmazza
 
 a) a gondnoki tisztséggel járó jogokról és kötelezettségekről való tájékoztatást,
 
@@ -8,21 +8,21 @@ c) helyettes gondnokrendelés esetén annak időtartamát, valamint a helyettes 
 
 d) ideiglenes gondnokrendelés esetén azon ügycsoportok megjelölését, amelyek tekintetében a gondnok eljárhat [Ptk. 18/A. § (2) bek., 14. § (6) bek.],
 
-e)[^680] annak az összegnek a megállapítását, amelyen felül a gondnokolt vagyoni ügyében a gondnok jognyilatkozatának érvényességéhez a gyámhivatal jóváhagyása szükséges [Ptk. 16. § (1) bek. e) pont],
+e)[^688] annak az összegnek a megállapítását, amelyen felül a gondnokolt vagyoni ügyében a gondnok jognyilatkozatának érvényességéhez a gyámhivatal jóváhagyása szükséges [Ptk. 16. § (1) bek. e) pont],
 
 f) a gondnoki tisztséggel járó jogok és kötelezettségek kezdő időpontját,
 
-g)[^681] az ingó és ingatlan vagyon gondnok kezelésébe adását a vagyonleltár alapján,
+g)[^689] az ingó és ingatlan vagyon gondnok kezelésébe adását a vagyonleltár alapján,
 
-h)[^682] vagyonkezelésre jogosult gondnok esetén a 158. § (1) bekezdése szerinti számadás gyámhivatalhoz történő benyújtásának időpontját.
+h)[^690] vagyonkezelésre jogosult gondnok esetén a 158. § (1) bekezdése szerinti számadás gyámhivatalhoz történő benyújtásának időpontját.
 
-(2)[^683] A gyámhivatal határozatát fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(2)[^691] A gyámhivatal határozatát fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
 
-(3)[^684] A gondnokrendelésről a szóló határozatát a gyámhivatal közli a családtámogatási ellátást folyósító szervvel.
+(3)[^692] A gondnokrendelésről a szóló határozatát a gyámhivatal közli a családtámogatási ellátást folyósító szervvel.
 
-[^679]: A 134/A. §-t a 262/2001. (XII. 21.) Korm. rendelet 9. §-a iktatta a szövegbe.
-[^680]: A 134/A. § (1) bekezdés e) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 29. pontja szerint módosított szöveg.
-[^681]: A 134/A. § (1) bekezdésének g) pontja a 14/2003. (II. 12.) Korm. rendelet 85. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^682]: A 134/A. § (1) bekezdésének h) pontját a 315/2005. (XII. 25.) Korm. rendelet 66. §-a iktatta be.
-[^683]: A 134/A. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 54. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^684]: A 134/A. § (3) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 15. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 55. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^687]: A 134/A. §-t a 262/2001. (XII. 21.) Korm. rendelet 9. §-a iktatta a szövegbe.
+[^688]: A 134/A. § (1) bekezdés e) pontja a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 29. pontja szerint módosított szöveg.
+[^689]: A 134/A. § (1) bekezdésének g) pontja a 14/2003. (II. 12.) Korm. rendelet 85. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^690]: A 134/A. § (1) bekezdésének h) pontját a 315/2005. (XII. 25.) Korm. rendelet 66. §-a iktatta be.
+[^691]: A 134/A. § (2) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 54. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^692]: A 134/A. § (3) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 15. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 55. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

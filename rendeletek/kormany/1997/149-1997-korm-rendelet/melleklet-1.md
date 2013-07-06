@@ -1,7 +1,6 @@
-## 181. §[^828] Az Mr.-rel megállapított 68/F. § (4) bekezdését, 68/G. § (1), (4) és (5) bekezdését, 68/H. § (1) bekezdését, 68/I. § (2) bekezdését, 68/K. § (5) bekezdését, 11., 12., 13. és 14. számú mellékletet az Mr. hatálybalépését[^829] követően indult ügyekben és az Mr. hatálybalépését megelőzően megállapított óvodáztatási támogatásnak az Mr. hatálybalépését követően esedékes, további alkalommal történő folyósítására kell alkalmazni.
+## 183. §[^838] A gyermekotthonban, a fogyatékos személyek otthonában vagy a pszichiátriai betegek otthonában elhelyezett gyermek számára 2013. június 30-áig átutalt családi pótlékkal való elszámolásra a 2013. június 30-án hatályos 159. § (1a) bekezdést kell alkalmazni.
 
-1. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^830]
+1. számú melléklet a 149/1997. (IX. 10.) Korm. rendelethez[^839]
 
-[^828]: A 181. §-t a 98/2013. (III. 29.) Korm. rendelet 21. §-a iktatta be.
-[^829]: A hatálybalépés időpontja 2013. április 1.
-[^830]: Az 1. számú mellékletet a 331/2006. (XII. 23.) Korm. rendelet 24. § (2) bekezdése a) pontjának ad) alpontja hatályon kívül helyezte.
+[^838]: A 183. §-t a 257/2013. (VII. 5.) Korm. rendelet 9. §-a iktatta be.
+[^839]: Az 1. számú mellékletet a 331/2006. (XII. 23.) Korm. rendelet 24. § (2) bekezdése a) pontjának ad) alpontja hatályon kívül helyezte.

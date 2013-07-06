@@ -1,6 +1,6 @@
 ## 116. § A gondozási díj összegének megállapításánál a fizetésre köteles személy szociális körülményeit is figyelembe kell venni. Méltánylást érdemlő esetben a gondozási díj a kötelezett átlagos havi jövedelmének 15%-ánál alacsonyabb összegben is megállapítható.
 
-117. §[^611] (1) A gyámhivatal határozatában megjelöli, hogy a gondozási díjat a Főigazgatóság számlájára kell befizetni, és határozatát közli
+117. §[^619] (1) A gyámhivatal határozatában megjelöli, hogy a gondozási díjat a Főigazgatóság számlájára kell befizetni, és határozatát közli
 
 a) a Főigazgatóság főigazgatójával a nyilvántartás vezetése és az esetleges későbbi behajtás kezdeményezése,
 
@@ -10,4 +10,4 @@ céljából.
 
 (2) A gondozási díj-befizetéseket és a keletkezett hátralékot, amelyre a Gyvt. 154. §-ának (3) bekezdése alapján késedelmi pótlék nem állapítható meg, a Főigazgatóság tartja nyilván.
 
-[^611]: A 117. § a 349/2012. (XII. 12.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^619]: A 117. § a 349/2012. (XII. 12.) Korm. rendelet 16. §-ával megállapított szöveg.
