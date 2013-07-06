@@ -11,3 +11,5 @@
 (5) Az egészségbiztosítási szerv és a gyógyszerészeti államigazgatási szerv a hivatalos lapjukban megjelenő – a gyógyszerek forgalomba hozatalával, orvosi rendelésével, valamint az árukhoz nyújtott társadalombiztosítási támogatással kapcsolatos – közleményeiket az internetes honlapjukon közzéteszik.
 
 (6) A gyógyszerészeti államigazgatási szerv e törvényben foglaltak alapján hozott, valamint a gyógyszernek nem minősülő gyógyhatású készítmények nyilvántartása és forgalomba hozatala tárgyában hozott döntései ellen fellebbezésnek helye nincs.
+
+(7) A gyógyszerészeti államigazgatási szerv a Magyarországon forgalomba hozatalra engedélyezett, gyógyszernek nem minősülő gyógyhatású készítmények nevéről és az engedélyezés dátumáról közhiteles hatósági nyilvántartást vezet.

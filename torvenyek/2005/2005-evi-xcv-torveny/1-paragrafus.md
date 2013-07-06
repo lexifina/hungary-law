@@ -1,6 +1,6 @@
 1. § E törvény alkalmazásában:
 
-1. gyógyszer: bármely anyag vagy azok keveréke, amelyet emberi betegségek megelőzésére vagy kezelésére állítanak elő vagy azok az anyagok vagy keverékei, amelyek farmakológiai, immunológiai vagy metabolikus hatások kiváltása révén az ember valamely élettani funkciójának helyreállítása, javítása vagy módosítása, illetve az orvosi diagnózis felállítása érdekében alkalmazható;
+1. gyógyszer: bármely anyag vagy azok keveréke, amelyet emberi betegségek megelőzésére vagy kezelésére alkalmazható termékként jelenítenek meg, vagy azok az anyagok vagy keverékei, amelyek farmakológiai, immunológiai vagy metabolikus hatások kiváltása révén az ember valamely élettani funkciójának helyreállítása, javítása vagy módosítása, illetve az orvosi diagnózis felállítása érdekében az emberi szervezetben vagy emberi szervezeten alkalmazhatók;
 
 2. magisztrális gyógyszer: az a gyógyszerkészítmény, amelyet a gyógyszerész a gyógyszertárban a Magyar, illetve Európai Gyógyszerkönyv (a továbbiakban: Gyógyszerkönyv) vagy a Szabványos Vényminta Gyűjtemény (Fo-No) (a továbbiakban: Vényminta Gyűjtemény) rendelkezései alapján, orvosi előírásra vagy a Gyógyszerkönyv szerint saját kezdeményezésére készít és a gyógyszertár által ellátott betegek kezelésére szolgál;
 
@@ -115,3 +115,7 @@ c) előtörténete, így az alkalmazott forgalmazási lánc azonosítását lehe
 függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
 
 43. Párhuzamos import: Forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszer vagy annak a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása olyan EGT-megállapodásban részes államból, ahol a gyógyszer szintén rendelkezik forgalombahozatali engedéllyel.
+
+44. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára forgalmazott vagy a forgalmazóknál található gyógyszer visszagyűjtése;
+
+45. kivonás a forgalomból: minden olyan intézkedés, amelynek célja a gyógyszer forgalmazásának megakadályozása az értékesítési láncban.

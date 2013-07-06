@@ -3862,6 +3862,20 @@ Gyógyszer-nagykereskedelmi engedély módosítása
 
 |
 
+III.I.4.
+
+|
+
+|
+
+Gyógyszerközvetítői tevékenység regisztrációja
+
+|
+
+90 000
+
+|
+
 III.J.
 
 |
@@ -3878,7 +3892,7 @@ III.K.
 
 |
 
-Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylat kiadása, készítményenként és alkalmanként
+Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylat kiadása, készítményenként és bizonylatonként
 
 |
 
@@ -4047,3 +4061,61 @@ A forgalomba hozatali engedély meghosszabbítása
 |
 
 90 000
+
+|
+
+III.Q.
+
+|
+
+Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja
+
+|
+
+|
+
+III.Q.1.
+
+|
+
+Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára
+
+|
+
+90 000
+
+|
+
+III.Q.2.
+
+|
+
+Gyógyszerhatóanyag-gyártási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára
+
+|
+
+675 000
+
+|
+
+III.Q.3.
+
+|
+
+Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára
+
+|
+
+675 000
+
+|
+
+III.Q.4.
+
+|
+
+Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára
+
+|
+
+225 000

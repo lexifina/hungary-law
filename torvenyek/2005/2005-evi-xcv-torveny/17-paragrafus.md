@@ -4,8 +4,10 @@
 
 (2) A feltételezett minőségi hiba bejelentője a bejelentéssel egyidejűleg köteles a minőség-ellenőrző vizsgálathoz szükséges – a külön jogszabályban meghatározott mennyiségű – gyógyszert is megküldeni.
 
-(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalombahozatali engedélyében rögzített követelményeknek, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, illetve elrendeli annak a forgalomból történő kivonását. A forgalomból való kivonás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+(2a) A gyógyszerészeti államigazgatási szerv jogosult bármely Magyarországon gyártott vagy forgalmazott gyógyszer minőségét és a gyártására vagy forgalmazására vonatkozó dokumentációját ellenőrizni, továbbá jogosult vizsgálat céljából saját költségére – kivéve, ha jogszabály a költséget másra nem terheli – mintát és ellenmintát beszerezni.
 
-(4) Amennyiben minőség-ellenőrző vizsgálatra van szükség, a gyógyszer beszerzéséről a gyógyszerészeti államigazgatási szerv gondoskodik.
+(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalombahozatali engedélyében rögzített követelményeknek, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó határozatot a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+
+(4)
 
 (5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalombahozatali engedély jogosultját terhelik.
