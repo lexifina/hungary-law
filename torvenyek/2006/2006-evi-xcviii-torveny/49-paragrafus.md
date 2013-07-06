@@ -50,7 +50,7 @@ ee) a gyógyszertár működtetőjének nyilatkozatát arról, hogy a törvényb
 
 (10) Több érvényes, a pályázati kiírásban előírt feltételeket teljesítő pályázat esetén
 
-a) az a pályázó nyer, aki fiókgyógyszertár működtetését vállalja,
+a) az a pályázó nyer, aki fiókgyógyszertár működtetését vállalja úgy, hogy a pályázat elnyerése esetén a fiókgyógyszertár létesítése iránti kérelmet a határozat kézhezvétele után 8 napon belül benyújtja,
 
 b) amennyiben az a) pontban foglalt feltételt egy pályázó sem vállalja, vagy valamennyi érvényes pályázatot benyújtó pályázó vállalja, úgy az a pályázó nyer a ba)–bd) alpontokban foglalt sorrend szerint, aki a szolgálati rendre vonatkozóan
 
@@ -75,3 +75,5 @@ cc) betegségspecifikus gyógyszerészi gondozás nyújtását
 a gyógyszertár megnyitását követő legalább öt éven keresztül. A ca)–cc) alpontokban felsorolt többletszolgáltatások vállalása esetén előnyben részesül a nagyobb számú többletszolgáltatást vállaló pályázó.
 
 (11) Abban az esetben, ha a (10) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban érkezett az egészségügyi államigazgatási szervhez.
+
+(12) A (6) bekezdés szerinti létesítési határozatot az egészségügyi államigazgatási szerv visszavonja, ha a gyógyszertár működtetését a létesítési határozatban rögzített határnapig nem kezdik meg.

@@ -1,6 +1,6 @@
 ## A gyógyszertár működésének engedélyezése
 
-53. § (1) A gyógyszertár működésének megkezdéséhez szükséges
+53. § (1) A gyógyszertár működéséhez szükséges
 
 a) az egészségügyi államigazgatási szerv által kiadott létesítési engedély,
 
@@ -12,11 +12,11 @@ d) közforgalmú gyógyszertár esetén a működtető gyógyszertár működés
 
 e) az, hogy a gyógyszertár a miniszteri rendeletben, az építészeti követelményekre, berendezésre és felszerelésre, valamint a személyi feltételekre meghatározott feltételeknek megfeleljen.
 
-(2) Az (1) bekezdés d) pontja szerinti biztosítási szerződést a tevékenység megkezdése előtt az egészségügyi államigazgatási szervnek be kell mutatni és a gyógyszertár megnyitását be kell jelenteni.
+(2) Az (1) bekezdés d) pontja szerinti biztosítási szerződés másolatát a tevékenység megkezdése előtt az egészségügyi államigazgatási szervnek be kell nyújtani és a gyógyszertár megnyitását be kell jelenteni.
 
 (3) A 75. §-ban foglalt feltétel fennállását az egészségügyi államigazgatási szerv vizsgálja a közforgalmú gyógyszertár működési engedélyezési eljárása során.
 
-(4) A működési engedélyt a működés tervezett megkezdését legalább 60 nappal megelőzően az egészségügyi államigazgatási szervtől kell kérni.
+(4) A működési engedélyt a működés tervezett megkezdését legalább 30 nappal megelőzően az egészségügyi államigazgatási szervtől kell kérni.
 
 (5) Az egészségügyi államigazgatási szerv a működési engedély kiadásáról a kérelem benyújtását követő 30 napon belül dönt.
 
@@ -35,3 +35,5 @@ e) a gyógyszertár forgalmazási körét;
 f) fiók-és kézigyógyszertár esetén az a), c)–e) pontokban foglaltakon túl az ellátó közforgalmú gyógyszertár nevét és pontos címét;
 
 g) mozgó egységként működtetett fiókgyógyszertár esetén az a), d)–f) pontokban foglaltakon túl a mozgó egység működtetését kérő közforgalmú gyógyszertár székhelye szerinti megyehatáron belül ellátható települések körét.
+
+(7) Az egészségügyi államigazgatási szerv a gyógyszertár működtetésére vonatkozó jogerős döntését megküldi az egészségbiztosítási szerv, illetve a települési önkormányzat jegyzője részére is.

@@ -14,7 +14,7 @@ c) kezdeményezheti az emberi életet, egészséget, testi épséget veszélyezt
 
 d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a gyógyszerek további forgalmazását megtilthatja;
 
-e) ismételt jogsértés esetén az üzlet gyógyszerforgalmazásra jogosító engedélyének visszavonását kezdeményezheti.
+e) ismételt jogsértés esetén az üzlet gyógyszerforgalmazásra jogosító engedélyt visszavonja.
 
 (4) Amennyiben a jogsértő magatartást üzletlánchoz tartozó gyógyszer-kiskereskedelmi tevékenységet folytató követte el, a (3) bekezdés c)–e) pontjaiban meghatározott döntés az üzletlánchoz tartozó valamennyi üzletre is kiterjeszthető.
 

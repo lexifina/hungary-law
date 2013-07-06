@@ -32,7 +32,7 @@ c) az ügy számát és tárgyát,
 
 d) a jogsértő nevét és nyilvántartási számát,
 
-e) a megállapított tényállást,
+e) a megállapított tényállás összefoglaló ismertetését,
 
 f) a megsértett jogszabályi rendelkezések megjelölését,
 

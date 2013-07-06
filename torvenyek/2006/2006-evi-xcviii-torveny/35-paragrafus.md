@@ -4,7 +4,7 @@ a) elfogadott termelői ár alapján számított legmagasabb kiskereskedelmi ela
 
 b) megállapított támogatási összegtől és térítési díjtól sem közvetlenül, sem pedig közvetett módon nem térhet el.
 
-(2) A gyógyászati segédeszköz forgalmazója a kiszolgáltatás során az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban
+(2) A gyógyászati segédeszköz forgalmazója a társadalombiztosítási támogatással történő kiszolgáltatás során az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban
 
 a) a közfinanszírozás alapjául elfogadott árnál alacsonyabb és a b) pontban foglalt kivételtől eltekintve magasabb áron nem értékesítheti az adott eszközt,
 

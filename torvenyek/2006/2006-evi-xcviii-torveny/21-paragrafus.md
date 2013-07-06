@@ -24,7 +24,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (8) Kötelező preferált referencia ársávba tartozó gyógyszer, preferált biológiai gyógyszer és referenciagyógyszer forgalmazása a gyógyszer nagy- és kiskereskedelmi tevékenységet folytató forgalmazóknál valamennyi meghatározott (fix) összegű támogatási csoport és valamennyi olyan csoport esetén, amely biológiai gyógyszerek számára kerül kialakításra.
 
-(9) Sorozatgyártású és méretsorozatos gyógyászati segédeszközök esetében a referenciaeszköz forgalmazása a gyógyászati segédeszköz nagy- és kiskereskedelmi tevékenységet folytató forgalmazóknál kötelező.
+(9) A társadalombiztosítási támogatással rendelhető sorozatgyártású gyógyászati segédeszközök forgalmazása esetében a forgalmazó köteles az adott eszköz funkcionális csoportjának referenciaeszközét vagy azzal azonos árú eszközt forgalmazni.
 
 (10) Az egészségügyi államigazgatási szerv a gyógyászati segédeszköz nagy- és kiskereskedelmi tevékenységet folytató forgalmazó működési engedélyét visszavonja, ha az ellenőrzése során azt állapítja meg, hogy a gyógyászati segédeszközök forgalmazására vonatkozó előírásokat ismételten és súlyosan megsérti.
 

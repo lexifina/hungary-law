@@ -26,7 +26,13 @@ d) az intézeti gyógyszertárat működtető fekvőbeteg-ellátást végző int
 
 e) a személyi jog visszavonásra került az 58. § alapján, továbbá ha a személyi jog megszűnt – kivéve a 60/B. §, 60/C. §, 60/D. § és a 65. § b) pontjának alkalmazása esetén –,
 
-f) mozgó egységként működtetett fiókgyógyszertár esetén a fiókgyógyszertár működési engedélyét arra a településre vonatkozóan, ahol állandó telephelyű fiók vagy közforgalmú gyógyszertár kezdi meg működését.
+f) mozgó egységként működtetett fiókgyógyszertár esetén a fiókgyógyszertár működési engedélyét arra a településre vonatkozóan, ahol állandó telephelyű fiók vagy közforgalmú gyógyszertár kezdi meg működését,
+
+g) a gyógyszertár működtetője azt kéri,
+
+h) a gyógyszertár működtetője jogutód nélkül megszűnik,
+
+i) a gyógyszertár a működését a pályázatban meghatározott határidőben nem kezdte meg.
 
 (3) A működési engedélyt a (2) bekezdés
 

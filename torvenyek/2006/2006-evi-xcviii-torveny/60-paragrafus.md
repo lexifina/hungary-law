@@ -1,4 +1,4 @@
-60. § Az egészségügyi államigazgatási szerv nyilvántartást vezet
+60. § Az egészségügyi államigazgatási szerv – az a) pont aa) alpont és c) pont ca) alpont szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást vezet
 
 a) a gyógyszertárakról típusonkénti bontásban a gyógyszertár megszűnését követő öt évig, mely tartalmazza
 

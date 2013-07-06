@@ -1,6 +1,6 @@
 21/A. § (1) Az egészségbiztosítási szerv a gyógyászati segédeszközöket rendelő orvosok, valamint az ezeket használó betegek informáltságának erősítése érdekében honlapján internetes gyógyászatisegédeszköz-katalógust működtet – az egészségügyért felelős miniszter rendeletében meghatározott adattartalommal – a támogatott gyógyászati segédeszközökről.
 
-(2) A gyógyászati segédeszköz forgalomba hozója az (1) bekezdés szerinti eszközkatalógusba történő felvétel érdekében az egészségügyért felelős miniszter rendeletében foglaltak szerint az egészségbiztosítási szerv rendelkezésére bocsátja az egészségügyért felelős miniszter rendeletében meghatározott dokumentációt és adatokat.
+(2) A gyógyászati segédeszköz forgalomba hozója az (1) bekezdés szerinti eszközkatalógusba történő felvétel érdekében az egészségügyért felelős miniszter rendeletében foglaltak szerint – elektronikus úton – az egészségbiztosítási szerv rendelkezésére bocsátja az egészségügyért felelős miniszter rendeletében meghatározott dokumentációt és adatokat.
 
 (3) Amennyiben az eszköz forgalomba hozója az egészségbiztosítási szerv felhívására sem teljesíti a (2) bekezdésben előírt kötelezettséget, az egészségbiztosítási szerv a forgalomba hozóval szemben a kormány rendeletében meghatározott mértékű bírságot szab ki, azzal, hogy a bírság megfizetése nem mentesíti a forgalomba hozót a (2) bekezdés szerinti kötelezettségének teljesítése alól.
 

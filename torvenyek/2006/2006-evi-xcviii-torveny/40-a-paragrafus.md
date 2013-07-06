@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdés alkalmazásában a társadalombiztosítási támogatáson általános forgalmi adót tartalmazó (bruttó) támogatást, fogyasztói áron bruttó fogyasztói árat, termelői áron áfát nem tartalmazó (nettó) termelői árat kell érteni.
 
-(2a) Az (1) bekezdés alkalmazásában a befizetési kötelezettség megállapításakor a közfinanszírozásban részesülő adott beviteli formájú gyógyszer forgalomba hozatali engedélyben és a forgalomba hozatali engedély módosításaiban szereplő valamennyi hatáserősségét, kiszerelését, névváltozatát együttesen kell figyelembe venni, amennyiben az adott beviteli formájú gyógyszer legalább egy hatáserőssége, kiszerelése vagy névváltozata már legalább 6 éve közfinanszírozásban részesül.
+(2a) Az (1) bekezdés alkalmazásában a befizetési kötelezettség megállapításakor a közfinanszírozásban részesülő adott beviteli formájú gyógyszer forgalomba hozatali engedélyben és a forgalomba hozatali engedély módosításaiban szereplő valamennyi hatáserősségét, kiszerelését, névváltozatát együttesen kell figyelembe venni, amennyiben az adott beviteli formájú gyógyszer legalább egy hatáserőssége, kiszerelése vagy névváltozata már legalább 6 éve közfinanszírozásban részesül vagy részesült.
 
 (3) A gyógyszer forgalomba hozatali engedélyének jogosultját az (1) bekezdés szerinti befizetési kötelezettség nem terheli az egyedi méltányosság alapján támogatott gyógyszereknek az egészségbiztosítási szerv által megállapított társadalombiztosítási támogatási összege után, ide nem értve azokat a gyógyszereket, amelyek forgalomba hozatalát a gyógyszerészeti államigazgatási szerv vagy az Európai Bizottság engedélyezte.
 

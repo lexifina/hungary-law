@@ -4,7 +4,7 @@
 
 (3) Amennyiben a (2) bekezdés szerinti jogszabály módosítására nem kerül sor, úgy az egészségbiztosítási szerv a 180 nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
 
-(4)
+(4) Az egészségbiztosítási szerv kezdeményezi az egészségügyért felelős miniszternél új funkcionális csoport nyitását, ha egymást követő 12 hónapon belül több mint 50 kérelem kerül benyújtásra a társadalombiztosítási támogatással nem rendelhető gyógyászati segédeszköz méltányosságból – az Ebtv. 26. § (1) bekezdés c) pontja alapján – történő támogatásának megállapítása iránt, és az eszköz funkcionális csoportját még nem tartalmazza az egészségügyért felelős miniszter rendelete.
 
 (5) A 32. § (4)–(5) bekezdései szerinti eljárásokban részt vevő intézményekkel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló és az eljárásban közvetlenül feladatot ellátó személyeknek nyilatkozniuk kell arról, hogy nem állnak érdekeltségi, üzleti és egyéb kapcsolatban az eljárás tárgyát képező kérelmet benyújtó forgalomba hozóval vagy a kérelem tárgyát képező eszközzel azonos funkcionális csoportba tartozó eszköz forgalomba hozójával.
 

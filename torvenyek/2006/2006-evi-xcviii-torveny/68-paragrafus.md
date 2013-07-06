@@ -1,6 +1,6 @@
 ## A tevékenység engedélyezésének feltételei
 
-68. § (1) A kereskedelemről szóló törvény alapján működési engedéllyel rendelkező üzlet gyógyszert akkor forgalmazhat, ha az egészségügyi államigazgatási szerv erre engedélyt adott. Az egészségügyi államigazgatási szerv a gyógyszer kiskereskedelmi forgalmazására jogosító engedélyt az üzlet működési engedélyét kiadó hatósággal is közli. Az egészségügyi államigazgatási szerv a gyógyszerforgalmazásra jogosító engedélyt megadja, ha az üzlet megfelel az e törvényben, illetve az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló miniszteri rendeletben foglalt követelményeknek. Az engedély lakossági távértékesítésre nem jogosít.
+68. § (1) A kereskedelemről szóló törvény alapján működési engedéllyel rendelkező üzlet gyógyszert akkor forgalmazhat, ha az egészségügyi államigazgatási szerv erre engedélyt adott. Az egészségügyi államigazgatási szerv a gyógyszer kiskereskedelmi forgalmazására jogosító engedélyt az üzlet működési engedélyét kiadó hatósággal is közli. Az egészségügyi államigazgatási szerv a gyógyszerforgalmazásra jogosító engedélyt megadja, ha az üzlet megfelel az e törvényben, illetve az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló miniszteri rendeletben foglalt követelményeknek. Az engedély távollevők között kötött szerződések keretében történő értékesítésre nem jogosít.
 
 (2) Az (1) bekezdés szerinti üzlet gyógyszert akkor forgalmazhat, ha
 

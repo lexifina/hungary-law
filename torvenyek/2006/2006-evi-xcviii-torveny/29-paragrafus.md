@@ -12,13 +12,13 @@ c) új hatóanyagra,
 
 d) új kombinációra, ha valamely, az összetételben szereplő hatóanyag nem támogatott,
 
-e) a (2) bekezdés b) pontja szerinti kivétellel közfinanszírozása alapjául elfogadott árának emelésére,
+e) a 23. § (4) bekezdés c) pontja szerinti kivétellel közfinanszírozása alapjául elfogadott árának emelésére,
 
 f) támogatási kategória változására,
 
 g) a kombinációs készítmény külön jogszabályban meghatározott eseteire,
 
-h) a (2) bekezdésben foglaltak kivételével már támogatott hatóanyag új gyógyszerére,
+h) a 23. § (4) bekezdésében foglaltak kivételével már támogatott hatóanyag új gyógyszerére,
 
 i) jelentős terápiás előnnyel rendelkező készítményre, magasabb áron történő befogadásra és a támogatás megállapítására,
 

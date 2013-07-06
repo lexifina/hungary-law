@@ -1,6 +1,6 @@
 62. § (1) A közforgalmú gyógyszertárat – ha e törvény másként nem rendelkezik – személyi joggal rendelkező gyógyszerész vezeti. A személyi jog jogosultja a közforgalmú gyógyszertár vezetését – személyi joggal rendelkező más gyógyszerész, felelős vezető és a hatósági vezető kivételével – más személynek nem adhatja át.
 
-(2) A több mint 48 órát nyitva tartó gyógyszertár vezetője más munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt nem létesíthet, illetve nem tarthat fenn, ide nem értve:
+(2) A több mint heti 48 órát nyitva tartó gyógyszertár vezetője más munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt nem létesíthet, illetve nem tarthat fenn, ide nem értve:
 
 a) a tudományos, oktatói, illetve a szerzői jogi védelem alá eső tevékenységet, vagy
 

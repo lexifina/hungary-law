@@ -12,4 +12,12 @@
 
 (6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
 
+(6a) Az egészségbiztosítási szerv a támogatott gyógyszerek
+
+a) teljes köréről és
+
+b) támogatásának mértékéről, összegéről
+
+közhiteles hatósági nyilvántartást vezet.
+
 (7) Az egészségbiztosítási szervnek a 23. § (3)–(4) és (6)–(8) bekezdése szerinti eljárásban hozott döntése ellen nincs helye fellebbezésnek.

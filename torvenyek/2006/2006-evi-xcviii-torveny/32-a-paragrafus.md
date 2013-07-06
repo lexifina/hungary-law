@@ -46,4 +46,4 @@ e) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, h
 
 f) a döntés kiadmányozójának aláírását és a hatóság bélyegzőlenyomatát,
 
-g) a határozat mellékletében az eljárás eredményeként létrejövő támogatott gyógyászati segédeszközök teljes körét.
+g) a határozat mellékletében az eljárással érintett gyógyászati segédeszközök körét.

@@ -6,6 +6,10 @@
 
 (3) A gyógyszertár működtetője a gyógyszertár működtetését naptári évente legfeljebb 21 napig szüneteltetheti. A szüneteltetést legalább egy hónappal előbb be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek. Az előre nem tervezhető szüneteltetést az arra okot adó körülmény észlelését követően haladéktalanul, de legkésőbb a következő munkanapon be kell jelenteni.
 
-(4) A (3) bekezdés szerinti bejelentésben meg kell jelölni a szüneteltetés okát, a kezdetét és a várható befejezés időpontját. A gyógyszertár újbóli megnyitását be kell jelenteni az egészségügyi államigazgatási szervnek, amennyiben eltér az előzetes bejelentésben feltüntetett időponttól.
+(4) A (3) és (4a) bekezdés szerinti bejelentésben meg kell jelölni a szüneteltetés vagy az eltérés okát, a kezdetét és a várható befejezés időpontját. A gyógyszertár újbóli megnyitását be kell jelenteni az egészségügyi államigazgatási szervnek, amennyiben eltér az előzetes bejelentésben feltüntetett időponttól.
+
+(4a) A település gyógyszerellátását egyedül biztosító gyógyszertár működtetője a gyógyszertár nyitvatartási idejétől naptári évente legfeljebb 10 nyitvatartási napon térhet el. A nyitvatartási időtől való eltérést előzetesen két munkanappal, illetve az előre nem tervezhető eltérés esetén az arra okot adó körülményről való tudomásszerzést követően haladéktalanul, de legkésőbb a következő munkanapon be kell jelenteni.
 
 (5) Az egészségügyi államigazgatási szerv határidő tűzésével felfüggeszti a gyógyszertár működését, ha a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak. Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi államigazgatási szerv a működési engedélyt visszavonja.
+
+(6) Az egészségügyi államigazgatási szerv (5) bekezdés szerinti felfüggesztő végzése fellebbezésre tekintet nélkül végrehajtható.
