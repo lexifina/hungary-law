@@ -58,7 +58,7 @@ történik a kiállítása;
 
 11. a tankötelezettséggel, valamint a középfokú és felsőoktatási intézménybe való felvétellel, a tanulmányokat folytatónak a tanulmányokkal, a tandíjjal, vizsgadíjjal és a tanulóotthoni, kollégiumi, diákotthoni, napközi otthoni elhelyezésükkel kapcsolatos eljárás, továbbá az iskolai és tanfolyami bizonyítvány, kivéve a bizonyítvány másolatát, másodlatát;
 
-12. az ösztöndíj adományozásával, a külföldön folytatott iskolai tanulmányok beszámításával, a külföldi oktatási intézményben szerzett bizonyítvány, oklevél, illetőleg tudományos fokozat honosításával, továbbá a külföldi oktatási intézményben szerzett bizonyítvány, valamint oklevél elismerésével kapcsolatos eljárás;
+12. az ösztöndíj adományozásával, a külföldön folytatott iskolai tanulmányok beszámításával, a külföldi oktatási intézményben szerzett bizonyítvány, oklevél, illetőleg tudományos fokozat honosításával, a külföldi oktatási intézményben szerzett bizonyítvány, oklevél elismerésével, valamint a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény hatálya alá tartozó, a határon átnyúló szolgáltatás bejelentésével kapcsolatos eljárás;
 
 13. A ,,Magyar igazolvány'' és a ,,Magyar hozzátartozói igazolvány'' kiadásával, cseréjével, pótlásával, visszavonásával és nyilvántartásával kapcsolatos eljárás, továbbá az igazolvány-nyilvántartásból teljesített adatszolgáltatás;
 
