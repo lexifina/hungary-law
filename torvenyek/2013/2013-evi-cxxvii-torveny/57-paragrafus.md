@@ -10,10 +10,10 @@ d) 56. § (1) bekezdése,
 
 e) 56. § (3) bekezdése,
 
-f) 56. § (5) bekezdése,
+f)
 
 g) 61. § (4) bekezdése,
 
 h) 62. § (5) bekezdése,
 
-i) 82/E. §-a.
+i)

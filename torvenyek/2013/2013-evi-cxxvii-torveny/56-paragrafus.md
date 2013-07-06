@@ -2,7 +2,7 @@
 
 a) 26. § (4) bekezdés c) pontjában az „az 1000” szövegrész helyébe az „a 3000” szöveg,
 
-b) 27. § (1) bekezdésében az „az Európai Gazdasági Térség (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező állam (a továbbiakban: EGT tagállam)” szövegrész helyébe az „EGT tagállam” szöveg,
+b)
 
 c) 29. § (8) bekezdésében az „a Közösségi rendelet hatálya alá tartozó külföldi” szövegrész helyébe az „az uniós rendeletek hatálya alá tartozó személy” szöveg,
 
@@ -22,7 +22,7 @@ j) 46. § (1) bekezdés b)–e) pontjában az „ápolása címén” szövegré
 
 k) 48. § (3) bekezdésében a „[46. § (7) bek.]” szövegrész helyébe a „[48/A. § (1) bekezdés]” szöveg,
 
-l) 48/A. § (2) bekezdésében a „(6a) és (6b)” szövegrész helyébe a „(2)–(5)” szöveg,
+l)
 
 m) a 62. § (2) bekezdésében a „folyósítja” szövegrész helyébe az „utólag folyósítja” szöveg
 

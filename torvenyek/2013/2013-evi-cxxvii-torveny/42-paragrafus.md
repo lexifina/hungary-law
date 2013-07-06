@@ -1,17 +1,1 @@
-42. § Az Ebtv. 48. §-a helyébe a következő rendelkezés lép:
-
-„48. § (1) Ha a biztosítási idő a 48/A. § (1) bekezdése szerint folyamatos, a táppénz összegét a táppénzre jogosultság kezdőnapját közvetlenül megelőző naptári év első napjától a jogosultság kezdő napját közvetlenül megelőző harmadik hónap utolsó napjáig terjedő időszakban, az időszak utolsó napjához időben legközelebb eső azon 180 naptári napi jövedelme alapján kell megállapítani, mely napokon a biztosított jövedelemmel rendelkezett. A folyamatos biztosítási idő megszakítása esetén a táppénz alapjaként a megszakítást megelőző jövedelmet nem lehet figyelembe venni.
-
-(2) Ha a biztosított az (1) bekezdésben meghatározott időszakban nem rendelkezik 180 naptári napi jövedelemmel, de a táppénzre való jogosultság első napját megelőzően van legalább 180 nap 48/A. § (2) bekezdése szerinti folyamatos biztosítási jogviszonya, táppénzét a tényleges, ennek hiányában a szerződés szerinti jövedelme alapján kell megállapítani.
-
-(3) Ha a biztosított az (1) bekezdésben meghatározott időszakban nem rendelkezik 180 napi jövedelemmel, és a táppénzre való jogosultság első napját megelőzően nincs legalább 180 nap 48/A. § (2) bekezdése szerinti folyamatos biztosítási jogviszonya, táppénzét a jogosultság kezdő napján érvényes minimálbér alapulvételével kell megállapítani, kivéve, ha a tényleges vagy a szerződés szerinti jövedelme a minimálbért nem éri el. Ez esetben a táppénz alapja a tényleges, ennek hiányában a szerződés szerinti jövedelem.
-
-(4) Ha a biztosított az (1) bekezdésben meghatározott időszakban legalább 120 naptári napi jövedelemmel rendelkezik, azonban a táppénzre való jogosultság első napját megelőzően nincs legalább 180 nap 48/A. § (2) bekezdése szerinti folyamatos biztosítási jogviszonya, akkor a táppénz naptári napi átlagát a 120 napi tényleges jövedelem alapján kell megállapítani.
-
-(5) Ha a biztosított rendelkezik 180 nap 48/A. § (2) bekezdése szerinti folyamatos biztosítási idővel, azonban a biztosítási jogviszony később kezdődik, mint a táppénzre való jogosultság első napját közvetlenül megelőző harmadik hónap utolsó napja, a táppénz naptári napi átlagát a szerződés szerinti jövedelem alapján kell megállapítani.
-
-(6) Ha biztosított a táppénzre jogosultság kezdő napját közvetlenül megelőző harmadik hónap utolsó napjától, a táppénzre jogosultságot közvetlenül megelőző év első napjáig terjedő időszakban nem rendelkezik 180 naptári napi jövedelemmel, mert táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban – kivéve a méltányosságból megállapított ellátásokat – részesült, a táppénz naptári napi összegét a korábban folyósított ellátás alapját képező összeg figyelembevételével kell megállapítani, ha az a minimálbér összegénél kedvezőbb.
-
-(7) A táppénz alapjaként figyelembe vehető jövedelem naptári napi átlagának kiszámítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
-
-(8) A táppénz összege a 48/A. § (1) bekezdése szerint folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében, a fekvőbeteg-gyógyintézeti ellátás tartama alatt, valamint a 44. §. d) pontjában meghatározott esetben ötven százaléka azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes szerződés szerinti jövedelem, de legfeljebb a minimálbér 200 százalékának harmincad részét.”
+42. §
