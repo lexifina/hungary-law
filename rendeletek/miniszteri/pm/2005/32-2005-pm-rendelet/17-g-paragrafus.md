@@ -1,3 +1,3 @@
-## 17/F. §[^60]
+## 17/F. §[^58]
 
-[^60]: A 17/F. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.
+[^58]: A 17/F. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.

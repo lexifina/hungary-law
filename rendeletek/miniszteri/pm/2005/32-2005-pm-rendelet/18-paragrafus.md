@@ -1,4 +1,4 @@
-## 17/J. §[^64]
+## 17/J. §[^62]
 
 ## MÁSODIK RÉSZ
 
@@ -28,7 +28,7 @@ f) a sorsolásos játékban történő részvételre vonatkozó, az 1. § (5) be
 
 (3) A hírközlő eszközök és rendszerek útján szervezett sorsolásos játék esetén a játékos számára a játékban való részvételt megelőzően megismerhetővé kell tenni a részvételi szabályzatot.
 
-(4)[^65] A hírközlő eszközök és rendszerek igénybevételével szervezett számsorsjáték és egyéb sorsolásos játék engedélyezési eljárása során a szervezőnek az Szjtv. 2. §-ának (6) bekezdésében előírt követelmények teljesítését az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okirattal kell igazolnia.
+(4)[^63] A hírközlő eszközök és rendszerek igénybevételével szervezett számsorsjáték és egyéb sorsolásos játék engedélyezési eljárása során a szervezőnek az Szjtv. 2. §-ának (6) bekezdésében előírt követelmények teljesítését az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okirattal kell igazolnia.
 
-[^64]: A 17/J. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.
-[^65]: A 18. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 7. §-ával megállapított szöveg.
+[^62]: A 17/J. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.
+[^63]: A 18. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 7. §-ával megállapított szöveg.

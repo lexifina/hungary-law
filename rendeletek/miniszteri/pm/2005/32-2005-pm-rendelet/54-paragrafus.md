@@ -1,12 +1,12 @@
 ## A játékkaszinó működtetésének személyi feltételei
 
-54. § (1)[^233]
+54. § (1)[^92]
 
-(2)[^234] Az alkalmazott képesítésére, szakmai gyakorlatára vonatkozó feltételeket tanúsító okiratok hiteles másolatát a szervező köteles a foglalkoztatás megkezdésétől a munkaviszony fennállásáig a munkaszerződések mellékleteként megőrizni.
+(2)[^93] Az alkalmazott képesítésére, szakmai gyakorlatára vonatkozó feltételeket tanúsító okiratok hiteles másolatát a szervező köteles a foglalkoztatás megkezdésétől a munkaviszony fennállásáig a munkaszerződések mellékleteként megőrizni.
 
 (3) A szervező köteles alkalmazottjának munkaviszonyát haladéktalanul megszüntetni abban az esetben, ha a munkaviszony fennállása alatt e rendeletben meghatározott alkalmazási feltételek bármelyike nem áll fenn.
 
-(4)[^235] A játékkaszinóban a következő szakmai képesítési feltételek szükségesek:
+(4)[^94] A játékkaszinóban a következő szakmai képesítési feltételek szükségesek:
 
 a) igazgatóként, igazgató-helyettesként felsőfokú iskolai végzettség, legalább három éves vezetői és játékkaszinóban szerzett szakmai gyakorlat,
 
@@ -26,6 +26,6 @@ h) pénztárosként középfokú iskolai végzettség és legalább két éves p
 
 i) videó-személyzetként középfokú iskolai végzettség és legalább két éves, játékkaszinóban szerzett gyakorlat.
 
-[^233]: Az 54. § (1) bekezdését a 16/2010. (IV. 28.) PM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
-[^234]: Az 54. § (2) bekezdése a 16/2010. (IV. 28.) PM rendelet 18. § (10) bekezdése szerint módosított szöveg.
-[^235]: Az 54. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 25. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 42. § (3) bekezdését.
+[^92]: Az 54. § (1) bekezdését a 16/2010. (IV. 28.) PM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^93]: Az 54. § (2) bekezdése a 16/2010. (IV. 28.) PM rendelet 18. § (10) bekezdése szerint módosított szöveg.
+[^94]: Az 54. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 25. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 42. § (3) bekezdését.
