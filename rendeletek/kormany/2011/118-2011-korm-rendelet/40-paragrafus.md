@@ -12,7 +12,7 @@ b) nem estek hatósági engedélyezési kötelezettség alá
 
 az e rendelet hatálybalépését megelőző napon hatályban lévő szabályozás alapján.
 
-(4)[^30] Az engedélyes jelentésében javaslatot terjeszt elő a részben vagy egészben nem teljesülő követelmények teljesítésének időpontjára, és az egyes teljesítéshez szükséges intézkedések megvalósítására javasolt időpontokig terjedő felmentési kérelmet nyújt be a nukleáris biztonsági hatósághoz. A teljesítés javasolt időpontja nem lehet későbbi, mint a jelentés tárgyát képező nukleáris létesítmény (atomerőmű esetében a blokk) 34. § szerinti soron következő Időszakos Biztonsági Felülvizsgálatának időpontja.
+(4)[^37] Az engedélyes jelentésében javaslatot terjeszt elő a részben vagy egészben nem teljesülő követelmények teljesítésének időpontjára, és az egyes teljesítéshez szükséges intézkedések megvalósítására javasolt időpontokig terjedő felmentési kérelmet nyújt be a nukleáris biztonsági hatósághoz. A teljesítés javasolt időpontja nem lehet későbbi, mint a jelentés tárgyát képező nukleáris létesítmény (atomerőmű esetében a blokk) 34. § szerinti soron következő Időszakos Biztonsági Felülvizsgálatának időpontja.
 
 (5) A nukleáris biztonsági hatóság az Atv. 12. § (1) bekezdés a) pontja szerinti ügyintézési határidő megtartásával a következő szempontok figyelembevételével határozatban dönt a felmentésről és annak engedélyezett időtartamáról:
 
@@ -26,4 +26,4 @@ c) annak figyelembevételével, hogy egy telephelyen belül ne különbözzenek 
 
 (7) Az e rendelet hatálybalépésekor végrehajtható elvi átalakítási engedéllyel rendelkező átalakításokat az elvi átalakítási engedély időbeli hatálya alatt a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 89/2005. (V. 5.) Korm. rendelet e rendelet hatálybalépését megelőző napon hatályos rendelkezései szerinti engedélyezési eljárások lefolytatását követően lehet elvégezni. Az elvi átalakítási engedély időbeli hatályának megszűnését követően az e rendeletben szabályozott követelmények szerint kell az átalakítást engedélyeztetni és végrehajtani.
 
-[^30]: A 40. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
+[^37]: A 40. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.

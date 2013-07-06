@@ -1,12 +1,12 @@
-## 21. §[^18] A nukleáris biztonsági hatóság soron kívül járhat el az engedélyköteles tevékenységekre vonatkozó hatósági ügyekben, ha ez egy kedvezőtlen biztonsági állapot megszüntetéséhez szükséges. A soron kívüli eljárás nem indokolhatja a megalapozó dokumentációval szemben támasztott követelmények betartásának elmulasztását, és nem eredményezheti a nukleáris biztonságtól eltérő szempontok előtérbe kerülését, sem a biztonság csökkenését.
+## 21. §[^23] A nukleáris biztonsági hatóság soron kívül járhat el az engedélyköteles tevékenységekre vonatkozó hatósági ügyekben, ha ez egy kedvezőtlen biztonsági állapot megszüntetéséhez szükséges. A soron kívüli eljárás nem indokolhatja a megalapozó dokumentációval szemben támasztott követelmények betartásának elmulasztását, és nem eredményezheti a nukleáris biztonságtól eltérő szempontok előtérbe kerülését, sem a biztonság csökkenését.
 
 ## 12. Ellenőrzés és érvényesítés
 
-22. § (1)[^19] A nukleáris biztonsági hatóság a nukleáris biztonság fennmaradása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
+22. § (1)[^24] A nukleáris biztonsági hatóság a nukleáris biztonság fennmaradása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
 
 a) a nukleáris létesítmények, azok rendszerei, rendszerelemei, építményei megfelelnek az engedélyekben, jogszabályokban előírt követelményeknek;
 
-b) a nukleáris létesítmény tervezése, telephelyének vizsgálata, létesítése, üzembe helyezése, üzemeltetése, átalakítása és megszüntetése megfelel a nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak; továbbá
+b)[^25] a nukleáris létesítmény tervezése, telephelyének vizsgálata és értékelése, létesítése, üzembe helyezése, üzemeltetése, átalakítása és megszüntetése megfelel a nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak; továbbá
 
 c) az engedélyes irányítási rendszere megfelel az e rendeletben előírt követelményeknek legalább a következők tekintetében:
 
@@ -50,5 +50,6 @@ b) a technológiai folyamatba beépített ellenőrző rendszerekből.
 
 (9) A nukleáris biztonsági hatóság éves ellenőrzési tervet készít. A tervben szereplő ellenőrzések tervezett idejéről és tartalmáról a nukleáris biztonsági hatóság az ellenőrzéssel érintetteket tájékoztatja.
 
-[^18]: A 21. § a 37/2012. (III. 9.) Korm. rendelet 11. § 11. pontja szerint módosított szöveg.
-[^19]: A 22. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^23]: A 21. § a 37/2012. (III. 9.) Korm. rendelet 11. § 11. pontja szerint módosított szöveg.
+[^24]: A 22. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^25]: A 22. § (1) bekezdés b) pontja a 218/2013. (VI. 21.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

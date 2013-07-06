@@ -6,21 +6,23 @@
 
 1. § (1)[^1] E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 1–11. pontjában megfogalmazottak szerint Magyarország területén létesíteni kívánt, valamint a már üzemelő nukleáris létesítményekre, azok rendszereire és rendszerelemeire, a nukleáris létesítménnyel kapcsolatos tevékenységekre és az e tevékenységet végzőkre terjed ki (beleértve a nukleáris létesítményeken belüli radioaktív anyag szállítást és a radioaktív hulladékok átmeneti tárolását biztosító rendszereket, rendszerelemeket, a nukleáris létesítmény biztonsági osztályba sorolt nyomástartó berendezéseit és csővezetékeit, továbbá a tűzvédelmet, ha azok a nukleáris biztonságra hatást gyakorolnak, kizárólag ezen hatásuk szempontjából), így:
 
-a) a nukleáris létesítmény
+a)[^2] a nukleáris létesítmény:
 
-aa) telepítésére,
+aa) telephelyének vizsgálatára és értékelésére,
 
-ab) létesítésére, bővítésére,
+ab) telephelye jellemzőinek és alkalmasságának megállapítására,
 
-ac) üzembe helyezésére,
+ac) létesítésére, bővítésére,
 
-ad) üzemeltetésére,
+ad) üzembe helyezésére,
 
-ae) átalakítására,
+ae) üzemeltetésére,
 
-af) üzemen kívül helyezésére, és
+af) átalakítására,
 
-ag) megszüntetésére;
+ag) üzemen kívül helyezésére, és
+
+ah) megszüntetésére;
 
 b) a nukleáris rendszer, rendszerelem
 
@@ -73,3 +75,4 @@ h) a nukleáris létesítmény nukleárisbaleset-elhárítási tevékenységére
 (4) E rendelet hatálya nem terjed ki a fizikai védelemmel kapcsolatos nukleáris biztonsági követelményekre.
 
 [^1]: Az 1. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés a) pontja a 218/2013. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -12,13 +12,13 @@ b) balesetek elhanyagolható valószínűséggel fordulhassanak elő,
 
 c) a személyzet és a lakosság sugárterhelése a nukleáris létesítmény életciklusának minden fázisában, beleértve a leszerelést is, az ésszerűen elérhető legalacsonyabb szintű legyen, továbbá
 
-d)[^6] a nukleáris létesítmény a tervezési alap keretein belül teljesítse az alapvető biztonsági funkciókat.
+d)[^9] a nukleáris létesítmény a tervezési alap keretein belül teljesítse az alapvető biztonsági funkciókat.
 
 (4) A nukleáris létesítmény tervezése során meg kell határozni az üzemeltetés feltételeit és korlátait.
 
-(5)[^7] Az ember-gép kapcsolatot és az emberi tényezőt figyelembe kell venni a tervezés minden szakaszában és az üzemeltetés feltételeinek kidolgozásánál.
+(5)[^10] Az ember-gép kapcsolatot és az emberi tényezőt figyelembe kell venni a tervezés minden szakaszában és az üzemeltetés feltételeinek kidolgozásánál.
 
 (6) A tervezés részeként olyan baleseti elemzéseket kell végezni, amelyek alapján – figyelembe véve a 7. melléklet szerinti telephelyi jellemzőket is – egyértelműen meghatározhatók a radioaktív kibocsátás mértékétől függő baleset-elhárítási intézkedések.
 
-[^6]: A 9. § (3) bekezdés d) pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
-[^7]: A 9. § (5) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.
+[^9]: A 9. § (3) bekezdés d) pontja a 37/2012. (III. 9.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^10]: A 9. § (5) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 5. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 8. Biztonsági politika
 
-8. § (1)[^5] Az engedélyes írott biztonsági politikát készít az üzembe helyezési engedély iránti kérelem benyújtásáig, amelyben olyan követelményrendszert állít fel, amely garantálja, hogy a biztonság minden mást megelőző fontosságú a nukleáris létesítményben végrehajtott minden tevékenység során. A biztonsági politika keretében az engedélyes olyan részletes szabályozás elkészítésére köteles, amely egyértelműen megfogalmazott és könnyen ellenőrizhető biztonsági célokat és célfeladatokat ír elő, valamint alkalmas a politika megvalósítására és a biztonsági teljesítmény folyamatos nyomon követésére.
+8. § (1)[^8] Az engedélyes írott biztonsági politikát készít az üzembe helyezési engedély iránti kérelem benyújtásáig, amelyben olyan követelményrendszert állít fel, amely garantálja, hogy a biztonság minden mást megelőző fontosságú a nukleáris létesítményben végrehajtott minden tevékenység során. A biztonsági politika keretében az engedélyes olyan részletes szabályozás elkészítésére köteles, amely egyértelműen megfogalmazott és könnyen ellenőrizhető biztonsági célokat és célfeladatokat ír elő, valamint alkalmas a politika megvalósítására és a biztonsági teljesítmény folyamatos nyomon követésére.
 
 (2) A biztonsági politikát minden, a biztonság szempontjából fontos munkakört betöltő munkavállalóval és beszállítóval oly módon kell megismertetni és megértetni, hogy azt tevékenységük során megfelelően alkalmazni tudják.
 
@@ -10,4 +10,4 @@
 
 (5) Az engedélyes felső vezetősége felelős a megfelelő szintű képzettséggel és a szükséges engedéllyel rendelkező üzemeltető személyzet rendelkezésre állásáért, valamint az üzemeltető személyzet képzettségi szintjének fenntartásáért. Az üzemeltető személyzetet oly módon kell kiképezni és minősíteni, hogy tisztában legyen tevékenységének biztonsági követelményeivel és következményeivel.
 
-[^5]: A 8. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.

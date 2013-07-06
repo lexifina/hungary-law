@@ -1,4 +1,4 @@
-40/A. §[^31] (1) A 2012. március 31-én vagy korábban, a rendelet 40. § (1) és (5) bekezdése alapján indult eljárásokat meg kell szüntetni.
+40/A. §[^38] (1) A 2012. március 31-én vagy korábban, a rendelet 40. § (1) és (5) bekezdése alapján indult eljárásokat meg kell szüntetni.
 
 (2) Az atomenergiával kapcsolatos egyes kormányrendeletek módosításáról szóló 37/2012. (III. 9.) Korm. rendelet hatálybalépésekor üzemelő nukleáris létesítmény engedélyese az e rendelet hatálybalépését követő 3. hónap első napján jelentést nyújt be a nukleáris biztonsági hatóságnak.
 
@@ -26,4 +26,4 @@ c) annak figyelembevételével, hogy egy telephelyen belül ne különbözzenek 
 
 (8) A rendelet az atomenergiával kapcsolatos egyes kormányrendeletek módosításáról szóló 37/2012. (III. 9.) Korm. rendelet 10. § (2) bekezdésével és 2. mellékletével megállapított 3. melléklet 3.1.1.0200. pont c) alpontjában felsorolt rendelkezéseket az üzemelő atomerőművi blokk rendszereinek, rendszerelemeinek azon átalakítására kell első ízben alkalmazni, melyek esetében az 1. melléklet 1.4.1.0300. pontja szerinti Átalakítás formalap benyújtására az e rendelet hatálybalépését követő negyedik hónap első napját követően kerül sor.
 
-[^31]: A 40/A. §-t a 37/2012. (III. 9.) Korm. rendelet 9. §-a iktatta be.
+[^38]: A 40/A. §-t a 37/2012. (III. 9.) Korm. rendelet 9. §-a iktatta be.

@@ -108,17 +108,47 @@
 
 ## 1.2.1.0500. Szervezeti és irányítási átalakítás esetén egy atomerőmű valamennyi blokkjára, műszaki átalakítás, valamint műszaki és szabályozó dokumentumok átalakítása esetében pedig az atomerőmű több hasonló blokkjára egy eljárásban is kérelmezhető és kiadható közös engedély.
 
-## 1.2.2. Telephelyengedély
+## 1.2.2.[^41] Telephely vizsgálati és értékelési engedély, telephelyengedély
+
+## Telephely vizsgálati és értékelési engedély
 
 ## Az engedély hatálya
 
-## 1.2.2.0100. A jogerős telephelyengedély a nukleáris létesítmény telephelyjellemzőinek pontosítása érdekében a telephelyengedélyben előírt további vizsgálatok elvégzésére jogosít fel.
+## 1.2.2.0100. A jogerős telephely vizsgálati és értékelési engedély kiadásával a nukleáris biztonsági hatóság a telephely vizsgálati és értékelési program szerinti vizsgálati és értékelési módszerek, valamint elméleti megfontolások megfelelőségét fogadja el, és a telephely vizsgálati és értékelési program alapján szükséges további vizsgálatok elvégzésére jogosít fel.
 
-## 1.2.2.0200. A telephelyengedély a létesítési engedély jogerőre emelkedéséig, de legfeljebb a kiadásától számított 5 évig hatályos. Az engedély időbeli hatálya kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
+## 1.2.2.0200. A telephely vizsgálati és értékelési engedély a telephely engedély jogerőre emelkedéséig, de legfeljebb a kiadásától számított 5 évig hatályos. Az engedély időbeli hatálya kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
-## 1.2.2.0300. A telephelyengedély iránti kérelemhez csatolt dokumentációban igazolni kell, hogy a telephely alkalmas a létesítendő nukleáris létesítmény befogadására, és a telephelyi adottságok megfelelnek a nukleáris létesítmények telephelyével szemben támasztott jogszabályi előírásoknak. Be kell mutatni a létesítendő nukleáris létesítmény tervezési alapját befolyásoló telephelyi adottságokat, továbbá a létesítendő nukleáris létesítmény életciklusának egyes fázisaiban elvégzendő további telephely-vizsgálatok körét.
+## 1.2.2.0300. A telephely vizsgálati és értékelési engedély iránti kérelemben:
+
+## a) be kell mutatni a telephely vizsgálat és értékelés programját, valamint annak részeként az alkalmazni kívánt módszereket és elméleti megfontolásokat, valamint
+
+## b) igazolni kell, hogy a telephelyjellemzők meghatározására, vizsgálatára és értékelésére kidolgozott módszerek alkalmasak a tervezéshez szükséges, telephellyel összefüggő adatok, valamint a telephely alkalmasságának megállapítására.
+
+## 1.2.2.0400. A kérelemhez mellékelni kell a telephely vizsgálati és értékelési programot. A program tartalmi követelményeire vonatkozó ajánlást útmutató tartalmazza.
+
+## Telephelyengedély
+
+## Az engedély hatálya
+
+## 1.2.2.0500. A telephelyengedély kiadásával a nukleáris biztonsági hatóság a létesítést kizáró telephelyjellemzők hiányának igazolását, továbbá a telephelyvizsgálat lefolytatásának, a telephelyvizsgálat alapján megállapított adatok értékelésének és az értékelésből származtatott telephellyel összefüggő tervezési adatok meghatározásának megfelelőségét, valamint a telephely alkalmasságát fogadja el.
+
+## 1.2.2.0600. A telephelyengedély a létesítési engedély jogerőre emelkedéséig, de legfeljebb a kiadásától számított 5 évig hatályos. Az engedély időbeli hatálya kérelemre legfeljebb két alkalommal további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
+
+## Az engedély iránti kérelem tartalmi követelményei
+
+## 1.2.2.0700. A telephelyengedély iránti kérelemben:
+
+## a) igazolni kell, hogy a 7. melléklet szerinti létesítést kizáró telephelyjellemzők nem állnak fenn, valamint
+
+## b) be kell mutatni:
+
+## ba) a telephely vizsgálati és értékelési engedély szerinti program végrehajtását, és
+
+## bb) a telephellyel összefüggő tervezési adatok meghatározását.
+
+## 1.2.2.0800. A kérelemhez mellékelni kell a telephely vizsgálati és értékelési program eredményeit bemutató komplex zárójelentést. A komplex zárójelentés részeként, vagy attól független dokumentumban be kell mutatni a telephelyjellemzők származtatását és azok meghatározásának megalapozottságát. A komplex zárójelentés tartalmi követelményeire vonatkozó ajánlást útmutató tartalmazza.
 
 ## 1.2.3. Létesítési engedély
 
@@ -132,9 +162,9 @@
 
 ## c) a rendszerek és rendszerelemek olyan funkciópróbáinak elvégzése, amelyek a nukleáris anyagot tartalmazó fűtőelemek nukleáris létesítménybe történő beszállítását megelőzően is végrehajthatóak, és azokat – a próbák munkaprogramjában megalapozottan – ténylegesen anélkül végzik el, hogy a rendszer, rendszerelem bármilyen kölcsönhatásban lenne vagy lehetne a nukleáris létesítménybe esetlegesen már beszállított fűtőelemekkel.
 
-## 1.2.3.0200. A létesítési engedély az üzembe helyezési engedély jogerőre emelkedéséig, de legfeljebb a kiadásától számított 10 évig hatályos. Az engedély időbeli hatálya kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak. Modulrendszerű létesítés esetén, amikor a létesítési és üzembe helyezési ciklus több, egymástól jól elválasztható szakaszra osztható, de nincs jelentős műszaki különbség az egyes modulok között sem a kivitelezés, sem az üzembe helyezés szempontjából, akkor a létesítési engedély kiadható az utolsó modul üzembe helyezésének megkezdéséig. Az egyes létesítési szakaszok megkezdése előtt a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
+## 1.2.3.0200.[^42] A létesítési engedély az üzembe helyezési engedély jogerőre emelkedéséig, de legfeljebb a kiadásától számított 10 évig hatályos. Az engedély időbeli hatálya kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
 
-## Az engedély iránti kérelem tartalmi követelményei
+## 1.2.3.0210.[^43] Modulrendszerű átmeneti tároló létesítése esetén, amikor a létesítési és üzembe helyezési ciklus több, egymástól jól elválasztható szakaszra osztható, de nincs alapvető műszaki különbség az egyes modulok között sem a kivitelezés, sem az üzembe helyezés szempontjából, akkor a létesítési engedély az engedélyes kérelmére kiadható úgy, hogy az az utolsó modul üzembe helyezésének megkezdéséig hatályos, valamint az engedélyes kérelmére az engedély időbeli hatálya az utolsó modul üzembe helyezéséig meghosszabbítható. Az egyes létesítési szakaszok megkezdése előtt a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
 
 ## 1.2.3.0300. Az engedély iránti kérelemhez Előzetes Biztonsági Jelentést kell mellékelni, amelyben igazolni kell, hogy a jogszabályokban előírt követelmények teljesülnek, vagy legkésőbb az üzembe helyezési engedély benyújtásáig teljesíthetők, továbbá, hogy a tervezés során alkalmazott biztonsági alapelvek és kritériumok teljesülése esetén a megvalósítani szándékozott nukleáris létesítmény biztonságosan üzemeltethető. Az Előzetes Biztonsági Jelentés felépítésére és tartalmára vonatkozó ajánlásokat – a 3. melléklet követelményeinek figyelembevételével – útmutató tartalmazza.
 
@@ -1398,7 +1428,7 @@
 
 ## 1.8.1. A munkakörök kategorizálása a nukleáris biztonság szempontjából
 
-## 1.8.1.0100.[^34] Az adott nukleáris létesítményre jellemző sajátosságok figyelembevételével a tervező meghatározza a biztonság szempontjából fontos munkakörök és ezen belül a biztonság szempontjából meghatározó munkakörök listáját, amelyet szerepeltetni kell a nukleáris létesítmény Előzetes Biztonsági Jelentésében és Végleges Biztonsági Jelentésében. A listákat a nukleáris biztonsági hatóság a létesítési engedélyben hagyja jóvá, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja.
+## 1.8.1.0100.[^44] Az adott nukleáris létesítményre jellemző sajátosságok figyelembevételével a tervező meghatározza a biztonság szempontjából fontos munkakörök és ezen belül a biztonság szempontjából meghatározó munkakörök listáját, amelyet szerepeltetni kell a nukleáris létesítmény Előzetes Biztonsági Jelentésében és Végleges Biztonsági Jelentésében. A listákat a nukleáris biztonsági hatóság a létesítési engedélyben hagyja jóvá, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja.
 
 ## 1.8.2. Jogosítvány megszerzése és megújítása
 
@@ -1450,7 +1480,7 @@
 
 ## 1.8.2.1100. Érvénytelen jogosítvány esetén a megújítás feltételeit a nukleáris biztonsági hatóság esetileg határozza meg.
 
-## 1.8.2.1200.[^35] Több hasonló blokkal üzemelő atomerőmű esetében, amennyiben a nukleáris létesítmény rendelkezik az atomerőművi blokkok közötti különbségeket is oktató képzési programmal, blokkszimulátorral és a másik atomerőművi blokkon történő munkavégzés feltételeinek a nukleáris biztonsági hatóság által elfogadott szabályozásával, akkor az adott munkakör betöltését biztosító jogosítvány az atomerőmű minden blokkjára kiterjedő érvényességgel is kiadható.
+## 1.8.2.1200.[^45] Több hasonló blokkal üzemelő atomerőmű esetében, amennyiben a nukleáris létesítmény rendelkezik az atomerőművi blokkok közötti különbségeket is oktató képzési programmal, blokkszimulátorral és a másik atomerőművi blokkon történő munkavégzés feltételeinek a nukleáris biztonsági hatóság által elfogadott szabályozásával, akkor az adott munkakör betöltését biztosító jogosítvány az atomerőmű minden blokkjára kiterjedő érvényességgel is kiadható.
 
 ## 1.9. NYOMÁSTARTÓ BERENDEZÉSEK ÉS CSŐVEZETÉKEK NUKLEÁRIS BIZTONSÁGI HATÓSÁGI FELÜGYELETÉNEK ELŐÍRÁSAI
 
@@ -1530,5 +1560,8 @@
 
 2. melléklet a 118/2011. (VII. 11.) Korm. rendelethez
 
-[^34]: Az 1. melléklet 1.8.1.0100. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 1. melléklet 1.8.2.1200. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 1. melléklet 1.2.2. pontja a 218/2013. (VI. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^42]: Az 1. melléklet 1.2.3.0200. pontja a 218/2013. (VI. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 1. melléklet 1.2.3.0210. pontját a 218/2013. (VI. 21.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^44]: Az 1. melléklet 1.8.1.0100. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 1. melléklet 1.8.2.1200. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
