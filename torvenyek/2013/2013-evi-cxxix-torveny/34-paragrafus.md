@@ -1,0 +1,11 @@
+34. § (1) Az Nkt. 61. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) A nevelő- és oktatómunkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását szakképzett szakemberek segítik. A nevelési-oktatási intézményekben alkalmazott vezetők, a foglalkoztatott pedagógusok, valamint a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és kötelező, finanszírozott létszámát a Kormány rendeletben határozza meg. Az óvodákban alkalmazott vezetők kötelező létszámát az 1. melléklet, az óvodákban foglalkoztatott nevelő munkát segítők finanszírozott létszámát a 2. melléklet határozza meg. Az óvodapszichológus kötelező létszámát az óvoda gyermeklétszáma alapján kell meghatározni oly módon, hogy 500 gyermekenként egy, a teljes munkaidő ötven százalékában foglalkoztatott óvodapszichológust kell alkalmazni.”
+
+(2) Az Nkt. 61. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A köznevelési intézményben végzett munka jellegén, természetén nem változtat az a körülmény, hogy a köznevelési intézménynek ki a fenntartója. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az állami intézményfenntartó központ vezetője gyakorolja. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az adott köznevelési intézmény alkalmazottjai tekintetében – a bérgazdálkodást érintő döntések, a kinevezés és a közalkalmazotti jogviszony megszüntetése kivételével – gyakorolja a munkáltatói jogokat. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az e bekezdésben meghatározottak szerint gyakorolhatja a munkáltatói jogot azok tekintetében is, akik a működtető, vagy az általa megbízott személy, illetve szervezet intézkedése alapján végeznek munkát a köznevelési intézményben, amennyiben a működtető így dönt.”
+
+(3) Az Nkt. 61. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Ahol a Munka Törvénykönyve vagy a közalkalmazottak jogállásáról szóló törvény munkáltatóról rendelkezik, azon az állami intézményfenntartó központ által fenntartott köznevelési intézményt is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.”
