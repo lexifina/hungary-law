@@ -16,4 +16,10 @@ b) csökkentheti az átvett feladat ellátásában részt vevő gazdasági társ
 
 (7) A (6) bekezdésben foglaltak alól kivételt képeznek az átvett feladat és az egészségügyi intézmény által ellátott egyéb közfeladat, illetve az ezekhez kapcsolódó vagyon szétválasztásához szükséges és az átvett feladatnak az állam általi ellátását nem veszélyeztető olyan intézkedések, amelyet a Kormány által kijelölt szerv által előzetesen engedélyezett.
 
-(8) Az átvett feladatot végző önkormányzati egészségügyi intézmény és az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig a folyamatos ellátás biztosítása érdekében az 1/A. § (5) bekezdését alkalmazni kell azzal, hogy a vagyonnak az átvett feladat ellátása érdekében történő hasznosítása nem akadályozhatja a vagyonhoz kapcsolódó más egészségügyi és egyéb közfeladat ellátását.
+(8) Ha az átvett feladatot ellátó helyi önkormányzati egészségügyi intézmény a feladat átvételekor az átvett feladaton túl más egészségügyi vagy egyéb közfeladatot is ellát, a folyamatos ellátás biztosítása érdekében
+
+a) az 1/A. § (5) bekezdése alapján hozott határozat az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig alkalmazható, vagy
+
+b) az egészségügyi államigazgatási szerv elrendelheti az 1/A. § (5) bekezdése szerinti vagyonelemeknek a szakellátási feladatot az 1/A. § (11) bekezdésében meghatározott időponttól ellátó egészségügyi szolgáltató számára – az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig – történő ingyenes használatba adását,
+
+azzal, hogy a vagyonnak az átvett feladat ellátása érdekében történő hasznosítása nem akadályozhatja a vagyonhoz kapcsolódó más egészségügyi és egyéb közfeladat ellátását.
