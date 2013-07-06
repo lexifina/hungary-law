@@ -26,11 +26,11 @@
 
 12. helyszíni őrszemélyzet: meghatározott helyszíni járőrözési, megfigyelési, észlelési feladatokat ellátó, személyek és szállítmányok kísérését, a beléptetési rendszer felügyeletét végző, valamint az elhárítás első fázisát adó szervezet;
 
-12a.[^2] Hordozható eszköz: olyan tartó vagy tároló, amelyet kifejezetten arra terveztek, hogy a benne elhelyezett zárt sugárforrás a különböző helyeken történő használathoz könnyen, kézi erővel mozgatható legyen.
+12a.[^7] Hordozható eszköz: olyan tartó vagy tároló, amelyet kifejezetten arra terveztek, hogy a benne elhelyezett zárt sugárforrás a különböző helyeken történő használathoz könnyen, kézi erővel mozgatható legyen.
 
 13. képességek: eszközök, fegyverek birtoklása és alkalmazása, szakmai és taktikai ismeretek, fizikai erőnlét;
 
-14. kötelezett: a nukleáris létesítmény engedélyese, átmeneti és végleges radioaktívhulladék-tároló engedélyese, a radioaktív sugárforrás birtokosa, radioaktív hulladék birtokosa és a nukleáris anyag birtokosa;
+14.[^8] kötelezett: a nukleáris létesítmény engedélyese, az átmeneti és végleges radioaktívhulladék-tároló engedélyese, a radioaktív sugárforrás birtokosa, a radioaktív hulladék birtokosa és a nukleáris anyag birtokosa, valamint létesíteni tervezett átmeneti és végleges radioaktívhulladék-tároló esetében az, aki a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telepítéséhez és tervezéséhez szükséges földtani és bányászati követelményekről szóló rendelet szerint engedélyezett földtani kutatási programot valamennyi kutatási fázisra végrehajtotta és a földtani kutatási zárójelentést jóváhagyó hatósági határozattal rendelkezik;
 
 15. külső elhárító erők: a rendőrség, a kivonuló szolgálat;
 
@@ -54,4 +54,5 @@
 
 (2) Az (1) bekezdésben nem definiált fogalmak tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 2. §-ában meghatározott definíciókat kell alkalmazni.
 
-[^2]: A 2. § (1) bekezdés 12a. pontját a 37/2012. (III. 9.) Korm. rendelet 14. §-a iktatta be.
+[^7]: A 2. § (1) bekezdés 12a. pontját a 37/2012. (III. 9.) Korm. rendelet 14. §-a iktatta be.
+[^8]: A 2. § (1) bekezdés 14. pontja a 217/2013. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
