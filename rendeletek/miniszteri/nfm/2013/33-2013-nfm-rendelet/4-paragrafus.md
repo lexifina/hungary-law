@@ -1,0 +1,1 @@
+## 3. § A radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója (a továbbiakban együtt: létesítmény) telephely-kijelölése és a földtani alkalmasság vizsgálata fázisokra tagolható, amelyeket a földtani kutatási terv készítése és jóváhagyása során kell meghatározni.

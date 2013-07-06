@@ -1,0 +1,1 @@
+## 5. § A földtani kutatások tartalmát a 10. és 11. §-ban meghatározott általános földtani követelmények, az 1. mellékletben felsorolt földtani vizsgálati szempontok és a 2–4. melléklet szerinti különleges földtani alkalmassági követelmények alapján kell meghatározni.
