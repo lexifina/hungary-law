@@ -1,4 +1,4 @@
-13. § (1) Humángenetikai vizsgálat megelőzési, diagnosztikai, terápiás vagy rehabilitációs célból és kizárólag egészségügyi érdek alapján végezhető.
+13. § (1) Humángenetikai vizsgálat megelőzési, diagnosztikai, terápiás, rehabilitációs vagy kutatási célból és kizárólag egészségügyi érdek alapján végezhető.
 
 (2) Humángenetikai vizsgálat elvégzéséhez az érintett 8. § (1) bekezdés szerinti beleegyezése szükséges.
 

@@ -6,7 +6,7 @@
 
 4. § (1) A genetikai adat
 
-a) genetikai vizsgálat, illetve
+a) humángenetikai vizsgálat, illetve
 
 b) humángenetikai kutatás
 
@@ -16,9 +16,9 @@ céljából kezelhető.
 
 a) az (1) bekezdés a) pontja szerinti célból
 
-aa) a genetikai vizsgálatot végző intézmény,
+aa) a humángenetikai vizsgálatot végző intézmény,
 
-ab) a genetikai vizsgálatot végző személy,
+ab) a humángenetikai vizsgálatot végző személy,
 
 ac) a 14. § szerinti orvos,
 

@@ -14,6 +14,6 @@ b) rendszeresen értékeli az intézményben működő biobank tevékenységéne
 
 c) a jogszabályoknak, illetve szakmai szabályoknak nem megfelelő működés esetén kezdeményezi az intézmény vezetőjénél a jogszerű, illetve szakszerű működés helyreállítása érdekében szükséges intézkedés megtételét, szükség szerint a tárolt genetikai mintákkal vagy anyagokkal végzett tevékenység felfüggesztését;
 
-d) a biobank működésének ellenőrzését végző hatóságokat tájékoztatja a működéssel összefüggő, az ellenőrzéshez nélkülözhetetlen adatokról.
+d) a biobank működésének ellenőrzését végző hatóságokat tájékoztatja a működéssel összefüggő, az ellenőrzéshez szükséges adatokról és éves beszámolót készít a biobank működéséről, melyet a tárgyévet követő február 15-ig – a 26. § (7) bekezdése szerinti jelentés elkészítéséhez – megküld az egészségügyi államigazgatási szervnek.
 
 (4) A biobankot létesítő egészségügyi szolgáltató és más intézmény tájékoztatja az egészségügyi államigazgatási szervet az (1) bekezdésben említett felelős személy nevéről a felelősségi körébe tartozó konkrét intézményi feladatok megjelölésével.
