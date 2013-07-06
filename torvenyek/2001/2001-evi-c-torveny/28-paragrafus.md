@@ -94,7 +94,7 @@ c) az olyan kereskedelmi-műszaki jellegű munkakört betöltő személy, aki a 
 
 (16) Minimális képzési követelménynek minősül az európai közösségi jog által valamely képzésre megszabott képesítési előírás.
 
-(17) Hiteles fordításnak minősül a 7. § (4) bekezdésében foglaltak mellett az a magyar fordítás is, amely hitelesnek minősül valamely tagállam joga szerint. Hiteles másolatnak minősül a 7. § (6) bekezdésében foglaltak mellett az a másolat is, amely hitelesnek minősül valamely tagállam joga szerint.
+(17)
 
 (18) Önálló vállalkozó az, aki önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végez gazdasági tevékenységet.
 

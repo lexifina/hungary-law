@@ -6,7 +6,7 @@
 
 (2) Az e törvény II. fejezete szerinti eljárásért, ha továbbtanulási céllal történik, az eljáró hatóság a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díjat.
 
-(3) Az e törvény III., IV. és V. fejezete, valamint Harmadik része szerinti eljárásért az eljárási díj háromszorosát kell befizetni az eljáró hatóság számlájára.
+(3) Az e törvény III., IV. és V. fejezete, valamint Harmadik része szerinti eljárásért az eljárási díj háromszorosát kell befizetni az eljáró hatóság számlájára. Mentes azonban az eljárási díj alól az e törvény X. Fejezete szerinti bejelentés, még abban az esetben is, ha a szolgáltatásnyújtás előzetes ellenőrzés alá tartozik.
 
 (4) A szakmai vizsga lebonyolításáért az oktatási intézmény a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díj tízszeresét.
 

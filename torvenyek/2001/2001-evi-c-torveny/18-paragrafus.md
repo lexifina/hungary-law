@@ -4,7 +4,7 @@
 
 18. § (1) Külföldi oklevél által tanúsított szakképzettség akkor ismerhető el a hazai felsőoktatásban megszerezhető szakképzettségként, ha
 
-a) a szakképzettség az oklevél által tanúsított alapfokozathoz, mesterfokozathoz, vagy szakirányú továbbképzést tanúsító oklevélhez kapcsolódik, és
+a) a szakképzettség az oklevél által tanúsított alapfokozathoz, mesterfokozathoz, felsőfokú szakképzést, felsőoktatási szakképesítést vagy szakirányú továbbképzést tanúsító oklevélhez kapcsolódik, és
 
 b) megállapítható, hogy a kérelmező képzése megfelel a jogszabály által előírt képzési és kimeneti követelményeknek és a hazai képzés rendjének.
 

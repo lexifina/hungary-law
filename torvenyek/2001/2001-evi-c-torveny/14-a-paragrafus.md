@@ -32,4 +32,8 @@ b) külföldi oklevélhez vezető képzés vagy kutatás időtartama az egy éve
 
 c) külföldi oklevél végzettségi szintje a hazai doktori fokozat végzettségi szintjével összevethető.
 
-(5)
+(5) Hazai felsőoktatási intézményben megszerezhető felsőoktatási szakképzést tanúsító oklevélként az a külföldi oklevél ismerhető el, amely
+
+a) felsőfokú képzésben folytatott legalább kétéves időtartamú tanulmányok befejezését tanúsítja, és
+
+b) nem tanúsít az (1), (2), (3) vagy (4) bekezdés szerinti végzettséget.
