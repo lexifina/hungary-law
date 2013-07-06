@@ -28,7 +28,7 @@ m)[^6] gyakorolja a megyei önkormányzatok konszolidációjáról, a megyei ön
 
 n)[^7] gyakorolja az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján az állam fenntartásába, illetve tulajdonába került egészségügyi intézmény felett, továbbá az egészségügyért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató felett az egyes fenntartói, valamint a hatáskörébe tartozó költségvetési szervek tekintetében a középirányítói jogokat,
 
-o)[^8] a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 30. § (4) bekezdése alapján fenntartóként jóváhagyja az m) és n) pont szerinti egészségügyi szolgáltató által kötendő vagy módosítandó finanszírozási szerződést,
+o)[^8]
 
 p)[^9] kidolgozza a fekvőbeteg-szakellátás, valamint a járóbeteg-szakellátás kapacitásai és ellátási területe felosztásának, módosításának, valamint a jogszabályban meghatározott egészségügyi szakellátási kapacitások felosztásának, módosításának módszertanát, külön jogszabályban foglaltak szerint részt vesz az ezekkel kapcsolatos eljárásokban,
 
@@ -42,7 +42,7 @@ s)[^12] fenntartói jogok gyakorlójaként előzetesen jóváhagyja az m) és n)
 [^5]: A 2. § b) pontja a 136/2013. (V. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § m) pontja a 92/2012. (IV. 27.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^7]: A 2. § n) pontja a 92/2012. (IV. 27.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^8]: A 2. § o) pontját a 92/2012. (IV. 27.) Korm. rendelet 34. §-a hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 70. §-a iktatta be.
+[^8]: A 2. § o) pontját a 92/2012. (IV. 27.) Korm. rendelet 34. §-a hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 70. §-a iktatta be, újból hatályon kívül helyezte a 254/2013. (VII. 5.) Korm. rendelet 62. § (3) bekezdése.
 [^9]: A 2. § p) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^10]: A 2. § q) pontja a 372/2011. (XII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^11]: A 2. § r) pontját a 46/2012. (III. 28.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd e módosító rendelet 10. §-át.
