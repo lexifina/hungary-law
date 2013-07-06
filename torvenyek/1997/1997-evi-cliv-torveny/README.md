@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2013-01-01 | 2012. évi CCXII. törvény | 1997-154-00-00.57 |
 | 2013-04-29 | 2013. évi XL. törvény | 1997-154-00-00.58 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1997-154-00-00.59 |
+| 2013-07-06 | 2013. évi CXXVII. törvény | 1997-154-00-00.60 |

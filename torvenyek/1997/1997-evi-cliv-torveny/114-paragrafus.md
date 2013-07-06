@@ -1,14 +1,14 @@
 ## Egységes ágazati humánerőforrás-monitoringrendszer
 
-114. § (1) Az egészségügyi ágazati humánerőforrás nyomon követése céljából egységes egészségügyi ágazati humánerőforrás-monitoringrendszer működik, amely ellátja a (2) bekezdésben, valamint a külön jogszabályban meghatározott feladatokat.
+114. § (1) Az egészségügyi ágazati humánerőforrás nyomon követése, valamint stratégiai tervezésének elősegítése céljából egységes egészségügyi ágazati humánerőforrás-monitoring rendszer működik, amely ellátja a (2) bekezdésben, valamint a jogszabályban meghatározott feladatokat.
 
 (2) Az egységes egészségügyi ágazati humánerőforrás-monitoringrendszert működtető egészségügyi államigazgatási szerv
 
-a) a 112. § (4) bekezdés a)–c), e), g) és j)–l) pontjai szerinti adatokat,
+a) a 112. § (4) bekezdés szerinti adatokat,
 
-b) a 112. § (4) bekezdés d) pontjából idegen nyelvenként a nyelvismeret legmagasabb szintjére és típusára vonatkozó adatokat,
+b)
 
-c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének járás szerinti megjelölését,
+c)
 
 d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 
@@ -34,7 +34,7 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 
 a) személyazonosításra alkalmas módon továbbítja
 
-aa) a (2) bekezdés a)–c) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
+aa) a (2) bekezdés a) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
 
 ab) a (2) bekezdés e) pontja szerinti adatokat az egészségügyi államigazgatási szerv,
 
@@ -53,6 +53,8 @@ bc) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgá
 bd) a (2) bekezdés l) pontja szerinti adatokat az egészségbiztosítási államigazgatási szerv.
 
 (4) Az egységes ágazati humánerőforrás-monitoring végrehajtása érdekében a (2) bekezdésben meghatározott szerv a (2) bekezdésben meghatározottakon kívül jogosult a hatósági, ellenőrzési és gazdasági tevékenységgel járó, továbbá a nyilvános és közhitelű nyilvántartások vezetésével összefüggő adatgyűjtést végző szervtől a rendelkezésre álló adatokat egyedi azonosításra alkalmatlan módon átvenni. Ezen adatok átadása céljából megkeresett szervek a megkeresésben foglaltak szerinti adatokat térítésmentesen kötelesek átadni.
+
+(4a) Az egységes egészségügyi ágazati humánerőforrás-monitoring rendszert működtető egészségügyi államigazgatási szerv felé az állami foglalkoztatási szerv, a kormányzati személyügyi szolgáltató, valamint valamennyi, működési engedéllyel rendelkező egészségügyi szolgáltató köteles megküldeni az egészségügyi dolgozók által betölthető álláshelyére – különösen az álláshely betöltési feltételeire –, valamint a foglalkoztatási igényére vonatkozó adatokat azok keletkezésétől, illetve változásától számított öt munkanapon belül, a rendelkezésre álló egészségügyi humánerőforrás legmegfelelőbb hasznosulása érdekében.
 
 (5) A (3) bekezdés szerinti szerv az ott meghatározottak szerinti adatokat a jogszabályban meghatározott határidőben, illetve gyakorisággal, de legalább évente egyszer a naptári év végét követő 14 napon belül, a (2) bekezdés j) pontja tekintetében a jogszabály szerinti adatközlési határidőt követő 30 napon belül, a (2) bekezdés h) és k) pontja tekintetében havonta térítésmentesen továbbítja a (2) bekezdés szerinti szervnek.
 

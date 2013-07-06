@@ -2,7 +2,7 @@
 
 112. § (1) Azt a személyt, aki az e törvényben foglalt feltételeknek megfelel, kérelmére működési nyilvántartásba kell venni.
 
-(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
+(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása. A működési nyilvántartás a (4) bekezdés b)–n) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
 
 (3) Nem vehető fel a működési nyilvántartásba az,
 

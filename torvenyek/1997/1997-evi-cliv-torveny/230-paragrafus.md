@@ -16,7 +16,9 @@ e) az egészségügyi készletek tartalékolására,
 
 f) a speciális képzési feladatok ellátására, és
 
-g) a katasztrófa-egészségügyi ellátási gyakorlatok végrehajtására.
+g) a katasztrófa-egészségügyi ellátási gyakorlatok végrehajtására,
+
+h) a szükséggyógyintézetek elhelyezésére alkalmas ingatlanok előzetes kijelölésére.
 
 (4) A katasztrófa-egészségügyi ellátás tényleges működése kiterjed
 

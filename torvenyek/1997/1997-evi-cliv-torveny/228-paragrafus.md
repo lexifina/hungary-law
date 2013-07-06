@@ -6,7 +6,7 @@
 
 (2) E törvény alkalmazásában egészségügyi válsághelyzetnek minősül
 
-a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
+a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, valamint az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló törvény szerinti nemzetközi horderejű közegészségügyi-járványügyi szükséghelyzet, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
 
 b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 

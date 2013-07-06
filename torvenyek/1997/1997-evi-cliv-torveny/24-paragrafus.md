@@ -10,7 +10,7 @@ a) a gyógykezeléssel összefüggő adatainak kezeléséről tájékoztatást k
 
 b) a rá vonatkozó egészségügyi adatokat megismerni,
 
-c) az egészségügyi dokumentációba betekinteni, valamint azokról saját költségére másolatot kapni,
+c) az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot vagy másolatot készíteni vagy saját költségére másolatot kapni,
 
 d) a fekvőbeteg-gyógyintézetből történő elbocsátásakor zárójelentést (137. §) kapni,
 

@@ -1,4 +1,8 @@
-174. § (1) Az egészségügyi szolgáltató az adományozott és általa elfogadott ivarsejteket a felhasználásig fagyasztva tárolja. A ivarsejtek tárolása külön jogszabályban meghatározottak szerint kizárható, illetőleg időtartama korlátozható. A korlátozott időtartamig tárolható ivarsejteket a tárolási idő lejártát követően meg kell semmisíteni.
+174. § (1) Az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló jogszabályban
+
+a) meghatározott esetben az egészségügyi szolgáltató az adományozott és általa elfogadott ivarsejteket a felhasználásig fagyasztva tárolja,
+
+b) meghatározottak szerint az ivarsejtek tárolása kizárható vagy időtartama korlátozható azzal, hogy a korlátozott időtartamig tárolható ivarsejteket a tárolási idő lejártát követően meg kell semmisíteni.
 
 (2) Egészségügyi okból szakorvosi javaslat alapján, illetőleg egyéb indokolt kérelemre ivarsejtek fagyasztva tárolás céljából cselekvőképes személytől későbbi, a letevő saját felhasználása céljából is átvehetők (ivarsejt letét). Letétként kizárólag a letevő saját és személyesen átadott ivarsejtjei vehetők át.
 

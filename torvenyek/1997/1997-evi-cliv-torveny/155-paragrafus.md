@@ -52,7 +52,7 @@ e) az egészségügyi szolgáltató szakellátási kapacitásainak átcsoportos�
 
 f) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés kezdeményezése,
 
-g) az egészségügyi szolgáltató finanszírozási szerződése megkötésének, az egészségügyi szolgáltató által kezdeményezett módosításának, illetve az egészségügyi szolgáltató általi felmondásának jóváhagyása,
+g)
 
 h) az egészségügyi szolgáltatónak az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
 
@@ -65,3 +65,5 @@ k) az egészségügyi szolgáltató működési engedélyében szereplő egészs
 A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik.
 
 l) az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatóját érintő fejlesztési célú pályázathoz szükséges fenntartói nyilatkozat megtétele.
+
+(6) Az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója a finanszírozási szerződés megkötéséről, módosításáról, megszűnéséről a fenntartóját és az egészségügyért felelős minisztert is tájékoztatja.

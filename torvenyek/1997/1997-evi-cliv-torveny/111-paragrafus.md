@@ -2,7 +2,7 @@
 
 111. § (1) Az egészségügyi dolgozók alapnyilvántartásáról szóló miniszteri rendeletben foglalt egészségügyi szakképesítéseket az oklevél vagy bizonyítvány megszerzését, illetve magyarországi honosítását vagy elismerését követően alapnyilvántartásba kell venni.
 
-(2) Az alapnyilvántartás célja a megszerzett szakképesítés közhiteles tanúsítása.
+(2) Az alapnyilvántartás célja a megszerzett szakképesítés közhiteles tanúsítása. Az alapnyilvántartás a (3) bekezdés b) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Az alapnyilvántartás az alábbi adatokat tartalmazza:
 

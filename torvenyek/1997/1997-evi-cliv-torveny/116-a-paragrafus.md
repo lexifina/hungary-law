@@ -32,6 +32,8 @@ e) a munkáltató nevét, címét, adószámát és bankszámla számát.
 
 (5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet. A kijelölés alapján eljáró egészségügyi államigazgatási szerv a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
+(5b) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt, a szakképzésben részt vevő személyek természetes személyazonosító adatainak kivételével közhiteles hatósági nyilvántartásnak minősül.
+
 (6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az

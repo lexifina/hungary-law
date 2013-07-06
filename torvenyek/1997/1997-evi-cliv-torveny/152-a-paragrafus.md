@@ -1,0 +1,1 @@
+152/A. § A települési önkormányzat együttműködik a lakosságra, közösségekre, családi, munkahelyi, iskolai színterekre irányuló egészségfejlesztési tevékenységekben az ezeket végző szervekkel és személyekkel, valamint támogatja és aktívan kezdeményezi ezen tevékenységeket.

@@ -14,16 +14,18 @@ f) a balesetfelelős bejelentésével,
 
 g) az implantátum beültetése során előírt nyilvántartással
 
+h) az orvostechnikai eszközök forgalmazásával és kereskedelmi gyakorlatával
+
 kapcsolatos, az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
 
 (2) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni, azzal, hogy a bírság összege
 
-a) az (1) bekezdés a) pontja esetén 50 000 forinttól 400 000 forintig,
+a) az (1) bekezdés a), g) és h) pontja esetén 50 000 forinttól 400 000 forintig,
 
 b) az (1) bekezdés b) pontja esetén 10 000 forinttól 140 000 forintig,
 
 c) az (1) bekezdés c) pontja esetén 50 000 forinttól 150 000 forintig,
 
-d) az (1) bekezdés d)–g) pontja esetén 15 000 forinttól 50 000 forintig
+d) az (1) bekezdés d)–f) pontja esetén 15 000 forinttól 50 000 forintig
 
 terjedhet.

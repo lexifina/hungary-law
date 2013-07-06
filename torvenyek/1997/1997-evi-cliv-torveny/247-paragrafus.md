@@ -184,6 +184,60 @@ r) a véradások szervezésével kapcsolatos részletes szabályokat, a térít�
 
 s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait,
 
-sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat,
+sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, valamint a hatósági ellenőrzés szabályait,
 
 t) a vérkészítmények terápiás felhasználásának részletes szabályait,
+
+u) az egységes ágazati humánerőforrás-monitoringrendszer működésének részletes szabályait,
+
+v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, visszavonására, valamint – az államháztartásért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat
+
+w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
+
+x) a természetes gyógytényezőkre vonatkozó részletes szabályokat,
+
+y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
+
+z) az egészségügyi szolgáltatóknál végezhető egészségügyi ellátások nyilvántartására és a nyilvántartásba vételére vonatkozó szabályokat,
+
+zs) a közúti járművezetői engedély megszerzéséhez szükséges elsősegély-nyújtási ismeretek megszerzésének részletes szabályait, továbbá a gépjárművezetők egészségi alkalmassága elbírálásának szabályait
+
+rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a miniszter, hogy
+
+a)
+
+b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
+
+c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
+
+d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
+
+e) a gyermekágyas és az újszülöttellátás szabályait
+
+f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit,
+
+g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett végzők felügyeletének módjával, illetve a felügyelet szintjével kapcsolatos szabályokat
+
+rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
+
+(4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
+
+(5) Felhatalmazást kap
+
+a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
+
+b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
+
+c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
+
+ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
+
+cb) az egészségügyi szolgáltatók működési engedélyezésével kapcsolatosan,
+
+cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
+
+cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,

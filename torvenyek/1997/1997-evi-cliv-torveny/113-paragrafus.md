@@ -6,9 +6,11 @@ a) a nyilvántartott személy e törvényben és jogszabályban foglaltak szerin
 
 b) nyilvántartásba vételt kizáró ok nem áll fenn.
 
-(3) A működési nyilvántartás egy alkalommal, jogszabályban foglalt feltételekkel, az egészségügyi tevékenység végzésének Magyarországon vagy az EGT valamely más tagállamában történő szüneteltetésének időtartamára, de legfeljebb három évre meghosszabbítható, a (4) bekezdésben foglalt eltéréssel.
+(3) A működési nyilvántartás (1) bekezdés szerinti érvényességi ideje egy alkalommal, jogszabályban foglalt feltételekkel, az egészségügyi tevékenység végzésének Magyarországon vagy más EGT tagállamban történő szüneteltetésének időtartamára, de legfeljebb három évre meghosszabbítható, a (4) bekezdésben foglalt eltéréssel.
 
 (4) A (3) bekezdésben foglaltaktól eltérően, ha a nyilvántartott személy jogszabályban meghatározott közfeladat ellátása miatt szünetelteti az egészségügyi tevékenységet, a működési nyilvántartást a közfeladat ellátásának időtartamával, de legfeljebb öt évvel lehet meghosszabbítani, jogszabályban foglaltak szerint.
+
+(4a) A (3) és (4) bekezdésben foglaltaktól eltérően, ha a nyilvántartott személy gyermekvállalás miatt szünetelteti az egészségügyi tevékenységet, a működési nyilvántartást a terhességi gyermekágyi segély, a gyermekgondozási díj vagy gyermekgondozási segély jogosultsági ideje időtartamával, de legfeljebb öt évvel lehet meghosszabbítani, jogszabályban foglaltak szerint.
 
 (5) A működési nyilvántartásba vételre, megújításra, illetve meghosszabbításra vonatkozó feltételek fennállása esetén az egészségügyi dolgozó a működési nyilvántartásba akkor vehető fel, működési nyilvántartása akkor újítható vagy hosszabbítható meg, ha írásban nyilatkozik arról, hogy Magyarországon kívül egészségügyi tevékenységet
 

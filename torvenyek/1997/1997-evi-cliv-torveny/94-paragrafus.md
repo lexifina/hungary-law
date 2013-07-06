@@ -34,6 +34,8 @@ b) életmentő orvosi eszköz és gyógyszer, valamint átültetésre kerülő s
 
 c) mentési készenlét biztosítása balesetek helyszínén, továbbá tömeges balesetek és rendkívüli esetek kárhelyén a helyszín biztosításának, illetve a veszélyhelyzet elhárításának idejére (mozgóőrség),
 
-d) mentési készenlét biztosítása rendezvény helyszínén, térítés ellenében, meghatározott helyen és ideig (rendezvénybiztosítás).
+d) mentési készenlét biztosítása rendezvény helyszínén, térítés ellenében, meghatározott helyen és ideig (rendezvénybiztosítás),
+
+e) mentési készenlét térítés ellenében történő ellátása olyan helyszíneken, amelyek az ott időszakosan vagy folyamatosan végzett tevékenység jellege alapján – ideértve az építkezést, műszaki munkálatok elvégzését – a balesetveszély szempontjából fokozottan kockázatosnak tekintendők (helyszínbiztosítás).
 
 (6) A közterületen vagy nyilvános helyen tartózkodó, magatehetetlen ittas személyt a mentőszolgálat kijózanítás céljából egészségügyi megfigyelésre, illetve ellátásra az illetékes egészségügyi szolgáltatóhoz szállítja. A megfigyelés az érintett kijózanodásáig, de legfeljebb 24 óráig tarthat. A beszállított személyt kijózanodásáig, de legfeljebb 24 órai időtartamra lehet az egészségügyi intézményben visszatartani.
