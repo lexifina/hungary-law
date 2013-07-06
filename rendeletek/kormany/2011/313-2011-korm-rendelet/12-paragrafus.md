@@ -4,12 +4,7 @@
 
 12. § (1) A Kormány praxiskezelőként az OALI-t jelöli ki.
 
-(2) A praxiskezelő országos nyilvántartást vezet
-
-a) a praxisengedélyekről,
-
-b) a tartósan betöltetlen körzetekről, valamint
-
-c) a praxisjogra vonatkozóan lebonyolított adásvételekről.
+(2)[^10] A praxiskezelő az Öotv. 2/C. § b) pontja szerinti feladatkörében nyilvántartja az eladott praxisjoggal érintett körzet ellátási területének megnevezését, kódját, típusát, valamint az átadás időpontját.
 
 [^9]: A 11. § a 137/2012. (VI. 29.) Korm. rendelet 78. §-a szerint módosított szöveg.
+[^10]: A 12. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 46. §-ával megállapított szöveg.
