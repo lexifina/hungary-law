@@ -102,6 +102,8 @@ r) a bizonyítvánnyal tanúsított végzettség, szakképzettség Magyar Képes
 
 s) az Országos szakértői névjegyzékbe és az Országos érettségi vizsgaelnöki névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 
+s) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát
+
 t) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét
 
 rendeletben állapítsa meg.
