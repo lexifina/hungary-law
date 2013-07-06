@@ -6,7 +6,7 @@ b) a tárgyévet megelőző év január 1-je és június 30-a közötti időszak
 
 c) legalább heti – fiókgyógyszertár üzemeltetése esetén a fiókgyógyszertár nyitvatartási idejét is figyelembe véve – 40 órában nyitva tart.
 
-(2)[^43] A működési célú támogatás negyedéves összege a mindenkori központi költségvetésről szóló törvényben szereplő, a Gyftv. 40. § b) pontja szerinti minisztérium fejezetében meghatározott előirányzat erejéig az (1) bekezdés alapján jogosult gyógyszertárak között kerül felosztásra úgy, hogy azon gyógyszertárak, amelyek (1) bekezdés b) pontja szerinti árréstömege a 6 millió forintot nem haladja meg, a felosztás tekintetében 1,25-szörös szorzóval súlyozottan kerülnek figyelembevételre.
+(2)[^43] A működési célú támogatás negyedéves összege a mindenkori központi költségvetésről szóló törvényben szereplő, a Gyftv. 41. § (1) bekezdése szerinti minisztérium fejezetében meghatározott előirányzat erejéig az (1) bekezdés alapján jogosult gyógyszertárak között kerül felosztásra úgy, hogy azon gyógyszertárak, amelyek (1) bekezdés b) pontja szerinti árréstömege a 6 millió forintot nem haladja meg, a felosztás tekintetében 1,25-szörös szorzóval súlyozottan kerülnek figyelembevételre.
 
 (2a)[^44] A fiókgyógyszertárral is rendelkező (1) bekezdés a) pontja szerinti közforgalmú gyógyszertárat működtető vállalkozás, amennyiben az (1) bekezdés b) pontja szerinti időszakra számított árréstömege nem haladja meg a 7,2 millió forintot, negyedévente fiókgyógyszertáranként havi 20 ezer forint támogatásban részesül, amennyiben azt az elsőfokú állami adóhatóságnál kérelmezi. A támogatás minden gyógyszertár esetén legfeljebb két fiókgyógyszertárra vehető igénybe és csak abban az esetben, ha a fiókgyógyszertár egész évben biztosítja a lakosság gyógyszerellátását.
 
@@ -26,7 +26,7 @@ c) legalább heti – fiókgyógyszertár üzemeltetése esetén a fiókgyógysz
 
 [^41]: A 6/C. §-t a 33/2003. (III. 27.) Korm. rendelet 7. §-a iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 288/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be. Ez utóbbi módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően beváltott vények esetén kell alkalmazni.
 [^42]: A 6/C. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^43]: A 6/C. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^43]: A 6/C. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított, a 254/2013. (VII. 5.) Korm. rendelet 59. §-a szerint módosított szöveg.
 [^44]: A 6/C. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 31. § (2) bekezdése iktatta be.
 [^45]: A 6/C. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 32. §-a hatályon kívül helyezte.
 [^46]: A 6/C. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 201/2010. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
