@@ -6,6 +6,6 @@ a) 2012. augusztus 1-jén a törvény erejénél fogva megszűnnek,
 
 b) az a) pontban foglaltaktól eltérően az (1) bekezdés szerinti esetben az (1) bekezdésben meghatározott időtartamig hatályban maradnak, azzal, hogy e megállapodások felmondására a 2012. június 30-án hatályos 14/A. § (2) bekezdését kell alkalmazni.
 
-(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel (a továbbiakban: Módtv2.) módosított 29. § (18) bekezdését 2012. január 1-jétől kell alkalmazni.
+(3)
 
 (4) A Módtv2.-vel módosított 14/D. § szerinti, a Módtv2. hatálybalépésekor fennálló jogviszonyt a Módtv2. hatálybalépését követő 30 napon belül be kell jelenteni a fenntartónak. A fenntartó a jogviszony jóváhagyása tárgyában a bejelentéstől számított 60 napon belül dönt.
