@@ -1,0 +1,7 @@
+## 59. § A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet 6/C. § (2) bekezdésében a „Gyftv. 40. § b) pontja” szövegrész helyébe a „Gyftv. 41. § (1) bekezdése” szöveg lép.
+
+60. § (1) A gyógyszerek és a gyógyászati segédeszközök ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeiről és felhasználásáról szóló 338/2008. (XII. 30.) Korm. rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A gyógyszerek és gyógyászati segédeszközök ismertetésével kapcsolatban eljáró hatóság által a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. § (2) bekezdés d) pontja szerint kiszabott bírságot a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetnek (a továbbiakban: GYEMSZI) a Magyar Államkincstárnál vezetett számlájára – a (2) bekezdésben megjelölt időpontig – kell megfizetni, amelyet a GYEMSZI az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezeti számlára utal.”
+
+(2) Hatályát veszti a gyógyszerek és a gyógyászati segédeszközök ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeiről és felhasználásáról szóló 338/2008. (XII. 30.) Korm. rendelet 3. §-a, 4. §-a és 4/A. §-a.

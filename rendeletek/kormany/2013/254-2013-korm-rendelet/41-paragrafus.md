@@ -1,0 +1,1 @@
+## „(2) Ha a befogadási kérelem új gyógyszert igénylő új technológia befogadására irányul, az OEP a kérelemben foglaltakat elkülöníti és a technológiai befogadásra vonatkozó eljárást az R1. szerinti eljárással egyidejűleg lefolytatja, azzal, hogy a kérelemben foglaltakról egy határozatban dönt.”

@@ -1,0 +1,1 @@
+## „m) baleset: balesetnek minősül az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy rövid idő alatt következik be, és sérülést, mérgezést, más (testi, lelki) egészségkárosodást vagy halált okoz.”

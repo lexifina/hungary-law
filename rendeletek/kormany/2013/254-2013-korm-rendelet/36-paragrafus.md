@@ -1,0 +1,3 @@
+## 35. § Az Eftv. Vhr. 5/B. § (6a) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6a) Abban az esetben, ha jogszabályi változás érinti a Tv. 5/A. § (8b) bekezdés d) pontjában, illetve (8c) bekezdés d) pontjában meghatározott adatokat, a változást – a kapacitás-nyilvántartásnak a (3), illetve az (5) bekezdés szerinti módosulásáig – az egészségbiztosításért felelős miniszter által vezetett minisztérium honlapján közzétett tájékoztatóban meghatározottak szerint kell figyelembe venni azzal, hogy ennek tényét – a tájékoztató elérhetőségének biztosításával egyidejűleg – a kapacitás-nyilvántartásban is közölni kell.”
