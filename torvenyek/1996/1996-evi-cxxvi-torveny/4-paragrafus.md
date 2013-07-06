@@ -34,7 +34,7 @@ e) az országos szakmúzeumok;
 
 f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetésből egyedi támogatásban részesült és nem tartozik az előző kategóriákba;
 
-g) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú mellékletében meghatározott felsőoktatási intézmény;
+g) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében meghatározott felsőoktatási intézmény;
 
 h) a Nemzeti Együttműködési Alap.
 
