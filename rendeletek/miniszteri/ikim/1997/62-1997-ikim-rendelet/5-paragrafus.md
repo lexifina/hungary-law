@@ -1,1 +1,0 @@
-## 4. § A nukleáris létesítmények és a radioaktív hulladék elhelyezésére szolgáló létesítmények telephely-kijelölése és a földtani alkalmasság vizsgálata fázisokra tagolható, amelyeket a földtani kutatási terv készítése és jóváhagyása során kell meghatározni.
