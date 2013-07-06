@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2013-01-01 | 2012. évi CXX. törvény | 1997-159-00-00.20 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 1997-159-00-00.21 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1997-159-00-00.22 |
+| 2013-07-06 | 2013. évi CI. törvény | 1997-159-00-00.23 |

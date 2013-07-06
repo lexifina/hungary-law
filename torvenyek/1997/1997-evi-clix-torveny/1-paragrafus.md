@@ -8,7 +8,7 @@ a) az állam biztonsága, illetve a honvédelem szempontjából fontos létesít
 
 b) a nemzetközi személy- vagy teherforgalomban működő repülőteret;
 
-c) a katasztrófa veszélyességű robbanásveszélyes, tűzveszélyes, mérgező, valamint az egészségre vagy a környezetre veszélyes anyagot, és az ezek felhasználásával, gyártásával, tárolásával, forgalmazásával, szállításával összefüggő tevékenységet; továbbá a jogszabályban meghatározott nukleáris és más radioaktív anyagot, nukleáris létesítményt;
+c) olyan robbanásveszélyes, tűzveszélyes, mérgező, valamint az egészségre vagy a környezetre veszélyes anyag felhasználásával, gyártásával, tárolásával, forgalmazásával, szállításával összefüggő tevékenységet, amely katasztrófát okozhat, továbbá a jogszabályban meghatározott nukleáris és más radioaktív anyagot, nukleáris létesítményt;
 
 d) a lakosság alapvető szükségletét biztosító infrastruktúra és közműrendszer egyes elemeit;
 
