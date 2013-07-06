@@ -14,4 +14,4 @@ b) elvégzik a magzat egészséges fejlődését ellenőrző és a gyermeket vá
 
 c) segítséget adnak a gyermeket váró nőnek a szülésre, szoptatásra, csecsemő- és gyermekgondozásra való felkészüléshez.
 
-(3) A terhesgondozás részletes szabályait, a kötelező és az állami gondoskodás keretében térítésmentesen igénybe vehető fakultatív szűrővizsgálatok körét az egészségügyért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.
+(3)
