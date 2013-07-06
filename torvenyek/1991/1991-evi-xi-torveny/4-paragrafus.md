@@ -18,13 +18,13 @@ e) az oktató, nevelő és gondozó intézmények és tevékenységek közegész
 
 (5) Az élelmezés- és táplálkozásegészségügy keretében az egészségügyi államigazgatási szerv
 
-a) kimutatja a kozmetikai készítményekben, a gyermekjátékokban, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai illetve biológiai egészségkárosító anyagokat, kimunkálja az ezekre vonatkozó közegészségügyi határértékeket és követelményeket, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során;
+a) kimutatja a kozmetikai készítményekben, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai illetve biológiai egészségkárosító anyagokat, kimunkálja az ezekre vonatkozó közegészségügyi határértékeket és követelményeket, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során;
 
 b) táplálkozás-egészségügy szakterületen
 
 ba) vizsgálatokat végez a lakosság táplálkozási helyzetére, tápláltsági állapotára, a táplálkozás és az egészségi állapot közötti összefüggésekre vonatkozóan,
 
-bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi vizsgálatokat végez, különös tekintettel a vendéglátás – ezen belül kiemelten a munkahelyeken, az egészségügyi intézményekben, az oktatási és nevelési intézményekben, továbbá a szociális ellátás, a gyermekjóléti és gyermekvédelmi szolgáltatás keretében bármely formában nyújtott étkeztetés – területén a szolgáltatott élelmiszerekre, ételekre, étrendre vonatkozóan, tápanyagszámítással és biokémiai elemzéssel,
+bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi vizsgálatokat végez, különös tekintettel a vendéglátás – ezen belül kiemelten a munkahelyeken, az egészségügyi intézményekben, a nevelési-oktatási intézményekben, továbbá a szociális ellátás, a gyermekjóléti és gyermekvédelmi szolgáltatás keretében bármely formában nyújtott étkeztetés – területén a szolgáltatott élelmiszerekre, ételekre, étrendre vonatkozóan, tápanyagszámítással és biokémiai elemzéssel, valamint a nevelési-oktatási intézményekben eladásra szánt élelmiszerek tápanyag-beviteli értékének megfelelősége tekintetében,
 
 bc) a ba) és a bb) alpont szerinti területeken közreműködik a táplálkozás-egészségügyi előírások kidolgozásában,
 
@@ -38,7 +38,7 @@ cb) ellenőrzi a ca) alpont szerinti élelmiszerek meghatározott táplálkozás
 
 cc) ellátja az új élelmiszerek engedélyezésével összefüggő, külön jogszabály szerinti feladatokat,
 
-cd) ellátja a technológiai segédanyagokkal, élelmiszer-csomagolóanyagokkal, élelmiszeriparban felhasznált mosó- és fertőtlenítőszerekkel, az élelmiszert előállító, feldolgozó-, csomagoló-, tároló- és forgalomba hozó helyek engedélyezésével összefüggő, külön jogszabály szerinti feladatokat;
+cd) ellátja a technológiai segédanyagokkal, az élelmiszeriparban felhasznált mosó- és fertőtlenítőszerekkel, az élelmiszert előállító, feldolgozó-, csomagoló-, tároló- és forgalomba hozó helyek engedélyezésével összefüggő, jogszabályban meghatározott feladatokat;
 
 d) a betegélelmezés és a diétás étkeztetés területén
 

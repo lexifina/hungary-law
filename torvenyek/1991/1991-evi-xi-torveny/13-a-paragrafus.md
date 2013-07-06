@@ -8,7 +8,7 @@ c) a gyógytényezőkre, gyógyhelyekre, fürdő- és klímagyógyintézetekre,
 
 d) a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére,
 
-e) a kozmetikai termékek, a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésére, táplálkozás-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
+e) a kozmetikai termékek gyártására, egészségkárosítás nélküli alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
 
 f) a 4. § (5) bekezdés b) és d) pontja szerinti szakterületen az élelmezés- és táplálkozás-egészségügyi követelményekre,
 
@@ -18,7 +18,9 @@ h) a fertőző betegségek és járványok megelőzése, illetve a járványvesz
 
 i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre,
 
-j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére
+j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére,
+
+k) a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására
 
 vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 
@@ -62,4 +64,4 @@ b) a jogsértés a lakosság széles körének egészségét sérti vagy veszél
 
 (10) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
-(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó jogerős határozatot nyilvánosan közzéteszi. A közzétételre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi közlésre vonatkozó szabályait kell alkalmazni, azzal, hogy a határozatot kizárólag a hatóság elektronikus tájékoztatásra szolgáló honlapján kell közzétenni.
+(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó jogerős határozatot nyilvánosan közzéteszi. A közzétételre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) hirdetményi közlésre vonatkozó szabályait kell alkalmazni, azzal, hogy a határozatot kizárólag a hatóság elektronikus tájékoztatásra szolgáló honlapján kell közzétenni.

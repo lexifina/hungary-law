@@ -56,6 +56,18 @@ db) 22. cikkének végrehajtása körében a kozmetikai termékek piacfelügyele
 
 dc) 34. cikk (1) és (2) bekezdésének végrehajtása körében az illetékes nemzeti hatóság és méregellenőrző központ kijelölését,
 
-dd) 37. cikkének végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciók körét, illetve kijelölését.
+dd) 37. cikkének végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciók körét, illetve kijelölését,
+
+e) a kozmetikai termékek
+
+ea) gyártására,
+
+eb) mikrobiológiai tisztasági követelményeire,
+
+ec) használata során felmerülő nemkívánatos hatásokat értékelő méregellenőrző központ feladataira, valamint a méregellenőrző központnak megtett bejelentésekkel kapcsolatos követelményekre,
+
+ed) piacfelügyeleti ellenőrzésére kijelölt szervek feladatkörének megosztására
+
+vonatkozó szabályokat.
 
 (13) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kereskedelemért felelős miniszterrel, valamint az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben az energiaitalok megengedett térfogatértékeit és azok ellenőrzési módszereit rendeletben határozza meg.
