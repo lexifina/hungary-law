@@ -1,4 +1,4 @@
-## 3. §[^19] Az OEP a szolgáltatókkal kötendő finanszírozási szerződés tervezetének a felek általános jogait és kötelezettségeit tartalmazó részét a Magyar Orvosi Kamarával (a továbbiakban: MOK), a Magyar Egészségügyi Szakdolgozói Kamarával, az önkormányzatok, a szolgáltatók érdek-képviseleti szervezeteivel a szerződéskötést megelőzően 30 nappal előzetesen egyezteti. A finanszírozási szerződésnek a felek általános jogait és kötelezettségeit tartalmazó részének módosítása esetén a fentiek szerint kell eljárni.
+## 3. §[^19] Az OEP a szolgáltatókkal kötendő finanszírozási szerződés tervezetének a felek általános jogait és kötelezettségeit tartalmazó részét a Magyar Orvosi Kamarával (a továbbiakban: MOK), a Magyar Egészségügyi Szakdolgozói Kamarával, az önkormányzatok, a szolgáltatók érdek-képviseleti szervezeteivel a szerződéskötést megelőzően 30 nappal előzetesen egyezteti. A finanszírozási szerződésnek a felek általános jogait és kötelezettségeit tartalmazó részének módosítása esetén is – amennyiben a módosításra nem jogszabály-változás miatt kerül sor – az e §-ban foglaltak szerint kell eljárni.
 
 4. § (1) A szolgáltató az általa ellátott betegekről, illetve a nyújtott ellátásokról az elszámoláshoz előírt nyilvántartásokat vezeti. A szolgáltató a finanszírozással kapcsolatos – személyes adatokat nem tartalmazó – nyilvántartásokat legalább 5 évig megőrzi.
 
@@ -24,7 +24,9 @@
 
 (11)[^29] A jogosultságát TAJ-számmal igazolni nem tudó belföldi személy sürgősségi ellátása esetén a szolgáltató köteles vizsgálni, hogy az Eütv. 142. § (2) bekezdés b) és c) pontja szerint nyújtott ellátások költségei behajthatóak-e más forrásból. A szolgáltató fizetési felszólítással érvényesíti követelését, ha a jogosultságát TAJ-számmal igazolni nem tudó belföldi személy az igénybe vett ellátás térítési díját nem fizeti meg. Az ellátás jelentése és kifizetése a (10) bekezdésben foglaltak szerint történik.
 
-[^19]: A 3. § a 318/2006. (XII. 23.) Korm. rendelet 2. §-ával megállapított, a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés h) pontja szerint módosított szöveg.
+(12)[^30] Élődonoros szervátültetés esetén, amennyiben a recipiens magyar biztosítási jogviszonnyal rendelkezik és az átültetésre kerülő szerv külföldi donorból származik, a külföldi donor magyarországi ellátását a donor adatlapjának és a betegdokumentáció másolati példányának a megküldésével egyidejűleg az egészségügyi szolgáltató „K” térítési kategóriában jelenti a finanszírozó részére. Az ellátást a finanszírozó minden esetben ellenőrzi.
+
+[^19]: A 3. § a 318/2006. (XII. 23.) Korm. rendelet 2. §-ával megállapított, a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés h) pontja, a 254/2013. (VII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^20]: A 4. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^21]: A 4. § (4) bekezdését a 21/2000. (III. 3.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, szövege a 29/2001. (III. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 16. § (13) bekezdése alapján a rendelkezést a 2009. december havi teljesítmény elszámolásokra kell először alkalmazni.
 [^22]: A 4. § (5) bekezdését a 21/2000. (III. 3.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, újonnan a 29/2001. (III. 2.) Korm. rendelet 1. §-ának (1) bekezdése állapította meg; szövege a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése szerint módosított szöveg.
@@ -35,3 +37,4 @@
 [^27]: A 4. § (9) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (6) bekezdése szerint módosított szöveg.
 [^28]: A 4. § (10) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 2. §-ával megállapított, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^29]: A 4. § (11) bekezdését az 58/2009. (III. 18.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 4. § (12) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 20. §-a iktatta be.

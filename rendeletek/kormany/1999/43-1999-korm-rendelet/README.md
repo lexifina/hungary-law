@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2012-12-31 | 1999-43-20-22.109 | 41/2007. (III. 13.) Korm. rendelet |
 | 2013-01-01 | 1999-43-20-22.110 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2013-04-27 | 1999-43-20-22.111 | 125/2013. (IV. 26.) Korm. rendelet |
+| 2013-07-06 | 1999-43-20-22.112 | 254/2013. (VII. 5.) Korm. rendelet |
