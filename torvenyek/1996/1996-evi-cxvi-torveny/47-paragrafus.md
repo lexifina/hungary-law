@@ -6,6 +6,6 @@ b) elrendelheti személyek biztonságba helyezését, terület, ingatlan, épül
 
 c) elrendelheti a szennyezett anyagi javak megsemmisítését, élő állatok esetében azok kényszervágását vagy kiirtását;
 
-d) az építésügyi hatóságnál kezdeményezheti épület és más építmény, a vízügyi hatóságnál a vízi létesítmény felújításának, helyreállításának, átalakításának vagy lebontásának elrendelését.
+d) az építésfelügyeleti hatóságnál kezdeményezheti épület és más építmény, a vízügyi hatóságnál a vízi létesítmény felújításának, helyreállításának, átalakításának vagy lebontásának elrendelését.
 
 (2)–(3)

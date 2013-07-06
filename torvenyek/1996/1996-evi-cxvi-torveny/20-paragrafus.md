@@ -16,6 +16,6 @@ f) az atomenergia alkalmazása körében a munkavállalókra érvényes sugáreg
 
 g) a lakosság sugárvédelme érdekében az országos sugárzási helyzetre vonatkozó adatok központi gyűjtését, feldolgozását, nyilvántartását és értékelését, illetve nukleáris veszélyhelyzetben a döntések megalapozásában való közreműködést;
 
-h) a radioaktív anyagokkal és az ionizáló sugárzást kibocsátó berendezésekkel kapcsolatos közegészségügyi, sugáregészségügyi feladatokat, valamint a munkahelyi és környezeti sugárvédelmi normák és az atomenergia alkalmazása körében a munkavállalókra érvényes előírások érvényesítésének ellenőrzését.
+h) a radioaktív anyagokkal és az ionizáló sugárzást létrehozó berendezésekkel kapcsolatos közegészségügyi, sugáregészségügyi feladatokat, valamint a munkahelyi és környezeti sugárvédelmi normák és az atomenergia alkalmazása körében a munkavállalókra érvényes előírások érvényesítésének ellenőrzését.
 
 (2)

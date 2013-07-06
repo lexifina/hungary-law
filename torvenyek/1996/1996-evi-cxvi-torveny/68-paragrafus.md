@@ -6,7 +6,7 @@ b) a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsol�
 
 c) a radioaktív anyagok csomagolása engedélyezésének és ellenőrzésének szabályait a közlekedésért felelős miniszterrel egyetértésben;
 
-d) a nukleáris és más radioaktív anyagok nyilvántartásával összefüggő igazgatási szolgáltatások igénybevételéért, továbbá az atomenergia-felügyeleti szerv hatósági tevékenységéért, ezen belül a nukleáris biztonsági hatósági tevékenységért fizetendő díjakat az adópolitikáért felelős miniszterrel egyetértésben;
+d) az atomenergia-felügyeleti szerv igazgatási szolgáltatási díj ellenében végzett eljárásai esetében az igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és visszatérítésének szabályait, a díj mértékét illetően az adópolitikáért felelős miniszterrel egyetértésben;
 
 e) az atomenergia-felügyeleti szerv hatósági tevékenységéhez igénybe vett intézetek, intézmények részére a szolgáltatásért járó díj fizetésének feltételeit;
 
@@ -60,7 +60,7 @@ b) a vizek és a víztartó képződmények radioaktív és hőszennyezés ellen
 
 (5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
 
-(6) Felhatalmazást kap a bányászati ügyekért felelős miniszter, hogy rendeletben állapítsa meg a nukleáris létesítmény, a radioaktív hulladék elhelyezésére szolgáló létesítmény kiválasztott telephelye alkalmasságának véleményezésénél, valamint műszaki megtervezésénél figyelembe veendő földtani követelményrendszert.
+(6) Felhatalmazást kap a bányászati ügyekért felelős miniszter, hogy rendeletben állapítsa meg a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelye alkalmasságának megállapításánál, valamint műszaki tervezésénél irányadó földtani követelményrendszert, továbbá a földtani vizsgálatok engedélyezésére és a vizsgálat eredményének jóváhagyására vonatkozó hatósági eljárás szabályait.
 
 (7) Felhatalmazást kap
 
@@ -72,7 +72,7 @@ c) a katasztrófák elleni védekezésért felelős miniszter, hogy tűzbiztons�
 
 az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben, rendeletben állapítsa meg.
 
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint az atomenergia-felügyeleti szervet irányító miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a közlekedésért felelős miniszterrel, valamint az atomenergia-felügyeleti szervet felügyelő miniszterrel egyetértésben rendeletben állapítsa meg a radioaktív, illetve nukleáris anyagok szállításának rendőri ellenőrzési és biztosítási feladatait.
 
 (9) Felhatalmazást kap a bányászati ügyekért felelős miniszter, hogy rendeletben állapítsa meg a radioaktív hulladék elhelyezésére szolgáló bányatérségek, valamint egyéb föld alatti térségek kiválasztásával, üzemeltetésével kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
 

@@ -1,4 +1,4 @@
-8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal. Felügyeletét a miniszterelnök által kijelölt miniszter (a továbbiakban: kijelölt miniszter) látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal, felügyeletét a kijelölt miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
 (2)
 
@@ -22,7 +22,9 @@ d) tájékoztatja a közvéleményt az atomenergia alkalmazásának biztonságá
 
 e) Baleset-elhárítási Szervezet megszervezésével, felkészítésével és működtetésével ellátja a számára jogszabályban meghatározott nukleárisbaleset-elhárítási feladatokat, továbbá azokat a nukleáris balesetekkel kapcsolatos gyors értesítési, kapcsolattartási és hatósági feladatokat, amelyek az európai uniós tagságból, továbbá jogszabállyal kihirdetett, a Nemzetközi Atomenergia Ügynökség keretében a nukleáris veszélyhelyzeti gyors értesítésről és a segítségnyújtásról létrejött nemzetközi egyezményekből, valamint a kapcsolódó kétoldalú nemzetközi megállapodásokból erednek;
 
-f) feladatkörében együttműködik más országok hasonló hatósági feladatokat ellátó szervezeteivel, és velük kétoldalú szakmai megállapodásokat köt, két- és többoldalú nemzetközi kapcsolatokat épít ki és tart fenn, összehangolja az atomenergia alkalmazásának biztonságával és védettségével összefüggő nemzetközi együttműködést, továbbá ennek körében véleményezi az e téren kötendő nemzetközi egyezményeket, és figyelemmel kíséri – hatáskörét illetően – azok megvalósulását.
+f) feladatkörében együttműködik más országok hasonló hatósági feladatokat ellátó szervezeteivel, és velük kétoldalú szakmai megállapodásokat köt, két- és többoldalú nemzetközi kapcsolatokat épít ki és tart fenn, összehangolja az atomenergia alkalmazásának biztonságával és védettségével összefüggő nemzetközi együttműködést, továbbá ennek körében véleményezi az e téren kötendő nemzetközi egyezményeket, és figyelemmel kíséri – hatáskörét illetően – azok megvalósulását;
+
+g) ellátja az 5/A. § (4) bekezdése alapján Magyarországot terhelő kötelezettségeket.
 
 (5) A kijelölt miniszter
 

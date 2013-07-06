@@ -6,4 +6,4 @@
 
 (3) Az engedélyes – figyelembe véve üzemeltetési tapasztalatait és a biztonsággal kapcsolatos új ismereteket – köteles folyamatos tevékenységet végezni a biztonság növelésére.
 
-(4)
+(4) Az atomerőmű engedélyese a munkaalkalmassági követelmények meghatározása során alkohol- és drogpolitikát dolgoz ki, valamint gondoskodik az annak végrehajtásához szükséges ellenőrzésről.

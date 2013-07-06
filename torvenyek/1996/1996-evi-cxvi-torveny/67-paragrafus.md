@@ -12,7 +12,7 @@ d) a nukleáris létesítmények tekintetében
 
 da) a biztonsági jelentések tartalmát,
 
-db) a telepítésre, létesítésre, bővítésre, üzembe helyezésre, üzemeltetésre, átalakításra, üzemen kívül helyezésre, megszüntetésre vonatkozó nukleáris biztonsági követelményeket,
+db) a telephely vizsgálatára és értékelésére, a telephely jellemzőinek és alkalmasságának megállapítására, létesítésre, bővítésre, üzembe helyezésre, üzemeltetésre, átalakításra, üzemen kívül helyezésre, megszüntetésre vonatkozó nukleáris biztonsági követelményeket,
 
 dc) a nukleáris rendszerek és rendszerelemek tervezésére, gyártására, beszerzésére, szerelésére, üzembe helyezésére és leszerelésére, valamint a nukleáris létesítmények üzemeltetésének időszaka alatt történő átalakításokra vonatkozó nukleáris biztonsági követelményeket;
 
@@ -26,11 +26,11 @@ dg) a nukleáris létesítményekkel összefüggő építmények építéshatós
 
 e) az atomenergia alkalmazóinak, valamint az illetékes hatóságoknak, az érintett ágazati és területi szerveknek mind a nukleáris veszélyhelyzetre való felkészüléssel és tervezéssel, mind a nukleáris veszélyhelyzet elhárításával, továbbá a lakosság hiteles és időben történő tájékoztatásával összefüggő feladatait és kötelezettségeit;
 
-f) a 40. §-ban meghatározott feladatok elvégzésére kijelölt szerv tevékenységét és annak pénzügyi forrásait;
+f) a 40. §-ban meghatározott feladatok elvégzésére kijelölt szerv létrehozását, tevékenységét és annak pénzügyi forrásait;
 
 g) az atomkárfelelősségre vonatkozó biztosítási vagy más pénzügyi garanciák jellegét, feltételeit és összegét;
 
-h)
+h) a 20. § (1) bekezdése szerinti feladatokat ellátó szervnek az atomenergia biztonságos alkalmazásával kapcsolatos európai uniós kötelezettségekkel összefüggő feladatkörét;
 
 i) a 15. §-ban meghatározott bírság mértékét, a bírság kiszabásának szempontjait;
 
@@ -44,12 +44,12 @@ m) az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenő
 
 n) a speciális érvényesítési eljárások rendjét.
 
-o) a 10/A. § alapján létrejött társulások számára a Központi Nukleáris Pénzügyi Alapból nyújtható támogatás felosztásának módjára és a folyósítására, a támogatási szerződés megkötésére, a támogatás felhasználásának ellenőrzésére és az elszámolás rendjére vonatkozó szabályokat;
+o) a 10/A. § alapján létrejött társulások számára a Központi Nukleáris Pénzügyi Alapból nyújtható támogatás felosztásának módjára, folyósítására, a támogatási szerződés tartalmára, a társulások tájékoztatási és ellenőrzési célú tevékenységére, a tároló engedélyesének ezt elősegítő kötelezettségeire, valamint a kiégett üzemanyag támogatás szempontjából való minősítésére vonatkozó szabályokat;
 
 p) a radioaktív hulladékok és a kiégett üzemanyagok országhatáron át történő szállításának engedélyezését és az engedélyezéshez való hozzájárulást;
 
-q) a nukleáris védettséggel összefüggésben a fenyegetettséggel kapcsolatos naprakész elemzéseket elvégző és a tervezési alapfenyegetettséget meghatározó testület kijelölését, tevékenységét, szervezetét és működését;
+q) a nukleáris védettséggel összefüggésben a fenyegetettséggel kapcsolatos naprakész elemzéseket elvégző és a tervezési alapfenyegetettséget meghatározó szerv kijelölését, tevékenységét, szervezetét és működését;
 
-r) az atomenergia alkalmazása körében a fizikai védelmi rendszerrel kapcsolatos követelményeket és a vonatkozó hatósági rendszert és eljárásokat;
+r) az atomenergia alkalmazása körében a tervezési alapfenyegetettség első alkalommal történő megállapításával, valamint a fizikai védelmi rendszerrel kapcsolatos követelményeket és a vonatkozó hatósági rendszert és eljárásokat;
 
 s) az atomenergia alkalmazása körében eljáró független műszaki szakértői tevékenység folytatásának szabályait, végzésének feltételeit, a rájuk vonatkozó összeférhetetlenségi szabályokat, a szakértői szakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységre jogosító engedély iránti kérelmezési eljárásban részt vevő minősítő bizottságok tagjaira és összeférhetetlenségére vonatkozó feltételeket, a szakvélemény tartalmi elemeit és elkészítésére irányadó szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a külföldi szakértőre vonatkozó, az EGT-állam állampolgár szakértőitől eltérő szabályait.

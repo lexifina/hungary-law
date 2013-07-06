@@ -20,7 +20,7 @@ b) az ionizáló sugárzást létrehozó, valamint az a) pont szerinti alkalmaz�
 
 7. nukleáris létesítmény:
 
-a) a dúsítóüzem, nukleáris üzemanyagot gyártó üzem, atomerőmű, újrafeldolgozó üzem, kutatóreaktor, oktatóreaktor, nukleáris kritikus és más neutronsokszorozás célját szolgáló rendszer, friss és kiégett üzemanyag tárolására szolgáló létesítmény,
+a) a dúsítóüzem, nukleáris üzemanyagot gyártó üzem, atomerőmű, újrafeldolgozó üzem, nukleáris üzemanyagot vizsgáló laboratórium, kutatóreaktor, oktatóreaktor, nukleáris kritikus és más neutronsokszorozás célját szolgáló rendszer, friss nukleáris üzemanyag tárolására és kiégett üzemanyag átmeneti tárolására szolgáló létesítmény,
 
 b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcsolódó, ugyanazon a telephelyen található, radioaktív hulladék tárolására szolgáló létesítmények, amennyiben külön létesítménynek minősülnek;
 
@@ -36,7 +36,7 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 13. nukleáris üzemanyag: atomreaktor üzemanyaga, amely nukleáris anyagot tartalmaz;
 
-14. kiégett üzemanyag: az atomreaktorban hasznosított, besugárzott és a reaktorból véglegesen eltávolított nukleáris üzemanyag, amely – az atomreaktoron kívüli – újrahasznosíthatósága miatt nem minősül hulladéknak;
+14. kiégett üzemanyag: az atomreaktorban besugárzott és a reaktorból véglegesen eltávolított nukleáris üzemanyag, amely az atomreaktoron kívüli újrafeldolgozhatósága miatt nem minősül hulladéknak, vagy ha radioaktív hulladéknak minősül, annak végleges elhelyezéséről gondoskodni kell;
 
 15. radioaktív hulladék: további felhasználásra már nem kerülő olyan radioaktív anyag, amely sugárvédelmi jellemzők alapján nem kezelhető közönséges hulladékként;
 
@@ -92,6 +92,16 @@ a) nukleáris vagy más radioaktív anyagnak a 2013. június 30-ig hatályban vo
 
 b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Btk. szerinti rablás (365. §) vagy lopás (370. §);
 
-38. ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának kizárása, a környezet elemeitől történő elszigeteléssel;
+38. ártalmatlanítás: nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának kizárása, a környezet elemeitől történő elszigeteléssel;
 
 39. radiológiai következmények szempontjából jelentős rendszer és rendszerelem: azon, nukleáris anyag vagy más radioaktív anyag alkalmazásával, feldolgozásával és tárolásával összefüggő rendszerek és rendszerelemek, amelyek rongálása rendkívüli esemény bekövetkezésével jár vagy járhat.
+
+40. átmeneti tárolás: a kiégett üzemanyag és a radioaktív hulladék környezettől elszigetelt átmeneti tárolása az erre a célra szolgáló létesítményben a későbbi visszanyerés vagy – később meghozandó döntés alapján – későbbi végleges elhelyezés céljából;
+
+41. kiégett üzemanyag kezelése: a kiégett üzemanyag mozgatásával, átmeneti tárolásával, újrafeldolgozásával, továbbá végleges elhelyezésével összefüggő valamennyi tevékenység, a telephelyen kívüli szállítás kivételével;
+
+42. radioaktív hulladék kezelése: a radioaktív hulladék mozgatásával, előfeldolgozásával, feldolgozásával, kondicionálásával, átmeneti tárolásával és végleges elhelyezésével összefüggő valamennyi tevékenység, a telephelyen kívüli szállítás kivételével;
+
+43. újrafeldolgozás: olyan folyamat vagy művelet, amelynek célja nukleáris vagy más radioaktív anyag kinyerése kiégett üzemanyagból további felhasználás céljára;
+
+44. végleges elhelyezés: a kiégett üzemanyag és a radioaktív hulladék visszanyerés szándéka nélkül történő végső, engedélyezett elhelyezése.

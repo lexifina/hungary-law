@@ -1,10 +1,16 @@
-## Az atomenergia-felügyeleti szerv hatásköre a nukleáris létesítmények engedélyezési eljárásában
+## Az atomenergia-felügyeleti szerv hatásköre
 
 17. § (1) Az atomenergia-felügyeleti szerv alapvető feladata az atomenergia biztonságos alkalmazásával, különösen a nukleáris anyagok és létesítmények biztonságával, a nukleárisbaleset-elhárítással kapcsolatos hatósági feladatok, valamint az ezekre vonatkozó tájékoztatási tevékenység összehangolása, illetve ellátása.
 
 (2) Az atomenergia-felügyeleti szerv hatáskörébe tartozik:
 
-1. a nukleáris létesítmény telepítéséhez, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez szükséges nukleáris biztonsági engedélyezés;
+1. a nukleáris létesítmény:
+
+a) telephelyének vizsgálatához és értékeléséhez, telephely jellemzőinek és alkalmasságának megállapításához,
+
+b) létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez
+
+szükséges nukleáris biztonsági engedélyezés;
 
 2. a nukleáris létesítmények nukleáris biztonsági ellenőrzése, valamint a nukleáris létesítmények nukleáris biztonságának értékelése, elemzése;
 
@@ -38,7 +44,7 @@
 
 17. radioaktív anyagoknak Magyarország és az Európai Unió tagállamai, továbbá Magyarország és harmadik országok közötti szállításához való hozzájárulás, illetve engedélyezés;
 
-18. az atomenergia alkalmazása körében a fizikai védelmi rendszer – fizikai védelmi terv alapján történő – engedélyezése és ellenőrzése;
+18. a tervezési alapfenyegetettség megállapítása és felülvizsgálata, valamint az atomenergia alkalmazása körében a fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése és ellenőrzése;
 
 19. az atomkár-felelősségre vonatkozó biztosítási vagy más pénzügyi fedezet meglétének nyilvántartása és ellenőrzése;
 
@@ -58,8 +64,8 @@
 
 (4) Az atomenergia-felügyeleti szerv jogosult bármely atomenergiát alkalmazónál – hatáskörében – ellenőrzést folytatni.
 
-(5) A nukleáris biztonságra hatással lévő átalakítás végrehajtásához kérelmet kell benyújtani az atomenergia-felügyeleti szervhez az átalakítás engedélyezésére. Átalakítás esetén a (2) bekezdés 4. pontjától eltérően a rendszer, rendszerelem beszerzéséhez, gyártásához, és a szerelés előkészítéséhez nincs szükség az atomenergia-felügyeleti szerv engedélyére. Az átalakítási engedély a rendszernek, rendszerelemnek az üzemi rendszerekhez történő csatlakozására, az átalakított rendszer, rendszerelem üzembe helyezésére és üzemeltetésére jogosítja fel az engedélyest.
+(5) A nukleáris biztonságra hatással lévő átalakítás végrehajtásához engedély iránti kérelmet kell benyújtani az atomenergia-felügyeleti szervhez. Átalakítás esetén a (2) bekezdés 4. pontjától eltérően a rendszer, rendszerelem beszerzéséhez, gyártásához, és a szerelés előkészítéséhez nincs szükség az atomenergia-felügyeleti szerv engedélyére. Az átalakítási engedély a rendszernek, rendszerelemnek az üzemi rendszerekhez történő csatlakozására, az átalakított rendszer, rendszerelem üzembe helyezésére és üzemeltetésére jogosítja fel az engedélyest.
 
-(6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell a nukleáris biztonsági hatóságnál a nukleáris létesítmény üzemeltetési engedélyének módosítását.
+(6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell az atomenergia-felügyeleti szervnél a nukleáris létesítmény üzemeltetési engedélyének módosítását.
 
-(7) A 17. § (2) bekezdés 1., 3–10. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telepítéséhez szükséges eljárást kivéve – a nukleáris létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban kell benyújtani. A kérelmet megalapozó dokumentációt számítógépes kezelést is lehetővé tevő adathordozón is mellékelni kell.
+(7) A 17. § (2) bekezdés 1., 3–10. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve – a nukleáris létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban kell benyújtani. A kérelmet megalapozó dokumentációt számítógépes kezelést is lehetővé tevő adathordozón is mellékelni kell.

@@ -1,4 +1,4 @@
-40. § (1) A radioaktív hulladék és a kiégett üzemanyag kezelésére vonatkozó nemzeti program kidolgozásáról, a radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával, és a nukleárisüzemanyag-ciklus lezárásával, továbbá a nukleáris létesítmény leszerelésével összefüggő feladatok elvégzéséről a Kormány által kijelölt szerv gondoskodik.
+40. § (1) A Kormány által kijelölt szerv tesz javaslatot a radioaktív hulladék és a kiégett üzemanyag kezelésére vonatkozó nemzeti politikára és nemzeti programra, valamint azok felülvizsgálatára, továbbá gondoskodik a radioaktív hulladék végleges elhelyezésével, a kiégett üzemanyag átmeneti tárolásával, a nukleárisüzemanyag-ciklus lezárásával, és a nukleáris létesítmény leszerelésével összefüggő feladatok elvégzéséről.
 
 (2) A Kormány által az (1) bekezdés szerint kijelölt szerv felügyelőbizottsága – a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvény rendelkezésétől eltérően – öt természetes személy tagból áll.
 
