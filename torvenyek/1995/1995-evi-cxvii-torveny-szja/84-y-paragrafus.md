@@ -1,0 +1,1 @@
+84/Y. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 1. számú melléklet 4.13. pontjában foglaltakat a 2013. január 1-jétől megszerzett pénzbeli juttatások tekintetében kell alkalmazni.
