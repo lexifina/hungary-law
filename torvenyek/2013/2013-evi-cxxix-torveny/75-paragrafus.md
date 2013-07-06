@@ -18,9 +18,7 @@
 
 9. 103. § (7) bekezdésében a „kisebbség” szövegrész helyébe a „nemzetiség”,
 
-10. 63. alcím címében az „Az igazgatási, rendvédelmi” szövegrész helyébe az „A közigazgatási, rendészeti”,
-
-11. 104. § (1) bekezdésében az „az igazgatási, rendvédelmi” szövegrész helyébe az „a közigazgatási, rendészeti”,
+10–11.
 
 12. 110. § (1) bekezdés 1. pontjában „az alkalmazott kutatások főiskolája” szövegrész helyébe „az alkalmazott tudományok főiskolája”,
 
