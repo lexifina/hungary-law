@@ -26,14 +26,14 @@ b) amellyel egyenértékű eszköz sem részesült a kérelem benyújtását meg
 
 11. új indikáció: olyan betegségcsoport, amire technológia korábbi alkalmazási területe nem terjed ki;
 
-12.[^1] új orvosi eljárás: orvosi közreműködéssel vagy közvetlen orvosi irányítással végzett – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben, az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabályokban vagy a fogászati ellátás tevékenységi kódlistájának alkalmazásáról szóló miniszteri rendeleti szabályokban, valamint a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeleti szabályokban nem szereplő – egészségügyi tevékenység, amelyet diagnosztikus, terápiás, megelőző, rehabilitációs céllal végeznek új módszertan vagy technológia alkalmazásával, és amely a
+12.[^1] új orvosi eljárás: orvosi közreműködéssel vagy közvetlen orvosi irányítással végzett – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben, az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabályokban, az Egészségbiztosítási Alapból a 959A-L, valamint 9511-9515 homogén betegségcsoportok szerint finanszírozott daganatellenes terápiákról szóló miniszteri rendeleti szabályokban, a fogászati ellátás tevékenységi kódlistájának alkalmazásáról szóló miniszteri rendeleti szabályokban, továbbá a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeleti szabályokban nem szereplő – egészségügyi tevékenység, amelyet diagnosztikus, terápiás, megelőző, rehabilitációs céllal végeznek új módszertan vagy technológia alkalmazásával, és amely
 
-a) már korábban is alkalmazott, azonos ellátási célú orvosi eljárásokhoz képest
+a) a már korábban is alkalmazott, azonos ellátási célú orvosi eljárásokhoz képest
 
 aa) diagnosztika esetén a vizsgálati cél szempontjából releváns jellemző legalább egy paraméterrel eltérő értékét határozza meg, vagy a jellemző paraméter értékének mérési pontosságát, megbízhatóságát módosítja vagy
 
 ab) megelőzés, terápia, rehabilitáció esetén az alkalmazásával a beteg egészségi állapotának legalább egy, az eljárás célja szempontjából releváns értékét javítja vagy
 
-b) egészségi állapot korábban nem vizsgált jellemzőjének meghatározására, vagy az egészségi állapot, betegség korábban nem kezelt elváltozásának megszüntetésére, javítására, romlásának megakadályozására irányul.
+b) az egészségi állapot korábban nem vizsgált jellemzőjének meghatározására vagy az egészségi állapot, betegség korábban nem kezelt elváltozásának megszüntetésére, javítására, romlásának megakadályozására irányul.
 
-[^1]: A 2. § 12. pontja a 325/2011. (XII. 28.) Korm. rendelet 74. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § 12. pontja a 254/2013. (VII. 5.) Korm. rendelet 39. §-ával megállapított szöveg.

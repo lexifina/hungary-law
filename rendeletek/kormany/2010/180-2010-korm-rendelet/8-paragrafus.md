@@ -1,8 +1,8 @@
-## 7. §[^7] Az OEP az új gyógyszert igénylő technológiát a 4. § (2) bekezdése szerinti határozat meghozatalát követő harminc napon belül értékeli, és az R3.-ban meghatározott szakmai szempontrendszer alapján pontozza.
+## 7. §[^14]
 
-8. § (1)[^8] Az OEP a 6. § (5) bekezdése, valamint a 7. § szerinti értékelést és pontozást követő tizenöt napon belül dönt az előzetes befogadásról.
+8. § (1)[^15] Az OEP a 6. § (5) bekezdése szerinti értékelést és pontozást követő tizenöt napon belül dönt az előzetes befogadásról.
 
-(2) A finanszírozásba való befogadásra az a technológia alkalmas, amely az R3.-ban meghatározott szakmai szempontpontrendszer alapján adható maximális pontszám 60 százalékát és a szakmai szempontrendszer kategóriáin belül az egyes kategóriákként adható pontszám 40 százalékát elérte.
+(2)[^16] A finanszírozásba való befogadásra az a technológia alkalmas, amely az R2.-ben meghatározott szakmai szempontpontrendszer alapján adható maximális pontszám 60 százalékát és a szakmai szempontrendszer kategóriáin belül az egyes kategóriákként adható pontszám 40 százalékát elérte.
 
 (3) Az (1) bekezdés szerinti előzetes befogadásról szóló határozat tartalmazza
 
@@ -10,7 +10,7 @@ a) a döntést arról, hogy a technológia finanszírozásba történő befogad�
 
 b) a technológia nevét és
 
-c) a technológia tekintetében az R3. alapján megállapított pontszámot.
+c)[^17] a technológia tekintetében az R2. alapján megállapított pontszámot.
 
 (4) Ha az OEP úgy dönt, hogy a technológia a finanszírozásba történő befogadásra alkalmas, a határozat a (3) bekezdésben foglaltakon túl tartalmazza a technológia OENO kódját, valamint annak megjelölését, hogy a technológiát finanszírozás ellenében csak a miniszter által rendeletben meghatározott egészségügyi szolgáltató, vagy bármely, az adott ellátás tekintetében finanszírozási szerződéssel rendelkező egészségügyi szolgáltató alkalmazhatja.
 
@@ -22,5 +22,7 @@ b) a finanszírozás volumenére és
 
 c) az előzetesen befogadott technológia által kiváltott technológiák finanszírozásból való törlésére.
 
-[^7]: A 7. § a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^8]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^14]: A 7. §-t a 254/2013. (VII. 5.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.
+[^15]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
+[^16]: A 8. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
+[^17]: A 8. § (3) bekezdés c) pontja a 254/2013. (VII. 5.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
