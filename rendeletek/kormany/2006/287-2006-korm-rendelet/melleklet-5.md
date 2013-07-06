@@ -16,6 +16,6 @@
 
 ## Debreceni Egyetem Orvos- és Egészségtudományi Centrum, Idegsebészeti Klinika
 
-5. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^46]
+5. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^55]
 
-[^46]: Az 5. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 36. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^55]: Az 5. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 36. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 46. §-a szerint módosított szöveg.

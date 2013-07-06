@@ -1,16 +1,4 @@
-9. § (1) Az Országos Vese Transzplantációs Bizottság feladatát a 3. számú melléklet A) pontja szerinti Regionális Vese Transzplantációs Bizottságon, illetve a 3. számú melléklet B) pontja szerinti Regionális Vese- és Hasnyálmirigy Transzplantációs Bizottságon (a továbbikban együtt: regionális bizottságok) keresztül látja el.
-
-(2) Az Országos Vese Transzplantációs Bizottság tagjai:
-
-a) a Magyar Transzplantációs Társaság tagjai közül delegált egy személy,
-
-b) a Regionális Vese Transzplantációs Bizottságok vezetői,
-
-c) a Magyar Nefrológiai Társaság Transzplantációs Bizottságának vezetője,
-
-d) az adott szerv átültetéséhez kapcsolódó immungenetikai vizsgálatokat végző laboratórium vezetője.
-
-(3) Az Országos Vese Transzplantációs Bizottság a külön jogszabályban foglalt szakmai szabályok alapján biztosítja a régiók közötti egyenletes szervelosztást és szakmai szempontból felügyeli a regionális bizottságokat.
+9. § (1)–(3)[^19]
 
 (4) A Regionális Vese Transzplantációs Bizottság tagjai:
 
@@ -23,3 +11,5 @@ b) az adott ellátás nyújtására külön jogszabályban kijelölt egészség�
 a) az adott szerv transzplantációjában legalább ötéves gyakorlattal rendelkező sebész szakorvos,
 
 b) az adott ellátás nyújtására külön jogszabályban kijelölt egészségügyi szolgáltató egy belgyógyász-diabetológus és egy nefrológus szakorvosa.
+
+[^19]: A 9. § (1)–(3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 33. § c) pontja hatályon kívül helyezte.

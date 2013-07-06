@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-287-20-
 | 2012-07-01 | 2006-287-20-22.14 | 92/2012. (IV. 27.) Korm. rendelet |
 | 2012-07-02 | 2006-287-20-22.15 | 137/2012. (VI. 29.) Korm. rendelet |
 | 2013-01-01 | 2006-287-20-22.16 | 447/2012. (XII. 29.) Korm. rendelet |
+| 2013-07-06 | 2006-287-20-22.17 | 254/2013. (VII. 5.) Korm. rendelet |

@@ -1,4 +1,4 @@
-3. § (1) A központi várólistát az Országos Vérellátó Szolgálat Központja (a továbbiakban: OVSZK) működteti azzal, hogy a transzplantációs várólista működtetéséhez a (2) bekezdésben meghatározott egészségügyi ellátások szerinti Transzplantációs Bizottságok közreműködését veszi igénybe.
+3. § (1)[^12] A központi várólistát az Országos Vérellátó Szolgálat Központja (a továbbiakban: OVSZK) működteti azzal, hogy a transzplantációs várólista működtetéséhez a (2) bekezdésben meghatározott egészségügyi ellátások szerinti Transzplantációs Bizottságok közreműködését veszi igénybe. A transzplantációs várólista – a csontvelő transzplantációra vonatkozó lista kivételével – az állami vérellátó szolgálat által megkötött megállapodásban részes szervcsere szervezet (a továbbiakban: szervcsere szervezet) által vezetett nemzetközi várólista részét képezi.
 
 (2) A Transzplantációs Bizottságokat az alábbi egészségügyi ellátások szerint kell kialakítani:
 
@@ -8,12 +8,16 @@ b) máj transzplantáció: Máj Transzplantációs Bizottság,
 
 c) tüdő transzplantáció: Tüdő Transzplantációs Bizottság,
 
-d) vese transzplantáció; kombinált vese és hasnyálmirigy transzplantáció: Országos Vese Transzplantációs Bizottság, Regionális Vese Transzplantációs Bizottság, Regionális Vese-hasnyálmirigy Transzplantációs Bizottság,
+d)[^13] vese transzplantáció; kombinált vese és hasnyálmirigy transzplantáció: Regionális Vese Transzplantációs Bizottság, Regionális Vese-hasnyálmirigy Transzplantációs Bizottság,
 
 e) csontvelő transzplantáció: Gyermek Csontvelő Transzplantációs Bizottság; Felnőtt Csontvelő Transzplantációs Bizottság.
 
 (3) Az egészségügyi szolgáltató a (2) bekezdés szerinti egészségügyi ellátásokat kizárólag transzplantációs várólista alapján nyújthatja.
 
-(4) A transzplantációs várólistára történő felkerüléssel, az átmeneti alkalmatlansággal és a törléssel kapcsolatos döntést, a transzplantáció típusa szerint illetékes Transzplantációs Bizottság hozza meg a külön jogszabályban meghatározott szakmai szabályok szerint.
+(4)[^14] A transzplantációs várólistára történő felkerüléssel, az átmeneti alkalmatlansággal és a törléssel kapcsolatos döntést a transzplantáció típusa szerint illetékes Transzplantációs Bizottság hozza meg a várólista-sorrend kialakításának szakmai feltételeiről szóló jogszabályban, valamint szervátültetések esetében az (1) bekezdés szerinti, a szervcsere szervezettel kötött megállapodásban foglaltak szerint.
 
 (5) A Transzplantációs Bizottságok szakterületükön figyelemmel kísérik a szervriadók eredményességét, továbbá elemzik a transzplantációk országos helyzetét.
+
+[^12]: A 3. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (2) bekezdés d) pontja a 254/2013. (VII. 5.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^14]: A 3. § (4) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
