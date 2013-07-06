@@ -8,6 +8,6 @@ b) a közoktatási intézmény vezetőivel, gyermek- és ifjúságvédelmi felel
 
 c) a fővárosi és megyei kormányhivatal szociális és gyámhivatala gyermekjóléti alapellátási és gyermekvédelmi szakellátási referensével,
 
-d)[^3] a járási gyámhivatal vezetőjével, annak hiányában a gyámügyi ügyintézővel.
+d)[^4] a járási gyámhivatal vezetőjével, annak hiányában a gyámügyi ügyintézővel.
 
-[^3]: A 11. § d) pontja a 296/2012. (X. 17.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
+[^4]: A 11. § d) pontja a 296/2012. (X. 17.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
