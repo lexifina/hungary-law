@@ -1,3 +1,0 @@
-6. § A Dtv. 38. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A digitális átállásnak legkésőbb 2014. december 31-ig kell megvalósulnia az országos digitális audiovizuális médiaszolgáltatások elérhetősége tekintetében Magyarország teljes területén úgy, hogy országosan a lakosság legalább 94%-át elérje a digitális televízió műsorszórási szolgáltatáson keresztül a közszolgálati médiaszolgáltatás, és a lakosság számára a kiskereskedelmi forgalomban elérhetőek legyenek a vételi eszközök (a továbbiakban: digitális átállás). A helyi és körzeti vételkörzetű, műsorszórás útján terjesztett audiovizuális médiaszolgáltatások digitális műsorszórásra történő átállásának legkésőbb 2017. december 31-ig kell megvalósulnia.”

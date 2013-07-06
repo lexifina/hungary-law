@@ -1,1 +1,0 @@
-18. § Hatályát veszti a Dtv. 39. § (2) bekezdés a) pontja, 39. § (6) bekezdése, 39. § (8) bekezdése, 40. §-a, 41. § (9) bekezdése, 42. § (3)–(6) bekezdése, 43. § (1)–(2) bekezdése, 43/I. § (4)–(7) bekezdése és 43/J. § (4) bekezdése.
