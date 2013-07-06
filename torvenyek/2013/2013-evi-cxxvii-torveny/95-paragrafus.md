@@ -1,0 +1,3 @@
+95. § Az Eütev. 30. §-a helyébe a következő rendelkezés lép:
+
+„30. § Az egészségügyi szolgáltató a 11/A. § és a 29/B. § szerint meghatározott illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendeletben meghatározottak szerint, ott meghatározott összegű – működési célú, támogatásértékű bevételként – támogatásban részesül.”

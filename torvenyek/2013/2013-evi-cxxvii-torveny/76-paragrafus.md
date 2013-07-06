@@ -1,0 +1,3 @@
+76. § Az Eütv. a következő 244/F. §-sal egészül ki:
+
+„244/F. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel (a továbbiakban: Módtv3.) megállapított 113. § (4a) bekezdésében foglaltak a Módtv3. hatályba lépésekor érvényes működési nyilvántartással rendelkező egészségügyi dolgozók esetében is alkalmazandók.”

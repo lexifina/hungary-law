@@ -1,0 +1,1 @@
+7. § Az Ehi. 13/A. § (11) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi közlésre vonatkozó szabályait” szövegrész helyébe az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) hirdetményi közlésre vonatkozó szabályait” szöveg lép.

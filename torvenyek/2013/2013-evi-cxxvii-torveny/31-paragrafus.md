@@ -1,0 +1,3 @@
+31. § Az Ebtv. 36. §-a a következő (8a) bekezdéssel egészül ki:
+
+„(8a) Az egészségügyi szolgáltató az ellenőrzési eljárás során köteles együttműködni az egészségbiztosítóval. Ha az egészségügyi szolgáltató vagy annak közreműködője az egészségbiztosító ellenőrzése során együttműködési, illetve adatszolgáltatási kötelezettségének felhívás ellenére sem tesz eleget vagy az ellenőrzés lefolytatását akadályozza, akkor az egészségbiztosító jogosult a finanszírozási összeget vagy annak az ellenőrzés tárgyára elkülöníthető részét mindaddig visszatartani, ameddig az egészségügyi szolgáltató vagy annak közreműködője kötelezettségének eleget nem tesz.”

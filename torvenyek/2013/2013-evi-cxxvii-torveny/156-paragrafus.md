@@ -1,0 +1,3 @@
+156. § Az Szt. a következő 140/R. §-sal egészül ki:
+
+„140/R. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 115. § (1) bekezdése alapján a 88. § (1) bekezdés a) és b) pontja szerinti intézmények 2013. évi intézményi térítési díja megegyezik a 2012. évi intézményi térítési díjjal, a 88. § (1) bekezdés c) pontja szerinti intézmények 2013. évi intézményi térítési díja megegyezik a 2011. évi intézményi térítési díjjal. A fenntartó az intézményi térítési díjat a 2012. évi fogyasztói árnövekedésnek megfelelő mértékben korrigálhatja.”

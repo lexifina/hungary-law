@@ -1,0 +1,3 @@
+73. § Az Eütv. 234. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az egészségügyi államigazgatási szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy nevét, nyilvántartási számát, működésének szakterületét, valamint az érvényességi idejét. A nyilvántartás a szakértői tevékenység végzésére jogosult személy nevének kivételével közhiteles hatósági nyilvántartásnak minősül. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.”
