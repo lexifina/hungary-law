@@ -18,7 +18,7 @@
 
 ## 10. kardiológia
 
-## 11.[^228]
+## 11.[^230]
 
 ## 12. klinikai toxikológia
 
@@ -52,9 +52,9 @@
 
 ## 27. csecsemő- és gyermekgyógyászat
 
-## 28.[^229] neonatológia
+## 28.[^231] neonatológia
 
-## 28/a.[^230] PIC
+## 28/a.[^232] PIC
 
 ## 29. csecsemő- és gyermekgyógyászati intenzív terápia
 
@@ -70,13 +70,13 @@
 
 ## 35. gyermekszemészet
 
-## 35/a.[^231] gyermek idegsebészet
+## 35/a.[^233] gyermek idegsebészet
 
 ## 36. csecsemő és gyermek fül-, orr-, gégegyógyászat
 
-## 37.[^232] gyermekneurológia
+## 37.[^234] gyermekneurológia
 
-## 37/a.[^233] fejlődésneurológia
+## 37/a.[^235] fejlődésneurológia
 
 ## 38. gyermek- és ifjúságpszichiátria
 
@@ -86,11 +86,11 @@
 
 ## 41. szemészet
 
-## 42.[^234] bőr- és nemibeteg ellátás
+## 42.[^236] bőr- és nemibeteg ellátás
 
-## 43.[^235] neurológia
+## 43.[^237] neurológia
 
-## 43/a.[^236] stroke ellátás
+## 43/a.[^238] stroke ellátás
 
 ## 44. ortopédia
 
@@ -150,7 +150,7 @@
 
 ## 10. súlyos agysérültek rehabilitációja
 
-## 11.[^237] gerincvelősérültek rehabilitációja
+## 11.[^239] gerincvelősérültek rehabilitációja
 
 ## 12. politraumatizáltak, égésbetegek és szeptikus sebészeti betegek rehabilitációja
 
@@ -164,25 +164,25 @@
 
 ## 17. tüdőgyógyászati és légzésrehabilitáció
 
-## 18.[^238] szakápolás
+## 18.[^240] szakápolás
 
-## 19.[^239] felnőtt hospice ellátás
+## 19.[^241] felnőtt hospice ellátás
 
-## 20.[^240] gyermek palliatív ellátás
+## 20.[^242] gyermek palliatív ellátás
 
-3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^241]
+3. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^243]
 
-[^228]: A 2. számú melléklet A) Aktív fekvőbeteg szakellátás rész 11. pontját a 94/2013. (III. 29.) Korm. rendelet 4. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^229]: A 2. melléklet A) rész 28. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^230]: A 2. melléklet A) rész 28/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^231]: A 2. számú melléklet A rész 35/a. pontját a 447/2012. (XII. 29.) Korm. rendelet 55. § (1) bekezdése iktatta be.
-[^232]: A 2. melléklet A) rész 37. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^233]: A 2. melléklet A) rész 37/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^234]: A 2. számú melléklet A) rész 42. sora a 107/2012. (VI. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^235]: A 2. melléklet A) rész 43. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
-[^236]: A 2. melléklet A) rész 43/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
-[^237]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 11. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés a) pontjával megállapított szöveg.
-[^238]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 18. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés b) pontjával megállapított szöveg.
-[^239]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 19. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés c) pontjával megállapított szöveg.
-[^240]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 20. pontját a 94/2013. (III. 29.) Korm. rendelet 3. §-a iktatta be.
-[^241]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 44. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 55. § (2) bekezdése, a 94/2013. (III. 29.) Korm. rendelet 4. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^230]: A 2. számú melléklet A) Aktív fekvőbeteg szakellátás rész 11. pontját a 94/2013. (III. 29.) Korm. rendelet 4. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^231]: A 2. melléklet A) rész 28. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^232]: A 2. melléklet A) rész 28/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^233]: A 2. számú melléklet A rész 35/a. pontját a 447/2012. (XII. 29.) Korm. rendelet 55. § (1) bekezdése iktatta be.
+[^234]: A 2. melléklet A) rész 37. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^235]: A 2. melléklet A) rész 37/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^236]: A 2. számú melléklet A) rész 42. sora a 107/2012. (VI. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^237]: A 2. melléklet A) rész 43. sora a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^238]: A 2. melléklet A) rész 43/a. sorát a 92/2012. (IV. 27.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^239]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 11. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés a) pontjával megállapított szöveg.
+[^240]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 18. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés b) pontjával megállapított szöveg.
+[^241]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 19. pontja a 94/2013. (III. 29.) Korm. rendelet 4. § (1) bekezdés c) pontjával megállapított szöveg.
+[^242]: A 2. számú melléklet B) Krónikus fekvőbeteg-szakellátás rész 20. pontját a 94/2013. (III. 29.) Korm. rendelet 3. §-a iktatta be.
+[^243]: A 3. számú mellékletet a 360/2009. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 44. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 55. § (2) bekezdése, a 94/2013. (III. 29.) Korm. rendelet 4. § (2) bekezdés b)–c) pontja szerint módosított szöveg.

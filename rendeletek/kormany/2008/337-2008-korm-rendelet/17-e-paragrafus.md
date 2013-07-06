@@ -1,10 +1,10 @@
-## 17/D. §[^219] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 447/2012. (XII. 29.) Korm. rendelettel megállapított 8. § (16) bekezdését és 11/C. §-t a folyamatban lévő ügyekben is alkalmazni kell, azzal, hogy amennyiben a 8. § (16) bekezdése és a 11/C. § hatálybalépésekor[^220] a kapacitás átcsoportosításra irányuló eljárás mellett az érintett kapacitás többletkapacitásként történő befogadására irányuló eljárás is folyamatban van, az utóbbi eljárást meg kell szüntetni és az eljárás során született TBB javaslatot a TBB támogató nyilatkozataként, valamint az egészségügyért felelős miniszter, illetve az államháztartásért felelős miniszter jóváhagyását a kapacitásátcsoportosításra irányuló eljárás során lehetőség szerint figyelembe kell venni.
+## 17/D. §[^221] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 447/2012. (XII. 29.) Korm. rendelettel megállapított 8. § (16) bekezdését és 11/C. §-t a folyamatban lévő ügyekben is alkalmazni kell, azzal, hogy amennyiben a 8. § (16) bekezdése és a 11/C. § hatálybalépésekor[^222] a kapacitás átcsoportosításra irányuló eljárás mellett az érintett kapacitás többletkapacitásként történő befogadására irányuló eljárás is folyamatban van, az utóbbi eljárást meg kell szüntetni és az eljárás során született TBB javaslatot a TBB támogató nyilatkozataként, valamint az egészségügyért felelős miniszter, illetve az államháztartásért felelős miniszter jóváhagyását a kapacitásátcsoportosításra irányuló eljárás során lehetőség szerint figyelembe kell venni.
 
-17/E. §[^221] (1) Az egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 94/2013. (III. 29.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 6. § (4) bekezdését a Módr8. hatálybalépésekor[^222] folyamatban lévő ügyekben is alkalmazni kell.
+17/E. §[^223] (1) Az egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 94/2013. (III. 29.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 6. § (4) bekezdését a Módr8. hatálybalépésekor[^224] folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) A Módr8. által módosított 2. és 3. számú mellékletben foglaltaknak, valamint az ahhoz kapcsolódó szakmakódoknak a Módr8. hatálybalépésekor érvényes finanszírozási szerződéseknek 2013. július 1-jétől kell megfelelniük.
 
-[^219]: A 17/D. §-t a 447/2012. (XII. 29.) Korm. rendelet 54. §-a iktatta be.
-[^220]: A hatálybalépés időpontja 2012. december 30.
-[^221]: A 17/E. §-t a 94/2013. (III. 29.) Korm. rendelet 2. §-a iktatta be.
-[^222]: A hatálybalépés napja: 2013. március 30.
+[^221]: A 17/D. §-t a 447/2012. (XII. 29.) Korm. rendelet 54. §-a iktatta be.
+[^222]: A hatálybalépés időpontja 2012. december 30.
+[^223]: A 17/E. §-t a 94/2013. (III. 29.) Korm. rendelet 2. §-a iktatta be.
+[^224]: A hatálybalépés napja: 2013. március 30.

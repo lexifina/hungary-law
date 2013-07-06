@@ -38,7 +38,9 @@ j) a finanszírozási szerződés szerinti sürgősségi ellátási formához k�
 
 (4)[^16] Az adott egészségügyi szolgáltatónál már befogadott, külön jogszabály szerint finanszírozható CT, MRI berendezés cseréje nem minősül többletkapacitásnak.
 
-(5)[^17] Járóbeteg-szakellátásban a heti rendelési óraszám kapacitáson belül a szakorvos által végzett egészségügyi szakellátási tevékenység időtartamát szakorvosi óraként, a nem szakorvosi végzettséggel rendelkező egészségügyi dolgozók által – a szakmai minimumfeltételekben foglaltak szerint – önállóan végzett egészségügyi szakellátási tevékenység időtartamát nem szakorvosi óraként szükséges nevesíteni az alábbi szakterületek tekintetében:
+(4a)[^17] Ha az 1. számú melléklet szerinti eszköz befogadása, illetve cseréje az (1) bekezdés a) pontja szerinti többletkapacitás iránti igénnyel is jár, az eszköz befogadásáról, illetve cseréjéről az (1) bekezdés a) pontja szerinti többletkapacitás befogadására irányuló eljárásban kell dönteni és az (1) bekezdés f) pontja szerinti eljárást nem kell lefolytatni.
+
+(5)[^18] Járóbeteg-szakellátásban a heti rendelési óraszám kapacitáson belül a szakorvos által végzett egészségügyi szakellátási tevékenység időtartamát szakorvosi óraként, a nem szakorvosi végzettséggel rendelkező egészségügyi dolgozók által – a szakmai minimumfeltételekben foglaltak szerint – önállóan végzett egészségügyi szakellátási tevékenység időtartamát nem szakorvosi óraként szükséges nevesíteni az alábbi szakterületek tekintetében:
 
 a) laboratóriumi, nukleáris, képalkotó és patológiai diagnosztika,
 
@@ -46,9 +48,9 @@ b) rehabilitációs medicina és szakmaspecifikus rehabilitáció,
 
 c) fizioterápia, dietetika, pszichológia, pedagógiai végzettséggel ellátható egészségügyi szakmák.
 
-(6)[^18] Uniós támogatási forrásból megvalósuló pályázatok esetében diagnosztikai vizsgálat nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítása, illetve a diagnózis felállítása szakorvos által telemedicina (távdiagnosztika) keretében valósul meg.
+(6)[^19] Uniós támogatási forrásból megvalósuló pályázatok esetében diagnosztikai vizsgálat nem szakorvosi óraszám kapacitáson is nyújtható, azzal, hogy a szakmai tevékenység irányítása, illetve a diagnózis felállítása szakorvos által telemedicina (távdiagnosztika) keretében valósul meg.
 
-(7)[^19] A Tv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térségek alatt a 4. számú melléklet szerinti térségeket kell érteni.
+(7)[^20] A Tv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térségek alatt a 4. számú melléklet szerinti térségeket kell érteni.
 
 [^1]: Az 1. §-t megelőző alcímet a 125/2013. (IV. 26.) Korm. rendelet 8. §-a iktatta be.
 [^2]: Az 1. § (1) bekezdés a) pontja a 447/2012. (XII. 29.) Korm. rendelet 48. §-ával megállapított, a 125/2013. (IV. 26.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
@@ -66,6 +68,7 @@ c) fizioterápia, dietetika, pszichológia, pedagógiai végzettséggel ellátha
 [^14]: Az 1. § (3a) bekezdését a 227/2011. (X. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^15]: Az 1. § (3b) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 22. §-a iktatta be.
 [^16]: Az 1. § új (4) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva, szövege a 363/2010. (XII. 30.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
-[^17]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése, szövege a 13/2012. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^18]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^19]: Az 1. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+[^17]: Az 1. § (4a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 34. §-a iktatta be.
+[^18]: Az 1. § (4) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 3. §-a iktatta be, számozását (5) bekezdésre változtatta a 360/2009. (XII. 30.) Korm. rendelet 1. § (2) bekezdése, szövege a 13/2012. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: Az 1. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 58. § (2) bekezdése iktatta be.
