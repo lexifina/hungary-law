@@ -1,8 +1,8 @@
-56. § (1) A biztosított baleseti táppénzre abban a jogviszonyában jogosult, amelyben az üzemi baleset éri.
+56. § (1)
 
 (2) Pénzbeli egészségbiztosítási járulék fizetésére nem kötelezett biztosított, illetőleg baleseti ellátásra jogosult baleseti táppénze az öregségi nyugdíj mindenkori legkisebb összege százötven százalékának naptári napi összegével azonos, úti üzemi baleset esetén annak kilencven százalékával egyezik meg.
 
-(3) A saját jogú nyugdíj mellett munkát végző biztosított baleseti táppénzének alapjaként csak a nyugdíjasként elért és a (2) bekezdésben említett jövedelmet lehet figyelembe venni.
+(3)
 
 (4) A baleseti táppénzre – ha eltérő rendelkezés nincs – a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 

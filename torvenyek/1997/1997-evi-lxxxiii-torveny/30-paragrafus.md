@@ -18,7 +18,7 @@ c) nem rendelkezik olyan köztartozással, amely esedékességének időpontja 6
 
 (3a) Az egészségbiztosító a (2) bekezdésben meghatározottakon túl szerződést köthet gyógyászati segédeszköz társadalombiztosítási támogatással történő javítására egészségügyi szolgáltatónak nem minősülő gyártóval és gyógyászati segédeszköz javítását végző szervezettel, amennyiben az megfelel a (2) bekezdés b) és c) pontjában meghatározott feltételeknek.
 
-(4) Az (1) bekezdés szerinti szerződés megkötésének, az egészségügyi szolgáltató által kezdeményezett módosításának, illetve az egészségügyi szolgáltató általi felmondásának – a 31. § (1) bekezdés b)–f) pontjaiban meghatározott esetek kivételével – érvényességi feltétele az egészségügyi szakellátások esetében az egészségügyi szolgáltató fenntartója általi jóváhagyás.
+(4) Az egészségügyi szakellátást nyújtó egészségügyi szolgáltató köteles a finanszírozási szerződés megkötéséről, módosításáról, megszűnéséről a fenntartóját tájékoztatni.
 
 (5) Az (1) bekezdés szerinti finanszírozási szerződés olyan egészségügyi szolgáltatóval köthető, amely a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősül.
 

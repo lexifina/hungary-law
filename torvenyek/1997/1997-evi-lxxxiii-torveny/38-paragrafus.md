@@ -1,4 +1,4 @@
-38. § (1) Gyógyszer támogatással történő kiszolgáltatásának, illetve gyógyászati segédeszköz támogatással történő forgalmazásának ellenőrzése során az egészségbiztosító vizsgálja
+38. § (1) Gyógyszer támogatással történő kiszolgáltatásának, illetve gyógyászati segédeszköz támogatással történő forgalmazásának, javításának, illetve gyártásának ellenőrzése során az egészségbiztosító vizsgálja
 
 a) az egyéves leltáridőszakon belüli beszerzésre, készletváltozásra és értékesítésre vonatkozó okmányokat, valamint a támogatott termékekre vonatkozó leltár termékenkénti adatait,
 
@@ -28,7 +28,7 @@ a támogatással történő kiszolgáltatásra, forgalmazásra, illetve ellátá
 
 (5) Amennyiben az egészségbiztosító végzett ellenőrzés során az egyedi méretvétel alapján rendelésre készített gyógyászati segédeszköz vonatkozásában olyan hibás teljesítést állapít meg, amely szavatossági igény érvényesítésével nem szüntethető meg, és a gyógyászati segédeszköz készítéséért elszámolt támogatás összege meghaladja a külön jogszabályban meghatározott mértéket, akkor a társadalombiztosítási támogatás elszámolására vonatkozó szerződést azonnali hatállyal fel kell mondani.
 
-(6) A közgyógyellátás jogcímén történő gyógyszer-kiszolgáltatás, gyógyászati segédeszköz-forgalmazás, illetőleg egyéb közgyógyellátás keretében nyújtott ellátás esetében az egészségbiztosító az (1) bekezdés szerinti ellenőrző tevékenysége során – az ott megjelölteken túl – vizsgálja
+(6) A közgyógyellátás jogcímén történő gyógyszer-kiszolgáltatás, gyógyászati segédeszköz-forgalmazás, -javítás, illetve -gyártás, illetőleg egyéb közgyógyellátás keretében nyújtott ellátás esetében az egészségbiztosító az (1) bekezdés szerinti ellenőrző tevékenysége során – az ott megjelölteken túl – vizsgálja
 
 a) a kiszolgáltatás, forgalmazás, ellátásnyújtás jogcímét,
 
@@ -39,3 +39,5 @@ c) a közgyógyellátás keretében elszámolt térítési díj kiszámításán
 (7) Ha megállapításra kerül, hogy a kiszolgáltató, forgalmazó, ellátást nyújtó a közgyógyellátásra vonatkozó szabályokat megszegte, az elszámolt támogatásnak a (3) bekezdés szerinti összegén túlmenően a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összegnek a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét is visszatéríti.
 
 (8) Amennyiben a gyógyszerek és gyógyászati segédeszközök forgalmazására jogosult személy a külön törvényben és annak felhatalmazása alapján kiadott rendeletben foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő forgalmazást legfeljebb egy év időtartamra fel kell függeszteni.
+
+(9) Az (1)–(3), a (4), a (7) és a (8) bekezdést a 30. § (3), illetve (3a) bekezdése szerinti szervezetre, illetve gyártóra is alkalmazni kell.

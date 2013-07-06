@@ -28,7 +28,7 @@ igazolja.
 
 (7) A 22. § szerinti utazási költséghez nyújtott támogatás iránti, valamint a 27. § (1) és (2) bekezdéseiben említett ellátások költségeinek megtérítése iránti kérelem elbírálására a 61. § rendelkezéseit megfelelően alkalmazni kell. A 27. § (3) bekezdésben említett ellátások költségeinek utólagos megtérítésére vonatkozó igény az ellátás igénybevételétől számított hat hónapon belül érvényesíthető. A 27. § (6) bekezdésében említett ellátások költségeinek megtérítése iránti igény a külföldi gyógykezelés befejezésétől számított harminc napon túl nem érvényesíthető.
 
-(8) A nemzetközi egyezmény vagy a Közösségi rendelet hatálya alá tartozó külföldi az egyezményben vagy a Közösségi rendeletben meghatározott egészségügyi szolgáltatásra vonatkozó jogosultságát az egyezményben vagy a Közösségi rendeletben meghatározott módon igazolja.
+(8) A nemzetközi egyezmény vagy az uniós rendeletek hatálya alá tartozó személy az egyezményben vagy az uniós rendeletekben meghatározott egészségügyi szolgáltatásra vonatkozó jogosultságát az egyezményben vagy az uniós rendeletekben meghatározott módon igazolja.
 
 (9) Az egészségügyi szolgáltatás igénybevételére való jogosultság a biztosítási jogviszonynak, illetve a Tbj. 16. § (1) bekezdés a)–o) és s) pontjában meghatározott jogosultsági feltételnek a megszűnését követően
 

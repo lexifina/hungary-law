@@ -48,4 +48,6 @@ pb) az a személy, aki a saját háztartásában élő gyermeket örökbe kívá
 
 pc) a gyám,
 
-pd) a nevelőszülő és a helyettes szülő.
+pd) a nevelőszülő és a helyettes szülő,
+
+t) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakban a biztosított által elért, a Tbj. 19. § (3) bekezdése szerint fizetendő pénzbeli egészségbiztosítási járulék alapját képező jövedelem.

@@ -4,4 +4,4 @@ a) a táppénzfolyósítás időtartamának megállapításánál biztosítási 
 
 b) a táppénz összegének megállapításánál a biztosítási jogviszonynak az a) pontban meghatározott időtartam alatt elért, biztosítási jogviszonyból származó pénzbeli egészségbiztosítási járulék alapját képező jövedelmet kell figyelembe venni a 48. §-ban foglaltak szerint.
 
-(2) Az (1) bekezdésben foglaltakat kell alkalmazni arra a saját jogú nyugdíjas foglalkoztatottra, aki pénzbeli egészségbiztosítási járulék fizetésére kötelezett.
+(2)

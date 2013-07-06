@@ -4,7 +4,7 @@ a) a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem f
 
 b)
 
-c) a társadalombiztosítási támogatásba még be nem fogadott, támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához támogatást nyújthat,
+c) támogatást nyújthat a társadalombiztosítási támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához,
 
 d) támogatást nyújthat méltányosságból már támogatott gyógyászati segédeszköz javítási díjához,
 
@@ -38,7 +38,7 @@ bb) egy beteg tekintetében elérte az engedély időtartamára vonatkozóan a 8
 
 kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van,
 
-c) az 1000 forint havi terápiás költséget el nem érő készítményekre.
+c) a 3000 forint havi terápiás költséget el nem érő készítményekre.
 
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 

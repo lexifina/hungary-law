@@ -1,0 +1,1 @@
+82/D. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 35. § (8) bekezdésében és 36. § (8a) bekezdésében foglaltakat a folyamatban lévő ügyekben, illetve eljárásokban is alkalmazni kell.

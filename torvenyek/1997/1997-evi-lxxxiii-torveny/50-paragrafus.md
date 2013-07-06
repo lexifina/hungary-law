@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben foglaltakon túl az egészségbiztosító méltányosságból a 46. § (1) bekezdés c)–e) pontjaiban meghatározott időtartamot meghaladóan is állapíthat meg gyermekápolási táppénzt a 44. § e) pontja szerinti keresőképtelen biztosítottak részére.
 
-(3)
+(3) A gyermek betegségére tekintettel az (1)–(2) bekezdésben foglaltakon túl, a 44. § h) pontja szerinti keresőképtelen biztosított részére az egészségbiztosítási szerv méltányosságból megállapíthat gyermekápolási táppénzt.
 
 (4) A méltányosságból megállapítható pénzbeli ellátások folyósításának idejét és összegét az egészségbiztosítási szerv a méltányossági kérelem elbírálása során az V. fejezetben foglaltaktól eltérőn határozhatja meg, azzal, hogy az összege nem haladhatja meg
 

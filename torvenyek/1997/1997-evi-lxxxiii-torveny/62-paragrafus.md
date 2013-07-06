@@ -10,12 +10,12 @@ b)
 
 c) egyéb esetben az egészségbiztosító
 
-bírálja el és folyósítja.
+bírálja el és utólag folyósítja.
 
 (3)
 
-(4) A kérelemben foglaltak teljesítése esetén nem kell határozatot hozni.
+(4) A táppénz, baleseti táppénz és utazási költségtérítés iránti kérelemben foglaltak teljesítése esetén, továbbá a terhességi-gyermekágyi segély és gyermekgondozási díj folyósításának szüneteltetéséről nem kell határozatot hozni.
 
-(5) A táppénzt utólag kell folyósítani, a (2) bekezdés a) pontjában említett esetben a bérfizetési napon.
+(5)
 
-(6) A terhességi-gyermekágyi segélyt, a gyermekgondozási díjat havonta utólag kell folyósítani, a (2) bekezdés a) pontjában említett esetekben a bérfizetési napon, egyéb esetekben a tárgyhónapot követő hónap 10. napjáig.
+(6) A terhességi-gyermekágyi segélyt, a gyermekgondozási díjat havonta egyszer utólag a tárgyhónapot követő hónap 10. napjáig, de legkésőbb a bérfizetési napon kell folyósítani.

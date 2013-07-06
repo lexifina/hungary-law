@@ -10,7 +10,7 @@
 
 (3) Az igénybejelentés napja a kérelem benyújtásának – vagy ha a kérelmet posta útján terjesztették elő a kérelem postára adásának – igazolt napja.
 
-(4) Az egészségbiztosítási pénzbeli ellátás tárgyában benyújtott kérelem érdemi elbírálása tárgyában kizárólag az e törvényben meghatározott esetekben nem kell határozatot hozni, ha a hatóság a kérelemnek teljes mértékben helyt ad.
+(4)
 
 (5) A kifizetőhellyel nem rendelkező munkáltató a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az OEP honlapján közzétett számítógépes program segítségével töltheti ki és állíthatja elő.
 
@@ -22,6 +22,6 @@
 
 (8) Az esedékessé vált és fel nem vett ellátást az esedékességtől számított egy éven belül lehet felvenni.
 
-(9)
+(9) A biztosított írásbeli kérelmére a terhességi-gyermekágyi segély, illetve a gyermekgondozási díj folyósítását szüneteltetni kell.
 
 (10) A jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőre emelkedése napjától számított egy éven belül.

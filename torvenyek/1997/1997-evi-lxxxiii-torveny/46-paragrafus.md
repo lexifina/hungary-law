@@ -2,17 +2,17 @@
 
 a) a biztosítási jogviszony fennállásának időtartama alatt egy éven át;
 
-b) egyévesnél fiatalabb gyermek szoptatása, illetőleg ápolása címén a gyermek egyéves koráig;
+b) egyévesnél fiatalabb gyermek szoptatása, illetőleg otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén a gyermek egyéves koráig;
 
-c) egyévesnél idősebb, de háromévesnél fiatalabb gyermek ápolása címén évenként és gyermekenként nyolcvannégy naptári napon át;
+c) egyévesnél idősebb, de háromévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként nyolcvannégy naptári napon át;
 
-d) háromévesnél idősebb, de hatévesnél fiatalabb gyermek ápolása címén évenként és gyermekenként negyvenkettő, egyedülállónak nyolcvannégy naptári napon át;
+d) háromévesnél idősebb, de hatévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként negyvenkettő, egyedülállónak nyolcvannégy naptári napon át;
 
-e) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek ápolása címén évenként és gyermekenként tizennégy, egyedülállónak huszonnyolc naptári napon át.
+e) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként tizennégy, egyedülállónak huszonnyolc naptári napon át.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a biztosított, ha részére külön törvény rendelkezése szerint betegszabadság jár, a 44. § a) és f) pontjában említett keresőképtelenség esetében táppénzre legkorábban a betegszabadságra való jogosultság lejártát követő naptól jogosult.
 
-(3) Az, aki keresőképtelenségét közvetlenül megelőző egy évnél rövidebb ideig volt folyamatosan biztosított, táppénzt csak a folyamatos biztosításának megfelelő időn át kaphat.
+(3) Az, aki a keresőképtelensége első napját közvetlenül megelőző egy évnél rövidebb ideig volt folyamatosan biztosított, táppénzt csak a folyamatos biztosításának megfelelő ideig kaphat.
 
 (4) Biztosításának a tartamára tekintet nélkül jár a táppénz annak, aki
 
@@ -32,4 +32,4 @@ c) közegészségügyi okból foglalkozástól eltiltás, hatósági elkülöní
 
 miatt részesült táppénzben.
 
-(7) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély folyósításának az ideje.
+(7)

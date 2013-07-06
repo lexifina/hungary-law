@@ -10,7 +10,7 @@
 
 (5) A baleseti táppénzre való jogosultság megállapításánál a betegszabadságra vonatkozó rendelkezéseket nem kell alkalmazni.
 
-(6) A baleseti táppénz összegét annál a munkáltatónál elért jövedelem alapján kell megállapítani, ahol az üzemi baleset bekövetkezett, illetőleg ahol az üzemi balesetet szenvedett személy biztosítási jogviszonya fennáll.
+(6)
 
 (7) A baleseti táppénz összege azonos a baleseti táppénzre való jogosultság kezdő napját közvetlenül megelőző naptári hónapban végzett munkáért, tevékenységért kifizetett (elszámolt), a biztosított pénzbeli egészségbiztosítási járulékalapját képező jövedelme naptári napi összegével, úti baleset esetén annak kilencven százalékával. Ha a biztosított a baleseti táppénzre való jogosultságot megelőző hónapban nem volt pénzbeli egészségbiztosítási járulékfizetésre kötelezett, a baleseti táppénz összege a balesetet megelőzően elért tényleges, annak hiányában a szerződés szerinti jövedelméből számított naptári napi átlagjövedelem, úti baleset esetén annak kilencven százaléka.
 

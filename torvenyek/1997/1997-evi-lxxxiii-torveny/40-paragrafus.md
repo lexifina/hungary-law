@@ -1,6 +1,6 @@
 ## Terhességi-gyermekágyi segély
 
-40. § (1) Terhességi-gyermekágyi segély annak jár, aki a szülést megelőzően két éven belül 365 napon át biztosított volt, és
+40. § (1) Terhességi-gyermekágyi segélyre jogosult, aki a szülést megelőzően két éven belül 365 napon át biztosított volt, és
 
 a) a biztosítás tartama alatt vagy a biztosítás megszűnését követő negyvenkét napon belül szül, vagy
 

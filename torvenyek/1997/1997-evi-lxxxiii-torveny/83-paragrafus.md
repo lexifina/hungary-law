@@ -170,7 +170,9 @@ g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati s
 
 h) a társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét,
 
-i) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat.
+i) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat,
+
+j) a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembeveendő rezsi óradíj összegét.
 
 (7)
 
