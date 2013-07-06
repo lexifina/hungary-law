@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-25-00-00
 | 2012-01-01 | 2011. évi CLXXVI. törvény | 2000-25-00-00.21 |
 | 2012-09-01 | 2012. évi LXXXVIII. törvény | 2000-25-00-00.22 |
 | 2013-01-01 | 2012. évi CCXII. törvény | 2000-25-00-00.23 |
+| 2013-07-06 | 2013. évi CXXVII. törvény | 2000-25-00-00.24 |

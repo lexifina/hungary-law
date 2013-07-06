@@ -12,6 +12,6 @@
 
 (4) Az egészségügyi államigazgatási szerv az (1) bekezdésben meghatározott adatokon kívül megkeresésre felvilágosítást ad az ELINCS és az EINECS, valamint az Európai Közösség (EU) e törvény alkalmazásával összefüggő irányelveinek tartalmáról.
 
-(5)
+(5) Az egészségügyi államigazgatási szerv ellátja a CLP 45. cikke szerinti feladatokat.
 
 (6) A Magyarország területén előforduló bármilyen eredetű, vegyi anyag okozta emberi mérgezési esetet az egészségügyért felelős miniszter által meghatározott módon az egészségügyi államigazgatási szervhez be kell jelenteni.

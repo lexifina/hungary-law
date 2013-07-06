@@ -14,7 +14,7 @@ d) a mosó- és tisztítószerekről szóló 648/2004/EK európai parlamenti és
 
 e) a veszélyes anyagok és a veszélyes keverékek környezetkárosító és -szennyező hatásai megelőzésének,
 
-f) a biocid anyagok és termékek – ideértve az irtószereket is – előállításának, forgalomba hozatalának és felhasználásának,
+f) a biocid anyagok és termékek – ideértve az irtószereket is – előállításának, forgalomba hozatalának és felhasználásának, valamint az ezzel összefüggő hatósági eljárásoknak
 
 g) a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendelet
 
@@ -76,7 +76,7 @@ f) az egészségügyért felelős miniszter, hogy a környezetvédelemért felel
 
 g)
 
-h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid termékekben felhasználható hatóanyagok jegyzékét, a kis kockázattal járó biocid termékek hatóanyagainak jegyzékét, a hatóanyagokra vonatkozó általános adatok körét, a biocid termékekre vonatkozó közös alapadatokat, a hatóanyagokra és a biocid termékekre vonatkozó kiegészítő adatokat, valamint az aktív hatóanyagok és a biocid termékek adatait,
+h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid termékekben felhasználható hatóanyagok jegyzékét, a kis kockázattal járó biocid termékek hatóanyagainak jegyzékét, a hatóanyagokra vonatkozó általános adatok körét, a biocid termékekre vonatkozó közös alapadatokat, a hatóanyagokra és a biocid termékekre vonatkozó kiegészítő adatokat, valamint az aktív hatóanyagok és a biocid termékek adatait, továbbá a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendelet 89. cikke szerinti átmeneti intézkedések körében a biocid anyagok – ideértve a faanyag-védőszereket, az irtószereket, valamint a fertőtlenítő szereket – előállításának, gyártásának, forgalomba hozatalának, felhasználásának részletes szabályait,
 
 i) az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 31/A. § szerinti, kémiai biztonsági és biocid termékekkel és hatóanyagokkal kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket,
 
