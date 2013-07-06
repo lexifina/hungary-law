@@ -14,4 +14,4 @@
 
 (5) Az e §-ban meghatározottak alapján folytatott külföldi tanulmányokban résztvevők jogosultak a diákigazolványra.
 
-(6) A (2)–(3) bekezdés szerinti pályázatok kiírásának és elbírálásának rendjét, a hallgatói hitel igénylését, folyósítását és elszámolását, a diákigazolvány igénylését és kiadását a Kormány határozza meg, azzal a megkötéssel, hogy a (3) bekezdésben meghatározott pályázatokat az országos kisebbségi önkormányzat egyetértésével kell kiírni és elbírálni.
+(6) A (2)–(3) bekezdés szerinti pályázatok kiírásának és elbírálásának rendjét, a hallgatói hitel igénylését, folyósítását és elszámolását, a diákigazolvány igénylését és kiadását a Kormány határozza meg, azzal a megkötéssel, hogy a (3) bekezdésben meghatározott pályázatokat az országos nemzetiségi önkormányzat egyetértésével kell kiírni és elbírálni.

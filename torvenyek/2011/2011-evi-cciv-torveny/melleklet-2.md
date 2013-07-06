@@ -62,13 +62,23 @@ c) milyen képzésekre kapott indítási engedélyt,
 
 d) mely tudományterületen, tudományágban folytathat doktori képzést,
 
-e) által fenntartott köznevelési intézmény gyakorlóintézményi besorolását.
+e) által fenntartott köznevelési intézmény gyakorlóintézményi besorolását,
+
+f) ESG-nek való megfeleléséről hozott szakértői megállapítást.
+
+3. A külföldi felsőoktatási intézmény működési engedélye tartalmazza a külföldi felsőoktatási intézmény
+
+a) származási országa szerinti államilag elismert felsőoktatási intézményként történő működését engedélyező külföldi döntés megnevezését, számát,
+
+b) működési engedélyében szereplő képzések megnevezését,
+
+c) intézményi minőségbiztosítási rendszerének a rá irányadó külföldi előírások szerinti megfelelését, valamint annak határidejét, amennyiben rendelkezik ilyen rendszerrel.
 
 II. A szervezeti és működési szabályzat
 
 1. Szervezeti és működési rend
 
-A szervezeti és működési rend keretében kell meghatározni különösen: a felsőoktatási intézmény szervezeti felépítését, tagolását, vezetési szerkezetét, az egyes szervezeti egységek feladatait, működését, az intézményen belüli kapcsolattartás rendjét.
+A szervezeti és működési rend keretében kell meghatározni különösen: a felsőoktatási intézmény szervezeti felépítését, tagolását, vezetési szerkezetét, a vezetői és magasabb vezetői választások eljárási rendjét, valamint az egyes szervezeti egységek feladatait, működését, az intézményen belüli kapcsolattartás rendjét.
 
 2. A foglalkoztatási követelményrendszer
 

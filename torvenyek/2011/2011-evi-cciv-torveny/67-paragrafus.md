@@ -22,11 +22,15 @@ d) a felvehető maximális hallgatói létszám megállapításával és módos�
 
 e) a doktori iskola létesítésével, megszűnésével,
 
-f) egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok nyilvántartásba vételével
+f) egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok nyilvántartásba vételével,
+
+g) felsőoktatási szakkollégiumok nyilvántartásba vételével
 
 kapcsolatos ügyekben.
 
-(4) A (3) bekezdés a) és e) pontjaiban meghatározott eljárásokban, valamint az alap- és mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban, továbbá – a tudományos és ehhez kapcsolódó oktatási, kutatási kérdések tekintetében – a (3) bekezdés b) pontjában meghatározott eljárásban az oktatási hivatal köteles beszerezni a MAB szakvéleményét. Az oktatási hivatal a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményhez kötve van. Az oktatási hivatal döntésével szemben előterjesztett fellebbezést a miniszter bírálja el. E bekezdésben foglaltakat kell alkalmazni akkor is, ha a magyar felsőoktatási intézmény Magyarország területén kívül kíván székhelyen kívüli képzést folytatni.
+(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban az oktatási hivatal köteles beszerezni a MAB szakvéleményét. Az oktatási hivatal a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményhez kötve van. Az oktatási hivatal döntésével szemben előterjesztett fellebbezést a miniszter bírálja el.
+
+(4a) A MAB a szakértői véleményét a (3) bekezdés a) pontjában és a 8. § (2) bekezdésében szabályozott eljárásokban a felsőoktatási minőségbiztosítás európai sztenderdjeinek (Standards and Guidelines in the European Higher Education Area, a továbbiakban: ESG) figyelembe vételével hozza meg. Az oktatási hivatal határozatában ismertetni kell a MAB ESG-nek való megfelelésről hozott szakértői megállapítását.
 
 (5) Az (3) bekezdés c) pontjában meghatározott eljárásban – Magyarországon folytatott alap- vagy mesterképzésként – csak a felsőoktatási intézmény székhelyén vagy telephelyén folytatott képzés indítása engedélyezhető.
 

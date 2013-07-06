@@ -28,11 +28,9 @@ ba) oktatói azonosítót,
 
 bb) kérelemre oktatói, kutatói, alkalmazotti igazolványt;
 
-c) a hallgatóknak
+c) a felsőoktatási felvételi eljárásra jelentkezőknek, a hallgatóknak hallgatói azonosítót,
 
-ca) hallgatói azonosítót,
-
-cb) kérelemre diákigazolványt
+d) a hallgatóknak kérelemre diákigazolványt
 
 ad ki.
 

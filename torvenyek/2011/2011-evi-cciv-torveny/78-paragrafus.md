@@ -1,6 +1,6 @@
 ## 46. Magyar felsőoktatási intézmények Magyarország területén kívül folytatott képzési tevékenysége, valamint a közös képzés szabályai
 
-78. § (1) Magyar felsőoktatási intézmény – ha az adott ország jogrendje lehetővé teszi – Magyarország területén kívül – kormányrendeletben meghatározottak szerint – székhelyen kívüli képzést szervezhet.
+78. § (1) Magyar felsőoktatási intézmény Magyarország területén kívül – ha az adott ország jogrendje lehetővé teszi – kormányrendeletben meghatározottak szerint székhelyen kívüli képzést szervezhet. A képzés nyilvántartásba vételére a 67. § (4) bekezdésében foglaltakat kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti felsőoktatási intézmény működéséhez a magyar állam – jogszabályban meghatározott normatív támogatással, nemzetközi szerződés, munkaterv szerint, illetve pályázati úton vagy megállapodás alapján – hozzájárulhat. A pályázatot a miniszter írhatja ki, megállapodást a miniszter köthet.
 

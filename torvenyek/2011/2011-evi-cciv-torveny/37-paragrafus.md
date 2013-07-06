@@ -24,7 +24,7 @@ a) az (1) bekezdésben felsoroltak – az a) és b) pont kivételével – helye
 
 b) szervezeti egység vezetői és vezetőhelyettesei.
 
-(3) Az (1)–(2) bekezdésben meghatározott vezetői megbízások határozott időre – három-öt évre – adhatók, és az (1) bekezdés a)–d) pontjában felsorolt megbízások egy, az (1) bekezdés e)–f) pontjában, továbbá a (2) bekezdésben felsorolt megbízások több alkalommal meghosszabbíthatók. Az (1)–(2) bekezdésben meghatározott vezetői megbízásokra nyilvános pályázatot kell kiírni.
+(3) Az (1)–(2) bekezdésben meghatározott vezetői megbízások határozott időre – három-öt évre – adhatók és az (1) bekezdés a) és c)–d) pontjában felsorolt megbízások egy, az (1) bekezdés b) pontjában felsorolt megbízás kettő, az (1) bekezdés e)–f) pontjában, továbbá a (2) bekezdésben felsorolt megbízások több alkalommal meghosszabbíthatók. Az (1)–(2) bekezdésben meghatározott vezetői megbízásokra nyilvános pályázatot kell kiírni.
 
 (4) A rektori megbízásra benyújtott valamennyi pályázatot a szenátus véleményezi. A fenntartó dönt a rektorjelölt személyéről.
 
@@ -35,3 +35,5 @@ b) szervezeti egység vezetői és vezetőhelyettesei.
 (7) Az (1)–(6) bekezdésben foglaltakat a munka törvénykönyve hatálya alá tartozó munkáltatónál azzal az eltéréssel kell alkalmazni, hogy a vezetői megbízás alatt vezető állású munkavállalót kell érteni.
 
 (8) A főiskolai rektor és az egyetemi rektor megbízásával és felmentésével kapcsolatos eljárásra a 29. § (3) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a főiskolai rektor megbízására, felmentésére a miniszterelnök jogosult.
+
+(9) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott károkért teljes mértékben felel. A magasabb vezető a vezetői tevékenység keretében szándékosan okozott kárért, illetve a nem vezetői tevékenysége keretében okozott kárért az általános felelősségi szabályok szerint felel azzal az eltéréssel, hogy a nem vezetői tevékenység során okozott gondatlan károkozás esetén a felelősség mértéke a vezető tizenkét havi átlagkeresetéig terjedhet.

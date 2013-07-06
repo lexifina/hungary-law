@@ -18,6 +18,6 @@ b) a hallgatói önkormányzati választásokon a felsőoktatási intézmény te
 
 (5) A hallgatói önkormányzat az e törvényben meghatározott jogainak megsértése esetén – beleértve azt is, ha az alapszabályának jóváhagyását megtagadják – a közléstől számított harminc napon belül jogszabálysértésre vagy intézményi szabályzatban foglaltakba ütközésre hivatkozással bírósághoz fordulhat.
 
-(6) A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a döntést megváltoztathatja. Az eljárásra a Fővárosi Törvényszék az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
+(6) A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a döntést megváltoztathatja. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
 
 (7) A hallgatói önkormányzat dönt működéséről, a működéséhez biztosított anyagi eszközök, állami támogatás és saját bevételek felhasználásáról, hatáskörei gyakorlásáról, az intézményi tájékoztatási rendszer létrehozásáról és működtetéséről. A hallgatói önkormányzat részére érdekképviseleti tevékenysége körében utasítás nem adható.

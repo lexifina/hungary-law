@@ -1,10 +1,10 @@
 4. § (1) Felsőoktatási intézményt önállóan vagy más jogosulttal együttesen
 
-a) a magyar állam, országos kisebbségi önkormányzat,
+a) a magyar állam, országos nemzetiségi önkormányzat,
 
 b) a Magyarországon nyilvántartásba vett egyházi jogi személy, beleértve a jogi személyiséggel rendelkező szervezeti egységét is (a továbbiakban: egyházi jogi személy),
 
-c) a Magyarország területén székhellyel rendelkező gazdálkodó szervezet [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § c) pont],
+c) a Magyarország területén székhellyel rendelkező gazdasági társaság,
 
 d) a Magyarországon nyilvántartásba vett alapítvány vagy közalapítvány
 

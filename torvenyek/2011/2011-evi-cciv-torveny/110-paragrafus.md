@@ -2,11 +2,11 @@
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott kutatások főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
+1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott tudományok főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
 
 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
 
-3. a felsőoktatási intézmény, valamint az egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét és díját, a gyakorló közoktatási intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
+3. a felsőoktatási intézmény, valamint az egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét és díját, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
 
 4. a képesítési keretet, a doktori képzés szabályait,
 

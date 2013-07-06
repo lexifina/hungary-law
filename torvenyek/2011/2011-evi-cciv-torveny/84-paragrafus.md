@@ -20,7 +20,9 @@ e) a hallgatói sport,
 
 f) egyes speciális felsőoktatási feladatok ellátásának,
 
-g) a 10. § szerint minősített intézmények támogatásának
+g) a 10. § szerint minősített intézmények támogatásának,
+
+h) kulturális és fejlesztési támogatások
 
 biztosítása.
 

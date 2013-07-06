@@ -16,9 +16,9 @@
 
 a) a megbízási jogviszony létrejötte előtt a megbízási jogviszonyt megbízottként létesíteni kívánó személy a rektor részére,
 
-b) a megbízási jogviszony fennállása alatt a megbízott a rektornak – a mulasztás jogkövetkezményeit tartalmazó – írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a megbízott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul
+b) a megbízási jogviszony fennállása alatt a megbízott a rektornak – a mulasztás jogkövetkezményeit tartalmazó – írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a megbízott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően
 
-hatósági bizonyítvánnyal igazolja.
+haladéktalanul igazolja.
 
 (6) Ha a megbízott igazolja, hogy vele szemben nem áll fenn a (4) bekezdésben meghatározott kizáró ok, a felsőoktatási intézmény az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a megbízott részére megtéríti.
 

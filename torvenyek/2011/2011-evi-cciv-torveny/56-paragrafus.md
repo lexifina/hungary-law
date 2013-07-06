@@ -1,4 +1,4 @@
-56. § (1) Ha a hallgató a tanulmányi kötelezettségeinek teljesítésével összefüggésben a felsőoktatási intézménynek, illetve a gyakorlati képzés szervezőjének jogellenesen kárt okoz – az e törvényben meghatározott eltéréssel – a Ptk. szabályai szerint kell helytállnia.
+56. § (1) Ha a hallgató a tanulmányi kötelezettségeinek teljesítésével összefüggésben a felsőoktatási intézménynek, illetve a gyakorlati képzés szervezőjének jogellenesen kárt okoz – az e törvényben meghatározott eltéréssel – a Polgári Törvénykönyv (a továbbiakban: Ptk.) szabályai szerint kell helytállnia.
 
 (2) Az (1) bekezdésben meghatározott esetben, gondatlan károkozás esetén, a kártérítés mértéke nem haladhatja meg a károkozás napján érvényes legkisebb kötelező munkabér (minimálbér) egyhavi összegének ötven százalékát. Szándékos károkozás esetén az okozott teljes kárt meg kell téríteni.
 

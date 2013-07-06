@@ -20,7 +20,7 @@ d) a felsőoktatási szakképzésben a gyakorlati képzéshez biztosított munka
 
 e) a hallgatói tanácsadás,
 
-f) a képzéssel, illetve doktori fokozatszerzéssel kapcsolatos valamennyi okirat első alkalommal történő kiadása.
+f) a képzéssel, illetve doktori fokozatszerzéssel kapcsolatos valamennyi okirat első alkalommal történő kiadása, amennyiben kormányrendelet a hallgatóra kedvezőbb feltételt nem állapít meg.
 
 (2) A magyar állami (rész)ösztöndíjjal támogatott képzés keretében – jogszabály eltérő rendelkezésének hiányában – a felsőoktatási intézmény nem kérhet igazgatási szolgáltatási díjat (pl. beiratkozási díj).
 

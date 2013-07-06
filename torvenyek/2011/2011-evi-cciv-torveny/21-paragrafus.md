@@ -6,4 +6,4 @@
 
 (4) Az (1)–(3) bekezdésben szabályozott átalakulást követően az új intézmény létesítésére vonatkozó eljárást le kell folytatni, azzal, hogy amennyiben az alaptevékenység keretében ellátott feladatok köre, továbbá az intézményi működés feltétele nem változik, a működés engedélyezésére szakértői vélemény bekérése nélkül kerül sor.
 
-(5) Költségvetési szervként működő felsőoktatási intézmény költségvetési szervvel egyesülhet, ilyenhez csatlakozhat, és költségvetési szervvel olvadhat össze. A költségvetési szervként működő felsőoktatási intézmény a Kormány engedélyével a Kormány által külön jogszabályban meghatározott eljárásban nem költségvetési szerv formájában működő felsőoktatási intézménnyel egyesülhet, ilyen felsőoktatási intézménybe olvadhat be.
+(5) Költségvetési szervként működő felsőoktatási intézmény költségvetési szervvel egyesülhet, ilyenhez csatlakozhat, és költségvetési szervvel olvadhat össze. A költségvetési szervként működő felsőoktatási intézmény a Kormány engedélyével nem költségvetési szerv formájában működő felsőoktatási intézménnyel egyesülhet, ilyen felsőoktatási intézménybe olvadhat be.

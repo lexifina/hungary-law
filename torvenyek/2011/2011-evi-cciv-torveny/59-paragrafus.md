@@ -33,3 +33,5 @@ c) a hallgatói jogviszony szünetelését követően nem kezdi meg tanulmányai
 feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötelezettségének a megadott határidőig tegyen eleget és tájékoztatták a mulasztás jogkövetkezményeiről.
 
 (4) A felsőoktatási intézmény egyoldalú nyilatkozattal megszünteti annak a hallgatónak a hallgatói jogviszonyát, akinek az azonos tanegységből tett sikertelen javító, és ismétlő javító vizsgáinak összesített száma eléri az ötöt.
+
+(5) Amennyiben a hallgatói jogviszony keretében a hallgató ugyanazon intézményben több szakon folytat tanulmányokat, e §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy a hallgatói jogviszony megszűnése helyett az adott szakon való tanulmányok nem folytathatók.

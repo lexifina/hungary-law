@@ -8,8 +8,10 @@
 
 (5) Ha a felsőoktatási intézményben – alapító okirata szerint – nemzetiségi pedagógusképzés folyhat, a felvételi követelményeknek megfelelő jelentkező esetén a képzést meg kell szervezni.
 
-(6) A kisebbséghez tartozást a kisebbségi nyelvből tett érettségi vizsga igazolja.
+(6) A nemzetiséghez tartozást a nemzetiségi nyelvből tett érettségi vizsga igazolja.
 
-(7) A nemzetiségi pedagógusképzésben a kisebbség nyelvét a képzés teljes időtartama alatt oktatni kell.
+(7) A nemzetiségi pedagógusképzésben a nemzetiség nyelvét a képzés teljes időtartama alatt oktatni kell.
 
 (8) A nemzetiségi pedagógusképzés a finanszírozás szempontjából kis létszámú szaknak minősül.
+
+(9) A felsőoktatási intézmények megállapodása alapján közös képzésben is indítható tanárképzés. Az így szervezett képzésben a szak meghirdetője és az oklevél kiadója a szakindítási engedéllyel rendelkező intézmény. A közös képzésben közös oklevelet kell kiadni. Az egyházi felsőoktatási intézmény által indított közös képzésben – feltéve, hogy az hitéleti tanári képzésre is irányul – a hallgatói jogviszony az egyházi felsőoktatási intézménnyel jön létre.

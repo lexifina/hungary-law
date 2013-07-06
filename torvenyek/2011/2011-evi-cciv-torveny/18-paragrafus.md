@@ -16,7 +16,9 @@ d) a munkáltatói jogok gyakorlásához, illetve az oktatók, kutatók, dolgoz�
 
 e) a jogszabályokban meghatározott nyilvántartások vezetéséhez,
 
-f) a jogszabályokban és a felsőoktatási intézmény szervezeti és működési szabályzatában biztosított kedvezményekre való jogosultság megállapításához, elbírálásához és igazolásához
+f) a jogszabályokban és a felsőoktatási intézmény szervezeti és működési szabályzatában biztosított kedvezményekre való jogosultság megállapításához, elbírálásához és igazolásához,
+
+g) a 15. és 16. § szerint végzettek pályakövetése céljából
 
 nélkülözhetetlenül szükséges személyes és különleges adatokat tartja nyilván.
 
