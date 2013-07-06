@@ -4,15 +4,15 @@
 
 ## Becsült kábítószer felhasználás (1)
 
-| Kábítószer megnevezése | 1 | 2 | 3 |
+| Kábítószer megnevezése | 1 | 2 | 3 | 4 | 5 | 6 |
 
-| Gyógyászati és tudományos felhaszná- lásra szánt mennyiség | Gyártáshoz felhasználni kívánt mennyiség | .... XII. 31-i tervezett készlet |
+| Import | Export | Nagykeres- kedelmi értékesítés | Kiskereskedelmi értékesítés és tudományos felhasználás | Gyártáshoz felhasználni kívánt mennyiség | .... XII. 31-i tervezett készlet |
 
-| Más kábítószer előállítására | K3 jegyzék szerinti készítmény- hez | Nem ellenőrzött készítmény- hez |
+| Más kábítószer előállítására | K3 jegyzék szerinti készítményhez | Nem ellenőrzött készítményhez |
 
 | függetlenül attól, hogy a gyártás célja hazai felhasználás vagy export |
 
-| kg | g | kg | g | kg | g | kg | g | kg | g |
+| kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g |
 
 ## Becsült CPS felhasználás (2)
 

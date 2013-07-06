@@ -1,6 +1,6 @@
 ## 2. A rendelet hatálya
 
-## 2. § E rendelet hatálya kiterjed
+2. §[^3] (1) E rendelet hatálya kiterjed
 
 a) kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végezhető, a 3. § (1) bekezdésében meghatározott tevékenységekre,
 
@@ -13,3 +13,7 @@ d) kábítószernek és pszichotróp anyagnak az egészségügyi szolgáltató, 
 e) az engedélyesnél, a nyilvántartásba vett bejelentőnél, továbbá az egészségügyi szolgáltatónál végzett rendészeti ellenőrzésre, valamint
 
 f) kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végzett klinikai vizsgálatok és orvostudományi, valamint tudományos célú kutatások engedélyezésére.
+
+(2) E rendelet hatálya az (1) bekezdés d)–f) pontjában meghatározott eljárásokon túl az egészségügyi szolgáltatókra akkor terjed ki, ha e rendelet kifejezetten így rendelkezik.
+
+[^3]: A 2. § a 254/2013. (VII. 5.) Korm. rendelet 47. §-ával megállapított szöveg.

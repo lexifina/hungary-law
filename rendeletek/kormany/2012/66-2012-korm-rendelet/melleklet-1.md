@@ -1,5 +1,6 @@
-## 35. § A rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
+## 36. §[^36] Ez a rendelet a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^23]
+1. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^37]
 
-[^23]: Az 1. melléklet a 308/2012. (XI. 6.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^36]: A 36. §-t a 254/2013. (VII. 5.) Korm. rendelet 52. §-a iktatta be.
+[^37]: Az 1. melléklet a 308/2012. (XI. 6.) Korm. rendelet 17. §-a, a 254/2013. (VII. 5.) Korm. rendelet 53. § (1) bekezdése szerint módosított szöveg.

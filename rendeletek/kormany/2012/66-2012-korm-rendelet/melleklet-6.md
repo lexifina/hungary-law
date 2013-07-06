@@ -10,6 +10,6 @@
 
 | Készítmény (doboz, db) | Hatóanyag (gramm vízmentes bázis) |
 
-6. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^25]
+6. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^39]
 
-[^25]: A 6. melléklet a 137/2012. (VI. 29.) Korm. rendelet 90. §-a szerint módosított szöveg.
+[^39]: A 6. melléklet a 137/2012. (VI. 29.) Korm. rendelet 90. §-a szerint módosított szöveg.

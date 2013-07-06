@@ -440,6 +440,8 @@
 
 | 54 | TMA-2 EU2(2,4,5- trimetoxiamfetamin) | 2,4,5-trimethoxyamphetamine EU21-(2,4,5-Trimethoxyphenyl)propan-2-ylazan°° |
 
+| 55 | 4- MA, 4- methylamphetamine (4-metilamfetamin) | 1-(4-methylphenyl)propan-2-amine |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
 ## – és az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.
@@ -696,27 +698,69 @@
 
 ## 1.3. a benzil-indolil-keton (2-fenil-1-(1H-indol-3-il)etanon) vagy
 
-## 1.4. az adamantil-indolil-keton (indolil(triciklo[3.3.1.13,7]dekán-1-il)metanon, indolil(triciklo[3.3.1.13,7]dekán-2-il)metanon)
+## 1.4. az indazolil-naftil-keton (1H-indazol-3-il(naftalin-1-il)metanon, 1H-indazol-3-il(naftalin-2-il)metanon) vagy
+
+## 1.5. a fenil-indazolil-keton (fenil(1H-indazol-3-il)metanon) vagy
+
+## 1.6. a benzil-indazolil-keton (2-fenil-1-(1H-indazol-3-il)etanon) vagy
+
+## 1.7. a naftil-pirrolil-keton (naftalin-1-il(1H-pirrol-3-il)metanon, naftalin-2-il(1H-pirrol-3-il)metanon) vagy
+
+## 1.8. a (ciklusos alkil)-indolil-keton (mono- vagy policikloalkil(1H-indol-3-il)metanon) vagy
+
+## 1.9. a (ciklusos alkil)-indazolil-keton (mono- vagy policikloalkil(1H-indazol-3-il)metanon) vagy
+
+## 1.10. a (ciklusos alkil)-pirrolil-keton (mono- vagy policikloalkil(1H-pirrol-3-il)metanon) vagy
+
+## 1.11. az indol-3-karboxilát (1H-indol-3-karbonsav észterszármazék) vagy
+
+## 1.12. az indol-3-karboxamid (1H-indol-3-karboxamid) vagy
+
+## 1.13. az indazol-3-karboxilát(1H-indazol-3-karbonsav észterszármazék) vagy
+
+## 1.14. az indazol-3-karboxamid (1H-indazol-3-karboxamid)
 
 ## szerkezeti részt tartalmazó vegyületek, amelyekben
 
-## 1.1.1. az indolváz nitrogénatomjához
+## 1.15. az indol-, indazol-, illetve pirrolváz 1-es helyzetű nitrogénatomjához
 
-## 1.1.1.1. legfeljebb 7 szénatomos alkil-, alkenil- vagy alkinilcsoport vagy
+## 1.15.1. legfeljebb 7 szénatomos alkil-, alkenil- vagy alkinilcsoport, illetve
 
-## 1.1.1.2. az 1.1.1.1 szerinti csoport hidroxi-, ciano-, cikloalkil-, cikloalkenil-, tetrahidropiranil-, morfolinil-, N-metilpirrolidinil- vagy N-metilpiperidinilcsoportot, vagy egy, illetve több halogénatomot tartalmazó származéka kapcsolódik
+## 1.15.2. az 1.15.1 szerinti csoport ciano-, hidroxi-, alkoxi-, alkilszulfanil-, cikloalkil-, halogénezett cikloalkil-, cikloalkenil-, fenil-, (halogénfenil)-, tetrahidrofuranil-, tetrahidropiranil-, morfolinil-, N-metilpirrolidinil- vagy N-metilpiperidinilcsoportot, vagy egy, illetve több halogénatomot tartalmazó származéka kapcsolódik.
 
-## 1.1.2. az indolváz 2-es helyzetben lévő szénatomján
+## 1.16. az indolváz
 
-## 1.1.2.1. metilcsoportot vagy etilcsoportot tartalmazhat
+## 1.16.1. 2-es helyzetben lévő szénatomja metil- vagy etilcsoportot tartalmazhat, illetve
 
-## 1.1.3. a naftil-, illetve fenilcsoport
+## 1.16.2. 4-es, 5-ös, 6-os, illetve 7-es helyzetben lévő szénatomjai – tetszőleges kombinációban – halogénatomot, metil-, metoxi- vagy nitrocsoportot tartalmazhatnak.
 
-## 1.1.3.1. 1-4 szénatomos alkilcsoportot vagy
+## 1.17. a pirrolváz a 2-es, 4-es, illetve 5-ös helyzetű szénatomjához kapcsolódóan, tetszőleges kombinációban egy vagy több
 
-## 1.1.3.2. metoxi- vagy etoxicsoportot vagy
+## 1.17.1. halogénatomot vagy
 
-## 1.1.3.3. halogénatomot, azido-, dimetilamino-, hidroxi-, hidroximetil-, nitro- vagy cianocsoportot tartalmazhat.
+## 1.17.2. fenil-, (halogénfenil)-, naftil- vagy 1-2 szénatomos alkilcsoportot tartalmazhat.
+
+## 1.18. az 1.11. és az 1.13. szerinti karboxilátok oxigénatomjához, illetve az 1.12. és az 1.14. szerinti karboxamidok nitrogénatomjához
+
+## 1.18.1. (ciklusos alkil)-, fenil-, benzil-, naftil- vagy kinolincsoport kapcsolódik.
+
+## 1.19. az 1.1–1.7. szerinti fenil- és naftilcsoport, illetve az 1.18.1. szerinti fenil-, benzil-, naftil- és kinolincsoport
+
+## 1.19.1. 1-4 szénatomos alkilcsoportot vagy
+
+## 1.19.2. metoxi- vagy etoxicsoportot vagy
+
+## 1.19.3. azido-, dimetilamino-, fenil-, hidroxi-, hidroximetil-, nitro- vagy cianocsoportot, vagy egy, illetve több halogénatomot
+
+## tartalmazhat.
+
+## 1.20. az 1.12. és 1.14. szerinti karboxamidok nitrogénatomja tagja lehet
+
+## 1.20.1. egy olyan piperazingyűrűnek, amely egy vagy több metil-, illetve etilcsoportot tartalmaz, vagy
+
+## 1.20.2. egy olyan részlegesen vagy teljesen telített biciklusos gyűrűrendszernek, amely 7-10 szénatomból és egy vagy két nitrogénatomból áll.
+
+## 1.21. az 1.8., 1.9., 1.10. és 1.18.1. szerinti (ciklusos alkil)-csoport egy vagy több 3-10 szénatomos gyűrűből áll és egy vagy több 1-3 szénatomos alkilcsoportot vagy halogénatomot tartalmazhat.
 
 ## 2. Azok a katinon (2-amino-1-fenilpropán-1-on) szerkezeti részt tartalmazó vegyületek, a bupropion kivételével, amelyekben
 
@@ -746,25 +790,29 @@
 
 ## 3.2.1. hidroxi-, metoxi- vagy acetoxicsoportot tartalmazhat.
 
-## 4. Azok a fenetilamin (2-feniletánamin) szerkezeti részt tartalmazó vegyületek, amelyekben
+## 4. Azok a fenetilamin (2-feniletánamin) szerkezeti részt tartalmazó vegyületek – ideértve a 2-feniletánamint is –, amelyekben
 
 ## 4.1. az aminocsoport egy vagy – tetszőleges kombinációban – több
 
-## 4.1.1. legfeljebb 4 szénatomos alkil-, alkenil-, cikloalkil-, halogénalkil-, hidroxialkil-, cianoalkil vagy metoxialkilcsoportot
+## 4.1.1. legfeljebb 4 szénatomos alkil-, alkenil-, cikloalkil-, halogénalkil-, hidroxialkil-, cianoalkil- vagy metoxialkil-csoportot,
 
-## 4.1.2. acetil-, hidroxi-, metoxi-, ciklopropilmetil-, benzil-, metoxibenzil- vagy furilmetil-csoportot tartalmazhat.
+## 4.1.2. acetil-, hidroxi-, metoxi-, ciklopropilmetil-, benzil-, metoxibenzil- vagy furilmetil-csoportot
 
-## 4.2. az aminocsoport azetidin, pirrolidin vagy piperidin gyűrű tagja lehet
+## tartalmazhat.
+
+## 4.2. az aminocsoport azetidin, pirrolidin vagy piperidin gyűrű tagja lehet.
 
 ## 4.3. az etánamin szerkezeti rész 1-es helyzetű szénatomja
 
-## 4.3.1. legfeljebb 4 szénatomos alkilcsoportot tartalmazhat
+## 4.3.1. legfeljebb 4 szénatomos alkilcsoportot tartalmazhat.
 
 ## 4.4. a fenilcsoport egy vagy – tetszőleges kombinációban – több
 
 ## 4.4.1. legfeljebb 5 szénatomos alkil-, (cikloalkil)alkil-, alkoxi-, (cikloalkil)alkoxi-, (alkoxi)alkil-, alkilszulfanil-, alkilamino-, halogénalkil-csoportot, illetve
 
-## 4.4.2. halogénatomot, benzil-, benziloxi-, amino-, ciano-, trimetilén-, metiléndioxi-, etiléndioxi-, etilénoxi-, etendiiloxi-, etilénimino-, etendiilimino-csoportot tartalmazhat.
+## 4.4.2. halogénatomot, benzil-, benziloxi-, amino-, ciano-, nitro-, trimetilén-, metiléndioxi-, etiléndioxi-, etilénoxi-, etendiiloxi-, etilénimino-, etendiilimino-csoportot
+
+## tartalmazhat.
 
 ## 5. Továbbá az alábbi vegyületek:
 
@@ -814,7 +862,7 @@
 
 | 22 | Ibogain | (6R,6aS,7S,9R)-7-ethyl-2-methoxy-6,6a,7,8,9,10,12,13-octahydro-5H-6,9-methanopyrido[10,20:1,2]azepino[4,5-b]indole |
 
-| 23 | JWH-307 | [5-(2-fluorophenyl)-1-pentylpyrrol-3-yl]-naphthalen-1-ylmethanone |
+| 23 |  |  |
 
 | 24 | MBZP | 1-benzyl-4-methylpiperazine |
 
@@ -858,13 +906,19 @@
 
 | 44 | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
 
-| 45. | UR-144 | (1-pentyl-1H-indol-3-yl)-(2,2,3,3- tetramethyl-cyclopropyl)methanone |
+| 45. |  |  |
 
-| 46. | 5FUR-144 (XLRI1) | [1-(5 -fluoropentyl)- 1H-indol-3-y1](2,2,3,3- tetramethyl-cyclopropyl)methanone |
+| 46. |  |  |
 
-| 47. | STS-135 | 1-(5-fluoropentyl)-N-(tricyclo[3.3.1.13,7]dec-1-yl)-1H-indole-3-carboxamide, N-(1-adamantyl)-1-(5-fluoropentyl)-1H-indo1e-3-carboxamide |
+| 47. |  |  |
 
-| 48. | AKB 48 | 1-pentyl-N-(tricyclo[3.3.1.13,7]dec-1-yl)-1H-indazole-3-carboxamide, N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide |
+| 48. |  |  |
+
+| 49 | 3-MeO-PCP | 1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine |
+
+| 50 | Homoamphetamine | 3-amino-1-phenyl-butane |
+
+| 51 | URB-754 | 6-methyl-2-[(4-methylphenyl)amino]-1-benzoxazin-4-one |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
 
