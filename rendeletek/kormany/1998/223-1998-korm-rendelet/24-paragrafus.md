@@ -4,7 +4,7 @@
 
 (2)[^124] A kérelemhez csatolni kell
 
-a)[^125] a Cst. 29. § (1) bekezdésének a) pontjában megjelölt esetben a terhesgondozást végző orvos igazolásának másolatát arról, hogy a szülő nő – a terhesgondozási könyvben rögzítettek tanúsága szerint – a szükséges alkalommal részt vett a terhesgondozáson;
+a)[^125] a Cst. 29. § (1) bekezdés a) pontjában megjelölt esetben a várandósgondozást végző védőnő igazolásának másolatát arról, hogy a szülő nő – a várandósgondozási könyvben rögzítettek tanúsága szerint – a szükséges alkalommal részt vett a várandósgondozáson;
 
 b)[^126] a Cst. 29. § (1) bekezdésének b) pontjában megjelölt esetben a gyermek örökbefogadását engedélyező jogerős határozat másolatát;
 
@@ -28,7 +28,7 @@ d)[^131] a Cst. 33. §-a (2) bekezdésének b) pontja szerinti esetben a család
 
 [^123]: A 24. § (1) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^124]: A 24. § (2) bekezdésének bevezető szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének l) pontja szerint módosított szöveg.
-[^125]: A 24. § (2) bekezdésének a) pontja a 176/2009. (VIII. 29.) Korm. rendelet 19. § (5) bekezdésének m) pontja, a 359/2010. (XII. 30.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^125]: A 24. § (2) bekezdés a) pontja a 254/2013. (VII. 5.) Korm. rendelet 57. §-ával megállapított szöveg.
 [^126]: A 24. § (2) bekezdés b) pontja a 359/2010. (XII. 30.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
 [^127]: A 24. § (2) bekezdés c) pontja a 359/2010. (XII. 30.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
 [^128]: A 24. § (2a) bekezdését a 359/2010. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 332/2011. (XII. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
