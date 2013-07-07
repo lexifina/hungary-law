@@ -1,3 +1,0 @@
-118. § A Gyftv. 30. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 29. § (3) bekezdés a)–f) és i) pontja szerint benyújtott kérelmek alapján készítmény társadalombiztosítási támogatásban csak akkor részesülhet, ha a kérelemben a gyógyszer forgalombahozatali engedélyének jogosultja által megjelölt termelői ára nem magasabb a külön jogszabályban megjelölt, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban ténylegesen forgalomban lévő legalacsonyabb termelői árú ugyanazon vagy azonos hatóanyagú gyógyszer áránál, és az adott készítmény a kérelmezett indikációban ezen államok közül legalább háromban támogatott.”

@@ -1,7 +1,3 @@
-52. § (1) Az Ebtv. „Átmeneti rendelkezések” alcíme a következő 82/D–E. §-sal egészül ki:
-
-„82/D. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 35. § (8) bekezdésében és 36. § (8a) bekezdésében foglaltakat a folyamatban lévő ügyekben, illetve eljárásokban is alkalmazni kell.
-
-82/E. § Amennyiben 2010. április 30-a után született gyermek vonatkozásában gyermekgondozási díjat igényelnek, és a jogosultság megszerzésekor vagy az azt megelőző két éven belül a jogosult e törvény 2010. április 30-áig hatályos szabályai szerint jogosult volt gyermekgondozási díjra, akkor a gyermekgondozási díj folyósításának időtartama a korábbi gyermekgondozási díjra való jogosultság megszerzését megelőző két évben, valamint a korábbi gyermekgondozási díj lejártát követően az e törvény 42/A. § (4) bekezdése szerint számított, biztosításban töltött napok számával egyezik meg, de nem lehet rövidebb 365 napnál, és legfeljebb a gyermek 2. életévének betöltéséig jár. A korábbi gyermekgondozási díj lejártát követően biztosításban töltött időbe az új gyermekgondozási díj időtartamának kiszámítása vonatkozásában nem számít bele a gyermekgondozási segély, valamint a terhességi gyermekágyi segély folyósításának időtartama.”
+52. § (1)
 
 (2)
