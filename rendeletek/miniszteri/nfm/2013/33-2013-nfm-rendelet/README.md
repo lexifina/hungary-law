@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-33-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-07-06 | 2013-33-20-2W.1 | 33/2013. (VI. 21.) NFM rendelet |
+| 2013-07-07 | 2013-33-20-2W.2 | 155/2014. (VI. 30.) Korm. rendelet |

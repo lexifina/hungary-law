@@ -1,5 +1,7 @@
 ## Létesítmény telephelye földtani alkalmasságának általános vizsgálati szempontjai
 
+## 3K55491_0
+
 |  | A | B | C | D | E | F |
 
 | 1. | Földtani szempontok | Kis és közepes aktivitású radioaktív hulladék elhelyezésére szolgáló létesítmény | Nagy aktivitású és hosszú felezési idejű radioaktív hulladék elhelyezésére szolgáló létesítmény |

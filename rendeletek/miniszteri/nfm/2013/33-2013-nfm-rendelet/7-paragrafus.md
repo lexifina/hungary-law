@@ -17,3 +17,5 @@ b) tervezésénél figyelembe nem vett esemény bekövetkeztekor,
 c) bezárása előtt,
 
 d) bezárása utáni intézményes ellenőrzés alatt rendszeres időközönként
+
+elkészítendő biztonsági értékelésben, biztonsági jelentésben, valamint környezetvédelmi felülvizsgálatban kell bemutatni.
