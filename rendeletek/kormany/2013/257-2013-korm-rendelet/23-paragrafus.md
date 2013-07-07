@@ -1,11 +1,9 @@
-## 22. § A Gyár. 21. §-a a következő (6) bekezdéssel egészül ki:
+## 21–22. §[^17]
 
-## „(6) A kijelölt gyámhivatal illetékessége kiterjed a megye (főváros) egész területére.”
+23. § (1)[^18]
 
-23. § (1) A Gyár. 23. § (10) bekezdése helyébe a következő rendelkezés lép:
+(2)[^19]
 
-## „(10) A nevelésbe vett gyermek örökbefogadásának engedélyezése esetén a volt gyám végszámadásának elfogadására a kijelölt gyámhivatal az illetékes. Az elfogadott végszámadás alapján a vagyonnal rendelkező gyermekről és vagyonáról a kijelölt gyámhivatal értesíti az örökbefogadó szülő lakóhelye szerinti járási gyámhivatalt.”
-
-(2)[^11]
-
-[^11]: A 23. § (2) bekezdése a 29. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+[^17]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 23. § (2) bekezdése a 29. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
