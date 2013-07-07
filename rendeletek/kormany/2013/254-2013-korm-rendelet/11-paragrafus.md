@@ -1,1 +1,0 @@
-## „(7) A táppénzt méltányosságból legkorábban – a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása vagy kórházi tartózkodása címén méltányosságból megállapítható táppénz esetét kivéve – az igényjogosultság megszűnését követő naptól lehet megállapítani.”

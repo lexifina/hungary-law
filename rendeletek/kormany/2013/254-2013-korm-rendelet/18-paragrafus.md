@@ -2,12 +2,12 @@
 
 ## 18. § Hatályát veszti a Vhr.
 
-a)–e)[^13]
+a)–e)[^20]
 
-f)–g)[^14]
+f)–g)[^21]
 
-h)[^15]
+h)[^22]
 
-[^13]: A 18. § a)–e) pontja a 64. § (2) bekezdése alapján 2013. július 15-én lép hatályba.
-[^14]: A 18. § f)–g) pontja a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.
-[^15]: A 18. § h) pontja a 64. § (2) bekezdése alapján 2013. július 15-én lép hatályba.
+[^20]: A 18. § a)–e) pontja a 64. § (2) bekezdése alapján 2013. július 15-én lép hatályba.
+[^21]: A 18. § f)–g) pontja a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^22]: A 18. § h) pontja a 64. § (2) bekezdése alapján 2013. július 15-én lép hatályba.

@@ -1,3 +1,0 @@
-## 21. § A Kr. a következő 4/B. §-sal egészül ki:
-
-## „4/B. § Az OEP a szolgáltatók által az országos várólista nyilvántartásban – a várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet szerint – regisztrált adatok és a fekvőbeteg szakellátás teljesítmény-elszámolási adatai között minden tárgyhónapot követő 20. napig (a továbbiakban: egyeztetési időpont) elszámolási egyeztetést végez. Ennek során az OEP a várólista nyilvántartási tételeket a tárgyhónap utolsó napjának vége szerinti státusz alapján vizsgálja, azzal, hogy az adatokban a tárgyhónapot követő 20. nap végéig elvégzett adathiba javításokat és adathiány pótlásokat is figyelembe kell venni az 5/A. § szerinti eljárások során.”

@@ -1,1 +1,0 @@
-## „(6) Az EEKH által kiállított eseti export és import engedélyeken a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet 3. számú mellékletében megjelölt, be- és kiléptetést, behozatali és kiviteli irányú vámeljárást, valamint engedélyigazolást végző vámszervet kell feltüntetni.”

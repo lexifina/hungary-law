@@ -1,4 +1,4 @@
-## 63. § Hatályát veszti a katasztrófa-egészségügyi ellátásról szóló 139/2012. (VI. 29.) Korm. rendelet 21. § b) pontjában az „önálló” szövegrész.
+## 59–63. §[^37]
 
 ## 10. Záró rendelkezések
 
@@ -13,3 +13,5 @@
 (5) Az 58. § (1) bekezdése 2014. január 1-jén lép hatályba.
 
 (6) A 4. § (2) bekezdése, a 8. §, a 13. § (2) bekezdése, a 17. § b) pontja, valamint a 18. § f) és g) pontja 2015. január 1-jén lép hatályba.
+
+[^37]: Az 59–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
