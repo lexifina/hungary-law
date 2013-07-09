@@ -1,0 +1,101 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében az Útravaló Ösztöndíjprogram Út szakmához alprogram megvalósításához 400,0 millió forint átcsoportosítását rendeli el a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet LXIII. Nemzeti Foglalkoztatási Alap fejezet 2. Szakképzési és felnőttképzési támogatások cím terhére, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 59. Társadalmi felzárkózást segítő programok alcím, 7. Roma ösztöndíj programok jogcímcsoport javára az 1. melléklet szerint.
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: azonnal
+
+1. melléklet az 1416/2013. (VII. 9.) Korm. határozathoz
+
+LXIII. Nemzeti Foglalkoztatási Alap
+
+XX. Emberi Erőforrások Minisztériuma
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| Millió forintban, egy tizedessel! |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | LXIII. |  |  |  |  |  |  | Nemzeti Foglalkoztatási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 278778 |  | 2 |  |  |  |  |  |  | Szakképézési és felnőttképzési támogatások |  |  |  |  |  |  |  |  |  |  |  | -400,0 |  |  |  |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 59 |  |  |  |  |  |  | Társadalmi felzárkózást segítő programok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 297335 |  |  |  | 7 |  |  |  |  |  |  | Roma ösztöndíjprogramok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 400,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Millió forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 59 |  |  |  |  |  |  | Társadalmi felzárkózást segítő programok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 297335 |  |  |  | 7 |  |  |  |  |  |  | Roma ösztöndíjprogramok |  |  |  |  |  |  |  |  |  |  |  | 400,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Foglalkoztatottak létszáma (fő) - időszakra | fő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Millió forintban |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal |  |  | 400,0 |  |  |  |  |  |  |  |  |  |  | 400,0 |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
