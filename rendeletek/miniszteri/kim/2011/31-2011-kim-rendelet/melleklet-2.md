@@ -1,22 +1,10 @@
-## 1.
-
-## ÁLTALÁNOS TUDNIVALÓK
+## 1. ÁLTALÁNOS TUDNIVALÓK
 
 ## 1.1. A területi számjelrendszer
 
-## A területi számjelrendszer az államigazgatási területi egységek nevét
+## A területi számjelrendszer az államigazgatási területi egységek nevét és számjelét tartalmazza a 2013. január 1-jei állapotnak megfelelő államigazgatási területi beosztás szerint.
 
-## és számjelét tartalmazza a 2013. január 1-jei állapotnak megfelelő
-
-## államigazgatási területi beosztás szerint.
-
-## 1.2. Területi számjel
-
-## A területi számjel két részből áll:
-
-## – településazonosító törzsszám (1–5. pozíció),
-
-## – csoportképző ismérvek sorozata (6–46. pozíció).
+| 1.2. Területi számjel A területi számjel két részből áll: – településazonosító törzsszám (1–5. pozíció), – csoportképző ismérvek sorozata (6–49. pozíció). |
 
 | Fejezet Pozíció Megnevezés |
 
@@ -26,27 +14,29 @@
 
 | 1.2.4. 14–17 A járás kódja |
 
-| 1.2.5. 18 A statisztikai nagyrégió kódja |
+| 1.2.5. 18–22 A kistérség kódja |
 
-| 1.2.6. 19 A régiókód 1.2.7. 20–23 Az agglomeráció kódja 1.2.8. 24–26 A mezőgazdasági tájkörzet kódja |
+| 1.2.6. 23 A statisztikai nagyrégió kódja |
 
-| Fejezet Pozíció Megnevezés |
+| 1.2.7. 24 A régiókód 1.2.8. 25–28 Az agglomeráció kódja |
 
-| 1.2.9. 27 A szőlőtermőtáj kódja |
+| 1.2.9. 29–31 A mezőgazdasági tájkörzet kódja |
 
-| 1.2.10. 38–29 A borvidék kódja |
+| 1.2.10. 32 A szőlőtermőtáj kódja |
 
-| 1.2.11. 30–31 A vállalkozási övezet kódja |
+| 1.2.11. 33–34 A borvidék kódja |
 
-| 1.2.12. 32–33 Az idegenforgalmi régió kódja |
+| 1.2.12. 35–36 Az idegenforgalmi régió kódja |
 
-| 1.2.13. 34–35 Az üdülőkörzet kódja |
+| 1.2.13. 36–37 Az üdülőkörzet kódja |
 
-| 1.2.14. 36–37 A világörökségi helyszín kódja |
+| 1.2.14. 38–39 A világörökségi helyszín kódja |
 
-| 1.2.15. 38–39 A nemzeti park kódja |
+| 1.2.15. 40–41 A nemzeti park kódja |
 
-| 1.2.16. 40–46 A NUTS-kód |
+| 1.2.15. 42 A falusi szállásadás lehetséges helyszíneinek kódja |
+
+| 1.2.16. 43–49 A NUTS-kód |
 
 ## 1.2.1. A településazonosító törzsszám
 
@@ -98,15 +88,23 @@
 
 ## A 4.. pozíció járási központokat jelöli.
 
-## 1.2.5. A statisztikai nagyrégió kódja
+## 1.2.5. A kistérség kódja
+
+## A települések kistérségbe sorolását ötpozíciós kód fejezi ki.
+
+## Az 1-4. pozíció a járáshoz való tartozást
+
+## Az 5.. pozíció járási központokat jelöli.
+
+## 1.2.6. A statisztikai nagyrégió kódja
 
 ## A települések nagyrégiókba sorolását egypozíciós kód fejezi ki.
 
-## 1.2.6. A régiókód
+## 1.2.7. A régiókód
 
 ## A települések régiókba sorolását egypozíciós kód fejezi ki.
 
-## 1.2.7. Az agglomeráció kódja
+## 1.2.8. Az agglomeráció kódja
 
 ## A települések agglomerációkba sorolását négypozíciós kód fejezi ki. A négypozíciós kód 1. pozíciója az agglomeráció típusát fejezi ki, a 2–3. pozíció azonosítja az adott agglomerációt, a 4. pozíció egy adott agglomeráción belül különbözteti meg
 
@@ -116,7 +114,7 @@
 
 ## – az agglomeráció egyéb településeit.
 
-## 1.2.8. A mezőgazdasági tájkörzet kódja
+## 1.2.9. A mezőgazdasági tájkörzet kódja
 
 ## A települések mezőgazdasági tájkörzetbe való tartozását hárompozíciós kód fejezi ki.
 
@@ -126,17 +124,13 @@
 
 ## A 3. pozíció a mikrokörzet sorszáma a megyén belül.
 
-## 1.2.9. A szőlőtermőtáj kódja
+## 1.2.10. A szőlőtermőtáj kódja
 
 ## A települések szőlőtermőtájba való sorolását 1 pozíciós kód fejezi ki.
 
-## 1.2.10. A borvidék kódja
+## 1.2.11. A borvidék kódja
 
 ## A települések borvidékbe való sorolását 2 pozíciós kód fejezi ki.
-
-## 1.2.11. A vállalkozási övezet kódja
-
-## A települések vállalkozási övezetekbe való sorolását kétpozíciós kód fejezi ki.
 
 ## 1.2.12. Az idegenforgalmi régió kódja
 
@@ -154,15 +148,17 @@
 
 ## A települések nemzeti parkokhoz való besorolását egypozíciós kód fejezi ki..
 
-## 1.2.16. A NUTS-kód
+## 1.2.16. A falusi szállásadás lehetséges helyszínei
+
+## A településeken a falusi szállásadás lehetséges helyszíneit egypozíciós kód fejezi ki.
+
+## 1.2.17. A NUTS-kód
 
 ## A területi számjelben – a NUTS rendszernek megfelelően – hétpozíciós kódot alkalmazunk, melyben a járások szintjéig azonosítjuk a településeket.
 
 ## Budapestet ebben a rendszerben egy egységnek tekintjük.
 
-## 2.
-
-## A TERÜLETI SZÁMJELRENDSZERBEN ALKALMAZOTT NÓMENKLATÚRÁK
+## 2. A TERÜLETI SZÁMJELRENDSZERBEN ALKALMAZOTT NÓMENKLATÚRÁK
 
 | 2.1. A megyekód (1.2.2.1.) nómenklatúrája (STAR T03) |
 
@@ -170,7 +166,9 @@
 
 | 2.2. A főváros kerületei kódjának (1.2.2.2.) nómenklatúrája (STAR T37) |
 
-| Budapest I. kerület 01 Budapest II. kerület 02 Budapest III. kerület 03 Budapest IV. kerület 04 Budapest V. kerület 05 Budapest VI. kerület 06 Budapest VII. kerület 07 Budapest VIII. kerület 08 Budapest IX. kerület 09 Budapest X. kerület 10 Budapest XI. kerület 11 Budapest XII. kerület 12 Budapest XIII. kerület 13 Budapest XIV. kerület 14 Budapest XV. kerület 15 Budapest XVI. kerület 16 Budapest XVII. kerület 17 Budapest XVIII. kerület 18 Budapest XIX. kerület 19 Budapest XX. kerület 20 Budapest XXI. kerület 21 Budapest XXII. kerület 22 Budapest XXIII. kerület 23 Valamennyi település kódja (Budapesté is) 00 Nem település (fiktív területi egység) 99 |
+| Budapest I. kerület 01 Budapest II. kerület 02 Budapest III. kerület 03 Budapest IV. kerület 04 Budapest V. kerület 05 Budapest VI. kerület 06 Budapest VII. kerület 07 |
+
+| Budapest VIII. kerület 08 Budapest IX. kerület 09 Budapest X. kerület 10 Budapest XI. kerület 11 Budapest XII. kerület 12 Budapest XIII. kerület 13 Budapest XIV. kerület 14 Budapest XV. kerület 15 Budapest XVI. kerület 16 Budapest XVII. kerület 17 Budapest XVIII. kerület 18 Budapest XIX. kerület 19 Budapest XX. kerület 20 Budapest XXI. kerület 21 Budapest XXII. kerület 22 Budapest XXIII. kerület 23 Valamennyi település kódja (Budapesté is) 00 Nem település (fiktív területi egység) 99 |
 
 | 2.3. A település jogállása kódjának (1.2.2.3.) |
 
@@ -596,11 +594,89 @@
 
 | Zalaszentgróti járás 198 |
 
-| Budapest, illetve fiktív területi egység |
+| Budapest, illetve fiktív területi egység 999 |
 
 | 2.6.2. A járás székhely kódja (STAR T151) Nem székhelytelepülés 0 Székhelytelepülés 1 Budapest, illetve fiktív területi egység 9 |
 
-| 2.7. A statisztikai nagyrégió kódjának (1.2.5.) nómenklatúrája |
+| 2.7. A kistérség kódjának (1.2.5.) nómenklatúrája |
+
+| 2.7.1. A kistérség kódja (STAR T157) |
+
+| Budapest 3101 |
+
+| Komlói 3201 Mohácsi 3202 Sásdi 3203 Sellyei 3204 Siklósi 3205 Szigetvári 3206 Pécsi 3207 Pécsváradi 3208 Szentlőrinci 3209 |
+
+| Bajai 3301 Bácsalmási 3302 Kalocsai 3303 Kecskeméti 3304 Kiskőrösi 3305 Kiskunfélegyházai 3306 Kiskunhalasi 3307 Kiskunmajsai 3308 Kunszentmiklósi 3309 Jánoshalmai 3310 |
+
+| Békéscsabai 3401 Mezőkovácsházai 3402 Orosházai 3403 Sarkadi 3404 Szarvasi 3405 Szeghalomi 3406 Békési 3407 |
+
+| Gyulai 3408 |
+
+| Miskolci 3501 Edelényi 3502 Encsi 3503 Kazincbarcikai 3504 Mezőkövesdi 3505 Ózdi 3506 Sárospataki 3507 Sátoraljaújhelyi 3508 Szerencsi 3509 Szikszói 3510 Tiszaújvárosi 3511 Abaúj–Hegyközi 3512 |
+
+| Bodrogközi 3513 |
+
+| Mezőcsáti 3514 |
+
+| Tokaji 3515 |
+
+| Csongrádi 3601 Hódmezővásárhelyi 3602 Kisteleki 3603 Makói 3604 Mórahalomi 3605 Szegedi 3606 Szentesi 3607 |
+
+| Bicskei 3701 Dunaújvárosi 3702 Enyingi 3703 Gárdonyi 3704 Móri 3705 Sárbogárdi 3706 Székesfehérvári 3707 Abai 3708 |
+
+| Adonyi 3709 |
+
+| Martonvásári 3710 |
+
+| Csornai 3801 Győri 3802 Kapuvár-Beledi 3803 Mosonmagyaróvári 3804 Sopron–Fertődi 3805 Téti 3806 Pannonhalmai 3807 |
+
+| Balmazújvárosi 3901 Berettyóújfalui 3902 Debreceni 3903 Hajdúböszörményi 3904 Hajdúszoboszlói 3905 Polgári 3906 Püspökladányi 3907 Derecske–Létavértesi 3908 |
+
+| Hajdúhadházi 3909 |
+
+| Egri 4001 Hevesi 4002 Füzesabonyi 4003 Gyöngyösi 4004 Hatvani 4005 Pétervásárai 4006 Bélapátfalvai 4007 |
+
+| Dorogi 4101 Esztergomi 4102 Kisbéri 4103 Komáromi 4104 Oroszlányi 4105 Tatai 4106 Tatabányai 4107 |
+
+| Balassagyarmati 4201 Bátonyterenyei 4202 Pásztói 4203 Rétsági 4204 Salgótarjáni 4205 Szécsényi 4206 Aszódi 4301 |
+
+| Ceglédi 4302 Dabasi 4303 Gödöllői 4304 Monori 4305 Nagykátai 4306 Ráckevei 4307 Szobi 4308 Váci 4309 Budaörsi 4310 Dunakeszi 4311 Gyáli 4312 Pilisvörösvári 4313 Szentendrei 4314 |
+
+| Veresegyházi 4315 |
+
+| Érdi 4316 |
+
+| Barcsi 4401 Csurgói 4402 Fonyódi 4403 Kaposvári 4404 Lengyeltóti 4405 Marcali 4406 Nagyatádi 4407 Siófoki 4408 Tabi 4409 Balatonföldvári 4410 |
+
+| Kadarkúti 4411 |
+
+| Baktalórántházai 4501 Csengeri 4502 Fehérgyarmati 4503 Kisvárdai 4504 Mátészalkai 4505 Nagykállói 4506 Nyírbátori 4507 Nyíregyházai 4508 Tiszavasvári 4509 Vásárosnaményi 4510 Ibrány–Nagyhalászi 4511 |
+
+| Záhonyi 4512 |
+
+| Jászberényi 4601 Karcagi 4602 Kunszentmártoni 4603 Szolnoki 4604 Tiszafüredi 4605 Törökszentmiklósi 4606 Mezőtúri 4607 |
+
+| Bonyhádi 4701 Dombóvári 4702 Paksi 4703 Szekszárdi 4704 Tamási 4705 |
+
+| Celldömölki 4801 Csepregi 4802 Körmendi 4803 Kőszegi 4804 Őriszentpéteri 4805 Sárvári 4806 Szentgotthárdi 4807 Szombathelyi 4808 Vasvári 4809 |
+
+| Ajkai 4901 Balatonalmádi 4902 Balatonfüredi 4903 Pápai 4904 Sümegi 4905 Tapolcai 4906 Várpalotai 4907 Veszprémi 4908 Zirci 4909 |
+
+| Keszthelyi 5001 Lenti 5002 |
+
+| Letenyei 5003 Nagykanizsai 5004 Zalaegerszegi 5005 Zalaszentgróti 5006 |
+
+| Hévízi 5007 |
+
+| Pacsai 5008 |
+
+| Zalakarosi 5009 |
+
+| Nem település (fiktív területi egység) 9999 |
+
+| 2.7.2. A kistérségi székhely kódja (STAR T159) Nem székhelytelepülés 0 Székhelytelepülés 1 Nem település (kerület, fiktív területi egység) 9 |
+
+| 2.8. A statisztikai nagyrégió kódjának (1.2.6.) nómenklatúrája |
 
 | (STAR T155) |
 
@@ -610,13 +686,13 @@
 
 | Alföld és Észak (Észak-Magyarország, Észak-Alföld, Dél-Alföld) 3 |
 
-| 2.8. A régió kódjának (1.2.6.) nómenklatúrája (STAR T50) |
+| 2.9. A régió kódjának (1.2.7.) nómenklatúrája (STAR T50) |
 
 | A tervezési-statisztikai régiók és a hozzájuk tartozó megyék (főváros) |
 
 | Közép-Magyarország (Budapest, Pest) 1 Közép-Dunántúl (Fejér, Komárom-Esztergom, Veszprém) 2 Nyugat-Dunántúl (Győr-Moson-Sopron, Vas, Zala) 3 Dél-Dunántúl (Baranya, Somogy, Tolna) 4 Észak-Magyarország (Borsod-Abaúj-Zemplén, Heves, Nógrád) 5 Észak-Alföld (Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg) 6 Dél-Alföld (Bács-Kiskun, Békés, Csongrád) 7 |
 
-| 2.9. Az agglomeráció kódjának (1.2.7.) nómenklatúrája (STAR T99, T100, T101) |
+| 2.10. Az agglomeráció kódjának (1.2.8.) nómenklatúrája (STAR T99, T100, T101) |
 
 | 1. pozíció |
 
@@ -640,11 +716,11 @@
 
 | 4. pozíció Központ 1 Társközpont 2 Egyéb település 3 Településegyüttesbe nem tartozó település 9 |
 
-## 2.10. A mezőgazdasági tájkörzet kódjának (1.2.8.) nómenklatúrája
+## 2.11. A mezőgazdasági tájkörzet kódjának (1.2.9.) nómenklatúrája
 
 ## (STAR T33)
 
-| II. Fejezet Megnevezés | Makro- | Mezo- | Mikro- |
+| Megnevezés | Makro- | Mezo- | Mikro- |
 
 | körzetkód |
 
@@ -652,17 +728,9 @@
 
 | NYÍRSÉG 2 FELSŐ-TISZA-VIDÉK 21 Tiszavasvári vidéke 211 Rétköz 212 Szatmár-beregi síkság 213 Bodrogköz 217 Taktaköz 218 NYÍRSÉG 22 Nyírség-Erdőspuszták 223 Észak-Nyírség 224 Dél-Nyírség 225 |
 
-| III. Fejezet Megnevezés | Makro- | Mezo- | Mikro- |
-
-| körzetkód |
-
 | TISZA ÉS KÖRÖS MENTE 3 KÖZÉP-TISZA-VIDÉK 31 Tiszamellék 311 Nagykunság 312 Tiszazug 313 Hevesi-Tisza-vidék 314 Tisza mente 315 HAJDÚSÁG 32 Hajdúság 322 BERETTYÓ–KÖRÖSÖK VIDÉKE 33 Szeghalomi körzet 331 Szarvasi körzet 332 Békés–Gyula–Sarkadi körzet 333 Bihar-Sárrét 334 BÉKÉS–CSANÁDI LÖSZHÁT 34 Maros–Körös köze 343 Békési síkság 344 ALSÓ-TISZA VÖLGYE 35 Alsó-Tisza völgye 352 |
 
 | DUNAI ALFÖLD 4 MEZŐFÖLD 41 Mezőföld II. 411 Mezőföld I. 412 Mezőföld III. 415 SÁRVÍZ KÖRNYÉKE 42 Sárvíz környéke 423 DRÁVA MENTE 43 Drávavölgy a Pécsi medencével 433 Ormánság 434 Dráva melléke és Csurgó környéke 437 |
-
-| IV. Fejezet Megnevezés | Makro- | Mezo- | Mikro- |
-
-| körzetkód |
 
 | BARANYAI LÖSZSZIGET 44 Baranyai löszsziget 445 DUNA MENTI SÍKSÁG 45 Dunamellék 451 Dunavölgy 452 Sárköz-Duna menti síkság 453 DUNA–TISZA-KÖZI HÁTSÁG 46 Csongrádi homokhát 461 Bács-Kiskun megyei homokhátság 462 Pest megyei homokhátság 464 JÁSZSÁG 47 Jászság Jász-Nagykun-Szolnok megyei része 471 Jászság Pest megyei része 475 BÁCSKA 48 Bácska 483 |
 
@@ -674,15 +742,9 @@
 
 | Pilis–budai hegyvidék 621 |
 
-| V. Fejezet Megnevezés | Makro- | Mezo- | Mikro- |
-
-| körzetkód |
-
 | Gerecse–Pilis hegyvidék 622 BALATON-FELVIDÉK 63 Balaton-felvidék 633 Keszthelyi -hegység és környéke 634 |
 
-| NYUGAT-MAGYARORSZÁGI DOMBSÁG 7 ALPOKALJA 71 Soproni-hegyvidék–Cseri táj 711 Határ mente 716 GÖCSEJ–HETÉS–ŐRSÉG 72 Göcsej–Hetés 721 Őrség 725 VASI–ZALAI DOMBSÁG 73 Hegyhát 731 Észak-zalai dombság 732 |
-
-| DÉL-ZALAI DOMBSÁG 74 Dél-zalai dombság 743 |
+| NYUGAT-MAGYARORSZÁGI DOMBSÁG 7 ALPOKALJA 71 Soproni-hegyvidék–Cseri táj 711 Határ mente 716 GÖCSEJ–HETÉS–ŐRSÉG 72 Göcsej–Hetés 721 Őrség 725 VASI–ZALAI DOMBSÁG 73 Hegyhát 731 Észak-zalai dombság 732 DÉL-ZALAI DOMBSÁG 74 Dél-zalai dombság 743 |
 
 | DUNÁNTÚLI-DOMBSÁG 8 MARCALI-HÁT és KÖRNYÉKE 81 Marcali-hát és környéke 812 SOMOGY–TOLNAI DOMBVIDÉK 82 Tabi dombvidék 821 Tolnai dombvidék 822 SOMOGYI HOMOKVIDÉK 83 Somogyi homokvidék 834 KAPOS VÖLGYE 84 Kapos völgye 846 |
 
@@ -692,7 +754,7 @@
 
 | Nem település (fiktív területi egység) 999 |
 
-| 2.11. A szőlőtermőtáj kódjának (1.2.9.) nómenklatúrája |
+| 2.12. A szőlőtermőtáj kódjának (1.2.10.) nómenklatúrája |
 
 | (STAR T167) |
 
@@ -706,7 +768,7 @@
 
 | Nem település (fiktív területi egység) 9 |
 
-| 2.12. A borvidék kódjának (1.2.10.) nómenklatúrája (STAR T168) |
+| 2.13. A borvidék kódjának (1.2.11.) nómenklatúrája (STAR T168) |
 
 | Csongrádi borvidék 01 |
 
@@ -720,7 +782,7 @@
 
 | Balatonfüred-Csopaki borvidék 06 |
 
-| aa) Balaton-felvidéki borvidék 07 |
+| Balaton-felvidéki borvidék 07 |
 
 | Etyek-Budai borvidék 08 |
 
@@ -754,17 +816,7 @@
 
 | A település nem tartozik borvidékbe 99 |
 
-| 2.13. A vállalkozási övezet kódjának (1.2.11.) nómenklatúrája (STAR T52) |
-
-| Kunmadaras és Térsége Vállalkozási Övezet 09 |
-
-| Zalai Regionális – Lenti központú Vállalkozási Övezet 10 |
-
-| Békés Megyei Vállalkozási Övezet 11 |
-
-| A település nem tartozik vállalkozási övezetbe 99 |
-
-| 2.14. Az idegenforgalmi régió kódjának (1.2.12.) nómenklatúrája (STAR T102) |
+| 2.14. Az idegenforgalmi régió kódjának (1.2.12.) nómeklatúrája (STAR T102) |
 
 | Budapest–Közép-dunavidéki régió 01 |
 
@@ -786,11 +838,11 @@
 
 | Nem település (fiktív területi egység) 99 |
 
-| 2.15. Az üdülőkörzet kódjának (1.2.13.) nómenklatúrája (STAR T103) |
+| 2.15. Az üdülőkörzet kódjának (1.2.13.) nómeklatúrája (STAR T103) |
 
 | Budapest kiemelt üdülőkörzet 01 Balaton kiemelt üdülőkörzetbe tartozó partközeli települések 02 Balaton kiemelt üdülőkörzetbe tartozó további települések 03 Dunakanyar kiemelt üdülőkörzet 04 Mátra–Bükk kiemelt üdülőkörzet 05 Mecsek és Villány kiemelt üdülőkörzet 06 Sopron–Kőszeghegyalja kiemelt üdülőkörzet 07 Tisza-tó kiemelt üdülőkörzet 08 Velencei-tó–Vértes kiemelt üdülőkörzet 09 Egyéb, üdülőkörzetbe nem tartozó települések 99 |
 
-| 2.16. A világörökségi helyszín kódjának (1.2.14.) nómenklatúrája (STAR T104) |
+| 2.16. A világörökségi helyszín kódjának (1.2.14.) nómeklatúrája (STAR T104) |
 
 | Budapest Duna-parti látképe, a Budai Várnegyed, az Andrássy út és történelmi környezete 01 |
 
@@ -804,13 +856,13 @@
 
 | Pécsi ókeresztény sírkamrák 06 |
 
-| Fertő/Neusiedlerseekultúrtáj 07 |
+| Fertő/Neusiedlersee kultúrtáj 07 |
 
 | Tokaji történelmi borvidék kultúrtáj 08 |
 
 | Nem világörökségi helyszín 99 |
 
-| 2.17. A nemzeti park kódjának (1.2.15.) nómenklatúrája (STAR T105) |
+| 2.17. A nemzeti park kódjának (1.2.15.) nómeklatúrája (STAR T105) |
 
 | Aggteleki Nemzeti Park 01 |
 
@@ -834,7 +886,17 @@
 
 | Nem tartozik nemzeti parkhoz 99 |
 
-| 2.18. A NUTS-kódrendszer (1.2.16.) nómenklatúrája (STAR T158) |
+| 2. 18. A falusi szállásadás lehetséges helyszíneinek nómenklatúrája |
+
+| (STAR T153) |
+
+| A településen lehetséges a falusi szállásadási tevékenység 1 |
+
+| A települése nem lehetséges a falusi szállásadási tevékenység 0 |
+
+| Nem település (fiktív területi egység) 9 |
+
+| 2.19. A NUTS-kódrendszer (1.2.16.) nómeklatúrája (STAR T158) |
 
 | 1–2. pozíció: országazonosító – HU |
 
@@ -1100,9 +1162,7 @@
 
 | Hevesi járás HU31206 |
 
-| Pétervásárai járás HU31207 |
-
-| Nógrád megye |
+| Pétervásárai járás HU31207 Nógrád megye |
 
 | Balassagyarmati járás HU31301 |
 
@@ -1252,6 +1312,6 @@
 
 | Nem település (kerület, fiktív területi egység) HU99999 |
 
-2. melléklet a 31/2011. (X. 24.) KIM rendelethez[^9]
+2. melléklet a 31/2011. (X. 24.) KIM rendelethez[^15]
 
-[^9]: A 2. melléklet az 50/2012. (XII. 4.) KIM rendelet 30. § (5) bekezdésével megállapított szöveg.
+[^15]: A 2. melléklet a 13/2013. (VII. 9.) KIM rendelet 4. §-ával megállapított szöveg.
