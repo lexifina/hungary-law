@@ -10,17 +10,23 @@
 
 (6)[^7] A szennyvízelvezetési agglomeráció központjára és térségi rendszer esetén a csatlakozó területekre a Nemzeti Környezetügyi Intézet területi kirendeltsége a szakmai javaslatát az illetékes Területi Vízgazdálkodási Tanács állásfoglalására figyelemmel alakítja ki.
 
-(7)[^8] Az igazgatóság a kérelmet szakmai javaslatával együtt 60 napon belül megküldi a vízgazdálkodásért felelős miniszternek (a továbbiakban: miniszter).
+(7)[^8] A Nemzeti Környezetügyi Intézet területi kirendeltsége a kérelmet szakmai javaslatával együtt 60 napon belül megküldi a vízgazdálkodásért felelős miniszternek (a továbbiakban: miniszter). A miniszter a Nemzeti Környezetügyi Intézet területi kirendeltségének javaslata alapján dönt a kérelem elfogadásáról vagy elutasításáról.
 
-(8)[^9] A miniszter figyelembe véve a felterjesztett kérelmet előkészíti a módosított listának a Programba való beépítését a Vgtv. 7/A. §-ának (5) bekezdése szerinti kétévenkénti felülvizsgálat keretében.
+(8)[^9] A miniszter – a (7) bekezdés alapján elfogadott kérelmekre figyelemmel – a Vgtv. 7/A. § (5) bekezdése szerinti, kétévenkénti felülvizsgálat során előkészíti a Kormány számára a szennyvíz-elvezetési agglomerációs jegyzék módosítását.
 
-(9)[^10] A Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Programmal összefüggő szennyvízelvezetési programról szóló 25/2002. (II. 27.) Korm. rendelet 2. mellékletében nem szereplő települések önkormányzatai – az R. szerinti módszertani vizsgálatokra és eljárásra alapozottan – a Csatlakozási Szerződésben rögzített utolsó mentességi határidő (2015. december 31.) lejártát követően – a Program felülvizsgálata keretében kerülhetnek legkorábban a szennyvízelvezetési agglomerációs jegyzékbe.
+(9)[^10] Az egyes települések legkorábban a 2003. évi uniós csatlakozási szerződésben rögzített utolsó mentességi határidő (2015. december 31.) lejártát követően, a szennyvíz-elvezetési agglomerációra való tényleges rácsatlakozás megtörténte után vehetők fel a szennyvíz-elvezetési agglomerációs jegyzékbe.
+
+(10)[^11] A (9) bekezdésben meghatározott határidőt megelőzően, az a 2000 LE szennyezőanyag-terhelés alatti település nyújthat be agglomerációs szennyvíztisztító telephez történő csatlakozás iránti kérelmet, amelynek csatlakozása esetén a szabad kapacitással rendelkező, befogadó szennyvíztisztító telepen új beruházás nem szükséges, valamint a tervezett csatlakozás miatt megnövekedett szennyvízmennyiség beérkezése esetén a szennyvíz-elvezetési agglomeráció aktuális és célállapotra vonatkozó tényleges terhelését tekintve is biztosított a szennyvizek – befogadó terhelhetőségének megfelelő – tisztítása.
+
+(11)[^12] A (10) bekezdés szerinti csatlakozási kérelmet benyújtó település nem válhat a szennyvíz-elvezetési agglomeráció tagtelepülésévé, csak fizikailag csatlakozhat a szennyvízrendszerhez, ha az agglomerációs szennyvíztisztító telephez csatlakozása új beruházást igényel.
 
 [^3]: A 3. § (1) bekezdése a 164/2004. (V. 21.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^4]: A 3. § (2) bekezdése a 286/2010. (XII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (4) bekezdése a 31/2006. (II. 8.) Korm. rendelet 2. §-ával megállapított, a 286/2010. (XII. 16.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
 [^6]: A 3. § (5) bekezdése a 31/2006. (II. 8.) Korm. rendelet 2. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^7]: A 3. § (6) bekezdése a 31/2006. (II. 8.) Korm. rendelet 2. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
-[^8]: A 3. § (7) bekezdése a 31/2006. (II. 8.) Korm. rendelet 2. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^9]: A 3. § (8) bekezdését a 31/2006. (II. 8.) Korm. rendelet 2. §-a iktatta be.
-[^10]: A 3. § (9) bekezdését a 31/2006. (II. 8.) Korm. rendelet 2. §-a iktatta be, szövege a 286/2010. (XII. 16.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^8]: A 3. § (7) bekezdése a 249/2013. (VII. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (8) bekezdését a 31/2006. (II. 8.) Korm. rendelet 2. §-a iktatta be, szövege a 249/2013. (VII. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (9) bekezdését a 31/2006. (II. 8.) Korm. rendelet 2. §-a iktatta be, szövege a 249/2013. (VII. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (10) bekezdését a 249/2013. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^12]: A 3. § (11) bekezdését a 249/2013. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
