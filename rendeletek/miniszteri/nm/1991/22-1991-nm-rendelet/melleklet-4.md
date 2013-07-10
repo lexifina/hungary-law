@@ -1,4 +1,4 @@
-4. melléklet a 22/1991. (XI. 15.) NM rendelethez[^49]
+4. melléklet a 22/1991. (XI. 15.) NM rendelethez[^47]
 
 ## ORVOSI VÉLEMÉNY
 
@@ -26,4 +26,4 @@ P. H.
 
 Aláírás
 
-[^49]: A 4. mellékletet a 9/2010. (III. 18.) EüM rendelet 13. § (4) bekezdése iktatta be.
+[^47]: A 4. mellékletet a 9/2010. (III. 18.) EüM rendelet 13. § (4) bekezdése iktatta be.
