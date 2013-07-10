@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1645-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-12-19 | 2012-1645-30-22.1 | 1645/2012. (XII. 19.) Korm. határozat |
+| 2013-07-10 | 2012-1645-30-22.2 | 1427/2013. (VII. 10.) Korm. határozat |
