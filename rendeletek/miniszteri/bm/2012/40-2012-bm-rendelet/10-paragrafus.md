@@ -1,1 +1,0 @@
-## 9. § Ez a rendelet az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv 2. cikk 3., 4., 5., 7., 9., 10., 12., 13. pontjának, 3–4. és 6–8. cikkének, továbbá I. mellékletének való megfelelést szolgálja.
