@@ -6,7 +6,9 @@
 
 ## Felelős: elszámolásért és a visszafizetési kötelezettségért: emberi erőforrások minisztere
 
-## Határidő: 2013. június 30.
+## a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 56. Nemzetiségi támogatások alcím tekintetében:
+
+## 2013. december 31.[^2]
 
 1. melléklet az 1631/2012. ( XII. 18.) Korm. határozathoz
 
@@ -99,3 +101,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat szövege az 1427/2013. (VII. 10.) Korm. határozat 2. pont d) pontja szerint módosított szöveg.
