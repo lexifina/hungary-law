@@ -12,6 +12,6 @@ e) szükség esetén a 4. § d), h) és j) pontjaiban előírt feltételeket,
 
 f) hatósági feladatok ellátásához szükséges hivatali helyiségeket, beleértve szociális helyiségeket és az előállító helyiséget,
 
-g)[^4] a 3. § k) pontjában előírt feltételeket.
+g)[^6] a 3. § (1) bekezdés i) pontjában előírt feltételeket.
 
-[^4]: A 6. § g) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.
+[^6]: A 6. § g) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

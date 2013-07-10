@@ -14,12 +14,13 @@ f) tranzitutasok ellenőrzésének feltételeit, ha ilyen típusú forgalmat eng
 
 g) vizsgáló csarnokot az áru vizsgálatára,
 
-h) a 3. § f), j), valamint a 4. § d), f) és g) pontjában előírt feltételeket,
+h)[^4] a 3. § (1) bekezdés d) és h), valamint a 4. § d), f) és g) pontjában előírt feltételeket,
 
 i) szükség esetén a 4. § h) és j) alpontjaiban előírt feltételeket,
 
 j) az ellenőrzéshez szükséges biztonsági feltételeket,
 
-k)[^3] a 3. § k) pontjában előírt feltételeket.
+k)[^5] a 3. § (1) bekezdés i) pontjában előírt feltételeket.
 
-[^3]: Az 5. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.
+[^4]: Az 5. § h) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § k) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

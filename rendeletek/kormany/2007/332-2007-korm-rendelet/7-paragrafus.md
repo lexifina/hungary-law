@@ -10,8 +10,9 @@ d) az ellenőrzéshez szükséges biztonsági feltételeket (különösen: kivil
 
 e) a be nem léptethető utasok elhelyezésére szolgáló helyiséget,
 
-f) szükség esetén a 3. § j) és a 4. § d), h), j) alpontjaiban előírt feltételeket,
+f)[^7] szükség esetén a 3. § (1) bekezdés h) és a 4. § d), h), j) alpontjaiban előírt feltételeket,
 
-g)[^5] a 3. § k) pontjában előírt feltételeket.
+g)[^8] a 3. § (1) bekezdés i) pontjában előírt feltételeket.
 
-[^5]: A 7. § g) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.
+[^7]: A 7. § f) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: A 7. § g) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

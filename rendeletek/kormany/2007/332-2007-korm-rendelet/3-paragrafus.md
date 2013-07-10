@@ -1,25 +1,27 @@
-## 3. § Személyforgalmat lebonyolító közúti határátkelőhelyen biztosítani kell
+3. §[^1] (1) Személyforgalmat lebonyolító közúti határátkelőhelyen biztosítani kell
 
 a) a be- és kilépő forgalom fizikai szétválasztását,
 
-b) forgalmi irányonként a személyek ki- és beutazási feltételek szerinti szétválasztását lehetővé tevő sávok kialakítását,
+b) autóbusz forgalom esetén külön buszsávot, amely alkalomszerűen a személygépkocsik közlekedésére is megnyitható,
 
-c) autóbusz forgalom esetén külön buszsávot,
+c) a határátkelőhely közúti közlekedésének rendjét előjelző táblákat, útburkolati jeleket, forgalomirányításra szolgáló piros-zöld fényű jelzőlámpákat, sorompókat,
 
-d) a határátkelőhely közúti közlekedésének rendjét előjelző táblákat, útburkolati jeleket, forgalomirányításra szolgáló piros-zöld fényű jelzőlámpákat, sorompókat,
+d) a határátkelőhely bekerítését,
 
-e) gépjárművizsgáló csarnokot vagy vizsgáló helyet,
+e) a határátkelőhely és közvetlen környékének kivilágítását,
 
-f) a határátkelőhely bekerítését,
+f) az elkülönített helyen történő ellenőrzés, illetve tételes vámvizsgálat végrehajtása céljából a folyamatos forgalmat nem akadályozó vizsgáló területet,
 
-g) a határátkelőhely és közvetlen környékének kivilágítását,
+g) forgalmi sávonként a sávok mellett okmány-kezelő fülkét,
 
-h) az elkülönített helyen történő ellenőrzés, illetve tételes vámvizsgálat végrehajtása céljából a folyamatos forgalmat nem akadályozó vizsgáló területet,
+h) a hatósági feladatok ellátására szolgáló hivatali helyiségeket, beleértve a szociális helyiségeket, vízvételi helyiséget, illemhelyiséget és az előállító helyiséget,
 
-i) forgalmi sávonként a sávok mellett okmány-kezelő fülkét,
+i) az arra kijelölt határátkelőhelyeken a közegészségügyi vizsgálatokhoz szükséges helyiségeket.
 
-j) a hatósági feladatok ellátására szolgáló hivatali helyiségeket, beleértve a szociális helyiségeket és az előállító helyiséget,
+(2) Személyforgalmat lebonyolító közúti határátkelőhelyen – ha a határátkelőhely működéséhez szükséges és a létesítés feltételei biztosítottak – biztosítani kell
 
-k)[^1] az arra kijelölt határátkelőhelyeken a közegészségügyi vizsgálatokhoz szükséges helyiségeket.
+a) forgalmi irányonként a személyek ki- és beutazási feltételek szerinti szétválasztását lehetővé tevő sávok kialakítását,
 
-[^1]: A 3. § k) pontja e rendelet 17. § (2) bekezdése alapján 2012. június 15. napján lépett hatályba.
+b) gépjárművizsgáló csarnokot vagy vizsgáló helyet.
+
+[^1]: A 3. § a 247/2013. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
