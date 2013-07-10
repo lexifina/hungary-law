@@ -1,0 +1,1 @@
+A Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 117. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott feladatkörömben a következőket rendelem el:
