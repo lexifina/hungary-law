@@ -1,0 +1,3 @@
+## 20. § Az NMr. 165. §-a helyébe a következő rendelkezés lép:
+
+## „165. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet 2. számú melléklete V. pontjában meghatározott gyermekvédelmi szakellátási intézményben pedagógus munkakörnek a nevelőszülői hálózatban, a gyermekotthonban – ideértve a lakásotthont, speciális gyermekotthont, különleges gyermekotthont és utógondozó otthont is –, valamint a területi gyermekvédelmi szakszolgálatnál létesített pedagógus munkakör minősül.”

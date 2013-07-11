@@ -1,0 +1,1 @@
+## „(4) A próbaidő letelte után a gyermekkel közvetlenül foglalkozó, a bölcsőde orvosából, gyógypedagógusából, kisgyermeknevelőjéből és vezetőjéből álló szakmai csoport véleményének figyelembevételével kell dönteni a gyermek további neveléséről, gondozásáról.”
