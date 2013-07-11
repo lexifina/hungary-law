@@ -1,6 +1,6 @@
 ## Speciális gyermekotthon
 
-126. §[^317] (1) A speciális gyermekotthon a szakellátás keretében
+126. §[^325] (1) A speciális gyermekotthon a szakellátás keretében
 
 a) a súlyos pszichés tüneteket mutató,
 
@@ -10,7 +10,7 @@ c) a pszichoaktív szerekkel küzdő
 
 ## 12. életévét – kivételesen indokolt esetben 10. életévét – betöltött gondozott gyermek számára kötelezően ellátandó alapfeladatként a gyermek állapotához igazodó speciális ellátást biztosít.
 
-(2)[^318] A speciális gyermekotthonban legfeljebb 40 fő helyezhető el.
+(2)[^326] A speciális gyermekotthonban legfeljebb 40 fő helyezhető el.
 
 (3) A speciális gyermekotthon vagy a gyermekotthon speciális csoportja feladatkörébe tartozik a gyermekről való gondoskodás, szocializáció, reszocializáció, habilitáció és rehabilitáció is, ha a speciális gondozás más gondozási helyen nem biztosítható, illetve ha a gyermeknek a speciális gondozást nem igénylő gondozott gyermekektől való külön elhelyezése szükséges, és állapota nem indokolja a szociális bentlakásos intézményben való elhelyezését, vagy elhelyezése férőhely hiányában nem lehetséges.
 
@@ -24,9 +24,20 @@ c) a pszichoaktív szerekkel küzdő
 
 (8) A speciális gyermekotthonban a gyermekcsoportok számától függetlenül ki kell alakítani a 124. § (6) bekezdésének b) és c) pontjában meghatározott helyiségeket.
 
-(9) A speciális gyermekotthonban ki kell alakítani olyan, a lakótérhez kapcsolódó, de attól zárhatóan elválasztott, önálló lakószobából, fürdőszobából és WC-ből álló biztonsági elkülönítőt, amelyben a Gyvt. 81/A. §-ának (1) és (2) bekezdése, valamint a Gyvt. 81/B. §-ának (3) bekezdése alapján személyes szabadságában korlátozott átmeneti vagy tartós nevelésbe vett (a továbbiakban: nevelésbe vett) gyermek tartózkodhat. A biztonsági elkülönítőt úgy kell kialakítani, hogy az abban tartózkodó nevelésbe vett gyermek magában kárt ne tehessen.
+(9)[^327] A speciális gyermekotthonban ki kell alakítani olyan, a lakótérhez kapcsolódó, de attól zárhatóan elválasztott biztonsági elkülönítőt, amely helyiségben, helyiségcsoportban a Gyvt. 81/A. § (1) és (2) bekezdése, valamint a Gyvt. 81/B. § (3) bekezdése alapján személyes szabadságában korlátozott, ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek tartózkodhat. A biztonsági elkülönítőt az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 50. § (1) bekezdése szerinti tervezési programban foglaltak szerint úgy kell kialakítani, hogy
+
+a) tegye lehetővé a gyermek számára a tisztálkodást és az illemhely használatát,
+
+b) az ott tartózkodó gyermek magában kárt ne tehessen, onnan el ne távozhasson,
+
+c) az ott tartózkodó gyermek folyamatosan megfigyelhető legyen,
+
+d) határoló szerkezetei megbontásnak ellenálló kivitelben készüljenek, és
+
+e) a beépítésre kerülő felszerelési és berendezési tárgyak sérülést ne okozhassanak, fokozott igénybevételnek ellenálló kialakításúak legyenek.
 
 (10) Amennyiben a speciális gyermekotthon a Gyvt. 58. §-ának (3) bekezdése alapján bentlakásos ellátás keretében a nevelésbe vett gyermek személyiségvizsgálatát végzi, biztosítani kell a vizsgálandó gyermeknek a speciális gyermekotthonban lévő többi gyermektől elkülönítetten történő elhelyezésének lehetőségét.
 
-[^317]: A 126. § a 46/2003. (VIII. 8.) ESZCSM rendelet 72. §-ával megállapított szöveg.
-[^318]: A 126. § (2) bekezdésében foglaltaknak – a 46/2003. (VIII. 8.) ESZCSM rendelet 98. § (7) bekezdésének j) pontja alapján – a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
+[^325]: A 126. § a 46/2003. (VIII. 8.) ESZCSM rendelet 72. §-ával megállapított szöveg.
+[^326]: A 126. § (2) bekezdésében foglaltaknak – a 46/2003. (VIII. 8.) ESZCSM rendelet 98. § (7) bekezdésének j) pontja alapján – a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
+[^327]: A 126. § (9) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 15. §-ával megállapított szöveg.

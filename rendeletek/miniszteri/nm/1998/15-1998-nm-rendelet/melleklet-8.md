@@ -1,28 +1,4 @@
-## Kimutatás
-
-## a családi pótlék személyre szóló felhasználásáról
-
-## A gyermek tartózkodási helye:
-
-## Csoportnevelő neve:
-
-## A gyermek neve:
-
-## A gyermek születési helye, ideje:
-
-## Családi pótlék havi összege: Ft
-
-## Családi pótlék éves összege: Ft
-
-## Felhasználás
-
-| Felhasználás időpontja | Felhasználható összeg (Ft) | Felhasznált összeg (Ft) | Felhasználás módja* | Egyenleg (Ft)** | Gyermek aláírása | Csoportnevelő aláírása | Gyermekotthon vezető aláírása |
-
-## * Ebben az oszlopban kell jelölni a gyámhatósági fenntartásos betétbe történő befizetés tényét is.
-
-## ** Az egyenlegnek legkésőbb a gyermek családi pótléka személyre szóló felhasználásáról készített beszámoló időpontjában nullának kell lennie.
-
-8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^420]
+8. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^448]
 
 KAPCSOLATTARTÁSI NAPLÓ
 
@@ -40,4 +16,4 @@ ________________
 
 * Ha a kapcsolattartás a gyermek elvitelével valósul meg, az aláírás igazolja a gyermek elvitelét, illetve visszahozatalát.
 
-[^420]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.
+[^448]: A 8. számú mellékletet a 28/2010. (XII. 30.) NEFMI rendelet 26. (2) bekezdése iktatta be.

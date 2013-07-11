@@ -1,6 +1,6 @@
-131. §[^340] (1) A Minisztérium gyermekotthona annak a 12. – kivételesen indokolt esetben 10. – életévét betöltött gondozott gyermeknek biztosít speciális ellátást, akinek gondozási helyéül a gyámhivatal az országos bizottság szakvéleménye alapján – a Minisztérium gyermekotthonát jelölte meg.
+131. §[^357] (1)[^358] A központi speciális gyermekotthon annak a 12. – kivételesen indokolt esetben 10. – életévét betöltött gondozott gyermeknek biztosít speciális ellátást, akinek gondozási helyéül a gyámhivatal az országos bizottság szakvéleménye alapján – a központi speciális gyermekotthont jelölte meg.
 
-(2) A Minisztérium gyermekotthona a speciális ellátás keretében a gyermek állapotához, szükségleteihez igazodó terápiát nyújt azon gyermek számára, aki
+(2)[^359] A központi speciális gyermekotthon a speciális ellátás keretében a gyermek állapotához, szükségleteihez igazodó terápiát nyújt azon gyermek számára, aki
 
 a) súlyos neurotikus, illetve pszichotikus állapota, vagy
 
@@ -14,8 +14,12 @@ d) szerzett immunhiányos tünetegyüttesben való megbetegedése
 
 (3) A gyermekek elhelyezéséről a (2) bekezdésben meghatározott problématípusok szerint elkülönítetten kell gondoskodni.
 
-(4) A Minisztérium gyermekotthona az üres férőhelyeiről folyamatosan tájékoztatja az országos bizottságot.
+(4)[^360] A központi speciális gyermekotthon az üres férőhelyeiről folyamatosan tájékoztatja az országos bizottságot.
 
-(5) A Minisztérium gyermekotthona nyilvántartást vezet azokról a gyermekekről, akiknek az elhelyezésére az országos bizottság javaslatot tett, de férőhely hiányában elhelyezésükre csak későbbi időpontban kerülhet sor (várakozó lista). A Minisztérium gyermekotthona haladéktalanul értesíti a várakozó listán szereplő gyermek ügyében illetékes területi gyermekvédelmi szakszolgálatot és a törvényes képviselőt, ha a gyermeket fogadni tudja.
+(5)[^361] A központi speciális gyermekotthon nyilvántartást vezet azokról a gyermekekről, akiknek az elhelyezésére az országos bizottság javaslatot tett, de férőhely hiányában elhelyezésükre csak későbbi időpontban kerülhet sor (várakozó lista). A központi speciális gyermekotthon haladéktalanul értesíti a várakozó listán szereplő gyermek ügyében illetékes területi gyermekvédelmi szakszolgálatot és a törvényes képviselőt, ha a gyermeket fogadni tudja.
 
-[^340]: A 131. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
+[^357]: A 131. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
+[^358]: A 131. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § n) pontja szerint módosított szöveg.
+[^359]: A 131. § (2) bekezdés nyitó szövegrésze a 49/2013. (VII. 10.) EMMI rendelet 23. § o) pontja szerint módosított szöveg.
+[^360]: A 131. § (4) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § o) pontja szerint módosított szöveg.
+[^361]: A 131. § (5) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § p) pontja szerint módosított szöveg.

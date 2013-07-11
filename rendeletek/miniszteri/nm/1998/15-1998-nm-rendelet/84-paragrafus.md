@@ -1,4 +1,4 @@
-84. § (1)[^229] Az ellátás megkezdésekor a rendelkezésre álló dokumentáció alapján, a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve, el kell készíteni a gondozott gyermekre vonatkozó egyéni gondozási, nevelési programot tartalmazó egyéni gondozási-nevelési tervet. Az egyéni gondozási-nevelési terv célja az egyéni elhelyezési terv megvalósulását biztosító gondozással, neveléssel kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás meghatározása. A terv elkészítésekor figyelemmel kell lenni különösen
+84. § (1)[^245] Az ellátás megkezdésekor a rendelkezésre álló dokumentáció alapján, a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve, el kell készíteni a gondozott gyermekre vonatkozó egyéni gondozási, nevelési programot tartalmazó egyéni gondozási-nevelési tervet. Az egyéni gondozási-nevelési terv célja az egyéni elhelyezési terv megvalósulását biztosító gondozással, neveléssel kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás meghatározása. A terv elkészítésekor figyelemmel kell lenni különösen
 
 a) a gyermekjóléti szolgálat által az alapellátás, illetve a védelembe vétel során készített egyéni gondozási tervre,
 
@@ -14,7 +14,7 @@ f) a gondozott gyermekkel és szülőjével folytatott személyes beszélgetés 
 
 g) egyéb, a gondozott gyermek nevelése, gondozása szempontjából jelentős körülményre.
 
-(2)[^230] Az egyéni gondozási-nevelési tervet a gyermek gyámja és gondozója készíti el. Az egyéni gondozási-nevelési terv elkészítésébe be kell vonni az ítélőképessége birtokában lévő gondozott gyermeket, annak szülőjét és a terv végrehajtásában érintett szakembereket.
+(2)[^246] Az egyéni gondozási-nevelési tervet a gyermek gyámja és gondozója készíti el. Az egyéni gondozási-nevelési terv elkészítésébe be kell vonni az ítélőképessége birtokában lévő gondozott gyermeket, annak szülőjét és a terv végrehajtásában érintett szakembereket.
 
 (3) Az ellátást nyújtónak az egyéni gondozási-nevelési terv alapján ellátandó feladatai különösen az alábbiak:
 
@@ -48,7 +48,7 @@ bb) érdeklődik a munkahelyen a beilleszkedéséről, munkavégzéséről,
 
 bc) rendszeresen tájékozódik a munkaügyi központban a munka- és az átképzési lehetőségekről;
 
-c)[^231] a gondozott gyermeket az önálló életvitelre, a családi háztartás vezetésére történő felkészítése érdekében életkorának megfelelően bevonja
+c)[^247] a gondozott gyermeket az önálló életvitelre, a családi háztartás vezetésére történő felkészítése érdekében életkorának megfelelően bevonja
 
 ca) a háztartási teendők végzésébe,
 
@@ -56,6 +56,6 @@ cb) a családi gazdálkodás megtervezésébe,
 
 cc) a pénzkezelésbe.
 
-[^229]: A 84. § (1) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (1) bekezdésével megállapított szöveg.
-[^230]: A 84. § (2) bekezdése a 28/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^231]: A 84. § (4) bekezdésének c) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (2) bekezdése iktatta be.
+[^245]: A 84. § (1) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^246]: A 84. § (2) bekezdése a 28/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^247]: A 84. § (4) bekezdésének c) pontját a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (2) bekezdése iktatta be.

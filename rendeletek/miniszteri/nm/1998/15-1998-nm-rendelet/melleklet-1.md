@@ -1,6 +1,4 @@
-## 166. §[^412] A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosításáról szóló 20/2013. (III. 5.) EMMI rendelettel megállapított 5/A–5/C. §-t azokra a Biztos Kezdet Gyerekházakra kell alkalmazni, amelyek a Társadalmi Megújulás Operatív Program és a Norvég Finanszírozási Mechanizmus keretében adott támogatásból (a továbbiakban együtt: európai uniós forrás) jöttek létre és befejezték az európai uniós forráshoz kapcsolódó projektet.
-
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^413]
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^441]
 
 ## A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
@@ -12,9 +10,9 @@ I. Alapellátások
 
 | a) | Gyermekjóléti szolgáltatási körzet (700 fő gyermek) | családgondozó 1 fő |
 
-|  |  | – gondozotti létszám: a gondozási-nevelési terv szerint, adott időszakban egyidejűleg családgondozásban részesülő 45 gyermek vagy 25 család |  |
+|  | – gondozotti létszám: a gondozási-nevelési terv szerint, adott időszakban egyidejűleg családgondozásban részesülő 45 gyermek vagy 25 család |  |
 
-| b) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (3000 gyermek) | családgondozó* (általános gyermekjóléti szolgáltatások) 3 fő |
+| b) | Önálló gyermekjóléti szolgálat vagy a gyermekjóléti szolg. feladatait is ellátó családsegítő szolgálat, illetve több célú intézmény önálló szakmai egysége (3000 gyermek) | családgondozó (általános gyermekjóléti szolgáltatások) 3 fő |
 
 |  | – gondozotti létszám: 45 gyermek vagy 25 család |  |
 
@@ -56,13 +54,11 @@ I. Alapellátások
 
 | – családgondozó asszisztens 2 fő |
 
-|  | Módszertani feladatot ellátó gyermekjóléti szolgálatnál | módszertani szaktanácsadó 1 fő |
-
 | 2. | Bölcsődei ellátás | kisgyermeknevelő | 2 fő |
 
-|  | Gyermekcsoportonként (max. 12 fő, 2 évesnél idősebb gyermekek csoportjában max. 14 fő, integrált csoportban max. 10 fő, kizárólag fogyatékosokat ellátó csoportban max. 6 fő) | orvos | havi 4 óra |
+|  | Gyermekcsoportonként (max. 12 fő, 2 évesnél idősebb gyermekek csoportjában max. 14 fő, integrált csoportban max. 10 fő, kizárólag sajátos nevelési igényű gyermekeket ellátó csoportban max. 6 fő) |  |  |
 
-|  | Bölcsődénként |  |  |
+|  | Bölcsődénként | orvos | havi 4 óra |
 
 |  |  | intézményvezető/vezető | 1 fő |
 
@@ -76,11 +72,9 @@ I. Alapellátások
 
 |  |  | kisgyermeknevelő |  |
 
-|  | fogyatékos gyermekeket is ellátó bölcsődében | gyógypedagógus, gyógytornász, konduktor, gyógypedagógiai asszisztens (létszámuk fenntartói döntés alapján kerül megállapításra) |  |
+|  | sajátos nevelési igényű gyermekeket is ellátó bölcsődében | gyógypedagógus, gyógytornász, konduktor, gyógypedagógiai asszisztens (létszámuk fenntartói döntés alapján kerül megállapításra) |  |
 
-|  | egyesített bölcsődei intézményben, bölcsődei igazgatóságon, illetve módszertani feladatot segítő bölcsődében | szaktanácsadó | 1 fő |
-
-|  | regionális módszertani bölcsődében | szaktanácsadó | 3 fő |
+|  | egyesített bölcsődei intézményben, bölcsődei igazgatóságon, illetve többcélú intézmény esetében, ha korábban a bölcsődei ellátás szervezetileg egyesített bölcsődei intézményként vagy bölcsődei igazgatóságként működött | szaktanácsadó | 1 fő |
 
 | 3. | Családi napközi az ellátható gyermekek száma a jogszabályban meghatározottak szerint | családi napközi szolgáltatást nyújtó személy a) családi napközit működtetők felkészítő tanfolyamával rendelkező személy vagy b) családi napközit működtetők felkészítő tanfolyamán túl egyéb szakképesítéssel rendelkező, a fenntartó döntése alapján egyéb munkakörben foglalkoztatott nevelő, vagy kisgyermeknevelő, vagy segédgondozó |  |
 
@@ -110,8 +104,6 @@ I. Alapellátások
 
 |  |  | gyermekvédelmi ügyintéző vagy növendékügyi előadó 1 fő |
 
-|  | Módszertani feladatot ellátó intézményben | módszertani szaktanácsadó 2 fő |
-
 | 7. | Családok átmeneti otthona | intézményvezető/szakmai vezető 1 fő |
 
 |  | (min. 12, max. 40 férőhely) |  |  |
@@ -128,11 +120,6 @@ I. Alapellátások
 
 |  |  | jogász heti 5 óra |
 
-|  | Módszertani feladatot ellátó intézményben | módszertani szaktanácsadó 2 fő |
-
-## * Közülük 1 családgondozó ellátja az intézményvezetői vagy szakmai egység vezetői feladatokat.
-
 II. Szakellátások
 
-[^412]: A 166. §-t a 20/2013. (III. 5.) EMMI rendelet 2. §-a iktatta be.
-[^413]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^441]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.

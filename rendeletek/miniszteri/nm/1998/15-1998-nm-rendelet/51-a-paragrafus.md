@@ -1,33 +1,33 @@
 ## Alternatív napközbeni ellátás
 
-51/A. §[^172] (1)[^173] A gyermekek napközbeni ellátása körébe tartozó, a Gyvt. 44/A. §-ában szabályozott tevékenységek (a továbbiakban: alternatív napközbeni ellátás) a helyi adottságoktól és lehetőségektől függően, a helyi igényekhez igazodóan, az ellátott célcsoport életkori sajátosságainak megfelelően megszervezhetőek minden, a gyermekek csoportos foglalkoztatására alkalmas épületben, így különösen közösségi, művelődési vagy ifjúsági házban, családsegítő és gyermekjóléti szolgálatnál, iskolában, óvodában, illetve ezek önálló helyiségében, továbbá játszótereken.
+51/A. §[^186] (1)[^187] A gyermekek napközbeni ellátása körébe tartozó, a Gyvt. 44/A. §-ában szabályozott tevékenységek (a továbbiakban: alternatív napközbeni ellátás) a helyi adottságoktól és lehetőségektől függően, a helyi igényekhez igazodóan, az ellátott célcsoport életkori sajátosságainak megfelelően megszervezhetőek minden, a gyermekek csoportos foglalkoztatására alkalmas épületben, így különösen közösségi, művelődési vagy ifjúsági házban, családsegítő és gyermekjóléti szolgálatnál, iskolában, óvodában, illetve ezek önálló helyiségében, továbbá játszótereken.
 
-(2)[^174] Az alternatív napközbeni ellátás valamely gyermekekből álló célcsoport életkori sajátosságaihoz, illetve a szülők speciális élethelyzetéhez igazodó, a gyermekek társadalmi beilleszkedését és közösségi tevékenységét elősegítő, a helyi szükségleteknek és igényeknek megfelelően változó módon, vagy rendszeres időközönként tematikus program szerint, meghatározott időtartamokra megszervezett, önálló szakmai programban rögzített tevékenység, amelynek biztosítása során kiemelt figyelmet kell tulajdonítani a szocializációnak, a korai, egyéni és csoportos fejlesztésnek, a prevenciónak.
+(2)[^188] Az alternatív napközbeni ellátás valamely gyermekekből álló célcsoport életkori sajátosságaihoz, illetve a szülők speciális élethelyzetéhez igazodó, a gyermekek társadalmi beilleszkedését és közösségi tevékenységét elősegítő, a helyi szükségleteknek és igényeknek megfelelően változó módon, vagy rendszeres időközönként tematikus program szerint, meghatározott időtartamokra megszervezett, önálló szakmai programban rögzített tevékenység, amelynek biztosítása során kiemelt figyelmet kell tulajdonítani a szocializációnak, a korai, egyéni és csoportos fejlesztésnek, a prevenciónak.
 
-(3)[^175] Az alternatív napközbeni ellátás a (4)–(10) bekezdés szerinti formákban és tartalommal szervezhető meg.
+(3)[^189] Az alternatív napközbeni ellátás a (4)–(10) bekezdés szerinti formákban és tartalommal szervezhető meg.
 
-(4)[^176] A játszótéri program szakemberek közreműködésével, folyamatos nyitva tartással szabadidős, egyéni, csoportos, közösség-, érték- és normateremtő tevékenységeket biztosít a gyermekeknek és a szülőknek.
+(4)[^190] A játszótéri program szakemberek közreműködésével, folyamatos nyitva tartással szabadidős, egyéni, csoportos, közösség-, érték- és normateremtő tevékenységeket biztosít a gyermekeknek és a szülőknek.
 
-(5)[^177] A játszóház elsősorban a játéktevékenységhez kötődő, egyéni készségeket és képességeket fejlesztő, családi nevelést segítő, illetve a szülő-gyermek kapcsolatot erősítő szolgáltatás, amelyben a szülő és a gyermek közösen vesz részt.
+(5)[^191] A játszóház elsősorban a játéktevékenységhez kötődő, egyéni készségeket és képességeket fejlesztő, családi nevelést segítő, illetve a szülő-gyermek kapcsolatot erősítő szolgáltatás, amelyben a szülő és a gyermek közösen vesz részt.
 
-(6)[^178] A játszóház integratív családi játéktár szolgáltatása segíti a családokat a családi kapcsolatok harmonizálásával, a gyermekek fejlődésével, a neveléssel és életvezetéssel kapcsolatos problémák megoldásában, valamint a családi konfliktusok és a pszichés fejlődési zavarok megelőzésében.
+(6)[^192] A játszóház integratív családi játéktár szolgáltatása segíti a családokat a családi kapcsolatok harmonizálásával, a gyermekek fejlődésével, a neveléssel és életvezetéssel kapcsolatos problémák megoldásában, valamint a családi konfliktusok és a pszichés fejlődési zavarok megelőzésében.
 
-(7)[^179] A játszóház keretében nem rendszeres jelleggel, esetenként nem az egész napos nyitva tartás teljes időtartama alatt időszakos gyermekfelügyelet biztosítható.
+(7)[^193] A játszóház keretében nem rendszeres jelleggel, esetenként nem az egész napos nyitva tartás teljes időtartama alatt időszakos gyermekfelügyelet biztosítható.
 
-(8)[^180] A klubfoglalkozás az óvodán és az iskolán kívüli nevelést támogató, elsősorban sport- és szabadidős tevékenységekhez kötődő, a gyermekek, illetve szüleik hasznos időtöltését célzó szolgáltatás.
+(8)[^194] A klubfoglalkozás az óvodán és az iskolán kívüli nevelést támogató, elsősorban sport- és szabadidős tevékenységekhez kötődő, a gyermekek, illetve szüleik hasznos időtöltését célzó szolgáltatás.
 
-(9)[^181] A klubfoglalkozás keretében gyermekfelügyelet biztosítható azokban az időszakokban, amikor a szülő nem tudja megoldani a gyermek napközbeni felügyeletét, így különösen az óvoda és az iskola nyitvatartási idején túli időszakban, valamint az óvodai, iskolai szünet időtartama alatt.
+(9)[^195] A klubfoglalkozás keretében gyermekfelügyelet biztosítható azokban az időszakokban, amikor a szülő nem tudja megoldani a gyermek napközbeni felügyeletét, így különösen az óvoda és az iskola nyitvatartási idején túli időszakban, valamint az óvodai, iskolai szünet időtartama alatt.
 
-(10)[^182] Az azonos, illetve hasonló problémákkal küzdő, nehéz vagy szociálisan hátrányos élethelyzetű, különösen a csellengő vagy egyéb okból veszélyeztetett gyermekek számára szervezett személyiségfejlesztő, valamint önsegítő vagy kortárssegítő közösségépítő tematikus csoportfoglalkozások a (4)–(9) bekezdésben meghatározott bármelyik formában megszervezhetők.
+(10)[^196] Az azonos, illetve hasonló problémákkal küzdő, nehéz vagy szociálisan hátrányos élethelyzetű, különösen a csellengő vagy egyéb okból veszélyeztetett gyermekek számára szervezett személyiségfejlesztő, valamint önsegítő vagy kortárssegítő közösségépítő tematikus csoportfoglalkozások a (4)–(9) bekezdésben meghatározott bármelyik formában megszervezhetők.
 
-[^172]: Az 51/A. §-t és az előtte lévő alcímet a 46/2003. (VIII. 8.) ESZCSM rendelet 36. §-a iktatta be.
-[^173]: Az 51/A. § (1) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 13. § c) pontjával megállapított szöveg.
-[^174]: Az 51/A. § (2) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 13. § c) pontjával megállapított szöveg.
-[^175]: Az 51/A. § (3) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 8. §-ával megállapított szöveg.
-[^176]: Az 51/A. § (4) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^177]: Az 51/A. § (5) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^178]: Az 51/A. § (6) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^179]: Az 51/A. § (7) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^180]: Az 51/A. § (8) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^181]: Az 51/A. § (9) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^182]: Az 51/A. § (10) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^186]: Az 51/A. §-t és az előtte lévő alcímet a 46/2003. (VIII. 8.) ESZCSM rendelet 36. §-a iktatta be.
+[^187]: Az 51/A. § (1) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 13. § c) pontjával megállapított szöveg.
+[^188]: Az 51/A. § (2) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 13. § c) pontjával megállapított szöveg.
+[^189]: Az 51/A. § (3) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 8. §-ával megállapított szöveg.
+[^190]: Az 51/A. § (4) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^191]: Az 51/A. § (5) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^192]: Az 51/A. § (6) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^193]: Az 51/A. § (7) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^194]: Az 51/A. § (8) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^195]: Az 51/A. § (9) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^196]: Az 51/A. § (10) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.

@@ -1,15 +1,15 @@
-41. § (1)[^143] A fogyatékos gyermek habilitációs céllal a korai fejlesztés feltételeivel rendelkező bölcsődébe abban az esetben vehető fel és gondozható, ha
+## 40/A. §[^151] A fenntartó minden év március 1-jéig tájékoztatja a szülőket a bölcsőde nyári nyitvatartási rendjéről.
 
-a) a Kt. szerinti szakértői és rehabilitációs bizottság szakvéleményében erre javaslatot tesz, és
+41. § (1)[^152] A sajátos nevelési igényű gyermek bölcsődébe abban az esetben vehető fel, ha a nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. § 25. pontjában foglaltak szerinti sajátos nevelési igényét megállapították.
 
-b) a bölcsődei gondozás során nem veszélyezteti sem maga, sem társai testi épségét.
+(2)[^153] A sajátos nevelési igényű gyermek bölcsődei nevelésben, gondozásban legfeljebb annak az évnek az augusztus 31. napjáig vehet részt, amely évben a hatodik életévét betölti.
 
-(2)[^144] A fogyatékos gyermek a bölcsődei korai fejlesztésben, gondozásban vagy fejlesztő felkészítésben legfeljebb a hatodik életévének betöltését követő augusztus 31-éig vehet részt. A gyermek képességeiről ötödik életévének betöltésekor a szakértői bizottságnak szakvéleményben kell ismételten nyilatkoznia.
+(3)[^154] Sajátos nevelési igényű gyermeket bölcsődébe próbaidővel lehet felvenni, melynek legrövidebb időtartama egy hónap.
 
-(3) Fogyatékos gyermeket bölcsődébe próbaidővel lehet felvenni, melynek legrövidebb időtartama egy hónap.
+(4)[^155] A próbaidő letelte után a gyermekkel közvetlenül foglalkozó, a bölcsőde orvosából, gyógypedagógusából, kisgyermeknevelőjéből és vezetőjéből álló szakmai csoport véleményének figyelembevételével kell dönteni a gyermek további neveléséről, gondozásáról.
 
-(4)[^145] A próbaidő letelte után a gyermekkel közvetlenül foglalkozó szakmai csoport (orvos, gyógypedagógus, gondozónő) együttes véleménye figyelembevételével kell dönteni a gyermek további gondozásáról. Elutasítás esetén a gyermeket további korai fejlesztése érdekében a 36. § (4) bekezdése szerinti szakértői bizottsághoz kell irányítani.
-
-[^143]: A 41. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 31. §-ával megállapított szöveg.
-[^144]: A 41. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 31. §-ával megállapított szöveg.
-[^145]: A 41. § (4) bekezdésének második mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (1) bekezdésének b) pontja szerint módosított szöveg.
+[^151]: A 40/A. §-t a 49/2013. (VII. 10.) EMMI rendelet 5. §-a iktatta be.
+[^152]: A 41. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^153]: A 41. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^154]: A 41. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § d) pontja szerint módosított szöveg.
+[^155]: A 41. § (4) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
 ## 152. § Ha a szakszolgálat azt tapasztalja, hogy a gyám a kötelességeit nem teljesíti, vagy nem megfelelően teljesíti, javaslatot tehet a gyámhivatalnak a gyámi jogkör korlátozására, illetve a gyám felmentésére vagy elmozdítására.
 
-## Kapcsolattartás, családgondozás, utógondozás[^393]
+## Kapcsolattartás, családgondozás, utógondozás[^420]
 
-153. §[^394] (1) A szakszolgálat a nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
+153. §[^421] (1) A szakszolgálat a nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
 
 a) a gyermek gyámját, gondozóját segíti a kapcsolattartás során felmerülő problémák megoldásában,
 
@@ -30,5 +30,5 @@ c) segíti a gyermeket (fiatal felnőttet) önálló életvitelének kialakítá
 
 (5) Ha a szakszolgálat az utógondozói ellátásban részesülő fiatal felnőtt számára külső férőhelyen biztosít lakhatást, a külső férőhely vonatkozásában a 124. § (9) bekezdésében foglaltak az irányadóak.
 
-[^393]: A 153. §-t megelőző alcím a 28/2010. (XII. 30.) NEFMI rendelet 21. §-ával megállapított szöveg.
-[^394]: A 153. § a 28/2010. (XII. 30.) NEFMI rendelet 22. §-ával megállapított szöveg.
+[^420]: A 153. §-t megelőző alcím a 28/2010. (XII. 30.) NEFMI rendelet 21. §-ával megállapított szöveg.
+[^421]: A 153. § a 28/2010. (XII. 30.) NEFMI rendelet 22. §-ával megállapított szöveg.

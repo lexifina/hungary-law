@@ -1,4 +1,4 @@
-| Ellátás | Munkakör/fő |
+| (Ellátás | Munkakör/fő) |
 
 | 1. Nevelőszülői hálózat | szakmai vezető | 1 fő |
 
@@ -8,170 +8,158 @@
 
 |  |  | gondozó segédgondozó |  |
 
-| Módszertani feladatot ellátó intézményben | módszertani szaktanácsadó | 2 fő |
+| 2. Gyermekotthon | intézményvezető | 1 fő |
 
-| 2. | Gyermekotthon | intézményvezető | 1 fő |
+| (max. 48 férőhely, max. 12 gyermek/csoport) |  |  |
 
-|  | (max. 48 férőhely, max. 12 gyermek/csoport) |  |  |
+| gyermekcsoportonként | nevelő | 1 fő |
 
-|  | gyermekcsoportonként | nevelő | 1 fő |
+|  | gyermekvédelmi asszisztens | 1 fő |
 
-|  |  | gyermekvédelmi asszisztens | 1 fő |
+|  | gyermekfelügyelő | 3 fő |
 
-|  |  | gyermekfelügyelő | 3 fő |
+|  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
 
-|  |  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
+|  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra |  |
 
-|  |  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra |  |
+|  | vonatkozó összlétszám 5 alá nem kerül) |  |
 
-|  |  | vonatkozó összlétszám 5 alá nem kerül) |  |
+|  | családgondozó (utógondozó) | 10 óra/hét |
 
-|  |  | családgondozó (utógondozó) | 10 óra/hét |
+| 2/a) Lakásotthon (max. 12 fő) | nevelő | 1 fő |
 
-|  | Módszertani feladatot ellátó intézményben | módszertani szaktanácsadó | 2 fő |
+|  | gyermekvédelmi asszisztens | 1 fő |
 
-| 2/a) | Lakásotthon (max. 12 fő) | nevelő | 1 fő |
+|  | gyermekfelügyelő | 3 fő |
 
-|  |  | gyermekvédelmi asszisztens | 1 fő |
+|  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
 
-|  |  | gyermekfelügyelő | 3 fő |
+|  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra |  |
 
-|  |  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
+|  | vonatkozó összlétszám 5 alá nem kerül) |  |
 
-|  |  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra |  |
+|  | családgondozó (utógondozó) | 10 óra/hét |
 
-|  |  | vonatkozó összlétszám 5 alá nem kerül) |  |
+| 2/b) Speciális gyermekotthon | intézményvezető | 1 fő |
 
-|  |  | családgondozó (utógondozó) | 10 óra/hét |
+| (max. 40 férőhely, max. 8 gyermek/csoport) |  |  |
 
-|  | Módszertani feladatot ellátó lakásotthonban | módszertani szaktanácsadó | 1 fő |
+| gyermekcsoportonként | nevelő | 2 fő |
 
-| 2/b) | Speciális gyermekotthon | intézményvezető | 1 fő |
+|  | gyermekvédelmi asszisztens | 1 fő |
 
-|  | (max. 40 férőhely, max. 8 gyermek/csoport) |  |  |
+|  | gyermekfelügyelő | 2 fő |
 
-|  | gyermekcsoportonként | nevelő | 2 fő |
+|  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
 
-|  |  | gyermekvédelmi asszisztens | 1 fő |
+|  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra |  |
 
-|  |  | gyermekfelügyelő | 2 fő |
+|  | vonatkozó összlétszám 5 alá nem kerül) |  |
 
-|  |  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
+|  | családgondozó (utógondozó) | 10 óra/hét |
 
-|  |  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra |  |
+|  | pszichológus | 1 fő/3 csoport |
 
-|  |  | vonatkozó összlétszám 5 alá nem kerül) |  |
+|  | gyógypedagógus vagy fejlesztő pedagógus | 1 fő/3 csoport |
 
-|  |  | családgondozó (utógondozó) | 10 óra/hét |
+|  | orvos: létszámuk fenntartói döntés alapján kerül megállapításra |  |
 
-|  |  | pszichológus | 1 fő/3 csoport |
+|  | növendékügyi előadó vagy gyermekvédelmi ügyintéző |  |
 
-|  |  | gyógypedagógus vagy fejlesztő pedagógus | 1 fő/3 csoport |
+|  |  | 1 fő/ intézmény |
 
-|  |  | orvos: létszámuk fenntartói döntés alapján kerül megállapításra |  |
+| 2/c) Különleges gyermekotthon (max. 40 férőhely) | intézményvezető | 1 fő |
 
-|  |  | növendékügyi előadó vagy gyermekvédelmi ügyintéző |  |
+| 2/ca) Tartósan beteg, illetve fogyatékos gyermekeket ellátó |  |  |
 
-|  |  |  | 1 fő/ intézmény |
+| (csoportlétsz. a 128/A. § bek. szerint) |  |  |
 
-|  | Módszertani feladatot ellátó intézményben | módszertani szaktanácsadó | 2 fő |
+| gyermekcsoportonként | nevelő | 1 fő |
 
-| 2/c) | Különleges gyermekotthon (max. 40 férőhely) | intézményvezető | 1 fő |
+|  | gyermekvédelmi asszisztens | 1 fő |
 
-| 2/ca) | Tartósan beteg, illetve fogyatékos gyermekeket ellátó |  |  |
+|  | gyermekfelügyelő | 3 fő |
 
-|  | (csoportlétsz. a 128/A. § bek. szerint) |  |  |
+|  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
 
-|  | gyermekcsoportonként | nevelő | 1 fő |
+|  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra vonatkozó összlétszám 5 alá nem kerül) |  |
 
-|  |  | gyermekvédelmi asszisztens | 1 fő |
+|  | családgondozó, utógondozó | 10 óra/hét |
 
-|  |  | gyermekfelügyelő | 3 fő |
+| 2/cb) 0–3 év közöttieket ellátó | kisgyermeknevelő | 4 fő |
 
-|  |  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
+| 3 éven aluliakat ellátó csoporthoz (max. 8 fő/csoport) vagy 3 éven aluli fogyatékos gyermekeket is ellátó integrált csoporthoz (max. 6 fő/csoport) | családgondozó | 10 óra/hét/ csoport |
 
-|  |  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra vonatkozó összlétszám 5 alá nem kerül) |  |
+|  | nevelő | 1 fő/2 csoport |
 
-|  |  | családgondozó, utógondozó | 10 óra/hét |
+|  | tejkonyhavezető | 1 fő/ intézmény |
 
-| 2/cb) | 0–3 év közöttieket ellátó | kisgyermeknevelő | 4 fő |
+|  | gazdasági nővér | 1 fő/ intézmény |
 
-|  | 3 éven aluliakat ellátó csoporthoz (max. 8 fő/csoport) vagy 3 éven aluli fogyatékos gyermekeket is ellátó integrált csoporthoz (max. 6 fő/csoport) | családgondozó | 10 óra/hét/ csoport |
+|  | gyermekszakorvos | átlag napi 1 óra/csoport |
 
-|  |  | nevelő | 1 fő/2 csoport |
+| 3 éven aluliakat ellátó intézményben éjszakai szolgálat teljesítésére | kisgyermeknevelő | 1 fő/2 csoport |
 
-|  |  | tejkonyhavezető | 1 fő/ intézmény |
+| 2/d) Utógondozó otthon (max. 40 férőhely) | intézményvezető/szakmai vezető | 1 fő/ intézmény |
 
-|  |  | gazdasági nővér | 1 fő/ intézmény |
+| 25 férőhelyig | nevelő | 2 fő/ intézmény |
 
-|  |  | gyermekszakorvos | átlag napi 1 óra/csoport |
+|  | gyermekvédelmi asszisztens | 1 fő |
 
-|  | 3 éven aluliakat ellátó intézményben éjszakai szolgálat teljesítésére | kisgyermeknevelő | 1 fő/2 csoport |
+|  | családgondozó (utógondozó) | 1 fő/ intézmény |
 
-| 2/d) | Utógondozó otthon (max. 40 férőhely) | intézményvezető/szakmai vezető | 1 fő/ intézmény |
+| 25–40 férőhelyig | nevelő | 4 fő/ intézmény |
 
-|  | 25 férőhelyig | nevelő | 2 fő/ intézmény |
+|  | gyermekvédelmi asszisztens | 1 fő |
 
-|  |  | gyermekvédelmi asszisztens | 1 fő |
+|  | családgondozó (utógondozó) | 2 fő/ intézmény |
 
-|  |  | családgondozó (utógondozó) | 1 fő/ intézmény |
+| Mindegyik típusú ellátásban | gyermekotthon-vezető | 1 fő |
 
-|  | 25–40 férőhelyig | nevelő | 4 fő/ intézmény |
+| [2, 2/a), 2/c) pont] |  |  |
 
-|  |  | gyermekvédelmi asszisztens | 1 fő |
+| 40, illetve 48 gyermekre | pszichológus | 1 fő |
 
-|  |  | családgondozó (utógondozó) | 2 fő/ intézmény |
+|  | növendékügyi előadó, vagy gyermekvédelmi ügyintéző | 1 fő |
 
-|  | Mindegyik típusú ellátásban | gyermekotthon-vezető | 1 fő |
+|  | gyógypedagógus vagy fejlesztő pedagógus | 1 fő |
 
-|  | [2, 2/a), 2/c) pont] |  |  |
+| 3. Területi gyermekvédelmi szakszolgálat | intézményvezető | 1 fő |
 
-|  | 40, illetve 48 gyermekre | pszichológus | 1 fő |
+|  | pszichológus | 1 fő/évi 100 új örökbefogadói |
 
-|  |  | növendékügyi előadó, vagy gyermekvédelmi ügyintéző | 1 fő |
+|  |  | alkalmassági vizsgálatra |
 
-|  |  | gyógypedagógus vagy fejlesztő pedagógus | 1 fő |
+|  | családgondozó | 1 fő/48 gyermek legfeljebb 30 vér szerinti családban |
 
-| 3. | Területi gyermekvédelmi szakszolgálat | intézményvezető | 1 fő |
+|  | utógondozó | 1 fő/48 fiatal felnőtt |
 
-|  |  | pszichológus | 1 fő/évi 100 új örökbefogadói |
+|  | örökbefogadási tanácsadó | 1 fő/55–65 örökbe- fogadási eset* |
 
-|  |  |  | alkalmassági vizsgálatra |
+|  | hivatásos gyám | 1 fő/48 gyermek |
 
-|  |  | családgondozó | 1 fő/48 gyermek legfeljebb 30 vér szerinti családban |
+|  | eseti gondnok, vagyonkezelő gondnok | 1 fő/60 gyermek |
 
-|  |  | utógondozó | 1 fő/48 fiatal felnőtt |
+|  | gyámi, gondozói tanácsadó | 1 fő/max. 100 gyermek |
 
-|  |  | örökbefogadási tanácsadó | 1 fő/55–65 örökbe- fogadási eset* |
+|  | jogász | létszámuk fenntartói döntés alapján kerül megállapításra |
 
-|  |  | hivatásos gyám | 1 fő/48 gyermek |
+|  | gyermekvédelmi ügyintéző | 5 fő/ intézmény |
 
-|  |  | eseti gondnok, vagyonkezelő gondnok | 1 fő/60 gyermek |
+| Megyei/fővárosi gyermekvédelmi szakértői bizottság | vezető | 1 fő |
 
-|  |  | gyámi, gondozói tanácsadó | 1 fő/max. 100 gyermek |
+|  | pszichológus | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
 
-|  |  | jogász | létszámuk fenntartói döntés alapján kerül megállapításra |
+|  | gyógypedagógus | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
 
-|  |  | gyermekvédelmi ügyintéző | 5 fő/ intézmény |
+|  | pszichiáter | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
 
-|  | Megyei/fővárosi gyermekvédelmi szakértői bizottság | vezető | 1 fő |
+|  | orvos | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
 
-|  |  | pszichológus | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
-
-|  |  | gyógypedagógus | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
-
-|  |  | pszichiáter | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
-
-|  |  | orvos | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
-
-|  |  | családgondozó | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
-
-|  | Módszertani feladatokat ellátó | módszertani szaktanácsadó | 2 fő |
-
-|  | területi gyermekvédelmi szakszolgálatnál |  |  |
+|  | családgondozó | 1 fő/évi 100 új vizsgálatra kerülő gyermek |
 
 ## * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok (házaspár egynek számít) száma, folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését).
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^414]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^442]
 
-[^414]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^442]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) bekezdése szerint módosított szöveg.
