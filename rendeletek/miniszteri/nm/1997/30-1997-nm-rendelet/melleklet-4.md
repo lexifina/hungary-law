@@ -2,7 +2,7 @@
 
 ## Lányok részére:
 
-## Egészségügyi, Szociális és Családügyi Minisztérium
+## Emberi Erőforrások Minisztériuma
 
 ## Rákospalotai Javítóintézete
 
@@ -10,7 +10,7 @@
 
 ## Fiúk részére:
 
-## Egészségügyi, Szociális és Családügyi Minisztérium
+## Emberi Erőforrások Minisztériuma
 
 ## Aszódi Javítóintézete
 
@@ -18,7 +18,7 @@
 
 ## Elsősorban Hajdú-Bihar megye vonatkozásában a
 
-## Egészségügyi, Szociális és Családügyi Minisztérium
+## Emberi Erőforrások Minisztériuma
 
 ## Debreceni Javítóintézete
 
@@ -28,7 +28,7 @@
 
 ## Lányok részére:
 
-## Egészségügyi, Szociális és Családügyi Minisztérium
+## Emberi Erőforrások Minisztériuma
 
 ## Rákospalotai Javítóintézete
 
@@ -36,13 +36,13 @@
 
 ## Fiúk részére:
 
-## Egészségügyi, Szociális és Családügyi Minisztérium
+## Emberi Erőforrások Minisztériuma
 
 ## Budapesti Javítóintézete
 
 ## 1032 Budapest III., Szőlő u. 60.
 
-## Egészségügyi, Szociális és Családügyi Minisztérium
+## Emberi Erőforrások Minisztériuma
 
 ## Debreceni Javítóintézete
 

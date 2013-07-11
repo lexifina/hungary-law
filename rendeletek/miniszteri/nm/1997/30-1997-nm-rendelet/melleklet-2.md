@@ -40,6 +40,6 @@
 
 ## Rendész helyi döntés alapján, feladatoktól függően
 
-2. számú melléklet a 30/1997. (X. 11.) NM rendelethez[^41]
+2. számú melléklet a 30/1997. (X. 11.) NM rendelethez[^56]
 
-[^41]: A 2. számú melléklet a 4/2002. (IX. 4.) ESZCSM rendelet 7. §-ával megállapított szöveg.
+[^56]: A 2. számú melléklet a 4/2002. (IX. 4.) ESZCSM rendelet 7. §-ával megállapított szöveg.
