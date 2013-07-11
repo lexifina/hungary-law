@@ -16,6 +16,8 @@
 
 ## Határidő: azonnal
 
-## 8. visszavonja az Államreform Operatív Program 2011–2013. időszakra szóló akciótervének módosításáról, az Államreform Operatív Program tartaléklistájáról szóló 1071/2013. (II. 21.) Korm. határozatot.
+## 8.[^1]
 
 1. melléklet az 1428/2013. (VII. 10.) Korm. határozathoz
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
