@@ -18,9 +18,9 @@
 
 | 1301 | A törvényszéki végrehajtók ügyeire vonatkozó ügyforgalmi és tevékenységi adatok | AGY | Negyedévenkénti, havi bontásban | törvényszékek | a tárgynegyedévet követő második hónap utolsó napja |  |
 
-| 1621 | Önkormányzati törzsadattár | AGY | Negyedévenkénti | fővárosi és megyei kormányhivatalok | a tárgyidőszakot követő hó 10. |  |
+| 1621 | Önkormányzati törzsadattár | AGY | Félévenkénti | fővárosi és megyei kormányhivatalok | a tárgyidőszakot követő hó 10. |  |
 
-| 1622 | Önkormányzati törvényességi felügyeleti információs rendszer | AGY | Negyedévenkénti | fővárosi és megyei kormányhivatalok | a tárgyidőszakot követő hó 10. |  |
+| 1622 | Önkormányzati törvényességi felügyeleti információs rendszer | AGY | Félévenkénti | fővárosi és megyei kormányhivatalok | a tárgyidőszakot követő hó 10. |  |
 
 | 1730 | Önálló bírósági végrehajtók tevékenysége | AGY | Negyedévenkénti, havi bontásban | önálló bírósági végrehajtók | a tárgynegyedévet követő második hónap utolsó napja |  |
 
@@ -36,7 +36,7 @@
 
 ## Program Adatkörök
 
-## 2K27257_1
+## 3K54120M_1
 
 | nyilván- tartási száma |  | Adatgyűjtés | - Adatátvétel |
 
