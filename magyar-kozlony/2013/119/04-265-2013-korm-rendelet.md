@@ -1,0 +1,150 @@
+# A Kormány 265/2013. (VII. 11.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 119. szám, 2013. július 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4a1d9dd614b0e4adae2f4dd0f90f574d0509e79d/dokumentumok/588cb8fbc9aa1a64f4d9256e4198589e08ee144f/letoltes)
+
+---
+
+A Kormány 265/2013. (VII. 11.) Korm. rendelete
+egyes foglalkoztatási tárgyú kormányrendeletek módosításáról
+A Kormány
+az 1. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+40. § (4) bekezdésében,
+a 2. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+40. § (5) bekezdésében,
+az 3. alcím tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 51. § (6) bekezdésében,
+a 4. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+47. § (1) bekezdésében, a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés a) pontjában, a munkaügyi
+ellenőrzésről szóló 1996. évi LXXV. törvény 9. § (5) bekezdésében, a szakképzésről szóló 2011. évi CLXXXVII. törvény
+88. § (1) bekezdésében, a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával
+és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § b)–d) pontjában, az egyes
+adótörvények módosításáról szóló 2007. évi CXXVI. törvény 357. § (1) bekezdés a) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+
+1. A munkába járással összefüggő terhek csökkentését célzó támogatásokról,
+valamint a munkaerő-toborzás támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet módosítása
+1. § (1) A munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás
+támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet (a továbbiakban: R1.) 7. § (3) bekezdése helyébe a következő
+rendelkezés lép:
+„(3) A 4. §-ban meghatározott támogatást a munkavállaló részére a kifizetést igazoló bizonylatok bemutatását
+követően utólag kell folyósítani. A munkavállaló kérelmére a költségek megelőlegezése céljából a fővárosi és
+megyei kormányhivatal járási (fővárosi kerületi) hivatalának foglalkoztatási, munkaerőpiaci feladatokat ellátó ágazati
+szakigazgatási szerve (a továbbiakban: kirendeltség) egy alkalommal a bérleti szerződésben megállapított óvadék
+(kaució) összegéig, de legfeljebb 2 havi támogatási összeg mértékéig előleget nyújt.”
+(2) Az R1. 4. § (8) bekezdés a) pontjában a„közalkalmazotti jogviszony, valamint” szövegrész helyébe a„közalkalmazotti
+jogviszony, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény
+szerinti hivatásos szolgálati jogviszony, a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati
+viszony, valamint”szöveg lép.
+2. A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció:„Decentralizált programok
+a hátrányos helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program
+1. prioritás 1.1.1. konstrukció:„Megváltozott munkaképességű emberek rehabilitációjának
+és foglalkoztatásának segítése”keretében nyújtható támogatásokról szóló
+132/2009. (VI. 19.) Korm. rendelet módosítása
+2. §
+A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos
+helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció:
+„Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése” keretében
+nyújtható támogatásokról szóló 132/2009. (VI. 19.) Korm. rendelet 1. § c) pontjában a „munkaügyi feladatot ellátó
+szakigazgatási szervére” szövegrész helyébe a „foglalkoztatási, munkaerő-piaci feladatot ellátó szakigazgatási
+szervére”szöveg lép.
+3. A munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet
+módosítása
+3. §
+A munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet 2. § c) pontja helyébe
+a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„c) hazautazás: a munkahelyről legfeljebb hetente egyszer – az általános munkarendtől eltérő munkaidő-beosztás
+esetén legfeljebb havonta négyszer – a lakóhelyre történő oda- és visszautazás;”
+4. A Nemzeti Munkaügyi Hivatalról és a szakmai irányítása alá tartozó szakigazgatási szervek
+feladat és hatásköréről szóló 323/2011. (XII. 28.) Korm. rendelet módosítása
+4. § (1) A Nemzeti Munkaügyi Hivatalról és a szakmai irányítása alá tartozó szakigazgatási szervek feladat és hatásköréről
+szóló 323/2011. (XII. 28.) Korm. rendelet (a továbbiakban: R2.) II. fejezete a következő 5/A. alcímmel és 5/A. §-sal
+egészül ki:
+„5/A. Az Európai Unió pénzügyi alapjainak felhasználása
+5/A. § A Hivatal foglalkoztatáspolitikai, munkavédelmi, munkaügyi, szak- és felnőttképzési feladat- és hatáskörében
+tervezi és szervezi az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési,
+foglalkoztatási, képzési és informatikai programok megvalósítását, illetve támogatást vagy ösztöndíjat folyósít.”
+(2) Az R2. 8. § (1) bekezdése a következő o) ponttal egészül ki:
+(A munkaügyi központ)
+„o) az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört
+gyakorol,”
+
+(3) Az R2. 8. § (1) bekezdése a következő p) ponttal egészül ki:
+(A munkaügyi központ)
+„p) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben
+befogadja a foglalkoztató által benyújtott munkaerőigényeket.”
+(4) Az R2. 8. § (4) bekezdése a következő h) ponttal egészül ki:
+(A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi területén első
+fokú hatósági jogkört gyakorol)
+„h) az álláskeresők vállalkozóvá válását elősegítő támogatás tőkejuttatás részével,”
+(kapcsolatos ügyekben.)
+(5) Az R2. 9. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A munkaügyi központ és a kirendeltség szervezeti egységei szabad kapacitásuk kihasználása érdekében
+foglalkoztatáspolitikai és közfoglalkoztatási feladatokat is elláthatnak.”
+(6) Az R2. 21. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezés lép:
+(A Hivatal a szakképzéssel és felnőttképzéssel összefüggő feladatai keretében)
+„c) végzi a szakmastruktúra folyamatos fejlesztését és a jogalkotáshoz szükséges előkészítő feladatokat az Országos
+Képzési Jegyzékben szereplő szakképesítések vonatkozásában, továbbá kidolgozza az Országos Képzési Jegyzék
+tervezetét és harmonizálja a nemzetközi szintezési rendszerrel, valamint a foglalkozások egységes rendszerével és
+az európai uniós irányelvekkel, javaslatot tesz annak módosítására, illetve korszerűsítésére,
+d) kidolgozza és gondozza a szakmai követelménymodulok elkészítésének egységes alapelveit, továbbá egységes
+alapelvek szerint gondozza és fejleszti az országos modultérképet, ellátja a nyilvánosságra hozatallal kapcsolatos
+feladatokat,”
+(7) Az R2. 21. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+(A Hivatal a szakképzéssel és felnőttképzéssel összefüggő feladatai keretében)
+„f) fejleszti az Európai Unió tagországainak szakképzési és felnőttképzési intézményeivel történő együttműködést,
+részt vesz hazai és nemzetközi szakképzési és felnőttképzési kutatásokban,”
+(8) Az R2. 21. § (1) bekezdés h) és i) pontja helyébe a következő rendelkezés lép:
+(A Hivatal a szakképzéssel és felnőttképzéssel összefüggő feladatai keretében)
+„h) szervezi a pedagógusok, andragógusok és az oktatási intézményvezetők és fenntartók szakmai továbbképzését,
+valamint koordinálja a speciális szakiskola szakmai tanulmányi versenyeit és a Szakmacsoportos szakmai előkészítő
+Érettségi Tantárgyak Versenyeit (SZÉTV),
+i) koordinálja és ellátja a szak- és felnőttképzéssel és fejlesztési feladatokkal kapcsolatos ügyfélszolgálati és
+tájékoztatási feladatokat, valamint on-line módon működteti a Magyar Nemzeti Observatory Irodát, a Nemzeti
+Referencia és Koordinációs Pontot, melynek keretében közzéteszi a minőségügyi keretrendszert, valamint
+koordinálja a céginformációs központ működtetését,”
+(9) Az R2. 21. § (1) bekezdés q) pontja helyébe a következő rendelkezés lép:
+(A Hivatal a szakképzéssel és felnőttképzéssel összefüggő feladatai keretében)
+„q) ellátja a Szakképzési Tankönyv és Taneszköz Tanács, a Nemzeti Képesítési Bizottság, és a Felnőttképzési
+Akkreditációs Testület titkársági feladatait, valamint koordinálja a Nemzeti Szakképzési és Felnőttképzési Tanács
+titkársági feladatainak megvalósítását,”
+(10) Az R2. 21. § (1) bekezdés s) pontja helyébe a következő rendelkezés lép:
+(A Hivatal a szakképzéssel és felnőttképzéssel összefüggő feladatai keretében)
+„s) egységes rendszerben összeállítja a megyei fejlesztési és képzési bizottságok szakképesítésekkel kapcsolatos
+beiskolázásra vonatkozó javaslatait, és ezek alapján szakmailag előkészíti a Kormány erre vonatkozó döntését,”
+(11) Az R2. 21. § (1) bekezdése a következő t) ponttal egészül ki:
+(A Hivatal a szakképzéssel és felnőttképzéssel összefüggő feladatai keretében)
+„t) kidolgozza és gondozza az Európai Szakoktatási és Szakképzési Kreditrendszer (a továbbiakban: ECVET) alapján
+a felsőoktatásba átvihető kreditrendszer egységes alapelveit.”
+(12) Az R2. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Hivatal az NFA képzési alaprészéből finanszírozott támogatásokkal, valamint a szakképzési hozzájárulással
+kapcsolatos feladatokat lát el.”
+
+(13) Az R2. 22. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A Hivatal a szakképesítésekkel összefüggő feladatai keretében)
+„b) kiadásra előkészíti és gondozza a modul rendszert és a szakmai és vizsgakövetelményeket; valamint koordinálja
+és ellátja a szakképzési kerettantervek, a szakmai tantárgyak tankönyveinek, tartalomelemeinek és tanulmányi
+segédleteinek fejlesztésével és kidolgozásával kapcsolatos feladatokat.”
+(14) Az R2. 22. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A Hivatal a szakmai vizsgákkal összefüggő feladatai keretében)
+„e) jogszabályban meghatározott hatáskörében szervezi valamennyi vizsgaidőszakra a szakmai vizsgatételek
+eljuttatását a vizsgaközpontokhoz a fővárosi és megyei kormányhivatalok útján,”
+(15) Az R2. 22. § (2) bekezdés a következő i) ponttal egészül ki:
+(A Hivatal a szakmai vizsgákkal összefüggő feladatai keretében)
+„i) az f) pont szerinti feladatát alapfeladatként végzi azon szakképesítés esetében, amelynél
+ia) nincs jogszabály alapján vizsgaszervezésre kijelölt intézmény,
+ib) nincs vizsgaszervezési engedéllyel rendelkező felnőttképzést folytató intézmény, vagy
+ic) a képzés befejezését követően fél évig nem került sor komplex szakmai vizsga megszervezésére.”
+(16) Az R2.
+a) 22. § (2) bekezdés c) pontjában a „valamennyi” szövegrész helyébe a „jogszabályban meghatározott
+hatáskörében a”,
+b) 22. § (2) bekezdés h) pontjában a„végzi”szövegrész helyébe a„koordinálja”
+szöveg lép.
+(17) Hatályát veszti az R2.
+a) 6. § (1) bekezdés p) pontja,
+b) 21. § (1) bekezdés r) pontja.
+5. Záró rendelkezések
+5. §
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
