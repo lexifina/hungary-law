@@ -4,10 +4,10 @@
 
 a) környezetének tájékoztatása az ellátott személy befogadására vonatkozóan,
 
-b)[^187] lakóhelye szerinti alapszolgáltatást nyújtó szociális szolgáltatókkal, intézményekkel való kapcsolatfelvétel,
+b)[^186] lakóhelye szerinti alapszolgáltatást nyújtó szociális szolgáltatókkal, intézményekkel való kapcsolatfelvétel,
 
 c) munkahelyi beilleszkedésének elősegítése,
 
 d) családja és a b) pont szerinti intézmények részére történő tanácsadás.
 
-[^187]: A 73. § (2) bekezdésének b) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének s) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^186]: A 73. § (2) bekezdésének b) pontja a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének s) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
