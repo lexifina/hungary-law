@@ -12,7 +12,7 @@
 
 ## a) a Magyar Testgyakorlók Köre új szakosztályainak létrehozásához és meglévő szakosztályainak fejlesztéséhez a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1299/2013. (V. 30.) Korm. határozat (a továbbiakban: Korm. határozat) szerint átcsoportosított előirányzat visszarendezését rendeli el a 3. melléklet szerint,
 
-## b) a Korm. határozatot visszavonja,
+## b)[^1]
 
 ## c) a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára 85,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a 4. melléklet szerint;
 
@@ -28,8 +28,9 @@
 
 ## Határidő: 2013. november 30.
 
-## d) a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1631/2012. (XII. 18.) Korm. határozatban a „Határidő: 2013. június 30.” szövegrész helyébe az „a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 56. Nemzetiségi támogatások alcím tekintetében: 2013. december 31.” szöveg lép.
-
-## A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1355/2012. (IX. 11.) Korm. határozat módosításáról szóló 1645/2012. (XII. 19.) Korm. határozatban a „2013. június 30-i” szövegrész helyébe a „2013. december 31-ei” szöveg lép.
+## d)[^2]
 
 1. melléklet az 1427/2013. (VII. 10.) Korm. határozathoz
+
+[^1]: A 2. pont b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
