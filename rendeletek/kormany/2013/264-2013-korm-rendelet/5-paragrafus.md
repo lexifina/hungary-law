@@ -1,0 +1,1 @@
+## „(6) Az (5) bekezdést nem kell alkalmazni akkor, ha a külső szolgáltató (1) bekezdés szerinti bevonásának indoka olyan speciális szakértelem szükségessége, amellyel a belső ellenőr képzettsége és szakmai tapasztalata ellenére nem rendelkezik, mert ahhoz elengedhetetlen valamely más szakma, szakterület ismerete is.”
