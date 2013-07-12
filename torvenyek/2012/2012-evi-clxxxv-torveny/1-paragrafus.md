@@ -6,21 +6,21 @@
 
 1. § (1) A törvény hatálya kiterjed
 
-a) minden hulladékra, a (3) bekezdésben foglalt kivételekkel,
+a) a (3) bekezdésben foglalt kivételekkel minden hulladékra,
 
-b) azokra az állati melléktermékekre, ideértve a belőlük származó feldolgozott termékeket, amelyeket a nem emberi fogyasztásra szánt állati eredetű melléktermékekről szóló jogszabályok alapján lerakásra szánnak,
+b) a hulladékképződés megelőzését szolgáló tevékenységekre,
 
-c) a hulladékképződés megelőzését szolgáló tevékenységekre, valamint
+c) a hulladékgazdálkodásra és
 
-d) a hulladékgazdálkodásra és a hulladékgazdálkodási létesítményekre.
+d) a hulladékgazdálkodási létesítményekre.
 
-(2) Jogszabály eltérő rendelkezése hiányában e törvény hatálya kiterjed
+(2) Ha a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelven kívül más uniós jogi aktust átültető vagy végrehajtó jogszabály e törvényben foglaltaktól eltérően rendelkezik, e törvény hatálya nem terjed ki
 
 a) a szennyvízre,
 
 b) az ásványi nyersanyagok kutatásából, kitermeléséből, feldolgozásából és tárolásából származó hulladékra,
 
-c) az állati melléktermékekre, ideértve a belőlük származó feldolgozott termékeket, ha azokat égetésre, valamint biogáz- vagy komposztáló üzemben történő hasznosításra szánják, valamint
+c) az állati melléktermékekre, ideértve a belőlük származó feldolgozott termékeket, kivéve, ha azokat hulladéklerakóban történő lerakásra, égetésre, valamint biogáz- vagy komposztáló üzemben történő hasznosításra szánják, valamint
 
 d) a nem vágás következtében elpusztult és ártalmatlanításra kerülő állatokra, ideértve a járványos állatbetegségek leküzdése érdekében leölt állatok tetemeit is.
 
@@ -36,6 +36,6 @@ d) a természetes állapotában meglévő ki nem termelt földre, beleértve a k
 
 e) a szennyezetlen talajra és más, természetes állapotában meglévő olyan anyagra, amelyet építési tevékenység során termelnek ki, és azt a kitermelés helyén természetes állapotában építési tevékenységhez használják fel,
 
-f) a fekáliára – ha arra a (2) bekezdés c) pontja nem terjed ki –, a trágyára, a szalmára, valamint a mezőgazdasági termelőtevékenység vagy erdőgazdálkodás, illetve fafeldolgozás során képződő egyéb nem veszélyes természetes anyagra, amelyet a mezőgazdaságban, az erdészetben vagy biomasszaként energia előállítására használnak a környezetre és az emberi egészségre veszélytelen eljárással vagy módszerrel,
+f) a fekáliára – ha arra a (2) bekezdés c) pontja nem terjed ki –, a szalmára, valamint a mezőgazdasági termelőtevékenység, az erdőgazdálkodás, továbbá a fafeldolgozás során képződő egyéb nem veszélyes természetes anyagra, amelyet a mezőgazdaságban, az erdészetben vagy biomasszaként energia előállítására használnak a környezetre és az emberi egészségre veszélytelen eljárással vagy módszerrel,
 
 g) a vizek és vízi utak kezelése, árvízmentesítés, vízkárelhárítás vagy talajfeltöltés (a talaj minőségének javítása) céljából a felszíni vizekben áthelyezett üledékre, iszapra, amely az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem rendelkezik.

@@ -1,1 +1,1 @@
-51. § Az üdülőként nyilvántartott, valamint az időlegesen használt ingatlannal rendelkező tulajdonosok esetében a hulladékgazdálkodási közszolgáltatás díját az állandó lakóingatlan tulajdonosára meghatározott díjjal arányosan – a település és az ingatlan jellegére, valamint a használat rendszerességére és az időlegességre tekintettel – kell megállapítani, de nem lehet kevesebb az éves díj 50%-ánál.
+### 51. §

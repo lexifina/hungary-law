@@ -1,14 +1,14 @@
-86. § (1) Aki
+86. § (1) Az a természetes vagy jogi személy, egyéni cég, egyéni vállalkozó, továbbá jogi személyiség nélküli gazdasági társaság, aki (amely)
 
-a) hulladékgazdálkodással kapcsolatos jogszabály, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásait megsérti,
+a) a hulladékgazdálkodással kapcsolatos jogszabály, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásait megsérti,
 
-b) a hatósági engedélyhez, hozzájáruláshoz, nyilvántartásba vételhez vagy bejelentéshez kötött hulladékgazdálkodási tevékenységet engedély, hozzájárulás, nyilvántartásba vétel vagy bejelentés nélkül, illetve attól eltérően végez, vagy
+b) hatósági engedélyhez, hozzájáruláshoz, nyilvántartásba vételhez vagy bejelentéshez kötött hulladékgazdálkodási tevékenységet engedély, hozzájárulás, nyilvántartásba vétel vagy bejelentés nélkül, továbbá attól eltérően végez, vagy
 
-c) a melléktermék előállításáról vagy képződéséről a környezetvédelmi hatóságot nem vagy nem megfelelően tájékoztatja, hulladékot termékként, illetve melléktermékként használ fel, forgalmaz vagy tárol,
+c) a melléktermék előállításáról vagy képződéséről a környezetvédelmi hatóságot nem vagy nem megfelelően tájékoztatja, hulladékot termékként vagy melléktermékként használ fel, forgalmaz vagy tárol,
 
-azt a környezetvédelmi hatóság hulladékgazdálkodási bírság megfizetésére kötelezi.
+azt a környezetvédelmi hatóság a hulladékgazdálkodási bírsággal kapcsolatos részletes szabályokról szóló kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
 
-(2) A hulladékgazdálkodási bírságot a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendelet alapján a jogsértés szerint határozott összegben vagy alapbírság és változók szorzataként megállapított bírságként kell kiszabni.
+(2) A hulladékgazdálkodási bírságot a jogsértés szerint egyszerű bírságként, mérlegelési szempontok alapján megállapított bírságként vagy alapbírság és módosító tényezők szorzataként megállapított bírságként kell kiszabni.
 
 (3) Ha a jogsértés a tevékenység vagy mulasztás súlyára, az elkövetés vagy kötelezettségszegés következményeire tekintettel annyira csekély, hogy bírság alkalmazása szükségtelen, a bírság kiszabása mellőzhető.
 

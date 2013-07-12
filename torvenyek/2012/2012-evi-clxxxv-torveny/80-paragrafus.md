@@ -1,6 +1,6 @@
 80. § (1) A környezetvédelmi hatóság által kiadott hulladékgazdálkodási engedélynek legalább a következő adatokat kell tartalmaznia:
 
-a) az engedélyes azonosító adatait (név, cím, KÜJ-, KTJ-, KSH-azonosítók),
+a) az engedélyes azonosító adatait (név, cím, KÜJ- és KTJ-azonosítók, statisztikai számjel),
 
 b) a hulladék fajtáját, típusát és mennyiségét,
 
@@ -14,7 +14,7 @@ f) az engedély időbeli hatályát.
 
 (2) A környezetvédelmi hatósági nyilvántartásnak legalább a következő adatokat kell tartalmaznia:
 
-a) a nyilvántartásba vételre jogosult azonosító adatait (név, cím, KÜJ-, KTJ-, KSH-azonosítók),
+a) a nyilvántartásba vételre jogosult azonosító adatait (név, cím, KÜJ- és KTJ-azonosítók, statisztikai számjel),
 
 b) a nyilvántartásba vett hulladékgazdálkodási tevékenység megnevezését,
 

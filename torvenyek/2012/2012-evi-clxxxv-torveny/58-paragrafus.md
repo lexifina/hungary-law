@@ -2,4 +2,4 @@
 
 (2) A veszélyes hulladék szállítása során a hulladékot – elektronikus formában is kiállítható – nyomtatvánnyal kell ellátni, amely tartalmazza az 1013/2006/EK európai parlamenti és tanácsi rendeletben meghatározott adatokat.
 
-(3) A hasznosításra vagy ártalmatlanításra kerülő veszélyes hulladék a hasznosítási vagy ártalmatlanítási művelet megkezdéséig a hulladékkezelő telephelyén legfeljebb 1 évig tárolható.
+(3) A hasznosításra vagy ártalmatlanításra kerülő veszélyes hulladék a gyűjtést követően a hasznosítás vagy az ártalmatlanítás megkezdéséig az előkezeléssel együtt összesen legfeljebb 1 évig tárolható.

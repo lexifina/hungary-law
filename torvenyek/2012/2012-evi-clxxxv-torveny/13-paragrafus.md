@@ -1,15 +1,13 @@
 ## 10. A hulladék kereskedelme, közvetítése, szállítása
 
-13. § (1) A kereskedő és a közvetítő tevékenységét – a (2) bekezdésben meghatározott kivétellel – nyilvántartásba vétel alapján végzi.
+13. § (1) A kereskedő és a közvetítő a kereskedelem, illetve a közvetítés tárgyát képező hulladékkal kapcsolatos hulladékgazdálkodási tevékenységet nyilvántartásba vétel alapján végzi, kivéve, ha a hulladék a birtokába kerül.
 
-(2) Az a kereskedő, illetve közvetítő, akinek a tevékenységével érintett hulladék a birtokába kerül, tevékenységét csak hulladékgazdálkodási engedéllyel végezheti.
+(2) Ha a kereskedőnek és a közvetítőnek a kereskedelem, illetve a közvetítés tárgyát képező hulladék a birtokába kerül, tevékenységét csak kereskedelemre, illetve közvetítésre vonatkozó hulladékgazdálkodási engedéllyel végezheti.
 
-(3) A közvetítő és a kereskedő hulladékot csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhat át.
+(3) A kereskedő és a közvetítő a hulladékot csak kezelés céljából, a kezelésre vonatkozó hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhatja át, illetve közvetítheti.
 
-(4) A közvetítő és a kereskedő az átvett hulladékot a hulladékkezelőnek változatlan formában adja át. A hulladék összetételének, típusának, fajtájának, jellegének vagy bármilyen tulajdonságának megváltoztatását a közvetítő és a kereskedő csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezheti.
+(4) A kereskedő és a közvetítő – ha a hulladék a birtokába kerül – az átvett hulladékot a hulladékkezelőnek változatlan formában adja át.
 
-(5) Az a közvetítő, illetve kereskedő, akinek a hulladék nem kerül birtokába, ugyanúgy felel a hulladék átvételéért és hulladékkezelőnek történő átadásáért, mintha a hulladék birtokába került volna.
+(5) Ha a kereskedőnek és a közvetítőnek a hulladék nem kerül a birtokába, a hulladék hulladékkezelőhöz történő eljuttatásáért ugyanúgy felel, mintha a hulladék a birtokába kerülne.
 
-(6) A kereskedőre és a közvetítőre a kereskedelemről szóló törvény, valamint a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet előírásai is vonatkoznak.
-
-(7) A közvetítő és a kereskedő a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal nem rendelkezhet, illetve azzal kapcsolatos szállítási, közvetítői és kereskedelmi tevékenységet nem végezhet.
+(6) A kereskedő és a közvetítő a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kizárólag a közszolgáltató nevében eljárva vásárolhatja meg, adhatja el, szállíthatja, közvetítheti, kivéve, ha kezeli is a hulladékot.

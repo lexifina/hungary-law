@@ -1,7 +1,11 @@
-14. § (1) Az a szállító, aki hulladékot üzletszerűen szállít, tevékenységét hulladékgazdálkodási engedély birtokában végzi.
+14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában lehet szállítani, kivéve ha
 
-(2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért, figyelemmel a hazai és nemzetközi szállítmányozási és fuvarozási szabályokra.
+a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja, valamint
 
-(3) Szállításból eredő szennyezés esetén a hulladék szállítója gondoskodik a hulladék összegyűjtéséről és elszállításáról, a terület szennyezésmentesítéséről, valamint az eredeti környezeti állapot helyreállításáról.
+b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja.
 
-(4) Ha a hulladék szállításáról a kereskedő, illetve a közvetítő maga gondoskodik, akkor rá a szállítóra vonatkozó szabályokat is megfelelően alkalmazni kell.
+(2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért.
+
+(3) Szállításból eredő szennyezés esetén a hulladék szállítója gondoskodik az eredeti környezeti állapot helyreállításáról, így különösen a terület szennyezésmentesítéséről és a hulladék elszállításáról.
+
+(4) Ha a hulladék szállításáról a kereskedő és a közvetítő saját maga gondoskodik, akkor a kereskedőre és a közvetítőre a szállítóra vonatkozó szabályokat is megfelelően alkalmazni kell.

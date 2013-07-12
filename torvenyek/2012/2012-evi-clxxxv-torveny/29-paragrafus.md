@@ -1,7 +1,5 @@
-29. § (1) A gyártók, illetve a forgalmazók a 22–28. §-ban foglalt kötelezettségeik ellátása érdekében – a környezetvédelmi termékdíjról szóló törvényben meghatározott kivétellel – önálló közvetítő szervezetet hozhatnak létre vagy közvetítőt bízhatnak meg azzal, hogy e kötelezettségeiket a közvetítő, illetve közvetítő szervezet a gyártóktól, illetve a forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja, és a tevékenységi körébe tartozó hulladék elszállítását, hasznosítását vagy ártalmatlanítását szervezze és közvetítse.
+29. § (1) A gyártók, a forgalmazók a 22–28. §-ban foglalt kötelezettségeik ellátása érdekében – a környezetvédelmi termékdíjról szóló törvényben meghatározott kivétellel – közvetítő szervezetet hozhatnak létre vagy bízhatnak meg azzal, hogy e kötelezettségeiket a közvetítő szervezet a gyártóktól, a forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja.
 
-(2) Az (1) bekezdés szerinti kötelezettség ellátására létrehozott közvetítő szervezet tevékenységét a környezetvédelmi hatóság engedélyének birtokában, kormányrendeletben meghatározott feltételekkel végzi.
+(2) Az (1) bekezdésben meghatározott közvetítő szervezet tevékenységét a környezetvédelmi hatóság általi nyilvántartásba vételét követően kezdheti meg.
 
-(3) A környezetvédelmi hatóság az engedéllyel rendelkező közvetítő szervezetekről nyilvántartást vezet.
-
-(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) A környezetvédelmi hatóság a közvetítő szervezetekről nyilvántartást vezet, és a közvetítő szervezetek nevét, székhelyét és elérhetőségét a honlapján közzéteszi.

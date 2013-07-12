@@ -1,22 +1,28 @@
 ## 17. A hulladékbirtokos kötelezettségei
 
-31. § (1) A hulladékbirtokos a hulladék kezeléséről
+31. § (1) A hulladékbirtokos gondoskodik a hulladék kezeléséről.
 
-a) az általa üzemeltetett hulladékkezelő létesítményben alkalmazott előkezelő, hasznosító vagy ártalmatlanító eljárás, illetve ilyen műveletek végzésére alkalmas berendezés,
+(2) A hulladékbirtokos a hulladék kezeléséről
+
+a) az általa üzemeltetett hulladékkezelő létesítményben vagy berendezéssel végzett előkezelő, hasznosító vagy ártalmatlanító eljárás,
 
 b) a hulladék hulladékkezelőnek történő átadása,
 
-c) a hulladék közvetítőnek történő átadása,
+c) a hulladék szállítónak történő átadása,
 
-d) a hulladék kereskedőnek történő átadása,
+d) a hulladék gyűjtőnek történő átadása,
 
-e) a hulladék közszolgáltatónak történő átadása – ideértve a hulladék hulladékgyűjtő ponton vagy hulladékgyűjtő udvarban történő átadásának esetét is –, vagy
+e) a hulladék közvetítőnek történő átadása,
 
-f) a hulladék átvételi helyen, illetve az átvételre kötelezettnek történő átadása
+f) a hulladék kereskedőnek történő átadása,
+
+g) a hulladék közszolgáltatónak történő átadása – ideértve a hulladék hulladékgyűjtő ponton vagy hulladékgyűjtő udvarban történő átadásának esetét is –, vagy
+
+h) a hulladék átvételi helyen, illetve az átvételre kötelezettnek történő átadása
 
 útján gondoskodik.
 
-(2) A hulladékkezelő, a kereskedő és a közszolgáltató – a 43. § (1) bekezdésben meghatározott kivétellel – a hulladék birtokbavételével a hulladék tulajdonosává válik.
+(2a) Ha a hulladék kezeléséről a hulladékbirtokos a (2) bekezdés b)–h) pontja szerint gondoskodik, a kezelésre vonatkozó kötelezettség akkor tekinthető teljesítettnek, ha a hulladék a gyűjtő, a kereskedő, a hulladékkezelő vagy a közszolgáltató tulajdonába kerül.
 
 (3) Jogszabályban meghatározott esetekben a hulladékká vált terméket a hulladékbirtokos az átvételre kötelezettnek adja át.
 

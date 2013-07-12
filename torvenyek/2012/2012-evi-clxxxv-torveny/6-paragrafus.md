@@ -5,3 +5,5 @@
 (3) A hulladékban rejlő anyag, energia hasznosítása érdekében törekedni kell a hulladék lehető legnagyobb arányú újrahasználatra előkészítésére, újrafeldolgozására, valamint a nyersanyagok hulladékkal történő helyettesítésére.
 
 (4) A hulladékgazdálkodáshoz használt technológia, berendezés, eszköz vagy anyag alkalmazását, illetve forgalmazását jogszabály engedélyhez vagy alkalmassági vizsgálathoz, referenciához, valamint minősítéshez kötheti.
+
+(5) Hulladékkal történő környezetveszélyeztetés vagy környezetkárosítás esetén a Kvt. rendelkezései szerint kell eljárni.

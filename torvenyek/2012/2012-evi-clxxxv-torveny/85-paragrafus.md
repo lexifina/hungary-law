@@ -6,7 +6,7 @@
 
 a) a környezetvédelmi hatóság előtti eljárásban a hatóság hulladékgazdálkodási bírságot nem szabott ki;
 
-b) a környezetvédelmi hatóság előtti eljárásban az (1) bekezdésben meghatározott tényállással kapcsolatban hulladékgazdálkodási bírságot szabtak ki, és a bírságot, illetve egyéb költséget az eljárás alá vont személy a környezetvédelmi hatóságnak az előírt határidőn belül maradéktalanul megfizette, vagy arra a hatóság – elidegenítési tilalom bejegyzése mellett – részletfizetést vagy fizetési halasztást engedélyezett;
+b) a környezetvédelmi hatóság előtti eljárásban az (1) bekezdésben meghatározott tényállással kapcsolatban hulladékgazdálkodási bírságot szabtak ki, és a bírságot, valamint egyéb költséget az eljárás alá vont személy a környezetvédelmi hatóságnak az előírt határidőn belül maradéktalanul megfizette, vagy arra a hatóság – elidegenítési tilalom bejegyzése mellett – részletfizetést vagy fizetési halasztást engedélyezett;
 
 c) a jogsértéssel kapcsolatban indult büntetőeljárásban a bíróság, az ügyész vagy a nyomozó hatóság a lefoglalásról határozatot hozott;
 
@@ -26,7 +26,7 @@ f) a hatóság az eljárást megszüntette.
 
 (8) A lefoglalt eszközt, dolgot, illetve járművet el kell kobozni, ha
 
-a) az ügyben jogerősen a 86. § (1) bekezdés b) pontja szerinti bírságot szabtak ki, és a jogerősen kiszabott bírságot vagy egyéb költséget a jogsértő személy az előírt határidőig nem fizette meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított 8 napon belül benyújtott kérelem alapján – a környezetvédelmi hatóság a részére nem engedélyezett, valamint
+a) az ügyben jogerősen a 86. § (1) bekezdés b) pontja szerinti bírságot szabtak ki, és a jogerősen kiszabott bírságot, valamint egyéb költséget a jogsértő személy az előírt határidőig nem fizette meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított 8 napon belül benyújtott kérelem alapján – a környezetvédelmi hatóság a részére nem engedélyezett, valamint
 
 b) a lefoglalást elrendelő végzés kiadását követő 60 napon belül a hulladék, illetve a hulladék szállítására használt jármű tulajdonosa nem nyilatkozik arról, hogy a jogsértés időpontjában nem volt tudomása arról, hogy a hulladékot szállító, illetve jogszerűtlenül elhagyó vagy elhelyező személy az eszközt, dolgot vagy járművet jogsértés céljából használja fel, vagy az ügy összes körülményeire tekintettel megállapítható, hogy a hulladék tulajdonosa tudomással bírhatott arról, hogy a lefoglalt eszközt, dolgot vagy járművet jogsértésre használják fel, és ennek tényéről a környezetvédelmi hatóságot nem tájékoztatta.
 

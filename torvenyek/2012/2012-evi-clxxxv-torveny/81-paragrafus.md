@@ -1,17 +1,19 @@
 81. § (1) A környezetvédelmi hatóság hulladékgazdálkodási közszolgáltatási engedélyt csak annak a hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhat, amelyben az állam, a települési önkormányzat vagy a települési önkormányzatok társulása a szavazatok többségével tulajdoni hányada alapján közvetlenül vagy közvetve rendelkezik, és a társaság tulajdonosaként jogosult arra, hogy a vezető tisztségviselők és a felügyelőbizottság tagjai többségét megválassza vagy visszahívja.
 
-(2) A hulladékgazdálkodási közszolgáltatási engedélynek legalább a következő adatokat kell tartalmaznia:
+(2) Hulladékgazdálkodási közszolgáltatási engedély határozott időre, de legfeljebb 10 évre adható.
 
-a) a közszolgáltatási engedélyre jogosult azonosító adatait (név, cím, KÜJ-, KTJ-, KSH-azonosítók),
+(3) A hulladékgazdálkodási közszolgáltatási engedély legalább a következő adatokat tartalmazza:
+
+a) a közszolgáltatási engedélyre jogosult azonosító adatait (név, cím, KÜJ- és KTJ-azonosítók, statisztikai számjel),
 
 b) az engedélyezett közszolgáltatási tevékenység megnevezését,
 
-c) a közszolgáltatási tevékenységgel érintett területet,
+c) a közszolgáltatási területet,
 
 d) a közszolgáltatási tevékenység végzésének időtartamát,
 
 e) a bevezetendő biztonsági és elővigyázatossági intézkedésekre vonatkozó követelményeket, valamint
 
-f) a közszolgáltatási engedélyre jogosult közszolgáltatói hulladékgazdálkodási tervét.
+f) a közszolgáltatói hulladékgazdálkodási terv értékelését.
 
-(3) A környezetvédelmi hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezőkről – a (2) bekezdés b)–d) pontjában foglalt adatok tekintetében – közhiteles hatósági nyilvántartást vezet. A hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezők (2) bekezdésben meghatározott adatait – a személyes adatnak minősülő adatok kivételével – honlapján ingyenesen és naprakész állapotban közzéteszi.
+(4) A környezetvédelmi hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezők (3) bekezdésben meghatározott adatait – a személyes adatnak minősülő adatokat ide nem értve – a honlapján ingyenesen és naprakész állapotban közzéteszi.

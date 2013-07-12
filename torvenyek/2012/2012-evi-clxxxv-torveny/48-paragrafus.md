@@ -6,7 +6,7 @@ b) kötelezi a közszolgáltatót a rendelkezések megsértésével elért több
 
 ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
 
-bb) az általa nyújtott hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlantulajdonos részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg, valamint
+bb) az általa nyújtott hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg, valamint
 
 c) bírságot szabhat ki.
 

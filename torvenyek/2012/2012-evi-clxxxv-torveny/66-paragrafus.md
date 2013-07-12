@@ -1,7 +1,9 @@
-66. § (1) A közszolgáltatónak átadott települési hulladékra a 65. §-ban meghatározott nyilvántartási és adatszolgáltatási kötelezettség nem terjed ki. Az ilyen hulladék nyilvántartásáról és adatszolgáltatásáról a közszolgáltató gondoskodik.
+66. § (1) A hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségek teljesítéséről a közszolgáltató gondoskodik.
 
-(2) A nyilvántartásra vonatkozó 65. § (5) bekezdése szerinti kötelezettség nem terjed ki arra a hulladékra, amelytől annak birtokosa a 24–27. §-ban foglalt, a gyártóra és a forgalmazóra vonatkozó kötelezettség alapján üzemeltett át-, illetve visszavételi helyen válik meg.
+(2) A 65. § (5) bekezdése szerinti kötelezettség nem terjed ki arra a hulladékra, amelyet a hulladék birtokosa a 24–27. § szerinti – a gyártóra és a forgalmazóra vonatkozó – kötelezettség alapján üzemeltetett átvételi helyen adja át.
 
-(3) A visszavételi kötelezettség alá tartozó termék forgalmáról, az át-, illetve visszavett használt termékről és az abból származó hulladékról, továbbá a 24–27. §-ban foglalt, a gyártóra és a forgalmazóra vonatkozó kötelezettségek teljesítéséről az át-, illetve visszavétellel érintett gyártó, forgalmazó, kereskedő, közvetítő és hulladékkezelő – a 65. §-ban foglaltakon túlmenően – az adott termékre és az abból származó hulladékra vonatkozó jogszabályban meghatározottak szerint nyilvántartást vezet, és adatot szolgáltat a környezetvédelmi hatóságnak.
+(3) A gyártóra, a forgalmazóra és a közvetítő szervezetre kormányrendelet külön nyilvántartási és adatszolgáltatási kötelezettségeket állapíthat meg.
 
 (4) A hulladék átvevője az átvett hulladékról bizonylatot ad, valamint a hulladék előző birtokosának a hulladékgazdálkodási tevékenység végzésére jogosító okiratokat, hulladékgazdálkodási engedélyt bemutatja.
+
+(5) A hatóság vagy a hulladék előző birtokosának kérésére a kezelést igazoló dokumentumokat be kell mutatni.

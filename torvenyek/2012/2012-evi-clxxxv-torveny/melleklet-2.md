@@ -40,6 +40,8 @@
 
 ## H 15 Hulladék, amely hajlamos arra, hogy belőle az ártalmatlanítást követően valamely formában – pl. kimosódás – a fent felsorolt tulajdonságok bármelyikével rendelkező anyag keletkezzen.
 
+## Megjegyzés: A H3-H8, H10 és H11 veszélyességi jellemzők esetében a hulladék veszélyességének megállapításához a hulladékjegyzékben meghatározott tulajdonságokat is figyelembe kell venni.
+
 2. melléklet a 2012. évi CLXXXV. törvényhez
 
 Ártalmatlanítási műveletek

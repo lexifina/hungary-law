@@ -1,8 +1,8 @@
-56. § (1) Tilos a veszélyes hulladékot a környezetvédelmi hatóság engedélye nélkül más hulladékkal, illetve anyaggal összekeverni vagy hígítani.
+56. § (1) Veszélyes hulladékot hulladékgazdálkodási engedély nélkül más hulladékkal, illetve anyaggal összekeverni vagy hígítani nem lehet.
 
-(2) Tilos a veszélyes hulladék hígítása vagy összekeverése annak érdekében, hogy a veszélyes anyagok eredeti koncentrációja a hulladékot veszélyes hulladékká minősítő határérték szintje alá csökkenjen.
+(2) Veszélyes hulladékot nem lehet hígítani vagy összekeverni annak érdekében, hogy a veszélyes anyagok eredeti koncentrációja a hulladékot veszélyes hulladékká minősítő határérték szintje alá csökkenjen.
 
-(3) Ha a hulladék keverésére a környezetvédelmi hatóság engedélye nélkül kerül sor, az összekevert hulladékot – amilyen mértékben műszaki, környezetvédelmi szempontból és az ésszerű költségráfordítás figyelembevételével megvalósítható – szét kell választani.
+(3) Ha a hulladék keverésére hulladékgazdálkodási engedély nélkül kerül sor, az összekevert hulladékot – amilyen mértékben műszaki, környezetvédelmi szempontból és az ésszerű költségráfordítás figyelembevételével megvalósítható – szét kell választani.
 
 (4) A környezetvédelmi hatóság – a megvalósíthatóságtól függően – a hulladékbirtokost a hulladék szétválasztására kötelezi, ha a (3) bekezdésben foglalt kötelezettségének nem tesz eleget.
 

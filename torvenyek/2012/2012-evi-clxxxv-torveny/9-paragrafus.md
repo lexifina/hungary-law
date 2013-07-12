@@ -12,13 +12,13 @@ d) használata összességében nem eredményez a környezetre vagy az emberi eg
 
 (2) Azt az anyagot vagy tárgyat, amely az (1) bekezdésben meghatározott feltételek teljesülése esetén megszűnik hulladéknak lenni, hasznosítottnak kell tekinteni, és
 
-a) a csomagolási hulladék kezelésének részletes szabályairól szóló kormányrendeletben,
+a) a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben,
 
 b) a hulladékká vált gépjárművekről szóló kormányrendeletben,
 
-c) az elem- és akkumulátorhulladék átvételéről és kezeléséről szóló kormányrendeletben,
+c) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben,
 
-d) az elektromos és elektronikus berendezésekből származó hulladék átvételéről és kezeléséről szóló kormányrendeletben, és
+d) az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben, és
 
 e) a tárgykörbe tartozó további uniós jogi aktusok átültetését szolgáló vagy más hazai jogszabályban
 

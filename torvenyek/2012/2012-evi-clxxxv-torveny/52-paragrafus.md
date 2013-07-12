@@ -1,6 +1,6 @@
-52. § (1) A hulladékgazdálkodási közszolgáltatás igénybevételéért az ingatlantulajdonost terhelő díjhátralék és az azzal összefüggésben megállapított késedelmi kamat, valamint a behajtás egyéb költségei adók módjára behajtandó köztartozásnak minősülnek.
+52. § (1) A hulladékgazdálkodási közszolgáltatás igénybevételéért az ingatlanhasználót terhelő díjhátralék és az azzal összefüggésben megállapított késedelmi kamat, valamint a behajtás egyéb költségei adók módjára behajtandó köztartozásnak minősülnek.
 
-(2) A díjhátralék keletkezését követő 30 napon belül a közszolgáltató vagy a követelés egyéb jogosultja (a továbbiakban együtt: a követelés jogosultja) felhívja az ingatlantulajdonos figyelmét a díjfizetési kötelezettségének elmulasztására, és felszólítja annak teljesítésére.
+(2) A díjhátralék keletkezését követő 30 napon belül a közszolgáltató vagy a követelés egyéb jogosultja (a továbbiakban együtt: a követelés jogosultja) felhívja az ingatlanhasználó figyelmét a díjfizetési kötelezettségének elmulasztására, és felszólítja annak teljesítésére.
 
 (3) A felszólítás eredménytelensége esetén a díjhátralék megfizetésének esedékességét követő 45. nap elteltével a követelés jogosultja – a felszólítás megtörténtének igazolása mellett – a díjhátralék adók módjára történő behajtását a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: NAV) kezdeményezi.
 
