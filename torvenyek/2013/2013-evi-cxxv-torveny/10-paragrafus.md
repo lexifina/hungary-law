@@ -1,0 +1,1 @@
+10. § A minősítő okirat kiállításának alapjául szolgáló feltételeknek a minősítő okirat időbeli hatálya alatt a kérelmezőnek folyamatosan meg kell felelnie. A kérelmező a környezetirányítási célok teljesítésének érdekében vállalt intézkedéseket a környezetirányítási programban foglaltaknak megfelelően végrehajtja.

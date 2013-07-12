@@ -1,0 +1,1 @@
+8. § A minősítő a hulladékgazdálkodási közszolgáltatási tevékenységet annak szolgáltatásbiztonsági funkciója szerint kategóriába, valamint szakmai funkcionalitása szerint fokozatba sorolja. A minősítő a kategória és a fokozat együttes alkalmazásával a kérelmezőt osztályba sorolja az 1–4. mellékletben meghatározottak szerint.

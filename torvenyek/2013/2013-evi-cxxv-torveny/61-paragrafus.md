@@ -1,0 +1,1 @@
+61. § A Ht. 1. § (3) bekezdés f) pontjában az „a trágyára, a szalmára, valamint a mezőgazdasági termelőtevékenység vagy erdőgazdálkodás, illetve fafeldolgozás során” szövegrész helyébe az „a szalmára, valamint a mezőgazdasági termelőtevékenység, az erdőgazdálkodás, továbbá a fafeldolgozás során” szöveg lép.
