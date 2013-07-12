@@ -14,6 +14,8 @@
 
 (7) Az önkormányzati költségvetési szerveknél a belső ellenőrzést elláthatja
 
-a) a költségvetési szerv (ideértve a polgármesteri hivatalt is) által foglalkoztatásra irányuló jogviszonyban alkalmazott vagy polgári jogi szerződés keretében foglalkoztatott belső ellenőr;
+a)[^6] az irányító szerv által foglalkoztatásra irányuló jogviszonyban alkalmazott vagy polgári jogi szerződés keretében foglalkoztatott belső ellenőr;
 
 b) a társulás által foglalkoztatásra irányuló jogviszonyban alkalmazott vagy polgári jogi szerződés keretében foglalkoztatott belső ellenőr.
+
+[^6]: A 15. § (7) bekezdés a) pontja a 264/2013. (VII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.

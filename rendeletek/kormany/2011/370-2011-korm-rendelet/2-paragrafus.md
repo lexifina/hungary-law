@@ -36,7 +36,7 @@ nb) minisztérium esetén a miniszter vagy miniszter döntése alapján a közig
 
 nc) a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet (a továbbiakban: NAV Korm. rendelet) 1. § (2) bekezdés b), c) és e) pontjában, valamint az 1. § (3) és (4) bekezdésében meghatározott szervek vezetője;
 
-nd) helyi önkormányzat, helyi nemzetiségi önkormányzat, illetve fővárosi kerületi önkormányzat esetén a jegyző, körjegyző;
+nd)[^2] a települési önkormányzat és a helyi nemzetiségi önkormányzat esetén a jegyző, főjegyző;
 
 ne) fővárosi önkormányzat, megyei önkormányzat, illetve megyei jogú városi önkormányzat esetén a főjegyző;
 
@@ -44,9 +44,9 @@ nf) helyi önkormányzat, illetve helyi nemzetiségi önkormányzat felügyelete
 
 ng) országos nemzetiségi önkormányzat esetén annak vezetője, illetve országos nemzetiségi önkormányzati költségvetési szerv esetén annak vezetője;
 
-nh)[^2]
+nh)[^3] társulás esetén a létrehozott költségvetési szerv, illetve szervezet vezetője;
 
-ni) társult képviselő-testület, intézményi társulás esetén a megállapodásban meghatározott önkormányzat jegyzője;
+ni)[^4] társult képviselő-testület esetén a társulási megállapodásban meghatározott önkormányzat jegyzője;
 
 nj) területi fejlesztési tanács esetén a térségi fejlesztési tanács munkaszervezetének vezetője;
 
@@ -63,4 +63,6 @@ s) utóellenőrzés: az intézkedések nyomon követése érdekében elrendelt e
 t) vizsgálatvezető: a belső ellenőrzési vezető által kijelölt, az adott ellenőrzés irányításáért felelős személy.
 
 [^1]: A 2. § h) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § n) pont nh) alpontját a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^2]: A 2. § n) pont nd) alpontja a 264/2013. (VII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § n) pont nh) alpontját a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés h) pontja hatályon kívül helyezte, újonnan a 264/2013. (VII. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § n) pont ni) alpontja a 264/2013. (VII. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

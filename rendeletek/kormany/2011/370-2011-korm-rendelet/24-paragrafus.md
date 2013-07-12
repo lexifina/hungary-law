@@ -1,40 +1,42 @@
 ## 12. A belső ellenőrre vonatkozó általános és szakmai követelmények
 
-24. § (1) Költségvetési szervnél belső ellenőrzési tevékenységet az Áht. 70. § (4) bekezdésében meghatározott engedéllyel rendelkező személy végezhet. Engedély annak adható, aki megfelel a (2)–(4) bekezdésben foglaltaknak.
+24. § (1)[^11] Költségvetési szervnél belső ellenőrzési tevékenységet az Áht. 70. § (4) bekezdésében meghatározott engedéllyel rendelkező személy végezhet.
 
-(2) Belső ellenőrzési tevékenységet az láthat el, aki legalább két éves ellenőrzési, költségvetési, pénzügyi, számviteli, vagy az adott költségvetési szerv tevékenységi körébe tartozó területen szerzett szakmai gyakorlattal és
+(2)[^12] A belső ellenőrzési tevékenység ellátásához szükséges engedély szakmai feltételeinek az felel meg, aki legalább két éves ellenőrzési, költségvetési, pénzügyi, számviteli, vagy az adott költségvetési szerv tevékenységi körébe tartozó területen szerzett szakmai gyakorlattal és
 
-a) az alábbi szakirányú szakképzettségek valamelyikével rendelkezik:
+a) a következő szakirányú szakképzettségek valamelyikével rendelkezik:
 
-aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikusközgazdász, igazgatásszervező, okleveles igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
+aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, okleveles igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
 
-ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi,
+ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi, vagy
 
-b) más, olyan felsőfokú iskolai végzettséggel rendelkezik, amely nem az a) pontban meghatározott felsőfokú végzettség és emellett
+b) az a) pontba nem tartozó felsőfokú iskolai végzettséggel és a következő szakképesítések valamelyikével rendelkezik:
 
 ba) okleveles pénzügyi revizori,
 
 bb) pénzügyi-számviteli szakellenőri,
 
-bc) okleveles könyvvizsgálói,
+bc) ellenőrzési szakelőadó,
 
-bd) költségvetési ellenőri,
+bd) okleveles könyvvizsgálói,
 
-be) mérlegképes könyvelői,
+be) költségvetési ellenőri,
 
-bf) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
+bf) mérlegképes könyvelői,
 
-bg) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
+bg) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
 
-bh) közigazgatási gazdálkodási és ellenőrzési szakértői,
+bh) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
 
-bi) felsőfokú költségvetési, vagy
+bi) közigazgatási gazdálkodási és ellenőrzési szakértői,
 
-bj) felsőfokú államháztartási
+bj) felsőfokú költségvetési, vagy
+
+bk) felsőfokú államháztartási
 
 ## szakképesítéssel rendelkezik.
 
-(3) Amennyiben a költségvetési szerv belső ellenőrzési szervezeti egységgel rendelkezik, a költségvetési szerv vezetője a felsőfokú iskolai végzettségűeknek felmentést adhat a (2) bekezdésben foglalt szakmai gyakorlati feltétel alól, illetve 2012. december 31-ig felmentést adhat a (2) bekezdés ba)–bj) pontjában foglalt szakképesítések alól, de ebben az esetben is köteles gondoskodni arról, hogy a belső ellenőrzési szervezeti egység rendelkezzen mindazzal a szaktudással, gyakorlattal és egyéb ismerettel, amely a feladatok elvégzéséhez szükséges.
+(3)[^13] Ha a költségvetési szerv belső ellenőrzési szervezeti egységgel rendelkezik, a költségvetési szerv vezetője a felsőfokú iskolai végzettségűeknek felmentést adhat a (2) bekezdésben foglalt szakmai gyakorlati feltétel alól, de ebben az esetben is köteles gondoskodni arról, hogy a belső ellenőrzési szervezeti egység rendelkezzen mindazzal a szaktudással, gyakorlattal és egyéb ismerettel, amely a feladatok elvégzéséhez szükséges.
 
 (4) Nem lehet vizsgálatvezetőnek kijelölni azt a belső ellenőrt, aki a (2) bekezdés szerinti szakmai gyakorlat alól felmentést kapott, addig amíg a belső ellenőrzési szervezeti egységnél a hiányzó szakmai gyakorlatot meg nem szerezte.
 
@@ -43,3 +45,7 @@ bj) felsőfokú államháztartási
 (6) Ha a belső ellenőrzési vezető feladatait külső szolgáltató látja el, a feladatot ellátó személynek meg kell felelnie az (5) bekezdésben meghatározott feltételeknek.
 
 (7) A belső ellenőrök kötelesek a már megszerzett ismereteiket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kétévente kötelesek szakmai továbbképzésen részt venni, és külön jogszabályban előírt esetekben vizsgát tenni.
+
+[^11]: A 24. § (1) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^12]: A 24. § (2) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: A 24. § (3) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.

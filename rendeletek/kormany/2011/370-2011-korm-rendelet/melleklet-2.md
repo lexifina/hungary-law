@@ -1,8 +1,8 @@
 ## NYILATKOZAT
 
-## A) Alulírott ................................................., a ................................... költségvetési szerv vezetője jogi felelősségem tudatában kijelentem, hogy az előírásoknak megfelelően ........................... évben az általam vezetett költségvetési szervnél gondoskodtam a belső kontroll rendszerek szabályszerű, gazdaságos, hatékony és eredményes működéséről.
+## A) Alulírott ................................................., a .......................................................................... költségvetési szerv vezetője jogi felelősségem tudatában kijelentem, hogy az előírásoknak megfelelően ........................... évben / időszakban az általam vezetett költségvetési szervnél gondoskodtam
 
-## Gondoskodtam:
+## – a belső kontrollrendszer kialakításáról, valamint szabályszerű, eredményes, gazdaságos és hatékony működéséről,
 
 ## – a költségvetési szerv vagyonkezelésébe, használatába adott vagyon rendeltetésszerű igénybevételéről, az alapító okiratban előírt tevékenységek jogszabályban meghatározott követelményeknek megfelelő ellátásáról,
 
@@ -14,31 +14,27 @@
 
 ## – a gazdálkodási lehetőségek és a kötelezettségek összhangjáról,
 
-## – az intézményi számviteli rendről.
+## – az intézményi számviteli rendről,
 
-## Kijelentem, hogy
+## – olyan rendszer bevezetéséről, amely megfelelő bizonyosságot nyújt az eljárások jogszerűségére és szabályszerűségére vonatkozóan, biztosítja az elszámoltathatóságot, továbbá megfelel a hazai és közösségi szabályoknak,
 
-## – a benyújtott beszámolók a jogszabályi előírások szerint a valóságnak megfelelően, átláthatóan, teljeskörűen és pontosan tükrözik a szóban forgó pénzügyi évre vonatkozó kiadásokat és bevételeket,
-
-## – olyan rendszert vezettem be, ami megfelelő bizonyosságot nyújt az eljárások jogszerűségére és szabályszerűségére vonatkozóan, biztosítja az elszámoltathatóságot, továbbá megfelel a hazai és közösségi szabályoknak,
-
-## – a szervezeten belül jól körülhatárolt volt a felelősségi körök meghatározása, működtetése, a vezetők a szervezet minden szintjén tisztában voltak a célokkal és az azok elérését segítő eszközökkel annak érdekében, hogy végre tudják hajtani a kitűzött feladatokat és értékelni tudják az elért eredményeket. E tevékenységről a vezetői beszámoltatás rendszerén keresztül folyamatos információval rendelkeztem, a tevékenységet folyamatosan értékeltem.
+## – arról, hogy a vezetők a szervezet minden szintjén tisztában legyenek a kitűzött célokkal és az azok elérését segítő eszközökkel annak érdekében, hogy végre tudják hajtani a meghatározott feladatokat és értékelni tudják az elért eredményeket. E tevékenységről a vezetői beszámoltatás rendszerén keresztül folyamatos információval rendelkeztem, a tevékenységet folyamatosan értékeltem.
 
 ## A vonatkozó jogszabályok belső kontrollrendszerre vonatkozó előírásainak az alábbiak szerint tettem eleget:
 
 ## Kontrollkörnyezet:
 
-## Kockázatkezelés:
+## Kockázatkezelési rendszer:
 
 ## Kontrolltevékenységek:
 
-## Információ és kommunikáció:
+## Információs és kommunikációs rendszer:
 
-## Monitoring:
+## Nyomon követési rendszer (monitoring):
 
-## Az általam vezetett szervezetnél a belső kontrollok alábbi területei igényelnek fejlesztést:
+## Kijelentem, hogy a benyújtott beszámolók a jogszabályi előírások szerint a valóságnak megfelelően, átláthatóan, teljeskörűen és pontosan tükrözik a szóban forgó pénzügyi évre vonatkozó kiadásokat és bevételeket.
 
-## Igazolom, hogy az általam vezetett költségvetési szerv gazdasági vezetője eleget tett a tárgyévre vonatkozó továbbképzési kötelezettségének a belső kontrollok témakörében:
+## Az általam vezetett költségvetési szerv gazdasági vezetője eleget tett tárgyévben esedékes továbbképzési kötelezettségének a belső kontrollok témakörében:
 
 ## igen – nem
 
@@ -46,9 +42,7 @@
 
 ## P. H.
 
-## ..............................................
-
-## aláírás
+| ................................. aláírás |
 
 ## B) Az A) pontban meghatározott nyilatkozatot az alábbiak miatt nem áll módomban megtenni:
 
@@ -56,10 +50,8 @@
 
 ## P. H.
 
-## ..............................................
+| ................................. aláírás |
 
-## aláírás
+2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^30]
 
-2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^15]
-
-[^15]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

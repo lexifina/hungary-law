@@ -2,7 +2,7 @@
 
 56. § (1) A belső ellenőrzési feladat társulás keretében történő ellátása (a továbbiakban: társult feladatellátás) esetében az e rendeletben foglalt szabályokat – eltérő megállapodás hiányában – az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) A társult önkormányzatok stratégiai ellenőrzési tervének és éves ellenőrzési tervének összeállítása a belső ellenőrzési feladatok és a rendelkezésre álló kapacitások összehangolásának érdekében az érintett önkormányzatok jegyzői, főjegyzői, körjegyzői írásos véleményének figyelembevételével történik.
+(2)[^26] A társult önkormányzatok stratégiai ellenőrzési tervének és éves ellenőrzési tervének összeállítása a belső ellenőrzési feladatok és a rendelkezésre álló kapacitások összehangolásának érdekében az érintett helyi önkormányzatok jegyzői, főjegyzői írásos véleményének figyelembevételével történik.
 
 (3) A társult feladatellátás során készített stratégiai ellenőrzési terv és éves ellenőrzési terv magába foglalja:
 
@@ -14,10 +14,13 @@ b) a társulásra és az általa irányított költségvetési szervekre vonatko
 
 (5) Az éves ellenőrzési tervben foglaltakhoz képest ellenőrzést elhagyni vagy új ellenőrzést indítani az ellenőrzési terv módosítását követően lehet.
 
-(6) A belső ellenőrzési vezető az éves ellenőrzési terv végrehajtásáról év közben az ellenőrzések megkezdésekor és befejezésekor tájékoztatja az érintett önkormányzatok jegyzőit, főjegyzőit, körjegyzőit.
+(6)[^27] A belső ellenőrzési vezető az éves ellenőrzési terv végrehajtásáról év közben az ellenőrzések megkezdésekor és befejezésekor tájékoztatja az érintett helyi önkormányzatok jegyzőit, főjegyzőit.
 
 (7) A társult feladatellátás esetén a társulás által végzett ellenőrzéseknél elegendő egy belső ellenőrzési kézikönyv alkalmazása, amelyet a társulás munkaszervezeti feladatát ellátó, vagy közös feladatellátás esetén a feladatellátást végző, intézményi társulás esetén az intézmény székhelye szerinti önkormányzat által kijelölt költségvetési szerv vezetője hagy jóvá.
 
 (8) Az éves ellenőrzési jelentést a társulás munkaszervezeti feladatát ellátó, vagy közös feladatellátás esetén a feladatellátást végző, intézményi társulás esetén az intézmény székhelye szerinti önkormányzat által kijelölt költségvetési szerv vezetője az egyes önkormányzatok zárszámadásának határidejére, de legkésőbb március 20-ig az érintett jegyző részére megküldi, hogy azt a polgármester a zárszámadással egyidejűleg a képviselő-testület elé terjeszthesse.
 
 (9) Az éves ellenőrzési jelentést önkormányzatonként, illetve a társulásra külön-külön kell készíteni.
+
+[^26]: Az 56. § (2) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^27]: Az 56. § (6) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
