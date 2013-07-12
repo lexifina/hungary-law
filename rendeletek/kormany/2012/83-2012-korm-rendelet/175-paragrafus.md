@@ -1,4 +1,4 @@
-## 174. §[^4]
+## 174. §[^5]
 
 ## 175. § A szervezetek összerendelési nyilvántartásának felállítása érdekében
 
@@ -12,4 +12,4 @@ d) a Magyar Államkincstár megküldi az összerendelési nyilvántartást kezel
 
 e) az összerendelési nyilvántartást kezelő szerv megkeresi a Magyar Ügyvédi Kamarát az ügyvédi irodák nyilvántartási számának, valamint adószámának átvétele érdekében, amely alapján az összerendelési nyilvántartást kezelő szerv megkeresi a Központi Statisztikai Hivatalt az ügyvédi irodák statisztikai számjelének átvétele érdekében.
 
-[^4]: A 174. §-t a 2013: LXXXI. törvény 31. § (3) bekezdése hatályon kívül helyezte.
+[^5]: A 174. §-t a 2013: LXXXI. törvény 31. § (3) bekezdése hatályon kívül helyezte.
