@@ -1,0 +1,1 @@
+## 1. § A díjat a fővárosi és megyei kormányhivatalnak a kincstárnál vezetett, az 1. mellékletben meghatározott számlájára, átutalás vagy fizetési számlára történő készpénzbefizetés útján kell megfizetni. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését.
