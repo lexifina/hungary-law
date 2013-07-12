@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-2
 | 2013-01-01 | 2012-84-20-22.2 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2013-05-30 | 2012-84-20-22.3 | 169/2013. (V. 29.) Korm. rendelet |
 | 2013-07-01 | 2012-84-20-22.4 | 2013: LXXXI. törvény |
+| 2013-07-12 | 2012-84-20-22.5 | 252/2013. (VII. 4.) Korm. rendelet |
