@@ -1,3 +1,5 @@
+## 38. §[^10]
+
 ## 4. Az egyes gyermekvédelmi tárgyú miniszteri rendeleteknek a gyermekvédelmi és gyámügyi eljárások egyszerűsítésével összefüggő módosításáról szóló 26/2013. (III. 29.) EMMI rendelet módosítása
 
 ## 39. § Nem lép hatályba az egyes gyermekvédelmi tárgyú miniszteri rendeleteknek a gyermekvédelmi és gyámügyi eljárások egyszerűsítésével összefüggő módosításáról szóló 26/2013. (III. 29.) EMMI rendelet
@@ -15,3 +17,5 @@ e) 37. § 1. pontja,
 f) 37. § 12. pontja,
 
 g) 1. és 2. melléklete.
+
+[^10]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

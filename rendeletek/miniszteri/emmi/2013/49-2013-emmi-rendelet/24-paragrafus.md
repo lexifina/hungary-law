@@ -1,13 +1,9 @@
-## lép.
+## 23. §[^6]
 
-24. § (1) Hatályát veszti az NMr.
+24. § (1)[^7]
 
-a) 4. § (3b) bekezdésében a „Gyvt. 96. § (7)–(8a) bekezdés szerinti” szövegrész,
+(2)[^8]
 
-b) 40. § (1) bekezdés a) pont ae) alpontja,
-
-c) 7. számú melléklete.
-
-(2)[^3]
-
-[^3]: A 24. § (2) bekezdése a 40. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^6]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 24. § (2) bekezdése a 40. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

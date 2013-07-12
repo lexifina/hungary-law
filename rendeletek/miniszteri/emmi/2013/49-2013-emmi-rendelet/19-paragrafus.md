@@ -1,3 +1,3 @@
-## 18. § Az NMr. 130. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 1–18. §[^1]
 
-## „(1) A központi speciális gyermekotthon ellátási területe országos.”
+[^1]: Az 1–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
