@@ -32,6 +32,4 @@
 
 (3) A Hivatal által határozatban megállapított hulladékgazdálkodási közszolgáltatási díj legfeljebb a 47/A. § (1) bekezdése alapján kiadott – következő díjfizetési időszakra vonatkozó – miniszteri rendelet hatálybalépéséig alkalmazható.”
 
-(3) A Ht. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közszolgáltató a Hivatal részére a tárgyév díjfelügyeleti tevékenységéért a tárgyév június 30. napjáig felügyeleti díjat fizet.”
+(3)

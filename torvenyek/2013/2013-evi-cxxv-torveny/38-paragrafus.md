@@ -14,19 +14,7 @@ e) gondoskodik az a)–d) pontban meghatározott hulladékgazdálkodási közszo
 
 f) a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítményt üzemelteti.”
 
-(2) A Ht. 43. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy
-
-a) a hulladék hasznosítható összetevői ne keveredjenek vagy fizikai válogatással elkülöníthetők legyenek;
-
-b) az ingatlanhasználónak a lehető legkevesebb gyűjtőedény elhelyezéséről kelljen gondoskodnia;
-
-c) a papír-, üveg-, műanyag, fém- és biohulladék, valamint a háztartásban képződő veszélyes hulladék elkülönített gyűjtése biztosított legyen;
-
-d) a települési hulladék hulladékgyűjtő szigeten történő elhelyezése csak kiegészítő megoldásként, elsősorban olyan sűrűn lakott településrészeken legyen alkalmazható, ahol az elkülönítetten gyűjtött hulladék házhoz menő gyűjtése és elszállítása nem biztosítható;
-
-e) a hulladékgyűjtő udvarok kialakítása, a lomhulladék összegyűjtésének és elszállításának megszervezése biztosított legyen.”
+(2)
 
 (3) A Ht. 44. §-a helyébe a következő rendelkezés lép:
 

@@ -24,11 +24,7 @@
 
 „36a. közszolgáltatási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül az ingatlanhasználók részére az adott hulladékgazdálkodási közszolgáltatást ugyanaz a közszolgáltató végzi;”
 
-(5) A Ht. 2. § (1) bekezdés 37. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„37. közszolgáltató: az a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező és a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint minősített nonprofit gazdasági társaság, amely a települési önkormányzattal kötött hulladékgazdálkodási közszolgáltatási szerződés alapján hulladékgazdálkodási közszolgáltatást lát el;”
+(5)
 
 (6) A Ht. 2. § (1) bekezdés 38–40. pontja helyébe a következő rendelkezés lép:
 
