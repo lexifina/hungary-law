@@ -1,4 +1,4 @@
-33. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya – az e törvényben és az Ftv.-ben foglaltakon túlmenően – megszűnik a rektor határozata alapján elbocsátással, a határozat jogerőre emelkedésének napján.
+33. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya – az e törvényben és az Nftv.-ben foglaltakon túlmenően – megszűnik a rektor határozata alapján elbocsátással, a határozat jogerőre emelkedésének napján.
 
 (2) A hallgatói jogviszony – a (4) bekezdésben foglalt korlátozással – elbocsátással akkor szüntethető meg, ha
 
