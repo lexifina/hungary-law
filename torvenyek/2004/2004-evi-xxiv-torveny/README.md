@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-24-00-00
 | 2012-05-01 | 2012. évi XIII. törvény | 2004-24-00-00.14 |
 | 2013-01-01 | 2012. évi CCXIV. törvény | 2004-24-00-00.15 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2004-24-00-00.16 |
+| 2013-07-13 | 2013. évi CXXIX. törvény | 2004-24-00-00.17 |
