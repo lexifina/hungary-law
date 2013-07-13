@@ -8,7 +8,7 @@ b) az alaptőkén felüli vagyon terhére;
 
 c) dolgozói részvény forgalomba hozatalával; illetve
 
-d) feltételes alaptőke-emelésként, átváltoztatható kötvény forgalomba hozatalával
+d) feltételes alaptőke-emelésként, átváltozó vagy átváltoztatható kötvény forgalomba hozatalával történik.
 
 történik.
 

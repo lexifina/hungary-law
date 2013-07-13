@@ -18,7 +18,7 @@ a) a nem pénzbeli hozzájárulás tárgyát, értékét, szolgáltatásának id
 
 b) az egyes részvényfajtákhoz, részvényosztályokhoz, illetve részvénysorozatokhoz kapcsolódó jogokat és a részvényekhez fűződő egyes jogok esetleges korlátozását, a részvények más részvényfajtába, részvényosztályba, illetve részvénysorozatba tartozó részvényre történő átalakításának szabályait, valamint az egyes részvényfajtához, illetve részvényosztályhoz tartozó részvények számát, névértékét, illetve kibocsátási értékét részvénysorozatonként;
 
-c) az átváltoztatható vagy jegyzési jogot biztosító kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;
+c) az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;
 
 d) a részvények átruházásának korlátozását vagy annak a részvénytársaság beleegyezéséhez kötését;
 

@@ -1,8 +1,8 @@
-## Alaptőke-emelés átváltoztatható kötvény forgalomba hozatalával
+## Alaptőke-emelés átváltoztatható vagy átváltozó kötvény forgalomba hozatalával
 
-263. § (1) A közgyűlés feltételes alaptőke-emelést határozhat el átváltoztatható kötvény forgalomba hozatalával. Az átváltoztatható kötvény zártkörű vagy nyilvános forgalomba hozatala során az értékpapírokra vonatkozó törvényi rendelkezések alkalmazandók.
+263. § (1) A közgyűlés vagy felhatalmazásával az igazgatóság feltételes alaptőke-emelést határozhat el átváltoztatható vagy átváltozó kötvény forgalomba hozatalával. Az átváltoztatható, ill. az átváltozó kötvény zártkörű vagy nyilvános forgalomba hozatala során az értékpapírokra vonatkozó törvényi rendelkezések alkalmazandók.
 
-(2) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban meg kell határozni
+(2) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban vagy a közgyűlés felhatalmazásával eljáró igazgatóság határozatában meg kell határozni
 
 a) a kötvénykibocsátás módját (zártkörű, nyilvános);
 
@@ -10,6 +10,8 @@ b) a kibocsátandó kötvények számát, névértékét, illetve kibocsátási 
 
 c) a kötvények részvénnyé történő átalakításának feltételeit, időpontját;
 
-d) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
+d) átváltozó kötvény esetén a részvénnyé történő átváltozásának objektív feltételét vagy feltételeit;
 
-e) zártkörű kötvény kibocsátása esetén a kötvények jegyzésére jogosult személyeket, és az általuk jegyezhető kötvények számát és egyéb jellemzőit.
+e) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
+
+f) zártkörű kötvény kibocsátása esetén a kötvények jegyzésére jogosult személyeket, és az általuk jegyezhető kötvények számát és egyéb jellemzőit.

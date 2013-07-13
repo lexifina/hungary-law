@@ -22,7 +22,7 @@ g) döntés a nyomdai úton előállított részvény dematerializált részvén
 
 h) az egyes részvénysorozatokhoz fűződő jogok megváltoztatása, illetve az egyes részvényfajták, osztályok átalakítása;
 
-i) döntés – ha e törvény másként nem rendelkezik – az átváltoztatható vagy jegyzési jogot biztosító kötvény kibocsátásáról;
+i) döntés – ha e törvény másként nem rendelkezik – az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvény kibocsátásáról;
 
 j) döntés – ha e törvény másként nem rendelkezik – az alaptőke felemeléséről;
 
