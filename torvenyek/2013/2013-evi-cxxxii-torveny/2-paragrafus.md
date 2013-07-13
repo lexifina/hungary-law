@@ -1,0 +1,1 @@
+2. § Hatályát veszti a Vjt. 2. számú mellékletében a Budapest 08. számú országgyűlési egyéni választókerületének területét meghatározó leírásban az „a rákosszentmihályi körvasút sor vonalát követve, a Vezseny utcán, a Rákospalotai határúton a XIV.–XV.–XVI. kerületek hármas határpontjáig, ezután a rákospalotai körvasút sorig,” szövegrész.
