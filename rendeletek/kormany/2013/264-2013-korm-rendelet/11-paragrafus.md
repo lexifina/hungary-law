@@ -1,1 +1,0 @@
-## „(6) A belső ellenőrzési vezető az éves ellenőrzési terv végrehajtásáról év közben az ellenőrzések megkezdésekor és befejezésekor tájékoztatja az érintett helyi önkormányzatok jegyzőit, főjegyzőit.”
