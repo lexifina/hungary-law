@@ -6,12 +6,6 @@
 
 (3) A radioaktív anyagok nyilvántartásával kapcsolatos hatósági ellenőrzés műszaki feltételeinek megteremtésében (adatszolgáltatás fogadása, értékelése, gépi adatfeldolgozás) a Magyar Tudományos Akadémia Izotópkutató Intézet támogatást nyújt a Hivatal részére.
 
-(4) A központi nyilvántartásnak tartalmaznia kell
+(4)[^2]
 
-a) a radioaktív anyag tulajdonosának és birtokosának nevét és címét, a nyilvántartás vezetésére kötelezett természetes személy nevét és címét, vagy a nyilvántartás vezetésére kötelezett jogi személy, jogi személyiség nélküli gazdasági társaság vezetőjének nevét és címét, valamint a radioaktív anyag feltalálási helyét;
-
-b) zárt sugárforrások esetében – ideértve a radioaktív hulladékká minősített zárt sugárforrásokat is – tulajdonosonként és birtokosonként és radionuklidonként a radioaktív anyagok engedélyezett maximális készletét, aktuális készletét, fajtáját, aktivitását és rendeltetését (a felhasználás, és az alkalmazás engedélyezett formáját);
-
-c) nyitott sugárforrások esetében – ide nem értve a radioaktív hulladékokat – a 10. § (1) bekezdésében meghatározott leltárfelvételi periódusra vonatkoztatva tulajdonosonként és birtokosonként, valamint radionuklidonként a radioaktív anyagok mennyiségét, készletváltozását, felhasználását, fajtáját, eredeti aktivitását és rendeltetését;
-
-d) radioaktív hulladékok esetében – ide nem értve a radioaktív hulladékká minősített zárt sugárforrásokat – a 10. § (1) bekezdésében meghatározott leltárfelvételi periódusra vonatkoztatva a radioaktív hulladékok mennyiségét, készletváltozását és fajtáját tulajdonosonként és birtokosonként, radioaktív hulladék osztályonként, valamint amennyiben ismert, radionuklidonként.
+[^2]: A 6. § (4) bekezdését a 38/2013. (VII. 12.) NFM rendelet 1. § a) pontja hatályon kívül helyezte.
