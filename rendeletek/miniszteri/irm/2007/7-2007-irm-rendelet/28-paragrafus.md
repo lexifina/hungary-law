@@ -6,7 +6,7 @@ a) a nukleáris anyag birtoklása és azzal való bármely tevékenység megkezd
 
 b) a biztosítéki szempontból jelentőséggel bíró átalakítások megkezdéséhez (átalakítási biztosítéki nyilvántartásba vétel);
 
-c)[^20] a külön jogszabály szerint nem export-import engedélyköteles nukleáris anyagok Magyarországra való beszállításához, valamint Magyarországról való kiszállításához (szállítási biztosítéki nyilvántartásba vétel);
+c)[^23] a külön jogszabály szerint nem export-import engedélyköteles nukleáris anyagok Magyarországra való beszállításához, valamint Magyarországról való kiszállításához (szállítási biztosítéki nyilvántartásba vétel);
 
 d) a nukleáris tevékenység megszüntetése után a rendelet szerinti követelmények alóli felmentéshez (felmentési biztosítéki nyilvántartásba vétel).
 
@@ -84,4 +84,4 @@ i) a szállításért való felelősség átadásának helyét.
 
 (8) A felmentési biztosítéki nyilvántartásba vételre irányuló kérelemben a kérelmezőnek be kell mutatni a nukleáris anyagnak a szervezet felelőssége alól való kikerülés módját, a tevékenység végleges felszámolására tett lépéseket, valamint a nukleáris anyagokkal kapcsolatos dokumentációt 5 évre visszamenőleg.
 
-[^20]: A 28. § (1) bekezdés c) pontja a 91/2011. (XII. 30.) NFM rendelet 56. § c)–d) pontja szerint módosított szöveg.
+[^23]: A 28. § (1) bekezdés c) pontja a 91/2011. (XII. 30.) NFM rendelet 56. § c)–d) pontja szerint módosított szöveg.
