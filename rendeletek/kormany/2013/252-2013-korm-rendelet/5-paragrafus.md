@@ -1,4 +1,4 @@
-## 4. §[^4]
+## 4. §[^6]
 
 ## 5. Hatályba léptető rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. §, a 2. § (1) és (2) bekezdése, a 3. § (7) bekezdése, valamint a 4. § 2013. október 1-jén lép hatályba.
 
-[^4]: A 4. § az 5. § (2) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^6]: A 4. § az 5. § (2) bekezdése alapján 2013. október 1-jén lép hatályba.
