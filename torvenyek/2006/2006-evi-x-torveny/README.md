@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-10-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 2006-10-00-00.11 |
 | 2013-05-03 | 2013. évi XLI. törvény | 2006-10-00-00.12 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2006-10-00-00.13 |
+| 2013-07-13 | 2013. évi CXXXV. törvény | 2006-10-00-00.14 |

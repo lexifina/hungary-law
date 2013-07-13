@@ -3,3 +3,5 @@
 (2) A szavazatok kétharmadát kitevő szavazattöbbség szükséges a 20. § (2) bekezdésének k), l), m) pontjaiban meghatározott ügyekben, az a) pontjában foglalt határozathoz a szövetkezet összes tagja felének, de legalább a jelenlévők kétharmadának a szavazata szükséges, az i) és n) pontjában foglalt határozathoz pedig a szövetkezet összes tagja kétharmadának szavazata szükséges.
 
 (3) A közgyűlés a határozatokat nyílt szavazással hozza meg, a vezető tisztségviselők és a felügyelő bizottság tagjai megválasztására és visszahívására vonatkozó határozatok kivételével, amelyekben titkos szavazással dönt.
+
+(4) Külön törvényben meghatározott esetben a szövetkezet vezető tisztségviselőjét átmeneti időre törvényben erre feljogosított szervezet választhatja meg és hívhatja vissza. Az ilyen vezető tisztségviselő megbízása a szövetkezet legfőbb szerve következő üléséig tart, amelyet a törvényben meghatározott legrövidebb időn belül össze kell hívni és meg kell tartani.

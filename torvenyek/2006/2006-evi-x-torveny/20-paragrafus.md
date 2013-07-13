@@ -48,6 +48,8 @@ p) mindaz, amit törvény vagy alapszabály a közgyűlés hatáskörébe utal.
 
 a) olyan ügyről kell határozni, amely a közgyűlés kizárólagos hatáskörébe tartozik, és a késedelmes döntés a szövetkezet működőképességét veszélyeztetné, illetve a szövetkezet jogszabályban vagy az alapszabályban előírt kötelezettségének megsértésével járna;
 
-b) a tagok legalább tíz százaléka vagy a felügyelő bizottság írásban, az ok megjelölésével indítványozza.
+b) a tagok legalább tíz százaléka vagy a felügyelő bizottság írásban, az ok megjelölésével indítványozza;
+
+c) Takarékszövetkezet és hitelszövetkezet esetén az Integrációs szervezet illetve a Magyarországi Takarékszövetkezeti Bank Zrt. a vezető tisztségviselők vonatkozásában tisztújítás érdekében indítványozza.
 
 (6) A közgyűlést (küldöttgyűlést) – ha az alapszabály eltérő helyet nem állapít meg – a szövetkezet székhelyén kell megtartani.
