@@ -20,7 +20,9 @@ ac) a Felügyelet által jóváhagyott helyreállítási tervben foglaltakat nem
 
 b) a hitelintézet szavatolótőkéje nem éri el a 76. § (1) bekezdésében meghatározott tőkekövetelmény ötven százalékát, vagy
 
-c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását.
+c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását,
+
+d) a szövetkezeti hitelintézet működési engedélyét a Felügyelet a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági vonatkozású jogszabályok módosításáról szóló 2013. évi CXXXV. tv. amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés alapján visszavonja
 
 (3)
 

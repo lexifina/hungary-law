@@ -1,6 +1,6 @@
 ## XX. Fejezet
 
-## Önkéntes betét- és intézménybiztosítás
+## Betét- és intézménybiztosításra
 
 128. § (1) A hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapot (a továbbiakban: önkéntes alap) hozhatnak létre. Az önkéntes alap jogi személy.
 

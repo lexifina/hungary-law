@@ -12,7 +12,7 @@ d) részvényfajta megváltoztatása, új részvényfajta kibocsátása, vagy a 
 
 e) az igazgatóság jogkörének módosítása,
 
-f) átváltoztatható vagy elővásárlási jogot biztosító kötvény kibocsátása és az azokra vonatkozó szabályok módosítása,
+f) átváltoztatható, átváltozó vagy elővásárlási jogot biztosító kötvény kibocsátása és az azokra vonatkozó szabályok módosítása,
 
 g) részvényre vonatkozó elővásárlási jog alapítása és megváltoztatása,
 

@@ -167,15 +167,3 @@ f) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló 
 16. Ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 15. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
 
 17. A járulékos tőke negatív összetevője:
-
-az alárendelt kölcsöntőke figyelembe nem vehető része.
-
-18. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
-
-a) kielégíti a 11. pont a)–m) és o)–q) alpontban meghatározott feltételeket, és
-
-b) ha egy adott évben a 11. pont k) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 11. pont k) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
-
-19. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
-
-a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,

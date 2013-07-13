@@ -1,3 +1,3 @@
-## XX/A. Fejezet
+130/A. § (1) Törvény kimondhatja intézményvédelmi integrációs szervezet létrehozását (kötelező intézményvédelmi szervezet).
 
-130/A. §
+(2) A kötelező intézményvédelmi szervezet szervezetének és működésének szabályait törvény határozza meg.
