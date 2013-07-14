@@ -1,15 +1,17 @@
-6. § (1) E rendelet hatálybalépését követően a Kormány irányítása alá tartozó központi költségvetési szervek által indított informatikai tárgyú projektek projektgazdai feladatait
+6. § (1)[^7]
 
-a) a 4. § a) pontjában megjelölt projektek esetén a Kormány erre vonatkozó külön döntése alapján,
+(2)[^8] A megvalósítani tervezett projekteknél a KIFÜ önállóan, vagy amennyiben a KIFÜ a konzorciumvezető – a projektek eredményeként megvalósuló informatikai fejlesztések használóival, hasznosítóival (a továbbiakban: befogadó intézmények) együtt a közreműködő szervezettel kötendő támogatási szerződéssel, az EU-s és más nemzetközi támogatások elnyeréséhez szükséges pályázattal, vagy a Kormány részére készített előterjesztéssel gondoskodik a fejlesztésekhez szükséges forrás megszerzéséről.
 
-b) a 4. § b) pontjában megjelölt fejlesztések esetén a Kormány döntése vagy az érintett miniszterek erre vonatkozó megállapodása alapján
+(3)[^9] A konzorciumi formában megvalósított projekteknél a KIFÜ mint konzorciumvezető (kivételes esetben, mint konzorciumi tag) látja el a projektmenedzsment feladatokat. A projektek során megvalósult fejlesztések jövőbeli fenntartásáról és üzemeltetéséről a befogadó intézmények gondoskodnak az irányító miniszterek rendelkezése szerint. A befogadó intézmények a projekt fizikai megvalósítását követően, a fenntartási időszak első napjától kezdődően kötelesek az informatikai fejlesztések tulajdonjogának vagy vagyonkezelői jogának az átvételére. Az intézmények az átvételt megelőzően kellő időben gondoskodnak az átvett vagyonelemek fenntartásához, üzemeltetéséhez szükséges költségvetési források rendelkezésre állásáról.
 
-ágazatoktól függetlenül – a nemzetbiztonsági és honvédelmi feladatok támogatása érdekében végzett fejlesztések kivételével – egységesen a KIFÜ látja el.
-
-(2) A megvalósítani tervezett és az (1) bekezdés szerint a KIFÜ feladatkörébe utalt projektek esetén a KIFÜ önállóan, vagy a Kormány irányítása alá tartozó befogadó intézményekkel együtt konzorciumi formában, mint konzorciumvezető a közreműködő szervezettel kötendő támogatási szerződéssel, az EU-s és más nemzetközi támogatások elnyeréséhez szükséges pályázattal, vagy a Kormány részére készített előterjesztéssel gondoskodik a fejlesztésekhez szükséges forrás megszerzéséről.
-
-(3) A konzorciumi formában megvalósított projekteknél a KIFÜ mint konzorciumvezető projektgazda látja el a projekt vezetésének feladatát, a befogadó intézmények a szakmai irányítást végzik. A projektek során megvalósult informatikai fejlesztések jövőbeli fenntartásáról és üzemeltetéséről a befogadó intézmények gondoskodnak az irányító miniszterek rendelkezése szerint.
-
-(4) A 4. § c) pontjában megjelölt uniós társfinanszírozású projektek esetén a Kormány által kijelölt projektgazda támogatására a KIFÜ projektmenedzsment szolgáltatást nyújthat, amelynek feltételeiről megállapodásban kell rendelkezni.
+(4)[^10]
 
 (5) A Kormány irányítása alá nem tartozó központi költségvetési szervek informatikai fejlesztéseinél a KIFÜ erre irányuló megállapodás esetén látja el a projektgazdai feladatköröket.
+
+(6)[^11] A KIFÜ az európai uniós forrásból társfinanszírozott projektekhez kapcsolódó rendszerek fenntartásában, üzemeltetésében – ha jogszabály ettől eltérően nem rendelkezik – a befogadó intézményekkel kötött megállapodásban foglaltak szerint vehet részt. Befogadó intézmény hiányában a projektekhez kapcsolódó rendszerek fenntartását, üzemeltetését a KIFÜ végzi.
+
+[^7]: A 6. § (1) bekezdését a 268/2013. (VII. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^8]: A 6. § (2) bekezdése a 268/2013. (VII. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § (3) bekezdése a 268/2013. (VII. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 6. § (4) bekezdését a 268/2013. (VII. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^11]: A 6. § (6) bekezdését a 268/2013. (VII. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
