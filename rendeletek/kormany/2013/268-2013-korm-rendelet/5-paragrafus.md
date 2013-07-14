@@ -1,0 +1,1 @@
+## „(6) A KIFÜ az európai uniós forrásból társfinanszírozott projektekhez kapcsolódó rendszerek fenntartásában, üzemeltetésében – ha jogszabály ettől eltérően nem rendelkezik – a befogadó intézményekkel kötött megállapodásban foglaltak szerint vehet részt. Befogadó intézmény hiányában a projektekhez kapcsolódó rendszerek fenntartását, üzemeltetését a KIFÜ végzi.”
