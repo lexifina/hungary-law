@@ -1,3 +1,1 @@
-## „(2) Kivéve, ha külön törvény másként rendelkezik, ha az alaptőke felemelésére pénzbeli hozzájárulás ellenében kerül sor, a részvénytársaság részvényeseit, ezen belül első helyen a forgalomba hozott részvényekkel azonos részvénysorozatba tartozó részvénnyel rendelkező részvényeseket, majd az átváltoztatható, és velük egy sorban a jegyzési jogot biztosító kötvények tulajdonosait – ebben a sorrendben – az alapszabályban meghatározott feltételek szerint a részvények átvételére vonatkozó elsőbbségi jog illeti meg. Az átváltozó kötvény tulajdonosát elsőbbségi jog nem illeti meg.”
-
 39. § A polgári törvénykönyvről szóló 2013. évi V. tv. a 3:240. § rendelkezéseit követően az alábbi 3:240/A. §-sal kiegészülve lép hatályba:
