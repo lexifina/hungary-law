@@ -920,6 +920,8 @@
 
 | 51 | URB-754 | 6-methyl-2-[(4-methylphenyl)amino]-1-benzoxazin-4-one |
 
+| 52. | para-methyl-4-methylaminorex (para-metil-4- metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)–4,5-dihydro- 1,3-oxazol-2-amine, illetve 4-methyl-5-(4- methylphenyl)–1,3-oxazolidin-2-imine tautomerek |
+
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek;
 
 ## – az ebben a jegyzékben felsorolt anyagok sói, beleértve a fent említett sztereoizomerek sóit, amennyiben ilyen sók léteznek.

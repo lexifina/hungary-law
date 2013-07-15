@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-66-20-2
 | 2013-01-01 | 2012-66-20-22.5 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2013-02-01 | 2012-66-20-22.6 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-07-06 | 2012-66-20-22.7 | 254/2013. (VII. 5.) Korm. rendelet |
+| 2013-07-15 | 2012-66-20-22.8 | 308/2012. (XI. 6.) Korm. rendelet |
