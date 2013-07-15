@@ -6,7 +6,7 @@
 
 a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – állami, önkormányzati vagy az egészségügyi közszolgáltatások nyújtása tekintetében ezekkel egy tekintet alá eső egyházi, valamint felsőoktatási intézményi – ideértve az egészségtudományi centrumokat, az egyetemi klinikai központokat, klinikákat – tulajdonban, illetve fenntartásban álló, fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
 
-b) az a) pontban meghatározott ellátások, szolgáltatások nyújtása keretében tevékenységet végző, a (4)–(6) bekezdésben meghatározott munkakörben foglalkoztatott alkalmazott egészségügyi dolgozókra és egészségügyben dolgozókra
+b) az a) pontban meghatározott ellátások, szolgáltatások nyújtása keretében tevékenységet végző, a (4)–(6a) bekezdésben meghatározott munkakörben foglalkoztatott alkalmazott egészségügyi dolgozókra és egészségügyben dolgozókra
 
 kell alkalmazni.
 
@@ -18,15 +18,15 @@ b) a jogviszonyban töltött idő alapján fizetési fokozatba
 
 kell sorolni.
 
-(4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az 1/a. melléklet szerint számított összeg.
+(4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az 1. melléklet szerinti összeg.
 
 (5) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott egészségügyi szakdolgozó és egészségügyben dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint a 2. melléklet szerint számított összeg.
 
-(6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 31 435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
+(6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 41435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
 (7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményalapra (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
 
-(8) A (6) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
+(8) A (6) és (6a) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
 
 (9) Az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő részére a képzés ideje alatt, foglalkoztatási jogviszonytól függetlenül havonta legalább
 
