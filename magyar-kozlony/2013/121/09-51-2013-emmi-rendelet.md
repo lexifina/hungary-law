@@ -1,0 +1,158 @@
+# Az emberi erőforrások minisztere 51/2013. (VII. 15.) EMMI rendelete
+
+Magyar Közlöny 2013. évi 121. szám, 2013. július 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a34e5d7dbd5dd40e77705a7fcbbcb4148ee274b9/dokumentumok/f97998d4800f021fd1346679a6f1846d7f80d84a/letoltes)
+
+---
+
+Az emberi erőforrások minisztere 51/2013. (VII. 15.) EMMI rendelete
+az egészségügyi szolgáltatás keretében használt, éles vagy hegyes munkaeszközök által okozott sérülések
+megelőzésére, az ilyen eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi
+tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményekről
+Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (9) bekezdés c) pontjában kapott
+felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló
+212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint
+a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § m) pontjában
+meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
+1. A rendelet hatálya
+1. §
+E rendelet hatálya kiterjed
+a) a munkavállalót foglalkoztató egészségügyi szolgáltatóra,
+b) az egészségügyi szolgáltatónál közalkalmazotti jogviszonyban, munkaviszonyban, közszolgálati
+jogviszonyban, kormányzati szolgálati viszonyban, valamint szolgálati jogviszonyban foglalkoztatott,
+egészségügyi tevékenységet végző természetes személyre,
+c) a b) pont hatálya alá nem tartozó, az egészségügyi szolgáltatónál a szolgáltató működőképességének, illetve
+az egészségügyi szolgáltatások üzemeltetésének biztosítása céljából munkavégzésre irányuló jogviszony
+alapján tevékenységet végző természetes személyre, és
+d) a közvetlenül az egészségügyi ágazathoz kapcsolódó szolgáltatásokban és tevékenységekben részt vevő
+gyakornokokra és tanulókra.
+2. Értelmező rendelkezések
+2. § (1) E rendelet alkalmazásában
+a) expozíció: az egészségügyi szolgáltatás során az éles vagy hegyes eszközök használatával összefüggő baleset
+vagy egészségkárosodás kockázatának való kitettség,
+b) megelőző intézkedések: a kockázatértékelés, valamint az éles vagy hegyes munkaeszközök (a továbbiakban:
+éles vagy hegyes eszköz) biztonságos alkalmazására vonatkozó előírások alapján meghozott,
+az egészségügyi ellátáshoz közvetlenül kapcsolódó szolgáltatások és tevékenységek során bekövetkező
+sérülések vagy fertőzések megakadályozását célzó intézkedések, ideértve a szükséges legbiztonságosabb
+eszköz alkalmazását,
+c) munkahely: a munkavállalót foglalkoztató egészségügyi szolgáltató székhelye vagy telephelye, illetve minden
+egyéb olyan hely, ahol egészségügyi szolgáltatást nyújtanak, illetve egészségügyi tevékenységet végeznek,
+d) munkáltató: a munkavállalót foglalkoztató egészségügyi szolgáltató, aki vagy amely felelős az egészségügyi
+szolgáltatás nyújtásáért, valamint a munkavállalók által végzett egészségügyi tevékenység irányításáért és
+szervezéséért,
+e) munkavállaló: az 1. § b)–d) pontja szerinti személy, függetlenül a foglalkoztatás határozott vagy határozatlan
+időtartamú jellegétől, ide értve a munkaerő-kölcsönzés vagy közfoglalkoztatás keretében alkalmazott
+munkavállalókat is,
+f) munkavállalók biztonsági és egészségvédelmi képviselője: a munkavédelemről szóló törvény szerinti
+munkavédelmi képviselő vagy a munkavédelmi bizottság tagja, továbbá a munkavállalói érdekképviseletek
+munkahelyen működő szervezetének vezetője.
+(2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az egészségügyi hatósági és igazgatási
+tevékenységről szóló törvény, az egészségügyről szóló törvény, valamint a munkavédelemről szóló törvény fogalom
+meghatározásait kell figyelembe venni.
+3. Közös szabályok
+3. § (1) A munkavégzés során az éles vagy hegyes eszközök által a munkavállalóknak okozott sérülések és fertőzések
+kockázatának megszüntetéséhez vagy minimálisra csökkentéséhez elsődlegesen az expozíció megelőzésére kell
+törekedni.
+
+(2) A munkáltatónak gondoskodnia kell a munkavállalók éles vagy hegyes eszközökkel történő biztonságos és
+az egészséget nem veszélyeztető munkavégzésének feltételeiről.
+(3) A munkavállalók munkavégzésük során az éles vagy hegyes eszközök használatára vonatkozó szabályok
+betartásával óvják a maguk és az általuk ellátott személyek biztonságát.
+(4) A munkáltatók és a munkavállalók képviselői együttműködnek az éles vagy hegyes eszközök által okozott
+sérülések és fertőzések megelőzésében, a biztonságos munkakörülmények kialakításában, fenntartásában, illetve
+a bekövetkezett sérülések dokumentálásában, kivizsgálásában és bejelentésében.
+4. Kockázatértékelés, kockázatkezelés és -megelőzés
+4. § (1) Az egészségügyi szolgáltató az éles vagy hegyes eszközök kiválasztásakor, ezt követően a biológiai tényezők
+hatásának kitett munkavállalók egészségének védelméről szóló rendeletben előírt gyakorisággal értékeli
+a munkavállalók biztonságát és egészségét érintő kockázatokat.
+(2) A kockázatértékelésnek figyelembe kell vennie az adott egészségügyi szolgáltatónál alkalmazott technológiát,
+az expozíció meghatározását, az expozíció jellegét, mértékét, tartalmát, a munkaszervezést, a munkakörülményeket,
+a képesítések szintjét, a munkához kapcsolódó pszichoszociális tényezőket, valamint a munkakörnyezethez
+kapcsolódó tényezők hatásait.
+(3) A kockázatértékelés tartalmazza:
+a) a munkáltatónál használt, e rendelet hatálya alá tartozó éles vagy hegyes eszközök felsorolását,
+b) az a) pont szerinti éles vagy hegyes eszközönként az esetleges expozíció kockázatának meghatározását,
+c) azon, az egészségügyi szolgáltató által nyújtott egészségügyi ellátások részét képező egészségügyi
+tevékenységeket magukban foglaló szakmák felsorolását, amelyek érintik vagy érinthetik az expozíciónak
+kitett munkavállalók egyes csoportjait és
+d) az a) pont szerinti éles vagy hegyes eszközök közül azok felsorolását, amelyek alternatív, illetve
+biztonságosabb eszközökkel helyettesíthetők, továbbá ha helyettesítésük nem lehetséges, annak
+indokolását.
+(4) Amennyiben a kockázatértékelés a munkavállaló biztonságát vagy egészségét veszélyeztető kockázat jelenlétét
+állapítja meg, az egészségügyi szolgáltató – a telephelye szerint illetékes – fővárosi és megyei kormányhivatal
+munkavédelmi felügyelőségének elektronikus vagy egyéb úton megküldi a kockázatértékelést, valamint ezzel
+egyidejűleg bejelenti:
+a) az egészségügyi szolgáltató nevét, székhelyét, a bejelentéssel érintett telephelyét, az adószámát, illetve
+adóazonosító jelét, a munkáltató és az érintett telephely TEÁOR számát;
+b) a kockázatnak kitett munkavállalók számát;
+c) a kockázatnak kitett munkavállalók foglalkozási csoportjai (FEOR kód) és a munkaköri tevékenységek
+felsorolását;
+d) a munkavállalók biztonsági és egészségvédelmi képviselőjének nevét, beosztását, és
+e) a megtett megelőző intézkedéseket.
+5. §
+A belügyminiszter irányítása alá tartozó rendvédelmi szervek, valamint a Magyar Honvédség és a Katonai
+Nemzetbiztonsági Szolgálatok a 4. § (4) bekezdése szerinti bejelentési kötelezettségüket a felettük munkavédelmi
+hatósági jogkört gyakorló kijelölt szervezet részére teljesítik.
+6. § (1) Ha a kockázatértékelés a munkavállalók biztonságának vagy egészségének kockázatát igazolja, az éles vagy hegyes
+eszközök használatából adódó kockázatnak való kitettséget meg kell akadályozni, vagy ha ez nem lehetséges, azt
+a lehető legalacsonyabb szintre kell csökkenteni.
+(2) Ha az expozíció megakadályozása vagy megszüntetése az egészségügyi szolgáltatás munkafolyamatai során nem
+lehetséges, a kockázatot olyan minimális szintre kell csökkenteni, hogy az érintett munkavállalók egészsége és
+biztonsága az a)–d) pontban foglaltaknak megfelelően biztosítva legyen. Ennek érdekében:
+a) a munkafolyamatot úgy kell tervezni, illetve szabályozni, hogy minimális szintre csökkenjen az expozíció
+lehetősége az érintett munkavállalók körében,
+b) megfelelő védőeszközöket kell biztosítani és használatukat rendszeresen ellenőrizni kell,
+
+c) belső szabályzatban kell meghatározni az érintett munkavállalók tájékoztatására, képzésére, a védőeszközök
+használatára, az éles vagy hegyes eszközök használatából adódó esetleges sérülések, fertőzések
+megelőzésére – ideértve a szükségessé váló védőoltás biztosítását is – szolgáló munkáltatói rendelkezéseket,
+és
+d) elő kell írni, hogy az éles vagy hegyes eszközöket használatuk után egységenként, védőkupak visszatétele
+nélkül kell az arra rendszeresített gyűjtőeszközbe helyezni.
+(3) A 4. § (1) bekezdése szerinti kockázatértékelést és a 4. § (4) bekezdése szerinti bejelentést az egészségügyi
+szolgáltatás nyújtására irányuló működési engedély megszerzése esetén vagy az éles vagy hegyes eszközzel
+érintett egészségügyi tevékenységet magában foglaló szakmát érintő működési engedély módosítása esetén
+az egészségügyi szolgáltató legkésőbb a működési engedély jogerőre emelkedésének napjától számított három
+hónapon belül készíti el, illetve teszi meg.
+7. § (1) Ha a munkavégzés jellege lehetővé teszi, a gyakorlat megváltoztatására, illetve az éles vagy hegyes eszközök olyan
+helyettesítésére kell törekedni, amely nem vagy kevésbé veszélyezteti a munkavállaló egészségét.
+(2) A munkavállalónak kötelessége a sérülések által okozott fertőződés kockázatának megismerése és a kockázat
+csökkentésére irányuló védőeszközök használata.
+5. Képzés, tájékoztatás
+8. § (1) A munkáltató gondoskodik arról, hogy a munkavállaló és a munkavédelmi képviselő – tájékoztatás és képzés
+(a továbbiakban együtt: képzés) formájában – elégséges és megfelelő információt kapjon
+a) az egészséget fenyegető kockázatokról,
+b) az expozíció megelőzését szolgáló intézkedésekről,
+c) az éles vagy hegyes eszközök biztonságos használatára vonatkozó előírásokról,
+d) az egyéni védőeszköz viseléséről és használatáról,
+e) az előre nem látható veszélyhelyzetek megelőzéséről,
+f) az éles vagy hegyes eszközök által okozott sérülések esetén teendő intézkedésekről és
+g) a vonatkozó hatályos jogszabályi rendelkezésekről.
+(2) A munkáltatónak a munkavállalót a munkába állás előtt, ezt követően évente kell képzésben részesítenie, és annak
+elvégzését írásban kell dokumentálnia.
+(3) A (2) bekezdésben foglaltaktól eltérően a munkáltató a munkavállalót soron kívül képzésben részesíti
+a) új kockázatok megjelenésekor vagy a kockázatok megváltozásakor, továbbá
+b) a munkavállaló használatában lévő éles vagy hegyes eszköz által okozott sérülést követően.
+6. Intézkedések, utókövetési követelmények
+9. § (1) A munkáltató köteles megtenni az éles vagy hegyes eszköz által okozott sérülést szenvedett munkavállaló
+ellátásához szükséges azonnali intézkedéseket, ideértve az expozíciót követően szükséges védőoltás vagy megelőző
+gyógykezelés és az egészségügyi okokból javasolt, szükséges orvosi vizsgálatok, valamint az azonnali vagy
+időszakos szűrővizsgálatok biztosítását is.
+(2) A munkavállaló köteles megfelelő időben tájékoztatást nyújtani annak érdekében, hogy az éles vagy hegyes eszköz
+okozta baleset vagy váratlan esemény részletei megismerhetőek legyenek az egészségügyi szolgáltató számára.
+(3) A munkáltató a foglalkozás-egészségügyi alapellátója útján gondoskodik a sérült munkavállaló egészségi
+állapotának figyelemmel kíséréséről, szükség esetén rehabilitációjáról.
+7. Záró rendelkezések
+10. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+11. §
+Az e rendelet hatálybalépésekor működési engedéllyel rendelkező egészségügyi szolgáltató a kockázatértékelést és
+a bejelentést a biológiai tényezők hatásának kitett munkavállalók egészségének védelméről szóló 61/1999. (XII. 1.)
+EüM rendelet 3. § (3) bekezdésében előírt, soron következő kockázatértékelés keretében, illetve azzal egyidejűleg
+készíti el, illetve teszi meg.
+
+12. §
+Ez a rendelet a HOSPEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy
+hegyes eszközök által okozott sérülések megelőzéséről szóló, 2010. május 10-i keretmegállapodás végrehajtásáról
+szóló 2010/32/EU tanácsi irányelvnek való megfelelést szolgálja.
+ Balog Zoltán s. k.,
+ emberi erőforrások minisztere
