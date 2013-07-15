@@ -1,0 +1,9 @@
+# 256/2013. (VII. 5.) Korm. rendelet
+
+egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-07-15 | 2013-256-20-22.1 | 256/2013. (VII. 5.) Korm. rendelet |

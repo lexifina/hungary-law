@@ -1,0 +1,205 @@
+## 22. § A Kr.2. 3. melléklete a 10. melléklet szerint módosul.
+
+1. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
+
+1. Az Eütev. 11/A. § (4) bekezdése szerinti orvosi munkakörök:
+
+1.1. orvosvezető, orvos igazgató
+
+1.2. vezető főorvos (osztály-, részleg-, rendelő)*
+
+1.3. orvos
+
+1.4. szakorvos
+
+1.5. alorvos*
+
+1.6. adjunktus*
+
+1.7. főorvos*
+
+1.8. fogorvos
+
+1.9. fogszakorvos
+
+2. Az Eütev. 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozói és egyes egészségügyben dolgozói munkakörök:
+
+2.1. osztályvezető főnővér**
+
+2.2. osztályvezető főnővér-helyettes**
+
+2.3. vezető ápoló*,**
+
+2.4. vezető ápoló-helyettes**
+
+2.5. vezető (asszisztens, műtős, szülésznő)*
+
+2.6. főápoló/főnővér/klinikai, osztályos, részlegfelelős főnővér/főmadám/főműtős/nő (vezetői megbízás nélkül)
+
+2.7. mentálhigiénés szakember
+
+2.8. egyetemi okleveles ápoló/diplomás ápoló
+
+2.9. általános ápoló
+
+2.10. ápoló, csecsemő- és gyermekápoló
+
+2.11. szakápoló
+
+2.12. ápolási asszisztens
+
+2.13. segédápoló
+
+2.14. egyéb ápoló/szakápoló
+
+2.15. asszisztens
+
+2.16. szakasszisztens
+
+2.17. segédasszisztens
+
+2.18. egyéb asszisztens/szakasszisztens
+
+2.19. laborasszisztens*
+
+2.20. orvosdiagnosztikai laboratóriumi analitikai asszisztens
+
+2.21. dietetikus
+
+2.22. diétás nővér
+
+2.23. rehabilitációs tevékenység terapeuta
+
+2.24. gyógytornász
+
+2.25. konduktor
+
+2.26. szülésznő
+
+2.27. védőnő/családgondozó védőnő
+
+2.28. mentőtiszt
+
+2.29. mentőápoló
+
+2.30. mentő gépkocsivezető
+
+2.31. szolgálatvezető
+
+2.32. betegszállító/betegkísérő
+
+2.33. beteghordó*
+
+2.34. gondozó
+
+2.35. segédgondozó
+
+2.36. egyéb gondozó
+
+2.37. radiográfus
+
+2.38. szonográfus*
+
+2.39. egészségügyi laboráns
+
+2.40. optometrista
+
+2.41. boncmester
+
+2.42. boncsegéd
+
+2.43. klinikai fogászati higiénikus
+
+2.44. műtőtechnikus
+
+2.45. műtőssegéd
+
+2.46. gipszmester
+
+2.47. gyógymasszőr, sportmasszőr
+
+2.48. masszőr (fürdősmasszőr)
+
+2.49. egészségügyi operátor
+
+2.50. orvosírnok
+
+2.51. laboráns, vegyésztechnikus
+
+2.52. kardiotechnikus
+
+2.53. fertőtlenítő sterilező
+
+2.54. sterilizáló*
+
+2.55. egészségnevelő
+
+2.56. foglalkoztató
+
+2.57. szociális munkás
+
+2.58. szociális szervező
+
+2.59. szociális ügyintéző
+
+2.60. szociális gondozó
+
+2.61. közegészségügyi és járványügyi felügyelő, okleveles népegészségügyi szakember
+
+2.62. közegészségügyi járványügyi ellenőr
+
+2.63. közegészségügyi felügyelő*,**
+
+2.64. vezető közegészségügyi felügyelő*
+
+3. Az Eütev. 11/A. § (6) bekezdése szerinti, felsőfokú végzettséggel betölthető munkakörök:
+
+3.1. pszichológus
+
+3.2. klinikai szakpszichológus
+
+3.3. laboratóriumi vegyész, vegyészmérnök, biológus
+
+3.4. klinikai sugárfizikus, klinikai biokémikus, klinikai mikrobiológus, molekuláris biológiai diagnosztikus
+
+3.5. gyógypedagógus
+
+3.6. logopédus
+
+3.7. mikrobiológus*
+
+4. Az Eütev. 11/A. § (6a) bekezdése szerinti gyógyszerészi végzettséggel betölthető munkakörök:
+
+4.1. főgyógyszerész*
+
+4.2. gyógyszertárvezető*
+
+4.3. gyógyszertárvezető helyettes*
+
+4.4. gyógyszerész
+
+4.5. szakgyógyszerész
+
+5. Azon munkakörök, ahol az egészségügyi szakképesítéshez igazodóan szükséges a foglalkoztatott besorolása az 1–4. pont valamelyikébe:
+
+5.1. főigazgató, igazgató
+
+5.2. parancsnok*
+
+5.3. parancsnok helyettes*
+
+5.4. ápolási igazgató
+
+5.5. intézetvezető*
+
+5.6. intézetvezető-helyettes (ápolási-helyettes)*
+
+5.7. foglalkoztatásvezető
+
+5.8. munkavezető, foglalkozásvezető
+
+Jelmagyarázat:
+
+* = a Honvédelmi Minisztérium és a Magyar Honvédség egészségügyi intézményeiben foglalkoztatott közalkalmazottakra irányadó munkakör.
+
+** = a Kjt. vhr. 17. §-ában említett fegyveres szerveknél foglalkoztatott közalkalmazottakra irányadó munkakör.

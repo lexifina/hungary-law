@@ -1,0 +1,1 @@
+## 21. § A Kr.2. 2. § (6) bekezdésében a „további jogviszonyára tekintettel a Tny. 22/A. §-a szerinti nyugdíjnövelésben részesült” szövegrész helyébe a „nyugdíjának összege a nyugdíjfolyósító szerv határozata alapján módosult” szöveg lép.
