@@ -1,6 +1,10 @@
 ## Baleseti táppénz
 
-55. § (1) Baleseti táppénz annak jár, aki a biztosítás fennállása alatt, vagy a biztosítás megszűnését követő legkésőbb harmadik napon üzemi baleset következtében keresőképtelenné válik.
+55. § (1) Baleseti táppénzre az jogosult, aki a biztosítás fennállása alatt vagy a biztosítás megszűnését követő legkésőbb harmadik napon üzemi baleset következtében keresőképtelenné válik.
+
+(1a) Az üzemi baleset bekövetkeztekor egyidejűleg fennálló biztosítási jogviszonyok esetén a biztosított baleseti táppénzre abban a jogviszonyában jogosult, amelyben az üzemi baleset éri.
+
+(1b) A biztosított baleseti táppénzre jogosult akkor is, ha ugyanabból a balesetből eredően ismételten keresőképtelenné válik.
 
 (2) Keresőképtelen az, aki az üzemi balesettel összefüggő és gyógykezelést igénylő egészségi állapota miatt vagy gyógyászati segédeszköz hiányában munkát végezni nem tud.
 

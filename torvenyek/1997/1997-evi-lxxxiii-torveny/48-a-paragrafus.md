@@ -1,1 +1,3 @@
-### 48/A. §
+48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély folyósításának az ideje.
+
+(2) A 48. § (6a) és (6b) bekezdése szerinti naptári napi átlag megállapításánál 180 napi folyamatos biztosításban töltött időként a Tbj. 5. §-ában meghatározott biztosítási időket lehet figyelembe venni. E szabály alkalmazásában a biztosítás akkor tekinthető folyamatosnak, ha abban 30 napnál hosszabb megszakítás nincs.
