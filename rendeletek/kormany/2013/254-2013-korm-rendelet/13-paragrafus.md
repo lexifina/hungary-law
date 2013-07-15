@@ -1,9 +1,23 @@
-## 12. §[^12]
+## 12. § A Vhr. 37. §-a helyébe a következő rendelkezés lép:
 
-13. § (1)[^13]
+## „37. § (1) A biztosított a biztosítási kötelezettséggel járó jogviszony létesítésekor az „Igazolvány a biztosítási jogviszonyról és az egészségbiztosítási ellátásokról” elnevezésű nyomtatványt (a továbbiakban: Igazolvány) a foglalkoztatónak átadja. A foglalkoztató az átvett Igazolványba három napon belül bejegyzi a biztosítási jogviszony kezdetét és az Igazolványt a jogviszony megszűnéséig megőrzi. A foglalkoztató a biztosítási jogviszony megszűnésekor az Igazolványba bejegyzi a megszűnést, valamint a „Jövedelemigazolás az egészségbiztosítási ellátás megállapításához” elnevezésű nyomtatvány (a továbbiakban: jövedelemigazolás) kiadásának tényét, és az Igazolványt a biztosítottnak a biztosítási jogviszony megszűnésének a napján átadja, aki az átvételt igazolja. A biztosítás fennállása alatt újabb biztosítással járó jogviszony létesítése esetén az újabb foglalkoztató az Igazolványba a biztosítási adatokat az előzőek szerint bejegyzi és az Igazolványt visszajuttatja ahhoz a foglalkoztatóhoz, ahol a biztosítás előbb kezdődött. Ezen eljárás alól kivételt képez az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (8) bekezdésében meghatározott megbízási jogviszony.
 
-(2)[^14]
+## (2) A kifizetőhellyel rendelkező foglalkoztató a biztosítási jogviszony megszüntetésekor az (1) bekezdésben említett adatokon kívül az Igazolványon feljegyzi a biztosítási jogviszony megszűnését közvetlenül megelőző két éven belül folyósított táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj időtartamát.
 
-[^12]: A 12. § a 64. § (2) bekezdése alapján 2013. július 15-én lép hatályba.
-[^13]: A 13. § (1) bekezdése a 64. § (2) bekezdése alapján 2013. július 15-én lép hatályba.
-[^14]: A 13. § (2) bekezdése a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.
+## (3) Ha a biztosítás megszüntetését követően a biztosított baleseti táppénz, terhességi-gyermekágyi segély vagy gyermekgondozási díj iránti kérelmet nyújt be, a korábban átvett Igazolványt a kérelemhez mellékelni kell. A folyósító szerv a pénzbeli ellátás és a baleseti táppénz folyósításának befejezésekor az Igazolványba bejegyzi a passzív jogon folyósított ellátás időtartamát és az Igazolványt öt napon belül visszaadja (visszaküldi) a biztosítottnak.
+
+## (4) Ha az Igazolvány betelt, új Igazolványt kell kiállítani, és ahhoz csatolni kell a visszamenőleg két éven belüli biztosítási időket tartalmazó Igazolványokat.
+
+## (5) Ha a biztosított az újabb biztosítási kötelezettséggel járó jogviszonyának kezdetekor az Igazolványt nem adja át, a foglalkoztató köteles a biztosítottat felhívni, hogy az Igazolványt az előző foglalkoztatójától szerezze be. Amennyiben a biztosított az Igazolványt nem szerzi be, erről a tényről a biztosítottnak írásban kell nyilatkoznia. Az írásbeli felhívást és a nyilatkozatot a foglalkoztató köteles öt évig megőrizni. Amennyiben az Igazolványt a biztosított az előző foglalkoztatójától a felhívást követő 30 napon belül nem szerzi be, a foglalkoztató új Igazolványt állít ki.
+
+## (6) A pénzbeli ellátás iránti kérelemhez mellékelt Igazolványt – a kérelem első fokon történő elbírálását követően – a foglalkoztatóhoz, foglalkoztató hiányában a kérelmezőhöz vissza kell juttatni. A kifizetőhellyel nem rendelkező foglalkoztató a pénzbeli ellátás iránti kérelemhez az Igazolványt abban az esetben csatolja, ha a biztosított e foglalkoztatónál első alkalommal kér pénzbeli ellátást, és a kétévi folyamatos biztosítási időn belül más foglalkoztatója is volt.”
+
+13. § (1) A Vhr. 37/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) A Tbj.-ben meghatározott mértékű pénzbeli egészségbiztosítási járulékfizetési kötelezettséggel járó jogviszony megszűnésének napján a foglalkoztató a biztosított írásbeli kérésére a jövedelemigazoláson köteles igazolni a megelőző naptári év első napjától a jogviszony megszűnésének napjáig a biztosított pénzbeli egészségbiztosítási járulékalapot képező jövedelmét és azon időtartamokat, amelyekre a biztosítottnak pénzbeli egészségbiztosítási járulékalapot képező jövedelme nem volt. A biztosított jövedelemigazolás kiadása iránti írásbeli kérelmének átvételéről a foglalkoztatónak igazolást kell kiadnia. A jövedelemigazolásra külön fel kell vezetni az irányadó időszakban kifizetett nem rendszeres jövedelem összegét, jogcímét, megjelölve a kifizetésre való jogosultság időtartamát, valamint a kifizetés időpontját. A jövedelemigazolás mellékletét képező pótlap használata akkor kötelező, ha a kifizetett nem rendszeres jövedelem feltüntetésére a jövedelemigazoláson nincs elegendő hely.
+
+## (2) Amennyiben a biztosított a 2014. május 11-ét megelőzően született gyermekre tekintettel igényel terhességi-gyermekágyi segélyt vagy gyermekgondozási díjat, úgy az igény bejelentésével egyidejűleg a foglalkoztató rendelkezésére bocsátja az előző év első napjától az ellátás igényléséig minden más munkáltató által kibocsájtott jövedelemigazolást. Foglalkoztató hiányában a biztosított a terhességi-gyermekágyi segély, illetve gyermekgondozási díj iránti kérelemmel együtt az irányadó időszak jövedelmét igazoló jövedelemigazolást közvetlenül az egészségbiztosítási szakigazgatási szervhez nyújtja be.”
+
+(2)[^8]
+
+[^8]: A 13. § (2) bekezdése a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.

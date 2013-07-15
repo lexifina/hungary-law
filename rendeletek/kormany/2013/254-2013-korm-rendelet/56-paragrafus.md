@@ -1,3 +1,3 @@
-## 55. §[^32]
+## 55. §[^22]
 
-[^32]: Az 55. § a 64. § (4) bekezdése alapján 2013. október 25-én lép hatályba.
+[^22]: Az 55. § a 64. § (4) bekezdése alapján 2013. október 25-én lép hatályba.

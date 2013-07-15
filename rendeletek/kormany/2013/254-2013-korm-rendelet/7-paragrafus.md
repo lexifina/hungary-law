@@ -1,9 +1,8 @@
-## 6. §[^7]
+## 6. §[^4]
 
-7. § (1)[^8]
+7. § (1)[^5]
 
-(2)[^9]
+(2) A Vhr. 31. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
 
-[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 7. § (2) bekezdése a 64. § (2) bekezdése alapján 2013. július 15-én lép hatályba.
+[^4]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

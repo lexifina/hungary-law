@@ -1,4 +1,4 @@
-## 59–63. §[^37]
+## 59–63. §[^27]
 
 ## 10. Záró rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) A 4. § (2) bekezdése, a 8. §, a 13. § (2) bekezdése, a 17. § b) pontja, valamint a 18. § f) és g) pontja 2015. január 1-jén lép hatályba.
 
-[^37]: Az 59–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 59–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
