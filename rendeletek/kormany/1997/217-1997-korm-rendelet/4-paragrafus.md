@@ -1,6 +1,6 @@
 4. § (1) A biztosított a 2–3. § rendelkezéseitől eltérően
 
-a)[^77] az OEP-pel egészségügyi szolgáltatás nyújtására finanszírozási szerződést nem kötött egészségügyi szolgáltató orvosa beutalása alapján is jogosult fekvőbeteg-gyógyintézeti ellátásra, ha az orvos megállapítása szerint közvetlen életveszély áll fenn, és az életveszély csak fekvőbeteg-gyógyintézetben alkalmazható gyógymóddal hárítható el,
+a)[^78] az OEP-pel egészségügyi szolgáltatás nyújtására finanszírozási szerződést nem kötött egészségügyi szolgáltató orvosa beutalása alapján is jogosult fekvőbeteg-gyógyintézeti ellátásra, ha az orvos megállapítása szerint közvetlen életveszély áll fenn, és az életveszély csak fekvőbeteg-gyógyintézetben alkalmazható gyógymóddal hárítható el,
 
 b) orvosi beutaló nélkül is jogosult a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézeti ellátás kezdeményezésére, ha azt vélelmezi, hogy egészségi állapota az azonnali ellátását indokolja és a beutalásra jogosult orvos felkeresése az ellátását jelentősen késlelteti.
 
@@ -12,4 +12,4 @@ a) a biztosítottat a beutalására jogosult orvoshoz irányítja,
 
 b) ha a biztosított továbbra is kezdeményezi az azonnali ellátását, tájékoztatja a biztosítottat az orvosi beutaló nélkül indokolatlanul igénybe vett egészségügyi ellátásért fizetendő térítési díjról.
 
-[^77]: A Vhr. 4. §-a (1) bekezdésének a) pontja a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (4) bekezdésének a) pontja, a 366/2010. (XII. 30.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
+[^78]: A Vhr. 4. §-a (1) bekezdésének a) pontja a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (4) bekezdésének a) pontja, a 366/2010. (XII. 30.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.

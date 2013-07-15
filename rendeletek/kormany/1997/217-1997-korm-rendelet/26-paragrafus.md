@@ -1,12 +1,12 @@
-## A terhességi-gyermekágyi segély és a gyermekgondozási díj alapjául szolgáló jövedelem megállapításának részletes szabályai[^353]
+## A terhességi-gyermekágyi segély és a gyermekgondozási díj alapjául szolgáló jövedelem megállapításának részletes szabályai[^354]
 
 ## (Az Ebtv. 42. §-ához)
 
-26. §[^354] (1)[^355] Tényleges jövedelem hiányában az ellátásra való jogosultság kezdő napján érvényes szerződés szerinti jövedelmet kell figyelembe venni. A tényleges, illetőleg a szerződés szerinti jövedelem naptári napi összegét a 31. § (7)–(8) bekezdésének megfelelő alkalmazásával kell kiszámítani. Az egyéni és társas vállalkozók ellátását tényleges jövedelem hiányában a jogosultság kezdő napján érvényes minimálbér figyelembevételével kell megállapítani.
+26. §[^355] (1)[^356] Tényleges jövedelem hiányában az ellátásra való jogosultság kezdő napján érvényes szerződés szerinti jövedelmet kell figyelembe venni. Az egyéni és társas vállalkozók ellátását tényleges jövedelem hiányában a jogosultság kezdő napján érvényes minimálbér másfélszeresének figyelembevételével kell megállapítani. A mezőgazdasági őstermelő ellátását tényleges jövedelem hiányában a Tbj. 30/A. § (1)–(3) bekezdésében meghatározott járulékfizetési kötelezettsége szerint kell megállapítani.
 
-(2)[^356] Annak, aki álláskeresési támogatás vagy vállalkozói járadék folyósításának szünetelése alatt, vagy ezek megszűnését követő 42 napon belül szül, és tényleges jövedelemmel nem rendelkezik, a terhességi-gyermekágyi segély összegét az Ebtv. 42. § (3) bekezdése szerint, a gyermekgondozási díj összegét pedig az Ebtv. 48. § (4) bekezdése szerint kell megállapítani, azonban a pénzbeli ellátás alapja nem haladhatja meg az álláskeresési támogatás vagy vállalkozói járadék alapját képező átlagkereset harmincad részét.
+(2)[^357] Annak, aki álláskeresési támogatás vagy vállalkozói járadék folyósításának szünetelése alatt, vagy ezek megszűnését követő 42 napon belül szül, és tényleges jövedelemmel nem rendelkezik, a terhességi-gyermekágyi segély és a gyermekgondozási díj összegét a jogosultság kezdő napján érvényes minimálbér alapján kell megállapítani, azonban a pénzbeli ellátás naptári napi alapja nem haladhatja meg az álláskeresési támogatás vagy vállalkozói járadék alapját képező átlagkereset harmincad részét.
 
-[^353]: A Vhr. 26. §-a előtti cím a 295/2002. (XII. 27.) Korm. rendelet 16. §-ának (1) bekezdésével megállapított szöveg.
-[^354]: A Vhr. 26. §-a a 207/2000. (XII. 11.) Korm. rendelet 3.§-ával megállapított szöveg.
-[^355]: A Vhr. 26. §-ának (1) bekezdése a 295/2002. (XII. 27.) Korm. rendelet 16. §-ának (2) bekezdése, a 165/2009. (VIII. 14.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^356]: A Vhr. 26. §-ának (2) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 2. §-ával megállapított szöveg; e módosító rendelet 11. § (2) bekezdése alapján a 2010. május 1-je előtt született gyermekekre tekintettel igényelt ellátásra akkor is a Vhr. 2010. április 30-án hatályos rendelkezéseit kell alkalmazni, ha az igénylés ezen időpontot követően történik.
+[^354]: A Vhr. 26. §-a előtti cím a 295/2002. (XII. 27.) Korm. rendelet 16. §-ának (1) bekezdésével megállapított szöveg.
+[^355]: A Vhr. 26. §-a a 207/2000. (XII. 11.) Korm. rendelet 3.§-ával megállapított szöveg.
+[^356]: A Vhr. 26. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^357]: A Vhr. 26. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
