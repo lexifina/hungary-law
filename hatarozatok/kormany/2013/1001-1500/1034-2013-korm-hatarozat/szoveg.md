@@ -12,7 +12,7 @@ az egyes programok intézményrendszerének kialakítására, valamint a tárgya
 
 2. az Európai Unió 2014–2020. közötti költségvetési időszakára való sikeres felkészülés érdekében, az európai területi együttműködési programok tekintetében felhívja
 
-a) a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert, a közigazgatási és igazságügyi miniszter, valamint a Széchenyi Programirodát a határon átnyúló programok,
+a)[^2] a Miniszterelnökséget vezető államtitkárt, a nemzetgazdasági minisztert, a közigazgatási és igazságügyi minisztert, valamint a Széchenyi Programirodát a határon átnyúló programok,
 
 b) a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert a transznacionális programok,
 
@@ -41,3 +41,5 @@ Határidő: folyamatos az operatív programok Kormány általi elfogadásáig
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^2]: A 2. pont a) alpontja az 1439/2013. (VII. 15.) Korm. határozattal megállapított szöveg.
