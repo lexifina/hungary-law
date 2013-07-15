@@ -1,1 +1,0 @@
-## „(4) A KIFÜ gazdasági vezetőjének vezetői megbízását az elnök javaslatára a miniszter adja és vonja vissza, valamint állapítja meg a díjazását. A gazdasági vezető feletti egyéb munkáltatói jogokat az elnök gyakorolja.”
