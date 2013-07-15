@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^528]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^529]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -352,54 +352,4 @@ C. folytató rekord következik
 
 N. nagy értékű, országosan még nem elterjedt műtéti eljárás előtti ápolás lezárása
 
-R. otthonába bocsátva, rehabilitációra irányítva
-
-T. otthoni parentális táplálás
-
-24. Az ellátó orvos kódja
-
-Az orvos 5 jegyű pecsétnyomójának száma.
-
-25. E-adatlap kitöltés
-
-0. nincs kitöltve
-
-1. kitöltve (E térítési kategóriánál kötelező)
-
-26. Diagnózisok
-
-Megnevezés
-
-(Elektronikusan nem továbbítandó)
-
-Diagnózis típusa (T)
-
-0. beutaló/iránydiagnózis
-
-1. ápolást indokló fődiagnózis alapjául szolgáló betegség
-
-2. áthelyezést indokló fődiagnózis
-
-3. ápolást indokló fődiagnózis
-
-4. szövődmény
-
-5. kísérő betegség
-
-6. a halál közvetlen oka a klinikus szerint
-
-7. kórbonctani alapbetegség
-
-8. a halál közvetlen oka a kórbonctan szerint
-
-9. kórbonctani kísérő betegség
-
-A. megelőző ok a kórbonctan szerint
-
-B. a halál alapjául szolgáló betegség a klinikus szerint
-
-C. nosocomiális eredetű szövődmény a kezelés következtében
-
-D. egyéb szövődmény a kezelés következtében
-
-[^528]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja szerint módosított szöveg.
+[^529]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja szerint módosított szöveg.
