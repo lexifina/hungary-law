@@ -28,6 +28,8 @@ i) a víziközmű-szolgáltatásról szóló törvény alapján meghatározott d
 
 j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira;
 
-k) a nemzeti mobil fizetési rendszerről szóló törvényben meghatározott kényelmi díjra, és a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrésre.
+k) a nemzeti mobil fizetési rendszerről szóló törvényben meghatározott kényelmi díjra, és a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrésre,
+
+l) fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvényben meghatározott legkisebb kereskedelmi árrésre.
 
 (3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.
