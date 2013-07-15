@@ -14,6 +14,11 @@ b) amennyiben az adott évben a társadalombiztosítási nyugellátásról szól
 
 (5) A munkáltató az általa foglalkoztatott egészségügyi dolgozó jövedelemkiegészítésre való jogosultságában bekövetkező változásokról az érintett egészségügyi dolgozók megjelölésével havonta, összesítve tájékoztatja a GYEMSZI-t.
 
-(6) Amennyiben az egészségügyi dolgozó további jogviszonyára tekintettel a Tny. 22/A. §-a szerinti nyugdíjnövelésben részesült, ennek tényéről a jogerős határozat kézhezvételét követő tizenöt napon belül tájékoztatja a munkáltatót.
+(6)[^1] Amennyiben az egészségügyi dolgozó nyugdíjának összege a nyugdíjfolyósító szerv határozata alapján módosult, ennek tényéről a jogerős határozat kézhezvételét követő tizenöt napon belül tájékoztatja a munkáltatót.
 
 (7) Az (5) és a (6) bekezdés szerinti változásokra tekintettel a GYEMSZI megkeresése alapján a nyugdíjfolyósító szerv havonta, a megkeresésétől számított öt munkanapon belül szolgáltat adatot a GYEMSZI részére az egészségügyi dolgozót egyébként megillető pénzellátás havi összegéről. A GYEMSZI az adatokat a (4) bekezdésben foglaltak szerint megküldi a munkáltató részére.
+
+(8)[^2] A (3) és a (7) bekezdés alkalmazása során a nyugdíjfolyósító szerv az egészségügyi dolgozót egyébként megillető pénzellátás havi összegéről ad tájékoztatást, függetlenül attól, hogy az egészségügyi dolgozó részére megállapított pénzellátás összegére a bírósági végrehajtásról szóló 1994. évi LIII. törvény 67. §-a alapján végrehajtás elrendelésére került sor.
+
+[^1]: A 2. § (6) bekezdése a 256/2013. (VII. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^2]: A 2. § (8) bekezdését a 256/2013. (VII. 5.) Korm. rendelet 19. §-a iktatta be.

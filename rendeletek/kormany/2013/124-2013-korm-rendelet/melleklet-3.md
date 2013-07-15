@@ -28,11 +28,15 @@
 
 2.2. a kifizetőt terhelő közterhek összege/hónap.
 
-3. A kifizetett támogatásra vonatkozó adatok
+3.[^4] A kifizetett támogatásra vonatkozó adatok
 
 3.1. a kifizetőt terhelő, közterhekkel növelt bruttó összeg,
 
-3.2. a foglalkoztatottaknak kifizetett/október–december hónapokra kifizetendő nettó összeg.
+3.2. a foglalkoztatottaknak kifizetett/október-december hónapra kifizetendő nettó összeg,
+
+3.3. a foglalkoztatottak által igénybe vett személyi jövedelemadó kedvezmény jövedelem-kiegészítésre jutó összege,
+
+3.4. a saját jogú nyugdíjas vagy a társadalombiztosítási nyugellátásról szóló jogszabályban meghatározott reá irányadó öregségi nyugdíjkorhatárt betöltött foglalkoztatottak esetében a foglalkoztatottakat nem terhelő munkaerő-piaci járulék jövedelem-kiegészítésre jutó összege.
 
 4. Záró rész
 
@@ -43,3 +47,5 @@
 4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
+
+[^4]: A 3. melléklet 3. pontja a 256/2013. (VII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
