@@ -22,4 +22,6 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: folyamatos
 
-2. visszavonja a 2014–2020 közötti európai uniós fejlesztési időszakra vonatkozó határon átnyúló együttműködési programok tervezésével kapcsolatos hosszú- és középtávú fejlesztési elképzelésekről, valamint az operatív programok nemzetközi egyeztetésének alapját képező kulcsprioritás-javaslatokról szóló 1195/2013. (IV. 11.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
