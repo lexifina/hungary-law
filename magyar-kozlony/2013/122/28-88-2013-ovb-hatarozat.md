@@ -1,0 +1,72 @@
+# Az Országos Választási Bizottság 88/2013. (VII. 16.) OVB határozata
+
+Magyar Közlöny 2013. évi 122. szám, 2013. július 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/464a5a4fbca5c5997456ececbdcc56e36230b696/dokumentumok/4555556aa8f8a9a2ec8d1baeb9c9a3f5c87d0361/letoltes)
+
+---
+
+Az Országos Választási Bizottság 88/2013. (VII. 16.) OVB határozata
+
+Az Országos Választási Bizottság – 2013. július 10-én megtartott ülésén – a választási eljárásról szóló 1997. évi
+C. törvény (a továbbiakban: régi Ve.) 124/A. § (3) bekezdés b) pontjában foglalt hatáskörében eljárva M. Z.
+magánszemély (a továbbiakban: beadványozó) által benyújtott országos népszavazási kezdeményezés tárgyában
+meghozta a következő
+határozatot:
+Az Országos Választási Bizottság az aláírásgyűjtő ív mintapéldányának hitelesítését megtagadja.
+A határozat ellen – a Magyar Közlönyben való közzétételét követő 15 napon belül – a Kúriához címzett kifogást
+lehet benyújtani az Országos Választási Bizottságnál (1051 Budapest, Arany J. u. 25.; levélcím: 1357 Budapest, Pf. 2;
+fax: 06-1-7950-143). A bírósági eljárásban az ügyvédi képviselet kötelező. A jogi szakvizsgával rendelkező személy
+saját ügyében ügyvédi képviselet nélkül is eljárhat. A bírósági eljárás nem tárgyi illetékmentes. Az illeték mértéke
+15 000 Ft. A kifogás benyújtóját tárgyi illetékfeljegyzési jog illeti meg.
+Indokolás
+I. Beadványozó 2013. június 26-án aláírásgyűjtő ív mintapéldányát nyújtotta be az Országos Választási Bizottsághoz
+az országos népszavazásról és népi kezdeményezésről szóló 1998. évi III. törvény (a továbbiakban: Nsztv.) 2. §-a
+szerinti hitelesítés céljából. Az aláírásgyűjtő íven a következő szerepelt:
+„Egyetért-e Ön azzal, hogy Magyarország területén tilos legyen olyan szabadtéri plakátot elhelyezni, amely
+0,5 négyzetméternél nagyobb felületű, és rajta, bármely párt, közszereplő vagy politikai esemény, bármilyen formában
+megjelenik?”
+Magyarország Alaptörvénye (a továbbiakban: Alaptörvény) IX. cikk (1) bekezdése szerint mindenkinek joga van
+a véleménynyilvánítás szabadságához. Az Országos Választási Bizottság megállapítja, hogy a kérdésben megtartásra
+kerülő országos népszavazás eredményének az Országgyűlés csak úgy tudna eleget tenni, ha ezt az Alaptörvényben
+meghatározott alkotmányos jogot – a plakát méretének és tartalmának meghatározásával – korlátozná. Mindezek
+alapján a Bizottság álláspontja, hogy a kérdés az Alaptörvény módosítását tenné szükségessé, ami viszont
+az Alaptörvény 8. cikk (3) bekezdés a) pontja alapján tiltott tárgykör, így a kérdésben nem tartható népszavazás.
+Az Országos Választási Bizottság megállapítja, hogy a kezdeményezésben foglalt kérdés az Nsztv.
+13. § (1) bekezdésében foglalt egyértelműségi követelménynek sem felel meg. Az egyértelműség követelménye
+azt jelenti, hogy a népszavazásra szánt kérdésnek egyértelműen megválaszolhatónak kell lennie. Ahhoz, hogy
+a választópolgár a népszavazásra feltett kérdésre egyértelműen tudjon válaszolni az szükséges, hogy a kérdés
+világos és kizárólag egyféleképpen legyen értelmezhető, a kérdésre igennel vagy nemmel lehessen felelni.
+Az Országos Választási Bizottság álláspontja szerint a népszavazásra feltenni kívánt kérdés valójában több kérdést
+tartalmaz, vonatkozik egyrészt a plakát méretére, másrészt annak tartalmára, hogy azon bármely párt, közszereplő
+vagy politikai esemény bármilyen formában megjelenik. Így a választópolgároknak nincs lehetőségük külön-külön
+véleményt nyilvánítani a kezdeményezésekről.
+
+Az Országos Választási Bizottság megállapítja továbbá, hogy az aláírásgyűjtő íven feltüntetett kérdésben szereplő
+„közszereplő” vagy „politikai esemény” fogalmak jelentése túl tág, nem kellően körülhatárolt, így a választópolgár
+számára nem lenne egyértelmű, hogy aláírásával pontosan milyen tartalmú kezdeményezést támogatna.
+A kérdés egyértelműségének megállapításakor – a választópolgári egyértelműségen túl – azt is vizsgálni kell, hogy
+a népszavazás eredménye alapján az Országgyűlés, mint jogalkotó – az akkor hatályban lévő jogszabályok szerint –
+el tudja-e dönteni, hogy terheli-e jogalkotási kötelezettség, és ha igen, milyen jogalkotásra köteles. A Bizottság
+álláspontja szerint tekintettel arra, hogy a kezdeményezés olyan fogalmakat tartalmaz, melyek jelentéstartalma nem
+határozható meg pontosan, ezért egy eredményes és érvényes népszavazás esetén nem lenne egyértelmű, hogy
+az Országgyűlés milyen tartalmú jogalkotásra lenne köteles.
+Fentiek alapján az Országos Választási Bizottság – az Nsztv. 10. § b) és c) pontja alapján, mivel a kérdésben nem
+lehet országos népszavazást tartani, valamint a kérdés megfogalmazása nem felel meg a törvényben foglalt
+követelményeknek – az aláírásgyűjtő ív mintapéldányának hitelesítését megtagadja.
+II. A határozat az Alaptörvény IX. cikk (1) bekezdésén és a 8. cikk (3) bekezdés a) pontján, az Nsztv. 2. §-án,
+a 10. § b) és c) pontján és a 13. § (1) bekezdésén, a választási eljárásról szóló 2013. évi XXXVI. törvény
+349. § (1) bekezdés c) pontján, a jogorvoslatról szóló tájékoztatás a régi Ve. 130. §-ának (1) bekezdésén,
+az illetékekről szóló tájékoztatás az 1990. évi XCIII. törvény 37. § (1) bekezdésén, 39. § (3) bekezdés d) pontján,
+42. § (1) bekezdés g) pontján, valamint a 62. § (1) bekezdés s) pontján alapul.
+ Dr. Bordás Vilmos s. k.,
+ az Országos Választási Bizottság elnöke
+
+A Magyar Közlönyt a Szerkesztőbizottság közreműködésével a Közigazgatási és Igazságügyi
+Minisztérium szerkeszti.
+A Szerkesztőbizottság elnöke: dr. Biró Marcell,
+a szerkesztésért felelős: dr. Borókainé dr. Vajdovits Éva.
+A szerkesztőség címe: Budapest V., Kossuth tér 2–4.
+A Határozatok Tára hivatalos lap tartalma a Magyar Közlöny IX. részében jelenik meg.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://kozlony.magyarorszag.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó.
+Felelős kiadó: Majláth Zsolt László ügyvezető.
