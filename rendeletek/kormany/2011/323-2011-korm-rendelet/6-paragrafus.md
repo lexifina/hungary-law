@@ -1,30 +1,32 @@
+## 5/A. § A Hivatal foglalkoztatáspolitikai, munkavédelmi, munkaügyi, szak- és felnőttképzési feladat- és hatáskörében tervezi és szervezi az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósítását, illetve támogatást vagy ösztöndíjat folyósít.
+
 ## 6. A Hivatal foglalkoztatáspolitikai feladatkörei
 
 6. § (1) A Hivatal foglalkoztatáspolitikai feladatkörében
 
-a)[^3] megállapítja a munkaügyi központok és a kirendeltségek kötelező belső szakmai szabályzatainak elveit és főbb tartalmi követelményeit,
+a)[^4] megállapítja a munkaügyi központok és a kirendeltségek kötelező belső szakmai szabályzatainak elveit és főbb tartalmi követelményeit,
 
-b)[^4] meghatározza a munkaügyi központok és a kirendeltségek szolgáltató tevékenységére vonatkozó szakmai követelményeket, valamint koordinálja a munkaügyi központok munkaerő-piaci szolgáltatásvásárlással, illetőleg a munkaerő-piaci szolgáltatást nyújtók részére adható támogatással kapcsolatos feladatait, továbbá ellátja az álláskeresők ellátásával, valamint a foglalkoztatást elősegítő támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
+b)[^5] meghatározza a munkaügyi központok és a kirendeltségek szolgáltató tevékenységére vonatkozó szakmai követelményeket, valamint koordinálja a munkaügyi központok munkaerő-piaci szolgáltatásvásárlással, illetőleg a munkaerő-piaci szolgáltatást nyújtók részére adható támogatással kapcsolatos feladatait, továbbá ellátja az álláskeresők ellátásával, valamint a foglalkoztatást elősegítő támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
 
 c) meghatározza és kidolgozza a hatósági és szolgáltató tevékenység ellátásához szükséges informatikai és számítógépes rendszereket, valamint működteti a Hivatal kezelésében lévő informatikai és számítógépes rendszereket, továbbá ennek körében fejleszti, teszteli, telepíti, módosítja a programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
 
-d)[^5] eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységét,
+d)[^6] eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységét,
 
 e) fejleszti a munkaerőpiaci szolgáltatásokat,
 
-f)[^6] meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységére vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez, melyekhez kapcsolódóan prognózisokat, elemzéseket, statisztikai összesítéseket, nyilvántartásokat készít,
+f)[^7] meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységére vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez, melyekhez kapcsolódóan prognózisokat, elemzéseket, statisztikai összesítéseket, nyilvántartásokat készít,
 
-g)[^7] javaslatot tesz a munkaügyi központok és a kirendeltségek informatikai rendszerének és ingatlanállományának fejlesztésére,
+g)[^8] javaslatot tesz a munkaügyi központok és a kirendeltségek informatikai rendszerének és ingatlanállományának fejlesztésére,
 
 h) ellátja a Nemzeti Foglalkoztatási Szolgálat munkatársainak humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
 
-i)[^8] ellátja a munkaügyi központok hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az NFA működtetéséért felelős területi egységek szakmai és pénzügyszakmai tevékenységének ellenőrzését,
+i)[^9] ellátja a munkaügyi központok hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az NFA működtetéséért felelős területi egységek szakmai és pénzügyszakmai tevékenységének ellenőrzését,
 
 j) hatósági jogkört gyakorol, amelynek keretében
 
 ja) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről szóló nemzetközi szerződések végrehajtásával kapcsolatos feladatokat,
 
-jb)[^9] elbírálja a munkaügyi központok által hozott határozatok ellen benyújtott fellebbezéseket,
+jb)[^10] elbírálja a munkaügyi központok által hozott határozatok ellen benyújtott fellebbezéseket,
 
 k) adatokat gyűjt és elemez
 
@@ -60,7 +62,7 @@ ob) a miniszter által megadott szempontok alapján irányítja, koordinálja a 
 
 oc) véleményezi a munkaügyi központ által indítandó programok tervezetét,
 
-p) szervezi, bonyolítja, illetőleg koordinálja az Európai Unió pénzügyi alapjaiból, illetőleg más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósítását,
+p)[^11]
 
 q) ellátja a miniszter által meghatározott ügyfélszolgálati feladatokat, valamint
 
@@ -68,9 +70,9 @@ r) ellátja a jogszabályok által meghatározott nyilvántartások vezetéséve
 
 s) munkaügyi kutatásokat kezdeményez és végez, valamint
 
-t)[^10] koordinálja a munkaügyi központok és kirendeltségek EU-támogatással megvalósuló tevékenységeit,
+t)[^12] koordinálja a munkaügyi központok és kirendeltségek EU-támogatással megvalósuló tevékenységeit,
 
-u)[^11] koordinálja a munkaügyi központok és kirendeltségek megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
+u)[^13] koordinálja a munkaügyi központok és kirendeltségek megváltozott munkaképességű személyek foglalkoztatásával kapcsolatos tevékenységét.
 
 (2) A Hivatal a munkaügyi kapcsolatok feladatkörében
 
@@ -96,12 +98,13 @@ c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét ér
 
 d) egyéb szervezetekkel.
 
-[^3]: A 6. § (1) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
-[^4]: A 6. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
-[^5]: A 6. § (1) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (4) bekezdésével megállapított szöveg.
-[^6]: A 6. § (1) bekezdés f) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
-[^7]: A 6. § (1) bekezdés g) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
-[^8]: A 6. § (1) bekezdés i) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: A 6. § (1) bekezdés j) pont jb) alpontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (6) bekezdésével megállapított szöveg.
-[^10]: A 6. § (1) bekezdés t) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
-[^11]: A 6. § (1) bekezdés u) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
+[^4]: A 6. § (1) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
+[^5]: A 6. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
+[^6]: A 6. § (1) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (4) bekezdésével megállapított szöveg.
+[^7]: A 6. § (1) bekezdés f) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
+[^8]: A 6. § (1) bekezdés g) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (5) bekezdésével megállapított szöveg.
+[^9]: A 6. § (1) bekezdés i) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^10]: A 6. § (1) bekezdés j) pont jb) alpontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (6) bekezdésével megállapított szöveg.
+[^11]: A 6. § (1) bekezdés p) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (17) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: A 6. § (1) bekezdés t) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.
+[^13]: A 6. § (1) bekezdés u) pontja a 174/2012. (VII. 26.) Korm. rendelet 89. § (7) bekezdésével megállapított szöveg.

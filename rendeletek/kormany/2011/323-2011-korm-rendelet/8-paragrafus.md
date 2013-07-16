@@ -1,4 +1,4 @@
-8. §[^13] (1) A munkaügyi központ
+8. §[^15] (1) A munkaügyi központ
 
 a) szakmailag irányítja és szakmailag ellenőrzi a kirendeltségek tevékenységét, ennek keretében közreműködik a munkatársak szakmai képzésében, valamint szakmai ajánlások készítésével segíti a hatósági és szolgáltató tevékenységet,
 
@@ -26,9 +26,13 @@ l) ellátja az EURES-sel kapcsolatos szervezési, tanácsadási és koordináci�
 
 m) elkészíti a munkaügyi központ és a kirendeltség belső szakmai szabályzatait, valamint
 
-n) illetékességi területén ellátja a munkaerő-piaci ellenőrzéssel kapcsolatos feladatokat.
+n) illetékességi területén ellátja a munkaerő-piaci ellenőrzéssel kapcsolatos feladatokat,
 
-(1a)[^14] A munkaügyi központ fővárosi szervezete nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket.
+o)[^16] az álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol,
+
+p)[^17] a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben befogadja a foglalkoztató által benyújtott munkaerőigényeket.
+
+(1a)[^18] A munkaügyi központ fővárosi szervezete nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket.
 
 (2) A hatósági szerződések megkötése, módosítása és megszüntetése, továbbá a költségvetésből nyújtott támogatás biztosítékául szolgáló zálogjog, bankgarancia, óvadék tekintetében a munkaügyi központ vezetője szerződéskötési képességgel rendelkezik.
 
@@ -38,7 +42,7 @@ a) lenőrzi a közfoglalkoztatási munkavégzés közfoglalkoztatási szerződé
 
 b) ellátja a közfoglalkoztatási támogatási eljárással kapcsolatos pénzügyi feladatokat.
 
-(4)[^15] A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi területén első fokú hatósági jogkört gyakorol
+(4)[^19] A munkaügyi központ át nem ruházható hatáskörben a külön jogszabályban meghatározott illetékességi területén első fokú hatósági jogkört gyakorol
 
 a) a munkaerő-piaci program kidolgozásának, megvalósításának megállapításával,
 
@@ -52,7 +56,9 @@ e) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának en
 
 f) a rendbírsággal, valamint
 
-g) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
+g) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel,
+
+h)[^20] az álláskeresők vállalkozóvá válását elősegítő támogatás tőkejuttatás részével,
 
 ## kapcsolatos ügyekben.
 
@@ -60,11 +66,14 @@ g) a munkaügyi központ hatáskörébe utalt nyilvántartásba vétellel
 
 (6) A munkaügyi központ a szolgáltatási feladatok ellátásának keretében
 
-a)[^16] gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét, munkaerő-piaci szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
+a)[^21] gondoskodik a szolgáltatási rendszer szakmai működtetéséről, valamint koordinálja a kirendeltségek szolgáltatási tevékenységét, munkaerő-piaci szolgáltatásokat szervez és működteti a szolgáltatások kiépített intézményrendszerét,
 
 b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem a kirendeltség lát el.
 
-[^13]: A 8. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (9) bekezdésével megállapított szöveg.
-[^14]: A 8. § (1a) bekezdését a 7/2013. (I. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^15]: A 8. § (4) bekezdése a 103/2013. (IV. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^16]: A 8. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^15]: A 8. § a 174/2012. (VII. 26.) Korm. rendelet 89. § (9) bekezdésével megállapított szöveg.
+[^16]: A 8. § (1) bekezdés o) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^17]: A 8. § (1) bekezdés p) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^18]: A 8. § (1a) bekezdését a 7/2013. (I. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 8. § (4) bekezdése a 103/2013. (IV. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^20]: A 8. § (4) bekezdés h) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^21]: A 8. § (6) bekezdés a) pontja a 7/2013. (I. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

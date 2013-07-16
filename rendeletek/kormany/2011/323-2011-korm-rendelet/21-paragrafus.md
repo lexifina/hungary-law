@@ -8,19 +8,19 @@ a) ellátja a szakképzési és felnőttképzési tevékenység szakmai és mód
 
 b) gondoskodik a hátrányos és fogyatékkal élők képzésének tanügyi és képzési dokumentumairól,
 
-c) végzi a szakmastruktúra folyamatos fejlesztését, kidolgozza az Országos Képzési Jegyzék tervezetét és harmonizálja a nemzetközi szintezési rendszerrel, valamint a foglalkozások egységes rendszerével, továbbá az európai uniós irányelvekkel, javaslatot tesz módosítására, illetve korszerűsítésére,
+c)[^34] végzi a szakmastruktúra folyamatos fejlesztését és a jogalkotáshoz szükséges előkészítő feladatokat az Országos Képzési Jegyzékben szereplő szakképesítések vonatkozásában, továbbá kidolgozza az Országos Képzési Jegyzék tervezetét és harmonizálja a nemzetközi szintezési rendszerrel, valamint a foglalkozások egységes rendszerével és az európai uniós irányelvekkel, javaslatot tesz annak módosítására, illetve korszerűsítésére,
 
-d) egységes alapelvek szerint fejleszti az országos modultérképet, ellátja a nyilvánosságra hozatallal kapcsolatos feladatokat,
+d)[^35] kidolgozza és gondozza a szakmai követelménymodulok elkészítésének egységes alapelveit, továbbá egységes alapelvek szerint gondozza és fejleszti az országos modultérképet, ellátja a nyilvánosságra hozatallal kapcsolatos feladatokat,
 
 e) kidolgozza az európai követelményekhez illeszkedő szakképesítések egyenértékűségének feltételrendszerét, a hazai és nemzetközi képesítések összehangolását, valamint az Európai Képesítési Keretrendszer magyar adaptációját,
 
-f) fejleszti az Európai Unió tagországainak szakképzési és felnőttképzési intézményeivel történő együttműködést,
+f)[^36] fejleszti az Európai Unió tagországainak szakképzési és felnőttképzési intézményeivel történő együttműködést, részt vesz hazai és nemzetközi szakképzési és felnőttképzési kutatásokban,
 
 g) gyűjti és elemzi a külön jogszabályban meghatározott felnőttképzési statisztikai adatokat;
 
-h) szervezi a pedagógusok, andragógusok és az oktatási intézményvezetők szakmai továbbképzését, valamint a speciális szakiskola szakmai tanulmányi versenyeit,
+h)[^37] szervezi a pedagógusok, andragógusok és az oktatási intézményvezetők és fenntartók szakmai továbbképzését, valamint koordinálja a speciális szakiskola szakmai tanulmányi versenyeit és a Szakmacsoportos szakmai előkészítő Érettségi Tantárgyak Versenyeit (SZÉTV),
 
-i) működteti a tájékoztatási szolgálatot és a céginformációs központot, valamint on-line módon a Magyar Nemzeti Observatory Irodát, és a nemzeti referencia és koordinációs pontot, melynek keretében közzéteszi a minőségügyi keretrendszert,
+i)[^38] koordinálja és ellátja a szak- és felnőttképzéssel és fejlesztési feladatokkal kapcsolatos ügyfélszolgálati és tájékoztatási feladatokat, valamint on-line módon működteti a Magyar Nemzeti Observatory Irodát, a Nemzeti Referencia és Koordinációs Pontot, melynek keretében közzéteszi a minőségügyi keretrendszert, valamint koordinálja a céginformációs központ működtetését,
 
 j) szervezi a szakmai tankönyvek kidolgozását, valamint működteti a kiadásukat, illetve a forgalmazásukat,
 
@@ -36,10 +36,23 @@ o) a gazdasági kamarával együttműködve kialakítja és működteti a pálya
 
 p) kidolgozza és működteti az életpálya-tanácsadási szolgáltatást, valamint továbbfejleszti és működteti a pályakövetési rendszert,
 
-q) titkársági feladatokat lát el a Szakképzési Tankönyv és Taneszköz Testület, a Nemzeti Képesítési Bizottság, a Felnőttképzési Akkreditációs Testület és a Nemzeti Szakképzési és Felnőttképzési Tanács tekintetében,
+q)[^39] ellátja a Szakképzési Tankönyv és Taneszköz Tanács, a Nemzeti Képesítési Bizottság, és a Felnőttképzési Akkreditációs Testület titkársági feladatait, valamint koordinálja a Nemzeti Szakképzési és Felnőttképzési Tanács titkársági feladatainak megvalósítását,
 
-r) ellátja a térségi integrált szakképző központok nyilvántartásával kapcsolatos feladatokat,
+r)[^40]
 
-s) egységes rendszerben összeállítja a megyei fejlesztési és képzési bizottságok szakképesítésekkel kapcsolatos beiskolázásra vonatkozó javaslatait, és előkészíti a döntés meghozatalára, illetve a jogszabályi megjelentetésre.
+s)[^41] egységes rendszerben összeállítja a megyei fejlesztési és képzési bizottságok szakképesítésekkel kapcsolatos beiskolázásra vonatkozó javaslatait, és ezek alapján szakmailag előkészíti a Kormány erre vonatkozó döntését,
 
-(2) A Hivatal a NFA képzési alaprészéből finanszírozott támogatásokkal kapcsolatos feladatokat lát el.
+t)[^42] kidolgozza és gondozza az Európai Szakoktatási és Szakképzési Kreditrendszer (a továbbiakban: ECVET) alapján a felsőoktatásba átvihető kreditrendszer egységes alapelveit.
+
+(2)[^43] A Hivatal az NFA képzési alaprészéből finanszírozott támogatásokkal, valamint a szakképzési hozzájárulással kapcsolatos feladatokat lát el.
+
+[^34]: A 21. § (1) bekezdés c) pontja a 265/2013. (VII. 11.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^35]: A 21. § (1) bekezdés d) pontja a 265/2013. (VII. 11.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^36]: A 21. § (1) bekezdés f) pontja a 265/2013. (VII. 11.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^37]: A 21. § (1) bekezdés h) pontja a 265/2013. (VII. 11.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^38]: A 21. § (1) bekezdés i) pontja a 265/2013. (VII. 11.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^39]: A 21. § (1) bekezdés q) pontja a 265/2013. (VII. 11.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^40]: A 21. § (1) bekezdés r) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (17) bekezdés b) pontja hatályon kívül helyezte.
+[^41]: A 21. § (1) bekezdés s) pontja a 265/2013. (VII. 11.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
+[^42]: A 21. § (1) bekezdés t) pontját a 265/2013. (VII. 11.) Korm. rendelet 4. § (11) bekezdése iktatta be.
+[^43]: A 21. § (2) bekezdése a 265/2013. (VII. 11.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.
