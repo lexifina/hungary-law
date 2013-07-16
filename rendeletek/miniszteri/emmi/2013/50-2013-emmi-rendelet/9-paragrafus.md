@@ -1,0 +1,9 @@
+## 8. § A tankönyveket azok beszerzésétől számított legalább négy évig az iskolai könyvtár állományában kell tartani, azok beszerzéséhez ez alatt az idő alatt – a 6. § (3) bekezdésben meghatározott pótlólagos tankönyvrendelés kivételével – további tankönyvtámogatás nem igényelhető, kivéve, ha a fenti időszak alatt a tankönyvek tartalmilag átdolgozásra kerültek.
+
+## 4. Nemzetiségi nevelést, oktatást segítő pedagógiai-szakmai szolgáltatások támogatása
+
+9. § (1) A törvény 5. melléklet 5. pont c) alpontja szerinti jogcímen, a 2013. évi költségvetési törvény 35. § (1) bekezdés a)–b) pontjában meghatározott támogatás (a továbbiakban: pedagógiai-szakmai szolgáltatás támogatása) a nemzetiségi nyelv, nemzetiségi nyelv és irodalom, nemzetiségi népismeret és a nemzetiségi nyelven folyó oktató-nevelő munkával kapcsolatos, az Nkt. 19. § (2) bekezdés a)–d) pontjában meghatározott pedagógiai-szakmai szolgáltatások megvalósításához igényelhető.
+
+(2) Olyan pedagógiai-szakmai szolgáltatás igénybevételéhez nyújtható támogatás, amelyet a pedagógiai-szakmai szolgáltatásokról, a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló 48/2012. (XII. 12.) EMMI rendelet 1. § (2) bekezdésben meghatározott pedagógiai intézet lát el. A pedagógiai-szakmai szolgáltatást az adott nemzetiségi nevelés-oktatásban gyakorlattal rendelkező, az országos szakértői névjegyzéken szereplő, ennek hiányában az országos nemzetiségi önkormányzat által javasolt szakember is elláthatja.
+
+(3) A pedagógiai-szakmai szolgáltatás támogatásának mértéke a szolgáltató által benyújtott árajánlat összege, de a nemzetiségi nevelés-oktatásban részt vevő tanulónként legfeljebb 800 forint, iskolánként legalább 70 000 forint és legfeljebb 200 000 forint lehet.
