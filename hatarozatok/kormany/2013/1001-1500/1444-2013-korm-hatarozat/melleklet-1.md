@@ -1,0 +1,105 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében a minisztériumok működéséhez szükséges kiszolgáló tevékenység ellátása érdekében 0,8 millió forint tartós átcsoportosítását rendeli el a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 12. Közbeszerzési és Ellátási Főigazgatóság cím, 1. Működési költségvetés előirányzat-csoport javára, a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet 1. Nemzetgazdasági Minisztérium igazgatása cím, 1. Működési költségvetés előirányzat-csoport terhére az 1. melléklet szerint.
+
+## Felelős: nemzetgazdasági miniszter
+
+## nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1444/2013. (VII. 16.) Korm. határozathoz
+
+XV. Nemzetgazdasági Minisztérium
+
+XVII. Nemzeti Fejlesztési Minisztérium
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA *
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XV. |  |  |  |  |  |  | Nemzetgazdasági Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006343 |  | 1 |  |  |  |  |  |  | Nemzetgazdasági Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | -0,6 | -0,4 |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | -0,2 | -0,1 |  |  |
+
+|  | XVII. |  |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000516 |  | 12 |  |  |  |  |  |  | Közbeszerzési és Ellátási Főigazgatóság |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 0,6 | 0,4 |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | 0,2 | 0,1 |  |  |
+
+| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XV. |  |  |  |  |  |  | Nemzetgazdasági Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 006343 |  | 1 |  |  |  |  |  |  | Nemzetgazdasági Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  | -0,8 | -0,5 |  |  |
+
+|  | XVII. |  |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000516 |  | 12 |  |  |  |  |  |  | Közbeszerzési és Ellátási Főigazgatóság |  |  |  |  |  |  |  |  |  |  |  | 0,8 | 0,5 |  |  |
+
+| Az előirányzatmódosítás érvényessége: b) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Foglalkoztatottak létszáma (fő) - időszakra | fő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Millió forintban, egy tizedessel |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  | 0,8 |  |  |  |  |  |  |  |  |  |  | 0,3 | 0,5 |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
