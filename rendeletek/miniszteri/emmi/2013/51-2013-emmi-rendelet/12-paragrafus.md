@@ -1,0 +1,3 @@
+## 11. § Az e rendelet hatálybalépésekor működési engedéllyel rendelkező egészségügyi szolgáltató a kockázatértékelést és a bejelentést a biológiai tényezők hatásának kitett munkavállalók egészségének védelméről szóló 61/1999. (XII. 1.) EüM rendelet 3. § (3) bekezdésében előírt, soron következő kockázatértékelés keretében, illetve azzal egyidejűleg készíti el, illetve teszi meg.
+
+12. § Ez a rendelet a HOSPEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló, 2010. május 10-i keretmegállapodás végrehajtásáról szóló 2010/32/EU tanácsi irányelvnek való megfelelést szolgálja.
