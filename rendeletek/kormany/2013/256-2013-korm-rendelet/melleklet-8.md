@@ -26,4 +26,6 @@
 
 | 13. | 450 000-től | 10 000 |
 
-8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
+8–10. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^7]
+
+[^7]: A 8–10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

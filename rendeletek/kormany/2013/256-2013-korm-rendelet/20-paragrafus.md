@@ -1,3 +1,0 @@
-## 19. § A közszférában alkalmazandó nyugdíjpolitikai elveknek az egészségügyi dolgozók vonatkozásában történő érvényesítéséről és végrehajtásáról szóló 124/2013. (IV. 26.) Korm. rendelet (a továbbiakban: Kr.2.) 2. §-a a következő (8) bekezdéssel egészül ki:
-
-## „(8) A (3) és a (7) bekezdés alkalmazása során a nyugdíjfolyósító szerv az egészségügyi dolgozót egyébként megillető pénzellátás havi összegéről ad tájékoztatást, függetlenül attól, hogy az egészségügyi dolgozó részére megállapított pénzellátás összegére a bírósági végrehajtásról szóló 1994. évi LIII. törvény 67. §-a alapján végrehajtás elrendelésére került sor.”

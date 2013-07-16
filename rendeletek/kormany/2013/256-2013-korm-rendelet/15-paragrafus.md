@@ -1,3 +1,0 @@
-## 14. § A FinR. a következő 76. §-sal egészül ki:
-
-## „76. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelettel megállapított 21. § (4) bekezdésében meghatározott, a 21. § (4) bekezdése szerinti havi díjazás 12%-ának megfelelő összeg a védőnőt – a 2013. június 30-ával őt megillető díjazásán felül – első alkalommal a 2013. július hónapra járó díjazásával illeti meg, amennyiben ezen összeget eddig az időpontig nem fordították a védőnő díjazására.”

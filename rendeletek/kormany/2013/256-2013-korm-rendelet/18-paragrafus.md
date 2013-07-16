@@ -1,1 +1,3 @@
-## 17. § A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet (a továbbiakban: KábszR.) 1. melléklete a 9. melléklet szerint módosul.
+## 13–17. §[^3]
+
+[^3]: A 13–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

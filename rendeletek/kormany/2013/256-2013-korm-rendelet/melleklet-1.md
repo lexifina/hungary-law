@@ -1,4 +1,4 @@
-## 22. § A Kr.2. 3. melléklete a 10. melléklet szerint módosul.
+## 19–22. §[^5]
 
 1. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
@@ -203,3 +203,5 @@ Jelmagyarázat:
 * = a Honvédelmi Minisztérium és a Magyar Honvédség egészségügyi intézményeiben foglalkoztatott közalkalmazottakra irányadó munkakör.
 
 ** = a Kjt. vhr. 17. §-ában említett fegyveres szerveknél foglalkoztatott közalkalmazottakra irányadó munkakör.
+
+[^5]: A 19–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
