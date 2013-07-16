@@ -2,18 +2,12 @@
 
 ## 18. § Hatályát veszti a Vhr.
 
-a) 1. § (2) bekezdés b) pont ba) alpontja,
+a)–e)[^20]
 
-b) 31. § (1) bekezdésében a „pénzbeli egészségbiztosítási járulékalapot képező” szövegrész,
+f)–g)[^21]
 
-c) 31. § (9) bekezdése,
+h)[^22]
 
-d) 31/D. § (2) bekezdése,
-
-e) 32. § (3) bekezdése,
-
-f)–g)[^12]
-
-h) 40. § (2) bekezdésében a „helyszíni vizsgálat során” szövegrész.
-
-[^12]: A 18. § f)–g) pontja a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^20]: A 18. § a)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 18. § f)–g) pontja a 64. § (6) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^22]: A 18. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
