@@ -64,7 +64,7 @@ j) irányítja, illetve felügyeli
 
 ja) a Nemzeti Információs Infrastruktúra Fejlesztési Intézetet
 
-jb)[^394] – az oktatásigazgatással és -fejlesztéssel kapcsolatos programok tekintetében az emberi erőforrások minisztere egyetértésével – az Educatio Társadalmi Szolgáltató Nonprofit Kft.-t,
+jb)[^394]
 
 jc)[^395] – a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvényben meghatározottak szerint az emberi erőforrások miniszterével – a Neumann János Digitális Könyvtár és Multimédia Központ Nonprofit Kft.-t,
 
@@ -84,5 +84,5 @@ jd) a Nemzeti Hírközlési és Informatikai Tanácsot.
 [^391]: A 92. § (1) bekezdés n) pontját az 53/2011. (III. 31.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 169/2013. (V. 29.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^392]: A 92. § (2) bekezdés nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (58) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^393]: A 92. § (2) bekezdés e) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § r) pontja szerint módosított szöveg.
-[^394]: A 92. § (2) bekezdés j) pont jb) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított, a 94/2012. (V. 11.) Korm. rendelet 7. § q) pontja szerint módosított szöveg.
+[^394]: A 92. § (2) bekezdés j) pont jb) alpontját a 270/2013. (VII. 15.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^395]: A 92. § (2) bekezdés j) pont jc) alpontja a 267/2010. (XII. 3.) Korm. rendelet 30. §-ával megállapított, a 94/2012. (V. 11.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
