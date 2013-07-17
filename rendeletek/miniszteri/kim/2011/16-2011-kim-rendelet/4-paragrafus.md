@@ -10,9 +10,12 @@ d) a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkoz
 
 e)[^1] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2011-es évre történő megállapításáról szóló, 2011. július 27-i 830/2011/EU bizottsági rendelet
 
-f)[^2] az ipari termelés közösségi felmérésének létrehozásáról szóló 3924/91/EGK tanácsi rendelet végrehajtásáról szóló, 2004. április 29-i 912/2004/EK bizottsági rendelet
+f)[^2] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2012-es évre történő megállapításáról szóló, 2012. augusztus 20-i 907/2012/EU bizottsági rendelet;
 
-végrehajtásához szükséges rendelkezéseket állapít meg.
+g)[^3] az ipari termelés közösségi felmérésének létrehozásáról szóló 3924/91/EGK tanácsi rendelet végrehajtásáról szóló, 2004. április 29-i 912/2004/EK bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg
 
 [^1]: A 4. § e) pontját a 7/2012. (II. 21.) KIM rendelet 2. §-a iktatta be.
-[^2]: A 4. § f) pontját a 7/2012. (II. 21.) KIM rendelet 2. §-a iktatta be.
+[^2]: A 4. § f) pontját a 7/2012. (II. 21.) KIM rendelet 2. §-a iktatta be, szövege a 15/2013. (VII. 9.) KIM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 4. § g) pontját a 15/2013. (VII. 9.) KIM rendelet 2. §-a iktatta be.
