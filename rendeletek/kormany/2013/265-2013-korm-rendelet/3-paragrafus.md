@@ -1,3 +1,0 @@
-## 2. § A Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukció: „Decentralizált programok a hátrányos helyzetűek foglalkoztatásáért”, valamint a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1. konstrukció: „Megváltozott munkaképességű emberek rehabilitációjának és foglalkoztatásának segítése” keretében nyújtható támogatásokról szóló 132/2009. (VI. 19.) Korm. rendelet 1. § c) pontjában a „munkaügyi feladatot ellátó szakigazgatási szervére” szövegrész helyébe a „foglalkoztatási, munkaerő-piaci feladatot ellátó szakigazgatási szervére” szöveg lép.
-
-## 3. A munkába járással kapcsolatos utazási költségtérítésről szóló 39/2010. (II. 26.) Korm. rendelet módosítása
