@@ -1,12 +1,12 @@
-## 85. §[^346] A miniszter a fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
+## 85. §[^348] A miniszter a fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
 
 a) összehangolja a központi államigazgatási szervek országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
-b)[^347] országos fejlesztéspolitikai adatbázis és információs rendszer működtetésével folyamatosan figyelemmel kíséri a fejlesztési folyamatokat, összehangolja a hazai és uniós támogatási források felhasználását, nyomon követi a fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Kormányt tájékoztatja,
+b)[^349] országos fejlesztéspolitikai adatbázis és információs rendszer működtetésével folyamatosan figyelemmel kíséri a fejlesztési folyamatokat, összehangolja a hazai és uniós támogatási források felhasználását, nyomon követi a fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Kormányt tájékoztatja,
 
 c) javaslatot tesz a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerének kialakítására, fejlesztésére, gyakorolja a végrehajtásban közreműködő szervezetek feletti felügyeleti, irányítási és tulajdonosi jogokat,
 
-d)[^348] együttműködik a fejlesztéspolitikában érintett szervekkel, szükség szerint összehangolja a fejlesztési tanácsokban képviselendő kormányzati álláspontot; ellátja az Országos Területfejlesztési Tanácsban való részvétellel és annak működésével kapcsolatos feladatokat, továbbá a Regionális Fejlesztési és Képzési Tanácsokkal kapcsolatos feladatokat,
+d)[^350] együttműködik a fejlesztéspolitikában érintett szervekkel, szükség szerint összehangolja a fejlesztési tanácsokban képviselendő kormányzati álláspontot; ellátja az Országos Területfejlesztési Tanácsban való részvétellel és annak működésével kapcsolatos feladatokat, továbbá a Regionális Fejlesztési és Képzési Tanácsokkal kapcsolatos feladatokat,
 
 e) előkészíti a kormányzati támogatási döntések végrehajtását szolgáló szabályozásokat, biztosítja az ágazati és területi szereplői közötti koordinációt,
 
@@ -18,7 +18,7 @@ h) közreműködik a nemzetgazdasági miniszterrel együttműködve a külföldi
 
 i) a fejlesztéspolitikai célkitűzések végrehajtása érdekében közreműködik a központi állami költségvetési politika, valamint a környezetvédelmi, agrár- és infrastruktúrafejlesztési politika, továbbá az egészségügyi, valamint a lakáspolitika kidolgozásában,
 
-j)[^349] ellátja a Nemzeti Fejlesztési Ügynökség döntéseivel összefüggésben a panaszeljáráshoz kapcsolódó feladatokat,
+j)[^351] ellátja a Nemzeti Fejlesztési Ügynökség döntéseivel összefüggésben a panaszeljáráshoz kapcsolódó feladatokat,
 
 k) a Támogatásokat vizsgáló iroda keretei között gondoskodik az Európai Unió működéséről szóló Szerződés 107. cikkének hatálya alá tartozó állami támogatások – a Szerződés által meghatározott mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
 
@@ -30,33 +30,33 @@ n) irányítja
 
 na) a Nemzeti Fejlesztési Ügynökséget,
 
-nb)[^350]
+nb)[^352]
 
-nc)[^351]
+nc)[^353]
 
-nd)[^352]
+nd)[^354]
 
 o) szakmailag felügyeli
 
 oa) a Magyar Fejlesztési Bank Zrt.,
 
-ob)[^353] a VÁTI,
+ob)[^355] a VÁTI,
 
 oc) az ESZA Társadalmi Szolgáltató Nonprofit Kft.,
 
-od)[^354] Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft.,
+od)[^356] Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft.,
 
-oe)[^355] a Nemzeti Fejlesztési Programiroda Nonprofit Kft. és
+oe)[^357] a Nemzeti Fejlesztési Programiroda Nonprofit Kft. és
 
 of) a Regionális Fejlesztési Holding Zrt. tevékenységét.
 
-[^346]: A 85. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^347]: A 85. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^348]: A 85. § d) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^349]: A 85. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^350]: A 85. § n) pont nb) alpontját a 320/2011. (XII. 27.) Korm. rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^351]: A 85. § n) pont nc) alpontját a 86/2011. (V. 31.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^352]: A 85. § n) pont nd) alpontját a 370/2010. (XII. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^353]: A 85. § o) pont ob) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^354]: A 85. § o) pont od) alpontja a 86/2011. (V. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^355]: A 85. § o) pont oe) alpontját a 293/2012. (X. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte, újonnan a 245/2013. (VII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^348]: A 85. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^349]: A 85. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^350]: A 85. § d) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^351]: A 85. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^352]: A 85. § n) pont nb) alpontját a 320/2011. (XII. 27.) Korm. rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^353]: A 85. § n) pont nc) alpontját a 86/2011. (V. 31.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^354]: A 85. § n) pont nd) alpontját a 370/2010. (XII. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^355]: A 85. § o) pont ob) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^356]: A 85. § o) pont od) alpontja a 86/2011. (V. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^357]: A 85. § o) pont oe) alpontját a 293/2012. (X. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte, újonnan a 245/2013. (VII. 2.) Korm. rendelet 1. §-a iktatta be.

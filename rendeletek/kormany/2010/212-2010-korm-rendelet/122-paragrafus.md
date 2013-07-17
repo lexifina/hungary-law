@@ -1,4 +1,4 @@
-122. §[^478] Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet, valamint a Nemzeti Külgazdasági Hivatalról szóló 265/2010. (XI. 19.) Korm. rendelet módosításáról szóló 93/2013. (III. 29.) Korm. rendelet hatálybalépésével[^479] az egyes nemzetközi pénzügyi szervezetekkel való kapcsolattartásért felelős tárca nélküli miniszter feladat- és hatásköre a nemzetgazdasági miniszterhez kerül át.
+122. §[^480] Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet, valamint a Nemzeti Külgazdasági Hivatalról szóló 265/2010. (XI. 19.) Korm. rendelet módosításáról szóló 93/2013. (III. 29.) Korm. rendelet hatálybalépésével[^481] az egyes nemzetközi pénzügyi szervezetekkel való kapcsolattartásért felelős tárca nélküli miniszter feladat- és hatásköre a nemzetgazdasági miniszterhez kerül át.
 
-[^478]: A 122. §-t a 93/2013. (III. 29.) Korm. rendelet 4. §-a iktatta be.
-[^479]: A hatálybalépés időpontja 2013. március 30.
+[^480]: A 122. §-t a 93/2013. (III. 29.) Korm. rendelet 4. §-a iktatta be.
+[^481]: A hatálybalépés időpontja 2013. március 30.
