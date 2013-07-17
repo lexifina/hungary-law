@@ -8,12 +8,12 @@ c) kezeli a továbbképzések megszervezéséhez, a résztvevők támogatásáho
 
 d) tájékoztató és információs szolgáltatást működtet a határon túli pedagógusszervezetek részvételével,
 
-e)[^3] kapcsolatot tart az oktatásért felelős miniszter szakmai tanácsadó szervezetével, a határon túli magyar pedagógus szervezetek tagjaiból álló Határon Túli Magyar Oktatási Tanáccsal (a továbbiakban: Oktatási Tanács),
+e)[^3] kapcsolatot tart az oktatásért felelős miniszter szakmai tanácsadó szervezetével, a határon túli magyar pedagógus szervezetek tagjaiból álló Külhoni Magyar Oktatási Tanáccsal (a továbbiakban: Oktatási Tanács),
 
 f) e rendeletben foglaltak szerint továbbképzést szervez Magyarországon. A szomszédos államokban szervezett továbbképzéseket a határon túli magyar pedagógus szövetségek, illetve módszertani központok közreműködésével végzi,
 
 g)[^4] az oktatásért felelős miniszter által vezetett minisztériummal együtt ellátja a továbbképzési kormányrendeletben meghatározott ellenőrzési feladatokat.
 
 [^2]: A 2. § felvezető szövegének első mondata a 309/2006. (XII. 23.) Korm. rendelet 7. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^3]: A 2. § e) pontja a 182/2009. (IX. 10.) Korm. rendelet 310. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § e) pontja a 277/2013. (VII. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § g) pontja a 131/2007. (VI. 12.) Korm. rendelet 10. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 310. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
