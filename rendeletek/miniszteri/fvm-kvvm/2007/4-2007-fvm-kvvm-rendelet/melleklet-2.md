@@ -72,7 +72,7 @@
 
 | Nyúl: | magyar óriás nyúl |
 
-2. számú melléklet a 4/2007. (I. 18.) FVM–KvVM együttes rendelethez[^2]
+2. számú melléklet a 4/2007. (I. 18.) FVM–KvVM együttes rendelethez[^3]
 
 Veszélyeztetett mezőgazdasági állatfajták
 
@@ -80,4 +80,4 @@ Veszélyeztetett mezőgazdasági állatfajták
 
 | Szarvasmarha: | magyar tarka szarvasmarha |
 
-[^2]: A 2. számú melléklet a 92/2008. (VII. 24.) FVM–KvVM együttes rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. számú melléklet a 92/2008. (VII. 24.) FVM–KvVM együttes rendelet 1. §-ával megállapított szöveg.
