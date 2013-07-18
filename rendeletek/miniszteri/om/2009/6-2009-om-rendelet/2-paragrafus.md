@@ -1,1 +1,0 @@
-## 1. § Ez a rendelet határozza meg a választási irodáknak és a közreműködő közigazgatási szerveknek az Európai Parlament tagjai választásának (a továbbiakban: választás) előkészítésével és lebonyolításával kapcsolatos feladatait.
