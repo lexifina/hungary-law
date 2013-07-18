@@ -30,6 +30,6 @@
 
 | sorszám | családi név | utónév | anyja családi neve | anyja utóneve | születési hely, idő | lakcím | szakképesítése, okirat száma/ kibocsátója | fegyvertartási engedély száma | esküokmány száma | szolgálati igazolványa/ jelvénye száma | intézkedés, a határozat száma |
 
-10. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^161]
+10. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^160]
 
-[^161]: A Vhr. 10. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés b) pontjával megállapított szöveg.
+[^160]: A Vhr. 10. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés b) pontjával megállapított szöveg.

@@ -24,6 +24,6 @@
 
 ## vadászati hatóság
 
-11. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^162]
+11. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^161]
 
-[^162]: A Vhr. 11. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés c) pontjával megállapított szöveg.
+[^161]: A Vhr. 11. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés c) pontjával megállapított szöveg.
