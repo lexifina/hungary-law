@@ -2,8 +2,6 @@
 
 ## Éves átlagos állatlétszám állategységben:
 
-## 2K12645_0
-
 ## ahol:
 
 | A1 = | Összes korcsoport év eleji induló létszáma állategységben |

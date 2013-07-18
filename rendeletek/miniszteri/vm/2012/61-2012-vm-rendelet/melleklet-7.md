@@ -1,7 +1,5 @@
 ## A jó minőségű takarmány előállítását, felhasználását, valamint a takarmányminőség megőrzését biztosító beruházás megvalósítására szolgáló építészeti és technológiai beruházások támogatási egységei, azok kötelezően elvárt műszaki tartalma (MT) és elszámolható kiadásai (EK)
 
-## 2K12682_0
-
 | Cél- terü- leti kód | Te- vé- keny- ség- típus | Fő- cso- port | Cso- port | Támo- gatási egység kódja | Megnevezés |
 
 | 3 | Jó minőségű takarmány előállítását és felhasználását, valamint a takarmányminőség megőrzését biztosító építészeti és technológiai beruházások célterülete |
