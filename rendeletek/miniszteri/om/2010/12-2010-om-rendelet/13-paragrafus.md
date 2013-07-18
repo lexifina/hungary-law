@@ -1,1 +1,0 @@
-## 12. § A miniszter az Önkormányzati Minisztérium költségvetési fejezetében az e rendeletben foglalt feladatok lebonyolítására rendelkezésre álló összeget megállapodás alapján fejezetek közötti költségvetési előirányzat- átcsoportosítással biztosítja a KEKKH részére.
