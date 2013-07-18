@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-41-00-00
 | 2013-04-05 | 2013. évi XXXV. törvény | 1997-41-00-00.27 |
 | 2013-06-04 | 45/2013. (VI. 3.) VM rendelet | 1997-41-00-00.28 |
 | 2013-06-28 | 2013. évi LXXXII. törvény | 1997-41-00-00.29 |
+| 2013-07-18 | 59/2013. (VII. 15.) VM rendelet | 1997-41-00-00.30 |

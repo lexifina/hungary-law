@@ -50,7 +50,7 @@ h) a halászati őrzés ismeretéről, továbbá
 
 i) a halászati tevékenységgel kapcsolatos biztonsági, természet- és környezetvédelmi szabályokról.
 
-(4) A tanfolyam részletes szakmai anyagát a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(4)
 
 (5)
 
@@ -90,7 +90,7 @@ g) a horgászattal kapcsolatos legfontosabb természet- és környezetvédelmi s
 
 h) az egyesületi tagságból eredő jogokról és kötelezettségekről.
 
-(2) A horgászvizsga részletes szakmai anyagát a minisztérium – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(2)
 
 (3) Horgászvizsgát a halászati hatóság által – az illetékességi területén – kijelölt szervezetnél lehet tenni.
 

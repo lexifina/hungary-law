@@ -44,6 +44,6 @@ származó bevételek.
 
 Vhr. 32. § (1) A Hhtv. 52. §-a (1) bekezdésének a)–f) pontjaiban felsorolt tevékenységekhez támogatás elnyerésére a miniszter évente nyilvános pályázatot ír ki.
 
-(2) A pályázat elbírálása során a miniszter az Országos Halászati Bizottság véleménye alapján határoz.
+(2)
 
 Vhr. 33. § Az államot megillető halászati jog haszonbérleti díját, valamint a halászatfejlesztési hozzájárulás összegét évente március 31. napjáig kell átutalási megbízáson teljesíteni a Magyar Államkincstárnál vezetett FM Halgazdálkodási tevékenységek 10032000-01220191-55000000 számú számlára.
