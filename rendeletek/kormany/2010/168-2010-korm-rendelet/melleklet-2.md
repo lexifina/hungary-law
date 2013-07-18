@@ -160,10 +160,6 @@
 
 ## 201 Budapest-Angyalföldi elágazás – Budapest-Angyalföld
 
-## 207 Budapest-Józsefváros – Budapest-Ferencváros
-
-## 208 Budapest-Józsefváros – Kőbánya felső
-
 ## 210 Rákosrendező – Vasúttörténeti park
 
 ## 211 Kispesti elágazás – Pestszentimre felső elágazás

@@ -84,7 +84,7 @@
 
 ## 329 Nagyút – Visonta
 
-3. melléklet a 168/2010. (V. 11.) Korm. rendelethez
+3. melléklet a 168/2010. (V. 11.) Korm. rendelethez[^3]
 
 Az egyéb vasúti pályák
 
@@ -190,6 +190,10 @@ Az egyéb vasúti pályák
 
 153 Kiskörös – Kalocsa
 
+207 Budapest-Józsefváros – Budapest-Ferencváros
+
+208 Budapest-Józsefváros – Kőbánya felső
+
 301 Adony – Adonyi Dunapart
 
 302 (2) Ajka – Padragkút
@@ -199,3 +203,5 @@ Az egyéb vasúti pályák
 328 Bácsalmás – Csikéria
 
 A vasúti pályákat összekötő pályákat (deltavágányokat) a felsorolás nem tartalmazza. Amennyiben különböző besorolású pályákat köt össze, besorolása az alacsonyabb rendű vasúti pálya besorolásával egyezik meg.
+
+[^3]: A 3. melléklet a 262/2013. (VII. 10.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
