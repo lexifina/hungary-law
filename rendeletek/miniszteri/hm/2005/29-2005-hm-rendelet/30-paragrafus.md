@@ -1,1 +1,0 @@
-## Rádiózavar-elhárítás

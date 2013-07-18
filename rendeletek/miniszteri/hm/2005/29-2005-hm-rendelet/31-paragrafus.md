@@ -1,1 +1,0 @@
-## 30. § A hatóság a nem polgári célú rádió-távközlési szolgálatok üzemében észlelt rádiózavar esetén a jogosult kérelmére (bejelentésére), illetőleg saját rádiómérései alapján zavarvizsgálatot végez vagy kezdeményez. A hatóság a Nemzeti Hírközlési Hatóság belföldi jogsegély keretében küldött megkeresésére a jogosultnál zavarvizsgálatot végez.
