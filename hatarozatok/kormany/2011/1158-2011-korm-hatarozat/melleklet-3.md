@@ -48,40 +48,10 @@
 
 | Pálinka Nemzeti Tanács | VM |
 
-3. melléklet az 1158/2011. (V. 23.) Korm. határozathoz[^8]
+| Nemzeti Kulturális Alap Bizottsága és szakmai kollégiumai | EMMI |
 
-Fontos társadalmi okból kivételes szabályozást igénylő testületek
+| Nemzeti Együttműködési Alap Tanácsa és kollégiumai | EMMI |
 
-| Testület neve | A kivétel oka | Felelős miniszter |
+3. melléklet az 1158/2011. (V. 23.) Korm. határozathoz[^9]
 
-| Légiközlekedési Védelmi Bizottság | fontos biztonsági ok | NFM |
-
-| Nemzeti Hírközlési és Informatikai Tanács | fontos politikai ok | NFM |
-
-| Központi Nukleáris Pénzügyi Alap Szakbizottság | atomenergia biztonsága | NFM |
-
-| Az Országos Atomenergiai Hivatal munkáját segítő Tudományos Tanács | atomenergia biztonsága | NFM |
-
-| Vállalkozásfejlesztési Tanács | fontos politikai ok | NGM |
-
-| Egészségügyi Szakképzési és Továbbképzési Tanács | szakpolitikai ok | NEFMI |
-
-| Egészségügyi Tudományos Tanács | szakpolitikai ok | NEFMI |
-
-| Szakmai Kollégium | szakpolitikai ok | NEFMI |
-
-| Országos Statisztikai Tanács | fontos politikai ok | KIM |
-
-| HM Központi Lakásbizottság, helyőrségi lakásbizottságok, keretgazda lakásbizottság, pályázatelbíráló bizottság | antikorrupciós érdek | HM |
-
-| Nemzeti Tehetségügyi Fórum | szakpolitikai ok | NEFMI |
-
-| Katasztrófavédelmi Operatív Bizottság MH Járványügyi Védekezési Bizottság | fontos biztonsági ok | HM |
-
-| Vámtarifa Bizottság | szakpolitikai ok | KÜM |
-
-| Bizottság a káreljárás lefolytatására | szakpolitikai ok | HM |
-
-| Cigányügyi Egyeztető Tanács | fontos társadalmi ok | EMMI |
-
-[^8]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be, szövege az 1048/2013. (II. 12.) Korm. határozat 11. pontja, az 1353/2013. (VI. 21.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^9]: A 3. mellékletet az 1452/2011. (XII. 22.) Korm. határozat 13. pontja iktatta be, szövege az 1048/2013. (II. 12.) Korm. határozat 11. pontja, az 1353/2013. (VI. 21.) Korm. határozat 1. pontja, az 1460/2013. (VII. 17.) Korm. határozat 3. pontja szerint módosított szöveg.

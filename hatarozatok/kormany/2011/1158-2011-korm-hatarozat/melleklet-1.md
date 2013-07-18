@@ -38,11 +38,11 @@
 
 ## s) A testület működéséért fő felelősséget viselő állami vezető a testület ülésének emlékeztetőjét küldje meg valamennyi, a testület által érintett szakterületért felelős állami vezető számára.
 
-## t) A testület munkájában tagként vagy meghívottként részt vevő személy a testületben való részvételéért díjazásban csak kivételesen indokolt esetben részesüljön. Állami vezető, tisztviselő, köztisztviselő, közalkalmazott, kizárólagos állami tulajdonban álló gazdasági társaság vezető tisztségviselője vagy munkavállalója testület munkájában tagként vagy meghívottként való részvételéért semmiféle díjazásban ne részesüljön.
+## t)[^4] A testület munkájában tagként vagy meghívottként részt vevő személy a testületben való részvételéért díjazásban csak kivételesen indokolt esetben részesüljön. Állami vezető, tisztviselő, köztisztviselő, közalkalmazott, kizárólagos állami tulajdonban álló gazdasági társaság vezető tisztségviselője vagy munkavállalója testület munkájában – a 4. mellékletben felsorolt testületek kivételével – tagként vagy meghívottként való részvételéért semmiféle díjazásban ne részesüljön.
 
-## u)[^4] A jogérvényesítés szempontjából nélkülözhetetlennek minősülnek azok a testületek, amelyek hatékonysági szempontokra közvetlenül nem visszavezethető, sajátos szakmai értékrenden alapuló, önálló közhatalmi döntéseket hoznak, vagy törvényben, kormányrendeletben meghatározott hatósági ügyekben érdemi döntést meghatározó véleményt adnak.
+## u)[^5] A jogérvényesítés szempontjából nélkülözhetetlennek minősülnek azok a testületek, amelyek hatékonysági szempontokra közvetlenül nem visszavezethető, sajátos szakmai értékrenden alapuló, önálló közhatalmi döntéseket hoznak, vagy törvényben, kormányrendeletben meghatározott hatósági ügyekben érdemi döntést meghatározó véleményt adnak.
 
-## v)[^5] A tisztviselő tagságát nem igénylő, jogszabályban, vagy közjogi szervezetszabályozó eszközben létrehozott testületek esetében a létrehozásról rendelkező jogforrás rendelkezzen arról, hogy a testületnek tisztviselő nem lehet tagja.
+## v)[^6] A tisztviselő tagságát nem igénylő, jogszabályban, vagy közjogi szervezetszabályozó eszközben létrehozott testületek esetében a létrehozásról rendelkező jogforrás rendelkezzen arról, hogy a testületnek tisztviselő nem lehet tagja.
 
 ## 2. A Kormány felhívja a minisztereket, hogy az 1. pontban foglaltak alapján vizsgálják felül a fő felelősségi körükbe tartozó testületekre vonatkozó jogszabályban, vagy közjogi szervezetszabályozó eszközben található rendelkezéseket, és készítsenek intézkedési tervet – a jogérvényesítés szempontjából nélkülözhetetlen és más megoldásokkal nem kiváltható testületek kivételével – a testületekre vonatkozó szabályozás hatályon kívül helyezésére, vagy az 1. pontban foglaltaknak megfelelő módosítására, valamint szükség esetén új, az 1. pontban foglaltaknak megfelelő testületek felállítására, és az intézkedési tervet küldjék meg a közigazgatási és igazságügyi miniszter számára.
 
@@ -92,7 +92,7 @@
 
 ## 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1158/2011. (V. 23.) Korm. határozathoz[^6]
+1. melléklet az 1158/2011. (V. 23.) Korm. határozathoz[^7]
 
 ## A kormányzati testületek nyilvántartása a következő adatokat tartalmazza:
 
@@ -123,6 +123,7 @@
 [^1]: Az 1. pont a) alpontja az 1452/2011. (XII. 22.) Korm. határozat 12. pontjával megállapított szöveg.
 [^2]: Az 1. pont g) alpontja az 1452/2011. (XII. 22.) Korm. határozat 10. pontjával megállapított szöveg.
 [^3]: Az 1. pont p) alpontja az 1452/2011. (XII. 22.) Korm. határozat 11. pontjával megállapított szöveg.
-[^4]: Az 1. pont u) alpontját az 1452/2011. (XII. 22.) Korm. határozat 9. pontja iktatta be.
-[^5]: Az 1. pont v) alpontját az 1452/2011. (XII. 22.) Korm. határozat 9. pontja iktatta be.
-[^6]: A Melléklet megjelölését az 1452/2011. (XII. 22.) Korm. határozat 14. pontja 1. mellékletre változtatta.
+[^4]: Az 1. pont t) pontja az 1460/2013. (VII. 17.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. pont u) alpontját az 1452/2011. (XII. 22.) Korm. határozat 9. pontja iktatta be.
+[^6]: Az 1. pont v) alpontját az 1452/2011. (XII. 22.) Korm. határozat 9. pontja iktatta be.
+[^7]: A Melléklet megjelölését az 1452/2011. (XII. 22.) Korm. határozat 14. pontja 1. mellékletre változtatta.
