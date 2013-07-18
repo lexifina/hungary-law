@@ -1,9 +1,5 @@
+## 20. §[^12]
+
 ## 12. A helyi választási iroda feladatai a szavazás napján
 
-21. § (1) Az SZSZB mellett működő jegyzőkönyvvezető
-
-a) ellátja a 7. § (1) bekezdés a), c), d), g) és i) pontjában foglalt feladatokat,
-
-b) az SZSZB döntése alapján gondoskodik a kisebbségi választói jegyzék, a visszautasítottak jegyzékének és a mozgóurnát kérők nyilvántartásának kezeléséről.
-
-(2) A HVI ellátja a 7. § (2) bekezdés a), c), e) és f) pontjában foglalt feladatokat.
+[^12]: A 20. §-t a 18/2013. (VII. 17.) KIM rendelet 10. § f) pont fe) alpontja hatályon kívül helyezte.

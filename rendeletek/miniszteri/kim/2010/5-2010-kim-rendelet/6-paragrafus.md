@@ -72,7 +72,7 @@ e) gondoskodik a névjegyzék összeállításáról,
 
 f) gondoskodik az értesítők elkészítéséről és borítékolásáról,
 
-g) bejelentett igény alapján, díjfizetés ellenében a közszemlére tett névjegyzék másolatát átadja az arra jogosult igénylőnek,
+g)[^5]
 
 h) a névjegyzék összeállításától a szavazást megelőző második napon 16 óráig gondoskodik a választójogosultságban, a személyi adatokban és a lakcímekben bekövetkezett változások átvezetéséről a névjegyzéken, tájékoztatja a választópolgárt a névjegyzékbe való felvételről és az abból való törlésről,
 
@@ -95,3 +95,5 @@ p) gondoskodik a névjegyzék szavazóhelyiségbe kerülő példányának, valam
 q) a kinyomtatott névjegyzéket az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti,
 
 r) a névjegyzék hitelesítésének megtörténtéről haladéktalanul értesíti az OVI vezetőjét,
+
+[^5]: A 6. § (2) bekezdés g) pontját a 18/2013. (VII. 17.) KIM rendelet 10. § f) pont fb) alpontja hatályon kívül helyezte.
