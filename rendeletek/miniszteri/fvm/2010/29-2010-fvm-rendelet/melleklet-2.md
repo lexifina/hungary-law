@@ -26,7 +26,7 @@
 
 | 11. | szilva | ULT06 | 400 |
 
-2. melléklet a 29/2010. (III. 30.) FVM rendelethez[^45]
+2. melléklet a 29/2010. (III. 30.) FVM rendelethez[^50]
 
 ## A gyümölcs és a Virginia dohány szerkezetátalakítási támogatási jogosultság egységértékének kiszámítása
 
@@ -50,4 +50,4 @@ TERb: a Burley dohány szerkezetátalakítási támogatási jogosultságok a 10.
 
 TERv: a Virginia dohány szerkezetátalakítási támogatási jogosultságok a 10. § (4) bekezdése alapján megállapított összes területe
 
-[^45]: A 2. melléklet a 4/2012. (II. 7.) VM rendelet 12. §-ával megállapított szöveg.
+[^50]: A 2. melléklet a 4/2012. (II. 7.) VM rendelet 12. §-ával megállapított szöveg.

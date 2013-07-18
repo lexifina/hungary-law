@@ -1,10 +1,10 @@
-16. §[^32] (1)[^33] A zöldség-, illetve gyümölcs szerkezetátalakítási támogatási jogosultság
+16. §[^33] (1)[^34] A zöldség-, illetve gyümölcs szerkezetátalakítási támogatási jogosultság
 
 a) részben, vagy egészben kizárólag a szerkezetátalakítási programba bejelentkezett zöldség-, gyümölcstermelőre, vagy
 
 b) gazdaságátadási támogatást igénybe vevő termelő által bármely, a gazdaságot átvevő személyre ruházható át.
 
-(2)[^34] A Virginia, illetve a Burley dohány szerkezetátalakítási támogatási jogosultság
+(2)[^35] A Virginia, illetve a Burley dohány szerkezetátalakítási támogatási jogosultság
 
 a) részben, vagy egészben kizárólag a szerkezetátalakítási programba bejelentkezett Virginia, Burley dohánytermelőre, vagy
 
@@ -24,7 +24,9 @@ d) azt a személyt, akire vagy amelyre gazdaságátadási támogatást igénybev
 
 (5) Az (1) bekezdés b) pontja és a (2) bekezdés b) pontja szerinti esetekben a termelő összes támogatási jogosultsága csak együttesen ruházható át, nem természetes személy termelő szervezeti átalakulása esetén csak együttesen szállhat át a jogutódra.
 
-(6) A szerkezetátalakítási támogatási jogosultság tárgyév január 1-jei határidővel hatályos átruházása alapján az átírási kérelmet kizárólag a március 1. és április 1. közötti időszakban lehet benyújtani az e §-ban foglaltak figyelembevétele mellett.
+(6)[^36] A szerkezetátalakítási támogatási jogosultság tárgyév január 1-jei határidővel hatályos átruházása alapján az átírási kérelmet – a (6a) bekezdésben foglalt eset kivételével – kizárólag február 1. és április 1. közötti időszakban lehet benyújtani e §-ban foglaltak figyelembevétele mellett.
+
+(6a)[^37] A (6) bekezdésben foglaltaktól eltérően, az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termelők gazdaságátadásához a 2012. évtől igényelhető támogatások részletes feltételeiről szóló 121/2012. (XI. 28.) VM rendelet szerint gazdaságátadási támogatási kérelmet jóváhagyó vagy részben jóváhagyó jogerős határozattal rendelkező átadó és a határozatban megnevezett átvevője nyújthat be tárgyév szeptember 30-ig átírási kérelmet e §-ban foglaltak figyelembevétele mellett, amennyiben a tárgyévi egységes területalapú támogatás iránti kérelmet és a zöldség, gyümölcs és a dohány szerkezetátalakítási kifizetési kérelmet a gazdaságot átvevő személy nyújtotta be.
 
 (7) A szerkezetátalakítási támogatási jogosultság átruházása esetén az átvevő általi teljesítés megállapításánál figyelembe kell venni az átadó által az átruházás benyújtási időpontjáig teljesített és igazolt árbevételre, valamint foglalkoztatásra vonatkozó szerkezetátalakítási programban előírt feltéteket.
 
@@ -38,6 +40,8 @@ d) azt a személyt, akire vagy amelyre gazdaságátadási támogatást igénybev
 
 (12) A (10) és (11) bekezdésében foglaltak alól kivételt képez, ha az átruházást követően öröklés vagy jogutódlás útján, vagy gazdaságátadási támogatási igénybe vevő termelőtől átruházás útján kerül a termelő a tulajdonába a szerkezetátalakítási támogatási jogosultság.
 
-[^32]: A 16. § a 4/2012. (II. 7.) VM rendelet 11. §-ával megállapított szöveg.
-[^33]: A 16. § (1) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^34]: A 16. § (2) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^33]: A 16. § a 4/2012. (II. 7.) VM rendelet 11. §-ával megállapított szöveg.
+[^34]: A 16. § (1) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^35]: A 16. § (2) bekezdése a 29/2012. (III. 24.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^36]: A 16. § (6) bekezdése az 59/2013. (VII. 15.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^37]: A 16. § (6a) bekezdését az 59/2013. (VII. 15.) VM rendelet 3. § (2) bekezdése iktatta be.
