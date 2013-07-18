@@ -44,10 +44,11 @@ b) kezességi díjtámogatás.
 
 (8)[^4] A támogatás mértéke 2013. december 31. napjáig megkötött Folyószámlahitel-szerződés esetén
 
-a) évi 2 százalékpontnyi kamattámogatás, valamint
+a)[^5] évi 4 százalékpontnyi kamattámogatás, valamint
 
 b) a hitelhez nyújtott kezességi díjnak 50 százalékáig terjedő támogatás, azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,75 százalékát.
 
 (9) Az Agrár Széchenyi Kártya Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatásakor a de minimis támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
 [^4]: A 2. § (8) bekezdése a 140/2011. (XII. 22.) VM rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 21. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 2. § (8) bekezdés a) pontja az 59/2013. (VII. 15.) VM rendelet 5. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 3. §[^5] A kamattámogatás és a kezességi díjtámogatás forrása a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelem-támogatások jogcímcsoport.
+## 3. §[^6] A kamattámogatás és a kezességi díjtámogatás forrása a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelem-támogatások jogcímcsoport.
 
 ## 4. A támogatás igénybevételének feltétele
 
@@ -18,7 +18,7 @@ d) nyilatkozik az igénylőlap benyújtását megelőző kettő pénzügyi évbe
 
 e) nem rendelkezik Széchenyi Kártya Folyószámlahitellel.
 
-(2)[^6] Az (1) bekezdés e) pontjában foglalt feltétel fennállásának ellenőrzését a KAVOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
+(2)[^7] Az (1) bekezdés e) pontjában foglalt feltétel fennállásának ellenőrzését a KAVOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
 
-[^5]: A 3. § a 140/2011. (XII. 22.) VM rendelet 3. § (2) bekezdése iktatta be, szövege a 139/2012. (XII. 22.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^6]: A 4. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 3. § a 140/2011. (XII. 22.) VM rendelet 3. § (2) bekezdése iktatta be, szövege a 139/2012. (XII. 22.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
