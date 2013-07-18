@@ -1,6 +1,6 @@
-## Az élelmiszer-előállító hely, illetve élelmiszer-forgalmazó hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó bővítése, átalakítása esetén, az építésügyi hatóság engedélyezési eljárásában a szakhatósági állásfoglaláshoz szükséges dokumentáció és tervdokumentáció tartalmi követelményei[^2]
+## Az élelmiszer-előállító hely, illetve élelmiszer-forgalmazó hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó bővítése, átalakítása esetén, az építésügyi hatóság engedélyezési eljárásában a szakhatósági állásfoglaláshoz szükséges dokumentáció és tervdokumentáció tartalmi követelményei[^3]
 
-5. §[^3] (1) Az élelmiszer-előállító hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó bővítése, átalakítása esetén, az építésügyi hatóság engedélyezési eljárásában a szakhatósági állásfoglaláshoz szükséges dokumentációnak és tervdokumentációnak tartalmaznia kell a következő adatokat:
+5. §[^4] (1) Az élelmiszer-előállító hely rendeltetésű helyiséget tartalmazó építmény építése, illetve ilyen rendeltetésű helyiséget tartalmazó bővítése, átalakítása esetén, az építésügyi hatóság engedélyezési eljárásában a szakhatósági állásfoglaláshoz szükséges dokumentációnak és tervdokumentációnak tartalmaznia kell a következő adatokat:
 
 a) az élelmiszer-előállító hely tevékenységi körének meghatározását,
 
@@ -40,5 +40,5 @@ h) melléktermék és a hulladék kezelési és ártalmatlanítási tervét,
 
 i) az ivóvíz minőségét tanúsító, 30 napnál nem régebbi vízvizsgálati eredményt.
 
-[^2]: Az 5. §-t megelőző alcím az 57/2010. (V. 7.) FVM rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 5. § az 57/2010. (V. 7.) FVM rendelet 27. § (2) bekezdésével megállapított szöveg. E módosító rendelet 24. § (2) bekezdése alapján a 2010. július 1. napját követően indult ügyekben kell alkalmazni.
+[^3]: Az 5. §-t megelőző alcím az 57/2010. (V. 7.) FVM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 5. § az 57/2010. (V. 7.) FVM rendelet 27. § (2) bekezdésével megállapított szöveg. E módosító rendelet 24. § (2) bekezdése alapján a 2010. július 1. napját követően indult ügyekben kell alkalmazni.
