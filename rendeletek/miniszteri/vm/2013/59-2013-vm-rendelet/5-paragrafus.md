@@ -1,0 +1,1 @@
+## 4. § Az élelmiszerek forgalomba hozatalának, valamint előállításának engedélyezéséről, illetve bejelentéséről szóló 57/2010. (V. 7.) FVM rendelet 9. § (1) bekezdésében az „MgSzH járási állategészségügyi hivatalának” szövegrész helyébe a „megyei kormányhivatal járási hivatala járási állategészségügyi és élelmiszer-ellenőrző hivatalának” szöveg lép.
