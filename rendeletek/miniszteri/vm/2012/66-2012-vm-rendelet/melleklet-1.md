@@ -1,6 +1,6 @@
-## 10. §[^8]
+## 10. §[^8] E rendeletnek az egyes miniszteri rendeletek módosításáról szóló 59/2013. (VII. 15.) VM rendelettel (a továbbiakban: módosító rendelet) módosított 1. § i) és j) pontját a módosító rendelet hatályba lépésekor[^9] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 66/2012. (VII. 10.) VM rendelethez[^9]
+1. melléklet a 66/2012. (VII. 10.) VM rendelethez[^10]
 
 A tárgyévben igénybe vehető csekély összegű (de minimis) támogatás mértéke
 
@@ -26,5 +26,6 @@ A felhasznált hőenergia mennyiség alapján megállapított intervallumokat, v
 
 | 7 | 384 000 |  | 10% | 6 666 |
 
-[^8]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet a 27/2013. (IV. 26.) VM rendelet 14. §-ával megállapított szöveg.
+[^8]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 59/2013. (VII. 15.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^9]: A hatálybalépés időpontja 2013. július 18.
+[^10]: Az 1. melléklet a 27/2013. (IV. 26.) VM rendelet 14. §-ával megállapított szöveg.
