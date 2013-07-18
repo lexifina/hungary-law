@@ -1,4 +1,4 @@
-49. §[^30] (1) Ez a rendelet
+49. §[^31] (1) Ez a rendelet
 
 a) a toxikus termékekkel kapcsolatos tevékenységekre, kereskedelemre és forgalmazásra vonatkozó átmeneti intézkedésekre, és az ilyen termékek hivatásszerű használatával, beleértve a közvetítők tevékenységeit is, kapcsolatos tevékenységekre vonatkozó részletes rendelkezések megállapításáról szóló, 1974. június 4-i 74/556/EGK tanácsi irányelvnek,
 
@@ -14,4 +14,4 @@ való megfelelést szolgálja.
 
 (2) Ez a rendelet a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^30]: A 49. § a 46/2012. (V. 8.) VM rendelet 3. §-ával megállapított szöveg.
+[^31]: A 49. § a 46/2012. (V. 8.) VM rendelet 3. §-ával megállapított szöveg.

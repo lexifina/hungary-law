@@ -16,7 +16,7 @@
 
 | Sor- szám | Vásárló neve | Vásárlási engedély száma | Növényvédő szer megnevezése | Forgalmi kategória | Értékesített mennyiség | Dátum | Átvette (név) | Vény száma | Kiadta |
 
-7. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^43]
+7. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^44]
 
 ## Raktári kártevők
 
@@ -76,4 +76,4 @@
 
 28. Scaphoideus titanus Ball
 
-[^43]: A 7. mellékletet a 66/2010. (V. 12.) FVM rendelet 13. § (17) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^44]: A 7. mellékletet a 66/2010. (V. 12.) FVM rendelet 13. § (17) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
