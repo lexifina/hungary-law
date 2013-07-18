@@ -28,8 +28,6 @@
 
 | Szakmai Minősítő Testület | NEFMI |
 
-| Nemzeti Kulturális Alap Bizottsága | NEFMI |
-
 | Országos Könyvtári Kuratórium | NEFMI |
 
 | Magyar Felsőoktatási Akkreditációs Bizottság | NEFMI |

@@ -104,4 +104,4 @@
 
 4. melléklet az 1452/2011. (XII. 22.) Korm. határozathoz[^3]
 
-[^3]: A 4. melléklet az 1180/2013. (IV. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 4. melléklet az 1180/2013. (IV. 5.) Korm. határozat 2. pontja, az 1460/2013. (VII. 17.) Korm. határozat 5. pontja szerint módosított szöveg.
