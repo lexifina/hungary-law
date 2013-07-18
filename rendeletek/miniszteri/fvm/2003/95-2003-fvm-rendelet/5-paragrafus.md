@@ -1,5 +1,8 @@
-5. § (1) A génbankokban alkalmazott módszerek egységesítése, a megőrzendő genetikai anyagok körének kijelölése és a gyűjteményekkel kapcsolatos szakmai kérdések egyeztetése céljából Génbank Tanácsot kell működtetni. A Génbank Tanács keretén belül szakági munkabizottságokat kell létrehozni a szántóföldi növények, a zöldségfélék, a gyógy-, fűszer- és illóolajos növények, a gyümölcstermő növények, a szőlő, a dísznövények, az erdészeti növények és a mikroorganizmusok szakterületei képviselőinek részvételével. A Génbank Tanács elnökét és tagjait a földművelésügyi és vidékfejlesztési miniszter, a szakági munkabizottságok tagjait a Génbank Tanács elnöke nevezi ki. A Génbank Tanács tevékenységét a mellékletben meghatározott ügyrend alapján végzi.
+5. § (1)[^1]
 
 (2) A nemzeti jelentőségű genetikai anyagok nyilvántartásba vétele érdekében a Génbank Tanács irányításával, a munkabizottságok közreműködésével a haszonnövények belföldi genetikai anyagait fel kell mérni. A nemzeti nyilvántartásba vett genetikai anyagok megőrzéséről az eredeti termőhelyen, illetve génbanki gyűjteményekben vagy ültetvényekben kell gondoskodni.
 
-(3) A Génbank Tanácsban a szakági munkabizottságok szakértőin kívül képviseletet kell biztosítani a Környezetvédelmi és Vízügyi Minisztérium szakembereinek, valamint az agrár-környezetvédelem és vidékfejlesztés szakértőinek is.
+(3)[^2]
+
+[^1]: Az 5. § (1) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § d) pontja hatályon kívül helyezte.
+[^2]: Az 5. § (3) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § d) pontja hatályon kívül helyezte.
