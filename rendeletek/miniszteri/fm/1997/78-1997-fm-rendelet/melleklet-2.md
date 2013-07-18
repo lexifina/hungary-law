@@ -46,6 +46,6 @@
 
 ## bejelentő aláírása
 
-2. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^36]
+2. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^39]
 
-[^36]: A Vhr. 2. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^39]: A Vhr. 2. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés g) pontja szerint módosított szöveg.

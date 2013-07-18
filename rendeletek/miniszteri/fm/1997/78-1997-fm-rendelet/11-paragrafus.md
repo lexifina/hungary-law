@@ -16,10 +16,11 @@ g) a horgászattal kapcsolatos legfontosabb természet- és környezetvédelmi s
 
 h) az egyesületi tagságból eredő jogokról és kötelezettségekről.
 
-(2) A horgászvizsga részletes szakmai anyagát a minisztérium – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(2)[^11]
 
 (3) Horgászvizsgát a halászati hatóság által – az illetékességi területén – kijelölt szervezetnél lehet tenni.
 
-(4)–(5)[^10]
+(4)–(5)[^12]
 
-[^10]: A Vhr. 11. § (4)–(5) bekezdését a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^11]: A Vhr. 11. § (2) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^12]: A Vhr. 11. § (4)–(5) bekezdését a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés j) pontja hatályon kívül helyezte.

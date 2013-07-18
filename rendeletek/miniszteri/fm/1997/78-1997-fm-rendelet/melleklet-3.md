@@ -32,6 +32,6 @@
 
 ## Méretkorlátozások [kivonat a …/1997. (…) FM rendeletből]:
 
-3. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^37]
+3. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^40]
 
-[^37]: A Vhr. 3. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^40]: A Vhr. 3. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés g) pontja szerint módosított szöveg.

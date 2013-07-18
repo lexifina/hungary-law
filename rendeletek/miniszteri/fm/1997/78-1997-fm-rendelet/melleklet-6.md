@@ -28,6 +28,6 @@
 
 ## Megjegyzés: Amennyiben a halászatra jogosult haltáplálék-szervezet gyűjtésére is kiad területi engedélyt, a fogási napló vezetése helyett elegendő éves jelentés tétele az engedély szerinti hasznos víziállat évente kifogott mennyiségéről.
 
-6. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^40]
+6. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^43]
 
-[^40]: A Vhr. 6. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés a) pontjával megállapított szöveg.
+[^43]: A Vhr. 6. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés a) pontjával megállapított szöveg.

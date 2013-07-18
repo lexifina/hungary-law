@@ -54,6 +54,6 @@
 
 ## *megfelelő aláhúzandó
 
-7. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^41]
+7. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^44]
 
-[^41]: A Vhr. 7. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés b) pontjával megállapított szöveg.
+[^44]: A Vhr. 7. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés b) pontjával megállapított szöveg.

@@ -60,6 +60,6 @@
 
 ## A napló további lapjai üresek, a halászati őr a kötelező rovatok szerinti adattartalommal köteles a naplót vezetni.
 
-8. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^42]
+8. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^45]
 
-[^42]: A Vhr. 8. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés c) pontjával megállapított szöveg.
+[^45]: A Vhr. 8. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés c) pontjával megállapított szöveg.

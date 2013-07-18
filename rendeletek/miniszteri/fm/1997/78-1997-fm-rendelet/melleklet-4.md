@@ -78,6 +78,6 @@
 
 ## Méretkorlátozások [kivonat a …/1997. (…) FM rendeletből]:
 
-4. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^38]
+4. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^41]
 
-[^38]: A Vhr. 4. számú melléklete a 90/2000. (XI. 14.) FVM rendelet 6. §-ával megállapított, a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés h) pontja szerint módosított szöveg.
+[^41]: A Vhr. 4. számú melléklete a 90/2000. (XI. 14.) FVM rendelet 6. §-ával megállapított, a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés h) pontja szerint módosított szöveg.

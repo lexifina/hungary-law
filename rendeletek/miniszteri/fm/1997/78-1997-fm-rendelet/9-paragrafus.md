@@ -22,12 +22,12 @@ h) a halászati őrzés ismeretéről, továbbá
 
 i) a halászati tevékenységgel kapcsolatos biztonsági, természet- és környezetvédelmi szabályokról.
 
-(4)[^6] A tanfolyam részletes szakmai anyagát a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(4)[^7]
 
-(5)[^7]
+(5)[^8]
 
-(6)[^8] A halász vizsgabizonyítványok kiadásáról a minisztérium – a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola, Szakiskola és Kollégium útján – gondoskodik.
+(6)[^9] A halász vizsgabizonyítványok kiadásáról a minisztérium – a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola, Szakiskola és Kollégium útján – gondoskodik.
 
-[^6]: A Vhr. 9. § (4) bekezdése a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A Vhr. 9. § (5) bekezdését a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés j) pontja hatályon kívül helyezte.
-[^8]: A Vhr. 9. § (6) bekezdése a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A Vhr. 9. § (4) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^8]: A Vhr. 9. § (5) bekezdését a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^9]: A Vhr. 9. § (6) bekezdése a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.

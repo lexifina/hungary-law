@@ -1,4 +1,4 @@
-## 12. §[^11]
+## 12. §[^13]
 
 ## (A Hhtv. 22. §-ához)
 
@@ -16,7 +16,7 @@
 
 (7) A kutatási célból kifogott és elszállított hal mennyiségéről, annak faj szerinti összetételéről a kutatást végző személy – eltérő megállapodás hiányában – a tárgyévet követő év január 10. napjáig köteles – írásban – jelentést tenni a jogosultnak.
 
-(8)[^12] Az országos területi hatályú, kutatási célú halászati területi engedély akkor adható ki, ha
+(8)[^14] Az országos területi hatályú, kutatási célú halászati területi engedély akkor adható ki, ha
 
 a) a kérelmező rendelkezik a halászat folytatásához szükséges személyi feltételekkel;
 
@@ -24,11 +24,11 @@ b) igazolja, hogy milyen szervezeti keretek között végzi a kutatást;
 
 c) bemutatja a jóváhagyott kutatási témáját, annak időtartamát és módszerét.
 
-(9)[^13] Az engedélyes köteles a tevékenységéről előre értesíteni a halászatra jogosultat.
+(9)[^15] Az engedélyes köteles a tevékenységéről előre értesíteni a halászatra jogosultat.
 
-(10)[^14] A halászatra jogosult által kiadott és a határvízre vonatkozó területi engedélyben fel kell tüntetni a külön jogszabályban vagy nemzetközi szerződésben rögzített, az államhatárral kapcsolatos szabályok betartására vonatkozó felhívást.
+(10)[^16] A halászatra jogosult által kiadott és a határvízre vonatkozó területi engedélyben fel kell tüntetni a külön jogszabályban vagy nemzetközi szerződésben rögzített, az államhatárral kapcsolatos szabályok betartására vonatkozó felhívást.
 
-[^11]: A Vhr. 12. §-át a 63/2012. (VII. 2.) VM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
-[^12]: A Vhr. 13. § (8) bekezdését a 142/2009. (XI. 3.) FVM rendelet 4. §-a iktatta be.
-[^13]: A Vhr. 13. § (9) bekezdését a 142/2009. (XI. 3.) FVM rendelet 4. §-a iktatta be.
-[^14]: A Vhr. 13. § (10) bekezdését a 142/2009. (XI. 3.) FVM rendelet 4. §-a iktatta be.
+[^13]: A Vhr. 12. §-át a 63/2012. (VII. 2.) VM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A Vhr. 13. § (8) bekezdését a 142/2009. (XI. 3.) FVM rendelet 4. §-a iktatta be.
+[^15]: A Vhr. 13. § (9) bekezdését a 142/2009. (XI. 3.) FVM rendelet 4. §-a iktatta be.
+[^16]: A Vhr. 13. § (10) bekezdését a 142/2009. (XI. 3.) FVM rendelet 4. §-a iktatta be.
