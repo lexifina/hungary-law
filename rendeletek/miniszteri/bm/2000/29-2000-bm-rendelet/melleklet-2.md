@@ -8,9 +8,9 @@
 
 ## 3. A HVI vezetője a névjegyzéket papíron vezeti tovább, vagy annak továbbvezetéséhez számítógépet használhat.
 
-## 4. A HVI vezetője – ha a névjegyzék papír alapon történő továbbvezetése mellett döntött – a névjegyzéket a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok jegyzékének adatait felhasználva, 2 példányban készíti vagy készítteti el. A névjegyzék első példánya nem tartalmazza a választópolgárok személyi azonosítóját. A névjegyzék második példánya a választópolgárok személyi azonosítóját is tartalmazza. A közszemlére tételre a névjegyzék első példánya szolgál, melyről a Ve. 45. § (2) bekezdése szerinti adatszolgáltatáshoz – továbbvezetésének megkezdése előtt – másolatot kell készíteni.
+## 4. A HVI vezetője – ha a névjegyzék papír alapon történő továbbvezetése mellett döntött – a névjegyzéket a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok jegyzékének adatait felhasználva, 2 példányban készíti vagy készítteti el. A névjegyzék első példánya nem tartalmazza a választópolgárok személyi azonosítóját. A névjegyzék második példánya a választópolgárok személyi azonosítóját is tartalmazza. A közszemlére tételre a névjegyzék első példánya szolgál.
 
-## 5. A HVI vezetője – ha a névjegyzék továbbvezetéséhez számítógépet használ – a választójoggal rendelkezők névjegyzékét a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok nyilvántartása adatainak felhasználásával készíti el és 1 példányban nyomtatja ki, mely nem tartalmazza a választópolgárok személyi azonosítóját. A közszemlére tételre a névjegyzék e példánya szolgál, melyről a Ve. 45. § (2) bekezdése szerinti adatszolgáltatáshoz másolatot kell készíteni. A szavazókörökbe a névjegyzékzáráskor nyomtatott névjegyzék kerül.
+## 5. A HVI vezetője – ha a névjegyzék továbbvezetéséhez számítógépet használ – a választójoggal rendelkezők névjegyzékét a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok nyilvántartása adatainak felhasználásával készíti el és 1 példányban nyomtatja ki, mely nem tartalmazza a választópolgárok személyi azonosítóját. A közszemlére tételre a névjegyzék e példánya szolgál. A szavazókörökbe a névjegyzékzáráskor nyomtatott névjegyzék kerül.
 
 ## 6. A HVI vezetője zárt borítékban küldi meg a választópolgároknak a névjegyzékbe vételükről szóló értesítőt.
 
@@ -150,6 +150,6 @@
 
 |  |  | HVI vezetője |
 
-2. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^23]
+2. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^26]
 
-[^23]: A 2. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján rendelkezéseit a 2006. december 15. napját követően kitűzött helyi népszavazás során kell alkalmazni.
+[^26]: A 2. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (2) bekezdésével megállapított, a 18/2013. (VII. 17.) KIM rendelet 10. § a) pont ae)–af) alpontja szerint módosított szöveg.

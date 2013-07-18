@@ -24,11 +24,11 @@
 
 ## 4.1. Jogi és számszaki szempontból ellenőrzi a beérkezett szavazóköri jegyzőkönyvek rovatainak pontos kitöltését. A hibás jegyzőkönyveket javításra visszaadja a szavazatszámláló bizottságnak.
 
-## 4.2. A területi választási iroda vezetőjének rendelkezésére figyelemmel az előírt ütemtervnek megfelelően a szavazóköri jegyzőkönyv 2. példányát haladéktalanul továbbítja az országgyűlési egyéni választókerületi választási irodához.
+## 4.2. A területi választási iroda vezetőjének rendelkezésére figyelemmel az előírt ütemtervnek megfelelően a szavazóköri jegyzőkönyv 2. példányát haladéktalanul továbbítja.
 
 ## 4.3. A szavazóköri jegyzőkönyvek 1. példányát 90 nap, illetve jogorvoslat esetén – a 90 napot meghaladó elbírálást követően – az ügy jogerős lezárása után irattározza.
 
-## 5. Az országgyűlési egyéni választókerületi választási iroda feladatai
+## 5.
 
 ## 5.1. A szavazás napja előtt 3 nappal elkészíti a szavazóköri és a településazonosítókat tartalmazó listákat, és a helyi választási irodáknak átadja.
 
@@ -328,7 +328,7 @@
 
 | Név | Megbízó szervezet | Aláírás |
 
-3. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^24]
+3. számú melléklet a 29/2000. (X. 27.) BM rendelethez[^27]
 
 Kötelezően használandó nyomtatványok jegyzéke és mintái
 
@@ -666,4 +666,4 @@ Egy választópolgár a kezdeményezést csak egy aláírással támogathatja!
 
 az aláírást gyűjtő polgár aláírása
 
-[^24]: A 3. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (3) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján rendelkezéseit a 2006. december 15. napját követően kitűzött helyi népszavazás során kell alkalmazni.
+[^27]: A 3. számú melléklet a 10/2006. (XII. 7.) ÖTM rendelet 12. § (3) bekezdésével megállapított szöveg. E módosító rendelet 13. § (2) bekezdése alapján rendelkezéseit a 2006. december 15. napját követően kitűzött helyi népszavazás során kell alkalmazni.
