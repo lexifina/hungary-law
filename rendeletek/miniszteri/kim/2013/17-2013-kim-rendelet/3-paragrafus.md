@@ -1,0 +1,1 @@
+## 2. § A polgárok személyi és lakcím adatait tartalmazó nyilvántartás (a továbbiakban: SZL) adatkezelője közvetlen adatkapcsolaton keresztül biztosítja az NVI részére a Ve. 2. melléklet a)–e) pontja és ia) alpontja szerinti adatok, valamint a bejelentett értesítési cím központi névjegyzékbe történő átvezetését az SZL-ből.
