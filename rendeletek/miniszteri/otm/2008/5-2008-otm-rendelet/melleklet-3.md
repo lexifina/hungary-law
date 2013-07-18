@@ -1298,6 +1298,6 @@
 
 ## A népszavazás eredményes / eredménytelen.
 
-3. melléklet az 5/2008. (I. 22.) ÖTM rendelethez[^19]
+3. melléklet az 5/2008. (I. 22.) ÖTM rendelethez[^25]
 
-[^19]: A 3. melléklet e rendelet 35. § (5) bekezdése alapján hatályát vesztette.
+[^25]: A 3. melléklet e rendelet 35. § (5) bekezdése alapján hatályát vesztette.

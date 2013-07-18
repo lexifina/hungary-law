@@ -1,4 +1,4 @@
-## 2. §[^4] Minden településen (a fővárosban minden kerületben) önálló HVI működik. Közös önkormányzati hivatalhoz tartozó településeken a HVI feladatait közös HVI látja el.
+## 2. §[^5] Minden településen (a fővárosban minden kerületben) önálló HVI működik. Közös önkormányzati hivatalhoz tartozó településeken a HVI feladatait közös HVI látja el.
 
 ## A helyi választási iroda feladatai
 
@@ -62,4 +62,4 @@ n) a szavazást megelőző nap 16 órakor lezárja a T és az F jegyzékeket, va
 
 o) a TVI vezetőjének rendelkezésére figyelemmel megszervezi a T és F jegyzékek, a napközbeni jelentések, az adatlapok és a szavazóköri jegyzőkönyvek feldolgozását és továbbítását.
 
-[^4]: A 2. § az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A 2. § az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés c) pontja szerint módosított szöveg.

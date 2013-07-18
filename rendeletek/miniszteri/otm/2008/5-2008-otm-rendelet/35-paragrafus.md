@@ -2,9 +2,9 @@
 
 (2) A Rogy. e rendelet 3. melléklet mintájával megállapított 7. számú melléklet 1. számú mintáját csak az e rendelet hatálybalépését követően kitűzött időközi országgyűlési választásokon kell alkalmazni.
 
-(3)–(4)[^11]
+(3)–(4)[^15]
 
-(5)[^12]
+(5)[^16]
 
-[^11]: A 35. § (3)–(4) bekezdése e rendelet 35. § (5) bekezdése alapján hatályát vesztette.
-[^12]: A 35. § (5) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
+[^15]: A 35. § (3)–(4) bekezdése e rendelet 35. § (5) bekezdése alapján hatályát vesztette.
+[^16]: A 35. § (5) bekezdése hatályát vesztette ugyanezen bekezdés alapján.

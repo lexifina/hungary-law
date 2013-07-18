@@ -1,3 +1,5 @@
-## 12. § Az OEVI közreműködik az oktatások szervezésével és lebonyolításával kapcsolatos feladatok ellátásában, továbbá vészhelyzet esetén a tartalék megoldások alkalmazásában, szükség esetén rögzíti az adatokat az informatikai rendszerben.
+## 12. §[^10]
 
 ## Az országgyűlési egyéni választókerületi választási iroda feladatai a szavazás napján
+
+[^10]: A 12. §-t a 18/2013. (VII. 17.) KIM rendelet 10. § b) pont bb) alpontja hatályon kívül helyezte.

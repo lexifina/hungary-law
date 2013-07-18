@@ -10,19 +10,19 @@
 
 ## 3. A HVI vezetője a névjegyzéket papíron vezeti tovább, vagy annak továbbvezetéséhez helyi számítógépet használhat, és e döntéséről – a nyomtatványellátás megszervezése érdekében – a TVI útján értesíti az OVI-t.
 
-## 4. A HVI vezetője – ha a névjegyzék papíron történő továbbvezetése mellett dönt – a választójoggal rendelkezők névjegyzékét a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok nyilvántartása adatainak felhasználásával 2 példányban készíti vagy készítteti el. A névjegyzék első példánya nem tartalmazza a választópolgárok személyi azonosítóját. A névjegyzék második példánya a választópolgárok személyi azonosítóját is tartalmazza. Az esetleges további példányok saját költség terhére rendelhetők, készíthetők. A közszemlére tételre a névjegyzék első példánya szolgál, melyről a Ve. 45. § (2) bekezdése szerinti adatszolgáltatáshoz – továbbvezetésének megkezdése előtt – másolatot kell készíteni.
+## 4.[^17] A HVI vezetője – ha a névjegyzék papíron történő továbbvezetése mellett dönt – a választójoggal rendelkezők névjegyzékét a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok nyilvántartása adatainak felhasználásával 2 példányban készíti vagy készítteti el. A névjegyzék első példánya nem tartalmazza a választópolgárok személyi azonosítóját. A névjegyzék második példánya a választópolgárok személyi azonosítóját is tartalmazza. Az esetleges további példányok saját költség terhére rendelhetők, készíthetők. A közszemlére tételre a névjegyzék első példánya szolgál.
 
-## 5. A HVI vezetője – ha a névjegyzék továbbvezetéséhez helyi számítógépet használ – a választójoggal rendelkezők névjegyzékét a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok nyilvántartása adatainak felhasználásával készíti el és 1 példányban nyomtatja ki, mely nem tartalmazza a választópolgárok személyi azonosítóját. Az esetleges további munkapéldányok saját költség terhére rendelhetők, készíthetők. A közszemlére tételre a névjegyzék e példánya szolgál, melyről a Ve. 45. § (2) bekezdése szerinti adatszolgáltatáshoz másolatot kell készíteni. A szavazókörökbe a névjegyzékzáráskor nyomtatott névjegyzék kerül.
+## 5.[^18] A HVI vezetője – ha a névjegyzék továbbvezetéséhez helyi számítógépet használ – a választójoggal rendelkezők névjegyzékét a személyiadat- és lakcímnyilvántartás, valamint a választójoggal nem rendelkező nagykorú polgárok nyilvántartása adatainak felhasználásával készíti el és 1 példányban nyomtatja ki, mely nem tartalmazza a választópolgárok személyi azonosítóját. Az esetleges további munkapéldányok saját költség terhére rendelhetők, készíthetők. A közszemlére tételre a névjegyzék e példánya szolgál. A szavazókörökbe a névjegyzékzáráskor nyomtatott névjegyzék kerül.
 
 ## 6. A névjegyzék és az értesítő
 
-## a)[^13] a HVI megbízásából a fővárosi és megyei kormányhivatalban, a fővárosi kerületek és a Pest megyei települések esetén a KEKKH-ban nyomtatható, vagy
+## a)[^19] a HVI megbízásából a fővárosi és megyei kormányhivatalban, a fővárosi kerületek és a Pest megyei települések esetén a KEKKH-ban nyomtatható, vagy
 
-## b)[^14] a HVI készíti vagy más HVI-vel készítteti el a névjegyzéket és az értesítőt; ebben az esetben a fővárosi és megyei kormányhivatal a HVI rendelkezésére bocsátja a település névjegyzékének készítéséhez szükséges állományokat.
+## b)[^20] a HVI készíti vagy más HVI-vel készítteti el a névjegyzéket és az értesítőt; ebben az esetben a fővárosi és megyei kormányhivatal a HVI rendelkezésére bocsátja a település névjegyzékének készítéséhez szükséges állományokat.
 
-## 7.[^15] A névjegyzék és az értesítő elkészítéséhez a KEKKH a választójoggal nem rendelkező nagykorú polgárok jegyzékét a fővárosi kerületek és a Pest megyei települések számára közvetlenül, a többi település számára a fővárosi és megyei kormányhivatal útján adja át. A HVI a jegyzék számítógépes átadását is igényelheti.
+## 7.[^21] A névjegyzék és az értesítő elkészítéséhez a KEKKH a választójoggal nem rendelkező nagykorú polgárok jegyzékét a fővárosi kerületek és a Pest megyei települések számára közvetlenül, a többi település számára a fővárosi és megyei kormányhivatal útján adja át. A HVI a jegyzék számítógépes átadását is igényelheti.
 
-## 8.[^16] Azon HVI-k számára, amelyek a névjegyzéket nem a fővárosi és megyei kormányhivatallal készíttetik, a fővárosi és megyei kormányhivatal legkésőbb a névjegyzék átadásával egy időben rendelkezésre bocsátja a választójoggal nem rendelkező nagykorú polgárok jegyzékét.
+## 8.[^22] Azon HVI-k számára, amelyek a névjegyzéket nem a fővárosi és megyei kormányhivatallal készíttetik, a fővárosi és megyei kormányhivatal legkésőbb a névjegyzék átadásával egy időben rendelkezésre bocsátja a választójoggal nem rendelkező nagykorú polgárok jegyzékét.
 
 ## 9. A HVI vezetője zárt borítékban juttatja el a választópolgároknak a névjegyzékbe vételükről szóló értesítőt. Az értesítők kiküldését olyan ütemezéssel kell elvégezni, hogy a választópolgároknak reális lehetőségük legyen kérni a külképviseleti névjegyzékbe vételüket.
 
@@ -132,9 +132,9 @@
 
 ## A választójoggal nem rendelkező nagykorú polgárok jegyzékének vezetése
 
-## 19.[^17] A választójoggal nem rendelkező nagykorú polgárok nyilvántartásában bekövetkezett változásokat tartalmazó megyei/fővárosi bontású állományokat a KEKKH a szavazást megelőző 5. napon hálózaton továbbítja a fővárosi és megyei kormányhivatal részére, amely haladéktalanul elkészíti és a szavazást megelőző 3. napig a HVI-k részére átadja a változásjegyzékeket. A fővárosi kerületek és a Pest megyei települések tekintetében a változásjegyzéket a KEKKH készíti el és adja át a fővárosi és megyei kormányhivatalnak.
+## 19.[^23] A választójoggal nem rendelkező nagykorú polgárok nyilvántartásában bekövetkezett változásokat tartalmazó megyei/fővárosi bontású állományokat a KEKKH a szavazást megelőző 5. napon hálózaton továbbítja a fővárosi és megyei kormányhivatal részére, amely haladéktalanul elkészíti és a szavazást megelőző 3. napig a HVI-k részére átadja a változásjegyzékeket. A fővárosi kerületek és a Pest megyei települések tekintetében a változásjegyzéket a KEKKH készíti el és adja át a fővárosi és megyei kormányhivatalnak.
 
-## 20.[^18] A HVI vezetője a választójoggal nem rendelkező nagykorú polgárok jegyzékét a fővárosi és megyei kormányhivataltól kapott változásjegyzék segítségével felülvizsgálja, majd a szükséges korrekciókat az alábbiak szerint végzi el:
+## 20.[^24] A HVI vezetője a választójoggal nem rendelkező nagykorú polgárok jegyzékét a fővárosi és megyei kormányhivataltól kapott változásjegyzék segítségével felülvizsgálja, majd a szükséges korrekciókat az alábbiak szerint végzi el:
 
 ## a) törli a jegyzékből azokat, akik választójogukat visszanyerték,
 
@@ -144,9 +144,11 @@
 
 2. melléklet az 5/2008. (I. 22.) ÖTM rendelethez
 
-[^13]: Az 1. melléklet 6. pont a) alpontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^14]: Az 1. melléklet 6. pont b) alpontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^15]: Az 1. melléklet 7. pontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^16]: Az 1. melléklet 8. pontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) és e) pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet 19. pontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) és f) pontja szerint módosított szöveg.
-[^18]: Az 1. melléklet 20. pont nyitó szövegrésze az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet I. pont 4. alpontja a 18/2013. (VII. 17.) KIM rendelet 10. § b) pont bc) alpontja szerint módosított szöveg.
+[^18]: Az 1. melléklet I. pont 5. alpontja a 18/2013. (VII. 17.) KIM rendelet 10. § b) pont bd) alpontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 6. pont a) alpontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 6. pont b) alpontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 7. pontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet 8. pontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) és e) pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 19. pontja az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés a) és f) pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 20. pont nyitó szövegrésze az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés g) pontja szerint módosított szöveg.

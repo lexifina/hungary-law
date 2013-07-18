@@ -1,4 +1,4 @@
-## 4. §[^5] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának székhelye szerinti település HVI-je a 3. §-ban foglaltakon túl ellátja az adatfeldolgozással kapcsolatos ellenőrzési és vészhelyzeti működési feladatokat, valamint közreműködik az oktatások szervezésével és lebonyolításával kapcsolatos feladatok ellátásában.
+## 4. §[^6] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának székhelye szerinti település HVI-je a 3. §-ban foglaltakon túl ellátja az adatfeldolgozással kapcsolatos ellenőrzési és vészhelyzeti működési feladatokat, valamint közreműködik az oktatások szervezésével és lebonyolításával kapcsolatos feladatok ellátásában.
 
 ## A helyi választási iroda feladatai
 
@@ -34,6 +34,7 @@ d) fogadja a szavazóköri jegyzőkönyveket, azokat jogi és számszaki szempon
 
 e) fogadja a szavazóurnákat és az F jegyzéket, azokat ellenőrzi, és elvégzi az adatbeviteli teendőket, valamint
 
-f) vezetői ügyeletet tart az országgyűlési egyéni választókerületi választási iroda (a továbbiakban: OEVI) vezetőjének eltérő intézkedéséig.
+f)[^7] vezetői ügyeletet tart.
 
-[^5]: A 4. § az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 4. § az 50/2012. (XII. 4.) KIM rendelet 22. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdés f) pontja a 18/2013. (VII. 17.) KIM rendelet 10. § b) pont ba) alpontja szerint módosított szöveg.
