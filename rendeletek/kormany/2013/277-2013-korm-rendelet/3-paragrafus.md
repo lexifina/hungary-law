@@ -1,1 +1,0 @@
-## 2. § Az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 56. § (1) bekezdés a) pont ai) alpontjában a „Határon Túli Magyar Oktatási Tanácsot” szövegrész helyébe a „Külhoni Magyar Oktatási Tanácsot” szöveg lép.
