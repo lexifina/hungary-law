@@ -54,7 +54,7 @@ vc) a va) és
 
 vb) alpontban meghatározott anyagokból vegyesen,
 
-alapozással és villámvédelemmel épített, legalább 6 méter padlómagasságú létesítmény, amely biztosítja a környező fák feletti akadálytalan ellátás lehetőségét, magasságán a legfelső járószint terepszinttől mért függőleges távolsága értendő.
+## alapozással és villámvédelemmel épített, legalább 6 méter padlómagasságú létesítmény, amely biztosítja a környező fák feletti akadálytalan ellátás lehetőségét, magasságán a legfelső járószint terepszinttől mért függőleges távolsága értendő.
 
 (2) Az erdőt és a fásítást alkotó fafajok és cserjefajok jegyzékét az 1. számú melléklet tartalmazza.
 
