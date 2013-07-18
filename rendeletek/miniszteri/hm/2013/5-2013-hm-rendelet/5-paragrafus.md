@@ -1,0 +1,1 @@
+## 4. § Az adómentességi igazolást – az adómentességre való jogosultság fennálltának megállapítása esetén – az állami adóhatóság által e célra rendszeresített formanyomtatványon kell kiállítani, kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik.
