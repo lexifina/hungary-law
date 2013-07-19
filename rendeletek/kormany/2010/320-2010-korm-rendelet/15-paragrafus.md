@@ -28,11 +28,9 @@ k)[^27] ellátja az építési termékek forgalmazására vonatkozó harmonizál
 
 ka) 29. cikk (1) bekezdése szerint a műszaki értékelést végző szervezetek, valamint
 
-kb) 39. cikke és V. melléklet 2. pontja szerinti, az építési termékek teljesítmény állandóságának értékelésébe és ellenőrzésébe bevont szervezetek
+kb)[^28] 39. cikke és V. melléklet 2. pontja, valamint az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló kormányrendelet szerinti az építési termékek teljesítmény állandóságának értékelésébe és ellenőrzésébe bevont szervezetek
 
-## kijelölésével és bejelentésével kapcsolatos feladatokat.
-
-(2)[^28] Az (1) bekezdés a), g) és i) pontjaiban meghatározott eljárásokban első fokon a Hivatal kereskedelmi hatósága, másodfokon a Hivatal központi szerve jár el.
+(2)[^29] Az (1) bekezdés a), g) és i) pontjaiban meghatározott eljárásokban első fokon a Hivatal kereskedelmi hatósága, másodfokon a Hivatal központi szerve jár el.
 
 (3) A külön jogszabály alapján a 13. § (1) bekezdése szerinti építésügyi hatáskörbe tartozó 13. § (2) bekezdés a) pontja szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárásokban a 4. mellékletben felsorolt, az adott eljárásban érintett közmű, közút és vasút üzemeltetői működnek közre. Az üzemeltetők nyilatkozatát a tervező köteles beszerezni.
 
@@ -43,4 +41,5 @@ kb) 39. cikke és V. melléklet 2. pontja szerinti, az építési termékek telj
 [^25]: A 15. § (1) bekezdés h) pontja a 7/2013. (I. 18.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
 [^26]: A 15. § (1) bekezdés j) pontját a 282/2011. (XII. 21.) Korm. rendelet 49. §-a iktatta be.
 [^27]: A 15. § (1) bekezdés k) pontját a 322/2012. (XI. 16.) Korm. rendelet 106. §-a iktatta be.
-[^28]: A 15. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
+[^28]: A 15. § (1) bekezdés k) pont kb) alpontja a 275/2013. (VII. 16.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^29]: A 15. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
