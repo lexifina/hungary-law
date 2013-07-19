@@ -1,4 +1,4 @@
-## 16. § Az előadó-művészeti szervezeteknek nyújtott támogatások pénzügyi és beszámolási szabályairól szóló 34/2013. (V. 14.) EMMI rendelet 3. melléklete az 1. melléklet szerint módosul.
+## 16. §[^1]
 
 1. melléklet az 52/2013. (VII. 15.) EMMI rendelethez
 
@@ -49,3 +49,5 @@ Az előadó-művészeti szervezeteknek nyújtott támogatások pénzügyi és be
 Büntetőjogi felelősségem tudatában nyilatkozom, hogy a fenti adatokhoz kapcsolódó bizonylatok az előadó-művészeti szervezet könyvelésében megtalálhatóak, továbbá igazolom a támogatás jogszabályban előírt módon történő felhasználását. Az elszámolásban feltüntetett és csatolt bizonylat másolatainak érvénytelenítése (a vonatkozó, társaságiadó-kedvezményre jogosító támogatás támogatójának neve, illetve a felhasználni kívánt összeg feltüntetése) megtörtént. Igazolom továbbá, hogy az itt elszámolt tételeket más elszámolásban nem szerepeltetem/nem szerepeltettem és a jövőben sem szerepeltetem. Nyilatkozom, hogy a feltüntetett költségek kifizetése előtt azok jogosságáról és összegszerűségéről, ellenszolgáltatás teljesítését igénylő kifizetés előtt az ellenszolgáltatás teljesítéséről is előzetesen meggyőződtem.
 
 | .................................................................. .......................................................... Előadó-művészeti szervezet Fenntartó |
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
