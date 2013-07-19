@@ -18,7 +18,9 @@ e) fogadás,
 
 f) kártyajáték,
 
-g)–h)
+g) távszerencsejáték.
+
+h)
 
 1. CÍM
 

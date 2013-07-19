@@ -23,3 +23,7 @@
 (11) A 26. § (18) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
 
 (12) Az állami adóhatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
+
+5. CÍM
+
+Távszerencsejáték

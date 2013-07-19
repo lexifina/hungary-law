@@ -12,7 +12,7 @@ c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkasz
 
 d) kártyaterem üzemeltetése,
 
-e)
+e) távszerencsejáték szervezése,
 
 f)
 
@@ -22,15 +22,9 @@ g) a lóversenyfogadás és az a)–f) pontok alá nem tartozó, e törvényben 
 
 (5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez az állami adóhatóság engedélye szükséges. Az engedély nélküli szerencsejátékban történő részvételre vonatkozó ajánlatok közzétételében, illetve elfogadásában a pénzügyi szervezetek és a hírközlési szolgáltatók nem működhetnek közre, ilyenekhez nem nyújthatnak technikai támogatást.
 
-(5a) Ha az állami adóhatóság megállapítja, hogy internetes oldalon az állami adóhatóság engedélye nélkül szerveznek szerencsejátékot,
+(5a)
 
-a) az internetes oldalhoz való hozzáférésben közvetítő szolgáltatóként résztvevő elektronikus hírközlési szolgáltatót erről tájékoztatja, és egyidejűleg felhívja a szolgáltatót arra, hogy hálózatában tegye hozzáférhetetlenné a szerencsejátékban való részvételre vonatkozó ajánlatot, valamint
-
-b) erről és a szervező által tétfizetés érdekében megjelölt pénzforgalmi számláról tájékoztatja a pénzügyi intézményt, illetve egyidejűleg felhívja a pénzforgalmi szolgáltatót arra, hogy az érintett pénzforgalmi számláról és pénzforgalmi számlára átutalás, beszedés, egyéb fizetési megbízás, művelet teljesítésében a – legfeljebb 90 napos – tilalom feloldásáig ne működjön közre.
-
-c)
-
-(5b) A távszerencsejáték szervezője csak olyan – a magyar hatóságok által közvetlenül és teljes körűen ellenőrizhető – valós idejű fizetési módot alkalmazhat, illetve fogadhat el, amely során a befizető személyazonosságának megállapítása kétséget kizáró módon lehetséges, valamint szolgáltatást csak ilyen módón beazonosított és regisztrált játékosnak nyújthat.
+(5b)
 
 (6) Szerencsejátékban – a 16. § szerinti nem folyamatosan szervezett sorsolásos játék kivételével – 18 éven aluli személyek nem vehetnek részt.
 

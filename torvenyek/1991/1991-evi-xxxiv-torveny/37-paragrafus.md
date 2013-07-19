@@ -8,7 +8,7 @@
 
 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete.
 
-2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik.
+2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik.
 
 2.2.
 
@@ -46,7 +46,7 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 17. hírközlő eszköz és rendszer: bármely olyan eszköz és rendszer, amelynek alkalmazásával a játékos a törvény hatálya alá tartozó játékokban részvételi jogosultságot keletkeztető nyilatkozatot vagy cselekményt tehet. Ilyen különösen a címzett vagy címzés nélküli nyomtatvány, a szabványlevél, a sajtótermékben közzétett hirdetés megrendelőlapja, a katalógus, a telefon, az automata hívókészülék, a rádió, a videotelefon, a videotex (mikroszámítógép-képernyővel) billentyűzettel vagy érintőképernyővel, az Internet, az elektronikus levél (e-mail), a távmásoló (telefax) és televízió.
 
-18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek.
+18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Távszerencsejáték esetében kaszinójáték a sorsolásos játék kivételével a kaszinójáték játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet a nyilvántartásba vett játékosok részvételével szerveznek.
 
 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 
@@ -54,12 +54,18 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
 
-22. Kártyajáték: kizárólag a jelenlévők részvételével szervezett, kártyával lebonyolított szerencsejáték.
+22. Kártyajáték: kizárólag a jelenlévők – távszerencsejáték esetén a nyilvántartásba vett játékosok – részvételével szervezett, kártyával lebonyolított szerencsejáték.
 
-23. Távszerencsejáték: a lóversenyfogadás és a kártyajáték, ha azt hírközlő eszköz és rendszer útján szervezik.
+23.
 
 24. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 
 25. Biztosíték: EGT-állam területén székhellyel rendelkező hitelintézetnél vagy befektetési szolgáltatónál elhelyezett pénz vagy állampapír, EGT-állam területén székhellyel rendelkező hitelintézet által nyújtott bankgarancia és a biztosítási szerződés alapján kiállított kötelezvény.
 
 26. Nemzetközi együttműködés keretében szervezett szerencsejáték: különböző államokban székhellyel rendelkező szerencsejáték szervezők által közösen szervezett sorsolásos játék, illetve totalizatőri rendszerű fogadás, amely esetén a különböző államban székhellyel rendelkező szerencsejáték szervezők mindegyike rendelkezik a székhelye szerinti államban az adott szerencsejáték szervezésére vonatkozó engedéllyel és a szervezők az együttműködés keretében az általuk önállóan gyűjtött tétekből közös nyereményalapot képeznek.
+
+27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
+
+28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
+
+29. Játékosi egyenleg: távszerencsejáték esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték-szervező által vezetett egyenleg.

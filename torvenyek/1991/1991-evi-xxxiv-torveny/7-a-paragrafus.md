@@ -12,7 +12,7 @@ Az állami adóhatóság jogorvoslatra tekintet nélkül végrehajthatóvá nyil
 
 (3) Az állami adóhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül az állami adóhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
 
-(4) Az állami adóhatóság a távszerencsejáték engedélyezése iránti kérelem elbírálásáról három hónapon, egyéb szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt . E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
+(4) Az állami adóhatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt . E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
 
 (5)
 

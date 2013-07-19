@@ -1,0 +1,1 @@
+29/D. § A 3. § (1) bekezdés a) pontja szerinti esetben az állami játékszervező kizárólagos tulajdonában álló gazdasági társaságnak vagy az állam többségi részesedésével működő gazdálkodó szervezetnek, a 3. § (1) bekezdés b) pontja szerinti esetben a koncessziós társaságnak legalább 200 millió forint jegyzett tőkével kell rendelkeznie.
