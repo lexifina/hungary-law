@@ -66,7 +66,11 @@ sa) aki a szolgáltatóval az 1. § (1) bekezdésében megjelölt tevékenységi
 
 sb) az 1. § (1) bekezdés f) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában, aki az ingatlan eladása és vétele céljából ajánlatot kér;
 
-t) ügyfél-átvilágítás: a 6. §-ban meghatározott esetben a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedések elvégzése;
+t) ügyfél-átvilágítás:
+
+ta) a 6. §-ban meghatározott esetben a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedések elvégzése,
+
+tb) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 29/H. § (1) és (2) bekezdésében meghatározott játékos nyilvántartásba vétele.
 
 u) ügyleti megbízás: az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött eseti jogviszony;
 
@@ -76,7 +80,7 @@ va) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)�
 
 vb) a 36. § (2) bekezdésében meghatározott közjegyzői tevékenységet folytató szolgáltató tekintetében az eljárás lefolytatása,
 
-vc) az 1. § (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában a játékkaszinó, elektronikus kaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, vagy
+vc) az 1. § (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték szervezőjénél a játékos nyilvántartásba vétele.
 
 vd) az 1. § (1) bekezdés f) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó jogviszony.
 

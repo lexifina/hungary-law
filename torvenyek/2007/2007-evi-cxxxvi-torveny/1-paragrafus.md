@@ -18,7 +18,7 @@ g) könyvvizsgálói tevékenységet folytat;
 
 h) könyvviteli (könyvelői), adószakértői, okleveles adószakértői, adótanácsadói tevékenységet megbízási, illetve vállalkozási jogviszony alapján folytat;
 
-i) játékkaszinót, elektronikus kaszinót vagy kártyatermet működtet;
+i) játékkaszinót, kártyatermet működtet vagy távszerencsejátékot szervez;
 
 j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedik;
 
