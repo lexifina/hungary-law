@@ -1,1 +1,0 @@
-## „23. § E rendeletnek az egyes miniszteri rendeletek módosításáról szóló 59/2013. (VII. 15.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 16. § (6a) bekezdését a módosító rendelet hatályba lépésekor folyamatban lévő ügyekben is alkalmazni kell.”
