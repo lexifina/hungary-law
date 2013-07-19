@@ -50,7 +50,7 @@
 
 ## 9. a kötelező alkalmassági időre vonatkozó előírásokat,
 
-## 10. a megfelelőség igazolására, megfelelőségi tanúsítványra és megfelelőségi nyilatkozatra, továbbá a CE megfelelőségi jelölés alkalmazására vonatkozó előírásokat,
+## 10.[^13] az építési termékek teljesítménynyilatkozatára, beépítési feltételeire, továbbá a CE jelölés alkalmazására vonatkozó előírásokat,
 
 ## 11. a szabványokra vonatkozó alapvető fogalmakat, a szabványok alkalmazására vonatkozó általános szabályokat, a szabványtípusokat.
 
@@ -120,6 +120,7 @@
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó – az építésügyért felelős miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-2. melléklet a 192/2009. (IX. 15.) Korm. rendelethez[^13]
+2. melléklet a 192/2009. (IX. 15.) Korm. rendelethez[^14]
 
-[^13]: A 2. melléklet a 314/2012. (XI. 8.) Korm. rendelet 60. § b) pontjával megállapított szöveg.
+[^13]: Az 1. melléklet I. fejezet 10. pontja a 275/2013. (VII. 16.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^14]: A 2. melléklet a 314/2012. (XI. 8.) Korm. rendelet 60. § b) pontjával megállapított szöveg.

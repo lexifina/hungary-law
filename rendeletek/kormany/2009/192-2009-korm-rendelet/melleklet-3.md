@@ -12,7 +12,7 @@
 
 ## 6. a kérelmezett szakmagyakorlási tevékenység szakterületének megnevezése.
 
-3. melléklet a 192/2009. (IX. 15.) Korm. rendelethez[^14]
+3. melléklet a 192/2009. (IX. 15.) Korm. rendelethez[^15]
 
 Névjegyzéki jelölés
 
@@ -48,4 +48,4 @@ Névjegyzéki jelölés
 
 4. Energetikai tanúsító jogosultság (betűjele: TÉ)
 
-[^14]: A 3. melléklet a 314/2012. (XI. 8.) Korm. rendelet 60. § c) pontjával megállapított szöveg.
+[^15]: A 3. melléklet a 314/2012. (XI. 8.) Korm. rendelet 60. § c) pontjával megállapított szöveg.
