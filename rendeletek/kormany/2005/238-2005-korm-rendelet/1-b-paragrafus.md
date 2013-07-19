@@ -1,4 +1,4 @@
-## 1/B. §[^3] Az építésfelügyeleti bírságot – a (2) bekezdés szerinti eltérésre tekintettel – az 1. mellékletben foglalt
+## 1/B. §[^4] Az építésfelügyeleti bírságot – a (2) bekezdés szerinti eltérésre tekintettel – az 1. mellékletben foglalt
 
 a) I. táblázat 1. és 2. pontjában meghatározott jogsértő cselekmény fennállása esetén: a teljes építményre vagy az építési tevékenység eredményére vonatkozó, az építésügyi bírság megállapításának részletes szabályairól szóló 245/2006. (XII. 5.) Korm. rendelet (a továbbiakban: Épbír.) 3. § (3) bekezdése szerinti számított építményérték,
 
@@ -8,4 +8,4 @@ c) I. táblázat 5. pontjában az építési műszaki ellenőrre és a felelős 
 
 d) II. táblázat 1–10. pontjában meghatározott jogsértő cselekmény fennállása esetén: az alvállalkozó építési szerződésében rögzített, az építési tevékenység eredményére az Épbír. 3. § (3) bekezdése szerinti számított építményérték
 
-[^3]: Az 1/B. §-t a 322/2012. (XI. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^4]: Az 1/B. §-t a 322/2012. (XI. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## figyelembevételével kell megállapítani.
 
-2. § (1)[^4] A bírság mértéke – a (2)–(3) bekezdés szerinti eltérésre tekintettel – az 1. mellékletben foglalt
+2. § (1)[^5] A bírság mértéke – a (2)–(3) bekezdés szerinti eltérésre tekintettel – az 1. mellékletben foglalt
 
 a) I. táblázat 1. és 2. pontjában meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az egyes jogsértő cselekményhez meghatározott összeg, hozzáadva az ugyanitt megadott szorzószám és az 1/B. § a) pontja szerint számított érték 50 millió forintot meghaladó részének szorzatához, de legfeljebb az ugyanitt megjelölt legmagasabb bírságösszeg,
 
@@ -12,7 +12,7 @@ d) II. táblázat 1–10. pontjában meghatározott jogsértő cselekmény fenn�
 
 e) I. táblázat 17–23. pontjában és II. táblázat 11–15. pontjában meghatározott jogsértő cselekmény fennállása esetén: az építési folyamat résztvevőire vonatkozóan, az adott jogsértő cselekményhez meghatározott bírságösszeg.
 
-(2)[^5] A bírság mértéke az (1) bekezdés szerint megállapított bírságösszeg
+(2)[^6] A bírság mértéke az (1) bekezdés szerint megállapított bírságösszeg
 
 a) 150%-a
 
@@ -22,11 +22,11 @@ ab) védetté nyilvánított régészeti lelőhelyen, műemléki területen (mű
 
 b) 50%-a építmény bontása esetében.
 
-(3)[^6] A bírság mértéke az (1)–(2) bekezdés szerint megállapított bírságösszeg 150%-a – az 1. melléklet I. táblázat 16. pontjában és a II. táblázat 10. pontjában meghatározott jogsértő cselekmény kivételével –, ha kiszabására azzal szemben kerül sor, akit 3 éven belül legalább két alkalommal jogerősen építésfelügyeleti bírsággal sújtottak.
+(3)[^7] A bírság mértéke az (1)–(2) bekezdés szerint megállapított bírságösszeg 150%-a – az 1. melléklet I. táblázat 16. pontjában és a II. táblázat 10. pontjában meghatározott jogsértő cselekmény kivételével –, ha kiszabására azzal szemben kerül sor, akit 3 éven belül legalább két alkalommal jogerősen építésfelügyeleti bírsággal sújtottak.
 
-(3a)[^7] Az építésfelügyeleti hatóság az Étv. 39. § (6) bekezdése szerinti kivitelező jogsértő cselekményével kapcsolatos építésfelügyeleti bírságot – a kivitelező által elvégzett építési tevékenységre az Épbír. 3. § (3) bekezdése szerint számított építményértéket alapul véve – a fővállalkozó kivitelezőre vonatkozó bírság-megállapítási szabályok szerint köteles megállapítani.
+(3a)[^8] Az építésfelügyeleti hatóság az Étv. 39. § (6) bekezdése szerinti kivitelező jogsértő cselekményével kapcsolatos építésfelügyeleti bírságot – a kivitelező által elvégzett építési tevékenységre az Épbír. 3. § (3) bekezdése szerint számított építményértéket alapul véve – a fővállalkozó kivitelezőre vonatkozó bírság-megállapítási szabályok szerint köteles megállapítani.
 
-(4)[^8] Az építésfelügyeleti hatóság egy ellenőrzés eredményeként ugyanazon résztvevővel szemben egy cselekménnyel összefüggésben megállapított több jogsértés miatt
+(4)[^9] Az építésfelügyeleti hatóság egy ellenőrzés eredményeként ugyanazon résztvevővel szemben egy cselekménnyel összefüggésben megállapított több jogsértés miatt
 
 a) a legmagasabb bírságot eredményező jogsértő cselekményhez kapcsolódó építésfelügyeleti bírság ötven százalékkal megemelt összege vagy
 
@@ -38,17 +38,17 @@ közül azt szabja ki, amelynek a mértéke alacsonyabb.
 
 (6) A bírság mértékét ezer forintra való kerekítéssel kell megállapítani.
 
-(7)[^9] A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb harminc napra.
+(7)[^10] A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni a határozatban megjelölt számlaszámra. A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb harminc napra.
 
-(8)[^10] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által jogerősen megállapított bírságot a Magyar Államkincstár által vezetett 10032000-01220122-50003008 számú célelszámolási számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
+(8)[^11] Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdésében meghatározott építésfelügyeleti hatóság által jogerősen megállapított bírságot a Magyar Államkincstár által vezetett 10032000-01220122-50003008 számú célelszámolási számlára, készpénzátutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – amennyiben a feltételei fennállnak – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni.
 
-(9)[^11] A sajátos építményfajták körében, a (8) bekezdésben meghatározottól eltérő építésfelügyeleti hatóság által jogerősen kiszabott bírságot a sajátos építményfajta tekintetében feladatkörrel rendelkező miniszter által meghatározott előirányzat számlájára kell befizetni.
+(9)[^12] A sajátos építményfajták körében, a (8) bekezdésben meghatározottól eltérő építésfelügyeleti hatóság által jogerősen kiszabott bírságot a sajátos építményfajta tekintetében feladatkörrel rendelkező miniszter által meghatározott előirányzat számlájára kell befizetni.
 
-[^4]: A 2. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (2) bekezdése a 9/2008. (I. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
-[^6]: A 2. § (3) bekezdése a 9/2008. (I. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 322/2012. (XI. 16.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^7]: A 2. § (3a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^8]: A 2. § (4) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^9]: A 2. § (7) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^10]: A 2. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.
-[^11]: A 2. § (9) bekezdését újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.
+[^5]: A 2. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdése a 9/2008. (I. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. február 2. napját követően indult ügyekben kell alkalmazni.
+[^7]: A 2. § (3) bekezdése a 9/2008. (I. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 322/2012. (XI. 16.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (3a) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 2. § (4) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. § (7) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^11]: A 2. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.
+[^12]: A 2. § (9) bekezdését újonnan a 149/2013. (V. 16.) Korm. rendelet 6. §-a iktatta be.

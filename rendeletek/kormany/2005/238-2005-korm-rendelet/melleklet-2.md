@@ -30,7 +30,7 @@
 
 | 12. A felelős műszaki vezetőre vonatkozó összeférhetetlenségi szabályok megsértése |  |  |  | 100.000 Ft + 0,005xSZÉ legfeljebb 300.000 Ft |  |
 
-| 13. Nem megfelelő építési anyagok, szerkezetek vagy termékek felhasználása, beépítése vagy szakszerűtlen kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,005xSZÉ legfeljebb 800.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft |  |
+| 13. Nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése |  | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft | 150 000 Ft + 0,005xSZÉ legfeljebb 800 000 Ft | 100 000 Ft + 0,005xSZÉ legfeljebb 500 000 Ft |  |
 
 | 14. Kivitelezési dokumentációtól vagy ennek hiányában engedélyezési dokumentációtól eltérő kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 400.000 Ft |  |
 
@@ -72,7 +72,7 @@
 
 | 6. A felelős műszaki vezetőre vonatkozó összeférhetetlenségi szabályok megsértése |  |  |  | 100.000 Ft + 0,01xSZÉ legfeljebb 300.000 Ft |  |
 
-| 7. Nem megfelelő építési anyagok, szerkezetek vagy termékek felhasználása, beépítése vagy szakszerűtlen kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |
+| 7. Nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése |  | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft | 150 000 Ft + 0,005xSZÉ legfeljebb 500 000 Ft | 100 000 Ft + 0,005xSZÉ legfeljebb 300 000 Ft | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft |
 
 | 8. Kivitelezési dokumentációtól vagy ennek hiányában engedélyezési dokumentációtól eltérő kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,007xSZÉ legfeljebb 400.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |
 
@@ -90,7 +90,7 @@
 
 | 15. Építtetői fedezetkezelés hatálya alá tartozó építési beruházás esetén az alvállalkozó kivitelező – használatot biztosító jelszó birtokában – nem rögzíti szerződésének adatait az elektronikus alvállalkozói nyilvántartásban |  |  | 80.000 Ft |  |  |
 
-2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^31]
+2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^32]
 
 ## Adatlap építésfelügyeleti bírsághoz
 
@@ -148,4 +148,4 @@ P. H.
 
 aláírás
 
-[^31]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 311/2009. (XII. 28.) Korm. rendelet 25. § (3) bekezdés b) pontja, a 322/2012. (XI. 16.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^32]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 311/2009. (XII. 28.) Korm. rendelet 25. § (3) bekezdés b) pontja, a 322/2012. (XI. 16.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
