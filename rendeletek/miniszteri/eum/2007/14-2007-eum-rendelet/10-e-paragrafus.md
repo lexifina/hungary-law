@@ -1,6 +1,6 @@
-## 10/D. §[^86] A 10/A. § (2)–(3) bekezdésében, a 10/B. §-ban, valamint a 10/C. §-ban foglaltaktól eltérően az OEP „Minősített egyedi gyártó” értékeléssel látja el és a szállítójegyzékébe felveszi a rendelésre készített eszköz gyártóját, ha az R. szerinti rendelésre készült eszközökre vonatkozó nyilatkozatában foglaltakat, valamint a 16. számú mellékletben meghatározott követelmények teljesítését az EEKH megvizsgálja, és a megfelelőségről határozott időre – legfeljebb 5 évre – szóló határozatban dönt. A határozat kiállítása során az EEKH figyelembe veszi a rendelésre készült eszköz gyártására vonatkozó akkreditált minőségtanúsítás dokumentumait.
+## 10/D. §[^97] A 10/A. § (2)–(3) bekezdésében, a 10/B. §-ban, valamint a 10/C. §-ban foglaltaktól eltérően az OEP „Minősített egyedi gyártó” értékeléssel látja el és a szállítójegyzékébe felveszi a rendelésre készített eszköz gyártóját, ha az R. szerinti rendelésre készült eszközökre vonatkozó nyilatkozatában foglaltakat, valamint a 16. számú mellékletben meghatározott követelmények teljesítését az EEKH megvizsgálja, és a megfelelőségről határozott időre – legfeljebb 5 évre – szóló határozatban dönt. A határozat kiállítása során az EEKH figyelembe veszi a rendelésre készült eszköz gyártására vonatkozó akkreditált minőségtanúsítás dokumentumait.
 
-10/E. §[^87] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
+10/E. §[^98] (1) A szállítójegyzék minden minősített forgalomba hozóra vonatkozóan tartalmazza a forgalomba hozó
 
 a) nevét, székhelyének címét, telefonos és elektronikus elérhetőségét,
 
@@ -42,5 +42,5 @@ d) a minősített forgalomba hozó tulajdonosát vagy vezető tisztségviselőj�
 
 (6) A szállítójegyzékből való törlés napja a határozathozatalt követő 30. nap. A szállítójegyzéket az OEP elektronikus formában vezeti és honlapján folyamatosan hozzáférhetővé teszi.
 
-[^86]: A 10/D. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
-[^87]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^97]: A 10/D. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^98]: A 10/E. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.

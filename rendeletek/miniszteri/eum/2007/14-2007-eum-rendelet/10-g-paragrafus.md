@@ -1,4 +1,4 @@
-## 10/G. §[^91] Az OEP a Gtv. 33. § (6) bekezdése alapján közzéteszi a támogatott gyógyászati segédeszközök
+## 10/G. §[^103] Az OEP a Gtv. 33. § (6) bekezdése alapján közzéteszi a támogatott gyógyászati segédeszközök
 
 a) pontos megnevezését, funkcionális csoportját (alcsoportját) és ISO-kódját,
 
@@ -18,4 +18,4 @@ h) közgyógyellátás jogcímén történő rendelhetőségét,
 
 i) az eszköz gyártója vagy forgalomba hozója által önként vállalt, az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló rendeletben foglaltaknál kedvezőbb jótállási feltételeket, amennyiben azokat a 4. § (2) bekezdés g) pontja alapján figyelembe vették.
 
-[^91]: A 10/G. §-t az 57/2012. (XII. 29.) EMMI rendelet 6. §-a iktatta be.
+[^103]: A 10/G. §-t az 57/2012. (XII. 29.) EMMI rendelet 6. §-a iktatta be.

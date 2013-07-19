@@ -1,4 +1,4 @@
-6. §[^51] (1) A gyógyászati segédeszköz társadalombiztosítási támogatásba való befogadása külön jogszabályban meghatározott támogatási módszerrel történik.
+6. §[^60] (1) A gyógyászati segédeszköz társadalombiztosítási támogatásba való befogadása külön jogszabályban meghatározott támogatási módszerrel történik.
 
 (2) Önálló támogatási csoport állapítható meg:
 
@@ -10,10 +10,10 @@ c) a termékek funkcionális alcsoportjára vagy alcsoportjaira;
 
 d) a funkcionális csoporton belül a termékek méret, kapacitás vagy teljesítmény alapján kialakított körére.
 
-(3)[^52] A Gtv. 34. § (2) bekezdése szerinti felfüggesztést követően – a csoportra vonatkozó egészség-gazdaságtani, költséghatékonysági elemzés ESKI általi elvégzését követően, annak ismeretében – az OEP tájékoztatja az egészségügyi minisztert, aki az érintett szakmai kollégium véleményének kikérése után új funkcionális csoportot képezhet a következő naptári negyedév első napjával.
+(3)[^61] A Gtv. 34. § (2) bekezdése szerinti felfüggesztést követően – a csoportra vonatkozó egészség-gazdaságtani, költséghatékonysági elemzés GYEMSZI általi elvégzését követően, annak ismeretében – az OEP tájékoztatja az egészségügyi minisztert, aki az érintett szakmai kollégium véleményének kikérése után új funkcionális csoportot képezhet a következő naptári negyedév első napjával.
 
-(4)–(5)[^53]
+(4)–(5)[^62]
 
-[^51]: A 6. § az 56/2008. (XII. 31.) EüM rendelet 5. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
-[^52]: A 6. § (3) bekezdése a 34/2010. (V. 14.) EüM rendelet 13. § 8. pontja szerint módosított szöveg.
-[^53]: A 6. § (4)–(5) bekezdését a 34/2010. (V. 14.) EüM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^60]: A 6. § az 56/2008. (XII. 31.) EüM rendelet 5. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
+[^61]: A 6. § (3) bekezdése a 34/2010. (V. 14.) EüM rendelet 13. § 8. pontja, az 53/2013. (VII. 19.) EMMI rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^62]: A 6. § (4)–(5) bekezdését a 34/2010. (V. 14.) EüM rendelet 14. § (1) bekezdés a) pontja hatályon kívül helyezte.

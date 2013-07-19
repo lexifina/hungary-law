@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2012-10-31 | 2007-14-20-0B.31 | 31/2012. (X. 8.) EMMI rendelet |
 | 2012-11-01 | 2007-14-20-0B.32 | 31/2012. (X. 8.) EMMI rendelet |
 | 2013-01-01 | 2007-14-20-0B.33 | 57/2012. (XII. 29.) EMMI rendelet |
+| 2013-07-19 | 2007-14-20-0B.34 | 53/2013. (VII. 19.) EMMI rendelet |

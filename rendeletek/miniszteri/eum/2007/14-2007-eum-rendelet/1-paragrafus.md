@@ -16,19 +16,24 @@
 
 8.[^2] kihordási idő: az az időtartam, amelyre meghatározott mennyiségű gyógyászati segédeszköz támogatással rendelhető, vagy az az időtartam, amelyre vonatkozóan a rendelt eszköz árához az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) támogatást állapít meg;
 
-9. méretváltozás: a közfinanszírozás alapjául elfogadott ár változatlansága mellett funkcionálisan egyenértékű, azonos termékcsaládba tartozó eszközök metrikus paramétereiben kifejezhető változása;
+9.[^3] méretváltoztatás: a közfinanszírozás alapjául elfogadott ár változatlansága mellett funkcionálisan egyenértékű, azonos termékcsaládba tartozó eszközök metrikus paramétereikben kifejezhető változtatása;
 
-10.[^3] névváltozás: az ár változatlansága mellett
+10.[^4] névváltozás: az ár változatlansága mellett
 
-a) egy eszköz azonosítási adataiban vagy színében bekövetkezett változás, illetve
+a)[^5] egy eszköz azonosítási adataiban bekövetkezett változás, illetve
 
 b) a 19. számú mellékletben felsorolt funkcionális csoportokba sorolt eszközök esetében azonos gyártó korábbi termékének hasonló jellemzőkkel rendelkező, funkcionálisan egyenértékű új termékkel történő felváltása;
 
-11. referenciaösszeg: a referenciaeszköz árához tartozó nettó támogatási összeg.
+11. referenciaösszeg: a referenciaeszköz árához tartozó nettó támogatási összeg;
 
-(2)[^4] Az (1) bekezdésben foglaltakon túl e rendelet alkalmazása során a Gtv.-ben, az Ebtv.-ben, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben (a továbbiakban: Korm. rendelet), az orvostechnikai eszközökről szóló EüM rendeletben (a továbbiakban: R.), valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendeletben (a továbbiakban: IVD-rendelet) és a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló 7/2004. (XI. 23.) EüM rendeletben foglalt fogalommeghatározásokat kell figyelembe venni.
+12.[^6] méretváltozat: azonos termékcsaládba tartozó, már támogatott, egyszer használatos gyógyászati segédeszköznek a metrikus paraméterekben eltérő változata.
+
+(2)[^7] Az (1) bekezdésben foglaltakon túl e rendelet alkalmazása során a Gtv.-ben, az Ebtv.-ben, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben (a továbbiakban: Korm. rendelet), az orvostechnikai eszközökről szóló EüM rendeletben (a továbbiakban: R.), valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendeletben (a továbbiakban: IVD-rendelet) és a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló 7/2004. (XI. 23.) EüM rendeletben foglalt fogalommeghatározásokat kell figyelembe venni.
 
 [^1]: Az 1. § (1) bekezdése a 34/2010. (V. 14.) EüM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 8. pontja a 20/2010. (XII. 28.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés 10. pontja a 31/2012. (X. 8.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § (2) bekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés 9. pontja az 53/2013. (VII. 19.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 10. pontja a 31/2012. (X. 8.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés 10. pont a) alpontja az 53/2013. (VII. 19.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés 12. pontját az 53/2013. (VII. 19.) EMMI rendelet 1. § (3) bekezdése iktatta be.
+[^7]: Az 1. § (2) bekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének b) pontja szerint módosított szöveg.

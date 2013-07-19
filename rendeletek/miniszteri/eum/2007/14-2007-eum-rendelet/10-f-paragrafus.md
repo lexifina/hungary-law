@@ -1,6 +1,6 @@
-10/F. §[^88] (1) A támogatással rendelhető gyógyászati segédeszközökről az OEP a honlapján szabadon és ingyenesen hozzáférhető, internetes eszközkatalógust vezet.
+10/F. §[^99] (1) A támogatással rendelhető gyógyászati segédeszközökről az OEP a honlapján szabadon és ingyenesen hozzáférhető, internetes eszközkatalógust vezet.
 
-(2) Az internetes eszközkatalógusba történő felvétel érdekében a gyógyászati segédeszköz forgalomba hozója az OEP rendelkezésére bocsátja a következőket:
+(2)[^100] Az internetes eszközkatalógusba történő felvétel érdekében az OEP által erre a célra létrehozott internetes felületre a gyógyászati segédeszköz forgalomba hozója elektronikus úton feltölti legalább a következőket:
 
 a) az eszköz magyar nyelvű használati útmutatóját letölthető formátumban,
 
@@ -10,20 +10,19 @@ c) az eszköz azonosítására alkalmas fényképet és
 
 d) az eszköz gyártójára, forgalomba hozójára vonatkozó információkat, így különösen címét, telefonszámát, e-mail címét.
 
-(3) Az OEP a gyógyászati segédeszközt az internetes eszközkatalógusba
+(3)[^101] Az internetes eszközkatalógus tartalmazza
 
-a) a (2) bekezdés szerint rendelkezésére bocsátott adatokkal,
+a) a (2) bekezdés szerint feltöltött adatokat, amennyiben azokat az OEP jóváhagyja,
 
-b) a Gtv. 32. § (7) bekezdés a)–g) és i)–l) pontja szerinti adatokkal és
+b) a Gtv. 32. § (7) bekezdés a)–g) és i)–l) pontja szerinti adatokat,
 
-c) a forgalomba hozó által megküldött, az OEP által közzététel céljára szükségesnek és megfelelőnek ítélt adatokkal,
+c) a (2) bekezdés alapján feltöltött adatokon túl a forgalomba hozó által feltöltött további adatokat, amennyiben azokat az OEP közzététel céljára szükségesnek és megfelelőnek minősítette,
 
-d)[^89] az eszköz gyártója vagy forgalomba hozója által önként vállalt, az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló rendeletben foglaltaknál kedvezőbb jótállási feltételekre vonatkozó adatokkal, amennyiben azokat a 4. § (2) bekezdés g) pontja alapján figyelembe vették,
+d) az eszköz gyártója vagy forgalomba hozója által önként vállalt, az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló rendeletben foglaltaknál kedvezőbb jótállási feltételekre vonatkozó adatokat, amennyiben azokat a 4. § (2) bekezdés g) pontja alapján figyelembe vették.
 
-veszi fel.
+(4)[^102] A (3) bekezdés szerinti adatokat az OEP teszi elérhetővé az internetes eszközkatalógusban.
 
-(4)[^90] Ha egy eszköz támogatással történő rendelhetősége megszűnt, az OEP az eszköz kihordási idejének lejártáig az eszközt az internetes eszközkatalógusban külön listában közzéteszi.
-
-[^88]: A 10/F. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
-[^89]: A 10/F. § (3) bekezdés d) pontját az 57/2012. (XII. 29.) EMMI rendelet 5. §-a iktatta be.
-[^90]: A 10/F. § (4) bekezdése a 20/2010. (XII. 28.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^99]: A 10/F. §-t a 34/2010. (V. 14.) EüM rendelet 10. §-a iktatta be.
+[^100]: A 10/F. § (2) bekezdése az 53/2013. (VII. 19.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^101]: A 10/F. § (3) bekezdése az 53/2013. (VII. 19.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^102]: A 10/F. § (4) bekezdése az 53/2013. (VII. 19.) EMMI rendelet 7. §-ával megállapított szöveg.

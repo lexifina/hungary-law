@@ -1,163 +1,249 @@
-## Egy kérelemben beadható eszközök és azok tartozékai
-
-|  | 1. 1. sorszámú csoport |  |
+| 1. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 04 12 09 | Sérvtapaszok, övek és sérvkötők |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-|  | 1.1. 1/a. |  |
+| 2. | 04 03 12 03 | Légzést segítő készülékek |
 
-|  | A | B |
+| 3. | 04 03 12 06 | Légzést segítő készülékek tartozékai |
 
-| 1 | 04 12 09 03 | Normál méretű sérvkötők |
-
-| 2 | 04 12 09 15 03 | Adaptív, egyoldali lágyéksérvkötők |
-
-| 3 | 04 12 09 15 06 | Adaptív, kétoldali lágyéksérvkötők |
-
-| 4 | 04 12 09 18 | Here- vagy combsérvkötő |
-
-| 5 | 04 12 09 12 | Haskötő-tartozékok |
-
-|  | 1.2. 1/b. |  |
+| 2. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 04 12 09 06 03 | Extra méretű adaptív sérvkötők |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 04 12 09 09 | Egyedi méretvétel alapján egyedileg készített sérvkötők |
+| 2. | 04 12 09 09 | Egyedi méretvétel alapján egyedileg készített sérvkötők |
 
-| 3 | 04 12 09 15 09 | Egyedi méretvétel alapján egyedileg készített lágyéksérvkötők |
+| 3. | 04 12 09 15 09 | Egyedi méretvétel alapján egyedileg készített lágyéksérvkötők |
 
-| 4 | 04 12 09 12 | Haskötő-tartozékok |
+| 4. | 04 12 09 12 | Haskötő-tartozékok |
 
-|  | 2. 2. sorszámú csoport |  |
-
-|  | A | B |
-
-| 1 | 04 19 09 | Egyszer használatos fecskendők |
-
-| 2 | 04 19 15 | Egyszer használatos fecskendőtűk |
-
-|  | 3. 3. sorszámú csoport |  |
+| 3. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 04 24 12 03 | Vércukorszintmérők |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 04 24 12 06 | Tesztcsíkok |
+| 2. | 04 19 09 06 | Tű nélküli, egyszer használatos fecskendők |
 
-|  | 4. 4. sorszámú csoport |  |
+| 3. | 04 19 15 03 | Egyszer használatos fecskendőtűk |
 
-|  | A | B |
-
-| 1 | 06 12 03 03 09 | Egyedi méretvétel alapján egyedileg készített lábortézisek dongalábra |
-
-| 2 | 06 12 03 06 | Lábortézisek diabeteses, neuropathias lábra |
-
-| 3 | 06 12 03 09 | Lábortézisek erősen deformált lábra |
-
-| 4 | 06 12 03 18 15 | Egyedi méretvétel alapján egyedileg készített merev betétek |
-
-| 5 | 06 12 03 18 18 | Egyedi méretvétel alapján egyedileg készített félmerev betétek |
-
-| 6 | 06 12 09 09 | Egyedi méretvétel alapján egyedileg készített térdortézisek |
-
-| 7 | 06 12 15 09 | Egyedi méretvétel alapján egyedileg készített csípőortézisek |
-
-| 8 | 06 12 18 03 | Medenceöves, négykörsínes csípő-térd-boka-láb ortézisek |
-
-| 9 | 06 12 30 | Tartozékok alsóvégtag-ortézisekhez |
-
-|  | 5. 5. sorszámú csoport |  |
+| 4. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 06 18 | FELSŐ VÉGTAGOK PROTÉZISRENDSZEREI |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 06 18 24 | Kiegészítők felsővégtag protézisekhez |
+| 2. | 04 19 15 06 | Egyszer használatos pen tűk |
 
-|  | 6. 6. sorszámú csoport |  |
+| 3. | 04 19 21 06 | Adagoló penek |
 
-|  | A | B |
-
-| 1 | 06 24 | ALSÓ VÉGTAGOK PROTÉZISRENDSZEREI |
-
-| 2 | 06 24 54 | Kiegészítők alsóvégtagprotézisekhez |
-
-|  | 7. 7. sorszámú csoport |  |
+| 5. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 06 33 | ORTOPÉD CIPŐK ÉS TARTOZÉKAIK |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 06 33 12 | Tartozékok ortopéd cipőkhöz |
+| 2. | 04 19 24 03 03 | Inzulinpumpák |
 
-|  | 8. 8. sorszámú csoport |  |
+| 3. | 04 19 24 03 06 | Inzulinpumpa tartozékok: infúziós szerelék |
 
-|  | A | B |
+| 4. | 04 19 24 03 09 | Inzulinpumpa tartozékok: patron, adapter |
 
-| 1 | 09 18 24 03 03 | Irrigációs készletek |
-
-| 2 | 09 18 24 03 06 | Tartozékok irrigációs készletekhez |
-
-|  | 9. 9. sorszámú csoport |  |
+| 6. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 09 27 05 | Testen viselt vizeletgyűjtő zsákok |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 09 27 13 | Függesztő- és rögzítőeszközök vizeletgyűjtőkhöz |
+| 2. | 04 24 12 03 | Vércukorszintmérők |
 
-|  | 10. 10. sorszámú csoport |  |
+| 3. | 04 24 12 06 | Tesztcsíkok |
 
-|  | A | B |
-
-| 1 | 09 30 04 | Testen való viselésre szánt vizeletfelszívó segédeszközök |
-
-| 2 | 09 30 09 | Függesztő- és rögzítőeszközök vizelet- és székletfelszívó segédeszközökhöz |
-
-|  | 11. 11. sorszámú csoport |  |
+| 7. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 12 21 | KEREKESSZÉKEK |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 12 24 24 | Elemek és akkumulátorok |
+| 2. | 06 12 03 03 09 | Egyedi méretvétel alapján egyedileg készített lábortézisek dongalábra |
 
-| 3 | 18 09 27 03 | Lábtartók kerekesszékekhez |
+| 3. | 06 12 03 06 03 | Egyedi méretvétel alapján egyedileg készített lábortézisek diabeteses, neuropathias lábra |
 
-| 4 | 18 09 34 03 | Háttámaszok kerekesszékekhez |
+| 4. | 06 12 03 09 03 | Egyedi méretvétel alapján egyedileg készített lábortézisek erősen deformált lábra |
 
-| 5 | 18 09 36 03 | Kartámaszok kerekesszékekhez |
+| 5. | 06 12 06 09 03 | Egyedi méretvétel alapján egyedileg készített boka-láb ortézisek fixált bokaízülettel |
 
-|  | 12. 12. sorszámú csoport |  |
+| 6. | 06 12 06 09 06 | Egyedi méretvétel alapján egyedileg készített, patellaínra támaszkodó boka-láb ortézisek fixált bokaízülettel |
+
+| 7. | 06 12 09 09 03 | Egyedi méretvétel alapján egyedileg készített műanyag térdortézisek merev térdízülettel |
+
+| 8. | 06 12 09 09 06 | Egyedi méretvétel alapján egyedileg készített műanyag térdortézisek változtatható mozgástartománnyal (gyermek) |
+
+| 9. | 06 12 09 09 09 | Egyedi méretvétel alapján egyedileg készített műanyag térdortézisek változtatható mozgástartománnyal (felnőtt) |
+
+| 10. | 06 12 15 09 03 | Egyedi méretvétel alapján egyedileg készített csípőortézisek merev ízülettel |
+
+| 11. | 06 12 15 09 06 | Egyedi méretvétel alapján egyedileg készített csípőortézisek szabad ízülettel |
+
+| 12. | 06 12 18 | Csípő-térd-boka-láb ortézisek |
+
+| 13. | 06 12 30 | Tartozékok alsóvégtag-ortézisekhez |
+
+| 8. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 21 42 12 06 | Műgége |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 21 42 12 06 06 | Tartozékok műgége-készülékhez |
+| 2. | 06 18 | FELSŐ VÉGTAGOK PROTÉZISRENDSZEREI |
 
-|  | 13. 13. sorszámú csoport |  |
+| 3. | 06 18 24 | Kiegészítők felsővégtag-protézisekhez |
+
+| 9. sorszámú csoport |  |
 
 |  | A | B |
 
-| 1 | 21 45 03 | Hallójárati készülékek |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 2 | 21 45 06 | Fül mögötti hallókészülékek |
+| 2. | 06 24 | ALSÓ VÉGTAGOK PROTÉZISRENDSZEREI |
 
-| 3 | 21 45 09 | Szemüvegszárba épített hallókészülékek |
+| 3. | 06 24 54 | Kiegészítők alsóvégtag-protézisekhez |
 
-| 4 | 21 45 12 | Testen viselt, dobozos hallókészülékek |
+| 10. sorszámú csoport |  |
 
-| 5 | 21 45 24 | Hallásjavító készülékek kiegészítői (egyéni fülillesztékek hallásjavító készülékekhez és a hallójárat védelméhez) |
+|  | A | B |
 
-| 6 | 21 45 27 | Hallásjavító készülékek energiaforrásai és ezek tartozékai |
+| 1. | ISO kód | Osztály/csoport megnevezése |
 
-| 7 | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
+| 2. | 06 33 | ORTOPÉD CIPŐK ÉS TARTOZÉKAIK |
 
-8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^163]
+| 3. | 06 33 12 | Tartozékok ortopéd cipőkhöz |
 
-[^163]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+| 11. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 09 15 03 | Kanülök |
+
+| 3. | 09 15 06 | Tracheostoma-védők |
+
+| 12. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 09 18 05 | Többrészes, zártvégű zsákok |
+
+| 3. | 09 18 08 | Többrészes, nyíltvégű zsákok, visszajutást gátló szeleppel |
+
+| 4. | 09 18 42 | Többrészes, nyíltvégű zsákok |
+
+| 5. | 09 18 14 03 | Alaplapok |
+
+| 13. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 09 18 24 03 03 | Irrigációs készletek |
+
+| 3. | 09 18 24 03 06 | Tartozékok irrigációs készletekhez |
+
+| 14. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 09 27 05 | Testen viselt vizeletgyűjtő zsákok |
+
+| 3. | 09 27 13 | Függesztő- és rögzítőeszközök vizeletgyűjtőkhöz |
+
+| 15. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 09 30 04 03 | Egyszer használatos inkontinenciabetétek |
+
+| 3. | 09 30 09 | Függesztő- és rögzítőeszközök vizelet- és székletfelszívó segédeszközökhöz |
+
+| 16. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 12 16 | MOPEDEK ÉS MOTORKERÉKPÁROK |
+
+| 3. | 12 21 27 | Elektromos motorral meghajtott kerekesszékek, rásegített kormányzással |
+
+| 4. | 12 24 24 | Elemek és akkumulátorok |
+
+| 17. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 12 21 | KEREKESSZÉKEK |
+
+| 3. | 18 09 27 03 | Lábtartók kerekesszékekhez |
+
+| 4. | 18 09 34 03 | Háttámaszok kerekesszékekhez |
+
+| 5. | 18 09 36 03 | Kartámaszok kerekesszékekhez |
+
+| 18. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 21 42 12 03 | Hangprotézisek |
+
+| 3. | 09 15 03 03 09 | Műanyag kanülök hangprotézishez |
+
+| 19. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 21 42 12 06 03 | Műgége-készülék |
+
+| 3. | 21 42 12 06 06 | Tartozékok műgége-készülékhez |
+
+| 20. sorszámú csoport |  |
+
+|  | A | B |
+
+| 1. | ISO kód | Osztály/csoport megnevezése |
+
+| 2. | 21 45 03 | Hallójárati készülékek |
+
+| 3. | 21 45 06 | Fül mögötti hallókészülékek |
+
+| 4. | 21 45 09 | Szemüvegszárba épített hallókészülékek |
+
+| 5. | 21 45 12 | Testen viselt, dobozos hallókészülékek |
+
+| 6. | 21 45 24 | Hallásjavító készülékek kiegészítői (egyéni fülillesztékek hallásjavító készülékekhez és a hallójárat védelméhez) |
+
+| 7. | 21 45 27 | Hallásjavító készülékek energiaforrásai és ezek tartozékai |
+
+| 8. | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
+
+8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^176]
+
+Tartós, vagy nem tartós használatra, illetve ruházati jellegű tartós használatra szánt gyógyászati segédeszközök
+
+[^176]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
