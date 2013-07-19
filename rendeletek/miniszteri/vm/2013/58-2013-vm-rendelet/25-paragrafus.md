@@ -1,0 +1,1 @@
+## 24. § Hatályát veszti az R. 5. § (3) bekezdése, 9. § (4) bekezdése, 10. § (3) bekezdése, 12. § (2) bekezdése, a 13. § (4) bekezdésében az „a hozzájárulás egy példányának megküldésével” szövegrész, 17/B. § (2) bekezdése, 17/C. § (3) bekezdése, 17/D. § (2) és (4) bekezdése, valamint 3. számú melléklet V. pont első mondata.

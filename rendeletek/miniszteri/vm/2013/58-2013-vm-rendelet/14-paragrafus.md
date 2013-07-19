@@ -1,0 +1,1 @@
+## „(4) A kutatásvezető kötelezettségeire és jogaira – a (3) bekezdésben meghatározottakon túlmenően – a barlangi túravezető kötelezettségeire és jogaira vonatkozó rendelkezéseket kell értelemszerűen alkalmazni, továbbá a kutatásvezető köteles az engedélyben foglaltaktól eltérő tevékenységek megkezdése előtt az engedély módosítását kérni.”

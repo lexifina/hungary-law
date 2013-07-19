@@ -1,0 +1,3 @@
+## 17. § Az R. 17/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az igazgatóság vagyonkezelői hozzájárulásával látogatható barlangban, barlangszakaszban végzendő, látogatási célú merülés esetén – ha a merülés helyszínének elérése száraz barlangjáraton keresztül lehetséges – a merülésvezetőnek barlangi túravezető vagy barlangi kutatásvezető képzettséggel is rendelkeznie kell, vagy a résztvevőket a merülés helyszínéig ilyen képzettséggel rendelkező személynek kell kísérnie. Ha a barlangban a merülő hely megközelítése élet- és balesetvédelmi, valamint természetvédelmi szempontból kedvezőtlen következménnyel előreláthatóan nem jár, az igazgatóság ezen követelmény alól felmentést adhat.”
