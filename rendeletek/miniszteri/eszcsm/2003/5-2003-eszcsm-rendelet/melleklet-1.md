@@ -3,4 +3,4 @@
 1. számú melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^21]
 
 [^20]: A 6. §-t a 3/2013. (I. 7.) EMMI rendelet 5. §-a iktatta be.
-[^21]: Az 1. számú melléklet a 24/2013. (III. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^21]: Az 1. számú melléklet a 24/2013. (III. 29.) EMMI rendelet 7. §-ával megállapított, az 53/2013. (VII. 19.) EMMI rendelet 12. § (1) bekezdése szerint módosított szöveg.

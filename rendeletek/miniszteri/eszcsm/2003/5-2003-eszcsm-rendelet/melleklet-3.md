@@ -1,5 +1,3 @@
-## A magasabb összegű családi pótlékra jogosító betegséget vagy fogyatékosságot
-
 ## megállapító igazolás kiadására jogosult szakorvos
 
 |  | A | B |
@@ -28,7 +26,7 @@
 
 | 12. | L) Mozgásszervi fogyatékosságok | Ortopéd, ortopéd traumatológus, reumatológus, mozgásszervi rehabilitációs szakorvos, továbbá 14 év alatti gyermek esetében gyermekgyógyász, gyermekneurológus szakorvos |
 
-| 13. | M) Értelmi fogyatékosság | Különböző szakértői bizottságok gyermek- és ifjúságpszichiáter szakorvosai |
+| 13. | M) Értelmi fogyatékosság | Különböző szakértői bizottságok szakorvosai |
 
 | 14. | N) Pervazív fejlődési zavarok | Gyermek- és ifjúságpszichiáter szakorvos |
 

@@ -2,6 +2,8 @@
 
 ## I. Rész
 
+## 3K64609M_0
+
 |  | A | B | C | D | E | F |
 
 | 1. | Betegségcsoport megnevezése | Betűjel | Számjel | Betegség BNO kódja | Betegség megnevezése | Súlyosság foka |
@@ -166,6 +168,8 @@
 
 ## II. Rész
 
+## 3K64609M_1
+
 |  | A | B | C | D | E |
 
 | 1. | Betegségcsoport megnevezése | Betű-jel | Szám- jel | Betegség BNO kódja | Betegség megnevezése |
@@ -180,7 +184,7 @@
 
 | Schizophrenia, schizotypiás és paranoid zavarok |  |  | F20.0-F29 | Schizophrenia, Schizotypiás rendellenesség, Akut és átmeneti pszichotikus rendellenességek, Indukált delusionalis rendellenességek, Schizoaffektív rendellenességek, Egyéb nem organikus pszichotikus rendellenességek, Nem organikus pszichózis k.m.n. |
 
-| Egyéb súlyos pszichiátriai kórképek: olyan, az egészségügyről szóló 1997. évi CLIV. törvény 188. § d) pontja szerinti súlyos pszichiátriai beteg gyermek, aki közösséget, nevelési és oktatási intézményt önmaga vagy a közösség veszélyeztetése miatt nem látogathat, és az állapot krónikussága miatt rendszeres gyermekpszichiátriai kezelésben részesül. | F30.0-F48.9 F90.0- F98.9 | Hangulatzavarok, affektív rendellenességek, neurotikus, stresszhez társuló és szomatoform rendellenességek A viselkedés és érzelmi-hangulati élet rendszerint gyermekkorban vagy serdülőkorban jelentkező zavarai |
+| Egyéb súlyos pszichiátriai kórképek: olyan, az egészségügyről szóló 1997. évi CLIV. törvény 188. § d) pontja szerinti súlyos pszichiátriai beteg gyermek, aki közösséget, nevelési-oktatási intézményt – ide nem értve a speciális közösség, illetve nevelési-oktatási intézmény esetét – önmaga vagy a közösség veszélyeztetése miatt nem látogathat, és az állapot krónikussága miatt rendszeres gyermekpszichiátriai kezelésben részesül. | F30.0-F48.9 F90.0- F98.9 | Hangulatzavarok, affektív rendellenességek, neurotikus, stresszhez társuló és szomatoform rendellenességek A viselkedés és érzelmi-hangulati élet rendszerint gyermekkorban vagy serdülőkorban jelentkező zavarai |
 
 | 4. | Vér és a vérképző szervek betegségek | E |  |  |  |
 
@@ -528,4 +532,6 @@
 
 2. melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^22]
 
-[^22]: A 2. számú melléklet megjelölését 2. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § b) pontja.
+A magasabb összegű családi pótlékra jogosító betegséget vagy fogyatékosságot
+
+[^22]: A 2. számú melléklet megjelölését 2. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § b) pontja. A 2. melléklet az 53/2013. (VII. 19.) EMMI rendelet 12. § (2) bekezdése szerint módosított szöveg.
