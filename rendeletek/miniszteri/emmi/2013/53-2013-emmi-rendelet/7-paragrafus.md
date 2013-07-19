@@ -1,0 +1,3 @@
+## 6. § Az R. 10/B. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A szállító-előminősítés során szerzett „Megfelelő” értékelés a forgalomba hozó szállítójegyzékbe való felvételét követő három évig hatályos, amely további hároméves időszakokra meghosszabbítható. A szállító-előminősítés hatályának lejáratát megelőzően legkésőbb 30 nappal az OEP hivatalból indított eljárás során felülvizsgálja a szállító-előminősítést az értékelésnél figyelembe vett szempontok szerint. Ha a forgalomba hozó a felülvizsgálat során „Nem megfelelő” értékelést kap, az OEP a forgalomba hozót törli a szállítójegyzékből.”
