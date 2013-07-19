@@ -14,7 +14,7 @@ f) a forgalmazás módját,
 
 g) a jogsértéssel érintett termékről szóló tájékoztatók, leírások tartalmát,
 
-h) a megfelelőség igazolás vagy a tűzvédelmi megfelelőségi tanúsítvány tartalmát,
+h)[^1] a megfelelőségigazolás, teljesítménynyilatkozat, vagy a tűzvédelmi megfelelőségi tanúsítvány tartalmát,
 
 i) a jogsértéssel érintett termék árát,
 
@@ -25,3 +25,5 @@ k) a jogsértéssel érintett termék műszaki specifikációknak való megfelel
 l) a termék potenciális környezetkárosító hatását.
 
 (2) A bírságot a BM OKF 10023002-00283494-20000002 számú bírság letéti számla javára kell befizetni. A befizetés során az átutalás közlemény rovatában fel kell tüntetni a „piacfelügyeleti bírság” szöveget, a határozat számát és a bírságfizetésre kötelezett nevét.
+
+[^1]: A 3. § (1) bekezdés h) pontja a 275/2013. (VII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
