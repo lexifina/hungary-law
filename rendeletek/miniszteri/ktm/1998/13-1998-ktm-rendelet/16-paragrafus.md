@@ -1,27 +1,11 @@
-16. §[^18] (1) A barlang vagy barlangszakasz kutatása iránti engedélykérelemben meg kell jelölni a kérelmező nevét, címét (jogi személy esetében vezetőjének nevét, a jogi személy székhelyét), a kutatásvezető nevét, címét, kutatásvezetői igazolványának számát, illetve a kutatásvezető-helyettesének nevét, címét, kutatásvezetői igazolványának számát. Az engedélykérelemhez mellékelni kell a tervezett kutatási munka részletes leírását tartalmazó kutatási tervet is.
+16. §[^44] (1) Feltáró kutatás iránti kérelemben kutatásvezető-helyettes jelölhető meg, akinek az e rendelet szerinti barlangi kutatásvezetői képzettséggel kell rendelkeznie.
 
-(2) Természetes személy feltáró kutatás iránti kérelmében minden esetben köteles kutatásvezető-helyettest megjelölni, akinek az e rendelet szerinti barlangi kutatásvezetői képzettséggel vagy a 15. § (2) bekezdés szerinti felmentéssel kell rendelkeznie. A kérelemhez csatolni kell a kutatásvezető-helyettes nyilatkozatát is a megbízatás elfogadásáról.
+(2) Feltáró kutatásra vonatkozó engedély csak meghatározott barlangra adható ki.
 
-(3) Feltáró kutatásra vonatkozó engedély csak meghatározott barlangra adható ki.
+(3) A barlangi kutatási engedély jogosultja a kutatás előrehaladásáról köteles a kutatási engedélyben meghatározott időszakonként és szempontok szerint tájékoztatni a felügyelőséget és az igazgatóságot (kutatási jelentés). Ha a kutatási engedély másként nem rendelkezik, a kutatási jelentést évenként, a tárgyévet követő év február 15-éig kell benyújtani, amelyet az igazgatóság 30 napon belül továbbít a Nyilvántartást vezető Minisztérium számára. A jelentési kötelezettség írásban vagy elektronikus formában teljesíthető.
 
-(4) A barlangi kutatási engedély jogosultja a kutatás előrehaladásáról köteles a kutatási engedélyben meghatározott időszakonként és szempontok szerint tájékoztatni a felügyelőséget és az igazgatóságot (kutatási jelentés). Ha a kutatási engedély másként nem rendelkezik, a kutatási jelentést évenként, a tárgyévet követő év február 15-éig kell benyújtani, melyet a felügyelőség – az igazgatóság útján – 30 napon belül továbbít a Nyilvántartás számára. A jelentési kötelezettség elektronikus formában is teljesíthető.
+(4) Új barlang, barlangszakasz felfedezésére vonatkozó bejelentést az igazgatóság 5 napon belül köteles továbbítani a Nyilvántartást vezető Minisztériumnak.
 
-(5) Új barlang, barlangszakasz felfedezésére vonatkozó bejelentést az igazgatóság 5 napon belül köteles továbbítani a Nyilvántartásnak.
+(5) Az engedélyes adataiban, valamint a kutatásvezető vagy a kutatásvezető-helyettes személyében bekövetkezett változásról az engedély jogosultja köteles – a változás bekövetkeztétől számított 8 napon belül – a felügyelőséget és az igazgatóságot tájékoztatni.
 
-(6) Az engedélyes adataiban, valamint a kutatásvezető vagy a kutatásvezető-helyettes személyében bekövetkezett változásról az engedély jogosultja köteles – a változás megtörténtétől számított 8 napon belül – a felügyelőséget tájékoztatni.
-
-(7)–(8)[^19]
-
-(9)[^20] A kutatási engedélyt vissza kell vonni, ha
-
-a) a kutatás során a kutatásvezető vagy a kutatásvezető-helyettes a természet védelmét szolgáló jogszabályban vagy a kutatási engedélyben foglalt előírást megsérti,
-
-b) a (4) bekezdésben meghatározott kötelezettséget nem, nem megfelelő tartalommal vagy nem határidőben teljesítik,
-
-c) az újonnan bejelentett barlangi kutatásvezető vagy kutatásvezető-helyettes az e rendeletben meghatározott feltételeknek nem felel meg, vagy
-
-d) a természetes személy jogosult – a (2) és (6) bekezdésben foglaltakra tekintettel – feltáró kutatás esetén új kutatásvezető-helyettest nem jelöl meg.
-
-[^18]: A 16. § a 3/2007. (I. 22.) KvVM rendelet 8. §-ával megállapított szöveg.
-[^19]: A 16. § (7)–(8) bekezdését a 36/2012. (IV. 13.) VM rendelet 4. §-a hatályon kívül helyezte.
-[^20]: A 16. § (9) bekezdését a 10/2010. (IV. 28.) KvVM rendelet 3. § (1) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: A 16. § az 58/2013. (VII. 11.) VM rendelet 14. §-ával megállapított szöveg.

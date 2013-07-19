@@ -14,9 +14,9 @@
 
 ## 1. Barlangi túravezető képzés: 200 óra.
 
-## 2. Barlangi kutatásvezető képzés: 300 óra.
+## 2.[^94] Barlangi kutatásvezető képzés: 100 óra.
 
-## 3.[^44] Az összóraszámból mindkét képzés esetében 50% elmélet, 50% gyakorlat.
+## 3.[^95] Az összóraszámból mindkét képzés esetében 50% elmélet, 50% gyakorlat.
 
 ## III. A képzés szakmai követelményei
 
@@ -74,7 +74,7 @@
 
 ## – Jogi ismeretek.
 
-## –[^45] Csoport szervezési, képzési ismeretek.
+## –[^96] Csoport szervezési, képzési ismeretek.
 
 ## – Expedíciók szervezése, vezetése.
 
@@ -102,13 +102,13 @@
 
 ## IV. A vizsgáztatás követelményei
 
-## 1. A vizsgára bocsátás feltételei
+## 1.[^97] A vizsgára bocsátás feltételei
 
-## Vizsgára az jelentkezhet, aki – barlangi túravezető esetén a III. 1–3. pontokban, barlangi kutatásvezető esetén a III. 1–4. pontokban foglalt – elméleti és gyakorlati szakképzésben részt vett, a követelményeket teljesítette és gyakorlata eredményes volt. A vizsgára való jelentkezés további feltétele:
+## Vizsgára az jelentkezhet, aki – barlangi túravezető esetén a III. 1–3. pontokban, barlangi kutatásvezető esetén a III. 1. és 4. pontokban foglalt– elméleti és gyakorlati szakképzésben részt vett, a követelményeket teljesítette és gyakorlata eredményes volt. A vizsgára való jelentkezés további feltétele:
 
 ## – barlangi túravezető: legalább alapfokú és bármely szakiskolai végzettség, továbbá a nagykorúság tényének igazolása, valamint legalább kétéves, barlangkutató szervezet által igazolt barlangjárási gyakorlat,
 
-## – barlangi kutatásvezető: legalább középfokú iskolai végzettség és a nagykorúság tényének igazolása, valamint legalább kétéves, barlangkutató szervezet által igazolt barlangjárói gyakorlat.
+## – barlangi kutatásvezető: legalább középfokú iskolai végzettség és a nagykorúság tényének igazolása, valamint legalább kétéves, barlangkutató szervezet által igazolt barlangi túravezetői gyakorlat.
 
 ## 2. A szakmai vizsga részei és időtartama:
 
@@ -126,11 +126,9 @@
 
 ## – szóbeli, a felkészülési idő minimum 30 perc.
 
-## V.[^46] Tananyag, vizsga
+## V.[^98] Tananyag, vizsga
 
-## A részletes tananyagot és óraszámot, a képzés lebonyolításának és a vizsga pontos követelményeit a Minisztérium – a barlangkutató szervezetek véleményének figyelembevételével – határozza meg és adja ki.
-
-## A képzés végzésére jogosult személy előzetesen tájékoztatja a Főfelügyelőséget a képzés helyéről, időpontjairól és az oktatók személyéről. A Főfelügyelőség előírhatja a képzés egyes elemeinek módosítását, amennyiben az nem felel meg a kiadott követelményrendszernek.
+## A képzés végzésére jogosult személy előzetesen tájékoztatja a Főfelügyelőséget a képzés helyéről, időpontjairól és az oktatók személyéről. A Főfelügyelőség előírhatja a képzés egyes elemeinek módosítását, amennyiben az nem felel meg a III. pont szerinti szakmai követelményeknek.
 
 ## A vizsga időpontját és helyszínét a képzés befejezésére vonatkozó tájékoztatás kézhezvételét követően a Főfelügyelőség állapítja meg úgy, hogy a képzés befejezésének napja és a vizsga időpontja között legalább 30 nap, legfeljebb 60 nap teljen el.
 
@@ -140,24 +138,26 @@
 
 ## A záróvizsgák díja – a IV. pont 2. b) alpontjában meghatározott – záróvizsgánként: 1000 Ft, melyet a Főfelügyelőség Magyar Államkincstárnál vezetett 10032000-00287261-00000000 számú előirányzat-felhasználási számlájára kell befizetni.
 
-## VII.[^47] A képzést folytatókra vonatkozó követelmények meghatározása
+## VII.[^99] A képzést folytatókra vonatkozó követelmények meghatározása
 
 ## A képzés folytatójának rendelkeznie kell a szükséges tárgyi és személyi feltételekkel, így:
 
 ## a) előadóteremmel, szemléltető eszközökkel,
 
-## b)[^48] az egyes szereplő szakterületeken felsőfokú végzettségű szakelőadókkal, a csak az e rendelet szerinti szakterületeken megfelelő képzettségű és legalább középfokú végzettségű előadókkal, valamint meghatározott (legalább 5 hallgatónként egy) számú e rendelet szerinti képzettséggel rendelkező gyakorlatvezetővel,
+## b)[^100] az egyes szereplő szakterületeken felsőfokú végzettségű szakelőadókkal, a csak az e rendelet szerinti szakterületeken megfelelő képzettségű és legalább középfokú végzettségű előadókkal, valamint meghatározott (legalább 5 hallgatónként egy) számú e rendelet szerinti képzettséggel rendelkező gyakorlatvezetővel,
 
 ## c) a gyakorlatok lebonyolításához szükséges technikai eszközökkel és engedélyekkel.
 
-## d)[^49]
+## d)[^101]
 
-4. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^50]
+4. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^102]
 
-[^44]: A 3. számú melléklet II. pontjának 3. alpontja a 3/2007. (I. 22.) KvVM rendelet 13. §-ával megállapított szöveg.
-[^45]: A 3. számú melléklet III. pont 3. alpont ötödik franciabekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^46]: A 3. számú melléklet V. pontja a 10/2010. (IV. 28.) KvVM rendelet 3. § (3) bekezdésével megállapított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^47]: A 3. számú melléklet VII. pontjának címe és nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^48]: A 3. számú melléklet VII. pont b) alpontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^49]: A 3. számú melléklet VII. pont d) alpontját a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^50]: A 4. számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^94]: A 3. számú melléklet II. pont 2. alpontja az 58/2013. (VII. 11.) VM rendelet 23. § l) pontja szerint módosított szöveg.
+[^95]: A 3. számú melléklet II. pontjának 3. alpontja a 3/2007. (I. 22.) KvVM rendelet 13. §-ával megállapított szöveg.
+[^96]: A 3. számú melléklet III. pont 3. alpont ötödik franciabekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^97]: A 3. számú melléklet IV. pont 1. alpontja az 58/2013. (VII. 11.) VM rendelet 23. § m) pontja szerint módosított szöveg.
+[^98]: A 3. számú melléklet V. pontja a 10/2010. (IV. 28.) KvVM rendelet 3. § (3) bekezdésével megállapított, az 58/2013. (VII. 11.) VM rendelet 23. § n) pontja és 24. §-a szerint módosított szöveg.
+[^99]: A 3. számú melléklet VII. pontjának címe és nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^100]: A 3. számú melléklet VII. pont b) alpontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^101]: A 3. számú melléklet VII. pont d) alpontját a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^102]: A 4. számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.

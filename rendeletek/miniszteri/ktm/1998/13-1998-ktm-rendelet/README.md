@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-13-20-6
 | 2010-05-06 | 1998-13-20-6D.7 | 10/2010. (IV. 28.) KvVM rendelet |
 | 2012-02-01 | 1998-13-20-6D.8 | 148/2011. (XII. 29.) VM rendelet |
 | 2012-04-21 | 1998-13-20-6D.9 | 36/2012. (IV. 13.) VM rendelet |
+| 2013-07-19 | 1998-13-20-6D.10 | 58/2013. (VII. 11.) VM rendelet |

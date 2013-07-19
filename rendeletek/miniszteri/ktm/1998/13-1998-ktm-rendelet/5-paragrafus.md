@@ -1,7 +1,8 @@
 5. § (1) A Nyilvántartást kézi és számítógépes nyilvántartási rendszerben is vezetni kell. A Nyilvántartás és más nyilvántartások közötti kapcsolatot a barlang nyilvántartási száma alapján kell biztosítani.
 
-(2) A Nyilvántartás számítógépes nyilvántartási rendszerének illeszkednie kell az Országos Környezetvédelmi Információs Rendszerhez, továbbá a Kincstári Vagyoni Igazgatóság által vezetett kincstári vagyonnyilvántartás adataival való adategyezőséget meg kell teremteni.
+(2)[^9] A Nyilvántartás számítógépes nyilvántartási rendszerének illeszkednie kell az Országos Környezetvédelmi Információs Rendszerhez, továbbá a Magyar Nemzeti Vagyonkezelő Zrt. által az állami vagyonról vezetett nyilvántartás adataival való adategyezőséget meg kell teremteni.
 
-(3)[^5] A Nyilvántartás rendszerének meghatározásáért, annak pontos vezetéséért, az adatnyilvántartás rendjéért, az adatszolgáltatás teljesítéséért, a közérdekű adatok hozzáférhetővé tételéért, továbbá az államtitokká, szolgálati titokká minősített, illetve a Nyilvántartásban szereplő személyes adat védelméért – ha jogszabály másként nem rendelkezik – a Minisztérium természetvédelmi feladatok ellátásért felelős szakállamtitkára a felelős.
+(3)[^10]
 
-[^5]: Az 5. § (3) bekezdése a 3/2007. (I. 22.) KvVM rendelet 3. §-ával megállapított szöveg.
+[^9]: Az 5. § (2) bekezdése az 58/2013. (VII. 11.) VM rendelet 23. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (3) bekezdését az 58/2013. (VII. 11.) VM rendelet 24. §-a hatályon kívül helyezte.

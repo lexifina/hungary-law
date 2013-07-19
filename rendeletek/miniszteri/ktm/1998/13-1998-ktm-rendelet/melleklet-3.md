@@ -4,15 +4,17 @@
 
 ## Almási-zsomboly
 
-## Baradla-barlang (látogatók számára nem megnyitott szakaszok)
+## Baradla-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
-## Baradla-Hosszú-Alsóbarlang
+## Baradla Hosszú-Alsó-barlang
+
+## Baradla Rövid-Alsó-barlang
 
 ## Baradla-tetői-zsomboly
 
 ## Bába-völgyi 2. sz. víznyelő barlangja
 
-## Béke-barlang (látogatók számára nem megnyitott szakaszok)
+## Béke-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Csapás-tetői-barlang
 
@@ -22,7 +24,7 @@
 
 ## Esztramosi Felső-táró 2. sz. ürege
 
-## Esztramosi (Földvári)-barlang
+## Esztramosi Földvári Aladár-barlang
 
 ## Frank-barlang
 
@@ -30,7 +32,7 @@
 
 ## Imolai-ördöglyuk
 
-## Kopaszgaly-oldali 2. sz. víznyelőbarlang
+## Kopaszgally-oldali 2. sz. víznyelőbarlang
 
 ## Kopasz-vigasz-barlang
 
@@ -40,7 +42,7 @@
 
 ## Meteor-barlang
 
-## Rákóczi 1. sz. barlang (látogatók számára nem megnyitott szakaszok)
+## Rákóczi 1. sz. barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Rákóczi 2. sz. barlang
 
@@ -58,7 +60,7 @@
 
 ## Teresztenyei-forrásbarlang
 
-## Vass Imre-barlang (látogatók számára nem megnyitott szakaszok)
+## Vass Imre-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Vecsem-bükki-zsomboly
 
@@ -72,7 +74,7 @@
 
 ## Bányász-barlang
 
-## Bolhási-Jávorkúti-barlangrendszer (látogatók számára nem megnyitott szakaszok)
+## Bolhási-Jávorkúti-barlangrendszer (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Borókás-tebri 2. sz. víznyelőbarlang
 
@@ -82,9 +84,9 @@
 
 ## Diabáz-barlang
 
-## Diósgyőr-tapolcai-barlang (a fürdő céljára nem hasznosított szakaszok)
+## Diósgyőr-tapolcai-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
-## Esztáz-kői-barlang (látogatók számára nem megnyitott szakaszok)
+## Esztáz-kői-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Fecske-lyuk
 
@@ -92,13 +94,15 @@
 
 ## Garadna-forrásbarlang
 
-## Gyurkó-lápai-barlang (látogatók számára nem megnyitott szakaszok)
+## Gyurkó-lápai-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Hajnóczy-barlang
 
 ## Három-kúti-barlang
 
-## Hillebrand Jenő-barlang (látogatók számára nem megnyitott szakaszok)
+## Herman Ottó-barlang
+
+## Hillebrand Jenő-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## István-lápai-barlang
 
@@ -106,11 +110,11 @@
 
 ## Kis-kőháti-zsomboly
 
-## Kő-lyuk (látogatók számára nem megnyitott szakaszok)
+## Kő-lyuk (idegenforgalom számára nem megnyitott szakaszok)
 
-## Lilla-barlang (látogatók számára nem megnyitott szakaszok)
+## Lilla-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
-## Létrási-vizesbarlang (látogatók számára nem megnyitott szakaszok)
+## Létrási-vizesbarlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Mexikó-völgyi-víznyelőbarlang
 
@@ -126,11 +130,13 @@
 
 ## Szeleta-zsomboly
 
-## Szent István-barlang (látogatók számára nem megnyitott szakaszok)
+## Szent István-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Szepesi-Láner-barlangrendszer
 
 ## Szirén-barlang
+
+## Szivárvány-Sebes-barlangrendszer
 
 ## Tatár-árki-barlang
 
@@ -138,13 +144,17 @@
 
 ## Vesszős-gerinci-barlang
 
-## Vénusz-barlang (látogatók számára nem megnyitott szakaszok)
+## Vénusz-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Viktória-barlang
 
 ## Cserhát hegység
 
-## Felsőpetényi-barlangok
+## Felsőpetényi Nagy-kaverna
+
+## Macskás-barlang
+
+## Csillagköd-barlang
 
 ## Nézsai-víznyelőbarlang
 
@@ -152,7 +162,7 @@
 
 ## Csörgő-lyuk
 
-## 3. Duna–Ipoly Nemzeti Park Igazgatóság működési területén
+## 3. Duna-Ipoly Nemzeti Park Igazgatóság működési területén
 
 ## Bakony hegység
 
@@ -160,25 +170,25 @@
 
 ## Budai-hegység
 
-## Bagyura-Harcsaszájú-Kis-Hideglyuk-barlangrendszer
-
 ## Barit-barlang
 
 ## Bátori-barlang
 
 ## Bekey-barlang
 
-## Budai Vár-barlang (látogatók számára nem megnyitott szakaszok)
+## Budai Vár-barlang (idegenforgalom számára nem megnyitott szakaszok)
+
+## Citadella-kristálybarlang
 
 ## Ferenc-hegyi-barlang
 
 ## Gellért-hegyi-aragonit-barlang
 
-## Hideg-lyuk
-
 ## József-hegyi-barlang
 
 ## József-hegyi 2–3. sz. barlang
+
+## Királylaki-táró-barlangja
 
 ## Látó-hegyi-barlang
 
@@ -186,13 +196,13 @@
 
 ## Ördögárok utcai-barlang
 
-## Pálvölgyi-Mátyáshegyi-barlangrendszer (látogatók számára nem megnyitott szakaszok)
+## Pál-völgyi-barlangrendszer (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Rácskai-barlang
 
-## Solymári-ördöglyuk (látogatók számára nem megnyitott szakaszok)
+## Solymári-ördöglyuk (idegenforgalom számára nem megnyitott szakaszok)
 
-## Szemlő-hegyi-barlang (látogatók számára nem megnyitott szakaszok)
+## Szemlő-hegyi-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Tábor-hegyi-barlang
 
@@ -204,7 +214,7 @@
 
 ## Bajóti Büdös-lyuk
 
-## Bartha-kút-barlang
+## Bartha-kútbarlang
 
 ## Dorogi 9. és 10. sz. kaverna
 
@@ -264,11 +274,11 @@
 
 ## Arany-lyuk
 
-## Ariadne-barlang
+## Ariadne-barlangrendszer
 
-## Kis-Strázsahegyi-hasadékbarlang
+## Csókavári-barlang
 
-## Leány-Legény-barlangrendszer
+## Kis-Strázsa-hegyi-hasadékbarlang
 
 ## Nagy-Somlyóhegyi-barlang
 
@@ -278,11 +288,9 @@
 
 ## Pomázi Felső-barlang
 
-## Porhintő-barlang
-
 ## Róka-hegyi-barlang
 
-## Sátorkőpusztai-barlang (látogatók számára nem megnyitott szakaszok)
+## Sátorkőpusztai-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Strázsa-hegyi barlang (lezárt szakaszok)
 
@@ -290,7 +298,9 @@
 
 ## Szent Özséb-barlang
 
-## Szoplaki-ördöglyuk
+## Szopláki-ördöglyuk
+
+## Szurdok-völgyi 2. sz. víznyelő
 
 ## Ürömi-víznyelőbarlang
 
@@ -300,11 +310,7 @@
 
 ## Vértessomlói-barlang
 
-## Visegrádi-hegység
-
-## Széchy Dénes-barlang
-
-## 4. Balatoni Nemzeti Park Igazgatóság működési területén
+## 4. Balaton-felvidéki Nemzeti Park Igazgatóság működési területén
 
 ## Bakony hegység
 
@@ -316,17 +322,17 @@
 
 ## Csipkés-zsomboly
 
-## Diófás-zsomboly
-
-## Hajszabarnai-barlang
+## Hajszabarnai Pénz-lik
 
 ## Háromkürtő-zsomboly
 
 ## Jubileum-zsomboly
 
-## Károlyházi-zsomboly
+## Károlyházi-nyelő barlangja
 
 ## Kőris-hegyi-ördöglik
+
+## Őskarszt-akna
 
 ## Pipa-zsomboly
 
@@ -344,29 +350,27 @@
 
 ## Cserszegtomaji-kútbarlang
 
-## Csodabogyós-barlang (látogatók számára nem megnyitott szakaszok)
+## Csodabogyós-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Döme-barlang
 
-## Edericsi Szél-lik
-
 ## Jakucs László-barlang
+
+## Kessler Hubert-barlang
+
+## Szél-lik
 
 ## Tapolcai-medence
 
-## Berger Károly-barlang
+## Tapolcai-barlangrendszer (idegenforgalom számára nem megnyitott és gyógyászati célra nem hasznosított szakaszok)
 
-## Tapolcai Kórház-barlang (a gyógyászati célra nem hasznosított szakaszok)
-
-## Tapolcai-tavasbarlang (látogatók számára nem megnyitott szakaszok)
-
-## 5. Duna–Dráva Nemzeti Park Igazgatóság működési területén
+## 5. Duna-Dráva Nemzeti Park Igazgatóság működési területén
 
 ## Mecsek hegység
 
-## Abaligeti-barlang (nem megnyitott szakaszok)
+## Abaligeti-barlang (idegenforgalom számára nem megnyitott szakaszok)
 
-## Büdös-kúti-zsomboly
+## Büdöskúti-zsomboly
 
 ## Duó-zsomboly
 
@@ -378,15 +382,15 @@
 
 ## Mánfai-kőlyuk
 
-## Mészégető-források barlangja (látogatók számára nem megnyitott szakaszok)
+## Mészégető-források barlangja (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Orfűi Vízfő-barlang
 
 ## Remény-zsomboly
 
-## Spirál-víznyelőbarlang
+## Spirál-víznyelő
 
-## Szuadó-völgyi-víznyelőbarlang (látogatók számára nem megnyitott szakaszok)
+## Szuadó-völgyi-víznyelőbarlang (idegenforgalom számára nem megnyitott szakaszok)
 
 ## Tettyei-forrásbarlang
 
@@ -400,10 +404,10 @@
 
 ## Nagyharsányi-kristálybarlang
 
-## 6. Fertő–Hanság Nemzeti Park Igazgatóság működési területén
+## 6. Fertő-Hanság Nemzeti Park Igazgatóság működési területén
 
-## Szárhalmi-barlang
+## Soproni Zsivány-barlang
 
-3. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^43]
+3. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^93]
 
-[^43]: A 3.számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^93]: A 3.számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
