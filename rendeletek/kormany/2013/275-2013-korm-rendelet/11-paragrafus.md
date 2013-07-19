@@ -1,0 +1,3 @@
+## 10. § Az építési termékre vonatkozó harmonizált szabvány vagy európai műszaki értékelés hiányában az olyan építési termék, amelyet az ott irányadó előírásoknak megfelelően az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, betervezhető és beépíthető, ha az előírások az élet- és egészségvédelem, a biztonság és az adott célra való alkalmasság tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
+
+## 8. Záró rendelkezések

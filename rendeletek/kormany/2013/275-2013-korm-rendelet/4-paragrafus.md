@@ -1,0 +1,41 @@
+## 4. Az építési termék építménybe történő betervezésének és beépítésének szabályai
+
+4. § (1) A tervező az építménybe betervezett építési termék elvárt műszaki teljesítményét
+
+a) az építési termék építményben való felhasználásának módja,
+
+b) az építési termék várható élettartama alatt az építésből, az építmény használatából és az üzemeltetéséből származó hatások,
+
+c) az építményt érő várható hatások, és
+
+d) a jogszabályokban az építési termékre, valamint a tervezett épületszerkezetre vonatkozóan meghatározott követelmények és szakmai szabályok
+
+## figyelembevételével határozza meg.
+
+(2) Ha a beépítendő termék teljesítményére jogszabály követelményt állapít meg, építészeti-műszaki dokumentáció hiányában az építési termékek elvárt műszaki teljesítményét az (1) bekezdésben meghatározott szempontok figyelembevételével az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint az építési szerződésben kell meghatározni.
+
+(3) Ha a tervező egy bizonyos, egyértelműen beazonosítható építési terméket jelöl meg, az egyben az elvárt műszaki teljesítmény meghatározását is jelenti, azzal, hogy ilyen esetben a termék műszaki előírásában foglalt összes teljesítménykategória lényegesnek tekintendő és az elvárt műszaki teljesítmény ezek szintje, osztálya vagy leírása.
+
+(4) Amennyiben a tervező az építési termékeket nem a (3) bekezdés szerint jelöli meg, hanem az építési termékekre vonatkozóan elvárt műszaki teljesítményeket határoz meg, az építészeti-műszaki dokumentáció az építménybe betervezett építési termékek elvárt teljesítményére vonatkozóan legalább a következő információt tartalmazza:
+
+a) a tartószerkezet – előre gyártott építési elemek vagy késztermékek esetén –
+
+aa) anyagának megjelölését, főbb méreteit,
+
+ab) alkalmazott terméktípusának megnevezését, amennyiben már ismert;
+
+b) a tartószerkezetnek az állékonyság és mechanikai szilárdság szempontjából legjellemzőbb elvárt teljesítményét, amennyiben azokra jogszabály vagy jogszabályban hivatkozott szabvány követelményt állapít meg;
+
+c) az egyéb építményszerkezetben az építési terméknek a felhasználás szempontjából legjellemzőbb elvárt termékjellemzőit, amelyekre jogszabály vagy jogszabályban hivatkozott szabvány tűzvédelmi (pl. tűzállósági határérték, tűzvédelmi osztály), épületenergetikai (pl. hőátbocsátási tényező), zajvédelmi vagy egészségvédelmi követelményt állapít meg;
+
+d) akadálymentes kialakítás esetén alkalmazott burkolatok, rácsok, kapaszkodók, lépcső elemek, ajtócsukó berendezések és más speciális építési termékek elvárt teljesítményét;
+
+e) amennyiben jogszabály, szabvány vagy a tervezési program a tervezett építmény szempontjából közegészségügyi, biztonsági vagy más követelményeket tartalmaz, akkor a követelmények teljesítéséhez szükséges mértékben és részletezettséggel kell megadni az alkalmazott építési termékek elvárt teljesítményét;
+
+f) a létesítendő épületgépészeti rendszerek (fűtési, hűtési, gépi szellőztetési és használati melegvíz-előállító) berendezéseinek elvárt termékjellemzőit, amennyiben az épületek energetikai jellemzőinek meghatározásáról szóló rendelet követelményt állapít meg.
+
+(5) A tervező a kivitelezés megkezdéséhez szükséges kivitelezési dokumentáció elkészítése során az elvárt műszaki teljesítmények alapján meghatározza a beépítésre kerülő építési termékeket. A meghatározásnak a termék kereskedelmi forgalomból való beszerzéséhez elegendő információt kell tartalmaznia.
+
+(6) Ha az 1. melléklet az építési termékre vonatkozóan a jellemző beépítési mód függvényében lényeges terméktulajdonságokat állapít meg, az építési termék elvárt műszaki teljesítményét a tervező ezekkel a terméktulajdonságokkal is meghatározhatja.
+
+(7) A (6) bekezdésben meghatározott feltételektől a tervező a beépítés feltételeinek függvényében eltérhet.
