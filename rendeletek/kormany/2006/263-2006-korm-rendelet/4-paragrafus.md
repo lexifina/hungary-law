@@ -34,7 +34,7 @@ j)[^12] a közúti biztonsági auditori képzés és továbbképzés engedélyez
 
 k)[^13] az országos közúthálózatba tartozó autópályák, autóutak és a közúti határátkelőhelyek hídjai, valamint a harminc méter szabadnyílást meghaladó hidak kiviteli tervének jóváhagyása
 
-l)[^14] a forgalmazási követelmények szabályozása tekintetében a közlekedésért felelős miniszter szabályozási feladatkörébe tartozó vasúti és közúti termékek megfelelőségértékelését végző megfelelőségértékelő szervezetek kijelölése, ellenőrzése, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyelete,
+l)[^14] a forgalmazási követelmények szabályozása tekintetében – az építési termékek kivételével – a közlekedésért felelős miniszter szabályozási feladatkörébe tartozó vasúti és közúti termékek megfelelőségértékelését végző megfelelőségértékelő szervezetek kijelölése, ellenőrzése, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyelete,
 
 m)[^15] a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (a továbbiakban: ADR) „A” Melléklet 1. rész 1.9.5 szakaszában és „B” Melléklet 8. rész 8.6 fejezetében az alagutakkal kapcsolatos közlekedési hatósági hatáskörök gyakorlása
 
@@ -253,7 +253,7 @@ b) a közúti járműre előírt tömeg- és mérethatárok betartásának ellen
 [^11]: A 4. § (2) bekezdés h) pontja a 175/2011. (VIII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
 [^12]: A 4. § (2) bekezdés j) pontját a 175/2011. (VIII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
 [^13]: A 4. § (2) bekezdés k) pontját a 175/2011. (VIII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell. E módosító rendelet 18. §-a alapján a 2011. január 1. napját megelőzően meghozott – 30 méter szabadnyílást meghaladó – műtárgy építési engedélyétől való eltérés engedélyezése, az engedély érvényességi idő meghosszabbítása, illetve engedély átruházása az Útügyi, Vasúti és Hajózási Hivatal hatáskörébe tartozik.
-[^14]: A 4. § (2) bekezdés l) pontját a 282/2011. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^14]: A 4. § (2) bekezdés l) pontját a 282/2011. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 275/2013. (VII. 16.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^15]: A 4. § (2) bekezdés a) pontját a 323/2012. (XI. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^16]: A 4. § (3) bekezdése a 175/2011. (VIII. 31.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
 [^17]: A 4. § (3) bekezdés 1. pontja a 212/2012. (VII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
