@@ -8,6 +8,8 @@
 
 (3) A 64–67. § rendelkezései a kihirdetést követő 8. napon lépnek hatályba.
 
-(4)–(5)
+(4) Az 5–6. §-nak a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezései nem alkalmazhatók a Módtv. hatálybalépésekor folyamatban lévő eljárásokban.
+
+(5)
 
 (6)–(8)

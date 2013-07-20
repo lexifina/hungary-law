@@ -4,7 +4,7 @@
 
 a) üzlet: a rendszeresen (állandóan vagy ideiglenes jelleggel) nyitva tartó kereskedelmi, illetve vendéglátó, idegenforgalmi és szálláshely-szolgáltató értékesítő hely;
 
-b) üzemeltető: a működési engedéllyel rendelkező személy;
+b) üzemeltető: az üzletet a kereskedelemről szóló 2005. évi CLXIV. törvény 3. § (6) bekezdés a) pontjában meghatározott engedély, vagy b) pontjában meghatározott bejelentés alapján működtető személy;
 
 c) foglalkoztatott: az üzletben munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében munkát végző személy;
 
