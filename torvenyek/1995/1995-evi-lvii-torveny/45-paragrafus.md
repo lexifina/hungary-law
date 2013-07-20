@@ -54,7 +54,7 @@ s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, ill
 
 t) a vizek kártételei elleni védekezés részletes feladatainak és módjának;
 
-u)
+u) a szabad vízen, valamint a szabad vizek jegén való tartózkodás szabályainak, az azokon tartott rendezvény, munkavégzés engedélyezése, bejelentése eljárási szabályainak, valamint a viharjelzéssel kapcsolatos szabályoknak;
 
 v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
 

@@ -1,0 +1,1 @@
+5/B. § A szabad vízen, valamint a szabad vizek jegén való tartózkodás, az azokon tartott rendezvény, munkavégzés engedélyezésének, bejelentésének eljárási szabályait, valamint a viharjelzéssel kapcsolatos szabályokat kormányrendelet állapítja meg.
