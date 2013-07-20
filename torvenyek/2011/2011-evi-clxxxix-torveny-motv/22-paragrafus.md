@@ -8,7 +8,7 @@
 
 (3) A fővárosi önkormányzat olyan önkormányzat, amely a települési és a területi önkormányzat feladat- és hatásköreit is elláthatja. A fővárosi önkormányzat képviselő-testülete a közgyűlés. A közgyűlést a főpolgármester képviseli.
 
-(4) A főváros területe kerületekre tagozódik, minden fővárosi kerületben települési önkormányzat működik.
+(4) A főváros területe kerületekre, valamint a fővárosi önkormányzat által közvetlenül igazgatott Margitszigetre tagozódik. Minden fővárosi kerületben települési önkormányzat működik.
 
 (5) A fővárosban főpolgármesteri hivatal, a fővárosi kerületben polgármesteri hivatal működik. A főpolgármesteri hivatalt a főjegyző, a kerületi polgármesteri hivatalt a jegyző vezeti. A fővárosban és a fővárosi kerületben több aljegyző is kinevezhető.
 

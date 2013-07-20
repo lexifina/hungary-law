@@ -2,7 +2,7 @@
 
 23. § (1) A fővárosi önkormányzat az e törvényben meghatározottak szerint ellátja mindazokat a terület- és településfejlesztési, valamint területrendezési, településrendezési és településüzemeltetési feladatokat, amelyek a főváros egészét érintik, vagy amelyek a fővárosnak az országban betöltött különleges szerepköréhez kapcsolódnak.
 
-(2) A fővárosi önkormányzat látja el – a (4) és (5) bekezdésben szabályozott feladatmegosztás szerint – a főváros egészét, valamint a több kerületét érintő helyi önkormányzati feladatokat.
+(2) A fővárosi önkormányzat látja el – a (4) és (5) bekezdésben szabályozott feladatmegosztás szerint – a főváros egészét, több kerületét, valamint a fővárosi önkormányzat által közvetlenül igazgatott Margitszigetet érintő helyi önkormányzati feladatokat.
 
 (3) A fővárosi kerületi önkormányzatok – törvény keretei között – önállóan gyakorolják a települési önkormányzatokat megillető valamennyi feladat- és hatáskört, amelyet törvény nem utal a fővárosi önkormányzat kizárólagos feladat- és hatáskörébe, valamint ellátják az (1) bekezdésbe nem tartozó településfejlesztési, valamint településrendezési és településüzemeltetési feladatokat.
 
