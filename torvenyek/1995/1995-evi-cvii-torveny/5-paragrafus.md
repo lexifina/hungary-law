@@ -4,9 +4,9 @@
 
 ## Az Országos Parancsnokság
 
-5. § Az Országos Parancsnokság a jogszabályok, a miniszter döntései és az országos parancsnok intézkedései alapján
+5. § Az Országos Parancsnokság a jogszabályok, a miniszter döntései és az országos parancsnok utasításai, valamint egyedi intézkedései alapján
 
-a) előkészíti az országos parancsnok intézkedéseit, parancsait és előterjesztéseit;
+a) előkészíti az országos parancsnok utasításait, parancsait és előterjesztéseit;
 
 b) felügyeli, ellenőrzi és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak nevelésével, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával kapcsolatos tevékenységet;
 

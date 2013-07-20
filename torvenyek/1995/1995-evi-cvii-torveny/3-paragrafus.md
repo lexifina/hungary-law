@@ -20,7 +20,7 @@ g) jogszabályban meghatározottak szerint munkáltatói jogkört gyakorol;
 
 h) meghatározza a kizárólag hivatásos szolgálati jogviszonyban álló személyekkel betölthető beosztásokat;
 
-i)
+i) kinevezi, illetve felmenti a büntetés-végrehajtás országos parancsnokát, illetve az országos parancsnok javaslatára kinevezi, illetve felmenti az országos parancsnok helyetteseit;
 
 j) rendszeresíti a bv. szervezetnél alkalmazható kényszerítő eszközöket, fegyverzeti, egyenruházati anyagokat, hír- és biztonsági rendszereket;
 
