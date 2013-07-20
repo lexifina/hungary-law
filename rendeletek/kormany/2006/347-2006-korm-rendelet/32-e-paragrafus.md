@@ -52,7 +52,7 @@ b) ha a tevékenység helyi jelentőségű védett természeti területet érint
 
 c) ha tevékenység termőföldre hatással lehet – a termőföld minőségi védelme követelményeinek való megfelelés szakkérdésében – az első fokú eljárásban a megyei kormányhivatal növény- és talajvédelmi igazgatóságát, a másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
-d) annak elbírálása kérdésében, hogy a létesítmény megfelel-e, és milyen feltételekkel felel meg a településrendezési követelményeknek és a helyi építési szabályzatnak – első fokú eljárásban a létesítmény helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, másodfokú eljárásban a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát
+d)[^101] annak elbírálása kérdésében, hogy a létesítmény megfelel-e, és milyen feltételekkel felel meg a településrendezési követelményeknek és a helyi építési szabályzatnak – első fokú eljárásban a létesítmény helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt, másodfokú eljárásban a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát
 
 [^85]: A 32/E. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^86]: A 32/E. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 170. § (4) bekezdés a) pontja szerint módosított szöveg.
@@ -70,3 +70,4 @@ d) annak elbírálása kérdésében, hogy a létesítmény megfelel-e, és mily
 [^98]: A 32/E. § (3a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 68. § (2) bekezdése iktatta be.
 [^99]: A 32/E. § (7) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 170. § (2) bekezdése szerint módosított szöveg.
 [^100]: A 32/E. § (8) bekezdését a 441/2012. (XII. 29.) Korm. rendelet 11. § (9) bekezdése iktatta be.
+[^101]: A 32/E. § (8) bekezdés d) pontja a 255/2013. (VII. 5.) Korm. rendelet 22. § (2) bekezdése szerint módosított szöveg.

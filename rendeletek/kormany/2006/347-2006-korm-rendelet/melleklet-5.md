@@ -22,6 +22,6 @@
 
 | 9. | Ha a kérelem a területfejlesztési koncepciók, programok és a területrendezési tervek tartalmi követelményeiről szóló jogszabály szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | illetékes állami főépítész | terület-rendezésért felelős miniszter |
 
-5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^146]
+5. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^147]
 
-[^146]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 441/2012. (XII. 29.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.
+[^147]: Az 5. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 441/2012. (XII. 29.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.
