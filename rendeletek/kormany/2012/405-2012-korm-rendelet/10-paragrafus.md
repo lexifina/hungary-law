@@ -1,4 +1,4 @@
-10. § (1)[^23] A földhivatal
+10. § (1)[^25] A földhivatal
 
 a) a 9. § a) pontjában meghatározott esetben a mezőgazdászi helyszínelésről a jegyzőkönyv felvételének napját,
 
@@ -6,7 +6,7 @@ b) a 9. § b) pontjában meghatározott esetben az adatváltozás ingatlan-nyilv
 
 ## követő 15 napon belül meghatározza a megosztás kiindulási helyét és irányát.
 
-(2)[^24] Ha a kérelmező a kérelemében az osztás kiindulási helyére és irányára vonatkozó javaslatot is megfogalmazott, a földhivatalnak a kérelmező javaslatában foglaltakra is figyelemmel kell lenni, feltéve, hogy az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal. A megosztás kiindulási helyét és irányát megállapító határozatban rendelkezni kell arról, hogy a jogerős döntés közlésével egyidejűleg a tulajdoni lapra a (4) bekezdés szerinti tény kerül feljegyzésre.
+(2)[^26] Ha a kérelmező a kérelemében az osztás kiindulási helyére és irányára vonatkozó javaslatot is megfogalmazott, a földhivatalnak a kérelmező javaslatában foglaltakra is figyelemmel kell lenni, feltéve, hogy az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal. A megosztás kiindulási helyét és irányát megállapító határozatban rendelkezni kell arról, hogy a jogerős döntés közlésével egyidejűleg a tulajdoni lapra a (4) bekezdés szerinti tény kerül feljegyzésre.
 
 (3) A megosztás kiindulási helyét és irányát megállapító jogerős határozat a megosztási eljárás jogerős befejezéséig hatályos. A határozatot és a jogerős határozatot a földhivatal az Fkbt. 12/G. § (2) bekezdésében meghatározott módon közli. A jogerős határozat közlésének napja a határozatnak a földhivatal hirdetőtáblájára való kifüggesztés napja.
 
@@ -14,5 +14,5 @@ b) a 9. § b) pontjában meghatározott esetben az adatváltozás ingatlan-nyilv
 
 (5) A megosztási eljárás a megosztás kiindulási helyét és irányát megállapító határozat jogerőre emelkedése és a (4) bekezdés szerinti tény feljegyzése után folytatható.
 
-[^23]: A 10. § (1) bekezdése a 70/2013. (III. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^24]: A 10. § (2) bekezdése a 70/2013. (III. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^25]: A 10. § (1) bekezdése a 70/2013. (III. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^26]: A 10. § (2) bekezdése a 70/2013. (III. 8.) Korm. rendelet 7. §-ával megállapított szöveg.

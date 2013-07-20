@@ -1,6 +1,6 @@
-## 8. [^35] A költségek viselése
+## 8. [^37] A költségek viselése
 
-22. §[^36] (1) A megosztási eljárással kapcsolatban a fővárosi és megyei kormányhivatalt kiinduló földrészletenként az 1. mellékletben meghatározott költségtérítés illeti meg.
+22. §[^38] (1) A megosztási eljárással kapcsolatban a fővárosi és megyei kormányhivatalt kiinduló földrészletenként az 1. mellékletben meghatározott költségtérítés illeti meg.
 
 (2) A 4. § (3) és (4) bekezdésében meghatározott feladatokhoz kapcsolódóan a földügyért felelős miniszter (a továbbiakban: miniszter) által nyújtott támogatás a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet 13. cikke szerinti támogatásnak minősül.
 
@@ -8,5 +8,5 @@
 
 (4) A (2) és (3) bekezdés szerinti támogatás az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak nem nyújtható.
 
-[^35]: A 8. alcím címe a 70/2013. (III. 8.) Korm. rendelet 14. § (1) bekezdése szerint módosított szöveg.
-[^36]: A 22. § a 70/2013. (III. 8.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^37]: A 8. alcím címe a 70/2013. (III. 8.) Korm. rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 22. § a 70/2013. (III. 8.) Korm. rendelet 10. §-ával megállapított szöveg.

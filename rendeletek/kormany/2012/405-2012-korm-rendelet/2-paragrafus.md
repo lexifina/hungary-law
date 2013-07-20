@@ -1,4 +1,4 @@
-2. § (1)[^4] Egy adott földrészlet vonatkozásában az osztatlan közös tulajdon megszüntetésére irányuló eljárás (a továbbiakban: megosztási eljárás) olyan egyesített eljárás, amely a következő sorrendben magába foglalja
+2. § (1)[^6] Egy adott földrészlet vonatkozásában az osztatlan közös tulajdon megszüntetésére irányuló eljárás (a továbbiakban: megosztási eljárás) olyan egyesített eljárás, amely a következő sorrendben magába foglalja
 
 a) a megosztási eljárás előkészítése érdekében a mezőgazdászi helyszínelést és a keretmérést,
 
@@ -16,7 +16,7 @@ g) a sorsolás eredménye alapján elkészített változási munkarészek vizsg�
 
 h) a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a megosztással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére irányuló eljárást (a továbbiakban: változásátvezetési eljárás).
 
-(2)[^5] E rendelet alkalmazásában az (1) bekezdés b), c), d) és h) pontja szerinti, a változás ingatlan-nyilvántartásban történő átvezetésére irányuló eljárást akkor kell jogerősen lezárultnak kell tekinteni, ha az ügy érdemében hozott határozat
+(2)[^7] E rendelet alkalmazásában az (1) bekezdés b), c), d) és h) pontja szerinti, a változás ingatlan-nyilvántartásban történő átvezetésére irányuló eljárást akkor kell jogerősen lezárultnak kell tekinteni, ha az ügy érdemében hozott határozat
 
 a) ellen a jogosultak részéről az arra nyitva álló határidőn belül fellebbezés nem került benyújtásra;
 
@@ -30,8 +30,8 @@ da) a fellebbezési határidő leteltét megelőzően visszavonták és más jog
 
 db) a fellebbezési határidő leteltét követően visszavonták;
 
-e)[^6] bírósági felülvizsgálatára nem nyújtottak be kérelmet, vagy az annak alapján indult bírósági eljárás jogerősen lezárult.
+e)[^8] bírósági felülvizsgálatára nem nyújtottak be kérelmet, vagy az annak alapján indult bírósági eljárás jogerősen lezárult.
 
-[^4]: A 2. § (1) bekezdése a 70/2013. (III. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (2) bekezdés nyitó szövegrésze a 70/2013. (III. 8.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § (2) bekezdés e) pontját a 70/2013. (III. 8.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdése a 70/2013. (III. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés nyitó szövegrésze a 70/2013. (III. 8.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés e) pontját a 70/2013. (III. 8.) Korm. rendelet 2. § (2) bekezdése iktatta be.
