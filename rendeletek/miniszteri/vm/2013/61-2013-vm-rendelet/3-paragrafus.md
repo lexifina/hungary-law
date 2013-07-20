@@ -1,0 +1,1 @@
+## „(4) Amennyiben a 2. melléklet 1. táblázat 2. sora szerinti gép- és eszközbeszerzésre a támogatási határozat kézhezvételét követően kerül sor, akkor ahhoz a kifizetési kérelemhez, amelyben az adott gépet vagy eszközt el kívánják számolni, a beszerzett tárgyra vonatkozóan legalább két részletes árajánlatot kell mellékelni.”
