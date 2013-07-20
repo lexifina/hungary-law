@@ -104,7 +104,7 @@ m) energetikai tanúsító.
 
 a) természetes személyazonosító adatok,
 
-b) lakcím, székhely,
+b) lakcím, értesítési cím, székhely,
 
 c) adóazonosító jel, adószám,
 

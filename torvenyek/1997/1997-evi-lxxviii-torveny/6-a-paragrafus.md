@@ -1,6 +1,6 @@
 6/A. § (1) E törvényben meghatározott feltételek teljesülése esetén – jogszabályban meghatározott körben és az ott meghatározottak szerint –
 
-a) a települési önkormányzat (fővárosban a kerületi önkormányzat)
+a) a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat)
 
 aa) elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek, a településkép, a rálátás és kilátás védelmét, továbbá meghatározza a település területfelhasználásához az építményekben létesíthető rendeltetések körét és a reklámok elhelyezésére vonatkozó követelményeket,
 

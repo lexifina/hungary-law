@@ -178,7 +178,7 @@ rendelettel állapítsa meg.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit a miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat) arra, hogy rendeletben állapítsa meg
+(6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) arra, hogy rendeletben állapítsa meg
 
 1. a helyi építészeti értékek védelme érdekében
 
@@ -214,7 +214,7 @@ szóló szabályokat,
 
 szóló szabályokat,
 
-2.
+2. fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait,
 
 3. a fővárosi rendezési szabályzatát,
 

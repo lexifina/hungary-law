@@ -1,6 +1,8 @@
 ## Településképi véleményezési eljárás
 
-30/C. § (1) A települési önkormányzat polgármestere a megkeresés beérkezésétől számított 15 napon belül az illeszkedési követelmények teljesítésével kapcsolatban – az összevont telepítési eljárással nem érintett, valamint az építészeti-műszaki tervtanácsról szóló kormányrendelet által nem szabályozott körben – véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez.
+30/C. § (1) A települési önkormányzat polgármestere a megkeresés beérkezésétől számított 15 napon belül az illeszkedési követelmények teljesítésével kapcsolatban – az összevont telepítési eljárással nem érintett, valamint az építészeti-műszaki tervtanácsról szóló kormányrendelet által nem szabályozott körben, az (1a) bekezdésben foglaltak kivételével – véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez.
+
+(1a) A fővárosi helyi építészeti értékvédelem alá vont építmény, illetve a fővárosi önkormányzat által közvetlenül igazgatott területen lévő építmény esetében az (1) bekezdésben meghatározott körben és módon a (2)–(4) bekezdésben meghatározottak szerint a fővárosi önkormányzat főpolgármestere adhat véleményt.
 
 (2) A polgármester az (1) bekezdés szerinti véleményének kialakításához az önkormányzat rendeletében meghatározottak szerint kikéri az önkormányzati főépítész vagy a helyi építészeti-műszaki tervtanács szakmai véleményét. Ha a polgármester az (1) bekezdésben foglalt határidőn belül nem nyilvánít véleményt, hozzájárulását megadottnak kell tekinteni.
 
