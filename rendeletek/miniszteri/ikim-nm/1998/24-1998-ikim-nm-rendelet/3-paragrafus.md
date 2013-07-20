@@ -1,1 +1,0 @@
-## Megfelelőségi jelölés és címkézés
