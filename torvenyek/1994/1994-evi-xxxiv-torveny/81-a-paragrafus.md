@@ -1,0 +1,1 @@
+81/A. § A rendőrség kezeli az általa fogadott segélyhívások esetén a hívó fél által megadott adatokat és a hívó fél által használt telefonállomás azonosított adatait a segélyhívás fogadásától számított egy évig.

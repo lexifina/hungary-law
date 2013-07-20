@@ -2,9 +2,9 @@
 
 ## A RENDŐRSÉG EGYÜTTMŰKÖDÉSE
 
-8. § (1) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv létesítéséhez és megszüntetéséhez előzetesen ki kell kérni az érintett települési, Budapesten a fővárosi kerületi önkormányzat képviselő-testületének a véleményét.
+8. § (1) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv létesítéséhez és megszüntetéséhez előzetesen ki kell kérni az érintett települési, Budapesten a fővárosi kerületi önkormányzat képviselő-testületének, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlésének a véleményét.
 
-(2) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv vezetőjének kinevezését megelőzően a kinevezési jogkör gyakorlója kikéri az illetékességi területen működő települési — Budapesten a fővárosi kerületi — önkormányzatok képviselő-testületének a véleményét. Rendőrfőkapitány esetében a megyei (fővárosi) önkormányzat képviselő-testületének véleményét kell kérni. A szükségessé váló felmentésről az illetékes önkormányzatokat — az érintettel történő közléssel egyidejűleg — tájékoztatni kell.
+(2) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv vezetőjének kinevezését megelőzően a kinevezési jogkör gyakorlója kikéri az illetékességi területen működő települési — Budapesten a fővárosi kerületi — önkormányzatok képviselő-testületének, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlésének a véleményét. Rendőrfőkapitány esetében a megyei (fővárosi) önkormányzat képviselő-testületének véleményét kell kérni. A szükségessé váló felmentésről az illetékes önkormányzatokat — az érintettel történő közléssel egyidejűleg — tájékoztatni kell.
 
 (3) Ha a települési önkormányzatok többsége, illetve a megyei (fővárosi) önkormányzat a kinevezéssel szemben foglal állást, és a kinevezési jogkör gyakorlója nem állít újabb jelöltet, döntése szakmai indokairól az érintett önkormányzatokat állásfoglalásban tájékoztatja.
 

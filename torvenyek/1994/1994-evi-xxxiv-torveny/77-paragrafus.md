@@ -6,7 +6,9 @@ a) bűnmegelőzési, felderítési, bűnüldözési (a továbbiakban együtt: b�
 
 b) rendészeti és határrendészeti feladatainak ellátásához szükséges személyes adatokat,
 
-c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes adatait
+c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes adatait,
+
+d) a segélyhívások fogadása keretében megismert személyes adatokat,
 
 kezeli.
 

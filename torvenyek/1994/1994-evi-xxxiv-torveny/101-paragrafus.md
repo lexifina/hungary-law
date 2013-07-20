@@ -6,7 +6,7 @@ b) a rendőr képesítési és egyéb alkalmassági követelményeit, valamint a
 
 c) a rendőrségi fogdák rendjét,
 
-d) a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokat, a szabad vízen való tartózkodás alapvető szabályait,
+d)
 
 e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét,
 

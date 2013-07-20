@@ -12,11 +12,15 @@
 
 (5a) A rendőrség a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott őrzött szállás területén – a lakóhelyiségek, a tisztálkodás céljára szolgáló helyiségek és a WC-k kivételével – bűnmegelőzési, valamint az őrzésbiztonsági feltételek ellenőrzése céljából képfelvevőt helyezhet el és felvételt készíthet.
 
+(5b) A rendőrség a segélyhívások fogadásával összefüggésben, a segítségnyújtási kötelezettség teljesítése, a segélyhívás alapján szükséges intézkedések megtétele céljából a fogadott segélyhívásokról felvételt készíthet.
+
 (6) Az
 
 a) (1), (2) és (5) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, körözött személy vagy tárgy azonosítása vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
 b) (5a) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+
+c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
 használható fel.
 
@@ -26,7 +30,9 @@ a) az (1) bekezdés alapján rögzített felvételt a rögzítést követő harm
 
 b) a (2) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével,
 
-c) az (5) és (5a) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével
+c) az (5) és (5a) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,
+
+d) az (5b) bekezdés alapján rögzített felvételt a rögzítést követő egy év elteltével
 
 törölni kell.
 

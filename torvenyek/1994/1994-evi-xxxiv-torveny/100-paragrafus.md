@@ -26,7 +26,9 @@ k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó s
 
 l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat,
 
-m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait.
+m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait,
+
+n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, továbbá feladatai ellátásának részletes szabályait.
 
 (2)
 

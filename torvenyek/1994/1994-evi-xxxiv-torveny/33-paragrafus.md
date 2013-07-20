@@ -22,7 +22,7 @@ b) aki bűncselekmény elkövetésével gyanúsítható;
 
 c) akitől bűncselekmény gyanúja vagy szabálysértés, valamint közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, valamint műtétnek nem minősülő módon egyéb mintavétel szükséges;
 
-d) aki a szülői felügyelet vagy a gyámság, illetőleg a nevelőszülőnél vagy gyermekotthonban történő elhelyezése alól hatálya alól engedély nélkül kivonja magát, és azt a gyermeket, akinek a körözését gyermek átadására irányuló bírósági végrehajtás során rendelték el;
+d) aki a szülői felügyelet vagy a gyámság, valamint a nevelőszülőnél vagy gyermekotthonban történő elhelyezésének hatálya alól engedély nélkül kivonja magát, és azt a gyermeket, akinek a felkutatását és előállítását gyermek átadására irányuló bírósági végrehajtás során rendelték el;
 
 e) aki a pártfogó felügyelet — külön törvényben meghatározott és a rendőrség hatáskörébe tartozó — szabályait megszegi;
 

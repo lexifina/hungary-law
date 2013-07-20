@@ -4,7 +4,7 @@
 
 a) segélyhívás esetén vagy öngyilkosság megakadályozása céljából;
 
-b) bűncselekmény elkövetésének megakadályozása, megszakítása, vagy a bűncselekmény elkövetőjének vagy gyanúsítottjának elfogása és előállítása céljából;
+b) bűncselekmény elkövetésének megakadályozása, megszakítása vagy büntetőeljárás terheltjének elfogása és előállítása céljából;
 
 c) közveszély, továbbá az életet vagy testi épséget fenyegető közvetlen veszély elhárítása, illetőleg az ilyen veszélyben lévők kimentése érdekében;
 
