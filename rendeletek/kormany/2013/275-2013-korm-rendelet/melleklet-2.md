@@ -6074,28 +6074,6 @@
 
 | 12.3 | Válaszkésleltetés |
 
-2. melléklet a 275/2013. (VII. 16.) Korm. rendelethez
+2. melléklet a 275/2013. (VII. 16.) Korm. rendelethez[^2]
 
-1. Az R1. 1. melléklet I. táblázat 13. sora helyébe a következő rendelkezés lép:
-
-|  | [A fővállalkozói szerződéshez, illetve a fővállalkozói munkavégzéshez kapcsolódó jogsértő cselekmények | A bírság összegének meghatározása (az 1/A. § szerinti számított építményérték az 1. és 2. pontban 50 millió, a 3., 4. és az 5. pontban a tervezőre vonatkozóan 5 millió, az 5. pontban az építési műszaki ellenőrre és a felelős műszaki vezetőre és a 6–16. pontban 20 millió forintot meghaladó része: SZÉ) |
-
-|  | Építtető | Építési műszaki ellenőr | Fővállalkozó kivitelező | Fővállalkozó kivitelező felelős műszaki vezetője | Kivitelezési dokumentációt készítő tervező (a továbbiakban: tervező) ] |
-
-|  | „ |  |  |  |  |  |
-
-|  | 13. Nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése |  | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft | 150 000 Ft + 0,005xSZÉ legfeljebb 800 000 Ft | 100 000 Ft + 0,005xSZÉ legfeljebb 500 000 Ft |  |
-
-|  |  |  |  |  |  | ” |
-
-2. Az R1. 1. melléklet II. táblázat 7. sora helyébe a következő rendelkezés lép:
-
-|  | [Az alvállalkozói szerződéshez, illetve az alvállalkozói munkavégzéshez kapcsolódó jogsértő cselekmények | A bírság összegének meghatározása (az 1–10. pontban az 1/A. § szerinti számított építményérték 20 millió forintot meghaladó része: SZÉ) |
-
-|  | Megrendelő vállalkozó kivitelező | A megrendelő vállalkozó kivitelező felelős műszaki vezetője | Alvállalkozó kivitelező | Az alvállalkozó felelős műszaki vezetője | Építési műszaki ellenőr ] |
-
-|  | „ |  |  |  |  |  |
-
-|  | 7. Nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése |  | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft | 150 000 Ft + 0,005xSZÉ legfeljebb 500 000 Ft | 100 000 Ft + 0,005xSZÉ legfeljebb 300 000 Ft | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft |
-
-|  |  |  |  |  |  | ” |
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

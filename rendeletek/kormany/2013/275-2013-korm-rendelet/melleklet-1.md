@@ -1,3 +1,5 @@
-## 19. § Hatályát veszti a területrendezési, a településrendezési és az építészeti-műszaki tervtanácsokról szóló 40/1999. (IV. 23.) FVM rendelet.
+## 14–19. §[^1]
 
 1. melléklet a 275/2013. (VII. 16.) Korm. rendelethez
+
+[^1]: A 14–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
