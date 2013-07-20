@@ -2,7 +2,7 @@
 
 a) a bíróság hirdetőtábláján,
 
-b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal hirdetőtábláján,
+b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján,
 
 c) az ingatlanügyi hatóság hirdetőtábláján.
 

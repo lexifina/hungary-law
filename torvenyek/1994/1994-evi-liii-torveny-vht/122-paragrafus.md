@@ -4,7 +4,7 @@ a) a bíróság hirdetőtábláján,
 
 b) a bírósági árverési csarnok hirdetőtábláján,
 
-c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal hirdetőtábláján.
+c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján.
 
 (2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
 

@@ -4,7 +4,7 @@ a) a bírósági árverési csarnokban,
 
 b) a bíróság épületében,
 
-c) a községi, városi, fővárosi kerületi önkormányzat épületében vagy a felsorolt önkormányzatok jegyzője által kijelölt helyiségben,
+c) a községi, városi, fővárosi kerületi, illetve a fővárosi önkormányzat épületében vagy a felsorolt önkormányzatok jegyzője, főjegyzője által kijelölt helyiségben,
 
 d) az adós lakásán,
 
