@@ -2,9 +2,9 @@
 
 4. § (1) Ez a rendelet a kihirdetésétől számított 8. napon lép hatályba, rendelkezéseit a folyamatban lévő engedélyezési ügyekben is alkalmazni kell.
 
-(2)[^16] E rendelet alkalmazásában külföldi természetes és jogi személy meghatározására a Tv. 3. §-ának c) és d) pontjában foglaltak az irányadóak.
+(2)[^17] E rendelet alkalmazásában külföldi természetes és jogi személy meghatározására a Tv. 3. §-ának c) és d) pontjában foglaltak az irányadóak.
 
-(3)[^17]
+(3)[^18]
 
-[^16]: A 4. § (2) bekezdése a 298/2001. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A 4. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1392. pontja hatályon kívül helyezte.
+[^17]: A 4. § (2) bekezdése a 298/2001. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 4. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1392. pontja hatályon kívül helyezte.
