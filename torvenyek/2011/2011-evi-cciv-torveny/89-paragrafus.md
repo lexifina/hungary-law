@@ -16,7 +16,7 @@ c) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárul
 
 d) a miniszter előzetes értesítése mellett,
 
-e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi – önkormányzat elővásárlási jogának biztosításával
+e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi – önkormányzat elővásárlási jogának biztosításával
 
 történhet.
 
