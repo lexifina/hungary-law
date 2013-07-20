@@ -24,4 +24,4 @@ köteles biztosítani.
 
 (3)
 
-(4) A fővárosi kerületi önkormányzat köteles biztosítani az (1)–(2) bekezdés szerinti szociális szolgáltatásokat, a 88. § (2) bekezdésében foglaltak figyelembevételével.
+(4) A fővárosi kerületi önkormányzat biztosítja az (1) és (2) bekezdés szerinti szociális szolgáltatásokat, a 88. § (2) bekezdésében foglaltak figyelembevételével. A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében az (1) és (2) bekezdés szerinti szolgáltatásokat a fővárosi önkormányzat biztosítja.

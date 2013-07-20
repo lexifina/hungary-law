@@ -6,7 +6,7 @@ b) adósságkezelési tanácsadást működtet, továbbá
 
 c) az adósságcsökkentési támogatás és a 38. § (5) bekezdés szerinti lakásfenntartási támogatás nyújtásához saját forrást különít el.
 
-(2) A fővárosi kerületi önkormányzat, valamint az a települési önkormányzat, amelyiknek területén negyvenezernél több állandó lakos él, köteles adósságkezelési szolgáltatást nyújtani.
+(2) A fővárosi önkormányzat a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében, a fővárosi kerületi önkormányzat, valamint az a települési önkormányzat, amelynek területén negyvenezernél több állandó lakos él, köteles adósságkezelési szolgáltatást nyújtani.
 
 (3) A települési önkormányzat a külön jogszabályban meghatározott feltételek szerint az adósságkezelési tanácsadást saját intézménye vagy más szerv útján biztosíthatja.
 
