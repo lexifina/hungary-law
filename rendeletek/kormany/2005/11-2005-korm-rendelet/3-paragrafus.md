@@ -22,7 +22,7 @@ a) egy főre jutó havi jövedelme nem haladja meg az öregségi nyugdíj minden
 
 b) nem rendelkezik olyan egyéb értékesíthető ingatlannal, járművel – ide nem értve a mozgáskorlátozottságra tekintettel fenntartott gépjárművet –, gépi meghajtású termelő- és munkaeszközzel, továbbá vagyoni értékű joggal, amelynek külön-külön számított forgalmi értéke meghaladja az adósság összegét.
 
-(4)[^2] A (2) bekezdés b) pontja szerinti becsült értéket a helyben kialakult forgalmi értékek figyelembevételével az ingatlan fekvése szerinti települési, fővárosi kerületi önkormányzat jegyzője (a továbbiakban: jegyző) állapítja meg.
+(4)[^2] A (2) bekezdés b) pontja szerinti becsült értéket a helyben kialakult forgalmi értékek figyelembevételével az ingatlan fekvése szerinti települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzője (a továbbiakban: jegyző) állapítja meg.
 
 (5)[^3]
 
@@ -31,6 +31,6 @@ b) nem rendelkezik olyan egyéb értékesíthető ingatlannal, járművel – id
 (7)[^4] A (6) bekezdés rendelkezéseit nem kell alkalmazni a (2) bekezdés c)–e) pontjaiban meghatározott ingatlanra.
 
 [^1]: A 3. § (2) bekezdése a 83/2005. (IV. 28.) FVM rendelet 5. §-ával megállapított szöveg.
-[^2]: A 3. § (4) bekezdése a 83/2005. (IV. 28.) FVM rendelet 6. § (3) bekezdésének a) pontja szerint módosított szöveg.
+[^2]: A 3. § (4) bekezdése a 83/2005. (IV. 28.) FVM rendelet 6. § (3) bekezdésének a) pontja, a 255/2013. (VII. 5.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
 [^3]: A 3. § (5) bekezdését a 83/2005. (IV. 28.) FVM rendelet 6. § (2) bekezdésének b) pontja hatályon kívül helyezte.
 [^4]: A 3. § (7) bekezdése a 83/2005. (IV. 28.) FVM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg.
