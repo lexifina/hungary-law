@@ -258,17 +258,17 @@
 
 |  | Elem | mg/kg száraz, törékeny, porszerű vagy hajlékony játékanyagokban | mg/kg folyékony vagy ragadós játékanyagokban | mg/kg lekapart játékanyagokban |
 
-|  | Alumínium | 5625 | 1406 | 70000 |
+|  | Alumínium | 5 625 | 1406 | 70 000 |
 
 |  | Antimon | 45 | 11,3 | 560 |
 
 |  | Arzén | 3,8 | 0,9 | 47 |
 
-|  | Bárium | 4500 | 1125 | 56000 |
+|  | Bárium | 4 500 | 1125 | 56 000 |
 
-|  | Bór | 1200 | 300 | 15000 |
+|  | Bór | 1 200 | 300 | 15 000 |
 
-|  | Kadmium | 1,9 | 0,5 | 23 |
+|  | Kadmium | 1,3 | 0,3 | 17 |
 
 |  | Króm (III) | 37,5 | 9,4 | 460 |
 
@@ -276,11 +276,11 @@
 
 |  | Kobalt | 10,5 | 2,6 | 130 |
 
-|  | Réz | 622,5 | 156 | 7700 |
+|  | Réz | 622,5 | 156 | 7 700 |
 
 |  | Ólom | 13,5 | 3,4 | 160 |
 
-|  | Mangán | 1200 | 300 | 15000 |
+|  | Mangán | 1 200 | 300 | 15 000 |
 
 |  | Higany | 7,5 | 1,9 | 94 |
 
@@ -288,13 +288,13 @@
 
 |  | Szelén | 37,5 | 9,4 | 460 |
 
-|  | Stroncium | 4500 | 1125 | 56000 |
+|  | Stroncium | 4 500 | 1125 | 56 000 |
 
-|  | Ón | 15000 | 3750 | 180000 |
+|  | Ón | 15 000 | 3750 | 180 000 |
 
 |  | Szerves ón | 0,9 | 0,2 | 12 |
 
-|  | Cink | 3750 | 938 | 46000 |
+|  | Cink | 3 750 | 938 | 46 000 |
 
 ## 14. Ezek a határértékek nem vonatkoznak azokra a játékokra vagy játékok részeire, amelyek hozzáférhetőségük, funkciójuk, térfogatuk vagy tömegük miatt egyértelműen kizárnak minden olyan veszélyt, amely a játék szopogatásából, nyalogatásából, lenyeléséből vagy a bőrrel való hosszabb érintkezéséből eredhet, hogy, ha a 9. §-ban meghatározottak szerint használják.
 
