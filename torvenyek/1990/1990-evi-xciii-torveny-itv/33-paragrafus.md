@@ -125,3 +125,5 @@ történik a kiállítása;
 41. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
 
 41. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
+
+42. a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíjköteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás.

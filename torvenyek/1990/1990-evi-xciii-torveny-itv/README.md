@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2013-06-30 | 2013. évi CIII. törvény | 1990-93-00-00.127 |
 | 2013-07-01 | 2012. évi CLXXXIV. törvény | 1990-93-00-00.128 |
 | 2013-07-06 | 2013. évi CXXIX. törvény | 1990-93-00-00.129 |
+| 2013-07-20 | 2013. évi CXXXIV. törvény | 1990-93-00-00.130 |
