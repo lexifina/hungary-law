@@ -52,7 +52,7 @@ G) Hatósági adatszolgáltatás
 
 1. Az építésügyi hatóság az általa kiadott jogerős használatbavételi, illetőleg jogerős fennmaradási engedély egy példányát, a jogerőre emelkedés közlése időpontjának megjelölésével megküldi az illetékes önkormányzati adóhatósághoz és az ingatlan fekvése szerint illetékes állami adóhatósághoz.
 
-2. A közúti közlekedési nyilvántartási szerv, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a járműnyilvántartásából, valamint az 1992. évi LXVI. törvény szerinti nyilvántartásból a január 1-jei állapotnak megfelelő adatokat január 31. napjáig közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati adóhatósággal a következő tartalommal:
+2. A közúti közlekedési nyilvántartási szerv, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a járműnyilvántartásából, valamint az 1992. évi LXVI. törvény szerinti nyilvántartásból a január 1-jei állapotnak megfelelő adatokat január 31. napjáig közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzati adóhatósággal a következő tartalommal:
 
 a) a gépjármű rendszáma, alvázszáma, személygépjármű saját tömege, tehergépjármű saját tömege és megengedett együttes tömege,
 
@@ -78,7 +78,7 @@ c) január 20. napjáig azon tulajdonos tulajdonjoga kezdetének és megszűnés
 
 d) 2011. január 20. napjáig a 2006. január 1. és 2009. december 31. közötti időszakban a közlekedési igazgatási hatóság által a járműnyilvántartásba utólagosan bejegyzett köztes tulajdonos tulajdonjoga kezdetének és megszűnésének időpontját
 
-a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati adóhatósággal.
+a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzati adóhatósággal.
 
 4. Az első fokon eljáró közlekedési igazgatási hatóság által a jármű tulajdonjogának, üzemben tartói jogának bejegyzésére, ezek valamelyikének változására irányuló eljárás során a közlekedési igazgatási ügymenetet támogató informatikai rendszerben rögzített, az ügyfél által bemutatott, a gépjármű és pótkocsi vagyonszerzési illetékének megfizetését igazoló készpénz-átutalási megbízás azonosító számát, gyártójának kódját, valamint a befizetett illeték összegét a közúti közlekedési nyilvántartást vezető szerv útján, továbbá a közúti közlekedési nyilvántartást vezető szerv a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (2) bekezdésében szereplő adatok közül a gépjármű és pótkocsi vagyonszerzési illetéke teljesítésének ellenőrzéséhez szükséges adatokat (a jármű fajtáját, gyártmányát, típusát, kategóriáját, forgalmi rendszámát, hengerűrtartalmát, kamratérfogatát, teljesítményét, össztömegét, gyártási évét, a járműtulajdonos, üzemben tartói jog jogosítottja azonosító adatait, lakcímét, székhelyét, adóazonosító számát) elektronikus úton továbbítja az állami adóhatóságnak.
 

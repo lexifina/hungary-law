@@ -30,8 +30,8 @@ a) a feleknek,
 
 b) azoknak, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van,
 
-c) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek,
+c) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főjegyzőnek,
 
 d) az ingatlanügyi hatóságnak.
 
-(5) A pályázati hirdetményt – a megérkezését követő első munkanaptól kezdődően – 15 napig ki kell függeszteni az adóhatóságnak, az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatalnak, valamint az ingatlanügyi hatóságnak a hirdetőtáblájára, és az adós kérelmére egyéb megfelelő módon is közhírré kell tenni. A kifüggesztés időtartama 30 nap azoknál a lakóingatlanoknál, amelyekre a települési önkormányzatot külön jogszabály szerint elővásárlási jog illeti meg.
+(5) A pályázati hirdetményt – a megérkezését követő első munkanaptól kezdődően – 15 napig ki kell függeszteni az adóhatóságnak, az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatalnak, illetve főpolgármesteri hivatalnak, valamint az ingatlanügyi hatóságnak a hirdetőtáblájára, és az adós kérelmére egyéb megfelelő módon is közhírré kell tenni. A kifüggesztés időtartama 30 nap azoknál a lakóingatlanoknál, amelyekre a települési önkormányzatot külön jogszabály szerint elővásárlási jog illeti meg.
