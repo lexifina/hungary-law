@@ -1,6 +1,4 @@
-47. § (1) Hatályát veszti a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény.
-
-(2) Hatályát veszti az Eütv. 200. § (6) bekezdése.
+47. § (1)–(2)
 
 (3) Hatályát veszti a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 86. § (3) bekezdésében az „a kultúráért felelős miniszter egyetértésével” szövegrész, valamint 93. § (2) bekezdés q) pontja.
 
@@ -8,11 +6,11 @@
 
 (5) Hatályát veszti
 
-a) az Rtv. 7. § (1a) bekezdése,
+a)
 
 b) az Rtv. 101. § (1) bekezdés d) pontja,
 
-c) az Rtv. 101. § (1) bekezdés j) pontja,
+c)
 
 d) a Bv.Sztv. 4. § (2) bekezdés c) pontja.
 
@@ -21,11 +19,3 @@ d) a Bv.Sztv. 4. § (2) bekezdés c) pontja.
 a) 63. § (2) bekezdésében az „ , amelyet az elrendelő hatóság székhelye szerint illetékes rendőrkapitánysághoz kell megküldeni” szövegrész,
 
 b) 63. § (3) bekezdés második mondata.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

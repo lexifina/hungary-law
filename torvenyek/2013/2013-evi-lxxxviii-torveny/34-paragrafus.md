@@ -86,13 +86,7 @@
 
 (kezeli.)
 
-(12) Az Rtv. 77. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(A rendőrség feladatai ellátása során)
-
-## „e) a körözési eljárás lefolytatásához szükséges adatokat”
-
-(kezeli.)
+(12)
 
 (13) Az Rtv. a következő 81/A. §-sal egészül ki:
 
@@ -104,15 +98,7 @@
 
 ## „d) a segélyhívások fogadása keretében megismert egészségi állapotra, kóros szenvedélyre vonatkozó személyes adatokat.”
 
-(15) Az Rtv. 91/C. § (1) bekezdésében a „bűnüldözési célból” szövegrész helyébe a „bűnüldözési célból és körözési eljárás során” szöveg lép.
-
-(16) Az Rtv. 91/C. § (2) bekezdésében a „személy- és tárgykörözés” szövegrész helyébe a „körözési eljárás” szöveg lép.
-
-(17) Azt Rtv. 91/Q. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A rendőrség a közigazgatási feladatainak ellátása céljából – a külön törvény alapján kezelhető adatokon kívül – kezeli:)
-
-## „d) a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,”
+(15)–(17)
 
 (18) Az Rtv. 100. § (1) bekezdése a következő n) ponttal egészül ki:
 
@@ -120,4 +106,4 @@
 
 ## „n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, továbbá feladatai ellátásának részletes szabályait.”
 
-(19) Az Rtv. 91/K. § (1) bekezdés b) pontjában, valamint a 91/O. § (1) bekezdés c) pontjában az „információs rendszer” szövegrész helyébe a „nyilvántartási rendszer” szövegrész lép.
+(19)

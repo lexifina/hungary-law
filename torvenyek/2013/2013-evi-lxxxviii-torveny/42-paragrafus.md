@@ -1,3 +1,1 @@
-## „(17) Az elektronikus hírközlési szolgáltató az adatkérésre körözési eljárás lefolytatása érdekében a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.”
-
 42. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 96. § (1) bekezdése helyébe a következő rendelkezés lép:
