@@ -4,6 +4,7 @@
 
 (3) Közterület burkolatának építésénél és -felújításánál a fás szárú növény töve körül legalább 2,25 m2 víz- és légáteresztő felületet kell hagyni.
 
-(4) Az érintett földrészlet fekvése szerinti települési önkormányzat (fővárosban a kerületi önkormányzat) jegyzője (továbbiakban: jegyző) a használót az (1)–(3) bekezdésben és a 4. §-ban meghatározott fenntartási és kezelési feladatok, továbbá a 2. § szerinti telepítési előírások teljesítésére kötelezheti.
+(4)[^7] Az érintett földrészlet fekvése szerinti települési önkormányzat (fővárosban a kerületi önkormányzat) jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban: jegyző) a használót az (1)–(3) bekezdésben és a 4. §-ban meghatározott fenntartási és kezelési feladatok, továbbá a 2. § szerinti telepítési előírások teljesítésére kötelezheti.
 
 [^6]: Az 5. § (2) bekezdése a 9. § (2) bekezdése alapján 2010. szeptember 1-jén lép hatályba.
+[^7]: Az 5. § (4) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 25. §-a szerint módosított szöveg.

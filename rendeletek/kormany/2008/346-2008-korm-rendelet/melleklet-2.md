@@ -18,7 +18,7 @@
 
 ## * Kivéve a kertészeti változatok.
 
-2. melléklet a 346/2008. (XII. 30.) Korm. rendelethez[^17]
+2. melléklet a 346/2008. (XII. 30.) Korm. rendelethez[^18]
 
 FAKIVÁGÁSI ENGEDÉLYKÉRELEM / BEJELENTÉS*
 
@@ -70,4 +70,4 @@ Kelt: ………………………, …………………
 
 kérelmező aláírása
 
-[^17]: A 2. mellékletet a 125/2012. (VI. 26.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^18]: A 2. mellékletet a 125/2012. (VI. 26.) Korm. rendelet 6. § (2) bekezdése iktatta be.
