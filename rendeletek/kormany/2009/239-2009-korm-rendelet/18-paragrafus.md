@@ -2,11 +2,11 @@
 
 (2) Az e rendelet hatálybalépésekor a magánszálláshelyek idegenforgalmi célú hasznosításáról szóló 110/1997. (VI. 25.) Korm. rendelet [a továbbiakban: 110/1997. (VI. 25.) Korm. rendelet] – az e rendelet hatálybalépését megelőző napon hatályos – 2. §-a szerinti nyilvántartásba (a továbbiakban: magánszálláshely-nyilvántartás) vett szálláshely-szolgáltató által üzemeltetett szálláshelyek a 3. melléklet II. pontjában meghatározott megfelelési szabályok szerint az e rendelet szerinti szálláshely-üzemeltetési engedéllyel rendelkező szálláshelynek minősülnek azzal, hogy a szálláshely-üzemeltetési engedély jogosultjának a magánszálláshely-nyilvántartásban szereplő szállásadót kell tekinteni.
 
-(3)[^17]
+(3)[^18]
 
 (4) Ha az (1) és a (2) bekezdés hatálya alá tartozó szálláshely tekintetében a 13. §-ban előírt adatokban változás következik be, a szálláshely-szolgáltató köteles az adatváltozást haladéktalanul bejelenteni a jegyzőnek. A jegyző az adatváltozás tekintetében a 13. § szerint jár el.
 
-(5)[^18]
+(5)[^19]
 
-[^17]: A 18. § (3) bekezdését a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^18]: A 18. § (5) bekezdését a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^18]: A 18. § (3) bekezdését a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^19]: A 18. § (5) bekezdését a 281/2010. (XII. 15.) Korm. rendelet 6. §-a hatályon kívül helyezte.
