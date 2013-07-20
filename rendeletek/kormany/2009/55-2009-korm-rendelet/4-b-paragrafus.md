@@ -1,4 +1,4 @@
-4/B. §[^39] (1)[^40] A helyi termelői piac üzemeltetésére irányuló szándékot a fenntartónak a piac helye szerint illetékes települési, Budapesten a kerületi önkormányzat jegyzőjénél kell bejelentenie.
+4/B. §[^39] (1)[^40] A helyi termelői piac üzemeltetésére irányuló szándékot a fenntartónak a piac helye szerint illetékes települési, Budapesten a kerületi önkormányzat jegyzőjénél, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnél kell bejelentenie.
 
 (2) A fenntartónak a helyi termelői piac üzemeltetésére irányuló bejelentése – a Szolgtv.-ben meghatározottakon túl – tartalmazza:
 
@@ -39,7 +39,7 @@ f) a Nemzeti Adó- és Vámhivatalnak.
 (6)[^46] A helyi termelői piac fenntartója a (2) bekezdésben meghatározott adatokban bekövetkezett változásokat haladéktalanul köteles bejelenteni a jegyzőnek. A jegyző a változást a nyilvántartásba bejegyzi.
 
 [^39]: A 4/B. §-t a 260/2011. (XII. 7.) Korm. rendelet 4. §-a iktatta be.
-[^40]: A 4/B. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^40]: A 4/B. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
 [^41]: A 4/B. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^42]: A 4/B. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (3) bekezdése iktatta be.
 [^43]: A 4/B. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gb) alpontja szerint módosított szöveg.

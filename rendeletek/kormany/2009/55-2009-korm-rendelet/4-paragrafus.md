@@ -1,8 +1,8 @@
 ## 3. §[^13]
 
-4. § (1)[^14] A Kormány a Kertv. 6/A. §-a és 6/G. § c) pontja, valamint e rendelkezésekkel összefüggésben a Kertv. 9. § (1), (4) és (5) bekezdése tekintetében kereskedelmi hatóságként, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) tekintetében a szolgáltatás felügyeletét ellátó hatóságként a vásár, a piac, a helyi piac, valamint a bevásárlóközpont helye szerinti települési, Budapesten a kerületi önkormányzat jegyzőjét jelöli ki.
+4. § (1)[^14] A Kormány a Kertv. 6/A. §-a és 6/G. § c) pontja, valamint e rendelkezésekkel összefüggésben a Kertv. 9. § (1), (4) és (5) bekezdése tekintetében kereskedelmi hatóságként, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) tekintetében a szolgáltatás felügyeletét ellátó hatóságként a vásár, a piac, a helyi piac, valamint a bevásárlóközpont helye szerinti települési, Budapesten a kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki.
 
-(2)[^15] A vásár vagy a piac üzemeltetését a vásár vagy piac helye szerint illetékes települési, Budapesten a kerületi önkormányzat jegyzője engedélyezi.
+(2)[^15] A vásár vagy a piac üzemeltetését a vásár vagy piac helye szerint illetékes települési, Budapesten a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző engedélyezi.
 
 (3)[^16] A vásár-, illetve piacüzemeltetési engedély iránti kérelemben – a Szolgtv.-ben meghatározottakon túl – meg kell jelölni, illetve csatolni kell:
 
@@ -67,8 +67,8 @@ l) a nyilvántartásból való törlés tényét, annak időpontját.
 (8)[^29] A (3) bekezdésben felsorolt adatok és dokumentumok, valamint a (7) bekezdésben foglalt értesítés elektronikus úton is benyújthatók.
 
 [^13]: A 3. §-t a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^14]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^15]: A 4. § (2) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
 [^16]: A 4. § (3) bekezdés bevezető szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^17]: A 4. § (3) bekezdés a) pontja a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^18]: A 4. § (3) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
