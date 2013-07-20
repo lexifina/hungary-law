@@ -1,4 +1,4 @@
-1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^66]
+1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^68]
 
 I. rész
 
@@ -136,4 +136,4 @@ II. rész
 
 III. rész
 
-[^66]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése szerint módosított szöveg.
+[^68]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése szerint módosított szöveg.

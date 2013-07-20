@@ -1,6 +1,6 @@
 ## Összeférhetetlenség
 
-8. § (1)[^52] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 85. § (4) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője vagy kormánytisztviselője olyan építménnyel, telekkel összefüggésben lát el
+8. § (1)[^54] Az építésügyi és az építésfelügyeleti hatósági tevékenység körében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 85. § (4) bekezdés a) pontjában említett pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül különösen, ha az építésügyi vagy az építésfelügyeleti hatóság köztisztviselője vagy kormánytisztviselője olyan építménnyel, telekkel összefüggésben lát el
 
 a) építészeti-műszaki tervezési,
 
@@ -26,10 +26,10 @@ k) energetikai tanúsítói
 
 ## tevékenységet, amely annak a hatóságnak az illetékességi területén található, ahol építésügyi vagy építésfelügyeleti hatósági feladatot lát el.
 
-(2)[^53]
+(2)[^55]
 
-(3)[^54] Az építésügyi, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő és kormánytisztviselő nem lehet a hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint nem láthat el önkormányzati főépítészi feladatot.
+(3)[^56] Az építésügyi, valamint az építésfelügyeleti hatósági feladatot ellátó köztisztviselő és kormánytisztviselő nem lehet a hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint nem láthat el önkormányzati főépítészi feladatot.
 
-[^52]: A 8. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 39. §-ával megállapított szöveg.
-[^53]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^54]: A 8. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 42. § l) pontja szerint módosított szöveg.
+[^54]: A 8. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^55]: A 8. § (2) bekezdését a 393/2007. (XII. 27.) Korm. rendelet 6. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^56]: A 8. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 42. § l) pontja szerint módosított szöveg.
