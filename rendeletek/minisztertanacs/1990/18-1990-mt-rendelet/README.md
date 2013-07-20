@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-18-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1996-01-01 | 1990-18-20-65.2 | 18/1990. (I. 31.) MT rendelet |
+| 2013-07-20 | 1990-18-20-65.3 | 255/2013. (VII. 5.) Korm. rendelet |
