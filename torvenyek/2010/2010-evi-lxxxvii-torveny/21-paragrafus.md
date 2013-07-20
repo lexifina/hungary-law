@@ -26,7 +26,7 @@ az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudo
 
 (4) Az NFA a Nemzeti Földalapba tartozó vízlevezető árkokat és csatornákat térítésmentesen az azok fenntartására jogosultak vagyonkezelésébe adhatja.
 
-(5) A Nemzeti Földalapba tartozó, önálló helyrajzi számon nyilvántartott útnak az út fekvése szerinti települési (fővárosban a kerületi) önkormányzat részére történő térítésmentes tulajdonába vagy használatba adásáról az NFA és az érintett önkormányzat szerződést köthet.
+(5) A Nemzeti Földalapba tartozó, önálló helyrajzi számon nyilvántartott útnak az út fekvése szerinti települési (fővárosban a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat részére történő térítésmentes tulajdonába vagy használatba adásáról az NFA és az érintett önkormányzat szerződést köthet.
 
 (6) Az állam 100%-os tulajdonában álló erdőt, továbbá erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet – az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 8. § (4) és (5) bekezdése szerinti birtok-összevonási célú földcsere vagy csere, illetve átruházás esetének kivételével – csak vagyonkezelés formájában, a 20. § (2) bekezdésében meghatározottak számára lehet hasznosításra átengedni.
 
