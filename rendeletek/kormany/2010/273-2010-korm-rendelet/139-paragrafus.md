@@ -1,14 +1,14 @@
-## 72–138. §[^171]
+## 72–138. §[^173]
 
 ## Hatályon kívül helyező rendelkezések
 
-139. § (1)–(3)[^172]
+139. § (1)–(3)[^174]
 
-(4)[^173]
+(4)[^175]
 
-(5)–(6)[^174]
+(5)–(6)[^176]
 
-[^171]: A 72–138. §-t a 140. § (1) bekezdése hatályon kívül helyezte.
-[^172]: A 139. § (1)–(3) bekezdését a 140. § (1) bekezdése hatályon kívül helyezte.
-[^173]: A 139. § (4) bekezdését a 140. § (2) bekezdése hatályon kívül helyezte.
+[^173]: A 72–138. §-t a 140. § (1) bekezdése hatályon kívül helyezte.
 [^174]: A 139. § (1)–(3) bekezdését a 140. § (1) bekezdése hatályon kívül helyezte.
+[^175]: A 139. § (4) bekezdését a 140. § (2) bekezdése hatályon kívül helyezte.
+[^176]: A 139. § (1)–(3) bekezdését a 140. § (1) bekezdése hatályon kívül helyezte.
