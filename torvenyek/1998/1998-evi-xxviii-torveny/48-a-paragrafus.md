@@ -1,4 +1,4 @@
-48/A. § (1) A települési, fővárosban a kerületi önkormányzat önkormányzati állatvédelmi őrszolgálatot működtethet.
+48/A. § (1) A települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat önkormányzati állatvédelmi őrszolgálatot működtethet.
 
 (2) Az önkormányzati állatvédelmi őrszolgálatra vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 

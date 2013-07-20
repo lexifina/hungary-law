@@ -48,6 +48,6 @@ i) a miniszter, hogy a szőrméjükért tartott állatfajok körét, tartásuk, 
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, hogy az ebrendészeti hozzájárulás mértékét, kiszabásának feltételeit, a kedvezmények, mentességek körét, illetve a megfizetésének szabályait rendeletben határozza meg.
+(5) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az ebrendészeti hozzájárulás mértékét, kiszabásának feltételeit, a kedvezmények, mentességek körét, illetve a megfizetésének szabályait rendeletben határozza meg.
 
-(6) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, hogy a kedvtelésből tartott állatok tartásának szabályait rendeletben határozza meg.
+(6) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy a kedvtelésből tartott állatok tartásának szabályait rendeletben határozza meg.

@@ -40,7 +40,7 @@ m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származ
 
 (8) Jogszabályban meghatározott közfeladat ellátása érdekében az adatbázis működtetője az adatbázishoz
 
-a) hozzáférést biztosít a települési, fővárosban a kerületi önkormányzat részére,
+a) hozzáférést biztosít a települési, fővárosban a fővárosi kerületi és a fővárosi önkormányzat részére,
 
 b) hozzáférést biztosíthat bíróság, ügyészség, nyomozó hatóság és más közigazgatási szerv részére.
 
