@@ -2,7 +2,7 @@
 
 34. § (1) Az oktatási igazolvány kiadására irányuló kérelem hiányosnak minősül abban az esetben, ha
 
-a)[^12] a megszemélyesítéshez szükséges fénykép és aláírás nyilvántartásában – a jogosultnak felróható okból – nem található az igénylés adataihoz hozzárendelhető érvényes fénykép vagy aláírás,
+a)[^13] a megszemélyesítéshez szükséges fénykép és aláírás nyilvántartásában – a jogosultnak felróható okból – nem található az igénylés adataihoz hozzárendelhető érvényes fénykép vagy aláírás,
 
 b) a közreműködő intézmény az oktatási igazolvány igazgatási szolgáltatási díját határidőben nem fizette meg,
 
@@ -24,4 +24,4 @@ c) a külön jogszabályban meghatározott módon jelentse be az adatváltozáso
 
 (6) A tanulmányi rendszerrel rendelkező felsőoktatási intézmények által továbbított felsőoktatási oktatási igazolvány igénylése esetén a jogosult felel az oktatási igazolvány elkészítésének alapjául szolgáló adatok valóságtartalmáért. A jogosult által szolgáltatott valótlan adatok alapján valótlan adattartalommal előállított oktatási igazolvány kicserélésének teljes költsége a jogosultat terheli.
 
-[^12]: A 34. § (1) bekezdés a) pontja az 59/2012. (III. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^13]: A 34. § (1) bekezdés a) pontja az 59/2012. (III. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.

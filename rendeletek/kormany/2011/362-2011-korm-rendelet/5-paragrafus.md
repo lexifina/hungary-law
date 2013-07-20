@@ -8,9 +8,9 @@ b) az oktatási igazolványok megszemélyesítésével, a megszemélyesítéshez
 
 c) az oktatási igazolványok és érvényesítő matricák fizikai előállításával kapcsolatos adatfeldolgozói feladatokat a Pénzjegynyomda Zártkörűen Működő Részvénytársaság (a továbbiakban: Pénzjegynyomda Zrt.) látja el,
 
-d) az igazolványok megszemélyesítéséhez szükséges fénykép és aláírás felvételezésével, valamint azoknak a polgárok személyi adatainak és lakcímének nyilvántartása szerinti hitelességének ellenőrzésével kapcsolatos feladatokat az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott települési (a fővárosban kerületi) önkormányzat jegyzője adatfeldolgozóként látja el.
+d)[^4] az igazolványok megszemélyesítéséhez szükséges fénykép és aláírás felvételezésével, valamint azoknak a polgárok személyi adatainak és lakcímének nyilvántartása szerinti hitelességének ellenőrzésével kapcsolatos feladatokat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) adatfeldolgozóként látja el.
 
-(2a)[^4] A körzetközponti jegyző hivatala (a továbbiakban: okmányiroda) a (2) bekezdés d) pontjában meghatározott feladatot országos hatáskörrel, díjmentesen végzi, mely feladat ellátását követően az okmányiroda a jogosult részére adatlapot állít ki.
+(2a)[^5] A járási hivatal a (2) bekezdés d) pontjában meghatározott feladatot országos hatáskörrel, díjmentesen végzi, mely feladat ellátását követően a járási hivatal a jogosult részére adatlapot állít ki.
 
 (3) Az adatfeldolgozók az oktatási igazolványok előállítási, megszemélyesítési folyamatának nyomon követését elektronikus rendszerben folyamatosan és teljes körűen biztosítják az adatkezelő és a közreműködő intézmények számára.
 
@@ -18,4 +18,5 @@ d) az igazolványok megszemélyesítéséhez szükséges fénykép és aláírá
 
 [^2]: Az 5. § (1) bekezdése az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 5. § (2) bekezdése az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 5. § (2a) bekezdését az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 5. § (2) bekezdés d) pontja a 255/2013. (VII. 5.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2a) bekezdését az 59/2012. (III. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 255/2013. (VII. 5.) Korm. rendelet 38. § b) és c) pontja szerint módosított szöveg.
