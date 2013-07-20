@@ -2,7 +2,7 @@
 
 22. § (1) A támogatási kérelem magában foglalja az első kifizetési kérelmet is.
 
-(2)[^18] A 2012. évben kifizetési kérelmet nem lehet benyújtani. A további kifizetési kérelmeket évente, június 1. és június 30. között lehet benyújtani az MVH-hoz, az MVH által rendszeresített nyomtatványon. A nyomtatvány tartalmi elemei az alábbiak:
+(2)[^19] A 2012. évben kifizetési kérelmet nem lehet benyújtani. A további kifizetési kérelmeket évente, június 1. és június 30. között lehet benyújtani az MVH-hoz, az MVH által rendszeresített nyomtatványon. A nyomtatvány tartalmi elemei az alábbiak:
 
 a) ügyfél-azonosítási adatok, valamint a kapcsolattartó adatai,
 
@@ -28,4 +28,4 @@ a) az állattartó nyilatkozatát arról, hogy a 12. § (5) bekezdésben meghat�
 
 b) az ellátó állatorvos igazolását arra vonatkozólag, hogy a 10. § (1) bekezdésben meghatározott paraziták elleni védekezés a tartási helyen tartott szarvasmarhák vonatkozásában megtörtént.
 
-[^18]: A 22. § (2) bekezdése a 79/2012. (VII. 27.) VM rendelet 10. §-ával megállapított szöveg.
+[^19]: A 22. § (2) bekezdése a 79/2012. (VII. 27.) VM rendelet 10. §-ával megállapított szöveg.

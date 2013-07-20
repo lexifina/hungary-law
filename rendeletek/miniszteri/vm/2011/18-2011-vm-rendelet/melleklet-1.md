@@ -1,6 +1,6 @@
-## 31. §[^27] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes állatlétszám alapú agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 138/2012. (XII. 22.) VM rendelet [a továbbiakban: 138/2012. (XII. 22.) VM rendelet] által megállapított 12. § (4) bekezdését a 138/2012. (XII. 22.) VM rendelet hatálybalépésekor[^28] folyamatban lévő ügyekben is alkalmazni kell.
+## 32. §[^32] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes állatlétszám alapú támogatási, és egyéb agrártárgyú rendeletek módosításáról szóló 61/2013. (VII. 19.) VM rendelettel [a továbbiakban: 61/2013. (VII. 19.) VM rendelet] megállapított 13. § (5) bekezdését és 25. § (4) bekezdését a 61/2013. (VII. 19.) VM rendelet hatálybalépésekor[^33] folyamatban lévő ügyekben, a 23. § (6) bekezdését a 61/2013. (VII. 19.) VM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 18/2011. (III. 9.) VM rendelethez
 
-[^27]: A 31. §-t a 138/2012. (XII. 22.) VM rendelet 6. §-a iktatta be.
-[^28]: A hatálybalépés napja: 2012. december 23.
+[^32]: A 32. §-t a 61/2013. (VII. 19.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^33]: A hatálybalépés időpontja 2013. július 20.
