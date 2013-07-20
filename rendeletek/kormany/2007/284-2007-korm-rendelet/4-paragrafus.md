@@ -1,6 +1,6 @@
 ## Környezetvédelmi hatóság kijelölése
 
-4. § (1)[^1] Zaj- és rezgésvédelmi ügyekben az elsőfokú hatósági jogkört – a (3)–(4) bekezdésben foglalt kivételekkel – a települési önkormányzat jegyzője, a főváros esetében a kerületi önkormányzat jegyzője gyakorolja az alábbi esetekben:
+4. § (1)[^1] Zaj- és rezgésvédelmi ügyekben az elsőfokú hatósági jogkört – a (3)–(4) bekezdésben foglalt kivételekkel – a települési önkormányzat jegyzője, a főváros esetében a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző gyakorolja az alábbi esetekben:
 
 a) az 1. számú melléklet szerinti tevékenységek; továbbá
 
@@ -24,5 +24,5 @@ c) a fokozottan zajos területekkel kapcsolatos eljárásokban.
 
 (4) A honvédelmi és katonai célú építmények vonatkozásában az első fokú hatósági jogkört a Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség gyakorolja.
 
-[^1]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^1]: A 4. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 255/2013. (VII. 5.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^2]: A környezetvédelmi, természetvédelmi, vízügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 347/2006. (XII. 23.) Korm. rendelet.
