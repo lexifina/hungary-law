@@ -18,6 +18,8 @@ f) a földrészletnek – az Nfatv. 21. § (1) bekezdésében meghatározottak s
 
 g) a földrészletnek a védett természeti területek védettségi szintjének helyreállítása érdekében, az érintett magántulajdonosok számára csereterületként történő felajánlhatóságára vonatkozó javaslatot;
 
-h) annak a kormányhatározatnak a számát, amely alapján a földrészlet szociális földprogram megvalósítása céljából került a települési (fővárosban: kerületi) önkormányzat vagyonkezelésébe;
+h)[^3] annak a kormányhatározatnak a számát, amely alapján a földrészlet szociális földprogram megvalósítása céljából került a települési (fővárosban: kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat vagyonkezelésébe;
 
 i) az Nfatv. 16. § (6) bekezdése vagy az Nfatv. 34. § (5) bekezdése alapján a társadalombiztosítás pénzügyi alapjai javára fennálló megtérítési vagy fizetési kötelezettség fennállásának tényét, a kötelezettség mértékét, és a jogosult megnevezését.
+
+[^3]: Az 5. § h) pontja a 255/2013. (VII. 5.) Korm. rendelet 35. §-a szerint módosított szöveg.
