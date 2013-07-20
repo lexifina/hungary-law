@@ -6,6 +6,8 @@ b) a nyilvántartásba bejegyzett jármű tulajdonjogának, illetve az üzembent
 
 c) a közlekedési igazgatási eljárásban a közreműködő hatóságok körét, feladatait és a közreműködő hatóságra vonatkozó részletes eljárási szabályokat, valamint
 
-d) a közreműködők nyilvántartása személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésének részletes szabályait, a közreműködőre, a vizsgáló állomásra és a vizsgálóra vonatkozó követelményeket, az előzetes eredetiségvizsgálati eljárásban alkalmazható vizsgálati módszert, valamint a vizsgáló képzésének és továbbképzésének szabályait
+d) a közreműködők nyilvántartása személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésének részletes szabályait, a közreműködőre, a vizsgáló állomásra és a vizsgálóra vonatkozó követelményeket, az előzetes eredetiségvizsgálati eljárásban alkalmazható vizsgálati módszert, valamint a vizsgáló képzésének és továbbképzésének szabályait,
+
+e) a 27/A. § (2)–(5) bekezdéseiben meghatározott automatizált keresés részletes szabályait
 
 rendeletben állapítsa meg.
