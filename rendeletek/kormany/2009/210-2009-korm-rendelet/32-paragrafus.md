@@ -1,3 +1,3 @@
-## 31. §[^36]
+## 31. §[^39]
 
-[^36]: A 31. § a (2) bekezdése alapján hatályát vesztette.
+[^39]: A 31. § a (2) bekezdése alapján hatályát vesztette.
