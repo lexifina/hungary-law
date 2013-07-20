@@ -1,0 +1,1 @@
+2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy a hulladékgazdálkodási közszolgáltatás ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a települési hulladék elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.

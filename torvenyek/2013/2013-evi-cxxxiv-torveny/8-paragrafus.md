@@ -1,0 +1,1 @@
+8. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 52. §-ában az „e törvény hatálybalépését követő hat hónapon belül” szövegrész helyébe a „2014. július 1-jéig” szöveg lép.

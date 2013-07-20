@@ -1,0 +1,15 @@
+3. § (1) Az állami szerv 1. § (3) bekezdése szerinti hatósági döntéséhez, továbbá a szükségellátás megszervezéséhez szükséges, a környezetvédelmi hatóság, az Országos Hulladékgazdálkodási Ügynökség, valamint a helyi önkormányzat nyilvántartásában szereplő és a rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.
+
+(2) Kártalanítás mellett az ideiglenes ellátáshoz és a szükségellátáshoz szükséges szállítóeszköz rendelkezésre bocsátására kötelezhető
+
+a) a más településen végzett hulladékgazdálkodási közszolgáltatás veszélyeztetése nélkül, közvetlenül az ideiglenes ellátás előtt hulladékgazdálkodási közszolgáltatást végző közszolgáltató a közérdekű szolgáltatót kijelölő állami szerv hatósági döntésével;
+
+b) a katasztrófavédelmi gazdasági és anyagi szolgáltatási kötelezettség szabályainak megfelelő alkalmazásával a szükségellátás végrehajtására alkalmas teherszállító jármű tulajdonosa vagy üzemben tartója a szükségellátás megszervezéséért felelős állami szerv hatósági döntésével.
+
+(3) A szükségellátás megszervezéséért felelős állami szerv és az 1. § (3) bekezdése szerint kijelölt közérdekű szolgáltató közfoglalkoztatottakkal is elláthatja feladatát. A közérdekű szolgáltató az önkormányzati kötelező feladat ellátásában történő közreműködése erejéig minősül közfoglalkoztatónak.
+
+(4) A hulladékkezelő létesítmény üzemeltetője a települési hulladék átvételét nem tagadhatja meg amiatt, hogy annak összegyűjtése és szállítása ideiglenes ellátás vagy szükségellátás keretében történik.
+
+(5) Az ideiglenes ellátás, valamint a szükségellátás költségeit a hulladéklerakási járulék előirányzat terhére kell biztosítani. Ez a szabály nem érinti a hulladéktermelő, illetve a hulladékbirtokos fizetési kötelezettségét.
+
+(6) Az ellátásért felelős települési önkormányzat – az állami szerv intézkedésétől függetlenül – folyamatosan megtesz minden intézkedést a Ht. 33. § (1) bekezdésében foglalt hulladékgazdálkodási közszolgáltatás biztosítása érdekében.

@@ -1,0 +1,15 @@
+1. § (1) Ha a települési önkormányzat a hulladékgazdálkodási közszolgáltatás ellátását a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 33–34. §-ában foglaltak szerint nem biztosítja vagy a hulladékgazdálkodási közszolgáltatás a Ht. 33–34. §-ában meghatározott eljárás eredménytelensége miatt nem biztosítható, a Ht. szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
+
+(2) A települési önkormányzat az (1) bekezdésben meghatározott körülmény bekövetkezéséről haladéktalanul, de legfeljebb 3 napon belül tájékoztatja a kormányrendeletben kijelölt állami szervet (a továbbiakban: állami szerv).
+
+(3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel, illetve a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a szolgáltatással érintett területre irányadó közszolgáltatási díj fejében köteles elvégezni.
+
+(4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincs helye.
+
+(5) A kijelölésre irányuló eljárásban hozott döntés a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatóvá nyilvánítható.
+
+(6) Az állami szerv az ideiglenes ellátásra irányuló kijelölés során az ellátás hatékonyságához, gyorsaságához, gazdaságosságához fűződő közérdeket, továbbá a lakosság méltányos érdekeit veszi figyelembe.
+
+(7) Ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb 9 hónapos időtartamra történhet. A kijelölés egy alkalommal, legfeljebb 3 hónappal meghosszabbítható.
+
+(8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a hulladékgazdálkodási közszolgáltatási engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
