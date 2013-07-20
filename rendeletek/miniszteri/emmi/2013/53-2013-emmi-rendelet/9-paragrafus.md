@@ -1,1 +1,0 @@
-## „(9) A társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét, továbbá a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembe veendő rezsi óradíj összegét a 22. számú melléklet tartalmazza.”
