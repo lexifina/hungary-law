@@ -1,4 +1,4 @@
-18. §[^94] (1) Az Szt. 36. § (2) bekezdés e) pontjában előírt kötelezettség teljesítésének vizsgálata során
+18. §[^95] (1) Az Szt. 36. § (2) bekezdés e) pontjában előírt kötelezettség teljesítésének vizsgálata során
 
 a) az egyszerűsített foglalkoztatás a munkaszerződéssel, írásbeli munkaszerződés hiányában a munkáltató által kiállított bizonylattal,
 
@@ -10,4 +10,4 @@ igazolható.
 
 (2) A közérdekű önkéntes tevékenységről kiállított igazolás tartalmazza az elvégzett önkéntes tevékenység megnevezését és időtartamát, valamint a fogadó szervezet nyilvántartásba vételéről hozott határozat számát.
 
-[^94]: A 18. §-t újonnan a 95/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.
+[^95]: A 18. §-t újonnan a 95/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.

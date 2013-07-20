@@ -4,6 +4,6 @@
 
 (2) A megállapított temetési segély összegét vagy a kérelem elutasításának tényét az arról szóló határozat számával együtt a temetési számlára rá kell vezetni és a számlát a kérelmező részére vissza kell adni.
 
-(3)[^121]
+(3)[^122]
 
-[^121]: A 32. § (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (5) bekezdése hatályon kívül helyezte.
+[^122]: A 32. § (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (5) bekezdése hatályon kívül helyezte.

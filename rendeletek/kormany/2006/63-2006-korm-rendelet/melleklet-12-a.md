@@ -94,6 +94,6 @@
 
 | * Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha bejelentett lakó- és tartózkodási hellyel is rendelkezik. |
 
-12/a. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^230]
+12/a. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^231]
 
-[^230]: A 12/a. számú mellékletet a 133/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja. Újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § b) pontja iktatta be.
+[^231]: A 12/a. számú mellékletet a 133/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja. Újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § b) pontja iktatta be.
