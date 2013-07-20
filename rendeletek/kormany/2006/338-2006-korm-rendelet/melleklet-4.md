@@ -38,7 +38,7 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 |  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 1. | Telekcsoport újraosztása, telek megosztása, telkek egyesítése és telekhatár rendezése esetén, kivéve termőföldek birtok összevonási céllal történő telekalakítását 50 hektárig, azzal a feltétellel, hogy a kialakítandó földrészletek területe nem lehet kisebb a változás előtti területtől. | A telekalakítás megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | a telekalakítás helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzője | fővárosi, megyei kormányhivatal |
+| 1. | Telekcsoport újraosztása, telek megosztása, telkek egyesítése és telekhatár rendezése esetén, kivéve termőföldek birtok összevonási céllal történő telekalakítását 50 hektárig, azzal a feltétellel, hogy a kialakítandó földrészletek területe nem lehet kisebb a változás előtti területtől. | A telekalakítás megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | a telekalakítás helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | fővárosi, megyei kormányhivatal |
 
 | 2. | Életvédelmi rendeltetésű építmény, óvóhely telkének kialakítása esetén. | A jogszabályban előírt polgári védelmi követelmények érvényre juttatása érdekében. | a telekalakítás helye szerint illetékes katasztrófavédelmi kirendeltség | fővárosi, megyei katasztrófavédelmi igazgatóság |
 
@@ -62,4 +62,4 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 | 8. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása kérdésében, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban főjegyző | fővárosi, megyei kormányhivatal |
 
-[^87]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 70/2013. (III. 8.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^87]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/2012. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 70/2013. (III. 8.) Korm. rendelet 16. §-a, a 255/2013. (VII. 5.) Korm. rendelet 20. §-a szerint módosított szöveg.
