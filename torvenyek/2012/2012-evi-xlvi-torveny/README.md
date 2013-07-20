@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2013-03-01 | 2013. évi XXXV. törvény | 2012-46-00-00.8 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 2012-46-00-00.9 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2012-46-00-00.10 |
+| 2013-07-20 | 2013. évi CXXVIII. törvény | 2012-46-00-00.11 |

@@ -22,4 +22,4 @@ d) az Országos Gravimetriai Hálózat pontjai tekintetében a bányászati ügy
 
 (7) Új alaphálózati pont létesítésekor az ingatlanügyi hatóság határozatban rendelkezik a közérdekű használati jog keletkezése miatt felmerülő, az ingatlan tulajdonosát megillető, értékbecsléssel alátámasztott kártalanításról. A kártalanítás összegét a közérdekű használati jog (5) bekezdésben meghatározott jogosultja téríti meg az ingatlan tulajdonosának. A határozat ellen közigazgatási úton fellebbezésnek helye nincs.
 
-(8) A közigazgatási határok megjelölésére szolgáló földmérési jelek az érintett települési (fővárosban a kerületi) önkormányzatok tulajdonában, a földrészleteket elhatároló jelek pedig a földrészletek tulajdonosainak tulajdonában vannak.
+(8) A közigazgatási határok megjelölésére szolgáló földmérési jelek az érintett települési (fővárosban a kerületi, továbbá a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzatok tulajdonában, a földrészleteket elhatároló jelek pedig a földrészletek tulajdonosainak tulajdonában vannak.

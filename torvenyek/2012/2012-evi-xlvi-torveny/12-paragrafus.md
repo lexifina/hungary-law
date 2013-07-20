@@ -1,4 +1,4 @@
-12. § (1) Új állami földmérési alaptérképi adatbázis készítésének előkészületi munkálatairól, az elhatárolás és a felmérés várható időpontjáról a munka végrehajtója értesíti a települési, illetve a kerületi önkormányzatot, amely azt a helyben szokásos módon kihirdeti.
+12. § (1) Új állami földmérési alaptérképi adatbázis készítésének előkészületi munkálatairól, az elhatárolás és a felmérés várható időpontjáról a munka végrehajtója értesíti a települési, illetve a kerületi, továbbá a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzatot, amely azt a helyben szokásos módon kihirdeti.
 
 (2) Új, helyszíni felmérésen alapuló állami földmérési alaptérképi adatbázis előállításakor minden esetben – térképfelújításnál szükség szerint – a földrészletek határvonalát elhatárolással kell megállapítani. Az elhatároláshoz távérzékelési adat is felhasználható.
 
