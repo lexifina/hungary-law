@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-263-20-
 | 2013-06-19 | 2006-263-20-22.43 | 209/2013. (VI. 18.) Korm. rendelet |
 | 2013-07-01 | 2006-263-20-22.44 | 203/2013. (VI. 14.) Korm. rendelet |
 | 2013-07-19 | 2006-263-20-22.45 | 282/2011. (XII. 21.) Korm. rendelet |
+| 2013-07-20 | 2006-263-20-22.46 | 362/2008. (XII. 31.) Korm. rendelet |
