@@ -1,0 +1,3 @@
+## 10. § A külföldiek ingatlanszerzéséről szóló 7/1996. (I. 18.) Korm. rendelet 1. § (3) bekezdésében a „fővárosi kerületi önkormányzat polgármesterének (a továbbiakban polgármester)” szövegrész helyébe a „fővárosi kerületi önkormányzat polgármesterének, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármesternek (a továbbiakban polgármester)” szöveg lép.
+
+## 8. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet módosítása

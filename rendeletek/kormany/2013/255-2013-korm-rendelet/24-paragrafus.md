@@ -1,0 +1,7 @@
+## 23. § A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 4. § (1) bekezdésében „a főváros esetében a kerületi önkormányzat jegyzője” szövegrész helyébe „a főváros esetében a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző” szöveg lép.
+
+## 21. A parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet módosítása
+
+24. § (1) A parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet (a továbbiakban: R5.) 1. § (1) bekezdésének b) pontjában „a települési (fővárosban kerületi) önkormányzat jegyzője (a továbbiakban: jegyző)” szövegrész helyébe „a települési (fővárosban kerületi) önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban: jegyző)” szöveg lép.
+
+(2) Az R5. 1. § (2) bekezdésében „a települési (fővárosban kerületi) önkormányzat” szövegrész helyébe „a települési (fővárosban kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat” szöveg lép.
