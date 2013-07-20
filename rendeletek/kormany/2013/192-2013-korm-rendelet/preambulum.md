@@ -1,1 +1,0 @@
-A Kormány az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a 2013. június 4-én kihirdetett veszélyhelyzet meghosszabbításához történő hozzájárulásról szóló 44/2013. (VI. 12.) OGY határozat szerinti országgyűlési felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdése szerinti feladatkörében eljárva a következő rendeletet alkotja:
