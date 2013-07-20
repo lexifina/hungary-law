@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2012-07-01 | 2012. évi LXI. törvény | 2001-64-00-00.24 |
 | 2013-01-01 | 2012. évi CXCI. törvény | 2001-64-00-00.25 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2001-64-00-00.26 |
+| 2013-07-20 | 2013. évi LXXXVIII. törvény | 2001-64-00-00.27 |

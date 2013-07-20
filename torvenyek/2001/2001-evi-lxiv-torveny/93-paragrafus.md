@@ -74,7 +74,7 @@ o)
 
 p)
 
-q) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
+q)
 
 (3) A miniszter a (2) bekezdés j) pontjában kapott, az igazgatási szolgáltatási díjra vonatkozó szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
 
