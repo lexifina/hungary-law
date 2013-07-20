@@ -6,10 +6,12 @@
 
 a) a jóváhagyható támogatási összeg nem éri el az 1 000 000 forintot;
 
-b) az 1. melléklet és 2. melléklet szerint meghatározott értékelési rendszer alapján a kérelemre adható pontszám együttesen nem éri el a maximum pontszám 60%-át; vagy
+b)[^1] az 1. melléklet és 2. melléklet szerint meghatározott értékelési rendszer alapján a kérelemre adható pontszám együttesen nem éri el a maximum pontszám 50%-át; vagy
 
 c) a részben helyt adó támogatási határozattal jóváhagyható összes elszámolható kiadás összege nem éri el a támogatási kérelemben megadott, tervezett összes elszámolni kívánt kiadás 30%-át.
 
 (3) Amennyiben az ügyfél által kérelmezett támogatás összege a 10 000 000 forintot nem haladja meg és nem nyújt be üzleti tervet, úgy üzleti terv hiányában a támogatási kérelem elbírálása során csak az 1. melléklet szerint meghatározott értékelési rendszert kell figyelembe venni.
 
 (4) A Vhr. 27. § (4) bekezdésétől eltérően a „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek az üzleti terv részét képezik.
+
+[^1]: A 9. § (2) bekezdés b) pontja a 61/2013. (VII. 19.) VM rendelet 13. § (1) bekezdése szerint módosított szöveg.
