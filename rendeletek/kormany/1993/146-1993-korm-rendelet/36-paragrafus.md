@@ -1,14 +1,14 @@
 36. § (1) A mozgószálláson (mozgó lakókocsiban, hajón lévő szálláson, kihelyezett idényszálláson) történt elszállásolást, amennyiben a polgár más bejelentett lakcímmel nem rendelkezik, lakóhelyként, egyéb esetben tartózkodási helyként kell bejelenteni.
 
-(2)[^199] Az (1) bekezdésben meghatározott szálláshely esetén a lakó- vagy tartózkodási hely címeként a munkáltató székhelyét, ennek hiányában telephelyét kell bejegyezni. E lakcímet a székhely (telephely) szerint illetékes jegyzőnél vagy járási hivatalnál kell bejelenteni.
+(2)[^202] Az (1) bekezdésben meghatározott szálláshely esetén a lakó- vagy tartózkodási hely címeként a munkáltató székhelyét, ennek hiányában telephelyét kell bejegyezni. E lakcímet a székhely (telephely) szerint illetékes jegyzőnél vagy járási hivatalnál kell bejelenteni.
 
-(3)[^200] A hajléktalanszálláson tíz napot meghaladóan tartózkodó lakcím nélküli személyt a szállásadónak a befogadástól számított tizedik napot követő huszonnégy órán belül be kell jelentenie a szálláshely szerint illetékes települési önkormányzat jegyzőjénél vagy járási hivatalnál.
+(3)[^203] A hajléktalanszálláson tíz napot meghaladóan tartózkodó lakcím nélküli személyt a szállásadónak a befogadástól számított tizedik napot követő huszonnégy órán belül be kell jelentenie a szálláshely szerint illetékes települési önkormányzat jegyzőjénél vagy járási hivatalnál.
 
-(4)[^201] Az ideiglenes szálláshellyel sem rendelkező hajléktalan személynek lakóhelyeként azt a települést (fővárosi kerületet) kell bejelentenie, ahol szokásosan megtalálható. A nyilvántartásba ebben az esetben a bejelentett település neve (a fővárosban a kerület megjelölése) mellett ,,lakcím nélküli'' bejegyzést kell tenni.
+(4)[^204] Az ideiglenes szálláshellyel sem rendelkező hajléktalan személynek lakóhelyeként azt a települést (fővárosi kerületet) kell bejelentenie, ahol szokásosan megtalálható. A nyilvántartásba ebben az esetben a bejelentett település neve (a fővárosban a kerület megjelölése) mellett ,,lakcím nélküli'' bejegyzést kell tenni.
 
-(5)[^202]
+(5)[^205]
 
-[^199]: Az R. 36. § (2) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § u) pontja szerint módosított szöveg.
-[^200]: Az R. 36. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § v) pontja szerint módosított szöveg.
-[^201]: Az R. 36. §-a (4) bekezdésének harmadik mondatát a 9/2004. (I. 31.) Korm. rendelet 32. § (1) bekezdése hatályon kívül helyezte.
-[^202]: A rendelet 36. §-ának (5) bekezdését a 13/1999. (II. 1.) Korm. rendelet hatályon kívül helyezte.
+[^202]: Az R. 36. § (2) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § u) pontja szerint módosított szöveg.
+[^203]: Az R. 36. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § v) pontja szerint módosított szöveg.
+[^204]: Az R. 36. §-a (4) bekezdésének harmadik mondatát a 9/2004. (I. 31.) Korm. rendelet 32. § (1) bekezdése hatályon kívül helyezte.
+[^205]: A rendelet 36. §-ának (5) bekezdését a 13/1999. (II. 1.) Korm. rendelet hatályon kívül helyezte.

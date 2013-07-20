@@ -1,4 +1,4 @@
-15/D. §[^70] (1) A doktori címet az érintett kérelmére, viselt nevéhez „dr.” jelzéssel, az azt igazoló okirat adatai alapján, a kérelem előterjesztésének napjával kell a nyilvántartásba bejegyezni. A kérelmező több doktori címe közül csak egy jegyezhető be. Tudományos fokozat – a doktori cím kivételével – a nyilvántartásba nem jegyezhető be.
+15/D. §[^72] (1) A doktori címet az érintett kérelmére, viselt nevéhez „dr.” jelzéssel, az azt igazoló okirat adatai alapján, a kérelem előterjesztésének napjával kell a nyilvántartásba bejegyezni. A kérelmező több doktori címe közül csak egy jegyezhető be. Tudományos fokozat – a doktori cím kivételével – a nyilvántartásba nem jegyezhető be.
 
 (2) Ha a polgár a doktori címének a nyilvántartásba való bejegyzése időpontjában házassági nevet visel, a „dr.” jelzőt
 
@@ -22,4 +22,4 @@ b) a férj esetében a Csjt. 25. § (2) bekezdés a) és b) pontjában és a Csj
 
 (4) A feleség házassági névviselésében a férj doktori címét a Csjt. 25. § (1) bekezdés b) és c) pontjában meghatározott esetben a házassági nevet megelőzően kell a nyilvántartásba bejegyezni.
 
-[^70]: Az R. 15/D. §-át a 417/2012. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^72]: Az R. 15/D. §-át a 417/2012. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
