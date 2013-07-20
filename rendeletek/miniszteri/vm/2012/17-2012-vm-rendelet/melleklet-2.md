@@ -1,4 +1,4 @@
-2. melléklet a 17/2012. (II. 29.) VM rendelethez[^47]
+2. melléklet a 17/2012. (II. 29.) VM rendelethez[^67]
 
 ## A támogatás céljára kifizethető maximális összegek
 
@@ -8,7 +8,7 @@
 
 | 1 | A támogatás tárgya | A támogatás maximuma (Euró/egység) |
 
-| 2 | Mélyhűtve megőrzés eszközeinek beszerzése, üzemeltetése | 90 000 Euró/támogatott |
+| 2 | Mélyhűtve megőrzés gépeinek és eszközeinek beszerzése, üzemeltetése, építéssel járó tevékenység megvalósítása | 90 000 Euró/támogatott |
 
 | 3 | Magyartarka szarvasmarha sperma mélyhűtve történő megőrzése | 9 Euró/műszalma |
 
@@ -104,4 +104,4 @@
 
 | 10 | Nemzetközi szervezet tagdíja | 1 800 Euró/év |
 
-[^47]: A 2. melléklet a 30/2013. (IV. 30.) VM rendelet 11. § (11) bekezdése szerint módosított szöveg.
+[^67]: A 2. melléklet a 30/2013. (IV. 30.) VM rendelet 11. § (11) bekezdése, a 61/2013. (VII. 19.) VM rendelet 10. § d) pontja szerint módosított szöveg.
