@@ -1,4 +1,4 @@
-## 6. §[^9]
+## 6. §[^10]
 
 7. § (1) A vagyonkezelésbe adás iránti kérelemnek tartalmaznia kell:
 
@@ -24,9 +24,9 @@ j) a földrészlet vagyonkezelésbe adásának kérelmezett időtartamát.
 
 (2) Az (1) bekezdés c) pontjában foglalt jövedelem megállapításánál a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott jövedelemszámítást kell alkalmazni.
 
-(3)[^10]
+(3)[^11]
 
-(4)[^11] A vagyonkezelésbe adás iránti kérelemhez csatolni kell:
+(4)[^12] A vagyonkezelésbe adás iránti kérelemhez csatolni kell:
 
 a) a 4. § (1) bekezdése szerinti önkormányzati rendeletet;
 
@@ -40,9 +40,9 @@ a) a termőföld védelméről szóló törvény szerinti más célra nem haszno
 
 b) a (4) bekezdés c) pont szerinti területfelhasználási egységet nem módosítja;
 
-(6)[^12]
+(6)[^13]
 
-[^9]: A 6. §-t a 161/2011. (VIII. 18.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
-[^10]: A 7. § (3) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
-[^11]: A 7. § (4) bekezdés nyitó szövegrésze a 161/2011. (VIII. 18.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
-[^12]: A 7. § (6) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^10]: A 6. §-t a 161/2011. (VIII. 18.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
+[^11]: A 7. § (3) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^12]: A 7. § (4) bekezdés nyitó szövegrésze a 161/2011. (VIII. 18.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^13]: A 7. § (6) bekezdését a 161/2011. (VIII. 18.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
