@@ -1,3 +1,5 @@
+## 24. §[^3]
+
 ## 14. Az Európai Unió jogának való megfelelés
 
 25. §[^4] (1) Ez a rendelet a játékok biztonságáról szóló, 2009. június 18-i 2009/48/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
@@ -6,4 +8,5 @@
 
 (3) Ez a rendelet az Európai Atomenergia-közösség létrehozásáról szóló szerződés III. fejezet 33. cikkének való megfelelést szolgálja.
 
+[^3]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
