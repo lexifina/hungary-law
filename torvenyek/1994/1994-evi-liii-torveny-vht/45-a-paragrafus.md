@@ -13,3 +13,5 @@
 (6) A rendbírság behajtása esetén a végrehajtót előleg nem illeti meg, a végrehajtás költségét a megbírságolt viseli. A behajtott rendbírság összegét a végrehajtó a bírósági gazdasági hivatal számlájára fizeti be.
 
 (7) Ha a bírságolás eredménytelennek bizonyult, a végrehajtó ezt jelzi a bíróságnak, amely intézkedik a megbírságolt büntetőjogi felelősségre vonásának kezdeményezése iránt. Ugyanígy jár el a bíróság, ha saját hatáskörben észleli a feljelentésre alapot adó körülményt.
+
+(8) A bíróság az (1) bekezdéstől eltérően a lefoglalt gépjármű becsértékének megfelelő összegű rendbírságot szab ki az adóssal szemben, ha az adós nem tesz eleget a 103. § (8) bekezdése alapján használt gépjárműnek az árverés megtartása érdekében történő rendelkezésre bocsátása érdekében kiadott végrehajtói felhívásnak.

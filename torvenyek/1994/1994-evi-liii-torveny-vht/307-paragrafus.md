@@ -29,11 +29,3 @@ i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság véde
 j) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
 
 k) az általános költségátalány megfizetéséről szóló szabályokat,
-
-l) az adópolitikáért felelős miniszterrel egyetértésben a természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű becsértékének azt az összegét, amelynél alacsonyabb becsérték esetén a gépjármű mentes a végrehajtás alól, továbbá azt az összeget, amely a gépjármű értékesítése során befolyt vételárból az adóst illeti meg,
-
-m) a végrehajtó tevékenységével okozott kár fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
-
-n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint ezek megfizetésének módját,
-
-o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat.

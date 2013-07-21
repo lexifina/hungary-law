@@ -10,7 +10,9 @@ c) a 805/2004/EK rendelet I. és II. melléklete, valamint IV. és V. melléklet
 
 d) a 861/2007/EK rendelet IV. melléklete szerinti tanúsítványt,
 
-e) a 4/2009/EK tanácsi rendelet I. és II. melléklete szerinti kivonatot.
+e) a 4/2009/EK tanácsi rendelet I. és II. melléklete szerinti kivonatot,
+
+f) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény V. melléklete szerinti igazolást.
 
 (2) A közokiratot kiállító hatóság székhelye szerint illetékes járásbíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
@@ -18,7 +20,9 @@ a) a 44/2001/EK tanácsi rendelet VI. melléklete szerinti tanúsítványt,
 
 b) a 805/2004/EK rendelet I–V. melléklete szerinti tanúsítványt,
 
-c) a 4/2009/EK tanácsi rendelet III. és IV. melléklete szerinti kivonatot.
+c) a 4/2009/EK tanácsi rendelet III. és IV. melléklete szerinti kivonatot,
+
+d) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény VI. melléklete szerinti igazolást.
 
 (3) A 2201/2003/EK tanácsi rendelet III. és IV. melléklete szerinti, a láthatási jogokra és a gyermek visszavitelét elrendelő határozatokra vonatkozó igazolást az első fokon eljárt bíróság állítja ki:
 
