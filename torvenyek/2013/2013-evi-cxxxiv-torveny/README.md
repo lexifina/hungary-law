@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-134-00-00
 | --- | --- | --- |
 | 2013-07-20 | 2013. évi CXXXIV. törvény | 2013-134-00-00.0 (közlönyállapot) |
 | 2013-07-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-134-00-00.1 |
+| 2013-07-21 | 2010. évi CXXX. törvény | 2013-134-00-00.2 |
