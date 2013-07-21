@@ -1,5 +1,8 @@
-## 39. § A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 405/2012. (XII. 28.) Korm. rendelet 1. § (5) bekezdésében a „települési (fővárosban a kerületi) önkormányzat polgármesteri hivatala” szövegrész helyébe a „települési (fővárosban a kerületi) önkormányzat polgármesteri hivatala, a fővárosban a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármesteri hivatal” szöveg lép.
+## 39. §[^32]
 
 ## 37. A telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 57/2013. (II. 27.) Korm. rendelet módosítása
 
-40. § A telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 57/2013. (II. 27.) Korm. rendelet 3. § (1) bekezdésében a „Budapesten a kerületi önkormányzat jegyzőjénél (a továbbiakban: jegyző)” szövegrész helyébe a „Budapesten a kerületi önkormányzat jegyzőjénél, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnél (a továbbiakban: jegyző)” szöveg lép.
+40. §[^33]
+
+[^32]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 31. § A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet 6. § (4) bekezdésében a „települési (a fővárosban a kerületi) önkormányzat (a továbbiakban: önkormányzat) polgármesteri hivatala” szövegrész helyébe „települési (a fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat (a továbbiakban: önkormányzat) polgármesteri hivatala” szöveg lép.
+## 31. §[^24]
 
 ## 29. A Nemzeti Földalapba tartozó földrészletek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályairól szóló 263/2010. (XI. 17.) Korm. rendelet módosítása
+
+[^24]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

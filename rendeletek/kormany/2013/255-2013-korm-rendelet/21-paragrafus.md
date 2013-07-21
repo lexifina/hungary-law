@@ -1,3 +1,5 @@
-## 20. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet 4. melléklet 1. sor 3-as számú mezőjében a „fővárosi kerületi önkormányzat jegyzője” szövegrész helyébe a „fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző” szöveg lép.
+## 20. §[^13]
 
 ## 18. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet módosítása
+
+[^13]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

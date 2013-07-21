@@ -1,3 +1,5 @@
-## 32. § A Nemzeti Földalapba tartozó földrészletek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályairól szóló 263/2010. (XI. 17.) Korm. rendelet 3. § (1) bekezdésében „A települési (fővárosban a kerületi) önkormányzat (a továbbiakban: önkormányzat)” szövegrész helyébe „A települési (fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat (a továbbiakban: önkormányzat)” szöveg lép.
+## 32. §[^25]
 
 ## 30. A Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet módosítása
+
+[^25]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
