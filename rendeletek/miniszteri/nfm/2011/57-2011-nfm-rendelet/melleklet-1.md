@@ -1,4 +1,4 @@
-1. melléklet az 57/2011. (XI. 22.) NFM rendelethez
+1. melléklet az 57/2011. (XI. 22.) NFM rendelethez[^2]
 
 HAJÓZÁSI SZABÁLYZAT
 
@@ -2527,3 +2527,5 @@ A 3.01 cikk 3. bekezdése szerinti fények
 |  | 30. | nincs kiegészítő jelzés |
 
 | 3.13 cikk 6. bekezdése: Gép- és vitorlás hajónak nem minősülő magányosan haladó kishajó minden oldalról látható szokásos fehér fény |
+
+[^2]: Az 1. melléklet a 42/2013. (VII. 19.) NFM rendelet 5–6. §-a szerint módosított szöveg.
