@@ -440,7 +440,7 @@
 
 ## 2. A „feltételek” rovatba kell bejegyezni az esetleges korlátozásokat, így különösen a parttól való eltávolodás távolságát tengeri mérföldben a tengeri kedvtelési célú képesítés osztályának megfelelően.
 
-7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^224]
+7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^237]
 
 ## VIZSGASZABÁLYZAT
 
@@ -450,7 +450,7 @@ A jelentkezés formai és tárgyi követelményei
 
 1.1. A vizsgára jelentkezni legalább 10 munkanappal a kijelölt vizsgaidőpont előtt a szükséges dokumentumoknak a hajózási hatóságnál történő leadásával lehet. Ha a hajózási hatóság hiányosságot állapít meg, erről a vizsgázót értesíti. Ha a hiánypótlás a vizsga időpontja előtt 3 munkanappal nem történik meg, a vizsgázó nem vizsgázhat, nem vehető fel a vizsgajegyzőkönyvre, illetve csak a hiánypótlást követően határozható meg az új vizsgaidőpont. Ha a rendelet büntetlen előélet igazolását írja elő, akkor csak 3 hónapnál nem régebbi hatósági erkölcsi bizonyítvány fogadható el.
 
-1.2. Jóváhagyott képzés esetén, a képző szerv kérésére, a vizsga kihelyezve és tárgyanként vagy tárgycsoportonként, a képzés ütemezése szerinti bontásban is megtartható. Ilyen esetben a javító és ismétlő vizsgákra vonatkozó szabályokat tárgyanként vagy tárgycsoportonként kell alkalmazni. Olyan vizsga esetében, amelynél az elméleti vizsgatárgyak vizsgái elektronikus formában történnek, a vizsga kihelyezésére csak a hajózási hatósággal kötött megállapodás alapján van lehetőség.
+1.2.[^238] Jóváhagyott képzés esetén, a képző szerv kérésére, a vizsga kihelyezve és tárgyanként vagy tárgycsoportonként, a képzés ütemezése szerinti bontásban is megtartható. Ilyen esetben a javító vizsgákra vonatkozó szabályokat tárgyanként vagy tárgycsoportonként kell alkalmazni. Olyan vizsga esetében, amelynél az elméleti vizsgatárgyak vizsgái elektronikus formában történnek, a vizsga kihelyezésére csak a hajózási hatósággal kötött megállapodás alapján van lehetőség.
 
 1.3. A vizsgákhoz az előírt gyakorlati időket a következők szerint kell figyelembe venni:
 
@@ -464,9 +464,9 @@ c) A hajónapló vezetésére 2001. január 1-je előtt nem kötelezett úszól�
 
 d) A nem magyar lobogójú úszólétesítményen megszerzett, az illetékes külföldi hajózási hatóság által a külföldi hajós szolgálati könyvben igazolt gyakorlatot a hajózási hatóság elfogadja.
 
-e)[^225] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
+e)[^239] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
 
-1.3.2.[^226] Tengeri hajózásban:
+1.3.2.[^240] Tengeri hajózásban:
 
 A tengerész szolgálati könyvben a hajózási hatóság hitelesítéssel igazolja a gyakorlati időt. A gyakorlati idő naptári hónapban (az összegezett töredékidő 30 napos hónapban) számolható. Nem magyar nyelven kiállított szolgálati igazolás csak hivatalos magyar nyelvű fordítással fogadható el, kivéve ha erre nyilvánvalóan nincs szükség.
 
@@ -474,7 +474,7 @@ Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozó
 
 1.4. A „gyakorlatok vizsgakönyve”-ként csak a hajózási hatóság által hitelesített vizsgakönyv fogadható el.
 
-1.5.[^227] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti. Erre a lehetőségre a hajózási hatóság adatlapján a vizsgázó figyelmét fel kell hívni valamennyi hatáskörrel rendelkező hajózási hatóság megjelölésével. Ezek közül egynek a megjelölése nélkül a jelentkezési lapot elfogadni nem szabad, továbbá fel kell szólítani a vizsgázót ennek pótlására.
+1.5.[^241] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti. Erre a lehetőségre a hajózási hatóság adatlapján a vizsgázó figyelmét fel kell hívni valamennyi hatáskörrel rendelkező hajózási hatóság megjelölésével. Ezek közül egynek a megjelölése nélkül a jelentkezési lapot elfogadni nem szabad, továbbá fel kell szólítani a vizsgázót ennek pótlására.
 
 2. A vizsga megtartásának feltételei, körülményei
 
@@ -646,13 +646,35 @@ A vizsgabizottsági tag:
 
 – végzi az elnök által rábízott feladatokat.
 
-4.7. A vizsgabiztosok díjazása
+4.7.[^242] A vizsgabiztosok díjazása
 
-A vizsgabiztost díjazás illeti meg, amelynek minimális mértékét a hajózási hatóság vezetője állapítja meg.
+A vizsgabiztost díjazás illeti meg. A díjazás magában foglalja a vizsgáztatási díjat és a vizsgáztatók utazási és szállásköltségét is. A vizsgáztatási díjnak a képesítés vizsgakövetelményében meghatározott vizsgatárgyak számától vagy az egy vizsgázó teljes vizsgájának összidejétől függő kategóriába sorolása a következő:
 
-A vizsgadíj kifizetésére, illetve átutalására vonatkozóan a hajózási hatóság havi, illetve kéthavonta történő (göngyölített) kifizetést köthet ki (ezt a megbízási szerződésben rögzíteni kell). A vizsgabiztos kérelmére a vizsgadíj összevontan (például évente, félévente) is kifizethető. Ha a vizsgabiztos lemond a vizsgadíjról, akkor erről nyilatkoznia kell.
+a) I. kategória: 12 vagy több vizsgatárgy vagy több mint 12 óra,
 
-4.8. A tolmács tevékenysége
+b) II. kategória: 6–11 vizsgatárgy vagy 6–12 óra,
+
+c) III. kategória: legfeljebb 5 vizsgatárgy vagy kevesebb mint 6 óra.
+
+Ha a vizsgatárgyak száma és a vizsgák összideje alapján eltérő kategóriába sorolás lehetséges, úgy mindig a magasabb díjazású kategóriát kell választani.
+
+A vizsgáztatási díj vizsgázónként a vizsga évének első munkanapján érvényes kötelező legkisebb munkabér (a továbbiakban: minimálbér) összegének a kerekítés szabályai szerint százas értékre kerekített:
+
+a) a vizsgabizottság elnöke részére I. kategória esetén 4,5%-a, II. kategória esetén 4%-a, III. kategória esetén 3,5%-a,
+
+b) a vizsgabizottság tagja részére I. kategória esetén 3,5%-a, II. kategória esetén 3,1%-a, III. kategória esetén 2,7%-a.
+
+Amennyiben a vizsgára vagy annak egyes vizsgarészeire a vizsgabiztos állandó lakóhelyétől eltérő helységben kerül sor, úgy a vizsgabiztost a vizsgáztatási díj mellett utazási és szállásköltség illeti meg.
+
+Az utazási költség elszámolása tömegközlekedési eszköz igénybevétele esetén a menetjegy, saját gépjármű használata esetén a személyi jövedelemadóról szóló törvény, valamint a munkába járással kapcsolatos utazási költségtérítésről szóló kormányrendelet előírásai alapján történik. Vasút igénybevétele esetén 2. osztályú menetjegy számolható el.
+
+Az utazási eszközt a vizsgáztató választja meg oly módon, hogy a jelenlétét igénylő vizsganapokon a vizsga megkezdése előtt, a pontos kezdést lehetővé tevő időpontban a helyszínre tudjon érkezni. Amennyiben a rendelkezésre álló közlekedési eszközökkel e feltétel nem biztosítható, a vizsgáztató éjszakánként legfeljebb a minimálbér 15%-ának megfelelő összeghatárig szállást vehet igénybe.
+
+A vizsgaszervező – a vizsgáztatóval egyeztetetten – gondoskodhat az utaztatásról, illetve a szállásról. Ez esetben a vizsgáztatót külön utazási, illetve szállásköltség nem illeti meg.
+
+A vizsgadíj kifizetésére, illetve átutalására vonatkozóan a hajózási hatóság havi, illetve kéthavonta történő (göngyölített) kifizetést köthet ki (ezt a megbízási szerződésben rögzíteni kell). A vizsgabiztos kérelmére a vizsgadíj összevontan is kifizethető. Ha a vizsgabiztos lemond a vizsgadíjról, akkor erről nyilatkoznia kell.
+
+4.8.[^243] A tolmács tevékenysége
 
 A tolmács:
 
@@ -664,7 +686,7 @@ A tolmács:
 
 – díjazása a vizsgázó, illetve a képző szerv kötelezettsége, a hajózási hatóságtól díjazásra nem tarthat igényt, kivéve ha az szerződésben erre kötelezettséget vállalt.
 
-Ha a tolmács tevékenységében a vizsgabizottság jogellenességet tapasztal, a vizsgabizottság a vizsgát felfüggeszti, a vizsgázót ismétlő vizsgára utasítja, és a tolmácsot kizárja a vizsgán történő részvételből.
+Ha a tolmács tevékenységében a vizsgabizottság jogellenességet tapasztal, a vizsgabizottság a vizsgát felfüggeszti, a vizsgázót a vizsga megismétlésére utasítja, és a tolmácsot kizárja a vizsgán történő részvételből.
 
 5. A vizsgák részei, követelményei és értékelésük
 
@@ -808,7 +830,7 @@ A képesítő vizsgára jelentkezőkről és a vizsgát tett személyekről a ha
 
 Sikeres a képesítő vizsgája annak, aki minden tárgyból „Megfelelt” minősítéssel tett vizsgát, illetve az e Szabályzatban előírt pontszámot elérte (illetve felmentése volt). A vizsga eredményét a vizsgázóval a vizsga befejezése után közvetlenül, vizsgatárgyanként ismertetni kell.
 
-Függelék a Vizsgaszabályzathoz[^228]
+Függelék a Vizsgaszabályzathoz[^244]
 
 A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek kijelölése
 
@@ -838,8 +860,11 @@ A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek ki
 
 | – Radarhajós vizsga | – radarhajózásra alkalmas nagyhajó, kishajó vagy komp a képesítés korlátozásának megfelelően (rendelkeznie kell a radarhajózáshoz előírt üzemképes berendezésekkel (URH rádió-készülékkel, fordulásjelzővel, hangjelző berendezés stb.), valamint a hajó vezetésére jogosult radarhajós képesítésű vezetővel; – a hajó kormányállását a vizsga tartamára le kell függönyözni; | – a gyakorlati vizsga elemeiként előírt olyan nyílt folyami vagy tavi vízterület, ahol szűkület és legalább 8 db kitűző jel található, valamint veszteglő úszólétesítmények, továbbá közlekedő hajók várhatók; – legalább egy medencés kikötő, ahová a be- és kihajózás szabad; |
 
-[^224]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
-[^225]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^226]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
-[^227]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^228]: A 7. számú melléklet Függeléke a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
+[^237]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
+[^238]: A 7. számú melléklet 1.2. pontja a 42/2013. (VII. 19.) NFM rendelet 4. § c) pontja szerint módosított szöveg.
+[^239]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
+[^240]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
+[^241]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
+[^242]: A 7. számú melléklet 4.7. pontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
+[^243]: A 7. számú melléklet 4.8. pontja a 42/2013. (VII. 19.) NFM rendelet 3. § d) pontja szerint módosított szöveg.
+[^244]: A 7. számú melléklet Függeléke a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.

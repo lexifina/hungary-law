@@ -8,7 +8,7 @@
 
 (4) A képesítések helyettesíthetőségének szabályait az 5. számú melléklet tartalmazza.
 
-(5)[^20] A képesítés megszerzéséhez vizsgát kell tenni. A vizsga követelményszintjét és a vizsgáztatás módszerét, ideértve a vizsgák alóli mentesítés részletes szabályait és feltételeit is, valamint a vizsgabizottság működési rendjét a 7. számú mellékletben foglalt vizsgaszabályzat állapítja meg.
+(5)[^20] A képesítés megszerzéséhez vizsgát kell tenni. A vizsgák részletes szabályait és feltételeit, valamint a vizsgabizottság működési rendjét a 7. számú mellékletben foglalt vizsgaszabályzat állapítja meg. A hajózási hatóság e rendelet keretein belül meghatározza a vizsgakövetelményekre vagy a képesítés megszerzésére vonatkozó előírások alapján a számonkérhető ismeretanyagot, a vizsgafeladatokat és a vizsgatárgyak számonkérésének módját.
 
 [^19]: A 3. § (2) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^20]: A 3. § (5) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^20]: A 3. § (5) bekezdése a 42/2013. (VII. 19.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.

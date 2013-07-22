@@ -10,10 +10,10 @@
 
 (5) A szervezett képzést a hajózási hatóság ellenőrzi. Az ellenőrzésről a képzési naplóba bejegyzést kell tenni. Ha az ellenőrzés során a hajózási hatóság az előírt feltételek hiányát állapítja meg, a képzés jóváhagyását visszavonja.
 
-(6)[^23] A jóváhagyott képzéseket a hajózási hatóság tartja nyilván, és a nyilvántartásról a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben évente egyszer tájékoztatót tesz közzé.
+(6)[^23] A jóváhagyott képzéseket a hajózási hatóság tartja nyilván, és a nyilvántartásról a honlapján tájékoztatót tesz közzé.
 
 (7) Hivatásos tengerész és tengeri kedvtelési célú képesítés megszerzésére irányuló felkészülés csak jóváhagyott képzés keretében történhet.
 
 [^21]: A 4. § a 3/2008. (VI. 3.) KHEM rendelet 3. §-ával megállapított szöveg.
 [^22]: A 4. § (1) bekezdés második mondata a 15/2008. (VII. 31.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^23]: A 4. § (6) bekezdése a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének a) pontja szerint módosított szöveg.
+[^23]: A 4. § (6) bekezdése a 42/2013. (VII. 19.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
