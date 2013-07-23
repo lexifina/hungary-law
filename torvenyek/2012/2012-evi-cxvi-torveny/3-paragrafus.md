@@ -8,7 +8,7 @@
 
 (4) Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget
 
-a) az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik, vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
+a) az (5) bekezdésben foglaltak kivételével az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik, vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
 
 b) az ügyfélszámlán vagy a befektetési szolgáltatással kapcsolatban egyéb számlán végrehajtott fizetési művelet, ideértve a fizetési számla és az ügyfélszámla között végrehajtott fizetési műveletet abban az esetben, ha
 
@@ -39,3 +39,13 @@ k) a kincstár által a Nemzeti Adó- és Vámhivatal számára vezetett nemzetg
 l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
 
 m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla.
+
+(5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
+
+a) a költségvetési szerv saját számlája és szervezeti egységei számlái között végrehajtott fizetési művelet,
+
+b) a költségvetési szerv, elkülönített állami pénzalap számlája és szervezeti egységei számlái között történő és egyéb támogatási keret átvezetés,
+
+c) az azonos cégjegyzékszámú nonprofit gazdasági társaság központja és telephelyei számlái között végrehajtott fizetési művelet,
+
+d) a fejezeti jogosultsággal rendelkező, valamint fejezetet irányító költségvetési szerv nem korlátozott rendeltetésű fejezeti és intézményi számlái között végrehajtott fizetési művelet.

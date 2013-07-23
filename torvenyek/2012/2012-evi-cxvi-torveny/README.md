@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-116-00-00
 | 2013-02-01 | 2012. évi CCVIII. törvény | 2012-116-00-00.2 |
 | 2013-04-21 | 2013. évi XXXVII. törvény | 2012-116-00-00.3 |
 | 2013-06-30 | 2013. évi CIII. törvény | 2012-116-00-00.4 |
+| 2013-07-23 | 2013. évi CIII. törvény | 2012-116-00-00.5 |
