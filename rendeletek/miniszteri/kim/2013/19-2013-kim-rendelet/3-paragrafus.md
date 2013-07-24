@@ -1,0 +1,3 @@
+## 2. § A polgárok személyi adatainak és lakcímének nyilvántartásából teljesített adatszolgáltatásért, a kapcsolatfelvétel céljából való megkeresésért, valamint értesítésért fizetendő igazgatási szolgáltatási díjról szóló 16/2007. (III. 13.) IRM–MeHVM együttes rendelet 4. § (7) bekezdésének b) pontjában az „a települési (fővárosi kerületi) önkormányzat jegyzője” szövegrész helyébe a „települési (fővárosi kerületi) önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző” szövegrész lép.
+
+3. § E rendelet a kihirdetését követő napon lép hatályba.

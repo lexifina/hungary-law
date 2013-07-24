@@ -1,0 +1,3 @@
+## 1. § A kényszergyógykezelés és az ideiglenes kényszergyógykezelés végrehajtásáról, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet feladatairól, működéséről szóló 36/2003. (X. 3.) IM rendelet 38. §-ában az „illetékes települési (kerületi) önkormányzatot” szövegrész helyébe az „illetékes települési (kerületi) önkormányzatot, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a Fővárosi Önkormányzatot” szövegrész lép.
+
+## 2. A polgárok személyi adatainak és lakcímének nyilvántartásából teljesített adatszolgáltatásért, a kapcsolatfelvétel céljából való megkeresésért, valamint értesítésért fizetendő igazgatási szolgáltatási díjról szóló 16/2007. (III. 13.) IRM–MeHVM együttes rendelet módosítása
