@@ -1,0 +1,75 @@
+## 1. egyetért azzal, hogy a többségi állami tulajdonban lévő öt regionális víziközmű-társaság (Dunántúli Regionális Vízmű Zrt., Duna Menti Regionális Vízmű Zrt., Északmagyarországi Regionális Vízművek Zrt., Tiszamenti Regionális Vízművek Zrt., valamint az Északdunántúli Vízmű Zrt.) összesen 7000,0 millió forint forrásjuttatásban részesüljön a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet terhére;
+
+## 2. az 1. pontban foglaltak megvalósítása érdekében a Kvtv. 7. § (1) bekezdése alapján a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 5. Fejezeti tartalék alcím terhére 2200,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 2. Hasznosítással kapcsolatos folyó kiadások alcím, 4. Állami tulajdonú társaságok támogatása jogcímcsoport, 1. Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések jogcím javára az 1. melléklet szerint;
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## 3. felhívja a nemzeti fejlesztési minisztert, hogy a Támogatásokat Vizsgáló Iroda bevonásával gondoskodjon a szükséges közszolgáltatási szerződések létrehozásáról;
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
+## 4. felhívja a nemzeti fejlesztési minisztert, hogy készítse elő és terjessze be a Kormány részére a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény, valamint a közbeszerzésekről szóló 2011. évi CVIII. törvény módosításáról szóló kormány-előterjesztést;
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: 2013. július 31.
+
+## 5. felhívja a nemzeti fejlesztési minisztert, hogy a nemzetgazdasági miniszter bevonásával vizsgálja meg a közérdekű üzemeltetéshez szükséges források 2013. év második félévében történő biztosításának lehetőségét, és erre vonatkozóan tegyen javaslatot a Kormány részére.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: 2013. augusztus 31.
+
+1. melléklet az 1468/2013. (VII. 24.) Korm. határozathoz
+
+XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA *
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| millió forintban, egy tizedessel ! |
+
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XLIII. |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 2 |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 278645 |  |  | 5 |  |  |  |  |  |  | Fejezeti tartalék |  |  |  |  |  |  |  |  | -2 200,0 |  |  |  |
+
+|  | XLIII. |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 2 |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 2 |  |  |  |  |  |  | Hasznosítással kapcsolatos folyó kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 4 |  |  |  |  |  |  | Állami tulajdonú társaságok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 296357 |  |  |  |  | 1 |  |  |  |  |  |  | Az MNV Zrt. Tulajdonosi joggyakorlásával kapcsolatos kifizetések |  |  |  |  |  |  |  |  | 2 200,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | AZONNAL |  |  |  | 2 200,0 |  |  |  |  |  |  |  |  |  |  | 2 200,0 |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
