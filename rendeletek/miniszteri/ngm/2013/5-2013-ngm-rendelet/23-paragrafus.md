@@ -1,6 +1,6 @@
 ## 16. Nemzetközi befektetéseket támogató célelőirányzat (25/02/51)
 
-23. § (1) Az előirányzat a nemzetközi és a hazai potenciális befektetők felkutatásához, munkahelyteremtő beruházások Magyarországon történő megvalósulásához, hazai vállalkozások nemzetközi befektetéseinek támogatásához, a magyar beszállítói háttér fejlesztéséhez, a magyar export növekedéséhez, hazai vállalkozások számára új üzleti lehetőségek felkutatásához, kereskedelemfejlesztési pályázatok finanszírozásához, valamint a külgazdasági szakdiplomaták kiadásaihoz szükséges forrást biztosítja.
+23. § (1)[^3] Az előirányzat a nemzetközi és a hazai potenciális befektetők felkutatásához, munkahelyteremtő beruházások Magyarországon történő megvalósulásához, hazai vállalkozások nemzetközi befektetéseinek támogatásához, a magyar beszállítói háttér fejlesztéséhez, a magyar export növekedéséhez, hazai vállalkozások számára új üzleti lehetőségek felkutatásához, kereskedelemfejlesztési pályázatok finanszírozásához, lebonyolításához, valamint a külgazdasági szakdiplomaták kiadásaihoz szükséges forrást biztosítja.
 
 (2) Az előirányzat felhasználása
 
@@ -20,4 +20,10 @@ d) költségvetési szerv részére előirányzat-átcsoportosítással
 
 (5) A költségvetési támogatás nem visszafizetendő támogatás.
 
-(6) Az előirányzat lebonyolító szerve a Nemzeti Külgazdasági Hivatal, amely a tevékenységét a Magyar Gazdaságfejlesztési Központ Zrt. bevonásával végzi.
+(6)[^4] A 2012. évi kereskedelemfejlesztési pályázatok támogatására felhasználható, 2012. december 31-én kötelezettségvállalással terhelt előirányzat-maradvány lebonyolító szerve a Nemzeti Külgazdasági Hivatal, amely e tevékenységét a MAG – Magyar Gazdaságfejlesztési Központ Zrt. (a továbbiakban: MAG Zrt.) bevonásával végzi.
+
+(7)[^5] Az előirányzaton rendelkezésre álló 2013. évi eredeti előirányzat terhére kiírandó 2013. évi kereskedelemfejlesztési pályázatok lebonyolító szerve a MAG Zrt.
+
+[^3]: A 23. § (1) bekezdése a 30/2013. (VII. 23.) NGM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 23. § (6) bekezdése a 30/2013. (VII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 23. § (7) bekezdését a 30/2013. (VII. 23.) NGM rendelet 3. §-a iktatta be.

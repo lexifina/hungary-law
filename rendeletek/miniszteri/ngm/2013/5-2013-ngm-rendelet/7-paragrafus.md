@@ -10,7 +10,7 @@ c) a kifogás tárgyában hozott döntésben foglaltakból adódó, a kezelő sz
 
 d) a kezelő szerv az Ávr. 13. § (3) bekezdésében meghatározott szabályzatának e rendelet hatálybalépését követő 30 napon belüli elkészítéséért.
 
-(2) A kezelő szerv és a lebonyolító szerv a szakmai kezelőt 5 munkanapon belül tájékoztatja
+(2)[^2] A kezelő szerv és a lebonyolító szerv – az olyan előirányzatokból nyújtott költségvetési támogatások kivételével, amelyeknek a kezelő szerve vagy a lebonyolító szerve e rendelet alapján a Nemzeti Adó- és Vámhivatal – a szakmai kezelőt 5 munkanapon belül tájékoztatja
 
 a) a költségvetési támogatás igénylője és kedvezményezettje által a pályázatok és az egyedi támogatási kérelmek benyújtásával kapcsolatos eljárással,
 
@@ -21,3 +21,5 @@ c) a támogatási döntés meghozatalával,
 d) a támogatói okiratok kiadásával és a támogatási szerződések megkötésével,
 
 e) a költségvetési támogatás folyósításával és visszakövetelésével
+
+[^2]: A 7. § (2) bekezdés nyitó szövegrésze a 30/2013. (VII. 23.) NGM rendelet 7. §-a szerint módosított szöveg.
