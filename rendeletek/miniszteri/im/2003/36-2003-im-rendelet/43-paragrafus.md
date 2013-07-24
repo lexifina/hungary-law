@@ -1,4 +1,4 @@
-## 42. §[^20] Az IMEI Magyarország címerével ellátott körbélyegzőt használ, amelynek felirata:
+## 42. §[^21] Az IMEI Magyarország címerével ellátott körbélyegzőt használ, amelynek felirata:
 
 ## ,,
 
@@ -8,4 +8,4 @@
 
 (2) Az IMEI jelentéseit, továbbá az IMEI dolgozóinak az intézet nevében készített és az intézet tevékenységével összefüggő tudományos előadásait, közleményeit, kutatási munkáit a főigazgató főorvos hagyja jóvá.
 
-[^20]: A 42. § a 9/2013. (VI. 29.) KIM rendelet 68. § g) pontja szerint módosított szöveg.
+[^21]: A 42. § a 9/2013. (VI. 29.) KIM rendelet 68. § g) pontja szerint módosított szöveg.
