@@ -1,4 +1,4 @@
-1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján a vad védelmét és a fenntartható vadgazdálkodást érintő kérdések megtárgyalásához, a vadgazdálkodás széles körű társadalmi és tudományos, szakmai megalapozása, valamint az állami tulajdonú vad védelméhez fűződő érdekek közti összhang megteremtése érdekében 12 tagú, véleményező, javaslattevő tevékenységet ellátó Országos Vadgazdálkodási Tanácsot (a továbbiakban: OVT) hoz létre.
+1.[^1] A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján a vad védelmét és a fenntartható vadgazdálkodást érintő kérdések megtárgyalásához, a vadgazdálkodás széles körű társadalmi és tudományos, szakmai megalapozása, valamint az állami tulajdonú vad védelméhez fűződő érdekek közti összhang megteremtése érdekében 13 tagú, véleményező, javaslattevő tevékenységet ellátó Országos Vadgazdálkodási Tanácsot (a továbbiakban: OVT) hoz létre.
 
 2. Az OVT, mint a Kormány véleményező, javaslattevő, tanácsadó testülete kiemelten fontos szerepet játszik a vadgazdálkodási szakmapolitikai célok megfogalmazásában, a vadgazdálkodás, vadászati igazgatás és kutatás szakmai és érdekképviseleti szervezetek vadászati ágazatot érintő egységes álláspontjának megformálásában.
 
@@ -79,3 +79,5 @@ d) a vadászat és vadgazdálkodás területi érdekképviseletének javaslata a
 24. A Tanács elnöke és tagjai tiszteletdíjat, költségtérítést nem kapnak.
 
 25. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont az 1466/2013. (VII. 24.) Korm. határozat 3. pontjával megállapított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1380-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-06-28 | 2013-1380-30-22.1 | 1380/2013. (VI. 27.) Korm. határozat |
+| 2013-07-25 | 2013-1380-30-22.2 | 1466/2013. (VII. 24.) Korm. határozat |
