@@ -2,9 +2,9 @@
 
 a) az 1072/2009/EK rendelet 4. cikke szerinti– nemzetközi közúti árufuvarozásra kiadott – közösségi engedéllyel (a továbbiakban: árutovábbítási közösségi engedély),
 
-b) a Közlekedési Miniszterek Európai Konferenciája által létrehozott engedéllyel (a továbbiakban: CEMT engedély), vagy
+b)[^20] a Nemzetközi Közlekedési Fórum által létrehozott engedéllyel (a továbbiakban: CEMT engedély), vagy
 
-c) a teherjárműre kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
+c)[^21] a tehergépjárműre kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel
 
 végezhető.
 
@@ -21,3 +21,6 @@ b) az autóbusszal végzett nemzetközi nem menetrend szerinti személyszállít
 c) kettő vagy többoldalú nemzetközi egyezmény alapján kiadott engedéllyel vagy igazolvánnyal
 
 végezhető.
+
+[^20]: A 4. § (1) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdés c) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.

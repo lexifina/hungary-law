@@ -2,7 +2,7 @@
 
 (2) A sikeres vizsga feltétele, hogy a vizsgázó a megszerezhető összes pontszámnak legalább a 60%-át elérje, továbbá valamennyi vizsgatárgyból megszerezze az ott elérhető pontszámoknak legalább az 50%-át. Sikertelen vizsga esetén a vizsgázó a vizsgatárgyból egy éven belül ismétlő vizsgát tehet.
 
-(3)[^6] A vizsga helyét és időpontját, valamint a vizsgabiztosokat a közlekedési hatóság jelöli ki. A vizsgáról jegyzőkönyvet kell készíteni. Sikeres vizsga esetén a vizsgázó számára a képesítéséről, a végzett szaktanfolyam és a vizsga jellegétől függően, az 1071/2009/EK rendelet 613/2012/EU bizottsági rendelettel módosított III. mellékletében meghatározottak szerinti – árufuvarozó szakmai irányítói, személyszállító szakmai irányítói – bizonyítványt (a továbbiakban: szakmai alkalmasságot igazoló bizonyítvány) kell kiadni. A szakmai alkalmasságot igazoló bizonyítvány igazolja a szakmai irányítói képesítés megszerzését.
+(3)[^25] A vizsga helyét és időpontját, valamint a vizsgabiztosokat a közlekedési hatóság jelöli ki. A vizsgáról jegyzőkönyvet kell készíteni. Sikeres vizsga esetén a vizsgázó számára a képesítéséről, a végzett szaktanfolyam és a vizsga jellegétől függően, az 1071/2009/EK rendelet 613/2012/EU bizottsági rendelettel módosított III. mellékletében meghatározottak szerinti – árufuvarozó szakmai irányítói, személyszállító szakmai irányítói – bizonyítványt (a továbbiakban: szakmai alkalmasságot igazoló bizonyítvány) kell kiadni. A szakmai alkalmasságot igazoló bizonyítvány igazolja a szakmai irányítói képesítés megszerzését.
 
 (4) A szakmai irányítói képesítést szaktanfolyami képzés nélkül szerezhet az a személy, aki hitelt érdemlően bizonyítja, hogy 2009. december hó 4. napját megelőzően folyamatosan tíz éven keresztül szakirányú szakmai vezető beosztásban dolgozott közúti közlekedési szolgáltatási tevékenységet végző, Magyarország területén székhellyel rendelkező gazdálkodó szervezetnél. A vizsgára a (2)–(3) bekezdésekben foglaltakat kell alkalmazni.
 
@@ -12,4 +12,4 @@
 
 (7) A szakmai irányítók részére továbbképzést szervezni a közlekedési hatóság engedélye alapján lehet. A továbbképzés célja a szabályozásban időközben bekövetkezett változások megismertetése. A továbbképzést követő vizsgáztatást a közlekedési hatóság végzi, az előírt vizsgakötelezettségek sikeres teljesítéséről a közlekedési hatóság igazolást (továbbiakban: továbbképzési igazolás) ad ki. A szakmai alkalmasságot igazoló bizonyítvány tíz év eltelte után csak – a tíz évnél nem régebben kiállított – továbbképzési igazolással együtt érvényes. A továbbképzés tan- és vizsgakövetelményeit a 3. melléklet tartalmazza.
 
-[^6]: A 10. § (3) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^25]: A 10. § (3) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.

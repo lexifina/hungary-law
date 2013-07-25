@@ -8,9 +8,9 @@
 
 a) a Magyarország területén belföldi forgalomban és nemzetközi forgalomban
 
-aa) díj ellenében végzett közúti árutovábbítási, valamint autóbusszal díj ellenében végzett személyszállítási tevékenységre (a rendelet alkalmazásában a továbbiakban együtt: közúti közlekedési szolgáltatás),
+aa)[^1] tehergépjárművel díj ellenében végzett közúti árutovábbítási, valamint autóbusszal díj ellenében végzett személyszállítási tevékenységre (a rendelet alkalmazásában a továbbiakban együtt: közúti közlekedési szolgáltatás),
 
-ab) saját számlás közúti áruszállításra, és
+ab)[^2] tehergépjárművel végzett saját számlás közúti áruszállításra, és
 
 ac) autóbusszal végzett saját számlás személyszállításra,
 
@@ -24,4 +24,8 @@ terjed ki.
 
 (3) Jogszabály eltérő rendelkezése hiányában az autómentési szolgáltatást végző gazdálkodó szervezet díj ellenében végzett közúti árutovábbítási tevékenységére a rendelet rendelkezéseit kell alkalmazni.
 
-(4) Nem terjed ki a rendelet hatálya – a 13. § (2)–(3) bekezdésben, a 18. § (1) bekezdésben, a 19. § (3) bekezdésben, a 20. §-ban, valamint a 33. (4)–(5) bekezdéseiben foglaltak kivételével – a postai küldeménynek a postáról szóló törvény alapján postai szolgáltatásnak minősülő továbbítására, szállítására.
+(4)[^3] Nem terjed ki a rendelet hatálya – a 13. § (2)–(3) bekezdésében, a 18. § (1) bekezdésében, a 19. § (3) bekezdésében, a 20. §-ban, valamint a 33. § (4)–(5) bekezdésében foglaltak kivételével – a postai küldeménynek a postai szolgáltatásokról szóló törvény alapján postai szolgáltatásnak minősülő szállítására, valamint a hulladékról szóló törvény alapján hulladékgazdálkodási engedély birtokában végzett szállításra.
+
+[^1]: Az 1. § (1) bekezdés a) pont aa) alpontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés a) pont ab) alpontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 4. §-ával megállapított szöveg.

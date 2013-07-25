@@ -2,7 +2,7 @@
 
 (2) A közlekedési hatóság a Magyarország területén székhellyel rendelkező gazdálkodó szervezet részére
 
-a) az – akár csak részben is – 3,5 tonnát meghaladó megengedett legnagyobb össztömegű teherjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt,
+a)[^24] az – akár csak részben is – 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt,
 
 b) az autóbusszal díj ellenében végzett személyszállítási tevékenységre közúti személyszállítási engedélyt
 
@@ -13,3 +13,5 @@ ad ki.
 (4) A közlekedési hatóság ügyintézési határidejét az 1071/2009/EK rendelet 11. cikk (3) bekezdése tartalmazza.
 
 (5) A kiadott engedélyek, engedély-kivonatok másnak át nem adhatók.
+
+[^24]: A 8. § (2) bekezdés a) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.

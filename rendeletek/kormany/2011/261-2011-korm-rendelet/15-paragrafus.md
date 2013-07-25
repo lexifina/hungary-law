@@ -12,7 +12,7 @@ e) az üzemeltethető járművek számát, autóbuszok esetében azok összes f�
 
 f) a szakmai irányító képesítésének korlátozottsága miatt, vagy bármely egyéb okból a tevékenységi engedély esetleges korlátozását.
 
-(2)[^13] A járművek számának megfelelő számban kiadott tevékenységi engedély másolata (a továbbiakban: engedélykivonat) a jármű forgalmi rendszámára szól, és legalább tartalmazza az engedélykivonat alszámát is.
+(2)[^33] A járművek számának megfelelő számban kiadott tevékenységi engedély másolata (a továbbiakban: engedélykivonat) a jármű forgalmi rendszámára szól, és legalább tartalmazza az engedélykivonat alszámát is.
 
 (3) A tevékenységi engedély adataiban bekövetkezett változást az engedélyes tizenöt napon belül köteles a közlekedési hatóságnak bejelenteni. Be kell jelenteni továbbá az engedély alapján üzemeltetett járművekben történő változást is; ez a bejelentési kötelezettség azonban nem vonatkozik a jármű átmeneti kiesése esetén igénybe vett helyettesítő járműre, ha az igénybevétel időtartama – szerződéssel igazoltan – nem haladja meg a tizenöt napot.
 
@@ -24,4 +24,4 @@ f) a szakmai irányító képesítésének korlátozottsága miatt, vagy bármel
 
 (7) A gazdálkodó szervezet köteles a tevékenységi engedélyt és az engedélykivonatokat a közúti közlekedési szolgáltatási tevékenység szüneteltetése esetén a közlekedési hatóságnál letétbe helyezni; a tevékenység megszűnése esetén, illetve az engedély időbeli hatályának lejártával pedig azt köteles a közlekedési hatóságnak visszaszolgáltatni.
 
-[^13]: A 15. § (2) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^33]: A 15. § (2) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.

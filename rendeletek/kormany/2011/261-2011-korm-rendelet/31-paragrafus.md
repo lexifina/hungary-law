@@ -1,6 +1,6 @@
-## 30. § Autóbusszal saját számlás személyszállítás közúti személyszállítási igazolvánnyal végezhető.
+## 30. §[^47] Autóbusszal saját számlás személyszállítás közúti személyszállítási igazolvánnyal végezhető. Nem szükséges a saját számlás személyszállítás végzéséhez közúti személyszállítási igazolvány olyan autóbusz igénybevétele esetén, amelyre a közlekedési hatóság engedélykivonatot állított ki.
 
-31. § (1) A közúti áruszállítási igazolványt és a közúti személyszállítási igazolványt (a továbbiakban együtt: igazolvány) – járművenként két példányban, kérelemre – a közlekedési hatóság adja ki.
+31. § (1)[^48] A közúti áruszállítási igazolványt és a közúti személyszállítási igazolványt (a továbbiakban együtt: igazolvány) – járművenként (járműszerelvény esetében csak a vontató járműre) két példányban, kérelemre – a gazdálkodó szervezet székhelye szerint illetékes közlekedési hatóság adja ki.
 
 (2) Az igazolvány abban az esetben adható ki, ha a jármű üzemeltetője nyilatkozatot tesz, hogy az igazolvánnyal végzett tevékenysége mindenben megfelel a saját számlás közúti áruszállítás, illetve az autóbusszal végzett saját számlás személyszállítás feltételeinek.
 
@@ -19,3 +19,6 @@ a) saját számlás közúti áruszállítás, vagy autóbusszal saját számlá
 b) a tagállamok a területén saját számlás közúti áruszállítás az 1072/2009/EK 1. cikk (5) bekezdés d) pontjában, autóbusszal saját számlás személyszállítás az 1073/2009/EK 3. cikk (2) bekezdésében foglaltak szerint is
 
 végezhető.
+
+[^47]: A 30. § a 280/2013. (VII. 24.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^48]: A 31. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
