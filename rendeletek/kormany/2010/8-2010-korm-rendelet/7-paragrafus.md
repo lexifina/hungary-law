@@ -56,9 +56,11 @@ becsatolásával köteles az Igazgatóság és a fővárosi és megyei kormányh
 
 (4a)[^19] A (4) bekezdésben meghatározott határidő módosítására egy alkalommal, legfeljebb az elszámolási határidő 24 hónapra történő megváltoztatásával van lehetőség, amennyiben az önkormányzaton kívül álló szervezet tevékenysége vagy időjárási körülmények akadályozzák a határidő betartását. A kérelemhez csatolni kell a határidő módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdését, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket.
 
-(5)[^20] A fővárosi és megyei kormányhivatal képviselője és a Katasztrófavédelmi Igazgatóság képviselője a helyreállítás során annak befejezéséig a támogatás felhasználását a helyszínen ellenőrizheti.
+(4b)[^20] A 2010. október 4-én bekövetkezett vörösiszap-katasztrófával érintett települések esetében – a (4a) bekezdéstől eltérően – az elszámolási határidő módosítására két alkalommal van lehetőség, legfeljebb az elszámolási határidő 2013. december 31-éig történő meghosszabbításával. A határidő-módosítási kérelmet e rendelkezés hatálybalépését követő 15 napon belül lehet benyújtani az Igazgatóságnak. A kérelemhez csatolni kell a határidő-módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdésének időpontját, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket. A támogatás lehívására a meghosszabbított elszámolási határidő végéig benyújtott számlák esetében van lehetőség.
 
-(6)[^21] Helyreállítás esetében az elszámolás elfogadását megelőzően a fővárosi és megyei kormányhivatal, a káresemény jellegétől függően a Katasztrófavédelmi Igazgatóság, területileg illetékes vízügyi igazgatóság, Közlekedésfejlesztési Koordinációs Központ és a településfejlesztésért és településrendezésért felelős miniszter által kinevezett szakértői bizottság képviselőiből álló bizottság a helyszínen ellenőrzést folytat, melyről – intézkedési javaslatok megtételével – 5 munkanapon belül értesíti az Igazgatóságot.
+(5)[^21] A fővárosi és megyei kormányhivatal képviselője és a Katasztrófavédelmi Igazgatóság képviselője a helyreállítás során annak befejezéséig a támogatás felhasználását a helyszínen ellenőrizheti.
+
+(6)[^22] Helyreállítás esetében az elszámolás elfogadását megelőzően a fővárosi és megyei kormányhivatal, a káresemény jellegétől függően a Katasztrófavédelmi Igazgatóság, területileg illetékes vízügyi igazgatóság, Közlekedésfejlesztési Koordinációs Központ és a településfejlesztésért és településrendezésért felelős miniszter által kinevezett szakértői bizottság képviselőiből álló bizottság a helyszínen ellenőrzést folytat, melyről – intézkedési javaslatok megtételével – 5 munkanapon belül értesíti az Igazgatóságot.
 
 (7) Az elszámolásokról, illetve az esetleges visszafizetési kötelezettség előírásáról az Igazgatóság dönt, amelyről értesíti a Támogatottat és a minisztert. Az Igazgatóság ellenőrzi az esetleges visszafizetési kötelezettség teljesítését.
 
@@ -72,5 +74,6 @@ becsatolásával köteles az Igazgatóság és a fővárosi és megyei kormányh
 [^17]: A 7. § (2) bekezdés d) pontja a 210/2011. (X. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^18]: A 7. § (4) bekezdés záró szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
 [^19]: A 7. § (4a) bekezdését a 210/2011. (X. 12.) Korm. rendelet 1. §-a iktatta be.
-[^20]: A 7. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 69. § c) pontja szerint módosított szöveg.
-[^21]: A 7. § (6) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 30. § e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
+[^20]: A 7. § (4b) bekezdését a 279/2013. (VII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 7. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 69. § c) pontja szerint módosított szöveg.
+[^22]: A 7. § (6) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 30. § e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
