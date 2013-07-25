@@ -12,7 +12,7 @@
 
 ## a) a megszűnt PTA kormányzati hálózatbiztonsággal kapcsolatos közfeladatait a Nemzetbiztonsági Szakszolgálat lássa el, és a PTA ezzel kapcsolatos vagyoni jogai és a megszüntetésre irányuló eljárás kezdő időpontja után esedékessé váló kötelezettségei a Nemzetbiztonsági Szakszolgálatra, mint jogutódra szállnak át;
 
-## b) a PTA hálózatbiztonsággal kapcsolatos egyéb feladatait – amelyek nem minősülnek közfeladatnak – a NETI Informatikai Tanácsadó Korlátolt Felelősségű Társaság (a továbbiakban: NETI) lássa el, a PTA megszűnését követően az ezekkel kapcsolatos jogok és kötelezettségek a NETI-re mint jogutódra szállnak át;
+## b)[^1]
 
 ## c) a PTA EU Csoport feladatait a Nemzeti Információs Infrastruktúra Fejlesztési Intézet (a továbbiakban: NIIFI) lássa el, a PTA megszűnését követően az ezekkel kapcsolatos jogok és kötelezettségek a NIIFI-re, mint jogutódra szállnak;
 
@@ -30,7 +30,7 @@
 
 ## a) az állami vagyon felügyeletéért felelős minisztert, hogy a PTA megszűnését és az NT Nonprofit Közhasznú Kft. 100%-os társasági részesedésének állami tulajdonba kerülését követően a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján intézkedjen az NT Nonprofit Közhasznú Kft. végelszámolással történő megszüntetése érdekében azzal, hogy az NT Nonprofit Közhasznú Kft. megszűnését követően a tartozások kiegyenlítését követően fennmaradó vagyona vagyonkezelési szerződés útján a NIIFI-hez kerüljön;
 
-## b)[^1] az informatikáért felelős minisztert, hogy gondoskodjon arról, hogy a NT Nonprofit Közhasznú Kft. céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen a NIIFI által.
+## b)[^2] az informatikáért felelős minisztert, hogy gondoskodjon arról, hogy a NT Nonprofit Közhasznú Kft. céljait megvalósító tevékenység vagyonvesztés nélkül, folyamatosan biztosítható legyen a NIIFI által.
 
 ## Felelős: az állami vagyonért felelős miniszter
 
@@ -76,7 +76,7 @@
 
 ## Határidő: a Korm. határozat hatályba lépését követően azonnal
 
-## 10.[^2] A Kormány felhívja a fejlesztéspolitikáért felelős minisztert, hogy intézkedjen arról, hogy a Társadalmi Megújulás Operatív Program (TÁMOP) 2.1.2. „Idegen nyelvi és informatikai kompetenciák fejlesztése” című, folyamatban lévő kiemelt projekt konzorciumi partneri feladatait, valamint az NT Nonprofit Közhasznú Kft. projektben foglalkoztatott munkatársainak folytatólagos foglalkoztatását kedvezményezettként a NIIFI lássa el.
+## 10.[^3] A Kormány felhívja a fejlesztéspolitikáért felelős minisztert, hogy intézkedjen arról, hogy a Társadalmi Megújulás Operatív Program (TÁMOP) 2.1.2. „Idegen nyelvi és informatikai kompetenciák fejlesztése” című, folyamatban lévő kiemelt projekt konzorciumi partneri feladatait, valamint az NT Nonprofit Közhasznú Kft. projektben foglalkoztatott munkatársainak folytatólagos foglalkoztatását kedvezményezettként a NIIFI lássa el.
 
 ## Felelős: fejlesztéspolitikáért felelős miniszter
 
@@ -196,5 +196,6 @@ XVII. Nemzeti Fejlesztési Minisztérium
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4. pont b) alpontja az 1387/2013. (VI. 30.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
-[^2]: A 10. pont az 1387/2013. (VI. 30.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^1]: A 2. pont b) alpontját az 1466/2013. (VII. 24.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^2]: A 4. pont b) alpontja az 1387/2013. (VI. 30.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^3]: A 10. pont az 1387/2013. (VI. 30.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
