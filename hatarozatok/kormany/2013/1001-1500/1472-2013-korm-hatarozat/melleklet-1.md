@@ -8,6 +8,8 @@
 
 ## 5. jóváhagyja az EKOP 2009–2010. évekre szóló akciótervének módosítását a 3. melléklet szerinti konstrukció tekintetében,
 
-## 6. visszavonja az Elektronikus Közigazgatás Operatív Program 2011–2013. közötti időszakra szóló akciótervének megállapításáról, egyes kiemelt projektjei akciótervi nevesítéséről és az Elektronikus Közigazgatás Operatív Program tartaléklistájának jóváhagyásáról szóló 1122/2013. (III. 11.) Korm. határozatot.
+## 6.[^1]
 
 1. melléklet az 1472/2013. (VII. 24.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
