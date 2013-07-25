@@ -66,15 +66,17 @@ vesz részt.
 
 5. A Tanács tagjait a delegáló szervezetek és intézmények javaslatai alapján a miniszter kéri fel.
 
-6. A Tanács tagjainak megbízatása határozatlan időre szól.
+6.[^1] A Tanács tagjainak megbízatása 5 évre szól.
 
-7. A Tanács tagjának tagsága megszűnik, amennyiben
+7.[^2] A Tanács tagjának tagsága megszűnik, amennyiben
 
 a) lemond,
 
-b) a miniszter felmenti, vagy
+b) a miniszter felmenti,
 
-c) a delegálásra jogosult szervezet új tagot delegál.
+c) a delegálásra jogosult szervezet új tagot delegál, vagy
+
+d) elhalálozik.
 
 8. A Tanács működésének e határozatban nem részletezett szabályait maga határozza meg, melyet a miniszter jóváhagy.
 
@@ -82,22 +84,25 @@ c) a delegálásra jogosult szervezet új tagot delegál.
 
 10. A Tanács tagjai sorából elnököt választ.
 
-11. A Tanács üléseit az elnök vezeti, ezen jogkörét átruházhatja egy általa kijelölt személyre.
+11.[^3]
 
 12. A Tanács üléseit szükség szerint, de félévente legalább egy alkalommal az elnök hívja össze.
 
-13. Amennyiben a Tanács ülésének összehívását legalább 6 tag egyszerre kezdeményezi, az elnök a Tanácsot összehívja.
+13.[^4]
 
 14. A Tanács ülései nem nyilvánosak, azokon csak a tagok, illetve a meghívottak vehetnek részt.
 
-15. A Tanács ülésén tanácskozási joggal vehet részt az, akit az elnök vagy legalább 6 tag az ülésre meghív.
+15–17.[^5]
 
-16. A Tanács ülése legalább 12 tag jelenléte esetén határozatképes.
-
-17. A Tanács a döntéseit egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
-
-18. A Tanács működésével kapcsolatos titkársági feladatokat a Vidékfejlesztési Minisztérium állatvédelemért és állatjólétért felelős főosztálya látja el.
+18.[^6] A Tanács működésével kapcsolatos titkársági feladatokat a miniszter által vezetett minisztérium állatvédelemért és állatjólétért első helyen felelős főosztálya látja el.
 
 19. A Tanács elnöke és tagjai, valamint a meghívott személyek tiszteletdíjban, költségtérítésben nem részesülnek.
 
 20. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 6. pont az 1466/2013. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 7. pont az 1466/2013. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 11. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^4]: A 13. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^5]: A 15–17. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^6]: A 18. pont az 1466/2013. (VII. 24.) Korm. határozat 2. pontjával megállapított szöveg.
