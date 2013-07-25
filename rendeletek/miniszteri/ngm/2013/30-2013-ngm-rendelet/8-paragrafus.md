@@ -1,1 +1,0 @@
-## 7. § Az R. 7. § (2) bekezdésében a „szerv a” szövegrész helyébe a „szerv – az olyan előirányzatokból nyújtott költségvetési támogatások kivételével, amelyeknek a kezelő szerve vagy a lebonyolító szerve e rendelet alapján a Nemzeti Adó- és Vámhivatal – a” szöveg lép.

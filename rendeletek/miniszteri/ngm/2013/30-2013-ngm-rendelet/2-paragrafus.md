@@ -1,3 +1,0 @@
-## 1. § A fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 5/2013. (II. 20.) NGM rendelet (a továbbiakban: R.) 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az előirányzat a nemzetközi és a hazai potenciális befektetők felkutatásához, munkahelyteremtő beruházások Magyarországon történő megvalósulásához, hazai vállalkozások nemzetközi befektetéseinek támogatásához, a magyar beszállítói háttér fejlesztéséhez, a magyar export növekedéséhez, hazai vállalkozások számára új üzleti lehetőségek felkutatásához, kereskedelemfejlesztési pályázatok finanszírozásához, lebonyolításához, valamint a külgazdasági szakdiplomaták kiadásaihoz szükséges forrást biztosítja.”
