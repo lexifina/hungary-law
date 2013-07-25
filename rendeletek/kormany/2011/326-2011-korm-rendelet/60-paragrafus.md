@@ -22,7 +22,7 @@ fb) amennyiben a jármű műszaki kialakítása azt indokolja, kérelemre az A t
 
 g)[^29]
 
-különleges rendszámtáblát ad ki.
+kölönleges rendszámtáblát ad ki.
 
 (3) A DT és a CK betűjelű rendszámtábla a jármű forgalomból történő kivonása után a jogosult más járművére is felszerelhető. Amennyiben ez a rendszámtábla típusának változásával is együtt jár, kettő darab rendszámtábla legyártása is engedélyezhető.
 
