@@ -22,9 +22,10 @@ g)[^8]
 
 h) egyetemes szolgáltatói árrés.
 
-(2) Az egyes árelemek meghatározásának modell leírását a Magyar Energia Hivatal (a továbbiakban: Hivatal) honlapján közzéteszi.
+(2)[^9] Az egyes árelemek meghatározásának modell leírását a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) honlapján közzéteszi.
 
 [^5]: A 3. § (1) bekezdés b) pontját a 18/2010. (XII. 3.) NFM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
 [^6]: A 3. § (1) bekezdés d) pontja a 83/2011. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdés f) pontja a 83/2011. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés g) pontját a 72/2009. (XII. 7.) KHEM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^9]: A 3. § (2) bekezdése a 43/2013. (VII. 25.) NFM rendelet 12. § (4) bekezdése szerint módosított szöveg.

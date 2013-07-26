@@ -6,7 +6,7 @@
 
 ## b) az a) pont szerinti engedélyeseknél, illetve jogutódjaiknál 2009-ben bekövetkezett és 2010-ben várható lényegesebb változásokat [infláció, árfolyam, jogszabályváltozások, egyedileg értékelendő eszköz- és költségváltozások, mennyiségi változások (fogyasztói létszám, teljesítménylekötés, gázmérők névleges összteljesítménye)],
 
-## c) a Magyar Energia Hivatal (a továbbiakban: Hivatal) és az általa megbízott szakértők által 2009-ben – az a)–b) pontok alapján – végzett eszköz- és költség-felülvizsgálatok eredményeit.
+## c)[^36] a Hivatal és az általa megbízott szakértők által 2009-ben – az a)–b) pontok alapján – végzett eszköz- és költség-felülvizsgálatok eredményeit.
 
 ## 2. A Hivatal az egyes költségelemeket – az egyes engedélyeseknél külön-külön – a következő módon veszi figyelembe:
 
@@ -42,10 +42,11 @@
 
 ## A korrigált mennyiségi adatok megállapítása során a fogyasztást befolyásoló más tényezők – mint pl. világgazdasági reálfolyamatok, illetve a fogyasztói szokások változásának – hatását a Hivatal indokolt esetben figyelembe veszi.
 
-3. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^34]
+3. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^37]
 
 |  | <20 m3/h | ≥20 m3/h |
 
 | Egyetemes szolgáltatói árrés (Ft/GJ) | 174,1 | 42,5 |
 
-[^34]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 4. § (2) bekezdésével megállapított, a 38/2012. (VII. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^36]: A 2. melléklet 1. pont c) alpontja a 43/2013. (VII. 25.) NFM rendelet 12. § (5) bekezdése szerint módosított szöveg.
+[^37]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 4. § (2) bekezdésével megállapított, a 38/2012. (VII. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
