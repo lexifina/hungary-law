@@ -1,5 +1,0 @@
-13. § (1)[^9]
-
-(2) Ha az elosztói engedélyes 2011. június 30-ig nem kezdte meg elosztóvezeték üzemeltetését, és olyan vezetéket fog üzemeltetni, amelyet korábban másik elosztói engedélyes üzemeltetett, akkor a fejlesztés és a 2006. november 29. után megépült elosztóvezetékre történő bekapcsolás tekintetében a fajlagos költség figyelembevételekor – a következő árszabályozási ciklus kezdetéig – a Hivatal a korábbi üzemeltetőre vonatkozó, az eszköz- és költség-felülvizsgálat alapján megállapított fajlagos közvetlen és közvetett költség értékcsökkenés nélküli összegét veszi figyelembe. Az elszámolási különbözet mértéke nem lehet több 1%-nál.
-
-[^9]: A 13. § (1) bekezdését a 14. § (2) bekezdése hatályon kívül helyezte.
