@@ -1,4 +1,4 @@
-## 15. §[^13] E rendelet 1. mellékletének 19.2. pontjában a „Balatonvilágos” szövegrész a 2013. május 29. és 2013. május 31. közötti időszak tekintetében nem alkalmazható.
+## 16. §[^14] E rendelet 1. mellékletének a Jász-Nagykun-Szolnok- és Zala Megyei Kormányhivatalok Földhivatalainak járási földhivatalai illetékességi területeinek változásával összefüggésben a járási földhivatalok illetékességi területeinek kijelöléséről szóló 149/2012. (XII. 28.) VM rendelet módosításáról szóló 64/ 2013. (VII. 25.) VM rendelettel (a továbbiakban: Mr4. rendelet) megállapított 11. pont 11.2., 11.3., 11.5–11.7. alpontját a 2013. július 26-án folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 149/2012. (XII. 28.) VM rendelethez
 
@@ -2590,7 +2590,7 @@ Völcsej
 
 Zsira
 
-9.[^14] HAJDÚ-BIHAR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+9.[^15] HAJDÚ-BIHAR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
 
 (székhelye: Debrecen)
 
@@ -2772,7 +2772,7 @@ Tetétlen
 
 (székhelye: Eger)
 
-10.1.[^15] Egri Járási Hivatal Járási Földhivatala (székhelye: Eger)
+10.1.[^16] Egri Járási Hivatal Járási Földhivatala (székhelye: Eger)
 
 Andornaktálya
 
@@ -2874,7 +2874,7 @@ Váraszó
 
 Verpelét
 
-10.2.[^16] Füzesabonyi Járási Hivatal Járási Földhivatala (székhelye: Füzesabony)
+10.2.[^17] Füzesabonyi Járási Hivatal Járási Földhivatala (székhelye: Füzesabony)
 
 Aldebrő
 
@@ -3066,7 +3066,7 @@ Jásztelek
 
 Pusztamonostor
 
-11.2. Kunszentmártoni Járási Hivatal Járási Földhivatala (székhelye: Kunszentmárton)
+11.2.[^18] Kunszentmártoni Járási Hivatal Járási Földhivatala (székhelye: Kunszentmárton)
 
 Cibakháza
 
@@ -3082,13 +3082,15 @@ Nagyrév
 
 Szelevény
 
+Tiszaföldvár
+
 Tiszainoka
 
 Tiszakürt
 
 Tiszasas
 
-11.3. Szolnoki Járási Hivatal Járási Földhivatala (székhelye: Szolnok)
+11.3.[^19] Szolnoki Járási Hivatal Járási Földhivatala (székhelye: Szolnok)
 
 Besenyszög
 
@@ -3111,8 +3113,6 @@ Szajol
 Szászberek
 
 Szolnok
-
-Tiszaföldvár
 
 Tiszajenő
 
@@ -3140,13 +3140,9 @@ Mezőtúr
 
 Túrkeve
 
-11.5. Tiszafüredi Járási Hivatal Járási Földhivatala (székhelye: Tiszafüred)
-
-Abádszalók
+11.5.[^20] Tiszafüredi Járási Hivatal Járási Földhivatala (székhelye: Tiszafüred)
 
 Nagyiván
-
-Tiszabura
 
 Tiszaderzs
 
@@ -3160,17 +3156,13 @@ Tiszaszentimre
 
 Tiszaszőlős
 
-Tomajmonostora
+11.6.[^21] Törökszentmiklósi Járási Hivatal Járási Földhivatala (székhelye: Törökszentmiklós)
 
-11.6. Törökszentmiklósi Járási Hivatal Járási Földhivatala (székhelye: Törökszentmiklós)
+Abádszalók
 
 Fegyvernek
 
-Kenderes
-
 Kengyel
-
-Kisújszállás
 
 Kuncsorba
 
@@ -3180,6 +3172,8 @@ Kunhegyes
 
 Tiszabő
 
+Tiszabura
+
 Tiszagyenda
 
 Tiszapüspöki
@@ -3188,13 +3182,19 @@ Tiszaroff
 
 Tiszatenyő
 
+Tomajmonostora
+
 Törökszentmiklós
 
-11.7. Karcagi Járási Hivatal Járási Földhivatala (székhelye: Karcag)
+11.7.[^22] Karcagi Járási Hivatal Járási Földhivatala (székhelye: Karcag)
 
 Berekfürdő
 
 Karcag
+
+Kenderes
+
+Kisújszállás
 
 Kunmadaras
 
@@ -3366,7 +3366,7 @@ Vértesszőlős
 
 (székhelye: Salgótarján)
 
-13.1.[^17] Balassagyarmati Járási Hivatal Járási Földhivatala (székhelye: Balassagyarmat)
+13.1.[^23] Balassagyarmati Járási Hivatal Járási Földhivatala (székhelye: Balassagyarmat)
 
 Balassagyarmat
 
@@ -3560,7 +3560,7 @@ Tereske
 
 Tolmács
 
-13.4.[^18] Salgótarjáni Járási Hivatal Járási Földhivatala (székhelye: Salgótarján)
+13.4.[^24] Salgótarjáni Járási Hivatal Járási Földhivatala (székhelye: Salgótarján)
 
 Bárna
 
@@ -3640,7 +3640,7 @@ Zabar
 
 (székhelye: Budapest)
 
-14.1.[^19] Budakeszi Járási Hivatal Budakörnyéki Járási Földhivatala (székhelye: Budapest)
+14.1.[^25] Budakeszi Járási Hivatal Budakörnyéki Járási Földhivatala (székhelye: Budapest)
 
 Biatorbágy
 
@@ -3684,7 +3684,7 @@ Tök
 
 Zsámbék
 
-14.2.[^20] Érdi Járási Hivatal Járási Földhivatala (székhelye: Érd)
+14.2.[^26] Érdi Járási Hivatal Járási Földhivatala (székhelye: Érd)
 
 Diósd
 
@@ -3766,7 +3766,7 @@ Táborfalva
 
 Újlengyel
 
-14.6.[^21] Gödöllői Járási Hivatal Járási Földhivatala (székhelye: Gödöllő)
+14.6.[^27] Gödöllői Járási Hivatal Járási Földhivatala (székhelye: Gödöllő)
 
 Aszód
 
@@ -3820,7 +3820,7 @@ Verseg
 
 Zsámbok
 
-14.7.[^22] Monori Járási Hivatal Járási Földhivatala (székhelye: Monor)
+14.7.[^28] Monori Járási Hivatal Járási Földhivatala (székhelye: Monor)
 
 Bénye
 
@@ -3852,7 +3852,7 @@ Vasad
 
 Vecsés
 
-14.8.[^23] Nagykátai Járási Hivatal Járási Földhivatala (székhelye: Nagykáta)
+14.8.[^29] Nagykátai Járási Hivatal Járási Földhivatala (székhelye: Nagykáta)
 
 Farmos
 
@@ -3928,7 +3928,7 @@ Taksony
 
 Tököl
 
-14.10.[^24] Szentendrei Járási Hivatal Járási Földhivatala (székhelye: Szentendre)
+14.10.[^30] Szentendrei Járási Hivatal Járási Földhivatala (székhelye: Szentendre)
 
 Budakalász
 
@@ -3956,7 +3956,7 @@ Tahitótfalu
 
 Visegrád
 
-14.11.[^25] Váci Járási Hivatal Járási Földhivatala (székhelye: Vác)
+14.11.[^31] Váci Járási Hivatal Járási Földhivatala (székhelye: Vác)
 
 Acsa
 
@@ -4028,7 +4028,7 @@ Verőce
 
 Zebegény
 
-14.12.[^26] Dunakeszi Járási Hivatal Járási Földhivatala (székhelye: Dunakeszi)
+14.12.[^32] Dunakeszi Járási Hivatal Járási Földhivatala (székhelye: Dunakeszi)
 
 Csomád
 
@@ -4042,7 +4042,7 @@ Göd
 
 (székhelye: Kaposvár)
 
-15.1.[^27] Fonyódi Járási Hivatal Járási Földhivatala (székhelye: Balatonboglár)
+15.1.[^33] Fonyódi Járási Hivatal Járási Földhivatala (székhelye: Balatonboglár)
 
 Balatonboglár
 
@@ -4140,7 +4140,7 @@ Tótújfalu
 
 Vízvár
 
-15.3.[^28] Kaposvári Járási Hivatal Járási Földhivatala (székhelye: Kaposvár)
+15.3.[^34] Kaposvári Járási Hivatal Járási Földhivatala (székhelye: Kaposvár)
 
 Alsóbogát
 
@@ -4298,7 +4298,7 @@ Zselickislak
 
 Zselicszentpál
 
-15.4.[^29] Marcali Járási Hivatal Járási Földhivatala (székhelye: Marcali)
+15.4.[^35] Marcali Járási Hivatal Járási Földhivatala (székhelye: Marcali)
 
 Balatonberény
 
@@ -4448,7 +4448,7 @@ Zákány
 
 Zákányfalu
 
-15.6.[^30] Siófoki Járási Hivatal Járási Földhivatala (székhelye: Siófok)
+15.6.[^36] Siófoki Járási Hivatal Járási Földhivatala (székhelye: Siófok)
 
 Andocs
 
@@ -4550,7 +4550,7 @@ Zics
 
 (székhelye: Nyíregyháza)
 
-16.1.[^31] Fehérgyarmati Járási Hivatal Járási Földhivatala (székhelye: Fehérgyarmat)
+16.1.[^37] Fehérgyarmati Járási Hivatal Járási Földhivatala (székhelye: Fehérgyarmat)
 
 Botpalád
 
@@ -4652,7 +4652,7 @@ Zajta
 
 Zsarolyán
 
-16.2.[^32] Kisvárdai Járási Hivatal Járási Földhivatala (székhelye: Kisvárda)
+16.2.[^38] Kisvárdai Járási Hivatal Járási Földhivatala (székhelye: Kisvárda)
 
 Ajak
 
@@ -4722,7 +4722,7 @@ Záhony
 
 Zsurk
 
-16.3.[^33] Mátészalkai Járási Hivatal Járási Földhivatala (székhelye: Mátészalka)
+16.3.[^39] Mátészalkai Járási Hivatal Járási Földhivatala (székhelye: Mátészalka)
 
 Csenger
 
@@ -4798,7 +4798,7 @@ Vaja
 
 Vállaj
 
-16.4.[^34] Nyírbátori Járási Hivatal Járási Földhivatala (székhelye: Nyírbátor)
+16.4.[^40] Nyírbátori Járási Hivatal Járási Földhivatala (székhelye: Nyírbátor)
 
 Bátorliget
 
@@ -4840,7 +4840,7 @@ Pócspetri
 
 Terem
 
-16.5.[^35] Nyíregyházi Járási Hivatal Járási Földhivatala (székhelye: Nyíregyháza)
+16.5.[^41] Nyíregyházi Járási Hivatal Járási Földhivatala (székhelye: Nyíregyháza)
 
 Apagy
 
@@ -4962,7 +4962,7 @@ Tiszavasvári
 
 Vasmegyer
 
-16.6.[^36] Vásárosnaményi Járási Hivatal Járási Földhivatala (székhelye: Vásárosnamény)
+16.6.[^42] Vásárosnaményi Járási Hivatal Járási Földhivatala (székhelye: Vásárosnamény)
 
 Aranyosapáti
 
@@ -5024,7 +5024,7 @@ Vásárosnamény
 
 (székhelye: Szekszárd)
 
-17.1.[^37] Bonyhádi Járási Hivatal Járási Földhivatala (székhelye: Bonyhád)
+17.1.[^43] Bonyhádi Járási Hivatal Járási Földhivatala (székhelye: Bonyhád)
 
 Aparhant
 
@@ -5110,7 +5110,7 @@ Szakcs
 
 Várong
 
-17.3.[^38] Paksi Járási Hivatal Járási Földhivatala (székhelye: Paks)
+17.3.[^44] Paksi Járási Hivatal Járási Földhivatala (székhelye: Paks)
 
 Bikács
 
@@ -5142,7 +5142,7 @@ Sárszentlőrinc
 
 Tengelic
 
-17.4.[^39] Szekszárdi Járási Hivatal Járási Földhivatala (székhelye: Szekszárd)
+17.4.[^45] Szekszárdi Járási Hivatal Járási Földhivatala (székhelye: Szekszárd)
 
 Alsónána
 
@@ -5440,7 +5440,7 @@ Velemér
 
 Viszák
 
-18.3.[^40] Sárvári Járási Hivatal Járási Földhivatala (székhelye: Sárvár)
+18.3.[^46] Sárvári Járási Hivatal Járási Földhivatala (székhelye: Sárvár)
 
 Bejcgyertyános
 
@@ -5526,7 +5526,7 @@ Vásárosmiske
 
 Zsédeny
 
-18.4.[^41] Szombathelyi Járási Hivatal Járási Földhivatala (székhelye: Szombathely)
+18.4.[^47] Szombathelyi Járási Hivatal Járási Földhivatala (székhelye: Szombathely)
 
 Acsád
 
@@ -5698,7 +5698,7 @@ Telekes
 
 Vasvár
 
-19.[^42] VESZPRÉM MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
+19.[^48] VESZPRÉM MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA
 
 (székhelye: Veszprém)
 
@@ -6676,33 +6676,38 @@ Zalaszentlászló
 
 Zalavég
 
-[^13]: A 15. §-t a 49/2013. (VI. 10.) VM rendelet 8. §-a iktatta be.
-[^14]: Az 1. melléklet 9. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
-[^15]: Az 1. melléklet 10. pont 10.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^16]: Az 1. melléklet 10. pont 10.2. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^17]: Az 1. melléklet 13. pont 13.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet 13. pont 13.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^19]: Az 1. melléklet 14. pont 14.1. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^20]: Az 1. melléklet 14. pont 14.2. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet 14. pont 14.6. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 14. pont 14.7. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^23]: Az 1. melléklet 14. pont 14.8. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^24]: Az 1. melléklet 14. pont 14.10. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^25]: Az 1. melléklet 14. pont 14.11. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^26]: Az 1. melléklet 14. pont 14.12. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^27]: Az 1. melléklet 15. pont 15.1. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
-[^28]: Az 1. melléklet 15. pont 15.3. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
-[^29]: Az 1. melléklet 15. pont 15.4. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
-[^30]: Az 1. melléklet 15. pont 15.6. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
-[^31]: Az 1. melléklet 16. pont 16.1. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^32]: Az 1. melléklet 16. pont 16.2. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^33]: Az 1. melléklet 16. pont 16.3. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^34]: Az 1. melléklet 16. pont 16.4. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^35]: Az 1. melléklet 16. pont 16.5. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^36]: Az 1. melléklet 16. pont 16.6. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^37]: Az 1. melléklet 17. pont 17.1. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^38]: Az 1. melléklet 17. pont 17.3. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^39]: Az 1. melléklet 17. pont 17.4. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
-[^40]: Az 1. melléklet 18. pont 18.3. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^41]: Az 1. melléklet 18. pont 18.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
-[^42]: Az 1. melléklet 19. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 16. §-t a 64/2013. (VII. 25.) VM rendelet 2. §-a iktatta be.
+[^15]: Az 1. melléklet 9. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 10. pont 10.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^17]: Az 1. melléklet 10. pont 10.2. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 11. pont 11.2. alpontja a 64/2013. (VII. 25.) VM rendelet 1. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet 11. pont 11.3. alpontja a 64/2013. (VII. 25.) VM rendelet 1. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet 11. pont 11.5. alpontja a 64/2013. (VII. 25.) VM rendelet 1. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 11. pont 11.6. alpontja a 64/2013. (VII. 25.) VM rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 11. pont 11.7. alpontja a 64/2013. (VII. 25.) VM rendelet 1. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 13. pont 13.1. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet 13. pont 13.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^25]: Az 1. melléklet 14. pont 14.1. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet 14. pont 14.2. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 14. pont 14.6. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^28]: Az 1. melléklet 14. pont 14.7. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^29]: Az 1. melléklet 14. pont 14.8. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet 14. pont 14.10. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet 14. pont 14.11. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet 14. pont 14.12. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^33]: Az 1. melléklet 15. pont 15.1. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
+[^34]: Az 1. melléklet 15. pont 15.3. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
+[^35]: Az 1. melléklet 15. pont 15.4. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
+[^36]: Az 1. melléklet 15. pont 15.6. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
+[^37]: Az 1. melléklet 16. pont 16.1. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet 16. pont 16.2. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^39]: Az 1. melléklet 16. pont 16.3. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^40]: Az 1. melléklet 16. pont 16.4. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^41]: Az 1. melléklet 16. pont 16.5. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^42]: Az 1. melléklet 16. pont 16.6. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^43]: Az 1. melléklet 17. pont 17.1. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^44]: Az 1. melléklet 17. pont 17.3. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^45]: Az 1. melléklet 17. pont 17.4. alpontja a 49/2013. (VI. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^46]: Az 1. melléklet 18. pont 18.3. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^47]: Az 1. melléklet 18. pont 18.4. alpontja a 28/2013. (IV. 30.) VM rendelet 7. §-ával megállapított szöveg.
+[^48]: Az 1. melléklet 19. pontja a 36/2013. (V. 22.) VM rendelet 1. §-ával megállapított szöveg.
