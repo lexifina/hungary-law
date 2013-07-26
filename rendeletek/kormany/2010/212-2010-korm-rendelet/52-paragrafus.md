@@ -26,7 +26,7 @@ l) gondoskodik a magyar nyelv és kultúra megőrzése, terjesztése és megisme
 
 m) rendelkezési jogot gyakorol a Nemzeti Kulturális Alap felett,
 
-n)[^204]
+n)[^204] gondoskodik az irányítási jogkörébe tartozó állami fenntartású közgyűjteményben őrzött, állami tulajdonban lévő kulturális javak őrzési helyének nemzeti kulturális érdekből történő kijelöléséről,
 
 o)[^205] ellátja – a külügyminiszterrel, a miniszterelnök általános helyettesével és a közigazgatási és igazságügyi miniszterrel együttműködve – a külföldi magyar kulturális intézetek szakmai irányítását és felügyeletét, Magyarország kulturális diplomáciai céljainak kidolgozását, végrehajtását,
 
@@ -56,7 +56,7 @@ y)[^211] ellátja az Európai Örökség címmel kapcsolatos feladatokat.
 [^201]: Az 52. § e) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 310/2012. (XI. 6.) Korm. rendelet 18. § (4) bekezdése iktatta be. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
 [^202]: Az 52. § f) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
 [^203]: Az 52. § i) pontja a 310/2012. (XI. 6.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
-[^204]: Az 52. § n) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^204]: Az 52. § n) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 284/2013. (VII. 25.) Korm. rendelet 1. §-a iktatta be.
 [^205]: Az 52. § o) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (33) bekezdés b) pontja, a 94/2012. (V. 11.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^206]: Az 52. § t) pontját a 266/2012. (IX. 18.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte, újonnan a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. Ez utóbbi módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
 [^207]: Az 52. § u) pontját a 310/2012. (XI. 6.) Korm. rendelet 18. § (6) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a folyamatban levő ügyekben is alkalmazni kell.
