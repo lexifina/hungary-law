@@ -1,4 +1,4 @@
-4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^19]
+4. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^21]
 
 A rendszerhasználati díjak megállapításának keretszabályai
 
@@ -6,7 +6,7 @@ A rendszerhasználati díjak megállapításának keretszabályai
 
 1.1. Rendszeres ármegállapítás
 
-2013. december 31-ig a rendszerhasználati díjak megállapítására irányuló közigazgatási hatósági eljárásban a Hivatal rendszeres ármegállapítást (a továbbiakban: rendszeres ármegállapítás) gázévente végez a jelen mellékletben meghatározottak szerint. A rendszeres ármegállapítás során figyelemmel kell lenni az előző gázévben megállapított díjak szintjére. A GET 105. § (3) bekezdése szerinti országosan egységes rendszerhasználati díjak számításánál nem kell figyelemmel lenni azon engedélyesekre, amelyekre a 2009. évi eszköz- és költségfelülvizsgálat nem terjedt ki.
+2013. december 31-ig a Hivatal rendszeres ármegállapítást gázévente végez a jelen mellékletben meghatározottak szerint. A rendszeres ármegállapítás során figyelemmel kell lenni az előző gázévben megállapított díjak szintjére. A GET 105. § (3) bekezdése szerinti országosan egységes rendszerhasználati díjak számításánál nem kell figyelemmel lenni azon engedélyesekre, amelyekre a 2009. évi eszköz- és költségfelülvizsgálat nem terjedt ki.
 
 1.1.1. Inflációs kritérium
 
@@ -128,7 +128,7 @@ TK: a földgázszállítási és földgázelosztási működési engedélyes fö
 
 TFK: a párnagáz elismert tőkefedezeti költsége.
 
-c) Ha az engedélyköteles tevékenység(ek)re vonatkozó (a rendszerirányító és a földgázszállító esetében az összevont) – a tárgyévi auditált Éves Beszámolóban vagy az engedélyesnél az előzetes mérlegben szereplő, az ÜKSZ és a földgáz rendszerhasználati díjak megállapításáról szóló 31/2009. (VI. 25.) KHEM rendelet (a továbbiakban: RHD rendelet) alapján kivetett, illetve beszedett pótdíjak és aukciós díjak nélkül számított – üzemi (üzleti) tevékenységi eredmény (ÜNY) túllépi a nyereségkorlátot (NYK), azaz ÜNY>NYK, az adott földgázszállítási, földgázelosztási vagy tárolói tevékenységet végző társaság köteles a Hivatallal egyeztetett módon – az elosztók esetében a 2010. és 2011. évek vonatkozásában a GET 2011. június 30-án hatályos 105. § (4) bekezdése és a GET 136. §-a szerinti kiegyenlítő fizetésekre az RHD rendelet 10/C. § (3) bekezdése alapján kiadott határozatokban foglaltak figyelembevételével – többletnyereségét megosztani a rendszerhasználókkal. A többletnyereség megosztása úgy történik, hogy azt a Hivatal a rendszerhasználati díjak megállapítására irányuló eljárás során a díjszámításkor díjcsökkentő tételként veszi figyelembe. A Hivatal a többletnyereséget több gázévre megosztva is elvonhatja.
+c) Ha az engedélyköteles tevékenység(ek)re vonatkozó (a rendszerirányító és a földgázszállító esetében az összevont) – a tárgyévi auditált Éves Beszámolóban vagy az engedélyesnél az előzetes mérlegben szereplő, az ÜKSZ és a RHD rendelet alapján kivetett, illetve beszedett pótdíjak és aukciós díjak nélkül számított – üzemi (üzleti) tevékenységi eredmény (ÜNY) túllépi a nyereségkorlátot (NYK), azaz ÜNY>NYK, az adott földgázszállítási, földgázelosztási vagy tárolói tevékenységet végző társaság köteles a Hivatallal egyeztetett módon – az elosztók esetében a 2010. és 2011. évek vonatkozásában a GET 2011. június 30-án hatályos 105. § (4) bekezdése és a GET 136. §-a szerinti kiegyenlítő fizetésekre az RHD rendelet 47. § (3) bekezdése alapján kiadott határozatokban foglaltak figyelembevételével – többletnyereségét megosztani a rendszerhasználókkal. A többletnyereség megosztása úgy történik, hogy azt a Hivatal a rendszerhasználati díjak megállapítása során a díjszámításkor díjcsökkentő tételként veszi figyelembe. A Hivatal a többletnyereséget több gázévre megosztva is elvonhatja.
 
 A földgázelosztó esetében ÜNY-növelő tételként figyelembe kell venni az elosztási tevékenység rendkívüli bevételeit is.
 
@@ -158,7 +158,7 @@ A rendszeres ármegállapítás során utólag elismerhető azon – az induló 
 
 1.2. Rendkívüli ármegállapítás
 
-A Hivatal rendkívüli ármegállapítás során is dönthet a rendszerhasználati díjakról, ha azt az e rendeletben foglaltakon kívül a földgázpiaci események egyértelműen szükségessé teszik. A Hivatal ezen események hatását akkor érvényesíti a rendszerhasználati díjakban, amikor azok elismerése indokolt.
+A Hivatal rendkívüli ármegállapítás során is dönthet a rendszerhasználati díjakról, ha azt a földgázpiaci események egyértelműen szükségessé teszik. A Hivatal ezen események hatását akkor érvényesíti a rendszerhasználati díjakban, amikor azok elismerése indokolt.
 
 2. Jelölések
 
@@ -188,4 +188,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^19]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a szerint módosított szöveg.
+[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése szerint módosított szöveg.

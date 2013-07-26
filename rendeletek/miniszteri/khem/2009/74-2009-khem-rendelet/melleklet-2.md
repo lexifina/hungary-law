@@ -90,7 +90,7 @@
 
 ## Az induló díjat a hosszú távú szállítási szerződés időtartama alatt a Hivatal gázévente szintén korrigálja a IV. pont szerinti indexálás mértékével.
 
-## A gázévre történő korrigálásra a szállítói engedélyes a 4. mellékletben meghatározott rendszeres ármegállapításra vonatkozó közigazgatási hatósági eljárásban tesz javaslatot a Hivatalnak. Az ehhez szükséges adatokat (beleértve a tény kapacitás-lekötéseket és árbevételt) a szállítói engedélyes köteles az adott év április 1-jéig a Hivatal rendelkezésére bocsátani.
+## A gázévre történő korrigálásra a szállítói engedélyes a 4. mellékletben meghatározott rendszeres ármegállapításra vonatkozóan tesz javaslatot a Hivatalnak. Az ehhez szükséges adatokat (beleértve a tény kapacitás-lekötéseket és árbevételt) a szállítói engedélyes köteles az adott év április 1-jéig a Hivatal rendelkezésére bocsátani.
 
 ## IV. Az indexálás mértéke
 
@@ -98,8 +98,8 @@
 
 ## V. A kapacitásdíj meghatározása kapacitásbővítés esetében
 
-## Ha a szállítói engedélyesnek az összekötő vezeték szállítási kapacitásán felül jelentős hosszú távú kapacitáslekötési igényt jeleznek, akkor az azok kielégítése érdekében végzett többletkapacitásokat biztosító beruházásokkal kapcsolatban a kapacitás díj mértékére a 4. mellékletben meghatározott rendszeres ármegállapításra vonatkozó közigazgatási hatósági eljárásban a szállítói engedélyes javaslatot tesz a Hivatalnak. A Hivatal az I–IV. pontokban foglalt szabályok alapján dönt a kapacitás díjról.
+## Ha a szállítói engedélyesnek az összekötő vezeték szállítási kapacitásán felül jelentős hosszú távú kapacitáslekötési igényt jeleznek, akkor az azok kielégítése érdekében végzett többletkapacitásokat biztosító beruházásokkal kapcsolatban a kapacitás díj mértékére a 4. mellékletben meghatározott rendszeres ármegállapításra vonatkozóan a szállítói engedélyes javaslatot tesz a Hivatalnak. A Hivatal az I–IV. pontokban foglalt szabályok alapján dönt a kapacitás díjról.
 
-2. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^17]
+2. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^19]
 
-[^17]: A 2. melléklet a 65/2011. (XI. 30.) NFM rendelet 5. § (6) bekezdése és 6. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet a 65/2011. (XI. 30.) NFM rendelet 5. § (6) bekezdése és 6. §-a szerint módosított szöveg.
