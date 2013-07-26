@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2013-01-01 | 2011-4-20-22.11 | 414/2012. (XII. 29.) Korm. rendelet |
 | 2013-04-19 | 2011-4-20-22.12 | 115/2013. (IV. 18.) Korm. rendelet |
 | 2013-07-01 | 2011-4-20-22.13 | 172/2013. (V. 30.) Korm. rendelet |
+| 2013-07-26 | 2011-4-20-22.14 | 283/2013. (VII. 25.) Korm. rendelet |

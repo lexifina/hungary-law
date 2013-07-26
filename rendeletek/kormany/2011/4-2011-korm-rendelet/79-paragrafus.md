@@ -8,7 +8,7 @@
 
 (4) Az Európai Unióval történő elszámolások benyújtása az EMIR-ben teljes körűen rögzített adatok alapján, kizárólag az EMIR-ben elkészített dokumentumokkal történhet.
 
-(4a)[^193] Az Európai Bizottság és az illetékes szervek felé történő bármely adatszolgáltatás – ha a kért adat az EMIR-ben rögzítésre került – kizárólag az EMIR-ben rögzített adatok alapján történhet.
+(4a)[^194] Az Európai Bizottság és az illetékes szervek felé történő bármely adatszolgáltatás – ha a kért adat az EMIR-ben rögzítésre került – kizárólag az EMIR-ben rögzített adatok alapján történhet.
 
 (5) A (2) és (3) bekezdésben meghatározott, a feladatok papír alapon történő elvégzésének kötelezettsége vonatkozik az értesítési és tájékoztatási kötelezettségekre is.
 
@@ -16,4 +16,4 @@
 
 (7) Az EMIR üzemeltetője a rendelkezésére bocsátott köztartozási adatoknak a részére történő átadását követő 1 napon belül feldolgozza a köztartozási adatokat az EMIR-ben.
 
-[^193]: A 79. § (4a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 44. §-a iktatta be.
+[^194]: A 79. § (4a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 44. §-a iktatta be.

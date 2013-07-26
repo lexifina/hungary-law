@@ -6,7 +6,7 @@ b) a kifogást nem az arra jogosult terjeszti elő,
 
 c) korábbival azonos tartalmú, ismételt kifogást terjesztenek elő,
 
-d)[^198] a kifogás nem tartalmaz a megsértett jogszabályban, a felhívásban vagy a támogatási szerződésben foglalt rendelkezésre történő hivatkozást.
+d)[^199] a kifogás nem tartalmaz a megsértett jogszabályban, a felhívásban vagy a támogatási szerződésben foglalt rendelkezésre történő hivatkozást.
 
 (2) Ha érdemi vizsgálat nélküli elutasításnak nincs helye, a kifogást a beérkezésétől számított 30 napon belül kell elbírálni. Az elbírálás határideje egy alkalommal, legfeljebb 30 nappal meghosszabbítható, erről a határidő lejárta előtt tájékoztatni kell a kifogás benyújtóját.
 
@@ -32,4 +32,4 @@ b) a kifogást indokolt döntésével elutasítja.
 
 (7) A kifogás tárgyában hozott döntés ellen további kifogás előterjesztésének nincs helye.
 
-[^198]: A 82. § (1) bekezdés d) pontját a 25/2012. (II. 29.) Korm. rendelet 46. §-a iktatta be.
+[^199]: A 82. § (1) bekezdés d) pontját a 25/2012. (II. 29.) Korm. rendelet 46. §-a iktatta be.

@@ -20,7 +20,7 @@ h) a meghallgatott, illetve a helyszíni vizsgálat során jelenlévő személyn
 
 i) az eljárás során megállapított következtetéseket, és az azt alátámasztó dokumentumoknak a felsorolását,
 
-j)[^203] a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 2011. december 31-ig hatályban volt 314. §-a szerinti, az Európai Közösségek pénzügyi érdekeinek megsértése vagy 2013. június 30-ig hatályban volt 310. §-a szerinti költségvetési csalás, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény 396. §-a szerinti költségvetési csalás bűncselekményének gyanúja esetén az erre való utalást,
+j)[^204] a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 2011. december 31-ig hatályban volt 314. §-a szerinti, az Európai Közösségek pénzügyi érdekeinek megsértése vagy 2013. június 30-ig hatályban volt 310. §-a szerinti költségvetési csalás, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény 396. §-a szerinti költségvetési csalás bűncselekményének gyanúja esetén az erre való utalást,
 
 k) az alkalmazandó intézkedésekre, jogkövetkezményekre tett javaslatot.
 
@@ -34,4 +34,4 @@ c) rendszerjellegű szabálytalanság megállapítása esetén az arra való uta
 
 d) az alkalmazandó jogkövetkezményeket, illetve egyéb intézkedésekre tett javaslatot.
 
-[^203]: A 89. § (2) bekezdés j) pontja a 172/2013. (V. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^204]: A 89. § (2) bekezdés j) pontja a 172/2013. (V. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
