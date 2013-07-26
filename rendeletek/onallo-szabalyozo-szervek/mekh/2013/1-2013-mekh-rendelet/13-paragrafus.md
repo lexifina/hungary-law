@@ -1,0 +1,19 @@
+## 2. A szállítási kapacitásdíj fizetésének szabályai az átadási-átvételi pontokon történő éves szállítási kapacitás-lekötés esetén
+
+13. § (1) A szerződési időszakra vonatkozó kapacitást a szerződési időszakban az átadási-átvételi pontokon igénybe venni tervezett legnagyobb kapacitás alapján kell lekötni. A 2. melléklet II. pontja szerinti szállítási kapacitásdíjat a téli fogyasztási időszakra lekötött kapacitás alapján kell megfizetni. Ha a 2. § (1) bekezdés a) pont aa) alpont aaa), aac), aad), aaf), aag), aai), aaj), aak), aal) és aam) alpontja szerinti átadási-átvételi pontokon a szerződési időszakban lekötött kapacitások a téli fogyasztási időszakon kívüli időszakra esnek, akkor a rendszerhasználó köteles a lekötéseit a téli fogyasztási időszakra is megadni.
+
+A téli fogyasztási időszakra lekötött kapacitások alapján megfizetett – a 2. melléklet szerinti – szállítási kapacitásdíjon felül köteles a rendszerhasználó megfizetni a téli fogyasztási időszakon kívüli időszakra lekötött kapacitások és a téli fogyasztási időszakra lekötött kapacitások pozitív különbözetére az éves szállítási kapacitásdíj 5%-át.
+
+(2) Azokon a 2. § (1) bekezdés a) pont aa) alpont aaa), aac), aad), aaf), aag), aai), aaj), aak), aal) és aam) alpontja szerinti átadási-átvételi pontokon, amelyeken a téli fogyasztási időszakra lekötött kapacitás kisebb, mint a téli fogyasztási időszakon kívüli időszakra lekötött kapacitás, a téli fogyasztási időszakon kívüli időszakra lekötött kapacitás novemberi és december havi igénybevétele után a szállítási kapacitásdíjat – a 13. § (1) bekezdése szerinti összegen felül – azokra a napokra is meg kell fizetni, amelyeken földgázt vételeznek. A számításnál figyelembe veendő kapacitás a téli fogyasztási időszakon kívüli időszakra lekötött kapacitás és a téli fogyasztási időszakra lekötött kapacitás különbözete.
+
+(3) Ha a 13. § (2) bekezdése szerinti átadási-átvételi pontokon november és december hónapokban 0 °C-nál hidegebb átlaghőmérsékletű napon vagy a téli fogyasztási időszakban is földgázt vételeznek, a szállítási rendszerüzemeltető jogosult a téli fogyasztási időszakon kívüli időszakra lekötött kapacitás után a szállítási kapacitásdíjat egész évre érvényesíteni. Az adott átadási-átvételi ponton a gázévben (szállítási kapacitásdíjban) megfizetett összeg – az esetleges pótdíjak, kötbérek és kártérítések figyelembevétele nélkül – legfeljebb a téli időszakon kívüli időszakra lekötött legnagyobb kapacitásra számított éves szállítási kapacitásdíj lehet.
+
+(4) Az átadási-átvételi pontonként lekötött legnagyobb órai vagy napi kapacitások bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+
+(5) A pótdíjra és az utólagos kapacitásdíjra vonatkozó számlát a szállítási rendszerüzemeltető a szállítási kapacitásdíj számlájával egyszerre jogosult kiállítani a rendszerhasználó számára, aki a külön kiállított pótdíj és utólagos kapacitásdíj számlákat a szállítási kapacitásdíj számlájával együtt köteles kiegyenlíteni.
+
+(6) A rendszerhasználó a lekötéskor megadott havi ütemezés – amely nem azonos a 15. § szerinti havi kapacitás-lekötéssel – szerint fel nem használt lekötött szállítási éves kapacitást részben vagy egészben az ÜKSZ-ben meghatározott módon jogosult – a szállítási rendszerüzemeltető tájékoztatása mellett – felajánlani azokra a hónapokra vonatkozóan, amelyekben az átadási-átvételi pont legnagyobb fogyasztása nem éri el a lekötött kapacitást.
+
+(7) A rendszerhasználó kérésére a szállítási rendszerüzemeltető köteles a jegyzőkönyvben szereplő fűtőértéket díjmentesen, műbizonylattal alátámasztani.
+
+(8) Ha a földgázszállító rendszer betáplálási pontjának kapacitására kiírt aukción a rendszerhasználó által tett ajánlat részben vagy egészben kielégíthetetlen, akkor a rendszerhasználó annak mértékéig a földgázszállító rendszer más betáplálási pontjára késedelmi pótdíj fizetése nélkül jogosult pótlólagos kapacitásigényt bejelenteni.
