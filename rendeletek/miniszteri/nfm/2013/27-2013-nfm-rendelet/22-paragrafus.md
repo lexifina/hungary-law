@@ -1,4 +1,4 @@
-## 21. § Az előirányzat biztosítja a fedezetet a 19. §-ban, valamint a 20. § (1) bekezdés a), b), d) és e) pontjában meghatározott feladatok ellátásra, amelynek érdekében a KTI Nonprofit Kft.-vel mint kedvezményezettel a miniszter támogatási, illetve vállalkozási szerződést köt. Az előirányzat biztosítja a fedezetet a 20. § (1) bekezdés c) pontjában meghatározott feladatok finanszírozására, amelyek ellátását a KKK – a KTI Nonprofit Kft. bevonásával – végzi előirányzat-átadásról szóló megállapodás alapján.
+## 21. §[^6] Az előirányzat biztosítja a fedezetet a 19. §-ban, valamint a 20. § (1) bekezdés a), b), d) és e) pontjában meghatározott feladatok ellátásra, amelynek érdekében a KTI Nonprofit Kft.-vel mint kedvezményezettel a miniszter támogatási, illetve vállalkozási szerződést köt. Az előirányzat biztosítja a fedezetet a 20. § (1) bekezdés c) pontjában meghatározott feladatok finanszírozására, amelyek ellátását a KKK – a KTI Nonprofit Kft. bevonásával – végzi előirányzat átcsoportosításra vonatkozó megállapodás alapján.
 
 22. § (1) Az előirányzat felhasználható a Tisza és a Bodrog folyókon, valamint a Kőrös, a Sajó és a Szamos folyókon a köteles kompok közlekedésbiztonságot fokozó átalakítására.
 
@@ -29,3 +29,5 @@ bb) a kompok és a révek alkalmasságának és megfelelőségének vizsgálata 
 (8) A pályázatról – a (3) bekezdésben meghatározott szempontok figyelembevételével – a miniszter dönt. A támogató döntésről szóló értesítéssel egyidejűleg a kedvezményezettnek megküldésre kerül a támogatási szerződés tervezete.
 
 (9) Az (1) bekezdésben meghatározott célra nyújtott támogatás a csekély összegű támogatásokról szóló bizottsági rendelet szerinti csekély összegű (de minimis) támogatásnak minősül, és a csekély összegű támogatásokról szóló bizottsági rendelettel összhangban nyújtható.
+
+[^6]: A 21. § a 44/2013. (VII. 25.) NFM rendelet 10. § b) pontja szerint módosított szöveg.

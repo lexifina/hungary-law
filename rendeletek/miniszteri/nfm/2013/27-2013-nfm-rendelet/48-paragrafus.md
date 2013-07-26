@@ -10,4 +10,6 @@ A különböző informatikai rendszerek üzemeltetéséhez szorosan illeszkedve 
 
 (4) Az előirányzat felhasználása kiterjed a Védelemszervezési és Légi riasztási rendszer fenntartási kötelezettségeire , melyhez az ágazati katasztrófavédelmi rendszerek működtetését biztosító informatikai, illetve technikai feltételek, és a rendszer karbantartási feladatainak, valamint a Védelem- és biztonságfejlesztési hírközlési céltartalék-képzési program finanszírozása tartozik. Az előirányzat biztosítja a Nemzeti rejtjelező eszközökkel kapcsolatos fejlesztés üzemeltetésének fedezetét .
 
-(5) Az előirányzat felhasználásának alapjául a NISZ Zrt.-vel kötött közszolgáltatási szerződés, valamint a Nemzeti Információs Infrastruktúra Fejlesztési Intézettel kötött előirányzat-átadási megállapodás szolgál.
+(5)[^18] Az előirányzat felhasználásának alapjául a NISZ Zrt.-vel kötött közszolgáltatási szerződés, valamint a Nemzeti Információs Infrastruktúra Fejlesztési Intézettel kötött előirányzat átcsoportosításra vonatkozó megállapodás szolgál.
+
+[^18]: A 48. § (5) bekezdése a 44/2013. (VII. 25.) NFM rendelet 10. § f) pontja szerint módosított szöveg.

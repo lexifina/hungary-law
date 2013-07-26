@@ -22,4 +22,6 @@ i) Elektronikus fizetési és elszámolási rendszer működtetésének biztosí
 
 j) az EKOP kormányzati informatikai projektek végrehajtásának felgyorsítása érdekében egyszemélyi felelősség kialakításának biztosítása az európai uniós szabad források felhasználásához szükséges intézkedésekről szóló 1345/2012. (IX. 7.) Korm. határozat rendelkezéseinek megfelelően.
 
-(2) Az előirányzat felhasználásának alapjául a NISZ Zrt., valamint egyéb, a Kormány által rendeletben kijelölt kormányzati célú hírközlési szolgáltatóval megkötött közszolgáltatási (SLA) szerződés, a Nemzeti Információs Infrastruktúra Fejlesztési Intézettel, továbbá a Kormányzati Informatikai Fejlesztési Ügynökséggel kötött előirányzat-átadási megállapodás szolgál.
+(2)[^16] Az előirányzat felhasználásának alapjául a NISZ Zrt., valamint egyéb, a Kormány által rendeletben kijelölt kormányzati célú hírközlési szolgáltatóval megkötött közszolgáltatási (SLA) szerződés, a Nemzeti Információs Infrastruktúra Fejlesztési Intézettel, továbbá a Kormányzati Informatikai Fejlesztési Ügynökséggel kötött előirányzat átcsoportosításra vonatkozó megállapodás szolgál.
+
+[^16]: A 45. § (2) bekezdése a 44/2013. (VII. 25.) NFM rendelet 10. § f) pontja szerint módosított szöveg.

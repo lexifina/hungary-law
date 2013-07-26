@@ -4,7 +4,13 @@
 
 ## 1. Egyedi kormánydöntésen alapuló közlekedési beruházások (17-20-31-2, ÁHT: 302679)
 
-9. § (1) Az előirányzat fedezetet biztosít a Győr, keleti iparterület körüljárását biztosító közút Kormány egyedi döntésén alapuló beruházás keretében történő előkészítése és megépítése kapcsán az állami megrendelői (építtetői) feladatok – ideértve az előkészítést, a területbiztosítást, a Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK) feladatkörébe nem utalt terveztetést, az előirányzat terhére megvalósuló projektek tanulmányterveinek előkészítését, a közbeszerzési eljárások lefolytatását, annak eredményeként a szerződéskötést, valamint a szerződések teljesítésének igazolását – ellátására.
+9. § (1)[^1] Az előirányzat fedezetet biztosít
+
+a) a Győr, keleti iparterület körüljárását biztosító közútnak a Kormány egyedi döntésén alapuló beruházás keretében történő előkészítése és megépítése, valamint
+
+b) az M1 autópálya és a 14. számú főút közötti, a Győr, keleti elkerülő út előkészítése kapcsán az állami megrendelői (építtetői) feladatok ellátásával,
+
+## ennek keretében az előkészítéssel, a területbiztosítással, a Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK) feladatkörébe nem utalt terveztetéssel, az előirányzat terhére megvalósuló projektek tanulmányterveinek előkészítésével, a közbeszerzési eljárások lefolytatásával, annak eredményeként a szerződéskötéssel, valamint a szerződések teljesítésének igazolásával összefüggő költségekre.
 
 (2) Az előirányzat felhasználása az (1) bekezdésben meghatározott feladatok ellátására, a Nemzeti Infrastruktúra Fejlesztő Zrt.-vel (a továbbiakban: NIF Zrt.) mint a beruházás megvalósítójával kötött támogatási szerződés alapján történik.
 
@@ -15,3 +21,5 @@
 (5) A támogatás folyósítására a támogatási szerződésben rögzítettek szerint részletekben történő teljesítésarányos előfinanszírozással vagy utófinanszírozással kerülhet sor. Folyósításra részletekben történő utófinanszírozásnál előleg nyújtása mellett kerülhet sor, részletekben történő előfinanszírozás esetén, ha a támogatási szerződés előírja, a lezárult finanszírozási időszakok tekintetében részbeszámoló elfogadását, továbbá az Ávr. 84. § (4a) bekezdése szerinti visszafizetési kötelezettség teljesítését követően történhet.
 
 (6) Az előirányzaton rendelkezésre álló összeg növekedése esetén a támogatás összege feladatbővülés miatt megnövelhető.
+
+[^1]: A 9. § (1) bekezdése a 44/2013. (VII. 25.) NFM rendelet 1. §-ával megállapított szöveg.

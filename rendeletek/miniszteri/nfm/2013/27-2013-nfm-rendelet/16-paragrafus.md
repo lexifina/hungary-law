@@ -4,6 +4,9 @@
 
 16. § (1) Az előirányzat célja az M60 autópálya Pécs–Szentdénes közötti szakasz előkészítési munkálatainak teljes befejezésének finanszírozása.
 
-(2) Az előirányzat felhasználása a NIF Zrt.-vel mint a kormányzati beruházás megvalósítójával kötött megállapodás alapján történik.
+(2)[^4] Az előirányzat felhasználására a 14. § (2)–(4) bekezdését kell alkalmazni.
 
-(3) Az előirányzat kezelő szerve a KKK. Az előirányzat pénzügyi lebonyolítására szolgáló számla felett a KKK rendelkezési joggal rendelkezik, a KKK ellátja a kötelezettségvállalással, a kötelezettségvállalás ellenjegyzésével, a teljesítés igazolásával, az utalványozással, az utalványozás ellenjegyzésével, az érvényesítéssel, a könyvvezetéssel és a miniszter felé történő beszámolással kapcsolatos feladatokat.
+(3)[^5]
+
+[^4]: A 16. § (2) bekezdése a 44/2013. (VII. 25.) NFM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 16. § (3) bekezdését a 44/2013. (VII. 25.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
