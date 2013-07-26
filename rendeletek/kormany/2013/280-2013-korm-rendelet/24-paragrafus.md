@@ -1,6 +1,4 @@
-## 23. § Az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, az abban foglaltak alóli mentességekre, az autóbuszos személyszállítási szolgáltatási feltételekre, valamint a közúti személyszállítási üzletszabályzatra vonatkozó szabályokról szóló 213/2012. (VII. 30.) Korm. rendelet 27. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A 2. § (1), (2), (4) és (5) bekezdése 2017. március 1-jén hatályát veszti.”
+## 23. §[^11]
 
 ## 7. Záró rendelkezések
 
@@ -17,3 +15,5 @@ a) a mozgásában korlátozott személy parkolási igazolványáról szóló 218
 b) a közúti közlekedési igazgatási eljárásokkal összefüggő egyes kormányrendeletek módosításáról szóló 5/2013. (I. 16.) Korm. rendelet 7. §-a.
 
 (5) Ez a rendelet 2013. október 2-án hatályát veszti.
+
+[^11]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

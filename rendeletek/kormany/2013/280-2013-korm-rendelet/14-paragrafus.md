@@ -1,1 +1,0 @@
-## „(3) A saját számlás menetlevél szigorú számadású nyomtatványnak minősül. A menetlevelet – az üzemben tartó írásbeli rendelkezése alapján – a jármű vezetője köteles kiállítani. A jármű vezetője köteles a saját számlás menetlevelet a szállítás során eseményszerűen vezetni és aláírásával hitelesíteni.”
