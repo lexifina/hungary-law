@@ -1,5 +1,0 @@
-## 1. § A vis maior tartalék felhasználásának részletes szabályairól szóló 8/2010. (I. 28.) Korm. rendelet 7. §-a a következő (4b) bekezdéssel egészül ki:
-
-## „(4b) A 2010. október 4-én bekövetkezett vörösiszap-katasztrófával érintett települések esetében – a (4a) bekezdéstől eltérően – az elszámolási határidő módosítására két alkalommal van lehetőség, legfeljebb az elszámolási határidő 2013. december 31-éig történő meghosszabbításával. A határidő-módosítási kérelmet e rendelkezés hatálybalépését követő 15 napon belül lehet benyújtani az Igazgatóságnak. A kérelemhez csatolni kell a határidő-módosítás indokoltságát alátámasztó dokumentumokat, továbbá a polgármester nyilatkozatát, melyben megjelöli a munkálatok megkezdésének időpontját, a helyreállítás befejezésének várható új időpontját, és részletezi az elszámolást akadályozó körülményeket. A támogatás lehívására a meghosszabbított elszámolási határidő végéig benyújtott számlák esetében van lehetőség.”
-
-2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
