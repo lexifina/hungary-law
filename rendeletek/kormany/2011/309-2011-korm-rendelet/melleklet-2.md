@@ -48,7 +48,7 @@
 
 ## 2.9. Központi tárolóhely, nyomtatási várakozási sorok és központi levelezési szolgáltatások üzemeltetése
 
-## 2.10.[^15] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
+## 2.10.[^16] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
 
 ## 2.11. Egyéb alapvető informatikai és elektronikus hírközlő eszköz üzemeltetése, karbantartása
 
@@ -134,9 +134,9 @@
 
 ## 3. Egyedileg igényelt perifériákkal való ellátás (szkenner, nyomtató) raktári készletből
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^16]
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^17]
 
-A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő költségvetési szervek[^17]
+A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő költségvetési szervek[^18]
 
 1. A Miniszterelnökség és a következő minisztériumok:
 
@@ -144,7 +144,7 @@ a) Belügyminisztérium,
 
 b) Közigazgatási és Igazságügyi Minisztérium,
 
-c)[^18] Emberi Erőforrások Minisztériuma,
+c)[^19] Emberi Erőforrások Minisztériuma,
 
 d) Nemzeti Fejlesztési Minisztérium,
 
@@ -154,21 +154,21 @@ f) Vidékfejlesztési Minisztérium.
 
 2.1. A központi szolgáltatási megállapodás alapján igénybevételre kötelezett egyéb költségvetési szervek:
 
-a)[^19]
+a)[^20]
 
-b)[^20]
+b)[^21]
 
 c) Közbeszerzési és Ellátási Főigazgatóság,
 
-d)[^21]
+d)[^22]
 
-2.2.[^22]
+2.2.[^23]
 
-[^15]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^16]: A 2. melléklet a 72/2012. (IV. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^17]: A 2. melléklet címe a 300/2012. (X. 26.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^18]: A 2. melléklet 1. pont c) alpontja a 300/2012. (X. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^19]: A 2. melléklet 2.1. pont a) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^20]: A 2. melléklet 2.1. pont b) alpontját a 300/2012. (X. 26.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
-[^21]: A 2. melléklet 2.1. pont d) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^22]: A 2. melléklet 2.2. pontját a 300/2012. (X. 26.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^16]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^17]: A 2. melléklet a 72/2012. (IV. 12.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^18]: A 2. melléklet címe a 300/2012. (X. 26.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^19]: A 2. melléklet 1. pont c) alpontja a 300/2012. (X. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^20]: A 2. melléklet 2.1. pont a) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^21]: A 2. melléklet 2.1. pont b) alpontját a 300/2012. (X. 26.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
+[^22]: A 2. melléklet 2.1. pont d) pontját a 178/2012. (VII. 26.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^23]: A 2. melléklet 2.2. pontját a 300/2012. (X. 26.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.

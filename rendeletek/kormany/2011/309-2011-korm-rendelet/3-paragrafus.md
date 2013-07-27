@@ -1,3 +1,3 @@
-## 2/A. §[^2] A miniszter az informatikai rendszer működtetéséért felelős szervezet felett felügyeleti, irányítási vagy tulajdonosi jogokat gyakorló miniszter egyetértésével rendeletben határozza meg azoknak az e rendelet szerinti igénybevételre kötelezett szervezetek és igénybevételre nem kötelezett szervezetek működtetési felelősségébe tartozó informatikai rendszereknek a körét, amelyek üzemeltetéséről vagy fejlesztéséről a központi szolgáltató gondoskodik, vagy amelyeknek fejlesztésében közreműködik.
+## 2/B. §[^3] A miniszter a 2. § szerinti szolgáltatások nyújtására – szabadkapacitás rendelkezésre állása esetén – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő költségvetési szerv vezetőjével, továbbá a nem a Kormány irányítása alá tartozó költségvetési szerv vezetőjével megállapodást köthet. A megállapodásban rendelkezni kell a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
 
-[^2]: A 2/A. §-t a 300/2012. (X. 26.) Korm. rendelet 8. §-a iktatta be.
+[^3]: A 2/B. §-t a 287/2013. (VII. 26.) Korm. rendelet 1. §-a iktatta be.

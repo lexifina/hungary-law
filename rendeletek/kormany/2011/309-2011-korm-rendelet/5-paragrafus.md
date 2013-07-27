@@ -1,4 +1,4 @@
-## 4. §[^4] A központi szolgáltató feladatát a 2. melléklet 1., valamint 2.1. pontjában meghatározott költségvetési szervek esetében a miniszterrel kötött közszolgáltatási szerződés alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét és a szolgáltatások elvárt szintjét, valamint az általános informatikai biztonsági követelményeket (a továbbiakban: központi szolgáltatási megállapodás). A központi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét a miniszter biztosítja.
+## 4. §[^5] A központi szolgáltató feladatát a 2. melléklet 1., valamint 2.1. pontjában meghatározott költségvetési szervek esetében a miniszterrel kötött közszolgáltatási szerződés alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét és a szolgáltatások elvárt szintjét, valamint az általános informatikai biztonsági követelményeket (a továbbiakban: központi szolgáltatási megállapodás). A központi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét a miniszter biztosítja.
 
 5. § (1) A központi szolgáltatási megállapodásban foglalt követelmények meghatározását és ellenőrzését a Kormány által létrehozott munkacsoport (a továbbiakban: Munkacsoport) végzi.
 
@@ -12,4 +12,4 @@ b) rendszeresen vizsgálja a központi szolgáltatási megállapodásban foglalt
 
 (4) A központi szolgáltatási megállapodás rögzíti az igénybe vételre kötelezett szervezet részvételének módját és feltételeit a központi szolgáltatási megállapodásban foglalt informatikai biztonsági követelmények teljesülésének ellenőrzésében.
 
-[^4]: A 4. § a 300/2012. (X. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^5]: A 4. § a 300/2012. (X. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
