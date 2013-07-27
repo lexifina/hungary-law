@@ -54,7 +54,7 @@
 
 | 8. | Minden esetben. | Az építésföldtani megalapozottság és a földtani veszélyeztetettség vizsgálata figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződmény meglétére, a szűkebb környezet felszíni és felszín alatti képződményeire, a felszínmozgásra utaló jellegre, a felszíni vízelvezetési technológiákra. | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^108]
+5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^109]
 
 ADATLAP
 
@@ -180,4 +180,4 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^108]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
+[^109]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.

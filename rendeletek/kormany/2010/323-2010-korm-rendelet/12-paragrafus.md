@@ -162,7 +162,9 @@ i)[^57]
 
 j) a Kbtv. 33. § (3) bekezdése
 
-k)[^58] a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (2) bekezdése
+k)[^58] a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (2) bekezdése,
+
+l)[^59] az egészségügyi államigazgatási feladatok tekintetében az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 2. §-a
 
 ## szerinti feladatok ellátására.
 
@@ -176,11 +178,11 @@ c) az Ebtv. 10. § (4) bekezdése,
 
 d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése,
 
-e)[^59] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
+e)[^60] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
 
 ## szerinti feladatok ellátására.
 
-(7)[^60] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a járási népegészségügyi intézetet jelöli ki
+(7)[^61] A Kormány egészségügyi államigazgatási szervként az OTH-t, a megyei népegészségügyi szakigazgatási szervet és a járási népegészségügyi intézetet jelöli ki
 
 a) az Eüak. 5. § (3) bekezdése,
 
@@ -194,7 +196,7 @@ cb) 24. § e) és f) pontja
 
 ## szerinti feladatok ellátására.
 
-(8)[^61] A Kormány egészségügyi államigazgatási szervként az OTH-t és a járási népegészségügyi intézetet jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (1) bekezdés p) pontja szerinti feladatok ellátására.
+(8)[^62] A Kormány egészségügyi államigazgatási szervként az OTH-t és a járási népegészségügyi intézetet jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (1) bekezdés p) pontja szerinti feladatok ellátására.
 
 [^34]: A 11/A. §-t a 137/2012. (VI. 29.) Korm. rendelet 63. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^35]: A 12. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
@@ -221,6 +223,7 @@ cb) 24. § e) és f) pontja
 [^56]: A 12. § (5) bekezdés g) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § c) pontja hatályon kívül helyezte, újonnan a 92/2012. (IV. 27.) Korm. rendelet 31. §-a iktatta be, szövege a 39/2013. (II. 14.) Korm. rendelet 24. § (1) bekezdése szerint módosított szöveg.
 [^57]: A 12. § (5) bekezdés i) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § d) pontja hatályon kívül helyezte.
 [^58]: A 12. § (5) bekezdés k) pontját a 325/2011. (XII. 28.) Korm. rendelet 80. § (5) bekezdése iktatta be.
-[^59]: A 12. § (6) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § e) pontja hatályon kívül helyezte, újonnan a 136/2013. (V. 10.) Korm. erndelet 2. § (2) bekezdése iktatta be.
-[^60]: A 12. § (7) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 80. § (6) bekezdésével megállapított, nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^61]: A 12. § (8) bekezdését a 22/2013. (II. 1.) Korm. rendelet 4. §-a iktatta be.
+[^59]: A 12. § (5) bekezdés l) pontját a 292/2013. (VII. 26.) Korm. rendelet 17. §-a iktatta be.
+[^60]: A 12. § (6) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § e) pontja hatályon kívül helyezte, újonnan a 136/2013. (V. 10.) Korm. erndelet 2. § (2) bekezdése iktatta be.
+[^61]: A 12. § (7) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 80. § (6) bekezdésével megállapított, nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^62]: A 12. § (8) bekezdését a 22/2013. (II. 1.) Korm. rendelet 4. §-a iktatta be.
