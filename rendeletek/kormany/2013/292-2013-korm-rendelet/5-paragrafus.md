@@ -1,0 +1,3 @@
+5. § (1) A települési hulladék ideiglenes ellátás körében történő elszállítására a közszolgáltató hulladékgazdálkodási tevékenységéről és a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletet azzal az eltéréssel kell alkalmazni, hogy az ideiglenes ellátásra kijelölt közérdekű szolgáltató minősül közszolgáltatónak.
+
+(2) A hulladékokkal kapcsolatos nyilvántartási kötelezettség teljesítéséről – a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott módon és tartalommal – az ideiglenes ellátás végzése során a kijelölt közérdekű szolgáltató gondoskodik.
