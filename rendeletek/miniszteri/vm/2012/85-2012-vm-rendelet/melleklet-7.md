@@ -1,4 +1,4 @@
-7. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^2]
+7. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^5]
 
 1. A körzet neve
 
@@ -84,7 +84,7 @@ A körzetben a Natura 2000 hálózat részeként kijelölt erdő nem található
 
 |  | Növedékfokozó gyérítés | 30 | 80 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -142,7 +142,7 @@ Bükkösök:
 
 |  | VI. | 90 | 90 | 100 | 90 |
 
-Gyertyános-tölgyesek:
+## Gyertyános-tölgyesek:
 
 |  | Fatermési osztály | V á g á s é r e t t s é g i k o r o k |
 
@@ -164,7 +164,7 @@ Gyertyános-tölgyesek:
 
 |  | VI. | 90 | 90 | 100 | 90 |
 
-Mageredetű kocsánytalan tölgyesek:
+## Mageredetű kocsánytalan tölgyesek:
 
 |  | Fatermési osztály | V á g á s é r e t t s é g i k o r o k |
 
@@ -238,4 +238,4 @@ b) a vágásérettségi korát elérő kocsányos tölgyes, gyertyános, mézgá
 
 11.1. A vegetációs időszak a körzetben április 1-től augusztus 31-ig tart.
 
-[^2]: A 7. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.
+[^5]: A 7. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.

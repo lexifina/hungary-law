@@ -14,7 +14,7 @@ e) a vízvédelmi, vagy partvédelmi rendeltetésű erdőben a cél a bolygatatl
 
 f) az erdőgazdálkodó azt kéri,
 
-## és az erdők védelmét, fennmaradását nem veszélyezteti, valamint az a)–c) pontban foglalt esetekben az erdő rendeltetéséből következő védelmi célok más üzemmód mellett nem biztosíthatóak.
+és az erdők védelmét, fennmaradását nem veszélyezteti, valamint az a)–c) pontban foglalt esetekben az erdő rendeltetéséből következő védelmi célok más üzemmód mellett nem biztosíthatóak.
 
 (2) Szálaló üzemmódú erdőgazdálkodás elsősorban az elegyes, rendszeres magtermő kort elért, magról természetes úton felújulni képes faállománnyal borított, lehetőleg vegyes korú és változatos térbeli szerkezetű erdőkben folytatható, javasoltan a természetes, természetszerű és származék erdőkből álló, nagyobb kiterjedésű és megfelelően feltárt erdőtömbökben.
 

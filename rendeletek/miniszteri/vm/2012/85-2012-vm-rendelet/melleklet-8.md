@@ -1,4 +1,4 @@
-8. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^3]
+8. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^6]
 
 1. A körzet neve
 
@@ -104,7 +104,7 @@ c) amelyben közösségi jelentőségű, jelölő erdei élőhelytípusba tartoz
 
 |  | Növedékfokozó gyérítés | 20 | 100 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -230,4 +230,4 @@ d) az átmeneti, kultúrerdő vagy faültetvény természetességi állapotú er
 
 12.2. 100%-os állami tulajdonban lévő erdőben készletgondozó használat nem tervezhető.
 
-[^3]: A 8. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.
+[^6]: A 8. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-13. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^4]
+13. melléklet a 85/2012. (VIII. 6.) VM rendelethez[^7]
 
 1. A körzet neve
 
@@ -170,7 +170,7 @@ A fészek szélétől számított 100 méteren belül fakitermelés nem végezhe
 
 |  | Növedékfokozó gyérítés | 25 | 70 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -334,4 +334,4 @@ c) az átmeneti erdő, kultúrerdő és faültetvény természetességi állapot
 
 11.1. A Honvédelmi Minisztérium vagyonkezelésében lévő erdőkben a körzeti erdőtervezés során figyelemmel kell lenni a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény, valamint annak végrehajtási rendeletében rögzített, a Magyar Honvédség nemzeti és szövetségi védelmi feladatainak ellátására.
 
-[^4]: A 13. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.
+[^7]: A 13. melléklet a 151/2012. (XII. 29.) VM rendelet 59. §-a szerint módosított szöveg.

@@ -162,7 +162,7 @@ A fenti védőzónák méretétől speciális körülmények miatt (fészek hely
 
 |  | Növedékfokozó gyérítés | 20 | 45 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -222,7 +222,7 @@ A fenti védőzónák méretétől speciális körülmények miatt (fészek hely
 
 |  | Feketefenyvesek | 45-60 | 50-70 | 50-70 | - | 50-70 |
 
-*: 150 m3/ha fajlagos fakészletnél nagyobb állományok esetén.
+## *: 150 m3/ha fajlagos fakészletnél nagyobb állományok esetén.
 
 7.3.1. A véghasználatok tervezésekor a vágásérettségi kor vágásérettségi szakaszon belüli meghatározása során az erdő elsődleges és további rendeltetéseit, valamint a faállományának fejlődését és egészségi állapotát kell figyelembe venni.
 

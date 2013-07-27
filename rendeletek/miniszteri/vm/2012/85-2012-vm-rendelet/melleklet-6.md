@@ -110,7 +110,7 @@ b) a közösségi jelentőségű, jelölő erdei élőhelyek közül a mészker�
 
 |  |  | Akác | 15 | 30 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -170,7 +170,7 @@ b) a közösségi jelentőségű, jelölő erdei élőhelyek közül a mészker�
 
 |  | Bükkösök | 70-100 | 130-150 | 50-70 |
 
-* A feltüntetett értékek az idős faállomány korát jelentik.
+## * A feltüntetett értékek az idős faállomány korát jelentik.
 
 7.3.2. A nagy kiterjedésű, egykorú erdőtömbök korosztály eloszlásának javítása érdekében egyes erdők vágásérettségi korát a vágásérettségi szakasz alsó határértékéhez kell közelíteni.
 

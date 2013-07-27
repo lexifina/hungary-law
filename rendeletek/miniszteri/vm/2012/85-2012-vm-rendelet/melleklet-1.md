@@ -1,5 +1,3 @@
-## 12–13. §[^1]
-
 1. melléklet a 85/2012. (VIII. 6.) VM rendelethez
 
 1. A körzet neve
@@ -144,7 +142,7 @@ A fészek szélétől számított 100 méteren belül fakitermelés nem végezhe
 
 |  | Fenyők | 25 | 80 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -251,5 +249,3 @@ c) az átmeneti erdő, kultúrerdő és faültetvény természetességi állapot
 12.1. A kavicsos váztalajú, a legfeljebb sekély termőrétegű cseri talajú erdők, valamint a legalább 50 %-ban vízmosásos területen elhelyezkedő erdőrészletek esetében a talajvédelmi rendeltetés kezdeményezésére kell javaslatot tenni.
 
 12.2. A körzeti erdőtervezés során kiemelt figyelmet kell fordítani a meglévő erdészeti utak erdészeti hatósági nyilvántartási hiányosságainak, illetve az esetleges művelési ág eltérések feltárására.
-
-[^1]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
