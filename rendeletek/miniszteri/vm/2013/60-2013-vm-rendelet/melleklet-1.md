@@ -1,5 +1,3 @@
-## 12. § A 2012. évi körzeti erdőtervezésre vonatkozó tervezési alapelvekről, valamint az érintett körzeti erdőtervek alapján folytatott erdőgazdálkodásról szóló 85/2012. (VIII. 6.) VM rendelet 9. § (1) bekezdésében a „vízügyi hatóságnak” szövegrész helyébe a „vízügyi igazgatási szervnek” szöveg lép.
-
 1. melléklet a 60/2013. (VII. 19.) VM rendelethez
 
 1. A körzet neve
@@ -104,7 +102,7 @@ b) amelyben kiemelt közösségi vagy közösségi jelentőségű, jelölő erde
 
 |  | 3. | Növedékfokozó gyérítés | 15 | 80 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 

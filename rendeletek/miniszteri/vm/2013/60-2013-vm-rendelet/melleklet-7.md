@@ -108,7 +108,7 @@ c) amelyben közösségi jelentőségű, jelölő erdei élőhelytípusba tartoz
 
 |  | 3. | Növedékfokozó gyérítés | 20 | 45 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -170,7 +170,7 @@ c) amelyben közösségi jelentőségű, jelölő erdei élőhelytípusba tartoz
 
 |  | 4. | Összesen | 7350 |
 
-* Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
+## * Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
 
 7.5. A véghasználatok és erdőfelújítások tervezési szempontjai
 

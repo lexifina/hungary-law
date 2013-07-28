@@ -202,13 +202,15 @@ A fakitermelési munkák során fészekrakásra alkalmas, nagy koronájú fákat
 
 |  | 11. | Fenyők | 15 | 60 |
 
-* A nem megfelelő egészségi állapotú vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt esetben el lehet térni.
+## * A nem megfelelő egészségi állapotú vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt esetben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
 7.2.1. Az erdőneveléseket úgy kell tervezni, hogy azok elősegítsék az idegenhonos, valamint az erdészeti tájidegen fafajok visszaszorítása mellett a termőhelynek megfelelő és az erdészeti tájban őshonos elegyfafajok (pl. a magyar kőris, magas kőris, hegyi juhar, mezei juhar, vénic szil, mezei szil, fekete nyár, rezgő nyár stb.) megőrzését.
 
 7.3 A véghasználatok tervezése során alkalmazandó vágásérettségi szakaszok
+
+## 3K64639_1
 
 |  |  | A | B | C | D | E |
 

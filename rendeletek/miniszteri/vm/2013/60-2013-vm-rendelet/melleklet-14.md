@@ -128,7 +128,7 @@ c) a lejtők és sziklatörmelékek Tilio-Acerion erdőiben (9180).
 
 |  | 3. | Növedékfokozó gyérítés | 30 | 80 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 

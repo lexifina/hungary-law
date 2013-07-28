@@ -234,7 +234,7 @@ A fakitermelési munkák során idős állományrészeket, facsoportokat, valami
 
 |  | 5. | Bükkösök | 70–100 | 130–160 | 50–70 |
 
-* A feltüntetett értékek az idős faállomány korát jelentik.
+## * A feltüntetett értékek az idős faállomány korát jelentik.
 
 7.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

@@ -168,7 +168,7 @@ A fehérhátú fakopáncs fészek szélétől számított 100 méteren belül fa
 
 |  | 13. | Egyéb fenyő | 20 | 50 | 45 | 75 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.1.2. Átalakító üzemmódú erdők esetében a 7.1.1. alpontban foglaltak az irányadók, annyi eltéréssel, hogy felső határértékként az ott feltüntetett maximális értékek 150%-át kell tekinteni.
 

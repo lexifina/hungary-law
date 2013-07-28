@@ -166,7 +166,7 @@ A fészek szélétől számított 100 méteren belül fakitermelés csak a term�
 
 |  | 3. | Növedékfokozó gyérítés | 40 | 110 |
 
-*A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## *A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 7.2. Az erdőnevelések tervezésének szempontjai
 
@@ -212,7 +212,7 @@ A fészek szélétől számított 100 méteren belül fakitermelés csak a term�
 
 |  | 12. | Lucfenyvesek | 30–50 | 50–60 | 40–50 | 50–60 |
 
-A vágásérettségi szakaszok alsó határai talajhiba esetére, legyengült, pusztuló faállományú erdőkre, és olyan erdőrészletekre való tekintettel kerültek megállapításra, melyek felújítóvágása már a 2012. december 31-én lejáró erdőterv hatálya alatt megkezdődött. Egyéb esetben a vágásérettségi szakasz a megadott intervallum közepétől értendő.
+## A vágásérettségi szakaszok alsó határai talajhiba esetére, legyengült, pusztuló faállományú erdőkre, és olyan erdőrészletekre való tekintettel kerültek megállapításra, melyek felújítóvágása már a 2012. december 31-én lejáró erdőterv hatálya alatt megkezdődött. Egyéb esetben a vágásérettségi szakasz a megadott intervallum közepétől értendő.
 
 7.4. Az egyes véghasználatok 10 évre vonatkozó keretszáma
 
