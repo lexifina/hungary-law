@@ -1,3 +1,0 @@
-A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 287. § (2) bekezdés g) pontjában és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (5) bekezdés q) pontjában és (7) bekezdés aj) pontjában kapott felhatalmazás alapján, a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény egyes rendelkezéseinek végrehajtásáról szóló 71/2006. (IV. 3.) Korm. rendelet 32/A. § (2) bekezdésben meghatározott feladatkörömben eljárva a Magyar Honvédségben megvalósuló kegyeleti gondoskodás érdekében a következőket rendelem el:[^2]
-
-[^2]: A rendelet bevezető rendelkezése a 27/2008. (XII. 31.) HM rendelet 18. §-ával megállapított szöveg.
