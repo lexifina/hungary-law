@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-15
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-07-28 | 2013-7-20-15.1 | 7/2013. (VII. 25.) HM rendelet |
+| 2013-07-29 | 2013-7-20-15.2 | 2010: CXXX. törvény |
