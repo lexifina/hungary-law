@@ -2,123 +2,11 @@
 
 ## 2.[^1]
 
-1. melléklet az 1647/2012. (XII. 19.) Korm. határozathoz
+1. melléklet az 1647/2012. (XII. 19.) Korm. határozathoz[^2]
 
 A Gazdaságfejlesztési Operatív Program
 
 2011-2013. évekre szóló akcióterve
-
-1. prioritás – K+F és innováció
-
-I. Prioritás bemutatása
-
-1. Prioritás tartalma
-
-| Prioritás rövid tartalma (max. 500 karakter) |
-
-| A prioritás ösztönzi a vállalkozások által végzett, a gazdaságban hasznosuló ipari kutatás és kísérleti fejlesztési tevékenységeket, az innovatív vállalkozások klaszteresedési folyamatait, az innovatív fejlesztések piacra vitelét, és a korszerű kutatási infrastruktúra kialakítását |
-
-2. A prioritás célkitűzései
-
-| Indikátor megnevezése | Indikátor mérték-egysége | Indikátor típusa | Bázisérték | Célérték |
-
-| 2015 |
-
-| A vállalkozások K+F ráfordításainak növekedése a program hatására | % | eredmény | 89,7 (2005; Mrd Ft) | 16% |
-
-| Megadott EPO szabadalmi, használati és formatervezési mintaoltalmi bejelentések számának növekedése a program hatására | % | eredmény | 181 (2005, MSZH hazai intézményi bejelentés) 191 (2003, EPO magyar bejelentés) | 30% |
-
-| Kutatási személyzet számított létszámának növekedése a program hatására | % | eredmény | 7393 (2005 fő) | 8% |
-
-3. A prioritás ütemezése – kiírások kerete
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-| 2011 | 2012 | 2013 | Összesen |
-
-| 123,0 | 88,98 | 0,0 | 211,98 |
-
-Tervezett ESZA/ERFA arány (%): 100% ERFA
-
-KMR-ben elszámolható kiadások aránya (%): 0% KMR
-
-4. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |
-
-| 76,4 | 20,8 | 131,09 | 60,09 | 0 | 288,38 |
-
-II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek 2011-2013 meghirdethető összes kerete (MrdFt) | Konstrukció célja |
-
-| 1.1.1. | Piacorientált K+F | 102,5 | Kutatás-fejlesztési tevékenységek támogatása jelentős szellemi hozzáadott értéket tartalmazó új, piacképes termékek, szolgáltatások, technológiák, ill. ezek prototípusainak kifejlesztésével. A konstrukció keretösszegéből kerül finanszírozásra az ELI (ExtremeLightInfrastructure) projekt is. |
-
-| 1.2.1. | Akkreditált klaszterek közös projektjeinek támogatása | 15,0 | Együttműködő innovatív vállalkozások közös, a klaszter érdekét is szolgáló technológiai innovációs projektjeinek (meglévő termék, technológia, szolgáltatás fejlesztése és piacra vitele) segítése, illetve műszaki fejlesztés háttérnek biztosítása az adott klaszter több tagja által tulajdonolt projekttársaságok támogatásával. A konstrukció keretében nyílhat továbbá lehetőség az innovatív vállalkozások számára kutatási, műszaki fejlesztési, IKT és gyártási infrastrukturális háttér kialakítása innovációs és technológiai parkok, valamint fejlesztési központok kialakításával és továbbfejlesztésével. |
-
-| 1.3.1. | Vállalati innováció | 91,66 | Vállalkozások (beleértve az innovatív beszállítókat) technológiai innovációs tevékenységeinek támogatása meglévő, piacképes termékek (beleértve az alkatrészt és/vagy részegységet), szolgáltatások, technológiák továbbfejlesztésével.További cél a vállalati K+F tevékenységek dinamikus növekedésének biztosítása a konstrukció keretein belül, jelentős nagyvállalati K+F+I programok támogatása révén. A nagyvállalati ernyőprogramok révén a vállalkozások új és folyamatban levő K+F programjai kerülnek támogatásra, a megvalósítási időszak alatt elvégzendő K+F+I tevékenységgel arányosan. |
-
-| 1.5.1. | Projekt előkészítés | 2,82 | Az EU-s szinten is kiemelkedő fontosságú európai kutatási infrastruktúra projektek tervezési, előkészítési és létesítés-előkészítési (Memorandum of Understanding aláírás utáni) munkáinak finanszírozása. |
-
-| 1. | Prioritás | 211,98 |  |
-
-2. prioritás – Vállalkozások komplex fejlesztése
-
-I. Prioritás bemutatása
-
-1. Prioritás tartalma
-
-| Prioritás rövid tartalma (max. 500 karakter) |
-
-| A prioritás fő célja a növekedési potenciállal rendelkező vállalkozások, elsősorban a KKV-k (széles értelemben vett) vállalati kapacitásainak komplex fejlesztése jövedelemtermelő képességük növelése és a piaci pozícióik javítása érdekében technológia-intenzív tevékenységek fejlesztésével, a vállalkozások szervezet- és humánerőforrás fejlesztésének, az IKT technológia és alkalmazások használatának, illetve az üzlet- és piacfejlesztési tevékenységeknek az integrálásával. |
-
-2. A prioritás célkitűzései
-
-| Indikátor megnevezése | Indikátor mérték-egysége | Indikátor típusa | Bázisérték | Célérték |
-
-| 2015 |
-
-| A vállalati szektor által megtermelt bruttó hozzáadott érték (BHÉ) növekedése a 2. prioritás hatására | % | hatás | Mkv: 3 499 Közpv: 2 198 Nagyv: 5052 (2005, Mrd Ft) | Mkv: 1,5 % Középv: 1,5 % Nagyv: 0,5 % |
-
-| A vállalati szektor által elért nettó árbevétel növekedése a 2. prioritás hatására | % | eredmény | 41 237 (2003; Mrd Ft | 3% |
-
-3. A prioritás ütemezése – kiírások kerete
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-| 2011 | 2012 | 2013 | Összesen |
-
-| 144,0 | 36,6 | 0,0 | 180,6 |
-
-Tervezett ESZA/ERFA arány (%): 100% ERFA
-
-KMR-ben elszámolható kiadások aránya (%): 0% KMR
-
-4. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |
-
-| 206,0 | 56,0 | 95,0 | 29,6 | 0,0 | 386,6 |
-
-II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek 2011-2013 meghirdethető összes kerete (MrdFt) | Konstrukció célja |
-
-| 2.1.1. | Vállalati technológia fejlesztés | 105,0 | Mikro-, kis- és középvállalkozások különféle belső fejlesztéseinek (pl. eszközvásárlás, ingatlan-beruházás, marketing) támogatása új munkavállalók foglalkoztatásával és új piacok szerezésével, amelynek keretében előnyben részesülnek az Új Széchenyi Tervhez kapcsolódó fejlesztések. |
-
-| 2.1.3. | Komplex technológiafejlesztés és foglalkoztatás | 62,3 | A jelen pályázati kiírás célja olyan, elsősorban a kitörési pontokhoz (pl. egészségipar, zöld gazdaság) kapcsolódó komplex beruházások támogatása, amelyek kiemelkedő foglalkoztatási hatással bírnak munkahelyek megőrzésére vagy új munkahelyek teremtésére. |
-
-| 2.1.4. | Környezeti célú fejlesztések | 0,3 | Vállalkozások jelenleg is működő tevékenységének/technológiájának fejlesztése (akár kapacitásbővítése) környezetbarát technológiák, termelési eljárások lehetőségeinek minél nagyobb kihasználásával növelve versenyképességüket és gazdasági hatékonyságukat. |
-
-| 2.2.1. | IKT fejlesztések | 4,0 | Mikro-, kis- és középvállalkozások jövedelemtermelő képességének erősítése az információs és kommunikációs technológiai (továbbiakban: IKT) megoldások hatékony alkalmazásával a belső vállalati és a vállalatközi üzleti folyamatokban, a hazai KKV-szektor versenyképességének növekedésével. |
-
-| 2.2.4. | KKV munkahelyteremtés | 9,0 | Mikro- és kisvállalkozások munkahely-teremtési képességének támogatása, ösztönzése az új munkavállalók foglalkoztatására igényelhető támogatással. |
-
-| 2. | Prioritás | 180,6 |  |
 
 3. prioritás – Üzleti környezet
 
@@ -285,3 +173,4 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 | 5. | Prioritás | 3,2 |  |
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1493/2013. (VII. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
