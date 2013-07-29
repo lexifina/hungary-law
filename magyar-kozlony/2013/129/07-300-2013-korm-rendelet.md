@@ -1,0 +1,268 @@
+# A Kormány 300/2013. (VII. 29.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 129. szám, 2013. július 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7325e5f87c7c09eafeff357d3167225538be3ab2/dokumentumok/7af683705d097f8e0458377ad23a7a055ef03ea9/letoltes)
+
+---
+
+A Kormány 300/2013. (VII. 29.) Korm. rendelete
+egyes energetikai tárgyú kormányrendeletek módosításáról
+A Kormány
+a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 7. pontjában,
+a 2. alcím tekintetében a földgázellátásról szóló 2008. évi XL. törvény 132. § 8. és 19. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló
+273/2007. (X. 19.) Korm. rendelet módosítása
+1. §
+A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló
+273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. Vhr.) 56. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az átviteli rendszerüzemeltető, valamint – az átviteli rendszerirányító teljes tulajdonosi szétválasztása
+esetén – az átviteli rendszerirányító a VET szerinti engedélyköteles tevékenysége vonatkozásában köteles
+saját alkalmazásban lévő munkavállalókkal folyamatosan eleget tenni legalább az alábbi kötelezettségeinek
+az engedélyében meghatározottak szerint:
+
+a) a villamosenergia-rendszer üzemelőkészítése, operatív üzemirányítása, üzemeltetése és üzemértékelése,
+b) a rendszerszintű mérleg elkészítése,
+c) a villamosenergia-értékesítések végrehajtásának összehangolása,
+d) a rendszerszintű szolgáltatások tervezése, valamint az igénybevételükhöz kapcsolódó elszámolás,
+e) a szervezett villamosenergia-piacon megkötött ügyletek végrehajtásában történő közreműködés és
+f) a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések
+elrendelése.”
+2. §
+A Vet. Vhr. a következő 84/A–84/D. §-sal egészül ki:
+„84/A. § (1) Az elosztó a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki az elosztóhálózat
+építését, valamint az ügyfélszolgálati tevékenységét, ideértve a rendszerhasználókkal való kapcsolattartással,
+a számlakibocsátással és a számla ellenértékének beszedésével kapcsolatos tevékenységeket.
+(2) Az elosztó nem kapcsolt vállalkozásához történő kiszervezés esetében – az (1) bekezdésben foglaltakon felül –
+a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával az alábbi tevékenységeket szervezheti ki:
+a) elosztóhálózat tervezése és azon tevékenységek, amelyek költségei a számvitelről szóló törvény
+(a továbbiakban: Szt.) szerint a beruházás értékében aktiválandók,
+b) építészeti műszaki ellenőri tevékenység, ide nem értve a villamos műszaki ellenőri tevékenységet,
+c) környezetvédelmi szakértői szolgáltatások,
+d) gallyazás és nyiladéktisztítás,
+e) műszaki és térképi nyilvántartási rendszer üzemeltetése,
+f) korrózióvédelemmel összefüggő karbantartási feladatok,
+g) a hálózati, távfelügyeleti, üzemi célú távközlési és alállomási eszközökkel kapcsolatos diagnosztikai és
+karbantartási szolgáltatás,
+h) üzemeltetés és üzemzavar elhárítása céljából gépek, berendezések, járművek és szaktudás igénybevétele,
+i) csatlakozó berendezés és fogyasztásmérő-berendezés létesítése, ellenőrzése, cseréje, leszerelése és javítása, ki- és
+visszakapcsolása, valamint
+j) rendszeres és rendkívüli mérőleolvasás.
+(3) Az elosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett a Hivatal előzetes jóváhagyásával más
+elosztótól vagy a földgázellátásról szóló törvény szerinti földgázelosztótól szerződés alapján, engedélyköteles
+tevékenységi körébe tartozó szolgáltatásokat igénybe vehet.
+84/B. § (1) A VET 178/L. §-a alapján az egyetemes szolgáltató a Hivatal előzetes jóváhagyása alapján kiszervezheti
+az ügyfélszolgálati tevékenységét, ideértve a rendszerhasználókkal való kapcsolattartással, a számlakibocsátással és
+a számla ellenértékének beszedésével kapcsolatos tevékenységeket.
+(2) Az egyetemes szolgáltató az (1) bekezdésben foglalt tevékenység mellett a Hivatal előzetes jóváhagyásával
+más egyetemes szolgáltatótól, illetve a földgázellátásról szóló törvény szerinti egyetemes szolgáltatótól szerződés
+alapján, engedélyköteles tevékenységi körébe tartozó szolgáltatásokat igénybe vehet.
+84/C. § (1) Ha a Hivatal a 84/A. § és a 84/B. § szerinti eljárásban a tevékenység kiszervezéséhez hozzájárul, és
+a tevékenységet a működési engedély nem tartalmazza, az engedélyes köteles a Hivataltól a jóváhagyó határozat
+közlésétől számított 30 napon belül működési engedélye módosítását kérni.
+(2) A 84/A. § és a 84/B. § szerinti – a 83. § (3)–(4) bekezdése szerinti kérelem alapján induló – eljárás során
+a Hivatal a VET 95. § (1) bekezdése alapján részletesen vizsgálja a legkisebb költség elvének való megfelelést.
+A jóváhagyáshoz az engedélyes igazolja, hogy a tevékenység kiszervezett formában történő végzése a pénzügyi
+feltételek mellett, annak időtartamán belül inkább megfelel a legkisebb költség elvének és a felhasználók
+érdekének, mintha azt saját maga végezné.
+84/D. § Az elosztó és az egyetemes szolgáltató a 84/A. §-ban és a 84/B. §-ban felsorolt tevékenységeken túlmenően
+további tevékenységet nem szervezhet ki.”
+3. §
+A Vet. Vhr. 85. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az engedélyköteles tevékenység egyes elemeit végző más személy (a továbbiakban: közreműködő) köteles
+az (1) bekezdésben foglaltak betartására. A közreműködő köteles a Hivatal részére a felügyeleti és az árszabályozási
+feladatai ellátásához szükséges, a villamosenergia-rendszer irányításával, működésével és használatával összefüggő
+adatszolgáltatásokról szóló miniszteri rendeletben meghatározott adatokat megadni. Ha a közreműködő az (1) és
+a (2) bekezdésben foglaltaknak nem tesz eleget, a Hivatal
+a) az engedélyessel szemben a VET 96. §-ában foglalt jogkövetkezményeket alkalmazza, és
+
+b) a jogsértés súlyára tekintettel visszavonhatja a kiszervezést jóváhagyó határozatát, és kötelezi az engedélyest
+ba) a határozattal érintett tevékenység vagy annak egy részének saját személyzettel vagy eszközökkel történő
+végzésére, vagy
+bb) a közreműködő személyének újrapályáztatására.”
+4. §
+A Vet. Vhr. 90. § (2) bekezdés b) és c) pontja helyébe a következő rendelkezés lép:
+(Az átviteli rendszerüzemeltető, az elosztó és az egyetemes szolgáltató köteles saját tulajdonban lévő eszközökkel
+végezni engedélyköteles tevékenysége engedélyben meghatározott elemeit. Az átviteli rendszerüzemeltető, az elosztó és
+az egyetemes szolgáltató tulajdonában kell állnia legalább az alábbi eszközöknek:)
+„b) elosztó esetében
+ba) a nagyfeszültségű, a közép- és kisfeszültségű elosztóhálózat,
+bb) a fogyasztásmérő-berendezések és az elszámoláshoz szükséges mérési adatgyűjtő rendszerek,
+bc) az üzemirányítási eszközök, ideértve az üzemirányításhoz szükséges távközlési eszközöket, valamint
+a teljesítményszabályozó eszközöket és
+bd) a bb) alpont szerinti rendszerek adatfeldolgozásához és számlázásához, valamint az üzemirányításhoz szükséges
+informatikai eszközök, valamint
+be) a felhasználók azonosításához szükséges adatok, a felhasználási helyre vonatkozó adatok, valamint a mérés és
+a fogyasztásmérők adatainak tárolására, védelmére vonatkozó információtechnológia és egyéb kapcsolódó tárgyi
+eszközök,
+c) egyetemes szolgáltató esetében
+ca) az elszámoláshoz szükséges eszközök és
+cb) a felhasználók azonosításához szükséges adatok, a felhasználási helyre vonatkozó adatok, valamint a mérés és
+a fogyasztásmérők adatainak tárolására, védelmére vonatkozó információtechnológia és egyéb kapcsolódó tárgyi
+eszközök.”
+5. §
+A Vet. Vhr. 90. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Kapcsolt vállalkozások esetében a (2) bekezdés b) pont be) alpontja és (2) bekezdés c) pont cb) alpontja szerinti
+tulajdonjoggal elegendő egy engedélyesnek rendelkeznie.”
+6. §
+A Vet. Vhr.
+a) 23. § (2) bekezdésében a„bankkártyás”szövegrész helyébe a„bankkártya használatával történő”szöveg,
+b) 84. § (1) bekezdésében az „ , az elosztó és az egyetemes szolgáltató az 56. § alá tartozó” szövegrész helyébe
+az„az 56. § alá tartozó”szöveg,
+c) 86. §-ában az„előzetes jóváhagyáshoz”szövegrész helyébe a„ , valamint a 84/A. § és a 84/B. § szerinti előzetes
+jóváhagyáshoz”szöveg,
+d) 88. § (5) bekezdésében a „84. § (3) bekezdés a) pontja” szövegrész helyébe a „84. § (3) bekezdés a) pontja és
+a 84/A. §”szöveg
+lép.
+7. §
+A Vet. Vhr. a következő 120. §-sal egészül ki:
+„120. § A Hivatal az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 300/2013. (VII. 29.)
+Korm. rendelet (a továbbiakban: Mód. 2. rendelet) hatálybalépését követően köteles az engedélyköteles
+tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyeket felülvizsgálni, és szükség
+esetén azt módosítani vagy visszavonni. A Hivatal eljárásának ügyintézési határideje a Mód. 2. rendelet
+hatálybalépésének napját követő naptól számított három hónap.”
+8. §
+A Vet. Vhr. a következő 127. §-sal egészül ki:
+„127. § E rendeletnek a Mód. 2. rendelettel megállapított 84/A–84/D. §-ában, valamint 90. § (2) bekezdés b) pont
+be) alpontjában és c) pont cb) alpontjában megállapított kötelezettségek esetében a 120. § alapján lefolytatott
+eljárás jogerős lezárásától számított hat hónapig nem alkalmazható a VET 96. §-a, ha az engedélyes a 120. § alapján
+lefolytatott eljárás jogerős lezárását követően minden hónap 15. napjáig részletes ütemtervet nyújt be a Hivatalhoz
+a Mód. 2. rendelettel megállapított 84/A–84/D. §-ában, valamint 90. § (2) bekezdés b) pont be) alpontjában és
+c) pont cb) alpontjában foglalt kötelezettségek teljesítésének állásáról.”
+
+9. §
+A Vet. Vhr. 4a. számú melléklete az 1. melléklet szerint módosul.
+10. §
+A Vet. Vhr. 20. számú mellékletében az „A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.)” szövegrész
+helyébe az„Az Szt.”szöveg lép.
+2. A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló
+19/2009. (I. 30.) Korm. rendelet módosítása
+11. §
+A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet
+(a továbbiakban: Get. Vhr.) 100. §-a helyébe a következő rendelkezés lép:
+„100. § A rendszerüzemeltető az engedélye szerinti engedélyköteles tevékenysége vonatkozásában köteles
+saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési és szolgáltatási területén
+folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek:
+a) szállítási rendszerirányító esetében:
+aa) a GET által meghatározott, az együttműködő földgázrendszerre kiterjedő irányítási és koordinációs feladatok
+ellátása,
+ab) az együttműködő földgázrendszer képviselete nemzetközi szervezetekben és
+ac) a földgázellátási üzemzavar és válsághelyzet esetére előírt tevékenység,
+b) szállítási rendszerüzemeltető és földgáztárolói engedélyes esetében:
+ba) a mérő és adatátviteli eszközök üzemeltetése, felügyelete,
+bb) a karbantartás és üzemzavar elhárítás irányítása,
+bc) műszaki irányító szolgálat működtetése,
+bd) az engedélyes tevékenységhez kapcsolódó rendszerszintű szolgáltatások tervezése és végzése, valamint
+az igénybevételhez kapcsolódó elszámolás,
+be) az üzemvitel, az üzemirányítás és az ügyfélszolgálat területén az engedélyes működési tevékenységéhez
+kapcsolódó döntési és irányítási jogok és kötelezettségek, valamint
+bf) az egyensúlyozó platformon, illetve a szervezett földgázpiacon megkötött ügyletek végrehajtásában történő
+közreműködés.”
+12. §
+A Get. Vhr. 143. § (1) bekezdése helyébe a következő rendelkezés lép, és a Get. Vhr. 143. §-a a következő
+(1a) bekezdéssel egészül ki:
+„(1) A rendszerüzemeltetőnek és az egyetemes szolgáltatónak az engedélyköteles tevékenység egyes elemeit
+végző más személy (a továbbiakban: közreműködő) kiválasztására és megbízására vonatkozó belső kiválasztási
+szabályzattal kell rendelkeznie.
+(1a) A közreműködő köteles a Hivatal részére a felügyeleti és az árszabályozási feladatai ellátásához szükséges,
+a földgázipari vállalkozások adatszolgáltatásáról szóló miniszteri rendeletben meghatározott adatokat megadni.”
+13. §
+A Get. Vhr. 143. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az engedélyes köteles a 144. § (1) bekezdése, a 144/A. §, valamint a 144/B. § szerinti tevékenységek
+kiszervezésére vonatkozó kiválasztási eljárást legalább háromévenként megismételni.”
+14. §
+A Get. Vhr. a következő 144/A–144/D. §-sal egészül ki:
+„144/A. § (1) A földgázelosztó a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki
+az elosztóvezeték építését, valamint az ügyfélszolgálati tevékenységet, ideértve a felhasználóval való
+kapcsolattartással, számlakibocsátással és ellenérték-beszedéssel kapcsolatos tevékenységeket.
+(2) A földgázelosztó nem kapcsolt vállalkozásához történő kiszervezés esetében – az (1) bekezdésben foglaltakon
+felül – a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával az alábbi tevékenységeket szervezheti ki:
+a) elosztóvezeték tervezése, valamint azon tevékenységek, amelyek költségei az Szt. szerint a beruházás értékében
+aktiválandók,
+b) üzemeltetés és üzemzavar elhárítása céljából gépek, berendezések és szaktudás igénybevétele,
+c) fogyasztásmérő-berendezés és házi nyomásszabályozó le- és felszerelése, ellenőrzése, karbantartása, valamint
+műszaki átvétel és felhasználói rendszer beüzemelése,
+d) rendszeres és rendkívüli mérőleolvasás,
+e) felhasználó ki- és visszakapcsolása,
+
+f) gázszakági műszaki és térképi, digitális térképi nyilvántartás üzemeltetése,
+g) elosztóvezeték biztonsági övezetében karbantartási tevékenység,
+h) korrózióvédelemmel összefüggő karbantartási feladatok végrehajtása.
+(3) A földgázelosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett a Hivatal előzetes jóváhagyásával más
+földgázelosztótól vagy a villamos energiáról szóló törvény szerinti elosztótól szerződés alapján az engedélyköteles
+tevékenysége körébe tartozó szolgáltatásokat igénybe vehet.
+144/B. § (1) Az egyetemes szolgáltató a GET 146/D. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti
+ki az ügyfélszolgálati tevékenységet, beleértve a felhasználóval való kapcsolattartással, számlakibocsátással és
+ellenérték-beszedéssel kapcsolatos tevékenységeket.
+(2) Az egyetemes szolgáltató az (1) bekezdésben foglalt tevékenység mellett a Hivatal előzetes jóváhagyásával
+más egyetemes szolgáltatótól vagy a villamos energiáról szóló törvény szerinti egyetemes szolgáltatótól szerződés
+alapján az engedélyköteles tevékenysége körébe tartozó szolgáltatásokat igénybe vehet.
+144/C. § (1) A földgázelosztónak és az egyetemes szolgáltatónak rendelkeznie kell
+a) a felhasználási hely adatai,
+b) a mérési adatok, a fogyasztásmérő berendezések adatai,
+c) a rendszerhasználók nominálási adatai, az allokálási adatok, valamint
+d) a felhasználók azonosításához szükséges nyilvántartott adatok
+tárolását és védelmét biztosító információtechnológiai és egyéb kapcsolódó tárgyi eszközök tulajdonjogával.
+(2) Kapcsolt vállalkozások esetében az (1) bekezdés szerinti tulajdonjoggal elegendő egy engedélyes kapcsolt
+vállalkozásnak rendelkeznie.
+144/D. § A földgázelosztó és az egyetemes szolgáltató a 144/A. §-ban és a 144/B. §-ban felsorolt tevékenységeken
+túlmenően további tevékenységet nem szervezhet ki.”
+15. §
+A Get. Vhr. a következő 146/A. §-sal egészül ki:
+„146/A. § (1) A kiszervezés előzetes jóváhagyása iránti kérelemnek tartalmaznia kell:
+a) a kiszervezendő tevékenységet és annak személyi, eszköz oldali feltételeit,
+b) a társaságnak a kiszervezés miatt módosuló szervezeti és működési szabályzatát,
+c) a 145. § (1) bekezdése szerint a kiszervezés gazdasági hatékonyságát és hatását,
+d) a kötendő szerződés tervezetét, beleértve a szerződés felmondásával, a szerződésszegéssel, az árfelülvizsgálattal,
+a Hivatal iratbetekintési és információkérési jogosultságával kapcsolatos rendelkezéseket,
+e) a tevékenység engedélyesen belüli végzésének a szerződés megszűnését követő visszaállításának eljárásrendjét.
+(2) A kiszervezéssel érintett tevékenységek indokolt költségeinek hatósági árban történő figyelembevételénél
+a bemutatott költséghatékonyságot figyelembe kell venni.”
+16. §
+A Get. Vhr. a következő 152. §-sal egészül ki:
+„152. § A Hivatal az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 300/2013. (VII. 29.)
+Korm. rendelet (a továbbiakban: Mód. Kr3.) hatálybalépését követően köteles az engedélyköteles tevékenységek
+elemeivel, valamint a kiszervezéssel összefüggésben az engedélyeket felülvizsgálni, és szükség esetén azt
+módosítani vagy visszavonni. A Hivatal eljárásának ügyintézési határideje a Mód. Kr3. hatálybalépésének napját
+követő naptól számított három hónap.”
+17. §
+A Get. Vhr. a következő 160. §-sal egészül ki:
+„160. § E rendeletnek a Mód. Kr3.-mal megállapított 144/A–144/D. §-ában foglalt kötelezettségek esetében
+a 152. § alapján lefolytatott eljárás jogerős lezárásától számított hat hónapig nem alkalmazható a GET 119. §-a, ha
+az engedélyes a 152. § alapján lefolytatott eljárás jogerős lezárását követően minden hónap 15. napjáig részletes
+ütemtervet nyújt be a Hivatalhoz a Mód. Kr3.-mal megállapított 144/A–144/D. §-ában foglalt kötelezettségek
+teljesítésének állásáról.”
+18. §
+A Get. Vhr. 4. számú melléklete a 2. melléklet szerint módosul.
+19. §
+A Get. Vhr. 53. § (3) bekezdésében a „bankkártyás” szövegrész helyébe a „bankkártya használatával történő” szöveg
+lép.
+20. §
+Hatályát veszti a Get. Vhr. 144. § (4) és (5) bekezdése.
+
+3. Záró rendelkezések
+21. §
+Ez a rendelet a kihirdetését követő 10. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 300/2013. (VII. 29.) Korm. rendelethez
+1. A Vet. Vhr. 4a. számú melléklet 3. pont 3.2. alpontja helyébe a következő rendelkezés lép:
+[A VET 80/A. § (5) bekezdésében meghatározott hatástanulmány, amely az alábbi tartalmi elemeket foglalja magában,
+ha annak vizsgálata és az arról való döntés más hatóság feladat- és hatáskörébe nem tartozik:]
+„3.2. a kiválasztott telephely ismertetése és földrajzi elhelyezkedésének bemutatása,”
+2. A Vet. Vhr. 4a. számú melléklet 3. pont 3.5. alpontja helyébe a következő rendelkezés lép:
+[A VET 80/A. § (5) bekezdésében meghatározott hatástanulmány, amely az alábbi tartalmi elemeket foglalja magában,
+ha annak vizsgálata és az arról való döntés más hatóság feladat- és hatáskörébe nem tartozik:]
+„3.5. a tervezett technológiai berendezések bemutatása villamosenergia-rendszerbe, illetve földgáztüzelésű erőmű
+esetében együttműködő földgázrendszerbe illeszthetőség szempontjából,”
+3. A Vet. Vhr. 4a. számú melléklet 3. pont 3.8. alpont b) pontja helyébe a következő rendelkezés lép:
+(3.8. a villamosenergia-rendszerben szükségessé váló tartalékok rendelkezésre állásának vizsgálata:)
+„b) a tervezett gépegység adott rendszerszintű szolgáltatás nyújtásában képes-e részt venni, figyelemmel az üzemi
+szabályzatban az egyes rendszerszintű szolgáltatásokra előírt akkreditáció műszaki követelményeire,”
+4. Hatályát veszti a Vet. Vhr. 4a. számú melléklet 3. pont 3.4. alpont d) pontja.
+2. melléklet a 300/2013. (VII. 29.) Korm. rendelethez
+1. A Get. Vhr. 4. számú melléklet 1.1. pontja a következő 11. alponttal egészül ki:
+„11. A szállítóvezetékkel összefüggésben a csatlakozás és kapacitásnövelés általános műszaki és pénzügyi feltételei.”
+2. A Get. Vhr. 4. számú melléklet 1.2. pontja a következő 14. alponttal egészül ki:
+„14. Az elosztóvezetékkel összefüggésben a csatlakozás és kapacitásnövelés általános műszaki és pénzügyi
+feltételei.”
