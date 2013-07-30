@@ -1,6 +1,6 @@
 ## 6. A szerződés és a támogatási kérelem benyújtása
 
-8. § (1)[^2] A 8. § (2) bekezdés a) és b) pontja szerinti időszakok esetében a szerződés benyújtási határideje 2013. május 31.
+8. § (1)[^3] A kérelmező köteles a szerződés másolati példányát a 3. mellékletben meghatározott adattartalmú, az MVH által rendszeresített és a honlapján közleményben közzétett nyomtatvánnyal együtt a szerződésben szereplő első szállítási napot követő tizenöt napon belül, a szerződésmódosítás másolati példányát a megkötésétől számított tizenöt napon belül a székhelye szerint illetékes MVH megyei kirendeltségéhez benyújtani. A 8. § (2) bekezdés a) és b) pontja szerinti időszakok esetében a szerződés benyújtási határideje 2013. május 31.
 
 (2) A kérelmező a 4. mellékletben meghatározott adattartalmú támogatási kérelmét az MVH által rendszeresített és a honlapján közleményben közzétett nyomtatványon
 
@@ -20,7 +20,7 @@ kiszállított tejtermékekre vonatkozóan, időszakonként egy alkalommal, szem
 
 (4) A támogatási kérelemhez csatolni kell az adott időszakra vonatkozó, a támogatott termékek beszerzését igazoló számlák másolati példányait és azok összesítőjét, amely összesítőnek minden számla vonatkozásában tartalmaznia kell a számlákon szereplő leszállított termékmennyiséget termékkategóriánkénti és korcsoportonkénti (óvodás, általános iskolai tanuló, gyógypedagógiai tanterv alapján tanuló, integráltan nevelt általános iskola, szakiskola, középfokú iskola tanuló) bontásban.
 
-(5)[^3] Amennyiben a szállító az előfinanszírozó, úgy az intézmény fenntartójának jóváhagyásról szóló dokumentumot a szállítói szerződéssel együtt – az (1) bekezdésben meghatározott határidők szerint – kell a szállítónak megküldenie az MVH részére.
+(5)[^4] Amennyiben a szállító az előfinanszírozó, úgy az intézmény fenntartójának jóváhagyásról szóló dokumentumot a szállítói szerződéssel együtt – az (1) bekezdésben meghatározott határidők szerint – kell a szállítónak megküldenie az MVH részére.
 
 (6) Amennyiben a tej-, és tejtermékek kiszállítása a 6. § (3) bekezdésben meghatározott feltételrendszer szerint valósul meg, úgy a támogatási kérelemhez csatolni kell a gazdálkodó szervezet és a fenntartó közös nyilatkozatát arról, hogy teljesülnek a 6. § (3) bekezdésben, valamint a 6. § (5) bekezdésben foglalt feltételek.
 
@@ -28,5 +28,5 @@ kiszállított tejtermékekre vonatkozóan, időszakonként egy alkalommal, szem
 
 (8) Az MVH a hiányosan beküldött támogatási kérelmek tekintetében tizenöt napos határidő tűzésével hiánypótlásra szólítja fel a kérelmezőt.
 
-[^2]: A 8. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 23. §-ával megállapított szöveg.
-[^3]: A 8. § (5) bekezdése a 6/2013. (II. 5.) VM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^3]: A 8. § (1) bekezdése a 65/2013. (VII. 29.) VM rendelet 18. §-ával megállapított szöveg.
+[^4]: A 8. § (5) bekezdése a 6/2013. (II. 5.) VM rendelet 15. § (2) bekezdésével megállapított szöveg.

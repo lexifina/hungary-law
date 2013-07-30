@@ -30,6 +30,6 @@
 
 ## 6. Az ellátott intézményeknél a termékek hűtését biztosító berendezés biztosítása.
 
-6. melléklet a 141/2012. (XII. 27.) VM rendelethez[^9]
+6. melléklet a 141/2012. (XII. 27.) VM rendelethez[^10]
 
-[^9]: A 6. melléklet a 31/2013. (V. 2.) VM rendelet 27. §-ával megállapított szöveg.
+[^10]: A 6. melléklet a 31/2013. (V. 2.) VM rendelet 27. §-ával megállapított szöveg.
