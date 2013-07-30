@@ -384,7 +384,7 @@
 
 | 6. | Összesen: |  | max. 20 |
 
-4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^73]
+4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^77]
 
 Nem engedélyköteles beruházások tervmellékleteinek minimális tartalma
 
@@ -500,4 +500,4 @@ Nem engedélyköteles beruházások tervmellékleteinek minimális tartalma
 
 | 56. | részletes helyszínrajz (helyrajzi számokkal) 1:10 000–1:4000 (mind a meglévő, mind pedig a tervezett létesítmények, nyomvonalak, területi határok jelölésével). |
 
-[^73]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be, szövege az 59/2011. (VI. 29.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^77]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be, szövege az 59/2011. (VI. 29.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
