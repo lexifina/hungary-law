@@ -1,4 +1,4 @@
-## 6. §[^9] Az ügyfél köteles
+## 6. §[^10] Az ügyfél köteles
 
 a) a hasznosítás során a gazdaság teljes területén a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokról szóló miniszteri rendelet szerinti előírások összességét betartani, és
 
@@ -6,4 +6,4 @@ b) az e rendelet alapján benyújtott első kérelme alapján folyósított kifi
 
 c) a b) pontban meghatározott időszakban a gazdálkodási naplót naprakészen vezetni.
 
-[^9]: A 6. § a 99/2011. (XI. 5.) VM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 6. § a 99/2011. (XI. 5.) VM rendelet 3. §-ával megállapított szöveg.
