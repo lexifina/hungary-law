@@ -1,3 +1,5 @@
+## 8/A. §[^1] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél, az első kifizetési kérelem benyújtását követően, három havonta nyújthat be kifizetési kérelmet.
+
 ## 8. Jogkövetkezmények
 
 9. § (1) Amennyiben az ellenőrzés során bizonyosságot nyer, hogy az ügyfél a támogatási határozat alapján fennálló kötelezettségének nem, vagy nem az építési engedély, vagy a tervdokumentáció szerint tett eleget, az az intézkedésben való jogosulatlan részvételnek minősül.
@@ -23,3 +25,5 @@
 (11) Nem kell alkalmazni a Vhr. 33. § (4) bekezdésében foglaltakat.
 
 (12) A 3. § (6) bekezdésében foglalt rendelkezés megsértése esetén az MVH – amennyiben kifizetési kérelem alapján eljárás van folyamatban, úgy a kérelmet határozattal elutasítja – külön határozatban a támogatási határozatát visszavonja, ezzel egyidejűleg megállapítja, hogy az ügyfél támogatáshoz való jogosultsága megszűnik, továbbá az ügyfél által igénybevett támogatás jogosulatlanul igénybe vett támogatásnak minősül. Az MVH a támogatási határozatot visszavonó és támogatáshoz való jogosultság megszűnését megállapító határozatában rendelkezik továbbá arról, hogy az ügyfél a határozat jogerőre emelkedését követő három évig a 2007–2013-as időszakban az EMVA társfinanszírozásában nem terület- és állatlétszám alapú támogatásokra nem nyújthat be támogatási kérelmet, illetve pályázatot, továbbá a már benyújtott, de jogerős döntéssel még el nem bírált pályázata, illetve támogatási kérelme elutasításra kerül.
+
+[^1]: A 8/A. §-t a 68/2013. (VII. 29.) VM rendelet 9. §-a iktatta be.
