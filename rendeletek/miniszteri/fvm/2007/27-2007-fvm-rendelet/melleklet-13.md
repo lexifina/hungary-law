@@ -242,7 +242,7 @@
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^110]
+13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^111]
 
 Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, állatbetegségek kialakulását
 
@@ -280,4 +280,4 @@ Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javí
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-[^110]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^111]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
