@@ -1,3 +1,5 @@
+## 9/A. §[^1] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél, az első kifizetési kérelem benyújtását követően, három havonta nyújthat be kifizetési kérelmet.
+
 ## 9. Jogkövetkezmények
 
 10. § (1) Az intézkedésben való jogosulatlan részvételnek minősül, ha az ellenőrzés során bizonyosságot nyer, hogy az ügyfél a beruházási kötelezettségének nem, vagy nem az építési engedély, illetve tervdokumentáció szerint tett eleget.
@@ -13,3 +15,5 @@
 (6) Ha az ügyfél a 3. és a 4. év vonatkozásában nem teljesíti a pénzügyi tervre vonatkozó pontozási szempontok alapjául szolgáló kötelezettségeket, és a nem teljesítés pontszámvesztést eredményezne, akkor az ügyfél szempontonként a jóváhagyott támogatási összeg 2%-ának megfelelő, de összesen legfeljebb a jóváhagyott támogatási összeg 10%-át köteles visszafizetni.
 
 (7) Ha az ügyfél a pontozási szempontok közt (25. sor) feltüntetett feltételt (Közfoglalkoztatottak alkalmazása a kérelemben szereplő beruházás kivitelezésében), vállalása ellenére nem teljesíti, akkor köteles a támogatási összeg 2%-át, de legalább 750 ezer forintot visszafizetni.
+
+[^1]: A 9/A. §-t a 68/2013. (VII. 29.) VM rendelet 10. §-a iktatta be.
