@@ -34,7 +34,7 @@ g) rovarölő szerek nem alkalmazhatók, kivéve a repce, a mustár, illetve az 
 
 h) március 1. és július 31. között a munkavégzés csak napkeltétől napnyugtáig megengedett;
 
-i)[^145] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a gazdálkodót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható.
+i)[^147] fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 5 napon belül a természetvédelmi szerv köteles a gazdálkodót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható.
 
 (5) További előírások évelő szálas pillangós takarmánynövények termesztése esetén:
 
@@ -60,7 +60,7 @@ ee) évelő szálas pillangós takarmánynövények teljes területének lekasz�
 
 ef) 3 hektárnál nagyobb tábla esetében minden kaszálásnál a táblát két egyenlő részre kell osztani, az első 50% kaszálásának befejezését követően a másik 50% kaszálását csak 10 nappal később lehet elkezdeni,
 
-eg)[^146] tárgyévben július 31-e előtt végzett kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni a területileg illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját.
+eg)[^148] tárgyévben július 31-e előtt végzett kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni a területileg illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját.
 
 (6) További előírások vegyes szántóföldi növénytermesztés esetén:
 
@@ -84,7 +84,7 @@ fc) madárbarát kaszálási, szárzúzási módszert kell alkalmazni,
 
 fd) szárzúzásnál, kaszálásnál vadriasztó lánc használata kötelező,
 
-fe)[^147] tárgyévben július 31-e előtt végzett szárzúzás, kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni a területileg illetékes állami természetvédelmi szervnek a szárzúzás, kaszálás pontos helyét és tervezett kezdési időpontját;
+fe)[^149] tárgyévben július 31-e előtt végzett szárzúzás, kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni a területileg illetékes állami természetvédelmi szervnek a szárzúzás, kaszálás pontos helyét és tervezett kezdési időpontját;
 
 g) a vetésszerkezetben szereplő szálas pillangós takarmánynövény betakarítása esetén is alkalmazni kell a célprogramnak az évelő szálas pillangós takarmánynövények betakarítására vonatkozó előírásait.
 
@@ -94,6 +94,6 @@ a) évelő szálas pillangós takarmánynövények termesztése esetén 267 eur�
 
 b) vegyes szántóföldi növénytermesztés esetén 233 euró/ha-nak megfelelő forintösszeg.
 
-[^145]: A 64. § (4) bekezdés i) pontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^146]: A 64. § (5) bekezdés e) pont eg) alpontja a 92/2011. (X. 5.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^147]: A 64. § (6) bekezdés f) pont fe) alpontja a 92/2011. (X. 5.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^147]: A 64. § (4) bekezdés i) pontja az 1/2011. (I. 11.) VM rendelet 1. § (33) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^148]: A 64. § (5) bekezdés e) pont eg) alpontja a 92/2011. (X. 5.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^149]: A 64. § (6) bekezdés f) pont fe) alpontja a 92/2011. (X. 5.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.

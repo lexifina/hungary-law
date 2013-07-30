@@ -1,5 +1,3 @@
-## 9M22851_3
-
 | Pontozási szempontok vizes élőhelyekhez kapcsolódó célprogramok esetén |  | Célprogramok |
 
 | Értékelés/ellenőrzés módja | Nádgazdálkodás | Természetes vizes élőhelyek mocsarak, zsombékok, sásos területek gondozása | Vizes élőhelyek létrehozása és kezelése |
@@ -60,8 +58,6 @@
 
 ## ** A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001. (XII. 30.) Korm. Rendelet 4. § (3) bekezdés szerinti határozat másolata
 
-4. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^197]
+4. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^201]
 
-A támogatási kérelem pontozása során elfogadható felsőfokú agrár végzettségekről
-
-[^197]: A 4. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^201]: A 4. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

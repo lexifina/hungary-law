@@ -1,3 +1,5 @@
-## „(4) Kifizetési kérelmet az az ügyfél nyújthat be, aki az adott jogcím vonatkozásában rendelkezik az MVH által kibocsátott támogatási kérelemnek helyt adó vagy részben helyt adó jogerős támogatási határozattal.”
+## 82–85. §[^198]
 
 ## Európai Unió jogának való megfelelés
+
+[^198]: A 82–85. §-t a 68/2013. (VII. 29.) VM rendelet 6. § (5) bekezdése hatályon kívül helyezte.

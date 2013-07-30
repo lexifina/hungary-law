@@ -8,7 +8,7 @@ b) lófélékre vonatkozóan az egyes állatfajok egyedeinek Egységes Nyilvánt
 
 c) juh-, kecskefajokra vonatkozóan a juh- és kecskefajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 47/2005. (V. 23.) FVM rendeletben
 
-előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek.
+## előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek.
 
 (2) A kifizetési kérelem adminisztratív ellenőrzése során az állategységhez kötött jogosultság vizsgálatakor az (1) bekezdés a)–c) pontjaiban hivatkozott nyilvántartásokban szereplő, az egyes célprogramokon belül legeltethető fajok esetében a kérelem benyújtásának gazdálkodási évére meghatározott napi állományadatok éves átlaga alapján számított állategységet kell figyelembe venni, amelyet a Mezőgazdásági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kizárólag az (1) bekezdésben hivatkozott nyilvántartásokból állapít meg.
 

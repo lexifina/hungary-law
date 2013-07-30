@@ -1,3 +1,5 @@
+## Kultúrtörténeti és genetikai szempontból kiemelkedő jelentőségű, veszélyeztetett ritka szántóföldi növényfajták listája
+
 | Faj | Fajta | Nemzetközi hivatkozás | Termesztett terület (ha) | Elterjedés |
 
 | Búza (Triticum aestivum L. subsp. aestivum var. erythrospermum) | Tiszavidéki | FAO WIEWS (World Information and Early Warning System) | <1 ha | géntartalék |
@@ -107,5 +109,3 @@
 | Takarmánydinnye (Citrullus colocynthoides Pang.) | Újszilvási | FAO WIEWS, ECP/GR | <1 ha | géntartalék |
 
 13. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
-
-Kultúrtörténeti és genetikai szempontból kiemelkedő jelentőségű, veszélyeztetett ritka zöldségfajták listája

@@ -26,7 +26,7 @@ b) trágyázás, növényvédő szerek használata nem megengedett;
 
 c) a célprogramba bevitt területet kaszálással vagy legeltetéssel kell hasznosítani, legalább 0,1 állategység/ha legeltetési sűrűség mellett azzal, hogy a túllegeltetés tilos;
 
-d)[^180] a célprogram harmadik gazdálkodási évének végétől legalább 0,2 állategység/ha legeltethető állatállomány megléte;
+d)[^182] a célprogram harmadik gazdálkodási évének végétől legalább 0,2 állategység/ha legeltethető állatállomány megléte;
 
 e) kaszálni csak megfelelően száraz talajviszonyok mellett, madárbarát kaszálási módszerekkel lehet;
 
@@ -34,11 +34,11 @@ f) kaszáláskor legalább 10 cm magas tarlót kell hagyni;
 
 g) vadriasztó lánc használata kötelező;
 
-h)[^181] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
+h)[^183] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját;
 
 i) zsombékosok kaszálása tilos.
 
 (5) A támogatás mértéke a célprogramba bevitt terület után 115 euró/ha-nak megfelelő forintösszeg.
 
-[^180]: A 77. § (4) bekezdés d) pontja a 139/2012. (XII. 22.) VM rendelet 15. §-ával megállapított szöveg.
-[^181]: A 77. § (4) bekezdés h) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^182]: A 77. § (4) bekezdés d) pontja a 139/2012. (XII. 22.) VM rendelet 15. §-ával megállapított szöveg.
+[^183]: A 77. § (4) bekezdés h) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés f) pontja szerint módosított szöveg.

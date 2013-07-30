@@ -1,3 +1,5 @@
+## Termeszthető növények és hasznosítások listája célprogramonként
+
 |  | A | B | C |
 
 | 1 | Jogszabályi hivatkozás 3. § (1) | Célprogram | Termeszthető növények |
@@ -50,8 +52,6 @@
 
 | 14 | d) da) | Nádgazdálkodás | Nád |
 
-10. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^200]
+10. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^204]
 
-A szántóföldi célprogramokban zöldségnövényként támogatható növények köre
-
-[^200]: A 10. számú melléklet a 35/2010. (XI. 30.) VM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^204]: A 10. számú melléklet a 35/2010. (XI. 30.) VM rendelet 25. § (2) bekezdésével megállapított szöveg.

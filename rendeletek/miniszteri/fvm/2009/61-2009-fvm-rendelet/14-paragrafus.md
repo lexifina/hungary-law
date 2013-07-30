@@ -12,7 +12,7 @@ a) műtrágya és szennyvíziszap esetén az N, P, K elemre,
 
 b) szervestrágya esetén az N elemre vonatkozó
 
-kijuttatható hatóanyag hektáronkénti maximális mennyiségét.
+## kijuttatható hatóanyag hektáronkénti maximális mennyiségét.
 
 (6)[^22] Szennyvíziszap, szennyvíziszapot tartalmazó komposzt kihelyezésére a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet előírásainak betartása mellett van lehetőség.
 

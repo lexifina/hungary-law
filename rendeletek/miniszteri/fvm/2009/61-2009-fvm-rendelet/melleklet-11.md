@@ -1,3 +1,5 @@
+## A szántóföldi célprogramokban zöldségnövényként támogatható növények köre
+
 |  | A | B | C | D |
 
 | 1 | Articsóka | Fokhagyma | Paradicsom | Torma |
@@ -25,5 +27,3 @@
 | 12 | Feketegyökér | Paprika | Szárazbab |  |
 
 11. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
-
-A támogatásra jogosult ültetvények köre, valamint a támogatási összegek megállapításához az egyes ültetvény fajok ültetvénycsoportonkénti besorolása
