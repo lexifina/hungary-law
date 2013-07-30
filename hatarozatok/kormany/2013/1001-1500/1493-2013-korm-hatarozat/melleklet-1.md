@@ -12,7 +12,7 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1647/2012. (XII. 19.) Korm. határozat 1. mellékletének 1. és 2. prioritásra vonatkozó részeit.
+## 4.[^2]
 
 1. melléklet az 1493/2013. (VII. 29.) Korm. határozathoz
 
@@ -107,3 +107,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 |  | 2.2.4. | KKV munkahelyteremtés | 2,0 | Mikro- és kisvállalkozások munkahely-teremtési képességének támogatása, ösztönzése az új munkavállalók foglalkoztatására igényelhető támogatással. |
 
 |  | 2. | Prioritás | 248,0 |  |
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
