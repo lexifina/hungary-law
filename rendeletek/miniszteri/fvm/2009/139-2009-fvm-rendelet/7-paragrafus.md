@@ -1,6 +1,12 @@
 ## A támogatási kérelem benyújtása
 
-7. § (1)[^17] A támogatási kérelmet elektronikus úton, ügyfélkapun keresztül a 2013. évben július 2. és július 31. között lehet benyújtani.
+7. § (1)[^17] A támogatási kérelmet elektronikus úton, ügyfélkapun keresztül a
+
+a) 2013. évben július 2. és július 31.
+
+b) 2014. évben július 2. és július 31.
+
+## között lehet benyújtani.
 
 (2) A támogatási kérelem az alábbi adatokat tartalmazza:
 
@@ -22,4 +28,4 @@ c) a 3. § szerinti szerkezetátalakítási tevékenység.
 
 (8) A támogatási kérelem benyújtására nyitva álló időszak lejárta után a (2) bekezdés b)–c) pontjában meghatározott adatok vonatkozásában hiánypótlásra nincs lehetőség.
 
-[^17]: A 7. § (1) bekezdése a 18/2013. (III. 21.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^17]: A 7. § (1) bekezdése a 68/2013. (VII. 29.) VM rendelet 8. §-ával megállapított szöveg.
