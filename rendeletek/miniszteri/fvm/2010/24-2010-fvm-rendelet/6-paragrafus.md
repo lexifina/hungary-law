@@ -1,14 +1,18 @@
-6. §[^4] (1) Használt berendezések, illetve ingatlanok vásárlása esetén a bizottsági rendelet 48. cikkében meghatározottak szerint a támogatási összegből le kell vonni az eladó vagy bármely korábbi tulajdonos, illetve használó, haszonélvező által a megelőző öt évben kapott, az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény, valamint a Tv. felhatalmazása alapján kiadott jogszabály szerint nyújtott támogatás összegét.
+6. §[^8] (1)[^9]
 
-(2)[^5] A támogatás igénybevételének feltétele, hogy a megvalósított beruházást a zöldség-gyümölcs termelői csoport termelői szervezetként való elismerését megelőzően – a 4. § szerinti támogatás előfinanszírozásán felül – kizárólag a zöldség-gyümölcs termelői csoport által kötött jogügyletből eredő tartós forgóeszköz finanszírozását szolgáló pénzintézeti követelés terhelheti.
+(2)[^10] Ingatlan beruházás esetén támogatás igénybevételének feltétele, hogy a megvalósított beruházást a zöldség-gyümölcs termelői csoport termelői szervezetként való elismerését megelőzően – a zöldség-gyümölcs termelői csoport által igénybeveendő támogatás előfinanszírozásán felül – kizárólag a zöldség-gyümölcs termelői csoport által kötött jogügyletből eredő, tartós forgóeszköz finanszírozást szolgáló pénzintézeti követelés terhelheti.
 
-(3)[^6] A támogatás igénybevételének további feltétele a zöldség-gyümölcs termelői csoport kötelezettségvállalása arra vonatkozóan, hogy a támogatással megvalósított beruházást a termelői szervezetként való elismerést követően öt évig, vagy amennyiben az rövidebb, a számvitelről szóló 2000. évi C. törvény alapján meghatározott értékcsökkenési időszak végéig nem idegeníti el, valamint azt ezen időszakon belül az elismerés által érintett termékek érdekében használja.
+(2a)[^11] A támogatás igénybevételének feltétele, hogy a megvalósított beruházás a beruházás megvalósításának helyétől függetlenül a zöldség-gyümölcs termelői csoport tulajdonába kerüljön. A megvalósított beruházást a zöldség gyümölcs termelői csoport tagjának használatra, vagy üzemeltetésre kiadhatja. Az elismerési terv több félévét érintő építési beruházás vagy lízing esetén a tulajdonba kerülést a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) az utolsó érintett időszakra vonatkozó összevont támogatási kérelem esetében vizsgálja.
+
+(3)[^12] A támogatás igénybevételének további feltétele a zöldség-gyümölcs termelői csoport kötelezettségvállalása arra vonatkozóan, hogy a támogatással megvalósított beruházást a termelői szervezetként való elismerést követően öt évig, vagy amennyiben az rövidebb, a számvitelről szóló 2000. évi C. törvény alapján meghatározott értékcsökkenési időszak végéig nem idegeníti el, valamint azt ezen időszakon belül az elismerés által érintett termékek érdekében használja.
 
 (4) A zöldség-gyümölcs termelői csoport kérésére az agrárpolitikáért felelős miniszter engedélyezi a megvalósított beruházásnak a kérelmező saját költségére történő helyettesítését, amennyiben a helyettesítés során megvalósított beruházás műszaki paramétereiben, kapacitásában és a használat módjában alkalmas arra, hogy legalább az elfogadott elismerési terv alapján megvalósított beruházásnak megfelelő mértékben az elismerési feltételek teljesítését szolgálja. Az agrárpolitikáért felelős miniszter engedélye alapján a helyettesítő beruházás megvalósítása időpontjában a zöldség-gyümölcs termelői csoportnak a helyettesített beruházással kapcsolatosan fennálló kötelezettségei a helyettesítéssel megvalósított beruházásra szállnak át.
 
-(5)[^7]
+(5)[^13]
 
-[^4]: A 6. § a 12/2011. (II. 18.) VM rendelet 4. §-ával megállapított szöveg.
-[^5]: A 6. § (2) bekezdése a 28/2012. (III. 24.) VM rendelet 4. §-ával megállapított szöveg.
-[^6]: A 6. § (3) bekezdése a 98/2012. (IX. 21.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^7]: A 6. § (5) bekezdését a 98/2012. (IX. 21.) VM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^8]: A 6. § a 12/2011. (II. 18.) VM rendelet 4. §-ával megállapított szöveg.
+[^9]: A 6. § (1) bekezdését a 65/2013. (VII. 29.) VM rendelet 11. §-a hatályon kívül helyezte.
+[^10]: A 6. § (2) bekezdése a 65/2013. (VII. 29.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: A 6. § (2a) bekezdését a 65/2013. (VII. 29.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^12]: A 6. § (3) bekezdése a 98/2012. (IX. 21.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^13]: A 6. § (5) bekezdését a 98/2012. (IX. 21.) VM rendelet 4. § a) pontja hatályon kívül helyezte.

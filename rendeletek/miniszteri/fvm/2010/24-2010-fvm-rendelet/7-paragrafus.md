@@ -1,16 +1,19 @@
-7. §[^8] (1)[^9] Azon tag termését, amely korábban más termelői csoportnak volt tagja, kizárólag abban az esetben lehet figyelembe venni a 3. és 4. § szerinti támogatások szempontjából, ha a támogatási kérelmet benyújtó zöldség-gyümölcs termelői csoport igazolni tudja, hogy az adott tag adott termését öt évet nem meghaladóan vették figyelembe az értékesített termék értékének a tanácsi rendelet 103a cikk szerinti támogatás igénybevétele érdekében történő meghatározása során.
+7. §[^14] (1) Bármely termelő tag azon termését, amellyel korábban más termelői csoportnak volt tagja, kizárólag abban az esetben lehet figyelembe venni, ha az összevont támogatási kérelmet benyújtó zöldség-gyümölcs termelői csoport igazolni tudja, hogy az adott termést – azon zöldség-gyümölcs termelői csoportok, amelyeknél tag volt, vagy jelenleg tag – összesen hány éven keresztül vették figyelembe az értékesített termék értékének a tanácsi rendelet 103a. cikk szerinti támogatás igénybevétele érdekében történő meghatározása során.
 
-(2)[^10]
+(2) A bizottsági rendelet 37. cikk c) pontjában említett beruházásokat a zöldség-gyümölcs termelői csoport – az előzetes elismerés tárgyát képező termékek szempontjából vett hasznosságának sérelme nélkül – bérbe adhatja, vagy azokkal szolgáltatást nyújthat.
 
-(3)[^11] A bizottsági rendelet 39. cikk c) pontjában említett beruházásokat a zöldség-gyümölcs termelői csoport a zöldség-gyümölcs termelői csoport tagjai által az előzetes elismerés tárgyát képező termékek szempontjából vett hasznosságának sérelme nélkül a tanácsi rendelet 125e. cikk (1) bekezdésében meghatározott átmeneti időszak utolsó évének kivételével a zöldség-gyümölcs termelői csoport érdekében hasznosíthatja.
+(3) A (2) bekezdés szerinti bérbeadás vagy szolgáltatásnyújtás – a termékek szállítására használt tehergépkocsik kivételével – nem lehetséges a tanácsi rendelet 125e. cikk (1) bekezdésében meghatározott átmeneti időszak utolsó évében a beruházással érintett termékek betakarításának megkezdésétől értékesítésének befejezéséig.
 
-(4)[^12] Az elismerési terv végrehajtásának első évében, amennyiben annak kezdő napja a bizottsági rendelet 41. cikk (1) bekezdés b) pontja szerint került meghatározásra, a (2) bekezdésben foglaltakat nem kell alkalmazni.
+(4) Amennyiben a 4. § szerinti támogatás alapjául szolgáló, a bizottsági rendelet 37. cikk c) pontjában meghatározott és az elismerési terv keretében jóváhagyott beruházások közül a termelői csoport valamelyiket nem valósítja meg, az adott időszakra vonatkozóan benyújtott összevont támogatási kérelem alapján jóváhagyható 4. § szerinti támogatást az MVH a meg nem valósított beruházás jóváhagyott keretösszegének kétszeresével, de legfeljebb a kérelem alapján jóváhagyható támogatás öt százalékával csökkenti.
 
-(5)[^13] Amennyiben a 4. § szerinti támogatás alapjául szolgáló, a bizottsági rendelet 39. cikk c) pontjában meghatározott és az elismerési terv keretében jóváhagyott beruházások közül a termelői csoport valamelyiket – anélkül, hogy a termelői csoport arra vonatkozóan a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 13. § (1) bekezdése szerint módosítási kérelmet nyújtott volna be – nem valósítja meg, az adott időszakra vonatkozóan benyújtott támogatási kérelem alapján jóváhagyható 4. § szerinti támogatást az MVH öt százalékkal csökkenti.
+(5) A (4) bekezdés szerinti csökkentést nem kell alkalmazni, ha a termelői csoport a meg nem valósított beruházásra vonatkozóan a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 150/2012. (XII. 28.) VM rendelet 13. § (1) bekezdése szerint módosítási kérelmet nyújtott be.
 
-[^8]: A 7. § a 12/2011. (II. 18.) VM rendelet 4. §-ával megállapított szöveg.
-[^9]: A 7. § (1) bekezdése a 98/2012. (IX. 21.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^10]: A 7. § (2) bekezdését a 150/2012. (XII. 28.) VM rendelet 29. § b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 27. § (2) bekezdését.
-[^11]: A 7. § (3) bekezdését a 28/2012. (III. 24.) VM rendelet 5. §-a iktatta be.
-[^12]: A 7. § (4) bekezdését a 28/2012. (III. 24.) VM rendelet 5. §-a iktatta be.
-[^13]: A 7. § (5) bekezdését a 98/2012. (IX. 21.) VM rendelet 2. § (5) bekezdése iktatta be.
+(6) A 4. § szerinti támogatás egy adott beruházási tétel vonatkozásában
+
+a) az összevont támogatási kérelem alapján a jóváhagyott keretösszeg figyelembevételével jóváhagyható, ha a megvalósított beruházás mértékegység szerinti mennyiségében húsz százaléknál nem nagyobb hiány állapítható meg,
+
+b) az arányosan csökkentett keretösszeg figyelembevételével akkor is jóváhagyható, ha – az a) ponttól eltérően – a beruházást a mértékegység szerinti mennyiségében húsz százaléknál nagyobb hiánnyal valósítják meg.
+
+(7) Kis értékű eszközök esetében, amennyiben az eszközök beszerzett darabszáma a jóváhagyott darabszámot legfeljebb húsz százalékkal meghaladja, anélkül, hogy az adott beruházás a beruházási tételre jóváhagyott keretösszeget meghaladná, úgy az igényelt támogatási összeg a jóváhagyott keretösszegre figyelemmel hagyható jóvá.
+
+[^14]: A 7. § a 65/2013. (VII. 29.) VM rendelet 5. §-ával megállapított szöveg.
