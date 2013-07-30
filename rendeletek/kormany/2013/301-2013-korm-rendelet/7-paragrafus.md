@@ -1,0 +1,7 @@
+7. § (1) Az engedélyezésre irányuló kérelem tartalmazza a 6. § (2) és (3) bekezdése szerinti adatokat. A kérelmet a külföldön történő adatkezelés megkezdését megelőzően kilencven nappal kell benyújtani a hatóság részére. A 6. § (2) bekezdés b) és e)–f) pontja, és a 6. § (3) bekezdése szerinti dokumentációkat, okiratokat az eredetivel megegyező másolatban, és hiteles magyar fordításban a kérelem mellékleteként csatolni kell.
+
+(2) Engedély hiányában a tevékenység nem kezdhető meg. Az engedély lejártát a benyújtott tanúsítványok érvényességi időtartamához igazodóan kell megállapítani.
+
+(3) Ha a külföldön végzett adatkezelésre vagy rendszerüzemeltetésre olyan nemzetközi szerződés alapján kerül sor, amelyben a magyar állam az egyik szerződő fél, a hatóságot tájékoztatni kell az érintett adatokról, az adatfeldolgozó, vagy üzemeltető személyéről, és a szerződéses jogviszony tartalmáról. A hatóság a tájékoztatást további eljárás lefolytatása nélkül tudomásul veszi.
+
+(4) Ha a hatóság tudomására jut, hogy az érintett szervezet – ide nem értve a (3) bekezdés szerinti tevékenységet – az adatkezelést, vagy üzemeltetést az Európai Unión, vagy az Ibtv. 3. § (1) bekezdése tekintetében Magyarországon kívül – ideértve a nem azonosítható adatkezelési, vagy jogszabály által kizárt helyszínen megvalósuló, felhő alapú számítástechnikai szolgáltatásokat is – folytatja, a hatóság a 17. § szerinti jogkövetkezményt alkalmazza.

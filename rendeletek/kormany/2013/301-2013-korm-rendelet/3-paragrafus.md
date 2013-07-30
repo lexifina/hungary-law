@@ -1,0 +1,1 @@
+## 2. § Az Ibtv. 14. § (1) bekezdése szerinti Nemzeti Elektronikus Információbiztonsági Hatóság (a továbbiakban: hatóság) eljárásainak ügyintézési határideje hatvan nap, amelyet a hatóság vezetője indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
