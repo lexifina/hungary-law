@@ -30,4 +30,8 @@ m) termelő: a közös agrárpolitika keretébe tartozó, mezőgazdasági termel
 
 n) termelői szervezet: a tanácsi rendelet 122. cikk a) pont (iii) pontjában meghatározott, valamint a 122. cikk b) és c) pontjában foglaltak szerint létrejött és a tanácsi rendelet 125.b cikkében meghatározott feltételekkel elismert szervezet;
 
-o) zöldség-gyümölcs termelői csoport: a tanácsi rendelet 125e. cikkében meghatározott szervezet, figyelemmel a 203a. cikk (4) bekezdésében foglaltakra.
+o) zöldség-gyümölcs termelői csoport: a tanácsi rendelet 125e. cikkében meghatározott szervezet, figyelemmel a 203a. cikk (4) bekezdésében foglaltakra;
+
+p)[^1] nem termelő tag: aki vagy amely nem tartozik az 1. § m) pontja alá, vagy az 1. § m) pont szerinti termelő, aki vagy amely a termelői csoportban vagy termelői szervezetben nem rendelkezik a bizottsági rendelet által meghatározott forgalmazott termék értékébe beszámítható terméke vonatkozásában tagsági jogviszonnyal.
+
+[^1]: Az 1. § p) pontját a 65/2013. (VII. 29.) VM rendelet 19. §-a iktatta be.
