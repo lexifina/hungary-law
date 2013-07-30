@@ -1,3 +1,3 @@
-1. melléklet a 28/2009. (X. 29.) ÖM rendelethez[^5]
+1. melléklet a 28/2009. (X. 29.) ÖM rendelethez[^4]
 
-[^5]: Az 1. melléklet a 31/2011. (IX. 22.) BM rendelet 3. §-ával megállapított szöveg.
+[^4]: Az 1. mellékletet a 37/2013. (VII. 29.) BM rendelet 3. §-a hatályon kívül helyezte.
