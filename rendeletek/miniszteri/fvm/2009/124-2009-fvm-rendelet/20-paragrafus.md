@@ -32,6 +32,6 @@ i) a visszamaradó facsoport egyedei között a fahasználatot követő 1 éven 
 
 (4) A célprogram időtartama 7 év.
 
-(5)[^41] A támogatás éves mértéke hektáronként 129 eurónak megfelelő forintösszeg.
+(5)[^44] A támogatás éves mértéke hektáronként 129 eurónak megfelelő forintösszeg.
 
-[^41]: A 20. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 22. §-ával megállapított szöveg.
+[^44]: A 20. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 22. §-ával megállapított szöveg.

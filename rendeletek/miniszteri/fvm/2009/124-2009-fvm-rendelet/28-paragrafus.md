@@ -1,5 +1,5 @@
-## 27/B. §[^55] E rendeletnek az egyes agrártámogatási és egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 30/2013. (IV. 30.) VM rendelet [a továbbiakban: 30/2013. (IV. 30.) VM rendelet] által megállapított 9. § (5) bekezdését a 2012. évben benyújtott támogatási kérelmek alapján hozott támogatási határozatokhoz kapcsolódóan benyújtott kifizetési kérelmek alapján indult eljárásokban is alkalmazni kell.
+## 27/C. §[^61] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 68/2013. (VII. 29.) VM rendelettel megállapított 2. § 16. pontját, 5. § (1) bekezdés c) pontját, 16. § (3) bekezdés a) és i) pontjait, 25. § (1) bekezdését, 25. § (2) bekezdés e) pontját, és a 9. melléklet 1. táblázat 154. sorát a 2013. évben benyújtott támogatási kérelmek alapján indult eljárásokban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^55]: A 27/B. §-t a 30/2013. (IV. 30.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^61]: A 27/C. §-t a 68/2013. (VII. 29.) VM rendelet 7. § (6) bekezdése iktatta be.

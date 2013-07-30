@@ -1,3 +1,5 @@
+## AZ EGYES FAÁLLOMÁNYTÍPUS-CSOPORTOK ELVÁRT JELLEMZŐI AZ ERDŐ-KÖRNYEZETVÉDELMI CÉLPROGRAMOK ÉRTÉKELÉSE SZEMPONTJÁBÓL
+
 | Faállománytípus- csoport | Főfafaj | Mesterséges erdősítés | Természetes felújítás |
 
 | Első kiviteli minimális tőszám hektáronként főfafajból | Főfafaj/ célállományba tartozó összes fafaj minimális tőszáma a célprogram befejezésekor* | Főfafaj/ célállományba tartozó összes fafaj egymáshoz mért maximális távolsága a célprogram** befejezésekor | Főfafaj minimális tőszáma a célprogram befejezésekor* | Átlagos záródás/borítás% a célprogram befejezésekor |
@@ -46,9 +48,9 @@
 
 ## – Az V–VI. fatermési osztályba sorolt erdőrészletekben végzett erdősítések sikeresnek minősülnek a program befejezésének évében, ha azok a táblázatban megadott tőszám és borítottsági elvárásoknak átlagosan 50%-ban (erdőssztyepp erdőkben 30%-ban) megfelelnek. Az ilyen kedvezőtlen termőhelyi viszonyú erdősítésekben ugyancsak elfogadható még, ha abban legfeljebb 0,5 ha-os, egymással nem érintkező üres foltok találhatóak, amelyek összes területe azonban nem haladja meg az erdőrészlet területének 20%-át.
 
-9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^60]
+9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^66]
 
-Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
+## Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
 1. táblázat
 
@@ -372,6 +374,8 @@ Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súl
 
 | 153. | 25. § (2) bekezdés a) pont | A kitermelt (bruttó) faanyag minden 5 m3-ére számítva legfeljebb 1 darab törzsön lehet olyan sérülés, amely a háncsig hatol, vagy a faanyag minőségét hosszú távon befolyásolja | Az előírtnál nagyobb mértékű tő- és törzssérülés történt a területen. | közepes | erdőrészlet szintű | rövidtávú | E-100% |
 
+| 154. | 25. § (2) bekezdés e) pont | Csak olyan fakitermelés hajtható végre, amelyre vonatkozó bejelentést az erdészeti hatóság tudomásul vett vagy engedélyezett. | Az anyagmozgatást megelőző fakitermelés nem került bejelentésre, vagy azt az erdészeti hatóság nem vette tudomásul vagy nem engedélyezte. | súlyos | erdőrészlet szintű | maradandó | E-Kizár |
+
 2. táblázat – Jelmagyarázat
 
 |  | A | B |
@@ -398,4 +402,4 @@ Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súl
 
 | 11. | C-Kizár: | Az adott célprogramban a teljes terület támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
 
-[^60]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^66]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése, a 68/2013. (VII. 29.) VM rendelet 7. § (8) bekezdése szerint módosított szöveg.
