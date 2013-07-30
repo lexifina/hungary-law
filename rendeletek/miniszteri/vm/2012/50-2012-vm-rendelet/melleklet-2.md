@@ -1,7 +1,5 @@
 ## A támogatott termékek és a támogatás mértéke
 
-## 2K10014_0
-
 |  | A | B | C | D | E | F |
 
 | Termék megnevezése | Egy adagként kiosztandó mennyiség | A támogatás mértéke (Ft/adag) |
@@ -38,6 +36,6 @@
 
 | 2.4. | karalábé | 10 dkg | 25 | – | – | 25 |
 
-2. melléklet az 50/2012. (V. 25.) VM rendelethez[^33]
+2. melléklet az 50/2012. (V. 25.) VM rendelethez[^34]
 
-[^33]: A 2. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^34]: A 2. melléklet a 31/2013. (V. 2.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.

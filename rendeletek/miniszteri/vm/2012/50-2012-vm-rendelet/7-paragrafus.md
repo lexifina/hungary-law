@@ -8,13 +8,13 @@
 
 (4) Ha a megállapodás jóváhagyása iránti kérelem vagy a megállapodás hiányos, vagy a megállapodás nem felel meg az e rendeletben előírtaknak, az MVH hiánypótlásra szólítja fel a kérelmezőt. Amennyiben a kérelem nem tartalmazza a betétlapon feltüntetett valamennyi megállapodást, a hiányzó megállapodás vagy megállapodások hiánypótlás keretében utólag már nem nyújthatók be.
 
-(5)[^15] Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyása iránti kérelemről hozott döntését minden év augusztus 31-éig közli a kérelmezővel. Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyásakor a szállítható termékeket és termékmennyiségeket a jóváhagyást követő tanévre a 6. § (4) bekezdése szerinti teljesítési időszakonként külön-külön határozza meg. A kérelmező köteles a megállapodás, továbbá a módosított megállapodás jóváhagyásáról, valamint a megállapodásra vonatkozóan a részére jóváhagyott termékmennyiségekről a fenntartót tájékoztatni.
+(5)[^15] Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyása iránti kérelemről hozott döntését minden év szeptember 6-áig közli a kérelmezővel. Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyásakor a szállítható termékeket és termékmennyiségeket a jóváhagyást követő tanévre a 6. § (4) bekezdése szerinti teljesítési időszakonként külön-külön határozza meg. A kérelmező köteles a megállapodás, továbbá a módosított megállapodás jóváhagyásáról, valamint a megállapodásra vonatkozóan a részére jóváhagyott termékmennyiségekről a fenntartót tájékoztatni.
 
 (6)[^16] Az MVH a jóváhagyott megállapodások alapján a köznevelési intézményekbe szállítható termékek és termékmennyiségek listáját közzéteszi a honlapján.
 
 (7)[^17] A kérelmező jogosult az általa megkötött megállapodások alapján az egyes teljesítési időszakokban termékenként szállítható mennyiségeket az adott teljesítési időszakban köznevelési intézményenként és termékenként jóváhagyott mennyiség 10%-áig átcsoportosítani annak érdekében, hogy a megállapodás megkötése és a teljesítési időszak kezdete között bekövetkező létszámváltozásokat kiegyenlítse.
 
 [^14]: A 7. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^15]: A 7. § (5) bekezdése a 31/2013. (V. 2.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^15]: A 7. § (5) bekezdése a 65/2013. (VII. 29.) VM rendelet 15. §-ával megállapított szöveg.
 [^16]: A 7. § (6) bekezdése a 31/2013. (V. 2.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^17]: A 7. § (7) bekezdése a 31/2013. (V. 2.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
