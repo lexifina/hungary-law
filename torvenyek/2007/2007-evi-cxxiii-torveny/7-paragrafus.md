@@ -13,3 +13,5 @@
 (7) Bányászati célból történő kisajátításhoz a bányafelügyeletnek a bányászati cél indokoltságára vonatkozó véleményének a beszerzése szükséges.
 
 (8) Honvédelmi célra igénybe vett, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok (ingatlanrészek) kisajátításához a honvédelmért felelős miniszter hozzájárulása vagy azok honvédelmi célra feleslegessé nyilvánítása szükséges.
+
+(9) A 4. § (1) bekezdés m) pont md) alpontja szerinti célból történő kisajátításhoz a környezetvédelmi hatóság véleményének a beszerzése szükséges.

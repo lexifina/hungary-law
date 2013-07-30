@@ -92,15 +92,19 @@ ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszá
 
 mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
 
-mc) hulladékkezelő létesítmény rekultivációja
+mc) hulladékkezelő létesítmény rekultivációja,
+
+md) sűrűn beépített nagyvárosias lakóterület levegőszennyezettségének és zajterhelésének csökkentése céljából zöldterület kialakítása
 
 érdekében szükséges;
 
-n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül.
+n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül;
+
+o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében.
 
 (2) Nem kell alkalmazni
 
-a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, valamint törvényben vagy kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében,
+a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, o) pontja, valamint törvényben vagy kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében,
 
 b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
 

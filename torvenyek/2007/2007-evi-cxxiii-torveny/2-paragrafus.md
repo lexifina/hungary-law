@@ -34,4 +34,6 @@ o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentős
 
 p) környezetvédelem;
 
-q) sportinfrastruktúra fejlesztése.
+q) sportinfrastruktúra fejlesztése;
+
+r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése.
