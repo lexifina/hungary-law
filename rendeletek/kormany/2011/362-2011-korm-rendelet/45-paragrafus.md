@@ -1,12 +1,12 @@
-## 44. §[^16]
+## 44. §[^21]
 
-45. § (1)[^17]
+45. § (1)[^22]
 
-(2)[^18]
+(2)[^23]
 
-(3)[^19]
+(3)[^24]
 
-Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^20]
+Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^25]
 
 Igazolás
 
@@ -72,8 +72,8 @@ megbízott személynek az aláírása
 
 6 Az igazolás érvényességi ideje a 4) pont a) és c) alpontja esetén 60 nap. A 4) pont b) alpontja esetén a kiadott igazolás érvényességi ideje a jogviszony első félév végén történő megszűnése esetén a megszűnést követő március 31. napja, a jogviszony második félév végén történő megszűnése esetén a megszűnést követő október 31. napja.
 
-[^16]: A 44. § a 41. § (4) bekezdése alapján 2014. március 31-én lép hatályba.
-[^17]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 45. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése szerint módosított szöveg.
+[^21]: A 44. § a 41. § (4) bekezdése alapján 2014. március 31-én lép hatályba.
+[^22]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 45. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése szerint módosított szöveg.

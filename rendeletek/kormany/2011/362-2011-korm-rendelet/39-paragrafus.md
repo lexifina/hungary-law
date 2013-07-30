@@ -8,6 +8,10 @@
 
 (4) A térítési díj az oktatási igazolvány esetében 1300 forint, amely az adatkezelő bevételét képezi. Az adatkezelő és az adatfeldolgozók külön megállapodásban rögzítik a díj megosztásának szabályait.
 
+(4a)[^17] A diákigazolvány esetében a térítési díjból 100 forint a nemzetközi diákkedvezményhez kapcsolódó díj, melyet a kibocsátott diákigazolványok után az adatkezelő továbbít a Diákkedvezmény Nonprofit Kft. részére.
+
 (5) Az oktatási igazolvány díjából az intézményi díj oktatási igazolványonként 100 forint, amely a közreműködő intézmény bevétele. Az adatkezelő a közreműködő intézmény által elektronikusan továbbított igénylések adatkezelőhöz érkezését követő 5 napon belül az oktatási igazolványok díjainak 100 forinttal csökkentett részéről összesített elektronikus számlát állít ki, és küld meg a közreműködő intézmény részére, melyet a közreműködő intézmény 10 napon belül köteles kiegyenlíteni.
 
 (6) Az e szakaszban szabályozott díjak az igénylés elutasítása, visszavonása, érvénytelenítése esetén nem kerülnek visszafizetésre a jogosult részére.
+
+[^17]: A 39. § (4a) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 3. §-a iktatta be.

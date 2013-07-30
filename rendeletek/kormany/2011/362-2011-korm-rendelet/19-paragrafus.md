@@ -8,8 +8,8 @@ a) az igénylő felület használatával a személyi okmányok adatai alapján a
 
 b) az elektronikusan rögzített igénylésről ellenőrző adatlapot nyomtat, melyet a jogosulttal aláírat,
 
-c)[^9] az intézmény képviseletére jogosult személy a 20. § (1) bekezdése szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
+c)[^11] az intézmény képviseletére jogosult személy a 20. § (1) bekezdése szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
 
 (4) Ha az (1) bekezdésben, valamint a 18. § (1) bekezdésében meghatározottak szerinti jogosult nem rendelkezik oktatási azonosító számmal, a diákigazolvány iránti igényét az oktatási azonosító szám megállapítására irányuló kérelemmel együtt nyújthatja be. Ebben az esetben a jogosult a diákigazolvány iránti kérelemmel hozzájárulását adja ahhoz, hogy az Oktatási Hivatal a diákigazolvány előállításához szükséges személyes adatait a közoktatásról szóló törvény 2. számú mellékletében, valamint a felsőoktatásról szóló törvény 35. §-ában meghatározott módon és ideig kezelhesse.
 
-[^9]: A 19. § (3) bekezdés c) pontja 43. § (3) bekezdésével megállapított szöveg.
+[^11]: A 19. § (3) bekezdés c) pontja 43. § (3) bekezdésével megállapított szöveg.

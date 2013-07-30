@@ -8,6 +8,6 @@ a) az igénylő felület használatával a személyi okmányok adatai és a beny
 
 b) az elektronikusan rögzített igénylésről ellenőrző adatlapot nyomtat, melyet a jogosulttal aláírat,
 
-c)[^8] az intézmény képviseletére jogosult személy a 20. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
+c)[^10] az intézmény képviseletére jogosult személy a 20. § (1) bekezdés rendelkezései szerint hitelesíti az elektronikus igénylést és továbbítja az adatkezelő felé.
 
-[^8]: A 18. § (3) bekezdés c) pontja 43. § (2) bekezdésével megállapított szöveg.
+[^10]: A 18. § (3) bekezdés c) pontja 43. § (2) bekezdésével megállapított szöveg.

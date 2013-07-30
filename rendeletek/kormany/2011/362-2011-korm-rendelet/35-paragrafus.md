@@ -1,6 +1,6 @@
 ## 16. Az oktatási igazolvány érvényesítése
 
-35. § (1)[^14] A közreműködő intézmény a kiadott oktatási igazolványok érvényesítését érvényesítő matrica felragasztásával és az elektronikus érvényesítés érdekében az adatkezelő felé tett, a 36. § (6) bekezdésében meghatározott bejelentéssel végzi.
+35. § (1)[^16] A közreműködő intézmény a kiadott oktatási igazolványok érvényesítését érvényesítő matrica felragasztásával és az elektronikus érvényesítés érdekében az adatkezelő felé tett, a 36. § (6) bekezdésében meghatározott bejelentéssel végzi.
 
 (2) E rendelet hatályba lépését megelőzően kiadott diákigazolványok esetében az oktatási igazolványok érvényesítését a közreműködő intézmény hologramos érvényesítő matrica felragasztásával végzi.
 
@@ -8,4 +8,4 @@
 
 (4) A pedagógus- és oktatói igazolvány érvényessége megszűnik, ha a jogosult igazolvány használatára jogosító jogviszonya megszűnik.
 
-[^14]: A 35. § (1) bekezdése az 59/2012. (III. 30.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 35. § (1) bekezdése az 59/2012. (III. 30.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
