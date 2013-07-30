@@ -26,7 +26,7 @@ támogatásból áll.
 
 a) karácsonyfatelepre, díszítőgallytelepre;
 
-b) faültetvényre;
+b)[^5]
 
 c) fás szárú energetikai célú ültetvényre;
 
@@ -46,8 +46,9 @@ c) 15 fokot meghaladó lejtésű területen rőzsefonat vagy talajfogó gát lé
 
 (8) A kiegészítő támogatás önállóan nem, csak az alaptámogatással együtt vehető igénybe.
 
-(9)[^5] Ugyanarra a területre egy alaptámogatás vehető igénybe, kivéve a (4) bekezdés a) pontjában meghatározott alaptámogatást, amely a (4) bekezdés b) pontjában meghatározott alaptámogatások egyikével együtt is igénybe vehető.
+(9)[^6] Ugyanarra a területre egy alaptámogatás vehető igénybe, kivéve a (4) bekezdés a) pontjában meghatározott alaptámogatást, amely a (4) bekezdés b) pontjában meghatározott alaptámogatások egyikével együtt is igénybe vehető.
 
 [^3]: A 3. § (2) bekezdése a 87/2011. (IX. 2.) VM rendelet 10. § (1) bekezdése szerint módosított szöveg.
 [^4]: A 3. § (4) bekezdése a 87/2011. (IX. 2.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (9) bekezdése a 87/2011. (IX. 2.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (5) bekezdés b) pontját a 68/2013. (VII. 29.) VM rendelet 4. § (3) bekezdése hatályon kívül helyezte.
+[^6]: A 3. § (9) bekezdése a 87/2011. (IX. 2.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
