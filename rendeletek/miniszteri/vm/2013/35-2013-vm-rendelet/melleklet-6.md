@@ -72,6 +72,6 @@
 
 ## Zalaegerszeg
 
-6. melléklet a 35/2013. (V. 22.) VM rendelethez[^2]
+6. melléklet a 35/2013. (V. 22.) VM rendelethez[^8]
 
-[^2]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

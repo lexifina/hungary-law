@@ -14,7 +14,7 @@ cb) az előző két pénzügyi évben
 
 d) természetes személy ügyfél esetében a lakcímet igazoló hatósági igazolvány egyszerű másolatát;
 
-e) a Vhr. 27. § (1) bekezdés b) pontja szerinti okiratot, amennyiben a pályázat nem kizárólag marketingre vagy tanulmánykészítésre irányul;
+e)[^2]
 
 f) legalább két, hasonló műszaki tartalommal rendelkező árajánlatot, amennyiben a referenciaár a 4. § (4) bekezdésében foglaltak alapján nem állapítható meg, valamint az ezek közül elfogadni kívánt árajánlat választásának indoklását.
 
@@ -32,6 +32,11 @@ ba) az ügyfél nevére szóló, az illetékes építésügyi hatóság által k
 
 bb) az ügyfél nevére szóló – a tervezői névjegyzékben szereplő tervező ellenjegyzésével ellátott – építési tervdokumentáció, ami a tervezett építmény jellegétől függően tartalmazza a helyszínrajzot, alaprajzokat, homlokzatokat, metszeteket és részletrajzokat, azok méretarányos adatait, műszaki leírást, valamint a beruházás előtti, eredeti állapotot bemutató tervrajzokat;
 
-c) a tervezett fejlesztés településen belüli elhelyezkedését bemutató térképrészlet.
+c) a tervezett fejlesztés településen belüli elhelyezkedését bemutató térképrészlet;
+
+d)[^3] a Vhr. 27. § (1) bekezdés b) pontja szerinti okiratot.
 
 (3) Az e rendelet alapján benyújtandó támogatási kérelem kapcsán a Vhr. 27. § (1) bekezdés h)–i) pontját nem kell alkalmazni.
+
+[^2]: A 14. § (1) bekezdés e) pontját a 65/2013. (VII. 29.) VM rendelet 33. §-a hatályon kívül helyezte.
+[^3]: A 14. § (2) bekezdés d) pontját a 65/2013. (VII. 29.) VM rendelet 31. §-a iktatta be.

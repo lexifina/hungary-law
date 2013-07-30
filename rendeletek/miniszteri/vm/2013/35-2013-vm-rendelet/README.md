@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-35-20-2
 | --- | --- | --- |
 | 2013-05-23 | 2013-35-20-2Y.1 | 35/2013. (V. 22.) VM rendelet |
 | 2013-05-24 | 2013-35-20-2Y.2 | 2010: CXXX. törvény |
+| 2013-07-30 | 2013-35-20-2Y.3 | 65/2013. (VII. 29.) VM rendelet |
