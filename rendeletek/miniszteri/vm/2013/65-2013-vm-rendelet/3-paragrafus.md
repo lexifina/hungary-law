@@ -1,0 +1,9 @@
+## 2. § A 24/2010. (III. 19.) FVM rendelet 3. és 4. §-a helyébe a következő rendelkezések lépnek:
+
+## „3. § A zöldség-gyümölcs termelői csoportok a tanácsi rendelet 103a. cikk (1) bekezdés a) pontja szerinti támogatást vehetnek igénybe a tanácsi rendelet 103a. cikk (3) bekezdésében, valamint az 1234/2007/EK tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozottgyümölcs és feldolgozottzöldség-ágazatra alkalmazandó részletes szabályainak a megállapításáról szóló, 2011. június 7-i 543/2011/EU bizottsági végrehajtási rendelet (a továbbiakban: bizottsági rendelet) 43. cikkében foglaltaknak megfelelően.
+
+## 4. § (1) A zöldség-gyümölcs termelői csoportok a tanácsi rendelet 103a. cikk (1) bekezdés b) pontja szerinti támogatást vehetnek igénybe legfeljebb a bizottsági rendelet 47. cikk (2) bekezdésében meghatározott mértékig a bizottsági rendelet 44. cikkében foglaltaknak megfelelően, figyelemmel a strukturális alapokból a „konvergencia” célkitűzés alapján 2007–2013 között nyújtott támogatásra jogosult régiók jegyzékének felállításáról szóló 2006. augusztus 4-i 2006/595/EK bizottsági határozatra, valamint a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 9. § a) pontjára.
+
+## (2) A bizottsági rendelet 47. cikk (2) bekezdés a) és b) pontjában hivatkozott támogatási mértéket a zöldség-gyümölcs termelői csoport székhelyére figyelemmel kell megállapítani.
+
+## (3) A közbeszerzésekről szóló 2011. évi CVIII. törvény 5. §-ában és 6. § (1) bekezdés g) pontjában foglaltakra figyelemmel ajánlatkérőnek minősül az a zöldség-gyümölcs termelői csoport, amely a bizottsági rendelet 37. cikk c) pontja szerinti beruházás megvalósítása érdekében szükséges szerződését a bizottsági rendelet 45. cikke szerinti támogatási kérelemre vonatkozó – a bizottsági rendelet 112. cikk alapján hozott – döntést követően köti meg.”
