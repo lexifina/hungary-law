@@ -2,9 +2,6 @@
 
 ## 52. § Hatályát veszti
 
-a)[^8]
+a) a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 19/2012. (III. 22.) KIM rendelet és
 
-b)[^9]
-
-[^8]: Az 52. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 52. § b) pontja az 50. § (2) bekezdése alapján 2013. július 31-én lép hatályba.
+b) az európai területi társulások működésének 2012. évi támogatásáról, valamint az európai területi együttműködési csoportosulással kapcsolatos jóváhagyási eljárás részletes szabályairól szóló 16/2010. (XII. 15.) KIM rendelet módosításáról szóló 18/2012. (III. 22.) KIM rendelet.
