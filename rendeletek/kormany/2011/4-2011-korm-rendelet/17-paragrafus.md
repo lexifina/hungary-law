@@ -14,10 +14,15 @@ e) ellenőrzési nyomvonal készítése és folyamatos aktualizálása,
 
 f) az adatok folyamatos rögzítése az EMIR-ben, az adatbázis naprakészségének, hitelességének és megbízhatóságának biztosítása,
 
-g) beszámolók készítése és megküldése a fejlesztéspolitikáért felelős miniszter és az NFÜ, illetve a szakmailag illetékes miniszter részére az akcióterv és az éves munkaterv megvalósításában történt előrehaladásról, az egyes konstrukciók előrehaladásáról és a szükséges intézkedésekre vonatkozó javaslatokról,
+g)[^68] beszámolók készítése és megküldése a fejlesztéspolitikáért felelős miniszter, a Miniszterelnökséget vezető államtitkár és az NFÜ részére az akcióterv és az éves munkaterv megvalósításában történt előrehaladásról, az egyes konstrukciók előrehaladásáról és a szükséges intézkedésekre vonatkozó javaslatokról,
 
 h) támogatást igénylők és kedvezményezettek szakszerű tájékoztatása,
 
-i) részvétel a 21. § (1) bekezdése szerinti felhívás és az útmutató, valamint a támogatási szerződésminta kidolgozásában és módosításában.
+i) részvétel a 21. § (1) bekezdése szerinti felhívás és az útmutató, valamint a támogatási szerződésminta kidolgozásában és módosításában,
+
+j)[^69] a beérkezett pályázatok formai és tartalmi ellenőrzése, értékelése, döntésre történő felterjesztése.
 
 (2) A közreműködő szervezet feladatainak ellátásához alvállalkozót kizárólag átmeneti jelleggel vagy speciális szakterületen, és – az NFÜ által meghatározott érték felett – az NFÜ előzetes egyetértésével vonhat be. A közreműködő szervezet felelős az alvállalkozók teljesítéséért.
+
+[^68]: A 17. § (1) bekezdés g) pontja a 302/2013. (VII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^69]: A 17. § (1) bekezdés j) pontját a 302/2013. (VII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.

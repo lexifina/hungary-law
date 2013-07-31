@@ -22,7 +22,7 @@ f) döntési javaslatot terjeszt a szervezet vezetője elé a szabálytalansági
 
 a) a szabálytalansággal érintett összeg nem haladja meg a százezer forintot,
 
-b) a kedvezményezett ellen felszámolási, végelszámolási vagy csődeljárás indult,
+b)[^265] a kedvezményezett ellen adósságrendezési, felszámolási, végelszámolási, kényszertörlési vagy a megszüntetésére irányuló egyéb eljárás, vagy csődeljárás indult,
 
 c) a cégbíróság a kedvezményezett céget a törvényességi felügyeleti eljárásban hozott intézkedés vagy megszüntetési eljárás következtében hivatalból törli a cégjegyzékből,
 
@@ -31,3 +31,5 @@ d) a kedvezményezett elismeri a szabálytalanság tényét,
 e) a szabálytalanság ténye még azelőtt derült ki, hogy a kedvezményezett részére bármilyen kifizetés történt volna,
 
 f) az NFÜ vezetője az Európai Bizottság, a belső ellenőrzési részleg, az igazoló hatóság vagy bármely, ellenőrzést végző szervezet megállapításait elfogadja.
+
+[^265]: A 84. § (5) bekezdés b) pontja a 302/2013. (VII. 29.) Korm. rendelet 39. §-ával megállapított szöveg.

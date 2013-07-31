@@ -1,30 +1,18 @@
-## 20/B. [^105] A többletkötelezettség-vállalási minimum szintek és a többletkötelezettség-vállalás mértékének megállapítására vonatkozó alapelvek
+## 20/B. [^116] A többletkötelezettség-vállalási minimum szintek és a többletkötelezettség-vállalás mértékének megállapítására vonatkozó alapelvek
 
-29/B. § (1) Az egyes prioritásokra a prioritásokban támogatott projektek átlagos mérete alapján kötelezettségvállalási minimum szinteket kell meghatározni. Az alábbi kötelezettség-vállalási minimumszintek alatt az NFÜ többletkötelezettség-vállalási igényt nem nyújthat be:
-
-a) 100 millió Ft átlagos projekt méret alatt a prioritás teljes keretének 85%-a,
-
-b) 100 millió Ft és 1 milliárd Ft átlagos projekt méret között a prioritás teljes keretének 75%-a,
-
-c) 1 milliárd Ft átlagos projekt méret felett a prioritás teljes keretének 65%-a.
+29/B. § (1)[^117] Az egyes prioritásokra vonatkozó kötelezettségvállalási minimum szint az adott prioritás teljes keretének 65%-a. A kötelezettség-vállalási minimumszint alatt az NFÜ többletkötelezettség-vállalási igényt nem nyújthat be.
 
 (2) A többletkötelezettség-vállalás mértékét a prioritás európai uniós és hazai finanszírozási keretéhez (a továbbiakban: keret) igazodva forintban szükséges meghatározni.
 
 (3) A többletkötelezettség-vállalás mértékét a lemorzsolódó források aránya, valamint a prioritások kifizetett közkiadással nem érintett kerete alapján kell meghatározni.
 
-(4) A többletkötelezettség-vállalás prioritásonkénti kiindulási mértéke a prioritásban lemorzsolódott források lekötött forrásokhoz viszonyított arányának felével egyezik meg. Ezen arányt kell a prioritások kifizetett közkiadással nem érintett keretére alkalmazni a többletkötelezettség-vállalás összegének meghatározásához.
+(4)[^118] A többletkötelezettség-vállalás prioritásonkénti kiindulási mértéke a prioritásban lemorzsolódott források lekötött forrásokhoz viszonyított arányával egyezik meg. Ezen arányt kell a prioritások kifizetett közkiadással nem érintett keretére alkalmazni a többletkötelezettség-vállalás összegének meghatározásához.
 
-(5) A kötelezettségvállalási szint minimum 10 százalékpontos emelkedése után felül kell vizsgálni a többletkötelezettség-vállalás mértékét. A lemorzsolódási arány változásához igazodva újbóli többletkötelezettség-vállalás igényelhető. A felülvizsgálathoz kapcsolódó minimális kötelezettségvállalási szintek az alábbiak:
+(5)[^119]
 
-a) 100 millió Ft átlagos projekt méret alatt a prioritás teljes keretének 95%-a,
+(6)[^120]
 
-b) 100 millió Ft és 1 milliárd Ft átlagos projekt méret között a prioritás teljes keretének 85%-a,
-
-c) 1 milliárd Ft átlagos projekt méret felett a prioritás teljes keretének 75%-a.
-
-(6) Az (5) bekezdés szerinti felülvizsgálat után a többletkötelezettség-vállalás aggregált szintjének el kell érnie a prioritásban lemorzsolódott források lekötött forrásokhoz viszonyított arányának legalább 80%-át. Ezen arányt a prioritások kifizetett közkiadással nem érintett aktuális keretére kell alkalmazni.
-
-(7) A kötelezettségvállalási szint 100%-os elérésekor a lemorzsolódási arányt a kifizetett közkiadással nem érintett prioritás keretre 100% mértékben alkalmazni kell.
+(7)[^121]
 
 (8) A többletkötelezettség-vállalás megállapítása közkiadás alapon, EU támogatás, hazai központi költségvetési támogatás és hazai közszféra önerő bontásban történik.
 
@@ -38,4 +26,9 @@ c) 1 milliárd Ft átlagos projekt méret felett a prioritás teljes keretének 
 
 (13) A többletkötelezettség-vállaláson belül az európai uniós és a nemzeti társfinanszírozás arányát úgy kell meghatározni, hogy megvalósuljon a 100%-os abszorpció az Európai Bizottság által előírt hazai társfinanszírozás minimális szinten tartása mellett. Emellett törekedni kell arra, hogy a programozási időszak végére az Európai Bizottság által elvárt prioritásonkénti 85–15% arány teljesüljön.
 
-[^105]: A 20/B. alcímet (29/B. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^116]: A 20/B. alcímet (29/B. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^117]: A 29/B. § (1) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^118]: A 29/B. § (4) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^119]: A 29/B. § (5) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
+[^120]: A 29/B. § (6) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
+[^121]: A 29/B. § (7) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.

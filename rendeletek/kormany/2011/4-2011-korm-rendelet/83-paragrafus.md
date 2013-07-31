@@ -1,3 +1,5 @@
+## 82/B. §[^263] Ha a forráshiány miatt elutasított pályázat a kifogást elbíráló döntés meghozataláig támogatásban részesül, a kifogás elbírálására jogosult szervezet az eljárást megszünteti.
+
 ## 34. Szabálytalanságkezelés
 
 83. § (1) Szabálytalansági eljárás megindítására, szabálytalanság megállapítására kizárólag a támogatási szerződés megkötését, illetve a támogatói okirat kiállítását követően kerülhet sor.
@@ -26,6 +28,7 @@ e) a d) pontban meghatározott személynek a Ptk. 685. § b) pontja szerinti kö
 
 (8) A szabálytalansági eljárás a szabálytalansági eljárást lefolytató szervezet, a jogorvoslati eljárás a jogorvoslati eljárást lefolytató szervezet vezetőjének döntésével zárul.
 
-(9)[^202] A finanszírozási keret terhére megvalósuló intézkedések során a forráskezelő szervezet által elkövetett jogszabálysértés, a finanszírozási szerződés megszegése, valamint a pénzügyi programra vonatkozó előírások megsértése vonatkozásában felmerült – a 66. § (3) bekezdése szerinti – szabálytalansági gyanút az NFÜ vizsgálja ki. A finanszírozási keret terhére megvalósuló intézkedések során a (2)–(8) bekezdésben, a 84. §-ban, a 86–99. §-ban, valamint a 100. § (2)–(7) bekezdésében foglaltakat kell alkalmazni azzal, hogy kedvezményezett alatt forráskezelő szervezetet, támogatási szerződés alatt finanszírozási szerződést kell érteni. A finanszírozási keret terhére megvalósuló intézkedések során a pénzügyi közvetítő és a kedvezményezett által elkövetett jogosulatlan forrásfelhasználásra e fejezet rendelkezései nem alkalmazhatók.
+(9)[^264] A finanszírozási keret terhére megvalósuló intézkedések során a forráskezelő szervezet által elkövetett jogszabálysértés, a finanszírozási szerződés megszegése, valamint a pénzügyi programra vonatkozó előírások megsértése vonatkozásában felmerült – a 66. § (3) bekezdése szerinti – szabálytalansági gyanút az NFÜ vizsgálja ki. A finanszírozási keret terhére megvalósuló intézkedések során a (2)–(8) bekezdésben, a 84. §-ban, a 86–99. §-ban, valamint a 100. § (2)–(7) bekezdésében foglaltakat kell alkalmazni azzal, hogy kedvezményezett alatt forráskezelő szervezetet, támogatási szerződés alatt finanszírozási szerződést kell érteni. A finanszírozási keret terhére megvalósuló intézkedések során a pénzügyi közvetítő és a kedvezményezett által elkövetett jogosulatlan forrásfelhasználásra e fejezet rendelkezései nem alkalmazhatók.
 
-[^202]: A 83. § (9) bekezdését a 86/2011. (V. 31.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^263]: A 82/B. §-t a 302/2013. (VII. 29.) Korm. rendelet 38. §-a iktatta be.
+[^264]: A 83. § (9) bekezdését a 86/2011. (V. 31.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 25/2012. (II. 29.) Korm. rendelet 48. §-ával megállapított szöveg.

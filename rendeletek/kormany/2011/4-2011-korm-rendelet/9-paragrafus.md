@@ -10,15 +10,17 @@
 
 a) a fejlesztéspolitikáért felelős miniszter,
 
-b)[^41] a miniszter,
+b)[^40] a miniszter,
 
 c) az államháztartásért felelős miniszter,
 
 d) az NFÜ,
 
-e)[^42] regionális program esetében az érintett regionális területfejlesztési konzultációs fórum, és
+e)[^41] regionális program esetében az érintett regionális területfejlesztési konzultációs fórum, és
 
-f) a társadalmi, a gazdasági, a civil és a szakmai szervezetek.
+f) a társadalmi, a gazdasági, a civil és a szakmai szervezetek,
+
+g)[^42] a Miniszterelnökséget vezető államtitkár.
 
 (4) A monitoring bizottság munkájában tanácskozási joggal részt vehet
 
@@ -38,7 +40,8 @@ e)[^43] az érintett miniszter.
 
 (7) A monitoring bizottság működésének részletes szabályait ügyrendjében állapítja meg.
 
-[^41]: A 9. § (3) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^42]: A 9. § (3) bekezdés e) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
+[^40]: A 9. § (3) bekezdés b) pontja a 25/2012. (II. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^41]: A 9. § (3) bekezdés e) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
+[^42]: A 9. § (3) bekezdés g) pontját a 274/2013. (VII. 15.) Korm. rendelet 3. §-a iktatta be.
 [^43]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^44]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.

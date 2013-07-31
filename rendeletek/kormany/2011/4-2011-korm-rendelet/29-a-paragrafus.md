@@ -1,6 +1,6 @@
-## 20/A. [^104] A többlet-kötelezettségvállalás menetrendje
+## 20/A. [^114] A többlet-kötelezettségvállalás menetrendje
 
-29/A. § (1) Az NFÜ a fejlesztéspolitikáért felelős miniszterrel egyeztetve többletkötelezettség-vállalási igényt tölt ki azon operatív programok prioritásaira, amelyek esetében a prioritások keretein felüli kötelezettséget kíván vállalni.
+29/A. § (1)[^115] Az NFÜ a Miniszterelnökséget vezető államtitkárral egyeztetve többletkötelezettség-vállalási igényt tölt ki azon operatív programok prioritásaira, amelyek esetében a prioritások keretein felüli kötelezettséget kíván vállalni.
 
 (2) A többletkötelezettség-vállalási igény az alábbiakat tartalmazza
 
@@ -16,4 +16,5 @@ c) a többletkötelezettség-vállaláshoz kapcsolódó kifizetések várható �
 
 (5) Az államháztartásért felelős miniszter jóváhagyása esetén az NFÜ előkészíti az érintett prioritás akciótervének módosítását, amely tartalmazza a többletkötelezettség-vállalásból származó forrás felhasználását is.
 
-[^104]: A 20/A. alcímet (29/A. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^114]: A 20/A. alcímet (29/A. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^115]: A 29/A. § (1) bekezdése a 302/2013. (VII. 29.) Komr. rendelet 54. § d) pontja szerint módosított szöveg.

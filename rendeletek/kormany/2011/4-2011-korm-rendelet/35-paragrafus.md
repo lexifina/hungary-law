@@ -1,6 +1,6 @@
 ## 22. A támogatói okirat visszavonása, a támogatási szerződés módosítása, a támogató elállási joga
 
-35. §[^126] (1) Az NFÜ jogosult – a Ptk.-ban és a támogatási szerződésben meghatározott egyéb esetek mellett – a támogatási szerződéstől elállni, vagy támogatói okirat alkalmazása esetén a támogatás visszavonásáról rendelkezni, ha a következő feltételek közül legalább egy bekövetkezik:
+35. §[^154] (1) Az NFÜ jogosult – a Ptk.-ban és a támogatási szerződésben meghatározott egyéb esetek mellett – a támogatási szerződéstől elállni, vagy támogatói okirat alkalmazása esetén a támogatás visszavonásáról rendelkezni, ha a következő feltételek közül legalább egy bekövetkezik:
 
 a) a támogatói okirat kiállításától vagy a támogatási szerződés megkötésétől számított 12 hónapon belül a támogatott tevékenység nem kezdődik meg és a megvalósítás érdekében harmadik féltől megvásárolandó szolgáltatásokat, árukat, építési munkákat legalább azok tervezett összértékének 50%-át elérő mértékben – esetleges közbeszerzési kötelezettségének teljesítése mellett – nem rendeli meg, vagy az erre irányuló szerződést harmadik féllel nem köti meg,
 
@@ -18,4 +18,4 @@ g) a kedvezményezett részéről, vagy a kedvezményezettre tekintettel harmadi
 
 (2) Ha az (1) bekezdésben meghatározott bármely feltétel bekövetkezik, az NFÜ jogosult az (1) bekezdés szerinti döntés meghozataláig a kedvezményezett további támogatási igényére vonatkozóan a támogatói döntés meghozatalát, a támogatási szerződés megkötését, illetve a kifizetést felfüggeszteni.
 
-[^126]: A 35. § a 25/2012. (II. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^154]: A 35. § a 25/2012. (II. 29.) Korm. rendelet 23. §-ával megállapított szöveg.

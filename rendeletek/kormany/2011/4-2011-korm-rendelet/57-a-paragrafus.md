@@ -1,0 +1,19 @@
+57/A. §[^209] (1) Szállítói finanszírozás alkalmazása esetén a közszféra szervezet kedvezményezett
+
+a) a Kbt. hatálya alá tartozó közbeszerzési eljárás, valamint
+
+b) a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló 218/2011. (X. 19.) Korm. rendelet szerinti beszerzési eljárás
+
+eredményeként kötött szerződésben köteles biztosítani a szállító részére a szerződés elszámolható összege 30%-ának megfelelő mértékű szállítói előleg igénylésének lehetőségét.
+
+(2) Az NFÜ a szállítói előleg kifizetését független, az NFÜ által megbízott műszaki ellenőr ellenőrzéséhez kötheti.
+
+(3) A közbeszerzési eljárás eredményeként kötött szerződésben a közszféra szervezet kedvezményezett köteles kikötni a közbeszerzési eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő mértékű, az NFÜ javára szóló, a Kbt. 126. § (6) bekezdése szerinti biztosíték-nyújtás kötelezettségét. A gazdasági társaság vagy nonprofit szervezet szállító cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása, vagy garanciaszervezet által vállalt kezesség, valamint az Áht. 92. § (1) bekezdése szerinti állami kezesség is elfogadható a szállítói előleg biztosítékaként.
+
+(4) Az (1) bekezdés szerinti szállítói előleget (előlegbekérő dokumentumon keresztül) a szállító közvetlenül a közreműködő szervezettől igényelheti a kedvezményezett egyidejű értesítése mellett. A kedvezményezett az értesítéstől számított 5 napon belül jelezheti a szállítói előleggel kapcsolatos fenntartását. Ennek hiányában a szállítói előleg-igénylést a kedvezményezett részéről elfogadottnak kell tekinteni.
+
+(5) A kedvezményezett köteles a szállító által megküldött előleg-számlát annak beérkezését követő 5 napon belül záradékolni és a közreműködő szervezet részére megküldeni időközi kifizetési igénylés keretében.
+
+(6) Az NFÜ meghatározza a szállítói előleggel történő elszámolás részletszabályait.
+
+[^209]: Az 57/A. §-t a 302/2013. (VII. 29.) Korm. rendelet 28. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 20/C. [^106] A többletkötelezettség-vállalási igény
+## 20/C. [^122] A többletkötelezettség-vállalási igény
 
 29/C. § (1) Az NFÜ által összeállítandó többletkötelezettség-vállalási igény benyújtásához a 2a. mellékletben foglalt táblázat kitöltése szükséges. A többletkötelezettség-vállalási igény tartalmazza:
 
@@ -22,4 +22,4 @@ d) a prioritás jogosultságát a többletkötelezettség-vállalásra a projekt
 
 (4) Az NFÜ-nek előrejelzést kell adnia a többletkötelezettség-vállalás által generált kifizetések éves lefutására.
 
-[^106]: A 20/C. alcímet (29/C. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^122]: A 20/C. alcímet (29/C. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.

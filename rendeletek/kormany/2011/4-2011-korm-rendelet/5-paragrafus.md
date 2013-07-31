@@ -1,32 +1,21 @@
-## 4. A fejlesztéspolitikáért felelős miniszter feladatai
+## 4. [^27] A Miniszterelnökséget vezető államtitkár
 
-## 5. § A fejlesztéspolitikáért felelős miniszter
+## 5. § A Miniszterelnökséget vezető államtitkár
 
-a) összehangolja a központi államigazgatási szervek országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
+a) összehangolja a központi államigazgatási szervek európai uniós támogatási forrásokból finanszírozott országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
-b)[^26] folyamatosan figyelemmel kíséri a fejlesztési folyamatokat, összehangolja a nemzeti és az európai uniós támogatási források felhasználását, nyomon követi a fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Nemzeti Fejlesztési Kormánybizottságot tájékoztatja,
+b) folyamatosan figyelemmel kíséri az európai uniós támogatási forrásokból finanszírozott fejlesztési folyamatokat, nyomon követi az európai uniós támogatási forrásokból finanszírozott fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Nemzeti Fejlesztési Kormánybizottságot tájékoztatja,
 
-c) javaslatot tesz a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerének kialakítására, fejlesztésére, gyakorolja a közreműködő szervezetek feletti felügyeleti, irányítási és – a Magyar Állam kizárólagos tulajdonában lévő, közreműködő szervezetként kijelölt gazdálkodó szervezet feletti – tulajdonosi jogokat,
+c) javaslatot tesz az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerének kialakítására, fejlesztésére,
 
-d) előkészíti a fejlesztéspolitikát szolgáló központi állami források felhasználására vonatkozó szabályozást,
+d) ellátja az NFÜ irányításával összefüggő feladatokat, gyakorolja az ahhoz kapcsolódó hatásköröket, és elbírálja az NFÜ és a közreműködő szervezetek döntéseivel összefüggésben kezdeményezett jogorvoslati eljáráshoz kapcsolódó kérelmeket,
 
-e) irányítja az NFÜ-t, és elbírálja a döntései ellen benyújtott jogorvoslati kérelmeket,
+e) javaslatot nyújt be a Nemzeti Fejlesztési Kormánybizottság részére a 4. §-ban meghatározott feladatokkal kapcsolatban,
 
-f) gondoskodik az állami támogatások versenyszempontú ellenőrzésének koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
+f) megállapítja a közszféra szervezet kedvezményezettek önerejének finanszírozását elősegítő fejezeti kezelésű előirányzat részletszabályait,
 
-g)[^27] javaslatot nyújt be a Nemzeti Fejlesztési Kormánybizottság részére a 4. §-ban meghatározott feladatokkal kapcsolatban,
+g) felügyeli a pályázati felhívás előkészítésének folyamatát, jóváhagyja a pályázati felhívásokat,
 
-h)[^28] megállapítja a közszféra szervezet kedvezményezettek önerejének finanszírozását elősegítő fejezeti kezelésű előirányzat részletszabályait.
+h) döntés-előkészítő bizottság összehívása esetén tagot delegálhat a döntés-előkészítő bizottságba.
 
-i)[^29]
-
-j)[^30] felügyeli a pályázati felhívás előkészítésének folyamatát, jóváhagyja a pályázati felhívásokat,
-
-k)[^31] döntés-előkészítő bizottság összehívása esetén tagot delegálhat a döntés-előkészítő bizottságba.
-
-[^26]: Az 5. § b) pontja a 176/2012. (VII. 26.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
-[^27]: Az 5. § g) pontja a 141/2012. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^28]: Az 5. § h) pontját újonnan a 176/2012. (VII. 26.) Korm. rendelet 2. §-a iktatta be.
-[^29]: Az 5. § i) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 141/2012. (VII. 2.) Korm. rendelet 6. §-a.
-[^30]: Az 5. § j) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^31]: Az 5. § k) pontját a 25/2012. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^27]: A 4. alcím (5. §) a 274/2013. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.

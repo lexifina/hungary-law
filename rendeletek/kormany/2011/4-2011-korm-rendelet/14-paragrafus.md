@@ -14,7 +14,7 @@ f) tekintetében az NFÜ elnökéhez érkezett bejelentés alapján vagy hivatal
 
 (2)[^48] A támogatásra vonatkozó döntés előkészítésében és meghozatalában nem vehet részt politikai párt vezető tisztségviselője vagy alkalmazottja, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, európai parlamenti képviselő.
 
-(3)[^49] A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési eljárás megkezdésekor teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy az (1) és (2) bekezdés szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy fizetési titkot megőrzi. A nyilatkozatot az NFÜ részére át kell adni.
+(3)[^49] A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési eljárás megkezdésekor az adott pályázati felhívásra vonatkozó teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy az (1) és (2) bekezdés szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy fizetési titkot megőrzi.
 
 (4)[^50] Ha a támogatásra vonatkozó döntés előkészítése és meghozatala során olyan tény merül fel, amely alapján az (1) és (2) bekezdés szerinti összeférhetetlenség fennáll, az összeférhetetlenséggel érintett személy vagy szervezet ezt az NFÜ-nek haladéktalanul írásban bejelenti. Az összeférhetetlenséggel érintett személy vagy szervezet azon dokumentum tekintetében, amellyel kapcsolatban az összeférhetetlenség felmerült, a továbbiakban nem járhat el.
 
@@ -29,7 +29,7 @@ f) tekintetében az NFÜ elnökéhez érkezett bejelentés alapján vagy hivatal
 (9) A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet a feladat ellátására vonatkozó jogviszonyban alkalmazandó felelősségi szabályok szerint felelősséggel tartozik a pártatlan, semleges és szakmai követelményeknek megfelelő feladatellátásáért.
 
 [^48]: A 14. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^49]: A 14. § (3) bekezdése a 25/2012. (II. 29.) Korm. rendelet 8. §-ával megállapított, a 176/2012. (VII. 26.) Korm. rendelet 29. § 4. pontja szerint módosított szöveg.
+[^49]: A 14. § (3) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^50]: A 14. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 9. pontja szerint módosított szöveg.
 [^51]: A 14. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 10. pontja szerint módosított szöveg.
 [^52]: A 14. § (6) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 11. pontja szerint módosított szöveg.

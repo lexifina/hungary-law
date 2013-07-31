@@ -18,7 +18,7 @@ c) a kedvezményezett által benyújtott nyilatkozat összhangját az azt megala
 
 d) a termékek, szolgáltatások teljesítésének a támogatási szerződéssel való összhangját,
 
-e) a nyilvánosságra és tájékoztatásra vonatkozó közösségi szabályok betartását,
+e)[^240] a nyilvánosságra és tájékoztatásra vonatkozó uniós szabályok betartását,
 
 f) a közbeszerzésekre vonatkozóan a dokumentumok alapján nem ellenőrizhető szabályok betartását, így különösen a benyújtott dokumentumok eredeti dokumentumokkal való összhangját, a benyújtott dokumentumok valódiságát, a dokumentumok megőrzésére vonatkozó szabályokat,
 
@@ -29,3 +29,5 @@ g) a projekt szintű elkülönített számviteli nyilvántartás vezetését.
 (8) A folyamatba épített ellenőrzéseket megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
 (9) A kincstár, az NFÜ és az NFÜ által megbízott személy az általa végzett helyszíni ellenőrzésről készített jegyzőkönyvet a tárgyhónapot követő hónap huszadik napjáig megküldi az igazoló hatóság részére.
+
+[^240]: A 76. § (6) bekezdés e) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
