@@ -1,4 +1,4 @@
-## 7. §[^17]
+## 7. §[^18]
 
 8. § (1) Az Ügynökség a Nemzeti Fejlesztési Hivatal általános jogutóda.
 
@@ -6,4 +6,4 @@
 
 (3) Az Ügynökség jogutóda a Nemzeti Fejlesztési Hivatal, illetve – az AVOP kivételével – az irányító hatóságok által e rendelet hatálybalépése előtt kötött, az Ügynökségnek az e rendelet szerinti feladatköre és működése körében létrejött polgári jogi, támogatási, közbeszerzési és foglalkoztatási szerződéseknek.
 
-[^17]: A 7. §-t a 370/2010. (XII. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^18]: A 7. §-t a 370/2010. (XII. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.

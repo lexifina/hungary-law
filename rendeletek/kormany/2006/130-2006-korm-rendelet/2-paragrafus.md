@@ -1,6 +1,6 @@
-## 1. §[^1] A Kormány – a hosszú és középtávú fejlesztési és tervezési feladatok ellátására, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervek, operatív programok elkészítésére, e támogatások felhasználásához szükséges intézményrendszer kialakítására, működtetésére – létrehozza a Nemzeti Fejlesztési Ügynökséget (a továbbiakban: Ügynökség).
+## 1. §[^2] A Kormány – a hosszú és középtávú fejlesztési és tervezési feladatok ellátására, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervek, operatív programok elkészítésére, e támogatások felhasználásához szükséges intézményrendszer kialakítására, működtetésére – létrehozza a Nemzeti Fejlesztési Ügynökséget (a továbbiakban: Ügynökség).
 
-## 2. §[^2] Az Ügynökség
+## 2. §[^3] Az Ügynökség
 
 a) elkészíti az ország átfogó fejlesztési tervét és a nemzeti fejlesztési terveket,
 
@@ -28,13 +28,14 @@ l) ellátja a Svájci-Magyar Együttműködési Program tekintetében a Nemzeti 
 
 m) ellátja az INTERREG közösségi kezdeményezés programok irányító hatóságának és nemzeti hatóságának feladatait, gondoskodik azok utánkövetéséről,
 
-n) ellátja az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 85. § b) pontjában meghatározott feladathoz kapcsolódó rendszerek fejlesztési, működtetési és adminisztrációs tevékenységeit,
+n)[^4] ellátja az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 10. § (4) bekezdés b) pontjában meghatározott feladathoz kapcsolódó rendszerek fejlesztési, működtetési és adminisztrációs tevékenységeit,
 
-o)[^3] ellátja a budapesti 4-es – Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítése projekt tekintetében a Magyar Állam projektbeli feladatait,
+o)[^5] ellátja a budapesti 4-es – Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megépítése projekt tekintetében a Magyar Állam projektbeli feladatait,
 
-p)[^4] ellátja az Új Magyarország Kockázati Tőkeprogramok és az Új Széchenyi Kockázati Tőkeprogramok végrehajtásával összefüggő feladatokat.
+p)[^6] ellátja az Új Magyarország Kockázati Tőkeprogramok és az Új Széchenyi Kockázati Tőkeprogramok végrehajtásával összefüggő feladatokat.
 
-[^1]: Az 1. § a 370/2010. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^2]: A 2. § a 370/2010. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^3]: A 2. § o) pontját a 67/2012. (IV. 5.) Korm. rendelet 11. §-a iktatta be.
-[^4]: A 2. § p) pontját a 168/2013. (V. 29.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § a 370/2010. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^3]: A 2. § a 370/2010. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^4]: A 2. § n) pontja a 273/2013. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § o) pontját a 67/2012. (IV. 5.) Korm. rendelet 11. §-a iktatta be.
+[^6]: A 2. § p) pontját a 168/2013. (V. 29.) Korm. rendelet 1. §-a iktatta be.

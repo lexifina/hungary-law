@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-130-20-
 | 2011-01-01 | 2006-130-20-22.9 | 370/2010. (XII. 31.) Korm. rendelet |
 | 2012-04-06 | 2006-130-20-22.10 | 67/2012. (IV. 5.) Korm. rendelet |
 | 2013-05-30 | 2006-130-20-22.11 | 168/2013. (V. 29.) Korm. rendelet |
+| 2013-07-31 | 2006-130-20-22.12 | 273/2013. (VII. 15.) Korm. rendelet |
