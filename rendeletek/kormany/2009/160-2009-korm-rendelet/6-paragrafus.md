@@ -1,4 +1,4 @@
-## 5/A. §[^18] Ha a költségvetési törvény arra felhatalmazást ad, lehetőség van az egyes programok operatív programokban jóváhagyott keretén felül többlet-kötelezettségvállalásra. A többlet-kötelezettségvállalás eljárásrendjét a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) a fejlesztéspolitikáért felelős miniszter és az államháztartásért felelős miniszter bevonásával készíti el.
+## 5/A. §[^18] Ha a költségvetési törvény arra felhatalmazást ad, lehetőség van az egyes programok operatív programokban jóváhagyott keretén felül többlet-kötelezettségvállalásra. A többlet-kötelezettségvállalás eljárásrendjét a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) a Miniszterelnökséget vezető államtitkár és az államháztartásért felelős miniszter bevonásával készíti el.
 
 ## A pénzügyi lebonyolítás részletes szabályai
 
@@ -16,7 +16,7 @@
 
 (6)[^23] A 7–8. §-ban és a 23. §-ban említett fizetési számlák esetében a (3)–(5) bekezdés rendelkezései megfelelően alkalmazandók.
 
-[^18]: Az 5/A. §-t a 216/2012. (VIII. 9.) Korm. rendelet 3. §-a iktatta be.
+[^18]: Az 5/A. §-t a 216/2012. (VIII. 9.) Korm. rendelet 3. §-a iktatta be, szövege a 272/2013. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^19]: A 6. §-t megelőző alcím a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^20]: A 6. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^21]: A 6. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
