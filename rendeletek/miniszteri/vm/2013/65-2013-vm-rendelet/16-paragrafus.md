@@ -1,3 +1,0 @@
-## 15. § Az 50/2012. (V. 25.) VM rendelet 7. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyása iránti kérelemről hozott döntését minden év szeptember 6-áig közli a kérelmezővel. Az MVH a megállapodás, továbbá a módosított megállapodás jóváhagyásakor a szállítható termékeket és termékmennyiségeket a jóváhagyást követő tanévre a 6. § (4) bekezdése szerinti teljesítési időszakonként külön-külön határozza meg. A kérelmező köteles a megállapodás, továbbá a módosított megállapodás jóváhagyásáról, valamint a megállapodásra vonatkozóan a részére jóváhagyott termékmennyiségekről a fenntartót tájékoztatni.”
