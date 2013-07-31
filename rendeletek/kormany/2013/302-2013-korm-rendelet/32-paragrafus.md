@@ -1,3 +1,3 @@
-## 1–31. §[^1]
+## 31. § A Rendelet 65. § (7) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1–31. § az 57. § (2) bekezdése alapján 2013. július 31-én lép hatályba.
+## „(7) Az NFÜ vagy a közreműködő szervezet a forrást a szabályszerű lehívási értesítés beérkezésétől számított 15 napon belül utalja át az alapkezelő szervezet bankszámlájára.”

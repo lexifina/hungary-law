@@ -1,0 +1,3 @@
+## 43. § A Rendelet 101. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a kedvezményezett visszafizetési kötelezettségének feltételei bekövetkeznek, a támogató a követelés összegét az adott projektre vonatkozóan a kedvezményezett részére megítélt, de még ki nem fizetett támogatási összegbe beszámítja. Ha a beszámítás nem vagy csak részben lehetséges, a visszafizetési kötelezettséget a támogató értesítésben vagy fizetési felszólításban közli a kedvezményezettel, amelyek másolati példányát az értesítés, vagy a fizetési felszólítás a kedvezményezett részére történt megküldését követő 7 napon belül meg kell küldeni a kincstárnak.”

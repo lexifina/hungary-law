@@ -1,0 +1,1 @@
+## „(4) Az 57/A. § (1) bekezdése szerinti szállítói előleg igénylése esetén a devizában kötött szállítói szerződést az egységes működési kézikönyvben meghatározott árfolyamon kell nyilvántartásba venni, valamint az előlegbekérőt, az előlegszámlát, a rész- vagy végszámlát forintra átszámítani.”

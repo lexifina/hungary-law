@@ -1,0 +1,1 @@
+## „(4) Ha a projektjavaslat csak feltételekkel támogatható, a támogatási döntésben meg kell határozni a támogatást igénylő által teljesítendő feltételeket és az azok teljesítésére nyitva álló határidőt.”

@@ -1,3 +1,3 @@
-## 32. § A Rendelet 67. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 32. §[^1]
 
-## „(2) Azt követően, hogy a jogosan igénybe vett támogatás teljes összege kiutalásra került a kedvezményezett, a szállító vagy az engedményes részére, az igazoló hatóság az EMIR alapján utólagosan elszámolja a közösségi hozzájárulásnak a központi költségvetés által előfinanszírozott összegét, és a rendezett követelésekkel való opcionális összevezetés jóváhagyását követően – ha a rendelkezésre álló európai uniós források lehetővé teszik – átutalja a jóváhagyott összeget a vonatkozó operatív program pénzforgalmi lebonyolítási számlájáról a vonatkozó fejezeti kezelésű előirányzat-felhasználási keretszámlára.”
+[^1]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
