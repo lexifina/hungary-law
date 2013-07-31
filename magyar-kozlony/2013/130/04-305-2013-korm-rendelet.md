@@ -1,0 +1,104 @@
+# A Kormány 305/2013. (VII. 31.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 130. szám, 2013. július 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2e4b4266e4bfdb4711351790e7c391d53ad4cfe2/dokumentumok/8a16460053dbe78533019ad5ebcef6f1d4039029/letoltes)
+
+---
+
+A Kormány 305/2013. (VII. 31.) Korm. rendelete
+az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
+1. Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és
+szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről,
+továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek
+társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet
+módosítása
+1. § (1) Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal
+összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes személyes
+szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének
+rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet (a továbbiakban: Tmhr.) 2. § (1) és (2) bekezdése helyébe
+a következő rendelkezés lép:
+„(1) A szabadságvesztés, illetve a szabadságkorlátozás egy évet (365 naptári napot) meg nem haladó időtartamára
+járó emelés összege 4775 forint.
+(2) Az 1. § (3) bekezdésében meghatározott időtartam alapján járó emelés összege
+a) az első évre havi 4775 forint,
+b) a második évtől az ötödik évvel bezárólag évenként havi 2395 forint,
+c) a hatodik évtől évenként havi 2870 forint.”
+
+(2) A Tmhr. 14. §-a a következő (3) bekezdéssel egészül ki:
+„(3) E rendelet alkalmazásában az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó
+juttatásról szóló 267/2000. (XII. 26.) Korm. rendelet 1. § (1a) bekezdésében meghatározott személy minősül
+rokkantnak.”
+(3) A Tmhr. 15. §-a a következő (7) bekezdéssel egészül ki:
+„(7) E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 305/2013. (VII. 31.)
+Korm. rendelettel megállapított 2. § (1) és (2) bekezdésében meghatározott emelés összege 2013. január 1-jétől
+illeti meg a jogosultakat. Az emelést a 2013. szeptember havi ellátás összegére kell végrehajtani. Az emelés
+visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre Tbny.
+83. § (2) bekezdésében meghatározott személy részére folyósítja.”
+(4) A Tmhr.
+a) 1. § (1) bekezdésében a „személynek a nyugellátását” szövegrész helyébe a „személynek a nyugellátását,
+korhatár előtti ellátását, szolgálati járandóságát, rokkantsági ellátását, rehabilitációs ellátását”szöveg,
+b) 1. § (3) bekezdésében a „– az 1975. évi II. törvény (továbbiakban: T.) végrehajtásáról szóló 89/1990. (V. 1.)
+MT rendelet (továbbiakban: R.) 179. §-ának megfelelő alkalmazásával –” szövegrész helyébe a „– az 1997. évi
+LXXXI. törvény (a továbbiakban: Tbny.) 43. § (1) bekezdésének alkalmazásával –”szöveg,
+c) 4. § (1) bekezdésében a „hozzátartozó nyugellátását, baleseti nyugellátását, illetve a nyugdíjszerű rendszeres
+szociális ellátását” szövegrész helyébe a „hozzátartozó személynek a nyugellátását, korhatár előtti ellátását,
+szolgálati járandóságát, rokkantsági ellátását, rehabilitációs ellátását”szöveg,
+d) 4. § (3) bekezdésében a „T. 65/A. §-a (1) bekezdésében” szövegrész helyébe a „Tbny. 50. § (6) bekezdésében”
+szöveg,
+e) 8. § (2), valamint a 12. § (4) bekezdésében az „az R. 251. §-ának” szövegrész helyébe a „a Tbny.
+64. § (2) bekezdésének”szöveg,
+f) 9. § (3) bekezdésében az„az R. 251. §-a”szövegrész helyébe a„a Tbny. 64. § (2) bekezdése”szöveg,
+g) 15. § (3) bekezdésében az„az R. 251. §”szövegrész helyébe a„a Tbny. 64. § (2) bekezdés”szöveg
+lép.
+(5) Hatályát veszti a Tmhr. 4. § (4) bekezdése.
+2. Az 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó
+katonai munkaszolgálatot teljesített személyek társadalombiztosítási és munkajogi helyzetének
+rendezéséről szóló 174/1992. (XII. 29.) Korm. rendelet módosítása
+2. § (1) Az 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó katonai munkaszolgálatot
+teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 174/1992. (XII. 29.)
+Korm. rendelet (a továbbiakban: R.) 2. §-a helyébe a következő rendelkezés lép:
+„2. § A munkaszolgálat után járó emelés összege egy évet meg nem haladó munkaszolgálat esetén havi 4775 forint,
+a második évtől kezdve minden év után havi 2395 forint.”
+(2) Az R. 5. §-a a következő (4) bekezdéssel egészül ki:
+„(4) E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 305/2013.
+(VII. 31.) Korm. rendelettel megállapított 2. §-ában meghatározott emelés összege 2013. január 1-jétől illeti meg
+a jogosultakat. Az emelést a 2013. szeptember havi ellátás összegére kell végrehajtani. Az emelés visszamenőleg
+járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre a társadalombiztosítási
+nyugellátásról szóló 1997. évi LXXXI. törvény 83. § (2) bekezdésében meghatározott személy részére folyósítja.”
+3. A nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet
+módosítása
+3. § (1) A nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet (a továbbiakban:
+Nhpr.) 2. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(A pótlékra az a személy jogosult, aki)
+„d) a reá irányadó öregségi nyugdíjkorhatárt betöltötte, illetve nyugellátásban részesül, vagy munkaképességét
+legalább 67%-ban elvesztette, vagy legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek
+egészségi állapota a rehabilitációs hatóság komplex minősítése alapján legfeljebb 50%-os mértékű (a továbbiakban
+együtt: megváltozott munkaképességű), és
+
+da) nyugellátása, illetve rendszeres pénzbeli ellátása együtt a 161 260 Ft-ot nem éri el, vagy
+db) nyugellátásban, illetve rendszeres pénzbeli ellátásban nem részesül, és keresőtevékenységből származó
+jövedelemmel sem rendelkezik, vagy
+dc) nyugellátásban nem részesül, és rendszeres pénzbeli ellátása a 161 260 Ft-ot nem éri el.”
+(2) Az Nhpr. 4. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kitüntetésben részesült személy pótlékát határozatlan időtartamra kell megállapítani úgy, hogy havi
+nyugellátása, rendszeres pénzbeli ellátása és a pótlék együttes összege a megállapításkor érje el a havi
+161 260 Ft-ot, azonban a megállapított pótlék összege 500 Ft-nál kevesebb nem lehet. A 2. § (1) bekezdés db) pontja
+szerinti esetben a pótlék összege 161 260 Ft.
+(2) 3. § (1) bekezdésében szabályozott esetben a pótlék az (1) bekezdés alapján kerül megállapításra azzal, hogy
+a pótlék összege a havi 80 630 Ft-ot nem haladhatja meg.”
+(3) Az Nhpr. a következő 8/A. §-sal egészül ki:
+„8/A. § E rendelet alapján megállapított pótlékot e rendeletnek az egyes kárpótlással kapcsolatos
+kormányrendeletek módosításáról szóló 305/2013. (VII. 31.) Korm. rendelettel módosított összeghatárai
+alapulvételével 2013. január 1-jétől kell megemelni. Az emelést a 2013. szeptember havi ellátás összegére kell
+végrehajtani. Az emelés visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító
+szerv kérelemre a Tny. 83. § (2) bekezdésében meghatározott személy részére folyósítja.”
+4. Záró rendelkezések
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
