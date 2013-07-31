@@ -4,7 +4,7 @@
 
 ## 84. § A nemzeti fejlesztési miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
-a)[^343] fejlesztéspolitikáért,
+a)[^345] a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
 
 b) területfejlesztésért,
 
@@ -16,7 +16,7 @@ e) közlekedésért,
 
 f) energiapolitikáért,
 
-g)[^344] bányászati ügyekért,
+g)[^346] bányászati ügyekért,
 
 h) postaügyért,
 
@@ -30,16 +30,16 @@ l) elektronikus hírközlésért,
 
 m) űrkutatásért,
 
-n)[^345] fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért,
+n)[^347] fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért,
 
-o)[^346] víziközmű-szolgáltatásért,
+o)[^348] víziközmű-szolgáltatásért,
 
-p)[^347] hulladékgazdálkodási közszolgáltatási díj megállapításáért
+p)[^349] hulladékgazdálkodási közszolgáltatási díj megállapításáért
 
 felelős tagja.
 
-[^343]: A 84. § a) pontja a 267/2010. (XII. 3.) Korm. rendelet 41. § (36) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^344]: A 84. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (53) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^345]: A 84. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^346]: A 84. § o) pontját a 118/2012. (VI. 26.) Korm. rendelet 6. §-a iktatta be.
-[^347]: A 84. § p) pontját a 441/2012. (XII. 29.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^345]: A 84. § a) pontja a 271/2013. (VII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^346]: A 84. § g) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (53) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^347]: A 84. § n) pontját a 267/2010. (XII. 3.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^348]: A 84. § o) pontját a 118/2012. (VI. 26.) Korm. rendelet 6. §-a iktatta be.
+[^349]: A 84. § p) pontját a 441/2012. (XII. 29.) Korm. rendelet 18. § (1) bekezdése iktatta be.

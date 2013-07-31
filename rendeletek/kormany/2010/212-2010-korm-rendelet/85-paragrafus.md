@@ -1,62 +1,43 @@
-## 85. §[^348] A miniszter a fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
+85. §[^350] (1) A miniszter a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
 
 a) összehangolja a központi államigazgatási szervek országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
-b)[^349] országos fejlesztéspolitikai adatbázis és információs rendszer működtetésével folyamatosan figyelemmel kíséri a fejlesztési folyamatokat, összehangolja a hazai és uniós támogatási források felhasználását, nyomon követi a fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Kormányt tájékoztatja,
+b) országos fejlesztéspolitikai adatbázis és információs rendszer működtetésével folyamatosan figyelemmel kíséri a fejlesztési folyamatokat, összehangolja a nem európai uniós fejlesztési források felhasználásához kapcsolódó támogatási források felhasználását, nyomon követi a fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Kormányt tájékoztatja,
 
-c) javaslatot tesz a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerének kialakítására, fejlesztésére, gyakorolja a végrehajtásban közreműködő szervezetek feletti felügyeleti, irányítási és tulajdonosi jogokat,
+c) együttműködik a fejlesztéspolitikában érintett szervekkel, szükség szerint összehangolja a fejlesztési tanácsokban képviselendő kormányzati álláspontot; ellátja az Országos Területfejlesztési Tanácsban való részvétellel és annak működésével kapcsolatos feladatokat, továbbá a Regionális Fejlesztési és Képzési Tanácsokkal kapcsolatos feladatokat,
 
-d)[^350] együttműködik a fejlesztéspolitikában érintett szervekkel, szükség szerint összehangolja a fejlesztési tanácsokban képviselendő kormányzati álláspontot; ellátja az Országos Területfejlesztési Tanácsban való részvétellel és annak működésével kapcsolatos feladatokat, továbbá a Regionális Fejlesztési és Képzési Tanácsokkal kapcsolatos feladatokat,
+d) előkészíti a kormányzati támogatási döntések végrehajtását szolgáló szabályozásokat, biztosítja az ágazati és területi szereplői közötti koordinációt,
 
-e) előkészíti a kormányzati támogatási döntések végrehajtását szolgáló szabályozásokat, biztosítja az ágazati és területi szereplői közötti koordinációt,
+e) előkészíti a fejlesztéspolitikát szolgáló központi állami források felhasználására vonatkozó szabályozást, kezeli a költségvetési törvény fejlesztési célú fejezeti célelőirányzatait, figyelemmel kíséri a források felhasználását,
 
-f) előkészíti a fejlesztéspolitikát szolgáló központi állami források felhasználására vonatkozó szabályozást, kezeli a költségvetési törvény fejlesztési célú fejezeti célelőirányzatait, figyelemmel kíséri a források felhasználását,
+f) közreműködik a gazdaságstratégia cél-, eszköz- és intézményrendszerének a kidolgozásában,
 
-g) közreműködik a gazdaságstratégia cél-, eszköz- és intézményrendszerének a kidolgozásában,
+g) közreműködik a nemzetgazdasági miniszterrel együttműködve a külföldi működő tőkebevonási és külföldre irányuló tőkebefektetési politikának a fejlesztéspolitikával összhangban történő kialakításában, feladatkörében együttműködik a befektetés-ösztönzést segítő szervezetekkel, regionális fejlesztésekben érdekelt kockázati tőketársaságokkal és pénzintézetekkel, így különösen a Magyar Fejlesztési Bankkal,
 
-h) közreműködik a nemzetgazdasági miniszterrel együttműködve a külföldi működő tőkebevonási és külföldre irányuló tőkebefektetési politikának a fejlesztéspolitikával összhangban történő kialakításában, feladatkörében együttműködik a befektetésösztönzést segítő szervezetekkel, regionális fejlesztésekben érdekelt kockázati tőketársaságokkal és pénzintézetekkel, így különösen a Magyar Fejlesztési Bankkal,
+h) a fejlesztéspolitikai célkitűzések végrehajtása érdekében közreműködik a központi állami költségvetési politika, valamint a környezetvédelmi, agrár- és infrastruktúrafejlesztési politika, továbbá az egészségügyi, valamint a lakáspolitika kidolgozásában,
 
-i) a fejlesztéspolitikai célkitűzések végrehajtása érdekében közreműködik a központi állami költségvetési politika, valamint a környezetvédelmi, agrár- és infrastruktúrafejlesztési politika, továbbá az egészségügyi, valamint a lakáspolitika kidolgozásában,
+i) rendelkezik a Kutatási és Technológiai Innovációs Alap felett,
 
-j)[^351] ellátja a Nemzeti Fejlesztési Ügynökség döntéseivel összefüggésben a panaszeljáráshoz kapcsolódó feladatokat,
+j) szakmailag felügyeli a Magyar Fejlesztési Bank Zrt. tevékenységét.
 
-k) a Támogatásokat vizsgáló iroda keretei között gondoskodik az Európai Unió működéséről szóló Szerződés 107. cikkének hatálya alá tartozó állami támogatások – a Szerződés által meghatározott mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
+(2) A miniszter az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért való felelőssége körében:
 
-l) gondoskodik az állami támogatások versenyszempontú ellenőrzésének hazai koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
+a) gyakorolja a végrehajtásban közreműködő szervezetek feletti felügyeleti, irányítási és tulajdonosi jogokat,
 
-m) rendelkezik a Kutatási és Technológiai Innovációs Alap felett,
+b) a Támogatásokat Vizsgáló Iroda keretei között gondoskodik az Európai Unió működéséről szóló Szerződés 107. cikkének hatálya alá tartozó állami támogatások – a Szerződés által meghatározott mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
 
-n) irányítja
+c) gondoskodik az állami támogatások versenyszempontú ellenőrzésének hazai koordinálásáról, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
 
-na) a Nemzeti Fejlesztési Ügynökséget,
+d) szakmailag felügyeli
 
-nb)[^352]
+da) a VÁTI,
 
-nc)[^353]
+db) az ESZA Társadalmi Szolgáltató Nonprofit Kft.,
 
-nd)[^354]
+dc) „Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft.,
 
-o) szakmailag felügyeli
+dd) a Nemzeti Fejlesztési Programiroda Nonprofit Kft. és
 
-oa) a Magyar Fejlesztési Bank Zrt.,
+de) a Regionális Fejlesztési Holding Zrt.
 
-ob)[^355] a VÁTI,
-
-oc) az ESZA Társadalmi Szolgáltató Nonprofit Kft.,
-
-od)[^356] Energia Központ” Energiahatékonysági, Környezetvédelmi és Energia Információs Ügynökség Nonprofit Kft.,
-
-oe)[^357] a Nemzeti Fejlesztési Programiroda Nonprofit Kft. és
-
-of) a Regionális Fejlesztési Holding Zrt. tevékenységét.
-
-[^348]: A 85. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^349]: A 85. § b) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^350]: A 85. § d) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^351]: A 85. § j) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^352]: A 85. § n) pont nb) alpontját a 320/2011. (XII. 27.) Korm. rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^353]: A 85. § n) pont nc) alpontját a 86/2011. (V. 31.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^354]: A 85. § n) pont nd) alpontját a 370/2010. (XII. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^355]: A 85. § o) pont ob) alpontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (54) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^356]: A 85. § o) pont od) alpontja a 86/2011. (V. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^357]: A 85. § o) pont oe) alpontját a 293/2012. (X. 16.) Korm. rendelet 2. §-a hatályon kívül helyezte, újonnan a 245/2013. (VII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^350]: A 85. § a 271/2013. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,10 +1,10 @@
-## 77. §[^313] A miniszter a kereskedelemért, a turizmusért, a vendéglátásért, a fogyasztóvédelemért és a belgazdaságért való felelőssége körében
+## 77. §[^315] A miniszter a kereskedelemért, a turizmusért, a vendéglátásért, a fogyasztóvédelemért és a belgazdaságért való felelőssége körében
 
 a) előkészíti különösen a kereskedelemről, a vásárokról és a piacokról, az üzletek működéséről, a közraktározásról, a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról, a fogyasztóvédelemről, a gazdasági reklámtevékenységről szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
-b)[^314] előkészíti a turizmusról, vendéglátásról, az utazásszervező és -közvetítő tevékenységről, az utazási és utazást közvetítő szerződésről, a falusi és agroturizmusról, valamint a gyógytényezők, egészségügyi tényezők vonatkozásában az emberi erőforrások miniszterével együttműködve az egészségturizmusról szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
+b)[^316] előkészíti a turizmusról, vendéglátásról, az utazásszervező és -közvetítő tevékenységről, az utazási és utazást közvetítő szerződésről, a falusi és agroturizmusról, valamint a gyógytényezők, egészségügyi tényezők vonatkozásában az emberi erőforrások miniszterével együttműködve az egészségturizmusról szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki,
 
-c)[^315] meghatározza a kereskedelem, a turizmus, a vendéglátás, a fogyasztóvédelem és a belgazdaság irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját,
+c)[^317] meghatározza a kereskedelem, a turizmus, a vendéglátás, a fogyasztóvédelem és a belgazdaság irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját,
 
 d) kidolgozza a fogyasztóvédelmi politika koncepcióját, a fogyasztóvédelemmel, valamint az általános termékbiztonsággal kapcsolatos cselekvési és szakmai programokat és figyelemmel kíséri azok végrehajtását, meghatározza a piacfelügyelet intézményrendszerét, továbbá a közigazgatási és igazságügyi miniszterrel együttműködve ellátja a fogyasztóvédelemmel kapcsolatos közösségi normák jogharmonizációs feladatait,
 
@@ -16,7 +16,7 @@ g) az érintett miniszterek bevonásával intézkedéseket tesz, illetve kezdem�
 
 h) kidolgozza a piacfelügyeleti stratégiát, és ellátja az intézményfejlesztési feladatokat az áruk és szolgáltatások biztonságossága és megfelelősége tekintetében,
 
-i)[^316] kidolgozza a turizmusfejlesztés koncepcióját és támogatási rendszerét, a vallási turizmus tekintetében az emberi erőforrások miniszterének közreműködésével,
+i)[^318] kidolgozza a turizmusfejlesztés koncepcióját és támogatási rendszerét, a vallási turizmus tekintetében az emberi erőforrások miniszterének közreműködésével,
 
 j) közreműködik az európai uniós támogatásokkal megvalósuló turisztikai programok kidolgozásában, szakmai véleményezésében,
 
@@ -34,10 +34,10 @@ p) együttműködik az érintett miniszterekkel a falusi és agroturizmussal kap
 
 q) irányítja a Magyar Kereskedelmi Engedélyezési Hivatalt és a Nemzeti Fogyasztóvédelmi Hatóságot,
 
-r)[^317] működteti a Fogyasztóvédelmi Tanácsot, a Piacfelügyeleti Munkacsoportot, a Regionális Idegenforgalmi Bizottságokat és a Nemzeti Turisztikai Bizottságot.
+r)[^319] működteti a Fogyasztóvédelmi Tanácsot, a Piacfelügyeleti Munkacsoportot, a Regionális Idegenforgalmi Bizottságokat és a Nemzeti Turisztikai Bizottságot.
 
-[^313]: A 77. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^314]: A 77. § b) pontja a 94/2012. (V. 11.) Korm. rendelet j) pontja szerint módosított szöveg.
-[^315]: A 77. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^316]: A 77. § i) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § p) pontja szerint módosított szöveg.
-[^317]: A 77. § r) pontja a 7/2013. (I. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^315]: A 77. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^316]: A 77. § b) pontja a 94/2012. (V. 11.) Korm. rendelet j) pontja szerint módosított szöveg.
+[^317]: A 77. § c) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (49) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^318]: A 77. § i) pontja a 94/2012. (V. 11.) Korm. rendelet 7. § p) pontja szerint módosított szöveg.
+[^319]: A 77. § r) pontja a 7/2013. (I. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
