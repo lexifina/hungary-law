@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | 2011-05-17 | 1992-111-20-22.7 | 79/2011. (V. 12.) Korm. rendelet |
 | 2012-01-01 | 1992-111-20-22.8 | 349/2011. (XII. 30.) Korm. rendelet |
 | 2012-08-16 | 1992-111-20-22.9 | 225/2012. (VIII. 15.) Korm. rendelet |
+| 2013-07-31 | 1992-111-20-22.10 | 288/2013. (VII. 26.) Korm. rendelet |
