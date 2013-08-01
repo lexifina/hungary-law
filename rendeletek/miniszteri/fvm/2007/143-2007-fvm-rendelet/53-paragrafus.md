@@ -8,7 +8,7 @@
 
 (4) Az 52. § (2) bekezdésével összhangban az állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban más, fogva tartott madarakra vonatkozó megelőző védőoltási tervnek meg kell felelne a 9. számú mellékletben meghatározott követelményeknek.
 
-(5)[^60] Az 52. § (2) bekezdésével összhangban benyújtott megelőző védőoltási terv akkor alkalmazható, ha magyarországi állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban tartott madarak körében a tagállamokban állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban tartott madarak körében a magas patogenitású madárinfluenza elterjedésének megelőzésével kapcsolatos intézkedésekről szóló, 2007. augusztus 28-i 2007/598/EK bizottsági határozatban foglaltak szerint jóváhagyásra került.
+(5)[^67] Az 52. § (2) bekezdésével összhangban benyújtott megelőző védőoltási terv akkor alkalmazható, ha magyarországi állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban tartott madarak körében a tagállamokban állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban tartott madarak körében a magas patogenitású madárinfluenza elterjedésének megelőzésével kapcsolatos intézkedésekről szóló, 2007. augusztus 28-i 2007/598/EK bizottsági határozatban foglaltak szerint jóváhagyásra került.
 
 (6) Az országos főállatorvos a megelőző védőoltások megkezdése előtt összegyűjti az állatkertek és az engedélyezett szervezetek, intézmények vagy központok pontos címét és helyszínét, ahol a védőoltást végrehajtják, engedélyezési vagy adott esetben nyilvántartási számot rendelve hozzájuk, és az információt naprakészen tartja.
 
@@ -20,4 +20,4 @@ a) a jóváhagyott megelőző védőoltási tervben tervezett változtatások;
 
 b) az állatkertekben és engedélyezett szervezeteknél, intézményekben vagy központokban fogva tartott madarak megelőző védőoltásának befejezési dátuma.
 
-[^60]: Az 53. § (5) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § p) pontja szerint módosított szöveg.
+[^67]: Az 53. § (5) bekezdése a 42/2010. (IV. 22) FVM rendelet 13. § p) pontja szerint módosított szöveg.

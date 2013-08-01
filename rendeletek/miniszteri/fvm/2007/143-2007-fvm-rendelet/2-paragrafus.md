@@ -56,7 +56,7 @@ b) kedvtelésből
 
 20.[^1]
 
-21.[^2] igazgatóság: a Mezőgazdasági Szakigazgatási Hivatal területi szerve;
+21.[^2] igazgatóság: a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága;
 
 22. hatósági megfigyelés: egy adott gazdaságban tartott baromfi vagy más, fogságban tartott madár vagy emlős egészségügyi állapotának a hatósági állatorvos által végzett, madárinfluenzára irányuló gondos figyelemmel kísérése;
 
@@ -82,15 +82,17 @@ b)[^4] az állati hulladékok kezelésének és a hasznosításukkal készült t
 
 31. járványvédelem: azon megelőző biológiai biztonsági intézkedések összessége, amely az állat, illetve állatállomány kórokozóval történő fertőződésének kockázatát csökkentik;
 
-32. Helyi Járványvédelmi Központ (HJK): a Mezőgazdasági Szakigazgatási Hivatal területi szervén belüli, járványfelszámolást irányító szervezet, melynek felállítását a területi szerv vezetője rendeli el járványkitörés vagy annak gyanúja esetén;
+32.[^7] Helyi Járványvédelmi Központ (HJK): az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságon belüli, járványfelszámolást irányító szervezet, melynek felállítását az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetője rendeli el járványkitörés vagy annak gyanúja esetén;
 
-33. Országos Járványvédelmi Központ (OJK): a Mezőgazdasági Szakigazgatási Hivatal Központján belüli, járványfelszámolást irányító országos szervezet, melynek felállítását az országos főállatorvos rendeli el járványkitörés vagy annak gyanúja esetén;
+33.[^8] Országos Járványvédelmi Központ (OJK): a Nemzeti Élelmiszerlánc-biztonsági Hivatalon belüli, járványfelszámolást irányító országos szervezet, melynek felállítását az országos főállatorvos rendeli el járványkitörés vagy annak gyanúja esetén;
 
 34. emlős: az emlősök osztályába tartozó állat.
 
 [^1]: A 2. § 20. pontját a 42/2010. (IV. 22.) FVM rendelet 14. § a) pontja hatályon kívül helyezte.
-[^2]: A 2. § 21. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § 21. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 83. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 23. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § 26. pont b) alpontja a 42/2010. (IV. 22.) FVM rendelet 12. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § 28. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § 29. pontja a 42/2010. (IV. 22.) FVM rendelet 14. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § 32. pontja a 70/2013. (VII. 31.) VM rendelet 83. § b)–c) pontja szerint módosított szöveg.
+[^8]: A 2. § 33. pontja a 70/2013. (VII. 31.) VM rendelet 83. § d) pontja szerint módosított szöveg.

@@ -22,8 +22,8 @@ c) az (1) bekezdésben hivatkozott kockázatértékelést az Országos Járvány
 
 (5) Az (1)–(4) bekezdésben meghatározott felmentéseket kizárólag abban az esetben lehet engedélyezni, ha az ilyen felmentések nem veszélyeztetik a járványvédelmet.
 
-(6)[^36] Olyan baromfit (napos baromfit is beleértve), más, fogságban tartott szárnyast, keltető tojást, használt almot, trágyát vagy hígtrágyát, ami olyan gazdaságból származik, amely számára ezen paragrafus értelmében felmentést engedélyeztek, nem lehet Magyarországon kívül forgalmazni, kivéve, ha ettől eltérő bizottsági határozat születik.
+(6)[^38] Olyan baromfit (napos baromfit is beleértve), más, fogságban tartott szárnyast, keltető tojást, használt almot, trágyát vagy hígtrágyát, ami olyan gazdaságból származik, amely számára ezen paragrafus értelmében felmentést engedélyeztek, nem lehet Magyarországon kívül forgalmazni, kivéve, ha ettől eltérő bizottsági határozat születik.
 
 (7) Az országos főállatorvos 24 órán belül tájékoztatja a Bizottságot, amennyiben az (1)–(4) bekezdésekben meghatározott felmentés engedélyezésre kerül.
 
-[^36]: A 32. § (6) bekezdése az 5/2012. (II. 10.) VM rendelet 34. § b) pontja szerint módosított szöveg.
+[^38]: A 32. § (6) bekezdése az 5/2012. (II. 10.) VM rendelet 34. § b) pontja szerint módosított szöveg.

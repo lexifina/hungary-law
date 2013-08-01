@@ -18,11 +18,11 @@ d) a baromfi és más, fogságban tartott madár, tojásrakás előtt álló bar
 
 e) a baromfi és más, fogságban tartott madár, tojásrakás előtt álló baromfi, napos baromfi, valamint tojások szállítása a korlátozás alatt álló körzetből csak az igazgatóság engedélyével lehetséges, ha:
 
-ea)[^43] a vágóbaromfit közvetlenül Magyarország területén lévő vágóhídra szállítják,
+ea)[^47] a vágóbaromfit közvetlenül Magyarország területén lévő vágóhídra szállítják,
 
-eb)[^44] az élő baromfit közvetlenül Magyarország területén lévő olyan gazdaságba vagy annak egy termelési egységébe szállítják, ahol nincs más baromfi, és az élő baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad,
+eb)[^48] az élő baromfit közvetlenül Magyarország területén lévő olyan gazdaságba vagy annak egy termelési egységébe szállítják, ahol nincs más baromfi, és az élő baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad,
 
-ec)[^45] a napos baromfit Magyarország területén lévő gazdaságba közvetlenül szállítják, és a napos baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad, vagy ha a napos baromfi olyan tojásból kelt ki, amely a korlátozás alatt álló körzeten kívüli baromfitartó gazdaságból származik, bármely más gazdaságba szállítható, feltéve, hogy a keltető logisztikája és biológiailag biztonságos munkafeltételei révén biztosítani tudja, hogy a korlátozás alatt álló körzet baromfiállományából származó, és ennélfogva különböző egészségügyi állapotú keltetőtojással vagy napos baromfival való bármiféle érintkezés kizárt,
+ec)[^49] a napos baromfit Magyarország területén lévő gazdaságba közvetlenül szállítják, és a napos baromfi 21 napig az említett gazdaságban hatósági felügyelet alatt marad, vagy ha a napos baromfi olyan tojásból kelt ki, amely a korlátozás alatt álló körzeten kívüli baromfitartó gazdaságból származik, bármely más gazdaságba szállítható, feltéve, hogy a keltető logisztikája és biológiailag biztonságos munkafeltételei révén biztosítani tudja, hogy a korlátozás alatt álló körzet baromfiállományából származó, és ennélfogva különböző egészségügyi állapotú keltetőtojással vagy napos baromfival való bármiféle érintkezés kizárt,
 
 ed) a keltetőtojásokat és azok csomagolását a kijelölt keltetőbe szállításuk előtt fertőtlenítik és biztosítják a visszakereshetőségüket,
 
@@ -44,19 +44,19 @@ ia) nem érintkeznek a háztáji baromfival vagy más, fogságban tartott szárn
 
 ib) nincs hozzáférésük olyan ketrechez vagy területhez, ahol ilyen háztáji baromfit vagy más, fogságban tartott madarakat tartanak;
 
-j)[^46] tilos a használt almot, trágyát vagy hígtrágyát elszállítani vagy szétszórni. Az igazgatóság engedélyezheti azonban a trágya vagy hígtrágya járványvédelmi intézkedések melletti, korlátozás alatt álló gazdaságokból kijelölt telepre történő szállítását, az 1774/2002/EK rendelettel vagy az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályokkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés célját szolgáló köztes tárolás céljából;
+j)[^50] tilos a használt almot, trágyát vagy hígtrágyát elszállítani vagy szétszórni. Az igazgatóság engedélyezheti azonban a trágya vagy hígtrágya járványvédelmi intézkedések melletti, korlátozás alatt álló gazdaságokból kijelölt telepre történő szállítását, az 1774/2002/EK rendelettel vagy az állati hulladékok kezelésének és a hasznosításukkal készült termékek forgalomba hozatalának állat-egészségügyi szabályairól szóló miniszteri rendeletben meghatározott szabályokkal összhangban a madárinfluenza vírusok lehetséges jelenlétének megszüntetését szolgáló kezelés vagy későbbi kezelés célját szolgáló köztes tárolás céljából;
 
 k) tilos az igazgatóság engedélye nélküli vásárok, piacok, kiállítások, vagy a baromfi vagy más, fogságban tartott madarak egyéb bemutatóinak, illetve versenyeinek megtartása;
 
 l) tilos a baromfi vagy más, fogságban tartott madarak vadállomány újratelepítését célzó szabadon engedése.
 
-(3)[^47] Az e Címben meghatározott intézkedéseken túlmenően, az Országos Járványvédelmi Központ vezetője a kockázatértékelés alapján további intézkedéseket vezethet be, és erről az országos főállatorvos tájékoztatja a Bizottságot.
+(3)[^51] Az e Címben meghatározott intézkedéseken túlmenően, az Országos Járványvédelmi Központ vezetője a kockázatértékelés alapján további intézkedéseket vezethet be, és erről az országos főállatorvos tájékoztatja a Bizottságot.
 
-(4)[^48] A madárinfluenza terjedésének megakadályozása érdekében szükséges további intézkedések a 2005/94/EK tanácsi irányelv 64. cikk (3) bekezdésében meghatározott eljárás szerint kerülnek elfogadásra.
+(4)[^52] A madárinfluenza terjedésének megakadályozása érdekében szükséges további intézkedések a 2005/94/EK tanácsi irányelv 64. cikk (3) bekezdésében meghatározott eljárás szerint kerülnek elfogadásra.
 
-[^43]: A 42. § (2) bekezdés e) pont ea) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
-[^44]: A 42. § (2) bekezdés e) pont eb) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
-[^45]: A 42. § (2) bekezdés e) pont ec) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
-[^46]: A 42. § (2) bekezdés j) pontja a 42/2010. (IV. 22) FVM rendelet 13. § l) pontja szerint módosított szöveg.
-[^47]: A 42. § (3) bekezdése a 42/2010. (IV. 22.) FVM rendelet 14. § f) pontja szerint módosított szöveg.
-[^48]: A 42. § (4) bekezdését a 42/2010. (IV. 22.) FVM rendelet 7. §-a iktatta be.
+[^47]: A 42. § (2) bekezdés e) pont ea) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^48]: A 42. § (2) bekezdés e) pont eb) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^49]: A 42. § (2) bekezdés e) pont ec) alpontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^50]: A 42. § (2) bekezdés j) pontja a 42/2010. (IV. 22) FVM rendelet 13. § l) pontja szerint módosított szöveg.
+[^51]: A 42. § (3) bekezdése a 42/2010. (IV. 22.) FVM rendelet 14. § f) pontja szerint módosított szöveg.
+[^52]: A 42. § (4) bekezdését a 42/2010. (IV. 22.) FVM rendelet 7. §-a iktatta be.
