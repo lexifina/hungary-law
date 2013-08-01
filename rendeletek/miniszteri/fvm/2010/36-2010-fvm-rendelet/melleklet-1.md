@@ -1,4 +1,4 @@
-1. melléklet a 36/2010. (IV. 13.) FVM rendelethez
+1. melléklet a 36/2010. (IV. 13.) FVM rendelethez[^1]
 
 ## A részletes termőhelyfeltárás szakmai alapkövetelményei
 
@@ -32,7 +32,7 @@
 
 6.1.8. Talajszelvény koordinátái (Egységes Országos Vetületi rendszerben, legalább 10 méteres pontossággal)
 
-6.1.9. MgSzH Erdészeti Igazgatóság kódja
+6.1.9. erdészeti hatóság
 
 6.2. Általános adatok:
 
@@ -211,3 +211,5 @@ Megjegyzés: A fentiekkel egyenértékű eredményt adó más módszerek is alka
 13. A termőhelytípus-változat ismeretében kell meghatározni a termőhelynek leginkább megfelelő célállományt (célállományokat).
 
 14. Az erdészeti hatóságnak a célállomány meghatározásának ellenőrzésére „Az egyes termőhelytípus-változatokon alkalmazható célállományok” elnevezésű segédtábla 2005. évi kiadását kell figyelembe venni. Megfelelő szakmai indokolással, különösen a természetes erdődinamikai folyamatok figyelembevételével végzett tervezési elvek alkalmazása esetén a táblázat ajánlásaitól el lehet térni.
+
+[^1]: Az 1. melléklet a 70/2013. (VII. 31.) VM rendelet 124. §-a szerint módosított szöveg.
