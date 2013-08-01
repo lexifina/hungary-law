@@ -10,9 +10,10 @@ b) a Szociális és Gyermekvédelmi Főigazgatóság létrehozásáról szóló 
 
 (3)[^3]
 
-(4) Az egyházi vagy nem állami fenntartó fenntartásában működő intézmény esetében az intézményi térítési díjat a fenntartó vezető testülete vagy a képviseletre jogosult személy állapítja meg.
+(4)[^4] Az egyházi fenntartású vagy a nem állami fenntartású intézmény intézmény esetében az intézményi térítési díjat a fenntartó vezető testülete vagy a képviseletre jogosult személy állapítja meg.
 
 (5) Az intézményi térítési díj szolgáltatónként, intézményenként, telephellyel rendelkező szolgáltató, intézmény esetén – ha ott ellátás nyújtására is sor kerül – székhelyenként, valamint telephelyenként külön-külön is meghatározható.
 
 [^2]: A 2. § (2) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 62. §-ával megállapított szöveg.
 [^3]: A 2. § (3) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 64. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
