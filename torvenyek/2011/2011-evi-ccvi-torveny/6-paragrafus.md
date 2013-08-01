@@ -1,12 +1,16 @@
 ## II. Fejezet
 
-## AZ EGYHÁZAK, VALLÁSFELEKEZETEK ÉS VALLÁSI KÖZÖSSÉGEK JOGÁLLÁSA
+## A VALLÁSI KÖZÖSSÉGEK JOGÁLLÁSA
 
-## 1. A vallási tevékenység
+## 1. A vallási tevékenység és a vallási közösség jogállására vonatkozó általános szabályok
 
-6. § (1) A vallási tevékenység olyan világnézethez kapcsolódó tevékenység, amely természetfelettire irányul, rendszerbe foglalt hitelvekkel rendelkezik, tanai a valóság egészére irányulnak, valamint az erkölcsöt és az emberi méltóságot nem sértő sajátos magatartáskövetelményekkel az emberi személyiség egészét átfogja.
+6. § (1) Vallási közösség az Országgyűlés által elismert egyház és a vallási tevékenységet végző szervezet. Az Országgyűlés által elismert egyház bevett egyház.
 
-(2) Önmagában nem tekinthető vallási tevékenységnek
+(2) A vallási közösség elsődlegesen vallási tevékenység céljából jön létre és működik.
+
+(3) A vallási tevékenység olyan világnézethez kapcsolódó tevékenység, amely természetfelettire irányul, rendszerbe foglalt hitelvekkel rendelkezik, tanai a valóság egészére irányulnak, valamint sajátos magatartáskövetelményekkel az emberi személyiség egészét átfogja.
+
+(4) Önmagában nem tekinthető vallási tevékenységnek
 
 a) a politikai és érdekérvényesítő,
 
@@ -34,8 +38,10 @@ l) a sport,
 
 m) az állat-, környezet- és természetvédelmi,
 
-n) a hitéleti tevékenységhez szükségesen túlmenő adatkezelési,
+n) a hitéleti tevékenységhez szükségesen túlmenő adatkezelési, valamint
 
 o) a szociális
 
 tevékenység.
+
+(5) A vallási közösség kizárólag olyan vallási tevékenységet gyakorolhat, amely az Alaptörvénnyel nem ellentétes, jogszabályba nem ütközik és nem sérti más közösségek jogait és szabadságát.

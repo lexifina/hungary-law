@@ -1,1 +1,1 @@
-15. § Az egyesület az e törvénynek az adott egyház bejegyzésére vonatkozó módosítása hatálybalépésének napjától minősül egyháznak.
+15. § A vallási tevékenységet végző szervezet az e törvénynek az adott bevett egyház felvételére vonatkozó módosítása hatálybalépésének napjától minősül bevett egyháznak.

@@ -1,0 +1,5 @@
+19/B. § (1) A vallási közösség elnevezése, jelképrendszere, szertartásrendje, valamint a köznyelvben meghonosodott neve fokozott jogvédelemben részesül. Más szervezet elnevezése vagy jelképe nem kelthet olyan benyomást, hogy a szervezet, illetve tevékenysége más, korábban nyilvántartásba vett vallási közösség működéséhez kapcsolódik.
+
+(2) A vallási közösség elnevezését, jelképrendszerét és a köznyelvben meghonosodott elnevezését – a vallási közösség erre vonatkozó kifejezett írásbeli hozzájárulása nélkül – más nem használhatja. A kifejezett írásbeli hozzájárulás nélküli használatot jogosulatlan használatnak kell tekinteni.
+
+(3) Ha az egyházi személy vagy a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja nem a vallási közösség más tagja számára végez szolgálatot vagy nyújt szolgáltatást, és akár közvetlen, akár közvetett módon a tevékenysége a vallási közösségével kapcsolatba hozható, köteles az adott vallási közösség nevét a szolgálat vagy szolgáltatás felajánlása előtt jól látható módon feltüntetni, illetve nyilvánvalóvá tenni.

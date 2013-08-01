@@ -1,3 +1,3 @@
-30. § (1) Az egyház jogutód nélküli megszűnése esetén az egyház belső egyházi jogi személye is jogutód nélkül megszűnik.
+30. § (1) A bevett egyház jogutód nélküli megszűnése esetén a bevett egyház belső egyházi jogi személye is jogutód nélkül megszűnik.
 
-(2) Belső egyházi jogi személy megszűnése esetén a vagyoni kérdéseket az egyház belső egyházi szabálya határozza meg.
+(2) Belső egyházi jogi személy megszűnése esetén a vagyoni kérdéseket a bevett egyház belső szabálya határozza meg.

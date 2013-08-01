@@ -1,3 +1,5 @@
-29. § (1) Az egyház jogutód nélküli megszűnése esetén elszámolási eljárásnak van helye, amelyre a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény VIII. Fejezetét kell alkalmazni.
+29. § (1) A bevett egyház jogutód nélküli megszűnése esetén elszámolási eljárásnak van helye, amelyre a jogutód nélkül megszűnő cég végelszámolására vonatkozó szabályokat kell alkalmazni azzal, hogy bíróság alatt a minisztert kell érteni.
 
-(2) Az egyház jogutód nélküli megszűnése esetén vagyona – a hitelezők követeléseinek kielégítése után – az állam tulajdonába kerül, és azt közcélú tevékenységre kell fordítani.
+(2) A bevett egyház jogutód nélküli megszűnése és a vallási tevékenységet végző szervezet a 9/C. § (2) bekezdése vagy a 28. § (4) bekezdése szerinti feloszlatása esetén a megszűnt bevett egyház, illetve a feloszlatott vallási tevékenységet végző szervezet vagyona – a hitelezők követeléseinek kielégítése után – az állam tulajdonába kerül, és azt a 9. § (1) bekezdése szerinti tevékenységre kell fordítani.
+
+(3) A bevett egyház vagyona a bevett egyház más bevett egyházzal való egyesülése, illetve két vagy több bevett egyházra való különválása esetén a jogutód bevett egyház tulajdonába kerül. A bevett egyházból való kiválás esetén, valamint akkor, ha a bevett egyházat személyek vagy személyek csoportjai elhagyják, de a bevett egyház fennmarad, a létrejövő vallási tevékenységet végző szervezetet a bevett egyház vagyonából részesedés nem illeti meg.

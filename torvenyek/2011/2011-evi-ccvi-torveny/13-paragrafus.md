@@ -1,9 +1,9 @@
-## 5. Az egyházi személy
+## II/A. Fejezet
 
-13. § (1) Az egyházi személy az egyház belső egyházi szabályában meghatározott, az egyház, belső egyházi személy szolgálatában álló természetes személy.
+## A VALLÁSI KÖZÖSSÉG SZOLGÁLATÁBAN ÁLLÓ SZEMÉLY
 
-(2) Az egyházi személy szolgálatát sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban látja el.
+13. § (1) Az egyházi személy a bevett egyház belső szabályában meghatározott, az egyházi jogi személy szolgálatában álló, egyházi szolgálatot sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban teljesítő természetes személy.
 
-(3) Az egyházi személy a hitéleti szolgálata során tudomására jutott, személyiségi jogot érintő információkat nem köteles állami hatóság tudomására hozni.
+(2) Az egyházi személy a hitéleti szolgálata során tudomására jutott, személyiségi jogot érintő információkat nem köteles állami hatóság tudomására hozni.
 
-(4) Az egyházi személyek fokozott szabálysértési és büntetőjogi védelemben részesülnek.
+(3) Az egyházi személy fokozott szabálysértési és büntetőjogi védelemben részesül.

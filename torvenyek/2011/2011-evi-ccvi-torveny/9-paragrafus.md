@@ -1,3 +1,3 @@
-9. § (1) Az egyházakat azonos jogok illetik és azonos kötelezettségek terhelik.
+9. § (1) A jelentős társadalmi támogatottsággal rendelkező, történelmi és kulturális értékeket megőrző, nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet önmaga vagy intézménye útján ellátó vallási közösséggel – működése biztosítása érdekében – a Kormány megállapodást köthet.
 
-(2) Az egyházak tényleges társadalmi szerepét, az általuk ellátott közcélú tevékenységet az állam az egyházak társadalmi szerepéhez kapcsolódó további jogszabályok megalkotásánál és a velük való kapcsolattartás során figyelembe veheti.
+(2) A vallási közösségek tényleges társadalmi szerepét, az általuk ellátott (1) bekezdés szerinti tevékenységet az állam a vallási közösségek társadalmi szerepéhez kapcsolódó további jogszabályok megalkotásánál és a velük való kapcsolattartás során figyelembe veheti.

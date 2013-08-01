@@ -1,0 +1,1 @@
+19/C. § A vallási közösség – különösen a szertartások és a belső szabálya szerinti működés zavartalansága érdekében –, a templom és vallásgyakorlásra rendelt más hely, valamint a temető fokozott szabálysértési és büntetőjogi védelemben részesül.

@@ -1,27 +1,29 @@
 ## III. Fejezet
 
-## AZ EGYHÁZKÉNT VALÓ ELISMERÉSRE ÉS A NYILVÁNTARTÁSBA VÉTELRE VONATKOZÓ SZABÁLYOK
+## AZ EGYHÁZKÉNT TÖRTÉNŐ ELISMERÉS
 
-## 6. Az egyházként való elismerésre irányuló eljárás
+## 4. Az elismerés feltételei
 
-14. § (1)
+14. § A vallási tevékenységet végző szervezetet az Országgyűlés egyházként ismeri el, ha
 
-(2) Az egyesület akkor ismerhető el egyházként, ha
-
-a) alapcélként vallási tevékenységet végez,
+a) elsődlegesen vallási tevékenységet végez,
 
 b) tanításának lényegét tartalmazó hitvallása és rítusa van,
 
-c) legalább százéves nemzetközi működéssel rendelkezik vagy legalább húsz éve szervezett formában, egyesületként működik Magyarországon, amely húszéves időtartamba beszámít az e törvény hatálybalépése előtt a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény alapján nyilvántartásba vett egyházként való működés is,
+c) legalább
 
-d) alapszabályát, létesítő okiratát, belső egyházi szabályát elfogadta,
+ca) százéves nemzetközi működéssel rendelkezik vagy
+
+cb) húsz éve szervezett formában, vallási közösségként működik Magyarországon és Magyarország lakosságának 0,1 százalékát elérő taglétszámmal rendelkezik,
+
+d) elfogadott belső szabálya van,
 
 e) ügyintéző és képviseleti szerveit megválasztotta vagy kijelölte,
 
-f) képviselői nyilatkoznak arról, hogy az általuk létrehozott szervezet tevékenysége nem ellentétes az Alaptörvénnyel, jogszabályba nem ütközik, valamint nem sérti más jogait és szabadságát, és
+f) képviselői nyilatkoznak arról, hogy az általuk gyakorolni kívánt tevékenység nem ellentétes a 6. § (4) és (5) bekezdésével,
 
-g) az egyesülettel szemben – működése során – nemzetbiztonsági kockázat nem merült fel,
+g) tanai és tevékenységei nem sértik az ember testi-lelki egészséghez való jogát, az élet védelmét, az emberi méltóságot,
 
-h) tanai és tevékenységei nem sértik az ember testi-lelki egészséghez való jogát, az élet védelmét, az emberi méltóságot.
+h) a vallási tevékenységet végző szervezettel szemben – működése során – nemzetbiztonsági kockázat nem merült fel és
 
-(3)–(5)
+i) a közösségi célok érdekében történő együttműködés iránti szándékát és annak hosszú távú fenntartására való képességét különösen alapszabálya, tagjainak száma, a kezdeményezést megelőzően a 9. § (1) bekezdése szerinti területeken végzett tevékenysége és az ilyen tevékenységnek a lakosság nagyobb csoportja számára való hozzáférhetősége bizonyítja.

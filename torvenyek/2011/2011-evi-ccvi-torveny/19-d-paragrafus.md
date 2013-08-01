@@ -1,0 +1,1 @@
+19/D. § Az állam – jogszabályban meghatározott eljárás keretein belül – lehetőséget biztosít a vallási közösségeknek, hogy részt vegyenek a jogalkotás során a jogszabálytervezetek és jogalkotási koncepciók véleményezésében.

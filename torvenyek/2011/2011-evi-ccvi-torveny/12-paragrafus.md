@@ -1,5 +1,5 @@
-## 4. Az egyházi intézmény
+12. § (1) A bevett egyház belső szabálya szerint jogi személyiséggel rendelkező egysége, szervezete vagy intézménye jogi személy.
 
-12. § (1) Az egyház, a belső egyházi jogi személy nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális, valamint sporttevékenységet végző intézményt létesíthet és tarthat fenn. Az egyházi intézmény az egyház belső egyházi szabálya szerint rendelkezhet egyházi jogi személyiséggel.
+(2) A belső egyházi jogi személy a bevett egyház belső szabálya szerint működik, a bevett egyház belső szabályában meghatározott viszonyokban a bevett egyház képviseletében jár el. A belső egyházi jogi személyre a bevett egyházra vonatkozó szabályokat megfelelően kell alkalmazni.
 
-(2) Az egyházi intézmény világnézeti szempontból elkötelezett, így a felvételnél és a foglalkoztatásra irányuló jogviszony létesítésénél, fenntartásánál és megszüntetésénél a sajátos identitás megőrzéséhez szükséges feltételek határozhatók meg.
+(3) A 9. § (1) bekezdése szerinti tevékenységet ellátó intézmény a bevett egyház belső szabálya szerint belső egyházi jogi személynek minősülhet. Nem minősül belső egyházi jogi személynek a vallási közösség által létrehozott gazdasági társaság, alapítvány és egyesület.

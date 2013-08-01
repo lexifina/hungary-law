@@ -1,7 +1,3 @@
-34. § (1)
+34. § (1) A vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésekor vallási tevékenységet végző egyesület a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésétől vallási tevékenységet végző szervezetnek minősül.
 
-(2) A szervezet
-
-a) a 35. §-nak megfelelően kezdeményezheti egyesületként való nyilvántartásba vételét, és
-
-b) ha az e törvényben meghatározott feltételeknek megfelel, a III. Fejezetben foglaltak szerint kezdeményezheti az egyesület egyházként történő elismerését.
+(2) Az (1) bekezdés szerinti vallási tevékenységet végző szervezet a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésekor folyamatban lévő változásbejegyzését az egyesületre vonatkozó szabályok szerint kell befejezni az e törvényben meghatározott eltérésekkel.

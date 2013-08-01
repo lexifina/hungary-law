@@ -1,17 +1,15 @@
 ## IV. Fejezet
 
-## AZ EGYHÁZAK MŰKÖDÉSE
+## A VALLÁSI KÖZÖSSÉGEK
 
-19. § (1) Az egyház elsősorban vallási tevékenységet végez, saját hitelvei és szertartási rendje szerint működik.
+## 6. A vallási közösség működésének szabályai
 
-(2) Az egyház részt vállalhat a társadalom értékteremtő szolgálatában, ennek érdekében közcélú tevékenységet végezhet.
+19. § (1) A vallási közösség saját belső szabálya, hitelvei és szertartási rendje szerint működik.
 
-(3) Az egyház céljai megvalósítása érdekében jogosult gazdasági-vállalkozási tevékenységnek nem minősülő tevékenységet, valamint alaptevékenysége mellett gazdasági-vállalkozási tevékenységet is folytatni. Jogosult továbbá vállalkozásokat, civil szervezeteket létrehozni, azokban részt venni.
+(2) A vallási közösség részt vállalhat a társadalom értékteremtő szolgálatában, ennek érdekében önmaga vagy e célra létrehozott intézménye útján a 9. § (1) bekezdésében meghatározott olyan tevékenységet is elláthat, amelyet törvény nem tart fenn kizárólagosan az állam vagy annak intézménye számára.
 
-(4) Az egyház közcélú tevékenysége és intézménye a hasonló tevékenységet folytató állami vagy helyi önkormányzati intézményekkel azonos mértékű költségvetési támogatásra jogosult. Az ilyen intézményben a munkaviszony tartalma a munkabér, a munkaidő és a pihenőidő vonatkozásában a közalkalmazotti jogviszonyhoz igazodik.
+(3) A 9. § (1) bekezdése szerinti tevékenységet a vallási közösség közvetlenül vagy intézményei útján identitásának megfelelően végzi, amelyre tekintettel a felvételhez és a foglalkoztatásra irányuló jogviszony létesítéséhez, fenntartásához és megszüntetéséhez a világnézeti elkötelezettség természete vagy tartalma miatt indokolt, annak megőrzéséhez és gyakorlásához szükséges és arányos feltételek határozhatók meg.
 
-(5) Az állami vagy önkormányzati intézmények foglalkoztatottaira vonatkozó központi bérpolitikai intézkedések az egyház (4) bekezdés szerinti intézményének foglalkoztatottaira is azonos feltételekkel terjednek ki.
+(4) Az Alaptörvény VIII. cikk (2) bekezdése vagy XII. cikk (1) bekezdése alapján létrejött szervezet által ellátott 9. § (1) bekezdése szerinti tevékenységet e célból létrehozott vagy már működő belső egyházi jogi személy az ilyen szervezet egyetemes jogutódjaként nem veheti át.
 
-(6) Az egyház jogszabályban meghatározottak szerint az államháztartás alrendszereiből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott programokból, pályázati úton vagy pályázati rendszeren kívül, egyedi döntés alapján támogatásban részesülhetnek.
-
-(7) E fejezet rendelkezéseit – az (1) bekezdés kivételével – a belső egyházi jogi személyre is alkalmazni kell.
+(5) A vallási közösség a polgári jogviszonyokban korlátozás nélkül részt vehet, ennek keretében jogosult gazdasági társaságot és civil szervezetet létrehozni, azokban részt venni.
