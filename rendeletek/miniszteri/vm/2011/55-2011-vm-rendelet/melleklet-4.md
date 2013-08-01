@@ -86,6 +86,6 @@
 
 | 31. | Mindösszesen: |  |  | max. 100 |
 
-4. melléklet az 55/2011. (VI. 10.) VM rendelethez[^12]
+4. melléklet az 55/2011. (VI. 10.) VM rendelethez[^13]
 
-[^12]: A 4. melléklet a 20/2012. (III. 7.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^13]: A 4. melléklet a 20/2012. (III. 7.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
