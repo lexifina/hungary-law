@@ -1,4 +1,4 @@
-5. számú melléklet a 49/2002. (V. 24.) FVM rendelethez[^24]
+5. számú melléklet a 49/2002. (V. 24.) FVM rendelethez[^27]
 
 ÁLLATORVOSI IGAZOLÁS
 
@@ -34,8 +34,8 @@ A függelék szerinti ,,Állatorvosi Igazolást'' négy példányban kell kiáll
 
 – a tőpéldányt a járási főállatorvos iktatja,
 
-– egy példány szolgálati úton az MgSzH illetékes területi szervéhez küldendő,
+– egy példány szolgálati úton az az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz küldendő,
 
 – két példány az állattartónál marad, és ebből egy példányt a tojásszállítmánnyal a keltetőnek vagy a forgalmazónak kell küldeni.
 
-[^24]: Az 5. számú melléklet a 2/2008. (I. 4.) FVM rendelet 11. § (6) bekezdésének c) pontja, a 151/2012. (XII. 29.) VM rendelet 10. § b) pontja szerint módosított szöveg.
+[^27]: Az 5. számú melléklet a 2/2008. (I. 4.) FVM rendelet 11. § (6) bekezdésének c) pontja, a 151/2012. (XII. 29.) VM rendelet 10. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 18. § g) pontja szerint módosított szöveg.

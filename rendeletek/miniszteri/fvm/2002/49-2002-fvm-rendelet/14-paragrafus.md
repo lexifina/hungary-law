@@ -1,7 +1,9 @@
-14. §[^9] (1) A baromfitífusz elleni védekezésben való részvételre írásban kell az MgSzH területi szervénél bejelentkezni.
+14. §[^9] (1)[^10] A baromfitífusz elleni védekezésben való részvételre írásban kell az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnál bejelentkezni.
 
 (2) Az üzemnek – külön jogszabály szerint kapott kódszám alapján – azonosíthatónak kell lenni. E kódszám alkalmazása biztosítja, hogy a vizsgálatra küldött anyag az állatok tartási helyéig azonosítható legyen.
 
-(3) A vizsgálatokhoz szükséges minták vételének időpontját a hatósági főállatorvosnak előzetesen be kell jelenteni. A minták vételét az állategészségügyi hatóság által erre feljogosított állatorvos végzi.
+(3)[^11] A vizsgálatokhoz szükséges minták vételének időpontját a hatósági főállatorvosnak előzetesen be kell jelenteni. A minták vételét az élelmiszerlánc-felügyeleti szerv által erre feljogosított állatorvos végzi.
 
 [^9]: A 14. § a 2/2008. (I. 4.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^10]: A 14. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 18. § b) pontja szerint módosított szöveg.
+[^11]: A 14. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 18. § c) pontja szerint módosított szöveg.
