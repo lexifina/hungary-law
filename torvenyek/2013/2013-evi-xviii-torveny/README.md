@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-18-00-00
 | --- | --- | --- |
 | 2013-03-20 | 2013. évi XVIII. törvény | 2013-18-00-00.0 (közlönyállapot) |
 | 2013-03-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-18-00-00.1 |
+| 2013-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-18-00-00.2 |
