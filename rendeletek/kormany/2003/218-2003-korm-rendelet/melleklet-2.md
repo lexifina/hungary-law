@@ -1,4 +1,4 @@
-2. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^43]
+2. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^48]
 
 ## Kérelem a mozgásában korlátozott személy parkolási igazolványának kiadására
 
@@ -74,4 +74,4 @@ Kijelentem, hogy az igazolványt a mozgásában korlátozott személy parkolási
 
 | aláírása | aláírása |
 
-[^43]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 312. § (9) bekezdése és 313. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^48]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 312. § (9) bekezdése és 313. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
