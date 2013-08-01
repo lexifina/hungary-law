@@ -49552,7 +49552,7 @@ A Piarista Rend Magyar Tartománya fejlesztéseinek támogatása
 
 |
 
-Egyházak közösségi célú programjainak és beruházásainak támogatása
+Egyházi közösségi célú programok és beruházások támogatása
 
 |
 
