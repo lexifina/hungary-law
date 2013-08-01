@@ -2,7 +2,7 @@
 
 5. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-Melléklet a 109/2007. (IX. 28.) FVM rendelethez
+Melléklet a 109/2007. (IX. 28.) FVM rendelethez[^7]
 
 Határidő kimutatás az adott évi termésbecsléshez*
 
@@ -45,3 +45,5 @@ Határidő kimutatás az adott évi termésbecsléshez*
 | 17. | BÚZA, ROZS, ŐSZI ÁRPA, TRITICALE, ŐSZI KÁPOSZTAREPCE | tavaszi állapot- minősítés | III. 29. | IV. 1. | IV. 5. | IV. 9. |
 
 * Ha a határidő lejárta munkaszüneti napra esik, akkor a határidő lejárta az azt követő munkanap.
+
+[^7]: [A mellékletnek a 70/2013. (VII. 31.) VM rendelet 76. § g) pontjával elrendelt módosítása, amely szerint az „az MgSzH Földművelésügyi Igazgatóságához” szövegrész helyébe a „kormányhivatal földművelésügyi igazgatóságához” szöveg, az „az MgSzH Földművelésügyi Igazgatósága az MgSzH Központjához” szövegrész helyébe az „a kormányhivatal földművelésügyi igazgatósága a NÉBIH-hez” szöveg, az „az MgSzH Központ az FVM Szakigazgatási Főosztályához” szövegrész helyébe az „a NÉBIH a VM–hez” szöveg lép, nem vezethető át.]
