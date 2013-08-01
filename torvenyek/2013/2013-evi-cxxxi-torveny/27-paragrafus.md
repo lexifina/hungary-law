@@ -13,11 +13,3 @@
 (7) A 16. alcím az Alaptörvény 40. cikke alapján sarkalatosnak minősül.
 
 (8) A 24. § (1), (2) és (4) bekezdése, valamint a 19. alcím az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
