@@ -42,7 +42,7 @@ g) az érdek-képviseleti szervekkel együttműködve megállapítja az egyéb j
 
 a) a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetének létszám-előirányzata, valamint a peres és nemperes eljárások átlagos országos munkaterhének mutatói alapján meghatározza a bíróságok – a törvényszékek esetében az illetékességi területükön működő közigazgatási és munkaügyi bírósággal, valamint járásbíróságokkal együttes – szükséges bírói létszámát,
 
-b) az OBT által meghatározott elvek figyelembevételével az eljáró bíróság helyett másik bíróságot jelöl ki az eljárásra, ha az az ügyek ésszerű időn belül való elbírálásának biztosítása érdekében szükséges,
+b)
 
 c)
 

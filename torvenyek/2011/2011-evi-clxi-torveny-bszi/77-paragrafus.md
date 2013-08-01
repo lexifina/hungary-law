@@ -2,7 +2,7 @@
 
 (2) Az OBH elnökének határozatait az érintettekkel haladéktalanul, de legkésőbb 8 napon belül írásban kell közölni. Az OBH elnöke a határozatait a szükséghez képest indokolja.
 
-(3) Az OBH elnökének szabályzatát a Magyar Közlönyben, ajánlását és – az (5) bekezdésben foglalt kivétellel – határozatát a bíróságok hivatalos honlapján és a központi honlapon, továbbá a bíróságok hivatalos lapjában kell közzétenni.
+(3) Az OBH elnökének szabályzatát a Magyar Közlönyben, ajánlását és – az (5) bekezdésben foglalt kivétellel – határozatát a központi honlapon, továbbá a bíróságok hivatalos lapjában kell közzétenni.
 
 (4) Az OBH elnöke a központi honlapon közzéteszi a bíróságok általános helyzetéről és a bíróságok igazgatási tevékenységéről szóló, az Országgyűlés számára készített beszámolót, továbbá a kinevezési jogkörébe tartozó vezetői állásra pályázók meghallgatásának jegyzőkönyveit.
 

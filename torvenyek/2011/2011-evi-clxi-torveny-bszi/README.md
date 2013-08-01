@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-161-00-00
 | 2013-04-02 | 2013. évi XX. törvény | 2011-161-00-00.12 |
 | 2013-06-18 | 13/2013. (VI. 17.) AB határozat | 2011-161-00-00.13 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2011-161-00-00.14 |
+| 2013-08-01 | 2013. évi CXXXI. törvény | 2011-161-00-00.15 |

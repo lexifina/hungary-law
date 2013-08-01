@@ -42,6 +42,8 @@ q) felelős az OBH elnöke határozatainak határidőben történő végrehajtá
 
 r) gondoskodik a Kúria ügyfélfogadási idejének és rendjének a központi honlapon és a Kúria honlapján történő közzétételéről, és
 
-s) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnökének szabályzata vagy az OBH elnökének határozata a hatáskörébe utal.
+s) kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát, valamint a kihirdetéstől számított 30 napon belül az Alaptörvény és az Alaptörvény módosítása megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartásának vizsgálatát,
 
-(2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a bíróságok hivatalos honlapján és a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
+t) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnökének szabályzata vagy az OBH elnökének határozata a hatáskörébe utal.
+
+(2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.

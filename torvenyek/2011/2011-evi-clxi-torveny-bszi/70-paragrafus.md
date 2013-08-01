@@ -4,23 +4,17 @@
 
 a) a megbízatási időtartam leteltével,
 
-b) a halálával,
+b) a bírói szolgálati viszonya megszűnésével,
 
-c) a cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezésével,
+c) lemondással,
 
-d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé vagy polgármesterré történő megválasztásával, továbbá állami vezetővé történő megválasztásával vagy kinevezésével,
+d) az összeférhetetlenség kimondásával,
 
-e) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát, illetőleg közügyektől eltiltást kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el,
+e) felmentéssel vagy
 
-f) lemondással,
+f) a tisztségtől való megfosztással.
 
-g) az összeférhetetlenség kimondásával,
-
-h) felmentéssel vagy
-
-i) a tisztségtől való megfosztással.
-
-(2) Az OBH elnöke megbízatásának megszűnését az (1) bekezdés a)–f) pontja esetében az Országgyűlés elnöke állapítja meg. Az (1) bekezdés g)–i) pontja esetében a megbízatás megszűnésének kérdésében az Országgyűlés határoz. A megbízatás megszűnésének kimondásához a képviselők kétharmadának szavazata szükséges.
+(2) Az OBH elnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetében az Országgyűlés elnöke állapítja meg. Az (1) bekezdés d)–f) pontja esetében a megbízatás megszűnésének kérdésében az Országgyűlés határoz. A megbízatás megszűnésének kimondásához a képviselők kétharmadának szavazata szükséges.
 
 (3) Az OBH elnöke megbízatásának megszűnéséről az Országgyűlés elnöke annak megállapítását követő 8 napon belül tájékoztatja a köztársasági elnököt.
 

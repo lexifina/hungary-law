@@ -22,7 +22,7 @@ c) véleményezi az egyéb juttatások részletes feltételeit és mértékét.
 
 a) kivételesen indokolt esetben elrendelheti a társadalom széles körét érintő vagy a közérdek szempontjából kiemelkedő jelentőségű ügyek soron kívüli intézését,
 
-b) meghatározza az eljáró bíróság kijelölésénél figyelembe veendő elveket az OBH elnökének azon jogköre vonatkozásában, amely szerint az ügyek ésszerű időn belül való elbírálása érdekében az eljáró bíróság helyett másik bíróságot jelöl ki az eljárásra.
+b)
 
 (3) Az OBT a személyzeti területen
 
