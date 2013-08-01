@@ -42,7 +42,7 @@
 
 ## A mezőgazdasági nettó árbevételbe nem számít bele a nem saját termelési szőlő feldolgozása.
 
-## A tárgyévben elemi kárt szenvedett termelők a Mezőgazdasági Szakigazgatási Hivatal területi szerve által kiadott igazolás alapján megállapított árbevétel kieséssel a mezőgazdasági árbevételüket módosíthatják.
+## A tárgyévben elemi kárt szenvedett termelők a megyei kormányhivatal földművelésügyi igazgatósága által kiadott igazolás alapján megállapított árbevétel kieséssel a mezőgazdasági árbevételüket módosíthatják.
 
 3. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^251]
 
