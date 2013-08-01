@@ -4,7 +4,7 @@
 
 ## 32. Az együttműködési megállapodás feltételei
 
-56. § (1) A tanuló gyakorlati képzése a gyakorlati képzést folytató és szervező szakképző iskola és a gyakorlati képzés feltételeivel részben vagy egészben rendelkező szakképzési hozzájárulásra kötelezett gazdálkodó szervezet vagy költségvetési szervként működő intézmény, alapítvány, egyesület, egyházi jogi személy, alapítvány, egyesület, egyházi jogi személy fenntartásában működő intézmény, őstermelő közötti együttműködési megállapodás alapján abban az esetben folytatható, ha
+56. § (1) A tanuló gyakorlati képzése a gyakorlati képzést folytató és szervező szakképző iskola és a gyakorlati képzés feltételeivel részben vagy egészben rendelkező szakképzési hozzájárulásra kötelezett gazdálkodó szervezet vagy a 43. § (2) bekezdés a) pont aa)–ac) alpontjában meghatározott szerv, szervezet, őstermelő közötti együttműködési megállapodás alapján abban az esetben folytatható, ha
 
 a) a szakmai és vizsgakövetelményben a gyakorlati képzésre előírt képzési idő negyven százaléknál kevesebb,
 

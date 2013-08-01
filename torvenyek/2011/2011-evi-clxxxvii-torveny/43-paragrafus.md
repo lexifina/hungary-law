@@ -10,7 +10,7 @@ aa) költségvetési szervként működő intézmény,
 
 ab) alapítvány, egyesület, egyházi jogi személy,
 
-ac) alapítvány, egyesület, egyházi jogi személy fenntartásában működő intézmény, továbbá
+ac) ab) alpontban meghatározottak fenntartásában működő intézmény, továbbá
 
 b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő.
 
