@@ -34,6 +34,6 @@
 
 ## 1 Vedletett, második termelési ciklusba kerülő állománynál a tojásrakási fázis beindulásakor 1 db hatósági mintavétel, ezt követően a házityúk tojóállományokra vonatkozó vizsgálatok szerint.
 
-2. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez[^32]
+2. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez[^45]
 
-[^32]: A 2. számú melléklet a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^45]: A 2. számú melléklet a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.

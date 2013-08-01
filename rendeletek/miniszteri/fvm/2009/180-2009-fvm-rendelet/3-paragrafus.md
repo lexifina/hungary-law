@@ -2,7 +2,7 @@
 
 3. § (1) Az országos főállatorvos felügyeli a nemzeti ellenőrzési programok kidolgozását és végrehajtását.
 
-(2) Az országos főállatorvos rendelkezései alapján a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: MgSzH Központ)
+(2)[^2] Az országos főállatorvos rendelkezései alapján a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)
 
 a) kidolgozza, bevezeti, a védekezés időközi eredményeinek birtokában felülvizsgálja, és szükség esetén módosítja a 2160/2003/EK rendelet szerinti nemzeti ellenőrzési programokat, egyeztetve az érintett ágazati termékpálya szervezeteivel,
 
@@ -16,9 +16,9 @@ e) a nemzeti ellenőrzési programok keretében vizsgálatok végzésére jogosu
 
 f) az engedélyezett és akkreditációval rendelkező laboratóriumok közül kijelöli a nemzeti ellenőrzési programok keretében hatósági minták vizsgálatára, illetve 'O' csoporttipizálásra jogosult laboratóriumokat.
 
-(3) A Mezőgazdasági Szakigazgatási Hivatal területi szerve (a továbbiakban: MgSzH területi szerve)
+(3)[^3] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság)
 
-a)[^2] ellenőrzi és felügyeli a járási állategészségügyi hivatalok nemzeti ellenőrzési programok végrehajtásával kapcsolatos tevékenységét,
+a)[^4] ellenőrzi és felügyeli a járási állategészségügyi hivatalok nemzeti ellenőrzési programok végrehajtásával kapcsolatos tevékenységét,
 
 b) ellenőrzi az engedélyezett magánlaboratóriumok nemzeti ellenőrzési programok végrehajtásával kapcsolatos vizsgálati tevékenységét,
 
@@ -34,9 +34,9 @@ g) gondoskodik a nemzeti ellenőrzési tervek végrehajtásában résztvevő hat
 
 h) a szakmai szervezetekkel egyeztetve részt vesz a vállalkozók képzésében,
 
-i) a védekezés helyzetéről félévente jelentést küld az MgSzH Központnak, illetve kérésre adatot szolgáltat.
+i)[^5] a védekezés helyzetéről félévente jelentést küld a NÉBIH-nek, illetve kérésre adatot szolgáltat.
 
-(4)[^3] A járási állategészségügyi hivatal
+(4)[^6] A járási állategészségügyi hivatal
 
 a) nyilvántartásba veszi az érintett vállalkozókat, és a betelepíthető légtereket a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló külön jogszabály alapján kiadott tenyészetkódon belül arab számmal megjelöli,
 
@@ -54,13 +54,13 @@ g) engedélyezi a betelepítést,
 
 h) Salmonella Enteritidis, illetve Salmonella Typhimurium fertőzöttség esetén hatósági mintavételt végez a szigorított fertőtlenítés hatékonyságának ellenőrzésére,
 
-i) adatot szolgáltat az MgSzH területi szerve részére.
+i)[^7] adatot szolgáltat az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság részére.
 
-(5)[^4] A járási állategészségügyi hivatal által kijelölt hatósági vagy jogosult állatorvos
+(5)[^8] A járási állategészségügyi hivatal által kijelölt hatósági vagy jogosult állatorvos
 
 a) a (2) bekezdés c) és d) pontja szerinti vizsgálatokhoz és a nemzeti ellenőrzési programok szerinti hivatalból indított eljárás során mintát vesz (a továbbiakban: hatósági minta) a 2. számú melléklet alapján,
 
-b) e rendelet szerint, továbbá az MgSzH Központ, illetve az MgSzH területi szervének megkeresése alapján adatot szolgáltat.
+b)[^9] e rendelet szerint, továbbá a NÉBIH, illetve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság megkeresése alapján adatot szolgáltat.
 
 (6) A magánállatorvos
 
@@ -68,9 +68,14 @@ a) ellenjegyzi a vállalkozó által elkészített járványügyi intézkedési 
 
 b) a vállalkozó kezdeményezésére mintát vesz (a továbbiakban: vállalkozói minta) az 1. számú melléklet alapján,
 
-c)[^5] az MgSzH Központ, az MgSzH területi szerve, illetve a járási állategészségügyi hivatal megkeresése alapján adatot szolgáltat.
+c)[^10] a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a járási állategészségügyi hivatal megkeresése alapján adatot szolgáltat.
 
-[^2]: A 3. § (3) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
-[^3]: A 3. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
-[^4]: A 3. § (5) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
-[^5]: A 3. § (6) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 116. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 116. § b) pontjával megállapított szöveg.
+[^4]: A 3. § (3) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 116. § c) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 116. § d) pontja szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 116. § e)–f) pontja szerint módosított szöveg.
+[^10]: A 3. § (6) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § d) és f) pontja szerint módosított szöveg.
