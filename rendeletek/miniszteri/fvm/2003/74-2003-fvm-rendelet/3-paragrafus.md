@@ -6,17 +6,18 @@
 
 (4)[^5] A járási főállatorvos az állattartót az adott tojótyúktartó telep nyilvántartásba vételéről és az ahhoz rendelt nyilvántartási számról határozatban értesíti, valamint egyidejűleg részére az adatlap egy példányát megküldi.
 
-(5) Az állattartó a (4) bekezdés szerinti határozatot és az adatlapot köteles megőrizni és annak egy másolati példányát a telepen tartani, valamint ezeket az állomás ellenőrzése során annak kérésére bemutatni.
+(5)[^6] Az állattartó a (4) bekezdés szerinti határozatot és az adatlapot köteles megőrizni és annak egy másolati példányát a telepen tartani, valamint ezeket az megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóság (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) ellenőrzése során annak kérésére bemutatni.
 
-(6)[^6] A járási főállatorvos a tojótyúktartó telep nyilvántartásba vételétől számított 8 napon belül a vonatkozó adatokat az illetékes állomásnak megküldi.
+(6)[^7] A járási főállatorvos a tojótyúktartó telep nyilvántartásba vételétől számított 8 napon belül a vonatkozó adatokat az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak megküldi.
 
-(7)[^7] Az állomás a járási főállatorvosok által beküldött adatok alapján naprakészen vezeti a tojótyúktartó telepek nyilvántartási listáját, és azt megküldi a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) által meghatározott módon és gyakorisággal a minisztérium részére.
+(7)[^8] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a járási főállatorvosok által beküldött adatok alapján naprakészen vezeti a tojótyúktartó telepek nyilvántartási listáját, és azt megküldi a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) által meghatározott módon és gyakorisággal a minisztérium részére.
 
-(8)[^8] Az (1) bekezdés hatálya alá nem tartozó, legfeljebb ötven tojótyúkot tartó állattartó, aki a termelési régión kívüli piacra vagy felvásárlásra kíván tojást termelni, az (1) bekezdésben foglaltak szerint köteles telepét nyilvántartásba vetetni.
+(8)[^9] Az (1) bekezdés hatálya alá nem tartozó, legfeljebb ötven tojótyúkot tartó állattartó, aki a termelési régión kívüli piacra vagy felvásárlásra kíván tojást termelni, az (1) bekezdésben foglaltak szerint köteles telepét nyilvántartásba vetetni.
 
 [^3]: A 3. § (1) bekezdése a 49/2006. (VI. 28.) FVM rendelet 2. § (1) bekezdésével megállapított, a 151/2012. (XII. 29.) VM rendelet 19. § a) pontja szerint módosított szöveg.
 [^4]: A 3. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 19. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 19. § b) pontja szerint módosított szöveg.
-[^6]: A 3. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 19. § b) pontja szerint módosított szöveg.
-[^7]: A 3. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 19. § b) pontja szerint módosított szöveg.
-[^8]: A 3. § (8) bekezdését a 49/2006. (VI. 28.) FVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 4. § (2) bekezdése alapján a legfeljebb ötven tojótyúkot tartó állattartó, aki a termelési régión kívüli piacra vagy felvásárlásra kíván tojást termelni 2006. augusztus 12. napjáig köteles nyilvántartásba vételi kötelezettségének eleget tenni, kivéve, ha a nyilvántartásba vétel a 74/2003. (VII. 1.) FVM rendelet alapján 2006. július 13. napja előtt megtörtént.
+[^6]: A 3. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 27. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 19. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 27. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 19. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 27. § c) és d) pontja szerint módosított szöveg.
+[^9]: A 3. § (8) bekezdését a 49/2006. (VI. 28.) FVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 4. § (2) bekezdése alapján a legfeljebb ötven tojótyúkot tartó állattartó, aki a termelési régión kívüli piacra vagy felvásárlásra kíván tojást termelni 2006. augusztus 12. napjáig köteles nyilvántartásba vételi kötelezettségének eleget tenni, kivéve, ha a nyilvántartásba vétel a 74/2003. (VII. 1.) FVM rendelet alapján 2006. július 13. napja előtt megtörtént.
