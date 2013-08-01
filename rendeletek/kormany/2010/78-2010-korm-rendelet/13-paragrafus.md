@@ -8,7 +8,8 @@
 
 (5) A (4) bekezdés, valamint a 12. § (5) bekezdés b) és c) pont szerinti információkat a tanúsítvány használatra alkalmatlanná válásától számított 20 évig kell a honlapon hozzáférhetővé tenni.
 
-(6) Az (1) bekezdés szerinti feladatra alkalmas tanúsítványt és aláírás-létrehozó adatot külön jogszabályban meghatározott védelem alá eső tisztséget, valamint fontos és bizalmas munkakört betöltő személyek csak a kormányzati hitelesítés-szolgáltatás keretében vehetnek igénybe.
+(6)[^33] Az (1) bekezdés szerinti feladatra alkalmas tanúsítványt és aláírás-létrehozó adatot külön jogszabályban meghatározott védelem alá eső tisztséget, valamint nemzetbiztonsági ellenőrzés alá eső jogviszonyt betöltő személyek csak a kormányzati hitelesítés-szolgáltatás keretében vehetnek igénybe.
 
 [^31]: A 13. § a 82/2012. (IV. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^32]: A 13. § (3) bekezdése a 82/2012. (IV. 21.) Korm. rendelet 33. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^33]: A 13. § (6) bekezdése a 303/2013. (VII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
