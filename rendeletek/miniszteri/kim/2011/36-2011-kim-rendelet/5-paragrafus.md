@@ -4,11 +4,9 @@ a) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendsze
 
 b) a vállalkozások statisztikai célú nyilvántartása közös keretének létrehozásáról és a 2186/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. február 20-i 177/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-Melléklet a 36/2011. (XII. 23.) KIM rendelethez
+Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
-Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
-
-| ÖVTJ-kód 2012 | ÖVTJ 2012 megnevezés |
+| ÖVTJ-kód 2013 | ÖVTJ 2013 megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -185,6 +183,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 016301 | Betakarítást követő szolgáltatás m.n.s. |
 
 | 016302 | Koszorú- és virágkötés nem saját termelésű növényből (nem művirágból) |
+
+| 016303 | Gyógynövény előkészítés |
 
 | 0164 | Vetési célú magfeldolgozás |
 
@@ -498,6 +498,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 108301 | Tea, kávé feldolgozása |
 
+| 108302 | Gyógytea feldolgozása |
+
 | 1084 | Fűszer, ételízesítő gyártása |
 
 | 108401 | Fűszer, ételízesítő gyártása m.n.s. |
@@ -515,6 +517,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 1089 | M.n.s. egyéb élelmiszer gyártása |
 
 | 108901 | M.n.s. egyéb élelmiszer gyártása |
+
+| 108902 | Étrendkiegészítő gyártása |
 
 | 109 | Takarmány gyártása |
 
@@ -544,9 +548,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 110201 | Bortemelés (nem saját termelésű alapanyagól) m.n.s. |
 
-| 110202 | Pezsgőtermelés |
+| 110202 | Pezsgőtermelés (nem saját termelésű alapanyagból) |
 
 | 110203 | Szőlőmust-, bortermelés (saját termelésű alapanyagból) |
+
+| 110204 | Pezsgőtermelés (saját termelésű alapanyagból) |
 
 | 1103 | Gyümölcsbor termelése |
 
@@ -556,7 +562,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 1104 | Egyéb nem desztillált, erjesztett ital gyártása |
 
-| 110401 | Egyéb nem desztillált, erjesztett ital gyártása |
+| 110401 | Egyéb nem desztilált, erjeszett ital gyártása (nem saját termelésű alapanyagból) |
+
+| 110402 | Egyéb nem desztillált, erjesztett ital gyártása (saját termelésű alapanyagból) |
 
 | 1105 | Sörgyártás |
 
@@ -596,8 +604,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 132001 | Textilszövés m.n.s. |
 
-| 132002 | Kékfestőkelme előállítása (saját előállítású anyagból) |
-
 | 132003 | Népi iparművészeti és iparművészeti textilszövet készítése |
 
 | 133 | Textilkikészítés |
@@ -606,7 +612,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 133001 | Textilkikészítés (nem saját előállítású textíliából) m.n.s. |
 
-| 133002 | Kékfestés (nem saját előállítású textíliából) |
+| 133002 | Népi iparművészeti és iparművészeti kékfestés |
 
 | 139 | Egyéb textiláru gyártása |
 
@@ -648,9 +654,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 139903 | Mű- és gépi hímzett termék készítése (végben, szalagban, motívumban) |
 
-| 139904 | Kéziszőttes, necceltáru és csipkekészítés, kézi hímzés |
+| 139904 | Népi iparművészeti és iparművészeti kéziszőttes, csipkekészítés, kézi hímzés |
 
 | 139905 | Kézimunka-előnyomás |
+
+| 139906 | Kéziszőttes, necceltáru és csipkekészítés, kézi hímzés |
+
+| 139907 | Népi iparművészeti és iparművészeti nemez készítése |
 
 | 14 | Ruházati termék gyártása |
 
@@ -742,9 +752,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 151201 | Bőr-, műbőr termékek gyártása (kivéve: bőrruházat, lábbeli) m.n.s. |
 
-| 151202 | Nyergesáru, lószerszám, állatruházat bármilyen állat számára, bármilyen anyagból |
+| 151202 | Népi iparművészeti és iparművészeti nyergesáru, lószerszám készítése |
 
 | 151203 | Népi iparművészeti és iparművészeti bőrtermék készítése (kivéve állatfelszerelés) |
+
+| 151204 | Nyergesáru, lószerszám gyártása |
+
+| 151205 | Állatruházat bármilyen állat számára, bármilyen anyagból |
 
 | 152 | Lábbeligyártás |
 
@@ -788,13 +802,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 162902 | Faesztergályos, faszobrászati termékek gyártása |
 
-| 162903 | Népi iparművészeti és iparművészeti fa tömegcikk készítése |
+| 162903 | Népi iparművészeti és iparművészeti faműves termékek készítése |
 
 | 162904 | Fa alapanyagú dísztárgykészítés |
 
 | 162905 | Parafa-, fonottáru gyártása |
 
-| 162906 | Fonottáru készítése kézi munkával |
+| 162906 | Népi iparművészeti és iparművészeti fonottáru készítése |
 
 | 17 | Papír, papírtermék gyártása |
 
@@ -946,11 +960,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 204102 | Szappankészítés |
 
-| 204103 | Kézműves szappanok készítése |
-
 | 2042 | Testápolási cikk gyártása |
 
 | 204201 | Testápolási cikk gyártása |
+
+| 204202 | Kézműves szappanok készítése |
 
 | 205 | Egyéb vegyi termék gyártása |
 
@@ -993,8 +1007,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 2120 | Gyógyszerkészítmény gyártása |
 
 | 212001 | Gyógyszerkészítmény gyártása |
-
-| 212002 | Gyógynövény-feldolgozás |
 
 | 22 | Gumi-, műanyag termék gyártása |
 
@@ -1064,7 +1076,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 231901 | Műszaki üvegtermék gyártása m.n.s. |
 
-| 231902 | Iparművészeti díszüveg gyártása |
+| 231902 | Népi iparművészeti és iparművészeti díszüveg készítése |
 
 | 231903 | Egyéb üvegtermék, -dísztárgy-készítés |
 
@@ -1084,6 +1096,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 233101 | Kerámiacsempe, -lap gyártása |
 
+| 233102 | Népi iparművészeti és iparművészeti kályhacsempék készítése |
+
 | 2332 | Égetett agyag építőanyag gyártása |
 
 | 233201 | Égetett agyag építőanyag gyártása |
@@ -1094,7 +1108,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 234101 | Egyéb háztartási kerámia gyártása |
 
-| 234102 | Népi iparművészeti és iparművészeti háztartási kerámia készítése |
+| 234102 | Népi iparművészeti és iparművészeti háztartási kerámia- és fazekastermék készítése |
 
 | 234103 | Kerámia dísztárgykészítés, porcelánfestés |
 
@@ -1114,7 +1128,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 234901 | Egyéb m.n.s. kerámiatermék gyártása |
 
-| 234902 | Egyéb népi iparművészeti és iparművészeti kerámiatermék készítése |
+| 234902 | Egyéb népi iparművészeti és iparművészeti kerámia- és fazekastermék készítése |
 
 | 235 | Cement-, mész-, gipszgyártás |
 
@@ -1312,6 +1326,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 257101 | Evőeszköz gyártása |
 
+| 257102 | Népi iparművészeti és iparművészeti kés készítés |
+
 | 2572 | Lakat-, zárgyártás |
 
 | 257201 | Lakat-, zárgyártás |
@@ -1346,7 +1362,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 259902 | Fém dísztárgy készítése |
 
-| 259903 | Népi iparművészeti és iparművészeti fémfeldolgozási termék készítése |
+| 259903 | Népi iparművészeti és iparművészeti fémműves termék készítése |
 
 | 259904 | Háztartási és egyébfém tömegcikk gyártása |
 
@@ -1674,7 +1690,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 310904 | Bútorgyártás befejező műveletei |
 
-| 310905 | Fonottbútor-készítés |
+| 310905 | Népi iparművészeti és iparművészeti fonottbútor-készítés |
 
 | 32 | Egyéb feldolgozóipari tevékenység |
 
@@ -1850,6 +1866,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 331224 | Műanyag-, gumifeldolgozó gép javítása |
 
+| 331225 | Gépek elektromos javítása |
+
 | 3313 | Elektronikus, optikai eszköz javítása |
 
 | 331301 | Elektronikus, optikai eszköz javítása m.n.s. |
@@ -1870,8 +1888,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 331402 | Villamos motor, áramfejlesztő javítása, újratekercselése |
 
-| ÖVTJ-kód 2012 | ÖVTJ 2012 megnevezés |
-
 | 331403 | Transzformátor javítása |
 
 | 331404 | Áramelosztó, -szabályozó készülék javítása |
@@ -1886,7 +1902,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 3316 | Repülőgép, űrhajó javítása |
 
-| 331601 | Légi-, űrjármű gyártása, javítása |
+| 331601 | Légi-, űrjármű javítása |
 
 | 3317 | Egyéb közlekedési eszköz javítása |
 
@@ -1917,6 +1933,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 331910 | Műszaki üvegtermék javítása |
 
 | 331911 | Dekorációs festés |
+
+| 331912 | M.n.s. egyéb ipari eszköz javítása |
 
 | 332 | Ipari gép, berendezés üzembe helyezése |
 
@@ -1960,7 +1978,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 332022 | Áramelosztó, -szabályozó készülék üzembe helyezése |
 
-| 332023 | Professzionális híradás-technikai termék üzembe helyezése |
+| 332023 | Ipari híradás-technikai termék üzembe helyezése |
 
 | 332024 | Mérőműszer üzembe helyezése (kivéve fogyasztásmérők) |
 
@@ -2090,7 +2108,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 3900 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s. |
+| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s |
 
 | 390002 | Területtisztítás |
 
@@ -2348,7 +2366,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 439916 | Előre gyártott építmények összeszerelése és felállítása |
 
-| 439918 | Alapozás |
+| 439918 | Mélyalapozás |
 
 | 45 | Gépjármű, motorkerékpár kereskedelme, javítása |
 
@@ -2445,6 +2463,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 4612 | Alapanyag, üzemanyag ügynöki nagykereskedelme |
 
 | 461201 | Alapanyag, üzemanyag ügynöki nagykereskedelme |
+
+| 461202 | Befektetési arany ügynöki nagykereskedelme |
 
 | 4613 | Fa-, építési anyag ügynöki nagykereskedelme |
 
@@ -2682,7 +2702,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 4665 | Irodabútor-nagykereskedelem |
 
-| 466501 | Irodabútor-nagykereskedelem m.n.s. |
+| 466501 | Irodabútor-nagykereskedelem |
 
 | 466502 | Irodabútor-külkereskedelem |
 
@@ -2866,7 +2886,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 475104 | Kézimunka-kiskereskedelem |
 
-| 475105 | Népművészeti, háziipari textil-kiskereskedelem |
+| 475105 | Népi iparművészeti és iparművészeti, háziipari textil-kiskereskedelem |
 
 | 4752 | Vasáru-, festék-, üveg-kiskereskedelem |
 
@@ -2896,7 +2916,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 4759 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
 
-| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s. |
+| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s |
 
 | 475902 | Finomacéláru kiskereskedelem |
 
@@ -3002,6 +3022,12 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 477604 | Műtrágya és agrokémiai termék kiskereskedelem |
 
+| 477605 | Mezőgazdasági felhasználású anyagok kiskereskedelme |
+
+| 477606 | Termény-, takarmány-, egyéb mezőgazdasági termék kiskereskedelme |
+
+| 477607 | Díszállat- és díszhal-kiskereskedelem |
+
 | 4777 | Óra-, ékszer-kiskereskedelem |
 
 | 477701 | Óra-, ékszer-kiskereskedelem |
@@ -3018,8 +3044,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 477806 | Pincegazdasági és felszerelési cikk kiskereskedelme |
 
-| 477807 | Mezőgazdasági felhasználású anyagok kiskereskedelme |
-
 | 477808 | Fotó-, optikai cikk kiskereskedelme |
 
 | 477809 | Bélyegkereskedelem |
@@ -3034,8 +3058,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 477815 | Művirág-kiskereskedelem |
 
-| 477816 | Díszállat- és díszhal-kiskereskedelem |
-
 | 477817 | Kegytárgy-kiskereskedelem |
 
 | 477818 | Tüzelőanyag-kiskereskedelem |
@@ -3047,8 +3069,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 477821 | Szemléltetőeszköz kiskereskedelem |
 
 | 477822 | Szexuális áru kiskereskedelem |
-
-| 477823 | Termény-, takarmány-, egyéb mezőgazdasági termék kiskereskedelme |
 
 | 477824 | Palackosgáz-kiskereskedelem |
 
@@ -3121,6 +3141,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 493201 | Taxis személyszállítás |
 
 | 493203 | Személygépkocsival nem menetrendszerű személyszállításként végzett taxis gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
+
+| 493204 | Személygépjármű kölcsönzése vezetővel |
 
 | 4939 | M.n.s. egyéb szárazföldi személyszállítás |
 
@@ -3270,16 +3292,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 522903 | Egyéb szállítást kiegészítő szolgáltatás |
 
-| 53 | Postai, futárpostai tevékenység |
-
-| 531 | Postai tevékenység (egyetemes kötelezettséggel) |
-
-| 5310 | Postai tevékenység (egyetemes kötelezettséggel) |
-
-| 531001 | Engedélyes postai szolgáltatás |
-
-| 531003 | Újság, folyóirat terjesztése |
-
 | 532 | Egyéb postai, futárpostai tevékenység |
 
 | 5320 | Egyéb postai, futárpostai tevékenység |
@@ -3290,9 +3302,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 532003 | Közreműködés postai szolgáltatás ellátásában |
 
-| 532004 | Bejelentéshez kötött postai szolgáltatás |
+| 532004 | Bejelentéshez kötött egyéb postai szolgáltatás |
 
 | 532005 | Étel házhozszállítása |
+
+| 532006 | Újság, folyóirat terjesztése |
 
 | 55 | Szálláshely-szolgáltatás |
 
@@ -3608,8 +3622,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 6621 | Kockázatértékelés, kárszakértés |
 
-| ÖVTJ-kód 2012 | ÖVTJ 2012 megnevezés |
-
 | 662101 | Biztosítási kockázatértékelés, kárszakértés |
 
 | 6622 | Biztosítási ügynöki, brókeri tevékenység |
@@ -3750,6 +3762,10 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 711108 | Településrendezés tervezés |
 
+| 711109 | Vidéktervezés |
+
+| 711110 | Területrendezési tervezés |
+
 | 7112 | Mérnöki tevékenység, műszaki tanácsadás |
 
 | 711201 | Építészeti műszaki tervezés (kivéve: építészmérnökök) |
@@ -3770,15 +3786,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 711210 | Technikusi tevékenység (kivéve építészet) |
 
-| 711211 | Tervellenőri tevékenység |
-
 | 711212 | Építési műszaki ellenőrzés |
 
 | 711213 | Építésügyi műszaki szakértő (kivéve: építészmérnökök) |
 
 | 711214 | Tűzvédelmi tervező tevékenység |
 
-| 711215 | Igazságügyi szakértés lakás és építésügyi területen |
+| 711215 | Igazságügyi szakértés lakás- és építésügyi, területrendezési területen |
 
 | 711216 | Építésügyi műszaki ellenőrzés (technikus) |
 
@@ -3924,7 +3938,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 749033 | M.n.s. egyéb igazságügyi szakértő |
 
-| 749035 | Nem mérnöki műszaki tanácsadás |
+| 749035 | Műszaki tanácsadás |
 
 | 749036 | Hobbiállatok törzskönyvezése (kivéve: munkaeb pl. vakvezető eb, rendőreb) |
 
@@ -3985,8 +3999,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 7711 | Személygépjármű kölcsönzése |
 
 | 771101 | Gépkocsikölcsönzés |
-
-| 771102 | Gépkocsikölcsönzés (telep nélkül) |
 
 | 771103 | M.n.s. személygépjármű kölcsönzése |
 
@@ -4312,11 +4324,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 855907 | Általános képzési célú felnőttképzés |
 
-| 855908 | Oktatás nyelvi képzés keretében |
-
 | 855909 | Informatikai oktatás |
 
-| 855910 | Engedélyhez kötött nyelvi képzés |
+| 855911 | Általános és szaknyelvi felnőttképzés |
 
 | 856 | Oktatást kiegészítő tevékenység |
 
@@ -4578,13 +4588,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 900305 | Független újságírói tevékenység |
 
-| 900306 | Képzőművészeti tevékenység (zsűrizett művészeti alkotások készítése) |
+| 900306 | Képzőművészeti tevékenység (képzőművészeti alkotások készítése) |
 
 | 900307 | Műfordítás |
 
 | 9004 | Művészeti létesítmények működtetése |
 
-| 900401 | Hangversenytermek, színházak működtetése |
+| 900401 | Művészeti létesítmények működtetése |
 
 | 91 | Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység |
 
@@ -4810,7 +4820,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 
 | 960403 | Fürdő szolgáltatás |
 
-| 960404 | Képesítéshez nem kötött fizikai közérzetet javító szolgáltatás |
+| 960404 | Fizikai közérzetet javító szolgáltatás m.n.s. |
 
 | 9609 | M.n.s. egyéb személyi szolgáltatás |
 
@@ -4855,3 +4865,5 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez
 | 990001 | Külföldi képviseletet ellátó személy |
 
 | 990002 | Adómentes termékimportot megalapozó közösségen belüli termékértékesítés |
+
+[^2]: A melléklet szövege a 14/2013. (VII. 9.) KIM rendelet 1. §-ával megállapított szöveg.
