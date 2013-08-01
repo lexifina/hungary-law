@@ -2,7 +2,7 @@
 
 115. § (1) A főigazgatót az Elnök nevezi ki.
 
-(2) A főigazgató kinevezésére a 111/A. § (2) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(2) A főigazgató kinevezésére a 111/A. § (2) és (2a) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (3) A főigazgató államtitkári illetményre és juttatásokra jogosult.
 

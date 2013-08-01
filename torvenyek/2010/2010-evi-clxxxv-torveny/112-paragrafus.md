@@ -1,4 +1,4 @@
-112. § (1) Az Elnök jogosult két elnökhelyettes határozatlan időre történő kinevezésére. Az elnökhelyettes kinevezésére a 111/A. § (2) bekezdésben foglaltakat megfelelően alkalmazni kell.
+112. § (1) Az Elnök jogosult két elnökhelyettes határozatlan időre történő kinevezésére. Az elnökhelyettes kinevezésére a 111/A. § (2) és (2a) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (2) Az elnökhelyettes a Szervezeti és Működési Szabályzatban meghatározott feltételek esetén helyettesíti az elnököt. Az Elnök a másodfokú hatósági döntési hatáskört jogosult – megfelelően körülírt felhatalmazással – az érintett elnökhelyettesre delegálni. E delegált hatáskörében eljárva az elnökhelyettes nem utasítható a másodfokú hatósági döntéshozatal során. Az elnökhelyettes egyéb feladatait a Szervezeti és Működési Szabályzat határozza meg.
 

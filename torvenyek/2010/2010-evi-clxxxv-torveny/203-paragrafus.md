@@ -170,7 +170,7 @@ f)
 
 54. Összetett műsorszám: több műsorszám – egy főcímmel vagy más megkülönböztetéssel jelzett – együttese.
 
-55. Politikai reklám: ellenérték fejében vagy anélkül közzétett, valamely párt, politikai mozgalom vagy a kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, a reklámhoz hasonló módon megjelenő, illetve közzétett műsorszám.
+55. Politikai reklám: valamely párt, politikai mozgalom vagy a kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, a reklámhoz hasonló módon megjelenő, illetve közzétett műsorszám.
 
 56. Politikai tájékoztató műsorszám: időtartama legalább kilencven százalékában a magyarországi és a nemzetközi politikai, vagy aktuális közéleti eseményeket elemző, bemutató, azokat értékelő, hátterüket feltáró, hírműsorszámnak nem minősülő műsorszám.
 
