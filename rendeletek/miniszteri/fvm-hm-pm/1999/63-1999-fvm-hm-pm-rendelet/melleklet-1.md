@@ -1,4 +1,4 @@
-1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^21]
+1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^25]
 
 ## Igazgatási szolgáltatási díjak
 
@@ -208,7 +208,7 @@ b) 52–2. pont szerinti ellenőrzés során visszatartandó légifilm-negatívo
 
 c) Az igénylő a költségére beszerzett adatoknak az adatszolgáltató által harmadik félnek való forgalmazásából – előzetes megegyezés esetén – részesedhet.
 
-d) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltatásáért fizetendő díjat a FÖMI Távérzékelési Központja, illetve a Honvédelmi Minisztérium Térképészeti Közhasznú Társaság állapítja meg.
+d) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltatásáért fizetendő díjat a FÖMI Távérzékelési Központja, illetve a HM Zrínyi Nonprofit Kft. állapítja meg.
 
 6. Adatfelhasználási díj a nyilvántartási, térinformatikai és tervezési rendszerek állami alapadat tartalmáért
 
@@ -366,7 +366,7 @@ Megjegyzések:
 
 a) A másolatok sokszorosítását az 1:10 000 méretarányú állami topográfiai térképszelvény felhasználása esetén az FVM engedélyezi. Az adatfelhasználás módjáról és feltételeiről a FÖMI-vel szerződést kell kötni.
 
-b) Az 1:25 000 és kisebb méretarányú állami topográfiai térképszelvény felhasználását a honvédelmi miniszter képviseletében az MH TÉSZ vezetője engedélyezi. Az adatfelhasználás módjáról és feltételeiről a HM Térképészeti Kht.-val kell szerződést kötni.
+b) Az 1:25 000 és kisebb méretarányú állami topográfiai térképszelvény felhasználását a honvédelmi miniszter képviseletében az MH GEOSZ vezetője engedélyezi. Az adatfelhasználás módjáról és feltételeiről HM Zrínyi Nonprofit Kft.-vel kell szerződést kötni.
 
 c) A térképek kiadásához az adatfelhasználás engedélyeztetésénél e rendelet 15. § (3) bekezdésében foglaltak szerint kell eljárni.
 
@@ -378,4 +378,4 @@ f) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 g) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^21]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^25]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja szerint módosított szöveg.

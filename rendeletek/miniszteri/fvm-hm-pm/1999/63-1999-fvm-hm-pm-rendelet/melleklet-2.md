@@ -1,4 +1,4 @@
-2. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^22]
+2. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^26]
 
 ## Sajátos célú földmérési és térképészeti munkák hatósági vizsgálatának igazgatási szolgáltatási díjai
 
@@ -48,4 +48,4 @@ a) egy földrészlet után 500 Ft/földrészlet
 
 b) minden további földrészlet után 150 Ft/földrészlet
 
-[^22]: A 2. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^26]: A 2. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
