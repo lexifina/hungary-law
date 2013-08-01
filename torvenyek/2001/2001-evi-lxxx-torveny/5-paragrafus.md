@@ -4,8 +4,8 @@
 
 a) a kérelmező állam központi szervének a kulturális javak előfordulási helyére vagy a birtokosára vonatkozó információ tudomásra jutásától számított 1 év, vagy
 
-b) a jogellenes kiviteltől számított 30 év, illetve közgyűjtemények vagy egyházi intézmények leltárában szereplő javak esetében 75 év
+b) a jogellenes kiviteltől számított 30 év, illetve közgyűjtemények, valamint az egyházi jogi személy vagy a vallási tevékenységet végző szervezet leltárában szereplő javak esetében 75 év
 
 eltelt.
 
-(3) Nemzetközi szerződés a közgyűjtemények vagy egyházi intézmények leltárában szereplő javak esetében 75 évnél hosszabb igényérvényesítési határidőt is előírhat.
+(3) Nemzetközi szerződés a közgyűjtemények, valamint az egyházi jogi személy vagy a vallási tevékenységet végző szervezet leltárában szereplő javak esetében 75 évnél hosszabb igényérvényesítési határidőt is előírhat.

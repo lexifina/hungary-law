@@ -6,11 +6,7 @@
 
 a) azok a javak, melyeket a tagállam területéről történő jogellenes kivitel előtt vagy azt követően nemzeti jogszabály vagy államigazgatási eljárás keretében hozott hatósági határozat az Európai Közösséget létrehozó szerződés 30. (ex. 36.) Cikke szerinti ,,művészi, történelmi vagy régészeti értéket képviselő nemzeti kincsek'' közé sorol, és
 
-b) amelyek a melléklet szerinti kategóriák valamelyikébe tartoznak, vagy egyik ilyen kategóriába sem tartoznak, de szerves részét képezik:
-
-– muzeális intézmények, levéltárak, valamint könyvtárak megőrzendő állományi leltárában szereplő közgyűjteménynek,
-
-– egyházi intézmények leltárának;
+b) amelyek a melléklet szerinti kategóriák valamelyikébe tartoznak vagy egyik ilyen kategóriába sem tartoznak, de szerves részét képezik muzeális intézmények, levéltárak, valamint könyvtárak megőrzendő állományi leltárában szereplő gyűjteménynek vagy egyházi jogi személy vagy vallási tevékenységet végző szervezet leltárának;
 
 2. közgyűjtemény: az a gyűjtemény, mely a tagállam, annak helyi vagy regionális hatósága, illetve olyan intézmény tulajdonát képezi, mely a tagállam területén található és a tagállam jogszabálya szerint közintézménynek minősül, továbbá a tagállam, illetve egy helyi vagy regionális hatóság tulajdona, vagy finanszírozását jelentős mértékben azok biztosítják;
 
