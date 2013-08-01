@@ -1,6 +1,6 @@
 5. § (1) A kérelem és mellékleteinek tartalmi és formai követelményeit a melléklet tartalmazza.
 
-(2) E rendelet melléklete alapján összeállított kérelmet a 2007. évben a rendelet hatálybalépésétől legkésőbb szeptember 30-áig, ezt követően évente május 1-jétől legkésőbb az adott év szeptember 30-áig lehet az MgSzH-hoz benyújtani, feltéve, hogy a kérelem alapjául szolgáló adásvételi szerződés a kérelem benyújtásának évében, illetőleg az azt megelőző év szeptember 30-a után jött létre.
+(2)[^4] E rendelet melléklete alapján összeállított kérelmet a 2007. évben a rendelet hatálybalépésétől legkésőbb szeptember 30-áig, ezt követően évente május 1-jétől legkésőbb az adott év szeptember 30-áig lehet a földművelésügyi igazgatósághoz benyújtani, feltéve, hogy a kérelem alapjául szolgáló adásvételi szerződés a kérelem benyújtásának évében, illetőleg az azt megelőző év szeptember 30-a után jött létre.
 
 (3) Egy ügyfél évente legfeljebb két kérelmet nyújthat be.
 
@@ -15,3 +15,5 @@ b) olyan hiteles térképmásolatot, melyen a birtokösszevonás alapját képez
 c) a mezőgazdasági termelőtevékenységet igazoló dokumentumok (őstermelői, mezőgazdasági vállalkozói igazolvány, családi gazdaság nyilvántartásba vételéről szóló határozat stb.) egyszerű másolatát, melynek az eredetivel való azonosságát az ügyfél a másolaton aláírásával igazolja;
 
 d) a mezőgazdasági szakirányú képzettséget vagy öt éves szakmai gyakorlatot igazoló dokumentumok egyszerű másolatát, melynek eredetivel való azonosságát az ügyfél a másolaton aláírásával igazolja.
+
+[^4]: Az 5. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 74. § d) pontja szerint módosított szöveg.
