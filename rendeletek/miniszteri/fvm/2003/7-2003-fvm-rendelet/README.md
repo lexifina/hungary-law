@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-7-20-82
 | --- | --- | --- |
 | 2003-02-19 | 2003-7-20-82.1 | 7/2003. (II. 4.) FVM rendelet |
 | 2013-01-01 | 2003-7-20-82.2 | 151/2012. (XII. 29.) VM rendelet |
+| 2013-08-01 | 2003-7-20-82.3 | 70/2013. (VII. 31.) VM rendelet |

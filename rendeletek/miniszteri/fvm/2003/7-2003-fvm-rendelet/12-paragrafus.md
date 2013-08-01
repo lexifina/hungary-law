@@ -1,4 +1,4 @@
-## 11. § A védekezés helyzetéről az állomás évente köteles jelentést küldeni a Földművelésügyi és Vidékfejlesztési Minisztériumnak.
+## 11. §[^5] A védekezés helyzetéről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság évente köteles jelentést küldeni a Vidékfejlesztési Minisztériumnak.
 
 ## Záró rendelkezések
 
@@ -9,3 +9,5 @@
 a) a Tanács 90/426/EGK irányelve a lófélék mozgására és harmadik országból történő behozatalra irányadó állategészségügyi feltételekről;
 
 b) a Bizottság 95/329/EK határozata a 90/426/EGK tanácsi irányelv 15. cikke b) pontjának (ii) alpontjában a vírusos arteritis-re vonatkozóan megállapított követelmény hatálya alá tartozó hímivarú lófélék kategóriájának meghatározásáról.
+
+[^5]: A 11. § a 70/2013. (VII. 31.) VM rendelet 23. § c)–d) pontja szerint módosított szöveg.
