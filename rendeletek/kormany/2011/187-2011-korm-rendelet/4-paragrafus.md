@@ -20,7 +20,7 @@ d) az érem és féldombormű,
 
 e) azon nemesfém tárgyak, melyek kora meghaladja vagy meghaladhatja az 50 évet és a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 64. § d) pontja szerinti hatóság a kulturális javak körébe tartozónak minősíti,
 
-f) a magánszemély és az egyház tulajdonában levő, valamint a muzeális intézmény alapleltáraiban szereplő nemesfém tárgy addig, amíg forgalomba hozatal vagy értékesítés céljából nem kerülnek nemesfém tárgyak raktározásával, árusításával foglalkozó személyhez,
+f)[^3] a magánszemély és a vallási közösség tulajdonában levő, valamint a muzeális intézmény alapleltáraiban szereplő nemesfém tárgy addig, amíg forgalomba hozatal vagy értékesítés céljából nem kerülnek nemesfém tárgyak raktározásával, árusításával foglalkozó személyhez,
 
 g) a nemesfémből vagy annak ötvözeteiből készült tömbök, rudak, lemezek, huzalok és félkész gyártmányok,
 
@@ -39,3 +39,4 @@ m) a miniszteri rendeletnek megfelelően fémjelzett tárgynak minősülő, az a
 (4) A (3) bekezdés b), c) és k) pontjai szerinti mentességről a hatóság a készítő vagy a kereskedő kérelmére, a kérelemben megjelölt indokok, valamint a nemesfém tárgy méretének, illetve sajátosságainak figyelembevételével dönt.
 
 [^2]: A 4. § (3) bekezdés c) pontja a 144/2012. (VII. 3.) Korm. rendelet 13. §-ával módosított szöveg.
+[^3]: A 4. § (3) bekezdés f) pontja a 297/2013. (VII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
