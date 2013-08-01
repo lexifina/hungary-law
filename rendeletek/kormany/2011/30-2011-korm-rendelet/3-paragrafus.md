@@ -1,1 +1,0 @@
-## 2. § Az 1. § szerinti miniszterek az e rendelet hatálybalépését követő 5 napon belül jelölik ki az egyeztető bizottságok munkájában tagként részvevő megbízottjaikat, és az 1. § b)–j) pontjában szereplő miniszterek erről tájékoztatják az egyházakkal való kapcsolattartás koordinációjáért felelős minisztert.
