@@ -1,6 +1,6 @@
 ## A törzsültetvények és a certifikált gyümölcsfaiskolák létesítésének részletes növény-egészségügyi feltételei
 
-## 1. A törzsültetvények és certifikált növényanyagok megengedett legkisebb izolációs távolságát eltérő virológiai státuszú ültetvényektől és közös vírusgazda kultúrnövényektől törzses gyümölcsfajoknál az 1. táblázat tartalmazza. A nem termesztett közös vírusgazda növények listáját az MgSzH által kiadott módszertani útmutató tartalmazza.
+## 1. A törzsültetvények és certifikált növényanyagok megengedett legkisebb izolációs távolságát eltérő virológiai státuszú ültetvényektől és közös vírusgazda kultúrnövényektől törzses gyümölcsfajoknál az 1. táblázat tartalmazza. A nem termesztett közös vírusgazda növények listáját a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága által kiadott módszertani útmutató tartalmazza.
 
 ## 1. számú táblázat:
 
@@ -80,7 +80,7 @@
 
 ## Azonos fajú növények telepítése csak 5 év elteltével engedélyezhető.
 
-## 4. A telepítendő területen a vírusvektor fonálféreg fertőzöttséget az MgSzH köteles ellenőrizni. A megvizsgált minta alapján a terület vírusvektor fonálférgeket nem tartalmazhat. Ha a vizsgálat fertőzést állapít meg, más területet kell kijelölni.
+## 4. A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága köteles ellenőrizni. A megvizsgált minta alapján a terület vírusvektor fonálférgeket nem tartalmazhat. Ha a vizsgálat fertőzést állapít meg, más területet kell kijelölni.
 
 ## A vírusvektor fonálféreg fajokat a 2. táblázat tartalmazza.
 
@@ -102,4 +102,6 @@
 
 | 6 | Xiphinema diversicaudatum | – | + | + | – | – | + | + | + |
 
-8. melléklet a 72/2010. (V. 13.) FVM rendelethez
+8. melléklet a 72/2010. (V. 13.) FVM rendelethez[^116]
+
+[^116]: A 8. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § b) és j) pontja szerint módosított szöveg.

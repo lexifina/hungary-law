@@ -2,6 +2,8 @@
 
 (2) A gyümölcsfaiskola a forgalmazási szezon végén köteles elszámolást készíteni a megtermelt és a kiszállított növényanyag export bizonylatainak tételenkénti összesítésével.
 
-(3) Az MgSzH kérelemre dönthet a tételek Európai Unión belüli forgalomba hozatalának engedélyezéséről, amennyiben a forgalomba hozatalig igazolható, hogy azok e rendelet követelményeinek eleget tesznek.
+(3)[^83] A NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága kérelemre dönthet a tételek Európai Unión belüli forgalomba hozatalának engedélyezéséről, amennyiben a forgalomba hozatalig igazolható, hogy azok e rendelet követelményeinek eleget tesznek.
 
 (4) A zárlati termesztés alatt álló szaporítóanyagot legalább a C.A.C. faiskolákra előírt követelmények szerint kell üzemeltetni és ellenőrizni.
+
+[^83]: A 35. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 131. § c) pontja szerint módosított szöveg.

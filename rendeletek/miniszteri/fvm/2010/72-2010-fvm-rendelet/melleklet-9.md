@@ -46,11 +46,11 @@
 
 ## 1.4.2. Üzemi törzsültetvények:
 
-## Ha a vizuális vizsgálat fertőzés gyanúját állapítja meg, a tüneteket mutató egyedeket laboratóriumi vizsgálatban kell részesíteni. Ha ez fertőzöttséget mutat ki, a laboratóriumi vizsgálatot ki kell terjeszteni az állományra az MgSzH illetékes szakterületével történő egyeztetés alapján. A fertőzött egyedeket az ültetvényből el kell távolítani és meg kell semmisíteni.
+## Ha a vizuális vizsgálat fertőzés gyanúját állapítja meg, a tüneteket mutató egyedeket laboratóriumi vizsgálatban kell részesíteni. Ha ez fertőzöttséget mutat ki, a laboratóriumi vizsgálatot ki kell terjeszteni az állományra a NÉBIH-hel, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságával történő egyeztetés alapján. A fertőzött egyedeket az ültetvényből el kell távolítani és meg kell semmisíteni.
 
-## 1.5. A kontrollvizsgálat alatt lévő növények szaporulata a vizsgálat elvégzéséig az MgSzH növényegészségügyi engedélyével elkülönített helyen tárolandó. Amennyiben a gyors módszerrel megvizsgált növények között fertőzött egyed található, valamint a keveredés gyanúja beigazolódik, a fajta (klón) törzsültetvény létesítésére nem használható, certifikált szaporító-, illetve ültetési anyagként forgalomba nem hozható.
+## 1.5. A kontrollvizsgálat alatt lévő növények szaporulata a vizsgálat elvégzéséig a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága növényegészségügyi engedélyével elkülönített helyen tárolandó. Amennyiben a gyors módszerrel megvizsgált növények között fertőzött egyed található, valamint a keveredés gyanúja beigazolódik, a fajta (klón) törzsültetvény létesítésére nem használható, certifikált szaporító-, illetve ültetési anyagként forgalomba nem hozható.
 
-## 1.6. Valamennyi vizsgálatról az MgSzH jegyzőkönyvet köteles felvenni, amelyben rögzít minden olyan körülményt, amely a vizsgálati eredmény kiadása szempontjából jelentős, illetve azt meghatározza.
+## 1.6. Valamennyi vizsgálatról a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága jegyzőkönyvet köteles felvenni, amelyben rögzít minden olyan körülményt, amely a vizsgálati eredmény kiadása szempontjából jelentős, illetve azt meghatározza.
 
 ## 2. A vírusmentesség és egyéb károsítóktól való mentesség igazolása
 

@@ -116,7 +116,7 @@
 
 ## A mintát úgy kell csomagolni, hogy a szaporítóanyag-minta minőségében és mennyiségében a mintavételtől a vizsgálat megkezdéséig változás ne következzék be, a csomagolóanyag és a zár sértetlen maradjon. A csomagoló- anyag zárható nyílását fémzárral, vagy más módon le kell zárni úgy, hogy a csomag tartalmához annak megsértése nélkül hozzáférni ne lehessen.
 
-10. melléklet a 72/2010. (V. 13.) FVM rendelethez
+10. melléklet a 72/2010. (V. 13.) FVM rendelethez[^117]
 
 A szaporítóanyag-minta vizsgálata a szaporítóanyagok minőségének megállapítására
 
@@ -228,6 +228,8 @@ A növény életképes, ha
 
 –  a szaporítóanyagra káros vegyszerrel (pl. herbicid) való szennyezettség vagy kezelés gyanúja merül fel.
 
-2.2. Speciális növény-egészségügyi vizsgálatot a növényvédelmi hatóság végezhet, az általa kiadott rendelkezéseknek megfelelően vett minta alapján. A vizsgálatot bármelyik érdekelt fél az MgSzH-tól kérheti.
+2.2. Speciális növény-egészségügyi vizsgálatot a növényvédelmi hatóság végezhet, az általa kiadott rendelkezéseknek megfelelően vett minta alapján. A vizsgálatot bármelyik érdekelt fél a NÉBIH-től, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságától kérheti.
 
-2.3. Az MgSzH vagy az általa erre feljogosított laboratórium a fajtaazonosságot genetikai vagy géntermék vizsgálat útján is meghatározhatja hivatalosan elfogadott módszer alapján.
+2.3. A NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága vagy az általa erre feljogosított laboratórium a fajtaazonosságot genetikai vagy géntermék vizsgálat útján is meghatározhatja hivatalosan elfogadott módszer alapján.
+
+[^117]: A 10. melléklet a 70/2013. (VII. 31.) VM rendelet 131. § c) és i) pontja szerint módosított szöveg.

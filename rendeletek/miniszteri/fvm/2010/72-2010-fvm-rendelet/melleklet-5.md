@@ -62,7 +62,7 @@
 
 ## 3. Megnevezés, megjelölés
 
-## A 2. pont szerint osztályozott és kötegelt szaporító alapanyagot kötegenként kategóriájának megfelelő címkével kell ellátni. A növény-egészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendeletben felsorolt fajok esetében szaporító alapanyag csak az MgSzH felhatalmazásával kiállított növényútlevéllel forgalmazható.
+## A 2. pont szerint osztályozott és kötegelt szaporító alapanyagot kötegenként kategóriájának megfelelő címkével kell ellátni. A növény-egészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendeletben felsorolt fajok esetében szaporító alapanyag csak a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága felhatalmazásával kiállított növényútlevéllel forgalmazható.
 
 ## 4. Csomagolás, szállítás, tárolás
 
