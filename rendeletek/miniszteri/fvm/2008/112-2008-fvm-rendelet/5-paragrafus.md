@@ -14,8 +14,11 @@ e) nyilatkozik a kérelem benyújtását megelőző kettő pénzügyi évben és
 
 f) nem minősül nehéz helyzetben lévő vállalkozásnak;
 
-g) a 6. § szerint, az előírásoknak megfelelő pályázatot nyújt be a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) illetékes területi szervéhez.
+g)[^2] a 6. § szerint, az előírásoknak megfelelő pályázatot nyújt be a megyei kormányhivatal erdészeti igazgatósághoz (a továbbiakban: erdészeti igazgatóság).
 
-(2) E rendelet alapján egy pályázó, egy pályázati felhívás alapján, támogatási jogcímenként csak egy pályázatot nyújthat be az MgSzH illetékes területi szervéhez.
+(2)[^3] E rendelet alapján egy pályázó, egy pályázati felhívás alapján, támogatási jogcímenként csak egy pályázatot nyújthat be az erdészeti igazgatósághoz.
 
 (3) A támogatást elnyert pályázó köteles a beavatkozással érintett erdőrészleteknél a szakmai terveken, a támogatott tevékenységhez kapcsolódó rendezvényeken, kiadványokban, egyéb kommunikációs anyagokban, a tájékoztató táblákon, létesítményeken a pályázati felhívás szerinti logót és a támogatás forrását feltüntetni.
+
+[^2]: Az 5. § (1) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 96. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 96. § c) pontja szerint módosított szöveg.
