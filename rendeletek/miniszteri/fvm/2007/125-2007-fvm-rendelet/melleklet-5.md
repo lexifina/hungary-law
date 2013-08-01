@@ -26,7 +26,7 @@
 
 ## Igénybe vehető hitel összege (árbevételkiesés 70%-a): ........................................ E Ft
 
-## A ............................................ megyei Mezőgazdasági Szakigazgatási Hivatal megvizsgálta a benyújtott hitelkérelmet. A kérelem megfelel a 125/2007. (X. 25.) FVM rendeletben foglaltaknak és az igénybe vehető hitelösszeg legfeljebb ............................................................ Ft.
+## Az ............................................ élelmiszerlánc-biztonsági és állategészségügyi igazgatóság megvizsgálta a benyújtott hitelkérelmet. A kérelem megfelel a 125/2007. (X. 25.) FVM rendeletben foglaltaknak és az igénybe vehető hitelösszeg legfeljebb ............................................................ Ft.
 
 ## Kelt: 200...., .................................. hó ...........-én
 
