@@ -12,4 +12,6 @@
 
 (6) Az 1. §-ban meghatározott tevékenységet folytatónak a nyilvántartást, a (2) bekezdés szerint beküldött adatlap másolatát, valamint a talajvédelmi terveket 5 évig meg kell őriznie.
 
-(7) A (2) bekezdés alapján beérkező adatok országos feldolgozásáról és az ezzel összefüggő feladatok ellátásáról a földművelésügyi és vidékfejlesztési miniszter a környezetvédelemi és vízügyi miniszterrel együttműködve gondoskodik.
+(7)[^13] A (2) bekezdés alapján beérkező adatok országos feldolgozásáról és az ezzel összefüggő feladatok ellátásáról a vidékfejlesztési miniszter gondoskodik.
+
+[^13]: A 10. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 93. § a) pontja szerint módosított szöveg.

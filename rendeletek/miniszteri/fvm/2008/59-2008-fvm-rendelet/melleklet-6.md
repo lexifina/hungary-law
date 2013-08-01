@@ -170,7 +170,7 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^18]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^19]
 
 ADATLAP
 
@@ -292,7 +292,7 @@ Dátum:
 
 aláírás
 
-Függelék az 59/2008. (IV. 29.) FVM rendelet 6. számú mellékletéhez
+Függelék az 59/2008. (IV. 29.) FVM rendelet 6. számú mellékletéhez[^20]
 
 Kitöltési útmutató
 
@@ -306,13 +306,13 @@ Az 1. táblázatot minden adatszolgáltatásra kötelezett gazdálkodónak ki ke
 
 Az adatlapokon a gazdálkodási év utolsó napján érvényes adatokat kell közölni, amelyek a valós helyzetnek megfelelőek, illetve a tevékenységgel kapcsolatos dokumentumokban, okmányokban szereplő adatokkal megegyezők. Az adatlapokon közölt adatok valódiságáért az adatszolgáltató felelős.
 
-A területileg (telephely szerint) illetékes Mezőgazdasági Szakigazgatási Hivatal megyei Növény- és Talajvédelmi Igazgatóságai (a továbbiakban: MGSZH NTI), illetve környezetvédelmi, természetvédelmi és vízügyi felügyelőségek az adatszolgáltatásban foglaltakat ellenőrizhetik. Ennek során az adatszolgáltatásban foglaltakat igazoló, alátámasztó dokumentumokat – az ellenőrzést végző kérésére – be kell mutatni. A hatóság felszólítására az esetleges hiányokat pótolni kell.
+A telephely szerint illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: nővény- és talajvédelmi igazgatóság), illetve környezetvédelmi, természetvédelmi és vízügyi felügyelőségek az adatszolgáltatásban foglaltakat ellenőrizhetik. Ennek során az adatszolgáltatásban foglaltakat igazoló, alátámasztó dokumentumokat – az ellenőrzést végző kérésére – be kell mutatni. A hatóság felszólítására az esetleges hiányokat pótolni kell.
 
 Az adatgyűjtés jogszabály alapján elrendelt hatósági célú adatgyűjtésnek minősül.
 
 Valótlan adatok közlése, az adatszolgáltatás megtagadása és a késedelmes adatszolgáltatás a hatályos jogszabályok szerint bírság kiszabását vonja maga után!
 
-Az adatszolgáltatáshoz szükséges adatlapok beszerezhetők a megyei MGSZH NTI-nél, a falugazdászoknál és a hatósági állatorvosoknál vagy letölthetők a Földművelésügyi és Vidékfejlesztési Minisztérium (www.fvm.hu), a Környezetvédelmi és Vízügyi Minisztérium (www.kvvm.hu), valamint az MGSZH NTI-k (www.ontsz.hu) hivatalos honlapjáról.
+Az adatszolgáltatáshoz szükséges adatlapok beszerezhetők a növény- és talajvédelmi igazgatóságnál, a falugazdászoknál és a hatósági állatorvosoknál vagy letölthetők a Vidékfejlesztési Minisztérium (www.vm.gov.hu) , valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (www.nebih.gov.hu) hivatalos honlapjáról.
 
 Az egyes adatlapokon, ha valamely adat esetében a rendelkezésre álló hely kevésnek bizonyul, szükség szerinti számban ugyanazon lap másolata szolgál pótlapként. Az adatlapokat – az esetleg szükségessé váló pótlapokat is figyelembe véve – egy adatszolgáltatás keretében folyamatos oldalszámmal kell ellátni.
 
@@ -668,4 +668,5 @@ Amennyiben egy állattartó telepen keletkezett trágya nem abban a gazdaságban
 
 A táblázat első két oszlopában kérjük jelezni, hogy trágyaátadásról vagy más gazdálkodótól történő trágyaátvételről van szó. Meg kell adni továbbá az átadott/átvett szervestrágya mennyiségét hígtrágya esetén m3-ben, istállótrágya esetén tonnában. A szervestrágya típusa rovatban a 3.2. pontban megadott táblázat kódjait kérjük, használják.
 
-[^18]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^19]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^20]: A 6. számú melléklet függeléke a 70/2013. (VII. 31.) VM rendelet 93. § b)–e) pontja szerint módosított szöveg.
