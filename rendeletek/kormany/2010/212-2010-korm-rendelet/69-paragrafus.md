@@ -8,7 +8,7 @@ c) részt vesz a gyámügyi igazgatás rendszerének kialakításában, működ�
 
 d) irányítja a gyermek- és ifjúságvédelem országos intézményeit;
 
-e) együttműködik az egyházi és más, nem állami szférába tartozó gyermek- és ifjúságvédelmi intézményekkel;
+e)[^262] együttműködik az egyházi fenntartású és nem állami fenntartású gyermek- és ifjúságvédelmi intézményekkel;
 
 f) a Kormány nevében ellátja
 
@@ -27,3 +27,4 @@ g) meghatározza a gyermek- és ifjúságvédelemhez tartozó területek szakmai
 h) meghatározza a gyermek- és ifjúságvédelemhez tartozó területen foglalkoztatottak tekintetében a közalkalmazotti jogviszonnyal összefüggő egyes speciális kérdéseket, az egyes közalkalmazotti osztályba tartozó munkaköröket, az azokhoz kapcsolódó elnevezéseket, a munkakörök betöltéséhez szükséges iskolai végzettség (képesítés) megszerzése alóli végleges mentesítés szabályait.
 
 [^261]: A 69. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (44) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^262]: A 69. § e) pontja a 297/2013. (VII. 29.) Korm. rendelet 62. § b) pontja szerint módosított szöveg.

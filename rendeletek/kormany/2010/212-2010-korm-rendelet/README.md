@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-212-20-
 | 2013-07-17 | 2010-212-20-22.52 | 277/2013. (VII. 16.) Korm. rendelet |
 | 2013-07-26 | 2010-212-20-22.53 | 266/2012. (IX. 18.) Korm. rendelet |
 | 2013-07-31 | 2010-212-20-22.54 | 271/2013. (VII. 15.) Korm. rendelet |
+| 2013-08-01 | 2010-212-20-22.55 | 297/2013. (VII. 29.) Korm. rendelet |

@@ -8,7 +8,7 @@ c) dönt az államilag támogatott mester- és doktori képzésre, valamint szak
 
 d) támogatási megállapodást köt a fenntartókkal az egyházi felsőoktatási intézményekben nem hitéleti képzésre felvehető hallgatói létszámról és a diákotthonokba felvehető államilag támogatott hallgatók számáról,
 
-e)[^227] az állami felsőoktatási intézményekben – katonai és rendvédelmi felsőoktatási intézmények kivételével – felügyeleti jogköréből adódóan ellenőrzi az intézmények gazdálkodását, a nem állami felsőoktatási intézményekben – az egyházi intézmények kivételével – az állam által rendelkezésre bocsátott eszközök felhasználásának jogszerűségét, szabályszerűségét és javaslatot tesz a szükséges intézkedésekre,
+e)[^227] az állami felsőoktatási intézményekben – katonai és rendvédelmi felsőoktatási intézmények kivételével – felügyeleti jogköréből adódóan ellenőrzi az intézmények gazdálkodását, a magán felsőoktatási intézményekben az állam által rendelkezésre bocsátott eszközök felhasználásának jogszerűségét, szabályszerűségét és javaslatot tesz a szükséges intézkedésekre,
 
 f)[^228] gyakorolja – a megbízás és felmentés, továbbá a Nemzeti Közszolgálati Egyetem kivételével – az állami felsőoktatási intézmények rektorai tekintetében a munkáltatói jogkört, továbbá a felsőoktatási törvényben előírt egyetértési, javaslattételi, véleményezési, illetőleg előterjesztői jogköröket,
 
@@ -22,6 +22,6 @@ j) kezdeményezi, elősegíti és koordinálja az irányítása alá tartozó in
 
 [^225]: Az 59. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
 [^226]: Az 59. § a) pontja a 363/2011. (XII. 30.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
-[^227]: Az 59. § e) pontjának a 363/2011. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével elrendelt módosítása, amely szerint az „a katonai és rendvédelmi felsőoktatási intézmények” szövegrész helyébe az „a Nemzeti Közszolgálati Egyetem” szöveg lép, nem vezethető át.
+[^227]: Az 59. § e) pontjának a 363/2011. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével elrendelt módosítása, amely szerint az „a katonai és rendvédelmi felsőoktatási intézmények” szövegrész helyébe az „a Nemzeti Közszolgálati Egyetem” szöveg lép, nem vezethető át. Az 59. § e) pontja a 297/2013. (VII. 29.) Korm. rendelet 62. § a) pontja szerint módosított szöveg.
 [^228]: Az 59. § f) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés b) pontja, a 363/2011. (XII. 30.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^229]: Az 59. § h) pontja a 267/2010. (XII. 3.) Korm. rendelet 40. § (38) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
