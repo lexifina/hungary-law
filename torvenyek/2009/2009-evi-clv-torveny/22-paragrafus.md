@@ -12,7 +12,7 @@ ac) úti okmányának okmányazonosítója,
 
 ad) minősített adat felhasználásához kötődő munkahelye, beosztása és feladatköre,
 
-ae) a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott biztonsági kérdőívben és szakvéleményben foglalt adatai,
+ae) nemzetbiztonsági ellenőrzése során kitöltött biztonsági kérdő ívben és a nemzetbiztonsági ellenőrzést végző szerv hozzájárulásában foglalt adatai,
 
 b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi ideje és szintje.
 
