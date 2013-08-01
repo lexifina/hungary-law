@@ -1,10 +1,10 @@
 ## A szaporító alapanyag származásigazolása
 
-14. § (1)[^33] Az 1. számú melléklet szerinti, származásigazolásra kötelezett erdészeti fajok szaporító alapanyagát arra alkalmas erdőállományban, vagy erdészeti törzsültetvényben kell begyűjteni, illetve termelni. A szaporító alapanyag begyűjtését és termelését az MgSzH ellenőrzi.
+14. § (1)[^33] Az 1. számú melléklet szerinti, származásigazolásra kötelezett erdészeti fajok szaporító alapanyagát arra alkalmas erdőállományban, vagy erdészeti törzsültetvényben kell begyűjteni, illetve termelni. A szaporító alapanyag begyűjtését és termelését a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága ellenőrzi.
 
-(2)[^34] Az MgSzH kérelemre engedélyezhet parkokban, arborétumokban, fasorokban stb. való maggyűjtést is, ha az az 1. §-ban előírt követelmények teljesülését nem veszélyezteti. Ez esetben mennyiségi és más feltételek köthetők ki a 8. § (5) bekezdése szerint.
+(2)[^34] A NÉBIH kérelemre engedélyezhet parkokban, arborétumokban, fasorokban stb. való maggyűjtést is, ha az az 1. §-ban előírt követelmények teljesülését nem veszélyezteti. Ez esetben mennyiségi és más feltételek köthetők ki a 8. § (5) bekezdése szerint.
 
-(3)[^35] A szaporító alapanyagok származását (faj/fajta/klón azonosságát) az MgSzH, illetve megbízottja igazolja alap származási igazolvány kiállításával. A forgalomba hozatal, illetve felhasználás előtt az MgSzH által kiadott, az állami ellenőrzés tényét igazoló fémzárral, illetve címkével kell ellátni:
+(3)[^35] A szaporító alapanyagok származását (faj/fajta/klón azonosságát) a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága, illetve megbízottja igazolja alap származási igazolvány kiállításával. A forgalomba hozatal, illetve felhasználás előtt a NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága által kiadott, az állami ellenőrzés tényét igazoló fémzárral, illetve címkével kell ellátni:
 
 a) a törzs-, központi és üzemi anyatelepek vegetatív szaporító alapanyagát,
 
@@ -38,6 +38,6 @@ k) vetőmag esetében a termés évét, az ezermagtömeget, a tisztasági- és c
 
 l) a szaporítóanyag géntechnológiával módosított-e.
 
-[^33]: A 14. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^34]: A 14. § (2) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^35]: A 14. § (3) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^33]: A 14. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § f) pontja szerint módosított szöveg.
+[^34]: A 14. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg. [E módosító rendelet 30. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^35]: A 14. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § f) pontja szerint módosított szöveg.

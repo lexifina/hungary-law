@@ -8,23 +8,23 @@
 
 (4) Az 1. számú mellékletben felsorolt fajok és mesterséges hibridek ültetési anyaga csak akkor forgalmazható, ha eleget tesz a 6. számú melléklet D) része, mediterrán éghajlatú régiók számára forgalmazott ültetési anyagok esetén az E) része szerinti, az ültetési anyagok küllemi tulajdonságaira vonatkozó követelményeinek.
 
-(5)[^18] Az MgSzH kérelem esetén az (1) bekezdésben foglaltak alól kivételt tehet
+(5)[^18] A NÉBIH kérelem esetén az (1) bekezdésben foglaltak alól kivételt tehet
 
 a) kísérleti, tudományos, oktatási vagy nemesítési célú szaporítóanyag,
 
 b) kiállítási vagy bemutató célú szaporítóanyag,
 
-c)[^19] az őshonos fajok génállományának megőrzésére és elszaporítására létesített, az MgSzH által nyilvántartott, a genetikai sokszínűség megőrzését célzó természetvédelmi célú növényállományok szaporítóanyaga
+c)[^19] az őshonos fajok génállományának megőrzésére és elszaporítására létesített, a NÉBIH által nyilvántartott, a genetikai sokszínűség megőrzését célzó természetvédelmi célú növényállományok szaporítóanyaga
 
 ## tekintetében.
 
-(6)[^20] Az MgSzH hiányhelyzetben meghatározott fajok, engedélyezési egységek és szaporítóanyag kategóriák esetében csökkentett követelményszintű szaporítóanyag használatát is engedélyezheti, úgy, hogy az 1. §-ban meghatározott célok ne sérüljenek. Az engedélyekben az MgSzH feltételeket és határidőket írhat elő. Az MgSzH által meghatározott feltételeket és határidőket a szaporítóanyag forgalmazója köteles közölni minden átvevővel. A szaporítóanyagot ez esetben a kérelmező és az átvevő csak az előírt módon használhatja fel.
+(6)[^20] A NÉBIH hiányhelyzetben meghatározott fajok, engedélyezési egységek és szaporítóanyag kategóriák esetében csökkentett követelményszintű szaporítóanyag használatát is engedélyezheti, úgy, hogy az 1. §-ban meghatározott célok ne sérüljenek. Az engedélyekben a NÉBIH feltételeket és határidőket írhat elő. A NÉBIH által meghatározott feltételeket és határidőket a szaporítóanyag forgalmazója köteles közölni minden átvevővel. A szaporítóanyagot ez esetben a kérelmező és az átvevő csak az előírt módon használhatja fel.
 
-(7)[^21] Az MgSzH Nemzeti szaporítóanyag-forrás jegyzéket állít össze a jóváhagyott szaporítóanyag-források engedélyezési egységeiről. A jegyzéket az erdészeti szaporítóanyagok alapanyagairól készült nemzeti jegyzékek formátumának tekintetében az 1999/105/EK tanácsi irányelv alkalmazására vonatkozó részletes szabályok megállapításáról szóló, a Bizottság 2002/1597/EK rendelete szerint kell elkészíteni.
+(7)[^21] A NÉBIH Nemzeti szaporítóanyag-forrás jegyzéket állít össze a jóváhagyott szaporítóanyag-források engedélyezési egységeiről. A jegyzéket az erdészeti szaporítóanyagok alapanyagairól készült nemzeti jegyzékek formátumának tekintetében az 1999/105/EK tanácsi irányelv alkalmazására vonatkozó részletes szabályok megállapításáról szóló, a Bizottság 2002/1597/EK rendelete szerint kell elkészíteni.
 
 (8) Genetikailag módosított erdészeti szaporítóanyaggal kapcsolatos géntechnológiai tevékenységet – így a szervezetek géntechnológiával való módosítását, a géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben történő felhasználását, a környezetbe való kibocsátását és a forgalomba hozatalát, illetve az országba történő behozatalát, külföldre történő kivitelét, valamint szállítását – a vonatkozó külön jogszabályok előírásai alapján lehet végezni. A részben vagy egészben géntechnológiával módosított szervezetekből álló erdészeti szaporítóanyagot e feltétel teljesülése esetén csak akkor lehet forgalmazni, ha a vizsgált kategóriába tartozik, és megfelel a 3. és 4. számú mellékletben foglaltaknak.
 
-[^18]: A 8. § (5) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^19]: A 8. § (5) bekezdés c) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^20]: A 8. § (6) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 8. § (7) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 8. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^19]: A 8. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^20]: A 8. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) és d) pontja szerint módosított szöveg.
+[^21]: A 8. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg. [E módosító rendelet 30. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]

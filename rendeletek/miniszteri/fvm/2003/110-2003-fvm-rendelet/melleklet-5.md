@@ -34,7 +34,7 @@
 
 ## 1.7. A kísérletek öleljék fel a fajta alapfaja számára jelentősnek ítélt termőhelytípus-csoportok minél szélesebb körét. A speciális termőhelyre szánt fajtáknál a kísérletek súlypontja az adott speciális körülményre essen. A fajtákat a részükre legfontosabb erdőgazdasági tájakban, az ott leggyakoribb termőhelytípusokon kell kipróbálni. A kísérleti területen részletes termőhelyfeltárást kell végezni.
 
-## 1.8.[^76] A kísérleteket az 5. pont szerint nyilván kell tartani. Létesítésüket a kivitel évében be kell jelenteni az MgSzH-nak.
+## 1.8.[^77] A kísérleteket az 5. pont szerint nyilván kell tartani. Létesítésüket a kivitel évében be kell jelenteni a NÉBIH-nek.
 
 ## 2. A kísérlettípusok
 
@@ -270,7 +270,7 @@
 
 ## 5.3. Minden nemesítő intézmény köteles az általa létesített kísérletekről a kísérleti leírásokat tartalmazó nyilvántartást vezetni.
 
-## 5.4.[^77] Az erdészeti kísérletekről az MgSzH országos nyilvántartást vezet. Szaporításra engedélyezés, illetve fajtaelismerés csak olyan kísérletek alapján történhet, amelyek az MgSzH tudomására és nyilvántartásába kerültek, és a szakmai követelményeknek megfelelőnek bizonyultak.
+## 5.4.[^78] Az erdészeti kísérletekről a NÉBIH országos nyilvántartást vezet. Szaporításra engedélyezés, illetve fajtaelismerés csak olyan kísérletek alapján történhet, amelyek a NÉBIH tudomására és nyilvántartásába kerültek, és a szakmai követelményeknek megfelelőnek bizonyultak.
 
 ## 5.5. A kísérletekről a kísérleti leírással és a kísérlet bejelentő és nyilvántartó lappal egyidejűleg kísérleti naplót kell vezetni. A kísérleti naplóba folyamatosan be kell jegyezni minden lényeges eseményt, tevékenységet, illetve erdőművelési beavatkozást.
 
@@ -334,9 +334,9 @@
 
 ## c) gazdaságilag jelentős tulajdonságai alapján előnyei, igényei megállapítását.
 
-## 8.1.3.[^78] A fajtánként súlypontosan kezelendő tulajdonságcsoportokat (az alapfaj, a genetikai fajtajelleg stb. figyelembevételével), és a kísérletek értékelésénél alkalmazott biometriai módszereket a nemesítővel egyeztetve az MgSzH határozza meg.
+## 8.1.3.[^79] A fajtánként súlypontosan kezelendő tulajdonságcsoportokat (az alapfaj, a genetikai fajtajelleg stb. figyelembevételével), és a kísérletek értékelésénél alkalmazott biometriai módszereket a nemesítővel egyeztetve az MgSzH határozza meg.
 
-## 8.1.4.[^79] Az adatokat a statisztikai értékelést segítő egységes űrlapon kell felvenni. Törekedni kell a helyszíni elektronikus adatrögzítés kialakítására, módszertani egyeztetés alapján az MgSzH elektronikus adatrögzítő eszközön is fogad adatokat.
+## 8.1.4.[^80] Az adatokat a statisztikai értékelést segítő egységes űrlapon kell felvenni. Törekedni kell a helyszíni elektronikus adatrögzítés kialakítására, módszertani egyeztetés alapján a NÉBIH elektronikus adatrögzítő eszközön is fogad adatokat.
 
 ## 8.1.5. A rendszeres adatfelvételezés tegye lehetővé egy-egy kísérlet szabatos matematikai-statisztikai értékelését, a benne lévő valamennyi kezelés összehasonlítását, a rangsor felállítását, továbbá egységes módszerével biztosítsa a kísérletek egymással való reális összehasonlíthatóságát is.
 
@@ -354,9 +354,9 @@
 
 ## f) a tervezett vágáskor fele időpontjában.
 
-## 8.1.7.[^80] A már minősített, de tartamkísérletekben továbbra is megfigyelt fajtákról való adatközlést az MgSzH a fajtafenntartás időarányos teljesítése alapfeltételének tekinti és ismeri el.
+## 8.1.7.[^81] A már minősített, de tartamkísérletekben továbbra is megfigyelt fajtákról való adatközlést a NÉBIH a fajtafenntartás időarányos teljesítése alapfeltételének tekinti és ismeri el.
 
-## 8.1.8.[^81] Meg kell szervezni a kísérleti adatok tárolásának számítógépes rendszerét. A rendszert az MgSzH-val egyeztetve célszerű kialakítani.
+## 8.1.8.[^82] Meg kell szervezni a kísérleti adatok tárolásának számítógépes rendszerét. A rendszert a NÉBIH-hel egyeztetve célszerű kialakítani.
 
 ## 8.2. A fajtabélyegek és a DUS vizsgálatok
 
@@ -430,7 +430,7 @@
 
 ## 8.3.3. Beltartalmi értékek
 
-## 8.3.3.1.[^82] Bejelentéskor legalább fiatalkori faminőségi adatokkal kell rendelkezni. Nemesnyár, fűz és akác klónfajtáknál, valamint azon fajták esetében, amelyeket különleges faminőségi feltétel alapján terveznek a választékba illeszteni, az MgSzH által kialakított metodikájú faminőségvizsgálat szükséges.
+## 8.3.3.1.[^83] Bejelentéskor legalább fiatalkori faminőségi adatokkal kell rendelkezni. Nemesnyár, fűz és akác klónfajtáknál, valamint azon fajták esetében, amelyeket különleges faminőségi feltétel alapján terveznek a választékba illeszteni, a NÉBIH által kialakított metodikájú faminőségvizsgálat szükséges.
 
 ## 8.3.3.2. Vizsgálni kell:
 
@@ -462,10 +462,10 @@
 
 5. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
 
-[^76]: A 4. számú melléklet 1.8. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^77]: A 4. számú melléklet 5.4. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^78]: A 4. számú melléklet 8.1.3. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^79]: A 4. számú melléklet 8.1.4. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^80]: A 4. számú melléklet 8.1.7. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^81]: A 4. számú melléklet 8.1.8. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés i) pontjával megállapított szöveg.
-[^82]: A 4. számú melléklet 8.3.3.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^77]: A 4. számú melléklet 1.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
+[^78]: A 4. számú melléklet 5.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^79]: A 4. számú melléklet 8.1.3. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^80]: A 4. számú melléklet 8.1.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^81]: A 4. számú melléklet 8.1.7. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^82]: A 4. számú melléklet 8.1.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § o) pontja szerint módosított szöveg.
+[^83]: A 4. számú melléklet 8.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.

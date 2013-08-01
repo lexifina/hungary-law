@@ -2,7 +2,7 @@
 
 ## AZ ELLENŐRZÉS SZABÁLYAI
 
-25. § (1)[^70] Az MgSzH köteles ellenőrizni az erdészeti szaporítóanyagokra vonatkozó jogszabályok és szabványok megtartását.
+25. § (1)[^71] A NÉBIH köteles ellenőrizni az erdészeti szaporítóanyagokra vonatkozó jogszabályok és szabványok megtartását.
 
 (2) Az ellenőrzés a szaporítóanyag előállítására terjed ki, különös tekintettel a származás és fajtaazonosság által meghatározott, biológiai-genetikai ,,nem látható'' minőségre.
 
@@ -28,4 +28,4 @@ h) minőségvédelmi bírság kiszabására.
 
 (5) Az ellenőrzéseket a hatóságnak úgy kell végrehajtania, hogy a megmintázott szaporítóanyag ne károsodjon és a szállítás indokolatlan késedelmet ne szenvedjen.
 
-[^70]: A 25. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^71]: A 25. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.

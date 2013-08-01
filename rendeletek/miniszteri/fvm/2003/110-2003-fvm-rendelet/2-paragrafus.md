@@ -38,9 +38,9 @@
 
 18. erdőgazdálkodó: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. §-ának (1) bekezdése szerinti erdőtulajdonos vagy az erdőgazdálkodási tevékenységet folytató jogszerű használó,
 
-19.[^2] erdészeti csemetekert: erdészeti szaporítóanyag előállítására, nevelésére, tárolására szolgáló, az MgSzH által engedélyezett és bejegyzett terület (faiskola), a rajta lévő létesítményekkel és növényállománnyal,
+19.[^2] erdészeti csemetekert: erdészeti szaporítóanyag előállítására, nevelésére, tárolására szolgáló, a NÉBIH által engedélyezett és bejegyzett terület (faiskola), a rajta lévő létesítményekkel és növényállománnyal,
 
-20.[^3] bejegyzett magbegyűjtőhely: az MgSzH által bejegyzett, átmeneti magtárolásra alkalmas hely, ahol a begyűjtött mag, makk felvásárlása, átvétele, készletezése, feldolgozása történik,
+20.[^3] bejegyzett magbegyűjtőhely: a NÉBIH által bejegyzett, átmeneti magtárolásra alkalmas hely, ahol a begyűjtött mag, makk felvásárlása, átvétele, készletezése, feldolgozása történik,
 
 21. import: harmadik országból az Európai Unióba végzett beszállítás,
 
@@ -50,7 +50,7 @@
 
 24. szaporítóanyag választék: valamely szaporítóanyag azon tulajdonsága, amelyet a nevelési technológia és a kor jellemez (például 2 éves alávágott magágyi csemete),
 
-25.[^4] zárlat alatti termesztés: Magyarországon szakmai előírás szerint fel nem használható külföldről származó szaporítóanyag előállítása külföldi értékesítés céljára az MgSzH külön engedélye alapján, zárlat alatt; a szaporítóanyagot teljes egészében ki, illetve át kell szállítani, vagy meg kell semmisíteni,
+25.[^4] zárlat alatti termesztés: Magyarországon szakmai előírás szerint fel nem használható külföldről származó szaporítóanyag előállítása külföldi értékesítés céljára a NÉBIH külön engedélye alapján, zárlat alatt; a szaporítóanyagot teljes egészében ki, illetve át kell szállítani, vagy meg kell semmisíteni,
 
 26. származási igazolvány: a forgalomba hozható szaporítóanyag klón- vagy származásazonosságát, kategóriáját igazoló okirat,
 
@@ -104,6 +104,6 @@
 
 51. törzsanyatelep: évente visszavágott, juvenilis állapotban tartott klóngyűjtemény.
 
-[^2]: A 2. § 19. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^3]: A 2. § 20. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^4]: A 2. § 25. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^2]: A 2. § 19. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § 20. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 25. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
