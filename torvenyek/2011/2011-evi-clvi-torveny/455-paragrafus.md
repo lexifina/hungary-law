@@ -26,7 +26,7 @@ d) az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni c
 
 e) a gazdálkodó szervezet és a tanuló között tanulószerződés alapján fennálló jogviszony;
 
-f) az egyház és az egyházi szolgálatot teljesítő egyházi személy között fennálló, az egyházi szolgálat teljesítése alapjául szolgáló jogviszony;
+f) az egyházi jogi személy és az egyházi szolgálati viszonyban álló egyházi személy között fennálló jogviszony;
 
 g)
 
@@ -34,7 +34,7 @@ h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevé
 
 (3) Nem eredményez adófizetési kötelezettséget
 
-a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
+a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
 
 b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony;
 

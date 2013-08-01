@@ -2,7 +2,7 @@
 
 ## A munkabérek nettó értékének megőrzését célzó adókedvezmény
 
-460. § (1) A költségvetési szervnek, valamint az egyházi fenntartású, közfeladatot ellátó egészségügyi, oktatási, szociális, valamint közgyűjteményi és közművelődési szolgáltatást nyújtó intézménynek nem minősülő kifizető az őt az adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe, amennyiben a munkabérek elvárt emeléséről szóló kormányrendelet szerinti elvárt béremelést – ide nem értve az elvárt béremelésnek akár csak részben is béren kívüli juttatás formájában történő megvalósítását – valamennyi folyamatosan foglalkoztatott munkavállalója tekintetében végrehajtotta.
+460. § (1) A költségvetési szervnek, valamint az egyházi jogi személy által fenntartott, közfeladatot ellátó egészségügyi, oktatási, szociális, valamint közgyűjteményi és közművelődési szolgáltatást nyújtó intézménynek nem minősülő kifizető az őt az adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe, amennyiben a munkabérek elvárt emeléséről szóló kormányrendelet szerinti elvárt béremelést – ide nem értve az elvárt béremelésnek akár csak részben is béren kívüli juttatás formájában történő megvalósítását – valamennyi folyamatosan foglalkoztatott munkavállalója tekintetében végrehajtotta.
 
 (2) Az (1) bekezdés szerinti kifizető az adókedvezményt az adóév egészében, de csak az olyan hónapra fizetendő adó megállapításánál, veheti igénybe, amelyre vonatkozóan az (1) bekezdés szerinti feltétel (a legalább a kormányrendelet szerint 2012-re elvárt mértékű béremelés) valamennyi folyamatosan foglalkoztatott munkavállalóját az adott hónapra megillető munkabér tekintetében teljesül.
 

@@ -6,7 +6,7 @@
 
 2. egyéni vállalkozó: a személyi jövedelemadóról szóló törvény szerint egyéni vállalkozónak minősülő természetes személy (az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy akkor is, ha a nyilvántartásban rögzített tevékenysége ingatlan-bérbeadás vagy egyéb szálláshely-szolgáltatás), valamint a gyógyszerészeti magántevékenységet, falugondnoki tevékenységet, tanyagondnoki tevékenységet végző természetes személy, a szociális szolgáltató tevékenység folytatásához szükséges engedéllyel rendelkező természetes személy;
 
-3. egyházi személy: az egyház belső törvénye vagy szabályzata alapján ilyennek minősülő természetes személy;
+3.
 
 4. harmadik állam: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben ilyenként meghatározott állam;
 
