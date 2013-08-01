@@ -1,0 +1,21 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés o) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+a 2. alcím tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (5) bekezdés g) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+a 3. alcím tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (5) bekezdés j), p) és r) pontjában, továbbá a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló 159/2005. (VIII. 16.) Korm. rendelet 12. § (3) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+a 4. alcím tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (5) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+az 5. alcím tekintetében a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (2) bekezdés c) és f) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+a 6. alcím tekintetében a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (2) bekezdés i) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+a 7. alcím tekintetében a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (2) bekezdés b) és e) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+a 8. alcím és a 45. § tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés k) pont ka) alpontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva,
+
+a 9. alcím tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (6) bekezdés e) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § b) pontjában meghatározott feladatkörömben eljárva,
+
+a 46. § tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (5) bekezdés f) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § ) pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:

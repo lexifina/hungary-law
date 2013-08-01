@@ -1,0 +1,3 @@
+## 26. § Az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: 52/2005. EüM rendelet) 33. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A jogosult a gyógyszer kereskedelmi forgalomba hozatalát megelőzően köteles a gyógyszer – első forgalomba hozatalra szánt gyártási tételéből származó – végleges mintáját vagy mintájának fényképét a GYEMSZI részére megküldeni. A GYEMSZI a végleges mintát – az átvételétől számított 8 napon belül – megvizsgálja. Ha a vizsgálat eredményeként a GYEMSZI azt állapítja meg, hogy a minta nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek, a gyógyszer nem hozható forgalomba.”

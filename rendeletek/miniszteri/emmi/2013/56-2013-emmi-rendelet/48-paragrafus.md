@@ -1,0 +1,3 @@
+48. § (1) Ez a rendelet a más tagállamban kiállított orvosi rendelvények elismerésének megkönnyítésére irányuló intézkedésekről szóló 2012. december 20-i 2012/52/EU bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
+
+(2) Ez a rendelet a 90/385/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított aktív beültethető orvostechnikai eszközök vonatkozásában és a 93/42/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított orvostechnikai eszközök vonatkozásában előírt követelmények tekintetében meghatározott különleges követelményekről szóló 2012. augusztus 8-i 722/2012/EU bizottsági rendelet végrehajtását szolgálja.
