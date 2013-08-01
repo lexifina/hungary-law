@@ -6,4 +6,4 @@
 
 (3) A támogatás odaítéléséről szóló határozatot az MVH és a támogatott köteles tíz évig megőrizni.
 
-[^18]: A 8. § (2) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^18]: A 8. § (2) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (3) bekezdése szerint módosított szöveg. [A 70/2012. (VII. 31.) VM rendelet 91. § f) pontjával elrendelt módosítás, amely szerint az „MgSzH-hoz” szövegrész helyébe az „a földművelésügyi igazgatósághoz” szöveg lép, nem vezethető át.]

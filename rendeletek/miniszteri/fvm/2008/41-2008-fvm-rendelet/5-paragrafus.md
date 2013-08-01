@@ -28,7 +28,7 @@ eb) nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 
 ec) nem minősül nehéz helyzetben lévő vállalkozásnak.
 
-(2)[^9] A termeltetőként történő bejegyzés iránti kérelmet az MgSzH-hoz az 1. számú melléklet szerinti adattartalmú, az NÉBIH által rendszeresített, az NÉBIH honlapján közzétett, kötelezően alkalmazandó formanyomtatványon lehet benyújtani.
+(2)[^9] A termeltetőként történő bejegyzés iránti kérelmet a termeltető székhelye szerint illetékes megyei kormányhivatal földművelésügyi igazgatóságához (a továbbiakban: földművelésügyi igazgatóság) az 1. számú melléklet szerinti adattartalmú, az NÉBIH által rendszeresített, az NÉBIH honlapján közzétett, kötelezően alkalmazandó formanyomtatványon lehet benyújtani.
 
 (3) A bejegyzési kérelemhez csatolni kell az e rendelet hatálybalépését követően megkötött, vagy e rendeletnek megfelelően módosított termeltetési szerződést.
 
@@ -46,11 +46,11 @@ d) a vételárat olyan módon határozzák meg, ami a szerződés egész időtar
 
 (6)[^11] A bejegyzési kérelemben, valamint a termeltetési szerződésben foglaltak alapján az NÉBIH a termeltetőt nyilvántartásba veszi.
 
-(7)[^12] Amennyiben a termeltetői bejegyzés alapjául szolgáló adatokban változás történik, azt a termeltetőnek tizenöt napon belül be kell jelentenie az MgSzH-nál. Az új adatok alapján az NÉBIH köteles a termeltetői bejegyzésre való jogosultságot felülvizsgálni.
+(7)[^12] Amennyiben a termeltetői bejegyzés alapjául szolgáló adatokban változás történik, azt a termeltetőnek tizenöt napon belül be kell jelentenie a földművelésügyi igazgatóságnál. Az új adatok alapján az NÉBIH köteles a termeltetői bejegyzésre való jogosultságot felülvizsgálni.
 
 [^7]: Az 5. § (1) bekezdés a) pontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^8]: Az 5. § (1) bekezdés c) pontja a 60/2011. (VI. 30.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 5. § (2) bekezdése a 60/2011. (VI. 30.) VM rendelet 4. § (2) bekezdésével megállapított, a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^9]: Az 5. § (2) bekezdése a 60/2011. (VI. 30.) VM rendelet 4. § (2) bekezdésével megállapított, a 70/2012. (VII. 31.) VM rendelet 91. § a) pontja szerint módosított szöveg.
 [^10]: Az 5. § (5) bekezdése a 171/2009. (XII. 22.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^11]: Az 5. § (6) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^12]: Az 5. § (7) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^11]: Az 5. § (6) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg. [A 70/2012. (VII. 31.) VM rendelet 91. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a földművelésügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^12]: Az 5. § (7) bekezdése a 42/2012. (V. 3.) VM rendelet 2. § (2) bekezdése, a 70/2012. (VII. 31.) VM rendelet 91. § c) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 91. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a földművelésügyi igazgatóság” szöveg lép, nem vezethető át.]
