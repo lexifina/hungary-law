@@ -1,6 +1,6 @@
 ## A működési engedély visszavonása
 
-10. §[^130] (1) A működést engedélyező szerv a működési engedélyt visszavonja
+10. §[^135] (1) A működést engedélyező szerv a működési engedélyt visszavonja
 
 a) a fenntartó – jogszabályoknak és az ellátási szerződésben foglaltaknak megfelelő – kérelmére,
 
@@ -20,7 +20,7 @@ c) a szolgáltató (intézmény, hálózat) a szolgáltató tevékenységek vég
 
 (3) Az ellátási kötelezettséget teljesítő állami fenntartó kérelmére a működési engedély akkor vonható vissza, ha az ellátott gyermekekről megfelelően gondoskodott.
 
-(4) Az egyházi, a nem állami és az ellátási kötelezettséget teljesítőnek nem minősülő állami fenntartó kérelmére a működési engedély akkor vonható vissza, ha
+(4)[^136] Az egyházi, a nem állami és az ellátási kötelezettséget teljesítőnek nem minősülő állami fenntartó kérelmére a működési engedély akkor vonható vissza, ha
 
 a) a 8/A. § (4) bekezdése szerinti bejelentési kötelezettségének határidőben eleget tett, vagy
 
@@ -34,4 +34,5 @@ b) a fenntartó egyéni vállalkozó cselekvőképességet kizáró vagy korlát
 
 c) ha a fenntartó egyéni vállalkozó egyéni céget alapított, vagy átruházással megszerezte az egyéni cég vagyoni betétjét, és határidőben benyújtott kérelmére a fenntartóváltozást engedélyezik.
 
-[^130]: A 10. § a 320/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (5)–(7) bekezdését.
+[^135]: A 10. § a 320/2009. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (5)–(7) bekezdését.
+[^136]: [A 10. § (4) bekezdésének a 297/2013. (VII. 29.) Korm. rendelet 24. § d) pontjával elrendelt módosítása, amely szerint az „egyházi, nem állami” szövegrész helyébe az „egyházi fenntartó, a nem állami fenntartó” szöveg lép, nem vezethető át.]

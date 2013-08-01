@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-259-20-
 | 2013-01-01 | 2002-259-20-22.32 | 349/2012. (XII. 12.) Korm. rendelet |
 | 2013-02-01 | 2002-259-20-22.33 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-04-01 | 2002-259-20-22.34 | 98/2013. (III. 29.) Korm. rendelet |
+| 2013-08-01 | 2002-259-20-22.35 | 297/2013. (VII. 29.) Korm. rendelet |
