@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-62-00-00
 | 2012-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-62-00-00.10 |
 | 2013-03-01 | 2012. évi CCVII. törvény | 2001-62-00-00.11 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2001-62-00-00.12 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 2001-62-00-00.13 |
