@@ -1,6 +1,6 @@
 ## Az NRL feladatai
 
-17. § (1) Az NRL feladatait az MgSzH Központ Állategészségügyi Diagnosztikai Igazgatóságának budapesti laboratóriuma látja el.
+17. § (1)[^37] Az NRL feladatait a NÉBIH Állategészségügyi Diagnosztikai Igazgatóságának budapesti laboratóriuma látja el.
 
 (2) Az NRL a (4) bekezdésben foglalt kivétellel kizárólagosan végzi az e rendeletben előírt hatósági laboratóriumi vizsgálatokat.
 
@@ -24,4 +24,7 @@ dd) az országban megállapított esetekből Newcastle-betegség-vírusizolátum
 
 e) kapcsolatot tart a Közösségi Referencia Laboratóriummal.
 
-(4) Az MgSzH Központ maximum 5 év időtartamra más laboratóriumnak is engedélyt adhat a rendeletben előírt laboratóriumi vizsgálatok elvégzésére, kivéve a betegség megállapítását.
+(4)[^38] A NÉBIH maximum 5 év időtartamra más laboratóriumnak is engedélyt adhat a rendeletben előírt laboratóriumi vizsgálatok elvégzésére, kivéve a betegség megállapítását.
+
+[^37]: A 17. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § c) pontja szerint módosított szöveg.
+[^38]: A 17. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.

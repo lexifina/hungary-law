@@ -20,7 +20,7 @@ h) a c)–e) pontban felsorolt műveletek elvégzését követően a baromfi tar
 
 i) a h) pontban leírt takarítást és szigorított fertőtlenítést követő legalább 21 napig tilos a gazdaságba baromfit bevinni.
 
-(2)[^2] A helyi zárlat alatt álló gazdaságban valamely más, fogságban tartott madár leölése alól az alábbi feltételek teljesülése esetén a járási főállatorvos felmentést ad, amennyiben az a járványügyi védekezés eredményességét nem veszélyezteti:
+(2)[^7] A helyi zárlat alatt álló gazdaságban valamely más, fogságban tartott madár leölése alól az alábbi feltételek teljesülése esetén a járási főállatorvos felmentést ad, amennyiben az a járványügyi védekezés eredményességét nem veszélyezteti:
 
 a) a madarat a telepen haladéktalanul elkülönítik és legalább 30 napig a többi fogékony állattól megfelelően elkülönítve tartják;
 
@@ -32,4 +32,4 @@ bb) az elkülönítés 21. napján vett mintából az ellenanyagok kimutatásár
 
 (3) Amennyiben a (2) bekezdés b) pontja szerinti valamely vizsgálat kétes vagy pozitív eredményt ad, vagy a madár a Newcastle-betegség tüneteit mutatja, az állatot haladéktalanul le kell ölni és meg kell semmisíteni.
 
-[^2]: A 6. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.
+[^7]: A 6. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 38. § b) pontja szerint módosított szöveg.

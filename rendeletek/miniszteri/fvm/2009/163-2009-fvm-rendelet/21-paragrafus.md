@@ -26,6 +26,8 @@ dc) a legalább 21 nappal korábban vakcinázott tenyészbaromfiból származó 
 
 (4) A (3) bekezdés b) és d) pontja szerinti intézkedéseket a sürgősségi vakcinázási műveletek végrehajtását követő három hónapig kell alkalmazni; ezeket az országos főállatorvos további egy vagy több három hónapos időszakkal meghosszabbíthatja.
 
-(5) A (3) bekezdés a) és b) pontjában foglalt kötelezettségek alól az MgSzH Központ mentesítheti a tudományos szempontból különös értékkel bíró állományokat, feltéve, hogy az összes szükséges járványügyi intézkedést megteszi egészségük védelmének biztosítására, illetve rendszeres szerológiai ellenőrzés alá vonja ezeket.
+(5)[^44] A (3) bekezdés a) és b) pontjában foglalt kötelezettségek alól a NÉBIH mentesítheti a tudományos szempontból különös értékkel bíró állományokat, feltéve, hogy az összes szükséges járványügyi intézkedést megteszi egészségük védelmének biztosítására, illetve rendszeres szerológiai ellenőrzés alá vonja ezeket.
 
 (6) A sürgősségi vakcinázás végrehajtásának részletes szabályait a készenléti terv tartalmazza.
+
+[^44]: A 21. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § c) pontja szerint módosított szöveg.

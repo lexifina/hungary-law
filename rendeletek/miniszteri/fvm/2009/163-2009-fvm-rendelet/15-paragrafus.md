@@ -1,6 +1,6 @@
-## Az MgSzH Központ feladatai
+## A NÉBIH feladatai[^31]
 
-15. § (1) Az MgSzH Központ Newcastle-betegség elleni országos készenléti tervet készít a járvány kitörése esetén végrehajtandó intézkedések, valamint a védekezésben résztvevők feladatainak pontos meghatározása és összehangolása érdekében.
+15. § (1)[^32] A NÉBIH Newcastle-betegség elleni országos készenléti tervet készít a járvány kitörése esetén végrehajtandó intézkedések, valamint a védekezésben résztvevők feladatainak pontos meghatározása és összehangolása érdekében.
 
 (2) A készenléti terv legalább a következőket tartalmazza:
 
@@ -26,13 +26,13 @@ j) a megelőző immunizálások hatékonyságának ellenőrzésére irányuló m
 
 k) rendelkezések a készenléti terv végrehajtására.
 
-(3) Az MgSzH Központ a Newcastle-betegségre vonatkozó készenléti tervet – valamint annak módosításait, kiegészítéseit – jóváhagyásra megküldi az Európai Bizottságnak.
+(3)[^33] A NÉBIH a Newcastle-betegségre vonatkozó készenléti tervet – valamint annak módosításait, kiegészítéseit – jóváhagyásra megküldi az Európai Bizottságnak.
 
-(4) Az MgSzH Központ a honlapján az NRL nevét, címét, elérhetőségét más tagállamok és a nyilvánosság számára elérhetővé teszi.
+(4)[^34] A NÉBIH a honlapján az NRL nevét, címét, elérhetőségét más tagállamok és a nyilvánosság számára elérhetővé teszi.
 
 (5) A betegség kitörése esetén az OJK
 
-a) ellenőrzi az MgSzH területi szerveinek intézkedéseit, szükség esetén azokat kiegészíti vagy módosítja;
+a)[^35] ellenőrzi az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságok intézkedéseit, szükség esetén azokat kiegészíti vagy módosítja;
 
 b) összehangolja és irányítja a járványfelszámolási munkát;
 
@@ -44,4 +44,11 @@ e) naprakészen tartja az ország területén található védő- és megfigyel�
 
 f) amennyiben a védő- és megfigyelési körzetek több tagállam területét érintik, a körzetek határának kijelölésénél együttműködik az érintett tagállamok hatáskörrel rendelkező hatóságaival.
 
-(6) Az MgSzH Központ vizsgálja a megelőző célzattal használt vagy a sürgősségi esetekre készletezett vakcinákat hatékonyság, ártalmatlanság és sterilitás tekintetében.
+(6)[^36] A NÉBIH vizsgálja a megelőző célzattal használt vagy a sürgősségi esetekre készletezett vakcinákat hatékonyság, ártalmatlanság és sterilitás tekintetében.
+
+[^31]: A 15. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
+[^32]: A 15. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
+[^33]: A 15. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
+[^34]: A 15. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
+[^35]: A 15. § (5) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 114. § k) pontja szerint módosított szöveg.
+[^36]: A 15. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.

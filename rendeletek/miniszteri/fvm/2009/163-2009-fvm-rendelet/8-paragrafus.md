@@ -4,10 +4,13 @@ a) a körzet fő közlekedési útjain jól látható „Megfigyelési körzet N
 
 b) a baromfiszállítás tilos, kivéve a fő közutakon és vasútvonalakon történő, megállás nélküli (tranzit) szállítást;
 
-c) a körzet kijelölését követő első 15 napban tilos a megfigyelési körzetből a baromfi kiszállítása, kivéve az azonnali levágás céljából, közvetlenül az MgSzH területi szerve által kijelölt, a megfigyelési körzeten kívüli vágóhídra történő szállítást. Az ilyen baromfihúst az emberi fogyasztásra szánt állati eredetű termékek előállítására, feldolgozására, forgalmazására és behozatalára vonatkozó állategészségügyi követelmények megállapításáról szóló külön jogszabályban meghatározott, friss húsra vonatkozó állat-egészségügyi jelöléssel kell ellátni;
+c)[^13] a körzet kijelölését követő első 15 napban tilos a megfigyelési körzetből a baromfi kiszállítása, kivéve az azonnali levágás céljából, közvetlenül az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt, a megfigyelési körzeten kívüli vágóhídra történő szállítást. Az ilyen baromfihúst az emberi fogyasztásra szánt állati eredetű termékek előállítására, feldolgozására, forgalmazására és behozatalára vonatkozó állategészségügyi követelmények megállapításáról szóló külön jogszabályban meghatározott, friss húsra vonatkozó állat-egészségügyi jelöléssel kell ellátni;
 
-d) tilos a megfigyelési körzetből a keltetőtojások kivitele, kivéve az MgSzH területi szerve által kijelölt keltetőbe történő szállítást; elszállítás előtt a tojásokat és a csomagolóanyagukat fertőtleníteni kell;
+d)[^14] tilos a megfigyelési körzetből a keltetőtojások kivitele, kivéve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt keltetőbe történő szállítást; elszállítás előtt a tojásokat és a csomagolóanyagukat fertőtleníteni kell;
 
 e) tilos a baromfival vagy más madárral kapcsolatos vásár, piac, kiállítás és más hasonló rendezvény tartása;
 
 f) tilos baromfitól származó használt alom, trágya megfigyelési körzetből történő kiszállítása.
+
+[^13]: A 8. § c) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja szerint módosított szöveg.
+[^14]: A 8. § d) pontja a 70/2013. (VII. 31.) VM rendelet 114. § d) pontja szerint módosított szöveg.
