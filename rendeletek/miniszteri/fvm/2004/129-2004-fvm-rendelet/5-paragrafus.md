@@ -1,4 +1,4 @@
-5. § (1)[^10] A tenyésztési hatóság ellenőrzi, hogy
+5. § (1)[^11] A tenyésztési hatóság ellenőrzi, hogy
 
 a) a behozatal az előzetes bejelentésben foglaltak szerint valósult-e meg;
 
@@ -10,7 +10,7 @@ d) a törzskönyvezés feltételei biztosítottak-e;
 
 e) a bejelentést a behozatalt követően 30 napon belül megtették-e, ha a behozatalt fajtaelismerésre irányuló eljárás követi.
 
-(2)[^11] A tenyésztési hatóság az (1) bekezdés szerinti ellenőrzést az Európai Unió tagállamából történő behozatal esetén szúrópróbaszerűen, illetve bejelentés alapján, harmadik országból történő behozatal esetén pedig minden esetben – kivéve, ha külön jogszabály vagy államközi egyezmény másképpen nem rendelkezik – elvégzi.
+(2)[^12] A tenyésztési hatóság az (1) bekezdés szerinti ellenőrzést az Európai Unió tagállamából történő behozatal esetén szúrópróbaszerűen, illetve bejelentés alapján, harmadik országból történő behozatal esetén pedig minden esetben – kivéve, ha külön jogszabály vagy államközi egyezmény másképpen nem rendelkezik – elvégzi.
 
-[^10]: Az 5. § (1) bekezdésének bevezető szövegrésze a 84/2007. (VIII. 10.) FVM rendelet 6. §-a szerint módosított szöveg.
-[^11]: Az 5. § (2) bekezdése a 84/2007. (VIII. 10.) FVM rendelet 4. §-ával megállapított szöveg.
+[^11]: Az 5. § (1) bekezdésének bevezető szövegrésze a 84/2007. (VIII. 10.) FVM rendelet 6. §-a szerint módosított szöveg.
+[^12]: Az 5. § (2) bekezdése a 84/2007. (VIII. 10.) FVM rendelet 4. §-ával megállapított szöveg.

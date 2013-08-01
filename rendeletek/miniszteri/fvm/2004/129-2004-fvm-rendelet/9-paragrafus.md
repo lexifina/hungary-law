@@ -12,12 +12,12 @@ e) a Tanács 94/28/EK irányelve a harmadik országokból származó állatok, a
 
 f) a Bizottság 2004/186/EK határozata a 96/510/EK határozat egyes mellékleteinek a lófélék spermája, petesejtjei és embriói behozatalára vonatkozó tenyésztéstechnikai követelmények tekintetében történő módosításáról
 
-g)[^16] a Tanács 90/425/EGK (1990. június 26.) irányelve az egyes élőállatok és állati termékek Közösségen belüli kereskedelmében a belső piac megvalósításának céljával alkalmazandó állat-egészségügyi és tenyésztéstechnikai ellenőrzésekről
+g)[^17] a Tanács 90/425/EGK (1990. június 26.) irányelve az egyes élőállatok és állati termékek Közösségen belüli kereskedelmében a belső piac megvalósításának céljával alkalmazandó állat-egészségügyi és tenyésztéstechnikai ellenőrzésekről
 
-h)[^17] a Tanács 88/407/EGK irányelve a szarvasmarhafajba tartozó háziállatok mélyhűtött spermájának Közösségen belüli kereskedelmére és behozatalára alkalmazandó állat-egészségügyi követelmények megállapításáról,
+h)[^18] a Tanács 88/407/EGK irányelve a szarvasmarhafajba tartozó háziállatok mélyhűtött spermájának Közösségen belüli kereskedelmére és behozatalára alkalmazandó állat-egészségügyi követelmények megállapításáról,
 
-i)[^18] a Tanács 90/429/EGK irányelve a sertéssperma Közösségen belüli kereskedelmére és behozatalára alkalmazandó állat-egészségügyi követelmények megállapításáról.
+i)[^19] a Tanács 90/429/EGK irányelve a sertéssperma Közösségen belüli kereskedelmére és behozatalára alkalmazandó állat-egészségügyi követelmények megállapításáról.
 
-[^16]: A 9. § g) pontját a 84/2007. (VIII. 10.) FVM rendelet 7. §-a iktatta be.
-[^17]: A 9. § h) pontját a 28/2010. (XI. 9.) VM rendelet 3. § (6) bekezdése iktatta be.
-[^18]: A 9. § i) pontját a 28/2010. (XI. 9.) VM rendelet 3. § (6) bekezdése iktatta be.
+[^17]: A 9. § g) pontját a 84/2007. (VIII. 10.) FVM rendelet 7. §-a iktatta be.
+[^18]: A 9. § h) pontját a 28/2010. (XI. 9.) VM rendelet 3. § (6) bekezdése iktatta be.
+[^19]: A 9. § i) pontját a 28/2010. (XI. 9.) VM rendelet 3. § (6) bekezdése iktatta be.
