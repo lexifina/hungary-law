@@ -170,9 +170,9 @@
 
 | 77. | Az ügyfél komplex meliorációt valósít meg. (Legalább a vízrendezés és területrendezés elemeiből egyaránt tervez beavatkozást) | Műszaki leírás és tervdokumentáció vagy Engedélyezési terv alapján | Igen: 5 Nem: 0 |
 
-| 78. | Talajvédelmi funkciója van | MgSZH szakvéleménye alapján | 5 |
+| 78. | Talajvédelmi funkciója van | NÉBIH szakvéleménye alapján | 5 |
 
-| 79. | Talaj-vízháztartást javító funkciója van | MgSZH szakvéleménye alapján | 5 |
+| 79. | Talaj-vízháztartást javító funkciója van | NÉBIH szakvéleménye alapján | 5 |
 
 | 80. | A beruházás a 2. számú melléklet szerinti vízgazdálkodási terület részét képezi |  | 5 |
 

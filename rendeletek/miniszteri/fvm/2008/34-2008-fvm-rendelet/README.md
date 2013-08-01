@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-34-20-8
 | 2012-06-22 | 2008-34-20-82.16 | 56/2012. (VI. 21.) VM rendelet |
 | 2012-07-28 | 2008-34-20-82.17 | 76/2012. (VII. 27.) VM rendelet |
 | 2013-07-30 | 2008-34-20-82.18 | 68/2013. (VII. 29.) VM rendelet |
+| 2013-08-01 | 2008-34-20-82.19 | 59/2011. (VI. 29.) VM rendelet |
