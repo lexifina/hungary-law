@@ -1,6 +1,6 @@
-## 19. §[^95] A 2012. évre járó normatíva elszámolására és ellenőrzésére e rendelet 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 19. §[^98] A 2012. évre járó normatíva elszámolására és ellenőrzésére e rendelet 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-20. §[^96] (1) A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 35. § (8) bekezdése alapján a 2013 januárjára és februárjára folyósított támogatást az igazgatóság hivatalból, külön döntés meghozatala nélkül folyósítja.
+20. §[^99] (1) A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 35. § (8) bekezdése alapján a 2013 januárjára és februárjára folyósított támogatást az igazgatóság hivatalból, külön döntés meghozatala nélkül folyósítja.
 
 (2) A fenntartó a 2013. évi támogatás iránti kérelmet – a 3. § (1) bekezdésben foglaltaktól eltérően – 2013. január 20-áig nyújthatja be. Az igényléshez a 2012. évben normatívában részesült fenntartónak is csatolnia kell valamennyi fizetési számlájára vonatkozóan az igazgatóság javára szóló felhatalmazó levelét beszedési megbízás benyújtására.
 
@@ -10,7 +10,7 @@
 
 Melléklet a 213/2009. (IX. 29.) Korm. rendelethez
 
-A támogatás iránti kérelem és az elszámolás benyújtására szolgáló adatlapok és elektronikus formanyomtatványok adattartalma[^97]
+A támogatás iránti kérelem és az elszámolás benyújtására szolgáló adatlapok és elektronikus formanyomtatványok adattartalma[^100]
 
 1. A fenntartóval és a szolgáltatóval kapcsolatos adatok:
 
@@ -26,16 +26,16 @@ A támogatás iránti kérelem és az elszámolás benyújtására szolgáló ad
 
 1.6. az első fokú működést engedélyező szervek megnevezése;
 
-1.7.[^98] nyilatkozat arról, hogy megfelel a költségvetési támogatás nyújtására az államháztartásról szóló törvényben meghatározott feltételeknek.
+1.7.[^101] nyilatkozat arról, hogy megfelel a költségvetési támogatás nyújtására az államháztartásról szóló törvényben meghatározott feltételeknek.
 
-2.[^99] A támogatással kapcsolatos adatok:
+2.[^102] A támogatással kapcsolatos adatok:
 
 2.1. igénylés esetén a jogcímekre és az igényelt támogatásokra vonatkozó adatok, a tervezett feladatmutatókra vonatkozó adatok, továbbá a kérelem 5. § (1) bekezdés szerinti módosítása, pótigény és lemondás esetén a változások, valamint a jogosultság elbírálásához jogszabály alapján szükséges egyéb adatok;
 
 2.2. elszámolás esetén a 2.1. pontban foglaltakon túl azokra a támogatási összegekre vonatkozó adatok, amelyekre a fenntartó az elszámolás alapján jogosult, a visszafizetendő, illetve maradványösszeg, a teljesített feladatmutatókra, falugondnoki, tanyagondnoki szolgáltatás esetén az igazolt munkaórák számára vonatkozó adatok, továbbá az elszámolás elbírálásához jogszabály alapján szükséges egyéb adatok.
 
-[^95]: A 19. §-t a 425/2012. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
-[^96]: A 20. §-t a 425/2012. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
-[^97]: A melléklet címe a 425/2012. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^98]: A melléklet 1.7. pontját a 425/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^99]: A melléklet 2. pontja a 425/2012. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^98]: A 19. §-t a 425/2012. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
+[^99]: A 20. §-t a 425/2012. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
+[^100]: A melléklet címe a 425/2012. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^101]: A melléklet 1.7. pontját a 425/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^102]: A melléklet 2. pontja a 425/2012. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.

@@ -6,10 +6,11 @@
 
 (3) E rendelet 14. §-át a folyamatban lévő ügyekben is alkalmazni kell.
 
-(4) Az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók normatív állami támogatása ügyében a fellebbezés elbírálására jogosult hatóság a Magyar Államkincstár központi szerve, ha az első fokú döntést 2009. október 31-ét követően hozzák.
+(4)[^92] Az egyházi fenntartású és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók normatív állami támogatása ügyében a fellebbezés elbírálására jogosult hatóság a Magyar Államkincstár központi szerve, ha az első fokú döntést 2009. október 31-ét követően hozzák.
 
 (5) A személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet 1. számú melléklete szerinti gondozási napló vezetése a támogató szolgáltatást nyújtó szociális szolgáltatóktól, intézményektől a folyamatban lévő ellenőrzések során sem követelhető meg.
 
-(6)–(10)[^90]
+(6)–(10)[^93]
 
-[^90]: A 15. § (6)–(10) bekezdését a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés q) pontja hatályon kívül helyezte.
+[^92]: A 15. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^93]: A 15. § (6)–(10) bekezdését a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés q) pontja hatályon kívül helyezte.
