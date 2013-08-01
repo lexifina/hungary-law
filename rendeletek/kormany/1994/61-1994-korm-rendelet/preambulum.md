@@ -1,1 +1,0 @@
-Az Alkotmány 60. §-ában, a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvényben, továbbá a történelmi egyházakkal és vallásfelekezetekkel kötött megállapodásban foglaltak végrehajtására a Kormány a következőket rendeli el:
