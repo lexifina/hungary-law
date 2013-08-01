@@ -28,7 +28,7 @@ h) tájékoztatást arról, hogy a Ket. 28/A. § (1) bekezdés a) pontjában meg
 
 a) az ingatlan-nyilvántartásból,
 
-b)[^3] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
+b)[^4] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
 
 c) az elektronikus elérhetőségi adatai tekintetében az ügyintézési rendelkezési nyilvántartásból
 
@@ -44,4 +44,4 @@ c) a kérelmezett eljárás típusa és az eljárás megindulásának időpontja
 
 d) a 8. mellékletben meghatározott tartalmú utcai homlokzati terv vagy látványterv.
 
-[^3]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^4]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.

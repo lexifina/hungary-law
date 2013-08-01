@@ -24,4 +24,6 @@ c) építésügyi hatósági szolgáltatás kérelmezéséhez szükséges dokume
 
 (6) Az (1) és (2) bekezdés szerinti tárhely az építésügyi hatósági engedély iránti kérelem benyújtásáig áll az építtető rendelkezésére.
 
-(7) Az építészeti-műszaki dokumentáció, az előzetes szakhatósági állásfoglalás, az építészeti-műszaki tervtanács véleménye, valamint a települési önkormányzat polgármesterének településképi véleménye és az egyéb dokumentumok elektronikus tárhelyre történő feltöltése önmagában az engedélyezési eljárást nem indítja meg.
+(7)[^1] Az építészeti-műszaki dokumentáció, az előzetes szakhatósági állásfoglalás, az építészeti-műszaki tervtanács véleménye, valamint a települési (fővárosban a kerületi) önkormányzat polgármesterének vagy a fővárosi önkormányzat főpolgármesterének (a továbbiakban együtt: települési önkormányzat polgármestere) településképi véleménye és az egyéb dokumentumok elektronikus tárhelyre történő feltöltése önmagában az engedélyezési eljárást nem indítja meg.
+
+[^1]: A 2. § (7) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.

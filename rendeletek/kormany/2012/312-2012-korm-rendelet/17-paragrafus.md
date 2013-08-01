@@ -6,7 +6,7 @@
 
 17. § (1) Az építési tevékenység végzésére – az 1. mellékletben felsoroltak kivételével – jogszabályban meghatározott építésügyi hatóságtól építési engedélyt kell kérni.
 
-(1a)[^4] Építmény, építményrész rendeltetésének építési engedély köteles építési munkával nem járó megváltoztatásához nem kell az építésügyi hatóság engedélye.
+(1a)[^5] Építmény, építményrész rendeltetésének építési engedély köteles építési munkával nem járó megváltoztatásához nem kell az építésügyi hatóság engedélye.
 
 (2) Az építési engedélyt egy telekre – a (3) bekezdésben foglalt kivétellel – az egy időben megvalósuló építési tevékenység egészére kell kérni.
 
@@ -70,4 +70,4 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^4]: A 17. § (1a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^5]: A 17. § (1a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdése iktatta be.

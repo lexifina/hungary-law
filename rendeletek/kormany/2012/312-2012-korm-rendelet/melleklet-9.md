@@ -74,10 +74,6 @@
 
 ## 1.9. Alternatív energiaellátás megvalósíthatósági elemzése az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendeletben meghatározott esetekben és annak 4. melléklete szerint.
 
-## 1.10. Környezetvédelmi, környezeti és kertépítészeti leírás
-
-## Jogszabályban előírt esetekben tartalmazza a környezet ismertetését, a különböző funkciók és az általános telepítés előírásait, a kertkialakítás koncepcióját, a megvédendő és új növényzet bemutatását, a választott anyagok és növényzet leírását, és fakivágás esetén a fapótlás meghatározását, a tervezett építmény környezetre gyakorolt hatásait (levegőtisztaság-védelem, víz- és földvédelem, hulladékgazdálkodás, zaj- és rezgésvédelem, élővilág és természetvédelem, fényszennyezés) a vonatkozó ágazati jogszabályok előírásai szerint.
-
 ## 2. Tervlapok
 
 ## A tervlapok formátuma PDF/A. A tervlap összeállításánál törekedni kell arra, hogy a tervlap vagy annak egységnyi területe szükség esetén arányosan, értelmezhető módon A3 méretben szürkeárnyalatosan nyomtatható legyen. Az önálló tervlapokat önálló fájldokumentumonként kell benyújtani vektorgrafikus vagy 300 DPI felbontású pixeles formátumban.
@@ -97,8 +93,6 @@
 ## 2.1.6. az építmény személy- és gépkocsiforgalmára szolgáló be- és kijáratok közúthoz való csatlakozását, valamint a gépkocsik telken belüli elhelyezésének ábrázolását,
 
 ## 2.1.7. a ±0,00 kiinduló relatív szintmagasságnak megfelelő abszolút szintmagassági értéket,
-
-## 2.1.8. a tervezéssel érintett telken meglévő 15 cm-nél nagyobb törzsátmérőjű meglévő és kivágandó faállomány jelölését és a fa fajtájának megnevezését,
 
 ## 2.1.9. a meglévő terepviszonyok ábrázolását a jellemző szintmagasságok értékeivel, 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló rétegvonalakkal.
 
@@ -148,8 +142,6 @@
 
 ## 2.5.4. zártsorú, ikres vagy oldalhatáron álló beépítés esetén – a környezetbe illesztés bemutatására – a szomszédos épületek nézeteit.
 
-## 2.6. Kertépítészeti terv szükség szerint
-
 ## 2.7. Tereprendezési terv szükség szerint
 
 ## 2.8. A végleges terep szintmagasságainak ábrázolásával, a szükséges számú szelvényrajzzal és a 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló rétegvonalakkal, a végleges terep szintmagasságainak ábrázolásával.
@@ -165,8 +157,6 @@
 ## 2.9.3. monolit és előre gyártott födémek és azok elemei,
 
 ## 2.9.4. szintek áthidalására szolgáló szerkezetek.
-
-## 2.10. Belsőépítészeti terv szükség szerint
 
 ## Tartalmazza az építmény belső tereinek berendezését, anyag- és színvilágát.
 
@@ -186,8 +176,6 @@
 
 ## 3.7. álcázási terv,
 
-## 3.8. tájba illesztési terv,
-
 ## 3.9. egyéb dokumentum.
 
 ## 4. Számítás
@@ -203,8 +191,6 @@
 ## 4.4. Tartószerkezeti számítás szükség szerint
 
 ## 4.5. Épületenergetikai számítás
-
-## 4.6. Kiürítésiszámítás.
 
 ## 5. Igazolások
 

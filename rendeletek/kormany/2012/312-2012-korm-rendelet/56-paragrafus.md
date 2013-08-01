@@ -2,8 +2,18 @@
 
 ## HATÓSÁGI BIZONYÍTVÁNY KIÁLLÍTÁSA
 
-56. § (1) Adat, tény, állapot igazolása céljából az Étv. 34. § (5) bekezdése alapján az építésügyi hatóság az ügyfél kérelmére, vagy az ingatlan-nyilvántartást vezető első fokú ingatlanügyi hatóság hivatalból folytatott eljárása esetén hatósági bizonyítványt állít ki.
+56. § (1)[^34] Kérelemre, vagy az ingatlan-nyilvántartást vezető első fokú ingatlanügyi hatóság hivatalból folytatott eljárása esetén az OÉNY-ből megismerhető adat, tény, állapot, vagy helyszíni szemle alapján
 
-(2) Az építésügyi hatóság az Étv. 34. § (5) bekezdése szerinti hatósági bizonyítvány kiadásához szükséges dokumentumokat, és a személyes adatok kivételével az OÉNY által nem tartalmazott adatokat és dokumentumokat bekérheti az ügyféltől.
+a) a telken építmény meglétére vagy hiányára az építésfelügyeleti hatóság,
 
-(3) A hatósági bizonyítványt – az e rendelet szerinti hivatalbóli intézkedés kivételével – az eljárás megindulásától számított tíz napon belül vagy önálló határozattal, vagy az ügyfél által beadott irat záradékolásával kell kiadni.
+b) a telken meglévő építmény vagy önálló rendeltetési egység jogszerűségére az építésügyi hatóság
+
+## vonatkozó adat, tény igazolása céljából az Étv. 34. § (5) bekezdése alapján hatósági bizonyítványt állít ki.
+
+(2)[^35]
+
+(3)[^36] A hatósági bizonyítványt – az e rendelet szerinti hivatalbóli intézkedés kivételével – az eljárás megindulásától számított tíz napon belül vagy önálló határozattal.
+
+[^34]: Az 56. § (1) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (2) bekezdésével megállapított szöveg.
+[^35]: Az 56. § (2) bekezdését a 266/2013. (VII. 11.) Korm. rendelet 55. § k) pont ka) alpontja hatályon kívül helyezte.
+[^36]: Az 56. § (3) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 55. § k) pont kb) alpontja szerint módosított szöveg.
