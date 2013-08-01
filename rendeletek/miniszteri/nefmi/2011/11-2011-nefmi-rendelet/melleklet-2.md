@@ -1420,7 +1420,7 @@ II.
 
 1.1.8. esomeprazol
 
-1.2. CÉLÉRTÉK: 21,67 Ft
+1.2. CÉLÉRTÉK: 22,07 Ft
 
 1.3. DOT korlát: 2000/negyedév
 
@@ -1436,7 +1436,7 @@ II.
 
 2.1.4. glimepirid
 
-2.2. CÉLÉRTÉK: 14,92 Ft
+2.2. CÉLÉRTÉK: 14,50 Ft
 
 2.3. DOT korlát: 2000/negyedév
 
@@ -1506,7 +1506,7 @@ II.
 
 3.1.31. telmisartan és amlodipin
 
-3.2. CÉLÉRTÉK: 19,20 Ft
+3.2. CÉLÉRTÉK: 17,87 Ft
 
 3.3. DOT korlát: 2000/negyedév
 
@@ -1534,8 +1534,8 @@ II.
 
 4.1.10. atorvastatin és amlodipin
 
-4.2. CÉLÉRTÉK: 37,11 Ft
+4.2. CÉLÉRTÉK: 32,99 Ft
 
 4.3. DOT korlát: 2000/negyedév
 
-[^13]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a, az 56/2013. (VII. 31.) EMMI rendelet 44. §-a szerint módosított szöveg.
