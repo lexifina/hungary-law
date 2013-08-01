@@ -1,6 +1,6 @@
-## Az Országgyűlés kifogása[^311]
+## Az Országgyűlés kifogása[^316]
 
-## 134/F. §[^312]
+## 134/F. §[^317]
 
 (1) Az európai uniós ügyekkel foglalkozó bizottság az Európai Tanácsnak az EUSz 48. cikk (7) bekezdése szerinti kezdeményezését, valamint a Bizottságnak az EUMSz 81. cikk (3) bekezdése szerinti javaslatát megvizsgálja.
 
@@ -10,5 +10,5 @@
 
 (4) A kifogás megtétele feltételeinek fennállásáról szóló jelentés elfogadását követően a kifogást a házelnök haladéktalanul továbbítja az Európai Tanács elnökének, illetve a Tanácsnak, és egyidejűleg erről a Kormányt is tájékoztatja.
 
-[^311]: A 134/F. §-t megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 64. §-a iktatta be.
-[^312]: A 134/F. §-t a 36/2012. (IV. 19.) OGY határozat 64. §-a iktatta be, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^316]: A 134/F. §-t megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 64. §-a iktatta be.
+[^317]: A 134/F. §-t a 36/2012. (IV. 19.) OGY határozat 64. §-a iktatta be, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

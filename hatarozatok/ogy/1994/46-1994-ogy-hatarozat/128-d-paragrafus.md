@@ -1,4 +1,4 @@
-## 128/D. §[^279]
+## 128/D. §[^284]
 
 (1) A módosító javaslatokról történő határozathozatalra és a zárószavazásra legkorábban a kivételes sürgős eljárást elrendelő határozat meghozatalát követő ülésnapon kerülhet sor.
 
@@ -6,4 +6,4 @@
 
 (3) Az Országgyűlés a (2) bekezdés szerinti szavazást követően haladéktalanul zárószavazást tart. A zárószavazás megkezdése előtt a zárószavazás elhalasztását javasolhatja az Alkotmányügyi bizottság. A zárószavazás elhalasztásáról az Országgyűlés vita nélkül határoz.
 
-[^279]: A 128/D. §-t a 98/2011. (XII. 31.) OGY határozat 2. §-a iktatta be.
+[^284]: A 128/D. §-t a 98/2011. (XII. 31.) OGY határozat 2. §-a iktatta be.

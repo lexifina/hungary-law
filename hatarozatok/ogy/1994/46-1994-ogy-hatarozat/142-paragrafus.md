@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-## 142. §[^327]
+## 142. §[^332]
 
 ## A házszabályi rendelkezések alkalmazásában
 
@@ -20,10 +20,10 @@
 
 8. Kapcsolódó módosító javaslat: Olyan — a részletes vita során benyújtott — módosító javaslat, amely a döntési javaslat módosító javaslattal már érintett, vagy azzal összefüggő rendelkezésére vonatkozik; tartalma szerint az alap módosító javaslat továbbfejlesztése.
 
-9.[^328] Hatáskörrel rendelkező bizottság: Az a bizottság, amelynek egy adott ügy vitele a feladatkörébe tartozik.
+9.[^333] Hatáskörrel rendelkező bizottság: Az a bizottság, amelynek egy adott ügy vitele a feladatkörébe tartozik.
 
-10.[^329] Kijelölt bizottság: Az a bizottság, amelyet a házelnök egy adott ügy vitelére felkért.
+10.[^334] Kijelölt bizottság: Az a bizottság, amelyet a házelnök egy adott ügy vitelére felkért.
 
-[^327]: A 142. § nyitó szövegrésze a 36/2012. (IV. 19.) OGY határozat 73. § 21. pontja szerint módosított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
-[^328]: A 142. § 9. pontja a 71/1997. (VII. 17.) OGY határozat 48. §-ával megállapított szöveg.
-[^329]: A 142. § 10. pontja a 36/2012. (IV. 19.) OGY határozat 73. § 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^332]: A 142. § nyitó szövegrésze a 36/2012. (IV. 19.) OGY határozat 73. § 21. pontja szerint módosított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^333]: A 142. § 9. pontja a 71/1997. (VII. 17.) OGY határozat 48. §-ával megállapított szöveg.
+[^334]: A 142. § 10. pontja a 36/2012. (IV. 19.) OGY határozat 73. § 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
