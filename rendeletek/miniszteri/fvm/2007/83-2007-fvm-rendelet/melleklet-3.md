@@ -40,7 +40,7 @@ A támogatás iránti kérelemhez szükséges igazolások listája
 
 1.1.2. őstermelői igazolvány hiteles másolata az értékesítési betétlapokkal együtt,
 
-1.1.3. az MgSzH területi szerve által a falugazdász a tevékenysége során szerzett információja alapján a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
+1.1.3.[^51] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által a falugazdász a tevékenysége során szerzett információja alapján a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
 
 1.1.4. munkavállalóként végzett mezőgazdasági termelő tevékenység igazolása a munkakör megjelölését is tartalmazó munkaszerződés másolatával vagy egyéb dokumentummal,
 
@@ -57,3 +57,4 @@ A támogatás iránti kérelemhez szükséges igazolások listája
 3.1. Az 5. § (4) bekezdés c) pontjában meghatározott végzettséget igazoló dokumentum hiteles másolata.
 
 [^50]: A 3. számú melléklet a 23/2010. (III. 16.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^51]: A 3. számú melléklet 1.1.3. pontja a 70/2013. (VII. 31.) VM rendelet 68. § c) pontja szerint módosított szöveg.
