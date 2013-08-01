@@ -78,7 +78,7 @@
 
 ## MgSzH záradéka:
 
-## A kérelmező a művelésében lévő, a támogatási kérelem 3. pontjában feltüntetett belterületi termőterület(ek)en a 2007. évi tavaszi fagyok által okozott kártételt az MgSzH-nak bejelentette, a bejelentést az MgSzH nyilvántartásba vette és adatállományában rögzítette.
+## A kérelmező a művelésében lévő, a támogatási kérelem 3. pontjában feltüntetett belterületi termőterület(ek)en a 2007. évi tavaszi fagyok által okozott kártételt az MgSzH-nak bejelentette, a bejelentést a NÉBIH nyilvántartásba vette és adatállományában rögzítette.
 
 ## A jogszabály által előírt mellékleten benyújtott támogatás összegére vonatkozóan végzett számításokat ellenőriztem, amelynek alapján a támogatási kérelem 4. pontjában feltüntetett támogatási összeget
 

@@ -10,10 +10,12 @@ c) az általa előállított terméket belterületi ingatlanon termeli, amely te
 
 d) nyilatkozik, hogy szőlő- és gyümölcs termékek előállítását piaci úton történő értékesítés céljából végzi;
 
-e) a tavaszi fagykárt a Mezőgazdasági Szakigazgatási Hivatalnál (a továbbiakban: MgSzH) a támogatási kérelme beadásáig bejelentette és a fagykár miatti várható hozamérték-csökkenés a 30%-os mértéket meghaladja;
+e)[^2] a tavaszi fagykárt a Nemzeti Élelmiszerlánc-biztonsági Hivatalnál (a továbbiakban: NÉBIH) a támogatási kérelme beadásáig bejelentette és a fagykár miatti várható hozamérték-csökkenés a 30%-os mértéket meghaladja;
 
 f) nyilatkozik a támogatási kérelem benyújtását megelőző egymást követő hároméves időszakban az általa már igénybe vett, valamennyi agrár „de minimis” támogatás összegéről.
 
 (3) A tavaszi fagykár miatti várható hozamérték-csökkenést az 1. számú melléklet kitöltéséhez a 2. számú mellékletben szereplő árak felhasználásával kell megállapítani. Azon termékek esetében, amelyeknél a támogatási kérelem beadásának időpontjáig nem történt meg a betakarítás, a mennyiségre vonatkozó értékeket becsléssel kell megállapítani.
 
 (4) Az (1) bekezdés szerinti támogatás mértéke szőlő- és gyümölcsös ültetvény területre négyzetméterenként négy forint.
+
+[^2]: A 2. § (2) bekezdés e) pontja a 70/2013. (VII. 31.) VM rendelet 72. § a) pontja szerint módosított szöveg.

@@ -38,4 +38,6 @@
 
 | Dió, héjas súlyban | 194,8 | 163,7 | 227,9 | 260,4 | 307,3 |
 
-3. számú melléklet a 96/2007. (IX. 7.) FVM rendelethez
+3. számú melléklet a 96/2007. (IX. 7.) FVM rendelethez[^6]
+
+[^6]: A 3. számú melléklet a 70/2013. (VII. 31.) VM rendelet 72. § b) pontja szerint módosított szöveg.
