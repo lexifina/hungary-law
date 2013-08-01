@@ -2,4 +2,4 @@
 
 (2) Szintén ellenérték fejében teljesített szolgáltatásnyújtás, ha az adóalany saját vagy alkalmazottai magánszükségletének kielégítésére vagy általában, vállalkozásától idegen célok elérésére másnak ingyenesen nyújt szolgáltatást, feltéve, hogy a szolgáltatáshoz kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg.
 
-(3) Nem minősül ellenérték fejében teljesített szolgáltatásnyújtásnak a közcélú adományozás.
+(3) Nem minősül ellenérték fejében teljesített szolgáltatásnyújtásnak a közcélú adomány nyújtása.
