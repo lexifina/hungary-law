@@ -2,7 +2,7 @@
 
 (2) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-Melléklet a 113/2007. (X. 10.) FVM rendelethez[^4]
+Melléklet a 113/2007. (X. 10.) FVM rendelethez[^6]
 
 TÁMOGATÁSI KÉRELEM
 
@@ -152,4 +152,4 @@ Mezőgazdasági Szakigazgatási Hivatal
 
 területi szerve
 
-[^4]: A melléklet a 123/2007. (X. 19.) FVM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^6]: A melléklet a 123/2007. (X. 19.) FVM rendelet 6. § (3) bekezdése szerint módosított szöveg.
