@@ -1,0 +1,1 @@
+A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (1) bekezdés c) pontjában kapott felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
