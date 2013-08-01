@@ -12,7 +12,7 @@ ba) a hatályos létesítő okirat másolatát, és
 
 bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
 
-c) az egyházak nyilvántartásába fel nem vett belső egyházi jogi személy esetén az egyház egésze, illetve legfőbb szerve vagy az egyházak nyilvántartásába felvett felettes egyházi szerve – az egyházak nyilvántartásában feltüntetett – képviselőjének nyilatkozatát a fogadó szervezet nevéről, székhelyéről és képviselőjének személyéről, továbbá arról, hogy a fogadó szervezet belső egyházi jogi személy;
+c) az egyházi jogi személy esetében a nyilvántartásba vett adataira vonatkozóan kiállított, harminc napnál nem régebbi igazolást.
 
 d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
 
@@ -24,7 +24,7 @@ a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont
 
 b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
 
-(4a) A bejelentést benyújtó egyház vagy belső egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig az egyház és a nyilatkozatot kiállító felettes egyházi szerv adatait a miniszter az egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
+(4a) A bejelentést benyújtó egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig a bevett egyház és a nyilatkozatot kiállító személy adatait a miniszter a bevett egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
 
 (4b) A cégjegyzékben nyilvántartott fogadó szervezet cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 

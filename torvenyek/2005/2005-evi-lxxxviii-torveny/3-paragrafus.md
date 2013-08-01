@@ -8,7 +8,7 @@ c) a költségvetési szerv az alaptevékenysége körében;
 
 d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
 
-e) a magyarországi székhelyű egyházi jogi személy a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
+e) a magyarországi székhelyű egyházi jogi személy vagy vallási tevékenységet végző szervezet a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
 
 f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
 
