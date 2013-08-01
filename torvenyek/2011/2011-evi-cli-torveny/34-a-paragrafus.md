@@ -1,3 +1,3 @@
-## 12/A. Alaptörvény-ellenesen működő egyház elismerésének visszavonásával összefüggő vélemény
+## 12/A. A vallási közösség alaptörvény-ellenes működésével összefüggő vélemény
 
-34/A. § Az Alkotmánybíróság a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény alapján elismert egyház alaptörvény-ellenes működésére vonatkozóan a Kormány indítványa alapján elvi véleményt nyilvánít.
+34/A. § Az Alkotmánybíróság a vallási közösség alaptörvény-ellenes működésére vonatkozóan a bevett egyház esetén a Kormány, a vallási tevékenységet végző szervezet esetén a bíróság indítványa alapján elvi véleményt nyilvánít.

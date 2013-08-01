@@ -4,7 +4,7 @@
 
 69. § (1) Ez a törvény 2012. január 1-jén lép hatályba.
 
-(2) E törvény az Alaptörvény 24. cikk (5) bekezdése alapján sarkalatosnak minősül.
+(2) E törvény az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
 
 (3)–(4)
 

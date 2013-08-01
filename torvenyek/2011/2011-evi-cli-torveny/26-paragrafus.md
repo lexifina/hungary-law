@@ -6,7 +6,7 @@ a) az Alaptörvényben biztosított jogának sérelme következett be, és
 
 b) jogorvoslati lehetőségeit már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.
 
-(2) Az (1) bekezdéstől eltérően, az Alkotmánybíróság eljárása kivételesen akkor is kezdeményezhető, ha
+(2) Az (1) bekezdéstől eltérően, az Alkotmánybíróság eljárása kivételesen akkor is kezdeményezhető az Alaptörvény 24. cikk (2) bekezdés c) pontja, illetve az Alaptörvény VII. cikk (2) bekezdése alapján, ha
 
 a) az alaptörvény-ellenes jogszabály rendelkezésének alkalmazása vagy hatályosulása folytán közvetlenül, bírói döntés nélkül következett be a jogsérelem, és
 

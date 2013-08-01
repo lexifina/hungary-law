@@ -12,7 +12,7 @@ b) lemondással,
 
 c) összeférhetetlenség miatt a megbízatás megszűnésének megállapításával,
 
-d) ha az országgyűlési képviselők választásán már nem választható,
+d) ha az Alkotmánybíróság tagja az országgyűlési képviselők választásán már nem választható,
 
 e) felmentéssel vagy
 

@@ -1,0 +1,3 @@
+23/A. § (1) Az Alkotmánybíróság az Alaptörvény S) cikk (3) bekezdése és 24. cikk (5) bekezdése alapján az elfogadott, de még ki nem hirdetett Alaptörvény vagy Alaptörvény-módosítás megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartását az Alaptörvény S) cikk (3) bekezdése és 24. cikk (5) bekezdés a) pontjában meghatározott indítványozásra jogosult által benyújtott, határozott kérelmet tartalmazó indítvány alapján vizsgálja.
+
+(2) Az indítvány alapján az elnök gondoskodik az ügynek az Alaptörvény 24. cikk (6) bekezdése szerinti határidő betartását szolgáló időben történő napirendre vételéről.

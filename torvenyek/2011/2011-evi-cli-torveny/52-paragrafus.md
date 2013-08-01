@@ -1,6 +1,18 @@
-52. § (1) Az indítványnak határozott kérelmet kell tartalmaznia. A kérelem akkor határozott, ha egyértelműen megjelöli
+52. § (1) Az indítványnak határozott kérelmet kell tartalmaznia.
 
-a) azt a törvényi rendelkezést, amely megállapítja az Alkotmánybíróság hatáskörét az indítvány elbírálására, továbbá amely az indítványozó jogosultságát megalapozza,
+(1a) A 23/A. § és a 24/A. § szerinti hatáskörök gyakorlására irányuló indítványban foglalt kérelem akkor határozott, ha egyértelműen megjelöli
+
+a) azt az alaptörvényi, illetve törvényi rendelkezést, amely megállapítja az Alkotmánybíróság hatáskörét az indítvány elbírálására, továbbá amely az indítványozó jogosultságát megalapozza,
+
+b) azokat az Alaptörvény vagy az Alaptörvény módosítása megalkotására, illetve kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelményeket, amelyeket az Alaptörvény vagy az Alaptörvény módosítása megsértett,
+
+c) az indokolást arra nézve, hogy az Alaptörvény vagy az Alaptörvény módosítása miért ellentétes a megalkotására, illetve kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelményekkel,
+
+d) a kifejezett kérelmet az Alaptörvény vagy az Alaptörvény módosítása megsemmisítésére, illetve az Alkotmánybíróság döntésének tartalmára.
+
+(1b) Az (1a) bekezdésben foglalt eseteken kívül a kérelem akkor határozott, ha egyértelműen megjelöli
+
+a) azt az alaptörvényi, illetve törvényi rendelkezést, amely megállapítja az Alkotmánybíróság hatáskörét az indítvány elbírálására, továbbá amely az indítványozó jogosultságát megalapozza,
 
 b) az eljárás megindításának indokait, alkotmányjogi panasz esetén az Alaptörvényben biztosított jog sérelmének lényegét,
 
@@ -8,13 +20,13 @@ c) a 38. §-ban meghatározott eljárás kivételével az Alkotmánybíróság �
 
 d) az Alaptörvény, illetve a nemzetközi szerződés megsértett rendelkezéseit,
 
-e) indokolást arra nézve, hogy a sérelmezett jogszabály, jogszabályi rendelkezés, bírói döntés vagy – a 33. §-ban meghatározott eljárás indítványozása esetén – az Országgyűlés határozata miért ellentétes az Alaptörvény megjelölt rendelkezésével vagy a nemzetközi szerződéssel, továbbá a 34–36. §-ban meghatározott eljárás indítványozása esetén az indítványban foglalt kérelem részletes indoklását, valamint
+e) az indokolást arra nézve, hogy a sérelmezett jogszabály, jogszabályi rendelkezés, bírói döntés vagy – a 33. §-ban meghatározott eljárás indítványozása esetén – az Országgyűlés határozata miért ellentétes az Alaptörvény megjelölt rendelkezésével vagy a nemzetközi szerződéssel, továbbá a 34–36. §-ban meghatározott eljárás indítványozása esetén az indítványban foglalt kérelem részletes indokolását, valamint
 
-f) kifejezett kérelmet a jogszabály, jogszabályi rendelkezés vagy a bírói döntés megsemmisítésére, illetve az Alkotmánybíróság döntésének tartalmára.
+f) a kifejezett kérelmet a jogszabály, jogszabályi rendelkezés vagy a bírói döntés megsemmisítésére, illetve az Alkotmánybíróság döntésének tartalmára.
 
-(2) Az Alkotmánybíróság által lefolytatott vizsgálat kizárólag a megjelölt alkotmányossági kérelemre korlátozódik. Ez a rendelkezés nem érinti az Alkotmánybíróságnak a 28. § (1) bekezdésében, a 32. § (1) bekezdésében, a 38. § (1) bekezdésében, valamint a 46. § (1) és (3) bekezdésében meghatározott, hivatalból megtehető megállapításokra vonatkozó hatáskörét.
+(2) Az Alkotmánybíróság által lefolytatott vizsgálat a megjelölt alkotmányossági kérelemre korlátozódik. Ez a rendelkezés nem érinti az Alkotmánybíróságnak a 28. § (1) bekezdésben, a 32. § (1) bekezdésben, a 38. § (1) bekezdésben és a 46. § (1) és (3) bekezdésben meghatározott, hivatalból megtehető megállapításokra vonatkozó hatáskörét, valamint az Alaptörvény 24. cikk (4) bekezdésében foglaltakat.
 
-(3) Az Alkotmánybíróság a jogszabálynak az indítványban megjelölt rendelkezésével szoros tartalmi összefüggésben álló más rendelkezését is vizsgálhatja és megsemmisítheti, ha ennek elmaradása a jogbiztonságot sértené.
+(3)
 
 (4) Az alkotmánybírósági eljárás feltételeinek fennállását az indítványozónak kell igazolnia.
 
