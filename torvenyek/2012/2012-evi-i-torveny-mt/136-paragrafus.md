@@ -8,8 +8,4 @@
 
 (2) Az alapbért időbérben kell megállapítani.
 
-(3) Havi alapbér esetén az egy órára járó alapbér meghatározása során a havi alapbér összegét osztani kell
-
-a) általános teljes napi munkaidő esetén százhetvennégy órával,
-
-b) általánostól eltérő teljes napi vagy részmunkaidő esetén a százhetvennégy óra időarányos részével.
+(3) A havi alapbér meghatározott időszakra járó részének számításánál a havi alapbérnek a hónapban irányadó általános munkarend szerinti egy órára eső összegét szorozni kell az adott időszakra eső általános munkarend szerinti teljesítendő órák számával.

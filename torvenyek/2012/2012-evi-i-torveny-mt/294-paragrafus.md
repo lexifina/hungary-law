@@ -24,7 +24,7 @@ gb) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban r�
 
 gc) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
 
-gd) Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban részesül,
+gd) egyházi jogi személytől egyházi, felekezeti nyugdíjban részesül,
 
 ge) öregségi, munkaképtelenségi járadékban részesül,
 

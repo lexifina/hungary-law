@@ -2,11 +2,15 @@
 
 135. § (1) A felek megállapodása vagy kollektív szerződés
 
-a) a 122. § (5) bekezdésében,
+a) a 96. § (2) bekezdésében,
 
-b) a 127. § (1)–(2) és (4) bekezdésében,
+b) a 122. § (5) bekezdésében,
 
-c) a 134. §-ban
+c) a 126. § (4) bekezdésében,
+
+d) a 127. § (1)–(2) és (4) bekezdésében,
+
+e) a 134. §-ban
 
 foglaltaktól nem térhet el.
 
@@ -16,7 +20,7 @@ a) a 86–93. §-ban,
 
 b) a 95. §-ban,
 
-c) a 96. § (2)–(3) bekezdésében,
+c) a 96. § (3) bekezdésében,
 
 d) a 97. § (1) bekezdésében,
 
@@ -30,11 +34,19 @@ h) a 111. §-ban,
 
 i) a 113–121. §-ban,
 
-j) a 124–126. §-ban,
+j) a 122. § (3) bekezdésében,
 
-k) a 127. § (5) bekezdésében,
+k) a 123. § (6) bekezdésében,
 
-l) a 128–133. §-ban
+l) a 124. §-ban,
+
+m) a 125. §-ban,
+
+n) a 126. § (1)–(3) és (5) bekezdésében,
+
+o) a 127. § (5) bekezdésében,
+
+p) a 128–133. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
 

@@ -43,3 +43,5 @@ d) a munkáltatónak a munkavállaló munkaviszonnyal kapcsolatos magatartásáv
 e) a nem egészségi okkal összefüggő képességével indokolt felmondásával
 
 szűnik meg és a munkavállaló a beosztás szerinti munkaidőre járó munkabérnél magasabb összegű munkabérben részesült.
+
+(5) Az (1)–(4) bekezdés rendelkezéseit munkaidőkeret hiányában is alkalmazni kell, ha a munkaviszony hónap közben szűnik meg.

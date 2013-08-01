@@ -2,7 +2,7 @@
 
 165. § (1) A felek megállapodása vagy kollektív szerződés
 
-a) a 136. §-ban,
+a) a 136. § (1) és (2) bekezdésében,
 
 b) a 137. § (3) bekezdésében,
 
@@ -20,10 +20,12 @@ foglaltaktól nem térhet el.
 
 (2) Kollektív szerződés
 
-a) a 138. § (6) bekezdésében,
+a) a 136. § (3) bekezdésében,
 
-b) a 160. §-ban,
+b) a 138. § (6) bekezdésében,
 
-c) a 164. §-ban
+c) a 160. §-ban,
+
+d) a 164. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.

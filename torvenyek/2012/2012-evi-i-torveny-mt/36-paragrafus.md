@@ -8,14 +8,18 @@
 
 a) az (1) bekezdésben,
 
-b) a 37–40. §-ban,
+b) a 37. §-ban,
 
-c) a 66. § (3) bekezdésében,
+c) a 38. § (1) bekezdésében,
 
-d) a 228. § (4) bekezdésében,
+d) a 39–40. §-ban,
 
-e) a 229. § (4) bekezdésében, valamint
+e) a 66. § (3) bekezdésében,
 
-f) a 282. §-ban
+f) a 228. § (4) bekezdésében,
+
+g) a 229. § (4) bekezdésében, valamint
+
+h) a 282. §-ban
 
 foglaltak nem alkalmazhatók.

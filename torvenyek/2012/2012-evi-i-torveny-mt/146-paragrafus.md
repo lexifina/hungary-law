@@ -16,4 +16,6 @@ d) óra- vagy teljesítménybérezés esetén a napi munkaidőre, ha az általá
 
 e) ha munkaviszonyra vonatkozó szabály, munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő.
 
-(4) A betegszabadság tartamára a távolléti díj hetven százaléka jár.
+(4) A (3) bekezdés d) pontjától eltérően, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár. Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül.
+
+(5) A betegszabadság tartamára a távolléti díj hetven százaléka jár.

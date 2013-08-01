@@ -1,9 +1,29 @@
 ## 68. A távolléti díj számítása
 
-148. § (1) A távolléti díjat az esedékessége időpontjában érvényes alapbér, valamint az utolsó hat naptári hónapra (irányadó időszak) kifizetett teljesítménybér és bérpótlék figyelembevételével kell megállapítani.
+148. § (1) A távolléti díjat
 
-(2) A távolléti díj kiszámításakor figyelmen kívül kell hagyni azt a munkabért, amelyre a munkavállaló a távollét tartamára munkavégzés hiányában is jogosult.
+a) az esedékessége időpontjában érvényes alapbér (136. §), pótlékátalány (145. §),
 
-(3) A napi- vagy a havi távolléti díj meghatározásakor – a 149. §-ban foglaltakat kivéve – az egy órára járó távolléti díjat a napi munkaidővel vagy a 136. § (3) bekezdésében foglaltak szerint kell megszorozni.
+b) az esedékesség időpontját megelőző utolsó hat hónapra (irányadó időszak) kifizetett
 
-(4) A távolléti díj megállapításakor a 149–151. §-ban foglaltak szerint kiszámított összegeket együttesen kell figyelembe venni.
+ba) teljesítménybér (150. §),
+
+bb) bérpótlék (151. §)
+
+figyelembevételével kell megállapítani.
+
+(2) Az esedékesség időpontja
+
+a) a távollét kezdő időpontja,
+
+b) a végkielégítés tekintetében
+
+ba) a munkáltatói felmondás közlésének az időpontja,
+
+bb) a 77. § (1) bekezdés b) és c) pontja esetén a munkaviszony megszűnésének időpontja, vagy
+
+c) kártérítési felelősség megállapítása esetén a kár bekövetkezésének időpontja, ha a munkaviszony ezt megelőzően megszűnt, a munkaviszony megszűnésének időpontja.
+
+(3) Az (1) bekezdés a) pontjában meghatározott díjazást, ha a távollét tartama során összege módosul, a távollét módosítást követő tartamára a távolléti díj számítása során a módosított összeget kell figyelembe venni.
+
+(4) A távolléti díj megállapításakor az (1) bekezdés szerinti összegeket – a 149–151. §-ban foglaltaknak megfelelően – együttesen kell figyelembe venni.

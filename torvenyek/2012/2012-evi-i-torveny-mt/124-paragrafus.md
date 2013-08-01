@@ -1,5 +1,9 @@
 124. § (1) A szabadságot a munkaidő-beosztás szerinti munkanapokra kell kiadni.
 
-(2) A napi munkaidő mértékétől eltérő munkaidő-beosztás esetén, a munkavállaló a szabadság kiadása során a beosztással azonos tartamra mentesül munkavégzési kötelezettsége alól és a kiadott szabadságot ezzel egyező óraszámban kell elszámolni és nyilvántartani.
+(2) Egyenlőtlen munkaidő-beosztás esetén a szabadság kiadása során a hét minden napja munkanapnak számít, kivéve a munkaidő-beosztás szerinti heti pihenőnapot és a munkaszüneti napot.
 
-(3) Munkaidő-beosztás hiányában a szabadságot az általános munkarend és a napi munkaidő figyelembevételével kell kiadni.
+(3) Egyenlőtlen munkaidő-beosztás esetén a szabadság – a (2) bekezdéstől eltérően – az adott naptári évben úgy is kiadható, hogy a munkavállaló a munkaidő-beosztással azonos tartamra mentesül a rendelkezésre állási és munkavégzési kötelezettsége alól.
+
+(4) A szabadságot az (1) és (2) bekezdés esetén munkanapban, a (3) bekezdés esetén a munkavégzés alóli mentesülés tartamával egyező óraszámban kell nyilvántartani.
+
+(5) Munkaidő-beosztás hiányában a szabadságot az általános munkarend és a napi munkaidő figyelembevételével kell kiadni, valamint a (4) bekezdésben foglaltakra tekintettel kell nyilvántartani.

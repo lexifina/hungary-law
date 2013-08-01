@@ -2,7 +2,13 @@
 
 (2) A felmondás indoka a munkavállaló munkaviszonnyal kapcsolatos magatartásával, képességével vagy a munkáltató működésével összefüggő ok lehet.
 
-(3) Kizárólag a munkáltató személyében bekövetkező változás nem szolgálhat a munkáltató felmondásának indokául.
+(3) Kizárólag
+
+a) a munkáltató személyében bekövetkező változás,
+
+b) a 99. § (3) bekezdése vagy a 135. § (4) bekezdése szerinti megállapodás munkavállaló általi felmondása
+
+nem szolgálhat a munkáltató felmondásának indokául.
 
 (4) A munkáltató a nyugdíjasnak nem minősülő munkavállaló határozatlan tartamú munkaviszonyát a munkavállalóra irányadó öregségi nyugdíjkorhatár betöltését megelőző öt éven belül a munkavállaló munkaviszonnyal kapcsolatos magatartásával indokolt felmondással a 78. § (1) bekezdésében meghatározott okból szüntetheti meg.
 

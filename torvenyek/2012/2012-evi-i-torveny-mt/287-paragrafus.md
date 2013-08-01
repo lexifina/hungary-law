@@ -12,15 +12,15 @@ e) a 81. § (2) bekezdésében meghatározottakkal
 
 kapcsolatos igény érvényesítése iránt.
 
-(2) A keresetlevelet az (1) bekezdésben meghatározott határidőn belül kell előterjeszteni
+(2) A munkavállaló
 
-a) a 78. §-ban foglaltak szerinti, a munkavállaló által közölt azonnali hatályú felmondással, valamint
+a) 40. § szerinti felmondásával, vagy
 
-b) a munkavállaló jogellenes munkaviszony megszüntetésével
+b) 78. § szerinti azonnali hatályú felmondásával
 
-kapcsolatos igény érvényesítése iránt.
+kapcsolatos igény az elévülési időn belül érvényesíthető.
 
-(3) A munkaviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
+(3) A munkaviszony megszüntetésére vonatkozó megállapodás vagy egyoldalú jognyilatkozat megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
 
 (4) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a keresetlevelet legkésőbb a határidő utolsó napján postára adták. Az igényt érvényesítő igazolással élhet, ha a keresetlevél beadására megállapított határidőt elmulasztja. Az igény hat hónap elteltével nem érvényesíthető.
 
