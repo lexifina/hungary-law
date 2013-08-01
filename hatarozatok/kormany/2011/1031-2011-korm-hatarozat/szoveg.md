@@ -12,11 +12,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2011. február 28.
 
-3. felhívja a nemzeti fejlesztési minisztert, hogy adjon költségelemzéssel alátámasztott tájékoztatást a Kormány számára a Pesti Vigadó épületének rekonstrukciója beruházás végrehajtásáról és az abból eredő állami vagyon növekedésről;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2011. szeptember 30.
+3.[^1]
 
 4. felhívja a nemzeti erőforrás minisztert, hogy a nemzeti fejlesztési miniszterrel, valamint a közigazgatási és igazságügyi miniszterrel együttműködve dolgozza ki a Pesti Vigadó épületének további hasznosítására vonatkozó intézkedéseket, és tegye meg a Magyar Művészeti Akadémia létrehozásához a kormányzati oldalról szükséges előkészületeket.
 
@@ -91,3 +87,5 @@ Költségvetési év: 2011.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+
+[^1]: A 3. pont az 1514/2013. (VIII. 1.) Korm. határozat 2. pontjával visszavonásra került.
