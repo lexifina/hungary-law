@@ -50,6 +50,8 @@
 
 | G22 | Kapcsoló berendezés helytelen használata Kapcsoló berendezés helytelen használata, amennyiben az értékelhetőséget megakadályozza | 50 000 300 000 | járművezető |
 
+| G23 | A letöltési kötelezettség elmulasztása esetenként (gépjárművezetői kártyánként és fedélzeti egységenként) | 100 000 | üzemben tartó |
+
 | H | Adatok kitöltése |
 
 | H1 | Az adatrögzítő lapról hiányzik a családi név | 300 000 | járművezető |
@@ -110,7 +112,7 @@
 
 | L4 | A járművezetői kártya elvesztéséről vagy eltulajdonításáról azon tagállam hatáskörrel rendelkező hatóságánál teendő hivatalos bejelentés elmulasztása, amelynek területén a kártyalopás történt | 300 000 | járművezető |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^32]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^33]
 
 1. táblázat
 
@@ -294,4 +296,4 @@ A mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy l
 
 | 16. | A járművezetőnek nincs érvényes vizsga igazolása | 40 000 | szállító (fuvarozó), járművezető |
 
-[^32]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^33]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
