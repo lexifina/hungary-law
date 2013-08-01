@@ -1,6 +1,6 @@
-## Engedélyköteles tevékenységek más személy általi végzésére vonatkozó szabályok[^267]
+## Engedélyköteles tevékenységek más személy általi végzésére vonatkozó szabályok[^268]
 
-84. §[^268] (1) A VET 102–102/E. §-a szerinti átviteli rendszerirányító a napi átviteli rendszerirányítási tevékenységek teljes körébe, a VET 103. §-a szerinti átviteli rendszerirányító, az átviteli rendszerüzemeltető, az elosztó és az egyetemes szolgáltató az 56. § alá tartozó tevékenységek tekintetében kiszervezésre nem jogosult.
+84. §[^269] (1) A VET 102–102/E. §-a szerinti átviteli rendszerirányító a napi átviteli rendszerirányítási tevékenységek teljes körébe, a VET 103. §-a szerinti átviteli rendszerirányító, az átviteli rendszerüzemeltető, az elosztó és az egyetemes szolgáltató az 56. § alá tartozó tevékenységek tekintetében kiszervezésre nem jogosult.
 
 (2) Az engedélyköteles tevékenység jelentős részének minősülnek az engedélyben felsoroltakon kívül azok a tevékenységek, amelyek nélkül az engedélyes nem lenne képes biztonságos, zavartalan és megfelelő színvonalú engedélyköteles tevékenységet végezni, függetlenül attól, hogy a tevékenységről egy vagy több jogügylettel rendelkezik vagy kíván rendelkezni.
 
@@ -14,5 +14,5 @@ b) a VET szerinti engedélyköteles tevékenysége (2) bekezdés szerinti jelent
 
 (5) A (3) bekezdés a) pontja szerinti, a 83. § (3)–(4) bekezdése szerinti kérelem alapján induló eljárás során a Hivatal a VET 95. § (1) bekezdése alapján részletesen vizsgálja a legkisebb költség elvének való megfelelést. A jóváhagyáshoz az engedélyesnek igazolnia kell, hogy a tevékenység kiszervezett formában történő végzése a pénzügyi feltételek mellett, annak időtartamán belül inkább megfelel a legkisebb költség elvének, valamint a felhasználók érdekének, mint ha azt saját maga végezné.
 
-[^267]: A Vhr. 84. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^268]: A Vhr. 84. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^268]: A Vhr. 84. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^269]: A Vhr. 84. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.

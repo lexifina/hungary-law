@@ -20,7 +20,7 @@ bd) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXI
 
 a)[^113] a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok intézményi társulása, , az országos kisebbségi önkormányzat, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó);
 
-b) a magyarországi székhelyű egyház, az egyházak magyarországi székhelyű szövetsége, és a magyarországi székhelyű egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó);
+b)[^114] az egyházi jogi személy;
 
 c) az alapítvány, a közalapítvány és annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége.
 
@@ -32,3 +32,4 @@ c) az alapítvány, a közalapítvány és annak alapító okiratban jogi szemé
 [^111]: A Vhr. 26/A. §-át a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
 [^112]: A Vhr. 26/A. § (1) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^113]: A Vhr. 26/A. § (2) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^114]: A Vhr. 26/A. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
