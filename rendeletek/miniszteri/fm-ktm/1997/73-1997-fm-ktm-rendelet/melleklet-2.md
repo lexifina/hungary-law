@@ -90,7 +90,7 @@
 
 |  | valamennyi faja |  |
 
-2. számú melléklet a 73/1997. (X. 28.) FM–KTM együttes rendelethez[^6]
+2. számú melléklet a 73/1997. (X. 28.) FM–KTM együttes rendelethez[^11]
 
 A halászati vízterületeken egyes halfajok szerinti érvényes tilalmi idők
 
@@ -120,4 +120,4 @@ A halászati vízterületeken egyes halfajok szerinti érvényes tilalmi idők
 
 | Szilvaorrú keszeg (Vimba vimba) | május 2. – június 15. |
 
-[^6]: A 2. számú melléklet a 88/2009. (VII. 17.) FVM–KvVM együttes rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. számú melléklet a 88/2009. (VII. 17.) FVM–KvVM együttes rendelet 1. § (2) bekezdésével megállapított szöveg.
