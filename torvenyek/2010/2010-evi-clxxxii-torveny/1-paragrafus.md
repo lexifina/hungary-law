@@ -14,7 +14,7 @@ b) civil szervezet, nonprofit gazdasági társaság, állami fenntartású inté
 
 c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás), ezen belül különösen mikro-, kis- és középvállalkozás, valamint
 
-d) egyház, belső egyházi jogi személy, valamint az általuk fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+d) egyházi jogi személy, valamint a határon túli egyház és annak hitéleti, nevelési-oktatási, gyermekjóléti, kulturális vagy szociális tevékenységet ellátó intézménye.
 
 (2a) Az (1a) bekezdésben meghatározott célra az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve.
 

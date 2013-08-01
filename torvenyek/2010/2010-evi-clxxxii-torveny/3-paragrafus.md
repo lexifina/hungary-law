@@ -10,7 +10,7 @@ ab) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapít
 
 ac) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
 
-b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, nyomtatott és elektronikus sajtó útján megvalósuló tömegtájékoztatási, egyházi, ifjúsági, szociális tevékenységet folytató, a társadalmi felzárkózást és a szociális integrációt elősegítő egészségügyi és egyéb szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is)
+b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, nyomtatott és elektronikus sajtó útján megvalósuló tömegtájékoztatási, vallási, ifjúsági, szociális tevékenységet folytató, a társadalmi felzárkózást és a szociális integrációt elősegítő egészségügyi és egyéb szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is)
 
 ba) az alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
 
