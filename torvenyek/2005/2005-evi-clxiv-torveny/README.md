@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2013-07-01 | 2013. évi CXVII. törvény | 2005-164-00-00.15 |
 | 2013-07-02 | 2013. évi LXXI. törvény | 2005-164-00-00.16 |
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2005-164-00-00.17 |
+| 2013-08-01 | 2013. évi CXVII. törvény | 2005-164-00-00.18 |
