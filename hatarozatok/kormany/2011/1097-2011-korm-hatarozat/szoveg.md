@@ -8,19 +8,11 @@ a) felhatalmazza a közigazgatási és igazságügyi minisztert, hogy az Alapít
 
 b) megbízza a közigazgatási és igazságügyi minisztert vagyonelszámoló, könyvvizsgáló, valamint az átadás-átvételi eljárásban közreműködő személyek kijelölésére;
 
-c) egyetért azzal, hogy a megszűnt Közalapítvány feladatait – ideértve a Közalapítvány megszűnésekor fennálló kötelezettségeiért való helytállást és fennálló jogainak érvényesítését is – a Wekerle Sándor Alapkezelő lássa el, valamint felhívja a közigazgatási és igazságügyi minisztert, hogy tegye meg az ennek érdekében szükséges intézkedéseket.
-
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: 2011. július 31.
+c)[^2]
 
 3. A megszűnés napjával mint mérlegfordulónappal a Közalapítvány elkészíti a számviteli törvény szerinti egyes egyéb szervezetek beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 224/2000. (XII. 19.) Korm. rendelet 6. §-a szerinti beszámolóját.
 
-4. A megszűnést követően a Közalapítvány vagyonának számbavételére és a hitelezők kielégítésére – a Közalapítvány vagyona értéke erejéig –, valamint a megszűnő Közalapítvány iratainak jogszabály szerint kötelező őrzésére a Kormány a Wekerle Sándor Alapkezelőt jelöli ki. A Közalapítvány hitelezők kielégítése után fennmaradt vagyonát – ideértve a vagyoni értékű jogokat – a Kormány a Wekerle Sándor Alapkezelő támogatására fordítja, amely vagyont a Wekerle Sándor Alapkezelő egyéb bevételként számolja el, és köteles azt a 2. pont szerinti feladatokra fordítani.
-
-Felelős: közigazgatási és igazságügyi miniszter
-
-Határidő: a bírósági törlést követően azonnal
+4.[^3]
 
 5. A Kormány felhívja a közigazgatási és igazságügyi minisztert, hogy a Közalapítvány megszüntetéséről és a 4. pontban foglalt intézkedésekről a nyilvánosságot közleményben tájékoztassa.
 
@@ -28,9 +20,11 @@ Felelős: közigazgatási és igazságügyi miniszter
 
 Határidő: a bírósági törlést követően azonnal
 
-6.[^1]
+6.[^4]
 
-a)–d)[^2]
+a)–d)[^5]
 
-[^1]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
-[^2]: A 6. pont a)–d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont c) alpontját az 1433/2013. (VII. 11.) Korm. határozat 3. pont b) alpontja hatályon kívül helyezte.
+[^3]: A 4. pontot az 1433/2013. (VII. 11.) Korm. határozat 3. pont a) alpontja hatályon kívül helyezte.
+[^4]: A 6. pont nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^5]: A 6. pont a)–d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
