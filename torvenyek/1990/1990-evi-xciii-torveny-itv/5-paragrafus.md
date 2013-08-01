@@ -8,7 +8,7 @@ c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tar
 
 d) az egyesület, a köztestület,
 
-e) az egyház, egyházak szövetsége, egyházi intézmény,
+e) az egyházi jogi személy,
 
 f) az alapítvány, ideértve a közalapítványt is,
 

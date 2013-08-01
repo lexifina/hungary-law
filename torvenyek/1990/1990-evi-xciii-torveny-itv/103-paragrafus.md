@@ -90,7 +90,7 @@ b) a 4. pontban szereplő hitelesítés, ha az olyan okiratra vonatkozik, amelye
 
 VII. A levéltár által készített másolat illetéke
 
-1. A levéltár által készített hitelesített másolatért, továbbá az ügyfél által készített másolatnak és fénymásolatnak a levéltár által történő hitelesítéséért – ideértve az állami vagy felekezeti anyakönyvi másodpéldányokból anyakönyvi kivonat kiállítását – oldalanként 200, de legalább 2000 forint illetéket kell fizetni.
+1. A levéltár által készített hitelesített másolatért, továbbá az ügyfél által készített másolatnak és fénymásolatnak a levéltár által történő hitelesítéséért – ideértve az állami vagy az egyházi jogi személy által vezetett anyakönyvi másodpéldányokból anyakönyvi kivonat kiállítását – oldalanként 200, de legalább 2000 forint illetéket kell fizetni.
 
 2. A levéltárban őrzött irat alapján kiállított, tényt, körülményt igazoló irat kiadása iránt indított eljárásban az általános tételű eljárási illetéket (29. §) kell fizetni.
 
