@@ -74,12 +74,12 @@ kérelmező (cégszerű) aláírása
 
 5. Csatolandó mellékletek:
 
-1. Vásárolt pontyivadék telepítése esetén: a Mezőgazdasági Szakigazgatási Hivatal igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a számla másolat(ok), a telepítési nyilatkozat(ok); a számlán fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
+1. Vásárolt pontyivadék telepítése esetén: a NÉBIH igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a számla másolat(ok), a telepítési nyilatkozat(ok); a számlán fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
 
-2. Saját termelésű pontyivadék telepítése esetén a Mezőgazdasági Szakigazgatási Hivatal igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a haltelepítést igazoló belső dokumentum(ok), valamint a telepítési nyilatkozat(ok); a pontyivadék telepítését igazoló belső dokumentumon fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
+2. Saját termelésű pontyivadék telepítése esetén a NÉBIH igazolása arról, hogy a telepített fajta(ák) elismert(ek), illetve ideiglenesen elismert(ek), a haltelepítést igazoló belső dokumentum(ok), valamint a telepítési nyilatkozat(ok); a pontyivadék telepítését igazoló belső dokumentumon fel kell tüntetni, hogy a telepített pontyivadék mely szervezet, milyen elismert vagy ideiglenesen elismert fajtája.
 
-3. Vásárolt tenyészanyától származó pontyivadék telepítése esetén a Mezőgazdasági Szakigazgatási Hivatalnak igazolása arról, hogy a telepített pontyivadék elismert, illetve ideiglenesen elismert tenyészanyától származik.
+3. Vásárolt tenyészanyától származó pontyivadék telepítése esetén a NÉBIH-nek igazolása arról, hogy a telepített pontyivadék elismert, illetve ideiglenesen elismert tenyészanyától származik.
 
 4. A kérelmező által a tárgyévben üzemeltetett összes halastóterület nagyságát igazoló érvényes vízjogi engedély másolata.
 
-[^8]: A melléklet a 24/2011. (III. 29.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A melléklet a 24/2011. (III. 29.) VM rendelet 3. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 94. § b)–c) pontja szerint módosított szöveg.
