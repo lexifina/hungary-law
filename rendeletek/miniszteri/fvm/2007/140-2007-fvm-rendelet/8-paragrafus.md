@@ -6,10 +6,10 @@
 
 (3) Az (1) bekezdés szerinti feltétel biztosítását a kezelő állatorvos a támogatási évben legalább egy alkalommal vizsgálja.
 
-(4)[^26] Az 1. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell:
+(4)[^28] Az 1. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell:
 
 a) a kezelő állatorvos igazolását az (1) bekezdésben meghatározott feltétel biztosításáról, és
 
 b) az alom kezelésének, valamint beszerzésének költségeiről kiállított számlát.
 
-[^26]: A 8. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^28]: A 8. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
