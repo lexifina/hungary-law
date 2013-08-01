@@ -19,7 +19,7 @@ e)[^17] a 2006. évi őszi és a 2007. évi tavaszi telepítésekre 2006. évben
 (3)[^19]
 
 [^14]: A 13. § a 18/2013. (III. 21.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^15]: A 14. § (1) bekezdése a 3/2005. (I. 11.) FVM rendelet 1. §-ával, bevezető szövege a 40/2005. (IV. 27.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^15]: A 14. § (1) bekezdése a 3/2005. (I. 11.) FVM rendelet 1. §-ával, bevezető szövege a 40/2005. (IV. 27.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell. [A 14. § (1) bekezdés nyitó szövegrészében a 70/2013. (VII. 31.) VM rendelet 44. § c) pontjával elrendelt módosítás, amely szerint az „az Állami Erdészeti Szolgálat területileg illetékes igazgatóságánál” szövegrész helyébe „az illetékes erdészeti hatóságnál” szöveg lép, nem vezethető át.]
 [^16]: A 14. § (1) bekezdésének d) pontja a 69/2005. (VIII. 5.) FVM rendelet 1. §-ával megállapított szöveg.
 [^17]: A 14. § (1) bekezdésének e) pontját a 69/2005. (VIII. 5.) FVM rendelet 1. §-a iktatta a szövegbe.
 [^18]: A 14. § (2) bekezdését a 36/2009. (IV. 3.) FVM rendelet 21. §-ának j) pontja hatályon kívül helyezte.

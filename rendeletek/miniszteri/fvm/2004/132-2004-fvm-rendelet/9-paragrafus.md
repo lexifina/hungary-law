@@ -10,10 +10,10 @@ c) a tervezett célállománynak megfelelő fafajösszetétel,
 
 d) az erdőtelepítési kiegészítő támogatás esetében a jóváhagyott terv és elfogadott kérelem szerint szakszerűen elvégzett munka, elkészült létesítmény.
 
-(2)[^7] A jóváhagyott telepítési tervben rögzített feltételektől való bárminemű eltérést a terv módosításának egyidejű benyújtásával az ügyfél előzetesen köteles írásban bejelenteni az illetékes erdészeti hatóságnak, mely a terv módosításának engedélyezéséről határozatban dönt.
+(2)[^7] A jóváhagyott telepítési tervben rögzített feltételektől való bárminemű eltérést a terv módosításának egyidejű benyújtásával az ügyfél előzetesen köteles írásban bejelenteni az illetékes megyei kormányhivatal erdészeti igazgatóságnak (a továbbiakban: erdészeti hatóság), mely a terv módosításának engedélyezéséről határozatban dönt.
 
-(3)[^8] Az (1) bekezdés szerinti szakmai feltételek teljesítését az Állami Erdészeti Szolgálat területileg illetékes igazgatósága (a továbbiakban: erdészeti hatóság) a műszaki átvétel során helyszíni ellenőrzéssel bírálja el, és erről erdőrészletenként igazolást állít ki. Az igazolás megléte a támogatás kifizetésének feltétele.
+(3)[^8] Az (1) bekezdés szerinti szakmai feltételek teljesítését az erdészeti hatóság a műszaki átvétel során helyszíni ellenőrzéssel bírálja el, és erről erdőrészletenként igazolást állít ki. Az igazolás megléte a támogatás kifizetésének feltétele.
 
 [^6]: A 8. § a 37/2012. (IV. 16.) VM rendelet 1. §-ával megállapított szöveg.
-[^7]: A 9. § új (2) bekezdését a 21/2007. (III. 30.) FVM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
-[^8]: A 9. § eredeti (2) bekezdésének számozását a 21/2007. (III. 30.) FVM rendelet 1. §-a (3) bekezdésre változtatta.
+[^7]: A 9. § új (2) bekezdését a 21/2007. (III. 30.) FVM rendelet 1. §-a iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 44. § a) pontja szerint módosított szöveg.
+[^8]: A 9. § eredeti (2) bekezdésének számozását a 21/2007. (III. 30.) FVM rendelet 1. §-a (3) bekezdésre változtatta, szövege a 70/2013. (VII. 31.) VM rendelet 44. § b) pontja szerint módosított szöveg.
