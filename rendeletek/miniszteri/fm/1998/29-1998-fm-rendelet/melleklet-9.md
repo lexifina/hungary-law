@@ -30,7 +30,7 @@
 
 | 1 pár bakancs | 12 hónap |
 
-9. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^19]
+9. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^20]
 
 ## Szolgálati jelvény:
 
@@ -42,4 +42,4 @@
 
 A mezei őrszolgálat egyedi logója a szolgálati jelvény középső síkjában, 45 mm átmérőjű körben helyezkedik el, melynek közepén található pajzsot két aranyszínű búzakalász fogja körbe. A pajzs jobb oldalán stilizált dombos vidék szerepel teli zöld színnel, mező felett aranyszínű nap és hold, a pajzs bal oldalán szőlőtőke látható. A pajzs és a búzakalász alatt félkörívben fekete színű „MEZŐŐR” felirat szerepel.
 
-[^19]: A 9. számú mellékletet a 45/2013. (VI. 3.) VM rendelet 2. § (5) bekezdése iktatta be.
+[^20]: A 9. számú mellékletet a 45/2013. (VI. 3.) VM rendelet 2. § (5) bekezdése iktatta be.

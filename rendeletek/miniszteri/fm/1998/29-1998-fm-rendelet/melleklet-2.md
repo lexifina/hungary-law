@@ -4,7 +4,7 @@
 
 ## Igazolom, hogy ................... (név)
 
-## .................. (szül. hely) ............... (szül. idő) ......................... (lakcím) a ...................... MgSzH területi szervénél a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény által előírt mezőőri vizsgát eredményesen letette.
+## .................. (szül. hely) ............... (szül. idő) ......................... (lakcím) a ...................... földművelésügyi igazgatóságnál a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény által előírt mezőőri vizsgát eredményesen letette.
 
 ## ................., 20.... ..............
 
@@ -20,7 +20,7 @@
 
 ## PÓTLAP
 
-## 1. Igazolom, hogy a ....................... MgSzH területi szervénél a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
+## 1. Igazolom, hogy a ....................... földművelésügyi igazgatóságnál a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
 
 ## ................., 20.... ..............
 
@@ -28,7 +28,7 @@
 
 ## MgSzH területi szervének vezetője
 
-## 2. Igazolom, hogy a ....................... MgSzH területi szervénél a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
+## 2. Igazolom, hogy a ....................... földművelésügyi igazgatóságnál a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
 
 ## ................., 20.... ..............
 
@@ -36,7 +36,7 @@
 
 ## MgSzH területi szervének vezetője
 
-## 3. Igazolom, hogy a ....................... MgSzH területi szervénél a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
+## 3. Igazolom, hogy a ....................... földművelésügyi igazgatóságnál a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
 
 ## ................., 20.... ..............
 
@@ -44,7 +44,7 @@
 
 ## MgSzH területi szervének vezetője
 
-## 4. Igazolom, hogy a ....................... MgSzH területi szervénél a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
+## 4. Igazolom, hogy a ....................... földművelésügyi igazgatóságnál a 29/1998. (IV. 30.) FM rendelet által előírt továbbképzésen részt vett.
 
 ## ................., 20.... ..............
 
