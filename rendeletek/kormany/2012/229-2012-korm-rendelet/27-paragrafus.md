@@ -2,7 +2,7 @@
 
 ## és a halmozottan hátrányos helyzetű gyermekek, tanulók létszámával összefüggő adatszolgáltatási kötelezettség
 
-27. § (1)[^32] A szülő gyermeke halmozottan hátrányos helyzetének megállapítását a rendszeres gyermekvédelmi kedvezmény tekintetében hozott jogerős határozat bemutatásával a gyermek lakóhelye, ennek hiányában tartózkodási helye szerinti települési önkormányzat jegyzőjétől írásban tett nyilatkozatával kérheti. Ha a szülő a szülői felügyeletet egyedül gyakorolja, a gyermeke halmozottan hátrányos helyzetének megállapítását a szülői felügyelet gyakorlásának egyidejű igazolása mellett kérheti.
+27. § (1)[^37] A szülő gyermeke halmozottan hátrányos helyzetének megállapítását a rendszeres gyermekvédelmi kedvezmény tekintetében hozott jogerős határozat bemutatásával a gyermek lakóhelye, ennek hiányában tartózkodási helye szerinti települési önkormányzat jegyzőjétől írásban tett nyilatkozatával kérheti. Ha a szülő a szülői felügyeletet egyedül gyakorolja, a gyermeke halmozottan hátrányos helyzetének megállapítását a szülői felügyelet gyakorlásának egyidejű igazolása mellett kérheti.
 
 (2) Az (1) bekezdés szerinti nyilatkozat tartalmazza
 
@@ -40,7 +40,7 @@ cd) hozzájárul a nyilatkozatban szereplő személyes adatainak kezeléséhez,
 
 ce) megértette és tudomásul vette, hogy a valótlan adatközlés esetén büntető és szabálysértési eljárás indítható ellene.
 
-(3)[^33]
+(3)[^38]
 
 (4) A jegyző a szülő (1) bekezdés szerinti nyilatkozata alapján állapítja meg, hogy a hátrányos helyzetű gyermek halmozottan hátrányos helyzetű. A jegyző az (1) bekezdés szerinti nyilatkozaton aláírásával igazolja, hogy meggyőződött a szülő személyazonosságáról és a szülői felügyelet gyakorlásának módjáról.
 
@@ -50,5 +50,5 @@ ce) megértette és tudomásul vette, hogy a valótlan adatközlés esetén bün
 
 (7) Ha a szülő a nevelési-oktatási intézmény a rendszeres gyermekvédelmi kedvezményre való jogosultság és a halmozottan hátrányos helyzet megszűnéséről való tájékoztatásához hozzájárult, a jegyző az általa aláírt (1) bekezdés szerinti nyilatkozatot másolatban a szülő részére történő átadást követő öt napon belül megküldi a nevelési-oktatási intézménynek. A nevelési-oktatási intézmény képviselője a felvételi naplóban és a törzslapon feltünteti, hogy a gyermek, a tanuló hátrányos helyzetű vagy halmozottan hátrányos helyzetű. A nevelési-oktatási intézmény a nyilatkozatot a tanulói jogviszony megszűnését követő öt évig kezelheti.
 
-[^32]: A 27. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^33]: A 27. § (3) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
+[^37]: A 27. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^38]: A 27. § (3) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.

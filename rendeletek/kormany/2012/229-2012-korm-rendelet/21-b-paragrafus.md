@@ -1,4 +1,4 @@
-21/B. §[^26] (1) A Hivatal nyolc napos felhívására – a területileg illetékes megyei kormányhivatalok közreműködésével – a központi költségvetési szervek, települési és nemzetiségi önkormányzatok, települési önkormányzatok társulásai, valamint az egyházi és magánintézmények fenntartói a 21. §-ban foglaltak szerint adatot szolgáltatnak a köznevelés-fejlesztési terv elkészítéséhez a köznevelés-fejlesztési terv elkészítése és felülvizsgálata évének március 10. napjáig, továbbá a köznevelés-fejlesztési terv rendszeres felülvizsgálata céljából – a terve első elkészítése évét kivéve – minden év szeptember 1-jéig.
+21/B. §[^28] (1)[^29] A Hivatal nyolc napos felhívására – a területileg illetékes megyei kormányhivatalok közreműködésével – a központi költségvetési szervek, települési és nemzetiségi önkormányzatok, települési önkormányzatok társulásai, valamint az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartói a 21. §-ban foglaltak szerint adatot szolgáltatnak a köznevelés-fejlesztési terv elkészítéséhez a köznevelés-fejlesztési terv elkészítése és felülvizsgálata évének március 10. napjáig, továbbá a köznevelés-fejlesztési terv rendszeres felülvizsgálata céljából – a terve első elkészítése évét kivéve – minden év szeptember 1-jéig.
 
 (2) A települési önkormányzat a 21. § (1) bekezdés k) pontja szerinti esélyegyenlőségi intézkedések meghatározásához az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény alapján készített helyi esélyegyenlőségi programját megküldi az elkészítése évének március 1-jéig az állami intézményfenntartó központ település szerint illetékes tankerületének, az illetékes megyei kormányhivatalnak és a Hivatalnak.
 
@@ -10,7 +10,7 @@
 
 (6) A Hivatal – az Nkt. 75. § (1) bekezdésében leírtakra figyelemmel – az országos köznevelés-fejlesztési tervre vonatkozó javaslatát tizenöt napos határidővel véleményezésre közzéteszi a honlapján, és egyidejűleg annak a megyei, fővárosi szakképzési tervekre vonatkozó részei vonatkozásában megkéri a szakképzésért és felnőttképzésért felelős miniszter véleményét.
 
-(7) A köznevelési feladatok ellátásában részt vevő egyházi és magánintézmény fenntartója a köznevelés-fejlesztési terv tervezetére vonatkozó véleményét
+(7)[^30] A köznevelési feladatok ellátásában részt vevő egyházi köznevelési intézmény és a magán köznevelési intézmény fenntartója a köznevelés-fejlesztési terv tervezetére vonatkozó véleményét
 
 a) ha térségi vagy országos feladatot lát el, a köznevelés-fejlesztési terv tervezetének a Hivatal honlapján történő közzétételtől számított tizenöt napos jogvesztő határidőn belül a Hivatalnak,
 
@@ -24,4 +24,6 @@ küldi meg.
 
 (10) A miniszter az elfogadott köznevelés-fejlesztési tervet, a döntést követő nyolc napon belül a honlapján közzéteszi.
 
-[^26]: A 21/B. §-t a 73/2013. (III. 8.) Korm. rendelet 22. §-a iktatta be.
+[^28]: A 21/B. §-t a 73/2013. (III. 8.) Korm. rendelet 22. §-a iktatta be.
+[^29]: A 21/B. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § c) pontja szerint módosított szöveg.
+[^30]: A 21/B. § (7) bekezdés nyitó szövegrésze a 297/2013. (VII. 29.) Korm. rendelet 81. § d) pontja szerint módosított szöveg.

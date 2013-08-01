@@ -48,7 +48,7 @@ h) a pedagógiai szakszolgálatok iránti igények teljesítésére vonatkozó m
 
 i) a pedagógiai szakmai szolgáltatások iránti igények teljesítésére vonatkozó megyei, fővárosi szintű tervet;
 
-j) a nemzetiségi önkormányzatok, továbbá a miniszter által köznevelési feladatok ellátására egyházi és magánintézmény fenntartójával kötött közoktatási megállapodásoknak, közoktatási szerződéseknek, köznevelési szerződéseknek, valamint az egyházi egyoldalú nyilatkozatoknak az alábbi adatai bemutatását járási, megyei, fővárosi bontásban:
+j)[^25] a nemzetiségi önkormányzatok, továbbá a miniszter által köznevelési feladatok ellátására egyházi köznevelési intézmény és magán köznevelési intézmény fenntartójával kötött közoktatási megállapodásoknak, közoktatási szerződéseknek, köznevelési szerződéseknek, valamint az egyházi egyoldalú nyilatkozatoknak az alábbi adatai bemutatását járási, megyei, fővárosi bontásban:
 
 ja) a feladatellátási hely cím szerinti megnevezése,
 
@@ -62,7 +62,7 @@ l) az országos feladatot ellátó köznevelési intézményeket feladatellátá
 
 m) az iskolabusszal a kötelező felvételt biztosító iskolába szállított tanulók számát, továbbá azon települések listáját, amelyek esetében iskolabusz vagy az iskola rendjéhez igazodó tömegközlekedési járat szállítja a diákokat feltéve, ha a köznevelési közszolgáltatás a településen nem megoldott, vagy a diákok jelentős része másik településen veszi azt igénybe.
 
-(2) A köznevelés-fejlesztési tervnek ki kell térnie arra, hogy az állami köznevelési feladatok ellátásához járási, megyei, fővárosi szinten az egyházi és magánfenntartású intézmények bevonása milyen köznevelési alapfeladat ellátásba, milyen gyermek és tanulólétszámmal, milyen időtartammal szükséges.
+(2)[^26] A köznevelés-fejlesztési tervnek ki kell térnie arra, hogy az állami köznevelési feladatok ellátásához járási, megyei, fővárosi szinten az egyházi köznevelési intézmény és a magán köznevelési intézmény bevonása milyen köznevelési alapfeladat ellátásba, milyen gyermek és tanulólétszámmal, milyen időtartammal szükséges.
 
 (3) A köznevelés-fejlesztési tervet oly módon kell elkészíteni, hogy meg lehessen állapítani, milyen módon tesz eleget a közneveléssel összefüggő feladatellátási kötelezettségének a települési önkormányzat, az állami intézményfenntartó központ. A köznevelés-fejlesztési tervnek alkalmasnak kell lennie arra, hogy meg lehessen állapítani belőle, hogy az egyes településeken állandó lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező gyermek, tanuló hol veheti igénybe az Nkt.-ban meghatározott közszolgáltatásokat, elsősorban a kötelező felvételt biztosító óvodai, iskolai ellátást és a pedagógiai szakszolgálatokat.
 
@@ -74,3 +74,5 @@ m) az iskolabusszal a kötelező felvételt biztosító iskolába szállított t
 
 [^23]: A 8. alcím a 73/2013. (III. 8.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^24]: A 21. § a 73/2013. (III. 8.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^25]: A 21. § (1) bekezdés j) pont nyitó szövegrésze a 297/2013. (VII. 29.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.
+[^26]: A 21. § (2) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.

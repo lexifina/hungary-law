@@ -12,6 +12,6 @@ c) a munkaterven felüli ellenőrzéssel érintett köznevelési intézmény és
 
 (3) A miniszter az illetékes kormányhivatal éves munkatervét az (1) bekezdésben meghatározott rendszerben február 20-ig jóváhagyja, és szükség esetén javaslatot tesz a kincstárnak és az illetékes kormányhivatalnak az együttes ellenőrzésre.
 
-(4)[^31] Az (1) bekezdés szerinti rendszert úgy kell kiépíteni, hogy a miniszter statisztikai célú jelentéseket készíthessen az ellenőrzések eredményeiről, valamint legalább öt évig tartó időszakban monitorozhassa az ellenőrzési folyamatokat.
+(4)[^36] Az (1) bekezdés szerinti rendszert úgy kell kiépíteni, hogy a miniszter statisztikai célú jelentéseket készíthessen az ellenőrzések eredményeiről, valamint legalább öt évig tartó időszakban monitorozhassa az ellenőrzési folyamatokat.
 
-[^31]: A 26. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.
+[^36]: A 26. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.
