@@ -1,6 +1,6 @@
 ## 2. A rendelkezési jog kedvezményezettje
 
-4. § (1) E törvény alkalmazásában kedvezményezett
+4. § (1) Kedvezményezettnek minősül
 
 a) a magánszemély rendelkező nyilatkozata évének első napja előtt legalább
 
