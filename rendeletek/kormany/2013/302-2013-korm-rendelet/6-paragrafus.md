@@ -1,1 +1,0 @@
-## „(1c) Az NFÜ a felhívást – ide nem értve a kiemelt projektre vonatkozó felhívást – 10 napos határidő biztosításával társadalmi egyeztetésre bocsátja. A társadalmi egyeztetés időtartama a felhívás kibocsátásának határidejébe nem számít bele.”

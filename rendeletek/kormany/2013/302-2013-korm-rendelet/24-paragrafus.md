@@ -1,1 +1,0 @@
-## „(7) A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg csak a KSZ és az NFÜ adott szerződés-módosításra vonatkozó támogató tartalmú nyilatkozata, és véleménye alapján folyósítható.”

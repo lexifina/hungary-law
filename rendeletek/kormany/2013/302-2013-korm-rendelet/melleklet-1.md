@@ -1,7 +1,3 @@
-1. melléklet a 302/2013. (VII. 29.) Korm. rendelethez
+1. melléklet a 302/2013. (VII. 29.) Korm. rendelethez[^5]
 
-A Rendelet 3. mellékletében foglalt táblázat D:5 mezője helyébe a következő mező lép:
-
-|  | (Közreműködő szervezet) |
-
-| (Környezet és Energia Operatív Program) | NKEK Nemzeti Környezetvédelmi és Energia Központ Nonprofit Kft. |
+[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

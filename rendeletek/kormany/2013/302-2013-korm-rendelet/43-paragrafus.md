@@ -1,3 +1,0 @@
-## 42. § A Rendelet 97. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) A szabálytalansági eljárás során eljáró szervezet vezetője a jogorvoslati eljárás alatt bármikor elrendelheti a kifizetések felfüggesztését. A kifizetés közreműködő szervezet általi felfüggesztését az NFÜ felülbírálhatja. A kifizetés felfüggesztésének elrendelése vagy megszüntetése esetén a 88. § (2) bekezdés szerinti körülményeket kell figyelembe venni. A kifizetések felfüggesztésének elrendeléséről és megszüntetéséről a szabálytalansági eljárás során eljáró szervezet vezetője haladéktalanul tájékoztatja az NFÜ-t, a Miniszterelnökséget vezető államtitkárt és a kedvezményezettet.”
