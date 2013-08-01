@@ -7,5 +7,5 @@
 (3)[^53] A betegséggel kapcsolatos nyilvántartást a járási főállatorvos vezeti.
 
 [^51]: A 38. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
-[^52]: A 38. § (2) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^52]: A 38. § (2) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
 [^53]: A 38. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.

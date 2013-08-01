@@ -7,5 +7,5 @@
 (3)[^44] A tenyésztett víziállatokkal kapcsolatos (1) bekezdés szerinti tevékenységet az állatvédelmi előírások betartásával kell végezni.
 
 [^42]: A 33. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
-[^43]: A 33. § (2) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^43]: A 33. § (2) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
 [^44]: A 33. § (3) bekezdését a 106/2009. (VIII. 14.) FVM rendelet 9. §-a iktatta be.

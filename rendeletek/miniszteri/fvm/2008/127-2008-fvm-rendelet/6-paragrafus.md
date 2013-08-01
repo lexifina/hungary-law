@@ -1,1 +1,3 @@
+## előírt adatokat.
+
 ## Nyilvántartás

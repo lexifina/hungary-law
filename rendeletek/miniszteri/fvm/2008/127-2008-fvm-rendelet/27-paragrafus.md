@@ -20,7 +20,7 @@ c) a b) pontban előírt vizsgálat eredményének megérkezéséig:
 
 (3)[^32] Az elpusztult víziállatokat a járási főállatorvos engedélyével, kizárólag diagnosztikai célra vagy ártalmatlanítás céljából szabad elszállítani a gazdaságból.
 
-[^25]: A 27. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^25]: A 27. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
 [^26]: A 27. § (1) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
 [^27]: A 27. § (1) bekezdés b) pontja a 106/2009. (VIII. 14.) FVM rendelet 15. § (3) bekezdése, a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
 [^28]: A 27. § (1) bekezdés c) pont 1. alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.

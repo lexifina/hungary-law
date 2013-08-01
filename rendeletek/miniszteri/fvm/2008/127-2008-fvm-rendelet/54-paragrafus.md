@@ -6,4 +6,4 @@
 
 (2) Amennyiben az ország betegségtől mentes minősítéssel nem rendelkezik, betegségtől mentes övezetek vagy területi egységek esetében, és minden olyan esetben, amikor a feltételek nem vezetnek a kérdéses betegség klinikai kifejlődéséhez, a célzott felügyeletet az 1999/468/EK határozat 5. és 7. cikkében meghatározott eljárással összhangban meghatározott ellenőrző, mintavételi és diagnosztikai módszerekkel összhangban továbbra is folytatni kell, de csak a kockázat szintjével arányos mértékben.
 
-[^71]: Az 53. § az 51/2013. (VI. 17.) VM rendelet 17. § h) és i) pontja szerint módosított szöveg.
+[^71]: Az 53. § az 51/2013. (VI. 17.) VM rendelet 17. § h) és i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) és h) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, valamint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]

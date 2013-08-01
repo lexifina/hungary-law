@@ -16,6 +16,6 @@ b) a betegséggel fertőzött más övezetbe vagy területi egységbe történő
 
 (4) Amennyiben az országos főállatorvos úgy dönt, hogy nem szükséges intézkedni a betegségtől mentes státus visszanyerése érdekében, a 40. §-t kell alkalmazni.
 
-[^54]: A 39. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
-[^55]: A 39. § (1) bekezdés b) pontja az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
+[^54]: A 39. § (1) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^55]: A 39. § (1) bekezdés b) pontja az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
 [^56]: A 39. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.

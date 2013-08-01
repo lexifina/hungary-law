@@ -21,5 +21,5 @@ c) azon víziállatok ikrái, ivadékai, járművek, anyagok, személyek, amelye
 (5) Amennyiben szükséges, az országos főállatorvos tájékoztatja a szomszédos tagállamok vagy harmadik országok illetékes hatóságait a betegség gyanújáról.
 
 [^33]: A 28. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.
-[^34]: A 28. § (3) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
-[^35]: A 28. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^34]: A 28. § (3) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^35]: A 28. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]

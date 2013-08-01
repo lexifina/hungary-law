@@ -16,4 +16,4 @@ c) az ellenőrző mintavétel során a diagnosztikai vizsgálatok negatív eredm
 
 d) a gazdaság rendelkezzen olyan nyilvántartással, amely tartalmaz minden olyan információt, amely lehetővé teszi a víziállatok egészségi állapotának állandó ellenőrzését.
 
-[^58]: A 41. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^58]: A 41. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]

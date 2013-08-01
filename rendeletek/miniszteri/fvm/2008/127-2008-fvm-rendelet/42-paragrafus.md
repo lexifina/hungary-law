@@ -6,4 +6,4 @@
 
 (4) A betegség által érintett vízgyűjtő területen a csatlakozó vízfolyásokon legalább 10 km távolságig, amennyiben a járványügyi egység területe nagyobb ennél, akkor annak teljes területén található, természetes vízből származó vízellátású víziállat-tenyésztő vállalkozás esetében, amelyeknél nincs az egyéb víziállatoknak a gazdaság területére történő bejutását megakadályozó természetes vagy mesterséges gát, a mentesség fenntartása érdekében a 41. § (4) bekezdését kell alkalmazni.
 
-[^59]: A 42. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § d) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^59]: A 42. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § d) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]

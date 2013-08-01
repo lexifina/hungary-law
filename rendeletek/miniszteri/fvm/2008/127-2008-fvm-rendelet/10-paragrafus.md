@@ -14,7 +14,7 @@ c) halászati témában dr. univ, PhD vagy kandidátusi fokozatot szerzett, vagy
 
 d)[^10] agrármérnök képesítéssel és tízéves halászati munkakörben eltöltött igazolt szakmai gyakorlattal rendelkezik,
 
-és az MgSzH Központ által szervezett képesítő víziállat-egészségügyi tanfolyam elvégezését követően eredményes vizsgát tett.
+## és a NÉBIH által szervezett képesítő víziállat-egészségügyi tanfolyam elvégezését követően eredményes vizsgát tett.
 
 (3)[^11] Az (1) bekezdés szerinti kockázatalapú állat-egészségügyi felügyeleti rendszer az alábbiak kimutatására irányul:
 
@@ -28,10 +28,10 @@ b) a 3. számú mellékletben felsorolt betegségek, azokban a gazdaságokban, a
 
 (6)[^14] A víziállat-tenyésztő vállalkozás köteles az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által a nemzeti monitoring program keretében meghatározott mennyiségű mintát venni és azt saját költségére a koi herpesz-vírus betegség és a pontyfélék tavaszi virémiája kimutatására a nemzeti referencia laboratóriumban (a továbbiakban: NRL) megvizsgáltatni.
 
-[^8]: A 10. § (1) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 2. § (1) bekezdésével megállapított, az 51/2013. (VI. 17.) VM rendelet 17. § e) pontja szerint módosított szöveg.
-[^9]: A 10. § új (2) bekezdését a 106/2009. (VIII. 14.) FVM rendelet 2. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(4) bekezdés számozását (3)–(5) bekezdésre változtatta.
+[^8]: A 10. § (1) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 2. § (1) bekezdésével megállapított, az 51/2013. (VI. 17.) VM rendelet 17. § e) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szervének” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^9]: A 10. § új (2) bekezdését a 106/2009. (VIII. 14.) FVM rendelet 2. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(4) bekezdés számozását (3)–(5) bekezdésre változtatta. A 10. § (2) bekezdés záró szövegrésze a 70/2013. (VII. 31.) VM rendelet 99. § g) pontja szerint módosított szöveg.
 [^10]: [A 10. § (2) bekezdés d) pontjában az 51/2013. (VI. 17.) VM rendelet 17. § h) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
 [^11]: A 10. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 106/2009. (VIII. 14.) FVM rendelet 2. § (1) bekezdése.
 [^12]: A 10. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 106/2009. (VIII. 14.) FVM rendelet 2. § (1) bekezdése.
 [^13]: A 10. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 106/2009. (VIII. 14.) FVM rendelet 2. § (1) bekezdése.
-[^14]: A 10. § (6) bekezdését a 106/2009. (VIII. 14.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^14]: A 10. § (6) bekezdését a 106/2009. (VIII. 14.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]

@@ -2,4 +2,4 @@
 
 (2) A tenyésztett víziállatok a 13. § (1) bekezdésével összhangban vihetők be gazdaságokba.
 
-[^57]: A 40. § (1) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^57]: A 40. § (1) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]

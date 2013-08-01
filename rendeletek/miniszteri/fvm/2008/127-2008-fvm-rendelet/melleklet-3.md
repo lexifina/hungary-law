@@ -110,6 +110,4 @@
 
 3. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^84]
 
-Jegyzékbe foglalt betegségek
-
 [^84]: A 3. számú melléklet az 51/2013. (VI. 17.) VM rendelet 16. §-ával megállapított szöveg.

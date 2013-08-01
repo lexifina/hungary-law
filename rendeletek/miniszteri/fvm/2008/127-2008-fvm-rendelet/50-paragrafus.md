@@ -10,5 +10,5 @@
 
 (5)[^69] Az (1)–(3) bekezdést nem kell alkalmazni a vakcináknak ellenőrzött feltételek mellett történő kifejlesztése és tesztelése céljából végzett tudományos vizsgálatokra. E vizsgálatok során a NÉBIH megfelelő intézkedéseket tesz annak érdekében, hogy a víziállatokat megóvják a vizsgálatok keretében elvégzett vakcinázás bármely káros hatásától.
 
-[^68]: Az 50. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
-[^69]: Az 50. § (5) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
+[^68]: Az 50. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^69]: Az 50. § (5) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]

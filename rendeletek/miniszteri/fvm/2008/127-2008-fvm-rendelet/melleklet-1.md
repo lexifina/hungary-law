@@ -1,6 +1,6 @@
 1. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
 
-A víziállat-tenyésztő vállalkozások és az engedéllyel rendelkező feldolgozólétesítmények hatósági nyilvántartásában megkövetelt információk
+## A víziállat-tenyésztő vállalkozások és az engedéllyel rendelkező feldolgozólétesítmények hatósági nyilvántartásában megkövetelt információk
 
 I. RÉSZ
 
@@ -42,5 +42,5 @@ d) az engedéllyel rendelkező feldolgozólétesítmény szennyvízkezelő rends
 
 e) az engedéllyel rendelkező feldolgozólétesítményben élelmiszer-előállítás céljából feldolgozásra kerülő tenyésztett víziállatfajok.
 
-[^81]: Az 1. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
-[^82]: Az 1. számú melléklet II. rész nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
+[^81]: Az 1. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]
+[^82]: Az 1. számú melléklet II. rész nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]

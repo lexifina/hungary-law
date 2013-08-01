@@ -34,6 +34,4 @@ m) 38. §-ának (1) bekezdését, valamint
 
 n) 40. §-ának (20) bekezdését
 
-a puhatestű-tenyésztési terület esetében is alkalmazni kell.
-
 [^77]: A 60. § (2) bekezdés c) pontja a 106/2009. (VIII. 14.) FVM rendelet 13. §-ával megállapított szöveg.

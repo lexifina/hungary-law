@@ -14,6 +14,6 @@
 
 (6) A helyi zárlat megvalósításához szükséges tárgyi feltételek költségei a tenyésztett víziállatok tulajdonosát terhelik.
 
-[^37]: A 31. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^37]: A 31. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
 [^38]: A 31. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § c) pontja szerint módosított szöveg.
 [^39]: A 31. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja szerint módosított szöveg.

@@ -1,3 +1,5 @@
+## szerinti fogalommeghatározásokat is alkalmazni kell.
+
 ## II. Fejezet
 
 ## A VÍZIÁLLAT-TENYÉSZTŐ VÁLLALKOZÁSOK
@@ -12,7 +14,7 @@ a) halfajok esetében a tartási helyek, a tenyészetek és az ezekkel kapcsolat
 
 b)[^2] egyéb víziállatok esetében a gazdaság helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) által az 5. §-sal összhangban kiadott engedéllyel
 
-működhet.
+## működhet.
 
 (2)[^3] A tenyésztett víziállatokat a 33. §-sal összhangban járványvédelmi célból leölő feldolgozólétesítményeket az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az 5. §-ban foglaltak szerint engedélyezi.
 
@@ -28,8 +30,8 @@ c) az olyan víziállat-tenyésztő vállalkozásokat, amelyek kizárólag ember
 
 (5)[^6] E rendelet előírásainak be nem tartása esetén az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a 882/2004/EK rendelet 54. cikkével összhangban jár el.
 
-[^2]: A 4. § (1) bekezdés b) pontja az 51/2013. (VI. 17.) VM rendelet 17. § a) pontja szerint módosított szöveg.
-[^3]: A 4. § (2) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
-[^4]: A 4. § (3) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
-[^5]: A 4. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § e) pontja szerint módosított szöveg.
-[^6]: A 4. § (5) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés b) pontja az 51/2013. (VI. 17.) VM rendelet 17. § a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatalnak a gazdaság helye szerint illetékes területi szerve (a továbbiakban: MgSzH területi szerve)” szövegrész helyébe a „gazdaság helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóság (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság)” szöveg lép, nem vezethető át.]
+[^3]: A 4. § (2) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^4]: A 4. § (3) bekezdés nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^5]: A 4. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § e) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § e) pontjával elrendelt módosítás, amely szerint az „MgSzH területi szervének” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^6]: A 4. § (5) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § b) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § b) pontjával elrendelt módosítás, amely szerint a „MgSzH területi szerve” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg lép, nem vezethető át.]

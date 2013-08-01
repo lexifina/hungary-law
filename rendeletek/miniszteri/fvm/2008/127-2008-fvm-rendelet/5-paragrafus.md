@@ -13,5 +13,3 @@ b) rendelkezik olyan rendszerrel, amely az üzemeltető számára lehetővé tes
 a) víziállat-tenyésztő vállalkozás esetében az 1. számú melléklet I. része 1. pontjának a), valamint c)–f) alpontjaiban,
 
 b) az engedélyezési kötelezettség alá eső feldolgozólétesítmény esetében az 1. számú melléklet II. részének a), valamint c)–e) pontjaiban
-
-előírt adatokat.

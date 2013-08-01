@@ -14,7 +14,7 @@
 
 (5)[^64] A programoknak az (1)–(3) bekezdés szerinti jóváhagyása időpontjától a programok hatálya alá tartozó területekre a 15–24/A. §-ban, a 27–38. §-ban, valamint a 39. § (1) bekezdésében a betegségtől mentes területekkel kapcsolatban előírt követelményeket és intézkedéseket kell alkalmazni.
 
-[^61]: A 46. § (1) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
-[^62]: A 46. § (3) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
-[^63]: A 46. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
+[^61]: A 46. § (1) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^62]: A 46. § (3) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^63]: A 46. § (4) bekezdése az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
 [^64]: A 46. § (5) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 11. §-ával megállapított szöveg.

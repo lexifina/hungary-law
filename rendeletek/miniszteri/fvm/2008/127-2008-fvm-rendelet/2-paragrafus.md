@@ -28,6 +28,4 @@ c) a 2006/88/EK tanácsi irányelvnek a tenyésztett víziállatok és az azokb�
 
 d) a 2006/88/EK tanácsi irányelvnek a felügyeleti és felszámolási programok, valamint a tagállamok, övezetek és területi egységek betegségtől mentes minősítése tekintetében történő végrehajtásáról szóló 2008. október 31-i 2009/177/EK bizottsági határozattal
 
-együttesen kell alkalmazni.
-
 [^1]: A 2. § (5) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 1. §-ával megállapított szöveg.

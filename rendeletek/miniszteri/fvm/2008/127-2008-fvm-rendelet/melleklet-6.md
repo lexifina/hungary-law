@@ -62,7 +62,7 @@
 
 6. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
 
-A készenléti tervekre vonatkozó feltételek és követelmények
+## A készenléti tervekre vonatkozó feltételek és követelmények
 
 A NÉBIH által készített készenléti tervnek meg kell felelnie legalább a következőknek:[^97]
 
@@ -96,10 +96,10 @@ c) a természetre vagy a különös védettségű helyekre minimális hátrányo
 
 12. A tervben azonosításra alkalmas módon fel kell tüntetni a járvány kitörése esetén az 1774/2002/EK rendelettel összhangban az állati melléktermék kezelésével vagy ártalmatlanításával foglalkozó megfelelő területeket és vállalkozásokat.
 
-[^93]: Az 5. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
-[^94]: Az 5. számú melléklet I. rész 1. pont f) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg.
-[^95]: Az 5. számú melléklet I. rész 1. pont h) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § h) és n) pontja szerint módosított szöveg.
-[^96]: Az 5. számú melléklet II. rész 1. pont a) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § l) pontja szerint módosított szöveg.
-[^97]: A 6. számú melléklet nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
-[^98]: A 6. számú melléklet 4. pontja az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg.
-[^99]: A 6. számú melléklet 5. pontja az 51/2013. (VI. 17.) VM rendelet 17. § i) és m) pontja szerint módosított szöveg.
+[^93]: Az 5. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]
+[^94]: Az 5. számú melléklet I. rész 1. pont f) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^95]: Az 5. számú melléklet I. rész 1. pont h) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § h) és n) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^96]: Az 5. számú melléklet II. rész 1. pont a) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § l) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § k) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központot” szövegrész helyébe az „a NÉBIH-et” szöveg lép, nem vezethető át.
+[^97]: A 6. számú melléklet nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]
+[^98]: A 6. számú melléklet 4. pontja az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]
+[^99]: A 6. számú melléklet 5. pontja az 51/2013. (VI. 17.) VM rendelet 17. § i) és m) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) és l) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, valamint az „MgSzH területi szervei” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságok” szöveg lép, nem vezethető át.]
