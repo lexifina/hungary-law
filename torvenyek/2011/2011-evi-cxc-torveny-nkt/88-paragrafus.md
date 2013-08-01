@@ -6,4 +6,6 @@
 
 (3) A központi költségvetés a nem állami szerv által fenntartott intézmény köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, amelynek feltétele, hogy az intézmény a működési engedélyben foglaltaknak megfelelően végzi tevékenységét.
 
-(4)–(5)
+(4)
+
+(5)

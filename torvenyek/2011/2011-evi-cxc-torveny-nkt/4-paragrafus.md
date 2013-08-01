@@ -86,7 +86,7 @@ b)
 
 15. közösségi szolgálat: szociális, környezetvédelmi, a tanuló helyi közösségének javát szolgáló, szervezett keretek között folytatott, anyagi érdektől független, egyéni vagy csoportos tevékenység és annak pedagógiai feldolgozása,
 
-16. magánintézmény: nem állami, nem önkormányzati és nem egyházi fenntartású intézmény,
+16. magán köznevelési intézmény: a 2. § (3) bekezdés b) pont bc) és bd) alpontjában meghatározott személy által fenntartott köznevelési intézmény,
 
 17. minősítési eljárás: a pedagógus teljesítményét értékelő eljárás, amely a magasabb fokozatba lépéséhez szükséges,
 
@@ -126,4 +126,6 @@ b)
 
 34. telephely: a székhelyen kívül működő feladatellátási hely,
 
-35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, vagy a főváros határain kívül élők veszik igénybe.
+35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, vagy a főváros határain kívül élők veszik igénybe,
+
+36. egyházi köznevelési intézmény: a 2. § (3) bekezdés b) pont bb) alpontjában meghatározott személy által fenntartott köznevelési intézmény.

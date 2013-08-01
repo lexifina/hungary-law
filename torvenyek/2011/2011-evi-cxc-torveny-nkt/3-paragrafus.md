@@ -2,7 +2,7 @@
 
 (2) A köznevelésben a nevelés és oktatás feladatát a gyermek szülei, törvényes képviselői megosztják a köznevelési intézményekkel és a pedagógusokkal. E közös tevékenység alapja a bizalom, az intézmény és a pedagógusok szakmai hitele.
 
-(3) Az állami és települési önkormányzati nevelési-oktatási intézményben az ismereteket, a vallási, világnézeti információkat tárgyilagosan, sokoldalúan kell közvetíteni, a teljes nevelés-oktatási folyamatban tiszteletben tartva a gyermek, a tanuló, a szülő, a pedagógus vallási, világnézeti meggyőződését, és lehetővé kell tenni, hogy a gyermek, tanuló egyházi jogi személy által szervezett hit- és erkölcstan oktatásban vehessen részt.
+(3) Az állami és települési önkormányzati nevelési-oktatási intézményben az ismereteket, a vallási, világnézeti információkat tárgyilagosan, sokoldalúan kell közvetíteni, a teljes nevelés-oktatási folyamatban tiszteletben tartva a gyermek, a tanuló, a szülő, a pedagógus vallási, világnézeti meggyőződését, és lehetővé kell tenni, hogy a gyermek, tanuló fakultatív hitoktatásban, illetve hit- és erkölcstan oktatásban vehessen részt.
 
 (4) A köznevelés érvényre juttatja a nemzetiségek kulturális autonómiájának megfelelő oktatási érdekeket.
 

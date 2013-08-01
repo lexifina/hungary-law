@@ -28,7 +28,7 @@ k) dönt az állami intézményfenntartó központ által fenntartott köznevel�
 
 (3) Az oktatásért felelős miniszter az általa vezetett minisztérium költségvetésének a terhére országos és térségi szakmai ellenőrzést, pedagógiai-szakmai mérések, átvilágítások, elemzések készítését rendelheti el, továbbá felkérheti a fenntartót, hogy a fenntartásában lévő nevelési-oktatási intézményben végeztessen törvényességi, szakmai ellenőrzést, pedagógiai-szakmai mérést, átvilágítást, elemzést, és ennek eredményéről tájékoztassa. Ha a fenntartó a felkérésnek nem tesz eleget, az oktatásért felelős miniszter intézkedésére a hivatal jár el.
 
-(4) Az oktatásért felelős miniszter kezdeményezi a kormányhivatalnál, hogy határidő kitűzésével hívja fel az érintett települési önkormányzatot a köznevelési feladatainak ellátásával összefüggő törvénysértés megszüntetésére. Az oktatásért felelős miniszter, ha az egyházi és magánintézmény működésével, működtetésével összefüggésben jogsértés megalapozott gyanúja merül fel, tájékoztatja a kormányhivatalt.
+(4) Az oktatásért felelős miniszter kezdeményezi a kormányhivatalnál, hogy határidő kitűzésével hívja fel az érintett települési önkormányzatot a köznevelési feladatainak ellátásával összefüggő törvénysértés megszüntetésére. Az oktatásért felelős miniszter, ha az az egyházi köznevelési intézmény vagy a magán köznevelési intézmény működésével, működtetésével összefüggésben jogsértés megalapozott gyanúja merül fel, tájékoztatja a kormányhivatalt.
 
 (5) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.
 

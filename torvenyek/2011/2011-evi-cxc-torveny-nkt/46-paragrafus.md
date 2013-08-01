@@ -28,7 +28,7 @@ c) nemzetiségi hovatartozásának megfelelő nevelésben és oktatásban része
 
 d) részére az állami iskola egész pedagógiai programjában és tevékenységében a nevelés-oktatás során a tájékoztatás nyújtása és az ismeretek közlése tárgyilagosan és többoldalú módon történjék,
 
-e) egyházi, magánintézményben vegye igénybe az óvodai, iskolai, kollégiumi ellátást, továbbá, hogy az állami, és települési önkormányzati fenntartású nevelési-oktatási intézményben egyházi jogi személy által szervezett hit- és erkölcsoktatásban vegyen részt,
+e) egyházi köznevelési intézményben vagy magán köznevelési intézményben vegye igénybe az óvodai, iskolai, kollégiumi ellátást, továbbá hogy az állami vagy települési önkormányzati fenntartású nevelési-oktatási intézményben fakultatív hitoktatásban, hit- és erkölcstanoktatásban vegyen részt,
 
 f) személyiségi jogait, így különösen személyiségének szabad kibontakoztatásához való jogát, önrendelkezési jogát, cselekvési szabadságát, családi élethez és magánélethez való jogát a nevelési-oktatási intézmény tiszteletben tartsa, e jogának gyakorlása azonban nem korlátozhat másokat ugyanezen jogainak érvényesítésében, továbbá nem veszélyeztetheti a saját és társai, a nevelési-oktatási intézmény alkalmazottai egészségét, testi épségét, valamint a művelődéshez való jog érvényesítéséhez szükséges feltételek megteremtését, fenntartását,
 

@@ -1,6 +1,6 @@
-## 23. Egyházi és magánintézmények működésére, valamint az állami nevelési-oktatási intézményekben megszervezhető hit- és erkölcsoktatásra vonatkozó sajátos szabályok
+## 23. Az egyházi köznevelési intézmény és a magán köznevelési intézmény működésére, valamint az állami nevelési-oktatási intézményekben megszervezhető hit- és erkölcsoktatásra vonatkozó sajátos szabályok
 
-31. § (1) Az egyházi és magánintézmények az e törvényben foglalt, az általánostól eltérő szabályok szerint működhetnek és szervezhetik tevékenységüket.
+31. § (1) Az egyházi köznevelési intézmények és a magán köznevelési intézmények az e törvényben foglalt, az általánostól eltérő szabályok szerint működhetnek és szervezhetik tevékenységüket.
 
 (2) Ha a nevelési-oktatási intézményt egyház vagy más nem állami szerv, nem települési önkormányzat tartja fenn:
 
@@ -32,4 +32,4 @@ e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásba
 
 (6) A köznevelési szerződés érvényességi ideje öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
 
-(7) Az egyházi és magánintézmények fenntartóival kötött köznevelési szerződés megkötéséhez ki kell kérni az intézmény székhelye, telephelye szerint illetékes kormányhivatal, települési önkormányzat, nemzetiségi nevelés, nevelés-oktatás esetében az érintett országos nemzetiségi önkormányzat véleményét.
+(7) Az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartóival kötött köznevelési szerződés megkötéséhez ki kell kérni az intézmény székhelye, telephelye szerint illetékes kormányhivatal, települési önkormányzat, nemzetiségi nevelés, nevelés-oktatás esetében az érintett országos nemzetiségi önkormányzat véleményét.

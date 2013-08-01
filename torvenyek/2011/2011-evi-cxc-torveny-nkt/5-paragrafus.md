@@ -24,7 +24,7 @@ d) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő s
 
 (5) A Nat-ban foglaltak érvényesülését a kerettantervek biztosítják. Az egyes iskolatípusokban és oktatási szakaszokban a kerettantervek tartalmazzák a nevelés és oktatás céljait, a tantárgyi rendszert, az egyes tantárgyak témaköreit, tartalmát, a tantárgyak egy vagy két évfolyamra vonatkozó követelményeit, továbbá a tantárgyközi tudás- és képességterületek fejlesztésének feladatait, és meghatározzák a követelmények teljesítéséhez rendelkezésre álló kötelező, valamint az ajánlott időkeretet.
 
-(6) Az iskolafenntartó, továbbá a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti, az Országgyűlés által elismert magyarországi egyházak, vallásfelekezetek és vallási közösségek – e törvény és a Nat keretei között – kerettantervet nyújthatnak be jóváhagyás céljából. Az e §-ban szabályozott eljárások költsége azt terheli, aki az eljárást indította.
+(6) Az iskolafenntartó – e törvény és a Nat keretei között – kerettantervet nyújthat be jóváhagyás céljából. Az e §-ban szabályozott eljárások költsége azt terheli, aki az eljárást indította.
 
 (7) Az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában alkalmazandó kerettantervet a szakképzésről szóló törvény és a szakmai és vizsgakövetelményeket meghatározó miniszteri rendeletek alapján készülő kerettantervek tartalmazzák. A kerettanterveket a szakképzésért és felnőttképzésért felelős miniszter az oktatásért felelős miniszter egyetértésével rendeletben adja ki.
 

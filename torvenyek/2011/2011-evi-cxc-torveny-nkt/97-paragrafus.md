@@ -10,7 +10,7 @@
 
 (6) A 27. § (11) bekezdés szerinti mindennapos testnevelést az iskolai nevelés-oktatás első, ötödik, kilencedik évfolyamán 2012. szeptember 1-jétől kezdődően felmenő rendszerben kell megszervezni. Ezeken az évfolyamokon alkalmazott helyi tantervbe legalább heti öt testnevelés órát kell beépíteni. A többlet testnevelési órákkal a Kt. 52. § (3) bekezdésében meghatározott tanulói kötelező tanórai foglalkozások száma megnövelhető. A többi évfolyamon a közoktatásról szóló 1993. évi LXXIX. törvény szerinti mindennapos testmozgást kell kifutó rendszerben megszervezni.
 
-(7) A 35. § (1) bekezdés szerinti erkölcstan órát vagy az ehelyett választható az egyházi jogi személy által szervezett hit- és erkölcstan órát az iskolai nevelés-oktatás első, ötödik évfolyamán 2013. szeptember 1-jétől kezdődően felmenő rendszerben kell megszervezni. A többi évfolyamon a közoktatásról szóló 1993. évi LXXIX. törvény szerinti fakultatív hit- és erkölcstanra vonatkozó rendelkezéseket kell kifutó rendszerben alkalmazni.
+(7) A 35/A. § szerinti hit- és erkölcstan órát az iskolai nevelés-oktatás első és ötödik évfolyamán, valamint a hat évfolyammal működő gimnáziumban a hetedik évfolyamon 2013. szeptember 1-jétől kezdődően felmenő rendszerben kell megszervezni.
 
 (8) A hivatal a köznevelés-fejlesztési tervet első alkalommal 2013. április 30-ig készíti el.
 
