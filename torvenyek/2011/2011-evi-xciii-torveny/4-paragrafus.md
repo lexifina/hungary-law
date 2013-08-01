@@ -24,7 +24,7 @@ b) a Magyar Tudományos Akadémia, a Magyar Rektori Konferencia és a Magyar Kö
 
 c) a Magyar Tudományos Akadémia által kijelölt, a határon túli magyar tudományos élet képviselője;
 
-5. a külön törvény szerinti egyházak képviselői.
+5. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11/A. § (1) bekezdése szerinti tevékenységgel összefüggésben foglalkoztatott személyek számát tekintve legjelentősebb gazdasági súlyt képviselő négy bevett egyház képviselői.
 
 (2) A Tanács tagjai az őket delegáló szervezet megbízásából tagjai a tanácsnak. A Tanács tagjainak megbízatása négy évre szól.
 
