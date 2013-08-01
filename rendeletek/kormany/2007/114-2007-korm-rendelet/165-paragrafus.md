@@ -1,11 +1,11 @@
 ## Szakhatósági eljárás
 
-165. § (1)[^318] A Kormány a hontalanság megállapítására irányuló eljárásban a Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot szakhatóságként jelöli ki.
+165. § (1)[^319] A Kormány a hontalanság megállapítására irányuló eljárásban a Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot szakhatóságként jelöli ki.
 
-(2)[^319] A Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ a kérelmezőt meghallgathatja.
+(2)[^320] A Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ a kérelmezőt meghallgathatja.
 
-(3)[^320]
+(3)[^321]
 
-[^318]: A 165. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^319]: A 165. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^320]: A 165. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 9. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^319]: A 165. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^320]: A 165. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^321]: A 165. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 9. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

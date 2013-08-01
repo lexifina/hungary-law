@@ -1,6 +1,6 @@
 ## 86. §[^162] A regionális igazgatóság a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár kérelmére egy alkalommal átvállalhatja a munkavállaláshoz szükséges munkaalkalmassági egészségügyi vizsgálat költségeinek, valamint a szakmai képesítést igazoló dokumentumok fordítása költségeinek megtérítését. Az átvállalt összeget a Hivatal folyósítja. A kérelemhez mellékelni kell a fordíttatni kívánt dokumentumot, valamint a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár fordítás céljára vonatkozó nyilatkozatát.
 
-87. § (1) A Hivatal társadalmi szervezettel, helyi önkormányzattal, egyházzal, jogi személlyel, egyesülettel, alapítvánnyal, ezek intézményeivel, gazdasági társasággal (a továbbiakban: szolgáltató) szerződést köthet
+87. § (1)[^163] A Hivatal társadalmi szervezettel, helyi önkormányzattal, vallási közösséggel,, egyesülettel, alapítvánnyal, ezek intézményeivel, gazdasági társasággal (a továbbiakban: szolgáltató) szerződést köthet
 
 a) a befogadottak, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgárok elszállásolására;
 
@@ -23,3 +23,4 @@ d) a Hivatalnak a szerződés teljesülésére irányuló ellenőrzési jogosult
 e) a szerződés felmondásának módját, hónapokban meghatározott idejét, valamint az esetleges jogviták rendezésére vonatkozó kikötéseket.
 
 [^162]: A 86. § a 290/2010. (XII. 21.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^163]: A 87. § (1) bekezdés nyitó szövegrésze a 297/2013. (VII. 29.) Korm. rendelet 39. §-a szerint módosított szöveg.
