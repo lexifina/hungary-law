@@ -1,6 +1,6 @@
 10. § (1) A támogatási szerződés teljesítésének ellenőrzésére jogosult:
 
-a) az FVM és a KöM,
+a)[^7] a VM,
 
 b) az igazgatóság,
 
@@ -15,3 +15,5 @@ c) a támogatást folyósító szerv.
 (5) A felülvizsgálatnak ki kell terjednie arra, hogy az egyes földrészleteken végzett tevékenységek, és az egyes előírások teljesítése során az 1. § (1) bekezdésében meghatározott célok elérésében milyen konkrét eredmények, illetve hatások mutathatók ki.
 
 (6) A felülvizsgálat eredményeit a későbbi előírások és tevékenységek meghatározása során figyelembe kell venni.
+
+[^7]: A 10. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 12. § i) pontjával megállapított szöveg.

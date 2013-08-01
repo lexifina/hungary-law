@@ -6,7 +6,7 @@
 
 (2) A természetkímélő gazdálkodás előírásait, a támogatás részletes feltételeit és mértékét a 8. § (1) bekezdés szerinti külön jogszabály és a hozzá kapcsolódó pályázati felhívás alapján megkötött szerződés tartalmazza.
 
-(3) A támogatás biztosítása érdekében – térségi ÉTT bontásban – az Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: FVM) a KöM egyetértésével pályázati felhívást tesz közzé.
+(3)[^4] A támogatás biztosítása érdekében – térségi ÉTT bontásban – az VM pályázati felhívást tesz közzé.
 
 (4) A pályázati felhívás tartalmazza:
 
@@ -22,4 +22,7 @@ e) az előírások betartásának ellenőrzésére vonatkozó szabályokat;
 
 f) egyéb, a támogatás szempontjából lényeges információkat.
 
-(5) A felhívást az FVM hivatalos lapjában és legalább egy országos és egy – az adott térséget magában foglaló – regionális lapban közzé kell tenni. A felhívást az érintett települések önkormányzati, valamint az igazgatóság és az FM hivatal hirdetőtáblájára is ki kell függeszteni.
+(5)[^5] A felhívást a VM hivatalos lapjában és legalább egy országos és egy – az adott térséget magában foglaló – regionális lapban közzé kell tenni. A felhívást az érintett települések önkormányzati, valamint az igazgatóság és a földművelésügyi igazgatóság hirdetőtáblájára is ki kell függeszteni.
+
+[^4]: A 8. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 12. § f) pontja szerint módosított szöveg.
+[^5]: A 8. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 12. § b) és g) pontja szerint módosított szöveg.

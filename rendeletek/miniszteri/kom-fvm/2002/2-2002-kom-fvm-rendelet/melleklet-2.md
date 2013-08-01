@@ -1,4 +1,4 @@
-## Az ÉTT kijelölt térségei kategóriánként[^1]
+## Az ÉTT kijelölt térségei kategóriánként[^9]
 
 ## 1.1. Kiemelten fontos ÉTT-ek térségei
 
@@ -3306,4 +3306,4 @@ II. Fontos ÉTT-ek térségei
 
 III. Tervezett ÉTT-ek térségei
 
-[^1]: A jegyzék a 2001. december 31-ig kijelölt ÉTT-et tartalmazza. Az ÉTT kijelölt térségeinek térképi adatállománya az illetékes nemzeti park igazgatóságon áll rendelkezésre. A térségek megnevezése eltérhet a tájegységek földrajzi nevétől.
+[^9]: A jegyzék a 2001. december 31-ig kijelölt ÉTT-et tartalmazza. Az ÉTT kijelölt térségeinek térképi adatállománya az illetékes nemzeti park igazgatóságon áll rendelkezésre. A térségek megnevezése eltérhet a tájegységek földrajzi nevétől.
