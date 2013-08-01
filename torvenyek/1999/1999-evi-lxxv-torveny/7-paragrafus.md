@@ -10,7 +10,7 @@ b) az autópályától, az autóúttól, illetve lakott területen kívül az eg
 
 c) lakott területen a főútvonaltól számított 50 méteren belüli terület;
 
-d) a népképviseleti, közigazgatási, bírósági, ügyészi szervek, valamint diplomáciai és konzuli képviseletek és az ezzel egy tekintet alá eső nemzetközi szervezetek és tagjaik elhelyezésére szolgáló épületek, köz- és felsőoktatási, köznevelési, gyermekjóléti és gyermekvédelmi, szociális, közművelődési feladatok ellátására rendelt épületek, a személyforgalom célját szolgáló terminálok (repülőtér, pályaudvar, hajóállomások), a nyilvántartásba vett egyházak szertartásaira szolgáló intézmények, a Magyar Honvédség objektumai, valamint a temetkezési és egyéb kegyhelyek területén, illetve a közterületen azoktól számított 300 m távolságon belüli terület;
+d) a népképviseleti, közigazgatási, bírósági, ügyészi szervek, valamint diplomáciai és konzuli képviseletek és az ezzel egy tekintet alá eső nemzetközi szervezetek és tagjaik elhelyezésére szolgáló épületek, köz- és felsőoktatási, köznevelési, gyermekjóléti és gyermekvédelmi, szociális, közművelődési feladatok ellátására rendelt épületek, a személyforgalom célját szolgáló terminálok (repülőtér, pályaudvar, hajóállomások), a templomok és a vallásgyakorlásra rendelt más helyek, a temetők, valamint a Magyar Honvédség objektumai területén, illetve a közterületen azoktól számított 300 m távolságon belüli terület;
 
 e) az olyan mellékutcák, ahol a kiskorúak oktatását, nevelését, gyógyítását, tartós elhelyezését szolgáló, valamint gyermekjóléti és gyermekvédelmi intézmény működik.
 
