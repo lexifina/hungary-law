@@ -4,6 +4,7 @@
 
 (2)[^1]
 
-(3) Az R. 2013. július 31-én hatályát veszti.
+(3)[^2]
 
 [^1]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
