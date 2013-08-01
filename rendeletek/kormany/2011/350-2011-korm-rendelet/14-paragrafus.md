@@ -1,6 +1,6 @@
-14. §[^5]
+14. §[^6]
 
-Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^6]
+Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^7]
 
 Közhasznúsági melléklet – minta –
 
@@ -90,5 +90,5 @@ Közhasznúsági melléklet – minta –
 
 * Adatok ezer forintban.
 
-[^5]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^6]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.

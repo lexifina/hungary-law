@@ -4,7 +4,7 @@
 
 (2) Az adományozott köteles tájékoztatni az adományozót az adománygyűjtés céljáról és az ismert adományozót az adomány felhasználását illetően.
 
-(3) Az adomány felhasználása és az erről szóló beszámolás során érvényesülnie kell a nyilvánosság és az átláthatóság feltételeinek. Ennek érdekében az adományozottnak a 2 § (2) bekezdése[^3] szerinti módon be kell számolnia az adományok felhasználásáról.
+(3) Az adomány felhasználása és az erről szóló beszámolás során érvényesülnie kell a nyilvánosság és az átláthatóság feltételeinek. Ennek érdekében az adományozottnak a 2 § (2) bekezdése[^4] szerinti módon be kell számolnia az adományok felhasználásáról.
 
 (4) E rendelet alkalmazásában nem minősül adománynak
 
@@ -14,4 +14,4 @@ b) a köznevelésről szóló törvény alapján végzett közösségi szolgála
 
 c) az egészségügyről szóló törvény alapján adományozott szerv, szövet.
 
-[^3]: A Magyar Közlöny 2012. évi 1. számában megjelent helyreigazításnak megfelelő szöveg.
+[^4]: A Magyar Közlöny 2012. évi 1. számában megjelent helyreigazításnak megfelelő szöveg.
