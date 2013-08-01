@@ -2,7 +2,7 @@
 
 a) a Magyar Állam,
 
-b) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti belső egyházi jogi személy;
+b) az egyházi jogi személy.
 
 (2) Az (1) bekezdés b) pontjában meghatározott szervezet ingatlanonként évente egy alkalommal részesülhet a tulajdonilap-másolat díjának megfizetése alól személyes díjmentességben.
 

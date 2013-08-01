@@ -4,7 +4,7 @@ a) a Magyar Állam,
 
 b)–d)
 
-e) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti belső egyházi jogi személy;
+e) az egyházi jogi személy,
 
 f)–j)
 
