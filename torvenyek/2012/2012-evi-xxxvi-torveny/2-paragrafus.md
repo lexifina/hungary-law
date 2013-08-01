@@ -34,9 +34,9 @@ n) megteszi, illetve kezdeményezi az Országgyűlés biztonsága érdekében sz
 
 o) gyakorolja a jogutód nélkül megszűnt országgyűlési bizottság elnökének titokvédelemmel összefüggő jogait,
 
-p) rendészeti, illetve – e törvényben meghatározott esetekben – fegyelmi jogkört gyakorol a tárgyalási rend, az Országgyűlés zavartalan működésének biztosítása és az Országgyűlés méltóságának megőrzése érdekében,
+p) e törvényben meghatározott esetekben gyakorolja rendészeti, illetve fegyelmi jogkörét,
 
-q) irányítja az Országgyűlési Őrséget, kiadja az Országgyűlési Őrség Szervezeti és Működési Szabályzatát,
+q) az Országgyűlési Őrség irányításával összefüggésben kiadja az Országgyűlési Őrség Szervezeti és Működési Szabályzatát,
 
 r) az Országgyűlés Hivatala, valamint az Országgyűlési Őrség vezetőinek utasítást adhat feladat elvégzésére vagy mulasztás pótlására, az Országgyűlés Hivatalát, illetve az Országgyűlési Őrséget jelentéstételre vagy beszámolóra kötelezheti, fenntarthatja magának a jogot e szervek döntéseinek előzetes vagy utólagos jóváhagyására,
 

@@ -6,7 +6,7 @@ a) olyan állami részesedéssel működő gazdálkodó szervezet vezető tiszts
 
 b) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa külföldi állam, külföldi helyhatóság vagy nemzetközi szervezet,
 
-c) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa belföldi vagy külföldi egyház,
+c) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa belföldi vagy külföldi vallási közösség,
 
 d) olyan gazdálkodó szervezet vezető tisztségviselője, felügyelőbizottsági tagja, vezető állású munkavállalója, amelyben helyi önkormányzatnak, nemzetiségi önkormányzatnak, helyi önkormányzatok társulásának, fejlesztési tanácsnak, közalapítványnak, az államháztartás valamely alrendszerébe sorolt köztestületnek kizárólagos vagy közvetlen vagy közvetett többségi részesedése van,
 

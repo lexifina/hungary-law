@@ -1,6 +1,6 @@
 ## 19. A házelnök rendészeti jogköre
 
-53. § (1) A házelnök – az Országgyűlés zavartalan működésének, illetve az Országgyűlés méltóságának biztosítása érdekében – rendészeti jogkört gyakorol. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol.
+53. § (1) A házelnök az e törvényben és az Alaptörvényben meghatározottak szerint gyakorolja rendészeti jogkörét. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol az e törvényben és az Alaptörvényben meghatározottak szerint.
 
 (2) Az ülést vezető elnök az Országgyűlési Őrséggel kivezetteti az ülésteremből az 50. § (2) bekezdése szerint kizárt képviselőt, ha a képviselő az ülést vezető elnök felszólítása ellenére sem hagyja el a termet.
 
