@@ -54,7 +54,7 @@ b) a költségvetési szerv,
 
 c) az állami, az önkormányzati fenntartású oktatási, szociális és egészségügyi intézmény,
 
-d) az egyházi fenntartású oktatási, szociális és egészségügyi intézmény, valamint
+d) az egyházi intézmény, valamint
 
 e) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (3) bekezdés f)–j) pontjában meghatározott közfoglalkoztató
 
