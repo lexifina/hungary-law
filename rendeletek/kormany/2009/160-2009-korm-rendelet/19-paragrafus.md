@@ -24,23 +24,23 @@ c) garanciabiztosítási szerződés alapján kiállított kötelezvény,
 
 d) bankgarancia,
 
-e) egyházi intézmény részére az intézményt fenntartó egyház, vagy annak illetékes szervezeti egysége által vállalt készfizető kezesség.
+e)[^43] belső egyházi jogi személy esetében a bevett egyház vagy a belső egyházi jogi személy közvetlen felettes szerve által vállalt készfizető kezesség.
 
 (7) A hazai társfinanszírozási szerződés egyéb tartalmi követelményeit a Nemzeti Hatóság határozza meg és hagyja jóvá.
 
-(8)[^43] Az Ávr. 72. § (2) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
+(8)[^44] Az Ávr. 72. § (2) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
 
-(9)[^44]
+(9)[^45]
 
 (10) A szükséges jogerős hatósági engedélyek, hatásvizsgálathoz kötött tevékenység esetén a környezetvédelmi engedély hiányában a közösségi finanszírozásra jóváhagyott projekt hazai partnerével a hazai társfinanszírozási szerződés abban az esetben köthető meg, ha a projektrész az előkészítéstől kezdve a megvalósításon keresztül egy beruházás teljes egészét magába foglalja, és a hazai partner kötelezettséget vállal arra, hogy a szükséges engedélyeket a projektrész megvalósítása során beszerzi.
 
-(11)[^45] A (6) bekezdés b)–e) pontok alapján nyújtott biztosíték értékének el kell érnie a hazai partner számára a projekt keretében nyújtandó közösségi hozzájárulás és a hazai társfinanszírozás összegét.
+(11)[^46] A (6) bekezdés b)–e) pontok alapján nyújtott biztosíték értékének el kell érnie a hazai partner számára a projekt keretében nyújtandó közösségi hozzájárulás és a hazai társfinanszírozás összegét.
 
-(12)[^46] Nem köteles a (6) bekezdés szerinti biztosítékot nyújtani
+(12)[^47] Nem köteles a (6) bekezdés szerinti biztosítékot nyújtani
 
 a) a központi költségvetési szerv,
 
-b) az egyház és intézménye, ha a támogatás az egyház (egyházi intézmény) olyan közfeladat-ellátásával kapcsolatos, amelyre tekintettel normatív költségvetési támogatásra jogosult,
+b)[^48] az egyházi jogi személy, ha a támogatás az általa végezett olyan tevékenységével kapcsolatos, amelyre tekintettel normatív támogatásra jogosult,
 
 c) a helyi önkormányzat, a helyi kisebbségi önkormányzat, a többcélú kistérségi társulás, az önkormányzatok egyéb társulása, ha
 
@@ -52,7 +52,9 @@ d) a Nemzeti Hatóság döntése alapján az állami többségű tulajdonban lé
 
 [^41]: A 19. § (1) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^42]: A 19. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^43]: A 19. § (8) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 216/2012. (VIII. 9.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^44]: A 19. § (9) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
-[^45]: A 19. § (11) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^46]: A 19. § (12) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^43]: A 19. § (6) bekezdés e) pontja a 297/2013. (VII. 29.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^44]: A 19. § (8) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 216/2012. (VIII. 9.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^45]: A 19. § (9) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^46]: A 19. § (11) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^47]: A 19. § (12) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^48]: A 19. § (12) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 53. § (2) bekezdésével megállapított szöveg.

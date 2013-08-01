@@ -30,9 +30,9 @@ l) a projektek támogatási szerződéseknek megfelelő fizikai és pénzügyi e
 
 m) a teljesítés igazolását.
 
-(3)[^47] A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezet köteles gondoskodni a Kbt. és a közbeszerzésekre vonatkozó közösségi rendelkezések előírásai teljesülésének ellenőrzéséről.
+(3)[^49] A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezet köteles gondoskodni a Kbt. és a közbeszerzésekre vonatkozó közösségi rendelkezések előírásai teljesülésének ellenőrzéséről.
 
-(4)–(12)[^48]
+(4)–(12)[^50]
 
-[^47]: A 21. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
-[^48]: A 21. § (4)–(12) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^49]: A 21. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^50]: A 21. § (4)–(12) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.

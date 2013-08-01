@@ -1,4 +1,4 @@
-21/H. §[^56] (1) A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezetnek gondoskodnia kell a projektrészek megvalósításának helyszíni ellenőrzéséről.
+21/H. §[^58] (1) A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezetnek gondoskodnia kell a projektrészek megvalósításának helyszíni ellenőrzéséről.
 
 (2) Ha a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem haladja meg a 200 ezer eurót, a projektrész befejezése és a hazai partner által benyújtott záró jelentés elfogadása között legalább egy helyszíni ellenőrzést le kell folytatni. Ezen felül a helyszíni ellenőrzést akkor is le kell folytatni, ha azt a kockázatelemzés eredménye indokolja.
 
@@ -32,4 +32,4 @@ i) az elkülönített számviteli nyilvántartás vezetését.
 
 (8) A hitelesítési tevékenységre kijelölt szervezet a 21. § (1) bekezdése és az (1) bekezdés szerinti ellenőrzések elvégzését követően hitelesítési nyilatkozatot állít ki a hazai partner részére.
 
-[^56]: A 21/H. §-t a 216/2012. (VIII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^58]: A 21/H. §-t a 216/2012. (VIII. 9.) Korm. rendelet 4. §-a iktatta be.
