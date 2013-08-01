@@ -2,7 +2,7 @@
 
 111. §[^364] (1) Az e rendelet II–III. fejezetében meghatározott településrendezési követelményeknél szigorúbb követelményeket a helyi építési szabályzat megállapíthat.
 
-(2)[^365] A II–III. fejezetben meghatározott követelményeknél megengedőbb követelményeket a helyi építési szabályzat akkor állapíthat meg, ha
+(2)[^365] A II–III. fejezetben meghatározott követelményeknél megengedőbb követelményeket a településrendezési eszköz akkor állapíthat meg, ha
 
 a) azt különleges településrendezési okok vagy a kialakult helyzet indokolja, továbbá
 
@@ -31,7 +31,7 @@ valósítható meg.
 (5)[^372]
 
 [^364]: A 111. § a 182/2008. (VII. 14.) Korm. rendelet 50. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^365]: A 111. § (2) bekezdés nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^365]: A 111. § (2) bekezdés nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 3. § b) pontja, a 266/2013. (VII. 11.) Korm. rendelet 48. §-a szerint módosított szöveg.
 [^366]: A 111. § (2) bekezdés c) pontja a 211/2012. (VII. 30.) Korm. rendelet 30. § (1) bekezdésvel megállapított szöveg.
 [^367]: A 111. § (3) bekezdés nyitó szövegrésze a 211/2012. (VII. 30.) Korm. rendelet 32. § 54. pontja szerint módosított szöveg.
 [^368]: A 111. § (3) bekezdés b) pontja a 211/2012. (VII. 30.) Korm. rendelet 33. § 23. pontja szerint módosított szöveg.
