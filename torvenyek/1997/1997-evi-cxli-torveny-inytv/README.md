@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2013-02-01 | 2012. évi LXXXV. törvény | 1997-141-00-00.41 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 1997-141-00-00.42 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1997-141-00-00.43 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 1997-141-00-00.44 |
