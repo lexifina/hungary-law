@@ -14,7 +14,7 @@ b) első fokon eljár a közigazgatási hatósági ügyekben,
 
 c) az e törvényben, valamint jogszabályban meghatározott módon a hegyközség által vezetett nyilvántartásokból adatot szolgáltat,
 
-d)
+d) kiadja a telepítési és kivágási engedélyeket, vezeti az újratelepítési jogok nyilvántartását,
 
 e) vezeti a gazdasági aktát, ellenőrzi a gazdasági aktában nyilvántartott területek állapotát, a nyilvántartott adatok valóságtartalmát,
 

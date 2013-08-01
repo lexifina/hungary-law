@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-219-00-00
 | 2013-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-219-00-00.1 |
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-219-00-00.2 |
 | 2013-05-17 | 2013. évi LVIII. törvény | 2012-219-00-00.3 |
+| 2013-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-219-00-00.4 |
