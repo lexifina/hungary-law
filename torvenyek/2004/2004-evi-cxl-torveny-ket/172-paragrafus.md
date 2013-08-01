@@ -18,7 +18,7 @@ e) az eljárás egyéb résztvevői: a tanú, a hatósági tanú, a szakértő, 
 
 f) életveszéllyel vagy súlyos kárral fenyegető helyzet: egy vagy több embert az élet elvesztésével, illetve a testi épség vagy az egészség súlyos károsításával, továbbá a természeti vagy az épített környezet, valamint az anyagi javak jelentős vagy helyrehozhatatlan károsodásával közvetlenül fenyegető rendkívüli helyzet, állapot vagy esemény, amelynek megelőzése vagy káros hatásainak elhárítása hatósági intézkedést igényel,
 
-g) hivatás gyakorlásához kötött titok: különösen az orvosi, ügyvédi, közjegyzői, lelkészi-egyházi személyi hivatás gyakorlásához kötött titok,
+g) hivatás gyakorlásához kötött titok: különösen az orvosi, ügyvédi és közjegyzői hivatás, továbbá az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja hivatásának gyakorlásához kötött titok,
 
 h) hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbe fogadó és a nevelőszülő; az örökbe fogadott és a nevelt gyermek; a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa,
 

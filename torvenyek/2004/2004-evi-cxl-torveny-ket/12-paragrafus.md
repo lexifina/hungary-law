@@ -16,7 +16,7 @@ b) helyi önkormányzati képviselő-testület, ideértve a megyei önkormányza
 
 c) polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester),
 
-d) főjegyző, jegyző (a továbbiakban együtt: jegyző),
+d) főjegyző, jegyző (a továbbiakban együtt: jegyző), a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézője,
 
 e) törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb szervezet, köztestület vagy személy.
 
