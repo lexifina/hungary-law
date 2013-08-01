@@ -78,7 +78,7 @@ b) a polgári védelmi szervezetbe beosztott és polgári védelmi szolgálatot 
 
 c) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott tevékenységének ellátása során,
 
-d) a nyilvántartásba vett egyház lelkésze, valamint az alapcélként vallási tevékenységet végző egyesület vallásos szertartást hivatásszerűen végző tagja,
+d) az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja,
 
 e) a bírósági vagy más hatósági eljárásban a védő, a jogi képviselő, a szakértő, és a hivatalos személynek nem minősülő kézbesítési végrehajtó,
 

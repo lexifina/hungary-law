@@ -22,7 +22,7 @@ b) az elkövető
 
 ba) védett kulturális javak körébe tartozó tárgyat, műemléket, régészeti lelőhelyet vagy régészeti leletet,
 
-bb) vallási tisztelet tárgyát vagy vallási szertartás végzésére szolgáló épületet,
+bb) vallási tisztelet tárgyát vagy templomot, vallásgyakorlásra rendelt más helyet,
 
 bc) temetési helyet, temetkezési emlékhelyet, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyat
 

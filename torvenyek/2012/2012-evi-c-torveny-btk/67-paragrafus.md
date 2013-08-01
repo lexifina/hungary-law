@@ -12,6 +12,6 @@ c) a szándékos bűncselekményt végrehajtandó szabadságvesztésre ítélés
 
 d) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt követte el.
 
-(3) Az elkövető – választása szerint – állami vagy önkormányzati fenntartású intézménynél, közhasznú jogállású civil szervezetnél, egyháznál vagy azok részére végezheti a jóvátételi munkát.
+(3) Az elkövető – választása szerint – állami vagy önkormányzati fenntartású intézménynél, közhasznú jogállású civil szervezetnél, egyházi jogi személynél vagy azok részére végezheti a jóvátételi munkát.
 
 (4) A jóvátételi munka tartamát órákban kell meghatározni, annak legkisebb mértéke huszonnégy, legnagyobb mértéke százötven óra.
