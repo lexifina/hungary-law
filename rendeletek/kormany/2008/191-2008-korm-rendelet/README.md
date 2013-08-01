@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2013-02-01 | 2008-191-20-22.15 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-03-29 | 2008-191-20-22.16 | 320/2009. (XII. 29.) Korm. rendelet |
 | 2013-07-01 | 2008-191-20-22.17 | 89/2013. (III. 28.) Korm. rendelet |
+| 2013-08-01 | 2008-191-20-22.18 | 317/2012. (XI. 13.) Korm. rendelet |

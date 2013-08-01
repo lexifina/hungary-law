@@ -22,11 +22,7 @@ f)[^69]
 
 g)[^70] a fenntartó bírósági nyilvántartásba bejegyzett hatályos adatairól kiadott, három hónapnál nem régebbi kivonat, ha a fenntartó egyesület, alapítvány vagy közalapítvány;
 
-h)[^71] egyházi fenntartó esetén
-
-ha) a fenntartó nyilvántartásba vett adatait igazoló hatósági bizonyítvány, vagy
-
-hb) – ha a fenntartó nyilvántartásba nem vett belső egyházi jogi személy – az egyház vagy a nyilvántartásba vett felettes egyházi szerv adatait igazoló hatósági bizonyítvány, valamint az egyház egésze, illetve legfőbb szerve vagy a fenntartó nyilvántartásba vett felettes egyházi szerve – nyilvántartásban feltüntetett – képviselőjének nyilatkozata a fenntartó nevéről, székhelyéről és képviselőjének személyéről, továbbá arról, hogy a fenntartó belső egyházi jogi személy;
+h)[^71] egyházi fenntartó esetén az egyházi jogi személy nyilvántartásba vételéről szóló igazolást vagy nyilvántartásba nem vett belső egyházi jogi személyről a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
 i)[^72] egyéni vállalkozó fenntartó esetén az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, három hónapnál nem régebbi hatósági bizonyítvány;
 
@@ -101,7 +97,7 @@ q)[^86] a térítési díj megállapításának módját a térítésmentes szol
 [^68]: A 10. § (2) bekezdés e) pontja a 349/2012. (XII. 12.) Korm. rendelet 51. §-a szerint módosított szöveg.
 [^69]: A 10. § (2) bekezdés f) pontját a 355/2012. (XII. 13.) Korm. rendelet 33. §-a hatályon kívül helyezte.
 [^70]: A 10. § (2) bekezdés g) pontja a 317/2012. (XI. 13.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
-[^71]: A 10. § (2) bekezdéas h) pontja a 317/2012. (XI. 13.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^71]: A 10. § (2) bekezdés h) pontja a 297/2013. (VII. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
 [^72]: A 10. § (2) bekezdés i) pontja a 279/2009. (XII. 9.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^73]: A 10. § (2) bekezdésének j) pontja a 174/2009. (VIII. 29.) Korm. rendelet 36. § (4) bekezdésének cb) alpontja, a 314/2009. (XII. 28.) Korm. rendelet 55. § (3) bekezdése szerint módosított szöveg.
 [^74]: A 10. § (2) bekezdés k) pontja a 317/2012. (XI. 13.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
