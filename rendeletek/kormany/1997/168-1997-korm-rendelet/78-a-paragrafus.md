@@ -1,3 +1,3 @@
-78/A. §[^221]
+78/A. §[^222]
 
-[^221]: A 78/A. §-t a 269/2001. (XII. 21.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja.
+[^222]: A 78/A. §-t a 269/2001. (XII. 21.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja.

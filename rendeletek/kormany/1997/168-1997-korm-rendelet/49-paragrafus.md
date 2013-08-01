@@ -1,3 +1,5 @@
-49. § (1) Szolgálati időként kell figyelembe venni az egyházi személynek, illetőleg a szerzetesrendi tagnak e minőségben, valamint a diakonissza nővérek és a Szociális Misszió Társulat nővéreinek ilyen minőségben munkában eltöltött idejét.
+49. §[^66] (1) Szolgálati időként kell figyelembe venni az egyházi szolgálati viszonyban álló egyházi személynek ilyen minőségében munkában eltöltött idejét.
 
-(2) Az egyházi személyként és a szerzetesrendi tagként szerzett szolgálati időt az egyházi szervek által kiállított igazolás alapján lehet figyelembe venni.
+(2) Egyházi szolgálati viszonyban szerzett szolgálati időt a bevett egyház által kiállított igazolás alapján lehet figyelembe venni.
+
+[^66]: A 49. § a 297/2013. (VII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
