@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2013-02-28 | 2011-368-20-22.12 | 413/2012. (XII. 29.) Korm. rendelet |
 | 2013-03-12 | 2011-368-20-22.13 | 74/2013. (III. 11.) Korm. rendelet |
 | 2013-07-01 | 2011-368-20-22.14 | 242/2013. (VI. 30.) Korm. rendelet |
+| 2013-08-01 | 2011-368-20-22.15 | 297/2013. (VII. 29.) Korm. rendelet |

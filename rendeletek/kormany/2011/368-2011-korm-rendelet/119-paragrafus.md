@@ -18,6 +18,6 @@ d) a költségvetési szerv vezetője.
 
 (5) Az önkormányzati biztosra, továbbá azon költségvetési szervre, amelyhez önkormányzati biztost rendeltek ki a 116. § (6) bekezdésében, a 117. és a 118. §-ban foglalt rendelkezéseket kell alkalmazni azzal, hogy az államháztartásért felelős miniszter és az eseti bizottság hatáskörébe jogköreit a képviselő-testület gyakorolja, és az önkormányzati biztos kirendelésével összefüggő valamennyi kiadás – a költségvetési szervet terhelő, az önkormányzati biztos kezdeményezésére felbontott, megszüntetett, módosított szerződésekkel összefüggésben keletkező kiadásokat kivéve – a kirendelő helyi önkormányzatot terheli.
 
-(6)[^142]
+(6)[^143]
 
-[^142]: Az Ávr. 119. § (6) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 11. pontja hatályon kívül helyezte.
+[^143]: Az Ávr. 119. § (6) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 11. pontja hatályon kívül helyezte.

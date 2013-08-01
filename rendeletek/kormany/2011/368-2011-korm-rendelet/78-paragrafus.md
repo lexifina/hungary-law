@@ -12,7 +12,7 @@
 
 (5a)[^99] Kizárólag a (4) bekezdés szerint részletekben lehet az olyan előfinanszírozással biztosított költségvetési támogatást kifizetni, amelynek összege meghaladja a három millió forintot. E rendelkezést nem kell alkalmazni
 
-a) az egyházak részére nyújtott költségvetési támogatásokra,
+a)[^100] az egyházi jogi személyek részére nyújtott költségvetési támogatásokra,
 
 b) az európai uniós forrásból finanszírozott költségvetési támogatásokra,
 
@@ -36,9 +36,9 @@ történő kifizetéssel lehetséges.
 
 (8) A költségvetési támogatásnak az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezett részére történő rendelkezésre bocsátása e rendelet szabályai szerint előirányzat-átcsoportosítással vagy a fizetési számlájára történő kifizetéssel történik.
 
-(9)[^100] Indokolt esetben az utófinanszírozással biztosított költségvetési támogatás esetén támogatási előleg nyújtható, ha ezt a támogatói okirat vagy a támogatási szerződés tartalmazza. Az előleg folyósítására több részletben, a támogatói okiratban, támogatási szerződében meghatározott ütemezéssel is sor kerülhet.
+(9)[^101] Indokolt esetben az utófinanszírozással biztosított költségvetési támogatás esetén támogatási előleg nyújtható, ha ezt a támogatói okirat vagy a támogatási szerződés tartalmazza. Az előleg folyósítására több részletben, a támogatói okiratban, támogatási szerződében meghatározott ütemezéssel is sor kerülhet.
 
-(9a)[^101] A három millió forintot meghaladó összegű utófinanszírozással biztosított költségvetési támogatások esetén előleg kifizetésére egy vagy több részletben is sor kerülhet. Ha az előleg kifizetésére több részletben kerül sor, a kifizetés feltétele az előző előleg felhasználásának igazolása vagy a 84. § (4a) bekezdése szerint visszafizetési kötelezettség teljesítése. E rendelkezést nem kell alkalmazni az (5a) bekezdés a)–d) pontjában nevesített költségvetési támogatásokra.
+(9a)[^102] A három millió forintot meghaladó összegű utófinanszírozással biztosított költségvetési támogatások esetén előleg kifizetésére egy vagy több részletben is sor kerülhet. Ha az előleg kifizetésére több részletben kerül sor, a kifizetés feltétele az előző előleg felhasználásának igazolása vagy a 84. § (4a) bekezdése szerint visszafizetési kötelezettség teljesítése. E rendelkezést nem kell alkalmazni az (5a) bekezdés a)–d) pontjában nevesített költségvetési támogatásokra.
 
 (10) Fel kell függeszteni a költségvetési támogatás folyósítását abban az esetben, ha azt jogszabály előírja vagy a támogatói okirat kiadását, támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy a támogatás folyósítója olyan körülményről szerez tudomást, amely a költségvetési támogatás visszavonását, a támogatási szerződés felmondását vagy az attól történő elállást teheti szükségessé. A felfüggesztésről és annak okáról a kedvezményezettet soron kívül tájékoztatni kell.
 
@@ -48,5 +48,6 @@ történő kifizetéssel lehetséges.
 [^97]: Az Ávr. 78. § (4) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 24. pontja szerint módosított szöveg.
 [^98]: Az Ávr. 78. § (5) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 25. pontja szerint módosított szöveg.
 [^99]: Az Ávr. 78. § (5a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^100]: Az Ávr. 78. § (9) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^101]: Az Ávr. 78. § (9a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^100]: A 78. § (5a) bekezdés a) pontja a 297/2013. (VII. 29.) Korm. rendelet 74. §-a szerint módosított szöveg.
+[^101]: Az Ávr. 78. § (9) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^102]: Az Ávr. 78. § (9a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.

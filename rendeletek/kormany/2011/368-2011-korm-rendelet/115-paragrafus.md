@@ -1,6 +1,6 @@
 ## [Az Áht. 60. § (10) bekezdéséhez]
 
-115. §[^141] Az Áht. 60. § (10) bekezdése szerinti határozatnak tartalmaznia kell
+115. §[^142] Az Áht. 60. § (10) bekezdése szerinti határozatnak tartalmaznia kell
 
 a) a rendelkező részben
 
@@ -26,4 +26,4 @@ bd) a helyi önkormányzat, helyi nemzetiségi önkormányzat jegyzőkönyvre te
 
 be) az igénybevételi kamat, kiegészítő kamat fizetésének jogalapját, az ab)–ae) alpont szerinti kamatok alapját.
 
-[^141]: Az Ávr. 115. § a 413/2012. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^142]: Az Ávr. 115. § a 413/2012. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.

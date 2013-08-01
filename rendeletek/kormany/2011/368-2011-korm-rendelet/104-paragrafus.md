@@ -1,4 +1,4 @@
-104. §[^122] (1) A helyi önkormányzat, helyi nemzetiségi önkormányzat
+104. §[^123] (1) A helyi önkormányzat, helyi nemzetiségi önkormányzat
 
 a) a központi költségvetésről szóló törvény Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatások évközi módosításából származó fizetési kötelezettségét
 
@@ -42,4 +42,4 @@ d) az elszámolás felülvizsgálatához kapcsolódó fizetési kötelezettség�
 
 követő kilencven napon belül a kötelezett nem teljesítette.
 
-[^122]: Az Ávr. 104. § a 413/2012. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^123]: Az Ávr. 104. § a 413/2012. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
