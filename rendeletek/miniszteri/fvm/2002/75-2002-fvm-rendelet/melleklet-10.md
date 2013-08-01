@@ -1,4 +1,4 @@
-10. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^33]
+10. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^77]
 
 .................. Járási Állategészségügyi Ikt. sz.:
 
@@ -20,7 +20,7 @@ rendelem el.
 
 A helyi zárlat alá vont állomány létszáma:
 
-## 2K38970O_0
+## 3K65289N_0
 
 |  | tenyészkan |  | db |
 
@@ -44,7 +44,7 @@ A helyi zárlat alá vont állomány létszáma:
 
 ## INDOKOLÁS
 
-## ......................................................... név .............................. telephely (udvar) sertésállományában klasszikus* (afrikai)* sertéspestis fertőzöttséget állapítottam meg az előfordult klinikai tünetek, kórbonctani elváltozások alapján. Az Országos Állategészségügyi Intézet ................................... számú leletével a klasszikus* (afrikai)* sertéspestis vírusát, illetve a vírus antigénnel reagáló ellenanyagot mutattak ki, ezért az állategészségügyről szóló 1995. évi XCI. törvény 6. § (4) bekezdésének l) pontjában, valamint a 75/2002. (VIII. 16.) FVM rendelet ... §-ában foglalt jogkörömnél fogva a rendelkező részben foglaltak szerint határoztam.
+## ......................................................... név .............................. telephely (udvar) sertésállományában klasszikus* (afrikai)* sertéspestis fertőzöttséget állapítottam meg az előfordult klinikai tünetek, kórbonctani elváltozások alapján. A Nemzeti Élelmiszerlánc-biztonsági Hivatal ................................... számú leletével a klasszikus* (afrikai)* sertéspestis vírusát, illetve a vírus antigénnel reagáló ellenanyagot mutattak ki, ezért az állategészségügyről szóló 1995. évi XCI. törvény 6. § (4) bekezdésének l) pontjában, valamint a 75/2002. (VIII. 16.) FVM rendelet ... §-ában foglalt jogkörömnél fogva a rendelkező részben foglaltak szerint határoztam.
 
 ## A fellebbezési lehetőséget az 1957. évi IV. törvény 62. §-a alapján biztosítottam.
 
@@ -62,7 +62,7 @@ A helyi zárlat alá vont állomány létszáma:
 
 2. Hatósági állatorvos
 
-3. .............................................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+3. .............................................................. Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 4. Irattár
 
@@ -70,4 +70,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^33]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg. [Az e módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint a „Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz” szövegrész helyébe a „Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz” szöveg lép, nem vezethető át.]
+[^77]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg. [Az e módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint a „Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz” szövegrész helyébe a „Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz” szöveg lép, nem vezethető át.] A 10. számú melléklet a 70/2013. (VII. 31.) VM rendelet 20. § u)–v) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ a) a sertéstartó nevét, lakcímét;
 
 b) a sertéstartás helyét, vaddisznó esetén az észlelés helyét.
 
-(5) A Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) a betegség megállapításáról az 1. számú melléklet szerint tájékoztatja a Nemzetközi Állategészségügyi Hivatalt és az Európai Unió Bizottságát az alábbiak közlésével:
+(5)[^4] A Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) a betegség megállapításáról az 1. számú melléklet szerint tájékoztatja a Nemzetközi Állategészségügyi Hivatalt és az Európai Unió Bizottságát az alábbiak közlésével:
 
 a) klasszikus sertéspestis igazolt kitörései a gazdaságokban;
 
@@ -23,3 +23,4 @@ c) klasszikus sertéspestis első igazolt előfordulásai vaddisznókban;
 d) a 8. § szerint elvégzett járványtani vizsgálat eredményei.
 
 [^3]: A 3. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 13. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § a) pontja szerint módosított szöveg.

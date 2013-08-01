@@ -8,7 +8,7 @@ a) a szállítás időpontját;
 
 b) a szállítás időtartamát;
 
-c)[^30] Magyarország;
+c)[^70] Magyarország;
 
 d) a betegség megnevezését;
 
@@ -42,7 +42,7 @@ f) kitörés esetén a legközelebbi sertéstartó gazdaságtól való távolsá
 
 g) ha a klasszikus (afrikai) sertéspestist vágóhídon vagy szállítóeszközön állapították meg, a gazdaság vagy gazdaságok helyét, ahonnan fertőzött sertések vagy hulláik származnak.
 
-3. A másodlagos kitörésekről az állomás rendszeresen jelentést küld a minisztériumnak.
+3.[^71] A másodlagos kitörésekről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság rendszeresen jelentést küld a minisztériumnak.
 
 4. A minisztérium biztosítja, hogy a klasszikus (afrikai) sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés követi a Nemzetközi Állategészségügyi Hivatal, a Bizottság és a többi állam számára, amely legalább a következőket tartalmazza:
 
@@ -66,4 +66,5 @@ fc) a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsg�
 
 Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
 
-[^30]: Az 1. számú melléklet 1. pont c) alpontja az 5/2012. (II. 10.) VM rendelet 3. §-a szerint módosított szöveg.
+[^70]: Az 1. számú melléklet 1. pont c) alpontja az 5/2012. (II. 10.) VM rendelet 3. §-a szerint módosított szöveg.
+[^71]: Az 1. számú melléklet 3. pontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.

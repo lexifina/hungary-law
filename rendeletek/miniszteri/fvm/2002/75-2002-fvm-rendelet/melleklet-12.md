@@ -1,4 +1,4 @@
-12. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^35]
+12. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^79]
 
 ………………………… Járási Állategészségügyi Ikt. sz.:
 
@@ -78,7 +78,7 @@ A határozatot kapják:
 
 4. Sertéstenyésztő Szövetkezet
 
-5. .............................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+5. .............................. Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 6. Irattár
 
@@ -86,4 +86,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^35]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg. A 12. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.
+[^79]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg. A 12. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.

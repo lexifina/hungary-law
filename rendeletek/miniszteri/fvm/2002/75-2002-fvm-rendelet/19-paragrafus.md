@@ -2,7 +2,7 @@
 
 19. § (1) A klasszikus sertéspestis jelenlétének kimutatására szolgáló diagnosztikai eljárásokat, mintavételezéseket és laboratóriumi vizsgálatokat a diagnosztikai kézikönyv alapján kell elvégezni.
 
-(2) A 4. számú melléklet rendelkezéseinek megfelelően, a szabványok és diagnosztikai módszerek koordinációjáért felelős nemzeti laboratóriumok az Országos Állategészségügyi Intézet (a továbbiakban: OÁI) és az Állatgyógyászati Oltóanyag-, Gyógyszer- és Takarmány-ellenőrző Intézet (a továbbiakban: ÁOGYTI).
+(2)[^55] A 4. számú melléklet rendelkezéseinek megfelelően, a szabványok és diagnosztikai módszerek koordinációjáért felelős nemzeti laboratórium a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH).
 
 (3) A (2) bekezdésben foglalt nemzeti laboratóriumok kapcsolatban állnak az Unió – 5. számú mellékletben leírt – referencialaboratóriumával.
 
@@ -16,7 +16,7 @@ c) a klasszikus sertéspestis laboratóriumi vizsgálatokkal történő megálla
 
 d) a klasszikus sertéspestis kimutatására szolgáló laboratóriumi vizsgálatokat, beleértve:
 
-da) a klasszikus sertéspestis vírusa és egyéb, a pestivírus[^27] genusba tartozó vírus közötti differenciáldiagnosztikai teszteket, és
+da) a klasszikus sertéspestis vírusa és egyéb, a pestivírus[^56] genusba tartozó vírus közötti differenciáldiagnosztikai teszteket, és
 
 db) amennyiben rendelkezésre állnak, a markervakcina és klasszikus sertéspestis vadvírusa által termelt ellenanyagok megkülönböztetésére szolgáló megbízható teszteket;
 
@@ -30,4 +30,5 @@ e) a klasszikus sertéspestis-izolátumok genotipizálására szolgáló laborat
 
 (7) A diagnosztikai eljárások során a diagnosztikai kézikönyvben foglaltakat, a diagnosztikai kézikönyv megjelenéséig e rendelet 6. számú mellékletében foglalt diagnosztikai eljárásokat kell alkalmazni.
 
-[^27]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
+[^55]: A 19. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § p) pontja szerint módosított szöveg.
+[^56]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.

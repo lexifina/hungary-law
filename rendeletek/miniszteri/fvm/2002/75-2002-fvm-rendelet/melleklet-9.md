@@ -6,7 +6,7 @@
 
 ## b) gondoskodni kell a vészhelyzeti alapokhoz, költségvetési eszközökhöz és pénzügyi forrásokhoz való hozzáférésről úgy, hogy lefedje a klasszikus (afrikai) sertéspestis járvány elleni harc valamennyi szempontját;
 
-## c) utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. Az állategészségügyi szolgálat vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti nemzeti járványvédelmi központ között;
+## c)[^75] utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti nemzeti járványvédelmi központ között;
 
 ## d) gondoskodni kell a megfelelő források elérhetőségéről, hogy biztosítva legyen a gyors és hatékony munka, beleértve a laboratóriumi személyzetet, eszközt és infrastruktúrát;
 
@@ -22,7 +22,7 @@
 
 ## gc) kommunikációs technikai gyakorlaton azért, hogy megszervezzen egy információs hadjáratot tekintettel egy folyamatban lévő járványra a hatóságokat, sertéstartókat és az állatorvosokat megcélozva.
 
-9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^32]
+9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^76]
 
 .................. Járási Állategészségügyi Ikt. sz.:
 
@@ -44,7 +44,7 @@ rendelem el.
 
 A zárlat által érintett sertésállomány:
 
-## 2K38970N_0
+## 3K65289M_0
 
 |  | tenyészkan |  | db | ebből beteg: |  | db |
 
@@ -80,7 +80,7 @@ A zárlat által érintett sertésállomány:
 
 ## INDOKOLÁS
 
-## .............................. név .............................. telephely (udvar) sertésállományában klasszikus* (afrikai)* sertéspestis fertőzöttséget állapítottam meg az előfordult klinikai tünetek, kórbonctani elváltozások alapján. Az Országos Állategészségügyi Intézet ............... számú lelete a klasszikus* (afrikai)* sertéspestis vírusát, illetve a vírus antigénnel reagáló ellenanyagát mutatta ki, ezért az állategészségügyről szóló 1995. évi XCI. törvény 6. § (4) bekezdésének d) pontja, valamint a 75/2002. (VIII. 16.) FVM rendelet 5. §-a alapján a rendelkező részben foglaltak szerint határoztam.
+## .............................. név .............................. telephely (udvar) sertésállományában klasszikus* (afrikai)* sertéspestis fertőzöttséget állapítottam meg az előfordult klinikai tünetek, kórbonctani elváltozások alapján. A Nemzeti Élelmiszerlánc-biztonsági Hivatal ............... számú lelete a klasszikus* (afrikai)* sertéspestis vírusát, illetve a vírus antigénnel reagáló ellenanyagát mutatta ki, ezért az állategészségügyről szóló 1995. évi XCI. törvény 6. § (4) bekezdésének d) pontja, valamint a 75/2002. (VIII. 16.) FVM rendelet 5. §-a alapján a rendelkező részben foglaltak szerint határoztam.
 
 ## A fellebbezési lehetőséget az 1957. évi IV. törvény 62. §-a alapján biztosítottam.
 
@@ -98,7 +98,7 @@ A zárlat által érintett sertésállomány:
 
 2. Hatósági állatorvos
 
-3. .............................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+3. .............................. Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 4. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
 
@@ -112,4 +112,5 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^32]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.
+[^75]: A 8. számú melléklet c) pontja a 70/2013. (VII. 31.) VM rendelet 20. § t) pontja szerint módosított szöveg.
+[^76]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § u)–v) pontja szerint módosított szöveg.

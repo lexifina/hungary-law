@@ -1,8 +1,8 @@
-18. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^40]
+18. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^84]
 
-………………………… Megyei Állategészségügyi Ikt. sz.:
+………………………… Megyei Kormányhivatal Ikt. sz.:
 
-és Élelmiszer-ellenőrző Állomás Tárgy: védőkörzet feloldása
+Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága Tárgy: védőkörzet feloldása
 
 Előadó:
 
@@ -56,4 +56,4 @@ __________
 
 * A nem kívánt rész törlendő.
 
-[^40]: A 18. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg. [Az e módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint a „Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás. Kerületi Főállatorvosi Hivatal” szövegrész helyébe a „........... Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatala” szöveg lép, nem vezethető át.]
+[^84]: A 18. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg. [Az e módosító rendelet 13. § d) pontjával elrendelt módosítás, amely szerint a „Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás. Kerületi Főállatorvosi Hivatal” szövegrész helyébe a „........... Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatala” szöveg lép, nem vezethető át.] A 18. számú melléklet a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.

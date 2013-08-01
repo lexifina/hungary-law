@@ -1,4 +1,4 @@
-16. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^38]
+16. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^82]
 
 ………………………… Járási Állategészségügyi Ikt. sz.:
 
@@ -44,7 +44,7 @@ A határozatot kapják:
 
 2. Hatósági állatorvos
 
-3. …………………………………… Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+3. ……………………………… Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 4. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
 
@@ -58,4 +58,4 @@ _____________
 
 * A nem kívánt rész törlendő.
 
-[^38]: A 16. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.
+[^82]: A 16. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.

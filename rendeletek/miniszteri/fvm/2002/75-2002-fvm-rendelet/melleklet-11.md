@@ -1,4 +1,4 @@
-11. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^34]
+11. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^78]
 
 ………………………… Járási Állategészségügyi Ikt. sz.:
 
@@ -50,7 +50,7 @@ A helyi zárlat alá vont állomány létszáma:
 
 2. Hatósági állatorvos
 
-3. .............................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+3. .............................. Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 4. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
 
@@ -64,4 +64,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^34]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.
+[^78]: A 11. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § v) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 24. § (1) A 20. § (1) bekezdésében foglalt rendelkezés ellenére, ha vaddisznókban megállapítják a klasszikus sertéspestist, és a rendelkezésre álló járványügyi adatok arra utalnak, hogy fennáll a terjedés veszélye, a (2) és (3) bekezdésekben szabályozott eljárásoknak és rendelkezéseknek megfelelően alkalmazható a vaddisznók vészvakcinázása.
 
-(2) Ha a minisztérium vakcinázást kíván elrendelni, a területileg illetékes állomással vészvakcinázási tervet kell készíttetni az alábbi szempontok szerint:
+(2)[^64] Ha a minisztérium vakcinázást kíván elrendelni, a területileg illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal vészvakcinázási tervet kell készíttetni az alábbi szempontok szerint:
 
 a) a vészvakcinázás iránti kérelemre okot adó járványhelyzet;
 
@@ -35,3 +35,5 @@ l) a vészhelyzettel kapcsolatos egyéb kérdések.
 (5) A vészvakcinázási terv a helyzet alakulásától függően a (3)–(4) bekezdésben foglaltaknak megfelelően később módosítható vagy kiegészíthető.
 
 (6) A vakcinázási terv eredményeit bemutató jelentést – a 18. § (4) bekezdésében említett jelentéssel együtt – a minisztériumnak hat havonta be kell nyújtani.
+
+[^64]: A 24. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.

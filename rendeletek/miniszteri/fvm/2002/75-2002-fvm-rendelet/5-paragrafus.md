@@ -1,6 +1,6 @@
 ## Klasszikus sertéspestis megerősítése esetén hozandó intézkedések
 
-5. § (1)[^8] Ha a klasszikus sertéspestis fertőzöttséget a laboratóriumi vizsgálatok megerősítik, a járási főállatorvos a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
+5. § (1)[^10] Ha a klasszikus sertéspestis fertőzöttséget a laboratóriumi vizsgálatok megerősítik, a járási főállatorvos a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
 
 a) valamennyi, a gazdaságban található sertést késedelem nélkül, hatósági állatorvos felügyelete mellett vértelen úton le kell ölni oly módon, hogy a sertéspestis vírusának a leölés során történő terjedési kockázata kizárható legyen. Ha a sertéseket a leölés helyére elszállítják, a szállítást zárt, csepegésmentes gépkocsikkal kell végezni. A gépkocsikat a gazdaság elhagyása előtt és a sertések lerakása után fertőtleníteni kell. A fertőzés terjedésének megakadályozása érdekében vagy diagnosztikai célból a fertőzésre gyanús sertéseket a betegség hatósági megállapítása előtt is le lehet ölni. Az állatok leölése (levágása) külön jogszabályban leírt állami kártalanítás mellett történik. A leölést (levágást) elrendelő határozat fellebbezésre tekintet nélkül végrehajtandó;
 
@@ -26,4 +26,4 @@ j) a betegség megállapításáról a települési (fővárosban a fővárosi k
 
 (3) A betegség terjedésének megakadályozására a minisztérium a 21. §-ban szabályozott eljárásnak megfelelően vészvakcinázást rendelhet el.
 
-[^8]: Az 5. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.

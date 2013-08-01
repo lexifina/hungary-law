@@ -1,4 +1,4 @@
-13. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^36]
+13. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^80]
 
 ………………………… Járási Állategészségügyi Ikt. sz:
 
@@ -36,7 +36,7 @@ A védőkörzet határait az utak mentén jól látható, tartós, ,,Sertéspest
 
 A védőkörzet lakosságát a védőkörzeti intézkedésekről a helyben kialakult módon tájékoztatni kell.
 
-A határozat ellen a kézhezvételtől számított 15 napon belül az FVM Állategészségügyi és Élelmiszer-ellenőrzési Főosztályának címzett, hivatalomnál benyújtandó fellebbezéssel lehet élni.
+A határozat ellen a kézhezvételtől számított 15 napon belül ………………… Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságának címzett, hivatalomnál benyújtandó fellebbezéssel lehet élni.
 
 A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -78,4 +78,4 @@ ___________
 
 * A nem kívánt rész törlendő.
 
-[^36]: A 13. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja szerint módosított szöveg.
+[^80]: A 13. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § w) pontja szerint módosított szöveg. [A 13. számú mellékletben a 70/2013. (VII. 31.) VM rendelet 20. § v) pontjával elrendelt módosítás, amely szerint a „... Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „... Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
