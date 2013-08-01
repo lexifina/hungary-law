@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-8
 | 2011-02-27 | 2004-50-20-82.7 | 124/2007. (X. 20.) FVM rendelet |
 | 2012-01-21 | 2004-50-20-82.8 | 1/2012. (I. 20.) VM rendelet |
 | 2012-02-11 | 2004-50-20-82.9 | 5/2012. (II. 10.) VM rendelet |
+| 2013-08-01 | 2004-50-20-82.10 | 70/2013. (VII. 31.) VM rendelet |

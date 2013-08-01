@@ -1,4 +1,4 @@
-| Mezőgazdasági Szakigazgatási Hivatal KözpontNövénytermesztési és Kertészeti Igazgatóság 1024 Budapest, Keleti Károly u. 24. 1525 Budapest 114. Pf. 30 | Oldal: ............. |
+| Nemzeti Élelmiszerlánc-biztonsági Hivatal1024 Budapest, Keleti Károly u. 24. 1525 Budapest 114. Pf. 30 | Oldal: ............. |
 
 ## SZEMLEMEGRENDELŐ
 
@@ -20,7 +20,7 @@
 
 ## –––––––––––––
 
-## * Kizárólag az MgSzH Központ zöldségpalánta termesztők és nagykereskedők nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat szerződéses üzemenként kell kiállítani.
+## * Kizárólag a NÉBIH zöldségpalánta termesztők és nagykereskedők nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat szerződéses üzemenként kell kiállítani.
 
 ## PÓTLAP*
 
@@ -34,11 +34,11 @@
 
 | Szaporítóanyag megnevezése (magyar név, fajta) | Mennyisége (kg) | Ellenőrző felügyelő megjegyzése |
 
-## * Az MgSzH Központ zöldségpalánta termesztők és nagykereskedők nyilvántartásában szereplő engedélyes üzem tölti ki, kivéve az ellenőrzéshez kapcsolódó rovatokat.
+## * A NÉBIH zöldségpalánta termesztők és nagykereskedők nyilvántartásában szereplő engedélyes üzem tölti ki, kivéve az ellenőrzéshez kapcsolódó rovatokat.
 
 ## Szaporítóanyag szemle időpontja: .................................... Ellenőrző felügyelő neve: ...........................................
 
-11. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^194]
+11. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^200]
 
 A fajtaazonosító vizsgálat elvégzéséhez szükséges magminták
 
@@ -300,4 +300,4 @@ A fajtaazonosító vizsgálat elvégzéséhez szükséges magminták
 
 | MACSKAGYÖKÉR (VALERIANA OFFICINALIS L.) | 5 | 08.01 |
 
-[^194]: A 11. számú mellékletet a 14/2011. (II. 24.) VM rendelet 16. § (3) bekezdése iktatta be.
+[^200]: A 11. számú mellékletet a 14/2011. (II. 24.) VM rendelet 16. § (3) bekezdése iktatta be.

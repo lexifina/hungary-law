@@ -1,8 +1,8 @@
 ## Standard minősítésre jogosultság és annak visszavonása
 
-20. § (1)[^71] A standard vetőmag-előállítás és -forgalmazás végzésének nyilvántartásba vételére irányuló kérelmet az erre rendszeresített űrlapon kell az MgSzH-hoz benyújtani. Amennyiben a kérelmező teljesíti az e rendeletben foglalt feltételeket, akkor az MgSzH a vetőmag-előállítót, vetőmag-forgalmazót nyilvántartásba veszi.
+20. § (1)[^71] A standard vetőmag-előállítás és -forgalmazás végzésének nyilvántartásba vételére irányuló kérelmet az erre rendszeresített űrlapon kell a NÉBIH-hez benyújtani. Amennyiben a kérelmező teljesíti az e rendeletben foglalt feltételeket, akkor a NÉBIH a vetőmag-előállítót, vetőmag-forgalmazót nyilvántartásba veszi.
 
-(2)[^72] Az MgSzH a vetőmag-előállítót, vetőmag-forgalmazót a nyilvántartásból törli, illetve az az alapján végzett tevékenység végzését felfüggeszti, amennyiben az ismételt ellenőrzés során megállapítja, hogy
+(2)[^72] A NÉBIH a vetőmag-előállítót, vetőmag-forgalmazót a nyilvántartásból törli, illetve az az alapján végzett tevékenység végzését felfüggeszti, amennyiben az ismételt ellenőrzés során megállapítja, hogy
 
 a) a vetőmag nem felel meg az e rendeletben előírt követelményeknek, illetve
 
@@ -14,5 +14,5 @@ a) a standard vetőmagot az e rendeletben foglaltak szerint előállítani, forg
 
 b) valamennyi vetőmagtételből mintát venni és azt utóellenőrzés céljából mindaddig megőrizni, amíg a vetőmag forgalomban van.
 
-[^71]: A 20. § (1) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § c) pontja és 19. § (2) bekezdése szerint módosított szöveg.
-[^72]: A 20. § (2) bekezdésének bevezető szövegrésze a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének c) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^71]: A 20. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) és e) pontja szerint módosított szöveg.
+[^72]: A 20. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.

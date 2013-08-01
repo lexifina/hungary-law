@@ -50,7 +50,7 @@ h)[^7] a Nemzeti Fajtajegyzék B és C fejezeteiben felsorolt zöldségnövénye
 [^2]: Az 1. § (1) bekezdésének b) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés c) pontja a 14/2011. (II. 24.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés e) pontja a 14/2011. (II. 24.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (1) bekezdés f) pontja a 14/2011. (II. 24.) VM rendelet 17. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés f) pontja a 14/2011. (II. 24.) VM rendelet 17. § a) pontja szerint módosított szöveg. [Az 1. § (1) bekezdés f) pontjában a 70/2013. (VII. 31.) VM rendelet 32. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
 [^6]: Az 1. § (2) bekezdésének f) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2) bekezdésének h) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (3) bekezdését a 14/2011. (II. 24.) VM rendelet 1. § (3) bekezdése iktatta be.

@@ -8,7 +8,7 @@
 
 (4) Standard vetőmag előállítása esetén a szántóföldi ellenőrzést saját jogon a fajtafenntartó, a vetőmag-előállító vagy annak meghatalmazottja végzi, amiről okmányt állít ki. A szaporításoknak meg kell felelniük a certifikált kategória minőségi előírásainak.
 
-(5)[^76] A vetőmag előállítója a szántóföldi ellenőrzési kérelmet szuperelit vetőmag esetében az az MgSzH-hoz, elit, I. fokú és II. fokú vetőmag esetében az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságához az erre rendszeresített űrlapon
+(5)[^76] A vetőmag előállítója a szántóföldi ellenőrzési kérelmet szuperelit vetőmag esetében az a NÉBIH-hez, elit, I. fokú és II. fokú vetőmag esetében az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságához az erre rendszeresített űrlapon
 
 a) tavaszi vetésű növények esetében a következő időpontokig:
 
@@ -24,7 +24,7 @@ b) őszi vetésű növények esetében szeptember 30. napjáig
 
 köteles benyújtani. Pótbejelentésre, a fenti határidők utolsó napját követő 30. napig van lehetőség. Bejelentés módosítására visszavonására az első ellenőrzés időpontját megelőző munkanapig van lehetőség.
 
-(6)[^77] Az MgSzH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága a vetőmag-szaporítás bejelentését akkor fogadja el, ha azt a vetőmag-előállító az erre rendszeresített nyomtatványon jelenti be és az anyamag származását igazolja. Nem magyarországi fémzárolású csemege és pattogató kukorica esetében a vetésbejelentés elfogadásának feltétele a GMO tartalomra vonatkozó, uniós hatóság által kiállított laboratóriumi mérési jegyzőkönyv csatolása. Az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságának a GMO tartalomra vonatkozó nyilatkozatot továbbítania kell az MgSzH-hoz.
+(6)[^77] A NÉBIH, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága a vetőmag-szaporítás bejelentését akkor fogadja el, ha azt a vetőmag-előállító az erre rendszeresített nyomtatványon jelenti be és az anyamag származását igazolja. Nem magyarországi fémzárolású csemege és pattogató kukorica esetében a vetésbejelentés elfogadásának feltétele a GMO tartalomra vonatkozó, uniós hatóság által kiállított laboratóriumi mérési jegyzőkönyv csatolása. Az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságának a GMO tartalomra vonatkozó nyilatkozatot továbbítania kell a NÉBIH-hez.
 
 (7) A vetőmag előállításáért felelős köteles az általa forgalomba hozott vetőmagról származási igazolást adni, amely tanúsítja az anyamag faj- és fajtatisztaságát és minőségét. A szuperelitnél alacsonyabb szaporítási fokozaton továbbszaporításra kerülő vetőmagtételekről vagy azok részegységeiről – a fajtafenntartó felhatalmazása alapján – a vetőmag-előállító köteles nyilvántartást vezetni.
 
@@ -33,6 +33,6 @@ köteles benyújtani. Pótbejelentésre, a fenti határidők utolsó napját kö
 [^73]: A 21. §-t megelőző alcím a 124/2007. (X. 20.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^74]: A 21. § (2) bekezdése a 14/2011. (II. 24.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^75]: A 21. § (3) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § f) pontja szerint módosított szöveg.
-[^76]: A 21. § (5) bekezdése a 14/2011. (II. 24.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^77]: A 21. § (6) bekezdése a 14/2011. (II. 24.) VM rendelet 10. § (2) bekezdésével megállapított, az 1/2012. (I. 20.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg. [E módosító rendelet 17. § f) pontjával elrendelt módosítás, amely szerint az „MgSzH Központja” szövegrész helyébe az „illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága” szövegrész lép, nem vezethető át.]
+[^76]: A 21. § (5) bekezdése a 14/2011. (II. 24.) VM rendelet 10. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § e) pontja szerint módosított szöveg.
+[^77]: A 21. § (6) bekezdése a 14/2011. (II. 24.) VM rendelet 10. § (2) bekezdésével megállapított, az 1/2012. (I. 20.) VM rendelet 4. § (2) bekezdése, a 70/2013. (VII. 31.) VM rendelet 32. § d)–e) pontja szerint módosított szöveg.
 [^78]: A 21. § (8) bekezdése a 14/2011. (II. 24.) VM rendelet 10. § (3) bekezdésével megállapított szöveg.

@@ -8,7 +8,7 @@
 
 4. anyamag: a vetőmag előállításához (termesztéséhez) használt vetőmag,
 
-5.[^10] átruházott jogkörben végzett minősítés: az 1. számú mellékletben és a Nemzeti Fajtajegyzék B és C fejezetében, valamint a 3–5. számú mellékletben felsorolt feltételek ellenőrzése és dokumentálása az erre a tevékenységre az MgSzH-nál nyilvántartott természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság által,
+5.[^10] átruházott jogkörben végzett minősítés: az 1. számú mellékletben és a Nemzeti Fajtajegyzék B és C fejezetében, valamint a 3–5. számú mellékletben felsorolt feltételek ellenőrzése és dokumentálása az erre a tevékenységre a NÉBIH-nél nyilvántartott természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság által,
 
 6. certifikált vetőmag: a forgalmazás előtt hatósági ellenőrzésben részesített és hatóságilag minősített vetőmag, amely eleget tesz a 6. § (1) bekezdésének c) pontjában foglaltaknak,
 
@@ -108,7 +108,7 @@
 
 53. saját felhasználás: az üzem által előállított zöldségpalánta nem forgalomba hozatal, hanem saját termesztés céljára való felhasználása,
 
-54.[^14] saját jogú minősítés: a standard vetőmag előállításának és forgalomba hozatalának alapjául szolgáló, az MgSzH-nál nyilvántartott személy által végzett minősítés,
+54.[^14] saját jogú minősítés: a standard vetőmag előállításának és forgalomba hozatalának alapjául szolgáló, a NÉBIH-nél nyilvántartott személy által végzett minősítés,
 
 55. standard vetőmag: forgalomba hozatala előtt hatósági ellenőrzésben nem részesített, saját jogú minősítéssel minősített vetőmag, amely eleget tesz a 6. § (1) bekezdésének d) pontjában foglaltaknak,
 
@@ -116,7 +116,7 @@
 
 57. szántóföldi ellenőrzés: a vetőmag-szaporító tábla növényállományának a tenyészidő meghatározott szakaszaiban végzett vizsgálata előírt érték-meghatározó tényezők és a fajtaleírás alapján, amelynek során elbírálják, hogy a növényállomány megfelel-e a vetőmag-szaporításra vonatkozó határértékeknek,
 
-58.[^15] szántóföldi ellenőrzési jegyzőkönyv: a szántóföldi ellenőrzések eredményéről az MgSzH által készített, az elit és a certifikált vetőmag fémzárolásának és minősítésének alapját képező közokirat,
+58.[^15] szántóföldi ellenőrzési jegyzőkönyv: a szántóföldi ellenőrzések eredményéről a NÉBIH által készített, az elit és a certifikált vetőmag fémzárolásának és minősítésének alapját képező közokirat,
 
 59. származási bizonylat: a certifikált vetőmag előállításához használt, az anyamag származását, faját, fajtáját, szaporítási fokát és minőségét igazoló okirat,
 
@@ -126,7 +126,7 @@
 
 62. tárolás: a vetőmag, illetve az ültetésre kész fejlettségű zöldségpalánta forgalomba hozatalig történő szakszerű megőrzése,
 
-63.[^16] utóellenőrzés: a fajtaazonosság és a fajtatisztaság ellenőrzése céljából az MgSzH által a letéti mintából, illetve a hivatalos palánta mintából végzett kisparcellás fajtakitermesztés,
+63.[^16] utóellenőrzés: a fajtaazonosság és a fajtatisztaság ellenőrzése céljából a NÉBIH által a letéti mintából, illetve a hivatalos palánta mintából végzett kisparcellás fajtakitermesztés,
 
 64. üzem: természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, amely zöldségpalántát hivatásszerűen előállít, tárol, kezel vagy forgalomba hoz,
 
@@ -149,10 +149,10 @@
 73. vizsgálati minta: a vetőmag laboratóriumi minta-osztásából származó minta, amelyből az előírt vizsgálatokat végzik.
 
 [^9]: A 2. § 3. pontja az 5/2012. (II.10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
-[^10]: A 2. § 5. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított, a 14/2011. (II. 24.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § 5. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja szerint módosított szöveg.
 [^11]: A 2. § 19. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított szöveg.
 [^12]: A 2. § 26/a. pontját a 14/2011. (II. 24.) VM rendelet 2. § (1) bekezdése iktatta be, szövege az 5/2012. (II.10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § 32. pontja a 14/2011. (II. 24.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^14]: A 2. § 54. pontja a 14/2011. (II. 24.) VM rendelet 17. § b) pontja szerint módosított szöveg.
-[^15]: A 2. § 58. pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
-[^16]: A 2. § 63. pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 2. § 54. pontja a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja szerint módosított szöveg.
+[^15]: A 2. § 58. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^16]: A 2. § 63. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.

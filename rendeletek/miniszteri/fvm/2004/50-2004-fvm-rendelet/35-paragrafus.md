@@ -10,7 +10,7 @@ a) az alkalmazott termesztési módszer alapján megállapítani a szaporítóan
 
 b) kidolgozni és kivitelezni az a) pont szerinti kritikus pontok megfigyelési és ellenőrzési módszereit, valamint
 
-c)[^159] mintát venni és azt az MgSzH által megbízott laboratóriumban való vizsgálat céljára elküldeni.
+c)[^165] mintát venni és azt a NÉBIH által megbízott laboratóriumban való vizsgálat céljára elküldeni.
 
 (3) Az üzem köteles írásos vagy más eltávolíthatatlan módon készített naprakész feljegyzést vezetni
 
@@ -28,14 +28,14 @@ c) a területen előforduló károsítókról, a kár elhárítására tett int�
 
 (4) A kizárólag mások által előállított zöldségpalánta csomagolását és forgalomba hozatalát végző üzem írásos vagy más eltávolíthatatlan módon készített feljegyzést csak az általa vásárolt, szállított és forgalomba hozott termékekről köteles vezetni.
 
-(5)[^160] A (2)–(4) bekezdés szerinti feljegyzéseket az üzem köteles az MgSzH ellenőrzéséig, de legalább három évig megőrizni, valamint ellenőrzésre az MgSzH-nak bemutatni.
+(5)[^166] A (2)–(4) bekezdés szerinti feljegyzéseket az üzem köteles a NÉBIH ellenőrzéséig, de legalább három évig megőrizni, valamint ellenőrzésre a NÉBIH-nek bemutatni.
 
 (6) Amennyiben a látható jelek vagy tünetek alapján az állapítható meg, hogy a szaporítóanyag a minőséget hátrányosan befolyásoló károsítóktól nem mentes, az ilyen szaporítóanyag tekintetében az üzemnek kezelést kell alkalmaznia, szükség esetén a szaporítóanyagot el kell távolítania, illetve meg kell semmisítenie.
 
 (7) Ha az üzem területén a 9. számú mellékletben felsorolt, vizsgálatköteles vagy zárlati növényi károsítók valamelyikének nagy mértékű megjelenését vagy megjelenésének gyanúját észleli, köteles azt a szolgálatnak bejelenteni, és utasításait végrehajtani.
 
-(8)[^161] Az MgSzH által megbízott személyek – különös tekintettel az ellenőrzés és a mintavétel végzésére, továbbá a (2)–(4) bekezdés szerinti nyilvántartás és egyéb bizonylatok ellenőrzésére – az üzem területére beléphetnek. Az üzem minden egyéb módon is köteles együttműködni az MgSzH-val, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságával.
+(8)[^167] A NÉBIH által megbízott személyek – különös tekintettel az ellenőrzés és a mintavétel végzésére, továbbá a (2)–(4) bekezdés szerinti nyilvántartás és egyéb bizonylatok ellenőrzésére – az üzem területére beléphetnek. Az üzem minden egyéb módon is köteles együttműködni a NÉBIH-hel, illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatóságával.
 
-[^159]: A 35. § (2) bekezdésének c) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének h) pontja, a 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdése szerint módosított szöveg.
-[^160]: A 35. § (5) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § d) pontja és 19. § (2) bekezdése szerint módosított szöveg.
-[^161]: A 35. § (8) bekezdése a 14/2011. (II. 24.) VM rendelet 17. § i) pontja és 19. § (2) bekezdése szerint módosított szöveg.
+[^165]: A 35. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^166]: A 35. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) és g) pontja szerint módosított szöveg.
+[^167]: A 35. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § d) és i) pontja szerint módosított szöveg.
