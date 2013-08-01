@@ -16,10 +16,12 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2013. július 31.
 
-3.[^1]
+3. Hatályát veszti az Apertus Közalapítvány a Nyitott Szakképzésért és a Távoktatásért megszüntetéséről szóló 1097/2011. (IV. 15.) Korm. határozat
+
+a) 4. pontja,
+
+b) 2. pont c) alpontja.
 
 4. Ez a határozat – az 5. pontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
 5. A 3. pont 2013. augusztus 1-jén lép hatályba.
-
-[^1]: A 3. pont az 5. pont alapján 2013. augusztus 1-jén lép hatályba.
