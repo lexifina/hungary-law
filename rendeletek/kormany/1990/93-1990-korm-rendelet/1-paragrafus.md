@@ -1,4 +1,4 @@
-1. § (1)[^1] Annak a személynek a nyugellátását, baleseti nyugellátását (kivéve a baleseti járadékot, hacsak a nyugdíjkorhatárt betöltött személy más ellátással nem rendelkezik), továbbá nyugdíjszerű rendszeres szociális ellátását, akinek elítélése
+1. § (1)[^1] Annak a személynek a nyugellátását, korhatár előtti ellátását, szolgálati járandóságát, rokkantsági ellátását, rehabilitációs ellátását, baleseti nyugellátását (kivéve a baleseti járadékot, hacsak a nyugdíjkorhatárt betöltött személy más ellátással nem rendelkezik), továbbá nyugdíjszerű rendszeres szociális ellátását, akinek elítélése
 
 a) az 1956-os népfelkeléssel összefüggő elítélések orvoslásáról rendelkező 1989. évi XXXVI. törvény, vagy
 
@@ -24,16 +24,15 @@ f) az 1956. évi 31. törvényerejű rendelet alapján közbiztonsági őrizetbe
 
 g)[^4] az 1989. évi XXXVI. törvény 1. §-ában, az 1990. évi XXVI. törvény 1. §-ában, valamint az 1992. évi XI. törvény 1. §-ában megjelölt okból előzetes letartóztatásba helyeztek; akinek ideiglenes kényszergyógykezelését rendelték el, de bíróság előtti eljárásra nem került sor; akire nézve az eljárás felmentő ítélettel zárult vagy azt megszüntették, vagy nem végrehajtandó szabadságvesztésre ítélték; akinek kényszergyógykezelését rendelték el; továbbá akit törvényességi óvás vagy perújítás folytán mentettek fel.
 
-(3) Abban az esetben, amikor a személyes szabadság megvonására, illetve korlátozására több alkalommal vagy különböző [a (2) bekezdésben meghatározott] jogcímen került sor, az emelés összegének meghatározásához valamennyi időtartamot — az 1975. évi II. törvény[^5] (továbbiakban: T.) végrehajtásáról szóló 89/1990. (V. 1.) MT rendelet (továbbiakban: R.)[^6] 179. §-ának megfelelő alkalmazásával — egybe kell számítani.
+(3)[^5] Abban az esetben, amikor a személyes szabadság megvonására, illetve korlátozására több alkalommal vagy különböző [a (2) bekezdésben meghatározott] jogcímen került sor, az emelés összegének meghatározásához valamennyi időtartamot – az 1997. évi LXXXI. törvény (a továbbiakban: Tbny.) 43. § (1) bekezdésének alkalmazásával – egybe kell számítani.
 
 (4) A személyes szabadság korlátozásának tényleges időtartamába e rendelet alkalmazása szempontjából nem számít be az 1944. október 1-jét megelőzően szovjet hadifogságban töltött időtartam.
 
-(5)[^7] Ha a bíróság előtti eljárásra nem került sor, az előzetes letartóztatás, továbbá az ideiglenes kényszergyógykezelés tényét és időtartamát kérelemre — hivatkozással az 1956-os népfelkeléssel összefüggő elítélések orvoslásáról szóló 1989. évi XXXVI. törvényre, az 1945 és 1963 közötti törvénysértő elítélések semmissé nyilvánításáról szóló 1990. évi XXVI. törvényre, valamint az 1963 és 1989 között elkövetett egyes állam és közrend elleni bűncselekmények miatt történt elítélések semmissé nyilvánításáról szóló 1992. évi XI. törvényre — a fővárosi (megyei) főügyészség, ha pedig felmentő ítéletet hoztak, az eljárást megszüntették, az érintett személyt nem végrehajtandó szabadságvesztésre ítélték, vagy kényszergyógykezelését rendelték el, az első fokon eljárt bíróság igazolja.
+(5)[^6] Ha a bíróság előtti eljárásra nem került sor, az előzetes letartóztatás, továbbá az ideiglenes kényszergyógykezelés tényét és időtartamát kérelemre — hivatkozással az 1956-os népfelkeléssel összefüggő elítélések orvoslásáról szóló 1989. évi XXXVI. törvényre, az 1945 és 1963 közötti törvénysértő elítélések semmissé nyilvánításáról szóló 1990. évi XXVI. törvényre, valamint az 1963 és 1989 között elkövetett egyes állam és közrend elleni bűncselekmények miatt történt elítélések semmissé nyilvánításáról szóló 1992. évi XI. törvényre — a fővárosi (megyei) főügyészség, ha pedig felmentő ítéletet hoztak, az eljárást megszüntették, az érintett személyt nem végrehajtandó szabadságvesztésre ítélték, vagy kényszergyógykezelését rendelték el, az első fokon eljárt bíróság igazolja.
 
-[^1]: Az 1. § (1) bekezdésének bevezető része az 51/1992. (III. 18.) Korm. rendelet 5. §-a (4) bekezdésének a) pontjával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze az 51/1992. (III. 18.) Korm. rendelet 5. § (4) bekezdés a) pontjával megállapított, a 305/2013. (VII. 31.) Korm. rendelet 1. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdésének c) pontját az 51/1992. (III. 18.) Korm. rendelet 5. §-a (4) bekezdésének b) pontja iktatta a szövegbe, s egyidejűleg a korábbi c) pontot d) pontra változtatta.
 [^3]: Az 1. § (2) bekezdésének d) pontja az 51/1992. (III. 18.) Korm. rendelet 5. §-a (4) bekezdésének c) pontjával megállapított szöveg.
 [^4]: Az 1. § (2) bekezdésének g) pontja az 51/1992. (III. 18.) Korm. rendelet 5. §-a (4) bekezdésének d) pontjával megállapított szöveg.
-[^5]: Az 1975: II. törvényt az 1997: LXXX. törvény mellékletének a) pontja hatályon kívül helyezte.
-[^6]: A 89/1990. (V. 1.) MT rendeletet a 195/1997. (XI. 5.) Korm. rendelet 28. §-ának (1) bekezdése hatályon kívül helyezte.
-[^7]: Az 1. § (5) bekezdése az 51/1992. (III. 18.) Korm. rendelet 5. §-a (4) bekezdésének e) pontjával megállapított szöveg.
+[^5]: Az 1. § (3) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 1. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^6]: Az 1. § (5) bekezdése az 51/1992. (III. 18.) Korm. rendelet 5. §-a (4) bekezdésének e) pontjával megállapított szöveg.

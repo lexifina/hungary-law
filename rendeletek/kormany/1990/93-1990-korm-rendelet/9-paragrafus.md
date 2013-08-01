@@ -2,6 +2,8 @@
 
 (2) A Tny. 42. §-ának az 1963. április 30-a után hatályos (1) bekezdés, valamint 43. §-a alapján csökkentett nyugdíjat a nyugdíjfolyósító szerv — kérelemre — olyan összeg ben folyósítja, mintha a csökkentésre nem került volna sor.
 
-(3) Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell a hozzátartozók ellátására is. A magasabb ellátás az R. 251. §-a szerint jár.
+(3)[^15] Az (1) és (2) bekezdésben foglaltakat megfelelően alkalmazni kell a hozzátartozók ellátására is. A magasabb ellátás a Tbny. 64. § (2) bekezdése szerint jár.
 
 (4) Az (1) és (2) bekezdés alapján történő nyugdíjemelésnek nem feltétele az elítélés semmissé nyilvánítása.
+
+[^15]: A 9. § (3) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 1. § (4) bekezdés f) pontja szerint módosított szöveg.
