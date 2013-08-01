@@ -1,4 +1,4 @@
-9. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^39]
+9. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^89]
 
 ## HATÁROZAT
 
@@ -52,9 +52,7 @@ A községi zárlat alatt álló terület határait az utak mellett jól láthat
 
 A községi zárlatról a zárlati terület lakosságát a helyben kialakult módon értesíteni kell.
 
-A határozat ellen a kézhezvételtől számított 15 napon belül a Megyei Állategészségügyi
-
-és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomnál benyújtott fellebbezéssel lehet élni.
+A határozat ellen a kézhezvételtől számított 15 napon belül a ………………………………... Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságához címzett, hivatalomnál benyújtott fellebbezéssel lehet élni.
 
 A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -94,4 +92,4 @@ A határozatot kapják:
 
 10. Irattár
 
-[^39]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.
+[^89]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja szerint módosított szöveg.

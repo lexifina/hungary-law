@@ -28,7 +28,7 @@ i) a 8. § szerint járványügyi vizsgálatot kell végezni.
 
 a) a (2) bekezdés szerinti gazdaságban foganatosíthatja az 5. § (1) bekezdésében felsorolt intézkedéseket;
 
-b) községi zárlatot rendelhet el a (2) bekezdésben említett gazdaság körül.
+b)[^8] védőkörzetet rendelhet el a (2) bekezdésben említett gazdaság körül.
 
 (5) Az 5. § (1) bekezdésében felsorolt intézkedések alkalmazását csak az afrikai sertéspestis vírusával fertőzött vagy fertőzöttségre gyanús sertésekre, illetve tartási helyükre korlátozhatja, ha ezeket a sertéseket a gazdaságban tartott többi sertéstől teljesen elkülönítve tartják, gondozzák és takarmányozzák. A leölésre kerülő sertésekből a diagnosztikai kézikönyv által előírt számú vérmintát kell venni, az afrikai sertéspestis vírusa jelenlétének megállapítása vagy kizárása céljából.
 
@@ -36,3 +36,4 @@ b) községi zárlatot rendelhet el a (2) bekezdésben említett gazdaság kör�
 [^5]: A 4. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
 [^6]: A 4. § (2) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
 [^7]: A 4. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 3. pontja szerint módosított szöveg.

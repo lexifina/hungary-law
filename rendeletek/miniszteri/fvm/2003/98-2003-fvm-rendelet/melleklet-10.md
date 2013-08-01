@@ -1,4 +1,4 @@
-10. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^40]
+10. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^90]
 
 ## HATÁROZAT
 
@@ -70,8 +70,8 @@ A határozatot kapják:
 
 6. Vágóhidak
 
-7. Szomszédos megyék állategészségügyi és élelmiszer-ellenőrző állomásai
+7. Szomszédos megyék élelmiszerlánc-biztonsági és állategészségügyi igazgatóságai
 
 8. Irattár
 
-[^40]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.
+[^90]: A 10. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 33. pontja szerint módosított szöveg.

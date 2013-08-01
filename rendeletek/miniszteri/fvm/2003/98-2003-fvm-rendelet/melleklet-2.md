@@ -6,7 +6,7 @@
 
 a) a takarítást és fertőtlenítést hatósági állatorvos felügyelete és utasítása alapján kell végezni;
 
-b) az alkalmazott fertőtlenítőszereket és koncentrációit az állomás hagyja jóvá;
+b)[^84] az alkalmazott fertőtlenítőszereket és koncentrációit az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagyja jóvá;
 
 c) a fertőtlenítőszerek aktivitását felhasználás előtt ellenőrizni kell, mivel bizonyos fertőtlenítőszerek hatása a hosszú tárolás során megszűnik;
 
@@ -65,3 +65,5 @@ a) a trágyát és a használt almot hőkezelés céljára kazalba kell tenni, f
 b) a hígtrágyát a fertőzött anyag utolsó kibocsátása után legalább 42 napig kell tárolni, kivéve, ha a hatósági állatorvos engedélyezi a vírus megsemmisítése érdekében hatékony kezelés alá vett hígtrágya rövidebb tárolási idejét.
 
 4. Az 1. és 2. pontok alóli felmentéssel, szabad tartású gazdaságok esetében, az illetékes hatóság különleges takarítási és fertőtlenítési eljárást fogadhat el, figyelembe véve a telep típusát és az időjárási körülményeket.
+
+[^84]: A 2. számú melléklet 1. pont b) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 11. pontja szerint módosított szöveg.

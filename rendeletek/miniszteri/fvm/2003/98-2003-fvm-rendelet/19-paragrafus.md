@@ -2,4 +2,6 @@
 
 19. § (1) Az afrikai sertéspestis elleni vakcinák alkalmazása tilos.
 
-(2) Az afrikai sertéspestis elleni vakcinákkal kapcsolatos kutatások, azok gyártása, tárolása, szállítása, elosztása és értékesítése az FVM engedélye alapján hatósági állatorvosi ellenőrzés mellett történhet.
+(2)[^70] Az afrikai sertéspestis elleni vakcinákkal kapcsolatos kutatások, azok gyártása, tárolása, szállítása, elosztása és értékesítése a VM engedélye alapján hatósági állatorvosi ellenőrzés mellett történhet.
+
+[^70]: A 19. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.

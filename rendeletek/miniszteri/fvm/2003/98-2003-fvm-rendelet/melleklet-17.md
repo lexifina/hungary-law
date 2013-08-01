@@ -1,8 +1,8 @@
-17. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^46]
+17. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^96]
 
 ## HATÁROZAT
 
-| .................................. Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás | Ikt.sz.: |
+| .................................. Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | Ikt.sz.: |
 
 |  | Tárgy: védőkörlet feloldása |
 
@@ -50,8 +50,8 @@ A határozatot kapják:
 
 7. Felvásárló szervezetek
 
-8. Szomszédos megyék állategészségügyi és élelmiszer-ellenőrző állomásai
+8. Szomszédos megyék élelmiszerlánc-biztonsági és állategészségügyi igazgatóságai
 
 9. Irattár
 
-[^46]: A 17. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c) pontja szerint módosított szöveg. [Az e módosító rendelet 20. § d) pontjával elrendelet módosítás, amely szerint a „....... Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás Kerületi Főállatorvosa” szövegrész helyébe a „................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala” szöveg lép, nem vezethető át.]
+[^96]: A 17. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 30. és 33. pontja szerint módosított szöveg.

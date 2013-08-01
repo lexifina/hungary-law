@@ -6,7 +6,7 @@
 
 a) a bejelentés időpontja (dátuma);
 
-b)[^35] Magyarország;
+b)[^81] Magyarország;
 
 c) a betegség megnevezését;
 
@@ -40,9 +40,9 @@ f) kitörés esetén a legközelebbi sertéstartó gazdaságtól való távolsá
 
 g) ha az afrikai sertéspestist vágóhídon vagy szállítóeszközön állapították meg, a gazdaság vagy gazdaságok helyét, ahonnan fertőzött sertések vagy hulláik származnak.
 
-3. A másodlagos kitörésekről az állomás rendszeresen jelentést küld az FVM-nek.
+3.[^82] A másodlagos kitörésekről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság rendszeresen jelentést küld a VM-nek.
 
-4. Az FVM biztosítja, hogy az afrikai sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés követi a Nemzetközi Állategészségügyi Hivatal, az Európai Bizottság és a többi állam számára, amely legalább a következőket tartalmazza:
+4.[^83] A VM biztosítja, hogy az afrikai sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés követi a Nemzetközi Állategészségügyi Hivatal, az Európai Bizottság és a többi állam számára, amely legalább a következőket tartalmazza:
 
 a) az időpontot, amikor a sertéseket a gazdaságban, a vágóhídon vagy szállítóeszközön leölték, és hulláikat ártalmatlanították;
 
@@ -66,4 +66,6 @@ gc) a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsg�
 
 Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
 
-[^35]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
+[^81]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
+[^82]: A 1. számú melléklet 3. pontja a 70/2013. (VII. 31.) VM rendelet 29. § 11. és 27. pontja szerint módosított szöveg.
+[^83]: A 1. számú melléklet 4. pontja a 70/2013. (VII. 31.) VM rendelet 29. § 35. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-16. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^45]
+16. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^95]
 
 ## HATÁROZAT
 
@@ -14,7 +14,7 @@ A ........................................................................... sz
 
 feloldom.
 
-A határozat ellen a kézhezvételtől számított 15 napon belül a ................................................................ Megyei Állategészségügyi és Élelmiszer-ellenőrző Állomáshoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
+A határozat ellen a kézhezvételtől számított 15 napon belül a ................................................................ Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságához címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
 
 A határozat fellebbezésre tekintet nélkül végrehajtandó.
 
@@ -56,4 +56,4 @@ A határozatot kapják:
 
 10. Irattár
 
-[^45]: A 16. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja szerint módosított szöveg.
+[^95]: A 16. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja szerint módosított szöveg.
