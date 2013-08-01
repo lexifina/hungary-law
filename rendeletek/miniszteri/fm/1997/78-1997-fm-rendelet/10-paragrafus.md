@@ -12,6 +12,6 @@
 
 (7) Az állami horgászjegy mintáját a 3. számú, az állami gyermek horgászjegy mintáját pedig a 4. számú melléklet tartalmazza.
 
-(8)[^10] Az állami halász és horgászjegy kiadója köteles az állami jegyek, illetve az érvényesítő bélyegek igénylőjét a Hhtv. 20. §-ának (3) bekezdésében foglaltak alapján írásban nyilatkoztatni a 10. számú mellékletben foglalt tartalommal. Az állami jegyek kiadója az igénylők nyilatkozatait három évig köteles megőrizni és szükséges esetben a halászati hatóság rendelkezésére bocsátani.
+(8)[^14] Az állami halász és horgászjegy kiadója köteles az állami jegyek, illetve az érvényesítő bélyegek igénylőjét a Hhtv. 20. §-ának (3) bekezdésében foglaltak alapján írásban nyilatkoztatni a 10. számú mellékletben foglalt tartalommal. Az állami jegyek kiadója az igénylők nyilatkozatait három évig köteles megőrizni és szükséges esetben a halászati hatóság rendelkezésére bocsátani.
 
-[^10]: A Vhr. 10. § (8) bekezdését a 142/2009. (XI. 3.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 16. § (1) bekezdése alapján a 2. § szerinti nyilatkozati kötelezettséget első alkalommal a 2010. évi állami horgászjegyek kiadásakor kell alkalmazni.
+[^14]: A Vhr. 10. § (8) bekezdését a 142/2009. (XI. 3.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 16. § (1) bekezdése alapján a 2. § szerinti nyilatkozati kötelezettséget első alkalommal a 2010. évi állami horgászjegyek kiadásakor kell alkalmazni.

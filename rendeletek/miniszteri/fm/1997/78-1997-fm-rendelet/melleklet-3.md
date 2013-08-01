@@ -32,6 +32,6 @@
 
 ## Méretkorlátozások [kivonat a …/1997. (…) FM rendeletből]:
 
-3. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^40]
+3. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^45]
 
-[^40]: A Vhr. 3. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^45]: A Vhr. 3. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (3) bekezdés g) pontja szerint módosított szöveg. [A Vhr. 3. számú mellékletében a 70/2013. (VII. 31.) VM rendelet 6. § p) pontjával elrendelt módosítás, amely szerint az „FÖLDMŰVELÉSÜGYI MINISZTÉRIUM .................. MEGYEI HALÁSZATI HATÓSÁG” szövegrész helyébe a „.................. MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁGA” szöveg lép, nem vezethető át.]

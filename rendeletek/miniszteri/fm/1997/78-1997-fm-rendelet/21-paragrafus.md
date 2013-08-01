@@ -1,4 +1,4 @@
-21. §[^23] (1) A szolgálati igazolvány és szolgálati jelvény leírását a 7. számú melléklet tartalmazza. A rendőrség a kiállított szolgálati igazolványt és szolgálati jelvényt 30 napon belül postai úton juttatja el a halászati jog jogosultja részére. A halászati jog jogosultja az esküt tett halászati őr részére – a halászati hatóság tájékoztatásával egyidejűleg – átadja a szolgálati igazolványt és szolgálati jelvényt.
+21. §[^27] (1) A szolgálati igazolvány és szolgálati jelvény leírását a 7. számú melléklet tartalmazza. A rendőrség a kiállított szolgálati igazolványt és szolgálati jelvényt 30 napon belül postai úton juttatja el a halászati jog jogosultja részére. A halászati jog jogosultja az esküt tett halászati őr részére – a halászati hatóság tájékoztatásával egyidejűleg – átadja a szolgálati igazolványt és szolgálati jelvényt.
 
 (2) Az esküt tett halászati őr részére a halászati hatóság a 7. számú mellékletben foglalt minta szerint – díj ellenében – szolgálati naplót ad ki.
 
@@ -10,4 +10,4 @@
 
 (6) Amennyiben a halászati hatóság bejelentés kivizsgálása után vagy szakmai felügyeleti ellenőrzés keretében megállapítja, hogy a halászati őr nem jogszabályok szerint látja el feladatát, akkor a halászati őr szolgálati igazolványának, szolgálati jelvényének visszavonását kezdeményezheti a rendőrségnél.
 
-[^23]: A Vhr. 21. §-a a 45/2013. (VI. 3.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^27]: A Vhr. 21. §-a a 45/2013. (VI. 3.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.

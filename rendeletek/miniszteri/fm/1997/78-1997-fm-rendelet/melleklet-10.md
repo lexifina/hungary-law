@@ -26,7 +26,7 @@
 
 | 13. | Menyhal | Lota lota | 20 cm |
 
-10. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^47]
+10. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^52]
 
 Az állami halászjegyet, illetve horgászjegyet igénylő személy a halászatról és a horgászatról szóló
 
@@ -60,4 +60,4 @@ Kelt ............................., ............... év ........................
 
 igénylő aláírása
 
-[^47]: A Vhr. 10. számú mellékletét a 142/2009. (XI. 3.) FVM rendelet 15. § (2) bekezdése iktatta be.
+[^52]: A Vhr. 10. számú mellékletét a 142/2009. (XI. 3.) FVM rendelet 15. § (2) bekezdése iktatta be.

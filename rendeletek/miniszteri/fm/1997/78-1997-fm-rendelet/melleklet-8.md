@@ -60,6 +60,6 @@
 
 ## A napló további lapjai üresek, a halászati őr a kötelező rovatok szerinti adattartalommal köteles a naplót vezetni.
 
-8. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^45]
+8. számú melléklet a 78/1997. (XI. 4.) FM rendelethez[^50]
 
-[^45]: A Vhr. 8. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés c) pontjával megállapított szöveg.
+[^50]: A Vhr. 8. számú melléklete a 45/2013. (VI. 3.) VM rendelet 1. § (2) bekezdés c) pontjával megállapított szöveg. [A Vhr. 8. számú mellékletében a 70/2013. (VII. 31.) VM rendelet 6. § t) pontjával elrendelt módosítás, amely szerint a „MEZŐGAZDASÁGI SZAKIGAZGATÁSI HIVATAL .................. MEGYEI HALÁSZATI HATÓSÁG” szövegrész helyébe a „.................. MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁGA” szöveg lép, nem vezethető át.]
