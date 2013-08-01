@@ -4,8 +4,11 @@ a) a vetőmagot a származási régióban vagy a 11. § szerinti vetőmagtermel�
 
 b) a vetőmagot csak a származási régiójában forgalmazzák.
 
-(2) Az elismert tájfajta vetőmagja Magyarország területén lévő, a származási régióval természetes és természetközeli élőhelyeinek szempontjából összehasonlítható más régióban is forgalomba hozható az MgSzH Központ engedélyével. Az engedély iránti kérelmet a vetőmag előállítója nyújthatja be az MgSzH Központnál.
+(2)[^12] Az elismert tájfajta vetőmagja Magyarország területén lévő, a származási régióval természetes és természetközeli élőhelyeinek szempontjából összehasonlítható más régióban is forgalomba hozható az NÉBIH engedélyével. Az engedély iránti kérelmet a vetőmag előállítója nyújthatja be az NÉBIH-nél.
 
 (3) Az elismert tájfajta vetőmagjának a (2) bekezdés szerinti további régiókban való forgalomba hozatalának engedélyezése esetén a vetőmag előállítója gondoskodik legalább a 14. § szerinti vetőmagmennyiség előállításához szükséges növényállománynak a származási régióban való fenntartásáról.
 
-(4) Az MgSzH Központ értesíti az Európai Bizottságot és a többi tagállamot a (2) bekezdés szerinti régiókról, amelyek tekintetében az elismert tájfajta vetőmagjának forgalomba hozatalát engedélyezte.
+(4)[^13] Az NÉBIH értesíti az Európai Bizottságot és a többi tagállamot a (2) bekezdés szerinti régiókról, amelyek tekintetében az elismert tájfajta vetőmagjának forgalomba hozatalát engedélyezte.
+
+[^12]: A 13. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 109. § b) és e) pontja szerint módosított szöveg.
+[^13]: A 13. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 109. § b) pontja szerint módosított szöveg.
