@@ -18,7 +18,7 @@ ec) az adósságrendezés alatt álló helyi önkormányzat részvételével mű
 
 ed) az adósságrendezés alá vont helyi önkormányzat vagy költségvetési szerve gesztori közreműködése mellett támogatásban részesített, a megvalósítás szakaszában álló, pályázaton elnyert, kizárólagosan célhoz kötötten – törvényben meghatározott kötelező feladat ellátásához kapcsolódóan – felhasználható fejlesztési és működési források önerő- és támogatásrésze;
 
-ee) a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény és a Magyar Katolikus Egyház számára 2004. évben rendezésre javasolt ingatlanokból, és az e célra elkülönített költségvetési keret felosztásáról szóló 1049/2004. (V. 14.) Korm. határozat alapján a volt egyházi ingatlanok tulajdoni helyzetének rendezése céljából helyi önkormányzat részére juttatott, elkülönítetten kezelt összeg, függetlenül attól, hogy azok az adósságrendezési eljárást megelőzően, vagy az eljárás alatt kerülnek az adósságrendezéssel érintett helyi önkormányzathoz, helyi önkormányzati költségvetési szervhez;
+ee)
 
 f) adósságrendezésbe vonható vagyon: törvényben meghatározott forgalomképtelen törzsvagyon feletti, valamint a hatósági feladatok és az alapvető lakossági szolgáltatások ellátásához szükséges vagyon feletti forgalomképes vagyonrész;
 
