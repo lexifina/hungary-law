@@ -50,7 +50,7 @@ A közszolgáltatást végző szerv kizárólag e tevékenységével összefügg
 
 (3) Az alapvető jogok biztosa nem vizsgálhatja
 
-a) az Országgyűlés,
+a) – a 2. § (3) bekezdésében foglaltakat ide nem értve – az Országgyűlés,
 
 b) a köztársasági elnök,
 
