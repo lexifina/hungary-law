@@ -2,6 +2,6 @@
 
 (2) A kitettség fedezettel el nem látott részére vonatkozó nemteljesítési valószínűség a hitelfelvevőhöz rendelt nemteljesítési valószínűség, a nemteljesítéskori veszteségráta pedig a fedezetlen kitettség nemteljesítéskori veszteségráta értéke.
 
-(3)[^54] GA a G* 153. § szerint számított és a XVII. Fejezetben meghatározott módon a lejárati eltérés figyelembevételével korrigált értéke. E a kitettség értéke a XII. Fejezetben meghatározott módon azzal, hogy az 51. § (11)–(17) bekezdésben és 52. §-ban meghatározott ügyletek kitettség értékének meghatározásakor 100%-os ügyletkockázati súlyt kell alkalmazni. A belső minősítésen alapuló módszert alkalmazó hitelintézetnek az 51. § (11)–(17) bekezdésében és az 52. §-ban meghatározott mérlegen kívüli tételeknél a hitelegyenértékesítési tényezőt a fedezettség számítását követően a fedezett (GA) és a fedezetlen részre (E–GA) egyaránt érvényesíteni kell.
+(3)[^55] GA a G* 153. § szerint számított és a XVII. Fejezetben meghatározott módon a lejárati eltérés figyelembevételével korrigált értéke. E a kitettség értéke a XII. Fejezetben meghatározott módon azzal, hogy az 51. § (11)–(17) bekezdésben és 52. §-ban meghatározott ügyletek kitettség értékének meghatározásakor 100%-os ügyletkockázati súlyt kell alkalmazni. A belső minősítésen alapuló módszert alkalmazó hitelintézetnek az 51. § (11)–(17) bekezdésében és az 52. §-ban meghatározott mérlegen kívüli tételeknél a hitelegyenértékesítési tényezőt a fedezettség számítását követően a fedezett (GA) és a fedezetlen részre (E–GA) egyaránt érvényesíteni kell.
 
-[^54]: A 155. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^55]: A 155. § (3) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 31. §-ával megállapított szöveg.

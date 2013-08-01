@@ -10,9 +10,10 @@
 
 (5) Azon regionális kormányok és helyi önkormányzatok listáját, amelyekkel szemben a központi kormányukkal azonos kockázati súly alkalmazható, a Felügyelet a honlapján közzéteszi.
 
-(6) Ha a jogi személyiséggel rendelkező egyház vagy annak jogi személyiséggel rendelkező egysége szuverén adómegállapítási joggal (önálló adókivetési jogkörrel) rendelkezik, akkor a kitettségére – a (3) bekezdés alkalmazásának kivételével – a regionális kormánnyal és a helyi önkormányzattal szembeni kitettségre alkalmazott kockázati súlyozást kell alkalmazni.
+(6)[^7] Ha az egyházi jogi személy önálló adókivetési joggal rendelkezik, a kitettségére – a (3) bekezdés alkalmazásának kivételével – a regionális kormánnyal vagy a helyi önkormányzattal szembeni kitettségre alkalmazott kockázati súlyozást kell alkalmazni.
 
-(7)[^7] A regionális kormánnyal, helyi önkormányzattal szembeni, a központi kormánya nemzeti pénznemében fennálló (denominált) és finanszírozott kitettségre 20%-os kockázati súlyt kell alkalmazni.
+(7)[^8] A regionális kormánnyal, helyi önkormányzattal szembeni, a központi kormánya nemzeti pénznemében fennálló (denominált) és finanszírozott kitettségre 20%-os kockázati súlyt kell alkalmazni.
 
 [^6]: Az 5. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (7) bekezdését a 348/2011. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^7]: Az 5. § (6) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^8]: Az 5. § (7) bekezdését a 348/2011. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.

@@ -18,7 +18,7 @@ e) a rulírozó hitelmegállapodás rövid lejáratú pénzpiaci eszköz jegyzé
 
 f) a kibocsátott akkreditív és a megerősített akkreditív,
 
-g)[^16] az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államnak a többségi tulajdonában lévő vagy állami alapítói részvétellel létrehozott, hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás által mikro-, kis- és középvállalkozás részére nyújtott készfizető kezességvállalás.
+g)[^17] az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államnak a többségi tulajdonában lévő vagy állami alapítói részvétellel létrehozott, hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás által mikro-, kis- és középvállalkozás részére nyújtott készfizető kezességvállalás.
 
 (3) Húsz százalékos (alacsony) ügyletkockázati súllyal szorzandónak minősül
 
@@ -30,11 +30,11 @@ b) az eredeti lejárata szerint legfeljebb egy éves, a kölcsönnyújtásra, é
 
 a) a hitelintézet által nem saját kockázatra nyújtott hitel alapján fennálló követelés,
 
-b)[^17] a kölcsönnyújtásra, értékpapír-vásárlásra, bankgarancia és bankkezesség nyújtására, váltóleszámítolásra, váltókezesség nyújtására és egyéb kockázatvállalásra vonatkozó le nem hívott ígérvény és hitelkeret, amely bármikor, feltétel nélkül, azonnali hatállyal felmondható, vagy amelynél a hitelfelvevő hitelképességében bekövetkező minőségromlás automatikusan a megállapodás felmondását eredményezi.
+b)[^18] a kölcsönnyújtásra, értékpapír-vásárlásra, bankgarancia és bankkezesség nyújtására, váltóleszámítolásra, váltókezesség nyújtására és egyéb kockázatvállalásra vonatkozó le nem hívott ígérvény és hitelkeret, amely bármikor, feltétel nélkül, azonnali hatállyal felmondható, vagy amelynél a hitelfelvevő hitelképességében bekövetkező minőségromlás automatikusan a megállapodás felmondását eredményezi.
 
 c) a Hpt. 79. §-ának (2) és (7) bekezdésében, illetőleg a Tpt. 178. §-nak (3) bekezdésében foglalt korlát túllépéseinek a szavatoló tőke számítás során levont összege, és
 
 d) a bármikor feltétel nélkül visszavonható készenléti (stand-by) hitellevél.
 
-[^16]: A 17. § (2) bekezdés g) pontját a 70/2011. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
-[^17]: A 17. § (4) bekezdésének b) pontja a 380/2007. (XII. 23.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.
+[^17]: A 17. § (2) bekezdés g) pontját a 70/2011. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 17. § (4) bekezdésének b) pontja a 380/2007. (XII. 23.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.

@@ -12,7 +12,7 @@
 
 (4) A hitelintézet az (5)–(7) bekezdés szerint is meghatározhatja a kollektív befektetési értékpapír esetén alkalmazandó kockázati súlyt, ha
 
-a)[^12] a kollektív befektetési értékpapírt kezelő társaság Magyarország vagy az Európai Unió másik tagállama felügyeleti hatóságának joghatósága alá tartozik,
+a)[^13] a kollektív befektetési értékpapírt kezelő társaság Magyarország vagy az Európai Unió másik tagállama felügyeleti hatóságának joghatósága alá tartozik,
 
 b) a kollektív befektetési értékpapír tájékoztatója tartalmazza azokat az eszközkategóriákat, amelyekbe a kollektív befektetési forma befektethet, valamint – ha a hitelintézet befektetési korlátot alkalmaz – a befektetési korlátokat és azok kiszámítására szolgáló módszereket, és
 
@@ -26,4 +26,4 @@ c) a kollektív befektetési értékpapírhoz kapcsolódó kollektív befekteté
 
 (8) Ha a harmadik ország kollektív befektetési értékpapírját az Európai Unió másik tagállama – az Európai Unió szabályozásával legalább egyenértékű felügyeleti és prudenciális szabályozás miatt – elismertként jóváhagyja, akkor a (4) bekezdés a) pontjának vonatkozásában Magyarországon is elismertnek tekintendő.
 
-[^12]: A 15. § (4) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 553. §-a, a 348/2011. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^13]: A 15. § (4) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 553. §-a, a 348/2011. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.

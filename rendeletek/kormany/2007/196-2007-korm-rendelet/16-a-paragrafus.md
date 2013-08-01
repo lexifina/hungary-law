@@ -1,6 +1,6 @@
-## Lízingügylet[^14]
+## Lízingügylet[^15]
 
-16/A. §[^15] (1) A lízingügyletből származó kitettség értéke a lízingszerződés szerinti minimális lízingdíjak jelenértéken meghatározott értéke, ahol a minimális lízingdíjak a lízingszerződés időtartama alatt a lízingbe vevőtől követelt vagy követelhető pénzösszegek (tőketörlesztő és kamattörlesztő rész) és a szerződésben kikötött maradványérték összege. Ha a lízingügylethez kapcsolódó hitelkockázati fedezet nyújtója a 108. § és a hitelkockázati fedezet nyújtója által nyújtott hitelkockázati fedezet a 120–123. § szerinti követelményeknek megfelel, akkor a minimális lízingdíjak tartalmazza a garantált maradványértéket.
+16/A. §[^16] (1) A lízingügyletből származó kitettség értéke a lízingszerződés szerinti minimális lízingdíjak jelenértéken meghatározott értéke, ahol a minimális lízingdíjak a lízingszerződés időtartama alatt a lízingbe vevőtől követelt vagy követelhető pénzösszegek (tőketörlesztő és kamattörlesztő rész) és a szerződésben kikötött maradványérték összege. Ha a lízingügylethez kapcsolódó hitelkockázati fedezet nyújtója a 108. § és a hitelkockázati fedezet nyújtója által nyújtott hitelkockázati fedezet a 120–123. § szerinti követelményeknek megfelel, akkor a minimális lízingdíjak tartalmazza a garantált maradványértéket.
 
 (2) Ha a kitettség a lízingszerződésben kikötött maradványérték, a kockázattal súlyozott kitettség értéket a következő képlet szerint kell kiszámítani:
 
@@ -8,5 +8,5 @@ Kockázattal súlyozott kitettség érték = 1/t * 100% * kitettség értéke,
 
 ahol t a következő értékek közül a magasabb: 1, vagy a lízingszerződésből hátralévő időtartam teljes évekhez legközelebbi értéke.
 
-[^14]: A 16/A. §-t megelőző alcímet a 349/2010. (XII. 28.) Korm. rendelet 13. §-a iktatta be.
-[^15]: A 16/A. §-t a 349/2010. (XII. 28.) Korm. rendelet 13. §-a iktatta be.
+[^15]: A 16/A. §-t megelőző alcímet a 349/2010. (XII. 28.) Korm. rendelet 13. §-a iktatta be.
+[^16]: A 16/A. §-t a 349/2010. (XII. 28.) Korm. rendelet 13. §-a iktatta be.

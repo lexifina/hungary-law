@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-196-20-
 | 2011-05-01 | 2007-196-20-22.7 | 70/2011. (IV. 28.) Korm. rendelet |
 | 2012-01-01 | 2007-196-20-22.8 | 348/2011. (XII. 30.) Korm. rendelet |
 | 2012-12-31 | 2007-196-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-08-01 | 2007-196-20-22.10 | 297/2013. (VII. 29.) Korm. rendelet |
