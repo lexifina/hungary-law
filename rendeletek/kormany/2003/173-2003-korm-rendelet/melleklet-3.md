@@ -1,6 +1,6 @@
 ## I. Az üdülő minősítési követelményei
 
-## Üdülő az a nem üzleti célú közösségi, szabadidős szálláshely, amely legalább 3 szobával rendelkezik, éves vendégforgalmának legalább 90%-ában, a rendelet 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában igényjogosultak és hozzátartozóik, vagy korosztályos üdülőben az adott korosztály számára szervezett vagy nem szervezett formában szállást és ehhez kapcsolódó ellátást, valamint szabadidős szolgáltatást nyújt és legalább a „C” kategóriájú üdülő minősítési követelményeinek eleget tesz. Üdülő az is, amely az ellátást a szálláshely környezetében, illetve önellátó formában biztosítja. Villa az az üdülő, amely kis létszámú (legfeljebb 20 fő számára történő) elhelyezést biztosít. Gyermeküdülő az az üdülő, amely éves forgalmának legalább 90%-ában, az R. 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában 6–18 éves korosztályú fiatalok üdültetésére szolgál. A gyermek- és ifjúsági üdülő olyan gyermeküdülő, amely éves forgalmának legalább 90%-ában, az R. 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában 6–30 éves korosztályú fiatalok üdültetésére szolgál.[^63]
+## Üdülő az a nem üzleti célú közösségi, szabadidős szálláshely, amely legalább 3 szobával rendelkezik, éves vendégforgalmának legalább 90%-ában, a rendelet 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában igényjogosultak és hozzátartozóik, vagy korosztályos üdülőben az adott korosztály számára szervezett vagy nem szervezett formában szállást és ehhez kapcsolódó ellátást, valamint szabadidős szolgáltatást nyújt és legalább a „C” kategóriájú üdülő minősítési követelményeinek eleget tesz. Üdülő az is, amely az ellátást a szálláshely környezetében, illetve önellátó formában biztosítja. Villa az az üdülő, amely kis létszámú (legfeljebb 20 fő számára történő) elhelyezést biztosít. Gyermeküdülő az az üdülő, amely éves forgalmának legalább 90%-ában, az R. 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában 6–18 éves korosztályú fiatalok üdültetésére szolgál. A gyermek- és ifjúsági üdülő olyan gyermeküdülő, amely éves forgalmának legalább 90%-ában, az R. 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában 6–30 éves korosztályú fiatalok üdültetésére szolgál.[^62]
 
 ## ,,C'' kategóriájú üdülő
 
@@ -14,7 +14,7 @@
 
 ## 4. Fűtés: fűtési időszakban legalább 20 °C hőmérséklet.
 
-## 5.[^64] Vizesblokkok száma: 15 férőhelyenként, nemenként elkülönített zuhanyozási lehetőség meleg vízzel és 10 férőhelyenként, nemenként elkülönített WC, a szobákban hideg folyóvizes kézmosási lehetőség biztosított.
+## 5.[^63] Vizesblokkok száma: 15 férőhelyenként, nemenként elkülönített zuhanyozási lehetőség meleg vízzel és 10 férőhelyenként, nemenként elkülönített WC, a szobákban hideg folyóvizes kézmosási lehetőség biztosított.
 
 ## 6. Tájékoztatás a szolgáltatásokról és a menekülési útvonalról.
 
@@ -34,7 +34,7 @@
 
 ## 13. A szobák berendezése, felszereltsége: ágyneműbiztosítás.
 
-## 14.[^65] Textilváltás:
+## 14.[^64] Textilváltás:
 
 ## – ágynemű: új vendég esetén kötelező az ágyneműcsere,
 
@@ -44,7 +44,7 @@
 
 ## 16. Betegszoba kialakítása 50 férőhelyenként egy ággyal, kis létszámú elhelyezés biztosításával.
 
-## 17.[^66] Gyermekeknek játszószoba vagy e célra elkülönített, fedett játszóterület áll rendelkezésre.
+## 17.[^65] Gyermekeknek játszószoba vagy e célra elkülönített, fedett játszóterület áll rendelkezésre.
 
 ## ,,B'' kategóriájú üdülő
 
@@ -56,9 +56,9 @@
 
 ## 3. A szobák berendezése, felszereltsége: 2 ágy és 2 pótágy. Ágyneműbiztosítás. A szobákban a fekvőhelyszámnak megfelelő ruhásszekrény-egység áll rendelkezésre. Világítás: ágyanként helyi világítás.
 
-## 4.[^67] Vizesblokkok száma: valamennyi szobában hideg- meleg folyóvizes kézmosási lehetőség, a szobák több mint 50%-a zuhanyzóval és WC-vel felszerelt.
+## 4.[^66] Vizesblokkok száma: valamennyi szobában hideg- meleg folyóvizes kézmosási lehetőség, a szobák több mint 50%-a zuhanyzóval és WC-vel felszerelt.
 
-## 5.[^68] Textilváltás:
+## 5.[^67] Textilváltás:
 
 ## – ágynemű: új vendég esetén kötelező az ágyneműcsere,
 
@@ -74,9 +74,9 @@
 
 ## 10. Tárolási lehetőség szintenként hűtőszekrényben.
 
-## 11.[^69] A vendégek részére legalább félpanziós ellátás, a gyermeküdültetést kivéve kétféle menüválasztékkal.
+## 11.[^68] A vendégek részére legalább félpanziós ellátás, a gyermeküdültetést kivéve kétféle menüválasztékkal.
 
-## 12.[^70] Szabadidős szolgáltatás: legalább háromféle beltéri és ötféle kültéri játék- és sporteszköz, valamint a gyermeküdültetést kivéve napozóágy és napernyő kölcsönzési lehetőség.
+## 12.[^69] Szabadidős szolgáltatás: legalább háromféle beltéri és ötféle kültéri játék- és sporteszköz, valamint a gyermeküdültetést kivéve napozóágy és napernyő kölcsönzési lehetőség.
 
 ## Gyermeküdülőnél többletkövetelmény:
 
@@ -114,7 +114,7 @@
 
 ## 10. Szabadtéri sportlétesítmény (sportpálya) áll a vendégek rendelkezésére.
 
-## Villa[^71]
+## Villa[^70]
 
 ## A villa – az alábbi eltérésekkel – megfelel a „C” kategóriájú üdülőnél meghatározott feltételeknek:
 
@@ -128,7 +128,7 @@
 
 ## követelményei
 
-## Gyermek- és ifjúsági tábor az a nem üzleti célú közösségi, szabadidős szálláshely, amely legalább 30 férőhellyel rendelkezik, éves forgalmának legalább 90%-ában, az R. 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában a 6–30 éves korosztályú fiatalok és kísérőik számára kifejezetten e célra kialakított vagy átalakított létesítményben szervezett vagy nem szervezett formában szállást, ellátást, valamint szabadidős szolgáltatást nyújt és legalább a „B” kategóriájú gyermek- és ifjúsági tábor minősítési követelményeinek eleget tesz. Gyermek- és ifjúsági tábor az is, amely a szállást a tábor területén telepített sátortáborban, illetve az ellátást a szálláshely környezetében, vagy fakultatív módon biztosítja.[^72]
+## Gyermek- és ifjúsági tábor az a nem üzleti célú közösségi, szabadidős szálláshely, amely legalább 30 férőhellyel rendelkezik, éves forgalmának legalább 90%-ában, az R. 8. §-ának (5) bekezdésében meghatározott esetben éves vendégforgalmának legalább 80%-ában a 6–30 éves korosztályú fiatalok és kísérőik számára kifejezetten e célra kialakított vagy átalakított létesítményben szervezett vagy nem szervezett formában szállást, ellátást, valamint szabadidős szolgáltatást nyújt és legalább a „B” kategóriájú gyermek- és ifjúsági tábor minősítési követelményeinek eleget tesz. Gyermek- és ifjúsági tábor az is, amely a szállást a tábor területén telepített sátortáborban, illetve az ellátást a szálláshely környezetében, vagy fakultatív módon biztosítja.[^71]
 
 ## ,,B'' kategóriájú gyermek- és ifjúsági tábor
 
@@ -138,29 +138,29 @@
 
 ## 2. A hálóhelyiségben ágyanként legalább 3 m2 alapterületet, illetve 8 m3 térfogategységet kell biztosítani. (Az emeletes ágy a minimális alapterület, illetve térfogategység szempontjából egy ágynak számít.)
 
-## 3.[^73] A hálóhelyiségek berendezése, felszereltsége: ágy/emeletes ágy (fekvőfelület mérete legalább 60x190 cm). Az ágyak ágybetéttel, párnával, takaróval felszereltek. Ágynemű biztosítása nem kötelező. A szobákban férőhelyenként egy 30x60 cm alapterületű ruhásszekrény-egység. Világítás: szobánként legalább egy központi (mennyezeti) lámpa (világítótest).
+## 3.[^72] A hálóhelyiségek berendezése, felszereltsége: ágy/emeletes ágy (fekvőfelület mérete legalább 60x190 cm). Az ágyak ágybetéttel, párnával, takaróval felszereltek. Ágynemű biztosítása nem kötelező. A szobákban férőhelyenként egy 30x60 cm alapterületű ruhásszekrény-egység. Világítás: szobánként legalább egy központi (mennyezeti) lámpa (világítótest).
 
 ## 4. Fűtés: fűtési időszakban legalább 20 °C hőmérséklet.
 
 ## 5. Vizesblokkok száma: szintenként 10 férőhelyenként, nemenként elkülönített zuhanyozási lehetőség meleg vízzel és 20 férőhelyenként, nemenként elkülönített WC.
 
-## 6.[^74] Fakultatív fürdőszobai textília-biztosítás. Ha textíliát biztosítanak, legalább egyszer hetente, valamint új vendég esetén cserélni kell.
+## 6.[^73] Fakultatív fürdőszobai textília-biztosítás. Ha textíliát biztosítanak, legalább egyszer hetente, valamint új vendég esetén cserélni kell.
 
 ## 7. Takarítás: legalább kétszer hetente.
 
 ## 8. Tájékoztatás a szolgáltatásokról és a menekülési útvonalról.
 
-## 9.[^75] A közös helyiségben tv áll rendelkezésre, továbbá a férőhelyszám 1/3-ának megfelelő ülőalkalmatosság, vagy – idényjellegű üzemelés esetén – kertszerűen kialakított szabad téren elhelyezett, a férőhelyszám 1/3-ának megfelelő mennyiségű kerti bútor.
+## 9.[^74] A közös helyiségben tv áll rendelkezésre, továbbá a férőhelyszám 1/3-ának megfelelő ülőalkalmatosság, vagy – idényjellegű üzemelés esetén – kertszerűen kialakított szabad téren elhelyezett, a férőhelyszám 1/3-ának megfelelő mennyiségű kerti bútor.
 
 ## 10. Tárolási lehetőség szintenként hűtőszekrényben.
 
-## 11.[^76] Fakultatív étkezési lehetőség a szálláshelyen vagy környezetében.
+## 11.[^75] Fakultatív étkezési lehetőség a szálláshelyen vagy környezetében.
 
-## 12.[^77] Csomagmegőrzési és központi értékmegőrzési lehetőség.
+## 12.[^76] Csomagmegőrzési és központi értékmegőrzési lehetőség.
 
 ## 13. Betegszoba kialakítása 50 férőhelyenként egy ággyal, kis létszámú elhelyezés biztosításával.
 
-## 14.[^78] Szabadidős szolgáltatás: legalább háromféle beltéri és négyféle kültéri játék- és sporteszköz kölcsönzési lehetőség. Gyermekeknek játszószoba vagy e célra elkülönített, fedett játszóterület áll rendelkezésre.
+## 14.[^77] Szabadidős szolgáltatás: legalább háromféle beltéri és négyféle kültéri játék- és sporteszköz kölcsönzési lehetőség. Gyermekeknek játszószoba vagy e célra elkülönített, fedett játszóterület áll rendelkezésre.
 
 ## ,,A'' kategóriájú gyermek- és ifjúsági tábor
 
@@ -168,7 +168,7 @@
 
 ## 1. 7–22 óráig recepciószolgálat vagy azt ellátni képes ügyelet.
 
-## 2.[^79] Egy hálóhelyiségben legfeljebb 8 fekvőhely, ágyanként legalább 4 m2 alapterületet, illetve 8 m3 térfogategységet kell biztosítani. Ágynemű-biztosítás. A szobákban a férőhelyszámnak megfelelő ülőalkalmatosság és legalább egy asztal.
+## 2.[^78] Egy hálóhelyiségben legfeljebb 8 fekvőhely, ágyanként legalább 4 m2 alapterületet, illetve 8 m3 térfogategységet kell biztosítani. Ágynemű-biztosítás. A szobákban a férőhelyszámnak megfelelő ülőalkalmatosság és legalább egy asztal.
 
 ## 3. Világítás: szobánként a központi világításon kívül kiegészítő (helyi) világítás.
 
@@ -184,7 +184,7 @@
 
 ## 7. A közös helyiségben színes tv áll rendelkezésre.
 
-## 8.[^80] Étkezés: teljes ellátás, menürendszerben.
+## 8.[^79] Étkezés: teljes ellátás, menürendszerben.
 
 ## 9. Telefon: a recepción áll rendelkezésre.
 
@@ -214,7 +214,7 @@
 
 ## 5. Fekvőhelyenként legalább 2 m2 alapterületet, illetve átszellőző ponyva esetén 4 m3, minden más esetben 8 m3 térfogategységet kell biztosítani.
 
-## 6.[^81] Berendezés, felszereltség: ágy/matrac (a fekvőfelület mérete legalább 60x190 cm). A matrac nem helyezhető közvetlenül a földre. A fekvőhelyek párnával, takaróval felszereltek. Ágynemű-biztosítás nem kötelező; ha ágyneműt biztosítanak, új vendég esetén cserélni kell. Csomagtárolási lehetőség.
+## 6.[^80] Berendezés, felszereltség: ágy/matrac (a fekvőfelület mérete legalább 60x190 cm). A matrac nem helyezhető közvetlenül a földre. A fekvőhelyek párnával, takaróval felszereltek. Ágynemű-biztosítás nem kötelező; ha ágyneműt biztosítanak, új vendég esetén cserélni kell. Csomagtárolási lehetőség.
 
 ## 7. A telepített sátor tisztán tartása, állagának megóvása biztosított.
 
@@ -260,9 +260,9 @@
 
 ## 11. A háromfázisú (kombinált mosogatószer esetén kétfázisú) mosogatás mobil eszközben vagy elkülönített mosogatótálak útján higiénikusan megoldott.
 
-## IV. A hegyi menedékház minősítési követelményei
+## IV.[^81] A hegyi menedékház minősítési követelményei
 
-## Hegyi menedékház az a természeti környezetben álló, turista célokra szolgáló, nem üzleti célú közösségi, szabadidős szálláshely, amely igénybe vehető több éjszakának az időjárástól védett módon való eltöltésére. Hegyi menedékháznak minősül a sportlétesítmény, közintézmény, egyházi intézmény helyiségében fekvőhelyek elhelyezésével kialakított ideiglenes szálláshely is.
+## Hegyi menedékház az a természeti környezetben álló, turista célokra szolgáló, nem üzleti célú közösségi, szabadidős szálláshely, amely igénybe vehető több éjszakának az időjárástól védett módon való eltöltésére. Hegyi menedékháznak minősül a sportlétesítmény, közintézmény vagy egyházi jogi személy által üzemeltetett intézményi szállás helyiségében fekvőhelyek elhelyezésével kialakított ideiglenes szálláshely is.
 
 ## ,,C'' kategóriájú hegyi menedékház (kulcsosház)
 
@@ -348,7 +348,7 @@
 
 ## Matracszállás
 
-## Matracszállás a hegyi menedékházban melegburkolaton vagy emelvényen kialakított, egymástól el nem választható fekvőhelyekből álló fekvőhelysor. Matracszállásnak minősül a sportlétesítmény, közintézmény, egyházi intézmény helyiségében tornaszőnyeg vagy más derékalj felhasználásával kialakított ideiglenes szálláshely is.
+## Matracszállás a hegyi menedékházban melegburkolaton vagy emelvényen kialakított, egymástól el nem választható fekvőhelyekből álló fekvőhelysor. Matracszállásnak minősül a sportlétesítmény, közintézmény vagy egyházi jogi személy által üzemeltetett intézményi szállás helyiségében tornaszőnyeg vagy más derékalj felhasználásával kialakított ideiglenes szálláshely is.
 
 ## A matracszállás megfelel legalább a következő feltételeknek:
 
@@ -552,25 +552,26 @@
 
 3. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^95]
 
-[^63]: A 2. számú melléklet I. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (2)–(3) bekezdését.
-[^64]: A 2. számú melléklet I. rész „C” kategóriájú üdülő pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^65]: A 2. számú melléklet I. rész „C” kategóriájú üdülő pontjának 14. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^66]: A 2. számú melléklet I. rész „C” kategóriájú üdülő pontjának 17. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^67]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 4. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^68]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^69]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 11. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^70]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 12. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^71]: A 2. számú melléklet I. részének Villa pontját a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^72]: A 2. számú melléklet II. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^73]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 3. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^74]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 6. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^75]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 9. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^76]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 11. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^77]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 12. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^78]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 14. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^79]: A 2. számú melléklet II. rész „A” kategóriájú gyermek- és ifjúsági tábor pontjának 2. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^80]: A 2. számú melléklet II. rész „A” kategóriájú gyermek- és ifjúsági tábor pontjának 8. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^81]: A 2. számú melléklet II. rész Telepített sátortábor pontjának 6. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^62]: A 2. számú melléklet I. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (2)–(3) bekezdését.
+[^63]: A 2. számú melléklet I. rész „C” kategóriájú üdülő pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^64]: A 2. számú melléklet I. rész „C” kategóriájú üdülő pontjának 14. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^65]: A 2. számú melléklet I. rész „C” kategóriájú üdülő pontjának 17. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^66]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 4. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^67]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 5. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^68]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 11. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^69]: A 2. számú melléklet I. rész „B” kategóriájú üdülő pontjának 12. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^70]: A 2. számú melléklet I. részének Villa pontját a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^71]: A 2. számú melléklet II. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^72]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 3. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^73]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 6. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^74]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 9. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^75]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 11. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^76]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 12. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^77]: A 2. számú melléklet II. rész „B” kategóriájú gyermek- és ifjúsági tábor pontjának 14. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^78]: A 2. számú melléklet II. rész „A” kategóriájú gyermek- és ifjúsági tábor pontjának 2. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^79]: A 2. számú melléklet II. rész „A” kategóriájú gyermek- és ifjúsági tábor pontjának 8. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^80]: A 2. számú melléklet II. rész Telepített sátortábor pontjának 6. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^81]: A 2. számú melléklet IV. pontja a 297/2013. (VII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
 [^82]: A 2. számú melléklet IV. rész „C” kategóriájú hegyi menedékház (kulcsosház) pontjának 9. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
 [^83]: A 2. számú melléklet V. részének bevezető rendelkezése a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
 [^84]: A 2. számú melléklet V. rész b) pontjának 2. alpontja a 218/2007. (VIII. 15.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.

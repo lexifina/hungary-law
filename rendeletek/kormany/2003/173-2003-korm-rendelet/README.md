@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-173-20-
 | 2011-01-01 | 2003-173-20-22.11 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2012-01-01 | 2003-173-20-22.12 | 218/2007. (VIII. 15.) Korm. rendelet |
 | 2013-01-01 | 2003-173-20-22.13 | 174/2012. (VII. 26.) Korm. rendelet |
+| 2013-08-01 | 2003-173-20-22.14 | 297/2013. (VII. 29.) Korm. rendelet |

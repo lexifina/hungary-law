@@ -10,15 +10,15 @@ a) a létesítményt szállástípusonként (altípusonként) önálló létesí
 
 b) a fő szállástípus szerint kell a szálláshelyet minősíteni, amennyiben a fő szállástípustól különböző szállástípusok (altípusok) összkapacitása nem éri el az éves összkapacitás 10%-át.
 
-(4)[^26] A szolgáltató – az (5) bekezdésben foglalt kivétellel – a maradvány-férőhelyeket a tárgyévi összkapacitás 10%-át meg nem haladóan a 9. § (1) bekezdése alapján megállapított árhoz képest az általa évente előre meghatározott haszonkulccsal növelt áron értékesítheti.
+(4)[^25] A szolgáltató – az (5) bekezdésben foglalt kivétellel – a maradvány-férőhelyeket a tárgyévi összkapacitás 10%-át meg nem haladóan a 9. § (1) bekezdése alapján megállapított árhoz képest az általa évente előre meghatározott haszonkulccsal növelt áron értékesítheti.
 
-(5)[^27] Fejlesztési célú támogatás igénybevétele esetén – amennyiben a támogatási kiírás feltételként írja elő, hogy az üzemeltetési kötelezettség időtartama alatt a szolgáltatónak árbevétel-növekedést kell elérnie – az üzemeltetési kötelezettséggel rendelkező szolgáltató az üzemeltetési kötelezettség időtartamának végéig a maradvány-férőhelyeket a tárgyévi összkapacitás 20%-át meg nem haladóan a 9. § (1) bekezdése alapján megállapított árhoz képest az általa évente előre meghatározott haszonkulccsal növelt áron értékesítheti.
+(5)[^26] Fejlesztési célú támogatás igénybevétele esetén – amennyiben a támogatási kiírás feltételként írja elő, hogy az üzemeltetési kötelezettség időtartama alatt a szolgáltatónak árbevétel-növekedést kell elérnie – az üzemeltetési kötelezettséggel rendelkező szolgáltató az üzemeltetési kötelezettség időtartamának végéig a maradvány-férőhelyeket a tárgyévi összkapacitás 20%-át meg nem haladóan a 9. § (1) bekezdése alapján megállapított árhoz képest az általa évente előre meghatározott haszonkulccsal növelt áron értékesítheti.
 
-(6)[^28] A (4)–(5) bekezdésben foglalt esetekben a haszonkulcs mértéke nem haladhatja meg a 30%-ot. A szolgáltató a (4)–(5) bekezdés szerinti tevékenységet külön engedély, illetve nyilvántartásba vétel nélkül végezheti.
+(6)[^27] A (4)–(5) bekezdésben foglalt esetekben a haszonkulcs mértéke nem haladhatja meg a 30%-ot. A szolgáltató a (4)–(5) bekezdés szerinti tevékenységet külön engedély, illetve nyilvántartásba vétel nélkül végezheti.
 
-(7)[^29] A szolgáltató köteles bejelenteni a jegyzőnek, ha a tárgyévben értékesített maradvány-férőhelyek száma meghaladja a (4)–(5) bekezdésben meghatározott mértéket.
+(7)[^28] A szolgáltató köteles bejelenteni a jegyzőnek, ha a tárgyévben értékesített maradvány-férőhelyek száma meghaladja a (4)–(5) bekezdésben meghatározott mértéket.
 
-[^26]: A 8. § (4) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^27]: A 8. § (5) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^28]: A 8. § (6) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^29]: A 8. § (7) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^25]: A 8. § (4) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^26]: A 8. § (5) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^27]: A 8. § (6) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^28]: A 8. § (7) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.

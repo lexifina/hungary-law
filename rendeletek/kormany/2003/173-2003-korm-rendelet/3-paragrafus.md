@@ -1,26 +1,26 @@
 ## Értelmező rendelkezések
 
-3. § (1) E rendelet alkalmazásában
+3. § (1)[^11] E rendelet alkalmazásában
 
-a)[^11] nem üzleti célú közösségi, szabadidős szálláshely az erre a célra épített vagy átalakított és az ekként minősített, illetve – ahol e rendelet előírja – ekként nyilvántartásba vett üdültetési és ifjúsági turisztikai célú, továbbá hegyi menedék céljára szolgáló szálláshely,
+a) nem üzleti célú közösségi, szabadidős szálláshely az erre a célra épített vagy átalakított és az ekként minősített, illetve – ahol e rendelet előírja – ekként nyilvántartásba vett üdültetési és ifjúsági turisztikai célú, továbbá hegyi menedék céljára szolgáló szálláshely,
 
-b)[^12] nem üzleti célú közösségi, szabadidős szálláshelynek minősül az ekként minősített, illetve – ahol e rendelet előírja – ekként nyilvántartásba vett,
+b) nem üzleti célú közösségi, szabadidős szálláshelynek minősül az ekként minősített, illetve – ahol e rendelet előírja – ekként nyilvántartásba vett,
 
 ba) sportlétesítményben üzemelő, szálláshely céljára szolgáló önálló rendeltetési részegység,
 
-bb)[^13] szálláshely-szolgáltatásának időszakában kiegészítő/melléktevékenység formájában üzemeltetett hivatali, közfeladatot ellátó intézmény által biztosított és az egyházi jogi személy által nem az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény szerinti gazdasági-vállalkozási tevékenység keretében üzemeltetett egyházi intézményi szállás.
+bb) szálláshely-szolgáltatásának időszakában kiegészítő vagy melléktevékenység formájában üzemeltetett hivatali, közfeladatot ellátó intézmény által biztosított és az egyházi jogi személy által nem gazdasági-vállalkozási tevékenysége keretében üzemeltetett intézményi szállás.
 
-A nem üzleti célú közösségi, szabadidős szálláshelyek típusait (altípusait) az 1. számú melléklet, az e típusoknak (altípusoknak) minősülő további szálláshelyeket, valamint a szálláshelyek besorolását és minősítési követelményeit a 2. számú melléklet tartalmazza.
+(1a)[^12] A nem üzleti célú közösségi, szabadidős szálláshelyek típusait (altípusait) az 1. számú melléklet, az e típusoknak (altípusoknak) minősülő további szálláshelyeket, valamint a szálláshelyek besorolását és minősítési követelményeit a 2. számú melléklet tartalmazza.
 
 (2) Az igénybevétel időtartama szerint
 
-a)[^14] alkalmi szálláshelynek minősül
+a)[^13] alkalmi szálláshelynek minősül
 
 1. a bivakszállás,
 
 2. a hegyi menedékházban kialakított szükségszállás;
 
-b)[^15] rövid idejű tartózkodást biztosító szálláshelynek minősül
+b)[^14] rövid idejű tartózkodást biztosító szálláshelynek minősül
 
 1. a nomád táborhely,
 
@@ -28,7 +28,7 @@ b)[^15] rövid idejű tartózkodást biztosító szálláshelynek minősül
 
 3. a pihenőházból a vendégszállás;
 
-c)[^16] átmeneti tartózkodást biztosító szálláshelynek minősül
+c)[^15] átmeneti tartózkodást biztosító szálláshelynek minősül
 
 1. az üdülő,
 
@@ -56,9 +56,8 @@ b) állandó felügyelettel üzemelő szálláshelynek minősülnek az a) pontba
 
 (4) E rendelet alkalmazásában nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatás a társadalom közös szükségleteinek kielégítését nem üzleti célú közösségi, szabadidős szálláshelyen nyereség- és vagyonszerzési cél nélkül megvalósító szolgáltatási tevékenység, tekintet nélkül a szolgáltató jellegére.
 
-[^11]: A 3. § (1) bekezdésének a) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^12]: A 3. § (1) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^13]: A 3. § (1) bekezdés b) pontjának bb) alpontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 307. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: A 3. § (2) bekezdésének a) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^15]: A 3. § (2) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^16]: A 3. § (2) bekezdésének c) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^11]: A 3. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1a) bekezdését a 297/2013. (VII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^13]: A 3. § (2) bekezdésének a) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^14]: A 3. § (2) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^15]: A 3. § (2) bekezdésének c) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
