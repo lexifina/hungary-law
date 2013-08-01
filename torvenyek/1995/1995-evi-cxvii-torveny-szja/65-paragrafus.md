@@ -70,7 +70,7 @@ b) nyereménybetét esetében a nyereménybetét-számlán történő jóváír�
 
 c) az a)–b) pont alá nem tartozó esetben az átutalás vagy a postára adás vagy a magánszemély számára, javára történő birtokba adás napja.
 
-(5) Az (1) bekezdés bb) alpontjának hatálya alá tartozó pénzügyi eszközre vonatkozó – egyébként az ellenőrzött tőkepiaci ügylet fogalmának megfelelő – ügylet esetén a magánszemély választhatja, hogy az adóbevallásában az ellenőrzött tőkepiaci ügyletre vonatkozó rendelkezések szerint (ideértve az adókiegyenlítésre vonatkozó rendelkezéseket is) vallja be az ügyleti nyereséget/veszteséget, ha annak az említett rendelkezésekben meghatározott egyéb feltételei fennállnak, azzal, hogy kifizetőnek minősülő befektetési szolgáltatóval kötött ügylet esetében
+(5) A 2013. augusztus 1-jét megelőzően megszerzett kamatjövedelmekre vonatkozóan az (1) bekezdés b) pont bb) alpontjának hatálya alá tartozó pénzügyi eszközre vonatkozó – egyébként az ellenőrzött tőkepiaci ügylet fogalmának megfelelő – ügylet esetén a magánszemély választhatja, hogy az adóbevallásában az ellenőrzött tőkepiaci ügyletre vonatkozó rendelkezések szerint (ideértve az adókiegyenlítésre vonatkozó rendelkezéseket is) vallja be az ügyleti nyereséget/veszteséget, ha annak az említett rendelkezésekben meghatározott egyéb feltételei fennállnak, azzal, hogy kifizetőnek minősülő befektetési szolgáltatóval kötött ügylet esetében
 
 a) a magánszemély e rendelkezést akkor alkalmazhatja, ha az adóév utolsó napjáig – adóazonosító jelének megadásával együtt – nyilatkozatot tesz ezen választásáról;
 

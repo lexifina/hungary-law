@@ -184,7 +184,7 @@ h) a bányászatról szóló törvényben meghatározott átmeneti bányászjár
 
 i) a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló kormányrendeletben meghatározott pótlék;
 
-j) az egyház belső szabályai szerint létrehozott és működtetett nyugdíjalapból az egyház idős, rokkant egyházi személy tagja vagy az említett tag özvegye számára folyósított nyugellátás vagy nyugdíjkiegészítés;
+j) a bevett egyház belső szabálya szerint létrehozott és az egyházi jogi személy által működtetett nyugdíjalapból a bevett egyház idős, rokkant egyházi személy tagja vagy az említett tag özvegye számára folyósított nyugellátás vagy nyugdíjkiegészítés;
 
 k) a sportról szóló törvényben meghatározott olimpiai járadék, valamint az említett törvény alapján a „Nemzet Sportolója” címmel járó életjáradék;
 
@@ -230,9 +230,7 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 38. Egyenruha: a Magyar Honvédség és a rendvédelmi szervezetek tagjának, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 
-39. Egyház: az a vallási közösség, amelyet a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény ilyenként meghatároz.
-
-40. Egyházi személy az, akit az egyház belső törvényeiben és szabályzataiban annak minősít.
+39–40.
 
 41. Agrár csekély összegű (agrár de minimis) támogatás: az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK bizottsági rendelet módosításáról szóló 875/2007/EK bizottsági rendelet (2007. július 24.) vagy az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 1535/2007/EK bizottsági rendelet (2007. december 20.) által csekély összegű (de minimis) támogatásnak minősített támogatás.
 
