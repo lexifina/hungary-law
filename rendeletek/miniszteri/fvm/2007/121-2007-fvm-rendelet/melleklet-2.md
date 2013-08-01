@@ -12,7 +12,7 @@
 
 ## 2. Mintavételi eljárás
 
-## 2.1. A hatósági mintavételt az MgSzH területi szerve hajtja végre.
+## 2.1. A hatósági mintavételt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hajtja végre.
 
 ## 2.2. A mintát a tojástálcákat gyűjtő ládából, kartonból, azon belül a tálcákból (a tojásokból), továbbá a naposbaromfit szállító kartonból (dobozból), tehát a naposbaromfiból kell venni.
 
@@ -58,7 +58,7 @@
 
 ## Megfelelő a tétel minősége, ha a minta egy százalékánál nem több a minőséghibás egyedek száma. Minőséghibásnak az a tojás vagy naposállat minősül, amely nem felel meg az adott fajta tenyésztő szervezete által meghatározott minőségi követelményeknek.
 
-2. számú melléklet a 121/2007. (X. 18.) FVM rendelethez[^30]
+2. számú melléklet a 121/2007. (X. 18.) FVM rendelethez[^32]
 
 | Az Európai Unió tagállamába vagy harmadik országba történő szállítás esetén a termelőtelep azonosító száma a következő elemekből tevődik össze: |
 
@@ -72,4 +72,4 @@
 
 | 3. karakter: | telep TIR azonosítója |
 
-[^30]: A 2. számú mellékletet az 5/2009. (I. 27.) FVM rendelet 3. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatta. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^32]: A 2. számú mellékletet az 5/2009. (I. 27.) FVM rendelet 3. §-a iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. számú mellékletre változtatta. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
