@@ -1,6 +1,6 @@
 25. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba. Rendelkezéseit a hatálybalépést követően indult földmérési munkáknál kell alkalmazni.
 
-(2)–(5)[^1]
+(2)–(5)[^3]
 
 Melléklet a 44/2006. (VI. 13.) FVM rendelethez
 
@@ -112,4 +112,4 @@ a 0164/3 hrsz. b alrészlet művelési ága legelő és rét.
 
 16. ábra
 
-[^1]: A 25. § (2)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 90. pontja hatályon kívül helyezte.
+[^3]: A 25. § (2)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 90. pontja hatályon kívül helyezte.
