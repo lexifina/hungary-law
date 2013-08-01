@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-55-00-00
 | 2013-06-30 | 2013. évi CVII. törvény | 1994-55-00-00.47 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1994-55-00-00.48 |
 | 2013-07-25 | 2013. évi CVII. törvény | 1994-55-00-00.49 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 1994-55-00-00.50 |
