@@ -8,7 +8,7 @@
 
 ## 56. Az egyházi felsőoktatási intézmények
 
-91. § (1) Hitélettel és a hitélettel együtt oktatott hittudománnyal összefüggő képzést (a továbbiakban együtt: hitéleti képzés) az egyházi jogi személy által fenntartott felsőoktatási intézmények (a továbbiakban: egyházi felsőoktatási intézmény) folytathatnak.
+91. § (1) Hitélettel és a hitélettel együtt oktatott hittudománnyal összefüggő képzést (a továbbiakban együtt: hitéleti képzés) az egyházi felsőoktatási intézmény folytathat.
 
 (2) Az egyházi felsőoktatási intézmények e törvény általános rendelkezései szerint nem hitéleti képzést is folytathatnak.
 

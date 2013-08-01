@@ -1,6 +1,8 @@
 ## 57. A magán felsőoktatási intézmények
 
-94. § (1) A 4. § (1) bekezdés c)–d) pontjában meghatározott személy, szervezet által fenntartott felsőoktatási intézmény (a továbbiakban: magán felsőoktatási intézmény) vallási, illetve világnézeti tekintetben elkötelezett intézményként is működhet, és a képzési programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő filozófiai, etikai, kulturális ismereteket.
+94. § (1) A 4. § (1) bekezdés c)–d) pontjában meghatározott személy, szervezet által fenntartott felsőoktatási intézmény vallási, illetve világnézeti tekintetben elkötelezett intézményként is működhet, és a képzési programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő filozófiai, etikai, kulturális ismereteket.
+
+(1a) A vallási tevékenységet végző szervezet által fenntartott magán felsőoktatási intézmény is folytathat hitéleti képzést, amelyre a 91. § (6) és (7) bekezdését, a 92. § (6) bekezdését és a 93. § (1) és (4) bekezdését alkalmazni kell. Ahol e törvény munkaviszonyt említ, azon a magán felsőoktatási intézmény hitéleti képzésén foglalkoztatottak esetén a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjának ilyen jogviszonyát is érteni kell.
 
 (2) A magán felsőoktatási intézmények a 12. § (7) bekezdésben, a 12. § (8) bekezdésben, a 29. § (1) bekezdésben, a 37. § (3), (5)–(6) bekezdésben, a 83. § (1) és (5) bekezdésben foglalt rendelkezésektől a szervezeti és működési szabályzatukban eltérhetnek.
 

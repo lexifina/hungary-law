@@ -2,13 +2,15 @@
 
 a) a magyar állam, országos nemzetiségi önkormányzat,
 
-b) a Magyarországon nyilvántartásba vett egyházi jogi személy, beleértve a jogi személyiséggel rendelkező szervezeti egységét is (a továbbiakban: egyházi jogi személy),
+b) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
 
 c) a Magyarország területén székhellyel rendelkező gazdasági társaság,
 
-d) a Magyarországon nyilvántartásba vett alapítvány vagy közalapítvány
+d) a Magyarországon nyilvántartásba vett alapítvány, közalapítvány vagy vallási tevékenységet végző szervezet
 
 alapíthat.
+
+(1a) Egyházi felsőoktatási intézmény az (1) bekezdés b) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény. Magán felsőoktatási intézmény az (1) bekezdés c) és d) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény.
 
 (2) Az alapítói jogok gyakorlásának joga az e törvényben meghatározottak szerint átruházható. Az, aki az alapítói jogot gyakorolja, ellátja a felsőoktatási intézmény fenntartásával kapcsolatos feladatokat (a továbbiakban: fenntartó).
 

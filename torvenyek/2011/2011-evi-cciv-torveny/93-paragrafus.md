@@ -4,12 +4,8 @@
 
 (3) Ahol e törvény munkaviszonyt említ, azon egyházi felsőoktatási intézmények esetén az egyházi személy jogviszonyt is érteni kell.
 
-(4) A miniszter az alap- és mesterképzés képzési és kimeneti követelményeinek szabályozásánál a hitéleti képzés tekintetében az egyházi jogi személy kezdeményezésére szabályoz.
+(4) A miniszter az alap- és mesterképzés képzési és kimeneti követelményeinek szabályozásánál a hitéleti képzés tekintetében az egyházi fenntartó kezdeményezésére szabályoz.
 
-(5) A felsőoktatási intézményeket fenntartó egyházi jogi személyek kezdeményezésére a MAB-on belül hittudományi kérdésekkel foglalkozó bizottságot kell működtetni.
+(5) Az egyházi fenntartó kezdeményezésére a MAB-on belül hittudományi kérdésekkel foglalkozó bizottságot kell működtetni.
 
-(6) Az egyházi felsőoktatási intézmények működésére
-
-a) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény vonatkozó rendelkezéseit,
-
-b) a 94. § (2)–(3) és (8) bekezdésben, valamint a 95. § (2)–(3) és (6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
+(6) Az egyházi felsőoktatási intézmény működésére a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit, a 94. § (2), (3) és (8) bekezdését, valamint a 95. § (2), (3) és (6) bekezdését kell alkalmazni.

@@ -22,7 +22,7 @@ d) a felvehető maximális hallgatói létszám megállapításával és módos�
 
 e) a doktori iskola létesítésével, megszűnésével,
 
-f) egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok nyilvántartásba vételével,
+f) a diákotthonok nyilvántartásba vételével
 
 g) felsőoktatási szakkollégiumok nyilvántartásba vételével
 

@@ -26,7 +26,7 @@ h) kulturális és fejlesztési támogatások
 
 biztosítása.
 
-(3) Az állami támogatásra – a (2) bekezdés d) pontjában meghatározott állami támogatás kivételével – az állami felsőoktatási intézmények azonos feltételek, az egyházi és magán felsőoktatási intézmények – törvény eltérő rendelkezése hiányában – a Kormánnyal kötött megállapodás alapján válnak jogosulttá.
+(3) Az állami támogatásra – a (2) bekezdés d) pontjában meghatározott állami támogatás kivételével – az állami felsőoktatási intézmények azonos feltételek, az egyházi felsőoktatási intézmények és a magán felsőoktatási intézmények – törvény eltérő rendelkezése hiányában – a Kormánnyal kötött megállapodás alapján válnak jogosulttá.
 
 (4) A pályázati úton adható támogatás lehet különösen:
 
