@@ -1,3 +1,5 @@
+## Az egy tételre vonatkozó minimális minta nagysága
+
 |  | A | B |
 
 | 1. | Tételcsoport | Minimális mintanagyság/tétel* |
@@ -16,7 +18,7 @@
 
 ## * A tétel mintanagyságát maggal szaporított növények esetében mag darabszámban, a vegetatív szaporítású lágyszárú, illetve az évelő fásszárú növényeknél tőszámban, merisztéma kultúrákban való fenntartásban, illetve mikroorganizmusok esetében tenyészet darabszámban kell mérni.
 
-5. melléklet az 53/2011. (VI. 10.) VM rendelethez[^6]
+5. melléklet az 53/2011. (VI. 10.) VM rendelethez[^7]
 
 A 6. § (5a) bekezdése szerinti tételek megnevezése
 
@@ -720,4 +722,4 @@ A 6. § (5a) bekezdése szerinti tételek megnevezése
 
 | 349. | Triticum aestivum | Közönséges búza | I/1 | 5DL-12 |
 
-[^6]: Az 5. mellékletet a 30/2013. (IV. 30.) VM rendelet 10. § (2) bekezdése iktatta be.
+[^7]: Az 5. mellékletet a 30/2013. (IV. 30.) VM rendelet 10. § (2) bekezdése iktatta be.

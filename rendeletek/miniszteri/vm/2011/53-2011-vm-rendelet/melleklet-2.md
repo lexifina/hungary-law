@@ -1,3 +1,5 @@
+## A génmegőrzésben érintett növényfajok és -fajták listája
+
 |  | A | B | C |
 
 | 1. | Termesztett fajok | A növény magyar neve | Támogatott megőrzési mód* |
@@ -701,5 +703,3 @@
 ## * A támogatott megőrzési módok jelölését a 3. melléklet tartalmazza.
 
 2. melléklet az 53/2011. (VI. 10.) VM rendelethez
-
-A támogatási kérelmek részletes pontozási szempontrendszere

@@ -18,4 +18,4 @@ d) az ügyfél aláírása.
 
 (5) Nem adható támogatás azon kérelmezőnek, aki az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009 (V. 14.) FVM rendelet 12. és 13. számú mellékleteiben szereplő kultúrtörténeti és genetikai szempontból kiemelkedő jelentőségű veszélyeztetett ritka szántóföldi növény-, zöldségfajták termesztésének vonatkozásában adott évben helyt adó vagy részben helyt adó kifizetési határozattal rendelkezik.
 
-[^5]: A 13. § (3) bekezdése a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^5]: A 13. § (3) bekezdése a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés e) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 132. § c) pontjával elrendelt módosítás amely szerint „az MgSzH” szövegrész helyébe „ a NÉBIH” szöveg lép, nem vezethető át.]

@@ -26,7 +26,7 @@ b) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásá
 
 (7) A felszaporított tételek után nem jár támogatási összeg.
 
-[^1]: A 6. § (3) bekezdés b) pontja a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^1]: A 6. § (3) bekezdés b) pontja a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 132. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH)” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
 [^2]: A 6. § (5) bekezdése a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^3]: A 6. § (5a) bekezdését a 30/2013. (IV. 30.) VM rendelet 10. § (1) bekezdése iktatta be.
-[^4]: A 6. § (6) bekezdése a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés c) és d) pontja szerint módosított szöveg.
+[^4]: A 6. § (6) bekezdése a 30/2013. (IV. 30.) VM rendelet 10. § (3) bekezdés c) és d) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 132. § b) pontjával elrendelt módosítás amely szerint „az MgSzH-tól” szövegrész helyébe „ a NÉBIH-től” szöveg lép, nem vezethető át.]

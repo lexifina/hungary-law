@@ -1,3 +1,5 @@
+## A támogatás mértéke
+
 |  | A | B | C |
 
 | 1. | Tételcsoport | Támogatott megőrzési mód | Támogatási összeg euró/tétel |
@@ -23,5 +25,3 @@
 | 11. | Liofilizálás | VI/2 | 9 |
 
 4. melléklet az 53/2011. (VI. 10.) VM rendelethez
-
-Az egy tételre vonatkozó minimális minta nagysága
