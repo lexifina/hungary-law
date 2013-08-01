@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-7-20-82
 | 2012-02-11 | 2001-7-20-82.32 | 10/2009. (II. 25.) FVM rendelet |
 | 2013-01-01 | 2001-7-20-82.33 | 10/2009. (II. 25.) FVM rendelet |
 | 2013-07-01 | 2001-7-20-82.34 | 51/2013. (VI. 17.) VM rendelet |
+| 2013-08-01 | 2001-7-20-82.35 | 70/2013. (VII. 31.) VM rendelet |

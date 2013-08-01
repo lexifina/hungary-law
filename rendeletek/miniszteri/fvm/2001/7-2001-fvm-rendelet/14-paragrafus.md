@@ -1,12 +1,12 @@
-14. §[^58] (1) Egy károsító gazdasági veszélyességének mértékét károsító veszélyesség elemzéssel kell meghatározni. Az elemzés biológiai vagy más tudományos és gazdasági bizonyítékok értékelésének folyamata a károsító szabályozhatóságának, valamint a növényegészségügyi intézkedések mértékének meghatározására.
+14. §[^61] (1) Egy károsító gazdasági veszélyességének mértékét károsító veszélyesség elemzéssel kell meghatározni. Az elemzés biológiai vagy más tudományos és gazdasági bizonyítékok értékelésének folyamata a károsító szabályozhatóságának, valamint a növényegészségügyi intézkedések mértékének meghatározására.
 
 (2) A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók észlelése esetén a minisztérium növényegészségügyi intézkedéseket rendelhet el, amennyiben azt a károsító gazdasági veszélyessége indokolja.
 
-(3)[^59] A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók észlelése esetén a növény- és talajvédelmi igazgatóság korlátozást rendel el, és haladéktalanul értesíti a minisztériumot és az MgSzH-t.
+(3)[^62] A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók észlelése esetén a növény- és talajvédelmi igazgatóság korlátozást rendel el, és haladéktalanul értesíti a minisztériumot és a NÉBIH-et.
 
-(4)[^60] A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók megjelenéséről, illetve annak gyanújáról, a tervezett vagy megtett növényegészségügyi intézkedésekről a minisztérium haladéktalanul írásban értesíti a Bizottságot és a többi tagállamot, valamint a vonatkozó nemzetközi szerződésekben foglaltaknak megfelelően a meghatározott szervezeteket és intézményeket. Az intézkedések a Bizottság döntéséig foganatosíthatók.
+(4)[^63] A Magyarországon nem honos, az 1–2. számú mellékletben fel nem sorolt károsítók megjelenéséről, illetve annak gyanújáról, a tervezett vagy megtett növényegészségügyi intézkedésekről a minisztérium haladéktalanul írásban értesíti a Bizottságot és a többi tagállamot, valamint a vonatkozó nemzetközi szerződésekben foglaltaknak megfelelően a meghatározott szervezeteket és intézményeket. Az intézkedések a Bizottság döntéséig foganatosíthatók.
 
-(5)[^61] A Magyarországon nem honos, az 1. számú melléklet A. részének I. szakaszában és a 2. számú melléklet A. részének I. szakaszában felsorolt károsítók előfordulásáról, valamint az 1. számú melléklet A. részének II. szakaszában vagy B. részében, továbbá a 2. számú melléklet A. részének II. szakaszában vagy B. részében felsorolt károsítók Magyarország területének olyan részén történő megjelenéséről, ahol azok korábban nem voltak jelen – a 7. számú mellékletben előírtakon túlmenően –, a minisztérium értesíti a Bizottságot és a tagállamokat, valamint a vonatkozó nemzetközi szerződésekben foglaltaknak megfelelően a meghatározott szervezeteket és intézményeket.
+(5)[^64] A Magyarországon nem honos, az 1. számú melléklet A. részének I. szakaszában és a 2. számú melléklet A. részének I. szakaszában felsorolt károsítók előfordulásáról, valamint az 1. számú melléklet A. részének II. szakaszában vagy B. részében, továbbá a 2. számú melléklet A. részének II. szakaszában vagy B. részében felsorolt károsítók Magyarország területének olyan részén történő megjelenéséről, ahol azok korábban nem voltak jelen – a 7. számú mellékletben előírtakon túlmenően –, a minisztérium értesíti a Bizottságot és a tagállamokat, valamint a vonatkozó nemzetközi szerződésekben foglaltaknak megfelelően a meghatározott szervezeteket és intézményeket.
 
 (6) Az (5) bekezdésben meghatározott károsítóktól való mentesítésről, illetve azok terjedésének megakadályozására tett intézkedésekről a minisztérium tájékoztatja a Bizottságot és a többi tagállamot.
 
@@ -14,7 +14,7 @@
 
 (8) Az irányelv 15. cikk (1) bekezdése alapján engedélyezett eltérésekről a minisztérium értesíti a Bizottságot.
 
-[^58]: A 14. § a 37/2003. (IV. 4.) FVM rendelet 11. §-ával megállapított szöveg.
-[^59]: A 14. § (3) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (2) bekezdés b) pontja és (3) bekezdés b) pontja szerint módosított szöveg.
-[^60]: A 14. § (4) bekezdése a 37/2005. (IV. 27.) FVM rendelet 6. §-ával megállapított szöveg.
-[^61]: A 14. § (5) bekezdése a 65/2007. (VII. 23.) FVM rendelet 4. §-ával megállapított szöveg.
+[^61]: A 14. § a 37/2003. (IV. 4.) FVM rendelet 11. §-ával megállapított szöveg.
+[^62]: A 14. § (3) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^63]: A 14. § (4) bekezdése a 37/2005. (IV. 27.) FVM rendelet 6. §-ával megállapított szöveg.
+[^64]: A 14. § (5) bekezdése a 65/2007. (VII. 23.) FVM rendelet 4. §-ával megállapított szöveg.
