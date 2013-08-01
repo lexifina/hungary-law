@@ -286,6 +286,6 @@
 
 ## népzene: népi vonós (hegedű, brácsa, nagybőgő-cselló-ütőgordon), népi pengetős (citera-tambura-koboz-tekerő), népi fúvós (furulya-duda, klarinét-tárogató), népi cimbalom, népi ének.
 
-2. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^23]
+2. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^24]
 
-[^23]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított és a 229/2011. (X. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^24]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított és a 229/2011. (X. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

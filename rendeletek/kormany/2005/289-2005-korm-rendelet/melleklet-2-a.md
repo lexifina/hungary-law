@@ -640,6 +640,6 @@
 
 ## 4 A mesterszak képzési és kimeneti követelményeiről szóló miniszteri rendelet határozza meg azokat a további alapképzési szakokat, amelyre még az adott mesterszak a teljes alapképzési szak beszámításával épül.
 
-2/A. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^24]
+2/A. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^25]
 
-[^24]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 229/2011. (X. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^25]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 229/2011. (X. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.

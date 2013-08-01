@@ -6,6 +6,7 @@
 
 (4)[^4] A ciklusokra bontott, osztott képzések alapképzési szakjainak és a felsőoktatásról szóló 1993. évi LXXX. törvény (a továbbiakban: felsőoktatási törvény) felhatalmazása szerint szakindítási engedély alapján indított egyetemi és főiskolai szintű alapképzési szakoknak a megfeleltetését a 4. számú melléklet tartalmazza.
 
-(5) Az egyházi jogi személy által fenntartott felsőoktatási intézmények hitélettel és a hitélettel együtt oktatott hittudománnyal összefüggő alap- és mesterszakokat az egyházi jogi személy teszi közzé.
+(5)[^5] Az egyházi felsőoktatási intézmények hitélettel és a hitélettel együtt oktatott hittudománnyal összefüggő alap- és mesterszakokat az egyházi jogi személy teszi közzé.
 
 [^4]: A 2. § (4) bekezdése e rendelet 15. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^5]: A 2. § (5) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg.

@@ -14,7 +14,7 @@
 
 ## 5. az adott tanári szakképzettséghez kapcsolódó gyakorlati ismeretek sajátos követelményeit.
 
-10. § (1)[^6] Az alap- vagy mesterképzési szakok képzési és kimeneti követelményeit, a sikeres szakindítási eljárást követően, az oktatási és kulturális miniszter – az 5–6. §-ban foglaltakat figyelembe véve – rendeletben teszi közzé.
+10. § (1)[^7] Az alap- vagy mesterképzési szakok képzési és kimeneti követelményeit, a sikeres szakindítási eljárást követően, az oktatási és kulturális miniszter – az 5–6. §-ban foglaltakat figyelembe véve – rendeletben teszi közzé.
 
 (2) A szak képzési és kimeneti követelményeire
 
@@ -28,9 +28,9 @@ b) mesterképzésben a felsőoktatási intézmény vagy a felsőoktatási intéz
 
 a) a szak képzési és kimeneti követelményeit;
 
-b)[^7] a Magyar Felsőoktatási Akkreditációs Bizottság támogató véleményét;
+b)[^8] a Magyar Felsőoktatási Akkreditációs Bizottság támogató véleményét;
 
 c) a szaklétesítés társadalmi, munkaerőpiaci indoklását – figyelemmel a nemzetközi irányzatokra, a különböző végzettségi szintet nyújtó szakképzések, szakképzettségek szerkezetére, valamint a szakemberigény rövid távú előrejelzését.
 
-[^6]: A 10. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 26. § (1) bekezdésének a) pontja szerint módosított szöveg.
-[^7]: A 10. § (3) bekezdésének b) pontja a 372/2007. (XII. 23.) Korm. rendelet 26. § (1) bekezdésének b) pontja szerint módosított szöveg.
+[^7]: A 10. § (1) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 26. § (1) bekezdésének a) pontja szerint módosított szöveg.
+[^8]: A 10. § (3) bekezdésének b) pontja a 372/2007. (XII. 23.) Korm. rendelet 26. § (1) bekezdésének b) pontja szerint módosított szöveg.
