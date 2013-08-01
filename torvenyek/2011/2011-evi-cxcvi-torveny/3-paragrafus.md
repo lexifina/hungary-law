@@ -2,23 +2,7 @@
 
 1. átlátható szervezet:
 
-a) a
-
-aa) nemzetközi szervezet, az állam, külföldi állam, külföldi helyhatóság,
-
-ab) köztestület,
-
-ac) költségvetési szerv, önkormányzati intézmény,
-
-ad) külföldi állami vagy helyhatósági szerv,
-
-ae) lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyház, belső egyházi jogi személy,
-
-af) helyi önkormányzat, a nemzetiségi önkormányzat és azok társulása, valamint
-
-ag) gazdálkodó szervezet, amelyben az állam vagy az önkormányzat külön-külön vagy együtt 100%-os részesedéssel rendelkezik,
-
-ah) az Európai Gazdasági Térségről szóló megállapodásban részes állam szabályozott piacára bevezetett nyilvánosan működő részvénytársaság;
+a) az állam, a költségvetési szerv, a köztestület, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, az egyházi jogi személy, az olyan gazdálkodó szervezet, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együtt 100%-os részesedéssel rendelkezik, a nemzetközi szervezet, a külföldi állam, a külföldi helyhatóság, a külföldi állami vagy helyhatósági szerv és az Európai Gazdasági Térségről szóló megállapodásban részes állam szabályozott piacára bevezetett nyilvánosan működő részvénytársaság,
 
 b) az olyan belföldi vagy külföldi jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely megfelel a következő feltételeknek:
 
@@ -106,7 +90,7 @@ bd) az állam, a helyi önkormányzat, a ba)–bb) alpontban meghatározott szem
 
 be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
 
-c) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyház, belső egyházi jogi személy és egyházi intézmény a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
+c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
 
 (2) Az (1) bekezdés 1. pont b) és c) alpontjában foglalt feltételeknek való megfelelésről a szerződő félnek cégszerűen aláírt módon nyilatkoznia kell. A valótlan tartalmú nyilatkozat alapján kötött szerződés semmis.
 
