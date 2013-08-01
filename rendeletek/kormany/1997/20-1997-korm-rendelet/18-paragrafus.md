@@ -1,6 +1,6 @@
 ## Vegyes rendelkezések
 
-18. §[^110] (1) A területi, települési nemzetiségi önkormányzat költségvetési támogatásra – az óvodai feladatokat kivéve – 2013. január 1-jétől 2013. augusztus 31-ig terjedő időszakra az egyes oktatási tárgyú kormányrendeletek módosításáról szóló 73/2013. (III. 8.) Korm. rendelet hatálybalépését követő nyolc napon belül a 13. § (1) bekezdés szerinti Igazgatósághoz benyújtott kérelme alapján válik jogosulttá.
+18. §[^108] (1) A területi, települési nemzetiségi önkormányzat költségvetési támogatásra – az óvodai feladatokat kivéve – 2013. január 1-jétől 2013. augusztus 31-ig terjedő időszakra az egyes oktatási tárgyú kormányrendeletek módosításáról szóló 73/2013. (III. 8.) Korm. rendelet hatálybalépését követő nyolc napon belül a 13. § (1) bekezdés szerinti Igazgatósághoz benyújtott kérelme alapján válik jogosulttá.
 
 (2) A területi, települési nemzetiségi önkormányzat a költségvetési támogatás megállapításához csatolja
 
@@ -14,4 +14,4 @@ b) a Magyar Államkincstár honlapján közzétett 2013. februári igénylő ada
 
 (5) Az Igazgatóság a január–február hónapra a területi, települési nemzetiségi önkormányzati intézményfenntartót megillető költségvetési támogatást egy összegben biztosítja.
 
-[^110]: A 18. § a 73/2013. (III. 8.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^108]: A 18. § a 73/2013. (III. 8.) Korm. rendelet 10. §-ával megállapított szöveg.

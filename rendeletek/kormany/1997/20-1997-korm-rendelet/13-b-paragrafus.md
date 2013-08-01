@@ -1,6 +1,6 @@
-## 13/A. §[^44] Nem lehet a költségvetési támogatás igénylésénél figyelembe venni azt a nem tanköteles tanulót, akinek a tanulói jogviszonya félévkor megszűnt, vagy a tanulói jogviszony megszűnését – jogszabály alapján – meg kellett volna állapítani. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha a nem tanköteles tanuló a mulasztások miatt félévkor nem volt osztályozható, és az osztályozó vizsgán nem jelent meg, távolmaradását öt napon belül nem igazolta; ezáltal igazolatlanul tíz tanítási óránál többet mulasztott.
+## 13/A. §[^45] Nem lehet a költségvetési támogatás igénylésénél figyelembe venni azt a nem tanköteles tanulót, akinek a tanulói jogviszonya félévkor megszűnt, vagy a tanulói jogviszony megszűnését – jogszabály alapján – meg kellett volna állapítani. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha a nem tanköteles tanuló a mulasztások miatt félévkor nem volt osztályozható, és az osztályozó vizsgán nem jelent meg, távolmaradását öt napon belül nem igazolta; ezáltal igazolatlanul tíz tanítási óránál többet mulasztott.
 
-13/B. §[^45] (1) Az Igazgatóság a fenntartó szeptember 5-ig előterjesztett kérelme alapján előleget folyósít szeptember–november hónapokra, a fenntartó által újonnan átvett köznevelési intézményével vagy az átvett köznevelési feladat ellátásával összefüggésben, ha a fenntartónak
+13/B. §[^46] (1) Az Igazgatóság a fenntartó szeptember 5-ig előterjesztett kérelme alapján előleget folyósít szeptember–november hónapokra, a fenntartó által újonnan átvett köznevelési intézményével vagy az átvett köznevelési feladat ellátásával összefüggésben, ha a fenntartónak
 
 a) és az átvett köznevelési intézménynek nincs esedékes és meg nem fizetett köztartozása,
 
@@ -26,5 +26,5 @@ c) új fenntartó esetén a 13. § (9) bekezdés szerinti okiratokat.
 
 (5) Az Igazgatóság a megállapított előleget, annak utalványozását követő öt munkanapon belül folyósítja.
 
-[^44]: A 13/A. §-t a 70/2006. (III. 28.) Korm. rendelet 6. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet 10. §-ával megállapított, a 73/2013. (III. 8.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^45]: A 13/B. §-t a 73/2013. (III. 8.) Korm. rendelet 2. §-a iktatta be.
+[^45]: A 13/A. §-t a 70/2006. (III. 28.) Korm. rendelet 6. §-a iktatta be, szövege a 213/2011. (X. 14.) Korm. rendelet 10. §-ával megállapított, a 73/2013. (III. 8.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^46]: A 13/B. §-t a 73/2013. (III. 8.) Korm. rendelet 2. §-a iktatta be.
