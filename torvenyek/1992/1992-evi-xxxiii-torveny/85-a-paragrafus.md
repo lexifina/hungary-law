@@ -1,23 +1,35 @@
 85/A. § Eltérő rendelkezés hiányában, ahol jogszabály
 
-a) munkaviszonyra vonatkozó szabályt említ, azon közalkalmazotti jogviszonyra vonatkozó szabályt;
+a) munkaviszonyra vonatkozó szabályt említ, azon közalkalmazotti jogviszonyra vonatkozó szabályt,
 
-b) munkaviszonyt említ, azon közalkalmazotti jogviszonyt;
+b) munkaviszonyt említ, azon közalkalmazotti jogviszonyt,
 
-c) munkavállalót említ, azon közalkalmazottat;
+c) munkavállalót említ, azon közalkalmazottat,
 
-d) munkaszerződést említ, azon kinevezést;
+d) munkaszerződést említ, azon kinevezést,
 
-e) rendes felmondást említ, azon felmentést;
+e) munkáltatói felmondást említ, azon felmentést,
 
-f) munkavégzés alóli felmentést említ, azon munkavégzés alóli mentesítést;
+f) az Mt. 78. §-a szerinti
 
-g) üzemi tanácsot, illetve üzemi megbízottat említ, azon közalkalmazotti tanácsot, illetve közalkalmazotti képviselőt;
+fa) munkáltatói azonnali hatályú felmondást említ, azon rendkívüli felmentést,
 
-h) munkabért említ, azon illetményt, illetménypótlékot, illetménykiegészítést, egyhavi különjuttatást, keresetkiegészítést és jutalmat;
+fb) munkavállalói azonnali hatályú felmondást említ, azon rendkívüli lemondást,
 
-i) alapbért említ, azon illetményt;
+g) az Mt. 79. § (1) bekezdés a) pontja szerinti azonnali hatályú felmondást említ, azon a 21/A. § (3) bekezdése szerinti azonnali hatályú megszüntetést,
 
-j) bérpótlékot említ, azon illetménypótlékot
+h) az Mt. 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmentést említ, azon a 27. § (2) bekezdése szerinti azonnali hatályú megszüntetést,
+
+i) munkavállalói felmondást említ, azon lemondást,
+
+j) munkavégzés alóli felmentést említ, azon munkavégzés alóli mentesítést,
+
+k) üzemi tanácsot, illetve üzemi megbízottat említ, azon közalkalmazotti tanácsot, illetve közalkalmazotti képviselőt,
+
+l) munkabért említ, azon illetményt, illetménypótlékot, illetménykiegészítést, keresetkiegészítést és jutalmat,
+
+m) alapbért említ, azon illetményt,
+
+n) bérpótlékot említ, azon illetménypótlékot
 
 is érteni kell.

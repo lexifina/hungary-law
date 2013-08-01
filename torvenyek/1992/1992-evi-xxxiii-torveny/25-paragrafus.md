@@ -50,7 +50,7 @@ fd) a (3) bekezdés szerint, valamint
 
 g) rendkívüli felmentéssel
 
-ga) az Mt. 78. §-a szerinti esetben, vagy
+ga)
 
 gb)
 

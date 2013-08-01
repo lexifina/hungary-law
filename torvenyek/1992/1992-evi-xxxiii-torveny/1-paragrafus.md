@@ -12,7 +12,7 @@
 
 (4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
-(5) A 20/A. § (4) bekezdés a) pontja, a 26. § (4) bekezdése, a 30/A. §, a 30/D. §, a 30/E. §, a 44/A. §, az 53. § (1) bekezdés, az 53/A–53/B. § – az ott meghatározottak szerint – kiterjed a munkáltató fenntartójára is.
+(5) A 20/A. § (4) bekezdés a) pontja, a 26. § (4) bekezdése, a 30/A. §, a 30/D. §, a 30/E. §, a 44/A. § – az ott meghatározottak szerint – kiterjed a munkáltató fenntartójára is.
 
 (6) E törvény alkalmazásában fenntartó a munkáltató alapító szerve vagy az a szerv, amelyre e jogot átruházták, illetve a jogszabály által kijelölt szerv vagy személy. A munkáltató fenntartójának kell tekinteni az önkormányzati társulást és azt az önkormányzatot is, amely megállapodás alapján gyakorolja a fenntartói jogokat.
 

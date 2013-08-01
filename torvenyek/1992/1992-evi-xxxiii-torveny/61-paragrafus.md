@@ -60,9 +60,11 @@ ja) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez köt�
 
 jb) a Magyar Tudományos Akadémia hazai rendes és levelező tagsága, az akadémiai doktori cím.
 
-(2) Az (1) bekezdésben említett iskolai végzettséget, illetve szakképesítést, szakképzettséget a közoktatási, a szakképzési és felsőoktatási törvényekben használt fogalmakkal azonosan kell értelmezni.
+(2) Az (1) bekezdésben említett iskolai végzettséget, illetve szakképesítést, szakképzettséget a köznevelési, a szakképzési és a felsőoktatási törvényekben használt fogalmakkal azonosan kell értelmezni. Ennek során a részszakképesítés és a szakképesítés-elágazás is szakképesítésnek, a szakképesítés-ráépülés pedig szakképesítésre épülő szakképesítésnek tekintendő.
 
 (3) Az Országos Képzési Jegyzék szerinti emelt szintű szakképesítést az (1) bekezdés, valamint a 66. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
+
+(3a) Azon szakképesítés esetében, ahol a szakképesítés szakmai és vizsgakövetelménye a szakképzésben való részvétel feltételeként az iskolai végzettség megléte helyett a bemeneti kompetenciák meglétét is elfogadja, a szakképesítéssel rendelkező személyt a besorolás szempontjából minden esetben úgy kell tekinteni, mintha rendelkezne az előírt iskolai végzettséggel is.
 
 (4) Végrehajtási rendelet rendelkezhet az (1) és (3) bekezdésben foglaltak alól indokolt esetben lehetséges felmentésről. A felmentéssel egyidejűleg elő kell írni a szükséges iskolai végzettség, illetve szakképesítés, szakképzettség legfeljebb öt éven belüli megszerzését. Nem számítható be az ötéves határidőbe mindazon időtartam, amelyet a gyakornoki időnél figyelmen kívül kell hagyni. A felmentés időtartamának eredménytelen eltelte esetén a közalkalmazotti jogviszony a törvény erejénél fogva megszűnik.
 

@@ -54,7 +54,7 @@ b) a szociális, valamint a gyermekjóléti és gyermekvédelmi intézményekné
 
 ba) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 
-bb)
+bb) az egyes munkakörök betöltéséhez szükséges iskolai végzettség, szakképesítés, illetve szakképzettség megszerzése alóli felmentés szabályait,
 
 bc) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
@@ -150,7 +150,7 @@ a) a közalkalmazotti jogviszony létesítésének feltételeként magyar állam
 
 b) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
 
-c) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+c) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 
 d) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat
 
@@ -206,11 +206,11 @@ o) a honvédelemért felelős miniszter, valamint a polgári nemzetbiztonsági s
 
 p) az elektronikus hírközlésért, valamint a környezetvédelemért, a vízügyért, a természetvédelemért felelős miniszter, hogy a formaruha-juttatást,
 
-q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 
 r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
 
-s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
+s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
 
 t)
 
@@ -228,7 +228,7 @@ a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi
 
 aa) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
 
-ab) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+ab) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 
 ac) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat;
 
@@ -238,7 +238,7 @@ b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődé
 
 a) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
-b) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+b) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 
 c) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat.
 

@@ -30,7 +30,13 @@ c) felső képzettségi szint a „E”, „F”, „G”, „H”, „I” és 
 
 (8) A (7) bekezdéstől eltérően, a közalkalmazotti jogviszony létesítésekor a garantált illetménynél magasabb összegű illetmény megállapítható, azzal, hogy – az egy évet meg nem haladó időtartamú határozott idejű közalkalmazotti jogviszony kivételével – egy év elteltével a közalkalmazottat minősíteni kell. Ha ekkor a közalkalmazott alkalmatlan vagy kevéssé alkalmas minősítést kapott, illetményét – e törvény erejénél fogva a besorolása szerinti – garantált mértékre kell csökkenteni.
 
-(9)
+(9) A közalkalmazottat garantált illetményként legalább
+
+a) a kötelező legkisebb munkabérnek,
+
+b) középfokú vagy magasabb iskolai végzettséget, illetve középfokú vagy magasabb szakképzettséget igénylő munkakör betöltése esetén a garantált bérminimumnak
+
+megfelelő összeg illeti meg.
 
 (10) A garantált illetmény összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
 

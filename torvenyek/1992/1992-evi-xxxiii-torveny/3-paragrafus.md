@@ -1,4 +1,8 @@
-3. § (1) A közalkalmazotti jogviszony tekintetében az Mt. Általános rendelkezései (Első Rész) közül a 13. § nem alkalmazható, a 10. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása közérdekű adatnak minősül, azt bárki megismerheti.
+3. § (1) A közalkalmazotti jogviszony tekintetében az Mt. Általános rendelkezései (Első Rész) közül
+
+a) a 12. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaerő-piaci viszonyokat nem kell figyelembe venni, valamint a 13. § nem alkalmazható,
+
+b) a 10. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása – a nemzetbiztonsági szolgálatok által foglalkoztatott közalkalmazottakat kivéve – közérdekű adatnak minősül, azt bárki megismerheti.
 
 (2) Az Mt. 198–207. §, 213. §-a és 228. §-a a közalkalmazotti jogviszony tekintetében nem alkalmazható. Az Mt. 208–211. §-a csak a 22/B. § szerinti magasabb vezetőre alkalmazható.
 

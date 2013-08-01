@@ -1,4 +1,4 @@
-30. § (1) A munkáltató a közalkalmazotti jogviszonyt – a 30/A–30/B. §-ban foglalt korlátozással – felmentéssel akkor szüntetheti meg, ha
+30. § (1) A munkáltató a közalkalmazotti jogviszonyt – a 30/A–30/D. §-ban és a 32. §-ban foglalt korlátozással – felmentéssel akkor szüntetheti meg, ha
 
 a) megszűnt a munkáltatónak az a tevékenysége, amelyben a közalkalmazottat foglalkoztatták;
 
@@ -6,11 +6,7 @@ b) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szer
 
 c) a közalkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná vált vagy munkáját nem végzi megfelelően;
 
-d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül (Mt. 294. § (1) bekezdés g) pont);
-
-e)
-
-f)
+d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül [Mt. 294. § (1) bekezdés g) pont].
 
 (2) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie, és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
