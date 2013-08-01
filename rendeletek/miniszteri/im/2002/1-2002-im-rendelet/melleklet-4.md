@@ -1,4 +1,4 @@
-4. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^133]
+4. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^138]
 
 ## A meghatározott cselekmény végrehajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
 
@@ -538,4 +538,4 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^133]: A 4. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^138]: A 4. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
