@@ -408,7 +408,7 @@
 
 2. számú melléklet a 27/1994. (V. 31.) FM rendelethez
 
-Névjegyzék a meghagyásra javasolt hadkötelesekről[^9]
+Névjegyzék a meghagyásra javasolt hadkötelesekről[^12]
 
 A szervezet pontos címe, telefonszáma:
 
@@ -430,4 +430,4 @@ Lakcím
 
 A hadkiegészítő parancsnokság meghagyásra vonatkozó megjegyzése
 
-[^9]: Lásd 1994. MK 58. szám 1990. oldal.
+[^12]: Lásd 1994. MK 58. szám 1990. oldal.
