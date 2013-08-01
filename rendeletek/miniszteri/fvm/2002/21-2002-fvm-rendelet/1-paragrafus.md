@@ -2,4 +2,6 @@
 
 (2) Az EBL elleni mentesítés minden szarvasmarhaállományban kötelező.
 
-(3) A mentesítést a területileg illetékes megyei (fővárosi) állategészségügyi és élelmiszer-ellenőrző állomás (a továbbiakban: állomás) irányítja és felügyeli.
+(3)[^1] A mentesítést az illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) irányítja és felügyeli.
+
+[^1]: Az 1. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 15. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-5. § (1) A tájékozódó vizsgálatok alapján az üzem ellátó állatorvosa köteles az állományra mentesítési tervet kidolgozni, amelynek elkészüléséért az üzem tulajdonosa felelős. A mentesítési tervet az állomás hagyja jóvá. A mentesítési tervnek tartalmaznia kell:
+5. § (1)[^4] A tájékozódó vizsgálatok alapján az üzem ellátó állatorvosa köteles az állományra mentesítési tervet kidolgozni, amelynek elkészüléséért az üzem tulajdonosa felelős. A mentesítési tervet az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagyja jóvá. A mentesítési tervnek tartalmaznia kell:
 
 a) mentesítendő állomány szerkezetének pontos meghatározását;
 
@@ -22,10 +22,12 @@ eb) a szeropozitív tehenek megszületett borjainak vizsgálatát (a colostralis
 
 ec) a rendszeres rágcsáló- és rovarirtás módját.
 
-(2)[^3] A mentesítési tervben előírtak betartását a járási főállatorvos felügyeli. A mentesítéshez vagy a mentesség fenntartásához előírt vér-, illetve tejminták vételének időpontját a járási főállatorvosnak előzetesen be kell jelenteni. A minták vételét állami állategészségügyi feladatokkal megbízott állatorvos végzi.
+(2)[^5] A mentesítési tervben előírtak betartását a járási főállatorvos felügyeli. A mentesítéshez vagy a mentesség fenntartásához előírt vér-, illetve tejminták vételének időpontját a járási főállatorvosnak előzetesen be kell jelenteni. A minták vételét állami állategészségügyi feladatokkal megbízott állatorvos végzi.
 
-(3) A mentesítéssel kapcsolatos diagnosztikai vizsgálatokat az Állategészségügyi Intézetek (a továbbiakban: Intézet) végzik. A vizsgálatok időpontját az Intézetekkel előzetesen egyeztetni kell.
+(3)[^6] A mentesítéssel kapcsolatos diagnosztikai vizsgálatokat a Nemzeti Élelmiszerlánc-biztonsági Hivatal végzik. A vizsgálatok időpontját a Nemzeti Élelmiszerlánc-biztonsági Hivatallal előzetesen egyeztetni kell.
 
 (4) A hatósági mintavételek és a diagnosztikai vizsgálatok díjkötelesek, melyekről külön jogszabály rendelkezik.
 
-[^3]: Az 5. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 8. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 15. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 8. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 15. § c)–d) pontja szerint módosított szöveg.

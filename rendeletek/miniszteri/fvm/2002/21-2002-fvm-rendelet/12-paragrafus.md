@@ -1,4 +1,4 @@
-## 11. § A mentesítés helyzetéről az állomás félévente köteles jelentést küldeni a Földművelésügyi és Vidékfejlesztési Minisztériumnak.
+## 11. §[^8] A mentesítés helyzetéről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság félévente köteles jelentést küldeni a Vidékfejlesztési Minisztériumnak.
 
 ## Záró rendelkezések
 
@@ -12,7 +12,7 @@ b) a Tanács 77/391/EGK irányelve a szarvasmarha brucellózis, tuberculosis és
 
 c) a Tanács 98/46/EGK irányelve a szarvasmarhafélék és a sertések Közösségen belüli kereskedelmét érintő állategészségügyi kérdésekről szóló 64/432/EGK irányelv A, B (I. fejezete) és F mellékletének módosításáról.
 
-Melléklet a 21/2002. (III. 20.) FVM rendelethez[^5]
+Melléklet a 21/2002. (III. 20.) FVM rendelethez[^9]
 
 .............................
 
@@ -22,7 +22,7 @@ Cím: .....................
 
 EBL mentesség igazolása
 
-Igazolom, hogy a 21/2002. (III. 20.) FVM rendeletben előírt módon a(z) .................... Állategészségügyi Intézetben 200... év ............ hó ........ napján vett vérmintákból elvégzett hivatalos vizsgálatok alapján a
+Igazolom, hogy a 21/2002. (III. 20.) FVM rendeletben előírt módon a Nemzeti Élelmiszerlánc-biztonsági Hivatalban 20..... év ............ hó ........ napján vett vérmintákból elvégzett hivatalos vizsgálatok alapján a
 
 név: ................... cím: .................. tulajdonát képező, .................... tartási helyen lévő szarvasmarha-állomány
 
@@ -38,4 +38,5 @@ Kelt: .........................
 
 kerületi főállatorvos
 
-[^5]: A melléklet a 151/2012. (XII. 29.) VM rendelet 8. § c) pontja szerint módosított szöveg.
+[^8]: A 11. § a 70/2013. (VII. 31.) VM rendelet 15. § b) és e) pontja szerint módosított szöveg.
+[^9]: A melléklet a 151/2012. (XII. 29.) VM rendelet 8. § c) pontja, a 70/2013. (VII. 31.) VM rendelet 15. § f) pontja szerint módosított szöveg.
