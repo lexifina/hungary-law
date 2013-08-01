@@ -6,7 +6,7 @@ a) az ügyész,
 
 b) a hatóság,
 
-c) a társadalmi és érdek-képviseleti szervezet,
+c) a civil és érdek-képviseleti szervezet,
 
 ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
 

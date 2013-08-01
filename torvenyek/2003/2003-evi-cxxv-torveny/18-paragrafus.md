@@ -1,6 +1,6 @@
 ## Képviselet
 
-18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jogi per, munkaügyi per során – a társadalmi és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el. A társadalmi és érdek-képviseleti szervezet a képviseleti jogosultságát az alapszabálya vagy alapító okirata és az ügyféltől kapott írásbeli meghatalmazás csatolásával igazolja.
+18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jogi per, munkaügyi per során – a civil és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el. A civil és érdek-képviseleti szervezet a képviseleti jogosultságát az alapszabálya vagy alapító okirata és az ügyféltől kapott írásbeli meghatalmazás csatolásával igazolja.
 
 (2) Az egyenlő bánásmód követelményének megsértése miatt indult hatósági eljárásban az (1) bekezdés szerinti szervezetet megilletik az ügyfél jogai.
 

@@ -10,7 +10,7 @@ d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre,
 
 e) rendszeresen tájékoztatja a közvéleményt és az Országgyűlést az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
 
-f) feladatainak ellátása során együttműködik a társadalmi és érdek-képviseleti szervezetekkel, valamint az érintett állami szervekkel;
+f) feladatainak ellátása során együttműködik a civil és érdek-képviseleti szervezetekkel, valamint az érintett állami szervekkel;
 
 g) az érintettek számára folyamatos tájékoztatást ad és segítséget nyújt az egyenlő bánásmód megsértése elleni fellépéshez;
 

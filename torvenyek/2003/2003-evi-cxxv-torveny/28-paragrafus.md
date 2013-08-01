@@ -8,4 +8,4 @@ b) felsőoktatási intézményben a hallgatók önkéntes részvétele alapján
 
 olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemzetiségi oktatást szerveznek, amelynek célja vagy tanrendje indokolja elkülönült osztályok vagy csoportok alakítását; feltéve, hogy emiatt az oktatásban résztvevőket semmilyen hátrány nem éri, továbbá ha az oktatás megfelel az állam által jóváhagyott, államilag előírt, illetve államilag támogatott követelményeknek.
 
-(3) A 27. § (2) bekezdésének a) pontjától a nyelvi vagy kulturális önazonosság megőrzését szolgáló, illetve egyházi vagy nemzetiségi oktatási intézmény tekintetében jogszabály eltérően rendelkezhet.
+(3) A nyelvi vagy kulturális önazonosság megőrzése céljából egyházi jogi személy, vallási tevékenységet végző szervezet vagy nemzetiségi önkormányzat által fenntartott köznevelési intézmény, egyházi jogi személy, vallási tevékenységet végző szervezet vagy országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében jogszabály a 27. § (2) bekezdés a) pontjától eltérő rendelkezést állapíthat meg.

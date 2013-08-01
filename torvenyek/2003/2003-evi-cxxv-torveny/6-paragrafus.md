@@ -4,9 +4,9 @@ a) a családjogi jogviszonyokra,
 
 b) a hozzátartozók közötti jogviszonyokra,
 
-c) az egyházi jogi személyeknek az egyházak hitéleti tevékenységével közvetlenül összefüggő jogviszonyaira, valamint
+c) a vallási közösség hitéleti tevékenységével közvetlenül összefüggő jogviszonyára, valamint
 
-d) e törvény 4. §-ának alkalmazása során – jogszabály eltérő rendelkezése hiányában – a társadalmi szervezetek, a jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek tagjai közötti, a tagsággal összefüggő jogviszonyokra.
+d) e törvény 4. §-ának alkalmazása során – jogszabály eltérő rendelkezése hiányában – az egyesületek, a jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek tagjai közötti, a tagsággal összefüggő jogviszonyokra.
 
 (2) Az (1) bekezdés d) pontja
 
