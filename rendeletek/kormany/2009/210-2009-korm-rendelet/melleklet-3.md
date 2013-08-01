@@ -100,15 +100,15 @@
 
 ## A kizárólag üzletben forgalmazható termékek
 
-1.[^41]
+1.[^42]
 
-2.[^42] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
+2.[^43] a kémiai biztonságról szóló törvény szerinti veszélyes anyagok és keverékek, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag;
 
 3. az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló kormányrendelet hatálya alá tartozó termékek;
 
 4. állatgyógyászati készítmények és hatóanyagaik;
 
-5.[^43] fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti 1., 2. és 3. pirotechnikai osztályba tartozó termékek, az ott meghatározott kivételekkel;
+5.[^44] fegyver, lőszer, robbanó- és robbantószer, gázspray, pirotechnikai termék, a polgári célú pirotechnikai tevékenységekről szóló kormányrendelet szerinti 1., 2. és 3. pirotechnikai osztályba tartozó termékek, az ott meghatározott kivételekkel;
 
 6. növényvédő szerek és hatóanyagaik;
 
@@ -116,6 +116,6 @@
 
 8. „A” és „B” tűzveszélyességi osztályba sorolt anyag, kivéve a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz és az üzemanyag.
 
-[^41]: A 3. melléklet 1. pontját a 8/2013. (I. 18.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
-[^42]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^43]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.
+[^42]: A 3. melléklet 1. pontját a 8/2013. (I. 18.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
+[^43]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^44]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.
