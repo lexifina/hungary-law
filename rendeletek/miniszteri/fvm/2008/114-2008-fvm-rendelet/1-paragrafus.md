@@ -12,7 +12,7 @@ c) mezőgazdasági üzem: adott mezőgazdasági termelő által vezetett, és ug
 
 d)[^3] termelői szervezet: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet szerinti társaság;
 
-e) termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján működő, a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium), illetve 2005. november 1-jét megelőzően a földművelésügyi és vidékfejlesztési miniszter által termelői csoportként elismert szövetkezet vagy korlátolt felelősségű társaság;
+e)[^4] termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján működő, a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium), illetve 2005. november 1-jét megelőzően a vidékfejlesztési miniszter által termelői csoportként elismert szövetkezet vagy korlátolt felelősségű társaság;
 
 f) köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvényben (a továbbiakban: Art.) meghatározott fogalom;
 
@@ -47,3 +47,4 @@ t) támogatás intenzitás: a támogatástartalom és a támogatás szempontjáb
 [^1]: Az 1. § a) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 39. §-a szerint módosított szöveg.
 [^3]: Az 1. § d) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § e) pontja a 70/2013. (VII. 31.) VM rendelet 98. § a) és b) pontja szerint módosított szöveg.
