@@ -810,7 +810,7 @@
 
 | 2.2. | Használatbavételi engedélyezési eljárás | 8 500 |
 
-| 3. | Erdészeti, vadászati, halászati, talajvédelmi hatósági eljárások [a Mezőgazdasági Szakigazgatási Hivatal létrehozásáról és működéséről szóló 274/2006. (XII. 23.) Korm. rendelet] |  |
+| 3. | Erdészeti, vadászati, halászati, talajvédelmi hatósági eljárások [a fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet] |  |
 
 | 3.1. | Talajvédelmi hatósági eljárás | 14 000 |
 
