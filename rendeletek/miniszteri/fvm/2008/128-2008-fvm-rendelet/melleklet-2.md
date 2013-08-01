@@ -4,7 +4,7 @@
 
 ## csekély összegű (de minimis) támogatása igényléséhez
 
-## A kérelem benyújtásának helye: az MgSzH ültetvény fekvése szerint illetékes területi szerve
+## A kérelem benyújtásának helye: az ültetvény fekvése szerint illetékes földművelésügyi igazgatóság
 
 ## 1. A mezőgazdasági termelő adatai:
 
@@ -110,7 +110,7 @@
 
 ## kérelmező aláírása
 
-2. számú melléklet a 128/2008. (X. 1.) FVM rendelethez
+2. számú melléklet a 128/2008. (X. 1.) FVM rendelethez[^17]
 
 Adatállomány-összesítő
 
@@ -132,4 +132,6 @@ Adatállomány-összesítő
 
 .....................................
 
-MgSzH elnöke
+földművelésügyi igazgatóság igazgatója
+
+[^17]: A 2. számú melléklet a 70/2013. (VII. 31.) VM rendelet 100. § e) pontja szerint módosított szöveg. [E módosító rendelet 100. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH-hoz” szövegrész helyébe a „a földművelésügyi igazgatósághoz” szöveg lép, nem vezethető át.]
