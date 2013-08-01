@@ -30,8 +30,8 @@ m) bortermelés (TEÁOR 15.93)
 
 tevékenység végzéséhez
 
-n)[^3] halfeldolgozási tevékenység (TEÁOR 15.20.)
+n)[^5] halfeldolgozási tevékenység (TEÁOR 15.20.)
 
 kapcsolódhat, a tevékenységeken belül nem támogatható termékek e rendelet 1. számú mellékletében meghatározott kivételével.
 
-[^3]: A 6. § (2) bekezdésének n) pontját a 46/2004. (IV. 15.) FVM rendelet 2. §-a iktatta a szövegbe.
+[^5]: A 6. § (2) bekezdésének n) pontját a 46/2004. (IV. 15.) FVM rendelet 2. §-a iktatta a szövegbe.

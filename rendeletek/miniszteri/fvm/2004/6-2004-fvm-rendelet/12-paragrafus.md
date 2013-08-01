@@ -22,9 +22,9 @@ a) a hitel 11. § (1) bekezdés b) pontjában meghatározott célok szerinti fel
 
 b) a hitel 11. § (1) bekezdés d) pontjában meghatározott célok szerinti felhasználása esetén az igénybe vett kamattámogatást és kezességvállalási díjtámogatást az integrált termelők felé az elszámolások során érvényesíteni kell.
 
-(5)[^7] A (3) bekezdés b) pontjában meghatározott hitelek esetében a hitelfelvevő kérelmére a pénzügyi intézmény a türelmi időt, annak lejártakor további 1 évvel meghosszabbíthatja.
+(5)[^11] A (3) bekezdés b) pontjában meghatározott hitelek esetében a hitelfelvevő kérelmére a pénzügyi intézmény a türelmi időt, annak lejártakor további 1 évvel meghosszabbíthatja.
 
-(6)[^8] A (5) bekezdés szerinti meghosszabbítási lehetőség a (3) bekezdés a) pontjában meghatározott hitelek esetében is alkalmazhatóak a 2 éves időhatáron belül.
+(6)[^12] A (5) bekezdés szerinti meghosszabbítási lehetőség a (3) bekezdés a) pontjában meghatározott hitelek esetében is alkalmazhatóak a 2 éves időhatáron belül.
 
-[^7]: A 12. § (5) bekezdését a 13/2005. (III. 3.) FVM rendelet 2. §-a iktatta be, e módosító rendelet 3. §-a alapján a rendelkezést azon szerződések esetében is alkalmazni lehet, amelyekre a türelmi idő már lejárt. A türelmi idő meghosszabbítására vonatkozó kérelmet nem kell e rendelet 17. §-a szerint záradékoltatni.
-[^8]: A 12. § (6) bekezdését a 13/2005. (III. 3.) FVM rendelet 2. §-a iktatta be, e módosító rendelet 3. §-a alapján a rendelkezést azon szerződések esetében is alkalmazni lehet, amelyekre a türelmi idő már lejárt. A türelmi idő meghosszabbítására vonatkozó kérelmet nem kell e rendelet 17. §-a szerint záradékoltatni.
+[^11]: A 12. § (5) bekezdését a 13/2005. (III. 3.) FVM rendelet 2. §-a iktatta be, e módosító rendelet 3. §-a alapján a rendelkezést azon szerződések esetében is alkalmazni lehet, amelyekre a türelmi idő már lejárt. A türelmi idő meghosszabbítására vonatkozó kérelmet nem kell e rendelet 17. §-a szerint záradékoltatni.
+[^12]: A 12. § (6) bekezdését a 13/2005. (III. 3.) FVM rendelet 2. §-a iktatta be, e módosító rendelet 3. §-a alapján a rendelkezést azon szerződések esetében is alkalmazni lehet, amelyekre a türelmi idő már lejárt. A türelmi idő meghosszabbítására vonatkozó kérelmet nem kell e rendelet 17. §-a szerint záradékoltatni.

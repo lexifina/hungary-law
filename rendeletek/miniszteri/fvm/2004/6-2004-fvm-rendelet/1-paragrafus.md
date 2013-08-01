@@ -6,7 +6,7 @@
 
 a) mezőgazdasági termelő: a gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszeréről szóló 9003/2002. (SK. 6) KSH közlemény (a továbbiakban: TEÁOR) szerinti növénytermelési, állattenyésztési, vegyes-gazdálkodási, termék-előállítási (TEÁOR 01.1–01.3), növénytermelési, állattenyésztési szolgáltatási (TEÁOR 01.4), erdőgazdálkodási termék-előállítási, erdészeti szolgáltatási (TEÁOR 02), vadgazdálkodási (TEÁOR 01.50 kivéve a vadgazdálkodási szolgáltatást), illetve halgazdálkodási (TEAOR 05.0 kivéve halászati szolgáltatást) tevékenységet folytató belföldi illetőségű magánszemély, őstermelő, egyéni vállalkozó, valamint belföldi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság, amennyiben eleget tett az Európai Unió Közös Agrárpolitikája magyarországi végrehajtásában, illetve a nemzeti agrártámogatási rendszerben érintett ügyfelekkel összefüggő ügyfélregiszter létrehozásáról és az ezzel kapcsolatos nyilvántartásba vételről szóló 141/2003. (IX. 9.) Korm. rendelet (a továbbiakban: regisztrációs rendelet) szerinti regisztrációs kötelezettségének;
 
-b) integrátor: külön jogszabály alapján az illetékes megyei földművelésügyi hivatal nyilvántartásában szereplő igénylő;
+b)[^1] integrátor: külön jogszabály alapján az illetékes megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság) nyilvántartásában szereplő igénylő;
 
 c) termelői szerveződés: a zöldség-, gyümölcstermelői, -értékesítő szervezetekről szóló 25/1999. (III. 5.) FVM rendelet alapján létrehozott, előzetesen elismert vagy elismert termelői értékesítő szervezet (a továbbiakban: TÉSZ), a szövetkezetekről szóló 1992. évi I. törvény alapján és az új szövetkezetekről szóló 2000. évi CXLI. törvény előírásainak megfelelően alakított vagy átalakult, egyes termékek beszerzését, értékesítését, szolgáltatást nyújtó szövetkezés és egyéb gazdálkodó szervezet (a továbbiakban: BÉSZ), a termelői csoportokról szóló 85/2002. (IX. 18.) FVM rendelet alapján létrehozott termelői csoport (a továbbiakban: termelői csoport);
 
@@ -29,3 +29,5 @@ k) telephely: külterületen lévő, a mezőgazdasági termelést (növényterme
 l) Európa hitel: olyan éven túli lejáratú hitel, amelyhez az e rendeletben meghatározott kezességvállaló intézmények, illetőleg a Magyar Fejlesztési Bank Rt. által nyújtott készfizető kezességvállalás kapcsolódhat;
 
 m) refinanszírozott hitel: a Magyar Fejlesztési Bank Rt.-től a kereskedelmi bankok saját forrásának biztosítására igénybe vett hitel.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 31. § a) pontja szerint módosított szöveg.

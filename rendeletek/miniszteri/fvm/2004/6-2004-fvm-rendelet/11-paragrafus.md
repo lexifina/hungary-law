@@ -14,7 +14,7 @@ c) öntözésfejlesztést szolgáló beruházások,
 
 d) az a)–c) pontok szerinti beruházásokhoz kapcsolódó, a tevékenység folytatásához szükséges, tárgyi eszköznek nem minősülő anyag- és eszközvásárlás
 
-d)[^6] halfeldolgozási tevékenységhez (TEÁOR 15.20) kapcsolódó beruházások.
+d)[^10] halfeldolgozási tevékenységhez (TEÁOR 15.20) kapcsolódó beruházások.
 
 ## céljára igényelhető.
 
@@ -24,4 +24,4 @@ a) a mezőgazdasági termelők – a magánszemélyek és az őstermelők kivét
 
 b) az integrátorok és a termelői szerveződések az (1) bekezdés b) és – amennyiben erre a célra hitelben részesülnek – a d) pontban megjelölt célokra is
 
-[^6]: A 11. § (1) bekezdésének új d) pontját a 46/2004. (IV. 15.) FVM rendelet 4. §-a iktatta be.
+[^10]: A 11. § (1) bekezdésének új d) pontját a 46/2004. (IV. 15.) FVM rendelet 4. §-a iktatta be.

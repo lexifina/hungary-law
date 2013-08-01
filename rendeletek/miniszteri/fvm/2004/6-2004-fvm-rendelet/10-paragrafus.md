@@ -6,10 +6,13 @@ b) vállalja, hogy a vállalkozását legalább a felvett hitel futamidejének i
 
 c) pénzintézeti igazolással vagy egyéb módon bizonyítja, hogy beruházási célú hiteligénylés esetén rendelkezik a fejlesztés megvalósításához szükséges, az áfát nem tartalmazó költségek legalább 25 százalékának megfelelő mértékű saját forrással,
 
-d) beruházási célú felhasználás esetén a beruházás üzembe helyezését követően, de legkésőbb 60 napon belül a területileg illetékes földművelésügyi hivatal – a 4. § f) pont szerinti beruházások esetén a Földművelésügyi és Vidékfejlesztési Minisztérium – felé beszámol a hitelszerződésben vállalt beruházás megvalósításáról.
+d)[^8] beruházási célú felhasználás esetén a beruházás üzembe helyezését követően, de legkésőbb 60 napon belül a területileg illetékes földművelésügyi igazgatóság – a 4. § f) pont szerinti beruházások esetén a Vidékfejlesztési Minisztérium – felé beszámol a hitelszerződésben vállalt beruházás megvalósításáról.
 
-e) a 4. § (1) bekezdés e) és f) pontok esetében a területileg illetékes állategészségügyi és élelmiszerellenőrző állomás nyilatkozatával igazolja, hogy a tervezett beruházás megvalósítását követően az adott létesítmény megfelel a vonatkozó állatjóléti, illetve élelmiszerhigiéniai előírásoknak,
+e)[^9] a 4. § (1) bekezdés e) és f) pontok esetében az illetékes megyei kormányhivatalok élelmiszerlánc-biztonsági és állategészségügyi igazgatósága nyilatkozatával igazolja, hogy a tervezett beruházás megvalósítását követően az adott létesítmény megfelel a vonatkozó állatjóléti, illetve élelmiszerhigiéniai előírásoknak,
 
 f) beruházási célú felhasználásnál – a pénzügyi intézmény erre vonatkozó kérése esetén – hozzájárul ahhoz, hogy a hitel teljes visszafizetéséig biztosíték (jelzálog) terhelje meg a megvalósult fejlesztést.
 
 (2) Az (1) bekezdés szerinti igazolásokat, illetve nyilatkozatokat a hitelkérelemhez csatolni kell.
+
+[^8]: A 10. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 31. § c) és d) pontja szerint módosított szöveg.
+[^9]: A 10. § (1) bekezdés e) pontja a 70/2013. (VII. 31.) VM rendelet 31. § e) pontja szerint módosított szöveg.
