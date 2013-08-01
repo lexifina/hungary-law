@@ -2,9 +2,9 @@
 
 57. § (1) A vakcinázási övezetben a § (2)–(5) bekezdések és az 58. § szerinti intézkedéseket kell alkalmazni a sürgősségi vakcinázás megkezdésétől az annak befejezését követő legalább 30 napig tartó időszak során.
 
-(2)[^37] A fogékony élő állatok forgalma a vakcinázási övezeten belül található gazdaságok között és a vakcinázási övezetből kifelé tilos. Az ilyen élő állatoknak és az ezen állatok származási és rendeltetési állományának klinikai vizsgálatát követően a járási főállatorvos engedélyezheti, hogy az állatokat azonnali vágás céljából közvetlenül az állomás által kijelölt, a vakcinázási övezeten belül vagy kivételes esetben annak közelében található vágóhídra szállítsák.
+(2)[^56] A fogékony élő állatok forgalma a vakcinázási övezeten belül található gazdaságok között és a vakcinázási övezetből kifelé tilos. Az ilyen élő állatoknak és az ezen állatok származási és rendeltetési állományának klinikai vizsgálatát követően a járási főállatorvos engedélyezheti, hogy az állatokat azonnali vágás céljából közvetlenül az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt, a vakcinázási övezeten belül vagy kivételes esetben annak közelében található vágóhídra szállítsák.
 
-(3) Az (1) bekezdés szerint meghatározott időszak során levágott vakcinázott állatokból származó nyers húst meg kell jelölni, a jelöletlen hústól elkülönítve kell szállítani és tárolni, majd zárt konténerekben az állomás által kijelölt üzembe kell szállítani a 9. melléklet A. része szerinti kezelés céljából.
+(3)[^57] Az (1) bekezdés szerint meghatározott időszak során levágott vakcinázott állatokból származó nyers húst meg kell jelölni, a jelöletlen hústól elkülönítve kell szállítani és tárolni, majd zárt konténerekben az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt üzembe kell szállítani a 9. melléklet A. része szerinti kezelés céljából.
 
 (4) A vakcinázott állatoktól származó tej és tejtermékek forgalomba hozhatók a vakcinázási övezeten belül és kívül is, feltéve hogy azokon a 7. melléklet A., illetve B. része szerinti említett kezelések legalább egyikét elvégezték. A kezelést attól függően kell megválasztani, hogy a tejet, illetve a tejtermékeket emberi fogyasztásra szánják-e vagy sem. A kezelést az (5) bekezdés szerinti feltételek mellett, a vakcinázási övezetben, vagy, – ha ilyen üzem az övezetben nincs – a vakcinázási övezeten kívül található üzemben kell elvégezni, ahová a nyers tej az 59. § (1) bekezdés szerinti feltételekkel szállítható.
 
@@ -18,4 +18,5 @@ c) a termelési folyamat során a tejet mindvégig azonosítani kell, elkülön�
 
 d) a nyers tejet a vakcinázási övezeten kívüli gazdaságból üzembe csak olyan járművel lehet szállítani, amelyet a szállítást megelőzően kitisztítottak, fertőtlenítettek, és amely a szállítást követően nem érintett a korlátozás alatt álló övezetben lévő olyan gazdasággal, amelyben fogékony állatokat tartanak.
 
-[^37]: A 57. § (2) bekezdés a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
+[^56]: A 57. § (2) bekezdés a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja, a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.
+[^57]: Az 57. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.

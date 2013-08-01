@@ -12,7 +12,7 @@ c) az állatok 41. § (2) bekezdés szerinti védőkörzeten kívüli vágóhíd
 
 d) az állatok 27. § (2) bekezdés a) és b) pontja szerinti szállítására.
 
-(3)[^32] A járási főállatorvos csak akkor engedélyezheti az állatok mozgását, ha
+(3)[^47] A járási főállatorvos csak akkor engedélyezheti az állatok mozgását, ha
 
 a) a hatósági állatorvos a gazdaságban található valamennyi fogékony állatot negatív eredménnyel megvizsgálta, valamint a 4. melléklet 2.2. pontja szerint vett minták laboratóriumi vizsgálata is kedvező eredménnyel zárult, és
 
@@ -20,4 +20,4 @@ b) a gazdaság járványügyi helyzete nem veti fel a vírussal való fertőzés
 
 (4) Haladéktalanul fel kell kutatni azokat a fogékony állatokat, amelyeket a védőkörzetben lévő gazdaságban fellépett legkorábbi fertőzés becsült időpontját megelőző legalább 21 napos időtartam során szállítottak ki a védőkörzetből, és az állatok felkutatásának eredményéről a minisztérium tájékoztatja a tagállamok társhatóságait.
 
-[^32]: A 42. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
+[^47]: A 42. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.

@@ -6,4 +6,6 @@
 
 (3) A laboratóriumi vizsgálatokat a 2. mellékletben meghatározott feltételeknek megfelelő és a bizottság által jóváhagyott diagnosztikai módszerek alkalmazásával kell elvégezni.
 
-(4) A vizsgálatoknak a ragadós száj- és körömfájás vírusának nem strukturális proteinjeivel szemben termelődő ellenanyagok kimutatásán, vagy valamely más, elfogadott módszeren kell alapulniuk, a mintavételezés során pedig vagy a 4. melléklet 2.2. pontjában foglaltak szerint kell eljárni, vagy mintát kell venni a vakcinázási övezetben lévő összes állomány minden vakcinázott, fogékony egyedéből és azok nem vakcinázott utódaiból. Ha az állomás ezen felül fogékony jelzőállatok használatát is elrendeli, akkor figyelembe kell venni a fertőzött gazdaságok újratelepítésének az 5. mellékletben foglalt feltételeit.
+(4)[^62] A vizsgálatoknak a ragadós száj- és körömfájás vírusának nem strukturális proteinjeivel szemben termelődő ellenanyagok kimutatásán, vagy valamely más, elfogadott módszeren kell alapulniuk, a mintavételezés során pedig vagy a 4. melléklet 2.2. pontjában foglaltak szerint kell eljárni, vagy mintát kell venni a vakcinázási övezetben lévő összes állomány minden vakcinázott, fogékony egyedéből és azok nem vakcinázott utódaiból. Ha az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság ezen felül fogékony jelzőállatok használatát is elrendeli, akkor figyelembe kell venni a fertőzött gazdaságok újratelepítésének az 5. mellékletben foglalt feltételeit.
+
+[^62]: A 62. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.

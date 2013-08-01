@@ -12,7 +12,7 @@ A készenléti terveknek legalább az alábbi követelményeknek kell megfelelni
 
 4. A minisztériumnak készen kell állnia arra, hogy járványkitörés esetén azonnal fel tudjon állítani egy működőképes nemzeti járványvédelmi központot, amely összehangolja a központi döntéshozatali egység által hozott valamennyi döntés végrehajtását. Ki kell jelölni azon személyt, aki koordinációs munkájával biztosítja, hogy a központ haladéktalanul feláll.
 
-5. Részletes terveknek kell rendelkezésre állniuk, amelyek révén járványhelyzetben az illetékes állomás képes a helyi járványvédelmi központ azonnali felállítására.
+5.[^83] Részletes terveknek kell rendelkezésre állniuk, amelyek révén járványhelyzetben az illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság képes a helyi járványvédelmi központ azonnali felállítására.
 
 6. Meg kell határozni az együttműködés formáit a nemzeti járványvédelmi központ, a helyi járványvédelmi központok és az illetékes környezetvédelmi, közegészségügyi és egyéb érintett hatóságok és szervek között az állategészségügyi és egyéb kérdéseket érintő intézkedések megfelelő összehangolása érdekében.
 
@@ -45,3 +45,5 @@ A készenléti terveknek legalább az alábbi követelményeknek kell megfelelni
 14. A készenléti terveknek tartalmazniuk kell az állati tetemek és hulladékok járványkitörés esetén történő kezelésére és ártalmatlanítására alkalmas helyeket, illetve az ezzel foglalkozó engedélyezett vállalatok listáját.
 
 15. A készenléti terveknek rögzíteniük kell az állattartók, a mezőgazdasággal foglalkozók, illetve a teljes hazai lakosság tájékoztatására vonatkozó iránymutatást, a médiával való kapcsolattartás formáit, illetve a nyilatkozattételi jogosultságokat.
+
+[^83]: A 15. számú melléklet 5. pontja a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.

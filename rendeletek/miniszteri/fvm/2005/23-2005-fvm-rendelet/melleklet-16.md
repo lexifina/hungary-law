@@ -24,7 +24,7 @@ ca) valamennyi gazdaságban a fogékony állatok fajok és korcsoportok szerinti
 
 cb) a gazdaságban lévő, valamennyi fogékony állatnak zárt vagy más olyan helyen való tartását, ahol a vadon élő állatokkal való érintkezésük megakadályozható. A vadon élő állatok nem férhetnek hozzá olyan anyagokhoz (takarmány, alom, eszközök stb), amelyekkel a gazdaságban lévő fogékony állatok később érintkezhetnek;
 
-cc) hogy a gazdaságba nem léphet be vagy azt nem hagyhatja el fogékony állat, kivéve, ha ezt a járványügyi helyzetre tekintettel az állomás engedélyezi;
+cc)[^84] hogy a gazdaságba nem léphet be vagy azt nem hagyhatja el fogékony állat, kivéve, ha ezt a járványügyi helyzetre tekintettel az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezi;
 
 cd) a fogékony állatok istállójának, valamint magának a gazdaságnak a be- és kijáratánál megfelelő fertőtlenítést kell alkalmazni;
 
@@ -49,3 +49,5 @@ A vadon élő állatok ragadós száj- és körömfájás járványának felszá
 1. A minisztérium – az A. részben meghatározott intézkedések sérelme nélkül – a ragadós száj- és körömfájás vadon élő állatokban való elsődleges előfordulásának megállapítását követő 90 napon belül tervezetet nyújt be a bizottságnak a betegségnek a fertőzöttnek nyilvánított területen történő felszámolására vonatkozóan, valamint tájékoztatja a bizottságot a területen található gazdaságokban már bevezetett intézkedésekről.
 
 2. Amennyiben az 1. pont szerinti tervet a bizottság jóváhagyta, az abban foglalt intézkedések attól az időponttól felváltják az A. rész szerinti bevezető intézkedéseket.
+
+[^84]: A 16. számú melléklet A. rész 1. pont cc) alpontja a 70/2013. (VII. 31.) VM rendelet 48. § c) pontja szerint módosított szöveg.

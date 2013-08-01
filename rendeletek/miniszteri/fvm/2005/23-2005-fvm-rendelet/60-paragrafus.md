@@ -4,7 +4,7 @@
 
 (2) A fogékony élő állatok forgalma a vakcinázási övezeten belüli gazdaságok között tilos. Fogékony élő állat a vakcinázási övezetet nem hagyhatja el.
 
-(3)[^38] Azon gazdaságokból, amelyek fertőzéstől való mentességét a 62. § (3) és (4) bekezdései szerint hatóságilag kizárták, a járási főállatorvos engedélyezheti, hogy a fogékony állatokat azonnali vágás céljából közvetlenül a vakcinázási övezeten belül vagy kívül található vágóhídra szállítsák úgy, hogy
+(3)[^60] Azon gazdaságokból, amelyek fertőzéstől való mentességét a 62. § (3) és (4) bekezdései szerint hatóságilag kizárták, a járási főállatorvos engedélyezheti, hogy a fogékony állatokat azonnali vágás céljából közvetlenül a vakcinázási övezeten belül vagy kívül található vágóhídra szállítsák úgy, hogy
 
 a) a szállítás során és a vágóhídon az állatok nem érintkezhetnek más, fogékony állatokkal;
 
@@ -26,4 +26,4 @@ d) a teljes termelési folyamat során valamennyi nyers húst egyértelműen azo
 
 (5) A hatósági állatorvos igazolja, hogy a Közösségen belüli kereskedelemre szánt nyers, darált és előkészített hús megfelel a (4) bekezdés szerinti feltételeknek. A minisztérium felügyeli a feltételek teljesítésének helyi állategészségügyi hatóság által végzett ellenőrzését és – Közösségen belüli kereskedelem esetében – eljuttatja a többi tagállamnak és a bizottságnak azon létesítmények jegyzékét, amelyeknek az igazolt termékek kiszállítását engedélyezte.
 
-[^38]: A 60. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
+[^60]: A 60. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.

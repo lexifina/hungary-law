@@ -1,6 +1,6 @@
 ## Vágóhidak, határállomások és szállítóeszközök
 
-19. § (1)[^17] Ha a ragadós száj- és körömfájás előfordulását vágóhídon, állategészségügyi határállomáson vagy szállítóeszközön állapítják meg, a járási főállatorvos elrendeli
+19. § (1)[^24] Ha a ragadós száj- és körömfájás előfordulását vágóhídon, állategészségügyi határállomáson vagy szállítóeszközön állapítják meg, a járási főállatorvos elrendeli
 
 a) valamennyi fogékony állat haladéktalan leölését;
 
@@ -18,4 +18,4 @@ f) a járványügyi nyomozást.
 
 (3) Ha a járványhelyzet megköveteli, az (1) bekezdésben említett létesítmények vagy szállítóeszközök szomszédságában található gazdaságokban a 12. és 23. § szerinti intézkedéseket kell alkalmazni.
 
-[^17]: A 19. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
+[^24]: A 19. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja szerint módosított szöveg.
