@@ -12,16 +12,16 @@
 
 a) harmadik országból tilos,
 
-b)[^15] másik tagállamból csak az MgSzH engedélyével lehet.
+b)[^15] másik tagállamból csak a NÉBIH engedélyével lehet.
 
-(6)[^16] Az MgSzH a behozatali engedélyt az 1774/2002/EK rendelet 8. cikkében foglaltak alapján adja meg, ha az SRM vagy az abból gyártott termék behozatala az országban termelődő SRM gyors és hatékony ártalmatlanítását nem veszélyezteti.
+(6)[^16] A NÉBIH a behozatali engedélyt az 1774/2002/EK rendelet 8. cikkében foglaltak alapján adja meg, ha az SRM vagy az abból gyártott termék behozatala az országban termelődő SRM gyors és hatékony ártalmatlanítását nem veszélyezteti.
 
-(7)[^17] Az SRM-nek az ország területén való átszállítását (tranzit) az MgSzH kérelemre, a célország előzetes befogadó nyilatkozata és szakmai szempontok alapján engedélyezi.
+(7)[^17] Az SRM-nek az ország területén való átszállítását (tranzit) a NÉBIH kérelemre, a célország előzetes befogadó nyilatkozata és szakmai szempontok alapján engedélyezi.
 
 (8) Az SRM-ből gyártott terméknek az égetésig történő raktározása, valamint az SRM közvetlen égetésének, illetve feldolgozás utáni égetésének, együttégetésének költségét az állam viseli. A költségek csökkentése érdekében törekedni kell ezen anyagok égetése, együttégetése során azok energiaforrásként történő hasznosítására.
 
 [^13]: A 7. § (4) bekezdése a 142/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.
 [^14]: A 7. § (5) bekezdés nyitó szövegrésze a 142/2011. (XII. 23.) VM rendelet 5. §-a szerint módosított szöveg.
-[^15]: A 7. § (5) bekezdés b) pontja a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^16]: A 7. § (6) bekezdése a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^17]: A 7. § (7) bekezdése a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 7. § (5) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
+[^16]: A 7. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § b) pontja szerint módosított szöveg.
+[^17]: A 7. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.

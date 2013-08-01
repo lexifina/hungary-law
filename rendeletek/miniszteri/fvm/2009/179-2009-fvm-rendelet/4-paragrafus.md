@@ -2,19 +2,19 @@
 
 ## A monitoring rendszer
 
-4. § (1)[^1] Az országos főállatorvos a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) útján irányítja és szervezi a monitoring program országos végrehajtását.
+4. § (1)[^1] Az országos főállatorvos a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) útján irányítja és szervezi a monitoring program országos végrehajtását.
 
 (2) Az ellenőrzési (monitoring) program keretében végzett vizsgálatokkal kapcsolatos költségeket – a mintavétel, a laboratóriumi vizsgálatokhoz szükséges diagnosztikum és a laboratóriumi vizsgálat költségeit – az állam viseli, kivéve a vágóhídon vett mintáknak a vizsgálatot végző állategészségügyi diagnosztikai laboratóriumba való eljuttatásának költségeit, melyek a vágóhidat terhelik.
 
-(3)[^2] Az MgSzH a 999/2001/EK rendelet 6. cikkének (1) bekezdése és III. számú melléklete alapján a rendes vágással levágott szarvasmarhák esetén a 2009/719/EK bizottsági határozat figyelembevételével az állatokban előforduló TSE fertőzések felderítésére monitoring rendszert működtet. Az ennek végrehajtásához szükséges részletes szabályokat az 1. számú melléklet tartalmazza.
+(3)[^2] A NÉBIH a 999/2001/EK rendelet 6. cikkének (1) bekezdése és III. számú melléklete alapján a rendes vágással levágott szarvasmarhák esetén a 2009/719/EK bizottsági határozat figyelembevételével az állatokban előforduló TSE fertőzések felderítésére monitoring rendszert működtet. Az ennek végrehajtásához szükséges részletes szabályokat az 1. számú melléklet tartalmazza.
 
-(4)[^3] Az Mgszh megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) számára
+(4)[^3] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) számára
 
 a) a monitoring program végrehajtásához szükséges szakmai iránymutatást ad,
 
 b) a 999/2001/EK rendelet III. melléklet A. fejezetének II. pontja alapján évenként meghatározza a juhok és kecskék vizsgálatára vonatkozó megyénkénti mintaszámokat.
 
-(5)[^4] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság e rendeletben foglaltak, illetve az MgSzH útmutatása alapján, illetékességi területén:
+(5)[^4] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság e rendeletben foglaltak, illetve a NÉBIH útmutatása alapján, illetékességi területén:
 
 a) gondoskodik a monitoring program végrehajtásáról,
 
@@ -46,15 +46,15 @@ a) ellenőrzi a monitoring program végrehajtását,
 
 b) a monitoring program keretében részt vesz az állattartó telepeken történő mintavételben és a minta laboratóriumba való küldésében.
 
-(9)[^7] Ha a jogosult állatorvos, vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által megbízott magánállatorvos idegrendszeri tüneteket vagy viselkedészavart az elhullása előtt nem mutató, vizsgálatra kötelezett korú szarvasmarha, juh vagy kecske elhullásáról értesül, köteles – a járási főállatorvos egyidejű értesítése mellett – az elhullott állatból mintát venni, és azt a laboratóriumba beküldeni. A mintavételhez szükséges eszközöket és felszerelést az MgSzH területi szerve biztosítja, továbbá megtéríti – a laboratórium által vizsgálatra alkalmasnak talált és visszaigazolt minták után – az MgSzH által meghatározott mintavételi díjat.
+(9)[^7] Ha a jogosult állatorvos, vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által megbízott magánállatorvos idegrendszeri tüneteket vagy viselkedészavart az elhullása előtt nem mutató, vizsgálatra kötelezett korú szarvasmarha, juh vagy kecske elhullásáról értesül, köteles – a járási főállatorvos egyidejű értesítése mellett – az elhullott állatból mintát venni, és azt a laboratóriumba beküldeni. A mintavételhez szükséges eszközöket és felszerelést az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság biztosítja, továbbá megtéríti – a laboratórium által vizsgálatra alkalmasnak talált és visszaigazolt minták után – a NÉBIH által meghatározott mintavételi díjat.
 
 (10)[^8] A monitoring minta vételére nem jogosult magánállatorvos az idegrendszeri tüneteket, viselkedészavart nem mutató, vizsgálatra kötelezett korú szarvasmarha, juh vagy kecske elhullását köteles jelenteni a hatósági állatorvosnak, aki – a járási főállatorvos értesítése mellett – gondoskodik a mintavételről és a minta laboratóriumba juttatásáról.
 
-[^1]: A 4. § (1) bekezdése a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^2]: A 4. § (3) bekezdése a 142/2011. (XII. 23.) VM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 4. § (4) nyitó szövegrésze a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) és (2) bekezdés a) pontja szerint módosított szöveg.
-[^4]: A 4. § (5) bekezdése a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) és (2)bekezdés b) pontja szerint módosított szöveg.
+[^1]: A 4. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (3) bekezdése a 142/2011. (XII. 23.) VM rendelet 1. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 115. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (4) nyitó szövegrésze a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés a) pontja, a 70/2013. (VII. 31.) VM rendelet 115. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (5) bekezdés nyitó szövegrésze a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
 [^5]: A 4. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 40. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § (7) bekezdés d) pontja a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^7]: A 4. § (9) bekezdése a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja, a (2) bekezdés b) pontja, a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (9) bekezdése a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja, a 151/2012. (XII. 29.) VM rendelet 40. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 115. § e)–f) pontja szerint módosított szöveg.
 [^8]: A 4. § (10) bekezdése a 151/2012. (XII. 29.) VM rendelet 40. § (b) pontja szerint módosított szöveg.

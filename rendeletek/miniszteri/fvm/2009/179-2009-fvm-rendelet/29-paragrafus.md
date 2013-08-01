@@ -2,7 +2,7 @@
 
 29. § (1) A mintavételt és diagnosztikai vizsgálatokat a 999/2001/EK rendelet X. melléklet C. fejezete szerint kell végrehajtani.
 
-(2)[^74] Az MgSzH szakmai indokok alapján dönt az Európai Unió referencia-laboratóriumába történő minta küldéséről, melynek végrehajtásáról az NRL gondoskodik.
+(2)[^87] A NÉBIH szakmai indokok alapján dönt az Európai Unió referencia-laboratóriumába történő minta küldéséről, melynek végrehajtásáról az NRL gondoskodik.
 
 (3) A TSE-re gyanús állatok vizsgálatát és annak értékelését a 999/2001/EK rendelet X. melléklete C. fejezetének 3.1.a), illetve 3.2.a) pontja szerint kell végezni. Ha a TSE-re gyanús állatból vett minta kórszövettani, gyorsteszt vagy megerősítő vizsgálatra alkalmatlan, törekedni kell bakteriológiai és virológiai vizsgálattal az idegrendszeri tüneteket magyarázó alternatív diagnózis megállapítására.
 
@@ -16,4 +16,4 @@
 
 (8) A vizsgálatokat végző laboratóriumok a 999/2001/EK rendelet III. melléklete B. fejezete III. 2. pontjában meghatározott dokumentumokat, valamint a vizsgálati anyagból készített paraffin tömböket legalább hét évig kötelesek megőrizni.
 
-[^74]: A 29. § (2) bekezdése a 142/2011. (XII. 23.) VM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^87]: A 29. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § b) pontja szerint módosított szöveg.
