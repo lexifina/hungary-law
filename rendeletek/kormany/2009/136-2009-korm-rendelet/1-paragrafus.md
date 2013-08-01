@@ -1,6 +1,6 @@
-1. § (1)[^1] Az állami szociális rendszer keretében nyújtott szociális segélyként egyszeri, vissza nem térítendő támogatást állapíthat meg a regionális nyugdíj-biztosítási igazgatóság (a továbbiakban: Igazgatóság) a Magyarország területén bejelentett lakó- vagy tartózkodási hellyel rendelkező, nagykorú személynek, ha
+1. § (1)[^2] Az állami szociális rendszer keretében nyújtott szociális segélyként egyszeri, vissza nem térítendő támogatást állapíthat meg a regionális nyugdíj-biztosítási igazgatóság (a továbbiakban: Igazgatóság) a Magyarország területén bejelentett lakó- vagy tartózkodási hellyel rendelkező, nagykorú személynek, ha
 
-a)[^2] a családjában a kérelem benyújtását megelőző hónapban az egy főre jutó havi jövedelem a minimálbér nettó összegét (a 2010. február 1-jét megelőzően benyújtott kérelem esetén az 57 815 forintot, az ezt követően benyújtott kérelem esetén a 60 236 forintot) nem haladta meg,
+a)[^3] a családjában a kérelem benyújtását megelőző hónapban az egy főre jutó havi jövedelem a minimálbér nettó összegét (a 2010. február 1-jét megelőzően benyújtott kérelem esetén az 57 815 forintot, az ezt követően benyújtott kérelem esetén a 60 236 forintot) nem haladta meg,
 
 b) részére a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 6. §-a szerinti nyugellátást nem folyósítanak, és
 
@@ -16,11 +16,11 @@ c) lakáscélú kölcsönszerződéséből eredő fizetési kötelezettsége a t
 
 d) egészségi állapota indokolja.
 
-e)[^3] 2009. november 15-én a lakó- vagy tartózkodási helyeként a kérelmében megjelölt lakcímen (a továbbiakban: érintett ingatlan) a villamosenergia-ellátásból lakossági fogyasztóként – az egyetemes szolgáltató/ villamosenergia-kereskedő (a továbbiakban: egyetemes szolgáltató) 2008. szeptember 30-át követően hozott döntése eredményeként – ki van kapcsolva és az érintett ingatlanon a vezetékes gázszolgáltatás sem érhető el, vagy abból 2009. november 15-én lakossági fogyasztóként szintén ki van kapcsolva.
+e)[^4] 2009. november 15-én a lakó- vagy tartózkodási helyeként a kérelmében megjelölt lakcímen (a továbbiakban: érintett ingatlan) a villamosenergia-ellátásból lakossági fogyasztóként – az egyetemes szolgáltató/ villamosenergia-kereskedő (a továbbiakban: egyetemes szolgáltató) 2008. szeptember 30-át követően hozott döntése eredményeként – ki van kapcsolva és az érintett ingatlanon a vezetékes gázszolgáltatás sem érhető el, vagy abból 2009. november 15-én lakossági fogyasztóként szintén ki van kapcsolva.
 
 (3) Nem jogosult támogatásra az a személy,
 
-a)[^4] akinek a kérelem benyújtását megelőző 12 naptári hónap folyamán 15 ezer forintot meghaladó összegben átmeneti segélyt állapítottak meg,
+a)[^5] akinek a kérelem benyújtását megelőző 12 naptári hónap folyamán 15 ezer forintot meghaladó összegben átmeneti segélyt állapítottak meg,
 
 b) akinek esetében átmeneti segély megállapítása iránt eljárás van folyamatban, a kérelem elbírálásának időpontjáig, vagy
 
@@ -36,14 +36,14 @@ c) gyermek: az Szt. 4. § (1) bekezdés d) pont db)–dc) alpontjában meghatár
 
 d) jövedelem: az Szt. 4. § (1) bekezdés a) pontjában meghatározottak.
 
-(5)[^5] Nem jogosult az 1. § (2) bekezdésének e) pontja alapján támogatásra a kérelmező, ha
+(5)[^6] Nem jogosult az 1. § (2) bekezdésének e) pontja alapján támogatásra a kérelmező, ha
 
 a) az érintett ingatlan fűtése távhőszolgáltatás igénybevételével biztosított,
 
 b) a villamosenergia-ellátást vagy a vezetékes gázszolgáltatást a kérelem benyújtásának időpontjában az érintett ingatlanban már visszakapcsolták.
 
-[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 60/2012. (III. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés a) pontja a 9/2010. (I. 28.) Korm. rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdésének e) pontját a 251/2009. (XI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (3) bekezdés a) pontja a 9/2010. (I. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § (5) bekezdését a 251/2009. (XI. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 60/2012. (III. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés a) pontja a 9/2010. (I. 28.) Korm. rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdésének e) pontját a 251/2009. (XI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (3) bekezdés a) pontja a 9/2010. (I. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § (5) bekezdését a 251/2009. (XI. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.

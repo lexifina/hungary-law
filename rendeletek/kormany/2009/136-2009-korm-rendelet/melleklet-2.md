@@ -210,7 +210,7 @@
 
 ## – amennyiben a krízishelyzet okaként a vezetékes gáz- vagy áramszolgáltatás megszüntetése került megjelölésre, a szolgáltató igazolását a kikapcsolás tényéről és – áramszolgáltatás esetén – időpontjáról, valamint a 136/2009. (VI. 24.) Korm. rendelet 2. számú melléklete szerinti nyilatkozat.
 
-2. számú melléklet a 136/2009. (VI. 24.) Korm. rendelethez[^24]
+2. számú melléklet a 136/2009. (VI. 24.) Korm. rendelethez[^25]
 
 Nyilatkozat
 
@@ -226,4 +226,4 @@ Dátum: ..................... év ........................... hó ........... na
 
 a kérelmező aláírása
 
-[^24]: A 2. számú mellékletet beiktatta, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatta a 251/2009. (XI. 13.) Korm. rendelet 6. §-a.
+[^25]: A 2. számú mellékletet beiktatta, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatta a 251/2009. (XI. 13.) Korm. rendelet 6. §-a.
