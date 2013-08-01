@@ -14,8 +14,8 @@ f) a biztonsági vezető biztosítja és elősegíti, hogy a telephely biztonsá
 
 g) a biztonsági vezető minden év június 30-ig az ismételten kitöltött Cég-adatlapot eljuttatja az NBF részére.
 
-(2)[^3] A gazdálkodó szervezet biztonsági vezetője a változás beálltát követő 5 napon belül bejelenti az NBF-nek, amennyiben az iparbiztonsági ellenőrzés folyamán vagy a telephely biztonsági tanúsítvány hatályossága alatt a Cég-adatlap tartalmában vagy a személyi biztonsági tanúsítvánnyal rendelkező személyek körében változás áll be, a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás indul, vagy a Gazdasági Versenyhivatal jogerős elmarasztaló határozatot hoz.
+(2)[^4] A gazdálkodó szervezet biztonsági vezetője a változás beálltát követő 5 napon belül bejelenti az NBF-nek, amennyiben az iparbiztonsági ellenőrzés folyamán vagy a telephely biztonsági tanúsítvány hatályossága alatt a Cég-adatlap tartalmában vagy a személyi biztonsági tanúsítvánnyal rendelkező személyek körében változás áll be, a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás indul, vagy a Gazdasági Versenyhivatal jogerős elmarasztaló határozatot hoz.
 
 (3) Az NBF – ha a bejelentés, vagy egyéb módon a tudomására jutó információ indokolttá teszi – intézkedik a gazdálkodó szervezet újbóli cégellenőrzésének végrehajtására a nemzetbiztonsági szolgálat felé.
 
-[^3]: A 7. § (2) bekezdése a 45/2011. (III. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 7. § (2) bekezdése a 45/2011. (III. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
