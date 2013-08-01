@@ -2,7 +2,7 @@
 
 ## Azok az állati eredetű termékek, amelyeket az 1. számú mellékletben, továbbá az egyes élő állatok és termékek Európai Közösségen belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet 1. számú mellékletében nem soroltak fel.
 
-3. számú melléklet az 52/2004. (IV. 24.) FVM rendelethez[^21]
+3. számú melléklet az 52/2004. (IV. 24.) FVM rendelethez[^36]
 
 Állatorvosi igazolás mintája
 
@@ -26,4 +26,4 @@ Dátum: ...................................................................
 
 | járási főállatorvos |
 
-[^21]: A 3. számú melléklet a 151/2012. (XII. 29.) VM rendelet 21. § b) pontja szerint módosított szöveg.
+[^36]: A 3. számú melléklet a 151/2012. (XII. 29.) VM rendelet 21. § b) pontja szerint módosított szöveg.
