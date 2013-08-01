@@ -1,1 +1,1 @@
-1. § E törvényt a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) szerint nyilvántartásba vett egyházra, vallásfelekezetre és vallási közösségre (a továbbiakban együtt: egyház) kell alkalmazni.
+1. § E törvényt az egyházi jogi személyre kell alkalmazni.

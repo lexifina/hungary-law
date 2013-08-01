@@ -1,1 +1,1 @@
-10. § A Kormány jogosult az egyházat közcélú tevékenysége folytatásához szükséges ingatlan megszerzéséhez segíteni.
+10. § A Kormány jogosult a bevett egyházat közcélú tevékenysége folytatásához szükséges ingatlan megszerzéséhez segíteni.
