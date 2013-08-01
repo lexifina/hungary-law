@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-138-20-
 | 2013-05-12 | 2013-138-20-22.2 | 2010: CXXX. törvény |
 | 2013-07-01 | 2013-138-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-07-02 | 2013-138-20-22.4 | 2010: CXXX. törvény |
+| 2013-08-01 | 2013-138-20-22.5 | 2010: CXXX. törvény |

@@ -1,4 +1,4 @@
-## 5–6. §[^3]
+## 5–6. §[^4]
 
 ## 4. A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó
 
@@ -6,4 +6,4 @@
 
 ## valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosítása
 
-[^3]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
