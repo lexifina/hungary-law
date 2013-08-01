@@ -6,4 +6,6 @@
 
 (3) Fertőzött állományból sertés csak az állomány felszámolása keretében, elkülönített vágásra szállítható ki.
 
-(4) Vaddisznó csak negatív gB-ELISA egyedi vizsgálati eredmény birtokában szállítható. A szerológiai vizsgálatok során pozitívnak bizonyult egyedekkel, illetve azok származási állományaikkal kapcsolatos további eljárást az MgSzH területi szerve határozza meg az MgSzH Központtal való egyeztetést követően.
+(4)[^6] Vaddisznó csak negatív gB-ELISA egyedi vizsgálati eredmény birtokában szállítható. A szerológiai vizsgálatok során pozitívnak bizonyult egyedekkel, illetve azok származási állományaikkal kapcsolatos további eljárást az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság határozza meg a NÉBIH-hel való egyeztetést követően.
+
+[^6]: A 13. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 103. § b) és d) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 22. §[^8] Az állomány felszámolása után a helyi zárlat területét a járási főállatorvos utasítása szerint és hatósági állatorvos felügyelete mellett kell fertőtleníteni. A fertőtlenítést az állattartó saját költségen köteles elvégezni vagy elvégeztetni.
+## 22. §[^21] Az állomány felszámolása után a helyi zárlat területét a járási főállatorvos utasítása szerint és hatósági állatorvos felügyelete mellett kell fertőtleníteni. A fertőtlenítést az állattartó saját költségen köteles elvégezni vagy elvégeztetni.
 
 ## A zárlati intézkedések feloldása, a fertőzöttség megszűntté nyilvánítása
 
@@ -10,4 +10,4 @@ b) ha a zárlatot a 16. § c) pontjának cc) alpontjában foglaltak alapján ren
 
 (2) A helyi zárlatot fel kell oldani, ha a zárlat alatt álló helyen már nincs fogékony állat és a telepet a külön jogszabályban foglaltak szerint fertőtlenítették.
 
-[^8]: A 22. § a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.
+[^21]: A 22. § a 151/2012. (XII. 29.) VM rendelet 32. § b) pontja szerint módosított szöveg.
