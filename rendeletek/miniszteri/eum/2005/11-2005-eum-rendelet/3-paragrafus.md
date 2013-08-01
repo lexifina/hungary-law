@@ -1,1 +1,0 @@
-## 2. § Az 1. §-ban meghatározott szerveknél a fontos és bizalmas munkakörnek minősülő munkaköröket, továbbá a biztonsági ellenőrzés szintjét – az Nbtv. 68. §-a (4) bekezdésének e) pontján, valamint 2. számú mellékletének 1–17. pontjain túlmenően, a 2. számú mellékletének 18. pontjában foglaltak alapján – e rendelet melléklete tartalmazza.
