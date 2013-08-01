@@ -1,12 +1,12 @@
 ## 154. § A repóügyletre, értékpapír- vagy áru-kölcsönzési ügyletre, és egyéb tőkepiac vezérelt ügyletre vonatkozó szabványosított nettósítási megállapodásban szereplő ügyletek kitettség értéke – a sztenderd és a belső minősítésen alapuló módszer esetén is – a 152. és 153. § szerint kiszámított teljes mértékben korrigált kitettség érték (E*).
 
-155. § (1)[^29] A befektetési vállalkozás a pénzügyi biztosíték hitelkockázat-mérséklő hatásának számszerűsítése során a pénzügyi biztosítékok egyszerű módszerét vagy a pénzügyi biztosítékok átfogó módszerét alkalmazhatja azzal, hogy a két módszer – az (1a) bekezdésben meghatározott eltéréssel – egyidejűleg nem alkalmazható.
+155. § (1)[^30] A befektetési vállalkozás a pénzügyi biztosíték hitelkockázat-mérséklő hatásának számszerűsítése során a pénzügyi biztosítékok egyszerű módszerét vagy a pénzügyi biztosítékok átfogó módszerét alkalmazhatja azzal, hogy a két módszer – az (1a) bekezdésben meghatározott eltéréssel – egyidejűleg nem alkalmazható.
 
-(1a)[^30] A befektetési vállalkozás a belső minősítésen alapuló módszer 41. § (8) bekezdés szerinti fokozatos bevezetése, valamint a 43. § (1) bekezdés alkalmazása esetén kivételesen egyidejűleg alkalmazhatja a pénzügyi biztosítékok egyszerű módszerét és a pénzügyi biztosítékok átfogó módszerét, ha igazolni tudja, hogy a két módszer egyidejű alkalmazásának célja nem a tőkekövetelmény csökkentése.
+(1a)[^31] A befektetési vállalkozás a belső minősítésen alapuló módszer 41. § (8) bekezdés szerinti fokozatos bevezetése, valamint a 43. § (1) bekezdés alkalmazása esetén kivételesen egyidejűleg alkalmazhatja a pénzügyi biztosítékok egyszerű módszerét és a pénzügyi biztosítékok átfogó módszerét, ha igazolni tudja, hogy a két módszer egyidejű alkalmazásának célja nem a tőkekövetelmény csökkentése.
 
 (2) A hitelkockázat-mérséklés hatásának számítására a pénzügyi biztosítékok egyszerű módszere kizárólag akkor alkalmazható, ha a befektetési vállalkozás a kockázattal súlyozott kitettség értékét a sztenderd módszer szerint számítja ki.
 
 (3) A befektetési vállalkozás a pénzügyi biztosítékok egyszerű módszerét kizárólag a banki könyvbeli tételek (nem a kereskedési könyvi tételek) vonatkozásában alkalmazhatja.
 
-[^29]: A 155. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
-[^30]: A 155. § (1a) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 66. § (2) bekezdése iktatta be.
+[^30]: A 155. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^31]: A 155. § (1a) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 66. § (2) bekezdése iktatta be.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-301-20-
 | 2012-01-01 | 2008-301-20-22.4 | 348/2011. (XII. 30.) Korm. rendelet |
 | 2012-12-31 | 2008-301-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-06-22 | 2008-301-20-22.6 | 202/2013. (VI. 14.) Korm. rendelet |
+| 2013-08-01 | 2008-301-20-22.7 | 297/2013. (VII. 29.) Korm. rendelet |

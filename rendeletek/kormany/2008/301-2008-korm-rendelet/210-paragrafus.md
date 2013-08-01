@@ -10,13 +10,13 @@ c) a befektetési vállalkozás rendelkezik a szerződéses nettósítás jogi �
 
 d) a befektetési vállalkozás dokumentációja mindenre kiterjedő és naprakész,
 
-e)[^44] a partnerek összesített hitelkockázati kitettség értékének mérése során a nettósítás hatásait figyelembe veszik és a befektetési vállalkozás a partner hitelkockázatát ennek mentén kezeli, és
+e)[^45] a partnerek összesített hitelkockázati kitettség értékének mérése során a nettósítás hatásait figyelembe veszik és a befektetési vállalkozás a partner hitelkockázatát ennek mentén kezeli, és
 
-f)[^45] minden egyes ügyféllel szembeni hitelkockázatok összesítésre kerülnek az ügyletek közötti nettósítás révén egyetlen jogi kitettség keretében azzal, hogy a befektetési vállalkozás ezt az összeget veszi figyelembe az ügyfelek hitellimitjeinek kezelésénél és a belső tőkeszámításoknál.
+f)[^46] minden egyes ügyféllel szembeni hitelkockázatok összesítésre kerülnek az ügyletek közötti nettósítás révén egyetlen jogi kitettség keretében azzal, hogy a befektetési vállalkozás ezt az összeget veszi figyelembe az ügyfelek hitellimitjeinek kezelésénél és a belső tőkeszámításoknál.
 
 (2) A szerződéses nettósítás kockázatmérséklő hatása a tőkekövetelmény számítása során nem ismerhető el, ha a szerződésnek van olyan kikötése (walkaway clause), amely alapján az egyik fél nemteljesítése esetén a másik félnek lehetősége van korlátozott teljesítésre vagy nemteljesítésre, még akkor is, ha a nemteljesítő nettó hitelező.
 
-(3)[^46] Az (1) bekezdésben rögzített feltételeken kívül a termékcsoportok közötti szerződéses nettósítási megállapodásnak a kockázatmérséklő hatása elismerhetősége érdekében eleget kell tennie a következő feltételeknek is:
+(3)[^47] Az (1) bekezdésben rögzített feltételeken kívül a termékcsoportok közötti szerződéses nettósítási megállapodásnak a kockázatmérséklő hatása elismerhetősége érdekében eleget kell tennie a következő feltételeknek is:
 
 a) az (1) bekezdés a) pontja szerinti nettó összegnek a termékcsoportok közötti nettósítási megállapodás hatálya alá tartozó összes kétoldalú szerződéses nettósítási keretmegállapodás pozitív és negatív pozíció lezáró értékeinek, továbbá az egyes egyedi ügyletek pozitív és negatív piaci értéknek a nettó összegét kell tekinteni,
 
@@ -26,6 +26,6 @@ c) a befektetési vállalkozásnak olyan eljárással kell rendelkeznie az (1) b
 
 d) a kétoldalú termékcsoportok közötti szerződéses nettósítási megállapodás tekintetében a belső modell módszert alkalmazó befektetési vállalkozásnak meg kell felelnie a hitelkockázati fedezet elismerhetőségére vonatkozó feltételeknek, ideértve a szerződés hatálya alá tartozó minden egyes kétoldalú szerződéses keretmegállapodást és az egyedi ügyletet is.
 
-[^44]: A 210. § (1) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^45]: A 210. § (1) bekezdés f) pontja a 348/2011. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^46]: A 210. § (3) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^45]: A 210. § (1) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^46]: A 210. § (1) bekezdés f) pontja a 348/2011. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^47]: A 210. § (3) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.

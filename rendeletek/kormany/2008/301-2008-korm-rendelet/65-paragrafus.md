@@ -4,7 +4,7 @@ a) elismert hitelkockázati fedezettel nem ellátott, nem alárendelt kitettség
 
 b) elismert hitelkockázati fedezettel nem ellátott, alárendelt kitettség esetén: 75%,
 
-c)[^19] a 14. §-ban meghatározott fedezett kötvény esetén: 11,25%,
+c)[^20] a 14. §-ban meghatározott fedezett kötvény esetén: 11,25%,
 
 d) ha a befektetési vállalkozás nemteljesítési valószínűségre vonatkozó becslései nem tesznek eleget a 74–115. §-ban meghatározott követelményeknek, akkor nem alárendelt, vállalkozással szembeni vásárolt követelésben megtestesülő kitettség esetén: 45%,
 
@@ -20,4 +20,4 @@ f) vállalkozással szembeni vásárolt követelés felhígulási kockázatához
 
 (5) Az (1) és (4) bekezdéstől eltérően, az 50. § (3) bekezdése alkalmazásában a hitelkockázati fedezet nyújtójával szembeni, összehasonlításra alkalmas és közvetlen kitettség nemteljesítéskori veszteségrátája megegyezik a hitelkockázati fedezet nyújtójával vagy az ügyféllel szembeni fedezetlen ügylet nemteljesítéskori veszteségrátájával. Ha a fedezett ügylet lejárati ideje alatt a fedezet nyújtója és az ügyfél nemteljesítése egyidejűleg következik be, akkor a rendelkezésre álló információkból vagy a hitelkockázati fedezet jellegéből következően a behajtott összeg a hitelkockázati fedezet nyújtója vagy az ügyfél pénzügyi helyzetétől függ.
 
-[^19]: A 65. § (1) bekezdés c) pontja a 349/2010. (XII. 28.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^20]: A 65. § (1) bekezdés c) pontja a 349/2010. (XII. 28.) Korm. rendelet 61. §-ával megállapított szöveg.

@@ -18,8 +18,8 @@ b) a befektetési vállalkozás belső kockázati profilja és a külső adatok 
 
 (5) Függetlenül attól, hogy egy befektetési vállalkozás külső, belső, közös adatforrásokat vagy ennek a háromnak a kombinációját használja a veszteségjellemzők becsléseihez, az ezeket alátámasztó múltbeli megfigyelési időszak hosszának legalább egy forrás tekintetében legalább öt évnek kell lennie. Ha a megfigyelési időszak egy forrás tekintetében hosszabb időszakot tekint át, és ezek az adatok meghatározóak, akkor ezt a hosszabb időszakot kell alkalmazni. A befektetési vállalkozásnak nem kell a múltbeli adatokat figyelembe vennie, ha a frissebb adatok a veszteségi ráta jobb előrejelzői.
 
-(6)[^23]
+(6)[^24]
 
 (7) A befektetési vállalkozás azonosítja és elemzi a kockázati paraméterek várható változását a kitettség élettartama során.
 
-[^23]: A 93. § (6) bekezdését a 246. § (3) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. december 31-ig kérelmezett engedélyezési eljárás során a befektetési vállalkozás kérelmére alkalmazni lehet.
+[^24]: A 93. § (6) bekezdését a 246. § (3) bekezdése hatályon kívül helyezte azzal, hogy az abban foglaltakat a 2012. december 31-ig kérelmezett engedélyezési eljárás során a befektetési vállalkozás kérelmére alkalmazni lehet.

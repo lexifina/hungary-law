@@ -6,7 +6,7 @@ b) az a hitelintézet, befektetési vállalkozás, amelynél az óvadékot vagy 
 
 c) az óvadék feltétlen és visszavonhatatlan.
 
-(2)[^27] Nemteljesítés esetére fedezetet nyújtó életbiztosítási szerződés (kötvény) – amelyből eredő követelések jogosultja a hitelnyújtó befektetési vállalkozás – akkor ismerhető el egyéb, előre rendelkezésre bocsátott hitelkockázati fedezetként, ha
+(2)[^28] Nemteljesítés esetére fedezetet nyújtó életbiztosítási szerződés (kötvény) – amelyből eredő követelések jogosultja a hitelnyújtó befektetési vállalkozás – akkor ismerhető el egyéb, előre rendelkezésre bocsátott hitelkockázati fedezetként, ha
 
 a) az életbiztosítási szerződésből (kötvényből) eredő pénzköveteléseket a hitelnyújtó befektetési vállalkozásra engedményezték vagy azokra a hitelnyújtó befektetési vállalkozásnak zálogjoga van,
 
@@ -28,4 +28,4 @@ i) a visszavásárlási érték kifizetésére a befektetési vállalkozás bele
 
 j) az életbiztosító az Európai Unió valamely tagállamában tevékenységi engedélyt szerzett biztosító, vagy az Európai Unióban alkalmazott felügyeleti és szabályozási rendelkezésekkel legalább egyenértékű rendelkezéseket alkalmazó harmadik ország illetékes hatóságának felügyelete alá tartozik.
 
-[^27]: A 138. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^28]: A 138. § (2) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 64. §-ával megállapított szöveg.
