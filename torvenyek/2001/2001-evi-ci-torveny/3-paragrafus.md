@@ -12,7 +12,7 @@ b) a felnőttképzéshez kapcsolódó szolgáltatás.
 
 (3)
 
-(4) E törvény hatálya nem terjed ki a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11. §-a és 12. §-a szerint létrejött jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
+(4) E törvény hatálya nem terjed ki a egyházi jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
 
 (5) E törvény hatálya – a 21. § (2) bekezdésében, valamint a (7) és (8) bekezdésben és a 26. §-ban foglaltak kivételével – nem terjed ki:
 
