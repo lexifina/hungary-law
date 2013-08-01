@@ -78,9 +78,9 @@ j) egységes európai állatútlevél száma
 
 fontosabb egészségügyi bejegyzések (műtétek, allergia, idült betegségek stb.)
 
-6. 4–7. oldal:
+6.[^36] 4–7. oldal:
 
-veszettség elleni védőoltások és jogszabályban előírt parazita ellenes kezelések igazolása, elegendő helyet biztosítva az MgSzH által kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címke beragasztására
+veszettség elleni védőoltások és jogszabályban előírt parazita ellenes kezelések igazolása, elegendő helyet biztosítva az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címke beragasztására
 
 7. 8–13. oldal:
 
@@ -93,3 +93,5 @@ hatósági igazolások, bejegyzések
 9. utolsó oldal(ak), hátsó borító
 
 a kisállatok egészségvédelmével kapcsolatos iránymutatások és az oltási könyv használatával kapcsolatos tájékoztató
+
+[^36]: A Melléklet 6. pontja a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja szerint módosított szöveg.

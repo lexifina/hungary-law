@@ -2,8 +2,8 @@
 
 a) a miniszter – az országos főállatorvos javaslatára – elrendelheti a rókák fokozott vadászatát vagy más módon való gyérítését;
 
-b)[^21] a járási főállatorvos elrendelheti a vadászterületen kóborló, nem befogható ebek leölését.
+b)[^24] a járási főállatorvos elrendelheti a vadászterületen kóborló, nem befogható ebek leölését.
 
 (2) Az (1) bekezdésben előírt intézkedés végrehajtása a vadászatra jogosult kötelessége.
 
-[^21]: A 11. § (1) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^24]: A 11. § (1) bekezdés b) pontja a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.

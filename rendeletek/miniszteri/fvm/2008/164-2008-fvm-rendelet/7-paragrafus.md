@@ -14,8 +14,9 @@ c) a Kamara területi szervezete által javasolt településeken vagy települé
 
 (5) Az oltás céljából történő eb-összevezetés helyszínére a Kamara területi szervezete akkor tehet javaslatot, ha az adott településen vagy településrészen nincs engedélyezett állat-egészségügyi szolgáltató létesítmény, továbbá ha a településszerkezet és az immunizálandó ebek száma nem teszi lehetővé az állatok tartási helyén történő oltás elvégzését.
 
-(6) A Kamara területi szervezete az (5) bekezdés szerinti javaslatát az MgSzH területi szervével egyetértésben teszi meg, és javaslatáról értesíti tagjait, az érintett települések jegyzőit, valamint az MgSzH területi szervét.
+(6)[^18] A Kamara területi szervezete az (5) bekezdés szerinti javaslatát az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal egyetértésben teszi meg, és javaslatáról értesíti tagjait, az érintett települések jegyzőit, valamint az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot.
 
 [^15]: A 7. § a 42/2010. (IV. 22.) FVM rendelet 15. §-ával megállapított szöveg.
 [^16]: A 7. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^17]: A 7. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^18]: A 7. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 102. § b) és c) pontja szerint módosított szöveg.

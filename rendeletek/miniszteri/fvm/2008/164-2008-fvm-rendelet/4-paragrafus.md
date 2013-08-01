@@ -42,7 +42,7 @@ e) az általa beoltott, embert mart állat oltottságáról a megmart embert kez
 
 f)[^4]
 
-g)[^5] az MgSzH által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
+g)[^5] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
 
 h)[^6] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről, egyidejűleg azt új, a g) pontban leírt címkével érvényesíteni.
 
@@ -65,7 +65,7 @@ e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végreha
 [^2]: A 4. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^3]: A 4. § (5) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^4]: A 4. § (5) bekezdésének f) pontját a 23. § (2) bekezdése hatályon kívül helyezte.
-[^5]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja, a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
 [^7]: A 4. § (5a) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 37/2013. (V. 22.) VM rendelet 6. §-ával megállapított szöveg.
 [^8]: A 4. § (6) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.

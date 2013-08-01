@@ -18,12 +18,12 @@ b) egyéb háziállatok a hatósági állatorvos engedélyével, meghatározott 
 
 (8) Az állattartó figyelmét a megfigyelést elrendelő határozatban fel kell hívni arra, hogy a megfigyelés alá vont állaton észlelt minden rendellenességről vagy az állat megszökéséről, elhullásáról, illetve ha az állat embert mart a határozatban megnevezett, megfigyelést végző állatorvost azonnal értesíteni köteles. Ilyen esetben az állatorvos soron kívüli vizsgálatot köteles végezni.
 
-(9)[^27] A megfigyelést végző állatorvos az állat megfigyelésről az országos főállatorvos által kiadott formátumú jegyzőkönyvet köteles felvenni, és azt a járási főállatorvosnak a megfigyelés befejezését követő második munkanapig beérkezően átadni.
+(9)[^31] A megfigyelést végző állatorvos az állat megfigyelésről az országos főállatorvos által kiadott formátumú jegyzőkönyvet köteles felvenni, és azt a járási főállatorvosnak a megfigyelés befejezését követő második munkanapig beérkezően átadni.
 
-(10)[^28] A megfigyelést végző állatorvos a megfigyelési idő alatt az állaton észlelt, a veszettségre utaló tünetek jelentkezéséről haladéktalanul köteles a járási főállatorvosnak jelentést tenni.
+(10)[^32] A megfigyelést végző állatorvos a megfigyelési idő alatt az állaton észlelt, a veszettségre utaló tünetek jelentkezéséről haladéktalanul köteles a járási főállatorvosnak jelentést tenni.
 
-(11)[^29] A járási főállatorvos állami feladat elvégzésére feljogosított magánállatorvost is kijelölhet az állatok hatósági megfigyelésének végrehajtására.
+(11)[^33] A járási főállatorvos állami feladat elvégzésére feljogosított magánállatorvost is kijelölhet az állatok hatósági megfigyelésének végrehajtására.
 
-[^27]: A 19. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^28]: A 19. § (10) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^29]: A 19. § (11) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^31]: A 19. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^32]: A 19. § (10) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^33]: A 19. § (11) bekezdése a 151/2012. (XII. 29.) VM rendelet 30. § b) pontja szerint módosított szöveg.
