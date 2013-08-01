@@ -1,4 +1,4 @@
-46. § (1) A fővárosi kerület esetében, a 2012. december 31-én hatályban lévő, valamint a (3) bekezdés szerint 2014. június 30-ig elfogadott településrendezési eszköz módosítás nélkül, továbbá a (2) bekezdés a) pontja és b) pont ba) alpontja szerint módosított településrendezési eszközök további módosítás nélkül – az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának, valamint a Fővárosi Szabályozási Kerettervről és a Budapesti Városrendezési és Építési Szabályzatról szóló fővárosi közgyűlési rendelet figyelembevételével – 2018. december 31-ig alkalmazható.
+46. § (1)[^21] A fővárosi kerület esetében, a 2012. december 31-én hatályban lévő, valamint a (3) bekezdés szerint 2014. június 30-ig elfogadott településrendezési eszköz, továbbá a (2) bekezdés a) pontja és b) pont ba) alpontja szerint módosított településrendezési eszközök – az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának, valamint a Fővárosi Szabályozási Kerettervről és a Budapesti Városrendezési és Építési Szabályzatról szóló fővárosi közgyűlési rendelet figyelembevételével – 2018. december 31-ig alkalmazható.
 
 (2) A 2012. december 31-én hatályban lévő kerületi településrendezési eszköz
 
@@ -21,3 +21,8 @@ b) az OTÉK 2012. augusztus 6-án hatályos településrendezési tartalmi köve
 ## megfelelően 2014. június 30-ig gondoskodni kell.
 
 (4) Amennyiben a kerületi településrendezési eszköz elfogadása a (3) bekezdésben meghatározott határidőig nem történik meg, úgy azok elkészítésére, egyeztetésére és elfogadására e rendelet előírásait kell alkalmazni.
+
+(5)[^22] Kerületi településrendezési eszköz 2014. június 30-ig történő készítése és elfogadása a VI. fejezet eljárási szabályai szerint, az OTÉK 2012. augusztus 6-án hatályos településrendezési tartalmi követelményeinek és jelmagyarázatának, valamint a Fővárosi Szabályozási Kerettervről és a Budapesti Városrendezési és Építési Szabályzatról szóló fővárosi közgyűlési rendelet alkalmazásával történhet.
+
+[^21]: A 46. § (1) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 55. § l) pontja szerint módosított szöveg.
+[^22]: A 46. § (5) bekezdését a 266/2013. (VII. 11.) Korm. rendelet 54. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 14. § A településrendezési eszközöket a 6. melléket szerinti jelmagyarázat alkalmazásával kell elkészíteni, amelynek elemei tovább bővíthetők.
+## 14. §[^2] A településrendezési eszközöket a 6. melléklet szerinti jelmagyarázat alkalmazásával kell elkészíteni, amelynek elemei tovább bővíthetők.
 
 ## 10. Telepítési tanulmányterv és beépítési terv
 
@@ -27,3 +27,5 @@ ba) zöldfelületeinek és szabadtereinek kialakítását,
 bb) közlekedési és parkolási rendjét, és
 
 bc) közműveinek felszíni építményeit.
+
+[^2]: A 14. § a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés b) pontja szerint módosított szöveg.

@@ -20,7 +20,7 @@ bb) melyek a véleményezés részletes szempontjai, és
 
 bc) helyi tervtanács működtetése esetén melyek a működés és az eljárás részletes szabályai.
 
-(2)[^1] A polgármester építmény építésére, bővítésére, településképet érintő átalakítására irányuló építési, összevont vagy fennmaradási engedélyezési eljárásokhoz adhat településképi véleményt. A fővárosban az Étv. rendelkezései alapján fővárosi helyi építészeti értékvédelem alá vont építmények esetében az első fokú építésügyi hatósági eljárásokhoz a főpolgármester adhat településképi véleményt.
+(2)[^10] A polgármester építmény építésére, bővítésére, településképet érintő átalakítására irányuló építési, összevont vagy fennmaradási engedélyezési eljárásokhoz adhat településképi véleményt. A fővárosban az Étv. rendelkezései alapján fővárosi helyi építészeti értékvédelem alá vont építmények esetében az első fokú építésügyi hatósági eljárásokhoz a főpolgármester adhat településképi véleményt.
 
 (3) A véleményezési eljárás során vizsgálni kell
 
@@ -36,4 +36,4 @@ e) az építmény takaratlanul maradó és közterületről közvetlenül látha
 
 f) közterületen folytatott építési tevékenység végzése esetén a közterület burkolatának, műtárgyainak, köztárgyainak, növényzetének, továbbá a díszvilágító és hirdető-berendezések kialakítását.
 
-[^1]: A 21. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^10]: A 21. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 68. §-ával megállapított szöveg.

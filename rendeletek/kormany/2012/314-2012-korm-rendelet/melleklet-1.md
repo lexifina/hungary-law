@@ -1,4 +1,4 @@
-## 58–63. §[^3]
+## 58–63. §[^24]
 
 1. melléklet a 314/2012. (XI. 8.) Korm. rendelethez
 
@@ -32,7 +32,7 @@
 
 1.7.2. Térbeli-társadalmi rétegződés, konfliktusok, érdekviszonyok
 
-1.7.3. Települési identitást erősítő tényezők (történeti és kulturális adottságok, társadalmi élet, szokások, hagyományok, nemzetiségi kötődés, civil szerveződések, egyházak stb.)
+1.7.3.[^25] Települési identitást erősítő tényezők (történeti és kulturális adottságok, társadalmi élet, szokások, hagyományok, nemzetiségi kötődés, civil szerveződések, vallási közösségek stb.)
 
 1.8. A település humán infrastruktúrája
 
@@ -276,4 +276,5 @@ A település problémáinak és értékeinek összefoglalója térképi formáb
 
 3.3.3. egyéb szempontból beavatkozást igénylő területek lehatárolása, térképi ábrázolása és helyzetelemzése (potenciális akcióterületek)
 
-[^3]: Az 58–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: Az 58–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet 1.7.3. pontja a 297/2013. (VII. 29.) Korm. rendelet 84. § b) pontja szerint módosított szöveg.
