@@ -122,7 +122,7 @@
 
 | testvére (4) |
 
-| illetve a(z) |  | egyházmegye/szerzetesrend képviselője (5) |
+| illetve a(z) |  | egyházi jogi személy elöljárója képviselője (5) |
 
 | Figyelem: Aki több hozzátartozója életének elvesztése miatt nyújtja be kárpótlási igényét, annak hozzátartozóként kü- |
 
@@ -144,7 +144,7 @@
 
 | Életvesztés körülményeinek leírása, a bizonyítékok ismertetése.(Amennyiben az adatlapon rendelkezésre álló hely nem elegendő külön íven is mellékelheti a leírást.) |
 
-| Feltétlenül csatolandó igazolások (élet elvesztése esetén) 1. Ha az igénylő a) az özvegy: házassági anyakönyvi kivonat b) a szülő: a sérelmet szenvedett születési anyakönyvi kivonata c) a gyermek: saját születési anyakönyvi kivonata d) a testvér: a sérelmet szenvedett és a saját születési anyakönyvi kivonata e) egyházmegye/szerzetesrend: a sérelmet szenvedett egyházi személy voltát igazoló okmány. 2. Valamennyi igénylő esetében: a sérelmet szenvedett halálát tanúsító okmány (igazolás). |
+| Feltétlenül csatolandó igazolások (élet elvesztése esetén) 1. Ha az igénylő a) az özvegy: házassági anyakönyvi kivonat b) a szülő: a sérelmet szenvedett születési anyakönyvi kivonata c) a gyermek: saját születési anyakönyvi kivonata d) a testvér: a sérelmet szenvedett és a saját születési anyakönyvi kivonata e) egyházi jogi személy elöljárója: a sérelmet szenvedett egyházi személy voltát igazoló okmány. 2. Valamennyi igénylő esetében: a sérelmet szenvedett halálát tanúsító okmány (igazolás). |
 
 | V. Kárpótlási igény a II. világháború alatt (1941.06.27.-1945.05.9.) faji, vallási vagy politikai okból teljesített munkaszolgálatért: |
 
