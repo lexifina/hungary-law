@@ -1,4 +1,4 @@
-## 2. függelék[^61]
+## 2. függelék[^69]
 
 ## JEGYZŐKÖNYV
 
@@ -84,7 +84,7 @@
 
 ## vizsgáztató bizottság elnöke
 
-## 3. függelék[^62]
+## 3. függelék[^70]
 
 ## VIZSGANYILVÁNTARTÓ KÖNYV
 
@@ -94,8 +94,8 @@
 
 | minősítése | kelte |
 
-2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^63]
+2. számú melléklet a 35/1998. (II. 27.) Korm. rendelethez[^71]
 
-[^61]: Az 1. számú melléklet 2. számú függeléke a 126/2011. (VII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^62]: Az 1. számú melléklet 3. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés j) pontja szerint módosított szöveg.
-[^63]: A 2. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés k) pontja, a 415/2012. (XII. 29.) Korm. rendelet 5. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^69]: Az 1. számú melléklet 2. számú függeléke a 126/2011. (VII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^70]: Az 1. számú melléklet 3. számú függeléke a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés j) pontja szerint módosított szöveg.
+[^71]: A 2. számú melléklet a 235/2001. (XII. 10.) Korm. rendelet 8. §-ával megállapított, a 178/2012. (VII. 26.) Korm. rendelet 14. § (10) bekezdés k) pontja, a 415/2012. (XII. 29.) Korm. rendelet 5. § (5) bekezdés f) pontja szerint módosított szöveg.
