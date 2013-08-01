@@ -1,4 +1,4 @@
-## 7–8. §[^1]
+## 7–8. §[^3]
 
 ## Záró rendelkezések
 
@@ -16,4 +16,4 @@ d) a Bizottság 2000. május 2-i 907/2000/EK rendelete az 1254/1999/EK tanácsi 
 
 e) a Bizottság 1992. október 16-i 3002/92/EGK rendelete az intervencióból származó termékek felhasználásának és/vagy rendeltetési helyének igazolására vonatkozó közös részletes szabályok megállapításáról.
 
-[^1]: A 7–8. §-t és a 7. §-t megelőző Rendkívüli export-visszatérítés alcímet a 240/2007. (IX. 19.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 7–8. §-t és a 7. §-t megelőző Rendkívüli export-visszatérítés alcímet a 240/2007. (IX. 19.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
