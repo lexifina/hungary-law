@@ -2,7 +2,7 @@
 
 a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
 
-b) az egyházi szervek által kiállított igazolás alapján az egyházi szolgálatot teljesítő egyházi személyként és szerzetesrendi tagként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi szervek megfizették,
+b) az egyházi jogi személy által kiállított igazolás alapján az egyházi személyként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi jogi személy megfizette,
 
 c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 
