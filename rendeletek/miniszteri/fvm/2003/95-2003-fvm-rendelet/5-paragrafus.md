@@ -4,5 +4,5 @@
 
 (3)[^2]
 
-[^1]: Az 5. § (1) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § d) pontja hatályon kívül helyezte.
-[^2]: Az 5. § (3) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § d) pontja hatályon kívül helyezte.
+[^1]: Az 5. § (1) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § d) pontja hatályon kívül helyezte. [A 70/2013. (VII. 31.) VM rendelet 28. § a) pontjával elrendelt módosítás, amely szerint a „földművelésügyi és vidékfejlesztési miniszter” szövegrész helyébe a „vidékfejlesztési miniszter (a továbbiakban: miniszter)” szöveg lép, nem vezethető át.]
+[^2]: Az 5. § (3) bekezdését az 59/2013. (VII. 15.) VM rendelet 8. § d) pontja hatályon kívül helyezte. [A 70/2013. (VII. 31.) VM rendelet 28. § c) pontjával elrendelt módosítás, amely szerint a „Környezetvédelmi és Vízügyi Minisztérium szakembereinek, valamint az agrár-környezetvédelem és vidékfejlesztés szakértőinek” szövegrész helyébe az „agrár-környezetvédelem és vidékfejlesztés szakértőinek” szöveg lép, nem vezethető át.]

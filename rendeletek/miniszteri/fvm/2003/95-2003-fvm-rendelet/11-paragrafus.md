@@ -2,11 +2,11 @@
 
 11. § (1) Az állami elismerésben részesített, illetve fajtaoltalommal védett növényfajtáknak, valamint a referencia és példafajtáknak, mint potenciális genetikai erőforrásoknak tartós tárolóban vagy vegetatív szaporítású növényeknél fajtagyűjteményben, illetve klóngyűjteményben való ültetése és megőrzése állami feladat.
 
-(2)[^7] Az (1) bekezdésben meghatározott gyűjtemények fenntartása és működtetése az MgSzH Központ feladata.
+(2)[^8] Az (1) bekezdésben meghatározott gyűjtemények fenntartása és működtetése a NÉBIH feladata.
 
-(3)[^8] Az (1) bekezdésben meghatározott fajták állami elismerésének megszűnése esetén e fajták szaporítóanyagait az azokra vonatkozó információval együtt a Génbank Tanács szakági munkabizottságának véleménye alapján a miniszter által kijelölt bázisgyűjteményben kell elhelyezni.
+(3)[^9] Az (1) bekezdésben meghatározott fajták állami elismerésének megszűnése esetén e fajták szaporítóanyagait az azokra vonatkozó információval együtt a Génbank Tanács szakági munkabizottságának véleménye alapján a miniszter által kijelölt bázisgyűjteményben kell elhelyezni.
 
 (4) Az időleges korlátozás alá eső génforrások felhasználására az UPOV-egyezmény előírásai vonatkoznak. A rendelkezési jog a fajtajogosultat, illetve a szabadalmast illeti meg.
 
-[^7]: A 11. § (2) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (8) bekezdés c) pontja szerint módosított szöveg.
-[^8]: A 11. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (8) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 11. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 28. § f) pontja szerint módosított szöveg.
+[^9]: A 11. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (8) bekezdés d) pontja szerint módosított szöveg.
