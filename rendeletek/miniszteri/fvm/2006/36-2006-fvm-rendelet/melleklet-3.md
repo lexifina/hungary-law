@@ -1,4 +1,4 @@
-3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^62]
+3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^64]
 
 ## Minőségi előírások a termésnövelő anyagokra
 
@@ -804,4 +804,4 @@ F. EGYÉB MŰTRÁGYÁK
 
 | 10 tömegszázalék felett | ± 1,1 |
 
-[^62]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
+[^64]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése, a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
