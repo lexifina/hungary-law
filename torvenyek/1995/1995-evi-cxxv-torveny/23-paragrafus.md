@@ -1,5 +1,5 @@
 23. § (1) A közalkalmazottak a nemzetbiztonsági szolgálatoknál olyan feladatköröket látnak el, amelyekben – a különös követelményeket támasztó – hivatásos szolgálati jogviszony létesítése nem szükséges.
 
-(2) A nemzetbiztonsági szolgálatoknál közalkalmazotti jogviszony azon személyekkel létesíthető, akik megfelelnek a közalkalmazottak jogállásáról szóló törvényben foglalt alkalmazási feltételeknek, valamint írásban hozzájárulnak a jogviszony létesítése és fenntartása céljából folytatandó biztonsági ellenőrzéshez.
+(2) A nemzetbiztonsági szolgálatoknál kormánytisztviselői, illetve közalkalmazotti jogviszony azon személyekkel létesíthető, akik megfelelnek a közszolgálati tisztviselőkről, illetve a közalkalmazottak jogállásáról szóló törvényben foglalt alkalmazási feltételeknek, továbbá a jogviszony létesítéséhez a nemzetbiztonsági ellenőrzést végző szerv hozzájárult. Kormánytisztviselői, illetve közalkalmazotti jogviszony nemzetbiztonsági szolgálatoknál történő létesítésekor a 70. § (1) bekezdésében foglalt rendelkezés nem alkalmazható.
 
 (3) A hivatásos szolgálati beosztás közalkalmazotti munkakörré, illetőleg a közalkalmazotti munkakör hivatásos szolgálati beosztássá átminősíthető. Az átminősítettek jogviszonyára a külön törvényben meghatározott rendelkezések vonatkoznak.

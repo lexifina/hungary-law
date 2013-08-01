@@ -4,7 +4,7 @@
 
 (3) A bíró, illetve az igazságügyért felelős miniszter (a továbbiakban együtt: engedélyező) az előterjesztés benyújtásától számított 72 órán belül határozatot hoz. Az előterjesztésnek helyt ad, vagy azt megalapozatlansága esetén elutasítja. A határozat ellen fellebbezésnek nincs helye.
 
-(4) Az engedélyező a titkos információgyűjtést esetenként legfeljebb 90 napra engedélyezi. Ezt a határidőt az engedélyező indokolt esetben – a főigazgatók előterjesztése alapján – további 90 nappal meghosszabbíthatja.
+(4) Az engedélyező a titkos információgyűjtést e törvény eltérő rendelkezése hiányában esetenként legfeljebb 90 napra engedélyezi. Ezt a határidőt az engedélyező indokolt esetben – a főigazgatók előterjesztése alapján – e törvény eltérő rendelkezése hiányában további 90 nappal meghosszabbíthatja.
 
 (5) A bíró a határidő meghosszabbítására vonatkozó döntése kialakításánál megismerheti az adott ügyben általa engedélyezett titkos információgyűjtés során szerzett és rögzített adatokat.
 

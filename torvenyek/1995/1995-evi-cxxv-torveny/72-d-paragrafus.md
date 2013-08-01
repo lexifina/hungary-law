@@ -1,0 +1,3 @@
+72/D. § (1) A hozzájárulásra vagy annak megtagadására, valamint a hozzájárulás visszavonására vonatkozó döntésről a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat tájékoztatja a kezdeményezőt.
+
+(2) A kezdeményező tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt a hozzájárulásról vagy annak megtagadásáról, illetve a hozzájárulás visszavonásáról. A tájékoztatás megtörténtét jegyzőkönyvben vagy más hitelt érdemlő módon rögzíteni kell. A döntést tartalmazó okiratban a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat által megjelölt minősített adatokról a nemzetbiztonsági ellenőrzés alá eső személy nem tájékoztatható. A hozzájárulásról a nemzetbiztonsági ellenőrzés alá eső személy kérelmére a kezdeményező hiteles másolatot ad ki.

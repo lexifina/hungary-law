@@ -10,7 +10,7 @@ d) ellátja a biztonsági okmányok védelmével összefüggő hatósági felüg
 
 e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
 
-f) elvégzi a hatáskörébe tartozó, valamint a 68. § (4) bekezdésének f) pontjában meghatározott személyek nemzetbiztonsági ellenőrzését, illetve ellátja az objektumai műveleti védelmét,
+f) ellátja az objektumai műveleti védelmének és személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
 
 g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
 

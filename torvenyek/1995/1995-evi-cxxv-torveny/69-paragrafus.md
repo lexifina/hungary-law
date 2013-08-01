@@ -1,89 +1,51 @@
-69. § (1) A köztársasági elnök kezdeményezi az ellenőrzést
+69. § (1) E törvény eltérő rendelkezése hiányában a nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létrehozatalát megelőző nemzetbiztonsági ellenőrzését a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítésére jogosult személy kezdeményezi. Bíró, igazságügyi alkalmazott nemzetbiztonsági ellenőrzését a munkáltatói jogkör gyakorlója kezdeményezi. Ügyészségi szolgálati viszonyban álló személy esetében az ellenőrzést a legfőbb ügyész kezdeményezi.
 
-a) a Magyar Honvédség parancsnoka és vezérkari főnöke,
+(2) Az (1) bekezdésben foglaltaktól eltérően a nemzetbiztonsági ellenőrzés kezdeményezésére a 74. § i) pontjának
 
-b)
+a) if) és ig) alpontjában megjelölt személy esetén a köztársasági elnök,
 
-c) a Köztársasági Elnök Hivatala vezető beosztású munkatársai
+b) ie), il), im) és it) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
 
-tekintetében.
+c) ib) és id) alpontjában megjelölt személy esetén a miniszterelnök,
 
-(1a) A köztársasági elnöknek az (1) bekezdéssel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
 
-(2) Az Országgyűlés elnöke kezdeményezi az ellenőrzést
+e) ij) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter,
 
-a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába, illetve – ha a feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, eseti bizottságba jelölt személy,
+f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 
-b) az Országgyűlés Hivatalának vezető beosztású munkatársai
+g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
 
-c) a Független Rendészeti Panasztestület tagjai,
+jogosult.
 
-d) az Országgyűlési Őrség munkatársai
+(3) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi azon nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzését, aki esetében az (1)–(2) bekezdés alapján nem állapítható meg a nemzetbiztonsági ellenőrzés kezdeményezésére egyébként jogosult személy.
 
-tekintetében.
+(4) A 74. § i) pont in) és io) alpontjában meghatározott körben a nemzetbiztonsági ellenőrzés alá eső egyes jogviszonyokat
 
-(3) A miniszterelnök kezdeményezi az ellenőrzést
+a) kormányzati irányítás alatt álló foglalkoztató szervezetek vonatkozásában a Kormány rendeletben,
 
-a) valamennyi miniszteri tisztségre jelölt személy,
+b) kormányzati irányítás alatt nem álló foglalkoztató szervezet esetében a foglalkoztató szervezet vezetője a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatokat irányító miniszter egyetértésével kiadott közjogi szervezetszabályozó eszközben, ha ennek kiadására nem jogosult, a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatokat irányító miniszter jóváhagyásával munkáltatói intézkedésben, írásban határozza meg.
 
-b) az államtitkárok, közigazgatási államtitkárok és az azonos jogállású állami vezetők,
+(5) Nem kell kezdeményezni
 
-c) a Miniszterelnökség vezető beosztású munkatársai,
+a) a köztársasági elnök,
 
-d) a Kormány irányítása alatt álló az ország egész területére kiterjedő illetékességgel rendelkező szervek vezetői, helyettesei, és a vezetőkkel azonos jogállású más közszolgálati vezetők
+b) a miniszterelnök,
 
-tekintetében.
+c) az alkotmánybírák,
 
-(4) Az illetékes miniszter kezdeményezi az ellenőrzést
+d) az Országgyűlés elnöke,
 
-a) a helyettes államtitkárok és az azonos jogállású állami vezetők,
+e) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
 
-b) a nagykövetek és az önálló külképviseleteket irányító főkonzulok,
+f) a legfőbb ügyész,
 
-c) a központi hivatalok vezetői, valamint a velük azonos jogállású más közszolgálati vezetők,
+g) az alapvető jogok biztosa és helyettesei,
 
-d) a minisztériumi főosztályvezetők és az azonos jogállású állami vezetők,
+h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
-e) az irányításuk alá tartozó rendvédelmi szervek országos parancsnokai és helyettesei, valamint a tábornokok és a tábornoki rendfokozattal rendszeresített beosztásokba kinevezettek,
+i) az Európai Parlament Magyarországon megválasztott képviselője és – e törvény eltérő rendelkezése hiányában – az országgyűlési képviselő
 
-f) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői,
+nemzetbiztonsági ellenőrzését.
 
-g) a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai,
-
-h) az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek,
-
-i) az irányítása vagy felügyelete alatt álló minősített adatot kezelő szerv vezetője
-
-tekintetében.
-
-(4a) A Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter kezdeményezi az ellenőrzést a Nemzeti Adó- és Vámhivatal tábornokok és a tábornoki rendfokozattal rendszeresített beosztásokba kinevezettek tekintetében, a (3) bekezdés d) pontja szerinti eset kivételével.
-
-(5) A honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka rendeli el, illetve kezdeményezi az ellenőrzést a Magyar Honvédségen belül, az illetékes miniszter által meghatározott munkakört betöltő személyek tekintetében.
-
-(6) Az országos rendőrfőkapitány kezdeményezi az ellenőrzést
-
-a) a rendőrfőkapitányok és rendőrkapitányok,
-
-b) a Rendőrségen belül, az illetékes miniszter által meghatározott munkakört betöltő személyek
-
-tekintetében.
-
-(7)
-
-(8) A rendvédelmi szervek országos parancsnokai kezdeményezik az ellenőrzést a rendvédelmi szerveken belül az illetékes miniszter által meghatározott munkakört betöltő személyek tekintetében.
-
-(9) A nemzetbiztonsági szolgálatok főigazgatói a nemzetbiztonsági szolgálatok munkatársai tekintetében, a rendőrség terrorizmust elhárító szervének főigazgatója a terrorizmust elhárító szerv munkatársai tekintetében, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének főigazgatója a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének munkatársai tekintetében, valamint a Nemzeti Adó- és Vámhivatal elnöke a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóság és a bűnügyi főigazgatóság középfokú szerveinek munkatársai tekintetében kezdeményezi az ellenőrzést.
-
-(10) A Fővárosi Törvényszék elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bíró, valamint a minősített adat védelméről szóló törvényben meghatározott peres eljárásban eljáró bíró tekintetében.
-
-(11) Az országgyűlési bizottság elnöke kezdeményezi az ellenőrzést a bizottság eljárásában közreműködő szakértő tekintetében, amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia.
-
-(12) A legfőbb ügyész kezdeményezi az ellenőrzést az 55. § alapján kijelölt ügyész tekintetében.
-
-(13) A minősített adatot kezelő szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének f) és g) pontjában, valamint a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
-
-(14) Az autonóm államigazgatási szerv vezetője, illetve az önálló szabályozó szerv vezetője kezdeményezi az ellenőrzést az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek tekintetében.
-
-(15) Az (1)–(14) bekezdésben meghatározott kezdeményezésre jogosult kezdeményezi az ellenőrzést az általa olyan munkakörbe kinevezett személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, amennyiben a kezdeményezésre jogosult az (1)–(14) bekezdés alapján nem állapítható meg.
-
-(16) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, ha az (1)–(15) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.
+(6) Nem kell kezdeményezni továbbá a nemzetbiztonsági ellenőrzést a 74. § i) pontjában meghatározott olyan személlyel kapcsolatban, aki számára törvény a minősített adat megismerését vagy felhasználását nemzetbiztonsági ellenőrzés lefolytatása nélkül is biztosítja.

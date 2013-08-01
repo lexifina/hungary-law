@@ -10,7 +10,7 @@ d) felderíti és elhárítja a Magyarország gazdasági, tudományos-technikai,
 
 e) ellátja a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelmét;
 
-f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
+f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének feladatait, illetve elvégzi – a Katonai Nemzetbiztonsági Szolgálat, a Nemzetbiztonsági Szakszolgálat, valamint az Információs Hivatal hatáskörébe tartozó személyek kivételével – a nemzetbiztonsági ellenőrzés alá eső személyek nemzetbiztonsági ellenőrzésének feladatait;
 
 g) végzi a letelepedett jogállást igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami függetlenség és a törvényes rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
 
