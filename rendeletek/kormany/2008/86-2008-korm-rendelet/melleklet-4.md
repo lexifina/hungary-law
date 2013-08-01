@@ -62,7 +62,7 @@
 
 ## Költségmegtakarítás összege éves szinten: Ebben az oszlopban a bérjellegű megtakarításokat kell kimutatni, ugyanúgy mint a 2. számú melléklet 5. oszlopában. Annak utolsó, összesen sorával kell megegyeznie.
 
-4. számú melléklet a 86/2008. (IV. 15.) Korm. rendelethez[^4]
+4. számú melléklet a 86/2008. (IV. 15.) Korm. rendelethez[^5]
 
 ## Kimutatás a 2008. évi létszámcsökkentéshez kapcsolódó támogatás elszámolásáról
 
@@ -108,4 +108,4 @@ Ez a melléklet a 2008. évi létszámcsökkentéshez kapcsolódó támogatás e
 
 Minden mellékletet aláírással és dátummal kell ellátni!
 
-[^4]: A 4. számú melléklet a 403/2012. (XII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^5]: A 4. számú melléklet a 403/2012. (XII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
