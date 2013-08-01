@@ -1,0 +1,5 @@
+## 36. §[^27]
+
+## 24. A továbbképzési kötelezettség teljesítésének igazolása
+
+[^27]: A 36. § a 47. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
