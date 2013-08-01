@@ -28,7 +28,7 @@ d) a növényvédő szerek hatékonyságát „zöldmunkák” végzésével kel
 
 e) az engedélyezett növényvédő szerek közül csak a „korlátozás nélkül engedélyezett” (zöld) és a „mérsékelt korlátozásokkal engedélyezett” (sárga) minősítésűek használhatók, amelyeket a rendelet 2. számú melléklet e) pontja tartalmazza,
 
-f)[^87] a „korlátozott” („piros”) minősítésű növényvédő szerek használatát az MgSzH csak a járványelhárítás során, illetve a zárlati intézkedésekkel elrendelt védekezések esetében külön eljárásban, előzetesen engedélyezi,
+f)[^87] a „korlátozott” („piros”) minősítésű növényvédő szerek használatát a Nemzeti Élelmiszerlánc-biztonsági Hivatal csak a járványelhárítás során, illetve a zárlati intézkedésekkel elrendelt védekezések esetében külön eljárásban, előzetesen engedélyezi,
 
 g) az áttelelő fertőzési források eltávolítása,
 
@@ -41,5 +41,5 @@ i) a talajszerkezet védelme érdekében – a fagyvédelmi öntözés kivétel�
 (5) Azon kérelmezőknek, akinek valamely ültetvényterülete Magyarországon elismert ökológiai ellenőrző és tanúsító szervezetnél nyilvántartásban van, azoknak a támogatási kérelemhez mellékelni kell a Magyarországon elismert ökológiai ellenőrző és tanúsító szervezet igazolását arról, hogy a célprogramba bevinni kívánt ültetvényterület nincs a nyilvántartásukban.
 
 [^86]: A Magyar Közlöny 2004. évi 163. számában megjelent helyesbítésnek megfelelő szöveg.
-[^87]: A 36. § (3) bekezdés f) pontja az 51/2008. (IV. 24.) FVM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^87]: A 36. § (3) bekezdés f) pontja a 70/2013. (VII. 31.) VM rendelet 46. § c) pontja szerint módosított szöveg.
 [^88]: A 36. § (4) bekezdése az 51/2008. (IV. 24.) FVM rendelet 9. §-ával megállapított szöveg, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést a 2007/2008. gazdálkodási év tekintetében is alkalmazni kell, a már lezárult gazdálkodási évek tekintetében e rendelkezést nem kell alkalmazni.

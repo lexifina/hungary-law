@@ -30,7 +30,7 @@ a) a telepítés évében a programba bevitt terület után 231,37 euró/ha,
 
 b) a második évtől a programba bevitt területek után 39,22 euró/ha.
 
-(5)[^101] A támogatási kérelemhez mellékelni kell a területileg illetékes MgSzH igazolását arról, hogy a tábla legalább 5%-os lejtőn fekszik, illetve erózió által veszélyeztetett.
+(5)[^101] A támogatási kérelemhez mellékelni kell a területileg illetékes földművelésügyi igazgatóság igazolását arról, hogy a tábla legalább 5%-os lejtőn fekszik, illetve erózió által veszélyeztetett.
 
 [^100]: A 44. § (2) bekezdés b) pontja a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése alapján módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
-[^101]: A 44. § (5) bekezdése az 51/2008. (IV. 24.) FVM rendelet 12. § (2) bekezdése, a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévü ügyekben is alkalmazni kell.
+[^101]: A 44. § (5) bekezdése a 108/2009. (VIII. 14.) FVM rendelet 7. § (5) bekezdése, a 70/2013. (VII. 31.) VM rendelet 46. § b) pontja szerint módosított szöveg.

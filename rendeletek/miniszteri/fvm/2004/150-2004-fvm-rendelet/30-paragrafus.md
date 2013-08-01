@@ -6,7 +6,7 @@
 
 a) a legkisebb támogatható gyepterület 1 ha,
 
-b)[^81] a területileg illetékes Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) igazolása arról, hogy a szántóterület gyepesítése indokolt.
+b)[^81] a területileg illetékes megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság) igazolása arról, hogy a szántóterület gyepesítése indokolt.
 
 (3) A program előírásai:
 
@@ -26,8 +26,8 @@ g) a második évtől a kialakított gyepet legeltetéssel vagy kaszálással le
 
 (4)[^82] A támogatás mértéke az első évben a programba bevitt terület után 290,20 euró/ha, a második évtől a programba bevitt terület után 58,82 euró/ha.
 
-(5)[^83] A támogatási kérelemhez mellékelni kell a területileg illetékes MgSzH igazolását arról, hogy a szántóterület talajvédelmi célból vagy a talajadottságok alapján a terület gyepesítése indokolt.
+(5)[^83] A támogatási kérelemhez mellékelni kell a területileg illetékes földművelésügyi igazgatóság igazolását arról, hogy a szántóterület talajvédelmi célból vagy a talajadottságok alapján a terület gyepesítése indokolt.
 
-[^81]: A 30. § (2) bekezdés b) pontja az 51/2008. (IV. 24.) FVM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^81]: A 30. § (2) bekezdés b) pontja az 51/2008. (IV. 24.) FVM rendelet 12. § (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 46. § a) pontja szerint módosított szöveg.
 [^82]: A 30. § (4) bekezdése a 34/2005. (IV. 15.) FVM rendelet 12. §-ával megállapított szöveg.
-[^83]: A 30. § (5) bekezdése az 51/2008. (IV. 24.) FVM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^83]: A 30. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 46. § b) pontja szerint módosított szöveg.
