@@ -1,0 +1,3 @@
+13. § (1) A létesítő okirat módosítása esetén a változás átvezetésére vonatkozó bejelentéshez, kérelemhez csatolni kell a létesítő okirat változásokkal egységes szerkezetbe foglalt szövegét is.
+
+(2) Az egységes szerkezetbe foglalt létesítő okiraton az Ehtv. 18. § (1) bekezdésében meghatározott személy igazolja, hogy a létesítő okirat egységes szerkezetbe foglalt szövege megfelel a módosítások alapján hatályos tartalmának. Az egységes szerkezetű létesítő okiratból egyértelműen ki kell tűnnie, hogy az egységes szerkezetű okirat elkészítésére a létesítő okirat mely pontjának változása adott okot.
