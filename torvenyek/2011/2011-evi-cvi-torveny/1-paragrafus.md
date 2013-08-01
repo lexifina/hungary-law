@@ -22,7 +22,7 @@ a) helyi és nemzetiségi önkormányzat, valamint ezek jogi személyiséggel re
 
 b) költségvetési szerv,
 
-c) egyház,
+c) egyházi jogi személy,
 
 d) közhasznú jogállású szervezet,
 
