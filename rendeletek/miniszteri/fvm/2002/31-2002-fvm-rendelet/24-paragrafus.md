@@ -12,7 +12,7 @@ b) a Tanács 82/894/EGK irányelve a Közösségen belül bejelentendő állatbe
 
 Melléklet a 31/2002. (IV. 19.) FVM rendelethez
 
-Az Országos Állategészségügyi Intézet feladatai
+A Nemzeti Élelmiszerlánc-biztonsági Hivatal feladatai[^27]
 
 1. Kapcsolatot tart fenn a nemzetközi referencia-laboratóriumokkal. Az afrikai lópestis diagnosztikai módszereit naprakész állapotban tartja, különös tekintettel
 
@@ -29,3 +29,5 @@ d) elemzi a vírus tulajdonságait annak érdekében, hogy az endémiás jelleg 
 3. Részt vesz a hazai szakmai továbbképzésekben és a nemzetközi diagnosztikai technikák harmonizálásában.
 
 4. Kölcsönös kapcsolatot tart fenn a lópestis világlaboratóriummal és az OIE-val.
+
+[^27]: A melléklet címe a 70/2013. (VII. 31.) VM rendelet 17. § h) pontjával megállapíott szöveg.
