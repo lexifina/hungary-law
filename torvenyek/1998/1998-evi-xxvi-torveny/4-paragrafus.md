@@ -18,7 +18,7 @@ fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati é
 
 fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási, közlekedési szolgáltatás, ellátás, illetve tevékenység,
 
-fc) a helyi és nemzetiségi önkormányzat hatásköre gyakorlása során kifejtett minden tevékenység – ideértve különösen a hatósági és egyéb közigazgatási tevékenységet –, valamint a helyi és nemzetiségi önkormányzat, a nem állami és egyházi fenntartó, illetőleg az általa fenntartott közfinanszírozásban részesülő intézmény által nyújtott fb) szerinti szolgáltatás, ellátás, tevékenység,
+fc) a helyi és nemzetiségi önkormányzat hatásköre gyakorlása során kifejtett minden tevékenység – ideértve különösen a hatósági és egyéb közigazgatási tevékenységet –, valamint a helyi önkormányzat, a nemzetiségi önkormányzat, a nem állami, helyi önkormányzati vagy nemzetiségi önkormányzati fenntartó és az egyházi jogi személy által fenntartott, közfinanszírozásban részesülő intézmény által nyújtott fb) alpont szerinti szolgáltatás, ellátás, tevékenység,
 
 fd) minden ügyfélszolgálati rendszerben működtetett szolgáltató tevékenység, továbbá
 
