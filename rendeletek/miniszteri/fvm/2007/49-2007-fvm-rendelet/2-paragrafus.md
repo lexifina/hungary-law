@@ -38,7 +38,7 @@ b) az üzemeltető személyes adatainak kezeléséhez történő hozzájárulás
 
 (7) A spermatároló üzemeltetéséért felelős személynek állatorvosi vagy agrármérnöki egyetemi oklevéllel kell rendelkeznie.
 
-[^4]: A 2. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^4]: A 2. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított szöveg. [A 2. § (2) bekezdésében a 70/2013. (VII. 31.) VM rendelet 65. § a) pontjával elrendelt módosítás, amely szerint az „az üzemeltetési helye szerint területileg illetékes Mezőgazdasági Szakigazgatási Hivatal területi szervéhez” szövegrész helyébe „az üzemeltetési helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságához” szöveg lép, nem vezethető át.]
 [^5]: A 2. § (3) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
 [^6]: A 2. § (5) bekezdését a 28/2010. (XI. 9.) VM rendelet 11. § d) pontja hatályon kívül helyezte. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
 [^7]: A 2. § (6) bekezdése a 28/2010. (XI. 9.) VM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
