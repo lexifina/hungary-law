@@ -4,7 +4,7 @@ Tbj. 44/A. § (1) A kincstár a 42. § (1) bekezdésének a) pontjában meghat
 
 (3) Az egészségügyi szolgáltatásra való jogosultság kezdetére és megszűnésére vonatkozó bejelentést
 
-a) az egyházi, felekezeti nyugdíjban részesülők esetén az egyházi, felekezeti nyugdíjat folyósító szerv,
+a) az egyházi nyugdíjban részesülők esetében az egyházi nyugdíjat folyósító szerv,
 
 b) a bányászati keresetkiegészítésben részesülők esetén a keresetkiegészítést folyósító szerv,
 

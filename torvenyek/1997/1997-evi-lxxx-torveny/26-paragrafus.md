@@ -2,7 +2,7 @@ Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozási segélyben, gye
 
 (2) Az álláskeresési támogatásban részesülő személy az ellátás után nyugdíjjárulékot fizet.
 
-(3) Az egyházi személy után az egyház a minimálbér alapulvételével a 19. § (2)–(3) bekezdésében meghatározott mértékű nyugdíjjárulékot, valamint természetbeni egészségbiztosítási járulékot fizet. A járulékot központilag, egy összegben az Art. szabályai szerint kell az állami adóhatóságnak bevallani és megfizetni.
+(3) Az egyházi szolgálati viszonyban álló egyházi személy után az egyházi jogi személy a minimálbér alapulvételével a 19. § (2)–(3) bekezdésében meghatározott mértékű nyugdíjjárulékot, valamint természetbeni egészségbiztosítási járulékot fizet. A járulékot központilag, egy összegben az Art. szabályai szerint kell az állami adóhatóságnak bevallani és megfizetni.
 
 (4)
 

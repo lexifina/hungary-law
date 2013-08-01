@@ -88,7 +88,7 @@ az az egyéni, illetve társas vállalkozó, aki vállalkozói tevékenységet s
 
 f) Saját jogú nyugdíjas: az a természetes személy, aki
 
-1. a társadalombiztosítási nyugellátásról szóló törvény, illetve nemzetközi egyezmény alkalmazásával a 14. § (3) bekezdés a) és c) pontjában meghatározott saját jogú nyugellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
+1. a társadalombiztosítási nyugellátásról szóló törvény, illetve nemzetközi egyezmény alkalmazásával a 14. § (3) bekezdés a) és c) pontjában meghatározott saját jogú nyugellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 
 2. a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi nyugdíjban részesül,
 

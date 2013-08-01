@@ -14,7 +14,7 @@ e) bányászati keresetkiegészítésben vagy átmeneti bányászjáradékban r�
 
 f) gyermekgondozási segélyben,
 
-g) Magyarországon nyilvántartásba vett egyháztól, felekezettől nyugdíjban vagy a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi vagy rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
+g) egyházi jogi személytől nyugdíjban vagy a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi vagy rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
 
 h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, ápolási díjban, gyermeknevelési támogatásban
 

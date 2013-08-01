@@ -20,7 +20,7 @@ f) a kiegészítő tevékenységet folytatónak nem minősülő társas vállalk
 
 g) a díjazás ellenében munkavégzésre irányuló egyéb jogviszony keretében (megbízási szerződés alapján, egyéni vállalkozónak nem minősülő vállalkozási jogviszonyban) személyesen munkát végző személy – a külön törvényben meghatározott közérdekű önkéntes tevékenységet végző személy kivételével –, amennyiben az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, illetőleg naptári napokra annak harmincad részét,
 
-h) az egyházi szolgálatot teljesítő egyházi személy (a továbbiakban: egyházi személy), kivéve a saját jogú nyugdíjast,
+h) az egyházi szolgálati viszonyban álló egyházi személy, kivéve a saját jogú nyugdíjast,
 
 i) a mezőgazdasági őstermelő, ha a reá irányadó nyugdíjkorhatárig hátralévő idő és a már megszerzett szolgálati idő együttesen legalább 20 év, kivéve
 
