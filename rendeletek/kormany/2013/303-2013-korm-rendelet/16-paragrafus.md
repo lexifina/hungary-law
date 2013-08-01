@@ -1,0 +1,3 @@
+## 15. § A Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendelet 11. § (5) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(5) A személyi biztonsági tanúsítvány kiadásához – kivéve azon esetet, amikor a nemzetbiztonsági szolgálatokról szóló törvény alapján a Nemzeti Biztonsági Felügyelet elnöke a kezdeményező – a minősített adatot kezelő szerv biztonsági vezetője a (2) és (4) bekezdésben hivatkozott adatlapot a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott hozzájárulás vagy szakvélemény másolatával együtt megküldi a Nemzeti Biztonsági Felügyelet részére.”
