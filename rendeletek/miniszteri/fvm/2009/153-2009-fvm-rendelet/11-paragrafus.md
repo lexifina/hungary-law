@@ -10,7 +10,7 @@ a) a földrészlet vagy alrészlet használati jog alapján elkülönülő valam
 
 b) a földrészlet korábban különböző művelési ágú alrészleteinek összevonására erdőtelepítés vagy önerdősülés következtében került sor.
 
-(4) A nyilvántartásba vételt a Mezőgazdasági Szakigazgatási Hivatal Központja (a továbbiakban: az erdészeti hatóság központi szerve) által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon lehet kérelmezni:
+(4)[^16] A nyilvántartásba vételt a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: az erdészeti hatóság központi szerve) által rendszeresített, és a honlapján közzétett, az alábbi adatokat tartalmazó formanyomtatványon lehet kérelmezni:
 
 a) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 18. § (6) bekezdése szerinti adatok az (5) bekezdés szerint,
 
@@ -47,3 +47,5 @@ c) az Evt. 17. § (6) bekezdésének a) és b) pontjaiban foglaltak együttes fe
 (8) A nyilvántartásba vételi kérelmet nem kell elutasítani, amennyiben az erdő, vagy erdőgazdálkodás célját közvetlenül szolgáló, erdő művelési ágú földterület használatára vonatkozóan, az Evt. 19. § (2) bekezdésében foglaltak figyelembevétele mellett kötött szerződés – azok ismerete hiányában – nem tartalmazza az Evt. 18. § (6) bekezdése c) pontjának ce) és ch) alpontjaiban szereplő adatokat.
 
 (9) Az Evt. 11. § (1) bekezdésének c) pontja szerinti szabad rendelkezésű erdő használóját az erdészeti hatóság erdőgazdálkodóként nem veszi nyilvántartásba.
+
+[^16]: A 11. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 112. § a) pontja szerint módosított szöveg.

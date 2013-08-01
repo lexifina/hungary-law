@@ -1,8 +1,8 @@
 ## 20. § A külön jogszabályok szerinti védetté nyilvánítási eljárással érintett erdő rendeltetéseit a védetté nyilvánításról szóló jogszabály hatálybalépésével egyidejűleg kell a védelmi funkciónak megfelelően megváltoztatni.
 
-## A közjóléti létesítmények nyilvántartására vonatkozó szabályok[^17]
+## A közjóléti létesítmények nyilvántartására vonatkozó szabályok[^18]
 
-20/A. §[^18] (1) Az Adattárban a közjóléti létesítmény alábbi adatait kell nyilvántartani:
+20/A. §[^19] (1) Az Adattárban a közjóléti létesítmény alábbi adatait kell nyilvántartani:
 
 a) nevét, egyedi azonosítóját, típusát;
 
@@ -38,5 +38,5 @@ a) a turistaútvonal nyomvonalát legalább 5 m pontossággal;
 
 b) a turistaútvonal jelzését.
 
-[^17]: A 20/A. §-t megelőző alcímet a 30/2013. (IV. 30.) VM rendelet 8. § (3) bekezdése iktatta be.
-[^18]: A 20/A. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^18]: A 20/A. §-t megelőző alcímet a 30/2013. (IV. 30.) VM rendelet 8. § (3) bekezdése iktatta be.
+[^19]: A 20/A. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
