@@ -54,4 +54,4 @@ f) teljesítik gazdasági és anyagi szolgáltatási kötelezettségeiket,
 
 g) közreműködnek a különleges jogrend idején kiadott rendeletek és intézkedések végrehajtásában.
 
-(4) A társadalmi szervezetek, egyházak és karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan vehetnek részt a honvédelmi feladatok ellátásában.
+(4) A társadalmi szervezetek, a vallási közösségek és a karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan vehetnek részt a honvédelmi feladatok ellátásában.

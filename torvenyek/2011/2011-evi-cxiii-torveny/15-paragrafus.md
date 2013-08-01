@@ -6,7 +6,7 @@ b) a Honvédség és a rendvédelmi szervek,
 
 c) a közigazgatási, bírósági és ügyészségi szervek alaprendeltetésük, valamint honvédelmi feladataik ellátásához szükséges mértékben,
 
-d) az egyházak azon dolgok és jogok tekintetében, amelyek közvetlenül az egyházi, hitéleti feladatokat szolgálják,
+d) a vallási közösségek azon dolgok és jogok tekintetében, amelyek közvetlenül a hitéleti feladatokat szolgálják,
 
 e) az országgyűlési képviselettel rendelkező pártok, az országgyűlési képviseleti tevékenységhez szükséges mértékben,
 
