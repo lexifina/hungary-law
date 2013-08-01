@@ -1,8 +1,8 @@
-## 13. számú függelék[^400]
+## 13. számú függelék[^383]
 
 ## 14. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^401]
+## az Állategészségügyi Szabályzathoz[^384]
 
 ## 15. számú függelék
 
@@ -208,13 +208,13 @@ hatósági állatorvos
 
 16. számú függelék
 
-az Állategészségügyi Szabályzathoz
+az Állategészségügyi Szabályzathoz[^385]
 
 16. számú függelék az Állategészségügyi Szabályzathoz
 
 (Szigorú számadású nyomtatvány!) Sorszám: 00000000
 
-| Állategészségügyi és Élelmiszerellenőrző Állomás |  |
+| … Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága |  |
 
 |  | Negyedkód: |
 
@@ -374,5 +374,390 @@ Klórtartalmú fertőtlenítőszereket 30–40 °C-nál magasabb hőmérséklet�
 
 Klórtartalmú fertőtlenítőszereket melegtől, fénytől védett helyen üveg, műanyag vagy ép zománcú fémedényben kell tartani.
 
-[^400]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
-[^401]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+Felhasználás előtt hatékonyság szempontjából meg kell vizsgálni a kémhatását (pH) és az aktív klórtartalmát.
+
+Robbanás veszélye miatt a raktározás és felhasználás közben ügyelni kell arra, hogy klórtartalmú fertőtlenítőt formalinos tárolóedénybe – és fordítva – ne öntsenek. Célszerű a tárolóedényeket tartósan megjelölni.
+
+c) A fertőtlenítéshez szükséges fertőtlenítőoldat
+
+– mennyiségét,
+
+– a kijuttatás nyomását,
+
+– szemcsenagyságot a fertőtlenítendő felület minősége és nagysága, a megelőző takarítás színvonala határozza meg. Nagynyomású (10–20 bár) fertőtlenítő berendezés használata esetén az egy m2 fertőtlenítéséhez szükséges oldat mennyisége:
+
+– fólia 0,1 liter,
+
+– sima beton, csempével, olajfestékkel bevont felület 0,2 liter,
+
+– gyalulatlan deszka vagy meszelt felület 0,5 liter,
+
+– téglafelület 1 liter,
+
+– döngölt agyagfelület 1,5 liter,
+
+– laza, homok felület 3,0 liter.
+
+Kisnyomású fecskendő használata esetén a fenti oldatmennyiség másfélszeresét kell alkalmazni.
+
+4. A fertőtlenítés megkezdésekor a fertőtlenítést irányító hatósági állatorvosnak ügyelni kell arra, hogy
+
+– a fertőtlenítést végző személy egészségügyi alkalmasságát tanúsító okmánnyal rendelkezzen,
+
+– a fertőtlenítést végző dolgozó munkavédelmi oktatásban részesült-e,
+
+– a megfelelő munkavédelmi eszközök és öltözék rendelkezésre állnak-e (ezek: gumicsizma, vizet át nem eresztő overál, gumikesztyű, védősisak, gázálarc, védőszemüveg),
+
+– amennyiben az épületben állatok vannak, olyan fertőtlenítőszert kell alkalmazni, amely az állatok egészségét nem károsítja,
+
+– munka közben étkezni, dohányozni tilos,
+
+– a dolgozóknak az erősen savas vagy lúgos oldatok kezelése, keverése idején lehetőséget kell teremteni arra, hogy a bőrfelületre került anyagot azonnal lemossák (konyhasóoldat: 9 g 1 liter desztillált vízben, bórsavoldat: 10 g 1 liter desztillált vízben),
+
+– a fertőtlenítéshez olyan nyomást és szemcsenagyságot kell alkalmazni, hogy a tevékenység az építményben felesleges károsodást ne okozzon.
+
+II. A fertőtlenítés végrehajtása
+
+1. Az ember és környezetének fertőtlenítése
+
+Testfelület, textil, bőr, lakás, szociális helyiségek fertőtlenítése kizárólag az erre a célra a közegészségügyi hatóság által engedélyezett készítményekkel, az előírt módon végezhető.
+
+2. Az állattartási épületek és környezetük fertőtlenítése
+
+a) Egyszerű fertőtlenítés végrehajtásának sorrendje:
+
+– az épület áramtalanítása,
+
+– portalanítás vízpermettel,
+
+– technológiai berendezések kihordása,
+
+– trágya eltávolítása, a mennyezet, szellőző, kürtők, oldalfalak, padozat fizikai takarítása,
+
+– épület nagynyomású vízsugárral való mosása,
+
+– a kihordott technológiai berendezések mosása majd visszahordása a kimosott épületbe,
+
+– az épület környezetének takarítása, burkolt felületek nagynyomású vízsugárral való lemosása,
+
+– az épület belső terének (mennyezet, oldalfalak, padozat), továbbá a visszahordott berendezések magasnyomású fertőtlenítő berendezéssel való fertőtlenítése,
+
+– az épület nyílászáróinak zárása,
+
+– az épület külső felületének és környezetének fertőtlenítése.
+
+b) A szigorított fertőtlenítés végrehajtásának sorrendje:
+
+– az épület áramtalanítása,
+
+– az épület belső terének portalanítása a hatósági állatorvos által előírt nemű és koncentrációjú fertőtlenítő oldattal,
+
+– a portalanítás mellett, a fertőtlenítőoldattal a technológiai berendezéseket le kell mosni, a trágyát el kell áztatni,
+
+– a technológiai berendezéseket ki kell hordani,
+
+– a trágyát ki kell hordani, a telep területén szarvasba kell rakni, le kell fertőtleníteni földdel le kell takarni,
+
+– gépi és kézi eszközökkel az épület fizikai takarítását el kell végezni, a takarításnak az épület belső légterén kívül ki kell terjedni a padlástérre és a trágyacsatornára is,
+
+– az épület belső mosását magasnyomású vízsugárral kell elvégezni,
+
+– a nem tisztítható fából készült berendezéseket el kell égetni,
+
+– az agyagpadozatot 10 cm mélységben fel kell szedni,
+
+– a vízáteresztő padlóburkolatot fel kell szedni,
+
+– kifutók, karámok takarítása, mosása,
+
+– az épületen kívül megtisztított berendezések visszahordása,
+
+– az épület belső terének, padlásterének, trágyacsatornájának fertőtlenítése a betegségre meghatározott nemű és koncentrációjú magasnyomású (10–20 bár) berendezéssel kijuttatott fertőtlenítőszerrel,
+
+– az épület zárása,
+
+– az épület külső felületének, környezetének, utaknak a fertőtlenítése,
+
+– bejelentési kötelezettség alá tartozó fertőző állatbetegség esetén fertőtleníteni kell mindazokat a helyeket és helyiségeket, ahol beteg, betegségre gyanús állat megfordult, tartózkodott, elhullott vagy levágták, illetve leölték, ahova az állat terméke eljutott.
+
+Fertőtleníteni kell azon személyeket, illetve tartózkodási helyüket, akik a beteg, betegségre gyanús állatokkal vagy termékeikkel kapcsolatba kerültek.
+
+Egyes bejelentési kötelezettség alá tartozó fertőző állatbetegségek
+
+megelőzésénél és leküzdésénél használható fertőtlenítőszerek
+
+Betegség
+
+Fertőtlenítési útmutató
+
+-------------------------
+
+1. Ragadós száj- és körömfájás
+
+Habzó szóda 4%
+
+(Nátrium-karbonát)
+
+Klórlúg 3%
+
+Formalin 3% (15 °C felett)
+
+Citromsav 0,4% – pH 4 alatt
+
+Ortofoszforsav 0,3% – pH 4 alatt
+
+Szulfaninsav 0,2% – pH 6 alatt
+
+Jodoforok 2,0%
+
+Nátrium-hidroxid 2,0%
+
+Nátrium-metaszilikát 1,0%
+
+Továbbá minden olyan készítmény,
+
+melynek pH-ja 4 alatt vagy 11 felett van
+
+2. Sertések hólyagos betegsége
+
+Nátrium-hidroxid 1–2%
+
+Kálium-hidroxid 1–2%
+
+Klórlúg 3–5%
+
+Jodoforok 2,0%
+
+Megjegyzés: formalin használata tilos!
+
+3. Keleti marhavész
+
+Klórlúg 3,0%
+
+Formalin 3,0%
+
+4. Afrikai sertéspestis
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0%
+
+5. Klasszikus sertéspestis
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0%
+
+6. Madárinfluenza
+
+(klasszikus baromfipestis) Kálium-hidroxid 2,0%
+
+Nátrium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+7. Newcastle-betegség (baromfipestis)
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+8. Szarvasmarha-gümőkór
+
+Klórlúg 6,0%
+
+9. Fertőző sertésbénulás
+
+Klórlúg 3,0%
+
+10. Veszettség
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+11. Takonykór
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C felett)
+
+12. Lovak fertőző kevésvérűsége
+
+Nátrium-hidroxid 4,0%
+
+Kálium-hidroxid 4,0%
+
+Klórlúg 4,0%
+
+13. Nyulak vérzéses betegsége
+
+Formalin 4,0% (15 °C külső hőm. felett)
+
+Klórlúg 4,0%
+
+Nátrium-hidroxid 4,0%
+
+14.[^386]
+
+15. Brucellózis
+
+Nátrium-hidroxid 2,0%
+
+Kálium-hidroxid 2,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+16. Aujeszky-féle betegség Nátrium-hidroxid 3,0%
+
+Kálium-hidroxid 3,0%
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+17. Lépfene
+
+Klórlúg 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+18. Pontyfélék tavaszi viraemiája
+
+Klórlúg 5,0%
+
+Klórmészoldat 3,0%
+
+Formalin 3,0% (15 °C külső hőm. felett)
+
+Mésztej 20%
+
+3. Takarmány és göngyöleg fertőtlenítése
+
+A takarmányban levő száj- és körömfájás vírus az alábbi módon pusztítható el:
+
+– Az épületekbe kihordott szálastakarmányt, szilázst a trágyával azonos módon kell ártalmatlanná tenni.
+
+– Az épületekhez tartozó tartályokban (silókban) etetőberendezésekben levő abraktakarmányt el kell ásni vagy állati hulladék feldolgozóba kell feldolgozni.
+
+– Hideg fermentációval (silózással), ha a pH-érték legfeljebb 4 (szükség esetén a pH-érték hangyasavval beállítható).
+
+– Meleg fermentációval (silózással), ha a hőmérséklet legalább 55 °C szúróhőmérővel ellenőrizve.
+
+– A szálas takarmány (kazal) felületének 3%-os formalinoldat 15 °C alatti hőmérsékleten vagy szerves savakból készült oldat kipermetezésével.
+
+– Forró levegős szárítással, ha a kiáramló levegő hőmérséklete legalább 80 °C.
+
+– Gőzzel való granulálással, ha a granulátum 80 °C-ra felmelegszik (célszerű a hőmérsékletet 20–30 percig fenntartani).
+
+– Szemes kukorica legfeljebb pH 4 kémhatású propinsavval történő átmosásával, esetleges utólagos silózással.
+
+– A fertőzött szemes árpát, zabot és takarmánybúzát 0,8%-os formaldehid-oldat gőzével lehet fertőtleníteni (10 liter/100 kg takarmány mennyiségben), a permetezés után vizet át nem eresztő műanyag fóliával a fertőtlenített szemestakarmányt le kell fedni és 6 órán át így tartani. A takarmányt felhasználás előtt 24 óráig szellőztetni kell, és elsősorban nem fogékony állatokkal etetni.
+
+– A silózott szemes kukorica- vagy kukoricacső-zúzalék bontási felületének 1%-os hangyasavoldattal való permetezésével (3 liter/m2).
+
+– A burgonya felfőzésével.
+
+– A tej forralásával vagy 80 °C-ra való melegítésével.
+
+– A takarmánynövényzet vagy legelőgyep felületére m2-enként 0,3–1 liter 3%-os klórlúgoldat vagy 10%-os vizes szuperfoszfát permetezhető a növényzet számottevő károsodása nélkül.
+
+– Jutazsákokat porszívózás után 20 órára olyan zárt és legalább 18 °C-ra fűtött térben kell felfüggeszteni, amelyben légköbméterenként 150 cm3 formalint ugyanannyi vízzel elpárologtatnak (pl. 40 g káliumpermanganáttal vagy melegítve), a porzsák tartalmát a hullákkal azonos módon kell ártalmatlanná tenni.
+
+– A fóliás vagy szövött műanyag zsákokat, szárítóberendezés esetén a jutazsákokat is, 3 órára 5%-os formalinoldatban vagy 2%-os nátronlúgoldatban kell áztatni.
+
+Fenti eljárást kell értelemszerűen alkalmazni valamennyi bejelentési kötelezettség alá tartozó állatbetegség esetén.
+
+4.[^387] A kutak fertőtlenítése
+
+Kutakat klórmésszel, magnolmésszel vagy klórlúggal kell fertőtleníteni.
+
+Ásott kút fertőtlenítéséhez minden m3 vízre 30 g magnolmeszet vagy 100 cm3 klórlúgot kell számítani, és azt 0,3 liter vízben feloldva, teljes oldódás után a kútba kell önteni. A kútból 24 óráig vizet meríteni nem szabad.
+
+Fúrt kút fertőtlenítése céljából 100 g magnolmeszet vagy 300 cm3 klórlúgot kell 1 liter vízben feloldani, és az oldatot a fúrás csövébe kell önteni. Ez az eljárás csak a 30–40 m mélységű fúrt kutakra vonatkozik.
+
+Ennél mélyebb fúrt kutak fertőtlenítése esetén a területileg illetékes vízügyi hatóságot értesíteni kell.
+
+A víztárolót ugyanúgy kell fertőtleníteni mint az ásott kutat, de mind a klórmészből, magnolmészből vagy klórlúgból, mind pedig az oldóvízből kétszeres mennyiséget kell felhasználni.
+
+A kútvíznek 24 óra múlva még klórszagúnak és klórízűnek kell lennie (túlklórozás), ellenkező esetben a klórozást meg kell ismételni. Ha a klórszag és a klóríz nem érezhető, a kutat alaposan ki kell merni. A fúrt kút vizet addig kell szivattyúzni, amíg a víz klórszagát és ízét elveszti.
+
+A kút súlyosabb fertőzöttségének gyanúja esetén a fertőtlenítést kétszer-háromszor meg kell ismételni.
+
+5. A szennyvíz és a trágya fertőtlenítése
+
+A) A bejelentési kötelezettség vagy mentesítési eljárás alá vont betegségek kórokozóival nem fertőzött állattartó telepeken a trágyalé- és hígtrágyacsatornák, továbbá -aknák tartalmát, a fürösztők, az úsztatómedencék és a pocsolyák vizét a következő módszerekkel lehet ártalmatlanná tenni.
+
+a) Fizikai módszerekkel végzett fertőtlenítés:
+
+– pasztőrözés (30 percig 70 °C-on),
+
+– pillanatsterilezés (15–20 másodpercig 120–130 °C-on),
+
+– háromszakaszos hőkezelés (3 X 20 percig 90–110 °C-on),
+
+– hővel történő szárítás (110–280 °C-on),
+
+– gammasugarak vagy elektrongyorsítóval előállított bétasugarak (min. 4kGy.).
+
+b) Kémiai módszerekkel végzett fertőtlenítés:
+
+– égetett mész legalább 20 kg/m3 vagy oltott mész legalább 30 kg/m3,
+
+– a vegyhatás módosítása meszezéssel (3 órán át pH 12),
+
+– 0,1–4%-os formalinoldat létesítése (pH 9,5–10,5 és min. 15 °C esetén).
+
+c) Biológiai és kombinált módszerek:
+
+– hosszú idejű tárolás (90 nap 15–20 °C-on, 140 nap 4–6 °C-on),
+
+– mechanikai, kémiai, biológiai kezelés kiegészítése meszezéssel (2 órán át, pH 10,5–11,5),
+
+– folyékony komposztálás (levegőbevitel 4–5 napig 50 °C-on, majd 21 nap tárolás),
+
+– anaerob rothasztás (30 napig min. 30 °C-on), és
+
+– szűrőmezőn történő elhelyezés (min. 180 cm-es talajrétegen való szűrés, a szűrőkazettákat be kell keríteni.
+
+d) Várakozási idők megtartása növényzet öntözése után: egyszerű fertőtlenítésnek minősül az, ha szálastakarmány és legelőnövényzet öntözése után a begyűjtésig vagy a legelőre hajtásig 21 nap telik el, továbbá a takarmánygabonát szárbaszökkenése, a kukoricanövényt a 30 cm-es szármagasság elérése után nem öntözték.
+
+B) A bejelentési kötelezettség vagy mentesítési eljárás alá vont betegségek kórokozóival történt fertőzöttség esetén a trágyalé-, hígtrágyacsatornák és -aknák, továbbá a fürösztők, úsztatómedencék és pocsolyák tartalmát a betegségenként meghatározott fertőtlenítő oldat létesítésével kell fertőtleníteni. Ezután a nem fertőtleníthető medencék tartalmával együtt – tartálykocsival, csővezetéken – a fertőtlenített szennyvizet (híg trágyát) ki kell juttatni a kijelölt zárlattérre: a szántóterületen esőztetve kell kiöntözni, a talajra teríteni, mélyárkos módszerrel a füzesek vagy nyárfások, mélybarázdás módszerrel a kukorica területe öntözhető. A szennyvíz (hígtrágya) elszikkadása után az öntözött területet le-, illetőleg beszántással vagy más módon le kell földelni. A beszántás minőségének ellenőrzésére az előzetesen a talajra vitt mészpor eltűnéséből lehet következtetni.
+
+6. Az almostrágya és a hígtrágya szilárd fázisának fertőtlenítése
+
+a) A tisztítás alatt és az azt megelőzőleg összegyűjtött almostrágyát, almot, takarmányhulladékot, szemetet, valamint a fertőtlenített helyiség talajáról kihordott földet, homokot – a szennyvizet és trágyalevet is hozzákeverve – és lehetőleg a hígtrágya szilárd fázisát fülleszteni kell. A füllesztés céljából összegyűjtött anyaghoz szükség szerint annyi szalmát vagy falevelet kell keverni, hogy az utóbbi aránya a bélsárhoz 3:2 legyen, ha pedig száraz, m3-enként 10–15 liter vizet kell adni. A füllesztendő anyagot 25 cm vastag szalma- (falevél-) rétegre legalább 1,5 méter magas és széles kupacokba (halomba) kell rakni és a tetejére legalább 10 cm vastag szalma- (falevél-) réteget kell helyezni, majd az egészet 20 cm vastag földréteggel kell befedni.
+
+A befedett trágyarakásnak legalább 55 °C-ra kell felmelegednie, a hőmérsékletet szúróhőmérővel ellenőrizni kell. A kellőképpen fel nem melegedett szélső részeket 3 nap múlva a halom közepébe kell lapátolni, majd a halmot újból földdel befedni és legalább három hétig bontatlanul hagyni.
+
+A spórák kivételével a kórokozók ennyi idő alatt elpusztulnak.
+
+[^383]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
+[^384]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^385]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja szerint módosított szöveg.
+[^386]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^387]: Az 1. melléklet 18. számú függelék II. 4. pontja a 147/2011. (XII. 23.) VM rendelet 6. §-a szerint módosított szöveg.
