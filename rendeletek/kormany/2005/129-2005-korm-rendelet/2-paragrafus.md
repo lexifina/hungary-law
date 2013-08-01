@@ -6,7 +6,7 @@ b) értékeli, elemzi a szociális és gyermekvédelmi tárgyú jogszabályok ha
 
 c) az állami és önkormányzati szerveknél kezdeményezheti a régióban élők szociális szükségleteinek felmérését, javaslatot tehet regionális szintű kutatási és fejlesztési programokra, figyelemmel kíséri ezek megvalósítását,
 
-d)[^1] együttműködik a helyi önkormányzatokkal, az egyházi és a nem állami fenntartókkal, valamint az ellátást nyújtó szolgáltatókkal és intézményekkel a szociális és gyermekjóléti-gyermekvédelmi ellátórendszer regionális fejlesztése, az ellátási hiányok kiküszöbölése, továbbá egyéb szociális problémák megoldása érdekében.
+d)[^1] együttműködik a helyi önkormányzatokkal, az egyházi fenntartókkal és a nem állami fenntartókkal, valamint az ellátást nyújtó szolgáltatókkal és intézményekkel a szociális és gyermekjóléti-gyermekvédelmi ellátórendszer regionális fejlesztése, az ellátási hiányok kiküszöbölése, továbbá egyéb szociális problémák megoldása érdekében.
 
 (2) A regionális szociálpolitikai tanács 15 tagból áll. A regionális szociálpolitikai tanács
 
@@ -48,5 +48,5 @@ d) a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány képviselője.
 
 (5) A regionális szociálpolitikai tanács feladatainak végrehajtására, javaslatainak, állásfoglalásainak, véleményeinek, illetve döntéseinek előkészítésére – az ügyrendjében meghatározottak szerint – a tagjaiból vagy más szakértőkből állandó és eseti bizottságokat hozhat létre.
 
-[^1]: A 2. § (1) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^1]: A 2. § (1) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 9. §-ával megállapított, a 297/2013. (VII. 29.) Korm. rendelet 29. §-a szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdés b) pontja a 67/2012. (IV. 5.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
