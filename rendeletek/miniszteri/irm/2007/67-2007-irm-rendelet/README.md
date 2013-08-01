@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-67-20-1
 | 2013-01-01 | 2007-67-20-1U.12 | 16/2010. (IV. 27.) IRM rendelet |
 | 2013-06-21 | 2007-67-20-1U.13 | 16/2010. (IV. 27.) IRM rendelet |
 | 2013-06-30 | 2007-67-20-1U.14 | 16/2010. (IV. 27.) IRM rendelet |
+| 2013-08-01 | 2007-67-20-1U.15 | 24/2013. (VI. 20.) BM rendelet |

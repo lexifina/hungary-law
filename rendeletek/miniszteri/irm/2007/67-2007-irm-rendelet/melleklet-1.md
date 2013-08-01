@@ -1,4 +1,4 @@
-1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^7]
+1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^8]
 
 1. BARANYA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -7410,12 +7410,14 @@
 
 21.1. Repülőtéri Rendőr Igazgatóság
 
-21.1.1. Budapest Ferihegy Nemzetközi Repülőtér
+21.1.1. Budapest Liszt Ferenc Nemzetközi Repülőtér
 
-21.1.2. Ferihegy–1 terminál légi határátkelőhely
+21.1.2. Budapest Liszt Ferenc Nemzetközi Repülőtér 1. terminál légi határátkelőhely
 
-21.1.3. Ferihegy–2/A terminál légi határátkelőhely
+21.1.3. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/A. terminál légi határátkelőhely
 
-21.1.4. Ferihegy–2/B terminál légi határátkelőhely
+21.1.4. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/B. terminál légi határátkelőhely
 
-[^7]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–3. §-a szerint módosított szöveg.
+21.1.5. A légiforgalmi szolgálat központi létesítménye
+
+[^8]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–3. §-a és 6. §-a szerint módosított szöveg.
