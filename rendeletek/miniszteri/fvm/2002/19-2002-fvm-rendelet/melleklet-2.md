@@ -6,7 +6,7 @@
 
 ## Igazolom, hogy a 19/2002. (III. 8.) FVM rendeletben előírt módon
 
-## a .......................-i Állategészségügyi Intézetben elvégzett hivatalos vizsgálatok alapján a
+## a ....................... a NÉBIH-ben elvégzett hivatalos vizsgálatok alapján a
 
 ## név: ..........................
 
