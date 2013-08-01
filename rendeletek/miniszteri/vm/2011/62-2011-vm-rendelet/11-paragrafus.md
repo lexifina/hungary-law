@@ -1,4 +1,4 @@
-## 10. §[^4]
+## 10. § Azon létesítményekben, amelyekben a 852/2004/EK rendelet szerint illemhelyet kell biztosítani, a személyzet részére kézmosóval ellátott, a vendégek részére fenntartott illemhelytől elkülönített illemhelyet, vagy illemhely-használati lehetőséget kell biztosítani.
 
 11. § (1) Az alapanyag, a hőkezelést igénylő félkész termék, valamint a késztermék csak külön hűtőtérben tárolható.
 
@@ -17,5 +17,3 @@ e) nyers tej.
 (3) A fogyasztásra közvetlenül alkalmas élelmiszerek, hőkezelést nem igénylő félkész- és késztermékek egy hűtőtérben is tárolhatók.
 
 (4) A fagyasztott, teljes felületükön becsomagolt alapanyagok, félkész termékek és késztermékek közös mélyhűtő-térben is tárolhatók.
-
-[^4]: A 10. § a 23. § (3) bekezdése alapján 2013. augusztus 1-jén lép hatályba.

@@ -6,6 +6,6 @@
 
 (3) A 10. § 2013. augusztus 1-jén lép hatályba.
 
-(4)[^7]
+(4)[^6]
 
-[^7]: A 23. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 23. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
