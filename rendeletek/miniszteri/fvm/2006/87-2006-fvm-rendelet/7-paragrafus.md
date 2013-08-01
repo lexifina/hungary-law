@@ -1,16 +1,16 @@
-7. § (1) Az MgSzH Központja az ültetvények helyszíni minősítése, szemléje alapján határozatot hoz arról, hogy az ültetvényt milyen kategóriájúnak fogadja el, illetve engedélyezi-e az ültetvényből szaporítóanyag szedését, forgalomba hozatalát. A törzsültetvényekben a meghatározott kategóriában történt elfogadásukat követően tőkepótlás csak megfelelő származásfokozatú szaporítóanyaggal és az MgSzH Központjának engedélyével végezhető.
+7. § (1)[^13] A NÉBIH az ültetvények helyszíni minősítése, szemléje alapján határozatot hoz arról, hogy az ültetvényt milyen kategóriájúnak fogadja el, illetve engedélyezi-e az ültetvényből szaporítóanyag szedését, forgalomba hozatalát. A törzsültetvényekben a meghatározott kategóriában történt elfogadásukat követően tőkepótlás csak megfelelő származásfokozatú szaporítóanyaggal és a NÉBIH-nek engedélyével végezhető.
 
 (2) Nemes, illetve alany szőlővesszőt csak olyan szaporítás céljára telepített vagy előkészített ültetvényben szabad forgalomba hozatal céljából előállítani, amelynek
 
-a) fajtája, klónja szerepel a Nemzeti Fajtajegyzékben, illetve a fajtajelölt szaporítását a minisztérium, a klónjelölt szaporítását az MgSzH Központja engedélyezte – kivéve, ha a szaporítás harmadik országba, export bértermelés céljára történik –, vagy valamely tagállam nemzeti fajtajegyzékében szerepel vagy klónja regisztrált,
+a)[^14] fajtája, klónja szerepel a Nemzeti Fajtajegyzékben, illetve a fajtajelölt szaporítását a minisztérium, a klónjelölt szaporítását a NÉBIH engedélyezte – kivéve, ha a szaporítás harmadik országba, export bértermelés céljára történik –, vagy valamely tagállam nemzeti fajtajegyzékében szerepel vagy klónja regisztrált,
 
 b) a növényegészségügyi előírásoknak megfelel,
 
 c) kategóriája prebázis, bázis vagy certifikált törzsszőlő, illetve standard szőlőültetvény,
 
-d) az MgSzH Központja általi minősítése, standard kategória esetében az MgSzH Központja általi évenkénti ellenőrzése megtörtént, és az 1., 7. és 8. számú melléklet követelményeinek is megfelel.
+d)[^15] a NÉBIH általi minősítése, standard kategória esetében a NÉBIH általi évenkénti ellenőrzése megtörtént, és az 1., 7. és 8. számú melléklet követelményeinek is megfelel.
 
-(3) A szaporítás céljára kijelölt ültetvények esetén
+(3)[^16] A szaporítás céljára kijelölt ültetvények esetén
 
 a) a kiinduló állományok prebázis kategóriába történő elfogadását,
 
@@ -18,17 +18,17 @@ b) a bázis és certifikált törzsültetvények minősítését, ellenőrzésé
 
 c) a prebázis előtti kiindulási állományok, standard ültetvények és törzsültetvény jelöltek (fiatal, még nem termő ültetvények) ellenőrzését
 
-## az erre rendszeresített bejelentő lapon a tárgyév május 20-ig az MgSzH Központjától kell kérni, a 2. számú melléklet szerinti bejelentő lapot a tárgyév február 28-áig az MgSzH Központjától kell kérni.
+## az erre rendszeresített bejelentő lapon a tárgyév május 20-ig a NÉBIH-től kell kérni, a 2. számú melléklet szerinti bejelentő lapot a tárgyév február 28-áig a NÉBIH-től kell kérni.
 
-(4) Az MgSzH területi szervétől a szaporítás céljára kijelölt ültetvények évenkénti ellenőrzését a 7/2001. (I. 17.) FVM rendeletben foglaltak alapján kell kérni.
+(4)[^17] A növény- és talajvédelmi igazgatóságtól a szaporítás céljára kijelölt ültetvények évenkénti ellenőrzését a 7/2001. (I. 17.) FVM rendeletben foglaltak alapján kell kérni.
 
-(5) A szaporítás célját szolgáló prebázis, bázis és certifikált törzsültetvényekben, törzsültetvény jelöltekben a fajtafenntartó vagy megbízottja, a szaporításra ideiglenesen engedélyezett (standard) ültetvényekben a szaporítóüzem köteles folyamatos fajtafenntartó szelektálást végezni, vírustesztelt állományokban a 8. számú mellékletben előírt technológiát és izolációs távolságot megtartani, az ültetvényeket minősítésre, szemlére, standard kategória esetén ellenőrzésre előkészíteni. A fajtafenntartás végzéséről a fajta, illetve a klónok fenntartásáért felelős személynek naprakész nyilvántartást kell vezetnie. Amennyiben a fajtafenntartó nemesítés nem ugyanabban a tagállamban történik, amelyben az adott fajtát engedélyezték, az MgSzH Központi, illetve területi szervei segítséget nyújtanak az érintett tagállam hatóságainak.
+(5)[^18] A szaporítás célját szolgáló prebázis, bázis és certifikált törzsültetvényekben, törzsültetvény jelöltekben a fajtafenntartó vagy megbízottja, a szaporításra ideiglenesen engedélyezett (standard) ültetvényekben a szaporítóüzem köteles folyamatos fajtafenntartó szelektálást végezni, vírustesztelt állományokban a 8. számú mellékletben előírt technológiát és izolációs távolságot megtartani, az ültetvényeket minősítésre, szemlére, standard kategória esetén ellenőrzésre előkészíteni. A fajtafenntartás végzéséről a fajta, illetve a klónok fenntartásáért felelős személynek naprakész nyilvántartást kell vezetnie. Amennyiben a fajtafenntartó nemesítés nem ugyanabban a tagállamban történik, amelyben az adott fajtát engedélyezték, a NÉBIH, illetve a növény- és talajvédelmi igazgatóság segítséget nyújtanak az érintett tagállam hatóságainak.
 
 (6) Prebázis, bázis és certifikált szaporítóanyag előállítását szolgáló szőlőiskola vagy törzsültetvény mellé nem telepíthető standard, nem vírustesztelt szőlőiskola vagy áruszőlő, valamint szomszédságában nem termeszthetők a 8. számú melléklet II. fejezetének 2.1.2. pontjában felsorolt növényfajok, amelyek gazdanövényei a szőlőt károsító vírusoknak. Prebázis, bázis és certifikált szaporítóanyag előállítása során a 8. számú melléklet II. fejezetének 2.1.1. pontjában meghatározott izolációs távolságot kell tartani.
 
-(7) A prebázis, bázis és certifikált ültetvényeket az MgSzH területi szerve meghatározott károsítóktól való mentesség szempontjából évente minden növényre kiterjedően vizsgálja, az e rendeletben előírt teszteléseket a Módszertani útmutatóban rögzített, nemzetközileg elfogadott eljárás szerint elvégzi és ennek eredményéről a termelőt határozatban értesíti, az MgSzH Központjának igazolást ad a növényútlevél kiadásának céljából.
+(7)[^19] A prebázis, bázis és certifikált ültetvényeket a növény- és talajvédelmi igazgatóság meghatározott károsítóktól való mentesség szempontjából évente minden növényre kiterjedően vizsgálja, az e rendeletben előírt teszteléseket a Módszertani útmutatóban rögzített, nemzetközileg elfogadott eljárás szerint elvégzi és ennek eredményéről a termelőt határozatban értesíti, a NÉBIH-nek igazolást ad a növényútlevél kiadásának céljából.
 
-(8) Az MgSzH Központja az éves minősítés, illetve ellenőrzés során ellenőrzi
+(8)[^20] A NÉBIH az éves minősítés, illetve ellenőrzés során ellenőrzi
 
 a) az előző évi forgalmazásról vezetett nyilvántartást,
 
@@ -39,3 +39,12 @@ c) a növényállományból kipusztult, eltávolított egyedekről vezetett nyil
 d) a növényállomány szaporításra alkalmas állapotát,
 
 e) a várható szaporító alapanyag mennyiségét, és
+
+[^13]: A 7. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § d) és h) pontja szerint módosított szöveg.
+[^14]: A 7. § (2) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^15]: A 7. § (2) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^16]: A 7. § (3) bekezdés záró szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § f) pontja szerint módosított szöveg.
+[^17]: A 7. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § i) pontja szerint módosított szöveg.
+[^18]: A 7. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § j) pontja szerint módosított szöveg.
+[^19]: A 7. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § d) és g) pontja szerint módosított szöveg.
+[^20]: A 7. § (8) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § h) pontja szerint módosított szöveg.

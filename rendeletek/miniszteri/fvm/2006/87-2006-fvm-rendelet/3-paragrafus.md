@@ -30,11 +30,11 @@ bd) dugványiskolai szőlővesszők: gyökeres szőlővesszők előállításár
 
 6. Nemes szőlővessző: az európai szőlőnek (Vitis vinifera) és fajhibridjeinek egyéves, elfásodott szárrésze, amelyet oltóvesszőként tőkeátoltás vagy gyökeres szőlőoltvány előállításának céljára, dugványvesszőként gyökeres európai szőlődugvány előállításának céljára termeltek.
 
-7. Szaporításra engedélyezett klón: államilag elismert fajta állami elismerésre bejelentett, a Mezőgazdasági Szakigazgatási Hivatal Központjának (a továbbiakban: MgSzH Központja) vizsgálata alatt álló klónjelöltje, amelynek szaporítását az MgSzH Központja engedélyezte.
+7.[^1] Szaporításra engedélyezett klón: államilag elismert fajta állami elismerésre bejelentett, a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) vizsgálata alatt álló klónjelöltje, amelynek szaporítását a NÉBIH engedélyezte.
 
-8. Fajtajelölt: az MgSzH Központjához állami elismerés céljából bejelentett, vizsgálat alatt álló fajta.
+8.[^2] Fajtajelölt: a NÉBIH-hez állami elismerés céljából bejelentett, vizsgálat alatt álló fajta.
 
-9. Klónjelölt: az MgSzH Központjához állami elismerés céljából bejelentett, vizsgálat alatt álló klón.
+9.[^3] Klónjelölt: a NÉBIH-hez állami elismerés céljából bejelentett, vizsgálat alatt álló klón.
 
 10. Szaporítás célját szolgáló növényállományok: olyan ültetvények, növényállományok, szőlőiskolák, amelyek szőlő továbbszaporítását szolgálják.
 
@@ -58,7 +58,7 @@ bd) dugványiskolai szőlővesszők: gyökeres szőlővesszők előállításár
 
 20. Szőlőiskola: ültetési anyagot előállító szaporító terület, szaporító ház, üvegház stb. a benne lévő növényállománnyal, amely forgalomba hozatal céljára létesítés esetén árutermelő szőlőiskola, saját célra történő előállítás esetén házi szőlőiskola lehet.
 
-21. Előszaporító szőlőiskola: prebázis és bázis ültetési anyag előállítására e rendeletben meghatározott feltételeket biztosító, az MgSzH Központja által e célra engedélyezett szőlőiskola.
+21.[^4] Előszaporító szőlőiskola: prebázis és bázis ültetési anyag előállítására e rendeletben meghatározott feltételeket biztosító, a NÉBIH által e célra engedélyezett szőlőiskola.
 
 22. Vírustesztelt növényállomány, illetve szaporítóanyag: zárlati károsítóktól mentes, valamint a 7. számú mellékletben felsorolt károsítók által nem fertőzött növényállomány és szaporítóanyag, amelyet a nemzetközileg elfogadott tesztelési eljárásokkal igazoltak, és a szaporítás során megtartották a vírusmentességet biztosító technológiai előírásokat, és a hivatalos vizsgálat alkalmával e rendelet szerinti követelményeknek megfelelt.
 
@@ -72,6 +72,12 @@ bd) dugványiskolai szőlővesszők: gyökeres szőlővesszők előállításár
 
 27. Szaporítóanyag tétel: azonos fajtájú, klónú, oltvány esetében alanyú, kategóriájú, származási helyű és vírusállapotú szaporítóanyag egy egységként kezelt mennyisége.
 
-28. Certifikációs (tanúsító) címke: a certifikációs rendszerben előállított szaporítóanyag-tétel növényeire, illetve kötegeire a forgalmazó által felhelyezett, annak kategóriáját tanúsító, fémzár jellegű jelölés, amelyet az MgSzH Központja azonosíthatóan megjelölve ad ki a forgalmazónak, és amely tartalmazza a felhasználó számára szükséges összes adatot, beleértve a növényútlevél adatait is.
+28.[^5] Certifikációs (tanúsító) címke: a certifikációs rendszerben előállított szaporítóanyag-tétel növényeire, illetve kötegeire a forgalmazó által felhelyezett, annak kategóriáját tanúsító, fémzár jellegű jelölés, amelyet a NÉBIH azonosíthatóan megjelölve ad ki a forgalmazónak, és amely tartalmazza a felhasználó számára szükséges összes adatot, beleértve a növényútlevél adatait is.
 
 (2) E rendelet vonatkozásában a növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet [a továbbiakban: 7/2001. (I. 17.) FVM rendelet] fogalommeghatározásait is alkalmazni kell.
+
+[^1]: A 3. § (1) bekezdés 7. pontja a 70/2013. (VII. 31.) VM rendelet 59. § a)–b) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés 8. pontja a 70/2013. (VII. 31.) VM rendelet 59. § c) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés 9. pontja a 70/2013. (VII. 31.) VM rendelet 59. § c) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés 21. pontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés 28. pontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.

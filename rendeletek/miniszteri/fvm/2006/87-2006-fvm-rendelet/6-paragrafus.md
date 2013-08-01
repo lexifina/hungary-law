@@ -14,6 +14,9 @@ e) az ültetési anyagot előállító üzem nyilatkozatát vagy a két fél kö
 
 f) a termékpálya szerinti terméktanácsi tagságról szóló igazolást,
 
-g) nyilatkozatot arra nézve, hogy az ültetvény törzsültetvénykénti fenntartását vállalja, beleértve a szőlőgyümölcs termelésének korlátozását, és kéri az ültetvény évenkénti ellenőrzését a Mezőgazdasági Szakigazgatási Hivatal területi szervétől (a továbbiakban: MgSzH területi szerve), illetve évenkénti ellenőrzését és minősítését az MgSzH Központjától.
+g)[^11] nyilatkozatot arra nézve, hogy az ültetvény törzsültetvénykénti fenntartását vállalja, beleértve a szőlőgyümölcs termelésének korlátozását, és kéri az ültetvény évenkénti ellenőrzését a megyei kormányhivatal növény- és talajvédelmi igazgatóságától (a továbbiakban: növény- és talajvédelmi igazgatóság), illetve évenkénti ellenőrzését és minősítését a NÉBIH-től.
 
-(3) Az MgSzH Központja a kérelemben megjelölt telepítési területen szemlét tart, és a kérelem, valamint a helyszíni szemle és az MgSzH területi szerve által végzett, növényegészségügyi és talajalkalmasság vizsgálat alapján dönt az előzetes engedélyezésről. Döntéséről értesíti a termelőt és a termékpálya szerinti terméktanácsot.
+(3)[^12] A NÉBIH a kérelemben megjelölt telepítési területen szemlét tart, és a kérelem, valamint a helyszíni szemle és a növény- és talajvédelmi igazgatóság által végzett, növényegészségügyi és talajalkalmasság vizsgálat alapján dönt az előzetes engedélyezésről. Döntéséről értesíti a termelőt és a termékpálya szerinti terméktanácsot.
+
+[^11]: A 6. § (2) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 59. § e)–f) pontja szerint módosított szöveg.
+[^12]: A 6. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § g)–h) pontja szerint módosított szöveg.

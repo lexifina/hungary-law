@@ -1,16 +1,16 @@
 ## Lerakati forgalomba hozatal
 
-15. § (1) Szőlő ültetési anyag kistételes forgalomba hozatala a szőlőiskolai engedélyes telephelyén kívül lerakatban vagy egyéb értékesítő helyen (a továbbiakban: árusítóhely) az MgSzH Központjának előzetes engedélyével történhet.
+15. § (1)[^49] Szőlő ültetési anyag kistételes forgalomba hozatala a szőlőiskolai engedélyes telephelyén kívül lerakatban vagy egyéb értékesítő helyen (a továbbiakban: árusítóhely) a NÉBIH-nek előzetes engedélyével történhet.
 
-(2) Az MgSzH Központja az árusítóhely létesítését akkor engedélyezi, ha
+(2)[^50] A NÉBIH az árusítóhely létesítését akkor engedélyezi, ha
 
 a) az árusítóhely vezetője vagy állandó alkalmazottja legalább kertészeti vagy növénytermesztési, legalább szakmunkás végzettséggel rendelkezik,
 
 b) az árusítóhelyen a szakmai feltételek biztosítottak, adottak az ültetési anyag életképességének, épségének megőrzésére, az egyes tételek elkülönítésére, megjelölésére vonatkozó feltételek,
 
-c) az MgSzH területi szerve a növényegészségügyi alkalmasságot igazolta.
+c)[^51] a növény- és talajvédelmi igazgatóság a növényegészségügyi alkalmasságot igazolta.
 
-(3) Az árusítóhely csak az MgSzH Központja által ellenőrzött, származási igazolvánnyal rendelkező ültetési anyagot veheti át értékesítésre, és azt – a 4. számú mellékletben foglalt kivétellel – zárt csomagolási egységben hozhatja forgalomba. A vásárolt tételekről köteles folyamatosan nyilvántartást vezetni és azt 5 évig megőrizni.
+(3)[^52] Az árusítóhely csak a NÉBIH által ellenőrzött, származási igazolvánnyal rendelkező ültetési anyagot veheti át értékesítésre, és azt – a 4. számú mellékletben foglalt kivétellel – zárt csomagolási egységben hozhatja forgalomba. A vásárolt tételekről köteles folyamatosan nyilvántartást vezetni és azt 5 évig megőrizni.
 
 (4) Az árusítóhely üzemeltetése során folyamatosan gondoskodni kell az ültetési anyagok:
 
@@ -34,6 +34,13 @@ b) az értékesítés időpontját,
 
 c) az ültetési anyag mennyiségét, fajtáját, oltvány esetén alanyát, kategóriáját, árát és származási helyét.
 
-(7) Az árusítóhelyet az MgSzH Központja és területi szervei ellenőrzik.
+(7)[^53] Az árusítóhelyet a NÉBIH és területi szervei ellenőrzik.
 
-(8) Az MgSzH Központja a forgalomba hozatali engedélyt visszavonja, ha az árusítóhelyen az engedélyes 5 éven belül ismételten és szándékosan megszegték a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat.
+(8)[^54] A NÉBIH a forgalomba hozatali engedélyt visszavonja, ha az árusítóhelyen az engedélyes 5 éven belül ismételten és szándékosan megszegték a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat.
+
+[^49]: A 15. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § d) pontja szerint módosított szöveg.
+[^50]: A 15. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^51]: A 15. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 59. § g) pontja szerint módosított szöveg.
+[^52]: A 15. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg.
+[^53]: A 15. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja szerint módosított szöveg. [E módosító rendelet 59. § n) pontjával elrendelt módosítás, amely szerint az „a területi szervei” szövegrész helyébe az „a növény- és talajvédelmi igazgatóságok” szöveg lép, nem vezethető át.]
+[^54]: A 15. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 59. § h) pontja szerint módosított szöveg.
