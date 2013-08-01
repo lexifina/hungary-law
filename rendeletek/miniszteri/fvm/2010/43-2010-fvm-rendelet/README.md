@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-43-20-8
 | 2012-05-09 | 2010-43-20-82.5 | 46/2012. (V. 8.) VM rendelet |
 | 2012-10-01 | 2010-43-20-82.6 | 100/2012. (IX. 28.) VM rendelet |
 | 2013-07-18 | 2010-43-20-82.7 | 59/2013. (VII. 15.) VM rendelet |
+| 2013-08-01 | 2010-43-20-82.8 | 70/2013. (VII. 31.) VM rendelet |

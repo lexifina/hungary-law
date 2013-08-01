@@ -850,11 +850,11 @@
 
 ## A tisztítóvíz összegyűjthető és a permetezőgép tartályába juttatható legyen.
 
-## 5. függelék
+## 5. függelék[^64]
 
 ## Növényvédelmi gép forgalomba hozatali engedélyének mintája
 
-## FVM Mezőgazdasági Gépesítési Intézet
+## VM Mezőgazdasági Gépesítési Intézet
 
 ## 2100 Gödöllő, Tessedik S. u. 4.
 
@@ -862,7 +862,7 @@
 
 ## NÖVÉNYVÉDELMI GÉP FORGALOMBA HOZATALI ENGEDÉLYE
 
-## ................................................................ gyártó, illetve forgalmazó nyilatkozata és a benyújtott dokumentumok, illetve az elvégzett vizsgálatok alapján a Földművelésügyi és Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete a .............................................................. típusú, .................................................. kivitelű növényvédelmi gép forgalomba hozatalát engedélyezi.
+## ................................................................ gyártó, illetve forgalmazó nyilatkozata és a benyújtott dokumentumok, illetve az elvégzett vizsgálatok alapján a Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete a .............................................................. típusú, .................................................. kivitelű növényvédelmi gép forgalomba hozatalát engedélyezi.
 
 ## A gépen a forgalomba hozatali engedély hatályosságát igazoló matricát fel kell tüntetni.
 
@@ -884,7 +884,7 @@
 
 ## A forgalomba hozatali engedély hatályosságát igazoló matrica mintája
 
-## 7. függelék[^39]
+## 7. függelék[^65]
 
 ## Pályázati űrlap mintája növényvédelmi gépek felülvizsgálatára szóló jogosultság megszerzéséhez
 
@@ -922,7 +922,7 @@
 
 ## aláírás
 
-## 8. függelék[^40]
+## 8. függelék[^66]
 
 ## Növényvédelmi gépek felülvizsgálatára jogosító tanúsítvány mintája
 
@@ -940,7 +940,7 @@
 
 ## aláírás
 
-## 9. függelék[^41]
+## 9. függelék[^67]
 
 ## Növényvédelmi gépek időszakos felülvizsgálata
 
@@ -1790,7 +1790,7 @@
 
 | a ha alkalmazható |
 
-## 10. függelék[^42]
+## 10. függelék[^68]
 
 ## Növényvédelmi gépek működési engedélyének igazolására szolgáló matrica mintája
 
@@ -1798,7 +1798,8 @@
 
 4. melléklet a 43/2010. (IV. 23.) FVM rendelethez
 
-[^39]: A 3. melléklet 7. függeléke a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
-[^40]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja szerint módosított szöveg.
-[^41]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja szerint módosított szöveg.
-[^42]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.
+[^64]: A 3. melléklet 5. függeléke a 70/2013. (VII. 31.) VM rendelet 125. § i) és s) pontja szerint módosított szöveg.
+[^65]: A 3. melléklet 7. függeléke a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
+[^66]: A 3. melléklet 8. függeléke a 46/2012. (V. 8.) VM rendelet c), g) és h) pontja szerint módosított szöveg.
+[^67]: A 3. melléklet 9. függeléke a 46/2012. (V. 8.) VM rendelet c) pontja szerint módosított szöveg.
+[^68]: A 3. melléklet 10. függeléke a 46/2012. (V. 8.) VM rendelet c) és i) pontja szerint módosított szöveg.
