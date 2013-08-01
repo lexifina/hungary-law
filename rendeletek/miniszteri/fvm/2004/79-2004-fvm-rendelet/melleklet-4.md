@@ -1,4 +1,4 @@
-## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^152]
+## 3. I. számú melléklet a 79 /2004. (V. 4.) FVM rendelethez[^155]
 
 ## A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -34,11 +34,11 @@
 
 ## i) ábrák, táblázatok;
 
-## 3.[^153] Az állategészségügyért felelős hatóság véleményét.
+## 3.[^156] Az állategészségügyért felelős hatóság véleményét.
 
 ## 4. A védett természeti terület esetében a területileg illetékes környezetvédelmi hatóságnál külön jogszabály szerint kezdeményezett környezeti hatásvizsgálat eredményeként kiadott környezetvédelmi engedélyt.
 
-## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^154]
+## 3. II. számú melléklet a 79/2004. (V. 4) FVM rendelethez[^157]
 
 ## A VADFARM LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -70,8 +70,9 @@
 
 ## l) belterület esetén az illetékes jegyző nyilatkozata, hogy a helyi állattartási rendeletben foglaltakkal nem ütközik.
 
-4. számú melléklet a 79/2004. (V. 4.) FVM rendelet
+4. számú melléklet a 79/2004. (V. 4.) FVM rendelet[^158]
 
-[^152]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
-[^153]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
-[^154]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.
+[^155]: A Vhr. eredeti 3. számú mellékletének számozását 3. I. számú mellékletre változtatta és bevezető szövegrészét módosította a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés a)–b) pontja.
+[^156]: A Vhr. 3.I. számú mellékletének 3. pontja a 7/2010. (II. 2.) FVM rendelet 46. § (2) bekezdés c) pontjával megállapított szöveg.
+[^157]: A Vhr. 3. II. számú mellékletét a 7/2010. (II. 2.) FVM rendelet 46. § (3) bekezdése iktatta be.
+[^158]: A Vhr. 4. számú melléklete a 70/2013. (VII. 31.) VM rendelet 40. § e) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A vadászatra jogosultak (a továbbiakban: jogosult) hatósági nyilvántartásába társult vadászati jog gyakorlása esetén a földtulajdonosok vadászati közösségét a vadászterület 4. számú melléklet szerinti kódszámának megjelölésével kell bejegyezni. A jogosult székhelyeként a földtulajdonosok vadászati közössége képviselője által megjelölt székhelyet, ennek hiányában a képviselő lakóhelyét kell bejegyezni.
 
-(3)[^6] A jogosultak hatósági nyilvántartásba vétele iránti kérelmet a Mezőgazdasági Szakigazgatási Hivatal Központ (a továbbiakban: országos hatáskörű vadászati hatóság) által rendszeresített és honlapján közzétett, az 1. számú mellékletben meghatározott adattartalmú formanyomtatványon kell benyújtani. A kérelemhez mellékelni kell:
+(3)[^6] A jogosultak hatósági nyilvántartásba vétele iránti kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: országos hatáskörű vadászati hatóság) által rendszeresített és honlapján közzétett, az 1. számú mellékletben meghatározott adattartalmú formanyomtatványon kell benyújtani. A kérelemhez mellékelni kell:
 
 a) a Vtv. 12. § (1) bekezdés a) és c) pontjaiban foglaltakról hozott hatályos határozatok példányát;
 
@@ -26,5 +26,5 @@ f) a vadászterületen a teljes vadászati évben vadászni jogosult vadászok n
 
 [^4]: A Vhr. 2. §-a a 42/2006. (V. 31.) FVM rendelet 1. §-ával megállapított szöveg.
 [^5]: A Vhr. 2. § (1) bekezdése a 7/2010. (II. 2.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: A Vhr. 2. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A Vhr. 2. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 40. § a) pontja szerint módosított szöveg.
 [^7]: A Vhr. 2. § (6) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés a) pontja hatályon kívül helyezte.

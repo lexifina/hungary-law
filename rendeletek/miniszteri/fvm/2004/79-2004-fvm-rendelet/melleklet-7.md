@@ -22,9 +22,9 @@
 
 ## 3. Vadgazdálkodási terv (10 éves terv a körzeti vadgazdálkodási terv alapján)
 
-## 3.1.[^156] Nagyvadállományok kezelése: a gímszarvas, a dámszarvas, az őz, a muflon és a vaddisznó javasolt tervezési módszerei és szempontjai (az állomány minőségi besorolása, a golyóérettség kora). A nagyvad szempontjából javasolt élőhelyi beavatkozások és vadgazdálkodási fejlesztések. Zárttéri vadtenyésztés és vadaskerti vadtartás szempontjai.
+## 3.1.[^160] Nagyvadállományok kezelése: a gímszarvas, a dámszarvas, az őz, a muflon és a vaddisznó javasolt tervezési módszerei és szempontjai (az állomány minőségi besorolása, a golyóérettség kora). A nagyvad szempontjából javasolt élőhelyi beavatkozások és vadgazdálkodási fejlesztések. Zárttéri vadtenyésztés és vadaskerti vadtartás szempontjai.
 
-## 3.2.[^157] Apróvadállományok kezelése: a mezei nyúl, a fácán, a fogoly és a vízivad tervezési szempontjai és módszerei (az állomány állapota), az élőhely védelem és javítás szempontjai. Természetvédelmi jellemzők és gazdálkodási hatásaik (a vadgazdálkodást és vadászatot különösen érintő védett területek, a vadgazdálkodást érintő természetvédelmi előírások).
+## 3.2.[^161] Apróvadállományok kezelése: a mezei nyúl, a fácán, a fogoly és a vízivad tervezési szempontjai és módszerei (az állomány állapota), az élőhely védelem és javítás szempontjai. Természetvédelmi jellemzők és gazdálkodási hatásaik (a vadgazdálkodást és vadászatot különösen érintő védett területek, a vadgazdálkodást érintő természetvédelmi előírások).
 
 ## 3.3. A vadászterület különleges rendeltetéséből adódó feladatok és előírások.
 
@@ -48,13 +48,14 @@
 
 ## 6.1. Vadgazdálkodási módszertani leírások.
 
-## 6.2. A tervben felhasznált adatok és szakirodalom forrásai.
+## 6.2.[^162] A tervben felhasznált adatok és szakirodalom forrásai.
 
-## A vadászatra jogosultak a Földművelésügyi és Vidékfejlesztési Minisztérium által elkészíttetett vadgazdálkodási üzemtervek tartalmi és formai előírásait kötelesek követni.
+## A vadászatra jogosultak a .megyei kormányhivatal földművelésügyi igazgatóság által elkészíttetett vadgazdálkodási üzemtervek tartalmi és formai előírásait kötelesek követni.
 
 7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez
 
 A VADÁLLOMÁNYBECSLÉS ÉS AZ ÉVES VADGAZDÁLKODÁSI TERV TARTALMI KÖVETELMÉNYEI
 
-[^156]: A Vhr. 6. számú melléklet 3.1. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^157]: A Vhr. 6. számú melléklet 3.2. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^160]: A Vhr. 6. számú melléklet 3.1. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^161]: A Vhr. 6. számú melléklet 3.2. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^162]: A Vhr. 6. számú melléklet 6.2. pontja a 70/2013. (VII. 31.) VM rendelet 40. § f) pontja szerint módosított szöveg.

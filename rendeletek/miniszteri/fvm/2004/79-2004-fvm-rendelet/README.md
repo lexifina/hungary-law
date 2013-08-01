@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2013-04-30 | 2004-79-20-82.19 | 30/2013. (IV. 30.) VM rendelet |
 | 2013-06-04 | 2004-79-20-82.20 | 45/2013. (VI. 3.) VM rendelet |
 | 2013-07-18 | 2004-79-20-82.21 | 59/2013. (VII. 15.) VM rendelet |
+| 2013-08-01 | 2004-79-20-82.22 | 70/2013. (VII. 31.) VM rendelet |
