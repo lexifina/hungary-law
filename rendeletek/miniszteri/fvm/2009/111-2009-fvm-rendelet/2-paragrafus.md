@@ -1,1 +1,1 @@
-## egy-egy képviselője. A bizottság elnöke az MgSzH képviselője.
+## egy-egy képviselője. A bizottság elnöke a NÉBIH képviselője.
