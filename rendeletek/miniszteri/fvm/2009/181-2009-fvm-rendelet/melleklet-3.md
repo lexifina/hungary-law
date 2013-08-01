@@ -12,4 +12,6 @@
 
 5. a talajvédelmi szakértői tevékenység e jogszabály 1. melléklete szerinti megjelölése,
 
-6. az MgSzH Központ által megadott nyilvántartási szám.
+6.[^13] a NÉBIH által megadott nyilvántartási szám.
+
+[^13]: A 3. számú melléklet 6. pontja a 70/2013. (VII. 31.) VM rendelet 117. § b) pontja szerint módosított szöveg.
