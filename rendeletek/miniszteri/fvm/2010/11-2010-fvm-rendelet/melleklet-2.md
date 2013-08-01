@@ -2,7 +2,7 @@
 
 ## Erdőtervezési körzet    Helységek és kódjaik
 
-## 01 Fővárosi és Pest Megyei Kormányhivatal Erdészeti Igazgatósága
+## 01  Pest Megyei Kormányhivatal Erdészeti Igazgatósága
 
 ## Alsó-Tápió-vidéki
 
