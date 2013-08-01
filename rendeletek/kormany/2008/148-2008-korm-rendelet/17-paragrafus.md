@@ -1,3 +1,0 @@
-17. § (1) Amennyiben a 15. § (3) bekezdésének b) és c) pontjai szerinti döntés meghozatalát követően, de a támogatási szerződés hatályba lépését megelőzően a pályázatban foglaltakhoz képest, az abban foglaltak megvalósítását érintő változás áll be, a kedvezményezett köteles a változásról soron kívül tájékoztatni a tanácsot. A változás ismeretében a tanács dönt a támogatási döntés megfelelő módosításáról.
-
-(2) Amennyiben a megváltozott feltételek szerint a projekt a jogszabályban vagy a pályázati felhívásban rögzített feltételek alapján nem részesülhetett volna támogatásban, a támogatási döntés érvényét veszti.
