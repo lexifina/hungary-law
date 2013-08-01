@@ -1,6 +1,6 @@
-## 20/A. §[^32] Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-ának 8. pontja szerinti beavatkozással nem járó vizsgálatok és az emberen végzett orvostudományi kutatások engedélyezésének szabályairól szóló jogszabályban meghatározott beavatkozással nem járó orvostudományi kutatás esetében (a továbbiakban együtt: beavatkozással nem járó vizsgálat) a 20/B–20/S. §-ban foglaltak szerint kell eljárni.
+## 20/A. §[^33] Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-ának 8. pontja szerinti beavatkozással nem járó vizsgálatok és az emberen végzett orvostudományi kutatások engedélyezésének szabályairól szóló jogszabályban meghatározott beavatkozással nem járó orvostudományi kutatás esetében (a továbbiakban együtt: beavatkozással nem járó vizsgálat) a 20/B–20/S. §-ban foglaltak szerint kell eljárni.
 
-## 20/B. §[^33] Ezen alcím alkalmazásában:
+## 20/B. §[^34] Ezen alcím alkalmazásában:
 
 a) megbízó (sponsor): bármely természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely a beavatkozással nem járó vizsgálatot kezdeményezi, vezeti, illetve finanszírozza. A vizsgáló és a megbízó lehet ugyanaz a személy is;
 
@@ -22,11 +22,11 @@ fc) a vizsgálatból származó adatok az fa) pont szerinti megbízó tulajdoná
 
 fd) a vizsgálat eredményeit az fa) pont szerinti megbízó közli;
 
-g)[^34] koordináló vizsgálatvezető: többközpontú vizsgálat esetén a vizsgálat egészéért felelős vezető.
+g)[^35] koordináló vizsgálatvezető: többközpontú vizsgálat esetén a vizsgálat egészéért felelős vezető.
 
-h)[^35]
+h)[^36]
 
-[^32]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^33]: A 20/B. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^34]: A 20/B. § g) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan az 52/2012. (XII. 27.) EMMI rendelet 1. §-a iktatta be.
-[^35]: A 20/B. § h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
+[^33]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^34]: A 20/B. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^35]: A 20/B. § g) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan az 52/2012. (XII. 27.) EMMI rendelet 1. §-a iktatta be.
+[^36]: A 20/B. § h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.

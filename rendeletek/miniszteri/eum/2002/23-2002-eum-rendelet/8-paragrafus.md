@@ -1,6 +1,6 @@
 ## 7. §[^13]
 
-8. § (1) A 7. § (1) bekezdése szerinti engedély iránti kérelemnek tartalmaznia kell
+8. § (1)[^14] A kutatási engedély iránti kérelemnek tartalmaznia kell
 
 a) a kutatás megnevezését,
 
@@ -34,7 +34,7 @@ g) az egyedi adatlap tervezetét, amelyen minden olyan adatot, tényt, eseményt
 
 h) nyilatkozatot a kutatás vezetőjének és a kutatásban közreműködők díjazásáról,
 
-i)[^14]
+i)[^15]
 
 (3) A kutatási terv tartalmazza
 
@@ -56,8 +56,9 @@ h) a kutatás során nyert adatok statisztikai feldolgozásának módszerét,
 
 i) a kutatás vezetőjének nyilatkozatát arról, hogy a kutatási terv összeállítása a hatályos jogszabályokban és az Orvosok Világszövetsége Helsinki Deklarációjában foglaltaknak megfelelően történt.
 
-(4)[^15] A (3) bekezdés a)–h) pontjaiban szereplő adatok közérdekű adatnak minősülnek. A kutatási terv engedélyezésénél és elfogadhatóságának véleményezésénél nem minősül közérdekű adatnak a kutatási tervre vonatkozó tudományos munkahipotézis, és különösen a gyógyszerkutatás esetén a praeklinikai vizsgálatok eredményei. Ezen adatok csak a hatóság, illetve etikai bizottság számára hozzáférhetőek.
+(4)[^16] A (3) bekezdés a)–h) pontjaiban szereplő adatok közérdekű adatnak minősülnek. A kutatási terv engedélyezésénél és elfogadhatóságának véleményezésénél nem minősül közérdekű adatnak a kutatási tervre vonatkozó tudományos munkahipotézis, és különösen a gyógyszerkutatás esetén a praeklinikai vizsgálatok eredményei. Ezen adatok csak a hatóság, illetve etikai bizottság számára hozzáférhetőek.
 
 [^13]: A 7. §-t és az azt megelőző alcímet a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés d) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^14]: A 8. § (2) bekezdés i) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés e) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^15]: A 8. § (4) bekezdésének második és harmadik mondatát a 34/2003. (VI. 7.) ESZCSM rendelet 15. § (2) bekezdése iktatta a szövegbe.
+[^14]: A 8. § (1) bekezdés nyitó szövegrésze az 56/2013. (VII. 31.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
+[^15]: A 8. § (2) bekezdés i) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés e) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^16]: A 8. § (4) bekezdésének második és harmadik mondatát a 34/2003. (VI. 7.) ESZCSM rendelet 15. § (2) bekezdése iktatta a szövegbe.

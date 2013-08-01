@@ -1,4 +1,4 @@
-20/H. §[^48] (1) A beavatkozással nem járó vizsgálat alanyát a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja
+20/H. §[^51] (1) A beavatkozással nem járó vizsgálat alanyát a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja
 
 a) a vizsgálatban való részvétel önkéntességéről, valamint arról, hogy a beleegyezés bármikor, a (2) bekezdésben foglaltak szerint szóban vagy írásban indokolás és hátrányos következmények nélkül visszavonható;
 
@@ -36,7 +36,7 @@ f) a beleegyező nyilatkozatot tevő aláírását.
 
 (6) A tájékoztatást és a beleegyezést külön íven kell írásba foglalni. A beleegyező nyilatkozat és az írásos tájékoztató egy-egy eredeti példányát a vizsgálati dokumentációban kell megőrizni, egy-egy eredeti példányát pedig a vizsgálati alanynak kell átadni.
 
-(7)[^49] Amennyiben a beavatkozással nem járó vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet 19. §-ában foglaltaknak megfelelően. A módosított írásos tájékoztatóban foglaltakról a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a vizsgálat folytatásához. Ennek hiányában a vizsgálatot az érintett személyen nem lehet folytatni.
+(7)[^52] Amennyiben a beavatkozással nem járó vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet 19. §-ában foglaltaknak megfelelően. A módosított írásos tájékoztatóban foglaltakról a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a vizsgálat folytatásához. Ennek hiányában a vizsgálatot az érintett személyen nem lehet folytatni.
 
-[^48]: A 20/H. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^49]: A 20/H. § (7) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 4. § d) pontja szerint módosított szöveg.
+[^51]: A 20/H. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^52]: A 20/H. § (7) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 4. § d) pontja szerint módosított szöveg.

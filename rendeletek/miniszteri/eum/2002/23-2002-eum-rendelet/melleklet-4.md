@@ -28,7 +28,7 @@
 
 | 13. Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Egészségügyi Engedélyezési és Közigazgatási Hivatal | 10032000- 00285788- 00000000 |
 
-4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^82]
+4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^86]
 
 ## Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat kérelméhez csatolandó dokumentumok
 
@@ -134,4 +134,4 @@ r) a vizsgálatot végző egészségügyi szolgáltatónak a kártérítés fede
 
 s) a vizsgáló, a vizsgálatvezető, az egészségügyi szolgáltató, illetve a megbízó közötti, a beavatkozással nem járó vizsgálatra irányuló szerződés másolata.
 
-[^82]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be.
+[^86]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be.
