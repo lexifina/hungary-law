@@ -14,7 +14,7 @@ f)[^6] az orvosi vényen rendelt egyedi összetételű (magisztrális) gyógysze
 
 g)[^7] a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. (V. 9.) ESZCSM rendelet 2. § (2) bekezdés a) és b) pontja szerinti tápszerek;
 
-(2)[^8] Fiókgyógyszertárban az (1) bekezdés a) pontja és a 4. § 1. pontja szerinti gyógyszerek, az (1) bekezdés b) pontja szerinti anyagok és készítmények, az (1) bekezdés e) és f) pontja szerinti gyógyszerek felhasználásra kész kiszerelésben, az (1) bekezdés g) pontja szerinti tápszerek, valamint a 4. § szerinti termékek forgalmazhatók.
+(2)[^8] Fiókgyógyszertárban az (1) bekezdés a) pontja és a 4. § 1. pontja szerinti gyógyszerek, az (1) bekezdés b) pontja szerinti anyagok és készítmények, az (1) bekezdés d) pontja szerinti gyógyszeranyagok, az (1) bekezdés e) és f) pontja szerinti gyógyszerek felhasználásra kész kiszerelésben, az (1) bekezdés g) pontja szerinti tápszerek, valamint a 4. § szerinti termékek forgalmazhatók.
 
 (3)[^9]
 
@@ -27,6 +27,6 @@ g)[^7] a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. 
 [^5]: A 3. § (1) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (3) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés g) pontja a 48/2011. (VII. 27.) NEFMI rendelet 4. §-ával megállapított szöveg.
-[^8]: A 3. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 31. § (5) bekezdésével megállapított, az 56/2013. (VII. 31.) EMMI rendelet 39. §-a szerint módosított szöveg.
 [^9]: A 3. § (3) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 34. § (2) bekezdése hatályon kívül helyezte.
 [^10]: A 3. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 31. § (6) bekezdésével megállapított szöveg.

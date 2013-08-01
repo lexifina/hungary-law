@@ -46,7 +46,10 @@
 
 23. nyomdai vagy elektronikus úton előállított egészségügyi felvilágosító, tájékoztató, egészséges életmóddal, prevencióval, betegségek kezelésével kapcsolatos, gyógyszerészi gondozást támogató könyvek, kiadványok, brosúrák,
 
-24. közegészségügyi vizsgálati tartályok.
+24. közegészségügyi vizsgálati tartályok,
+
+25.[^13] a különleges táplálkozási célú élelmiszerekről szóló rendelet szerinti, gluténérzékenyeknek szánt élelmiszerek.
 
 [^11]: A 4. § a 41/2011. (VII. 5.) NEFMI rendelet 32. §-ával megállapított szöveg.
 [^12]: A 4. § 15. pontja a 48/2011. (VII. 27.) NEFMI rendelet 5. §-ával megállapított szöveg.
+[^13]: A 4. § 25. pontját az 56/2013. (VII. 31.) EMMI rendelet 38. §-a iktatta be.
