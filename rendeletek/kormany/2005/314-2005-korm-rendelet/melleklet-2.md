@@ -348,10 +348,10 @@ Anyagok, tárgyak vagy termékek felületi kezelésére szerves oldószereket ha
 
 13.4. Fémtartalmú ércek bányászata: vasérc esetén 1 millió t/év, nemvas fémek esetén 100 ezer t/év bányászatától.
 
-14.[^150] Egyéb létesítmények
+14.[^160] Egyéb létesítmények
 
 14.1. Létesítmények szén (jól kiégetett szén) termelésére vagy elektrografit termelésére égetéssel vagy grafitizációval.
 
 14.2. Az e mellékletben felsorolt létesítményekből származó, a bányászatról szóló törvény szerinti geológiai tárolásra szánt szén-dioxid-áramok elkülönítése.
 
-[^150]: A 2. számú melléklet 14. pontja a 145/2012. (VII. 3.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^160]: A 2. számú melléklet 14. pontja a 145/2012. (VII. 3.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.

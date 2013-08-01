@@ -10,7 +10,7 @@
 
 a) csak az 1. számú mellékletben szerepel, a környezeti hatásvizsgálati eljárás alapján környezetvédelmi,
 
-b) az 1. és a 2. számú mellékletben egyaránt szerepel, a környezeti hatásvizsgálat és egységes környezethasználati engedélyezési eljárás alapján egységes környezethasználati,
+b)[^2] az 1. és a 2. számú mellékletben egyaránt szerepel és a környezethasználó összevont eljárás lefolytatását kéri, környezeti hatásvizsgálati és egységes környezethasználati engedélyezési eljárás alapján egységes környezethasználati,
 
 c) csak a 2. számú mellékletben szerepel, egységes környezethasználati engedélyezési eljárás alapján egységes környezethasználati,
 
@@ -24,21 +24,22 @@ eb) nem jelentősek, egységes környezethasználati engedélyezési eljárás
 
 ## alapján egységes környezethasználati
 
-f)[^2] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, de a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) más hatósági, szakhatósági eljárásban megállapította, hogy a tevékenység várható környezeti hatásai jelentősek, akkor környezeti hatásvizsgálati eljárás alapján környezetvédelmi
+f)[^3] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, de a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) más hatósági, szakhatósági eljárásban megállapította, hogy a tevékenység várható környezeti hatásai jelentősek, akkor környezeti hatásvizsgálati eljárás alapján környezetvédelmi
 
 ## engedély szükséges.
 
-(4)[^3] A (3) bekezdés b) pontja és e) pont ea) alpontja szerinti esetekben a felügyelőség a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárást a környezethasználó kérelmére – önálló engedélyezési eljárások lefolytatása helyett – összevontan folytatja le.
+(4)[^4] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárást a környezethasználó kérelmére a felügyelőség – önálló engedélyezési eljárások lefolytatása helyett – összevontan folytatja le. Ha a környezethasználó nem kéri összevont eljárás lefolytatását, akkor a tevékenység megkezdéséhez környezetvédelmi és egységes környezethasználati engedély szükséges. A környezetvédelmi engedély megszerzése az egységes környezethasználati engedélyezési eljárást megelőzi.
 
-(5)[^4] A környezethasználó kérelmére a felügyelőség – előzetes vizsgálati eljárás nélkül – környezeti hatásvizsgálati eljárást folytat le, ha a környezethasználó olyan tevékenység megvalósítását tervezi, amely a 3. számú mellékletben szerepel.
+(5)[^5] A környezethasználó kérelmére a felügyelőség – előzetes vizsgálati eljárás nélkül – környezeti hatásvizsgálati eljárást folytat le, ha a környezethasználó olyan tevékenység megvalósítását tervezi, amely a 3. számú mellékletben szerepel.
 
-(6)[^5] A környezeti hatásvizsgálati eljárást és az egységes környezethasználati engedélyezési eljárást az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló külön jogszabályban meghatározott hatásbecslési eljárás szabályaira tekintettel kell lefolytatni.
+(6)[^6] A környezeti hatásvizsgálati eljárást és az egységes környezethasználati engedélyezési eljárást az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló külön jogszabályban meghatározott hatásbecslési eljárás szabályaira tekintettel kell lefolytatni.
 
-(7)[^6] Ha más hatóság eljárásában – törvény vagy kormányrendelet rendelkezése alapján – a felügyelőség azért nem jár el szakhatóságként, mert az eljárás tárgyául szolgáló tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély szükséges, az eljáró hatóság a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránti kérelemről döntést hozó felügyelőséget az eljárás megindulásáról – a kérelem megküldésével – tájékoztatja, és az eljárásban hozott határozatot vagy az eljárást megszüntető végzést közli a felügyelőséggel.
+(7)[^7] Ha más hatóság eljárásában – törvény vagy kormányrendelet rendelkezése alapján – a felügyelőség azért nem jár el szakhatóságként, mert az eljárás tárgyául szolgáló tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély szükséges, az eljáró hatóság a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránti kérelemről döntést hozó felügyelőséget az eljárás megindulásáról – a kérelem megküldésével – tájékoztatja, és az eljárásban hozott határozatot vagy az eljárást megszüntető végzést közli a felügyelőséggel.
 
 [^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
-[^2]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be.
-[^3]: Az 1. § (4) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § (5) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2011. (II. 22.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1. § (6) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^6]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^2]: Az 1. § (3) bekezdés b) pontja a 281/2013. (VII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 12. §-a iktatta be.
+[^4]: Az 1. § (4) bekezdése a 281/2013. (VII. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (5) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2011. (II. 22.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (6) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
