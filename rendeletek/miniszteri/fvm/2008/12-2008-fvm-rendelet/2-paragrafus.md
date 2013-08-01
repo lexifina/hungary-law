@@ -4,7 +4,7 @@
 
 1. Brucellózis: a klasszikus Brucella fajok (B. melitensis, B. abortus, B. suis) által okozott megbetegedés.
 
-2. Állattartó hely: a területileg illetékes állategészségügyi hatóság által nyilvántartásba vett létesítmény, udvar, épület, illetve szabadtartás esetén az a legelő, ahol állatokat tenyésztenek, tartanak vagy állatokkal foglalkoznak állandó vagy ideiglenes jelleggel.
+2.[^1] Állattartó hely: a területileg illetékes élelmiszerlánc-felügyeleti szerv által nyilvántartásba vett létesítmény, udvar, épület, illetve szabadtartás esetén az a legelő, ahol állatokat tenyésztenek, tartanak vagy állatokkal foglalkoznak állandó vagy ideiglenes jelleggel.
 
 3. Állatállomány: az ugyanazon állattartó helyen – mint járványügyi egységen – tartott azonos fajú állatok csoportja, amely akár egy állatból is állhat.
 
@@ -59,3 +59,5 @@ e) amelynek származása vagy azonosítása hitelt érdemlően nem bizonyíthat�
 19. Szarvasmarha: szarvasmarha, valamint a bivaly és az európai bölény.
 
 20. Illetékes állategészségügyi laboratórium: a brucellózis mentesség ellenőrzésére irányuló vizsgálatok végzésére engedéllyel rendelkező állategészségügyi laboratórium.
+
+[^1]: A 2. § 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § a) pontja szerint módosított szöveg.

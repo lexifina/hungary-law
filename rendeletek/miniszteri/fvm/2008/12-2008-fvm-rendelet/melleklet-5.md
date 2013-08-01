@@ -282,9 +282,9 @@
 
 ## e) a közösségi brucella referencia laboratóriummal való együttműködés és ajánlásainak követése.
 
-## 2. A nemzeti referencia laboratórium
+## 2.[^25] A nemzeti referencia laboratórium
 
-## Neve: Mezőgazdasági Szakigazgatási Hivatal Állategészségügyi Diagnosztikai Igazgatóság
+## Neve: Nemzeti Élelmiszerlánc-biztonsági Hivatal Állategészségügyi Diagnosztikai Igazgatóság
 
 ## Címe: 1149 Budapest, Tábornok utca 2.
 
@@ -295,3 +295,5 @@
 1. Az elvetélt, korán ellett vagy megellett állattól az egész magzatburok vagy a chorion elváltozott része (kotiledon), lehetőleg az egész magzat vagy annak szervei (lekötött gyomra, tüdeje, mája, veséi). Egyidejűleg az anyaállat vér- és tejmintája, amelynek küldését (azonos jelzéssel és kimutatással) két-három hét múlva meg kell ismételni.
 
 2. A betegség idült alakja esetén az elváltozott szerv (here, csigolya, ínhüvely stb.) vagy szervrészlet, élő állatból pedig a beteg (gyanús) szerv váladéka (pl. ondó, tej, sipolyváladék).
+
+[^25]: A 4. számú melléklet IV. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § k) pontja szerint módosított szöveg.

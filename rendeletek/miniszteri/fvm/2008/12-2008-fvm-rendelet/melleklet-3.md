@@ -38,9 +38,9 @@
 
 ## a) felmerül a gyanúja, hogy egy vagy több juh vagy kecske brucellózissal (B. melitensis) fertőzött, akkor a hatósági főállatorvos az érintett telep brucellózistól hatóságilag mentes minősítését felfüggeszti, ha a fertőzöttségre gyanús állatot – a gyanú hatóságilag történő kizárásáig – elkülönítik vagy leölik. Ha a fertőzöttségre gyanús állat elkülönítése vagy leölése nem történik meg, akkor az állomány mentes minősítését vissza kell vonni;
 
-## b)[^5] ha az állomány B. melitensis fertőzöttségét hatóságilag megállapították, akkor az állomány mentes minősítését vissza kell vonni és az állományt fertőzöttnek kell nyilvánítani. Az állomány a mentes minősítését csak akkor kapja vissza, ha az állomány valamennyi fertőzött egyedét levágják (leölik), és az állományban visszamaradt 6 hónaposnál idősebb valamennyi állatnak legalább 3 hónapos időközzel – a 4. számú melléklet szerint – végrehajtott kétszeri szerológiai vizsgálata negatív eredményre vezetett.
+## b)[^21] ha az állomány B. melitensis fertőzöttségét hatóságilag megállapították, akkor az állomány mentes minősítését vissza kell vonni és az állományt fertőzöttnek kell nyilvánítani. Az állomány a mentes minősítését csak akkor kapja vissza, ha az állomány valamennyi fertőzött egyedét levágják (leölik), és az állományban visszamaradt 6 hónaposnál idősebb valamennyi állatnak legalább 3 hónapos időközzel – a 4. számú melléklet szerint – végrehajtott kétszeri szerológiai vizsgálata negatív eredményre vezetett.
 
-## 2. Ha a fertőzöttség az 5%-ot meghaladó mértékben elterjedt, vagy ha a II. 1. b) pontban említett juh- vagy kecsketelep brucellózistól hatóságilag mentes megyében/régióban van, akkor az országos főállatorvos erről az Európai Bizottságot és a többi tagállamot haladéktalanul értesíti. Ilyen esetben – a Hivatallal történt egyeztetést követően – a hatósági főállatorvos elrendeli az érintett telepen tartott juh és kecske zárt vágás útján történő leölését. A hatósági főállatorvos járványügyi nyomozást végez és a fertőzött állománnyal járványtani kapcsolatban álló állományokban e rendelet 12. §-ának (4) bekezdésével összhangban szerológia vizsgálatot rendel el.
+## 2.[^22] Ha a fertőzöttség az 5%-ot meghaladó mértékben elterjedt, vagy ha a II. 1. b) pontban említett juh- vagy kecsketelep brucellózistól hatóságilag mentes megyében/régióban van, akkor az országos főállatorvos erről az Európai Bizottságot és a többi tagállamot haladéktalanul értesíti. Ilyen esetben – az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal történt egyeztetést követően – a hatósági főállatorvos elrendeli az érintett telepen tartott juh és kecske zárt vágás útján történő leölését. A hatósági főállatorvos járványügyi nyomozást végez és a fertőzött állománnyal járványtani kapcsolatban álló állományokban e rendelet 12. §-ának (4) bekezdésével összhangban szerológia vizsgálatot rendel el.
 
 ## 3. Ha a brucellózis kitörését hatóságilag megállapították az országos főállatorvos az érintett megye brucellózistól hatóságilag mentes minősítését felfüggeszti. E tényről haladéktalanul értesíti az Európai Bizottságot és a többi tagállamot.
 
@@ -88,7 +88,7 @@
 
 ## 2. Az V. 1. pontban említett tilalom miatt a juh- és kecskefélék Közösségen belüli kereskedelmére irányadó állategészségügyi feltételekről szóló 1991. január 28-i 91/68/EGK tanácsi irányelv A) mellékletének 2. fejezetében említett – vakcinázást is megengedő – brucellózis (B. melitensis) mentes minősítés a juh vagy kecskeállományok minősítésére nem alkalmazható.
 
-## 3. Ha a juh- vagy kecskeállományokban laboratóriumi vizsgálattal B. abortus fertőzöttséget mutatnak ki, akkor az állományt a Hivatal által kidolgozott és az országos főállatorvos által jóváhagyott terv alapján mentesíteni kell a szarvasmarha-állományok védelme érdekében.
+## 3.[^23] Ha a juh- vagy kecskeállományokban laboratóriumi vizsgálattal B. abortus fertőzöttséget mutatnak ki, akkor az állományt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kidolgozott és az országos főállatorvos által jóváhagyott terv alapján mentesíteni kell a szarvasmarha-állományok védelme érdekében.
 
 3. számú melléklet a 12/2008. (II. 14.) FVM rendelethez
 
@@ -150,4 +150,6 @@ d) az 1. pont e) alpontja szerinti feltételeket az állattartó biztosította.
 
 9. Azt a megyét, amelyben a sertésállományok legalább 99,8%-a az előző év december 31-én brucellózistól (B. suis és B. abortus) mentes volt, sertés brucellózistól mentes megyének kell tekinteni.
 
-[^5]: A 2. számú melléklet II. alcím 1. pont b) alpontja a 63/2009. (V. 20.) FVM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^21]: A 2. számú melléklet II. alcím 1. pont b) alpontja a 63/2009. (V. 20.) FVM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 2. számú melléklet II. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § j) pontja szerint módosított szöveg.
+[^23]: A 2. számú melléklet V. rész 3. pontja a 70/2013. (VII. 31.) VM rendelet 86. § c) pontja szerint módosított szöveg.
