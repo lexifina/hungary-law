@@ -260,7 +260,7 @@ A Vidékfejlesztési Minisztériumhoz tartozó bejelentés-köteles szakterület
 
 | 13. | Termőföld-forgalmazás, termőföld-értékbecslés | a) okleveles agrármérnök vagy b) okleveles kertészmérnök vagy c) okleveles erdőmérnök vagy d) meliorációs mérnök vagy e) ingatlan-nyilvántartási szervező A fenti végzettség valamelyikének megléte mellett szükséges az ingatlan-vagyonértékelő szakképesítés. f) mezőgazdasági értékbecslő képesítés |
 
-| 14. | Földminősítés, földvédelem, földhasznosítás | a) okleveles agrármérnök vagy b) okleveles agrárkémikus agrármérnök vagy c) okleveles kertészmérnök vagy d) okleveles erdőmérnök vagy e) meliorációs mérnök A fenti végzettség valamelyikének megléte mellett szükséges a talajtani szakmérnök képesítés, továbbá az ötévi szakmai gyakorlatból legalább három évet földhivatalnál, illetve a megyei földhivatalok szakmai irányítását, felügyeletét és ellenőrzését ellátó minisztériumban vagy a jogelődeinél a földminősítési és földvédelem szakterületen történő eltöltése. |
+| 14. | Földminősítés, földvédelem, földhasznosítás | a) okleveles agrármérnök vagy b) okleveles agrárkémikus agrármérnök vagy c) okleveles kertészmérnök vagy d) okleveles erdőmérnök vagy e) meliorációs mérnök A fenti végzettség valamelyikének megléte mellett szükséges a talajtani szakmérnök képesítés, továbbá az ötévi szakmai gyakorlatból legalább három évet földhivatalnál, illetve a fővárosi vagy megyei kormányhivatal földhivatalainak szakmai irányítását, felügyeletét és ellenőrzését ellátó minisztériumban vagy a jogelődeinél a földminősítési és földvédelem szakterületen történő eltöltése. |
 
 | 15. | Vadgazdálkodás és vadászat |  |
 
@@ -318,4 +318,4 @@ A Vidékfejlesztési Minisztériumhoz tartozó bejelentés-köteles szakterület
 
 | 22. | Nagyméretarányú talajtérkép-készítés | a) okleveles agrárkémikus agrármérnök vagy b) tápanyag-gazdálkodási szakmérnök vagy c) talajerő-gazdálkodási szakmérnök vagy d) talajtani szakmérnök vagy e) okleveles térinformatikai mérnök f) geográfus vagy geoinformatikus |
 
-[^9]: A 2. melléklet a 106/2012. (X. 11.) VM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet a 106/2012. (X. 11.) VM rendelet 10. § (5) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 119. § c) pontja szerint módosított szöveg.

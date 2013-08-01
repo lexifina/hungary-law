@@ -4,4 +4,4 @@
 
 (3) A díjak megfizetésével kapcsolatban az Itv. 3. § (4) bekezdésében foglaltak, a díjfizetésre kötelezettek megállapítása tekintetében a 31. § (1) bekezdésének első mondatában foglaltak az irányadóak.
 
-[^6]: A 4. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdése a 106/2012. (X. 11.) VM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 119. § b) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium” szövegrész helyébe a „Vidékfejlesztési Minisztérium” szöveg lép, nem vezethető át.]
