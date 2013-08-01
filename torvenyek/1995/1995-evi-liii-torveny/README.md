@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2013-04-04 | 2013. évi XXVI. törvény | 1995-53-00-00.52 |
 | 2013-06-28 | 2013. évi LXXXII. törvény | 1995-53-00-00.53 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1995-53-00-00.54 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 1995-53-00-00.55 |
