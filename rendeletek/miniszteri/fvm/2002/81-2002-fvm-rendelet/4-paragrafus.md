@@ -1,6 +1,6 @@
-4. § (1) A 3. § (1) bekezdés szerinti laboratóriumok a zoonózis-kórokozó meghatározása, illetve a megbetegedés diagnosztizálása esetén a betegség előfordulásáról tájékoztatják az ÁNTSZ megyei (fővárosi) intézetét.
+4. § (1)[^7] A NÉBIH a zoonózis-kórokozó meghatározása, illetve a megbetegedés diagnosztizálása esetén a betegség előfordulásáról tájékoztatja a népegészségügyi szakigazgatási szervet.
 
-(2)[^4] A 3. § (3) bekezdése szerinti referencia-laboratórium az alábbi tevékenységet látja el:
+(2)[^8] A 3. § (3) bekezdése szerinti referencia-laboratórium az alábbi tevékenységet látja el:
 
 a) tájékoztatja a vizsgálati módszerekről a vizsgáló laboratóriumokat;
 
@@ -14,4 +14,5 @@ e) technikai és tudományos segítséget nyújt a vizsgáló laboratóriumok er
 
 (3) A referencialaboratórium működésének részletes feltételeit a 2. számú melléklet tartalmazza.
 
-[^4]: A 4. § (2) bekezdésének bevezető szövege a 19/2003. (II. 25.) FVM rendelet 4. §-ának (3) bekezdésével megállapított szöveg.
+[^7]: A 4. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 21. § e)–g) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdésének bevezető szövege a 19/2003. (II. 25.) FVM rendelet 4. §-ának (3) bekezdésével megállapított szöveg.
