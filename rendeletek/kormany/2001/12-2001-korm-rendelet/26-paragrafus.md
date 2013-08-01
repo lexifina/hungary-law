@@ -1,12 +1,12 @@
-## 25/C. §[^223] A 2004. május 1-jén vagy azt követően kötött kölcsönszerződések esetén a 25. § (1) és (2) bekezdése szerinti állami megtérítési kötelezettség nem érvényesíthető.
+## 25/C. §[^224] A 2004. május 1-jén vagy azt követően kötött kölcsönszerződések esetén a 25. § (1) és (2) bekezdése szerinti állami megtérítési kötelezettség nem érvényesíthető.
 
 ## VIII.
 
-## A TELEPÜLÉSI ÖNKORMÁNYZATOK ÉS AZ EGYHÁZAK TÁMOGATÁSA[^224]
+## A TELEPÜLÉSI ÖNKORMÁNYZATOK ÉS AZ EGYHÁZI JOGI SZEMÉLYEK TÁMOGATÁSA[^225]
 
 ## 1. A bérlakásállomány növelése
 
-26. § (1)[^225] A bérlakásállomány növelését szolgáló központi költségvetés Állami Támogatású Bérlakás Program előirányzatából a következő jogcímeken (a továbbiakban: jogcímek) igényelhetnek pályázat útján támogatást az önkormányzatok, illetőleg a d) pont szerinti jogcímre – az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 2. §-ának (3) bekezdésében meghatározott – egyházak (a továbbiakban: egyházak), valamint idősek otthona létesítésére megyei önkormányzatok
+26. § (1)[^226] A bérlakásállomány növelését szolgáló központi költségvetés Állami Támogatású Bérlakás Program előirányzatából a következő jogcímeken (a továbbiakban: jogcímek) igényelhetnek pályázat útján támogatást az önkormányzatok a d) pont szerinti jogcímre az egyházi jogi személyek, valamint idősek otthona létesítésére megyei önkormányzatok
 
 a) szociális elhelyezés alapján történő bérbeadás céljából,
 
@@ -14,7 +14,7 @@ b) költségelven megállapított lakbérek alkalmazása mellett, bérbeadás c�
 
 c) fiatalok, hallgatók részére bérbeadható garzonházak létesítése céljából,
 
-d)[^226] nyugdíjasház vagy idősek otthona létesítése céljából új lakás vagy új ingatlan építésére, vásárlására és használt lakás vagy lakóház vásárlására, illetőleg e lakások korszerűsítésére, bővítésére, felújítására, valamint önkormányzati, egyházi vagy megyei önkormányzati tulajdonú ingatlanok lakáscélra vagy idősek otthonának történő átalakítására.
+d)[^227] nyugdíjasház vagy idősek otthona létesítése céljából új lakás vagy új ingatlan építésére, vásárlására és használt lakás vagy lakóház vásárlására, illetőleg e lakások korszerűsítésére, bővítésére, felújítására, valamint helyi önkormányzat vagy egyházi jogi személy tulajdonában lévő ingatlanok lakáscélra vagy idősek otthonának történő átalakítására.
 
 (2) Az első bekezdésben meghatározott jogcímekre támogatást az önkormányzat csak közigazgatási területén lévő lakásra igényelhet.
 
@@ -28,17 +28,17 @@ b) felsőfokú oktatási intézmény nappali tagozatos házas, illetőleg élett
 
 (4) Amennyiben a (3) bekezdés a) pontjában meghatározott bérlő keresőtevékenysége 90 napnál hosszabb időre megszűnik, vagy az előtakarékosságra vállalt kötelezettségnek nem tesz eleget és a lakrészre van a feltételeknek megfelelő igénylő, illetőleg a (3) bekezdés b) pontjában meghatározott hallgatói jogviszonya megszűnik, úgy a bérleti jogviszonyt az önkormányzat köteles legfeljebb 6 hónapos felmondási idővel megszüntetni.
 
-(5)[^227] A nyugdíjasház a nyugdíjasoknak, illetőleg öregségi nyugdíjkorhatárt elért személyeknek, bérleti jogviszony alapján, lakásokban való korlátlan idejű elhelyezését szolgálja, továbbá az életkoruknak és az egészségi állapotuknak megfelelő gondozást megszervezi, életvitelükben segítséget nyújt. Az idősek otthonára a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény rendelkezéseit és a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól szóló rendelet előírásait kell alkalmazni.
+(5)[^228] A nyugdíjasház a nyugdíjasoknak, illetőleg öregségi nyugdíjkorhatárt elért személyeknek, bérleti jogviszony alapján, lakásokban való korlátlan idejű elhelyezését szolgálja, továbbá az életkoruknak és az egészségi állapotuknak megfelelő gondozást megszervezi, életvitelükben segítséget nyújt. Az idősek otthonára a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény rendelkezéseit és a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól szóló rendelet előírásait kell alkalmazni.
 
-(6)[^228] Az (1) bekezdés d) pontja szerinti nyugdíjasház létesítésére csak olyan pályázat nyújtható be, amelyben az önkormányzat, illetőleg egyház vállalja, hogy csak lakástulajdonnal vagy önkormányzati lakásra határozatlan idejű bérleti jogviszonnyal nem rendelkező személyeket helyez el és tőle lakbért kér, valamint a szociális szolgáltatásokért térítési díjat állapít meg. Idősek otthona létesítésére olyan pályázat nyújtható be, amelyben a szociálisan rászorultak elhelyezését, teljes körű ellátását (lakhatás, étkezés, egészségügyi gondozás, ápolás, pszichés ellátás) vállalják és biztosítják, ezért térítési díjat állapítanak meg.
+(6)[^229] Az (1) bekezdés d) pontja szerinti nyugdíjasház létesítésére csak olyan pályázat nyújtható be, amelyben az helyi önkormányzat vagy az egyházi jogi személy vállalja, hogy csak lakástulajdonnal vagy önkormányzati lakásra határozatlan idejű bérleti jogviszonnyal nem rendelkező személyeket helyez el és tőle lakbért kér, valamint a szociális szolgáltatásokért térítési díjat állapít meg. Idősek otthona létesítésére olyan pályázat nyújtható be, amelyben a szociálisan rászorultak elhelyezését, teljes körű ellátását (lakhatás, étkezés, egészségügyi gondozás, ápolás, pszichés ellátás) vállalják és biztosítják, ezért térítési díjat állapítanak meg.
 
 (7) Nem nyújtható támogatás olyan lakás visszavásárlására, amelyet korábban valamely önkormányzat idegenített el, függetlenül az időközben esetleg bekövetkezett tulajdonos változásoktól.
 
 (8) Az (1) bekezdés b) pontjában meghatározott jogcímen csak akkor igényelhető támogatás, ha az önkormányzat vállalja a pályázati kiírás szerinti költségelvű lakbér alkalmazását.
 
-[^223]: A 25/C. §-t a 257/2011. (XII. 6.) Korm. rendelet 10. §-a iktatta be.
-[^224]: A VIII. cím a 225/2001. (XI. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^225]: A 26. § (1) bekezdése a 207/2001. (X. 30.) Korm. rendelet 7. §-ával, bevezető szövegrésze az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított szöveg. Az első módosító rendelet 12. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő támogatási kérelmekre, valamint kölcsönkérelmekre is alkalmazni kell.
-[^226]: A 26. § (1) bekezdésének d) pontja az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg.
-[^227]: A 26. § (5) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (3) bekezdésével megállapított szöveg.
-[^228]: A 26. § (6) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított szöveg.
+[^224]: A 25/C. §-t a 257/2011. (XII. 6.) Korm. rendelet 10. §-a iktatta be.
+[^225]: A VIII. cím a 225/2001. (XI. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^226]: A 26. § (1) bekezdése a 207/2001. (X. 30.) Korm. rendelet 7. §-ával, nyitó szövegrésze az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^227]: A 26. § (1) bekezdésének d) pontja az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^228]: A 26. § (5) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (3) bekezdésével megállapított szöveg.
+[^229]: A 26. § (6) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
