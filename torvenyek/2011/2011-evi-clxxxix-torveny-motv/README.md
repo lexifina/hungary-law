@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2013-06-21 | 2013. évi LXXXIX. törvény | 2011-189-00-00.15 |
 | 2013-06-22 | 2013. évi LXXXV. törvény | 2011-189-00-00.16 |
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2011-189-00-00.17 |
+| 2013-08-01 | 2013. évi CXXXI. törvény | 2011-189-00-00.18 |
