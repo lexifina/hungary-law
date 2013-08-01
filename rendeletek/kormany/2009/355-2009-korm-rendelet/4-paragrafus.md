@@ -6,7 +6,7 @@ b) foglalkoztató:
 
 ba) aki részére a harmadik országbeli állampolgár foglalkoztatásra irányuló jogviszony alapján munkát végez,
 
-bb)[^14] aki külföldi székhelyű vállalkozással kötött megállapodást, és a megállapodás teljesítése érdekében a harmadik országbeli állampolgárt foglalkoztatja, továbbá akivel kötött megállapodás teljesítése érdekében végez a harmadik országbeli állampolgár Magyarország területén munkát;
+bb)[^15] aki külföldi székhelyű vállalkozással kötött megállapodást, és a megállapodás teljesítése érdekében a harmadik országbeli állampolgárt foglalkoztatja, továbbá akivel kötött megállapodás teljesítése érdekében végez a harmadik országbeli állampolgár Magyarország területén munkát;
 
 c) foglalkoztatásra irányuló jogviszony: minden olyan jogviszony, amelyben a jogviszony tárgya a harmadik országbeli állampolgár által a foglalkoztató részére ellenérték fejében végzett munka, ideértve azt is, ha a harmadik országbeli állampolgár foglalkoztatására
 
@@ -26,4 +26,4 @@ g) edző: a sportról szóló törvényben meghatározott tevékenységet végz�
 
 h) sporttevékenység: a sportról szóló törvényben meghatározott tevékenység.
 
-[^14]: A 4. § b) pont bb) alpontja a 324/2011. (XII. 28.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § b) pont bb) alpontja a 324/2011. (XII. 28.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

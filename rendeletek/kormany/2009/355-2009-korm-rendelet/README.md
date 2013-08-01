@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-355-20-
 | 2011-12-30 | 2009-355-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-01-01 | 2009-355-20-22.7 | 324/2011. (XII. 28.) Korm. rendelet |
 | 2012-07-04 | 2009-355-20-22.8 | 144/2012. (VII. 3.) Korm. rendelet |
+| 2013-08-01 | 2009-355-20-22.9 | 445/2013. (XI. 28.) Korm. rendelet |
