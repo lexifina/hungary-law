@@ -1,6 +1,6 @@
-## 26. §[^102] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 382/2012. (XII. 19.) Korm. rendelet 16. §-ával megállapított 2. § (2) bekezdését, 17. §-ával megállapított 20/B. § (16) bekezdését először a 2013. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2012. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+## 27. §[^103] A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 33. § (1) bekezdése szerinti vallási közösség a 2012. és 2013. üzleti évi beszámolókészítési és könyvvezetési kötelezettségének e rendelet szerint is eleget tehet.
 
-1. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^103]
+1. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^104]
 
-[^102]: A 26. §-t a 382/2012. (XII. 19.) Korm. rendelet 18. §-a iktatta be.
-[^103]: Az 1. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (1) bekezdése szerint módosított szöveg.
+[^103]: A 27. §-t a 297/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^104]: Az 1. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 38. § (1) bekezdése szerint módosított szöveg.
