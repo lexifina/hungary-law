@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-137-00-00
 | 2011-01-01 | 2010. évi CLXXXV. törvény | 2004-137-00-00.5 |
 | 2011-08-03 | 2011. évi CVII. törvény | 2004-137-00-00.6 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2004-137-00-00.7 |
+| 2013-08-01 | 2013. évi CXXXI. törvény | 2004-137-00-00.8 |

@@ -1,1 +1,1 @@
-22. § E törvény III. Fejezetének A Médiatanács feladatai alcíme az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+22. § E törvény III. Fejezetének A Médiatanács feladatai alcíme az Alaptörvény IX. cikk (6) bekezdése alapján sarkalatosnak minősül.
