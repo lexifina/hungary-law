@@ -1,16 +1,16 @@
 2. számú melléklet az 52/2005. (VI. 4.) FVM–PM
 
-együttes rendelethez[^12]
+együttes rendelethez[^19]
 
 Magyarország államhatárán keresztül
 
-az Európai Unió területére belépő, és Magyarország területén szabad forgalomba bocsátani kívánt import takarmány bejelentő lapjának mintája[^13]
+az Európai Unió területére belépő, és Magyarország területén szabad forgalomba bocsátani kívánt import takarmány bejelentő lapjának mintája[^20]
 
 I.
 
 1. Importőr adatai (név, cím, telefonszám)
 
-2. Import takarmány megnevezése[^14]
+2. Import takarmány megnevezése[^21]
 
 3. Import takarmány mennyisége (nettó tömege)
 
@@ -18,7 +18,7 @@ I.
 
 5. Az első betárolás várható időpontja és helye
 
-6. A Vhr. 7. § (8) bekezdése szerinti import takarmányt előállító üzem magyarországi képviselőjének neve és az ÁOGYTI-nél vezetett nyilvántartási száma
+6.[^22] A Vhr. 7. § (8) bekezdése szerinti import takarmányt előállító üzem magyarországi képviselőjének neve és a Nemzeti Élelmiszerlánc-biztonsági Hivatalnál vezetett nyilvántartási száma
 
 7. KN kód:
 
@@ -66,6 +66,7 @@ Dátum:
 
 aláírás, hivatalos bélyegző
 
-[^12]: A 2. számú melléklet a 31/2006. (IV. 29.) FVM–GKM–PM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^13]: A 2. számú melléklet címe az 5/2012. (II. 10.) VM rendelet 19. § a) és b) pontja szerint módosított szöveg.
-[^14]: Az 1. számú melléklet II. fejezetének 8. pontja szerinti megnevezés.
+[^19]: A 2. számú melléklet a 31/2006. (IV. 29.) FVM–GKM–PM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 2. számú melléklet címe az 5/2012. (II. 10.) VM rendelet 19. § a) és b) pontja szerint módosított szöveg.
+[^21]: Az 1. számú melléklet II. fejezetének 8. pontja szerinti megnevezés.
+[^22]: A 2. számú melléklet 6. pontja a 70/2013. (VII. 31.) VM rendelet 50. § j) pontja szerint módosított szöveg.
