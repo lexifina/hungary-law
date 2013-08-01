@@ -6,7 +6,7 @@
 
 ## A társasági adókötelezettség
 
-5. § (1) Az adózót jövedelme után e törvény előírása szerint társasági adókötelezettség terheli. Az adóévben vállalkozási tevékenységet nem folytató egyház társasági adókötelezettségét azzal teljesíti, hogy az adóévre bevallást helyettesítő nyilatkozatot tesz.
+5. § (1) Az adózót jövedelme után e törvény előírása szerint társasági adókötelezettség terheli. Az adóévben vállalkozási tevékenységet nem folytató egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül társasági adókötelezettségét azzal teljesíti, hogy az adóévre bevallást helyettesítő nyilatkozatot tesz.
 
 (2) A belföldi illetőségű adózó társasági adókötelezettsége a társasági szerződése közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön. Az adózó adókötelezettsége azon a napon szűnik meg, amelyen a megszűnését szabályozó jogszabály szerint megszűnik, vagy amely napot követő napon bármely egyéb okból kikerül a társasági adó hatálya alól (ideértve a cégbejegyzés iránti kérelem elutasítását vagy a cégbejegyzési eljárás megszüntetését is).
 

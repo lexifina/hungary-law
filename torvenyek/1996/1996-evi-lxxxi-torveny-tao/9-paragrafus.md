@@ -1,6 +1,6 @@
-## Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapjának megállapítása
+## Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapjának megállapítása
 
-9. § (1) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet és az önkéntes kölcsönös biztosítópénztár, valamint a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapja a vállalkozási tevékenység adózás előtti eredménye, módosítva a (2)–(5) bekezdésben foglaltakkal és figyelemmel a (6)–(9) bekezdés rendelkezéseire.
+9. § (1) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet és az önkéntes kölcsönös biztosítópénztár, valamint a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapja a vállalkozási tevékenység adózás előtti eredménye, módosítva a (2)–(5) bekezdésben foglaltakkal és figyelemmel a (6)–(9) bekezdés rendelkezéseire.
 
 (2) Csökkenteni kell az adózás előtti eredményt
 
@@ -26,7 +26,7 @@ bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított r�
 
 (4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16., a 18. és a 28. §-ok,valamint a VII. fejezet rendelkezéseit.
 
-(5) Az egyház az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel, továbbá az e célból lekötött tartalékba helyezett összeggel.
+(5) Az egyházi jogi személy az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel, továbbá az e célból lekötött tartalékba helyezett összeggel.
 
 (6) A közhasznú szervezetként besorolt alapítvány, közalapítvány, egyesület, köztestület és felsőoktatási intézmény adóalapja az (1)–(4) bekezdés alapján meghatározott összegnek a (7) bekezdésben előírt aránnyal számított része.
 
@@ -34,6 +34,6 @@ bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított r�
 
 (8) Az országos érdek-képviseleti szervezet az adóalapot az (1)–(7) bekezdések szerint, a közhasznú szervezetre vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg.
 
-(9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
+(9) Az egyházi jogi személy vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
 
 (10) Az európai területi együttműködési csoportosulás, és a foglalkoztatói nyugdíjszolgáltató intézmény az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.

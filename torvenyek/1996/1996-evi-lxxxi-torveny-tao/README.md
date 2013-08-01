@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2013-05-19 | 2013. évi XXXVII. törvény | 1996-81-00-00.73 |
 | 2013-06-30 | 2013. évi CIII. törvény | 1996-81-00-00.74 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1996-81-00-00.75 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 1996-81-00-00.76 |
