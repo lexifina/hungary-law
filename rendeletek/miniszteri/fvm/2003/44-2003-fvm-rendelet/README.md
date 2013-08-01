@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-44-20-8
 | 2012-07-18 | 2003-44-20-82.18 | 64/2012. (VII. 3.) VM rendelet |
 | 2013-01-04 | 2003-44-20-82.19 | 143/2012. (XII. 27.) VM rendelet |
 | 2013-06-17 | 2003-44-20-82.20 | 51/2013. (VI .17.) VM rendelet |
+| 2013-08-01 | 2003-44-20-82.21 | 52/2005. (VI. 4.) FVM–PM együttes rendelet |
