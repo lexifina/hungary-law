@@ -16,9 +16,9 @@
 
 ## Járási főállatorvoshoz január 10-éig.
 
-## Állomáshoz január 20-áig.
+## élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz január 20-áig.
 
-## Minisztériumba és Országos Állategészségügyi Intézetbe január 31-éig.
+## Minisztériumba és a NÉBIH-be január 31-éig.
 
 ## ...................................................................... .................................................................................................
 
@@ -56,7 +56,7 @@ b) TB56
 
 9. A tuberkulin pH-jának 6,6 és 7,5 között kell lennie.
 
-10. Anti-mikrobiális tartósító vagy más anyagok, amelyeket a tuberkulinhoz adnak nem befolyásolhatják a tuberkulin ártalmatlanságát és hatékonyságát. Ezt a tuberkulin hatósági ellenőrzésért felelős Állatgyógyászati Oltóanyag-, Gyógyszer- és Takarmány-ellenőrző Intézetnek (a továbbiakban: ÁOGYTI) be kell mutatni. Phenolból és glycerinből az alábbi megengedett maximális koncentrációk alkalmazhatók:
+10.[^53] Anti-mikrobiális tartósító vagy más anyagok, amelyeket a tuberkulinhoz adnak nem befolyásolhatják a tuberkulin ártalmatlanságát és hatékonyságát. Ezt a tuberkulin hatósági ellenőrzésért felelős NÉBIH-nek be kell mutatni. Phenolból és glycerinből az alábbi megengedett maximális koncentrációk alkalmazhatók:
 
 a) phenol: 0,5% m/v
 
@@ -70,7 +70,7 @@ liofilizált PPD tuberkulin: 8 év
 
 b) HCSM hígított tuberkulin: 2 év
 
-12. Az alábbi állami intézet felelős országunkban a tuberkulin hatósági vizsgálatáért, ellenőrzéséért: ÁOGYTI (Kinevezi a címmel együtt).
+12.[^54] Az alábbi állami intézet felelős országunkban a tuberkulin hatósági vizsgálatáért, ellenőrzéséért: NÉBIH, 1024 Budapest, Keleti Károly utca 24..
 
 13. Hatósági vizsgálatot valamennyi gyártási tételén a használatra kész, kidozírozott tuberkulinon el kell végezni.
 
@@ -94,7 +94,7 @@ b) HCSM hígított tuberkulin: 2 év
 
 23. Az EEC standard madár tuberkulin 50 000 nemzetközi egységet (IU) tartalmaz a PPD szárított anyagának milligrammjaként és úgy dozírozzák, hogy az ampullák 10 mg PPD-t, valamint 26,3 mg sót tartalmaznak, ami azt jelenti, hogy 0,0000726 mg egyenlő egy nemzetközi egységgel.
 
-24. A tuberkulinokat, amelyet a gyártók átadnak a 12. pontban felsorolt ÁOGYTI-nek meg kell vizsgálni a 2. és 3. pontban felsorolt megfelelő standardokkal való összehasonlítással biológiai próbában.
+24.[^55] A tuberkulinokat, amelyet a gyártók átadnak a NÉBIH-nek meg kell vizsgálni a 2. és 3. pontban felsorolt megfelelő standardokkal való összehasonlítással biológiai próbában.
 
 25. a) Hatékonysági vizsgálat tengerimalacon
 
@@ -142,4 +142,9 @@ A címkének a tartályon és a csomagon tartalmaznia kell:
 
 – a bactérium törzset, amelyből a tuberkulin készült.
 
-27. Az ÁOGYTI felelőssége kiegészítő vizsgálatokkal biztosítani, hogy a rutinszerűen előállított és Magyarországon használt tuberkulinok hatékonysága megfeleljen a Közösségi standard tuberkulin hatékonyságának. Ezeket a vizsgálatokat gümőkóros szarvasmarhákon, megfelelően szenzibilizált tengerimalacokon és megfelelő kémiai módszerrel kell végrehajtani.
+27.[^56] A NÉBIH felelőssége kiegészítő vizsgálatokkal biztosítani, hogy a rutinszerűen előállított és Magyarországon használt tuberkulinok hatékonysága megfeleljen a Közösségi standard tuberkulin hatékonyságának. Ezeket a vizsgálatokat gümőkóros szarvasmarhákon, megfelelően szenzibilizált tengerimalacokon és megfelelő kémiai módszerrel kell végrehajtani.
+
+[^53]: A 7. számú melléklet 10. pontja a 70/2013. (VII. 31.) VM rendelet 19. § u) pontja szerint módosított szöveg.
+[^54]: A 7. számú melléklet 12. pontja a 70/2013. (VII. 31.) VM rendelet 19. § v) pontja szerint módosított szöveg.
+[^55]: A 7. számú melléklet 24. pontja a 70/2013. (VII. 31.) VM rendelet 19. § w) pontja szerint módosított szöveg.
+[^56]: A 7. számú melléklet 27. pontja a 70/2013. (VII. 31.) VM rendelet 19. § x) pontja szerint módosított szöveg.

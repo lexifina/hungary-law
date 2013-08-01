@@ -4,6 +4,8 @@
 
 ## b) paraallergiás reakció okának tisztázására a leölt állatok mandulái, garat körüli, bélfodri és májkapui nyirokcsomói,
 
-## c) mycobaktériumok kimutatására takarmány, alom, talaj stb. mintáiból 20–50 gramm, bélsárból 20 gramm, vizeletből 50 cm3, itató- és ivóvízből 5 liter. A gümőkórra irányuló vizsgálat és a mycobaktériumok meghatározása érdekében a vizsgálati anyagot az OÁI-ba kell küldeni.
+## c)[^51] mycobaktériumok kimutatására takarmány, alom, talaj stb. mintáiból 20–50 gramm, bélsárból 20 gramm, vizeletből 50 cm3, itató- és ivóvízből 5 liter. A gümőkórra irányuló vizsgálat és a mycobaktériumok meghatározása érdekében a vizsgálati anyagot a NÉBIH-be kell küldeni.
 
 4. számú melléklet a 65/2002. (VIII. 9.) FVM rendelethez
+
+[^51]: A 3. számú melléklet c) pontja a 70/2013. (VII. 31.) VM rendelet 19. § j) pontja szerint módosított szöveg.

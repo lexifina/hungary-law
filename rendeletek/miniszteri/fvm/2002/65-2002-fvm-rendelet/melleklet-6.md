@@ -58,6 +58,6 @@
 
 ## vizsgálatot végzők
 
-6. számú melléklet a 65/2002. (VIII. 9.) FVM rendelethez[^34]
+6. számú melléklet a 65/2002. (VIII. 9.) FVM rendelethez[^52]
 
-[^34]: A 6. számú melléklet a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja szerint módosított szöveg.
+[^52]: A 6. számú melléklet a 151/2012. (XII. 29.) VM rendelet 12. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 19. § s) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 19. § t) pontjával elrendelt módosítás, amely szerint az „az Országos Állategészségügyi Intézetbe” szövegrész helyébe az „a NÉBIH-be” szöveg lép, nem vezethető át.]
