@@ -36,7 +36,7 @@
 
 ## (+) Ezen szer hozamfokozási célú alkalmazása tilos, viszont terápiás célra más jogszabályban foglaltak szerint igénybe vehető.
 
-## ,,B'' csoport – Állatgyógyászati készítmények[^6] és szennyező anyagok:
+## ,,B'' csoport – Állatgyógyászati készítmények[^21] és szennyező anyagok:
 
 ## (1) antibakteriális szerek, ideértve a szulfonamidokat és a kinolon származékokat,
 
@@ -70,4 +70,4 @@
 
 2. számú melléklet a 10/2002. (I. 23.) FVM rendelethez
 
-[^6]: Ideértve az állatgyógyászati célra használható egyéb anyagokat is.
+[^21]: Ideértve az állatgyógyászati célra használható egyéb anyagokat is.
