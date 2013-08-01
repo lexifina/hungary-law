@@ -1,0 +1,1 @@
+A Kormány a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 12. pontjában, a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdésének a)–c) pontjaiban kapott felhatalmazás alapján, valamint az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
