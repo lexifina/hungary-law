@@ -50,7 +50,7 @@ b) hasznosító vállalkozás: költségvetési kutatóhelyen – a 20. § alkal
 
 b) projekt: meghatározott kutatás-fejlesztési feladat, technológiai innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján;
 
-9. civil szervezet: az egyesülési jogról szóló törvény alapján létrejött egyesület, szövetség (kivéve a pártot, a munkaadói és munkavállalói érdekképviseleti szervezetet, a biztosító egyesületet, valamint az egyházat) és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján létrejött alapítvány (ide nem értve a közalapítványt);
+9. civil szervezet: az egyesülési jogról szóló törvény alapján létrejött egyesület, szövetség (kivéve a pártot, a munkaadói és munkavállalói érdekképviseleti szervezetet és a biztosító egyesületet) és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján létrejött alapítvány (ide nem értve a közalapítványt);
 
 10. kutatás-fejlesztési megállapodás: két vagy több vállalkozás, illetve vállalkozás és kutatóhely (e pontban a továbbiakban: felek) között létrejött olyan megállapodás, amelynek tárgya
 
