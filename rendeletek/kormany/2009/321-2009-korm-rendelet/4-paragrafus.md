@@ -2,21 +2,21 @@
 
 (2) A működést engedélyező szerv a működési engedély kiadásáról, módosításáról és visszavonásáról
 
-a)[^16] a határozat jogerőre emelkedésétől, a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozat meghozatalától, illetve a 13. § (6) bekezdése szerinti végzés meghozatalától számított nyolc napon belül értesíti
+a)[^17] a határozat jogerőre emelkedésétől, a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozat meghozatalától, illetve a 13. § (6) bekezdése szerinti végzés meghozatalától számított nyolc napon belül értesíti
 
-aa)[^17] a szociális szolgáltatást az Szt. alapján biztosítani köteles helyi önkormányzat (a továbbiakban: ellátásra köteles helyi önkormányzat) jegyzőjét, főjegyzőjét, valamint a megyei kirendeltség igazgatóját,
+aa)[^18] a szociális szolgáltatást az Szt. alapján biztosítani köteles helyi önkormányzat (a továbbiakban: ellátásra köteles helyi önkormányzat) jegyzőjét, főjegyzőjét, valamint a megyei kirendeltség igazgatóját,
 
 ab) az ellátottjogi képviselőt,
 
-ac)[^18] a Főigazgatóságot,
+ac)[^19] a Főigazgatóságot,
 
 ad) a szociális szolgáltató, intézmény székhelye, telephelye szerint illetékes települési jegyzőt,
 
-ae)[^19] támogató szolgáltatást, közösségi ellátást, jelzőrendszeres házi segítségnyújtást vagy utcai szociális munkát nyújtó szociális szolgáltató, intézmény esetén a Hivatalt,
+ae)[^20] támogató szolgáltatást, közösségi ellátást, jelzőrendszeres házi segítségnyújtást vagy utcai szociális munkát nyújtó szociális szolgáltató, intézmény esetén a Hivatalt,
 
-af)[^20]
+af)[^21]
 
-b)[^21] hozott jogerős vagy a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát és a 13. § (6) bekezdése szerinti végzését közli a Magyar Államkincstárnak a normatív állami támogatás ügyében illetékes területi szervével (a továbbiakban: igazgatóság).
+b)[^22] hozott jogerős vagy a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát és a 13. § (6) bekezdése szerinti végzését közli a Magyar Államkincstárnak a normatív állami támogatás ügyében illetékes területi szervével (a továbbiakban: igazgatóság).
 
 (3) A működést engedélyező szerv megkeresésre tájékoztatást ad a szociális szolgáltatók, intézmények általa kezelt közérdekű adatairól, különösen arról, hogy a szociális szolgáltató, intézmény
 
@@ -26,9 +26,9 @@ b) működési engedélye milyen tartalommal lett kiadva,
 
 c) működése az ellenőrzés során tett megállapítások alapján megfelel-e a jogszabályi feltételeknek.
 
-[^16]: A 4. § (2) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^17]: A 4. § (2) bekezdés a) pont aa) alpontja a 258/2011. (XII. 7.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 349/2012. (XII. 12.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
-[^18]: A 4. § (2) bekezdés a) pont ac) alpontja a 349/2012. (XII. 12.) Korm. rendelet 59. § b) pontjával megállapított szöveg.
-[^19]: A 4. § (2) bekezdés a) pont ae) alpontja a 332/2010. (XII. 27.) Korm. rendelet 35. § b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 30. §-a szerint módosított szöveg.
-[^20]: A 4. § (2) bekezdés a) pont af) alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés d) pontja hatályon kívül helyezte.
-[^21]: A 4. § (2) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^18]: A 4. § (2) bekezdés a) pont aa) alpontja a 258/2011. (XII. 7.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 349/2012. (XII. 12.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdés a) pont ac) alpontja a 349/2012. (XII. 12.) Korm. rendelet 59. § b) pontjával megállapított szöveg.
+[^20]: A 4. § (2) bekezdés a) pont ae) alpontja a 332/2010. (XII. 27.) Korm. rendelet 35. § b) pontja, a 140/2011. (VII. 21.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^21]: A 4. § (2) bekezdés a) pont af) alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^22]: A 4. § (2) bekezdés b) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés b) pontja szerint módosított szöveg.

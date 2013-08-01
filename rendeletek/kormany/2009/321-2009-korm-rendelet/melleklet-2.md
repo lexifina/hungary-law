@@ -1,6 +1,6 @@
 ## A működési engedély kiadása, módosítása és visszavonása iránti kérelem benyújtására szolgáló adatlapok és elektronikus űrlapok adattartalma
 
-## 1.[^111] a fenntartó neve, székhelye, szervezeti formája, adószáma és elérhetősége, továbbá – cégjegyzékben nyilvántartott cég esetén – a cégjegyzékszáma;
+## 1.[^119] a fenntartó neve, székhelye, szervezeti formája, adószáma és elérhetősége, továbbá – cégjegyzékben nyilvántartott cég esetén – a cégjegyzékszáma;
 
 ## 2. a fenntartó képviselőjének és kapcsolattartójának neve, beosztása és elérhetősége;
 
@@ -16,9 +16,9 @@
 
 ## 8. a kérelem elbírálásához jogszabály alapján szükséges egyéb adatok.
 
-## 9.[^112] a fenntartó nyilatkozata arról, hogy a szolgáltatót, intézményt, ellátotti, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
+## 9.[^120] a fenntartó nyilatkozata arról, hogy a szolgáltatót, intézményt, ellátotti, illetve férőhelyszámot normatív állami hozzájárulással kívánja-e működtetni.
 
 2. számú melléklet a 321/2009. (XII. 29.) Korm. rendelethez
 
-[^111]: Az 1. számú melléklet 1. pontja a 355/2012. (XII. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
-[^112]: Az 1. számú melléklet 9. pontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^119]: Az 1. számú melléklet 1. pontja a 355/2012. (XII. 13.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^120]: Az 1. számú melléklet 9. pontját a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be.

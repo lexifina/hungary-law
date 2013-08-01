@@ -120,7 +120,7 @@
 
 ## 3.1.17. egyéb speciális szociális intézményi ellátás;
 
-## 3.1.18.[^122] támogatott lakhatás az Szt. 75. § (2) bekezdése szerinti forma megjelölésével
+## 3.1.18.[^133] támogatott lakhatás az Szt. 75. § (2) bekezdése szerinti forma megjelölésével
 
 ## 3.1.18.1. támogatott lakhatás fogyatékos személyek részére az Szt. 75. § (2) bekezdése szerinti forma megjelölésével,
 
@@ -134,7 +134,7 @@
 
 ## 3.3. jelzőrendszeres segítségnyújtás esetén – a teljesített feltételek alapján – a kihelyezhető jelzőkészülékek száma;
 
-## 3.4.[^123] nappali ellátás és bentlakásos intézményi ellátás, valamint a támogatott lakhatás esetén a férőhelyek száma;
+## 3.4.[^134] nappali ellátás és bentlakásos intézményi ellátás, valamint a támogatott lakhatás esetén a férőhelyek száma;
 
 ## 3.5. a külső férőhelyek címe és száma;
 
@@ -148,11 +148,11 @@
 
 ## 3.10. időszakos férőhelybővítés esetén az az időszak, amelyre az időszakos férőhely-bővítést engedélyezték;
 
-## 3.11.[^124] falugondnoki és tanyagondnoki szolgáltatás, valamint étkeztetés esetén a szolgáltatás befogadására, házi segítségnyújtás esetében az ellátható személyek számán belül a befogadott létszámra, nappali és bentlakásos intézményi ellátás, valamint a támogatott lakhatás esetén a férőhelyszámon belül a befogadott férőhelyek számára vonatkozó adatok.
+## 3.11.[^135] falugondnoki és tanyagondnoki szolgáltatás, valamint étkeztetés esetén a szolgáltatás befogadására, házi segítségnyújtás esetében az ellátható személyek számán belül a befogadott létszámra, nappali és bentlakásos intézményi ellátás, valamint a támogatott lakhatás esetén a férőhelyszámon belül a befogadott férőhelyek számára vonatkozó adatok.
 
-## 3.12. egyházi és nem állami fenntartó esetén – ha a fenntartó a szociális szolgáltató, intézmény által nyújtott szociális szolgáltatásra ellátási szerződést kötött – az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, valamint az a szociális szolgáltatás és férőhelyszám, amelyre az ellátási szerződés kiterjed, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték.
+## 3.12.[^136] egyházi fenntartó és nem állami fenntartó esetén – ha a fenntartó a szociális szolgáltató, intézmény által nyújtott szociális szolgáltatásra ellátási szerződést kötött – az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, valamint az a szociális szolgáltatás és férőhelyszám, amelyre az ellátási szerződés kiterjed, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték.
 
-## 3.13[^125] támogatott lakhatás esetén
+## 3.13[^137] támogatott lakhatás esetén
 
 ## 3.13.1. a lakhatási szolgáltatást biztosító ingatlanok címe és férőhelyszáma,
 
@@ -162,11 +162,11 @@
 
 ## Kiegészítő szabályok:
 
-## 1.[^126] Nonprofit nem állami fenntartóként az egyesületet, az alapítványt, a közalapítványt, a nonprofit gazdasági társaságot és az országos kisebbségi önkormányzatot kell feltüntetni.
+## 1.[^138] Nonprofit nem állami fenntartóként az egyesületet, az alapítványt, a közalapítványt, a nonprofit gazdasági társaságot és az országos kisebbségi önkormányzatot kell feltüntetni.
 
 ## 2. A szociális szolgáltató, intézmény nevének – például a nyújtott szociális szolgáltatások egyikének feltüntetésével vagy általában a szociális szolgáltatásokra történő utalással – erre a minőségére utalnia kell. Ha az ellátást nyújtó székhelynek, telephelynek saját neve is van, a működési engedélyében a szociális szolgáltató, intézmény neveként azt is fel kell tüntetni. Ha a szociális szolgáltatást az egyéni vállalkozó fenntartó egyszemélyes szolgáltatóként saját maga nyújtja, a szociális szolgáltató nevét a működési engedélyben nem kell feltüntetni.
 
-## 3.[^127] Ha a szakmai programból más nem következik, a férőhelyszám a fenntartó kérelmére szociális szolgáltatásonként (3.1.12., 3.1.13., 3.1.14., 3.1.15., 3.1.16., 3.1.17., 3.1.18.) vagy azon belül, ellátotti csoportonként is meghatározható (3.1.12.1–3.1.12.5., 3.1.13.1–3.1.13.6., 3.1.14.1–3.1.14.5., 3.1.15.1–3.1.15.4., 3.1.16.1–3.1.16.4., 3.1.18.1–3.1.18.4.). A 2008. január 1-jét megelőzően hatályos jogszabályok szerinti emelt szintű férőhelyek és az időszakos férőhelyek számát külön kell feltüntetni. Ha a szociális intézmény a nappali ellátás keretében fogyatékos gyermekek vagy demens személyek ellátását is vállalja, ezt a működési engedélyben – férőhelyszám meghatározása nélkül – minden esetben fel kell tüntetni.
+## 3.[^139] Ha a szakmai programból más nem következik, a férőhelyszám a fenntartó kérelmére szociális szolgáltatásonként (3.1.12., 3.1.13., 3.1.14., 3.1.15., 3.1.16., 3.1.17., 3.1.18.) vagy azon belül, ellátotti csoportonként is meghatározható (3.1.12.1–3.1.12.5., 3.1.13.1–3.1.13.6., 3.1.14.1–3.1.14.5., 3.1.15.1–3.1.15.4., 3.1.16.1–3.1.16.4., 3.1.18.1–3.1.18.4.). A 2008. január 1-jét megelőzően hatályos jogszabályok szerinti emelt szintű férőhelyek és az időszakos férőhelyek számát külön kell feltüntetni. Ha a szociális intézmény a nappali ellátás keretében fogyatékos gyermekek vagy demens személyek ellátását is vállalja, ezt a működési engedélyben – férőhelyszám meghatározása nélkül – minden esetben fel kell tüntetni.
 
 ## 4. A külső férőhelyek számát címenként kell meghatározni.
 
@@ -206,9 +206,10 @@ A tanúsítvány tartalma
 
 11. A kiadmányozási joggal rendelkező személy aláírása és a tanúsítványt kiállító szerv bélyegzőlenyomata.
 
-[^122]: A 3. számú melléklet 3.1.18. pontját a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése iktatta be.
-[^123]: A 3. számú melléklet 3.4. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése szerint módosított szöveg.
-[^124]: A 3. számú melléklet 3. pont 3.11. alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés e) pontja hatályon kívül helyezte, újonnan a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be, szövege a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése szerint módosított szöveg.
-[^125]: A 3. számú melléklet 3.13. pontját a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése iktatta be.
-[^126]: A 3. számú melléklet „Kiegészítő szabályok” rész 1. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdése szerint módosított szöveg.
-[^127]: A 3. számú melléklet „Kiegészítő szabályok” rész 3. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 60. § e) pontja szerint módosított szöveg.
+[^133]: A 3. számú melléklet 3.1.18. pontját a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése iktatta be.
+[^134]: A 3. számú melléklet 3.4. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése szerint módosított szöveg.
+[^135]: A 3. számú melléklet 3. pont 3.11. alpontját a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés e) pontja hatályon kívül helyezte, újonnan a 330/2011. (XII. 29.) Korm. rendelet 21. §-a iktatta be, szövege a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése szerint módosított szöveg.
+[^136]: A 3. számú melléklet 3.12. pontja a 297/2013. (VII. 29.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
+[^137]: A 3. számú melléklet 3.13. pontját a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése iktatta be.
+[^138]: A 3. számú melléklet „Kiegészítő szabályok” rész 1. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (1) bekezdése szerint módosított szöveg.
+[^139]: A 3. számú melléklet „Kiegészítő szabályok” rész 3. pontja a 317/2012. (XI. 13.) Korm. rendelet 40. § (2) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 60. § e) pontja szerint módosított szöveg.

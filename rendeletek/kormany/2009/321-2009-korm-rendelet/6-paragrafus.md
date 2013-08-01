@@ -2,9 +2,9 @@
 
 a) a szociális szolgáltató, intézmény megfelel a jogszabályokban meghatározott feltételeknek, és
 
-b) az egyházi, nem állami fenntartó a kérelem benyújtásának időpontjában köztartozásmentes adózónak minősül, továbbá
+b)[^40] az egyházi fenntartó, nem állami fenntartó a kérelem benyújtásának időpontjában köztartozásmentes adózónak minősül, továbbá
 
-c)[^38] a nem állami fenntartású tartós bentlakásos intézmény elhelyezésére szolgáló ingatlan – ide nem értve a lakhatási szolgáltatást biztosító ingatlanokat és a külső férőhelyeket –
+c)[^41] a nem állami fenntartású tartós bentlakásos intézmény elhelyezésére szolgáló ingatlan – ide nem értve a lakhatási szolgáltatást biztosító ingatlanokat és a külső férőhelyeket –
 
 ca) a fenntartó kizárólagos, haszonélvezettel nem terhelt tulajdonában van, vagy
 
@@ -12,7 +12,7 @@ cb) olyan helyi önkormányzat, társulás, illetve állami szerv kizárólagos 
 
 (2) A működési engedélyben fel kell tüntetni a 3. számú melléklet szerinti adatokat.
 
-(3)[^39] Az alapszolgáltatás ellátási területe – a falugondnoki és a tanyagondnoki szolgáltatás, a jelzőrendszeres házi segítségnyújtás, valamint a nappali ellátás kivételével – legfeljebb
+(3)[^42] Az alapszolgáltatás ellátási területe – a falugondnoki és a tanyagondnoki szolgáltatás, a jelzőrendszeres házi segítségnyújtás, valamint a nappali ellátás kivételével – legfeljebb
 
 a) a fővárosra és két – vele szomszédos – kistérségre, vagy
 
@@ -28,10 +28,11 @@ terjedhet ki, amelyet az ellátást nyújtó székhely és a telephelyek engedé
 
 (7) Ha az (5)–(6) bekezdés alapján az adott szociális szolgáltatásra a működési engedély több különböző hatállyal is kiadható, a működési engedélyt a legrövidebb hatállyal kell kiadni. A fennmaradt időre – ha a feltételei egyébként fennállnak – az ideiglenes működési engedély hatálya is meghosszabbítható.
 
-(7a)[^40] Támogatott lakhatás esetén az (5) és (6) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a lakhatási szolgáltatást biztosító különböző ingatlanokra a működési engedély hatályát a működési engedélyben külön meg kell határozni. Ha a lakhatási szolgáltatást biztosító ugyanazon ingatlanra a működési engedély több különböző hatállyal is kiadható, a (7) bekezdésben foglaltakat kell alkalmazni.
+(7a)[^43] Támogatott lakhatás esetén az (5) és (6) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a lakhatási szolgáltatást biztosító különböző ingatlanokra a működési engedély hatályát a működési engedélyben külön meg kell határozni. Ha a lakhatási szolgáltatást biztosító ugyanazon ingatlanra a működési engedély több különböző hatállyal is kiadható, a (7) bekezdésben foglaltakat kell alkalmazni.
 
 (8) A szociális szolgáltató, intézmény – ha a határozat későbbi időpontot nem állapít meg – a működési engedélyt kiadó határozat jogerőre emelkedésétől kezdődően működtethető.
 
-[^38]: A 6. § (1) bekezdés c) pontja a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^39]: A 6. § (3) bekezdés nyitó szövegrésze a 89/2013. (III. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^40]: A 6. § (7a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 37. §-a iktatta be.
+[^40]: A 6. § (1) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
+[^41]: A 6. § (1) bekezdés c) pontja a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^42]: A 6. § (3) bekezdés nyitó szövegrésze a 89/2013. (III. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^43]: A 6. § (7a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 37. §-a iktatta be.

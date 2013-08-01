@@ -20,7 +20,7 @@ c) a szociális szolgáltató, intézmény a szociális szolgáltatások nyújt�
 
 (3) Az ellátási kötelezettséget teljesítő állami fenntartó kérelmére a működési engedély akkor vonható vissza, ha az ellátottakról megfelelően gondoskodott.
 
-(4) Az egyházi, a nem állami és az ellátási kötelezettséget teljesítőnek nem minősülő állami fenntartó kérelmére a működési engedély akkor vonható vissza, ha
+(4)[^60] Az egyházi fenntartó, a nem állami fenntartó és az ellátási kötelezettséget teljesítőnek nem minősülő állami fenntartó kérelmére a működési engedély akkor vonható vissza, ha
 
 a) a 8. § (3) bekezdése szerinti bejelentési kötelezettségének határidőben eleget tett, vagy
 
@@ -35,3 +35,5 @@ b) a fenntartó egyéni vállalkozó cselekvőképességet kizáró vagy korlát
 c) ha a fenntartó egyéni vállalkozó egyéni céget alapított, vagy átruházással megszerezte az egyéni cég vagyoni betétjét, és határidőben benyújtott kérelmére a fenntartóváltozást engedélyezik.
 
 (6) A működési engedély visszavonása esetén a 19–20. §-ban foglaltakat megfelelően alkalmazni kell.
+
+[^60]: A 9. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 59. § b) pontja szerint módosított szöveg.

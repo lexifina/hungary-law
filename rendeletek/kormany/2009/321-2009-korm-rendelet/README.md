@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-321-20-
 | 2013-01-01 | 2009-321-20-22.12 | 317/2012. (XI. 13.) Korm. rendelet |
 | 2013-02-01 | 2009-321-20-22.13 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-07-01 | 2009-321-20-22.14 | 89/2013. (III. 28.) Korm. rendelet |
+| 2013-08-01 | 2009-321-20-22.15 | 297/2013. (VII. 29.) Korm. rendelet |

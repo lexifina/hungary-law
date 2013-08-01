@@ -1,4 +1,4 @@
-## 17. §[^89]
+## 17. §[^95]
 
 ## Engedély nélkül nyújtott szociális szolgáltatások
 
@@ -14,7 +14,7 @@ soron kívül – szükség szerint az 5. § (3) bekezdése szerinti hatóságok
 
 (3) Ha a működést engedélyező szerv megállapítja, hogy szociális szolgáltatást engedély nélkül nyújtanak, bírságot szab ki, és
 
-a)[^90] felszólítja a működtetőt, hogy a felszólítás közlésétől számított tizenöt napon belül kérelmezze a működési engedély kiadását, ha a szolgáltatás eleget tesz a működési engedély kiadásához szükséges, külön jogszabályban meghatározott személyi és tárgyi feltételeknek, vagy a feltételek tizenöt napon belül biztosíthatók,
+a)[^96] felszólítja a működtetőt, hogy a felszólítás közlésétől számított tizenöt napon belül kérelmezze a működési engedély kiadását, ha a szolgáltatás eleget tesz a működési engedély kiadásához szükséges, külön jogszabályban meghatározott személyi és tárgyi feltételeknek, vagy a feltételek tizenöt napon belül biztosíthatók,
 
 b) az ügynek az ellátottak szempontjából előnyös rendezése érdekében a működési engedély kiadásához szükséges feltételek megteremtéséről és az ideiglenes működés feltételeiről a működtetővel hatósági szerződést köthet,
 
@@ -26,11 +26,11 @@ c) az a)–b) pontban nem említett esetben kötelezi a működtető személyt, 
 
 (6) A működést engedélyező szerv
 
-a)[^91] a (3)–(4) bekezdés szerinti jogerős, illetve fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát az ellátásra köteles helyi önkormányzattal, megyei kirendeltséggel és az ellátottjogi képviselővel is közli,
+a)[^97] a (3)–(4) bekezdés szerinti jogerős, illetve fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát az ellátásra köteles helyi önkormányzattal, megyei kirendeltséggel és az ellátottjogi képviselővel is közli,
 
-b)[^92] a (3) bekezdés b) pontja szerinti hatósági szerződést megküldi az ellátásra köteles helyi önkormányzatnak, megyei kirendeltségnek és az ellátottjogi képviselőnek, valamint értesíti őket a hatósági szerződésben foglalt jogkövetkezmények jogerőssé válásáról.
+b)[^98] a (3) bekezdés b) pontja szerinti hatósági szerződést megküldi az ellátásra köteles helyi önkormányzatnak, megyei kirendeltségnek és az ellátottjogi képviselőnek, valamint értesíti őket a hatósági szerződésben foglalt jogkövetkezmények jogerőssé válásáról.
 
-[^89]: A 17. §-t és az azt megelőző alcímet a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^90]: A 18. § (3) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^91]: A 18. § (6) bekezdés a) pontja a 258/2011. (XII. 7.) Korm. rendelet 44. § (9) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 59. § g) pontja szerint módosított szöveg.
-[^92]: A 18. § (6) bekezdés b) pontja a 258/2011. (XII. 7.) Korm. rendelet 44. § (9) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 59. § h) pontja szerint módosított szöveg.
+[^95]: A 17. §-t és az azt megelőző alcímet a 357/2010. (XII. 30.) Korm. rendelet 38. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^96]: A 18. § (3) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^97]: A 18. § (6) bekezdés a) pontja a 258/2011. (XII. 7.) Korm. rendelet 44. § (9) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 59. § g) pontja szerint módosított szöveg.
+[^98]: A 18. § (6) bekezdés b) pontja a 258/2011. (XII. 7.) Korm. rendelet 44. § (9) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 59. § h) pontja szerint módosított szöveg.

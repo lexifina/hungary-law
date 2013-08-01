@@ -16,11 +16,11 @@ ad) az ellátási szerződés adataiban bekövetkező változás miatt,
 
 ae) be nem töltött férőhelyek megszüntetése miatt, valamint házi segítségnyújtás esetén az ellátható személyek számának, jelzőrendszeres házi segítségnyújtás esetén a kihelyezhető jelzőkészülékek számának csökkentése miatt, ha ez intézményi jogviszony megszüntetésével nem jár,
 
-af)[^41] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
+af)[^44] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
 
 b) az a) pontban nem említett esetben azt megelőzően kell kérelmezni, hogy a szociális szolgáltatót, intézményt elkezdenék a módosítás iránti kérelemben foglaltaknak megfelelően működtetni.
 
-(3)[^42] A működési engedély módosítása fenntartóváltozás miatt – a (2) bekezdés a) pont af) alpontjában foglaltak kivételével – naptári évenként egyszer kérelmezhető. A fenntartóváltozások éves számának meghatározásánál a jogszabály erejénél fogva történő fenntartóváltozást figyelmen kívül kell hagyni. A kérelmet a korábbi és az új fenntartónak együttesen kell benyújtania. A működési engedély módosítása a (2) bekezdés a) pontjában nem említett egyéb esetben naptári negyedévenként egyszer kérelmezhető.
+(3)[^45] A működési engedély módosítása fenntartóváltozás miatt – a (2) bekezdés a) pont af) alpontjában foglaltak kivételével – naptári évenként egyszer kérelmezhető. A fenntartóváltozások éves számának meghatározásánál a jogszabály erejénél fogva történő fenntartóváltozást figyelmen kívül kell hagyni. A kérelmet a korábbi és az új fenntartónak együttesen kell benyújtania. A működési engedély módosítása a (2) bekezdés a) pontjában nem említett egyéb esetben naptári negyedévenként egyszer kérelmezhető.
 
 (4) A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy
 
@@ -30,11 +30,11 @@ b) – ha jogszabály másként nem rendelkezik – csak a változással összef
 
 c) csak az (5) bekezdés szerinti szakhatóságokat kell az eljárásba bevonni,
 
-d)[^43] a szakmai program véleményezésére a Főigazgatóságot akkor kell szakértőként kirendelni, ha a módosítás új szociális szolgáltatás, ellátotti csoport vagy alapszolgáltatás esetén – ide nem értve a nappali ellátást – új ellátási terület engedélyeztetésére irányul, és a Főigazgatóság nem vesz rész ügyfélként az eljárásban,
+d)[^46] a szakmai program véleményezésére a Főigazgatóságot akkor kell szakértőként kirendelni, ha a módosítás új szociális szolgáltatás, ellátotti csoport vagy alapszolgáltatás esetén – ide nem értve a nappali ellátást – új ellátási terület engedélyeztetésére irányul, és a Főigazgatóság nem vesz rész ügyfélként az eljárásban,
 
-e)[^44] helyszíni szemlét kell tartani, ha az ellátást nyújtó székhely, telephely megváltozik, a férőhelyszám emelkedik, a nappali vagy bentlakásos intézményi ellátásba a szociális intézmény elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, a nappali vagy bentlakásos intézményi ellátásból korábban erre a célra szolgáló épületet (épületrészt) kívánnak kivonni, a támogató szolgáltatáshoz másik gépjárművet kívánnak használni, illetve a módosítás célja támogatott lakhatást biztosító ingatlan vagy külső férőhelyek engedélyezése vagy az ellátottak számára nyitva álló egyéb helyiségnek a működési engedélyben történő feltüntetése, valamint ha a helyszíni szemle tartása egyéb okból indokolt,
+e)[^47] helyszíni szemlét kell tartani, ha az ellátást nyújtó székhely, telephely megváltozik, a férőhelyszám emelkedik, a nappali vagy bentlakásos intézményi ellátásba a szociális intézmény elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, a nappali vagy bentlakásos intézményi ellátásból korábban erre a célra szolgáló épületet (épületrészt) kívánnak kivonni, a támogató szolgáltatáshoz másik gépjárművet kívánnak használni, illetve a módosítás célja támogatott lakhatást biztosító ingatlan vagy külső férőhelyek engedélyezése vagy az ellátottak számára nyitva álló egyéb helyiségnek a működési engedélyben történő feltüntetése, valamint ha a helyszíni szemle tartása egyéb okból indokolt,
 
-f) csak fenntartóváltozás esetén – ide nem értve a (2) bekezdés af) alpontjában foglaltakat – feltétele a működési engedély módosításának, hogy a kérelem benyújtásakor a szociális szolgáltatót, intézményt átvevő egyházi, nem állami fenntartó köztartozásmentes adózónak minősüljön,
+f)[^48] csak fenntartóváltozás esetén – ide nem értve a (2) bekezdés af) alpontjában foglaltakat – feltétele a működési engedély módosításának, hogy a kérelem benyújtásakor a szociális szolgáltatót, intézményt átvevő egyházi fenntartó, nem állami fenntartó köztartozásmentes adózónak minősüljön,
 
 g) a 6. § (1) bekezdésének c) pontja szerinti feltételeknek való megfelelést csak a tartós bentlakásos intézményi ellátást nyújtó székhely, telephely megváltozása esetén, fenntartóváltozás esetén, valamint abban az esetben kell vizsgálni, ha a módosítás célja tartós bentlakásos intézményi ellátás engedélyeztetése olyan ellátást nyújtó székhelyen, telephelyen, ahol tartós bentlakásos intézményi ellátást nem nyújtanak.
 
@@ -44,15 +44,15 @@ a) az 5. § (3) bekezdésének a) pontja szerinti szakhatóság, ha a működés
 
 b) az 5. § (3) bekezdésének b)–d) pontja, továbbá – ha a hatáskörüket érinti – az 5. § (3) bekezdésének a), illetve e) pontja szerinti szakhatóságok a változással összefüggésben, ha a szociális intézmény ellátást nyújtó székhelye, telephelye megváltozik, vagy a nappali vagy bentlakásos intézményi ellátásba a szociális intézmény elhelyezésére korábban nem szolgáló épületet (épületrészt) kívánnak bevonni, vagy ha a működési engedély módosításának célja nappali vagy bentlakásos intézményi ellátás engedélyezése, és az ehhez kapcsolódó követelményeket a hatáskörrel rendelkező szakhatóság korábban nem vizsgálta meg,
 
-c)[^45]
+c)[^49]
 
-d)[^46] a járási népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő, az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a szociális intézmény férőhelyeinek száma – ide nem értve a külső férőhelyeket – egy éven belül öt százalékot meghaladó mértékben emelkedik,
+d)[^50] a járási népegészségügyi intézet – a közegészségügyi követelmények teljesülésének szakkérdésében –, valamint az elsőfokú tűzvédelmi szakhatóság – a változással összefüggő, az intézményre vonatkozó létesítési, használati és üzemeltetési tűzvédelmi előírások teljesülése kérdésében –, ha a szociális intézmény férőhelyeinek száma – ide nem értve a külső férőhelyeket – egy éven belül öt százalékot meghaladó mértékben emelkedik,
 
 e) az a szakhatóság, amely a hozzájárulását a korábbiakban határozott időre adta meg, ha a fenntartó az ideiglenes működési engedély határozatlan vagy határozott idejűre történő módosítását, illetve hatályának meghosszabbítását kéri.
 
-f)[^47] az 5. § (3) bekezdésének f) pontja szerinti szakhatóság, ha a működési engedély módosításának célja befogadás.
+f)[^51] az 5. § (3) bekezdésének f) pontja szerinti szakhatóság, ha a működési engedély módosításának célja befogadás.
 
-(5a)[^48] Az (5) bekezdésben foglaltaktól eltérően támogatott lakhatás esetén a működési engedély módosítására irányuló eljárásban
+(5a)[^52] Az (5) bekezdésben foglaltaktól eltérően támogatott lakhatás esetén a működési engedély módosítására irányuló eljárásban
 
 a) az 5. § (3) bekezdés a) pontja szerinti szakhatóság olyan ingatlan engedélyeztetése esetén jár el, amelyben a meleg étkeztetést a támogatott lakhatást nyújtó intézmény maga kívánja nyújtani,
 
@@ -64,7 +64,7 @@ a) ellátási kötelezettséget teljesítő állami fenntartó esetén feltétel
 
 b) az a) pontban nem említett fenntartó esetén feltétele, hogy a 8. § (3) bekezdése szerinti bejelentési kötelezettségének határidőben eleget tett, vagy az ellátottakról megfelelően gondoskodott.
 
-(7)[^49] Amennyiben a tartós bentlakásos intézményt a nem állami fenntartó egyházi fenntartó fenntartásába adja, a fenntartóváltozás akkor engedélyezhető, ha a tartós bentlakásos intézmény elhelyezésére szolgáló ingatlan – ide nem értve a lakhatási szolgáltatást biztosító ingatlanokat és a külső férőhelyeket – az egyházi fenntartó kizárólagos, haszonélvezettel nem terhelt tulajdonában vagy olyan helyi önkormányzat, társulás, illetve állami szerv kizárólagos tulajdonában, illetve vagyonkezelésében van, amellyel az egyházi fenntartó a szociális intézmény által nyújtott tartós bentlakásos intézményi ellátásokra legalább a férőhelyek fele tekintetében ellátási szerződést kötött.
+(7)[^53] Amennyiben a tartós bentlakásos intézményt a nem állami fenntartó egyházi fenntartó fenntartásába adja, a fenntartóváltozás akkor engedélyezhető, ha a tartós bentlakásos intézmény elhelyezésére szolgáló ingatlan – ide nem értve a lakhatási szolgáltatást biztosító ingatlanokat és a külső férőhelyeket – az egyházi fenntartó kizárólagos, haszonélvezettel nem terhelt tulajdonában vagy olyan helyi önkormányzat, társulás, illetve állami szerv kizárólagos tulajdonában, illetve vagyonkezelésében van, amellyel az egyházi fenntartó a szociális intézmény által nyújtott tartós bentlakásos intézményi ellátásokra legalább a férőhelyek fele tekintetében ellátási szerződést kötött.
 
 (8) A működési engedélyt módosító határozatban fel kell tüntetni
 
@@ -72,7 +72,7 @@ a) azt az időpontot, amelytől kezdődően a szociális szolgáltató, intézm�
 
 b) a működési engedélynek a módosítást követően hatályos valamennyi adatát.
 
-(9)[^50] A határozott idejű működési engedély hatálya meghosszabbítható vagy határozatlan idejűre módosítható, ha a nappali, illetve a bentlakásos intézmény elhelyezésére szolgáló, vagy a lakhatási szolgáltatást biztosító ingatlan használatának joga meghosszabbodik, illetve határozatlan idejűre módosul.
+(9)[^54] A határozott idejű működési engedély hatálya meghosszabbítható vagy határozatlan idejűre módosítható, ha a nappali, illetve a bentlakásos intézmény elhelyezésére szolgáló, vagy a lakhatási szolgáltatást biztosító ingatlan használatának joga meghosszabbodik, illetve határozatlan idejűre módosul.
 
 (10) Ha jogszabály másként nem rendelkezik, az ideiglenes működési engedély a hatályának megváltoztatása nélkül módosítható, feltéve, hogy az ellátás színvonala nem romlik. Ha a fenntartó azelőtt igazolja, hogy a szociális szolgáltató, intézmény megfelel a jogszabályokban meghatározott feltételeknek, mielőtt az ideiglenes működési engedély hatályát vesztené, a működési engedélyt határozatlan, illetve a 6. § (5) bekezdése szerinti esetben határozott idejűre kell módosítani. Az ideiglenes működési engedély hatálya csak akkor hosszabbítható meg, ha azt jogszabály lehetővé teszi.
 
@@ -80,13 +80,14 @@ b) a működési engedélynek a módosítást követően hatályos valamennyi ad
 
 (12) Ha a működést engedélyező szerv tudomására jutott tény vagy adat alapján kétséges, hogy a szociális szolgáltató, intézmény a kérelemmel nem érintett, jogszabályokban meghatározott feltételeket teljesíti, a működést engedélyező szerv egyéb működési feltételeket is megvizsgálhat, azokkal kapcsolatban bizonyítási eljárást folytathat le, szükség esetén az 5. § (3) bekezdése szerinti hatóságokat is bevonhatja, továbbá – ha jogsértést állapít meg, a kérelemmel érintett változások és a jogsértés jellegétől függően – erre hivatkozva a kérelmet elutasíthatja, illetve alkalmazhatja a 13. § szerinti jogkövetkezményeket.
 
-[^41]: A 7. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés c) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (4)–(6) bekezdését.
-[^42]: A 7. § (3) bekezdése a 330/2011. (XII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^43]: A 7. § (4) bekezdés d) pontja a 349/2012. (XII. 12.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^44]: A 7. § (4) bekezdés e) pontja a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^45]: A 7. § (5) bekezdés c) pontját a 349/2012. (XII. 12.) Korm. rendelet 60. § b) pontja hatályon kívül helyezte.
-[^46]: A 7. § (5) bekezdés d) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés g) pontja, a 174/2012. (VII. 26.) Korm. rendelet 68. § e) pontja szerint módosított szöveg.
-[^47]: A 7. § (5) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 317/2012. (XI. 13.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
-[^48]: A 7. § (5a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 38. §-a iktatta be.
-[^49]: A 7. § (7) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^50]: A 7. § (9) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^44]: A 7. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés c) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (4)–(6) bekezdését.
+[^45]: A 7. § (3) bekezdése a 330/2011. (XII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^46]: A 7. § (4) bekezdés d) pontja a 349/2012. (XII. 12.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^47]: A 7. § (4) bekezdés e) pontja a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^48]: A 7. § (4) bekezdés f) pontja a 297/2013. (VII. 29.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
+[^49]: A 7. § (5) bekezdés c) pontját a 349/2012. (XII. 12.) Korm. rendelet 60. § b) pontja hatályon kívül helyezte.
+[^50]: A 7. § (5) bekezdés d) pontja a 357/2010. (XII. 30.) Korm. rendelet 37. § (1) bekezdés g) pontja, a 174/2012. (VII. 26.) Korm. rendelet 68. § e) pontja szerint módosított szöveg.
+[^51]: A 7. § (5) bekezdés f) pontját a 330/2011. (XII. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 317/2012. (XI. 13.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
+[^52]: A 7. § (5a) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 38. §-a iktatta be.
+[^53]: A 7. § (7) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^54]: A 7. § (9) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 41. § (2) bekezdés e) pontja szerint módosított szöveg.
