@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-29-20-2
 | 2012-01-01 | 1993-29-20-22.21 | 40/2006. (II. 27.) Korm. rendelet |
 | 2012-11-16 | 1993-29-20-22.22 | 317/2012. (XI. 13.) Korm. rendelet |
 | 2013-01-01 | 1993-29-20-22.23 | 349/2012. (XII. 12.) Korm. rendelet |
+| 2013-08-01 | 1993-29-20-22.24 | 297/2013. (VII. 29.) Korm. rendelet |

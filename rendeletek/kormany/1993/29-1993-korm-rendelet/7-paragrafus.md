@@ -6,7 +6,8 @@
 
 (1) Ha a személyi térítési díj megállapítására, felülvizsgálatára nem az intézmény vezetője jogosult, a megállapításhoz, felülvizsgálathoz szükséges iratokat az intézmény vezetője – az ellátás igénybevételétől, illetőleg a felülvizsgálat kezdetétől számított 15 napon belül – megküldi az arra jogosult szervnek.
 
-(2) A nem állami szerv által fenntartott intézményben lakó személyi térítési díját – ha az ellátási szerződés eltérően nem rendelkezik – a fenntartó állapítja meg és vizsgálja felül.
+(2)[^26] A egyházi fenntartó vagy nem állami fenntartó által fenntartott intézményben lakó személyi térítési díját – ha az ellátási szerződés eltérően nem rendelkezik – a fenntartó állapítja meg és vizsgálja felül.
 
 [^24]: A 6. § a 357/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^25]: A 7. § az 52/1996. (IV. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A 7. § (2) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
