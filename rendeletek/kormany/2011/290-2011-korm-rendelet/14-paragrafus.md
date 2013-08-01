@@ -1,19 +1,17 @@
 ## 7. A szolgálati elöljárók, hivatali felettesek, szakmai elöljárók, szakmai felettesek
 
-14. § (1) A Honvédségnél szolgálati elöljárói és hivatali felettesi, szakmai elöljárói és szakmai felettesi rendszer érvényesül.
+14. § (1) A katonai szolgálati viszonyban álló vezető a katonai szolgálati viszonyban álló alárendelteknek szolgálati elöljárója vagy szakmai elöljárója, a más jogviszonyban álló alárendelteknek hivatali felettese vagy szakmai felettese.
 
-(2) A katonai szolgálati viszonyban álló vezető a katonai szolgálati viszonyban álló alárendelteknek szolgálati elöljárója vagy szakmai elöljárója, a más jogviszonyban állóknak hivatali felettese vagy szakmai felettese.
+(2) A nem katonai szolgálati viszonyban álló vezető alárendelteknek hivatali felettese vagy szakmai felettese.
 
-(3) A nem katonai szolgálati viszonyban álló vezető alárendeltjeinek hivatali felettese vagy szakmai felettese.
+(3) A szakmai felettes vagy szakmai elöljáró a szakmai irányítási jogkörében eljárva
 
-(4) A szakmai felettes vagy szakmai elöljáró a szakirányítási döntések előkészítése során
+a) a feladat- és hatáskörét érintő előterjesztések, döntések tervezetét véleményezi,
 
-a) a feladatkörébe tartozó információkat ad és kér,
+b) a feladat-és hatáskörét érintő előterjesztések és döntések előkészítése és végrehajtása során a honvédségi szervezetektől információkat kér és részükre a szükséges információkat biztosítja,
 
-b) előkészíti a feladat- és hatáskörébe tartozó jogszabályokat, közjogi szervezetszabályozó eszközöket, belső rendelkezéseket, egyéb döntéseket,
+c) előkészíti a jogszabályokat, a közjogi szervezetszabályozó eszközöket, a belső rendelkezéseket és egyéb döntéseket,
 
-c) véleményezési jogot gyakorol,
+d) ellenőrzi a szakmai szervezetek szakterületéhez tartozó tevékenységet, valamint
 
-d) ellenőrzi a szakterületéhez tartozó szakmai szervezetek tevékenységét, valamint – a honvédelemért felelős miniszter megbízása alapján – az alárendelt katonai szervezetek parancsnokainak és más szolgálati elöljáróinak szakmai tevékenységét,
-
-e) az általa irányított tevékenység egységes gyakorlatának kialakítása érdekében dönt a végrehajtás során felmerült vitás kérdésekben, szakmai állásfoglalás kiadásával biztosítja az egységes végrehajtást.
+e) szakterületéhez tartozó tevékenységére vonatkozó egységes gyakorlatának kialakítása érdekében dönt a végrehajtás során felmerült vitás kérdésekben, szakmai állásfoglalás kiadásával biztosítja az egységes végrehajtást.

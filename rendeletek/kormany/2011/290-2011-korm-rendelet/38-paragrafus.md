@@ -1,7 +1,3 @@
-38. § (1) A HM VH vezetője határozatlan időre nevezhető ki. A HM VH vezetője főosztályvezetői illetményre és juttatásokra, helyettese főosztályvezető-helyettesi illetményre és juttatásokra jogosult.
+38. § (1) A HM VH a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szerve, amely a honvédelmi igazgatási feladatok mellett a jogszabályokban és szervezeti és működési szabályzatában meghatározott feladat- és hatáskörébe tartozó egyéb védelmi igazgatási feladatokat is ellát.
 
-(2)[^20] A HM VH a Honvédelmi Minisztérium költségvetésén belül önálló címként nem szerepel. A HM VH-t működése, különösen pénzügyi, logisztikai, és ügyviteli utaltsága tekintetében a honvédelemért felelős miniszter által vezetett minisztérium szervének kell tekinteni.
-
-(3) A HM VH igazgatóságokra tagozódik.
-
-[^20]: A 38. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 87. § (11) bekezdésével megállapított szöveg.
+(2) A HM HH a honvédelmi ágazat országos illetékességű integrált katonai hatósága, amely ellátja a jogszabályban hatáskörébe utalt hatósági, szakhatósági, közigazgatási egyeztetési, szakmai irányítói valamint a szervezeti és működési szabályzatában meghatározott egyéb feladatokat.

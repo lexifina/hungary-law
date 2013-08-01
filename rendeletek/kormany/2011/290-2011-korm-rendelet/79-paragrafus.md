@@ -1,1 +1,3 @@
-## 78. § Légitámadás vagy annak közvetlen veszélye esetén a légierő ügyeletes parancsnoka elrendeli a légiriasztást, a BM OKF-fel történt egyeztetést követően pedig feloldja azt.
+## 78/A. §[^30] A lakosság katasztrófa riasztását a BM OKF főigazgatója által kijelölt személy rendelheti el és oldhatja fel, amelyről értesíti a légierő ügyeletes parancsnokát.
+
+[^30]: A 78/A. §-t a 267/2013. (VII. 11.) Korm. rendelet 10. §-a iktatta be.

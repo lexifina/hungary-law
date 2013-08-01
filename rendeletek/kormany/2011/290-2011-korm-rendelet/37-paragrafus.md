@@ -1,9 +1,23 @@
-## VIII. Fejezet
+## VIII. Fejezet[^26]
 
-## A HONVÉDELEMÉRT FELELŐS MINISZTER IRÁNYÍTÁSA ALATT ÁLLÓ KÖZPONTI HIVATAL
+## A MINISZTER IRÁNYÍTÁSA ALATT ÁLLÓ KÖZPONTI HIVATALOK
 
-37. § (1) A honvédelemért felelős miniszter irányítása alatt álló központi hivatal a HM VH.
+37. § (1) A miniszter irányítása alatt álló központi hivatalok
 
-(2)[^19] A HM VH a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szerve, amely a honvédelmi igazgatási feladatok mellett a HM feladat- és hatáskörébe tartozó egyéb védelmi igazgatási feladatokat is elláthat.
+a) a HM VH, és
 
-[^19]: A 37. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 87. § (10) bekezdésével megállapított szöveg.
+b) a HM Hatósági Hivatal (a továbbiakban: HM HH).
+
+(2) A központi hivatalok
+
+a) a Honvédelmi Minisztérium költségvetési fejezeten belül önálló címként nem szerepelnek,
+
+b) a pénzügyi-gazdasági, a logisztikai gazdálkodási, az ingatlan fenntartás, -üzemeltetés és -fejlesztés, valamint a tárgyi eszköz- és anyagellátás, továbbá az ügyviteli feladatok ellátását a minisztérium ezen feladatainak ellátásáért felelős szervek végzik,
+
+c) vezetőinek kinevezése határozatlan időre szól, és
+
+d) kormánytisztviselő esetén vezetői főosztályvezetői alapilletményre, vezetői illetménypótlékra és juttatásokra, helyettesük főosztályvezető-helyettesi alapilletményre, vezetői illetménypótlékra és juttatásokra jogosultak,
+
+e) igazgatóságokra tagozódnak.
+
+[^26]: A VIII. Fejezet (37–38. §) a 267/2013. (VII. 11.) Korm. rendelet 8. §-ával megállapított szöveg.

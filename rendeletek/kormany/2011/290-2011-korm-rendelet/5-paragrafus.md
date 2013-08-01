@@ -1,9 +1,9 @@
-## 4. § A parlamenti államtitkár – a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint – részt vesz a Honvédség vezetésében és irányításában.
-
 ## 3. A közigazgatási államtitkár feladat- és hatásköre
 
-5. § (1) A honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára irányítja a hatáskörébe utalt, a honvédelmért felelős miniszternek alárendelt szervezeteket.
+5. § (1) A közigazgatási államtitkár hivatali felettese a minisztérium hivatali szervezete, és a miniszter közvetlen alárendeltségébe tartozó szervezetek személyi állományának.
 
-(2) Valamennyi döntési javaslatot és előterjesztést a közigazgatási államtitkár útján kell a honvédelemért felelős miniszter elé terjeszteni.
+(2) A közigazgatási államtitkár irányítja a minisztérium szervezeti és működési szabályzatában hatáskörébe utalt szervek és szervezetek működését.
 
-(3) A közigazgatási államtitkár hivatali felettese a honvédelemért felelős miniszter által vezetett minisztérium hivatali szervezete, és a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezetek személyi állományának.
+(3) A közigazgatási államtitkár szakirányítási jogkörét közvetlenül vagy a feladat- és hatáskör szerint felelős helyettes államtitkár szakmai irányítása útján gyakorolja. A közigazgatási államtitkár feladat- és hatáskör szerint felelős helyettes államtitkártól a szakmai irányítás jogát bármikor magához vonhatja.
+
+(4) Jogszabály eltérő rendelkezése hiányában valamennyi döntési javaslatot és előterjesztést a közigazgatási államtitkár útján kell a miniszter elé terjeszteni.

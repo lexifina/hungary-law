@@ -1,69 +1,85 @@
-6. § (1) A közigazgatási államtitkár irányítja
+6. § (1) A közigazgatási államtitkár szakirányítja
 
-a) a honvédelmi igazgatás kormányzati és közigazgatási feladatainak tervezését, szervezését, végrehajtását,
+1. a közigazgatási feladatok tervezésével és szervezésével összefüggő feladatok végrehajtását,
 
-b) a honvédelemért felelős miniszter által vezetett minisztérium feladatkörébe tartozó jogszabálytervezetek, a közjogi szervezetszabályozó eszközök tervezeteinek és a hatáskörébe tartozó belső rendelkezések tervezeteinek előkészítését, a kormány-előterjesztések kidolgozását,
+2. a különleges jogrend bevezetésével, és az arra való felkészüléssel összefüggő felső szintű döntések előkészítését,
 
-c) a jogi és igazgatási tevékenységgel összefüggő felső szintű feladatok végrehajtását,
+3. a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszerrel összefüggő felső szintű döntések előkészítését,
 
-d) a honvédelemi tárca létszámkereteinek és a személyi állomány összetételének meghatározásával kapcsolatos döntések előkészítését,
+4. a Honvédelmi Katasztrófavédelmi Rendszer feladatkörébe utalt részeit és a Honvéd Vezérkar főnöke katasztrófavédelmi tevékenységét, a katasztrófavédelmi feladatok végrehajtását,
 
-e) a honvédelemért felelős miniszter által vezetett minisztérium munkaterveinek előkészítését,
+5. a polgári veszélyhelyzeti tervezés katonai feladataival összefüggő felső szintű döntések előkészítését,
 
-f) a védelmi igazgatási szervezetrendszer és a gazdaság különleges jogrendi működésével kapcsolatos honvédelmi követelményeket és felkészítési feladatokat meghatározó terv kidolgozását,
+6. a kontrolling tevékenységet, valamint a korrupció elleni tevékenység ágazati összehangolását,
 
-g) a honvédelemért felelős miniszter által vezetett minisztérium felelősségi körébe tartozó, a különleges jogrendben bevezetendő rendkívüli intézkedések tervezeteinek előkészítését,
+7. az államháztartási belső ellenőrzés kivételével az ellenőrzési rendszer felső szintű feladatainak végrehajtását,
 
-h) a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszerrel kapcsolatos döntések előkészítését,
+8. a Honvédség létszámkereteinek és a személyi állomány összetételének meghatározásával összefüggő felső szintű döntések előkészítését, a munkaköri jegyzékekkel kapcsolatos feladatok végrehajtását,
 
-i) a szövetségi kollektív védelmi tervezésben és haderőfejlesztésben érintett állami szervek feladatainak megállapítására irányuló döntések előkészítését, a NATO haderőfejlesztési javaslataira vonatkozó nemzeti álláspontok, és a képességfelmérés kérdéseire adandó nemzeti válaszok kidolgozását,
+9. a humánpolitikai intézmény- és eszközrendszerrel, így különösen az illetmény- és juttatási rendszerrel, a rekonverzió elveivel, továbbá a hosszú távú humánpolitikai intézkedésekkel összefüggő feladatok végrehajtását,
 
-j) a tárcaszintű védelmi tervezési rendszer működtetését,
+10. a felsőoktatás, a közoktatás, a szakképzés, a tudományos kutatás, az ifjúságpolitika és az esélyegyenlőség Honvédséget érintő felső szintű feladatainak végrehajtását,
 
-k) a tárca informatikai és információvédelmi stratégiájának és a kormányzati informatikai stratégiájából adódó feladatainak kidolgozását,
+11. az állami célú légiközlekedéssel összefüggő felső szintű döntések előkészítését,
 
-l) a NATO Biztonsági Beruházási Programjával összefüggő programok kidolgozását, az azokkal kapcsolatos kormányzati döntések előkészítését, végrehajtását,
+12. a minősített adatok védelmével, az információbiztonsággal, a közigazgatási informatikai stratégia megvalósításával, az iratkezeléssel, valamint az ügyviteli tevékenységgel kapcsolatos felső szintű feladatok végrehajtását,
 
-m) a vagyonkezelésben és vagyongazdálkodásban résztvevő szervezetek tevékenységét,
+13. a jogi és a jogi képviseleti feladatok végrehajtását,
 
-n) az illetmény-, szociális- és lakáspolitika elveinek, ösztönzési és kompenzációs rendszere humánpolitikai szempontjainak kidolgozását, a hosszú távú humánpolitikai intézkedések kidolgozását és végrehajtását, a személyügyi tevékenység végrehajtásának tervezését,
+14. az igazgatási és az ügyfélszolgálati tevékenységet,
 
-o) a környezetvédelmi, tűzvédelmi és munkavédelmi feladatok végrehajtását, ellenőrzését,
+15. az ágazati hatósági és a szakhatósági feladatok megszervezését,
 
-p) a Honvédelmi Katasztrófavédelmi Rendszer feladatkörébe utalt részeit, szakirányítja a Honvéd Vezérkar főnökének katasztrófavédelmi tevékenységét, a tárca katasztrófavédelmi feladatainak végrehajtását,
+16. az adatvédelmi, tűzvédelmi, munkavédelmi és környezetvédelmi feladatok végrehajtását,
 
-q) a katonai minőségüggyel és szabványosítással kapcsolatos döntés-előkészítést és végrehajtást,
+17. a területrendezés és a területfejlesztés Honvédséget érintő feladatainak végrehajtását,
 
-r) az ifjúságpolitikával, az esélyegyenlőséggel, a nemzeti és etnikai kisebbségi ügyekkel összefüggő ágazati feladatok végrehajtását,
+18. a védelempolitika és a védelmi tervezés felső szintű feladatait,
 
-s) a nemzetközi kötelezettségvállalással kapcsolatos javaslatok előkészítését, a végrehajtás tervezését,
+19. a két- és a többoldalú nemzetközi együttműködést, az euro-atlanti együttműködést, a nemzetközi válságkezelést és békefenntartást, valamint a nemzetközi terrorizmussal szembeni együttműködés összehangolását,
 
-t) a felsőoktatásra, a közoktatásra, valamint a szakképzésre vonatkozó jogszabályokból eredő döntések előkészítését és végrehajtását,
+20. a NATO és az Európai Unió keretében vállalt haderőfejlesztés feladatainak végrehajtását,
 
-u) az iratkezelési, ügyviteli és informatikai, információvédelmi tevékenységet,
+21. a hagyományos fegyverek korlátozásával, a leszereléssel, a fegyverzetcsökkentéssel, a fegyverzetellenőrzéssel és non-proliferációval kapcsolatos feladatok végrehajtását,
 
-v) a Honvédség logisztikai rendszerét,
+22. a fejezet költségvetési gazdálkodása és a pénzügyi feladatok végrehajtását,
 
-w) a kommunikációs stratégia és irányelv kidolgozását, végrehajtását, a külső kommunikációs tevékenység tervezését, végzését.
+23. az erőforrás-tervezést,
 
-(2) A közigazgatási államtitkár kiadja
+24. az államháztartási belső ellenőrzés kivételével a belső kontroll rendszer működtetését,
 
-a) a honvédelemért felelős miniszter által vezetett minisztérium fejezet részletes erőforrás tervezési keretszámait,
+25. a vagyonkezeléssel, a vagyongazdálkodással és a lakhatás támogatásával kapcsolatos tevékenységet,
 
-b) a honvédelemért felelős miniszter által vezetett minisztérium mint intézmény működéséhez, gazdálkodásához kapcsolódó és pénzügyi kihatással bíró, jogszabályban vagy normatív utasításban nem szabályozott kérdéseket, megállapítja a honvédelemért felelős miniszter által vezetett minisztérium mint intézmény gazdálkodásának általános szabályait, az éves gazdálkodási intézkedést,
+26. a Honvédség gazdálkodási és logisztikai rendszerével kapcsolatos feladatainak végrehajtását,
 
-c) a honvédelemért felelős miniszter által vezetett minisztérium mint intézmény fejezeti kezelésű előirányzatokkal kapcsolatos gazdálkodási feladatokra vonatkozó belső szabályzatot,
+27. az infrastrukturális tevékenységet,
 
-d) a honvédelemért felelős miniszter által vezetett minisztérium mint intézmény operatív belső kontrolljainak kialakításáról, működtetéséről, a szabálytalanságok kezelésének eljárásrendjéről, a kockázatkezelésről szóló szakutasítást,
+28. a hadfelszerelés-fejlesztési, a haditechnikai, és a kutatás-fejlesztési feladatok végrehajtását,
 
-e) a tudományos kutatásra vonatkozó követelményeket,
+29. az anyagi szabványosítási, egységesítési és a katonai minőségügyi feladatok végrehajtását,
 
-f) a rekonverzióval kapcsolatos ágazati feladatokat,
+30. a (köz)beszerzések és a biztonsági beruházások megvalósítását,
 
-g) a humán szakanyaggal történő ellátás alapelveit,
+31. a környezetvédelem és a természetvédelem Honvédséget érintő feladatainak végrehajtását, és
 
-h) a szociális mentális és pszichológiai problémák kezelésének követelményét, feladatait,
+32. a nemzetgazdaság védelmi felkészítésének minisztériumi feladait.
 
-i) a honvédelemért felelős miniszter által vezetett minisztérium objektumaiban közös elhelyezésben lévő szervek, szervezetek elhelyezésének rendjét,
+(2) A közigazgatási államtitkár a minisztérium hivatali szervezetének vezetőjeként
 
-j) a szolgálati viszonyban állók, a kormánytisztviselők és a közalkalmazottak hazai és külföldi felsőoktatási intézmények nappali tagozatára, alap- és továbbképzést folytató intézményekbe, nyelvtanfolyamokra, a külföldi iskolarendszeren kívüli tanfolyamokra történő beiskolázás feltételeit.
+a) gyakorolja a hatáskörébe tartozó munkáltatói jogköröket, illetve egyes személyügyi döntésekkel kapcsolatos kezdeményezési és egyetértési jogköröket, és
+
+b) felelős a hatáskörébe tartozó személyi járandósági döntések meghozataláért.
+
+(3) A közigazgatási államtitkár
+
+a) a miniszter által kijelölt személyként dönt az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet 2. § (1) bekezdés e) pontja szerinti igénybevétel engedélyezéséről,
+
+b) felügyeli a minisztériumban a készenlét fenntartásának és fokozásának rendszerét,
+
+c) összehangolja a HM Költségvetés Gazdálkodási Információs Rendszer működését, a rendszer fejlesztésére irányuló alkalmazói követelmények kidolgozását,
+
+d) ellátja az objektumbiztonsági felelős feladatait, meghatározza a minisztériumi objektumokban történő elhelyezés, továbbá a humán szakanyaggal történő ellátás rendjét,
+
+e) a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, és
+
+f) gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket, ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.

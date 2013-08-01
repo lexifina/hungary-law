@@ -1,3 +1,17 @@
-## 3. § A honvédelemi minisztert a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 37. § (2) bekezdésében meghatározott esetben a külügyminiszter helyettesíti.
+## 3. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 37. § (2) bekezdése szerinti esetekben a minisztert a külügyminiszter helyettesíti.
 
 ## 2. A parlamenti államtitkár feladat- és hatásköre
+
+## 4. § A parlamenti államtitkár
+
+a) felügyeli a HM Tábori Lelkészi Szolgálat tevékenységét, egyetértési jogot gyakorol a HM Tábori Lelkészi Szolgálat szolgálati ágainak szervezeti és működési szabályzataival kapcsolatban,
+
+b) kapcsolatot tart a magyarországi vallási felekezetek képviselőivel a katonák vallásgyakorlását és lelki gondozását, valamint a HM Tábori Lelkészi Szolgálat működését érintő kérdésekben,
+
+c) összehangolja a Honvédség érdekképviseleti szervekkel történő együttműködését, képviseli a minisztert a Honvédelmi Érdekegyeztető Fórum ülésein,
+
+d) irányítja a katonai hagyományőrzéssel, a hadisírok, a hősi emlékművek és a hősi emlékhelyek gondozásával, fenntartásával és megőrzésével összefüggő tevékenységet,
+
+e) ellátja a Honvédelmi Idősügyi Tanács elnöki feladatait, és
+
+f) gyakorolja a jogszabályban és a közjogi szervezetszabályozó eszközben hatáskörébe utalt jogköröket, valamint ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.

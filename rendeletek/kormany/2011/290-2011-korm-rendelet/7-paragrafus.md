@@ -1,7 +1,9 @@
 ## 4. A helyettes államtitkárok feladat- és hatáskörei
 
-7. § (1) A helyettes államtitkárok felterjesztik a feladat- és hatáskörükbe tartozó szakmai döntések tervezeteit a közigazgatási államtitkár, vagy annak útján a honvédelemért felelős miniszter részére.
+7. § (1) A helyettes államtitkárok
 
-(2) A helyettes államtitkárok hivatali feletteseik a közvetlen alárendeltségükbe tartozó szervezetek személyi állományának.
+a) hivatali felettesei az irányításuk alá tartozó szervek és szervezetek személyi állományának, és
 
-(3) A helyettes államtitkárok szakmai feletteseik a feladat- és hatáskörükbe tartozó szakterületeken tevékenykedő személyi állománynak.
+b) szakmai felettesei a feladat- és hatáskörükbe tartozó szakterületeken tevékenykedő személyi állománynak.
+
+(2) A helyettes államtitkárok felelősek a feladat- és hatáskörükbe tartozó szakterületekhez kapcsolódó szakmai döntések előkészítéséért, összehangolásáért, és végrehajtásáért.

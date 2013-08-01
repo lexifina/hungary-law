@@ -1,33 +1,61 @@
-## 11. § A Honvéd Vezérkar főnöke
+11. § (1) A Honvéd Vezérkar főnöke a katonai-szakmai követelmények érvényre juttatásáért viselt felelősségi körében
 
-a) kidolgozza az ország fegyveres védelmének tervét, a Honvédség különleges jogrendi feladatai tervezésének és vezetésének rendjét,
+1. felelős a nemzetközi szerződésekből és nemzetközi megállapodásokból eredő katonai kötelezettségek teljesítéséért,
 
-b) kidolgozza a Honvédség készenléte fenntartásának és fokozásának rendjét, gondoskodik annak végrehajtásáról, ellenőrzi a készenlét fokozását,
+2. felelős az ország fegyveres védelmi tervének, a Honvédség különleges jogrend bevezetéséhez kapcsolódó feladatrendszerének, továbbá a készenlét fenntartása és fokozása rendjének előkészítéséért, végrehajtásáért és annak ellenőrzéséért, a Honvédség kiegészítéséért, megelőző védelmi helyzetben és rendkívüli állapotban hadkiegészítéséért,
 
-c) tervezi és vezeti a Honvédség béke időszaki, veszélyhelyzeti, szükségállapoti és váratlan támadás időszakában történő kiegészítését, a megelőző védelmi helyzetben és rendkívüli állapotban a Honvédség hadkiegészítését,
+3. intézkedik az ország területének légvédelmi készenléti erőkkel való oltalmazására,
 
-d) kidolgozza a Honvédség felkészítésének és kiképzésének rendjét, gondoskodik annak végrehajtásáról,
+4. irányítja a Honvédelmi Katasztrófavédelmi Rendszer feladatkörébe utalt részeit,
 
-e) javaslatot tesz a Honvédség fejlesztésére, létszámára, állományarányaira, szervezetére, felszerelésére, a békeidejű működéshez a normákon alapuló, vagy szükséges erőforrásokra, az ország területének védelmi célú előkészítésére,
+5. a Hvt. 37. § (3) bekezdésében meghatározott létszámnak megfelelően engedélyezi a Honvédség katasztrófavédelemmel összefüggő feladatok végrehajtására történő igénybevételét,
 
-f) közreműködik a Honvédség feladatainak teljesítése szempontjából fontos közlekedési hálózat, a híradó, informatikai és információvédelmi szolgáltatások, a légi, sugárfigyelő, jelző- és riasztási rendszerek, valamint az energetikai hálózatok elemei közül a kritikus infrastruktúra elemként kijelöltek működőképességének biztosításában,
+6. irányítja a híradó, informatikai és információvédelmi stratégia, és szolgáltatási rendszer kialakítását, a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózata, valamint a Magyar Honvédség Vezetési Információs Rendszere tervezését, fejlesztését, a szolgáltatások folyamatos biztosítását, üzemeltetését, fenntartását,
 
-g) tervezi és szervezi a nemzetközi szerződésből eredő katonai kötelezettségek teljesítését,
+7. felelős a Honvédség Műveleti Vezetési Rendszere működtetéséért, működési feltételei biztosításával kapcsolatos feladatok végrehajtásáért, az ehhez szükséges infrastruktúra és infokommunikációs rendszer üzemeltetéséért,
 
-h) a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget,
+8. közreműködik a Honvédség feladatainak teljesítése szempontjából fontos közlekedési hálózat, a híradó, az informatikai és az információvédelmi szolgáltatások, a légi, sugárfigyelő, jelző- és riasztási rendszerek, valamint az energetikai hálózatok elemei közül a létfontosságú rendszerek és létesítmények védelmében,
 
-i) intézkedik az ország területének légvédelmi készenléti erőkkel való oltalmazására,
+9. meghatározza a belföldi katonai futárszolgálat szervezetét,
 
-j) a szakirányítás által megállapított keretek között vezeti a Honvédség fogyasztói logisztikai rendszerét, tervezi és szervezi a katonai szervezetek logisztikai és egészségügyi biztosítását, javaslatokat tesz a személyi állomány megfelelő élet-, szolgálati és munkakörülményeinek biztosítására,
+10. felelős a Harcászati Értékelő Programok végrehajtásáért,
 
-k) gyakorolja a jogszabályban részére megállapított személyügyi hatásköröket,
+11. vezeti a felső szintű haderőtervezést, az állománytáblákkal kapcsolatos feladatok végrehajtását, javaslatot tesz a Honvédség fejlesztésére, létszámára, állományarányaira, szervezetére, felszerelésére, a békeidejű működéshez a normákon alapuló, vagy szükséges erőforrásokra, az ország területének védelmi célú előkészítésére,
 
-l) irányítja és felügyeli a híradó, informatikai és információvédelmi stratégia, és szolgáltatási rendszer kialakítását, a Magyar Honvédség Vezetési Információs Rendszere tervezését, fejlesztését, a szolgáltatások folyamatos biztosítását, üzemeltetését, fenntartását,
+12. meghatározza a Honvédség felkészítési és kiképzési rendjét, irányítja a képzések összehangolt tervezését és végrehajtását,
 
-m) a honvédelemért felelős miniszter döntése alapján felelős a Honvédség Műveleti Vezetési Rendszere működési feltételei biztosításával kapcsolatos feladatok végrehajtásáért, az ehhez szükséges infrastruktúra és infokommunikációs rendszer üzemeltetéséért,
+13. javaslatot tesz a minisztérium vagyonkezelésébe tartozó ingatlan és ingó vagyontárgy honvédelmi célra feleslegesnek minősítésére,
 
-n) jóváhagyja a közvetlenül neki alárendelt katonai szervezetek Szervezeti és Működési Szabályzatát,
+14. gyakorolja a védelmi tervezéssel, a központi gazdálkodással és az ágazati beszerzésekkel kapcsolatban hatáskörébe tartozó jogköröket,
 
-o) irányítja a Honvédelmi Katasztrófavédelmi Rendszer feladatkörébe utalt részeit,
+15. vezeti a Honvédség fogyasztói logisztikai rendszerét, tervezi és szervezi a katonai szervezetek logisztikai és egészségügyi biztosítását, javaslatokat tesz a személyi állomány megfelelő élet-, szolgálati és munkakörülményeinek biztosítására,
 
-p) gyakorolja a jogszabályok, közjogi szervezetszabályozó eszközök és a honvédelemért felelős miniszter által részére megállapított egyéb feladat- és hatásköröket.
+16. javaslatot tesz a főbb haditechnikai eszközök korszerűsítésére, próbahasználatot engedélyez, elrendeli a csapatpróbát, kiadja az alkalmazásba vételi és a kivonási határozatot, megtervezteti az eszköztartalékokat, valamint azok lépcsőzését és felhasználási lehetőségeit,
+
+17. felelős a miniszter szabályozási feladatai katonai-szakmai megalapozottságának biztosításáért,
+
+18. javaslatot dolgoz ki a Szent Korona veszélyeztetettsége esetén alkalmazandó eljárási szabályokra, és a Honvéd Koronaőrség feladataira,
+
+19. egyetértési jogot gyakorol a Nemzeti Közszolgálati Egyetem képzési programjának honvédelemmel kapcsolatos katonai-szakmai követelményei vonatkozásában,
+
+20. felelős – a létesítés, a megszüntetés, a tevékenységi kör megállapítása és módosítása kivételével – a katonai köznevelési intézmény fenntartói irányításáért, a katonai szakképesítések katonai-szakmai követelményeinek meghatározásáért,
+
+21. irányítja a NATO és az EU Központi Rejtjel Elosztó Hatóság tevékenységét, az ügykezelés rendjére, az információbiztonságra vonatkozó követelmények kidolgozását,
+
+22. irányítja a katonai földmérési és térképészeti tevékenységet, és
+
+23. felelős az európai fegyverzetkorlátozási, leszerelési, valamint nemzetközi biztonságpolitikai egyezményekből eredő fegyverzet-ellenőrzési feladatok tervezéséért, összehangolásáért és végrehajtásáért.
+
+(2) A Honvéd Vezérkar főnöke a Honvédség tényleges állományának szolgálati elöljárói jogkörében
+
+a) gyakorolja a hatáskörébe tartozó munkáltató jogköröket,
+
+b) felelős a hatáskörébe tartozó személyi járandósági döntések meghozataláért,
+
+c) átadja az Év Katonája kitüntető címet,
+
+d) engedélyezi az objektumok névhasználatát és a csapatkarjelzés használatát, és
+
+e) vezeti a humánszolgálat kiépítésével, működési feltételei megteremtésével és fejlesztésével összefüggő tevékenységet.
+
+(3) A Honvéd Vezérkar főnöke a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket, továbbá ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.

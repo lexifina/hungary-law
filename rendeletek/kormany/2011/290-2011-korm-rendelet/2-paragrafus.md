@@ -1,149 +1,105 @@
-## II. Fejezet
+## II. Fejezet[^3]
 
-## A HONVÉDELEM ÁGAZATI IRÁNYÍTÁSA, A MAGYAR HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
+## A HONVÉDELEM ÁGAZATI IRÁNYÍTÁSA, A HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
 
 ## 1. A honvédelemért felelős miniszter feladat- és hatásköre
 
 2. § (1) A honvédelmi miniszter a Kormány honvédelemért felelős tagja.
 
-(2) A honvédelemért felelős miniszter az ország honvédelmi feladatainak irányításáért viselt felelőssége körében
+(2) A honvédelemért felelős miniszter (a továbbiakban: miniszter) a Kormánynak az ország honvédelmi, és a válságkezelés katonai feladatai végrehajtásáért viselt felelősségi körében
 
-a) jóváhagyásra a köztársasági elnök elé terjeszti az ország fegyveres védelmi tervét, jóváhagyja a Honvédség különleges jogrendi feladatai tervezésének és vezetésének rendjét,
+1. előkészíti a központi államigazgatási szervek, a területi és helyi közigazgatási szervek, a rendvédelmi szervek és a honvédelemben közreműködő szervek honvédelmi igazgatási feladatainak meghatározásáról szóló kormánydöntéseket, ellenőrzi ezek végrehajtását, összehangolja a honvédelmi feladatokra történő felkészítést, meghatározza a területi és helyi védelmi igazgatási szervek honvédelmi igazgatási feladatait, felügyeli e tevékenységüket, jóváhagyja a megyei, fővárosi védelmi bizottságok honvédelmi igazgatással kapcsolatos ellenőrzési rendjét,
 
-b) összehangolja a honvédelemben közreműködő szervek honvédelmi feladatokra történő felkészítését,
+2. előkészíti a lakosságnak, az anyagi javaknak és a közigazgatásnak Magyarország fegyveres védelme felkészítésére, valamint a központi államigazgatási szervek honvédelmi feladatainak meghatározására vonatkozó döntéseket,
 
-c) összehangolja a szövetséges fegyveres erőkkel történő kollektív védelmi tervezést és haderőfejlesztést,
+3. koordinálja a Honvédelmi Tanács és a Kormány speciális működési feltételei biztosításával kapcsolatos feladatokat, meghatározza a szükséges infrastruktúra és infokommunikációs rendszer követelményeit,
 
-d) együttműködik az illetékes miniszterekkel a honvédelmi feladatok végrehajtásában,
+4. koordinálja a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszert működtető szervek ezzel kapcsolatos tevékenységét,
 
-e) meghatározza a Honvédelmi Tanács, és a Kormány speciális működési feltételei biztosításával kapcsolatos feladatokat, az ehhez szükséges infrastruktúra és infokommunikációs rendszer követelményeit,
+5. kormányrendeletben meghatározottak szerint ellátja a Honvédség működését és a honvédelmi érdek érvényesítését szolgáló létfontosságú rendszerekkel és létesítményekkel kapcsolatos feladatokat, felelős ezeknek az ágazaton belüli védelmi intézményrendszere kialakításáért,
 
-f) meghatározza a területi és a helyi védelmi igazgatási szervek, valamint a honvédelemben közreműködő szervek honvédelmi igazgatási feladatait, felügyeli azok tevékenységét,
+6. koordinálja a polgári veszélyhelyzeti tervezés katonai feladatait,
 
-g) rendelettel és a Honvédség vonatkozásában normatív utasítással szabályozza a más állami szerv feladatkörébe nem tartozó honvédelmi feladatok végrehajtását,
+7. gondoskodik a nemzetközi szerződésekből és nemzetközi megállapodásokból fakadó katonai kötelezettségvállalások végrehajtásáról,
 
-h) részt vesz a Nemzeti Közszolgálati Egyetem fenntartói irányítását közösen ellátó Fenntartói Testület tevékenységében,
+8. felelős az Észak-atlanti Tanács stratégiai szintű politikai-katonai válságkezelési gyakorlatokban történő magyar részvétel előkészítéséért, tervezéséért és nemzeti végrehajtásának koordinálásáért,
 
-i) koordinálja a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszer működtetésében résztvevő szervek ezzel kapcsolatos tevékenységét,
+9. végrehajtja a befogadó nemzeti támogatás hatáskörébe tartozó feladatait,
 
-j) jóváhagyja a megyei, fővárosi védelmi bizottságok honvédelmi igazgatással kapcsolatos ellenőrzésének rendjét,
+10. felelős nemzeti katonai stratégia, a Honvédség és a külföldi fegyveres erők következő évre tervezett csapatmozgásai jegyzékének előkészítéséért,
 
-k) felelős a Honvédség működését és a honvédelmi érdek érvényesítését szolgáló kritikus infrastruktúra elemeinek azonosításáért, védelmi intézményrendszerének honvédelmi ágazaton belüli kialakításáért, a kritikus infrastruktúra elemei horizontális kritériumainak meghatározásáért,
+11. felelős a Hvt. 19. § (1) bekezdése szerinti határozati javaslatok és a Hvt. 21. § (4) bekezdés szerinti beszámoló előkészítéséért, a más jogszabályokban előírt beszámolási kötelezettség teljesítéséért,
 
-l) felelős a nemzetgazdaság védelmi célú felkészítése körében a honvédelmi érdek érvényesítéséért, az ágazati szabályok meghatározásáért és feladatok végrehajtásáért,
+12. felelős Magyarország fegyveres védelmi tervének előkészítéséért, folyamatos korszerűsítéséért, és annak a köztársasági elnök elé terjesztéséért,
 
-m) gondoskodik a polgári veszélyhelyzeti tervezés katonai feladatainak koordinálásáról,
+13. meghatározza a Honvédség készenléte fenntartásának és fokozásának rendjét, a Hvt. 21. § (2) bekezdés d) pontja esetén intézkedik a Honvédség egésze és az egyes katonai szervezetek készenlétének fokozására vagy csökkentésére,
 
-n) felelős a központi államigazgatási szervek, a területi és a helyi közigazgatási szervek, a rendvédelmi szervek, a honvédelemben közreműködő szervek honvédelmi igazgatási feladatainak meghatározásáért és végrehajtásának ellenőrzéséért.
+14. irányítja a honvédelmi katasztrófavédelmi rendszer működését,
 
-(3) A honvédelemért felelős miniszter előkészíti
+15. a Hvt. 37. § (3) bekezdésében meghatározott létszámot vagy időtartamot meghaladóan engedélyezi a Honvédség katasztrófavédelemmel összefüggő feladatok végrehajtására történő igénybevételét, engedélyezi a Honvédség szállítóeszközei és műszaki munkagépeinek ideiglenes átengedését,
 
-a) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényt, és annak végrehajtási jogszabályait,
+16. irányítja a katonai légiforgalmi irányító és a légvédelmi irányító szolgálatokat,
 
-b) az egyes honvédelmi kötelezettségek teljesítéséről, az azokkal kapcsolatos katonai igazgatási feladatokról, a hadköteles nyilvántartás vezetése, és a gazdasági és anyagi szolgáltatások biztosítása érdekében teljesítendő adatszolgáltatásokról és a honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelésről szóló törvényt, és annak végrehajtási
+17. felelős a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózatának fejlesztéséért, működtetéséért, megállapítja a Honvédség feladatainak teljesítése szempontjából fontos híradó, informatikai és információvédelmi szolgáltatások működőképességének biztosítása érdekében szükséges együttműködési feladatokat,
 
-c) a Honvédség hivatásos, szerződéses és önkéntes tartalékos állománya jogállását szabályozó törvényt és annak végrehajtási jogszabályait,
+18. felelős az MH Légi Kutató-Mentő Szolgálat létrehozásáért és fenntartásáért,
 
-d) a honvéd tisztjelöltek és a honvéd altiszt-jelöltek jogállását szabályozó törvényt, és annak végrehajtási jogszabályait,
+19. együttműködik a Magyar Szabványügyi Testülettel és az érintett miniszterekkel a katonai szabványosítás irányainak meghatározásában, a katonai szabványok kidolgozásában, gondoskodik az egységes védelmi előírások és szabványosítási egyezmények előkészítéséről és végrehajtásáról, és
 
-e) a hadköteles katonák jogállását szabályozó törvényt, és annak végrehajtási jogszabályait,
+20. irányítja a NATO és az Európai Unió védelmi tervezési feladataival kapcsolatos magyarországi feladatok ellátását, összehangolja az érintett szervezetek ezzel kapcsolatos tevékenységét.
 
-f) a hadigondozásról szóló törvényt, és annak végrehajtási jogszabályait,
+(3) A miniszter a Honvédség irányításáért és vezetéséért, valamint törvényes működéséért viselt felelőssége körében
 
-g) a Honvédség részletes bontású létszámáról szóló országgyűlési határozatot,
+1. meghatározza a Honvédség vezetési szintjeit, azok feladat- és hatásköreit,
 
-h) a biztonság- és védelempolitika alapelveiről szóló országgyűlési határozatot,
+2. irányítja az e rendelettel létrehozott központi hivatalokat,
 
-i) a főbb haditechnikai eszközökről szóló országgyűlési határozatot,
+3. előkészíti a Honvédség létszámára, állományarányaira, felépítésére, felszerelésére, és az ország területének védelmi célú előkészítésére vonatkozó javaslatokat, gondoskodik a döntések végrehajtásáról,
 
-j) a honvédelmi politika megvalósulásáról szóló országgyűlési jelentést,
+4. meghatározza a minősített adatok és a személyes adatok védelmére vonatkozó feladatok végrehajtásának ágazati rendjét,
 
-k) a nemzeti katonai stratégiát,
+5. meghatározza a központi gazdálkodás ellátási-utaltsági rendjét, a (köz)beszerzések és az ellenőrzések rendszerét,
 
-l) a lakosságnak, az anyagi javaknak és a közigazgatásnak Magyarország fegyveres védelme felkészítésére vonatkozó döntéseket,
+6. felelős a NATO és az EU Központi Rejtjel Elosztó Hatóság feladatainak ellátásáért, meghatározza az ügykezelés rendjét, az információbiztonságra vonatkozó követelményeket,
 
-m) a központi államigazgatási szervek honvédelmi feladatainak meghatározására vonatkozó kormánydöntéseket,
+7. felelős a katonai földmérési és térképészeti tevékenységért, kijelöli a katonai földmérési és térképészeti tevékenység végzése során előállított állami alapadatokat kezelő szervezetet, tagot delegál a Térképellátási Koordinációs Bizottságba,
 
-n) a nemzetközi szerződésben vállalt katonai kötelezettség teljesítésére vonatkozó kormánydöntéseket.
+8. felelős a hadtudományi kutatás-fejlesztésért.
 
-(4) A honvédelemért felelős miniszter az érintett miniszterekkel együttműködik
+(4) A miniszter
 
-a) a katasztrófavédelemre,
+a) dönt a hadfelszerelés rendszeresítéséről,
 
-b) a polgári védelemre,
+b) gyakorolja a hősi temetési hely feletti rendelkezési jogot és más, a temetőkről és a temetkezésről szóló törvényben hatáskörébe utalt döntési és hozzájárulási jogköröket, együttműködik a Nemzeti Emlékhely és Kegyeleti Bizottsággal,
 
-c) a légi közlekedésre,
+c) felelős a hadigondozás állami feladatainak megvalósításáért, és
 
-d) a honvédelmi munkakötelezettségre,
+d) biztosítja a természetvédelmi, illetve a környezetvédelmi előírások és a honvédelmi érdekek összehangolt érvényesülését.
 
-e) a Nemzeti Közszolgálati Egyetemre,
+(5) A miniszter felelős az ágazati jogszabályok és közjogi szervezetszabályozó eszközök tervezeteinek előkészítéséért, a közigazgatási és a társadalmi egyeztetés lefolytatásáért, a hatásvizsgálat elvégzéséért. A miniszter az ágazati szabályozásért viselt felelőssége körében előkészíti különösen
 
-f) a nemzetgazdaság védelmi felkészítésére és mozgósítására
+a) a honvédelemre és a Honvédségre vonatkozó,
 
-vonatkozó jogszabályok előkészítésében.
+b) a különleges jogrendben bevezethető intézkedésekre vonatkozó,
 
-(5) A honvédelemért felelős miniszter a Honvédség irányításáért és vezetéséért viselt felelőssége körében
+c) az egyes honvédelmi kötelezettségek teljesítésére, az azokkal kapcsolatos katonai igazgatási feladatokra vonatkozó,
 
-a) szabályozza
+d) a honvédelmi célú, továbbá a szolgálati viszonnyal összefüggő nyilvántartás vezetésére, adatkezelésre vonatkozó,
 
-aa) a Honvédség készenléte fenntartásának és fokozásának rendjét,
+e) a szolgálati céllal Magyarországon tartózkodó külföldi fegyveres erők, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartására, valamint jogállásukra vonatkozó,
 
-ab) a Honvédség béke, veszélyhelyzet, szükségállapot és váratlan támadás idején történő kiegészítésének, továbbá rendkívüli állapot és megelőző védelmi helyzet kihirdetése esetén a Honvédség hadkötelesekkel történő kiegészítésének rendjét és feladatait,
+f) a honvédek jogállására vonatkozó,
 
-ac) a Honvédség felkészítésének követelményeit, a felkészítés és a kiképzés rendjét,
+g) a hadköteles katonák jogállására vonatkozó,
 
-ad) a Honvédség gazdálkodását, a Honvédség vagyonkezelésében lévő ingatlanok és ingók vagyongazdálkodását,
+h) a hadigondozásra vonatkozó,
 
-ae) a személyügyi hatásköröket és azok gyakorlásának módját,
+i) az államháztartás működési rendjétől eltérő szabályokat meghatározó, vagy ahhoz kapcsolódó, és
 
-af) a Honvédség logisztikai, pénzügyi, egészségügyi, igazgatási és jogi tevékenységét,
+j) az ágazati beszerzésekre irányadó, így különösen a védelmi beszerzésekre, továbbá a NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó
 
-ag) a személyi állomány élet-, szolgálati és munkakörülményeivel összefüggő juttatásokat, költségtérítéseket, kedvezményeket, támogatásokat, szociális juttatásokat, a laktanyai elhelyezést, a lakhatást elősegítő ellátások jogosultjainak körét, feltételeit és rendjét,
+jogszabályokat és – jogszabályi rendezést nem igénylő kérdésekben – normatív utasítást ad ki.
 
-ah) a Honvédség személyi állománya tekintetében az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, tárgyi és szervezeti feltételeit a munkabalesetek és a szolgálattal összefüggő megbetegedések megelőzése érdekében és a munkabalesetek, foglalkozási megbetegedések, a baleseti veszélyt jelentő rendellenességek bejelentését, kivizsgálását, nyilvántartását,
+(6) A miniszter a honvédelmi érdek érvényesítése érdekében közreműködik a katasztrófavédelemre, a polgári védelemre, a légi közlekedésre, az állami és a nemzeti vagyonra vonatkozó, a Honvédség járműveit, a kormánytisztviselőket, a közalkalmazottakat, a bírákat és az ügyészeket, a nemzetbiztonsági szolgálatokat, a felsőoktatást és a Nemzeti Közszolgálati Egyetemet, a nemzeti köznevelést és a szakképzést, valamint a nemzetgazdaság védelmi felkészítését és mozgósítását érintő jogszabályok előkészítésében.
 
-ai) a Honvédség tevékenységével, diszlokációjával kapcsolatban a természetes és épített környezet védelmét,
-
-aj) a honvédelmi hatósági, szakhatósági eljárások díjait,
-
-ak) Magyarország területének a Honvédség légvédelmi készenléti erőivel történő oltalmazását,
-
-al) a Honvédség közreműködésének rendjét a katasztrófák megelőzésében, következményeik elhárításában és felszámolásában,
-
-b) meghatározza a Honvédség vezetési szintjeit,
-
-c) dönt a Honvédség Műveleti Vezetési Rendszere speciális működési feltételeinek megteremtéséhez szükséges infrastruktúra és infokommunikációs rendszer kialakításáról, fenntartásáról,
-
-d) a Kormány döntése alapján intézkedik a Honvédség egésze készenlétének fokozására, és az egyes katonai szervezetek készenlétének fokozására,
-
-e) dönt a Honvédség létszámára, állományarányaira, szervezetére, felszerelésére, az ország területének védelmi célú előkészítésére vonatkozó javaslatokról, gondoskodik azok végrehajtásáról,
-
-f) megállapítja a Honvédség feladatainak teljesítése szempontjából fontos közlekedési hálózat, híradó, informatikai és információvédelmi szolgáltatások, a légi, sugárfigyelő, jelző- és riasztási rendszerek működőképességének biztosítása érdekében szükséges együttműködés feladatait és rendjét,
-
-g) megállapítja a nemzetközi szerződésekből fakadó katonai kötelezettségeket, gondoskodik azok végrehajtásáról,
-
-h) gondoskodik a szövetséges fegyveres erőkkel kapcsolatos egységes védelmi előírások és szabványosítási egyezmények előkészítéséről és végrehajtásáról,
-
-i) meghatározza a Honvédség ellenőrzésének rendszerét,
-
-j) meghatározza a Honvédség híradással és informatikai fejlesztésével kapcsolatos feladatait, kiadja azok tervezésére, szervezésére és végrehajtására vonatkozó rendelkezéseket, gondoskodik az adatok és információk védelméről, ellátja az MH kormányzati célú elkülönült hírközlő hálózat hálózatgazdai feladatait,
-
-k) meghatározza a hadtudományi kutatás-fejlesztés irányait és rendjét,
-
-l) meghatározza a Honvédség minőségügyi intézményrendszerére és annak működésére vonatkozó követelményeket,
-
-m) együttműködik a Magyar Szabványügyi Testülettel és az érintett miniszterekkel a katonai szabványosítás irányainak meghatározásában, a katonai szabványok kidolgozásában,
-
-n) gondoskodik a személyi állomány érdekeinek védelméről, együttműködik a személyi állomány által létrehozott társadalmi és érdekképviseleti szervekkel,
-
-o) irányítja a Honvédelmi Minisztérium Védelmi Hivatalát (a továbbiakban: HM VH),
-
-p) jóváhagyja a Magyar Honvédség Összhaderőnemi Parancsnokság Szervezeti és Működési Szabályzatát,
-
-q) ellátja a jogszabályokban, közjogi szervezetszabályozó eszközökben megállapított egyéb feladatait.
-
-(6) A honvédelemért felelős miniszter
-
-a) a hazai fejlesztések tervezéséhez igényeket támaszt, és – személyes adatnak nem minősülő – adatokat szolgáltat az érintett minisztereknek, együttműködik velük a kormányzati hadiipari fejlesztésekben, biztosítja a hazai termelők és fejlesztők beszállításokban való részvételét,
-
-b) személyes adatnak nem minősülő adatot szolgáltat a nemzetgazdaság különleges jogrendben történő működése tervezéséhez a gazdaságfelkészítési rendszerbe bevont tervező szervek számára.
+[^3]: A II. Fejezet (2–15. §) a 267/2013. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
