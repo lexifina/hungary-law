@@ -1,18 +1,17 @@
-## 29. §[^20]
+## vonatkozóan.
 
-## 30. §[^21]
+## 30. §[^27]
 
-a)–b)[^22]
+a)–b)[^28]
 
-c)[^23]
+c)[^29]
 
-d)[^24]
+d)[^30]
 
-e)–f)[^25]
+e)–f)[^31]
 
-[^20]: A 29. § a 237/2012. (VIII. 30.) Korm. rendelet 8. §-a alapján nem lép hatályba. [A 30. § d) pontja által elrendelt módosítás nem vezethető át.]
-[^21]: A 30. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 30. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 30. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 30. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 30. § e)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 30. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 30. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 30. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 30. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 30. § e)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

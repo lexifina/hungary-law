@@ -62,6 +62,6 @@
 
 ## Országos parancsnok aláírása:
 
-10. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^26]
+10. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^32]
 
-[^26]: A 10. melléklet a 237/2012. (VIII. 30.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^32]: A 10. melléklet a 237/2012. (VIII. 30.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.

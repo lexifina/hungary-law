@@ -14,9 +14,9 @@ cb) az a hivatásos állományú, akinek tartalékállományba helyezéséről a
 
 cc) az a hivatásos állományú, akinek tartalékállományba helyezéséről a személyügyi központ a hivatásos állományú hozzá intézett kérelmére intézkedett;
 
-cd) az a rendelkezési állományú katona, akinek adatait a Honvédelmi Minisztérium személyügyi szervének (a továbbiakban: HM személyügyi szerve) vezetője a Hjt. 48. § (13) bekezdése alapján megküldte,
+cd)[^5] az a rendelkezési állományú katona, akinek adatait a Honvédelmi Minisztérium személyügyi szervének (a továbbiakban: HM személyügyi szerve) vezetője a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény (a továbbiakban: Hatv.) 11. § (3) bekezdés a) pontja alapján megküldte,
 
-d)[^5] országos parancsnok: a Hszt. 2. § e) pontja szerinti személyek,
+d)[^6] országos parancsnok: a Hszt. 2. § e) pontja szerinti személyek,
 
 e) országos parancsnokság: az országos parancsnok által vezetett szerv,
 
@@ -27,4 +27,5 @@ g) irányító szerv: a kormányhivatal, a központi hivatal, valamint a megyei,
 h) irányított szerv: az irányító szerv irányítása alatt álló területi, illetve helyi államigazgatási szerv.
 
 [^4]: A 2. § c) pontja a 237/2012. (VIII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § c) pont cd) alpontja a 298/2013. (VII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

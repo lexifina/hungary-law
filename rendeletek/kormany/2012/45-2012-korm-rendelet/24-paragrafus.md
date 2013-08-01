@@ -2,7 +2,7 @@
 
 24. § (1) Az országos parancsnokság a TARTINFO-rendszer a 17. § (2) bekezdés a)–c) pontjaiban meghatározott funkcióit alkalmazza.
 
-(2)[^12]
+(2)[^13]
 
 (3) Az országos parancsnok a 9. melléklet szerinti regisztrációs bejelentő lap megküldésével igényel TARTINFO azonosítókat, amelyet a 18. § (5) bekezdésében meghatározott módon kell megküldenie a személyügyi központnak. Az országos parancsnok csak az így igényelt TARTINFO azonosítókkal léphet be a TARTINFO-rendszerbe. Az országos parancsnok – a (4) bekezdésben meghatározott kivétellel – a hivatásos állományú adatait a tartalékállományba helyezésétől számított öt munkanapon belül rögzíti a TARTINFO-rendszerben.
 
@@ -12,4 +12,4 @@
 
 (6) A (4) bekezdés alapján tartalékállományba helyezett hivatásos állományú köteles az adataiban történő változásokat öt munkanapon belül postai úton bejelenteni a személyügyi központ felé.
 
-[^12]: A 24. § (2) bekezdése a 237/2012. (VIII. 30.) Korm. rendelet 8. §-a alapján nem lép hatályba.
+[^13]: A 24. § (2) bekezdése a 237/2012. (VIII. 30.) Korm. rendelet 8. §-a alapján nem lép hatályba.

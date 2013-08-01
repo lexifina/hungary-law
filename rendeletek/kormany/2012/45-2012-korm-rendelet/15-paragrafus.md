@@ -1,4 +1,4 @@
-## 14. §[^6] A Kormány a Kttv. 185. § (6) bekezdése szerinti államigazgatási szervként a Közigazgatási és Igazságügyi Hivatalt jelöli ki.
+## 14. §[^7] A Kormány a Kttv. 185. § (6) bekezdése szerinti államigazgatási szervként a Közigazgatási és Igazságügyi Hivatalt jelöli ki.
 
 ## 4. Közszolgálati statisztikai adatgyűjtés
 
@@ -16,4 +16,4 @@
 
 (7) A közigazgatási szerv a tárgyév január 1-jei állapotnak megfelelően legkésőbb tárgyév március 31-éig köteles évente az 5. mellékletben meghatározott adatokat szolgáltatni.
 
-[^6]: A 14. § a 178/2012. (VII. 26.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^7]: A 14. § a 178/2012. (VII. 26.) Korm. rendelet 1. §-a szerint módosított szöveg.
