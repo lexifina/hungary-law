@@ -46,7 +46,7 @@ o) költségvetési támogatás igénybevételére jogosító igazolás kiállí
 
 p) a kiegészítő tevékenységet folytatónak nem minősülő, a Tbj. 4. § b) pontja szerinti egyéni vállalkozó,
 
-r) a Magyarországon bejegyzett egyház,
+r) a egyházi jogi személy,
 
 s) a szakképző iskolai tanulót tanulószerződés alapján foglalkoztató adózó,
 
