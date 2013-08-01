@@ -140,11 +140,11 @@ VI. Kriminálpedagógia és a büntetés-végrehajtás
 
 ## A vizsgázó ismerje meg a kriminálpedagógia kialakulásának hazai történetét, tudományközi kapcsolatainak áttekintése során tudja megkülönböztetni a társtudományoktól (a bűnügyi, nevelési tudományoktól). Tudása terjedjen ki a kriminálpedagógiai törekvések nemzetközi tendenciáira. Tudja értelmezni a személyiséget kriminálpedagógiai szempontból. Határozza meg e téma központi célkategóriáját, jellemezze a korrekciós nevelési rendszereket.
 
-VII. Büntetés-végrehajtási nevelés
+## VII.[^3] Büntetés-végrehajtási nevelés
 
 ## A tárgy oktatása általános ismereteket nyújt a szabadságvesztés céljáról, feladatáról, a nevelés helyéről és szerepéről. A vizsgázó sajátítsa el a büntetés-végrehajtási nevelés fogalmát, folyamatát, tudja definiálni a büntetés-végrehajtási nevelő szerepét és feladatrendszerét a szabadságvesztés folyamatában.
 
-## Legyen átfogó képe a büntetés-végrehajtási nevelés és kezelés folyamatáról, szerezzen konkrét ismereteket a befogadásról, a megismerésről, a nevelési terv elkészítéséről. Ismerje meg a fogvatartotti magatartás figyelemmel kísérésének, irányításának, a reszocializációs programok (egyéni és csoportos foglalkozások) megszervezésének általános és speciális feltételeit. Legyen áttekintése a büntetés-végrehajtási nevelői adminisztráció (pl. rendszeres bejegyzés a számítógépes nyilvántartásba, vagy egy értékelő vélemény) elkészítéséről, folyamatos aktualizálásáról. Tudja bemutatni a reintegráció sikere érdekében elengedhetetlen együttműködést a pártfogó felügyelettel, más egyházi, vagy karitatív tevékenységet folytató civil szervezettel, egyesülettel.
+## Legyen átfogó képe a büntetés-végrehajtási nevelés és kezelés folyamatáról, szerezzen konkrét ismereteket a befogadásról, a megismerésről, a nevelési terv elkészítéséről. Ismerje meg a fogvatartotti magatartás figyelemmel kísérésének, irányításának, a reszocializációs programok (egyéni és csoportos foglalkozások) megszervezésének általános és speciális feltételeit. Legyen áttekintése a büntetés-végrehajtási nevelői adminisztráció (pl. rendszeres bejegyzés a számítógépes nyilvántartásba, vagy egy értékelő vélemény) elkészítéséről, folyamatos aktualizálásáról. Tudja bemutatni a reintegráció sikere érdekében elengedhetetlen együttműködést a pártfogó felügyelettel, vallási közösséggel, karitatív tevékenységet folytató civil szervezettel.
 
 VIII. Büntetés-végrehajtási pszichológia
 
@@ -511,3 +511,5 @@ IV. Áruosztályozás és áruismereti feladatok
 ## A vizsgázó megismeri a közös vámtarifa és a Kombinált Nómenklatúra értelmezésére vonatkozó általános szabályokat, az áruosztályozás alkalmazásának szempontjait, az áruismeret és a termékjellemzők szereplét az áruosztályozásban, valamint az áruosztályok és az árucsoportok főbb jellemzőit. Ismeri és tudja értelmezni a TARIC rendszerben található adatokat, információkat.
 
 V. Büntető- és szabálysértési jogi feladatok
+
+[^3]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
