@@ -4,14 +4,14 @@
 
 ## (A Tv. 14. §-ához)
 
-9. § (1)[^4] A kárpótlásra irányuló kérelmet a kárpótlási hatóság által rendszeresített formanyomtatványon kell előterjeszteni a törvénysértővé, illetve a semmissé nyilvánítás iránti bírósági eljárás megindításával egyidejűleg.
+9. § (1)[^6] A kárpótlásra irányuló kérelmet a kárpótlási hatóság által rendszeresített formanyomtatványon kell előterjeszteni a törvénysértővé, illetve a semmissé nyilvánítás iránti bírósági eljárás megindításával egyidejűleg.
 
 (2) A Tv. 2. és 3. §-ában meghatározott sérelmekhez kapcsolódó tulajdoni és a bérlakás végleges elvételével okozott sérelmek (a továbbiakban: tulajdoni sérelem) kárpótlása iránti kérelmet az 1992. évi XXIV. törvény végrehajtásáról szóló 92/1992. (VI. 10.) Korm. rendelet mellékletének megfelelő adatlapon kell előterjeszteni.
 
-(3)[^5] Az adatlapot a szükséges bizonyítékokkal együtt közvetlenül a kárpótlási hatósághoz lehet benyújtani.
+(3)[^7] Az adatlapot a szükséges bizonyítékokkal együtt közvetlenül a kárpótlási hatósághoz lehet benyújtani.
 
-(4)[^6] Nem kell okirati bizonyítékait ismételten beterjesztenie annak a kérelmezőnek, aki azokat a kárpótlási hatóságnál benyújtott nyugdíjemelés iránti kérelemhez csatolta.
+(4)[^8] Nem kell okirati bizonyítékait ismételten beterjesztenie annak a kérelmezőnek, aki azokat a kárpótlási hatóságnál benyújtott nyugdíjemelés iránti kérelemhez csatolta.
 
-[^4]: A Vhr. 9. § (1) bekezdése a 349/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^5]: A Vhr. 9. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^6]: A Vhr. 9. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^6]: A Vhr. 9. § (1) bekezdése a 349/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: A Vhr. 9. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^8]: A Vhr. 9. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
