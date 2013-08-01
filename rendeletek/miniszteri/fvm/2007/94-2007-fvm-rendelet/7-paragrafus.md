@@ -8,4 +8,6 @@
 
 (5) Az agrár de minimis rendelet szerinti ország- vagy egyéni keret túllépése esetén az agrár de minimis rendelet szabályai alapján támogatás nem nyújtható a mezőgazdasági vállalkozás részére.
 
-(6) A támogatás forrása a Földművelésügyi és Vidékfejlesztési Minisztérium fejezeti kezelésű Folyó kiadások és jövedelemtámogatások előirányzat-felhasználási keretszámla. A kifizetést az MVH a keretszámla terhére a 10032000-00287560-00000017 Agrártámogatások lebonyolítási számláról a forrás rendelkezésre bocsátását követő 30 napon belül teljesíti.
+(6)[^3] A támogatás forrása a Vidékfejlesztési Minisztérium fejezeti kezelésű Folyó kiadások és jövedelemtámogatások előirányzat-felhasználási keretszámla. A kifizetést az MVH a keretszámla terhére a 10032000-00287560-00000017 Agrártámogatások lebonyolítási számláról a forrás rendelkezésre bocsátását követő 30 napon belül teljesíti.
+
+[^3]: A 7. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 71. § c) pontja szerint módosított szöveg.

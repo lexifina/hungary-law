@@ -88,7 +88,7 @@
 
 ## * A nem kívánt rész áthúzandó.
 
-3. számú melléklet a 94/2007. (IX. 4.) FVM rendelethez
+3. számú melléklet a 94/2007. (IX. 4.) FVM rendelethez[^6]
 
 Támogatási kérelem
 
@@ -173,3 +173,5 @@ A közraktár által a tárolt takarmányozási célú gabona mennyiségéről, 
 ––––––––––––––––
 
 * A nem kívánt rész áthúzandó.
+
+[^6]: [A 3. számú mellékletnek a 70/2013. (VII. 31.) VM rendelet 71. § f) pontjával elrendelt módosítása, amely szerint az „az MgSzH” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
