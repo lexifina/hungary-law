@@ -48,7 +48,9 @@ r)[^47] feladatkörében eljárva közreműködik az Európai Unió különleges
 
 s)[^48] a Budapest Liszt Ferenc Nemzetközi Repülőtéren közreműködik a nemzetközi és belföldi polgári repülés elleni jogellenes cselekmények védelmével kapcsolatos feladatok ellátásában,
 
-t)[^49] a titkos információgyűjtésre feljogosított bűnüldöző szervek felkérése alapján ellátja a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott határon átnyúló megfigyelésekkel kapcsolatos feladatokat.
+t)[^49] a titkos információgyűjtésre feljogosított bűnüldöző szervek felkérése alapján ellátja a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott határon átnyúló megfigyelésekkel, ellenőrzött szállításokkal kapcsolatos feladatokat.
+
+u)[^50] ellátja a büntetőeljárásról szóló törvényben meghatározott vagyon-visszaszerzési hatósági feladatokat, ennek keretében feladataival összefüggésben titkos információgyűjtő tevékenységet végez.
 
 [^38]: A 8. §-t a 227/2012. (VIII. 23.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
 [^39]: A 9. § nyitó szövegrésze a 227/2012. (VIII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
@@ -61,4 +63,5 @@ t)[^49] a titkos információgyűjtésre feljogosított bűnüldöző szervek fe
 [^46]: A 9. § q) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^47]: A 9. § r) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^48]: A 9. § s) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^49]: A 9. § t) pontját a 416/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^49]: A 9. § t) pontját a 416/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 286/2013. (VII. 26.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^50]: A 9. § u) pontját a 286/2013. (VII. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
