@@ -4,4 +4,4 @@
 
 (3)
 
-(4) Az egyházak a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, múzeumaik és közművelődési intézményeik működéséhez az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
+(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, múzeumaik és közművelődési intézményeik működéséhez az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
