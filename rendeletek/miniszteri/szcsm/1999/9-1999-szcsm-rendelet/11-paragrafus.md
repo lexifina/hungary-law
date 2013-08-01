@@ -1,3 +1,3 @@
-## 10. §[^17]
+## 10. §[^18]
 
-[^17]: A 10. §-t a 25/2013. (III. 29.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.
+[^18]: A 10. §-t a 25/2013. (III. 29.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.
