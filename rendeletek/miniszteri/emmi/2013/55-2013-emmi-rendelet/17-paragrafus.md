@@ -1,0 +1,1 @@
+## 4. A szociális módszertani intézmények kijelöléséről és feladatairól, valamint a szociális szolgáltatók, intézmények engedélyezési eljárásának szakértői díjáról szóló 3/2008. (IV. 15.) SZMM rendelet hatályon kívül helyezése

@@ -1,0 +1,13 @@
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (2) bekezdés h) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § l) pontjában meghatározott feladatkörömben eljárva,
+
+az 5–6. § és 8–14. § tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (2) bekezdés b) és c) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § l) pontjában meghatározott feladatkörömben eljárva,
+
+a 7. § tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (2a) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § l) pontjában meghatározott feladatkörömben eljárva, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben,
+
+a 15–16. § tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (2) bekezdés k) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § l) pontjában meghatározott feladatkörömben eljárva,
+
+a 17. § tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (2) bekezdés g) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § l) pontjában meghatározott feladatkörömben eljárva,
+
+a 18. § tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 90. § a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § g), i) és l) pontjában meghatározott feladatkörömben eljárva, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § n) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben
+
+a következőket rendelem el:
