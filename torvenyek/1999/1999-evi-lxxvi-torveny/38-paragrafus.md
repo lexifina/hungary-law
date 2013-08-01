@@ -8,7 +8,7 @@ c) szociális és időskori gondozás keretében,
 
 d) nemzeti ünnepeken tartott ünnepségeken,
 
-e) egyházak, alapcélként vallási tevékenységet végző egyesületek vallási szertartásain és vallási ünnepségein,
+e) vallási közösségek vallásos szertartásain és vallásos ünnepségein,
 
 f) magánhasználatra, valamint alkalomszerűen tartott zártkörű összejövetelen.
 
