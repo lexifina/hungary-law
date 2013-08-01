@@ -1,3 +1,0 @@
-2. § (1) A mellékletben felsorolt munkakörökbe azok a személyek nevezhetők ki, illetve e munkakörökben azok a személyek foglalkoztathatók (a továbbiakban: érintett személy), akik a nemzetbiztonsági ellenőrzéshez rendszeresített biztonsági kérdőívet kitöltik, és a biztonsági nyilatkozatot aláírják.
-
-(2) Ha az érintett személy a nemzetbiztonsági ellenőrzéshez az írásbeli hozzájárulást nem adja meg (a kérdőívben lévő nyilatkozatot nem írja alá), fontos és bizalmas munkakörbe nem nevezhető ki, illetve abban tovább nem foglalkoztatható. Jogviszonya más – fontos és bizalmas munkakörnek nem minősített – munkakörben az adott szervezet munkavállalóira vonatkozó törvény alapján tartható fenn.
