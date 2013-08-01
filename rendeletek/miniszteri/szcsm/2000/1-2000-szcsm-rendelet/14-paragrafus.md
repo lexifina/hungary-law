@@ -1,0 +1,12 @@
+## A szakmai program véleményezéséért fizetendő szakértői díj[^55]
+
+## 14. §[^56] A fenntartó a Szociális és Gyermekvédelmi Főigazgatóság részére a szociális szolgáltatók, intézmények szakmai programjának jogszabály alapján, szakértőként végzett véleményezéséért szakértői díjat fizet, amelynek összege működési engedélyenként
+
+a) szociális szolgáltató esetén 16 000 forint,
+
+b) szociális intézmény esetén 24 000 forint,
+
+c) szociális szolgáltató és szociális intézmény egy telephelyen történő működése esetén a b) pont szerinti összeg.
+
+[^55]: A 14. §-t megelőző alcímet a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan az 55/2013. (VII. 29.) EMMI rendelet 7. §-a iktatta be.
+[^56]: A 14. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan az 55/2013. (VII. 29.) EMMI rendelet 7. §-a iktatta be.

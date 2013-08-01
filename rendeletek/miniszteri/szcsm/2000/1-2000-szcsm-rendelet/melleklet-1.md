@@ -1,4 +1,4 @@
-## 115. §[^254] A 2–3. számú melléklet szerinti, egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 78/2011. (XII. 30.) NEFMI rendelettel meghatározott létszám- és képesítési előírásoknak 2012. március 15-éig kell megfelelni.
+## 116. §[^264] A komplex szükségletfelmérés időpontjában lakóotthoni ellátásban részesülő személyek esetében a komplex szükségletfelmérés eredménye a fennálló intézményi jogviszonyt nem érinti, határozott idejű megállapodás esetén a jogviszony a határozott idő lejártáig fennmarad.
 
 1. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez
 
@@ -28,4 +28,4 @@ III. Műszaki ellátási szabályzatok
 
 3. gépjármű használati szabályzat
 
-[^254]: A 115. §-t a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte, újonnan a 78/2011. (XII. 30.) NEFMI rendelet 7. §-a iktatta be.
+[^264]: A 116. §-t az 55/2013. (VII. 29.) EMMI rendelet 11. §-a iktatta be.

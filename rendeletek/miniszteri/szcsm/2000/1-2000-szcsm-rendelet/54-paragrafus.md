@@ -4,7 +4,7 @@
 
 a) a személyre szabott bánásmódot,
 
-b)[^169] a konfliktushelyzetek kialakulásának megelőzése érdekében az egyéni, csoportos megbeszélést,
+b)[^175] a konfliktushelyzetek kialakulásának megelőzése érdekében az egyéni, csoportos megbeszélést,
 
 c) a szabadidő kulturált eltöltésének feltételeit,
 
@@ -32,7 +32,7 @@ c) a kulturális tevékenységeket (pl. rendezvények, ünnepségek, névnapok, 
 
 (5) Az intézményi életformához való alkalmazkodás elősegítése, az igénybe vevők mentálhigiénes ellátásának biztosítása a szociális intézmény valamennyi dolgozójának a feladata.
 
-(6)[^170] Az intézmény vezetője, ha az ellátást igénybe vevő gondnokság alá helyezése szükséges, intézkedést kezdeményez a lakóhely szerint illetékes járási (fővárosi kerületi) gyámhivatalnál.
+(6)[^176] Az intézmény vezetője, ha az ellátást igénybe vevő gondnokság alá helyezése szükséges, intézkedést kezdeményez a lakóhely szerint illetékes járási (fővárosi kerületi) gyámhivatalnál.
 
-[^169]: Az 54 § (1) bekezdésének b) pontja a 6/2000. (VII. 6.) SZCSM rendelet 6. §-ával megállapított szöveg.
-[^170]: Az 54. § (6) bekezdése a 11/2013. (II. 7.) EMMI rendelet 47. § a) pontja szerint módosított szöveg.
+[^175]: Az 54 § (1) bekezdésének b) pontja a 6/2000. (VII. 6.) SZCSM rendelet 6. §-ával megállapított szöveg.
+[^176]: Az 54. § (6) bekezdése a 11/2013. (II. 7.) EMMI rendelet 47. § a) pontja szerint módosított szöveg.

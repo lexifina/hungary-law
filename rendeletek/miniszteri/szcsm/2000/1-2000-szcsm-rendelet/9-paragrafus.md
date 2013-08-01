@@ -1,4 +1,4 @@
-## 8/B. §[^48] Amennyiben a kiskorúság miatt korlátozottan cselekvőképes 16 és 18 év közötti személy az Szt. 93. § (4) bekezdése szerint a törvényes képviselő beleegyezése vagy jóváhagyása nélkül tesz jognyilatkozatot, a szenvedélybetegek közösségi alapellátását és nappali ellátását nyújtó szolgáltató a családdal való kapcsolatfelvétel eredménytelensége esetén felveszi a kapcsolatot az illetékes gyermekjóléti szolgálattal. A szakmai kapcsolatfelvételt követően a szolgáltatók az igénybe vevő ellátása érdekében együttműködnek és kölcsönösen tájékoztatják egymást.
+## 8/B. §[^49] Amennyiben a kiskorúság miatt korlátozottan cselekvőképes 16 és 18 év közötti személy az Szt. 93. § (4) bekezdése szerint a törvényes képviselő beleegyezése vagy jóváhagyása nélkül tesz jognyilatkozatot, a szenvedélybetegek közösségi alapellátását és nappali ellátását nyújtó szolgáltató a családdal való kapcsolatfelvétel eredménytelensége esetén felveszi a kapcsolatot az illetékes gyermekjóléti szolgálattal. A szakmai kapcsolatfelvételt követően a szolgáltatók az igénybe vevő ellátása érdekében együttműködnek és kölcsönösen tájékoztatják egymást.
 
 ## Az egyéni gondozási terv
 
@@ -10,7 +10,7 @@ b) az állapotjavulás, illetve megőrzés érdekében szükséges, illetve java
 
 c) az ellátott részére történő segítségnyújtás egyéb elemeit.
 
-(2)[^49] Az ellátásban részesülő személlyel közvetlenül foglalkozó szakember folyamatosan figyelemmel kíséri és elősegíti az egyéni gondozási tervben meghatározottak érvényesülését. Az egyéni gondozási tervet kidolgozó munkacsoport, illetve az alapszolgáltatások esetében a gondozási tervet készítő személy évente – jelentős állapotváltozás esetén annak bekövetkeztekor – átfogóan értékeli az elért eredményeket, és ennek figyelembevételével módosítja az egyéni gondozási tervet.
+(2)[^50] Az ellátásban részesülő személlyel közvetlenül foglalkozó szakember folyamatosan figyelemmel kíséri és elősegíti az egyéni gondozási tervben meghatározottak érvényesülését. Az egyéni gondozási tervet kidolgozó munkacsoport, illetve az alapszolgáltatások esetében a gondozási tervet készítő személy évente – jelentős állapotváltozás esetén annak bekövetkeztekor – átfogóan értékeli az elért eredményeket, és ennek figyelembevételével módosítja az egyéni gondozási tervet.
 
-[^48]: A 8/B. §-t a 26/2010. (XII. 30.) NEFMI rendelet 2. §-a iktatta be.
-[^49]: A 9. § (2) bekezdésének második mondata a 4/2004. (I. 28.) ESZCSM rendelet 5. §-ával megállapított és a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 39. § (2)–(3) bekezdését.
+[^49]: A 8/B. §-t a 26/2010. (XII. 30.) NEFMI rendelet 2. §-a iktatta be.
+[^50]: A 9. § (2) bekezdésének második mondata a 4/2004. (I. 28.) ESZCSM rendelet 5. §-ával megállapított és a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 39. § (2)–(3) bekezdését.

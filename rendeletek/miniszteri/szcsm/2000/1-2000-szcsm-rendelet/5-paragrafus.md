@@ -44,6 +44,26 @@ h) az egyéni és a közösségi vallásgyakorlásra vonatkozó szabályokat,
 
 i) az intézmény alapfeladatát meghaladó programok, szolgáltatások körét és térítési díját.
 
+(4)[^12] A támogatott lakhatás tekintetében a fenntartónak rendelkeznie kell
+
+a) az (1) bekezdés a)–e) pontja szerinti dokumentumokkal,
+
+b) házirenddel, amelyet az egyéni szükségletek és igények figyelembevétele mellett a lakókkal közösen alakít ki, és amelyben meg kell határozni
+
+ba) az együttélés szabályait,
+
+bb) a háztartással kapcsolatos feladatok megosztását,
+
+bc) a konfliktuskezelés módját, eredménytelensége esetére az azokról való döntés eljárását,
+
+bd) az ellátást igénybevevő jogainak sérelme esetén alkalmazandó jelzőrendszer szabályait,
+
+c) az Szt. 75. § (2) bekezdés c) pontja esetében az 1. számú mellékletben meghatározott szabályzatokkal, ide nem értve az 1. számú melléklet I. pontja szerinti szabályzatokat,
+
+d) az Szt. 75. § (1) bekezdés b)–d) pontja szerinti szolgáltatások biztosítása esetében az 1. számú melléklet I. 1. alpontjában, II. és III. pontjában meghatározott szabályzatokkal,
+
+e) a szolgáltatás körében okozott kár megtérítésére vonatkozó érvényes felelősségbiztosítási szerződéssel.
+
 [^5]: Az 5. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését. Az (1) bekezdés bevezető szövege a 9/2006. (XII. 27.) SZMM rendelet 10. § (7) bekezdésének a) pontja szerint módosított szöveg.
 [^6]: Az 5. § (1) bekezdés c) pontja a 78/2011. (XII. 30.) NEFMI rendelet 3. §-ával megállapított szöveg.
 [^7]: Az 5. § (1) bekezdésének f) pontja a 9/2006. (XII. 27.) SZMM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -51,3 +71,4 @@ i) az intézmény alapfeladatát meghaladó programok, szolgáltatások körét 
 [^9]: Az 5. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
 [^10]: Az 5. § (2) bekezdés c) pontja a 35/2009. (XII. 30.) SZMM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^11]: Az 5. § (3) bekezdésének bevezető mondata a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^12]: Az 5. § (4) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 5. §-a iktatta be.

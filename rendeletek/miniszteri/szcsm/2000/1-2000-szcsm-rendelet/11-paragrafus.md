@@ -1,3 +1,5 @@
+## 10. §[^51]
+
 ## Az egyéni rehabilitációs program
 
 11. § (1) Az egyéni rehabilitációs program tartalmazza
@@ -15,3 +17,5 @@ e) szükség esetén az intézményen kívüli élet, vagy a védett környezetb
 f) az ellátást igénybe vevőnek a társadalomba, a korábbi közösségébe történő visszailleszkedése érdekében szükséges, koordinált intézkedéseket.
 
 (2) A rehabilitációs program eredményeit a programot kidolgozó munkacsoport félévente értékeli, szükség esetén módosítja a programot, meghatározza a további feladatokat.
+
+[^51]: A 10. §-t az 55/2013. (VII. 29.) EMMI rendelet 14. § a) pontja hatályon kívül helyezte.

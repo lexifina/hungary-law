@@ -1,6 +1,6 @@
-## Diszpécserszolgálat[^236]
+## Diszpécserszolgálat[^244]
 
-104/B. §[^237] (1) Az utcákon, közterületeken élő hajléktalan emberek ellátásának hatékonyabbá tétele érdekében a szociális ágazatot irányító miniszter öt éves időtartamra regionális hatáskörű diszpécserszolgálatokat jelöl ki.
+104/B. §[^245] (1) Az utcákon, közterületeken élő hajléktalan emberek ellátásának hatékonyabbá tétele érdekében a szociális ágazatot irányító miniszter öt éves időtartamra regionális hatáskörű diszpécserszolgálatokat jelöl ki.
 
 (2) A diszpécserszolgálat
 
@@ -14,7 +14,7 @@ d) gyűjti és rendszerezi a régióban működő, hajléktalan emberek ellátá
 
 e) számítógépes adatbázisában nyilvántartja a bejelentések kapcsán tett intézkedéseket,
 
-f)[^238] tevékenységéről és az észlelt problémákról rendszeresen tájékoztatja a regionális módszertani intézményt.
+f)[^246] tevékenységéről és az észlelt problémákról rendszeresen tájékoztatja a regionális módszertani intézményt.
 
 (3) A diszpécserszolgálat a (2) bekezdés szerinti feladatokat
 
@@ -22,6 +22,6 @@ a) a téli időszakban folyamatosan, napi 24 órában biztosítja,
 
 b) a téli időszakon kívül legalább munkaidőben biztosítja, és gondoskodik a munkaidőn kívüli telefonhívások fogadásáról.
 
-[^236]: A 104/B. §-t megelőző alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be.
-[^237]: A 104/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^238]: A 104/B. § (2) bekezdésének f) pontja a 3/2008. (IV. 15.) SZMM rendelet 14. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^244]: A 104/B. §-t megelőző alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be.
+[^245]: A 104/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^246]: A 104/B. § (2) bekezdésének f) pontja a 3/2008. (IV. 15.) SZMM rendelet 14. § (2) bekezdésének b) pontja szerint módosított szöveg.

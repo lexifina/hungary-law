@@ -1,4 +1,4 @@
-## 5/B. §[^25] A szervezeti és működési szabályzat tartalmazza
+## 5/B. §[^26] A szervezeti és működési szabályzat tartalmazza
 
 a) az intézmény szervezeti felépítésének leírását,
 
@@ -12,7 +12,7 @@ e) a szervezeti egységek szakmai együttműködésének, az esetleges helyettes
 
 f) az intézmény irányítási és működési rendjével kapcsolatos kérdéseket, ideértve a munkáltatói jogok gyakorlásának rendjét,
 
-g)[^26] amennyiben a szociális szolgáltató, intézmény költségvetési szerv, a költségvetési szervekre külön jogszabályban előírt tartalmi elemeket.
+g)[^27] amennyiben a szociális szolgáltató, intézmény költségvetési szerv, a költségvetési szervekre külön jogszabályban előírt tartalmi elemeket.
 
-[^25]: Az 5/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 4. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^26]: Az 5/B. § g) pontját a 35/2009. (XII. 30.) SZMM rendelet 10. §-a iktatta be.
+[^26]: Az 5/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 4. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^27]: Az 5/B. § g) pontját a 35/2009. (XII. 30.) SZMM rendelet 10. §-a iktatta be.
