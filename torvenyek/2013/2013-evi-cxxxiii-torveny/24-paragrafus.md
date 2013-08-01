@@ -1,0 +1,7 @@
+## II. Fejezet
+
+## EGYÉB MÓDOSÍTÓ RENDELKEZÉSEK
+
+## 4. A Polgári Törvénykönyvről szóló 1959. évi IV. törvény módosítása
+
+24. § Hatályát veszti a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 62. § (7) bekezdése.

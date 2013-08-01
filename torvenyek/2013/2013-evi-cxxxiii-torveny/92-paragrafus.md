@@ -1,0 +1,1 @@
+92. § A jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 5. § (2) bekezdés b) pontjában és (3) bekezdésében a „közgyűjtemények vagy egyházi intézmények” szövegrész helyébe a „közgyűjtemények, valamint az egyházi jogi személy vagy a vallási tevékenységet végző szervezet” szöveg lép.
