@@ -20,7 +20,7 @@ f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban,
 
 g) szolgálati jogviszonyban,
 
-h) egyházi személyként,
+h) egyházi személyként vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjaként,
 
 i) önkéntes segítőként,
 

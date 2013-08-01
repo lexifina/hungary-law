@@ -14,7 +14,7 @@ b) az egészségügyi dolgozó részére – az Mt. 105. § és 106. §-ának al
 
 (3) Az (1) és (2) bekezdésben foglaltaktól eltérően, az Mt. 97. § (2) bekezdésében foglalt általános munkarend szerinti heti pihenőnapra eső rendes munkaidőben elrendelt egészségügyi ügyelet után az alkalmazott egészségügyi dolgozót az egészségügyi ügyelet idejére járó munkabérén, illetményén felül 50%-os mértékű ügyeleti pótlék illeti meg.
 
-(4) Az egészségügyi ügyelet díjazására az Mt. 143. § (1) bekezdés b) és c) pontja nem alkalmazható.
+(4) Az egészségügyi ügyelet díjazására az Mt. 143. § (2) bekezdés b) és c) pontja nem alkalmazható.
 
 (5) A 12/F. § (2) bekezdése szerint beosztott egészségügyi ügyelet esetében a 12 órát meghaladó napi munkaidőre
 

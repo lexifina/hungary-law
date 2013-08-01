@@ -28,4 +28,4 @@ c) az egészségügyi szolgáltató vezetésével való kapcsolattartásról.
 
 (6) A több, illetve a több fajta jogviszony keretében egészségügyi tevékenységet végző egészségügyi dolgozó az egyes jogviszonyai szerinti egészségügyi szolgáltatónál nyilatkozatban tanúsítja, hogy az egészségügyi tevékenysége az (5) bekezdés szerinti korlátot nem haladja meg.
 
-(7) Az egyházi jogi személyek egészségügyi dolgozói feladatukat egyházi személyként is elláthatják.
+(7) Egyházi személyként és vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjaként egészségügyi dolgozói feladatot egyházi jogi személy vagy vallási tevékenységet végző szervezet által fenntartott egészségügyi szolgáltatónál lehet végezni.

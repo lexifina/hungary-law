@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-84-00-00
 | 2013-07-01 | 2013. évi XCVII. törvény | 2003-84-00-00.22 |
 | 2013-07-06 | 2013. évi CXXVII. törvény | 2003-84-00-00.23 |
 | 2013-07-15 | 2013. évi CXXVII. törvény | 2003-84-00-00.24 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 2003-84-00-00.25 |
