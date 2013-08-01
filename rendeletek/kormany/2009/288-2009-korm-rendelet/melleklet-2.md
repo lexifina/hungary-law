@@ -4,7 +4,7 @@
 
 ## Tipus: AGY = adatgyűjtés AÁ, adatátvétel
 
-## 3K04056N_0
+## 3K65002M_0
 
 | Adatgyűjtés - Adatátvétel | Az adatszolgáltatás beérkezési határideje | Irányadó uniós jogi aktus |
 
@@ -20,11 +20,11 @@
 
 | 1009 | Személysérüléses közúti közlekedési baleset | AGY | Havonkénti | Országos Rendőr-Főkapitányság | a tárgyhót követő 40. nap | 93/704/EK | Határozat |
 
-| * 1017 | Statisztikai jelentés a mentőszolgálatok tevékenységéről és a betegszállításról | AGY | Évenkénti | Országos Mentőszolgálat, Országos Egészségbiztosítási Pénztár, Magyar Légimentő Nonprofit Kft. | tárgyévet követő március 20. |  |  |
+| * 1017 | Statisztikai jelentés a mentőszolgálatok tevékenységéről és a betegszállításról | AGY | Évenkénti | Országos Mentőszolgálat, Országos Egészségbiztosítási Pénztár, Magyar Légimentő Nonprofit Kft. | tárgyévet követő március 20. |  |
 
-| * 1019 | Az egészségügyi ellátás állás- és létszámkimutatása | AGY | Évenkénti | valamennyi egészségügyi szolgáltató | a tárgyévet követő január 31. |  |  |
+| * 1019 | Az egészségügyi ellátás állás- és létszámkimutatása | AGY | Évenkénti | valamennyi egészségügyi szolgáltató | a tárgyévet követő január 31. |  |
 
-| * 1021 | Jelentés a háziorvosok és házi gyermekorvosok tevékenységéről | AGY | Évenkénti | háziorvosi és házi gyermekorvosi tevékenységet végző orvosok | a tárgyévet követő január 31. |  |  |
+| * 1021 | Jelentés a háziorvosok és házi gyermekorvosok tevékenységéről | AGY | Évenkénti | háziorvosi és házi gyermekorvosi tevékenységet végző orvosok | a tárgyévet követő január 31. |  |
 
 | * 1023 | Éves építőipar-statisztikai szakmai jelentés | AGY | Évenkénti | az építőipar gazdasági ágba sorolt 9 fő feletti és a megfigyelésbe bevont 5-9 fős vállalkozások valamint a kijelölt nem építőipari szervezetek | a tárgyévet követő június 10. | 1614/2002/EK Rendelet 1893/2006/EK Rendelet 2701/98/EK Rendelet 295/2008/EK Rendelet |
 
@@ -58,13 +58,13 @@
 
 | * 1074 | Jelentés a vállalkozások kutatási, fejlesztési adatairól | AGY | Évenkénti | kutatási, fejlesztési tevékenységet folytató gazdálkodó szervezetek | a tárgyévet követő március 16. | 753/2004/EK | Rendelet |
 
-| 1076 | Megszűnési jelentés a lakóépületekről és lakásokról | AGY | Eseményhez kötődő | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | folyamatos |  |  |
+| 1076 | Megszűnési jelentés a lakóépületekről és lakásokról | AGY | Eseményhez kötődő | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | folyamatos |  |
 
-| * 1077 | Községi, városi lakás-, üdülőépítési és lakásmegszűnési összesítő | AGY | Évenkénti | a külön kormányrendeletben megjelölt települési, fővárosi, kerületi önkormányzatok jegyzői | a tárgyévet követő január 15. |  |  |
+| * 1077 | Községi, városi lakás-, üdülőépítési és lakásmegszűnési összesítő | AGY | Évenkénti | a külön kormányrendeletben megjelölt települési, fővárosi, kerületi önkormányzatok jegyzői | a tárgyévet követő január 15. |  |
 
 | 1078 | Részletező adatok a lakások és üdülők végleges használatba vételéről | AGY | Eseményhez kötődő | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | folyamatos | 1165/98/EK | Rendelet |
 
-| * 1080 | Jelentés az önkormányzatok ingatlankezelési és lakásellátási tevékenységéről | AGY | Évenkénti | önkormányzati lakásállománnyal rendelkező települi önkormányzatok | a tárgyévet követő március 1. |  |  |
+| * 1080 | Jelentés az önkormányzatok ingatlankezelési és lakásellátási tevékenységéről | AGY | Évenkénti | önkormányzati lakásállománnyal rendelkező települi önkormányzatok | a tárgyévet követő március 1. |  |
 
 | * 1081 | Építési engedélyek | AGY | Havonkénti | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | a tárgyhót követő hó 7. | 1165/98/EK | Rendelet |
 
@@ -82,43 +82,43 @@
 
 | * 1117 | Munkaerőköltség-felvétel | AGY | Évenkénti | megfigyelésbe bevont gazdasági szervezetek | a tárgyévet követő május 31. | 224/2007/EK | Rendelet 450/2003/EK | Rendelet 530/1999/EK | Rendelet |
 
-| 1119 | Sztrájkstatisztikai jelentés | AGY | Eseményhez kötődő | az eseményben érintett gazdasági szevezetek | az eseményt követő 3 héten belül |  |  |
+| 1119 | Sztrájkstatisztikai jelentés | AGY | Eseményhez kötődő | az eseményben érintett gazdasági szevezetek | az eseményt követő 3 héten belül |  |
 
-| * 1156 | Statisztikai jelentés a civil és egyéb nonprofit szervezetek tevékenységéről | AGY | Évenkénti | Magyarországon bejegyzett civil szervezetek: egyesületek (egyesület, szövetség, szakszervezet, vallási egyesület, sportegyesület, sportszövetség, vadásztársaság, biztosító egyesület), alapítványok; továbbá egyéb nonprofit szervezetek: egyesülések, köztestületek, közalapítványok, pártalapítványok, érdekképviseletek, nonprofit gazdasági társaságok, állami alapok, szociális szövetkezetek, valamint az általuk alapított intézmények | május 31. |  |  |
+| * 1156 | Statisztikai jelentés a civil és egyéb nonprofit szervezetek tevékenységéről | AGY | Évenkénti | Magyarországon bejegyzett civil szervezetek: egyesületek (egyesület, szövetség, szakszervezet, vallási egyesület, sportegyesület, sportszövetség, vadásztársaság, biztosító egyesület), alapítványok; továbbá egyéb nonprofit szervezetek: egyesülések, köztestületek, közalapítványok, pártalapítványok, érdekképviseletek, nonprofit gazdasági társaságok, állami alapok, szociális szövetkezetek, valamint az általuk alapított intézmények | május 31. |  |
 
-| 1165 | Statisztikai adatszolgáltató lap a terhesség megszakításáról | AGY | Eseményhez kötődő | egészségügyi intézmények | az eseményt követő hó 10. |  |  |
+| 1165 | Statisztikai adatszolgáltató lap a terhesség megszakításáról | AGY | Eseményhez kötődő | egészségügyi intézmények | az eseményt követő hó 10. |  |
 
-| * 1174 | Jelentés a televízióműsor-szolgáltatásról | AGY | Évenkénti | televízióműsor-szolgáltatok | a tárgyévet követő április 15. |  |  |
+| * 1174 | Jelentés a televízióműsor-szolgáltatásról | AGY | Évenkénti | televízióműsor-szolgáltatok | a tárgyévet követő április 15. |  |
 
-| * 1175 | Jelentés a rádióműsor-szolgáltatásról | AGY | Évenkénti | rádióműsor-szolgáltatók | a tárgyévet követő április 15. |  |  |
+| * 1175 | Jelentés a rádióműsor-szolgáltatásról | AGY | Évenkénti | rádióműsor-szolgáltatók | a tárgyévet követő április 15. |  |
 
 | * 1180 | A vasúti áruszállítás adatai | AGY | Évenkénti | az országos hálózaton történő vasúti áruszállításhoz szükséges engedéllyel rendelkező vállalkozások | a tárgyévet követő március 31. | 1192/2003/EK Rendelet 1304/2007/EK Rendelet 91/2003/EK Rendelet |
 
-| * 1183 | A közúti személyszállítás adatai | AGY | Évenkénti | városi, elővárosi szárazföldi személyszállítás és egyéb szárazföldi személyszállítás alágazatba sorolt, a megfigyelésbe bevont vállalkozások | a tárgyévet követő március 31. |  |  |
+| * 1183 | A közúti személyszállítás adatai | AGY | Évenkénti | városi, elővárosi szárazföldi személyszállítás és egyéb szárazföldi személyszállítás alágazatba sorolt, a megfigyelésbe bevont vállalkozások | a tárgyévet követő március 31. |  |
 
-| * 1189 | Közúti és kötöttpályás személyszállítási teljesítmények | AGY | Negyed- évenkénti | városi, elővárosi szárazföldi személyszállítás és egyéb szárazföldi személyszállítás alágazatba sorolt, a megfigyelésbe bevont vállalkozások | a tárgynegyedévet követő hó 15. |  |  |
+| * 1189 | Közúti és kötöttpályás személyszállítási teljesítmények | AGY | Negyed- évenkénti | városi, elővárosi szárazföldi személyszállítás és egyéb szárazföldi személyszállítás alágazatba sorolt, a megfigyelésbe bevont vállalkozások | a tárgynegyedévet követő hó 15. |  |
 
-| * 1190 | A csővezetékes szállítás adatai | AGY | Évenkénti | kőolaj-, földgáz- és egyéb szénhidrogéncsőhálózatot üzemeltető gazdasági szervezetek | a tárgyévet követő március 31. |  |  |
+| * 1190 | A csővezetékes szállítás adatai | AGY | Évenkénti | kőolaj-, földgáz- és egyéb szénhidrogéncsőhálózatot üzemeltető gazdasági szervezetek | a tárgyévet követő március 31. |  |
 
 | 1198 | Adatfelvételi lap a Duna magyarországi szakaszának tranzit hajóforgalmáról | AGY | Havonkénti | NAV Baranya Megyei Vám- és Pénzügyőri Igazgatóság (folyami vámhivatal) | a tárgyhót követő hó 4. | 1304/2007/EK | Rendelet 1365/2006/EK | Rendelet 425/2007/EK | Rendelet |
 
-| * 1202 | Kimutatás a tartós bentlakásos és átmeneti elhelyezést nyújtó intézmények működési adatairól | AGY | Évenkénti | valamennyi tartós és átmeneti bentlakást nyújtó szociális intézmény | a tárgyévet követő január 31. |  |  |
+| * 1202 | Kimutatás a tartós bentlakásos és átmeneti elhelyezést nyújtó intézmények működési adatairól | AGY | Évenkénti | valamennyi tartós és átmeneti bentlakást nyújtó szociális intézmény | a tárgyévet követő január 31. |  |
 
-| * 1203 | Bölcsődei kérdőív | AGY | Évenkénti | valamennyi bölcsőde | a tárgyévet követő január 31. |  |  |
+| * 1203 | Bölcsődei kérdőív | AGY | Évenkénti | valamennyi bölcsőde | a tárgyévet követő január 31. |  |
 
-| * 1206 | Kimutatás a pénzben és természetben nyújtható támogatások adatairól | AGY | Évenkénti | a települési önkormányzatok, járási (fővárosi kerületi) hivatalok | a tárgyévet követő március 31. |  |  |
+| * 1206 | Kimutatás a pénzben és természetben nyújtható támogatások adatairól | AGY | Évenkénti | a települési önkormányzatok, járási (fővárosi kerületi) hivatalok | a tárgyévet követő március 31. |  |
 
-| * 1207 | Kimutatás egyes szociális alapszolgáltatásokról és nappali ellátást nyújtó intézmények adatairól | AGY | Évenkénti | szociális alapszolgáltatást és nappali ellátást nyújtó települési önkormányzatok és intézményt fenntartó gazdasági szervezetek | a tárgyévet követő január 31. |  |  |
+| * 1207 | Kimutatás egyes szociális alapszolgáltatásokról és nappali ellátást nyújtó intézmények adatairól | AGY | Évenkénti | szociális alapszolgáltatást és nappali ellátást nyújtó települési önkormányzatok és intézményt fenntartó gazdasági szervezetek | a tárgyévet követő január 31. |  |
 
-| * 1208 | Jelentés a gyermekotthonok, a nevelőszülői hálózatok és a külső férőhelyek helyzetéről | AGY | Évenkénti | gyermekotthonok székhelyei, nevelőszülői hálózatok, TEGYESZ-ek | a tárgyévet követő január 31. |  |  |
+| * 1208 | Jelentés a gyermekotthonok, a nevelőszülői hálózatok és a külső férőhelyek helyzetéről | AGY | Évenkénti | gyermekotthonok székhelyei, nevelőszülői hálózatok, TEGYESZ-ek | a tárgyévet követő január 31. |  |
 
-| * 1209 | Jelentés a területi gyermekvédelmi szakszolgálatok helyzetéről | AGY | Évenkénti | a Területi Gyermekvédelmi Szakszolgálatok | a tárgyévet követő január 31. |  |  |
+| * 1209 | Jelentés a területi gyermekvédelmi szakszolgálatok helyzetéről | AGY | Évenkénti | a Területi Gyermekvédelmi Szakszolgálatok | a tárgyévet követő január 31. |  |
 
-| * 1210 | Jelentés a gyámhatóság tevékenységéről | AGY | Évenkénti | a települési önkormányzatok jegyzői, a járási (fővárosi-kerületi) gyámhivatalok és a megyei kormányhivatalok szociális és gyámhivatalai | a tárgyévet követő február 15. |  |  |
+| * 1210 | Jelentés a gyámhatóság tevékenységéről | AGY | Évenkénti | a települési önkormányzatok jegyzői, a járási (fővárosi-kerületi) gyámhivatalok és a megyei kormányhivatalok szociális és gyámhivatalai | a tárgyévet követő február 15. |  |
 
-| 1215 | Kérdőív a város, község területváltozásának főbb adatairól | AGY | Eseményhez kötődő | a változásban érintett települési önkormányzat jegyzője, körjegyzője | külön értesítés szerint |  |  |
+| 1215 | Kérdőív a város, község területváltozásának főbb adatairól | AGY | Eseményhez kötődő | a változásban érintett települési önkormányzat jegyzője, körjegyzője | külön értesítés szerint |  |
 
-| 1216 | Kimutatás a városok, községek területnagyságáról | AÁ | Évenkénti | Vidékfejlesztési Minisztérium, Földmérési és Távérzékelési Intézet | a tárgyévet követő február 7. |  |  |
+| 1216 | Kimutatás a városok, községek területnagyságáról | AÁ | Évenkénti | Vidékfejlesztési Minisztérium, Földmérési és Távérzékelési Intézet | a tárgyévet követő február 7. |  |
 
 | 1470 | Nemzetközi üzleti és szállítási szolgáltatások | AGY | Negyed- évenkénti | a megfigyelésbe bevont gazdasági, költségvetési, valamint nonprofit szervezetek (beleértve a képviseleteket is) | a tárgynegyedévet követő hó 15. | 184/2005/EK Rendelet 555/2012/EU Rendelet 707/2009/EK Rendelet |
 
@@ -150,7 +150,7 @@
 
 | 1654 | A közúti teherszállítás belföldi és nemzetközi teljesítményei | AGY | Negyed- évenkénti | véletlenszerű mintavétel alapján kiválasztott, a megfigyelésbe bevont 3,5 tonna vagy nagyobb teherbírású tehergépkocsit, vontatót üzemeltetők | folyamatos | 2163/2001/EK Rendelet 6/2003/EK Rendelet 70/2012/EU Rendelet |
 
-| * 1658 | Statisztikai jelentés a vállalkozási tevékenységet nem folytató egyházak, valamint az általuk alapított intézmények részére | AGY | Évenkénti | történelmi egyházak és egyéb kijelölt egyházak | a tárgyévet követő június 30. |  |
+| * 1658 | Statisztikai jelentés a vállalkozási tevékenységet nem folytató bevett egyházak részére | AGY | Évenkénti | bevett egyházak | a tárgyévet követő június 30. |  |
 
 | * 1659 | Alapinformációk a települési önkormányzatok illetékességi területén működő, infrastrukturális szolgáltatást nyújtó gazdasági szervezetekről | AGY | Évenkénti | települési önkormányzatok | június 30. |  |
 
@@ -414,7 +414,7 @@
 
 ## Adatkörök
 
-## 3K04056N_1
+## 3K65002M_1
 
 | nyilván- tartási száma |  | Adatgyűjtés | - Adatátvétel |
 
@@ -560,7 +560,7 @@
 
 | 1654 | A közúti teherszállítás belföldi és nemzetközi teljesítményei | A Magyarországon üzemben lévő 3,5 tonna és azt meghaladó teherkategóriájú tehergépjárművek és a vontatók közúti teherszállításának belföldi és nemzetközi teljesítményei |
 
-| 1658 | Statisztikai jelentés a vállalkozási tevékenységet nem folytató egyházak, valamint az általuk alapított intézmények részére | (1) Az adatszolgáltatóhoz tartozó egyházi intézmények száma főtevékenység szerint (2) Pénzügyi adatok a) bevétel főtevékenység szerint b) kiadás főtevékenység szerint c) beruházás főtevékenység szerint (3) Munkaügyi adatok a) főállásban foglalkoztatottak száma b) keresete c) részmunkaidősök száma d) keresete e) megbízási jogviszonyban foglalkoztatottak száma f) keresete |
+| 1658 | Statisztikai jelentés a vállalkozási tevékenységet nem folytató bevett egyházak részére | (1) Az adatszolgáltatóhoz tartozó egyházi jogi személyek száma főtevékenység szerint (2) Pénzügyi adatok a) bevétel főtevékenység szerint b) kiadás főtevékenység szerint c) beruházás főtevékenység szerint (3) Munkaügyi adatok a) főállásban foglalkoztatottak száma b) keresete c) részmunkaidősök száma d) keresete e) megbízási jogviszonyban foglalkoztatottak száma f) keresete |
 
 | 1659 | Alapinformációk a települési önkormányzatok illetékességi területén működő, infrastrukturális szolgáltatást nyújtó gazdasági szervezetekről | A települési önkormányzat illetékességi területén (1) köztisztasági és településtisztasági tevékenységet végző szervezetek azonosító adatai, (2) ivóvízellátást, szennyvízelvezetést és szennyvíztisztítást végző szervezetek azonosító adatai, (3) egyedi szennyvíz-elhelyezési kislétesítményekre és egyedi szennyvíztisztító kisberendezésekre vonatkozó éves alapinformációk, (4) fürdőszolgáltatást nyújtó szervezetek azonosító adatai, (5) kábeltelevíziós szolgáltatást nyújtó szervezetek adatai (6) fekvő földterületek alapadatai |
 

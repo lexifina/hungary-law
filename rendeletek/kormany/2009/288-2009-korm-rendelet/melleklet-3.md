@@ -58,4 +58,4 @@
 
 3. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^15]
 
-[^15]: A 3. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 3. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított, a 297/2013. (VII. 29.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
