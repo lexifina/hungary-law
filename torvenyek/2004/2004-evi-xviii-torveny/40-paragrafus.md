@@ -8,13 +8,7 @@
 
 (3)
 
-(4) A mezőgazdasági és vidékfejlesztési támogatási szerv:
-
-a) vezeti az újratelepítési jogok nyilvántartását,
-
-b) engedélyezi az árutermő, törzs- és kísérleti borszőlő telepítését és kivágását,
-
-c) elrendeli az engedély nélkül vagy a telepítési engedélyben foglaltaktól eltérően telepített borszőlő kivágását.
+(4)
 
 (5)
 
