@@ -12,10 +12,10 @@ a) a megyei körzetek kialakítását és a kapcsolattartó állatorvos kijelöl
 
 b) a nem megyei körzetbe sorolt tenyészetekben az ENAR feladatait ellátó felelősök jóváhagyását, a koordinátorok kijelölését, megbízását és ellenőrzését;
 
-c)[^7] a koordinátorok, a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetői, valamint a hatósági és jogosult állatorvosok bejelentését az Országos Adatbázisba;
+c)[^11] a koordinátorok, a járási állategészségügyi és élelmiszer-ellenőrző hivatal vezetői, valamint a hatósági és jogosult állatorvosok bejelentését az Országos Adatbázisba;
 
 d) a szarvasmarha- és a sertéstartó tenyészetek besorolását az Országos Adatbázisba történő bejelentéssel, illetve az ott szereplő adatok módosításával egyidejűleg;
 
 e) az önálló tenyészetek, valamint a nem árutermelő/kereskedő vagy karantén típusú tenyészetek bejelentésének ellenjegyzését az ENAR-koordinátorok útján.
 
-[^7]: A 9. § (2) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 25. §-a szerint módosított szöveg.
+[^11]: A 9. § (2) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 25. §-a szerint módosított szöveg.

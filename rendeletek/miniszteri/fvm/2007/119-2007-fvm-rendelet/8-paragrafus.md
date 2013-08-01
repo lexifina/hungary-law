@@ -2,10 +2,10 @@
 
 ## A hatóságok feladatai
 
-8. § (1)[^6] Az Országos Adatbázis létrehozásával, fenntartásával és fejlesztésével kapcsolatos feladatokat a Mezőgazdasági Szakigazgatási Hivatal Központja látja el.
+8. § (1)[^10] Az Országos Adatbázis létrehozásával, fenntartásával és fejlesztésével kapcsolatos feladatokat a Nemzeti Élelmiszerlánc-biztonsági Hivatal látja el.
 
 (2) A TIR működtetésével kapcsolatos feladatokat a tenyésztési hatóság és a megyei állategészségügyi hatóságok közösen látják el.
 
 (3) Az állattartó feladatai végrehajtásának hatósági ellenőrzését a tenyésztési hatóság és az illetékes megyei állategészségügyi hatóság látja el.
 
-[^6]: A 8. § (1) bekezdése a 143/2007. (XII. 4.) FVM rendelet 56. § (4) bekezdésével megállapított szöveg.
+[^10]: A 8. § (1) bekezdése a 143/2007. (XII. 4.) FVM rendelet 56. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 79. § a) pontja szerint módosított szöveg.

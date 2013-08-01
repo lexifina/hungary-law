@@ -28,11 +28,11 @@ eb) az állattartó külön jogszabály szerinti kistermelői élelmiszer-termel
 
 f) mindazon haltartó árutermelő/kereskedő tenyészeteket, amelyek legalább harminc hektár halastóval rendelkeznek;
 
-g)[^4] minden méhészetet, a méhek állandó tartási helyével;
+g)[^8] minden méhészetet, a méhek állandó tartási helyével;
 
 h) a rendelet hatálya alá eső bármelyik állatfajt fogadó vágóhidakat és gyűjtőállomásokat, a halfeldolgozókat, a halkeltetőket és azokat a baromfikeltetőket, amelyeknél a keltetőgépekbe egyszerre összesen ezer tyúktojás egyenértéknél több rakható be;
 
-i)[^5] azokat a vadászható vadfaj tartási helyeket, ahol nem kizárólag bemutatás, vagy közvetlenül vadászati hasznosítás céljából fogságban tartott vadászható vadfajokat tartanak.
+i)[^9] azokat a vadászható vadfaj tartási helyeket, ahol nem kizárólag bemutatás, vagy közvetlenül vadászati hasznosítás céljából fogságban tartott vadászható vadfajokat tartanak.
 
 (2) Az állattartó az Útmutatóban meghatározott formanyomtatványon, írásban benyújtott kérelemben jelenti be az Országos Adatbázishoz új tenyészetét és tartási helyeit, valamint a tenyészet vagy a tartási hely bármely adatában bekövetkezett változást. A bejelentésnek tartalmaznia kell:
 
@@ -100,5 +100,5 @@ e) méh tartása esetén a méhcsaládok számát.
 
 (8) Ha az állattartó természetes személy, akkor halála esetén, ha jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, akkor felszámolása vagy megszűnése esetén az új állattartó kötelessége a változások bejelentése.
 
-[^4]: A 4. § (1) bekezdés g) pontja a 95/2008. (VII. 25.) FVM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^5]: A 4. § (1) bekezdés i) pontját a 4/2009. (I. 16.) FVM rendelet 31. §-a iktatta be.
+[^8]: A 4. § (1) bekezdés g) pontja a 95/2008. (VII. 25.) FVM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdés i) pontját a 4/2009. (I. 16.) FVM rendelet 31. §-a iktatta be.

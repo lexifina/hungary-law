@@ -30,7 +30,7 @@ k)[^3]
 
 2. árutermelő/kereskedő tenyészet típus: állatot tenyésztési, végtermék-előállítási, kereskedői vagy nem gazdasági céllal tartó tenyészet;
 
-3. állategészségügyi hatóság: a Mezőgazdasági Szakigazgatási Hivatal Központja;
+3.[^4] állategészségügyi hatóság: a Nemzeti Élelmiszerlánc-biztonsági Hivatal;
 
 4. állattartó/üzemeltető (a továbbiakban együtt: állattartó): az a természetes személy vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely a tartott állatokért, illetve egy adott létesítmény üzemeltetéséért akár állandó, akár ideiglenes jelleggel felelős;
 
@@ -44,7 +44,7 @@ k)[^3]
 
 9. kapcsolattartó személy: a szarvasmarha, a sertés, a juh és kecske fajok egyikét sem tartó tenyészetekben az állattartó által kijelölt személy, aki a kapcsolatot tarja a TIR üzemeltetőivel. Baromfi- vagy halkeltetőkben a keltetésvezető;
 
-10. megyei állategészségügyi hatóság: a Mezőgazdasági Szakigazgatási Hivatal területi szerve;
+10.[^5] megyei állategészségügyi hatóság: a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága;
 
 11. megyei körzet: egy kapcsolattartó állatorvoshoz rendelt szarvasmarha- és/vagy sertéstartó tenyészetek összessége;
 
@@ -60,12 +60,16 @@ k)[^3]
 
 17. tenyészet: egy állattartó a hozzá tartozó tartási hellyel együtt;
 
-18. tenyésztési hatóság: a Mezőgazdasági Szakigazgatási Hivatal Központja;
+18.[^6] tenyésztési hatóság: a Nemzeti Élelmiszerlánc-biztonsági Hivatal;
 
 19. tyúktojás egyenérték: különböző fajhoz tartozó baromfi félék tojásainak tyúktojáshoz rendelt viszonyító száma, amely a keltető üzemek kapacitásának egységes meghatározását szolgálja. Ennek megfelelően egy darab gyöngytyúktojás egy tyúktojás egyenértéknek, egy darab lúdtojás három tyúktojás egyenértéknek, egy kacsa, illetve pulykatojás két tyúktojás egyenértéknek, egy darab strucctojás huszonhárom tyúktojás egyenértéknek, valamint egy darab emutojás tíz tyúktojás egyenértéknek felel meg;
 
-20. Útmutató: a tenyésztési hatóság által készített és a Mezőgazdasági Szakigazgatási Hivatal honlapján közzétett TIR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató.
+20.[^7] Útmutató: a tenyésztési hatóság által készített és a Nemzeti Élelmiszerlánc-biztonsági Hivatal honlapján közzétett TIR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató.
 
 [^1]: A 2. § 1. pont c) alpontja a 4/2009. (I. 16.) FVM rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 1. pont j) alpontja a 4/2009. (I. 16.) FVM rendelet 30. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § 1. pont k) alpontját a 4/2009. (I. 16.) FVM rendelet 32. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § 3. pontja a 70/2013. (VII. 31.) VM rendelet 79. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 10. pontja a 70/2013. (VII. 31.) VM rendelet 79. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § 18. pontja a 70/2013. (VII. 31.) VM rendelet 79. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 20. pontja a 70/2013. (VII. 31.) VM rendelet 79. § c) pontja szerint módosított szöveg.
