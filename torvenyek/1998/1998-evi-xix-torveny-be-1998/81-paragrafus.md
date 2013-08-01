@@ -2,7 +2,7 @@
 
 81. § (1) Nem hallgatható ki tanúként
 
-a) a lelkész, illetőleg az egyházi személy arról, amire a hivatásánál fogva titoktartási kötelezettsége áll fenn,
+a) az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja arról, amire a hivatásánál fogva titoktartási kötelezettsége áll fenn,
 
 b) a védő arról, amiről mint védő szerzett tudomást, vagy amit a terhelttel védői minőségében közölt,
 
