@@ -16,9 +16,9 @@ b) az 1. melléklet 2. pontja szerinti esetben a (2) vagy a (3) bekezdésben fog
 
 (6) Amennyiben az (1)–(3) bekezdésben foglaltak végrehajtását követően a munkavállaló személyi alapbére, teljesítménybér-tényezői vagy rendszeres bérpótlékainak mértéke a 2. § (6)–(7) bekezdésben foglalt esetek kivételével – ide nem értve az e bérelemek közötti átcsoportosítást – a munkavállaló számára hátrányosan megváltozik, akkor a változás időpontjától az elvárt béremelés nem teljesültnek minősül.
 
-(7)[^4] Az (1)–(6) bekezdéstől eltérően a kölcsönzött munkavállaló tekintetében az elvárt béremelés akkor is teljesítettnek tekintendő, ha a kölcsönbeadó a kölcsönzött munkavállaló munkabérét olyan összegben állapítja meg, amely a kölcsönvevőnél a vele azonos vagy hasonló munkakörben munkaviszonyban foglalkoztatottakat az elvárt béremelés végrehajtását követően – a kölcsönvevő nyilatkozata alapján – megilleti.
+(7)[^6] Az (1)–(6) bekezdéstől eltérően a kölcsönzött munkavállaló tekintetében az elvárt béremelés akkor is teljesítettnek tekintendő, ha a kölcsönbeadó a kölcsönzött munkavállaló munkabérét olyan összegben állapítja meg, amely a kölcsönvevőnél a vele azonos vagy hasonló munkakörben munkaviszonyban foglalkoztatottakat az elvárt béremelés végrehajtását követően – a kölcsönvevő nyilatkozata alapján – megilleti.
 
-(8)[^5] Az (1)–(3) bekezdés 2012. július 1-jétől történő alkalmazása során személyi alapbér emelésen alapbéremelést, a (6) bekezdés 2012. július 1-jétől történő alkalmazása során a személyi alapbéren alapbért kell érteni.
+(8)[^7] Az (1)–(3) bekezdés 2012. július 1-jétől történő alkalmazása során személyi alapbér emelésen alapbéremelést, a (6) bekezdés 2012. július 1-jétől történő alkalmazása során a személyi alapbéren alapbért kell érteni.
 
-[^4]: A 3. § (7) bekezdése a 69/2012. (IV. 6.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^5]: A 3. § (8) bekezdését a 135/2012. (VI. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^6]: A 3. § (7) bekezdése a 69/2012. (IV. 6.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^7]: A 3. § (8) bekezdését a 135/2012. (VI. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be.
