@@ -2,4 +2,4 @@
 
 (2) A szolgálati bíróság által megállapított ügyrendet az OBT hagyja jóvá.
 
-(3) A szolgálati bíróság ügyrendjét az OBT közzéteszi a bíróságok központi internetes honlapján.
+(3) A szolgálati bíróság ügyrendjét az OBT közzéteszi a központi honlapon.

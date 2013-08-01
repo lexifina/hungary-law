@@ -4,7 +4,7 @@
 
 (2) A bíróság elnöke a pályázókat a pályázat eredményéről írásban tájékoztatja, egyidejűleg közli a pályázó rangsorban elfoglalt helyét és pontszámát.
 
-(3) Az OBH elnöke a bíró áthelyezésére vonatkozó határozatát a bíróságok hivatalos honlapján és a központi honlapon, továbbá a bíróságok hivatalos lapjában közzéteszi.
+(3) Az OBH elnöke a bíró áthelyezésére vonatkozó határozatát a központi honlapon, továbbá a bíróságok hivatalos lapjában közzéteszi.
 
 (4) Eredményes pályázat esetén a nyertes pályázó kinevezéséről szóló határozatnak a Magyar Közlönyben történő közzétételétől, vagy a nyertes pályázó áthelyezéséről szóló határozatnak a (3) bekezdés szerinti közzétételétől számított 15 napos jogvesztő határidőn belül a pályázaton részt vett és a 13. § szerint el nem utasított pályázó a pályázat eredményével szemben kifogással élhet, ha a nyertes pályázó esetében a bíróvá történő kinevezés e törvényben meghatározott feltételei nem állnak fenn, illetve ha a nyertes pályázó a pályázati kiírásban szereplő feltételeknek nem felel meg.
 
