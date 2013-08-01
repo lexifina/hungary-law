@@ -38,6 +38,8 @@ i) raktári ügyrend elkészítéséről.
 
 (9)[^47] A nagykereskedő tevékenysége során köteles figyelembe venni az Európai Bizottság helyes forgalmazási gyakorlatról szóló iránymutatásában foglaltakat, valamint a felelősségi köröket, a folyamatokat és a kockázatkezelési intézkedéseket meghatározó minőségbiztosítási rendszerrel kell rendelkeznie.
 
+(10)[^48] A 2. számú melléklet 10. pont 10.1. alpontja szerinti nyilvántartásban külön fel kell tüntetni, ha a gyógyszer beszerzése a GyT. 16. § (5) bekezdése alapján történt.
+
 [^41]: A 9. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 11. §-ával megállapított szöveg.
 [^42]: A 9. § (1) bekezdés e) pontja az 53/2012. (XII. 28.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^43]: A 9. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
@@ -45,3 +47,4 @@ i) raktári ügyrend elkészítéséről.
 [^45]: A 9. § (7) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be.
 [^46]: A 9. § (8) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be.
 [^47]: A 9. § (9) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be.
+[^48]: A 9. § (10) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 46. §-a iktatta be.
