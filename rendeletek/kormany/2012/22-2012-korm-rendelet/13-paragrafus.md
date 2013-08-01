@@ -10,6 +10,9 @@
 
 (5)[^18] Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2012. évi XVIII. törvény 46. § (4) bekezdésében foglaltak tekintetében a Kormány borászati hatóságként a NÉBIH-et jelöli ki.
 
+(6)[^19] A bortörvény 43/C. § (1) és (2) bekezdésében foglaltak tekintetében a Kormány növénytermesztési hatóságként a NÉBIH-et jelöli ki.
+
 [^16]: A 13. § (1) bekezdése a 68/2013. (III. 8.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^17]: A 13. § (3) bekezdése a 68/2013. (III. 8.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^18]: A 13. § (5) bekezdését a 68/2013. (III. 8.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^19]: A 13. § (6) bekezdését a 68/2013. (III. 8.) Korm. rendelet 5. § (4) bekezdése iktatta be.

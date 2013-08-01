@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-2
 | 2013-06-04 | 2012-22-20-22.10 | 176/2013. (VI. 3.) Korm. rendelet |
 | 2013-06-28 | 2012-22-20-22.11 | 229/2013. (VI. 27.) Korm. rendelet |
 | 2013-07-01 | 2012-22-20-22.12 | 203/2013. (VI. 14.) Korm. rendelet |
+| 2013-08-01 | 2012-22-20-22.13 | 68/2013. (III. 8.) Korm. rendelet |

@@ -6,13 +6,13 @@
 
 (3) A Kormány a nem emberi fogyasztásra szánt állati eredetű melléktermékekre és származtatott termékekre vonatkozó egészségügyi szabályok megállapításáról, valamint az 1774/2002/EK rendelet hatályon kívül helyezéséről szóló 1069/2009/EK európai parlamenti és tanácsi rendelet 24. cikk (1) bekezdésének a) és e)–j) pontjaiban meghatározott tevékenység(ek)et végző üzem működésének engedélyezésére irányuló másodfokú eljárásban,
 
-a)[^28] – az egészségkárosító kockázatok és esetleges hatások felmérésére, a higiénés és egészségvédelmi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésének kérdésében a megyei kormányhivatal népegészségügyi szakigazgatási szervét, valamint
+a)[^29] – az egészségkárosító kockázatok és esetleges hatások felmérésére, a higiénés és egészségvédelmi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésének kérdésében a megyei kormányhivatal népegészségügyi szakigazgatási szervét, valamint
 
 b) ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges – a hulladékkezelésre vonatkozó jogszabályi követelmények teljesülésének vizsgálata, valamint a hulladékgazdálkodási előírások alapján a technológiából származó környezetterhelések kockázatának megítélése kérdésében, illetve barlang védőövezetén belüli engedélyezés esetén, annak elbírálása kérdésében, hogy a védőövezetben tervezett tevékenység a barlang védelmére vonatkozó jogszabályi követelményeknek a kérelem szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget
 
 szakhatóságként jelöli ki.
 
-(4)[^29] A Kormány a kegyeleti állattemető működésének engedélyezésére irányuló másodfokú eljárásban – az egészségkárosító kockázatok és esetleges hatások felmérésére, az egészségvédelmi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésének kérdésében – a megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki.
+(4)[^30] A Kormány a kegyeleti állattemető működésének engedélyezésére irányuló másodfokú eljárásban – az egészségkárosító kockázatok és esetleges hatások felmérésére, az egészségvédelmi, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra vonatkozó jogszabályi előírások érvényesítésének kérdésében – a megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki.
 
-[^28]: A 25. § (3) bekezdés a) pontja a 441/2012. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^29]: A 25. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^29]: A 25. § (3) bekezdés a) pontja a 441/2012. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^30]: A 25. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
