@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-118-20-
 | 2012-01-01 | 2001-118-20-22.8 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2012-07-01 | 2001-118-20-22.9 | 135/2012. (VI. 28.) Korm. rendelet |
 | 2013-02-01 | 2001-118-20-22.10 | 355/2012. (XII. 13.) Korm. rendelet |
+| 2013-08-01 | 2001-118-20-22.11 | 297/2013. (VII. 29.) Korm. rendelet |

@@ -1,4 +1,4 @@
-3. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^53]
+3. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^54]
 
 KÉRELEM
 
@@ -42,4 +42,4 @@ a munkaerő-kölcsönző nyilvántartásba vételéhez
 
 | ...................................................................... a kérelmező cégszerű aláírása |
 
-[^53]: A 3. számú melléklet a 171/2011. (VIII. 24.) Korm. rendelet 5. §-ával megállapított, a 355/2012. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^54]: A 3. számú melléklet a 171/2011. (VIII. 24.) Korm. rendelet 5. §-ával megállapított, a 355/2012. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
