@@ -1,6 +1,6 @@
-29. § (1) Más megyébe történő kiszállítás előtt az engedélyező köteles előzetesen megszerezni a rendeltetési hely szerint illetékes állomás hozzájárulását.
+29. § (1)[^53] Más megyébe történő kiszállítás előtt az engedélyező köteles előzetesen megszerezni a rendeltetési hely szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hozzájárulását.
 
-(2)[^22] Az engedély kiadásáról – a ki- vagy bevitelnek megfelelően – értesíteni kell a származási vagy rendeltetési hely szerint illetékes járási főállatorvost, illetőleg az állomást.
+(2)[^54] Az engedély kiadásáról – a ki- vagy bevitelnek megfelelően – értesíteni kell a származási vagy rendeltetési hely szerint illetékes járási főállatorvost, illetőleg az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot.
 
 (3) Az engedélynek tartalmaznia kell a (6) bekezdésben megjelölt adatokon túl a ki- vagy bevitel feltételeit és az engedély érvényességének időtartamát.
 
@@ -8,4 +8,5 @@
 
 (5) Az engedélyes köteles a kivitel vagy bevitel időpontját az elszállítás előtt, illetőleg a megérkezés után azonnal bejelenteni a hatósági állatorvosnak és a szállítási engedélyt átadni.
 
-[^22]: A 29. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 17. § b) pontja szerint módosított szöveg.
+[^53]: A 29. § (1) bekezedése a 70/2013. (VII. 31.) VM rendelet 24. § d) pontja szerint módosított szöveg.
+[^54]: A 29. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 17. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 24. § i) pontja szerint módosított szöveg.
