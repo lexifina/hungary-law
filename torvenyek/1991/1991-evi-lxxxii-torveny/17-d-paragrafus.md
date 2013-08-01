@@ -4,7 +4,7 @@
 
 a) amelyet a megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló jogszabály előírásainak megfelelően megkülönböztető jelzést adó készülékkel szereltek fel,
 
-b) amelyet egyház, egyházi karitatív szervezet kizárólag alapfeladata(i) ellátásához üzemeltet,
+b) amelyet az egyházi jogi személy elsődlegesen vallási vagy azzal közvetlenül összefüggő más tevékenysége ellátásához üzemeltet,
 
 c) amelyet a személygépkocsi-kereskedelemmel üzletszerűen foglalkozó személy vagy szervezet kizárólag továbbértékesítési céllal szerzett be,
 

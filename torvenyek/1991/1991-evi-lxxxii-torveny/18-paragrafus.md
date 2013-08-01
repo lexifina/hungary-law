@@ -50,7 +50,7 @@
 
 22. katasztrófa: elemi csapás, ipari szerencsétlenség vagy háborús esemény, amelynek során és következtében jelentős számú emberi élet kerül közvetlen veszélybe,
 
-23. segélyszállítmány: az a szállítmány, amely a 13. § (5) bekezdésében meghatározott célra szolgál, és ezt a körülményt az alábbi szervek valamelyike igazolja: Magyar Vöröskereszt, a katasztrófák elleni védekezésért felelős miniszter, Magyar Máltai Szeretetszolgálat, illetve ezek külföldi megfelelője, a szállítmányt küldő vagy fogadó államában működő magyar külképviselet, a segélyszállítmányt küldő vagy azt szervező egyház regionális elöljárója vagy annak hivatala, a segélyszállítmányt küldő természetes vagy jogi személy lakóhelye, illetve székhelye szerint illetékes külföldi önkormányzat,
+23. segélyszállítmány: az a szállítmány, amely a 13. § (5) bekezdésében meghatározott célra szolgál, és ezt a körülményt az alábbi szervek valamelyike igazolja: Magyar Vöröskereszt, a katasztrófák elleni védekezésért felelős miniszter, Magyar Máltai Szeretetszolgálat, illetve ezek külföldi megfelelője, a szállítmányt küldő vagy fogadó államában működő magyar külképviselet, a segélyszállítmányt küldő vagy azt szervező egyházi jogi személy képviselője, a segélyszállítmányt küldő természetes vagy jogi személy lakóhelye, illetve székhelye szerint illetékes külföldi önkormányzat,
 
 24. munkagép: minden szállító vagy vontató eszköznek – függetlenül a rendszámtábla jellegétől – nem minősülő jármű; amely önerejéből 15 km/óra sebességnél gyorsabban haladni nem képes,
 

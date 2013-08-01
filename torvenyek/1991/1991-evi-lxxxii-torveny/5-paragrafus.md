@@ -8,7 +8,7 @@ b) a egyesület, az alapítvány a tulajdonában lévő gépjármű után, felt�
 
 c) az autóbusz, ha az adóalany a tárgyévet megelőző évben elért számviteli törvény szerinti nettó árbevételének legalább 75%-a helyi és helyközi menetrendszerinti közúti tömegközlekedés folytatásából származott. A feltétel teljesüléséről az adóalanynak nyilatkoznia kell,
 
-d) az egyház tulajdonában lévő gépjármű,
+d) az egyházi jogi személy tulajdonában lévő gépjármű,
 
 e) a létesítményi tűzoltóságot fenntartó gazdasági szervezetek azon tűzoltó szerkocsinak minősülő gépjárművei, melyek riasztás esetén részt vesznek a tűz elleni védekezésben, illetve a műszaki mentésben,
 
