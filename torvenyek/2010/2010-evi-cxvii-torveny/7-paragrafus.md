@@ -1,18 +1,14 @@
 7. § (1) A vámhatóság bírságot szab ki arra az üzemanyag-forgalmazóra, amely
 
-a) a tárgyhónapban a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot hozott forgalomba, vagy
+a) a tárgyévben a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot hozott forgalomba, vagy
 
-b) az előírt határidőre nem nyújtotta be, vagy nem a meghatározott tartalommal nyújtotta be a 6. § (2)–(3) bekezdése szerinti jelentést.
+b) az előírt határidőre nem nyújtotta be, vagy nem a meghatározott tartalommal nyújtotta be a 6. §
 
-(2) Az (1) bekezdés a) pontja szerinti esetben kiszabandó bírság alapja az üzemanyag-forgalmazó tárgyhavi motorbenzin- és dízelgázolaj-forgalma alapján a kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának és az üzemanyag-forgalmazó által a tárgyhónapban ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának MJ-ban kifejezett különbsége. A fizetendő bírság összege a bírság alapjának és 35 Ft/MJ fajlagos bírságtételnek a szorzata.
+(2)–(3) bekezdése szerinti jelentést.
 
-(3) Amennyiben az üzemanyag-forgalmazó azért hozott a tárgyhónapban a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot forgalomba, mert
+(2) Az (1) bekezdés a) pontja szerinti esetben kiszabandó bírság alapja az üzemanyag-forgalmazó tárgyévi motorbenzin- és dízelgázolaj-forgalma alapján a kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának és az üzemanyag-forgalmazó által a tárgyévben ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának MJ-ban kifejezett különbsége. A fizetendő bírság összege a bírság alapjának és 35 Ft/MJ fajlagos bírságtételnek a szorzata.
 
-a) az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozóan számára valótlan igazolást állított ki az, akitől a bioüzemanyagot beszerezte, vagy
-
-b)
-
-a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti esetben a valótlan tartalmú igazolás miatt az igazolást kiállítóra kiszabható, a Kormány rendeletében meghatározott bírság alapjával vagy a b) pont szerinti esetben kiszabható bírságalap azon részével, mely az igazolás hiánya miatt keletkezett.
+(3) Ha az üzemanyag-forgalmazó azért hozott a tárgyévben a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot forgalomba, mert az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozóan számára valótlan igazolást állított ki az, akitől a bioüzemanyagot beszerezte, a (2) bekezdés szerinti bírságalapot csökkenteni kell a valótlan tartalmú igazolás miatt az igazolást kiállítóra kiszabható, a Kormány rendeletében meghatározott bírság alapjával.
 
 (4) Az (1) bekezdés b) pontja szerinti esetben az üzemanyag-forgalmazó egyszázezer Ft-tól egymillió Ft-ig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott bioüzemanyag azon mennyiségét, melyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését.
 
