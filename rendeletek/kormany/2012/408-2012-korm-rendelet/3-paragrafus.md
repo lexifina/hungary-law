@@ -6,7 +6,7 @@ b) a Kttv. 131. § (2) bekezdése szerinti – a 133. § (3) bekezdése szerinti
 
 c) a Hszt. 112. §-a szerinti távolléti díj alapját képező illetményt,
 
-d)[^5] a Hjt. 2. § 41. pontja szerinti távolléti díj alapját képező illetményt,
+d)[^6] a Hjt. 2. § 41. pontja szerinti távolléti díj alapját képező illetményt,
 
 e) az Iasz. 96. § (1) bekezdése szerinti – a 102. § (2) bekezdése szerinti illetményeltérítés figyelembevételével számított – illetményt,
 
@@ -30,4 +30,4 @@ illetményének a foglalkoztatott besorolása alapján rá irányadó, az Eütev
 
 (3) A kompenzáció a személyi jövedelemadó-előleg megállapításánál nem rendszeres jövedelemnek minősül, és a költségvetési rend szerint egyéb munkavégzéshez kapcsolódó juttatásként kell elszámolni. A kifizetés a statisztikai elszámolásokban a szociális költségek között kerül figyelembe vételre.
 
-[^5]: A 3. § (1) bekezdés d) pontja a 187/2013. (VI. 7.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés d) pontja a 187/2013. (VI. 7.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

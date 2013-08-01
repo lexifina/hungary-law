@@ -2,7 +2,7 @@
 
 ## Adatszolgáltatás
 
-## a költségvetési szerveknél és az egyházak közcélú tevékenységet folytató intézményeinél foglalkoztatottak 2012. évi kompenzációja
+## a költségvetési szerveknél és az egyházi foglalkoztató által foglalkoztatottak 2012. évi kompenzációja
 
 ## ………………. hónap után járó részletének elszámolásához
 
@@ -40,4 +40,6 @@
 
 | 3 | A helyi önkormányzat a 6. § (4) bekezdés szerint soron kívül továbbítja január hónapban a 6. oszlop szerinti, a további hónapokban az 5. oszlop szerinti összeget. |
 
-8. melléklet a 408/2012. (XII. 28.) Korm. rendelethez
+8. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^16]
+
+[^16]: A 8. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § d) pontja szerint módosított szöveg.

@@ -26,4 +26,6 @@
 
 ## igazgató
 
-7. melléklet a 408/2012. (XII. 28.) Korm. rendelethez
+7. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^15]
+
+[^15]: A 7. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.

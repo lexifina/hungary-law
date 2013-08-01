@@ -20,10 +20,11 @@ ah) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi
 
 ## jogviszonyban állókra és
 
-b) az egyházak közcélú – egészségügyi, oktatási, szociális, közművelődési, sport és karitatív – tevékenységet folytató, nem költségvetési szervként működő intézményeire (a továbbiakban: egyházi foglalkoztatóra), és a velük
+b)[^3] a nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet ellátó egyházi jogi személy (a továbbiakban: egyházi foglalkoztató) és a velük
 
 ba) az Mt. szerinti munkaviszonyban állókra, valamint
 
 bb) a Gyvt. 66/G. §-a szerinti hivatásos nevelőszülői jogviszonyban álló hivatásos nevelőszülőkre
 
 [^2]: Az 1. § a) pont ad) alpontja a 187/2013. (VI. 7.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § b) pontja a 297/2013. (VII. 29.) Korm. rendelet 86. §-ával megállapított szöveg.

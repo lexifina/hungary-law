@@ -1,4 +1,4 @@
-| Fenntartó egyház megnevezése: E L S Z Á M O L Ó L A P az egyházi fenntartású közcélú szolgáltatást nyújtó intézeteknél foglalkoztatottak 2013. évi kompenzációjának kifizetéséről (ezer forintban és főben) |
+| Bevett egyház megnevezése: E L S Z Á M O L Ó L A P az egyházi foglalkoztató által foglalkoztatottak 2013. évi kompenzációjának kifizetéséről (ezer forintban és főben) |
 
 | Hónapok | a) egészségügy | b) közoktatás | c) felsőoktatás | d) karitatív | e) szociális | f) közművelődés | g) sport |
 
@@ -32,7 +32,7 @@
 
 | * a várható kifizetések szerinti összeg |
 
-| Egyházi szintű összesítő |
+| Bevett egyházankénti összesítő |
 
 | (ezer forintban és főben) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -66,7 +66,7 @@
 
 | Összesen | 0 | 0 | 0,0 | 0,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-11. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^11]
+11. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^19]
 
 Nyilatkozat és Változás bejelentés a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló
 
@@ -270,4 +270,4 @@ szerepeltetendő a nyilatkozatban. Az elvárt béremelés teljesítése esetén 
 
 „Nem” válasz esetén, tehát amennyiben a foglalkoztatott munkabérének emelésére az elvárt béremelés szerint nem került sor a 2012. év folyamán, akkor a minimálbér, illetve garantált bérminimum elérése érdekében, 2012. január 1-jén végrehajtott kötelező személyi alapbéremelés összegéről – az 1. ponthoz tartozó kitöltési útmutatás értelemszerű alkalmazásával – kell nyilatkozni.
 
-[^11]: A 11. mellékletet a 187/2013. (VI. 7.) Korm. rendelet 8. §-a iktatta be.
+[^19]: A 11. mellékletet a 187/2013. (VI. 7.) Korm. rendelet 8. §-a iktatta be.

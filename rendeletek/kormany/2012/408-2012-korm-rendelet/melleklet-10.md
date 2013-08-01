@@ -1,4 +1,4 @@
-| I G É N Y L Ő L A P FENNTARTÓI ÖSSZESÍTŐ az egyházi fenntartású közcélú szolgáltatást nyújtó intézményeknél foglalkoztatottak 2013. évi kompenzációja után járó támogatás igényléséhez |
+| I G É N Y L Ő L A P FENNTARTÓI ÖSSZESÍTŐ az egyházi foglalkoztató által foglalkoztatottak 2013. évi kompenzációja után járó támogatás igényléséhez |
 
 | FENNTARTÓ |
 
@@ -46,4 +46,6 @@
 
 | fenntartó Az adatlap kitöltéséért felelős neve: telefonszáma: ……………. |
 
-10. melléklet a 408/2012. (XII. 28.) Korm. rendelethez
+10. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^18]
+
+[^18]: A 10. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § e) pontja szerint módosított szöveg.

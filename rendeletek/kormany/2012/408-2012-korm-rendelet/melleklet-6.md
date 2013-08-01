@@ -1,4 +1,4 @@
-## Nyilatkozat és Változás bejelentés a költségvetési szervnél, egyház közcélú tevékenységet folytató intézményénél foglalkoztatott magánszemély adó- és járulékváltozások ellentételezésére szolgáló 2013. évi kompenzációjának igénybevételéhez
+## Nyilatkozat és Változás bejelentés a költségvetési szervnél, egyházi foglalkoztató által foglalkoztatott magánszemély adó- és járulékváltozások ellentételezésére szolgáló 2013. évi kompenzációjának igénybevételéhez
 
 ## Kérjük, a Nyilatkozat kitöltése előtt a Kitöltési útmutatót figyelmesen olvassa el!
 
@@ -82,7 +82,7 @@
 
 ## Átvétel kelte:
 
-## Kitöltési útmutató a költségvetési szervnél, egyház közcélú tevékenységet folytató intézményénél foglalkoztatott magánszemély adó- és járulékváltozások ellentételezésére szolgáló 2013. évi kompenzációjának igénybevételéhez kitöltendő Nyilatkozathoz, Változás bejelentéshez
+## Kitöltési útmutató a költségvetési szervnél, egyházi foglalkoztató által magánszemély adó- és járulékváltozások ellentételezésére szolgáló 2013. évi kompenzációjának igénybevételéhez kitöltendő Nyilatkozathoz, Változás bejelentéshez
 
 ## A Nyilatkozatot két példányban, a kitöltési útmutató alapján kell kitölteni, különös figyelemmel arra, hogy a munkáltató a Nyilatkozatban foglaltakat akkor tudja figyelembe venni és a kompenzációt érvényesíteni, ha a kitöltött Nyilatkozatot Ön, mint Nyilatkozó legkésőbb 2013. március 15-éig a munkáltatója rendelkezésére bocsátja. A kompenzáció 2013. március 15. után visszamenőlegesen nem érvényesíthető. A munkáltató a másolaton igazolja az első példány átvételét, és azt az irattározási szabályainak megfelelően a munkáltató vagy az illetékes illetmény számfejtőhely megőrzi. A másodpéldányt Önnek 5 évig szintén meg kell őriznie.
 
@@ -100,7 +100,7 @@
 
 ## 2.1. költségvetési szervnél jogviszonyban álló olyan foglalkoztatott, aki közalkalmazottként, köztisztviselőként, kormánytisztviselőként, fegyveres szerv hivatalos állományú tagjaként, a Magyar Honvédség hivatásos és szerződéses állományú tagjaként, igazságügyi alkalmazottként, ügyészségi alkalmazottként, közigazgatási szerveknél foglalkoztatott munkavállalóként, hivatásos nevelőszülőként kerül alkalmazásra, vagy
 
-## 2.2. egyház közcélú tevékenységet folytató, nem költségvetési szervként működő intézményénél áll munkaviszonyban, vagy hivatásos nevelőszülői jogviszonyban, és
+## 2.2. egyházi foglalkoztató, nem költségvetési szervként működő intézményénél áll munkaviszonyban, vagy hivatásos nevelőszülői jogviszonyban, és
 
 ## 3. a tárgyhó első napján érvényes bruttó illetménye kevesebb, mint az alább ismertetett értékhatárok közül Önre vonatkozó összeg:
 
@@ -138,9 +138,9 @@
 
 ## Kedvezményezett eltartott meghatározásához: Kedvezményezett eltartott az, akire tekintettel a magánszemély a családok támogatásáról szóló törvény szerint családi pótlékra jogosult, a magzat a várandósság időszakában - fogantatásának 91. napjától megszületéséig -, továbbá az aki a családi pótlékra saját jogán jogosult, valamint a rokkantsági járadékban részesülő magánszemély.
 
-## 2. Jogviszonya keletkezésének időpontja: Jogviszonya keletkezésének időpontjaként azt a dátumot kell tekintenie, amikor az Ön jogviszonya a költségvetési szervnél, az egyház közcélú tevékenységet folytató, nem költségvetési szervként működő intézményénél (a továbbiakban: kompenzációs rendelet hatálya alá tartozó foglalkoztató) létrejött.
+## 2. Jogviszonya keletkezésének időpontja: Jogviszonya keletkezésének időpontjaként azt a dátumot kell tekintenie, amikor az Ön jogviszonya a költségvetési szervnél, az egyházi foglalkoztató, nem költségvetési szervként működő intézményénél (a továbbiakban: kompenzációs rendelet hatálya alá tartozó foglalkoztató) létrejött.
 
-## Amennyiben Ön a kompenzációs rendelet hatálya alá tartozó foglalkoztatónál 2011-ben létesített jogviszonyt, de azt közvetlenül megelőzően is e foglalkoztatók valamelyikénél állt alkalmazásban, úgy ezeket a jogviszonyokat a kompenzáció igénybe vétele szempontjából tekintse folyamatosnak, és a legkorábban keletkezett jogviszony létrejöttének dátumát vegye figyelembe a kitöltéskor. A jogviszony folytonosságát nem szakítja meg álláskeresési támogatás igénybe vételének időszaka, ha Ön azt megelőzően és az követően is kompenzációs rendelet hatálya alá tartozó foglalkoztatónál létesített jogviszonyt. (pl. ha Ön 2010. szeptember 30-áig egy költségvetési szervnél dolgozott, 2010. november 1-jétől 2011. január 31-éig álláskeresési járadékban részesült, majd 2011. február 1-jén valamely egyház közcélú tevékenységet folytató intézményénél létesít munkaviszonyt, úgy Önre a 243.001 Ft-os bruttó illetmény korlát vonatkozik, a jogviszonya keletkezésének időpontja kérdésre pedig a „2010. december 31-én vagy azt megelőzően” választ jelölje meg.)
+## Amennyiben Ön a kompenzációs rendelet hatálya alá tartozó foglalkoztatónál 2011-ben létesített jogviszonyt, de azt közvetlenül megelőzően is e foglalkoztatók valamelyikénél állt alkalmazásban, úgy ezeket a jogviszonyokat a kompenzáció igénybe vétele szempontjából tekintse folyamatosnak, és a legkorábban keletkezett jogviszony létrejöttének dátumát vegye figyelembe a kitöltéskor. A jogviszony folytonosságát nem szakítja meg álláskeresési támogatás igénybe vételének időszaka, ha Ön azt megelőzően és az követően is kompenzációs rendelet hatálya alá tartozó foglalkoztatónál létesített jogviszonyt. (pl. ha Ön 2010. szeptember 30-áig egy költségvetési szervnél dolgozott, 2010. november 1-jétől 2011. január 31-éig álláskeresési járadékban részesült, majd 2011. február 1-jén valamely egyházi foglalkoztatónál létesít munkaviszonyt, úgy Önre a 243.001 Ft-os bruttó illetmény korlát vonatkozik, a jogviszonya keletkezésének időpontja kérdésre pedig a „2010. december 31-én vagy azt megelőzően” választ jelölje meg.)
 
 ## Amennyiben Ön 2012-ben létesített, vagy 2013 év közben létesít jogviszonyt a kompenzációs rendelet hatálya alá tartozó foglalkoztatónál, de azt közvetlenül megelőzően is e foglalkoztatók valamelyikénél állt alkalmazásban, úgy ezeket a jogviszonyokat a kompenzáció igénybe vétele szempontjából szintén tekintse folyamatosnak, és a kompenzációs rendelet hatálya alá tartozó foglalkoztatónál legkorábban keletkezett jogviszony létrejöttének dátumát vegye figyelembe a kitöltéskor. Ez esetben sem jelent megszakítást az álláskeresési járadék igénybevételének időszaka.
 
@@ -164,7 +164,7 @@
 
 ## h) a munka törvénykönyve hatálya alá tartozó munkavállalók személyi alapbérét és rendszeres bérpótlékait,
 
-## i) egyház közcélú tevékenységet folytató, nem költségvetési szervként működő intézményénél vagy annak fenntartójánál foglalkoztatottak esetén a munkavállaló személyi alapbérét és rendszeres bérpótlékait,
+## i) egyházi foglalkoztató, nem költségvetési szervként működő intézményénél vagy annak fenntartójánál foglalkoztatottak esetén a munkavállaló személyi alapbérét és rendszeres bérpótlékait,
 
 ## j) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény. 66/L. §-a szerinti hivatásos nevelőszülői díjat
 
@@ -172,7 +172,7 @@
 
 ## A Nyilatkozat I. Blokkját a Nyilatkozat első benyújtásakor, és a változás bejelentések alkalmával is ki kell töltenie, majd alá kell írnia. Aláírás nélkül a Nyilatkozat érvénytelen. Változás bejelentés esetén a III. Blokkot is írja alá. A IV. Blokkban található záradék aláírásáról se feledkezzen el sem az első Nyilatkozat, sem a változás bejelentésekor!
 
-## FONTOS, hogy ezt a Nyilatkozatot Ön az adó- és járulékváltozásoknak a költségvetési szerveknél, egyházak közcélú tevékenységet folytató intézményeinél foglalkoztatottak körében történő 2013. évi kompenzálásához adta. EZ A NYILATKOZAT NEM HELYETTESÍTI A CSALÁDI KEDVEZMÉNY ÉRVÉNYESÍTÉSÉRE SZOLGÁLÓ ADÓELŐLEG-NYILATKOZATOT!
+## FONTOS, hogy ezt a Nyilatkozatot Ön az adó- és járulékváltozásoknak a költségvetési szerveknél, egyházi foglalkoztatónál foglalkoztatott foglalkoztatottak körében történő 2013. évi kompenzálásához adta. EZ A NYILATKOZAT NEM HELYETTESÍTI A CSALÁDI KEDVEZMÉNY ÉRVÉNYESÍTÉSÉRE SZOLGÁLÓ ADÓELŐLEG-NYILATKOZATOT!
 
 ## A II. Blokk kitöltéséhez:
 

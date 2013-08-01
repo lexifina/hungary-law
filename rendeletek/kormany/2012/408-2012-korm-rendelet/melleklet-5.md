@@ -66,6 +66,6 @@
 
 | 131501-132000 | 3 700 | 148001-148500 | 8 000 | 181501-182000 | 9 000 | 198001-198500 | 4 300 |  |  |
 
-5. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^10]
+5. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^14]
 
-[^10]: Az 5. melléklet a 187/2013. (VI. 7.) Korm. rendelet 7. § (3) és (4) bekezdése szerint módosított szöveg.
+[^14]: Az 5. melléklet a 187/2013. (VI. 7.) Korm. rendelet 7. § (3) és (4) bekezdése, a 297/2013. (VII. 29.) Korm. rendelet 89. § a)–b) pontja szerint módosított szöveg.
