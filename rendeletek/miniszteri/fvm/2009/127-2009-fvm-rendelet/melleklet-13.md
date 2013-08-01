@@ -110,7 +110,7 @@
 
 ## 10. Borász-italtechnológus szakmérnöki
 
-## E.[^154] Egyéb képzések:
+## E.[^155] Egyéb képzések:
 
 ## 1. A Wine and Spirit Education Trust által kiadott „Diploma in Wines and Spirits”
 
@@ -118,7 +118,7 @@
 
 ## 3. Az Institute of Masters of Wine által kiadott „Master of Wine” oklevél
 
-13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^155]
+13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^156]
 
-[^154]: A 12. számú melléklet E. pontját a 128/2012. (XII. 14.) VM rendelet 31. § (8) bekezdése iktatta be.
-[^155]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^155]: A 12. számú melléklet E. pontját a 128/2012. (XII. 14.) VM rendelet 31. § (8) bekezdése iktatta be.
+[^156]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg.

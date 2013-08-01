@@ -54,13 +54,11 @@
 
 | 22. | „reserve” (angol) | bor, pezsgő, minőségi pezsgő (OEM) | – a vörösborokat minimum 18 hónapon keresztül kell érlelni, amiből legalább 12 hónapig maximum 330 l űrmértékű tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. – a fehér- és rozé borokat minimum 6 hónapon keresztül kell érlelni, amiből legalább 3 hónapig tölgyfahordókban, és a fennmaradó időben palackban kell tárolni. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^158]
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^159]
 
 „A” rész
 
 Magyar mustfok átszámítása alkoholtartalomra
-
-0M16292B_0
 
 |  | A | B | C |
 
@@ -424,4 +422,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^158]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^159]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.

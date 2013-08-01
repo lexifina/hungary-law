@@ -64,8 +64,6 @@
 
 | 5. | ÖSSZESEN |  |
 
-## 2K28099_3
-
 | 1: termékkategória-kódok: 1 bor 2 még erjedésben lévő újbor 3 likőrbor 4 pezsgő 5 minőségi pezsgő 6 illatos minőségi pezsgő 7 szén-dioxid hozzáadásával készült habzóbor 8 gyöngyözőbor | 9 szén-dioxid hozzáadásával készült gyöngyözőbor 10 szőlőmust 11 részben erjedt szőlőmust 12 töppedt szőlőből nyert részben erjedt szőlőmust 13 sűrített szőlőmust 14 finomított szőlőmustsűrítmény 15 szárított szőlőből készült bor 16 túlérett szőlőből készült bor 17 borecet |
 
 | 2: a legmagasabb eredetvédelmi kategória megadása OEM: oltalom alatt álló eredetmegjelölés OFJ: oltalom alatt álló földrajzi jelzés FNF: földrajzi jelzés nélkül, fajtanév feltüntetésével E: egyéb |
@@ -178,8 +176,6 @@
 
 | 6. | az édességi kategória megnevezése5 |  |
 
-## 2K28099_11
-
 | 1: termékkategória-kódok: 1 bor 2 még erjedésben lévő újbor 3 likőrbor 4 pezsgő 5 minőségi pezsgő 6 illatos minőségi pezsgő 7 szén-dioxid hozzáadásával készült habzóbor 8 gyöngyözőbor | 9 szén-dioxid hozzáadásával készült gyöngyözőbor 10 szőlőmust 11 részben erjedt szőlőmust 12 töppedt szőlőből nyert részben erjedt szőlőmust 13 sűrített szőlőmust 14 finomított szőlőmustsűrítmény 15 szárított szőlőből készült bor 16 túlérett szőlőből készült bor 17 borecet |
 
 | 2: Szőlő származási bizonyítvány esetén potenciális alkoholtartalom, bor származási bizonyítvány vagy forgalomba hozatali engedély esetén összes alkoholtartalom |
@@ -202,6 +198,6 @@
 
 |  |  |  |  |  | P.H. | Hegybíró aláírása” |
 
-11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^153]
+11. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^154]
 
-[^153]: A 11. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (7) bekezdésével megállapított, a 29/2013. (IV. 30.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^154]: A 11. számú melléklet a 128/2012. (XII. 14) VM rendelet 31. § (7) bekezdésével megállapított, a 29/2013. (IV. 30.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg.

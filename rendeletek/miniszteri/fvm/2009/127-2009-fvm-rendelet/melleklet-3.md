@@ -1,7 +1,5 @@
 ## A. Adatlap
 
-## 2K28084_0
-
 |  | A | B | C |
 
 | 1. | Borvidék |  | Beérkezett |
@@ -242,6 +240,6 @@
 
 ## Hegyközségi tag / Adatszolgáltató aláírása
 
-3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^145]
+3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^146]
 
-[^145]: A 3. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^146]: A 3. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (3) bekezdésével megállapított szöveg.
