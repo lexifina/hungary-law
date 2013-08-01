@@ -32,7 +32,7 @@
 
 ## b) a terület védettségségének bemutatása.
 
-## 2. A világörökségi terület használatában és megőrzésében érintett és érdekelt szereplők (így különösen a világörökségi gondnokság, a helyi és az országos nemzetiségi önkormányzatok, az illetékes önkormányzati és állami főépítészek, a tulajdonosok, a vagyonkezelők, az egyházi jogi személyek, a civil szervezetek, az állami szervek, a kutatóintézetek és egyetemek) felsorolása és bemutatása.
+## 2.[^11] A világörökségi terület használatában és megőrzésében érintett és érdekelt szereplők (így különösen a világörökségi gondnokság, a helyi és az országos nemzetiségi önkormányzatok, az illetékes önkormányzati és állami főépítészek, a tulajdonosok, a vagyonkezelők, a vallási közösségek, a civil szervezetek, az állami szervek, a kutatóintézetek és egyetemek) felsorolása és bemutatása.
 
 ## 3. A világörökségi terület értékeit és annak kezelését érintő hatályos jogszabályok felsorolása.
 
@@ -77,3 +77,5 @@
 ## 5. Statisztikai adatok és térképek, különösen a fennálló védettség ábrázolásával.
 
 2. melléklet a 315/2011. (XII. 27.) Korm. rendelethez
+
+[^11]: Az 1. melléklet III. rész 2. pontja a 297/2013. (VII. 29.) Korm. rendelet 71. § b) pontja szerint módosított szöveg.
