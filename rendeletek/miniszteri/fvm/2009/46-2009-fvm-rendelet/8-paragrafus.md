@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-8. § (1)[^21] A támogatási kérelmet, az érintett földterület elhelyezkedése szerint illetékes MgSzH területi szervéhez – az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon – kell benyújtani. A kérelmező a támogatási kérelem benyújtására nyitva álló időszakonként és erdészeti igazgatóságonként csak egy támogatási kérelmet nyújthat be.
+8. § (1)[^21] A támogatási kérelmet, az érintett földterület elhelyezkedése szerint illetékes megyei kormányhivatal erdészeti igazgatóságához (a továbbiakban: erdészeti igazgatóság) – az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon – kell benyújtani. A kérelmező a támogatási kérelem benyújtására nyitva álló időszakonként és erdészeti igazgatóságonként csak egy támogatási kérelmet nyújthat be.
 
 (2) Az (1) bekezdésben említett formanyomtatvány az alábbi adatokat tartalmazza:
 
@@ -28,7 +28,7 @@ b) azon területek nagyságát, amelyen a kérelmező ökológiai gazdálkodást
 
 c) azt, hogy a Magyarországon elismert ökológiai ellenőrző és tanúsító szervezettel a támogatási kérelem benyújtására rendelkezésre álló időszak első napját megelőzően került sor a szerződéskötésre.
 
-[^21]: A 8. § (1) bekezdése a 21/2010. (III. 16.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 8. § (1) bekezdése a 21/2010. (III. 16.) FVM rendelet 6. § (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 104. §-a szerint módosított szöveg.
 [^22]: A 8. § (4) bekezdése a 21/2010. (III. 16.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^23]: A 8. § (4) bekezdés c) pontját a 36/2011. (V. 12.) VM rendelet 3. §-a iktatta be.
 [^24]: A 8. § (5) bekezdése a 21/2010. (III. 16.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
