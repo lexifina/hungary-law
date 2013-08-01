@@ -2,7 +2,7 @@
 
 ## ---------------
 
-## Kezelési maradékanyag Felső határérték[^18] (mg/l)
+## Kezelési maradékanyag Felső határérték[^25] (mg/l)
 
 ## ---------------
 
@@ -16,4 +16,4 @@
 
 GKM együttes rendelethez
 
-[^18]: A határértékeknek való megfelelést az élelmiszer-ellenőrző hatóságok ellenőrzik.
+[^25]: A határértékeknek való megfelelést az élelmiszer-ellenőrző hatóságok ellenőrzik.

@@ -42,7 +42,7 @@ I. A természetes ásványvíz elismerési kérelméhez benyújtandó dokumentum
 
 7. Ásványvíz vizsgálatára akkreditált laboratórium helyszíni és laboratóriumi vizsgálatának eredménye, amely a kérelem benyújtásától számított egy éven belül, a kút üzemszerű állapotában történt mintavétel alapján készült.
 
-8. Az Állami Népegészségügyi és Tisztiorvosi Szolgálat területileg illetékes megyei intézetének szakvéleménye a víznyerőhely állapotának közegészségügyi elbírálásáról, és a víz palackozási célú felhasználhatóságának közegészségügyi feltételeiről.
+8.[^23] A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének szakvéleménye a víznyerőhely állapotának közegészségügyi elbírálásáról, és a víz palackozási célú felhasználhatóságának közegészségügyi feltételeiről.
 
 II. Az elismeréshez szükséges adatok
 
@@ -115,3 +115,5 @@ d) Pseudomonas aeruginosa hiánya 250 ml-ben,
 4.1. A vizsgálatoknak – melyeket a tudományosan elismert módszereknek megfelelően kell elvégezni – igazodniuk kell a természetes ásványvíz sajátos tulajdonságaihoz, és annak az emberi szervezetre gyakorolt hatásaihoz, mint pl. a vizeletkiválasztás, gyomor- és bélfunkciók, az ásványi anyagok hiányának a kompenzálása.
 
 4.2. Jelentős számú, egymással összhangban levő és azonos eredményt hozó klinikai megfigyelés – ha ez elvégezhető – helyettesítheti a 4.1. pont alatt előírt vizsgálatokat. A klinikai vizsgálatok – amennyiben ezek elvégezhetők – szintén helyettesíthetik a 4.1. pont alatt hivatkozott vizsgálatokat, feltéve, hogy a jelentős számú megfigyelés összhangban van és megegyezik, és általuk ugyanazon eredmények érhetők el.
+
+[^23]: A 3. számú melléklet I. cím 8. pontja a 70/2013. (VII. 31.) VM rendelet 39. § d) pontja szerint módosított szöveg.
