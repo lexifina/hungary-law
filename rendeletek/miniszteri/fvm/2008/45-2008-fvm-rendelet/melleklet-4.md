@@ -6,7 +6,7 @@
 
 ## a dísznövény szaporítóanyag forgalmazók 45/2008. (IV. 11.) FVM rendelet szerinti nyilvántartásba vételéhez, adatmódosításához és törléséhez
 
-## Beküldendő: MgSzH Központ, Növénytermesztési és Kertészeti Igazgatóság, Dísznövény és Zöldségpalánta Szaporítóanyag Felügyeleti Osztály 1525 Budapest 114. Pf. 30
+## Beküldendő: Nemzeti Élelmiszerlánc-biztonsági Hivatal 1525 Budapest 114. Pf. 30
 
 ## Alulírott, az alábbiakban részletezett adatok szerint kérem a
 

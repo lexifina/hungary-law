@@ -62,19 +62,13 @@
 
 ## aláírás
 
-5. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez
+5. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^26]
 
 Szemlemegrendelő mintája
 
 Oldal: .........
 
-Mezőgazdasági Szakigazgatási Hivatal Központ
-
-Növénytermesztési és Kertészeti Igazgatóság
-
-Dísznövény és Zöldségpalánta Szaporítóanyag
-
-Felügyeleti Osztály
+Az MgSzH Központ
 
 1024 Budapest, Keleti Károly u. 24.
 
@@ -102,7 +96,7 @@ nyilvántartásban szereplő forgalmazó aláírása
 
 ––––––––––––
 
-* Kizárólag az MgSzH Központ dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.
+* Kizárólag a Nemzeti Élelmiszerlánc-biztonsági Hivatal dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.
 
 PÓTLAP*
 
@@ -126,4 +120,6 @@ nyilvántartásban szereplő forgalmazó aláírása
 
 –––––––––––––
 
-* Kizárólag az MgSzH Központ dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.
+* Kizárólag a Nemzeti Élelmiszerlánc-biztonsági Hivatal dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.
+
+[^26]: Az 5. számú melléklet a 70/2013. (VII. 31.) VM rendelet 92. § h) pontja szerint módosított szöveg. [E módosító rendelet 92. § g) pontjával elrendelt módosítás, amely szerint az „MgSzH Központ, Növénytermesztési és Kertészeti Igazgatóság, Dísznövény és Zöldségpalánta Szaporítóanyag Felügyeleti Osztály” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]

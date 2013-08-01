@@ -14,4 +14,6 @@ d) olyan növények bizonyos fajainak vagy csoportjainak vetőmagjára, amelyet 
 
 e) a kísérleti vagy tudományos célra, nemesítési anyagnak vagy a genetikai sokszínűség megőrzése céljára szánt dísznövény szaporítóanyagra.
 
-(3) A dísznövény szaporítóanyag minőségi kérdései vonatkozásában a Mezőgazdasági Szakigazgatási Hivatal (MGSZH) Növénytermesztési Igazgatósága (a továbbiakban: növénytermesztési hatóság) a felelős hatóság.
+(3)[^1] A dísznövény szaporítóanyag minőségi kérdései vonatkozásában a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve az illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága a felelős hatóság.
+
+[^1]: Az 1. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § a) pontja szerint módosított szöveg.
