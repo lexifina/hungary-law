@@ -14,7 +14,7 @@ alapozza meg.
 
 (2) Ha az ellátás igénybevételére az (1) bekezdés a) vagy b) pontja alapján kerül sor, a határozatot közölni kell a működtetővel és az ellátást nyújtó intézmény vezetőjével is.
 
-(3) Állami fenntartású intézmény esetén az (1) bekezdés c) és d) pontja szerinti döntésről az intézményvezető értesíti a kérelmezőt, illetve törvényes képviselőjét. Az ellátás igénybevételének elutasítása esetén a kérelmezőt, illetve törvényes képviselőjét írásban kell értesíteni.
+(3) Állami fenntartó által fenntartott (a továbbiakban: állami fenntartású) intézmény esetén az (1) bekezdés c) és d) pontja szerinti döntésről az intézményvezető értesíti a kérelmezőt, illetve törvényes képviselőjét. Az ellátás igénybevételének elutasítása esetén a kérelmezőt, illetve törvényes képviselőjét írásban kell értesíteni.
 
 (4) Ha a kérelmező, illetve törvényes képviselője az intézmény vezetőjének (3) bekezdés szerinti döntését vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Ha az intézményvezető az ellátás igénybevételéről nem intézkedik, a kérelmező, illetve törvényes képviselője az arról való tudomásszerzéstől számított nyolc napon belül a fenntartóhoz fordulhat. Ezekben az esetekben a fenntartó határozattal dönt.
 
@@ -22,7 +22,7 @@ alapozza meg.
 
 a) állami fenntartású szolgáltató, intézmény esetén a szolgáltató vezetője, illetve az intézményvezető,
 
-b) egyházi és nem állami fenntartású szolgáltató, intézmény esetén a fenntartó vagy az általa megbízott személy
+b) egyházi fenntartó által fenntartott (a továbbiakban: egyházi fenntartású) és nem állami fenntartó által fenntartott (a továbbiakban: nem állami fenntartású) szolgáltató, intézmény esetén a fenntartó vagy az általa megbízott személy
 
 a kérelmezővel, illetve törvényes képviselőjével írásban megállapodást köt.
 
@@ -66,6 +66,6 @@ b) soron kívüli elhelyezésre vonatkozó indokolt kérelem alapján,
 
 c) az 57. § (2) bekezdése szerinti esetben.
 
-(9) Ha az egyházi, nem állami fenntartó a települési önkormányzattal vagy állami szervvel kötött ellátási szerződés hatálya alá tartozó esetben az ellátásra irányuló kérelmet elutasítja, a kérelmezőt, illetve törvényes képviselőjét írásban értesíti. Ha a kérelmező, illetve törvényes képviselője a döntést vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül az ellátási szerződést megkötő települési önkormányzathoz vagy állami szervhez fordulhat. A települési önkormányzat vagy állami szerv a kérelemről határozattal dönt.
+(9) Ha az egyházi fenntartó vagy a nem állami fenntartó a települési önkormányzattal vagy állami szervvel kötött ellátási szerződés hatálya alá tartozó esetben az ellátásra irányuló kérelmet elutasítja, a kérelmezőt, illetve törvényes képviselőjét írásban értesíti. Ha a kérelmező, illetve törvényes képviselője a döntést vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül az ellátási szerződést megkötő települési önkormányzathoz vagy állami szervhez fordulhat. A települési önkormányzat vagy állami szerv a kérelemről határozattal dönt.
 
-(10) Ha a települési önkormányzattal vagy állami szervvel ellátási szerződést kötött egyházi, nem állami fenntartó az elhelyezést elrendelő döntés ellen fellebbezést nyújt be, a települési önkormányzatot vagy állami szervet írásban értesíti.
+(10) Ha a települési önkormányzattal vagy állami szervvel ellátási szerződést kötött egyházi fenntartó vagy a nem állami fenntartó az elhelyezést elrendelő döntés ellen fellebbezést nyújt be, a települési önkormányzatot vagy állami szervet írásban értesíti.

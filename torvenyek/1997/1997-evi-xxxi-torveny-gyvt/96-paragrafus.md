@@ -14,13 +14,13 @@
 
 (7) A jogszabályban meghatározott szakmai, módszertani feladatokat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(8) A miniszter – az egyházi fenntartó kérelmére – a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki az egyházi fenntartású nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
+(8) A miniszter – az egyházi fenntartó kérelmére – a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki (a továbbiakban: kijelölt egyházi módszertani intézmény) az egyházi fenntartású nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
 
 (8a)
 
 (9) A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(10) A kijelölt egyházi módszertani intézmény feladatkörében, az egyháza által fenntartott nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
+(10) A kijelölt egyházi módszertani intézmény feladatkörében, a bevett egyháza által fenntartott nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
 
 a) részt vesz a minőségfejlesztési elvek kidolgozásában,
 
@@ -36,4 +36,4 @@ e) kezdeményezi a személyes gondoskodást nyújtó munkakörben dolgozók tov�
 
 (12) A miniszter a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
 
-(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha egyházának az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
+(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha bevett egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.

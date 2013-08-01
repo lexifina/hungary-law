@@ -1,6 +1,6 @@
-145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet végző, közfeladatot ellátó egyházi és – külön törvényben meghatározott – nem állami fenntartó.
+145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet végző, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
-(2) Az állami, egyházi és nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele a
+(2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele a
 
 a) személyes gondoskodást nyújtó gyermekjóléti alapellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
 
@@ -26,6 +26,6 @@ c) azt a kérelem benyújtását megelőzően is érvényes működési engedél
 
 d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól kezdődően, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
 
-(3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi és nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény a munkavállalók számára legalább a Kjt. 55–80. §-aiban megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
+(3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény a munkavállalók számára legalább a Kjt. 55–80. §-aiban megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
 
-(4) A nem állami, illetve egyházi fenntartónak a külön jogszabályban meghatározott, és az általa fenntartott gyermekjóléti, gyermekvédelmi intézmény működéséhez biztosított központi költségvetésről szóló törvényben biztosított támogatás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia azon intézmény részére, amelyre tekintettel a támogatás megállapítására sor került.
+(4) Az egyházi fenntartónak és a nem állami fenntartónak az általa fenntartott gyermekjóléti, gyermekvédelmi intézmény működéséhez biztosított központi költségvetésről szóló törvényben biztosított támogatás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia azon intézmény részére, amelyre tekintettel a támogatás megállapítására sor került.

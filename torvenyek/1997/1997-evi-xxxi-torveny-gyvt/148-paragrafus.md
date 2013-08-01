@@ -14,7 +14,7 @@ b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkés�
 
 (6) Ha a kötelezett a személyi térítési díjat vitatja, illetve annak csökkentését vagy elengedését kéri, a (3) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
 
-(7) Ha a kötelezett a személyi térítési díj egyházi vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a személyi térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított személyi térítési díjat kell megfizetni.
+(7) Ha a kötelezett a személyi térítési díj egyházi fenntartó vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a személyi térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított személyi térítési díjat kell megfizetni.
 
 (8) A személyi térítési díj összege évente két alkalommal vizsgálható felül és változtatható meg, kivéve, ha a kötelezett jövedelme olyan mértékben csökken, hogy az e törvényben szabályozott díjfizetési kötelezettségének nem tud eleget tenni. A kötelezett nem kötelezhető a felülvizsgálatot megelőző időszakra vonatkozóan az új térítési díj megfizetésére.
 

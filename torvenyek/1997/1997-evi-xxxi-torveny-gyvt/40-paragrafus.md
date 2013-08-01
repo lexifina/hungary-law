@@ -40,4 +40,4 @@ biztosít.
 
 (4)
 
-(5) Gyermekjóléti szolgálatot, gyermekjóléti központot egyházi és más nem állami fenntartó is működtethet.
+(5) Gyermekjóléti szolgálatot, gyermekjóléti központot egyházi fenntartó és nem állami fenntartó is működtethet.

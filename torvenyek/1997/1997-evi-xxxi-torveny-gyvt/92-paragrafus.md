@@ -8,7 +8,7 @@
 
 (3) A gyermek utógondozását a gyermek lakóhelye szerinti gyermekjóléti szolgálat, a fiatal felnőtt utógondozását a gyermekotthon, a nevelőszülői hálózatot működtető vagy – az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában elhelyezett gyermek esetén – a területi gyermekvédelmi szakszolgálat látja el.
 
-(4) Az utógondozás feladatainak ellátásába önkéntesek, társadalmi szervezetek, alapítványok és egyházi jogi személyek is bevonhatók.
+(4) Az utógondozás feladatainak ellátásába önkéntesek, egyesületek, alapítványok és bevett egyházak is bevonhatók.
 
 (5) A gyámhatóság az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor ismételten elrendeli, melynek során elsősorban a fiatal felnőtt volt utógondozóját, ha ez nem lehetséges, a fiatal felnőtt választása szerint a lakóhelye vagy a tartózkodási helye szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki.
 

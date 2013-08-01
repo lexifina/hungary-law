@@ -18,7 +18,7 @@ h) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezetek,
 
 i) a menekülteket befogadó állomás, a menekültek átmeneti szállása,
 
-j) a társadalmi szervezetek, egyházak, alapítványok,
+j) az egyesületek, az alapítványok és az egyházi jogi személyek,
 
 k) a munkaügyi hatóság.
 
