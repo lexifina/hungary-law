@@ -56,7 +56,7 @@ ia) az öregségi nyugdíjkorhatárt elérte és az öregségi nyugdíjhoz szük
 
 ib) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül, vagy
 
-ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
+ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
 
 j) munkaközvetítő tevékenység: olyan szolgáltatások összessége, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
 
