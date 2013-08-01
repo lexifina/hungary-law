@@ -16,6 +16,6 @@ b) a nem munkavállalóként végzett gombaminősítés esetén a gomba-szakelle
 
 gondoskodik.
 
-(5)[^1] Amennyiben a gomba minősíttetője nem ért egyet a gomba-szakellenőr által elvégzett gombaminősítés eredményével, kifogást nyújthat be a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz. Az eljáráshoz a gomba minősíttetője a kifogás elbírálásához szükséges mennyiségű, de legalább 0,5 kg, a tételt reprezentáló mintát köteles biztosítani, melyet a gomba-szakellenőr és a minősíttető közösen zárt le és írt alá.
+(5)[^2] Amennyiben a gomba minősíttetője nem ért egyet a gomba-szakellenőr által elvégzett gombaminősítés eredményével, kifogást nyújthat be a járási állategészségügyi és élelmiszer-ellenőrző hivatalhoz. Az eljáráshoz a gomba minősíttetője a kifogás elbírálásához szükséges mennyiségű, de legalább 0,5 kg, a tételt reprezentáló mintát köteles biztosítani, melyet a gomba-szakellenőr és a minősíttető közösen zárt le és írt alá.
 
-[^1]: Az 5. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 51. §-a szerint módosított szöveg.
+[^2]: Az 5. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 51. §-a szerint módosított szöveg.
