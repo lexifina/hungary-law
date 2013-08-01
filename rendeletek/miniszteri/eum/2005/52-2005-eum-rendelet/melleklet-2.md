@@ -26,7 +26,7 @@
 
 ## (10) A tagállamoknak biztosítaniuk kell, hogy az állatokon elvégzett vizsgálatok a kísérleti és tudományos célokra felhasznált állatok védelmére vonatkozó jogszabályoknak megfelelnek.
 
-## (11)[^167] A előny/kockázat arány kiértékelésének ellenőrzésére, minden új információt, melyet az eredeti kérelem nem tartalmazott, valamint minden, gyógyszer-mellékhatásra vonatkozó információt a GYEMSZI-hez be kell nyújtani. Miután a készítmény engedélyezésre került, a dosszié adataiban bekövetkező minden, erre vonatkozó változást be kell a GYEMSZI-hez jelenteni.
+## (11)[^171] A előny/kockázat arány kiértékelésének ellenőrzésére, minden új információt, melyet az eredeti kérelem nem tartalmazott, valamint minden, gyógyszer-mellékhatásra vonatkozó információt a GYEMSZI-hez be kell nyújtani. Miután a készítmény engedélyezésre került, a dosszié adataiban bekövetkező minden, erre vonatkozó változást be kell a GYEMSZI-hez jelenteni.
 
 ## Ez a melléklet négy különböző részre tagolódik:
 
@@ -52,7 +52,7 @@
 
 ## A forgalomba hozatali engedély iránti kérelemhez csatolandó, egy, az 1-től az 5-ös fejezetig mindent magában foglaló tartalomjegyzék.
 
-## 1.2.[^168] Engedély iránti kérelem
+## 1.2.[^172] Engedély iránti kérelem
 
 ## A kérelem tárgyát képező gyógyszert a következő adatok azonosítják:
 
@@ -364,7 +364,7 @@
 
 ## (4) Minden a hatóanyagra és a késztermékre vonatkozó vizsgálati és gyártási eljárást olyan részletességgel kell leírni, hogy az illetékes hatóság kérésére az ellenőrző vizsgálatok elvégezhetőek legyenek. Minden vizsgálati eljárás meg kell, hogy feleljen a tudomány adott szintjének. Bizonyítani kell a módszerek kívánt célra való alkalmasságát is, az erre vonatkozó vizsgálatokat is be kell nyújtani. Abban az esetben, ha az adott eljárás szerepel az Európai Gyógyszerkönyvben, ezt a leírást helyettesíti a megfelelő részletes hivatkozás az általános fejezet(ek)re és cikkely(ek)re.
 
-## (5)[^169] Minden anyagra, műveletre és gyógyszerformára alkalmazhatónak kell lennie az Európai Gyógyszerkönyv cikkelyeinek. Más anyagokra vonatkozóan, minden tagállam követelheti nemzeti gyógyszerkönyve előírásainak betartását.
+## (5)[^173] Minden anyagra, műveletre és gyógyszerformára alkalmazhatónak kell lennie az Európai Gyógyszerkönyv cikkelyeinek. Más anyagokra vonatkozóan, minden tagállam követelheti nemzeti gyógyszerkönyve előírásainak betartását.
 
 ## Ha egy anyag olyan eljárással készült, mely szerepel ugyan az Európai Gyógyszerkönyvben vagy egy tagállam nemzeti gyógyszerkönyvében, de az eljárás során keletkezhetnek olyan szennyeződések, melyekre a fenti gyógyszerkönyvek nem ellenőriztetnek, abban az esetben meg kell határozni ezen szennyeződések maximális toleranciaküszöbét és le kell írni a megfelelő vizsgálati eljárást. Abban az esetben, ha az Európai Gyógyszerkönyv, vagy a tagállamok nemzeti gyógyszerkönyvei cikkelyeiben szereplő meghatározások nem elégségesek az anyag minőségének biztosításához, akkor a GYEMSZI pontosabb meghatározásokat kérhet a jogosulttól. Ebben az esetben a GYEMSZI értesíti a kérdéses gyógyszerkönyv szerkesztőit. A jogosultnak ekkor közölnie kell a kérdéssel kapcsolatos álláspontját és az alkalmazott kiegészítő meghatározásokat az adott gyógyszerkönyv szerkesztőinek. Abban az esetben, ha ez a hiányosság egy, az Európai Gyógyszerkönyvben szereplő analitikai eljárással kapcsolatban merül fel, ezt a leírást ki kell cserélni minden vonatkozó szakaszban a cikkelyekre és általános fejezet(ek)re vonatkozó megfelelő részletes hivatkozással.
 
@@ -1030,7 +1030,7 @@
 
 ## a) A 7. § (12) bekezdése szerint beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, és be kell nyújtania az eredeti forgalomba hozatali engedély tulajdonosának beleegyezését, hogy kereszthivatkozással élhet a 4. és 5. fejezetének tartalmát illetően.
 
-## b)[^170] A 7. § (1) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
+## b)[^174] A 7. § (1) bekezdése (alapvetően hasonló termékek, azaz generikumok) alapján beadott kérelmeknek tartalmazniuk kell a melléklet 1., 2. és 3. fejezetében meghatározott adatokat, valamint csatolnia kell azokat az adatokat, melyek igazolják a biológiai hasznosulást és a biológiai egyenértékűséget az eredeti gyógyszerkészítménnyel, feltéve, hogy az utóbbi nem egy biológiai gyógyszer (lásd 2. rész, 4. pont Hasonló biológiai gyógyszerek).
 
 ## Ezen termékek esetében a nem-klinikai/klinikai áttekintéseknek/összefoglalóknak a következő elemekre kell különösen koncentrálniuk:
 
@@ -1108,7 +1108,7 @@
 
 ## Az emberi vérből vagy plazmából készült gyógyszerek esetében, a 3. fejezet „A kiindulási és nyersanyagokra vonatkozó információk” című bekezdésében említettek az emberi vérből vagy plazmából származó kiindulási anyagokra nem vonatkoznak, azokat a plazma alapadatok (Plasma Master File) helyettesítik, melyet jelen rész előírásai szerint kell elkészíteni.
 
-## a)[^171] Alapelvek
+## a)[^175] Alapelvek
 
 ## – A plazma alapadatoknak különálló dokumentumnak kell lennie, melyet a forgalomba hozatali engedély iránti kérelem dossziéjától külön kell benyújtani. Ez minden fontos információt tartalmaz a teljes emberi plazmáról, melyet kiindulási vagy nyersanyagként használtak fel a köztes frakciók, segédanyagok és a hatóanyag összetevőjeként, és amely anyagok a 2. § (2) bekezdés 10. pont szerinti gyógyszerben kerülnek felhasználásra.
 
@@ -1152,7 +1152,7 @@
 
 ## (4) A plazma alapadatoknak tartalmaznia kell egy listát azokról a gyógyszerekről, melyekre a „plazma alapadatok” érvényes, akár rendelkezik a gyógyszer forgalomba hozatali engedéllyel, akár engedélyezési eljárás alatt áll, beleértve klinikai vizsgálati kérelmeket is.
 
-## c)[^172] Értékelés és tanúsítás
+## c)[^176] Értékelés és tanúsítás
 
 ## – A még nem engedélyezett gyógyszerek esetében a forgalomba hozatali engedélyt kérelmezőnek egy teljes dossziét kell benyújtania az illetékes hatóságnak, amihez tartoznia kell a különálló plazma alapadatoknak, ha az még nem létezik.
 
@@ -1198,7 +1198,7 @@
 
 ## 7. A hatóanyag stabilitása.
 
-## c)[^173] Értékelés és tanusítás
+## c)[^177] Értékelés és tanusítás
 
 ## – Új vakcinák esetében, melyek új vakcina antigént tartalmaznak, a kérelmezőnek egy teljes forgalomba hozatali engedély iránti kérelmi dossziét kell benyújtania, mely tartalmazza az új vakcinában lévő összes vakcina antigén vakcina-antigén-alapadatait, kivéve azon vakcina antigéneket melyek már rendelkeznek ilyen alapadatokkal. Az Ügynökség az összes vakcina-antigén-alapadat tudományos és szakmai értékelését elvégzi. Pozitív értékelés esetén egy tanúsítvány kerül kibocsátásra, mely igazolja, hogy a vakcina-antigén-alapadatok megfelelnek a Közösség jogszabályainak, ezt az értékelési jelentés követi. A kiállított igazolás érvényes az egész Közösségben.
 
@@ -1360,7 +1360,7 @@
 
 ## – Ha egy kérelmező egy ritka betegség gyógyszerének engedélyezése során hivatkozik a 7. § (1) bekezdésére és jelen melléklet 2. részének 1. fejezetére (megalapozott és elfogadott gyógyászati felhasználás), a hivatkozott anyag rendszeres és dokumentált használata vonatkozhat – mint korlátozási mód – ezen anyag használatára.
 
-## 4. RÉSZ[^174]
+## 4. RÉSZ[^178]
 
 ## FEJLETT (ÚJSZERŰ) TERÁPIÁS GYÓGYSZERKÉSZÍTMÉNYEK
 
@@ -1740,11 +1740,11 @@
 
 12. RADIOAKTÍV GYÓGYSZEREK ELKÉSZÍTÉSÉRE VONATKOZÓ ÚTMUTATÁSOK
 
-[^167]: Az 1. számú melléklet Bevezetés (11) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^168]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
-[^169]: Az 1. számú melléklet 1. rész 3. fejezet (5) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^170]: Az 1. számú melléklet 2. rész 2. cím b) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § h) pontja szerint módosított szöveg.
-[^171]: Az 1. számú melléklet 3. rész 1. fejezet 1.1. pont a) alpontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^172]: Az 1. számú melléklet 3. rész 1. fejezet 1.1. pont c) alpontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^173]: Az 1. számú melléklet 3. rész 1. fejezet 1.2. pont c) alpontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^174]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^171]: Az 1. számú melléklet Bevezetés (11) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^172]: Az 1. számú melléklet 1. rész 1. fejezet 1.2. alpontja a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
+[^173]: Az 1. számú melléklet 1. rész 3. fejezet (5) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^174]: Az 1. számú melléklet 2. rész 2. cím b) pontja a 20/2010. (IV. 29.) EüM rendelet 3. § h) pontja szerint módosított szöveg.
+[^175]: Az 1. számú melléklet 3. rész 1. fejezet 1.1. pont a) alpontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^176]: Az 1. számú melléklet 3. rész 1. fejezet 1.1. pont c) alpontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^177]: Az 1. számú melléklet 3. rész 1. fejezet 1.2. pont c) alpontja a 41/2011. (VII. 5.) NEFMI rendelet 27. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^178]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.

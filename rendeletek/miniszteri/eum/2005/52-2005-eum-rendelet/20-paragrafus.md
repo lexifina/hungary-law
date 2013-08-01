@@ -1,3 +1,3 @@
-## Kölcsönös elismerési eljárás, decentralizált eljárás és más EGT tagállamban is engedélyezett gyógyszerek[^75]
+## Kölcsönös elismerési eljárás, decentralizált eljárás és más EGT tagállamban is engedélyezett gyógyszerek[^76]
 
-[^75]: A 20. §-t megelőző alcím a 15/2012. (VIII. 22.) EMMI rendelet 38. §-ával megállapított szöveg.
+[^76]: A 20. §-t megelőző alcím a 15/2012. (VIII. 22.) EMMI rendelet 38. §-ával megállapított szöveg.
