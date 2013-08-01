@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1989-15-20-2
 | --- | --- | --- |
 | 2003-07-24 | 1989-15-20-2A.3 | 15/1989. (X. 8.) MÉM rendelet |
 | 2012-10-12 | 1989-15-20-2A.4 | 17/1991. (VII.22.) FM rendelet |
+| 2013-08-01 | 1989-15-20-2A.5 | 70/2013. (VII. 31.) VM rendelet |
