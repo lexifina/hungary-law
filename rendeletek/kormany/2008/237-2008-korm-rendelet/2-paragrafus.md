@@ -32,7 +32,7 @@
 
 10c.[^9] Kisprojekt Irányító Bizottság: a Keretmegállapodás 3. melléklet A. Pályázati Alap 5. Feladatok és Kötelezettségek pontja szerinti szerv, amely felügyeli a Pályázati Alap megvalósítást;
 
-10d.[^10] Kisprojekt Végrehajtó: Pályázati Alap esetében egy adott kisprojekt végrehajtásával megbízott államigazgatási szerv, köz- vagy magántestület, egyházi intézmény, melyet elismernek a felek és megbíznak a Keretmegállapodás hatálya alá tartozó projekt végrehajtásával;
+10d.[^10] Kisprojekt Végrehajtó: Pályázati Alap esetében egy adott kisprojekt végrehajtásával megbízott államigazgatási szerv, köz- vagy magántestület, egyházi jogi személy, melyet elismernek a felek és megbíznak a Keretmegállapodás hatálya alá tartozó projekt végrehajtásával;
 
 10e.[^11] Kisprojekt Végrehajtási Megállapodás: a TKSz és az általa további pályáztatással kiválasztott Kisprojekt Végrehajtó által kötött, a Pályázati Alapból elnyert támogatás felhasználását szabályozó szerződés;
 
@@ -223,7 +223,7 @@
 [^7]: A 2. § (1) bekezdés 10a. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^8]: A 2. § (1) bekezdés 10b. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: A 2. § (1) bekezdés 10c. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^10]: A 2. § (1) bekezdés 10d. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés 10d. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 297/2013. (VII. 29.) Korm. rendelet 49. §-a szerint módosított szöveg.
 [^11]: A 2. § (1) bekezdés 10e. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^12]: A 2. § (1) bekezdés 11. pontja a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
 [^13]: A 2. § (1) bekezdés 12. pontja a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
