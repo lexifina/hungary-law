@@ -1,5 +1,5 @@
-## 8. §[^10] A Vám- és Pénzügyőrség Országos Parancsnoksága és a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) megállapodást köt az e rendelet szerinti ellenőrzésekkel kapcsolatos együttműködés rendjéről.
+## 8. §[^10] A Nemzeti Adó- és Vámhivatal Központi Hivatala és a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) megállapodást köt az e rendelet szerinti ellenőrzésekkel kapcsolatos együttműködés rendjéről.
 
 ## Költségek viselése
 
-[^10]: A 8. § a 85/2007. (VIII. 10.) FVM rendelet 6. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^10]: A 8. § a 70/2013. (VII. 31.) VM rendelet 52. § d)–e) pontja szerint módosított szöveg.
