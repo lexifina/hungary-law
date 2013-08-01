@@ -1,4 +1,4 @@
-5. § (1) A területi MgSzH a kérelmeket a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) továbbítja, amely a záradékban foglalt adatok alapján határozatban dönt az igénybe vehető támogatásról, és a jóváhagyott támogatási összegekről havonta tájékoztatja az FVM költségvetési elszámolásokért felelős szervezeti egységét.
+5. § (1)[^3] A területi MgSzH a kérelmeket a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) továbbítja, amely a záradékban foglalt adatok alapján határozatban dönt az igénybe vehető támogatásról, és a jóváhagyott támogatási összegekről havonta tájékoztatja az VM költségvetési elszámolásokért felelős szervezeti egységét.
 
 (2) Az MgSzH záradéka nélkül benyújtott támogatási kérelmeket az MVH elutasítja.
 
@@ -10,4 +10,7 @@
 
 (6) A támogatást igénybe vevő értesítése, valamint a támogatás folyósítása során az általános de minimis rendelet 2. és 3. cikkében meghatározottak szerint kell eljárni.
 
-(7) E rendelet szerinti támogatás nyilvántartásával összefüggő feladatokról az MVH gondoskodik. A Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: FVM) írásbeli kérelmére az általa kért információkat az MVH határidőn belül rendelkezésre bocsátja.
+(7)[^4] E rendelet szerinti támogatás nyilvántartásával összefüggő feladatokról az MVH gondoskodik. A Vidékfejlesztési Minisztérium (a továbbiakban: VM) írásbeli kérelmére az általa kért információkat az MVH határidőn belül rendelkezésre bocsátja.
+
+[^3]: Az 5. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 67. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 67. § c) pontja szerint módosított szöveg.

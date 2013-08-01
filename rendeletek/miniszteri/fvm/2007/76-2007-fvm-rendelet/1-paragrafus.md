@@ -16,4 +16,6 @@ g) állami támogatás: a mezőgazdasági, halászati, erdészeti és vidékfejl
 
 h) általános de minimis rendelet: a Bizottság 1998/2006/EK rendelete az EK-Szerződés 87. és 88. cikkének csekély összegű (de minimis) támogatásokra való alkalmazásáról;
 
-i) MgSzH: Mezőgazdasági Szakigazgatási Hivatal.
+i)[^2] NÉBIH: Nemzeti Élelmiszerlánc-biztonsági Hivatal).
+
+[^2]: Az 1. § i) pontja a 70/2013. (VII. 31.) VM rendelet 67. § a) pontjával megállapított szöveg.
