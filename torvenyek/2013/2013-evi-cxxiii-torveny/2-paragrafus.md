@@ -1,0 +1,1 @@
+2. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 65. § (5) bekezdésében az „Az (1) bekezdés bb) alpontjának” szövegrész helyébe az „A 2013. augusztus 1-jét megelőzően megszerzett kamatjövedelmekre vonatkozóan az (1) bekezdés b) pont bb) alpontjának” szöveg lép.
