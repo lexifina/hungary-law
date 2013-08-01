@@ -340,7 +340,7 @@
 
 ## A temető jellegét és használatát a kódjegyzék tartalmazza. A temető funkciójának és a temetés ellátásához szükséges építményekre, ha a számviteli nyilvántartás tartalmaz értékadatokat, akkor azt szerepeltetni kell.
 
-## Ha a temető nem önkormányzati tulajdonú (pl. egyházi), de az ott lévő építmény az önkormányzat tulajdona, akkor azt az ingatlan adatlapon szerepeltetni kell, területi adatok nélkül.
+## Ha a temető nem önkormányzati tulajdonú, de az ott lévő építmény az önkormányzat tulajdona, akkor azt az ingatlan adatlapon szerepeltetni kell, területi adatok nélkül.
 
 ## Ha a temetést szolgáló építmény nem a temető területén van, akkor az ,,F'' Földterületi betétlap töltendő ki a területről és a ,,P'' Egyéb építmény betétlapon kell az ilyen építményt szerepeltetni.
 
