@@ -14,7 +14,7 @@ e) a sportpolitikai,
 
 f) az egyenlő bánásmód biztosítása és társadalmi felzárkózás,
 
-g) a társadalmi és civil kapcsolatok fejlesztése, valamint az egyházakkal való kapcsolattartás koordinációja,
+g)[^5] a társadalmi és civil kapcsolatok fejlesztése, valamint a vallási közösségekkel való kapcsolattartás koordinációja,
 
 h) az államháztartási és az adópolitikai,
 
@@ -28,7 +28,7 @@ l) az elektronikus hírközlési, az audiovizuális politikai és az informatika
 
 szakterületek képviseletében a feladat- és hatáskörrel rendelkező miniszter által kijelölt egy-egy állami vezető vagy miniszteri biztos.
 
-(1b)[^5] Az (1a) bekezdés szerinti tag kijelöléséről, valamint az 5. § (3) bekezdés a) pontja szerint történő általános helyettesítéséről szóló dokumentumot a Tanács elnökének meg kell küldeni.
+(1b)[^6] Az (1a) bekezdés szerinti tag kijelöléséről, valamint az 5. § (3) bekezdés a) pontja szerint történő általános helyettesítéséről szóló dokumentumot a Tanács elnökének meg kell küldeni.
 
 (2) A Tanácsba a Fot. 25. §-a (1) bekezdésének c)–g) pontja szerinti szervezetek által delegált tagok kijelölését a szervezetek saját hatáskörben végzik.
 
@@ -43,4 +43,5 @@ c) amely nem vesz részt a Fot. 25. §-a (1) bekezdésének c), d) és f) pontja
 [^2]: Az 1. § a 131/2004. (IV. 29.) Korm. rendelet I. Részének 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (1) bekezdése a 6/2011. (II. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (1a) bekezdését a 6/2011. (II. 11.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1. § (1b) bekezdését a 6/2011. (II. 11.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (1a) bekezdés g) pontja a 297/2013. (VII. 29.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^6]: Az 1. § (1b) bekezdését a 6/2011. (II. 11.) Korm. rendelet 1. §-a iktatta be.

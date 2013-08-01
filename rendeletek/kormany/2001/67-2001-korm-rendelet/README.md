@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-67-20-2
 | --- | --- | --- |
 | 2008-10-22 | 2001-67-20-22.5 | 67/2001. (IV. 20.) Korm. rendelet |
 | 2011-02-14 | 2001-67-20-22.6 | 6/2011. (II. 11.) Korm. rendelet |
+| 2013-08-01 | 2001-67-20-22.7 | 297/2013. (VII. 29.) Korm. rendelet |
