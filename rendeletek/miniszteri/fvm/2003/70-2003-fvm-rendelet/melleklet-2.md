@@ -46,7 +46,7 @@
 
 ## 1A nyúlós költésrothadásra (Ny), enyhébb (európai) költésrothadásra (E) és a légcsőatka-kórra (LA) gyanús családok számát kell feltünteni.
 
-2. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez[^28]
+2. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez[^45]
 
 ÁLLATORVOSI IGAZOLÁS MÉHCSALÁDOK ÁLLATEGÉSZSÉGÜGYI VIZSGÁLATÁRÓL*
 
@@ -54,7 +54,7 @@
 
 SORSZÁM: 00000000
 
-............................................................ megyei Állategészségügyi és Élelmiszer-ellenőrző Állomás
+........................................................... Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
 
 ...............................................................................................................................................................
 
@@ -78,4 +78,4 @@ __________
 
 * Vándorlásra jogosító igazolás.
 
-[^28]: A 2. számú melléklet a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja szerint módosított szöveg.
+[^45]: A 2. számú melléklet a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja, a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés k) pontja szerint módosított szöveg.
