@@ -2,7 +2,7 @@
 
 14. § (1) A befogadással összefüggő feladatok hatékonyabb végrehajtása érdekében a menekültügyi hatóság az egyes ellátási és társadalmi beilleszkedést célzó feladatok teljesítésére a (2) bekezdésben felsorolt szervezetekkel szerződést köthet.
 
-(2) A menekültügyi hatóság társadalmi szervezettel, helyi önkormányzattal, egyházzal, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
+(2)[^25] A menekültügyi hatóság társadalmi szervezettel, helyi önkormányzattal, egyházi jogi személlyel, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
 
 a) az elismerését kérő befogadási feltételeinek biztosítására;
 
@@ -33,3 +33,5 @@ d) a menekültügyi hatóságnak a szerződés teljesítésének ellenőrzésér
 e) a szerződés érvényességi idejét, felmondásának módját, valamint az esetleges jogviták rendezésére vonatkozó kikötéseket.
 
 (5) A szerződéshez – szükség esetén – mellékelni kell a szolgáltató jogállására vonatkozó bírósági határozat, illetve a szerződésben vállalt feladatok ellátásához szükséges hatósági engedély másolatát.
+
+[^25]: A 14. § (2) bekezdés nyitó szövegrésze a 297/2013. (VII. 29.) Korm. rendelet 42. §-a szerint módosított szöveg.

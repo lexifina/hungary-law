@@ -6,8 +6,8 @@ a) a támogatással érintett ingatlan elidegenítésével egyidejűleg vállalj
 
 b) a támogatással érintett ingatlant a tulajdonába kerülő másik ingatlanra úgy cseréli el, illetve újabb ingatlant úgy szerez, hogy a jelzálogjog, valamint az elidegenítési és terhelési tilalom az újabb ingatlanra átjegyezhető.
 
-(3)[^118] Ha a támogatásban részesített menekült, illetve oltalmazott építési telek vásárlása esetén öt éven belül az építést nem fejezte be, a járási hivatal az e tényről történő tudomásszerzéstől számított tizenöt napon belül – a menekültügyi hatóság egyidejű értesítése mellett – felszólítja a támogatás még vissza nem fizetett részének egy összegben, nyolc napon belül történő visszafizetésére.
+(3)[^119] Ha a támogatásban részesített menekült, illetve oltalmazott építési telek vásárlása esetén öt éven belül az építést nem fejezte be, a járási hivatal az e tényről történő tudomásszerzéstől számított tizenöt napon belül – a menekültügyi hatóság egyidejű értesítése mellett – felszólítja a támogatás még vissza nem fizetett részének egy összegben, nyolc napon belül történő visszafizetésére.
 
 (4) Egy összegben kell visszafizetni a támogatást akkor is, ha a támogatásban részesített menekült, illetve oltalmazott véglegesen külföldre távozik.
 
-[^118]: Az 57. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^119]: Az 57. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.

@@ -4,13 +4,13 @@
 
 (2) A fordítás költségét a szolgáltató részére a menekültügyi hatóság megtéríti.
 
-(3)[^98] Az okmányok fordítási költségeinek megtérítése iránti kérelmet a menekültügyi hatósághoz kell benyújtani. A kérelemhez mellékelni kell a kérelmet alátámasztó okiratokat, ennek megfelelően
+(3)[^99] Az okmányok fordítási költségeinek megtérítése iránti kérelmet a menekültügyi hatósághoz kell benyújtani. A kérelemhez mellékelni kell a kérelmet alátámasztó okiratokat, ennek megfelelően
 
 a) a fordíttatni kívánt dokumentum eredeti példányát, valamint
 
 b) a tanulmányok folytatásához vagy megkezdéséhez szükséges iskolai végzettségről szóló, a tanintézmény által kiállított igazolást, vagy a munkavégzéshez szükséges szakképesítésről szóló, a munkáltató által kiállított igazolást.
 
-(4)[^99] Ha a menekült, az oltalmazott vagy a menedékes a (3) bekezdés b) pontja szerinti igazolással nem rendelkezik, az igazolás csatolását az okmányfordítás céljára vonatkozó nyilatkozata pótolja.
+(4)[^100] Ha a menekült, az oltalmazott vagy a menedékes a (3) bekezdés b) pontja szerinti igazolással nem rendelkezik, az igazolás csatolását az okmányfordítás céljára vonatkozó nyilatkozata pótolja.
 
-[^98]: A 49. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 104. § (1) bekezdésével megállapított szöveg.
-[^99]: A 49. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 104. § (2) bekezdése iktatta be.
+[^99]: A 49. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 104. § (1) bekezdésével megállapított szöveg.
+[^100]: A 49. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 104. § (2) bekezdése iktatta be.
