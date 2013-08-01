@@ -6,7 +6,7 @@ a) a területen a SAPS R. alapján támogatásra jogosult;
 
 b) a területen energianövényt termeszt, melyet energetikai célra használnak fel;
 
-c) a fás szárú energetikai ültetvények telepítése megtörtént, illetve 2007. október 31-ig megtörténik, és rendelkezik a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) által az R. alapján kiállított, a telepítés teljesítéséről szóló hatósági bizonyítvánnyal, illetve a fennmaradás engedélyezése tárgyában hozott hatósági határozattal;
+c)[^2] a fás szárú energetikai ültetvények telepítése megtörtént, illetve 2007. október 31-ig megtörténik, és rendelkezik a megyei kormányhivatal erdészeti igazgatósága által az R. alapján kiállított, a telepítés teljesítéséről szóló hatósági bizonyítvánnyal, illetve a fennmaradás engedélyezése tárgyában hozott hatósági határozattal;
 
 d) az EKR 26. cikkében meghatározott feltételeknek megfelelő, elismert piaci szereplővel kötött szerződéssel, illetve saját célú felhasználás esetén nyilatkozatot nyújt be az EKR 33. cikk (2) bekezdésében foglaltakról;
 
@@ -21,3 +21,5 @@ f) teljesíti az EKR 24–30. és 33–36. cikkében foglaltakat.
 (2) A termelő köteles a területen termelt energianövény teljes – de legalább a reprezentatív hozamokkal megegyező – mennyiségét elismert piaci szereplő részére átadni, leszállítani, illetve energetikai célra felhasználni, és az erről szóló szállítási, betakarítási bizonylatot az EKR 29. cikke szerinti időpontig az MVH honlapján közzétett formanyomtatványon az illetékes megyei MVH hivatalhoz benyújtani.
 
 (3) Az e rendeletben nem szabályozott kérdések vonatkozásában a SAPS R., valamint a TOP UP R. előírásait kell alkalmazni.
+
+[^2]: A 2. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 63. § a) pontja szerint módosított szöveg.
