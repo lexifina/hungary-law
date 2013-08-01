@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-145-20-
 | 2013-01-01 | 1999-145-20-22.14 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2013-05-22 | 1999-145-20-22.15 | 145/2013. (V. 14.) Korm. rendelet |
 | 2013-07-20 | 1999-145-20-22.16 | 255/2013. (VII. 5.) Korm. rendelet |
+| 2013-08-01 | 1999-145-20-22.17 | 121/2005. (VI. 28.) Korm. rendelet |
