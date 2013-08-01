@@ -700,7 +700,7 @@
 
 |  | 348. | 346. | Mozgólépcső-ellenőri szakmai feladatok | 10346-12 |
 
-|  | 349. | 347. | Építési műszaki ellenőri feladatok | 10347-12 |
+|  | 349. |  |  |  |
 
 |  | 350. | 348. | Magán-biztonságvédelmi alapfeladatok | 10348-12 |
 
@@ -4670,4 +4670,4 @@ Az erősáramú kapcsolókészülékeket kiválasztja, beköti, működteti és 
 
 Villamos kapcsolóállomásokat üzemeltet
 
-[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése szerint módosított szöveg.
+[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése, a 266/2013. (VII. 11.) Korm. rendelet 55. § j) pontja, a 297/2013. (VII. 29.) Korm. rendelet 80. §-a szerint módosított szöveg.
