@@ -21,11 +21,3 @@ h) 127. §-a és 128. §-a az Alaptörvény XXIX. cikk (3) bekezdése,
 i) 156. §-a az Alaptörvény 4. cikk (2) és (5) bekezdése
 
 alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
