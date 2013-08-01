@@ -1,4 +1,4 @@
-## Ellenőrzött szer nyilvántartó lap
+## Fokozottan ellenőrzött szer nyilvántartó lap
 
 |  | Év: |  |
 
@@ -10,4 +10,6 @@
 
 ## * Adagolási egységek (tabl., amp. stb.) darabszámát kell feltüntetni.
 
-7. számú melléklet a 43/2005. (X. 15.) EüM rendelethez
+7. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^128]
+
+[^128]: A 7. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.

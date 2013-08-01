@@ -1,4 +1,4 @@
-## Értesítő a gyógyszertár részére ellenőrzött szer rendeléséről
+## Értesítő a gyógyszertár részére fokozottan ellenőrzött szer rendeléséről
 
 ## A háziorvos neve, címe, telefonszáma:
 
@@ -10,9 +10,9 @@
 
 ## 4. Lakcíme:
 
-## 5. Az első vény háziorvos általi kiállításának dátuma:
+## 5. Ezen Értesítő szerinti első vény háziorvos általi kiállításának dátuma:
 
-## 6. Rendelt ellenőrzött szer neve, hatáserőssége (gyógyszerazonosító betűjel A–Z-ig):
+## 6. Rendelt fokozottan ellenőrzött szer neve, hatáserőssége (gyógyszerazonosító betűjel A–Z-ig):
 
 ## 7. Adagolása:
 
@@ -20,9 +20,9 @@
 
 ## 9. Egy alkalommal rendelt mennyiség:
 
-## 10. Az ellenőrzött szer kiadására a beteg által megjelölt gyógyszertár:
+## 10. A fokozottan ellenőrzött szer kiadására a beteg által megjelölt gyógyszertár:
 
-## 11. Rendelkezés a korábbi, azonos vagy más ellenőrzött szerre vonatkozó értesítő(k)ről:
+## 11. Rendelkezés a korábbi, azonos vagy más fokozottan ellenőrzött szerre vonatkozó értesítő(k)ről:
 
 ## A korábbi értesítő azonosítója A lejáratig érvényben marad Érvénytelen
 
@@ -42,6 +42,6 @@
 
 ## P. H.
 
-2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^58]
+2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^121]
 
-[^58]: A 2. számú melléklet a 20/2010. (IV. 29.) EüM rendelet 8. § c) pontja szerint módosított szöveg.
+[^121]: A 2. számú melléklet a 20/2010. (IV. 29.) EüM rendelet 8. § c) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.

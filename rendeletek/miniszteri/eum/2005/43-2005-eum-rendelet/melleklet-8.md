@@ -1,4 +1,4 @@
-## Ellenőrzött szer selejtezési jegyzőkönyv
+## Fokozottan ellenőrzött szer selejtezési jegyzőkönyv
 
 ## Készült:  200……… év ………....................………… hó ……… napján
 
@@ -16,13 +16,13 @@
 
 ## P. H.
 
-8. számú melléklet a 43/2005. (X. 15.) EüM rendelethez
+8. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^129]
 
 Káreseti jegyzőkönyv
 
 Káreseti jegyzőkönyv*
 
-Ellenőrzött szer
+Fokozottan ellenőrzött szer
 
 neve, hatáserőssége:
 
@@ -44,4 +44,6 @@ P. H.
 
 ___________
 
-* Jegyzőkönyv az ellenőrzött szer készletében bekövetkezett káresemény miatt mutatkozó veszteség dokumentálásáról.
+* Jegyzőkönyv a fokozottan ellenőrzött szer készletében bekövetkezett káresemény miatt mutatkozó veszteség dokumentálásáról.
+
+[^129]: A 8. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § c) és d) pontja szerint módosított szöveg.

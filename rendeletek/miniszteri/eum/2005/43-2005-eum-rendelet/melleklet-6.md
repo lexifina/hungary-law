@@ -1,4 +1,4 @@
-## Ellenőrzött szer nyilvántartás orvosi táska részére
+## Fokozottan ellenőrzött szer nyilvántartás orvosi táska részére
 
 |  | Év: |  |
 
@@ -10,4 +10,6 @@
 
 | Készítmény neve és hatáserőssége | Mennyisége adagolási egységenként | Átvétel dátuma | Beteg neve, életkora | Lakcíme/Kórházi azonosító | Kiadott mennyiség adagolási egységenként | Kiadás dátuma |
 
-6. számú melléklet a 43/2005. (X. 15.) EüM rendelethez
+6. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^127]
+
+[^127]: A 6. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.

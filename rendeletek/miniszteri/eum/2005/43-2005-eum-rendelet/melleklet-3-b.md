@@ -54,6 +54,6 @@
 
 ## Megjegyzés (Remarks)
 
-3/B. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^61]
+3/B. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^124]
 
-[^61]: A 3/B. számú mellékletet a 41/2011. (VII. 5.) NEFMI rendelet 23. § (2) bekezdése iktatta be.
+[^124]: A 3/B. számú mellékletet a 41/2011. (VII. 5.) NEFMI rendelet 23. § (2) bekezdése iktatta be.

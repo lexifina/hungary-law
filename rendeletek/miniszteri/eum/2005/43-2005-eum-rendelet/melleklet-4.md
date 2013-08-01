@@ -64,4 +64,6 @@
 
 ## Hatósági bélyegző (Authority stamp) Aláírás (Authority’s signature)
 
-4. számú melléklet a 43/2005. (X. 15.) EüM rendelethez
+4. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^125]
+
+[^125]: A 4. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § a), g) és v) pontja szerint módosított szöveg.
