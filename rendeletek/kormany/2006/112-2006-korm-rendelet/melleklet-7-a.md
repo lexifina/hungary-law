@@ -1,3 +1,3 @@
-7/A. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^163]
+7/A. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^164]
 
-[^163]: A 7/A. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.
+[^164]: A 7/A. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.

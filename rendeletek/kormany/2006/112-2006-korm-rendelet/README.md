@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-112-20-
 | 2012-11-16 | 2006-112-20-22.21 | 317/2012. (XI. 13.) Korm. rendelet |
 | 2013-01-01 | 2006-112-20-22.22 | 279/2009. (XII. 9.) Korm. rendelet |
 | 2013-02-01 | 2006-112-20-22.23 | 355/2012. (XII. 13.) Korm. rendelet |
+| 2013-08-01 | 2006-112-20-22.24 | 317/2012. (XI. 13.) Korm. rendelet |
