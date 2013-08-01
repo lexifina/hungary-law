@@ -8,7 +8,7 @@
 
 ## ...............................
 
-7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^247]
+7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^248]
 
 Átadás-átvételi és birtokbaadási jegyzőkönyv
 
@@ -222,4 +222,4 @@ D) Mellékletek – Dokumentumok
 
 E) Mellékletek – Kimutatások és táblázatok
 
-[^247]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^248]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be.
