@@ -1,0 +1,1 @@
+## „(1a) A nem üzleti célú közösségi, szabadidős szálláshelyek típusait (altípusait) az 1. számú melléklet, az e típusoknak (altípusoknak) minősülő további szálláshelyeket, valamint a szálláshelyek besorolását és minősítési követelményeit a 2. számú melléklet tartalmazza.”
