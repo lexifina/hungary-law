@@ -2,7 +2,7 @@
 
 a) a faj fogalma magában foglalja különösen a bőrszín, származás, illetve meghatározott etnikai csoporthoz való tartozás szempontjait;
 
-b) a vallás fogalma magában foglalja különösen a teista, nem teista és ateista meggyőződéseket, a magán jellegű, illetve nyilvános vallási szertartásokon – akár egyedül, akár másokkal – való részvételt, illetve az ilyen szertartásokon történő részvételtől való tartózkodást, továbbá más vallásos jellegű tevékenységet vagy véleménynyilvánítást, bármilyen vallásos hiten alapuló, illetve e hit által megkövetelt személyes vagy közösségi magatartásformát;
+b) a vallás fogalma magában foglalja különösen a teista, nem teista és ateista meggyőződéseket, a magán jellegű, illetve nyilvános vallásos szertartásokon – akár egyedül, akár másokkal – való részvételt, illetve az ilyen szertartásokon történő részvételtől való tartózkodást, továbbá más vallásos jellegű tevékenységet vagy véleménynyilvánítást, bármilyen vallásos hiten alapuló, illetve e hit által megkövetelt személyes vagy közösségi magatartásformát;
 
 c) a nemzeti hovatartozás fogalma nem korlátozódik az állampolgárságra vagy annak hiányára, hanem magában foglalja különösen az olyan csoporthoz való tartozást is, amelyet annak kulturális, etnikai, illetve nyelvi identitása, közös földrajzi vagy politikai származása, illetve egy másik állam lakosságához fűződő viszonya határoz meg;
 
