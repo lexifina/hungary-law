@@ -1,4 +1,4 @@
-57/A. §[^209] (1) Szállítói finanszírozás alkalmazása esetén a közszféra szervezet kedvezményezett
+57/A. §[^211] (1) Szállítói finanszírozás alkalmazása esetén a közszféra szervezet kedvezményezett
 
 a) a Kbt. hatálya alá tartozó közbeszerzési eljárás, valamint
 
@@ -16,4 +16,4 @@ eredményeként kötött szerződésben köteles biztosítani a szállító rés
 
 (6) Az NFÜ meghatározza a szállítói előleggel történő elszámolás részletszabályait.
 
-[^209]: Az 57/A. §-t a 302/2013. (VII. 29.) Korm. rendelet 28. §-a iktatta be.
+[^211]: Az 57/A. §-t a 302/2013. (VII. 29.) Korm. rendelet 28. §-a iktatta be.

@@ -8,21 +8,21 @@ a) a finanszírozási keretből lehívott és még a programszámlára vissza ne
 
 b) a megkötött közvetítői szerződések teljesítésének előrehaladásáról,
 
-c)[^221] a kedvezményezettnek nyújtott támogatott pénzügyi konstrukció révén megvalósuló kockázatvállalásról, így különösen a kölcsönök pénzügyi közvetítő általi minősítéséről és a kezesség beváltására vonatkozó adatokról,
+c)[^223] a kedvezményezettnek nyújtott támogatott pénzügyi konstrukció révén megvalósuló kockázatvállalásról, így különösen a kölcsönök pénzügyi közvetítő általi minősítéséről és a kezesség beváltására vonatkozó adatokról,
 
-d)[^222]
+d)[^224]
 
-e)[^223] a pénzügyi közvetítő vagy a kedvezményezett által megvalósított jogosulatlan forrásfelhasználásról, és
+e)[^225] a pénzügyi közvetítő vagy a kedvezményezett által megvalósított jogosulatlan forrásfelhasználásról, és
 
 f) az NFÜ által kért bármely egyéb adatról vagy eseményről.
 
-(4)[^224] A forráskezelő szervezet negyedévente, a tárgynegyedévet követő hónap tizedik napjáig az NFÜ részére, az NFÜ által meghatározottak szerint az államháztartás szervezeteinek beszámolási kötelezettségéhez és az Ávr. előírása szerint készítendő időközi mérlegjelentésekhez adatot szolgáltat.
+(4)[^226] A forráskezelő szervezet negyedévente, a tárgynegyedévet követő hónap tizedik napjáig az NFÜ részére, az NFÜ által meghatározottak szerint az államháztartás szervezeteinek beszámolási kötelezettségéhez és az Ávr. előírása szerint készítendő időközi mérlegjelentésekhez adatot szolgáltat.
 
 (5) Az NFÜ a forráskezelő szervezet számára biztosítja a finanszírozási keretből az NFÜ által elfogadott program végrehajtására jóváhagyott forrás összegét.
 
 (6) Az NFÜ a forráskezelő szervezet javaslatára vagy saját kezdeményezésből is az egyes programokra jóváhagyott források között átcsoportosíthat a már megkötött közvetítői szerződések forrásigényének figyelembevételével.
 
-[^221]: A 64. § (3) bekezdés c) pontja a 25/2012. (II. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^222]: A 64. § (3) bekezdés d) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § f) pontja hatályon kívül helyezte.
-[^223]: A 64. § (3) bekezdés e) pontja a 86/2011. (V. 31.) Korm. rendelet 12. § (4) bekezdésével megállapított, a 25/2012. (II. 29.) Korm. rendelet 61. § 28. pontja szerint módosított szöveg.
-[^224]: A 64. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 29. pontja szerint módosított szöveg.
+[^223]: A 64. § (3) bekezdés c) pontja a 25/2012. (II. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^224]: A 64. § (3) bekezdés d) pontját a 86/2011. (V. 31.) Korm. rendelet 14. § f) pontja hatályon kívül helyezte.
+[^225]: A 64. § (3) bekezdés e) pontja a 86/2011. (V. 31.) Korm. rendelet 12. § (4) bekezdésével megállapított, a 25/2012. (II. 29.) Korm. rendelet 61. § 28. pontja szerint módosított szöveg.
+[^226]: A 64. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 29. pontja szerint módosított szöveg.
