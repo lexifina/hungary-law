@@ -66,7 +66,7 @@
 
 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
 
-31. a határon túli költségvetési támogatások, az egyházak részére nyújtott költségvetési támogatások, továbbá az országos nemzetiségi önkormányzatok és intézményeik működési támogatása sajátos szabályait,
+31. a határon túli költségvetési támogatások, a bevett egyházak részére nyújtott költségvetési támogatások, továbbá az országos nemzetiségi önkormányzatok és intézményeik működési támogatása sajátos szabályait,
 
 32. az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Unió versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
 

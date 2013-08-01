@@ -32,7 +32,7 @@ k) a Nemzeti Üdülési Szolgálat
 
 (4) A kincstár vezeti a helyi önkormányzat megbízása esetén a helyi önkormányzat és költségvetési szervei, a nemzetiségi önkormányzat megbízása esetén a nemzetiségi önkormányzat és költségvetési szervei, valamint a társulás megbízása esetén a társulás és költségvetési szervei fizetési számláját.
 
-(4a) A kincstár az Országgyűlés által elismert egyház megbízása esetén az egyház számára fizetési számlát vezet.
+(4a) A kincstár a bevett egyház megbízása esetén a bevett egyház számára fizetési számlát vezet.
 
 (4b) A Kincstár a 72. § (2) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 
