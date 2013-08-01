@@ -46,17 +46,17 @@
 
 ## 3.6.[^87] a határozott idejű, illetve az ideiglenes működési engedély lejártának ideje, illetve az az időtartam, amelyre az időszakos férőhelyek létesítését engedélyezték,
 
-## 3.7. egyházi és nem állami fenntartó esetén az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, az ellátási szerződés hatálya alá tartozó szolgáltató tevékenységek és férőhelyszám, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték,
+## 3.7.[^88] egyházi fenntartó és nem állami fenntartó esetén az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, az ellátási szerződés hatálya alá tartozó szolgáltató tevékenységek és férőhelyszám, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték,
 
 ## 3.8. a szolgáltató (intézmény) megszűnésének időpontja.
 
-## 4.[^88] A működést engedélyező, módosító, visszavonó határozat adatai[^89]:
+## 4.[^89] A működést engedélyező, módosító, visszavonó határozat adatai[^90]:
 
 ## 4.1. a határozatot hozó hatóság megnevezése,
 
 ## 4.2. a határozat kelte, száma és jogerőre emelkedésének napja.
 
-## 5.[^90] A szociális foglalkoztatás adatai:
+## 5.[^91] A szociális foglalkoztatás adatai:
 
 ## 5.1. Ha az engedélyes szociális foglalkoztatási engedéllyel rendelkezik,
 
@@ -103,6 +103,7 @@
 [^85]: A 3. számú melléklet 3.3. pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ie) alpontja szerint módosított szöveg.
 [^86]: A 3. számú melléklet 3.4. pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (3) bekezdés e) pontja szerint módosított szöveg.
 [^87]: A 3. számú melléklet 3.6. pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^88]: A 3. számú melléklet 4. pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ib) alpontja szerint módosított szöveg.
-[^89]: Telephelyre vonatkozó adatszolgáltatás esetén csak a telephely adatait kell feltüntetni.
-[^90]: A 3. számú melléklet 5. pontját a 47/2010. (II. 26.) Korm. rendelet 1. § a) pontja iktatta be.
+[^88]: A 3. számú melléklet 3.7. pontja a 297/2013. (VII. 29.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^89]: A 3. számú melléklet 4. pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ib) alpontja szerint módosított szöveg.
+[^90]: Telephelyre vonatkozó adatszolgáltatás esetén csak a telephely adatait kell feltüntetni.
+[^91]: A 3. számú melléklet 5. pontját a 47/2010. (II. 26.) Korm. rendelet 1. § a) pontja iktatta be.
