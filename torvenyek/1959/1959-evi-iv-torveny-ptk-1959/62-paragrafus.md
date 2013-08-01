@@ -30,6 +30,6 @@ cc) a harmadik országbeli állampolgárok beutazásáról és tartózkodásár�
 
 (6) Az egyesület szervei által hozott jog- vagy alapszabálysértő határozat megsemmisítése iránt bármely tag – a különleges jogállású tag csak érintettsége esetén –, a határozat tudomására jutásától számított harminc napos jogvesztő határidőben pert indíthat. A perindítás a határozat végrehajtását nem gátolja, a bíróság azonban indokolt esetben – a tag kérelmére – a határozat végrehajtását felfüggesztheti. A per a törvényszék hatáskörébe tartozik.
 
-(7) A vallási tevékenységet is végző egyesületek esetében a vallási tevékenységgel összefüggően meghozott határozatokra nézve a (6) bekezdés rendelkezéseit nem kell alkalmazni.
+(7)
 
 (8) Az egyesület a vagyonával önállóan gazdálkodik, tartozásaiért saját vagyonával felel. A tagok – a tagdíj megfizetésén túl – az egyesület tartozásaiért saját vagyonukkal nem felelnek.
