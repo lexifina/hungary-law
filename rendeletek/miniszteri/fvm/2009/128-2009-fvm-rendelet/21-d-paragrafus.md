@@ -1,6 +1,6 @@
 ## Állati vérkészítmények forgalmazása
 
-21/D. § (1) Állati vérkészítményt csak az MgSzH Központ engedélyével lehet forgalomba hozni. Az engedélykérelem a (2) bekezdésben meghatározott készítménytípusok előállítására nyújtható be. A kérelemhez egy példányban csatolni kell a forgalmazni kívánt vérkészítmény(ek) címkéjét.
+21/D. § (1)[^48] Állati vérkészítményt csak a NÉBIH engedélyével lehet forgalomba hozni. Az engedélykérelem a (2) bekezdésben meghatározott készítménytípusok előállítására nyújtható be. A kérelemhez egy példányban csatolni kell a forgalmazni kívánt vérkészítmény(ek) címkéjét.
 
 (2) A forgalomba hozható állati vérkészítmények típusai:
 
@@ -20,9 +20,9 @@ g) krioprecipitátum,
 
 h) vérszérum.
 
-(3) A forgalomba hozatali engedély iránti kérelmet az MgSzH Központ a kérelem benyújtását követő 210 napon belül bírálja el.
+(3)[^49] A forgalomba hozatali engedély iránti kérelmet a NÉBIH a kérelem benyújtását követő 210 napon belül bírálja el.
 
-(4) Állati vérkészítmény csak az MgSzH Központ által jóváhagyott, magyar nyelvű címkével hozható forgalomba. A címkén olvashatóan fel kell tüntetni:
+(4)[^50] Állati vérkészítmény csak a NÉBIH által jóváhagyott, magyar nyelvű címkével hozható forgalomba. A címkén olvashatóan fel kell tüntetni:
 
 a) a vérkészítmény megnevezését,
 
@@ -55,3 +55,7 @@ n) „A vérkészítmény nem osztható, a fel nem használt maradék megsemmis�
 (5) Az állati vérkészítményeket a többi terméktől elkülönítetten vérdepóban kell tárolni. A vérdepót rendszeresen kell tisztítani és fertőtleníti. A vérdepó hőmérsékletének regisztrálását folyamatosan biztosítani kell, valamint olyan riasztórendszer működtetése szükséges, amely szükség esetén azonnali intézkedést tesz lehetővé. Az állati vérkészítményeket az adott készítmény címkéjén feltüntetett tárolási hőmérsékleten lehet szállítani.
 
 (6) A terápiás célra nem alkalmas vagy a lejárati ideig fel nem használt állati vérkészítményeket a vérdepóban elkülönítetten kell tárolni, és azokat az 1774/2002/EK rendelet előírásai szerint rendszeresen meg kell semmisíteni.
+
+[^48]: A 21/D. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^49]: A 21/D. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^50]: A 21/D. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

@@ -8,13 +8,15 @@ b) jó minőségben és megfelelő higiéniás feltételek mellett való
 
 gyártásáért.
 
-(2) A gyártó tudomására jutott, feltételezhetően a forgalomból történő kivonást, illetve a forgalmazás rendkívüli korlátozását eredményező minőségi hiba vagy annak gyanúja esetén a gyártó köteles arról a készítmény forgalomba hozatali engedélyesét értesíteni és azt az MgSzH Központnak haladéktalanul bejelenteni. A kivizsgálás eredményét a forgalomba hozatali engedély jogosultja a vizsgálat lezárását követően haladéktalanul megküldi az MgSzH Központnak.
+(2)[^134] A gyártó tudomására jutott, feltételezhetően a forgalomból történő kivonást, illetve a forgalmazás rendkívüli korlátozását eredményező minőségi hiba vagy annak gyanúja esetén a gyártó köteles arról a készítmény forgalomba hozatali engedélyesét értesíteni és azt a NÉBIH-nek haladéktalanul bejelenteni. A kivizsgálás eredményét a forgalomba hozatali engedély jogosultja a vizsgálat lezárását követően haladéktalanul megküldi a NÉBIH-nek.
 
-(3) A készítmény forgalomból való kivonását az MgSzH Központ rendeli el. A forgalomba hozatali engedély jogosultja a gyártóval együttműködve köteles gondoskodni a minőségi hibás termék forgalomból való haladéktalan kivonásáról. A forgalomból való kivonás jegyzőkönyvét a forgalomba hozatali engedély jogosultja az MgSzH Központnak küldi meg.
+(3)[^135] A készítmény forgalomból való kivonását a NÉBIH rendeli el. A forgalomba hozatali engedély jogosultja a gyártóval együttműködve köteles gondoskodni a minőségi hibás termék forgalomból való haladéktalan kivonásáról. A forgalomból való kivonás jegyzőkönyvét a forgalomba hozatali engedély jogosultja a NÉBIH-nek küldi meg.
 
-(4)[^48] Amennyiben valamely engedélyezett tevékenység szüneteltetésének ideje a 2 év időtartamot eléri, azt a gyártó köteles bejelenteni az MgSzH Központnak.
+(4)[^136] Amennyiben valamely engedélyezett tevékenység szüneteltetésének ideje a 2 év időtartamot eléri, azt a gyártó köteles bejelenteni a NÉBIH-nek.
 
-(5)[^49] A gyógyszergyártási engedély jogosultjának a gyógyszergyártásra engedélyezett üzemben nem gyógyszernek minősülő készítmény gyártásához az MgSzH Központ engedélye szükséges.
+(5)[^137] A gyógyszergyártási engedély jogosultjának a gyógyszergyártásra engedélyezett üzemben nem gyógyszernek minősülő készítmény gyártásához a NÉBIH engedélye szükséges.
 
-[^48]: Az 53. § (4) bekezdése a 33/2010. (IV. 7.) FVM rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^49]: Az 53. § (5) bekezdése a 33/2010. (IV. 7.) FVM rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^134]: Az 53. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 5. pontja szerint módosított szöveg.
+[^135]: Az 53. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. és 5. pontja szerint módosított szöveg.
+[^136]: Az 53. § (4) bekezdése a 33/2010. (IV. 7.) FVM rendelet 6. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 111. § 5. pontja szerint módosított szöveg.
+[^137]: Az 53. § (5) bekezdése a 33/2010. (IV. 7.) FVM rendelet 6. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.

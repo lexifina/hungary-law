@@ -50,9 +50,9 @@ Minőség-ellenőrzés
 
 15. A késztermékek értékesítésre vagy forgalmazásra bocsátása előtti végső ellenőrzése során az analitikai eredményeken felül a minőség-ellenőrzési részleg olyan lényeges információkat is figyelembe vesz, mint a gyártási körülmények, a gyártásközi ellenőrzések eredményei, a gyártási dokumentumok ellenőrzése és a készítmények előírásoknak való megfelelése (beleértve a végső, kész kiszerelést).
 
-16. A késztermékek egyes tételeiből vett mintákat a lejárati időt követő legalább egy évig meg kell őrizni. A végtermékek minőségi bizonylatait a felszabadítástól számított 5 évig, illetve ha ez az időtartam egybeesik a lejárati idővel, akkor még további egy évig meg kell őrizni. A felhasznált alapanyagokból az oldószerek és gázok kivételével mintát kell venni, és azt a készítmény forgalomba kerülése utáni 2 évig meg kell őrizni. (Amennyiben hosszabb időtartam van előírva a megőrzésre, úgy a mintákat ennek megfelelően kell megőrizni.) A mintákat az MgSzH Központ rendelkezésére kell bocsátani.
+16.[^324] A késztermékek egyes tételeiből vett mintákat a lejárati időt követő legalább egy évig meg kell őrizni. A végtermékek minőségi bizonylatait a felszabadítástól számított 5 évig, illetve ha ez az időtartam egybeesik a lejárati idővel, akkor még további egy évig meg kell őrizni. A felhasznált alapanyagokból az oldószerek és gázok kivételével mintát kell venni, és azt a készítmény forgalomba kerülése utáni 2 évig meg kell őrizni. (Amennyiben hosszabb időtartam van előírva a megőrzésre, úgy a mintákat ennek megfelelően kell megőrizni.) A mintákat a NÉBIH rendelkezésére kell bocsátani.
 
-Egyes egyedileg vagy kis mennyiségben gyártott állatgyógyászati készítmények esetében, vagy amennyiben azok tárolása különleges problémákat vethet fel, az MgSzH Központtal egyetértésben, eltérő mintavételezési és megőrzési feltételek határozhatók meg.
+Egyes egyedileg vagy kis mennyiségben gyártott állatgyógyászati készítmények esetében, vagy amennyiben azok tárolása különleges problémákat vethet fel, a NÉBIH-hel egyetértésben, eltérő mintavételezési és megőrzési feltételek határozhatók meg.
 
 Szerződésen alapuló gyártás
 
@@ -62,12 +62,16 @@ Szerződésen alapuló gyártás
 
 19. A megbízott a gyártás mások által történő elvégzésére kizárólag a megbízó írásos felhatalmazása alapján adhat megbízást.
 
-20. A megbízottnak be kell tartania a helyes gyógyszergyártási gyakorlatra vonatkozó alapelveket és iránymutatásokat, és lehetővé kell tennie az MgSzH Központ által végzett ellenőrzéseket.
+20.[^325] A megbízottnak be kell tartania a helyes gyógyszergyártási gyakorlatra vonatkozó alapelveket és iránymutatásokat, és lehetővé kell tennie a NÉBIH által végzett ellenőrzéseket.
 
 Panaszok és a termék visszahívása
 
-21. Az előállítónak a panaszok nyilvántartására, kivizsgálására, valamint a forgalomban lévő állatgyógyászati készítmények gyors és bármikor történő visszahívására szolgáló hatékony rendszert kell létrehoznia. Az előállítónak minden minőségi hibával kapcsolatos panaszt rögzítenie kell, és ki kell vizsgálnia. Az előállítónak értesítenie kell az MgSzH Központot minden olyan minőségi hibáról, amely a készítmény visszavonását, illetve a forgalmazás rendkívüli korlátozását eredményezheti. Amennyiben lehetséges, a rendeltetési országokat is meg kell jelölni.
+21.[^326] Az előállítónak a panaszok nyilvántartására, kivizsgálására, valamint a forgalomban lévő állatgyógyászati készítmények gyors és bármikor történő visszahívására szolgáló hatékony rendszert kell létrehoznia. Az előállítónak minden minőségi hibával kapcsolatos panaszt rögzítenie kell, és ki kell vizsgálnia. Az előállítónak értesítenie kell a NÉBIH-et minden olyan minőségi hibáról, amely a készítmény visszavonását, illetve a forgalmazás rendkívüli korlátozását eredményezheti. Amennyiben lehetséges, a rendeltetési országokat is meg kell jelölni.
 
 Önellenőrzés
 
 22. Az előállítónak – a minőségbiztosítási rendszer részeként – rendszeres önellenőrzést kell végeznie a helyes gyógyszergyártási gyakorlat alkalmazásának és betartásának ellenőrzésére, valamint az esetleg szükséges javító intézkedések megtétele érdekében. Az önellenőrzésekről és a további javító intézkedésekről feljegyzéseket kell vezetni.
+
+[^324]: A 7. számú melléklet 16. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 39. pontja szerint módosított szöveg.
+[^325]: A 7. számú melléklet 20. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^326]: A 7. számú melléklet 21. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja szerint módosított szöveg.

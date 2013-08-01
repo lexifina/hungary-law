@@ -14,11 +14,11 @@
 
 ## Az adminisztratív adatokhoz mellékelni kell annak a dokumentumnak a másolatát, amely igazolja, hogy a gyártó az érintett állatgyógyászati készítmény előállítására az 43. § szerinti vagy azzal egyenértékű engedéllyel rendelkezik, felsorolva azoknak az országoknak a nevét, ahol az engedélyt megadták, SPC-jének példányait a tagállamok által jóváhagyott formában, valamint azoknak az országoknak a listáját, ahová a kérelmet már beadták.
 
-## B. Termékjellemzők összefoglalója, címkézés és használati utasítás
+## B.[^306] Termékjellemzők összefoglalója, címkézés és használati utasítás
 
-## A kérelmező a 16. § szerint javaslatot terjeszt elő a készítmény jellemzőinek összefoglalásáról. Ezen kívül a kérelmező benyújtja az állatgyógyászati készítmény kiszerelési egységének, a csomagolásának, címkéjének és minden egyes kiszerelése csomagolási szövegének egy vagy több példányát a használati utasítással együtt. Mindemellett a kérelmezőnek be kell nyújtania az állatgyógyászati készítmény végleges kiszerelésének/kiszereléseinek egy vagy több mintapéldányát vagy modelljét az Európai Unió legalább egy hivatalos nyelvén. A modell fekete-fehérben és elektronikusan is benyújtható, ha megszerezték az MgSzH Központ ezzel kapcsolatos, előzetes beleegyezését.
+## A kérelmező a 16. § szerint javaslatot terjeszt elő a készítmény jellemzőinek összefoglalásáról. Ezen kívül a kérelmező benyújtja az állatgyógyászati készítmény kiszerelési egységének, a csomagolásának, címkéjének és minden egyes kiszerelése csomagolási szövegének egy vagy több példányát a használati utasítással együtt. Mindemellett a kérelmezőnek be kell nyújtania az állatgyógyászati készítmény végleges kiszerelésének/kiszereléseinek egy vagy több mintapéldányát vagy modelljét az Európai Unió legalább egy hivatalos nyelvén. A modell fekete-fehérben és elektronikusan is benyújtható, ha megszerezték a NÉBIH ezzel kapcsolatos, előzetes beleegyezését.
 
-## C. Részletes és kritikai összefoglalók
+## C.[^307] Részletes és kritikai összefoglalók
 
 ## A 12. §-sal összhangban részletes és kritikai összefoglalókat kell benyújtani a gyógyszerészeti (fizikai-kémiai, biológiai vagy mikrobiológiai) vizsgálatok, az ártalmatlansági vizsgálatok és maradékanyagokra vonatkozó vizsgálatok, a preklinikai és klinikai vizsgálatok, valamint az állatgyógyászati készítmény által a környezetre gyakorolt esetleges kockázatokat értékelő vizsgálatok eredményeiről.
 
@@ -30,15 +30,15 @@
 
 ## Ha a hatóanyagot egy, a GyR. 1. számú mellékletének követelményeivel összhangban emberi felhasználásra engedélyezett gyógyszer tartalmazza, akkor az említett melléklet 2.3. szakaszában szereplő 2. modulban előírt általános minőségi összefoglaló helyettesítheti a hatóanyaggal, illetve – adott esetben – a termékkel kapcsolatos dokumentációra vonatkozó összefoglalót.
 
-## Ha az MgSzH Központ nyilvánosan bejelentette, hogy a késztermékre vonatkozó kémiai, gyógyszerészeti és biológiai/mikrobiológiai adatok csak közös műszaki dokumentum (CTD) formátumban szerepelhetnek a dokumentációban, a gyógyszerészeti vizsgálatok eredményeire vonatkozó részletes és kritikai összefoglaló általános minőségi összefoglaló formájában is benyújtható.
+## Ha a NÉBIH nyilvánosan bejelentette, hogy a késztermékre vonatkozó kémiai, gyógyszerészeti és biológiai/mikrobiológiai adatok csak közös műszaki dokumentum (CTD) formátumban szerepelhetnek a dokumentációban, a gyógyszerészeti vizsgálatok eredményeire vonatkozó részletes és kritikai összefoglaló általános minőségi összefoglaló formájában is benyújtható.
 
-## Szűkebb piaci ágazatot képviselő állatfajokra és javallatokra irányuló kérelem esetében az általános minőségi összefoglaló formátuma az MgSzH Központ előzetes beleegyezése nélkül is használható.
+## Szűkebb piaci ágazatot képviselő állatfajokra és javallatokra irányuló kérelem esetében az általános minőségi összefoglaló formátuma a NÉBIH előzetes beleegyezése nélkül is használható.
 
 ## 2. RÉSZ
 
 ## GYÓGYSZERÉSZETI (FIZIKAI-KÉMIAI, BIOLÓGIAI VAGY MIKROBIOLÓGIAI ADATOK [MINŐSÉG])
 
-## I. Alapelvek és követelmények
+## I.[^308] Alapelvek és követelmények
 
 ## A forgalomba hozatali engedély iránti kérelemhez a 12. § (5) bekezdése j) pontjának értelmében mellékelendő adatokat és dokumentumokat az alábbi követelményekkel összhangban kell benyújtani.
 
@@ -48,13 +48,13 @@
 
 ## Valamennyi vizsgálati eljárás során teljesülnie kell a kiindulási anyagok és a késztermék minőségének elemzésére és ellenőrzésére vonatkozó követelményeknek, valamint figyelembe kell venni a megállapított iránymutatást és követelményeket. A validálási vizsgálatok eredményeit meg kell adni.
 
-## Az összes vizsgálati módszert kellő részletességgel le kell írni annak érdekében, hogy azokat az MgSzH Központ kérésére végzett ellenőrző vizsgálatok során meg lehessen ismételni. Minden speciális készüléket és berendezést, amelyet használni lehet, megfelelő részletességgel le kell írni, lehetőleg ábrát is mellékelve hozzá. A laboratóriumi reagensek kémiai képletét szükség esetén elkészítési módszerük leírásával is ki kell egészíteni. Az Európai Gyógyszerkönyvben vagy valamelyik tagállam gyógyszerkönyvében megtalálható vizsgálatok esetében ezt a leírást a szóban forgó gyógyszerkönyvre vonatkozó részletes hivatkozás is helyettesítheti.
+## Az összes vizsgálati módszert kellő részletességgel le kell írni annak érdekében, hogy azokat a NÉBIH kérésére végzett ellenőrző vizsgálatok során meg lehessen ismételni. Minden speciális készüléket és berendezést, amelyet használni lehet, megfelelő részletességgel le kell írni, lehetőleg ábrát is mellékelve hozzá. A laboratóriumi reagensek kémiai képletét szükség esetén elkészítési módszerük leírásával is ki kell egészíteni. Az Európai Gyógyszerkönyvben vagy valamelyik tagállam gyógyszerkönyvében megtalálható vizsgálatok esetében ezt a leírást a szóban forgó gyógyszerkönyvre vonatkozó részletes hivatkozás is helyettesítheti.
 
 ## Adott esetben az Európai Gyógyszerkönyv kémiai és biológiai referenciaanyagát kell használni. Más referenciakészítmények és szabványok alkalmazása esetén azokat azonosítani kell, és részletesen le kell írni.
 
 ## Ha a hatóanyagot egy, a GyR. 1. számú mellékletében szereplő követelményekkel összhangban emberi felhasználásra engedélyezett gyógyszer tartalmazza, akkor az említett mellékletben szereplő 3. modulban előírt kémiai, gyógyszerészeti és biológiai/mikrobiológiai adatok helyettesíthetik a hatóanyaggal, illetve – adott esetben – a termékkel kapcsolatos dokumentációt.
 
-## A hatóanyagra vagy a késztermékre vonatkozó kémiai, gyógyszerészeti és biológiai/mikrobiológiai adatokat a dokumentáció kizárólag CTD (közös műszaki dokumentum) formátumban is tartalmazhatja, ha az MgSzH Központ nyilvánosan bejelentette ezt a lehetőséget.
+## A hatóanyagra vagy a késztermékre vonatkozó kémiai, gyógyszerészeti és biológiai/mikrobiológiai adatokat a dokumentáció kizárólag CTD (közös műszaki dokumentum) formátumban is tartalmazhatja, ha a NÉBIH nyilvánosan bejelentette ezt a lehetőséget.
 
 ## A szűkebb piaci ágazatot képviselő állatfajokra és javallatokra irányuló kérelem esetén a CTD-formátum az illetékes hatóságok előzetes beleegyezése nélkül is alkalmazható.
 
@@ -142,11 +142,11 @@
 
 ## A meghatározott specifikációnak való megfelelés bizonyítása érdekében a kiindulási anyagokra vonatkozóan analitikai bizonyítványokat kell benyújtani.
 
-## 1.1. Hatóanyagok
+## 1.1.[^309] Hatóanyagok
 
 ## Minden egyes gyártó, valamint a hatóanyag gyártásában és vizsgálatában érintett valamennyi javasolt létesítmény vagy előállítási helyszín nevét, címét és felelősségét fel kell tüntetni.
 
-## A hatóanyagok egyértelmű meghatározása érdekében a hatóanyag gyártója vagy a kérelmező gondoskodhat arról, hogy a hatóanyag gyártója a következő információkat egy külön dokumentumban hatóanyag-törzsadatként közvetlenül az MgSzH Központnak benyújtsa:
+## A hatóanyagok egyértelmű meghatározása érdekében a hatóanyag gyártója vagy a kérelmező gondoskodhat arról, hogy a hatóanyag gyártója a következő információkat egy külön dokumentumban hatóanyag-törzsadatként közvetlenül a NÉBIH-nek benyújtsa:
 
 ## a) a gyártási folyamat részletes leírása;
 
@@ -166,7 +166,7 @@
 
 ## 4. A biotechnológiai állatgyógyászati készítmények esetében a molekuláris szerkezetre vonatkozó bizonyítéknak tartalmaznia kell a sematikus aminosav-szekvenciát és a relatív molekuláris tömeget.
 
-## 1.1.1. A gyógyszerkönyvben szereplő hatóanyagok
+## 1.1.1.[^310] A gyógyszerkönyvben szereplő hatóanyagok
 
 ## Az Európai Gyógyszerkönyv monográfiái alkalmazandók az abban szereplő összes anyagra.
 
@@ -178,9 +178,9 @@
 
 ## A kiindulási anyagok minden tételén elvégzett rutinvizsgálatoknak meg kell egyezniük a forgalomba hozatali engedély iránti kérelemben feltüntetettel. Ha a gyógyszerkönyvben nem szereplő vizsgálatokat használnak, bizonyítani kell, hogy a kiindulási anyagok megfelelnek a gyógyszerkönyv minőségi követelményeinek.
 
-## Ha az MgSzH Központ úgy ítéli meg, hogy az Európai Gyógyszerkönyv vagy a tagállami gyógyszerkönyvek monográfiáiban szereplő leírás nem elegendő az anyag minőségének biztosításához, a forgalomba hozatali engedély jogosultjától ennél részletesebb leírást kérhet.
+## Ha a NÉBIH úgy ítéli meg, hogy az Európai Gyógyszerkönyv vagy a tagállami gyógyszerkönyvek monográfiáiban szereplő leírás nem elegendő az anyag minőségének biztosításához, a forgalomba hozatali engedély jogosultjától ennél részletesebb leírást kérhet.
 
-## Az MgSzH Központ ez esetben tájékoztatja az érintett gyógyszerkönyvért felelős hatóságokat. A forgalomba hozatali engedély jogosultja ellátja a gyógyszerkönyvi hatóságot a vélelmezett hiányosságok részletes ismertetésével és az alkalmazott kiegészítő leírásokkal.
+## A NÉBIH ez esetben tájékoztatja az érintett gyógyszerkönyvért felelős hatóságokat. A forgalomba hozatali engedély jogosultja ellátja a gyógyszerkönyvi hatóságot a vélelmezett hiányosságok részletes ismertetésével és az alkalmazott kiegészítő leírásokkal.
 
 ## Olyan esetekben, ahol a kiindulási anyag sem az Európai Gyógyszerkönyvben, sem a tagállamok gyógyszerkönyveiben nem szerepel, elfogadható egy harmadik ország gyógyszerkönyvi monográfiájának való megfelelés. Ebben az esetben a kérelmezőnek be kell nyújtania a monográfia másolatát, a monográfiában szereplő vizsgálati módszerek validálását, szükség esetén a monográfiában szereplő vizsgálati módszerek validálását és a monográfia fordítását.
 
@@ -212,7 +212,7 @@
 
 ## c) hidratáltság,
 
-## d) víz/olaj megoszlási hányados, továbbá az MgSzH Központ a pH/pK-értéket is kérheti, ha véleménye szerint ez az információ lényeges.
+## d)[^311] víz/olaj megoszlási hányados, továbbá a NÉBIH a pH/pK-értéket is kérheti, ha véleménye szerint ez az információ lényeges.
 
 ## Az a)–c) pont előírásai nem vonatkoznak a kizárólag oldott formában használt anyagokra.
 
@@ -288,15 +288,15 @@
 
 ## Amennyiben az Európai Gyógyszerkönyvben vagy – ennek hiányában – valamely tagállam nemzeti gyógyszerkönyvében található általános cikkelyekben nem szereplő vizsgálati eljárásokat és minőségi követelményeket alkalmaznak, bizonyítani kell, hogy a késztermék, amennyiben ezeknek a cikkelyeknek megfelelően vizsgálnák, megfelelne az adott gyógyszerkönyvben az adott gyógyszerformára meghatározott minőségi követelményeknek.
 
-## 1. A készítmény (a késztermék) általános jellemzői
+## 1.[^312] A készítmény (a késztermék) általános jellemzői
 
 ## A készterméken elvégzett vizsgálatok közé mindig be kell iktatni egyes, a termék általános tulajdonságaira irányuló vizsgálatokat. Ezek a vizsgálatok megfelelő esetben az átlagos tömeg és az ettől való legnagyobb eltérés ellenőrzéséből, mechanikai, fizikai vagy mikrobiológiai vizsgálatokból, organoleptikai tulajdonságok, fizikai jellemzők, mint a sűrűség, pH-érték, refrakciós index stb. vizsgálatából állnak. A kérelmezőnek minden egyes esetben minden ilyen jellemzőre meg kell adnia a szabványos értéket, valamint a tűréshatárokat.
 
 ## A vizsgálatok körülményeinek és – szükség esetén – az alkalmazott műszereknek/készüléknek, valamint szabványoknak a leírása pontos részletekbe menően kötelező minden olyan esetben, amikor azok nem szerepelnek az Európai Gyógyszekönyvben vagy valamely tagállam nemzeti gyógyszerkönyvében. Ugyanez érvényes olyan esetekben, amikor a gyógyszerkönyvekben előírt hivatalos módszerek nem alkalmazhatók.
 
-## Ezen túlmenően a szájon át beadásra kerülő szilárd halmazállapotú gyógyszerformáknál in vitro vizsgálatokat kell végezni a bennük lévő hatóanyag vagy hatóanyagok felszabadulási és kioldódási sebességének meghatározására Ezeket a vizsgálatokat akkor is el kell végezni, ha az alkalmazás módja ugyan más, de az MgSzH Központ azt szükségesnek ítéli.
+## Ezen túlmenően a szájon át beadásra kerülő szilárd halmazállapotú gyógyszerformáknál in vitro vizsgálatokat kell végezni a bennük lévő hatóanyag vagy hatóanyagok felszabadulási és kioldódási sebességének meghatározására Ezeket a vizsgálatokat akkor is el kell végezni, ha az alkalmazás módja ugyan más, de a NÉBIH azt szükségesnek ítéli.
 
-## 2. A hatóanyagok azonosítása és meghatározása
+## 2.[^313] A hatóanyagok azonosítása és meghatározása
 
 ## A hatóanyagok azonosítását és meghatározását vagy egy üzemi gyártási tételből származó reprezentatív mintán vagy több adagolási egység egyedi analízisével kell elvégezni.
 
@@ -304,7 +304,7 @@
 
 ## A stabilitási vizsgálatok alapján a gyártónak javaslatot kell tennie a késztermék hatóanyag-tartalmának a felhasználhatósági időtartam végén is elfogadható határértékeire, és azt meg kell indokolnia.
 
-## Bizonyos kivételes esetekben, különlegesen összetett keverékeknél, ahol a nagy számban vagy igen kis mennyiségben jelen lévő hatóanyag kimutatására nehezen kivitelezhető, és emiatt bonyolult kimutatási módszerekre lenne szükség minden egyes gyártási tételnél, a késztermék egy vagy több hatóanyagának vizsgálatától el lehet tekinteni, azzal a kifejezett feltétellel, hogy ezek meghatározását a gyártásközi ellenőrzés során végzik el. Ezeknek az anyagoknak a jellemzését is el kell végezni. Ezt az egyszerűsített eljárást mennyiségi vizsgálati módszerrel kell kiegészíteni, amely az MgSzH Központ számára lehetővé teszi annak a megítélését, hogy az állatgyógyászati készítmény a forgalomba hozatal után is megfelel-e a követelményeknek, specifikációknak.
+## Bizonyos kivételes esetekben, különlegesen összetett keverékeknél, ahol a nagy számban vagy igen kis mennyiségben jelen lévő hatóanyag kimutatására nehezen kivitelezhető, és emiatt bonyolult kimutatási módszerekre lenne szükség minden egyes gyártási tételnél, a késztermék egy vagy több hatóanyagának vizsgálatától el lehet tekinteni, azzal a kifejezett feltétellel, hogy ezek meghatározását a gyártásközi ellenőrzés során végzik el. Ezeknek az anyagoknak a jellemzését is el kell végezni. Ezt az egyszerűsített eljárást mennyiségi vizsgálati módszerrel kell kiegészíteni, amely a NÉBIH számára lehetővé teszi annak a megítélését, hogy az állatgyógyászati készítmény a forgalomba hozatal után is megfelel-e a követelményeknek, specifikációknak.
 
 ## Egy in vivo vagy in vitro biológiai vizsgálat kötelező minden olyan esetben, amikor a fizikai-kémiai módszerek nem adnak megfelelő információt a termék minőségéről. Az ilyen vizsgálatnak – ha lehetséges – referenciaanyagokat és olyan statisztikai analízist kell tartalmaznia, amely lehetővé teszi a megbízhatósági határértékek kiszámolását. Ha ezeket a vizsgálatokat a késztermékkel nem lehet elvégezni, akkor azokra a gyártási folyamat minél későbbi közbülső szakaszában kell sort keríteni.
 
@@ -955,3 +955,12 @@
 ## Állandó összetételű készítmények esetén a kísérletet végzőnek következtetnie kell a termék ártalmatlanságára és hatékonyságára összehasonlítva azzal, amikor az abban lévő hatóanyagokat külön-külön alkalmazzák.
 
 3. számú melléklet a 128/2009. (X. 6.) FVM rendelethez
+
+[^306]: A 2. számú melléklet 1. rész B. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^307]: A 2. számú melléklet 1. rész C. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg. [E módosító rendelet 111. § 15. pontjával elrendelt módosítás, amely szerint az „az MgSzH Központhoz” szövegrész helyébe az „a NÉBIH-hez” szöveg lép, nem vezethető át.]
+[^308]: A 2. számú melléklet 2. rész I. fejezete a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^309]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 5. pontja szerint módosított szöveg. [E módosító rendelet 111. §-ának ugyanezen pontjával elrendelt módosítás, amely szerint a 3. bekezdésben az „az MgSzH Központnak” szövegrész helyébe az „a NÉBIH-nek” szöveg lép, nem vezethető át.]
+[^310]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^311]: A 2. számú melléklet 2. rész I. fejezet C. pont 1.1.3. alpont d) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^312]: A 2. számú melléklet 2. rész I. fejezet E. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^313]: A 2. számú melléklet 2. rész I. fejezet E. pont 2. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

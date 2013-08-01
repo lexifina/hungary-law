@@ -6,8 +6,10 @@ a) gondoskodni olyan rendszer kialakításáról és fenntartásáról, amely bi
 
 b) a 81. §-ban előírt bejelentés elkészítéséről gondoskodni,
 
-c) a 79. § (1) bekezdés szerinti bejelentés esetén az MgSzH Központ kérésére az adott gyógyszerkészítmény előny-kockázat viszony értékeléséhez szükséges kiegészítő információ teljes körű és azonnali szolgáltatására, beleértve az érintett állatgyógyászati készítményre vonatkozó értékesítési és rendelési információkat is,
+c)[^172] a 79. § (1) bekezdés szerinti bejelentés esetén a NÉBIH kérésére az adott gyógyszerkészítmény előny-kockázat viszony értékeléséhez szükséges kiegészítő információ teljes körű és azonnali szolgáltatására, beleértve az érintett állatgyógyászati készítményre vonatkozó értékesítési és rendelési információkat is,
 
 d) biztosítani minden egyéb, a rendszeres előny-kockázat viszony értékeléshez szükséges információt, beleértve a forgalomba hozatal után végzett gyógyszerbiztonsági vizsgálatokkal kapcsolatos megfelelő információkat is,
 
 e) a bejelentések adatait 5 évig megőrizni.
+
+[^172]: A 80. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

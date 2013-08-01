@@ -4,9 +4,9 @@
 
 ## ÉS BIRTOKLÁSA
 
-66. § (1) Állatgyógyászati készítményekkel, illetve azok hatóanyagával nagykereskedelmi tevékenységet folytatni csak azt követően lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban az MgSzH Központ szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárul.
+66. § (1)[^146] Állatgyógyászati készítményekkel, illetve azok hatóanyagával nagykereskedelmi tevékenységet folytatni csak azt követően lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban a NÉBIH szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárul.
 
-(2)[^51] Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza. Azok a nagykereskedők, akiknek a tevékenysége kizárólag közvetítő kereskedelemre korlátozódik,
+(2)[^147] Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza. Azok a nagykereskedők, akiknek a tevékenysége kizárólag közvetítő kereskedelemre korlátozódik,
 
 a) mentesülnek a Helyes Nagykereskedelmi Gyakorlat által támasztott különleges követelmények teljesítése alól,
 
@@ -36,7 +36,7 @@ h) a forgalomból való kivonás végrehajtásának módját, és
 
 j) a minőségi kifogások és a feltételezett mellékhatások bejelentéseinek kezeléséért felelős személy nevét.
 
-(4) Az MgSzH Központ szakhatósági állásfoglalását a telephelyen tartott helyszíni ellenőrzés és a dokumentáció értékelése alapján adja meg. A szakhatósági állásfoglalás másolatát az MgSzH Központ megküldi az MgSzH tevékenység telephelye szerint illetékes területi szervének. A szakhatósági állásfoglalás másolatát elektronikus úton is meg lehet küldeni.
+(4)[^148] A NÉBIH szakhatósági állásfoglalását a telephelyen tartott helyszíni ellenőrzés és a dokumentáció értékelése alapján adja meg. A szakhatósági állásfoglalás másolatát a NÉBIH megküldi a tevékenység telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak. A szakhatósági állásfoglalás másolatát elektronikus úton is meg lehet küldeni.
 
 (5) Ha a nagykereskedő átcsomagolást is végez, illetve használati utasítást mellékel állatgyógyászati készítményhez, a gyártóhelyre vonatkozó megfelelő követelmények is vonatkoznak rá, és az adott tevékenységre gyógyszergyártási engedéllyel kell rendelkeznie.
 
@@ -44,4 +44,6 @@ j) a minőségi kifogások és a feltételezett mellékhatások bejelentéseinek
 
 (7) A szakhatósági állásfoglalásban foglaltaktól az engedély módosítását követően lehet eltérni.
 
-[^51]: A 66. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^146]: A 66. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
+[^147]: A 66. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^148]: A 66. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2., 3. és 20. pontja szerint módosított szöveg.

@@ -34,23 +34,23 @@ ca) SPC-jét,
 
 cb) használati utasítását,
 
-cc)[^33] címkéjét.
+cc)[^63] címkéjét.
 
-cd)[^34]
+cd)[^64]
 
-(2) A forgalmazás megkezdésének feltétele a forgalomba hozatali engedélynek megfelelő nyomdai végleg-minta MgSzH Központ részére történő előzetes benyújtása.
+(2)[^65] A forgalmazás megkezdésének feltétele a forgalomba hozatali engedélynek megfelelő nyomdai végleg-minta NÉBIH részére történő előzetes benyújtása.
 
-(3) Az MgSzH Központ megvizsgálja, hogy az állatgyógyászati készítményre vonatkozó minden információ, különösen a címke, a használati utasítás és a nyomdai végleg-minta összhangban legyen a forgalomba hozatali engedélyhez tartozó mindenkori legfrissebb jóváhagyott SPC-ben foglaltakkal.
+(3)[^66] A NÉBIH megvizsgálja, hogy az állatgyógyászati készítményre vonatkozó minden információ, különösen a címke, a használati utasítás és a nyomdai végleg-minta összhangban legyen a forgalomba hozatali engedélyhez tartozó mindenkori legfrissebb jóváhagyott SPC-ben foglaltakkal.
 
-(4) Az MgSzH Központ az engedélyezett készítmények forgalomba hozatali engedélyét, jóváhagyott SPC-jét, használati utasítását és nyomdai végleg-mintáját nyilvánosan hozzáférhetővé teszi honlapján.
+(4)[^67] A NÉBIH az engedélyezett készítmények forgalomba hozatali engedélyét, jóváhagyott SPC-jét, használati utasítását és nyomdai végleg-mintáját nyilvánosan hozzáférhetővé teszi honlapján.
 
-(5) Az MgSzH Központ értékelő jelentését az állatgyógyászati készítmény dokumentációjában szereplő gyógyszerészeti, ártalmatlansági és maradékanyag vizsgálatok, valamint a preklinikai és klinikai vizsgálatok eredményei alapján állítja össze, és ha a készítmény minőségének, ártalmatlanságának vagy hatékonyságának megítélése szempontjából új adatokról értesül, azt haladéktalanul frissíti.
+(5)[^68] A NÉBIH értékelő jelentését az állatgyógyászati készítmény dokumentációjában szereplő gyógyszerészeti, ártalmatlansági és maradékanyag vizsgálatok, valamint a preklinikai és klinikai vizsgálatok eredményei alapján állítja össze, és ha a készítmény minőségének, ártalmatlanságának vagy hatékonyságának megítélése szempontjából új adatokról értesül, azt haladéktalanul frissíti.
 
-(6) Az MgSzH Központ az általa kiadott értékelő jelentéseket és azok indoklását – az üzleti szempontból bizalmas jellegű információk törlését követően – nyilvánosan hozzáférhetővé teszi honlapján.
+(6)[^69] A NÉBIH az általa kiadott értékelő jelentéseket és azok indoklását – az üzleti szempontból bizalmas jellegű információk törlését követően – nyilvánosan hozzáférhetővé teszi honlapján.
 
-(7) Az MgSzH Központ törzskönyvet vezet a hazai forgalomba hozatalra engedélyezett állatgyógyászati készítmények adatairól. A törzskönyvbe való bejegyzés során az állatgyógyászati készítmény olyan törzskönyvi számot kap, amely lehetővé teszi az egyes gyógyszerformák, hatáserősség és a kiszerelési egység azonosítását.
+(7)[^70] A NÉBIH törzskönyvet vezet a hazai forgalomba hozatalra engedélyezett állatgyógyászati készítmények adatairól. A törzskönyvbe való bejegyzés során az állatgyógyászati készítmény olyan törzskönyvi számot kap, amely lehetővé teszi az egyes gyógyszerformák, hatáserősség és a kiszerelési egység azonosítását.
 
-(8) Az MgSzH Központ a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) hivatalos lapjában közzéteszi a forgalomba hozatalra engedélyezett és a törzskönyvbe bejegyzett állatgyógyászati készítmény következő adatait:
+(8)[^71] A NÉBIH a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) hivatalos lapjában közzéteszi a forgalomba hozatalra engedélyezett és a törzskönyvbe bejegyzett állatgyógyászati készítmény következő adatait:
 
 a) az engedélyes megnevezése,
 
@@ -64,7 +64,15 @@ e) törzskönyvi száma,
 
 f) forgalomba hozatali engedély száma.
 
-(9) Az MgSzH Központ a minisztérium hivatalos lapjában évente legalább négy alkalommal közzéteszi a törzskönyvből törölt állatgyógyászati készítmények körét és adatait, valamint a törlés időpontját. A közleményt az MgSzH Központ honlapján is közzéteszi.
+(9)[^72] A NÉBIH a minisztérium hivatalos lapjában évente legalább négy alkalommal közzéteszi a törzskönyvből törölt állatgyógyászati készítmények körét és adatait, valamint a törlés időpontját. A közleményt a NÉBIH honlapján is közzéteszi.
 
-[^33]: A 26. § (1) bekezdés c) pont cc) alpontja a 33/2010. (IV. 7.) FVM rendelet 12. § b) pontja szerint módosított szöveg.
-[^34]: A 26. § (1) bekezdés c) pont cd) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § c) pontja hatályon kívül helyezte.
+[^63]: A 26. § (1) bekezdés c) pont cc) alpontja a 33/2010. (IV. 7.) FVM rendelet 12. § b) pontja szerint módosított szöveg.
+[^64]: A 26. § (1) bekezdés c) pont cd) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § c) pontja hatályon kívül helyezte.
+[^65]: A 26. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 11. pontja szerint módosított szöveg.
+[^66]: A 26. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^67]: A 26. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^68]: A 26. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^69]: A 26. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^70]: A 26. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^71]: A 26. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 12. pontja szerint módosított szöveg.
+[^72]: A 26. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 3. pontja szerint módosított szöveg.

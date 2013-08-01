@@ -1,8 +1,8 @@
 ## Az állati vérkészítmények előállításának és forgalmazásának hatósági ellenőrzése
 
-21/E. § (1)[^31] Az állati vérkészítmények előállítását az MgSzH Központ és az MgSzH területi szerve, az állati vérkészítmények forgalmazását az MgSzH Központ vagy a járási állategészségügyi hivatal ellenőrzi.
+21/E. § (1)[^51] Az állati vérkészítmények előállítását a NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, az állati vérkészítmények forgalmazását a NÉBIH vagy a járási állategészségügyi hivatal ellenőrzi.
 
-(2) Az ellenőrzés során az MgSzH képviselője jogosult:
+(2)[^52] Az ellenőrzés során a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság képviselője jogosult:
 
 a) az Éltv. 44. §-a szerinti intézkedéseket foganatosítani, továbbá
 
@@ -10,10 +10,12 @@ b) minőségi vagy jelölési hiba, vagy annak megalapozott gyanúja esetén a f
 
 c) állategészségügyi vagy közegészségügyi veszély, illetve minőségi hiba esetén a készletnek a megsemmisítését elrendelni.
 
-(3) A készítmény előállítását, illetve forgalomba hozatalát az MgSzH Központ megtiltja, és a készítmény forgalomból való országos kivonását rendeli el, ha megállapítja, hogy
+(3)[^53] A készítmény előállítását, illetve forgalomba hozatalát a NÉBIH megtiltja, és a készítmény forgalomból való országos kivonását rendeli el, ha megállapítja, hogy
 
 a) a jogszabályi előírások megszegése súlyosan veszélyezteti a közegészségügy, illetve az állategészségügy érdekeit,
 
 b) a forgalomba hozatal feltételei már nem állnak fel.
 
-[^31]: A 21/E. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja szerint módosított szöveg.
+[^51]: A 21/E. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 8. pontja szerint módosított szöveg.
+[^52]: A 21/E. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 9. pontja szerint módosított szöveg.
+[^53]: A 21/E. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

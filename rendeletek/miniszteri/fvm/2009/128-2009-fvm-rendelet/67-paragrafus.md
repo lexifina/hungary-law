@@ -12,4 +12,6 @@ e) a beszállító vagy vevő nevét és címét.
 
 (2) A nagykereskedő legalább évente egyszer köteles a bevételezésekről és kiadásokról, valamint a raktáron lévő készletekről készítményenként, gyártási tételek szerinti bontásban teljes körű leltárt végrehajtani és ennek tapasztalatait jegyzőkönyvben rögzíteni. A jegyzőkönyvet és nyilvántartásokat helyszíni ellenőrzés, illetve ellenőrzés céljára 5 évig meg kell őrizni.
 
-(3) A nagykereskedőnek közegészségügyi, illetve állategészségügyi veszély esetére tervvel kell rendelkeznie, amely biztosítja az MgSzH Központ által az Éltv. 34. §-a (4) bekezdés i) pontjával összhangban elrendelt bármely termék-visszahívási művelet hatékony végrehajtását.
+(3)[^149] A nagykereskedőnek közegészségügyi, illetve állategészségügyi veszély esetére tervvel kell rendelkeznie, amely biztosítja a NÉBIH által az Éltv. 34. §-a (4) bekezdés i) pontjával összhangban elrendelt bármely termék-visszahívási művelet hatékony végrehajtását.
+
+[^149]: A 67. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
