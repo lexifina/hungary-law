@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-7-00-00
 | 2012-03-01 | 2012. évi VII. törvény | 2012-7-00-00.0 (közlönyállapot) |
 | 2012-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-7-00-00.1 |
 | 2012-03-02 | 2010. évi CXXX. törvény | 2012-7-00-00.2 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 2012-7-00-00.3 |
