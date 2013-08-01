@@ -30,6 +30,6 @@ c) a (2) bekezdés c) pontjában említett rácsszerkezettel egyenértékű az a
 
 áttörésbiztos fokozattal rendelkezik.
 
-(5)[^2] A minősített adat nyílt tárolása esetén a helyszín az (1)–(4) bekezdésben meghatározottakon túl, fizikai biztonsági intézkedések keretében a biztonsági terület határán kialakított bejárathoz telepített beléptető rendszer mellett a 34. § szerinti személyes felügyelettel, vagy legalább a 27. § (3) bekezdésében meghatározott elektronikai jelzőrendszerrel és füstérzékelővel, valamint legalább a 28. § (5) bekezdésében előírt reagáló erő alkalmazásával biztosított.
+(5)[^3] A minősített adat nyílt tárolása esetén a helyszín az (1)–(4) bekezdésben meghatározottakon túl, fizikai biztonsági intézkedések keretében a biztonsági terület határán kialakított bejárathoz telepített beléptető rendszer mellett a 34. § szerinti személyes felügyelettel, vagy legalább a 27. § (3) bekezdésében meghatározott elektronikai jelzőrendszerrel és füstérzékelővel, valamint legalább a 28. § (5) bekezdésében előírt reagáló erő alkalmazásával biztosított.
 
-[^2]: A 19. § (5) bekezdése a 92/2010. (III. 31.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 19. § (5) bekezdése a 92/2010. (III. 31.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.

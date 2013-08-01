@@ -6,4 +6,6 @@
 
 (4) A (3) bekezdés szerinti kezdeményezés a kérelmező vezetéknevét, utónevét, születési helyét, születési idejét, állampolgárságát, a munkáltató és a munkakör megnevezését, a megismerni kívánt adatfajta minősítési szintjét tartalmazó adattartalmú, a Miniszterelnöki Hivatal és a Nemzeti Biztonsági Felügyelet honlapján közzétett adatlap kitöltésével történik.
 
-(5) A személyi biztonsági tanúsítvány kiadásához – kivéve azon esetet, amikor a nemzetbiztonsági szolgálatokról szóló törvény alapján a Nemzeti Biztonsági Felügyelet elnöke a kezdeményező – a minősített adatot kezelő szerv biztonsági vezetője a (2) és (4) bekezdésben hivatkozott adatlapot a nemzetbiztonsági szolgálatokról szóló törvény 72. § (1) bekezdésében meghatározott szakvélemény másolatával együtt megküldi a Nemzeti Biztonsági Felügyelet részére.
+(5)[^1] A személyi biztonsági tanúsítvány kiadásához – kivéve azon esetet, amikor a nemzetbiztonsági szolgálatokról szóló törvény alapján a Nemzeti Biztonsági Felügyelet elnöke a kezdeményező – a minősített adatot kezelő szerv biztonsági vezetője a (2) és (4) bekezdésben hivatkozott adatlapot a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott hozzájárulás vagy szakvélemény másolatával együtt megküldi a Nemzeti Biztonsági Felügyelet részére.
+
+[^1]: A 11. § (5) bekezdése a 303/2013. (VII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.

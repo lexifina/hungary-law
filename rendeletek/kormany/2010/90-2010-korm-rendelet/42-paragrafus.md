@@ -32,6 +32,6 @@ c) a külső kézbesítő könyv vagy futárjegyzék.
 
 (5) Minősített adatok kezelése – nemzeti, valamint NATO, NYEU, EU forrásonként elkülönítve – külön iratkezelési segédletben történik. Az egy ügyben egyszerre kezelt nemzeti, valamint NATO, NYEU, EU vagy EU intézményei minősített adatai egy – a NATO, a NYEU, az EU vagy az EU intézményei minősített adatai tekintetében megnyitott – iratkezelési segédletben is kezelhetők.
 
-(6)[^3] A főnyilvántartó könyv és az iktatókönyv nem selejtezhető. A minősített adatot kezelő szerv a belső átadókönyvet vagy más belső átadóokmányt, a külső kézbesítő könyvet, a futárjegyzéket a Büntető Törvénykönyvről szóló 1978. évi IV. törvény szerinti visszaélés szigorúan titkos és titkos minősítésű adattal, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés bűncselekményre meghatározott büntetési tétel felső határának megfelelő ideig őrzi.
+(6)[^4] A főnyilvántartó könyv és az iktatókönyv nem selejtezhető. A minősített adatot kezelő szerv a belső átadókönyvet vagy más belső átadóokmányt, a külső kézbesítő könyvet, a futárjegyzéket a Büntető Törvénykönyvről szóló 1978. évi IV. törvény szerinti visszaélés szigorúan titkos és titkos minősítésű adattal, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés bűncselekményre meghatározott büntetési tétel felső határának megfelelő ideig őrzi.
 
-[^3]: A 42. § (6) bekezdése a 172/2013. (V. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^4]: A 42. § (6) bekezdése a 172/2013. (V. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
