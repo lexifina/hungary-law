@@ -12,7 +12,7 @@
 
 5.[^3] köztartozásmentes adózói adatbázis: az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerinti adatbázis,
 
-6.[^4] közszféra szervezet: a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdés a)–f) pontja alapján ajánlatkérőnek minősülő szervezet, valamint a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyház és belső egyházi jogi személy,
+6.[^4] közszféra szervezet: a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdés a)–f) pontja alapján ajánlatkérőnek minősülő szervezet, valamint a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy,
 
 7. önerő: a megvalósítandó projekt elszámolható költségeinek az európai uniós és hazai forrásból finanszírozott költségvetési támogatáson felüli része,
 
@@ -28,5 +28,5 @@
 
 [^2]: A 2. § (1) bekezdés 2. pontja a 42/2013 (II. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés 5. pontja a 42/2013. (II. 18.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés 6. pontja a 42/2013 (II. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 6. pontja a 42/2013 (II. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 297/2013. (VII. 29.) Korm. rendelet 83. §-a szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés 11. pontja a 42/2013. (II. 18.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
