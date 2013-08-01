@@ -10,7 +10,7 @@
 
 a) a népesség demográfiai változását, lakásszükségletét,
 
-b) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint a civil szervezetek, egyházak működési feltételeinek lehetőségeire,
+b) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint a civil szervezetek, az egyházi jogi személyek működési feltételeinek lehetőségeire,
 
 c) a helyi népesség identitásának erősítését, kulturális örökségük sokféleségének és gazdagságának megőrzését,
 
