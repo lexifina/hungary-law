@@ -10,7 +10,7 @@ d) a képviselt közösség érdekképviseletével, esélyegyenlőségének megt
 
 e) a nemzetiségi önkormányzat illetékességi területén működő állami, helyi önkormányzati vagy más szerv által fenntartott intézmények működésével, feladatellátásával összefüggő, a nemzetiségi közösség kulturális autonómiája megerősítését szolgáló döntési, együttdöntési jogok gyakorlása,
 
-f) a képviselt közösség kulturális autonómiájának megerősítése érdekében a közösség önszerveződésének szervezési és működtetési feladatok ellátásával történő támogatása, kapcsolattartás a képviselt közösség helyi nemzetiségi civil szervezeteivel, szerveződéseivel, helyi egyházi szervezetekkel,
+f) a képviselt közösség kulturális autonómiájának megerősítése érdekében a közösség önszerveződésének szervezési és működtetési feladatok ellátásával történő támogatása, kapcsolattartás a képviselt közösség helyi nemzetiségi civil szervezeteivel, szerveződéseivel, a helyi nemzetiségi önkormányzat területén működő vallási közösségekkel,
 
 g) a nemzetiségi önkormányzat illetékességi területén lévő, a nemzetiségi közösséghez kötődő kulturális javak megőrzése érdekében szükséges intézkedések kezdeményezése,
 

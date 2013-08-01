@@ -42,7 +42,7 @@ nemzetiségi lakosság rendszeres vagy alkalmi közművelődési tevékenységé
 
 alapító okirata, illetve tevékenysége szerint részben vagy egészben egy vagy több nemzetiség anyanyelvén, illetve más nyelveken az adott közösség szellemi, épített és tárgyi emlékeire, hagyományaira, kultúrájára, történelmére, nyelvére, intézményeire, társadalmi viszonyaira vonatkozó adatok gyűjtésével, tudományos értékű feldolgozásával és közzétételével foglakozó intézete, vagy műhelye, tekintet nélkül annak szervezet-típusára;
 
-7. nemzetiség szellemi és vallási öröksége: az adott nemzetiség identitásához kötődő jelen- vagy múltbeli nyelvi, folklór, öntevékeny-, illetve hivatásos előadó-művészeti, hitéleti, egyházi, alkotóművészeti (különösen irodalmi, képző- és iparművészeti) hagyományainak összessége;
+7. nemzetiség szellemi és vallási öröksége: az adott nemzetiség identitásához kötődő jelen- vagy múltbeli nyelvi, folklór, öntevékeny-, illetve hivatásos előadó-művészeti, hitéleti, alkotóművészeti (különösen irodalmi, képző- és iparművészeti) hagyományainak összessége;
 
 8. nemzetiség épített és tárgyi öröksége:
 

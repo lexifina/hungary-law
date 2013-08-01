@@ -6,4 +6,4 @@ b) a nemzetiségek könyvkiadását és időszaki kiadványainak megjelentetés�
 
 c) a törvényeknek és közérdekű közleményeknek a nemzetiségek anyanyelvén történő ismertetését;
 
-d) a nemzetiség családi eseményeihez kapcsolódó egyházi szertartások anyanyelven történő lebonyolítását, illetve az egyházaknak a nemzetiség anyanyelvén végzett vallási tevékenységét.
+d) a nemzetiség családi eseményeihez kapcsolódó, vallási közösség által végzett szertartások anyanyelven történő lebonyolítását, illetve a vallási közösségeknek a nemzetiség anyanyelvén végzett vallási tevékenységét.

@@ -16,6 +16,6 @@ c) a Magyar Államkincstár honlapján közzétett 2012. októberi igénylő ada
 
 (6) Az előleg megállapításakor nem kell a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit alkalmazni.
 
-(7) A (4)–(6) bekezdésben nem szabályozott kérdésekben a humán szolgáltatást ellátó egyházi intézményekre vonatkozó finanszírozási szabályokat kell alkalmazni.
+(7) A (4)–(6) bekezdésben nem szabályozott kérdésekben az egyházi jogi személyre vonatkozó finanszírozási szabályokat kell alkalmazni.
 
 (8)–(17)

@@ -16,4 +16,4 @@ b) az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel b�
 
 (7) Ha a nemzetiségi önkormányzat megszűnik, a fenntartói jogot a székhely szerinti fővárosi és megyei kormányhivatal köteles gyakorolni, addig az időpontig, ameddig az új nemzetiségi önkormányzat megalakul.
 
-(8) A 24. § (1) bekezdés, a 25. § (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén az átadóval, az (5) bekezdés esetén az oktatásért felelős miniszterrel megkötött köznevelési szerződést a felek a köznevelésről szóló törvény – egyházi intézményekre vonatkozó – szabályai szerinti tartalommal kötik meg.
+(8) A 24. § (1) bekezdés, a 25. § (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén az átadóval, az (5) bekezdés esetén az oktatásért felelős miniszterrel megkötött köznevelési szerződést a felek a köznevelésről szóló törvénynek az egyházi köznevelési intézményre vonatkozó szabályai szerinti tartalommal kötik meg.
