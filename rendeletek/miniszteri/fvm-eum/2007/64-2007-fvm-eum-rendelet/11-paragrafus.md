@@ -1,6 +1,6 @@
-11. §[^14] (1)[^15] A 4. §, a 7. § (1) bekezdésének b) pontja és a 9. § szerinti kiskereskedelmi létesítmény köteles írásban bejelenteni e rendelet szerinti tevékenységét a Mezőgazdasági Szakigazgatási Hivatalnak (a továbbiakban: MgSzH), amely azt nyilvántartásba veszi.
+11. §[^14] (1)[^15] A 4. §, a 7. § (1) bekezdésének b) pontja és a 9. § szerinti kiskereskedelmi létesítmény köteles írásban bejelenteni e rendelet szerinti tevékenységét a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága, amely azt nyilvántartásba veszi.
 
 (2) A nyilvántartásba vételről kapott határozatot a telephelyen kell tartani és azt hatósági ellenőrzés során az ellenőrző hatóság kérésére be kell mutatni.
 
 [^14]: A 11. § a 42/2009. (IV. 11.) FVM rendelet 6. §-ával megállapított szöveg. A 11. §-t megelőző alcímet e módosító rendelet 7. § (2) bekezdése hatályon kívül helyezte.
-[^15]: A 11. § (1) bekezdése az 57/2010. (V. 7.) FVM rendelet 26. § (3) bekezdésével megállapított szöveg. E módosító rendelet 24. § (2) bekezdése alapján a 2010. július 1. napját követően indult ügyekben kell alkalmazni.
+[^15]: A 11. § (1) bekezdése az 57/2010. (V. 7.) FVM rendelet 26. § (3) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 66. §-a szerint módosított szöveg.
