@@ -6,4 +6,4 @@ a) a miniszter részére javaslatot tesz, felkérésre véleményez, elemzést, 
 
 b) az adott betegséggel, betegségcsoporttal összefüggésben érdekképviseletet lát el,
 
-c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a civil, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, az egyházakkal, valamint az alapítványokkal.
+c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a civil, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, a vallási közösségekkel, valamint az alapítványokkal.
