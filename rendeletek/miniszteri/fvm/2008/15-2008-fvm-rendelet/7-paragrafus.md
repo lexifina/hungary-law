@@ -1,12 +1,12 @@
 ## A termékek ellenőrzése
 
-7. §[^16] (1) Az Európai Unió által hagyományos különleges termékként elismert termékeknek (a továbbiakban: hagyományos különleges termék) az 509/2006/EK tanácsi rendelet 14. és 15. cikke szerinti ellenőrzését
+7. §[^17] (1) Az Európai Unió által hagyományos különleges termékként elismert termékeknek (a továbbiakban: hagyományos különleges termék) az 509/2006/EK tanácsi rendelet 14. és 15. cikke szerinti ellenőrzését
 
-a) az 509/2006/EK tanácsi rendelet 1. cikk (1) bekezdésének a) pontjában hivatkozott Szerződés I. melléklete szerinti borok és más erjesztett italok esetében az MgSzH Központja,
+a)[^18] az 509/2006/EK tanácsi rendelet 1. cikk (1) bekezdésének a) pontjában hivatkozott Szerződés I. melléklete szerinti borok és más erjesztett italok esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) és a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság),
 
-b) zöldség-gyümölcs esetében az MgSzH Központja és területi szervei,
+b)[^19] zöldség-gyümölcs esetében a NÉBIH és a megyei kormányhivatal növény- és talajvédelmi igazgatósága,
 
-c)[^17] egyéb élelmiszerek esetében a járási állategészségügyi és élelmiszer-ellenőrző hivatal
+c)[^20] egyéb élelmiszerek esetében a járási állategészségügyi és élelmiszer-ellenőrző hivatal
 
 [az a)–c) pont szerinti hatóság a továbbiakban együtt: ellenőrző hatóság] végzi.
 
@@ -18,5 +18,7 @@ c)[^17] egyéb élelmiszerek esetében a járási állategészségügyi és éle
 
 (5) Az 509/2006/EK tanácsi rendelet 17. cikkében foglalt, a fogyasztók félrevezetésére vonatkozó tilalmak a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
-[^16]: A 7. § a 62/2010. (V. 11.) FVM rendelet 1. §-ával megállapított szöveg.
-[^17]: A 7. § (1) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 27. §-a szerint módosított szöveg.
+[^17]: A 7. § a 62/2010. (V. 11.) FVM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 7. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 87. § b) pontja szerint módosított szöveg.
+[^19]: A 7. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 87. § c) pontja szerint módosított szöveg.
+[^20]: A 7. § (1) bekezdés c) pontja a 151/2012. (XII. 29.) VM rendelet 27. §-a szerint módosított szöveg.
