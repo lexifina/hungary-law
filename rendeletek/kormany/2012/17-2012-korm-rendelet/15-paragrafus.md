@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-15–16. §[^5]
+15–16. §[^6]
 
 Melléklet a 17/2012. (II. 16.) Korm. rendelethez
 
@@ -224,4 +224,4 @@ c) a Magyar Építészek Szövetsége (1 fő),
 
 d) a Magyar Építész Kamara (1 fő).
 
-[^5]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

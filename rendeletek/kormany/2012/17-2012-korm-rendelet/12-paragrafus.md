@@ -64,7 +64,7 @@ g) véleményével segíti a kultúráért felelős minisztert a világöröksé
 
 h) javaslatot tesz a kultúráért felelős miniszternek a kiemelkedő egyetemes (kulturális örökségi, illetve természeti) értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programokra és azok végrehajtására;
 
-i) együttműködik a feladatai ellátása során az állami és önkormányzati szervekkel, egyházakkal, társadalmi és egyéb szervezetekkel, természetes személyekkel;
+i)[^3] együttműködik a feladatai ellátása során az állami és önkormányzati szervekkel, vallási közösségekkel, társadalmi és egyéb szervezetekkel, természetes személyekkel;
 
 j) közreműködik a kultúráért felelős miniszter világörökségi helyszínekkel – különösen a határon átnyúló közös világörökségi helyszínekkel – kapcsolatos nemzetközi együttműködési kötelezettségeinek teljesítésében, valamint
 
@@ -77,3 +77,4 @@ k) a kultúráért felelős miniszter kérelmére bármely egyéb az 1985. évi 
 (10) A szakbizottság titkársági feladatainak ellátásáért a mellékletben az adott szakbizottság szerint meghatározott feladat- és hatáskörrel rendelkező miniszter, a Szellemi Kulturális Örökség Szakbizottság és a Világörökség Szakbizottság esetében a kultúráért felelős miniszter felel.
 
 [^2]: A 12. § (4) bekezdése a 407/2012. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^3]: A 12. § (7) bekezdés i) pontja a 297/2013. (VII. 29.) Korm. rendelet 75. §-a szerint módosított szöveg.
