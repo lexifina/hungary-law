@@ -2,6 +2,8 @@
 
 37/B. § (1) A hivatásos állományba jelentkező életvitelét a hivatásos állományba vétel előtt, a rendvédelmi oktatási intézmény ösztöndíjas hallgatójának, valamint tanulójának életvitelét a hallgatói, tanulói jogviszony létesítése előtt, továbbá a hivatásos állomány tagja és az ösztöndíjas hallgató, valamint a tanuló életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati viszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
 
+(1a) A jelentkező, valamint a hivatásos állomány tagja életvitelének ellenőrzésére nem kerül sor, ha a jelentkező a tervezett beosztása, illetve a hivatásos állomány tagja a beosztása alapján külön törvény szerint nemzetbiztonsági ellenőrzés alá eső személynek minősül.
+
 (2) Hivatásos szolgálati viszony a 37. § (1) bekezdésében meghatározott feltételeken túl akkor létesíthető, vagy az 56. § (6) és (6a) bekezdésében meghatározottakra figyelemmel tartható fenn, ha a hivatásos állomány tagja vagy a hivatásos állományba jelentkező
 
 a) írásban hozzájárul a 7. számú mellékletben meghatározott személyes adatai és bűnügyi személyes adatai kezeléséhez,

@@ -47,13 +47,3 @@ III.*
 3. szakmai tapasztalat
 
 4. beosztás
-
-5. besorolás
-
-6. feladatkör/munkakör megnevezése, célja
-
-7. feladatkörhöz/munkakörhöz tartozó főbb feladatok
-
-8. a megszűnés módja
-
-IV.

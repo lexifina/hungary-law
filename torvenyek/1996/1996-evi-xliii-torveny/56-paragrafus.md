@@ -14,7 +14,7 @@ e) a meghatározott – negyedévnél nem rövidebb – értékelési időszakra
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
-a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján, illetve – ha ez feltétel – nemzetbiztonsági szempontból beosztásának ellátására alkalmatlanná vált,
+a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján beosztásának ellátására alkalmatlanná vált,
 
 b) a hivatásos szolgálatra alkalmatlanná vált, mert
 
@@ -28,7 +28,9 @@ d) megsérti a 18. § (2) bekezdés rendelkezéseit;
 
 e) a hivatásos szolgálatra méltatlanná vált, mert olyan cselekményt követett el, amely a fegyveres szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a fegyveres szerv a szolgálati viszonyát fenntartsa,
 
-f) a 44. § (3a) vagy (4) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő beosztás nem biztosítható.
+f) a 44. § (3a) vagy (4) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő beosztás nem biztosítható,
+
+g) a nemzetbiztonsági ellenőrzést végző szerv a szolgálati viszony létrehozására vonatkozó hozzájárulását visszavonta és a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati viszony fenntartását nem hagyta jóvá.
 
 (3)
 

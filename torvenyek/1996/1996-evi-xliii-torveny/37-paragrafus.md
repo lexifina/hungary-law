@@ -10,9 +10,15 @@ c) aki elfogadja egyes alkotmányos jogainak e törvény szerinti korlátozásá
 
 d) aki tudomásul veszi, hogy szolgálati viszonya fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – törvényben meghatározott szerveknél és módon – ellenőrizhetik (a továbbiakban: megbízhatósági vizsgálat),
 
-e) aki hozzájárul a jogszabályokban meghatározott szintű nemzetbiztonsági ellenőrzéséhez, ha az a beosztása ellátásához szükséges.
+e)
 
-(2)–(3)
+(2) Az (1) bekezdésben írt feltételeknek megfelelő olyan személlyel, aki tervezett beosztása alapján külön törvény szerint nemzetbiztonsági ellenőrzés alá eső személynek minősül, hivatásos szolgálati viszony akkor létesíthető, ha a nemzetbiztonsági ellenőrzést végző szerv a hivatásos szolgálati viszony létesítéséhez
+
+a) hozzájárult vagy
+
+b) a hozzájárulást megtagadta, de a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati viszony létesítését jóváhagyta.
+
+(3) A (2) bekezdésben meghatározott esetben a nemzetbiztonsági ellenőrzéssel egyidejűleg a kifogástalan életvitel ellenőrzésére nem kerül sor.
 
 (4) A szolgálati viszony létesítéséhez szükséges, az (1) bekezdésben meghatározott adatokat és tényeket a jelentkezőnek igazolnia kell.
 
