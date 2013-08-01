@@ -17,3 +17,10 @@ b) véleményezi az NKE által a megvalósított közszolgálati továbbképzés
 c) véleményezi a személyügyi központ által az éves továbbképzési tervek végrehajtásáról elkészített jelentést;
 
 d) dönt a továbbképzési programok programjegyzékébe való nyilvántartásba vételéről vagy törléséről.
+
+(5)[^3] A KTK feladatainak ellátását a KTK Titkársága segíti. A KTK Titkársága a KTK ügyrendje alapján a KTK üléseinek előkészítésével, lebonyolításával, valamint dokumentálásával kapcsolatos döntés-előkészítési és adminisztratív feladatokat látja el.
+
+(6)[^4] A KTK Titkárság feladatait a Nemzeti Közszolgálati Egyetem Vezető és Továbbképzési Intézete látja el.
+
+[^3]: A 4. § (5) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 4. § (6) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.

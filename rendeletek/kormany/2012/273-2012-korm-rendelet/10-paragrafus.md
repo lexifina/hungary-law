@@ -2,6 +2,6 @@
 
 ## A továbbképzési időszak kezdete, tartama
 
-10. §[^4]
+10. §[^7]
 
-[^4]: A 10. § a 25. § (3) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^7]: A 10. § a 25. § (3) bekezdése alapján 2014. január 1-jén lép hatályba.

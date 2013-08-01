@@ -26,4 +26,8 @@ cd) a továbbképzési programok minőségügyi követelményeinek biztosítása
 
 d) tervszerűen és rendszeresen gondoskodik a továbbképzések során közreműködő oktatók és vizsgáztatók szakmai, oktatás-módszertani és felnőtt-oktatói továbbképzéséről;
 
-e) működteti a továbbképzési programok minősítésének rendszerét.
+e) működteti a továbbképzési programok minősítésének rendszerét;
+
+f)[^5] Vezető és Továbbképzési Intézetén keresztül ellátja a KTK titkársági feladatait.
+
+[^5]: A 6. § f) pontját a 298/2013. (VII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
