@@ -18,7 +18,7 @@
 
 | E-mail: |  |
 
-| A 141/2003. (IX. 9.) Korm. rendelet szerinti ügyfél-regisztrációs szám: |
+| A 2007. évi XVII. törvény 28. §-a szerinti ügyfél-regisztrációs szám: |
 
 | Felelős kapcsolattartó adatai (amennyiben a termelő adataitól eltérő) |
 
