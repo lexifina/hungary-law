@@ -2,6 +2,8 @@
 
 2. § (1) A Korm. r. 17. § (1) bekezdésében meghatározott földhasználati lap másolat díja oldalanként 800 Ft.
 
-(2) A díj 90%-a a megyei földhivatal – ideértve a Fővárosi Földhivatalt is (a továbbiakban együtt: megyei földhivatal) –, 10%-a a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) bevételét képezi.
+(2)[^1] A díj 90%-a a fővárosi és megyei kormányhivatal földhivatala (a továbbiakban: megyei földhivatal), 10%-a a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) bevételét képezi.
 
 (3) A díjat annak kell megfizetnie, aki a földhasználati lap másolat szolgáltatását kéri, illetve amely szerv az erre irányuló megkeresést előterjeszti.
+
+[^1]: A 2. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 113. § a) pontja szerint módosított szöveg.
