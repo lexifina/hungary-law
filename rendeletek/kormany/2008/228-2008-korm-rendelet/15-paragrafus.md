@@ -1,10 +1,10 @@
-15. § (1)[^37] A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezetnek gondoskodnia kell a projektrészek megvalósításának helyszíni ellenőrzéséről.
+15. § (1)[^39] A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezetnek gondoskodnia kell a projektrészek megvalósításának helyszíni ellenőrzéséről.
 
-(2)[^38] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem haladja meg a 200 ezer eurót, a projektrész befejezése és a hazai partner által benyújtott záró jelentés elfogadása között legalább egy helyszíni ellenőrzést le kell folytatni. Ezen felül a helyszíni ellenőrzést akkor is le kell folytatni, ha azt a kockázatelemzés eredménye indokolja.
+(2)[^40] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem haladja meg a 200 ezer eurót, a projektrész befejezése és a hazai partner által benyújtott záró jelentés elfogadása között legalább egy helyszíni ellenőrzést le kell folytatni. Ezen felül a helyszíni ellenőrzést akkor is le kell folytatni, ha azt a kockázatelemzés eredménye indokolja.
 
-(3)[^39] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem éri el az 1 millió eurót, de meghaladja a 200 ezer eurót, a (2) bekezdés szerinti helyszíni ellenőrzéseken felül a projektrész megvalósítása során legalább egy alkalommal kell helyszíni ellenőrzést lefolytatni.
+(3)[^41] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem éri el az 1 millió eurót, de meghaladja a 200 ezer eurót, a (2) bekezdés szerinti helyszíni ellenőrzéseken felül a projektrész megvalósítása során legalább egy alkalommal kell helyszíni ellenőrzést lefolytatni.
 
-(4)[^40] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege eléri, vagy meghaladja az 1 millió eurót, a (2) bekezdés szerinti helyszíni ellenőrzéseken felül a hitelesítési tevékenységre kijelölt szervezet a projektrészt minden, a hazai partner által benyújtott jelentés elfogadása előtt a helyszínen ellenőrzi, de ettől eltekinthet, ha a hazai partner által benyújtott jelentés elfogadása előtti 12 hónapban már történt helyszíni ellenőrzés.
+(4)[^42] Amennyiben a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege eléri, vagy meghaladja az 1 millió eurót, a (2) bekezdés szerinti helyszíni ellenőrzéseken felül a hitelesítési tevékenységre kijelölt szervezet a projektrészt minden, a hazai partner által benyújtott jelentés elfogadása előtt a helyszínen ellenőrzi, de ettől eltekinthet, ha a hazai partner által benyújtott jelentés elfogadása előtti 12 hónapban már történt helyszíni ellenőrzés.
 
 (5) A helyszíni ellenőrzések során ellenőrizni kell különösen:
 
@@ -38,7 +38,7 @@ b) a hitelesítési tevékenységre kijelölt szervezet ellenőrzi, hogy a partn
 
 c) a partner szintű hitelesítési nyilatkozatok alapján, a hitelesítési tevékenységre kijelölt szervezet projekt szintű hitelesítési nyilatkozatot állít ki a Kedvezményezett részére a Bizottság 951/2007/EK rendeletének 23. cikkébe foglalt rendelkezéseknek megfelelő formai követelmények szerint a projekt szintű költségek igazolására.
 
-[^37]: A 15. § (1) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 57. §-ával megállapított szöveg.
-[^38]: A 15. § (2) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^39]: A 15. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^40]: A 15. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^39]: A 15. § (1) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^40]: A 15. § (2) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^41]: A 15. § (3) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^42]: A 15. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 5. §-ával megállapított szöveg.

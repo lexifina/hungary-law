@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-228-20-
 | 2010-04-29 | 2008-228-20-22.4 | 137/2010. (IV. 28.) Korm. rendelet |
 | 2011-01-01 | 2008-228-20-22.5 | 370/2010. (XII. 31.) Korm. rendelet |
 | 2012-01-01 | 2008-228-20-22.6 | 160/2009. (VIII. 3.) Korm. rendelet |
+| 2013-08-01 | 2008-228-20-22.7 | 297/2013. (VII. 29.) Korm. rendelet |

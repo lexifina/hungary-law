@@ -24,23 +24,23 @@ c) garanciabiztosítási szerződés alapján kiállított kötelezvény,
 
 d) bankgarancia,
 
-e) egyházi intézmény részére az intézményt fenntartó egyház, vagy annak illetékes szervezeti egysége által vállalt készfizető kezesség.
+e)[^30] belső egyházi jogi személy esetében a bevett egyház vagy a belső egyházi jogi személy közvetlen felettes szerve által vállalt készfizető kezesség.
 
-(8)[^30] A hazai társfinanszírozási szerződés egyéb tartalmi követelményeit a nemzeti hatóság határozza meg és hagyja jóvá.
+(8)[^31] A hazai társfinanszírozási szerződés egyéb tartalmi követelményeit a nemzeti hatóság határozza meg és hagyja jóvá.
 
-(9)[^31] Az Ámr. 113. § (3) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
+(9)[^32] Az Ámr. 113. § (3) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
 
-(10)[^32] A közösségi támogatásra jóváhagyott projektek hazai partnereivel a hazai társfinanszírozási szerződés megkötésének további feltétele az Ámr. 145. § (1) bekezdésében foglaltak teljesítése.
+(10)[^33] A közösségi támogatásra jóváhagyott projektek hazai partnereivel a hazai társfinanszírozási szerződés megkötésének további feltétele az Ámr. 145. § (1) bekezdésében foglaltak teljesítése.
 
-(11)[^33] A szükséges jogerős hatósági engedélyek, hatásvizsgálathoz kötött tevékenység esetén a környezetvédelmi engedély hiányában a közösségi finanszírozásra jóváhagyott projekt hazai partnerével a hazai társfinanszírozási szerződés abban esetben köthető meg, ha a projektrész az előkészítéstől kezdve a megvalósításon keresztül egy beruházás teljes egészét magába foglalja, és a hazai partner kötelezettséget vállal arra, hogy a szükséges engedélyeket a projektrész megvalósítása során beszerzi.
+(11)[^34] A szükséges jogerős hatósági engedélyek, hatásvizsgálathoz kötött tevékenység esetén a környezetvédelmi engedély hiányában a közösségi finanszírozásra jóváhagyott projekt hazai partnerével a hazai társfinanszírozási szerződés abban esetben köthető meg, ha a projektrész az előkészítéstől kezdve a megvalósításon keresztül egy beruházás teljes egészét magába foglalja, és a hazai partner kötelezettséget vállal arra, hogy a szükséges engedélyeket a projektrész megvalósítása során beszerzi.
 
-(12)[^34] A (7) bekezdés b)–e) pontja alapján nyújtott biztosíték értékének el kell érnie a hazai partner számára a projekt keretében nyújtandó közösségi hozzájárulás és a hazai társfinanszírozás összegét.
+(12)[^35] A (7) bekezdés b)–e) pontja alapján nyújtott biztosíték értékének el kell érnie a hazai partner számára a projekt keretében nyújtandó közösségi hozzájárulás és a hazai társfinanszírozás összegét.
 
-(13)[^35] Nem köteles a (7) bekezdés szerinti biztosítékot nyújtani
+(13)[^36] Nem köteles a (7) bekezdés szerinti biztosítékot nyújtani
 
 a) a központi költségvetési szerv,
 
-b) az egyház és intézménye, ha a támogatás az egyház (egyházi intézmény) olyan közfeladat-ellátásával kapcsolatos, amelyre tekintettel normatív költségvetési támogatásra jogosult,
+b)[^37] az egyházi jogi személy, ha a támogatás az általa végezett olyan tevékenységével kapcsolatos, amelyre tekintettel normatív támogatásra jogosult,
 
 c) a helyi önkormányzat, a helyi kisebbségi önkormányzat, a többcélú kistérségi társulás, az önkormányzatok egyéb társulása, ha
 
@@ -54,9 +54,11 @@ d) a Nemzeti Hatóság döntése alapján az állami többségű tulajdonban lé
 [^27]: A 12. § (4) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
 [^28]: A 12. § (6) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
 [^29]: A 12. § (7) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^30]: A 12. § (8) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
-[^31]: A 12. § (9) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
-[^32]: A 12. § (10) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
-[^33]: A 12. § (11) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
-[^34]: A 12. § (12) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^35]: A 12. § (13) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^30]: A 12. § (7) bekezdés e) pontja a 297/2013. (VII. 29.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^31]: A 12. § (8) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
+[^32]: A 12. § (9) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^33]: A 12. § (10) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^34]: A 12. § (11) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
+[^35]: A 12. § (12) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^36]: A 12. § (13) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^37]: A 12. § (13) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 48. § (2) bekezdésével megállapított szöveg.
