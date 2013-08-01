@@ -12,7 +12,7 @@ b) a számára elérhető támogatások fajtáiról és az igénylés feltétele
 
 c) az e törvényben biztosított támogatásokon kívül igénybe vehető egyéb ellátásokról, juttatásokról, jogérvényesítési lehetőségekről,
 
-d) az áldozatsegítésben részt vevő állami, önkormányzati, civil és egyházi szervezetek elérhetőségéről,
+d) az áldozatsegítésben részt vevő állami, önkormányzati, civil szervezetek és a vallási közösségek elérhetőségéről,
 
 e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
 
