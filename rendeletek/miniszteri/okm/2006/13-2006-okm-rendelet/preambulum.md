@@ -1,1 +1,0 @@
-A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. §-ának (3) bekezdésében (a továbbiakban: Nbtv.) foglalt felhatalmazás alapján – a Miniszterelnöki Hivatalt vezető miniszterrel egyetértésben – a következőket rendelem el:
