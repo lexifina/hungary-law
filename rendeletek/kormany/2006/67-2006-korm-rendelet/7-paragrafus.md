@@ -130,7 +130,7 @@ szülője, (3)
 
 testvére, (4)
 
-| illetve a(z) |  | egyházmegye/szerzetesrend képviselője. (5) |
+| illetve a(z) |  | Egyházi jogi személy elöljárója képviselője. (5) |
 
 Figyelem: Aki több hozzátartozója életének elvesztése miatt nyújtja be kárpótlási igényét, annak hozzátartozónként külön adatlapot kell benyújtania.
 
@@ -172,7 +172,7 @@ c) a gyermek: saját születési anyakönyvi kivonata
 
 d) a testvér: a sérelmet szenvedett és a saját születési anyakönyvi kivonata
 
-e) egyházmegye/szerzetesrend: a sérelmet szenvedett egyházi személy voltát igazoló okmány.
+e) egyházi jogi személy elöljárója: a sérelmet szenvedett egyházi személy voltát igazoló okmány.
 
 2. Valamennyi igénylő esetében: a sérelmet szenvedett halálát tanúsító okmány, igazolás.(Halotti anyakönyvi kivonat, holttá nyilvánító végzés)
 
@@ -336,7 +336,7 @@ IV. Igénybejelentés egyösszegű kárpótlása az élet elvesztéséért
 
 36. rovat: A megfelelő rész aláhúzásával szíveskedjék válaszolni attól függően, hogy hozzátartozója életelvesztésének mi volt az oka.
 
-37. rovat: A megfelelő részt aláhúzva kell megjelölni, hogy az igénylő az életét vesztett személynek milyen hozzátartozója. Az utolsó sort a házassági tilalom alá eső egyházi személy esetén kell kitölteni, meg kell nevezni azt az egyházmegyét, illetve szerzetesrendet, ahol a sérelmet elszenvedő utoljára szolgálatot teljesített, illetőleg rendtag volt.
+37. rovat: A megfelelő részt aláhúzva kell megjelölni, hogy az igénylő az életét vesztett személynek milyen hozzátartozója. Az utolsó sort a házassági tilalom alá eső egyházi személy esetén kell kitölteni, meg kell nevezni azt az egyházi jogi személy elöljáróját, ahol a sérelmet elszenvedő utoljára szolgálatot teljesített, illetőleg rendtag volt.
 
 38–41. rovat: Az előző rovatban érintett, az igénylőn kívül még a sérelmet szenvedett 1997. június 7-én még élő hozzátartozóinak számát kell beírni.
 
@@ -365,4 +365,4 @@ Az adatlap végén minden esetben szükséges a nyilatkozat aláírása, amellye
 Az adatlappal együtt benyújtott okiratokat eredetiben vagy hiteles másolatban kell csatolni.
 
 [^14]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 456. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A melléklet a 182/2009. (IX. 10.) Korm. rendelet 456. §-a, a 297/2013. (VII. 29.) Korm. rendelet 31. §-a szerint módosított szöveg.
