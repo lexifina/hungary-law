@@ -7,5 +7,3 @@ a) 7. §-át és 52/B. §-át azokban a folyamatban lévő végrehajtási eljár
 b) 103. § (8) bekezdését azokban a folyamatban lévő végrehajtási eljárásokban kell alkalmazni, amelyekben a Módtv. hatálybalépését követően történik a gépjármű lefoglalása,
 
 c) 233. § (2) bekezdés h) pontját a Módtv. hatálybalépését követően kiírt álláspályázatok elbírálása során kell alkalmazni,
-
-d) 267. § (1) bekezdés e) pontját és 267. § (2) bekezdés e) pontját a Módtv. hatálybalépését követően elkövetett fegyelmi vétség miatt indult végrehajtói fegyelmi eljárásokban kell alkalmazni.
