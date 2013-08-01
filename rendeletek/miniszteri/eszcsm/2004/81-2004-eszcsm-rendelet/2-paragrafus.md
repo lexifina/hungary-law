@@ -2,7 +2,7 @@
 
 ## A képzésre vonatkozó általános szabályok
 
-2. § (1)[^1] A képzés térítésköteles. A képzést a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) szervezi.
+2. § (1)[^2] A képzés térítésköteles. A képzést a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) szervezi.
 
 (2) A képzés a szociális ágazat irányítását végző miniszter által jóváhagyott oktatási program (a továbbiakban: oktatási program) alapján történik.
 
@@ -20,4 +20,4 @@ e) a képzésben résztvevő oktatóknak az Intézet által évente szervezett s
 
 (4) A (3) bekezdésben foglalt képzési megállapodás érvényességéhez a szociális ágazat irányítását végző minisztérium (a továbbiakban: minisztérium) jóváhagyása szükséges.
 
-[^1]: A 2. § (1) bekezdése a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 24/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 24/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.

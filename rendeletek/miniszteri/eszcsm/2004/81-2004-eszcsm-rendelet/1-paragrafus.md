@@ -24,8 +24,6 @@ da) a közösségi koordinátor,
 
 db) a közösségi gondozó,
 
-e) az utcai szociális munka vonatkozásában:
+e)[^1]
 
-ea) az utcai szociális koordinátor,
-
-eb) az utcai szociális gondozó
+[^1]: Az 1. § e) pontját az 55/2013. (VII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte.

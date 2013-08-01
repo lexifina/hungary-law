@@ -14,7 +14,7 @@
 
 ## Értesítési cím, telefonszám:
 
-## 2. A képzések közül az alábbira jelentkezem[^*:]
+## 2. A képzések közül az alábbira jelentkezem*:
 
 ## □ adósságkezelési tanácsadó képzés
 
@@ -30,9 +30,7 @@
 
 ## □ közösségi gondozó képzés
 
-## □ utcai szociális munkás képzés
-
-## □ utcai szociális gondozó képzés
+## * A Jelentkezési laphoz mellékelni kell a választott képzésnek megfelelő munkakör a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SzCsM rendeletben foglalt képesítési előírásainak teljesítését igazoló dokumentumok másolatát.
 
 ## 3. A képzést az alábbi képzőhelyen kívánom elvégezni:
 
@@ -52,5 +50,4 @@
 
 2. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^11]
 
-[^*:]: A Jelentkezési laphoz mellékelni kell a választott képzésnek megfelelő munkakör 1/2000. (I. 7.) SZCSM rendeletben foglalt képesítési előírásainak teljesítését igazoló dokumentumok másolatát.
 [^11]: A 2. számú melléklete a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 24/2010. (XII. 30.) NEFMI rendelet 9. §-a szerint módosított szöveg.
