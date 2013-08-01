@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-174-20-
 | --- | --- | --- |
 | 2009-10-01 | 1992-174-20-22.4 | 174/1992. (XII. 29.) Korm. rendelet |
 | 2012-01-01 | 1992-174-20-22.5 | 349/2011. (XII. 30.) Korm. rendelet |
+| 2013-08-01 | 1992-174-20-22.6 | 305/2013. (VII. 31.) Korm. rendelet |

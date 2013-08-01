@@ -10,4 +10,7 @@
 
 (3) Az e rendelettel nem szabályozott kérdésekben a 93/1990. (XI. 21.) Korm. rendeletben foglaltakat kell megfelelően alkalmazni.
 
+(4)[^6] E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 305/2013. (VII. 31.) Korm. rendelettel megállapított 2. §-ában meghatározott emelés összege 2013. január 1-jétől illeti meg a jogosultakat. Az emelést a 2013. szeptember havi ellátás összegére kell végrehajtani. Az emelés visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83. § (2) bekezdésében meghatározott személy részére folyósítja.
+
 [^5]: A 4/A. §-t a 349/2011. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^6]: Az 5. § (4) bekezdését a 305/2013. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
