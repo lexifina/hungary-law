@@ -4,7 +4,7 @@
 
 (2) A törvény rendelkezéseit alkalmazni kell
 
-a) azoknak az egyházaknak, felekezeteknek és vallási közösségeknek (a továbbiakban együtt: egyház), települési önkormányzatoknak, nemzetiségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
+a) azoknak a vallási közösségeknek, települési önkormányzatoknak, nemzetiségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
 
 b) a temető és temetkezési emlékhely fenntartását, üzemeltetését, valamint temetkezési szolgáltatási tevékenységet végző természetes és jogi személyeknek, illetőleg annak, akire nézve e tevékenységek során jogok keletkeznek, és kötelezettségek hárulnak.
 

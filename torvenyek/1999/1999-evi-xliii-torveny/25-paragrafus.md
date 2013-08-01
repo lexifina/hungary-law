@@ -32,4 +32,4 @@ m) az újratemetés.
 
 (2) A temetkezési szolgáltatási tevékenységek teljeskörűen vagy önállóan is végezhetők (a továbbiakban együtt: temetkezési szolgáltatás).
 
-(3) Az egyházi szertartás szerinti búcsúztatás e törvény értelmében nem minősül temetkezési szolgáltatásnak.
+(3) A vallási közösség által végzett vallásos szertartás szerinti búcsúztatás e törvény értelmében nem minősül temetkezési szolgáltatásnak.

@@ -1,6 +1,6 @@
 ## A temetés
 
-19. § (1) Az eltemetés módja szerint a temetés hamvasztással vagy elhamvasztás nélkül történik, egyházi vagy világi szertartás szerint.
+19. § (1) Az eltemetés módja szerint a temetés hamvasztással vagy hamvasztás nélkül történik.
 
 (2) Az eltemetés módjára és helyére nézve az elhunyt életében tett rendelkezése az irányadó, amennyiben ez nem ró az eltemettető személyére aránytalanul nagy terhet.
 

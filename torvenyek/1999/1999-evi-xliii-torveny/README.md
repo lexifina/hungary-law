@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-43-00-00
 | 2012-04-15 | 2012. évi XXXI. törvény | 1999-43-00-00.13 |
 | 2012-05-15 | 2012. évi XXXI. törvény | 1999-43-00-00.14 |
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 1999-43-00-00.15 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 1999-43-00-00.16 |
