@@ -12,15 +12,15 @@ e) „Impleálási napló”,
 
 f) „Sterilezési napló”,
 
-g)[^49]
+g)[^61]
 
 h) „Belső minőségellenőrzési napló”,
 
 i) „Nyilvántartás a forgalmazás megszüntetéséről, felfüggesztéséről”, valamint
 
-j)[^50] Közforgalmú gyógyszertár fokozottan ellenőrzött szer nyilvántartó lapja,
+j)[^62] Közforgalmú gyógyszertár fokozottan ellenőrzött szer nyilvántartó lapja,
 
-k)[^51] „Hőmérséklet ellenőrzési napló”
+k)[^63] „Hőmérséklet ellenőrzési napló”
 
 ## vezetése kötelező.
 
@@ -86,11 +86,11 @@ a) a sorszámot,
 
 b) a sterilezés dátumát,
 
-c)[^52] a sterilezett anyag, eszköz megnevezését,
+c)[^64] a sterilezett anyag, eszköz megnevezését,
 
-d)[^53] a sterilezett anyag gyártási vagy vizsgálati számát,
+d)[^65] a sterilezett anyag gyártási vagy vizsgálati számát,
 
-e)[^54] a sterilezett anyag mennyiségét, a sterilezett eszköz darabszámát,
+e)[^66] a sterilezett anyag mennyiségét, a sterilezett eszköz darabszámát,
 
 f) a sterilezés kezdetét és végét rögzítő időpontokat (óra, perc),
 
@@ -100,23 +100,23 @@ h) a sterilezést végző aláírását, valamint
 
 i) a sterilizáló készülék(ek) azonosítóját.
 
-(9)[^55]
+(9)[^67]
 
 (10) A „Belső minőségellenőrzési napló” a gyógyszertári szakmai munka ellenőrzésére szolgáló nyilvántartás, mely tartalmazza:
 
-a)[^56] az ellenőrzött szakszemély nevét,
+a)[^68] az ellenőrzött szakszemély nevét,
 
-b)[^57]
+b)[^69]
 
 c) a vizsgálat megnevezését, idejét, eredményét, valamint
 
 d) a vizsgáló gyógyszerész aláírását.
 
-(11)[^58] „A Nyilvántartás a forgalmazás megszüntetéséről, felfüggesztéséről” a GYEMSZI honlapján közzétett döntések végrehajtásának dokumentumait tartalmazza.
+(11)[^70] „A Nyilvántartás a forgalmazás megszüntetéséről, felfüggesztéséről” a GYEMSZI honlapján közzétett döntések végrehajtásának dokumentumait tartalmazza.
 
 (12) Fokozottan ellenőrzött szerek nyilvántartásánál az e szerek gyógyszertárba történő beérkezésének és kiadásának eljárásrendjét, valamint a szükséges nyilvántartások vezetését meghatározó külön jogszabályban foglaltak szerint kell eljárni.
 
-(13)[^59] A „Hőmérséklet ellenőrzési napló” a hideg vagy hűvös helyen, továbbá a mélyhűtőben tartandó gyógyszerkészítmények eltartását biztosító hűtőszekrények és/vagy helyiségek hőmérsékletének ellenőrzésére szolgáló nyilvántartás, amely tartalmazza
+(13)[^71] A „Hőmérséklet ellenőrzési napló” a hideg vagy hűvös helyen, továbbá a mélyhűtőben tartandó gyógyszerkészítmények eltartását biztosító hűtőszekrények és/vagy helyiségek hőmérsékletének ellenőrzésére szolgáló nyilvántartás, amely tartalmazza
 
 a) a hűtőszekrény vagy helyiség elnevezését, azonosítóját,
 
@@ -128,20 +128,20 @@ d) a leolvasott hőmérsékletet, valamint
 
 e) az ellenőrzést végző aláírását.
 
-(14)[^60]
+(14)[^72]
 
-(15)[^61] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletnek megfelelően rendelt, Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a gyógyszertár által kiszolgáltatott gyógyszerekről nyilvántartást vezet.
+(15)[^73] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletnek megfelelően rendelt, Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a gyógyszertár által kiszolgáltatott gyógyszerekről nyilvántartást vezet.
 
-[^49]: A 18. § (1) bekezdés g) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^50]: A 18. § (1) bekezdés j) pontja a 31/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^51]: A 18. § (1) bekezdés k) pontját az 56/2009. (XII. 30.) EüM rendelet 11. § (1) bekezdése iktatta be.
-[^52]: A 18. § (8) bekezdés c) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^53]: A 18. § (8) bekezdés d) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^54]: A 18. § (8) bekezdés e) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^55]: A 18. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^56]: A 18. § (10) bekezdés a) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^57]: A 18. § (10) bekezdés b) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^58]: A 18. § (11) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 29. § b) pontja szerint módosított szöveg.
-[^59]: A 18. § (13) bekezdését az 56/2009. (XII. 30.) EüM rendelet 11. § (4) bekezdése iktatta be.
-[^60]: A 18. § (14) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a.
-[^61]: A 18. § (15) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be.
+[^61]: A 18. § (1) bekezdés g) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^62]: A 18. § (1) bekezdés j) pontja a 31/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^63]: A 18. § (1) bekezdés k) pontját az 56/2009. (XII. 30.) EüM rendelet 11. § (1) bekezdése iktatta be.
+[^64]: A 18. § (8) bekezdés c) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^65]: A 18. § (8) bekezdés d) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^66]: A 18. § (8) bekezdés e) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^67]: A 18. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^68]: A 18. § (10) bekezdés a) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^69]: A 18. § (10) bekezdés b) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^70]: A 18. § (11) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 29. § b) pontja szerint módosított szöveg.
+[^71]: A 18. § (13) bekezdését az 56/2009. (XII. 30.) EüM rendelet 11. § (4) bekezdése iktatta be.
+[^72]: A 18. § (14) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a.
+[^73]: A 18. § (15) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be.

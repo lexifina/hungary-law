@@ -14,9 +14,9 @@ ac) gyógyszeranyagok esetében a Gyógyszerkönyvben
 
 b) rendszeresen ellenőrizni kell a felhasználhatósági időtartamot;
 
-c)[^30] gondoskodni kell a lejárt, a selejt és a forgalomból kivont gyógyszerek jelöléssel ellátott és elkülönített tárolásáról.
+c)[^31] gondoskodni kell a lejárt, a selejt és a forgalomból kivont gyógyszerek jelöléssel ellátott és elkülönített tárolásáról.
 
-(3)[^31] A gyógyszertárban forgalmazott egyéb termékeket a gyógyszerektől elkülönítetten, a termék csomagolásán feltüntetett előírások szerint kell tárolni.
+(3)[^32] A gyógyszertárban forgalmazott egyéb termékeket a gyógyszerektől elkülönítetten, a termék csomagolásán feltüntetett előírások szerint kell tárolni.
 
-[^30]: A 9. § (2) bekezdés c) pontja a 31/2010. (XII. 30.) NEFMI rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^31]: A 9. § (3) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^31]: A 9. § (2) bekezdés c) pontja a 31/2010. (XII. 30.) NEFMI rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^32]: A 9. § (3) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdésével megállapított szöveg.

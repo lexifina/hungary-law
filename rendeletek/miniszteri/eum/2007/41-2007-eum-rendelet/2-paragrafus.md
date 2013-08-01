@@ -28,7 +28,7 @@ l) impleálás: gyógyszereknek a gyógyszertári állványedényekbe, táraedé
 
 m)[^6] magisztrális gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-ának 2. pontja szerinti gyógyszer;
 
-n)[^7] gyógyszerészi gondozás: a Gyftv. 3. § y) pontja szerinti tevékenység.
+n)[^7] gyógyszerészi gondozás: a Gyftv. 3. § 26. pontja szerinti tevékenység.
 
 (2)[^8] Az építészeti fogalmak tekintetében – ha e jogszabály eltérő meghatározást nem tartalmaz – az épített környezetről szóló külön jogszabályokban foglalt értelmező rendelkezéseket kell alkalmazni.
 
@@ -38,5 +38,5 @@ n)[^7] gyógyszerészi gondozás: a Gyftv. 3. § y) pontja szerinti tevékenysé
 [^4]: A 2. § (1) bekezdés e) pontja az 56/2009. (XII. 30.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés f) pontja az 56/2009. (XII. 30.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés m) pontja az 56/2009. (XII. 30.) EüM rendelet 24. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdés n) pontját az 56/2009. (XII. 30.) EüM rendelet 1. § (3) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés n) pontját az 56/2009. (XII. 30.) EüM rendelet 1. § (3) bekezdése iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 35. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdése az 56/2009. (XII. 30.) EüM rendelet 1. § (4) bekezdésével megállapított szöveg.

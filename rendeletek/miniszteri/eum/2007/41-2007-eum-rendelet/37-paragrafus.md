@@ -6,13 +6,12 @@
 
 (3) Az e rendelet hatálybalépését megelőző napon érvényes működési engedéllyel rendelkező intézeti és fiókgyógyszertáraknak az e rendelet szerinti feltételeknek 2007. december 1-jéig kell megfelelniük.
 
-(4)[^99]
+(4)[^117]
 
-(5)[^100] A közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet és a gyógyszertárban forgalmazható, valamint kötelezően készletben tartandó termékekről szóló 2/2008. (I. 8.) EüM rendelet módosításáról szóló 48/2011. (VII. 27.) NEFMI rendelet hatálybalépését[^101] megelőző napon érvényes működési engedéllyel rendelkező közforgalmú, intézeti és fiókgyógyszertáraknak a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló 41/2007. (IX. 19.) EüM rendelet és a gyógyszertárban forgalmazható, valamint kötelezően készletben tartandó termékekről szóló 2/2008. (I. 8.) EüM rendelet módosításáról szóló 48/2011. (VII. 27.) NEFMI rendelet 1. §-ával megállapított 13/A. §-ban foglalt feltételeknek 2013. szeptember 1-jétől kell megfelelniük.
+(5)[^118] A 2013. július 31-én érvényes működési engedéllyel rendelkező közforgalmú, intézeti és fiókgyógyszertáraknak az egyes gyógyszerészeti és orvostechnikai tárgyú miniszteri rendeletek módosításáról szóló 56/2013. (VII. 31.) EMMI rendelettel megállapított 13/A. §-ban foglalt feltételeknek 2013. szeptember 1-jétől kell megfelelniük.
 
-(6)[^102] Ez a rendelet az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelv 1. cikk 20. pontjának való megfelelést szolgálja.
+(6)[^119] Ez a rendelet az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelv 1. cikk 20. pontjának való megfelelést szolgálja.
 
-[^99]: A 37. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a hatályon kívül helyezte.
-[^100]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette, újonnan a 48/2011. (VII. 27.) NEFMI rendelet 2. §-a iktatta be.
-[^101]: A hatálybalépés időpontja 2011. augusztus 20.
-[^102]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette, újonnan az 53/2012. (XII. 28.) EMMI rendelet 27. §-a iktatta be.
+[^117]: A 37. § (4) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a hatályon kívül helyezte.
+[^118]: A 37. § (5) bekezdése e rendelet 37. § (6) bekezdése alapján hatályát vesztette, újonnan a 48/2011. (VII. 27.) NEFMI rendelet 2. §-a iktatta be, szövege az 56/2013. (VII. 31.) EMMI rendelet 34. §-ával megállapított szöveg.
+[^119]: A 37. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette, újonnan az 53/2012. (XII. 28.) EMMI rendelet 27. §-a iktatta be.

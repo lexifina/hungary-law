@@ -1,14 +1,14 @@
-6. § (1)[^21] Officinának az a helyiség alkalmas, amely világos, száraz, fűthető és szellőztethető, valamint padozata résmentes. A gyógyszertár officinájában a gyógyszerkiadást oly módon kell biztosítani, hogy a betegek egymásról illetéktelenül ne juthassanak betegségükkel összefüggő információhoz. Az officinában a várakozás helyét ennek megfelelően jól láthatóan kell jelezni. A betegeket ennek betartandóságáról jól látható figyelmeztető feliraton kell tájékoztatni.
+6. § (1)[^22] Officinának az a helyiség alkalmas, amely világos, száraz, fűthető és szellőztethető, valamint padozata résmentes. A gyógyszertár officinájában a gyógyszerkiadást oly módon kell biztosítani, hogy a betegek egymásról illetéktelenül ne juthassanak betegségükkel összefüggő információhoz. Az officinában a várakozás helyét ennek megfelelően jól láthatóan kell jelezni. A betegeket ennek betartandóságáról jól látható figyelmeztető feliraton kell tájékoztatni.
 
-(2)[^22] Az officinában jól látható helyen ki kell függeszteni a gyógyszertár működési engedélyét, vagy a működési engedély engedélyező hatóság által kiadott, a (6) bekezdés szerinti adattartalmú kivonatát, a felügyeleti szervek elérhetőségeit.
+(2)[^23] Az officinában jól látható helyen ki kell függeszteni a gyógyszertár működési engedélyét, vagy a működési engedély engedélyező hatóság által kiadott, a (6) bekezdés szerinti adattartalmú kivonatát, a felügyeleti szervek elérhetőségeit.
 
-(3)[^23] A 36/A. § (1) bekezdés c) pontja szerinti gyógyszerészi gondozási tevékenység az officinában akkor végezhető, ha az officina alapterülete legalább 25 m2.
+(3)[^24] A 36/A. § (1) bekezdés c) pontja szerinti gyógyszerészi gondozási tevékenység az officinában akkor végezhető, ha az officina alapterülete legalább 25 m2.
 
 (4) Az officinában lemosható, fertőtlenítőszeres tisztításra, vegyszeres kezelésre alkalmas tárát kell elhelyezni. A berendezést úgy kell kialakítani, hogy a munkaterület és a betegforgalmi rész elkülönített legyen. A gyógyszerkiadó helyet a gyógyszerbiztonsági szempontokra figyelemmel úgy kell kialakítani, hogy a kiadást végző gyógyszerész, szakasszisztens szükség esetén közvetlenül megközelíthesse a betegforgalom céljára szolgáló helyiségrészt.
 
 (5) Az officinában ivóvizet és ehhez poharat kell biztosítani.
 
-(6)[^24] A működési engedély kivonata az alábbi adatokat tartalmazza:
+(6)[^25] A működési engedély kivonata az alábbi adatokat tartalmazza:
 
 a) a gyógyszertár elnevezését, címét,
 
@@ -20,16 +20,16 @@ d) a gyógyszertár szolgálati rendjét,
 
 e) a gyógyszertár forgalmazási körét.
 
-(7)[^25] Az officinában a gyógyszereket – kivéve a tea formájú növényi gyógyszereket és a tea formájú hagyományos növényi gyógyszereket – úgy kell elhelyezni, hogy azok a betegek számára közvetlenül ne legyenek hozzáférhetőek.
+(7)[^26] Az officinában a gyógyszereket – kivéve a tea formájú növényi gyógyszereket és a tea formájú hagyományos növényi gyógyszereket – úgy kell elhelyezni, hogy azok a betegek számára közvetlenül ne legyenek hozzáférhetőek.
 
-(8)[^26] A gyógyszertárban termékbemutató nem tartható, felvilágosító, tanácsadó tevékenységet kizárólag a gyógyszertár alkalmazásában álló szakszemélyzet folytathat.
+(8)[^27] A gyógyszertárban termékbemutató nem tartható, felvilágosító, tanácsadó tevékenységet kizárólag a gyógyszertár alkalmazásában álló szakszemélyzet folytathat.
 
-(9)[^27] Az officinában jól látható és könnyen hozzáférhető helyen a betegnek a gyógyszertár szolgáltatásaival kapcsolatos írásbeli észrevételei, panaszai közléséhez szükséges eszközöket biztosítani kell.
+(9)[^28] Az officinában jól látható és könnyen hozzáférhető helyen a betegnek a gyógyszertár szolgáltatásaival kapcsolatos írásbeli észrevételei, panaszai közléséhez szükséges eszközöket biztosítani kell.
 
-[^21]: A 6. § (1) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^22]: A 6. § (2) bekezdése az 56/2009. (XII. 30.) EüM rendelet 5. § (1) bekezdésével megállapított, a 31/2010. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^23]: A 6. § (3) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 5. §-ával megállapított szöveg.
-[^24]: A 6. § (6) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^25]: A 6. § (7) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 67/2011. (XIII. 13.) NEFMI rendelet 6. §-ával megállapított szöveg.
-[^26]: A 6. § (8) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
-[^27]: A 6. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^22]: A 6. § (1) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^23]: A 6. § (2) bekezdése az 56/2009. (XII. 30.) EüM rendelet 5. § (1) bekezdésével megállapított, a 31/2010. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^24]: A 6. § (3) bekezdése a 31/2010. (XII. 30.) NEFMI rendelet 5. §-ával megállapított szöveg.
+[^25]: A 6. § (6) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^26]: A 6. § (7) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 67/2011. (XIII. 13.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^27]: A 6. § (8) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
+[^28]: A 6. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 5. § (2) bekezdése iktatta be.
