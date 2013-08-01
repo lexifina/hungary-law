@@ -2,9 +2,9 @@
 
 21. § (1) A vizsgáztató bizottság a vizsgaszervezőnél működik.
 
-(2)[^43] A vizsgáztató bizottság elnökét és tagjait – a vizsgaszervező javaslatára – az OKV titkára kéri fel az OKV tagjai közül. A felkéréseket a vizsgaszervező küldi meg a vizsgáztató bizottság részére.
+(2)[^45] A vizsgáztató bizottság elnökét és tagjait – a vizsgaszervező javaslatára – az OKV titkára kéri fel az OKV tagjai közül. A felkéréseket a vizsgaszervező küldi meg a vizsgáztató bizottság részére.
 
-(3)[^44] A vizsgaszervező a vizsgáztató bizottság elnökének és tagjainak felkérésére vonatkozó javaslatát legkésőbb a vizsga időpontját megelőző 15 munkanapig megküldi az OKV titkárának. A vizsgabizottság tagjának akadályoztatása esetén a vizsgaszervező haladéktalanul javaslatot tesz az OKV titkára részére az új tag felkérésére.
+(3)[^46] A vizsgaszervező a vizsgáztató bizottság elnökének és tagjainak felkérésére vonatkozó javaslatát legkésőbb a vizsga időpontját megelőző 15 munkanapig megküldi az OKV titkárának. A vizsgabizottság tagjának akadályoztatása esetén a vizsgaszervező haladéktalanul javaslatot tesz az OKV titkára részére az új tag felkérésére.
 
 (4) A vizsgáztató bizottság felkérésének előkészítésével, működésével, a vizsgák és szakmai konzultációk szervezésével, lebonyolításával, nyilvántartásával kapcsolatos feladatokat a vizsgaszervező látja el.
 
@@ -26,10 +26,10 @@ Az összeférhetetlenséget haladéktalanul jelenteni kell az OKV titkárának.
 
 (9) A vizsgáról – a 2. melléklet 2. függelékében meghatározott tartalommal – a vizsgabiztosnak vizsgázónként vizsgajegyzőkönyvet kell vezetnie. A vizsgázó a vizsga lezárását követően hiteles vizsgajegyzőkönyv másodlatot kap, melyet a munkáltató részére köteles átadni.
 
-(10)[^45] A vizsgabiztos a vizsgaszervező által megbízott, legalább középfokú végzettségű személy lehet. A vizsgabiztos nem működhet közre közeli hozzátartozójának [Ptk. 685. § b) pont] a vizsgáztatásában, továbbá olyan esetekben, amelyekben tőle az elfogulatlan vizsgáztatás egyébként nem várható el. Az összeférhetetlenséget haladéktalanul jelenteni kell a vizsgaszervezőnek.
+(10)[^47] A vizsgabiztos a vizsgaszervező által megbízott, legalább középfokú végzettségű személy lehet. A vizsgabiztos nem működhet közre közeli hozzátartozójának [Ptk. 685. § b) pont] a vizsgáztatásában, továbbá olyan esetekben, amelyekben tőle az elfogulatlan vizsgáztatás egyébként nem várható el. Az összeférhetetlenséget haladéktalanul jelenteni kell a vizsgaszervezőnek.
 
 (11) A vizsgáztató bizottság az eredményes vizsgáról vizsgabizonyítványt állít ki. Az elveszett vagy megsemmisült bizonyítvány pótlására – a vizsgajegyzőkönyv alapján – a vizsgaszervező hiteles bizonyítvány másodlatot állít ki. A hiteles bizonyítvány másodlat tartalma megegyezik a bizonyítványéval.
 
-[^43]: A 21. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (14) bekezdésével megállapított szöveg.
-[^44]: A 21. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (14) bekezdésével megállapított szöveg.
-[^45]: A 21. § (10) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés f) pontja szerint módosított szöveg.
+[^45]: A 21. § (2) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (14) bekezdésével megállapított szöveg.
+[^46]: A 21. § (3) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (14) bekezdésével megállapított szöveg.
+[^47]: A 21. § (10) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés f) pontja szerint módosított szöveg.

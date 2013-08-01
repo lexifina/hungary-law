@@ -6,6 +6,6 @@
 
 (3) A polgármester, illetve az önkormányzati képviselő jelentkezéséhez a munkáltatónak nem kell hozzájárulnia, de a vizsgára bocsátás feltételeinek meglétét a vizsgázónak igazolnia kell.
 
-(4)[^41] A (2) bekezdés alkalmazásában közigazgatási gyakorlat szempontjából a Kttv. 6. § 16. pontja az irányadó, illetve közigazgatási gyakorlatnak minősül a polgármesteri jogviszonyban, valamint az önkormányzati képviselői megbízatásban töltött idő is.
+(4)[^43] A (2) bekezdés alkalmazásában közigazgatási gyakorlat szempontjából a Kttv. 6. § 16. pontja az irányadó, illetve közigazgatási gyakorlatnak minősül a polgármesteri jogviszonyban, valamint az önkormányzati képviselői megbízatásban töltött idő is.
 
-[^41]: A 18. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (12) bekezdésével megállapított szöveg.
+[^43]: A 18. § (4) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 5. § (12) bekezdésével megállapított szöveg.
