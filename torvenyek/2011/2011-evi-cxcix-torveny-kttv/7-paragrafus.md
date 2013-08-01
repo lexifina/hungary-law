@@ -4,7 +4,7 @@ a) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz s
 
 b) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül,
 
-c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, rokkantsági ellátásában részesül, vagy
+c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől egyházi, felekezeti nyugdíjban, öregségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, rokkantsági ellátásában részesül, vagy
 
 d) a 63. § (2) bekezdés f) pontja alapján a felmentését kéri.
 

@@ -37,5 +37,3 @@
 5. melléklet a 2011. évi CXCIX. törvényhez
 
 ## ÖNÉLETRAJZ
-
-## A kormánytisztviselők és szakmai vezetők önéletrajza az alábbi adatköröket tartalmazza:
