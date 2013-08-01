@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-113-00-00
 | 2012-04-01 | 2012. évi XVI. törvény | 1996-113-00-00.24 |
 | 2012-06-27 | 2012. évi LXXVI. törvény | 1996-113-00-00.25 |
 | 2012-10-28 | 2012. évi CLI. törvény | 1996-113-00-00.26 |
+| 2013-08-01 | 2013. évi CXXXIII. törvény | 1996-113-00-00.27 |
