@@ -6,7 +6,7 @@
 
 a) a civil szervezetekkel,
 
-b) egyházakkal,
+b) bevett egyházakkal,
 
 c) szakmai, tudományos szervezetekkel,
 
@@ -34,4 +34,4 @@ e) a megállapodás időtartamát.
 
 (5) A megállapodást a honlapon mindenki számára hozzáférhetővé kell tenni.
 
-(6) A jogszabály előkészítéséért felelős miniszter stratégiai partneri megállapodást alakít ki azokkal az egyházakkal, amelyekkel korábban az együttműködés kereteit a Kormány jogszabályban vagy közjogi szervezetszabályozó aktusban meghatározta.
+(6) A jogszabály előkészítéséért felelős miniszter stratégiai partneri megállapodást alakít ki azokkal a bevett egyházakkal, amelyekkel korábban az együttműködés kereteit a Kormány jogszabályban vagy közjogi szervezetszabályozó aktusban meghatározta.
