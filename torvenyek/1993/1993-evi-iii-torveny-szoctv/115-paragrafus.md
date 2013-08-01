@@ -6,7 +6,7 @@
 
 (4) Ha az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy a személyi térítési díj összegét vitatja, illetve annak csökkentését vagy elengedését kéri, a (2) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Az állami fenntartó a térítési díj összegéről határozattal dönt.
 
-(5) Ha az ellátott, törvényes képviselője vagy a térítési díjat megfizető személy a térítési díj egyházi vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított térítési díjat kell megfizetni.
+(5) Ha az ellátott, törvényes képviselője vagy a térítési díjat megfizető személy a térítési díj egyházi fenntartó vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított térítési díjat kell megfizetni.
 
 (6) A személyi térítési díj összege a megállapítás időpontjától függetlenül évente két alkalommal vizsgálható felül és változtatható meg, kivéve ha az ellátott jövedelme
 

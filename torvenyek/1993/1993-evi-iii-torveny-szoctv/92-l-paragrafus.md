@@ -10,15 +10,15 @@ d) ha jogszabály kivételt nem tesz, a fenntartóval és a fenntartó nevében 
 
 e) a szociális szolgáltató, intézmény vezetőjével vagy – ha a feltételeket a fenntartó nem biztosítja – a fenntartóval szemben, ha a szociális szolgáltató, intézmény nem nyújtja azokat a szolgáltatásokat, amelyeket az engedélyezett szociális szolgáltatásra vonatkozó jogszabályok alapján nyújtania kell,
 
-f) az állami fenntartású szociális szolgáltató, intézmény vezetőjével szemben, ha a 94/C. § vagy a 2011. január 1-jét megelőzően hatályos 94/B. § szerinti megállapodás, annak módosítása vagy a szociális szolgáltató, intézmény vezetője által történő megszüntetése jogszabályba ütközik,
+f) az állami fenntartó által fenntartott (a továbbiakban: állami fenntartású) szociális szolgáltató, intézmény vezetőjével szemben, ha a 94/C. § vagy a 2011. január 1-jét megelőzően hatályos 94/B. § szerinti megállapodás, annak módosítása vagy a szociális szolgáltató, intézmény vezetője által történő megszüntetése jogszabályba ütközik,
 
-g) az egyházi és nem állami fenntartóval, valamint a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során az egyházi, nem állami fenntartó nevében eljáró személlyel szemben, ha a megállapodás, annak módosítása vagy a fenntartó által történő megszüntetése jogszabályba ütközik,
+g) az egyházi fenntartóval, nem állami fenntartóval, valamint a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során az egyházi fenntartó vagy a nem állami fenntartó nevében eljáró személlyel szemben, ha a megállapodás, annak módosítása vagy a fenntartó által történő megszüntetése jogszabályba ütközik,
 
 h) a fenntartóval szemben, ha – térítésmentes szociális szolgáltatások kivételével – intézményi térítési díjat nem állapít meg,
 
 i) a szociális szolgáltató, intézmény vezetőjével vagy – ha a személyi térítési díjat, illetve a költőpénzt a fenntartó állapította meg – a fenntartóval szemben, ha a személyi térítési díj, illetve a költőpénz megállapítására vagy összegére vonatkozó szabályokat megszegik,
 
-j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociális szolgáltató, intézmény vezetőjével, egyházi vagy nem állami fenntartású intézmény esetén a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az egyszeri hozzájárulás megállapítására, összegére, megfizetésére vagy visszafizetésére vonatkozó szabályokat megszegik,
+j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociális szolgáltató, intézmény vezetőjével, egyházi fenntartású vagy nem állami fenntartású intézmény esetén a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az egyszeri hozzájárulás megállapítására, összegére, megfizetésére vagy visszafizetésére vonatkozó szabályokat megszegik,
 
 k) a fenntartóval és a nevében vagyoni előnyt kérő személlyel szemben, valamint azzal a személlyel, szervezettel szemben, amelynek a vagyoni előnyt nyújtották, ha a 119/A. § szerinti tilalmat megsértik.
 

@@ -48,7 +48,7 @@ b) a szolgáltatások iránti igények alakulását, a várakozók számát, kor
 
 c) a szolgáltatások iránt jelentkező szükségletek alapján az intézményrendszer korszerűsítésének irányait.
 
-(6a) A megye, a főváros területén működő nem állami és egyházi fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
+(6a) A megye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
 
 (7) A szolgáltatástervezési koncepciót az önkormányzat az elfogadást megelőzően véleményezteti az intézményvezetőkkel és a nemzetiségi önkormányzattal. A koncepció végleges változatának elfogadása során a kialakított véleményeket az önkormányzat lehetőség szerint figyelembe veszi.
 

@@ -2,7 +2,7 @@
 
 a) állami fenntartású intézmény (szolgáltató) esetén az intézményvezető (szolgáltató vezetője),
 
-b) egyházi és nem állami fenntartású intézmény (szolgáltató) esetén a fenntartó vagy az általa megbízott személy
+b) egyházi fenntartású és nem állami fenntartású intézmény (szolgáltató) esetén a fenntartó vagy az általa megbízott személy
 
 az ellátást igénylővel, illetve törvényes képviselőjével írásban megállapodást köt.
 

@@ -16,7 +16,7 @@ e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési d�
 
 f) a szociális szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
 
-g) a nem állami és egyházi fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
+g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 
 i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
 

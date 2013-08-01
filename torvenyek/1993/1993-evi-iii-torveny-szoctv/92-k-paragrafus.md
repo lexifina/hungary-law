@@ -1,4 +1,4 @@
-92/K. § (1) Szociális szolgáltatásokat a 4. § (1) bekezdésének m) pontjában meghatározott bármely állami, egyházi és nem állami fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, illetve szociális intézmény
+92/K. § (1) Szociális szolgáltatásokat a 4. § (1) bekezdésének m) pontjában meghatározott bármely állami fenntartó, egyházi fenntartó és nem állami fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, illetve szociális intézmény
 
 a) megfelel az e törvényben és külön jogszabályban meghatározott feltételeknek, és
 

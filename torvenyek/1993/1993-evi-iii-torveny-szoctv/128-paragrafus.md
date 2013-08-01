@@ -8,4 +8,4 @@ c) szociális szakmai programokhoz nyújtott támogatást
 
 kaphatnak.
 
-(2) Az egyházi és nem állami fenntartó szociális szakmai programokhoz támogatást kaphat.
+(2) Az egyházi fenntartó és a nem állami fenntartó szociális szakmai programokhoz támogatást kaphat.

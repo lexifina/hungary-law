@@ -1,4 +1,4 @@
-92/C. § (1) A személyes gondoskodást nyújtó szociális intézmény egyházi, illetve nem állami fenntartója a 92/B. § (1) bekezdésének a), e), f) és h) pontjaiban meghatározott feladatokon túl
+92/C. § (1) Az egyházi fenntartója és a nem állami fenntartó a 92/B. § (1) bekezdésének a), e), f) és h) pontjaiban meghatározott feladatokon túl
 
 a) gondoskodik az intézmény szervezeti és működési szabályzatának, szakmai programjának, szakosított ellátást nyújtó intézmény esetében házirendjének elkészítéséről,
 
@@ -6,7 +6,7 @@ b) biztosítja az intézmény gazdálkodásának és működésének törvényes
 
 (2)–(4)
 
-(5) Ha a tartós bentlakást nyújtó egyházi és nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha a nem állami és egyházi fenntartó
+(5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
 
 a)
 
@@ -18,7 +18,7 @@ d) nem biztosítja a kötelező gyógyszerkészletet vagy gyógyászati segédes
 
 (6) Amennyiben a működést engedélyező hatóság több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a központi költségvetésről szóló törvényben biztosított támogatás visszatartásának mértéke legfeljebb az éves központi költségvetésről szóló törvényben biztosított támogatás 15 százaléka.
 
-(7) A visszatartott központi költségvetésről szóló törvényben biztosított támogatás akkor illeti meg az egyházi és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
+(7) A visszatartott központi költségvetésről szóló törvényben biztosított támogatás akkor illeti meg az egyházi fenntartót és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
 
 VI. CÍM
 

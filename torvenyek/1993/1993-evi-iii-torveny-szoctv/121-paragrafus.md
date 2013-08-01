@@ -2,11 +2,11 @@
 
 (2) Az ellátási szerződésnek tartalmaznia kell
 
-a) az egyházi, állami fenntartó nevét, székhelyét és adószámát;
+a) az egyházi fenntartó vagy a nem állami fenntartó nevét, székhelyét és adószámát;
 
 b) a szociális ellátás formáját, az ellátásban részesítendők körét, számát;
 
-c) az egyházi, nem állami fenntartó nyilatkozatát a szerződésben meghatározott szociális szolgáltatásra vonatkozó külön jogszabályok és szakmai követelmények, nyilvántartási kötelezettségek betartására, illetve a szolgáltatóval, intézménnyel történő betartatására;
+c) az egyházi fenntartó vagy a nem állami fenntartó nyilatkozatát a szerződésben meghatározott szociális szolgáltatásra vonatkozó külön jogszabályok és szakmai követelmények, nyilvántartási kötelezettségek betartására, illetve a szolgáltatóval, intézménnyel történő betartatására;
 
 d) a személyi térítési díj csökkentésének, illetve elengedésének eseteit és módjait;
 

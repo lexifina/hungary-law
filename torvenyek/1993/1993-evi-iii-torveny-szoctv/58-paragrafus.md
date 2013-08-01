@@ -1,6 +1,6 @@
 58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(2) Egyházi fenntartású intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter az egyház központi szervének javaslatára egyházi módszertani intézményt jelöl ki öt éves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
+(2) Az egyházi jogi személy által fenntartott (a továbbiakban: egyházi fenntartású) intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter a bevett egyház legfőbb szerve képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) öt éves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
 (3) A kijelölés megszűnik, ha
 
@@ -18,11 +18,11 @@ a) a kijelölést kérő szándékosan valótlan adatot közölt, vagy valamely 
 
 b) a módszertani intézmény a jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit súlyosan megszegi,
 
-c) a kijelölésre javaslatot tevő egyház központi szerve a kijelölés visszavonását kezdeményezi.
+c) a kijelölésre javaslatot tevő bevett egyház legfőbb szervének képviselője a kijelölés visszavonását kezdeményezi.
 
 (5) A módszertani intézmény a kijelölésről írásban, indokolás nélkül lemondhat. A lemondási idő három hónap.
 
-(6) Az egyházi módszertani intézmény módszertani feladatai keretében
+(6) A kijelölt egyházi módszertani intézmény módszertani feladatai keretében
 
 a) külön jogszabály szerint véleményezi a szakmai programot és részt vesz a szociális hatóság ellenőrzéseiben,
 
