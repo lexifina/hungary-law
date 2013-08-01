@@ -28,6 +28,6 @@ d) a nádas legalább 60%-át, legfeljebb 80%-át kell évente learatni, valamin
 
 (5) A támogatás mértéke a célprogramba bevitt terület után 61 euró/ha-nak megfelelő forintösszeg.
 
-(6)[^181] A támogatási kérelemhez mellékelni kell a területileg illetékes járási földhivatal által kiadott harminc napnál nem régebbi földhasználati lap másolatot, amely szerint a terület nádas művelési ágba van bejelentve.
+(6)[^182] A támogatási kérelemhez mellékelni kell a területileg illetékes járási földhivatal által kiadott harminc napnál nem régebbi földhasználati lap másolatot, amely szerint a terület nádas művelési ágba van bejelentve.
 
-[^181]: A 76. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 34. §-a szerint módosított szöveg.
+[^182]: A 76. § (6) bekezdése a 151/2012. (XII. 29.) VM rendelet 34. §-a szerint módosított szöveg.

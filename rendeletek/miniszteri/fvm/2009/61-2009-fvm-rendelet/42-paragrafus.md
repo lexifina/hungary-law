@@ -1,8 +1,8 @@
 ## Kifizetési kérelem benyújtása
 
-42. §[^86] (1) Kifizetési kérelmet az nyújthat be, aki a 39. § (1) bekezdése alapján területazonosítási kérelmet nyújtott be.
+42. §[^87] (1) Kifizetési kérelmet az nyújthat be, aki a 39. § (1) bekezdése alapján területazonosítási kérelmet nyújtott be.
 
-(2)[^87] A kifizetési kérelmet a támogatott területekre kell benyújtani. Amennyiben a kötelezettségvállalással érintett egybefüggő területre vonatkozóan az igényelt vagy az ellenőrzéseket követően megállapított terület kisebb, mint a támogatott terület, akkor a kifizetés a támogatásra jogosultság mértéke és a támogatott terület arányában kerül teljesítésre.
+(2)[^88] A kifizetési kérelmet a támogatott területekre kell benyújtani. Amennyiben a kötelezettségvállalással érintett egybefüggő területre vonatkozóan az igényelt vagy az ellenőrzéseket követően megállapított terület kisebb, mint a támogatott terület, akkor a kifizetés a támogatásra jogosultság mértéke és a támogatott terület arányában kerül teljesítésre.
 
 (3) A kifizetési kérelmet 2010-től évente az egységes kérelemről szóló rendelet szerinti egységes kérelem részeként május 15-ig kell elektronikusan benyújtani.
 
@@ -22,5 +22,5 @@ b) a 3. § (1) bekezdés b) pont bd) alpontjának 2. pontja szerinti természetv
 
 (7) Az egyes célprogramokban támogatásra jogosult a 9. számú mellékletben felsorolt növényfajok és növényfajták hasznosítási kódját az IH a Tv. 14. § (1) bekezdés c) pontjának cf) alpontja alapján minden évben április 1-jéig közleményben teszi közzé.
 
-[^86]: A 42. § a 35/2010. (XI. 30.) VM rendelet 9. §-ával megállapított szöveg.
-[^87]: A 42. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 7. §-ával megállapított szöveg.
+[^87]: A 42. § a 35/2010. (XI. 30.) VM rendelet 9. §-ával megállapított szöveg.
+[^88]: A 42. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 7. §-ával megállapított szöveg.

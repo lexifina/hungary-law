@@ -1,12 +1,12 @@
 ## Ellenőrzés
 
-45. § (1)[^93] Az évente történő ellenőrzéseket
+45. § (1)[^94] Az évente történő ellenőrzéseket
 
 a) a jogosultsági feltételek és az agrár-környezetgazdálkodási kötelezettségvállalások teljesítésének vonatkozásában az MVH végzi, amelybe külön megállapodás alapján állami szerveket bevon;
 
 b) a 11. § (4) bekezdésben foglalt követelmények teljesítésének vonatkozásában az arra hatáskörrel rendelkező hatóság végzi;
 
-c)[^94] az 5. § (6) bekezdés b) pont ba) alpont szerinti feltétel vonatkozásában az MVH végzi, amely során a NÉBIH, illetve a gazdálkodás helye szerint illetékes kormányhivatal földművelésügyi igazgatósága által szolgáltatott adatok alapján jár el.
+c)[^95] az 5. § (6) bekezdés b) pont ba) alpont szerinti feltétel vonatkozásában az MVH végzi, amely során a NÉBIH, illetve a gazdálkodás helye szerint illetékes kormányhivatal földművelésügyi igazgatósága által szolgáltatott adatok alapján jár el.
 
 (2) Az (1) bekezdés szerinti ellenőrzés a támogatási, illetve a kifizetési kérelemre vonatkozóan a külön jogszabályokban meghatározottak szerint:
 
@@ -26,14 +26,14 @@ c) helyszíni ellenőrzést
 
 (6) A 3. § (1) bekezdés a) pont ac) alpontjában, b) pont bb) alpontjában, valamint c) pont cb) alpontjában meghatározott célprogramok esetében az MVH a (2) bekezdés szerinti ellenőrzések elvégzése érdekében az illetékes ökológiai ellenőrző szervezettől tájékoztatást kérhet.
 
-(7)[^95] Az illetékes ökológiai ellenőrző szervezet évente, az adott gazdálkodási év május 15-ig az MVH részére tájékoztatást nyújt arról, hogy a 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramokban támogatott ügyfelek kötelezettségvállalással érintett egybefüggő területei az ökológiai ellenőrző szervezet nyilvántartásában szerepelnek vagy azok ökológiai státusza a gazdálkodási év folyamán megszüntetésre vagy visszaminősítésre került.
+(7)[^96] Az illetékes ökológiai ellenőrző szervezet évente, az adott gazdálkodási év május 15-ig az MVH részére tájékoztatást nyújt arról, hogy a 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramokban támogatott ügyfelek kötelezettségvállalással érintett egybefüggő területei az ökológiai ellenőrző szervezet nyilvántartásában szerepelnek vagy azok ökológiai státusza a gazdálkodási év folyamán megszüntetésre vagy visszaminősítésre került.
 
-(8)[^96] A 13. § (2) bekezdés d) pontja szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt talajvizsgálatok elvégeztetéséről.
+(8)[^97] A 13. § (2) bekezdés d) pontja szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt talajvizsgálatok elvégeztetéséről.
 
-(9)[^97] A 14. § (3) bekezdés szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt levélanalízis elvégeztetéséről.
+(9)[^98] A 14. § (3) bekezdés szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben foglaltak figyelembevételével 2014. október 15-ig adatot szolgáltatnak a kötelezően előírt levélanalízis elvégeztetéséről.
 
-[^93]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.
-[^94]: A 45. § (1) bekezdés c) pontját a 68/2013. (VII. 29.) VM rendelet 6. § (2) bekezdése iktatta be.
-[^95]: A 45. § (7) bekezdése a 44/2012. (V. 3.) VM rendelet 8. §-ával megállapított szöveg.
-[^96]: A 45. § (8) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
-[^97]: A 45. § (9) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
+[^94]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.
+[^95]: A 45. § (1) bekezdés c) pontját a 68/2013. (VII. 29.) VM rendelet 6. § (2) bekezdése iktatta be.
+[^96]: A 45. § (7) bekezdése a 44/2012. (V. 3.) VM rendelet 8. §-ával megállapított szöveg.
+[^97]: A 45. § (8) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.
+[^98]: A 45. § (9) bekezdése a 35/2010. (XI. 30.) VM rendelet 11. §-ával megállapított szöveg.

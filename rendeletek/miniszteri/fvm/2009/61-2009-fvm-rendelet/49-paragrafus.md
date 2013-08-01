@@ -6,6 +6,6 @@
 
 (3) Az (1) bekezdés szerinti, a területeltérés miatti jogkövetkezmények abban az esetben is alkalmazandók, ha a 45. § (2) bekezdés a)–c) pontja szerinti ellenőrzés során megállapítást nyer, hogy a kifizetési kérelemben igényelt területnagyság meghaladja a II. fejezetben a célprogramonként maximálisan meghatározott támogatható terület méretét, illetve a táblaméretet.
 
-(4)[^104] Ügyfél által felmért kötelezettségvállalással érintett egybefüggő terület és a helyszíni ellenőrzésen mért kötelezettségvállalással érintett egybefüggő terület eltérése esetén – a 3 méteres mérési toleranciát figyelembe véve – a két területnagyság közötti különbözetként jelentkező kötelezettségvállalással érintett egybefüggő terület részei nem jogosultak támogatásra, az adott terület a támogatási időszak lejártáig kizárásra kerül, és a területre vonatkozóan már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
+(4)[^105] Ügyfél által felmért kötelezettségvállalással érintett egybefüggő terület és a helyszíni ellenőrzésen mért kötelezettségvállalással érintett egybefüggő terület eltérése esetén – a 3 méteres mérési toleranciát figyelembe véve – a két területnagyság közötti különbözetként jelentkező kötelezettségvállalással érintett egybefüggő terület részei nem jogosultak támogatásra, az adott terület a támogatási időszak lejártáig kizárásra kerül, és a területre vonatkozóan már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint vissza kell fizetni.
 
-[^104]: A 49. § (4) bekezdését a 35/2010. (XI. 30.) VM rendelet 13. §-a iktatta be.
+[^105]: A 49. § (4) bekezdését a 35/2010. (XI. 30.) VM rendelet 13. §-a iktatta be.

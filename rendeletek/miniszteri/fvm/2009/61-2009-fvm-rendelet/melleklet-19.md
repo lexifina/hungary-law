@@ -44,7 +44,7 @@
 
 ## – mintavétel mélysége.
 
-19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^208]
+19. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^209]
 
 Levélanalízis során betartandó követelmények
 
@@ -100,4 +100,4 @@ Mintavételi eszközök:
 
 A növénymintavétel módja, időpontja, helye ültetvények esetében
 
-[^208]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.
+[^209]: A 19. melléklet a 139/2012. (XII. 22.) VM rendelet 19. § (6) bekezdés a)–c) pontja szerint módosított szöveg.

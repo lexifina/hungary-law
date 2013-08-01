@@ -12,7 +12,7 @@ b) a kötelezettségvállalással érintett egybefüggő területnek szántó ha
 
 a) egy tábla területe legalább 0,3 hektár;
 
-b)[^172] a célprogramba bevitt területre vonatkozóan a célprogram második gazdálkodási évétől legalább 0,1 állategység/ha legeltethető állatállomány megléte;
+b)[^173] a célprogramba bevitt területre vonatkozóan a célprogram második gazdálkodási évétől legalább 0,1 állategység/ha legeltethető állatállomány megléte;
 
 c) legeltethető állatfajok: szarvasmarhafélék, lófélék, juh;
 
@@ -28,11 +28,11 @@ c) csak kaszálás megengedett egy alkalommal, a legeltetetés nem;
 
 d) kaszálás csak június 15-e után lehetséges;
 
-e)[^173] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját.
+e)[^174] kaszálás megkezdése előtt legalább 5 munkanappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját.
 
 (5) A célprogram második évétől a terület jellegétől, valamint az adott zónában választható célprogramtól függően a 69. § vagy 70. § szerinti célprogramok előírásait kell betartani.
 
-(6)[^174] A támogatás mértéke a célprogramba bevitt terület után
+(6)[^175] A támogatás mértéke a célprogramba bevitt terület után
 
 a) az első gazdálkodási évben 238 euró/ha-nak megfelelő forintösszeg;
 
@@ -42,6 +42,6 @@ bb) nem jogosult, 305 euró/ha-nak megfelelő forintösszeg;
 
 bc) jogosult, 267 euró/ha-nak megfelelő forintösszeg.
 
-[^172]: A 72. § (3) bekezdés b) pontja a 139/2012. (XII. 22.) VM rendelet 19. § (4) bekezdése szerint módosított szöveg.
-[^173]: A 72. § (4) bekezdés e) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^174]: A 72. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 23. §-ával megállapított szöveg.
+[^173]: A 72. § (3) bekezdés b) pontja a 139/2012. (XII. 22.) VM rendelet 19. § (4) bekezdése szerint módosított szöveg.
+[^174]: A 72. § (4) bekezdés e) pontja a 92/2011. (X. 5.) VM rendelet 24. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^175]: A 72. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 23. §-ával megállapított szöveg.

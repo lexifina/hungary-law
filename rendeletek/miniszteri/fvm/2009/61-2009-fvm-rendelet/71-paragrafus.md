@@ -24,7 +24,7 @@ be) Kedvezőtlen Adottságú Területeken fekvő, MePAR-ban lehatárolt, jogosul
 
 a) egy tábla területe legalább 0,3 hektár;
 
-b)[^169] a célprogramba bevitt területre vonatkozóan a célprogram második gazdálkodási évétől legalább 0,1 állategység/ha legeltethető állatállomány megléte;
+b)[^170] a célprogramba bevitt területre vonatkozóan a célprogram második gazdálkodási évétől legalább 0,1 állategység/ha legeltethető állatállomány megléte;
 
 c) legeltethető állatfajok: szarvasmarhafélék, lófélék; juh, kecske;
 
@@ -52,11 +52,11 @@ e) a legeltetett területen legalább 0,1 állategység/ha legeltetési sűrűs�
 
 f) a gyepek túllegeltetése tilos;
 
-g)[^170] a célprogram harmadik gazdálkodási évének végétől legalább 0,2 állategység/ha legeltethető állatállomány megléte;
+g)[^171] a célprogram harmadik gazdálkodási évének végétől legalább 0,2 állategység/ha legeltethető állatállomány megléte;
 
 h) a gyep felülvetése a célprogram tíz éve alatt egy alkalommal megengedett.
 
-(6)[^171] A támogatás mértéke a célprogramba bevitt terület után
+(6)[^172] A támogatás mértéke a célprogramba bevitt terület után
 
 a) az első gazdálkodási évben 238 euró/ha-nak megfelelő forintösszeg;
 
@@ -66,6 +66,6 @@ bb) nem jogosult, 279 euró/ha-nak megfelelő forintösszeg;
 
 bc) jogosult, 241 euró/ha-nak megfelelő forintösszeg.
 
-[^169]: A 71. § (3) bekezdés b) pontja a 139/2012. (XII. 22.) VM rendelet 19. § (4) bekezdése szerint módosított szöveg.
-[^170]: A 71. § (5) bekezdés g) pontja a 139/2012. (XII. 22.) VM rendelet 14. §-ával megállapított szöveg.
-[^171]: A 71. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 22. §-ával megállapított szöveg.
+[^170]: A 71. § (3) bekezdés b) pontja a 139/2012. (XII. 22.) VM rendelet 19. § (4) bekezdése szerint módosított szöveg.
+[^171]: A 71. § (5) bekezdés g) pontja a 139/2012. (XII. 22.) VM rendelet 14. §-ával megállapított szöveg.
+[^172]: A 71. § (6) bekezdése a 92/2011. (X. 5.) VM rendelet 22. §-ával megállapított szöveg.
