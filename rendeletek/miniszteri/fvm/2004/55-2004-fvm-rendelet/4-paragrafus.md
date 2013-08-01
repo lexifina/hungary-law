@@ -1,4 +1,4 @@
-4. § (1) Az állategészségügyi hatóság – tekintet nélkül az állatok vámrendeltetésére – valamennyi harmadik országból érkező állatszállítmány tekintetében elvégzi az okirat-ellenőrzést és az azonosságvizsgálatot az állategészségügyi határállomáson annak érdekében, hogy ellenőrizze
+4. § (1)[^3] A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) – tekintet nélkül az állatok vámrendeltetésére – valamennyi harmadik országból érkező állatszállítmány tekintetében elvégzi az okirat-ellenőrzést és az azonosságvizsgálatot az állategészségügyi határállomáson annak érdekében, hogy ellenőrizze
 
 a) az állat származási helyét,
 
@@ -23,3 +23,5 @@ d) az állatszállítás állatvédelmi szabályairól szóló miniszteri rendel
 (4) A rendeltetési hely szerinti tagállam kérésére el lehet térni az (1) és (2) bekezdés azonosságvizsgálatra és fizikális ellenőrzésre vonatkozó előírásaitól, ha a rendeltetési hely szerinti kikötő vagy légikikötő rendelkezik a Közösségbe harmadik országokból érkező állatok állatorvosi vizsgálatának megszervezésére vonatkozó alapelvek megállapításáról szóló, a Tanács 91/496/EGK irányelvének 6. Cikke szerinti állategészségügyi határállomással, ahol az azonosságvizsgálatot és fizikális ellenőrzést elvégzik, valamint az állatot akár vízi, akár légi úton ugyanazon vízi vagy légi szállítóeszközzel szállítják tovább. Ilyen esetben az okirat-ellenőrzést végző határállomási állatorvos az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet 13. §-a szerinti informatikai rendszeren keresztül értesíti az állatok áthaladásáról a rendeltetési hely szerinti tagállam ellenőrzést végző határállomásának hatósági állatorvosát.
 
 (5) Az (1)–(4) bekezdésben foglaltak alkalmazása során felmerülő minden költség – állami visszatérítés nélkül – a feladót, a címzettet vagy annak képviselőjét terheli.
+
+[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 36. § c) pontja szerint módosított szöveg.
