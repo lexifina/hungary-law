@@ -52,9 +52,9 @@ c)[^12] a 3. § (1) bekezdés c) pontja ca) alpontjában meghatározott célter�
 
 d) a 3. § (1) bekezdés c) pontja cc) alpontjában meghatározott célterületekre irányuló fejlesztés esetén legalább a Magyar Lovas Turisztikai Szövetség szerinti három patkós minősítésű lovas szolgáltatást végezni;
 
-e) a 3. § (1) bekezdés c) pontja cd) alpontjában meghatározott célterületre irányuló fejlesztés esetében a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) területi szerve által ellenőrzött vadászati jogosultsággal rendelkezni;
+e)[^13] a 3. § (1) bekezdés c) pontja cd) alpontjában meghatározott célterületre irányuló fejlesztés esetében a megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság) által ellenőrzött vadászati jogosultsággal rendelkezni;
 
-f)[^13] a 3. § (1) bekezdés c) pontja cf) alpontjában meghatározott célterületre irányuló fejlesztés esetén horgász turisták számára biztonságos és higiéniai helyiségekkel ellátott ingatlannal rendelkezni;
+f)[^14] a 3. § (1) bekezdés c) pontja cf) alpontjában meghatározott célterületre irányuló fejlesztés esetén horgász turisták számára biztonságos és higiéniai helyiségekkel ellátott ingatlannal rendelkezni;
 
 g) a képesítéshez kötött tevékenység végzése esetén a vonatkozó külön jogszabályokban előírt képesítési követelményeknek saját maga vagy munkavállalója, vagy jogi személy esetében a személyesen közreműködő tagja által eleget tenni;
 
@@ -62,16 +62,17 @@ h) tagságot fenntartani turisztikai szakmai szervezetben és csatlakozni annak 
 
 i) a 3. § (1) bekezdés a) pontjában meghatározott, a falusi turizmushoz kapcsolodó minőségi magánszálláshelyek fejlesztés esetén a Falusi és Agroturizmus Országos Szövetsége (a továbbiakban: FATOSZ) által elismert minősítők általi minősítésnek megfelelő szolgáltatást nyújtani.
 
-(10)[^14] A 4. § (3) bekezdés b) pont ba) alpontja alapján jogosult támogatást igényelni az a nonprofit szervezet, amely vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig az 1997. évi CLVI. törvény 3. §-a szerinti közhasznúsági nyilvántartásba veteti magát és tevékenységét ekként végzi.
+(10)[^15] A 4. § (3) bekezdés b) pont ba) alpontja alapján jogosult támogatást igényelni az a nonprofit szervezet, amely vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig az 1997. évi CLVI. törvény 3. §-a szerinti közhasznúsági nyilvántartásba veteti magát és tevékenységét ekként végzi.
 
-(11)[^15] E rendelet keretében benyújtott támogatási kérelmek vonatkozásban a Vhr. 7. § (1) bekezdés b) pontját nem kell alkalmazni.
+(11)[^16] E rendelet keretében benyújtott támogatási kérelmek vonatkozásban a Vhr. 7. § (1) bekezdés b) pontját nem kell alkalmazni.
 
-(12)[^16] Induló vállalkozás esetén a Vhr. 7. § (1) bekezdés c) pontjában előírt nehéz helyzetben lévőséget a támogatási kérelem benyújtásától számított harmadik lezárt, teljes gazdasági évet követően kell vizsgálni.
+(12)[^17] Induló vállalkozás esetén a Vhr. 7. § (1) bekezdés c) pontjában előírt nehéz helyzetben lévőséget a támogatási kérelem benyújtásától számított harmadik lezárt, teljes gazdasági évet követően kell vizsgálni.
 
 [^10]: Az 5. § (2) bekezdése a 92/2009. (VII. 28.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. §-a alapján a rendelkezést a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
 [^11]: Az 5. § (3) bekezdése a 170/2008. (XII. 31.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^12]: Az 5. § (9) bekezdés c) pontja a 170/2008. (XII. 31.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^13]: Az 5. § (9) bekezdés f) pontja a 170/2008. (XII. 31.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^14]: Az 5. § (10) bekezdése a 2/2009. (I. 16.) FVM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^15]: Az 5. § (11) bekezdését a 92/2009. (VII. 28.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 4. §-a alapján a rendelkezést a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
-[^16]: Az 5. § (12) bekezdését a 92/2009. (VII. 28.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 4. §-a alapján a rendelkezést a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
+[^13]: Az 5. § (9) bekezdés e) pontja a 70/2013. (VII. 31.) VM rendelet 101. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (9) bekezdés f) pontja a 170/2008. (XII. 31.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^15]: Az 5. § (10) bekezdése a 2/2009. (I. 16.) FVM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^16]: Az 5. § (11) bekezdését a 92/2009. (VII. 28.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 4. §-a alapján a rendelkezést a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
+[^17]: Az 5. § (12) bekezdését a 92/2009. (VII. 28.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 4. §-a alapján a rendelkezést a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
