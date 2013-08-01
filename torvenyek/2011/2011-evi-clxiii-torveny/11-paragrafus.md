@@ -16,7 +16,7 @@ f) jogszabály tervezetére – kivéve az önkormányzati rendelet tervezetét 
 
 g) törvény kezdeményezésére, illetve rendelet és közjogi szervezetszabályozó eszköz kibocsátására jogosult szervnél jogszabály, illetve közjogi szervezetszabályzó eszköz alkotását, módosítását vagy hatályon kívül helyezését javasolhatja;
 
-h) az Alkotmánybírósághoz fordulhat az ügyész részvételével lefolytatott egyedi ügyben alkalmazott jogszabály Alaptörvényben biztosított jogok sérelmét okozó alaptörvény-ellenességének vizsgálata érdekében, ha a jogosult maga nem képes jogainak védelmére, vagy a jogsérelem a személyek nagyobb csoportját érinti;
+h) kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát, valamint a kihirdetéstől számított 30 napon belül az Alaptörvény és az Alaptörvény módosítása megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartásának vizsgálatát;
 
 i) kezdeményezheti az Alkotmánybíróságnál jogszabály nemzetközi szerződésbe ütközésének vizsgálatát;
 
