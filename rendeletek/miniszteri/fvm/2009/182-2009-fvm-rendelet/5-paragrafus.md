@@ -8,9 +8,9 @@ c) a 2009. december 31. után született, továbbtartásra meghagyott, és az Eu
 
 d) a 2009. december 31. után született, továbbtartásra meghagyott és élő állatként az Európai Unión belüli kereskedelembe kerülő kecske egyedeket a 21/2004/EK rendelet 4. cikk (2) bekezdés a) pontjában foglaltak szerinti elsődleges jelölési módként a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő, az egyed bal fülébe helyezett elektronikus füljelzővel kell ellátni. Az elektronikus füljelzőt bendő bólusz helyettesítheti. E kecske egyedeket másodlagos jelölési módként a 21/2004/EK rendelet 4. cikk (2) bekezdés b) pontjában foglaltak szerint a 2. § (1) bekezdés 4. pontjában foglaltaknak megfelelő, az egyed jobb fülébe helyezett füljelzővel kell ellátni.
 
-e)[^2] a 21/2004/EK rendelet mellékletének A. szakasz 8. pontja alapján az engedélyezett állatkert írásban benyújtott kérelmére az MgSzH területi szerve engedélyezheti az a)–d) pontokban meghatározott azonosítási követelményektől való eltérést,
+e)[^7] a 21/2004/EK rendelet mellékletének A. szakasz 8. pontja alapján az engedélyezett állatkert írásban benyújtott kérelmére az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság engedélyezheti az a)–d) pontokban meghatározott azonosítási követelményektől való eltérést,
 
-f)[^3] a 4. § d) pontja valamint az e) pont alapján engedélyezett eltérések nem veszélyeztethetik az azonosítási adatoknak az országos számítógépes adatbázisba történő befogadhatóságát. Az engedélyezett eltérésekről az MgSzH területi szerve a juh/kecske országos számítógépes adatbázist értesíteni köteles.
+f)[^8] a 4. § d) pontja valamint az e) pont alapján engedélyezett eltérések nem veszélyeztethetik az azonosítási adatoknak az országos számítógépes adatbázisba történő befogadhatóságát. Az engedélyezett eltérésekről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a juh/kecske országos számítógépes adatbázist értesíteni köteles.
 
-[^2]: Az 5. § e) pontját a 28/2010. (XI. 9.) VM rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^3]: Az 5. § f) pontját a 28/2010. (XI. 9.) VM rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
+[^7]: Az 5. § e) pontját a 28/2010. (XI. 9.) VM rendelet 7. § (2) bekezdése iktatta be, a 70/2013. (VII. 31.) VM rendelet 118. § d) pontja szerint módosított szöveg.
+[^8]: Az 5. § f) pontját a 28/2010. (XI. 9.) VM rendelet 7. § (2) bekezdése iktatta be, szövege a 70/2013. (VII. 31.) VM rendelet 118. § d) pontja szerint módosított szöveg.

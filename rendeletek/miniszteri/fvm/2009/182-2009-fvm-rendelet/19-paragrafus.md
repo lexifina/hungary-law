@@ -2,7 +2,7 @@
 
 a) a tenyészetében lévő állatok egyedi jelöléséről, a kiesett, az elveszett vagy olvashatatlanná vált jelölőeszközök pótlásáról saját költségén gondoskodni;
 
-b) az MgSzH Központtól a tenyészetében lévő állatok jelöléséhez szükséges jelölőeszközöket és segédeszközöket az útmutató előírásai szerint beszerezni;
+b)[^27] a NÉBIH-től a tenyészetében lévő állatok jelöléséhez szükséges jelölőeszközöket és segédeszközöket az útmutató előírásai szerint beszerezni;
 
 c) az állatok jelölésével, nyilvántartásával összefüggő információkat és adatokat a területi felelősnek, továbbá bármely ellenőrzést végző hatóságnak rendelkezésére bocsátani;
 
@@ -15,3 +15,5 @@ f) gondoskodni arról, hogy a tenyészete rendelkezésére bocsátott jelölőes
 g) a tenyészete állományában bekövetkezett változások (szaporodás, elhullás, más állattartó részére történő átadás, vágóhídra vagy az Európai Unió más tagállamába, harmadik országba történő szállítás stb.) esetén az e rendeletben foglaltak szerint szükséges intézkedéseket megtenni;
 
 h) a területi felelős közreműködésével évente elvégezni a 12. § szerinti leltárt.
+
+[^27]: A 19. § b) pontja a 70/2013. (VII. 31.) VM rendelet 118. § h) pontja szerint módosított szöveg.

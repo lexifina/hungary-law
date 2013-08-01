@@ -1,4 +1,4 @@
-14. § (1) Az Egységes Nyilvántartási és Azonosítási Rendszer (a továbbiakban: ENAR) működtetése keretében az MgSzH Központ
+14. § (1)[^22] Az Egységes Nyilvántartási és Azonosítási Rendszer (a továbbiakban: ENAR) működtetése keretében a NÉBIH
 
 a) ellátja az ENAR működtetésével és fejlesztésével kapcsolatos feladatokat, melynek során együttműködik az MgSzH területi szervével, a Mezőgazdasági és Vidékfejlesztési Hivatallal (a továbbiakban: MVH) és az MJKSz-szel;
 
@@ -14,8 +14,10 @@ f) elektronikus úton megküldi a kiadott, legyártandó fülszámok listáját 
 
 g) az MJKSz közreműködésével elkészíti az útmutatót.
 
-(2) Az MgSzH Központ által működtetett országos számítógépes adatbázis tartalmazza a 21/2004/EK rendelet Mellékletének D. szakaszában meghatározott kötelezően nyilvántartott adatokat.
+(2)[^23] A NÉBIH által működtetett országos számítógépes adatbázis tartalmazza a 21/2004/EK rendelet Mellékletének D. szakaszában meghatározott kötelezően nyilvántartott adatokat.
 
-(3)[^10] Az MgSzH Központ köteles a hozzá megküldött adatokat tíz napon belül a nyilvántartásban rögzíteni.
+(3)[^24] A NÉBIH köteles a hozzá megküldött adatokat tíz napon belül a nyilvántartásban rögzíteni.
 
-[^10]: A 14. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^22]: A 14. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
+[^23]: A 14. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § e) pontja szerint módosított szöveg.
+[^24]: A 14. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése szerint, a 70/2013. (VII. 31.) VM rendelet 118. § e) pontja szerint módosított szöveg.
