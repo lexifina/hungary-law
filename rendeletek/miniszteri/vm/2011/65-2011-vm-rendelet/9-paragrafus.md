@@ -4,4 +4,6 @@ a) a tájfajta és a házikerti fajta elismerése iránti eljárásban, külön�
 
 b) a származási régió, illetve a vetőmag-termelési régió meghatározásában.
 
-(2) Az MgSzH értesíti az Európai Bizottságot, hogy az (1) bekezdésben foglalt feladatokat az egy adott helyen és régióban hagyományosan termesztett és génerózió által veszélyeztetett honos zöldségfajok és fajták, illetve a kereskedelmi növénytermesztési szempontból tényleges értékkel nem rendelkező, csupán bizonyos feltételek melletti termesztésre nemesített zöldségek fajtáinak elismerése, és ezen honos fajok és fajták vetőmagjának forgalmazása esetében alkalmazható eltérésekről szóló, 2009. november 26-i 2009/145/EK bizottsági irányelvnek (a továbbiakban: 2009/145/EK irányelv) megfelelően a Növényi Diverzitás Központ látja el.
+(2)[^7] A NÉBIH értesíti az Európai Bizottságot, hogy az (1) bekezdésben foglalt feladatokat az egy adott helyen és régióban hagyományosan termesztett és génerózió által veszélyeztetett honos zöldségfajok és fajták, illetve a kereskedelmi növénytermesztési szempontból tényleges értékkel nem rendelkező, csupán bizonyos feltételek melletti termesztésre nemesített zöldségek fajtáinak elismerése, és ezen honos fajok és fajták vetőmagjának forgalmazása esetében alkalmazható eltérésekről szóló, 2009. november 26-i 2009/145/EK bizottsági irányelvnek (a továbbiakban: 2009/145/EK irányelv) megfelelően a Növényi Diverzitás Központ látja el.
+
+[^7]: A 9. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 134. § c) pontja szerint módosított szöveg.

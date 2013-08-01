@@ -1,4 +1,4 @@
-## 17. § Az e rendeletben a vetőmagtermelésre vonatkozóan meghatározott követelményeket – különös figyelmet szentelve a fajtáknak, a földrajzi elhelyezkedésnek és a mennyiségnek – az MgSzH és a megyei kormányhivatal növényegészségügyi és talajvédelmi igazgatósága ellenőrzi.
+## 17. §[^15] Az e rendeletben a vetőmagtermelésre vonatkozóan meghatározott követelményeket – különös figyelmet szentelve a fajtáknak, a földrajzi elhelyezkedésnek és a mennyiségnek – a NÉBIH és a megyei kormányhivatal növényegészségügyi és talajvédelmi igazgatósága ellenőrzi.
 
 ## 18. § A vetőmag előállítójának, illetve forgalmazójának az elismert tájfajta és az elismert házikerti fajta vetőmagja csomagolásán, illetve tárolóedényén nyomtatott, illetve bélyegzett feliraton, vagy címkén a következő adatokat kell feltüntetnie:
 
@@ -21,3 +21,5 @@ h) a tételnek a címkézésért felelős személy által megadott azonosító s
 í) nettó vagy bruttó tömeget, vagy a mag darabszámot;
 
 j) ha a tömeg fel van tüntetve, és szemcsézett peszticidet, drazsírozó anyagokat vagy más szilárd adalékot használnak, akkor a vegyszeres kezelés vagy az adalék jellegét, és a vetőmagok tiszta tömegét és az össztömeg közötti arányt is.
+
+[^15]: A 17. § a 70/2013. (VII. 31.) VM rendelet 134. § b) pontja szerint módosított szöveg.
