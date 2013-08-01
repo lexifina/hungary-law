@@ -16,6 +16,6 @@ cc) az államháztartás alrendszereiből vagy európai uniós forrásokból jut
 
 cd) nem minősül nehéz helyzetben lévő vállalkozásnak,
 
-ce)[^1] az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek megfelel.
+ce)[^3] az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek megfelel.
 
-[^1]: Az 5. § c) pontjának ce) alpontját a 107/2009. (VIII. 14.) FVM rendelet 4. §-a iktatta be.
+[^3]: Az 5. § c) pontjának ce) alpontját a 107/2009. (VIII. 14.) FVM rendelet 4. §-a iktatta be.

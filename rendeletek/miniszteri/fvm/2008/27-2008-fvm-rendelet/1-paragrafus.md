@@ -20,8 +20,10 @@ fa) nagyvadas területeken az integrált szántóföldi növénytermesztésben e
 
 fb) apróvadas területeken a szántóföldi növénytermesztés madár élőhely-fejlesztési előírásokkal célprogram által engedélyezett vegyszerek – 150/2004. FVM rendelet 26. §-a (3) bekezdésének d) pontja alapján –, illetve maximum 90 kg/ha/év nitrogén hatóanyag kijuttatása;
 
-g) vadászati hatóság: a Mezőgazdasági Szakigazgatási Hivatal területi szerve;
+g)[^1] vadászati hatóság: a megyei kormányhivatal földművelésügyi igazgatósága;
 
 h) éves vadgazdálkodási terv: a Vtv. 47. §-a szerinti terv;
 
 i) nehéz helyzetben lévő vállalkozás: a Közösség iránymutatása a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásokról szóló 2004/C 244/02 Bizottsági közlemény (2004. október 1.) 2.1. pontja szerinti vállalkozás.
+
+[^1]: Az 1. § g) pontja a 70/2013. (VII. 31.) VM rendelet 89. § a) pontja szerint módosított szöveg.
