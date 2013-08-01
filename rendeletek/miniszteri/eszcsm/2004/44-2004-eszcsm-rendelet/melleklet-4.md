@@ -26,6 +26,6 @@
 
 ## * A nem kívánt rész törlendő.
 
-4. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^126]
+4. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^128]
 
-[^126]: A 4. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés h) és i) pontja szerint módosított szöveg.
+[^128]: A 4. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés h) és i) pontja szerint módosított szöveg.

@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-44-20-0
 | 2012-07-20 | 2004-44-20-0M.27 | 10/2012. (VII. 19.) EMMI rendelet |
 | 2013-01-01 | 2004-44-20-0M.28 | 52/2012. (XII. 27.) EMMI rendelet |
 | 2013-01-31 | 2004-44-20-0M.29 | 52/2012. (XII. 27.) EMMI rendelet |
+| 2013-08-01 | 2004-44-20-0M.30 | 56/2013. (VII. 31.) EMMI rendelet |

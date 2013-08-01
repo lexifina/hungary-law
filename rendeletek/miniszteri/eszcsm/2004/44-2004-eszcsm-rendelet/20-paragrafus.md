@@ -6,8 +6,10 @@
 
 a) megállapítható a gyógyszert rendelő neve, rendelőjének címe, vagy azonosítója, továbbá a gyógyszerrendelés dátuma és a gyógyszer rendelésére jogosult aláírása, valamint
 
-b) szerepel a beteg neve, születési ideje, címe.
+b)[^105] szerepel a beteg neve, születési ideje.
 
-(4) A gyógyszerész az (1)–(3) bekezdéseknek megfelelően rendelt vényköteles gyógyszerből legfeljebb 30 napi mennyiséget adhat ki.
+(4)[^106] A nem EGT-megállapodásban részes államban kiállított külföldi vény esetében a gyógyszerész az (1)–(3) bekezdéseknek megfelelően rendelt vényköteles gyógyszerből legfeljebb 30 napi mennyiséget adhat ki.
 
 [^104]: A 20. § (2) bekezdése a 47/2005. (XI. 4.) EüM rendelet 15. §-ával megállapított szöveg.
+[^105]: A 20. § (3) bekezdés b) pontja az 56/2013. (VII. 31.) EMMI rendelet 10. § c) pontja szerint módosított szöveg.
+[^106]: A 20. § (4) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 9. § c) pontja szerint módosított szöveg.
