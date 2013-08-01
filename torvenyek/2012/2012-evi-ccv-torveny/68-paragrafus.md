@@ -16,7 +16,7 @@ f) a más állam állampolgárságának megszerzésével akkor, ha az állampolg
 
 g) az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező esetekben,
 
-h) tábori lelkész esetében, ha az egyház visszahívja, feltéve, hogy más megfelelő szolgálati beosztásban nem foglalkoztatható tovább,
+h) tábori lelkész esetében, ha a bevett egyház visszahívja, feltéve, hogy más megfelelő szolgálati beosztásban nem foglalkoztatható tovább,
 
 i) a 31. § (2) bekezdése szerinti követelmények igazolásának ismételt szabályszerű felhívást követő elmulasztása esetén, ha az állomány tagja nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
 

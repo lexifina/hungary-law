@@ -26,4 +26,4 @@ g) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pót
 
 (4) Azt a tényt, hogy a (2) bekezdésben meghatározott kizáró ok vele szemben nem áll fenn, a szolgálati viszony létesítését megelőzően, a szolgálati viszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja.
 
-(5) A tábori lelkész szolgálati viszonyának létesítéséhez az egyház egyetértése is szükséges.
+(5) A tábori lelkész szolgálati viszonyának létesítéséhez a bevett egyház egyetértése is szükséges.
