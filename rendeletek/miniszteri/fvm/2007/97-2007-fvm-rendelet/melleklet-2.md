@@ -80,9 +80,9 @@
 
 ## kérelmező (cégszerű) aláírása
 
-## MgSzH záradéka:
+## NÉBIH záradéka:
 
-## A kérelmező a művelésében lévő termőterületen a 2007. évi tavaszi fagyok által okozott száz százalékos kártételt az MgSzH-nak bejelentette, a bejelentést az MgSzH nyilvántartásba vette és adatállományában rögzítette.
+## A kérelmező a művelésében lévő termőterületen a 2007. évi tavaszi fagyok által okozott száz százalékos a NÉBIH-nek bejelentette, a bejelentést az NÉBIH nyilvántartásba vette és adatállományában rögzítette.
 
 ## A jogszabály által előírt ellenőrzéseket elvégeztem, a mellékleten benyújtott támogatási kérelem 4. pontjában feltüntetett támogatás összegére vonatkozóan végzett számításokat ellenőriztem, amelynek alapján igény jogosultságának megállapítását
 
@@ -98,9 +98,9 @@
 
 ## ........................................................................
 
-## Mezőgazdasági Szakigazgatási Hivatal
+## Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
-2. számú melléklet a 97/2007. (IX. 19.) FVM rendelethez
+2. számú melléklet a 97/2007. (IX. 19.) FVM rendelethez[^9]
 
 Kárbejelentési adatállomány-összesítő
 
@@ -140,6 +140,8 @@ Kárbejelentési adatállomány-összesítő
 
 Kelt: .................. 2007. ................. hó ....... nap
 
-.....................................................................
+...................................................................………
 
-Mezőgazdasági Szakigazgatási Hivatal
+Nemzeti Élelmiszerlánc-biztonsági Hivatal
+
+[^9]: A 2. számú melléklet a 70/2013. (VII. 31.) VM rendelet 73. § i) pontja szerint módosított szöveg.
