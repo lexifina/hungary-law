@@ -1,1 +1,0 @@
-## „(9) Az ajánlatkérő a felhívásban vagy a dokumentációban köteles meghatározni a minősített adatok körét és minősítési szintjét, valamint az érzékeny beszerzési területet. Az ajánlatkérő a minősített adatok körét, valamint az érzékeny beszerzési területet módosíthatja, kiegészítheti.”
