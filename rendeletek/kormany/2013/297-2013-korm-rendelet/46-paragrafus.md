@@ -1,5 +1,7 @@
-## 45. § Hatályát veszti a 2008. évi terület- és régiófejlesztési célelőirányzat felhasználásának részletes szabályairól szóló 148/2008. (V. 26.) Korm. rendelet.
+## 45. §[^36]
 
 ## 36. A támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló
 
 ## 191/2008. (VII. 30.) Korm. rendelet módosítása
+
+[^36]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

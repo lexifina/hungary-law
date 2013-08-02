@@ -1,5 +1,7 @@
-## 91. § Hatályát veszti az egyházak, vallásfelekezetek és vallási közösségek, valamint a belső egyházi jogi személyek nyilvántartásáról szóló 42/2011. (XII. 31.) KIM rendelet.
+## 91. §[^73]
 
 ## III. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
+
+[^73]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## „b) az egyházi jogi személy, ha a támogatás az általa végezett olyan tevékenységével kapcsolatos, amelyre tekintettel normatív támogatásra jogosult,”
+## 53. §[^43]
 
 ## 43. A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet módosítása
+
+[^43]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

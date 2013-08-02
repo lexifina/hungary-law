@@ -1,3 +1,5 @@
-## 31. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény végrehajtásáról szóló 67/2006. (III. 27.) Korm. rendelet mellékletében az „egyházmegye/szerzetesrend” szövegrészek helyébe az „egyházi jogi személy elöljárója” szöveg, az „az egyházmegyét, illetve szerzetesrendet” szövegrész helyébe az „az egyházi jogi személy elöljáróját” szöveg lép.
+## 31. §[^25]
 
 ## 25. A szociális foglalkoztatás engedélyezéséről és a szociális foglalkoztatási támogatásról szóló 112/2006. (V. 12.) Korm. rendelet módosítása
+
+[^25]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

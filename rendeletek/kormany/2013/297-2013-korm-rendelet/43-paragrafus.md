@@ -1,3 +1,5 @@
-## 42. § A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 14. § (2) bekezdésében az „egyházzal” szövegrész helyébe az „egyházi jogi személlyel” szöveg lép.
+## 42. §[^33]
 
 ## 33. A határátkelőhely és az ideiglenes határátkelőhely megnyitásáról és működtetéséről, valamint a határátlépési pontról szóló 332/2007. (XII. 13.) Korm. rendelet módosítása
+
+[^33]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
