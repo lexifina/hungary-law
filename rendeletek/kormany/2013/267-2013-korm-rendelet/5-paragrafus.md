@@ -1,3 +1,0 @@
-## 4. § Az R. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A megyei, fővárosi védelmi bizottság, valamint munkaszervezete működési feltételeit a fővárosi és megyei kormányhivatal biztosítja, továbbá intézi a gazdálkodásukkal kapcsolatos feladatokat. A megyei, fővárosi védelmi bizottság, valamint munkaszervezete működési támogatására biztosított központi pénzügyi forrásokat a fővárosi és megyei kormányhivatal elkülönítetten kezeli. A pénzügyi források felhasználása a megyei, fővárosi védelmi bizottság által jóváhagyott feladat- és pénzügyi terv alapján történik, amely terv teljesítéséről a megyei, fővárosi védelmi bizottság elnöke évente a honvédelmi felkészítés éves feladattervének végrehajtásáról szóló beszámolóban ad tájékoztatást.”

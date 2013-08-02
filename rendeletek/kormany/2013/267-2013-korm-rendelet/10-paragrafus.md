@@ -1,3 +1,0 @@
-## 9. § Az R. 71. § a következő (3) bekezdéssel egészül ki:
-
-## „(3) A légiriasztási rendszer keretében elvégezhető az ország egész területén vagy meghatározott részén a lakosság katasztrófa riasztása is, ez azonban nem veszélyeztetheti az (1) és (2) bekezdés szerinti feladatok elvégzését. Különleges jogrend idején – a veszélyhelyzet kivételével – az (1) és (2) bekezdés szerinti feladatok végrehajtása elsőbbséget élvez. A légiriasztási rendszernek lakosság katasztrófa riasztására történő felhasználása esetén nem alkalmazható a 72., a 77., a 78. a 82. §, a 83. § (1) bekezdése, valamint a 8. melléklet.”
