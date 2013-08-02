@@ -1,3 +1,0 @@
-7. § Az Nbtv. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A nemzetbiztonsági szolgálatoknál kormánytisztviselői, illetve közalkalmazotti jogviszony azon személyekkel létesíthető, akik megfelelnek a közszolgálati tisztviselőkről, illetve a közalkalmazottak jogállásáról szóló törvényben foglalt alkalmazási feltételeknek, továbbá a jogviszony létesítéséhez a nemzetbiztonsági ellenőrzést végző szerv hozzájárult. Kormánytisztviselői, illetve közalkalmazotti jogviszony nemzetbiztonsági szolgálatoknál történő létesítésekor a 70. § (1) bekezdésében foglalt rendelkezés nem alkalmazható.”

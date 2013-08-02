@@ -1,7 +1,0 @@
-12. § Az Nbtv. 71. §-a helyébe a következő rendelkezés lép:
-
-„71. § (1) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés kezdeményezését megelőzően a 2. számú mellékletben meghatározott biztonsági kérdőívet tölt ki.
-
-(2) A nemzetbiztonsági ellenőrzés alá eső személy a 2. számú mellékletben meghatározott biztonsági kérdőívben megadott adatai közül a lényeges adatok, tények vagy körülmények megváltozásáról nyomban, de legkésőbb a változás tudomására jutását követő 8 napon belül írásban tájékoztatja a nemzetbiztonsági ellenőrzés kezdeményezésére jogosultat. Azon adatok, tények és körülmények körét, amelyek a 2. számú mellékletben meghatározott biztonsági kérdőív szempontjából lényegesnek minősülnek, valamint a lényeges adatban, tényben vagy körülményben bekövetkező változás bejelentésének, a bejelentésben foglaltaknak a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat részére történő továbbításának részletes szabályait a Kormány rendeletben határozza meg.
-
-(3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a nemzetbiztonsági ellenőrzés lefolytatására a 2. számú mellékletben meghatározott, a nemzetbiztonsági ellenőrzés alá eső személy által kitöltött biztonsági kérdőív megküldésével írásban kéri fel a nemzetbiztonsági szolgálatot.”
