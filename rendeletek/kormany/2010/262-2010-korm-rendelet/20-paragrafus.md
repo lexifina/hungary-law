@@ -4,8 +4,8 @@ a) a pályázat elbírálásakor a 24. §-ban foglalt összeférhetetlenségi sz
 
 b) valamelyik pályázó az eljárás tisztaságát sértő cselekményt követett el,
 
-c)[^38] a pályázati felhívás, illetve a pályázati kiírás nem felel meg a 7. § (1)–(5) bekezdésében foglaltaknak.
+c)[^39] a pályázati felhívás, illetve a pályázati kiírás nem felel meg a 7. § (1)–(5) bekezdésében foglaltaknak.
 
 (2) Az érvénytelenséget az NFA elnöke állapítja meg.
 
-[^38]: A 20. § (1) bekezdés c) pontját a 153/2013. (V. 24.) Korm. rendelet 8. §-a iktatta be.
+[^39]: A 20. § (1) bekezdés c) pontját a 153/2013. (V. 24.) Korm. rendelet 8. §-a iktatta be.
