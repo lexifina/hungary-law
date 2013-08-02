@@ -1,3 +1,0 @@
-## „(3a) A közforgalmú gyógyszertár működtetője a gyógyszerész, expediáló szakasszisztens, gyógyszertári asszisztens (1) bekezdés szerinti létszámára vonatkozó előírásokat – a gyógyszertárral munkavégzésre irányuló jogviszonyban nem álló – helyettesítő gyógyszerésszel, helyettesítő expediáló szakasszisztenssel, helyettesítő gyógyszertári asszisztenssel is biztosíthatja úgy, hogy a helyettesített munkaórák száma egy naptári éven belül nem lehet több, mint a gyógyszertárban foglalkoztatott gyógyszerészek, expediáló szakasszisztensek, illetve asszisztensek egész évben teljesített munkaóráinak 30%-a.
-
-## (3b) A gyógyszertár vezetője a (3a) bekezdés szerint helyettesített munkaórákról nyilvántartást vezet.”

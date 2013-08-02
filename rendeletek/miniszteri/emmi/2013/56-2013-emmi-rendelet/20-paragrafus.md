@@ -1,1 +1,0 @@
-## „(5) Ha a közforgalmú gyógyszertár rendészeti ellenőrzésekor valamely fokozottan ellenőrzött szer készletében a 14. §-ban meghatározott hiányon felüli hiány mutatkozik, a hatóság jegyzőkönyvet vesz fel és értesíti a megyei tisztifőgyógyszerészt.”
