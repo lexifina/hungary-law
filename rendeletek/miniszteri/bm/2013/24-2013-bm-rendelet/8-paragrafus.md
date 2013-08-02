@@ -1,4 +1,4 @@
-## 7. §[^4]
+## 7. §[^6]
 
 8. § (1) Ez a rendelet – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -8,4 +8,4 @@
 
 (4) A 4–5. § és a 7. § 2014. január 1-jén lép hatályba.
 
-[^4]: A 7. § a 8. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^6]: A 7. § a 8. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
