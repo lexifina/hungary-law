@@ -1,1 +1,0 @@
-## 6. § Az R. 12. §-ában a „Közlekedési Miniszterek Európai Konferenciájának (ECMT)” szövegrész helyébe a „Nemzetközi Közlekedési Fórum (ITF)” szöveg, az „ECMT” szövegrész helyébe az „ITF” szöveg lép.
