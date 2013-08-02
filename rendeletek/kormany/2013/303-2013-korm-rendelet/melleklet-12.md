@@ -44,10 +44,6 @@
 
 | 21. |  | 4.3. osztályvezető |
 
-12. melléklet a 303/2013. (VII. 31.) Korm. rendelethez
+12. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^2]
 
-1. A rendészeti alapvizsgáról és a rendészeti szakvizsgáról, a Rendészeti Alap- és Szakvizsga Bizottságról, valamint a rendészeti alapvizsga vizsgabiztosi és a rendészeti szakvizsga vizsgabizottsági névjegyzékről szóló 274/2012. (IX. 28.) Korm. rendelet 1. mellékletének I. pontja a következő 11. alponttal egészül ki:
-
-(Közigazgatási alapismeretek)
-
-„11. Nemzetpolitika”
+[^2]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
