@@ -1,1 +1,0 @@
-## 138. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 21/2012. (III. 9.) VM rendelet 2. § (4) bekezdésében a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép.

@@ -1,1 +1,0 @@
-## 121. § Az erdőterv-rendelet előkészítésének és a körzeti erdőterv készítésének szabályairól szóló 11/2010. (II. 4.) FVM rendelet 1. számú mellékletének 01. pontjában a „Fővárosi és Pest Megyei Kormányhivatal Erdészeti Igazgatósága” szövegrész helyébe a „Pest Megyei Kormányhivatal Erdészeti Igazgatósága” szöveg lép.

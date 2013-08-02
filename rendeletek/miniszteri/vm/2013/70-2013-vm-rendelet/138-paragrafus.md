@@ -1,1 +1,0 @@
-## 137. § A mezőgazdasági biztosítás díjához nyújtott támogatás igénybevételi feltételeiről szóló 143/2011. (XII. 23.) VM rendelet 3. § i) pont ib) alpontjában a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép.

@@ -1,1 +1,0 @@
-## 61. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet 2. számú mellékletében a „Mezőgazdasági Szakigazgatási Hivatal területi szerve” szövegrész helyébe a „megyei kormányhivatal földművelésügyi igazgatósága” szöveg lép.
