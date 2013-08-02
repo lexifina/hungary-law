@@ -26,7 +26,7 @@
 
 ## Határidő: 2014. június 30.
 
-## 2. visszavonja a Pesti Vigadó épületének rekonstrukciója kapcsán nyújtandó állami támogatásról szóló 1031/2011. (II. 22.) Korm. határozat 3. pontját.
+## 2.[^2]
 
 1. melléklet az 1514/2013. (VIII. 1.) Korm. határozathoz
 
@@ -117,3 +117,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
