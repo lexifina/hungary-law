@@ -1,1 +1,0 @@
-77. § A büntetőeljárásról szóló 1998. évi XIX. törvény 81. § (1) bekezdés a) pontjában az „a lelkész, illetőleg az egyházi személy” szövegrész helyébe az „az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja” szöveg lép.

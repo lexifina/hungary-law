@@ -1,3 +1,3 @@
 ## 36. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
-78. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § f) pont fc) alpontjában a „helyi és nemzetiségi önkormányzat, a nem állami és egyházi fenntartó, illetőleg az általa fenntartott közfinanszírozásban részesülő intézmény” szövegrész helyébe a „helyi önkormányzat, a nemzetiségi önkormányzat, a nem állami, helyi önkormányzati vagy nemzetiségi önkormányzati fenntartó és az egyházi jogi személy által fenntartott, közfinanszírozásban részesülő intézmény” szöveg, az „fb)” szövegrész helyébe az „fb) alpont” szöveg lép.
+78. §

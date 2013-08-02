@@ -1,1 +1,1 @@
-130. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 71. § (1) bekezdésében az „az egyesületet” szövegrész helyébe az „a vallási tevékenységet végző szervezetet” szöveg lép.
+130. §

@@ -1,5 +1,0 @@
-64. § Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 5. §-a helyébe a következő rendelkezés lép:
-
-„5. § (1) Az egyházi jogi személy által ellátott nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységek központi költségvetésből történő finanszírozása az állami és helyi önkormányzati intézményekkel azonos szempontok szerint, azokkal azonos mértékben történik.
-
-(2) Az egyházi fenntartónak – a felsőoktatási tevékenységet ellátó intézmény esetében az egyházi felsőoktatási intézménynek – az (1) bekezdésben említett tevékenységek után a hasonló feladatot ellátó állami és helyi önkormányzati intézményekkel azonosan járó normatív és egyéb állami hozzájárulás jogcímeit, fedezetét és arányait a központi költségvetésről szóló törvény tartalmazza.”

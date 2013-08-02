@@ -1,3 +1,3 @@
 ## 40. A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény módosítása
 
-84. § A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 7. § (1) bekezdés d) pontjában az „a nyilvántartásba vett egyházak szertartásaira szolgáló intézmények, a Magyar Honvédség objektumai, valamint a temetkezési és egyéb kegyhelyek” szövegrész helyébe az „a templomok és a vallásgyakorlásra rendelt más helyek, a temetők, valamint a Magyar Honvédség objektumai” szöveg lép.
+84. §

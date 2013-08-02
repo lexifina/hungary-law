@@ -1,3 +1,0 @@
-149. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 117. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvény hatálybalépésekor a vallási tevékenységet végző szervezet által fenntartott felsőoktatási intézmény a 2013/2014. tanév első napjától a magán felsőoktatási intézményekre vonatkozó szabályok szerint folytathatja a tevékenységét. Az ilyen felsőoktatási intézmény hitéleti képzésére legkésőbb a 2013. évi általános felvételi eljárásban felvett hallgató tanulmányait változatlan feltételek és finanszírozás mellett fejezheti be.”
