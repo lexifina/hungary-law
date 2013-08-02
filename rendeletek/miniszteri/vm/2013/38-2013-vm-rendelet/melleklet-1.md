@@ -1,4 +1,4 @@
-## 25. § Hatályát veszti a szőlőtermelési potenciálról szóló 86/2009. (VII. 17.) FVM rendelet.
+## 25. §[^3]
 
 1. melléklet a 38/2013. (V. 24.) VM rendelethez
 
@@ -13,3 +13,5 @@ Amennyiben a jog telepítési engedély alapjául szolgál, úgy az engedélyeze
 II. A telepítési jogtartalék adatai:
 
 1. Az újratelepítési jog adatai (kivágás helye; termőhelyi kataszteri osztály, pontérték; kivágás ideje; kivágás-engedély száma; területnagysága; érvényességi ideje).
+
+[^3]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
