@@ -1,0 +1,1 @@
+## „(3) Ha a pályázati felhívás tartalmazza az (1) bekezdésben meghatározott figyelemfelhívást, a pályázó köteles nyilatkozni arról, hogy tudomásul veszi és elfogadja azt, hogy amennyiben a pályázatát NFA nyertessé nyilvánítja, a haszonbérleti jogot a pályázati felhívásban közzétett birtoktestnek csak egy részére is elnyerheti.”
