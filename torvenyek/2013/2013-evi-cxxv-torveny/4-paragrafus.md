@@ -30,7 +30,7 @@ b) a közszolgáltatási területre vonatkozó hatályos hulladékgazdálkodási
 
 c) a közszolgáltatói hulladékgazdálkodási tervet, valamint
 
-d)
+d) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
 
 (4) A kérelmezőnek a (3) bekezdésben meghatározottak mellett – a kérelmezett minősítési osztálynak megfelelően – az 1–4. mellékletben meghatározott minősítési feltétel- és követelményrendszer szerint a következő dokumentumok másolatát is be kell nyújtania:
 

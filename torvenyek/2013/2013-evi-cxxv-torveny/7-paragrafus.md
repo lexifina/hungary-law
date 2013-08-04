@@ -1,6 +1,6 @@
 7. § (1) A minősítő a minősítés iránti kérelem beérkezését követő 8 napon belül megvizsgálja, hogy
 
-a)
+a) az igazgatási szolgáltatási díj megfizetésre került-e,
 
 b) a kérelem megfelel-e a 4. § szerinti formai követelményeknek.
 
