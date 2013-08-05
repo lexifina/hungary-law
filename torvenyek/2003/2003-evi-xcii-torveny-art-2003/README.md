@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2013-07-01 | 2012. évi CCVIII. törvény | 2003-92-00-00.105 |
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2003-92-00-00.106 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2003-92-00-00.107 |
+| 2013-08-05 | 2013. évi CXXVI. törvény | 2003-92-00-00.108 |
