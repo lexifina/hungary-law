@@ -8,4 +8,4 @@
 
 (4) A 16. § szerinti sorsolásos játék, valamint a 23. § szerinti ajándéksorsolás, a lóversenyfogadás a játékadó fizetési kötelezettség alól mentes.
 
-(5) A távszerencsejáték játékadója a 37. § 2.1. pontja szerinti tiszta játékbevétel 20%-a.
+(5) A távszerencsejáték kétheti gyakorisággal teljesítendő játékadója a 37. § 2.1. pontja szerint meghatározott tiszta játékbevétel 20%-a.

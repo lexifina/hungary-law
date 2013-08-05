@@ -16,7 +16,9 @@ e) a játékkaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 
 
 f) kártyaterem üzemeltetése esetén a negyedévi tiszta játékbevétel 5 ezreléke, de legalább 5 ezer forint, legfeljebb 1 millió forint,
 
-g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint
+g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint,
+
+h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 50 millió forint
 
 felügyeleti díjat fizet.
 

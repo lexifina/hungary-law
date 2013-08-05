@@ -4,7 +4,9 @@ a) a 36/C. § (2) bekezdés a) és d)–f) pontjaiban foglalt esetekben negyedé
 
 b) a 36/C. § (2) bekezdés b) és c) pontjaiban foglalt esetekben a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül,
 
-c) a 36/C. § (2) bekezdés g) pontja esetén félévente, a 33/A. § (1) bekezdésben meghatározott játékadó bevallási és fizetési kötelezettség teljesítésével egyidejűleg
+c) a 36/C. § (2) bekezdés g) pontja esetén félévente, a 33/A. § (1) bekezdésben meghatározott játékadó bevallási és fizetési kötelezettség teljesítésével egyidejűleg,
+
+d) a 36/C. § (2) bekezdés h) pontja esetén negyedévente, a tárgynegyedévet követő hónap utolsó napjáig
 
 fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett.
 
