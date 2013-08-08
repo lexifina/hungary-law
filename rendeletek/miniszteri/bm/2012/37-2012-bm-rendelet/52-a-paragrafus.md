@@ -1,4 +1,4 @@
-52/A. §[^8] (1) A 9/A. és 26/A. §-ban meghatározott elismerések (a továbbiakban: örökségvédelmi elismerések) adományozására vonatkozó javaslatokat szakmai kuratórium fogadja be, véleményezi és rangsorolja.
+52/A. §[^13] (1) A 9/A. és 26/A. §-ban meghatározott elismerések (a továbbiakban: örökségvédelmi elismerések) adományozására vonatkozó javaslatokat szakmai kuratórium fogadja be, véleményezi és rangsorolja.
 
 (2) A szakmai kuratórium tagjait évente a belügyminiszter kéri fel a régészeti és a műemlékvédelmi szakemberek közül. A szakmai kuratórium az (1) bekezdés szerinti feladatát
 
@@ -14,4 +14,4 @@ látja el.
 
 (5) Az örökségvédelmi elismerések adományozására a Kulturális Örökség Napjai alkalmából kerül sor.
 
-[^8]: Az 52/A. §-t a 17/2013. (V. 9.) BM rendelet 5. §-a iktatta be.
+[^13]: Az 52/A. §-t a 17/2013. (V. 9.) BM rendelet 5. §-a iktatta be.
