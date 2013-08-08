@@ -1,0 +1,3 @@
+2. § (1) Az 1. § a) pontja szerinti támogatás azon települési önkormányzatot illeti meg, ahol a lakosságszám 2013. január 1-jén a Központi Statisztikai Hivatal adatai alapján 5000 fő alatt volt, az átmeneti ivóvízellátást – nem a települési önkormányzat tulajdonában álló víziközmű-szolgáltatótól vételezett elszállított ivóvízzel – a Magyar Honvédség látja el és a szolgáltató az elszállított ivóvízről az ellátott települési önkormányzat felé számlát ad ki.
+
+(2) Az 1. § b) pontja szerinti támogatás azon települési önkormányzatot illeti meg, ahol a lakosság egészséges ivóvízzel történő ellátásához a Honvédelmi Minisztérium szűrőberendezést telepített az Ivóvízminőség-javító Program befejezéséig.
