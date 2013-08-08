@@ -34,4 +34,8 @@ o) a természeti és kulturális értékek megőrzésének támogatására, vala
 
 p) képzési célú támogatásra,
 
-q) turisztikai beruházások létrehozására és a meglévő kapacitások bővítésére.
+q) turisztikai beruházások létrehozására és a meglévő kapacitások bővítésére,
+
+r)[^1] nemzeti ünnephez és nemzeti emléknaphoz kapcsolódó közszolgáltatási célú rendezvényszervezésre, amelyek megvalósítására kiemelkedően magas látogatószámú vidéki célterületeken kerül sor.
+
+[^1]: Az 5. § r) pontját a 47/2013. (VIII. 7.) NFM rendelet 1. §-a iktatta be.
