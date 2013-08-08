@@ -6,7 +6,7 @@
 
 (2) Az állandó ügyfélszolgálati iroda a hét minden munkanapján legalább napi 6 órás, és – 5 munkanapos hetet alapul véve – legalább heti 36 órás nyitvatartással üzemel. Az állandó ügyfélszolgálati irodán kötelező az elektronikus ügyfélhívó rendszer alkalmazása, valamint készpénzátutalási megbízás rendelkezésre tartása és a bankkártyás fizetési lehetőség biztosítása.
 
-(3)[^159] Az ügyfélszolgálati fiókiroda legalább heti két munkanapon, összesen legalább heti 8 órás nyitvatartással üzemel. Az engedélyes köteles az ügyfélszolgálati fiókirodában a helyben rendelkezésre álló információk alapján az üzletszabályzatban meghatározott ügytípusokba tartozó ügyeket helyben elintézni, bankkártyás fizetési lehetőséget biztosítani, készpénzátutalási megbízást rendelkezésre tartani. Az ügyfélszolgálati fiókirodában nem elintézhető ügyeket az engedélyes köteles igazoltan nyilvántartásba venni és gondoskodni azok intézéséről.
+(3)[^159] Az ügyfélszolgálati fiókiroda legalább heti két munkanapon, összesen legalább heti 8 órás nyitvatartással üzemel. Az engedélyes köteles az ügyfélszolgálati fiókirodában a helyben rendelkezésre álló információk alapján az üzletszabályzatban meghatározott ügytípusokba tartozó ügyeket helyben elintézni, bankkártya használatával történő fizetési lehetőséget biztosítani, készpénzátutalási megbízást rendelkezésre tartani. Az ügyfélszolgálati fiókirodában nem elintézhető ügyeket az engedélyes köteles igazoltan nyilvántartásba venni és gondoskodni azok intézéséről.
 
 (4)[^160] Az egyetemes szolgáltatásra jogosult felhasználót ellátó földgázkereskedő
 
@@ -40,7 +40,7 @@ b) abban a régióban, amelyben az általa ellátott egyetemes szolgáltatásra 
 
 [^157]: A Vhr. 53. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
 [^158]: A Vhr. 53. § (1) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
-[^159]: A Vhr. 53. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^159]: A Vhr. 53. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított, a 300/2013. (VII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^160]: A Vhr. 53. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
 [^161]: A Vhr. 53. § (5) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdésével megállapított és a 414/2012. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^162]: A Vhr. 53. § (5a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 45. § (1) bekezdése iktatta be.

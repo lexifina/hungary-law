@@ -1,3 +1,3 @@
-122. §[^382] A Hivatal határidő tűzésével, valamint a határidő elmulasztásának jogkövetkezményeire való figyelmeztetéssel az üzletszabályzatok módosítását írja elő, ha azok a versenypiaci működésnek a zavarát okozzák, vagy akadályozzák az árszabályozásban foglalt elvek és szabályok érvényesülését, illetve, ha egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszik lehetővé, vagy a felhasználók jogait indokolatlanul és lényegesen sértik.
+122. §[^378] A Hivatal határidő tűzésével, valamint a határidő elmulasztásának jogkövetkezményeire való figyelmeztetéssel az üzletszabályzatok módosítását írja elő, ha azok a versenypiaci működésnek a zavarát okozzák, vagy akadályozzák az árszabályozásban foglalt elvek és szabályok érvényesülését, illetve, ha egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszik lehetővé, vagy a felhasználók jogait indokolatlanul és lényegesen sértik.
 
-[^382]: A Vhr. 122. §-a a 378/2011. (XII. 31.) Korm. rendelet 69. §-ával megállapított szöveg.
+[^378]: A Vhr. 122. §-a a 378/2011. (XII. 31.) Korm. rendelet 69. §-ával megállapított szöveg.

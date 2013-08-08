@@ -1,10 +1,10 @@
 ## Pénzügyi biztosíték
 
-131. §[^406] (1)[^407] A földgázkereskedő és az egyetemes szolgáltató köteles az előző naptári évi földgázforgalom beszerzési értéke 1/12-ed részének megfelelő összeget – de legalább 20 millió, legfeljebb 500 millió forintot – biztosítékként az erre a célra elkülönített saját banki alszámlájára befizetni, ott tartani és e számlát folyamatosan feltölteni.
+131. §[^402] (1)[^403] A földgázkereskedő és az egyetemes szolgáltató köteles az előző naptári évi földgázforgalom beszerzési értéke 1/12-ed részének megfelelő összeget – de legalább 20 millió, legfeljebb 500 millió forintot – biztosítékként az erre a célra elkülönített saját banki alszámlájára befizetni, ott tartani és e számlát folyamatosan feltölteni.
 
-(1a)[^408] A rendszerüzemeltetőknek adott pénzfizetési, illetve az egyensúlyozó platform elszámolását végző vállalkozásnak biztosított ügyleti biztosítékokat a pénzügyi biztosíték összegének meghatározásakor – kivéve, ha pénzügyi biztosíték összege 50 millió forint vagy annál kisebb – figyelembe vehető. A figyelembevételhez be kell nyújtani a Hivatalhoz az előző naptári évi földgázforgalom igazolására, valamint a rendszerüzemeltetőkkel, illetve az egyensúlyozó platform elszámolását végző vállalkozással kötött ügyleti biztosíték összegének igazolására szolgáló dokumentumot.
+(1a)[^404] A rendszerüzemeltetőknek adott pénzfizetési, illetve az egyensúlyozó platform elszámolását végző vállalkozásnak biztosított ügyleti biztosítékokat a pénzügyi biztosíték összegének meghatározásakor – kivéve, ha pénzügyi biztosíték összege 50 millió forint vagy annál kisebb – figyelembe vehető. A figyelembevételhez be kell nyújtani a Hivatalhoz az előző naptári évi földgázforgalom igazolására, valamint a rendszerüzemeltetőkkel, illetve az egyensúlyozó platform elszámolását végző vállalkozással kötött ügyleti biztosíték összegének igazolására szolgáló dokumentumot.
 
-(1b)[^409] Ha az (1) bekezdés szerinti pénzügyi biztosíték összege
+(1b)[^405] Ha az (1) bekezdés szerinti pénzügyi biztosíték összege
 
 a) az 50 millió forintot meghaladja, akkor az (1) bekezdés szerint pénzügyi biztosíték legfeljebb 20%-áig,
 
@@ -14,9 +14,9 @@ c) a 300 millió forintot meghaladja, úgy az (1) bekezdés szerint pénzügyi b
 
 vehető figyelembe ügyleti biztosíték.
 
-(2)[^410] Az (1) bekezdés szerinti – de korábban engedélyesként nem működő – társaságok esetében az engedélyesként történő működésük első üzleti évében a pénzügyi biztosíték összegét az ellenőrzött üzleti tervben földgáz-kereskedelmi tevékenységből származó becsült éves földgáz forgalom alapulvételével kell meghatározni. A pénzügyi biztosíték összegének el kell érnie a 20 millió forintot. Az ezt követő üzleti években az előző évi tényleges vagy az üzleti tervben a földgáz-kereskedelmi tevékenységből származó becsült éves forgalom közül a magasabb érték alapján kell kiszámítani a pénzügyi biztosíték kötelezően elkülönített összegét.
+(2)[^406] Az (1) bekezdés szerinti – de korábban engedélyesként nem működő – társaságok esetében az engedélyesként történő működésük első üzleti évében a pénzügyi biztosíték összegét az ellenőrzött üzleti tervben földgáz-kereskedelmi tevékenységből származó becsült éves földgáz forgalom alapulvételével kell meghatározni. A pénzügyi biztosíték összegének el kell érnie a 20 millió forintot. Az ezt követő üzleti években az előző évi tényleges vagy az üzleti tervben a földgáz-kereskedelmi tevékenységből származó becsült éves forgalom közül a magasabb érték alapján kell kiszámítani a pénzügyi biztosíték kötelezően elkülönített összegét.
 
-(2a)[^411] Ha a földgázkereskedő a földgáz-kereskedelmi tevékenységét szüneteltetni kívánja, előzetesen kérheti a Hivataltól a pénzügyi biztosíték összegének 20 millió forintra történő csökkentését. A kérelemhez az engedélyes köteles csatolni a szállítási rendszerüzemeltetővel a szüneteltetésre vonatkozóan kötött megállapodását. A földgáz-kereskedelmi tevékenység szüneteltetés utáni folytatásához az engedélyes köteles üzleti tervet készíteni, és a földgáz-kereskedelmi tevékenységből származó becsült éves forgalom alapján a Hivataltól a pénzügyi biztosíték megfelelő módosítását kérni.
+(2a)[^407] Ha a földgázkereskedő a földgáz-kereskedelmi tevékenységét szüneteltetni kívánja, előzetesen kérheti a Hivataltól a pénzügyi biztosíték összegének 20 millió forintra történő csökkentését. A kérelemhez az engedélyes köteles csatolni a szállítási rendszerüzemeltetővel a szüneteltetésre vonatkozóan kötött megállapodását. A földgáz-kereskedelmi tevékenység szüneteltetés utáni folytatásához az engedélyes köteles üzleti tervet készíteni, és a földgáz-kereskedelmi tevékenységből származó becsült éves forgalom alapján a Hivataltól a pénzügyi biztosíték megfelelő módosítását kérni.
 
 (3) A pénzügyi biztosítékként elkülönített összeget az engedélyes kizárólag a földgáz adásvételi szerződéseiben foglalt, illetve a rendszerhasználattal kapcsolatos kötelezettségei teljesítéséhez használhatja fel. A pénzügyi biztosítékként elkülönített összeg felhasználása esetén a felhasználástól számított 8 banki napon belül az engedélyes köteles az alszámlát a teljes biztosítéki összegre feltölteni.
 
@@ -26,15 +26,15 @@ vehető figyelembe ügyleti biztosíték.
 
 (6) Az engedélyes köteles a Hivatal részére a pénzügyi biztosítékról és annak változásáról részletező nyilvántartást vezetni olyan módon, hogy az utólag ellenőrizhető, és a Hivatal részére – írásban, illetve elektronikus adathordozón – benyújtható legyen.
 
-(7)[^412] A Hivatal az engedélyes kérelmére pénzügyi biztosítékként elfogadhat a fentiekkel azonos feltételeknek megfelelő, azonos értékű, azonos likviditású, azonos biztonságot nyújtó és kizárólag a (3) bekezdésben megjelölt célra igénybe vehető banki hitelkeretet, illetve belföldi székhelyű vagy az Európai Gazdasági Térségben részes valamely államban letelepedett hitelintézet által vállalt, illetve felülgarantált, első osztályú, visszavonhatatlan bankgaranciát.
+(7)[^408] A Hivatal az engedélyes kérelmére pénzügyi biztosítékként elfogadhat a fentiekkel azonos feltételeknek megfelelő, azonos értékű, azonos likviditású, azonos biztonságot nyújtó és kizárólag a (3) bekezdésben megjelölt célra igénybe vehető banki hitelkeretet, illetve belföldi székhelyű vagy az Európai Gazdasági Térségben részes valamely államban letelepedett hitelintézet által vállalt, illetve felülgarantált, első osztályú, visszavonhatatlan bankgaranciát.
 
-(8)[^413] Az engedélyes a pénzügyi biztosíték érvényességének kezdetétől számított 8 napon belül köteles a pénzügyi biztosíték igénybevételéhez szükséges minden információt megadni a vele szerződésben álló rendszerüzemeltetők és földgázkereskedők részére.
+(8)[^409] Az engedélyes a pénzügyi biztosíték érvényességének kezdetétől számított 8 napon belül köteles a pénzügyi biztosíték igénybevételéhez szükséges minden információt megadni a vele szerződésben álló rendszerüzemeltetők és földgázkereskedők részére.
 
-[^406]: A Vhr. 131. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^407]: A Vhr. 131. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 73. § (1) bekezdésével megállapított szöveg.
-[^408]: A Vhr. 131. § (1a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (2) bekezdése iktatta be, szövege a 99/2013. (III. 29.) Korm. rendelet 3. § 1. pontja szerint módosított szöveg.
-[^409]: A Vhr. 131. § (1b) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (2) bekezdése iktatta be.
-[^410]: A Vhr. 131. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 73. § (3) bekezdésével megállapított szöveg.
-[^411]: A Vhr. 131. § (2a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (4) bekezdése iktatta be.
-[^412]: A Vhr. 131. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^413]: A Vhr. 131. § (8) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (5) bekezdése iktatta be.
+[^402]: A Vhr. 131. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^403]: A Vhr. 131. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 73. § (1) bekezdésével megállapított szöveg.
+[^404]: A Vhr. 131. § (1a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (2) bekezdése iktatta be, szövege a 99/2013. (III. 29.) Korm. rendelet 3. § 1. pontja szerint módosított szöveg.
+[^405]: A Vhr. 131. § (1b) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (2) bekezdése iktatta be.
+[^406]: A Vhr. 131. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 73. § (3) bekezdésével megállapított szöveg.
+[^407]: A Vhr. 131. § (2a) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (4) bekezdése iktatta be.
+[^408]: A Vhr. 131. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^409]: A Vhr. 131. § (8) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 73. § (5) bekezdése iktatta be.

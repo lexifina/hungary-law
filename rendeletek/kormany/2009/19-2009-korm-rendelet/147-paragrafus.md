@@ -1,4 +1,4 @@
-147. §[^455] A kiszervezés jóváhagyásához az engedélyes köteles benyújtani a szolgáltatási szerződést, vagy annak tervezetét, melynek minden egyes kiszervezett szolgáltatás esetében tartalmaznia kell a következőket:
+147. §[^457] A kiszervezés jóváhagyásához az engedélyes köteles benyújtani a szolgáltatási szerződést, vagy annak tervezetét, melynek minden egyes kiszervezett szolgáltatás esetében tartalmaznia kell a következőket:
 
 a) a szolgáltatás tartalma, beleértve annak nyújtásának helye és ideje,
 
@@ -16,4 +16,4 @@ g) a szerződés felmondásának esetei, módja és jogkövetkezményei,
 
 h) a szerződés megszűnése esetére a kiszervezett eszközöknek és személyzetnek az engedélyes részére történő visszaadásának szabályait.
 
-[^455]: A Vhr. 147. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^457]: A Vhr. 147. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
