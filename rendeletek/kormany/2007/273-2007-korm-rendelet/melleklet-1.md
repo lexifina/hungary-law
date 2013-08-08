@@ -1,7 +1,7 @@
-1. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^347]
+1. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^359]
 
 Egyetemes Szolgáltatási Szabályzat
 
 1. Általános rendelkezések
 
-[^347]: A Vhr. 1. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^359]: A Vhr. 1. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.

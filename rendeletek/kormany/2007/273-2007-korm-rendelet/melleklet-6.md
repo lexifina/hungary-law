@@ -1,6 +1,6 @@
 6. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működési engedély iránti kéreleméhez benyújtandó dokumentumok[^367]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működési engedély iránti kéreleméhez benyújtandó dokumentumok[^383]
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
@@ -8,7 +8,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 3. Nyilatkozat arról, hogy a kérelmező rendelkezik környezeti károk megtérítését biztosító felelősségbiztosítással,
 
-4.[^368] Jogerős egységes környezethasználati engedély és jogerős építési engedély,
+4.[^384] Jogerős egységes környezethasználati engedély és jogerős építési engedély,
 
 5. A hálózati engedélyessel kötött hálózati csatlakozási szerződés eredeti vagy annak hiteles másolati példánya,
 
@@ -30,7 +30,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 14. Ellenőrzött minőségbiztosítási rendszer bevezetésének ütemterve és határideje,
 
-15.[^369] Műszaki adatok:
+15.[^385] Műszaki adatok:
 
 15.1. egyvonalas villamos kapcsolási rajz,
 
@@ -52,6 +52,6 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 15.10. az erőmű(rész) tervezett maradó élettartama.
 
-[^367]: A Vhr. 6. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdése szerint módosított szöveg.
-[^368]: A Vhr. 6. számú melléklet 4. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
-[^369]: A Vhr. 6. számú melléklet 15. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^383]: A Vhr. 6. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdése szerint módosított szöveg.
+[^384]: A Vhr. 6. számú melléklet 4. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^385]: A Vhr. 6. számú melléklet 15. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
