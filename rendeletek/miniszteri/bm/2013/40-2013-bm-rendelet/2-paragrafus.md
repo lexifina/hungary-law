@@ -1,0 +1,3 @@
+## 1. § A belügyminiszter által alapított és adományozott elismerésekről szóló 37/2012. (VIII. 2.) BM rendelet (a továbbiakban: BM rendelet) 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A belügyminiszter irányítása alatt álló szerveknél foglalkoztatási jogviszonyban álló személyek, az e szervek munkáját segítő személyek, valamint a helyi önkormányzatok érdekében huzamos időn keresztül végzett kimagasló közigazgatási tevékenységet végzők részére a Köz Szolgálatáért Érdemjel arany, ezüst és bronz fokozatban adományozható a rendvédelem és a közigazgatás érdekében huzamos időn keresztül végzett kiemelkedő munka elismerésére.”
