@@ -1,3 +1,0 @@
-## 8. § A Vet. Vhr. a következő 127. §-sal egészül ki:
-
-## „127. § E rendeletnek a Mód. 2. rendelettel megállapított 84/A–84/D. §-ában, valamint 90. § (2) bekezdés b) pont be) alpontjában és c) pont cb) alpontjában megállapított kötelezettségek esetében a 120. § alapján lefolytatott eljárás jogerős lezárásától számított hat hónapig nem alkalmazható a VET 96. §-a, ha az engedélyes a 120. § alapján lefolytatott eljárás jogerős lezárását követően minden hónap 15. napjáig részletes ütemtervet nyújt be a Hivatalhoz a Mód. 2. rendelettel megállapított 84/A–84/D. §-ában, valamint 90. § (2) bekezdés b) pont be) alpontjában és c) pont cb) alpontjában foglalt kötelezettségek teljesítésének állásáról.”
