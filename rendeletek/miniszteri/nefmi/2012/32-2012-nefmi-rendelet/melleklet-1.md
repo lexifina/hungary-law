@@ -1,5 +1,5 @@
-## 13. §[^3]
+## 13. §[^12]
 
 1. melléklet a 32/2012. (V. 8.) NEFMI rendelethez
 
-[^3]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -4,7 +4,7 @@
 
 a) a pályázat formai követelményeit,
 
-b) a megbízási jogviszony tárgyát,
+b)[^1] a világörökségi gondnokság által ellátandó tevékenységi kört,
 
 c) a világörökségi terület megnevezését,
 
@@ -55,3 +55,5 @@ n) az érintett nyilatkozatát arról, hogy a pályázati anyagban meghatározot
 (7) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó szervezet beleegyezésével közölhető harmadik személlyel.
 
 (8) Sikertelen pályázat esetén a pályázó szervezet részére a pályázati anyagot vissza kell juttatni. Amennyiben a pályázó szervezet az általa benyújtott pályázati anyagot a pályázat elbírálási határidejétől számított 90 napon belül nem veszi át, azt meg kell semmisíteni.
+
+[^1]: A 3. § (2) bekezdés b) pontja az 57/2013. (VIII. 7.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
