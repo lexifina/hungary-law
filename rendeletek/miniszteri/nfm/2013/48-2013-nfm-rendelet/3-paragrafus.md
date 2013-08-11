@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-3. § Hatályát veszti az Új Magyarország Kockázati Tőkeprogramok és a Svájci–Magyar Együttműködési Program keretében tulajdonosi joggyakorló szerv kijelöléséről szóló 87/2011. (XII. 29.) NFM rendelet.
+3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
