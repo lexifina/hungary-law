@@ -1,0 +1,1 @@
+## 42. § Az Országos Műemléki Felügyelőség 08101/1967. számú határozatával műemlékké nyilvánított, Vaskeresztes (Vas megye) 73 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték (gazdasági épület) megsemmisülésére tekintettel – megszüntetem.

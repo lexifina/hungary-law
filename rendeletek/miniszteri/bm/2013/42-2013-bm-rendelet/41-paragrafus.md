@@ -1,0 +1,1 @@
+## 40. § Az Országos Műemléki Felügyelőség 08101/1967. számú határozatával műemlékké nyilvánított, Püspökmolnári (Vas megye) 5/3 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték (gazdasági épület) megsemmisülésére tekintettel – megszüntetem.

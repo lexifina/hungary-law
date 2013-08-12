@@ -1,0 +1,3 @@
+35. § (1) Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 9/2009. (III. 6.) OKM rendelettel műemlékké nyilvánított Budapest XII. kerület, Béla király út 26. számú, a védetté nyilvánítás időpontjában 9552 helyrajzi számon nyilvántartott, majd telekalakítást követően a 9552/1, a 9552/2, 9552/3 és a 9552/4 helyrajzi számon nyilvántartott ingatlanok közül a 9552/1, a 9552/2 és a 9552/4 helyrajzi számú ingatlan műemléki védettségét megszüntetem.
+
+(2) A 9552/3 helyrajzi számú ingatlan műemléki védettsége továbbra is fennáll.

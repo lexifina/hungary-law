@@ -1,0 +1,1 @@
+## 36. § Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló 25/2005. (IX. 16.) NKÖM rendelettel műemlékké nyilvánított, Mezőfalva (Fejér megye) 0688/21 helyrajzi számú ingatlan (majorsági főépület) műemléki védettségét megszüntetem.

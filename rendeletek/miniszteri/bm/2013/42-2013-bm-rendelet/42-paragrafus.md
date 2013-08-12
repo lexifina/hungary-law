@@ -1,0 +1,1 @@
+## 41. § A 22059/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel műemlékké nyilvánított, Tata (Komárom-Esztergom megye) Hajdú utca 2. számú, 1465 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.
