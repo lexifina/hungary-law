@@ -12,7 +12,7 @@
 
 ## közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. június 30.
+## Határidő: 2013. december 31.[^1]
 
 1. melléklet az 1664/2012. (XII. 20.) Korm. határozathoz
 
@@ -97,3 +97,5 @@
 | Magyar Államkincstár |  |  |  | 1 példány |  |  | egyéb : azonnal |  |  |  |  | 335,7 |  |  |  | 335,7 |
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1530/2013. (VIII. 12.) Korm. határozat 8. pontja szerint módosított szöveg.
