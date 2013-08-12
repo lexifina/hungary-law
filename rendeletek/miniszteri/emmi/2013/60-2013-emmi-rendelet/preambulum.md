@@ -1,0 +1,3 @@
+A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 77. § (2) bekezdés h) pontjában kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § j) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszter, valamint a 84. § a) pontjában meghatározott feladatkörében eljáró nemzeti fejlesztési miniszter véleményének kikérésével – a következőket rendelem el:
