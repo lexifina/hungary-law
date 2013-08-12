@@ -8,7 +8,7 @@
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2013. június 30.
+## Határidő: 2013. szeptember 30.[^2]
 
 1. melléklet az 1536/2012. (XI. 28.) Korm. határozathoz
 
@@ -101,3 +101,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat az 1530/2013. (VIII. 12.) Korm. határozat 5. pontja szerint módosított szöveg.
