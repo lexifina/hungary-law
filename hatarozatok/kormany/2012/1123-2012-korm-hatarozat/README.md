@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1123-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-04-25 | 2012-1123-30-22.1 | 1123/2012. (IV. 25.) Korm. határozat |
+| 2013-08-12 | 2012-1123-30-22.2 | 2011: CXCV. törvény |

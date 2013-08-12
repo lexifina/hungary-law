@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra: 2012. december 31.
+## elszámolásra: 2014. június 30.[^2]
 
 1. melléklet az 1123/2012. (IV. 25.) Korm. határozathoz
 
@@ -127,3 +127,5 @@ Költségvetési év: 2012.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A határozat az 1530/2013. (VIII. 12.) Korm. határozat 4. pontja szerint módosított szöveg.
