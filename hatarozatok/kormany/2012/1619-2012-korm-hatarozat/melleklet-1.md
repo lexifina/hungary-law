@@ -8,7 +8,7 @@
 
 ## belügyminiszter
 
-## Határidő: 2013. június 30.
+## Határidő: 2014. március 31.[^1]
 
 1. melléklet az 1619/2012. (XII. 18.) Korm. határozathoz
 
@@ -89,3 +89,5 @@ Készítette, illetve felvilágosítást nyújt:
 | MÁK | 1 példány |  | egyéb: ..........azonnal | 451,0 |  |  |  |  | 451,0 |
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1530/2013. (VIII. 12.) Korm. határozat 7. pontja szerint módosított szöveg.
