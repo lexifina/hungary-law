@@ -1,0 +1,292 @@
+# A Kormány 1524/2013. (VIII. 12.) Korm. határozata
+
+Magyar Közlöny 2013. évi 134. szám, 2013. augusztus 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1400fbba24f77e4aee1af4ee169ef1c0e12c2b19/dokumentumok/70fe649d8e076f02aeff00cafa38671020c3f537/letoltes)
+
+---
+
+A Kormány 1524/2013. (VIII. 12.) Korm. határozata
+a védelmi felkészítés egyes kérdéseiről
+1. A Kormány a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezetendő
+intézkedésekről szóló 2011. évi CXIII. törvény 21. § (1) bekezdés e)–i) pontjában, 21. § (3) bekezdés b) pontjában,
+továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető
+intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.)
+Korm. rendelet 41. § (3) bekezdésében foglalt feladatainak végrehajtása érdekében
+a) az 1. mellékletben foglaltak szerint elfogadja a védelmi felkészítés 2013. évi feladattervét;
+b) felhívja a honvédelmi minisztert, hogy készítsen jelentést a Kormány számára a védelmi felkészítés
+2013. évi feladatainak végrehajtásáról, valamint a „honvédelmi- és gazdasági felkészülés központi kiadásai”,
+a „Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítása”, illetve a „K-600 hírrendszer
+működtetésére”jogcímeken biztosított előirányzatok felhasználásáról;
+Felelős: honvédelmi miniszter
+Határidő: 2014. február 1.
+c) felhívja a honvédelmi minisztert, hogy készítsen előterjesztést a védelmi felkészítés körébe tartozó,
+2014. évre javasolt feladatokról;
+Felelős: honvédelmi miniszter
+Határidő: 2014. február 1.
+d) felhívja a honvédelmi minisztert, hogy – a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-
+koordináló szakmai szerve útján – kísérje figyelemmel a feladattervben foglaltak végrehajtását és szükség
+esetén tegyen javaslatot a teljesítést segítő intézkedésekre;
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+e) felhívja a nemzetgazdasági minisztert, hogy a 2014. évi költségvetés összeállításakor a védelmi felkészítés
+feladatkörében gondoskodjon
+ea) a honvédelmi- és gazdasági felkészülés központi kiadásai,
+eb) a Honvédelmi Tanács és a Kormány speciális működési feltételei (beleértve a védelmi igazgatás
+info-kommunikációs rendszere működtetésének) biztosításához szükséges költségvetési
+előirányzatok
+tervezéséről;
+Felelős: nemzetgazdasági miniszter
+Határidő: a 2014. évi költségvetés tervezéséhez igazodóan
+f) felhívja a honvédelmi minisztert, hogy a Honvédelmi Minisztérium Védelmi Hivatal útján koordinálja
+a honvédelmi- és a gazdasági felkészülés, illetve a Honvédelmi Tanács és a Kormány speciális működési
+feltételeinek biztosítását, valamint határozza meg a K-600/KTIR Hírközlési és Informatikai Rendszer
+működtetésével és fejlesztésével kapcsolatos alkalmazási követelményeket;
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+g) felkéri az autonóm államigazgatási szervek vezetőit, az önálló szabályozó szervek vezetőit, a legfőbb ügyészt,
+a Magyar Nemzeti Bank elnökét, a Médiaszolgáltatás-támogató és Vagyonkezelő Alap vezérigazgatóját,
+a Nemzeti Média- és Hírközlési Hatóság elnökét, valamint az Országos Bírósági Hivatal elnökét, hogy
+szakterületüket érintően működjenek együtt az 1. mellékletben meghatározott, a védelmi felkészítés és
+a válságkezelés feladatainak végrehajtásáért felelős szervekkel a feladatok végrehajtásában.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1182/2012. (VI. 1.) Korm. határozat.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1524/2013. (VIII. 12.) Korm. határozathoz
+A védelmi felkészítés 2013. évi feladatterve
+1. Nemzeti Intézkedési Rendszer
+a) El kell készíteni az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) válságkezelési rendszerével
+összhangban álló Nemzeti Intézkedési Rendszer (a továbbiakban: NIR) ágazati feladatainak végrehajtásáról
+szóló beszámolót és meg kell küldeni a honvédelmi miniszter részére.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. szeptember 30.
+b) Az ágazati felelős szervek bevonásával el kell végezni a Nemzeti Intézkedések Gyűjteményében foglalt
+intézkedések felülvizsgálatát.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. november 1.
+c) A védelmi felkészítés körébe tartozó, 2014. évre javasolt feladatokról szóló kormány-előterjesztésben be kell
+számolni a NIR működésének összesített tapasztalatairól, valamint a b) pont szerint elvégzett felülvizsgálat
+eredményéről, továbbá szükség szerint javaslatot kell tenni a Kormány részére a Nemzeti Intézkedések
+Gyűjteményében foglalt intézkedések módosítására, kiegészítésére, vagy hatályon kívül helyezésére.
+Felelős: honvédelmi miniszter
+Határidő: 2014. február 1.
+d) Ki kell dolgozni a Nemzeti Intézkedések Gyűjteményének egyes intézkedéseiben szereplő ágazati intézkedési
+terveket.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. november 30.
+e) Az ágazati javaslatok alapján össze kell állítani és meg kell küldeni a NATO részére a NATO Válságreagálási
+Rendszer kézikönyvének éves módosítására vonatkozó nemzeti álláspontot.
+Felelős: honvédelmi miniszter
+Határidő: NATO által meghatározott időpont
+2. A polgári-katonai-rendvédelmi együttműködés feladatai
+a) Meg kell kezdeni a polgári-katonai-rendvédelmi képességek együttes, koordinált alkalmazásáról szóló,
+a honvédelmi miniszter által kiadott tervben foglalt feladatok végrehajtását.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+megyei (fővárosi), helyi védelmi bizottságok elnökei
+Határidő: folyamatosan, az ütemterv szerint
+b) A honvédelmi miniszter közreműködésével ki kell dolgozni a fegyveres összeütközés időszakában
+végrehajtandó polgári védelmi feladatokra történő felkészítés tematikáját, tárgyköreit, a végrehajtásra
+vonatkozó terveket, és végre kell hajtani a felkészítést.
+Felelős: belügyminiszter
+honvédelmi miniszter
+Határidő: 2013. október 31.
+c) Felül kell vizsgálni az elektronikus hírközlés különleges jogrendi időszakra történő felkészítésére, különleges
+jogrendi alkalmazására és irányítására vonatkozó szabályokat, és a Nemzeti Média- és Hírközlési Hatóság
+szakmai javaslata alapján ki kell dolgozni a szükséges módosítások tervezeteit.
+Felelős: nemzeti fejlesztési miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. november 15.
+d) Biztosítani kell az Országos Légiriasztási Rendszer (OLGI) használatát azon médiaszolgáltatóknál, ahol
+ez a képesség még nem áll rendelkezésre.
+Felelős: nemzeti fejlesztési miniszter
+honvédelmi miniszter
+belügyminiszter
+Határidő: 2013. szeptember 30.
+
+e) Ki kell dolgozni a NATO 2013 képességcél csomag„Stabilizációs és Újjáépítés”képességcéljaihoz való nemzeti
+hozzájárulás állandó tervezési és koordinálási rendjét a Honvédelmi Minisztérium védelmi tervezése és
+a honvédelmi igazgatás keretében.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. október 31.
+f) Ki kell dolgozni a NATO 2013 képességcél csomag „Stabilizációs és Újjáépítés” képességcéljaihoz felajánlásra
+tervezett polgári képességek nemzetközi válságkezelésben történő alkalmazásának jogi és szabályozási
+hátterét.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. október 31.
+3. A védelmi felkészítés feladatai
+a) Külön terv szerint végre kell hajtani a védelmi igazgatás rendszerében területi és helyi szintű feladatot ellátók
+felkészítését.
+Felelős: honvédelmi miniszter
+belügyminiszter
+megyei (fővárosi), helyi védelmi bizottságok
+Határidő: folyamatos
+b) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről
+szóló 2011. évi CXIII. törvény 81. § (3) bekezdése alapján, a honvédelmi miniszter közreműködésével ki kell
+dolgozni az ágazati honvédelmi feladatokról szóló miniszteri rendeleteket.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. szeptember 30.
+c) A b) pont szerinti jogalkotási feladat végrehajtása során szerzett tapasztalatokat az érintett tárcák
+szakértőinek bevonásával meg kell vitatni, és a védelmi felkészítés 2014. évi feladatairól szóló
+előterjesztéshez csatoltan szükség szerint javaslatot kell tenni a további jogalkotási feladatok végrehajtására.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2014. február 1.
+d) Az érintett miniszterek bevonásával meg kell vizsgálni a szakértői támogatás nyújtását a minisztériumoknál
+a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről
+szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet
+16. § (2) bekezdésében meghatározottakra figyelemmel, a honvédelmi feladatok végrehajtásának
+előmozdítása érdekében.
+Felelős: honvédelmi miniszter
+érintett miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. október 30.
+e) Felül kell vizsgálni a megyei (fővárosi) és helyi védelmi bizottságok, valamint a polgármesterek honvédelmi
+igazgatási feladatainak végrehajtásához szükséges állami támogatások rendszerét, és ki kell alakítani
+a területi, a helyi és a települési szintű honvédelmi igazgatási feladatok végrehajtásával kapcsolatos költségek
+és kiadások fedezetére szolgáló állami támogatás nyújtásának szabályait.
+Felelős: közigazgatási és igazságügyi miniszter
+honvédelmi miniszter
+nemzetgazdasági miniszter
+megyei (fővárosi), helyi védelmi bizottságok elnökei
+Határidő: 2013. szeptember 1.
+4. A különleges jogrend idején bevezetendő rendkívüli intézkedések jogszabálytervezeteinek kidolgozása
+a) Ki kell dolgozni a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet és a váratlan támadás
+idején bevezetendő rendkívüli intézkedések jogszabálytervezeteit és szakmai véleményezésre meg kell
+küldeni a honvédelmi miniszter részére.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. október 15.
+
+b) A honvédelmi miniszter véleményének figyelembevételével el kell végezni az a) pont szerinti
+jogszabálytervezetek szükség szerinti módosítását, és a tervezeteket meg kell küldeni a honvédelmi miniszter
+útján, a közigazgatási és igazságügyi miniszter részére.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. november 15.
+c) El kell végezni az a) és b) alpont, valamint a 2. pont c) és d) alpontja alapján kidolgozott jogszabálytervezetek
+kodifikációs felülvizsgálatát, annak eredményéről tájékoztatni kell a kidolgozó tárcát.
+Felelős: közigazgatási és igazságügyi miniszter
+Határidő: 2013. december 15.
+d) Az a)–c) alpontok alapján kidolgozott, valamint megfelelően módosított jogszabálytervezeteket meg kell
+küldeni a honvédelmi miniszter részére, aki gondoskodik ezen tervezeteknek a Kormány ügyrendje szerinti
+egyeztetésének előkészítéséről.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. december 31.
+5. Válságkezelési gyakorlatokkal, rendezvényekkel összefüggő feladatok
+a) A NATO 2014. évi válságkezelési gyakorlat (CMX 14) nemzeti feladatainak előkészítése, részvétel
+a gyakorlattal összefüggő szövetségi feladatok végrehajtásában.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a közreműködő
+központi államigazgatási szervek vezetői
+megyei (fővárosi), helyi védelmi bizottságok elnökei
+Határidő: a NATO által a gyakorlat végrehajtására meghatározott időpont
+b) A „Védelmi Igazgatás 2013” gyakorlat sorozat előkészítése, megszervezése és végrehajtása kettő ütemben,
+a honvédelmi igazgatás központi, területi és helyi szerveinek részvételével, a Honvédelmi Minisztérium külön
+terve szerint.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a közreműködő
+központi államigazgatási szervek vezetői
+megyei (fővárosi), helyi védelmi bizottságok elnökei
+Határidő: I. ütem: 2013. július 31.
+II. ütem: 2013. november 30.
+6. A nemzetgazdaságra háruló honvédelmi feladatok
+a) A gazdaságfelkészítési és a lakosságellátási tervezés módszertanának részletes kidolgozása és korszerűsítése
+az új jogszabályok alapján.
+Felelős: nemzetgazdasági miniszter
+honvédelmi miniszter
+belügyminiszter
+vidékfejlesztési miniszter
+nemzeti fejlesztési miniszter
+emberi erőforrások minisztere
+megyei (fővárosi) védelmi bizottságok
+Határidő: 2013. szeptember 30.
+b) A védelmi célú tartalékolás intézményi rendszerének korszerűsítése.
+Felelős: nemzetgazdasági miniszter
+honvédelmi miniszter
+belügyminiszter
+vidékfejlesztési miniszter
+nemzeti fejlesztési miniszter
+emberi erőforrások minisztere
+Határidő: 2013. szeptember 30.
+
+c) A honvédelmi, illetve nemzetbiztonsági szempontból stratégiai érdekű kapacitásokról, valamint hadiipari
+kapacitások rögzítéséről szóló kormányhatározat felülvizsgálata, illetve szükség szerinti módosítása.
+Felelős: nemzetgazdasági miniszter
+honvédelmi miniszter
+belügyminiszter
+Határidő: 2013. október 31.
+d) A honvédelemben közreműködő szervek megkeresésével és adatszolgáltatásai alapján jelentés készítése
+a nemzetgazdaság különleges jogrend időszaki teljesítőképességéről.
+Felelős: nemzetgazdasági miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. november 30.
+7. A védelmi igazgatás tervrendszerének kialakításával kapcsolatos feladatok.
+a) Ki kell dolgozni a védelmi igazgatás tervrendszerének kialakításával kapcsolatos koncepciót.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+megyei (fővárosi), helyi védelmi bizottságok
+Határidő: 2013. augusztus 31.
+b) Az a) alpont szerinti koncepció alapján előterjesztést kell készíteni a Kormány részére a védelmi igazgatás
+tervrendszerének bevezetéséről.
+Felelős: honvédelmi miniszter
+Határidő: 2013. szeptember 30.
+c) El kell készíteni a védelmi igazgatás központi és területi szintű tervdokumentációját.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+megyei (fővárosi) védelmi bizottságok
+Határidő: 2013. november 30.
+d) Ajánlásokat kell készíteni a védelmi igazgatás helyi szintű tervdokumentációjának 2013. december 31-ig
+történő kialakításához.
+Felelős: megyei (fővárosi) védelmi bizottságok
+Határidő: 2013. november 30.
+e) A Honvédelmi Igazgatási Koordinációs Tárcaközi Munkacsoport keretében meg kell vizsgálni a védelmi
+igazgatási tervrendszer térinformatikai támogatásának lehetséges módozatait.
+Felelős: honvédelmi miniszter
+miniszterek, Miniszterelnökséget vezető államtitkár
+Határidő: 2013. december 31.
+8. A Honvédelmi Tanács és a Kormány speciális működési feltételeivel összefüggő feladatok
+a) Folytatni kell a Honvédelmi Tanács és a Kormány speciális működési feltételeit biztosító létesítmények
+csökkentett üzemeltetési követelmények szerinti működtetését, a képességek fenntartását, az üzemeltetési
+tevékenység racionalizálását.
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+b) Biztosítani kell a K-600/KTIR Hírközlési és Informatikai Rendszer kormányzati célú fejlesztési és működési
+feltételeit.
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+c) Meg kell kötni az a) alpont szerinti működtetéssel, képesség-fenntartással és üzemeltetéssel kapcsolatos
+feladatok ellátásához szükséges 2013. évi szerződéseket.
+Felelős: nemzeti fejlesztési miniszter
+honvédelmi miniszter
+Határidő: 2013. október 30.
+
+9. Létfontosságú rendszerek és létesítmények védelme
+a) Ki kell dolgozni a honvédelmi érdekből létfontosságú infrastruktúrákra vonatkozó ágazati és horizontális
+követelményeket.
+Felelős: honvédelmi miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+nemzetgazdasági miniszter
+Határidő: 2013. november 30.
+10. A honvédelmi irányítás jogkörében, a honvédelmi miniszter által jóváhagyott terv alapján, az érintett
+államigazgatási szervek bevonásával átfogó, felügyeleti ellenőrzést kell lefolytatni a Békés, valamint a Zala Megyei
+Védelmi Bizottságoknál és munkaszervezetüknél, valamint célellenőrzést kell végrehajtani a Budapest Főváros,
+a Baranya, valamint a Heves Megyei Védelmi Bizottságoknál és munkaszervezetüknél.
+Felelős: honvédelmi miniszter
+belügyminiszter
+nemzetgazdasági miniszter
+emberi erőforrások minisztere
+az érintett megyei (fővárosi) védelmi bizottságok elnökei
+Határidő: 2013. november 30.
+11. A Kormány számára szóló jelentés összeállításához tájékoztatót kell küldeni a honvédelmi miniszter részére
+a 2013. évi védelmi igazgatási feladatterv végrehajtásáról, a jóváhagyott költségvetési források felhasználásáról.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+megyei (fővárosi) védelmi bizottságok elnökei
+Határidő: 2013. november 30.
+12. Javaslatokat kell küldeni a honvédelmi miniszter részére a védelmi felkészítés 2014. évi feladattervének összeállítása
+érdekében a feladatokhoz tartozó költségvetési igények megjelölésével.
+Felelős: miniszterek, Miniszterelnökséget vezető államtitkár
+megyei (fővárosi) védelmi bizottságok elnökei
+Határidő: 2013. november 30.
