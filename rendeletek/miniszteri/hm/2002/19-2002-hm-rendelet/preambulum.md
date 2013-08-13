@@ -1,1 +1,0 @@
-A honvédelemről szóló 1993. évi CX. törvény (Hvt.) 10. § g) pontjában kapott felhatalmazás alapján a kártérítési felelősség körében meg nem térülő kár leírásának és törlésének technikáját, valamint a leírási jogköröket a következők szerint szabályozom:
