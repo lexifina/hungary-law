@@ -1,3 +1,3 @@
-## 3/A. §[^5]
+## 3/B. §[^6] Pályázati kiírás nélkül is létesíthető közalkalmazotti jogviszony tartalékállományba tartozó katonával, feltéve, hogy a kinevezést megelőző napon a szolgálati viszonya megszűnik.
 
-[^5]: A 3/A. §-t a 7/2010. (IV. 23.) HM rendelet 3. §-a iktatta be. E módosító rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 3/B. §-t a 9/2013. (VIII. 12.) HM rendelet 286. §-a iktatta be.
