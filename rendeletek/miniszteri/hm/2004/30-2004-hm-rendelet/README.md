@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-30-20-1
 | 2012-01-19 | 2004-30-20-15.7 | 1/2012. (I. 11.) HM rendelet |
 | 2012-03-09 | 2004-30-20-15.8 | 3/2012. (III. 6.) HM rendelet |
 | 2013-01-01 | 2004-30-20-15.9 | 23/2012. (XII. 18.) HM rendelet |
+| 2013-08-13 | 2004-30-20-15.10 | 9/2013. (VIII. 12.) HM rendelet |
