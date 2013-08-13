@@ -1,0 +1,3 @@
+82. § (1) Ha a tiszti vagy az altiszti állomány tagjáról a tárgyévben éves teljesítményértékelés nem készült, akkor azt az ok pontos meghatározásával jegyzőkönyvben kell rögzíteni. A jegyzőkönyvhöz csatolni kell a tárgyévet megelőző évi teljesítményértékelést. Az előmenetel szempontjából a jegyzőkönyvet és a tárgyévet megelőző évi teljesítményértékelést együtt kell figyelembe venni. A jegyzőkönyvben rögzíteni kell a tárgyévet megelőző évben teljesített fizikai állapotfelmérés és az éves kiképzési feladatok eredményét.
+
+(2) Ha a tiszti vagy az altiszti állomány tagjáról már a tárgyévet megelőző évben sem készült teljesítményértékelés, akkor előmenetelre a tárgyévben nem tervezhető.

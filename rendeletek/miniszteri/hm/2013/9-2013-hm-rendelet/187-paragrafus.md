@@ -1,0 +1,7 @@
+187. § (1) Az állomány külföldi szolgálatot teljesítő tagja az eredeti külföldi szolgálati beosztása ellátása mellett határozatban vagy parancsban rangidős nemzeti képviselőnek kijelölhető. A rangidős nemzeti képviselő elöljárói, illetve felettesi jogkörrel nem rendelkezik, de a számára rangidősi minőségében meghatározott feladatok elvégzése érdekében – a 188. § keretei között – jogosult feladatot szabni az illetékességi területéhez tartozó állománynak, feltéve, ha az nem akadályozza az állomány tagjának szolgálati tevékenységét, és a feladat nem tartozik más elöljáró feladatkörébe. A kijelöléssel együtt járó jogokról és kötelezettségekről az állomány tagját tájékoztatni kell.
+
+(2) A rangidős nemzeti képviselői feladatok ellátásáért külön díjazás nem jár.
+
+(3) A rangidős nemzeti képviselő jogköre az állomáshelyen szolgálatot teljesítőkre, továbbá az állomány szolgálati feladat végrehajtása érdekében kirendelt tagjaira, és katonai alegységekre terjed ki. A rangidős nemzeti képviselő az állomány külföldi szolgálatot teljesítő tagjainak személyi adataiba nem tekinthet be, személyügyi eljárásban nemzeti rangidős minőségében nem vehet részt.
+
+(4) A rangidős nemzeti képviselőt ebben a minőségében az állományilletékes parancsnok, illetve az 1. § 10. pont b), c), h)–j) és n) alpontja szerinti esetekben a külön rendelkezésben meghatározott nemzeti képviselő, vagy hivatalvezető utasíthatja, és neki tartozik jelentési kötelezettséggel.

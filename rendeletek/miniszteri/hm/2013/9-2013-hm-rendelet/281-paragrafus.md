@@ -1,0 +1,5 @@
+281. § (1) A 27. § és a 3. melléklet szerinti idegennyelv-ismereti követelményeket a rendelet hatályba lépését követő szolgálati beosztásba történő kinevezésre és áthelyezésre kell alkalmazni. E rendelet hatályba lépésekor folyamatban lévő szolgálati beosztásba történő kinevezésre és áthelyezésre a szolgálati beosztáshoz a Magyar Honvédség egyes beosztásaihoz kapcsolódó munkaköri követelményekről szóló 20/2002. (IV. 10.) HM rendelet 2013. június 30-án hatályos rendelkezései által előírt idegennyelv-ismereti követelményt kell alkalmazni.
+
+(2) Ha a szolgálati beosztásra e rendelet a Magyar Honvédség egyes beosztásaihoz kapcsolódó munkaköri követelményekről szóló 20/2002. (IV. 10.) HM rendelet 2013. június 30-án hatályos rendelkezéseitől eltérő idegennyelv-ismereti követelményt állapít meg, az állomány e szolgálati beosztást betöltő tagja a szolgálati beosztásban továbbfoglalkoztatható.
+
+(3) Az idegennyelvi-követelményt az állománytáblákban, munkaköri jegyzékekben 2014. január 31-ig kell rögzíteni.

@@ -1,0 +1,7 @@
+75. § (1) Az állomány tagja a más kereső tevékenység létesítéséhez szükséges előzetes engedély iránti kérelmét, valamint az ehhez szükséges bejelentési kötelezettséget az erre a célra rendszeresített formanyomtatványon teljesíti. Az előzetes engedély iránti kérelem a 13. §-on túl tartalmazza különösen a tevékenység kezdő időpontját, a munkáltató megnevezését, a fő tevékenység és a jogviszony meghatározását, a tevékenység szolgálatteljesítési időt érintő időtartamát, valamint nyilatkozatot arról, hogy a más kereső tevékenység létesítése és fenntartása nem ellentétes a Honvédség feladataival, nem akadályozza a szolgálat pártatlan és befolyástól mentes ellátását és nem veszélyezteti a Honvédség tekintélyét. A bejelentési kötelezettségre vonatkozó nyomtatvány a 13. §-on túl tartalmazza különösen a szervezet megnevezését, a fő tevékenység meghatározását, valamint a beosztás, a jogviszony és a tevékenység jellegének megjelölését.
+
+(2) A formanyomtatványhoz csatolni kell az előzetes engedély elbírálásához szükséges iratokat.
+
+(3) Az állományilletékes parancsnok a más kereső tevékenység létesítéséhez szükséges előzetes engedély megadásáról vagy elutasításáról, az elutasítás indokának megjelölésével az (1) bekezdés szerinti formanyomtatványon dönt.
+
+(4) A korábban már bejelentett vagy engedélyezett más kereső tevékenységet érintő változást az állomány tagja a változás bekövetkezését követő 8 napon belül köteles az állományilletékes parancsnoknak írásban bejelenti. A bejelentéshez csatolni kell az elbíráláshoz szükséges iratokat.

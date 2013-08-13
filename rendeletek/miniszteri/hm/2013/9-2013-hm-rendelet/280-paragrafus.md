@@ -1,0 +1,7 @@
+280. § (1) A 2. melléklet szerinti iskolai végzettségi, szakképzettségi, valamint egyéb képzettségi követelményt a rendelet hatálybalépését követő szolgálati beosztásba történő kinevezésre kell alkalmazni. E rendelet hatálybalépésekor folyamatban lévő szolgálati beosztásba történő kinevezésre a szolgálati beosztáshoz a Magyar Honvédség egyes beosztásaihoz kapcsolódó munkaköri követelményekről szóló 20/2002. (IV. 10.) HM rendelet 2013. június 30-án hatályos rendelkezései által előírt iskolai végzettségi, szakképzettségi, valamint egyéb képzettségi követelményeket kell alkalmazni. Folyamatban lévőnek minősül a személyügyi eljárás, ha a személyi beszélgetésre e rendelet hatálybalépését megelőzően sor került.
+
+(2) Ha a szolgálati beosztásra e rendelet a Magyar Honvédség egyes beosztásaihoz kapcsolódó munkaköri követelményekről szóló 20/2002. (IV. 10.) HM rendelet 2013. június 30-án hatályos rendelkezéseitől eltérő iskolai végzettségi, szakképzettségi, valamint egyéb képzettségi követelményt állapít meg,
+
+a) az állomány e szolgálati beosztást betöltő tagja a szolgálati beosztásban továbbfoglalkoztatható, és
+
+b) a szolgálati beosztásba az állomány tagja akkor is áthelyezhető, ha megfelel a szolgálati beosztásra a Magyar Honvédség egyes beosztásaihoz kapcsolódó munkaköri követelményekről szóló 20/2002. (IV. 10.) HM rendelet 2013. június 30-án hatályos rendelkezései által előírt iskolai végzettségi, szakképzettségi, valamint egyéb képzettségi követelményeknek.

@@ -1,0 +1,1 @@
+## 284. § A 116. § (2) bekezdését e rendelet hatálybalépése előtt keletkezett tanulmányi támogatás vagy képzési támogatás megtérítésére is alkalmazni kell azzal, hogy a már visszafizetett tanulmányi támogatás vagy képzési támogatás nem követelhető vissza.
