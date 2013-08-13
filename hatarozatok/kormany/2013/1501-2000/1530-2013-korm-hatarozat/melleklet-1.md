@@ -22,7 +22,7 @@
 
 ## a) a Robert Capa Kortárs Fotográfiai Központ létrehozásáról szóló 1296/2013. (V. 30.) Korm. határozat (a továbbiakban: Korm. határozat) szerint átcsoportosított előirányzat visszarendezését rendeli el a 2. melléklet szerint,
 
-## b) a Korm. határozat 3. pontját és 1. mellékletét visszavonja,
+## b)[^1]
 
 ## c) 155,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím, 2. Gazdasági társaságok által ellátott kulturális feladatok támogatása jogcímcsoport javára, a 3. melléklet szerint.
 
@@ -40,20 +40,14 @@
 
 ## 3. A Kormány az Áht. 33. § (1) bekezdésében biztosított jogkörében
 
-## a) a Jász-Nagykun-Szolnok Megyei Arborétum 2013. évi további fenntartása, működtetése érdekében, az Emberi Erőforrások Minisztériuma és a Vidékfejlesztési Minisztérium fejezetek közötti előirányzat-átcsoportosításról szóló 1400/2013. (VII. 2.) Korm. határozatot (a továbbiakban: Korm. határozat 2.) visszavonja,
+## a)[^2]
 
 ## b) a Korm. határozat 2.-ben foglaltaktól eltérően 23 541,0 ezer forint éves eredeti támogatás 01–07. havi felhasználással csökkentett összegének, 9842,0 ezer forintnak az átcsoportosítását rendeli el a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 4. Egyéb kulturális intézmények cím terhére, a Kvtv. 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet 14. Nemzeti park igazgatóságok cím javára, a 4. melléklet szerint.
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1123/2012. (IV. 25.) Korm. határozatban a „2012. december 31.” szövegrész helyébe a „2014. június 30.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1536/2012. (XI. 18.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2013. szeptember 30.” szöveg lép.
-
-## 6. Az egyházak tevékenységének támogatásához szükséges előirányzat-átcsoportosításról szóló 1598/2012. (XII. 17.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2014. június 30.” szövegrész lép.
-
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1619/2012. (XII. 18.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2014. március 31.” szöveg lép.
-
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1664/2012. (XII. 20.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2013. december 31.” szöveg lép.
-
-## 9. A 2012. évi előirányzat-maradványok egy részének felhasználásáról, valamint egyes kormányhatározatok módosításáról szóló 1427/2013. (VII. 10.) Korm. határozat 1. pont b) alpontjában a „361 234 forintnak” szövegrész helyébe a „361 234 ezer forintnak” szöveg lép.
+## 4–9.[^3]
 
 1. melléklet az 1530/2013. (VIII. 12.) Korm. határozathoz
+
+[^1]: A 2. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
