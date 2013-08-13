@@ -1,3 +1,5 @@
+## 46. §[^1]
+
 1. melléklet a 42/2013. (VIII. 9.) BM rendelethez
 
 1. A 2. § (1) bekezdésében említett ingatlanrész a Bánd 050/2 helyrajzi számú ingatlannak az alábbi EOV koordinátákkal jelzett középpontú kőhíd építmény területére, valamint annak minden irányban az ingatlan határvonaláig, de legfeljebb a kőhíd középpontjától számított 25 méteres sugarú kör vonaláig terjedő területére terjed ki:
@@ -55,3 +57,5 @@
 |  |  | X: 179775 |
 
 6. A 32. § (2) bekezdésében említett építményeket az alábbi ábra jelöli:
+
+[^1]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
