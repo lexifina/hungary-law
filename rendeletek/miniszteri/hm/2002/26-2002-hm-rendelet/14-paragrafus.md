@@ -1,1 +1,0 @@
-## Az állomány utánpótlása
