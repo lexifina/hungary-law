@@ -1,1 +1,0 @@
-## Az állományba való visszavétel

@@ -1,9 +1,0 @@
-14. §[^17] (1) Az önkéntes tartalékos katona indokolt kérelmére a Honvédség által előre tervezett tényleges szolgálatteljesítésre történő behívás átütemezhető. A kérelem a Hjt. 47/B. §-a szerinti behívóparancs közlésétől számított 8 napon belül írásban nyújtható be az állományilletékes parancsnok részére. A kérelem benyújtásának a behívóparancs teljesítésére nincs halasztó hatálya.
-
-(2) Az átütemezésről az állományilletékes parancsnok a kérelem beérkezését követően haladéktalanul, legfeljebb 3 napon belül dönt. Az átütemezési kérelmet csak kiemelten fontos szolgálati érdekre történő hivatkozással lehet elutasítani, amennyiben a tervezett katonai feladat végrehajtása az érintett önkéntes tartalékos katona nélkül nem lehetséges, vagy aránytalan nehézségekkel járna.
-
-(3) Amennyiben az állományilletékes parancsnok a behívás átütemezését nem engedélyezi, a kérelem elutasításáról haladéktalanul értesíti az önkéntes tartalékos katonát és annak munkáltatóját. Az engedély megadása esetén a kiküldött behívóparancsot haladéktalanul határozatban vissza kell vonni, melyben egyúttal tájékoztatni kell az önkéntes tartalékos katonát a felkészítés vagy tényleges szolgálatteljesítés új időpontjáról. A kiküldött behívóparancs visszavonására a központi személyügyi nyilvántartást vezető szerv parancsnoka intézkedik, az állományilletékes parancsnoknak a döntéséről szóló értesítése alapján.
-
-(4) Annak érdekében, hogy az önkéntes tartalékos katona a kérelme elbírálásáról a szolgálat megkezdése előtt megfelelő időben értesülhessen, az állományilletékes parancsnok döntéséről az önkéntes tartalékos katonát a személyügyi szerv rövid úton is tájékoztatja. A tájékoztatás megtörténtéről feljegyzést kell készíteni. A tájékoztatás megtörténte a Honvédséget a (3) bekezdés szerinti kötelezettség teljesítése alól nem mentesíti.
-
-[^17]: A 14. § a 20/2012. (IX. 17.) HM rendelet 7. §-ával megállapított szöveg.
