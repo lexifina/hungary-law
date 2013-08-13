@@ -1,3 +1,0 @@
-1. § (1) A baleseti járadékra vonatkozó igényt a balesetet minősítő határozat alapján kérelemmel lehet érvényesíteni. Foglalkozási betegség esetén a kérelmet az állományilletékes parancsnok – a Magyar Honvédség Egészségügyi Felülvizsgáló Bizottságai (a továbbiakban: FÜV Bizottság) adatszolgáltatási kötelezettsége mellett – a személyügyi szerve útján köteles felterjeszteni a Honvédelmi Minisztérium (a továbbiakban: HM) pénzügyi feladatot ellátó központi szervéhez, ha az orvos-szakértői vélemény szerint a szolgálati kötelmekkel összefüggő betegségből eredő egészségkárosodás mértéke a 13%-ot meghaladja.
-
-(2) Az egészségkárosodás mértékének megállapítását a FÜV Bizottság is kérheti, ha a hivatásos állomány tagja egészségkárosodásának megállapítására kerül sor.
