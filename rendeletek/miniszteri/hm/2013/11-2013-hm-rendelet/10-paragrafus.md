@@ -1,0 +1,1 @@
+## 9. § A baleseti járadék, valamint a kiegészítő támogatások tekintetében a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 80. §-a szerinti, a Honvédséget terhelő foglalkoztatói hibából eredő késedelmi kamat összegét a HM pénzügyi feladatot ellátó központi szerve – az értesítéstől számított 60 napon belül – megtéríti.
