@@ -1,1 +1,0 @@
-## „(4) Vizsgára jelentkezés esetében a vizsgadíjnak az eljáró hatóságot illető része a képző szerv útján a vizsgára való jelentkezésig fizetendő meg. A közúti közlekedési szakemberek vizsgáztatása esetén a közlekedési hatóság megbízása alapján a vizsgaszervezésben közreműködő képző szervet a vizsga díjának 78%-a, a közlekedési hatóságot a vizsga díjának 22%-a illeti meg.”
