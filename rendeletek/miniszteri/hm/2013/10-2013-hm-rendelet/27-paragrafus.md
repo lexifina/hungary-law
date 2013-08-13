@@ -1,0 +1,1 @@
+## 26. § E Fejezet alkalmazásában igényérvényesítő: a hivatásos és szerződéses állományú katona, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, a honvéd tisztjelölt, a honvéd altiszt-jelölt, a korábban ilyen szolgálatot vagy korábban hadkötelezettség alapján katonai szolgálatot teljesítő személy és mindezek közeli hozzátartozója.

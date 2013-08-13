@@ -1,0 +1,3 @@
+12. § (1) A határozatot legalább négy példányban kell elkészíteni, amelyből egy példányt a katonának kell kézbesíteni, egy példányt az ügy irataihoz kell csatolni, egy-egy további példányt a határozat jogerőre emelkedése után előjegyzésre, illetve végrehajtásra az ellátó pénzügyi és számviteli szervezetnek, valamint logisztikai szervezetnek kell átadni. Jogi képviselő eljárása esetén a határozat egy példányát a jogi képviselő részére kell kézbesíteni.
+
+(2) A határozat átvételének tényét és idejét a katona aláírásával igazolja. Ha a kézbesítés postai úton történik, az átvétel igazolására a tértivevény szolgál.
