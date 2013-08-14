@@ -1651,3 +1651,31 @@ A *-gal jelölt követelmények a szakirányítási munkakörök esetében nem v
 | 10. | 05 | törzsőrmester |
 
 | 11. | 03 | szakaszvezető | ÁI |  |
+
+2.18.3. katonazenész
+
+|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+
+| kate- gória | kizáró korláto- zások |
+
+| A | B | C | D | E | F | G | H | I |
+
+| 1. | 15 | ezredes | PE | SZFF |  | A6 | F8, K23, K24, K25 | Pa/V, Pv/IV | T1 |
+
+| 2. | 14 | alezredes | A4 | Pa/IV, Pv/IV |
+
+| 3. | 13 | őrnagy | PF | Pa/IV | T2 |
+
+| 4. | 12 | százados | F8, K25 |
+
+| 5. | 11 | főhadnagy | T3 |
+
+| 6. | 08 | törzszászlós | É | konzerva-tórium | Pa/III |
+
+| 7. | 07 | zászlós |
+
+| 8. | 06 | főtörzsőrmester |
+
+| 9. | 05 | törzsőrmester |
