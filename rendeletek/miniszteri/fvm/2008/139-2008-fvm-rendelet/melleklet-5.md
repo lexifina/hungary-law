@@ -18,6 +18,6 @@
 
 ## *** Vezetési gyakorlaton kívüli, egyéb gyakorlati képzésre vonatkozóan.
 
-5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^73]
+5. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^76]
 
-[^73]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.
+[^76]: Az 5. számú mellékletet a 6/2010. (II. 2.) FVM rendelet 7. § (3) bekezdése iktatta be.

@@ -20,6 +20,6 @@
 
 ## (Szükség esetén a sorok száma növelhető.)
 
-4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^72]
+4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^75]
 
-[^72]: A 4. számú melléklet a 4/2013. (II. 4.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^75]: A 4. számú melléklet a 4/2013. (II. 4.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
