@@ -344,6 +344,6 @@
 
 | Összesen: | 9 |
 
-2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^98]
+2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^103]
 
-[^98]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet az 57/2012. (XII. 28.) KIM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^103]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet az 57/2012. (XII. 28.) KIM rendelet 10. § (2) bekezdése szerint módosított szöveg.

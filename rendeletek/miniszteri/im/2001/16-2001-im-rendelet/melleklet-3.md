@@ -80,6 +80,6 @@
 
 |  | 7.4. | tudományos eredmény, oktatás, vizsgáztatás, szakmai publikáció egyéb területen | 3 |
 
-3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^99]
+3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^104]
 
-[^99]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a.
+[^104]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a.
