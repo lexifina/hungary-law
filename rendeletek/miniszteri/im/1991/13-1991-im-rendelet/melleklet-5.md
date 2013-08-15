@@ -1,4 +1,4 @@
-5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^92]
+5. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^99]
 
 STATISZTIKAI JELENTÉS
 
@@ -138,4 +138,4 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 * Azokban az esetekben, amelyeknél egyidejűleg vannak folyamatban az egyetemleges felelős adóstársak elleni végrehajtások, a pénzkövetelést csak egy alkalommal kell feltüntetni.
 
-[^92]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja szerint módosított szöveg.
+[^99]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja szerint módosított szöveg.

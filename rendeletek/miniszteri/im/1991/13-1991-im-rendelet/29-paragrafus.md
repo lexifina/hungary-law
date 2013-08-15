@@ -1,6 +1,6 @@
 ## Hitelesítések nyilvántartó könyve
 
-29. §[^72] (1) A közjegyző a Ktv. rendelkezései szerint záradék formájában kiállított tanúsítványokat a területi kamara által rendszeresített és jóváhagyott papír alapú nyilvántartó könyvbe vagy az országos kamara által jóváhagyott számítógépes nyilvántartásba (a továbbiakban együtt: hitelesítések nyilvántartó könyve) jegyzi be. A hitelesítések nyilvántartó könyvében kell feltüntetni az elektronikus letéti tárban történő elhelyezést, az elhelyezés meghosszabbítását, törlését és a letéti tárból papír alapú vagy elektronikus másolat kiadását is.
+29. §[^76] (1) A közjegyző a Ktv. rendelkezései szerint záradék formájában kiállított tanúsítványokat a területi kamara által rendszeresített és jóváhagyott papír alapú nyilvántartó könyvbe vagy az országos kamara által jóváhagyott számítógépes nyilvántartásba (a továbbiakban együtt: hitelesítések nyilvántartó könyve) jegyzi be. A hitelesítések nyilvántartó könyvében kell feltüntetni az elektronikus letéti tárban történő elhelyezést, az elhelyezés meghosszabbítását, törlését és a letéti tárból papír alapú vagy elektronikus másolat kiadását is.
 
 (2) A közjegyző a papír alapú és számítógépes nyilvántartási formákat párhuzamosan nem alkalmazhatja.
 
@@ -40,4 +40,4 @@ g) elektronikus letéti tárban történő elhelyezés, az elhelyezés meghossza
 
 (8) A névaláírás hitelesítésekor az ügyfél aláírását a megjegyzés rovat tartalmazza. A névaláírás hitelesítési ügyekben az okmány ellenőrzés sikertelenségét vagy a hitelesítés más okból történő elmaradását a hitelesítések nyilvántartó könyvének a megjegyzés rovatába „meghiúsult” bejegyzéssel kell feltüntetni.
 
-[^72]: A Vhr. 29. §-a a 33/2008. (XII. 31.) IRM rendelet 5. §-ával megállapított szöveg.
+[^76]: A Vhr. 29. §-a a 33/2008. (XII. 31.) IRM rendelet 5. §-ával megállapított szöveg.
