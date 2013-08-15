@@ -1,4 +1,4 @@
-9. melléklet a 22/2010. (V. 7.) IRM rendelethez[^5]
+9. melléklet a 22/2010. (V. 7.) IRM rendelethez[^23]
 
 ## A fizetési meghagyás kibocsátása iránti egyszerűsített kérelem papír alapú űrlapjának adattartalma
 
@@ -28,4 +28,4 @@
 
 2.4. jogosult aláírásának helye.
 
-[^5]: A 9. melléklet a 17. § (2) bekezdése alapján 2011. január 10-én lép hatályba.
+[^23]: A 9. melléklet a 17. § (2) bekezdése alapján 2011. január 10-én lép hatályba.

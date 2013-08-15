@@ -126,11 +126,43 @@
 
 3. Biztosítási intézkedés elrendelése iránti határozott kérelem.
 
-4. A biztosítandó pénzköveteléssel kapcsolatos adatok, melyekből a közjegyző hatásköre megállapítható:
+4.[^12] A biztosítandó pénzköveteléssel kapcsolatos adatok
 
-4.1. a kibocsátott fizetési meghagyás ügyszáma
+4.1. a kibocsátott fizetési meghagyás ügyszáma és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (Vht.) 189. §-a szerinti esetben a kibocsátott végrehajtási lap ügyszáma
 
-4.2. a bírósági végrehajtásról szóló 1994. évi LIII. törvény (Vht.) 189. §-a szerinti esetben a kibocsátott fizetési meghagyás ügyszáma és a kibocsátott végrehajtási lap ügyszáma.
+4.2. kibocsátó közjegyző neve, székhelye
+
+4.3. a fizetési meghagyás biztosítandó része
+
+4.3.1. a főkövetelés (ideértve az önálló járulékokat is) összege
+
+4.3.2. a főkövetelés pénzneme
+
+4.3.2.1. a kitöltést segítő kódtár
+
+4.3.3. a követelés után követelt kamattal kapcsolatos nem kötelező adatok:
+
+4.3.3.1. tőkeösszeg, ha a főkövetelésnél kevesebb
+
+4.3.3.2. kamattípus (jogcím)
+
+4.3.3.2.1. a kitöltést segítő kódtár
+
+4.3.3.3. kamatperiódus (a kamat jellege)
+
+4.3.3.3.1. a kitöltést segítő kódtár
+
+4.3.3.4. kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
+
+4.4. a pénzkövetelés jogcíme
+
+4.4.1. a követelés alapjául szolgáló jogviszony
+
+4.4.1.1. a kitöltést segítő kódtár
+
+4.4.2. az érvényesíteni kívánt jog
+
+4.4.2.1. a kitöltést segítő kódtár
 
 5. A kérelem előterjesztését igazoló nyilatkozatok:
 
@@ -151,3 +183,5 @@
 7.4. arról szóló tájékoztatás, hogy ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be
 
 7.5. arról szóló tájékoztatás, hogy a követelés későbbi kielégítésének veszélyeztetettségét valószínűsítő dokumentumok hiteles másolata – ha ilyen dokumentumok rendelkezésre állnak – papír alapon küldhető meg az eljáró közjegyzőnek.
+
+[^12]: A 2. melléklet 4. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (6) bekezdésével megállapított szöveg.

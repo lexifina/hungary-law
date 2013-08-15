@@ -126,6 +126,8 @@
 
 3. A fizetési meghagyás végrehajtásának elrendelése iránti kérelem.
 
+3.1.[^13] A kérelmező nyilatkozata arról, hogy az adós mögöttes helytállási kötelezettsége beállt.
+
 4. A fizetési meghagyással kapcsolatos adatok:
 
 4.1. kibocsátó közjegyző neve, székhelye
@@ -134,25 +136,25 @@
 
 4.3. fizetési meghagyás végrehajtandó része
 
-4.3.1. a főkövetelés összege
+4.3.1.[^14] a főkövetelés (ideértve az önálló járulékokat is) összege
 
 4.3.2. a főkövetelés pénzneme
 
 4.3.2.1. a kitöltést segítő kódtár
 
-4.3.3. a követelés után követelt kamattal kapcsolatos nem kötelező adatok:
+4.3.3.[^15] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
 
-4.3.3.1. tőkeösszeg, ha a főkövetelés összegétől eltér
+4.3.3.1.[^16] tőkeösszeg, ha a főkövetelésnél kevesebb
 
 4.3.3.2. kamattípus (jogcím)
 
 4.3.3.2.1. a kitöltést segítő kódtár
 
-4.3.3.3. kamatperiódus
+4.3.3.3.[^17] kamatperiódus (a kamat jellege)
 
 4.3.3.3.1. a kitöltést segítő kódtár
 
-4.3.3.4. kamatláb (%)
+4.3.3.4.[^18] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
 
 4.3.3.5. kamattal érintett időszak. 4.4. a pénzkövetelés jogcíme
 
@@ -174,13 +176,13 @@
 
 5.1. egyetemleges felelősség esetén adóstárs megnevezése
 
-5.2. nyilatkozat arról, hogy az adóstárs ellen végrehajtási eljárás folyik-e
+5.2.[^19] az adóstárs elleni végrehajtási eljárás folyamatban létére vonatkozó nyilatkozat és az eljárás végrehajtói ügyszáma
 
 5.3. az adóstárs vagyonának mely részével, illetve a 6. pontban meghatározott vagyontárgyakkal felel
 
 5.3.1. a végrehajtás alá vonható vagyontárgyakkal kapcsolatos adatok
 
-5.3.2. kizárólag zálogkötelezett adóstárs esetén a zálogtárgy adatai.
+5.3.2.[^20]
 
 6. Az adós végrehajtás alá vonható vagyontárgyaival kapcsolatos adatok:
 
@@ -240,7 +242,15 @@
 
 11. A vételár (vételhez adott kölcsön összege), elkészítési, javítási díj behajtása végett lefoglalható dolog [Vht. 89. § (3) bekezdés].
 
-12. Nyilatkozat arról, hogy a végrehajtást kérő kéri-e, hogy a végrehajtó a végrehajtási lapot postán kézbesítse az adósnak.
+12.[^21] Egyéb végrehajtást kérői nyilatkozatok:
+
+12.1. nyilatkozat arról, hogy a végrehajtást kérő kéri-e, hogy a végrehajtó a végrehajtási lapot postán kézbesítse az adósnak
+
+12.2. nyilatkozat arról, hogy a végrehajtási lap az adós lakóhelye, székhelye szerint illetékes végrehajtó helyett a következő végrehajtó részére kerüljön megküldésre
+
+12.2.1. az adós 6. pontban megjelölt végrehajtás alá vonható vagyontárgyának helye szerint illetékes végrehajtó
+
+12.2.2. az egyetemleges adóstárs végrehajtói ügyszámmal megjelölt ügyében eljáró végrehajtó.
 
 13. A végrehajtással felmerült költségek:
 
@@ -283,3 +293,13 @@
 16.4. arról szóló tájékoztatás, hogy a 6.2.–6.8. pontot a rendelkezésre álló adatoktól függően – a végrehajtás költségeinek csökkentése, a végrehajtás eredményességének növelése érdekében – akkor is indokolt kitölteni, ha végrehajtást kérő a 6.1. szerinti kérelmet terjeszt elő.
 
 16.5. a bírósági végrehajtót, valamint a végrehajtást kérő jogi képviseletét ellátó ügyvédet és jogtanácsost megillető díjazásról, továbbá ezeknek az összegeknek az előlegezéséről és viseléséről szóló tájékoztatás.
+
+[^13]: A 3. melléklet 3. pont 3.1. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (7) bekezdése iktatta be.
+[^14]: A 3. melléklet 4. pont 4.3.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^15]: A 3. melléklet 4. pont 4.3.3. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^16]: A 3. melléklet 4. pont 4.3.3.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^17]: A 3. melléklet 4. pont 4.3.3.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^18]: A 3. melléklet 4. pont 4.3.3.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^19]: A 3. melléklet 5. pont 5.2. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^20]: A 3. melléklet 5. pont 5.3.2. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (12) bekezdése hatályon kívül helyezte.
+[^21]: A 3. melléklet 12. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (11) bekezdésével megállapított szöveg.

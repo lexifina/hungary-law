@@ -28,6 +28,8 @@
 
 2. Fizetési meghagyás kibocsátása iránti határozott kérelem.
 
+2.1.[^5] Nyilatkozat arról, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt más közjegyző vagy bíróság előtt eljárás nincs folyamatban vagy jogerős fizetési meghagyás vagy ítélet nem született.
+
 3. A kötelezettel kapcsolatos adatok:
 
 3.1. név (elnevezés)
@@ -38,7 +40,7 @@
 
 3.3.1. a kitöltést segítő kódtár
 
-3.4. annak jelzése, ha egyetemleges kötelezettekről van szó
+3.4.[^6] Annak jelzése, ha a kötelezettek egyetemlegesen vagy mögöttesen felelősek.
 
 3.5. nem egyetemleges kötelezettek esetén az egyes kötelezetteket a főkövetelésből terhelő összeg
 
@@ -60,25 +62,25 @@
 
 4.4. a követelés alapjául szolgáló jogviszony létrejöttének és a követelés lejártának időpontja
 
-4.5. a főkövetelés összege
+4.5.[^7] a főkövetelés (ideértve az önálló járulékokat is) összege
 
 4.6. a főkövetelés pénzneme
 
 4.6.1. a kitöltést segítő kódtár
 
-4.7. A követelés után követelt kamattal kapcsolatos nem kötelező adatok:
+4.7.[^8] A követelés vagy kamat után követelt nem önálló kamattal kapcsolatos nem kötelező adatok:
 
-4.7.1. tőkeösszeg, ha a főköveteléstől eltér
+4.7.1.[^9] tőkeösszeg, ha a főkövetelésnél kevesebb
 
 4.7.2. kamattípus (jogcím)
 
 4.7.2.1. a kitöltést segítő kódtár
 
-4.7.3. kamatperiódus
+4.7.3.[^10] kamatperiódus (a kamat jellege)
 
 4.7.3.1. a kitöltést segítő kódtár
 
-4.7.4. kamatláb (%)
+4.7.4.[^11] kamatláb (%) vagy kamat mértéke (összeggel és pénznemmel)
 
 4.7.5. kamattal érintett időszak.
 
@@ -121,3 +123,11 @@
 10.1. lényeges joghatások
 
 10.2. az űrlap kitöltésének módja.
+
+[^5]: Az 1. melléklet 2. pont 2.1. alpontját a 20/2013. (VIII. 7.) KIM rendelet 5. § (2) bekezdése iktatta be.
+[^6]: Az 1. melléklet 3. pont 3.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 1. melléklet 4. pont 4.5. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 1. melléklet 4. pont 4.7. alpont nyitó szövegrésze a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^9]: Az 1. melléklet 4. pont 4.7. alpont 4.7.1. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^10]: Az 1. melléklet 4. pont 4.7. alpont 4.7.3. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^11]: Az 1. melléklet 4. pont 4.7. alpont 4.7.4. alpontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (5) bekezdésével megállapított szöveg.
