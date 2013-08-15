@@ -1,0 +1,5 @@
+## 12. § Az R. 27. §-a a következő (6) és (7) bekezdéssel egészül ki:
+
+## „(6) Az engedéllyel rendelkező közúti járművezető vizsgabiztos tényleges vizsgáztatási tevékenységet a munkáltatói jogkör gyakorlója által meghatározott olyan óraszámok teljesítése után kezdheti meg, amikor kizárólag megfigyelő vizsgabiztosként vett részt vizsgaeseményeken. A közúti járművezető vizsgabiztost foglalkoztató közlekedési hatóság vezetője igazolja a kötelező óraszámok teljesítését.
+
+## (7) A 2005. július 1. napját megelőzően szerzett gyakorlati szakos vizsgabiztosi bizonyítvány vagy azzal egyenértékű képesítés – a jogszabályban meghatározott egyéb feltételek teljesítése esetén – újonnan megszerzett vezetői engedély kategória, alkategória, kombinált kategória gyakorlati vizsgáztatására abban az esetben jogosít, amennyiben a munkáltatói jogkör gyakorlója által meghatározott olyan óraszámok teljesítésre kerültek, amikor a vizsgabiztos az adott kategória, alkategória, kombinált kategória tekintetében kizárólag megfigyelő vizsgabiztosként vett részt vizsgaeseményeken.”
