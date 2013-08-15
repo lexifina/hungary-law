@@ -6,13 +6,7 @@ b) a szakmai gyakorlat időtartamát igazoló okiratot és
 
 c) a névjegyzékbe vételi eljárás igazgatási szolgáltatási díjának megfizetését igazoló, a fizetési számla megterhelését tartalmazó napi fizetési számla kivonatot, vagy a fizetési számlára történő készpénzbefizetést igazoló kitöltött szelvényrészt, vagy annak másolatát.
 
-(2) Az (1) bekezdésben meghatározottakon túl a Tv. 5. § (1) bekezdés c) pontjában foglalt feltételek vizsgálata céljából a kérelemhez mellékelni kell
-
-a) a hatósági erkölcsi bizonyítvány eredeti példányát,
-
-b) ha a hatósági bizonyítvány kiadása iránti adattovábbítási kérelmét a névjegyzékbe vételét kérő természetes személy a bűnügyi nyilvántartó szervnél terjeszti elő, a hatósági bizonyítvány kiadására irányuló, eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének igazolását, vagy
-
-c) ha a hatósági bizonyítvány kiadása iránti kérelmét a névjegyzékbe vételét kérő természetes személy a miniszter adatigénylésének kezdeményezése útján terjeszti elő, a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjéről, valamint a bűnügyi nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjéről szóló 22/2009. (VI. 19.) IRM rendelet 6. § (1)–(3) és (6) bekezdésében meghatározott adatokat és nyilatkozatokat.
+(2)[^9] Az (1) bekezdésben meghatározottakon túl, ha a névjegyzékbe vételét kérő természetes személy a Tv. 5. § (1) bekezdés c) pontjában a foglalt feltételek igazolása céljából kiállítandó hatósági erkölcsi bizonyítvány kiadása iránti kérelmét a miniszter adatigénylésének kezdeményezése útján terjeszti elő, a kérelemhez mellékelni kell a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás, valamint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás rendjéről és a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjról szóló 53/2012. (XII. 22.) KIM rendelet 6. § (3) bekezdésében meghatározott kérelmet, és a 9. § (1) bekezdés c) pontjára, a 11. § (1) bekezdés b) pontjára, valamint a 11. § (4) bekezdésére tekintettel megfizetésre került díj teljesítésének igazolását.
 
 (3) Ha a névjegyzékbe vételét kérő természetes személy a miniszternél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
 
@@ -21,3 +15,4 @@ c) ha a hatósági bizonyítvány kiadása iránti kérelmét a névjegyzékbe v
 (5) A kérelem mellékleteként a kérelmező csatolhatja a nyelvismeret, egyéb szakirányú végzettség, szakvizsga, tudományos fokozat és szakmai testületi tagság igazolására irányuló okirat másolatát.
 
 [^8]: Az 5. § a 6/2010. (III. 12.) IRM rendelet 9. §-ával megállapított szöveg.
+[^9]: Az 5. § (2) bekezdése a 20/2013. (VIII. 7.) KIM rendelet 3. § (1) bekezdésével megállapított szöveg.
