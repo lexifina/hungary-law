@@ -1,26 +1,10 @@
 ## „A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
-## 1. A járművek követelményei kategóriánként
+## 1.[^227] A járművek követelményei kategóriánként
 
-## „M” kategória:
+## „A1” alkategória
 
-## bármely kétkerekű segédmotoros kerékpár.
-
-## „A1” alkategória:
-
-## „A1” alkategóriába tartozó, legalább 75 cm3 hengerűrtartalmú, kétkerekű motorkerékpár.
-
-## „A korl.” kategória:
-
-## „A” kategóriába tartozó kétkerekű motorkerékpár, amely az alábbi jellemzőkkel rendelkezik:
-
-## a) 125 cm3-t meghaladó hengerűrtartalom,
-
-## b) legalább 100 km/óra sebesség elérésére alkalmas,
-
-## c) legfeljebb 25 kW teljesítmény,
-
-## d) legfeljebb 0,16 kW/kg teljesítmény/sajáttömeg arány.
+## olyan kétkerekű motorkerékpár, amely hengerűrtartalma a 125 cm3-t, teljesítménye a 11 kW-ot, teljesítmény/tömeg aránya pedig a 0,1 kW/kg-ot nem haladja meg.
 
 ## „AM” kategória:
 
@@ -30,21 +14,15 @@
 
 ## – könnyű négykerekű motorkerékpár, amelyek terheletlen tömege (az akkumulátor tömegét nem számítva) kevesebb 350 kg-nál, amelynek legnagyobb tervezési sebessége a 25 km/órát meghaladja, de nem több mint 45 km/óra, a motor hengerűrtartalma nem nagyobb 50 cm3-nél vagy a motor legnagyobb hasznos motorteljesítménye nem több 4 kW-nál.
 
-## „A” kategória:
+## „A” kategóriába tartozó oldalkocsi nélküli kétkerekű motorkerékpár, legalább 595 cm3 hengerűrtartalommal és legalább 40 kW motorteljesítménnyel.
 
-## a) 2013. január 18-ig:
+## „A2” alkategória
 
-## aa) legalább 35 kW teljesítmény,
+## „A2” alkategóriába tartozó oldalkocsi nélküli kétkerekű motorkerékpár, legalább 395 cm3 hengerűrtartalommal és legalább 25 kW motorteljesítménnyel.
 
-## ab) legalább 100 km/óra sebesség elérésére alkalmas.
+## „B1” alkategória
 
-## b) 2013. január 19-től:
-
-## ba) „A” kategóriába tartozó oldalkocsi nélküli motorkerékpár, legalább 600 cm3 hengerűrtartalommal és legalább 40 kW motorteljesítménnyel
-
-## „A2” kategória:
-
-## „A2” kategóriába tartozó oldalkocsi nélküli motorkerékpár, legalább 400 cm3 hengerűrtartalommal és legalább 25 kW motorteljesítménnyel.
+## „L7e” kategóriába tartozó legalább két ülőhellyel rendelkező négykerekű motorkerékpár, amely legalább 60 km/óra sebesség elérésére képes.
 
 ## „B” kategória:
 
@@ -350,10 +328,13 @@
 
 ## A felsorolt járművek teljesítmény- és sebességadatai hatósági bizonyítvány hiányában a gyártó által kiadott „Kezelési Útmutató”-val is igazolhatók.
 
-## 2. Egyéb követelmények
+## 2.[^228] Egyéb követelmények
 
 ## Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivéve – fel kell szerelni kék alapszínű, 20 cm magasságú, 3 cm vonalvastagságú – elölről és hátulról egyaránt – jól látható, nyomtatott fehér „T” betűt ábrázoló, 25x25 cm oldalélű táblával, valamint jól láthatóan fel kell tüntetni az „Autósiskola” feliratot. A „B” kategória esetében ezen jelzéseket a jármű hossztengelyére merőlegesen felszerelt tetőtáblán kell elhelyezni. A tetőtáblán lévő „T” betűt oktatáson kívül le kell takarni.
 
-## Az „M”, „AM”, „A korl.”, „A2” és „A” kategóriás, továbbá az „A1” alkategóriás gyakorlati képzés főoktatási szakaszában a kísérő szakoktatót szállító személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
+## Az „AM” és „A” kategóriás, továbbá az „A1” és „A2” alkategóriás gyakorlati képzés főoktatási szakaszában a kísérő szakoktatót szállító személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
 6. melléklet a 24/2005. (IV. 21.) GKM rendelethez
+
+[^227]: Az 5. melléklet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.
+[^228]: Az 5. melléklet 2. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Az alapképesítés megszerzésére vonatkozó előírások
 
-## 1.[^275] Az alapképesítést a kötelező szaktanfolyami részvétel és az azt követő vizsgakötelezettség sikeres teljesítésével lehet megszerezni. A szaktanfolyam, illetve az azt követő vizsgakötelezettség vonatkozhat
+## 1.[^328] Az alapképesítést a kötelező szaktanfolyami részvétel és az azt követő vizsgakötelezettség sikeres teljesítésével lehet megszerezni. A szaktanfolyam, illetve az azt követő vizsgakötelezettség vonatkozhat
 
 ## a) az autóbuszvezetői, vagy a tehergépkocsi-vezetői alapképesítés megszerzésére,
 
@@ -10,11 +10,11 @@
 
 ## d) a tehergépkocsi-vezetői alapképesítés megszerzésére érvényes, 1 éven belül szerzett autóbuszvezetői alapképesítés vagy továbbképzési képesítés esetén.
 
-## 1.1 A szaktanfolyami kötelezettség teljesítése
+## 1.1[^329] A szaktanfolyami kötelezettség teljesítése
 
 ## Aki a szaktanfolyam megkezdésétől számított egy éven belül nem tesz minden tárgyból sikeres vizsgát, annak a szaktanfolyamot és a vizsgát meg kell ismételnie.
 
-## A szaktanfolyami oktatás tantervét, az alkalmazható tansegédleteket és a vizsga követelményeit a közlekedési hatóság határozza meg.
+## A szaktanfolyami oktatás tantervét, az és a vizsga követelményeit a közlekedési hatóság határozza meg.
 
 ## 1.2 A szaktanfolyami oktatás elméleti és gyakorlati tantárgyai és oktatási óraszámai
 
@@ -38,7 +38,7 @@
 
 ## 3) A tehergépkocsi-vezetői alapképesítés megszerzésére irányuló szaktanfolyam esetén érvényes, 1 éven belül szerzett autóbuszvezetői alapképesítés vagy továbbképzési képesítés birtokában
 
-## 2.[^276] Elméleti vizsgatárgyak és vizsgaidők:
+## 2.[^330] Elméleti vizsgatárgyak és vizsgaidők:
 
 |  | Biztonsági szabályokon alapuló ésszerű vezetés1) | Előírások alkalmazása1) | Egészségügyi, közúti közlekedési és környezeti biztonság, szerviz, logisztika1) | Autóbusz- vezetői kiegészítő ismeretek1) | Teher- gépkocsi- vezetői kiegészítő ismeretek1) | Eset- tanulmány2) |
 
@@ -60,9 +60,9 @@
 
 ## 4) Az autóbuszvezetői alapképesítés megszerzésére irányuló vizsgák esetén érvényes, 1 éven belül szerzett tehergépkocsi-vezetői alapképesítés vagy továbbképzési képesítés birtokában
 
-## 5) A tehergépkocsi-vezetői alapképesítés megszerzésére irányuló vizsgák esetén érvényes, 1 éven belül szerzett autóbuszvezetői alapképesítés vagy továbbképzési képesítés birtokában
+## 5)
 
-## 3.[^277] Gyakorlati vizsgatárgyak és vizsgaidők
+## 3.[^331] Gyakorlati vizsgatárgyak és vizsgaidők
 
 |  | Járművezetés közúti forgalomban autóbusszal | Járművezetés közúti forgalomban teher- gépkocsival | Jármű- vezetéshez kapcsolódó gépkocsivezetői gyakorlati ismeretek autóbusz- vezetők részére | Jármű- vezetéshez kapcsolódó gépkocsivezetői gyakorlati ismeretek tehergépkocsi- vezetők részére | Járművezetés speciális kialakítású tanpályán vagy szimulátoron |
 
@@ -82,7 +82,7 @@
 
 ## 3) A tehergépkocsi-vezetői alapképesítés megszerzésére irányuló vizsgák esetén érvényes, 1 éven belül szerzett autóbuszvezetői alapképesítés vagy továbbképzési képesítés birtokában
 
-## 4.[^278] Ismeretkövetelmények az egyes elméleti tan- és vizsgatárgyakhoz
+## 4.[^332] Ismeretkövetelmények az egyes elméleti tan- és vizsgatárgyakhoz
 
 ## 4.1. A biztonsági szabályokon alapuló ésszerű vezetés (C1, C1+E, C és C+E jármű-kategóriákhoz):
 
@@ -170,33 +170,43 @@
 
 ## f) Viselkedés szükséghelyzetben: a helyzet felmérése, balesetek komplikációinak elkerülése, segélyhívás, segítségnyújtás sérülteknek és elsősegély, reagálás tűz esetén, kamion/autóbusz utasainak evakuálása, minden utas biztonságának biztosítása, reagálás agresszió esetén; baleseti jelentés készítésének alapelvei.
 
-## 5.3.[^279] Járművezetés veszélyhelyzetek létrehozására alkalmas tanpályán vagy korszerű szimulátor berendezésen
+## 5.3.[^333] Járművezetés veszélyhelyzetek létrehozására alkalmas tanpályán vagy korszerű szimulátor berendezésen
+
+## 5.3.1. Járművezetési veszélyhelyzetek
 
 ## A jármű különböző útviszonyok közötti kezelése, megváltozott légköri feltételek és napszakoktól vagy éjszakai időszaktól függő vezetői magatartások gyakorlása száraz úton jó látási viszonyok mellett, korlátozott látási viszonyok mellett, nedves és különösen síkos útfelületen:
 
 ## a) vészfékezéssel történő megállás,
 
-## b)[^280] vészfékezéssel történő megállás eltérő tapadású felületen,
+## b) vészfékezéssel történő megállás eltérő tapadású felületen,
 
-## c)[^281] kanyartechnika,
+## c) kanyartechnika,
 
-## d)[^282] szűk folyosón való áthaladás,
+## d) szűk folyosón való áthaladás,
 
 ## e) akadály kikerülése fékezéssel és fékezés nélkül.
 
-## A vizsgarészt erre a célra speciálisan kialakított tanpályán vagy erre alkalmas szimulátor berendezésen kell lebonyolítani. A tanpálya és a szimulátor berendezés használatát a közlekedési hatóság engedélyezi.
+## A vizsgarészt erre a célra speciálisan kialakított tanpályán vagy az 5.3.2. pontban meghatározottaknak megfelelő szimulátor berendezésen kell lebonyolítani.
+
+## 5.3.2. A járművezetési veszélyhelyzetek gyakorlására alkalmas tanpályára és szimulátor berendezésre vonatkozó követelmények és a közlekedési hatóság engedélyezési eljárása
+
+## A közlekedési hatóság által kiadott képzési engedély tartalmazza azon tanpályákat és szimulátor berendezéseket, amelyek a képzés során használhatóak. A képzés során és a vizsgán olyan szimulátor berendezés használható, amely a közlekedési hatóság által kiadott érvényes akkreditációval rendelkezik.
+
+## A szimulátor berendezés akkreditációját a közlekedési hatóság pályázati eljárás keretében végzi, amely eljárásra a 16. melléklet előírásait megfelelően kell alkalmazni. A sikeres akkreditáció során meghatározásra kerül, hogy a szimulátor berendezés mely képzésekre (tehergépkocsi vezetői vagy autóbuszvezetői), mely időpontig alkalmas.
+
+## A szimulátor műszaki követelményeit a pályázati felhívásnak kell tartalmaznia. A pályázatok elbírálását a 16. melléklet előírásait megfelelően alkalmazva a közlekedési hatóság a Közlekedési Szakértői Testület bevonásával végzi. A pályázat alapján a közlekedési hatóság legfeljebb 5 évre érvényes akkreditációs számot ad ki. A képzési és vizsgarész csak a közlekedési hatóság által ellátott akkreditációs számmal rendelkező szimulátoron végezhető. Jelen pont szimulátorra vonatkozó rendelkezéseit az első pályázat kiírását követő 120. naptól kell alkalmazni.
 
 ## 5.4. Vizsgajárművek
 
 ## A gyakorlati vizsga során vezetett járműnek meg kell felelnie a választott járműkategóriára az 5. számú mellékletben meghatározott feltételeknek.
 
-## 6.[^283] Vizsgakövetelmények
+## 6.[^334] Vizsgakövetelmények
 
-## A vizsgákra történő felkészülésre vonatkozó tananyagok tantervét, elméleti vizsgák vizsgakérdéseit és a gyakorlati vizsgafeladatokat külön jogszabály[^284] alapján a közlekedési hatóság határozza meg. A vizsgakövetelmények minimum szintjét – a szakképesítéseknek az Európai Közösség tagállamai közötti összehasonlíthatóságról szóló, 1985. július 16-i 85/368/EGK tanácsi határozat I. mellékletében előírt képzésszint szerkezet 2. szintjének elérése mellett – úgy kell meghatározni, hogy a gépkocsivezetők tudásának és gyakorlati kompetenciájának szintje olyan legyen, hogy a megfelelő vezetői engedély kategóriába tartozó járművet teljesen biztonságosan tudják vezetni.
+## A vizsgákra történő felkészülésre vonatkozó tananyagok tantervét, elméleti vizsgák vizsgakérdéseit és a gyakorlati vizsgafeladatokat külön jogszabály alapján a közlekedési hatóság határozza meg. A vizsgakövetelmények minimum szintjét – a szakképesítéseknek az Európai Közösség tagállamai közötti összehasonlíthatóságról szóló, 1985. július 16-i 85/368/EGK tanácsi határozat I. mellékletében előírt képzésszint szerkezet 2. szintjének elérése mellett – úgy kell meghatározni, hogy a gépkocsivezetők tudásának és gyakorlati kompetenciájának szintje olyan legyen, hogy a megfelelő vezetői engedély kategóriába tartozó járművet teljesen biztonságosan tudják vezetni.
 
-## 7. Felmentések
+## 7.[^335] Felmentések
 
-## Az „Előírások alkalmazása” elméleti vizsgatárgyból nem kell vizsgát tennie annak a gépkocsivezetőnek, aki rendelkezik a külön jogszabályokban[^285] meghatározott képesítéssel.
+## A közlekedési hatóság a járművezetőt kérelmére a szaktanfolyami képzés meghatározott része alól mentesítheti, ha a járművezető igazolja, hogy az 1.2. pontban meghatározott képzési kötelezettsége egy részét más EGT-tagállamban teljesítette.
 
 ## 8. Különbözeti vizsgák
 
@@ -210,7 +220,7 @@
 
 ## 9. A vizsgák szervezésében közreműködő képző szervekre vonatkozó rendelkezések
 
-## 9.1.[^286] Az alapképesítés megszerzéséhez szükséges, a közlekedési hatóság által szervezett elméleti és gyakorlati vizsgára történő jelentkezésnek feltétele a megelőző szaktanfolyamon történő részvétel. A vizsgát a közlekedési hatóság megbízása alapján az a képzési engedéllyel rendelkező képző szerv is szervezheti, amely rendelkezik a következő feltételekkel:
+## 9.1.[^336] Az alapképesítés megszerzéséhez szükséges, a közlekedési hatóság által szervezett elméleti és gyakorlati vizsgára történő jelentkezésnek feltétele a megelőző szaktanfolyamon történő részvétel. A vizsgát a közlekedési hatóság megbízása alapján az a képzési engedéllyel rendelkező képző szerv is szervezheti, amely rendelkezik a következő feltételekkel:
 
 ## a) az elméleti vizsgák megtartására alkalmas vizsgaterem és a kapcsolódó szociális létesítmények,
 
@@ -222,17 +232,17 @@
 
 ## e) az 5.3. pontban meghatározott tanpálya vagy szimulátor berendezés.
 
-## 9.2.[^287] A képző szerv írásbeli kérelem alapján az elméleti és gyakorlati vizsgák lebonyolításában a képző szerv közreműködést a közlekedési hatóság írásban jóváhagyás kiadásával akkor engedélyezi, ha a kérelemhez a 9.1. pontban meghatározott valamennyi dokumentumot csatolták.
+## 9.2.[^337] A képző szerv írásbeli kérelem alapján az elméleti és gyakorlati vizsgák lebonyolításában a képző szerv közreműködést a közlekedési hatóság írásban jóváhagyás kiadásával akkor engedélyezi, ha a kérelemhez a 9.1. pontban meghatározott valamennyi dokumentumot csatolták.
 
 ## 9.3. Az elméleti és gyakorlati vizsgák lebonyolításában a képző szerv közreműködését lehetővé tevő jóváhagyást az engedélyező hatóság visszavonhatja vagy felfüggesztheti, amennyiben a jóváhagyás kiadására vonatkozó feltételeknek a képző szerv nem tesz eleget.
 
-## 9.4.[^288] Az írásbeli és gyakorlati vizsgán a közlekedési hatóság által kinevezett vizsgabiztosok vizsgáztatnak. A közlekedési hatóság felügyeli a vizsgákat.
+## 9.4.[^338] Az írásbeli és gyakorlati vizsgán a közlekedési hatóság által kinevezett vizsgabiztosok vizsgáztatnak. A közlekedési hatóság felügyeli a vizsgákat.
 
-## 9.5.[^289] A közlekedési hatóság jogosult felhatalmazással rendelkező személyeket küldeni, hogy az írásbeli és gyakorlati vizsgán segédkezzenek, valamint jogosult a vizsgák ellenőrzésére ezek megfelelő lebonyolítása tekintetében.
+## 9.5.[^339] A közlekedési hatóság jogosult felhatalmazással rendelkező személyeket küldeni, hogy az írásbeli és gyakorlati vizsgán segédkezzenek, valamint jogosult a vizsgák ellenőrzésére ezek megfelelő lebonyolítása tekintetében.
 
-## 10.[^290] A szaktanfolyami oktatásra vonatkozó rendelkezések
+## 10.[^340] A szaktanfolyami oktatásra vonatkozó rendelkezések
 
-## 10.1. A szaktanfolyami oktatás tantervét, az alkalmazható tansegédleteket és a vizsga követelményeit a közlekedési hatóság határozza meg.
+## 10.1.[^341] A szaktanfolyami oktatás tantervét és a vizsga követelményeit a közlekedési hatóság határozza meg.
 
 ## 10.2. A tantermi oktatás elméleti tantárgyait csak az oktathatja, aki felsőfokú végzettséggel, valamint szakmai ismeretekkel rendelkezik a tantárgy ismeretanyagáról és ismeri azok oktatási módszereit.
 
@@ -246,15 +256,15 @@
 
 ## 10.5. A képző szerveknek garantálnia kell, hogy a 10.2. és 10.3. pontokban meghatározott oktatók alapos ismeretekkel rendelkeznek a legfrissebb szabályozásokról és képzési követelményekről.
 
-## 11.[^291] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatást végző képző szervre vonatkozó rendelkezések
+## 11.[^342] Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatást végző képző szervre vonatkozó rendelkezések
 
 ## 11.1. Az alapképesítési és továbbképzési képesítési szaktanfolyami oktatás végzését a közlekedési hatóság írásbeli kérelemre hagyja jóvá (engedélyezi). A kérelemhez a képző szervnek (oktatási központnak) csatolnia kell az alábbi dokumentumokat:
 
 ## a) tantermi elméleti képzés esetén az elméleti tantárgyak oktatására alkalmas tanterem és a kapcsolódó szociális létesítmény meglétének igazolását,
 
-## b) írásbeli nyilatkozatot a közlekedési hatóság által meghatározott tanterv és tansegédlet rendelkezésre állásáról,
+## b)[^343] írásbeli nyilatkozatot a közlekedési hatóság által meghatározott tanterv rendelkezésre állásáról,
 
-## c) e-learning rendszerű képzés esetén a minősített és tanúsított e-learning keretrendszert és tananyagot,
+## c)[^344] e-learning rendszerű képzés esetén a minősített és tanúsított zárt rendszerű távoktatási képzésmenedzsment rendszert és tananyagot,
 
 ## d) az oktatók képesítését és tevékenységi területeiket,
 
@@ -272,28 +282,28 @@
 
 ## 11.4. Az engedélyező hatóság jogosult felhatalmazással rendelkező személyeket küldeni, hogy az alapképesítési szaktanfolyami oktatás végzésére vonatkozó engedéllyel rendelkező képző szervek szaktanfolyamain segédkezzenek, valamint jogosult e képző szervek ellenőrzésére a felhasznált anyagok és eszközök, továbbá a szaktanfolyamok megfelelő lebonyolítása tekintetében.
 
-## 12.[^292] Az alapképesítési szaktanfolyami képzésen történt részvétel és a vizsga igazolása
+## 12.[^345] Az alapképesítési szaktanfolyami képzésen történt részvétel és a vizsga igazolása
 
 ## A szaktanfolyami képzésen részt vett, és a szakmai vizsgabizottság előtt sikeres vizsgát tett gépkocsivezető részére a vizsgajegyzőkönyv alapján a közlekedési hatóság a 14. melléklet szerinti igazolványt ad ki.
 
-13. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^293]
+13. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^346]
 
-[^275]: A 12. melléklet 1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
-[^276]: A 12. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
-[^277]: A 12. melléklet 3. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
-[^278]: A 12. melléklet 4. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
-[^279]: A 12. melléklet 5. pont 5.3. alpont záró szövegrésze az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^280]: A 12. számú melléklet 5.3. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^281]: A 12. számú melléklet 5.3. pont c) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^282]: A 12. számú melléklet 5.3. pont d) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^283]: A 12. melléklet 6. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^284]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 70/2005. (IV. 21.) Korm. rendelet 4. §-a (1) bekezdésének b) pontja.
-[^285]: A belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendelet 4. §-a, az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló 49/2001. (XII. 22.) KöViM rendelet 4. §-a.
-[^286]: A 12. melléklet 9.1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
-[^287]: A 12. melléklet 9. pont 9.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^288]: A 12. melléklet 9. pont 9.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^289]: A 12. melléklet 9. pont 9.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^290]: A 12. melléklet 10. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdése iktatta be.
-[^291]: A 12. melléklet 11. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdése iktatta be.
-[^292]: A 12. melléklet 12. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdése iktatta be.
-[^293]: A 13. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
+[^328]: A 12. melléklet 1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
+[^329]: A 12. melléklet 1.1. pontja a 45/2013. (VIII. 7.) NFM rendelet 21. § n) pontja szerint módosított szöveg.
+[^330]: A 12. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 21. § n) pontja szerint módosított szöveg.
+[^331]: A 12. melléklet 3. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
+[^332]: A 12. melléklet 4. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
+[^333]: A 12. melléklet 5. pont 5.3. alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (8) bekezdésével megálalpított szöveg.
+[^334]: A 12. melléklet 6. pontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^335]: A 12. melléklet 7. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (8) bekezdésével megálalpított szöveg.
+[^336]: A 12. melléklet 9.1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdésével megállapított szöveg.
+[^337]: A 12. melléklet 9. pont 9.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^338]: A 12. melléklet 9. pont 9.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^339]: A 12. melléklet 9. pont 9.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^340]: A 12. melléklet 10. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdése iktatta be.
+[^341]: A 12. melléklet 10.1. pontja a 45/2013. (VIII. 7.) NFM rendelet 21. § n) pontja szerint módosított szöveg.
+[^342]: A 12. melléklet 11. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdése iktatta be.
+[^343]: A 12. melléklet 11.1. pont b) alpontja a 45/2013. (VIII. 7.) NFM rendelet 21. § n) pontja szerint módosított szöveg.
+[^344]: A 12. melléklet 11. pont 11.1. alpont c) pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (8) bekezdésével megálalpított szöveg.
+[^345]: A 12. melléklet 12. pontját az 58/2011. (XI. 24.) NFM rendelet 39. § (10) bekezdése iktatta be.
+[^346]: A 13. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.

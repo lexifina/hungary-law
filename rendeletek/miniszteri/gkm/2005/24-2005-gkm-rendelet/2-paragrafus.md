@@ -6,9 +6,7 @@
 
 2. alapoktatás: a vezetési gyakorlat tantárgy oktatásának azon része, amely a jármű technikai kezelésének, a manőverezési feladatoknak, valamint a jármű biztonsági ellenőrzésének oktatására irányul,
 
-3. „D12” alkategória: autóbusz, amelyben a vezető ülésén kívül legfeljebb 11 állandó ülés van,
-
-4. „D25” alkategória: autóbusz, amelyben a vezető ülésén kívül legfeljebb 24 állandó ülés van,
+3–4.[^3]
 
 5. együtt tartott tanfolyamok: különböző kategóriás tanfolyamok tanulói számára az azonos tartalmú elméleti tananyag azonos helyen és időben végzett oktatása,
 
@@ -16,13 +14,11 @@
 
 7. gyakorlati vizsga: járműkezelési vagy rutinvizsga, biztonsági ellenőrzés és üzemeltetés vizsga, valamint forgalmi vizsga (külön-külön is),
 
-8. havi óra-összesítő lap: a szakoktató által kötelezően vezetett nyilvántartás az adott hónapban teljesített oktatással töltött időről,
+8.[^4] havi óra- és vizsga összesítő lap: a szakoktató által kötelezően vezetett nyilvántartás az adott hónapban teljesített oktatással és vizsgával töltött tevékenységről,
 
-9. iktatókönyv: a regionális igazgatóságnál és a képző szervnél a tanulók adatainak nyilvántartására szolgáló számítógépes vagy írásos dokumentum,
+9–10.[^5]
 
-10. iskolavezető: a képző szerv szakmai irányításáért felelős személy, aki a képző szerv tagja vagy munkavállalója és akit az iskolavezetői névjegyzékbe felvettek; iskolavezetőként egyidejűleg egy képző szervnél lehet tevékenykedni,
-
-11. járműkezelési vizsga: a jármű technikai kezelésének, a manőverezési feladatok végrehajtásának, valamint a jármű biztonsági ellenőrzésének számonkérése az „A”, „AM”, „A korl.”, „M”, „A2” kategóriák, továbbá az „A1” alkategória esetében,
+11.[^6] járműkezelési vizsga: a jármű technikai kezelésének, a manőverezési feladatok végrehajtásának, valamint a jármű biztonsági ellenőrzésének számonkérése az „A”, „AM” kategóriák, továbbá az „A1”, „A2” és „B1” alkategóriák esetében,
 
 12. jelentkezési lap: a bizonylati albumban szereplő nyomtatvány vagy elektronikus űrlap, amely a tanuló képzéséhez és vizsgáztatásához szükséges adatokat tartalmazza,
 
@@ -30,27 +26,19 @@
 
 14. kerti traktor: a lassú járműnek külön jogszabályban meghatározott fajtája,
 
-15. képző szerv: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, egyéni vállalkozó vagy oktatói munkaközösség, aki/amely a teljes képzési szolgáltatásra képzési engedélyt kapott,
-
-16. közúti járművezető: a gépjármű, a mezőgazdasági vontató, a segédmotoros kerékpár, a lassú jármű és a kerti traktor vezetője, továbbá az állati erővel vontatott jármű hajtója,
-
-17. közúti közlekedési szakember: a közúti közlekedésről szóló törvényben meghatározott, engedéllyel rendelkező személy,
+15–17.[^7]
 
 18. különleges felépítmény: a járműre állandó jelleggel felszerelt, külön jogszabályban meghatározott eszköz és berendezés,
 
 19. névjegyzék: a közúti közlekedésről szóló törvényben meghatározott engedéllyel rendelkező szakoktatóról, iskolavezetőről és járművezetői vizsgabiztosról a közlekedési hatóság által vezetett nyilvántartás,
 
-20. összevont tanfolyam: a tanuló számára két kategóriában egy tanfolyam keretében végzett oktatás a közös ismeretek összevonásával,
+20.[^8]
 
 21. rendkívüli esemény: minden olyan zavaró körülmény, amely a vizsgáztatás megszokott menetét megzavarja, előírásszerű lefolytatását gátolja, vagy a vizsgázó teljesítményének objektív megítélését akadályozza,
 
 22. rutinvizsga: a jármű technikai kezelésének, valamint a manőverezési feladatok végrehajtásának számonkérése a „C”, „D”, „T”, „Trolibusz” kategóriák, valamint a „C1”, „D1” alkategóriák, továbbá a „B+E”, „C+E”, „C1+E”, „D+E”, „D1+E” kombinált kategóriák esetében,
 
-23. szakfelügyelet: a személyi és tárgyi feltételek, az ügyvitel, valamint a tevékenység végzésére meghatározott előírások betartásának ellenőrzése, továbbá a szakmai iránymutatás,
-
-24. szakoktató: a közúti közlekedésről szóló törvényben meghatározott, a közúti járművezető képzésben oktatóként részt vevő személy,
-
-25. szaktanfolyam: a közúti közlekedési szakemberek tanfolyami képzése és továbbképzése,
+23–25.[^9]
 
 26. tanalváz: a biztonsági ellenőrzés és üzemeltetés tantárgy oktatására alkalmas, az oktatni kívánt kategóriának megfelelő, működőképes szerkezeti elemekkel és tartozékokkal rendelkező jármű szerkezet,
 
@@ -62,13 +50,11 @@
 
 30. vezetési karton: a bizonylati albumban szereplő nyomtatvány vagy elektronikus eszköz, amely a tanuló vezetési gyakorlat tantárgyból történő oktatásának bizonylata,
 
-31. vezetői engedély: a külön jogszabályban meghatározott, közúti járművezetésre jogosító okmány,
-
-32. vizsgabiztos: a közúti közlekedésről szóló törvényben meghatározott, a közúti járművezetők vizsgáztatását végző személy, valamint a közúti közlekedési szakemberek vizsgáztatásában tanúsító szervezetként közreműködő személy,
+31–32.[^10]
 
 33. vizsgajegyzőkönyv: a közlekedési hatóság által kiállított, nyilvántartási számmal ellátott dokumentum, amely tartalmazza a vizsgázók személyazonosító adatait (név, születési dátum), aláírását és vizsgaeredményeit is,
 
-34. vizsgalap: a vizsgázó azonosító adatait tartalmazó, fényképpel ellátott, a vizsgaeredmények bejegyzésére szolgáló okmány,
+34.[^11]
 
 35. vizsgarendező: a vizsgabiztos munkájának elősegítése céljából a közlekedési hatóság által kijelölt személy,
 
@@ -80,12 +66,25 @@
 
 39. tanrend: tantermi oktatás esetén a tantervnek a tanfolyam időtartamára lebontott ütemezése a hozzá kapcsolódó erőforrások (pl. oktató, tanterem) meghatározásával,
 
-40. képzés: a közúti járművezetők és a közúti közlekedési szakemberek tanfolyamon történő oktatása,
+40.[^12]
 
 41. tanuló azonosító: a képző szerv azonosítóját, a tanfolyam képző szerv által meghatározott egyedi azonosítóját, és a tanuló tanfolyamon belüli egyedi sorszámát tartalmazó azonosító,
 
-42. képző szerv azonosító: a közlekedési hatóság által meghatározott, a képző szervet egyértelműen azonosító szám.
+42. képző szerv azonosító: a közlekedési hatóság által meghatározott, a képző szervet egyértelműen azonosító szám,
+
+43.[^13] foglalkozás: az egyben – legfeljebb egy óra szünetet beiktatva – tartott oktatási órák összessége.
 
 (2) E rendeletben az (1) bekezdésben nem meghatározott fogalmak értelmezésekor a közúti közlekedésről szóló törvényben, és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben foglalt értelmező rendelkezéseket kell megfelelően alkalmazni.
 
 [^2]: A 2. § az 58/2011. (XI. 24.) NFM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 3–4. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés 8. pontja a 45/2013. (VIII. 7.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 9–10. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés 11. pontja a 45/2013. (VIII. 7.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 15–17. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdés 20. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdés 23–25. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés 31–32. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés 34. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^12]: A 2. § (1) bekezdés 40. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^13]: A 2. § (1) bekezdés 43. pontját a 45/2013. (VIII. 7.) NFM rendelet 1. § (3) bekezdése iktatta be.

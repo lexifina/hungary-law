@@ -1,4 +1,4 @@
-16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^318]
+16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^371]
 
 ## Az e-learning rendszerű képzésekre vonatkozó követelmények
 
@@ -48,34 +48,40 @@ be) színvonala és kidolgozottsága – ide értve de nem kizárólagosan a spe
 
 II. Követelmények
 
-1. Az e-learning rendszerű képzésben alkalmazható Rendszereknek akkreditációjára és üzemeltetésre vonatkozó követelmények, előírások:
+1.[^372] Az e-learning rendszerű képzésben alkalmazható Rendszereknek akkreditációjára és üzemeltetésre vonatkozó követelmények, előírások:
 
-a) Rendszer akkreditációját megszerezni kívánó képző szervnek az akkreditációs időszak teljes idejére igazolnia kell a tanúsított és szabványos Rendszer jogszerű felhasználhatóságát legalább ezer konkurens (egyidejű) felhasználóra vonatkozóan.
+a) a Rendszer akkreditációját megszerezni kívánó képző szervnek az akkreditációs időszak teljes idejére igazolnia kell a tanúsított és szabványos Rendszer jogszerű felhasználhatóságát legalább ezer konkurens (egyidejű) felhasználóra vonatkozóan,
 
-b) Rendszernek a tanulók részére a folyamatban lévő aktuális képzések Tananyagaihoz a zárt rendszerű távoktatási képzésmenedzsment rendszerben (LMS), időkorlátozás nélküli (7x24 órás rendelkezésre állással) kell tanulói hozzáférést biztosítania,
+b) a Rendszerhez és a tanulók részére a folyamatban lévő aktuális képzések Tananyagaihoz folyamatos, időkorlátozás nélküli (7x24 órás rendelkezésre állással) tanulói hozzáférést kell biztosítania,
 
-c) a képző szervnek a Rendszerhez és annak minden Tananyagához folyamatos hozzáférést kell biztosítania a közlekedési hatóság részére,
+c) a képző szervnek a Rendszerhez és annak minden Tananyagához folyamatos, időkorlátozás nélküli hozzáférést kell biztosítania a közlekedési hatóság részére,
 
-d) a Rendszernek a képzés ideje alatt adatbázisában manipulálhatatlanul rögzítenie kell a tanuló aktuális képzésben történő előrehaladását, a Rendszerben eltöltött idejét, értékelnie és rögzítenie kell a tanuló e-learning keretrendszer szerinti, ellenőrző kérésekre adott válaszait, eredményeit,
+d) a Rendszernek a képzés ideje alatt adatbázisában manipulálhatatlanul rögzítenie kell a tanuló aktuális képzésben történő előrehaladását, a Rendszerben eltöltött idejét, értékelnie és rögzítenie kell a tanulónak a Tananyagban szereplő ellenőrző kérdésekre adott válaszait, eredményeit,
 
-e) tanuló Rendszerben történő kötelező regisztrációját követően a tanuló egyedi autentikációjával a Rendszerbe történő belépéseit– ide értve a tanulói számítógép IP címének naplózását is –, minden esetben rögzíteni (naplózni) kell,
+e) a tanuló Rendszerben történő kötelező regisztrációját követően a tanuló egyedi autentikációjával a Rendszerbe történő belépéseit – ide értve a tanulói számítógép IP címének naplózását is -, az ott eltöltött idejét minden esetben rögzíteni (naplózni) kell,
 
-f) a tanuló e-learning képzésének befejezésekor a Rendszernek – képzési igazolás kiállításával egyidejűleg – a tanuló adatait és képzésének leíró adatait az elektronikus aláírásról szóló törvény szerinti legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel ellátott, a közlekedési hatóság által meghatározott szabványos XML formátumú és adattartalmú állományban kell tárolnia. Az így előállított állományt a képző szervnek legalább 5 évig kell megőriznie, illetve a képzés befejezését követő három munkanapon belül a közlekedési hatóság által meghatározott módon az közlekedési hatóság részére át kell adnia.
+f) az e-learning képzésben részt vevő tanuló 3. számú melléklet 3.2.3. pontja szerinti adatait tartalmazó állományt (a továbbiakban: e-learning képzés kezdés bejelentés) a hozzáférés kiadását követően haladéktalanul, de legkésőbb 24 órán belül el kell küldenie a közlekedési hatóság által meghatározott módon a közlekedési hatóság részére,
 
-g) tanuló e-learning képzésének befejezésekor a Rendszernek automatikusan ki kell állítania és az elektronikus aláírásról szóló törvény szerinti legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátnia a 7. § szerinti igazolást (továbbiakban: tanfolyam igazolást) a közlekedési hatóság által meghatározott adattartalommal. A kiállított tanfolyam igazolást a Rendszernek a kiállítást követően haladéktalanul el kell küldenie és/vagy letölthetővé kell tennie az iskolavezetőnek és a tanulónak. Az így előállított tanfolyam igazolást a képző szervnek legalább 5 évig kell megőriznie, illetve a képzés befejezését követő három munkanapon belül a közlekedési hatóság által meghatározott módon az közlekedési hatóság részére át kell adnia,
+g) a tanuló e-learning képzésének befejezésekor a Rendszernek – képzési igazolás kiállításával egyidejűleg – a tanuló adatait és képzésének leíró adatait az elektronikus aláírásról szóló törvény szerinti legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel ellátott, a közlekedési hatóság által meghatározott szabványos XML formátumú és adattartalmú állományban (a továbbiakban: e-learning képzési statisztika) kell tárolnia; az e-learning képzési statisztikát a képző szervnek legalább 5 évig kell megőriznie, illetve a Rendszernek haladéktalanul, de legkésőbb 24 órán belül el kell küldenie a közlekedési hatóság által meghatározott módon a közlekedési hatóság részére,
 
-h) a Rendszernek biztosítani a kell a SCORM formátumú szabványos – közlekedési hatóság által biztosított – kiegészítő ismeretanyag(ok) képzéshez történő hozzáadását oly módon, hogy kiegészítő ismeretanyag(ok) elvégzése a tanuló által kötelező, naplózandó és az elvégzésre fordított idő hozzáadódik a képzésben eltöltött időhöz,
+h) tanuló e-learning képzésének befejezésekor a Rendszernek automatikusan ki kell állítania és az elektronikus aláírásról szóló törvény szerinti legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel kell ellátnia a 7. § szerinti igazolást (a továbbiakban: e-learning képzési igazolás) a közlekedési hatóság által meghatározott adattartalommal; a kiállított e-learning képzési igazolást a Rendszernek a kiállítást követően haladéktalanul el kell küldenie és/vagy letölthetővé kell tennie az iskolavezetőnek és a tanulónak; az így előállított e-learning képzési igazolást a képző szervnek legalább 5 évig kell megőriznie, illetve a Rendszernek az e-learning képzési igazolás kiállítását követően haladéktalanul, de legkésőbb 24 órán belül el kell küldenie a közlekedési hatóság által meghatározott módon a közlekedési hatóság részére,
 
-i) a képzési folyamatnak bármikor dokumentáltan megszakíthatónak és az egyéni autentikációt követően folytathatónak kell lennie,
+i) a Rendszernek biztosítani a kell a SCORM formátumú szabványos – a közlekedési hatóság által biztosított – kiegészítő ismeretanyag(ok) képzéshez történő hozzáadását oly módon, hogy kiegészítő ismeretanyag(ok) elvégzése a tanuló által kötelező, naplózandó és az elvégzésre fordított idő hozzáadódik a képzésben eltöltött időhöz,
 
-j) a modulok végén kérdésbankból véletlenszerűen önellenőrző tesztet kell biztosítani a tanuló számára, és csak akkor kezdhető meg a következő modul, ha a tanuló az addig elvégzett modulok ismeretanyagából véletlenszerűen feltett megfelelő számú kérdésekre legalább 80%-ban helyes választ adott,
+j) a képzési folyamatnak bármikor dokumentáltan megszakíthatónak és az egyéni autentikációt követően folytathatónak kell lennie,
 
-k) az önellenőrző teszteknek a tanuló által a képzési folyamatban tetszőleges számban ismételhetőnek kell lenniük,
+k) a fejezetek végén kérdésbankból véletlenszerűen önellenőrző tesztet kell biztosítani a tanuló számára, és csak akkor kezdhető meg a következő fejezet, ha a tanuló az addig elvégzett fejezetek ismeretanyagából véletlenszerűen feltett megfelelő számú kérdésekre legalább 80%-ban helyes választ adott,
+
+l) az önellenőrző teszteknek a tanuló által a képzési folyamatban tetszőleges számban ismételhetőnek kell lenniük,
+
+m) a modulok végén önellenőrző tesztet kell biztosítani a tanuló számára és csak akkor lehet elvégzett a modul, ha a tanuló az adott modul ismeretanyagából feltett megfelelő számú kérdésekre legalább 85%-ban helyes választ adott.
 
 2. A képzés(ek) Tananyagaira vonatkozó előírások
 
 a) a képzés Tananyagát – az e-learning tananyagokra vonatkozó speciális pedagógiai és didaktikai elvárásokra figyelemmel – olyan mennyiségű és színvonalú animációval és önellenőrző teszttel kell megvalósítani, hogy az előírt ismeretanyagot egy átlagos képességű tanuló külső segítség nélkül is el tudja sajátítani és megszerzett tudásának megfelelőségéről önállóan meg tudjon győződni,
 
-b) képzésen belül a Tananyagnak modulárisan kell felépülnie, oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére.
+b)[^373] képzésen belül a Tananyagnak modulárisan kell felépülnie, oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére. A modulokat fejezetekbe kell szervezni olyan módon, hogy egy fejezet legfeljebb tíz modult tartalmazhat.
 
-[^318]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.
+[^371]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.
+[^372]: A 16. melléklet II. Fejezet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.
+[^373]: A 16. melléklet II. Fejezet 2. pont c) alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.

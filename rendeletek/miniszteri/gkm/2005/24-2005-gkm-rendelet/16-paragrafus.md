@@ -1,6 +1,6 @@
-## A közlekedési hatóság eljárása és az általa végzett tevékenység[^56]
+## A közlekedési hatóság eljárása és az általa végzett tevékenység[^81]
 
-## 16. §[^57] A közlekedési hatóság
+## 16. §[^82] A közlekedési hatóság
 
 a) meghatározza:
 
@@ -20,7 +20,7 @@ ag) a vezetési kartont helyettesítő, a vezetési gyakorlat oktatása során a
 
 ah) a legalább az alapfokú iskolai végzettség igazolásával és ennek ügyvitelével kapcsolatos szabályokat,
 
-ai) a képzés során alkalmazható tansegédleteket,
+ai)[^83]
 
 aj) a vizsga sikeres letételéhez szükséges ismereti szintet a vonatkozó jogszabályi előírások hiányában,
 
@@ -38,7 +38,14 @@ e) a szakoktatókról, az iskolavezetőkről, a vizsgabiztosokról és a képző
 
 ea) az engedélyezett tevékenységének végzése közben tanúsított magatartásával bűncselekményt vagy szabálysértést követett el,
 
-eb) olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta.
+eb) olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta,
 
-[^56]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
-[^57]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+ec)[^84] az iskolavezető cselekménye következtében a közlekedési hatóság a képző szerv tevékenységét jogerősen legalább 60 napra felfüggesztette,
+
+f)[^85] meghatározza – a 12. számú melléklet 7. pontja és 13. számú melléklet 1.1. pontja szerinti – a szaktanfolyamon való részvétel alóli mentesítés feltételeit és módját.
+
+[^81]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^82]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^83]: A 16. § a) pont ai) alpontját a 45/2013. (VIII. 7.) NFM rendelet 21. § c) pontja hatályon kívül helyezte.
+[^84]: A 16. § e) pont ec) alpontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (1) bekezdése iktatta be.
+[^85]: A 16. § f) pontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (2) bekezdése iktatta be.

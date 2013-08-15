@@ -1,24 +1,16 @@
-4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^178]
+4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^222]
 
 ## A 2003. év november 30-ig oktatásba bevont járművekre vonatkozó előírások
 
-1. A járművek követelményei kategóriánként
-
-„M” kategória:
-
-bármely kétkerekű segédmotoros kerékpár.
+1.[^223] A járművek követelményei kategóriánként
 
 „A1” alkategória:
 
-„A1” alkategóriába tartozó, legalább 75 cm3 hengerűrtartalmú, kétkerekű motorkerékpár.
-
-„A korl.” kategória:
-
-125 cm3-t meghaladó hengerűrtartalmú, kétkerekű motorkerékpár, amely legalább 100 km/óra sebesség elérésére alkalmas, továbbá a teljesítménye a 25 kW-ot és a teljesítmény/sajáttömeg aránya a 0,16 kW/kg értéket nem haladja meg.
+olyan kétkerekű motorkerékpár, amely hengerűrtartalma a 125 cm3-t, teljesítménye a 11 kW-ot, teljesítmény/tömeg aránya pedig a 0,1 kW/kg-ot nem haladja meg.
 
 „A” kategória:
 
-kétkerekű motorkerékpár, amely legalább 100 km/óra sebesség elérésére alkalmas és teljesítménye legalább 35 kW.
+„A” kategóriába tartozó oldalkocsi nélküli kétkerekű motorkerékpár, legalább 595 cm3 hengerűrtartalommal és legalább 40 kW motorteljesítménnyel.
 
 „B” kategória:
 
@@ -36,7 +28,7 @@ f) két darab pót-visszapillantó tükör, amely a vezető melletti ülésből 
 
 „B” kategória a mozgáskorlátozottak képzéséhez:
 
-a) bármely – a mozgáskorlátozott egészségi állapotának megfelelő – személygépkocsi, illetőleg a külön jogszabályban[^179] meghatározott szakértői bizottság egyedi műszaki előírásainak megfelelően átalakított személygépkocsi,
+a) bármely – a mozgáskorlátozott egészségi állapotának megfelelő – személygépkocsi, illetőleg a külön jogszabályban[^224] meghatározott szakértői bizottság egyedi műszaki előírásainak megfelelően átalakított személygépkocsi,
 
 b) a járművezető melletti ülésből működtethető, az üzemi fékberendezésre ható pótfék pedállal. A pótfék hatásosságának el kell érnie az üzemi fék hatásosságának legalább 90%-át,
 
@@ -158,12 +150,13 @@ d) az oktató, illetőleg a vizsgabiztos részére két darab póttükör,
 
 e) oktatói (vizsgabiztosi) pótfék, illetőleg az oktató (vizsgabiztos) által kezelhető üzemi fék.
 
-2.[^180] Egyéb követelmények
+2.[^225] Egyéb követelmények
 
 Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivéve – fel kell szerelni kék alapszínű, 20 cm magasságú, 3 cm vonalvastagságú – elölről és hátulról egyaránt – jól látható, nyomtatott fehér „T” betűt ábrázoló, 25x25 cm oldalélű táblával, valamint jól láthatóan fel kell tüntetni az „Autósiskola” feliratot. A „B” kategória esetében ezen jelzéseket a jármű hossztengelyére merőlegesen felszerelt tetőtáblán kell elhelyezni. A tetőtáblán lévő „T” betűt oktatáson kívül le kell takarni.
 
-Az „M”, „A korl.” és „A” kategóriás, továbbá az „A1” alkategóriás gyakorlati képzés főoktatási szakaszában, valamint a forgalmi gyakorlati vizsgán a kísérő személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
+Az „A” kategóriás, továbbá az „A1” alkategóriás gyakorlati képzés főoktatási szakaszában, valamint a forgalmi gyakorlati vizsgán a kísérő személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
-[^178]: A 4. melléklet e rendelet – 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát veszti 2013. október 1. napján.
-[^179]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet.
-[^180]: A 4. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (4) bekezdésével megállapított szöveg.
+[^222]: A 4. melléklet e rendelet – 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát veszti 2013. október 1. napján.
+[^223]: A 4. melléklet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (3) bekezdése és 21. § i) pontja szerint módosított szöveg.
+[^224]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet.
+[^225]: A 4. melléklet 2. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (4) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 21. § i) pontja szerint módosított szöveg.
