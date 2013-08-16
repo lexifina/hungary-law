@@ -12,7 +12,7 @@
 
 |  |  | A főváros kerületi önkormányzatai tulajdonában lévő utak, járdák | Közúthatósági engedélyek | fővárosi kormányhivatal V. kerületi hivatala | Budapest Főváros Kormányhivatalának Közlekedési Felügyelősége |
 
-2. számú melléklet a 89/2007. (IV. 26.) Korm. rendelethez[^2]
+2. számú melléklet a 89/2007. (IV. 26.) Korm. rendelethez[^3]
 
 ## Az 1. § (3) bekezdésében hivatkozott szakhatóságok
 
@@ -130,4 +130,4 @@
 
 | Vasúti ügyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-[^2]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a, a 23/2012. (II. 29.) Korm. rendelet 24. §-a, a 296/2012. (X. 17.) Korm. rendelet 28. §-a, a 394/2012. (XII. 20.) Korm. rendelet 20. §-a, az 51/2013. (II. 25.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^3]: A 2. számú melléklet a 111/2011. (VII. 4.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 282/2011. (XII. 21.) Korm. rendelet 20. §-a, a 23/2012. (II. 29.) Korm. rendelet 24. §-a, a 296/2012. (X. 17.) Korm. rendelet 28. §-a, a 394/2012. (XII. 20.) Korm. rendelet 20. §-a, az 51/2013. (II. 25.) Korm. rendelet 13. §-a szerint módosított szöveg.

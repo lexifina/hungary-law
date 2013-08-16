@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-89-20-2
 | 2012-03-15 | 2007-89-20-22.9 | 111/2011. (VII. 4.) Korm. rendelet |
 | 2013-01-01 | 2007-89-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-02-26 | 2007-89-20-22.11 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2013-08-16 | 2007-89-20-22.12 | 308/2013. (VIII. 15.) Korm. rendelet |
