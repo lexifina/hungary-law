@@ -1,6 +1,6 @@
 ## 1. megállapítja az 1. melléklet szerint a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervét,
 
-## 2. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterv kereteinek módosításáról szóló 1235/2013. (IV. 23.) Korm. határozat 1. pontját és 1. mellékletét.
+## 2.[^1]
 
 1. melléklet az 1543/2013. (VIII. 15.) Korm. határozathoz
 
@@ -437,3 +437,5 @@
 | 8. | Prioritás | 3,02 | 1,85 | 1,76 |  |  |  |
 
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, amennyiben nem kerül sor költségvetési kompenzációra |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
