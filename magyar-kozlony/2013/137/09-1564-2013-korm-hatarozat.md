@@ -1,0 +1,133 @@
+# A Kormány 1564/2013. (VIII. 16.) Korm. határozata
+
+Magyar Közlöny 2013. évi 137. szám, 2013. augusztus 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/80e79f4bd9e6bcefa784ff1910311d05e5ca8d78/dokumentumok/4603675f6e4cf1cdf5723aeaf8809d85435d0723/letoltes)
+
+---
+
+A Kormány 1564/2013. (VIII. 16.) Korm. határozata
+az Itthon vagy – Magyarország szeretlek kulturális program lebonyolításához a rendkívüli kormányzati
+intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról
+A Kormány
+1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított
+jogkörében eljárva elrendeli az Itthon vagy – Magyarország szeretlek kulturális program lebonyolításához
+kapcsolódóan a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban:
+Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetnek a 23. „Itthon vagy – Magyarország szeretlek”
+programsorozat címmel történő kiegészítését;
+Felelős: nemzetgazdasági miniszter
+belügyminiszter
+Határidő: azonnal
+2. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva az „Itthon vagy – Magyarország szeretlek” kulturális
+program lebonyolításához a Kvtv. 1. melléklet
+a) IX. Helyi önkormányzatok támogatásai fejezet, 23. „Itthon vagy – Magyarország szeretlek” programsorozat
+cím javára 752,3 millió forint,
+b) XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési
+programok alcím, 2. Turisztikai célelőirányzat jogcímcsoport javára 80,0 millió forint,
+c) XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra,
+kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi
+kultúra támogatása jogcímcsoport, 6. „Itthon vagy – Magyarország szeretlek” programsorozat támogatása
+jogcím javára 160,0 millió forint,
+azaz összesen 992,3 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel
+nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet,
+7. Rendkívüli kormányzati intézkedések cím terhére.
+Az átcsoportosítás tekintetében
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+Az elszámolás és a visszatérítési kötelezettség tekintetében
+Felelős: belügyminiszter
+nemzeti fejlesztési miniszter
+emberi erőforrások minisztere
+Határidő: 2013. december 15.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1564/2013. (VIII. 16.) Korm. határozathoz
+1. melléklet a /2013. ( ) Korm. határozathoz
+IX. Helyi önkormányzatok támogatásai
+XI. Miniszterelnökség
+XVII. Nemzeti Fejlesztési Minisztérium
+XX. Emberi Erőforrások Minisztériuma
+Millió forintban, egy tizedessel
+ÁHT Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. K I A D Á S O K (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+IX. Helyi önkormányzatok támogatásai
+342706 23 "Itthon vagy - Magyarország szeretlek" programsorozat 752,3
+XVII. Nemzeti Fejlesztési Minisztérium
+20 Fejezeti kezelésű előirányzatok
+33 Hazai fejlesztési programok
+030164 2 Turisztikai célelőirányzat
+1 Működési költségvetés
+5 Egyéb működési célú kiadások 80,0
+XX. Emberi Erőforrások Minisztériuma
+20 Fejezeti kezelésű előirányzatok
+12 Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra
+7 Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása
+342717 6 „Itthon vagy – Magyarország szeretlek” programsorozat támogatása
+1 Működési költségvetés
+5 Egyéb működési célú kiadások 160,0
+XI. Miniszterelnökség
+297102 7 Rendkívüli kormányzati intézkedések -992,3
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. B E V É T E L A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. T Á M O G A T Á S A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XVII. Nemzeti Fejlesztési Minisztérium
+20 Fejezeti kezelésű előirányzatok
+33 Hazai fejlesztési programok
+030164 2 Turisztikai célelőirányzat 80,0
+XX. Emberi Erőforrások Minisztériuma
+20 Fejezeti kezelésű előirányzatok
+12 Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra
+7 Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása
+342717 6 „Itthon vagy – Magyarország szeretlek” programsorozat támogatása 160,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I.n.év II. n.év III.n.év IV.n.év
+Fejezet időarányos
+Állami Számvevőszék teljesítményarányos
+Magyar Államkincstár egyéb: azonnal 992,3 992,3
+Nemzetgazdasági Minisztérium
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+a Kormány hatáskörében
+Költségvetési év: 2013.
+A módosítást
+elrendelő
+jogszabály/
+határozat száma
+2 példány
+A módosítást
+elrendelő
+jogszabály/
+határozat száma
+A módosítást
+elrendelő
+jogszabály/
+határozat száma
+Az adatlap 5 példányban töltendő ki
+1 példány
+1 példány
+1 példány
+Foglalkoztatottak létszáma:
+
+A Magyar Közlönyt a Szerkesztőbizottság közreműködésével a Közigazgatási és Igazságügyi
+Minisztérium szerkeszti.
+A Szerkesztőbizottság elnöke: dr. Biró Marcell,
+a szerkesztésért felelős: dr. Borókainé dr. Vajdovits Éva.
+A szerkesztőség címe: Budapest V., Kossuth tér 2–4.
+A Határozatok Tára hivatalos lap tartalma a Magyar Közlöny IX. részében jelenik meg.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó.
+Felelős kiadó: Majláth Zsolt László ügyvezető.
