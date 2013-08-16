@@ -1,1 +1,1 @@
-87/C. § Felhatalmazást kap a fővárosi önkormányzat képviselő-testülete, hogy a 63. § (3) bekezdése szerinti támogatás felhasználási feltételeit és a támogatás igénybevételével kapcsolatos eljárási szabályokat rendeletben határozza meg.
+87/C. §
