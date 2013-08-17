@@ -14,7 +14,7 @@ c)[^1]
 
 ## kötelező átvételének szabályaira, az Értékesítő által a Befogadónak történő értékesítés átvételi áraira, továbbá ezen árak alkalmazási feltételeinek megállapítására.
 
-(1a)[^2] A rendelet alkalmazási köre kiterjed továbbá a kötelező átvételi rendszerben értékesített, kapcsoltan termelt villamos energia eredetigazolására, elszámolására, ellenőrzésére, valamint a jogosulatlan értékesítés esetében történő visszatérítésre.
+(1a)[^2] A rendelet alkalmazási köre kiterjed továbbá a kötelező átvételi rendszerben értékesített, kapcsoltan termelt villamos energia elszámolására, ellenőrzésére, valamint a jogosulatlan értékesítés esetében történő visszatérítésre.
 
 (2) E rendelet alkalmazási köre nem terjed ki a háztartási méretű kiserőműben termelt villamos energiára.
 
@@ -31,7 +31,7 @@ c)[^3] biomassza, biogáz vagy hulladékból nyert energia továbbá megújuló 
 (5)[^5] A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 7. §-ának (2) bekezdése és a VET felhatalmazása alapján kiadott külön jogszabály szerinti pályázat alapján létesített szélerőműben vagy szélerőműparkban (a továbbiakban együtt: szélerőmű) termelt villamos energia termelője a pályázat eredményének megfelelő feltételek szerint (különösen: időtartam, mennyiség, átvételi ár stb.) jogosult a kötelező átvételi rendszerben történő értékesítésre.
 
 [^1]: Az 1. § (1) bekezdés c) pontját a 166/2011. (VIII. 24.) Korm. rendelet 3. § 1. pontja hatályon kívül helyezte.
-[^2]: Az 1. § (1a) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (1a) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 309/2013. (VIII. 16.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdésének c) pontja a 287/2008. (XI. 28.) Korm. rendelet 11. § (7) bekezdése szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 3. § 2. pontja hatályon kívül helyezte.
 [^5]: Az 1. § (5) bekezdése a 166/2011. (VIII. 24.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
