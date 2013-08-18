@@ -1,0 +1,3 @@
+14. § (1) Az állomány tagja a házastársi jövedelem-kiegészítésre jogosultság alapjául szolgáló körülmények megváltozását az annak bekövetkeztétől számított 8. napig köteles a parancsnoknak bejelenteni. A háztartási jövedelem-kiegészítés változásnak megfelelően módosított összegét a jogosultság alapjául szolgáló körülmények megváltozásának napjától kell folyósítani, illetve amennyiben az állomány tagja a feltételeknek már nem felel meg, a háztartási jövedelem-kiegészítést ezen időponttal kell megszüntetni.
+
+(2) A házastársi jövedelem-kiegészítésre vonatkozó jogosultság fennállását az állomány tagja háromhavonként megfelelő okiratok bemutatásával – így különösen munkaközvetítő szerv igazolásával, munkaszerződéssel, kinevezéssel, kifizetési bizonylattal – igazolja.
