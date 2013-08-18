@@ -1,7 +1,0 @@
-## 13. § Az iskolakezdési támogatás olyan jogszabályban meghatározott természetbeni juttatás, amelyet a gyermek, tanuló számára a szülő (nevelőszülő) vagy a vele közös háztartásban élő házastárs (bejegyzett élettárs) útján, kizárólag tankönyv, taneszköz vagy ruházat vásárlására jogosító utalvány (a továbbiakban: iskolakezdési utalvány) formájában kell biztosítani. Az iskolakezdési utalvány értéke gyermekenként a honvédelmi miniszter által meghatározott összeg.
-
-14. § (1) Iskolakezdési támogatásra jogosult a tárgyév szeptember 1-jén jogviszonyban álló hivatásos katona, valamint közalkalmazott útján a közoktatásban részesülő (iskolai tanulmányait megkezdő), a tárgyév szeptemberében családi pótlékra jogot adó, saját háztartásban nevelt gyermeke, ideértve a vele közös háztartásban élő házastárs (bejegyzett élettárs) – feltételeknek megfelelő – gyermekét is.
-
-(2) A külön jogszabály alapján külföldön szolgálatot teljesítők vagy tanulmányokat folytatók gyermeke, ha iskolai oktatásban külföldön részesül vagy iskolai tanulmányait külföldön kezdi meg, a szülő választása alapján iskolakezdési támogatásként a 13. §-ban meghatározott (bruttó) értékű iskolakezdési utalványra vagy azzal azonos összegű pénzbeni támogatásra jogosult.
-
-(3) Az egyéb feltételek mellett iskolakezdési támogatásra jogosult a katonai kötelmekkel összefüggő baleset vagy betegség következtében elhunyt hivatásos (továbbszolgáló) katona, illetve a hősi halott árvaellátásban részesülő gyermeke is.
