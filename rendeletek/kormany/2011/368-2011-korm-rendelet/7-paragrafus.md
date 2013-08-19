@@ -1,4 +1,4 @@
-## [Az Áht. 10. § (1)–(3) bekezdéséhez és 109. § (1) bekezdés 13. pontjához]
+## [Az Áht. 10. § (1)–(3) bekezdéséhez][^11]
 
 7. § (1) Ha törvény vagy kormányrendelet eltérően nem rendelkezik önállóan működő és gazdálkodó költségvetési szerv
 
@@ -10,7 +10,7 @@ c) az önkormányzati hivatal,
 
 d) az országos területi hálózattal rendelkező költségvetési szerv központi szerve,
 
-e)[^9] a társulási tanács munkaszervezeti feladatait ellátó költségvetési szerv, és
+e)[^12] a társulási tanács munkaszervezeti feladatait ellátó költségvetési szerv, és
 
 f) a költségvetési szervként működő közreműködő szervezet.
 
@@ -30,4 +30,5 @@ b) a szellemi, fizikai támogató funkciókat ellátók száma külön szervezet
 
 (4) Az országos nemzetiségi önkormányzat hivatala vezetőjének igazgatásszervezői vagy állam- és jogtudományi doktori képesítéssel, okleveles közgazdász képesítéssel, vagy okleveles közigazgatási menedzser szakképesítéssel, a pénzügyi források és a vagyon mértékének megfelelő vezetési-szervezési és pénzügyi-gazdasági ismeretekkel, szakmai és vezetői gyakorlattal rendelkező, pályázati úton kiválasztott természetes személy nevezhető ki.
 
-[^9]: Az Ávr. 7. § (1) bekezdés e) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 2. pontja szerint módosított szöveg.
+[^11]: Az Ávr. 7. §-át megelőző alcím címe a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^12]: Az Ávr. 7. § (1) bekezdés e) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 2. pontja szerint módosított szöveg.

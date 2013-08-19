@@ -14,7 +14,7 @@ c) a kifogásolt intézkedés vagy mulasztás meghatározását,
 
 d) a kifogás alapjául szolgáló tényeket és a kifogásolt vagy elmaradt intézkedéssel megsértett jogszabályi rendelkezés pontos megjelölését, és
 
-e) a kifogást tevő aláírását.
+e)[^116] nem elektronikus úton történő kapcsolattartás esetén a kifogást tevő aláírását.
 
 (5) A kifogás kivizsgálásában – a fejezetet irányító szerv vezetője kivételével – nem vehet részt az, aki a kifogással érintett eljárásban részt vett.
 
@@ -25,3 +25,5 @@ e) a kifogást tevő aláírását.
 (8) Ha a kifogás alapos, a fejezetet irányító szerv vezetője elrendeli a kifogásban sérelmezett helyzet megszüntetéséhez szükséges intézkedést, egyébként azt elutasítja, és döntéséről – elutasítás esetén az elutasítás indokainak megjelölésével – a kifogást tevőt írásban értesíti.
 
 (9) Az európai uniós forrásból biztosított költségvetési támogatással kapcsolatos kifogás benyújtására, annak elbírálási rendjére az e költségvetési támogatásokat szabályozó jogszabályokban foglaltakat kell alkalmazni.
+
+[^116]: Az Ávr. 90. § (4) bekezdés e) pontja a 307/2013. (VIII. 14.) Korm. rendelet 29. § 7. pontja szerint módosított szöveg.

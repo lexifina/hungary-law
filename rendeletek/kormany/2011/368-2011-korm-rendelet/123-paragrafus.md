@@ -14,11 +14,11 @@
 
 (7) Az igénybe vett megelőlegezés összegét az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a befolyó költségvetési bevételekből és a társadalombiztosítás pénzügyi alapját nem terhelő ellátások megtérítéseiből soron kívül törleszti.
 
-(7a)[^147] Az Áht. 78. § (4) bekezdés e) pontja szerinti megelőlegezés feltétele, hogy a kifizetés időpontjában a támogatási szerződésben meghatározott célokra felhasználható európai uniós és hazai forrás nem áll rendelkezésre. A tervezett megelőlegezés igénybevételéről a Nemzeti Infrastruktúra Fejlesztő Zrt. az államháztartásért felelős miniszter és a Kincstár részére a költségvetési év január 15-éig havi bontású finanszírozási tervet készít, amelyet a rendelkezésére álló információk alapján minden negyedévet követő hónap 15-éig aktualizál. Az államháztartásért felelős miniszter jogosult a finanszírozási terv és a megelőlegezés igénybevételének ütemezését módosítani.
+(7a)[^180] Az Áht. 78. § (4) bekezdés e) pontja szerinti megelőlegezés feltétele, hogy a kifizetés időpontjában a támogatási szerződésben meghatározott célokra felhasználható európai uniós és hazai forrás nem áll rendelkezésre. A tervezett megelőlegezés igénybevételéről a Nemzeti Infrastruktúra Fejlesztő Zrt. az államháztartásért felelős miniszter és a Kincstár részére a költségvetési év január 15-éig havi bontású finanszírozási tervet készít, amelyet a rendelkezésére álló információk alapján minden negyedévet követő hónap 15-éig aktualizál. Az államháztartásért felelős miniszter jogosult a finanszírozási terv és a megelőlegezés igénybevételének ütemezését módosítani.
 
-(7b)[^148] Az igénybe vett megelőlegezést a Nemzeti Infrastruktúra Fejlesztő Zrt. támogatási szerződés alapján számára kiutalt bevételeiből soron kívül törleszti.
+(7b)[^181] Az igénybe vett megelőlegezést a Nemzeti Infrastruktúra Fejlesztő Zrt. támogatási szerződés alapján számára kiutalt bevételeiből soron kívül törleszti.
 
 (8) Az Áht. 78. § (5) bekezdés b) pontjában foglaltak alapján kiutalható előleg az érintett egészségügyi szolgáltató utalási évre vonatkozó tizenkét havi finanszírozási összegéből számított havi átlagának 40%-a. A kiutalt előleg visszavonásáról az Egészségbiztosítási Alap kezelő szerve egy összegben a január első munkanapján esedékes finanszírozási összeg utalásánál gondoskodik.
 
-[^147]: Az Ávr. 123. § (7a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
-[^148]: Az Ávr. 123. § (7b) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^180]: Az Ávr. 123. § (7a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^181]: Az Ávr. 123. § (7b) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 31. §-a iktatta be.

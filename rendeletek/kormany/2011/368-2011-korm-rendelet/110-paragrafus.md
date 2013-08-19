@@ -1,6 +1,6 @@
-## [Az Áht. 59. §-ához][^135]
+## [Az Áht. 59. §-ához][^160]
 
-110. §[^136] (1) Az Áht. 59. § (1) és (2) bekezdése szerinti vizsgálat lefolytatására a 108. § (1)–(4) bekezdése szabályait az e §-ban foglalt eltérésekkel kell alkalmazni.
+110. §[^161] (1) Az Áht. 59. § (1) és (2) bekezdése szerinti vizsgálat lefolytatására a 108. § (1)–(3) bekezdését és a 109. §-t az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A Kincstár az Áht. 59. § (1) bekezdése alapján a hiányok pótlására és módosításra – az igénylés feltételeit tartalmazó jogszabályban meghatározott igénylési rendhez igazodóan – legfeljebb nyolcnapos határidőt állapít meg. Ha a felhívás címzettje a hiánypótlásnak nem tesz eleget vagy azt nem megfelelően teljesíti, és emiatt a támogatási igény az elbírálásra jogosult szervnek nem továbbítható, a támogatási igény dokumentációját – egy másolati példány megtartásával – az ok megjelölésével a Kincstár visszaküldi a benyújtónak.
 
@@ -14,19 +14,19 @@ c) a hiányok, módosítandó adatok, dokumentumok megjelölésével a hiánypó
 
 d) az eltérés indokait, és
 
-e) tájékoztatást a felhívásban foglaltak elmulasztásának jogkövetkezményeiről.
+e) a felhívásban foglaltak elmulasztásának jogkövetkezményeiről szóló tájékoztatást.
 
-(4) Az Áht. 59. § (3) bekezdése szerinti végzésnek tartalmaznia kell
+(4) A helyszíni ellenőrzésről készített jegyzőkönyv tartalmazza:
 
-a) a (3) bekezdés a) pontjában foglaltakat, illetve a megállapított költségvetési támogatás összegét,
+a) az eljáró közigazgatási szerv nevét, a jegyzőkönyv készítésének helyét és idejét, a vizsgált helyi önkormányzat, helyi nemzetiségi önkormányzat, költségvetési szerv nevét, székhelyét, a felülvizsgálat alapjául szolgáló dokumentumok felsorolását, az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat,
 
-b) a Kincstár által szabályszerűnek tartott támogatási igényt, illetve költségvetési támogatási összegét, a helyi önkormányzat, helyi nemzetiségi önkormányzat adataitól történő eltérés indokait,
+b) a (3) bekezdés a) pontjában foglaltakat, illetve a megállapított költségvetési támogatás összegét,
 
-c) kötelezést arra vonatkozóan, hogy tizenöt napon belül a költségvetési támogatásról, illetve annak egy részéről a címzett mondjon le a 102. § előírásainak megfelelően, és a már átutalt költségvetési támogatást – a 104. § (1) bekezdés a) pont ab) alpontja szerinti esetben fizesse vissza, és
+c) a Kincstár által szabályszerűnek tartott támogatási igényt, illetve költségvetési támogatás összegét, a helyi önkormányzat, helyi nemzetiségi önkormányzat adataitól való eltérés indokait,
 
-d) a tájékoztatást a felhívásban foglaltak elmulasztásának jogkövetkezményeiről.
+d) az ellenőrök nevét, aláírását és
 
-(5) A Kincstár az Áht. 59. § (3) bekezdése szerinti határozatot a (4) bekezdés c) pontja szerinti kötelezés elmulasztását követő harminc napon belül adja ki.
+e) – ha a helyszíni ellenőrzés befejezésével nem kerül sor a jegyzőkönyv átadására – a Kincstár illetékes vezetőjének aláírását.
 
-[^135]: Az Ávr. 110. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^136]: Az Ávr. 110. § a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^160]: Az Ávr. 110. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^161]: Az Ávr. 110. §-a a 307/2013. (VIII. 14.) Korm. rendelet 17. §-ával megállapított szöveg.

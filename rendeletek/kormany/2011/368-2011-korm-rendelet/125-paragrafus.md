@@ -1,10 +1,10 @@
-125. § (1)[^151] A Kincstár a helyi önkormányzat, a helyi nemzetiségi önkormányzat, illetve a társulás megbízásából vezeti a központosított illetményszámfejtéssel összefüggő kifizetésekre szolgáló letéti számlát.
+125. § (1)[^184] A Kincstár a helyi önkormányzat, a helyi nemzetiségi önkormányzat, illetve a társulás megbízásából vezeti a központosított illetményszámfejtéssel összefüggő kifizetésekre szolgáló letéti számlát.
 
 (2) A Kincstár fizetési számlát vezet Igazgatóságonként
 
 a) a családtámogatások pénzbeli ellátásának, a fogyatékossági támogatások, és a vakok személyi járadéka kifizetésére,
 
-b)[^152] külön-külön a köznevelési, valamint a szociális, gyermekjóléti és gyermekvédelmi humánszolgáltatások után nem állami intézmény fenntartójának biztosított hozzájárulás folyósítására, és
+b)[^185] külön-külön a köznevelési, valamint a szociális, gyermekjóléti és gyermekvédelmi humánszolgáltatások után nem állami intézmény fenntartójának biztosított hozzájárulás folyósítására, és
 
 c) a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres házi segítségnyújtás, a szociális foglalkoztatás, továbbá az utcai szociális munka és a krízisközpontok támogatásának folyósítására.
 
@@ -12,18 +12,18 @@ c) a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres h
 
 (4) A Kincstár fizetési számlát vezet a kamatadóval kapcsolatos pénzforgalom lebonyolítására.
 
-(5)[^153] A Kincstár fővárosi és megyei kormányhivatalonként egy családtámogatási számlát vezet a természetben nyújtott családi pótlék összegének kezelésére.
+(5)[^186] A Kincstár fővárosi és megyei kormányhivatalonként egy családtámogatási számlát vezet a természetben nyújtott családi pótlék összegének kezelésére.
 
-(6)[^154]
+(6)[^187]
 
-(7)[^155] Az Igazgatóság a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási gyámhivatala döntése alapján intézkedik a természetbeni családi pótlék meghatározott részének, illetve az iskoláztatási támogatásnak a családtámogatási számlára utalásáról. Az Igazgatóság az utalás során feltünteti a kedvezményezett gyermek azonosító számát.
+(7)[^188] Az Igazgatóság a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási gyámhivatala döntése alapján intézkedik a természetbeni családi pótlék meghatározott részének, illetve az iskoláztatási támogatásnak a családtámogatási számlára utalásáról. Az Igazgatóság az utalás során feltünteti a kedvezményezett gyermek azonosító számát.
 
 (8) A Kincstár az építőipari kivitelezési tevékenységről szóló kormányrendelet rendelkezése szerint fedezetkezelői számlát, továbbá az államháztartás központi alrendszerébe tartozó költségvetési szerv részére építtetői fedezetbiztosítási számlát vezet.
 
 (9) A fedezetkezelői számláról és az építtetői fedezetbiztosítási számláról közvetlen kifizetés az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározott előírásoknak megfelelően teljesíthető.
 
-[^151]: Az Ávr. 125. § (1) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^152]: Az Ávr. 125. § (2) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 31. pontja szerint módosított szöveg.
-[^153]: Az Ávr. 125. § (5) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^154]: Az Ávr. 125. § (6) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 5. § (3) bekezdése hatályon kívül helyezte.
-[^155]: Az Ávr. 125. § (7) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^184]: Az Ávr. 125. § (1) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^185]: Az Ávr. 125. § (2) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 31. pontja szerint módosított szöveg.
+[^186]: Az Ávr. 125. § (5) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^187]: Az Ávr. 125. § (6) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 5. § (3) bekezdése hatályon kívül helyezte.
+[^188]: Az Ávr. 125. § (7) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
