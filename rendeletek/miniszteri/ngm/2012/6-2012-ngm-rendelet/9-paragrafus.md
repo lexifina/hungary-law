@@ -1,5 +1,0 @@
-## 8. § A kincstár a bejegyzési kérelmet, a törlési kérelmet, a változásbejelentési kérelmet és azok mellékleteit megvizsgálja, és ha azok nem felelnek meg az Áht.-ban, az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben, a szakfeladatrendről és az államháztartási szakágazati rendről szóló miniszteri rendeletben, a törzskönyvi jogi személy működéséről rendelkező jogszabályban vagy határozatban, illetve e rendeletben foglaltaknak, hiánypótlási felhívást bocsát ki.
-
-9. § (1) A kincstár a bejegyzési kérelmet és a változásbejelentési kérelmet benyújtó, adóköteles tevékenységet folytató törzskönyvi jogi személy helyett – az erre a célra szolgáló számítógépes rendszer útján – az állami adóhatóságtól beszerzi, és a törzskönyvi nyilvántartásban rögzíti annak adóazonosító számát (ideértve a közösségi adószámot is).
-
-(2) A törzskönyvi nyilvántartásba vett, kincstári körbe tartozó törzskönyvi jogi személy államháztartási egyedi azonosító számának, a központi költségvetésről szóló törvény szerkezeti rendje szerinti besorolásának nyilvántartásba vétele a miniszter által vezetett nyilvántartásból történő információátadás útján történik.
