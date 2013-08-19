@@ -118,6 +118,6 @@
 
 ## 1 Áht. vagy egyéb jogszabályban meghatározott szervek esetében lehet a befizetési kötelezettség alapját csökkenteni
 
-5. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^491]
+5. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^490]
 
-[^491]: Az 5. számú melléklet a 307/2002. (XII. 27.) Korm. rendelet 22. §-ának (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése és 43. § (8) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 40. § (1)–(2) bekezdését.
+[^490]: Az 5. számú melléklet a 307/2002. (XII. 27.) Korm. rendelet 22. §-ának (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése és 43. § (8) bekezdése szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 40. § (1)–(2) bekezdését.

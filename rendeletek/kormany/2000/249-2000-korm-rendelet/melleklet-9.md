@@ -1,6 +1,6 @@
 ## Az önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolások
 
-## A) Segédtábla a támogatások elszámolása és a mutatószámok, feladatmutatók alakulásához
+## A) Segédtábla a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások elszámolásához és a mutatószámok, feladatmutatók alakulásához
 
 |  |  |  |  |  |  |  |  |  |  | Forintban |
 
@@ -46,7 +46,7 @@
 
 | A települési önkormányzatok által fenntartott, támogatott előadó művészeti szervezetek támogatása összesen |  |  |  |  |  |
 
-## D) A támogatások elszámolása és a mutatószámok, feladatmutatók alakulása
+## D) A helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások elszámolása és a mutatószámok, feladatmutatók alakulása
 
 |  |  |  |  |  |  | Forintban |
 
@@ -72,23 +72,23 @@
 
 | 9/2011. (II. 15.) Korm. rendelet alapján |  |  |  |  |
 
-## F) Az előző évi (..... év) kötelezettségvállalással terhelt normatív, kötött felhasználású támogatások előirányzat-maradványainak elszámolása
+## F) Az előző évi (.....év) normatív, kötött felhasználású támogatások előirányzat-maradványainak elszámolása
 
-|  |  |  |  |  |  |  |  |  |  | Forintban |
+|  |  |  |  | Forintban |
 
-| Előirányzat megnevezése | Az önkormányzat, a társulás által a tárgyévet megelőző évben fel nem használt, de feladattal terhelt összeg | Ebből a tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés |
+| Előirányzat megnevezése | Az önkormányzat, a társulás által a tárgyévet megelőző évben fel nem használt, de a következő évben jogszerűen felhasználható összeg | Ebből a tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés (fel nem használt) |
 
-| 1 | 2 | 3 | 4=3–2 |
+| 1 | 2 | 3 | 4=3-2 |
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |
 
-## G) Az előző évi (.....év) kötelezettségvállalással terhelt központosított előirányzatok és egyéb kötött felhasználású támogatások előirányzat-maradványainak elszámolása
+## G) Az előző évi (.....év) központosított előirányzatok és egyéb kötött felhasználású támogatások előirányzat-maradványainak elszámolása
 
 |  |  |  |  | Ezer forintban |
 
-| Előirányzat megnevezése | Sor- szám | Az önkormányzat, a társulás által a tárgyévet megelőző évben fel nem használt, de feladattal terhelt összeg | Ebből tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés |
+| Előirányzat megnevezése | Sor- szám | Az önkormányzat, a társulás által a tárgyévet megelőző évben fel nem használt, de a következő évben jogszerűen felhasználható összeg | Ebből tárgyévben az előírt határidőig ténylegesen felhasznált | Eltérés (fel nem használt) |
 
-| 1 | 2 | 3 | 4 | 5=4–3 |
+| 1 | 2 | 3 | 4 | 5=4-3 |
 
 | Központosított előirányzatok összesen |  |  |  |  |
 
@@ -104,7 +104,83 @@
 
 | Iparűzési adóerőképesség (forintban) (01.sor * 1000 * 1,4%) | 02 |  |
 
-9. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^495]
+## I) A helyi önkormányzat, társulás, térségi fejlesztési tanács tulajdonában álló gazdasági társaságok tárgyévet megelőző, lezárt két üzleti évének számviteli beszámoló szerinti adatai
+
+| Ezer forintban |
+
+| Megnevezés | Sor- szám | Többségi helyi önkormányzati/ társulási/ térségi fejlesztési tanácsi tulajdonú gazdasági társaságok | 10-50%-ban helyi önkormányzati/ társulási/ térségi fejlesztési tanácsi tulajdonú gazdasági társaságok |
+
+| előző évet megelőző év adata | előző év adata | előző évet megelőző év adata | előző év adata |
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+
+| Gazdasági társaságok száma (darab) | 01 |  |  |  |  |
+
+| Befektetett eszközök | 02 |  |  |  |  |
+
+| ebből: - Immateriális javak | 03 |  |  |  |  |
+
+| - Tárgyi eszközök | 04 |  |  |  |  |
+
+| - Befektetett pénzügyi eszközök | 05 |  |  |  |  |
+
+| - Vagyonkezelésbe átvett eszközök | 06 |  |  |  |  |
+
+| Forgóeszközök | 07 |  |  |  |  |
+
+| ebből: - Készletek | 08 |  |  |  |  |
+
+| - Követelések | 09 |  |  |  |  |
+
+| - Értékpapírok | 10 |  |  |  |  |
+
+| - Pénzeszközök | 11 |  |  |  |  |
+
+| Saját tőke | 12 |  |  |  |  |
+
+| ebből: - Jegyzett tőke | 13 |  |  |  |  |
+
+| - Tőketartalék | 14 |  |  |  |  |
+
+| - Eredménytartalék | 15 |  |  |  |  |
+
+| Kötelezettségek összesen | 16 |  |  |  |  |
+
+| ebből: - Hosszú lejáratú kötelezettségek | 17 |  |  |  |  |
+
+| ~ Tartozások kötvénykibocsátásból | 18 |  |  |  |  |
+
+| ~ Beruházási és fejlesztési hitelek | 19 |  |  |  |  |
+
+| ~ Egyéb hosszú lejáratú hitelek és kötelezettségek | 20 |  |  |  |  |
+
+| ~ Tartós kötelezettségek kapcsolt, vagy egyéb részesedési viszonyban lévő vállalkozással szemben | 21 |  |  |  |  |
+
+| ~ Egyéb hosszú lejáratú kötelezettségek | 22 |  |  |  |  |
+
+| - Rövid lejáratú kötelezettségek | 23 |  |  |  |  |
+
+| ~ Rövid lejáratú kölcsönök és hitelek | 24 |  |  |  |  |
+
+| ~ Vevőktől kapott előlegek | 25 |  |  |  |  |
+
+| ~ Kötelezettségek áruszállításból és szolgáltatásból | 26 |  |  |  |  |
+
+| ~ Rövid lejáratú kötelezettségek kapcsolt, vagy egyéb részesedési viszonyban lévő vállalkozással szemben | 27 |  |  |  |  |
+
+| ~ Egyéb rövid lejáratú kötelezettségek | 28 |  |  |  |  |
+
+| Mérlegfőösszeg | 29 |  |  |  |  |
+
+| Értékesítés nettó árbevétele | 30 |  |  |  |  |
+
+| Üzemi (üzleti) tevékenység eredménye | 31 |  |  |  |  |
+
+| Kifizetett osztalék és részesedés | 32 |  |  |  |  |
+
+| Mérleg szerinti eredmény | 33 |  |  |  |  |
+
+9. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^494]
 
 Számlakeret-tükör
 
@@ -264,9 +340,9 @@ BEFEKTETETT ESZKÖZÖK
 
 164. Koncesszióba adott eszközök értékcsökkenése
 
-165. Vagyonkezelésbe vett eszközök állománya[^496]
+165. Vagyonkezelésbe vett eszközök állománya[^495]
 
-166. Vagyonkezelésbe vett eszközök értékcsökkenése[^497]
+166. Vagyonkezelésbe vett eszközök értékcsökkenése[^496]
 
 167. Vagyonkezelésbe adott eszközök állománya
 
@@ -758,7 +834,7 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 329. Költségvetési pénzforgalmi számla értékvesztése és annak visszaírása
 
-33. BELFÖLDI ELSZÁMOLÁSI SZÁMLÁK
+33. BELFÖLDI ELSZÁMOLÁSI SZÁMLÁK[^497]
 
 331. Előirányzat teljesítésének elszámolása a Kincstárral
 
@@ -766,9 +842,7 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 
 3312. Központi beruházások előirányzat-felhasználási keretszámla
 
-3313. Szakmai fejezeti kezelésű előirányzat-felhasználási keretszámla
-
-3314. Feladatfinanszírozási előirányzat-felhasználási keretszámla
+3313. Fejezeti kezelésű előirányzat-felhasználási keretszámla
 
 3315. Célelszámolási forintszámlák
 
@@ -799,8 +873,6 @@ PÉNZÜGYI ELSZÁMOLÁSOK
 33192. Kincstári kártya-fedezeti számla
 
 33193. Köztartozás zárolt fedezeti számla
-
-332. Céltartalék számla
 
 333. Fejezetek előirányzat teljesítésének elszámolása a Kincstárral
 
@@ -2184,242 +2256,7 @@ FORRÁSOK (PASSZÍVÁK)
 
 48816. Idegen betétkönyvek és készpénzben kezelt idegen pénzeszközök elszámolása
 
-48817. Letétek, biztosítékok elszámolása
-
-48818. Fedezetkezelői számla elszámolása
-
-48819. Egyéb lebonyolítási feladatok elszámolása
-
-488191. Nemzeti agrárkár-enyhítés elszámolása
-
-488192. Bírság beszedés elszámolása
-
-488193. EFER elszámolási számla
-
-488194. Neptun gyűjtő számla
-
-488195. Természetbeni családtámogatások számla
-
-488196. Gyermektartásdíjak megelőlegezése számla
-
-488198. Egyéb különféle lebonyolítás elszámolása
-
-4882. Nemzetközi támogatási programok lebonyolításának elszámolása
-
-4883–4887. Foglalt
-
-4888. Nemzetközi támogatási programok közösségi forrás elszámolása
-
-489. Foglalt
-
-49. ÉVI MÉRLEGSZÁMLÁK
-
-491. Nyitómérleg számla
-
-492. Mérlegrendezési számla
-
-4921. Átszervezéshez kapcsolódó mérlegrendezési számla
-
-4922. Egyéb mérlegrendezési számla
-
-493. Zárómérleg számla
-
-494. Költségvetési bevételek és kiadások elszámolása
-
-495. Vállalkozási bevételek és kiadások elszámolása
-
-496. Előirányzatok zárlati elszámolása
-
-497. Előirányzatok évközi-elszámolása
-
-498. Eredeti előirányzatok nyitó elszámolása
-
-499. Pénzforgalom nélküli költségvetési bevételek és kiadások sajátos elszámolása
-
-5. Számlaosztály
-
-KIADÁSOK ELŐIRÁNYZATA ÉS ELŐIRÁNYZAT TELJESÍTÉSE
-
-(közgazdasági osztályozás szerint)
-
-51–52. SZEMÉLYI JUTTATÁSOK
-
-51. RENDSZERES ÉS NEM RENDSZERES SZEMÉLYI JUTTATÁSOK
-
-511–515. Teljes munkaidőben foglalkoztatottak személyi juttatásai
-
-511. Rendszeres személyi juttatások
-
-5111. Rendszeres személyi juttatások előirányzata
-
-5112. Rendszeres személyi juttatások előirányzatának teljesítése
-
-512. Munkavégzéshez kapcsolódó juttatások
-
-5121. Munkavégzéshez kapcsolódó juttatások kiadásainak előirányzata
-
-5122. Munkavégzéshez kapcsolódó juttatások kiadási előirányzatának teljesítése
-
-513. Foglalkoztatottak sajátos juttatásai
-
-5131. Foglalkoztatottak sajátos juttatásai kiadásainak előirányzata
-
-5132. Foglalkoztatottak sajátos juttatásai kiadási előirányzatának teljesítése
-
-514. Személyhez kapcsolódó költségtérítések és hozzájárulások
-
-5141. Személyhez kapcsolódó költségtérítések és hozzájárulások kiadási előirányzata
-
-5142. Személyhez kapcsolódó költségtérítések és hozzájárulások kiadási előirányzatának teljesítése
-
-515. Szociális jellegű juttatások
-
-5151. Szociális jellegű juttatások kiadási előirányzata
-
-5152. Szociális jellegű juttatások kiadási előirányzatának teljesítése
-
-516. Részmunkaidőben foglalkoztatottak juttatásai
-
-5161. Részmunkaidőben foglalkoztatottak juttatásainak kiadási előirányzata
-
-5162. Részmunkaidőben foglalkoztatottak juttatásai kiadási előirányzatának teljesítése
-
-517. Teljes munkaidőben foglalkoztatottak különféle nem rendszeres juttatásai
-
-5171. Különféle nem rendszeres juttatások kiadási előirányzata
-
-5172. Különféle nem rendszeres juttatások kiadási előirányzatának teljesítése
-
-52. KÜLSŐ SZEMÉLYI JUTTATÁSOK
-
-521. Foglalt
-
-522. Állományba nem tartozók juttatásai
-
-5221. Állományba nem tartozók juttatásainak kiadási előirányzata
-
-5222. Állományba nem tartozók juttatásai kiadási előirányzatának teljesítése
-
-523. Fegyveres erők, testületi és a rendvédelmi szervek állományába nem tartozók juttatásai
-
-5231.Fegyveres erők, testületi és a rendvédelmi szervek állományába nem tartozók juttatásainak kiadási előirányzata
-
-5232. Fegyveres erők, testületi és a rendvédelmi szervek állományába nem tartozók juttatásai kiadási előirányzatának teljesítése
-
-524. Állományba tartozók nem munkavégzéssel kapcsolatos megbízási díja
-
-5241. Állományba tartozók nem munkavégzéssel kapcsolatos megbízási díjának kiadási előirányzata
-
-5242. Állományba tartozók nem munkavégzéssel kapcsolatos megbízási díja kiadási előirányzatának teljesítése
-
-53. MUNKAADÓKAT TERHELŐ JÁRULÉKOK
-
-531. Szociális hozzájárulási adó
-
-5311. Szociális hozzájárulási adó kiadási előirányzata
-
-53113. Egyszerűsített közteherviselési járulék (EKHO) kiadási előirányzata
-
-53114. START-kártyával rendelkezők utáni járulékfizetési kötelezettség előirányzata
-
-53115. Szociális hozzájárulási adó kiadási előirányzata
-
-5312. Szociális hozzájárulási adó kiadási előirányzatának teljesítése
-
-53123. Egyszerűsített közteherviselési járulék (EKHO) kiadási előirányzatának teljesítése
-
-53124. START-kártyával rendelkezők utáni járulékfizetési kötelezettség előirányzatának teljesítése
-
-53125. Szociális hozzájárulási adó kiadási előirányzatának teljesítése
-
-533. Egészségügyi hozzájárulás
-
-5331. Egészségügyi hozzájárulás előirányzata
-
-5332. Egészségügyi hozzájárulás előirányzatának teljesítése
-
-534. Táppénz-hozzájárulás
-
-5341. Táppénz-hozzájárulás előirányzata
-
-5342. Táppénz-hozzájárulás előirányzatának teljesítése
-
-535. Munkaadókat terhelő járulékok államháztartáson kívülre
-
-5351. Munkaadókat terhelő járulékok államháztartáson kívülre előirányzata
-
-5352. Munkaadókat terhelő járulékok államháztartáson kívülre előirányzat teljesítése
-
-536. Munkaadókat terhelő egyéb járulékok
-
-5361. Munkaadókat terhelő egyéb járulékok előirányzata
-
-5362. Munkaadókat terhelő járulékok előirányzatának teljesítése
-
-538. Korkedvezmény-biztosítási járulék
-
-5381. Korkedvezmény-biztosítási járulék kiadási előirányzata
-
-5382. Korkedvezmény-biztosítási járulék kiadási előirányzat teljesítése
-
-54–57. DOLOGI KIADÁSOK
-
-54. KÉSZLETBESZERZÉSEK
-
-541. Élelmiszerek
-
-5411. Élelmiszer-beszerzés kiadási előirányzata
-
-5412. Élelmiszer-beszerzés kiadási előirányzat teljesítése
-
-542. Gyógyszer, vegyszer
-
-5421. Gyógyszer-, vegyszerbeszerzés kiadási előirányzata
-
-5422. Gyógyszer-, vegyszerbeszerzés kiadási előirányzat teljesítése
-
-543. Irodaszer, nyomtatvány
-
-5431. Irodaszer-, nyomtatványbeszerzés kiadási előirányzata
-
-5432. Irodaszer-, nyomtatványbeszerzés kiadási előirányzat teljesítése
-
-544. Könyv, folyóirat, egyéb információhordozó
-
-5441. Könyv, folyóirat, egyéb információhordozó beszerzés kiadási előirányzata
-
-5442. Könyv, folyóirat, egyéb információhordozó beszerzés kiadási előirányzat teljesítése
-
-545. Tüzelőanyagok
-
-5451. Tüzelőanyag-beszerzés kiadási előirányzat
-
-5451. Tüzelőanyag-beszerzés kiadási előirányzat teljesítése
-
-546. Hajtó- és kenőanyag
-
-5461. Hajtó- és kenőanyag-beszerzés kiadási előirányzata
-
-5462. Hajtó- és kenőanyag-beszerzés kiadási előirányzat teljesítése
-
-547. Szakmai anyag és kisértékű tárgyi eszközök, szellemi termékek
-
-5471. Szakmai anyag és kisértékű tárgyi eszközök, vagyoni értékű jogok, szellemi termékek beszerzés kiadási előirányzata
-
-5472. Szakmai anyag és kisértékű tárgyi eszközök, vagyoni értékű jogok, szellemi termékek beszerzés kiadási előirányzatának teljesítése
-
-548. Munkaruha, védőruha, formaruha, egyenruha
-
-5481. Munkaruha, védőruha, formaruha, egyenruha beszerzés kiadási előirányzata
-
-5482. Munkaruha, védőruha, formaruha, egyenruha beszerzés kiadási előirányzatának teljesítése
-
-549. Egyéb készletek
-
-5491. Egyéb készletbeszerzés kiadási előirányzata
-
-5492. Egyéb készletbeszerzés kiadási előirányzatának teljesítése
-
-[^495]: A 9. számú melléklet „Számlakerettükör” része a 141/2001. (VIII. 8.) Korm. rendelet 44. § a) pontja, a 383/2004. (XII. 29.) Korm. rendelet 25. §-ának (8) bekezdése, a 319/2005. (XII. 26.) Korm. rendelet 19. § (2) bekezdése, a 359/2006. (XII. 27.) Korm. rendelet 23. § (4) bekezdése, a 400/2007. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 7. § a) pontja, a 328/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 37. § (6) bekezdése, a 74/2013. (III. 11.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg. A 9. melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (6) bekezdése, a 369/2011. (XII. 31.) Korm. rendelet 20. § (3) bekezdése, a 74/2013. (III. 11.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.
+[^494]: A 9. számú melléklet „Számlakerettükör” része a 141/2001. (VIII. 8.) Korm. rendelet 44. § a) pontja, a 383/2004. (XII. 29.) Korm. rendelet 25. §-ának (8) bekezdése, a 319/2005. (XII. 26.) Korm. rendelet 19. § (2) bekezdése, a 359/2006. (XII. 27.) Korm. rendelet 23. § (4) bekezdése, a 400/2007. (XII. 27.) Korm. rendelet 14. § (2) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 7. § a) pontja, a 328/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése, a 317/2009. (XII. 29.) Korm. rendelet 37. § (6) bekezdése, a 74/2013. (III. 11.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg. A 9. melléklet a 350/2010. (XII. 28.) Korm. rendelet 19. § (6) bekezdése, a 369/2011. (XII. 31.) Korm. rendelet 20. § (3) bekezdése, a 74/2013. (III. 11.) Korm. rendelet 17. § (5) bekezdése, a 307/2013. (VIII. 14.) Korm. rendelet 5. § 8. pontja szerint módosított szöveg.
+[^495]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
 [^496]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
-[^497]: A számlát csak azok az önkormányzatok alkalmazzák, amelyek a kincstári vagyon meghatározott körének vagyonkezelésére a KVI-vel szerződést kötöttek.
+[^497]: A 9. számú melléklet 3. számlaosztály 33. része a 307/2013. (VIII. 14.) Korm. rendelet 6. § (2) bekezdés 3. pontja szerint módosított szöveg.

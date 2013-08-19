@@ -1,6 +1,6 @@
-## 13/B. §[^147]
+## 13/B. §[^150]
 
-## A könyvviteli mérleg tételeinek tartalma[^148]
+## A könyvviteli mérleg tételeinek tartalma[^151]
 
-[^147]: A 13/B. §-t a 317/2009. (XII. 29.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 350/2010. (XII. 28.) Korm. rendelet 27. § 1. pontja.
-[^148]: A 14. §-t megelőző alcím a 317/2009. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^150]: A 13/B. §-t a 317/2009. (XII. 29.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 350/2010. (XII. 28.) Korm. rendelet 27. § 1. pontja.
+[^151]: A 14. §-t megelőző alcím a 317/2009. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

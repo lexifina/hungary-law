@@ -72,6 +72,6 @@
 
 | Teljesen (0-ig) leírt eszközök bruttó értéke | 33 |  |  |  |  |  |  |  |  |  |  |
 
-7. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^493]
+7. számú melléklet a 249/2000. (XII. 24.) Korm. rendelethez[^492]
 
-[^493]: A 7. számú mellékletet a 278/2003. (XII. 24.) Korm. rendelet 29. §-ának (3) bekezdése hatályon kívül helyezte.
+[^492]: A 7. számú mellékletet a 278/2003. (XII. 24.) Korm. rendelet 29. §-ának (3) bekezdése hatályon kívül helyezte.
