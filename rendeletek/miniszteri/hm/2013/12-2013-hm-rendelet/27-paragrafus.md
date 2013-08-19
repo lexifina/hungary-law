@@ -1,5 +1,3 @@
-## 27. § Hatályát veszti
+27. §[^1]
 
-a) a személyi állomány pihentetésével és a szociális gondoskodással kapcsolatos feladatokról szóló 31/2002. (V. 3.) HM rendelet, valamint
-
-b) a hivatásos és szerződéses katonák, a honvédségi közalkalmazottak egyes pénzbeli szociális juttatásairól szóló 11/2009. (VII. 10.) HM rendelet.
+[^1]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
