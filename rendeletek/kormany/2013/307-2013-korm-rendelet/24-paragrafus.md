@@ -1,5 +1,0 @@
-## 23. § Az Ávr. 145. §-a a következő (10) és (11) bekezdéssel egészül ki:
-
-## „(10) Ha a (4) bekezdés d) pontja szerinti fizetési számláról a (8) bekezdésben az e fizetési számlára nézve meghatározott határidő letelte előtt, még a tárgyhónapban történik a települési önkormányzat más fizetési számlájára átutalás, azzal egyidejűleg a központi bevételi számlát megillető hányadot is át kell utalni a Kincstár által meghatározott fizetési számlára.
-
-## (11) Ha a (4) bekezdés d) pontja szerinti számláról a (8) bekezdésben előírt fizetési kötelezettség az abban meghatározott határidőn belül nem teljesül, a települési önkormányzat a meg nem fizetett összeg után – a határidő leteltét megelőző utolsó napon érvényes jegybanki alapkamat kétszeresének megfelelő mértékű – kamatot fizet. A kamatfizetés kezdőnapja a fizetési kötelezettség határidejének leteltét követő első nap, a kamatfizetés utolsó napja a késedelmes fizetés napja. A kamatot külön, a Kincstár által meghatározott fizetési számlára kell megfizetni.”
