@@ -1,0 +1,1 @@
+## 3. § Az alap- és mesterképzési szakok képzési és kimeneti követelményeiről szóló 15/2006. (IV. 3.) OM rendelet 1. §-ában, valamint 1. számú melléklet 2. pontjában foglaltakat e rendeletre is alkalmazni kell.
