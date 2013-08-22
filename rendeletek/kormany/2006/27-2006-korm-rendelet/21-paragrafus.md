@@ -1,4 +1,4 @@
-## 20. §[^20]
+## 20. §[^22]
 
 ## 21. § E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -1298,7 +1298,7 @@ Zirc
 
 Zók
 
-B) RÉSZ[^21]
+B) RÉSZ[^23]
 
 Az 5. § (1) bekezdés aa), bc) és a bd) pontjában foglalt nitrátérzékeny területek
 
@@ -3588,5 +3588,5 @@ Zsujta
 
 Zsur
 
-[^20]: A 20. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja hatályon kívül helyezte.
-[^21]: A melléklet B) része a 351/2010. (XII. 30.) Korm. rendelet 145. §-ával megállapított szöveg.
+[^22]: A 20. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja hatályon kívül helyezte.
+[^23]: A melléklet B) része a 351/2010. (XII. 30.) Korm. rendelet 145. §-ával megállapított szöveg.
