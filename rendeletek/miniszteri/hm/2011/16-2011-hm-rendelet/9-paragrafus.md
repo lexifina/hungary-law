@@ -36,23 +36,15 @@ ie) aláírását, és
 
 if) hivatalos bélyegzőlenyomatát,
 
-j) a Küfetv. 4. § (3) bekezdésének i) pontja szerinti feltételek fennállta esetén az igazoló személy
+ig)[^11] e minőségének időtartamát a kezdő és befejező időpont megjelölésével,
 
-ja) családi és utónevét,
-
-jb) rendfokozatát,
-
-jc) beosztását,
-
-jd) állampolgárságát
-
-je) aláírását,
+j)[^12]
 
 k) az igazolás kiállításának dátumát, és
 
 l) a kiállító szervezet megnevezését.
 
-(4) A külföldi fegyveres erő részére kiállított „Nemzetközi katonai tartózkodási igazolás” stilizált rajzát a 4. melléklet tartalmazza.
+(4)[^13]
 
 (5) A nemzetközi katonai parancsnokság részére kiállított „Nemzetközi katonai tartózkodási igazolás” A/5 méretű biztonsági okmány, amely két nyelven, magyarul és angolul tartalmazza az alábbi adatokat:
 
@@ -82,8 +74,16 @@ ge) aláírását,
 
 gf) hivatalos bélyegzőlenyomatát,
 
+gg)[^14] e minőségének időtartamát a kezdő és befejező időpont megjelölésével,
+
 h) az igazolás kiállításának dátumát, és
 
 i) a kiállító szervezet megnevezését.
 
-(6) A külföldi fegyveres erő részére kiállított „Nemzetközi katonai tartózkodási igazolás” stilizált rajzát az 5. melléklet tartalmazza.
+(6)[^15]
+
+[^11]: A 9. § (3) bekezdés i) pont ig) alpontját a 14/2013. (VIII. 22.) HM rendelet 6. § (1) bekezdése iktatta be.
+[^12]: A 9. § (3) bekezdés j) pontját a 14/2013. (VIII. 22.) HM rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^13]: A 9. § (4) bekezdését a 14/2013. (VIII. 22.) HM rendelet 9. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^14]: A 9. § (5) bekezdés g) pont gg) alpontját a 14/2013. (VIII. 22.) HM rendelet 6. § (2) bekezdése iktatta be.
+[^15]: A 9. § (6) bekezdését a 14/2013. (VIII. 22.) HM rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.

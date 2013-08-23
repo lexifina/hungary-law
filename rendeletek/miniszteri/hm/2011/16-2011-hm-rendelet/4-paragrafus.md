@@ -1,3 +1,10 @@
 4. § (1) A nyilvántartott külföldi fegyveres erő, nemzetközi katonai parancsnokság és a 3. § (1) bekezdés szerinti állomány nyilvántartott tagja a nyilvántartásban szereplő adataiban történő változásokat az Okmánykezelő Iroda részére, a változást követő nyolc napon belül írásban bejelenti. Az adatváltozás bejelentéséhez szükséges adatbekérő lapot az 1. és 2. mellékletek tartalmazzák, amelyeket az adatváltozással érintett nyilvántartott fegyveres erő, parancsnokság vagy állomány tagja közvetlenül küld meg az Okmánykezelő Iroda részére. A nyilvántartásba vételi eljárás során a külföldi fegyveres erőt vagy személyt fogadó szervezet az e bekezdés szerinti változás bejelentési kötelezettségről és annak eljárásáról is tájékoztatást nyújt.
 
 (2) Az Okmánykezelő Iroda az adatokban bekövetkezett változásokat nyilvántartásba veszi. Amennyiben a bekövetkezett adatváltozás a nyilvántartott részére kiadott e rendelet szerinti igazolvány vagy igazolás adattartalmát is érinti, úgy az Okmánykezelő Iroda az okmányt a 11. § (3) bekezdése szerint kicseréli, és megküldi a nyilvántartott vagy képviselője részére.
+
+(3)[^7] A Küfetv. 2. § (2) bekezdésében meghatározott hozzátartozó adataiban vagy e minőségében bekövetkező változást a külföldi fegyveres erő vagy a nemzetközi katonai parancsnokság állományának tagja az (1) bekezdésben foglaltak szerint jelenti be. Ha a bekövetkezett adatváltozás a hozzátartozó részére kiállított kivonat adattartalmát is érinti, az Okmánykezelő Iroda hivatalból intézkedik az új kivonat kiállítására és egy példányban a hozzátartozó részére történő megküldésére.
+
+(4)[^8] Az e § alapján lefolytatandó változás bejelentési eljárásban a megváltozott adatok valóságtartalmát igazoló okiratokat az Okmánykezelő Iroda részére be kell mutatni vagy – az MH futárszolgálata útján történő benyújtás esetén – az adatbekérő laphoz minden esetben csatolni kell.
+
+[^7]: A 4. § (3) bekezdését a 14/2013. (VIII. 22.) HM rendelet 4. §-a iktatta be.
+[^8]: A 4. § (4) bekezdését a 14/2013. (VIII. 22.) HM rendelet 4. §-a iktatta be.

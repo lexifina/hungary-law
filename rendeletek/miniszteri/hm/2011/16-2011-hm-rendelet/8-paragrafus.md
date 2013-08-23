@@ -36,4 +36,6 @@ be) érvényességének idejét, és
 
 bf) a kiállító szervezet megnevezését.
 
-(4) A „Nemzetközi katonai tartózkodási igazolvány” stilizált rajzát a 3. melléklet tartalmazza.
+(4)[^10]
+
+[^10]: A 8. § (4) bekezdését a 14/2013. (VIII. 22.) HM rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
