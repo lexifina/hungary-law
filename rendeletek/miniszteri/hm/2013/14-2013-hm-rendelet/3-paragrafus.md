@@ -1,0 +1,1 @@
+## „(6) Ha az állomány tagja az adatbekérő lapot az MH futárszolgálata útján nyújtja be, az Okmánykezelő Iroda – hiánypótlásra történő felhívás formájában – az állomány tagját személyes megjelenésre és egyidejűleg azonosító okmányainak bemutatására kötelezi. A személyes megjelenés teljesítéséig az igényelt igazolványt nem lehet kiállítani.”
