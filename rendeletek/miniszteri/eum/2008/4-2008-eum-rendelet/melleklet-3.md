@@ -18,11 +18,13 @@
 
 | Észtország | Diplom őe erialal (Oklevél ápolónő szakon) | 1. Tallinna Meditsiinikool (Tallinni Egészségügyi Iskola) 2. Tartu Meditsiinikool (Tartui Egészségügyi Iskola) 3. Kohtla-Järve Meditsiinikool (Kohtla-Järvei Egészségügyi Iskola) |  |
 
-| Görögország | 1. Πτυχίο Νοσηλευτικήζ Παν/μίου Αθηνών (Athéni Egyetem ápolói oklevele) 2. Πτυχίο Νοσηλευτικηζ Τεχνολογικών Εκπαιδευτικών Ιδρυμάτων (T.E.I) (Technikusképző Intézetek (T.E.I) ápolói oklevele) 3. Πτυχίο Αξιωματικών Νοσηλευτικήζ (Ápoló tiszti oklevél) 4. Πτυχίο Αδελψών Νοσοκόμων πρώην Ανωτέρων Σχολών Υπουργείου Υγείαζ Υγείαζ και Πρόνοιαζ (Az Egészségügyi és Népjóléti Minisztérium volt főiskoláinak ápolónővéri oklevele) 5. Πτυχίo Αδελψών Νοσοκόμων και Επισκεπτριών πρώην Ανωτέρων Σχολών Υπουργείου Υγείαζ και Πρόνοιαζ ( Az Egészségügyi és Népjóléti Minisztérium volt főiskoláinak ápolónővéri és védőnői oklevele) 6. Πτυχίο Τμήματοζ Νοσηλευτικήζ (Ápolástani tagozat oklevele) | 1. Πανεπιστήμιο Αθηνών (Athéni Egyetem) 2. Τεχνολογικά ΕκπαЇυτικά Ιδρύματα Υπουργείο Εθνικής και Θρησκευμάτων [Közoktatás- és Vallásügyi Minisztérium Technikusképző Intézetei (TEI)] 3. Υπουργείο Εθνικής Άμυνας (Nemzetvédelmi Minisztérium) 4. Υπουργείο Υγείας και Πρόνοιας (Egészségügyi és Népjóléti Minisztérium) 5. Υπουργείο Υγείας και Πρόνοιας (Egészségügyi és Népjóléti Minisztérium) 6. KATEE Υπουργείου Εθνικής Παιδείας και Θρησκευμάτων KATEE [Közoktatás- és Vallásügyi Minisztérium Technikusképző Főiskolái (KATEE)] |  |
+| Görögország | 1. Πτυχίο Νοσηλευτικής Παν/μίου Αθηνών (Athéni Egyetem ápolói oklevele) 2. Πτυχίο Νοσηλευτικής Τεχνολογικών Εκπαιδευτικών Ιδρυμάτων (Τ.Ε.Ι.) (Technikusképző Intézetek (T.E.I) ápolói oklevele) 3. Πτυχίο Αξιωματικών Νοσηλευτικής (Ápoló tiszti oklevél) 4. Πτυχίο Αδελφών Νοσοκόμων πρώην Ανωτέρων Σχολών Υπουργείου Υγείας και Πρόνοιας (Az Egészségügyi és Népjóléti Minisztérium volt főiskoláinak ápolónővéri oklevele) 5. Πτυχίο Αδελφών Νοσοκόμων και Επισκεπτριών πρώην Ανωτέρων Σχολών Υπουργείου Υγείας και Πρόνοιας ( Az Egészségügyi és Népjóléti Minisztérium volt főiskoláinak ápolónővéri és védőnői oklevele) 6. Πτυχίο Τμήματος Νοσηλευτικής (Ápolástani tagozat oklevele) 7. Πτυχίο Τμήματος Νοσηλευτικής Πανεπιστήμιου Πελοποννήσου (Peloponnészoszi Egyetem Ápolástani tagozatának oklevele) | 1. Πανεπιστήμιο Αθηνών (Athéni Egyetem) 2. Τεχνολογικά Εκπαιδευτικά Ιδρύματα Υπουργείο Εθνικής Παιδείας και Θρησκευμάτω [Közoktatás- és Vallásügyi Minisztérium Technikusképző Intézetei (TEI)] 3. Υπουργείο Εθνικής ΄Αμυνας (Nemzetvédelmi Minisztérium) 4. Υπουργείο Υγείας και Πρόνοιας (Egészségügyi és Népjóléti Minisztérium) 5. Υπουργείο Υγείας και Πρόνοιας (Egészségügyi és Népjóléti Minisztérium) 6. ΚΑΤΕΕ Υπουργείου Εθνικής Παιδείας και Θρησκευμάτων [Közoktatás- és Vallásügyi Minisztérium Technikusképző Főiskolái (KATEE)] 7. Πανεπιστήμιο Πελοποννήσου (Peloponnészoszi Egyetem) |  |
 
 | Spanyolország | Titulo de Diplomado universitario en Enfermería (Oklevél Ápolói Egyetemi Képesítésről) | Ministerio de Educación y Cultura/El rector de una Universidad (Oktatási és Kulturális Minisztérium / Egyetemi rektor) |  |
 
 | Franciaország | 1. Diplôme d’Etat d’infirmier(ère) (Állami ápolói/ápolónői oklevél) 2. Diplôme d’Etat d’infirmier(ère) délivré en vertu du décret no 99-1147 du 29 décembre 1999 (Az 1999. december 29-i 99-1147. sz. rendelet értelmében kibocsátott állami ápolói/ápolónői oklevél) | Le ministère de la santé (Egészségügyi Minisztérium) |  |
+
+| Horvátország | 1. Svjedodžba „medicinska sestra opće njege” („átalános egészségügyi nővér” bizonyítvány) 2. Svjedodžba „prvostupnik (baccalaureus) sestrinstva/ prvostupnica (baccalaurea) sestrinstva” [2. „okleveles ápoló (baccalaureus)/okleveles ápolónő (baccalaurea)” főiskolai bizonyítvány] | 1. Srednje strukovne škole koje izvode program za stjecanje kvalifikacije „medicinska sesetra opće njege” (Az „általános egészségügyi nővér” képesítés megszerzéséhez szükséges program szerint oktató szakközépiskolák) 2. Medicinski fakulteti sveučilišta u Republici Hrvatskoj Sveučilišta u Republici Hrvatskoj Veleučilišta u Republici Hrvatskoj (– A Horvát Köztársaság egyetemeinek orvosi karai – a Horvát Köztársaság egyetemei – a Horvát Köztársaság főiskolái) |  |
 
 | Írország | Certificate of Registered General Nurse (Bejegyzett általános ápolói bizonyítvány) | An Bord Altranais (The Nursing Board) [An Bord Altranais (Ápolói Kamara)] |  |
 
@@ -30,7 +32,7 @@
 
 | Olaszország | Diploma di infermiere professionale (Hivatásos ápolói oklevél) | Scuole riconosciute dallo Stato (Az állam által elismert iskolák) |  |
 
-| Ciprus | Δίπλωμα Γενικής Νοσηλευτικής (Általános ápolói oklevél) | Νοσηλευτική Σχολή (Ápolástani Kar / Ápolóképző Szakiskola) |  |
+| Ciprus | Πτυχίο Νοσηλευτικής Τεχνολογικού Πανεπιστημίου Κύπρου (A Ciprusi Műszaki Egyetem Ápolástan oklevele) Πτυχίο Νοσηλευτικής Ευρωπαϊκού Πανεπιστημίου Κύπρου (Ciprusi Európai Egyetem Ápolástan oklevele)Πτυχίο Νοσηλευτικής Πανεπιστημίου Λευκωσίας - BSc in Nursing (Nicosiai Egyetem Ápolástan oklevele – BSc in Nursing) Πτυχίο Γενικής Νοσηλευτική (Általános Ápolástan oklevél) | Τεχνολογικό Πανεπιστήμιο Κύπρου (Ciprusi Műszaki Egyetem) Ευρωπαϊκό Πανεπιστήμιο Κύπρου (Ciprusi Európai Egyetem) Πανεπιστήμιο Λευκωσίας University of Nicosia (University of Nicosia/Nicosiai Egyetem) Σχολή Επισκεπτριών Υγείας, Πανεπιστήμιο Frederick (Frederick Egyetem, Védőnő Szakiskola) | Νοσηλευτής(τρια) Γενικής Νοσηλευτικής [Ápoló(nő) Általános Ápolástan (végzettséggel)] |
 
 | Lettország | 1. Diploms par māsas kvalifikācijas iegūšanu (Oklevél ápolói képesítés megszerzéséről) 2. Māsas diploms (Ápolói oklevél) | 1. Māsu skolas (Ápolói iskola) 2. Universitātes tipa augstskola pamatojoties uz Valsts eksāmenu komisijas lēmumu (Egyetemi típusú főiskola Állami vizsgabizottság döntése alapján) |  |
 
@@ -40,7 +42,7 @@
 
 | Luxemburg | 1. Diplôme d’Etat d’infirmier (Állami ápolói oklevél) 2. Diplôme d’Etat d’infirmier hospitalier gradué (Fokozattal bíró kórházi ápolói állami oklevél) | Ministère de l’Education nationale, de la Formation professionnelle et des Sports (Nemzeti Oktatási, Szakképzési és Sportminisztérium) |  |
 
-| Magyarország | 1. Ápoló bizonyítvány 2. Diplomás ápoló oklevél 3. Egyetemi okleveles ápoló oklevél | 1. Iskola 2. Egyetem / főiskola 3. Egyetem |  |
+| Magyarország | 1. Ápoló bizonyítvány 2. Ápoló oklevél 3. Okleveles ápoló oklevél | 1. Szakképzó iskola 2. Felsőoktatási intézmény 3. Felsőoktatási intézmény |  |
 
 | Málta | Lawrja jew diploma fl-istudji tal-infermerija (Ápolói képesítés vagy oklevél) | Universita`ta’ Malta (Máltai Egyetem) |  |
 
@@ -94,6 +96,8 @@
 
 | Franciaország | Infirmier(ère) |
 
+| Horvátország | 1. medicinska sestra opće njege/ medicinski tehničar opće njege 2. prvostupnik (baccalaureus) sestrinstva/ prvostupnica (baccalaurea) sestrinstva |
+
 | Írország | Registered General Nurse |
 
 | Izland | Hjúkrunarfræðingur |
@@ -142,23 +146,27 @@
 
 ## a) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére a következő időpontok előtt kiállított általános ápolói oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
 
-## aa) 2011. szeptember 30. Svájc esetében BSc fokozatot tanúsító ápolói oklevél tekintetében,
+## aa) 1979. június 27. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság esetében,
 
-## ab) 2007. január 1. Bulgária esetében,
+## ab) 1981. január 1. Görögország esetében,
 
-## ac) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Szlovénia, Szlovákia esetében,
+## ac) 1986. január 1. Spanyolország és Portugália esetében,
 
-## ad) 2002. június 1. Svájc esetében, BSc fokozatot tanúsító ápolói oklevél kivételével,
+## ad) 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország esetében,
 
 ## ae) 1995. május 1. Liechtenstein esetében,
 
-## af) 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország esetében,
+## af) 2002. június 1. Svájc esetében, BSc fokozatot tanúsító ápolói oklevél kivételével,
 
-## ag) 1986. január 1. Spanyolország és Portugália esetében,
+## ag) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Szlovénia, Szlovákia esetében,
 
-## ah) 1981. január 1. Görögország esetében,
+## ah) 2007. január 1. Bulgária esetében,
 
-## ai) 1979. június 27. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság esetében, amennyiben azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
+## ai) 2011. szeptember 30. Svájc esetében BSc fokozatot tanúsító ápolói oklevél tekintetében,
+
+## aj) 2013. július 1. Horvátország esetében,
+
+## amennyiben azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
 
 ## b) Feltétel nélkül elismerésre kerül a tagállami állampolgár részére kiállított, a volt Német Demokratikus Köztársaság területén megszerzett, a képzés sikeres elvégzését tanúsító általános ápolói oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben:
 
@@ -194,6 +202,6 @@
 
 ## m) Az a)–l) pont szerinti tevékenységhez a betegápolás tervezésével, megszervezésével és elvégzésével kapcsolatos teljes felelősségnek kell kapcsolódnia.
 
-3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^6]
+3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^11]
 
-[^6]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a szerint módosított szöveg.
+[^11]: A 3. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § c) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § c) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a, a 61/2013. (VIII. 22.) EMMI rendelet 1. § c) pontja szerint módosított szöveg.

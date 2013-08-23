@@ -18,9 +18,11 @@
 
 | Görögország | Πτυχίο Οδοντιατρικής (Fogorvosi oklevél) | Παυεπιστήμιο (Egyetem) |  |
 
-| Spanyolország | Título de Licenciado en Odontología (Oklevél fogorvosi végzettségről) | El rector de una Universidad (Egyetemi rektor) |  |
+| Spanyolország | Título universitario oficial de Graduado o Graduada en Odontología (Fogászaton végzett férfi vagy nő hivatalos egyetemi diplomája) | El rector de una Universidad (Egyetemi rektor) El Rector de la Universidad Valencia (A Valenciai Egyetem Rektora) |  |
 
 | Franciaország | Diplôme d’Etat de docteur en chirurgie Dentaire (Szájsebészeti orvosi állami oklevél) | Universités (Egyetemek) |  |
+
+| Horvátország | Diploma „doktor dentalne medicine/ doktorica dentalne medicine” („Fogászszakorvos/ fogászszakorvosnő” diploma) | Fakulteti sveučilista u Republici Hrvatskoj (A Horvát Köztársaság egyetemeinek karai) |  |
 
 | Írország | Bachelor in Dental Science (B.Dent.Sc.) / Bachelor of Dental Surgery (BDS) / Licentiate in Dental Surgery (LDS) [Fogorvostudomány bakkalaureusa (B. Dent. Sc.) / Fogorvoslás bakkalaureusa (BDS) / Vizsgázott/képesített fogász (LDS)] | Universities / Royal College of Surgeons in Ireland (Egyetemek / Írországi Sebészek Királyi Főiskolája) |  |
 
@@ -30,7 +32,7 @@
 
 | Ciprus | Πιστοποιητικό Εγγραφής Οδοντιάτρου (Bizonyítvány a fogorvosi nyilvántartásba vételről) | Οδοντιατρικο Συμβούλιο (Fogorvosi Tanács) |  |
 
-| Lettország | Zobārsta diploms (Fogorvosi oklevél) | Universitātes tipa augstskola (Egyetemi típusú főiskola) | Rezidenta diploms par zobārsta pēcdiploma izglītības programmas pabeigšanu, ko izsniedz universitātes tipa augstskola un „Sertifikāts” - kompetentas iestādes izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu zobārstniecībā (Egyetemi típusú főiskola által kibocsátott rezidensi oklevél fogorvosi posztgraduális oktatási program elvégzésről és „Bizonyítvány” - illetékes intézmény által kibocsátott irat, amely igazolja, hogy a személy letette a fogászati szakvizsgát) |
+| Lettország | Zobārsta diploms (Fogorvosi oklevél) | Universitātes tipa augstskola (Egyetemi típusú főiskola) | Sertifikāts – kompetentas iestādes izsniegts dokuments, ka persona ir nokārtojusi sertifikācijas eksānemu zobārstniecībā (Bizonyítvány – az illetékes hatóság által kiállított olyan okmány, amely tanúsítja, hogy az illető személy fogorvosi szakvizgsát tett) |
 
 | Liechtenstein | Minden, az A) pontban felsorolt oklevél, amelyet valamely másik tagállamban állítottak ki | Illetékes hatóságok | Gyakorlati képzési bizonyítvány |
 
@@ -38,7 +40,7 @@
 
 | Luxemburg | Diplôme d’Etat de docteur en médecine Dentaire (Fogorvosdoktori állami oklevél) | Jury d’examen d’Etat (Állami vizsgabizottság) |  |
 
-| Magyarország | Fogorvos oklevél (doctor medicinae dentariae, röv.: dr. med. dent.) | Egyetem |  |
+| Magyarország | Okleveles fogorvos doktor oklevél (dr. medicinae dentariae, dr. med.dent.) | egyetem |  |
 
 | Málta | Lawrja fil- Kirurġija Dentali (Fogászati sebészi képesítés) | Universita`ta Malta (Máltai Egyetem) |  |
 
@@ -48,7 +50,7 @@
 
 | Ausztria | Bescheid über die Verleihung des akademischen Grades „Doktor der Zahnheilkunde” (Határozat a „foggyógyászat doktora” tudományos fokozat odaítéléséről) | - Medizinische Universität (Orvostudományi Egyetem) - Medizinische Fakultät der Universität (Egyetemi Orvostudományi Kar) |  |
 
-| Lengyelország | Dyplom ukończenia studiów wyższych z tytułem „lekarz dentysta” (Egyetemi orvostudományi kar elvégzését igazoló oklevél „fogorvos” címmel) | 1. Akademia Medyczna (Orvostudományi Akadémia), 2. Uniwersytet Medyczny (Orvostudományi Egyetem), 3. Collegium Medicum Uniwersytetu Jagiellońskiego [A Jagello Egyetem orvostudományi kara (Collegium Medicum)] | Lekarsko-Dentystyczny Egzamin Panstwowy (Orvosi-fogorvosi Államvizsga) |
+| Lengyelország | Dyplom ukończenia studiów wyższych na kierunku z tytułem „lekarz dentysta” (Egyetemi orvostudományi kar elvégzését igazoló oklevél „fogorvos” címmel) | 1. Akademia Medyczna (Orvostudományi Akadémia), 2. Uniwersytet Medyczny (Orvostudományi Egyetem), 3. Collegium Medicum Uniwersytetu Jagiellońskiego [A Jagello Egyetem orvostudományi kara (Collegium Medicum)] | Lekarsko-Dentystyczny Egzamin Końcowy (Orvosi-fogorvosi Záróvizsga) |
 
 | Portugália | Carta de curso de licenciatura em medicina Dentária (Fogorvosi licenciátusi bizonyítvány) | Faculdade (Egyetemi Kar) / Institutos Superiores (Felsőfokú Intézetek) |  |
 
@@ -106,11 +108,11 @@
 
 | Luxemburg | - |  |
 
-| Magyarország | Fogszabályozás szakorvosa bizonyítvány (1983 előtt: gyermekfogászat és fogszabályozás szakorvosa bizonyítvány) | Az Egészségügyi Szociális és Családügyi Minisztérium illetékes testülete |
+| Magyarország | Fogszabályozás szakorvosa bizonyítvány | Nemzeti Vizsgabizottság |
 
 | Málta | Certifikat ta’ specjalista dentali fl-Ortodonzja (Fogszabályozói Bizonyítvány) | Kumitat ta’ Approvazzjoni dwar Speċjalsti (Szakképzettséget Elismerő Bizottság) |
 
-| Hollandia | Bewijs van inschrijving als orthodontist in het Specialistenregister (Igazolás a szakorvosi nyilvántartásba fogszabályozó szakorvosként történő felvételről) | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde [Holland Királyi Fogorvostudományi Fejlesztési Társaság Szakorvosi Nyilvántartási Bizottsága (SRC)] |
+| Hollandia | Bewijs van inschrijving als orthodontist in het Specialistenregister (Igazolás a szakorvosi nyilvántartásba fogszabályozó szakorvosként történő felvételről) | Registratiecommissie Tandheelkundige Specialismen van de Nederlandse Maatschappij tot Bevordering der Tandheelkunde (A Holland Fogorvostudományi Fejlesztési Társaság Fogszakorvosi Nyilvántartó Bizottsága) |
 
 | Norvégia | Bevis for gjennomgatt spesialistutdanning i Kjeveortopedi (Fogszabályozó szakfogorvosi képzés elvégzését bizonyító oklevél) | Odontologisk Universitetsfakultet (Orvostudományi Egyetem Fogorvosi Kara) |
 
@@ -170,11 +172,11 @@
 
 | Luxemburg | - |  |
 
-| Magyarország | Dento-alveoláris sebészet szakorvosa bizonyítvány (1999 előtt: szájsebészet szakorvosa bizonyítvány) | Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete |
+| Magyarország | Dento-alveoláris sebészet szakorvosa bizonyítvány | Nemzeti Vizsgabizottság |
 
 | Málta | Certifikat ta’ speċjalista dentali fil-Kirurġija tal-ħalq (Fogászati Szájsebészi Bizonyítvány) | Kumitat ta’ Approvazzjoni dwar Speċjalisti (Szakképzettséget Elismerő Bizottság) |
 
-| Hollandia | Bewijs van inschrijving als kaakchirurg in het Specialistenregister (Igazolás a szakorvosi nyilvántartásba állkapocs-sebészként történő felvételről) | Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde [Holland Királyi Fogorvostudományi Fejlesztési Társaság Szakorvosi Nyilvántartási Bizottsága (SRC)] |
+| Hollandia | Bewijs van inschrijving als kaakchirurg in het Specialistenregister (Igazolás a szakorvosi nyilvántartásba állkapocs-sebészként történő felvételről) | Registratiecommissie Tandheelkundige Specialismen van de Nederlandse Maatschappij tot Bevordering der Tandheelkunde (Holland Királyi Fogorvostudományi Fejlesztési Társaság Fogszakorvosi Nyilvántartási Bizottsága) |
 
 | Norvégia | Bevis for gjennomgått spesialistutdanning i oralkirurgi |  |
 
@@ -216,9 +218,11 @@
 
 | Görögország | Οδοντίατρος ή χειρούργος οδοντίατρος |
 
-| Spanyolország | Licenciado en Odontología |
+| Spanyolország | Grado en Odontología |
 
 | Franciaország | Chirurgien-dentiste |
+
+| Horvátország | doktor dentalne medicine/doktorica dentalne medicine |
 
 | Írország | Dentist, dental practitioner or dental surgeon |
 
@@ -268,25 +272,27 @@
 
 ## a) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére a következő időpontok előtt kiállított fogorvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
 
-## - 2007. január 1. Bulgária esetében,
+## aa) 1980. január 28. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság,
 
-## - 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia esetében,
+## ab) 1981. január 1. Görögország,
 
-## - 2003. október 1. Románia esetében,
+## ac) 1986. január 1. Spanyolország és Portugália,
 
-## - 2002. június 1. Svájc esetében,
+## ad) 1994. január 1. Ausztria, Izland, Norvégia, Finnország és Svédország,
 
-## - 1995. május 1. Liechtenstein esetében,
+## ae) 1995. május 1. Liechtenstein,
 
-## - 1994. január 1. Ausztria, Izland, Norvégia, Finnország és Svédország esetében,
+## af) 2002. június 1. Svájc,
 
-## - 1986. január 1. Spanyolország és Portugália esetében,
+## ag) 2003. október 1. Románia,
 
-## - 1981. január 1. Görögország esetében,
+## ah) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia,
 
-## - 1980. január 28. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság esetében,
+## ai) 2007. január 1. Bulgária,
 
-## amennyiben azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
+## aj) 2013. július 1. Horvátország
+
+## esetében, amennyiben azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
 
 ## b) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére a következő időpontok előtt kiállított fogszabályozástan/szakfogorvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
 
@@ -386,6 +392,182 @@
 
 ## r) Feltétel nélkül elismerésre kerül az orvosi oklevél azon tagállami állampolgár esetében, akinek orvosi oklevelét Romániában állították ki és akinek a képzése 2003. október 1-jén vagy azt megelőzően kezdődött, amennyiben Románia illetékes hatósága által kiadott igazolás tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen, jogszerűen és főtevékenységként gyakorolta Románia területén a fogorvosi tevékenységet és az adott tagállami állampolgár ugyanolyan feltételek mellett jogosult a szóban forgó tevékenység folytatására, mint az A) pontban Romániára vonatkozóan említett oklevéllel rendelkezők. A hároméves gyakorlat követelménye nem vonatkozik arra a tagállami állampolgárra, aki legalább három tanulmányi évet sikeresen befejezett, ha az illetékes hatóság igazolja, ez a tanulmány egyenértékű az európai közösségi jog által meghatározott minimális képzési követelmények szerinti fogorvosi képzéssel.
 
-4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^7]
+4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^12]
 
-[^7]: A 4. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § d) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a szerint módosított szöveg.
+A Magyarországon kiállított szülésznői oklevelek és az azokkal egyenértékű,
+
+feltétel nélkül elismerésre kerülő oklevelek
+
+A) A szülésznői oklevelek megnevezései, kibocsátó szervei, valamint a képesítést kísérő igazolások Magyarországon és az egyes tagállamokban:
+
+| Ország | Oklevél megnevezése | Kibocsátó szerv | Képesítést kísérő igazolás |
+
+| Belgium | - Diploma van vroedvrouw (Szülésznői oklevél) - Diplôme d’accoucheuse (Szülésznői oklevél) | 1. De erkende opleidingsinstituten (Elismert oktatási intézmények) / les établissements d’enseignement (az oktatási intézmények) 2. De bevoegde Examencommissie van de Vlaamse Gemeenschap (A Flamand Közösség illetékes vizsgabizottsága) / le Jury compétent d’enseignement de la Communauté française (A Francia Közösség illetékes oktatási bizottsága) |  |
+
+| Bulgária | Диплома за висше образование на образователно- квалификационна степен “Бакалавър” с профес- ионална квалификация “Акушерка” (Felsőfokú diploma a „baccalaureatus” nővéri szakképzettség szülésznő minősítéséről) | Университет (Egyetem) |  |
+
+| Cseh Köztársaság | 1. Diplom o ukončení studia ve studijním programu ošetřovatelství ve studijním oboru všeobecná sestra (bakalář, Bc.) [A betegápolás tanulmányi program szülésznő tanulmámnyi szakirányának elvégzését igazoló oklevél (baccalaureus, Bc.)] 2. Diplom o ukončení studia ve studijním programu porodní asistence ve studijním oboru porodní asistentka (bakalář, Bc.) [A szülészet tanulmányi program szülésznő tanulmámnyi szakirányának elvégzését igazoló oklevél (baccalaureus, Bc.)] 3. Diplom o ukončení studia ve studijním oboru diplomovaná porodní asistentka (diplomovaný specialista, DiS.) [A gyakorló szülésznő tanulmányi szakirány elvégzését igazoló oklevél („okleveles specialista”, DiS.)] | 1. Vysoká škola zřízená nebo uznaná státem (Állami vagy az állam által elismert felsőoktatási intézmény) 2. Vysoká škola zřízená nebo uznaná státem (Állami vagy az állam által elismert felsőoktatási intézmény) 3. Vyšší odborná škola zřízená nebo uznaná státem (Állami vagy az állam által elismert középfokú, érettségi utáni szakképzést nyújtó intézmény) |  |
+
+| Dánia | Bevis for bestået jordemodereksamen (A szülésznői vizsga sikeres letételét tanúsító bizonyítvány) | Danmarks jordemoderskole (Dánia szülésznőképzője) |  |
+
+| Németország | Zeugnis über die staatliche Prüfung für Hebammen und Entbindungspfleger (Szülésznők és bábák államvizsga bizonyítványa) | Staatlicher Prüfungsausschuss (Állami vizsgabizottság) |  |
+
+| Észtország | Diplom ämmaemanda erialal (Oklevél szülésznő szakon) | 1. Tallinna Meditsiinikool (Tallinni Egészségügyi Iskola) 2. Tartu Meditsiinikool (Tartui Egészségügyi Iskola) |  |
+
+| Görögország | 1. Πτνχίο Τμήματος Μαιευτικής Τεχνολογικών Εκπαιδευτικών Ιδυάτων (T.E.I.) (Technikusképző Intézetek (TEI) szülésznői tagozatának oklevele) 2. Πτυχίο του Τμήματος Μαιών της ανωτέρας Σχολής Στελεχών Υγείας και κοινων. Πρόνοιας (KATEE) (Egészségügyi és Népjóléti Főiskola (KATEE) szülésznői tagozatának oklevele) 3. Πτυχίο Μαίας ανωτέρας Σχολής Μαιών (Szülésznőképző Főiskola szülésznői oklevele) | 1. Τεχνολογικά Εκπαιδευτικά Ιδρύματα (T.E.I.) [Közoktatás- és Vallásügyi Minisztérium Technikusképző Intézetei (TEI)] 2. KATEE Υπουργείου Εθνικήτ Παιδείας και Θρησκευμάτων [Közoktatás- és Vallásügyi Minisztérium Technikusképző Főiskolái (KATEE)] 3. Υπουργείο Υγείας και Πρόνοιας (Egészségügyi és Népjóléti Minisztérium) |  |
+
+| Spanyolország | Título de matrona / asistente obstétrico (matrona) / enfermería obstétricaginecológica [Bábaasszonyi / szülész asszisztensi (bábaasszonyi) / szülészeti-nőgyógyászati ápolói oklevél] | Ministerio de Educación y Cultura (Oktatási és Kulturális Minisztérium) |  |
+
+| Franciaország | Diplôme de sage-femme [Bábaasszonyi (szülésznői) állami oklevél - Franciaország] | L’Etat (Egyetemek) |  |
+
+| Horvátország | Svjedodžba „prvostupnik (baccalaureus) primaljstva/prvostupnica (baccalaurea) primaljstva” [„okleveles szülész (baccalaureus)/ okleveles szülésznő (baccalaureus) főiskolai oklevél] | – Medicinski fakulteti sveučilista u Republici Hrvatskoj – Sveučilista u Republici Hrvatskoj – Veleučilista u Republici Hrvatskoj (– A Horvát Köztársaság tudomány egyetemeinek orvosi egyetemei- a Horvát Köztársaság egyetemei a Horvát Köztársaság főiskolái) |  |
+
+| Írország | Certificate in Midwifery (Ír szülésznői bizonyítvány) | An Board Altranais (Ápolói Kamara) |  |
+
+| Izland | 1. Embættispróf í ljósmóðurfræði (Szülésznői oklevél) 2. Próf í ljósmæðrafræðum (Szülésznői bizonyítvány) | 1. Háskóli Íslands (Izlandi Egyetem) 2. Ljósmæðraskóli Íslands (Izlandi Szülésznőképző) |  |
+
+| Olaszország | Diploma d’ostetrica (Bábaasszonyi/szülésznői oklevél) | Scuole riconosciute dallo Stato (Az állam által elismert iskolák) |  |
+
+| Ciprus | Δίπλωμα στο μεταβασικό πρόγραμμα Μαιευτικής (Alapoklevél utáni („post-basic”) szülésznői oklevél) | Νοσηλευτική Σχολή (Ápolástani Kar / Ápolóképző Szakiskola) |  |
+
+| Lettország | Diploms par vecmātes kvalifikācijas iegūšanu (Oklevél a szülésznői minősítés megszerzéséről) | Māsu skolas (Ápolói iskola) |  |
+
+| Liechtenstein | Minden, az A) pontban felsorolt oklevél, amelyet valamely másik tagállamban állítottak ki | Illetékes hatóságok | Gyakorlati képzési bizonyítvány |
+
+| Litvánia | 1. Aukštojo mokslo diplomas, nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją ir profesinės kvalifikacijos pažymėjimas, nurodantis suteiktą akušerio profesinę kvalifikaciją (Általános ápolói szakképesítés megszerzését tanúsító felsőiskolai oklevél és szülészi szakképesítés megszerzését tanúsító szakképesítési bizonyítvány) 2. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikacija ir profesinės kvalifikacijos pazymejimas, nurodantis suteiktą akuserio profesinę kvalifikaciją [Általános ápolói szakképesítés megszerzését tanúsító felsőiskolai oklevél és szülészi szakképesítés megszerzését tanúsító szakképesítési bizonyítvány (nem egyetemi tanulmányok)] 3. Aukstojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą akušerio profesinę kvalifikaciją [Szülészi szakképesítés megszerzését tanúsító főiskolai oklevél (nem egyetemi tanulmányok)] | 1. Universitetas (Egyetem) 2. Kolegija (Kollégium) 3. Kolegija (Kollégium) | 1. Pažymėjimas, liudijantis profesinę praktiką akušerijoje (Szülészi szakgyakorlatot igazoló bizonyítvány) 2. Pažymėjimas, liudijantis profesinę praktiką akušerijoje (Szülészi szakgyakorlatot igazoló bizonyítvány) |
+
+| Luxemburg | Diplôme de sagefemme [Szülésznői (bábaasszonyi) oklevél] | Ministère de l’Education nationale, de la Formation professionnelle et des Sports (Nemzeti Oktatási, Szakképzési és Sportminisztérium) |  |
+
+| Magyarország | Szülésznő bizonyítvány | Iskola/főiskola |  |
+
+| Málta | Lawrja jew diploma fl-Istudji tal-Qwiebel (Szülésznői képesítés vagy oklevél) | Universita`ta’ Malta (Máltai Egyetem) |  |
+
+| Hollandia | Diploma van verloskundige (Szülésznői oklevél) | Door het Ministerie van Volksgezondheid, Welzijn en Sport erkende opleidingsinstellingen (A Népegészségügyi, Jóléti és Sportminisztérium által elismert képzőintézmény) |  |
+
+| Norvégia | Vitnemål for bestått jordmorutdanning (Szülésznői képesítés megszerzését tanúsító oklevél) | Høgskole (Főiskola) |  |
+
+| Ausztria | 1. Hebammen-Diplom (szülésznő oklevél) 2. Diplom über den Abschluss des Fachhochschul- Bachelorstudiengangs „Hebamme” (Bachelor fokozatú főiskolai diploma a „szülésznő” kurzus elvégzéséről) | 1. Hebammenakademie (Szülésznő-akadémia) Bundeshebammenlehranstalt (Szövetségi szülésznőképző intézet) 2. Fachhochschulrat (Főiskolák Tanácsa) |  |
+
+| Lengyelország | 1. Dyplom ukońnczenia studiów wyższych na kierunku położnictwo z tytulem „magister položnictwa” (Szülész szakon végzettek egyetemi/főiskolai diplomája „okleveles szülész/nő” címmel) 2. Dyplom ukończenia studiów wyższych zawodowych na kierunku/specjalności położnictwo z tytułem „licencjat położnictwa” (Ápolói karon/szakon végzett felsőfokú tanulmányok befejezését igazoló diploma, mely „szülésznő licenc” cím használatára jogosít) | Instytucja prowadząca kształcenie na poziomie wyższym uznana przez właściwe (A felsőfokú végzettséget nyújtó oktatási intézmény képzési tevékenységét elismerő illetékes hatóság) |  |
+
+| Portugália | 1. Diploma de enfermeiro especialista em enfermagem de saúde materna e obstétrica (Anya-egészségügyi és szülészeti szakápolói oklevél) 2. Diploma/carta de curso de estudos superiores especializados em enfermagem de saúde materna e obstétrica (Anyaegészségügyi és szülészeti felsőfokú ápolási szakoklevél / bizonyítvány) 3. Diploma (do curso de pós-licenciatura) de especialização em enfermagem de saúde materna e obstétrica [Anya-egészségügyi és szülészeti ápolási (a licenciátus utáni) szakoklevél] | 1. Ecolas de Enfermagem (Ápolástudományi iskolák) 2. Escolas Superiores de Enfermagem (Ápolástudományi Főiskolák) 3. Escolas Superiores de Enfermagem; (Ápolástudományi Főiskolák) Escolas Superiores de Saúde (Egészségügyi Főiskolák) |  |
+
+| Románia | Diplomă de licenţă de moaşă (Szülésznői oklevél) | Universităţi (Tudományegyetem) |  |
+
+| Szlovénia | Diploma, s katero se podeljuje strokovni naslov „diplomirana babica / diplomirani babičar” (Az „okleveles szülésznő/okleveles szülész” szakmai cím odaítéléséről szóló oklevél) | 1. Univerza (Egyetem) 2. Visoka strokovna šola (Felsőfokú szakiskola) |  |
+
+| Szlovákia | 1. Vysokoškolský diplom o udelení akademického titulu „bakalár z pőrodnej asistencie” („Bc.”) (Felsőfokú szülésznői tanulmányok befejezését igazoló oklevél a „bakalár z pőrodnej asistencie” („Bc. - baccalaureus”) cím megszerzéséről) 2. Absolventský diplom v študijnom odbore diplomovaná porodná asistentka (Oklevél az okleveles szülésznői szak elvégzéséről) | 1. Vysoká škola (Egyetem) 2. Stredná zdravotnícka škola (Egészségügyi szakközépiskola) |  |
+
+| Finnország | 1. Kätilön tutkinto / barnmorskeexamen (Szülésznői képesítés) 2. Sosiaali- ja terveysalanammattik orkeakoulututkin to, kätilö (AMK) / yrkeshögskoleexame nin om hälsovård och det sociala området, barnmorska (YH) (Szociális- és egészségügyi szakirányú főiskolai képesítést szerzett szülésznő) | 1. Terveydenhuolto-oppilaitokset / hälsovårdsläroanstalter (Beteggondozó intézetek) 2. Ammattikorkeakoulut / yrkeshögskolor (Szakirányú főiskolák) |  |
+
+| Svédország | Barnmorskeexamen (Szülésznői oklevél) | Universitat eller högskola (Egyetem vagy Főiskola) |  |
+
+| Svájc | Diplomierte Hebamme (Diplomás szülésznő) Sage-femme diplômée (Diplomás szülésznő) Levatrice diplomata (Diplomás szülésznő) | Schulen, die staatlich anerkannte Bildungsgänge durchführen Ecoles qui proposent des filières de formation reconnues par l’ État Scuole che propongono dei cicli di formazione riconosciuti dallo Stato |  |
+
+| Egyesült Királyság | Statement of registration as a Midwife on part 10 of the register kept by the United Kingdom Central Council for Nursing, Midwifery and Health visiting (Szülésznői nyilvántartásba vételi igazolás az Egyesült Királyság Központi Ápolói, Szülésznői és Védőnői Tanácsa által vezetett nyilvántartás 10. jegyzékébe történő felvételről) | Various (Különböző) |  |
+
+B) A szülésznői szakképesítés megnevezése Magyarországon és az egyes tagállamokban:
+
+| Ország | Megnevezés |
+
+| Belgium | Accoucheuse/vroedvrouw |
+
+| Bulgária | Акушерка |
+
+| Cseh Köztársaság | Porodní asistentka/porodní asistent |
+
+| Dánia | Jordemoder |
+
+| Németország | Hebamme vagy Entbindungspfleger |
+
+| Észtország | Ämmaemand |
+
+| Görögország | Μαία vagy μαιευτής |
+
+| Spanyolország | Matrona vagy asistente obstétrico |
+
+| Franciaország | Sage-femme |
+
+| Horvátország | prvostupnik (baccalaureus) primaljstva/ prvostupnica (baccalaurea) primaljstva |
+
+| Írország | Midwife |
+
+| Izland | Ljósmóðir |
+
+| Olaszország | Ostetrica |
+
+| Ciprus | Εγγεγραμμένη Μαία |
+
+| Lettország | Vecmāte |
+
+| Liechtenstein | Hebamme |
+
+| Litvánia | Akušeris |
+
+| Luxemburg | Sage-femme |
+
+| Magyarország | Szülésznő |
+
+| Málta | Qabla |
+
+| Hollandia | Verloskundige |
+
+| Norvégia | Jordmor |
+
+| Ausztria | Hebamme |
+
+| Lengyelország | Położna |
+
+| Portugália | Enfermeiro especialista em enfermagem de saúde materna e obstétrica |
+
+| Románia | Moaşă |
+
+| Szlovénia | Diplomirana babica / Diplomirani babičar |
+
+| Szlovákia | Pőrodná asistentka |
+
+| Finnország | Kätilö - barnmorska |
+
+| Svédország | Barnmorska |
+
+| Svájc | Sage-femme, Hebamme, levatrice |
+
+| Egyesült Királyság | Midwife |
+
+C) Feltétel nélküli elismerés a szerzett jogok esetén
+
+a) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére a következő időpontok előtt kiállított szülésznői oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
+
+aa) 1983. január 23. Belgium, Dánia, Németország, Görögország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság,
+
+ab) 1986. január 1. Spanyolország és Portugália,
+
+ac) 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország,
+
+ad) 1995. május 1. Liechtenstein,
+
+ae) 2002. június 1. Svájc,
+
+af) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Szlovénia, Szlovákia,
+
+ag) 2007. január 1. Bulgária,
+
+ah) 2013. július 1. Horvátország
+
+esetében, ha az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
+
+b) Feltétel nélkül elismerésre kerül a tagállami állampolgár részére kiállított, a volt Német Demokratikus Köztársaság területén megszerzett, a képzés sikeres elvégzését tanúsító szülésznői oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben:
+
+– 1990. október 3. előtt megkezdett képzést igazol és olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet. Ezen oklevél a birtokosát feljogosítja arra, hogy Németország területén szülésznői tevékenységet ugyanolyan feltételek mellett gyakorolja, mint amilyen feltételek mellett az adott tevékenység az illetékes német hatóság által odaítélt és az A) pontban említett képesítés megszerzését tanúsító okirat birtokában gyakorolható.
+
+c) Feltétel nélkül elismerésre kerül a szülésznői oklevél azon tagállami állampolgár esetében, akinek szülésznői oklevelét 1993. január 1-jét megelőzően a volt Csehszlovákiában állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Csehszlovákiában kezdődött, amennyiben a Cseh Köztársaság illetékes hatósága tanúsítja, hogy a Cseh Köztársaság területén a szülésznői tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint a cseh szülésznői képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet a Cseh Köztársaság területén.
+
+d) Feltétel nélkül elismerésre kerül a szülésznői oklevél azon tagállami állampolgár esetében, akinek szülésznői oklevelét 1993. január 1-jét megelőzően a volt Csehszlovákiában állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Csehszlovákiában kezdődött, amennyiben Szlovákia illetékes hatósága tanúsítja, hogy Szlovákia területén a szülésznői tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint a szlovák szülésznői képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovákia területén.
+
+e) Feltétel nélkül elismerésre kerül a szülésznői oklevél azon tagállami állampolgár esetében, akinek szülésznői oklevelét 1991. augusztus 20-át megelőzően a volt Szovjetunióban állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Észtország illetékes hatósága tanúsítja, hogy Észtország területén a szülésznői tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az észt szülésznői képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Észtország területén.
+
+f) Feltétel nélkül elismerésre kerül a szülésznői oklevél azon tagállami állampolgár esetében, akinek szülésznői oklevelét 1991. augusztus 21-ét megelőzően a volt Szovjetunióban állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Lettország illetékes hatósága tanúsítja, hogy Lettország területén a szülésznői tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint a lett szülésznői képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Lettország területén.
+
+g) Feltétel nélkül elismerésre kerül a szülésznői oklevél azon tagállami állampolgár esetében, akinek szülésznői oklevelét 1990. március 11-ét megelőzően a volt Szovjetunióban állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Litvánia illetékes hatósága tanúsítja, hogy Litvánia területén a szülésznői tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint a litván szülésznői képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Litvánia területén.
+
+[^12]: A 4. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § d) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a, a 61/2013. (VIII. 22.) EMMI rendelet 1. § d) pontja szerint módosított szöveg.

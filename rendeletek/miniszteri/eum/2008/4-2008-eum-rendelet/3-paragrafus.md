@@ -42,7 +42,26 @@ d) az irányelv V. melléklet 5.1.1 pontja a 2010/C 129/02 EK bizottsági közle
 
 e) az irányelv II. melléklete és V. melléklet 5.1.3. pontja a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló, 2011. március 3-i 213/2011/EU bizottsági rendelet szerint,
 
-f) a 2003. évi uniós csatlakozási okmány II. melléklet 2. C. pontja.
+f) a 2003. évi uniós csatlakozási okmány II. melléklet 2. C. pontja,
+
+g)[^4] az irányelvnek az azt módosító a letelepedés és a szolgáltatásnyújtás szabadsága területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013. május 13-i 2013/25/EU tanácsi irányelv melléklete A részének
+
+ga) 1. pontjával módosított 49. cikk (2) bekezdése,
+
+gb) 2. pontjával módosított V. melléklete,
+
+h)[^5] az irányelv V. melléklet 5.1.3. és 5.1.4. pontja a 2011/C 183/01 EK bizottsági közlemény (2011. június 24.) szerint,
+
+i)[^6] az irányelv 5.1.1., 5.1.4., 5.2.2., 5.3.2., 5.3.3., és 5.6.2. pontja a 2011/C 367/03 EK bizottsági közlemény (2011. december 16.) szerint,
+
+j)[^7] az irányelv 5.1.3., 5.2.2. és 5.3.2. pontja a 2012/C 244/01 EK bizottsági közlemény (2012. augusztus 14.) szerint,
+
+k)[^8] az irányelv 5.1.1., 5.1.2., 5.1.3., 5.2.2., 5.3.2., 5.3.3., 5.5.2., és 5.6.2. pontja a 2013/C 183/02 EK bizottsági közlemény (2013. június 28.) szerint.
 
 [^2]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.
 [^3]: A 3. § b) pont bk) alpontját a 24/2012. (IV. 18.) NEFMI rendelet 5. §-a iktatta be.
+[^4]: A 3. § g) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
+[^5]: A 3. § h) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
+[^6]: A 3. § i) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
+[^7]: A 3. § j) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
+[^8]: A 3. § k) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
