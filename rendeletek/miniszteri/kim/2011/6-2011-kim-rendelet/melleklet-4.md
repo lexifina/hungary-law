@@ -1,46 +1,40 @@
-## KEZDEMÉNYEZÉS
+## Előterjesztés
 
-## ...............................................................
+## A KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTERHEZ
 
-## miniszteri elismerésre
+## díj, oklevél adományozására
 
-## Név:
+## Név (születési név):
 
-## Születési név:
-
-## Születési hely, idő:
+## Születési hely, év, hó, nap:
 
 ## Anyja neve:
 
-## Munkahelye és annak címe:
+## Munkahely:
 
-## Beosztása:
+## Munkakör, beosztás (foglalkozás):
+
+## Tudományos fokozat:
 
 ## Lakcíme:
 
-## Elérhetőségei (telefon és e-mail):
+## Telefonszáma:
 
-## Korábbi miniszteri elismerés megnevezése és időpontja:
+## E-mail címe:
+
+## Korábbi miniszteri, állami kitüntetései, elismerései:
 
 ## Az elismerés átadásának javasolt időpontja:
 
-## INDOKOLÁS:
+## Hivatalos indokolás röviden (sajtóban, honlapon megjelentethető módon):
 
-## Dátum
+## Szakmai életút, érdemek részletes ismertetése:
 
-## .................................................................
+## Dátum:
 
-## kezdeményező aláírása
+## P. H.
 
-## Az elismerésre jelölttel összefüggésben a közigazgatási és igazságügyi miniszter által adományozható elismerésekről szóló 6/2011. (II. 24.) KIM rendelet 6. § (1) bekezdésében meghatározott kizáró ok nem áll fenn.
-
-## (A hivatkozott kizáró ok tekintetében foglalkoztatott esetén munkáltatói jogkör gyakorlója tesz nyilatkozatot, egyéb esetben nem kell kitölteni.)
-
-## Dátum
-
-## ..................................................................
-
-## munkáltató
+| .......................................................................................... javaslattevő neve/munkaköre/aláírása |
 
 4. számú melléklet a 6/2011. (II. 24.) KIM rendelethez
 
