@@ -18,4 +18,6 @@ közigazgatási és igazságügyi miniszter
 
 Határidő: a Fővárosi Törvényszék határozatának jogerőre emelkedését követően azonnal
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, egyidejűleg hatályát veszti a Szabadságharcosokért Közalapítvány Alapító Okiratának módosításáról szóló 1190/2012. (VI. 11.) Korm. határozat.
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
