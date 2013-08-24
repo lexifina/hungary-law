@@ -88,7 +88,7 @@
 
 ## – 49/2004. (III. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között, a nemzetközi közúti személyszállításról és árufuvarozásról szóló, Budapesten, 2002. október 28-án aláírt Egyezmény kihirdetéséről
 
-13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^43]
+13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^46]
 
 A jogszabályban rögzített vizsgáztatási technológia és ügyrend megsértése esetén
 
@@ -98,4 +98,4 @@ A jogszabályban rögzített vizsgáztatási technológia és ügyrend megsért�
 
 | 2. | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | 200 000 |
 
-[^43]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^46]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be.
