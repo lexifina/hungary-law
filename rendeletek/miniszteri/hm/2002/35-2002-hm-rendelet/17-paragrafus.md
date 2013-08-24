@@ -1,3 +1,0 @@
-## IV. RÉSZ
-
-## ZÁRÓ RENDELKEZÉSEK
