@@ -1,1 +1,0 @@
-## 3. § A hulladékgazdálkodási tervekben meghatározott követelményeket a hulladékkezelési létesítmény, valamint a kapcsolódó kezelési tevékenység engedélyezése során az engedélyező hatóság köteles figyelembe venni és alkalmazni. E rendelkezés irányadó az engedélyek felülvizsgálatára is.

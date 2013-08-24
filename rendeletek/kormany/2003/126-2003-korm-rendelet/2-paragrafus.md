@@ -1,1 +1,0 @@
-## terjed ki.
