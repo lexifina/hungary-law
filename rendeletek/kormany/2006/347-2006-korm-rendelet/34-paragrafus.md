@@ -1,4 +1,4 @@
-## 33/C. §[^117]
+## 33/C. §[^121]
 
 ## A felügyelőség feladatai
 
@@ -20,4 +20,4 @@ a) a hatósági tevékenység ellátásához szükséges regionális laboratóri
 
 b) a rendkívüli szennyezések észlelése céljából a mérő-megfigyelő rendszert.
 
-[^117]: A 33/C. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 172. §-a. A 33/C. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 7. pontja.
+[^121]: A 33/C. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 172. §-a. A 33/C. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 7. pontja.

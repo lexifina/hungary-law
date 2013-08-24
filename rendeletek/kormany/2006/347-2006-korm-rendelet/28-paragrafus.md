@@ -1,8 +1,8 @@
-## 26–27. §[^56]
+## 26–27. §[^58]
 
 ## Természetvédelmi szakhatóságok kijelölése
 
-## 28. §[^57] A Kormány
+## 28. §[^59] A Kormány
 
 a) a minisztert,
 
@@ -14,5 +14,5 @@ d) a fővárosi főjegyzőt,
 
 e) a települési önkormányzat jegyzőjét
 
-[^56]: A 26–27. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 14. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^57]: A 28. § a 106/2007. (V. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^58]: A 26–27. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 14. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^59]: A 28. § a 106/2007. (V. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
