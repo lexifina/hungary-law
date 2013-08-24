@@ -1,0 +1,3 @@
+22. § (1) Amennyiben az igényjogosult a missziós regeneráló pihenés, a kondicionáló-kiképzési rendezvény, valamint a regeneráló pihenés első napján az MH regenerálódást és kiképzést segítő szervezetében nem jelenik meg, a szolgáltatást nyújtó szervezetek tájékoztatják az MH központi személyügyi szervét, amely az erről való tudomásszerzéstől számított 20 napon belül javaslatot tesz az állományilletékes parancsnok részére annak érdekében, hogy az igényjogosult 1 évre a regeneráló pihenésből és a rekreációs szolgáltatásból kizárásra kerüljön.
+
+(2) Amennyiben az igényjogosult a 2–7. § szerinti szolgáltatások esetén a turnus első napján önhibáján kívül nem jelenik meg a szolgáltatást nyújtó szervezetnél, és azt a parancsnoka, vagy az orvos igazolja, mentesül a kizárás alól.
