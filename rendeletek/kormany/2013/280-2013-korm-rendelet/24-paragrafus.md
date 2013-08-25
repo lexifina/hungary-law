@@ -1,4 +1,4 @@
-## 23. §[^10]
+## 23. §[^11]
 
 ## 7. Záró rendelkezések
 
@@ -16,4 +16,4 @@ b) a közúti közlekedési igazgatási eljárásokkal összefüggő egyes korm�
 
 (5) Ez a rendelet 2013. október 2-án hatályát veszti.
 
-[^10]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
