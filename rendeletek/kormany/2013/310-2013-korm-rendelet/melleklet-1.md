@@ -1,3 +1,5 @@
+## 4–5. §[^1]
+
 1. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez
 
 ## A hulladékgazdálkodási terv és a megelőzési program előkészítésébe bevonandó területileg illetékes hatóságok
@@ -37,3 +39,5 @@ A hulladékgazdálkodási terv és a megelőzési program előkészítése sorá
 16. a tűz- és katasztrófavédelmi szakkérdések vonatkozásában a megyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot,
 
 17. a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában a területileg illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét.
+
+[^1]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
