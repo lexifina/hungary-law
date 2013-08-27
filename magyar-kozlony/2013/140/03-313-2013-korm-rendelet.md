@@ -1,0 +1,132 @@
+# A Kormány 313/2013. (VIII. 27.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 140. szám, 2013. augusztus 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4c1b0d8a80a5eacf4757a280087339a5837489f3/dokumentumok/bc9ed51ebb29783a2b380cfa20fae62db97ec466/letoltes)
+
+---
+
+A Kormány 313/2013. (VIII. 27.) Korm. rendelete
+a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási
+Támogatási Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjainak
+végrehajtásáról szóló 160/2009. (VIII. 3.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási
+Támogatási Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjainak végrehajtásáról
+szóló 160/2009. (VIII. 3.) Korm. rendelet (a továbbiakban: R.) 14. § (7) bekezdése helyébe a következő rendelkezés lép
+és a § a következő (8) bekezdéssel egészül ki:
+„(7) Az Irányító Hatóság havi gyakorisággal gondoskodik a magyar partnereknek juttatott közösségi forrásokról
+a lebonyolítási fizetési számláról történő kiutalás hónapjában érvényes, az Európai Bizottság által meghatározott
+havi árfolyamon készült – az Áht. 80. § (2) bekezdése szerinti szabályzatban meghatározott – kiegészítő szelvény
+megküldéséről a Kincstárnak.
+(8) Ha valamely operatív program euró programszámlájának egyenlege nem teszi lehetővé a közösségi hozzájárulás
+utalását, úgy az Irányító Hatóság a Miniszterelnökséggel, az államháztartásért felelős miniszter által vezetett
+minisztériummal és az Igazoló Hatósággal történő konzultációt követően, a körülményeket és a beavatkozás
+következményeit egyedileg megvizsgálva és elbírálva, elsősorban likviditási szempontok és a vonatkozó jogszabályok
+figyelembe vételével dönt az átcsoportosítás szükségességéről és kezdeményezi az átcsoportosítást az Igazoló
+Hatóságnál.”
+2. §
+Az R. 18. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Az Irányító Hatóság havi gyakorisággal gondoskodik a TA projektek magyar kedvezményezettjeinek jutatott
+partnerországi forrásokról a lebonyolítási fizetési számláról történő kiutalás hónapjában érvényes, az Európai
+
+Bizottság által meghatározott havi árfolyamon készült – az Áht. 80. § (2) bekezdése szerinti szabályzatban
+meghatározott – kiegészítő szelvény megküldéséről a Kincstárnak.”
+3. § (1) Az R. 21/H. § (5) bekezdés b) és c) pontja helyébe a következő rendelkezés lép:
+(A helyszíni ellenőrzések során ellenőrizni kell különösen)
+„b) a partneri jelentések és a projekt hazai partner által megvalósított részének tényleges fizikai és pénzügyi
+előrehaladásának összhangját,
+c) azt, hogy a partneri jelentéseket alátámasztó bizonylatok eredeti példánya a hazai partnernél rendelkezésre áll és
+fellelhető, továbbá megegyezik a partner által a partneri jelentésekhez benyújtott hiteles másolatokkal,”
+(2) Az R. 21/H. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A helyszíni ellenőrzések keretében a partneri jelentésben szereplő költségek elszámolhatóságának
+megállapításához mintavételesen ellenőrizni kell a számlákat, ezek között a korábbi számlaösszesítőkben
+feltüntetett, de másolatban be nem nyújtott számlákat is.”
+4. §
+Az R. 30. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+„(3) A szabálytalansági vizsgálatot lefolytató szervezet vezetője a szabálytalansági vizsgálat elindításáról való döntés
+meghozatalával egyidejűleg kijelöli a szabálytalansági vizsgálat vezetőjét, valamint a vizsgálatba bevonandó
+szakértőket. A szabálytalanság-felelős a szabálytalansági gyanút, az eljárás megindításának vagy elutasításának
+tényét, az eljárás lezárását, a vizsgálat eredményét a döntés kézhezvételét követő 5 munkanapon belül rögzíti
+az IMIR 2007–2013-ban. Az eljárás megindításáról, az eljárás felfüggesztése esetén a felfüggesztés tényéről, az eljárás
+lezárásáról, a kifizetések felfüggesztéséről a szabálytalanság-felelős a döntés kézhezvételét követő 2 munkanapon
+belül tájékoztatja az eljárásban érintetteket.
+(4) A szabálytalansági vizsgálat megindítását követően a szabálytalansági vizsgálat vezetője – szükség esetén –
+felhívja a hazai partnert a vizsgálat lefolytatásához szükséges további iratok becsatolására, továbbá helyszíni vizsgálat
+lefolytatását kezdeményezheti. A szabálytalansági vizsgálat vezetője a tényállás tisztázása érdekében megvizsgálhat
+bármely dokumentumot, körülményt, tényt, amely a szabálytalanság gyanújával kapcsolatos tényállás tisztázásához
+szükséges. A szabálytalansági eljárás során elrendelt hiánypótlás, valamint a helyszíni ellenőrzés időtartama az eljárási
+határidőbe nem számít bele.”
+5. §
+Az R. 32. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A szabálytalansági vizsgálat lezárásának időpontja a 31. § (8) bekezdése szerinti intézkedés elrendelésének
+napja, a hitelesítési tevékenységre kijelölt szervezet által lefolytatott szabálytalansági vizsgálat esetében
+a hitelesítési tevékenységre kijelölt szervezet által elrendelt intézkedés jóváhagyásának napja.”
+6. §
+Az R. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Nemzeti Hatóság az Európai Regionális Fejlesztési Alapról szóló 1080/2006/EK európai parlamenti és a tanácsi
+rendelet végrehajtására vonatkozó szabályok meghatározásáról szóló, 2006. december 8-i 1828/2006/EK bizottsági
+rendelet (a továbbiakban: 1828/2006/EK rendelet) szerinti jelentéstételi kötelezettség alá eső szabálytalanságokról
+– újonnan megállapított szabálytalanságok esetén 10 napon belül, egyéb esetben a negyedévet követő 2 héten
+belül – az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános
+rendelkezések megállapításáról szóló 1083/2006/EK tanácsi rendelet, valamint az 1828/2006/EK rendelet 28. cikke
+szerinti tartalommal jelentést küld az Igazoló Hatóság részére. A Közös Technikai Titkárság a partnerországtól kapott
+jelentéseket – azok beérkezéstől számított 10 munkanapon belül – megküldi a Nemzeti Hatóság részére.”
+7. §
+Az R. 44. §-a helyébe a következő rendelkezés lép:
+„44. § (1) A programok végrehajtásában vagy ellenőrzésében érintett – magyarországi illetőségű – szerv vagy
+hatóság vezetője köteles valamennyi vonatkozó, a programokkal összefüggő ellenőrzési jelentés alapján intézkedési
+tervet készíteni, ha a jelentésben rá vonatkozó, intézkedést igénylő megállapítás szerepel és felelős annak
+végrehajtásáért, illetve a végrehajtás nyomon követéséért.
+(2) Az intézkedési tervet az ellenőrzési jelentés alapján a jelentés kézhezvételétől számított 20 napon belül készíti el
+és küldi meg
+a) a hitelesítéssel megbízott szerv a Nemzeti Hatóság, az Igazoló Hatóság és az Ellenőrzési Hatóság, illetve az ellenőri
+csoport magyar tagja részére,
+b) az Irányító Hatóság az Igazoló Hatóság és az Ellenőrzési Hatóság részére,
+
+c) az Igazoló Hatóság az Ellenőrzési Hatóság részére.
+(3) Az (1) bekezdés szerinti szervezetek vezetői gondoskodnak az intézkedési terveik – különös tekintettel
+a szabálytalanságok kezelésével kapcsolatos intézkedések – megvalósításának folyamatos nyomon követéséről,
+amelyről félévente, minden év március 31-ig és szeptember 30-ig tájékoztatják az ellenőrzési hatóságot a megvalósítást
+alátámasztó dokumentumok megküldésével.”
+8. §
+ Az R. 61. §-a a következő (5) és (6) bekezdéssel egészül ki:
+„(5) E rendeletnek a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint
+az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó
+programjainak végrehajtásáról szóló 160/2009. (VIII. 3.) Korm. rendelet módosításáról szóló 313/2013. (VIII. 27.)
+Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit – a (6) bekezdésben meghatározott
+kivétellel – a Módr. hatálybalépése idején folyamatban lévő ügyekben is alkalmazni kell.
+(6) E rendeletnek a Módr.-rel megállapított 14. § (7) bekezdését és 18. § (8) bekezdését a Módr. hatálybalépését
+követően elkészített kiegészítő szelvényekre kell alkalmazni.”
+9. §
+ Az R.
+a)
+21. § (3) bekezdésben az „a Kbt.” szövegrész helyébe az „a közbeszerzésekről szóló 2011. évi CVIII. törvény
+(a továbbiakban: Kbt.)”,
+b)
+21/B. §-ában az „a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.)” szövegrész helyébe
+az „a Kbt.”,
+c)
+29. § (3) bekezdésében az „a tudomásszerzést követően 2 munkanapon” szövegrész helyébe
+az „a kézhezvételt követő 5 munkanapon”,
+d)
+30. § (1) bekezdésében a „2 munkanapon” szövegrész helyébe az „a kézhezvételt követő 5 munkanapon”,
+e)
+30. § (2) bekezdésében a „2 munkanapon” szövegrész helyébe az „a kézhezvételt követő 5 munkanapon”,
+f)
+31. § (6) bekezdésében az „a Kbt. 327. § (2) bekezdésében foglaltakkal” szövegrész helyébe az „a Kbt.-vel”,
+g)
+35. § (6) bekezdésében az „A (2) bekezdés” szövegrész helyébe az „Az (1) bekezdés”
+szöveg lép.
+10. §
+ Hatályát veszti az R. 35. § (2) és (3) bekezdése.
+11. §
+ Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+Orbán Viktor s. k.,
+
+miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei

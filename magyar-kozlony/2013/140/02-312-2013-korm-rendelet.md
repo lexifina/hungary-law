@@ -1,0 +1,183 @@
+# A Kormány 312/2013. (VIII. 27.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 140. szám, 2013. augusztus 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4c1b0d8a80a5eacf4757a280087339a5837489f3/dokumentumok/bc9ed51ebb29783a2b380cfa20fae62db97ec466/letoltes)
+
+---
+
+A Kormány 312/2013. (VIII. 27.) Korm. rendelete
+a 2007–2013. programozási időszakban az Európai Szomszédsági és Partnerségi Támogatási Eszközből
+társfinanszírozott Magyarország–Szlovákia–Románia–Ukrajna ENPI Határon Átnyúló Együttműködési
+Program végrehajtásáról szóló 228/2008. (IX. 12.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény
+15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A 2007–2013. programozási időszakban az Európai Szomszédsági és Partnerségi Támogatási Eszközből
+társfinanszírozott Magyarország–Szlovákia–Románia–Ukrajna ENPI Határon Átnyúló Együttműködési Program
+végrehajtásáról szóló 228/2008. (IX. 12.) Korm. rendelet (a továbbiakban: R.) 4. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A Támogatási Eszköz és a kapcsolódó hazai társfinanszírozás támogatásait az Ávr. előírásai szerint
+a forrásgazdának kell megterveznie.”
+2. §
+Az R. 6. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A lebonyolítási számla vezetésével kapcsolatos költségek elszámolása közvetlenül a központi költségvetés
+terhére történik.”
+3. § (1) Az R. 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A Közös Irányító Hatóság a közösségi hozzájárulás forráslehívási dokumentáció benyújtását követően dönt
+annak jóváhagyásáról vagy elutasításáról, és jóváhagyás esetén gondoskodik a közösségi támogatás átutalásáról
+az általa kezelt programszámla egyenlegének erejéig a lebonyolítási számlára. Ha a programszámla egyenlege nem
+elegendő az utalás teljesítéséhez, a Közös Irányító Hatóság gondoskodik a megfelelő összeg Európai Bizottságtól
+történő lehívásáról.”
+(2) Az R. 10. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A Közös Irányító Hatóság minden hónap 10. napjáig gondoskodik a magyar partnereknek juttatott közösségi
+forrásokról a lebonyolítási számláról történő kiutalás hónapjában érvényes, az Európai Bizottság által meghatározott
+havi árfolyamon készült – az Áht. 80. § (2) bekezdése szerinti szabályzatban meghatározott – kiegészítő szelvény
+megküldéséről a Kincstárnak.”
+4. § (1) Az R. 12. § (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) A közösségi támogatásra jóváhagyott projektek hazai partnereivel a hazai társfinanszírozási szerződés abban
+az esetben köthető meg, ha a hazai partner köztartozásmentes.”
+(2) Az R. 12. § (13) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[Nem köteles a (7) bekezdés szerinti biztosítékot nyújtani]
+„c) a helyi önkormányzat, a helyi kisebbségi önkormányzat, az önkormányzatok társulása, ha
+ca) a támogatás teljes egészében önként vállalt helyi közügy megoldását vagy önkormányzati kötelező feladat
+ellátását szolgálja, vagy
+cb) a fejlesztés tárgya vagy a fejlesztés eredményeként létrejövő vagyontárgy önkormányzati törzsvagyon vagy
+törzsvagyonná válik,”
+5. §
+Az R. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az elszámolható költségek körét a pályázati kiírás, valamint a magyar partnerek számára kidolgozott, az első
+szintű ellenőrzés irányelveit meghatározó dokumentum tartalmazza.”
+6. § (1) Az R. 14. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A dokumentum alapú ellenőrzés keretében különösen a következőket kell ellenőrizni)
+
+„a) a partner által benyújtott jelentésben szereplő költségek kifizetésre kerültek és számlákkal, számlaösszesítőkkel
+vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylattal megfelelően alátámasztottak;”
+(2) Az R. 14. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A dokumentum alapú ellenőrzés keretében különösen a következőket kell ellenőrizni)
+„c) a benyújtott számlán, számlaösszesítőn vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylaton
+szereplő teljesítés összhangban van a pályázatra vonatkozó döntéssel és a támogatási szerződéssel;”
+7. § (1) Az R. 15. § (5) bekezdés b) és c) pontja helyébe a következő rendelkezés lép:
+(A helyszíni ellenőrzések során ellenőrizni kell különösen)
+„b) a partneri jelentések és a projekt partner által megvalósított része tényleges fizikai és pénzügyi előrehaladásának
+összhangját;
+c) azt, hogy a partneri jelentést alátámasztó bizonylatok eredeti példánya a partnernél rendelkezésre áll, továbbá
+megegyezik a partner által a partneri jelentéshez benyújtott dokumentumokkal;”
+(2) Az R. 15. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A helyszíni ellenőrzések keretében a partneri jelentésekben szereplő, átalány típusú költségek
+elszámolhatóságának megállapításához mintavételesen ellenőrizni kell a számlákat, ezek között a korábbi
+számlaösszesítő(k)ben feltüntetett, de másolatban be nem nyújtott számlákat is.”
+8. §
+Az R. 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A fizetési számla vezetésével kapcsolatos költségek elszámolása közvetlenül a Magyarország központi
+költségvetéséről szóló törvény 1. melléklet XIX. Uniós fejlesztések fejezet terhére történik.”
+9. §
+Az R. 21. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A szabálytalansági vizsgálat elindításáról való döntés esetén, azzal egyidejűleg ki kell jelölni a szabálytalansági
+vizsgálat vezetőjét, valamint a vizsgálatba bevonandó szakértőket. A szabálytalanság-felelős a szabálytalansági
+gyanút, az eljárás megindításának vagy elutasításának tényét, az eljárás lezárását, a vizsgálat eredményét a döntés
+kézhezvételét követő 5 munkanapon belül rögzíti az IMIR 2007–2013-ban. Az eljárás megindításáról, az eljárás
+felfüggesztése esetén ennek tényéről, az eljárás lezárásáról, a kifizetések felfüggesztéséről a szabálytalanság-felelős
+a döntés kézhezvételét követő 2 munkanapon belül tájékoztatja az eljárásban érintetteket.”
+10. §
+Az R. 22. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A szabálytalansági vizsgálat megindítását követően a szabálytalansági vizsgálat vezetője felhívhatja a partnert
+a vizsgálat lefolytatásához szükséges további iratok becsatolására, továbbá helyszíni vizsgálat lefolytatását
+kezdeményezheti. A szabálytalansági vizsgálat vezetője a tényállás tisztázása érdekében megvizsgálhat bármely
+dokumentumot, körülményt, tényt, amely a szabálytalanság gyanújával kapcsolatos tényállás tisztázásához
+szükséges. A szabálytalansági vizsgálat során elrendelt hiánypótlás, valamint a helyszíni ellenőrzés időtartama
+az eljárási határidőbe nem számít bele.”
+11. §
+Az R. 23. § (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) A szabálytalansági vizsgálat lezárásának időpontja a (8) bekezdés szerinti intézkedés elrendelésének a napja,
+a hitelesítési tevékenységre kijelölt szervezet által lefolytatott szabálytalansági vizsgálat esetében a hitelesítési
+tevékenységre kijelölt szervezet által elrendelt intézkedés jóváhagyásának a napja.”
+12. §
+Az R. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha az Európai Bizottság vagy más, ellenőrzést végző szervezet szabálytalansági gyanút jelent be a Közös
+Irányító Hatóságot és a nemzeti hatóságot működtető központi költségvetési szerv részére, az irányító hatóság vagy
+a nemzeti hatóság vezetője szabálytalansági vizsgálatot indít. Ha a nemzeti hatóság vezetője az ellenőrzést végző
+szervezet megállapításait elfogadja, további vizsgálat lefolytatása nélkül megállapíthatja a szabálytalanságot és
+az alkalmazandó intézkedéseket.”
+13. §
+Az R. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A nemzeti hatóság a megállapított szabálytalanságokról, a megtett intézkedésekről és azok eredményéről
+– a döntést követő 10 munkanapon belül – az Európai Bizottság által meghatározott formában és tartalommal
+jelentést küld az OLAF Koordinációs Iroda részére.”
+
+14. §
+Az R. a következő 36/A. §-sal egészül ki:
+„36/A. § E rendeletnek a 2007–2013. programozási időszakban az Európai Szomszédsági és Partnerségi Támogatási
+Eszközből társfinanszírozott Magyarország–Szlovákia–Románia–Ukrajna ENPI Határon Átnyúló Együttműködési
+Program végrehajtásáról szóló 228/2008. (IX. 12.) Korm. rendelet módosításáról szóló 312/2013. (VIII. 27.)
+Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépése idején folyamatban
+lévő ügyekben is alkalmazni kell.”
+15. §
+Az R.
+ 1. 2. §-ában az„az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban:
+Ámr.)” szövegrész helyébe az „az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.)
+Korm. rendelet (a továbbiakban: Ávr.)”,
+ 2. 4/A. § (1) bekezdésében az„az Ámr. 110–154. §-ának”szövegrész helyébe az„az Ávr.”,
+ 3. 4/A. § (2) bekezdésében az„a Monitoring Bizottság”szövegrész helyébe az„a Közös Monitoring Bizottság”,
+ 4. 4/A. § (3) bekezdés i) pontjában az„a panasz”szövegrész helyébe az„a kifogás”,
+ 5. 4/A. § (4) bekezdésében az„a Monitoring Bizottság”szövegrész helyébe az„a Közös Monitoring Bizottság”,
+ 6. 6. § (6) bekezdésében az„A fizetési számláról”szövegrész helyébe az„A lebonyolítási számláról”,
+ 7. 6. § (7) bekezdésében az„a fizetési számla”szövegrész helyébe az„a lebonyolítási számla”,
+ 8. 10. § (4) bekezdésében az„a lebonyolítási fizetési számlán”szövegrész helyébe az„a lebonyolítási számlán”,
+ 9. 10. § (5) bekezdésében az „Az euró lebonyolítási bankszámláról” szövegrész helyébe az „A lebonyolítási
+számláról”,
+10. 12. § (9) bekezdésében az „Az Ámr. 113. § (3) bekezdésének” szövegrész helyébe az „Az Ávr. 72. §
+(3) bekezdésének”,
+11. 14. § (3) bekezdésében az „a közbeszerzésekről szóló 2003. évi CXXIX. törvény” szövegrész helyébe
+az„a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.)”,
+12. 14. § (4) bekezdésében az „a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.)”
+szövegrész helyébe az„a Kbt.”,
+13. 15. § (9) bekezdés b) pontjában a„hitelesítési nyilatkozatokat”szövegrész helyébe az„igazoló nyilatkozatokat”,
+14. 15. § (9) bekezdés c) pontjában az„igazolására”szövegrész helyébe az„igazolásának előkészítésére”,
+15. 19. § (4) bekezdésében az „az euró lebonyolítási fizetési számlára” szövegrész helyébe az „a lebonyolítási
+számlára”,
+16. 19. § (6) bekezdésében az„a fizetési számlán”szövegrész helyébe az„a lebonyolítási számlán”,
+17. 19. § (7) bekezdésében az „Az euró lebonyolítási fizetési számláról” szövegrész helyébe az „A lebonyolítási
+számláról”,
+18. 21. § (3) bekezdésében az „a bejelentést követő 2 munkanapon” szövegrész helyébe az „a bejelentés
+kézhezvételét követő 5 munkanapon”, az „a tudomásszerzést követően 2 munkanapon” szövegrész helyébe
+az„a tudomásszerzést követő 5 munkanapon”,
+19. 22. § (2) bekezdésében az„értesítést követően”szövegrész helyébe az„értesítés kézhezvételét követően”,
+20. 23. § (6) bekezdésében az „a Kbt. 327. § (2) bekezdésében foglaltakkal összhangban” szövegrész helyébe
+az„a Kbt. rendelkezéseivel összhangban”,
+21. 25. §-ában a „belső ellenőrzését” szövegrész helyébe a „belső ellenőrzések lefolytatásáért felelős szervezeti
+egységét”,
+22. 26. § (1) bekezdésében az „az euró lebonyolítási fizetési számlán” szövegrész helyébe az „a lebonyolítási
+számlán”,
+23. 26. § (2) bekezdésében az „az Áht. 13/C. § értelmében” szövegrész helyébe az „az Ávr. 97. §-a értelmében”,
+az„euró lebonyolítási fizetési számlájára”szövegrész helyébe a„lebonyolítási számlájára”,
+24. 29. §-ában a „belső ellenőrzési egysége” szövegrész helyébe a „belső ellenőrzések lefolytatásáért felelős
+szervezeti egysége”, az „a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet”
+szövegrész helyébe az „a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló
+370/2011. (XII. 31.) Korm. rendelet”
+szöveg lép.
+16. §
+Hatályát veszti az R.
+a) 3. § (2) bekezdésében az „a 2007–2013. programozási időszakban az Európai Regionális Fejlesztési Alapból,
+az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának alapvető
+
+szabályairól és felelős intézményeiről szóló 255/2006. (XII. 8.) Korm. rendeletben,” valamint az „a 2007–2013.
+programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási
+Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjainak végrehajtásáról szóló
+35/2008. (II. 23.) Korm. rendeletben,”,
+b) 11. § (4) bekezdésében a„fizetési”,
+c) 14. § (2) bekezdés f) pontjában az„ , azaz a szükséges ellenőrzési nyomvonal létezik”,
+d) 19. § (1) bekezdésében az„euró fizetési”,
+e) 35. § (1) bekezdésében a„ , kizárólag az IMIR 2007–2013-ban elkészített dokumentumokkal”
+szövegrész.
+17. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+18. §
+Ez a rendelet
+a) az Európai Szomszédsági és Partnerségi Támogatási Eszköz létrehozására vonatkozó általános rendelkezések
+meghatározásáról szóló, 2006. október 24-i 2006/1638/EK európai parlamenti és tanácsi rendelet,
+b) az európai szomszédsági és partnerségi támogatási eszköz létrehozására vonatkozó általános rendelkezések
+meghatározásáról szóló 1638/2006/EK európai parlamenti és tanácsi rendelet keretében finanszírozott,
+határokon átnyúló együttműködési programok végrehajtási szabályainak megállapításáról szóló, 2007.
+augusztus 9-i 951/2007/EK bizottsági rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
