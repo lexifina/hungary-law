@@ -1,6 +1,6 @@
 ## 1. megállapítja az 1. melléklet szerint a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének 4. prioritását,
 
-## 2. visszavonja a Gazdaságfejlesztési Operatív Program 2011–2013. évekre szóló akciótervének elfogadásáról szóló 1647/2012. (XII. 19.) Korm. határozat 1. mellékletének 4. prioritásra vonatkozó részeit.
+## 2.[^2]
 
 1. melléklet az 1577/2013. (VIII. 27.) Korm. határozathoz
 
@@ -61,3 +61,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011–2013)*
 | 4. | Prioritás | 203,6 |  |
 
 * A támogatási konstrukciók tartalmazzák a holding alap működésére felhasználható költségtérítést. Az uniós előírások alapján Forráskezelő Szervezet részére nyújtható költségtérítés mértéke a mindenkori pénzügyi eszközök finanszírozási keretéből (hitel programok, a garancia programok és a kockázati tőke programok kereteiből) a programszámlákra összesen lehívott összegek maximum 2%-a lehet. A programszámlákra lehívott összegek alatt kizárólag az unió felé elszámolt kiadások értendők. A költségtérítés összege a hatályos Finanszírozási Szerződésben kerül meghatározásra.
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
