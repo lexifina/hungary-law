@@ -1,0 +1,1 @@
+## „(2) Az (1) bekezdésben meg nem határozott fogalmakat a bányászatról szóló 1993. évi XLVIII. törvényben, a távhőszolgáltatásról szóló 2005. évi XVIII. törvényben, a VET-ben, a Büat.-ban és ezek végrehajtási rendeleteiben meghatározottak szerint kell értelmezni.”
