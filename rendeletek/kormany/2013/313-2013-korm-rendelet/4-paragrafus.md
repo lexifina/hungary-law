@@ -1,0 +1,1 @@
+## „(6) A helyszíni ellenőrzések keretében a partneri jelentésben szereplő költségek elszámolhatóságának megállapításához mintavételesen ellenőrizni kell a számlákat, ezek között a korábbi számlaösszesítőkben feltüntetett, de másolatban be nem nyújtott számlákat is.”
