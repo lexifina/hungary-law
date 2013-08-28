@@ -1,4 +1,4 @@
-21/H. §[^58] (1) A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezetnek gondoskodnia kell a projektrészek megvalósításának helyszíni ellenőrzéséről.
+21/H. §[^61] (1) A hitelesítés részeként a hitelesítési tevékenységre kijelölt szervezetnek gondoskodnia kell a projektrészek megvalósításának helyszíni ellenőrzéséről.
 
 (2) Ha a projektrész megvalósításához nyújtott közösségi és hazai társfinanszírozás összege nem haladja meg a 200 ezer eurót, a projektrész befejezése és a hazai partner által benyújtott záró jelentés elfogadása között legalább egy helyszíni ellenőrzést le kell folytatni. Ezen felül a helyszíni ellenőrzést akkor is le kell folytatni, ha azt a kockázatelemzés eredménye indokolja.
 
@@ -10,9 +10,9 @@
 
 a) a projekt hazai partner által megvalósított részének támogatási szerződésnek megfelelő fizikai és pénzügyi előrehaladását,
 
-b) az előrehaladási jelentések és a projekt hazai partner által megvalósított részének tényleges fizikai és pénzügyi előrehaladásának összhangját,
+b)[^62] a partneri jelentések és a projekt hazai partner által megvalósított részének tényleges fizikai és pénzügyi előrehaladásának összhangját,
 
-c) a kifizetési kérelmet alátámasztó bizonylatok eredeti példánya a hazai partnernél rendelkezésre áll és fellelhető, továbbá megegyezik a partner által a kifizetési kérelemhez benyújtott hiteles másolatokkal,
+c)[^63] azt, hogy a partneri jelentéseket alátámasztó bizonylatok eredeti példánya a hazai partnernél rendelkezésre áll és fellelhető, továbbá megegyezik a partner által a partneri jelentésekhez benyújtott hiteles másolatokkal,
 
 d) a hazai partner által benyújtott nyilatkozat összhangját az azt megalapozó bizonylatokkal,
 
@@ -26,10 +26,13 @@ h) az állami támogatásokkal, a környezetvédelemmel, az esélyegyenlőségge
 
 i) az elkülönített számviteli nyilvántartás vezetését.
 
-(6) A helyszíni ellenőrzések keretében a kifizetési kérelemben szereplő költségek elszámolhatóságának megállapításához ellenőrizni kell a számlákat, ezek között a korábbi számlaösszesítőkben feltüntetett, de másolatban be nem nyújtott számlákat is, a számlákhoz kapcsolódó szerződéseket, és az azokhoz kapcsolódó teljesítésigazolásokat.
+(6)[^64] A helyszíni ellenőrzések keretében a partneri jelentésben szereplő költségek elszámolhatóságának megállapításához mintavételesen ellenőrizni kell a számlákat, ezek között a korábbi számlaösszesítőkben feltüntetett, de másolatban be nem nyújtott számlákat is.
 
 (7) A hitelesítési tevékenységet megfelelően dokumentálni kell, rögzítve az elvégzett munkát, a hitelesítés eredményeit, hibák feltárása esetén a megtett intézkedéseket, szabálytalanság gyanúja esetén a szabálytalansági eljárás megindításának kezdeményezését.
 
 (8) A hitelesítési tevékenységre kijelölt szervezet a 21. § (1) bekezdése és az (1) bekezdés szerinti ellenőrzések elvégzését követően hitelesítési nyilatkozatot állít ki a hazai partner részére.
 
-[^58]: A 21/H. §-t a 216/2012. (VIII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^61]: A 21/H. §-t a 216/2012. (VIII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^62]: A 21/H. § (5) bekezdés b) pontja a 313/2013. (VIII. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^63]: A 21/H. § (5) bekezdés c) pontja a 313/2013. (VIII. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^64]: A 21/H. § (6) bekezdése a 313/2013. (VIII. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

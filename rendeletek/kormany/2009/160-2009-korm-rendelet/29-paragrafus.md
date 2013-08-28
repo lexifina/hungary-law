@@ -2,10 +2,12 @@
 
 (2) A támogatási folyamat bármely szakaszában a szervezet azon tagja, aki szabálytalanság gyanúját észleli, vagy akinek ilyen gyanú tudomására jut, köteles haladéktalanul írásban rögzíteni azt, és megküldeni a szervezete szabálytalanság-felelősének.
 
-(3) Az Irányító Hatóság és a Nemzeti Hatóság vezetője a tudomásszerzést követően 2 munkanapon belül dönt a szabálytalansági gyanú saját hatáskörben való vizsgálatáról, vagy a szabálytalansági gyanú kivizsgálására vonatkozó javaslat és a kapcsolódó dokumentumoknak a hitelesítési tevékenységre kijelölt szervezet részére történő átadásáról.
+(3)[^85] Az Irányító Hatóság és a Nemzeti Hatóság vezetője a kézhezvételt követő 5 munkanapon belül dönt a szabálytalansági gyanú saját hatáskörben való vizsgálatáról, vagy a szabálytalansági gyanú kivizsgálására vonatkozó javaslat és a kapcsolódó dokumentumoknak a hitelesítési tevékenységre kijelölt szervezet részére történő átadásáról.
 
 (4) Amennyiben az Európai Bizottság, az Ellenőrzési Hatóság, az Igazoló Hatóság vagy más, ellenőrzést végző szervezet szabálytalanság gyanújáról értesíti az Irányító Hatóságot és a Nemzeti Hatóságot működtető központi költségvetési szerv vezetőjét, akkor a szerv vezetője (vagy döntése alapján az érintett szervezet vezetője) köteles elrendelni a szabálytalansági vizsgálatot vagy intézkedni arról, hogy a hitelesítési tevékenységre kijelölt szervezet a szabálytalansági vizsgálatot lefolytassa. Ha az Irányító Hatóságot és a Nemzeti Hatóságot működtető központi költségvetési szerv vezetője az ellenőrzést végző szerv megállapításait elfogadja, további vizsgálat lefolytatása nélkül megállapíthatja a szabálytalanságot és egyben dönthet a szükséges intézkedésekről.
 
 (5) A hitelesítési tevékenységre kijelölt szervezet által indított szabálytalansági vizsgálat lefolytatásának jogát az Irányító Hatóság és a Nemzeti Hatóság vezetője az IMIR 2007–2013-ban történő rögzítést követő 5 munkanapon belül magához vonhatja. Erről a döntéséről haladéktalanul értesíti a hitelesítési tevékenységre kijelölt szervezetet.
 
 (6) A hitelesítési tevékenységre kijelölt szervezet szabálytalanság-felelőse a rendelkezésre álló eredeti dokumentumokat – másolat megtartása mellett – a vizsgálat lefolytatásának elvonásáról szóló döntésről való értesítést követően megküldi a Nemzeti Hatóság részére.
+
+[^85]: A 29. § (3) bekezdése a 313/2013. (VIII. 27.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
