@@ -1,3 +1,5 @@
+## 48. §[^5]
+
 1. melléklet a 15/2013. (VIII. 22.) HM rendelethez
 
 ## Érdemjelek leírása
@@ -9,3 +11,5 @@ Az állomány tagja részére szalagsáv, más személyek esetén miniatűr ker�
 2. Szövetségért Érdemjel leírása: előlapján nemzeti színű zsinórminta által körbefogott fehér mezőben Magyarország aranyszínű címerét ábrázoló rátét látható. Az érem 38 mm átmérőjű, kör alakú, tombak anyagú, zománcozott, aranyozott kivitelben. A szalag háromszög alakúra hajtott, világoszöld, középen a nemzeti színeket tartalmazó sávval.
 
 3. Szolgálati Érdemjel leírása: az előlapján szalaggal átfont, zöld zománcozott babérkoszorúval határolt, fehér zománcozott ovális mezőben Magyarország aranyszínű címerét ábrázoló rátét nemzeti zászlókkal határolva. A babérkoszorú belső ívén, a fokozatoknak megfelelően arany, ezüst, bronz sáv látható, amely azonos a babérkoszorút átfonó szalag színével. Hátlapjának sima fémfelülete a fokozatnak megfelelő színű. A szalag háromszög alakúra hajtott, színe fokozatonként piros, fehér, illetve zöld, széleit nemzeti színű farkasfog minta díszíti. Az érem mérete 43Ű35 mm, anyaga tombak, zománcozott, aranyozott rátéttel kivitelezve. A Babérkoszorúval ékesített Szolgálati Érdemjel szalagján zöld zománcos, stilizált babérkoszorú ékítmény van.
+
+[^5]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
