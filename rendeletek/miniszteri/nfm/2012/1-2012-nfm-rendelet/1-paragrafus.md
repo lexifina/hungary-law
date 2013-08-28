@@ -8,6 +8,8 @@
 
 3. harmadik állammal történő közös beruházás: Magyarország és nem EGT-állam (a továbbiakban: harmadik állam) közötti együttműködés, amelynek tárgya megújuló forrásból származó villamos energia termelésére irányuló közös beruházás megvalósítása a nemzeti célértékek teljesítése érdekében;
 
+3a.[^1] hatásfok: az energiatermelő rendszer által előállított hasznos, közvetlenül hasznosítható energia, és az energiatermelő rendszerben az energiatermeléshez felhasznált energia hányadosa;
+
 4. hidrotermikus energia: a felszíni vizekben hő formájában tárolt energia;
 
 5. kölcsönösen elismert elosztási szabály: a megújuló forrásból előállított energiának a közös támogatási rendszerben részt vevő EGT-államok (a továbbiakban: tagállam) közötti elosztása;
@@ -17,6 +19,10 @@
 7. közös támogatási rendszerek: Magyarország és egy vagy több tagállam közötti megállapodás, amelynek célja a részes felek megújuló forrásból származó energia termelésére vonatkozó támogatási rendszerének összehangolása a megújuló forrásokból előállított energia felhasználásának ösztönzése érdekében;
 
 8. légtermikus energia: hő formájában a környezeti levegőben tárolt energia;
+
+8a.[^2] megújuló energiaforrásból energiát termelő rendszer: a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) szerinti megújuló energiaforrást hasznosító olyan berendezés, amely villamos energia, hő-, hűtési energia termelésére szolgál;
+
+8b.[^3] megújuló energiával kapcsolatos kötelezettség: a megújulóenergia-támogatási rendszer keretében meghatározható olyan követelmény, amely kötelezi a termelőket, ellátókat vagy a felhasználókat, hogy a termelésben, az ellátásban vagy a fogyasztásban felhasznált energia egy meghatározott részét megújuló energiaforrásokból előállított energiából fedezzék, ideértve az olyan rendszereket is, amelyek lehetővé teszik az említett követelményeknek a VET szerinti zöld bizonyítványok útján történő teljesítését;
 
 9. megújuló forrásból előállított energia: nem fosszilis és nem nukleáris forrásokból származó nap-, szélenergia, a hullám-, árapályból nyert energia, vízenergia, továbbá biomassza, biomasszából közvetve vagy közvetlenül előállított energia, a biogázok energiája, továbbá a geotermikus, hidrotermikus, légtermikus energia;
 
@@ -28,4 +34,9 @@
 
 13. statisztikai átruházás: megújuló forrásból származó energiatöbblet statisztikai szempontból történő átadása egy másik tagállamnak.
 
-(2) Az (1) bekezdésben meg nem határozott fogalmakat a bányászatról szóló 1993. évi XLVIII. törvény, a távhőszolgáltatásról szóló 2005. évi XVIII. törvény, a villamos energiáról szóló 2007. évi LXXXVI. törvény, a Büat. és ezek végrehajtási rendeleteiben meghatározottak szerint kell értelmezni.
+(2)[^4] Az (1) bekezdésben meg nem határozott fogalmakat a bányászatról szóló 1993. évi XLVIII. törvényben, a távhőszolgáltatásról szóló 2005. évi XVIII. törvényben, a VET-ben, a Büat.-ban és ezek végrehajtási rendeleteiben meghatározottak szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés 3a. pontját az 50/2013. (VIII. 27.) NFM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés 8a. pontját az 50/2013. (VIII. 27.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (1) bekezdés 8b. pontját az 50/2013. (VIII. 27.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^4]: Az 1. § (2) bekezdése az 50/2013. (VIII. 27.) NFM rendelet 1. § (4) bekezdésével megállapított szöveg.
