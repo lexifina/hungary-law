@@ -1,0 +1,117 @@
+## 1. a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XIII. Honvédelmi Minisztérium fejezetet a 7. Gábor Dénes Elektronikai Műszaki Szakközépiskola és Kollégium címmel egészíti ki,
+
+## Felelős: nemzetgazdasági miniszter
+
+## honvédelmi miniszter
+
+## Határidő: azonnal
+
+## 2. a Gábor Dénes Elektronikai Műszaki Szakközépiskola és Kollégium fenntartói jogának átvétele céljából 73 358 ezer forint tartós átcsoportosítását rendeli el a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 18. Köznevelési feladatellátás és irányítás intézményei cím terhére, a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 7. Gábor Dénes Elektronikai Műszaki Szakközépiskola és Kollégium cím javára az 1. melléklet szerint.
+
+## Felelős: emberi erőforrások minisztere
+
+## honvédelmi miniszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1580/2013. (VIII. 28.) Korm. határozathoz
+
+XX. Emberi Erőforrások Minisztériuma
+
+XIII. Honvédelmi Minisztérium
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XX |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 334484 |  | 18 |  |  |  |  |  |  | Köznevelési feladatellátás és irányítás intézményei |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | -46 291 | -92 581 |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | -12 499 | -24 997 |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -14 568 | -20 396 |  |  |
+
+|  | XIII |  |  |  |  |  |  | Honvédelmi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 342606 |  | 7 |  |  |  |  |  |  | Gábor Dénes Elektronikai Műszaki Szakközépiskola és Kollégium |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 46 291 | 92 581 |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | 12 499 | 24 997 |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 14 568 | 20 396 |  |  |
+
+| Az előirányzatmódosítás érvényessége: b.) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+| Az előirányzatmódosítás érvényessége: b.) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XX |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 334484 |  | 18 |  |  |  |  |  |  | Köznevelési feladatellátás és irányítás intézményei |  |  |  |  |  |  |  |  | -73 358 | -137 974 |  |  |
+
+|  | XIII |  |  |  |  |  |  | Honvédelmi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 342606 |  | 7 |  |  |  |  |  |  | Gábor Dénes Elektronikai Műszaki Szakközépiskola és Kollégium |  |  |  |  |  |  |  |  | 73 358 | 137 974 |  |  |
+
+| Az előirányzatmódosítás érvényessége: b.) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Foglalkoztatottak létszáma: 57 fő |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnali |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 73 358 |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
