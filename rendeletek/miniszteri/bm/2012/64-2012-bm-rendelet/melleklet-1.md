@@ -1,4 +1,4 @@
-1. melléklet a 64/2012. (XII. 12.) BM rendelethez
+1. melléklet a 64/2012. (XII. 12.) BM rendelethez[^2]
 
 ## Ruházati alapellátási normák
 
@@ -71,6 +71,18 @@
 | 33. | Társasági tábornoki kalap, női, fekete | db |  |  |  |  | 2 |  |  |  |  |
 
 | 34. | Társasági póló, hosszú ujjú, fehér | db | 3 | 3 | 6 | 6 | 6 | 3 | 3 |  |  |
+
+| 34a. | Társasági ing, hosszú ujjú, fehér | db | 2 |  | 3 | 3 |  | 2 |  |  |  |
+
+| 34b. | Társasági ing, női, hosszú ujjú, fehér | db |  | 2 |  |  | 3 |  | 2 |  |  |
+
+| 34c. | Nyakkendő, parlamenti bordó | db | 1 | 1 | 2 | 2 | 2 | 1 | 1 |  |  |
+
+| 34d. | Nyakkendőtű, parlamenti | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
+
+| 34e. | Hímzett karjelvény | db | 1 | 1 | 3 | 3 | 3 | 2 | 2 |  |  |
+
+| 34f. | Hímzett karjelvény, tépőzáras | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
 | 35. | Társasági zubbony, zöld* | db | 1 |  | 2 |  |  | 1 |  |  |  |
 
@@ -157,3 +169,5 @@ A ruházati alapellátási normák megjelölései:
 8. P1: férfi polgári ruhás alapellátási norma
 
 9. P2: női polgári ruhás alapellátási norma
+
+[^2]: Az 1. melléklet a 49/2013. (VIII. 27.) BM rendelet 1. §-a szerint módosított szöveg.

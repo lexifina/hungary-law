@@ -18,7 +18,7 @@ db) a munka- és védőruházat, valamint a védőeszközök, védőfelszerelés
 
 dc) a ruházati egységfelszerelési anyagok,
 
-dd) a szolgálati azonosító jelvény, a hivatásos állománykategóriát kifejező jelvény, a testületi jelvény, a kitüntetések és tartozékai, valamint
+dd)[^1] a szolgálati azonosító jelvény, a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a kitüntetések és tartozékai, valamint
 
 de) a javító és karbantartó anyagok;
 
@@ -29,3 +29,5 @@ ea) egyenruhás alapellátási norma, amely egyenruházati termékeket és felsz
 eb) vegyes ruhás alapellátási norma, amely egyenruházati termékeket és felszerelési cikkeket tartalmaz, az e normába besoroltak szolgálati feladatok ellátása során polgári ruházatot és egyenruházatot is viselhetnek,
 
 ec) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében szolgálati ruházatot tartalmaz, az e normába besoroltak alapvetően polgári ruházatban teljesítenek szolgálatot.
+
+[^1]: Az 1. § d) pont dd) alpontja a 49/2013. (VIII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
