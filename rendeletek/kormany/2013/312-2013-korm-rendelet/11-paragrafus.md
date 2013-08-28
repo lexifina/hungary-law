@@ -1,0 +1,3 @@
+## 10. § Az R. 22. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A szabálytalansági vizsgálat megindítását követően a szabálytalansági vizsgálat vezetője felhívhatja a partnert a vizsgálat lefolytatásához szükséges további iratok becsatolására, továbbá helyszíni vizsgálat lefolytatását kezdeményezheti. A szabálytalansági vizsgálat vezetője a tényállás tisztázása érdekében megvizsgálhat bármely dokumentumot, körülményt, tényt, amely a szabálytalanság gyanújával kapcsolatos tényállás tisztázásához szükséges. A szabálytalansági vizsgálat során elrendelt hiánypótlás, valamint a helyszíni ellenőrzés időtartama az eljárási határidőbe nem számít bele.”

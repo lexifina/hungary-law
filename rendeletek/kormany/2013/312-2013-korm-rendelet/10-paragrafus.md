@@ -1,0 +1,3 @@
+## 9. § Az R. 21. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A szabálytalansági vizsgálat elindításáról való döntés esetén, azzal egyidejűleg ki kell jelölni a szabálytalansági vizsgálat vezetőjét, valamint a vizsgálatba bevonandó szakértőket. A szabálytalanság-felelős a szabálytalansági gyanút, az eljárás megindításának vagy elutasításának tényét, az eljárás lezárását, a vizsgálat eredményét a döntés kézhezvételét követő 5 munkanapon belül rögzíti az IMIR 2007–2013-ban. Az eljárás megindításáról, az eljárás felfüggesztése esetén ennek tényéről, az eljárás lezárásáról, a kifizetések felfüggesztéséről a szabálytalanság-felelős a döntés kézhezvételét követő 2 munkanapon belül tájékoztatja az eljárásban érintetteket.”
