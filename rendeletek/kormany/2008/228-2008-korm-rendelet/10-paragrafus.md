@@ -6,13 +6,15 @@
 
 (2) A Közös Technikai Titkárság kezdeményezése alapján a pénzügyi átutalási egység összeállítja az IMIR 2007–2013-ban rögzített, még le nem hívott közösségi támogatásra jogosult hitelesített költségek összesítését tartalmazó dokumentációt (a továbbiakban: forráslehívási dokumentáció), majd azt elektronikusan és nyomtatott formában benyújtja jóváhagyásra a Közös Irányító Hatósághoz.
 
-(3) A Közös Irányító Hatóság a közösségi hozzájárulás forráslehívási dokumentáció benyújtását követően dönt annak jóváhagyásáról vagy elutasításáról, és jóváhagyás esetén gondoskodik a közösségi támogatás átutalásáról az általa kezelt programszámla egyenlegének erejéig az euró lebonyolítási bankszámlára. A Közös Irányító Hatóság az euró program számláról részteljesítést nem végez. Amennyiben a programszámla egyenlege nem elegendő az utalás teljesítéséhez, a Közös Irányító Hatóság gondoskodik a megfelelő összeg Európai Bizottságtól történő lehívásáról.
+(3)[^26] A Közös Irányító Hatóság a közösségi hozzájárulás forráslehívási dokumentáció benyújtását követően dönt annak jóváhagyásáról vagy elutasításáról, és jóváhagyás esetén gondoskodik a közösségi támogatás átutalásáról az általa kezelt programszámla egyenlegének erejéig a lebonyolítási számlára. Ha a programszámla egyenlege nem elegendő az utalás teljesítéséhez, a Közös Irányító Hatóság gondoskodik a megfelelő összeg Európai Bizottságtól történő lehívásáról.
 
-(4)[^22] A pénzügyi átutalási egység a lebonyolítási fizetési számlán történt jóváírásról szóló fizetési számla kivonat kézhezvételét követően indítja a Kedvezményezettek fizetési számláinak javára a közösségi támogatások kifizetésre jóváhagyott összegét euróban.
+(4)[^27] A pénzügyi átutalási egység a lebonyolítási számlán történt jóváírásról szóló fizetési számla kivonat kézhezvételét követően indítja a Kedvezményezettek fizetési számláinak javára a közösségi támogatások kifizetésre jóváhagyott összegét euróban.
 
-(5) Az euró lebonyolítási bankszámláról csak akkor lehet átutalást kezdeményezni, ha a kifizetési kérelemmel kapcsolatos adatok az IMIR 2007–2013-ben rögzítésre és jóváhagyásra kerültek.
+(5)[^28] A lebonyolítási számláról csak akkor lehet átutalást kezdeményezni, ha a kifizetési kérelemmel kapcsolatos adatok az IMIR 2007–2013-ben rögzítésre és jóváhagyásra kerültek.
 
-(6)[^23] A Közös Irányító Hatóság és Nemzeti Hatóság minden hónap 10-éig gondoskodik a Kedvezményezetteknek juttatott közösségi forrásokról az elkészítés hónapjában érvényes, az Európai Bizottság által meghatározott havi árfolyamon készült – a kincstári rendszer működésével kapcsolatos pénzügyi szolgáltatások teljesítésének rendjéről szóló miniszteri rendeletben szabályozott – kiegészítő szelvény megküldéséről a Kincstárnak.
+(6)[^29] A Közös Irányító Hatóság minden hónap 10. napjáig gondoskodik a magyar partnereknek juttatott közösségi forrásokról a lebonyolítási számláról történő kiutalás hónapjában érvényes, az Európai Bizottság által meghatározott havi árfolyamon készült – az Áht. 80. § (2) bekezdése szerinti szabályzatban meghatározott – kiegészítő szelvény megküldéséről a Kincstárnak.
 
-[^22]: A 10. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 57. § (2) bekezdése szerint módosított szöveg.
-[^23]: A 10. § (6) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^26]: A 10. § (3) bekezdése a 312/2013. (VIII. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^27]: A 10. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 57. § (2) bekezdése, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
+[^28]: A 10. § (5) bekezdése a 312/2013. (VIII. 27.) Korm. rendelet 15. § 9. pontja szerint módosított szöveg.
+[^29]: A 10. § (6) bekezdése a 312/2013. (VIII. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
