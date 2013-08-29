@@ -4,7 +4,7 @@
 
 (2) A 12. § (6) bekezdésében, valamint a 13. § (12) bekezdésében foglaltakat az e rendelet hatálybalépését követően indult eljárások tekintetében kell alkalmazni.
 
-(3)–(6)[^50]
+(3)–(6)[^51]
 
 (7) Az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendelet (a továbbiakban: R.) a következő 2/A. §-sal egészül ki:
 
@@ -12,4 +12,4 @@
 
 (8) Az R. 16. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^50]: A 29. § (3)–(6) bekezdését a 29/2011. (VI. 7.) NEFMI rendelet 31. § g) pontja hatályon kívül helyezte.
+[^51]: A 29. § (3)–(6) bekezdését a 29/2011. (VI. 7.) NEFMI rendelet 31. § g) pontja hatályon kívül helyezte.

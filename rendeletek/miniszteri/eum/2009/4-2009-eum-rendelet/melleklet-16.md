@@ -1,4 +1,4 @@
-16. melléklet a 4/2009. (III. 17.) EüM rendelethez[^65]
+16. melléklet a 4/2009. (III. 17.) EüM rendelethez[^73]
 
 Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 17. §-a szerinti gyártó- és eszközbejelentés formanyomtatványa
 
@@ -192,4 +192,4 @@ ____________________
 
 | Város/ City | Dátum/ Date |
 
-[^65]: A 16. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 23. § (2) bekezdése iktatta be.
+[^73]: A 16. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 23. § (2) bekezdése iktatta be.

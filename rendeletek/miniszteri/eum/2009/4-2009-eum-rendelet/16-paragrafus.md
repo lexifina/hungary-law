@@ -1,6 +1,6 @@
-## Klinikai értékelés[^26]
+## Klinikai értékelés[^27]
 
-16. §[^27] (1) A 10. melléklet szerinti klinikai értékelés alapja a klinikai adat.
+16. §[^28] (1) A 10. melléklet szerinti klinikai értékelés alapja a klinikai adat.
 
 (2) A klinikai adat forrásai:
 
@@ -12,5 +12,5 @@ c) az adott eszközre vagy az adott eszközzel igazolhatóan egyenértékű, has
 
 (3) A klinikai vizsgálat engedélyezését és annak módját az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendelet és az orvostechnikai eszközök klinikai vizsgálatáról szóló miniszteri rendelet tartalmazza.
 
-[^26]: A 16. §-t megelőző alcímet a 29/2011. (VI. 7.) NEFMI rendelet 13. §-a iktatta be.
-[^27]: A 16. § a 29/2011. (VI. 7.) NEFMI rendelet 13. §-ával megállapított szöveg.
+[^27]: A 16. §-t megelőző alcímet a 29/2011. (VI. 7.) NEFMI rendelet 13. §-a iktatta be.
+[^28]: A 16. § a 29/2011. (VI. 7.) NEFMI rendelet 13. §-ával megállapított szöveg.

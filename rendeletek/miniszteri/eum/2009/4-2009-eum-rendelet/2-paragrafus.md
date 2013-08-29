@@ -14,10 +14,11 @@ d) azt az eszközt, melynek szerves része olyan humán vérből vagy humán pla
 
 ## amennyiben annak rendeltetési célja megfelel az Eütv. 3. § h) pont ha)–hd) alpontjában foglaltaknak.
 
-(3) A (2) bekezdés a) pontja szerinti, szarvasmarha, juh és kecske fajokból, valamint szarvasból, jávorszarvasból, nercből és macskafélékből származó szövetek felhasználásával készült eszközök esetében az egyes állati eredetű szövetek felhasználásával gyártott orvostechnikai eszközökről szóló 52/2004. (VI. 2.) ESZCSM rendeletben meghatározott követelményeket is alkalmazni kell.
+(3)[^5]
 
 (4) A (2) bekezdés c)–d) pontja szerinti eszközök esetében e rendelet mellett a Gytv. rendelkezéseit kell alkalmazni a gyógyszerek vonatkozásában.
 
 (5) Egy adott termék eszköznek minősülése kérdésében – kétség esetén – az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: Hivatal) határozatban dönt.
 
 [^4]: A 2. § a 10/2012. (VII. 19.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 43. § a) pontja hatályon kívül helyezte.
