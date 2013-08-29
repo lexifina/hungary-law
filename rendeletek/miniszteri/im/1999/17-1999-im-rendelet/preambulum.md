@@ -1,1 +1,0 @@
-A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 8. §-ának (4) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:

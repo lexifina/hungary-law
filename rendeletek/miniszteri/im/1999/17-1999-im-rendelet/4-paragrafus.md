@@ -1,1 +1,0 @@
-## 3. § Amennyiben a dohányzás számára külön helyiség nem jelölhető ki, abban az esetben a dohányzás az erre kijelölt zárt légterű helyen csak akkor engedélyezhető, ha a megfelelő légcsere feltételei nyílászáró szerkezetekkel vagy más műszaki berendezések felszerelésével megoldhatók.
