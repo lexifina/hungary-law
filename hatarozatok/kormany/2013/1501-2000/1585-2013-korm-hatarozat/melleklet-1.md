@@ -1,6 +1,6 @@
 ## 1. megállapítja a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint,
 
-## 2. visszavonja a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterv 2–6. prioritásának a megállapításáról szóló 1469/2012. (X. 26.) Korm. határozat 2. prioritásra vonatkozó részét.
+## 2.[^2]
 
 1. melléklet az 1585/2013. (VIII. 28.) Korm. határozathoz
 
@@ -79,3 +79,5 @@
 |  | Többlet-kötelezettségvállalás esetén tartalék | 0,00 | 0,00 | 0,00 |  |  |  |
 
 | 2. | Prioritás | 2,20 | 135,593 | 33,98 |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
