@@ -2,7 +2,7 @@
 
 (2) Nem kell pályáztatási eljárást lefolytatni, ha
 
-a)[^72]
+a)[^74]
 
 b) a haszonbérbe adandó védett területek együttes térmértéke nem haladja meg az 5 hektárt.
 
@@ -30,9 +30,9 @@ c) 7 éven belül a pályázónak természetkárosítás bűntette miatti bünte
 
 a) a Tft. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
 
-b)[^73]
+b)[^75]
 
 c) a régi magyar háziállatfajták tartását, tenyésztését és genetikai állományának megőrzését végzi, különös tekintettel a legeltetett fajokra és fajtákra.
 
-[^72]: A 43/D. § (2) bekezdés a) pontját a 153/2013. (V. 24.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
-[^73]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^74]: A 43/D. § (2) bekezdés a) pontját a 153/2013. (V. 24.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
+[^75]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.

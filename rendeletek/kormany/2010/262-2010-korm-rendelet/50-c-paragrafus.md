@@ -1,6 +1,6 @@
-## 50/B. §[^78] A Nemzeti Földalap vagyonnyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében a használó által – az 50/A. §-ban meghatározottakon felül – a szerződés típusától függően szolgáltatandó egyéb adatok körét, továbbá az adatszolgáltatás gyakoriságát, részletes tartalmát, és módját az NFA a vagyon-nyilvántartási szabályzatában határozza meg. A szerződésben rögzíteni kell, hogy a használó az NFA vagyonnyilvántartási szabályzatát megismerte, és magára nézve kötelező érvényűnek ismeri el.
+## 50/B. §[^80] A Nemzeti Földalap vagyonnyilvántartásának naprakész vezetése és az NFA beszámoló-készítési kötelezettségének megalapozottsága érdekében a használó által – az 50/A. §-ban meghatározottakon felül – a szerződés típusától függően szolgáltatandó egyéb adatok körét, továbbá az adatszolgáltatás gyakoriságát, részletes tartalmát, és módját az NFA a vagyon-nyilvántartási szabályzatában határozza meg. A szerződésben rögzíteni kell, hogy a használó az NFA vagyonnyilvántartási szabályzatát megismerte, és magára nézve kötelező érvényűnek ismeri el.
 
-50/C. §[^79] (1) A használó az adatszolgáltatási kötelezettségének teljesítése érdekében – a gazdálkodási formájának megfelelően – a saját számviteli politikáját és nyilvántartásait úgy köteles kialakítani és vezetni, hogy azok biztosítsák az adatszolgáltatás pontosságát és ellenőrizhetőségét.
+50/C. §[^81] (1) A használó az adatszolgáltatási kötelezettségének teljesítése érdekében – a gazdálkodási formájának megfelelően – a saját számviteli politikáját és nyilvántartásait úgy köteles kialakítani és vezetni, hogy azok biztosítsák az adatszolgáltatás pontosságát és ellenőrizhetőségét.
 
 (2) A nyilvántartás pontossága és az adatellenőrzések biztosítása érdekében a használó köteles az NFA-val együttműködni.
 
@@ -10,5 +10,5 @@
 
 (5) Ha a használó központi költségvetési szerv, az NFA a (4) bekezdés szerinti mulasztást jelzi az irányítást vagy felügyeletet ellátó szerv vezetőjének. Az irányítást vagy felügyeletet ellátó szerv vezetője a jelzés nyomán tett intézkedéseiről köteles az NFA-t tájékoztatni.
 
-[^78]: Az 50/B. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
-[^79]: Az 50/C. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
+[^80]: Az 50/B. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
+[^81]: Az 50/C. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
