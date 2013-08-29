@@ -1,3 +1,1 @@
-## 45. §[^19]
-
-[^19]: A 45. § a 47. § (2) bekezdése alapján 2013. augusztus 29-én lép hatályba.
+## 45. § Hatályát veszti az egyes állati eredetű szövetek felhasználásával gyártott orvostechnikai eszközökről szóló 52/2004. (VI. 2.) ESZCSM rendelet.
