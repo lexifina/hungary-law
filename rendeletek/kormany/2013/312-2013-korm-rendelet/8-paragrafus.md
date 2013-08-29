@@ -1,1 +1,0 @@
-## „(6) A helyszíni ellenőrzések keretében a partneri jelentésekben szereplő, átalány típusú költségek elszámolhatóságának megállapításához mintavételesen ellenőrizni kell a számlákat, ezek között a korábbi számlaösszesítő(k)ben feltüntetett, de másolatban be nem nyújtott számlákat is.”
