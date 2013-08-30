@@ -1,1 +1,3 @@
-## 45. § Hatályát veszti az egyes állati eredetű szövetek felhasználásával gyártott orvostechnikai eszközökről szóló 52/2004. (VI. 2.) ESZCSM rendelet.
+## 45. §[^19]
+
+[^19]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
