@@ -1,25 +1,26 @@
-## 1. A hallgatói ösztöndíjszerződések nyilvántartásáért felelős szervnek a hallgatói ösztöndíjszerződés nyilvántartásával, kezelésével kapcsolatos eljárására vonatkozó szabályok
+## 1. [^1] A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásával kapcsolatos eljárásaira vonatkozó szabályok
 
-1. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 48/A. § c) és d) pontja szerinti visszatérítési kötelezettség alkalmazása során
+1. § (1)[^2] A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 48/A. § c) és d) pontja szerinti visszatérítési kötelezettség alkalmazása során
 
-a) az Nftv. 48/A. § c) pontja szerinti visszatérítési kötelezettség
+a) az Nftv. 48/A. § c) pontja szerinti visszatérítési kötelezettséget megállapító határozatot az Oktatási Hivatal (a továbbiakban: Hivatal)
 
-aa) a hallgatói jogviszony megszűnését követő, az Nftv. 48/I. § (2) bekezdése szerinti kiértesítés kézhezvételétől számított harmincadik napon,
+aa) – az átvétel kivételével – a hallgatói jogviszony megszűnését követő,
 
-ab) a képzés lezárása esetén a képzés végdátumát követő, Nftv. 48/I. § (2) bekezdése szerinti kiértesítés kézhezvételétől számított harmincadik napon,
+ab) az adott képzésen a képzési és kimeneti követelményekben meghatározott képzési idő másfélszeresének leteltét követő,
 
-ac) képzésváltás és átvétel esetén az új képzéshez kapcsolódó hallgatói jogviszony megszűnését követő, az Nftv. 48/I. § (2) bekezdése szerinti kiértesítés kézhezvételétől számított harmincadik napon,
+az Nftv. 48/I. § (2) bekezdése szerinti közléstől számított legfeljebb harmincadik napon hozza meg,
 
-ad) az adott képzésen a képzési idő másfélszeresének leteltét követő Nftv. 48/I. § (2) bekezdése szerinti kiértesítés kézhezvételétől számított harmincadik napon,
-
-b) az Nftv. 48/A. § d) pontja szerinti visszatérítési kötelezettség az oklevél – ennek hiányában a végbizonyítvány – kiállítása napjától számított húsz év elteltével
-
-válik esedékessé.
+b) az Nftv. 48/A. § d) pontja szerinti visszatérítési kötelezettséget megállapító határozatot a Hivatal az oklevél kiállítása napjától számított huszadik évet követő, az Nftv. 48/I. (3) bekezdése szerinti közléstől számított legfeljebb harmincadik napon hozza meg.
 
 (2) Az Nftv. 48/A. § b) és d) pontja szerinti kötelezettség teljesítését – az Nftv. 48/B. § (7) bekezdésében meghatározottakon felül – képzésenként kell számítani azzal, hogy a hallgató számára kedvezőbb számítási módot kell alkalmazni a teljesítés során.
 
-(3) A hallgatói ösztöndíjszerződésben vállalt kötelezettség teljesítése szempontjából a képzési időt tanulmányi félévben (5 hónapban) kell számolni.
+(3)[^3] A magyar állami ösztöndíj feltételei teljesítése szempontjából a képzési időt tanulmányi félévben (5 hónapban) kell számolni.
 
 (4) Képzésváltás esetén az állami (rész)ösztöndíjjal folytatott tanulmányok idejébe beleszámít a hallgató képzésváltása előtti képzésén igénybe vett állami (rész)ösztöndíjjal támogatott tanulmányok ideje.
 
-(5) Nem minősül képzésváltásnak a felvételi jelentkezéssel kapcsolatos jogorvoslati kérelem eredményeképpen módosított besorolási döntés alapján más képzésen folytatott tanulmány. A módosított besorolási döntésre tekintettel a Hivatal új szerződés kötését köteles kezdeményezni. E szerződés teljesítése szempontjából a módosított besorolási döntés szerinti képzés képzési ideje és e képzés megkezdésének időpontja az irányadó.
+(5)[^4]
+
+[^1]: Az 1. alcím címe a 325/2013. (VIII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (5) bekezdését a 325/2013. (VIII. 29.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.

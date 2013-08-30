@@ -1,15 +1,26 @@
+## 1/A. §[^5] A megállapított visszatérítési kötelezettséget az esedékesség napjáig a Hivatal Magyar Államkincstárnál vezetett ösztöndíj-visszafizetési célelszámolási számlájára kell befizetni. A befizetéseket a Hivatal elkülönítetten kezeli, az egyenlegnek megfelelő összeget negyedéves rendszerességgel átutalja a Felsőoktatási Struktúraátalakítási Alapba.
+
 2. § (1) Az Nftv., valamint e rendelet magyar állami (rész)ösztöndíjas képzésre történő beiratkozásra vonatkozó rendelkezéseit a magyar állami (rész)ösztöndíjas képzésre történő átsorolást követő első félévre való bejelentkezéskor is alkalmazni kell.
 
-(2) Az Oktatási Hivatal (a továbbiakban: Hivatal) a hallgatói ösztöndíjszerződés-tervezet megszemélyesített példányát az állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkező számára elektronikusan hozzáférhetővé teszi a felvételi eljárásra vonatkozó kormányrendeletben meghatározott honlapján. A Hivatal a szerződéstervezet három eredeti példányát azon felsőoktatási intézmény számára juttatja el, amelybe a hallgató besorolásra került.
+(2)[^6] A beiratkozási lap a magyar állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkezők esetében – a külön jogszabályban foglaltak mellett – tartalmazza a jelentkező nyilatkozatát arról, hogy vállalja a magyar állami (rész)ösztöndíjjal támogatott képzésnek az Nftv.-ben rögzített feltételeit és azt, hogy e feltételeket megismerte.
 
-(3) A felsőoktatási intézmény képviselője a beiratkozási eljárás során ellenőrzi és – a hallgatói ösztöndíjszerződés valamennyi eredeti példányának aláírásával – tanúsítja, hogy meggyőződött a hallgatói ösztöndíjszerződést aláírni szándékozó magyar állami (rész)ösztöndíjas személyazonosságáról, vagy a szerződő személy helyett eljáró személy képviseleti jogosultságáról.
+(3)[^7] A beiratkozás során az állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkező oly módon nyilatkozik a képzés feltételeinek vállalásáról, hogy a nyilatkozatot tartalmazó beiratkozási lapot két példányban saját kezűleg aláírja vagy a Polgári perrendtartásról szóló törvényben meghatározott teljes bizonyító erejű magánokiratba vagy közokiratba foglalt meghatalmazással eljáró képviselője aláírással látja el.
 
-(4) A három eredeti aláírt példányból egy eredeti a hallgató, egy eredeti a felsőoktatási intézmény, egy eredeti pedig a Hivatal példánya.
+(4)[^8] A két aláírt példányból egy eredeti a hallgató, egy eredeti a felsőoktatási intézmény példánya.
 
-(5) A magyar állami (rész)ösztöndíjas hallgató oly módon gondoskodik az ösztöndíjszerződés Hivatalnak történő eljuttatásáról, hogy két példányt az aláírását követően a felsőoktatási intézménynél adja le, a felsőoktatási intézmény pedig a beiratkozási időszak végén valamennyi, aláírásra került szerződés egy-egy példányát együtt továbbítja a Hivatal részére. A felsőoktatási intézmény a jelentkezők által valamennyi alá nem írt szerződéspéldányt jegyzőkönyv felvétele mellett megsemmisíti, és erről a jegyzőkönyv egy példányának megküldésével a Hivatalt a beiratkozás időszak végén értesíti.
+(5)[^9] A felsőoktatási intézmény a hallgatót a felsőoktatási információs rendszerbe abban az esetben jelentheti be magyar állami (rész)ösztöndíjas finanszírozási formában, ha a hallgató a (3) bekezdésben foglaltak szerint nyilatkozott.
 
-(6) A hallgatói ösztöndíjszerződést az írásba foglalása során a felvételt nyert jelentkező saját kezűleg írja alá, vagy a Polgári perrendtartásról szóló 1952. évi III. törvényben meghatározott teljes bizonyító erejű magánokiratba vagy közokiratba foglalt meghatalmazással eljáró képviselője aláírásával látja el. Ebben az esetben a meghatalmazás egy eredeti példánya a Hivatal szerződéspéldányának elválaszthatatlan részét képezi. A szerződést a Magyar Állam nevében eljáró Hivatal elnöke olyan módon írja alá, hogy a kiküldött szerződéstervezeten nyomtatva szerepel a Magyar Állam nevében eljáró Hivatal elnökének aláírásképe, valamint az egyedi hallgatói szerződésazonosító szám.
+(6)[^10] Amennyiben a felvételt nyert jelentkező a magyar állami ösztöndíjjal támogatott képzés feltételeit nem vállalja, részére a felsőoktatási intézmény ugyanazon képzésre köteles felajánlani az önköltséges képzésben való részvétel lehetőségét.
 
-(7) Az Nftv. 48/G. §-ban foglaltakon felül a felsőoktatási intézmény a hallgatói jogviszony megszűnése vagy a képzés lezárása esetén gondoskodik a hallgatói jogviszony megszűnése vagy a képzés lezárása tényének a tanulmányi adminisztrációs nyilvántartásban történő rögzítéséről, a felsőoktatási információs rendszer által a Hivatalhoz való megküldéséről.
+(7)[^11] A felsőoktatási intézmény a hallgatói jogviszony megszűnése vagy a képzés lezárása esetén gondoskodik a hallgatói jogviszony megszűnése vagy a képzés lezárása időpontjának, képzésváltás esetén a képzésváltás időpontjának, a hallgatói jogviszony szünetelése esetén a szünetelés tényének a tanulmányi adminisztrációs nyilvántartásban történő rögzítéséről, a felsőoktatási információs rendszer által a Hivatalhoz való megküldéséről.
 
-(8) Amennyiben a felvételt nyert jelentkező a hallgatói ösztöndíjszerződést nem írja alá, részére a felsőoktatási intézmény ugyanazon képzésre köteles felajánlani az önköltséges képzésben való részvétel lehetőségét.
+(8)[^12]
+
+[^5]: Az 1/A. §-t a 325/2013. (VIII. 29.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^7]: A 2. § (3) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^8]: A 2. § (4) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^9]: A 2. § (5) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^10]: A 2. § (6) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^11]: A 2. § (7) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^12]: A 2. § (8) bekezdését a 325/2013. (VIII. 29.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
