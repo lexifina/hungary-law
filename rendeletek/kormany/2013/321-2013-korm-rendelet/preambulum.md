@@ -1,1 +1,0 @@
-A Kormány a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
