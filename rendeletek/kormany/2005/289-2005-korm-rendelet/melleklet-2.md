@@ -48,7 +48,7 @@
 
 | 23. | szlavisztika (pl. orosz, bolgár, cseh, lengyel, horvát/nemzetiségi, szerb/nemzetiségi, szlovák/nemzetiségi, szlovén/nemzetiségi, ukrán/nemzetiségi szakirányok) |
 
-| 24. | ókori és keleti filológia | ókori nyelvek és kultúrák (asszíriológia, egyiptológia, klasszika-filológia [latin, ógörög] szakirányok) | 180 |
+| 24. |  | ókori és keleti filológia | ókori nyelvek és kultúrák (asszíriológia, egyiptológia, klasszika-filológia [latin, ógörög] szakirányok) | 180 |
 
 | 25. | keleti nyelvek és kultúrák (pl. altajisztika, arab, hebraisztika, indológia, iranisztika, japán, kínai, koreai, mongol, tibeti, török, újgörög szakirányok) |
 
@@ -60,7 +60,7 @@
 
 | 29. | szabad bölcsészet | szabad bölcsészet (pl. filozófia, esztétika, etika, vallástudomány, filmelmélet és filmtörténet, kommunikáció és médiatudomány, művészettörténet, elméleti nyelvészet szakirányok) | 180 |
 
-| 30. | társadalom- tudomány | politikatudomány | nemzetközi tanulmányok | 180 |
+| 30. | társadalom-tudomány | politikatudomány | nemzetközi tanulmányok | 180 |
 
 | 31. | politológia |
 
@@ -94,11 +94,13 @@
 
 | 46. | nemzetközi igazgatási |
 
-| 47. | rendészeti | bűnügyi igazgatási* (pl. bűnügyi nyomozó, gazdaságvédelmi nyomozó, pénzügyi nyomozó szakirányokkal) | 180 |
+| 47. | rendészeti | bűnügyi igazgatási* (bűnügyi nyomozó, bűnügyi hírszerző, gazdaságvédelmi nyomozó, pénzügyi nyomozó szakirányokkal) | 180 |
 
 | 48. | rendészeti igazgatási* (pl. biztonsági, büntetés-végrehajtási, határrendészeti, igazgatásrendészeti, katasztrófavédelmi, közlekedésrendészeti, közrendvédelmi, vám- és jövedéki igazgatási, migrációs szakirányokkal) |
 
 | 49. | büntetés-végrehajtási nevelő |
+
+| 49/a. |  | katasztrófavédelmi (katasztrófavédelmi műveleti, tűzvédelmi és mentésirányítási, iparbiztonsági) |  |
 
 | 50. | nemzet- biztonsági | nemzetbiztonsági | 180 |
 
@@ -106,9 +108,13 @@
 
 | 52. | védelmi igazgatási |
 
-| 53. | katonai vezetői | 210 |
+| 53. | katonai vezetői | 240 210 |
 
 | 54. | katonai gazdálkodási |
+
+| 54/a. | katonai üzemeltetési | 240 |
+
+| 54/b. | katonai logisztikai |
 
 | 55. | gazdaság- tudományok | közgazdasági | alkalmazott közgazdaságtan | 180 |
 
@@ -142,7 +148,9 @@
 
 | 70. | vegyészmérnöki* |
 
-| 71. | molekuláris bionika* |
+| 71. | molekuláris bionika mérnöki* |
+
+| 71/a. | logisztika |
 
 | 72. | építőmérnöki és műszaki földtudományi | építőmérnöki* | 240 |
 
@@ -186,7 +194,7 @@
 
 | 92. | csecsemő- és kisgyermeknevelő | 180 |
 
-| 93. | gyógypedagógia | gyógypedagógia (értelmileg akadályozottak pedagógiája, tanulásban akadályozottak pedagógiája, hallássérültek pedagógiája, logopédia, látássérültek pedagógiája, szomatopedagógia, pszichopedagógia szakirányokkal)* | 210+30 |
+| 93. | gyógypedagógia | gyógypedagógia (értelmileg akadályozottak pedagógiája, tanulásban akadályozottak pedagógiája, hallássérültek pedagógiája, logopédia, látássérültek pedagógiája, szomatopedagógia, pszichopedagógia, autizmus spektrum pedagógiája szakirányokkal) | 210+30 |
 
 | 94. | sport- tudomány | sport | testnevelő-edző | 180 |
 
@@ -288,4 +296,4 @@
 
 2. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^24]
 
-[^24]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított és a 229/2011. (X. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^24]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított és a 229/2011. (X. 28.) Korm. rendelet 2. §-a, a 325/2013. (VIII. 29.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.

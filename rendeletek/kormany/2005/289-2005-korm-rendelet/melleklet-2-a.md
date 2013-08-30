@@ -18,6 +18,8 @@
 
 | 8. | vidékfejlesztési agrármérnöki4 |  |  |
 
+| 8/a. | informatikus és szakigazgatási mérnöki | szakigazgatás-szervező és informatikus agrármérnöki |  | 120 |
+
 | 9. | élelmiszermérnöki | élelmiszermérnöki4 |  | 120 |
 
 | 10. | élelmiszerbiztonsági és -minőségi mérnöki4 |
@@ -26,9 +28,9 @@
 
 | 12. | kertészmérnöki | kertészmérnöki |  | 120 |
 
-| 13. | szőlészeti és borászati mérnöki4 |
+| 13. | díszkertészeti mérnöki4 |
 
-| 14. | díszkertészeti mérnöki4 |
+| 14. | szőlész-borász mérnöki | szőlész-borász mérnöki4 |  | 120 |
 
 | 15. | környezetgazdálkodási agrármérnöki | környezetgazdálkodási agrármérnöki4 |  | 120 |
 
@@ -36,7 +38,7 @@
 
 | 17. | agrármérnöki |
 
-| 18. | mezőgazdasági vízgazdálkodási4 |
+| 18. | ökológiai gazdálkodási mérnöki4 |
 
 | 19. | állattenyésztő mérnöki | állattenyésztő mérnöki4 |  | 120 |
 
@@ -96,7 +98,7 @@
 
 | 47. | portugál nyelv, irodalom és kultúra |
 
-| 48. | román nyelv, irodalom és kultúra |
+| 48. |  |  | román nyelv, irodalom és kultúra |  |  |
 
 | 49. | spanyol nyelv, irodalom és kultúra |
 
@@ -178,7 +180,7 @@
 
 | 88. | pszichológia | pszichológia |  | 120 |
 
-| 89. | szabad bölcsészet | művészettörténet |  | 120 |
+| 89. |  | szabad bölcsészet | művészettörténet |  | 120 |
 
 | 90. | filozófia |
 
@@ -210,17 +212,27 @@
 
 | 104. |  | digitális bölcsészet4 | 120 |
 
-| 105. |  | Közép-Európa tanulmányok4 |  | 120 |
+| 105. |  |  | Közép-Európa tanulmányok4 |  | 120 |
+
+| 105/a. | mentálhigiénés családtudományi és családterápiás4 |  | 120 |
+
+| 105/b. | mentálhigiénés közösség- és kapcsolatépítő4 |  | 120 |
+
+| 105/c. | afrikanisztika4 |  | 120 |
+
+| 105/d. | beszédtudomány4 |  | 120 |
 
 | 106. | társadalom- tudomány | nemzetközi tanulmányok | nemzetközi tanulmányok |  | 120 |
 
 | 107. | politológia | politikai szakértő4 |  | 120 |
 
-| 108. | politikatudomány4 |  | 120 |
+| 108. |  | politikatudomány4 |  | 120 |
 
 | 109. | szociális munka | szociális munka4 |  | 120 |
 
-| 110. | szociálpedagógia | szociálpolitika4 |  | 120 |
+| 110. | szociálpedagógia | szociálpolitika |  | 120 |
+
+| 110/a. | szociálpedagógia4 |  |
 
 | 111. | informatikus könyvtáros | informatikus könyvtáros |  | 120 |
 
@@ -260,6 +272,10 @@
 
 | 129. |  | kriminológia4 |  | 120 |
 
+| 129/a. |  |  | európai és nemzetközi üzleti jog |  | 60 |
+
+| 129/b. |  | kodifikátor |  | 60 |
+
 | 130. | közigazgatási, rendészeti és katonai | igazgatásszervező | közigazgatási4 |  | 120 |
 
 | 131. | nemzetközi igazgatási | európai és nemzetközi igazgatás4 |  | 120 |
@@ -270,13 +286,17 @@
 
 | 134. | nemzetbiztonsági | nemzetbiztonsági |  | 120 |
 
-| 135. | katonai vezetői | katonai vezetői |  | 90 |
+| 135. | katonai vezetői | katonai vezetői |  | 60 |
+
+| 135/a. | katonai üzemeltetési | katonai üzemeltetési |  | 60 |
+
+| 135/b. | katonai logisztikai | katonai műveleti logisztikai |  | 60 |
 
 | 136. | büntetés- végrehajtási nevelő | büntetés- végrehajtási vezető |  | 120 |
 
 | 137. | rendészeti igazgatási | rendészeti vezető4 |  | 120 |
 
-| 137/a. |  | biztonsági szervező4 |  | 120 |
+| 137/a. |  |  | biztonsági szervező4 |  | 120 |
 
 | 138. | gazdaság- tudományok | alkalmazott közgazdaságtan | közgazdasági elemző4 |  | 120 |
 
@@ -332,6 +352,8 @@
 
 | 164. | folyamatmérnöki |
 
+| 164/a. | molekuláris bionika mérnöki | info-bionika mérnöki |  | 120 |
+
 | 165. | építőmérnöki | szerkezet-építőmérnöki |  | 90 |
 
 | 166. | infrastruktúra-építőmérnöki |
@@ -348,13 +370,15 @@
 
 | 172. | olaj- és gázmérnöki |
 
+| 172/a. | olajmérnöki (kizárólag angol nyelvű képzés) |
+
 | 173. | hidrogeológus mérnöki4 |
 
 | 174. | előkészítés-technikai mérnöki |
 
 | 175. | földtudományi mérnöki |
 
-| 175/a. | olajmérnöki mesterképzési szak (kizárólag angol nyelvű képzés) |  | 120 |
+| 175/a. |  | olajmérnöki mesterképzési szak (kizárólag angol nyelvű képzés) |  | 120 |
 
 | 176. |  |  | építész2 | 300 |
 
@@ -378,13 +402,13 @@
 
 | 186. | gépészeti modellezés4 |
 
-| 187. | épületgépészeti és eljárástechnikai gépészmérnöki4 |
+| 187. |  |  | épületgépészeti és eljárástechnikai gépészmérnöki4 |  |  |
 
 | 188. | közlekedésmérnöki | közlekedésmérnöki |  | 120 |
 
 | 189. | logisztikai mérnöki |
 
-| 190. | járműmérnöki |
+| 190. | járműmérnöki | járműmérnöki4 |
 
 | 191. | mechatronikai mérnöki | mechatronikai mérnöki |  | 120 |
 
@@ -412,7 +436,7 @@
 
 | 203. | ápolás és betegellátás (ápoló, dietetikus, gyógytornász, mentőtiszt, szülésznő szakirányokkal) | ápolás4 |  | 90 |
 
-| 203/a. | fizioterápia |  | 90 |
+| 203/a. |  | fizioterápia |  | 90 |
 
 | 204. | egészségügyi gondozás és prevenció (népegészségügyi ellenőr és védőnő szakirányokkal) | népegészségügyi4 |  | 90 |
 
@@ -460,7 +484,7 @@
 
 | 223. | immunológia |  |
 
-| 224. |  | biotechnológia4 |  |
+| 224. |  |  | biotechnológia4 |  |  |
 
 | 225. |  | etológia4 |  | 120 |
 
@@ -562,9 +586,11 @@
 
 | 273. | gyártásszervező | film- és televízió producer |  | 120 |
 
+| 273/a. |  | mozgóképművész4 |  | 120 |
+
 | 274. |  |  | filmdramaturg | 300 |
 
-| 275. |  | filmművészeti menedzser4 |  | 60 |
+| 275. |  |  |  | filmművészeti menedzser4 |  | 60 |
 
 | 276. | zene- művészet | előadóművészet (klasszikus hangszer, jazzhangszer, klasszikus ének, jazzének, zenekar- és kórusvezetés, egyházzene, népzene szakirányokkal) | klasszikus hangszerművész (fuvola, oboa, klarinét, fagott, kürt, trombita, harsona, tuba, ütőhangszer, hegedű, mélyhegedű, gordonka, gordon, hárfa, gitár, cimbalom, zongora, zongorakísérő-korrepetitor, orgona, harmonika szakirányokkal) |  | 120 |
 
@@ -626,7 +652,7 @@
 
 | 305. | művészet |  | kortárs művészetelméleti és kurátori ismeretek |  | 120 |
 
-| 306. | művészetközvetítés | mozgóképkultúra és médiaismeret | mozgóképművész |  | 120 |
+| 306. | művészetközvetítés | mozgóképkultúra és médiaismeret |  |  |  |
 
 ## 1 A mesterképzési szakokról szóló melléklet nem tartalmazza a tanári mesterszakokat.
 
@@ -642,4 +668,4 @@
 
 2/A. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^25]
 
-[^25]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 229/2011. (X. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^25]: A 2/A. számú mellékletet a 39/2011. (III. 22.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 229/2011. (X. 28.) Korm. rendelet 3. §-a, a 325/2013. (VIII. 29.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.

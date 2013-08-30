@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-289-20-
 | 2011-03-27 | 2005-289-20-22.12 | 39/2011. (III. 22.) Korm. rendelet |
 | 2011-10-29 | 2005-289-20-22.13 | 39/2011. (III. 22.) Korm. rendelet |
 | 2013-08-01 | 2005-289-20-22.14 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2013-08-30 | 2005-289-20-22.15 | 39/2011. (III. 22.) Korm. rendelet |
