@@ -1,0 +1,5 @@
+9. § (1) A támogatási kérelem hiányos benyújtása esetén a támogató az igénylőt az általa megadott elektronikus elérhetőségen vagy telefaxon hívja fel hiánypótlásra egy alkalommal. A hiánypótlás határideje a hiánypótlásra történő felhívás kézbesítésétől számított nyolcadik nap. Kézbesítettnek kell tekinteni a hiánypótlásra történő felhívást telefaxon vagy elektronikusan történő továbbítás esetén a telefax berendezés vagy az elektronikus levelezőrendszer által megjelölt sikeres elküldés időpontjában.
+
+(2) A hiánypótlásra történő felhívásban tájékoztatni kell az igénylőt arról, hogy a hiánypótlásra biztosított határidő elmulasztása a támogatási igény érdemi vizsgálat nélkül történő elutasítását eredményezheti. A 8. § (2) és (3) bekezdése szerinti melléklet csatolásának elmulasztása esetén hiánypótlásnak nincs helye.
+
+(3) Ha a támogatási igény benyújtója a hiánypótlást hibásan, hiányosan nyújtja be, illetve a hiányosságokat nem pótolja a megadott határidőn belül, a támogatási kérelem további vizsgálat nélkül elutasítható.

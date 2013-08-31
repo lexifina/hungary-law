@@ -1,0 +1,9 @@
+# 2/2013. (VIII. 30.) KüM rendelet
+
+a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2-20-27
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-08-31 | 2013-2-20-27.1 | 2/2013. (VIII. 30.) KüM rendelet |
