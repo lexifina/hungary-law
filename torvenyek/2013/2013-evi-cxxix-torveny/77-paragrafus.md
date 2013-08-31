@@ -6,4 +6,4 @@
 
 (4) A 42. § (1) bekezdése 2014. március 15-én lép hatályba.
 
-(5) A 38. § (2) bekezdése és a 42. § (2) bekezdése 2015. szeptember 1-jén lép hatályba.
+(5)

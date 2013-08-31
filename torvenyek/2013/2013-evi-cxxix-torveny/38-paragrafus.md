@@ -9,5 +9,3 @@ b) alapfokozat esetén száznyolcvan,
 c) mesterfokozat esetén kétszáz
 
 százaléka.”
-
-(2)
