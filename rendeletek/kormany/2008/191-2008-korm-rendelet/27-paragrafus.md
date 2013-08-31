@@ -1,9 +1,9 @@
-## 26. §[^141] A jelzőrendszeres házi segítségnyújtás után 2013. július 1-jét megelőző időszakra nyújtott működési támogatás elszámolására, ellenőrzésére és visszafizetésére e rendeletnek a 2013. június 30-án hatályos szabályait kell alkalmazni.
+## 26. §[^146] A jelzőrendszeres házi segítségnyújtás után 2013. július 1-jét megelőző időszakra nyújtott működési támogatás elszámolására, ellenőrzésére és visszafizetésére e rendeletnek a 2013. június 30-án hatályos szabályait kell alkalmazni.
 
-27–28. §[^142]
+27. §[^147] (1) A Biztos Kezdet Gyerekházak esetén az első finanszírozási időszak 2014. január 1-jétől 2016. december 31-éig tart.
 
-Melléklet a 191/2008. (VII. 30.) Korm. rendelethez[^143]
+(2) A Biztos Kezdet Gyerekházak első finanszírozási időszakára az általános pályázatot a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendelet módosításáról szóló 322/2013. (VIII. 28.) Korm. rendelet hatálybalépését[^148] követő tizenöt napon belül kell kiírni.
 
-[^141]: A 26. §-t a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés m) pont me) alpontja hatályon kívül helyezte, újonnan a 89/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be.
-[^142]: A 27–28. §-t a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés m) pont me) alpontja hatályon kívül helyezte.
-[^143]: A mellékletet a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés m) pont mf) alpontja hatályon kívül helyezte.
+[^146]: A 26. §-t a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés m) pont me) alpontja hatályon kívül helyezte, újonnan a 89/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be.
+[^147]: A 27. §-t a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés m) pont me) alpontja hatályon kívül helyezte, újonnan a 322/2013. (VIII. 28.) Korm. rendelet 6. §-a iktatta be.
+[^148]: A hatálybalépés időpontja 2013. augusztus 31.
