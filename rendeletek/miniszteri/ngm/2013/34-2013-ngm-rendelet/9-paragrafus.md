@@ -1,0 +1,1 @@
+## 8. § Az Ibtv. 14. § (2) bekezdésében, valamint az Ibtv. 18. §-ában foglalt feladatok biztosítására a NAV elnöke jogosult független informatikai biztonsági szakértővel biztonsági auditot végeztetni.

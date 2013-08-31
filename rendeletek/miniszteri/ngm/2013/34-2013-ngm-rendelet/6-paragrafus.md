@@ -1,0 +1,1 @@
+## 5. § Az elektronikus információs rendszerek, és az azokban kezelt adatok biztonsága érdekében az Ibtv. 16. §-a szerinti, az elektronikus információs rendszer védelmére vonatkozó intézkedések megtételét, elrendelését és ellenőrzését a miniszter az általa vezetett minisztérium személyi állományából kijelölt kormánytisztviselő útján végzi.

@@ -1,0 +1,1 @@
+## 3. § Az Ibtv. 14. § (4) bekezdése alapján a NAV elnöke javaslatot tesz a miniszter részére az éves ellenőrzési terv vonatkozásában. A NAV elnöke által minden év október 31-éig előterjesztett javaslat alapján az éves ellenőrzési tervet a miniszter állapítja meg.

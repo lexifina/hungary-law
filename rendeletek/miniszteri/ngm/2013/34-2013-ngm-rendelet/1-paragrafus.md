@@ -1,0 +1,3 @@
+1. § (1) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) állami költségvetési bevételek biztosítását támogató elektronikus információs rendszerei (a továbbiakban: elektronikus információs rendszerek) tekintetében az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 14–18. §-aiban meghatározott feladatokat a miniszter a NAV elnöke útján, az e rendeletben foglaltak szerint látja el.
+
+(2) Az e rendelet alapján végzett feladatai ellátásáról a NAV elnöke minden év március 31. napjáig jelentést terjeszt elő a miniszter részére.

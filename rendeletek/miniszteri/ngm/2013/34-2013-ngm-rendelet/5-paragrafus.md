@@ -1,0 +1,1 @@
+## 4. § Az Ibtv. 15. §-a szerinti adatok kezelését, nyilvántartását, a nyilvántartásba vétellel, valamint az adatok törlésével kapcsolatos feladatokat a miniszter a NAV elnöke útján látja el. A NAV elnöke e tevékenységéről az 1. § (2) bekezdése szerinti jelentéssel együtt tájékoztatja a minisztert.
