@@ -1,8 +1,8 @@
-47. § (1)[^122] Az illeték törlése iránti eljárásban az a megyei (fővárosi) adóigazgatóság jár el, amelyik a 45. § (4a) bekezdésben, illetve a 46. §-ban foglaltak szerint az illetéket kiszabta, megállapította.
+47. § (1)[^125] Az illeték törlése iránti eljárásban az a megyei (fővárosi) adóigazgatóság jár el, amelyik a 45. § (4a) bekezdésben, illetve a 46. §-ban foglaltak szerint az illetéket kiszabta, megállapította.
 
 (2) Az illeték visszatérítése iránti eljárásban
 
-a)[^123] az Itv. 77. §-a szerinti, kiszabás alapján megfizetett illeték tekintetében az a megyei (fővárosi) adóigazgatóság jár el, amelyik a 45. § (4a) bekezdésben, illetve a 46. §-ban foglaltak szerint az illetéket kiszabta,
+a)[^126] az Itv. 77. §-a szerinti, kiszabás alapján megfizetett illeték tekintetében az a megyei (fővárosi) adóigazgatóság jár el, amelyik a 45. § (4a) bekezdésben, illetve a 46. §-ban foglaltak szerint az illetéket kiszabta,
 
 b) az Itv. 32. §-a szerinti, a jogorvoslati eljárásban megfizetett illeték tekintetében az ügyfél lakóhelye (székhelye), illetve a bíróság székhelye szerinti megyei (fővárosi) adóigazgatóság,
 
@@ -10,16 +10,16 @@ c) az eljárás megindítása nélkül megfizetett, az Itv. 73. § (12) bekezdé
 
 d) az Itv. 94. §-a szerinti megrongálódott, tévesen felragasztott, továbbá feleslegessé vált illetékbélyeg tekintetében az eljáró hatóság, illetve bíróság székhelye vagy az ügyfél lakóhelye (székhelye) szerinti megyei (fővárosi) adóigazgatóság,
 
-e)[^124] az Itv. 81. § (2) bekezdés első mondatában említett esetekben, ha az illeték megfizetése illetékbélyeggel történt, az adózó lakóhelye (székhelye) szerinti megyei (fővárosi) adóigazgatóság
+e)[^127] az Itv. 81. § (2) bekezdés első mondatában említett esetekben, ha az illeték megfizetése illetékbélyeggel történt, az adózó lakóhelye (székhelye) szerinti megyei (fővárosi) adóigazgatóság
 
 jár el.
 
-(3)[^125]
+(3)[^128]
 
-(4)[^126] Amennyiben az (1)–(2) bekezdésben foglaltak alapján az illetékes adóigazgatóság nem állapítható meg, úgy az illeték törlése, visszatérítése iránti eljárásban az ügyfél lakóhelye (székhelye) szerinti megyei adóigazgatóság, belföldön nem letelepedett adózó esetén pedig az Észak-budapesti Adóigazgatóság jár el.
+(4)[^129] Amennyiben az (1)–(2) bekezdésben foglaltak alapján az illetékes adóigazgatóság nem állapítható meg, úgy az illeték törlése, visszatérítése iránti eljárásban az ügyfél lakóhelye (székhelye) szerinti megyei adóigazgatóság, belföldön nem letelepedett adózó esetén pedig az Észak-budapesti Adóigazgatóság jár el.
 
-[^122]: A 47. § (1) bekezdés a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.
-[^123]: A 47. § (2) bekezdés a) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 13. pontja, a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.
-[^124]: A 47. § (2) bekezdés e) pontja a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.
-[^125]: A 47. § (3) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 22. pontja hatályon kívül helyezte.
-[^126]: A 47. § (4) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.
+[^125]: A 47. § (1) bekezdés a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.
+[^126]: A 47. § (2) bekezdés a) pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 13. pontja, a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.
+[^127]: A 47. § (2) bekezdés e) pontja a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.
+[^128]: A 47. § (3) bekezdését a 366/2012. (XII. 17.) Korm. rendelet 31. § 22. pontja hatályon kívül helyezte.
+[^129]: A 47. § (4) bekezdése a 366/2012. (XII. 17.) Korm. rendelet 30. § (19) bekezdése szerint módosított szöveg.

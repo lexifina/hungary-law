@@ -10,6 +10,6 @@ c) az ÁFA törvény 95. §-a szerinti adómentes termékimport esetében a felt
 
 (3) A Vám- és Pénzügyőrség Központi Ellenőrzési Parancsnokságánál e rendelet hatálybalépésekor folyamatban lévő eljárásokat a NAV Központi Hivatala folytatja le.
 
-(4)[^154]
+(4)[^157]
 
-[^154]: A 67. § (4) bekezdését a 140. § (3) bekezdése hatályon kívül helyezte.
+[^157]: A 67. § (4) bekezdését a 140. § (3) bekezdése hatályon kívül helyezte.
