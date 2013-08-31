@@ -34,11 +34,19 @@
 
 (18) A 4. melléklet szerinti osztály-, csoportlétszámokat és a 47. § (7) bekezdésében foglaltakat első alkalommal a 2013/2014. tanévtől felmenő rendszerben kell alkalmazni.
 
-(19) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatottak első minősítésére vagy minősítő vizsgájára 2013. szeptember 1. és 2018. június 30. között kerül sor.
+(19) A pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottak első minősítésére vagy minősítő vizsgájára 2013. szeptember 1. és 2018. június 30. között kerül sor.
 
-(20) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A pedagógiai szakszolgálat keretében pedagógus-munkakörben foglalkoztatott, továbbá a 65. § (9) bekezdésében meghatározott alkalmazott, aki 2015. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik 2015. szeptember 1-től első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra, azzal az eltéréssel, hogy a besorolás szerinti fokozat megnevezése igazodik a munkakör megnevezéséhez.
+(20) A nevelési-oktatási intézményben és a pedagógiai szakszolgálati intézményben pedagógus-munkakörben foglalkoztatott, továbbá a 65. § (9) bekezdésében meghatározott alkalmazott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött időnek minősülő, továbbá a fizetési fokozat megállapításánál beszámítandó idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A munka törvénykönyve hatálya alá tartozó munkavállalók esetén a Pedagógus I. fokozatba történő besorolásnál a munkaviszonyban töltött időt kell alapul venni a közalkalmazottak jogállásáról szóló törvényben meghatározottak alapján.
 
-(21) Nem vonatkozik a minősítési kötelezettség arra a nevelési-oktatási intézményben foglalkoztatott pedagógusra, aki 2013. szeptember 1-jétől, és arra a pedagógiai szakszolgálat keretében pedagógus-munkakörben foglalkoztatottra, aki 2015. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
+(20a) 2013. szeptember 1. és 2014. augusztus 31. között az illetményalap a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének
+
+a) 118,5 százaléka középfokú végzettség esetén,
+
+b) 157,8 százaléka alapfokozat esetén,
+
+c) 172,9 százaléka mesterfokozat esetén.
+
+(21) Nem vonatkozik a minősítési kötelezettség arra a pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra, aki a 2013. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
 
 (22) A 46. § (5) bekezdés szerinti térítésmentes tankönyvellátást első alkalommal a 2013/2014. tanévben az első évfolyamra beiratkozott tanulók számára, ezt követően felmenő rendszerben kell biztosítani.
 
@@ -57,3 +65,5 @@ b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányza
 (25) A 44. § (6) bekezdés szerinti elektronikus kapcsolat létrejöttéig, de legkésőbb 2012. december 31-ig a köznevelési intézmény vezetője köteles a gyermek, tanuló, az óraadó és az alkalmazott személyes adatainak megváltozását a KIR adatkezelőjének – a tudomásszerzéstől számított öt napon belül – bejelenteni.
 
 (26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
+
+(27) Amennyiben a 73. § (3) bekezdése szerinti intézményi tanács nem jött létre, a 73. § (4) bekezdése szerinti intézményi tanács alakuló ülését az érintett iskola intézményvezetője a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2013. évi CXXXVII. törvény hatálybalépését követő negyvenöt napon belül hívja össze.

@@ -2,7 +2,7 @@
 
 31. § (1) Az egyházi köznevelési intézmények és a magán köznevelési intézmények az e törvényben foglalt, az általánostól eltérő szabályok szerint működhetnek és szervezhetik tevékenységüket.
 
-(2) Ha a nevelési-oktatási intézményt egyház vagy más nem állami szerv, nem települési önkormányzat tartja fenn:
+(2) Ha a nevelési-oktatási intézményt a 2. § (3) bekezdés b) pontjában meghatározott személy tartja fenn:
 
 a) a nevelési-oktatási intézmény vallási, világnézeti tekintetben elkötelezett intézményként működhet, és ennek megfelelően a gyermekek vagy a tanulók felvételének előfeltételeként kikötheti valamely vallás, világnézet elfogadását, és ezt felvételi eljárás keretében vizsgálhatja,
 
@@ -30,6 +30,6 @@ d) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, azoka
 
 e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásban történő részvétel keretében ingyenesen nyújtott szolgáltatásokat és az ellátási körzetet.
 
-(6) A köznevelési szerződés érvényességi ideje öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
+(6) A köznevelési szerződés érvényességi ideje legalább egy, legfeljebb öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
 
 (7) Az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartóival kötött köznevelési szerződés megkötéséhez ki kell kérni az intézmény székhelye, telephelye szerint illetékes kormányhivatal, települési önkormányzat, nemzetiségi nevelés, nevelés-oktatás esetében az érintett országos nemzetiségi önkormányzat véleményét.

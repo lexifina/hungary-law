@@ -22,7 +22,7 @@ g) tanulótájékoztató, -tanácsadó szolgálat.
 
 a) az állami köznevelési közfeladat-ellátás keretében,
 
-b) az egyházi vagy más nem állami, nem települési önkormányzati nevelési-oktatási intézményfenntartók által fenntartott pedagógiai intézetben, továbbá
+b) a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá
 
 c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdálkodó szervezet vagy költségvetési szerv által
 

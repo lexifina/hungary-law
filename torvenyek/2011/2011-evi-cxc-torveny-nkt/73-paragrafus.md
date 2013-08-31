@@ -6,8 +6,24 @@
 
 (3) Az iskolában a helyi közösségek érdekeinek képviseletére a szülők, a tanulók, a nevelőtestület, az intézmény székhelye szerinti települési önkormányzat, egyházi jogi személyek, a helyi gazdasági kamarák azonos számú képviselőjéből és a fenntartó delegáltjából álló intézményi tanács hozható létre.
 
-(4) Az intézményi tanács elnöke életvitelszerűen az intézmény székhelyével azonos településen lakik.
+(4) Amennyiben a (3) bekezdésben meghatározott feltételek nem teljesülnek, abban az esetben az intézményi tanácsot a szülők, a nevelőtestület és az intézmény székhelye szerinti települési önkormányzat delegáltjaiból kell létrehozni.
 
-(5) Az intézmény vezetője félévenként egy alkalommal beszámol az intézmény működéséről az intézményi tanácsnak, amely az intézmény működésével kapcsolatos álláspontját megfogalmazza és eljuttatja a fenntartó számára.
+(5) Az intézményi tanács
 
-(6) A szülői szervezet, az iskolaszék és az intézményi tanács működésének részletes szabályait külön jogszabály állapítja meg.
+a) jogi személy, amely hatósági nyilvántartásba vétellel jön létre, a hatósági nyilvántartást a hivatal vezeti,
+
+b) székhelye azonos az érintett iskola székhelyével,
+
+c) tagjait az intézményvezető bízza meg a delegálásra jogosultak véleménye alapján a feladat ellátására,
+
+d) elnökének az választható meg, aki életvitelszerűen az intézmény székhelyével azonos településen lakik,
+
+e) ügyrend alapján működik, az ügyrendet az intézményi tanács dolgozza ki és fogadja el azzal, hogy az elfogadott ügyrendet az intézményi tanács elnöke legkésőbb az elfogadást követő tizenötödik napon megküldi a hivatalnak jóváhagyásra,
+
+f) ügyrendjének a hivatal által történt jóváhagyását követően az intézményi tanácsot a hivatal felveszi a hatósági nyilvántartásba.
+
+(6) Az intézményi tanács az iskola működésének támogatására alapítványt hozhat létre.
+
+(7) Az intézmény vezetője félévenként egy alkalommal beszámol az intézmény működéséről az intézményi tanácsnak, amely az intézmény működésével kapcsolatos álláspontját megfogalmazza és eljuttatja a fenntartó számára.
+
+(8) Az intézményi tanácsról az (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás tartalmazza az intézményi tanács hivatalos nevét.
