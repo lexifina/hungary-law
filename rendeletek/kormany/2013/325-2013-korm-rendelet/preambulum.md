@@ -1,1 +1,0 @@
-A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 2. pontjában, 4. pont a) alpontjában, 6., 19. és 23. pontjában, valamint (2) bekezdés c) pontjában foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
