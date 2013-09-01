@@ -1,3 +1,0 @@
-5. § (1) A fejezetet irányító szerv az általa irányított költségvetési fejezetbe sorolt foglalkoztatók által benyújtott támogatási kérelmeket és a fejezetet irányító szerv által alkalmazott ösztöndíjas foglalkoztatottakra vonatkozó támogatási kérelmeket összesíti. Az összesített adatokat 2013. július 31-éig, a 2. mellékletben meghatározott adattartalmú bejelentőlapon továbbítja az államháztartásért felelős miniszternek.
-
-(2) Az államháztartásért felelős miniszter a fejezetet irányító szervet megillető támogatást a bejelentőlap benyújtását követő 15 munkanapon belüli előirányzat-átcsoportosítással biztosítja.
