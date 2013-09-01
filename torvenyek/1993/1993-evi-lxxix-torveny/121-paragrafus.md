@@ -8,7 +8,7 @@
 
 1–13.
 
-14. hátrányos helyzetű gyermek, tanuló: az, akit családi körülményei, szociális helyzete miatt rendszeres gyermekvédelmi kedvezményre való jogosultságát a jegyző megállapította; e csoporton belül halmozottan hátrányos helyzetű az a gyermek, az a tanuló, akinek a törvényes felügyeletét ellátó szülője – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben szabályozott eljárásban tett önkéntes nyilatkozata szerint – óvodás gyermek esetén a gyermek három éves korában, tanuló esetében a tankötelezettség beállásának időpontjában legfeljebb az iskola nyolcadik évfolyamán folytatott tanulmányait fejezte be sikeresen; halmozottan hátrányos helyzetű az a gyermek, az a tanuló is, akit tartós nevelésbe vettek;
+14.
 
 15–45.
 
