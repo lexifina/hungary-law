@@ -28,15 +28,15 @@ c) a területi gyermekvédelmi szakszolgáltatás.
 
 (4) A gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedések:
 
-a) a védelembe vétel,
+a) a hátrányos és halmozottan hátrányos helyzet fennállásának megállapítása,
 
-b) a családbafogadás,
+b) a védelembe vétel,
 
-c) az ideiglenes hatályú elhelyezés,
+c) a családbafogadás,
 
-d) az átmeneti nevelésbe vétel,
+d) az ideiglenes hatályú elhelyezés,
 
-e) a tartós nevelésbe vétel,
+e) a nevelésbe vétel,
 
 f) a nevelési felügyelet elrendelése,
 

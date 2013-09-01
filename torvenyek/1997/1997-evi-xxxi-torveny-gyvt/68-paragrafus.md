@@ -1,5 +1,3 @@
-## VIII. Fejezet
-
 ## Védelembe vétel
 
 68. § (1) Ha a szülő vagy más törvényes képviselő a gyermek veszélyeztetettségét az alapellátások önkéntes igénybevételével megszüntetni nem tudja, vagy nem akarja, de alaposan feltételezhető, hogy segítséggel a gyermek fejlődése a családi környezetben mégis biztosítható, a gyámhatóság a gyermeket védelembe veszi.

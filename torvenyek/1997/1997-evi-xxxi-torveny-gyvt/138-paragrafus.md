@@ -8,7 +8,9 @@ c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vo
 
 d) az ellátással kapcsolatos döntéseket,
 
-e) a jogosultság megállapításához szükséges jövedelmi adatokat.
+e) a jogosultság megállapításához szükséges jövedelmi adatokat,
+
+f) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzetének megállapítását, megjelölve a hátrányos, halmozottan hátrányos helyzet megállapításának okát.
 
 (1a) Az (1) bekezdés szerinti – a 140. § (1) bekezdés a) pontjába tartozó ellátások tekintetében vezetett – nyilvántartás az (1) bekezdés d) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
 

@@ -8,6 +8,8 @@
 
 (2) A gyermeknek joga van ahhoz, hogy segítséget kapjon a saját családjában történő nevelkedéséhez, személyiségének kibontakoztatásához, a fejlődését veszélyeztető helyzet elhárításához, a társadalomba való beilleszkedéséhez, valamint önálló életvitelének megteremtéséhez.
 
+(2a) A hátrányos helyzetű és a halmozottan hátrányos helyzetű gyermeknek joga van ahhoz, hogy fokozott segítséget kapjon a fejlődését hátráltató körülmények leküzdéséhez és esélyeinek növeléséhez.
+
 (3) A fogyatékos, tartósan beteg gyermeknek joga van a fejlődését és személyisége kibontakozását segítő különleges ellátáshoz.
 
 (4) A gyermeknek joga van ahhoz, hogy a fejlődésére ártalmas környezeti és társadalmi hatások, valamint az egészségére káros szerek ellen védelemben részesüljön.
