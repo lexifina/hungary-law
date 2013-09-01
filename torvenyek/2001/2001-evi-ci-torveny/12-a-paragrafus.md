@@ -1,3 +1,0 @@
-12/A. § (1) Ha a felnőttképzést folytató intézmény az intézményakkreditációs tanúsítvány adataiban bekövetkezett változás átvezetését a jogszabályban meghatározott határidőben nem kezdeményezi, vele szemben a FAT bírságot szab ki. A bírság mértékét és a fizetési kötelezettség részletes szabályait kormányrendelet állapítja meg. Amennyiben az intézmény az adatváltozásnak a tanúsítványon való átvezetését a FAT bírságot megállapító határozata ellenére továbbra sem kezdeményezi, a FAT az intézményakkreditációt visszavonja.
-
-(2) Az (1) bekezdésben meghatározott rendelkezéseket az adatváltozásnak a programakkreditációs tanúsítványon történő átvezetésére is alkalmazni kell.
