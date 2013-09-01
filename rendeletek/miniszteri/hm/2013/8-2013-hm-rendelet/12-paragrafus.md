@@ -1,0 +1,3 @@
+12. § (1) A törlesztési határidő elmulasztása esetén a vevőt fizetési kötelezettségének teljesítésére legfeljebb 30 napos határidő kitűzésével, írásban kell felszólítani.
+
+(2) Ha az adós felszólítás ellenére sem teljesít, a részletfizetési kedvezményt meg kell vonni, és a vételárhátralék azonnali, egyösszegű megfizetése válik esedékessé. A kötelezett az elmulasztott törlesztő részletek után a késedelembe esés időpontjától számított, a Polgári Törvénykönyvről szóló törvényben meghatározott késedelmi kamatot köteles fizetni. A vételárhátralék részletfizetési kedvezmény megvonása miatti egyösszegű megfizetése esetén a 10. § (6) bekezdését nem lehet alkalmazni.
