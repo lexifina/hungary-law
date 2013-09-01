@@ -10,7 +10,7 @@
 
 | 5. | Állami Szívkórház Balatonfüred | Balatonfüred |
 
-| 6. |  |  |
+| 6. | Almási Balogh Pál Kórház | Ózd |
 
 | 7. | Általános Iskolai, Óvodai és Egészségügyi Gondnokság | Kaposvár |
 
@@ -70,7 +70,7 @@
 
 | 35. | Budapesti Szent Ferenc Kórház | Budapest |
 
-| 36. |  |  |
+| 36. | Bugát Pál Kórház | Gyöngyös |
 
 | 37. | Büntetés-végrehajtás Központi Kórház (Tököl) | Tököl |
 
@@ -284,7 +284,7 @@
 
 | 142. | MRE KIMM Drogterápiás Otthon | Ráckeresztúr |
 
-| 143. |  |  |
+| 143. | Nagyatádi Kórház | Nagyatád |
 
 | 144. | Nagykőrösi Rehabilitációs Szakkórház és Rendelőintézet | Nagykőrös |
 
