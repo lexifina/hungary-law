@@ -1,12 +1,12 @@
-13. § (1)[^80] Olyan vényre, amelyen – a 15. § (4) bekezdésben foglalt kivétellel – az orvos a gyógyszer rendelésére vonatkozó adatokat nem az e rendeletben foglaltak szerint adta meg, illetőleg az eszközölt javítást aláírásával és bélyegzőjének azonosítható lenyomatával nem erősítette meg, gyógyszert kiadni nem lehet.
+13. § (1)[^81] Olyan vényre, amelyen – a 15. § (4) bekezdésben foglalt kivétellel – az orvos a gyógyszer rendelésére vonatkozó adatokat nem az e rendeletben foglaltak szerint adta meg, illetőleg az eszközölt javítást aláírásával és bélyegzőjének azonosítható lenyomatával nem erősítette meg, gyógyszert kiadni nem lehet.
 
-(2)[^81] Ha az orvos a vényen a beteg lakcímét, a születési idejét elmulasztotta feltüntetni, a gyógyszer kiadója a hiányzó adatokat – ha azok hitelt érdemlően bizonyíthatóak – a vényre rávezeti és aláírásával megerősíti.
+(2)[^82] Ha az orvos a vényen a beteg lakcímét, a születési idejét elmulasztotta feltüntetni, a gyógyszer kiadója a hiányzó adatokat – ha azok hitelt érdemlően bizonyíthatóak – a vényre rávezeti és aláírásával megerősíti.
 
-(3)[^82] Olyan vényre, amelyen az orvos a gyógyszer pontos adagolását a vényen nem egyértelműen tüntette fel, a gyógyszer kiadója a rendelt gyógyszert nem adhatja ki.
+(3)[^83] Olyan vényre, amelyen az orvos a gyógyszer pontos adagolását a vényen nem egyértelműen tüntette fel, a gyógyszer kiadója a rendelt gyógyszert nem adhatja ki.
 
 (4) Ha az orvos erős hatású, belsőleges használatra szánt gyógyszert olyan adagolásban rendel, amely a megállapított legnagyobb egyszeri vagy napi adagot meghaladja, de a túllépést nem jelöli és külön aláírásával és bélyegző lenyomatával nem igazolja, a gyógyszerész a megállapított legnagyobb adagot szolgáltatja ki.
 
-(5)[^83] A gyógyszerész a forgalomba hozatalra engedélyezett gyógyszert alkotórészként tartalmazó magisztrális gyógyszert akkor készíthet el, ha meggyőződött róla, hogy a forgalomba hozatalra engedélyezett készítmény
+(5)[^84] A gyógyszerész a forgalomba hozatalra engedélyezett gyógyszert alkotórészként tartalmazó magisztrális gyógyszert akkor készíthet el, ha meggyőződött róla, hogy a forgalomba hozatalra engedélyezett készítmény
 
 a) hatóanyaga nem szerezhető be,
 
@@ -14,18 +14,18 @@ b) hatóanyaga az új, magisztrális gyógyszerformában a készítés és a vá
 
 c) segédanyagai nem befolyásolják kedvezőtlenül a magisztrális gyógyszer hatását és eltarthatóságát.
 
-(6)[^84] A (5) bekezdésben foglalt feltételek meglétének megállapítására a GYEMSZI módszertani levelet ad ki.
+(6)[^85] A (5) bekezdésben foglalt feltételek meglétének megállapítására a GYEMSZI módszertani levelet ad ki.
 
 (7) Gyógyszeranyag gyógyászati célra önmagában vény nélkül csak akkor és olyan mennyiségben adható ki, ha az egyszeri kiadásra alkalmas adagját (dosim) a FoNo meghatározta. Ettől eltérő kiadás nem gyógyászati célú felhasználásnak minősül, így erre a veszélyes és/vagy ellenőrzött anyagok forgalmazására meghatározott szabályokat tartalmazó külön jogszabály rendelkezései irányadóak.
 
-(8)[^85] Magisztrális gyógyszer készítése esetén készítési díj számítható fel. Ez a díj csak egyszer, egyféle címen, a kiadásra kerülő végső gyógyszerformánál számítható fel.
+(8)[^86] Magisztrális gyógyszer készítése esetén készítési díj számítható fel. Ez a díj csak egyszer, egyféle címen, a kiadásra kerülő végső gyógyszerformánál számítható fel.
 
-(9)[^86] Az egyedi előírat szerint rendelt gyógyszerek elkészítésénél a vonatkozó szakmai előírások szerint kell eljárni. A felhasznált segédanyag(ok) mennyiségét a vényen fel kell tüntetni, és ezek általános forgalmi adót tartalmazó árát (fogyasztói ár) tételesen kell felszámítani. Ez vonatkozik arra az esetre is, ha a gyógyszerész a gyógyszert a rendelvénytől eltérően készíti el (pl. inkompatibilitás).
+(9)[^87] Az egyedi előírat szerint rendelt gyógyszerek elkészítésénél a vonatkozó szakmai előírások szerint kell eljárni. A felhasznált segédanyag(ok) mennyiségét a vényen fel kell tüntetni, és ezek általános forgalmi adót tartalmazó árát (fogyasztói ár) tételesen kell felszámítani. Ez vonatkozik arra az esetre is, ha a gyógyszerész a gyógyszert a rendelvénytől eltérően készíti el (pl. inkompatibilitás).
 
-[^80]: A 13. § (1) bekezdése a 47/2005. (XI. 4.) EüM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^81]: A 13. § (2) bekezdése a 47/2005. (XI. 4.) EüM rendelet 9. § (1) bekezdésével megállapított, az 52/2012. (XII. 27.) EMMI rendelet 11. § h) pontja szerint módosított szöveg.
-[^82]: A 13. § (3) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 11. § h) pontja szerint módosított szöveg.
-[^83]: A 13. § (5) bekezdésének bevezető mondatrésze a 47/2005. (XI. 4.) EüM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^84]: A 13. § (6) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^85]: A 13. § (8) bekezdését a 47/2005. (XI. 4.) EüM rendelet 9. § (3) bekezdése iktatta be.
-[^86]: A 13. § (9) bekezdését a 47/2005. (XI. 4.) EüM rendelet 9. § (3) bekezdése iktatta be.
+[^81]: A 13. § (1) bekezdése a 47/2005. (XI. 4.) EüM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^82]: A 13. § (2) bekezdése a 47/2005. (XI. 4.) EüM rendelet 9. § (1) bekezdésével megállapított, az 52/2012. (XII. 27.) EMMI rendelet 11. § h) pontja szerint módosított szöveg.
+[^83]: A 13. § (3) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 11. § h) pontja szerint módosított szöveg.
+[^84]: A 13. § (5) bekezdésének bevezető mondatrésze a 47/2005. (XI. 4.) EüM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^85]: A 13. § (6) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^86]: A 13. § (8) bekezdését a 47/2005. (XI. 4.) EüM rendelet 9. § (3) bekezdése iktatta be.
+[^87]: A 13. § (9) bekezdését a 47/2005. (XI. 4.) EüM rendelet 9. § (3) bekezdése iktatta be.
