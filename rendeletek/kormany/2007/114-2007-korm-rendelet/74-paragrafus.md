@@ -1,25 +1,14 @@
-## 73. § A befogadott, valamint az emberkereskedelem áldozatává vált, tartózkodási engedéllyel ellátott harmadik országbeli állampolgár (a továbbiakban: az emberkereskedelem áldozatává vált harmadik országbeli állampolgár) alapvető létfenntartási feltételeinek megteremtéséhez a Hivatal ellátásokkal és támogatásokkal járul hozzá.
+## 73. §[^155] A befogadott, valamint az emberkereskedelem áldozatává vált, tartózkodási engedéllyel ellátott harmadik országbeli állampolgár (a továbbiakban: az emberkereskedelem áldozatává vált harmadik országbeli állampolgár) alapvető létfenntartási feltételeinek megteremtéséhez a Hivatal ellátásokkal és támogatással járul hozzá.
 
-74. § (1) A befogadottat és az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt személyes gondoskodás körébe tartozó ellátások, pénzbeli ellátások és pénzbeli támogatások illetik meg.
+74. §[^156] (1) A befogadottat, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt személyes gondoskodás körébe tartozó ellátások és pénzbeli támogatás illeti meg.
 
 (2) A személyes gondoskodás körébe tartozó ellátások:
 
-a) közösségi vagy annak megfelelő szálláson való elhelyezés és ellátás,
+a) a közösségi vagy annak megfelelő szálláson való elhelyezés és ellátás, valamint
 
-b) egészségügyi ellátás,
+b) az egészségügyi ellátás.
 
-c) oktatási intézményben való étkeztetés.
+(3) A közösségi szállásról vagy befogadó állomásról való kiköltözést követően a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár – rászorultsága esetén – kérelme alapján, a tartózkodási engedély első alkalommal történő kiállítását követő tizenkét hónapon keresztül havonta folyósított támogatást kaphat, amelynek mértéke a foglalkoztatást helyettesítő támogatás összege.
 
-(3) A pénzbeli ellátások:
-
-a) egyszeri kiköltözési segély,
-
-b) beiskolázási támogatás.
-
-(4) A pénzbeli támogatások:
-
-a) lakhatási támogatás,
-
-b) az ország végleges elhagyásának támogatása,
-
-c) a munkavállaláshoz szükséges munkaalmassági egészségügyi vizsgálat költségeinek, valamint a szakmai képesítést igazoló dokumentumok fordítása költségeinek megtérítése.
+[^155]: A 73. § a 221/2013. (VI. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^156]: A 74. § a 221/2013. (VI. 24.) Korm. rendelet 16. §-ával megállapított szöveg.

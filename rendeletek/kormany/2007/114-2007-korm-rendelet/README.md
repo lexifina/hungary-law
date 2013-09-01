@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | 2013-05-14 | 2007-114-20-22.26 | 142/2013. (V. 13.) Korm. rendelet |
 | 2013-07-01 | 2007-114-20-22.27 | 221/2013. (VI. 24.) Korm. rendelet |
 | 2013-08-01 | 2007-114-20-22.28 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2013-09-01 | 2007-114-20-22.29 | 221/2013. (VI. 24.) Korm. rendelet |
