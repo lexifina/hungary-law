@@ -1,9 +1,8 @@
-## 12–13. §[^9]
+## 13. § Az alapító okiratuk szerint nemzetiségi nevelést, nemzetiségi nevelés-oktatást folyató nevelési-oktatási intézmények a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet 10. § (1) bekezdésében foglaltak szerint felülvizsgálják a helyi tantervüket.
 
-14. § (1)[^10]
+14. § (1)[^3]
 
-(2)[^11]
+(2)[^4]
 
-[^9]: A 12–13. § a – 22/2013. (III. 22.) EMMI rendelet 42. § (2) bekezdésével megállapított – 11. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
-[^10]: A 14. § (1) bekezdése a 11. § (3) bekezdése alapján 2013. december 31-én lép hatályba.
-[^11]: A 14. § (2) bekezdése a 11. § (4) bekezdése alapján 2017. augusztus 31-én lép hatályba.
+[^3]: A 14. § (1) bekezdése a 11. § (3) bekezdése alapján 2013. december 31-én lép hatályba.
+[^4]: A 14. § (2) bekezdése a 11. § (4) bekezdése alapján 2017. augusztus 31-én lép hatályba.

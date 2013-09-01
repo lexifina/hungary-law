@@ -1,5 +1,19 @@
-## 9. §[^6]
+## 9. § Az alapfokú és a középfokú iskolai nevelés-oktatás szakaszában a nemzetiségi nevelés-oktatás bármely formája alkalmazható. A nemzetiségi nevelés-oktatást végző általános és középfokú iskola pedagógiai programjába több nemzetiségi nevelési-oktatási forma is beépíthető. Az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában az anyanyelvű, a kétnyelvű, valamint a nyelvoktató nemzetiségi nevelés-oktatás a 8. § (2) bekezdésében, a 8. § (3) bekezdés h) pontjában és a 8. § (4) bekezdés c) pontjában meghatározott eltérésekkel alkalmazható.
 
 ## 4. A nemzetiségi nyelv és irodalom, valamint a nemzetiségi népismeret oktatásához szükséges időkeret biztosítása
 
-[^6]: A 9. § a – 22/2013. (III. 22.) EMMI rendelet 42. § (2) bekezdésével megállapított – 11. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+10. § (1) A nemzetiségi iskolai nevelés-oktatást az órarendbe építve, a nemzetiségi iskolai nevelés-oktatás Nkt. 6. melléklete szerinti többlet tanórai foglalkozásainak a felhasználásával kell megszervezni. A nemzetiségi iskolai nevelés-oktatás időkeretének biztosítására a tanuló heti kötelező tanórái számának és az osztályok engedélyezett heti időkeretének a különbözete, a választható tanórai foglalkozások időkerete is felhasználható.
+
+(2) Az anyanyelvű és a kétnyelvű nemzetiségi nevelés-oktatás esetén az első-negyedik évfolyamon a magyar nyelv és irodalom, valamint a nemzetiségi nyelv és irodalom oktatására előírt tananyagok és óraszámok a nyelvek és az évfolyamok között átcsoportosíthatók azzal a feltétellel, hogy mind a nemzetiségi nyelv és irodalomra, mind a magyar nyelv és irodalomra a négy év alatt összesen legalább hétszáznegyven-hétszáznegyven tanítási órát kell biztosítani. A negyedik évfolyam végére mind a két tantárgyból teljesíteni kell az előírt tananyagot és a meghatározott követelményeket. A felső tagozaton a nemzetiségi nyelv és irodalomra fordított órák száma nem lehet kevesebb a magyar nyelv és irodalomra fordított óraszámnál.
+
+(3) A nyelvoktató nemzetiségi nevelési-oktatási formában a heti kötelező órakeretből a nemzetiségi nyelv és irodalom oktatására legalább négy, a horvát, német, román, szerb, szlovák és szlovén nyelv oktatására legalább öt, a romani vagy beás nyelv oktatására legalább három tanórát szükséges biztosítani.
+
+(4) Szakiskolában a heti kötelező órakeretből a nemzetiségi nyelv oktatására legalább heti két tanórát szükséges biztosítani.
+
+(5) Bármely nevelési-oktatási forma esetében a nemzetiségi nyelv és irodalom oktatására meghatározott heti kötelező tanórák időkerete az első–negyedik évfolyamon az egyes évfolyamok, tanítási év közben a tanítási hetek között átcsoportosítható azzal a megkötéssel, hogy a kötelező tanórák száma egyetlen évfolyamon sem lehet kevesebb heti három óránál, a romani és beás nyelvek oktatása esetén kettő óránál. Évfolyamok közötti átcsoportosítás esetén a negyedik évfolyam végére, a tanítási hetek közötti átcsoportosítás esetén az adott év végére teljesíteni kell az előírt időkeretet, tananyagot és a meghatározott követelményeket.
+
+(6) Bármely nevelési-oktatási forma esetében a negyedik–nyolcadik évfolyamon az idegen nyelv oktatására biztosított óraszám részben, a kilencedik–tizenkettedik évfolyamon a második idegen nyelv oktatására biztosított óraszám – a romani és beás nyelv kivételével – a nemzetiségi nyelv oktatására részben vagy egészben átcsoportosítható.
+
+(7) Bármely nevelési-oktatási forma esetében a készségtárgyakra előírt óraszámból évi harminchét óra átcsoportosítható a nemzetiségi nyelv és irodalom vagy a nemzetiségi népismeret oktatására.
+
+(8) A nemzetiségi népismeret tantárgy oktatására bármely nevelési-oktatási forma és évfolyam esetében heti egy tanórát, évi harminchét tanórát kell biztosítani. Szakiskolában a nemzetiségi népismeret oktatása nem kötelező, azonban heti egy tanórának megfelelő időkeretben a nemzetiségi népismeret követelményeihez kapcsolódó tevékenységet kell biztosítani.
