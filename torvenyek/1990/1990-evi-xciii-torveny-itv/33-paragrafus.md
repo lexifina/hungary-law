@@ -92,7 +92,7 @@ történik a kiállítása;
 
 28. a jogi segítségnyújtás engedélyezésére irányuló eljárás;
 
-29. a rendőrhatósági kényszerintézkedés alá helyezési eljárásban az eljárás alá vont személy által előterjesztett panasz és fellebbezés,
+29. a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés,
 
 30. az adóhatóság által az adózó adószámlájának egyenlegéről készített értesítés tárgyában hozott határozat elleni jogorvoslati eljárás,
 

@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2013-07-06 | 2013. évi CXXIX. törvény | 1990-93-00-00.129 |
 | 2013-07-20 | 2013. évi CXXXIV. törvény | 1990-93-00-00.130 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1990-93-00-00.131 |
+| 2013-09-01 | 2013. évi XCIII. törvény | 1990-93-00-00.132 |
