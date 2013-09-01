@@ -1,4 +1,4 @@
-## 2. függelék[^59]
+## 2. függelék[^60]
 
 ## Szám:
 
@@ -26,7 +26,7 @@
 
 ## vizsgaszervező vezetője
 
-## 3. függelék[^60]
+## 3. függelék[^61]
 
 2. melléklet a 174/2011. (VIII. 31.) Korm. rendelethez
 
@@ -38,7 +38,7 @@ Az ügykezelői alapvizsga vizsgaszabályzata
 
 3. A szóbeli vizsgán a vizsgázó részére a felkészüléshez legalább 20 percet biztosítani kell.
 
-4.[^61] A vizsgázónak a szóbeli vizsgán két tételt kell húznia. Egy tételt az általános ügyiratkezelési ismeretek témakörből kell húznia, amely tétel két kérdést tartalmaz. A titkos ügykezelés és titokvédelem témakörből egy tételt kell húznia. Felkészültségéről írásban is számot kell adnia.
+4.[^62] A vizsgázónak a szóbeli vizsgán két tételt kell húznia. Egy tételt az általános ügyiratkezelési ismeretek témakörből kell húznia, amely tétel két kérdést tartalmaz. A titkos ügykezelés és titokvédelem témakörből egy tételt kell húznia. Felkészültségéről írásban is számot kell adnia.
 
 5. A vizsgabizonyítvány minősítése:
 
@@ -58,7 +58,7 @@ megfelelt, ha az átlag 2,50–2,00
 
 9. A jelentkezési lap, a jegyzőkönyv, a bizonyítvány és a vizsganyilvántartó-könyv mintáját a függelékek tartalmazzák.
 
-10.[^62] A vizsgaszervező az NKE által rendelkezésére bocsátott írásbeli feladatokat – zárt borítékban – a vizsgaelnök rendelkezésére bocsátja a hozzájuk tartozó helyes megoldással együtt.
+10.[^63] A vizsgaszervező az NKE által rendelkezésére bocsátott írásbeli feladatokat – zárt borítékban – a vizsgaelnök rendelkezésére bocsátja a hozzájuk tartozó helyes megoldással együtt.
 
 ## 2. függelék
 
@@ -104,7 +104,7 @@ P. H.
 
 vizsgáztató bizottság elnöke
 
-3. függelék[^63]
+3. függelék[^64]
 
 3. függelék
 
@@ -134,7 +134,7 @@ P. H.
 
 | ............................................................... vizsgáztató bizottság elnöke |
 
-4. függelék[^64]
+4. függelék[^65]
 
 VIZSGANYILVÁNTARTÓ-KÖNYV
 
@@ -142,9 +142,9 @@ Az ügykezelői alapvizsgáról
 
 | Sorszám | Dátum | Vizsgázó családi és utóneve, (Születési családi és utóneve) születési helye, ideje anyja születési családi és utóneve | Munkáltató megnevezése | Bizonyítvány minősítése | Vizsgabizottság tagjainak megnevezése |
 
-[^59]: Az 1. melléklet 2. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés i) pontja szerint módosított szöveg.
-[^60]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
-[^61]: A 2. melléklet 4. pontja a 298/2013. (VII. 29.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
-[^62]: A 2. melléklet 10. pontját a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdése iktatta be.
-[^63]: A 2. melléklet 3. függeléke a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
-[^64]: A 2. melléklet 4. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés j) pontja szerint módosított szöveg.
+[^60]: Az 1. melléklet 2. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés i) pontja szerint módosított szöveg.
+[^61]: Az 1. melléklet 3. függelékét a 28. § (9) bekezdése hatályon kívül helyezte.
+[^62]: A 2. melléklet 4. pontja a 298/2013. (VII. 29.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^63]: A 2. melléklet 10. pontját a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdése iktatta be.
+[^64]: A 2. melléklet 3. függeléke a 273/2012. (IX. 28.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^65]: A 2. melléklet 4. függeléke a 178/2012. (VII. 26.) Korm. rendelet 5. § (17) bekezdés j) pontja szerint módosított szöveg.

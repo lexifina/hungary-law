@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-174-20-
 | 2012-09-29 | 2011-174-20-22.4 | 273/2012. (IX. 28.) Korm. rendelet |
 | 2013-01-01 | 2011-174-20-22.5 | 415/2012. (XII. 29.) Korm. rendelet |
 | 2013-08-01 | 2011-174-20-22.6 | 298/2013. (VII. 29.) Korm. rendelet |
+| 2013-09-01 | 2011-174-20-22.7 | 298/2013. (VII. 29.) Korm. rendelet |
