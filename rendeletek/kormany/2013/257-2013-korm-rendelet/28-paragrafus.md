@@ -1,4 +1,4 @@
-## 27. §[^22]
+## 27. §[^13]
 
 ## 7. Az egyes gyermekvédelmi tárgyú kormányrendeleteknek a gyermekvédelmi és gyámügyi eljárások egyszerűsítésével összefüggő módosításáról szóló 97/2013. (III. 29.) Korm. rendelet módosítása
 
@@ -12,4 +12,4 @@ c) 58. §-a,
 
 d) 61. §-a.
 
-[^22]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

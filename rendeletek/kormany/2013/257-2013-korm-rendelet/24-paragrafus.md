@@ -1,0 +1,1 @@
+## „(14) A hátrányos, halmozottan hátrányos helyzet fennállásának megállapítására irányuló eljárásra a gyermek (nagykorúvá vált gyermek) rendszeres gyermekvédelmi kedvezményre való jogosultsága tekintetében illetékességgel rendelkező települési önkormányzat jegyzője illetékes.”

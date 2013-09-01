@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-257-20-
 | --- | --- | --- |
 | 2013-07-06 | 2013-257-20-22.1 | 257/2013. (VII. 5.) Korm. rendelet |
 | 2013-07-07 | 2013-257-20-22.2 | 2010: CXXX. törvény |
+| 2013-09-01 | 2013-257-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
