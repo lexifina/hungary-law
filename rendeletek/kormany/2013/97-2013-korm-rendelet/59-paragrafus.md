@@ -1,3 +1,3 @@
-## 58. §[^20]
+## 58. §[^19]
 
-[^20]: Az 58. § a 257/2013. (VII. 5.) Korm. rendelet 28. § c) pontja alapján nem lép hatályba.
+[^19]: Az 58. § a 257/2013. (VII. 5.) Korm. rendelet 28. § c) pontja alapján nem lép hatályba.
