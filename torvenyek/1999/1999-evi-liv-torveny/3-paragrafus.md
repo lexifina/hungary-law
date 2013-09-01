@@ -7,3 +7,5 @@
 (3) Az OLAF közvetlen vagy az OLAF Koordinációs Irodán keresztül történő adatigénylését, illetve az OLAF Koordinációs Iroda jelentéstételi kötelezettségének teljesítése céljából kezdeményezett adatigénylést a NEBEK az e törvényben foglaltak szerint köteles teljesíteni.
 
 (4) A NEBEK ellátja a Schengeni Információs Rendszer Kiegészítő Információinak Cseréjét Biztosító Nemzeti Hatóság (SIRENE Iroda) külön törvényben, illetőleg az Európai Unió jogi aktusában meghatározott feladatait.
+
+(5) A NEBEK a Rendőrség, valamint a Vám- és Pénzügyőrség (a továbbiakban: magyar együttműködő szerv) tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
