@@ -14,4 +14,4 @@ f) fenntartói megkeresés esetén állást foglal a szakképzést érintő fenn
 
 g) együttműködik a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával a szakképzési feladatok és a szakképzésfejlesztés tervezésében,
 
-h)
+h) közreműködik a pályaorientációs és a pályakövetési feladatok megvalósításában.

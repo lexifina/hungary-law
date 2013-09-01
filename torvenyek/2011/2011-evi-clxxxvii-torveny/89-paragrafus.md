@@ -12,4 +12,6 @@ e) a szakiskolai képzésben szakképesítésenként a szakmai elméletre és a 
 
 f) a szakközépiskolában ágazatonként a kilencedik-tizenkettedik évfolyamra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket, valamint
 
-g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket.
+g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
+
+h) az e)–g) pont alapján kiadott szakképzési kerettanterv bevezetésének és alkalmazásának szabályait.

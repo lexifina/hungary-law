@@ -32,7 +32,7 @@ f) kezdeményezi a közismereti tárgyak oktatásához a szakiskolákban, továb
 
 g) közvetlenül – vagy az állami szakképzési és felnőttképzési szerv vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
 
-h)
+h) kidolgoztatja és működteti a 16. § szerinti, a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatását és a 9. § szerinti, a komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartását.
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter az OKJ alapján hatáskörébe utalt szakképesítések tekintetében ellátja a szakképesítésért felelős miniszter 73. §-ban meghatározott feladatait.
 

@@ -22,6 +22,8 @@
 
 (12)–(13)
 
-(14)
+(14) Az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítésben államilag támogatott iskolai rendszerű szakképzés kizárólag a vidékfejlesztésért felelős miniszter által alapított és fenntartott szakképző iskolában, vagy nem állami fenntartó esetén – a vidékfejlesztésért felelős miniszter egyetértésével kötött – szakképzési megállapodás alapján folyhat.
+
+(15) A szakképző iskola (14) bekezdés szerinti fenntartója szakképzési feladatait egyetlen szakképző iskola fenntartásával látja el, kivéve, ha a szakképző iskolai tanulói létszám az adott fenntartó esetében meghaladja a tízezret. Ebben az esetben az állami fenntartó több szakképző iskola fenntartásával is elláthatja a szakképzési feladatokat úgy, hogy valamennyi szakképző iskola tanulói létszáma az ötezer főt meghaladja. A létszám számítására a (3) bekezdés rendelkezéseit kell alkalmazni.
 
 (16) A honvédelemért felelős miniszter által fenntartott, kizárólag a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre való felkészítést folytató szakképző iskola esetében a térségi integrált szakképző központ keretében történő működés nem kötelező.

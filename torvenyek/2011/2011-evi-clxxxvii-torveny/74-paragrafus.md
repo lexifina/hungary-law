@@ -10,13 +10,7 @@ c) kezeli a komplex szakmai vizsgák adatait és a törzslapokat magába foglal�
 
 d) ellátja a szakképzési hozzájárulással, valamint a szakképzési és felnőttképzési támogatások kezelésével összefüggő, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat,
 
-e) ellátja a Felnőttképzési Akkreditáló Testület
-
-ea) hatáskörébe tartozó akkreditációs ügyek elbírálásának előkészítését,
-
-eb) titkársági feladatait,
-
-f) nyilvántartást vezet az akkreditált intézményekről és programokról, valamint
+e)–f)
 
 g) vezeti az országos szakképzési névjegyzéket.
 

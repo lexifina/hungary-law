@@ -95,3 +95,5 @@ Amennyiben a szakiskolai közismereti kerettanterv 2012. augusztus 15-ig nem ker
 (34) Az e törvény hatálybalépése előtt a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXVI. törvény alapján megalakult regionális fejlesztési és képzési bizottságok 2012. szeptember 30-ig látják el feladataikat. Az e törvényben meghatározott megyei fejlesztési és képzési bizottságokat 2012. szeptember 30-ig kell megalakítani, amely bizottságok az e törvény szerinti feladataikat 2012. október 1-jétől látják el.
 
 (35)
+
+(36) Az 5. § (14) bekezdésében meghatározott szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket és a 2013/2014-es tanévre 2013. szeptember 1. előtt beiskolázott tanulókat érintő képzéseket a szakképző iskola fenntartói jogainak a vidékfejlesztési miniszternek történő átadása és az 5. § (14) bekezdésében meghatározott szakképzési megállapodás megkötése nélkül is befejezheti. Ahol e § az 5. § (1)–(4) bekezdése szerint létrehozott vagy működő szakképző iskolát említ, azon az 5. § (15) bekezdése szerint működő szakképző iskolát is érteni kell.

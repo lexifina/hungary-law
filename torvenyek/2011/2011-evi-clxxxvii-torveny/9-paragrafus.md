@@ -24,4 +24,4 @@
 
 (8) A komplex szakmai vizsgán csak olyan bizonyítvány és nyomtatvány használható, amelyet a szakképzésért és felnőttképzésért felelős miniszter hagy jóvá. A bizonyítvány és a nyomtatvány előállításához és forgalmazásához a szakképzésért és felnőttképzésért felelős miniszter engedélye szükséges.
 
-(9)
+(9) A komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartásáról a szakképzésért és felnőttképzésért felelős miniszter gondoskodik.

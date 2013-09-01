@@ -1,4 +1,4 @@
-76. § (1)
+76. § (1) A gazdasági kamara – a pályaorientáció részletes szabályairól szóló kormányrendeletben meghatározottak szerint – közreműködik a pályaorientációval összefüggő, e törvényben meghatározott feladatok ellátásban.
 
 (2) A területileg illetékes gazdasági kamara a szakképző iskolával együttműködve ellátja a szintvizsga szervezését, továbbá a honlapján közzéteszi a szintvizsga-feladatbankot.
 

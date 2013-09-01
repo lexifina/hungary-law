@@ -20,7 +20,7 @@ a) az OKJ-t, az OKJ-ba történő felvétel és az OKJ-ból való törlés eljá
 
 b) a szakmai követelménymodulokat,
 
-c) a szakmai vizsgaszabályzatot, a komplex szakmai vizsgák szakmai ellenőrzésének általános szabályait, valamint a komplex szakmai vizsgák – személyes adatok körét nem érintő – adatait tartalmazó központi nyilvántartás vezetésének szabályait,
+c) a szakmai vizsgaszabályzatot, a komplex szakmai vizsgák szakmai ellenőrzésének általános szabályait, a komplex szakmai vizsgák – személyes adatok körét nem érintő – adatait tartalmazó központi nyilvántartás vezetésének szabályait, valamint a modulzáró vizsgák szervezésének és lebonyolításának részletes szabályait,
 
 d) a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
 
