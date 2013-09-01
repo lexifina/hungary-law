@@ -16,4 +16,4 @@ b) szakirányú továbbképzés
 
 is szervezhető.
 
-(4) A felsőoktatási intézmények az alapító okiratukban foglaltak alapján – a felnőttképzésről szóló törvényben meghatározott intézményi, valamint a képzési programjukban szereplő képzések esetében program akkreditáció nélkül – vehetnek részt a felnőttképzésben. A felsőoktatási intézmények, valamint a képzési programjukban szereplő képzések – a felnőttképzési törvényben meghatározott bejelentési eljárást követően – akkreditált intézménynek, valamint akkreditált programnak minősülnek.
+(4) A felsőoktatási intézmények az alapító okiratukban foglaltak alapján – a felnőttképzésről szóló törvény szerint – vehetnek részt a felnőttképzésben.
