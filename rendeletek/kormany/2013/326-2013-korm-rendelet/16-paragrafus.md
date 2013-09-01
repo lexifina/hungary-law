@@ -1,0 +1,25 @@
+## 6. A pedagógusok illetménypótléka megállapításának részletes szabályai
+
+16. § (1) A magasabb vezetői megbízás megszűnését megelőzően legalább tíz évig intézményvezetői megbízással rendelkező pedagógus „címzetes igazgatói” címben és pótlékban részesül, amennyiben intézményvezetői megbízásának lejártát vagy megszűnését követően továbbra is a korábban általa vezetett intézményben marad. A pótlék mértéke a volt intézményvezető korábbi vezetői pótlékának huszonöt százaléka.
+
+(2) Osztályfőnöki pótlékra jogosult az a pedagógus, aki iskolában osztályfőnöki feladatokat, kollégiumban, alapfokú művészeti iskolában önálló tanulócsoport-vezetői feladatot lát el.
+
+(3) A munkaközösség-vezetői (tanszakvezetői, tagozatvezetői, szakosztályvezetői) pótlékra az a pedagógus jogosult, aki intézményi munkaközösség-vezetői (tanszakvezetői, tagozatvezetői, szakosztályvezetői) vagy intézmények közötti munkaközösség-vezetői (tanszakvezetői, tagozatvezetői, szakosztályvezetői) feladatot lát el.
+
+(4) A tagintézmény-vezető, intézményegység-vezető az intézményvezető-helyettesi pótlék
+
+a) felső határa alapján megállapított pótlékra jogosult, ha a tagintézmény, intézményegység gyermek-, tanulólétszáma meghaladja a hétszázötven főt,
+
+b) az illetményalap harminc százalékának megfelelő pótlékra jogosult, ha a tagintézmény, intézményegység gyermek-, tanulólétszáma meghaladja a kettőszázötven főt, de legfeljebb hétszázötven fő,
+
+c) alsó határa alapján megállapított pótlékra jogosult, ha a tagintézmény, intézményegység gyermek-, tanulólétszáma legfeljebb kettőszázötven fő.
+
+(5) A tagintézményvezető-helyettes és az intézményegységvezető-helyettes az intézményvezető-helyettesi pótlék alsó határa alapján megállapított pótlékra jogosult.
+
+(6) Nemzetiségi pótlékra az a pedagógus jogosult, aki nemzetiségi nyelvű óvodában, iskolában, kollégiumban állandó jelleggel, neveléssel-oktatással lekötött munkaidejének legalább ötven százalékában nemzetiségi anyanyelven nevelő, oktató munkát végez. E pótlékra jogosult az a pedagógus is, aki óvodában, iskolában siket vagy nagyothalló gyermekek, tanulók nevelésénél, oktatásánál a jelnyelvet is alkalmazza, feltéve, hogy rendelkezik a szakértő jeltolmács vagy fordító jeltolmács szakképzettséggel.
+
+(7) Gyógypedagógiai pótlékra az a pedagógus jogosult, aki sajátos nevelési igényű gyermekek, tanulók óvodai nevelését, iskolai nevelés-oktatását, kollégiumi nevelését vagy fejlesztő nevelés-oktatását a szakértői bizottság szakvéleményében foglaltak szerint végzi, feltéve, ha kizárólag sajátos nevelési igényű gyermekekkel, tanulókkal foglalkozik, vagy ha az általa felkészített sajátos nevelési igényű gyermekek, tanulók aránya az intézményben a nevelési év, tanév első napján eléri a harminchárom százalékot.
+
+(8) A nehéz körülmények között végzett munkáért járó pótlékra az a pedagógus jogosult, aki olyan köznevelési intézményben dolgozik, amely a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló kormányrendelettel kiadott jegyzékben a társadalmi-gazdasági és infrastrukturális szempontból elmaradott települések között szereplő községben található.
+
+(9) A pedagógus számára jogszabályban meghatározottak szerint az (1)–(8) bekezdésben meghatározott pótlékokon felül további pótlék is megállapítható.

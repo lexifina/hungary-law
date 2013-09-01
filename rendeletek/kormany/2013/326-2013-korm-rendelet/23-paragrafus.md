@@ -1,0 +1,15 @@
+23. § (1) A pályázati eljárásban biztosítani kell, hogy a pályázat iránt érdeklődők a pályázatok elkészítéséhez szükséges tájékoztatást megkapják, és az intézményt megismerhessék.
+
+(2) A pályázatnak tartalmaznia kell a pályázó szakmai önéletrajzát, a vezetési programját, továbbá a pályázati felhívásban megfogalmazott feltételeknek történő megfelelés hitelt érdemlő igazolását, valamint a pályázó nyilatkozatát arról, hogy hozzájárul személyes adatainak a pályázattal kapcsolatos kezeléshez, továbbításához.
+
+(3) A pályáztató a pályázattal kapcsolatos vélemények kialakításához – a pályázatnak a nevelőtestület (szakalkalmazotti értekezlet) részére történő átadás napját követő első munkanaptól számítva – legalább harminc napot köteles biztosítani (a továbbiakban: véleményezési határidő).
+
+(4) A nevelőtestület (szakalkalmazotti értekezlet) az Nkt. 70. § (2) bekezdés j) pontja alapján a véleményezési határidőn belül alakíthatja ki szakmai véleményét a vezetési programról. A pályázati eljárásban lehetővé kell tenni, hogy a nevelőtestület (szakalkalmazotti értekezlet) mellett a vezetési programról véleményt nyilváníthasson a Nemzeti Pedagógus Kar illetékes területi szerve.
+
+(5) A pályáztató a pályázattal együtt megküldi a megbízási jogkör gyakorlójának a kialakított véleményeket, vagy tájékoztatja a megbízási jogkör gyakorlóját, ha a jogosultak nem éltek a véleményezési jogukkal.
+
+(6) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetében az illetékes tankerületi igazgató a pályázattal együtt megküldi az állami intézményfenntartó központ vezetőjének a kialakított véleményeket, vagy tájékoztatja, ha a jogosultak nem éltek a véleményezési jogukkal.
+
+(7) Az állami intézményfenntartó központ vezetője az eljárás jogszerűségéről szóló nyilatkozatát, és – több pályázó esetén – a pályázatok rangsoráról kialakított indokolt javaslatát megküldi a miniszternek.
+
+(8) A pályázatot a véleményezési határidő lejártát követő harminc, ha az elbírálásra váró pályázatok száma a huszonötöt eléri, hatvan napon belül el kell bírálni. Ha a megbízási jogkört közgyűlés vagy képviselő-testület gyakorolja, a pályázatokat a közgyűlés, képviselő-testület részére a véleményezési határidő lejártát követő harmincadik, illetve hatvanadik napot követő első testületi ülésre be kell nyújtani.
