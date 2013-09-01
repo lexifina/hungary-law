@@ -1,1 +1,0 @@
-## 1. § A Kormány a közoktatásról szóló – módosított – 1993. évi LXXIX. törvény 94. §-a (3) bekezdésének a) pontjában foglalt felhatalmazás alapján e rendelet mellékleteként kiadja az Óvodai nevelés országos alapprogramját.
