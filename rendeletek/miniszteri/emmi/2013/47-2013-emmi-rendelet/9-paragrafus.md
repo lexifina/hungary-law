@@ -1,5 +1,17 @@
-## 8. §[^6]
-
 ## 7. Országos mérés, értékelés, szakmai ellenőrzés elrendelése
 
-[^6]: A 8. § a 11. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+9. § (1) A köznevelésről szóló törvény 80. § (1) bekezdése alapján, a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet (a továbbiakban: miniszteri rendelet) 79. § (6) bekezdésében foglaltak szerint a 2013/2014. tanévben országos mérés, értékelés keretében meg kell vizsgálni az olvasási-szövegértési és a matematikai alapkészségek fejlődését a hatodik, a nyolcadik és a tizedik évfolyamon valamennyi tanulóra kiterjedően.
+
+(2) A hatodik, a nyolcadik és a tizedik évfolyamon a matematikai alapkészségek vizsgálatához szükséges mérőeszközt az adott nemzetiség nyelvén is rendelkezésre kell bocsátani azokban az iskolákban, ahol a matematika tantárgyat az adott nemzetiség nyelvén oktatják, és az (1) bekezdésben meghatározott mérést az adott kisebbség nyelvén bonyolítják le.
+
+(3) Az (1) bekezdésben meghatározott méréseket, értékeléseket a Hivatal szervezi meg az Országos szakértői névjegyzékben szereplő szakértők bevonásával 2014. május 28-án. A mérés napja tanítási napnak minősül, melyet az érintett tanulók a mérésben való részvétellel teljesítenek, további kötelező tanórai foglalkozás számukra nem szervezhető. A méréshez szükséges adatokat az érintett nevelési-oktatási intézmények a Hivatal részére 2013. november 22-ig küldik meg, a Hivatal által meghatározott módon.
+
+(4) A Hivatal 2015. február 27-ig országos, intézményi és fenntartói szintű elemzéseket készít, majd megküldi az intézményi szintű elemzéseket az intézmények vezetőinek, az intézményi és a fenntartói szintű elemzéseket a fenntartóknak, továbbá azokat honlapján nyilvánosságra hozza. A Hivatal az országos elemzést megküldi az EMMI-nek, amely azt 2015. április 30-ig a kormányzati honlapon nyilvánosságra hozza.
+
+(5) A miniszteri rendelet 135. §-a alapján a két tanítási nyelvű nevelést-oktatást folytató általános iskolában a Hivatal 2014. június 4-én szervezi meg azt a célnyelvi mérést, amely a hatodik évfolyamon a Közös Európai Referenciakeret (a továbbiakban: KER) szerinti A2 szintű, a nyolcadik évfolyamon az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet 2. számú mellékletében meghatározott KER szerinti B1 szintű nyelvtudást méri.
+
+(6) A tanuló eltérő ütemű fejlődéséből, fejlesztési szükségleteiből fakadó egyéni hátrányok csökkentése, továbbá az alapkészségek sikeres megalapozása és kibontakoztatása érdekében az általános iskolák 2013. október 11-ig felmérik azon első évfolyamos tanulóik körét, akiknél az óvodai jelzések vagy a tanév kezdete óta szerzett tapasztalatok alapján az alapkészségek fejlesztését hangsúlyosabban kell a későbbiekben támogatni, és ezért a tanító indokoltnak látja az azt elősegítő pedagógiai tevékenység megalapozásához a Diagnosztikus fejlődésvizsgáló rendszer alkalmazását. Az igazgatók 2013. október 25-ig – a Hivatal által meghatározott módon – jelentik a Hivatalnak az érintett tanulók létszámát. Az e bekezdésben meghatározott vizsgálatokat az iskoláknak a kiválasztott tanulókkal 2013. december 6-ig kell elvégezniük.
+
+(7) A köznevelésről szóló törvény 80. § (1) bekezdése alapján a 2013/2014. tanévben országos mérés, értékelés keretében gondoskodni kell a tanulók fizikai állapotának és edzettségének vizsgálatáról. A vizsgálatot a nevelési-oktatási intézményeknek 2014. április 2. és május 27. között kell megszervezniük a korábbi években rendelkezésükre bocsátott, a fittség vizsgálatára alkalmas módszertani anyagok alapján.
+
+(8) 2014. január 2. és április 1. között szakmai ellenőrzés keretében meg kell vizsgálni a magántanulóvá nyilvánítással kapcsolatos eljárást a tanügyi nyilvántartásokra és egyéb dokumentumokra alapozva az általános és a középiskolákban. Az ellenőrzést a Hivatal folytatja le. Az ellenőrzésről készített jelentést 2014. december 31-ig kell megküldeni az oktatásért felelős miniszter részére.

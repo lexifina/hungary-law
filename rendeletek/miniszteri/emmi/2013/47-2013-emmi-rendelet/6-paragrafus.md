@@ -1,5 +1,5 @@
-## 4–5. §[^3]
-
 ## 4. A vizsgák rendje
 
-[^3]: A 4–5. § a 11. § (2) bekezdése alapján 2013. július 1-jén lép hatályba.
+6. § (1) A középiskolai érettségi vizsgákat, a szakképző iskolai szakmai vizsgákat az 1. mellékletben foglaltak szerint kell megtartani.
+
+(2) Az alapfokú művészeti iskolákban a tanítási év utolsó három hetében lehet vizsgát szervezni. A vizsga időpontját az iskola igazgatója határozza meg.
