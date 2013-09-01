@@ -52,6 +52,6 @@
 
 | …………………………. 2013.év ………….…….hónap ….. nap P. H. A támogatási igény bejelentésére jogosult neve, aláírása fenntartó / foglalkoztató Az adatlap kitöltéséért felelős neve:…………………...…… telefonszáma:…………………..……. |
 
-9. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^17]
+9. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^19]
 
-[^17]: A 9. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § d) pontja szerint módosított szöveg.
+[^19]: A 9. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § d) pontja szerint módosított szöveg.

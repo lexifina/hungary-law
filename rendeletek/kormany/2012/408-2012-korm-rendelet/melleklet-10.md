@@ -46,6 +46,6 @@
 
 | fenntartó Az adatlap kitöltéséért felelős neve: telefonszáma: ……………. |
 
-10. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^18]
+10. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^20]
 
-[^18]: A 10. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § e) pontja szerint módosított szöveg.
+[^20]: A 10. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § e) pontja szerint módosított szöveg.

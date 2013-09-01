@@ -4,7 +4,7 @@ a) a (3) bekezdés szerinti kivétellel a központi, a társadalombiztosítási,
 
 b) a helyi önkormányzatok, a helyi nemzetiségi önkormányzatok, valamint a többcélú kistérségi társulások (a továbbiakban együtt: helyi önkormányzat), valamint
 
-c)[^7] a bevett egyház
+c)[^9] a bevett egyház
 
 részére az e rendelet alapján járó kompenzáció és annak járulékai kifizetéséhez.
 
@@ -14,4 +14,4 @@ részére az e rendelet alapján járó kompenzáció és annak járulékai kifi
 
 (4) Az e rendelet alapján igénybe vett támogatás kizárólag a foglalkoztatottak 2013. évi kompenzációjára használható fel, más jogcímen kifizetés nem teljesíthető.
 
-[^7]: A 4. § (1) bekezdés c) pontja a 297/2013. (VII. 29.) Korm. rendelet 87. §-ával megállapított szöveg.
+[^9]: A 4. § (1) bekezdés c) pontja a 297/2013. (VII. 29.) Korm. rendelet 87. §-ával megállapított szöveg.

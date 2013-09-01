@@ -20,14 +20,16 @@ i) a prémiumévek programról és a különleges foglalkoztatási állományró
 
 j) a költségvetési szervként működő nevelési oktatási intézményben pedagógus munkakörben foglalkoztatott pedagógusok esetében 2013. szeptember 1-jétől a nemzeti köznevelésről szóló 2011. évi CXC. törvény 65. § (1) bekezdés szerint illetményt (beleértve a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt is), továbbá a 65. § (3) bekezdés szerint megállapított illetménypótlékot.
 
-(2) Az (1) bekezdés a) és d) pontjában foglaltaktól eltérően a 2. § vonatkozásában nem kell illetményként figyelembe venni az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) alapján az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó
+(2)[^7] Az (1) bekezdés a) és d) pontjában foglaltaktól eltérően a 2. § vonatkozásában nem kell illetményként figyelembe venni az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) alapján az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó foglalkoztatott illetményének az Eütev. 11/A. § (4)–(6a) bekezdése alapján járó növelését.
 
-a) a 2012. június 30-át követően az Eütev. 11/A. § (5) bekezdése szerinti munkakört létesítő foglalkoztatott és
+(2a)[^8] A (2) bekezdés alkalmazásában
 
-b) a 2012. december 31-ét követően az Eütev. 11/A. § (4) bekezdése szerinti munkakört létesítő foglalkoztatott
+a) az Eütev. 11/A. § (4) vagy (5) bekezdése alapján járó növelésnek kell tekinteni az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 4. melléklete vagy 5. melléklete szerinti összeget,
 
-illetményének a foglalkoztatott besorolása alapján rá irányadó, az Eütev. 1. vagy 3. mellékletében meghatározott összegű részét.
+b) az Eütev. 11/A. § (6) vagy (6a) bekezdése alapján járó növelésnek kell tekinteni az Eütev. 11/A. § (6) vagy (6a) bekezdésében meghatározott összeget.
 
 (3) A kompenzáció a személyi jövedelemadó-előleg megállapításánál nem rendszeres jövedelemnek minősül, és a költségvetési rend szerint egyéb munkavégzéshez kapcsolódó juttatásként kell elszámolni. A kifizetés a statisztikai elszámolásokban a szociális költségek között kerül figyelembe vételre.
 
 [^6]: A 3. § (1) bekezdés d) pontja a 187/2013. (VI. 7.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (2) bekezdése a 256/2013. (VII. 5.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2a) bekezdését a 256/2013. (VII. 5.) Korm. rendelet 18. § (2) bekezdése iktatta be.
