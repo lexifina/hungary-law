@@ -188,7 +188,7 @@
 
 ## „Édes anyanyelvünk” országos nyelvhasználati verseny
 
-3. melléklet a 3/2012. (VI. 8.) EMMI rendelethez
+3. melléklet a 3/2012. (VI. 8.) EMMI rendelethez[^2]
 
 A középfokú iskolai és a Köznevelési Hídprogramba történő felvételi eljárás lebonyolításának ütemezése a 2012/2013. tanévben
 
@@ -224,7 +224,7 @@ A középfokú iskolai és a Köznevelési Hídprogramba történő felvételi e
 
 | 14. | 2013. 01. 25. | A Hátrányos Helyzetű Tanulók Arany János Tehetséggondozó Programjába tartozó intézmények megszervezik a találkozást a programba jelentkező, a pótló írásbelin részt vett tanulókkal. |
 
-| 15. | 2013. 01. 31. | A megyei kormányhivatal, a fővárosban a főjegyző megküldi az általános iskolának a kötelező felvételi feladatot ellátó középfokú iskola nevét és címét. |
+| 15. |  |  |
 
 | 16. | 2013. 02. 01. | Jelentkezés a Belügyminisztérium és a Honvédelmi Minisztérium által fenntartott iskolákba. |
 
@@ -267,3 +267,5 @@ A középfokú iskolai és a Köznevelési Hídprogramba történő felvételi e
 | 35. | 2013. 07. 30.–08. 02. | Beiratkozás a Honvédelmi Minisztérium által fenntartott szakképző iskolába. |
 
 | 36. | 2013. 08. 05–23. | Beiratkozás a Belügyminisztérium által fenntartott rendészeti szakközépiskolákba. |
+
+[^2]: A 3. melléklet a 16/2013. (II. 28.) EMMI rendelet 36. § (9) bekezdés b) pontja szerint módosított szöveg.
