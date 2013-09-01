@@ -1,4 +1,4 @@
-22/A. §[^52] (1) A 2. melléklet 1. pontja szerinti kérelmet, illetve bejelentést a kormányablak legkésőbb a benyújtást követő munkanapon továbbítja az eljárásra hatáskörrel és illetékességgel rendelkező hatóságnak.
+22/A. §[^53] (1) A 2. melléklet 1. pontja szerinti kérelmet, illetve bejelentést a kormányablak legkésőbb a benyújtást követő munkanapon továbbítja az eljárásra hatáskörrel és illetékességgel rendelkező hatóságnak.
 
 (2) Amennyiben a kérelem, illetve bejelentés hiányos, a kormányablak továbbítja a hiányos kérelmet, illetve bejelentést az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz, és tájékoztatja az ügyfelet a hiányosságokról.
 
@@ -10,4 +10,4 @@
 
 (6) A kormányablak mint közreműködő hatóság eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 38/A. § (3) bekezdés b)–d) pontja nem alkalmazható.
 
-[^52]: A 22/A. §-t a 402/2012. (XII. 28.) Korm. rendelet 15. §-a iktatta be.
+[^53]: A 22/A. §-t a 402/2012. (XII. 28.) Korm. rendelet 15. §-a iktatta be.

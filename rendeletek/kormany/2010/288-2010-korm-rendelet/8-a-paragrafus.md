@@ -1,4 +1,4 @@
-8/A. §[^23] (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt kormánymegbízott figyelemmel kíséri.
+8/A. §[^24] (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt kormánymegbízott figyelemmel kíséri.
 
 (2) A kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt kormánymegbízott
 
@@ -42,4 +42,4 @@ c) a Kormány döntését igénylő kérdésben előterjesztést készít a Korm
 
 (8) A (2) és a (3)–(5) bekezdés szerinti feladatok ellátása során nem alkalmazandó a 6. § (5) és (5a) bekezdése.
 
-[^23]: A 8/A. §-t a 261/2012. (IX. 17.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 8/A. §-t a 261/2012. (IX. 17.) Korm. rendelet 1. §-a iktatta be.
