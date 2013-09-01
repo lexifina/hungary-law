@@ -2,9 +2,9 @@
 
 ## 65. §
 
-(1)[^119] Az Országgyűlés ülésén elhangzottakról szó szerinti jegyzőkönyvet kell vezetni, amelyet a soros jegyzők hitelesítenek. Ha az Országgyűlés napirend előtti felszólalást, illetőleg egy vagy több napirendi pontot zárt ülésen tárgyal, erről külön készül szó szerinti jegyzőkönyv.
+(1)[^124] Az Országgyűlés ülésén elhangzottakról szó szerinti jegyzőkönyvet kell vezetni, amelyet a soros jegyzők hitelesítenek. Ha az Országgyűlés napirend előtti felszólalást, illetőleg egy vagy több napirendi pontot zárt ülésen tárgyal, erről külön készül szó szerinti jegyzőkönyv.
 
-(2)[^120] A jegyzőkönyv irattárban elhelyezendő mellékletei:
+(2)[^125] A jegyzőkönyv irattárban elhelyezendő mellékletei:
 
 a) a tárgyalás alá vont irat,
 
@@ -20,5 +20,5 @@ f) az írásbeli választ igénylő kérdés és az arra adott válasz.
 
 (3) A számítógépes szavazási lista a jegyzőkönyv melléklete.
 
-[^119]: A 65. § (1) bekezdésének második mondatát a 34/2001. (VI. 1.) OGY határozat 4. §-a iktatta a szövegbe.
-[^120]: A 65. § (2) bekezdésének felvezető szövegrésze a 71/1997. (VII. 17.) OGY határozat 18. §-ával megállapított szöveg.
+[^124]: A 65. § (1) bekezdésének második mondatát a 34/2001. (VI. 1.) OGY határozat 4. §-a iktatta a szövegbe.
+[^125]: A 65. § (2) bekezdésének felvezető szövegrésze a 71/1997. (VII. 17.) OGY határozat 18. §-ával megállapított szöveg.

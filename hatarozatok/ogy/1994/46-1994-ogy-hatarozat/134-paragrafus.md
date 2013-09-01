@@ -1,6 +1,6 @@
 ## A bizalmatlansági indítvány és a bizalmi szavazás
 
-## 134. §[^308]
+## 134. §[^313]
 
 (1) A miniszterelnökkel szemben benyújtott bizalmatlansági indítványra és a miniszterelnök bizalmi szavazásra vonatkozó javaslatára (a továbbiakban együtt: bizalmatlansági indítvány), a határozati javaslatra és ennek tárgyalására meghatározott szabályokat a következő eltérésekkel kell alkalmazni:
 
@@ -16,4 +16,4 @@ a) a javaslatot az Országgyűlés ülésén szóban is – legkésőbb a benyú
 
 b) az előterjesztésről változatlan tartalommal kell zárószavazást tartani.
 
-[^308]: A 134. § a 36/2012. (IV. 19.) OGY határozat 58. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^313]: A 134. § a 36/2012. (IV. 19.) OGY határozat 58. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

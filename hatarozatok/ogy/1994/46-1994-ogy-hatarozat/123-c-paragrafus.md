@@ -1,4 +1,4 @@
-## 123/C. §[^266]
+## 123/C. §[^271]
 
 (1) A vallásügyekkel foglalkozó bizottság az egyházként történő elismerés kérdésében előkészített törvényjavaslatot az elismerés feltételeinek fennállása és annak hiánya esetén is benyújtja a házelnöknek. Ha az elismerés Országgyűlés hatáskörébe tartozó feltételeinek vizsgálata alapján a vallási tevékenységet végző szervezet e feltételek valamelyikének nem felel meg, a meg nem felelés tényét és indokát a bizottság a törvényjavaslat indokolásában feltünteti.
 
@@ -22,4 +22,4 @@ d) nem nyújtható be az egyházakkal való kapcsolattartás koordinációjáér
 
 (7) Az országgyűlési határozati javaslatról, illetve az ahhoz beérkezett módosító javaslatokról az Országgyűlés abban az esetben dönt, ha a törvényjavaslatot nem fogadta el.
 
-[^266]: A 123/C. §-t a 68/2013. (VI. 26.) OGY határozat 1. §-a iktatta be.
+[^271]: A 123/C. §-t a 68/2013. (VI. 26.) OGY határozat 1. §-a iktatta be.

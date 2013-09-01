@@ -1,4 +1,4 @@
-## 57. §[^108]
+## 57. §[^113]
 
 ## A napirendi pont tárgyalásának elnapolása
 
@@ -10,4 +10,4 @@
 
 (3) A vita lezárására vonatkozó javaslat a szavazásnál megelőzi az elnapolásra vonatkozó javaslatot.
 
-[^108]: A 57. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 41. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.
+[^113]: A 57. §-t és az azt megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 74. § 41. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 75. § (4) bekezdését.

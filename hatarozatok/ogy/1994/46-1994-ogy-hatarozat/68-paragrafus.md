@@ -2,11 +2,11 @@
 
 ## 68. §
 
-(1)–(2)[^140]
+(1)–(2)[^145]
 
 (3) A bizottsági tagok kétötödének kérésére a bizottság meghallgatást tart.
 
-(4)[^141]
+(4)[^146]
 
-[^140]: A 68. § (1)–(2) bekezdését a 36/2012. (IV. 19.) OGY határozat 74. § 44. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
-[^141]: A 68. § (4) bekezdését a 36/2012. (IV. 19.) OGY határozat 74. § 44. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^145]: A 68. § (1)–(2) bekezdését a 36/2012. (IV. 19.) OGY határozat 74. § 44. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^146]: A 68. § (4) bekezdését a 36/2012. (IV. 19.) OGY határozat 74. § 44. pontja hatályon kívül helyezte, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

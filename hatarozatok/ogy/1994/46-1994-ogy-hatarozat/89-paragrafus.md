@@ -1,6 +1,6 @@
-## A jelentés és a beszámoló[^180]
+## A jelentés és a beszámoló[^185]
 
-## 89. §[^181]
+## 89. §[^186]
 
 (1) A jelentés, illetve a beszámoló valamely megtett intézkedésről, elvégzett vizsgálatról vagy valamely szerv tevékenységéről tájékoztatja az Országgyűlést.
 
@@ -10,5 +10,5 @@
 
 (4) A jelentéssel együtt az arra jogosult törvényjavaslatot és határozati javaslatot is benyújthat.
 
-[^180]: A 89. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 35. §-ával megállapított szöveg.
-[^181]: A 89. § a 36/2012. (IV. 19.) OGY határozat 35. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^185]: A 89. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 35. §-ával megállapított szöveg.
+[^186]: A 89. § a 36/2012. (IV. 19.) OGY határozat 35. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

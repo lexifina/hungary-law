@@ -8,9 +8,9 @@
 
 a) a jegyzőkönyvbe felvett felszólalás téves szövegének kiigazítására — a közszemlét követő ülésen — az elnök tesz javaslatot, amiről a bizottság vita nélkül határoz;
 
-b)[^148] a szó szerinti jegyzőkönyv hitelesített, eredeti példányát el kell helyezni az irattárban, valamint egy másolatát az Országgyűlési Könyvtárban. A bizottsági ülésen részvételre jogosultaknak – kérésükre – a szó szerinti jegyzőkönyvet ki kell adni.
+b)[^153] a szó szerinti jegyzőkönyv hitelesített, eredeti példányát el kell helyezni az irattárban, valamint egy másolatát az Országgyűlési Könyvtárban. A bizottsági ülésen részvételre jogosultaknak – kérésükre – a szó szerinti jegyzőkönyvet ki kell adni.
 
-(3)[^149]
+(3)[^154]
 
-[^148]: A 78. § (2) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 21. §-ával megállapított szöveg.
-[^149]: A 78. § (3) bekezdését újonnan a 90/2005. (XII. 15.) OGY határozat 1. §-a iktatta be, hatályon kívül helyezte a 36/2012. (IV. 19.) OGY határozat 74. § 48. pontja. Alkalmazására lásd ez utóbbi módosító határozat 75. § (4) bekezdését.
+[^153]: A 78. § (2) bekezdésének b) pontja a 71/1997. (VII. 17.) OGY határozat 21. §-ával megállapított szöveg.
+[^154]: A 78. § (3) bekezdését újonnan a 90/2005. (XII. 15.) OGY határozat 1. §-a iktatta be, hatályon kívül helyezte a 36/2012. (IV. 19.) OGY határozat 74. § 48. pontja. Alkalmazására lásd ez utóbbi módosító határozat 75. § (4) bekezdését.

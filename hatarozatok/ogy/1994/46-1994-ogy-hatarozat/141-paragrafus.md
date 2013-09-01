@@ -1,6 +1,6 @@
-## Az országos érdek-képviseleti és civil szervezetek jegyzékbe vétele[^330]
+## Az országos érdek-képviseleti és civil szervezetek jegyzékbe vétele[^335]
 
-## 141. §[^331]
+## 141. §[^336]
 
 (1) Az Országgyűlés Hivatala jegyzéket vezet azokról a bejegyzett országos érdek-képviseleti és civil szervezetekről, amelyek kérik jegyzékbe vételüket.
 
@@ -16,5 +16,5 @@ d) képviseletére jogosult személyeket, ezek címét.
 
 (3) A jegyzékbe vett érdek-képviseleti és civil szervezetek listáját az Országgyűlés honlapján közzé kell tenni.
 
-[^330]: A 141. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 69. §-ával megállapított szöveg.
-[^331]: A 141. § a 36/2012. (IV. 19.) OGY határozat 69. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^335]: A 141. §-t megelőző alcím a 36/2012. (IV. 19.) OGY határozat 69. §-ával megállapított szöveg.
+[^336]: A 141. § a 36/2012. (IV. 19.) OGY határozat 69. §-ával megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

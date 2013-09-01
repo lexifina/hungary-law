@@ -1,8 +1,8 @@
-## 122. §[^261]
+## 122. §[^266]
 
 ## A nemzetközi szerződés kihirdetéséről szóló törvényjavaslattal kapcsolatos eljárásokban az általános házszabályi rendelkezéseket a 123. §-ban foglalt eltérésekkel kell alkalmazni.
 
-## 123. §[^262]
+## 123. §[^267]
 
 (1) A nemzetközi szerződés kihirdetéséről szóló törvényjavaslathoz a nemzetközi szerződés tárgya szerint hatáskörrel rendelkező bizottság készít ajánlást.
 
@@ -14,5 +14,5 @@
 
 (5) Ha az általános vita lezárásáig a törvényjavaslathoz nem nyújtottak be a (2) bekezdés szerinti módosító javaslaton kívüli módosító javaslatot, az általános vitát a zárószavazás követi.
 
-[^261]: A 122. § a 36/2012. (IV. 19.) OGY határozat 50. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
-[^262]: A 123. § a 36/2012. (IV. 19.) OGY határozat 50. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^266]: A 122. § a 36/2012. (IV. 19.) OGY határozat 50. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.
+[^267]: A 123. § a 36/2012. (IV. 19.) OGY határozat 50. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító határozat 75. § (4) bekezdését.

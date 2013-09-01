@@ -1,3 +1,3 @@
-## Az Országgyűlés és az Európai Bizottság közötti politikai párbeszéd[^318]
+## Az Országgyűlés és az Európai Bizottság közötti politikai párbeszéd[^323]
 
-[^318]: A 134/G. §-t megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 65. §-a iktatta be.
+[^323]: A 134/G. §-t megelőző alcímet a 36/2012. (IV. 19.) OGY határozat 65. §-a iktatta be.
