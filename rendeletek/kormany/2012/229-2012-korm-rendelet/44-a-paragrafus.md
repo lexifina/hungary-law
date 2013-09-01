@@ -1,6 +1,6 @@
-## 44. §[^60] E rendelet alkalmazásában a lakosságszám meghatározása során a 39. § (1) bekezdése szerinti kérelem benyújtása évének első napján fennálló, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által kezelt adatokat kell figyelembe venni.
+## 44. §[^59] E rendelet alkalmazásában a lakosságszám meghatározása során a 39. § (1) bekezdése szerinti kérelem benyújtása évének első napján fennálló, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által kezelt adatokat kell figyelembe venni.
 
-## V/A. Fejezet[^61]
+## V/A. Fejezet[^60]
 
 ## A KÖZNEVELÉSI INTÉZMÉNY MŰKÖDTETÉSÉRE VONATKOZÓ FINANSZÍROZÁSI FELELŐSSÉG
 
@@ -10,5 +10,5 @@ a) működtetési kiadásokra kiterjedő kötelezettség terheli, és
 
 b) tevékenységekből származó bevétel illeti meg.
 
-[^60]: A 44. § a 315/2012. (XI. 13.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^61]: Az V/A. fejezetet (44/A–44/C. §) a 26/2013. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^59]: A 44. § a 315/2012. (XI. 13.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^60]: Az V/A. fejezetet (44/A–44/C. §) a 26/2013. (II. 12.) Korm. rendelet 1. §-a iktatta be.
