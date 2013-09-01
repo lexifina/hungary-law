@@ -6051,13 +6051,3 @@ szakmai és vizsgakövetelménye
 2.2. Szakmai előképzettség: -
 
 2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: szükségesek
-
-2.6. Elméleti képzési idő aránya: 50%
-
-2.7. Gyakorlati képzési idő aránya: 50%
-
-2.8. Szintvizsga: -
