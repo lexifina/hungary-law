@@ -2,4 +2,4 @@
 
 (2) Ha az indítványt a mentelmi jog felfüggesztésére jogosult elutasította, az eljárást meg kell szüntetni. Ha törvény eltérően nem rendelkezik, az eljárás ilyen okból történő megszüntetése nem akadálya annak, hogy a személyes mentesség megszűnését követően a büntetőeljárást lefolytassák.
 
-(3) A mentelmi jog felfüggesztését követően az eljárást soron kívül, e törvény szerint kell lefolytatni.
+(3)

@@ -16,7 +16,7 @@ d) a bűnszervezetben részvétel (Btk. 321. §),
 
 e) a bűnszervezetben (Btk. 459. § 1. pont) elkövetett bármely bűncselekmény,
 
-f) a csődbűncselekmény súlyosabban minősülő esete [Btk. 404. § (3) bekezdés], a versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban (Btk. 420. §), a pénzmosás (Btk. 399. és 400. §) és a költségvetési csalás súlyosabban minősülő esetei [Btk. 396. § (4)–(5) bekezdés],
+f)
 
 g) azok a bűncselekmények, amelyek büntethetősége a Btk. 26. § (3) bekezdése alapján nem évül el,
 

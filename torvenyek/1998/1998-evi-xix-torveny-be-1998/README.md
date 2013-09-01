@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2013-06-29 | 2013. évi LXXVIII. törvény | 1998-19-00-00.64 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1998-19-00-00.65 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1998-19-00-00.66 |
+| 2013-09-01 | 2013. évi CXII. törvény | 1998-19-00-00.67 |

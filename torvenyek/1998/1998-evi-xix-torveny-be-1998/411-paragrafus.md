@@ -6,4 +6,4 @@
 
 (3) A perújítási indítvány megküldése előtt az ügyész nyomozást rendelhet el. Ha az ügyész nyomozást rendel el, a (2) bekezdésben írt határidő a nyomozás befejezésétől számít.
 
-(4) Ha a perújítási indítványt a 408. § (1) bekezdésének e) pontja alapján terjesztették elő, a perújítási eljárást soron kívül kell lefolytatni.
+(4)

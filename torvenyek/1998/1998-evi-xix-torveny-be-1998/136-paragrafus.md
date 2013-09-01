@@ -1,6 +1,6 @@
 ## Soron kívüli eljárás, az előzetes letartóztatás megszüntetése
 
-136. § (1) A bíróságnak, az ügyésznek, illetőleg a nyomozó hatóságnak arra kell törekednie, hogy az előzetes letartóztatás a lehető legrövidebb ideig tartson. Ha a terhelt előzetes letartóztatásban van, az eljárást soron kívül kell lefolytatni.
+136. § (1) A bíróságnak, az ügyésznek, illetve a nyomozó hatóságnak arra kell törekednie, hogy az előzetes letartóztatás a lehető legrövidebb ideig tartson.
 
 (2) Az előzetes letartóztatás megszűnik, ha a tartama meghosszabbítás vagy fenntartás nélkül lejárt, az eljárást jogerősen befejezték, a nyomozást megszüntették, annak határideje lejárt és az előzetes letartóztatást a bíróság a (3) bekezdés alapján nem hosszabbította meg, továbbá, ha a vádemelést elhalasztották. Az előzetes letartóztatást meg kell szüntetni, ha az elrendelésének oka megszűnt.
 

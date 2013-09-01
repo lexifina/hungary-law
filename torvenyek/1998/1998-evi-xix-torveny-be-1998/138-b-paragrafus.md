@@ -20,4 +20,4 @@ indítványozhatja.
 
 (4) Ha a bíróság a távoltartás módosításáról vagy megszüntetéséről határoz, a távoltartás elrendelését indítványozó nyilatkozatát, valamint az ügyész, a magánvádló, illetőleg a pótmagánvádló indítványát beszerzi. A bíróság a nyilatkozat, illetőleg az indítvány előterjesztésére határidőt állapít meg; ha e határidő eredménytelenül eltelt, a bíróság a rendelkezésre álló adatok alapján határoz. A bíróság a határozatot a 138/A. § (1) bekezdésének b) pontjában meghatározott személy részére is megküldi.
 
-(5) Ha a terhelttel szemben távoltartást rendeltek el, az eljárást soron kívül kell folytatni.
+(5)

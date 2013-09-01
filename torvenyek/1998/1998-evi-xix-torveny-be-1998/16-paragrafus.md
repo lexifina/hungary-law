@@ -20,9 +20,9 @@ i) a minősített adat és a nemzeti adatvagyon elleni bűncselekmények (Btk. X
 
 j) a fogolyzendülés (Btk. 284. §), a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény (Btk. 289. §);
 
-k) a korrupciós bűncselekmények (Btk. XXVII. Fejezet);
+k) az 554/B. § b) pontja szerinti korrupciós bűncselekmények az ott meghatározott esetekben;
 
-l) a hivatali bűncselekmények (Btk. XXVIII. Fejezet);
+l) a hivatali visszaélés (Btk. 305. §);
 
 m) a nemzetközileg védett személy elleni erőszak (Btk. 313. §);
 
@@ -34,9 +34,9 @@ p) a választás, a népszavazás, a népi kezdeményezés és az európai polg�
 
 q) a különösen nagy vagy ezt meghaladó értékre elkövetett kifosztás [Btk. 366. § (3) bekezdés a) pont];
 
-r) a különösen nagy vagy a különösen jelentős értékre elkövetett lopás [Btk. 370. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy a különösen jelentős kárt okozó rongálás [Btk. 371. § (5) és (6) bekezdés], a különösen nagy vagy a különösen jelentős értékre elkövetett sikkasztás [Btk. 372. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy a különösen jelentős kárt okozó csalás [Btk. 373. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (3) bekezdés a) pont, (4) és (5) bekezdés], a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó hűtlen kezelés [Btk. 376. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy ezt meghaladó vagyoni hátrányt okozó hanyag kezelés [Btk. 377. § (2) bekezdés], a különösen nagy vagy a különösen jelentős értékre elkövetett orgazdaság [Btk. 379. § (5) bekezdés a) pont és (6) bekezdés];
+r) a különösen jelentős értékre elkövetett lopás [Btk. 370. § (6) bekezdés a) pont], a különösen jelentős kárt okozó rongálás [Btk. 371. § (6) bekezdés], a különösen jelentős értékre elkövetett sikkasztás [Btk. 372. § (6) bekezdés a) pont], a különösen jelentős kárt okozó csalás [Btk. 373. § (6) bekezdés a) pont], különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (4) bekezdés a) pont és (5) bekezdés], a különösen jelentős vagyoni hátrányt okozó hűtlen kezelés [Btk. 376. § (6) bekezdés a) pont], a különösen nagy vagy ezt meghaladó vagyoni hátrányt okozó hanyag kezelés [Btk. 377. § (2) bekezdés], a különösen jelentős értékre elkövetett orgazdaság [Btk. 379. § (6) bekezdés a) pont];
 
-s) a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 385. § (4) bekezdés b) és c) pont], a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó iparjogvédelmi jogok megsértése [Btk. 388. § (3) bekezdés b) és c) pont];
+s) a különösen jelentős vagyoni hátrányt okozó szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 385. § (4) bekezdés c) pont], a különösen jelentős vagyoni hátrányt okozó iparjogvédelmi jogok megsértése [Btk. 388. § (3) bekezdés c) pont];
 
 t) a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó költségvetési csalás [Btk. 396. § (4) bekezdés a) pont és (5) bekezdés] és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása (Btk. 397. §);
 

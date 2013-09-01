@@ -29,9 +29,3 @@ g) a tolmácsra és a fordítóra vonatkozó rendelkezéseket, a tolmács és a 
 h) a házi őrizet végrehajtási szabályait, valamint a lakhelyelhagyási tilalommal összefüggésben a terhelt mozgását nyomon követő eszköz alkalmazásának szabályait a rendészetért felelős miniszter egyetértésével kiadott,
 
 i) az óvadék letétele esetén a bírósági letét szabályait,
-
-j) a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
-
-k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett más módon való rögzítésének szabályait, valamint a tárgyalás zártcélú távközlő hálózat útján történő megtartásának részletes szabályait,
-
-l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
