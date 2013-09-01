@@ -1,4 +1,4 @@
-8/B. §[^7] (1) Amennyiben a Kkt. 21. §-ában meghatározott közigazgatási bírságot a járművezetővel szemben szabják ki, és ahhoz a külön jogszabály előéleti pontot rendel, arról az ügyfelet a határozatban tájékoztatni kell.
+8/B. §[^8] (1) Amennyiben a Kkt. 21. §-ában meghatározott közigazgatási bírságot a járművezetővel szemben szabják ki, és ahhoz a külön jogszabály előéleti pontot rendel, arról az ügyfelet a határozatban tájékoztatni kell.
 
 (2) Ha a megengedett legnagyobb sebességre, a vasúti átjárón való áthaladásra, a járműforgalom irányítására szolgáló fényjelző készülék jelzéseire, az autópálya leálló sávjának igénybevételére, a behajtási tilalomra, a korlátozott övezetre (zóna) és a kötelező haladási irányra, az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó rendelkezések megsértője a helyszíni ellenőrzés során vagy az eljárás során a (3) bekezdés szerint ismertté vált, akkor az 1–6. és 9. mellékletben meghatározott, a Kkt. 21. § (2) bekezdése szerinti bírság nem szabható ki.
 
@@ -14,4 +14,4 @@ b) az üzemben tartónak a hatóság előtt vagy a hatóság felé tett nyilatko
 
 (5) A Kkt. 21. § (1) bekezdés h) pontjában meghatározott szabályszegés esetében az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló törvényben (a továbbiakban: ED törvény) meghatározott UD rendszer üzemeltetője által a bírság kiszabására jogosult hatóságnak átadott adatok alapján közigazgatási hatóság eljárást az ismertté vált járművezetővel szemben csak akkor lehet megindítani vagy lefolytatni, ha ugyanazon jogsértés miatt vele szemben a Kkt. 20. §-a alapján közigazgatási bírságot nem szabtak ki.
 
-[^7]: A 8/B. §-t a 175/2013. (V. 31.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 8/B. §-t a 175/2013. (V. 31.) Korm. rendelet 1. §-a iktatta be.
