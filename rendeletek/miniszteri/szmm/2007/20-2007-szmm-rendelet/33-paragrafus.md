@@ -1,1 +1,0 @@
-## Igazolás a modulzáró vizsgáról
