@@ -5987,15 +5987,3 @@ A vizsgafeladat megnevezése: Weblapkészítés, programozás
 A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt egy webes dokumentumot készít el, és egy ehhez kapcsolódó programozási feladatot old meg a 10817-12 számú „Hálózatok, programozás és adatbázis-kezelés” modul programozás és weblapkészítés témaköreihez kapcsolódóan, az általa megismert szoftver eszközök felhasználásával.
 
 A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat értékelési súlyaránya: 15%
-
-C)
-
-A vizsgafeladat megnevezése: Adatbázis-kezelés
-
-A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt kapcsolódik egy SQL kiszolgálón található adatforráshoz és a kijelölt feladatnak megfelelő adatbázis-kezelési és lekérdezési műveleteket hajt végre a 10817-12 számú„Hálózatok, programozás és adatbázis-kezelés” modul adatbázis-kezelés témaköreihez kapcsolódóan.
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 5%
