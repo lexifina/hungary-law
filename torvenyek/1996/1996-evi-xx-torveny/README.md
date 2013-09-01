@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2013-01-01 | 2012. évi CLXXXI. törvény | 1996-20-00-00.36 |
 | 2013-03-01 | 2012. évi CCVII. törvény | 1996-20-00-00.37 |
 | 2013-07-01 | 2013. évi LXXXI. törvény | 1996-20-00-00.38 |
+| 2013-09-01 | 2013. évi XCIII. törvény | 1996-20-00-00.39 |
