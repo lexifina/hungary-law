@@ -1,4 +1,4 @@
-## 29–52. §[^9]
+## 29–52. §[^7]
 
 ## 5. Záró rendelkezések
 
@@ -12,4 +12,4 @@ b) a 25. §, valamint
 
 c) a 27–28. §.
 
-[^9]: A 29–52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 29–52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

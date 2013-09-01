@@ -1,3 +1,1 @@
-## 25. §[^6]
-
-[^6]: A 25. § az 53. § (2) bekezdés b) pontja alapján 2013. szeptember 1-jén lép hatályba.
+## „(6) Az (1)–(2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott megye közigazgatási területét jelölheti ki.”
