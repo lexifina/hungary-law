@@ -6,7 +6,7 @@
 
 (2) A szabadság nyilvántartását és a kiadás tervezését szervezeti egységenként a szolgálati feladatok függvényében és az érintettek igényének figyelembevételével az állományilletékes parancsnok intézkedése szerint kell végrehajtani.
 
-(3)[^37] A szabadság engedélyezésére vonatkozó munkáltatói jogkört az állományilletékes parancsnok a szolgálati elöljáróra átruházhatja.
+(3)[^38] A szabadság engedélyezésére vonatkozó munkáltatói jogkört az állományilletékes parancsnok a szolgálati elöljáróra átruházhatja.
 
 (4) A szabadság kiadásánál a hivatali munkarendben dolgozók számára az ötnapos munkahét munkanapjait kell szabadságként figyelembe venni. A folyamatos ügyeleti szolgálatot ellátók és a váltásos munkarendben dolgozók esetében a szabadság kiadása a szolgálati napok figyelembevételével történik.
 
@@ -24,4 +24,4 @@ c) a napok hányadosát három tizedes jegyig kell kiszámítani, a kerekítés 
 
 (8) A Hszt. 94. § (1) bekezdés a) pontjában meghatározott egészségügyi szabadság a gyermek kórházi ápolását vagy betegségét megállapító orvosi igazolás alapján vehető igénybe.
 
-[^37]: [Az 51. § (3) bekezdésében a 81/2012. (XII. 28.) BM rendelet 25. § (2) bekezdés d) pontjával elrendelt módosítás, amely szerint az „állományilletékes parancsnoka szolgálati” szövegrész helyébe az „állományilletékes parancsnok a szolgálati” szöveg lép, nem vezethető át.]
+[^38]: [Az 51. § (3) bekezdésében a 81/2012. (XII. 28.) BM rendelet 25. § (2) bekezdés d) pontjával elrendelt módosítás, amely szerint az „állományilletékes parancsnoka szolgálati” szövegrész helyébe az „állományilletékes parancsnok a szolgálati” szöveg lép, nem vezethető át.]
