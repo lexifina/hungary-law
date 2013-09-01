@@ -6,6 +6,16 @@
 
 (4) A folyamatban lévő képzéseket a megkezdésükkor hatályos szakmai és vizsgakövetelményeket megállapító rendelet alapján kell befejezni.
 
-(5)[^1]
+(5) Hatályát veszti
 
-[^1]: A 3. § (5) bekezdése a 3. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+a) az ipari és kereskedelmi szakképesítések szakmai és vizsgakövetelményiről szóló 18/1995. (VI. 6.) IKM rendelet,
+
+b) az egyes szakmai és vizsgakövetelmények kiadásáról szóló 28/2003. (X. 18.) OM rendelet,
+
+c) a szociális és munkaügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 15/2008. (VIII. 13.) SZMM rendelet,
+
+d) az önkormányzati és területfejlesztési miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 25/2008. (IV. 29.) ÖTM rendelet 1. melléklet 7. és 8. pontja,
+
+e) az oktatási és kulturális miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 25/2010. (V. 14.) OKM rendelet,
+
+f) az egészségügyért felelős miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 1/2011. (I. 7.) NEFMI rendelet.
