@@ -1,7 +1,0 @@
-A szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § e), h) és j) pontjában meghatározott feladatkörömben eljárva,
-
-az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § n) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben,
-
-az 1. melléklet 1. sorszáma szerinti szakképesítés vonatkozásban az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § h) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § u) pontjában meghatározott feladatkörében eljáró belügyminiszterrel, valamint az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § m) pontjában meghatározott feladatkörében eljáró vidékfejlesztési miniszterrel egyetértésben,
-
-az 1. melléklet 10. sorszáma szerinti szakképesítés vonatkozásban a Központi Statisztikai Hivatal elnökével egyetértésben a következőket rendelem el:
