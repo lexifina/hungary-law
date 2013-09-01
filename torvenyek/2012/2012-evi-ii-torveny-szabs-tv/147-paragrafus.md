@@ -10,7 +10,11 @@
 
 (5) A méltányossági kérelmet az ügyben érdemi határozatot hozó bíróságnál, vagy a határozatot hozó szabálysértési hatóságnál kell előterjeszteni, amely a kérelmet az ügy irataival együtt soron kívül felterjeszti a szabálysértési szabályozásért felelős miniszterhez.
 
-(6) A szabálysértési elzárás elengedése vagy mérséklése iránti kérelem esetén a köztársasági elnök döntéséig a szabálysértési szabályozásért felelős miniszter is elhalaszthatja, illetve félbeszakíthatja a szabálysértési elzárás végrehajtását.
+(5a) Ha a méltányossági kérelem elbírálásához szükséges, úgy a méltányossági kérelmet elbíráló szerv, illetve a köztársasági elnök által gyakorolt elbírálás esetén az előkészítést végző szerv a kérelem alátámasztását igazoló iratokat beszerzi, valamint a személyi körülmények tisztázásához szükséges adatok feltárására az elkövető lakóhelye, tartózkodási helye szerinti helyi önkormányzat jegyzőjét kérheti fel.
+
+(5b) A már végrehajtott büntetés vagy intézkedés utólagos elengedése iránt méltányossági kérelem nem nyújtható be.
+
+(6) A szabálysértési elzárás elengedése vagy mérséklése iránti kérelem esetén legfeljebb a köztársasági elnök döntéséig a szabálysértési szabályozásért felelős miniszter is elhalaszthatja, illetve félbeszakíthatja a szabálysértési elzárás végrehajtását.
 
 (7) A méltányossági kérelmet a szabálysértési szabályozásért felelős miniszter a köztársasági elnökhöz akkor is felterjeszti, ha annak tartalmával nem ért egyet.
 

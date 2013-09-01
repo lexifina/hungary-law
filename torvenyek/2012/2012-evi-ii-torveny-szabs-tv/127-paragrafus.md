@@ -14,11 +14,13 @@ ab) a szabálysértési elzárással is büntethető szabálysértés miatt az e
 
 b) az eljárás alá vont személlyel szemben ugyanazon cselekmény miatt több szabálysértési felelősséget megállapító végzést, vagy ugyanazon cselekmény miatt szabálysértési és büntetőjogi felelősséget megállapító döntést hoztak;
 
-c) az alapügyben hamis vagy hamisított bizonyítékot használtak fel, vagy az elkövetőt nem a valódi nevén ítélték el;
+c) az alapügyben hamis vagy hamisított bizonyítékot használtak fel, vagy az elkövetőt nem a valódi nevén vonták felelősségre;
 
 d) az alapügyben a szabálysértési hatóság valamely tagja, illetve a bíróság a kötelességét a büntető törvénybe ütköző módon megszegte;
 
-e) az elkövető által elkövetett bűncselekményt e törvény szerinti eljárásban, szabálysértésként bírálták el.
+e) az elkövető által elkövetett bűncselekményt e törvény szerinti eljárásban, szabálysértésként bírálták el;
+
+f) a bíróság szabálysértési elzárásra történt átváltoztató döntése jogszabályt sért.
 
 (2) Az (1) bekezdés c)–d) pontja esetében perújításnak csak akkor van helye, ha
 

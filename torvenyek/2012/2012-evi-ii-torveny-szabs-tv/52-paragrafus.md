@@ -8,4 +8,4 @@
 
 (2) Az eljárás alá vont személy jogosult megismerni, hogy mely cselekmény miatt, milyen tények és bizonyítékok alapján folyik ellene szabálysértési eljárás.
 
-(3) Az eljárás alá vont személy – ha e törvény eltérően nem rendelkezik – jogosult az eljárási cselekményeknél jelen lenni, az eljárás bármely szakaszában észrevételt, indítványt tehet, a szabálysértési hatóságtól és a bíróságtól felvilágosítást kérhet, megtekintheti az ügy iratait, azokról másolatot kérhet, illetve készíthet. A minősített adatot tartalmazó másolatot a hatóság épületéből nem viheti ki.
+(3) Az eljárás alá vont személy – ha e törvény eltérően nem rendelkezik – jogosult az eljárási cselekményeknél jelen lenni, az eljárás bármely szakaszában észrevételt, indítványt tehet, kérdést intézhet, a szabálysértési hatóságtól és a bíróságtól felvilágosítást kérhet, megtekintheti az ügy iratait, azokról másolatot kérhet, illetve készíthet. A minősített adatot tartalmazó másolatot a hatóság épületéből nem viheti ki.

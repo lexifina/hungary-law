@@ -2,7 +2,7 @@
 
 200. § (1) Aki
 
-a) a szeszes ital árusítására vagy a közterületen történő fogyasztására vonatkozó – törvényben, kormányrendeletben meghatározott – tilalmat megszegi,
+a) a szeszes ital árusítására vagy a közterületen történő fogyasztására vonatkozó – törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott – tilalmat megszegi,
 
 b) vendéglátó üzletben tizennyolcadik életévét be nem töltött személy részére szeszes italt szolgál ki,
 

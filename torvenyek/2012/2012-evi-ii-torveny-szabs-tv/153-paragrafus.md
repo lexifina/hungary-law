@@ -1,65 +1,75 @@
 ## 114. A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása
 
-153. § (1) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában annak a személynek az adatait kell nyilvántartani, akit a szabálysértési hatóság vagy a bíróság szabálysértés elkövetése miatt jogerősen elmarasztalt, vagy akivel szemben helyszíni bírság kiszabására jogosult szerv vagy személy helyszíni bírságot szabott ki.
+153. § (1) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában annak a személynek az adatait kell nyilvántartani, akit a szabálysértési hatóság vagy a bíróság szabálysértés elkövetése miatt jogerősen elmarasztalt, vagy akivel szemben helyszíni bírság kiszabására jogosult szerv vagy személy – a gépjárművezető távollétében kiszabott helyszíni bírság kivételével – helyszíni bírságot szabott ki.
 
 (2) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása tartalmazza
 
 a) a kapcsolati kódot,
 
-b) a szabálysértési hatóság vagy a bíróság jogerős döntésében megállapított szabálysértés megnevezését, elkövetésének helyét, idejét,
+b) a szabálysértési hatóság vagy a bíróság jogerős döntésében megállapított szabálysértés megnevezését, elkövetésének helyét, idejét, valamint annak tényét, hogy a szabálysértés kormányrendeletben meghatározott kötelező mértékű pénzbírsággal vagy helyszíni bírsággal sújtandó, közlekedési szabálysértés esetén az arra vonatkozó adatot, hogy a szabálysértést engedélyhez kötött járművezetés szabályainak megszegésével követték el,
 
-c) az eljáró szabálysértési hatóság, bíróság, valamint a perújítás során eljáró bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
+c) az eljárt szabálysértési hatóság, első- és másodfokon eljárt bíróság, valamint perújítás során eljáró bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
 
-d) a kiszabott büntetés nemét és mértékét,
+d) a kiszabott büntetés nemét és mértékét, valamint beszámításokkal csökkentett mértékét,
 
-e) az alkalmazott intézkedés nemét és mértékét,
+e) az alkalmazott intézkedés nemét és mértékét, járművezetéstől eltiltás esetén a járműkategóriát és járműfajtát, sportrendezvények látogatásától történő kitiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését, kereskedelmi helyiségek látogatásától történő kitiltás esetén a kereskedelmi létesítmény megnevezését, vagy egyéb helyszínt,
 
 f) a kiszabott pénzbírság megfizetése esetén annak tényét és időpontját,
 
-g) a pénzbírság helyébe lépő közérdekű munka tényét, a szabálysértési hatóság megnevezését, határozatának számát és keltét, valamint a közérdekű munka tartalmát,
+g) a pénzbírság, a helyszíni bírság helyébe lépő közérdekű munkára jelentkezés időpontját,
 
-h) a pénzbírság, helyszíni bírság helyébe lépő közérdekű munka letöltésének tényét és időtartamát,
+h) a pénzbírság, helyszíni bírság helyébe lépő közérdekű munka időtartamát, teljesítésének kezdő és befejező időpontját, vagy nem teljesítésének tényét,
 
 i) a pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatásának tényét, az e tényt megállapító bíróság megnevezését, határozatának számát és keltét, valamint a szabálysértési elzárás tartamát,
 
-j) a szabálysértési elzárás büntetés elengedésének, illetve mérséklésének tényét, az erről szóló határozat számát és keltét,
+j) a kiszabott büntetés, alkalmazott intézkedés elengedésének, illetve mérséklésének tényét, az erről szóló határozatot hozó szerv megnevezését, határozatának számát és keltét,
 
-k) pénzbírság megfizetésének elengedése, illetve mérséklése, valamint járművezetéstől eltiltás elengedése vagy mérséklése tényét, az erről szóló határozatot hozó szerv megnevezését, határozatának számát és keltét,
+k) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás elhalasztásának vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
 
-l) a szabálysértési elzárás, illetve a pénzbírság, helyszíni bírság helyébe lépő szabálysértési elzárás elhalasztásának vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
+l) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás előjegyzett kezdő és utolsó napját, tényleges kezdő és utolsó napját, illetve az azonnali szabadítás elrendelésének az időpontját,
 
-m) a szabálysértési elzárás letöltésének, illetve az azonnali szabadítás elrendelésének az időpontját,
+m) a közérdekű munka büntetésre jelentkezés időpontját, teljesítésének kezdő és befejező időpontját, vagy nem teljesítésének tényét,
 
-n) a közérdekű munka letöltésének tényét és időtartamát,
+n) a közérdekű munka szabálysértési elzárásra átváltoztatásának tényét, az e tényt megállapító bíróság megnevezését, határozatának számát és keltét, valamint a szabálysértési elzárás tartamát,
 
-o) a közérdekű munka szabálysértési elzárásra átváltoztatásának tényét, az e tényt megállapító bíróság megnevezését, határozatának számát és keltét, valamint a szabálysértési elzárás tartamát,
+o) a helyszíni bírság – kivéve a gépjárművezető távollétében kiszabott helyszíni bírság – kiszabása esetén
 
-p) a helyszíni bírság kiszabása esetén
+oa) a helyszíni bírság kiszabására jogosult megnevezését,
 
-pa) a helyszíni bírság kiszabására jogosult megnevezését,
+ob) a döntés számát és keltét,
 
-pb) a döntés számát és keltét,
+oc) a helyszíni bírság összegét,
 
-pc) a helyszíni bírság összegét,
+od) a helyszíni bírság megfizetése esetén annak tényét és időpontját,
 
-pd) a helyszíni bírság megfizetése esetén annak tényét és időpontját,
+oe) az elkövetett szabálysértés megnevezését, az elkövetés helyét és idejét, valamint kormányrendeletben meghatározott kötelező mértékű bírság tényét.
 
-pe) az elkövetett szabálysértés megnevezését, az elkövetés helyét és idejét.
+(3) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában a (2) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon rögzíti:
 
-(3) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása számára a (2) bekezdésben, a szabálysértési eljárás hatálya alatt állók nyilvántartása számára a 154. § (2) bekezdésben, a személyazonosító adatok nyilvántartása számára vagy a 151. § (2) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon közli:
+a) a bíróság az előtte indult szabálysértési eljárásokban a (2) bekezdés b)-e), i) és n) pontok esetén,
 
-a) a bíróság az előtte indult szabálysértési eljárásokban a (2) bekezdés b)–e), i)–j) és m)–o) pontok esetén, a szabálysértési hatóság az (2) bekezdés b)–h), és n)–o) pontok esetén,
+b) a szabálysértési hatóság a (2) bekezdés b)-f), i) és n) pontok esetén,
 
-b) a (2) bekezdés j)–k) pontja esetén a méltányossági döntést hozó szerv, vagy az a hatóság, amely az ügyben érdemi döntést hozott,
+c) a (2) bekezdés j) pontja esetén a szabálysértési szabályozásért felelős miniszter,
 
-c) a (2) bekezdés l) pontja esetén az engedélyező szerv,
+d) a (2) bekezdés k) pontja esetén az engedélyező szerv,
 
-d) a (2) bekezdés m) pontja esetén a büntetés-végrehajtási intézet,
+e) a (2) bekezdés l) pontja esetén a büntetés-végrehajtási intézet,
 
-e) a (2) bekezdés p) pontja esetén az a szerv vagy személy, amelyik a helyszíni bírságot kiszabta.
+f) a (2) bekezdés o) pontja esetén az a szerv vagy személy, amelyik vagy aki a helyszíni bírságot kiszabta,
 
-(4) A (3) bekezdés a) és b) pontjában meghatározott adatokat az előkészítő eljárást lefolytató szerv vagy az általános szabálysértési hatóság is közölheti.
+g) a (2) bekezdés g), h) és m) pontja esetén az állami foglalkoztatási szerv.
 
-(5) Ha a perújítás eredményeként a bíróság a 132. § (1) bekezdés első fordulata szerinti határozatot hozza, akkor a perújítási ügyben eljáró bíróság közli azokat az adatokat, amelyek eltérnek az alapügyben a 153. § (2) bekezdése alapján közölt adatoktól.
+(4) Ha
 
-(6) Ha a helyszíni bírságolás felülvizsgálata során a helyszíni bírságot kiszabó szerv vagy személy a helyszíni bírságról szóló döntést módosítja vagy visszavonja, illetve a bíróság a 141. § (7) bekezdése szerint a helyszíni bírságot hatályon kívül helyezi, illetve új határozat meghozatalára kötelez, akkor a helyszíni bírságot kiszabó szerv vagy személy közli azokat az adatokat, amelyek eltérnek az alapügyben a 153. § (2) bekezdés p) pontja alapján közölt adatoktól.
+a) az Alkotmánybíróság határozata,
+
+b) a perújítás,
+
+c) az ügyészi felhívás, illetve indítvány, valamint
+
+d) a helyszíni bírságolás felülvizsgálata
+
+eredményeként a jogerős határozat megváltoztatására, vagy hatályon kívül helyezésére kerül sor, a döntést hozó bíróság, szabálysértési hatóság, illetve a helyszíni bírságot kiszabó szerv vagy személy közli azokat az adatokat, amelyek eltérnek a 153. § (2) bekezdés alapján közölt adatoktól.
+
+(5) A (3) bekezdés a), c) és d) pontjában meghatározott adatokat az előkészítő eljárást lefolytató szerv vagy a szabálysértési hatóság is közölheti.

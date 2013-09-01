@@ -8,4 +8,4 @@
 
 (2) A feljelentést szóban vagy írásban bármely személy vagy szerv megteheti. A szóban tett feljelentést jegyzőkönyvbe kell foglalni, vagy arról feljegyzést kell készíteni.
 
-(3) A feljelentésnek tartalmaznia kell a feljelentett cselekmény helyének és idejének, továbbá az elkövetés körülményeinek a leírását, a bizonyítási eszközök megjelölését, továbbá, ha az eljárás alá vont személy ismert, a személyi adatait. Ha lehetőség van rá, a bizonyítási eszközöket csatolni kell a feljelentéshez.
+(3) A feljelentésnek tartalmaznia kell a feljelentett cselekmény helyének és idejének, továbbá az elkövetés körülményeinek a leírását, a bizonyítási eszközök megjelölését, továbbá, az eljárás alá vont személy ismert személyi adatait. Ha lehetőség van rá, a bizonyítási eszközöket csatolni kell a feljelentéshez.

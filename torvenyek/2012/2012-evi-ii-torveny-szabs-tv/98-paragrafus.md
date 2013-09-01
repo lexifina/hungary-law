@@ -1,6 +1,6 @@
 ## 82. Panasz a szabálysértési hatóság határozatával szemben
 
-98. § (1) A szabálysértési hatóságnak az elővezetés kivételével a kényszerintézkedés tárgyában hozott, továbbá a feljelentést elutasító, illetve a szabálysértési eljárást megszüntető, valamint a kézbesítési vélelem megdöntésére irányuló kérelmet elbíráló határozatával, illetve intézkedésével szemben az eljárás alá vont személy és képviselője, a sértett és képviselője, valamint a rendbírsággal sújtott személy panaszt tehet.
+98. § (1) A szabálysértési hatóságnak az elővezetés kivételével a kényszerintézkedés tárgyában hozott, a feljelentést elutasító, illetve a szabálysértési eljárást megszüntető, valamint a kézbesítési vélelem megdöntésére irányuló kérelmet elutasító határozatával, illetve intézkedésével szemben az eljárás alá vont személy és képviselője, a sértett és képviselője, valamint a rendbírsággal sújtott személy, továbbá egyéb, nem az ügy érdemében hozott határozatával, intézkedésével szemben – a törvény eltérő rendelkezése hiányában – panasszal élhet az, akire a határozat rendelkezést tartalmaz, illetve akit az intézkedés érint.
 
 (2) A kényszerintézkedés tárgyában benyújtott panaszt a határozat közlésétől számított három, egyéb esetekben nyolc napon belül kell szóban vagy írásban megtenni a szabálysértési hatóságnál.
 

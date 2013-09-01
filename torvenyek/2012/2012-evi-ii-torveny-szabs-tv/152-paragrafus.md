@@ -6,6 +6,6 @@ a) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántart
 
 b) a szabálysértési eljárás hatálya alatt állók nyilvántartása,
 
-c) a szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartása.
+c)
 
 (2) A szabálysértési nyilvántartásokban kezelt adatok kezelésének a célja a szabálysértési eljárás gyors lefolytatása, a szabálysértési végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása, valamint mások jogainak és biztonságának védelme.

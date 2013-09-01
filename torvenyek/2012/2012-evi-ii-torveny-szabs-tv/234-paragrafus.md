@@ -4,4 +4,4 @@
 
 (2) Aki az (1) bekezdésben meghatározott szabálysértést építési termékkel (építési anyag, szerkezet, berendezés) kapcsolatban követi el, illetőleg építési terméket hazai megfelelőség igazolása nélkül hoz forgalomba, szabálysértést követ el.
 
-(3) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
+(3)

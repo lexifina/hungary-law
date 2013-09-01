@@ -10,9 +10,13 @@ c) az eljárás alá vont személyt és a sértettet, ha – a műtét és a mű
 
 d) a tanút és a szakértőt, ha a vallomástételt, illetve a közreműködést és a véleménynyilvánítást a következményekre történt figyelmeztetés után jogosulatlanul megtagadja,
 
-e) az eljárás alá vont személy kivételével azt, aki a lefoglalást, a ruházat, csomag vagy gépjármű átvizsgálását akadályozza,
+e) az eljárás alá vont személy kivételével azt, aki a lefoglalást, a ruházat, csomag vagy jármű átvizsgálását akadályozza,
 
-f) azt, aki a meghallgatás, illetve tárgyalás rendjét megzavarja.
+f) azt, aki a meghallgatás, illetve tárgyalás rendjét megzavarja,
+
+g) a tanút vagy a szakértőt, ha szabályszerű idézés ellenére nem jelenik meg és ezt előzetesen, vagy mihelyt az akadály a tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, illetve az eljárási cselekményről engedély nélkül eltávozik,
+
+h) a kiskorú gondozóját, ha a 62. § (8) bekezdése szerint idézett kiskorú nem jelenik meg és gondozója nem igazolja, hogy a kiskorú távolmaradásában vétlen.
 
 (2) A rendbírság legalacsonyabb összege ötezer, legmagasabb összege százezer – ha a rendbírság kiszabására ugyanabban az eljárásban ismételten kerül sor, százötvenezer – forint. Bírósági eljárásban a legmagasabb rendbírság százötvenezer, ismételt esetben kétszázezer forint.
 

@@ -22,8 +22,14 @@ ad) az anyja születési családi és utónevét,
 
 ae) az állampolgárságát,
 
-af) a lakcímét, valamint
+af)
 
 b) az adatigénylő pontos megnevezését és címét.
 
 (3) A szabálysértési nyilvántartó szerv az érintett kérelmére a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában, valamint a szabálysértési eljárás hatálya alatt állók nyilvántartásában kezelt adatokra tekintettel, a kérelemben megjelölt körben, célra hatósági bizonyítványt állít ki.
+
+(4) A szabálysértési nyilvántartó szerv az adatigénylésben megjelölt személy adatait kizárólag akkor továbbítja, ha a kérelemben megjelölt személy egyértelműen azonosítható.
+
+(5) A szabálysértési nyilvántartásokból adatigénylés alapján történő adattovábbításra jogosultak a technikai feltételek megléte esetén kérelmüket közvetlen hozzáférés útján is előterjeszthetik.
+
+(6) A közvetlen hozzáférés útján előterjesztett adatigénylésre az adatokat a szabálysértési nyilvántartó szerv elektronikus úton továbbítja. A közvetlen hozzáférés útján előterjesztett adatigénylésre a 160. § (1) és (2) bekezdésében foglaltakat is alkalmazni kell.

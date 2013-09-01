@@ -12,6 +12,6 @@ d) élelmiszer-elárusító üzletbe, közfürdő területére vagy játszótér
 
 szabálysértést követ el.
 
-(2) Aki harapós kutyáját nem zárt helyen tartja, vagy nem helyez el a ház (lakás) bejáratán a harapós kutyára utaló megfelelő figyelmeztető táblát, szabálysértést követ el.
+(2) Aki veszélyes ebét nem zárt helyen tartja, vagy nem helyez el a ház (lakás) bejáratán a veszélyes ebre utaló megfelelő figyelmeztető táblát, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
+(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr, továbbá a mezőőr is szabhat ki helyszíni bírságot.

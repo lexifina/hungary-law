@@ -1,3 +1,5 @@
+## 115/A. A személyazonosító adatok nyilvántartásában és a szabálysértési nyilvántartásokban kezelt adatok kezelési ideje és törlése
+
 155. § (1) A szabálysértési nyilvántartó szerv a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásába felvett adatokat a büntetést vagy intézkedést megállapító határozat jogerőre emelkedésétől, illetve a helyszíni bírság kiszabásától számított három évig kezeli.
 
 (2) A szabálysértési nyilvántartó szerv a szabálysértési eljárás hatálya alatt állók nyilvántartásába felvett adatokat a szabálysértési eljárás jogerős befejezéséig kezeli.

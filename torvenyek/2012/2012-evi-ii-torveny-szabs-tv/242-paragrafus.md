@@ -4,4 +4,8 @@
 
 (2) Aki olyan erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen, vagy erdészeti létesítmény területén jár, vagy járművel közlekedik, ahol a forgalmat jogszabály tiltja, vagy azt jogszabály felhatalmazása alapján korlátozzák vagy megtiltják, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az erdészeti hatóság arra felhatalmazott ügyintézője, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
+(2a) Aki erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen, fásításban vagy erdészeti létesítmény területén a tűzgyújtási előírásokat megszegi, közvetlenül vagy közvetve tüzet okozó tárgyat helyez el, vagy a gyújtott tűz őrzéséről, valamint annak a – helyszínről való távozás előtti – biztonságos eloltásáról nem gondoskodik, szabálysértést követ el.
+
+(2b) Aki az erdőgazdálkodásért felelős miniszter vagy az erdészeti hatóság által elrendelt tűzgyújtási tilalom hatálya alatt a tűzgyújtási, tűzvédelmi előírásokat megszegi, szabálysértést követ el.
+
+(3) Az (1)–(2b) bekezdésben meghatározott szabálysértés miatt az erdészeti hatóság arra felhatalmazott ügyintézője, természeti, védett természeti és Natura 2000 területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.

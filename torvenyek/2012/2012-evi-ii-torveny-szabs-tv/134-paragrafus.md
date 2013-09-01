@@ -16,8 +16,10 @@ b) a törvényes képviselő a jogainak gyakorlásában akadályozva van,
 
 c) a fiatalkorúnak nincs törvényes képviselője, vagy nem állapítható meg, hogy ki a törvényes képviselője. Ezekben az esetekben a gyámhatóság eseti gondnokot rendel ki. A tárgyaláson megjelent gondozót a fiatalkorú életviszonyaira nézve minden esetben meg kell hallgatni, aki ezekre a körülményekre nézve a nyilatkozatot nem tagadhatja meg.
 
-(5) Ha a fiatalkorú törvényes képviselője vagy gondozója az értesítés ellenére nem jelenik meg, úgy részére a végzést, illetve határozatot kézbesíteni kell azzal, hogy a határozattal szemben jogorvoslattal élhet.
+(5) A fiatalkorú törvényes képviselője vagy gondozója részére a végzést, illetve határozatot kézbesíteni kell azzal, hogy a határozattal szemben jogorvoslattal élhet.
 
 (6) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti az erre hatáskörrel rendelkező szervnél.
 
 (7) Fiatalkorúval szemben a 102. § (1) bekezdése, valamint a 118. § (1) bekezdése szerinti eljárás alapján csak intézkedés alkalmazható.
+
+(8) A tizennegyedik életévét be nem töltött, valamint fiatalkorú személyt törvényes képviselőjének jelenlétében és csak akkor lehet szembesíteni, ha a szembesítés benne nem kelt félelmet.

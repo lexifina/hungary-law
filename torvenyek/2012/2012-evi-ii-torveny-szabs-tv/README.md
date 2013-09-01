@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2013-03-26 | 2013. évi XXI. törvény | 2012-2-00-00.11 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2012-2-00-00.12 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2012-2-00-00.13 |
+| 2013-09-01 | 2013. évi XCIII. törvény | 2012-2-00-00.14 |

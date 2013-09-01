@@ -16,7 +16,7 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (3) Aki a kulturális örökség védett elemeit, a megye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet vagy létesítményt, tömegközlekedési vagy távközlési eszközt, közúti jelzést, parkot vagy ahhoz tartozó felszerelést, természetvédelmi hatósági és tájékoztató táblát vagy egyéb közérdeket szolgáló jelet vagy létesítményt gondatlanul megsemmisít, megrongál, elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
 
-(4) Az (1) bekezdés a) pontjában meghatározott szabálysértés miatt az erdészeti hatóság arra felhatalmazott ügyintézője, a halászati őr, valamint a mezőőr, a természeti és védett természeti területeken a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
+(4) Az (1) bekezdés a) pontjában meghatározott szabálysértés miatt az erdészeti hatóság arra felhatalmazott ügyintézője, a halászati őr, valamint a mezőőr, a természeti, védett természeti és Natura 2000 területeken a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
 
 (5) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt szabálysértési eljárásnak csak magánindítványra van helye, ha a sértett az elkövető hozzátartozója.
 

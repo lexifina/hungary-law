@@ -20,9 +20,9 @@ d) az eljárás alá vont személy meghalt,
 
 e) büntethetőséget kizáró ok áll fenn,
 
-f) a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási eljárás keretében jogerősen elbírálták,
+f) a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen elbírálták,
 
-g) ugyanazon cselekmény miatt szabálysértési vagy büntetőeljárás, illetve közigazgatási eljárás van folyamatban,
+g) ugyanazon cselekmény miatt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás van folyamatban,
 
 h) elévülés miatt nincs helye felelősségre vonásnak,
 
@@ -30,4 +30,4 @@ i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelőss�
 
 (2) Az elkobzás alkalmazásáról szóló megszüntető határozatban a szabálysértési hatóság szabálysértési költséget állapíthat meg.
 
-(3) Az (1) bekezdés a)–c), e) és f) pontja alapján a szabálysértési hatóság által hozott határozat egy példányát az ügyésznek is meg kell küldeni.
+(3) Az (1) bekezdés a)–c), e), f) és h) pontja alapján a szabálysértési hatóság által hozott határozat egy példányát egyidejűleg elektronikus úton – amennyiben ennek technikai feltételei nem állnak fenn, a kézbesítés szabályai szerint – az ügyésznek is meg kell küldeni.

@@ -1,0 +1,5 @@
+156/B. § (1) A szabálysértési nyilvántartási rendszerbe történő adatközléshez, a szabálysértési nyilvántartási rendszerhez történő közvetlen hozzáférés gyakorlásához, valamint a szabálysértési nyilvántartási rendszerből közvetlen hozzáféréssel történő adatigényléshez szükséges egyedi azonosítókat az adatközlésre kötelezett szerv, a közvetlen hozzáférésre jogosult szerv, valamint az közvetlen hozzáféréssel történő adatigénylésre jogosult szerv a szabálysértési nyilvántartó szervhez benyújtott kérelemben (a továbbiakban: egyedi azonosító iránti kérelem) igényli.
+
+(2) Az egyedi azonosító iránti kérelemnek tartalmaznia kell a 156/A. § (2) bekezdés a)–f) pontjában és g) pont ga)-ge) alpontjában meghatározott adatokat.
+
+(3) A (2) bekezdésben meghatározott adatokban bekövetkezett változásról az adatközlésre kötelezett szerv, a közvetlen hozzáférés igénybevételével történő adatigénylésre jogosult szerv – az adatváltozást követő három munkanapon belül – értesíti a szabálysértési nyilvántartó szervet.

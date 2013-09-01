@@ -8,8 +8,10 @@ b) az eljárás alá vont személy javára megváltoztathatja, ha a kifogásban 
 
 c) megváltoztatja, ha a szabálysértési hatóság jogszabályt helytelenül alkalmazott.
 
+(1a) A bíróság a 122. § (2) bekezdésében meghatározottak megfelelő alkalmazásával az eljárás alá vont személy terhére a szabálysértési hatóság határozatában megállapított rendelkezéseknél hátrányosabb rendelkezést akkor hozhat, ha a tárgyaláson új bizonyíték merül fel és ennek alapján a bíróság olyan új tényt állapít meg, amelynek folytán súlyosabb minősítést kell alkalmazni, vagy jelentős mértékben súlyosabb büntetést kell kiszabni.
+
 (2) A bíróság a kifogást elbíráló végzésében rendelkezik a szabálysértési költség viseléséről.
 
 (3) A végzés ellen fellebbezésnek nincs helye.
 
-(4) A végzés a közlés napján jogerős.
+(4)

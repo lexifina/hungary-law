@@ -15,3 +15,7 @@ történhet.
 (3) Az iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot a postai szolgáltató értesítése ellenére nem vette át. Az iratot kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta.
 
 (4) Az elővezetést elrendelő határozatot a foganatosításkor kell átadni a határozatban megnevezett személynek.
+
+(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy részére a szabálysértési eljárást megszüntető, a felfüggesztő, illetve a szabálysértési hatóságnak a 101. §-ban meghatározott eljárásban hozott, szabálysértési felelősséget megállapító határozatát hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
+
+(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt döntést a hirdetmény kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.

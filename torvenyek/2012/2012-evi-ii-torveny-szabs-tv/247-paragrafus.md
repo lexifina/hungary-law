@@ -10,6 +10,6 @@ a) aki a szülői felügyelete vagy gyámsága alatt álló gyermeket kellő id�
 
 b) aki nem biztosítja, hogy súlyos és halmozottan fogyatékos gyermeke a fejlődését biztosító nevelésben, nevelés-oktatásban vegyen részt,
 
-c) akinek a szülői felügyelete vagy gyámsága alatt álló gyermeke ugyanabban az óvodai nevelési évben az iskolai életmódra felkészítő foglalkozásokról, illetőleg ugyanabban a tanévben az iskolai kötelező tanórai foglalkozásokról igazolatlanul a jogszabályban meghatározott mértékűnél többet mulaszt,
+c) akinek a szülői felügyelete vagy gyámsága alatt álló gyermeke ugyanabban az óvodai nevelési évben az iskolai életmódra felkészítő foglalkozásokról, illetőleg ugyanabban a tanévben az iskolai kötelező tanórai foglalkozásokról igazolatlanul a jogszabályban meghatározott mértéket vagy annál többet mulaszt,
 
 szabálysértést követ el.

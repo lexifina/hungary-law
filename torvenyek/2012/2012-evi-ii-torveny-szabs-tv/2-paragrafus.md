@@ -2,7 +2,7 @@
 
 2. § (1) Szabálysértés miatt az vonható felelősségre, akinek a cselekménye szándékos vagy gondatlan, kivéve, ha a szabálysértést meghatározó jogszabály csak a szándékos elkövetést bünteti.
 
-(2) A szabálysértést elköveti a felbujtó és a bűnsegéd is.
+(2) Szabálysértés miatt a felbujtó és a bűnsegéd is felelősségre vonható.
 
 (3) Kísérlet miatt akkor van helye felelősségre vonásnak, ha a szabálysértést meghatározó jogszabály így rendelkezik.
 

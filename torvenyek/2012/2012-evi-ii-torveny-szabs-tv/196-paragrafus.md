@@ -8,7 +8,7 @@ b) a felügyelete alatt lévő állat által az a) pontban megjelölt helyen oko
 
 szabálysértést követ el.
 
-(2) Aki települési szilárd vagy folyékony hulladékot a közterületen engedély nélkül lerak, elhelyez, vagy nem a kijelölt lerakóhelyen rak le vagy helyez el, szabálysértést követ el.
+(2) Aki települési hulladékot a közterületen engedély nélkül lerak, elhelyez, vagy nem a kijelölt lerakóhelyen rak le vagy helyez el, szabálysértést követ el.
 
 (3)
 

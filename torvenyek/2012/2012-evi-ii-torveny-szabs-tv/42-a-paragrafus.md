@@ -1,0 +1,1 @@
+42/A. § A törvényszék elnöke a törvényszék területén valamennyi szabálysértési ügyben való eljárásra, valamint a szabálysértési elzárásra történő átváltoztatás iránti eljárásra az általános illetékességű járásbíróságtól eltérő más járásbíróság illetékességét is megállapíthatja.

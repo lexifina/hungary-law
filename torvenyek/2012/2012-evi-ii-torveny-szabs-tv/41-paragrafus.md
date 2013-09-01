@@ -1,6 +1,6 @@
 ## 30. A bíróság hatásköre és illetékessége
 
-41. § (1) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon az elkövetés helye szerint illetékes járásbíróság jár el. A törvényszék elnöke ezekre az eljárásokra más járásbíróság illetékességét is megállapíthatja.
+41. § (1) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon az elkövetés helye szerint illetékes járásbíróság jár el.
 
 (2) Ha a szabálysértési eljárás gyorsabb és eredményesebb lefolytatása indokolja, az eljárás alá vont személy lakóhelye, tartózkodási helye, munkahelye, továbbá a szabálysértés felderítésének helye szerint illetékes bíróság is eljárhat.
 

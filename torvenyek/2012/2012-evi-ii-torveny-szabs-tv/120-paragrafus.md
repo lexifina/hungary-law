@@ -20,6 +20,6 @@ e) külön jogszabályban meghatározott feltételek alapján más szerveket ada
 
 (6) A bíróság az így megállapított tényállás alapján végzéssel megszünteti a szabálysértési eljárást vagy megállapítja az eljárás alá vont személy felelősségét és büntetést szab ki, illetve intézkedést alkalmaz.
 
-(7) Ha a bíróság a 118. § (1) bekezdése szerinti döntés ellen előterjesztett tárgyalás tartására irányuló kérelem alapján tart tárgyalást, a (3) bekezdésben írt módon állapítja meg a tényállást és ez alapján a (4) bekezdésben írtak szerint dönt azzal, hogy a meghallgatás nélküli eljárásban hozott határozatban megállapított rendelkezéseknél hátrányosabb rendelkezést akkor hozhat, ha a tárgyaláson új bizonyíték merül fel.
+(7) Ha a bíróság a 118. § (1) bekezdése szerinti határozat ellen előterjesztett tárgyalás tartására irányuló kérelem alapján tart tárgyalást, a (4) bekezdésben írt módon állapítja meg a tényállást. Döntésének megfelelően a 118. § (1) bekezdése szerinti határozatát hatályban tartja, megváltoztatja, vagy hatályon kívül helyezi, és az eljárást megszünteti azzal, hogy a meghallgatás nélküli eljárásban hozott határozatban megállapított rendelkezéseknél hátrányosabb rendelkezést akkor hozhat, ha a tárgyaláson új bizonyíték merül fel.
 
 (8) A bíróság rendelkezik a szabálysértési költség viseléséről és – ha annak e törvényben meghatározott feltételei fennállnak – az eljárás alá vont személyt a szabálysértéssel okozott kár megtérítésére kötelezi.

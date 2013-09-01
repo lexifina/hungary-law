@@ -6,7 +6,7 @@
 
 99. § (1) Helyszíni intézkedés során a szabálysértés elkövetését elismerő személlyel szemben helyszíni bírság kiszabásának van helye.
 
-(2) A helyszíni bírság összege ötezer forinttól ötvenezer forintig, hat hónapon belül ismételt elkövetés esetén hetvenezer forintig terjedhet.
+(2) A helyszíni bírság összege ötezer forinttól ötvenezer forintig, hat hónapon belül újabb szabálysértés elkövetése esetén hetvenezer forintig terjedhet.
 
 (3) Ha az eljárás alá vont személy a helyszíni bírság kiszabását – a helyszíni bírság meg nem fizetése esetén alkalmazandó jogkövetkezményekről szóló tájékoztatás után – aláírásával igazoltan tudomásul veszi, a helyszíni bírság ellen nincs helye jogorvoslatnak.
 
@@ -31,3 +31,5 @@ b) a harmadik, illetve az azt követő, kötelező mértékű helyszíni bírsá
 (9) Ha kötelező mértékű helyszíni bírsággal sújtandó szabálysértés és más szabálysértés egyidejű elbírálására kerül sor, a kiszabható helyszíni bírság nem lehet kevesebb, mint a kötelező mértékű helyszíni bírság, de az nem haladhatja meg az ötvenezer forintot, ismételt elkövetés esetén a hetvenezer forintot.
 
 (10) A (2) bekezdésben meghatározott ismételt elkövetésre vonatkozó rendelkezés alkalmazásánál nem lehet figyelembe venni a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértéseket.
+
+(11) A (2) és (7)–(9) bekezdésben meghatározott ismételt elkövetésre vonatkozó rendelkezések alkalmazásakor nem lehet figyelembe venni a szabálysértési eljárás során történt felelősségre vonást.

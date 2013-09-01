@@ -2,7 +2,7 @@
 
 (2) Nem lép a meg nem fizetett pénzbírság helyébe szabálysértési elzárás, ha az eljárás alá vont személy
 
-a) a 10. § a) és b) pontjában meghatározott feltételek valamelyikének megfelel,
+a) a 10. §-ban meghatározott feltételek valamelyikének megfelel,
 
 b) azt a 13. §-ban meghatározottak szerint közérdekű munkával megváltotta.
 

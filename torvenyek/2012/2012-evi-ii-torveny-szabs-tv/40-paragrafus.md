@@ -8,7 +8,15 @@
 
 (4) A megelőzés dönt akkor is, ha az eljárás alá vont személy, illetve az eljárás alá vont személyek több cselekményét egy szabálysértési eljárásban bírálják el és a (2) bekezdés alapján a cselekmények elkövetésének vagy felderítésének a helye szerint több szabálysértési hatóság is illetékes.
 
-(5) Ha vitás, hogy a több szabálysértési hatóság közül melyik köteles eljárni, az eljáró szabálysértési hatóságot közvetlen közös felettes szervük, ennek hiányában a szabálysértési szabályozásért felelős miniszter jelöli ki.
+(5) Ha vitás, hogy több szabálysértési hatóság közül melyik köteles eljárni, a hatáskörrel, illetékességgel rendelkező szabálysértési hatóságot
+
+a) járási hivatal esetén a fővárosi és megyei kormányhivatal, rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal vámszerve esetén a vám- és pénzügyőri főigazgatóság,
+
+b) fővárosi és megyei, vagy több megyei kormányhivatal illetékességi területe esetén a kormányzati tevékenység összehangolásáért felelős miniszter, több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság, több vám- és pénzügyőri főigazgatóság illetékességi területe esetén a Nemzeti Adó- és Vámhivatal Központi Hivatala,
+
+c) az a) és b) pontban foglaltak hiányában a szabálysértési szabályozásért felelős miniszter
+
+jelöli ki.
 
 (6) A szabálysértési hatóság és a bíróság között felmerülő hatásköri vita esetén a bíróság határozata a döntő.
 

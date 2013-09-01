@@ -6,25 +6,23 @@
 
 a) a nyilvántartott
 
-aa) családi nevét és utónevét (utóneveit),
+aa) családi nevét és utónevét (neveit),
 
-ab) születési családi nevét és utónevét (utóneveit),
+ab) születési családi és utónevét (utóneveit), továbbá annak megváltozása esetén előző születési családi és utónevét (neveit),
 
-ac) előző családi nevét és utónevét (utóneveit),
+ac) nemét,
 
-ad) nemét,
+ad) születési helyét és idejét,
 
-ae) születési helyét és idejét,
+ae) anyja születési családi és utónevét (utóneveit), továbbá annak megváltozása esetén előző születési családi és utónevét (neveit),
 
-af) anyja születési családi nevét és utónevét (utóneveit),
+af) személyi azonosítóját, külföldi személy esetén tartózkodásra jogosító igazolvány vagy útlevél számát,
 
-ag) személyi azonosítóját,
+ag) állampolgárságát, hontalanságát,
 
-ah) állampolgárságát,
+ah) lakcímét és értesítési címét, továbbá annak megváltozása esetén előző lakcímét, értesítési címét (címeit),
 
-ai) lakó-, illetve tartózkodási helyét,
-
-b) a kapcsolati kódot,
+b) a kapcsolati kódot, valamint
 
 c) a nyilvántartott elhalálozásának tényét és időpontját.
 
@@ -39,3 +37,5 @@ a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek
 b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal.
 
 (6) Az adatváltozást az adategyeztetés után a személyazonosító adatok nyilvántartásában haladéktalanul át kell vezetni.
+
+(7) A személyazonosító adatok nyilvántartása számára a (2) bekezdésben meghatározott adatokat az a szerv közli, amely a szabálysértési nyilvántartások tekintetében adatközlésre köteles.

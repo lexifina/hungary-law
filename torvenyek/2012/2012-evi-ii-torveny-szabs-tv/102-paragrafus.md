@@ -4,7 +4,7 @@
 
 ## 86. Meghallgatás nélküli eljárásban hozott határozat
 
-102. § (1) Ha a tényállás tisztázott és az eljárás alá vont személy vagy az eljárásban részt vevő más személy meghallgatása nem szükséges, a szabálysértési hatóság – a (3) bekezdésben meghatározottak szerint – büntetést szab ki, illetve önállóan vagy büntetés mellett intézkedést alkalmaz.
+102. § (1) Ha a tényállás tisztázott és az eljárás alá vont személy vagy az eljárásban részt vevő más személy meghallgatása, valamint egyéb bizonyíték megszerzése nem szükséges, a szabálysértési hatóság – a (3) bekezdésben meghatározottak szerint – büntetést szab ki, illetve önállóan vagy büntetés mellett intézkedést alkalmaz.
 
 (2) A szabálysértési hatóság a határozatát – a határozatra vonatkozó rendelkezéseknek megfelelően – a szabálysértési eljárás megindítását követő tizenöt napon belül kizárólag a szabálysértési eljárás iratai alapján hozza meg.
 
