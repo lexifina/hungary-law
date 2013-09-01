@@ -1,0 +1,1 @@
+84/A. § E törvénynek a büntetőeljárások időszerűségének javítása érdekében szükséges egyes törvények módosításáról szóló 2013. évi CXII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését követően a bírósághoz érkezett ügyekben kell alkalmazni.
