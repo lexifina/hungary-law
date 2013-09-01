@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-63-00-00
 | 2013-05-31 | 2013. évi LXIII. törvény | 2013-63-00-00.0 (közlönyállapot) |
 | 2013-05-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-63-00-00.1 |
 | 2013-06-01 | 2010. évi CXXX. törvény | 2013-63-00-00.2 |
+| 2013-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-63-00-00.3 |
