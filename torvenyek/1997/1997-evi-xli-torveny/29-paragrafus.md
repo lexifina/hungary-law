@@ -1,1 +1,0 @@
-Hhtv. 29. § Ha a jogosult személyében változás következik be, a halgazdálkodási terv előírásai mindaddig hatályban maradnak, ameddig az új jogosult a korábbitól eltérő halászati céljainak megvalósítására új halgazdálkodási tervet nem készít, s azt a halászati hatóság jóvá nem hagyja.
