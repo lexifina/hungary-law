@@ -1,1 +1,0 @@
-## 3. § Az e rendelettel megállapított szakmai és vizsgakövetelmények szerinti szakképesítések esetében a szakmai bizonyítvány kiegészítőlapokat e rendelet 21. számú melléklete szerint kell kibocsátani.
