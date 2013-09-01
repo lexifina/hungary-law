@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^222]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^223]
 
 ## Kérelem aktív korúak ellátásának megállapítására
 
@@ -292,4 +292,4 @@ e) akinek az aktív korúak ellátására való jogosultság iránti kérelem be
 
 5.3.6. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója nem cselekvőképes, helyette a törvényes képviselője jogosult az aláírásra.
 
-[^222]: A 3. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdés b) pontjával megállapított, ugyanezen § (3) bekezdés c) pontja szerint módosított szöveg.
+[^223]: A 3. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdés b) pontjával megállapított, ugyanezen § (3) bekezdés c) pontja szerint módosított szöveg.

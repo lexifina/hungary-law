@@ -1,4 +1,4 @@
-5. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^224]
+5. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^225]
 
 ## IGAZOLÁS ÉS SZAKVÉLEMÉNY
 
@@ -68,4 +68,4 @@ d) mozgásszervi károsodása, illetőleg funkciózavara olyan mértékű, hogy 
 
 2.Tartósan beteg az a személy, aki előreláthatólag három hónapnál hosszabb időtartamban állandó ápolást, gondozást igényel.
 
-[^224]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 332/2010. (XII. 27.) Korm. rendelet 17. § b) pontja, a 95/2012. (V. 15.) Korm. rendelet 35. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
+[^225]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 332/2010. (XII. 27.) Korm. rendelet 17. § b) pontja, a 95/2012. (V. 15.) Korm. rendelet 35. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.

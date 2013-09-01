@@ -1,20 +1,20 @@
-45. §[^180] (1)[^181] A közgyógyellátásra jogosult személynek a közgyógyellátásra való jogosultságot megállapító hatóságnál be kell jelentenie
+45. §[^181] (1)[^182] A közgyógyellátásra jogosult személynek a közgyógyellátásra való jogosultságot megállapító hatóságnál be kell jelentenie
 
 a) a közgyógyellátásra való jogosultságát,
 
-b)[^182] a személyes adatait
+b)[^183] a személyes adatait
 
 ## érintő változást.
 
-(2)[^183] Ha a jogosultnak az igazolványon szereplő személyes adataiban változás következik be, akkor a hatóság kezdeményezésére a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve az igazolvány bevonásával egyidejűleg új igazolványt állít ki a jogosult részére. Az új igazolvány hatályának időtartama megegyezik a közgyógyellátásra való jogosultság időtartamával.
+(2)[^184] Ha a jogosultnak az igazolványon szereplő személyes adataiban változás következik be, akkor a hatóság kezdeményezésére a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve az igazolvány bevonásával egyidejűleg új igazolványt állít ki a jogosult részére. Az új igazolvány hatályának időtartama megegyezik a közgyógyellátásra való jogosultság időtartamával.
 
-(3)[^184] A méltányossági közgyógyellátásra jogosult lakcímének a jegyző illetékességét érintő megváltozása esetén a közgyógyellátás – ha a jogosultságot megalapozó körülményekben változás nem történik – az Szt. 50. §-ának (4) bekezdésében meghatározott időtartam végéig igénybe vehető.
+(3)[^185] A méltányossági közgyógyellátásra jogosult lakcímének a jegyző illetékességét érintő megváltozása esetén a közgyógyellátás – ha a jogosultságot megalapozó körülményekben változás nem történik – az Szt. 50. §-ának (4) bekezdésében meghatározott időtartam végéig igénybe vehető.
 
-(4)[^185] Amennyiben a (3) bekezdésben meghatározott jogosult a lakcímváltozást követően az egyéni gyógyszerkeret felülvizsgálatát kéri, az új lakcím szerint illetékes jegyző a gyógyszerkeret-felülvizsgálatot a közgyógyellátásra való jogosultság – új lakcím szerinti jogosultsági feltételek alapján történő – vizsgálatával együtt folytatja le.
+(4)[^186] Amennyiben a (3) bekezdésben meghatározott jogosult a lakcímváltozást követően az egyéni gyógyszerkeret felülvizsgálatát kéri, az új lakcím szerint illetékes jegyző a gyógyszerkeret-felülvizsgálatot a közgyógyellátásra való jogosultság – új lakcím szerinti jogosultsági feltételek alapján történő – vizsgálatával együtt folytatja le.
 
-[^180]: A 45. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^181]: A 45. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés p) pontja szerint módosított szöveg.
-[^182]: A 45. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^183]: A 45. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés l) pontja szerint módosított szöveg.
-[^184]: A 45. § (3) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 23. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^185]: A 45. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
+[^181]: A 45. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^182]: A 45. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés p) pontja szerint módosított szöveg.
+[^183]: A 45. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^184]: A 45. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés l) pontja szerint módosított szöveg.
+[^185]: A 45. § (3) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 23. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^186]: A 45. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.

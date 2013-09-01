@@ -1,7 +1,7 @@
-24. §[^108] (1) Ha az Szt. 38. § (1) bekezdés a) pontja szerinti lakásfenntartási támogatásban részesülő személy lakcíme a támogatás folyósításának időtartama alatt megváltozik, vagy a jogosult meghal, a változás, illetve a haláleset hónapjára járó támogatást a korábban illetékes folyósító szerv teljes összegben folyósítja, de a támogatás további folyósítását meg kell szüntetni.
+24. §[^109] (1) Ha az Szt. 38. § (1) bekezdés a) pontja szerinti lakásfenntartási támogatásban részesülő személy lakcíme a támogatás folyósításának időtartama alatt megváltozik, vagy a jogosult meghal, a változás, illetve a haláleset hónapjára járó támogatást a korábban illetékes folyósító szerv teljes összegben folyósítja, de a támogatás további folyósítását meg kell szüntetni.
 
 (2) A szolgáltatási, egyetemes szolgáltatási vagy közüzemi szerződés alapján, természetbeni szociális ellátás formájában, havi rendszerességgel nyújtott lakásfenntartási támogatás esetében ugyanazon lakás tekintetében bekövetkezett szolgáltatóváltás esetén a változás hónapjára járó támogatást teljes összegben a korábbi szolgáltatónak, míg a változást követő hónapra járó támogatást az új szolgáltatónak kell folyósítani.
 
 (3) Ha az Szt. 38. § (1) bekezdés a) pontja szerinti lakásfenntartási támogatás természetbeni szociális ellátás formájában kerül biztosításra és a támogatás folyósításának időtartama alatt támogatásban részesülő személy lakcíme a támogatás folyósításának időtartama alatt megváltozik vagy szolgáltatóváltás történik, a szolgáltató és a fogyasztó közti – a 21. § (6) bekezdése szerinti, társasházban lakó jogosult esetében a közös képviselő és a fogyasztó közti – elszámolást követően fennmaradó összeget a szolgáltató, illetve a közös képviselő a fogyasztónak 15 napon belül kifizeti.
 
-[^108]: A 24. § a 331/2011. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^109]: A 24. § a 331/2011. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
