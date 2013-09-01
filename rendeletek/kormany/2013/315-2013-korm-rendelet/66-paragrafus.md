@@ -1,0 +1,7 @@
+## 65. § A 4. melléklet a képesítések és a szakmai alkalmasság átláthatóságának egységes közösségi keretéről (Europass) szóló, 2004. december 15-i 2241/2004/EK európai parlamenti és tanácsi határozat VI. mellékletének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+66. § (1) Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet (a továbbiakban: Korm. rendelet) 9. §-a a következő (8) bekezdéssel egészül ki:
+
+## „(8) A foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet (a továbbiakban: MüM rendelet) 3. §-a szerinti jegyzéken szereplő, felnőttképzést folytató intézmények a MüM rendelet 4. § (1) bekezdése szerinti együttműködési megállapodás alapján folyó képzéseiket, továbbá a Nemzeti Munkaügyi Hivatal (a továbbiakban: NMH) által a központi költségvetés vagy európai uniós források terhére megvalósított programokkal összefüggésben az NMH által vezetett jegyzéken szereplő, felnőttképzést folytató intézmények a vonatkozó program szerinti együttműködési megállapodás alapján megvalósuló képzéseiket a 2012. augusztus 31-én hatályos OKJ és a 2012. augusztus 31-én hatályos OKJ-hoz kiadott szakmai és vizsgakövetelmények szerint is indíthatják.”
+
+(2) A Korm. rendelet 11. §-a a következő (3) bekezdéssel egészül ki:

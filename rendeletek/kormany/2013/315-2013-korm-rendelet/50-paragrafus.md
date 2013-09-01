@@ -1,0 +1,3 @@
+50. § (1) Ha a bizonyítvány kiadását követően derül ki, hogy a vizsgaszervező hibás adatokat vezetett be a bizonyítványba, a bizonyítványt a vizsgaszervezőnek ki kell cserélnie, a hibás bizonyítványt meg kell semmisítenie, és erről az új bizonyítvány kiadását követő harminc napon belül írásban értesítenie kell az állami szakképzési és felnőttképzési szervet. A kiadott új bizonyítvány adatai – a hibás adatok kivételével – megegyeznek az eredeti bizonyítvány adataival. A csere az érintett vizsgázó számára díjmentes.
+
+(2) Ha az eredeti bizonyítványt kiállító vizsgaszervező nem lelhető fel, akkor a javított bizonyítványt az állami szakképzési és felnőttképzési szerv állítja ki.
