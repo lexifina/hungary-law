@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2013-04-09 | 2012. évi CLXXXI. törvény | 1994-34-00-00.59 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1994-34-00-00.60 |
 | 2013-07-20 | 2013. évi LXXXVIII. törvény | 1994-34-00-00.61 |
+| 2013-09-01 | 2010. évi XL. törvény | 1994-34-00-00.62 |
