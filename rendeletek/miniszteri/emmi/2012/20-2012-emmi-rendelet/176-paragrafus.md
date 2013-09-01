@@ -22,13 +22,13 @@ bc) a gyermekjóléti szolgálat Gyvt. 40. §-a szerinti – az általános isko
 
 (6) A Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programjában, a Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programjában és a Hátrányos Helyzetű Tanulók Arany János Tehetséggondozó Programjában résztvevő kollégiumok köréből felmenő rendszerben kikerülhet az az intézmény, amely
 
-a)[^101] a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló rendeletben foglalt követelményeknek nem tesz eleget, vagy
+a)[^98] a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló rendeletben foglalt követelményeknek nem tesz eleget, vagy
 
-b)[^102] vonatkozásában a hatóság a programok megvalósításával összefüggő súlyos szabálytalanságot állapít meg vagy
+b)[^99] vonatkozásában a hatóság a programok megvalósításával összefüggő súlyos szabálytalanságot állapít meg vagy
 
 c) jogutód nélkül megszűnik.
 
 (7) A (6) bekezdés a)–b) pontjában foglaltak tekintetében az Arany János Programiroda vezetője, a Hátrányos Helyzetű Tanulók Arany János Kollégiumi Programja és Halmozottan Hátrányos Helyzetű Tanulók Arany János Kollégiumi-Szakiskolai Programja mentori tanácsadó testületének tagja és a Kollégiumi Szakmai és Érdekvédelmi Szövetség tagja tesz javaslatot az oktatásért felelős miniszternek, aki a javaslat kézhezvételét vagy a még szükséges adatok beszerzését követően tizenöt napon belül döntést hoz a programokból történő kikerülésről. Az oktatásért felelős miniszter dönthet továbbá arról, hogy a programból kikerült intézmény feladatát a térség más nevelési-oktatási intézménye számára pályázati úton lehetővé teszi.
 
-[^101]: A 176. § (6) bekezdés a) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § r) pontja szerint módosított szöveg.
-[^102]: A 176. § (6) bekezdés b) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § s) pontja szerint módosított szöveg.
+[^98]: A 176. § (6) bekezdés a) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § r) pontja szerint módosított szöveg.
+[^99]: A 176. § (6) bekezdés b) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § s) pontja szerint módosított szöveg.

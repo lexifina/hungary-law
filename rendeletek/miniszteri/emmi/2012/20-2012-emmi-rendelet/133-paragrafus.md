@@ -1,5 +1,3 @@
-## 132. §[^66]
-
 ## 45. A közösségi szolgálattal kapcsolatos rendelkezések
 
 133. § (1) Középiskolában meg kell szervezni a tanuló közösségi szolgálatának teljesítésével, dokumentálásával összefüggő feladatok ellátását. A tanuló osztályfőnöke vagy az ezzel a feladattal megbízott pedagógus a tanuló előmenetelét rögzítő dokumentumokban az iratkezelési szabályok megtartásával nyilvántartja és folyamatosan vezeti a közösségi szolgálattal összefüggő egyéni vagy csoportos tevékenységet, amely alapján az Nkt.-ban az érettségi bizonyítvány kiadásának feltételeként meghatározott ötven óra közösségi szolgálat elvégzése igazolható legkésőbb a tanuló érettségi bizonyítványa kiadásának időpontjára.
@@ -45,5 +43,3 @@ c) az iskola a közösségi szolgálat teljesítéséről igazolást állít ki 
 d) az iskola a közösségi szolgálattal kapcsolatos dokumentumok kezelését az iratkezelési szabályzatában rögzíti,
 
 e) az iskolán kívüli külső szervezet és közreműködő mentor bevonásakor az iskola és a felek együttműködéséről megállapodást kell kötni, amelynek tartalmaznia kell a megállapodást aláíró felek adatain és vállalt kötelezettségein túl a foglalkoztatás időtartamát, a mentor nevét és feladatkörét.
-
-[^66]: A 132. § a 192. § (4) bekezdése alapján 2013. szeptember 1-jén lép hatályba.

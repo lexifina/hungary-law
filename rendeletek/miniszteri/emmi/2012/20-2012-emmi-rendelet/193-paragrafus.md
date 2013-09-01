@@ -24,11 +24,11 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (8) A 134. §-ban foglalt rendelkezéseknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
 
-(9)[^110] A 135. § (1) bekezdésben foglalt feltételeknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
+(9)[^108] A 135. § (1) bekezdésben foglalt feltételeknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
 
-(10)[^111] A 2017/2018. tanévtől nem indítható két tanítási nyelvű nevelés-oktatás abban a középiskolában, amelyikben a 136. § (1) bekezdésében foglalt feltételeket a 2017/2018. tanév kezdetéig nem teljesítik. Ezen intézményekben a két tanítási nyelvű oktatás felmenő rendszerben megszűnik.
+(10)[^109] A 2017/2018. tanévtől nem indítható két tanítási nyelvű nevelés-oktatás abban a középiskolában, amelyikben a 136. § (1) bekezdésében foglalt feltételeket a 2017/2018. tanév kezdetéig nem teljesítik. Ezen intézményekben a két tanítási nyelvű oktatás felmenő rendszerben megszűnik.
 
-(11)[^112] A 137. § (1) bekezdésében előírt feltételeket először a 2016/2017. tanévben a nyelvi előkészítő évfolyammal működő nevelési-oktatási intézményben tanulmányaikat befejező és rendes érettségi vizsgát tevő tanulók vonatkozásában kell vizsgálni.
+(11)[^110] A 137. § (1) bekezdésében előírt feltételeket először a 2016/2017. tanévben a nyelvi előkészítő évfolyammal működő nevelési-oktatási intézményben tanulmányaikat befejező és rendes érettségi vizsgát tevő tanulók vonatkozásában kell vizsgálni.
 
 (12) A nevelési-oktatási intézmény a 2012/2013. tanévben csoportnaplóként és egyéb foglakozási naplóként a nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet (a továbbiakban: MKM rendelet) alapján alkalmazott nyomtatványt is használhatja.
 
@@ -36,9 +36,9 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (14) E rendelet hatálybalépésekor működő nevelési-oktatási intézmények esetében a fenntartónak, működtetőnek 2013. május 31-éig kell eleget tennie a 2. mellékletben meghatározott követelményeknek.
 
-(15)[^113] Ha az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetében az oktatásért felelős miniszter 2013. május 31-ig döntött a fenntartói jog átadásával, a köznevelési intézmény átalakításával kapcsolatban, és az újonnan létrehozott köznevelési intézménynek a 2013/2014. tanévben történő működéséhez működési engedélyre van szüksége, a működési engedély iránti kérelem a köznevelési intézmény székhelye szerint illetékes kormányhivatalhoz 2013. július 15-ig nyújtható be.
+(15)[^111] Ha az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetében az oktatásért felelős miniszter 2013. május 31-ig döntött a fenntartói jog átadásával, a köznevelési intézmény átalakításával kapcsolatban, és az újonnan létrehozott köznevelési intézménynek a 2013/2014. tanévben történő működéséhez működési engedélyre van szüksége, a működési engedély iránti kérelem a köznevelési intézmény székhelye szerint illetékes kormányhivatalhoz 2013. július 15-ig nyújtható be.
 
-[^110]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
-[^111]: A 193. § (10) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
-[^112]: A 193. § (11) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
-[^113]: A 193. § (15) bekezdését a 47/2013. (VII. 4.) EMMI rendelet 12. §-a iktatta be.
+[^108]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
+[^109]: A 193. § (10) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
+[^110]: A 193. § (11) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
+[^111]: A 193. § (15) bekezdését a 47/2013. (VII. 4.) EMMI rendelet 12. §-a iktatta be.
