@@ -4,6 +4,9 @@
 
 ## 32. § A hivatásos állománynak az adatbank utánpótlási nyilvántartásába felvett tagja
 
-a) az állományilletékes parancsnok támogatásával rendészeti vezetővé képző tanfolyamon vehet részt, vagy
+a)[^7] rendészeti vezetővé képző tanfolyamon vehet részt, vagy
 
-b) – amennyiben a kiválasztási eljárás során a felmérést kiemelkedő teljesítménnyel zárta – az állományilletékes parancsnok jóváhagyásával részt vehet a rendészeti tehetséggondozási programban.
+b)[^8] – amennyiben a kiválasztási eljárás során a felmérést kiemelkedő teljesítménnyel zárta – részt vehet a rendészeti tehetséggondozási programban.
+
+[^7]: A 32. § a) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § d) pontja szerint módosított szöveg.
+[^8]: A 32. § b) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § e) pontja szerint módosított szöveg.

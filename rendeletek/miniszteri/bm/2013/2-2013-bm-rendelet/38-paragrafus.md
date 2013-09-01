@@ -5,3 +5,7 @@
 (2) A rendészeti vezetővé képző tanfolyamra vonatkozó részletes szabályokat a tanulmányi és vizsgaszabályzat tartalmazza.
 
 (3) A rendészeti vezetővé képző tanfolyam eredményes teljesítéséről az OKTF tanúsítványt állít ki. A kiállított tanúsítványok nyilvántartását az OKTF végzi.
+
+(4)[^11] A hivatásos állomány tagja a rendészeti vezetővé képző tanfolyam, a záró felmérés és a vizsgagyakorlat idejére mentesül a szolgálatteljesítési kötelezettség alól.
+
+[^11]: A 38. § (4) bekezdését a 45/2013. (VIII. 15.) BM rendelet 12. § (4) bekezdése iktatta be.

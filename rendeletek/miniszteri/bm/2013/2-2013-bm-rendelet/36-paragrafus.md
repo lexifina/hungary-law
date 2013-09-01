@@ -10,14 +10,11 @@ kerülhet sor.
 
 (2) A rendészeti vezetővé képző tanfolyamon a hivatásos állomány azon tagja vehet részt, aki
 
-a)[^1]
+a)[^9]
 
 b) rendelkezik rendészeti szakvizsgával, vagy mentesül annak letétele alól.
 
-(3) A rendészeti vezetővé képző tanfolyamon önkéntes jelentkezéssel a (2) bekezdésben meghatározott feltételeken túl az vehet részt,
+(3)[^10] A rendészeti vezetővé képző tanfolyamon önkéntes jelentkezéssel a (2) bekezdésben meghatározott feltételeken túl az vehet részt, akinek a legutolsó éves teljesítményértékelése „kivételes” vagy „jó” teljesítményfokozatú.
 
-a) aki kiváló minősítéssel rendelkezik és
-
-b) akinek a jelentkezését az állományilletékes parancsnok írásban támogatja.
-
-[^1]: A 36. § (2) bekezdés a) pontja a 63. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^9]: A 36. § (2) bekezdés a) pontja a 63. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^10]: A 36. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 12. § (3) bekezdésével megállapított szöveg.

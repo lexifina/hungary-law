@@ -8,8 +8,12 @@
 
 a) a hivatásos állomány tagját az állományilletékes parancsnok javasolhatja, a hivatásos állomány tagjának beleegyezésével, vagy
 
-b) a hivatásos állomány tagja az állományilletékes parancsnok egyetértésével önként jelentkezhet.
+b)[^2] a hivatásos állomány tagja önként jelentkezhet.
 
-(2) Az állományilletékes parancsok egyetértését a Rendészeti Vezetőképzési és Tehetséggondozási Rendszerbe önként jelentkező szerzi be.
+(2)[^3]
 
-(3) A Rendészeti Vezetőképzési és Tehetséggondozási Rendszerbe a hivatásos állomány azon tagja jelölhető, illetve jelentkezhet, aki legalább négy év szolgálati viszonnyal rendelkezik és legutolsó minősítése kiemelkedő vagy átlag feletti értékelést kapott.
+(3)[^4] A Rendészeti Vezetőképzési és Tehetséggondozási Rendszerbe a hivatásos állomány azon tagja jelölhető, illetve jelentkezhet, aki legalább négy év szolgálati viszonnyal rendelkezik és a legutolsó éves teljesítményértékelése „kivételes” vagy „jó” teljesítményfokozatú.
+
+[^2]: A 26. § (1) bekezdés b) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § a) pontja szerint módosított szöveg.
+[^3]: A 26. § (2) bekezdését a 45/2013. (VIII. 15.) BM rendelet 13. § b) pontja hatályon kívül helyezte.
+[^4]: A 26. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 12. § (1) bekezdésével megállapított szöveg.
