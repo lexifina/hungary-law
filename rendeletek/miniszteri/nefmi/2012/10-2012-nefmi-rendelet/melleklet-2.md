@@ -7502,4 +7502,4 @@ C1013 A gégefedő mellső felszínének rosszindulatú daganata III. stádium
 
 C1014 A gégefedő mellső felszínének rosszindulatú daganata IV. stádium
 
-[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése szerint módosított szöveg.
