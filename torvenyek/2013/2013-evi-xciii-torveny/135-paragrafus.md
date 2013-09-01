@@ -1,0 +1,5 @@
+135. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 49. alcíme a következő 62/A. §-sal egészül ki:
+
+„62/A. § (1) A bíróság, a szabálysértési hatóság engedélyezheti, hogy a tanú a szóbeli meghallgatását követően vagy helyette írásban tegyen vallomást. Ebben az esetben a tanú a vallomását saját kezűleg leírja és aláírja. Az írásbeli tanúvallomás megtétele nem zárja ki, hogy utóbb a tanút a meghallgatása céljából a bíróság, a szabálysértési hatóság idézze.
+
+(2) Ha a tanú szóbeli meghallgatás nélkül vagy a szóbeli meghallgatást követően írásban tesz vallomást, az írásbeli vallomásból ki kell tűnnie, hogy a tanú a vallomást a vallomástétel akadályainak, valamint a hamis tanúzás következményeinek ismeretében tette meg. Erre a tanút az írásbeli vallomás megtételének engedélyezésével egyidejűleg, a vallomástétel akadályainak és a hamis tanúzás következményeinek ismertetésével figyelmeztetni kell.”
