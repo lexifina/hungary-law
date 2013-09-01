@@ -1,4 +1,4 @@
-## 2–4. §[^2]
+## 4. § A részvénytársaság az adatszolgáltatási kötelezettség hatékonyabb teljesíthetősége érdekében adott dohánytermék-értékesítési helyhez (dohánybolthoz, elkülönített helyhez) egyedi azonosítót rendelhet. Ezen azonosítóról a részvénytársaság a dohánytermék-kiskereskedőt értesíti, aki az adatszolgáltatási kötelezettségének ezen azonosító feltüntetésével köteles eleget tenni.
 
 ## 3. A regisztrációs kötelezettség
 
@@ -13,5 +13,3 @@
 (5) A már regisztrált érintett termék bármely jellemzőjének megváltozása esetén az érintett terméket új terméknek kell tekinteni. Ennek megfelelően a regisztrációs kötelezettségnek akkor is újra eleget kell tenni, ha az 1. melléklet 1. pontjában meghatározott dohányterméknek kizárólag a kiskereskedelmi eladási ára változik meg. A kizárólag a kiskereskedelmi árváltozás miatti újbóli regisztráció során a (2) bekezdésben szereplő mintaadási kötelezettség nem alkalmazandó.
 
 (6) Az érintett termékek regisztrációját első alkalommal 2013. augusztus 1-jéig kell teljesíteni.
-
-[^2]: A 2. alcím (2–4. §) a 8. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.

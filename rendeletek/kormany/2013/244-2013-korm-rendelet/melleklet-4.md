@@ -50,6 +50,6 @@
 
 ## 7. A dohánytermék kiskereskedelmi (fogyasztói) értékesítési ára; egyéb termék esetén az első javasolt fogyasztói ár.
 
-4. melléklet a 244/2013. (VI. 30.) Korm. rendelethez[^9]
+4. melléklet a 244/2013. (VI. 30.) Korm. rendelethez[^2]
 
-[^9]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
