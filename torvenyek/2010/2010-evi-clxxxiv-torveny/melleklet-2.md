@@ -14,10 +14,6 @@ Fejér megye
 
 |
 
-Heves megye
-
-|
-
 Nógrád megye
 
 |
@@ -26,11 +22,15 @@ Pest megye
 
 |
 
+|
+
 2. SZEGEDI ÍTÉLŐTÁBLA
 
 |
 
 Csongrád megye
+
+Jász-Nagykun-Szolnok megye
 
 |
 
@@ -74,11 +74,11 @@ Borsod-Abaúj-Zemplén megye
 
 |
 
-Jász-Nagykun-Szolnok megye
+Szabolcs-Szatmár-Bereg megye
 
 |
 
-Szabolcs-Szatmár-Bereg megye
+Heves megye
 
 |
 
