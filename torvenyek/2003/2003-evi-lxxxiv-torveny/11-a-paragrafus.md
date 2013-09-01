@@ -24,15 +24,19 @@ kell sorolni.
 
 (6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 41435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
+(6a) A gyógyszerész, szakgyógyszerész munkakörben (a továbbiakban együtt: gyógyszerész munkakörben) foglalkoztatott egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 75 820 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
+
 (7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményalapra (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
 
 (8) A (6) és (6a) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
 
-(9) Az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő részére a képzés ideje alatt, foglalkoztatási jogviszonytól függetlenül havonta legalább
+(9) A 17. § (7) bekezdésében meghatározott kivétellel az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő részére a képzés ideje alatt, foglalkoztatási jogviszonytól függetlenül havonta legalább
 
 a) az orvos munkakörben foglalkoztatott egészségügyi dolgozó részére a (4) bekezdés alapján,
 
-b) a (6) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6) bekezdés alapján
+b) a (6) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6) bekezdés alapján és
+
+c) a (6a) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6a) bekezdés alapján
 
 járó bért, illetve illetményt kell folyósítani. Ha a szakképzésben részt vevő foglalkoztatására heti 36 órát elérő időben, tartós megbízási szerződés alapján vagy vállalkozói jogviszonyban kerül sor, e rendelkezéseket az egészségügyi dolgozó havi megbízási vagy vállalkozói díjazására kell alkalmazni.
 

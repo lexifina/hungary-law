@@ -26,4 +26,4 @@ b) az (1) bekezdés c) pontja szerinti, egészségügyi szakképesítéssel nem 
 
 négy havi összegét. Szándékos károkozás esetén a teljes kárt kell megtéríteni.
 
-(7) Az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő személynek a képzés ideje alatt, önkéntes segítői jogviszonyban végzett egészségügyi tevékenysége a képzés megszerzéséhez szükséges szakmai gyakorlatként nem ismerhető el.
+(7) Az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő személynek a képzés ideje alatt, önkéntes segítői jogviszonyban végzett egészségügyi tevékenysége – a költségtérítéses képzésben részt vevő nem magyar állampolgár, valamint hontalanként elismert személy kivételével – a képzés megszerzéséhez szükséges szakmai gyakorlatként nem ismerhető el.
