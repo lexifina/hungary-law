@@ -1,4 +1,6 @@
-89. § (1)–(2)
+89. § (1) Azon a településen, ahol legalább nyolc óvodáskorú vagy nyolc alsó tagozatos korú gyermek rendelkezik lakóhellyel és a demográfiai adatok alapján feltételezhető, hogy ez a létszám legalább három évig fennmarad, továbbá ha a szülők ezt igénylik, óvoda esetében a települési önkormányzat, alsó tagozat esetében a települési önkormányzat kezdeményezésére az állami intézményfenntartó központ a hivatal tájékoztatása mellett gondoskodik a feladat helyben történő ellátásáról.
+
+(2) A nemzetiséghez tartozók részére az óvodai csoportot, iskolai osztályt akkor is meg kell szervezni, fenn kell tartani, ha ugyanazon nemzetiséghez tartozó nyolc gyermek, tanuló szülője kéri.
 
 (3) Az éves költségvetési törvényben kell meghatározni annak a támogatásnak az összegét, amelyet az iskolafenntartó kap a piaci áron forgalomba kerülő tanulói tankönyvek megvásárlásának támogatásához. A támogatás módjáról a nevelőtestület a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint dönt. Az iskolának a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint gondoskodnia kell a térítésmentes tankönyvellátásról.
 

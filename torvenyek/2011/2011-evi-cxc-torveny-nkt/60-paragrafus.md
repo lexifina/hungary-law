@@ -2,7 +2,13 @@
 
 60. § (1) A tanuló munkahelyi, családi vagy más irányú elfoglaltságához, a meglévő ismereteihez és életkorához igazodó iskolai oktatásban (a továbbiakban: felnőttoktatás) az e törvényben foglaltak szerint vehet részt.
 
-(2)
+(2) A tanuló attól az évtől kezdődően, amelyben
+
+a) nyolc évfolyamos általános iskola esetén tizenhetedik,
+
+b) középiskola és szakiskola esetén huszonegyedik
+
+életévét betölti, kizárólag felnőttoktatásban kezdhet új tanévet.
 
 (3) A tanuló attól a tanévtől kezdve folytathatja a tanulmányait felnőttoktatás keretében, amelyben a tizenhatodik életévét betölti.
 

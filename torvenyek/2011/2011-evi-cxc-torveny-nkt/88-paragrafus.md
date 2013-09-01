@@ -6,6 +6,6 @@
 
 (3) A központi költségvetés a nem állami szerv által fenntartott intézmény köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, amelynek feltétele, hogy az intézmény a működési engedélyben foglaltaknak megfelelően végzi tevékenységét.
 
-(4)
+(4) A költségvetési hozzájárulás összege fedezi a nevelési-oktatási intézmény és a pedagógiai szakszolgálat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetményét, munkabérét és ezek járulékait. A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit külön jogszabály állapítja meg. Nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a kormányhivatallal.
 
 (5)

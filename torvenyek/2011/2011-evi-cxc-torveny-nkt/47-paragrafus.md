@@ -18,7 +18,7 @@ c) a fejlesztési területek szakértői bizottság által történő meghatáro
 
 (6) A gyermek, tanuló érdekében a járási hivatal kötelezheti a szülőt, hogy gyermekével jelenjen meg szakértői vizsgálaton, továbbá a szakértői vélemény alapján gyermekét a megfelelő nevelési-oktatási intézménybe írassa be. A járási hivatal döntése elleni fellebbezést a kormányhivatal bírálja el. Ha a szülő a járási hivatal felhívása ellenére kötelezettségének ismételten nem tesz eleget, a járási hivatal a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálatot értesíti. A szakértői bizottság nem jelölhet ki olyan intézményt, amely helyhiány miatt nem tudná felvenni a gyermeket, tanulót. A szakértői vizsgálaton való részvétel érdekében szükséges utazás költségeit a társadalombiztosítás a szülőnek megtéríti.
 
-(7)
+(7) Az enyhe értelmi fogyatékos, beszédfogyatékos vagy pszichés fejlődési zavarral küzdő sajátos nevelési igényű tanulót két gyermekként, a mozgásszervi, érzékszervi, középsúlyos értelmi fogyatékos, autizmus spektrum zavarral küzdő vagy halmozottan fogyatékos gyermeket, tanulót három gyermekként kell figyelembe venni az óvodai csoport, iskolai osztály, kollégiumi csoport létszámának számításánál, ha nevelés-oktatásuk a többi gyermekkel, tanulóval együtt történik.
 
 (8) Ha a gyermek, a tanuló beilleszkedési, tanulási, magatartási nehézséggel küzd, fejlesztő foglalkoztatásra jogosult. A fejlesztő foglalkoztatás a nevelési tanácsadás, az óvodai nevelés, az iskolai nevelés és oktatás, a kollégiumi nevelés és oktatás keretében valósítható meg.
 

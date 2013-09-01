@@ -1,6 +1,6 @@
 46. § (1) A tanuló kötelessége, hogy
 
-a)
+a) részt vegyen a kötelező és a választott, továbbá általános iskolában a tizenhat óráig tartó egyéb foglalkozásokon és szakmai gyakorlatokon,
 
 b) eleget tegyen – rendszeres munkával és fegyelmezett magatartással, képességeinek megfelelően – tanulmányi kötelezettségének,
 
@@ -38,7 +38,7 @@ h) az oktatási jogok biztosához forduljon.
 
 (4) A gyermek, tanuló joga, hogy a nevelési-oktatási intézményben, családja anyagi helyzetétől függően, külön jogszabályban meghatározott esetekben kérelmére térítésmentes vagy kedvezményes étkezésben, tanszerellátásban részesüljön, továbbá, hogy részben vagy egészben mentesüljön az e törvényben meghatározott, a gyermekeket, tanulókat terhelő költségek megfizetése alól, vagy engedélyt kapjon a fizetési kötelezettség teljesítésének halasztására vagy a részletekben való fizetésre.
 
-(5)
+(5) Az elsőtől a nyolcadik évfolyamig, továbbá a nemzetiségi nevelés-oktatásban és a gyógypedagógiai nevelés-oktatásban az állam biztosítja, hogy a tanuló számára a tankönyvek térítésmentesen álljanak rendelkezésre.
 
 (6) A tanuló joga különösen, hogy
 

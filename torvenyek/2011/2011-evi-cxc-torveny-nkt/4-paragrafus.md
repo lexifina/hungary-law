@@ -80,7 +80,7 @@ ab) beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanu
 
 ac) kiemelten tehetséges gyermek, tanuló,
 
-b)
+b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint hátrányos és halmozottan hátrányos helyzetű gyermek, tanuló,
 
 14. kiemelten tehetséges gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki átlag feletti általános vagy speciális képességek birtokában magas fokú kreativitással rendelkezik, és felkelthető benne a feladat iránti erős motiváció, elkötelezettség,
 
