@@ -1,1 +1,0 @@
-## 127. § Ha a lakás vételárát a vevő részletfizetéssel egyenlíti ki, a fennálló vételárhátralék és járulékai erejéig a lakásra (ingatlanra) a HM javára jelzálogjogot, valamint elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyeztetni.

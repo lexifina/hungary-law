@@ -38,6 +38,6 @@ b) az új szolgálati helye szerinti településen bérelt, lízingelt lakásba 
 
 c) a jogosult helyőrségváltással együtt járó kinevezése, áthelyezése, rendelkezési állományból más szervhez határozatlan időtartamra szóló vezénylése nem saját kérelemre történt.
 
-(5)[^126] A (2)–(4) bekezdések alapján megállapított, illetve kiszámított albérleti díj hozzájárulás összegét a szociális körülmények figyelembevételével az állományilletékes parancsnok további 10%-kal kiegészítheti, ha a jogosult családi pótlékban részesül.
+(5)[^111] A (2)–(4) bekezdések alapján megállapított, illetve kiszámított albérleti díj hozzájárulás összegét a szociális körülmények figyelembevételével az állományilletékes parancsnok további 10%-kal kiegészítheti, ha a jogosult családi pótlékban részesül.
 
-[^126]: A 215. § (5) bekezdése a 15/2010. (X. 5.) HM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^111]: A 215. § (5) bekezdése a 15/2010. (X. 5.) HM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.

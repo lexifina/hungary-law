@@ -1,6 +1,6 @@
 ## 244. § A rendelet hatálybalépését megelőzően bérbe adott családi szálló lakóegységre a bérleti szerződés megszűnését követően a garzonházi lakások bérletére vonatkozó rendelkezéseket kell alkalmazni.
 
-244/A. §[^158] (1) A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló 19/2009. (XII. 29.) HM rendelet módosításáról szóló 4/2012. (IV. 5.) HM rendelet (a továbbiakban: R1) 3. §-ával megállapított 5. § (1) bekezdés d) pontját, 10. §-ával megállapított 164/A. §-át, valamint 12. §-ával megállapított 181/A. §-át az állomány 2010. január 1-jét követően elhunyt és hősi halottá nyilvánított tagjának özvegye, túlélő élettársa, vagy gyermeke vonatkozásában kell alkalmazni.
+244/A. §[^143] (1) A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló 19/2009. (XII. 29.) HM rendelet módosításáról szóló 4/2012. (IV. 5.) HM rendelet (a továbbiakban: R1) 3. §-ával megállapított 5. § (1) bekezdés d) pontját, 10. §-ával megállapított 164/A. §-át, valamint 12. §-ával megállapított 181/A. §-át az állomány 2010. január 1-jét követően elhunyt és hősi halottá nyilvánított tagjának özvegye, túlélő élettársa, vagy gyermeke vonatkozásában kell alkalmazni.
 
 (2) Az R1 9. § (2) bekezdésével megállapított 106. § (5) bekezdését az R1 9. §-ának hatálybalépését követően kötött garázsbérleti szerződések vonatkozásában kell alkalmazni.
 
@@ -10,4 +10,4 @@
 
 (5) Az R1 4–6. §-aival megállapított 57. § (3) bekezdést, 62. § (5) bekezdést, valamint 64. §-t az R1 hatálybalépését követően benyújtott kérelmek vonatkozásában kell alkalmazni.
 
-[^158]: A 244/A. §-t a 4/2012. (IV. 5.) Hm rendelet 20. §-a iktatta be.
+[^143]: A 244/A. §-t a 4/2012. (IV. 5.) Hm rendelet 20. §-a iktatta be.

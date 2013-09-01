@@ -1,1 +1,0 @@
-## 148. § Az önkormányzat által történő elidegenítéshez, illetve a lakás megvásárlásához a helyi lakásgazdálkodási szerv a 115. § (3) bekezdés kivételével csak akkor járulhat hozzá, ha a lakás nem esik a 115. § (1) bekezdés a)–b) pontjának hatálya alá.

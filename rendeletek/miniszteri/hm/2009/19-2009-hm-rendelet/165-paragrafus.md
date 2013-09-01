@@ -1,4 +1,4 @@
-## 164/A. §[^83] Az állomány hősi halottá nyilvánított tagja hozzátartozójának a honvédelmi szerv bérlőkijelölése folytán határozatlan időtartamra bérbe adott önkormányzati lakás elidegenítése esetén a lakás bérlőkijelölési jogáról térítésmentesen le kell mondani a tulajdonos önkormányzat javára, feltéve, hogy az elidegenítés a hősi halott özvegye, 5. § (1) bekezdés c) pont szerinti feltételeknek megfelelő túlélő élettársa vagy a hősi halott gyermeke javára történik.
+## 164/A. §[^68] Az állomány hősi halottá nyilvánított tagja hozzátartozójának a honvédelmi szerv bérlőkijelölése folytán határozatlan időtartamra bérbe adott önkormányzati lakás elidegenítése esetén a lakás bérlőkijelölési jogáról térítésmentesen le kell mondani a tulajdonos önkormányzat javára, feltéve, hogy az elidegenítés a hősi halott özvegye, 5. § (1) bekezdés c) pont szerinti feltételeknek megfelelő túlélő élettársa vagy a hősi halott gyermeke javára történik.
 
 ## A lakásbérleti szerződés megkötésével kapcsolatos feladatok
 
@@ -14,4 +14,4 @@ c) a lakbér és a szolgáltatások díját, fizetésének módját.
 
 (3) Az (1)–(2) bekezdésben foglaltak szerint kell eljárni akkor is, ha a magánbefektetői HM rendelkezésű lakás bérbeadója honvédelmi szerv.
 
-[^83]: A 164/A. §-t a 4/2012. (IV. 5.) HM rendelet 10. §-a iktatta be.
+[^68]: A 164/A. §-t a 4/2012. (IV. 5.) HM rendelet 10. §-a iktatta be.

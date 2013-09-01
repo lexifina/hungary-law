@@ -8,7 +8,7 @@ b) véleményezi a lakhatás támogatásával és a lakásellátással összefü
 
 c) gondoskodik a lakásgazdálkodási feladatokat ellátó személyek szakmai képzéséről,
 
-d)[^138] ellenőrzi a helyi lakásgazdálkodási szervek, valamint a HM vagyonkezelői feladatokat ellátó szerv lakhatástámogatással és lakásgazdálkodással összefüggő tevékenységét,
+d)[^123] ellenőrzi a helyi lakásgazdálkodási szervek, valamint a HM vagyonkezelői feladatokat ellátó szerv lakhatástámogatással és lakásgazdálkodással összefüggő tevékenységét,
 
 e) szakmailag közreműködik a lakás, személygépkocsi-tároló és szálló férőhely bérletével összefüggő jogviták bíróság előtti képviseletében,
 
@@ -18,9 +18,9 @@ g) a HM Honvéd Vezérkar főnökének írásbeli közlése alapján meghatároz
 
 h) javaslatot tesz a honvédelemért felelős miniszternek a HM rendelkezésű lakásnak kívülálló személy vagy szervezet részére történő bérbeadására,
 
-i)[^139] dönt a HM főosztályvezető, valamint a vele azonos vagy magasabb besorolású vezetői (parancsnoki) beosztást ellátó személy, továbbá a helyi lakásgazdálkodási szerv vezetőjének és a keretgazda lakásbizottság elnökének, valamint a lakáscélú támogatási szerv vezetőjének munkáltatói kölcsön és vissza nem térítendő juttatási ügyeiben,
+i)[^124] dönt a HM főosztályvezető, valamint a vele azonos vagy magasabb besorolású vezetői (parancsnoki) beosztást ellátó személy, továbbá a helyi lakásgazdálkodási szerv vezetőjének és a keretgazda lakásbizottság elnökének, valamint a lakáscélú támogatási szerv vezetőjének munkáltatói kölcsön és vissza nem térítendő juttatási ügyeiben,
 
-j)[^140] elbírálja a helyi lakásgazdálkodási szervek és a HM vagyonkezelői feladatokat ellátó szerv lakások bérletére, vásárlására, építésére, a HM rendelkezésű lakásállomány magánbefektetői megállapodással történő fejlesztésére, valamint a lakáselidegenítési és más lakhatási támogatási célra fordítható bevételek (többletbevételek) felhasználására tett javaslatait,
+j)[^125] elbírálja a helyi lakásgazdálkodási szervek és a HM vagyonkezelői feladatokat ellátó szerv lakások bérletére, vásárlására, építésére, a HM rendelkezésű lakásállomány magánbefektetői megállapodással történő fejlesztésére, valamint a lakáselidegenítési és más lakhatási támogatási célra fordítható bevételek (többletbevételek) felhasználására tett javaslatait,
 
 k) véleményezi és kijelölésre előkészíti az állami tulajdonban és a HM rendelkezésében lévő lakóépületek (lakások) elidegenítésére tett javaslatokat,
 
@@ -42,6 +42,6 @@ s) intézkedik a lakás, személygépkocsi tároló, szálló férőhely bérbea
 
 t) dönt a honvédelmi szerv állományába nem tartozó, a 169. § (5) bekezdésben meghatározott személy részére történő szálló férőhely juttatás ügyében.
 
-[^138]: A 226. § d) pontja a 4/2012. (IV. 5.) HM rendelet 16. §-ával megállapított szöveg.
-[^139]: A 226. § i) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^140]: A 226. § j) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^123]: A 226. § d) pontja a 4/2012. (IV. 5.) HM rendelet 16. §-ával megállapított szöveg.
+[^124]: A 226. § i) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^125]: A 226. § j) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (5) bekezdés b) pontja szerint módosított szöveg.
