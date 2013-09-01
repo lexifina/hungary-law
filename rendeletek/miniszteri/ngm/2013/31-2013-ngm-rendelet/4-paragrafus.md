@@ -1,0 +1,1 @@
+## „(2) Ha a hatósági ellenőrzés során az (1) bekezdésben meghatározott valamely körülmény fennállását állapítják meg, a szolgáltató tevékenységtől való eltiltását és a hatósági nyilvántartásból való törlését kezdeményezheti a jegyző, a járási hivatal, illetve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, valamint a NÉBIH.”
