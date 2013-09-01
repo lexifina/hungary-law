@@ -1,10 +1,4 @@
-10. § (1) Az Nkt.
-
-a) 19. § (3) bekezdés b) pontjában az „az egyházi vagy más nem állami, nem települési önkormányzati nevelési-oktatási intézményfenntartók” szövegrész helyébe az „a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy”,
-
-b) 31. § (2) bekezdésében az „egyház vagy más nem állami szerv, nem települési önkormányzat” szövegrész helyébe az „a 2. § (3) bekezdés b) pontjában meghatározott személy”
-
-szöveg lép.
+10. § (1)
 
 (2) Az Nkt.
 
