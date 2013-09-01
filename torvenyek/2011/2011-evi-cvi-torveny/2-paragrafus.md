@@ -92,7 +92,7 @@ e) az Mt. 58. §-át azzal az eltéréssel kell alkalmazni, hogy a szerződés m
 
 f) az Mt. 59–62. §-a nem alkalmazható,
 
-g) az Mt. 64. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni az illetékes munkaügyi központnak,
+g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni az illetékes munkaügyi központnak, továbbá a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, amennyiben jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta.
 
 h) az Mt. 70. §-a nem alkalmazható,
 

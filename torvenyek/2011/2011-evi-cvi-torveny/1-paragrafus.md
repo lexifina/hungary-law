@@ -63,3 +63,25 @@ k) a kötelező önkormányzati feladat ellátásában közreműködő, törvén
 a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
 
 b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
+
+(4a) Az álláskeresőt három hónap időtartamra ki kell zárni a közfoglalkoztatásból, ha
+
+a) a tanköteles gyermekének mulasztása miatt vele szemben
+
+aa) szabálysértési eljárás van folyamatban, vagy
+
+ab) e szabálysértés miatt három hónapon belül jogerősen elmarasztalták, vagy
+
+b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti.
+
+(4b) A hivatalból folytatott közigazgatási eljáráshoz a (4a) bekezdés aa) pontjában meghatározott kizárási okról vagy annak hiányáról megkeresésre az általános szabálysértési hatóság, a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási munkaügyi kirendeltsége (a továbbiakban: kirendeltség) részére.
+
+(4c) A (4a) bekezdés ab) pontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a kirendeltség adatot igényelhet a szabálysértési nyilvántartásból.
+
+(4d) A kizárás kérdésében első fokon a kirendeltség, másodfokon a munkaügyi központ hatósági határozattal dönt.
+
+(4e) Amennyiben a közfoglalkoztatási jogviszony létrehozását követően értesül a kirendeltség a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
+
+(4f) A (4a) bekezdés b) pontja szerinti esetben a megkeresésre nincsen szükség, amennyiben a közfoglalkoztatást a közfoglalkoztatott lakóhelye szerinti helyi önkormányzat, annak intézménye, vagy a helyi önkormányzat által alapított gazdálkodó szervezet valósítja meg, vagy az önkormányzatnak nincs a (4a) bekezdés b) pont szerinti hatályos rendelete.
+
+(4g) A (4f) bekezdés hatálya alá tartozó közfoglalkoztató megtagadhatja a közfoglalkoztatási jogviszony létesítését, amennyiben a közfoglalkoztatottal szemben a (4a) bekezdés b) pontja szerinti kizárási ok fennállásáról van tudomása.

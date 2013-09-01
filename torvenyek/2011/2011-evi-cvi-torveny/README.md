@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-106-00-00
 | 2013-01-01 | 2012. évi CCXVI. törvény | 2011-106-00-00.10 |
 | 2013-07-20 | 2013. évi CXXXIV. törvény | 2011-106-00-00.11 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2011-106-00-00.12 |
+| 2013-09-01 | 2013. évi XLI. törvény | 2011-106-00-00.13 |
