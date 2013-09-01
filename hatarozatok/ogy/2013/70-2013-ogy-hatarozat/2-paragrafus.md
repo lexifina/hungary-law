@@ -1,0 +1,3 @@
+## 1. § Az egyes házszabályi rendelkezésekről szóló 46/1994. (IX. 30.) OGY határozat (a továbbiakban: HHSZ.) 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Képviselőcsoport alakítására – a 14. § (1)–(3) bekezdésében meghatározottak szerint – a képviselők előző általános választásán országos pártlistát állító és mandátumot szerző, ugyanazon párthoz vagy annak jogutódjához tartozó képviselők jogosultak. A képviselők előző általános választásán közös országos listát állító és mandátumot szerző pártokhoz, illetve azok jogutódjához tartozó képviselők – a 14. § (1) és (3) bekezdésének megfelelően – közös vagy önálló képviselőcsoport alakítására jogosultak.”

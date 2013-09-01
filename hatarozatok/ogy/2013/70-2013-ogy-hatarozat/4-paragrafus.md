@@ -1,0 +1,1 @@
+## „(3) Nem szűnik meg a képviselőcsoport az (1) bekezdés a) pontja szerinti esetben, ha a megüresedett mandátum az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény 20. § (1) bekezdése alapján – a választási eljárásról szóló törvényben meghatározott határidőn belül – betölthető.”
