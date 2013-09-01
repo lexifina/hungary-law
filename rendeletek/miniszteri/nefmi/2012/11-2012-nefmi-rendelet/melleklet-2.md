@@ -1024,7 +1024,39 @@
 
 | 74892 | Kemoterápia, CETUX+FOLFOX-6 (fenntartó) protokoll szerint (02. fázis) |
 
+| 74901 | Kemoterápia, Cetuximab+CBP+5FU (telítő) protokoll szerint (3w) (1. fázis) |
+
+| 74902 | Kemoterápia, Cetuximab+CBP+5FU (telítő) protokoll szerint (3w) (2. fázis) |
+
+| 74903 | Kemoterápia, Cetuximab+CBP+5FU (telítő) protokoll szerint (3w) (3. fázis) |
+
+| 74911 | Kemoterápia, Cetuximab+CBP+5FU (fenntartó) protokoll szerint (3w) (1. fázis) |
+
+| 74912 | Kemoterápia, Cetuximab+CBP+5FU (fenntartó) protokoll szerint (3w) (2. fázis) |
+
+| 74913 | Kemoterápia, Cetuximab+CBP+5FU (fenntartó) protokoll szerint (3w) (3. fázis) |
+
+| 74921 | Kemoterápia, Cetuximab+CDDP+5FU (telítő) protokoll szerint (3w) (1. fázis) |
+
+| 74922 | Kemoterápia, Cetuximab+CDDP+5FU (telítő) protokoll szerint (3w) (2. fázis) |
+
+| 74923 | Kemoterápia, Cetuximab+CDDP+5FU (telítő) protokoll szerint (3w) (3. fázis) |
+
+| 74931 | Kemoterápia, Cetuximab+CDDP+5FU (fenntartó) protokoll szerint (3w) (1. fázis) |
+
+| 74932 | Kemoterápia, Cetuximab+CDDP+5FU (fenntartó) protokoll szerint (3w) (2. fázis) |
+
+| 74933 | Kemoterápia, Cetuximab+CDDP+5FU (fenntartó) protokoll szerint (3w) (3. fázis) |
+
+| 74941 | Kemoterápia, LAP+X protokoll szerint (1. fázis) |
+
+| 74951 | Kemoterápia, PAN+FOLFOX-4 protokoll szerint (1. fázis) |
+
+| 74961 | Kemoterápia, PAN+FOLFIRI protokoll szerint (1. fázis) |
+
 | 74971 | Kemoterápia, HER kiegészítő monoterápia protokoll szerint (01. fázis) |
+
+| 74981 | Kemoterápia, TEY+CDDP protokoll szerint (1. fázis) |
 
 | 75141 | Kemoterápia, bevacizumab+capecitabine protokoll szerint (01. fázis) |
 
@@ -6040,4 +6072,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
