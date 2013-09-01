@@ -20,7 +20,7 @@ c) a tanulói jogviszony megszűnését követően bármelyik, az adott vizsgat�
 
 a)[^64]
 
-b)[^65] május–júniusi vizsgaidőszak esetén március 1-ig,
+b)[^65] május–júniusi vizsgaidőszak esetén február 15-ig,
 
 c)[^66] október-novemberi vizsgaidőszak esetén szeptember 5-ig
 
@@ -36,7 +36,7 @@ c)[^66] október-novemberi vizsgaidőszak esetén szeptember 5-ig
 
 (11)[^71] Az összesítő jelentést
 
-a)[^72] május–júniusi vizsgaidőszak esetén március 8-ig,
+a)[^72] május–júniusi vizsgaidőszak esetén március 1-ig,
 
 b) október–novemberi vizsgaidőszak esetén szeptember 10-ig
 
@@ -62,14 +62,14 @@ b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetéb
 [^62]: A 12. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
 [^63]: A 12. § (6) bekezdésének záró szövegrésze a 253/2006. (XII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 106/2012. (VI. 1.) Korm. rendelet 9. § f) és h) pontja szerint módosított szöveg.
 [^64]: A 12. § (6) bekezdésének a) pontját a 256/2005. (XII. 7.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
-[^65]: A 12. § (6) bekezdés b) pontja a 423/2012. (XII. 29.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^65]: A 12. § (6) bekezdés b) pontja a 423/2012. (XII. 29.) Korm. rendelet 46. § (1) bekezdésével megállapított, a 47. § (2) bekezdése szerint módosított szöveg.
 [^66]: A 12. § (6) bekezdésének c) pontja a 148/2005. (VII. 27.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^67]: A 12. § (7) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 40. § (5) bekezdésével megállapított, a 106/2012. (VI. 1.) Korm. rendelet 9. § i) pontja szerint módosított szöveg.
 [^68]: A 12. § új (8) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése iktatta be, egyidejűleg az eredeti (8)–(12) bekezdés számozását (9)–(13) bekezdésre változtatva. A 12. § (8) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^69]: A 12. § eredeti (8) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (9) bekezdésre változtatta, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 2. § (2) bekezdése és 12. § (3) bekezdésének l) pontja, a 351/2010. (XII. 30.) Korm. rendelet 41. § f) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § j) és k) pontja szerint módosított szöveg.
 [^70]: A 12. § eredeti (9) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (10) bekezdésre változtatta, szövege a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének h) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § f) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
 [^71]: A 12. § eredeti (10) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (11) bekezdésre változtatta, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (3) bekezdésével megállapított, záró szövegrésze a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja és a 254/2009. (XI. 20.) Korm. rendelet 6. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^72]: A 12. § (11) bekezdés a) pontja a 423/2012. (XII. 29.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
+[^72]: A 12. § (11) bekezdés a) pontja a 423/2012. (XII. 29.) Korm. rendelet 46. § (2) bekezdésével megállapított, a 47. § (2) bekezdése szerint módosított szöveg.
 [^73]: A 12. § eredeti (11) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (12) bekezdésre változtatta, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (6) bekezdésével megállapított szöveg.
 [^74]: A 12. § eredeti (12) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (13) bekezdésre változtatta, a bekezdést hatályon kívül helyezte a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése.
 [^75]: A 12. § (14) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (6) bekezdése iktatta be, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
