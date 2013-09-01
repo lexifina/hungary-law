@@ -1646,6 +1646,6 @@
 
 ## A szakképesítésért felelős ágazati miniszter megjelölése.
 
-2. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^9]
+2. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^10]
 
-[^9]: A 2. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.

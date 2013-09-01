@@ -4,6 +4,6 @@
 
 (3) Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelettel kiadott OKJ-ban szereplő szakképesítések tekintetében megszerzett jogosultságok e rendelettel kiadott OKJ-ban szereplő szakképesítésekre vonatkozó érvényességét a szakképesítésért felelős miniszter rendeletben határozza meg.
 
-(4)[^2] A speciális szakiskolában és a készségfejlesztő speciális szakiskolában az 1. melléklet 1. táblázatában szereplő 32-es szintű szakképesítés is oktatható iskolai rendszerű képzés keretében, ha a szakképesítés szakképzési kerettanterve kiadásra került.
+(4)[^1] A speciális szakiskolában és a készségfejlesztő speciális szakiskolában az 1. melléklet 1. táblázatában szereplő 32-es szintű szakképesítés is oktatható iskolai rendszerű képzés keretében, ha a szakképesítés szakképzési kerettanterve kiadásra került.
 
-[^2]: A 2. § (4) bekezdését a 84/2013. (III. 21.) Korm. rendelet 1. §-a iktatta be.
+[^1]: A 2. § (4) bekezdését a 84/2013. (III. 21.) Korm. rendelet 1. §-a iktatta be.

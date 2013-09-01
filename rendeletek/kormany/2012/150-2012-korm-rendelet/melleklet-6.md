@@ -38,6 +38,102 @@
 
 | 18 | 54 212 09 | Táncos (szakmairány megjelölésével) |
 
-6. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^11]
+6. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^12]
 
-[^11]: A 6. melléklet a 9. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+Az államilag támogatott iskolai rendszerű oktatás tekintetében agrárágazatba tartozó szakképesítések
+
+|  | A | B |
+
+| 1 | Azonosító szám | Megnevezés |
+
+| 2 | 55 621 01 | Agrár áruforgalmazó szaktechnikus |
+
+| 3 | 35 621 01 | Állattartó szakmunkás |
+
+| 4 | 54 621 01 | Állattenyésztő és állategészségügyi technikus |
+
+| 5 | 35 813 01 | Belovagló |
+
+| 6 | 35 621 02 | Biogazdálkodó |
+
+| 7 | 55 541 01 | Bor- és pezsgőgyártó szaktechnikus |
+
+| 8 | 55 541 02 | Cukor- és édesipari szaktechnikus |
+
+| 9 | 34 622 01 | Dísznövénykertész |
+
+| 10 | 34 541 01 | Édesipari termékgyártó |
+
+| 11 | 54 541 01 | Élelmiszeripari analitikus technikus |
+
+| 12 | 54 521 01 | Élelmiszeripari gépésztechnikus |
+
+| 13 | 34 541 02 | Élelmiszeripari szakmunkás |
+
+| 14 | 54 541 02 | Élelmiszeripari technikus |
+
+| 15 | 54 623 01 | Erdészeti és vadgazdálkodási technikus |
+
+| 16 | 54 521 02 | Erdészeti gépésztechnikus |
+
+| 17 | 34 623 01 | Erdészeti szakmunkás |
+
+| 18 | 55 541 03 | Erjedés- és üdítőitalipari szaktechnikus |
+
+| 19 | 54 581 01 | Földmérő, földügyi és térinformatikai technikus |
+
+| 20 | 34 621 01 | Gazda |
+
+| 21 | 35 622 01 | Gyógy- és fűszernövénytermesztő |
+
+| 22 | 34 624 01 | Halász, haltenyésztő |
+
+| 23 | 55 541 04 | Hús- és baromfiipari szaktechnikus |
+
+| 24 | 34 622 02 | Kertész |
+
+| 25 | 55 622 01 | Kertészeti szaktechnikus |
+
+| 26 | 34 621 02 | Lovász |
+
+| 27 | 55 541 05 | Malom- és keveréktakarmány-ipari szaktechnikus |
+
+| 28 | 34 811 02 | Mezőgazdasági gazdaasszony, falusi vendéglátó |
+
+| 29 | 34 521 08 | Mezőgazdasági gépész |
+
+| 30 | 54 521 05 | Mezőgazdasági gépésztechnikus |
+
+| 31 | 35 521 02 | Mezőgazdasági gépjavító |
+
+| 32 | 54 621 02 | Mezőgazdasági technikus |
+
+| 33 | 32 541 01 | Molnár |
+
+| 34 | 34 541 04 | Növényvédelmi szaktechnikus |
+
+| 35 | 54 581 02 | Parképítő és fenntartó technikus |
+
+| 36 | 35 521 03 | Patkolókovács |
+
+| 37 | 35 811 01 | Sommelier |
+
+| 38 | 55 541 06 | Sütő- és cukrászipari szaktechnikus |
+
+| 39 | 34 541 06 | Szőlész-borász |
+
+| 40 | 55 541 07 | Tartósítóipari szaktechnikus |
+
+| 41 | 55 541 08 | Tejipari szaktechnikus |
+
+| 42 | 55 581 01 | Térképész szaktechnikus |
+
+| 43 | 55 581 02 | Vidékfejlesztési szaktechnikus |
+
+| 44 | 35 215 02 | Virágdekoratőr |
+
+| 45 | 34 215 04 | Virágkötő és virágkereskedő |
+
+| 46 | 35 622 02 | Zöldség- és gyümölcstermesztő |
+
+[^12]: A 6. melléklet a 84/2013. (III. 21.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.

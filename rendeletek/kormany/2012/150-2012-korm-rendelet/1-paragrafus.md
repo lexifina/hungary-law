@@ -10,6 +10,4 @@
 
 (5) A kulturális és nemzeti örökségvédelmi szakképesítéseket az 5. melléklet tartalmazza.
 
-(6)[^1]
-
-[^1]: Az 1. § (6) bekezdése a 9. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+(6) Az Sztv. 5. § (14) bekezdésében foglaltak szerinti agrárágazathoz tartozó szakképesítéseket a 6. melléklet tartalmazza.
