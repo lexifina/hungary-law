@@ -1,6 +1,6 @@
 34. § (1) A 14–23. §-ban foglaltak a mesterképzésre történő jelentkezésre nem alkalmazhatók.
 
-(2)[^17] A felvételi követelményeket és a rangsorolás módját a felsőoktatási intézmény a szabályzatában határozza meg azzal, hogy csak az a jelentkező vehető fel, akinek a pontszáma a (3) bekezdésben meghatározott pontszám 50 százalékát eléri. Az Nftv. 40. § (4) bekezdése szerinti nyelvvizsga meglétét a felsőoktatási felvételi eljárásban a Hivatal vizsgálja.
+(2)[^18] A felvételi követelményeket és a rangsorolás módját a felsőoktatási intézmény a szabályzatában határozza meg azzal, hogy csak az a jelentkező vehető fel, akinek a pontszáma a (3) bekezdésben meghatározott pontszám 50 százalékát eléri. Az Nftv. 40. § (4) bekezdése szerinti nyelvvizsga meglétét a felsőoktatási felvételi eljárásban a Hivatal vizsgálja.
 
 (3) A jelentkező teljesítményét pontozásos rendszerben kell értékelni a felvételi teljesítményért és a többletteljesítményért kapható maximális pontszám meghatározásával, amelyek összege legfeljebb 100 pont.
 
@@ -8,4 +8,4 @@
 
 (5) A művészet, művészetközvetítés és sporttudomány képzési területre jelentkezők esetében a jelentkezők teljesítményét kizárólag a gyakorlati vizsga alapján is meg lehet állapítani.
 
-[^17]: A 34. § (2) bekezdése a 47/2013. (II. 20.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^18]: A 34. § (2) bekezdése a 47/2013. (II. 20.) Korm. rendelet 7. §-a szerint módosított szöveg.

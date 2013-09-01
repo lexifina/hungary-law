@@ -4,7 +4,7 @@
 
 a) a februárban induló képzésekre történő jelentkezés (a továbbiakban: keresztféléves felvételi eljárás) határideje – minden képzési szintre vonatkozóan – a képzés indítását megelőző év november 15. napja;
 
-b) a szeptemberben induló képzésekre történő jelentkezés (a továbbiakban: általános felvételi eljárás) esetén a jelentkezés határideje a képzés indítása szerinti év március 1. napja.
+b)[^5] a szeptemberben induló képzésekre történő jelentkezés (a továbbiakban: általános felvételi eljárás) esetén a jelentkezés határideje a képzés indítása szerinti év február 15. napja.
 
 (2) Az általános felvételi eljárást követően, a miniszter a felvételi eljárás eredménye alapján – a felsőoktatási intézmények képzési sajátosságaira is tekintettel – pótfelvételi eljárást engedélyezhet.
 
@@ -24,7 +24,7 @@ f) a felsőoktatási intézmény a felvételről vagy az elutasításról a jele
 
 (4) A felsőoktatási intézmény szabályzatában a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzések esetében az (1) bekezdésben foglaltaktól eltérő határidőt is megállapíthat.
 
-(5)[^5] A felvételi jelentkezési kérelem határidőig történő benyújtása alatt kell érteni azt az esetet is, amikor a jelentkező a 9. § (2) bekezdés aa) alpontja szerinti módon történő jelentkezés során az adatokat az (1) bekezdésben meghatározott határidőig rögzíti és 8 napon belül postára adja a kinyomtatott, aláírt hitelesítési nyomtatványt.
+(5)[^6] A felvételi jelentkezési kérelem határidőig történő benyújtása alatt kell érteni azt az esetet is, amikor a jelentkező a 9. § (2) bekezdés aa) alpontja szerinti módon történő jelentkezés során az adatokat az (1) bekezdésben meghatározott határidőig rögzíti és 8 napon belül postára adja a kinyomtatott, aláírt hitelesítési nyomtatványt.
 
 (6) A keresztféléves felvételi eljárásban állami ösztöndíjas alapképzésre, osztatlan képzésre és felsőoktatási szakképzésre jelentkezést meghirdetni nem lehet.
 
@@ -32,4 +32,5 @@ f) a felsőoktatási intézmény a felvételről vagy az elutasításról a jele
 
 (8) A felsőoktatási felvételi eljárásokban igazolási kérelem előterjesztésének helye nincs.
 
-[^5]: A 8. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 8. § (1) bekezdés b) pontja a 47. § (3) bekezdése szerint módosított szöveg.
+[^6]: A 8. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

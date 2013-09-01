@@ -1,5 +1,5 @@
 22. § (1) A Nemzetközi Olimpiai Bizottság által szervezett olimpiai játékokon, a Nemzetközi Sakkszövetség (FIDE) által szervezett Sakkolimpián, 1984-től kezdődően a Paralimpián vagy Siketlimpián 1–6. helyezést elért jelentkezők felvételi összpontszáma bármely általuk választott intézményben meghirdetett képzésen – amennyiben megfelelnek a jelentkezési és alkalmassági feltételeknek, valamint elérik a 14. § (5) bekezdésében, illetve 23. §-ban meghatározott pontszámot – 500 pont.
 
-(2)[^15] Az államközi megállapodás alapján Magyarországon tanulmányokat folytató személyek, illetve a miniszter döntése alapján a felsőoktatásról szóló törvény, illetve az Nftv. szerint – a miniszter által meghatározott, legalább két féléves – előkészítő tanulmányokat folytatott és e tanulmányok zárásaként eredményes záróvizsgát tett személyek – amennyiben megfelelnek az alkalmassági feltételeknek – felvételi összpontszáma 500 pont. Ezeknek a személyeknek a köréről a miniszter által meghatározott szervezet tájékoztatja a felsőoktatási intézményeket.
+(2)[^16]
 
-[^15]: A 22. § (2) bekezdése a 285/2013. (VII. 26.) Korm. rendelet 10. § (4) bekezdése szerint módosított szöveg.
+[^16]: A 22. § (2) bekezdését a 285/2013. (VII. 26.) Korm. rendelet 10. § (5) bekezdése hatályon kívül helyezte.
