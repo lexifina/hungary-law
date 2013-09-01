@@ -20,7 +20,7 @@ i) szükség szerint a bizottsági rendelet 61. cikke alkalmazásának bizonyít
 
 j) a 4. § (3) bekezdésében megahatározott feltételek teljesülését igazoló dokumentumokat, és
 
-k)[^7] a tanácsi rendelet 125k. cikke szerint az ágazatban elismert szakmaközi szervezet elismerésre vagy elismerési terv elfogadására vonatkozó kérelem elfogadást támogató vagy elutasító szakértői véleményét.
+k)[^8] a tanácsi rendelet 125k. cikke szerint az ágazatban elismert szakmaközi szervezet elismerésre vagy elismerési terv elfogadására vonatkozó kérelem elfogadást támogató vagy elutasító szakértői véleményét.
 
 (2) A zöldség-gyümölcs szakmaközi szervezet az elismerést támogató vagy elutasító javaslatát köteles a kérelmező részére, annak a szakmaközi szervezettel fennálló tagsági jogviszonyától függetlenül kiadni az arra irányuló kérelem beérkezése alapján elvégzett helyszíni szemlét követő tizenöt napon belül. A zöldség-gyümölcs szakmaközi szervezet a szakértői vélemény kiadását követően kérheti a kérelmezőtől a helyszíni szemlével összefüggésben felmerült költségeihez való hozzájárulás megfizetését.
 
@@ -28,9 +28,9 @@ k)[^7] a tanácsi rendelet 125k. cikke szerint az ágazatban elismert szakmaköz
 
 (4) Az elismerés iránti kérelem, valamint az elismerési terv elbírálásához a miniszter az (1) bekezdésben felsoroltakon kívül az elismeréshez szükséges tények bizonyítása érdekében egyéb iratokat (szabályzat, Szervezeti és Működési Szabályzat, ügyrend, szerződés) is bekérhet, és helyszíni ellenőrzés lefolytatásáról gondoskodik.
 
-(5)[^8] A zöldség-gyümölcs termelői csoport, a termelői szervezet, és a termelői szervezetek társulása köteles az (1) bekezdésben felsorolt okiratokban, a taglétszámban, valamint a miniszter által jóváhagyott elismerési tervben és működési programban szereplő adatokban bekövetkezett változásokról, azok bekövetkezésétől számított tizenöt napon belül írásban és elektronikus úton értesíteni a minisztériumot. Az (1) bekezdés c) pontja szerinti adatlapok tartalmának változása esetén a változott sorokat kizárólag elektronikus úton kell megküldeni a minisztérium részére.
+(5)[^9] A zöldség-gyümölcs termelői csoport, a termelői szervezet, és a termelői szervezetek társulása köteles az (1) bekezdésben felsorolt okiratokban, a taglétszámban, valamint a miniszter által jóváhagyott elismerési tervben és működési programban szereplő adatokban bekövetkezett változásokról, azok bekövetkezésétől számított tizenöt napon belül írásban és elektronikus úton értesíteni a minisztériumot. Az (1) bekezdés c) pontja szerinti adatlapok tartalmának változása esetén a változott sorokat kizárólag elektronikus úton kell megküldeni a minisztérium részére.
 
 (6) A termelői szervezetek társulása legkésőbb minden év február 15. napjáig jelentést küld a minisztérium részére a 11. § (3) bekezdésében hivatkozott, az elismerés hatálya alá tartozó tevékenység végrehajtásáról.
 
-[^7]: A 12. § (1) bekezdés k) pontja a 65/2013. (VII. 29.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^8]: A 12. § (5) bekezdése a 65/2013. (VII. 29.) VM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^8]: A 12. § (1) bekezdés k) pontja a 65/2013. (VII. 29.) VM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^9]: A 12. § (5) bekezdése a 65/2013. (VII. 29.) VM rendelet 23. § (2) bekezdésével megállapított szöveg.
