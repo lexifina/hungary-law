@@ -1,34 +1,40 @@
-## I. A Vhr. 37/A. § (1) bekezdésében meghatározott feltételekkel veszélyes tűzoltói beosztás pótlékára jogosító beosztások:
+## KÉRELEM
 
-## 1. rajparancsnok,
+## szemüveg/kontaktlencse/fogászati kezelés árának megtérítése iránt
 
-## 2. beosztott tűzoltó.
+## Név:
 
-## II. A Vhr. 38. §-a szerinti közterületi pótlékra jogosító szolgálati beosztások – amennyiben a hivatásos állomány tagja nyomozói pótlékra nem jogosult –:
+## Szervezeti elem megnevezése:
 
-## 1. Az Objektumvédelmi Igazgatóságon, a Személyvédelmi Igazgatóságon, a Személyügyi és Kiképzési Osztályon, valamint a Híradó és Biztonságtechnikai Osztályon rendszeresített szolgálati beosztások közül:
+## Telefonszám:
 
-## 1.1. osztályvezető-helyettes,
+## Adóazonosító jel:
 
-## 1.2. kiképzésszervezői feladatokat ellátó kiemelt főreferens,
+## A vonatkozó jogszabály és a mellékelt számla alapján kérem fogászai kezelésem / látásjavító szemüvegem vagy kontaktlencsém / képernyős szemüvegem* árának részbeni megtérítését.
 
-## 1.3. kiemelt biztonsági főtiszt,
+## Kijelentem, hogy tárgyévben fogászati költségtérítésben / látásjavító szemüveg vagy kontaktlencse készítésével kapcsolatos költségtérítésben / képernyős szemüveg készítésével kapcsolatos költségtérítésben*
 
-## 1.4. szolgálatparancsnok,
+## a) nem részesültem
 
-## 1.5. biztonsági gépkocsivezető,
+## b) …………. forint összegben részesültem.
 
-## 1.6. objektumőr,
+## Melléklet: ....................... db
 
-## 1.7. technikus,
+| ............................................. aláírás |
 
-## 1.8. helyszínbiztosító,
+## JAVASOLOM:
 
-## 1.9. lakásbiztosító.
+## P. H.
 
-## III. A Vhr. 54. §-ában meghatározott nyomozói pótlékra jogosító szolgálati beosztások:
+|  | .......................................... |
 
-## 1. katonai vétségek nyomozását végző kiemelt főreferens.
+|  | vezető |
+
+## Pénzügyi ellenjegyzés:
+
+## ................................................
+
+## * A megfelelő részt kérjük aláhúzni.
 
 4. melléklet a 85/2012. (XII. 28.) BM rendelethez
 
@@ -38,7 +44,7 @@ I. Kegyeleti kiadásként elszámolható költségnormák
 
 2. Sírhelyköltség:
 
-2.1. A sírhely (urnasírhely, urnafülke) költségeit a ténylegesen felmerült, számlával igazolt, legfeljebb azonban a Hszt. 100. § (4) bekezdésében meghatározott illetményalap (a továbbiakban: illetményalap) kétszeresének megfelelő összeg képezi.
+2.1.[^10] A sírhely (urnasírhely, urnafülke) költségeit a ténylegesen felmerült, számlával igazolt, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg képezi.
 
 2.2. Templomban vagy kápolnában elhelyezett urnasírhely (urnakripta) esetén a számla szerinti összeg, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg.
 
@@ -63,3 +69,5 @@ c) síremlék avatáskor, megemlékezésekkor síremlékenként vagy emléktábl
 3. Testületi tiszteletadás költségei (ideértve az Országgyűlési Őrség temetéssel összefüggő utazási költségeit).
 
 4. Sírgondozás költsége: hozzátartozó hiányában, vagy akadályoztatása esetén a hősi halott és a szolgálat halottja síremlékének gondozására, a szolgáltató által kiállított számlával igazolt összeg.
+
+[^10]: A 4. melléklet I. alcím 2. pont 2.1. alpontja a 49/2013. (VIII. 27.) BM rendelet 5. § c) pontja szerint módosított szöveg.
