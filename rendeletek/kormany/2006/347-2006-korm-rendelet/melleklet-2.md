@@ -22,7 +22,7 @@
 
 ## II. A környezetvédelmi, természetvédelmi
 
-## és vízügyi felügyelőségek kirendeltségeinek elnevezése és telephelye[^142]
+## és vízügyi felügyelőségek kirendeltségeinek elnevezése és telephelye[^145]
 
 ## Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség Kirendeltsége, Baja
 
@@ -44,7 +44,7 @@
 
 ## Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség, Szeged
 
-## IV. A környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége[^143]
+## IV. A környezetvédelmi, természetvédelmi és vízügyi felügyelőségek illetékessége[^146]
 
 ## 1. ÉSZAK-DUNÁNTÚLI KÖRNYEZETVÉDELMI, TERMÉSZETVÉDELMI ÉS VÍZÜGYI FELÜGYELŐSÉG
 
@@ -1038,7 +1038,7 @@
 
 ## Szeged, Kecskemét, Hódmezővásárhely megyei jogú városok, Csongrád, Bács-Kiskun megye, az illetékességi területén működő települési önkormányzatok és más hatóságok.
 
-## 1/a. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^144]
+## 1/a. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^147]
 
 ## I.
 
@@ -2242,9 +2242,9 @@
 
 ## Zsáka közigazgatási területének a Kálló-csatorna jobb partjára eső része.
 
-2. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^145]
+2. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^148]
 
-[^142]: Az 1. számú melléklet II. pontja a 15/2008. (I. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^143]: Az 1. számú melléklet IV. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^144]: Az 1/a. számú mellékletet a 300/2011. (XII. 22.) Korm. rendelet 1. § (15) bekezdése iktatta be.
-[^145]: A 2. számú melléklet a 300/2011. (XII. 22.) Korm. rendelet szerint módosított szöveg.
+[^145]: Az 1. számú melléklet II. pontja a 15/2008. (I. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^146]: Az 1. számú melléklet IV. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^147]: Az 1/a. számú mellékletet a 300/2011. (XII. 22.) Korm. rendelet 1. § (15) bekezdése iktatta be.
+[^148]: A 2. számú melléklet a 300/2011. (XII. 22.) Korm. rendelet szerint módosított szöveg.

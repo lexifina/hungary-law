@@ -38,6 +38,18 @@ a)[^87] – a felszín alatti ivóvíz-, ásványvíz- és gyógyvíz-készlet m
 
 b)[^88] termőföldön vagy termőfölddel szomszédos földrészleten megvalósuló tevékenység esetén – abban a kérdésben, hogy a kérelem szerinti tevékenység megfelel-e, és ha igen, milyen feltételekkel a termőföld védelméről szóló törvény szerinti talajvédelmi kötelezettségeknek – első fokú eljárásban a megyei kormányhivatal növény- és talajvédelmi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
 
+## szakhatóságként jelöli ki.
+
+(6)[^89] A Kormány a felügyelőségnek a halastavak, a horgásztavak, a jóléti tavak, a víztározók, a bányatavak, valamint a holtágak vízjogi létesítési és üzemeltetési engedélyezési eljárásban, vízjogi üzemeltetési engedély módosítására irányuló eljárásban, valamint a vízjogi fennmaradási engedélyezési eljárásban első fokon a megyei kormányhivatal földművelésügyi igazgatóságát, másodfokon a Nemzeti Élelmiszerlánc-biztonsági Hivatalt halgazdálkodási szakhatóságként jelöli ki.
+
+(7)[^90] A (6) bekezdés szerinti eljárásokban a hatóság szakhatóságként abban az esetben működik közre, ha
+
+a) a kérelemmel érintett vízilétesítmény halászati, horgászati, illetve haltermelési hasznosítási célt szolgál, vagy
+
+b) a kérelemmel érintett vízilétesítményben halászati, horgászati, illetve haltermelési hasznosítási cél megvalósítását tervezik, ide értve a vízilétesítmény halastó funkcióval történő üzemeltetését is.
+
+(8)[^91] A (6) bekezdés szerinti eljárásokban a szakhatósági közreműködés annak vizsgálatára terjed ki, hogy a kérelem szerinti tevékenység megfelel-e a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelmények közül a haltermelésre és a haltermelési létesítményekre, a halászatra, illetve a horgászatra vonatkozó előírásoknak.
+
 [^78]: A 32/D. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be.
 [^79]: A 32/D. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^80]: A 32/D. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 170. § (1)–(2) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
@@ -49,3 +61,6 @@ b)[^88] termőföldön vagy termőfölddel szomszédos földrészleten megvalós
 [^86]: A 32/D. § (4) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 170. § (5) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
 [^87]: A 32/D. § (5) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 170. § (1)–(2) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
 [^88]: A 32/D. § (5) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 170. § (5) bekezdés b) pontja, a 23/2012. (II. 29.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^89]: A 32/D. § (6) bekezdését a 323/2013. (VIII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^90]: A 32/D. § (7) bekezdését a 323/2013. (VIII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^91]: A 32/D. § (8) bekezdését a 323/2013. (VIII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.

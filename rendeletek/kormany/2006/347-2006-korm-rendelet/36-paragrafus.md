@@ -1,6 +1,6 @@
 ## Az igazgatóság feladatai
 
-## 36. §[^123] Az igazgatóság állami alaptevékenysége körében
+## 36. §[^126] Az igazgatóság állami alaptevékenysége körében
 
 1. véleményezi a kiemelt térségekre vonatkozó, a regionális, a megyei és a kistérségi területfejlesztési koncepciót és programot, a kiemelt térségek és a megyék területrendezési tervét;
 
@@ -42,4 +42,4 @@
 
 15. szervezi, irányítja a működési területén folyamatban lévő közmunkaprogramok végrehajtását.
 
-[^123]: A 36. § a 300/2011. (XII. 22.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.
+[^126]: A 36. § a 300/2011. (XII. 22.) Korm. rendelet 1. § (13) bekezdésével megállapított szöveg.

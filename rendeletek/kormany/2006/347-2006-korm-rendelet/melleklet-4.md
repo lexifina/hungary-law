@@ -1,6 +1,6 @@
 ## I. A nemzeti park igazgatóságok elnevezése
 
-## és székhelye[^148]
+## és székhelye[^151]
 
 ## Aggteleki Nemzeti Park Igazgatóság, Jósvafő
 
@@ -22,7 +22,7 @@
 
 ## Őrségi Nemzeti Park Igazgatóság, Őriszentpéter
 
-## II. A nemzeti park igazgatóságok működési köre[^149]
+## II. A nemzeti park igazgatóságok működési köre[^152]
 
 ## 1. AGGTELEKI NEMZETI PARK IGAZGATÓSÁG
 
@@ -650,8 +650,8 @@
 
 ## települések közigazgatási területéből a Balaton-felvidéki Nemzeti Park Igazgatóság működési területén kívül eső területek.
 
-4. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^150]
+4. számú melléklet a 347/2006. (XII. 23.) Korm. rendelethez[^153]
 
-[^148]: A 3. melléklet I. pontja a 300/2011. (XII. 22.) Korm. rendelet 1. § (18) bekezdése szerint módosított szöveg.
-[^149]: A 3. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^150]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 95. § (4) bekezdése és 97. § i) pontja, a 296/2012. (X. 17.) Korm. rendelet 26. § b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^151]: A 3. melléklet I. pontja a 300/2011. (XII. 22.) Korm. rendelet 1. § (18) bekezdése szerint módosított szöveg.
+[^152]: A 3. számú melléklet II. pontja a 344/2009. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^153]: A 4. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 171. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 95. § (4) bekezdése és 97. § i) pontja, a 296/2012. (X. 17.) Korm. rendelet 26. § b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.

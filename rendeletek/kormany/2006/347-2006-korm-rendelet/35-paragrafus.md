@@ -6,7 +6,7 @@ a) kivizsgálja a közérdekű bejelentéseket és panaszokat, hatósági ellen�
 
 b) adatot, tényt, jogosultságot igazol;
 
-c)[^122]
+c)[^125]
 
 d) közreműködik a vízminőségi kárelhárítás – külön jogszabályban meghatározott – feladatainak ellátásában;
 
@@ -22,4 +22,4 @@ g) segíti az önkormányzatokat környezetvédelmi, természetvédelmi és víz
 
 (2) Az (1) bekezdésben foglaltakon túl a kirendeltség ellátja mindazon feladatokat, amelyeket a felügyelőség vezetője a felügyelőség szervezeti és működési szabályzatban a kirendeltséghez telepít.
 
-[^122]: A 35. § (1) bekezdésének c) pontját a 15/2008. (I. 30.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^125]: A 35. § (1) bekezdésének c) pontját a 15/2008. (I. 30.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
