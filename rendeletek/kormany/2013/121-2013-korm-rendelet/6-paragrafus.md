@@ -8,6 +8,4 @@ c) gondoskodik az oktatási ágazati jogszabályokban meghatározott feladatok e
 
 d) statisztikai adatot szolgáltat az államilag elismert nyelvvizsgákkal kapcsolatosan,
 
-e)[^3]
-
-[^3]: A 6. § e) pontja a 21. § (2) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
+e) kidolgozza az Nkt. 64. §-ában meghatározott, a kormányhivatal által szervezett pedagógus minősítő vizsga és pedagógus minősítési eljárás során használt szempontrendszert és eljárásrendet. A pedagógus minősítő vizsga és pedagógus minősítési eljárás során használt eszközöket a miniszter hagyja jóvá.
