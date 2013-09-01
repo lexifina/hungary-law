@@ -1,0 +1,1 @@
+50. § A 200 hektárnál nagyobb összes kiterjedésű nyilvántartott halgazdálkodási vízterülettel rendelkező halgazdálkodásra jogosultnak az e törvény végrehajtására kiadott rendeletben meghatározott felsőfokú halászati, halgazdálkodási szakirányú végzettséggel rendelkező személyt kell foglalkoztatnia.

@@ -1,0 +1,1 @@
+70. § Amennyiben a jogsértő állapot megszüntetése érdekében a törvény szerint alkalmazható legalacsonyabb összegű bírság kiszabása is szükségtelen, bírságolás helyett a halgazdálkodási hatóság határozatában figyelmeztetésben részesítheti az eljárás alá vont személyt.

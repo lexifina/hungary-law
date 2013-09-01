@@ -1,0 +1,1 @@
+23. § Az önkormányzatot illeti meg a halgazdálkodási jog, ha az ingatlan, amelyen a halgazdálkodási vízterület fekszik, a folyó mentett oldalán helyezkedik el és az önkormányzat többségi tulajdonában áll.

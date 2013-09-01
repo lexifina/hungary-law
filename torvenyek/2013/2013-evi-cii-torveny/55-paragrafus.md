@@ -1,0 +1,1 @@
+55. § Tudományos kutatás, valamint a halállományok felmérése és megőrzése céljából a miniszter az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint kutatási célú halfogási engedélyt adhat ki. Az így kiadott engedély alapján végzett halfogási tevékenységről az érintett halgazdálkodásra jogosultat tájékoztatni kell.
