@@ -1,11 +1,11 @@
 ## Záró és átmeneti rendelkezések
 
-14. § (1)[^11] E rendelet a kihirdetését követő 8. napon lép hatályba
+14. § (1)[^15] E rendelet a kihirdetését követő 8. napon lép hatályba
 
-a)–b)[^12]
+a)–b)[^16]
 
-(2)[^13]
+(2)[^17]
 
-[^11]: A 14. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja szerint módosított szöveg.
-[^12]: A 14. § a)–b) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja hatályon kívül helyezte.
-[^13]: A 14. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja hatályon kívül helyezte.
+[^15]: A 14. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja szerint módosított szöveg.
+[^16]: A 14. § a)–b) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja hatályon kívül helyezte.
+[^17]: A 14. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 371. pontja hatályon kívül helyezte.

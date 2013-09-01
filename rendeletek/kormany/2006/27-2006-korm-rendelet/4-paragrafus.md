@@ -10,6 +10,9 @@ b) a nitrogénvegyületek viselkedését a környezetben;
 
 c) az e rendeletben foglaltaknak megfelelően készített cselekvési program hatásait;
 
-d)[^2] azon mezőgazdasági tevékenységeket, amelyek folytatása során az e rendelet 3. § h) pontjában foglalt vizekre hatással lehetnek.
+d)[^2] azon mezőgazdasági tevékenységeket, amelyek folytatása során az e rendelet 3. § h) pontjában foglalt vizekre hatással lehetnek;
+
+e)[^3] a felszíni vizek eutrofizációs állapotát.
 
 [^2]: A 4. § (2) bekezdésének d) pontját a 81/2007. (IV. 25.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 4. § (2) bekezdés e) pontját a 171/2013. (V. 29.) Korm. rendelet 1. §-a iktatta be.

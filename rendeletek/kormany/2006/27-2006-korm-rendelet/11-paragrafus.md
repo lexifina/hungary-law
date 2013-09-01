@@ -2,7 +2,7 @@
 
 (2) A mezőgazdasági tevékenység folytatóját, az (1) bekezdéssel összhangban,
 
-a)[^10] állattartó telepen a felügyelőség, termőföldön a talajvédelmi hatóság a 6–8. §-ban, valamint a 15–17. §-ban meghatározott esetekben nitrátszennyezési bírság,
+a)[^14] állattartó telepen a felügyelőség, termőföldön a talajvédelmi hatóság a 6–8. §-ban, valamint a 15–17. §-ban meghatározott esetekben nitrátszennyezési bírság,
 
 b) a talajvédelmi hatóság a 9. § (2) bekezdése alapján a külön jogszabály szerinti adatszolgáltatás és nyilvántartás esetében nitrát adatszolgáltatási bírság
 
@@ -18,4 +18,4 @@ b) a talajvédelmi hatóság a 9. § (2) bekezdése alapján a külön jogszabá
 
 (7) A (2) bekezdés szerinti bírságot az azt kiszabó hatóság által meghatározott számlára kell befizetni.
 
-[^10]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § g) pontját.
+[^14]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § g) pontját.
