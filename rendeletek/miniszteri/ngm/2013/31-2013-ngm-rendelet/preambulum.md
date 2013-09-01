@@ -1,0 +1,1 @@
+A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (4) bekezdés c) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § t) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
