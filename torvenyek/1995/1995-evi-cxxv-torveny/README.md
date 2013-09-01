@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2013-04-09 | 2012. évi CLXXXI. törvény | 1995-125-00-00.35 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1995-125-00-00.36 |
 | 2013-08-01 | 2013. évi LXXII. törvény | 1995-125-00-00.37 |
+| 2013-09-01 | 2010. évi XL. törvény | 1995-125-00-00.38 |
