@@ -316,6 +316,6 @@
 
 ## 4. Középfokú rendőri szakképesítésnek kell elfogadni a BM Kun Béla Tiszthelyettesképző Iskola és jogutódai (a BM Kun Béla Zászlósképző Iskola, a Rendőr-zászlósképző Iskola, az Országos Rendőr-főkapitányság Oktatási Kiképzési Központja) szakképzési tagozatának elvégzését igazoló bizonyítványt, a bűnügyi szaktanfolyamon és a rendőr szervező tanfolyamon korábban szerzett végzettségeket.
 
-3. melléklet a 65/2011. (XII. 30.) BM rendelethez[^20]
+3. melléklet a 65/2011. (XII. 30.) BM rendelethez[^21]
 
-[^20]: A 3. melléklet a 43/2012. (VIII. 23.) BM rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^21]: A 3. melléklet a 43/2012. (VIII. 23.) BM rendelet 15. § (1) bekezdése szerint módosított szöveg.

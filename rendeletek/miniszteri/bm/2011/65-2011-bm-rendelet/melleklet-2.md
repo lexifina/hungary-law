@@ -1164,6 +1164,6 @@
 
 ## 6. GEK: BM OKF Gazdasági Ellátó Központ
 
-2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^19]
+2. melléklet a 65/2011. (XII. 30.) BM rendelethez[^20]
 
-[^19]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.
+[^20]: A 2. melléklet a 31/2012. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.

@@ -22,20 +22,23 @@ g) a speciális rendészeti szakképzésre kötelezettséget,
 
 h) a nemzetbiztonsági ellenőrzésre, valamint a vagyonnyilatkozat-tételre vonatkozó kötelezést, továbbá
 
-i)[^3] az állománytáblázat adatainak statisztikai összegzését, rendszerezését.
+i)[^3] az állománytáblázat adatainak statisztikai összegzését, rendszerezését,
 
-(3)[^4] Az állománytáblázatban fel kell tüntetni a hatályba lépésének dátumát. Módosítás esetén a módosítás hatályba lépésének dátumát.
+j)[^4] a könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati beosztásokat.
 
-(4)[^5] A fegyveres szerv állománytáblázatát az országos parancsnokság (főigazgatóság) készíti. Az állománytáblázatot az önálló állománytáblázattal rendelkező szerv személyügyi és munkaügyi feladatokat ellátó szervezeti egysége kezeli, az adatokat és az állománytáblázat eredeti példányát az iratkezelési szabályoknak megfelelően tárolja.
+(3)[^5] Az állománytáblázatban fel kell tüntetni a hatályba lépésének dátumát. Módosítás esetén a módosítás hatályba lépésének dátumát.
 
-(5)[^6] A jóváhagyott állománytáblázat egy példányát az érintett belügyi szerv a jóváhagyásra jogosult vezetőnek, egy példányát a Belügyminisztérium személyügyi szervének megküldi. A Belügyminisztérium személyügyi szerve az állománytáblázatokat nyilvántartásba veszi és hatályon kívül helyezésüket követő 50 évig archív nyilvántartásként kezeli.
+(4)[^6] A fegyveres szerv állománytáblázatát az országos parancsnokság (főigazgatóság) készíti. Az állománytáblázatot az önálló állománytáblázattal rendelkező szerv személyügyi és munkaügyi feladatokat ellátó szervezeti egysége kezeli, az adatokat és az állománytáblázat eredeti példányát az iratkezelési szabályoknak megfelelően tárolja.
 
-(6)[^7] Az állománytáblázat hatályos adatait az egységes számítógépes személyügyi, munkaügyi és szervezési nyilvántartó rendszerben is folyamatosan vezetni kell.
+(5)[^7] A jóváhagyott állománytáblázat egy példányát az érintett belügyi szerv a jóváhagyásra jogosult vezetőnek, egy példányát a Belügyminisztérium személyügyi szervének megküldi. A Belügyminisztérium személyügyi szerve az állománytáblázatokat nyilvántartásba veszi és hatályon kívül helyezésüket követő 50 évig archív nyilvántartásként kezeli.
+
+(6)[^8] Az állománytáblázat hatályos adatait az egységes számítógépes személyügyi, munkaügyi és szervezési nyilvántartó rendszerben is folyamatosan vezetni kell.
 
 [^1]: Az 1. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés i) pontja a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^5]: Az 1. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b), c), d) pontja szerint módosított szöveg.
-[^6]: Az 1. § (5) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés c), e) pontja szerint módosított szöveg.
-[^7]: Az 1. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés j) pontját a 45/2013. (VIII. 15.) BM rendelet 10. §-a iktatta be.
+[^5]: Az 1. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^6]: Az 1. § (4) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b), c), d) pontja szerint módosított szöveg.
+[^7]: Az 1. § (5) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés c), e) pontja szerint módosított szöveg.
+[^8]: Az 1. § (6) bekezdése a 81/2012. (XII. 28.) BM rendelet 28. § (1) bekezdés b) pontja szerint módosított szöveg.
