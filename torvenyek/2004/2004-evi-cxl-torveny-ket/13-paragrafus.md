@@ -1,6 +1,6 @@
 13. § (1) E törvény hatálya nem terjed ki:
 
-a) a szabálysértési eljárásra, a választási eljárásra, a népszavazás előkészítésére és lebonyolítására, a területszervezési eljárásra és – az állampolgársági bizonyítvány kiadásának kivételével – az állampolgársági eljárásra,
+a) a szabálysértési eljárásra, a választási eljárásra, a népszavazás előkészítésére és lebonyolítására, a területszervezési eljárásra, a felsőoktatási felvételi eljárásra és – az állampolgársági bizonyítvány kiadásának kivételével – az állampolgársági eljárásra,
 
 b)
 
