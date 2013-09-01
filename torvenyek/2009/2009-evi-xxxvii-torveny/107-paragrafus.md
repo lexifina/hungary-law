@@ -50,6 +50,6 @@ c) engedélytől eltérően hajtja végre az erdőtelepítést;
 
 d) a 70. § (3) bekezdésében foglalt előírásokat megsérti;
 
-e) a 90. § (2)–(3) bekezdésében foglalt előírásokat megsérti.
+e) a 90. § (2) bekezdésében foglalt előírásokat megsérti.
 
 (4) Az erdőgazdálkodási bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.

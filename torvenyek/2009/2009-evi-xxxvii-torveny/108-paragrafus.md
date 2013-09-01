@@ -16,7 +16,7 @@ f) a 63. § (2) és (3) bekezdésében foglalt előírásokat megsérti;
 
 g) a 68. § d) pontjában meghatározott erdei haszonvételeket jogosulatlanul gyakorolja, vagy annak során az erdei haszonvételek gyakorlásának feltételeit megsérti;
 
-h) a 65. § (1), (2), (5) bekezdésében, a 66. § (1) bekezdésében, a 67. § (1), (2), (3) bekezdésében foglalt előírásokat megsérti;
+h) a 65. § (2) bekezdésében foglalt előírásokat megsérti;
 
 i) a 91. § (4) bekezdés b) pontjában foglalt előírásokat megsérti:
 
