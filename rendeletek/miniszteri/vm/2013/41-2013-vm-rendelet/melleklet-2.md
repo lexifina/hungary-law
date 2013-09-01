@@ -5955,11 +5955,3 @@ A) A vizsgafeladat megnevezése:
 Szénsavas üdítőital- és az ásványvízgyártás technológiai műveleteinek szakszerű, önálló gazdaságos végrehajtása a munka-, tűz-, környezetvédelmi és higiéniai követelmények maradéktalan betartásával.
 
 A vizsgafeladat ismertetése:
-
-A készítendő üdítőital minőségéhez megfelelő alap-, adalék-, ízesítő- és színezőanyagok felhasználásával elkészíti a terméket, elvégzi az aktuális technológiai műveleteket, minősíti a készterméket. Az ásványvizes palackokat töltésre előkészíti, nyomáspróbát végez, palackoz, címkéz, gyűjtőcsomagolást (egységrakományt) készít.
-
-A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat aránya: 60%
-
-B) A vizsgafeladat megnevezése:
