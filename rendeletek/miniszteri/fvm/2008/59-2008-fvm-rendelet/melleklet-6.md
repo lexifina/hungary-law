@@ -170,7 +170,7 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^19]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^20]
 
 ADATLAP
 
@@ -292,7 +292,7 @@ Dátum:
 
 aláírás
 
-Függelék az 59/2008. (IV. 29.) FVM rendelet 6. számú mellékletéhez[^20]
+Függelék az 59/2008. (IV. 29.) FVM rendelet 6. számú mellékletéhez[^21]
 
 Kitöltési útmutató
 
@@ -668,5 +668,5 @@ Amennyiben egy állattartó telepen keletkezett trágya nem abban a gazdaságban
 
 A táblázat első két oszlopában kérjük jelezni, hogy trágyaátadásról vagy más gazdálkodótól történő trágyaátvételről van szó. Meg kell adni továbbá az átadott/átvett szervestrágya mennyiségét hígtrágya esetén m3-ben, istállótrágya esetén tonnában. A szervestrágya típusa rovatban a 3.2. pontban megadott táblázat kódjait kérjük, használják.
 
-[^19]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 6. számú melléklet függeléke a 70/2013. (VII. 31.) VM rendelet 93. § b)–e) pontja szerint módosított szöveg.
+[^20]: A 6. számú melléklet a 55/2009. (IV. 29.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^21]: A 6. számú melléklet függeléke a 70/2013. (VII. 31.) VM rendelet 93. § b)–e) pontja szerint módosított szöveg.
