@@ -60,7 +60,7 @@ pd) az ellenérték göngyölített összege nem haladja meg azt a vagyoni hozz�
 
 a) a felnőttképzésből az Országos Képzési Jegyzékben meghatározott szakképesítést adó oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
 
-b) a felnőttképzésről szóló törvény alapján szervezett és akkreditált, illetőleg egyéb jogszabály alapján szervezett oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
+b) a felnőttképzésről szóló törvény alapján engedélyezett és szervezett, illetőleg egyéb jogszabály alapján szervezett oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
 
 c) az államilag, illetőleg nemzetközileg elismert nyelvvizsga-bizonyítvány kiadásának alapjául szolgáló vizsgáztatás;
 
