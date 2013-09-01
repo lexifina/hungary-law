@@ -1,3 +1,3 @@
-## 16/A. §[^25] A Kormány a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 21. § (2) bekezdésében és 22. § (2) bekezdésében foglaltak tekintetében mezőgazdasági igazgatási szervként a NÉBIH-t jelöli ki.
+## 16/A. §[^27] A turista állami horgászjegy, valamint a hozzá tartozó fogási napló kiadásával kapcsolatos feladatokat a NÉBIH országos illetékességgel látja el.
 
-[^25]: A 16/A. §-t a 319/2012. (XI. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^27]: Az újabb 16/A. §-t a 323/2013. (VIII. 28.) Korm. rendelet 10. §-a iktatta be.
