@@ -1,22 +1,28 @@
-2. § (1)[^4] A szolgáltatónak a Kertv. 6/C. § (1) bekezdése szerinti, a Magyar Kereskedelmi Engedélyezési Hivatalnak (a továbbiakban: Hivatal) benyújtandó bejelentése – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) meghatározott adatokon túl – tartalmazza
+2. §[^8] (1) A szolgáltatónak a Kertv. 6/C. § (1) bekezdése szerinti, a Magyar Kereskedelmi Engedélyezési Hivatalnak (a továbbiakban: Hivatal) benyújtandó bejelentése – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) meghatározott adatokon túl – tartalmazza
 
 a) a szolgáltató lovas szolgáltató tevékenység folytatásának helyszínéül szolgáló telephelyének (fióktelepének) címét,
 
-b) az a) pont szerinti telephelyen (fióktelepen) tartott lovak számát,
+b) az a) pont szerinti telephelyen (fióktelepen) működő lovarda elnevezését,
 
-c) a lovas szolgáltató tevékenység típusát az 1. § (2) bekezdésének c)–e) pontja szerint, továbbá, hogy a lovas szolgáltatás együtt jár-e a szolgáltatást igénybe vevő személy lovagoltatásával,
+c) az a) pont szerinti telephelyen (fióktelepen) tartott lovak számát,
 
-d) – a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén – a (3) bekezdés szerinti felelős személy nevét, szakképesítését és a szakképesítését igazoló okiratokat,
+d) a lovas szolgáltató tevékenység típusát vagy típusait az 1. § (2) bekezdés a) pontja szerint, továbbá, hogy a lovas szolgáltatás együtt jár-e a szolgáltatást igénybe vevő személy lovagoltatásával,
 
-e) az a) pontban megjelölt telephely (fióktelep) helyszínrajzát a 13. §-ban meghatározott körülményekre figyelemmel.
+e) a szolgáltatás igénybe vevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a (3) bekezdés szerinti felelős személy nevét, szakképesítését és a szakképesítését igazoló okiratokat,
 
-(2)[^5] A Hivatal a bejelentett lovas szolgáltatókról a 4. §-ban meghatározott tartalommal nyilvántartást vezet, és a nyilvántartást a honlapján közzéteszi.
+f) az a) pontban megjelölt telephely (fióktelep) helyszínrajzát a 13. §-ban meghatározott körülményekre figyelemmel,
 
-(3)[^6] Lovas szolgáltató tevékenység – a Kertv. 6/C. § (2) bekezdésében előírt feltételeken túl – akkor folytatható, ha a szolgáltató
+g) a szolgáltatásba bevont, a lófélék egyedeinek azonosításáról szóló jogszabály szerinti azonosító számmal (a továbbiakban: azonosító szám) és ló-útlevéllel ellátott lovak felsorolását, valamint
 
-a) eleget tesz a 13. §-ban – a szolgáltatás igénybevevőjének lovagoltatásával nem járó lovas szolgáltató tevékenység esetén a 13. § b), c), f) és g) pontjában – meghatározott követelményeknek,
+h) szolgáltatásba történő bevonásra alkalmas lovak esetén az alkalmasságról szóló hatósági bizonyítvány számát.
 
-b)[^7] – a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén – legalább egy
+(2) A Hivatal a bejelentett lovas szolgáltatókról az (1) bekezdésben meghatározott tartalommal – az e) pont szerinti adatokat kivéve – nyilvántartást vezet, és a nyilvántartást honlapján közzéteszi. A nyilvántartás 2014. január 1-jétől tartalmazza a szolgáltató szolgáltatásba történő bevonásra alkalmas lovainak azonosító számát.
+
+(3) Lovas szolgáltató tevékenység – a Kertv. 6/C. § (2) bekezdésében előírt feltételeken túl – akkor folytatható, ha a szolgáltató
+
+a) eleget tesz a 13. §-ban – a szolgáltatás igénybe vevőjének lovagoltatásával nem járó lovas szolgáltató tevékenység esetén a 13. § b), c), f) és g) pontjában – meghatározott követelményeknek,
+
+b) – a szolgáltatás igénybe vevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén – legalább egy
 
 ba) középfokú lovastúra-vezetői képesítéssel,
 
@@ -24,21 +30,16 @@ bb) lovas sportágban szerzett középfokú sportedzői képesítéssel,
 
 bc) lovas sportágban szerzett felsőfokú szakedzői vagy okleveles szakedzői képesítéssel,
 
-bd) lovas-kultúra oktató felsőfokú szakirányú továbbképzést igazoló képesítéssel, vagy
+bd) lovas-kultúra oktató felsőfokú szakirányú továbbképzést igazoló képesítéssel,
 
-be) lovas sportágban nemzetközi sportszövetség által akkreditált edzőképzésben szerzett végzettséggel
+be) lovas-tanár (hippológus) és -szervező felsőfokú szakirányú továbbképzést igazoló képesítéssel, vagy
+
+bf) lovas sportágban nemzetközi sportszövetség által akkreditált edzőképzésben szerzett végzettségek egyikével
 
 rendelkező, a szakmai tevékenységért felelős személyt (a továbbiakban: szakmai tevékenységért felelős személy) foglalkoztat, valamint
 
-c)[^8] lovas terápiás szolgáltatás nyújtása esetén a szakmai tevékenységért felelős személyen felül még legalább egy, a 11. § (5) bekezdésében meghatározott feltételeknek megfelelő gyógypedagógust (terapeutát) is foglalkoztat.
+c) lovasterápia vagy fogyatékos személynek nyújtott lovas szolgáltatás esetén olyan szakmai tevékenységért felelős személyt, vagy az általa kijelölt olyan személyt foglalkoztat, aki megfelel a 11/A. § (1), illetve 11/A. § (3) bekezdésben meghatározott feltételeknek.
 
-(4)[^9]
+(4) Ha a szolgáltató a tevékenységét több telephelyen (fióktelepen) folytatja, minden egyes telephely (fióktelep) esetében eleget kell tenni a 11. §-ban, a 11/A. §-ban és a 13. §-ban meghatározott követelményeknek.
 
-(5) Ha a szolgáltató a tevékenységét több telephelyen (fióktelepen) folytatja, minden egyes telephely (fióktelep) esetében eleget kell tenni a 13. §-ban meghatározott követelményeknek.
-
-[^4]: A 2. § (1) bekezdése a 26/2009. (X. 16.) ÖM rendelet 16. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
-[^5]: A 2. § (2) bekezdése a 26/2009. (X. 16.) ÖM rendelet 16. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) bekezdését.
-[^6]: A 2. § (3) bekezdése a 26/2009. (X. 16.) ÖM rendelet 16. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 22. § (1) és (2) bekezdését.
-[^7]: A 2. § (3) bekezdés b) pontja a 24/2011. (VI. 30.) NGM rendelet 1. §-ával megállapított szöveg.
-[^8]: A 2. § (3) bekezdés c) pontját a 24/2011. (VI. 30.) NGM rendelet 1. §-a iktatta be.
-[^9]: A 2. § (4) bekezdését a 26/2009. (X. 16.) ÖM rendelet 21. § 4. pontja hatályon kívül helyezte.
+[^8]: A 2. § a 31/2013. (VIII. 9.) NGM rendelet 2. §-ával megállapított szöveg.

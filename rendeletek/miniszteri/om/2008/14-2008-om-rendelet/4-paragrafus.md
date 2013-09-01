@@ -1,3 +1,3 @@
-## 3. §[^10] A Hivatal nyilvántartása – a Szolgtv.-ben meghatározott adatokon túlmenően – tartalmazza a 2. § (1) bekezdés a) és c) pontjában meghatározott adatokat.
+## 3. §[^9]
 
-[^10]: A 3. §-t a 26/2009. (X. 16.) ÖM rendelet 21. § 4. pontja hatályon kívül helyezte, újonnan a 33/2009. (XII. 18.) ÖM rendelet 5. § (2) bekezdése iktatta be.
+[^9]: A 3. §-t a 31/2013. (VIII. 9.) NGM rendelet 13. §-a hatályon kívül helyezte.
