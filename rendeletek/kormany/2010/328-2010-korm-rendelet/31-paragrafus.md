@@ -1,33 +1,33 @@
-## 8. A halászati hatósági eljárásokban közreműködő szakhatóságok
+## 8. [^70] A halgazdálkodási hatósági eljárásokban közreműködő szakhatóságok
 
 31. § (1) A Kormány
 
-a) a védett természeti területen, Natura 2000 területen található halászati vízterületen vagy annak egy részén a halászati tilalmi időtől való eltérésre feljogosító mentesítésre, illetve a mentesítés meghosszabbítására irányuló első fokú engedélyezési eljárásban, valamint
+a) a védett természeti területen, Natura 2000 területen található halgazdálkodási vízterületen vagy annak egy részén az őshonos halfajokra meghatározott tilalmi idő megrövidítésére és a tilalmi idő alóli felmentés engedélyezésére irányuló,
 
-b) a védett természeti területen, Natura 2000 területen található halászati vízterületen vagy annak egy részén a mesterséges szaporításhoz szükséges tenyészállatok begyűjtése, tudományos kutatás vagy rendkívüli állománymentés érdekében az egyes halfajok egyedének fogására vonatkozó halászati tilalmi idő alóli mentesítésre irányuló első fokú engedélyezési eljárásban,
+b) a Hhvtv. 16. § (2) bekezdésében meghatározott,
 
-– annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+c) az országos jelentőségű védett természeti területen, Natura 2000 területen a halászati és horgászati méret- vagy mennyiségi korlátozás alóli felmentés megadására irányuló,
 
-(2)[^67] A Kormány az országos jelentőségű védett természeti területen a halászati méretkorlátozás alól meghatározott időtartamra adott felmentés megadására irányuló első fokú eljárásban – annak elbírálása kérdésében, hogy a felmentés a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget szakhatóságként jelöli ki.
+d) a halállományt veszélyeztető gerinces állatfajok állományának riasztására, gyérítésére való kötelezés elrendelésére irányuló,
 
-(2a)[^68] A természeti vagy Natura 2000 területen a halászati méretkorlátozás alól meghatározott időtartamra adott felmentés megadására irányuló első fokú eljárásban – annak elbírálása kérdésében, hogy a felmentés a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőség a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004 évi CXL. törvény 44. § (1a) bekezdésében foglaltak szerint szakhatóságként megkereshető.
+e) az őshonos halállományt veszélyeztető, tájidegen, invazív halfajok elleni védekezés elvégzésére, elvégeztetésére való kötelezés elrendelésére irányuló,
 
-(3) A Kormány a halgazdálkodási terv jóváhagyására, illetve a jóváhagyott halgazdálkodási terv módosítására, illetve a halgazdálkodási tervtől való eltérésre irányuló első fokú engedélyezési eljárásban
+f) országos jelentőségű védett természeti területen a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló,
 
-a) vízi létesítmény esetén – a felszíni víztest állapotának védelme, továbbá a jó állapot, a jó ökológiai állapot és potenciál elérése érdekében a halászati tevékenységgel járó terhelés hatásainak vizsgálata, a környezeti célkitűzéseknek való megfelelés megítélése, valamint a monitoringtevékenység feltételei meglétének vizsgálata, továbbá a zsilipek és az engedélyezett és tényleges mederállapot mellett gyakorolható halgazdálkodás feltételeinek, valamint a szükséges és lehetséges beavatkozások, a vízkormányzás szakszerű biztosításának vizsgálata szakkérdésében –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget,
+g) az f) pont alá nem tartozó Natura 2000 területet érintő, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására és a halgazdálkodási terv hivatalból történő módosítására irányuló,
 
-b)[^69] országos jelentőségű védett természeti területen – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, valamint
+h) a halgazdálkodási kíméleti területté nyilvánítás feloldására irányuló, továbbá
 
-c) helyi jelentőségű védett természeti terület esetén – annak elbírálása kérdésében, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint megfelel-e –, első fokú eljárásban a települési önkormányzat jegyzőjét, a fővárosban a főjegyzőt
+i) a védett természeti területen található halgazdálkodási vízterületen vagy annak egy részén a Hhvtv. 47. § (1) bekezdésében meghatározott
 
-## szakhatóságként jelöli ki.
+elsőfokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget természetvédelmi szakhatóságként jelöli ki.
 
-(3a)[^70] A halgazdálkodási terv jóváhagyására, illetve a jóváhagyott halgazdálkodási terv módosítására, illetve a halgazdálkodási tervtől való eltérésre irányuló első fokú engedélyezési eljárásban természeti területen – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, a környezetvédelmi, természetvédelmi és vízügyi felügyelőség a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004 évi CXL. törvény 44. § (1a) bekezdésében foglaltak szerint szakhatóságként megkereshető.
+(2) Az (1) bekezdésben meghatározott eljárásokban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség természetvédelmi szakhatósági közreműködése annak elbírálására terjed ki, hogy a kérelmezett tevékenység vagy hivatalból meghozni kívánt döntés a természet védelmére vonatkozó nemzeti és közösségi jogi előírásoknak megfelel-e.
 
-(4)[^71] A hal szaporodása, telelése és a halivadék nevelése érdekében kíméleti területté nyilvánított halászati vízterület kíméleti területi minőségének megszüntetésére irányuló első fokú eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e – a környezetvédelmi, természetvédelmi és vízügyi felügyelőség a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004 évi CXL. törvény 44.§ (1/a) pontjában foglaltak szerint szakhatóságként megkereshető.
+(3) Az (1) bekezdés g) pontjában foglalt eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség szakhatósági közreműködésének feltétele, hogy a halgazdálkodási terv módosítása a halállomány mennyiségének, összetételének, illetve a hasznosításnak a Hhvtv. végrehajtásáról szóló miniszteri rendeletben meghatározott jelentős változásával járjon.
 
-[^67]: A 31. § (2) bekezdése az 51/2013. (II. 25.) Korm. rendelet 23. § (5) bekezdésével megállapított szöveg.
-[^68]: A 31. § (2a) bekezdését az 51/2013. (II. 25.) Korm. rendelet 23. § (6) bekezdése iktatta be.
-[^69]: A 31. § (3) bekezdés b) pontja az 51/2013. (II. 25.) Korm. rendelet 23. § (7) bekezdésével megállapított szöveg.
-[^70]: A 31. § (3a) bekezdését az 51/2013. (II. 25.) Korm. rendelet 23. § (8) bekezdése iktatta be.
-[^71]: A 31. § (4) bekezdése az 51/2013. (II. 25.) Korm. rendelet 23. § (9) bekezdésével megállapított szöveg.
+(4) A Kormány a halgazdálkodási terv jóváhagyására, a jóváhagyott halgazdálkodási terv módosításának jóváhagyására, valamint a halgazdálkodási terv hivatalból történő módosítására irányuló elsőfokú eljárásban vízilétesítmény esetén a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget vízügyi szakhatóságként jelöli ki.
+
+(5) A (4) bekezdésben meghatározott eljárásokban a környezetvédelmi, természetvédelmi és vízügyi felügyelőség vízügyi szakhatósági közreműködése a felszíni víztest állapotának védelme továbbá a jó állapot, a jó ökológiai állapot illetve potenciál és jó kémiai állapot elérése érdekében a halgazdálkodási tevékenységgel járó terhelés és beavatkozás vízminőségi és mennyiségi hatásainak vizsgálatára, a környezeti célkitűzéseknek való megfelelés megítélésére, a monitoring tevékenység feltételei meglétének vizsgálatára, továbbá a zsilipek és az engedélyezett és tényleges mederállapot mellett gyakorolható halgazdálkodás feltételeinek, valamint a szükséges és lehetséges beavatkozások, a vízkormányzás szakszerű biztosításának vizsgálatára terjed ki.
+
+[^70]: A 8. alcím (31. §) a 323/2013. (VIII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

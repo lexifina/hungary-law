@@ -1,11 +1,11 @@
-## 35. §[^78] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^79] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+## 35. §[^77] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését[^78] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-## 36. §[^80] Ez a rendelet
+## 36. §[^79] Ez a rendelet
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének, valamint
 
 b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 85/337/EGK irányelv módosításáról szóló, 1997. március 3-i 97/11/EK tanácsi irányelv 1. cikkének
 
-[^78]: A 35. §-t a 82/2011. (V. 18.) Korm. rendelet 66. §-a iktatta be.
-[^79]: A hatálybalépés napja: 2011. szeptember 15.
-[^80]: A 36. §-t a 82/2011. (V. 18.) Korm. rendelet 66. §-a iktatta be.
+[^77]: A 35. §-t a 82/2011. (V. 18.) Korm. rendelet 66. §-a iktatta be.
+[^78]: A hatálybalépés napja: 2011. szeptember 15.
+[^79]: A 36. §-t a 82/2011. (V. 18.) Korm. rendelet 66. §-a iktatta be.

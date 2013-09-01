@@ -1,9 +1,18 @@
-14. § (1) A halászatról és a horgászatról szóló 1997. évi XLI. törvény (a továbbiakban: Hhtv.) 2. §-a (1) bekezdésének d) pontjában, 4. §-ának (3) bekezdésében, 5. §-ának (3) bekezdésében, 6. §-ában, 11. §-ának (4) bekezdésében, 14. §-ának (1) bekezdésében, 18. §-ának (1) bekezdésében, 19. §-ának (1) bekezdésében, 20. §-ának (2) bekezdésében, 21. §-ának (2) és (3) bekezdésében, 22. §-ának (6) bekezdésében, 24. §-ának (2) és (5) bekezdésében, 25. §-ának (3) bekezdésében, 26. §-ának (1) bekezdésében, 28–30. §-ában, 32. §-ának (1)–(2) bekezdésében, 34. §-ának (2)–(3) bekezdésében, (4) bekezdésének e) pontjában és (5) bekezdésében, 35. §-ának (4) bekezdésében, 36. §-ának (1) bekezdésében, 38. §-ának (3) bekezdésében, 39. §-ának (1) bekezdésében, 42. §-ának (1) és (5) bekezdésében, 44. §-ában, 48. §-ának (1) bekezdésében, 48. §-a (2) bekezdésének a)–g) és i) pontjában, 49. §-ának (1) bekezdésében, valamint 50. §-ának (1) bekezdésében foglaltak tekintetében a Kormány halászati hatóságként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki.
+14. §[^42] (1) A Kormány elsőfokú halgazdálkodási hatóságként – ha kormányrendelet eltérően nem rendelkezik – a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki.
 
-(2) A Hhtv. 19. § (3) bekezdése szerinti közigazgatási eljárásban az igénylő lakóhelye szerint illetékes megyei kormányhivatal földművelésügyi igazgatósága jár el.
+(2) Halgazdálkodási hatósági ügyben – ha kormányrendelet eltérően nem rendelkezik – az eljárással érintett vízterület medrének fekvése szerint illetékes megyei kormányhivatal földművelésügyi igazgatósága jár el.
 
-(3) A Hhtv. 37. §-ának (1) bekezdésében foglaltak tekintetében a Kormány vadászati hatóságként a megyei kormányhivatal földművelésügyi igazgatóságát jelöli ki.
+(3) A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) 67. § (1) bekezdése szerinti közigazgatási eljárásban – a (2) bekezdéstől eltérően – a jogsértő személy lakóhelye szerint illetékes megyei kormányhivatal földművelésügyi igazgatósága jár el.
 
-(4) Amennyiben az (1) bekezdés szerinti esetekben a halászati vízterület két vagy több megyei kormányhivatal földművelésügyi igazgatóságának illetékességi területén helyezkedik el, az az illetékes, amely a halászati vízterületté nyilvánításról szóló döntést hozta.
+(4) Ha a halgazdálkodási vízterület két vagy több megyei kormányhivatal illetékességi területén helyezkedik el és
 
-(5) Amennyiben a halászati vízterületté nyilvánítás iránti kérelemben megjelölt vízterület két vagy több megyei kormányhivatal földművelésügyi igazgatóságának illetékességi területén helyezkedik el, a Hhtv. 6. §-a szerinti eljárásra az az illetékes, amelynek területén a vízterület nagyobbik hányada található.
+a) állóvíz, annak a megyei kormányhivatalnak a földművelésügyi igazgatósága illetékes, ahol a halgazdálkodási vízterület nagyobbik hányada található;
+
+b) folyóvíz, az illetékesség a megyehatáron belüli folyószakaszokra, part- illetve mederrészekre terjed ki.
+
+(5) A (4) bekezdés b) pontjától eltérően, ha a folyóvíz medrét hosszanti, illetve keresztirányban több megyei kormányhivatal illetékességi területe is érinti, annak a megyei kormányhivatalnak a földművelésügyi igazgatósága az illetékes, amely megyénél a Hhvtv. hatályba lépését[^43] megelőzően a vízterület a halászati vízterületek nyilvántartásában szerepelt.
+
+(6) A Hhvtv. 67. § (2) bekezdése szerinti közigazgatási eljárásban a vízilétesítmény elhelyezkedése szerint illetékes megyei kormányhivatal földművelésügyi igazgatósága jár el.
+
+[^42]: A 14. § a 323/2013. (VIII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^43]: A hatálybalépés időpontja 2013. szeptember 1.
