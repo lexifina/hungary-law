@@ -28,7 +28,9 @@ m) a nyugdíjbiztosítási igazgatási szerv,
 
 n) a helyi önkormányzat hatósági feladatot ellátó szerve és
 
-o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
+
+p) a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok
 
 részére továbbíthat adatot.
 
