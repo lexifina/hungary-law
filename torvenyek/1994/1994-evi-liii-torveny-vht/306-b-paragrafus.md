@@ -1,1 +1,0 @@
-306/B. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 233. § (1) bekezdés e) pontját a 2013. január 1-jét követően kiírt önálló bírósági végrehajtói és törvényszéki végrehajtói álláspályázatok alapján történt bírósági végrehajtói kinevezések esetén kell alkalmazni.
