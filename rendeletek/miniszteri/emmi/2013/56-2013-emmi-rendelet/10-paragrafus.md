@@ -2,12 +2,11 @@
 
 ## 10. § Hatályát veszti a 44/2004. ESZCSM rendelet
 
-a)[^7]
+a)[^6]
 
-b)[^8]
+b) 11. § (5a) bekezdése,
 
-c)[^9]
+c)[^7]
 
-[^7]: A 10. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 10. § b) pontja a 47. § (3) bekezdése alapján 2013. szeptember 1-jén lép hatályba.
-[^9]: A 10. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 10. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
