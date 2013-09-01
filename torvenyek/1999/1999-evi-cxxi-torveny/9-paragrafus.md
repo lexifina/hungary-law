@@ -14,4 +14,4 @@ c) tájékoztatást adnak a gazdasággal összefüggő magyar és külföldi jog
 
 d) közreműködnek a területfejlesztési koncepciók és programok gazdaságfejlesztési munkarészeinek kidolgozásában és végrehajtásában;
 
-e) az országos gazdasági érdekképviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló törvényben és végrehajtási rendeleteiben meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
+e) az országos gazdasági érdek-képviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
