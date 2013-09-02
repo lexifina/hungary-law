@@ -1,3 +1,0 @@
-152. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 116. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A bíróság a 122. § (2) bekezdésében meghatározottak megfelelő alkalmazásával az eljárás alá vont személy terhére a szabálysértési hatóság határozatában megállapított rendelkezéseknél hátrányosabb rendelkezést akkor hozhat, ha a tárgyaláson új bizonyíték merül fel és ennek alapján a bíróság olyan új tényt állapít meg, amelynek folytán súlyosabb minősítést kell alkalmazni, vagy jelentős mértékben súlyosabb büntetést kell kiszabni.”

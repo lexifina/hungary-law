@@ -1,3 +1,0 @@
-134. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 62. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A még meg nem hallgatott tanú nem lehet jelen az eljárás alá vont személy, más tanú és a szakértő meghallgatásakor. A tanú meghallgatásán nem lehet jelen az eljárás alá vont személy és az eljárás egyéb résztvevője, ha a tanú minősített adatról tesz vallomást. Ha elrendelték a tanú adatainak zártan kezelését, az eljárás alá vont személy a tanú meghallgatásán csak akkor lehet jelen, ha a tanú ehhez hozzájárul.”
