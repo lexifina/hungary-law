@@ -1,11 +1,11 @@
-## „(3) 2014. január 1-jén hatályát veszti a 9. § (8) bekezdése.”
+## 66. §[^1]
 
 ## 67. § Hatályát veszti
 
-a) az R1.,
+a)–b)[^2]
 
-b) az R2. és
+c)[^3]
 
-c)[^1]
-
-[^1]: A 67. § c) pontja a 61. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^1]: A 66. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 67. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 67. § c) pontja a 61. § (2) bekezdése alapján 2014. július 1-jén lép hatályba.
