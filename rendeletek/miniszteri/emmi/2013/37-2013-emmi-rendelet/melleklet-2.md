@@ -5069,3 +5069,23 @@ A 21. sorszámú Fogtechnikus gyakornok megnevezésű szakképesítés szakmai �
 2. EGYÉB ADATOK
 
 2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: -
+
+2.2. Szakmai előképzettség: -
+
+2.3. Előírt gyakorlat: -
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: -
+
+2.6. Elméleti képzési idő aránya: 30%
+
+2.7. Gyakorlati képzési idő aránya: 70%
+
+2.8. Szintvizsga: -
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama:
