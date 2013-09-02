@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-41-20-2
 | --- | --- | --- |
 | 2013-05-29 | 2013-41-20-2Y.1 | 41/2013. (V. 28.) VM rendelet |
 | 2013-09-01 | 2013-41-20-2Y.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-09-02 | 2013-41-20-2Y.3 | 2010: CXXX. törvény |
