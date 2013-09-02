@@ -1,1 +1,0 @@
-## 12. § Az R. 7. § (3) bekezdésében a „megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságának” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép.
