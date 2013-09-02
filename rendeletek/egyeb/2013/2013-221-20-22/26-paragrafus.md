@@ -1,1 +1,0 @@
-## „(6) Az (1)–(2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott megye közigazgatási területét jelölheti ki.”
