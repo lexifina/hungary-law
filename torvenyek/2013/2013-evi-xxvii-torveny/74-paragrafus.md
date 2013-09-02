@@ -1,11 +1,1 @@
-74. § A Gyvt. a következő 161/Q. §-sal egészül ki:
-
-„161/Q. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 95. § (3) bekezdése és a közoktatásról szóló 1993. évi LXXIX. törvény 121. § (1) bekezdés 14. pontja alapján a hátrányos és halmozottan hátrányos helyzetű gyermekek, tanulók részére a 2013. augusztus 31-én hatályos rendelkezések szerint biztosított kedvezményeket, támogatásokat a 2013/2014. nevelési évben, tanévben változatlan feltételek mellett kell nyújtani.
-
-(2) Azon gyermekek, tanulók, akik hátrányos vagy halmozottan hátrányos helyzetük alapján 2013. szeptember 1-jén a Hátrányos Helyzetű Tanulók Arany János Tehetséggondozó, Kollégiumi vagy Kollégiumi-Szakiskolai Programjában, az Útravaló Ösztöndíjprogramban, óvodai fejlesztő programban, képességkibontakoztató és integrációs felkészítésben vesznek részt vagy ezek bármelyikére felvételt nyertek, az óvodai kötelezettség vagy a tankötelezettség befejezéséig a 2013. augusztus 31-én hatályos szabályok szerint minősülnek hátrányos helyzetűnek, illetve halmozottan hátrányos helyzetűnek.
-
-(3) A 2013. szeptember 1-jén utógondozói ellátásban részesülő, tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt halmozottan hátrányos helyzetét a fiatal felnőtt kérelmére, annak hiányában hivatalból legkésőbb 2014. január 31-éig meg kell állapítani.
-
-(4) A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvény 29. §-ával megállapított 20/C. §-t a 2013. augusztus 31-ét követően óvodáztatási támogatás megállapítása iránt indult új ügyekben és a 2013. szeptember 1-jét megelőzően megállapított óvodáztatási támogatásnak a 2014. szeptember 1-jét követően esedékes, további alkalommal történő folyósítására kell alkalmazni.
-
-(5) A települési önkormányzat jegyzője a 2013. szeptember 1-jét megelőzően megállapított óvodáztatási támogatásra való jogosultsággal rendelkező személyeket legkésőbb 2013. december 31-éig levélben tájékoztatja a további óvodáztatási támogatás folyósításának 2013. szeptember 1-jétől hatályos szabályairól, valamint a halmozottan hátrányos helyzet megállapítására vonatkozó rendelkezésekről.”
+74. §
