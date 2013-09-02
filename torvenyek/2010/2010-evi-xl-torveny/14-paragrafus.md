@@ -1,5 +1,0 @@
-14. § Az Nbtv. a 41. §-t követően a következő 41/A. §-sal egészül ki:
-
-„41/A. § (1) A polgári nemzetbiztonsági szolgálatok a Schengeni Információs Rendszerbe leplezett figyelésre irányuló figyelmeztető jelzés elhelyezését kezdeményezhetik a Rendőrségnél, ha a birtokukba került adatok alapján a Magyar Köztársaság nemzetbiztonsági érdekeinek érvényesítése érdekében az szükségessé válik.
-
-(2) A polgári nemzetbiztonsági szolgálatok – az (1) bekezdésben meghatározott esetben – kizárólag a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról Schengenben 1990. június 19-én aláírt egyezmény 99. cikk (3) bekezdése szerinti konzultációt követően kezdeményezhetik a leplezett figyelésre irányuló figyelmeztető jelzés elhelyezését.”
