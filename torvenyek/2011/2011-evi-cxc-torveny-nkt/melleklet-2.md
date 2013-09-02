@@ -2,4 +2,4 @@
 
 2. melléklet a 2011. évi CXC. törvényhez
 
-A nevelő- és oktatómunkát közvetlenül segítő alkalmazottak finanszírozott létszáma
+A nevelő munkát segítő alkalmazottak finanszírozott létszáma az óvodában

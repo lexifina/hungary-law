@@ -18,6 +18,6 @@
 
 (7)
 
-(8) Hatályát veszti a Kt. 4. § (4) bekezdése, 12. § (1) bekezdés a) pontja, 16. § (1) és (4) bekezdése, 17/A. §-a, 24. § (4) bekezdése, 27. §-a, 29. §-a, 39. § (3) bekezdése, 52. § (1)–(14) bekezdése és (17)–(18) bekezdése, 53. §-a, 69. § (2) bekezdése, 78. § (2) bekezdése, 94. § (3) bekezdés l) pontja, 118. § (3)–(4) bekezdése, (6) bekezdése és (12)–(14) bekezdése, 121. § (1) bekezdés 14. pontja, 122. § (1) bekezdése, 128. § (8) bekezdése, 1. számú melléklete, 3. számú melléklete.
+(8)
 
 (9)
