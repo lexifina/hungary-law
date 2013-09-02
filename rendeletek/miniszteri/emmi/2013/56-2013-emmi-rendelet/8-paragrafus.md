@@ -1,3 +1,3 @@
-## 7. § A 44/2004. ESZCSM rendelet a következő 23/B. §-sal egészül ki:
+## 5–7. §[^3]
 
-## „23/B. § Az egyes gyógyszerészeti és orvostechnikai tárgyú miniszteri rendeletek módosításáról szóló 56/2013. (VII. 31.) EMMI rendelettel megállapított 11. § (3) és (3a) bekezdésében, valamint 14. § (1)–(2) bekezdésében foglaltak a 2013. szeptember 1-jét megelőzően felírt vények esetén is alkalmazandóak a 2013. augusztus 31-ét követő kiváltás során.”
+[^3]: Az 5–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
