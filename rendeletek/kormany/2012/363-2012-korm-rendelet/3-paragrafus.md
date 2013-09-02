@@ -6,6 +6,7 @@
 
 (3) A Melléklet rendelkezéseit első alkalommal a 2013/2014. nevelési évtől kell alkalmazni.
 
-(4) Hatályát veszti az Óvodai nevelés országos alapprogramjának kiadásáról szóló 137/1996. (VIII. 28.) Korm. rendelet.
+(4)[^2]
 
 [^1]: A 2. § a 3. § (2) bekezdése alapján 2014. szeptember 1-jén lép hatályba.
+[^2]: A 3. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
