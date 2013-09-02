@@ -1,5 +1,3 @@
-## 47. § A Gyer. 125. §-a a következő g) ponttal egészül ki:
+## 47. §[^16]
 
-## (Az utógondozói ellátásról szóló határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza)
-
-## „g) annak megállapítását, hogy a tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt halmozottan hátrányos helyzetű.”
+[^16]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

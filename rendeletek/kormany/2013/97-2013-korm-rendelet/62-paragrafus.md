@@ -1,3 +1,3 @@
-## 61. §[^21]
+## 61. §[^22]
 
-[^21]: A 61. § a 257/2013. (VII. 5.) Korm. rendelet 28. § d) pontja alapján nem lép hatályba.
+[^22]: A 61. § a 257/2013. (VII. 5.) Korm. rendelet 28. § d) pontja alapján nem lép hatályba.

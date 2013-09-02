@@ -1,1 +1,0 @@
-## „i) dönt az utógondozás és az utógondozói ellátás elrendeléséről, valamint a tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt utógondozói ellátásának elrendelésével egyidejűleg megállapítja a fiatal felnőtt halmozottan hátrányos helyzetének fennállását,”
