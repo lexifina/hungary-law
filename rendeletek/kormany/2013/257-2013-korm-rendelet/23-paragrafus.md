@@ -1,8 +1,9 @@
-## 21–22. §[^10]
+## 21–22. §[^17]
 
-23. § (1)[^11]
+23. § (1)[^18]
 
-(2) A Gyár. 23. §-a a következő (14) bekezdéssel egészül ki:
+(2)[^19]
 
-[^10]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 23. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
