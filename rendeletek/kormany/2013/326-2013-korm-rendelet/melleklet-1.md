@@ -1,4 +1,4 @@
-## 40. § Hatályát veszti a közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról a közoktatási intézményekben című 138/1992. (X. 8.) Korm. rendelet.
+## 40. §[^2]
 
 1. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez
 
@@ -39,3 +39,5 @@
 | Az országos pedagógiai-szakmai ellenőrzés során látogatott foglalkozások tapasztalatai |
 
 | Az országos pedagógiai-szakmai ellenőrzés összegző értékelése |
+
+[^2]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
