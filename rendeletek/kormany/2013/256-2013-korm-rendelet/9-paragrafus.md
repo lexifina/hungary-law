@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. §[^3]
 
 9. § (1) Az Almási Balogh Pál Kórház, a Nagyatádi Kórház, valamint a Bugát Pál Kórház 2013. július 15-én illetmény- vagy bérnövelésre jogosult munkakörben álló foglalkoztatottja, valamint az ezen munkáltatóknál 2013. július 15-e és augusztus 31-e között munkába lépő foglalkoztatott a 2012. január 1-je és 2013. augusztus 31-e közötti időszak tekintetében eseti kereset-kiegészítésre jogosult.
 
@@ -10,4 +10,4 @@
 
 (5) A bruttó támogatási összeg utalványozására a 8. § (5) bekezdésében foglaltakat kell alkalmazni.
 
-[^2]: A 8. § a 7. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § a 7. § (2) bekezdése alapján hatályát vesztette.
