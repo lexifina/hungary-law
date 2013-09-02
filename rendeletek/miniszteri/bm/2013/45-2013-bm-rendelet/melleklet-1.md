@@ -1,3 +1,5 @@
+## 9–13. §[^1]
+
 1. melléklet a 45/2013. (VIII. 15.) BM rendelethez
 
 ## A büntetés-végrehajtási szervezetnél rendszeresített könnyített szolgálatban foglalkoztatottakkal betölthető hivatásos beosztások
@@ -43,3 +45,5 @@ I. Besorolási osztály
 | 18. | nevelő |
 
 II. Besorolási osztály
+
+[^1]: A 9–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
