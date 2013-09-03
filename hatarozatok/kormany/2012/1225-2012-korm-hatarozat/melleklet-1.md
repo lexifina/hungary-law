@@ -1,10 +1,6 @@
-## 1. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján intézkedjen annak érdekében, hogy a Zsámbék 856, 831, 832 és 804 helyrajzi számú ingatlanok tulajdonjoga az állam javára – megállapodás útján – megszerzésre, valamint az ingatlanok a Premontrei Kanonokrend Gödöllői Perjelség számára – az általa ellátott közfeladat ellátása érdekében – vagyonkezelésbe adásra kerüljenek;
+## 1.[^2]
 
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
-
-## 2. egyetért azzal, hogy az 1. pontban megjelölt ingatlanok tulajdonjogának ellenértéke úgy kerüljön teljesítésre, hogy az ingatlanok vételárának megfelelő összegért – de legfeljebb 472,3 millió forintért – a Szent Keresztről Nevezett Irgalmas Nővérek Szerzetesrend tulajdonában álló, Pilisborosjenő 508/1 helyrajzi számú, természetben Pilisborosjenő, Iskola u. 2. szám alatti és Budapest 6984 helyrajzi számú, természetben 1122 Budapest, Városmajor u. 24. szám alatt található ingatlanok a Szent Keresztről Nevezett Irgalmas Nővérek Szerzetesrend igényeinek megfelelően kerüljön felújításra;
+## 2.[^3]
 
 ## 3. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján
 
@@ -19,3 +15,6 @@
 ## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. február 15.
 
 1. melléklet az 1225/2012. (VII. 3.) Korm. határozathoz
+
+[^2]: Az 1. pontot az 1604/2013. (IX. 3.) Korm. határozat 3. pontja visszavonta.
+[^3]: A 2. pontot az 1604/2013. (IX. 3.) Korm. határozat 3. pontja visszavonta.
