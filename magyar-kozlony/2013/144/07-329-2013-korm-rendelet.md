@@ -1,0 +1,535 @@
+# A Kormány 329/2013. (IX. 3.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 144. szám, 2013. szeptember 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0adbf7a80c2665d33d3b4337a27bba3d07c9519c/dokumentumok/ab17402a5bf4c5a1b2127d45c1cb7c81026ceb2a/letoltes)
+
+---
+
+A Kormány 329/2013. (IX. 3.) Korm. rendelete
+egyes klímapolitikai tárgyú kormányrendeletek módosításáról
+A Kormány
+az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi
+LX. törvény 14. § (5) bekezdés b)–c) pontjában,
+a 2. alcím tekintetében a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi
+LXXVIII. törvény 28. § (1) bekezdés b) pontjában, valamint
+a 3. alcím tekintetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat
+végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 39. § (1) bekezdés a)–e) és g)–j) pontjában kapott
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve
+végrehajtási keretrendszeréről szóló 2007. évi LX. törvény végrehajtásának egyes szabályairól szóló
+323/2007. (XII. 11.) Korm. rendelet módosítása
+1. §
+Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló
+2007. évi LX. törvény végrehajtásának egyes szabályairól szóló 323/2007. (XII. 11.) Korm. rendelet 15. § (1) bekezdése
+helyébe a következő rendelkezés lép:
+„(1) Az együttes végrehajtási projekt eredményeként a nemzetközi kötelezettségvállalásokkal összhangban
+megvalósult, hitelesített kibocsátás-csökkentésnek megfelelő kibocsátás-csökkentési egységmennyiség jön létre,
+amely az állami vagyon részét képezi.”
+2. Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek
+akkreditálásáról és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet módosítása
+2. §
+Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek akkreditálásáról
+és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+3. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási
+határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának
+egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet módosítása
+3. § (1) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat
+végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló
+410/2012. (XII. 28.) Korm. rendelet (a továbbiakban: Ügkr. Vhr.) 1. § (2) bekezdése helyébe a következő rendelkezés
+lép:
+
+„(2) A kibocsátási engedély iránti kérelmet az üzemeltető a környezetvédelmi hatóság (a továbbiakban: hatóság)
+honlapján közzétett formanyomtatvány alkalmazásával írásban vagy elektronikus úton nyújtja be a hatósághoz.
+A formanyomtatvány kitöltését segítő útmutatót a hatóság a honlapján és a kormányzati portálon közzéteszi, és
+gondoskodik annak az üzemeltetők felé elektronikus úton történő közléséről. A hatóság az engedély iránti kérelem
+benyújtására jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett.”
+(2) Az Ügkr. Vhr. 1. §-a a következő (8) és (9) bekezdéssel egészül ki:
+„(8) Az üzemeltető a kibocsátások nyomon követését a 601/2012/EU bizottsági rendeletben meghatározottak
+szerint végzi, amelynek során – ha a kibocsátási engedély másként nem rendelkezik – az 5. mellékletben
+meghatározott egyes tüzelőanyagok országspecifikus fűtőértékeit és tényezőit alkalmazza.
+(9) Az üzemeltető és annak tüzelőanyag szolgáltatója, beszállítója köteles a harmadik kereskedési időszak második
+évétől folyamatosan biztosítani
+a) a szükséges hitelesített mérőeszközöket, mérőberendezéseket és mérőrendszereket az üzemeltetőnél felhasznált
+tüzelőanyag mennyiségének számbavételére, és
+b) a szükséges hitelesített mérőeszközök, mérőberendezések és mérőrendszerek hitelességét igazoló érvényes
+hitelesítési bizonyítványokat, amelyeken szerepel a pontosság, a hibahatár
+annak érdekében, hogy az üzemeltető számára biztosítsa a kibocsátási engedélyében feltüntetett meghatározási
+szinteknek való megfelelést. Az üzemeltetőnél felhasznált tüzelőanyag mennyiségének számbavételére szolgáló
+hitelesített mérőeszközök, mérőberendezések és mérőrendszerek hitelesítési bizonyítványait kibocsátó szervezetek
+kötelesek a harmadik kereskedési időszak második évétől folyamatosan feltüntetni a hitelesítési bizonyítványokon
+a pontosságot, a hibahatárt és az érvényességet. Az üzemeltető és annak tüzelőanyag szolgáltatója, beszállítója
+csak az így kiállított hitelesítési bizonyítványokat köteles befogadni a hitelesítési bizonyítványokat kibocsátó
+szervezetektől.”
+4. §
+Az Ügkr. Vhr. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kibocsátási engedély alapján létesítmény a kibocsátási engedély közlésétől számított 3 éven belül, vagy
+ha az 1. § (4) és (5) bekezdése szerinti engedély lejártának az időpontja hamarabb következik be, az 1. § (4) vagy
+(5) bekezdése szerinti engedély lejártának időpontjáig helyezhető üzembe. Üzembe helyezés alatt a próbaüzem
+megkezdése vagy a 2011/278/EU bizottsági határozat 3. cikk n) pontja szerinti üzemszerű működés kezdete
+értendő. Az üzembe helyezést az üzemeltető köteles a hatóságnak 30 napon belül írásban bejelenteni. Ha
+az üzembe helyezés az előírt időpontig nem következett be, a hatóság a kibocsátási engedélyt visszavonja.”
+5. §
+Az Ügkr. Vhr. 3. §-a helyébe a következő rendelkezés lép:
+„3. § (1) Az üzemeltető a harmadik kereskedési időszak minden tárgyévét követő január 20-áig
+a) a létesítmény kapacitásával, tevékenységi szintjével és működésével kapcsolatos, a 13. § (1) és (3) bekezdése,
+valamint a 14. § (1) bekezdése szerint lényeges, a tárgyévre vonatkozó tényleges változásról, továbbá
+b) a 11. § (1) bekezdése, a 12. § (1) bekezdése, a 13. § (1) és (3) bekezdése, valamint a 14. § (1) bekezdése szerinti,
+a tárgyévet követő évre vonatkozó tervezett változásról
+jelentést nyújt be az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) részére a miniszter által vezetett
+minisztérium (a továbbiakban: Minisztérium) honlapján közzétett formanyomtatványon.
+(2) A miniszter jogosult az (1) bekezdésben meghatározott adatszolgáltatáson túl a vonatkozó hazai és európai
+uniós jogszabályokban foglalt követelmények teljesítéséhez további információkat kérni az üzemeltetőktől.”
+6. § (1) Az Ügkr. Vhr. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A légi jármű üzembentartó a nyomon követési tervet a hatóság honlapján közzétett formanyomtatványon,
+cégszerű aláírással ellátva postai vagy elektronikus úton nyújtja be jóváhagyásra a hatóság részére. A hatóság
+a nyomon követési terv benyújtására jogosult önálló elektronikus rendszert létrehozni a légi jármű üzembentartók
+megfelelő tájékoztatása mellett. A hatóság
+a) jóváhagyja a nyomon követési tervet, ha az megfelel a 601/2012/EU bizottsági rendeletben és az Ügkr. tv.-ben
+foglaltaknak,
+b) elutasítja a nyomon követési terv jóváhagyására vonatkozó kérelmet, ha a nyomon követési terv nem felel meg
+a 601/2012/EU bizottsági rendeletben és az Ügkr. tv.-ben foglaltaknak.”
+(2) Az Ügkr. Vhr. 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az akkreditált hitelesítő által hitelesített éves kibocsátási jelentést és tonnakilométer-adatokat tartalmazó
+jelentést az üzemeltető és a légi jármű üzembentartó a hatóság által közzétett formanyomtatvány alkalmazásával
+
+postai vagy elektronikus úton nyújtja be a hatóság részére. A számításokat tartalmazó mellékleteket elektronikus
+úton újraszámolható formátumban is be kell nyújtani.”
+7. §
+Az Ügkr. Vhr. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A forgalmi jegyzékben vezetett magyar nemzeti folyószámlán lévő kibocsátási egységeket és légiközlekedési
+kibocsátási egységeket (a továbbiakban: ÜHG-egység) a miniszter a nemzeti tisztviselő útján tartja nyilván.”
+8. §
+Az Ügkr. Vhr. 6. §-a helyébe a következő rendelkezés lép:
+„6. § (1) A miniszter minden évben – az Európai Bizottság erre vonatkozó közlésétől számított 30 napon belül –
+tájékoztatja a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságot (a továbbiakban: MNV Zrt.)
+az adott évben a Magyar Állam által az 1031/2010/EU bizottsági rendeletben meghatározott módon értékesíthető
+ÜHG-egységek mennyiségéről.
+(2) A miniszter minden évben tájékoztatja az MNV Zrt.-t a nemzeti kiosztási tábla, valamint a nemzeti légiközlekedési
+kiosztási tábla alapján az adott évben az üzemeltetők és a légi jármű üzembentartók részére ingyenesen kiosztásra
+került ÜHG-egységek mennyiségéről – a nemzeti kiosztási táblának és a nemzeti légiközlekedési kiosztási táblának
+az Európai Bizottság által történő jóváhagyását követő 30 napon belül.
+(3) A nemzeti kiosztási tábla és a nemzeti légiközlekedési kiosztási tábla módosítása esetén – az Európai Bizottság
+vonatkozó jóváhagyását követő 30 napon belül – a miniszter tájékoztatja az MNV Zrt.-t.”
+9. §
+Az Ügkr. Vhr. 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) A tulajdonosi joggyakorló az ÜHG-egységek értékesítésének pénzügyi teljesítését követő 30 napon belül
+tájékoztatja az államháztartásért felelős minisztert és az MNV Zrt.-t:
+a) az értékesítés tényéről,
+b) az értékesített ÜHG-egységek mennyiségéről,
+c) az ÜHG-egység vételáráról.
+(2) Az 1031/2010/EU bizottsági rendelet 18. cikk (2) és (3) bekezdésében hivatkozott személyek ezen cikkek alapján
+ajánlatot tenni kizárólag a pénzügyi szervezetek felügyeletét ellátó szervnek árutőzsdei szolgáltatás nyújtására
+irányuló engedélye alapján jogosultak.”
+10. § (1) Az Ügkr. Vhr. 11. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Az Ügkr. tv. szerinti új belépőnek minősülő üzemeltetőnek a kibocsátási egységek térítésmentes kiosztására
+vonatkozó kérelmét (a továbbiakban: új belépő kérelem) a Minisztérium honlapján közzétett útmutató alapján
+– összhangban a 2011/278/EU bizottsági határozattal –, létesítményrészenként kell elkészítenie. A kérelem részét
+képező adatszolgáltatást a Minisztérium honlapján közzétett formanyomtatvány kitöltésével kell teljesíteni.
+A kérelemhez csatolni kell az akkreditált hitelesítő szervezet által elkészített hitelesítői jelentést.
+(2) A miniszter a benyújtott, hiánytalan új belépő kérelem alapján ellenőrzi létesítményrészenként a benyújtott
+adatokat, és – a kezdeti beépített kapacitás megállapítását követően – meghatározza a létesítményrészeknek
+térítésmentesen kiosztható kibocsátási egységek előzetes mennyiségeit. A miniszter a kiosztható mennyiségeket
+a villamos energiáról szóló 2007. évi LXXXVI. törvény vagy a távhőszolgáltatásról szóló 2005. évi XVIII. törvény
+alapján termelői engedélyköteles tevékenységek tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal
+(a továbbiakban: MEKH) szakvéleményének beszerzése után határozza meg.
+(3) Ha a kérelem nem felel meg az (1) bekezdésben foglalt követelményeknek, a miniszter az üzemeltetőt egyszeri
+alkalommal hiánypótlásra vagy tényállás tisztázására szólítja fel. Nem minősül hiánypótlásra okot adó körülménynek
+a név-, szám- vagy más elírás.”
+(2) Az Ügkr. Vhr. 11. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A miniszter a kérelmet jóváhagyás céljából haladéktalanul, de legkésőbb 15 napon belül továbbítja az Európai
+Bizottságnak. A 15 napos határidőbe nem számít be a hiánypótlásra, illetve a tényállás tisztázásához szükséges
+adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő, valamint a MEKH szakvéleményének
+kikérésétől annak beérkezéséig eltelt idő.”
+
+11. §
+Az Ügkr. Vhr. „4. A kibocsátási egységek térítésmentes kiosztása új belépők részére” alcíme a következő 11/A. §-sal
+egészül ki:
+„11/A. § (1) Az Ügkr. tv. szerinti légiközlekedési új belépőnek minősülő légi jármű üzembentartó az adott
+kereskedési időszakra az Ügkr. tv. szerint igényelheti a térítésmentesen kiosztandó légiközlekedési kibocsátási
+egységek kiosztását. A kérelmet a Minisztérium honlapján közzétett módon kell benyújtani.
+(2) A miniszter minden, az Európai Bizottsághoz továbbított kérelem vonatkozásában megállapítja minden egyes
+légiközlekedési új belépő részére a külön tartalékalapból kiosztandó kibocsátási egységek mennyiségét.
+(3) A kiosztandó kibocsátási egységek mennyiségének kiszámításához az Európai Bizottság által a légi jármű
+üzembentartók részére történő térítésmentes kiosztáshoz alkalmazott referenciaértéket be kell szorozni:
+a) az Ügkr. tv. 2. § 22. pont a) alpontjába tartozó légi jármű üzembentartók esetében az Európai Bizottsághoz
+benyújtott tonnakilométer-adatokkal;
+b) az Ügkr. tv. 2. § 22. pont b) alpontjába tartozó légi jármű üzembentartók esetében az Ügkr. tv. 2. § 22. pont
+b) alpontjában megállapított és az Európai Bizottsághoz benyújtott kérelemben feltüntetett százalékot meghaladó,
+tonnakilométerben kifejezett abszolút növekedéssel.
+(4) A miniszter az egyes légi jármű üzembentartók számára évente kiosztandó kibocsátási egységek mennyiségét
+úgy határozza meg, hogy a (3) bekezdés szerinti mennyiséget elosztják a kiosztás tárgyát képező időszakban
+fennmaradó teljes naptári évek számával.”
+12. §
+Az Ügkr. Vhr. a következő 4/A. alcímmel egészül ki:
+„4/A. Az ÜHG-egységek jóváírása és törlése
+11/B. § (1) Az ÜHG-egységek jóváírását a nemzeti kiosztási táblában és a nemzeti légiközlekedési kiosztási táblában
+szereplő adatoknak megfelelően kell elvégezni, a jóváírás végrehajtásáért a jegyzékkezelő felel.
+(2) A jegyzékkezelő az ÜHG-egység jogosultjának a jegyzék kezelőjéhez eljuttatott nyilatkozata alapján
+az ÜHG-egységet bármikor törli.
+(3) A visszaadott ÜHG-egységeket a jegyzékkezelő haladéktalanul törli.
+(4) A 377/2013/EU európai parlamenti és tanácsi határozatnak megfelelően a jegyzékkezelő törli a légi jármű
+üzembentartók által visszaszolgáltatott azon légiközlekedési kibocsátási egységeket, amelyek az Európai Gazdasági
+Térséget elhagyó, és harmadik országból az Európai Gazdasági Térségbe érkező járatok 2012-es kibocsátásaira
+vonatkoznak.”
+13. § (1) Az Ügkr. Vhr. 12. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A létesítmény bezárásának minősül:)
+„e) ha a létesítmény nem üzemel, de korábban üzemelt és az üzemeltető nem tudja hitelt érdemlően – okirattal –
+meggyőzően valószínűsíteni, hogy a létesítmény legkésőbb 6 hónappal a működés beszüntetését követően újra
+üzemelni fog.”
+(2) Az Ügkr. Vhr. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A miniszter az üzemeltető kérelmére az (1) bekezdés e) pontjában meghatározott időszakot legfeljebb
+18 hónappal meghosszabbíthatja, ha az üzemeltető igazolni tudja, hogy a 6 hónapos határidőt elháríthatatlan
+külső ok miatt nem tudja betartani. A bezárás felfüggesztésére vonatkozó kérelmet a miniszternek kell benyújtani.
+A kérelem tartalmazza a felfüggesztés kezdő időpontját és a bezárás felfüggesztésének okát, amelyhez mellékelni
+kell a rendelkezésre álló, a bezárás felfüggesztésének okát alátámasztó dokumentumok másolatát.”
+(3) Az Ügkr. Vhr. 12. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a létesítmény bezárását
+bejelenteni a hatóság honlapján közzétett módon a hatóságnak, valamint a Minisztérium honlapján közzétett
+formanyomtatvány kitöltése és hitelesítése útján a miniszternek. A hatóság felé történő bejelentés tartalmazza
+a bezárás napjának megjelölését és az annak igazolására alkalmas, cégszerű aláírással ellátott dokumentumot.
+A bezárás napja a bezárást megalapozó esemény bekövetkezésének a napja.”
+(4) Az Ügkr. Vhr. 12. §-a a következő (7a) bekezdéssel egészül ki:
+„(7a) Amennyiben a bezárás következtében a jegyzékkezelő az érintett üzemeltető forgalmi jegyzékben
+vezetett számláját lezárja, és az adott számlán a kibocsátási egységek pozitív egyenleget mutatnak, akkor
+a jegyzékkezelő a bezárás bejelentésétől számított 30 napon belül felszólítja a számlatulajdonost egy olyan másik
+számla megnevezésére, amelyre ezeket a kibocsátási egységeket át kívánja vezettetni. Ha a számlatulajdonos
+40 munkanapon belül nem válaszol a jegyzékkezelő felszólítására, akkor a jegyzékkezelő a kibocsátási egységeket
+a saját nemzeti folyószámlájára átvezeti.”
+
+14. §
+Az Ügkr. Vhr. 13. §-a helyébe a következő rendelkezés lép:
+„13. § (1) A létesítmény működését részlegesen szüneteltetettnek kell tekinteni, ha egy olyan létesítményrész,
+amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves
+mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához
+(a továbbiakban: mérvadó létesítményrész), a tevékenységi szintjét egy adott naptári évben a létesítményrésznek
+kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest legalább 50%-kal csökkenti.
+(2) A működését részlegesen szüneteltető létesítmény számára történő kibocsátási egység kiosztást a működés
+részleges beszüntetésének évét követő évben, illetve ha a részleges beszüntetésre 2013. január 1-je előtt került
+sor, 2013-tól úgy kell kiigazítani, hogy ha a mérvadó létesítményrész tevékenységi szintje a kezdeti tevékenységi
+szinthez képest
+a) 50–75%-kal csökken, a létesítményrész az eredetileg megállapított kibocsátási egységek mennyiségének 50%-át
+kapja,
+b) 75–90%-kal csökken, a létesítményrész az eredetileg megállapított kibocsátási egységek mennyiségének 25%-át
+kapja,
+c) legalább 90%-kal csökken, az érintett létesítményrész számára nem osztható ki ingyenesen kibocsátási egység.
+(3) Ha a mérvadó létesítményrész tevékenységi szintje meghaladja a kezdeti tevékenységi szint 50%-át,
+a működését részlegesen szüneteltető létesítményrész a tevékenységi szint 50%-os küszöbe meghaladásának
+naptári évét követő évben a számára eredetileg kiosztott kibocsátási egységeket kapja meg.
+(4) Ha a mérvadó létesítményrész tevékenységi szintje meghaladja a kezdeti tevékenységi szint 25%-át,
+a működését részlegesen szüneteltető létesítményrész a tevékenységi szint 25%-os küszöbe meghaladásának
+naptári évét követő évben a számára eredetileg kiosztott kibocsátási egységek felét kapja meg.
+(5) A létesítmény üzemeltetője a részleges szüneteltetés napjától számított 30 napon belül köteles a létesítmény
+részleges szüneteltetését és annak mértékét jelenteni a hatóságnak. A bejelentés tartalmazza a részleges
+szüneteltetés kezdőnapjának megjelölését és az annak igazolására alkalmas dokumentumot. A részleges
+szüneteltetés kezdőnapja az azt megalapozó esemény bekövetkezésének a napja. A részleges szüneteltetést
+a miniszter részére a 3. § (1) bekezdésében meghatározott határidőben és módon kell jelenteni.
+(6) A miniszter a (2)–(4) bekezdéssel összhangban elkészíti a nemzeti kiosztási tábla módosítására vonatkozó
+javaslatát és benyújtja az Európai Bizottság részére.”
+15. §
+Az Ügkr. Vhr. 14. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az üzemeltető a kapacitás lényeges csökkentését az esemény bekövetkezésének napjától számított 45 napon
+belül úgy jelenti be a hatóságnak, hogy megadja a létesítményrésznek a hitelesített jelentős kapacitáscsökkentés
+utáni csökkentett kapacitását és beépített kapacitását. A jelentős kapacitáscsökkentést a miniszter részére
+a 3. § (1) bekezdésében meghatározott határidőben és módon kell jelenteni.”
+16. §
+Az Ügkr. Vhr. a következő 5/A. alcímmel egészül ki:
+„5/A. A légi jármű üzembentartó működésében bekövetkező változások
+14/A. § (1) Ha a légi jármű üzembentartó légiközlekedési tevékenysége megszűnik vagy a tevékenysége
+az Ügkr. tv. 1. § (3) és (4) bekezdése szerint kivételnek minősül, köteles azt a bejelentés alapjául szolgáló esemény
+bekövetkeztétől számított 30 napon belül bejelenteni – a Minisztérium honlapján közzétett módon – a miniszternek
+és a hatóságnak. A bejelentés tartalmazza az esemény napjának megjelölését és az annak igazolására alkalmas,
+cégszerű aláírással ellátott dokumentumot.
+(2) Ha a bezárás következtében a jegyzékkezelő a légi jármű üzembentartó forgalmi jegyzékben vezetett számláját
+lezárja, és az adott számlán a kibocsátási egységek pozitív egyenleget mutatnak, a jegyzékkezelő a bezárás
+bejelentésétől számított 30 napon belül felszólítja a számlatulajdonost egy olyan másik számla megnevezésére,
+amelyre ezeket a légiközlekedési kibocsátási egységeket át kívánja vezettetni. Ha a számlatulajdonos
+40 munkanapon belül nem válaszol a jegyzékkezelő felszólítására, akkor a jegyzékkezelő a kibocsátási egységeket
+a saját nemzeti folyószámlájára átvezeti.
+(3) Az érintett légi jármű üzembentartó a megszűnés vagy a kivétellé válás napjától számított 45 napon belül
+köteles a tárgyévi tevékenység folytatásának idejére vonatkozóan hitelesített jelentést tenni. Ha a bejelentés
+alapjául szolgáló eseményre január 1-je és március 1-je között kerül sor, akkor a tárgyévre vonatkozó jelentéstétel és
+a tárgyévet megelőző évre vonatkozó jelentéstétel együttesen teljesítendő.
+(4) A megszűnés alapjául szolgáló esemény napjáig fennálló nyomon követési, jelentéstételi kötelezettségét
+a légi jármű üzembentartónak a vonatkozó jogszabályok szerint teljesítenie kell. A tevékenység megszűnésének
+
+napjáig a kibocsátási egységek visszaadására vonatkozó kötelezettségét a légi jármű üzembentartónak legkésőbb
+a megszűnés napjától számított 45 napon belül teljesítenie kell.
+(5) A miniszter a bezárásra vonatkozó bejelentést követően gondoskodik a nemzeti légiközlekedési kiosztási tábla
+módosításáról.”
+17. §
+Az Ügkr. Vhr. 6. alcíme helyébe a következő rendelkezés lép:
+„6. A kibocsátás-csökkentési egység (ERU) és az igazolt kibocsátás-csökkentési egység (CER)
+beszámítása és átváltása
+15. § (1) Az Ügkr. tv. 29. §-a szerinti beszámítás és átváltás során – a (2) bekezdés szerinti kivétellel – a következő
+egységek használhatók fel:
+a) 2008. január 1. és 2012. december 31. között együttes végrehajtási vagy tiszta fejlesztési mechanizmus projekt
+révén elért kibocsátás-csökkentés alapján kiadott ERU és CER,
+b) 2013. január 1-je előtt bejegyzett, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve
+végrehajtási keretrendszeréről szóló 2007. évi LX. törvény szerinti együttes végrehajtási vagy tiszta fejlesztési
+mechanizmus projekt révén keletkező, 2013. január 1-je után elért kibocsátás-csökkentés alapján kiadott CER és
+ERU,
+c) olyan CER, melyet az ENSZ által meghatározott legkevésbé fejlett országokban 2013. január 1-je után megkezdett
+tiszta fejlesztési mechanizmus projektek által 2013. január 1-je után elért kibocsátás-csökkentés alapján adtak ki.
+Valamennyi, a közösségi rendszerben 2008–2012 közötti időszak során felhasználható projekttípusból származó
+CER-re vonatkozik, legkésőbb 2020-ig vagy az érintett országok és az Európai Unió közötti megállapodás
+ratifikálásáig,
+d) olyan, a projektekből vagy más kibocsátás-csökkentést eredményező tevékenységből származó egység,
+amely az Európai Unió és valamely harmadik ország között köttetett, a felhasználható mennyiségről rendelkező
+megállapodás alapján használható fel.
+(2) A harmadik kereskedési időszakban – a 23. § (1) bekezdésében foglalt kivétellel – nem használható fel
+a trifluor-metán (HFC-23) és az adipinsav-termelésből származó dinitrogén-oxid megsemmisítésére irányuló
+projektekből származó ERU és CER.
+(3) Az Ügkr. tv. 29. § (1) bekezdésében foglalt átváltás iránti kérelmet a Minisztérium honlapján közzétett adatlap
+felhasználásával kell benyújtani.”
+18. §
+Az Ügkr. Vhr. 17. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) A számlavezetési díjat a hatóságnak a Magyar Államkincstárnál vezetett 10032000-00287261-00000000 számú
+fizetési számlájára kell befizetni.
+(3) A forgalmi jegyzékhez kapcsolódó üzemeltetői számla, légijármű-üzemeltetői számla, közönséges
+ügyfélszámla, kereskedési számla, külső kereskedési platform számla, valamint árverési kézbesítőszámla esetében
+a számlavezetési díjat – a 18. §-ban meghatározott kivétellel – a számla tulajdonosa évente a tárgyév február 28-ig
+a hatóság által kiállított számla alapján, annak kézhezvételétől számított 30 napon belül köteles megfizetni.
+(4) A számlavezetési díjat átutalási megbízással kell teljesíteni vagy készpénz-átutalási megbízással postai úton kell
+befizetni, megjelölve a tárgyévet, valamint a kibocsátási engedély azonosítóját (ÜHG-engedély-azonosító).”
+19. §
+Az Ügkr. Vhr. 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A számlavezetési díjat, amennyiben a számla nyitására év közben kerül sor, a számla nyitásával egyidejűleg
+kiállított és a számlatulajdonos részére megküldött számla alapján, annak kézhezvételétől számított 30 napon belül
+kell befizetni.”
+20. § (1) Az Ügkr. Vhr. 20. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+„(5) Ha a hatóság a benyújtott éves hitelesített jelentésben foglaltak alapján megállapítja, hogy az üzemeltető
+a tárgyévben nem folytatott üvegházhatású gázkibocsátással járó tevékenységet, a hatóság az üzemeltetőt kötelezi
+a kiosztott kibocsátási egységmennyiségnek a határozat közlésétől számított 30 napon belül történő visszautalására.
+(6) Ha az üzemeltető a kibocsátási egységmennyiség (5) bekezdés szerinti visszautalására irányuló
+kötelezettségének határidőre nem tesz eleget, a hatóság az üzemeltetőt minden egyes jóváírt kibocsátási
+egységmennyiség után 100 eurónak megfelelő forintösszegű bírság egyszeri megfizetésére kötelezi.”
+
+(2) Az Ügkr. Vhr. 20. §-a a következő (8a) bekezdéssel egészül ki:
+„(8a) A (6)–(8) bekezdésben foglaltak nem alkalmazandók abban az esetben, ha az üzemeltető a bejelentési,
+visszautalási vagy visszaadási kötelezettségét önhibáján kívül nem teljesíti, és ezt igazolja.”
+21. §
+Az Ügkr. Vhr. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a számlatulajdonos a számlavezetési díj megfizetési kötelezettségének határidőben nem tesz eleget,
+késedelmi pótlékot köteles fizetni, a jegyzékkezelő pedig a számlához való hozzáférést felfüggeszti (a továbbiakban:
+zárolás). A jegyzékkezelő a zárolás tényéről értesíti az érintetteket.”
+22. §
+Az Ügkr. Vhr. 23. §-a helyébe a következő rendelkezés lép:
+„23. § (1) 2014. március 31-ig hitelesítőként olyan hitelesítő szervezet is eljárhat, amely rendelkezik a Nemzeti
+Akkreditáló Testület által kiállított dokumentummal arról, hogy az akkreditálás iránti kérelmet benyújtotta, és
+az igazgatási szolgáltatási díjat megfizette. Ez nem vonatkozik az Ügkr. tv. 10. § (1) és (2) bekezdése szerinti jelentés
+hitelesítésére, amelynek vonatkozásában kizárólag akkreditált hitelesítő szervezet járhat el.
+(2) Ha az üzemeltetők részére történő ingyenes kiosztás nem történik meg a 17. § (3) bekezdésében meghatározott
+határidőig, a hatóság a miniszter által az Európai Bizottsághoz jóváhagyásra benyújtott nemzeti kiosztási táblában
+szereplő kibocsátási egységmennyiséget alapul véve a 4. mellékletben meghatározott díjak 70%-ának megfelelő
+előlegszámlát jogosult kiállítani. 2013-ban a számítás alapját az Európai Bizottsághoz benyújtott Nemzeti
+Végrehajtási Intézkedés tervezetében foglalt kibocsátási egységmennyiségek képezik.
+(3) A számlatulajdonos az előlegszámla kézhezvételétől számított 30 napon belül köteles az előlegszámla alapján
+a számlavezetési díjelőleget megfizetni.
+(4) Az Európai Bizottság által jóváhagyott Nemzeti Végrehajtási Intézkedés közzétételét követő 20 napon belül
+a hatóság a jóváhagyott kibocsátási egységmennyiségeket alapul véve a 4. mellékletben foglaltak szerint
+a számlavezetési díjat meghatározza és végszámlát állít ki.
+(5) A számlatulajdonos a végszámla kézhezvételétől számított 30 napon belül köteles a végszámla alapján
+a számlavezetési díjat megfizetni.
+(6) Ha az előlegszámla alapján a számlatulajdonos által befizetett összeg a végszámlában meghatározott
+számlavezetési díj összegét meghaladja, a hatóság a végszámla kiállítását követő 15 napon belül a különbözetet
+a számlatulajdonos által megadott bankszámlaszámra visszautalja.”
+23. § (1) Az Ügkr. Vhr. 1. melléklete a 2. melléklet szerint módosul.
+(2) Az Ügkr. Vhr. 3. melléklete a 3. melléklet szerint módosul.
+(3) Az Ügkr. Vhr. 4. melléklete a 4. melléklet szerint módosul.
+(4) Az Ügkr. Vhr. az 5. melléklet szerinti 5. melléklettel egészül ki.
+24. §
+Az Ügkr. Vhr.
+a) 2. § (2) bekezdésében a„15 napon”szövegrész helyébe a„30 napon”,
+b) 2. § (3) bekezdésében a„15 napon”szövegrész helyébe a„30 napon”,
+c) 12. § (6) bekezdésében a„30 napon”szövegrész helyébe a„45 napon”,
+d) 12. § (7) bekezdésében a„b)–d) pontjában”szövegrész helyébe a„b)–e) pontjában”,
+e) 18. § (4) bekezdésében a„tizenöt napon”szövegrész helyébe a„15 napon”,
+f) 20. § (1) bekezdésében a „napi húszezertől százezer forintig” szövegrész helyébe a „napi 20 000-től
+100 000 forintig”,
+g) 20. § (3) bekezdésében az „ötvenezertől ötszázezer forintig” szövegrész helyébe az „50 000-től
+500 000 forintig”,
+h) 20. § (4) bekezdésében az „ötvenezertől ötszázezer forintig” szövegrész helyébe az „50 000-től
+500 000 forintig”,
+i) 20. § (7) bekezdés b) pont bb) alpontjában a„nem adja vissza”szövegrész helyébe a„nem utalja vissza”
+szöveg lép.
+25. §
+Hatályát veszti az Ügkr. Vhr. 8–10. §-a.
+
+4. Záró rendelkezések
+26. § (1) Ez a rendelet 2013. szeptember 15-én lép hatályba.
+(2) Ez a rendelet
+1. az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének
+létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai
+parlamenti és tanácsi irányelvnek,
+2. az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról
+szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projekt-mechanizmusára tekintettel történő
+módosításáról szóló, 2004. október 27-i 2004/101/EK európai parlamenti és tanácsi irányelvnek,
+3. a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli
+kereskedelmi rendszerének a légi közlekedésre történő kiterjesztése céljából történő módosításáról szóló,
+2008. november 19-i 2008/101/EK európai parlamenti és tanácsi irányelvnek,
+4. a 2003/87/EK irányelvnek az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi
+rendszerének továbbfejlesztése és kiterjesztése tekintetében történő módosításáról szóló, 2009. április 23-i
+2009/29/EK európai parlamenti és tanácsi irányelvnek
+való megfelelést szolgálja.
+(3) Ez a rendelet
+1. az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének
+létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok
+kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb
+vonatkozásairól szóló, 2010. november 12-i 1031/2010/EU bizottsági rendelet,
+2. a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak
+a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló,
+2011. április 27-i 2011/278/EU bizottsági határozat,
+3. a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására
+vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről,
+valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 600/2012/EU bizottsági rendelet,
+4. az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek
+megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet,
+5. az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének
+létrehozásáról szóló 2003/87/EK irányelvtől való ideiglenes eltérésről szóló, 2013. április 24-i 377/2013/EU
+európai parlamenti és tanácsi határozat
+végrehajtásához szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 329/2013. (IX. 3.) Korm. rendelethez
+1. Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek akkreditálásáról
+és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet 1. melléklet 2. sora helyébe a következő sor lép:
+(A (B
+Szakterület neve és száma) Akkreditálási alkalmazási kör)
+„2 Energetika 1a/1b Tüzelőanyagok olyan létesítményekben történő elégetése, amelyekben
+csak az üvegházhatást okozó gázok kibocsátásának
+a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő
+nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU
+bizottsági rendeletben meghatározott, kereskedelemben forgalmazott
+szabványos tüzelőanyagokat használnak, vagy olyan A vagy B kategóriájú
+létesítményekben, ahol földgázt használnak.”
+
+2. Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek akkreditálásáról
+és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet 1. melléklet 12. és 13. sora helyébe a következő sor lép:
+(A (B
+Szakterület neve és száma) Akkreditálási alkalmazási kör)
+„12 CO
+
+elkülönítés és szállítás 10 – Üvegházhatású gázoknak szállítás és a bányászatról szóló 1993. évi
+XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai
+tárolás céljából való elkülönítése olyan létesítményekben, amelyekre
+az üvegházhatású gázok közösségi kereskedelmi rendszerében és
+az erőfeszítés-megosztási határozat végrehajtásában történő részvételről
+szóló törvény hatálya kiterjed
+– Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény
+alapján engedélyezett tárolóhelyen történő geológiai tárolás céljából való
+csővezetékek révén történő szállítása
+13 CO
+
+geológiai tárolás 11 Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény
+alapján engedélyezett tárolóhelyen történő geológiai tárolása”
+3. Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek akkreditálásáról
+és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet 1. melléklete a következő 15. és 16. sorral egészül ki:
+(A (B
+Szakterület neve és száma) Akkreditálási alkalmazási kör)
+„15 98 egyéb Az üvegházhatású gázok közösségi kereskedelmi rendszerében és
+az erőfeszítés-megosztási határozat végrehajtásában történő részvételről
+szóló törvény szerinti egyéb tevékenységek
+16 99 egyéb Egyéb, a tagállam által a 2003/87/EK európai parlamenti és tanácsi
+irányelv 24. cikkének megfelelően felvett tevékenységek, amelyeket
+az akkreditálási okiratban kell részletesen meghatározni”
+2. melléklet a 329/2013. (IX. 3.) Korm. rendelethez
+1. Az Ügkr. Vhr. 1. melléklet A.3.3 pontja helyébe a következő rendelkezés lép:
+„A.3.3 A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza
+és annak leírása.”
+2. Az Ügkr. Vhr. 1. melléklet A.4. pont c) alpontja helyébe a következő rendelkezés lép:
+„c) C kategóriájú létesítmény 500 000 tCO
+
+(e)-nél nagyobb.”
+3. melléklet a 329/2013. (IX. 3.) Korm. rendelethez
+1. Az Ügkr. Vhr. 3. melléklet nyitó szövegrésze helyébe a következő rendelkezés lép:
+„A kibocsátási engedély az alábbiakat tartalmazza:”
+2. Az Ügkr. Vhr. 3. melléklet d) pontja helyébe a következő rendelkezés lép:
+„d) a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;”
+3. Az Ügkr. Vhr. 3. melléklet f) pontja helyébe a következő rendelkezés lép:
+„f) az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;”
+
+4. melléklet a 329/2013. (IX. 3.) Korm. rendelethez
+Az Ügkr. Vhr. 4. melléklet 2. pontja helyébe a következő rendelkezés lép:
+„2. A számlavezetési díj alapja üzemeltetői számla esetében
+Az üzemeltetői számla esetében a díjfizetés alapja a tárgyévre a létesítmény részére térítésmentesen kiosztott
+kibocsátási egység mennyisége [kibocsátási egységmennyiség (db)/év] létesítményenként, a nemzeti kiosztási
+táblával összhangban.”
+5. melléklet a 329/2013. (IX. 3.) Korm. rendelethez
+„5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez
+A kibocsátások nyomon követésére és jelentésére vonatkozó szabályok
+Egyes tüzelőanyagok országspecifikus értékei
+A) Ha a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus fűtőérték és kibocsátási tényező alkalmazását,
+az alábbi 1. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál. Ha a táblázatban nem
+szerepel az adott tüzelőanyag-típus, akkor a 601/2012/EU bizottsági rendelet VI. melléklet 1. pont 1. táblázatában
+szereplő értékeket kell figyelembe venni. Ha egy adott tüzelőanyagra sem az alábbi 1. táblázat, sem a 601/2012/EU
+bizottsági rendelet VI. melléklet 1. pont 1. táblázata nem tartalmaz vonatkozó értékeket, úgy azokat egyedileg kell
+meghatározni.
+1. táblázat: Országspecifikus tüzelőanyag fűtőértékek és kibocsátási tényezők (nem tartalmazza az oxidációs tényezőket)
+A B C D
+1 Tüzelőanyag megnevezése
+Tüzelőanyag kódjele
+(LAIR)
+Fűtőérték
+[MJ/kg]
+Kibocsátási tényező
+[tCO
+
+/TJ]
+2 Szilárd tüzelőanyagok
+3 Hazai feketeszén 17 24 94,6
+4 Import feketeszén 18 26 94,6
+5 Hazai barnaszén 12 12 96,1
+6 Import barnaszén 19 16 94,6
+7 Lignit 13 7 113,2
+8 Koksz 51 29,8 108,17
+9 Petrolkoksz 52 35 100,8
+10 Tűzifa és fahulladék 15 16 (109,63)b
+11 Biobrikett és egyéb bio
+tüzelőanyagok
+16 16 (109,63)b
+12 Brikett 53 21 94,6
+13 Cseppfolyós tüzelőanyagok
+14 Tüzelőolajok
+15 TÜ 5/20 tüzelőolaj 60 42 74,07
+16 Erőművi tüzelőolaj 61 42 74,07
+17 Gázturbina olaj (GTO) 61 42 74,07
+18 Fűtőolajok
+19 FA 60/80 extra könnyű fűtőolaj 70 41 77,37
+20 FA 60/120 fűtőolaj 71 41 77,37
+21 FA 60/130 fűtőolaj 72 41 77,37
+22 F 60/130 fűtőolaj 73 41 77,37
+23 F 90/160 fűtőolaj 74 40 77,37
+
+24 F 100/200 nehéz fűtőolaj 75 39,5 77,37
+25 FA 90/160 kis kéntartalmú fűtőolaj 76 40 77,37
+26 FA 100/200 nehéz fűtőolaj 77 39,5 77,37
+27 Egyéb cseppfolyós tüzelőanyagok
+28 Benzin 90 44 69,3
+29 Dízelolaj 90 42 74,07
+30 Gáznemű tüzelőanyagok
+31 Földgáz 31 34a 56,1
+32 PB-gáz 35 45,7 63,07
+33 LPG 37 45,7 63,07
+34 Kamragáz (kokszolásból) 33 17a 47,67
+35 Kohógáz 34 3,12a 242
+36 Biogáz 36 22,65a (54,9)b
+37 Csökkentett metántartalmú földgáz
+(inert gáz)c
+38 16,29a 56,1
+a A fűtőérték dimenziója nem MJ/kg, hanem MJ/Nm3
+b A tiszta biomassza tüzelőanyagokat nulla kibocsátási tényezővel kell figyelembe venni.
+c Az inert gázból eredő kibocsátás számításakor csak az inert gáz metántartalmából származó kibocsátásokkal
+kell számolni, az eredeti CO
+
+tartalmát a kibocsátás számításánál nem kell figyelembe venni.
+B) Amennyiben a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus oxidációs tényező alkalmazását,
+az alábbi, 2. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál.
+2. táblázat: Országspecifikus tüzelőanyag oxidációs tényezők
+A B
+1 Tüzelőanyag Oxidációs tényező
+2 Szilárd 0,99
+3 Folyékony 0,995
+4 Gáz 0,995
+ ”
+
+V. A Kormány tagjainak rendeletei
