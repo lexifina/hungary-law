@@ -1,6 +1,6 @@
 ## A hulladékgyűjtő udvarban begyűjthető hulladékok azonosító száma,
 
-## megnevezése[^5]
+## megnevezése[^8]
 
 ## 02 MEZŐGAZDASÁGI, KERTÉSZETI, VÍZKULTÚRÁS TERMELÉSBŐL, ERDŐGAZDASÁGBÓL, VADÁSZATBÓL, HALÁSZATBÓL, ÉLELMISZER-ELŐÁLLÍTÁSBÓL ÉS -FELDOLGOZÁSBÓL SZÁRMAZÓ HULLADÉKOK
 
@@ -264,4 +264,4 @@
 
 3. számú melléklet az 5/2002. (X. 29.) KvVM rendelethez
 
-[^5]: A melléklet a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet azonosító számait használja.
+[^8]: A melléklet a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet azonosító számait használja.

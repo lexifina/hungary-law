@@ -1,4 +1,4 @@
-## 2. § Hulladékgyűjtő udvar és gyűjtősziget a (maradék) kevert hulladék[^1] egyidejű begyűjtése mellett a közszolgáltatás részeként üzemeltethető.
+## 2. § Hulladékgyűjtő udvar és gyűjtősziget a (maradék) kevert hulladék[^2] egyidejű begyűjtése mellett a közszolgáltatás részeként üzemeltethető.
 
 3. § (1) A hulladékgyűjtő udvar, az átrakóállomás és a válogatómű létesítése külön jogszabály alapján telepengedély-köteles tevékenység.
 
@@ -20,4 +20,4 @@ e) a nyitvatartásra
 
 (4) A hulladékgyűjtő udvar, az átrakóállomás és a válogatómű hulladékforgalmáról külön jogszabály előírásai szerint nyilvántartást kell vezetni és adatszolgáltatást kell teljesíteni.
 
-[^1]: EWC 20 03 01.
+[^2]: EWC 20 03 01.

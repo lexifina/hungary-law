@@ -14,6 +14,8 @@ b) a konténerek és anyagok tárolására, valamint
 
 c) megfelelő méretű és teherbírású szilárd burkolattal ellátott teret kell kialakítani, amelynek minimális területe megegyezik a csarnok alapterületével.
 
-(4) A kész bálák tárolására fedett bálatároló építése szükséges, amelynek alapterülete ezer tonna kapacitásonként legalább 50 m2.
+(4)[^6] A kész bálák tárolására fedett bálatárolót kell építeni, amelynek alapterülete 1000 tonna kapacitásonként legalább 50 m2, vegyes hulladék esetén legalább 7 m2.
 
 (5) Az alkalmazandó személyzet száma a válogató munkahelyek (bokszok), illetve a munkahelyekhez vezető surrantók számának és távolságának függvénye.
+
+[^6]: A 24. § (4) bekezdése a 72/2013. (VIII. 27.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.
