@@ -266,19 +266,19 @@ Határidő: 2011.június 15.[^40]
 
 9.3. a közigazgatási és igazságügyi minisztert
 
-9.3.1. a Magyarországi Zsidó Örökség Közalapítvány,
+9.3.1.[^42]
 
-9.3.2. a Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány és
+9.3.2.[^43]
 
 9.3.3. a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítvány,
 
-9.3.4.[^42] a Magyar Nemzeti Üdülési Alapítvány,
+9.3.4.[^44] a Magyar Nemzeti Üdülési Alapítvány,
 
 9.4. a külügyminisztert
 
 9.4.1. a Demokrácia Központ Közalapítvány,
 
-9.5.[^43] az emberi erőforrások miniszterét
+9.5.[^45] az emberi erőforrások miniszterét
 
 9.5.1. a Közalapítvány a Budapesti Német Nyelvű Egyetemért,
 
@@ -294,23 +294,29 @@ Határidő: 2011.június 15.[^40]
 
 9.5.7. a Budapesti Osztrák Iskola Alapítvány,
 
-9.5.8.[^44] a Hajléktalanokért Közalapítvány
+9.5.8.[^46] a Hajléktalanokért Közalapítvány
 
 9.6. a nemzeti fejlesztési minisztert
 
-9.6.1.[^45]
+9.6.1.[^47]
 
 9.6.2. a Magyar Vállalkozásfejlesztési Alapítvány és
 
-9.6.3.[^46]
+9.6.3.[^48]
 
-9.7.[^47] a nemzetgazdasági minisztert
+9.7.[^49] a nemzetgazdasági minisztert
 
-9.7.1.[^48] a Magyar–Koreai Műszaki Együttműködési Központ Alapítvány,
+9.7.1.[^50] a Magyar–Koreai Műszaki Együttműködési Központ Alapítvány,
 
 9.8. a vidékfejlesztési minisztert
 
 9.8.1. az Agrár-Vállalkozási Hitelgarancia Alapítvány
+
+9.9.[^51] a Miniszterelnökséget vezető államtitkárt
+
+9.9.1. a Magyarországi Zsidó Örökség Közalapítvány,
+
+9.9.2. a Holocaust Dokumentációs Központ és Emlékgyűjtemény Közalapítvány
 
 tekintetében.
 
@@ -437,10 +443,13 @@ Határidő: 2011. február 28.
 [^39]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
 [^40]: Az 1169/2011. (V. 26.) Korm. határozat 5. pontjával megállapított szöveg.
 [^41]: A 9. pont 9.1.2. alpontját az 1152/2013. (III. 26.) Korm. határozat 1. pontja iktatta be.
-[^42]: A 9. pont 9.3.4. alpontját az 1692/2012. (XII. 29.) Korm. határozat 3. pontja iktatta be.
-[^43]: A 9. pont 9.5. alpontja az 1459/2012. (X. 19.) Korm. határozat 3. pontjával megállapított szöveg.
-[^44]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
-[^45]: A 9.6. pont 9.6.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^46]: A 9. pont 9.6.3. alpontját az 1152/2013. (III. 26.) Korm. határozat 2. pont a) alpontja hatályon kívül helyezte.
-[^47]: A 9.7. pontot az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte, újonnan az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
-[^48]: A 9.7. pont 9.7.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
+[^42]: A 9. pont 9.3. alpont 9.3.1. pontját az 1603/2013. (IX. 3.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^43]: A 9. pont 9.3. alpont 9.3.2. pontját az 1603/2013. (IX. 3.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^44]: A 9. pont 9.3.4. alpontját az 1692/2012. (XII. 29.) Korm. határozat 3. pontja iktatta be.
+[^45]: A 9. pont 9.5. alpontja az 1459/2012. (X. 19.) Korm. határozat 3. pontjával megállapított szöveg.
+[^46]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
+[^47]: A 9.6. pont 9.6.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^48]: A 9. pont 9.6.3. alpontját az 1152/2013. (III. 26.) Korm. határozat 2. pont a) alpontja hatályon kívül helyezte.
+[^49]: A 9.7. pontot az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte, újonnan az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
+[^50]: A 9.7. pont 9.7.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
+[^51]: A 9. pont 9.9. alpontját az 1603/2013. (IX. 3.) Korm. határozat 1. pontja iktatta be.
