@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-145-20-
 | --- | --- | --- |
 | 2013-01-01 | 2012-145-20-2Y.1 | 145/2012. (XII. 27.) VM rendelet |
 | 2013-01-02 | 2012-145-20-2Y.2 | 2010: CXXX. törvény |
+| 2013-09-04 | 2012-145-20-2Y.3 | 72/2013. (VIII. 27.) VM rendelet |

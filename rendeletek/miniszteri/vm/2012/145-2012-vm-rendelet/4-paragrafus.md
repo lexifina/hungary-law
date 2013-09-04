@@ -4,6 +4,8 @@
 
 a) a hulladékolaj kezelésére vonatkozó hulladékgazdálkodási engedéllyel rendelkező hulladékkezelőnek átadja, vagy
 
-b) olyan hulladékgyűjtő udvarba vagy átvételi helyre szállítja, ahol a hulladékolaj átvételét és gyűjtését jogszerűen végzik.
+b)[^1] olyan speciális gyűjtőhelyre, hulladékgyűjtő udvarba vagy átvételi helyre szállítja, ahol a hulladékolaj átvételét és gyűjtését jogszerűen végzik.
 
 (2) A hulladékolaj gyűjtése, tárolása, szállítása, kereskedelme, közvetítése, előkezelése, hasznosítása és ártalmatlanítása – az e rendeletben foglalt eltérésekkel – a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet szerint végezhető.
+
+[^1]: A 4. § (1) bekezdés b) pontja a 72/2013. (VIII. 27.) VM rendelet 9. §-a szerint módosított szöveg.
