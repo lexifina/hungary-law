@@ -1,4 +1,4 @@
-85. §[^361] (1) A miniszter a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
+85. §[^364] (1) A miniszter a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért, a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért, valamint a területfejlesztésért való felelőssége körében:
 
 a) összehangolja a központi államigazgatási szervek országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
@@ -40,4 +40,4 @@ dd) a Nemzeti Fejlesztési Programiroda Nonprofit Kft. és
 
 de) a Regionális Fejlesztési Holding Zrt.
 
-[^361]: A 85. § a 271/2013. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^364]: A 85. § a 271/2013. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.

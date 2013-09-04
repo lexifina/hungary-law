@@ -1,6 +1,6 @@
-## 26/A. §[^104] A Kormány az európai területi együttműködési csoportosulással kapcsolatos jóváhagyási eljárás lefolytatására hatáskörrel rendelkező szervként a minisztert jelöli ki.
+## 26/A. §[^107] A Kormány az európai területi együttműködési csoportosulással kapcsolatos jóváhagyási eljárás lefolytatására hatáskörrel rendelkező szervként a minisztert jelöli ki.
 
-## 27. §[^105] A közigazgatási és igazságügyi miniszter a választójogi és népszavazási szabályozásért való felelőssége körében ellátja
+## 27. §[^108] A közigazgatási és igazságügyi miniszter a választójogi és népszavazási szabályozásért való felelőssége körében ellátja
 
 a) az országgyűlési képviselők választásáról,
 
@@ -14,5 +14,5 @@ e) az országos népszavazásról, az országos népi kezdeményezésről,
 
 f) a helyi népszavazásról és a helyi népi kezdeményezésről
 
-[^104]: A 26/A. §-t a 283/2010. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^105]: A 27. § a 150/2013. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^107]: A 26/A. §-t a 283/2010. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^108]: A 27. § a 150/2013. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.

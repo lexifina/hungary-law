@@ -1,8 +1,8 @@
-## 117. §[^472] A miniszter irányítja:
+## 117. §[^475] A miniszter irányítja:
 
-a)[^473]
+a)[^476]
 
 b) a Magyar Külügyi Intézetet.
 
-[^472]: A 117. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (72) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
-[^473]: A 117. § a) pontját a 162/2012. (VII. 19.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^475]: A 117. § nyitó szövegrésze a 267/2010. (XII. 3.) Korm. rendelet 40. § (72) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 47. §-át.
+[^476]: A 117. § a) pontját a 162/2012. (VII. 19.) Korm. rendelet 4. §-a hatályon kívül helyezte.

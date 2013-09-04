@@ -1,6 +1,6 @@
 ## XI. Fejezet
 
-## A KÜLÜGYMINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE[^455]
+## A KÜLÜGYMINISZTER SZAKPOLITIKAI FELADAT- ÉS HATÁSKÖRE[^458]
 
 ## 114. § A külügyminiszter (e fejezet alkalmazásában a továbbiakban: miniszter) a Kormány
 
@@ -8,7 +8,7 @@ a) külpolitikáért és
 
 b) az európai integrációs ügyekért
 
-c)[^456]
+c)[^459]
 
-[^455]: A XI. Fejezet címe a 267/2010. (XII. 3.) Korm. rendelet 41. § (46) bekezdése szerint módosított szöveg.
-[^456]: A 114. § c) pontját a 267/2010. (XII. 3.) Korm. rendelet 36. §-a iktatta be, hatályon kívül helyezte a 162/2012. (VII. 19.) Korm. rendelet 4. §-a.
+[^458]: A XI. Fejezet címe a 267/2010. (XII. 3.) Korm. rendelet 41. § (46) bekezdése szerint módosított szöveg.
+[^459]: A 114. § c) pontját a 267/2010. (XII. 3.) Korm. rendelet 36. §-a iktatta be, hatályon kívül helyezte a 162/2012. (VII. 19.) Korm. rendelet 4. §-a.
