@@ -1,0 +1,1 @@
+A Kormány megállapítja, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1155/2013. (III. 26.) Korm. határozat 1. pontjában meghatározott határidőtől eltérően, az elszámolás és a visszatérítési kötelezettség tekintetében a 2014. május 31. határidőt kell alkalmazni.
