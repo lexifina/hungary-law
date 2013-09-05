@@ -1,0 +1,1 @@
+## 5. § A szakhatósági állásfoglalást két példányban kell elkészíteni és iktatószámmal, keltezéssel, aláírással, valamint bélyegző-lenyomattal kell ellátni. A szakhatósági állásfoglalás egyik példányát meg kell küldeni az engedélyező hatóságnak, míg a másik példányt – a felülvizsgálati kötelezettségre figyelemmel – 3 évig meg kell őrizni.

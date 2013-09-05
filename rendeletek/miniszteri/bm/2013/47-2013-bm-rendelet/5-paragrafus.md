@@ -1,0 +1,1 @@
+## 4. § A szakhatóságnál rendelkezésére álló adatok és a szemle során beszerzett adatok alapján a szakhatósági állásfoglalásban rögzíteni kell a személy- és vagyonbiztonsággal összefüggésben érvényesíthető feltételeket, egyedi előírásokat, kockázati tényezőket és azok részletes indokolását.
