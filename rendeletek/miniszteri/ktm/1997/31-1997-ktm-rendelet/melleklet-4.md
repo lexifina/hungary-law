@@ -38,8 +38,10 @@
 
 ## 013/4/b–d, 045/12-ből 42 C erdőrészlet, 045/13, 045/14, 045/15-ből 39 A erdőrészlet, 045/20-ból 50 D erdőrészlet, 045/23-ból 45 D erdőrészlet
 
-4. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez
+4. számú melléklet a 31/1997. (IX. 23.) KTM rendelethez[^5]
 
 ## A Balaton-felvidéki Nemzeti Park fokozottan védett területének ingatlan-nyilvántartási helyrajzi számai és erdőgazdasági üzemtervi jelei
 
 II. A korábban fokozottan védetté nyilvánított területek
+
+[^5]: A 4. számú melléklet a 73/2013. (VIII. 28.) VM rendelet 2. § (2) bekezdése szerint módosított szöveg.

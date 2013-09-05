@@ -96,7 +96,7 @@
 
 ## Nagyrada
 
-## 08/2/a–g, 08/6/a–h, 08/7–8, 08/9/a–j, 08/10, 08/11/a–c[^4]
+## 08/2/a–g, 08/6/a–h, 08/7–8, 08/9/a–j, 08/10, 08/11/a–c[^6]
 
 ## Nemesgulács
 
@@ -104,7 +104,7 @@
 
 ## Örvényes
 
-## 075/3, 076/7, 077/1
+## 075/3, 076/7, 077-ből az E557053, N174798; E557477, N174760 EOV koordináták által kijelölt vonaltól ÉK-re elhelyezkedő 12,86 hektár kiterjedésű területrész
 
 ## Pécsely
 
@@ -132,11 +132,11 @@
 
 ## Tapolca
 
-## 027, 027/a–b, 0584, 6564–6570[^5]
+## 027, 027/a–b, 0584, 6564–6570[^7]
 
 ## Tihany
 
-## 035/1–2, 039/5–6, 039/8, 050, 061/1, 062, 0140/1
+## 035/1–2, 039/5–6, 039/8, 061/1, 062, 0140/16/a-ból az E557477, N174760; E558642, N174655 EOV koordináták által kijelölt vonaltól É-ra elhelyezkedő, 52,84 hektár kiterjedésű területrész, 0140/16/n
 
 ## Vászoly
 
@@ -214,5 +214,5 @@
 
 (Nemesvita Települési Önkormányzat Képviselő-testülete 5/1996. (VII. 4.) számú rendelete Nemesvita Települési Önkormányzat Közigazgatási területén lévő műemlékek és természeti értékek védelméről.]
 
-[^4]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
-[^5]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
+[^6]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
+[^7]: A Magyar Közlöny 1997. évi 105. számában közzétett helyesbítésnek megfelelő szöveg.
