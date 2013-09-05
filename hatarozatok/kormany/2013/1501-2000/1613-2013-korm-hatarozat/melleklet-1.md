@@ -1,0 +1,109 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében, valamint a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 25. § (18) bekezdésében biztosított jogkörében eljárva a választási eljárással összefüggő egyes közfeladatok ellátásában bekövetkezett szervezeti változásra figyelemmel 30 116 ezer forint tartós jellegű átcsoportosítását rendeli el a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 1. Közigazgatási és Igazságügyi Minisztérium igazgatása cím terhére, a Kvtv. 1. melléklet I. Országgyűlés fejezet, 24. Nemzeti Választási Iroda cím, 1. Nemzeti Választási Iroda alcím javára az 1. melléklet szerint.
+
+## Felelős: közigazgatási és igazságügyi miniszter
+
+## Nemzeti Választási Iroda elnöke
+
+## nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1613/2013. (IX. 5.) Korm. határozathoz
+
+I. Országgyűlés
+
+X. Közigazgatási és Igazságügyi Minisztérium
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| ezer forintban |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | I. |  |  |  |  |  |  | Országgyűlés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 24 |  |  |  |  |  |  | Nemzeti Választási Iroda |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 341673 |  |  | 1 |  |  |  |  |  |  | Nemzeti Választási Iroda |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 23 201 | 46 349 |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  | 6 126 | 12 206 |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 789 | 708 |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000505 |  | 1 |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | -23 201 | -46 349 |  |  |
+
+|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  | -6 126 | -12 206 |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -789 | -708 |  |  |
+
+| Az előirányzatmódosítás érvényessége: b.) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | I. |  |  |  |  |  |  | Országgyűlés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 24 |  |  |  |  |  |  | Nemzeti Választási Iroda |  |  |  |  |  |  |  |  |  |  | 30 116 | 59 263 |  |  |
+
+| 341673 |  |  | 1 |  |  |  |  |  |  | Nemzeti Választási Iroda |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000505 |  | 1 |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  | -30 116 | -59 263 |  |  |
+
+| Az előirányzatmódosítás érvényessége: b.) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  | 18 070 |  |  |  |  |  |  |  |  |  |  |  | 18 070 |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnali |  |  |  | 12 046 |  |  |  |  |  |  |  |  |  |  | 12 046 |  |
+
+| Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
