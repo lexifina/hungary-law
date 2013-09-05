@@ -1,1 +1,3 @@
-## „(4) A kész bálák tárolására fedett bálatárolót kell építeni, amelynek alapterülete 1000 tonna kapacitásonként legalább 50 m2, vegyes hulladék esetén legalább 7 m2.”
+7. §[^2]
+
+[^2]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

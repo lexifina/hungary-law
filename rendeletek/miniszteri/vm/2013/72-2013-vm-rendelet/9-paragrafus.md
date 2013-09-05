@@ -1,1 +1,3 @@
-## 8. § A 144/2012. (XII. 27.) VM rendelet 8. § (3) bekezdésében a „,05%” szövegrész helyébe a „<0,05%” szöveg lép.
+9. §[^4]
+
+[^4]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

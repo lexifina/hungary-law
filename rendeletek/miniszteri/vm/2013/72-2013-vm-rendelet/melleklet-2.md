@@ -1,5 +1,7 @@
 ## A hulladékjegyzék főcsoportjai
 
+## 3K66222_0
+
 | A | B |
 
 | Azonosító kód főcsoport száma: | A hulladékjegyzék főcsoportjainak megnevezése: |

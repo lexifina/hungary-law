@@ -1,5 +1,7 @@
 ## A hulladékjegyzék főcsoportjai, alcsoportjai és az egyes hulladéktípusok
 
+## 3K66223_0
+
 | A | B | C |
 
 | Azonosító kód: | A hulladéktípus megnevezése: |
