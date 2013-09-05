@@ -1,1 +1,3 @@
-8. § Hatályát veszti a hivatásos és szerződéses katonák, valamint a közalkalmazottak étkezési utalvánnyal való ellátásáról szóló 14/2012. (VII. 30.) HM rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
