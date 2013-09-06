@@ -1,0 +1,1 @@
+## 14. § Az állam nevében eljáró szerv a szerződést a pályázat nyertesével köti meg a 6. § (4) bekezdése szerinti közzétételtől számított 60 napon belül. A pályázat eredményeként megkötendő szerződéssel kapcsolatos költségek az állam nevében eljáró szervvel szerződő felet terhelik.
