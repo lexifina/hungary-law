@@ -16,6 +16,8 @@
 
 ## Határidő: 2013. november 15.
 
-## 6. visszavonja az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról, az Elektronikus Közigazgatás Operatív Program 2009–2010. évekre szóló akciótervében szereplő egy konstrukció címének és szakmai tartalmának módosításáról, valamint kiemelt projektek nevesítésének módosításáról, az Elektronikus Közigazgatás Operatív Programmal összefüggő tartalék támogatási konstrukciókról szóló 1472/2013. (VII. 24.) Korm. határozat 1–4. pontját, valamint 1. és 2. mellékletét.
+## 6.[^1]
 
 1. melléklet az 1626/2013. (IX. 5.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
