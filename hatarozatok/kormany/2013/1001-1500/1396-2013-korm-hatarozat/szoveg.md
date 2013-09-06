@@ -16,19 +16,9 @@ Felelős: az egyes kiemelt jelentőségű budapesti beruházásokért felelős k
 
 Határidő: folyamatos, az előterjesztés elkészítése vonatkozásában 2013. július 31.
 
-3. egyetért azzal, hogy az építtetői feladatokat a Magyar Nemzeti Vagyonkezelő Zrt. lássa el azzal, hogy a Beruházással kapcsolatban biztosítani szükséges az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1351/2011. (X. 20.) Korm. határozat (a továbbiakban: H.) 3. pontjában foglaltak érvényesülését;
+3.[^1]
 
-Felelős: nemzeti fejlesztési miniszter
-
-az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
-
-Határidő: folyamatos
-
-4. egyetért azzal, hogy a Beruházást a Magyar Nemzeti Vagyonkezelő Zrt. a MÁV Magyar Államvasutak Zrt.-vel mint a Józsefvárosi pályaudvar tulajdonosával kötendő hosszú távú bérleti szerződés keretében bérlői beruházás formájában valósítsa meg;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: a bérleti szerződés megkötésére 2013. július 31.
+4.[^2]
 
 5. felhívja a belügyminisztert és az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztost, hogy a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény alapján a beruházással összefüggő hatósági ügyek nemzetgazdasági szempontból kiemelt üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről nyújtson be előterjesztést a Kormányhoz;
 
@@ -58,6 +48,8 @@ Határidő: azonnal
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
-10.[^1]
+10.[^3]
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pontot az 1621/2013. (IX. 5.) Korm. határozat 9. pontja hatályon kívül helyezte.
+[^2]: A 4. pontot az 1621/2013. (IX. 5.) Korm. határozat 9. pontja hatályon kívül helyezte.
+[^3]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
