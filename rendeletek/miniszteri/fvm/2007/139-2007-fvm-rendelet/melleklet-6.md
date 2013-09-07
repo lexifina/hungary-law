@@ -14,7 +14,7 @@
 
 ## 7. Csatolandó mellékletek
 
-6. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^64]
+6. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^66]
 
 |  | A | B | C |
 
@@ -60,4 +60,4 @@
 
 | 6. | Összesen: |  | 4 800,00 |
 
-[^64]: A 6. számú mellékletet a 111/2012. (X. 29.) VM rendelet 4. §-a iktatta be.
+[^66]: A 6. számú mellékletet a 111/2012. (X. 29.) VM rendelet 4. §-a iktatta be.

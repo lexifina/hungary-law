@@ -18,7 +18,7 @@
 
 ## 3.3. az érintett termékpályán működő, olyan államilag elismert termelői csoport, BÉSZ, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal működik;
 
-## 3.4.[^57]
+## 3.4.[^59]
 
 ## 3.5. megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok feltételeinek;
 
@@ -54,18 +54,18 @@
 
 ## 7.7. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
 
-## 7.8.[^58] A naposkori letelepítés darabszámát és az átminősítéskori állatlétszámot, valamint annak időpontját tartalmazó kezelő állatorvosi igazolás az 1. § (5) bekezdés szerint.
+## 7.8.[^60] A naposkori letelepítés darabszámát és az átminősítéskori állatlétszámot, valamint annak időpontját tartalmazó kezelő állatorvosi igazolás az 1. § (5) bekezdés szerint.
 
-## 7.9.[^59]
+## 7.9.[^61]
 
 ## 7.10. Szakmai Ellenőrzési Lap a 2. § (5) bekezdés szerint.
 
-## 7.11.[^60]
+## 7.11.[^62]
 
-3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^61]
+3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^63]
 
-[^57]: A 2. számú melléklet 3.4. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
-[^58]: A 2. számú melléklet 7.8. pontja a 80/2012. (VII. 30.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^59]: A 2. számú melléklet 7.9. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
-[^60]: A 2. számú melléklet 7.11. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
-[^61]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^59]: A 2. számú melléklet 3.4. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^60]: A 2. számú melléklet 7.8. pontja a 80/2012. (VII. 30.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^61]: A 2. számú melléklet 7.9. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^62]: A 2. számú melléklet 7.11. pontját a 80/2012. (VII. 30.) VM rendelet 10. §-a hatályon kívül helyezte.
+[^63]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
