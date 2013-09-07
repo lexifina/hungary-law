@@ -70,7 +70,7 @@ g)[^15] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságn
 
 (9)[^17] Az MVH a támogatási évet követő évben, a szükséges forrás igazolt rendelkezésre állását követően intézkedik a támogatás kifizetéséről.
 
-(9a)[^18] A (9) bekezdéstől eltérően a 2012. I., II. és III. negyedévre vonatkozó jogos igények kifizetésére az eljárások lezárása esetén 2012. évben kerül sor.
+(9a)[^18] A (9) bekezdéstől eltérően a 2013. év I., II. és – a 2013. évben elsőfokú döntéssel lezárt – III. negyedévére vonatkozó jogos igények kifizetésére 2013. évben kerül sor.
 
 (10)[^19] A beérkezett összes igényről, a jóváhagyott igényekről és a kifizetett támogatásról az MVH havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek.
 
@@ -87,6 +87,6 @@ g)[^15] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságn
 [^15]: A 2. § (7) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 82. § c) pontja szerint módosított szöveg.
 [^16]: A 2. § (8) bekezdését az 56/2009. (IV. 29.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege a 19/2010. (III. 11.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
 [^17]: A 2. § (9) bekezdését az 56/2009. (IV. 29.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege a 111/2012. (X. 29.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^18]: A 2. § (9a) bekezdését a 111/2012. (X. 29.) VM rendelet 6. § (2) bekezdése iktatta be.
+[^18]: A 2. § (9a) bekezdését a 111/2012. (X. 29.) VM rendelet 6. § (2) bekezdése iktatta be, szövege a 75/2013. (IX. 6.) VM rendelet 5. §-ával megállapított szöveg.
 [^19]: A 2. § (10) bekezdését az 56/2009. (IV. 29.) FVM rendelet 2. § (2) bekezdése iktatta be.
 [^20]: A 2. § (11) bekezdését a 19/2010. (III. 11.) FVM rendelet 9. § (3) bekezdése iktatta be. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
