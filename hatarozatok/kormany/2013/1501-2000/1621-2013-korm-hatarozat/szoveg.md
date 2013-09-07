@@ -52,4 +52,6 @@ Határidő: 2013. szeptember 30.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9. Hatályát veszti a Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ létrehozásáról szóló 1396/2013. (VII. 2.) Korm. határozat 3. és 4. pontja.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
