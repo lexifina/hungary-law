@@ -33,3 +33,15 @@ g) a menetdíj, a menetdíj-különbözet vagy a pótdíj megfizetését megtaga
 (5) A vasúti társaság a (2)–(3) bekezdésben foglaltak ellenére is köteles biztosítani a továbbutazás lehetőségét az útközben orvosi ellátásra szoruló személy részére a legközelebbi olyan állomásig, ahol a szükséges egészségügyi ellátásban részesülhet.
 
 (6) A vonatról a neki felróható rendellenes magatartása miatt a (3) bekezdés alapján a személyszállításból kizárt utas nem követelheti vissza a kifizetett menetdíjat vagy egyéb díjat, és feladott útipoggyásza kiszolgáltatását is csak az eredeti célállomáson kérheti.
+
+(7)[^16] A vasúti társaság üzletpolitikai kedvezménnyel igénybe vehető személyszállítási szolgáltatásnál
+
+a) az utazás megszakítására,
+
+b) az utazás megkezdése napjának szabad megválasztására,
+
+c) az utazás útirányának szabad megválasztására,
+
+d) a menetjegy visszaváltására
+
+[^16]: A 10. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 10. §-a iktatta be.

@@ -1,17 +1,21 @@
 ## A vasúti társaság felelőssége a szerződésszegéssel okozott károkért
 
-16. § (1)[^5] Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására késéssel történő érkezése esetén a vasúti társaság köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.
+16. § (1)[^25] Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására 5 percet meghaladó késéssel történő érkezése esetén a vasúti társaság a (6) bekezdésben foglaltak kivételével köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.
 
 (2) Nem minősül járatkimaradásnak vagy késésnek, ha az utasok továbbszállításáról a vasúti társaság oly módon gondoskodott, vagy arra más vonattal lehetőség volt úgy, hogy az utas vonatkimaradás esetében 180 percet, a vonat késése esetén 30 percet meg nem haladó késéssel a célállomására megérkezzék.
 
-(3) A kártérítés összege nem haladhatja meg az utas menetjegye árának:
+(3)[^26] A kártérítés összege nem haladhatja meg a (4) bekezdés szerinti kártérítési összeg alapjának
 
 a) vonat kimaradása esetén a tizenötszörösét,
 
-b) 30 percet meghaladó késés esetében az ötszörösét.
+b) 5 percet meg nem haladó késés esetében egyszeresét, 5 perc és 30 perc közötti késés esetében háromszorosát, 30 perc vagy azt meghaladó időtartamú késés esetében az ötszörösét.
 
 (4) A kártérítési összeg alapja vonatkésés esetében az utas által a késett vonattal megtett útra eső, vonatkimaradás esetében a kimaradt vonattal megtenni szándékozott útra eső, az utas által igénybe vett kedvezménynek megfelelő belföldi, egy útra szóló menetjegy ára. Ha az utas többszöri utazásra jogosító menetjeggyel rendelkezik, a kártérítési összeg alapja a késett vagy kimaradt vonattal megtett vagy megtenni szándékozott útra eső, hasonló mértékű kedvezménynek megfelelő belföldi, egy útra szóló menetjegy ára.
 
 (5) A kártérítési igény elbírálásával kapcsolatos részletes szabályokat – ideértve a kárigény-bejelentés helyét, a kártérítés jogalapját alátámasztó dokumentumok körét és a vonatkozó eljárási szabályokat – a vasúti társaság az üzletszabályzatában határozza meg.
 
-[^5]: A 16. § (1) bekezdése a 25. § (2) bekezdésével megállapított szöveg.
+(6)[^27] Ha a (3) bekezdésben meghatározott kártérítés összege az 1000 forintot nem haladja meg, a vasúti társaság kártérítés fizetésére nem köteles. Ha a vasúti társaság úgy dönt, hogy az 1000 forintot el nem érő kártérítést is megfizeti, ezt a tényt az üzletszabályzatában rögzíteni köteles.
+
+[^25]: A 16. § (1) bekezdése a 25. § (2) bekezdésével megállapított, a 328/2013. (IX. 3.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^26]: A 16. § (3) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^27]: A 16. § (6) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 13. § (2) bekezdése iktatta be.

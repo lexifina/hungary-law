@@ -1,6 +1,6 @@
 ## Előzetes kifizetés az utas halála vagy súlyos sérülése esetén
 
-4. § (1)[^2] Az EK rendelet 13. cikkének alkalmazása szempontjából
+4. § (1)[^6] Az EK rendelet 13. cikkének alkalmazása szempontjából
 
 a) az utas halála esetén a vasúti társaság által kifizetendő kártérítés mértéke a halál napján hivatalos, a Magyar Nemzeti Bank által meghatározott középárfolyam szerint számított forint összege,
 
@@ -16,4 +16,4 @@ b) a vonaton tartózkodott és érvényes menetjeggyel, vagy utazási igazolván
 
 c) a vonaton tartózkodott, de a 11. § (7) bekezdésben foglaltak alapján nem rendelkezett érvényes menetjeggyel.
 
-[^2]: A 4. § (1) bekezdését a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2014. december 3. napjával.
+[^6]: A 4. § (1) bekezdését a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2014. december 3. napjával.

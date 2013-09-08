@@ -1,4 +1,4 @@
-## 14. § A vasúti társaság az utazás közbeni tájékoztatási kötelezettségének információs tábla vagy hangosbemondó alkalmazásával, ennek hiányában élőszóval tesz eleget.
+## 14. §[^24]
 
 ## Eltérő minőségű szolgáltatás
 
@@ -7,3 +7,5 @@
 (2) Ha a vasúti társaság azonos vagy magasabb minőségű szolgáltatást nem tud felajánlani vagy teljesíteni, és az utas az alacsonyabb minőségű szolgáltatást elfogadja, a menetjegyen feltüntetett és a ténylegesen teljesített szolgáltatás menetdíj-különbözetét a vasúti társaság az utas részére visszatéríti.
 
 (3) Ha az utas az eltérő minőségű szolgáltatást nem fogadja el és a szerződéstől eláll, a vasúti társaság a menetdíjat visszafizeti, továbbá a lemondás tényéről és okáról igazolást ad.
+
+[^24]: A 14. §-t és az azt megelőző alcím címét a 328/2013. (IX. 3.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
