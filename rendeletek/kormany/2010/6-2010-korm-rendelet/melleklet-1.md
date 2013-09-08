@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel együtt – a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-i 1371/2007/EK európai parlamenti és tanácsi rendelet 12. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet a 6/2010. (I. 21.) Korm. rendelethez
+1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^10]
 
 ## Vasúti társaságokra irányadó fedezeti összeghatárok
 
@@ -62,14 +62,14 @@ de legalább 5 millió forint, ha a vasúti társaság a tevékenységét 12 hó
 
 legalább 3 millió forint, ha a vasúti társaság a tevékenységét 8 hónap (240 nap) időtartamig;
 
-legalább 1.5 millió forint, ha a vasúti társaság a tevékenységét 4 hónap (120 nap) időtartamig
-
-folytatja,
+legalább 1,5 millió forint, ha a vasúti társaság a tevékenységét 4 hónap (120 nap) időtartamig folytatja,
 
 ahol az
 
 ST = az adott térségi vasúti pályahálózaton a nem vasúti balesetből eredő felelősségi károk fedezeti összeghatára az aktuális évben,
 
-el = az aktuális évben tervezett utaslétszám.
+stl = az aktuális évben tervezett utaslétszám.
 
-Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetén összesen 1 millió forint.
+Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetében összesen 1 millió forint.
+
+[^10]: Az 1. melléklet a 328/2013. (IX. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.

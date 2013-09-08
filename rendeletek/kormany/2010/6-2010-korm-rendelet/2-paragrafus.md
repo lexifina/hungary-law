@@ -1,4 +1,4 @@
-## 1. § E rendelet meghatározza a vasúti személyszállítási tevékenységet végző vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó nem vasúti balesetből eredő károk, valamint a vasúti személyszállítási szerződésszegésből adódó igazolt károk megtérítésére való alkalmasságával kapcsolatos követelményeket.
+## 1. §[^1] E rendelet meghatározza az országos, – a turistavasút kivételével – a térségi, az elővárosi, valamint a helyi vasúti személyszállítási tevékenységet végző vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó nem vasúti balesetből eredő károk, valamint a vasúti személyszállítási szerződésszegésből adódó igazolt károk megtérítésére való alkalmasságával kapcsolatos követelményeket.
 
 2. § (1) A rendeletben – a (2) bekezdésben meghatározott kiegészítésekkel – a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról szóló kormányrendeletben meghatározott fogalmakat kell alkalmazni.
 
@@ -15,3 +15,5 @@ d) vonatkimaradás: járat megszűnése esetén azonos vasúti társaság másik
 e) késés: az utast a vasúti társaság igénybe vett járata a célállomásra a menetrendben meghirdetett érkezési időhöz képest több mint 30 perccel később tudja csak eljuttatni és ezt a tényt a vasúti társaság igazolja;
 
 f) integrál (eléréses) önrészesedés: a kárnak az a része, amit a vasúti társaság visel, ha a kár nagysága nem éri el az e rendeletben megadott értéket; amennyiben a kár a megadott értéket meghaladja, úgy az egész kár összegét a biztosító viseli.
+
+[^1]: Az 1. § a 328/2013. (IX. 3.) Korm. rendelet 18. §-ával megállapított szöveg.
