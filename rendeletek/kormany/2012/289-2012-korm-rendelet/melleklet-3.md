@@ -6,7 +6,7 @@
 
 ## b) amennyiben jogszabály előírja, független tanúsító szervezet tanúsítása;
 
-## c) amennyiben független tanúsító szervezet tanúsítása nem előírt, mérési eredményeken, bizonylatokon, minőségi bizonyítványokon alapuló összefoglaló jelentés arról, hogy megvalósult vasúti építmény műszaki paraméterei az engedélyezési dokumentációban előírt feltételeknek megfelel (a jelentésnek ki kell terjednie a rendszerelemek, alrendszerek, strukturális alrendszerek, építési termékek megfelelőségére és minőségére vonatkozó értékelésére);
+## c)[^4] amennyiben független tanúsító szervezet tanúsítása nem előírt, mérési eredményeken, bizonylatokon, minőségi bizonyítványokon alapuló összefoglaló jelentés arról, hogy megvalósult vasúti építmény műszaki paraméterei az engedélyezési dokumentációban előírt feltételeknek megfelelnek (a jelentésnek ki kell terjednie a rendszerelemek, alrendszerek, strukturális alrendszerek megfelelőségére és minőségére vonatkozó értékelésére, valamint az építési termékek teljesítményére);
 
 ## d) a vágányok melletti és fölötti létesítményeknek a vágánytengelytől és a sínkorona-szinttől mért távolságait, valamint a szabadon tartott tér felmérését tartalmazó jegyzőkönyv;
 
@@ -283,3 +283,5 @@ a) helyszínrajz alaprajz;
 b) területrendezésre és újrahasznosításra vonatkozó tervek;
 
 c) műszaki leírás.
+
+[^4]: A 2. melléklet 1. pont c) alpontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.

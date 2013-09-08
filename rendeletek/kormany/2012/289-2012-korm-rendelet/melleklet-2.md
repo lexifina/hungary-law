@@ -12,7 +12,7 @@
 
 ## e) a hatásterület ügyfeleinek kimutatása;
 
-## f)[^2] amennyiben a megvalósításhoz más tulajdonában álló ingatlant kell igénybe venni, az érintett ingatlanokról készült kisajátítási terv;
+## f)[^3] amennyiben a megvalósításhoz más tulajdonában álló ingatlant kell igénybe venni, az érintett ingatlanokról készült kisajátítási terv;
 
 ## g) amennyiben a kisajátítási eljárás termőföldet érint, az ingatlanügyi hatóság termőföld más célú hasznosítására vonatkozó jogerős engedélye;
 
@@ -306,4 +306,4 @@
 
 2. melléklet a 289/2012. (X. 11.) Korm. rendelethez
 
-[^2]: Az 1. melléklet 1. pont f) alpontja a 154/2013. (V. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet 1. pont f) alpontja a 154/2013. (V. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
