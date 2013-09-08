@@ -18,7 +18,7 @@ f) az útipoggyász és élő állat szállításának részletes szabályait,
 
 g) az utaspanaszok bejelentésének és kezelésének részletes szabályait,
 
-h) a járulékos szolgáltatások igénybevételének részletes szabályait,
+h)[^2]
 
 i) a vasúti társaság felelősségviselésének részletes szabályait,
 
@@ -38,4 +38,7 @@ tekintetében az üzletszabályzatban e rendelet rendelkezéseitől az utasok h�
 
 (5) A vasúti társaság az üzletszabályzatát a vasúti igazgatási szervnek jóváhagyásra nyújtja be. A kérelemhez csatolja az üzletszabályzatra érkezett, el nem fogadott észrevételeket, valamint az el nem fogadás indokolását.
 
-(6) A vasúti társaság üzletszabályzatát – a vasúti igazgatási szerv jóváhagyásától számított 5 napon belül – hivatalos honlapján közzéteszi.
+(6)[^3] A vasúti társaság üzletszabályzatát – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül – hivatalos honlapján közzéteszi.
+
+[^2]: A 2. § (2) bekezdés h) pontját a 328/2013. (IX. 3.) Korm. rendelet 5. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 2. § (6) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.

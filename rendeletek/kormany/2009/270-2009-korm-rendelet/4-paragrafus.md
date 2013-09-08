@@ -12,8 +12,11 @@ d) a legfontosabb kiegészítő szolgáltatásokat, a személyszállításhoz ka
 
 e) a menetrendi időszak kezdetének és végének időpontját, illetve azt, hogy a menetrend határozatlan időtartamra szól.
 
-(2) A vasúti társaság a menetrendet a honlapján közzéteszi, illetőleg annak az adott állomást érintő adatokat tartalmazó kivonatát az állomásokon látható helyen kifüggeszti, és a menetrendről az utasokat az üzletszabályzatban meghirdetett módokon is tájékoztatja.
+(2)[^4] A vasúti társaság a menetrendet a honlapján közzéteszi és annak az adott állomást és megállóhelyet érintő adatokat tartalmazó kivonatát az állomásokon és megállóhelyeken jól látható helyen kifüggeszti, és a menetrendről az utasokat az üzletszabályzatban meghirdetett módokon is tájékoztatja.
 
-(3) A menetrend ideiglenes vagy végleges megváltoztatásáról az utazóközönséget a (2) bekezdésben meghatározott módokon legalább 14 nappal a változás végrehajtását megelőzően tájékoztatni kell. Ha a változásra előre nem látható ok miatt kerül sor, a tájékoztatási időközre vonatkozó rendelkezést nem kell alkalmazni.
+(3)[^5] A menetrend ideiglenes vagy végleges megváltoztatásáról az utazóközönséget a (2) bekezdésben meghatározott módokon legalább 14 nappal a változás végrehajtását megelőzően tájékoztatni kell. A vasúti társaság a változás közzétételét megelőző 8 nappal a menetrendváltozás tényéről a vasúti igazgatási szervet írásban tájékoztatja. Ha a változásra előre nem látható ok miatt kerül sor vagy kizárólag új vonat forgalomba állását jelenti a többi vonat menetrendjének, közlekedési időszakának változása nélkül, a tájékoztatási időközre vonatkozó rendelkezést nem kell alkalmazni.
 
 (4) A közszolgáltatási menetrend jóváhagyására jogosult az üzemeltetési és a szerződéskötési kötelezettséget közérdekből, továbbá a vasúti társaság kezdeményezésére kényszerítő üzemi okból korlátozhatja vagy felfüggesztheti.
+
+[^4]: A 4. § (2) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (3) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
