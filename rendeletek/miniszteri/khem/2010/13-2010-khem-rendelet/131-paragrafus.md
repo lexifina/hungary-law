@@ -12,6 +12,9 @@
 
 (7) Az ablakok alsó széle legalább 1,6 m magasan lehet a padlószint felett. Az ablakok világító felületének és a tároló adott helyisége alapterületének aránya 1:25–1:30 lehet.
 
-(8) A tárolóban a különböző fajta robbanóanyag elhelyezésére – a gyújtózsinór kivételével – külön-külön tárolóhelyiséget kell létesíteni.
+(8)[^215] A tárolóban a robbantóanyag elhelyezésére – a gyújtózsinór kivételével – külön-külön tárolóhelyiséget kell létesíteni.
 
-(9) Ha a tárolóban különböző fajta robbanóanyagokat tárolnak vagy a tárolóból közvetlen felhasználásra is történik kiszolgálás, a tárolón belül előteret kell létesíteni.
+(9)[^216] Ha a tárolóból közvetlen felhasználásra is történik kiszolgálás, a tárolón belül előteret kell létesíteni.
+
+[^215]: A 131. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 70. pontja szerint módosított szöveg.
+[^216]: A 131. § (9) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 18. pontja szerint módosított szöveg.

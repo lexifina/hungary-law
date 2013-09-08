@@ -2,7 +2,7 @@
 
 143. § (1) Földalatti raktár – az egyenérték alapján átszámított – legfeljebb 60 000 kg mennyiség tárolására létesíthető. Az 500 kg-ot meg nem haladó mennyiség esetén a 153. § a) pontjában foglalt eltérések alkalmazhatók. A robbanóanyag átszámítására a 128. § (6) bekezdés a) pontja az irányadó.
 
-(2) Az azonos fajta robbanóanyag tárolására külön tárolókamrát kell építeni, ha
+(2)[^230] Az azonos fajta robbantóanyag tárolására külön tárolókamrát kell építeni, ha
 
 a) robbanóanyagból 10 000 kg-ot,
 
@@ -12,8 +12,12 @@ c) gyutacsból 200 000 db-ot,
 
 d) perforátorból 5 000 db-ot,
 
-e) robbanózsinórból 5 000 fm-t
+e)[^231] robbanózsinórból 5 000 m-t
 
 ## meghaladó mennyiség tárolása szükséges.
 
-(3) A különböző fajta robbanóanyag tárolására – a gyújtózsinór kivételével – külön-külön tárolókamrát kell építeni.
+(3)[^232] A robbanóanyagokat és a robbanóanyagot tartalmazó tárgyakat külön tárolókamrában kell tárolni.
+
+[^230]: A 143. § (2) bekezdés nyitó szövegrésze a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 72. pontja szerint módosított szöveg.
+[^231]: A 143. § (2) bekezdés e) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 73. pontja szerint módosított szöveg.
+[^232]: A 143. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 56. §-ával megállapított szöveg.

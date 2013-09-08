@@ -1,4 +1,4 @@
-97. § (1) A robbantással kapcsolatban a biztonsági távolságon belül jól hallhatóan, jelzésrend szerinti jelzéseket legalább kétszer kell leadni.
+97. § (1)[^175] A robbantással kapcsolatos jelzésrend szerinti jelzéseket a repeszhatás biztonsági távolságának határán is jól hallhatóan, legalább kétszer kell leadni.
 
 (2) Az első jelzést a robbantás tervezett időpontja előtt úgy kell leadni, hogy a robbantás előtt az őrök elfoglalhassák kijelölt őrhelyeiket, és a robbantás biztonsági távolságán belül lévő személyek védett helyre távozhassanak.
 
@@ -6,6 +6,9 @@
 
 (4) Ha az érintett személyek a felszólításnak nem tesznek eleget, az őrség köteles a tényt azonnal a robbantómester tudomására hozni.
 
-(5) Jelzés útján kell a robbantás befejezését az érintettekkel tudatni.
+(5)[^176] Jelzés útján kell a robbantás kezdetét, a robbantás befejezését az érintettekkel tudatni.
 
 (6) Ha a kiküldendő őrség ellenére a robbantás által veszélyeztetett övezeten belül személyek észrevétlenül tartózkodhatnak, vagy oda jóhiszeműen bejuthatnak, a robbantás előtt legalább 3 nappal, ismétlődő robbantás esetén évenként a helyileg szokásos módon, közhírré tétellel fel kell hívni a lakosság figyelmét a repeszhatás elleni biztonsági távolság határának jelzésére, a robbantási jelzésrendre, valamint a követendő magatartásra. A felhívást minden helységben meg kell tenni, amelyek területét a robbantás káros hatása érintheti.
+
+[^175]: A 97. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^176]: A 97. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 36. § (2) bekezdésével megállapított szöveg.

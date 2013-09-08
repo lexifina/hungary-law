@@ -10,12 +10,16 @@
 
 a) a robbantáshoz be nem osztott személyeket védett helyre kell küldeni,
 
-b) a szívócsöveket (szifonokat) ki kell nyitni, és ellenőrizni kell eltömődés-mentes állapotukat.
+b)[^171]
 
-(4) A robbantótöltetet csak villamos vagy nem elektromos rendszerű gyutaccsal lehet indítani.
+(4)[^172] A töltetet csak villamos vagy nem elektromos rendszerű gyutaccsal lehet indítani.
 
-(5) A szívócsöveket a várakozási idő alatt nyitva kell tartani.
+(5)[^173] Robbantáskor a szívócsöveket az előzetesen kimért, az RTE-ben meghatározott idő alatt nyitva kell tartani.
 
 (6) A védett helynek a robbantás helyétől legalább 100 m távolságra kell lennie, vagy védett helyként keszonon kívüli alagútpontot vagy az előkamrát kell kijelölni.
 
 (7) Búvárharangban végzett robbantás esetén védett hely csak a külszínen, a búvárharang 20 m-es körzetén kívül jelölhető ki.
+
+[^171]: A 95. § (3) bekezdés b) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 12. pontja hatályon kívül helyezte.
+[^172]: A 95. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 62. pontja szerint módosított szöveg.
+[^173]: A 95. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 35. §-ával megállapított szöveg.

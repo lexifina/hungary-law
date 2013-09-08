@@ -4,9 +4,9 @@
 
 (3) A mentesítési munka megkezdése előtt az építmény villamos berendezéseit le kell választani a hálózatról, ennek megtörténtét az azzal megbízott villanyszerelőnek írásban kell igazolnia.
 
-(4) A felelős műszaki vezető köteles a mentesítő munkálatban résztvevőket (robbantás és égetés esetén a biztonsági őröket is) személyesen kioktatni. Az oktatás megtörténtét az azon résztvevők kötelesek – az erre a célra vezetett naplóban – aláírásukkal igazolni.
+(4)[^109] A robbantóanyag gyártásért felelős személy köteles a mentesítő munkálatban résztvevőket (robbantás és égetés esetén a biztonsági őröket is) személyesen kioktatni. Az oktatás megtörténtét az azon résztvevők kötelesek – az erre a célra vezetett naplóban – aláírásukkal igazolni.
 
-(5) A nehezebb fizikai munkáknál a felelős műszaki vezetőnek váltásról vagy pihenők közbeiktatásáról kell gondoskodnia.
+(5)[^110] A nehezebb fizikai munkáknál a robbantóanyag gyártásért felelős személynek váltásról vagy pihenők közbeiktatásáról kell gondoskodnia.
 
 (6) Egy-egy munkafázishoz egy munkahelyre legfeljebb 4 főt lehet beosztani. A munkacsoportok között a szabadban legalább 10 m távolságot kell tartani.
 
@@ -19,3 +19,6 @@
 (10) A munka időtartamára segélyhelyet kell kijelölni, és gondoskodni kell arról, hogy megfelelő képzettségű elsősegélynyújtó és mentő gépkocsi állandóan rendelkezésre álljon.
 
 (11) A mentesítés naponkénti megkezdéséről és befejezéséről értesíteni kell az érdekelt szervezeti egységeket.
+
+[^109]: A 67. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 29. pontja szerint módosított szöveg.
+[^110]: A 67. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 30. pontja szerint módosított szöveg.

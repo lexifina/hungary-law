@@ -1,12 +1,12 @@
 ## Az építmények belső védelmi rendszerének kialakítása
 
-10. § (1) Az „RV-besorolású” építményt egyszintesre kell alakítani, több szintet igénylő gyártási folyamatnál csak a technológiához szükséges épületrész alakítható ki többszintesre.
+10. § (1)[^57] Az „RV-besorolású” építményt egyszintesre kell alakítani, több szintet igénylő gyártási folyamatnál csak a technológiai tér alakítható ki többszintesre.
 
 (2) Az iniciáló robbanóanyaggal, a brizáns robbanóanyaggal vagy az azokat tartalmazó termékekkel kapcsolatos tevékenység végzésére szolgáló gyártó építmény „RV-besorolású” helyiségeit minden más helyiségtől terelőfalakkal kell elválasztani.
 
-(3) Azon gyártó helyiség terelőfalait, amely helyiségben a robbanás gyakori bekövetkezésével kell számolni, többszöri robbanással szemben is ellenállónak kell kialakítani. A terelőfalak ténylegesen szükséges szerkezetét és falvastagságát a helyiségben végzett technológiai folyamat, a berendezések, a jelenlevő anyagok minősége, mennyisége, a helyiség terhelési tényezője és minden egyéb környezeti tényező figyelembevételével kell meghatározni.
+(3)[^58] Azon gyártó helyiség terelőfalait, amely helyiségben a robbanás gyakori bekövetkezésével kell számolni, többszöri robbanással szemben is ellenállónak kell kialakítani. A terelőfalak ténylegesen szükséges szerkezetét és falvastagságát a helyiségben végzett technológiai folyamat, a berendezések, a jelenlevő anyagok minősége, mennyisége, a helyiség terhelési tényezője figyelembevételével kell meghatározni.
 
-(4) Azon gyártó helyiség terelőfalainak, amely helyiségben a tevékenység nagy biztonsággal kezelhető robbanóanyaggal vagy robbanóanyagot tartalmazó tárggyal függ össze, meg kell felelniük a 14. §-ban foglalt követelményeknek.
+(4)[^59] Azon gyártó helyiség terelőfalainak, amely helyiségben a tevékenység brizáns vagy tolóhatású robbanóanyaggal vagy robbanóanyagot tartalmazó tárggyal függ össze, meg kell felelniük a 14. §-ban foglalt követelményeknek.
 
 (5) A (3) vagy a (4) bekezdés szerinti terelőfalakkal a 0,15 kg/m3-nél nagyobb terhelési tényező miatt be nem védhető gyártó helyiséget – ha más helyiségekkel való szoros kapcsolatát a technológia nem követeli meg – önálló épületként is lehet létesíteni. Az ilyen épület határoló falait – az üvegezésük és a tartószerkezetük kivételével – kifúvófalként is ki lehet alakítani.
 
@@ -14,7 +14,7 @@
 
 (7) A lőporral vagy az azt tartalmazó termékkel kapcsolatos tevékenységek végzésére szolgáló „RV-besorolású” építményeket tűzszakaszokra kell osztani.
 
-(8) A tűzszakaszokat A1 REI-M60 teherhordó és A1 EI 60 térelhatároló tűzgátló szerkezetekkel (tűzfal, tűzgátló fal, tűzgátló födém) kell egymástól elválasztani.
+(8)[^60] A tűzszakaszokat a hivatásos katasztrófavédelmi szerv központi szerve által meghatározott térelhatároló, tűzgátló szerkezetekkel kell egymástól elválasztani.
 
 (9) Az olyan gyártó helyiség esetén, amelyben robbanóanyagot tartalmazó termék robbanása esetében repeszhatással is számolni kell, terelőfödémet kell kialakítani. A terelőfödémet a terelőfalakkal kell összeépíteni.
 
@@ -28,4 +28,10 @@
 
 (14) A különösen veszélyes munkahelyeken (különösen iniciáló robbanóanyag szárításánál, szitálásánál, száraz keverésénél, préselésénél, brizáns robbanóanyag sajtolásánál) a munkavállalókat a technológiai tértől vasbeton fallal és zsiliprendszerű mozgatható acéllappal el kell választani. A vasbeton fal és az acéllap kialakításának olyannak kell lenni, hogy a technológiai térben esetleg felrobbanó összes robbanóanyag a munkavállalók testi épségét ne veszélyeztesse.
 
-(15) A robbanóanyagokkal közvetlenül kézzel vagy szerszámmal végzett műveleteknél (szerelés, vizsgálat, ellenőrzés) munkahelyi bevédéseket kell felszerelni. A munkahelyi bevédések védőképességét modell-kísérletekkel kell ellenőrizni. Az ellenőrzést a tervezett terhelési norma 1,5-szeresének megfelelő mennyiségű robbanóanyag robbantásával vagy meggyújtásával kell elvégezni.
+(15)[^61] A robbanóanyagokkal közvetlenül kézzel vagy szerszámmal végzett szerelési, vizsgálati, ellenőrzési műveleteknél munkahelyi bevédéseket kell felszerelni. A munkahelyi bevédések védőképességét modell-kísérletekkel kell ellenőrizni. Az ellenőrzést a munkafázishoz tartozóan, a tervezett terhelési norma 1,5-szeresének megfelelő mennyiségű robbanóanyag robbantásával vagy meggyújtásával kell elvégezni.
+
+[^57]: A 10. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^58]: A 10. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^59]: A 10. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^60]: A 10. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^61]: A 10. § (15) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.

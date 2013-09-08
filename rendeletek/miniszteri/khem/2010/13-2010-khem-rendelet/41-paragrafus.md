@@ -8,4 +8,6 @@ a) az iniciáló, a brizáns robbanóanyaggal vagy azokat tartalmazó termékekk
 
 b) a tolóhatású robbanóanyaggal vagy azokat tartalmazó termékekkel kapcsolatos „RV-besorolású” építménynél 400 MJ/m2 tűzterhelésig legalább egy órán, a 401–500 MJ/m2 közötti tűzterhelés esetében legalább másfél órán keresztül.
 
-(3) Abban az „RV-besorolású” helyiségben vagy szabadtéren, ahol a jelenlevő robbanóanyag hosszú ideig tartó égése várható, a személyi védelem céljára legalább egy-egy vészzuhanyt kell létesíteni. A vészzuhanyt a kijárat közelében, elfagyás veszélyétől mentes helyen kell felszerelni.
+(3)[^91] Abban az „RV-besorolású” helyiségben vagy szabadtéren, ahol a jelenlevő robbanóanyag hosszú ideig tartó égése várható, a személyi védelem céljára legalább egy-egy vészzuhanyt kell létesíteni. A vészzuhanyt a munkahely fölött, elfagyás veszélyétől mentes helyen kell felszerelni.
+
+[^91]: A 41. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 22. pontja szerint módosított szöveg.

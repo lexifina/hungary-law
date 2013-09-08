@@ -1,8 +1,8 @@
 ## Robbanóanyagok ellenőrző vizsgálata
 
-83. § (1) A nem megfelelő, a lejárt szavatossági idejű robbanóanyagot felhasználni nem lehet.
+83. § (1)[^154] A nem megfelelő minőségű vagy a lejárt szavatossági idejű robbantóanyagot felhasználni nem szabad.
 
-(2) A villamos gyutacs összellenállásának ellenőrzését a robbantásvezető által erre a célra kijelölt és berendezett helyen, valamint műszerrel kell végezni.
+(2)[^155] A villamos gyutacs összellenállásának ellenőrzését a robbantásvezető által erre a célra kijelölt és berendezett helyen és az előírt műszerrel kell végezni.
 
 (3) Tárolóban, tárolókamrában, tárolótérben, raktárhelyiségben és ezek előterében gyutacsellenőrzést nem lehet végezni.
 
@@ -12,4 +12,8 @@
 
 (6) Ellenőrző vizsgálattal csak a robbantásvezető által kioktatott személyt lehet megbízni.
 
-(7) Az ellenőrzést végző személyek részére szolgálati utasítást kell kiadni, amelynek tartalmaznia kell az ellenőrző vizsgálat módját és rendjét, a gyutacsok előírt összellenállását, az ellenőrzött gyutacsok tárolásának nyilvántartásának rendjét.
+(7)[^156] Az ellenőrzést végző személyek részére szolgálati utasítást kell kiadni, amelynek tartalmaznia kell az ellenőrző vizsgálat módját és rendjét, a gyutacsok névleges összellenállását, az ellenőrzött gyutacsok tárolásának nyilvántartásának rendjét.
+
+[^154]: A 83. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 31. §-ával megállapított szöveg.
+[^155]: A 83. § (2) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 51. pontja szerint módosított szöveg.
+[^156]: A 83. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 52. pontja szerint módosított szöveg.

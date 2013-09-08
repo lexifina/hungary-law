@@ -10,8 +10,10 @@
 
 (6) Gondoskodni kell arról, hogy a (3)–(5) bekezdés rendelkezéseinek megtartásához szükséges adatokról az érintett robbantómesterek kellő időben tájékoztatást kapjanak.
 
-(7) Az egyidejűleg robbantott rátett töltetek együttes tömege legfeljebb 1 kg, érctömb darabolása esetén 10 kg lehet.
+(7)[^160] Az egy tűzben robbantott rátett töltetek együttes tömege legfeljebb 1 kg, érctömb darabolása esetén 10 kg lehet.
 
 (8) Biztosítószerkezet kirablására irányuló robbantás esetén csak azonos időzítési fokozatú gyutacsokat lehet használni.
 
 (9) Aknamélyítésnél csak olyan villamos gyutacsot lehet használni, amelynek megfelelőségét előzetesen ellenállásméréssel ellenőrizték.
+
+[^160]: A 86. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 55. pontja szerint módosított szöveg.

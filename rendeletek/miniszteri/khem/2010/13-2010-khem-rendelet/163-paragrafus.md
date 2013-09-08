@@ -6,10 +6,12 @@ a) a raktárban a robbanóanyaggal legfeljebb 3000 db gyutacs tárolható együt
 
 b) a raktár olyan áthúzó légáramú bányatérségből is nyílhat, amelynek kihúzó légárama frontfejtést nem érint, és a 154. § (3) bekezdés a) pontjában meghatározott létesítményektől 50 m, az egyéb nyitott bányatérségektől – csatlakozó vágata kivételével – 20 m távolságra lehet,
 
-c) a raktár kiképzésére, méreteire a 153. § (1) bekezdés c) és d) pontja az irányadó,
+c)[^240] a raktár kiképzésére, méreteire a 153. § c)–e) pontja az irányadó,
 
 d) a raktár lángmentesített anyaggal is biztosítható,
 
 e) a csatlakozó vágattól való elválasztására főtéig érő, lángmentesített anyagú válaszfalat vagy rácsozatot szabad beépíteni, az ajtó rácsos, legalább 1,8 m magas is lehet,
 
 f) az előtér kivételével a raktárban hálózati világítás létesítése nem kötelező.
+
+[^240]: A 163. § (2) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 80. pontja szerint módosított szöveg.

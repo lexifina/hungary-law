@@ -2,6 +2,8 @@
 
 (2) Az előtérben csak polcon elhelyezett, zárt hordládában levő robbanóanyagot lehet tárolni.
 
-(3) A raktárban – ha ott robbanóanyagot tárolnak – javítási (fenntartási, bővítési) munkát csak a robbantásvezető utasítása szerint lehet végezni.
+(3)[^204] A raktárban – ha ott robbantóanyagot tárolnak – javítási (fenntartási, bővítési) munkát végezni nem szabad.
 
 (4) A raktárban az előírt, engedélyezett tárgyakon és berendezéseken kívül egyéb anyagot vagy tárgyat nem lehet tartani.
+
+[^204]: A 118. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 46. §-ával megállapított szöveg.

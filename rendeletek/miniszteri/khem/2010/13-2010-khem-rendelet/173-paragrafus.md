@@ -1,10 +1,10 @@
 ## Szállítás gépkocsin, telephelyen belül
 
-173. § (1) A robbanóanyag telephelyen belüli szállítására csak közúti szállításra is alkalmas gépkocsi és pótkocsi használható.
+173. § (1)[^243] A robbanóanyag telephelyen belüli szállítására csak közúti szállításra is alkalmas dízelüzemű gépkocsi használható.
 
 (2) Robbanóanyagot csak leállított motorú gépkocsira lehet rakodni.
 
-(3) Személygépkocsival – a telephelyen belüli robbanóanyag szállítás esetében – legfeljebb 5 kg tömegű robbanóanyag, valamint az ahhoz szükséges, külön hordládába helyezett iniciáló eszköz szállítható. Ebben az esetben a szállítmánykísérőn kívül más személyt szállítani tilos.
+(3)[^244] Személygépkocsival – a telephelyen belüli robbanóanyag szállítás esetében – legfeljebb 5 kg tömegű robbanóanyag, valamint az ahhoz szükséges, külön hordládába helyezett iniciáló eszköz szállítható. Ebben az esetben a szállítmányt kísérő robbantómesteren kívül más személyt szállítani tilos.
 
 (4) Robbanóanyag-szállító gépkocsit csak olyan személy vezethet, akinek a járműkategóriára érvényes jogosítványa van, és aki a szállítandó robbanóanyag veszélyes tulajdonságait, valamint a szállítási előírásokat ismeri. A gépkocsi vezetőjét a jármű üzembentartójának kell kioktatnia a szükséges ismeretekre, az oktatási anyagot a rendelkezésére kell bocsátania, le kell vizsgáztatnia és az oktatás tényét írásban kell rögzítenie.
 
@@ -27,3 +27,6 @@ d) 20 kg robbanóanyagot és 1000 db perforátort vagy 500 m robbanózsinórt,
 (8) A robbanóanyagot szállító járműnek és járműszerelvénynek meg kell felelnie az általános közlekedésbiztonsági előírásoknak. A járművet legalább két db 12 kg töltetű porral oltó vagy ennek megfelelő vizsgálati tűz oltására alkalmas kézi tűzoltó készülékkel kell felszerelni.
 
 (9) A járművet megengedett terhelésének 90%-áig, lőpor, gyutacs, perforátor vagy robbanózsinór szállítása esetén a megengedett terhelésének legfeljebb 66%-áig lehet igénybe venni. A rakomány az oldalfal peremén nem nyúlhat túl.
+
+[^243]: A 173. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 81. pontja szerint módosított szöveg.
+[^244]: A 173. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 82. pontja szerint módosított szöveg.

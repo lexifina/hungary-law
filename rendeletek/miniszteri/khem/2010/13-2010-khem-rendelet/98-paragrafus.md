@@ -1,4 +1,4 @@
-98. § (1) Bányászati célú robbantáshoz a robbantásvezető köteles RTE-ről gondoskodni.
+98. § (1)[^177]
 
 (2) Karsztvizes vagy vízvédelmi szempontból védett területen, ha a töltet részei a töltési téren kívülre vagy a kritikus átmérőnél kisebb méretű helyre kerülhetnek, ezt meg kell akadályozni.
 
@@ -6,9 +6,9 @@
 
 (4) Folyékony anyagban elhelyezendő robbantó töltet esetén biztosítani kell, hogy a robbantásig az ne mozduljon el.
 
-(5) Ha a robbantótöltet indításához két gyutacs használata kötelező, csak olyan villamos gyutacs használható, amelynek villamos összellenállását előzetesen műszerrel ellenőrizték.
+(5)[^178]
 
-(6) Villamos indítás esetén, ha zivatar előjele észlelhető és a robbantás haladéktalanul nem végezhető el, a zivatar elvonulásáig a robbantás előkészítését nem lehet folytatni. Az elhelyezett villamos gyutacsok vezetékeinek végeit, valamint a már kialakított robbantóhálózat vagy hálózatrész végeit külön-külön szigetelni kell. Ezzel egyidejűleg gondoskodni kell az első jelzés leadásáról.
+(6)[^179] Villamos indítás esetén, ha zivatar előjele észlelhető és a robbantás haladéktalanul nem végezhető el, a zivatar elvonulásáig a robbantás előkészítését nem szabad folytatni. Az elhelyezett villamos gyutacsok vezetékeinek végeit, valamint a már kialakított robbantóhálózat vagy részhálózat végeit külön-külön szigetelni kell. Ezzel egyidejűleg gondoskodni kell az első jelzés leadásáról és a robbantó személyzet védett helyre való vonulásáról.
 
 (7) Az elektromágneses sugárzást kibocsátó adóállomások 2 km-es körzetében, aluminíum kohóban, továbbá olyan helyeken végzendő robbantásoknál, ahol a kóboráram mért értéke a 60 mA-t eléri
 
@@ -20,6 +20,11 @@ c) villamosérzéketlen gyutacsot
 
 kell használni.
 
-(8) A villamos gyutacsokat, a robbantóhálózatot vagy annak valamely pontját a robbantógépre kapcsolásig rövidre zártan tartani tilos.
+(8)[^180]
 
 (9) Azon a helyen, ahol kóboráram veszélyével kell számolni, a robbantás előkészítésének megkezdése előtt a kóboráram erősségét meg kell mérni.
+
+[^177]: A 98. § (1) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 14. pontja hatályon kívül helyezte.
+[^178]: A 98. § (5) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^179]: A 98. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 37. §-ával megállapított szöveg.
+[^180]: A 98. § (8) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 16. pontja hatályon kívül helyezte.

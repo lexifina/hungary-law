@@ -20,24 +20,29 @@ d) a robbanóanyaggal kapcsolatos munka végzésére egészségügyileg alkalmas
 
 (3) Robbantásvezetői vagy robbantómesteri engedélyt kérelemre, a bányafelügyelet vizsgabizottsága előtt tett sikeres vizsgát követően 5 évre, a (4) bekezdés szerinti érvényességi körre a bányafelügyelet adja meg. Az engedély kérelemre, az 1. melléklet szerinti – robbantásvezető esetén 32, robbantómester esetén 16 órás – továbbképző tanfolyam elvégzése és a bányafelügyelet vizsgabizottsága előtt tett sikeres vizsga esetén meghosszabbítható további 5 évre.
 
-(4) Robbantásvezetői, illetve robbantómesteri engedély
+(4)[^43] Robbantásvezetői, illetve robbantómesteri engedély
 
-a) külszíni
+a) külszíni bányászati robbantási munka;
 
-aa) bányászati robbantási munka,
+b) szeizmikus robbantási munka;
 
-ab) egyéb (szeizmikus, kohászati, víz alatti és jég-) robbantási munka;
+c) kohászati robbantási munka;
 
-b) épület-, építményrobbantási munka;
+d) építményrobbantási munka;
 
-c) mélyfúrási robbantási munka;
+e) víz alatti és jégrobbantási munka;
 
-d) földalatti robbantási munka
+f) mélyfúrási robbantási munka;
+
+g) föld alatti robbantási munka
 
 ## érvényességi körre adható.
 
-(5) A bányafelügyelet a robbantásvezető vagy a robbantómester engedélyét egy éves időtartamra felfüggeszti, ha halmozottan vagy egy éven belül ismétlődően megszegi a vonatkozó biztonsági szabályokat, vagy szabályszegésével súlyos balesetet vagy súlyos üzemzavart okoz.
+(5)[^44] A bányafelügyelet a robbantásvezető vagy a robbantómester engedélyét két éves időtartamra felfüggeszti, ha halmozottan vagy egy éven belül ismétlődően megszegi a vonatkozó biztonsági szabályokat, vagy szabályszegésével súlyos balesetet vagy súlyos üzemzavart okoz.
 
 (6) A felfüggesztés időtartamát követően a robbantásvezető vagy a robbantómester az engedélye szerinti tevékenységet csak akkor folytathatja, ha a (3) bekezdés szerinti tanfolyamon részt vett és sikeres vizsgát tett.
 
 (7) A (3) bekezdés szerinti engedélyt a bányafelügyelet véglegesen visszavonja attól, aki feladatai ellátására egészségügyileg (orvosi szakvélemény alapján) véglegesen alkalmatlanná vált.
+
+[^43]: Az 5. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 2. §-ával megállapított szöveg.
+[^44]: Az 5. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 11. pontja szerint módosított szöveg.

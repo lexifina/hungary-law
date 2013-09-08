@@ -1,4 +1,4 @@
-44. § (1) A robbanóanyaggal kapcsolatos kutatási, fejlesztési munkára kísérleti gyártási technológiai utasítást kell készíteni, amelyben az anyagi, tárgyi és személyi feltételeken túlmenően – az előzetes ismeretek alapján – a munkavédelmi követelményeket is meg kell határozni. A kísérleti gyártási technológiai utasítást a gazdálkodó szervezet vezetője hagyja jóvá.
+44. § (1)[^95]
 
 (2) A kísérleti gyártás irányítására – kellő szakmai és munkavédelmi ismeretekkel rendelkező – személyt kell megbízni. A megbízást írásban kell kiadni.
 
@@ -13,3 +13,5 @@ c) a kísérleti robbantási munka végrehajtásánál meg kell tartani az adott
 (4) A kísérleti gyártásról részletes munkanaplót kell vezetni, amelyben a kísérleti gyártással kapcsolatos minden jelentős eseményt és adatot rögzíteni kell.
 
 (5) A kifejlesztésre kerülő robbanóanyag, vagy az új gyártási eljárás biztonságtechnikai, munkaegészségügyi és környezetvédelmi vonatkozású hatásait még a kísérleti munkák időszakában kell megállapítani, hogy az üzemi gyártás bevezetéséhez a szükséges intézkedések meghatározhatók legyenek.
+
+[^95]: A 44. § (1) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.

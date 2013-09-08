@@ -4,7 +4,7 @@
 
 a) a tárolók közötti távolságot a raktár minden tárolójára külön meg kell határozni és a szomszédos tárolók tekintetében a nagyobb távolságot kell figyelembe venni,
 
-b) különböző fajta robbanóanyag együtt tárolására szolgáló tároló esetén a távolságnak legalább 50 m-nek kell lennie.
+b)[^214] robbantóanyag együtt tárolására szolgáló tároló esetében a távolságnak legalább 30 m-nek kell lennie.
 
 (3) A tárolók közötti távolságot felére lehet csökkenteni, ha a szomszédos tárolók közül az egyiket védetten építik. Ez a távolság 15 m-nél kisebb nem lehet.
 
@@ -19,3 +19,5 @@ b) különböző fajta robbanóanyag együtt tárolására szolgáló tároló e
 (8) A földsánc helyett vele azonos magasságú, legalább 1 m vastag, megfelelően alapozott vasbeton támfal is létesíthető.
 
 (9) Ha a kerítésen belül létesített épületek fokozottan tűz- és robbanásveszélyes tűzveszélyességi osztályba tartoznak, építőanyaguk és külső nyílászáró szerkezeteik nem lehetnek éghető anyagúak.
+
+[^214]: A 130. § (2) bekezdés b) pontja a 49/2013. (VIII. 9.) NFM rendelet 51. §-ával megállapított szöveg.

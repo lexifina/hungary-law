@@ -12,7 +12,7 @@
 
 5. Vizsgára az bocsátható, aki a tanfolyam előírt óraszámának legalább 80%-án jelen volt.
 
-6. A vizsga helyét és időpontját, valamint a vizsgabizottság elnökét a bányafelügyelet vezetője jelöli ki.
+6.[^249] A vizsga helyét és időpontját, valamint a vizsgabizottság elnökét a bányakapitány jelöli ki a bányakapitányság állományába tartozó kormánytisztviselők közül..
 
 7. A vizsgabizottság elnökből és legalább két tagból áll. A vizsgabizottság tagjainak megbízását a tanfolyam szervezőjének javaslatára figyelemmel a vizsgabizottság elnöke jelöli ki.
 
@@ -33,3 +33,5 @@
 (A TNT robbanáshője: 5066 kJ/kg.)
 
 2. Az ismeretlen TNT-egyenértékű iniciáló- és brizáns robbanóanyag, valamint a robbanóképes pirotechnikai keverék TNT-egyenértékét – méréssel megállapított vagy szakirodalomból vett robbanáshő, vagy a gyártó által megadott égéshő adataik alapján – az 1. képlet számítása szerint kell meghatározni.
+
+[^249]: Az 1. melléklet 6. pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (2) bekezdése szerint módoított szöveg.

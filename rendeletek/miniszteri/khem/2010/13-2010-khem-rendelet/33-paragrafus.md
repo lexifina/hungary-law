@@ -10,10 +10,12 @@
 
 (4) Az „RV-1”–„RV-3” besorolású helyiségben és szabadtéren csak zárlatbiztos transzformátor létesíthető. Éghető folyadék-hűtésű transzformátort nem lehet alkalmazni.
 
-(5) A transzformátor megengedett terhelhetőségét úgy kell meghatározni, hogy a környező légtérrel érintkező felülete a megengedett terheléssel tartósan terhelve se lépje túl a megengedett határhőmérsékletet.
+(5)[^87]
 
 (6) A transzformátor hálózat felőli (betáplálási) oldalán olyan túláram-védelem alkalmazható, amely a megengedett terheléshez tartozó áram túllépésekor azt megszakítja, vagy úgy korlátozza, hogy a határhőmérséklet még tartós rövidzárlat esetén se emelkedjék a megengedett érték fölé.
 
 (7) Az „RV-1”-„RV-3” besorolású helyiségben és szabadtéren nem lehet alkalmazni helyhez-kötött kondenzátort, kondenzátor-telepet, akkumulátort, akkumulátor-telepet.
 
 (8) Az „RV-besorolású” helyiségben és szabadtéren nem lehet alkalmazni éghető folyadékot tartalmazó villamos hőfejlesztő berendezést, készüléket. Csak olyan villamos fűtésű berendezés, készülék alkalmazható, amely megfelelően védett, és méretezése vagy a hozzá tartozó önműködő hőmérsékletszabályozója biztonságosan kizárja, hogy a környezeti légtérrel érintkező bármely felületrész a megengedett határhőmérséklet fölé emelkedjék.
+
+[^87]: A 33. § (5) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 3. pontja hatályon kívül helyezte.

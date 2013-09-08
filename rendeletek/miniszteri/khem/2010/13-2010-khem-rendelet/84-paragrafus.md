@@ -4,8 +4,11 @@
 
 (2) Álló- vagy folyóvíz medre, víztároló vagy -tározó alatt végzett robbantás esetén a föld alatti térség (a továbbiakban: bányatérség) feletti rétegek vastagságának és minőségének figyelembevételével kell a robbantást tervezni.
 
-(3) Az indítótöltény elkészítését megkezdeni vagy folytatni nem lehet, ha a robbantás elvégzésének biztonságát befolyásoló körülményt észlelnek vagy ilyennel számolni kell.
+(3)[^157] Az indítótöltet elkészítését megkezdeni vagy folytatni nem lehet, ha a robbantás elvégzésének biztonságát befolyásoló körülményt észlelnek vagy ilyennel számolni kell.
 
-(4) Az indítótöltényt közvetlenül a robbantólyukba történő betöltés előtt kell elkészíteni.
+(4)[^158] Az indítótöltetet közvetlenül a robbantólyukba történő betöltés előtt kell elkészíteni.
 
 (5) Szellőztetési üzemzavar alatt – az üzemzavarral érintett bányatérségben – nem lehet robbantani.
+
+[^157]: A 84. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 53. pontja szerint módosított szöveg.
+[^158]: A 84. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 54. pontja szerint módosított szöveg.

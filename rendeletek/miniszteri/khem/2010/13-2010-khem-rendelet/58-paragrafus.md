@@ -2,7 +2,7 @@
 
 a) 106 ohm-nál nagyobb felületi ellenállású szigetelőanyagot nem szabad használni,
 
-b) a rendkívüli érzékeny anyagokkal csak olyan személyeket szabad foglalkoztatni, akiket az elektrosztatikus feltöltődésre való hajlam egyedi ellenőrzése alapján arra alkalmasnak találtak,
+b)[^107]
 
 c) a munkavállaló keze és a föld közötti eredő szigetelési ellenállást naponként, a munka megkezdése előtt műszerrel kell ellenőrizni és bizonylatolni,
 
@@ -19,3 +19,5 @@ h) a technológiai folyamatot, műveletet úgy kell végrehajtani, a berendezés
 i) a feltöltődés lehetőségével járó részművelet után – a műveleti utasításban előírt – kötelező várakozási idő beiktatásával kell biztosítani az esetleg felhalmozódott töltés levezetését,
 
 j) a műveleti utasítást a robbanóanyag elektrosztatikus kisülésekkel szembeni érzékenységének szem előtt tartásával kell elkészíteni és a munkavállalókat ki kell oktatni a feltöltődés elleni tudatos védekezés elméleti ismereteire és gyakorlati teendőire.
+
+[^107]: Az 58. § b) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 7. pontja hatályon kívül helyezte.
