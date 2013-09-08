@@ -1,0 +1,3 @@
+## 18. § Az R. 45. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A robbanóanyag gyártásához újonnan létesített (kifejlesztett vagy beszerzett) vagy más területről áttelepített gépet, berendezést próbaüzemeltetésnek alávetni akkor szabad, ha az az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit kielégíti, és rendelkezik az adott munkaeszközre mint termékre az Mvtv.-ben meghatározott, gyártó által kiállított megfelelőségi nyilatkozattal, illetve a megfelelőséget tanúsító egyéb dokumentummal. A berendezés próbaüzemeltetését – a tömörségi próbák után – indokolt esetben először veszélytelen modell-anyaggal, majd a technológia szerinti anyag felhasználásával kell elvégezni.”

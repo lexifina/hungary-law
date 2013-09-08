@@ -1,0 +1,1 @@
+## „(5) A robbantás helyét, időpontját, a töltetek tömegét, elhelyezésük és indításuk módját naplóban rögzíteni kell. Az e célra szolgáló naplót a robbantástól számított legalább 5 évig meg kell őrizni.”

@@ -1,0 +1,1 @@
+## „(4) Robbantószerkezetet tölteni, szerelni csak a robbantás helyszínén vagy erre a célra berendezett külön töltőhelyiségben szabad. A szerelés helyszínének megvilágítása legalább 500 lux értékű legyen.”

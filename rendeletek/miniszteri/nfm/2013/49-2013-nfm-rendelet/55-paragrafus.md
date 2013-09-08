@@ -1,0 +1,1 @@
+## „(6) A raktárakban – a közlekedés és a rakodás biztonsága érdekében – a rakodás módjától és a szállítóeszköz méreteitől függő, de legalább 0,8 m szélességű térközt szabadon kell hagyni, az ajtót és a közlekedési utat robbantóanyag-csomagokkal vagy más anyagokkal eltorlaszolni, illetve elfoglalni átmenetileg sem szabad.”

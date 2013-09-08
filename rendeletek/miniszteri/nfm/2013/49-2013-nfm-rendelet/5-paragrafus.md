@@ -1,0 +1,1 @@
+## „(3) Az „RV-besorolású” építményben lévő hűtő, légtechnikai és egyéb villamos berendezéseket és -gyártmányokat úgy kell kialakítani, hogy azok robbanóanyaggal érintkezhető bármely részeinek hőmérséklete ne haladja meg a 70 °C-t, megengedett terhelésű folytonos üzem esetében sem.”
