@@ -1,1 +1,0 @@
-## „(7) Ha a megállt töltet hatástalanítása nem sikerült, a robbantómester köteles gondoskodni a megállt töltet őrzéséről, intézkedni arról, hogy az általa meghatározott körzetben senki ne tartózkodjék, valamint jelentést tenni a robbantásvezetőnek.”
