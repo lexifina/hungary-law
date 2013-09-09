@@ -1,14 +1,16 @@
-## 2. §[^1]
+## 2. §[^2]
 
 3. § (1) Az R1.
 
-a)[^2]
+a)[^3]
 
-b) 2. § (6) bekezdésében az „Amennyiben a (2) bekezdés b) pontjában meghatározott jogsértést” szövegrész helyébe az „Amennyiben a Vtv. XII. Fejezetében meghatározott, a vasúti pályahálózathoz való nyílt hozzáférésre vonatkozó szabályok megsértését” szöveg
+b)[^4]
 
 ## lép.
 
-(2) Hatályát veszti az R1. 2. § (2) és (3) bekezdése.
+(2)[^5]
 
-[^1]: A 2. § a 25. § (2) bekezdése alapján 2013. október 4-én lép hatályba.
-[^2]: A 3. § (1) bekezdés a) pontja a 25. § (2) bekezdése alapján 2013. október 4-én lép hatályba.
+[^2]: A 2. § a 25. § (2) bekezdése alapján 2013. október 4-én lép hatályba.
+[^3]: A 3. § (1) bekezdés a) pontja a 25. § (2) bekezdése alapján 2013. október 4-én lép hatályba.
+[^4]: A 3. § (1) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## 21. § Az R4. 4. §-ában a „fedezeti összeghatárt az országos, az elővárosi, a helyi, valamint a térségi vasúti személyszállítási működési engedély esetében az 1. mellékletben” szövegrész helyébe a „fedezeti összeghatárt az 1. mellékletben” szöveg lép.

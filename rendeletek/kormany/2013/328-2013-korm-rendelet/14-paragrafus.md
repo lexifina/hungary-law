@@ -1,1 +1,0 @@
-## „(6) Ha a (3) bekezdésben meghatározott kártérítés összege az 1000 forintot nem haladja meg, a vasúti társaság kártérítés fizetésére nem köteles. Ha a vasúti társaság úgy dönt, hogy az 1000 forintot el nem érő kártérítést is megfizeti, ezt a tényt az üzletszabályzatában rögzíteni köteles.”
