@@ -1,4 +1,4 @@
-## 1. megállapítja a Dél-Alföldi Operatív Program, a Dél-Dunántúli Operatív Program, az Észak-Alföldi Operatív Program, az Észak-Magyarországi Operatív Program és a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterveinek 2. prioritását az 1–5. melléklet szerint,
+## 1.[^1]
 
 ## 2. jóváhagyja a 6. mellékletben szereplő, egymilliárd forintot meghaladó támogatási igényű projektet,
 
@@ -36,8 +36,10 @@
 
 ## Határidő: 2013. június 30.
 
-## 7.[^1]
+## 7.[^2]
 
-1. melléklet az 1312/2013. (VI. 7.) Korm. határozathoz
+1–5. melléklet az 1312/2013. (VI. 7.) Korm. határozathoz[^3]
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pontot a Kormány az 1635/2013. (IX. 10.) Korm. határozat 5. pont e) alpontjával visszavonta.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1–5. mellékletet a Kormány az 1635/2013. (IX. 10.) Korm. határozat 5. pont e) alpontjával visszavonta.
