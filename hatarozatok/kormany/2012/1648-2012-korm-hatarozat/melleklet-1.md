@@ -6,10 +6,11 @@
 
 ## 4. jóváhagyja az Észak-Alföldi Operatív Program 5. prioritás keretének 1,4 Mrd Ft-tal történő többletkötelezettség-vállalási igényét Szolnok Megyei Jogú Város ÉAOP-5.1.1/B1-12-k-2012-0002 azonosító számú „A Széchenyi lakóváros rehabilitációja funkcióbővítéssel” című projektjavaslatának esetleges későbbi támogathatóságának érdekében,
 
-## 5. megállapítja a regionális operatív programok 2011–2013. évekre szóló akcióterveit a 2–8. melléklet szerint,
+## 5.[^2]
 
-## 6.[^1]
+## 6.[^3]
 
 1. melléklet az 1648/2012. (XII. 19.) Korm. határozathoz
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pontot a Kormány az 1635/2013. (IX. 10.) Korm. határozat 5. pont c) alpontjával visszavonta.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
