@@ -4,7 +4,7 @@
 
 ## ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK GYÁRTÁSA ÉS BEHOZATALA
 
-43. § (1)[^115] Állatgyógyászati készítményeknek, illetve azok hatóanyagának gyártását vagy annak bármely szakaszát, beleértve a minőség-ellenőrzést is kizárólag az e tevékenységre jogosító, a NÉBIH által kiadott engedély alapján lehet végezni.
+43. § (1)[^116] Állatgyógyászati készítményeknek, illetve azok hatóanyagának gyártását vagy annak bármely szakaszát, beleértve a minőség-ellenőrzést is kizárólag az e tevékenységre jogosító, a NÉBIH által kiadott engedély alapján lehet végezni.
 
 (2) A (3) bekezdésben foglaltak kivételével gyártásnak minősül:
 
@@ -12,9 +12,14 @@ a) a teljes és részleges előállítás,
 
 b) az elsődleges és másodlagos kiszerelés – beleértve a csomagolást, átcsomagolást, címkézést, szétosztást (dividálást), illetve más külső megjelenés létrehozását is.
 
-(3) Nem minősül gyártásnak, ha az elkészítést, szétosztást (dividálást), a csomagolás – az elsődleges csomagolóanyag kivételével – vagy kiszerelés változtatását kizárólag kiskereskedelmi ellátás céljából, állatorvosnak magáncélú felhasználásra közforgalmú gyógyszertárban gyógyszerész végzi.
+(3)[^117] Nem minősül gyártásnak,
 
-(4)[^116] A NÉBIH az (1) bekezdés szerinti engedélyek adatait eljuttatja az Európai Gyógyszer Ügynökséghez az általa működtetett közösségi adatbázisban történő nyilvántartás céljából.
+a) ha az elkészítést, szétosztást (dividálást), a csomagolás – az elsődleges csomagolóanyag kivételével – vagy kiszerelés változtatását kizárólag kiskereskedelmi ellátás céljából, állatorvosnak magáncélú felhasználásra közforgalmú gyógyszertárban gyógyszerész végzi;
 
-[^115]: A 43. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
-[^116]: A 43. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+b) ha a csomagolás módosítását az elsődleges csomagolóanyag megbontása nélkül a kiskereskedelmi tevékenység során állatorvos vagy gyógyszerész végzi a 72. §-ban foglaltak szerint.
+
+(4)[^118] A NÉBIH az (1) bekezdés szerinti engedélyek adatait eljuttatja az Európai Gyógyszer Ügynökséghez az általa működtetett közösségi adatbázisban történő nyilvántartás céljából.
+
+[^116]: A 43. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
+[^117]: A 43. § (3) bekezdése a 77/2013. (IX. 10.) VM rendelet 3. §-ával megállapított szöveg.
+[^118]: A 43. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

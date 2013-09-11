@@ -1,5 +1,3 @@
-## 72. § Törzskönyvezett állatgyógyászati készítmény csak a forgalomba hozatali engedélyben előírt kiszerelési egységekben, illetve gyűjtőcsomagolásban, az engedély mellékletét képező jóváhagyott címkével és jóváhagyott magyar nyelvű használati utasítással forgalmazható. Az állatgyógyászati készítmény kiszerelési egységeit a forgalmazás során tilos megbontani, kivéve, ha a forgalomba hozatali engedélyben és a jóváhagyott használati utasításban a bonthatóság fel van tüntetve, illetve a 43. § (3) bekezdésében meghatározott esetben.
-
 73. § (1) Az emberi felhasználásra kerülő gyógyszerek forgalmazására jogosultnak állatgyógyászati készítmény forgalmazásához a 66. §, illetve a 69. § szerinti szakhatósági hozzájárulással is rendelkeznie kell.
 
 (2) A közforgalmú gyógyszertárak az állatorvosi vényeket, továbbá az állatorvosnak vény nélkül kiadott vényköteles állatgyógyászati készítményekről készített kimutatást 5 évig kötelesek megőrizni. A közforgalmú gyógyszertárak további nyilvántartási kötelezettségéről külön jogszabály rendelkezik.

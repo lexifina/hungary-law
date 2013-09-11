@@ -12,9 +12,9 @@ d) rendelkeznie kell a gyártási vagy behozatali tevékenységre alkalmas és e
 
 e) alkalmaznia kell legalább egy olyan meghatalmazott személyt, aki megfelel az 52. §-ban meghatározott feltételeknek.
 
-(3)[^120] A gyógyszergyártási engedély iránti kérelmet egy példányban kell benyújtani a NÉBIH-be. A kérelemnek tartalmaznia kell:
+(3)[^122] A gyógyszergyártási engedély iránti kérelmet egy példányban kell benyújtani a NÉBIH-be. A kérelemnek tartalmaznia kell:
 
-a)[^121] az adatlapot, amelynek mintáját a NÉBIH a honlapján közzéteszi,
+a)[^123] az adatlapot, amelynek mintáját a NÉBIH a honlapján közzéteszi,
 
 b) a termékfelelősség-biztosítási szerződés másolatát,
 
@@ -36,5 +36,5 @@ j) a reklamációk kezelési rendjét és a visszavonások végrehajtásáról s
 
 (4) Az állatgyógyászati készítmények gyártásához kapcsolódó minőség-ellenőrzést szerződés alapján végző laboratórium tevékenysége a gyógyszergyártás részét képezi, ezért a laboratóriumnak szintén rendelkezni kell engedéllyel, amelyre irányuló kérelmet a (3) bekezdésben foglaltakkal azonos módon kell benyújtani.
 
-[^120]: A 45. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 19. pontja szerint módosított szöveg.
-[^121]: A 45. § (3) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
+[^122]: A 45. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 19. pontja szerint módosított szöveg.
+[^123]: A 45. § (3) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.

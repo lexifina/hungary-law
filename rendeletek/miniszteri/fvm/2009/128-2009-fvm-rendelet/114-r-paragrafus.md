@@ -2,7 +2,7 @@
 
 ## AZ EGYÉB GYÓGYHATÁSÚ KÉSZÍTMÉNYEK FORGALMAZÁSÁNAK ÉS FELHASZNÁLÁSÁNAK ELLENŐRZÉSE
 
-114/R. § (1)[^292] Az egyéb gyógyhatású készítmények forgalmazásának és felhasználásnak hatósági ellenőrzését a járási állategészségügyi hivatal látja el.
+114/R. § (1)[^302] Az egyéb gyógyhatású készítmények forgalmazásának és felhasználásnak hatósági ellenőrzését a járási állategészségügyi hivatal látja el.
 
 (2) A készítmények forgalmazásának és felhasználásnak hatósági ellenőrzése kiterjed:
 
@@ -18,4 +18,4 @@ e) a nyilvántartásba vételi szám meglétére és megfelelőségére,
 
 f) jogszabálysértés gyanúja vagy bejelentés esetében mintavételre és az összetétel vizsgálatára.
 
-[^292]: A 114/R. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 25. pontja szerint módosított szöveg.
+[^302]: A 114/R. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 25. pontja szerint módosított szöveg.

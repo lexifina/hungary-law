@@ -46,11 +46,11 @@ Személyzet
 
 Dokumentáció
 
-4.[^327] A nagykereskedőnek a NÉBIH, illetve a járási állategészségügyi hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
+4.[^338] A nagykereskedőnek a NÉBIH, illetve a járási állategészségügyi hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
 
 Megrendelés
 
-5.[^328] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
+5.[^339] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
 
 Eljárások
 
@@ -134,11 +134,11 @@ Kiadás
 
 a) Más nagykereskedőnek vagy kiskereskedőnek abban az esetben, ha a vevő pozíciójában álló nagykereskedő vagy a kiskereskedő hatályos működési engedélyének másolatát előzetesen beszerezte.
 
-b)[^329] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított, a 9. számú mellékletben található minta szerinti vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
+b)[^340] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított, a 9. számú mellékletben található minta szerinti vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
-c)[^330] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
+c)[^341] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
 
-d)[^331]
+d)[^342]
 
 18. Minden gyógyszerkiadásnál dokumentálni kell a kiadás idejét, a készítmény nevét, gyártási számát, lejárati idejét és mennyiségét, az eladó és a vevő nevét és a címét.
 
@@ -174,63 +174,8 @@ Amennyiben szükséges, konzultálni kell a forgalomba hozatali engedélyessel v
 
 Visszahívás
 
-24. A visszahívási rendszert írásban kell rögzíteni. Ki kell nevezni egy a visszahívásért felelős személyt a visszahívások végrehajtására és koordinálására.
-
-25. Az egyes visszahívási eseteket írásban kell rögzíteni a végrehajtásuk időpontjában, a visszahívási eljárásnak megfelelően, a feljegyzéseket pedig azon tagállam illetékes hatósága számára, amelyeknek a területén a készítményt forgalmazták, hozzáférhetővé kell tenni.
-
-26. A hatékony visszahívási rendszer működtetése érdekében, a nyilvántartási rendszernek képesnek kell lennie arra, hogy valamennyi vevőt azonnal meg tudja határozni és kapcsolatba tudjon lépni velük. Visszahívás esetén a nagykereskedők eldönthetik, hogy az összes vásárlójukat értesítik vagy csak azokat, amelyek a kérdéses gyártási számú tételből vásároltak.
-
-27. Ugyanazt a visszahívási rendszert kell alkalmazni, tekintet nélkül arra, hogy a készítményt abban az országban hozták-e forgalomba, amely a nagykereskedő számára kiadta a gyógyszerforgalmazói engedélyt vagy más tagállamokban.
-
-28. Visszahívás esetén minden vevőt haladéktalanul értesíteni kell. Az illető nagykereskedő számára gyógyszerforgalmazásra jogosító engedélyt kiadó tagállamban levő vevőkön túl a többi tagállam vevőit is értesíteni kell.
-
-29. Az üzenetnek tartalmaznia kell, hogy a visszahívott készítményeket azonnal távolítsák el a kiadható készítmények közül, és tárolják mindaddig biztonságos, jól láthatóan megjelölt helyen elkülönítve, amíg a forgalomba hozatali engedélyes utasításának megfelelően el nem szállítják azokat.
-
-Az ártalmatlanításra kerülő készítmények gyártási számát és lejárati idejét a nyilvántartásnak tartalmaznia kell.
-
-Hamisított készítmények
-
-30.[^332] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot, illetve a NÉBIH-et, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
-
-Önellenőrzés
-
-31. E melléklet megfelelő alkalmazásának ellenőrzésére rendszeres önellenőrzést kell végezni, és azt dokumentálni kell.
-
-A tagállamok nagykereskedelmi tevékenységre vonatkozó információadási tevékenysége
-
-32. Azok a nagykereskedők, akik más tagállamok területén is forgalmaznak vagy forgalmazni kívánnak állatgyógyászati készítményeket, mint amely tagállamban a gyógyszerforgalmazásra jogosító engedélyt megszerezték, a többi tagállam hatóságai számára kérésükre hozzáférhetővé kell tenni az eredeti tagállamban kiadott engedéllyel kapcsolatos információkat: a nagykereskedelmi tevékenység jellegét, az egyes telephelyek címét, és szükség esetén az ellátott terület nagyságát.
-
-II. Fejezet
-
-A TÖRZSKÖNYVEZETT ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK KISKERESKEDELMI FORGALMAZÁSÁNAK
-
-FELTÉTELEI ÉS SZABÁLYAI
-
-Alapelvek
-
-Az állatgyógyászati készítmények megfelelő minőségét a kiskereskedelmi forgalmazás során is változatlanul meg kell őrizni: a kiskereskedőknek úgy kell a készítményekkel bánniuk, hogy azok tulajdonságaiban semmiféle változás ne következhessen be.
-
-A kiskereskedelmi forgalmazónak biztosítania kell, hogy
-
-a) a tárolási körülmények folyamatosan (a szállítás alatt is) megfelelőek legyenek,
-
-b) a más készítményekkel való szennyeződést elkerüljék,
-
-c) a készítmény se szennyezzen más tárolt anyagokat,
-
-d) a készítményeket biztonságos helyen tárolják.
-
-A b)–d) pontban foglalt előírások teljesíthetők egy helyiségen belüli elkülönített tárolással is.
-
-A szakhatósági hozzájárulás megszerzéséhez a kérelmezőnek rendelkeznie kell megfelelő szakértelemmel rendelkező személyzettel, valamint a készítmények helyes tárolására és kezelésére alkalmas helyiségekkel és tárgyi feltételekkel.
-
-Személyzet
-
-1. A törzskönyvezett állatgyógyászati készítmények kiskereskedelmi forgalmazását állatorvos vagy gyógyszerész, továbbá állatorvost vagy gyógyszerészt foglalkoztató, működési engedéllyel rendelkező természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság végezhet.
-
-[^327]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 30. pontja szerint módosított szöveg.
-[^328]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^329]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^330]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^331]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.
-[^332]: A 8. számú melléklet I. fejezet 30. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 16. és 26. pontja szerint módosított szöveg.
+[^338]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 30. pontja szerint módosított szöveg.
+[^339]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^340]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^341]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^342]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.

@@ -158,6 +158,8 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 
 71.[^26] Vérszérum: Alvadási faktorokat nem tartalmazó vérplazma.
 
+72.[^27] Kábítószerként kezelendő készítmény: a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. melléklet K1, K2 és P2 jegyzékén szereplő, kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó állatgyógyászati készítmény.
+
 [^4]: A 3. § a 70/2013. (VII. 31.) VM rendelet 111. § 1. és 2. pontja szerint módosított szöveg.
 [^5]: A 4. § 50. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^6]: A 4. § 51. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
@@ -181,3 +183,4 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 [^24]: A 4. § 69. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^25]: A 4. § 70. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^26]: A 4. § 71. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^27]: A 4. § 72. pontját a 77/2013. (IX. 10) VM rendelet 1. §-a iktatta be.

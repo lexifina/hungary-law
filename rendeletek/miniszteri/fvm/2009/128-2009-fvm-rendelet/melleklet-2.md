@@ -8,11 +8,11 @@
 
 ## I. Az előállító kötelezettségei a kipróbálás során
 
-## 1.[^302] Az előállító csak az általa és a NÉBIH által ellenőrzött és megfelelőnek minősített kiszerelt készítményt adhat át gyakorlati kipróbálásra.
+## 1.[^313] Az előállító csak az általa és a NÉBIH által ellenőrzött és megfelelőnek minősített kiszerelt készítményt adhat át gyakorlati kipróbálásra.
 
-## 2.[^303] A kipróbálandó anyagot csak a gyakorlati kipróbáláshoz szükséges mennyiségben és díjtalanul, a NÉBIH által engedélyezett szervezeteknek küldheti meg, feltéve, hogy a szervezetek előzetes beleegyezését megszerezte. A gyakorlati kipróbálást az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak előzetesen be kell jelenteni.
+## 2.[^314] A kipróbálandó anyagot csak a gyakorlati kipróbáláshoz szükséges mennyiségben és díjtalanul, a NÉBIH által engedélyezett szervezeteknek küldheti meg, feltéve, hogy a szervezetek előzetes beleegyezését megszerezte. A gyakorlati kipróbálást az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak előzetesen be kell jelenteni.
 
-## 3.[^304] Az előállító köteles a már rendelkezésre álló vizsgálati eredményeket és a vizsgálati eljárások leírását a NÉBIH rendelkezésére bocsátani.
+## 3.[^315] Az előállító köteles a már rendelkezésre álló vizsgálati eredményeket és a vizsgálati eljárások leírását a NÉBIH rendelkezésére bocsátani.
 
 ## 4. Az előállító köteles a kijelölt intézménynek vagy gazdálkodó szervezetnek kipróbálásra megküldendő készítmény csomagolásán feltüntetni
 
@@ -34,7 +34,7 @@
 
 ## 6. Ha a kipróbálást végző intézménnyel vagy gazdálkodó szervezettel másként nem állapodtak meg, az előállító viseli a kipróbálás költségét, valamint felel a kipróbálással kapcsolatos károkért.
 
-## II.[^305] A kipróbálást végző személy kötelezettségei
+## II.[^316] A kipróbálást végző személy kötelezettségei
 
 ## 1. A gyakorlati kipróbálást az engedélyben meghatározott állatfajon, területen és határidőn belül kell elvégezni.
 
@@ -98,7 +98,7 @@
 
 2. számú melléklet a 128/2009. (X. 6.) FVM rendelethez
 
-[^302]: Az 1. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^303]: Az 1. számú melléklet I. pont 2. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 24. pontja szerint módosított szöveg.
-[^304]: Az 1. számú melléklet I. pont 3. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^305]: Az 1. számú melléklet II. pontja a 70/2013. (VII. 31.) VM rendelet 38. pontja szerint módosított szöveg.
+[^313]: Az 1. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^314]: Az 1. számú melléklet I. pont 2. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 24. pontja szerint módosított szöveg.
+[^315]: Az 1. számú melléklet I. pont 3. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^316]: Az 1. számú melléklet II. pontja a 70/2013. (VII. 31.) VM rendelet 38. pontja szerint módosított szöveg.

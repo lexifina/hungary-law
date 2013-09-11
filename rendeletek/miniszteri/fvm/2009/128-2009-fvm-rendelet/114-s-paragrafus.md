@@ -1,4 +1,4 @@
-114/S. § (1)[^293] A járási állategészségügyi hivatal – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság útján történő – javaslatára a NÉBIH az egyéb gyógyhatású készítményt a nyilvántartásból törli, forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
+114/S. § (1)[^303] A járási állategészségügyi hivatal – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság útján történő – javaslatára a NÉBIH az egyéb gyógyhatású készítményt a nyilvántartásból törli, forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
 
 a) megállapításra kerül, hogy a szabálytalanság súlyosan veszélyezteti a közegészségügy, a fogyasztók, az állategészségügy vagy a környezet érdekeit,
 
@@ -12,7 +12,7 @@ e) a készítmény olyan hatóanyagot tartalmaz, amelynek felhasználását jogs
 
 f) megállapításra kerül, hogy a kérelmező hamis vagy megtévesztő adatokat szolgáltatott.
 
-(2)[^294] A forgalmazási tilalom vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén a NÉBIH a meglévő készlet ártalmatlanítására, raktározására, forgalmazására, illetve felhasználására határidőt vagy határnapot állapít meg.
+(2)[^304] A forgalmazási tilalom vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén a NÉBIH a meglévő készlet ártalmatlanítására, raktározására, forgalmazására, illetve felhasználására határidőt vagy határnapot állapít meg.
 
-[^293]: A 114/S. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3., 8. és 28. pontja szerint módosított szöveg.
-[^294]: A 114/S. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
+[^303]: A 114/S. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3., 8. és 28. pontja szerint módosított szöveg.
+[^304]: A 114/S. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.

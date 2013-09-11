@@ -4,9 +4,9 @@
 
 (2) A használati utasítás és a címke többnyelvű is lehet, amennyiben mindegyik nyelven ugyanazt a lényegi információt tartalmazza.
 
-(3)[^141] Nem kötelező a magyar nyelvű címke alkalmazása azoknál az állatgyógyászati készítményeknél, melyeknél biztosított, hogy azt kizárólag állatorvos alkalmazza, illetve adja be az állatnak, amennyiben a NÉBIH az adott állatgyógyászati készítmény vonatkozásában ezt a döntését a minisztérium hivatalos lapjában közleményben közzéteszi.
+(3)[^144] Nem kötelező a magyar nyelvű címke alkalmazása azoknál az állatgyógyászati készítményeknél, melyeknél biztosított, hogy azt kizárólag állatorvos alkalmazza, illetve adja be az állatnak, amennyiben a NÉBIH az adott állatgyógyászati készítmény vonatkozásában ezt a döntését a minisztérium hivatalos lapjában közleményben közzéteszi.
 
-(4)[^142] Az ellátás biztosítása érdekében, a közegészségügy és az állategészségügy érdekeinek sérelme nélkül a NÉBIH tételenkénti engedélye alapján magyar nyelvű használati utasítással, de idegen nyelvű felirattal ellátott csomagolóanyaggal – alaki hibás készítményként – forgalomba hozhatók azok a készítmények, amelyek éves hazai forgalma nem haladja meg
+(4)[^145] Az ellátás biztosítása érdekében, a közegészségügy és az állategészségügy érdekeinek sérelme nélkül a NÉBIH tételenkénti engedélye alapján magyar nyelvű használati utasítással, de idegen nyelvű felirattal ellátott csomagolóanyaggal – alaki hibás készítményként – forgalomba hozhatók azok a készítmények, amelyek éves hazai forgalma nem haladja meg
 
 a) emlős haszonállatok részére szolgáló készítmények esetében az 1000 adagot,
 
@@ -14,7 +14,7 @@ b) szárnyas haszonállatok részére szolgáló készítmények esetében az 50
 
 c) kedvtelésből tartott állatok részére szolgáló készítmények esetében az 1000 adagot, illetve amelyek esetében, kivételes kereskedelmi helyzet miatt az európai közösségi gyártó átmenetileg nem tudja biztosítani a magyar nyelvű csomagolóanyagot.
 
-(5)[^143] A használati utasítás szövegét a NÉBIH a forgalomba hozatali engedélyezési eljárás során hagyja jóvá. A használati utasítás módosítása az engedély módosításának minősül. A használati utasításnak a 12. és 14–15. § szerint benyújtott dokumentációval és az SPC-vel összhangban legalább az alábbi részletes adatokat kell tartalmaznia:
+(5)[^146] A használati utasítás szövegét a NÉBIH a forgalomba hozatali engedélyezési eljárás során hagyja jóvá. A használati utasítás módosítása az engedély módosításának minősül. A használati utasításnak a 12. és 14–15. § szerint benyújtott dokumentációval és az SPC-vel összhangban legalább az alábbi részletes adatokat kell tartalmaznia:
 
 a) a forgalomba hozatali engedély birtokosának neve vagy cégneve, lakó- vagy székhelye, és ha van, az általa kijelölt képviselő neve, valamint a felszabadításért felelős gyártó neve vagy cégneve, lakó- vagy székhelye,
 
@@ -46,6 +46,6 @@ n) a törzskönyvi szám,
 
 o) a használati utasítás jóváhagyásának dátuma.
 
-[^141]: A 62. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
-[^142]: A 62. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
-[^143]: A 62. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
+[^144]: A 62. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
+[^145]: A 62. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
+[^146]: A 62. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-## 107. §[^248] Az e rendelet szerinti kérelmek formanyomtatványai tekintetében bekövetkező közösségi szintű változtatások esetén a NÉBIH a minisztérium hivatalos lapjában és saját honlapján közzéteszi a módosított formanyomtatványt.
+## 107. §[^257] Az e rendelet szerinti kérelmek formanyomtatványai tekintetében bekövetkező közösségi szintű változtatások esetén a NÉBIH a minisztérium hivatalos lapjában és saját honlapján közzéteszi a módosított formanyomtatványt.
 
 ## VIII. RÉSZ
 
 ## AZ ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK KÖZÖSSÉGI ENGEDÉLYEZÉSI ELJÁRÁSÁVAL KAPCSOLATOS NEMZETI RENDELKEZÉSEK
 
-## 108. §[^249] Az Európai Közösség által engedélyezett referencia készítmény generikus készítményét a NÉBIH az e rendeletben foglaltaknak megfelelően engedélyezi, ha
+## 108. §[^258] Az Európai Közösség által engedélyezett referencia készítmény generikus készítményét a NÉBIH az e rendeletben foglaltaknak megfelelően engedélyezi, ha
 
 a) az engedély iránti kérelmet a 14–15. §-nak megfelelően nyújtották be,
 
@@ -12,5 +12,5 @@ b) az SPC minden jelentős vonatkozásban megegyezik az Európai Közösség ál
 
 c) a generikus készítményt ugyanazon név alatt engedélyezi, mint a többi tagállam, ahol kérelmet adtak be, azzal, hogy e rendelkezés alkalmazásában az INN (nemzetközi szabadnév) minden nyelvi változatát ugyanannak a névnek kell tekinteni.
 
-[^248]: A 107. § a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^249]: A 108. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^257]: A 107. § a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^258]: A 108. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

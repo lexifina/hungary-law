@@ -6,7 +6,7 @@ b) ezek hiányában
 
 ba) az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló miniszteri rendelet vagy a 726/2004/EK rendelet alapján engedélyezett gyógyszerkészítményt, vagy
 
-bb)[^40] más tagállamban az állatgyógyászati készítmények közösségi kódexéről szóló, 2001. november 6-i 2001/82/EK irányelvnek (a továbbiakban: 2001/82/EK irányelv) megfelelően ugyanazon állatfajra más bántalomra vagy ugyanazon bántalomra egy másik állatfaj kezelésére engedélyezett, és a NÉBIH 7. § szerinti engedélyével rendelkező állatgyógyászati készítményt, vagy
+bb)[^41] más tagállamban az állatgyógyászati készítmények közösségi kódexéről szóló, 2001. november 6-i 2001/82/EK irányelvnek (a továbbiakban: 2001/82/EK irányelv) megfelelően ugyanazon állatfajra más bántalomra vagy ugyanazon bántalomra egy másik állatfaj kezelésére engedélyezett, és a NÉBIH 7. § szerinti engedélyével rendelkező állatgyógyászati készítményt, vagy
 
 bc) közforgalmú gyógyszertárban állatorvosi vény alapján a FoNo, FoNoVet, illetve a hatályos Gyógyszerkönyvek előírásainak megfelelően előállított officinális készítményt vagy magisztrális készítményt.
 
@@ -16,4 +16,4 @@ bc) közforgalmú gyógyszertárban állatorvosi vény alapján a FoNo, FoNoVet,
 
 (4) A 93/623/EGK határozatnak, valamint a 2000/68/EK határozatnak megfelelően az élelmezés-egészségügyi várakozási idő nem lehet kevesebb mint 6 hónap, ha vágólovat kezelnek olyan készítménnyel, melyet az Európai Bizottság felvett a lófélék kezeléséhez nélkülözhetetlen anyagok listájára.
 
-[^40]: A 10. § (1) bekezdés b) pont bb) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^41]: A 10. § (1) bekezdés b) pont bb) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
