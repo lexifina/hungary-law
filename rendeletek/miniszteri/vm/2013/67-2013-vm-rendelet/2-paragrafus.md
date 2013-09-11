@@ -36,10 +36,16 @@ c) 40%-a, amennyiben az ügyfél számlával igazoltan 2012. évben 100%-ban vá
 
 (6) Az ügyfél által igényelhető támogatás legkisebb összege 5 millió forint. Nem igényelhető támogatás olyan gép, technológiai berendezés beszerzésére, amelynek számlán szereplő tételenkénti, általános forgalmi adóval nem terhelt vételára nem éri el a kettőszázezer forintot.
 
-(7) A gépkatalógusban szereplő gép, technológiai berendezés beszerzése esetén – a beszerzés költségétől függetlenül – a támogatás alapja a gépkatalógusban szereplő referenciaár.
+(7)[^1] A gépkatalógusban szereplő gép, technológiai berendezés beszerzése esetén a támogatás alapja a gépkatalógusban szereplő referenciaár. Amennyiben a beszerzés költsége meghaladja a gépkatalógusban szereplő referenciaárat, a támogatás alapja – a beszerzés költségétől függetlenül – a gépkatalógusban szereplő ár.
 
-(8) A gépkatalógusban nem szereplő hűtőtérrel rendelkező tehergépjárművek beszerzése árajánlat alapján történik.
+(8)[^2] A gépkatalógusban nem szereplő hűtőtérrel rendelkező tehergépjárművek beszerzése árajánlat alapján történik. A támogatás alapja az árajánlatban szereplő ár; amennyiben ezt a beszerzés költsége meghaladja, a támogatás alapja – a beszerzés költségétől függetlenül – az árajánlatban szereplő ár.
 
 (9) Az árajánlatnak legalább tartalmaznia kell az árajánlattevő, valamint az árajánlatot kérő adatait (amelynek azonosnak kell lennie az ügyfél adataival), az e rendelet szerinti hűtőtérrel rendelkező tehergépjárműre vonatkozó adatokat, valamint az árajánlat érvényességét, amely legalább a támogatási kérelem benyújtását követő hatodik hónap végéig érvényes.
 
 (10) A támogatás összegének euróra történő átváltásakor a támogatási kérelem benyújtása hónapjának első napján érvényes az Európai Központi Bank által közzétett forint/euro devizaárfolyam alkalmazandó.
+
+(11)[^3] A forinttól eltérő pénznemben kiállított árajánlat esetén a forintra történő átváltáskor a támogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett devizaárfolyam alkalmazandó.
+
+[^1]: A 2. § (7) bekezdése a 77/2013. (IX. 10.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (8) bekezdése a 77/2013. (IX. 10.) VM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (11) bekezdését a 77/2013. (IX. 10.) VM rendelet 15. § (2) bekezdése iktatta be.

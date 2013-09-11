@@ -34,8 +34,10 @@ h) az idegen nyelven kiállított bármilyen dokumentum esetében a szakfordít�
 
 (4) Kizárólag készpénzzel vagy banki átutalással a kifizetési kérelem benyújtásáig 100%-ban kiegyenlített költségek számolhatók el. Lízing konstrukcióval érintett számlák nem szolgálhatnak a jogosult költségek elszámolásának alapjául, az ilyen módon kiegyenlített összegek alapján támogatás nem fizethető.
 
-(5) A forinttól eltérő pénznemben kiállított számla esetén, a forintra történő átszámítás átváltási árfolyama a kifizetési kérelem benyújtás hónapjának első napján érvényes, az Európai Központi Bank által közzétett árfolyam.
+(5)[^7] A forinttól eltérő pénznemben kiállított számla esetén, a forintra történő átszámítás átváltási árfolyama a támogatási kérelem benyújtás hónapjának első napján érvényes, az Európai Központi Bank által közzétett árfolyam.
 
 (6) A számla nem képezheti támogatás alapját, ha korábban más támogatáshoz már – részben vagy egészben – elszámolták.
 
 (7) A beruházás megvalósítása az üzembe helyezés feltételeként külön jogszabály által előírt közokirattal vagy magánokirattal, továbbá a gazdasági eseményről kiállított, igazoltan teljesített és pénzügyileg is rendezett számviteli bizonylattal igazolható.
+
+[^7]: A 11. § (5) bekezdése a 77/2013. (IX. 10.) VM rendelet 15. § (3) bekezdés b) pontja szerint módosított szöveg.
