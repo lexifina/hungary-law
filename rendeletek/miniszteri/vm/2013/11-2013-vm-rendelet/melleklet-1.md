@@ -1,6 +1,6 @@
-## 16. §[^7] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet módosításáról szóló 55/2013. (VI. 27.) VM rendelettel [a továbbiakban: 55/2013. (VI. 27.) VM rendelet] megállapított 3. § (1) bekezdés g)–i) pontját, 3. § (1a) bekezdését, 6. § (4) bekezdését, valamint 11. § (1) bekezdését a 55/2013. (VI. 27.) VM rendelet hatálybalépésekor[^8] folyamatban lévő eljárásokban is alkalmazni kell.
+## 17. §[^10] E rendeletnek az állatgyógyászati termékekről szóló 128/2009. (X. 6.) FVM rendelet módosításáról szóló 77/2013. (IX. 10.) VM rendelettel [a továbbiakban: 77/2013. (IX. 10.) VM rendelet] megállapított 9. § (1) bekezdését a 77/2013. (IX. 10.) VM rendelet hatálybalépésekor[^11] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 11/2013. (III. 5.) VM rendelethez
 
-[^7]: A 16. §-t az 55/2013. (VI. 27.) VM rendelet 2. § (5) bekezdése iktatta be.
-[^8]: A hatálybalépés időpontja 2013. június 28.
+[^10]: A 17. §-t a 77/2013. (IX. 10.) VM rendelet 14. § (2) bekezdése iktatta be.
+[^11]: A hatálybalépés napja: 2013. szeptember 11.

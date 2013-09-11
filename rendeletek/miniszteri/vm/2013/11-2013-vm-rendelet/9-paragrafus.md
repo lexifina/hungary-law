@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-9. § (1) A támogatási kérelmet folyamatosan, 2013. április 2-től 2013. augusztus 31-ig lehet benyújtani postai úton, papír alapon az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon a koordináló szervezet székhelye szerint illetékes MVH regionális kirendeltségéhez.
+9. § (1)[^6] A támogatási kérelmet folyamatosan, 2013. április 2-től forráskimerülésig, de legkésőbb 2013. november 15-ig lehet benyújtani postai úton, papír alapon az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon a koordináló szervezet székhelye szerint illetékes MVH regionális kirendeltségéhez.
 
 (2) A támogatási kérelem benyújtásának feltétele az IH hozzájáruló nyilatkozatának megléte, amelyet az IH az ügyfél és az MVH részére is megküld.
 
@@ -27,3 +27,5 @@ ba) az ügyfél nevére szóló, az illetékes építésügyi hatóság által k
 bb) az ügyfél nevére szóló – a tervezői névjegyzékben szereplő tervező ellenjegyzésével ellátott – építési tervdokumentációt, ami a tervezett építmény jellegétől függően tartalmazza a helyszínrajzot, alaprajzokat, homlokzatokat, metszeteket és részletrajzokat, azok méretarányos adatait, valamint a műszaki leírást.
 
 (5) A támogatási kérelem módosítására legkésőbb a benyújtást követő 10 napon belül van lehetőség. Amennyiben az ügyfél a támogatási kérelem rá vonatkozó részét módosítani kívánja, azt a koordináló szervezeten keresztül teheti meg. A támogatási kérelem módosítása esetén az ügyintézési határidő a módosítás beérkezésétől számítva újrakezdődik.
+
+[^6]: A 9. § (1) bekezdése a 77/2013. (IX. 10.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
