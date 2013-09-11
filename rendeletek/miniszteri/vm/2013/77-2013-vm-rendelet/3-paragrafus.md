@@ -1,0 +1,3 @@
+## 2. § Az R1. 35. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Amennyiben a NÉBIH jóváhagyta az előterjesztő tagállam által kiadott értékelő jelentést, az SPC-t, valamint a címkét, a használati utasítást és a nyomdai végleg-mintát, a kérelmező kérelmére – az állategészségügyi, közegészségügyi, illetve környezeti kockázatok, valamint egyéb szakmai szempontok figyelembevételével – engedélyezheti az állatgyógyászati készítmény forgalomba hozatalát anélkül, hogy megvárná a 2001/82/EK irányelv 36–38. cikkében meghatározott eljárás kimenetelét. Ebben az esetben az engedély megadása nem jelent kötelezettséget az eljárás kimenetelére vonatkozóan.”
