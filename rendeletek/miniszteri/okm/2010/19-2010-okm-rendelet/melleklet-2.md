@@ -210,6 +210,6 @@
 
 | 97. |  | okleveles közgazdász turizmus-menedzsment szakon. |
 
-2. melléklet a 19/2010. (IV. 23.) OKM rendelethez[^11]
+2. melléklet a 19/2010. (IV. 23.) OKM rendelethez[^16]
 
-[^11]: A 2. mellékletet az 54/2012. (XII. 28.) EMMI rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: A 2. mellékletet az 54/2012. (XII. 28.) EMMI rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.

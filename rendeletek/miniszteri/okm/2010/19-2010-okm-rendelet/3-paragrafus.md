@@ -1,23 +1,17 @@
-3. § (1) A bejelentés tartalmazza:
+3. §[^12] (1) A bejelentés tartalmazza
 
 a) annak a szakterületnek, részszakterületnek, szakágnak a megjelölését, amelyen a bejelentő kulturális szakértői tevékenységet folytat;
 
-b) végzettségre, szakképzettségre utaló adatokat (ideértve a végzettséget és szakképzettséget igazoló oklevél számát, az oklevelet kibocsátó felsőoktatási intézmény nevét, nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismerésről szóló határozat számát);
+b) a végzettségre, szakképzettségre utaló adatokat;
 
-c) szakmai gyakorlat megszerzésének helyére, idejére utaló adatokat (ideértve a betöltött munka- vagy feladatkört és a végzett szakmai tevékenységet);
+c) a szakmai gyakorlat megszerzésének helyére, idejére utaló adatokat (ideértve a betöltött munka- vagy feladatkört és a végzett szakmai tevékenységet); valamint
 
-d) a 2. melléklet szerint 30 pontot eredményező tevékenységeket, azok végzésének helyét, idejét és a végzett szakmai tevékenységeket;
+d) a bejelentés időpontját.
 
-e) az előírt tanfolyam elvégzéséről szóló tanúsítvány számát, keltét és
+(2) A bejelentéshez mellékelni kell a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló törvényben (a továbbiakban: Kultv.) bizonyítási eszközként meghatározott dokumentumokat.
 
-f) a bejelentés időpontját.
+(3) A miniszter által vezetett kulturális szakértői nyilvántartás a közhiteles nyilvántartást megalapozó, a Kultv.-ben meghatározott adatokon túl tartalmazza a bejelentés időpontját.
 
-(2) A miniszter által vezetett kulturális szakértői nyilvántartás tartalmazza:
+(4) A bejelentéshez szükséges formanyomtatványt a miniszter rendszeresíti.
 
-a) annak a szakterületnek, részszakterületnek, szakágnak a megjelölését, amelyen a bejelentő kulturális szakértői tevékenységet folytat;
-
-b) bejelentés időpontját és
-
-c) a nyilvántartásba vétel sorszámát.
-
-(3) A bejelentéshez szükséges formanyomtatványt a miniszter rendszeresíti.
+[^12]: A 3. § a 63/2013. (IX. 10.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
