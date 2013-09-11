@@ -1,4 +1,4 @@
-## 5. § A támogatást a 4. § (1) bekezdés szerinti döntést követően a miniszter utalványozása alapján a kincstár folyósítja.
+## szerinti döntést követően folyósítja.
 
 ## 3. A támogatás felhasználásának és elszámolásának szabályai
 
