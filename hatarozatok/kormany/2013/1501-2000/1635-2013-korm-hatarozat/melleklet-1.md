@@ -26,18 +26,8 @@
 
 ## 4. egyetért azzal, hogy a 3. pontban megjelölt prioritás vonatkozásában a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 29/A–29/C. § szerinti többlet-kötelezettségvállalás csak akkor vehető figyelembe, ha a keret a rendelkezésre álló uniós források összegéig elszámolásra kerül,
 
-## 5. visszavonja
-
-## a) a Közép-Magyarországi Operatív Program 2011–2013. évi akciótervének módosításáról szóló 1240/2012. (VII. 17.) Korm. határozatot,
-
-## b) az Észak-Magyarországi Operatív Program 2011–2013. évi akcióterve 3. prioritása keretében történő forrásátcsoportosításról szóló 1283/2012. (VIII. 6.) Korm. határozatot,
-
-## c) a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és egyes prioritásai keretének növeléséről szóló 1648/2012. (XII. 19.) Korm. határozat 5. pontját és 2–8. mellékletét,
-
-## d) a Közép-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterv 2., 4. és 5. prioritásának megállapításáról szóló 1268/2013. (V. 17.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## e) a Dél-Alföldi Operatív Program, a Dél-Dunántúli Operatív Program, az Észak-Alföldi Operatív Program, az Észak-Magyarországi Operatív Program és a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterveinek turisztikai prioritásokat érintő módosításáról és egyes kiemelt projektek akciótervi nevesítéséről, támogatásuk emeléséről szóló 1312/2013. (VI. 7.) Korm. határozat 1. pontját és 1–5. mellékletét,
-
-## f) a Magyarországi Németek Általános Művelődési Központja Intézményfenntartó és Működtető Közalapítvány által tervezett köznevelési intézmény fejlesztését célzó kiemelt tervezési felhívás közzétételéről és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 1559/2013. (VIII. 15.) Korm. határozat 3. pontját és 1. mellékletét.
+## 5.[^1]
 
 1. melléklet az 1635/2013. (IX. 10.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
