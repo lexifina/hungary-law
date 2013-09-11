@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 12,5 gramm, átmérője 30 mm, széle recézett.
+
+(2) Az emlékérme előlapján fent, középen, egymás alatti vízszintes sorokban a „MAGYARORSZÁG” felirat, a „3000” értékjelzés, valamint a „FORINT” felirat olvasható. A bal oldali mezőben egy csukott könyv ábrázolása látható, amelyen az „EÖTVÖS JÓZSEF MUNKÁI” felirat olvasható. Az emlékérme alsó szélén, jobb oldalon, két sorban a „2013” verési évszám és a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a bal oldali mezőben Eötvös József mellképének ábrázolása látható. A mellképtől jobbra, az emlékérme szélén, köriratban az „EÖTVÖS JÓZSEF” és az „1813-1871” felirat olvasható, egymástól pontszerű körmotívummal elválasztva. A mellkép hátterében Eötvös József kézírásának és aláírásának ábrázolása látható. A mellképtől balra, az emlékérme szélén Kertész Géza tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
