@@ -26,4 +26,6 @@ i) az érintett szervektől, szervezetektől adatokat, információkat kérhet, 
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti az Ős-Dráva Program összehangolásáért felelős kormánybiztos kinevezéséről szóló 1095/2013. (III. 4.) Korm. határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
