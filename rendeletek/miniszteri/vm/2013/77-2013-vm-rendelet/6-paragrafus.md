@@ -1,7 +1,0 @@
-## 5. § Az R1. 68. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép, és egyidejűleg az R1. 68. § (2) bekezdése a következő c) ponttal egészül ki:
-
-## [A nagykereskedő közvetlen felhasználás céljára kiszolgálhat]
-
-## „b) – a kábítószerként kezelendő készítményekkel történő kiszolgálást kivéve – állatorvost, állatorvosi rendelőt, -szakrendelőt (rendelőintézet), állatkórházat és állatklinikát e rendelet vonatkozó rendelkezéseivel összhangban; a kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatósági engedélyének másolatát előzetesen beszerezze; a vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és kamarai tagsági számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni;
-
-## c) kábítószerként kezelendő készítményekkel a kábítószer R. szerint nyilvántartásba vett állatgyógyászati intézményt, szolgáltató állatorvost, valamint állatorvost alkalmazó telepet, állatkertet, vadasparkot, amennyiben a nagykereskedőt az Országos Rendőr-főkapitányság a kábítószer R. alapján nyilvántartásba vette, mint a kábítószerként kezelendő állatgyógyászati készítmények kiskereskedelmi forgalmazóját; a kiszolgálás feltétele, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatósági bizonyítványának másolatát előzetesen beszerezze.”

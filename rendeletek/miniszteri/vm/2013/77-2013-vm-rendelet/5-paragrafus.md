@@ -1,3 +1,0 @@
-## 4. § Az R1. 46. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A kábítószerként kezelendő készítmények használata esetén a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló kormányrendelet (a továbbiakban: kábítószer R.) előírásai alapján, a kábítószer-prekurzornak minősülő hatóanyagok használata esetén a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló kormányrendelet (a továbbiakban: prekurzor R.) előírásai alapján kell eljárni.”
