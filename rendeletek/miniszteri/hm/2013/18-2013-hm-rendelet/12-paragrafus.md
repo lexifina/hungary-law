@@ -1,0 +1,3 @@
+12. § (1) A kiküldött külszolgálati ellátmányát a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. törvény), továbbá a járulékfizetésre kötelezetteknél a munkaerő-piaci-, az egészségbiztosítási- és a nyugdíjjárulék – ideértve az esetleges magánnyugdíj-pénztári tagdíjat is – fizetési szabályok alapulvételével bruttósítani kell.
+
+(2) A bruttó külszolgálati ellátmányt az Szja. törvény által meghatározott időpontban érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani, és az azután fennálló, a magánszemélyt terhelő, (1) bekezdés szerinti közterheket a kiküldöttnél kell elszámolni.
