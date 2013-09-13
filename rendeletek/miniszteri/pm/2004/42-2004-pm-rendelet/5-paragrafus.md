@@ -1,22 +1,20 @@
-5. § (1) A katonai vámügyi szerv a vámjogszabályokban foglalt feltételek megléte esetén rendelkezhet:
+5. § (1)[^14] A katonai vámügyi szerv, valamint a nemzetközi katonai szervezet a vámjogszabályokban foglalt feltételek megléte esetén rendelkezhet:
 
-a) elektronikus vám elé állításra,
+a) egyszerűsített eljárásra vonatkozó,
 
-b) egyszerűsített vámeljárásra,
+b) vámraktár és átmeneti megőrzési raktár üzemeltetésére, valamint vámraktározás vámeljárásra vonatkozó,
 
-c) vámraktározás vámeljárásra, valamint
+c) különleges vámzárak használatára vonatkozó,
 
-d) különleges vámzárak használatára vonatkozó,
+d) engedélyezett feladó és
 
-e) engedélyezett feladó és
-
-f) engedélyezett címzetti
+e) engedélyezett címzetti, valamint a TIR eljáráshoz kapcsolódó engedélyezett címzetti
 
 ## engedéllyel.
 
 (2) Az (1) bekezdésben meghatározott engedélyek kiadásánál az alábbiakra kell figyelemmel lenni:
 
-a) az elektronikus vám elé állításra vonatkozó engedélyt a vámhatóság határozatlan időre adja ki a katonai vámügyi szerv részére,
+a)[^15]
 
 b) az egyszerűsített, illetve a vámraktározási eljárás iránti kérelemhez a kérelmezőnek az eljárás alá vont nem közösségi áruk vámtarifaszáma helyett a Korm. rendelet hatálya alá tartozó azon termék jegyzékét kell becsatolnia, amelyre a tevékenységi engedélyt kéri,
 
@@ -26,8 +24,11 @@ d) a vámraktározásra vonatkozóan a kérelem elbírálásához nem kell beny�
 
 e) a NATO okmányok fedezetével érkezett és vámraktárba betárolt katonai és egyéb árukról csak készletnyilvántartást kell vezetni,
 
-f) az engedélyezett feladó és engedélyezett címzett kérelemhez a cégkivonat és az aláírási címpéldány helyett a közhivatal jogállásra vonatkozó nyilatkozatot kell elfogadni, továbbá nem kell megkövetelni a csőd-, felszámolási és végelszámolási eljárásra vonatkozó nyilatkozatot.
+f)[^16] az engedélyezett feladó és engedélyezett címzetti, valamint a TIR eljáráshoz kapcsolódó engedélyezett címzetti kérelemhez a cégkivonat és az aláírási címpéldány helyett a közhivatal jogállásra vonatkozó nyilatkozatot, nemzetközi katonai szervezet esetén a Magyarországon történő településről és működésről szóló megállapodást, vagy erről külön jogszabály alapján kiállított közhiteles igazolást kell elfogadni.
 
-(3)[^6] A vám- és pénzügyőri hivatal a védelmi érdekek zavartalan ellátása érdekében a katonai vámügyi szerv kérelmére a katonai vámáru szállítóeszközről történő kirakását soron kívül engedélyezheti.
+(3)[^17] Az illetékes vám- és pénzügyőri igazgatóság a védelmi érdekek zavartalan ellátása érdekében a katonai vámügyi szerv és a nemzetközi katonai szervezet indokolt kérelmére a nem közösségi katonai áru szállítóeszközről történő kirakását soron kívül engedélyezi.
 
-[^6]: Az 5. § (3) bekezdése a 44/2008. (XII. 31.) PM rendelet 41. §-a szerint módosított szöveg.
+[^14]: Az 5. § (1) bekezdése a 32/2013. (VIII. 14.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (2) bekezdés a) pontját a 32/2013. (VIII. 14.) NGM rendelet 11. §-a hatályon kívül helyezte.
+[^16]: Az 5. § (2) bekezdés f) pontja a 32/2013. (VIII. 14.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (3) bekezdése a 32/2013. (VIII. 14.) NGM rendelet 7. § (3) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## A katonai vámügyi szerv jelvénye
 
-2. számú melléklet a 42/2004. (XI. 17.) PM rendelethez[^15]
+2. számú melléklet a 42/2004. (XI. 17.) PM rendelethez[^33]
 
 A katonai vámügyi szervnek a 3. § (7) bekezdésében meghatározott esetekben a hitelesítésre szolgáló bélyegzőjének mintája
 
@@ -12,4 +12,4 @@ meghatározott esetekben a hitelesítésre szolgáló bélyegzőjének mintája
 
 |  | dátum |  |
 
-[^15]: A 2. számú melléklet a 12/2007. (VI. 6.) PM rendelet 4. §-ával megállapított szöveg.
+[^33]: A 2. számú melléklet a 12/2007. (VI. 6.) PM rendelet 4. §-ával megállapított szöveg.

@@ -4,9 +4,9 @@
 
 (3) A katonai vámügyi szerv feladatkörébe tartozik a katonai és egyéb árukkal kapcsolatban különösen:
 
-a) a vámeljárások indítványozása,
+a)[^8] a Vámkódex 4. cikk 16. pontja szerinti vámeljárások indítványozása,
 
-b) a vámellenőrzés feltételeinek biztosítása,
+b)[^9] a Vámkódex 4. cikk 14. pontja szerinti vámellenőrzés feltételeinek biztosítása,
 
 c) a vámhatóság felé a vámigazgatási jogviszonyból eredő elszámolások teljesítése,
 
@@ -22,4 +22,8 @@ f) külföldi fegyveres erők vámeljárásainak indítványozása és az abban 
 
 (6) A katonai vámügyi szerv jelvényének mintáját az e rendelet 1. számú melléklete tartalmazza.
 
-(7) A katonai vámügyi szervnek az egyszerűsített a vámeljárásokhoz, a nemzetközi szerződés feladatainak teljesítése során a vámkezelésekhez benyújtandó NATO okmány, az EK rendelet szerinti tanúsítvány hitelesítésére az e rendelet 2. számú mellékletében meghatározott bélyegzőt külön, vagy a katonai vámügyi szerv képviseletében eljáró személy részére kiadott körbélyegzőt együtt kell használnia.
+(7)[^10] A katonai vámügyi szervnek az egyszerűsített a vámeljárásokhoz, a nemzetközi szerződés feladatainak teljesítése kapcsán a vámeljárások során benyújtandó NATO okmány, az EK rendelet szerinti tanúsítvány hitelesítésére az e rendelet 2. számú mellékletében meghatározott bélyegzőt külön, vagy a katonai vámügyi szerv képviseletében eljáró személy részére kiadott körbélyegzőt együtt kell használnia.
+
+[^8]: A 3. § (3) bekezdés a) pontja a 32/2013. (VIII. 14.) NGM rendelet 6. §-ával megállapított szöveg.
+[^9]: A 3. § (3) bekezdés b) pontja a 32/2013. (VIII. 14.) NGM rendelet 6. §-ával megállapított szöveg.
+[^10]: A 3. § (7) bekezdése a 32/2013. (VIII. 14.) NGM rendelet 10. § a) pontja szerint módosított szöveg.
