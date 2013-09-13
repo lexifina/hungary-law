@@ -1,1 +1,0 @@
-## Egyéb általános szabályok

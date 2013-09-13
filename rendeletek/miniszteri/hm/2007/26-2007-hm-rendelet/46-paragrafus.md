@@ -1,1 +1,0 @@
-## Egészségügyi ellátás költsége
