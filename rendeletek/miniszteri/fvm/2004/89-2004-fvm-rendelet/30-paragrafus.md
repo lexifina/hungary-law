@@ -28,6 +28,8 @@ d) annak a természetes személynek, jogi személynek vagy jogi személyiséggel
 
 (9)[^139] Csak a jóváhagyott, magyar nyelvű címkeszöveggel megegyező tartalmú termékcímkével lehet átcímkézni a terméket úgy, hogy növényvédő szer végső csomagolásáért, illetve címkézéséért, illetve végső címkézéséért felelős azt előzetesen 15 nappal korábban bejelenti, és a felhasználni kívánt címke egy példányát méretazonos formában mellékeli.
 
+(10)[^140] Amennyiben a növényvédő szer felhasználhatósági ideje két évnél rövidebb, a termék szokásos tárolási feltételek melletti, engedélyokirat szerinti felhasználhatósági idejét a címkén fel kell tüntetni. A két éves vagy két évnél hosszabb felhasználhatósági idejű növényvédő szer címkéjén a gyártó által vállalt felhasználhatósági időt kell feltüntetni, amely időszak alatt a gyártó szavatosságot vállal a növényvédő szer minőségéért.
+
 [^131]: A 30. § (1) bekezdése a 43/2010. (IV. 23.) FVM rendelet 48. § (5) bekezdésével megállapított, a 13/2013. (III. 6.) VM rendelet 22. § 28. pontja szerint módosított szöveg.
 [^132]: A 30. § (3) bekezdése a 13/2013. (III. 6.) VM rendelet 17. §-ával megállapított szöveg.
 [^133]: A 30. § új (4) bekezdését a 15/2009. (III. 6.) FVM rendelet 27. §-a iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (5)–(7) bekezdésre változtatva. A 30. § (4) bekezdése a 13/2013. (III. 6.) VM rendelet 17. §-ával megállapított szöveg.
@@ -37,3 +39,4 @@ d) annak a természetes személynek, jogi személynek vagy jogi személyiséggel
 [^137]: A 30. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 15/2009. (III. 6.) FVM rendelet 27. §-a.
 [^138]: A 30. § (8) bekezdését a 43/2010. (IV. 23.) FVM rendelet 48. § (7) bekezdése iktatta be, e módosító rendelet 48. § (1) bekezdése alapján a rendelkezést a 2010. május 8-át követően indult eljárásokban kell alkalmazni.
 [^139]: A 30. § (9) bekezdését a 43/2010. (IV. 23.) FVM rendelet 48. § (7) bekezdése iktatta be, e módosító rendelet 48. § (1) bekezdése alapján a rendelkezést a 2010. május 8-át követően indult eljárásokban kell alkalmazni.
+[^140]: A 30. § (10) bekezdését a 76/2013. (IX. 10.) VM rendelet 2. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 (2) A bérformázásért és bérkiszerelésért az engedélyes felel.
 
-(3)[^145] Az (1) bekezdés szerinti bejelentésnek a következő adatokat kell tartalmaznia:
+(3)[^146] Az (1) bekezdés szerinti bejelentésnek a következő adatokat kell tartalmaznia:
 
 a) a tevékenységet végző neve, címe,
 
@@ -14,4 +14,4 @@ d) az engedélyes hozzájárulásával elkészített címketerv,
 
 e) az engedélyes hozzájáruló nyilatkozata.
 
-[^145]: A 33. § (3) bekezdését az 1/2005. (I. 7.) FVM rendelet 6. §-ának (2) bekezdése iktatta a szövegbe.
+[^146]: A 33. § (3) bekezdését az 1/2005. (I. 7.) FVM rendelet 6. §-ának (2) bekezdése iktatta a szövegbe.
