@@ -1,0 +1,165 @@
+# A vidékfejlesztési miniszter 79/2013. (IX. 13.) VM rendelete
+
+Magyar Közlöny 2013. évi 149. szám, 2013. szeptember 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e56facb93613e6c9515d17b2670d9b3d998494ae/dokumentumok/8780e222abd596c5060765e3f2fb6b02e3198bb5/letoltes)
+
+---
+
+A vidékfejlesztési miniszter 79/2013. (IX. 13.) VM rendelete
+a cukorrépa-termelők 2013. évi nemzeti kiegészítő támogatásáról
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes
+kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés a) pontjában kapott felhatalmazás alapján – az egyes miniszterek,
+valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 94. § a) és
+b) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
+1. §
+E rendelet alkalmazásában:
+1. cukorrépa-termelő: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező
+gazdasági társaság, aki vagy amely a 2012/2013-as gazdasági évben termelt cukorrépáját a kvótajogosult
+számára – közvetlenül, integrátoron vagy termelői csoporton keresztül – értékesíti;
+
+2. gazdasági év: az adott naptári év október 1. napjától a következő év szeptember 30. napjáig terjedő időszak;
+3. integráció: minden olyan termelési konstrukció, amelyben a cukorrépát az integrált termelőktől az integrátor
+számlával vagy felvásárlási jeggyel vásárolja meg és azt követően saját nevében értékesíti tovább
+a kvótajogosult számára;
+4. integrátor: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági
+társaság, valamint az egyes termékek beszerzését, értékesítését, szolgáltatását nyújtó szövetkezet és
+egyéb gazdálkodó szervezet, aki vagy amely a 2012/2013-as gazdasági évben saját maga termelt, vagy
+termékértékesítési szerződéssel cukorrépa-termelőkkel termeltetett cukorrépáját a kvótajogosult számára
+értékesíti;
+5. integrált termelő: az a cukorrépa-termelő, aki vagy amely integráció keretében termelt cukorrépáját
+a kvótajogosult számára történő továbbértékesítés céljából az integrátornak átadja;
+6. kvótajogosult: a természetes édesítőszerek termékpályáinak szabályozásához kapcsolódó egyes kérdésekről
+szóló 129/2007. (X. 31.) FVM rendelet 1. § b) pontja szerinti szervezet;
+7. termelői csoport: a termelői csoportokról szóló miniszteri rendelet szerint működő, államilag elismert
+szövetkezet vagy korlátolt felelősségű társaság, amely a tagjai által a 2012/2013-as gazdasági évben termelt
+cukorrépát a kvótajogosult számára értékesíti.
+2. §
+E rendelet hatálya a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet
+XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím,
+8. Folyó kiadások és jövedelemtámogatások jogcímcsoport előirányzat terhére a cukorrépa-termelők részére
+nyújtható támogatás felhasználására terjed ki.
+3. § (1) E rendelet alapján a cukorrépa-termelők a 2013. évben nemzeti kiegészítő támogatásban részesülhetnek.
+(2) A támogatás forrása a Vidékfejlesztési Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások
+és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla. E jogcím finanszírozására
+a 2013. évben összesen 1180 millió forint használható fel. A keret túligénylése esetén a Mezőgazdasági és
+Vidékfejlesztési Hivatal (a továbbiakban: MVH) arányos visszaosztást alkalmaz.
+(3) A támogatás mértéke kvótacukor előállításához felhasznált 16%-os cukortartalomra átszámított cukorrépa-
+tonnánként legfeljebb 5 euró 20 centnek megfelelő forintösszeg, egy hektár cukorrépa után legfeljebb 500 euró
+támogatás adható.
+(4) A támogatási összeg forintra történő átszámítása a közös agrárpolitika finanszírozásáról szóló 2005. június 21-i
+1290/2005/EK tanácsi rendelet 45. cikk (2) bekezdése szerint az Európai Központi Bank által 2012. október 1-jét
+megelőzően utolsóként megállapított devizaárfolyam alapján történik.
+4. § (1) Támogatásra az a cukorrépa-termelő jogosult, aki teljesíti az alábbi feltételeket:
+a) a 2012. évre az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás,
+valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások 2012. évi igénybevételével kapcsolatos egyes
+kérdésekről szóló miniszteri rendelet szerint cukorrépa hasznosítási ágként művelt földterületre egységes
+területalapú támogatásra (a továbbiakban: SAPS) jogosult,
+b) a 2012/2013-as gazdasági évben – akár integrátoron vagy termelői csoporton keresztül vagy egyéb
+jogcímen – cukorrépa termékértékesítési szerződéssel rendelkezik,
+c) a b) pont szerinti szerződés alapján a 2012/2013-as gazdasági évben a kvótajogosult kvótájának
+megtermeléséhez cukorrépát szállított,
+d) a 2012/2013-as gazdasági évre vonatkozóan – integrátoron, termelői csoporton keresztül vagy egyéb
+jogcímen – szállítási joggal rendelkezik, és
+e) a cukorrépa-termelők cukoripari szerkezetátalakításhoz kapcsolódó kiegészítő támogatásáról szóló
+167/2009. (XII. 15.) FVM rendelet alapján támogatási jogosultsággal a támogatási kérelem benyújtásakor nem
+rendelkezik és azt megelőzően sem rendelkezett.
+(2) A támogatást a cukorrépa-termelő, integráció esetében – a 6. § (4)–(6) bekezdésében foglalt eset kivételével –
+az integrátor, termelői csoport esetében pedig – a 6. § (4)–(6) bekezdésében foglalt eset kivételével – a cukorrépa-
+termelőket tömörítő termelői csoport igényelheti.
+(3) Ha a támogatást igénylő integrátor vagy termelői csoport integrált termelői vagy tagjai között van olyan cukorrépa-
+termelő, aki nem jogosult a támogatásra, akkor a nem jogosult integrált termelő vagy tag által leszállított
+mennyiséget nem lehet a támogatás alapjába beszámítani.
+
+5. § (1) A támogatási kérelmet egy példányban, 2013. szeptember 17-étől október 15-éig az MVH által rendszeresített és
+az MVH honlapján közzétett nyomtatványon lehet benyújtani.
+(2) Az (1) bekezdés szerinti nyomtatvány
+a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez
+kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti
+ügyfél-azonosítási és kapcsolattartási információkat,
+b) az ügyfél 1. § 1., 4., 7. pontja szerinti besorolását,
+c) a támogatási jogosultságra vonatkozó adatokat,
+d) a támogatás igényléséhez szükséges nyilatkozatokat, és
+e) az integrált termelők vagy termelői csoport tagok (6) bekezdés szerinti felsorolását
+tartalmazza.
+(3) A támogatási kérelemhez mellékelni kell
+a) a cukorrépát feldolgozó kvótajogosult által kiadott igazolást a termékértékesítési szerződés alapján
+a 2012/2013-as gazdasági évben leszállított, kvótacukor előállításához felhasznált 16%-os cukortartalmú
+cukorrépa tonnában kifejezett mennyiségéről,
+b) a Cukor Terméktanács által a szerkezetátalakítást követően kiállított, állandó szállítási jogot igazoló
+bizonylatot, vagy a 2012/2013-as gazdasági évre kiállított, ideiglenes szállítási jogot igazoló bizonylatot
+(bérelt szállítási jog esetén a bérleti szerződés másolatával együtt), és
+c) integráció vagy termelői csoport esetében – amennyiben az igénylő nem rendelkezik önálló szállítási joggal –
+az integráltak, vagy a termelői csoport tagok nevére kiállított igazolást.
+(4) A (3) bekezdésben felsorolt dokumentumokat a kibocsátásra illetékes kvótajogosult, illetve Cukor Terméktanács
+az (1) bekezdésben meghatározott beadási határidő végéig közvetlenül is eljuttathatja az MVH-hoz.
+(5) A támogatási kérelem késedelmes benyújtása munkanaponként 10%-os támogatáscsökkentést von maga után
+abból az összegből, amelyre a cukorrépa-termelő az (1) bekezdés szerinti határidőig benyújtott támogatási kérelem
+alapján jogosult lett volna.
+(6) Ha a támogatást integrátor vagy termelői csoport igényli, a támogatási kérelemhez mellékelni kell az integrált
+termelők vagy a termelői csoport tagok felsorolását az MVH által rendszeresített és az MVH honlapján közzétett
+nyomtatványon, amely
+a) az integrátorra vagy termelői csoportra vonatkozó, a Tv. szerinti ügyfél-azonosítási adatokat,
+b) az integrált termelők vagy termelői csoport tagok felsorolását,
+c) az integrált termelők vagy termelői csoport tagokra vonatkozó a Tv. szerinti ügyfél-azonosítási és
+kapcsolattartási információkat,
+d) az integrált termelők vagy termelői csoport tagok által az adott időszakban leszállított 16%-os cukortartalmú
+cukorrépa mennyiségét,
+e) az integrált termelők vagy termelői csoport tagok szállítási jogát igazoló bizonylat sorszámát,
+f) az integrált termelők vagy termelői csoport tagok SAPS támogatásról szóló, MVH által kiadott határozat vagy
+végzés számát, és
+g) a teljességi nyilatkozatot
+tartalmazza.
+6. § (1) Az MVH a kérelmeket legkésőbb 2013. november 30-áig elbírálja és a támogatás kifizetéséről a támogatási
+jogosultságot megállapító határozat jogerőre emelkedésétől számított harminc napon belül intézkedik.
+(2) Az 5. § (6) bekezdése szerinti esetben az integrátor vagy a termelői csoport köteles a támogatást a jogosult
+cukorrépa-termelők részére a kifizetést követő tizenöt napon belül továbbítani. A támogatás továbbításánál
+az elosztás arányai tekintetében a támogatás mértékére és kiszámítási módjára vonatkozó szabályok irányadóak.
+(3) Az integrátor vagy a termelői csoport köteles a támogatási összegek átutalását követő harminc napon belül az MVH
+felé benyújtani az egyes integrált termelőkre vagy tagokra vonatkozó támogatási összeg részletes kiszámítását,
+valamint az átutalás tényét bizonyító dokumentumokat, adott esetben a (7) bekezdésben rögzített megállapodást.
+A dokumentumokat az MVH közleményében meghatározott módon, faxon vagy elektronikus úton (e-mailen) is be
+lehet nyújtani.
+(4) Ha a támogatás a (2) bekezdésben foglaltak szerint nem kerül továbbításra határidőn belül, úgy a nem továbbított
+támogatási összeg vonatkozásában az MVH intézkedésben való jogosulatlan részvételt állapít meg. Ebben
+az esetben az MVH hivatalból állapítja meg és folyósítja az integrált termelőnek vagy a termelői csoport tagoknak
+közvetlenül járó támogatási összeget.
+
+(5) Ha a támogatási kérelem az integrátornak vagy a termelői csoportnak felróható okból kerül elutasításra, vagy
+az e szervezetek vagy személyek által késedelmesen benyújtott kérelem miatt az 5. § (5) bekezdésében foglaltak
+szerint a támogatás csökkentésre kerülne, az MVH 15 napos határidő tűzésével felhívja az érintett integrált
+termelőket vagy termelői csoport tagokat – az e rendeletben foglalt feltételeknek történő megfelelésük esetén –
+a támogatási kérelem általuk történő benyújtására. Ebben az esetben az 5. § (5) bekezdésében meghatározott
+csökkentést az MVH által tűzött határidő leteltétől kell alkalmazni.
+(6) Ha az integrátor vagy a termelői csoport elmulasztja a támogatási kérelem benyújtását, vagy bármi okból nem
+tud támogatási kérelmet benyújtani, az integrált termelők vagy termelői csoport tagok az 5. § (1) bekezdésében
+megjelölt benyújtási határidőt követő 15 napon belül közvetlenül is benyújthatják a kérelmüket az MVH-hoz.
+Ebben az esetben az 5. § (5) bekezdésében meghatározott csökkentést az MVH által tűzött határidő leteltétől kell
+alkalmazni.
+(7) Integráció vagy termelői csoport esetén a felek megállapodást köthetnek arról, hogy a támogatást egy összegben
+továbbítják annak a szervezetnek, amelytől a támogatásuk várható összegét előzetesen megkapták (előfinanszírozó
+szervezet). Ezen megállapodás feltétele, hogy a támogatást az átvett cukorrépa árában már érvényesítette
+az integrátor vagy a termelői csoport. Ebben az esetben az aláírt megállapodást és az előfinanszírozó szervezet
+részére történő átutalás tényét igazoló iratot kell a (3) bekezdésben előírt módon benyújtani.
+7. §
+Ez a rendelet
+a) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási
+rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott
+egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet
+módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i
+73/2009/EK tanácsi rendelet 7. szakasza,
+b) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre
+vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló,
+2007. október 22-i 1234/2007/EK tanácsi rendelet 182. cikk (3) bekezdése, és
+c) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és
+ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére
+meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes
+szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés
+tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására
+vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+9. §
+Hatályát veszti a cukorrépa-termelők 2012. évi nemzeti kiegészítő támogatásáról szóló 92/2012. (VIII. 30.)
+VM rendelet.
+ Dr. Fazekas Sándor s. k.,
+ vidékfejlesztési miniszter
