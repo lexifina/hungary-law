@@ -1,0 +1,3 @@
+## 1. § A közösségi vámjog végrehajtásának részletes szabályairól szóló 15/2004. (IV. 5.) PM rendelet (a továbbiakban: R1.) 23. §-a helyébe a következő rendelkezés lép:
+
+## „23. § A vámkódex végrehajtásáról szóló 2454/93/EGK bizottsági rendelet (a továbbiakban: EK végrehajtási rendelet) 48. cikk (3) bekezdés második albekezdésében foglalt rendelkezés alapján magyarországi származást lehet feltüntetni a származási bizonyítványon abban az esetben, ha a Közösségi nem preferenciális származás feltételeinek teljesítése Magyarországon történt meg a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet (a továbbiakban: vámkódex) 23–25. cikkében meghatározottak szerint, figyelemmel az EK végrehajtási rendelet 48. cikk (3) bekezdés harmadik albekezdésére is.”
