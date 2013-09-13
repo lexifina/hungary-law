@@ -1,355 +1,493 @@
-13. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^201]
+13. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^202]
 
-Díjjegyzék
+| Díjjegyzék |
 
-a Nemzeti Adó- és Vámhivatal Szakértői Intézete által végzett laboratóriumi
+| „A” oszlop Vizsgálat megnevezése | „B” oszlop Vizsgálati díj összege (Ft) |
 
-vizsgálatok térítési díjairól
+| 1. 13C/12C meghatározása izotóparány tömegspektrometriával {EA/IRMS} cukrokból | 21 966 |
 
-| Sor- szám | Mérés megnevezése | Térítési díj |
+| 2. 13C/12C meghatározása izotóparány tömegspektrometriával {EA/IRMS} mézekből | 25 789 |
 
-| 1. | Kekszek és édesipari termékek zsírtartalmának meghatározása | 17 000 Ft |
+| 3. 13C/12C meghatározása izotóparány tömegspektrometriával {EA/IRMS} cukrokból | 21 966 |
 
-| 2. | Sajtok és túró zsírtartalmának meghatározása | 12 300 Ft |
+| 4. 13C/12C meghatározása izotóparány tömegspektrometriával {GC/C/IRMS} boralkoholból | 9 591 |
 
-| 3. | Nitrogén/fehérje tartalom meghatározása hús és húskészítményekből, édesipari termékekből és egyéb mintákból | 28 000 Ft |
+| 5. 13C/12C meghatározása izotóparány tömegspektrometriával {GC/C/IRMS} szeszesitalok, szeszek alkoholtartalmából | 9 591 |
 
-| 4. | Hús és húskészítmények zsírtartalmának meghatározása | 18 200 Ft |
+| 6. 18O/16O meghatározása IRMS technikával borokból | 10 348 |
 
-| 5. | Nyersolajok és zsírok meghatározása | 10 300 Ft |
+| 7. 5-hidroxi-metil-furfurol tartalom meghatározás | 10 199 |
 
-| 6. | Vaj zsírtartalmának meghatározása | 8 300 Ft |
+| 8. Akonitsav kimutatás | 8 715 |
 
-| 7. | Szeszesitalok alkoholtartalmának meghatározása | 5 800 Ft |
+| 9. Alapdíj | 14 500 |
 
-| 8. | Borok alkoholtartalmának meghatározása | 5 700 Ft |
+| 10. Alkoholok fémtatalmának meghatározása AAS technikával | 9 526 |
 
-| 9. | Kekszek, édesipari termékek, takarmányok és egyéb élelmiszerek szárazanyag-tartalmának meghatározása (homokkal) | 6 700 Ft |
+| 11. Alkoholtartalom meghatározása desztillációval és elektronikus sűrűségméréssel | 4 391 |
 
-| 10. | Sajtok és túró szárazanyag-tartalmának meghatározása | 7 300 Ft |
+| 12. Alkoholtartalom meghatározása desztillációval és hidrosztatikai mérleggel | 6 300 |
 
-| 11. | Hús és hústermékek szárazanyag-tartalmának meghatározása | 8 500 Ft |
+| 13. Alkoholtartalom meghatározása klasszikus desztillációval és sűrűségméréssel | 7 872 |
 
-| 12. | Szeszesitalok és likőrök összes szárazextrakt-tartalmának gravimetrikus meghatározása | 5 800 Ft |
+| 14. Alkoholtartalom meghatározása vízgőzdesztillációval és sűrűségméréssel | 3 653 |
 
-| 13. | Tejfehérje meghatározása tejcsokoládé mintákból (AOAC 939.02) | 27 800 Ft |
+| 15. Alkolyzer alkoholtartalom meghatározás | 2 464 |
 
-| 14. | Kekszek, édesipari termékek, fehér cukor, takarmányok és egyéb élelmiszerek szárazanyag-tartalmának meghatározása (homok nélkül) | 5 300 Ft |
+| 16. Aminosav, vitaminok kimutatása színreakcióval | 864 |
 
-| 15. | A szárazanyag-tartalom meghatározása vákuum-szárítószekrényes módszer | 22 900 Ft |
+| 17. Aromák, színezékek hígítási próbája | 1 556 |
 
-| 16. | Szárazanyag-tartalom DMA sűrűségmérővel | 5 000 Ft |
+| 18. Ásványolaj termékek desztillációs paramétereinek meghatározása | 7 382 |
 
-| 17. | Alkoholtartalom meghatározása hidrosztatikai mérleggel | 6 000 Ft |
+| 19. Ásványolaj termékekben alkalmazott jelölő anyag {Solvent Yellow 124} kimutatása gyorsteszttel | 504 |
 
-| 18. | Sörvizsgálat | 5 700 Ft |
+| 20. Ásványolaj termékekben alkalmazott jelölő anyag {Solvent Yellow 124} tartalmának meghatározása folyadékkromatográfiával | 3 805 |
 
-| 19. | Alkoholtartalom meghatározása vízgőzdesztillációval | 5 300 Ft |
+| 21. Ásványolajok származékok kvalitatív összehasonlítása n-C11 – n-C40 referencia n-alkán keverékkel | 7 491 |
 
-| 20. | Refraktometriás mérés (folyékony és fél sűrű termékek) | 9 200 Ft |
+| 22. Baromfihús tartalom kimutatása hústermékekből, fajspecifikus ELISA technika alkalmazásával | 4 240 |
 
-| 21. | Refraktometriás mérés (sűrű, alkoholtartalmú és száraz termékek) | 10 900 Ft |
+| 23. Benzin összetételének meghatározása | 1 974 |
 
-| 22. | Polarizáció meghatározása | 9 600 Ft |
+| 24. Benzoltartalom meghatározása motorbenzinből | 7 748 |
 
-| 23. | Hamutartalom meghatározása (minta előkészítéssel) | 9 500 Ft |
+| 25. BLG mennyiségi meghatározása ELISA technikával | 24 967 |
 
-| 24. | Hamutartalom meghatározása | 7 000 Ft |
+| 26. Borok alkoholtartalma | 2 193 |
 
-| 25. | Kloridtartalom | 8 400 Ft |
+| 27. Borok alkoholtartalmának D/H izotóparány meghatározása SNIF-NMR technikával | 61 631 |
 
-| 26. | Illósavtartalom | 4 900 Ft |
+| 28. Citromsavtartalom meghatározása {enzimatikus módszer-UV detektálás} | 7 874 |
 
-| 27. | Összes savtartalom | 5 400 Ft |
+| 29. Cukrok {fruktóz, glükóz, szacharóz} folyadékkromatográfiás vizsgálata | 10 065 |
 
-| 28. | A keményítőtartalom és bomlástermékei meghatározása (enzimatikus módszer-UV detektálás) | 9 700 Ft |
+| 30. Cukrok {laktóz, maltóz} folyadékkromatográfiás vizsgálata | 10 245 |
 
-| 29. | A keményítőtartalom és bomlástermékei meghatározása (enzimatikus módszer-HPLC detektálás) | 16 200 Ft |
+| 31. C-Vitamin kimutatása | 1 150 |
 
-| 30. | Fehérje izolátumok, lisztek (szója, rizs, egyéb) azonosító | 25 500 Ft |
+| 32. Cseppenéspont meghatározása | 4 464 |
 
-| 31. | Keményítőtartalom meghatározása enzimatikus módszerrel állati takarmányokból | 15 400 Ft |
+| 33. Denatónium-benzoát folyadékkromatográfiás meghatározása | 7 009 |
 
-| 32. | Keményítő kimutatás (jód-próba) | 3 700 Ft |
+| 34. Denaturálószerek meghatározása hamisított szeszesitalokból | 8 586 |
 
-| 33. | Keményítőtartalom meghatározása. Ewers-féle polarimetriás módszer | 12 300 Ft |
+| 35. Denaturált szesz dietil-karbonát tartalmának meghatározása gázkromatográfiával | 5 981 |
 
-| 34. | Akonitsav kimutatás | 15 100 Ft |
+| 36. Denaturált szesz etil-terc-butil-éter tartalmának meghatározása | 6 879 |
 
-| 35. | Élelmiszerek mikroszkópos vizsgálata | 16 400 Ft |
+| 37. Denaturált szesz izopropanol és terc-butanol tartalmának meghatározása | 8 983 |
 
-| 36. | Hidroxiprolin-tartalom | 12 500 Ft |
+| 38. Denaturált szesz metil-etil-keton és metil-izobutil-keton tartalmának meghatározása | 6 018 |
 
-| 37. | Nyersrost-tartalom | 16 500 Ft |
+| 39. Denaturált szesz metil-etil-keton tartalmának meghatározása | 9 588 |
 
-| 38. | Túlnyomás mérés | 4 700 Ft |
+| 40. Dextróz-egyenérték meghatározása | 10 467 |
 
-| 39. | Sűrűség meghatározása (DMA 5000) | 6 600 Ft |
+| 41. Dohánygyártmányok vágatszélességének meghatározása | 23 596 |
 
-| 40. | Szitaanalítzis | 7 600 Ft |
+| 42. Dohányok és dohánygyártmányok nedvességtartalmának meghatározása | 7 775 |
 
-| 41. | Szterintartalom meghatározás | 12 300 Ft |
+| 43. E -Vitamin kimutatása | 906 |
 
-| 42. | Nettó tömeg meghatározás | 4 100 Ft |
+| 44. E85 etanoltartalmának meghatározása | 7 046 |
 
-| 43. | Nettó tömeg meghatározás (mintaelőkészítéssel) | 5 200 Ft |
+| 45. Ecet ecetsav tartalmának D/H izotóparány meghatározása SNIF-NMR technikával | 70 897 |
 
-| 44. | 5-hidroxi-metil-furfurol tartalom meghatározás | 9 700 Ft |
+| 46. Édesítőszerek folyadékkromatográfiás meghatározása | 4 159 |
 
-| 45. | Vékonyrétegkromatográfiás vizsgálat | 4 900 Ft |
+| 47. Élelmiszerek mikroszkópos vizsgálata | 2 379 |
 
-| 46. | Hígitási próba | 4 200 Ft |
+| 48. Elemi szál hosszúságának meghatározása | 3 544 |
 
-| 47. | Oldhatósági vizsgálat | 4 300 Ft |
+| 49. Elemösszetétel kimutatás {XRF vizsgálat elempásztázás} | 3 750 |
 
-| 48. | Főzési idő | 4 600 Ft |
+| 50. Elemtartalom meghatározás {XRF vizsgálat, szemikvantitatív} | 2 074 |
 
-| 49. | Redukálócukortartalom meghatározása (Luff-Schoorl módszer) | 9 000 Ft |
+| 51. Elszappanosítási szám meghatározása * | 5 728 |
 
-| 50. | Dextróz-egyenérték meghatározása | 11 700 Ft |
+| 52. Érzékszervi vizsgálat | 3 844 |
 
-| 51. | Redukálócukortartalom meghatározása (Lane-Eynon módszer) | 16 300 Ft |
+| 53. Fajlagos tömeg meghatározása | 4 205 |
 
-| 52. | Redukálócukortartalom meghatározása (Schoorl-Regenbogen módszer) | 10 500 Ft |
+| 54. Fehérje izolátumok, lisztek -szója, rizs, egyéb- azonosító vizsgálata a fehérjék molekulatömeg szerinti elválasztása alapján -elektroforézis-alkalmazásával | 8 105 |
 
-| 53. | Juhtejből, kecsketejből vagy bivalytejből, illetve juh-, kecske- vagy bivalytej keverékéből készített sajtokban található tehéntej és kazeinát kimutatására alkalmas referenciamódszer (EUR-Lex 32001R0213) | 182 400 Ft |
+| 55. Felületaktív anyag {kationos/ anionos} kimutatása | 728 |
 
-| 54. | Szén illóanyagtartalmának meghatározása | 7 200 Ft |
+| 56. Felületaktív anyag {kationos/anionos} mennyiségi meghatározása | 3 582 |
 
-| 55. | Folyáspont | 7 600 Ft |
+| 57. Felületaktív anyag emulzióstabilizáló hatásának vizsgálata | 664 |
 
-| 56. | Lobbanáspont | 9 800 Ft |
+| 58. Felületi feszültség mérés | 2 337 |
 
-| 57. | Sűrűségmérés DMA 4500 | 5 200 Ft |
+| 59. Fémek krómtartalmának meghatározása AAS technikával | 9 506 |
 
-| 58. | Viszkozitás | 5 500 Ft |
+| 60. Fémek nikkel tartalmának meghatározása AAS technikával | 9 506 |
 
-| 59. | Aerométeres sűrűség | 8 000 Ft |
+| 61. Fémtartalom meghatározása elemenként AAS technikával | 9 506 |
 
-| 60. | Benzin összetételének meghatározása (IROX) | 8 100 Ft |
+| 62. Finomszeszek alkoholtartalom meghatározása | 2 464 |
 
-| 61. | Elszappanosítási szám meghatározása | 9 100 Ft |
+| 63. Fluor meghatározás fluorszelektív elektróddal | 3 969 |
 
-| 62. | Szulfáthamu | 10 600 Ft |
+| 64. Folyadékok Sűrűségének meghatározása | 1 589 |
 
-| 63. | CFPP | 12 000 Ft |
+| 65. Folyáspont meghatározása | 4 241 |
 
-| 64. | Penetráció | 48 400 Ft |
+| 66. Folyékony ásványolaj termékek, A szénhidrogén csoportösszetétel meghatározása fluoreszcensindikátor adszorpciós módszerrel. | 7 259 |
 
-| 65. | SY 124 kimutatás (olajlabor) | 5 100 Ft |
+| 67. Fonalak és cérnák finomsági számának meghatározása | 4 182 |
 
-| 66. | Cseppenéspont | 7 400 Ft |
+| 68. Fonalak és cérnák sodratszámának meghatározása közvetlen számlálásos módszerrel | 6 173 |
 
-| 67. | Mechanikai szennyeződés | 9 800 Ft |
+| 69. Forgatóképesség mérése | 5 659 |
 
-| 68. | ASTM színszám | 7 900 Ft |
+| 70. Forgatóképesség mérése/fehércukor cukortartalmának meghatározása | 6 469 |
 
-| 69. | Olajtartalom meghatározása oszlopkromatográfiával | 58 200 Ft |
+| 71. Főzési idő meghatározása | 2 472 |
 
-| 70. | Olajtartalom meghatározása metil-etilketonnal | 16 100 Ft |
+| 72. Főzési idő meghatározása {rizs esetében} | 2 403 |
 
-| 71. | XRF vizsgálat (elemtartalom) | 8 700 Ft |
+| 73. FT-IR, folyékony minták vizsgálata küvettában | 1 759 |
 
-| 72. | XRF vizsgálat (elempásztázás) | 16 000 Ft |
+| 74. FT-IR, minták vizsgálata gyémántcellában | 3 402 |
 
-| 73. | XRF vizsgálat (kén, ólom – mennyiségi) | 9 500 Ft |
+| 75. FT-IR, minták vizsgálata H-ATR egységgel | 1 844 |
 
-| 74. | Kéntartalom UV-fluoreszcenciás módszerrel | 8 400 Ft |
+| 76. FT-IR, minták vizsgálata KBr tablettában | 1 999 |
 
-| 75. | Desztilláció | 8 800 Ft |
+| 77. FT-NIR vizsgálat | 1 035 |
 
-| 76. | Érzékszervi vizsgálat | 4 700 Ft |
+| 78. Glicerin folyadékkromatográfiás vizsgálata | 10 166 |
 
-| 77. | Nitrogén (ammónium és nitrát nitrogén) meghatározás | 7 500 Ft |
+| 79. Gőznyomás meghatározása | 3 647 |
 
-| 78. | Fluor meghatározása | 12 600 Ft |
+| 80. Hamutartalom meghatározása | 5 446 |
 
-| 79. | Felületaktív kationos/anionos/ kimutatása | 4 000 Ft |
+| 81. Három komponenst tartalmazó textilipari szálkeverékek nyersanyag összetételének meghatározása kémiai szétválasztás módszerével | 13 238 |
 
-| 80. | Felületaktív anyag emulzió stabilitása | 4 000 Ft |
+| 82. Hidegszűrhetőségi határhőmérséklet {CFPP} meghatározása | 4 695 |
 
-| 81. | Felületaktív anyag mennyiségi meghatározása | 5 700 Ft |
+| 83. Hidroxiprolin-tartalom meghatározás | 10 545 |
 
-| 82. | Felületi feszültség mérés | 13 300 Ft |
+| 84. Hús és húskészítmények zsírtartalmának meghatározása | 11 415 |
 
-| 83. | Porcelánok vízfelvételi tényező | 6 200 Ft |
+| 85. Hús és hústermékek szárazanyag-tartalmának meghatározása | 3 236 |
 
-| 84. | Karbamid meghatározás | 6 700 Ft |
+| 86. ICP-OES: Elemösszetétel meghatározás | 10 514 |
 
-| 85. | C-vitamin kimutatása | 3 900 Ft |
+| 87. Illósav tartalom meghatározás | 2 756 |
 
-| 86. | E-vitamin kimutatása | 3 800 Ft |
+| 88. Infravörös spektroszkópia, Aromás gyűrűben kötött széntartalom meghatározása | 1 693 |
 
-| 87. | Dohány kloroformos extrakció | 5 100 Ft |
+| 89. Infravörös spektroszkópia, benzoltartalom meghatározása benzinből | 1 693 |
 
-| 88. | Elemösszetétel vizsgálat és feltárás | 46 400 Ft |
+| 90. Infravörös spektroszkópia, FAME tartalom mérése gázolajból | 2 378 |
 
-| 89. | pH meghatározás | 8 600 Ft |
+| 91. Infravörös spektroszkópia, gázok vizsgálata | 1 857 |
 
-| 90. | Komplexometria | 4 800 Ft |
+| 92. Italok túlnyomás mérése | 2 064 |
 
-| 91. | Csapadékképződésen alapuló titrálás | 5 200 Ft |
+| 93. ITMS általános vizsgálat {robbanószer, kábítószer} | 6 773 |
 
-| 92. | Permanganomertia | 5 400 Ft |
+| 94. Jodometria | 2 940 |
 
-| 93. | Jodometria | 4 800 Ft |
+| 95. Juhtejből, kecsketejből, vagy bivalytejből, illetve juh-, kecske- vagy bivalytej keverékéből készített sajtokban található tehéntej és kazeinát kimutatása | 13 945 |
 
-| 94. | Papíripari rostok minőségi meghatározása | 22 300 Ft |
+| 96. Karbamid meghatározása műtrágyákból | 4 799 |
 
-| 95. | Rostelemzés/Papíripari rostok mennyiségi meghatározása | 16 300 Ft |
+| 97. Kazein mennyiségi meghatározása ELISA technikával | 21746 |
 
-| 96. | Vastaságmérés rétegenként | 20 600 Ft |
+| 98. Kekszek, édesipari termékek szárazanyag-tartalmának meghatározása | 3 170 |
 
-| 97. | Többrétegű papír és karton réteg összeállítási módjának meghaározása | 3 500 Ft |
+| 99. Kekszek, édesipari termékek zsírtartalmának meghatározása | 12 427 |
 
-| 98. | Papír és karton hamutartalmának meghatározása | 20 900 Ft |
+| 100. Keményítő kimutatás jód-próbával | 864 |
 
-| 99. | Repesztő-nyomás meghatározása | 108 000 Ft |
+| 101. Keményítőtartalom és bomlástermékei meghatározása -enzimatikus módszer-HPLC detektálás- | 12 825 |
 
-| 100. | Négyzetmétertömeg meghatározása mérésenként | 7 800 Ft |
+| 102. Keményítőtartalom és bomlástermékei meghatározása -enzimatikus módszer-UV detektálás- | 7 879 |
 
-| 101. | Textiltermékek érzékszervi vizsgálata I./pizsama, szoknya, ruha, alsónemű, szövet, kelme, függöny/ | 3 800 Ft |
+| 103. Keményítőtartalom meghatározása enzimatikus módszerrel állati takarmányokból | 19 008 |
 
-| 102. | Textiltermékek érzékszervi vizsgálata II./kabát/ | 4 000 Ft |
+| 104. Keményítőtartalom meghatározása. Ewers-féle polarimetriás módszer | 7 902 |
 
-| 103. | Textiltermékek nyersanyag-összetételének mennyiségi meghatározása, vágott/végtelen szálarány meghatározása kézi szétválasztás módszerével a 25/2005. (IV. 29.) GKM rendelettel módosított 72/2007. (VIII. 9.) GKM rendelet/ | 4 900 Ft |
+| 105. Kémiai úton előállított; oldódó papíripari rostanyag lúgban oldhatatlan részének meghatározása | 5 261 |
 
-| 104. | Textíliák nyersanyag összetételének meghatározása. Szálasanyagok felismerése | 5 600 Ft |
+| 106. Kéntartalom meghatározás {XRF vizsgálat} | 6 320 |
 
-| 105. | Textiltermékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével a 25/2005. (IV. 29.) GKM rendelettel módosított 72/2007. (VIII. 9.) GKM rendelet 2. módszer/ | 7 200 Ft |
+| 107. Kéntartalom meghatározása UV-fluoreszcenciás módszerrel | 6 574 |
 
-| 106. | Textiltermékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével a 25/2005. (IV. 29.) GKM rendelettel módosított 72/2007. (VIII. 9.) GKM rendelet 3. módszer/ | 7 600 Ft |
+| 108. Két komponensű textil termékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével {Hipokloritot alkalmazó módszer} | 20 859 |
 
-| 107. | Textiltermékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével a 25/2005. (IV. 29.) GKM rendelettel módosított 72/2007. (VIII. 9.) GKM rendelet 4. módszer/ | 6 600 Ft |
+| 109. Két komponensű textil termékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével {ciklohexanont alkalmazó módszer} | 24 022 |
 
-| 108. | Textiltermékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével a 25/2005. (IV. 29.) GKM rendelettel módosított 72/2007. (VIII. 9.) GKM rendelet 7. módszer/ | 7 000 Ft |
+| 110. Két komponensű textil termékek nyersanyag-összetételének mennyiségi meghatározásakémiai szétválasztás módszerével {Dimetil-formamidot alkalmazó módszer} | 22 804 |
 
-| 109. | Textiltermékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével a 25/2005. (IV. 29.) GKM rendelettel módosított 72/2007. (VIII. 9.) GKM rendelet 8. módszer/ | 7 300 Ft |
+| 111. Két komponensű textil termékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével {Hangyasavat alkalmazó módszer} | 26 102 |
 
-| 110. | Textiltermékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével a 25/2005. (IV. 29.) GKM rendelettel módosított 72/2007. (VIII. 9.) GKM rendelet 15. módszer/ | 7 100 Ft |
+| 112. Két komponensű textil termékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével {Hangyasavat és cinkkloridot alkalmazó módszer} | 23 920 |
 
-| 111. | Mikroszkópos vizsgálat | 15 000 Ft |
+| 113. Két komponensű textil termékek nyersanyag-összetételének mennyiségi meghatározása kémiai szétválasztás módszerével {kénsavat alkalmazó módszer} | 20 094 |
 
-| 112. | Fajlagos tömeg meghatározása | 3 800 Ft |
+| 114. Klasszikus analitikai feltárás elemösszetétel meghatározáshoz | 2 423 |
 
-| 113. | Lábbeli érzékszervi vizsgálata | 4 000 Ft |
+| 115. Klasszikus analitikai ion kimutatás {iononként} | 796 |
 
-| 114. | Lábbeli vízhatlanságának meghatározása | 5 100 Ft |
+| 116. Koagulációs próba, hőkezeltség vizsgálat | 2 389 |
 
-| 115. | Lábbeli talp és felsőrész anyagának minőségi azonosítása | 4 000 Ft |
+| 117. Komplexometria | 3 031 |
 
-| 116. | Lábbeli felsőrész és/vagy talp alkotó anyagainak mennyiségi meghatározása | 4 800 Ft |
+| 118. Lábbeli felsőrész és/vagy talp alkotó anyagainak mennyiségi meghatározása | 1 397 |
 
-| 117. | Dohányok és dohánygyártmányok nedvességtartalma | 18 300 Ft |
+| 119. Lábbeli talp és felsőrész anyagának minőségi azonosítása | 541 |
 
-| 118. | Dohánygyártmányok vágatszélességének meghatározása | 11 900 Ft |
+| 120. Lábbeli vízhatlanságának meghatározása | 711 |
 
-| 119. | Rizsszemek mikroszkopós viszgálata, hosszúságmérés | 5 100 Ft |
+| 121. Lobbanáspont {nyílttéri} meghatározása | 5 537 |
 
-| 120. | Denaturált szesz dietilkarbonát tartalmának meghatározása | 7 400 Ft |
+| 122. Lobbanáspont {zárttéri} meghatározása | 5 485 |
 
-| 121. | Denaturált szesz etil-terc-butil-éter tartalmának meghatározása | 7 400 Ft |
+| 123. Marhahús genomiális vizsgálata | 16 145 |
 
-| 122. | Denaturált szesz izopropanol és terc-butanol tartalmának meghatározása | 8 000 Ft |
+| 124. Mechanikai szennyeződés meghatározása | 6 772 |
 
-| 123. | Denaturált szesz metil-etil-keton tartalmának meghatározása | 8 000 Ft |
+| 125. Mesterséges színezékek vizsgálata borokból folyadékkromatográfiával | 5 021 |
 
-| 124. | Denaturált szesz metil-etil-keton és metil-izobutil keton tartalmának meghatározása | 7 400 Ft |
+| 126. Metil xantinok folyadékkromatográfiás meghatározása | 4 455 |
 
-| 125. | Denaturálószerek (izopropanol és terc-butanol) meghatározása hamisított szeszesitalokból | 8 000 Ft |
+| 127. Mikrohullámú feltárás elemösszetétel meghatározáshoz | 2 585 |
 
-| 126. | Denaturálószerek (metil-etil-keton) meghatározása hamisított szeszesitalokból | 8 000 Ft |
+| 128. Mikroszkópos vizsgálat | 1 000 |
 
-| 127. | Szeszesitalok illóanyag- és metanoltartalmának meghatározása | 8 900 Ft |
+| 129. Mono-etilénglikol és etilalkohol folyadékkromatográfiás meghatározása | 9 520 |
 
-| 128. | Kozmaolaj és denaturálószerek kimutatása alkoholtermékekből | 6 600 Ft |
+| 130. Műtrágya kálcium tartalmának meghatározás AAS technikával | 4 908 |
 
-| 129. | Zsírsavmetilészterek meghatározása középpárlatokban LC/GC technikával az MSZ EN 14331:2004 magyar szabvány alapján | 8 500 Ft |
+| 131. Műtrágya Kálium tartalmának meghatározása AAS technikával | 4 894 |
 
-| 130. | Zsíradékok zsírsavösszetételének meghatározása gázkromatográfiás vizsgálattal az MSZ 19928-86:1987 magyar szabvány alapján előállított zsírsavmetilészterekből | 7 000 Ft |
+| 132. Műtrágya magnézium tartalmának meghatározása AAS technikával | 4 894 |
 
-| 131. | Zsíradékok tejzsírtartalmának meghatározása a 4154/87 EGK rendelet szerint gázkromatográfiás vizsgálattal az MSZ 19928-86:1987 magyar szabvány alapján előállított zsírsavmetilészterekből | 22 800 Ft |
+| 133. Négyzetmétertömeg meghatározása (kondícionálás nélkül) | 268 |
 
-| 132. | Tejzsírtartalom meghatározása Caviezel®Büchi) módszerrel az élelmiszertermékekből extrahált szabad zsírsavakból | 14 200 Ft |
+| 134. Nettó tömeg meghatározás {max 6 kg} | 2 551 |
 
-| 133. | Szerves vegyületek kvantitatív elemzése gázkromatográfiás vizsgálattal | 8 000 Ft |
+| 135. Nikotin kvalitatív elemzése dohánytermékekből gázkromatográfiás vizsgálattal | 5 735 |
 
-| 134. | Nikotin kvantatív elemzése dohánytermékekből gázkromatográfiás vizsgálattal | 8 000 Ft |
+| 136. Nikotin kvantitatív elemzése dohánytermékekből gázkromatográfiás vizsgálattal | 8 508 |
 
-| 135. | Szerves vegyületek kvalitatív elemzése gázkromatográfiás-tömegspektrometriás vizsgálattal | 16 700 Ft |
+| 137. Nitrogén {ammónium és nitrát nitrogén} meghatározás műtrágyákból | 7 349 |
 
-| 136. | Szerves vegyületek gőztéranalízise gázkromatográfiás-tömegspektrometriás vizsgálattal | 17 000 Ft |
+| 138. Nitrogén/fehérjetartalom meghatározása | 8 856 |
 
-| 137. | Direkt-MS: Szerves vegyületek kvalitatív elemzése tömegspektrometriás vizsgálattal | 17 400 Ft |
+| 139. Nitrogén/fehérjetartalom meghatározása (egyéb élelmiszertermékek) | 10 300 |
 
-| 138. | Kakaó, koffein vizsgálat | 7 600 Ft |
+| 140. Nitrogén/fehérjetartalom meghatározása édesipari termékekből | 10 957 |
 
-| 139. | Cukrok(Fr,Gl,Szach,Ma,La,stb.) és glicerin vizsgálatok aminos oszlopon | 7 100 Ft |
+| 141. Nitrogén/fehérjetartalom meghatározása hús és húskészítményekből | 10 957 |
 
-| 140. | Mono- di- oligó- és poliszacharidok, glikolok és etilalkohol hagyományos oszlopon mérve | 6 800 Ft |
+| 142. Nyersolajok és zsírok meghatározása | 7 770 |
 
-| 141. | Bitrex vizsgálat | 7 400 Ft |
+| 143. Nyersrost-tartalom meghatározás | 17 865 |
 
-| 142. | Dietilftalát vizsgálat | 7 000 Ft |
+| 144. Olajmagvak olajtartalmának meghatározása | 8 805 |
 
-| 143. | SY 124 vizsgálata | 6 300 Ft |
+| 145. Olajtartalom meghatározása metil-etilketonnal | 11 530 |
 
-| 144. | Szervessavak vizsgálata | 7 700 Ft |
+| 146. Oldhatósági vizsgálat | 1 380 |
 
-| 145. | Vízoldható vitaminok vizsgálata | 7 600 Ft |
+| 147. Ólomtartalom meghatározása benzinből AAS technikával | 6 729 |
 
-| 146. | Édesítőszerek vizsgálata | 7 900 Ft |
+| 148. Olvadáspont meghatározása | 542 |
 
-| 147. | FT-IR FAME gázolajból nem akkreditált | 4 000 Ft |
+| 149. Oszlopkromatográfia | 14 848 |
 
-| 148. | FT-IR FAME akkreditált gázolajból | 5 800 Ft |
+| 150. Oxigéntartalmú szerves vegyületek és az összes szerves kötésben lévő oxigéntartalom gázkromatográfiás {O-FID} meghatározása {E85-ből} | 13 939 |
 
-| 149. | FT-IR folyékony minták vizsgálata mintaváltóval egyszerű | 4 400 Ft |
+| 151. Oxigéntartalmú szerves vegyületek és az összes szerves kötésben lévő oxigéntartalom gázkromatográfiás {O-FID} meghatározása {motorbenzinekből} | 16 290 |
 
-| 150. | FT-IR folyékony minták vizsgálata mintaváltóval bonyolult | 6 400 Ft |
+| 152. Összes cián-hidrogéntartalom meghatározása | 5 678 |
 
-| 151. | FT-IR folyékony minták vizsgálata H-ATR egységgel | 4 300 Ft |
+| 153. Összes savtartalom meghatározás | 5 130 |
 
-| 152. | FT-IR folyékony minták vizsgálata H-ATR egységgel bonyolult | 6 300 Ft |
+| 154. Összes savtartalom meghatározása borokból titrimetriával | 5 947 |
 
-| 153. | FT-IR folyékony minták vizsgálata küvettában | 4 500 Ft |
+| 155. Összes szárazextrakt meghatározása borokból | 2 922 |
 
-| 154. | FT-IR szilárd minták vizsgálata KBr pasztillában | 4 700 Ft |
+| 156. Ötvözetek fémtartalmának meghatározása elemenként AAS technikával | 9 506 |
 
-| 155. | FT-IR szilárd minták vizsgálata gyémántcellában | 4 800 Ft |
+| 157. Papír és karton hamutartalmának meghatározása | 1 023 |
 
-| 156. | UV-VIS spektrum készítése | 5 700 Ft |
+| 158. Papír és karton simaságának meghatározása Parker Print-Surf módszerrel | 4 943 |
 
-| 157. | Termoanalízis 600 C-ig | 24 200 Ft |
+| 159. Papír mikroszkópos vizsgálata/Cellulózrostok mikroszkópos vizsgálata | 1 796 |
 
-| 158. | Termoanalízis 1200 C-ig | 24 900 Ft |
+| 160. Papíripari rostok mennyiségi meghatározása | 4 701 |
 
-| 159. | FT-NIR vizsgálat | 13 000 Ft |
+| 161. Papíripari rostok minőségi meghatározása | 5 662 |
 
-| 160. | Folyékony ásványolajtermékek. A szénhidrogéncsoport összetétel meghatározása. Fluoreszcensindikátor-adszorpciós módszer (FIA) | 13 600 Ft |
+| 162. Penetráció mérés | 3 790 |
 
-| 161. | Benzoltartalom meghatározása | 7 600 Ft |
+| 163. Peroxidáz aktivitás kimutatása {hőkezeltség vizsgálat} | 2 925 |
 
-| 162. | Ásványolajok elemzése gázkromatográfiás vizsgálattal | 6 300 Ft |
+| 164. pH meghatározás pH-mérő készülékkel | 1 288 |
 
-| 163. | E85 etanol tartalmának meghatározása | 6 700 Ft |
+| 165. Polifenol oxidáz aktivitás kimutatása {hőkezeltség vizsgálat} | 2 950 |
 
-| 164. | 13C/12C izotóp meghatározás GC/C-vel alkoholokból | 31 500 Ft |
+| 166. Porcelánok vízfelvételi tényezőjének meghatározása | 6 003 |
 
-| 165. | 13C/12C izotóp meghatározás EA-val cukrokból | 34 300 Ft |
+| 167. Raman spektroszkópia, folyadékok vizsgálata | 1 831 |
 
-| 166. | 13C/12C izotóp meghatározás EA-val mézekből | 39 900 Ft |
+| 168. Raman spektroszkópia, szilárd anyagok vizsgálata | 843 |
 
-| 167. | Marhahús genomiális vizsgálata | 227 900 Ft |
+| 169. Redukáló cukortartalom meghatározása | 13 425 |
 
-| 168. | Alkohol SNIFNMR mérése | 67 700 Ft |
+| 170. Refraktometriás mérés -folyékony és félsűrű termékek- (mintaelőkészítéssel) | 3 388 |
 
-| 169. | Ecetminták SNIFNMR mérése | 89 700 Ft |
+| 171. Refraktometriás mérés -folyékony és félsűrű termékek- | 3 250 |
 
-| 170. | Víztartalom | 9 800 Ft |
+| 172. Refraktometriás mérés -sűrű, alkoholtartalmú és száraz termékek- | 8 220 |
 
-| 171. | Gőznyomás | 6 200 Ft |
+| 173. Repesztő-nyomás meghatározása | 414 |
 
-| 172. | Olajmagvak olajtartalmának meghatározása | 8 700 Ft |
+| 174. Rizsszemek mikroszkópos vizsgálata, hosszúságmérés | 1 321 |
 
-[^201]: A 13. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 79. § (2) bekezdése iktatta be.
+| 175. Sajtok, tejtermékek és túró szárazanyag-tartalmának meghatározása | 3 325 |
+
+| 176. Sajtok, tejtermékek és túró zsírtartalmának meghatározása | 9 226 |
+
+| 177. Sótartalom {kloridtartalom} meghatározás | 11 383 |
+
+| 178. Sótartalom {kloridtartalom} meghatározás kekszekből | 11 383 |
+
+| 179. Sótartalom {kloridtartalom} meghatározás sűtőipari termékekből | 11 182 |
+
+| 180. Sótartalom {kloridtartalom} meghatározás tartósított élelmiszerekből | 11 383 |
+
+| 181. Sörvizsgálat automata söranalizátorral | 4 829 |
+
+| 182. Sörvizsgálat klasszikus desztillációval és sűrűségméréssel | 10 770 |
+
+| 183. Sűrűség meghatározása elektronikus sűrűségmérő készülékkel | 3 015 |
+
+| 184. Sűrűség meghatározása piknométerrel | 1 771 |
+
+| 185. Sűrűségmérés areométerrel | 2 882 |
+
+| 186. Sűrűségmérés ásványolaj termékekből, vegyipari termékekből | 2 126 |
+
+| 187. Sűrűségmérés elektronikus sűrűségmérő készüléken ásványolaj termékekből | 3 015 |
+
+| 188. Szakítóerő meghatározása {fonalak} | 7 384 |
+
+| 189. Szárazanyag tartalom meghatározása cukorszirupokból elektronikus sűrűségmérővel | 3 635 |
+
+| 190. Szárazanyag tartalom meghatározása szárítószekrényben | 3 162 |
+
+| 191. Szárazanyag-tartalom meghatározása vákuum-szárítószekrényes módszer | 7 317 |
+
+| 192. Szén illóanyagtartalmának meghatározása | 2 916 |
+
+| 193. Szenek hamutartalmának meghatározása | 2 836 |
+
+| 194. Szerves gázhalmazállapotú vegyületek kvalitatív elemzése gázkromatográfiás vizsgálattal | 8 767 |
+
+| 195. Szerves savak folyadékkromatográfiás meghatározása | 6 189 |
+
+| 196. Szerves savak meghatározása kapillárelektroforézissel | 5 762 |
+
+| 197. Szerves szilárd vegyületek kvalitatív elemzése gázkromatográfiás vizsgálattal | 9 484 |
+
+| 198. Szerves szilárd vegyületek kvalitatív elemzése gázkromatográfiás- tömegspekrometriás vizsgálattal | 16 006 |
+
+| 199. Szerves vegyületek {folyadékok} kvalitatív elemzése gázkromatográfiás vizsgálattal | 9 501 |
+
+| 200. Szerves vegyületek {folyadékok} kvalitatív elemzése gázkromatográfiás- tömegspekrometriás vizsgálattal | 13 655 |
+
+| 201. Szerves vegyületek {gázhalmazállapotban} kvalitatív elemzése gázkromatográfiás- tömegspekrometriás vizsgálattal | 14 451 |
+
+| 202. Szerves vegyületek folyadékkromatográfiás vizsgálata | 4 515 |
+
+| 203. Szerves vegyületek gőztéranalízise gázkromatográfiás-tömegspektrometriás vizsgálattal | 7 339 |
+
+| 204. Szerves vegyületek kvalitatív elemzése tömegspektometriás vizsgálattal {direkt-MS} | 7 344 |
+
+| 205. Szerves vegyületek szerkezetmeghatározása | 15 339 |
+
+| 206. Szeszesitalok és likőrök összes szárazextrakt-tartalmának gravimetrikus meghatározása | 2 922 |
+
+| 207. Szeszesitalok illó rokon vegyületeinek és denaturáló szerek kimutatása | 6 025 |
+
+| 208. Szeszesitalok illó rokon vegyületeinek mennyiségi meghatározása | 4 899 |
+
+| 209. Szeszesitalok, szeszek alkoholtartalmának D/H izotóparány meghatározása SNIF-NMR technikával | 61 631 |
+
+| 210. Színszám meghatározás | 1 401 |
+
+| 211. Szitaanalízis, szemcseméret eloszlás (élelmiszertermékek) | 2 786 |
+
+| 212. Szitaanalízis, szemcseméret eloszlás | 2 317 |
+
+| 213. Szorbitol és mannitol folyadékkromatográfiás meghatározása | 8 938 |
+
+| 214. Szterintartalom meghatározás | 13 171 |
+
+| 215. Szulfáthamu meghatározása | 4 248 |
+
+| 216. Takarmányok nyersolaj és zsírtartalmának meghatározása | 7 839 |
+
+| 217. Tejfehérje meghatározása tejcsokoládé mintákból | 20 356 |
+
+| 218. Tejfehérje mennyiségi meghatározása elektroforézissel | 9 656 |
+
+| 219. Tejzsírtartalom meghatározása Caviezel módszerrel | 8 690 |
+
+| 220. Teobromin, koffein folyadékkromatográfiás meghatározása | 4 330 |
+
+| 221. Termoanalízis | 3 134 |
+
+| 222. Textil termékek nyersanyag-összetételének mennyiségi meghatározása, vágott/ végtelen szálarány meghatározása kézi szétválasztás módszerével | 9 882 |
+
+| 223. Textíliák nyersanyag összetételének meghatározása szálasanyagok felismerése | 1 391 |
+
+| 224. Textiltermékek négyzetmétertömeg meghatározása | 9 963 |
+
+| 225. Toll és pehely olaj- és zsírtartalom meghatározása | 10 647 |
+
+| 226. Többrétegű papír és karton réteg összeállítási módjának meghatározása | 486 |
+
+| 227. Transzformátor olajok inhibitor-tartalmának kimutatása | 377 |
+
+| 228. UV-VIS vizsgálat | 747 |
+
+| 229. Vaj zsírtartalmának meghatározása | 8 095 |
+
+| 230. Vastagságmérés rétegenként | 390 |
+
+| 231. Vékonyréteg kromatográfiás vizsgálat | 2 645 |
+
+| 232. Viszkozitás mérés ásványolajtermékekből | 1 907 |
+
+| 233. Viszkozitás mérés kapilláris viszkoziméterrel | 4 420 |
+
+| 234. Vízoldható vitaminok folyadékkromatográfiás meghatározása | 4 912 |
+
+| 235. Víztartalom coulombmetriás meghatározása | 4 728 |
+
+| 236. Víztartalom coulombmetriás meghatározása E85-ből | 5 531 |
+
+| 237. Víztartalom meghatározás Karl-Fischer titrálásos módszerrel | 3 814 |
+
+| 238. Zsír- és olajszármazékok. Az észter- és linolénsav-metil-észter-tartalom meghatározása | 5 676 |
+
+| 239. Zsiradékok tejzsírtartalmának meghatározása gázkromatográfiás vizsgálattal | 8 760 |
+
+| 240. Zsiradékok zsírsavösszetételének megatározása gázkromatográfiával | 7 378 |
+
+| 241. Zsírsavmetilészterk meghatározása középpárlatokban LC/GC technikával | 8 940 |
+
+| 242. Zsírtartalom meghatározása Schmid-Bordzynski-Ratzlaff {SBR} módszerrel | 7 981 |
+
+| 243. Zsírtartalom meghatározása Soxhlet extrakcióval | 10 392 |
+
+[^202]: A 13. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 79. § (2) bekezdése iktatta be, szövege a 32/2013. (VIII. 14.) NGM rendelet 3. §-ával megállapított szöveg.

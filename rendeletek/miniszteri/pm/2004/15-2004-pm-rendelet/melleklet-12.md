@@ -20,7 +20,7 @@
 
 ## 1. A Módosító lap vagy azzal egyező adattartalmú és formátumú bizonylat a feladó/exportőr által – fénymásolás útján, nyomdailag vagy más módon szabadon – előállított adatlap.
 
-## 2.[^196] A Módosító lapot két példányban kiállítva kell benyújtani a kiviteli eljárást végző vámhivatalhoz azokban az esetekben, amikor olyan EV valamely adatának módosítását kéri a feladó/exportőr, amelynek az 1. Bejelentés rovatában EX, EU vagy CO kód került alkalmazásra.
+## 2.[^197] A Módosító lapot két példányban kiállítva kell benyújtani a kiviteli eljárást végző vámhivatalhoz azokban az esetekben, amikor olyan EV valamely adatának módosítását kéri a feladó/exportőr, amelynek az 1. Bejelentés rovatában EX, EU vagy CO kód került alkalmazásra.
 
 ## 3. A Módosító lap több EV összesen huszonöt adatának módosítását teszi lehetővé.
 
@@ -34,7 +34,7 @@
 
 ## 8. A negyedik – Új adat – oszlopba a helyes (módosított) adatot kell beírni.
 
-## 9.[^197] A vámszerv csak javítás nélküli, egyértelműen kitöltött Módosító lapot fogad el. Ha valamely adat módosításával nem ért egyet, akkor azt a Módosító lapon áthúzással érvényteleníti. Ennek módosítása csak új Módosító lap benyújtásával végezhető el.
+## 9.[^198] A vámszerv csak javítás nélküli, egyértelműen kitöltött Módosító lapot fogad el. Ha valamely adat módosításával nem ért egyet, akkor azt a Módosító lapon áthúzással érvényteleníti. Ennek módosítása csak új Módosító lap benyújtásával végezhető el.
 
 ## 10. A feladó/exportőr tudomásul veszi, hogy amennyiben a módosítás a vám kiszabását, illetve visszatérítését befolyásolja, az EV megfelelő adatának módosítása nem eredményezi a vámkiszabás, illetve -visszatérítés automatikus módosítását.
 
@@ -52,7 +52,7 @@
 
 ## 1. A Módosító lap vagy azzal egyező adattartalmú és formátumú bizonylat a címzett vagy a vámkezelést kérő által – fénymásolás útján, nyomdailag vagy más módon szabadon – előállított adatlap.
 
-## 2.[^198] A Módosító lapot egy példányban kiállítva kell csatolni az alapvámkezelést végző (anya)vámszervnél benyújtott kérelmekhez azokban az esetekben, amikor a kérelem olyan EV-vel vagy határozattal kapcsolatos utólagos intézkedésre vonatkozik, amelynek az 1. Bejelentés rovatában IM, EU, CO vagy A kód került alkalmazásra. Utólagos intézkedésnek minősül e szemponttól:
+## 2.[^199] A Módosító lapot egy példányban kiállítva kell csatolni az alapvámkezelést végző (anya)vámszervnél benyújtott kérelmekhez azokban az esetekben, amikor a kérelem olyan EV-vel vagy határozattal kapcsolatos utólagos intézkedésre vonatkozik, amelynek az 1. Bejelentés rovatában IM, EU, CO vagy A kód került alkalmazásra. Utólagos intézkedésnek minősül e szemponttól:
 
 ## – a határozat kijavítása, kiegészítése,
 
@@ -78,12 +78,12 @@
 
 ## 9. A negyedik – Új adat – oszlopban a helyes (módosított) adatot kell beírni. Amennyiben a rovatnak alrovataira vonatkozik az új adat közlése, úgy az alrovatokat /- jelöléssel kell az oszlop sorában jelezni.
 
-## 10.[^199] A Módosító lap az írásbeli kérelem melléklete, azon a vámszerv javítást nem végez, a kérelemtől eltérő döntését határozatában indokolja.
+## 10.[^200] A Módosító lap az írásbeli kérelem melléklete, azon a vámszerv javítást nem végez, a kérelemtől eltérő döntését határozatában indokolja.
 
-12. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^200]
+12. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^201]
 
-[^196]: [A 11. számú melléklet kitöltési szabályzat 2. pontjában a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint elrendelet módosítás, amely szerint az „(anya)vámhivatalnál” szövegrész helyébe az „(anya)vámszervnél” szöveg lép, nem vezethető át.]
-[^197]: A 11. számú melléklet kitöltési szabályzat 9. pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint módosított szöveg.
-[^198]: A 11. számú melléklet "Kitöltési szabályzat a Módosító lap alkalmazásához (behozatali irányú vámkezelés esetén)" 2. pontja az 51/2005. (XII. 28.) PM rendelet 9. § (5) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint módosított szöveg.
-[^199]: A 11. számú melléklet módosító lap kitöltési szabályzat 10. pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint módosított szöveg.
-[^200]: A 12. számú mellékletet a 45/2004. (XII. 29.) PM rendelet 4. §-nak (3) bekezdése iktatta be, a módosító rendelet szövege a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg. A 12. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 80. §-a hatályon kívül helyezte.
+[^197]: [A 11. számú melléklet kitöltési szabályzat 2. pontjában a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint elrendelet módosítás, amely szerint az „(anya)vámhivatalnál” szövegrész helyébe az „(anya)vámszervnél” szöveg lép, nem vezethető át.]
+[^198]: A 11. számú melléklet kitöltési szabályzat 9. pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint módosított szöveg.
+[^199]: A 11. számú melléklet "Kitöltési szabályzat a Módosító lap alkalmazásához (behozatali irányú vámkezelés esetén)" 2. pontja az 51/2005. (XII. 28.) PM rendelet 9. § (5) bekezdésével megállapított, a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint módosított szöveg.
+[^200]: A 11. számú melléklet módosító lap kitöltési szabályzat 10. pontja a 17/2011. (IV. 19.) NGM rendelet 78. § (11) bekezdése szerint módosított szöveg.
+[^201]: A 12. számú mellékletet a 45/2004. (XII. 29.) PM rendelet 4. §-nak (3) bekezdése iktatta be, a módosító rendelet szövege a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg. A 12. számú mellékletet a 17/2011. (IV. 19.) NGM rendelet 80. §-a hatályon kívül helyezte.
