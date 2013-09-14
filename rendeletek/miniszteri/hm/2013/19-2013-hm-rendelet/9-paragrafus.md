@@ -1,0 +1,1 @@
+## 8. § A közalkalmazott részére csak a belföldi hivatalos kiküldetést teljesítő munkavállaló élelmezési költségtérítéséről szóló 278/2005. (XII. 20.) Korm. rendelet 3. § (1) bekezdése szerinti átalány legkisebb összege adható.

@@ -1,0 +1,19 @@
+## 13. A vezényléssel kapcsolatos költségtérítések
+
+24. § (1) A szolgálatteljesítési helyétől, a lakóhelyétől és a tartózkodási helyétől eltérő belföldi településre
+
+a) az állomány képzésben való részvétel vagy szolgálati feladat ellátása céljából vezényelt tagja,
+
+b) szolgálati feladat ellátása céljából vezényelt önkéntes tartalékos katona, valamint
+
+c) képzésre beiskolázott vagy a kinevezéstől eltérő foglalkoztatásban érintett, kirendelt közalkalmazott
+
+részére a felmerülő költségeket az 5–7. § és a 10–14. § alkalmazásával kell megtéríteni.
+
+(2) Az (1) bekezdéstől eltérően a folyamatos, 6 hónapnál hosszabb időtartamú vezénylés, beiskolázás, kirendelés esetén a felmerülő utazási költségeket a 15–17. §-ban meghatározott rendben kell megtéríteni azzal az eltéréssel, hogy közösségi közlekedési eszköz igénybevétele esetén a helyközi munkába járási költségek és a szolgálatteljesítési hely szerinti településen a helyi munkába járási költségek teljes összegét ki kell fizetni.
+
+(3) Nem téríthetők meg az önkéntes tartalékos katona részére az (1) bekezdés b) pontja szerinti vezénylés során a lakóhely és a tartózkodási hely szerinti településen a helyi munkába járási költségek.
+
+(4) 12 hónapot meghaladó belföldi képzésre vezénylés esetén az állomány tagja részére írásbeli kérelme alapján a 20–22. § szerinti költségtérítések folyósítását kell engedélyezni.
+
+(5) Az e § szerinti juttatásokra nem jogosult az a honvéd tisztjelölt és az a honvéd altiszt-jelölt, valamint az állomány Hjt. 46. § (1) bekezdés c) pontja alá tartozó azon tagja, aki nem a Honvédelmi Minisztérium képzési igényeihez kapcsolódóan vesz részt belföldi képzésben.
