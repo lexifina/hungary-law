@@ -1,3 +1,3 @@
-44/A. §[^67] Az elejtett vad jelöléséről, valamint kezelésének és forgalomba hozatalának élelmiszer-higiéniai és állat-egészségügyi feltételeiről szóló 141/2009 (X. 29.) FVM rendelet 2011. április 27-én hatályos 3. § 6. pontja szerinti vadkísérő jegy a 2011/2012. vadászati évben is felhasználható.
+44/A. §[^67]
 
-[^67]: A Vhr. 44/A. §-át a 30/2011. (IV. 27.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^67]: A Vhr. 44/A. §-át a 30/2011. (IV. 27.) VM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 74/2013. (VIII. 30.) VM rendelet 15. § b) pontja.
