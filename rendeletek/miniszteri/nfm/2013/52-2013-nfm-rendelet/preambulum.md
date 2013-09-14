@@ -1,0 +1,5 @@
+A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdés 2. pontjában,
+
+a 12. § és a 4. melléklet tekintetében a földgázellátásról szóló 2008. évi XL. törvény 133. § (1) bekezdés 3. pontjában
+
+kapott felhatalmazás alapján – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § f) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
