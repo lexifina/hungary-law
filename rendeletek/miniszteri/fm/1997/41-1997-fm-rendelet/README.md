@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-41-20-1
 | 2013-01-01 | 1997-41-20-11.44 | 151/2012. (XII. 29.) VM rendelet |
 | 2013-06-17 | 1997-41-20-11.45 | 51/2013. (VI. 17.) VM rendelet |
 | 2013-08-01 | 1997-41-20-11.46 | 70/2013. (VII. 31.) VM rendelet |
+| 2013-09-14 | 1997-41-20-11.47 | 74/2013. (VIII. 30.) VM rendelet |
