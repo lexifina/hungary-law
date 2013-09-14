@@ -1,1 +1,0 @@
-## „(3) Az illetékes vám- és pénzügyőri igazgatóság a védelmi érdekek zavartalan ellátása érdekében a katonai vámügyi szerv és a nemzetközi katonai szervezet indokolt kérelmére a nem közösségi katonai áru szállítóeszközről történő kirakását soron kívül engedélyezi.”
