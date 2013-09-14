@@ -1,1 +1,0 @@
-## címen állapítható meg.

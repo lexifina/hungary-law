@@ -1,1 +1,0 @@
-## 34. § Az egyéb utazásokat és azok költségeinek megtérítését az állományilletékes parancsnok, illetőleg a költségeket viselő honvédelmi szervezet parancsnoka – az igénybe vehető közlekedési eszköz megjelölésével – parancsban engedélyezi.
