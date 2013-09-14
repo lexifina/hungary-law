@@ -1,6 +1,6 @@
 ## Zöldségvetőmag import
 
-8. § (1)[^36] Harmadik országból származó zöldségvetőmag csak az e rendeletben foglalt előírásoknak megfelelően forgalmazható. Csemege és pattogató kukorica esetében a forgalomba hozatal feltétele a GMO tartalomra vonatkozó magyar hatósági laboratóriumi mérési jegyzőkönyv csatolása.
+8. § (1)[^35] A harmadik országból származó zöldségvetőmag csak az e rendeletben foglalt előírásoknak megfelelően forgalmazható. A csemege és pattogató kukorica vetőmagtételek esetében a forgalomba hozatal feltétele a GMO mentességre vonatkozó akkreditált laboratóriumi mérési jegyzőkönyv csatolása. A csemege és pattogató kukorica vetőmagtételt Magyarországon első alkalommal forgalomba hozónak a vetőmagtétel beérkezését követően 5 napon belül írásban tájékoztatnia kell a NÉBIH-et a vetőmagtétel beszállításának tényéről, valamint mennyiségéről a MódR2. hatálybalépésétől[^36] számított két évig. A NÉBIH a bejelentett csemege és pattogató kukorica vetőmagtételek GMO mentességét kockázatértékelés alapján vizsgálja. A vizsgálati eljárásra a 7. § (2) bekezdésében, valamint a (4)–(5) bekezdésében foglaltakat kell alkalmazni.
 
 (2)[^37] Hivatalosan vizsgált szuperelit, elit és certifikált vetőmag esetén a fajtát és a vetőmag minőségét nemzetközileg elfogadott vetőmag minősítő okmányokkal kell igazolni. Amennyiben az Európai Unió a harmadik ország minősítési eljárását egyenértékűnek ismeri el, akkor kérésre a NÉBIH az adott vetőmagtételt hatóságilag minősítettként elismeri. A harmadik országból származó vetőmagtételek csak a NÉBIH minősítése, illetve utóellenőrzése után hozhatók forgalomba.
 
@@ -24,7 +24,8 @@ f) az importőr nevét és címét, valamint
 
 g) a vetőmag mennyiségét.
 
-[^36]: A 8. § (1) bekezdése a 14/2011. (II. 24.) VM rendelet 5. §-ával megállapított, az 1/2012. (I. 20.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 8. § (1) bekezdése a 81/2013. (IX. 13.) VM rendelet 2. §-ával megállapított szöveg.
+[^36]: A hatálybalépés időpontja 2013. szeptember 14.
 [^37]: A 8. § (2) bekezdése a 14/2011. (II. 24.) VM rendelet 5. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^38]: A 8. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 10. § b) pontja szerint módosított szöveg.
 [^39]: A 14/2011. (II. 24.) VM rendelet 19. § (2) bekezdésével elrendelt módosítás, amely szerint a „Központja” szövegrész hatályát veszti, nem vezethető át.

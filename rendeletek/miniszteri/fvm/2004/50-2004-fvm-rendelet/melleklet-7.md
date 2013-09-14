@@ -50,7 +50,7 @@
 
 ## 1. Kötelező adatok
 
-## 1.1. „EK-szabályok és –szabványok”.
+## 1.1. „EU-szabályok és -szabványok”.
 
 ## 1.2. A címkézésért felelős személy neve és címe vagy azonosító jele.
 
@@ -71,6 +71,20 @@
 ## 1.10. A tömeg feltüntetése esetén, amennyiben szemcsés növényvédőszer, csávázószer vagy egyéb szilárd adalékanyag használatára került sor, az adalékanyag jellege, valamint a gomolyok illetve a tiszta vetőmag tömegének a teljes tömeghez viszonyított közelítő aránya.
 
 ## 2. A címke minimális mérete (a kis kiszerelésű vetőmag kivételével) 110 × 67 mm.
+
+## 3. Kis kiszerelésű vetőmagkeverékek esetében a címkének tartalmaznia kell az 1.1–1.3. pontokban foglaltakon kívül:
+
+## 3.1. a „[a faj neve] … fajták keveréke” feliratot,
+
+## 3.2. a fajták megnevezését,
+
+## 3.3. a fajták arányát a vetőmagok nettó súlyban vagy a vetőmagok számában kifejezve,
+
+## 3.4. a tételnek a címkézésért felelős személy által megadott referencia számot,
+
+## 3.5. a vetőmag nettó vagy bruttó súlyát vagy darabszámát,
+
+## 3.6. ha a tömeg fel van tüntetve és szemcsézett peszticideket, drazsírozó anyagokat vagy más szilárd adalékot használnak, akkor a vegyszeres kezelés vagy az adalék jellege és a termésfürtök, illetve a tiszta vetőmagok tömege és az össztömeg közötti hozzávetőleges arányt is.
 
 ## C. rész
 
