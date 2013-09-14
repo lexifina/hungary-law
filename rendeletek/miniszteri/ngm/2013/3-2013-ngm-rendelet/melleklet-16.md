@@ -285,7 +285,3 @@ Nyugta minta az euró hivatalos pénznemmé tételét követően:
 (Forint, mint fizetőeszköz kivonásra kerül a forgalomból.)
 
 (a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonyának bemutatására)
-
-| VÁLLALKOZÓ NEVE VÁLLALKOZÓ CÍME VÁLLALKOZÓ ADÓSZÁMA RENDSZÁM K ÁLLANDÓ ***** NYUGTA ***** INDULÁS: ÉRKEZÉS: 2020.03.01. 13:04 2020. 03. 01. 14:21 MEGTETT UTAS-KM: 27,6 KM ALAPDÍJ (€): 2,33 TARIFA: 1 ÚTDÍJ(€/KM): 1,01 VÁRAKOZÁSI DÍJ (€/PERC): 0,81 -------------------------------------------------------- ÖSSZESEN: 31,28 € NYUGTASZÁM: 2302/0001 2020. 03. 01. 14:22 AP XXXXXXXXX |
-
-Időszakos forgalmi jelentés minta az euró hivatalos pénznemmé tételét követően:

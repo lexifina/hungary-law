@@ -1,4 +1,4 @@
-## 74. §[^32]
+## 74. §[^34]
 
 75. § (1) A pénztárgép használatra nem kötelezett adóalany, illetve az adóalany azon tevékenysége tekintetében, amely vonatkozásában nem kötelezett pénztárgép használatra, a 2013. március 20-át megelőzően engedélyezett, de az e rendeletben foglalt előírásoknak meg nem felelő pénztárgépet 2015. január 1-éig üzemeltetheti.
 
@@ -14,7 +14,7 @@ c) az állami adóhatóság e rendelet szerint vagy adóellenőrzés során elj�
 
 (3) Az adómemória kiíratást a pénztárgépnaplóba be kell jegyezni.
 
-(4)[^33] A pénztárgép adómemóriájának kiírását az üzemeltető maga is elvégezheti vagy azzal szervizt, illetve más, szerviznek vagy műszerésznek nem minősülő személyt is megbízhat. A szerviz, illetve amennyiben az adómemória kiírást nem szerviz végzi, az üzemeltető köteles a kiírást bejegyezni a pénztárgépnaplóba, és arról a 42. § (1) bekezdésének megfelelő alkalmazásával adatot szolgáltatni az állami adóhatóságnak.
+(4)[^35] A pénztárgép adómemóriájának kiírását az üzemeltető maga is elvégezheti vagy azzal szervizt, illetve más, szerviznek vagy műszerésznek nem minősülő személyt is megbízhat. A szerviz, illetve amennyiben az adómemória kiírást nem szerviz végzi, az üzemeltető köteles a kiírást bejegyezni a pénztárgépnaplóba, és arról a 42. § (1) bekezdésének megfelelő alkalmazásával adatot szolgáltatni az állami adóhatóságnak.
 
-[^32]: A 74. §-t a 25/2013. (VI. 28.) NGM rendelet 2. §-a hatályon kívül helyezte.
-[^33]: A 75. § (4) bekezdése a 13/2013. (III. 29.) NGM rendelet 15. § (12) bekezdése szerint módosított szöveg.
+[^34]: A 74. §-t a 25/2013. (VI. 28.) NGM rendelet 2. §-a hatályon kívül helyezte.
+[^35]: A 75. § (4) bekezdése a 13/2013. (III. 29.) NGM rendelet 15. § (12) bekezdése szerint módosított szöveg.

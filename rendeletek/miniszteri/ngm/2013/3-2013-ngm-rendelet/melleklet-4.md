@@ -1372,6 +1372,6 @@
 
 ## 10. RAM törlés esetén a RAM törlés okát a taxaméternaplóban fel kell tüntetni.
 
-4. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^41]
+4. melléklet a 3/2003 . (II. 15.) NGM rendelethez[^45]
 
-[^41]: A 4. melléklet a 13/2013. (III. 29.) NGM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^45]: A 4. melléklet a 13/2013. (III. 29.) NGM rendelet 14. § (2) bekezdésével megállapított szöveg.

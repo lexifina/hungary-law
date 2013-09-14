@@ -34,6 +34,6 @@ d) a pénztárgép eltulajdonítása, megsemmisülése, elvesztése esetén az �
 
 (5) Taxaméter esetén a (2)–(3) bekezdésekben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés a)–e) pontja szerinti esemény bekövetkezésétől a nyugtakibocsátási kötelezettség taxaméterrel történő teljesítése feltételeinek helyreálltáig újabb fuvart kezdeni nem lehet.
 
-(6)[^1] A nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltakor a pénztárgépben első tételként a (2) bekezdés szerinti esemény bekövetkeztétől a nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltáig bizonylatolt bevételt kell rögzíteni, külön megjelöléssel vagy az erről utólag egy összegben készült gépi nyugtán történő feljegyzéssel, a bizonylat megőrzése mellett. Cserepénztárgép használata esetén a 45. § (6) bekezdése szerint kell eljárni.
+(6)[^2] A nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltakor a pénztárgépben első tételként a (2) bekezdés szerinti esemény bekövetkeztétől a nyugtakibocsátási kötelezettség pénztárgéppel történő teljesítése feltételeinek helyreálltáig bizonylatolt bevételt kell rögzíteni, külön megjelöléssel vagy az erről utólag egy összegben készült gépi nyugtán történő feljegyzéssel, a bizonylat megőrzése mellett. Cserepénztárgép használata esetén a 45. § (6) bekezdése szerint kell eljárni.
 
-[^1]: Az 1. § (6) bekezdése a 13/2013. (III. 29.) NGM rendelet 15. § (1) bekezdése, a 16. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § (6) bekezdése a 13/2013. (III. 29.) NGM rendelet 15. § (1) bekezdése, a 16. § 1. pontja szerint módosított szöveg.

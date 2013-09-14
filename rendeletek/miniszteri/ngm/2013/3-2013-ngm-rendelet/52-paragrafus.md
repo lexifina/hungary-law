@@ -1,4 +1,4 @@
-52. §[^23] (1) A pénztárgép üzemeltetője köteles a pénztárgép üzemeltetési helyének megváltozását az erre a célra rendszeresített nyomtatványon az üzemeltetési hely megváltoztatásának időpontját megelőző 5. napig az állami adóhatósághoz bejelenteni. A bejelentésben meg kell jelölni az üzemeltetési hely megváltoztatásának tervezett időpontját.
+52. §[^24] (1) A pénztárgép üzemeltetője köteles a pénztárgép üzemeltetési helyének megváltozását az erre a célra rendszeresített nyomtatványon az üzemeltetési hely megváltoztatásának időpontját megelőző 5. napig az állami adóhatósághoz bejelenteni. A bejelentésben meg kell jelölni az üzemeltetési hely megváltoztatásának tervezett időpontját.
 
 (2) Az (1) bekezdés szerinti bejelentés alapján a Nemzeti Adó- és Vámhivatal szervere az 5. mellékletben meghatározottak szerint a bejelentésben megjelölt időponttal módosítja a pénztárgépben a pénztárgép üzemeltetési helyére vonatkozó adatot.
 
@@ -10,4 +10,4 @@ a) a (2) bekezdésben meghatározott esetben az üzemeltető,
 
 b) a (3) bekezdésben meghatározott esetben a műszerész
 
-[^23]: Az 52. § a 13/2013. (III. 29.) NGM rendelet 8. §-ával megállapított szöveg.
+[^24]: Az 52. § a 13/2013. (III. 29.) NGM rendelet 8. §-ával megállapított szöveg.

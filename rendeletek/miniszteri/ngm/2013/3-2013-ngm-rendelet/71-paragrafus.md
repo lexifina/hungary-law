@@ -1,6 +1,6 @@
 ## 21. Átmeneti rendelkezések
 
-71. § (1)[^28] A 2013. március 20-át megelőzően engedélyezett, de az e rendeletben foglalt előírásoknak meg nem felelő pénztárgépek – a 72–75. §-ban foglalt kivétellel – 2013. augusztus 31-ig üzemeltethetők.
+71. § (1)[^29] A 2013. március 20-át megelőzően engedélyezett, de az e rendeletben foglalt előírásoknak meg nem felelő pénztárgépek – a 71/A–75. §-ban foglalt kivétellel – 2013. augusztus 31-ig üzemeltethetők.
 
 (2) Az (1) bekezdés szerinti pénztárgépek szervizelésére, üzemeltetésére, a pénztárgép adataira vonatkozó adatszolgáltatásra – ideértve az adómemória kiíratására vonatkozó kötelezettséget is – a számla, egyszerűsített számla és nyugta adóigazgatási azonosításáról, valamint a nyugta adását biztosító pénztárgép és taxaméter alkalmazásáról szóló 24/1995. (XI. 22.) PM rendelet 2013. február 15-én hatályos rendelkezéseit kell alkalmazni.
 
@@ -8,4 +8,4 @@
 
 (4) A Nemzeti Adó- és Vámhivatal által 2013. március 19-ig kiadott szervizengedélyek, műszerészi igazolványok és plombanyomók 2013. április 30-án érvényüket vesztik.
 
-[^28]: A 71. § (1) bekezdése a 25/2013. (VI. 28.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^29]: A 71. § (1) bekezdése a 37/2013. (IX. 13.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.

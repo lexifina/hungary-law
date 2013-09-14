@@ -88,6 +88,6 @@ f) a nyitott napló fájl megjelenítésére szolgáló szerviz eszközöket,
 
 g) az elektronikus naplófájlok archiválási folyamatának leírását, az archivált fájlok megjelenítésére szolgáló eszközöket.
 
-(9)[^4] A (4)–(8) bekezdésben meghatározott dokumentációt, valamint a 10. §-ban meghatározott kezelői leírást és technikai funkció leírást valamennyi pénztárgép esetén elektronikus adathordozón, elektronikusan szövegszerűen kereshető – nem képi – formátumban (Portable Document Format) kell benyújtani.
+(9)[^5] A (4)–(8) bekezdésben meghatározott dokumentációt, valamint a 10. §-ban meghatározott kezelői leírást és technikai funkció leírást valamennyi pénztárgép esetén elektronikus adathordozón, elektronikusan szövegszerűen kereshető – nem képi – formátumban (Portable Document Format) kell benyújtani.
 
-[^4]: A 9. § (9) bekezdése a 13/2013. (III. 29.) NGM rendelet 15. § (4) bekezdése szerint módosított szöveg.
+[^5]: A 9. § (9) bekezdése a 13/2013. (III. 29.) NGM rendelet 15. § (4) bekezdése szerint módosított szöveg.
