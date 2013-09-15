@@ -1,6 +1,6 @@
 ## A kibocsátási engedély tartalmi követelményei
 
-## A kibocsátási engedélynek az alábbiakat tartalmazza:
+## A kibocsátási engedély az alábbiakat tartalmazza:[^49]
 
 ## a) ÜHG engedélyazonosító;
 
@@ -8,11 +8,11 @@
 
 ## c) a létesítmény azonosító adatai;
 
-## d) a létesítmény névleges kapacitása;
+## d)[^50] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
 
 ## e) a villamosenergia- és hőtermelés során használt technológia;
 
-## f) az engedélyezett üvegházhatású gáz (gázok) megjelölése;
+## f)[^51] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
 
 ## g) a környezethasználat feltételeit megállapító, alapul szolgáló engedély megnevezése;
 
@@ -42,7 +42,7 @@
 
 ## l) az üzemeltető azon kötelezettségének megállapítása, mely szerint minden év április 30-ig köteles a nyomon követett előző évi kibocsátásainak megfelelő mennyiségű kibocsátási egységet visszaadni.
 
-4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez
+4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^52]
 
 1. A számlavezetési díj mértéke és alapja üzemeltetői számla esetében
 
@@ -74,4 +74,9 @@
 
 2. A számlavezetési díj alapja üzemeltetői számla esetében
 
-Az üzemeltetői számla esetében a díjfizetés alapja a Nemzeti Végrehajtási Intézkedésben és az új belépő tartalék terhére a tárgyévre a létesítmény részére ingyenesen kiosztott kibocsátási egység mennyisége [kibocsátási egységmennyiség (db)/év] létesítményenként.
+Az üzemeltetői számla esetében a díjfizetés alapja a tárgyévre a létesítmény részére térítésmentesen kiosztott kibocsátási egység mennyisége [kibocsátási egységmennyiség (db)/év] létesítményenként, a nemzeti kiosztási táblával összhangban.
+
+[^49]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^50]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^51]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^52]: A 4. melléklet a 329/2013. (IX. 3.) Korm. rendelet 23. § (3) bekezdése szerint módosított szöveg.

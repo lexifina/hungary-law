@@ -1,9 +1,11 @@
-## 7. § A vagyonkezelési szerződés – az ÜHG-egység sajátos jellegére tekintettel – tartalmazza különösen:
+7. §[^12] (1) A tulajdonosi joggyakorló az ÜHG-egységek értékesítésének pénzügyi teljesítését követő 30 napon belül tájékoztatja az államháztartásért felelős minisztert és az MNV Zrt.-t:
 
-a) az adott kereskedési időszak meghatározását,
+a) az értékesítés tényéről,
 
-b) a kereskedési időszak alatt létrehozott ÜHG-egységek mint kincstári vagyonelemek típusát, teljes mennyiségét és keletkezésének időpontját,
+b) az értékesített ÜHG-egységek mennyiségéről,
 
-c) az ÜHG-egységekhez kapcsolódó azonosító kódokat, és
+c) az ÜHG-egység vételáráról.
 
-d) az ÜHG-egységek állami vagyonból történő kikerüléséről szóló tájékoztatási kötelezettséget az MNV Zrt. irányába.
+(2) Az 1031/2010/EU bizottsági rendelet 18. cikk (2) és (3) bekezdésében hivatkozott személyek ezen cikkek alapján ajánlatot tenni kizárólag a pénzügyi szervezetek felügyeletét ellátó szervnek árutőzsdei szolgáltatás nyújtására irányuló engedélye alapján jogosultak.
+
+[^12]: A 7. § a 329/2013. (IX. 3.) Korm. rendelet 9. §-ával megállapított szöveg.

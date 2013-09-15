@@ -16,7 +16,7 @@
 
 ## A.3.2 A létesítmény telephelyére kiadott környezetvédelmi engedély megnevezése: az egységes környezethasználati (EKHE) engedély (engedélyek) száma, kiadásának dátuma, kiállító hatóság megnevezése és az EKHE engedély jogerőre emelkedésének dátuma; ha a telephelyen végzett tevékenység nem EKHE engedélyköteles, akkor a környezethasználat feltételeit is megállapító engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély jogerőre emelkedésének dátuma.
 
-## A.3.3 A próbaüzem és a rendes működés megkezdésnek tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása.
+## A.3.3[^47] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása.
 
 ## A.4 A LÉTESÍTMÉNY KIBOCSÁTÁSI KATEGÓRIÁJA
 
@@ -26,7 +26,7 @@
 
 ## b) B kategóriájú létesítmény: 50 000 tCO2(e) és 500 000 tCO2(e) között
 
-## c) C kategóriájú létesítmény 500 000 tCO2(e)<.
+## c)[^48] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
 
 ## B. A KIBOCSÁTÁSOK NYOMON KÖVETÉSÉVEL KAPCSOLATOS ADATOK ÉS MÓDSZEREK (Nyomon követési Terv – NykT)
 
@@ -255,3 +255,6 @@
 2.9. Vas és acél termelése (V): idetartoznak az integrált acélművek, valamint a vas-, illetve acéltermelés és technológiailag a hozzá kapcsolódó vas-, illetve acéltermékek gyártása. 2008. január l-jétől nem tartozik ide a vas- és acéltermékek gyártása, amennyiben a létesítményben nincs vas-, illetve acéltermelés.
 
 2.10. Üveggyártás (XIII): 2008. január 1-jétől az üveggyártást folytató létesítmény esetében a telephelyen az üvegtermékek előállításakor keletkező valamennyi tüzelési eredetű kibocsátást figyelembe kell venni.
+
+[^47]: Az 1. melléklet A.3.3 pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^48]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
