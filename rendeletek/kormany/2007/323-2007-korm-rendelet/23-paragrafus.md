@@ -1,6 +1,6 @@
 ## Támogatási feltételek
 
-23. §[^52] (1) A Zöld Beruházási Rendszer keretében támogatást – amennyiben nemzetközi szerződés eltérően nem rendelkezik – belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező szervezet, jogi személyiséggel nem rendelkező gazdasági társaság, külföldi székhelyű vállalkozás magyarországi fióktelepe, egyéni vállalkozó, társasház-közösség, valamint természetes személy kaphat.
+23. §[^53] (1) A Zöld Beruházási Rendszer keretében támogatást – amennyiben nemzetközi szerződés eltérően nem rendelkezik – belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező szervezet, jogi személyiséggel nem rendelkező gazdasági társaság, külföldi székhelyű vállalkozás magyarországi fióktelepe, egyéni vállalkozó, társasház-közösség, valamint természetes személy kaphat.
 
 (2) E rendelet alapján támogatás
 
@@ -36,7 +36,7 @@ h) környezetbarát minősítéssel rendelkező háztartási gépekre, valamint 
 
 i) egyéb kibocsátás-csökkentési feladatok megvalósítása.
 
-(4)[^53] A (3) bekezdés szerinti célokra a (2) bekezdés szerinti formában az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó támogatásként
+(4)[^54] A (3) bekezdés szerinti célokra a (2) bekezdés szerinti formában az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó támogatásként
 
 a) csekély összegű, valamint
 
@@ -44,15 +44,15 @@ b) környezetvédelmi
 
 ## jogcímen nyújtható támogatás.
 
-(5)[^54] Kamattámogatás a támogatást igénylő és a pénzintézet között létrejött hitelszerződésben meghatározott futamidőre, de legfeljebb a tárgyévet követő két évre nyújtható. A kamattámogatás mértéke a fizetendő kamat 100%-át is elérheti, figyelemmel az Atr.-ben meghatározott támogatási intenzitásra.
+(5)[^55] Kamattámogatás a támogatást igénylő és a pénzintézet között létrejött hitelszerződésben meghatározott futamidőre, de legfeljebb a tárgyévet követő két évre nyújtható. A kamattámogatás mértéke a fizetendő kamat 100%-át is elérheti, figyelemmel az Atr.-ben meghatározott támogatási intenzitásra.
 
 (6) A támogatott cél jellegétől függően – ha a pályázati felhívás eltérően nem rendelkezik –, a kamattámogatás kivételével, előleg nyújtható.
 
 (7) A pályázati felhívásban fel kell tüntetni, valamint a támogatási szerződésben a támogatásban részesülőt (a továbbiakban: kedvezményezett) írásban tájékoztatni kell arról, hogy a (2) és a (4) bekezdésben meghatározottak közül melyik támogatási fajtában részesül. A tájékoztatásnak kifejezetten utalnia kell a támogatási fajtára vonatkozó európai bizottsági rendeletre, hivatkozva annak pontos címére és az Európai Közösség Hivatalos Lapjában való kihirdetésére, valamint meg kell határoznia a támogatás pontos összegét támogatástartalomban kifejezve.
 
-(8)[^55] A (3) bekezdés g) pontja szerinti célra a (2) bekezdés szerinti formában az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó támogatásként személyszállítási közszolgáltatások ellentételezése jogcímen nyújtható támogatás.
+(8)[^56] A (3) bekezdés g) pontja szerinti célra a (2) bekezdés szerinti formában az EUMSz 107. cikk (1) bekezdésének hatálya alá tartozó támogatásként személyszállítási közszolgáltatások ellentételezése jogcímen nyújtható támogatás.
 
-[^52]: A 23. § a 121/2009. (VI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^53]: A 23. § (4) bekezdés nyitó szövegrésze a 37/2011. (III. 22.) Korm. rendelet 40. § (8) bekezdés e) pontja szerint módosított szöveg.
-[^54]: A 23. § (5) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (8) bekezdés f) pontja szerint módosított szöveg.
-[^55]: A 23. § (8) bekezdését a 361/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^53]: A 23. § a 121/2009. (VI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^54]: A 23. § (4) bekezdés nyitó szövegrésze a 37/2011. (III. 22.) Korm. rendelet 40. § (8) bekezdés e) pontja szerint módosított szöveg.
+[^55]: A 23. § (5) bekezdése a 37/2011. (III. 22.) Korm. rendelet 40. § (8) bekezdés f) pontja szerint módosított szöveg.
+[^56]: A 23. § (8) bekezdését a 361/2012. (XII. 17.) Korm. rendelet 1. §-a iktatta be.

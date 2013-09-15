@@ -24,7 +24,7 @@
 
 3.2. A projekt kibocsátásai az alátámasztó számítások részletes bemutatásával,
 
-3.3.[^83] Közvetett hatás a kibocsátási szintre: az üvegházhatású gázok kibocsátási szintjében a projekt határain kívül a projektnek betudhatóan létrejövő nettó változás (leakage).
+3.3.[^84] Közvetett hatás a kibocsátási szintre: az üvegházhatású gázok kibocsátási szintjében a projekt határain kívül a projektnek betudhatóan létrejövő nettó változás (leakage).
 
 4. A projekt által a tárgyidőszakban elért kibocsátás- csökkenés
 
@@ -64,4 +64,4 @@ Az egyéb környezeti hatások bemutatása, az arról készült, más hatóságo
 
 10.2. A tárgyidőszakban elért kibocsátás-csökkentés.
 
-[^83]: A 4. melléklet 3.3. pontja a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^84]: A 4. melléklet 3.3. pontja a 121/2009. (VI. 11.) Korm. rendelet 20. § (1) bekezdés e) pontja szerint módosított szöveg.

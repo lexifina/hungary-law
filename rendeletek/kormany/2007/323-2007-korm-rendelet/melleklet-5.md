@@ -1,4 +1,4 @@
-5. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^84]
+5. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^85]
 
 ## Az energiamegtakarítási intézkedéseket szolgáló környezetvédelmi beruházási támogatás részletes feltételei
 
@@ -26,4 +26,4 @@ A támogatási intenzitás azonban 20 százalékponttal növelhető a kisvállal
 
 4. A támogatható költségek kiszámításához a 800/2008/EK rendelet 18. cikk (6) és (7) bekezdésében rögzített módszert kell alkalmazni, a működési előnyöket és működési költségeket pedig figyelmen kívül kell hagyni.
 
-[^84]: Az 5. melléklet a 121/2009. (VI. 11.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^85]: Az 5. melléklet a 121/2009. (VI. 11.) Korm. rendelet 18. §-ával megállapított szöveg.
