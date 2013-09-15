@@ -4,7 +4,7 @@
 
 | 1 | Szakterület neve és száma | Akkreditálási alkalmazási kör |
 
-| 2 | Energetika 1a/1b | Tüzelőanyagok olyan létesítményekben történő elégetése, amelyekben csak a 601/2012/EU rendeletben meghatározott, kereskedelemben forgalmazott szabványos tüzelőanyagokat használnak, vagy amelyekben földgázt használnak az A vagy B kategóriájú létesítményekben. |
+| 2 | Energetika 1a/1b | Tüzelőanyagok olyan létesítményekben történő elégetése, amelyekben csak az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendeletben meghatározott, kereskedelemben forgalmazott szabványos tüzelőanyagokat használnak, vagy olyan A vagy B kategóriájú létesítményekben, ahol földgázt használnak. |
 
 | 3 | Tüzelőanyagok létesítményekben történő elégetése, korlátozások nélkül |
 
@@ -24,11 +24,15 @@
 
 | 11 | – Salétromsav előállítása (CO2- és N2O-kibocsátás) – Adipinsav előállítása (CO2- és N2O-kibocsátás) – Glioxál és glioxilsav előállítása (CO2- és N2O-kibocsátás) – Kaprolaktám előállítása |
 
-| 12 | CO2 elkülönítés és szállítás 10 | – Üvegházhatású gázoknak szállítás és a 2009/31/EK irányelv értelmében engedélyezett tárolóhelyen történő geológiai tárolás céljából való elkülönítése olyan létesítményekben, amelyekre a 2003/87/EK irányelv kiterjed – Üvegházhatású gázoknak a 2009/31/EK irányelv értelmében engedélyezett tárolóhelyen történő geológiai tárolás céljából való csővezetékek révén történő szállítása |
+| 12 | CO2 elkülönítés és szállítás 10 | – Üvegházhatású gázoknak szállítás és a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolás céljából való elkülönítése olyan létesítményekben, amelyekre az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény hatálya kiterjed – Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolás céljából való csővezetékek révén történő szállítása |
 
-| 13 | CO2 geológiai tárolás 11 | Üvegházhatású gázoknak a 2009/31/EK irányelv értelmében engedélyezett tárolóhelyen történő geológiai tárolása |
+| 13 | CO2 geológiai tárolás 11 | Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolása |
 
 | 14 | Légiközlekedés 12 | Légiközlekedési tevékenységek (kibocsátás és tonnakilométer-adatok) |
+
+| 15 | 98 egyéb | Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti egyéb tevékenységek |
+
+| 16 | 99 egyéb | Egyéb, a tagállam által a 2003/87/EK európai parlamenti és tanácsi irányelv 24. cikkének megfelelően felvett tevékenységek, amelyeket az akkreditálási okiratban kell részletesen meghatározni |
 
 2. melléklet a 295/2012. (X. 16.) Korm. rendelethez
 
