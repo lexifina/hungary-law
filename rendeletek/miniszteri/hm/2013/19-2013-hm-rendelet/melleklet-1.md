@@ -1,4 +1,4 @@
-## 38. § Hatályát veszti a hivatásos, szerződéses és hadköteles katonák, valamint a honvédségi közalkalmazottak egyes költségtérítéseiről szóló 21/2002. (IV. 10.) HM rendelet.
+## 38. §[^2]
 
 1. melléklet a 19/2013. (IX. 6.) HM rendelethez
 
@@ -237,3 +237,5 @@ P. H.
 * A megfelelő rész aláhúzandó!
 
 ** A felesleges szövegrészek kihúzandók!
+
+[^2]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
