@@ -1,0 +1,1 @@
+## „(6) A miniszter a kérelmet jóváhagyás céljából haladéktalanul, de legkésőbb 15 napon belül továbbítja az Európai Bizottságnak. A 15 napos határidőbe nem számít be a hiánypótlásra, illetve a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő, valamint a MEKH szakvéleményének kikérésétől annak beérkezéséig eltelt idő.”

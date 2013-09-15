@@ -1,0 +1,1 @@
+## „(8a) A (6)–(8) bekezdésben foglaltak nem alkalmazandók abban az esetben, ha az üzemeltető a bejelentési, visszautalási vagy visszaadási kötelezettségét önhibáján kívül nem teljesíti, és ezt igazolja.”
