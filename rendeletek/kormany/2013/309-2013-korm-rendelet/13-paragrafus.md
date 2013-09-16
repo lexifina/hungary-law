@@ -1,8 +1,8 @@
 ## 8. Jogkövetkezmények
 
-13. § (1)[^1]
+13. § (1) A Hivatal a villamos energiáról szóló törvényben meghatározottak szerint származási garanciánként tizenötezer forint, de bejegyzési kérelmenként legfeljebb ötmillió forint bírságot szabhat ki a termelői engedélyesre, a nem engedélyköteles kiserőmű üzemeltetőjére, amennyiben az a bejegyzési kérelmében neki felróható okból téves adatokat szolgáltatott.
 
-(2)[^2]
+(2) Ha az engedélyes és a nem engedélyköteles kiserőmű üzemeltetője a 11. § (2) bekezdése szerinti kötelezettségeit nem teljesíti, a Hivatal havonta egymillió forint bírságot szabhat ki.
 
 (3) A Hivatal a származási garanciát törli a származási garancia-nyilvántartásból, ha:
 
@@ -13,6 +13,3 @@ b) az nem került felhasználásra, a származási garanciában meghatározott v
 c) a származási garancia tulajdonosa kérelmezi annak törlését;
 
 d) a forgalmi számla megszüntetésre került.
-
-[^1]: A 13. § (1) bekezdése a 14. § (2) bekezdése alapján 2013. szeptember 16-án lép hatályba.
-[^2]: A 13. § (1) bekezdése a 14. § (2) bekezdése alapján 2013. szeptember 16-án lép hatályba.

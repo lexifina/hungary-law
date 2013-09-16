@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-309-20-
 | --- | --- | --- |
 | 2013-08-17 | 2013-309-20-22.1 | 309/2013. (VIII. 16.) Korm. rendelet |
 | 2013-08-18 | 2013-309-20-22.2 | 2010: CXXX. törvény |
+| 2013-09-16 | 2013-309-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
