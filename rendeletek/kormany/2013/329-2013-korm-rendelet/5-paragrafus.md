@@ -1,3 +1,0 @@
-## 4. § Az Ügkr. Vhr. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A kibocsátási engedély alapján létesítmény a kibocsátási engedély közlésétől számított 3 éven belül, vagy ha az 1. § (4) és (5) bekezdése szerinti engedély lejártának az időpontja hamarabb következik be, az 1. § (4) vagy (5) bekezdése szerinti engedély lejártának időpontjáig helyezhető üzembe. Üzembe helyezés alatt a próbaüzem megkezdése vagy a 2011/278/EU bizottsági határozat 3. cikk n) pontja szerinti üzemszerű működés kezdete értendő. Az üzembe helyezést az üzemeltető köteles a hatóságnak 30 napon belül írásban bejelenteni. Ha az üzembe helyezés az előírt időpontig nem következett be, a hatóság a kibocsátási engedélyt visszavonja.”
