@@ -1,13 +1,13 @@
-## 18/A. §[^41] A 15. § (2) bekezdés, valamint a 16–18. § szerinti kötelezettségek rendszeres, vagy ismételt megsértése esetén a központi beszerző szervezet jelzése alapján az NFM a bejelentkezésért, az igénybejelentésért, valamint az adatszolgáltatásért felelős személy(ek) fegyelmi és kártérítési felelősségre vonását kezdeményezheti a fegyelmi jogkör gyakorlójánál.
+## 18/A. §[^42] A 15. § (2) bekezdés, valamint a 16–18. § szerinti kötelezettségek rendszeres, vagy ismételt megsértése esetén a központi beszerző szervezet jelzése alapján az NFM a bejelentkezésért, az igénybejelentésért, valamint az adatszolgáltatásért felelős személy(ek) fegyelmi és kártérítési felelősségre vonását kezdeményezheti a fegyelmi jogkör gyakorlójánál.
 
-19. § (1)[^42] Az ajánlattevők, illetőleg a szállítók a központosított közbeszerzési portálon elektronikusan kötelesek a központosított közbeszerzési rendszerbe bejelentkezni. A központi beszerző szervezet a bejelentkezést elektronikusan visszaigazolja.
+19. § (1)[^43] Az ajánlattevők, illetőleg a szállítók a központosított közbeszerzési portálon elektronikusan kötelesek a központosított közbeszerzési rendszerbe bejelentkezni. A központi beszerző szervezet a bejelentkezést elektronikusan visszaigazolja.
 
-(2)[^43] Az ajánlattevők, illetőleg a szállítók a központosított közbeszerzési portálon nyilvántartott adataikban bekövetkezett változásokat öt munkanapon belül kötelesek a központi beszerző szervezet részére az (1) bekezdésben meghatározott módon bejelenteni.
+(2)[^44] Az ajánlattevők, illetőleg a szállítók a központosított közbeszerzési portálon nyilvántartott adataikban bekövetkezett változásokat öt munkanapon belül kötelesek a központi beszerző szervezet részére az (1) bekezdésben meghatározott módon bejelenteni.
 
 (3) A szállítók kötelesek a megrendelésekkel kapcsolatban a központi beszerző szervezet részére adatszolgáltatást teljesíteni, a központi beszerző szervezet által előírt módon.
 
 (4) A központi beszerző szervezet az e rendelet szerinti intézményi adatszolgáltatási kötelezettség ellenőrzése érdekében a teljesítésekkel érintett szállítóktól adatszolgáltatást kérhet.
 
-[^41]: A 18/A. §-t a 238/2013. (VI. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^42]: A 19. § (1) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
-[^43]: A 19. § (2) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^42]: A 18/A. §-t a 238/2013. (VI. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^43]: A 19. § (1) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^44]: A 19. § (2) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
