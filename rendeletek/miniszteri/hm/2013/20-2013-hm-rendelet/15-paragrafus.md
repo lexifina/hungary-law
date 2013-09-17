@@ -1,0 +1,1 @@
+## 14. § A 7. § (2) bekezdés e) pontja szerinti esetben kiegészítő ruházati illetmény folyósítása céljából nyugdíjas ruházati utalványfüzetet kell keretösszegre érvényesítve az engedélyezéstől számított 30. napig, de legkésőbb a jogosultsági időszak alatt kiadni, illetve átvenni.

@@ -1,0 +1,9 @@
+# 20/2013. (IX. 16.) HM rendelet
+
+a ruházati ellátásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-20-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-09-17 | 2013-20-20-15.1 | 20/2013. (IX. 16.) HM rendelet |
