@@ -6,11 +6,11 @@
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező, igazságügyi ügyintéző szakképzettség, rendészeti felsőoktatásban vagy katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és legalább középfokú számítástechnikai szakképesítés vagy nyilvántartási és okmányügyintéző szakképesítés vagy igazgatási ügyintéző-ügykezelő szakképesítés.
+## jogász szakképzettség; közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező, igazságügyi ügyintéző szakképzettség, rendészeti felsőoktatásban vagy katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és legalább középfokú számítástechnikai szakképesítés vagy nyilvántartási és okmányügyintéző szakképesítés vagy igazgatási ügyintéző-ügykezelő szakképesítés; egyetemi vagy főiskolai szintű végzettség és kormányablak ügyintéző szakirányú továbbképzési szakon szerzett szakképzettség.
 
 ## A II. besorolási osztályban:
 
-## közgazdasági szakközépiskolai végzettség, rendészeti szakközépiskolai végzettség, vagy középiskolai végzettség és számítástechnikai szakképesítés; középiskolai végzettség és az OKJ szerint: nyilvántartási és okmányügyintéző szakképesítés, igazgatási ügyintéző-ügykezelő szakképesítés.
+## közgazdasági szakközépiskolai végzettség, rendészeti szakközépiskolai végzettség vagy középiskolai végzettség és számítástechnikai szakképesítés; középiskolai végzettség és az OKJ szerint: nyilvántartási és okmányügyintéző szakképesítés, igazgatási ügyintéző-ügykezelő szakképesítés.
 
 ## Kiemelt munkakör
 
@@ -18,7 +18,7 @@
 
 ## A II. besorolási osztályban:
 
-## közgazdasági szakközépiskolai végzettség vagy középiskolai végzettség és középfokú számítástechnikai szakképesítés; középiskolai végzettség és az OKJ szerint: nyilvántartási és okmányügyintéző, számítástechnikai programozó, számítógép rendszerprogramozó, információrendszer-szervező, számítástechnikai szoftverüzemeltető szakképesítés.
+## közgazdasági szakközépiskolai végzettség; középiskolai végzettség és középfokú számítástechnikai szakképesítés; középiskolai végzettség és az OKJ szerint: nyilvántartási és okmányügyintéző, számítástechnikai programozó, számítógép rendszerprogramozó, információrendszer-szervező, számítástechnikai szoftverüzemeltető szakképesítés; középiskolai végzettség és kormányablak ügyintéző vizsga.
 
 ## 2. Európai uniós feladatkör
 
@@ -1785,7 +1785,7 @@ A II. besorolási osztályban:
 középiskolai végzettség és közgazdasági, pénzügyi-számviteli szakképesítés; közgazdasági szakközépiskolai általános ügyintéző titkár (menedzserasszisztens) szakképesítés; középiskolai végzettség és az OKJ szerint: mérlegképes könyvelői, pénzügyi ügyintéző, számviteli ügyintéző, középfokú anyaggazdálkodói, általános gazdasági és statisztikai ügyintéző, gazdasági elemző és szakstatisztikai ügyintéző, költségvetési gazdálkodási szakügyintéző szakképesítés.
 
 [^16]: A 2. melléklet címe a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^17]: A 2. melléklet I. pont 1. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet I. pont 1. alpontja a 333/2013. (IX. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^18]: A 2. melléklet I. pont 3. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^19]: A 2. melléklet I. pont 5. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^20]: A 2. melléklet I. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
