@@ -1,70 +1,74 @@
 1. melléklet a 82/2013. (IX. 17.) VM rendelethez
 
-1. Az R. 1. melléklete 7. pont 7.3–7.5 alpontja helyébe a következő rendelkezések lépnek:
+1.[^4]
 
-„7.3. Móri Járási Hivatal Járási Földhivatala (székhelye: Mór)
+2. Az R. 1. melléklete 2. pont 7.1., 7.2. és 7.5. alpontja helyébe a következő rendelkezések lépnek:
 
-Bakonycsernye
+„7.1. Bicskei Járási Hivatal Járási Földhivatala (székhelye: Bicske)
 
-Balinka
+Alcsútdoboz
 
-Bodajk
+Bicske
 
-Csákberény
+Bodmér
 
-Csókakő
+Csabdi
 
-Fehérvárcsurgó
+Csákvár
 
-Isztimér
+Etyek
 
-Kincsesbánya
+Felcsút
 
-Mór
+Mány
 
-Nagyveleg
+Óbarok
 
-Pusztavám
+Szár
 
-Söréd
+Tabajd
 
-7.4. Sárbogárdi Járási Hivatal Járási Földhivatala (székhelye: Sárbogárd)
+Újbarok
 
-Alap
+Vértesacsa
 
-Alsószentiván
+Vértesboglár
 
-Cece
+7.2. Dunaújvárosi Járási Hivatal Járási Földhivatala (székhelye: Dunaújváros)
 
-Dég
+Adony
 
-Enying
+Baracs
 
-Hantos
+Beloiannisz
 
-Igar
+Besnyő
 
-Lajoskomárom
+Daruszentmiklós
 
-Mezőkomárom
+Dunaújváros
 
-Mezőszilas
+Előszállás
 
-Nagylók
+Iváncsa
 
-Sárbogárd
+Kisapostag
 
-Sáregres
+Kulcs
 
-Sárkeresztúr
+Mezőfalva
 
-Sárszentágota
+Nagykarácsony
 
-Szabadhidvég
+Nagyvenyim
 
-Vajta
+Perkáta
 
-7.5. Székesfehérvári Járási Hivatal Járási Földhivatala (székhelye: Székesfehérvár)
+Pusztaszabolcs
+
+Rácalmás”
+
+„7.5. Székesfehérvári Járási Hivatal Járási Földhivatala (székhelye: Székesfehérvár)
 
 Aba
 
@@ -76,7 +80,11 @@ Csór
 
 Csősz
 
+Ercsi
+
 Füle
+
+Gánt
 
 Gárdony
 
@@ -122,6 +130,8 @@ Pázmánd
 
 Polgárdi
 
+Ráckeresztúr
+
 Sárkeresztes
 
 Sárkeszi
@@ -148,6 +158,8 @@ Tordas
 
 Úrhida
 
+Vál
+
 Velence
 
 Vereb
@@ -156,12 +168,10 @@ Zámoly
 
 Zichyújfalu”
 
-2.[^4]
-
 3.[^5]
 
 4.[^6]
 
-[^4]: Az 1. melléklet 2. pontja a 6. § (2) bekezdése alapján 2013. szeptember 19-én lép hatályba.
+[^4]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: Az 1. melléklet 3. pontja a 6. § (3) bekezdése alapján 2013. szeptember 25-én lép hatályba.
 [^6]: Az 1. melléklet 4. pontja a 6. § (4) bekezdése alapján 2013. szeptember 26-án lép hatályba.
