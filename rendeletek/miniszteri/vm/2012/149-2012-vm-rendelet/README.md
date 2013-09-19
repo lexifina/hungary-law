@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-149-20-
 | 2013-07-26 | 2012-149-20-2Y.14 | 64/2013. (VII. 25.) VM rendelet |
 | 2013-08-15 | 2012-149-20-2Y.15 | 64/2013. (VII. 25.) VM rendelet |
 | 2013-09-18 | 2012-149-20-2Y.16 | 82/2013. (IX. 17.) VM rendelet |
+| 2013-09-19 | 2012-149-20-2Y.17 | 82/2013. (IX. 17.) VM rendelet |
