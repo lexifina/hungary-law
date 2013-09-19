@@ -166,6 +166,10 @@ b) elektronikus pénz kibocsátójával kötött megbízási szerződés alapjá
 
 18. Fizetési rendszer: pénzátutalási rendszer, amely a fizetési műveletek feldolgozására, elszámolására vagy teljesítésére megállapodásban vagy szabványban rögzített eljárásokat, valamint egységes szabályokat alkalmaz.
 
+19. Forgatható utalvány: minden olyan, az utalványkibocsátóval szembeni pénzkövetelést megtestesítő bankjegynek, 5.1. pont szerinti készpénz-helyettesítő fizetési eszköznek és értékpapírnak nem minősülő, átruházható és többször felhasználható, papír alapú fizetési eszköz, amely áruk vagy szolgáltatások ellenértékének a kiegyenlítésére szolgál.
+
+20. Forgatható utalvány kibocsátására irányuló tevékenység: pénzeszköz ellenében a forgatható utalványnak az utalványkibocsátó által közvetlenül vagy utalványforgalmazó útján az utalványbirtokos rendelkezésére bocsátása.
+
 II. Az összevont alapú felügyelethez kapcsolódó fogalommeghatározások
 
 1. Ellenőrző befolyás: az Szmt. szerinti anyavállalat fogalmánál használt meghatározó befolyás, illetőleg egy személy és egy vállalkozás között fennálló olyan kapcsolat, amelynek alapján
@@ -431,6 +435,14 @@ b) megvásárolja egy harmadik fél kitettségeit, majd értékpapírosítja azo
 66. Nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
 
 67. Átlagos kinnlevő elektronikuspénz-állomány: az adott naptári nap végén kibocsátott elektronikus pénzre vonatkozó, az azt megelőző hat naptári hónap pénzügyi kötelezettségei mindenkori teljes összegének átlaga, amelynek kiszámítása során az adott hónapra vonatkozó pénzügyi kötelezettségnek az egyes naptári hónapok első naptári napján fennálló pénzügyi kötelezettség tekintendő.
+
+68. Utalványkibocsátó ügyfele: az utalványbirtokos és az utalványelfogadó azzal, hogy az utalványbirtokos és az utalványelfogadó személye megegyezhet.
+
+69. Utalványbirtokos: az a személy, aki vagy amely az utalványkibocsátótól történő megvásárlás útján vagy bármely más módon a rendelkezése alá került forgatható utalványt az utalványelfogadónál áru vagy szolgáltatás ellenértékének a kiegyenlítésére fizetési eszközként felhasználhatja.
+
+70. Utalványelfogadó: az utalványkibocsátóval szerződéses jogviszonyban álló személy, aki vagy amely a forgatható utalványt áru vagy szolgáltatás nyújtás ellenértékének kiegyenlítésére fizetési eszközként az utalványbirtokostól elfogadja.
+
+71. Utalványforgalmazó: az utalványkibocsátóval a forgatható utalványok értékesítésére és visszaváltására szerződéses jogviszonyban álló személy.
 
 III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 

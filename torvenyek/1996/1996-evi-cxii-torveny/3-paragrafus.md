@@ -38,7 +38,9 @@ b) fizetési rendszer működtetése;
 
 c) pénzfeldolgozási tevékenység;
 
-d) pénzügyi ügynöki tevékenység a bankközi piacon.
+d) pénzügyi ügynöki tevékenység a bankközi piacon;
+
+e) forgatható utalvány kibocsátására irányuló tevékenység.
 
 (3) Az (1)–(2) bekezdésben foglalt tevékenységek – az e törvényben foglalt eltéréssel – üzletszerűen csak engedéllyel végezhetők.
 
@@ -47,6 +49,12 @@ d) pénzügyi ügynöki tevékenység a bankközi piacon.
 (5) Az (1) bekezdés d)–f) pontjaiban meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
 
 (6) A (2) bekezdés b) és c) pontjában meghatározott tevékenységet az MNB engedélyezi, ellenőrzi, illetve az ilyen engedélyt az MNB vonja vissza.
+
+(6a) A (2) bekezdés e) pontjában meghatározott tevékenység
+
+a) engedély nélkül, az MNB-nek – e törvényben meghatározott módon – tett bejelentés mellett végezhető,
+
+b) végzésével kapcsolatos, e törvényben meghatározott rendelkezések megtartását az MNB ellenőrzi.
 
 (7) A (6) bekezdésben meghatározott tevékenységek végzésének engedélyezéséről szóló határozatot az MNB közli a Felügyelettel. A Felügyelet a határozat alapján a jogi személyt nyilvántartásba veszi.
 

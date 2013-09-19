@@ -22,7 +22,7 @@ i)
 
 a) az elkülönített állami pénzalapokra,
 
-b)
+b) a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalványra,
 
 c) a (4) bekezdésben meghatározott eltéréssel a kincstárra,
 

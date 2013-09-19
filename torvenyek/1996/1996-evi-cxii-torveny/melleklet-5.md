@@ -167,3 +167,71 @@ f) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló 
 16. Ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 15. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
 
 17. A járulékos tőke negatív összetevője:
+
+az alárendelt kölcsöntőke figyelembe nem vehető része.
+
+18. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
+
+a) kielégíti a 11. pont a)–m) és o)–q) alpontban meghatározott feltételeket, és
+
+b) ha egy adott évben a 11. pont k) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 11. pont k) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
+
+19. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+
+a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
+
+b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek, valamint az alapvető és járulékos kölcsöntőkenyújtók előtti legutolsó helyen áll,
+
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
+
+d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmaznak, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
+
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+
+f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
+
+20. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását a visszafizetési időpontot megelőző 5 év során – fokozatosan, évente 20%-kal egyenlő arányban – csökkenteni kell.
+
+21. A részvénnyé – jövőbeli objektív feltétel alapján – átváltozó kötvény a járulékos tőkébe beszámít és szavatoló tőkeelemnek minősül. A részvénnyé átváltoztatható kötvény csak akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
+
+22. A szavatoló tőke számítása során a járulékos és alárendelt kölcsöntőkéből le kell vonni a hitelintézet által visszavásárolt, saját kibocsátású, járulékos vagy alárendelt kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
+
+23. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
+
+24. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
+
+a) a figyelembe vehető járulékos tőke összege nem haladhatja meg az alapvető tőke összegének 100%-át,
+
+b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alapvető, járulékos és alárendelt kölcsöntőke, valamint a járulékos tőkeként figyelembe vehető lejárattal rendelkező részvények és részjegyek összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
+
+25. A 24. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50–50%-os arányban kell levonni:
+
+a) a más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékét – ha a felsoroltaknál a hitelintézet minősített befolyással rendelkezik –, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékét,
+
+b) a minősített befolyásnak nem minősülő, más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékének, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékének együttes összegéből az 1–24. pontok figyelembevételével számított szavatoló tőke 10%-át meghaladó részét,
+
+c) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék összegének a várható veszteség értékével csökkentett értékének összegét, ha ez a különbség negatív, valamint a részesedések kockázattal súlyozott kitettség értékének – a külön jogszabály szerinti – az egyszerű súlyozási módszerrel vagy PD/LGD módszerrel történő meghatározása esetén, a részvénykitettségek várható vesztesége összegét,
+
+d) azon értékpapírosítási pozíciók összegét, amelyhez külön jogszabály 1250%-os kockázati súlyt rendel, ha a hitelintézet ezen összeget a kockázattal súlyozott kitettség érték meghatározásánál nem veszi figyelembe,
+
+e) a kereskedési könyv szerinti nyitva szállítás értékét a második szerződés szerinti (fizetést vagy szállítást követő) 5. munkanaptól az ügylet megszűntéig.
+
+26. Ha a 24. pont szerinti korlátozások figyelembevételével meghatározott járulékos tőke értékét meghaladja a 25. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
+
+27. A 13., 22. és a 25. pontban foglalt levonásokat követően fennmaradó – a 15. pont f) alpontjában és a 25. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 79–85. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
+
+28. A 13., 22. és a 25. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni a 79. és 83. § szerinti limittúllépések összegét. A levonások során érvényesíteni kell a 24. pontban meghatározott korlátozásokat.
+
+29. A szavatoló tőke a 76. § (1) bekezdése a) pontjának 1. és 4. pontja és (2) bekezdése alkalmazásában a 28. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
+
+30. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az alapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 28. pontban foglalt levonások és a 76. § (1) bekezdése a) pontjának 1. és 4. alpontjában, a 76. § (2) bekezdésében és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 24. pontban meghatározott korlátozások miatt fel nem használható része alkotja.
+
+31. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
+
+a) megfelel a 19. pont a), b), d), e) és f) alpontjában rögzített feltételeknek,
+
+b) eredeti futamideje legalább két év,
+
+c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően kizárólag akkor fizethető vissza, ha a kereskedési könyvet vezető intézmény megfelel a rá vonatkozó tőkekövetelményeknek.
+
+32. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének 200%-át.
