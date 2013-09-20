@@ -1,0 +1,7 @@
+A Kormány
+
+1. egyetért a Magyarország Kormánya és a Koreai Köztársaság Kormánya között a nukleáris energia békés célú felhasználása terén történő együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) bemutatott szövegével;
+
+2. felhatalmazza a külügyminisztert a Megállapodás bemutatott szövegének – a jóváhagyás fenntartásával történő – végleges megállapítására;
+
+3. jóváhagyja a Megállapodás kihirdetéséről szóló kormányrendelet tervezetét, és elrendeli a Megállapodás szövegének végleges megállapítását követően annak a Magyar Közlönyben történő kihirdetését.
