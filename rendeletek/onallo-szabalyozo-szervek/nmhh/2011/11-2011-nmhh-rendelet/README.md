@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-11-20-3
 | --- | --- | --- |
 | 2012-01-15 | 2011-11-20-3H.1 | 11/2011. (XII. 16.) NMHH rendelet |
 | 2013-01-08 | 2011-11-20-3H.2 | 1/2013. (I. 7.) NMHH rendelet |
+| 2013-09-20 | 2011-11-20-3H.3 | 10/2013. (IX. 19.) NMHH rendelet |

@@ -14,10 +14,10 @@ c) együttműködik a zavar elhárításában érintett engedélyes illetékesé
 
 a) felszólítja a zavart okozó engedélyest a zavarás megszüntetésére, vagy
 
-b)[^25] felszólítja a bejelentő engedélyest a zavart rádióberendezés áthelyezésére vagy tartozékainak, paramétereinek megváltoztatására.
+b)[^30] felszólítja a bejelentő engedélyest a zavart rádióberendezés áthelyezésére vagy tartozékainak, paramétereinek megváltoztatására.
 
 (5) A zavart okozó engedélyes – a rendeltetéséből adódó feladatok végrehajtása mellett – a KFGH felhívása alapján az abban foglaltaknak megfelelően a zavart megszünteti és erről tájékoztatja a KFGH-t.
 
 (6) A zavar elhárításáról a KFGH a bejelentőt tájékoztatja.
 
-[^25]: A 29. § (4) bekezdés b) pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (18) bekezdésével megállapított szöveg.
+[^30]: A 29. § (4) bekezdés b) pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (18) bekezdésével megállapított szöveg.
