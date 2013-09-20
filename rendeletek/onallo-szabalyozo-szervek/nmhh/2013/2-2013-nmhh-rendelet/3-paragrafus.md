@@ -20,32 +20,36 @@ b) vevőjellemzők: legnagyobb használható érzékenység, azonoscsatorna-szel
 
 c) antennajellemzők: nyereség, iránypontosság, keresztpolarizációs csillapítás, karakterisztika, aktív antenna mellékhullám-sugárzása.
 
-(3) A frekvenciaengedélyezéssel és -használattal kapcsolatos sávhasználati feltételek az alábbi csoportokba sorolhatóak:
+(3)[^3] A frekvenciaengedélyezéssel és -használattal kapcsolatos sávhasználati feltételek az alábbi csoportokba sorolhatóak:
 
-a) egyedi engedélyezési kötelezettség alóli mentesítés;
+1. egyedi engedélyezési kötelezettség alóli mentesítés;
 
-b) a frekvenciaelosztás módja (érkezési sorrend, versenyeztetési eljárás);
+2. üzemben tartás egyszerűsített rádióengedély alapján;
 
-c) a rádióalkalmazás célja;
+3. a frekvenciaelosztás módja (érkezési sorrend, versenyeztetési eljárás);
 
-d) elektronikus hírközlési szolgáltatás nyújtásának lehetősége;
+4. a rádióalkalmazás célja;
 
-e) a rádióalkalmazás távközlési jellemzői;
+5. elektronikus hírközlési szolgáltatás nyújtásának lehetősége;
 
-f) frekvenciakiosztási tervek;
+6. a rádióalkalmazás távközlési jellemzői;
 
-g) blokkgazdálkodás és szabályai;
+7. frekvenciakiosztási tervek;
 
-h) a rádióalkalmazás használatára vonatkozó előírások, korlátozások;
+8. blokkgazdálkodás és szabályai;
 
-i) a frekvenciasáv, illetve a rádióalkalmazás harmonizáltsága;
+9. a rádióalkalmazás használatára vonatkozó előírások, korlátozások;
 
-j) a nemzetközi kötelezettségek végrehajtási rendelkezései;
+10. a frekvenciasáv, illetve a rádióalkalmazás harmonizáltsága;
 
-k) a frekvenciahasználati jogosultság megszerzésének preferenciái;
+11. a nemzetközi kötelezettségek végrehajtási rendelkezései;
 
-l) a frekvenciahasználati jogosultság, illetve jog átruházásának esetleges lehetőségei, feltételei;
+12. a frekvenciahasználati jogosultság megszerzésének preferenciái;
 
-m) a haszonbérbe adás esetleges lehetősége, feltételei; vagy
+13. a frekvenciahasználati jogosultság, illetve jog átruházásának esetleges lehetőségei, feltételei;
 
-n) a rádióberendezésre vonatkozó – az Eht. 80. § (3) bekezdése szerinti – egyes alapvető követelmények.
+14. a haszonbérbe adás esetleges lehetősége, feltételei; vagy
+
+15. a rádióberendezésre vonatkozó – az Eht. 80. § (3) bekezdése szerinti – egyes alapvető követelmények.
+
+[^3]: A 3. § (3) bekezdése a 11/2013. (IX. 19.) NMHH rendelet 6. §-ával megállapított szöveg.

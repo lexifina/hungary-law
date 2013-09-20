@@ -6,10 +6,12 @@ b) az adott frekvenciasávban a csak vételre szolgáló állomások – kivéve
 
 c) az adott frekvenciasávban elektronikus hírközlési szolgáltatás nem nyújtható;
 
-d) az adott frekvenciasávban a frekvenciahasználati jogosultság, a frekvenciakijelölés és a rádióengedély nem ruházható át.
+d)[^4] az adott frekvenciasávban a frekvenciahasználati jogosultság, jog nem ruházható át, nem adható haszonbérbe.
 
 (2) Amennyiben a RAT sávhasználati szabályokat tartalmazó D és E oszlopában az adott rádióalkalmazásra vonatkozó mező kitöltetlen, akkor az (1) bekezdésben meghatározottakon túl e rendelet – a gyártó, illetve a forgalomba hozó által meghatározott műszaki jellemzőkön, valamint a Nemzetközi Rádiószabályzat és a nemzetközi szakmai szervezetek által esetleg meghatározottakon túl – nem ír elő további követelményeket.
 
 (3) A rádióberendezés forgalomba hozatali szándékát – a rádióberendezésekről és az elektronikus hírközlő végberendezésekről, valamint megfelelőségük kölcsönös elismeréséről szóló jogszabály szerint – a polgári frekvenciagazdálkodó hatóságnál be kell jelenteni, kivéve, ha a rádióberendezés harmonizált frekvenciát vagy frekvenciasávot használ. A harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek jegyzékét a 4. melléklet tartalmazza.
 
 (4) Egy adott rádiószolgálat számára felosztott frekvenciasávban egy rádióalkalmazás állomása számára frekvenciahasználati jogot csak olyan frekvencián lehet szerezni, amely az állomás számára kijelölt frekvenciasáv szélességét figyelembe véve nem okoz káros zavarást a közvetlenül szomszédos frekvenciasávokban felosztott rádiószolgálatok rádióalkalmazásainak.
+
+[^4]: A 7. § (1) bekezdés d) pontja a 7/2013. (IX. 19.) NMHH rendelet 11. § (1) bekezdésével megállapított szöveg.

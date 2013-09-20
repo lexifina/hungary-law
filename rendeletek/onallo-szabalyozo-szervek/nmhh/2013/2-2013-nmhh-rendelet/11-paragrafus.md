@@ -74,10 +74,22 @@
 
 37. a páneurópai mobil műholdas szolgáltatásokat nyújtó rendszerek (MSS) üzemeltetőinek kiválasztásáról szóló 2009. május 13-i 2009/449/EK bizottsági határozatnak,
 
-38. a 900 MHz-es és az 1800 MHz-es frekvenciasávnak a Közösségen belül páneurópai elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek részére történő harmonizálásáról szóló 2009. október 16-i 2009/766/EK bizottsági határozatnak és az azt módosító 2011/251/EU bizottsági végrehajtási határozatnak, és
+38.[^7] a 900 MHz-es és az 1800 MHz-es frekvenciasávnak a Közösségen belül páneurópai elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek részére történő harmonizálásáról szóló 2009. október 16-i 2009/766/EK bizottsági határozatnak és az azt módosító 2011/251/EU bizottsági végrehajtási határozatnak,
 
-39. a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló 2008. április 7-i 2008/295/EK bizottsági ajánlás 2. és 8. pontjának
+38a.[^8] az Európai Unióban az elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek 790–862 MHz-es frekvenciasávú használatának harmonizált műszaki feltételeiről szóló 2010. május 6-i 2010/267/EU bizottsági határozatnak,
+
+39.[^9] az egy többéves rádióspektrum-politikai program létrehozásáról szóló 2012. március 14-i 243/2012/EU európai parlamenti és tanácsi határozatnak,
+
+39a.[^10] az 1920–1980 MHz-es és a 2110–2170 MHz-es frekvenciasávnak az Unióban elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek érdekében történő harmonizálásáról szóló 2012. november 5-i 2012/688/EU bizottsági végrehajtási határozatnak és
+
+40.[^11] a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló 2008. április 7-i 2008/295/EK bizottsági ajánlás 2. és 8. pontjának
 
 való megfelelést szolgálja.
 
 (2) A rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+
+[^7]: A 11. § (1) bekezdés 38. pontja a 8/2013. (IX. 19.) NMHH rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^8]: A 11. § (1) bekezdés 38a. pontját a 8/2013. (IX. 19.) NMHH rendelet 7. § (2) bekezdése iktatta be.
+[^9]: A 11. § (1) bekezdés 39. pontja a 7/2013. (IX. 19.) NMHH rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^10]: A 11. § (1) bekezdés 39a. pontját a 8/2013. (IX. 19.) NMHH rendelet 7. § (3) bekezdése iktatta be.
+[^11]: A 11. § (1) bekezdés 40. pontját a 7/2013. (IX. 19.) NMHH rendelet 11. § (4) bekezdése iktatta be.

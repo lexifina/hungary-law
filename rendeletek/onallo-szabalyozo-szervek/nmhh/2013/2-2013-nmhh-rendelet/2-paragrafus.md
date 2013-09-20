@@ -14,6 +14,8 @@
 
 6. blokkgazdálkodás: frekvenciablokk felhasználásának frekvenciakijelölésben megadott feltételek között szabadon történő tervezése;
 
+6a.[^1] csoportkommunikációs rendszer: olyan rádiórendszer, amely állandóhelyű és földi mozgószolgálati csoportkommunikációs igényeket elégít ki, és amely az állandóhelyű és a földi mozgószolgálat alkalmazásai számára egyaránt kijelölt frekvenciasávban üzemel;
+
 7. csúcs EIRP-sűrűség: a legmagasabb átlagos kisugárzott teljesítmény frekvenciája körüli 50 MHz-es sávszélességen belül előforduló legmagasabb adásszint; ha az értéket x MHz sávszélességen mérik, akkor ezt a szintet 20lg(50/x) dB tényezővel kell csökkenteni;
 
 8. D-, K- és G-rendszer: az ITU-R BT.470-7 Ajánlásban meghatározott jellemzőkkel rendelkező analóg televízió-rendszerek;
@@ -56,6 +58,8 @@
 
 27. nomadikus vezetéknélküli hozzáférési (NWA) rendszer: olyan rádiórendszer, amely felhasználói állomásokból, valamint a felhasználói állomásokat az alaphálózathoz kapcsoló rendszerből áll, és amelyben a felhasználói állomások csak állandó és változó telephelyűek lehetnek;
 
+27a.[^2] összes kisugárzott teljesítmény (TRP): a tér minden irányába kisugárzott teljesítmény integrálja, amely az antenna által ténylegesen kisugárzott teljesítmény nagyságát határozza meg;
+
 28. szimplex frekvencia: olyan frekvencia, amelynek rendeltetés szerinti használata alapján egyidejűleg csak egyirányú összeköttetés valósulhat meg (vagy adási vagy vételi üzemmód);
 
 29. vasúti jármű: a vasúti közlekedés statisztikájáról szóló, az 1192/2003/EK bizottsági rendelettel, az 1304/2007/EK bizottsági rendelettel és a 219/2009/EK európai parlamenti és tanácsi rendelettel módosított, 2002. december 16-i 91/2003/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés 4. pontja szerinti jármű;
@@ -63,3 +67,6 @@
 30. versenyeztetési eljárás: frekvenciahasználati jogosultság elosztására irányuló árverési vagy pályázati eljárás.
 
 (2) Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakat – a megosztás kivételével – az R. és az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) szerint kell értelmezni.
+
+[^1]: A 2. § (1) bekezdés 6a. pontját a 11/2013. (IX. 19.) NMHH rendelet 5. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés 27a. pontját a 8/2013. (IX. 19.) NMHH rendelet 6. §-a iktatta be.
