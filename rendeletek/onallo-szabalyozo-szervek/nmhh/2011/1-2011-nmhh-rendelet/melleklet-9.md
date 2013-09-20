@@ -1,4 +1,4 @@
-9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^16]
+9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^17]
 
 1. Az értékesített frekvenciasávok esetében az egységdíj 7500 Ft/kHz/hó.
 
@@ -24,4 +24,4 @@
 
 | 24500–26500 MHz | 0,0033 |
 
-[^16]: A 9. számú melléklet a 8/2011. (XI. 3.) NMHH rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^17]: A 9. számú melléklet a 8/2011. (XI. 3.) NMHH rendelet 1. § (10) bekezdésével megállapított szöveg.
