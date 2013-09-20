@@ -2,12 +2,18 @@
 
 ## illetve -műsorszóró adó üzemeltetési jogosultság
 
-22. § (1) A frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság megszerzésével az árverés, illetve a pályázat nyertesének kizárólagos joga nyílik arra, hogy az általa elnyert frekvencia használatához szükséges hatósági engedélyek kiadása érdekében eljárást kezdeményezzen a kiírási dokumentációban meghatározott határidőn belül.
+22. § (1)[^32] A frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság megszerzésével az árverés, illetve a pályázat nyertesének kizárólagos joga nyílik arra, hogy az általa megszerzett frekvencia használatához szükséges hatósági engedélyek kiadása érdekében eljárást kezdeményezzen a kiírási dokumentációban meghatározott határidőn belül.
 
 (2) Az (1) bekezdésben meghatározott kizárólagos jog megszerzésének napja:
 
 a) a teljes árverési díj, illetve a teljes pályázati díj Hatóság által meghatározott számlán történő jóváírásának napja, vagy
 
-b) több részletben történő fizetés esetén az első törlesztőrészletnek a Hatóság által meghatározott számlán történő jóváírásának napja, amennyiben a nyertes résztvevő az első törlesztőrészlettel csökkentett teljes árverési díj, illetve teljes pályázati díj, illetve időszakos fizetési kötelezettség esetén a következő időszakra eső díj összegének megfelelő biztosítékot nyújtott.
+b)[^33] több részletben történő fizetés esetén az első törlesztőrészletnek a Hatóság által meghatározott számlán történő jóváírásának napja, amennyiben a nyertes résztvevő az első törlesztőrészlettel csökkentett teljes árverési díj, illetve teljes pályázati díj, illetve időszakos fizetési kötelezettség esetén a következő időszakra eső díj összegének megfelelő biztosítékot nyújtott, vagy
+
+c)[^34] abban az esetben, ha a Hatóság a pályázati vagy árverési eljárás nyertesével hatósági szerződést köt, a hatósági szerződés hatálybalépésének napja.
 
 (3) Az (1) bekezdés szerinti – frekvencia használatához szükséges – hatósági engedélyek kibocsátásának feltétele a (2) bekezdésben foglaltak teljesülése.
+
+[^32]: A 22. § (1) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^33]: A 22. § (2) bekezdés b) pontja a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^34]: A 22. § (2) bekezdés c) pontját a 9/2013. (IX. 19.) NMHH rendelet 1. § (9) bekezdése iktatta be.
