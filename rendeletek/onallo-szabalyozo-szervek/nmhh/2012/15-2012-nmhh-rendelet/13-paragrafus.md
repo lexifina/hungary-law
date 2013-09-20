@@ -40,10 +40,22 @@
 
 19. a rádióspektrum 5875–5905 MHz-es frekvenciasávjának az intelligens közlekedési rendszerek (ITS) biztonsággal összefüggő alkalmazásai érdekében történő harmonizált felhasználásáról szóló 2008. augusztus 5-i 2008/671/EK bizottság határozatnak,
 
-20. a 900 MHz-es és az 1800 MHz-es frekvenciasávnak a Közösségen belül páneurópai elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek részére történő harmonizálásáról szóló 2009. október 16-i 2009/766/EK bizottsági határozatnak és az azt módosító 2011/251/EU bizottsági végrehajtási határozatnak és
+20.[^11] a 900 MHz-es és az 1800 MHz-es frekvenciasávnak a Közösségen belül páneurópai elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek részére történő harmonizálásáról szóló 2009. október 16-i 2009/766/EK bizottsági határozatnak és az azt módosító 2011/251/EU bizottsági végrehajtási határozatnak,
 
-21. a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló 2008. április 7 i 2008/295/EK bizottsági ajánlás 2. és 8. pontjának
+20a.[^12] az Európai Unióban az elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek 790–862 MHz-es frekvenciasávú használatának harmonizált műszaki feltételeiről szóló 2010. május 6-i 2010/267/EU bizottsági határozatnak,
+
+20b.[^13] az egy többéves rádióspektrum-politikai program létrehozásáról szóló 2012. március 14-i 243/2012/EU európai parlamenti és tanácsi határozatnak,
+
+20c.[^14] az 1920–1980 MHz-es és a 2110–2170 MHz-es frekvenciasávnak az Unióban elektronikus hírközlési szolgáltatások nyújtására alkalmas földfelszíni rendszerek érdekében történő harmonizálásáról szóló 2012. november 5-i 2012/688/EU bizottsági végrehajtási határozatnak és
+
+21.[^15] a légi járműveken hozzáférhető mobilhírközlési szolgáltatásoknak (MCA-szolgáltatások) az Európai Közösségben való engedélyezéséről szóló 2008. április 7-i 2008/295/EK bizottsági ajánlás 2. és 8. pontjának
 
 való megfelelést szolgálja.
 
 (2) A rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+
+[^11]: A 13. § 20. pontja a 8/2013. (IX. 19.) NMHH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 13. § 20a. pontját a 8/2013. (IX. 19.) NMHH rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 13. § 20b. pontját a 8/2013. (IX. 19.) NMHH rendelet 2. § (3) bekezdése iktatta be.
+[^14]: A 13. § 20c. pontját a 8/2013. (IX. 19.) NMHH rendelet 2. § (4) bekezdése iktatta be.
+[^15]: A 13. § (1) bekezdés 21. pontja a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.

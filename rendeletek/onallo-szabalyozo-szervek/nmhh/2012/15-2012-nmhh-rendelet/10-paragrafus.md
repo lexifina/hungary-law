@@ -1,4 +1,4 @@
-## 9. § A nemzeti lábjegyzetek rendelkeznek a felhasználható frekvenciasávról, az abban megvalósítható rádióalkalmazásról, ISM célú felhasználásról, valamint a frekvenciasáv felhasználási lehetőségeiről és feltételeiről. A lábjegyzetek tartalmazzák azokra a nemzetközi dokumentumokra való hivatkozásokat, amelyek alapján az adott rádiószolgálatot vagy alkalmazást, ISM célú felhasználást Magyarországon megvalósították vagy megvalósíthatják.
+## 9. §[^9] A nemzeti lábjegyzetek rendelkeznek a felhasználható frekvenciasávról, az abban megvalósítható rádióalkalmazásról, ISM célú felhasználásról, valamint a frekvenciasáv felhasználási lehetőségeiről és feltételeiről. A lábjegyzetek tartalmazzák azokra a nemzetközi dokumentumokra való hivatkozásokat, amelyek alapján az adott rádiószolgálatot vagy -alkalmazást, ISM célú felhasználást Magyarországon megvalósították vagy megvalósíthatják.
 
 10. § (1) Az FNFT nemzeti lábjegyzeteiben egy adott frekvenciasáv adott rádióalkalmazás általi használatbavételi lehetősége szempontjából
 
@@ -15,3 +15,5 @@ b) tervezett
 (4) A tengeri mozgószolgálat, a légi mozgószolgálat, a rádiónavigáció szolgálat, a műholdas tengeri mozgószolgálat, a műholdas légi mozgószolgálat és a műholdas rádiónavigáció szolgálat fedélzeti állomásai és az űrtávközlési szolgálatok űrállomásai részére – Magyarország határain és légterén kívüli használat esetében – az RR, valamint a vonatkozó nemzetközi egyezmények alapján a polgári frekvenciagazdálkodó hatóságtól szerezhető frekvenciahasználati jog.
 
 (5) A műholdas állandóhelyű szolgálat hálózataiban hajók fedélzetén elhelyezett földi állomások részére – Magyarország határain kívüli használat esetében – az RR, valamint az ECC/DEC/(05)09 és az ECC/DEC/(05)10 Határozat alapján a polgári frekvenciagazdálkodó hatóságtól szerezhető frekvenciahasználati jog.
+
+[^9]: A 9. § a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.

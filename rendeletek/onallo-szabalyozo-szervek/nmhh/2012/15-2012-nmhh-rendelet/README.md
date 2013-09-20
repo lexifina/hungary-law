@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-15-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-12-30 | 2012-15-20-3H.1 | 15/2012. (XII. 29.) NMHH rendelet |
+| 2013-09-20 | 2012-15-20-3H.2 | 8/2013. (IX. 19.) NMHH rendelet |
