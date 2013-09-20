@@ -1,0 +1,97 @@
+## A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva az Erzsébet téri Kulturális Központ és Park II. ütemének megvalósításához kapcsolódó, más forrásból nem fedezett fizetési kötelezettségek teljesítésére figyelemmel 7266 ezer forint egyszeri átcsoportosítását rendeli el a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím terhére, a Kvtv. 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 1. Közigazgatási és Igazságügyi Minisztérium igazgatása cím javára az 1. melléklet szerint.
+
+## Felelős: Miniszterelnökséget vezető államtitkár
+
+## közigazgatási és igazságügyi miniszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1665/2013. (IX. 20.) Korm. határozathoz
+
+XI. Miniszterelnökség
+
+X. Közigazgatási és Igazságügyi Minisztérium
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2013.
+
+| ezer forintban |
+
+| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. |  |  | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. | K I A D Á S O K |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 294502 |  | 1 |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -7 266 |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000505 |  | 1 |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 7 266 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | B E V É T E L | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+| ezer forintban |
+
+| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
+
+| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | (+/-) | következő |
+
+| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
+
+|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | hatása |
+
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 294502 |  | 1 |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  | -7 266 |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 000505 |  | 1 |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium igazgatása |  |  |  |  |  |  |  |  | 7 266 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnali |  |  |  | 7 266 |  |  |  |  |  |  |  |  |  |  | 7 266 |  |
+
+| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
