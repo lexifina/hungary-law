@@ -18,7 +18,7 @@ Miniszterelnökséget vezető államtitkár
 
 Határidő: azonnal
 
-5. felhívja a nemzetgazdasági minisztert, hogy a 2015. évi Milánói Világkiállításért felelős kormánybiztossal és a Miniszterelnökséget vezető államtitkárral együttműködve biztosítsa a tervpályázattal és a programiroda felállításához szükséges közbeszerzési eljárások megkezdésével, valamint ezekhez kapcsolódóan a 2015. évi Milánói Világkiállításért felelős kormánybiztos feladatai végrehajtásával kapcsolatosan felmerült költségek fedezetét.
+5.[^1] felhívja a nemzetgazdasági minisztert, hogy a 2015. évi Milánói Világkiállításért felelős kormánybiztossal és a Miniszterelnökséget vezető államtitkárral együttműködve biztosítsa a részvételhez kapcsolódó előkészítő feladatok finanszírozásához szükséges fedezetet.
 
 Felelős: nemzetgazdasági miniszter
 
@@ -27,3 +27,5 @@ a 2015. évi Milánói Világkiállításért felelős kormánybiztos
 Miniszterelnökséget vezető államtitkár
 
 Határidő: azonnal
+
+[^1]: Az 5. pont az 1661/2013. (IX. 20.) Korm. határozat 9. pontja szerint módosított szöveg.
