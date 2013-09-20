@@ -15,3 +15,5 @@ b) az (1) bekezdésben,
 c) a Nemzetközi Rádiószabályzat és a nemzetközi szakmai szervezetek által meghatározottakon túl, valamint
 
 d) a rádióberendezést gyártó által megadott műszaki jellemzők határértékein túl
+
+e rendelet nem ír elő további követelményeket.

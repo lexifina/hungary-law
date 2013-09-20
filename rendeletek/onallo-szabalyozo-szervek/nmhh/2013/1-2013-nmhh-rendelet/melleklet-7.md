@@ -22,4 +22,6 @@
 
 | 8 |  | digitális szélessávú hozzáférési rendszerek | 5725–5875 MHz | H166 | RAT 2. melléklet II. fejezet 6-7. pontja szerinti sávhasználati szabályok érvényesek. Egyedi engedélyezési kötelezettség alól mentesítve. |
 
-7. melléklet az 1/2013. (I. 7.) NMHH rendelethez
+7. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^7]
+
+[^7]: A 7. melléklet a 10/2013. (IX. 19.) NMHH rendelet 2. § (13) bekezdése és 3. § e) pontja szerint módosított szöveg.

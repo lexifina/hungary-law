@@ -28,8 +28,6 @@
 
 | EIRP | Equivalent Isotropically Radiated Power Kisugárzott egyenértékű izotrop teljesítmény |
 
-| EN | European Norm Európai Szabvány |
-
 | ERC | European Radiocommunications Committee Európai Rádiótávközlési Bizottság |
 
 | ERC/DEC | ERC Decision ERC-határozat |
@@ -54,13 +52,13 @@
 
 | LORAN | Long Range Air Navigation System Nagy távolságú léginavigációs rendszer |
 
-| MSZ | Magyar Szabvány |
-
 | NATO | North Atlantic Treaty Organisation Észak-atlanti Szerződés Szervezete |
 
 | NJFA | NATO Joint Civil/Military Frequency Agreement NATO Közös Polgári/Katonai Frekvenciaegyezmény |
 
 | NMHH | Nemzeti Média- és Hírközlési Hatóság |
+
+| NVIS | Near Vertical Incidence Skywave Függőlegeshez közeli beesési szögű térhullám |
 
 | (OR) | Off-route Útvonalon kívüli |
 
@@ -90,7 +88,7 @@
 
 | WRC | World Radiocommunication Conference Rádiótávközlési Világértekezlet |
 
-10. melléklet az 1/2013. (I. 7.) NMHH rendelethez
+10. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^9]
 
 Dokumentumok jegyzéke
 
@@ -148,9 +146,9 @@ Dokumentumok jegyzéke
 
 |  | Magyarország, a Szlovák Köztársaság és Ukrajna között létrejött műszaki szakértői értekezlet zárójegyzőkönyve az állandóhelyű szolgálat és földi mozgószolgálat frekvenciakoordinációjáról, Kijev, 2009. június 9-12. |
 
-| HCM Megállapodás (2010) | Agreement between the Administrations of Austria, Belgium, the Czech Republic, Germany, France, Hungary, the Netherlands, Croatia, Italy, Liechtenstein, Lithuania, Luxembourg, Poland, Romania, the Slovak Republic, Slovenia and Switzerland on the co-ordination of frequencies between 29.7 MHz and 43.5 GHz for the fixed service and the land mobile service. (HCM Agreement), Zagreb, 30 September 2010 |
+| HCM Megállapodás (2012) | Agreement between the Administrations of Austria, Belgium, the Czech Republic, Germany, France, Hungary, the Netherlands, Croatia, Italy, Liechtenstein, Lithuania, Luxembourg, Poland, Romania, the Slovak Republic, Slovenia and Switzerland on the co-ordination of frequencies between 29.7 MHz and 43.5 GHz for the fixed service and the land mobile service. (HCM Agreement), agreed by correspondence (2012) |
 
-|  | Megállapodás, amely létrejött Ausztria, Belgium, a Cseh Köztársaság, Németország, Franciaország, Magyarország, Hollandia, Horvátország, Olaszország, Liechtenstein, Litvánia, Luxemburg, Lengyelország, Románia, a Szlovák Köztársaság, Szlovénia és Svájc igazgatásai között az állandóhelyű szolgálat és a földi mozgószolgálat 29,7 MHz és 43,5 GHz közötti frekvenciáinak koordinálására. (HCM Megállapodás), Zágráb, 2010. szeptember 30. |
+|  | Megállapodás, amely létrejött Ausztria, Belgium, a Cseh Köztársaság, Németország, Franciaország, Magyarország, Hollandia, Horvátország, Olaszország, Liechtenstein, Litvánia, Luxemburg, Lengyelország, Románia, a Szlovák Köztársaság, Szlovénia és Svájc igazgatásai között az állandóhelyű szolgálat és a földi mozgószolgálat 29,7 MHz és 43,5 GHz közötti frekvenciáinak koordinálására. (HCM Megállapodás), levelezés útján elfogadva (2012) |
 
 3.2. TETRA Megállapodások
 
@@ -208,4 +206,6 @@ Dokumentumok jegyzéke
 
 5. Hazai dokumentum
 
-| Hatósági frekvenciajegyzék | Légiforgalmi célú frekvenciakiosztási terv hatósági frekvenciajegyzéke a légi rádiónavigáció (AerRN) és a légi mozgó [AM(R)S, AM(OR)S] rádiószolgálati alkalmazások számára kijelölhető frekvenciákról Budapest, 2011. szeptember 6. |
+| Hatósági frekvenciajegyzék | Megállapodás a légiforgalmi célú frekvenciakiosztási terv készítésére, valamint a frekvenciák kijelölésére és engedélyezésére vonatkozó összehangolt hatósági feladatokról, valamint a légiforgalmi célú hatósági frekvenciajegyzékről 2013. március 27. |
+
+[^9]: A 10. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (6) bekezdése szerint módosított szöveg.

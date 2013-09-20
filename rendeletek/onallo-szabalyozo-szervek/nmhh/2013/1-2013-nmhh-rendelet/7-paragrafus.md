@@ -1,5 +1,3 @@
-## alapján azokat a frekvenciagazdálkodási követelményeket és műszaki jellemzőket, valamint sávhasználati feltételeket, amelyeknek teljesítése kötelező a rádiórendszerek üzemben tartásához.
-
 7. § (1) A rádiórendszerek összehangolt működését biztosító frekvenciagazdálkodási követelmények az alábbiak:
 
 a) csatornaelrendezés, beleértve csatornaosztást, csatornaképzési szabályt, védősávot,

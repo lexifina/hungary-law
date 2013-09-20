@@ -14,7 +14,7 @@
 
 | 3 | FÖLDI MOZGÓ | egyfrekvenciás, frekvenciaugratásos rendszerek | 1606,5–1810 kHz 2045–2170 kHz 3800–3900 kHz 4750–4995 kHz 5450–5480 kHz 5730–5900 kHz 24 000–24 890 kHz | H22 | 2.1. pont. 2.2. pont. |
 
-| 4 |  | egyfrekvenciás beszéd- és adatátviteli rendszerek | 47–66 MHz |  | Egyedi engedély a 48,5–56,5 MHz és az 58–60 MHz sávban csak a digitális átállás határnapját követő naptól szerezhető. A 60–66 MHz sáv használata a digitális átállás határnapjáig másodlagos, utána elsődleges. 2.1. pont. 2.5. pont. 7. melléklet 1. pontja. Elsősorban katonai használat. |
+| 4 |  | egyfrekvenciás beszéd- és adatátviteli rendszerek | 47–66 MHz |  | Egyedi engedély a 48,5–56,5 MHz és az 58–60 MHz sávban csak 2014. január 1-jétől szerezhető. A 60–66 MHz sáv használata a 2013. december 31-ig másodlagos, utána elsődleges. 2.1. pont. 2.5. pont. 7. melléklet 1. pontja. Elsősorban katonai használat. |
 
 | 5 |  | egyfrekvenciás rendszerek | 66–73 MHz |  |
 
@@ -40,13 +40,13 @@
 
 | 16 |  | egy- és kétfrekvenciás rendszerek | 1350–1375 MHz |  | A rádiócsillagászati szolgálat védelmét a KFGH lehetőség szerint biztosítja. 4. § (2) bekezdése. Elsősorban katonai használat. |
 
-| 17 |  |  | 2025–2070 MHz 2200–2245 MHz |  | Az ITU-R SA.1154 Ajánlásban nevezett nagysűrűségű mozgórendszerek nem vezethetők be. NATO-célokra is használható. 4. § (2) bekezdése. Elsősorban katonai használat. NATO előírás. |
+| 17 |  |  | 2025–2070 MHz 2200–2245 MHz |  | Az ITU-R SA.1154 Ajánlásban nevezett nagysűrűségű mozgórendszerek nem vezethetők be. NATO-célokra is használható. 4. § (2) bekezdése. A sáv a pilótanélküli rendszerek részére is használható. Elsősorban katonai használat. NATO előírás. |
 
 | 18 | MOZGÓ | digitális szélessávú hozzáférési rendszerek | 2370–2400 MHz | H151A | Kizárólag TDD alkalmazások részére használható. A sáv 6 darab 5 MHz-es frekvenciablokkra van osztva. Két szomszédos blokk összevonható, ha ugyanaz a jogosultja. Ebben az esetben a két szomszédos blokk egy blokknak minősül. Szomszédos blokkok jogosultjai egymás zavarásával szemben – kölcsönös megállapodás hiányában – a rádiórendszerek vevőberendezéseinek maximálisan 2 dB fédingtartalék-csökkenéséig nem emelhetnek kifogást. Teljesítmény: - központi állomásnál, valamint átjátszó állomás–felhasználó állomás irányú összeköttetésnél max. 31 dBW/5MHz EIRP - felhasználói állomásnál max. 1 dBW/5 MHz EIRP - átjátszó állomás–központi állomás irányú összeköttetésnél az átjátszó állomásnál max. 5 dBW/5 MHz EIRP |
 
-| 19 |  | egy- és kétfrekvenciás hang és adatátviteli rendszerek | 4400–4990 MHz | H51 | A rádiócsillagászati szolgálat védelmét a 4825–4835 MHz és a 4950–4990 MHz sávban a KFGH lehetőség szerint biztosítja. A 4825–4835 MHz és a 4950–4990 MHz sáv a légi mozgószolgálat rádióalkalmazásai részére nem használható. 1. típusú harmonizált NATO-sáv. A felhasználható részsávokat és a sávhasználat frekvenciagazdálkodási feltételeit és követelményeit a KFGH és a honvédség megállapodása tartalmazza. Katonai használat. NATO előírás. |
+| 19 |  | egy- és kétfrekvenciás hang és adatátviteli rendszerek | 4400–4990 MHz | H51 | A rádiócsillagászati szolgálat védelmét a 4825–4835 MHz és a 4950–4990 MHz sávban a KFGH lehetőség szerint biztosítja. A 4825–4835 MHz és a 4950–4990 MHz sáv a légi mozgószolgálat rádióalkalmazásai részére nem használható. 1. típusú harmonizált NATO-sáv. A felhasználható részsávokat és a sávhasználat frekvenciagazdálkodási feltételeit és követelményeit a KFGH és a honvédség megállapodása tartalmazza. A 4400–4825 MHz és a 4835–4950 MHz sáv a pilóta nélküli rendszerek részére is használható. Katonai használat. NATO előírás. |
 
-| 20 |  | egy- és kétfrekvenciás digitális hang és adatátviteli rendszerek | 14,62–14,81 GHz |  | 1. típusú harmonizált NATO-sáv. Egyedi engedély a 14,81–15,04 GHz sávban 2019. január 1-jétől szerezhető. Katonai használat. NATO előírás. |
+| 20 |  | egy- és kétfrekvenciás digitális hang és adatátviteli rendszerek | 14,62–14,81 GHz |  | 1. típusú harmonizált NATO-sáv. Egyedi engedély a 14,81–15,04 GHz sávban 2019. január 1-jétől szerezhető. 4. § (2) bekezdése. Katonai használat. NATO előírás. |
 
 | 21 |  | 14,81–15,04 GHz | H22 |
 
@@ -56,13 +56,13 @@
 
 | 24 |  |  | 36–37 GHz 43,5–45,5 GHz | H51 | A rádiócsillagászati szolgálat védelmét a 36,43–36,5 GHz sávban a KFGH lehetőség szerint biztosítja. A 43,5–45,5 GHz sávban a mozgó rendszerek nem okozhatnak káros zavarást az űrtávközlési szolgálatoknak. 1. típusú harmonizált NATO-sáv. 4. § (2) bekezdése. Katonai használat. NATO előírás. |
 
-| 25 | MOZGÓ, a légi mozgó kivételével | egy- és kétfrekvenciás, kiterjesztett spektrumú, frekvenciaugratásos rendszerek | 1850–2000 kHz 3230–3400 kHz 3500–3800 kHz 5250–5450 kHz 23 350–24 000 kHz 25 010–25 070 kHz 25 210–25 550 kHz 26 175–26 510 kHz | H22 | 2.1. pont. 2.2. pont. Katonai használat a 3230–3400 kHz, 5250–5450 kHz, 23 350–24 000 kHz, 25 010–25 070 kHz, 25 210–25 550 kHz és a 26 175–26 510 kHz sávban. |
+| 25 | MOZGÓ, a légi mozgó kivételével | egy- és kétfrekvenciás, kiterjesztett spektrumú, frekvenciaugratásos rendszerek | 1850–2000 kHz 3230–3400 kHz 3500–3800 kHz 5250–5450 kHz 23 350–24 000 kHz 25 010–25 070 kHz 25 210–25 550 kHz 26 175–26 510 kHz | H22 | Egyedi engedély az 5318–5321 kHz sávban kizárólag NVIS alkalmazások részére – veszélyhelyzet vagy katasztrófa és az azokra való felkészülés idejére – szerezhető. 2.1. pont. 2.2. pont. Katonai használat a 3230–3400 kHz, 5250–5318 kHz, 5321–5450 kHz, 23 350–24 000 kHz, 25 010–25 070 kHz, 25 210–25 550 kHz és a 26 175–26 510 kHz sávban. |
 
-| 26 |  |  | 73–74,8 MHz 75,2–87,5 MHz |  | A rádiócsillagászati szolgálat védelmét a 73–74,6 MHz sávban a KFGH lehetőség szerint biztosítja. A 73,3–74,1 MHz és a 79–79,7 MHz sáv 3. típusú harmonizált NATO-sáv. A 73–74,8 MHz, 77–79,7 MHz és a 81,5–82 MHz sávban az állandóhelyű rendszerek 2012. november 30-ig nem okozhatnak káros zavarást a H57 és H58 lábjegyzet szerint működő állomásoknak. 2.1. pont. 2.5. pont. 7. melléklet 1. pontja. Elsősorban katonai használat a 75,2–75,45 MHz, 75,525–75,675 MHz, 76,425–76,625 MHz, 76,675–76,925 MHz, 79,7–79,95 MHz, 80,025–80,175 MHz, 80,925–81,125 MHz, 81,175–81,425 MHz és a 82–83,975 MHz sávban. NATO előírás. |
+| 26 |  |  | 73–74,8 MHz 75,2–87,5 MHz |  | A rádiócsillagászati szolgálat védelmét a 73–74,6 MHz sávban a KFGH lehetőség szerint biztosítja. A 73,3–74,1 MHz és a 79–79,7 MHz sáv 3. típusú harmonizált NATO-sáv. 2.1. pont. 2.5. pont. 7. melléklet 1. pontja. Elsősorban katonai használat a 75,2–75,45 MHz, 75,525–75,675 MHz, 76,425–76,625 MHz, 76,675–76,925 MHz, 79,7–79,95 MHz, 80,025–80,175 MHz, 80,925–81,125 MHz, 81,175–81,425 MHz és a 82–83,975 MHz sávban. NATO előírás. |
 
 | 27 |  | egy- és kétfrekvenciás rendszerek | 150,05–151,4 MHz 167,3–169,4 MHz 169,8125–174 MHz |  | A rádiócsillagászati szolgálat védelmét a 150,05–151,4 MHz sávban a KFGH lehetőség szerint biztosítja. A 150,05–151,4 MHz és a 167,3–169,4 MHz sáv várhatóan 2018. december 31-ig használható. 2.6. pont. 7. melléklet 1. pontja. |
 
-| 28 |  | egyfrekvenciás rendszerek | 406,1–410 MHz |  | A rádiócsillagászati szolgálat védelmét a 406,1–410 MHz sávban a KFGH lehetőség szerint biztosítja. A 410–415/420–425 MHz sávban az egy- és kétfrekvenciás rendszerek állomásai a szélesebb sávú digitális, PMR típusú földi mozgó rádiórendszerek bevezetéséig tarthatók üzemben. 2.8. pont. 7. melléklet 1. pontja. |
+| 28 |  | egyfrekvenciás rendszerek | 406,1–410 MHz |  | A rádiócsillagászati szolgálat védelmét a 406,1–410 MHz sávban a KFGH lehetőség szerint biztosítja. A 410–415/420–425 MHz sávban az egy- és kétfrekvenciás rendszerek állomásai a szélessávú, valamint szélesebb sávú digitális PPDR rádiórendszerek bevezetéséig tarthatók üzemben. 2.8. pont. 7. melléklet 1. pontja. |
 
 | 29 |  | egy- és kétfrekvenciás rendszerek | 410–417 MHz 420–427 MHz 440–442 MHz 445–446 MHz 446,1–447 MHz |
 
@@ -70,7 +70,7 @@
 
 | 31 |  | egyfrekvenciás rendszerek | 4825–4835 MHz 4950–5000 MHz | H51 | A rádiócsillagászati szolgálat védelmét a KFGH lehetőség szerint biztosítja. 1. típusú harmonizált NATO-sáv. A felhasználható részsávokat és a sávhasználat frekvenciagazdálkodási feltételeit és követelményeit a KFGH és a honvédség megállapodása tartalmazza. Katonai használat. NATO előírás. |
 
-| 32 | MOZGÓ, az (R) légi mozgó kivételével | keskenysávú egyfrekvenciás rendszerek | 2000–2045 kHz 2194–2498 kHz 2502–2625 kHz 2650–2850 kHz 3155–3230 kHz 4438–4650 kHz 6765–7000 kHz | H22 | A 2000–2045 kHz, 2194–2498 kHz, 2502–2625 kHz és a 2650–2850 kHz sávban a KFGH tekintetbe veszi a tengeri mozgószolgálat különleges igényeit. 2.1. pont. |
+| 32 | MOZGÓ, az (R) légi mozgó kivételével | keskenysávú egyfrekvenciás rendszerek | 2000–2045 kHz 2194–2498 kHz 2502–2625 kHz 2650–2850 kHz 3155–3230 kHz 4438–4650 kHz 6765–7000 kHz | H22 | A 2000–2045 kHz, 2194–2498 kHz, 2502–2625 kHz és a 2650–2850 kHz sávban a KFGH tekintetbe veszi a tengeri mozgószolgálat különleges igényeit. Egyedi engedély a 2342–2345 kHz és a 2411–2414 kHz sávban kizárólag NVIS alkalmazások részére – veszélyhelyzet vagy katasztrófa és az azokra való felkészülés idejére – szerezhető. 4. § (2) bekezdése. 2.1. pont. |
 
 | 33 |  | egyfrekvenciás beszéd- és adatátviteli rendszerek | 7450–8100 kHz |  | 2.2. pont. |
 
@@ -90,7 +90,7 @@
 
 | 2 | Rádiószolgálat | Rádióalkalmazás | Frekvenciasáv | Nemzeti lábjegyzet |
 
-| 3 | Földi mozgó | egyfrekvenciás beszéd- és adatátviteli rendszerek | 60–66 MHz | H22 | A sáv használata a digitális átállás határnapjáig másodlagos, utána elsődleges. 2.5. pont. Elsősorban katonai használat |
+| 3 | Földi mozgó | egyfrekvenciás beszéd- és adatátviteli rendszerek | 60–66 MHz | H22 | A sáv használata 2013. december 31-ig másodlagos, utána elsődleges. 2.5. pont. Elsősorban katonai használat |
 
 | 4 | Mozgó | egyfrekvenciás rendszerek, belvízi hajózási rendszerek | 20 010–21 000 kHz | H22 | 2.2. pont. |
 
@@ -98,7 +98,7 @@
 
 | 6 |  | egy- és kétfrekvenciás rendszerek | 472–476 MHz |  | 4. § (2) bekezdése. |
 
-| 7 | Mozgó, a légi mozgó kivételével | egyfrekvenciás rendszerek | 5060–5250 kHz 18 168–18 780 kHz | H22 | 2.2. pont. |
+| 7 | Mozgó, a légi mozgó kivételével | egyfrekvenciás rendszerek | 5060–5250 kHz 18 168–18 780 kHz | H22 | Egyedi engedély az 5212–5215 kHz sávban kizárólag NVIS alkalmazások részére – veszélyhelyzet vagy katasztrófa és az azokra való felkészülés idejére – szerezhető. 2.2. pont. |
 
 | 8 |  |  | 401–406 MHz |  | 4. § (2) bekezdése. Elsősorban katonai használat |
 
@@ -162,7 +162,7 @@
 
 | 18 | 23 000–23 200 |
 
-| 19 | 23 350–24 800 |
+| 19 | 23 350–24 890 |
 
 | 20 | 25 010–25 070 |
 
@@ -245,6 +245,8 @@
 |  | 17 | 13,2254 |
 
 ## 2.3.3. A rádióállomások maximális teljesítmény értékei az adásmód függvényében
+
+## 3K67018N_5
 
 |  | A | B | C | D | E |
 
@@ -418,4 +420,6 @@
 
 ## 2.8.1. A 410–417/420–427 MHz sávban a KFGH mérlegelése alapján egyfrekvenciás, legfeljebb körzeti lefedettséget biztosító frekvenciahasználatra is szerezhető egyedi engedély.
 
-3. melléklet az 1/2013. (I. 7.) NMHH rendelethez
+3. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^4]
+
+[^4]: A 3. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (3) bekezdése, 2. § (7)–(11) bekezdése és 3. § c) pontja szerint módosított szöveg.

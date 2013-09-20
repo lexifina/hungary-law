@@ -16,13 +16,15 @@
 
 | 4 | ÁLLANDÓHELYŰ | pont-pont, pont-többpont, általános többpont rendszerek | 20 010–21 000 kHz 21 850–21 870 kHz 22 855–23 200 kHz 23 350–24 890 kHz 25 010–25 070 kHz 25 210–25 550 kHz 26 175–26 510 kHz 27 860–28 000 kHz | H21 | A3E, F3E és G3E adásmód használata tilos. 4. § (2) bekezdése. Katonai használat a 26 175–26 510 kHz sávban. |
 
-| 5 |  |  | 29,7–34,995 MHz 35,225–74,8 MHz 75,2–76,45 MHz 77,7–84 MHz |  | A rádiócsillagászati szolgálat védelmét a 37,5–38,25 MHz és a 73–74,6 MHz sávban a KFGH lehetőség szerint biztosítja. F3E és G3E adásmód használata tilos a 29,7–30 MHz sávban. Egyedi engedély a 48,5–56,5 MHz és az 58–60 MHz sávban csak a digitális átállás határnapját követő naptól szerezhető. A 60–66 MHz sáv használata a digitális átállás határnapjáig másodlagos, utána elsődleges. A 73–74,8 MHz, 77–79,7 MHz és a 81,5–82 MHz sávban az állandóhelyű rendszerek 2012. november 30-ig nem okozhatnak káros zavarást a H57 és H58 lábjegyzet szerint működő állomásoknak. 2.1. pont. 7. melléklet 1. pontja. Katonai használat a 29,7–30,005 MHz, 31,625–34,975 MHz, 35,225–46,975 MHz, 47–48,475 MHz, 56,5–57,975 MHz, 60–69,975 MHz, 75,2–75,675 MHz, 79,7–80,175 MHz 80,925–81,425 MHz és a 82–83,975 MHz sávban. Elsősorban katonai használat a 30,005–31,625 MHz, 48,475–56,5 MHz, 57,975–60 MHz, 69,975–75,2 MHz, 75,675–76,45 MHz, 77,7–79,7 MHz, 80,175–80,925 MHz és a 81,425–82 MHz sávban. |
+| 5 |  |  | 29,7–34,995 MHz 35,225–74,8 MHz 75,2–76,45 MHz 77,7–84 MHz |  | A rádiócsillagászati szolgálat védelmét a 37,5–38,25 MHz és a 73–74,6 MHz sávban a KFGH lehetőség szerint biztosítja. F3E és G3E adásmód használata tilos a 29,7–30 MHz sávban. Egyedi engedély a 48,5–56,5 MHz és az 58–60 MHz sávban csak 2014. január 1-jétől szerezhető. A 60–66 MHz sáv használata 2013. december 31-ig másodlagos, utána elsődleges. 2.1. pont. 7. melléklet 1. pontja. Katonai használat a 29,7–30,005 MHz, 31,625–34,975 MHz, 35,225–46,975 MHz, 47–48,475 MHz, 56,5–57,975 MHz, 60–69,975 MHz, 74,8–75,675 MHz, 79,7–80,175 MHz 80,925–81,425 MHz és a 82–83,975 MHz sávban. Elsősorban katonai használat a 30,005–31,625 MHz, 48,475–56,5 MHz, 57,975–60 MHz, 69,975–74,8 MHz, 75,675–76,45 MHz, 77,7–79,7 MHz, 80,175–80,925 MHz és a 81,425–82 MHz sávban. |
 
 | 6 |  |  | 150,05–151,4 MHz 154–156 MHz 167,3–169,4 MHz 169,8125–174 MHz |  | A rádiócsillagászati szolgálat védelmét a 150,05–151,4 MHz sávban a KFGH lehetőség szerint biztosítja. A 150,05–151,4 MHz és a 167,3–169,4 MHz sáv várhatóan 2018. december 31-ig használható. 2.2. pont. 7. melléklet 1. pontja. |
 
 | 7 |  |  | 230–328,6 MHz 335,4–399,9 MHz | H51 | A rádiócsillagászati szolgálat védelmét a 322–328,6 MHz sávban a KFGH lehetőség szerint biztosítja . 1. típusú harmonizált NATO-sáv. 4. § (2) bekezdése. 7. melléklet 1. pontja. NATO előírás. |
 
-| 8 |  |  | 400,05–401 MHz 406,1–417 MHz 420–427 MHz 430–442 MHz 445–446 MHz 446,1–447 MHz | H21 | A rádiócsillagászati szolgálat védelmét a 406,1–410 MHz sávban a KFGH lehetőség szerint biztosítja. A 410–415/420–425 MHz sávban az állandóhelyű rendszerek állomásai a szélesebb sávú digitális, PMR típusú földi mozgó rádiórendszerek bevezetéséig tarthatók üzemben. 2.3. pont. 7. melléklet 1. pontja. |
+| 7a |  |  | 400,05–401 MHz | H21 | 4. § (2) bekezdése. 7. melléklet 1. pontja. |
+
+| 8 |  |  | 406,1–417 MHz 420–427 MHz 430–442 MHz 445–446 MHz 446,1–447 MHz |  | A rádiócsillagászati szolgálat védelmét a 406,1–410 MHz sávban a KFGH lehetőség szerint biztosítja. A 410–415/420–425 MHz sávban az állandóhelyű rendszerek állomásai a szélessávú, valamint szélesebb sávú digitális PPDR rádiórendszerek bevezetéséig tarthatók üzemben. 2.3. pont. 7. melléklet 1. pontja. |
 
 | 9 |  |  | 1350–1375 MHz 1492–1525 MHz |  | A rádiócsillagászati szolgálat védelmét az 1350–1375 MHz sávban a KFGH lehetőség szerint biztosítja. 4. § (2) bekezdése. 7. melléklet 1. pontja. |
 
@@ -56,7 +58,7 @@
 
 | 2 | Rádiószolgálat | Rádióalkalmazás | Frekvenciasáv | Nemzeti lábjegyzet |
 
-| 3 | Állandóhelyű | pont-pont, pont-többpont, általános többpont rendszerek | 60–66 MHz | H21 | A sáv használata a digitális átállás határnapjáig másodlagos, utána elsődleges. 4. § (2) bekezdése. |
+| 3 | Állandóhelyű | pont-pont, pont-többpont, általános többpont rendszerek | 60–66 MHz | H21 | A sáv használata 2013. december 31-ig másodlagos, utána elsődleges. 2.1. pont. |
 
 | 4 |  |  | 223–230 MHz |  | A 225–230 MHz sáv 1. típusú harmonizált NATO-sáv. 4. § (2) bekezdése. NATO előírás. |
 
@@ -94,6 +96,8 @@
 
 ## 2.2. Műszaki követelmények a 150,05–174 MHz sávban
 
+## 3K67018M_3
+
 |  | A | B | C | D | E | F |
 
 | 1 | Frekvenciasáv [MHz] | Csatornaosztás [kHz] | Adási sáv | Első vivőfrekvencia [MHz] | Utolsó vivőfrekvencia [MHz] | Duplex távolság [MHz] |
@@ -115,6 +119,8 @@
 | 9 | 25 | 169,825 | 171,8875 |
 
 ## 2.3. Műszaki követelmények a 406,1–447 MHz sávban
+
+## 3K67018M_4
 
 |  | A | B | C | D | E | F | G |
 
@@ -186,4 +192,6 @@
 
 | 20 | 28 | min. 34 |
 
-2. melléklet az 1/2013. (I. 7.) NMHH rendelethez
+2. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^3]
+
+[^3]: A 2. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (2) bekezdése, 2. § (1)–(2), (4) és (6) bekezdése és 3. § a) pontja szerint módosított szöveg.

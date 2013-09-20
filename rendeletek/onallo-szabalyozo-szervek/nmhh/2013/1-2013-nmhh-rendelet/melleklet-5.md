@@ -14,23 +14,23 @@
 
 | 3 | RÁDIÓLOKÁCIÓ | földi telepítésű korai előrejelző és riasztó elsődleges radar, horizonton túli elsődleges radar | 1625–1635 kHz 2160–2170 kHz | H23 | 4. § (2) bekezdése. |
 
-| 4 |  | földi telepítésű korai előrejelző, célmegjelölő, rávezető elsődleges radar | 154–156 MHz 169,8125–174 MHz | H70 | A 2008. január 1-jén érvényes rádióengedéllyel rendelkező radarok várhatóan 2018. december31-ig tarthatók üzemben. Egyedi engedély csak meglévő berendezéssel létesített állomás részére szerezhető, az állomások száma nem növelhető. 4. § (2) bekezdése. |
+| 4 |  | földi telepítésű korai előrejelző, célmegjelölő, rávezető elsődleges radar | 154–156 MHz 169,8125–174 MHz | H70 | A radarok várhatóan 2018. december 31-ig tarthatók üzemben. Egyedi engedély csak a 2008. január 1-jén az engedélyes birtokában lévő berendezéssel és az akkor meglévő rádiólokációs telephelyek bármelyikén létesített állomás részére szerezhető. 4. § (2) bekezdése. |
 
-| 5 |  | földi telepítésű radar, hajófedélzeti radar, légijármű fedélzeti radar (csak a tenger feletti alkalmazásokra) | 430–432 MHz 438–440 MHz | H23 | 4. § (2) bekezdése. NATO előírás. |
+| 5 |  | földi telepítésű radar, hajófedélzeti radar, | 430–432 MHz 438–440 MHz | H23 | 4. § (2) bekezdése. |
 
-| 6 |  | földi telepítésű légtérellenőrző, felderítő, célmegjelölő radar, közel körzeti légtérellenőrző és navigációs radar | 830–846 MHz 862–864,1 MHz 869–873 MHz | H70 | A 2008. január 1-jén érvényes rádióengedéllyel rendelkező radarok a 830–846 MHz sávban a digitális átállás határnapjáig, a 862–864,1 MHz és a 869–873 MHz sávban várhatóan 2015. december 31-ig tarthatók üzemben. Egyedi engedély csak meglévő berendezéssel létesített állomás részére szerezhető, az állomások száma nem növelhető. 4. § (2) bekezdése. |
+| 6 |  | földi telepítésű légtérellenőrző, felderítő, célmegjelölő radar, közel körzeti légtérellenőrző és navigációs radar | 830–846 MHz 862–864,1 MHz 869–873 MHz | H70 | A radarok a 830–846 MHz sávban 2014. június 30-ig, a 862–864,1 MHz és a 869–873 MHz sávban várhatóan 2015. december 31-ig tarthatók üzemben. Egyedi engedély csak a 2008. január 1-jén az engedélyes birtokában lévő berendezéssel és az akkor meglévő rádiólokációs telephelyek bármelyikén létesített állomás részére szerezhető. 4. § (2) bekezdése. |
 
 | 7 |  | földi telepítésű elsődleges légtérellenőrző radar | 1215–1350 MHz | H23 | NATO célokra is használható. 4. § (2) bekezdése. NATO előírás. |
 
 | 8 |  | földi telepítésű elsődleges radar, földi telepítésű magasságmérő radar, meteorológiai radar | 2200–2300 MHz |  | 4. § (2) bekezdése. |
 
-| 9 |  | földi telepítésű meteorológiai radar | 2700–2900 MHz | H157 | A földi telepítésű meteorológiai radarok a légi rádiónavigáció szolgálat állomásaival azonos jogokkal működhetnek. NATO célokra is használható. 4. § (2) bekezdése. NATO előírás. |
+| 9 |  | földi telepítésű meteorológiai radar | 2700–2900 MHz | H157 | A földi telepítésű meteorológiai radarok a légi rádiónavigáció szolgálat állomásaival azonos jogokkal működhetnek. 4. § (2) bekezdése. |
 
 | 10 | RÁDIÓLOKÁCIÓ | földi telepítésű korai előrejelző, légtérellenőrző, célmegjelölő, rávezető elsődleges radar, földi telepítésű magasságmérő radar, földi telepítésű meteorológiai radar, hajófedélzeti radar | 2900–3400 MHz | H23 | A rádiócsillagászati szolgálat védelmét a 3260–3267 MHz, 3332–3339 MHz és a 3345,8–3352,5 MHz sávban a KFGH lehetőség szerint biztosítja. A rádiólokáció szolgálat állomásai a 2900–3100 MHz sávban nem okozhatnak káros zavarást a rádiónavigáció szolgálat radarrendszereinek, és azokkal szemben védelemre sem tarthatnak igényt. NATO célokra is használható. 4. § (2) bekezdése. NATO előírás. |
 
 | 11 |  | fedélzeti elsődleges radar, fedélzeti és földi telepítésű meteorológiai radar, földi telepítésű közel körzeti felderítő, légtérellenőrző, célmegjelölő radar | 5250–5850 MHz |  | A rádiólokáció szolgálat állomásai az 5350–5470 MHz sávban nem okozhatnak káros zavarást a légi rádiónavigáció szolgálat fedélzeti radarrendszereinek és a hozzájuk kapcsolódó fedélzeti rádióbójáknak és nem is tarthatnak igényt védelemre azokkal szemben. Az 5470–5650 MHz sávban a rádiólokáció szolgálat állomásai nem okozhatnak káros zavarást a tengeri (belvízi) rádiónavigáció szolgálat radarrendszereinek, és nem is tarthatnak igényt védelemre azokkal szemben. NATO célokra is használható. Az 5600–5650 MHz sávban földi telepítésű meteorológiai radarok használhatók. 4. § (2) bekezdése. Az 5600–5650 MHz sávban a meteorológiai radarok esetén a radar vivőfrekvenciájától számított ± 300 MHz-es tartományon kívűl eső sávban a mellékhullám sugárzás szintje nem haladhatja meg a névleges kimenő teljesítményre vonatkoztatott –100 dB értéket. NATO előírás. |
 
-| 12 |  | felderítő, célkövető és rávezető radar, földi telepítésű magasságmérő radar | 6425–7075 MHz | H70 | A rádiócsillagászati szolgálat védelmét a 6650–6675,2 MHz sávban a KFGH lehetőség szerint biztosítja. A 2008. január 1-jén érvényes rádióengedéllyel rendelkező radarok várhatóan 2018. december 31-ig tarthatók üzemben. Egyedi engedély csak meglévő berendezéssel létesített állomás részére szerezhető, az állomások száma nem növelhető. 4. § (2) bekezdése. |
+| 12 |  | felderítő, célkövető és rávezető radar, földi telepítésű magasságmérő radar | 6425–7075 MHz | H70 | A rádiócsillagászati szolgálat védelmét a 6650–6675,2 MHz sávban a KFGH lehetőség szerint biztosítja. A radarok várhatóan 2018. december 31-ig tarthatók üzemben, amennyiben az állomások 2008. január 1-jén és azóta megszakítás nélkül érvényes rádióengedéllyel rendelkeznek. 4. § (2) bekezdése. |
 
 | 13 |  | felderítő, célmegjelölő, rávezető radar, meteorológiai radar | 8500–9000 MHz | H23 | 4. § (2) bekezdése. |
 
@@ -68,4 +68,6 @@
 
 ## Az új radarok használatának engedélyezésekor a KFGH vizsgálja azok sávon kívüli sugárzásának hatását a már üzemelő polgári és nem polgári célú rádiórendszerekre, nem megengedett ezen rendszerek működésének ellehetetlenülése.
 
-5. melléklet az 1/2013. (I. 7.) NMHH rendelethez
+5. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^6]
+
+[^6]: Az 5. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (5) bekezdése és 2. § (12) bekezdése szerint módosított szöveg.

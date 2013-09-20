@@ -22,7 +22,7 @@
 
 |  | 6 | 300–308/336–344 MHz 385–390/395–400 MHz | Kijevi Megállapodás (2009) |  |  |  |  |  |  | × |
 
-|  | 7 | 29,7 MHz–43,5 GHz | HCM Megállapodás (2010) | × | × | × | × |  | × |  |
+|  | 7 | 29,7 MHz–43,5 GHz | HCM Megállapodás (2012) | × | × | × | × |  | × |  |
 
 |  | 8 | TETRA Megállapodások |  |  |  |  |  |  |  |  |
 
@@ -54,18 +54,6 @@
 
 ## 2. Nemzetközi Rádiószabályzat szerinti koordináció
 
-## A koordináció az alábbi táblázatban levő ITU bejelentő űrlapok szerinti tartalom megadásával történik.
-
-|  |  | A | B |
-
-|  | 1 | Űrlap neve | Állomás |
-
-|  | 2 | T11 | Állandóhelyű szolgálat földfelszíni adóállomása |
-
-|  | 3 | T12 | Földfelszíni adóállomás (állandóhelyű és tipikus állomás kivételével) |
-
-|  | 4 | T13 | Földfelszíni vevő földi állomás |
-
-|  | 5 | T14 | Földfelszíni tipikus adóállomás (beleértve a műholdas szolgálat földfelszíni állomásait) |
+## A koordináció az ITU bejelentő űrlapok szerinti tartalom megadásával történik.
 
 8. melléklet az 1/2013. (I. 7.) NMHH rendelethez
