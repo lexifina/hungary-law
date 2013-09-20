@@ -2,8 +2,9 @@
 
 35. § (1) Ez a rendelet 2012. február 1-jén lép hatályba.
 
-(2)[^8]
+(2)[^11]
 
-(3) A rendelet rendelkezéseit a hatálybalépést követően indult eljárásokban és a megismételt eljárásokban kell alkalmazni.
+(3)[^12]
 
-[^8]: A 35. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 35. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 35. § (3) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 7. §-a hatályon kívül helyezte.

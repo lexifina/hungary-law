@@ -16,7 +16,7 @@ f) a rádiórendszerek más elektronikus hírközlő hálózattal való csatlako
 
 g) a lepecsételt rádióberendezés típusát vagy más azonosításra alkalmas megjelölését, az üzemeltető nevét és címét, az őrzés helyét, a pecsételés indokát, a pecsét eltávolításának okát, idejét;
 
-h)[^7] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító kódjait.
+h)[^9] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító kódjait.
 
 (2) Keretengedély esetében a Hatóság a 14. § (4) bekezdése szerint bejelentett adatokat nyilvántartásba veszi.
 
@@ -26,4 +26,4 @@ h)[^7] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító k�
 
 (5) A nemzetközi megállapodások mellékletei szerinti frekvenciajegyzékek nem hozhatóak nyilvánosságra.
 
-[^7]: A 34. § (1) bekezdés h) pontját a 14/2012. (IX. 28.) NMHH rendelet 5. §-a iktatta be.
+[^9]: A 34. § (1) bekezdés h) pontját a 14/2012. (IX. 28.) NMHH rendelet 5. §-a iktatta be.
