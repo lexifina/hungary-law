@@ -62,4 +62,6 @@ Határidő: azonnal,
 
 2015. évi forrás tekintetében 2014. november 30.
 
-9. A 2015-ben megrendezésre kerülő Milánói Világkiállításon Magyarország részvételéhez szükséges működési és finanszírozási feltételek megteremtéséről szóló 1137/2013. (III. 21.) Korm. határozat 5. pontjában „a tervpályázattal és a programiroda felállításához szükséges közbeszerzési eljárások megkezdésével, valamint ezekhez kapcsolódóan a 2015. évi Milánói Világkiállításért felelős kormánybiztos feladatai végrehajtásával kapcsolatosan felmerült költségek fedezetét” szövegrész helyébe az „a részvételhez kapcsolódó előkészítő feladatok finanszírozásához szükséges fedezetet” szöveg lép.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
