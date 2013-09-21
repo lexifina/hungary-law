@@ -6,6 +6,6 @@ a) a frekvenciahasználati jogosultsággal, joggal rendelkezőkre, a frekvenciah
 
 b) a Nemzeti Média- és Hírközlési Hatóságra
 
-terjed ki.
+## terjed ki.
 
 (2) A rendeletet a frekvenciahasználati jogosultság, jog átruházására vagy haszonbérbe adására kell alkalmazni.
