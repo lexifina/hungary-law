@@ -1,0 +1,1 @@
+Az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (6) bekezdésében kapott felhatalmazás alapján, valamint az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § g) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
