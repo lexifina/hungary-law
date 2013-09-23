@@ -1,4 +1,4 @@
-## 56–58. §[^11]
+## 56–58. §[^68]
 
 1. melléklet a 327/2012. (XI. 16.) Korm. rendelethez
 
@@ -54,12 +54,19 @@ ck) személyügyi igazgatás,
 
 cl) tanácsadás pszichológia,
 
-cm) tanulási és pályatanácsadás.
+cm) tanulási és pályatanácsadás,
+
+cn)[^69] okleveles rehabilitációs szakember,
+
+co)[^70] rehabilitációs gazdasági menedzser.
 
 d) Az a)–c) pontban meg nem jelölt, de ugyanazon szakterületeken az e mellékletben felsorolt végzettséggel, képzettséggel egyenértékű végzettség, képzettség, illetve szakképesítés.
 
-2. Gyakorlati idő:
+2.[^71] Gyakorlati idő:
 
-Megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatónál eltöltött, rehabilitációs tanácsadó esetén három év, rehabilitációs mentor esetén egy év szakmai gyakorlat.
+Az 1. pont a) alpont ad) alpontja szerinti képesítés esetén további feltétel megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatónál humánpolitikai vagy foglalkozási rehabilitációs területen eltöltött, rehabilitációs tanácsadó esetén három év, rehabilitációs mentor esetén egy év szakmai gyakorlat.
 
-[^11]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: Az 1. melléklet 1. pont cn) alpontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^70]: Az 1. melléklet 1. pont co) alpontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^71]: Az 1. melléklet 2. pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.

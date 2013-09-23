@@ -1,23 +1,22 @@
 ## III. Fejezet
 
-## A KÖLTSÉGVETÉSI TÁMOGATÁSOK SZABÁLYAI
+## A KÖLTSÉGVETÉSI TÁMOGATÁSOK ÁLTALÁNOS SZABÁLYAI[^26]
 
 ## 14. A támogatás általános szabályai
 
-17. § (1) Az e rendelet szerinti támogatás kizárólag a megváltozott munkaképességű munkavállalók rehabilitációs foglalkoztatásához nyújtható.
+17. §[^27] (1) Az e rendelet szerinti támogatás kizárólag
 
-(2) Az e rendelet szerinti támogatással a megváltozott munkaképességű munkavállaló munkaviszony keretében történő, a (3) bekezdésben meghatározott kivétellel legfeljebb napi 8 órás foglalkoztatása támogatható.
+a) a megváltozott munkaképességű munkavállalók rehabilitációs foglalkoztatásához (egyéni támogatás) vagy
 
-(3) A megváltozott munkaképességű munkavállaló munkaidő-keretben történő foglalkoztatása nem támogatható, ha
+b) munkahely rehabilitációs célú átalakításához (munkahely-teremtési támogatás)
 
-a) a munkavállaló az 1. § 6. pont 6.2. vagy 6.3. alpontja szerinti megváltozott munkaképességű személy vagy
+## nyújtható.
 
-b) a munkaidő-keretben történő foglalkoztatás
+(2) Az e rendelet szerinti támogatás kizárólag akkreditált munkáltató részére nyújtható. Ha a munkáltató által foglalkoztatottak létszáma a 25 főt meghaladja, a támogatás további feltétele, hogy a munkáltató az Mmtv. 22. §-a szerinti megváltozott munkaképességű személyeket az Mmtv. 23. § (1) bekezdésében meghatározott kötelező foglalkoztatási szint felett foglalkoztasson.
 
-ba) a munkavállaló egészségi állapotát veszélyezteti vagy
+(3) Egy munkavállaló után egyszerre csak egy munkáltató részesülhet az e rendelet szerinti támogatásban.
 
-bb) a munkavállaló rehabilitációs szükségleteivel nem áll összhangban vagy
+(4) E rendelet alkalmazása során az általános csoportmentességi rendelet 42. cikk (3) bekezdés d) pontja szerinti védett munkahely alatt az 1. § 12. pontjában meghatározott védett munkahelyet kell érteni.
 
-c) a munkavállaló munkaköre tekintetében a munkaidő-keret alkalmazásáról a 29. § szerinti keretszerződésben nem állapodtak meg.
-
-(4) Az e rendelet szerinti támogatás kizárólag akkreditált munkáltató részére nyújtható. Ha a munkáltató által foglalkoztatottak létszáma a 25 főt meghaladja, a támogatás további feltétele, hogy a munkáltató az Mmtv. 22. §-a szerinti megváltozott munkaképességű személyeket az Mmtv. 23. § (1) bekezdésében meghatározott kötelező foglalkoztatási szint felett foglalkoztasson.
+[^26]: A III. Fejezet címe a 335/2013. (IX. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^27]: A 17. § a 335/2013. (IX. 20.) Korm. rendelet 12. §-ával megállapított szöveg.

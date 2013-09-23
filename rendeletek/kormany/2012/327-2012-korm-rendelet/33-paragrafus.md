@@ -20,6 +20,8 @@ fa) a munkaidő-keretben meghatározott munkaórák számát,
 
 fb) az átlagos napi munkavégzés időtartamát.
 
+(2a)[^52] A munkáltató jogosult a (2) bekezdés e) és f) pontja szerinti adatok tekintetében az egyéni foglalkoztatási megállapodást egyoldalúan módosítani a megállapodásban meghatározott elektronikus felületen keresztül.
+
 (3) Az egyéni foglalkoztatási megállapodás hatályát veszti, ha
 
 a) a komplex minősítés alapján megállapításra kerül, hogy a munkavállaló nem minősül rehabilitálhatónak vagy az 1. § 6. pont 6.2. alpontja szerinti megváltozott munkaképességű személynek,
@@ -33,3 +35,5 @@ c) az egyéni foglakoztatási megállapodással érintett munkavállaló munkavi
 (5) A rehabilitációs szakigazgatási szerv az egyéni foglalkoztatási megállapodást azonnali hatállyal felmondja, ha az egyéni foglalkoztatási megállapodással érintett munkavállaló a rehabilitációs tervben foglalt kötelezettségét ismételten, súlyosan megszegi, és ezzel a rehabilitációs terv megvalósítását akadályozza.
 
 (6) Az egyéni foglalkoztatási megállapodás megszűnésére, felmondására a keretszerződésre megállapított szabályokat alkalmazni kell.
+
+[^52]: A 33. § (2a) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 19. §-a iktatta be.

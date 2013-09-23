@@ -6,11 +6,13 @@ a) a munkáltató részére nyújtandó egyéni támogatások együttes éves ke
 
 b) az egyéni támogatás éves keretösszegét,
 
-c) a 33. § szerinti egyéni foglalkoztatási megállapodással érintett megváltozott munkaképességű munkavállalók számát, az év során a tartós, illetve a tranzit foglalkoztatásba belépő új munkavállalók tervezett számát,
+c)[^50] a 33. § szerinti egyéni foglalkoztatási megállapodással érintett megváltozott munkaképességű munkavállalók számát tartós, illetve tranzit foglalkoztatás szerinti bontásban, valamint az év során a tartós, illetve a tranzit foglalkoztatásba belépő új munkavállalók tervezett számát,
 
 d) a támogatás folyósításának, felhasználásának, elszámolásának, a felhasználás ellenőrzésének szabályait,
 
-e) a munkáltató kötelezettségvállalását a (4)–(7) bekezdésben meghatározott feltételek teljesülése esetén az e rendelkezésekben előírt kötelezettségek teljesítésére.
+e) a munkáltató kötelezettségvállalását a (4)–(7) bekezdésben meghatározott feltételek teljesülése esetén az e rendelkezésekben előírt kötelezettségek teljesítésére,
+
+f)[^51] azokat a munkaköröket, amelyekre a munkáltató munkaidő-keretet kíván megállapítani.
 
 (3) Az éves támogatási szerződés megszűnésére, felmondására – a (4)–(7) bekezdésben foglaltak figyelembevételével – a keretszerződésre megállapított szabályokat alkalmazni kell.
 
@@ -31,3 +33,6 @@ b) olyan, legalább 250 fő megváltozott munkaképességű személyt foglalkozt
 (6) Ha a munkáltatónál ügydöntő felügyelőbizottság, illetve felügyelőbizottság már működik, a miniszter a (4) és (5) bekezdés szerinti esetben – legalább 30 napos határidő tűzése mellett – e felügyelőbizottság olyan átalakítását kezdeményezheti a munkáltatónál, amelynek eredményeként a felügyelőbizottság hatásköre, összetétele és működése a (4), illetve (5) bekezdésben foglaltaknak megfelel.
 
 (7) Ha a munkáltató a miniszter által megállapított határidőben nem gondoskodik arról, hogy a (4)–(6) bekezdésnek megfelelő változásokat a cégbíróság bejegyezze a cégjegyzékbe, a Hivatal a miniszter által meghatározott határidő lejártát követő hónap 1. napjával az éves támogatási szerződést felmondja.
+
+[^50]: A 32. § (2) bekezdés c) pontja a 335/2013. (IX. 20.) Korm. rendelet 27. § j) pontja szerint módosított szöveg.
+[^51]: A 32. § (2) bekezdés f) pontját a 335/2013. (IX. 20.) Korm. rendelet 18. §-a iktatta be.

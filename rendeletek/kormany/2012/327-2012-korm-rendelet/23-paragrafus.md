@@ -1,11 +1,9 @@
-## 17. Az egyéni támogatás általános szabályai
+## 17.[^38]
 
-23. § (1) Az egy munkavállaló után elszámolható bérköltséghez, valamint többletköltséghez nyújtható támogatást együttesen kell megállapítani (a továbbiakban: egyéni támogatás).
+23. § (1)–(3)[^39]
 
-(2) Az egyéni támogatás éves keretösszegét valamennyi munkáltatóra egységesen, a tranzit és a tartós foglalkoztatásra külön-külön kell meghatározni.
+(4)[^40]
 
-(3) Az egyéni támogatás éves keretösszege a 31. § szerint kerül meghatározásra.
-
-(4)[^3]
-
-[^3]: A 23. § (4) bekezdése a 43. § (5) bekezdése alapján 2014. január 1-jén lép hatályba azzal, hogy a támogatás 2014. január 1-jét megelőző időtartamát a 23. § (4) bekezdés a)–c) pontjának alkalmazása során figyelmen kívül kell hagyni.
+[^38]: A 17. alcímet (23–25. §) – a 23. § (4) bekezdése kivételével – a 335/2013. (IX. 20.) Korm. rendelet 28. § i) pontja hatályon kívül helyezte.
+[^39]: A 17. alcímet (23–25. §) – a 23. § (4) bekezdése kivételével – a 335/2013. (IX. 20.) Korm. rendelet 28. § i) pontja hatályon kívül helyezte.
+[^40]: A 23. § (4) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 17. §-a alapján nem lép hatályba.

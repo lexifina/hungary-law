@@ -1,5 +1,0 @@
-50. § (1) Rehabilitációs akkreditációs tanúsítvány iránti kérelem az e rendelet kihirdetését követő 31. naptól nyújtható be. A kérelemhez mellékelni kell az 5. § (3) bekezdés h) pontjában meghatározott igazolást. A kérelemhez – az 5. § (3) bekezdésében, illetve a 49. § (2) bekezdésében foglaltaktól eltérően – csak abban az esetben kell csatolni a 48. § szerinti pályázati eljárásban már benyújtott dokumentumot, ha abban a benyújtást követően változás történt.
-
-(2) A 4. § (5) bekezdésében foglaltaktól eltérően – a 48. § szerinti pályázaton részt vevő munkáltatók esetében – a rehabilitációs akkreditációs tanúsítvány kiadásának, valamint a korábban nem akkreditált telephely megjelölése iránti kérelem elbírálásának határideje 30 nap.
-
-(3) A (2) bekezdés alapján benyújtott rehabilitációs akkreditációs tanúsítvány iránti kérelem elutasítása vagy a kérelemmel kapcsolatos eljárás megszüntetése esetén a munkáltatóval nem köthető keretszerződés, illetve a Hivatal a megkötött keretszerződéstől – a kérelem elutasításáról, illetve az eljárás megszüntetéséről szóló döntés jogerőre emelkedésével egyidejűleg – eláll.

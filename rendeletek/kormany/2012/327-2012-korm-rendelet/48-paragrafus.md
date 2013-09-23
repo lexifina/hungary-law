@@ -1,15 +1,27 @@
 ## 47. § A 18. § (2) bekezdésében foglaltakat első alkalommal a 2013. évi fejezeti kezelésű előirányzat tekintetében kell alkalmazni.
 
-48. § (1) 2012-ben
+48. §[^61] (1) A szociális foglalkoztatás engedélyezéséről és a szociális foglalkoztatási támogatásról szóló 112/2006. (V. 12.) Korm. rendelet, továbbá a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosításáról szóló 335/2013. (IX. 20.) Korm. rendelet (a továbbiakban: Mr1.) hatálybalépésekor[^62] nem munkaviszony vagy megbízási jogviszony, hanem egyéb foglalkoztatásra irányuló jogviszony keretében foglalkoztatott rehabilitációs tanácsadót 2013. október 1-jétől csak munkaviszony vagy megbízási jogviszony keretében lehet foglalkoztatni.
 
-a) a 26. § (1) bekezdésében foglaltaktól eltérően a pályázatot e rendelet hatálybalépését követő 10 munkanapon belül közzé kell tenni,
+(2) Az Mr1. hatálybalépéséig[^63] terjedő időszak tekintetében az Mr1. hatálybalépését megelőző napon hatályos
 
-b) a 26. § (7) bekezdésében foglaltaktól eltérően a Hivatal a pályázót egy alkalommal, 3 munkanapos határidővel hívja fel hiánypótlásra,
+a) 17. § (3) bekezdés a) és c) pontját, valamint
 
-c) a 27. § (1) bekezdésében foglaltaktól eltérően a Hivatal a pályázatokat a benyújtási határidőt követő 5 munkanapon belül küldi meg a bizottság részére,
+b) 29. § (5) bekezdés b) pontját
 
-d) a 27. § (6) bekezdésében foglaltaktól eltérően a miniszter a bizottság javaslatának beérkezését követő 2 munkanapon belül dönt a nyertes pályázókról.
+## nem kell alkalmazni.
 
-(2) A 26. § (3) bekezdésében foglaltaktól eltérően 2012-ben a pályázaton való részvételnek nem feltétele, hogy a munkáltató rendelkezzen az e rendelet szerinti akkreditációs tanúsítvánnyal, azonban a munkáltatóval kizárólag abban az esetben köthető éves támogatási szerződés, ha érvényes rehabilitációs akkreditációs tanúsítvánnyal rendelkezik.
+(3) Az Mr1. által megállapított
 
-(3) 2012-ben a pályázathoz mellékelni kell az 5. § (3) bekezdés a)–g) és i)–m) pontjában meghatározott dokumentumokat. Amennyiben a pályázó a 49. § (1) bekezdésében meghatározott munkáltató, a pályázathoz a 49. § (2) bekezdésében meghatározott dokumentumokat kell csatolni, az 5. § (3) bekezdés h) pontjában meghatározott igazolás kivételével.
+a) 20. § (2) bekezdés b) pontját 2014. január 1-jétől,
+
+b) 32. § (2) bekezdés f) pontját első alkalommal a 2014. évre vonatkozó éves támogatási szerződések megkötésekor
+
+## kell alkalmazni.
+
+(4) Az Mr1. által megállapított 20/B. § (4) és (5) bekezdését 2014. január 1-jétől kell alkalmazni.
+
+(5) A 29. § (1) bekezdésében foglaltaktól eltérően a 2014. évre kiírt pályázaton nyertes munkáltatóval a Hivatal 1 évre köt keretszerződést.
+
+[^61]: A 48. § a 335/2013. (IX. 20.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^62]: A hatálybalépés időpontja 2013. szeptember 23.
+[^63]: A hatálybalépés időpontja 2013. szeptember 23.

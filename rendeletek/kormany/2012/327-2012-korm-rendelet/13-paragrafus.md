@@ -10,7 +10,7 @@ b) felméri, valamint elősegíti a megváltozott munkaképességű munkavállal
 
 c) tájékoztatást nyújt a megváltozott munkaképességgel összefüggő szociális, munkaügyi, egészségügyi, oktatási rendszerrel és jogszabályi előírásokkal kapcsolatban,
 
-d) a munkavállaló egészségi állapota és képességei alapján megválasztja a szükséges egyéni vagy csoportos terápiát, részt vesz a végrehajtásában,
+d)[^17]
 
 e) megválasztja a megfelelő oktatási módszereket,
 
@@ -22,20 +22,26 @@ h) közvetítő szerepet tölt be a munkáltató és a rehabilitációs szakigaz
 
 i) a tranzit foglalkoztatást követően legalább 6 hónapig szükség szerint segítséget nyújt a megváltozott munkaképességű munkavállaló nyílt munkaerő-piacon történő sikeres elhelyezkedése érdekében.
 
-(3) A rehabilitációs foglakoztatás keretében a munkáltató köteles
+(3)[^18] A rehabilitációs foglalkoztatás keretében a munkáltató köteles
 
-a) 1–100 fő megváltozott munkaképességű munkavállaló esetén legalább napi 4 órában legalább 1 fő,
+a) legfeljebb 20 fő megváltozott munkaképességű munkavállaló esetén legalább napi 2 órában legalább 1 fő,
 
-b) 101–250 fő megváltozott munkaképességű munkavállaló esetén teljes munkaidőben legalább 1 fő,
+b) 21–100 fő megváltozott munkaképességű munkavállaló esetén legalább napi 4 órában legalább 1 fő,
 
-c) 251–1000 fő megváltozott munkaképességű munkavállaló esetén teljes munkaidőben legalább 2 fő,
+c) 101–250 fő megváltozott munkaképességű munkavállaló esetén teljes munkaidőben legalább 1 fő,
 
-d) 1000 fő feletti megváltozott munkaképességű munkavállaló esetén teljes munkaidőben legalább 3 fő
+d) 251–1000 fő megváltozott munkaképességű munkavállaló esetén teljes munkaidőben legalább 2 fő,
+
+e) 1000 fő feletti megváltozott munkaképességű munkavállaló esetén teljes munkaidőben legalább 3 fő
 
 ## rehabilitációs mentort munkaviszonyban foglalkoztatni.
 
 (4) Rehabilitációs mentorként – az (5) bekezdésben foglaltak kivételével – az 1. melléklet szerinti képesítéssel és gyakorlattal rendelkező személy foglalkoztatható.
 
-(5) Ha a munkáltató legfeljebb 20 fő megváltozott munkaképességű személyt foglalkoztat, a rehabilitációs mentor és a rehabilitációs tanácsadó feladatait – teljes munkaidőben – egyazon személy elláthatja, amennyiben rendelkezik az 1. mellékletben a rehabilitációs tanácsadóra meghatározott képesítéssel és szakmai gyakorlattal.
+(5)[^19] Ha a munkáltató legfeljebb 20 fő megváltozott munkaképességű személyt foglalkoztat, a rehabilitációs mentor és a rehabilitációs tanácsadó feladatait egyazon személy elláthatja, amennyiben rendelkezik az 1. mellékletben a rehabilitációs tanácsadóra meghatározott képesítéssel és szakmai gyakorlattal.
 
 (6) A munkáltató vezető tisztségviselője nem tölthet be rehabilitációs tanácsadói és/vagy rehabilitációs mentori tisztséget.
+
+[^17]: A 13. § (2) bekezdés d) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^18]: A 13. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^19]: A 13. § (5) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés f) pontja szerint módosított szöveg.
