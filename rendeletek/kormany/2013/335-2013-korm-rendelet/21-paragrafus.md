@@ -1,0 +1,3 @@
+## 20. § Az Mmtr. 35. § (3) bekezdése a következő szöveggel lép hatályba:
+
+## „(3) Ha a munkavállaló tekintetében megállapított támogatási időszak lejárta előtt – a rehabilitációs szakigazgatási szerv egyetértése nélkül – a munkaviszonyt megszüntetik, a megürült álláshelyet betöltő munkavállaló esetében a 20/B. § (4) bekezdésének az alkalmazása során – az előző munkavállaló kihelyezéséig, de legfeljebb az előző munkavállaló esetében megállapított támogatási időszak végéig – úgy kell eljárni, mint ha az új munkavállaló az előző munkavállaló támogatási időtartamát folytatná; ezt követően a munkavállalóra az általános szabályokat kell alkalmazni.”
