@@ -58,15 +58,15 @@ dr. Gaudi-Nagy Tamás (Jobbik)
 
 dr. Staudt Gábor (Jobbik)[^13]
 
-dr. Schiffer András (független)[^14]
+dr. Schiffer András (LMP)[^14]
 
-b) Egészségügyi bizottság (21 fő)
+b)[^15] Egészségügyi bizottság (24 fő)
 
-Elnök: dr. Kovács József (Fidesz)[^15]
+Elnök: dr. Kovács József (Fidesz)[^16]
 
 Alelnök:
 
-Jánosiné dr. Bene Ildikó (Fidesz)[^16]
+Jánosiné dr. Bene Ildikó (Fidesz)[^17]
 
 dr. Gyenes Géza (Jobbik)
 
@@ -82,15 +82,19 @@ dr. Iván László (Fidesz)
 
 dr. Kupper András (Fidesz)
 
-dr. Szalay Péter (Fidesz)[^17]
+dr. Szalay Péter (Fidesz)[^18]
 
-Bábiné Szottfried Gabriellát (Fidesz)[^18]
+Bábiné Szottfried Gabriellát (Fidesz)[^19]
 
-dr. Daher Pierre (Fidesz)[^19]
+dr. Daher Pierre (Fidesz)[^20]
 
 dr. Szabó Tamás (Fidesz)
 
 dr. Zombor Gábor (Fidesz)
+
+Horváth Zoltán (Fidesz)[^21]
+
+Kucsák László (Fidesz)[^22]
 
 dr. Nagy Kálmán (KDNP)
 
@@ -98,17 +102,19 @@ dr. Puskás Tivadar (KDNP)
 
 dr. Garai István Levente (MSZP)
 
-Tukacs István (MSZP)[^20]
+Tukacs István (MSZP)[^23]
 
-Baracskai József (független)[^21]
+Baracskai József (független)[^24]
 
 Hegedűs Tamás (Jobbik)
 
 dr. Kiss Sándor (Jobbik)
 
-Szilágyi László (független)[^22]
+Szilágyi László (független)[^25]
 
-c) Emberi jogi, kisebbségi, civil- és vallásügyi bizottság (21 fő)
+Vágó Gábor (LMP)[^26]
+
+c)[^27] Emberi jogi, kisebbségi, civil- és vallásügyi bizottság (24 fő)
 
 Elnök: dr. Lukács Tamás (KDNP)
 
@@ -118,7 +124,7 @@ dr. Gulyás Gergely (Fidesz)
 
 Tagok:
 
-Kőszegi Zoltán (Fidesz)[^23]
+Kőszegi Zoltán (Fidesz)[^28]
 
 Berényi László (Fidesz)
 
@@ -132,17 +138,21 @@ Farkas Flórián (Fidesz)
 
 Gajda Róbert (Fidesz)
 
-Rónaszékiné Keresztes Monika (Fidesz)[^24]
+Rónaszékiné Keresztes Monika (Fidesz)[^29]
 
 Kubatov Gábor (Fidesz)
 
 Wittner Mária (Fidesz)
 
+Borbély Lénárd (Fidesz)[^30]
+
 Harrach Péter (KDNP)
 
 Varga László (KDNP)
 
-Varju László (független)[^25]
+dr. Lanczendorfer Erzsébet (KDNP)[^31]
+
+Varju László (független)[^32]
 
 Lendvai Ildikó (MSZP)
 
@@ -152,9 +162,11 @@ dr. Gaudi-Nagy Tamás (Jobbik)
 
 Kulcsár Gergely (Jobbik)
 
-Zagyva György Gyula (Jobbik)[^26]
+Zagyva György Gyula (Jobbik)[^33]
 
-Szabó Timea (független)[^27]
+Szabó Timea (független)[^34]
+
+dr. Schiffer András (LMP)[^35]
 
 d) Európai ügyek bizottsága (21 fő)
 
@@ -182,17 +194,17 @@ dr. Mengyi Roland (Fidesz)
 
 Nógrádi Zoltán (Fidesz)
 
-dr. Szalay Péter (Fidesz)[^28]
+dr. Szalay Péter (Fidesz)[^36]
 
 Tessely Zoltán (Fidesz)
 
 Ughy Attila (Fidesz)
 
-Sáringer-Kenyeres Tamás (KDNP)[^29]
+Sáringer-Kenyeres Tamás (KDNP)[^37]
 
-dr. Szanyi Tibor (MSZP)[^30]
+dr. Szanyi Tibor (MSZP)[^38]
 
-dr. Molnár Csaba (független)[^31]
+dr. Molnár Csaba (független)[^39]
 
 Káli Sándor (MSZP)
 
@@ -200,21 +212,21 @@ Balczó Zoltán (Jobbik)
 
 Bana Tibor (Jobbik)
 
-Murányi Levente (Jobbik)[^32]
+Murányi Levente (Jobbik)[^40]
 
-Mile Lajos (független)[^33]
+Mile Lajos (LMP)[^41]
 
-e) Fenntartható fejlődés bizottsága (18 fő)
+e)[^42] Fenntartható fejlődés bizottsága (21 fő)
 
-Elnök: dr. Szili Katalin (független)[^34]
+Elnök: dr. Szili Katalin (független)[^43]
 
 Alelnök:
 
 dr. Turi-Kovács Béla (Fidesz)
 
-dr. Nagy Andor (KDNP)
+Szabó Imre (MSZP)[^44]
 
-Szabó Imre (MSZP)[^35]
+dr. Szél Bernadett (LMP)[^45]
 
 Tagok:
 
@@ -224,11 +236,11 @@ Bányai Gábor (Fidesz)
 
 Bartos Mónika (Fidesz)
 
-Cseresnyés Péter (Fidesz)[^36]
+Cseresnyés Péter (Fidesz)[^46]
 
-Vincze László (Fidesz)[^37]
+Vincze László (Fidesz)[^47]
 
-Kővári János (Fidesz)[^38]
+Kővári János (Fidesz)[^48]
 
 Koncz Ferenc (Fidesz)
 
@@ -236,19 +248,25 @@ Schmidt Csaba (Fidesz)
 
 Sebestyén László (Fidesz)
 
+Bencsik János (Fidesz)[^49]
+
+dr. Horváth Zsolt (Veszprém) (Fidesz)[^50]
+
+Kapus Krisztián (Fidesz)[^51]
+
 dr. Aradszki András (KDNP)
 
-dr. Oláh Lajos (független)[^39]
+dr. Oláh Lajos (független)[^52]
 
-Rozgonyi Ernő (független)[^40]
+Rozgonyi Ernő (független)[^53]
 
 Kepli Lajos (Jobbik)
 
-Jávor Benedek (független)[^41]
+Jávor Benedek (független)[^54]
 
 f) Foglalkoztatási és munkaügyi bizottság (18 fő)
 
-Elnök: Gúr Nándor (MSZP)[^42]
+Elnök: Gúr Nándor (MSZP)[^55]
 
 Alelnök:
 
@@ -260,7 +278,7 @@ Tagok:
 
 dr. Czira Szabolcs (Fidesz)
 
-Patay Vilmos (Fidesz)[^43]
+Patay Vilmos (Fidesz)[^56]
 
 Kontur Pál (Fidesz)
 
@@ -286,11 +304,11 @@ Bertha Szilvia (Jobbik)
 
 Egyed Zsolt (Jobbik)
 
-dr. Szél Bernadett (független)[^44]
+dr. Szél Bernadett (LMP)[^57]
 
-g) Fogyasztóvédelmi bizottság (18 fő)
+g)[^58] Fogyasztóvédelmi bizottság (21 fő)
 
-Elnök: Simon Gábor (MSZP)[^45]
+Elnök: Simon Gábor (MSZP)[^59]
 
 Alelnök:
 
@@ -300,13 +318,13 @@ Zsigó Róbert (Fidesz)
 
 Tagok:
 
-dr. Horváth Zsolt (Fidesz)[^46]
+dr. Horváth Zsolt (Fidesz)[^60]
 
 Boldog István (Fidesz)
 
-Sági István (Fidesz)[^47]
+Sági István (Fidesz)[^61]
 
-László Tamás (Fidesz)[^48]
+László Tamás (Fidesz)[^62]
 
 Mágori Józsefné (Fidesz)
 
@@ -316,49 +334,55 @@ Simonka György (Fidesz)
 
 Varga Gábor (Fidesz)
 
-Földesi Gyula (Fidesz)[^49]
+Földesi Gyula (Fidesz)[^63]
+
+Kontur Pál (Fidesz)[^64]
+
+Németh Szilárd István (Fidesz)[^65]
 
 Spaller Endre (KDNP)
 
-Tóth Csaba (MSZP)[^50]
+Tóth Csaba (MSZP)[^66]
 
-Tóbiás József (MSZP)[^51]
+Tóbiás József (MSZP)[^67]
 
-Balla Gergő (Jobbik)[^52]
+Balla Gergő (Jobbik)[^68]
 
-Korondi Miklós (Jobbik)[^53]
+Korondi Miklós (Jobbik)[^69]
 
-Szilágyi György (Jobbik)[^54]
+Szilágyi György (Jobbik)[^70]
 
-h) Gazdasági és informatikai bizottság (27 fő)
+Ertsey Katalin (LMP)[^71]
+
+h)[^72] Gazdasági és informatikai bizottság (30 fő)
 
 Elnök: Rogán Antal (Fidesz)
 
 Alelnök:
 
-Koszorús László (Fidesz)[^55]
+Koszorús László (Fidesz)[^73]
 
-Volner János (Jobbik)[^56]
+Volner János (Jobbik)[^74]
 
-Kovács Tibor (MSZP)[^57]
+Kovács Tibor (MSZP)[^75]
 
 Tagok:
 
-dr. György István (Fidesz)[^58]
+dr. György István (Fidesz)[^76]
 
 Dióssi Csaba (Fidesz)
 
-Bencsik János (Fidesz)[^59]
+Bencsik János (Fidesz)[^77]
 
 Kupcsok Lajos (Fidesz)
 
-dr. Selmeczi Gabriella (Fidesz)[^60]
+dr. Selmeczi Gabriella (Fidesz)[^78]
 
 Manninger Jenő (Fidesz)
 
 Márton Attila (Fidesz)
 
-dr. Mengyi Roland (Fidesz)[^61]
+dr. Mengyi Roland (Fidesz)[^79]
 
 Riz Gábor (Fidesz)
 
@@ -366,33 +390,39 @@ Riz Levente (Fidesz)
 
 Román István (Fidesz)
 
-Herman István Ervin (Fidesz)[^62]
+Herman István Ervin (Fidesz)[^80]
 
 Vantara Gyula (Fidesz)
 
 Wintermantel Zsolt (Fidesz)
 
-dr. Aradszki András (KDNP)[^63]
+dr. Nyitrai Zsolt (Fidesz)[^81]
+
+Szemereyné Pataki Klaudia (Fidesz)[^82]
+
+dr. Aradszki András (KDNP)[^83]
 
 dr. Seszták Miklós (KDNP)
 
-Burány Sándor (MSZP)[^64]
+Burány Sándor (MSZP)[^84]
 
-Tukacs István (MSZP)[^65]
+Tukacs István (MSZP)[^85]
 
 dr. Baja Ferenc (MSZP)
 
-Hegedűs Tamás (Jobbik)[^66]
+Hegedűs Tamás (Jobbik)[^86]
 
 Schön Péter (Jobbik)
 
-dr. Lenhardt Balázs (független)[^67]
+dr. Lenhardt Balázs (független)[^87]
 
-Scheiring Gábor (független)[^68]
+Scheiring Gábor (független)[^88]
 
-i) Honvédelmi és rendészeti bizottság (21 fő)
+Vágó Gábor (LMP)[^89]
 
-Elnök: dr. Kocsis Máté (Fidesz)[^69]
+i)[^90] Honvédelmi és rendészeti bizottság (24 fő)
+
+Elnök: dr. Kocsis Máté (Fidesz)[^91]
 
 Alelnök:
 
@@ -400,43 +430,45 @@ Csampa Zsolt (Fidesz)
 
 Básthy Tamás (KDNP)
 
-Iváncsik Imre (MSZP)[^70]
+Iváncsik Imre (MSZP)[^92]
 
 Tagok:
 
-Ágh Péter (Fidesz)[^71]
+Ágh Péter (Fidesz)[^93]
 
-Bíró Márk (Fidesz)[^72]
+Bíró Márk (Fidesz)[^94]
 
 dr. Simon Miklós (Fidesz)
 
 Tóth Gábor (Fidesz)
 
-Borbély Lénárd (Fidesz)[^73]
+Borbély Lénárd (Fidesz)[^95]
 
-dr. Vas Imre (Fidesz)[^74]
+dr. Vas Imre (Fidesz)[^96]
 
-Farkas Zoltán (Fidesz)[^75]
+Farkas Zoltán (Fidesz)[^97]
 
-Kulcsár József Ferenc (Fidesz)[^76]
+Kulcsár József Ferenc (Fidesz)[^98]
 
-Menczer Erzsébet (Fidesz)[^77]
+Menczer Erzsébet (Fidesz)[^99]
 
-Tamás Barnabás (Fidesz)[^78]
+Tamás Barnabás (Fidesz)[^100]
 
-Földi László (KDNP)[^79]
+Földi László (KDNP)[^101]
 
-Juhász Ferenc (MSZP)[^80]
+Juhász Ferenc (MSZP)[^102]
 
-dr. Harangozó Tamás (MSZP)[^81]
+dr. Harangozó Tamás (MSZP)[^103]
 
-dr. Dorosz Dávid (független)[^82]
+dr. Dorosz Dávid (független)[^104]
 
-Mirkóczki Ádám (Jobbik)[^83]
+Mirkóczki Ádám (Jobbik)[^105]
 
-Rubi Gergely (Jobbik)[^84]
+Rubi Gergely (Jobbik)[^106]
 
-Jámbor Nándor (Jobbik)[^85]
+Jámbor Nándor (Jobbik)[^107]
+
+Mile Lajos (LMP)[^108]
 
 j) Ifjúsági, szociális, családügyi és lakhatási bizottság (24 fő)
 
@@ -452,7 +484,7 @@ Tagok:
 
 Bábiné Szottfried Gabriella (Fidesz)
 
-Tamás Barnabás (Fidesz)[^86]
+Tamás Barnabás (Fidesz)[^109]
 
 Csizi Péter (Fidesz)
 
@@ -460,29 +492,29 @@ Hirt Ferenc (Fidesz)
 
 dr. Iván László (Fidesz)
 
-Szemereyné Pataki Klaudia (Fidesz)[^87]
+Szemereyné Pataki Klaudia (Fidesz)[^110]
 
 Kapus Krisztián (Fidesz)
 
-Horváth Zoltán (Fidesz)[^88]
+Gyopáros Alpár (Fidesz)[^111]
 
 Rónaszékiné Keresztes Monika (Fidesz)
 
-Gaal Gergely (KDNP)[^89]
+Gaal Gergely (KDNP)[^112]
 
-Vincze László (Fidesz)[^90]
+Vincze László (Fidesz)[^113]
 
 dr. Tapolczai Gergely (Fidesz)
 
 dr. Lanczendorfer Erzsébet (KDNP)
 
-dr. Bagdy Gábor (KDNP)[^91]
+dr. Bagdy Gábor (KDNP)[^114]
 
-Boldvai László (MSZP)[^92]
+Boldvai László (MSZP)[^115]
 
-Pál Béla (MSZP)[^93]
+Pál Béla (MSZP)[^116]
 
-Szűcs Erika (független)[^94]
+Szűcs Erika (független)[^117]
 
 dr. Varga László (MSZP)
 
@@ -490,11 +522,11 @@ Baráth Zsolt (Jobbik)
 
 Vágó Sebestyén (Jobbik)
 
-Lengyel Szilvia (független)[^95]
+dr. Szél Bernadett (LMP)[^118]
 
-k) Kulturális és sajtóbizottság (18 fő)
+k)[^119] Kulturális és sajtóbizottság (21 fő)
 
-Elnök: L. Simon László (Fidesz)[^96]
+Elnök: L. Simon László (Fidesz)[^120]
 
 Alelnök:
 
@@ -516,9 +548,13 @@ Menczer Erzsébet (Fidesz)
 
 Németh Zoltán (Fidesz)
 
-dr. Kupper András (Fidesz)[^97]
+dr. Kupper András (Fidesz)[^121]
 
 Szabó Csaba (Fidesz)
+
+Nagy Csaba (Fidesz)[^122]
+
+Talabér Márta (Fidesz)[^123]
 
 Karvalics Ottó (KDNP)
 
@@ -526,15 +562,17 @@ dr. Hiller István (MSZP)
 
 Mandur László (MSZP)
 
-dr. Vitányi Iván (független)[^98]
+dr. Vitányi Iván (független)[^124]
 
 Novák Előd (Jobbik)
 
 Pörzse Sándor (Jobbik)
 
-Karácsony Gergely (független)[^99]
+Karácsony Gergely (független)[^125]
 
-l)[^100] Külügyi bizottság (21 fő)
+Osztolykán Ágnes (LMP)[^126]
+
+l)[^127] Külügyi bizottság (21 fő)
 
 Elnök: Balla Mihály (Fidesz)
 
@@ -544,11 +582,13 @@ dr. Nagy Gábor Tamás (Fidesz)
 
 Gyöngyösi Márton (Jobbik)
 
-Kovács László (MSZP)[^101]
+Kovács László (MSZP)[^128]
+
+Ertsey Katalin (LMP)[^129]
 
 Tagok:
 
-Csóti György (Fidesz)[^102]
+Csóti György (Fidesz)[^130]
 
 Csenger-Zalán Zsolt (Fidesz)
 
@@ -556,17 +596,17 @@ dr. Gruber Attila (Fidesz)
 
 dr. Horváth János (Fidesz)
 
-dr. Daher Pierre (Fidesz)[^103]
+Hidvéghi Balázs (Fidesz)[^131]
 
 Mihalovics Péter (Fidesz)
 
 Pintér László (Fidesz)
 
-dr. Nagy Andor (KDNP)[^104]
+Pálffy István (KDNP)[^132]
 
 dr. Tilki Attila (Fidesz)
 
-Törő Gábor (Fidesz)[^105]
+Törő Gábor (Fidesz)[^133]
 
 Kalmár Ferenc András (KDNP)
 
@@ -576,13 +616,11 @@ Harangozó Gábor István (MSZP)
 
 Szabó Vilmos (MSZP)
 
-Németh Zsolt (Jobbik)[^106]
+Németh Zsolt (Jobbik)[^134]
 
-Vona Gábor (Jobbik)[^107]
+Vona Gábor (Jobbik)[^135]
 
-Ertsey Katalin (független)[^108]
-
-m)[^109] Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság (6 fő)
+m)[^136] Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság (8 fő)
 
 Elnök: dr. Rubovszky György (KDNP)
 
@@ -596,11 +634,15 @@ Németh Szilárd István (Fidesz)
 
 dr. Varga István (Fidesz)
 
+dr. Vitányi István (Fidesz)[^137]
+
 Göndör István (MSZP)
 
 Szabó Gábor (Jobbik)
 
-n)[^110] Mezőgazdasági bizottság (22 fő)
+dr. Schiffer András (LMP)[^138]
+
+n)[^139] Mezőgazdasági bizottság (25 fő)
 
 Elnök: Font Sándor (Fidesz)
 
@@ -608,13 +650,13 @@ Alelnök:
 
 Horváth István (Fidesz)
 
-Gőgös Zoltán (MSZP)[^111]
+Gőgös Zoltán (MSZP)[^140]
 
 Tagok:
 
-Örvendi László (Fidesz)[^112]
+Örvendi László (Fidesz)[^141]
 
-Balogh József (független)[^113]
+Balogh József (független)[^142]
 
 Farkas Sándor (Fidesz)
 
@@ -626,7 +668,7 @@ Jakab István (Fidesz)
 
 Obreczán Ferenc (Fidesz)
 
-dr. Tóth József (Fidesz)[^114]
+dr. Tóth József (Fidesz)[^143]
 
 Patay Vilmos (Fidesz)
 
@@ -634,59 +676,67 @@ Pócs János (Fidesz)
 
 Tiffán Zsolt (Fidesz)
 
-dr. Ángyán József (Fidesz)[^115]
+dr. Ángyán József (Fidesz)[^144]
+
+Mágori Józsefné (Fidesz)[^145]
+
+dr. Nagy István (Fidesz)[^146]
 
 Sáringer-Kenyeres Tamás (KDNP)
 
-Ficsor Ádám (független)[^116]
+Ficsor Ádám (független)[^147]
 
-Harangozó Gábor (MSZP)[^117]
+Harangozó Gábor (MSZP)[^148]
 
 Magyar Zoltán (Jobbik)
 
 Varga Géza (Jobbik)
 
-Suhajda Krisztián (Jobbik)[^118]
+Suhajda Krisztián (Jobbik)[^149]
 
-dr. Józsa István (MSZP)[^119]
+dr. Józsa István (MSZP)[^150]
 
-o)[^120] Nemzetbiztonsági bizottság (12 fő)
+Lengyel Szilvia (LMP)[^151]
 
-Elnök: dr. Molnár Zsolt (MSZP)[^121]
+o)[^152] Nemzetbiztonsági bizottság (12 fő)
+
+Elnök: dr. Molnár Zsolt (MSZP)[^153]
 
 Alelnök:
 
-Németh Szilárd István (Fidesz)[^122]
+Németh Szilárd István (Fidesz)[^154]
 
 Tagok:
 
-Csenger-Zalán Zsolt (Fidesz)[^123]
+Csenger-Zalán Zsolt (Fidesz)[^155]
 
 Lezsák Sándor (Fidesz)
 
-dr. Kocsis Máté (Fidesz)[^124]
+dr. Kocsis Máté (Fidesz)[^156]
 
-Meggyes Tamás (Fidesz)[^125]
+Meggyes Tamás (Fidesz)[^157]
 
-Csampa Zsolt (Fidesz)[^126]
+Csampa Zsolt (Fidesz)[^158]
 
-Móring József Attila (KDNP)[^127]
+Móring József Attila (KDNP)[^159]
 
-dr. Molnár Zsolt (MSZP)[^128]
+dr. Molnár Zsolt (MSZP)[^160]
 
-Mirkóczki Ádám (Jobbik)[^129]
+Mirkóczki Ádám (Jobbik)[^161]
 
-Mile Lajos (független)[^130]
+Mile Lajos (LMP)[^162]
 
-dr. Tóth József (Fidesz)[^131]
+dr. Tóth József (Fidesz)[^163]
 
-oa)[^132] Nemzeti összetartozás bizottsága (12 fő)
+oa)[^164] Nemzeti összetartozás bizottsága (15 fő)
 
 Elnök: Potápi Árpád János (Fidesz)
 
 Alelnök:
 
 dr. Kovács Ferenc (Fidesz)
+
+Hidvéghi Balázs (Fidesz)[^165]
 
 Tagok:
 
@@ -696,19 +746,23 @@ dr. Hoppál Péter (Fidesz)
 
 Kőszegi Zoltán (Fidesz)
 
-Csóti György (Fidesz)[^133]
+Csóti György (Fidesz)[^166]
 
 Kalmár Ferenc András (KDNP)
 
-Gaal Gergely (KDNP)[^134]
+Gaal Gergely (KDNP)[^167]
 
-Szabó Vilmos (MSZP)[^135]
+Varga László (KDNP)[^168]
+
+Szabó Vilmos (MSZP)[^169]
 
 Szávay István (Jobbik)
 
-Szabó Rebeka (független)[^136]
+Szabó Rebeka (független)[^170]
 
-dr. Szili Katalin (független)[^137]
+dr. Szili Katalin (független)[^171]
+
+Mile Lajos (LMP)[^172]
 
 p) Oktatási, tudományos és kutatási bizottság (21 fő)
 
@@ -718,7 +772,7 @@ Alelnök:
 
 dr. Pósán László (Fidesz)
 
-Osztolykán Ágnes (független)[^138]
+Osztolykán Ágnes (LMP)[^173]
 
 Tagok:
 
@@ -734,19 +788,19 @@ Kucsák László (Fidesz)
 
 Pánczél Károly (Fidesz)
 
-Németh Zoltán (Fidesz)[^139]
+Németh Zoltán (Fidesz)[^174]
 
 Révész Máriusz (Fidesz)
 
 Sági István (Fidesz)
 
-Bodó Sándor (Fidesz)[^140]
+Bodó Sándor (Fidesz)[^175]
 
 Földi László (KDNP)
 
 Michl József (KDNP)
 
-dr. Kolber István (független)[^141]
+dr. Kolber István (független)[^176]
 
 dr. Hiller István (MSZP)
 
@@ -756,11 +810,11 @@ Dúró Dóra (Jobbik)
 
 Ferenczi Gábor (Jobbik)
 
-Farkas Gergely (Jobbik)[^142]
+Farkas Gergely (Jobbik)[^177]
 
-q) Önkormányzati és területfejlesztési bizottság (25 fő)[^143]
+q)[^178] Önkormányzati és területfejlesztési bizottság (30 fő)
 
-Elnök: dr. Láng Zsolt (Fidesz)[^144]
+Elnök: dr. Láng Zsolt (Fidesz)[^179]
 
 Alelnök:
 
@@ -780,21 +834,29 @@ Nagy Csaba (Fidesz)
 
 Pogácsás Tibor (Fidesz)
 
-Szedlák Attila (Fidesz)[^145]
+Szedlák Attila (Fidesz)[^180]
 
 Szekó József (Fidesz)
 
-Gajda Róbert (Fidesz)[^146]
+Gajda Róbert (Fidesz)[^181]
 
 Tasó László (Fidesz)
 
 dr. Tiba István (Fidesz)
 
-dr. Szűcs Lajos (Fidesz)[^147]
+dr. Szűcs Lajos (Fidesz)[^182]
 
 Vigh László (Fidesz)
 
-Dankó Béla (Fidesz)[^148]
+Dankó Béla (Fidesz)[^183]
+
+Babák Mihály (Fidesz)[^184]
+
+Kovács Péter (Fidesz)[^185]
+
+László Tamás (Fidesz)[^186]
+
+Schmidt Csaba (Fidesz)[^187]
 
 Michl József (KDNP)
 
@@ -808,21 +870,23 @@ dr. Tóth József (MSZP)
 
 Hegedűs Lorántné (Jobbik)
 
-Endrésik Zsolt (független)[^149]
+Endrésik Zsolt (független)[^188]
 
-Szilágyi Péter (független)[^150]
+Szilágyi Péter (független)[^189]
 
-Ivády Gábor (független)[^151]
+Ivády Gábor (független)[^190]
 
-r)[^152] Sport- és turizmusbizottság (18 fő)
+Lengyel Szilvia (LMP)[^191]
 
-Elnök: dr. Bohács Zsolt (Fidesz)[^153]
+r)[^192] Sport- és turizmusbizottság (21 fő)
+
+Elnök: dr. Bohács Zsolt (Fidesz)[^193]
 
 Alelnök:
 
-Lasztovicza Jenő (Fidesz)[^154]
+Lasztovicza Jenő (Fidesz)[^194]
 
-Szilágyi György (Jobbik)[^155]
+Szilágyi György (Jobbik)[^195]
 
 Tagok:
 
@@ -830,17 +894,21 @@ Becsó Zsolt (Fidesz)
 
 Hadházy Sándor (Fidesz)
 
-dr. Tapolczai Gergely (Fidesz)[^156]
+dr. Tapolczai Gergely (Fidesz)[^196]
 
 Kovács Ferenc (Fidesz)
 
 Kovács Péter (Fidesz)
 
-Horváth Zoltán (Fidesz)[^157]
+Horváth Zoltán (Fidesz)[^197]
 
-Révész Máriusz (Fidesz)[^158]
+Révész Máriusz (Fidesz)[^198]
 
-Szalay Ferenc (Fidesz)[^159]
+Szalay Ferenc (Fidesz)[^199]
+
+Dankó Béla (Fidesz)[^200]
+
+Kőszegi Zoltán (Fidesz)[^201]
 
 Bús Balázs (KDNP)
 
@@ -850,11 +918,13 @@ Horváth András Tibor (MSZP)
 
 Pál Béla (MSZP)
 
-dr. Vadai Ágnes (független)[^160]
+dr. Vadai Ágnes (független)[^202]
 
-Zakó László (Jobbik)[^161]
+Zakó László (Jobbik)[^203]
 
-dr. Varga László (MSZP)[^162]
+dr. Varga László (MSZP)[^204]
+
+Lengyel Szilvia (LMP)[^205]
 
 s) Számvevőszéki és költségvetési bizottság (27 fő)
 
@@ -862,13 +932,13 @@ Elnök: dr. Nyikos László (Jobbik)
 
 Alelnök:
 
-dr. Puskás Imre (Fidesz)[^163]
+dr. Puskás Imre (Fidesz)[^206]
 
-Seszták Oszkár (KDNP)[^164]
+Seszták Oszkár (KDNP)[^207]
 
 Tagok:
 
-dr. Nyitrai Zsolt (Fidesz)[^165]
+dr. Nyitrai Zsolt (Fidesz)[^208]
 
 Babák Mihály (Fidesz)
 
@@ -880,13 +950,13 @@ dr. Bóka István (Fidesz)
 
 dr. Dancsó József (Fidesz)
 
-dr. Pósán László (Fidesz)[^166]
+dr. Pósán László (Fidesz)[^209]
 
 Ékes József (Fidesz)
 
 Herman István Ervin (Fidesz)
 
-Font Sándor (Fidesz)[^167]
+Font Sándor (Fidesz)[^210]
 
 Magyar Anna (Fidesz)
 
@@ -894,25 +964,25 @@ Márton Attila (Fidesz)
 
 dr. Nagy István (Fidesz)
 
-dr. Vitányi István (Fidesz)[^168]
+Bodó Sándor (Fidesz)[^211]
 
 Szólláth Tibor Zoltán (Fidesz)
 
-Hoffman Pál (KDNP)[^169]
+Hoffman Pál (KDNP)[^212]
 
 Boldvai László (MSZP)
 
 dr. Szekeres Imre (MSZP)
 
-Puch László (MSZP)[^170]
+Puch László (MSZP)[^213]
 
 dr. Veres János (MSZP)
 
-Z. Kárpát Dániel (Jobbik)[^171]
+Z. Kárpát Dániel (Jobbik)[^214]
 
-Pősze Lajos (független)[^172]
+Pősze Lajos (független)[^215]
 
-Vágó Gábor (független)[^173]
+Vágó Gábor (LMP)[^216]
 
 Molnár Oszkár (független)
 
@@ -989,163 +1059,206 @@ zs) a Sláger és a Danubius rádiók frekvenciájára kiírt ORTT pályázat el
 [^11]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^12]: A 97/2010. (X. 15.) OGY határozat 1. pontjával megállapított szöveg.
 [^13]: A 106/2010. (X. 28.) OGY határozat 1. pontjával megállapított szöveg.
-[^14]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^15]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^14]: A 75/2013. (IX. 26.) OGY határozat 3. pont a) alpontjával megállapított szöveg.
+[^15]: Az 1. pont b) alpontja a 75/2013. (IX. 26.) OGY határozat 2. pont a) alpontja szerint módosított szöveg.
 [^16]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^17]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^18]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^19]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
-[^20]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
-[^21]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^22]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^23]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^24]: Az 5/2013. (II. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^25]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^26]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^27]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^28]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^29]: A 38/2013. (V. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^30]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^31]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^32]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^33]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^17]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^18]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^19]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^20]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^21]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^22]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^23]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
+[^24]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^25]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^26]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^27]: Az 1. pont c) alpontja a 75/2013. (IX. 26.) OGY határozat 2. pont b) alpontja szerint módosított szöveg.
+[^28]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^29]: Az 5/2013. (II. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^30]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^31]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^32]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^33]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^34]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^35]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^36]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^37]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^38]: Az 5/2013. (II. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^35]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^36]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^37]: A 38/2013. (V. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^38]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
 [^39]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^40]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^41]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^42]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^43]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^44]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^45]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^46]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^40]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^41]: A 75/2013. (IX. 26.) OGY határozat 3. pont b) alpontjával megállapított szöveg.
+[^42]: Az 1. pont e) alpontja a 75/2013. (IX. 26.) OGY határozat 2. pont c) alpontja szerint módosított szöveg.
+[^43]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^44]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^45]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^46]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^47]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^48]: A 26/2012. (III. 28.) OGY határozat 1. pontjával megállapított szöveg.
-[^49]: A 91/2010. (X. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^50]: A 114/2010. (XI. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^51]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^52]: A 106/2010. (X. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^48]: Az 5/2013. (II. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^49]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^50]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^51]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^52]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
 [^53]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^54]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^55]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^56]: A 60/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^57]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
-[^58]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^59]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
-[^60]: A 26/2012. (III. 28.) OGY határozat 1. pontjával megállapított szöveg.
-[^61]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^62]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^63]: A 111/2010. (XI. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^64]: A 26/2010. (V. 25.) OGY határozat 1. pontjával megállapított szöveg.
-[^65]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
-[^66]: A 60/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^67]: A 78/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^68]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^69]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^70]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^71]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
-[^72]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^73]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^74]: A 43/2013. (V. 29.) OGY határozat 1. pontjával megállapított szöveg.
-[^75]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^76]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^77]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^78]: A 36/2010. (VI. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^79]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^80]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
-[^81]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^82]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^83]: Az 59/2012. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^84]: A 79/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^85]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
-[^86]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^87]: A 40/2013. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^88]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^89]: A 46/2013. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^90]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^91]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^92]: A 114/2010. (XI. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^93]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^94]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^95]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^96]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^97]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^98]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^99]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^100]: Az 1. pont l) alpontjának címe a 131/2010. (XII. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^55]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^56]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^57]: A 75/2013. (IX. 26.) OGY határozat 3. pont c) alpontjával megállapított szöveg.
+[^58]: Az 1. pont g) alpontja a 75/2013. (IX. 26.) OGY határozat 2. pont d) alpontja szerint módosított szöveg.
+[^59]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^60]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^61]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^62]: A 26/2012. (III. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^63]: A 91/2010. (X. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^64]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^65]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^66]: A 114/2010. (XI. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^67]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^68]: A 106/2010. (X. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^69]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^70]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^71]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^72]: Az 1. pont h) alpontja a 75/2013. (IX. 26.) OGY határozat 2. pont e) alpontja szerint módosított szöveg.
+[^73]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^74]: A 60/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^75]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
+[^76]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^77]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^78]: A 26/2012. (III. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^79]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^80]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^81]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^82]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^83]: A 111/2010. (XI. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^84]: A 26/2010. (V. 25.) OGY határozat 1. pontjával megállapított szöveg.
+[^85]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
+[^86]: A 60/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^87]: A 78/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^88]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^89]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^90]: Az 1. pont i) alpontja a 75/2013. (IX. 26.) OGY határozat 2. pont f) alpontja szerint módosított szöveg.
+[^91]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^92]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^93]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
+[^94]: A 44/2010. (VI. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^95]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^96]: A 43/2013. (V. 29.) OGY határozat 1. pontjával megállapított szöveg.
+[^97]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^98]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^99]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^100]: A 36/2010. (VI. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^101]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^102]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
-[^103]: A 8/2011. (II. 2.) OGY határozat 1. pontjával megállapított szöveg.
-[^104]: A 8/2011. (II. 2.) OGY határozat 1. pontjával megállapított szöveg.
-[^105]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^106]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
-[^107]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^108]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^109]: Az 1. pont m) alpontja a 9/2013. (III. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^110]: Az 1. pont n) alpontja a 40/2013. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
-[^111]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^112]: A 40/2013. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^113]: A 40/2013. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^114]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^115]: A 9/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.
-[^116]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^117]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
-[^118]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^119]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^120]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával elrendelt – Nemzetbiztonsági bizottságra vonatkozó – módosítás nem vezethető át.
-[^121]: A 86/2011. (XI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^122]: A 64/2012. (X. 4.) OGY határozat 1. pontjával megállapított szöveg.
-[^123]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
-[^124]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^125]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^126]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^127]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^128]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
-[^129]: A 123/2010. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^130]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^131]: Az 54/2010. (VII. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^132]: Az 1. pont oa) alpontját a 131/2010. (XII. 27.) OGY határozat 1. pontja iktatta be.
-[^133]: A 9/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.
-[^134]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^135]: A 87/2011. (XI. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^136]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^137]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^138]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^139]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^140]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^141]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^142]: A 106/2010. (X. 28.) OGY határozat 1. pontjával megállapított szöveg.
-[^143]: Az 1. pont q) alpontja 110/2010. (XI. 4.) OGY határozat 3. pontja szerint módosított szöveg.
-[^144]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^145]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^146]: A 111/2010. (XI. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^147]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
-[^148]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
-[^149]: A 39/2012. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^150]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^151]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
-[^152]: Az 1. pont r) alpont címe a 48/2010. (VI. 29.) OGY határozat 1. pontjával megállapított szöveg.
-[^153]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^154]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^155]: A 38/2013. (V. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^102]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
+[^103]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^104]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^105]: Az 59/2012. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^106]: A 79/2012. (XI. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^107]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^108]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^109]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^110]: A 40/2013. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^111]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^112]: A 46/2013. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^113]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^114]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^115]: A 114/2010. (XI. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^116]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^117]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^118]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^119]: Az 1. pont k) alpontja a 75/2013. (IX. 26.) OGY határozat 2. pont g) alpontja szerint módosított szöveg.
+[^120]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^121]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^122]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^123]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^124]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^125]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^126]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^127]: Az 1. pont l) alpontjának címe a 131/2010. (XII. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^128]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^129]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^130]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^131]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^132]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^133]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^134]: A 97/2011. (XII. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^135]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^136]: Az 1. pont m) alpontja a 9/2013. (III. 5.) OGY határozat 2. pontjával megállapított, a 75/2013. (IX. 26.) OGY határozat 2. pont h) alpontja szerint módosított szöveg.
+[^137]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^138]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^139]: Az 1. pont n) alpontja a 40/2013. (V. 27.) OGY határozat 2. pontjával megállapított, a 75/2013. (IX. 26.) OGY határozat 2. pont i) alpontja szerint módosított szöveg.
+[^140]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^141]: A 40/2013. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^142]: A 40/2013. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^143]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^144]: A 9/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.
+[^145]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^146]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^147]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^148]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
+[^149]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^150]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^151]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^152]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával elrendelt – Nemzetbiztonsági bizottságra vonatkozó – módosítás nem vezethető át.
+[^153]: A 86/2011. (XI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^154]: A 64/2012. (X. 4.) OGY határozat 1. pontjával megállapított szöveg.
+[^155]: A 82/2010. (IX. 15.) OGY határozat 1. pontjával megállapított szöveg.
 [^156]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^157]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^157]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
 [^158]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^159]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^160]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
-[^161]: A 38/2013. (V. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^162]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^163]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^164]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^165]: A 26/2013. (IV. 25.) OGY határozat 1. pontjával megállapított szöveg.
-[^166]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
-[^167]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^168]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
-[^169]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
-[^170]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
-[^171]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^172]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
-[^173]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^159]: A 24/2010. (V. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^160]: A 28/2010. (VI. 2.) OGY határozat 1. pontjával megállapított szöveg.
+[^161]: A 123/2010. (XII. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^162]: A 75/2013. (IX. 26.) OGY határozat 3. pont d) alpontjával megállapított szöveg.
+[^163]: Az 54/2010. (VII. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^164]: Az 1. pont oa) alpontját a 131/2010. (XII. 27.) OGY határozat 1. pontja iktatta be, szövege a 75/2013. (IX. 26.) OGY határozat 2. pont j) alpontja szerint módosított szöveg.
+[^165]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^166]: A 9/2012. (II. 29.) OGY határozat 1. pontjával megállapított szöveg.
+[^167]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^168]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^169]: A 87/2011. (XI. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^170]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^171]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^172]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^173]: A 75/2013. (IX. 26.) OGY határozat 3. pont e) alpontjával megállapított szöveg.
+[^174]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^175]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^176]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^177]: A 106/2010. (X. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^178]: Az 1. pont q) alpontja 110/2010. (XI. 4.) OGY határozat 3. pontja, a 75/2013. (IX. 26.) OGY határozat 2. pont k) alpontja szerint módosított szöveg.
+[^179]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^180]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^181]: A 111/2010. (XI. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^182]: A 30/2010. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^183]: A 17/2011. (III. 9.) OGY határozat 1. pontjával megállapított szöveg.
+[^184]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^185]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^186]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^187]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^188]: A 39/2012. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^189]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^190]: A 110/2010. (XI. 4.) OGY határozat 1. pontjával megállapított szöveg.
+[^191]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^192]: Az 1. pont r) alpont címe a 48/2010. (VI. 29.) OGY határozat 1. pontjával megállapított, a 75/2013. (IX. 26.) OGY határozat 2. pont l) alpontja szerint módosított szöveg.
+[^193]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^194]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^195]: A 38/2013. (V. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^196]: Az 1/2011. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^197]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^198]: Az 1/2013. (II. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^199]: A 9/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^200]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^201]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^202]: A 88/2011. (XI. 17.) OGY határozat 1. pontjával megállapított szöveg.
+[^203]: A 38/2013. (V. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^204]: A 13/2013. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^205]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^206]: Az 54/2012. (VI. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^207]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^208]: A 26/2013. (IV. 25.) OGY határozat 1. pontjával megállapított szöveg.
+[^209]: Az 51/2010. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^210]: A 13/2012. (III. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^211]: A 75/2013. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^212]: A 6/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg.
+[^213]: A 89/2011. (XI. 24.) OGY határozat 1. pontjával megállapított szöveg.
+[^214]: A 95/2012. (XII. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^215]: A 127/2010. (XII. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^216]: A 75/2013. (IX. 26.) OGY határozat 3. pont f) alpontjával megállapított szöveg.
