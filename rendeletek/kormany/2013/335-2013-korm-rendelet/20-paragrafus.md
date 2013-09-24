@@ -1,3 +1,3 @@
-## 19. § Az Mmtr. 33. §-a a következő (2a) bekezdéssel egészül ki:
+## 18–19. §[^3]
 
-## „(2a) A munkáltató jogosult a (2) bekezdés e) és f) pontja szerinti adatok tekintetében az egyéni foglalkoztatási megállapodást egyoldalúan módosítani a megállapodásban meghatározott elektronikus felületen keresztül.”
+[^3]: A 18–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
