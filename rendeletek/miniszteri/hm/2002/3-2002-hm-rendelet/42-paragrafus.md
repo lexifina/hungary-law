@@ -1,1 +1,0 @@
-## Osztálybasorolási pótlék
