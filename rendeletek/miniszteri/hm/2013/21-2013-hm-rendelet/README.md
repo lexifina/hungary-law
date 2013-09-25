@@ -1,0 +1,9 @@
+# 21/2013. (IX. 17.) HM rendelet
+
+a honvédek illetményéről, illetményjellegű juttatásairól, jutalmazásáról, valamint a honvédelmi ágazatban foglalkoztatott közalkalmazottak jutalmazásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-21-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-09-25 | 2013-21-20-15.1 | 21/2013. (IX. 17.) HM rendelet |

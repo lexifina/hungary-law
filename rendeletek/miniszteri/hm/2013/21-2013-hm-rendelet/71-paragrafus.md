@@ -1,0 +1,3 @@
+## 70. § Az állomány azon tagja részére, aki a katonák illetményéről és illetményjellegű juttatásairól, valamint a közalkalmazottak jutalmazásáról szóló 3/2002. (I. 25.) HM rendelet módosításáról szóló 22/2004. (VIII. 21.) HM rendelet 9. § (3) bekezdése szerinti – az aranykoszorús kiegészítő pótlék megszüntetésének kompenzálásaként folyósított – kiegészítő illetményre az e rendelet hatálybalépését megelőző napon jogosult, annak összegét az érintett beosztásától függetlenül a szolgálati viszonya megszűnéséig aranykoszorús kiegészítő illetmény címén kell továbbfolyósítani.
+
+## 40. Az egészségügyi dolgozók kiegészítő illetménye

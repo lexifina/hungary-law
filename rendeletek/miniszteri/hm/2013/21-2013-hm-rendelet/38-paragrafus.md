@@ -1,0 +1,1 @@
+## 37. § Ha az állomány tagja csak a havi szolgálatteljesítési idő egyes napjain végzi tevékenységét a 41. § (2) bekezdésében meghatározott körülmények között, e napokra a Hjt. 128. § (2) bekezdés a) pontja szerinti eseti pótlékra jogosult.
