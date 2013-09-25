@@ -1,4 +1,4 @@
-## 5. §[^4]
+## 5. §[^3]
 
 6. § (1) Ez a rendelet – a (2)–(4) bekezdésben meghatározott kivételekkel – 2013. szeptember 18-án lép hatályba.
 
@@ -8,4 +8,4 @@
 
 (4) Az 5. §, valamint az 1. melléklet 4. pontja 2013. szeptember 26-án lép hatályba.
 
-[^4]: Az 5. § a 6. § (4) bekezdése alapján 2013. szeptember 26-án lép hatályba.
+[^3]: Az 5. § a 6. § (4) bekezdése alapján 2013. szeptember 26-án lép hatályba.
