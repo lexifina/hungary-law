@@ -30,6 +30,6 @@ Felelős: a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal 
 
 Határidő: 2013. december 31.
 
-5. visszavonja a Tüskecsarnok beruházáshoz kapcsolódó uszodafejlesztési programról szóló 1689/2012. (XII. 29.) Korm. határozatot;
+5–6.[^1]
 
-6. visszavonja a Tüskecsarnok projekt befejezéséről szóló 1108/2012. (IV. 11.) Korm. határozat 4–7. pontját.
+[^1]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
