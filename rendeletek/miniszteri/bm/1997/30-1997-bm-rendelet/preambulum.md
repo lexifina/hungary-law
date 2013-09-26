@@ -1,1 +1,0 @@
-A szakképzésről szóló 1993. évi LXXVI. törvény 5. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján – a 7. § (3) bekezdésében foglaltak szerint a Magyar Kézműves Kamarával egyetértésben – a következőket rendelem el:
