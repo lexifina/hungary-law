@@ -1,4 +1,4 @@
-12/A. §[^145] (1) A Tv. 11. § (1) bekezdése szerinti, éven túli kötelezettségvállalást eredményező, előzetes többletkapacitás-befogadási eljárásban az egészségügyért felelős miniszter a 12. § (5) és (6) bekezdése szerinti vélemény figyelembevételével elkészíti a többletkapacitás-befogadási javaslatát, és azt a pályázónak a pályázat benyújtási határidejét megelőzően 15 nappal megküldi.
+12/A. §[^146] (1) A Tv. 11. § (1) bekezdése szerinti, éven túli kötelezettségvállalást eredményező, előzetes többletkapacitás-befogadási eljárásban az egészségügyért felelős miniszter a 12. § (5) és (6) bekezdése szerinti vélemény figyelembevételével elkészíti a többletkapacitás-befogadási javaslatát, és azt a pályázónak a pályázat benyújtási határidejét megelőzően 15 nappal megküldi.
 
 (2) A pályázó a 12. § (1) bekezdése szerinti támogatás kérésére irányuló szakmai programját az (1) bekezdés szerinti javaslatra figyelemmel nyújtja be.
 
@@ -8,4 +8,4 @@
 
 (5) A (4) bekezdés szerinti előterjesztésben több előzetes többletkapacitás-befogadás jóváhagyása is kérhető.
 
-[^145]: A 12/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^146]: A 12/A. §-t a 360/2009. (XII. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 363/2010. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

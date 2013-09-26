@@ -1,6 +1,6 @@
-## Az egészségügyi szakellátási kötelezettség nem teljesítése esetén alkalmazandó szabályok[^21]
+## Az egészségügyi szakellátási kötelezettség nem teljesítése esetén alkalmazandó szabályok[^22]
 
-1/A. §[^22] (1) A Tv. 1/A. § (2) bekezdése szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve az egészségügyi szakellátási feladat nem teljesítéséről szóló – a Tv. 1/A. § (3) bekezdése szerinti – bejelentést (a továbbiakban: bejelentés) az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) részére kell megküldeni, melyben – a Tv. 1/A. § (3) bekezdésében foglaltakon túl – meg kell jelölni a kötelezettség, illetve a szakellátási feladat nem teljesítésének kezdő időpontját azzal, hogy azt a bejelentés lehetőség szerint legalább 15 nappal meg kell hogy előzze.
+1/A. §[^23] (1) A Tv. 1/A. § (2) bekezdése szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve az egészségügyi szakellátási feladat nem teljesítéséről szóló – a Tv. 1/A. § (3) bekezdése szerinti – bejelentést (a továbbiakban: bejelentés) az Országos Tisztifőorvosi Hivatal (a továbbiakban: OTH) részére kell megküldeni, melyben – a Tv. 1/A. § (3) bekezdésében foglaltakon túl – meg kell jelölni a kötelezettség, illetve a szakellátási feladat nem teljesítésének kezdő időpontját azzal, hogy azt a bejelentés lehetőség szerint legalább 15 nappal meg kell hogy előzze.
 
 (2) Az OTH a bejelentést követően haladéktalanul tájékoztatja ennek tényéről az egészségügyért felelős minisztert, az Országos Egészségbiztosítási Pénztárt (a továbbiakban: OEP) és a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet (a továbbiakban: GYEMSZI).
 
@@ -20,5 +20,5 @@ megteszi a Tv. 1/A. § (4) és (5) bekezdésében meghatározottak közül a fol
 
 (7) A Tv. 1/A. § (4) bekezdés b) pontja alapján kijelölt szolgáltató által az átmeneti időszak alatt végzett feladat ellátása után járó finanszírozás a (6) bekezdés alapján megkötött szerződés alapján az egészségügyi szakellátások finanszírozására vonatkozó jogszabályok szerint történik, azzal, hogy a kijelölt szolgáltató csak azok után a teljesítmények után jogosult finanszírozásra, amelyeket a (3) bekezdés alapján hozott kijelölő határozatban megjelölt időszak alatt ténylegesen nyújtott. A teljesítmények elszámolása a kijelölő határozatban megállapított határidő szerint időarányosan kerül az OEP által megállapításra.
 
-[^21]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^22]: Az 1/A. §-t megelőző alcímet a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1/A. §-t a 13/2012. (II. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 125/2013. (IV. 26.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

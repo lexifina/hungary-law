@@ -1,18 +1,18 @@
 ## Az ellátási terület módosítása
 
-6. § (1)[^85] Az ellátási területnek a Tv. 5/B. §-a alapján történő módosítása tárgyában az OTH jár el.
+6. § (1)[^86] Az ellátási területnek a Tv. 5/B. §-a alapján történő módosítása tárgyában az OTH jár el.
 
-(2)[^86] A Tv. 5/B. §-a szerinti módosítást a kapacitást érintő módosulással egyidejűleg kell átvezetni a nyilvántartáson.
+(2)[^87] A Tv. 5/B. §-a szerinti módosítást a kapacitást érintő módosulással egyidejűleg kell átvezetni a nyilvántartáson.
 
-(3)[^87] Abban az esetben, ha az egészségügyi szolgáltató működési engedélyének változása miatt a szolgáltató számára megállapított ellátási terület módosítása, illetve kapacitás átcsoportosítás szükséges, a Tv. 5/B. § (4) bekezdése alapján az OTH hivatalból módosítja a szolgáltató ellátási területét, illetve a Tv. 7. § (11) bekezdése alapján átcsoportosítja a kapacitást azzal, hogy – amennyiben szükséges – egyidejűleg módosítani kell az érintett egészségügyi szolgáltatók ellátási területeit is.
+(3)[^88] Abban az esetben, ha az egészségügyi szolgáltató működési engedélyének változása miatt a szolgáltató számára megállapított ellátási terület módosítása, illetve kapacitás átcsoportosítás szükséges, a Tv. 5/B. § (4) bekezdése alapján az OTH hivatalból módosítja a szolgáltató ellátási területét, illetve a Tv. 7. § (11) bekezdése alapján átcsoportosítja a kapacitást azzal, hogy – amennyiben szükséges – egyidejűleg módosítani kell az érintett egészségügyi szolgáltatók ellátási területeit is.
 
-(4)[^88] A Tv. 5/B. § (1) bekezdése alapján indult eljárásokban az OTH az eljárás megindításától számított 90 napon belül dönt.
+(4)[^89] A Tv. 5/B. § (1) bekezdése alapján indult eljárásokban az OTH az eljárás megindításától számított 90 napon belül dönt.
 
-(5)[^89] Az ellátási területet a szakmai szervezeti egység vonatkozásában is meg lehet állapítani.
+(5)[^90] Az ellátási területet a szakmai szervezeti egység vonatkozásában is meg lehet állapítani.
 
-(6)[^90]
+(6)[^91]
 
-(6a)[^91] A nappali ellátáshoz, illetve nappali kórházi ellátáshoz tartozó ellátási terület
+(6a)[^92] A nappali ellátáshoz, illetve nappali kórházi ellátáshoz tartozó ellátási terület
 
 a) amennyiben a nappali ellátást, illetve nappali kórházi ellátást nyújtó egészségügyi szolgáltató azonos szakmában aktív, illetve rehabilitációs fekvőbeteg-szakellátást is nyújt, akkor az azonos szakma szerinti fekvőbeteg-szakellátás ellátási területével,
 
@@ -20,16 +20,16 @@ b) amennyiben a nappali ellátást nyújtó egészségügyi szolgáltató azonos
 
 egyezik meg.
 
-(7)[^92] Az ellátási terület megállapításának eljárásában az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(7)[^93] Az ellátási terület megállapításának eljárásában az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
-(8)[^93] A Tv. 1. § (2) bekezdés i) pont ic) alpontja szerinti finanszírozott szolgáltatási egységekre vonatkozó kapacitásadatokat az OTH megkeresésére vele az OEP közli.
+(8)[^94] A Tv. 1. § (2) bekezdés i) pont ic) alpontja szerinti finanszírozott szolgáltatási egységekre vonatkozó kapacitásadatokat az OTH megkeresésére vele az OEP közli.
 
-[^85]: A 6. § (1) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 164/2012. (VII. 19.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^86]: A 6. § (2) bekezdése a 164/2012. (VII. 19.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^87]: A 6. § (3) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 16. § 4. pontja hatályon kívül helyezte, újonnan a 164/2012. (VII. 19.) Korm. rendelet 3. §-a iktatta be.
-[^88]: A 6. § (4) bekezdését újonnan a 94/2013. (III. 29.) Korm. rendelet 1. §-a iktatta be.
-[^89]: A 6. § (5) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^90]: A 6. § (6) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 92/2012. (IV. 27.) Korm. rendelet 27. §-a.
-[^91]: Az 6. § (6a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 66. §-a iktatta be.
-[^92]: A 6. § (7) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^93]: A 6. § (8) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^86]: A 6. § (1) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 164/2012. (VII. 19.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^87]: A 6. § (2) bekezdése a 164/2012. (VII. 19.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^88]: A 6. § (3) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 16. § 4. pontja hatályon kívül helyezte, újonnan a 164/2012. (VII. 19.) Korm. rendelet 3. §-a iktatta be.
+[^89]: A 6. § (4) bekezdését újonnan a 94/2013. (III. 29.) Korm. rendelet 1. §-a iktatta be.
+[^90]: A 6. § (5) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^91]: A 6. § (6) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 92/2012. (IV. 27.) Korm. rendelet 27. §-a.
+[^92]: Az 6. § (6a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 66. §-a iktatta be.
+[^93]: A 6. § (7) bekezdését a 360/2009. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^94]: A 6. § (8) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.

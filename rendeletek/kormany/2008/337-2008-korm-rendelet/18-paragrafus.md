@@ -1,13 +1,14 @@
-## 17/F. §[^226] A kapacitás-nyilvántartásnak 2013. szeptember 1-jétől kell megfelelnie az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 125/2013. (IV. 26.) Korm. rendelettel megállapított 5/B. § (2a) bekezdésének.
+## 17/G. §[^228] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 339/2013. (IX. 25.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 1. § (1c) bekezdését és 15/A. § (1) bekezdését a Módr9. hatálybalépésekor[^229] folyamatban lévő ügyekben is alkalmazni kell.
 
 18. § (1) Ez a rendelet 2009. január 1-jén lép hatályba.
 
-(2)[^227]
+(2)[^230]
 
 (3) A 12. § rendelkezéseit az e rendelet hatálybalépését követően kiírt pályázatok esetén kell alkalmazni.
 
-(4)–(5)[^228]
+(4)–(5)[^231]
 
-[^226]: A 17/F. §-t a 125/2013. (IV. 26.) Korm. rendelet 11. §-a iktatta be.
-[^227]: A 18. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^228]: A 18. § (4)–(5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^228]: A 17/G. §-t a 339/2013. (IX. 25.) Korm. rendelet 15. §-a iktatta be.
+[^229]: A hatálybalépés időpontja 2013. szeptember 26.
+[^230]: A 18. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^231]: A 18. § (4)–(5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 657. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
