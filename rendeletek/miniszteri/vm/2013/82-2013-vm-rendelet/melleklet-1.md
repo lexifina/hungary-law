@@ -1,177 +1,103 @@
 1. melléklet a 82/2013. (IX. 17.) VM rendelethez
 
-1.[^4]
+1.[^5]
 
-2.[^5]
+2.[^6]
 
-3. Az R. 1. melléklete 3. pont 3.1–3.3. és 3.7–3.8. alpontjai helyébe a következő rendelkezések lépnek:
+3.[^7]
 
-„3.1. Bajai Járási Hivatal Járási Földhivatala (székhelye: Baja)
+4. Az R. 1. melléklete 3. pont 3.4–3.6. alpontjai helyébe a következő rendelkezések lépnek:
 
-Baja
+„3.4. Kecskeméti Járási Hivatal Járási Földhivatala (székhelye: Kecskemét)
 
-Bácsszentgyörgy
+Ágasegyháza
 
-Bátmonostor
+Ballószög
 
-Csátalja
+Felsőlajos
 
-Csávoly
+Fülöpháza
 
-Dávod
+Fülöpjakab
 
-Dunafalva
+Helvécia
 
-Érsekcsanád
+Jakabszállás
 
-Érsekhalma
+Kecskemét
 
-Felsőszentiván
+Kerekegyháza
 
-Gara
+Kunbaracs
 
-Hercegszántó
+Kunszállás
 
-Nagybaracska
+Ladánybene
 
-Nemesnádudvar
+Lajosmizse
 
-Sükösd
+Lakitelek
 
-Szeremle
+Nyárlőrinc
 
-Vaskút
+Orgovány
 
-3.2. Bácsalmási Járási Hivatal Járási Földhivatala (székhelye: Bácsalmás)
+Szentkirály
 
-Bácsalmás
+Tiszaalpár
 
-Bácsbokod
+Tiszakécske
 
-Bácsborsód
+Tiszaug
 
-Bácsszőlős
+Városföld
 
-Borota
+3.5. Kiskőrösi Járási Hivatal Járási Földhivatala (székhelye: Kiskőrös)
 
-Csikéria
+Akasztó
 
-Jánoshalma
+Bócsa
 
-Katymár
+Császártöltés
 
-Kéleshalom
+Csengőd
 
-Kunbaja
+Fülöpszállás
 
-Madaras
+Imrehegy
 
-Mátételke
+Izsák
 
-Mélykút
+Kaskantyú
 
-Rém
+Kecel
 
-Tataháza
+Kiskőrös
 
-3.3. Kalocsai Járási Hivatal Járási Földhivatala (székhelye: Kalocsa)
+Páhi
 
-Bátya
+Soltszentimre
 
-Drágszél
+Soltvadkert
 
-Dunapataj
+Tabdi
 
-Dunaszentbenedek
+Tázlár
 
-Dunatetétlen
+3.6. Kiskunfélegyházi Járási Hivatal Járási Földhivatala (székhelye: Kiskunfélegyháza)
 
-Dusnok
+Bugac
 
-Fajsz
+Bugacpusztaháza
 
-Foktő
+Gátér
 
-Géderlak
+Kiskunfélegyháza
 
-Hajós
+Pálmonostora
 
-Harta
+Petőfiszállás”
 
-Homokmégy
-
-Kalocsa
-
-Miske
-
-Ordas
-
-Öregcsertő
-
-Solt
-
-Szakmár
-
-Újsolt
-
-Újtelek
-
-Uszód”
-
-„3.7. Kiskunhalasi Járási Hivatal Járási Földhivatala (székhelye: Kiskunhalas)
-
-Balotaszállás
-
-Csólyospálos
-
-Harkakötöny
-
-Jászszentlászló
-
-Kelebia
-
-Kiskunhalas
-
-Kiskunmajsa
-
-Kisszállás
-
-Kömpöc
-
-Kunfehértó
-
-Móricgát
-
-Pirtó
-
-Szank
-
-Tompa
-
-Zsana
-
-3.8. Kunszentmiklósi Járási Hivatal Járási Földhivatala (székhelye: Kunszentmiklós)
-
-Apostag
-
-Dunaegyháza
-
-Dunavecse
-
-Kunadacs
-
-Kunpeszér
-
-Kunszentmiklós
-
-Szabadszállás
-
-Szalkszentmárton
-
-Tass”
-
-4.[^6]
-
-[^4]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet 4. pontja a 6. § (4) bekezdése alapján 2013. szeptember 26-án lép hatályba.
+[^5]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
