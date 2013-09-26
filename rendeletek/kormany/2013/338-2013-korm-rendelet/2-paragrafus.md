@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya között az atomenergia békés célú felhasználása terén folytatandó képzési, kutatási, hatósági és műszaki együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
