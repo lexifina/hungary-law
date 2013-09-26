@@ -1,6 +1,6 @@
 ## A) ELŐZETES HELYSZÍNI VIZSGÁLAT JEGYZŐKÖNYVE
 
-## Igénylésazonosító:
+## Igénylésazonosító
 
 | Az ellenőrzés tárgya: |  |
 
@@ -22,9 +22,7 @@
 
 | E-mail: |  | E-mail: |  |
 
-| P. H. | P. H. |
-
-| ......................................... | ......................................... |
+| P. H. P. H. ......................................... ......................................... |
 
 | Katasztrófavédelmi Igazgatóság részéről: |  | Vízügyi Igazgatóság részéről: |  |
 
@@ -36,11 +34,9 @@
 
 | E-mail: |  | E-mail: |  |
 
-| P. H. | P. H. |
+| P. H. P. H. ......................................... ......................................... |
 
-| ......................................... | ......................................... |
-
-| Közlekedésfejlesztési Koordinációs Központ részéről: |  | Pince- és Partfalveszély-Elhárítási Szakértői Bizottság részéről: |  |
+| Közlekedésfejlesztési Koordinációs részéről: |  | a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala részéről |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -50,11 +46,9 @@
 
 | E-mail: |  | E-mail: |  |
 
-| P. H. | P. H. |
+| P. H. P. H. ......................................... ......................................... |
 
-| ......................................... | ......................................... |
-
-| Belügyminisztérium részéről: |  | Egyéb felkért szerv: |  |
+| Egyéb felkért szerv részéről: |  | Egyéb felkért szerv részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -64,15 +58,15 @@
 
 | E-mail: |  | E-mail: |  |
 
-| P. H. | P. H. |
+| P. H. P. H. ......................................... ......................................... |
 
-| ......................................... | ......................................... |
+| P. H. P. H. ......................................... ......................................... |
 
 ## Vis maior esemény adatai
 
 | Vis maior esemény leírása: |  |  |
 
-| Sorszám | Vis maior esemény megnevezése | Település | Utca | Házszám | Hrsz. | Érintett alapterület | Mérték- egység (m2, m3, fm) | Megállapí- tások (károsodás mértéke, tulajdon- jogviszony) |
+| Sorszám | Vis maior esemény megnevezése | Település | Utca | Házszám | Hrsz. | Érintett alapterület | Mérték- egység (m2, m3, fm) | Megállapítások (károsodás mértéke, tulajdonjog- viszony) |
 
 | 1. |  |  |  |  |  |  |  |  |
 
@@ -96,7 +90,7 @@
 
 | A kár önkormányzati tulajdonban keletkezett (igen/nem): |  |
 
-| A káreseményt az önkormányzat időben – 7 napon belül – bejelentette (igen/nem/nem vonatkozik): |  |
+| A káreseményt az önkormányzat időben – 7 napon belül – bejelentette (igen/nem): |  |
 
 | A bejelentett esemény vis maiornak tekinthető-e (igen/nem): |  |
 

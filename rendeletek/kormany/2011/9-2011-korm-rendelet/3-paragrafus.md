@@ -34,15 +34,19 @@ a helyi önkormányzatokért felelős miniszter (a továbbiakban: miniszter) ál
 
 (4)[^18] Ha a védekezés nem fejeződik be a pályázat a 4. § (1) bekezdésében meghatározott benyújtásának időpontjáig, a helyi önkormányzat új bejelentést tehet a védekezést megszüntető határozat időpontjáig felmerülő újabb védekezési költségek részbeni vagy teljes támogatása érdekében.
 
-(5)[^19] Az (1) bekezdés a) pontja szerinti esetben a miniszter a bejelentést követően – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi az illetékes megyei katasztrófavédelmi igazgatóságot vagy a Fővárosi Polgári Védelmi Igazgatóságot (a továbbiakban együtt: Katasztrófavédelmi Igazgatóság), amely az 1. melléklet A) része szerinti adatlap lezárását követő 7 napon belül a 2. melléklet szerinti adatlapon – elektronikusan az ebr42 rendszerben – tájékoztatást nyújt a bejelentés valódiságáról, a vis maior esemény jellegéről, a védekezési munkálatok szükségességéről. A káresemény körülményeinek igazolására a Katasztrófavédelmi Igazgatóság helyszíni vizsgálatot is folytat.
+(5)[^19] Az (1) bekezdés a) pontja szerinti esetben a miniszter a bejelentést követően – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi az illetékes megyei katasztrófavédelmi igazgatóságot vagy a Fővárosi Katasztrófavédelmi Igazgatóságot (a továbbiakban együtt: Katasztrófavédelmi Igazgatóság), amely az 1. melléklet A) része szerinti adatlap lezárását követő 7 napon belül a 2. melléklet szerinti adatlapon – elektronikusan az ebr42 rendszerben – tájékoztatást nyújt a bejelentés valódiságáról, a vis maior esemény jellegéről, a védekezési munkálatok szükségességéről. A káresemény körülményeinek igazolására a Katasztrófavédelmi Igazgatóság helyszíni vizsgálatot is folytat.
 
-(6)[^20] A bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal által koordinált bizottság helyszíni vizsgálatot végez (a továbbiakban: előzetes helyszíni vizsgálat). Az előzetes helyszíni vizsgálatban részt vesz a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal, a Katasztrófavédelmi Igazgatóság, továbbá szükség szerint a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal felkérése alapján
+(6)[^20] A bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal által összehívott és koordinált bizottság helyszíni vizsgálatot végez (a továbbiakban: előzetes helyszíni vizsgálat). Az előzetes helyszíni vizsgálatot végző bizottság tagja a Katasztrófavédelmi Igazgatóság, továbbá szükség szerint a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal felkérése alapján az
 
-a)[^21] ár- vagy belvíz elleni védekezés esetében a helyi önkormányzat székhelye szerint területileg illetékes vízügyi igazgatóság, valamint
+a) ár- vagy belvíz elleni védekezés esetében a helyi önkormányzat székhelye szerint területileg illetékes vízügyi igazgatóság,
 
-b) utakban, kompokban, hidakban keletkezett károk esetében a Közlekedésfejlesztési Koordinációs Központ
+b) utakban, kompokban, hidakban keletkezett károk esetében a Közlekedésfejlesztési Koordinációs Központ,
 
-képviselője.
+c) általános építményekben bekövetkezett károk esetében az építmény helye szerint területileg illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalának
+
+## képviselője.
+
+(6a)[^21] Amennyiben a helyi önkormányzat székhelye szerint területileg illetékes fővárosi és megyei kormányhivatal a vis maior esemény jellegéből kifolyólag szükségesnek látja, az előzetes helyszíni vizsgálatot lefolytató bizottság munkájában történő részvételre a (6) bekezdésben foglaltakon túl egyéb közigazgatási szervet is felkérhet.
 
 (7) Az előzetes helyszíni vizsgálat lefolytatásáról a 3. melléklet A) része szerinti jegyzőkönyvet elektronikusan – az ebr42 rendszerben – kell kiállítani. A rendkívüli időjárás által közvetlenül okozott károk (5) és (6) bekezdés szerinti vizsgálata esetében az Országos Meteorológiai Szolgálat a Katasztrófavédelmi Igazgatóság kérésére – térítésmentesen – tájékoztatást küld.
 
@@ -69,9 +73,9 @@ képviselője.
 [^16]: A 3. § (2) bekezdése a 92/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^17]: A 3. § (3) bekezdése a 92/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^18]: A 3. § (4) bekezdése a 92/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^19]: A 3. § (5) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 8. pontja szerint módosított szöveg.
-[^20]: A 3. § (6) bekezdés nyitó szövegrésze a 92/2013. (III. 28.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.
-[^21]: A 3. § (6) bekezdés a) pontja a 300/2011. (XII. 22.) Korm. rendelet 30. § c) pontja, a 92/2013. (III. 28.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.
+[^19]: A 3. § (5) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 8. pontja, a 342/2013. (IX. 25.) Korm. rendelet 1. § (5) bekezdése szerint módosított szöveg.
+[^20]: A 3. § (6) bekezdése a 342/2013. (IX. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^21]: A 3. § (6a) bekezdését a 342/2013. (IX. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^22]: A 3. § (8) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 10. pontja szerint módosított szöveg.
 [^23]: A 3. § (8a) bekezdését a 92/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^24]: A 3. § (9) bekezdése a 92/2013. (III. 28.) Korm. rendelet 12. § (2) bekezdés c) pontja szerint módosított szöveg.

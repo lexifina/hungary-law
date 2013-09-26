@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^89]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^91]
 
 Igénylésazonosító:
 
@@ -184,4 +184,4 @@ P. H.
 
 | polgármester/elnök | jegyző |
 
-[^89]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^91]: Az 5. melléklet a 92/2013. (III. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.

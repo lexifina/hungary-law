@@ -122,6 +122,6 @@
 
 | polgármester/elnök | jegyző |
 
-9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^92]
+9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^94]
 
-[^92]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.
+[^94]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.

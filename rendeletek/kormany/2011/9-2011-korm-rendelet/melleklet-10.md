@@ -44,6 +44,6 @@
 
 | polgármester | jegyző |
 
-10. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^93]
+10. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^95]
 
-[^93]: A 10. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.
+[^95]: A 10. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be.
