@@ -1,0 +1,3 @@
+## 13. § Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet (a továbbiakban: Eftv. vhr.) 1. §-a a következő (1c) bekezdéssel egészül ki:
+
+## „(1c) E rendelet alkalmazásában többletkapacitásnak minősül az egészségügyi szolgáltató finanszírozási szerződése szerinti magasabb sürgősségi ellátási forma mellett bármely más olyan sürgősségi ellátási forma, amely az egészségügyi szolgáltatónak a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelyéhez kapcsolódik.”
