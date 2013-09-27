@@ -1,1 +1,1 @@
-133. § A miniszter a központi költségvetésről szóló törvény tervezetének (a továbbiakban: tervezet) Kormány által történő elfogadását követően haladéktalanul tájékoztatja az MNB-t a tervezetről. Az MNB jogosult a tervezettel kapcsolatos véleményét közvetlenül megküldeni a miniszternek. Ezt a véleményt a Költségvetési Tanács ülésén az MNB elnöke jeleníti meg. Az így megjelenített vélemény azonban nem köti az MNB elnökét a Költségvetési Tanács tagjaként biztosított jogainak szabad gyakorlásában.
+### 133. §

@@ -1,1 +1,1 @@
-115. § A Pénzügyi Békéltető Testület jogosult határozatát, illetve ajánlását – a felek nevének megjelölése nélkül – a jogvita tartalmának és az eljárás eredményének rövid leírásával nyilvánosságra hozni.
+### 115. §

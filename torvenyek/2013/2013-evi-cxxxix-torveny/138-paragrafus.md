@@ -1,1 +1,1 @@
-138. § Az MNB a 4. § (9) bekezdésében meghatározott feladata ellátása során tagként beléphet a pénzügyi felügyeleti hatóságok egymás közötti nemzetközi együttműködését előmozdító nemzetközi szervezetekbe.
+### 138. §

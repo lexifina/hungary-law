@@ -1,35 +1,3 @@
 ## 18. Jegybanki információs rendszer
 
-30. § (1) A 4. § (1)–(9) bekezdésében meghatározott feladatai ellátásához – ideértve a monetáris, a fizetési mérleg és a kapcsolódó állományi, az értékpapír, a pénzügyi számla, a pénzforgalmi, a fizetési rendszer, a pénzügyi stabilitási, a makroprudenciális és a pénzügyi közvetítő rendszerre vonatkozó statisztikák összeállítását – az MNB jegybanki információs rendszert működtet. A jegybanki információs rendszerhez a jogszabályban meghatározott szervezetek és természetes személyek az MNB elnöke rendeletében vagy az MNB-nek a 48. § (3) bekezdése alapján, felügyeleti jogkörben meghozott hatósági határozatában előírt információkat kötelesek szolgáltatni.
-
-(2) Az MNB a 4. § (6) bekezdésében meghatározott feladatai ellátásához a jegybanki információs rendszer részeként statisztikai rendszert működtet, amelyhez jogosult a hivatalos statisztikai szolgálathoz tartozó szervtől a rendelkezésre álló, személyes adatnak nem minősülő adatokat egyedi azonosításra alkalmas módon is átvenni. Az így átadott egyedi statisztikai adatok kizárólag statisztikai célokra használhatók, azokat a jegybanki információs rendszer egyéb adataitól elkülönülten kell kezelni. A jegybanki információs rendszer részét képező statisztikai adatok kezelése során az MNB megtesz minden olyan szabályozási, technikai és szervezeti intézkedést, amely az egyedi statisztikai adatok fizikai és logikai védelmének biztosítása érdekében szükséges. A jegybanki információs rendszer részeként működtetett statisztikai információs rendszer szakmai tartalmát és módszertanát az MNB – a miniszter véleményét kikérve – a Központi Statisztikai Hivatallal egyetértésben alakítja ki.
-
-(3) Az MNB nyilvánosságra hozza a jegybanki információs rendszerben rendelkezésre álló információk alapján a hitelintézeti rendszer működésére és az ország pénzügyi helyzetére vonatkozó információkat, és ezek részletes adatait az Országgyűlés, a Kormány és a központi államigazgatási szervek felhívására rendelkezésükre bocsátja. Az MNB a jegybanki információs rendszerben rendelkezésre álló adatokat a Központi Statisztikai Hivatal részére, e szerv kérése alapján statisztikai célra egyedi azonosításra alkalmas módon átadja.
-
-(4) Az adatokat csak olyan formában lehet nyilvánosságra hozni, hogy azokból – jogszabály eltérő rendelkezése hiányában – az egyedi adatszolgáltatókra vonatkozó információk ne legyenek megállapíthatók.
-
-(5) Az MNB elnöke a jegybanki információs rendszerhez szolgáltatandó információk köréről, a szolgáltatás módjáról és határidejéről szóló rendeletében – az MNB alapvető feladatainak ellátásához szükséges kutatási, elemzési, döntés-előkészítési tevékenységek elvégzése érdekében – előírhatja, hogy a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a tőkepiacról szóló törvény (a továbbiakban: Tpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (a továbbiakban: Bszt.) hatálya alá tartozó szervezetek, az állami adóhatóság, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a Központi Statisztikai Hivatal, a cégbíróság, továbbá a központi költségvetésből finanszírozott családtámogatási és fogyatékossági, szociális, gyermekjóléti, gyermekvédelmi és közoktatási ellátásokra és támogatásokra vonatkozóan a kincstár a jegybanki információs rendszerbe történő információszolgáltatáshoz a kezelésükben lévő személyes adatot, adótitkot, banktitkot, fizetési titkot, értékpapírtitkot, biztosítási titkot, pénztártitkot és egyedi statisztikai adatot visszafordíthatatlan módon úgy módosítsák, hogy az információkat ne lehessen az érintettekkel kapcsolatba hozni, annak érdekében, hogy a szervezetre vonatkozó bizalmas vagy a természetes személyre vonatkozó személyes jellegtől így megfosztott információkat szolgáltassanak az MNB részére. Az MNB elnöke rendeletében kijelöli az információkat szolgáltató szervezeteket.
-
-(6) Az MNB elnöke rendeletében úgy is előírhatja az (5) bekezdésben írt információk bizalmas vagy személyes jellegtől való megfosztását, hogy az információkat az MNB által egyedileg az (5) bekezdés alapján információszolgáltatásra kötelezett rendelkezésére bocsátott kódképzési módszer alapján meghatározott anonim kapcsolati kóddal kell átadni. Az MNB a kódképzési módszer rendelkezésre bocsátását követően és az információszolgáltatást megelőzően a kódképzési módszert törli.
-
-(7) Az MNB jogosult azonos kódképzési módszer alapján meghatározott anonim kapcsolati kóddal a (5) bekezdésben írt információkat több szervezettől megkérni, és az így kapott információkat összekapcsolni. Az összekapcsolás nem terjedhet ki olyan adatállományra, amely az MNB saját kezelésében van.
-
-(8) Az (5) és (6) bekezdés alapján információszolgáltatásra kötelezett köteles megtagadni az információk átadását, ha az adatokat nem lehetséges megfosztani azok bizalmas vagy személyes jellegétől. A megtagadást és annak indokát az (5) és (6) bekezdés alapján információszolgáltatásra kötelezett köteles az MNB tudomására hozni az információszolgáltatásra előírt határidőben.
-
-(9) Az anonim kapcsolati kód képzésének módszerét és a kódképzés alapját az MNB úgy állapítja meg, hogy
-
-a) a kódképzés alapját nem képezik olyan szervezetet vagy természetes személyt azonosító adatok, amelyek kezelésére az MNB jogosult, és
-
-b) a kódképzés konkrét, egyedi módszere tartalmaz egyedi, véletlenszerűen megállapított elemet.
-
-(10) Az (5) és (6) bekezdés szerinti információszolgáltatás során az információt szolgáltató szervezet az információszolgáltatás előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a járási szintnél pontosabban ne legyen megállapítható.
-
-(11) Az MNB köteles az információk (5) és (6) bekezdés szerinti létrehozásával összefüggésben közvetlenül felmerülő, indokolt költségeket – részletes költségkimutatás alapján – az információt szolgáltató szervezeteknek az információszolgáltatást követően megtéríteni.
-
-(12) Az (5) és (6) bekezdés alapján információszolgáltatásra kötelezett a kódképzés módszerét nem módosíthatja, és azt az anonim kapcsolati kód képzése után haladéktalanul, majd az anonim kapcsolati kódot az információszolgáltatást követően haladéktalanul törli.
-
-(13) Az MNB az összekapcsolást követően az anonim kapcsolati kód és az átvett adatok közötti kapcsolatot helyreállíthatatlanul megszünteti és az anonim kapcsolati kódot törli.
-
-(14) E § alkalmazásában anonim kapcsolati kód alatt az ugyanazon természetes személyre vagy szervezetre vonatkozó, természetes személyt vagy szervezetet azonosító adatokból olyan, véletlenszerű elemet is tartalmazó módszerrel képzett karaktersor értendő, amellyel ugyanazokból az adatokból mindig ugyanaz a karaktersor jön létre, de amely eredményeképpen létrejött karaktersorból a természetes személyt vagy szervezetet azonosító adatok nem állíthatók helyre.
-
-(15) A (2) bekezdés alkalmazásában statisztikai célú felhasználásnak minősül a 4. § (6) bekezdése szerinti statisztikai tevékenység során a statisztikai eredmények, elemzések előállítása és statisztikai módszertan fejlesztése érdekében történő felhasználás. Statisztikai eredmények a gazdasági és társadalmi jelenségeket jellemző aggregált adatok, mutatók.
+### 30. §

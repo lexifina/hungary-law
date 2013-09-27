@@ -1,5 +1,3 @@
 ## 45. Vagyonnyilatkozat
 
-157. § (1) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai az országgyűlési képviselőkkel azonos módon, azonos tartalommal és gyakorisággal tesznek vagyonnyilatkozatot. Az évenkénti vagyonnyilatkozatot a kötelezettség esedékessé válásának évében az azt megelőző év december 31-ei állapotára vonatkozóan, a kinevezéskor, illetve a felmentéskor esedékes vagyonnyilatkozatot a kinevezés, illetve a felmentés napjának állapotára vonatkozóan kell megtenni. A nyilatkozattételre kötelezett saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekeinek az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
-
-(2) A vagyonnyilatkozatot az Országgyűlés mentelmi és összeférhetetlenségi ügyekkel foglalkozó állandó bizottsága tartja nyilván. A Monetáris Tanács tagjai, valamint a felügyelőbizottság tagjai vagyonnyilatkozatára, illetve az azzal kapcsolatos eljárásra az e §-ban meghatározott eltérésekkel az országgyűlési képviselők vagyonnyilatkozatára, illetve vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni. A vagyonnyilatkozattal kapcsolatos eljárást bárki kezdeményezheti az Országgyűlés elnökénél.
+### 157. §

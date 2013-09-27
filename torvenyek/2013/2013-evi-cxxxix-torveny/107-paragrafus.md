@@ -1,1 +1,1 @@
-107. § A Pénzügyi Békéltető Testület a kérelmet meghallgatás kitűzése nélkül írásban elutasítja, ha megállapítható, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt korábban közvetítői vagy hatósági eljárást indítottak vagy per van folyamatban, vagy annak tárgyában már jogerős ítéletet hoztak.
+### 107. §

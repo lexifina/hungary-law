@@ -1,1 +1,1 @@
-105. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 327. § (1) és (2) bekezdésében, az eljárás eredménytelensége esetén a Ptk. 326. § (2) bekezdésében foglaltak irányadók.
+### 105. §
