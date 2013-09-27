@@ -60,10 +60,10 @@ c) a miniszterelnök döntése szerint meghívottként részt vehet a Testület 
 
 10. A Testület tagjai a Testületben végzett munkájukért sem díjazásban, sem pedig költségtérítésben nem részesülnek.
 
-11. A Kormány ügyrendjéről szóló 1144/2010. (VII. 7.) Korm. határozat a következő 57/C. ponttal egészül ki:
-
-„57/C. Ha a Nemzeti Tudománypolitikai és Innovációs Testület feladatkörébe tartozó előterjesztést a Nemzeti Tudománypolitikai és Innovációs Testület megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére. Ezekben az esetekben a 20–36., a 44–57. és a 76. pontban foglaltakat a megfelelő eltéréssel kell alkalmazni.”
+11.[^1]
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
 13. A 11. pont a hatálybalépést követő napon hatályát veszti.
+
+[^1]: A 11. pontot a 13. pont hatályon kívül helyezte.
