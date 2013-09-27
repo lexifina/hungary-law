@@ -32,7 +32,7 @@ d) A radioaktív hulladék megfelelő mértékű elszigetelésének biztosítás
 
 3. A végleges hulladéktároló tervezésénél figyelembe kell venni a biztonsági övezetre, valamint – az egyidejűleg radioaktív és veszélyes hulladékok esetén – a veszélyes anyagok kezelésére és tárolására vonatkozó, külön jogszabályokban meghatározott előírásokat.
 
-4. a) Az engedélyezési terveknek tartalmazniuk kell a létesítmény őrzés-védelmi, beléptetési és személyi nyilvántartási rendszerének terveit is. A telephelyet megfelelő magasságú kerítéssel kell körülvenni és a külön jogszabályban[^15] meghatározott technikai jelzőrendszerekkel kell ellátni.
+4. a) Az engedélyezési terveknek tartalmazniuk kell a létesítmény őrzés-védelmi, beléptetési és személyi nyilvántartási rendszerének terveit is. A telephelyet megfelelő magasságú kerítéssel kell körülvenni és a külön jogszabályban[^25] meghatározott technikai jelzőrendszerekkel kell ellátni.
 
 b) A létesítményt biztonsági berendezésekkel (pl. robbanás- és tűzjelző, riasztó, oltó berendezésekkel) kell ellátni.
 
@@ -48,4 +48,4 @@ d) Az engedélyezési terveknek javaslatot kell tartalmazniuk a tároló lezár�
 
 6. A végleges tároló tervezésekor biztosítani kell a lehetőséget annak ellenőrzésére, hogy a hulladékcsomagok megfelelnek az átvételi követelményeknek, továbbá biztosítani kell a nyilvántartás és archiválás elvégzéséhez szükséges műszaki feltételeket.
 
-[^15]: 47/1997. (VIII. 26.) BM rendelet.
+[^25]: 47/1997. (VIII. 26.) BM rendelet.

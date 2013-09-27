@@ -4,7 +4,7 @@
 
 a) az üzembehelyezést megelőző biztonsági jelentés (ÜMBJ) azon részét, amelyet az üzembe helyezés megkezdéséig kell elkészíteni,
 
-b) a külön jogszabályban[^9] meghatározott baleset-elhárítási intézkedési tervet (BEIT),
+b) a külön jogszabályban[^15] meghatározott baleset-elhárítási intézkedési tervet (BEIT),
 
 c) a hulladék átvételi és elhelyezési követelményrendszer tervezetét,
 
@@ -26,9 +26,9 @@ e) a bizonylatolási és jelentési kötelezettségeket.
 
 (4) A végleges hulladéktároló üzemeltetése során biztosítani kell a radioaktív hulladék fogadását, kezelését és ellenőrzését, valamint a létesítmény biztonságos működését.
 
-(5) Az üzemeltetőnek átfogó minőségbiztosítási és minőségellenőrzési programot kell készíteni minden olyan tevékenységet figyelembe véve, mely hatással lehet a tároló biztonságára.
+(5)[^16] Az engedélyesnek átfogó, a minőségbiztosítást és a minőségellenőrzést is magában foglaló, a radioaktív hulladék kezelésének egész folyamatára kiterjedő integrált irányítási rendszert kell fenntartania.
 
-(6) Az üzemeltetőnek a létesítményben elhelyezett radioaktív hulladékról a külön jogszabályban[^10] foglalt követelményeknek is megfelelő nyilvántartást kell vezetnie. A nyilvántartás tartalmazza:
+(6) Az üzemeltetőnek a létesítményben elhelyezett radioaktív hulladékról a külön jogszabályban[^17] foglalt követelményeknek is megfelelő nyilvántartást kell vezetnie. A nyilvántartás tartalmazza:
 
 a) a telephelyen lévő összes és a már elhelyezett hulladék mennyiségét,
 
@@ -40,5 +40,6 @@ d) a hulladék fizikai és kémiai tulajdonságait, valamint
 
 e) a hulladékban lévő radioaktív izotópokra vonatkozó adatokat.
 
-[^9]: 16/2000. (VI. 8.) EüM rendelet.
-[^10]: 25/1997. (VI. 8.) IKIM rendelet.
+[^15]: 16/2000. (VI. 8.) EüM rendelet.
+[^16]: A 12. § (5) bekezdése a 65/2013. (IX. 19.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^17]: 25/1997. (VI. 8.) IKIM rendelet.
