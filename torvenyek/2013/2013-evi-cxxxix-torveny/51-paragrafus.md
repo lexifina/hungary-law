@@ -1,0 +1,3 @@
+51. § (1) Az MNB hatósági eljárása során adatot igényelhet a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti bűnügyi nyilvántartási rendszerből.
+
+(2) Az adatigénylés a 39. §-ban meghatározott törvények hatálya alá tartozó személyekre vonatkozóan annak ellenőrzésére irányulhat, és arra az adatra vonatkozhat, hogy az érintett a tevékenysége gyakorlásának feltételeit megállapító törvényben meghatározott kizáró ok hatálya alatt áll-e.

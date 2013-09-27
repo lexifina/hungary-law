@@ -1,0 +1,19 @@
+## HARMADIK RÉSZ
+
+## AZ MNB ELJÁRÁSAI
+
+## VI. Fejezet
+
+## A HATÓSÁGI ELJÁRÁSOK KÖZÖS SZABÁLYAI
+
+45. § Az MNB hatóságként jár el
+
+a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. §-ban meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti felügyelet gyakorlása,
+
+b) a 4. § (5) bekezdésében meghatározott feladatkörében a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti kijelölés, valamint annak visszavonása,
+
+c) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezése és ellenőrzése, továbbá
+
+d) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése
+
+során.

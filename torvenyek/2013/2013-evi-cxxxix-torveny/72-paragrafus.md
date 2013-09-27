@@ -1,0 +1,1 @@
+72. § Ha olyan helyzet áll elő, amely veszélyeztetheti a pénzügyi közvetítőrendszer stabilitását, vagy valamely, a 39. §-ban meghatározott törvények hatálya alá tartozó szervezet prudens működését, az MNB ellenőrzési eljárása során az adott ágazatnak megfelelő minősítéssel rendelkező független könyvvizsgálót vagy egyéb szakértőt rendelhet ki.

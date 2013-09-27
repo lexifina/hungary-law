@@ -1,0 +1,1 @@
+38. § A 31–37. §-ban meghatározott feladatok ellátása nem veszélyeztetheti az MNB-nek a 4. § (1) bekezdésében meghatározott, valamint a Központi Bankok Európai Rendszerében fennálló tagságából eredő feladatai ellátását.
