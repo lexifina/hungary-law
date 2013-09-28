@@ -1,0 +1,1 @@
+## „(7) A jóváhagyó támogatási döntés alapján legfeljebb 4 – kizárólag gépbeszerzést tartalmazó művelet esetében legfeljebb 2 – kifizetési kérelem fogadható el. Az utolsó kifizetési kérelmet legkésőbb a művelet befejezését követően megnyíló második kifizetési kérelem benyújtási időszakban kell benyújtani. Kifizetési kérelem 2015. május 31-ét követően nem nyújtható be.”
