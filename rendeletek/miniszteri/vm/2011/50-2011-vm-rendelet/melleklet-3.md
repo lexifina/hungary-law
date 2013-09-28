@@ -14,23 +14,29 @@
 
 ## f) önetetők.
 
-## 2. Halászat gépei, eszközei:
+## 2.[^95] Halgazdálkodás gépei, eszközei:
 
-## a) halszákoló és halrakodó gépek;
+## a) erőgépek;
 
-## b) halszivattyúk, halszállító szalagok;
+## b) halszákoló és halrakodó gépek;
 
-## c) halválogató asztalok, halválogató gépek;
+## c) halszivattyúk, halszállító szalagok;
 
-## d) halaskosarak.
+## d) halválogató asztalok, halválogató gépek;
 
-## 3. Halszállítás eszközei:
+## e) halaskosarak;
 
-## a) halszállító tartályok;
+## f) halcsúszda.
 
-## b) folyékony oxigéntartályok;
+## 3.[^96] Halszállítás eszközei:
 
-## c) porlasztók, reduktorok.
+## a) halszállító gépjármű;
+
+## b) halszállító tartályok;
+
+## c) folyékony oxigéntartályok;
+
+## d) porlasztók, reduktorok.
 
 ## 4. Halkeltető és intenzív rendszerek gépei, eszközei:
 
@@ -48,7 +54,7 @@
 
 ## b) vízanalitikai mérőeszközök, berendezések.
 
-## 6. Egyéb gépek, eszközök:
+## 6.[^97] Egyéb gépek, eszközök:
 
 ## a) vízszivattyúk;
 
@@ -66,8 +72,17 @@
 
 ## h) vagyonvédelmi eszközök és berendezések;
 
-## i) lánctalpas kotrógép.
+## i) lánctalpas kotrógép;
 
-3. melléklet az 50/2011. (VI. 6.) VM rendelethez[^60]
+## j) úszó kotrógép;
 
-[^60]: A 3. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (2) bekezdésével megállapított szöveg.
+## k) tárcsa;
+
+## l) borona.
+
+3. melléklet az 50/2011. (VI. 6.) VM rendelethez[^98]
+
+[^95]: A 2. melléklet 2. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^96]: A 2. melléklet 3. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^97]: A 2. melléklet 6. pontja a 85/2013. (IX. 25.) VM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^98]: A 3. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (2) bekezdésével megállapított, a 85/2013. (IX. 25.) VM rendelet 19. § (3) bekezdése szerint módosított szöveg.

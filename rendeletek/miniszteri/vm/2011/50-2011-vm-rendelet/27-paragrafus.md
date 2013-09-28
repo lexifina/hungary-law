@@ -4,7 +4,7 @@
 
 ## 18. A támogatás célja
 
-27. §[^37] (1) A támogatás célja:
+27. §[^50] (1) A támogatás célja:
 
 a) az akvakultúra termelési kapacitás növelése új halgazdaságok építésével;
 
@@ -16,7 +16,7 @@ d) a környezetvédelmi szempontokat figyelembe véve a termelékenység és a h
 
 e) halkeltetők építése, felújítása, illetve modernizálása, a haltermelés során a környezeti terhelés csökkentése;
 
-f) a halászati telephelyeken történő közvetlen értékesítési lehetőségek kiszélesítése;
+f)[^51] a közvetlen értékesítési lehetőségek kiszélesítése;
 
 g) az akvakultúra ágazatban dolgozók munka- és biztonsági körülményeinek, valamint jövedelmi helyzetének javítása, továbbá a munkahelyek megőrzése.
 
@@ -30,6 +30,8 @@ c) 3. alintézkedés: halkeltetők építése, bővítése, korszerűsítése;
 
 d) 4. alintézkedés: telephelyen megvalósuló szociális- és munkakörülményeket javító beruházások;
 
-e) 5. alintézkedés: a telephelyeken történő közvetlen értékesítés lehetőségeinek kiszélesítése.
+e)[^52] 5. alintézkedés: a közvetlen értékesítési lehetőségek kiszélesítése.
 
-[^37]: A 27. § a 86/2011. (IX. 1.) VM rendelet 3. §-ával megállapított szöveg.
+[^50]: A 27. § a 86/2011. (IX. 1.) VM rendelet 3. §-ával megállapított szöveg.
+[^51]: A 27. § (1) bekezdés f) pontja a 85/2013. (IX. 25.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^52]: A 27. § (2) bekezdés e) pontja a 85/2013. (IX. 25.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.

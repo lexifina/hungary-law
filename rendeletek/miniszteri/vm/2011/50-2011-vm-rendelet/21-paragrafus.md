@@ -1,4 +1,4 @@
-## 20. § Építéssel járó tevékenységek esetén az utolsó kifizetési kérelemhez mellékelni kell a jogerős használatbavételi engedélyt, vízi létesítmények esetében a jogerős vízjogi üzemeltetési engedélyt, közlekedési hatósági engedéllyel rendelkező utak esetében a jogerős forgalomba helyezési engedélyt.
+## 20. §[^42] Építéssel járó tevékenységek esetén az utolsó kifizetési kérelemhez mellékelni kell a jogerős használatbavételi engedélyt, vízi létesítmények esetében a jogerős vízjogi üzemeltetési engedélyt, közlekedési hatósági engedéllyel rendelkező utak esetében a jogerős forgalomba helyezési engedélyt, vagy a használatbavétel tudomásulvételéről kiállított hatósági igazolást.
 
 ## 13. Gépberuházásokra vonatkozó külön rendelkezések
 
@@ -13,3 +13,5 @@ c) amelyeknek gyártásától a támogatási kérelem benyújtásáig 2 évnél 
 (2) A támogatási kérelem módosítására a gép, technológiai berendezés tekintetében az ügyfélnek a kifizetési kérelem benyújtásakor van lehetősége. Kizárólag a támogatási határozatban szereplő gépekkel, technológiai berendezésekkel egyenértékű gépek, technológiai berendezések beszerzése támogatható a kifizetési kérelem elbírálása során. Egyenértékűnek kell tekinteni azt a gépet, technológiai berendezést, amely a támogatási határozatban szereplő géppel azonos gépváltozathoz tartozik.
 
 (3) A támogatási kérelem módosítása esetén a 13. § (3) bekezdésében foglalt feltételt a támogatási döntéssel jóváhagyott elszámolható kiadások összegére vonatkozóan kell teljesíteni.
+
+[^42]: A 20. § a 85/2013. (IX. 25.) VM rendelet 8. §-ával megállapított szöveg.

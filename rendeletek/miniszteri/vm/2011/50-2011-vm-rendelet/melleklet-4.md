@@ -176,7 +176,7 @@
 
 ## Kiválasztási kritériumok
 
-## Belvízi halászat 2.2.
+## Természetes vízi halgazdálkodás 2.2.
 
 | A | B | C |
 
@@ -238,7 +238,7 @@
 
 | 3.2. Ágazati szerveződés (az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 3 |
 
-| 3.2.1. | Az ügyfél a kérelem benyújtásakor halászat termelői szervezet, vagy halászati termelői csoport tagja | 2 |
+| 3.2.1. | Az ügyfél a kérelem benyújtásakor halászati termelői szervezet, vagy halászati termelői csoport tagja | 2 |
 
 | 3.2.2. | Az ügyfél a kérelem benyújtásakor, halászati ágazati érdekképviseleti szervezet tagja | 1 |
 
@@ -404,7 +404,7 @@
 
 | 5. Mindösszesen: |  | max.: 100 |
 
-4. melléklet az 50/2011. (VI. 6.) VM rendelethez
+4. melléklet az 50/2011. (VI. 6.) VM rendelethez[^99]
 
 Monitoring adatok
 
@@ -424,7 +424,7 @@ Monitoring adatok
 
 | 1.6. | Mekkora volt az árbevétele (kettős könyvelést vezetőknél az értékesítés nettó árbevétele, kettős könyvelést nem vezetőknél az adóalapba beszámító bevétele)? |
 
-| 1.7. | Mekkora volt a kizárólag halászati tevékenységből származó árbevétele? |
+| 1.7. | Mekkora volt a kizárólag halgazdálkodási tevékenységből származó árbevétele? |
 
 | 1.8. | Mekkora volt az adózás előtti eredménye (ha Ön kettős könyvvitelt vezet) illetve vállalkozási adóalapja (ha Ön nem vezet kettős könyvvitelt)? |
 
@@ -565,3 +565,5 @@ Monitoring adatok
 | 3.28. | Kizárólag a támogatásnak köszönhetően hány tonnányi kapacitást ért el a felújított halfeldolgozó üzemben a tárgyévben? |
 
 | 3.29. | Kizárólag a támogatásnak köszönhetően hány tonnányi kapacitást ért el a felújított halfeldolgozó üzemben a beruházás megkezdésétől tárgyév végéig összesen? |
+
+[^99]: A 4. melléklet a 85/2013. (IX. 25.) VM rendelet 19. § (4) bekezdése szerint módosított szöveg.

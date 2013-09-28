@@ -6,7 +6,7 @@
 
 ## 1.1.1. kettős könyvvitelt vezető vállalkozások esetében az utolsó két lezárt üzleti évre vonatkozó számviteli beszámolót, kettős könyvvitelt nem vezetők esetében az utolsó két év adóbevallása. Egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozó éves beszámoló/adóbevallás
 
-## 1.1.2. induló vállalkozások esetében szakmai végzettséget igazoló bizonyítvány hiteles másolata, vagy legalább 3 éves halászati szakmai tapasztalatról szóló igazolás.
+## 1.1.2. induló vállalkozások esetében szakmai végzettséget igazoló bizonyítvány hiteles másolata, vagy legalább 3 éves halgazdálkodási szakmai tapasztalatról szóló igazolás.
 
 ## 1.2. Építési, illetve vízjogi engedélyköteles beruházások esetén:
 
@@ -25,6 +25,8 @@
 ## 1.2.7. nem saját tulajdonú ingatlan esetén a tulajdonos hozzájáruló nyilatkozata a beruházáshoz;
 
 ## 1.2.8. felújítást tartalmazó építési beruházások esetén a beruházás tárgyát képző létesítmény érvényes vízjogi üzemeltetési engedélye;
+
+## 1.2.9. intenzív haltermelő üzem önálló gépbeszerzési projektjénél a halszállító gépjármű, erőgépek és talajművelő eszközök támogatása esetén a kérelem benyújtását megelőző évre vonatkozóan a megyei halászati felügyelőnek benyújtott – az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti – „Lehalászás” című jelentőlap másolata.
 
 ## 1.3. Értékelést befolyásoló dokumentumok:
 
@@ -72,7 +74,7 @@
 
 ## 2.4.2. TIR igazolás másolata
 
-## 3. A belvízi (természetes vízi) halászat című intézkedéshez nyújtandó támogatások
+## 3. A természetes vízi halgazdálkodás című intézkedéshez nyújtandó támogatások
 
 ## 3.1. Általános dokumentumok:
 
@@ -80,10 +82,10 @@
 
 ## 3.1.2. egyéni vállalkozó nyilvántartási számát, amennyiben az ügyfél egyéni vállalkozó;
 
-## 3.1.3. a kérelem által érintett halászati vízterület pályázóra vonatkozó halászati jogosultságának igazolása.
+## 3.1.3. a kérelem által érintett halgazdálkodási vízterület pályázóra vonatkozó halgazdálkodási jogosultságának igazolása.
 
 ## 3.2. Egyéb dokumentumok: árajánlatok.
 
-2. melléklet az 50/2011. (VI. 6.) VM rendelethez[^59]
+2. melléklet az 50/2011. (VI. 6.) VM rendelethez[^94]
 
-[^59]: A 2. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^94]: A 2. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.

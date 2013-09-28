@@ -1,6 +1,6 @@
 ## 16. Közbeszerzés
 
-24. § (1)[^33] Amennyiben az ügyfél az adott tevékenység vonatkozásában közbeszerzési eljárás lefolytatására kötelezett, vagy a közbeszerzésekről szóló 2003. évi CXXIX. törvényt (a továbbiakban: Kbt.) önként alkalmazza, a közbeszerzési eljárást megindító felhívás, illetve hirdetmény „az aktába rendelt hivatkozási szám” rovatában hivatkozási számként fel kell tüntetnie az ügyfél Tv. szerinti regisztrációs számát.
+24. § (1)[^45] Amennyiben az ügyfél az adott tevékenység vonatkozásában közbeszerzési eljárás lefolytatására kötelezett, vagy a közbeszerzésekről szóló 2003. évi CXXIX. törvényt (a továbbiakban: Kbt.) önként alkalmazza, a közbeszerzési eljárást megindító felhívás, illetve hirdetmény „az aktába rendelt hivatkozási szám” rovatában hivatkozási számként fel kell tüntetnie az ügyfél Tv. szerinti regisztrációs számát.
 
 (2) Az ügyfél köteles
 
@@ -18,10 +18,10 @@ annak megjelenését – közbeszerzési eljárást indító hirdetmény közvet
 
 (4) Ha a közbeszerzési eljárás megindítását az ügyfél igazolta, a művelet megvalósításának – a 18. § (1) bekezdésében foglalt – határideje gépbeszerzés esetén 6 hónappal, építési beruházás esetén 12 hónappal meghosszabbodik.
 
-(5)[^34] Ha az ügyfél ellen a Közbeszerzési Döntőbizottság EHA támogatással összefüggő jogorvoslati eljárást indít, az ügyfél köteles ezt a körülményt az MVH-nak bejelenteni. A bejelentést a Közbeszerzési Döntőbizottság által az eljárás megindításáról történő értesítést követő munkanapon az MVH által rendszeresített nyomtatványon kell megtenni.
+(5)[^46] Ha az ügyfél ellen a Közbeszerzési Döntőbizottság EHA támogatással összefüggő jogorvoslati eljárást indít, az ügyfél köteles ezt a körülményt az MVH-nak bejelenteni. A bejelentést a Közbeszerzési Döntőbizottság által az eljárás megindításáról történő értesítést követő munkanapon az MVH által rendszeresített nyomtatványon kell megtenni.
 
-(6)[^35] Az (5) bekezdés alapján az MVH a támogatási és a kifizetési kérelem elbírálását felfüggeszti. Az MVH a kérelem elbírálását a Közbeszerzési Döntőbizottság érdemi határozatának vagy a közbeszerzési ügy befejezését eredményező végzésének a közlését követően folytatja.
+(6)[^47] Az (5) bekezdés alapján az MVH a támogatási és a kifizetési kérelem elbírálását felfüggeszti. Az MVH a kérelem elbírálását a Közbeszerzési Döntőbizottság érdemi határozatának vagy a közbeszerzési ügy befejezését eredményező végzésének a közlését követően folytatja.
 
-[^33]: [A 24. § (1) bekezdésének a 97/2012. (IX. 13.) VM rendelet 15. § (4) bekezdésével elrendelt módosítása, amely szerint a „2003. évi CXXIX. törvény” szövegrész helyébe a „2011. évi CVIII. törvény” szöveg lép, nem vezethető át.]
-[^34]: A 24. § (5) bekezdése a 97/2012. (IX. 13.) VM rendelet 9. §-ával megállapított szöveg.
-[^35]: A 24. § (6) bekezdése a 97/2012. (IX. 13.) VM rendelet 9. §-ával megállapított szöveg.
+[^45]: [A 24. § (1) bekezdésének a 97/2012. (IX. 13.) VM rendelet 15. § (4) bekezdésével elrendelt módosítása, amely szerint a „2003. évi CXXIX. törvény” szövegrész helyébe a „2011. évi CVIII. törvény” szöveg lép, nem vezethető át.]
+[^46]: A 24. § (5) bekezdése a 97/2012. (IX. 13.) VM rendelet 9. §-ával megállapított szöveg.
+[^47]: A 24. § (6) bekezdése a 97/2012. (IX. 13.) VM rendelet 9. §-ával megállapított szöveg.
