@@ -64,6 +64,7 @@ c) a miniszterelnök döntése szerint meghívottként részt vehet a Testület 
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13. A 11. pont a hatálybalépést követő napon hatályát veszti.
+13.[^2]
 
 [^1]: A 11. pontot a 13. pont hatályon kívül helyezte.
+[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
