@@ -8,7 +8,7 @@ b) az erdőgazdálkodó,
 
 c) a kertészeti termelő
 
-## [a továbbiakban az a)–c) pontok együtt: ügyfél], ha a TSzK-val a 3. § szerinti célterületekre szolgáltatói szerződést köt, amelynek teljesítési határideje a naptári évet követő év április 30-nál nem későbbi időpontra köthető ki, illetve módosítható. A naptári éven túli határidő módosítás esetén az ügyfél a következő naptári évre szóló szerződése alapján csak akkor jogosult támogatásra, ha annak hatálybalépése nem korábbi, mint az előző naptári évre szóló szerződés teljesítési határideje. A 2013. évre kötött szaktanácsadási szerződések legkésőbbi teljesítési határideje: 2013. október 15.
+## [a továbbiakban az a)–c) pontok együtt: ügyfél], ha a TSzK-val a 3. § szerinti célterületekre szolgáltatói szerződést köt, amelynek legkésőbbi teljesítési határideje a 2013. évre kötött szaktanácsadási szerződések esetében 2013. december 31., a 2014. évre kötött szaktanácsadási szerződések esetében 2014. szeptember 15.
 
 (2)[^15] Az ügyfél – további jogosultsági feltételként – a szaktanácsadási szolgáltatáshoz kapcsolódó támogatást csak abban az esetben veheti igénybe, ha nem minősül bejegyzett szaktanácsadónak, nem TSzK, és
 
@@ -51,7 +51,7 @@ e)[^18]
 (7)[^21] A szaktanácsadási szolgáltatói szerződések az (5) bekezdés szerinti kvóta meghatározását követően folyamatosan köthetők.
 
 [^13]: Az 5. § a 168/2009. (XII. 15.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^14]: Az 5. § (1) bekezdése a 112/2012. (XI. 7.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (1) bekezdése a 86/2013. (IX. 27.) VM rendelet 1. §-ával megállapított szöveg.
 [^15]: Az 5. § (2) bekezdése a 112/2012. (XI. 7.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (3) bekezdés a) pontja a 91/2011. (X. 3.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^17]: Az 5. § (3) bekezdés b) pontja a 112/2012. (XI. 7.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.

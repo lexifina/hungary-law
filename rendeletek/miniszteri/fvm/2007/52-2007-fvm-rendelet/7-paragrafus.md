@@ -1,17 +1,17 @@
-## Az egyesített támogatási-kifizetési kérelem elbírálása[^25]
+## Az egyesített támogatási-kifizetési kérelem elbírálása[^28]
 
-7. §[^26] (1)[^27] Az egyesített támogatási-kifizetési kérelmeket a TSzK kvótájának figyelembevételével az MVH a Tv. 32. §
+7. §[^29] (1)[^30] Az egyesített támogatási-kifizetési kérelmeket a TSzK kvótájának figyelembevételével az MVH a Tv. 32. §
 
 (1) bekezdés c) pontja szerint, a TSzK és az ügyfél között létrejött szolgáltatási szerződés hatálybalépésének dátuma szerinti sorrend alapján bírálja el.
 
-(2)[^28] Amennyiben a támogatás kedvezményezettje – a támogatási-kifizetési határozatban foglaltak szerint – erdőgazdálkodó, a kedvezményezett értesítése, a támogatás ellenőrzése és folyósítása során az általános „de minimis” rendelet 2. és 3. cikkében meghatározottak szerint kell eljárni.
+(2)[^31] Amennyiben a támogatás kedvezményezettje – a támogatási-kifizetési határozatban foglaltak szerint – erdőgazdálkodó, a kedvezményezett értesítése, a támogatás ellenőrzése és folyósítása során az általános „de minimis” rendelet 2. és 3. cikkében meghatározottak szerint kell eljárni.
 
 (3) E rendelet vonatkozásában az általános „de minimis” rendelet 3. cikk 3. pontja szerinti nyilvántartást az MVH vezeti.
 
-(4)[^29] A TSzK kvótájának mennyiségét a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) tartja nyilván, a TSzK-k által elektronikusan megküldött adatok alapján.
+(4)[^32] A TSzK kvótájának mennyiségét a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) tartja nyilván, a TSzK-k által elektronikusan megküldött adatok alapján.
 
-[^25]: A 7. §-t megelőző alcím a 112/2012. (XI. 7.) VM rendelet 5. §-ával megállapított szöveg.
-[^26]: A 7. § a 91/2011. (X. 3.) VM rendelet 5. §-ával megállapított szöveg.
-[^27]: A 7. § (1) bekezdése a 112/2012. (XI. 7.) VM rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^28]: A 7. § (2) bekezdése a 112/2012. (XI. 7.) VM rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^29]: A 7. § (4) bekezdését a 112/2012. (XI. 7.) VM rendelet 6. §-a iktatta be.
+[^28]: A 7. §-t megelőző alcím a 112/2012. (XI. 7.) VM rendelet 5. §-ával megállapított szöveg.
+[^29]: A 7. § a 91/2011. (X. 3.) VM rendelet 5. §-ával megállapított szöveg.
+[^30]: A 7. § (1) bekezdése a 112/2012. (XI. 7.) VM rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^31]: A 7. § (2) bekezdése a 112/2012. (XI. 7.) VM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 7. § (4) bekezdését a 112/2012. (XI. 7.) VM rendelet 6. §-a iktatta be.

@@ -184,7 +184,7 @@
 
 | Tec4 | Pályázatírás (ÚMVP jogcímekre, ha a jogcím keretében a pályázatírás nem támogatható) | (1) c) |
 
-| Tea1 | Élelmiszter-biztonság 23.5 (kölcsönös megfeleltetés 11. követelmény) | (1) a) |
+| Tea1 | Élelmiszer-biztonság 23.5 (kölcsönös megfeleltetés 11. követelmény) | (1) a) |
 
 | Tea2 | Talaj- és vízvédelem 23.2 (kölcsönös megfeleltetés 2., 3. és 4. követelmény) | (1) a) |
 
@@ -212,7 +212,7 @@
 
 |  | Agroturizmus |  |
 
-| Agc1 | Falusi turizmus fejlesztési terv elkészítése | (1) c) |
+| Agc1 | Falusi turizmus fejlesztési terv elkészítése | (1)  c) |
 
 | Agc2 | Fejlesztési projekt kidolgozása | (1) c) |
 
@@ -226,7 +226,7 @@
 
 | Tvc4 | Rekultivációs terv készítéséhez tanácsadás | (1) c) |
 
-| Tvc5 | Szakszerű talajmintavétel (GPS-es jelöléssel), rajzzal egybekötve | (1) c) |
+| Tvc5 | Szakszerű talajmintavétel (GPS-es jelöléssel), rajzzal egybekötve, növénymintavétel | (1) c) |
 
 | Tvc6 | Szennyvíziszap mezőgazdasági felhasználását megalapozó tanácsadás | (1) c) |
 
@@ -250,6 +250,6 @@
 
 | Vfc2 | Tevékenység diverzifikálás | (1) c) |
 
-2–3. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^53]
+2–3. számú melléklet az 52/2007. (VI. 28.) FVM rendelethez[^58]
 
-[^53]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
+[^58]: A 2–3. számú mellékletet a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.

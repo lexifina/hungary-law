@@ -1,6 +1,5 @@
-## 10/C. §[^49] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 18/2013. (III. 21.) VM rendelet (a továbbiakban: 18/2013. (III. 21.) VM rendelet) által megállapított 8. § (10) bekezdését a 18/2013. (III. 21.) VM rendelet hatálybalépésekor[^50] folyamatban levő ügyekben is alkalmazni kell.
+## 10/D. §[^55] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről szóló 52/2007. (VI. 28.) FVM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet módosításáról szóló 86/2013. (IX. 27.) VM rendelettel [a továbbiakban: 86/2013. (IX. 27.) VM rendelet] megállapított 6. § (7) bekezdését és 8. § (10) bekezdését a 86/2013. (IX. 27.) VM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^49]: A 10/C. §-t a 18/2013. (III. 21.) VM rendelet 3. § (4) bekezdése iktatta be.
-[^50]: A hatálybalépés napja: 2013. március 22.
+[^55]: A 10/D. §-t a 86/2013. (IX. 27.) VM rendelet 4. §-a iktatta be.
