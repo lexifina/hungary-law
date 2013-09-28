@@ -250,7 +250,7 @@ Előirányzat:
 
 Az előirányzat a Ferihegyi út meghosszabbítása támogatásának 2013. évi ütemét szolgálja.
 
-Felhatalmazást kap a fejlesztéspolitikáért felelős miniszter, hogy támogatási szerződést kössön a Fővárosi Önkormányzattal a b) és c) pont szerinti, valamint Budapest Főváros XVII. Rákosmente Önkormányzatával az f) pont szerinti támogatás felhasználásának részletes szabályairól.
+Felhatalmazást kap a Kormány európai uniós támogatások felhasználásáért felelős tagja, hogy támogatási szerződést kössön a Fővárosi Önkormányzattal a b) és c) pont szerinti, valamint Budapest Főváros XVII. Rákosmente Önkormányzatával az f) pont szerinti támogatás felhasználásának részletes szabályairól.
 
 Felhatalmazást kap a vízgazdálkodási szervezetek irányításáért felelős miniszter, hogy a Fővárosi Önkormányzattal támogatási szerződést kössön a d) pont szerinti támogatás felhasználásának részletes szabályairól.
 

@@ -45,3 +45,5 @@ alakulását, továbbá javaslatot tesz az (5) bekezdés szerinti kiadási elői
 (18) A Nemzeti Választási Iroda feladatellátása érdekében a Kormány átcsoportosítást hajthat végre azon előirányzatok terhére, amelyek a Nemzeti Választási Iroda hatáskörébe tartozó feladatok kiadásait tartalmazzák.
 
 (19) A Köztársasági Elnöki Hivatal főigazgatója a II. Köztársasági Elnökség fejezet, 2. cím 2. alcím 3. Államfői protokoll kiadásai jogcímcsoport terhére átcsoportosítást hajthat végre a II. Köztársasági Elnökség fejezet, 1. Köztársasági Elnöki Hivatal cím javára.
+
+(20) A szociál- és nyugdíjpolitikáért felelős miniszter a 2013. évi központi költségvetés január–szeptember havi előzetes tényadatai alapján 2013. október 31-éig az államháztartásért felelős miniszterrel egyetértésben a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. Költségvetési befizetések cím, 5. Nyugdíjbiztosítási Alap befizetése alcím javára történő befizetési kötelezettséget határozhat meg a LXXI. Nyugdíjbiztosítási Alap, 4. Egyéb befizetések cím, 1. Költségvetési befizetések alcím terhére.

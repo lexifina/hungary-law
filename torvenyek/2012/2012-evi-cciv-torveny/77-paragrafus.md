@@ -28,11 +28,11 @@ c) a közlekedésért felelős miniszter, hogy – a helyi önkormányzatokért 
 
 d) a helyi önkormányzatokért felelős miniszter, hogy – az államháztartásért felelős miniszter véleményének kikérésével – a 3. melléklet 6. pontja szerinti támogatás,
 
-e) a helyi önkormányzatokért felelős miniszter, hogy – a fejlesztéspolitikáért felelős miniszter és az államháztartásért felelős miniszter egyetértésével – a 3. melléklet 8. pontja szerinti támogatás,
+e) a helyi önkormányzatokért felelős miniszter, hogy – a Kormány európai uniós támogatások felhasználásáért felelős tagja, a fejlesztéspolitikáért felelős miniszter és az államháztartásért felelős miniszter egyetértésével – a 3. melléklet 8. pontja szerinti támogatás,
 
 f) a gyermekek és az ifjúság védelméért felelős miniszter, hogy – az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter véleményének kikérésével – a 3. melléklet 9. pontja szerinti támogatás,
 
-g) a helyi önkormányzatokért felelős miniszter, hogy – az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter, az államháztartásért felelős miniszter és a fejlesztéspolitikáért felelős miniszter véleményének kikérésével – a 3. melléklet 10. pont aa)–ac) alpontja szerinti támogatások,
+g) a helyi önkormányzatokért felelős miniszter, hogy – az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter, az államháztartásért felelős miniszter, a fejlesztéspolitikáért felelős miniszter és a Kormány európai uniós támogatások felhasználásáért felelős tagja véleményének kikérésével – a 3. melléklet 10. pont aa)–ac) alpontja szerinti támogatások,
 
 h) a kultúráért felelős miniszter, hogy – a fejlesztéspolitikáért felelős miniszter és az államháztartásért felelős miniszter véleményének kikérésével – a 3. melléklet 11. pontja szerinti támogatás,
 

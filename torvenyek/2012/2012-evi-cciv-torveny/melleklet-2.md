@@ -16,7 +16,7 @@ FAJLAGOS ÖSSZEG: 4 580 000 forint/fő
 
 A központi költségvetés támogatást biztosít az önkormányzati hivatal működési kiadásaihoz a következők szerint:
 
-aa) 2013. év első négy hónapjára időarányos támogatás (a továbbiakban: átmeneti támogatás) illeti meg az önkormányzatot annak figyelembevételével, ahogy - az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet (a továbbiakban: Ávr.) alapján 2012. október 15-éig megvalósított, normatív hozzájárulás, támogatás módosítására vonatkozó felmérés alapján - az önkormányzati hivatal működtetéséről 2012. év december hónapban gondoskodott,
+aa) 2013. év első négy hónapjára időarányos támogatás (a továbbiakban: átmeneti támogatás) illeti meg az önkormányzatot annak figyelembevételével, ahogy - Ávr. alapján 2012. október 15-éig megvalósított, normatív hozzájárulás, támogatás módosítására vonatkozó felmérés alapján - az önkormányzati hivatal működtetéséről 2012. év december hónapban gondoskodott,
 
 ab) 2013. május 1-jétől nyolc havi időarányos támogatás illeti meg az önkormányzatot annak figyelembevételével, ahogy a törzskönyvi nyilvántartás szerint az önkormányzati hivatali feladatokról 2013. április 15-én gondoskodik, vagy ha a közös hivatalhoz tartozó településeket a kormányhivatal vezetője jelölte ki, és ennek átvezetése a törzskönyvi nyilvántartásban 2013. április 15-éig nem történt meg, a kijelölés szerint.
 

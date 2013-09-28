@@ -36,7 +36,7 @@ gyakorolja.
 
 (5) A IX. Helyi önkormányzatok támogatásai fejezet esetében a helyi önkormányzatokért felelős miniszter, a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet esetében az államháztartásért felelős miniszter, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet esetében az állami vagyon felügyeletéért felelős miniszter, a XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet esetében az agrárpolitikáért felelős miniszter gyakorolja az (1) bekezdésben meghatározott jogokat és kötelezettségeket.
 
-(6) A XIX. Uniós fejlesztések fejezet tekintetében a fejezetet irányító szerv vezetőjének az (1) bekezdésben megjelölt jogait és kötelezettségeit a Nemzeti Fejlesztési Ügynökség elnöke, szabályozási jogait és kötelezettségeit a fejlesztéspolitikáért felelős miniszter gyakorolja.
+(6) A XIX. Uniós fejlesztések fejezet tekintetében a fejezetet irányító szerv vezetőjének az (1) bekezdésben megjelölt jogait és kötelezettségeit a Kormány európai uniós támogatások felhasználásáért felelős tagjának irányítása alatt álló, az európai uniós támogatások igénybevételében közreműködő központi hivatal elnöke, szabályozási jogait és kötelezettségeit a Kormány európai uniós támogatások felhasználásáért felelős tagja gyakorolja.
 
 (7) A XVI. Nemzeti Adó- és Vámhivatal fejezet tekintetében a fejezetet irányító szerv vezetőjének az (1) bekezdésben megjelölt jogait és kötelezettségeit a NAV elnöke, szabályozási jogait és kötelezettségeit az adópolitikáért felelős miniszter gyakorolja.
 
