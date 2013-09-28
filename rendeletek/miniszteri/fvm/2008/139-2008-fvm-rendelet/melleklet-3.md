@@ -2,7 +2,7 @@
 
 | Az ÚMVP Képző szervezet neve: |  |
 
-| a 6. § (1) bekezdés c) pontja szerinti regisztrációs száma: |  |
+| a 6. § (1) bekezdés c) pontja szerinti ügyfél-azonosító száma: |  |
 
 | .......... évre tervezett képzések |
 
@@ -14,6 +14,6 @@
 
 ## A táblázat sorainak száma igény szerint bővíthető.
 
-3. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^74]
+3. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^83]
 
-[^74]: A 3. számú melléklet a 47/2013. (VI. 7.) VM rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^83]: A 3. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Az egyesített támogatási és kifizetési kérelem adattartalma
 
-## – A felnőttképzési szerződés száma,
+## – a felnőttképzési szerződés száma,
 
 ## – a támogatási célterület megjelölése,
 
@@ -12,7 +12,7 @@
 
 ## – a felnőttképzési szerződés megkötésének, és hatálybalépésének dátuma,
 
-## – a képző szervezet neve, regisztrációs száma,
+## – a képző szervezet neve, ügyfél-azonosító száma,
 
 ## – a képzés kezdete, vége,
 
@@ -26,8 +26,8 @@
 
 ## – a pénzügyi teljesítést igazoló bizonylat azonosítója, a szolgáltatásazonosító,
 
-## – az elszámolni kívánt nettó kiadás és az áfakulcs.
+## – az elszámolni kívánt nettó kiadás és az áfa kulcs.
 
-6. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^77]
+6. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^86]
 
-[^77]: A 6. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (4) bekezdése iktatta be.
+[^86]: A 6. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (4) bekezdése iktatta be.

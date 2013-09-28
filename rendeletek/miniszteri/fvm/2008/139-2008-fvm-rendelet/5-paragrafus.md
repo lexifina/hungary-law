@@ -1,8 +1,8 @@
-## 4/A. §[^18]
+## 4/A. §[^19]
 
 ## A támogatás mértéke
 
-5. §[^19] (1) Az egy naptári évben, egy ügyfél által benyújtott kérelmek alapján megállapítható támogatás összege az 1. célterületre vonatkozóan legfeljebb 275 000 forint.
+5. §[^20] (1)[^21] Az egy naptári évben, egy ügyfél által benyújtott kérelmek alapján megállapítható támogatás összege az 1. célterületre vonatkozóan a 2013. augusztus 31-ét követően benyújtásra kerülő kérelmek esetében legfeljebb 570 000 forint.
 
 (2) Nem támogatható az a támogatási és kifizetési kérelem, amely esetén a támogatás nem éri el a 10 000 forintot.
 
@@ -12,5 +12,6 @@
 
 (5) A támogatás mértéke az elszámolható kiadás 100%-a.
 
-[^18]: A 4/A. §-t és az azt megelőző alcímet a 4/2013. (II. 4.) VM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés b) pontja.
-[^19]: Az 5. § a 47/2013. (VI. 7.) VM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^19]: A 4/A. §-t és az azt megelőző alcímet a 4/2013. (II. 4.) VM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 47/2013. (VI. 7.) VM rendelet 2. § (13) bekezdés b) pontja.
+[^20]: Az 5. § a 47/2013. (VI. 7.) VM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^21]: Az 5. § (1) bekezdése a 86/2013. (IX. 27.) VM rendelet 8. §-ával megállapított szöveg.

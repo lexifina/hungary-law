@@ -1,4 +1,4 @@
-## 10/B. §[^67] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről 139/2008. (X. 22.) FVM rendelet módosításáról szóló 90/2011. (X. 3.) VM rendelettel [a továbbiakban: 90/2011. (X. 3.) VM rendelet] módosított 7. § (6) és (10) bekezdését, valamint 8. § (3), (4) és (5) bekezdését a 90/2011. (X. 3.) VM rendelet hatálybalépésekor[^68] folyamatban lévő ügyekben is alkalmazni kell.
+## 10/B. §[^72] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről 139/2008. (X. 22.) FVM rendelet módosításáról szóló 90/2011. (X. 3.) VM rendelettel [a továbbiakban: 90/2011. (X. 3.) VM rendelet] módosított 7. § (6) és (10) bekezdését, valamint 8. § (3), (4) és (5) bekezdését a 90/2011. (X. 3.) VM rendelet hatálybalépésekor[^73] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^67]: A 10/B. §-t a 90/2011. (X. 3.) VM rendelet 8. §-a iktatta be.
-[^68]: A hatálybalépés időpontja: 2011. október 3. 13.00 óra.
+[^72]: A 10/B. §-t a 90/2011. (X. 3.) VM rendelet 8. §-a iktatta be.
+[^73]: A hatálybalépés időpontja: 2011. október 3. 13.00 óra.

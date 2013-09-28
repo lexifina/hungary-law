@@ -14,12 +14,12 @@
 
 | ....... órától | ........... óráig | Oktató neve | Oktató aláírása |
 
-## A képzésen részt vevők:
+## A képzésen résztvevők:
 
-| Ügyfél neve | Ügyfél reg. száma | Részt vevő személy neve | Részt vevő személy aláírása |
+| Ügyfél neve | Ügyfél ügyfél-azonosító száma | Részt vevő személy neve | Részt vevő személy aláírása |
 
 ## (Szükség esetén a sorok száma növelhető.)
 
-4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^75]
+4. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^84]
 
-[^75]: A 4. számú melléklet a 4/2013. (II. 4.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^84]: A 4. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
