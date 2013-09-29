@@ -1,1 +1,0 @@
-## „(10) Kifizetés alapját csak a (7) bekezdésben foglaltaknak megfelelő számviteli bizonylaton szereplő kiadás képezheti. Amennyiben a bizonylat a (7) bekezdés b) pontjában foglaltaknak való meg nem felelés miatt került elutasításra, úgy az elutasított bizonylat más kifizetési kérelemhez kapcsolódóan ismételten nem nyújtható be.”

@@ -1,3 +1,0 @@
-## 7. § A 139/2008. (X. 22.) FVM rendelet 4. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) Támogatás csak olyan felnőttképzési szerződés alapján nyújtható, amely tartalmazza a támogatást igénylő ügyfél nevét és a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Eljárási tv.) 28. §-a szerinti ügyfél-azonosító számát, mint a szerződés alapján a képzés költségeit viselő adatait. A jogcím keretében kizárólag az ügyfél nevére kiállított számla fogadható el.”
