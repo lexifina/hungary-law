@@ -1,1 +1,0 @@
-## „j) a tóépítési és tófelújítási munkák esetében az irtás föld és sziklamunka esetén a normagyűjtemény díj, anyag és gépköltség árainak legfeljebb 50%-a fogadható el a támogatás számításának alapját képező elszámolható költségként.”
