@@ -1,1 +1,0 @@
-A Kormány a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 30. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján a következőket rendeli el:
