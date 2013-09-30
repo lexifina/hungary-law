@@ -6,7 +6,7 @@ b) a fogyatékossági támogatás folyósításának, elszámolásának szabály
 
 c)
 
-d) a Fogyatékosügyi Tanács szervezetére és működésére vonatkozó részletes szabályokat.
+d)
 
 e) az e törvény alapján nyújtott ellátás igénylésével, megállapításával, folyósításával és ellenőrzésével, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat.
 
