@@ -1,6 +1,6 @@
 1. Az Országgyűlés az Alkotmány 21. §-ának (1) bekezdése, valamint a Házszabály 10. §-ának (1) bekezdése alapján az Országgyűlés tisztségviselőivé a következő képviselőket választja:
 
-Elnök: dr. Kövér László (Fidesz)[^1]
+Elnök: dr. Kövér László (Fidesz)[^2]
 
 Alelnök:
 
@@ -16,7 +16,7 @@ Balczó Zoltán (Jobbik)
 
 Jegyző:
 
-dr. Tiba István (Fidesz)[^2]
+dr. Tiba István (Fidesz)[^3]
 
 Földesi Gyula (Fidesz)
 
@@ -24,7 +24,7 @@ dr. Szűcs Lajos (Fidesz)
 
 Móring József Attila (KDNP)
 
-dr. Vejkey Imre (KDNP)[^3]
+Spaller Endrét (KDNP)[^4]
 
 Göndör István (MSZP)
 
@@ -32,16 +32,16 @@ Nyakó István (MSZP)
 
 Hegedűs Lorántné (Jobbik)
 
-Z. Kárpát Dániel (Jobbik)[^4]
+Z. Kárpát Dániel (Jobbik)[^5]
 
-Szilágyi Péter (független)[^5]
+Osztolykán Ágnes (LMP)[^6]
 
 2. E határozat elfogadásakor lép hatályba.
 
 3. Hatályát veszti az Országgyűlés tisztségviselőinek megválasztásáról szóló 13/2006. (V. 16.) OGY határozat, valamint az azt módosító 75/2007. (IX. 28.) OGY határozat, 53/2009. (VI. 18.) OGY határozat, 62/2009. (VII. 3.) OGY határozat, 71/2009. (IX. 15.) OGY határozat, 97/2009. (XII. 15.) OGY határozat, továbbá az Országgyűlés tisztségviselőinek megválasztásáról szóló 13/2006. (V. 16.) OGY határozat kiegészítéséről szóló 16/2006. (VI. 9.) OGY határozat.
 
-[^1]: A 60/2010. (VII. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Kövér László 2010. augusztus 6-ától az Országgyűlés elnöke.
-[^2]: Az 5/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Tiba István 2011. február 22-étől az Országgyűlés jegyzője.
-[^3]: Az 59/2013. (VI. 20.) OGY határozat 1. pontjával megállapított szöveg. Dr. Vejkey Imre 2013. június 17-étől az Országgyűlés jegyzője.
-[^4]: A 82/2012. (XI. 22.) OGY határozat 1. pontjával megállapított szöveg.
-[^5]: A 8/2013. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^2]: A 60/2010. (VII. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Kövér László 2010. augusztus 6-ától az Országgyűlés elnöke.
+[^3]: Az 5/2011. (II. 23.) OGY határozat 1. pontjával megállapított szöveg. Dr. Tiba István 2011. február 22-étől az Országgyűlés jegyzője.
+[^4]: A 79/2013. (X. 1.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 82/2012. (XI. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 79/2013. (X. 1.) OGY határozat 1. pontjával megállapított szöveg.

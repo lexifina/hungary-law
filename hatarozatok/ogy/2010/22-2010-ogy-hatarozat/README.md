@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-22-30-4
 | 2012-11-19 | 2010-22-30-41.4 | 82/2012. (XI. 22.) OGY határozat |
 | 2013-02-25 | 2010-22-30-41.5 | 8/2013. (III. 5.) OGY határozat |
 | 2013-06-17 | 2010-22-30-41.6 | 59/2013. (VI. 20.) OGY határozat |
+| 2013-09-30 | 2010-22-30-41.7 | 79/2013. (X. 1.) OGY határozat |
