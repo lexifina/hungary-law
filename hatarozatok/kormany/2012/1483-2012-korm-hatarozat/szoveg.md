@@ -10,12 +10,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-2. felhívja a nemzeti fejlesztési miniszter útján a Nemzeti Fejlesztési Ügynökség elnökét, hogy
+2.[^2]
 
-a) a kiválasztási kritériumok potenciálisan tág megállapítása esetén a pályázati útmutatóban kerüljön feltüntetésre a sorsolásos eljárás alkalmazása, arra az esetre, ha az első napon beérkezett pályázatok támogatási igénye a teljes rendelkezésre álló keretet meghaladja,
-
-b) a pályázati kiírás forráskeretét az első napon meghaladó támogatási igény beérkezése esetén a Nemzeti Fejlesztési Ügynökség a pályázatok közül sorsolás útján hirdessen nyertest, a vonatkozó akcióterv pályázati kiírásra rendelkezésre álló keretösszege erejéig.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: folyamatos
+[^2]: A 2. pontot a Kormány az 1681/2013. (IX. 30.) Korm. határozatával visszavonta.
