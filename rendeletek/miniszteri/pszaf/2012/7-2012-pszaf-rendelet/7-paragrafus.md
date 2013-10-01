@@ -1,5 +1,0 @@
-## Tájékoztatás a panaszkezelést megelőzően és annak folyamán
-
-7. § (1) A szolgáltató köteles a pénztártag részére a panaszkezeléssel összefüggésben az e rendeletben foglaltak szerint tájékoztatást adni, ennek során egyszerű nyelvezetet használni és kerülni a jogi szakkifejezések indokolatlan használatát.
-
-(2) Szóbeli panasz esetén – ha a panasz azonnali kivizsgálása nem lehetséges vagy az nem vezet eredményre – a szolgáltató köteles a pénztártaggal közölni a panasz azonosítására szolgáló adatokat.
