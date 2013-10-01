@@ -16,7 +16,7 @@ d) kizárólag a kiszervezett tevékenységre a kiszervezett tevékenységet vé
 
 e) Kártalanítási Számla, továbbá a Kártalanítási Alap kezelésével foglalkozó szervezetnek a Számla kezelésével kapcsolatos tevékenységére;
 
-f) a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által ellátott – e törvényben meghatározott – felügyeleti tevékenységre; valamint
+f) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) – e törvényben meghatározott – tevékenységére; valamint
 
 g) azon vállalkozások – e törvényben meghatározott – kötelezettségeire, amelyekre az összevont alapú, illetőleg a kiegészítő felügyelet kiterjed.
 

@@ -2,7 +2,7 @@
 
 180. § (1) Az összevont alapú felügyeleti feladatok ellátása érdekében a Felügyelet – rendszeresen vagy esetenként – jelentést, adatot, illetőleg információt kérhet az összevont alapú felügyelet alá tartozó biztosítótól, amely köteles azt a Felügyeletnek megadni.
 
-(2) A Felügyeletnek az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeres adatszolgáltatás módját a Felügyelet elnöke rendeletben állapítja meg.
+(2) A Felügyelet részére teljesítendő, az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeres adatszolgáltatás módját a Magyar Nemzeti Bank elnöke rendeletében állapítja meg.
 
 (3) Az összevont alapú felügyelet alá tartozó biztosítónak rendelkeznie kell az összevont alapú felügyelet ellátásához szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetve azok megbízhatóságát biztosító belső ellenőrzési rendszerrel.
 

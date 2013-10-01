@@ -34,4 +34,4 @@ köteles foglalkoztatni.
 
 (10) Az (1) bekezdés a)–d) pontjai szerinti egyéb vezetőket – tanácskozási joggal – a biztosító közgyűlésének felelősségi területüket érintő napirendi pontjai tárgyalására meg kell hívni.
 
-(11) A Kártalanítási Számlát, illetve a Kártalanítási Alapot kezelő szervezet a Kártalanítási Számla és a Kártalanítási Alap kezelésével kapcsolatos tevékenység végzésére az (1) bekezdés a)–c) pontjaiban meghatározott egyéb vezetőt köteles alkalmazni.
+(11)

@@ -1,4 +1,4 @@
-220. § (1) Biztosító felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki, vagy választható meg.
+220. § (1) Biztosító felszámolójának kizárólag az MNBtv. 39. §-ában meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki vagy választható meg.
 
 (2) A felszámolót a 153–165. §-ban előírt titoktartási kötelezettség terheli.
 
