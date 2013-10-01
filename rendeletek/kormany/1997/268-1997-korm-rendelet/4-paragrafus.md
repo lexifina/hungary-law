@@ -4,7 +4,7 @@
 
 (2) A befektetéseket úgy kell megválasztani, hogy az egyes befektetések hozama – fedezeti ügyletek kivételével – a lehető legkisebb mértékben függjön más befektetések hozamától.
 
-(3)[^8] A befektetett pénztári eszközök állománya csak a támogató adománya vagy az induló vagyon összetétele miatt térhet el az e rendeletben előírt arányoktól és formáktól. Az eltérésről a Pénzügyi Szervezetek Állami Felügyeletét (a továbbiakban: Felügyelet) a befektetési és likviditási jelentés benyújtásával egyidejűleg értesíteni kell.
+(3)[^8] A befektetett pénztári eszközök állománya csak a támogató adománya vagy az induló vagyon összetétele miatt térhet el az e rendeletben előírt arányoktól és formáktól. Az eltérésről a pénztárak pénzügyi felügyeletét ellátó szervet (a továbbiakban: Felügyelet) a befektetési és likviditási jelentés benyújtásával egyidejűleg értesíteni kell.
 
 (4)[^9] Amennyiben a pénztár az induló vagyon részeként vagy a támogató adománya miatt az e rendeletben meghatározott eszközcsoportokba nem tartozó, befektetett pénztári eszköznek minősített befektetéssel rendelkezik, azt be nem sorolt befektetett pénztári eszközként kell kimutatni.
 
@@ -18,7 +18,7 @@ b) a be nem sorolt befektetett pénztári eszközöket az eszközcsoportok köz�
 
 (7)[^12] Nem minősül saját vagyonkezelési tevékenységnek, amennyiben a pénztár vagyonkezelésbe ki nem helyezett befektetett eszközei kizárólag házipénztárban, pénzforgalmi számlán, befektetési számlán – likviditási célból, átmeneti jelleggel – vannak elhelyezve.
 
-[^8]: A 4. § (3) bekezdése a 260/2003. (XII. 24.) Korm. rendelet 1. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 131. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 4. § (3) bekezdése a 260/2003. (XII. 24.) Korm. rendelet 1. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 131. §-a, a 345/2013. (IX. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^9]: A 4. § (4) bekezdése a 260/2003. (XII. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^10]: A 4. § (5) bekezdését a 260/2003. (XII. 24.) Korm. rendelet 1. §-a iktatta a szövegbe.
 [^11]: A 4. § (6) bekezdését a 263/2005. (XII. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 367/2007. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
