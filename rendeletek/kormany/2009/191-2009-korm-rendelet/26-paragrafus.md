@@ -1,53 +1,22 @@
-26. § (1) Az építési naplóba és mellékleteibe bejegyzést tehet
+26. §[^167] (1) Az e-főnaplót és az e-alnaplót a 2. melléklet szerinti tartalommal és formában kell vezetni.
 
-a) az építtető, a beruházáslebonyolító,
+(2) Az e-főnapló vezetése a fővállalkozó kivitelezőnek vagy megbízása esetén a fővállalkozó kivitelező felelős műszaki vezetőjének, az e-alnapló vezetése az alvállalkozó kivitelezőnek vagy megbízása esetén az alvállalkozó kivitelező felelős műszaki vezetőjének a feladata.
 
-b) az építési műszaki ellenőr, a tervezői művezető,
+(3) A fő- vagy megrendelő vállalkozó kivitelező a vele szerződéses viszonyban álló alvállalkozó e-alnaplójának vezetését átvállalhatja. A fő- vagy megrendelő vállalkozó kivitelező, az alvállalkozó e-alnapló vezetésének átvállalása esetén ezen alvállalkozóval szerződéses viszonyban álló további alvállalkozó e-alnaplójának a vezetését is átvállalhatja. Az e-főnapló vagy az e-alnapló vezetésének átvállalását, átadását mindkét fél jóváhagyásával kell rögzíteni az e-főnaplóban vagy e-alnaplóban. A naplóvezetés átvállalása nem vonatkozhat azokra a naplórészekre és mellékletekre, amelyet kizárólag a naplóvezetésre kötelezett tölthet ki, így a teljesítésigazolási naplóra, az elektronikus alvállalkozói nyilvántartásra és a gyűjtőnaplóra.
 
-c) a vállalkozó (fővállalkozó) kivitelező, illetve az alvállalkozó kivitelező,
+(4)[^168]
 
-d) a felelős műszaki vezető,
+(5) Az a vállalkozó kivitelező, amely vagy aki a saját építési naplójának vezetését átadta, az átadás időtartama alatt nem vállalhatja át az alvállalkozója építési naplójának vezetését.
 
-e) a külön jogszabályban meghatározott esetekben az építésfelügyeleti hatóság, valamint az ellenőrzésre és bejegyzésre külön jogszabállyal feljogosított más hatóság,
+(6) Minden átvállalt e-alnapló vezetését a saját napló vezetésétől elkülönülten, külön-külön kell végeznie az átvállaló vállalkozó kivitelező felelős műszaki vezetőjének.
 
-f) a külön jogszabály szerinti biztonsági és egészségvédelmi koordinátor.
+(7) Az átvállalt e-alnaplóba történt, átvállaló általi bejegyzésekkel kapcsolatosan az e-alnapló vezetésére eredetileg kötelezett alvállalkozó az e-alnaplóban észrevételt tehet vagy az e-naplóban rögzített nyilatkozatával bármikor visszaveheti az e-napló vezetését. Ebben az esetben az alvállalkozó további alvállalkozójának az e-alnapló vezetésének átadására vonatkozó megállapodása is megszűnik.
 
-(2) Az építtető, illetve az építtető megbízása alapján az építési műszaki ellenőr a fővállalkozó kivitelezőnek vagy a felelős műszaki vezetőjének az építőipari kivitelezési tevékenység végzésével kapcsolatban az építési naplóban utasítást adhat.
+(8) Az e-főnaplóba és e-alnaplóba az építési napló vezetésére kötelezett a napi bejegyzést, valamint a kivitelezés egyéb dokumentumait közvetlenül az e-napló internetes alkalmazásba vagy az e-napló alkalmazás helyi futtatására alkalmas számítástechnikai eszköz igénybevételével köteles rögzíteni. A naplóvezetésre kötelezettnek gondoskodnia kell arról, hogy a helyi számítástechnikai eszközzel rögzített napi bejegyzés és egyéb dokumentumok legfeljebb a bejegyzési vagy dokumentálási kötelezettség napjától számított három napon belül az internetes alkalmazásban is rögzítésre kerüljenek.
 
-(3) Az alvállalkozó kivitelező által vezetett építési naplóban a vállalkozó (fővállalkozó) kivitelező, illetve annak felelős műszaki vezetője adhat utasítást az építési-szerelési munkával kapcsolatosan.
+(9) Az e-főnaplónak és az e-alnaplónak azokat a munkarészeit, amelyek nem kerültek még az e-napló internetes alkalmazásban rögzítésre, a helyszínen elérhetővé kell tenni azok számára, akik abba bejegyezhetnek, vagy akik abba betekinthetnek.
 
-(4) Az építési naplóba bejegyzésre jogosult a korábbi bejegyzésekre ellenészrevételt tehet, és a bejegyzések tudomásulvételét aláírásával igazolja.
+(10) Az építési napló vezetésére kötelezett – az építőipari kivitelezési tevékenység végzésének ideje alatt, az építési munkaterületen – kérésre hozzáférést biztosít az e-főnaplóhoz, az e-alnaplóhoz és ezek mellékleteihez a bejegyzésre vagy betekintésre jogosultak részére.
 
-(5) Az építési naplóba és mellékleteibe betekinthet
-
-a) az építésügyi (létesítési, műemlék esetén az örökségvédelmi) hatóság,
-
-b) az ellenőrzésre jogszabályban feljogosított más hatóság,
-
-c) a helyszíni ellenőrzést folytató munkavédelmi és munkaügyi hatóság,
-
-d) az építés helye szerint illetékes Adó- és Pénzügyi Ellenőrzési Hivatal (a továbbiakban: APEH) és ennek területi szervei,
-
-e) az építtetői fedezetkezelő.
-
-(6) Az építési napló mellékletei:
-
-a) a jogerős építésügyi hatósági (műemlék esetén örökségvédelmi hatósági) engedély és a hozzá tartozó, jóváhagyott, engedélyezési záradékkal ellátott dokumentáció,
-
-b) az ellenőrző hatóságok által készített okiratok,
-
-c) a használatbavételi engedélyezési eljáráshoz szükséges felelős műszaki vezetői nyilatkozat,
-
-d) a felmérési napló,
-
-e) a vállalkozó, illetve alvállalkozó kivitelező által vezetett vagy vezettetett egyéb naplók,
-
-f) a tervezői művezető által átadott tervrajzok,
-
-g) a megfelelőség igazolások nyilvántartása,
-
-h)[^150] a kivitelezéssel kapcsolatos mérési jegyzőkönyveket, felülvizsgálati jegyzőkönyveket, elvégzett üzempróbák jegyzőkönyveit, üzembehelyezési vizsgálati tanúsítványokat, egyéb jegyzőkönyvek, tervrajzok, számítások és okiratok,
-
-i) az alvállalkozó kivitelező kötelezettsége teljesítésében közreműködő – vele szerződéses viszonyban álló – további alvállalkozó kivitelező 27. § (9) bekezdés szerinti adatai.
-
-[^150]: A 26. § (6) bekezedés h) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § p) pontja szerint módosított szöveg.
+[^167]: A 26. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^168]: A 26. § (4) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.

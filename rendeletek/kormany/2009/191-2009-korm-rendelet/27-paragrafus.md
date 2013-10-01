@@ -1,25 +1,48 @@
-27. § (1)[^151] Az építési napló címoldalból, sorszámozott és azonosító jellel ellátott nyilvántartási rész lapokból és folyamatosan számozott naplórészből áll.
+27. §[^169] (1) Az e-napló készenlétének lezárásáig – a naplóvezetésre kötelezetten túl – bejegyzést tehet
 
-(2) Az építési naplóba a bejegyzéseket úgy kell megtenni, hogy azon később észrevehetetlenül ne lehessen változtatni vagy a bejegyzést eltávolítani.
+a) az e-főnaplóba és mellékleteibe az építtető, az építési műszaki ellenőr vagy a beruházási tanácsadó, továbbá – ha az erre irányuló feladat meghatározást az írásbeli szerződésük tartalmazza – a beruházáslebonyolító vagy a tervezői művezető,
 
-(3) Az építési napló nyilvántartási rész lapjait az építési napló megnyitásakor kell kitölteni és a nyilvántartási rész tartalomjegyzékébe sorszám és azonosító jel szerint nyilvántartásba venni. A még nem ismert adatokat azok tudomásra jutásakor kell felvezetni és a nyilvántartási részhez csatolni. A nyilvántartási rész lapjait annak kitöltésekor dátummal kell ellátni, valamint az építtetőnek és a fővállalkozó kivitelezőnek – ha az építési naplót az alvállalkozó kivitelező vezeti a vállalkozó kivitelezőnek és az alvállalkozó kivitelezőnek – alá kell írnia.
+b) az e-alnaplóba és mellékleteibe a napló vezetésére kötelezett alvállalkozó kivitelezővel szerződéses viszonyban álló fő- vagy megrendelő vállalkozó kivitelező, továbbá a fő- vagy megrendelő vállalkozó kivitelező felelős műszaki vezetője,
 
-(4) Az építési napló mellékleteiről az építési napló nyilvántartási részében sorszámozott jegyzéket kell vezetni.
+c) valamennyi e-főnaplóba, e-alnaplóba és mellékleteibe az építésfelügyeleti hatóság,
 
-(5) A naplórészt naponta kell vezetni, naprakész állapotban kell tartani. A naplórész „napi jelentés” rovatának adatait akkor is minden nap ki kell tölteni, ha az építési munkahelyen bejegyzést igénylő esemény nem történt. Az egyéb bejegyzéseket az esemény bekövetkezése napján kell megtenni.
+d) az e-főnaplóba és mellékleteibe a biztonsági és egészségvédelmi koordinátor,
 
-(6) Ha egy építmény építőipari kivitelezése során több egymást követő naplórész megnyitására van szükség, mert a naplórész betelt, a naplórész köteteket folytatólagosan római számmal kell sorszámozni, és minden naplórész oldalon a sorszámozás előtt a kötet sorszámát is fel kell tüntetni. A betelt naplórész kötet lezárásának, valamint az új kötet megnyitásának dátumát a nyilvántartási rész tartalomjegyzékébe be kell jegyezni.
+e) az e-főnapló és az e-alnapló alvállalkozói nyilvántartás mellékletébe az építtetői fedezetkezelő,
 
-(7) A naplórészt hézag és margó kihagyása nélkül úgy kell vezetni, hogy utólagos bejegyzésnek ne legyen helye. Az ábrák mellett üresen maradt részeket át kell húzni. A bejegyzéseket az aláírás után naponta vízszintes vonallal le kell zárni.
+f) az e-főnapló és e-alnapló hatósági napló-mellékletébe az ellenőrzésre és bejegyzésre külön jogszabállyal feljogosított más hatóságok.
 
-(8) A naplórész a 2. melléklet szerinti napi jelentésből és eseti bejegyzésekből áll.
+(2) Az e-főnaplóba és e-alnaplóba a bejegyzésre jogosult a más jogosult bejegyzésére ellenészrevételt tehet vagy a bejegyzéseket tudomásul veheti.
 
-(9) Az építési napló alvállalkozókról vezetett nyilvántartási része tartalmazza a vállalkozó (fővállalkozó) kivitelező szerződéses kötelezettsége teljesítésében részt vevő, vele szerződéses viszonyban álló alvállalkozó kivitelező megnevezését, székhelyét, adószámát, vállalkozói engedélyének vagy cégbírósági bejegyzésének számát, nyilvántartási számát, az általuk vállalt kivitelezési tevékenység rövid meghatározását, a kivitelezési tevékenység megkezdésének és befejezésének időpontját, a fizetési határidőt, az adatok helyességének igazolásaként az alvállalkozó cégszerű aláírását. A vállalkozó (fővállalkozó) kivitelező a vele szerződött alvállalkozó kivitelezők nyilvántartását – azok tevékenysége megkezdésétől – köteles vezetni, melyből egy példányt a vállalkozó kivitelező a kivitelezési tevékenységéért ellenszolgáltatási kötelezettséget vállaló szerződő félnek köteles átadni.
+(3) Az e-főnaplóba vagy e-alnaplóba és mellékleteibe betekinthet
 
-(10) Az építőipari kivitelezési tevékenységben részt vevő minden vállalkozó kivitelező építési naplója a közreműködő alvállalkozókról tartalmazza
+a) időbeli korlátozás nélkül
 
-a) a vállalkozó kivitelező által szerződésben vállalt kötelezettsége teljesítésében közreműködő, vele szerződéses viszonyban álló alvállalkozó kivitelező (9) bekezdés szerinti adatait (építési napló nyilvántartási rész), és
+aa) az építtető és helyszíni képviselője az építési műszaki ellenőr vagy beruházási tanácsadó
 
-b) a vállalkozó kivitelezővel szerződéses viszonyban álló alvállalkozó kivitelező kötelezettsége teljesítésében közreműködő, vele szerződéses viszonyban álló további alvállalkozó kivitelező (9) bekezdés szerinti adatait (építési napló melléklete).
+ab) az (1) bekezdés c) pontja szerinti hatóság,
 
-[^151]: [A 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 13. pontjával elrendelt módosítás, amely szerint a „lapokból, és folyamatosan számozott naplórészből áll” szövegrész helyébe a „lapokból, folyamatosan számozott naplórészből és összesítő lapból áll” szöveg lép, nem vezetehető át.]
+ac) az építésügyi hatóság,
+
+ad) a Nemzeti Adó- és Vámhivatal építés helye szerint illetékes szerve,
+
+ae) külön jogszabályban az ellenőrzésre időkorlátozás nélkül feljogosított más hatóság,
+
+b) az e-napló készenlétének lezárásáig
+
+ba) az ellenőrzésre jogszabályban feljogosított egyéb hatóság,
+
+bb) a helyszíni ellenőrzést folytató munkavédelmi és munkaügyi hatóság,
+
+bc) az építtetői fedezetkezelő,
+
+bd) az építtető által – egyszer használatos belépési jelszó átadásával – betekintésre felhatalmazott, az építési beruházás megvalósításához támogatást nyújtó szervezet,
+
+be) az építtető megbízása alapján a tervezői művezető.
+
+(4) Az érdekelt szerződéses feleken, az építtetői fedezetkezelői eljárásban feljogosítottak és a (3) bekezdés a) pont ad) alpontja szerinti hatóságon kívül a bejegyzésre vagy betekintésre felhatalmazottak nem jogosultak megtekinteni az e-főnaplóban, az e-alnaplóban és mellékleteikben feltüntetett fő- vagy alvállalkozói teljesítés, részteljesítés ellenértékét.
+
+(5)–(6)[^170]
+
+[^169]: A 27. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^170]: A 27. § (5)–(6) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.

@@ -1,12 +1,12 @@
-32. § (1)[^164] Az építési beruházás építőipari kivitelezési tevékenységének befejezésekor műszaki átadás-átvételi eljárást kell lefolytatni. A műszaki átadási-átvételi eljárás résztvevőit a fővállalkozó kivitelező kezdeményezésére az építtető hívja össze. Az építtető az eljárás megindításának időpontjáról, az építési engedély számáról és az építés helyszínéről az illetékes építésfelügyeleti hatóságot értesíti.
+32. §[^177] (1) Az építési beruházás építési tevékenységének befejezésekor műszaki átadás-átvételi eljárást kell lefolytatni. A műszaki átadási-átvételi eljárás résztvevőit a fővállalkozó kivitelező e-főnaplóban jelzett kezdeményezésére az építtető hívja össze. Az építtető az eljárás meghatározott időpontjának, az építési engedély számának és az építés helyszínének az e-főnaplóba történő bejegyzésével értesíti az illetékes építésfelügyeleti hatóságot, a fővállalkozó kivitelezőt és egyéb érdekelteket.
 
-(1a)[^165] A műszaki átadás-átvételi eljárás célja annak ellenőrzése, hogy az építtető és a fővállalkozó kivitelező közötti építési szerződés tárgya szerinti építőipari kivitelezési tevékenység, az építési-szerelési munka vagy a technológiai szerelés a szerződésben és jogszabályban előírtak alapján, a kivitelezési dokumentációban meghatározottak szerint maradéktalanul megvalósult-e, és a teljesítés megfelel-e az előírt műszaki és a szerződésben vállalt egyéb követelményeknek és jellemzőknek.
+(2) A műszaki átadás-átvételi eljárás célja annak ellenőrzése, hogy az építtető és a fővállalkozó kivitelező közötti építési szerződés tárgya szerinti építési tevékenység vagy a technológiai szerelés a szerződésben és jogszabályban előírtak alapján, a kivitelezési dokumentációban meghatározottak szerint maradéktalanul megvalósult-e, és a teljesítés megfelel-e az előírt műszaki és a szerződésben vállalt egyéb követelményeknek és jellemzőknek.
 
-(2) Az építtető által megbízott építési műszaki ellenőr köteles a fővállalkozó kivitelező által megjelölt időpontra kitűzött műszaki átadás-átvételi eljárás során megvizsgálni az elkészült építőipari kivitelezési tevékenységet és az építési szerződésben foglaltak teljesülését.
+(3) Az építtető vagy az általa megbízott építési műszaki ellenőr vagy beruházási tanácsadó köteles a fővállalkozó kivitelező által megjelölt időpontra kitűzött műszaki átadás-átvételi eljárás során megvizsgálni az elvégzett építési tevékenységgel az építési szerződésben foglaltak teljesülését.
 
-(3) A műszaki átadás-átvételi eljárásról három példányban jegyzőkönyvet kell készíteni. A jegyzőkönyv egy-egy példánya az építtetőt és a fővállalkozó kivitelezőt illeti, illetve egy példány az építési napló mellékletét képezi.
+(4) A műszaki átadás-átvételi eljárásról elektronikus jegyzőkönyvet (a továbbiakban: e-jegyzőkönyvet) kell készíteni és azt az e-főnaplóhoz mellékletként csatolni.
 
-(4) A jegyzőkönyv tartalmazza mindazokat a tényeket, amelyekre jogvita esetén jelentősek lehetnek, így különösen
+(5) Az e-jegyzőkönyv tartalmazza mindazokat a tényeket, amelyek jogvita esetén jelentősek lehetnek, így különösen
 
 a) az eljárás kezdetének és befejezésének időpontját,
 
@@ -14,9 +14,9 @@ b) a műszaki átadás-átvételi eljárásban résztvevők nevét, megnevezés�
 
 c) az építtető által érvényesíteni kívánt szavatossági igényeket,
 
-d) az építtető észrevételeit,
+d) az építtető észrevételeit a szerződésben foglaltak teljesítéséről,
 
-e) a műszaki átadás-átvételi eljárás során felfedezett mennyiségi és minőségi hibákat, hiányokat, hiányosságok megnevezését (jelentősebb tételszám esetén – az átadás-átvételi jegyzőkönyv mellékletét képező – külön hiánypótlási jegyzőkönyv vagy hibajegyzék, hiányjegyzék is készíthető),
+e) a műszaki átadás-átvételi eljárás során felfedezett mennyiségi és minőségi hibák, hiányok, hiányosságok megnevezését (jelentősebb tételszám esetén az átadás-átvételi jegyzőkönyv mellékletét képező külön hiánypótlási jegyzőkönyv vagy hibajegyzék, hiányjegyzék is készíthető),
 
 f) a hibás munkarészekre eső költségvetési összegeket,
 
@@ -24,26 +24,22 @@ g) a jogszabályban előírt nyilatkozatokat,
 
 h) az építtető döntését arról, hogy átveszi-e az építményt,
 
-i) az építtető döntését arról, hogy igényt tart-e a hibák kijavítására vagy árengedményt kér, és
+i) az építtető döntését arról, hogy igényt tart-e a hibák kijavítására vagy árengedményt kér, valamint
 
-j) a résztvevők aláírását.
+j) a résztvevők részéről a jegyzőkönyv jóváhagyását.
 
-(5) Ha az építtető a hibák, hiányok, hiányosságok kijavítását kéri, a műszaki átadás-átvételi jegyzőkönyvnek tartalmaznia kell a kijavítás határidejét, valamint a kijavításért és az átvételért felelős személy megnevezését. Ha hiánypótlási jegyzőkönyv vagy hibajegyzék, hiányjegyzék is készült, akkor azt a fővállalkozó kivitelezőnek alá kell írnia.
+(6) Ha az építtető a hibák, hiányok, hiányosságok kijavítását kéri, az e-jegyzőkönyvnek tartalmaznia kell a kijavítás határidejét, valamint a kijavításért és az átvételért felelős személy megnevezését. Ha hiánypótlási elektronikus jegyzőkönyv vagy elektronikus hibajegyzék, elektronikus hiányjegyzék is készült, akkor azt is az e-főnaplóhoz mellékletként kell csatolni.
 
-(6) A fővállalkozó kivitelező felelős műszaki vezetője a mennyiségi és minőségi hibák, hiányosságok kijavítását követően átadja a szerződésben vállalt és elvégzett tevékenységet tartalmazó teljesítési összesítőt az építési műszaki ellenőrnek.
+(7) A fővállalkozó kivitelező vagy annak felelős műszaki vezetője a mennyiségi és minőségi hibák, hiányosságok kijavítását követően az e-teljesítésigazolási naplórészben rögzíti a szerződésben vállalt és elvégzett tevékenységet tartalmazó e-teljesítési összesítőt.
 
-(7)[^166] A műszaki átadás-átvételi eljáráson felmerült és jegyzőkönyvbe vett hibák, hiányosságok kijavítását követően kiállított – fővállalkozó kivitelezői teljesítéshez kapcsolódó – teljesítésigazolás alapját a műszaki igazolás képezi. Az építési műszaki ellenőr a fővállalkozó kivitelező teljesítésének ellenőrzését követően
+(8) A műszaki átadás-átvételi eljáráson felmerült és az e-jegyzőkönyvbe vett hibák, hiányosságok kijavítását követően kiállított – a fővállalkozó kivitelezői teljesítéshez kapcsolódó – e-teljesítésigazolás alapját az elektronikus műszaki igazolás (a továbbiakban: e-műszaki igazolás) képezi. Az építtető vagy az általa megbízott építési műszaki ellenőr, beruházási tanácsadó a fővállalkozó kivitelező teljesítésének ellenőrzését követően
 
-a) teljesítésigazolást állít ki a műszaki igazolásban rögzített kivitelezési munkák meghatározásáról, az elvégzett építőipari kivitelezési tevékenység mértékéről, mennyiségéről és minőségéről, a teljesítés időpontjáról és a számlázható összegről, vagy
+a) e-teljesítésigazolást állít ki az e-műszaki igazolásban rögzített kivitelezési munkák meghatározásáról, az elvégzett építőipari kivitelezési tevékenység mértékéről, mennyiségéről és minőségéről, a teljesítés időpontjáról és a számlázható összegről vagy
 
-b) a 16. § (3) bekezdés p) pontja szerinti esetben műszaki igazolást állít ki a teljesített kivitelezési munkák meghatározásáról, az elvégzett építőipari kivitelezési tevékenység mértékéről, mennyiségéről és minőségéről, a teljesítés időpontjáról és a feladat ellátására vonatkozó szerződésében meghatározottak szerint javaslatot tesz a fővállalkozói kivitelező által számlázható összeg meghatározására.
+b) a 16. § (3) bekezdés p) pontja szerinti esetben e-műszaki igazolást állít ki a teljesített kivitelezési munkák meghatározásáról, az elvégzett építőipari kivitelezési tevékenység mértékéről, mennyiségéről és minőségéről, a teljesítés időpontjáról és a feladat ellátására vonatkozó szerződésében meghatározottak szerint javaslatot tesz a fővállalkozó kivitelező által számlázható összeg meghatározására.
 
-(8)[^167]
+(9) Az építtető az e-teljesítésigazolás alapján kiállított számla ellenértékét – eltérő törvényi rendelkezés hiányában – a számla kézhezvételének napját követő 30 napon belül fizeti ki a fővállalkozó kivitelezőnek.
 
-(9)[^168] Építtetői fedezetkezelő közreműködése esetén a vállalkozó kivitelező köteles a teljesítéséről, részteljesítéséről kiállított számlája benyújtásának időpontjáig a teljesítésben, részteljesítésben megjelenő – vele szerződéses viszonyban álló – alvállalkozó kivitelező teljesítésének, részteljesítésnek pénzügyi elszámolását elvégezni, amely magába foglalja a teljesítésigazolás kiállítását és az alvállalkozó részéről a számla benyújtását. A vállalkozó kivitelező a számla teljes körű kiegyenlítésére – a 21/A. §-ban foglalt kivétellel – csak akkor jogosult, ha a kötelezettsége teljesítésében részt vevő alvállalkozó kivitelezők követelését kiegyenlítette, függetlenül azok fizetési határidejétől.
+(10) Építtetői fedezetkezelő közreműködése esetén a fő- vagy megrendelő vállalkozó kivitelező köteles a teljesítéséről, részteljesítéséről kiállított számlája benyújtásának időpontjáig a teljesítésben, részteljesítésben megjelenő, vele szerződéses viszonyban álló alvállalkozó kivitelező teljesítésének, részteljesítésnek pénzügyi elszámolását elvégezni, amely magába foglalja az e-teljesítésigazolás kiállítását és az alvállalkozó részéről a számla benyújtását. A vállalkozó kivitelező a benyújtott számlája teljes körű kiegyenlítésére – a 21/A. §-ban foglalt kivétellel – csak akkor jogosult, ha a kötelezettsége teljesítésében részt vevő alvállalkozó kivitelezők követelését kiegyenlítette, függetlenül azok fizetési határidejétől.
 
-[^164]: A 32. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (32) bekezdésével megállapított szöveg.
-[^165]: A 32. § (1a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (32) bekezdése iktatta be.
-[^166]: A 32. § (7) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (33) bekezdésével megállapított szöveg.
-[^167]: A 32. § (8) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés g) pontja hatályon kívül helyezte.
-[^168]: A 32. § (9) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (33) bekezdésével megállapított szöveg.
+[^177]: A 32. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.

@@ -30,9 +30,12 @@ m)[^10] alvállalkozó kivitelező: a megrendelő vállalkozó kivitelezővel é
 
 n)[^11] megrendelő vállalkozó kivitelező: az alvállalkozóval építési szerződést kötő, ellenszolgáltatásra kötelezett vállalkozó kivitelező,
 
+o)[^12] elektronikus építési napló: az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendeletben e-építési naplóként meghatározott elektronikus alkalmazás.
+
 [^6]: A 2. § a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 1. pont 1.1. alpontja szerint módosított szöveg.
 [^7]: A 2. § j) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § k) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (1) bekezdésével megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 1. pont 1.2. alpontja szerint módosított szöveg.
 [^9]: A 2. § l) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 1. pont 1.3. alpontja szerint módosított szöveg.
 [^10]: A 2. § m) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
 [^11]: A 2. § n) pontját a 322/2012. (XI. 16.) Korm. rendelet 56. § (2) bekezdése iktatta be.
+[^12]: A 2. § o) pontját a 322/2012. (XI. 16.) Korm. rendelet 56. § (3) bekezdése iktatta be.

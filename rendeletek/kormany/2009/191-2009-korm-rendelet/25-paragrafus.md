@@ -1,13 +1,33 @@
-## Az építési napló vezetésének szabályai
+## Az elektronikus építési napló[^164]
 
-25. § (1) Az építési naplót a 2. melléklet szerinti tartalommal és formában kell vezetni.
+25. §[^165] (1)–(2)[^166]
 
-(2) Az építési naplót magyar nyelven egy eredeti és egy másolati példányban kell vezetni. Az építési napló első példánya a fővállalkozó kivitelezőt, másodpéldánya az építtetőt illeti meg.
+(3) Az e-napló része az elektronikus építési főnapló (a továbbiakban: e-főnapló) és az elektronikus építési alnapló (a továbbiakban: e-alnapló).
 
-(3) Ha az alvállalkozó kivitelező vezeti az építési naplót, az építési napló első példánya az alvállalkozó kivitelezőt, másodpéldánya a vállalkozó (fővállalkozó) kivitelezőt illeti meg. A naplópéldány átvételét a naplóban el kell ismerni.
+(4) Az építésügyi vagy építésfelügyeleti hatóság megszünteti az e-napló készenlétét, ha
 
-(4) Az építési naplót az építőipari kivitelezési tevékenység végzésének ideje alatt az építési munkaterületen hozzáférhető helyen kell őrizni, innen a napló csak hatósági, bírósági eljárásban való felhasználás céljából vihető el. A hatósági, bírósági eljárás ideje alatt a bejegyzéseket külön íven kell vezetni, majd azokat az építési naplóhoz kell mellékelni.
+a) e-főnaplót nem nyitották meg és az építési vagy bontási engedély hatálya lejárt,
 
-(5) Ha az építési napló elvész vagy megsemmisül, akkor erről jegyzőkönyvet kell felvenni és a naplót a rendelkezésre álló adatok alapján haladéktalanul újra fel kell fektetni.
+b) bontás tudomásulvétele esetén egy év eltelt,
 
-(6) A vállalkozó (fővállalkozó) kivitelező, ha a köztük megkötött szerződésben erről állapodtak meg, az alvállalkozói építési napló vezetését átvállalhatja. Az erről szóló megállapodást mindkét fél aláírásával az építési naplóban kell rögzíteni.
+c) közbeszerzés hatálya alá tartozó, de építési, bontási engedélyhez vagy bontás tudomásulvételi eljáráshoz nem kötött építőipari kivitelezési tevékenység esetén a kérelemben megadott építési szerződésben szereplő határidő lejárt,
+
+d) az e-főnapló megnyitására sor került, és
+
+da) – az (5) bekezdésben foglalt kivétellel – az építtető az elkészült építményre jogerős és végrehajtható használatbavételi engedéllyel rendelkezik, vagy a használatára tudomásulvétellel jogosulttá vált, vagy
+
+db) közbeszerzés hatálya alá tartozó, de építési, bontási engedélyhez vagy bontás tudomásulvételi eljáráshoz nem kötött építőipari kivitelezési tevékenység esetén az e-naplóban megadott építési szerződéses határidő lejárt, és annak meghosszabbítására nem került sor.
+
+(5) Ha a használatbavételi engedély rendelkezik hiányzó építési tevékenységek elvégzésének kötelezettségéről, akkor az építésügyi hatóság e tevékenységek befejezését követően szünteti meg az e-napló készenlétét.
+
+(6) Az építtető a fővállalkozó kivitelező e-főnaplóját a fővállalkozói szerződés adatainak rögzítésével és a fővállalkozó számára hozzáférést biztosító, egyszer használatos belépési jelszó generálásával párhuzamosan állítja készenlétbe.
+
+(7) A fővállalkozó vagy megrendelő vállalkozó kivitelező, a vele szerződésben álló alvállalkozó kivitelező e-alnaplóját az alvállalkozói szerződés adatainak rögzítésével és az alvállalkozó számára hozzáférést biztosító, egyszer használatos belépési jelszó generálásával párhuzamosan állítja készenlétbe.
+
+(8) A fő- és alvállalkozó kivitelező a (6)–(7) bekezdés szerint kapott, egyszer használatos belépési jelszó segítségével képezhet egyedi végleges jelszót, melynek felhasználásával teljesítheti az e-napló alkalmazásban az előírt naplóvezetési kötelezettségét. Ha a fő- vagy alvállalkozó kivitelező a felelős műszaki vezetőt bízta meg a napló vezetésével, a hozzáférést egyszer használatos belépési jelszó átadásával biztosítja.
+
+(9) A fővállalkozó kivitelező az e-főnaplót, az alvállalkozó kivitelező az e-alnaplót az építési munkaterület átvételekor az átvétel időpontjának rögzítésével nyitja meg, és az építőipari kivitelezési tevékenység befejezését követően az építési munkaterületről levonulás időpontjának rögzítésével zárja le.
+
+[^164]: A 25. §-t megelőző alcím a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^165]: A 25. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^166]: A 25. § (1)–(2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.

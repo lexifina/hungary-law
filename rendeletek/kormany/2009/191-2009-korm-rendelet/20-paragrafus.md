@@ -4,9 +4,9 @@
 
 (2) Az építtetői fedezetkezelő a teljesítésigazolásban megjelölt összegről kiállított számla alapján, a teljesítésigazolásban elismert ellenértéket a rendelkezése alá helyezett fedezetből a fővállalkozó kivitelező részére köteles – a (4) és (6) bekezdésben meghatározottak figyelembevételével – fizetési határidőn belül kifizetni.
 
-(3)[^124] Az építtetői fedezetkezelő az építőipari kivitelezési tevékenység fedezetével – a (4)–(6) bekezdés szerinti eset összegének kivételével – az építtető és a fővállalkozó kivitelező felé az építőipari kivitelezési tevékenység befejezéseként benyújtott végszámla kiegyenlítését követő öt munkanapon belül számol el.
+(3)[^134] Az építtetői fedezetkezelő az építőipari kivitelezési tevékenység fedezetével – a (4)–(6) bekezdés szerinti eset összegének kivételével – az építtető és a fővállalkozó kivitelező felé az építőipari kivitelezési tevékenység befejezéseként benyújtott végszámla kiegyenlítését követő öt munkanapon belül számol el.
 
-(4)[^125] Az építtetői fedezetkezelő – az alvállalkozói nyilvántartás adatai alapján – a fővállalkozó kivitelező esedékes számlája kiegyenlítéséből köteles
+(4)[^135] Az építtetői fedezetkezelő – az alvállalkozói nyilvántartás adatai alapján – a fővállalkozó kivitelező esedékes számlája kiegyenlítéséből köteles
 
 a) visszatartani a fővállalkozó teljesítésében részt vevő alvállalkozó által a teljesítésigazolás alapján számlázott, de részére ki nem egyenlített követelésnek megfelelő összeg kifizetését, és a visszatartásról haladéktalanul köteles értesíteni azt az alvállalkozót, aki a teljesítésigazolás tartalmát vitatta, vagy
 
@@ -14,11 +14,11 @@ b) harminc napra felfüggeszteni a fővállalkozó teljesítésében részt vev�
 
 (5) Az építtetői fedezetkezelő
 
-a)[^126] a (4) bekezdés a) pontja szerint visszatartott összeget a 19. § (1) bekezdése figyelembevételével haladéktalanul kifizeti a teljesítésigazolással elismert, de határidőre ki nem egyenlített követelés jogosultjának, ha az alvállalkozóval szemben ellenszolgáltatásra kötelezett a fedezetkezelő írásbeli felszólítására két munkanapon belül nem igazolja a kifizetést,
+a)[^136] a (4) bekezdés a) pontja szerint visszatartott összeget a 19. § (1) bekezdése figyelembevételével haladéktalanul kifizeti a teljesítésigazolással elismert, de határidőre ki nem egyenlített követelés jogosultjának, ha az alvállalkozóval szemben ellenszolgáltatásra kötelezett a fedezetkezelő írásbeli felszólítására két munkanapon belül nem igazolja a kifizetést,
 
 b) az alvállalkozóval szemben ellenszolgáltatásra kötelezett vállalkozó kivitelező részére a visszatartott összeget kifizeti, ha az alvállalkozó nem igazolja a (4) bekezdés b) pontja szerinti felfüggesztés időtartama alatt a teljesítésigazoláson túli összeg vonatkozásában a vitarendezési eljárás megindítását vagy a vitatott követelés kiegyenlítése megtörténik.
 
-(6)[^127] Amennyiben a (4) bekezdés b) pontja szerinti vita eldöntése érdekében közvetítői, bírósági vagy választottbírósági eljárás indul, akkor az építtetői fedezetkezelő a (4) bekezdés b) pontja szerinti összeget a döntésig visszatartja és a jogerős döntésnek, illetve közvetítői eljárás esetén az egyezségnek megfelelően a visszatartott összeget – az alvállalkozó által az ellenszolgáltatásra kötelezett vállalkozó kivitelező nevére kiállított számla ellenében – a 19. § (1) bekezdése figyelembevételével kifizeti. Az építtetői fedezetkezelő által visszatartott összeg kifizetése az egyéb igények érvényesítését nem érinti.
+(6)[^137] Amennyiben a (4) bekezdés b) pontja szerinti vita eldöntése érdekében közvetítői, bírósági vagy választottbírósági eljárás indul, akkor az építtetői fedezetkezelő a (4) bekezdés b) pontja szerinti összeget a döntésig visszatartja és a jogerős döntésnek, illetve közvetítői eljárás esetén az egyezségnek megfelelően a visszatartott összeget – az alvállalkozó által az ellenszolgáltatásra kötelezett vállalkozó kivitelező nevére kiállított számla ellenében – a 19. § (1) bekezdése figyelembevételével kifizeti. Az építtetői fedezetkezelő által visszatartott összeg kifizetése az egyéb igények érvényesítését nem érinti.
 
 (7) Ha az alvállalkozó a bírósági vagy választottbírósági eljárás megindításának igazolására nyitva álló határidő alatt – ezen eljárások megindítása helyett – külön törvényben meghatározott közvetítői eljárást megindító nyilatkozatot (a felek és a közvetítő által aláírt szerződést) juttat el az építtetői fedezetkezelőnek, az építtetői fedezetkezelő a kifizetés felfüggesztésének megszüntetéséről a (8) bekezdés szerint intézkedik.
 
@@ -38,7 +38,7 @@ b) a közvetítői eljárás megállapodás nélkül vagy nem fejeződik be és 
 
 (10) Az építtetői fedezetkezelő a (4) bekezdés szerinti fővállalkozó kivitelezővel szembeni kifizetésből történő visszatartási kötelezettségét a fővállalkozó kivitelező által nyújtott – a visszatartandó összegnek megfelelő mértékű, a visszatartás célját szolgáló – bankgarancia elfogadásával is teljesítheti.
 
-[^124]: A 20. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 20. pontja szerint módosított szöveg.
-[^125]: A 20. § (4) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (19) bekezdésével megállapított szöveg.
-[^126]: A 20. § (5) bekezdés a) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (20) bekezdésével megállapított, a 322/2012. (XI. 16.) Korm. rendelet 92. § l) pont la) alpontja szerint módosított szöveg.
-[^127]: A 20. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 21. pontja, a 322/2012. (XI. 16.) Korm. rendelet 92. § l) pont lb) alpontja szerint módosított szöveg.
+[^134]: A 20. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 20. pontja szerint módosított szöveg.
+[^135]: A 20. § (4) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (19) bekezdésével megállapított szöveg.
+[^136]: A 20. § (5) bekezdés a) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (20) bekezdésével megállapított, a 322/2012. (XI. 16.) Korm. rendelet 92. § l) pont la) alpontja szerint módosított szöveg.
+[^137]: A 20. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 21. pontja, a 322/2012. (XI. 16.) Korm. rendelet 92. § l) pont lb) alpontja szerint módosított szöveg.

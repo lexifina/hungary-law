@@ -1,5 +1,3 @@
-## I.
-
 ## ÉPÍTÉSI HULLADÉK NYILVÁNTARTÓ LAP
 
 ## az építési tevékenység végzése során keletkező hulladékhoz
@@ -62,6 +60,6 @@
 
 | Összesen: |  |  |  |
 
-6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^204]
+6. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^222]
 
-[^204]: A 6. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 93. § t) pontja hatályon kívül helyezte.
+[^222]: A 6. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 93. § t) pontja hatályon kívül helyezte.

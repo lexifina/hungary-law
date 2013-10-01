@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-191-20-
 | 2013-01-01 | 2009-191-20-22.14 | 322/2012. (XI. 16.) Korm. rendelet |
 | 2013-04-19 | 2009-191-20-22.15 | 109/2013. (IV. 9.) Korm. rendelet |
 | 2013-07-01 | 2009-191-20-22.16 | 109/2013. (IV. 9.) Korm. rendelet |
+| 2013-10-01 | 2009-191-20-22.17 | 109/2013. (IV. 9.) Korm. rendelet |

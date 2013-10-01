@@ -4,27 +4,23 @@
 
 ## Az építési napló
 
-24. § (1)[^146] Minden építésügyi hatósági engedélyhez vagy tudomásulvételi eljáráshoz kötött, valamint a Kbt. hatálya alá tartozó építőipari kivitelezési tevékenység végzéséről építési naplót kell vezetni.
+24. § (1)[^153] Minden építésügyi hatósági engedélyhez vagy tudomásulvételi eljáráshoz kötött, valamint a Kbt. hatálya alá tartozó építőipari kivitelezési tevékenység végzéséről építési naplót kell vezetni.
 
 (2) Az építési napló az építőipari kivitelezési tevékenység megkezdésétől annak befejezéséig vezetett, hatósági és bírósági eljárásban felhasználható dokumentáció, amely időrendben tartalmazza a szerződés tárgya szerinti építőipari kivitelezési tevékenység, illetve az építési-szerelési munkák adatait, továbbá a munka menetére, megfelelőségére és dokumentumaira (pl. tervrajzi kiegészítések) vonatkozó vagy az elszámoláshoz szükséges jelentős tényeket.
 
-(3)[^147] Az építtetői fedezetkezelő közreműködése esetén elektronikus adathordozón az építési napló részét képezi az építési napló lezárásakor az elektronikus alvállalkozói nyilvántartásban rögzített alvállalkozó kivitelezők 27. § (9) bekezdése szerinti adatai.
+(3)[^154] Az építőipari kivitelezési folyamat résztvevői az előírt építésinapló-vezetési, -ellenőrzési és -bejegyzési kötelezettségüket az építési beruházáshoz rendelt, – a (4) bekezdés kivételével – az építésügyért felelős miniszter által működtetett internetes alapú elektronikus építési napló (a továbbiakban: e-napló) alkalmazás segítségével kötelesek teljesíteni.
 
-(4)[^148] A sajátos építményfajták vonatkozásában az építőipari kivitelezési folyamat résztvevői az előírt építési naplóvezetési, ellenőrzési és bejegyzési kötelezettségüket – az építési napló vezetési kötelezettség teljesítésének formájára vagy kezdő időpontjára vonatkozó eltérő rendelkezés hiányában – a miniszter által rendelkezésre bocsátott és a sajátos építményfajtáért felelős miniszter által fenntartott, működtetett és szükség szerint továbbfejlesztett elektronikus építési napló alkalmazással kötelesek teljesíteni.
+(4)[^155] A sajátos építményfajták vonatkozásában az építőipari kivitelezési folyamat résztvevői az előírt építési naplóvezetési, ellenőrzési és bejegyzési kötelezettségüket – az építési napló vezetési kötelezettség teljesítésének formájára vagy kezdő időpontjára vonatkozó eltérő rendelkezés hiányában – a miniszter által rendelkezésre bocsátott és a sajátos építményfajtáért felelős miniszter által fenntartott, működtetett és szükség szerint továbbfejlesztett elektronikus építési napló alkalmazással kötelesek teljesíteni.
 
-(5) Az építőipari kivitelezési tevékenység végzésének ideje alatt az építési szerződésben meghatározott időközönként, de legalább 10 naponként
+(4a)[^156] Az építési naplót naprakész állapotban kell tartani úgy, hogy minden munkavégzési napon történjen bejegyzés, munkaszüneti napon bejegyzés nem szükséges, viszont ezt a tényt – a várható munkafolytatási nap megjelölésével – az utolsó munkavégzési napon be kell jegyezni. Az építési naplót az építőipari kivitelezési tevékenység végzésének ideje alatt – a 26. § (8)–(10) bekezdésben foglaltak figyelembevételével – az építési munkaterületen hozzáférhetővé kell tenni.
 
-a) a fővállalkozó kivitelező által vezetett építési naplót az építtető, építtető megbízása alapján az építési műszaki ellenőr vagy a beruházáslebonyolító,
+(4b)[^157] Az építési naplóba a bejegyzésre jogosult a korábbi bejegyzésekre ellenészrevételt tehet, illetve a bejegyzések tudomásulvételét bejegyzésével igazolja.
 
-b) az alvállalkozó kivitelező által vezetett építési naplót a vállalkozó (fővállalkozó) kivitelező
+(5)–(7)[^158]
 
-ellenőrzi, illetve abban észrevételeit rögzíti.
-
-(6)[^149] Az építtető az építőipari kivitelezési tevékenység befejezését követően az építési naplót megőrzi, illetve ha nem azonos az építtető az ingatlan tulajdonosával, az építmény használatbavételi engedélyét, tudomásulvételét követően abba – az építmény jókarbantartási munkálatainak elvégzéséhez – az építmény tulajdonosának betekintést biztosít.
-
-(7) Az építési naplót a munkaterület átvételekor meg kell nyitni, az építőipari kivitelezési tevékenység befejezését követően le kell zárni, és azt a munkák megkezdésekor, illetve befejezésekor az építtetőnek is alá kell írnia. Az építési naplót és mellékleteit a kivitelezőnek a munka befejezését követően tíz évig meg kell őriznie.
-
-[^146]: A 24. § (1) bekezedése a 322/2012. (XI. 16.) Korm. rendelet 92. § o) pontja szerint módosított szöveg.
-[^147]: A 24. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (29) bekezdésével megállapított szöveg.
-[^148]: A 24. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^149]: A 24. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 12. pontja szerint módosított szöveg.
+[^153]: A 24. § (1) bekezedése a 322/2012. (XI. 16.) Korm. rendelet 92. § o) pontja szerint módosított szöveg.
+[^154]: A 24. § (3) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^155]: A 24. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^156]: A 24. § (4a) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 10. §-a iktatta be.
+[^157]: A 24. § (4b) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 10. §-a iktatta be.
+[^158]: A 24. § (5)–(7) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés c) pontja hatályon kívül helyezte.

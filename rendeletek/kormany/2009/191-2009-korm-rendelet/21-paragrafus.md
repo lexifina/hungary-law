@@ -1,41 +1,35 @@
-## 20/B. §[^129] Amennyiben a vállalkozó kivitelező a 20. § (4) bekezdés b) pontja vagy a 20/A. § (1) bekezdése szerinti vita eldöntése érdekében bírósági eljárást indít és a bíróság ezen követelés vonatkozásában ideiglenes intézkedéssel elrendeli a kereseti kérelemben, illetve az ideiglenes intézkedés iránti kérelemben foglaltak teljesítését, az építtetői fedezetkezelő az ideiglenes intézkedés kedvezményezettjének a számlaszámára utalja a 20. § (4) bekezdése vagy a 20/A. § (1) bekezdése szerinti kifizetésből visszatartott összeget.
+## 20/B. §[^139] Amennyiben a vállalkozó kivitelező a 20. § (4) bekezdés b) pontja vagy a 20/A. § (1) bekezdése szerinti vita eldöntése érdekében bírósági eljárást indít és a bíróság ezen követelés vonatkozásában ideiglenes intézkedéssel elrendeli a kereseti kérelemben, illetve az ideiglenes intézkedés iránti kérelemben foglaltak teljesítését, az építtetői fedezetkezelő az ideiglenes intézkedés kedvezményezettjének a számlaszámára utalja a 20. § (4) bekezdése vagy a 20/A. § (1) bekezdése szerinti kifizetésből visszatartott összeget.
 
-21. § (1)[^130] Az építtetői fedezetkezelő a fővállalkozó kivitelező által nyújtott teljesítési biztosítékot az építési szerződésben meghatározott kötelezettség nem teljesítése esetén, az építtető kezdeményezésére és az építési műszaki ellenőr igazolása alapján az építési szerződésben meghatározott kiadások kiegyenlítésére használja fel. Ha az építtető az építési szerződésben rögzített feltételek hiányában kezdeményezi a fővállalkozó kivitelező által nyújtott teljesítési biztosíték felhasználását, vagy az építtető által lehívott teljesítési biztosíték építési szerződésben meghatározott célra történő felhasználásához az építési műszaki ellenőr nem adja ki az igazolást, az építtetői fedezetkezelő nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére.
+21. § (1)[^140] Az építtetői fedezetkezelő a fővállalkozó kivitelező által nyújtott teljesítési biztosítékot az építési szerződésben meghatározott kötelezettség nem teljesítése esetén, az építtető kezdeményezésére és az építési műszaki ellenőr igazolása alapján az építési szerződésben meghatározott kiadások kiegyenlítésére használja fel. Ha az építtető az építési szerződésben rögzített feltételek hiányában kezdeményezi a fővállalkozó kivitelező által nyújtott teljesítési biztosíték felhasználását, vagy az építtető által lehívott teljesítési biztosíték építési szerződésben meghatározott célra történő felhasználásához az építési műszaki ellenőr nem adja ki az igazolást, az építtetői fedezetkezelő nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére.
 
-(1a)[^131] Ha az építtetői fedezetkezelő az (1) bekezdés szerint nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére, az építtetői fedezetkezelő a közreműködése keretében egyeztetést folytat az építtetővel és a fővállalkozó kivitelezővel. Az építtetői fedezetkezelő a létrejött megállapodásának megfelelően intézkedik a fedezetkezelői számlán lévő teljesítési biztosíték felhasználásáról.
+(1a)[^141] Ha az építtetői fedezetkezelő az (1) bekezdés szerint nem teljesíthet kifizetést az építtető részére a teljesítési biztosíték terhére, az építtetői fedezetkezelő a közreműködése keretében egyeztetést folytat az építtetővel és a fővállalkozó kivitelezővel. Az építtetői fedezetkezelő a létrejött megállapodásának megfelelően intézkedik a fedezetkezelői számlán lévő teljesítési biztosíték felhasználásáról.
 
-(2)[^132] Az építtetői fedezetkezelő az alvállalkozói nyilvántartás igénybevételével
+(2)[^142] Az építtetői fedezetkezelő az elektronikus építési napló alvállalkozói nyilvántartás mellékletének figyelemmel kísérése és kezelése keretében
 
-a)[^133] tájékoztatja az építtetőt és a fővállalkozó kivitelezőt a felelősségi körükbe tartozó nyilvántartás-kitöltési kötelezettségről,
+a) tájékoztatja az építtetőt és a fővállalkozó kivitelezőt a felelősségi körükbe tartozó nyilvántartás-kitöltési kötelezettségről,
 
-b)[^134] egyéni kódot biztosít az építtető és a fővállalkozó kivitelező részére az alvállalkozói nyilvántartásba történő belépéshez,
+b) az alvállalkozó kivitelező kérelmére egyéni jelszót biztosít az elektronikus építési napló használatához,
 
-c)[^135]
+c) figyelemmel kíséri a kivitelezésben résztvevő vállalkozó kivitelezők nyilvántartás-kitöltési kötelezettségének teljesítését,
 
-d)[^136] figyelemmel kíséri a fővállalkozó kivitelező nyilvántartás-kitöltési kötelezettségének teljesítését,
+d) figyelemmel kíséri az alvállalkozói teljesítések határidőben történő kifizetését,
 
-e) figyelemmel kíséri az alvállalkozói teljesítések határidőben történő kifizetését,
+e) haladéktalanul értesíti az elektronikus alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha a fővállalkozó kivitelező a 18. § (6) bekezdése szerinti esetben
 
-f) haladéktalanul értesítési az alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha a fővállalkozó kivitelező a 18. § (6) bekezdés szerinti esetben
+ea) a kivitelezési tevékenység felfüggesztésére,
 
-fa) a kivitelezési tevékenység felfüggesztésére,
-
-fb) a szerződés felmondására
+eb) a szerződés felmondására
 
 válik jogosulttá,
 
-g) haladéktalanul értesíti az alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha az f) pont szerinti állapot fennállását az építtető a fedezet biztosításával megszüntette,
+f) haladéktalanul értesíti az elektronikus alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha az e) pont szerinti állapot fennállását az építtető a fedezet biztosításával megszüntette,
 
-h) haladéktalanul értesítési az alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha a fedezetkezelői szerződés a 17. § (8) bekezdés szerint megszűnik.
+g) haladéktalanul értesíti az elektronikus alvállalkozói nyilvántartásban szereplő összes alvállalkozó kivitelezőt, ha a fedezetkezelői szerződés a 17. § (8) bekezdése szerint megszűnik.
 
-(3)[^137] Az építtetői fedezetkezelő az elektronikus alvállalkozói nyilvántartást a fedezetkezelői szerződés megkötésétől legkésőbb közreműködésének 17. § (7) vagy (8) bekezdése, vagy 20. § (6) bekezdése szerinti befejezését követő harminc napig működteti.
+(3)[^143] Az építtetői fedezetkezelő az elektronikus építési napló alvállalkozói nyilvántartás mellékletét a fedezetkezelői szerződés megkötésétől legkésőbb közreműködésének 17. § (7) vagy (8) bekezdése, vagy 20. § (6) bekezdése szerinti befejezését követő harminc napig kíséri figyelemmel és kezeli.
 
-[^129]: A 20/B. §-t a 322/2012. (XI. 16.) Korm. rendelet 75. §-a iktatta be.
-[^130]: A 21. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdésével megállapított szöveg.
-[^131]: A 21. § (1a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdése iktatta be.
-[^132]: A 21. § (2) bekezedés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 92. § m) pontja szerint módosított szöveg.
-[^133]: A 21. § (2) bekezdés a) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
-[^134]: A 21. § (2) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (23) bekezdésével megállapított szöveg.
-[^135]: A 21. § (2) bekezdés c) pontját a 182/2010. (V. 14.) Korm. rendelet 8. §-a hatályon kívül helyezte.
-[^136]: A 21. § (2) bekezdés d) pontja a 182/2010. (V. 14.) Korm. rendelet 5. § (24) bekezdésével megállapított szöveg.
-[^137]: A 21. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (25) bekezdésével megállapított szöveg.
+[^139]: A 20/B. §-t a 322/2012. (XI. 16.) Korm. rendelet 75. §-a iktatta be.
+[^140]: A 21. § (1) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdésével megállapított szöveg.
+[^141]: A 21. § (1a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (22) bekezdése iktatta be.
+[^142]: A 21. § (2) bekezedése a 322/2012. (XI. 16.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^143]: A 21. § (3) bekezedése a 322/2012. (XI. 16.) Korm. rendelet 76. §-ával megállapított szöveg.

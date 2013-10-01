@@ -418,7 +418,7 @@
 
 ## a) kelet (nap nevét is fel kell tüntetni: pl. kedd);
 
-## b) külső hőmérséklet (naponta háromszor: 7, 13 és 21 órakor, ha a munka jellege megkívánja, a legalacsonyabb hőmérsékletet is rögzíteni kell);
+## b) külső hőmérséklet (naponta legalább kétszer, és ha a munka jellege megkívánja, a legalacsonyabb hőmérsékletet is rögzíteni kell);
 
 ## c) időjárási adatok (esetleg vízállás vagy szélerősség, munkamenetet akadályozó időjárásnál az akadályozás időtartama is);
 
@@ -438,13 +438,13 @@
 
 ## A napi teljesítmény adatait építményenként részletezve kell leírni: pl. északi pillér betonozása a -0,30 m szinten, I. emeleti födém vasbetonszerelés stb. Nagyobb vasbeton szerkezeteknél az idom, keret vagy pillér számát fel kell tüntetni. Egyes főbb munkarészek kivitelezésének megkezdését és befejezését fel kell tüntetni (pl. 013 j. oszlop betonozása befejezve vagy 40/60-as csőfektetés a +228-262 m szelvényig stb.);
 
-## f) az építőipari kivitelezési tevékenység végzése során naponta keletkező építési-bontási hulladék mennyiségének, fajtájának megnevezése, EWC kódja [a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendelet alapján], elszállításának ténye, helye, bizonylata a hulladék kezeléséhez igénybe vett létesítmény neve, címe, KÜJ, KTJ száma (idecsatolandók az átvételt igazoló számlák is) a külön jogszabályban foglaltak szerint.
+## f) az építőipari kivitelezési tevékenység végzése során naponta keletkező építési-bontási hulladék mennyiségének, fajtájának megnevezése, EWC kódja [a hulladékjegyzékről szóló 72/2013. (VIII. 27.) VM rendelet alapján], elszállításának ténye, helye, bizonylata a hulladék kezeléséhez igénybe vett létesítmény neve, címe, KÜJ, KTJ száma (idecsatolandók az átvételt igazoló számlák is) a külön jogszabályban foglaltak szerint.
 
 ## 2. Eseti bejegyzések:
 
-## a) az építési munkahely átadás-átvétele;
+## a) az építési munkaterület átadás-átvétele;
 
-## b) az építtető nyilatkozata az építőipari kivitelezési tevékenység megkezdésének tudomásulvételére irányuló kérelem az építésfelügyeleti hatósághoz történő e rendelet szerinti benyújtásáról;
+## b)
 
 ## c) az építmény helyének kitűzése;
 
