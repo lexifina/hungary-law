@@ -6,7 +6,7 @@ a) feltárja az e rendeletben és a Batv.-ben foglalt kötelezettségek teljesí
 
 b) minimalizálja az ilyen kockázatok felmerülését,
 
-c) lehetővé tegye a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) számára a jogszabályokban meghatározott hatásköreinek hatékony gyakorlását.
+c)[^2] lehetővé tegye a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) számára a jogszabályokban meghatározott hatásköreinek hatékony gyakorlását.
 
 (2) Az ÁÉKBV-alapkezelő a jogszabályoknak való megfelelésért és a szabályzatokban foglaltaknak a jogszabályi rendelkezésekkel való összhangjáért felelős vezetőt (a továbbiakban: megfelelési vezetőt) nevez ki, aki
 
@@ -23,3 +23,5 @@ a) nem vehetnek részt annak a befektetési alapkezelési tevékenységnek a vé
 b) díjazásukat olyan módon kell megállapítani, hogy az semmilyen módon ne befolyásolhassa objektivitásukat.
 
 (4) Nem kell a (3) bekezdés a) vagy b) pontjában foglaltakat alkalmazni abban az esetben, ha az ÁÉKBV-alapkezelő számára ez üzleti tevékenységének jellege, nagyságrendje és összetettsége figyelembevételével aránytalan terhet jelentene, és az ÁÉKBV-alapkezelő hitelt érdemlően igazolja, hogy mindez nem befolyásolja hátrányosan a jogszabályokban és szabályzatokban foglaltaknak való megfelelést.
+
+[^2]: A 7. § (1) bekezdés c) pontja a 345/2013. (IX. 30.) Korm. rendelet 62. §-a szerint módosított szöveg.

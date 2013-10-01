@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-344-20-
 | --- | --- | --- |
 | 2012-01-01 | 2011-344-20-22.1 | 344/2011. (XII. 29.) Korm. rendelet |
 | 2012-01-02 | 2011-344-20-22.2 | 2010: CXXX. törvény |
+| 2013-10-01 | 2011-344-20-22.3 | 79/2014. (III. 14.) Korm. rendelet |
