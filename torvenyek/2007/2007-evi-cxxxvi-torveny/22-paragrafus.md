@@ -6,7 +6,7 @@
 
 (3) A Rendelet 15. cikkének (2) bekezdése által meghatározott „alkalmazásért felelős hatóság” és a (3) bekezdése által meghatározott „illetékes hatóság” a Felügyelet, az MNB vonatkozásában a pénzügyi információs egységként működő hatóság.
 
-(4) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint, a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben (a továbbiakban: Psztv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egységként működő hatóság a Ket. szerint jár el.
+(4) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint, a Magyar Nemzeti Bankról szóló törvényben (a továbbiakban: MNBtv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egységként működő hatóság a Ket. szerint jár el.
 
 (5) A Rendelet előírásainak megsértése, illetőleg a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet a jogsértés súlyával arányosan a 35. § (1) bekezdés b)–e) pontjaiban meghatározott, továbbá a következő intézkedéseket alkalmazza:
 

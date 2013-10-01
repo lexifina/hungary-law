@@ -1,8 +1,8 @@
 5. § E törvény alkalmazásában felügyeletet ellátó szerv az 1. § (1) bekezdésének
 
-a) a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában – a b) pontban meghatározott kivétellel – a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet);
+a) a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet);
 
-b) a) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységek közül a pénzfeldolgozást végző szolgáltatók tekintetében az MNB;
+b)
 
 c) i) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában az állami adóhatóság;
 
