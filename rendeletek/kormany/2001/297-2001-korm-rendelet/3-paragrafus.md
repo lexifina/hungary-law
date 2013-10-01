@@ -1,8 +1,8 @@
-3. § (1)[^3] A pénzváltási tevékenységet közvetítőnek az engedély iránti kéreleméhez – a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+3. § (1)[^5] A pénzváltási tevékenységet közvetítőnek az engedély iránti kéreleméhez – a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
 
 a) a kérelmező alapító okiratát,
 
-b)[^4] a kérelmező bejegyzéséről szóló cégbírósági végzést – ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette,
+b)[^6] a kérelmező bejegyzéséről szóló cégbírósági végzést – ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette,
 
 c) harminc napnál nem régebbi igazolást arra vonatkozóan, hogy az alapításban részt vevő személynek, már működő cég esetén a kérelmezőnek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs,
 
@@ -20,14 +20,14 @@ i) nyilatkozatot arra vonatkozóan, hogy a pénzváltási tevékenységét mikor
 
 j) nyilatkozatot arról, hogy a jogszabályban meghatározott adatszolgáltatások teljesítésére felkészült.
 
-(2)[^5] A közvetítőnek a kérelem előterjesztésekor rendelkeznie kell egy hitelintézettel kötött pénzváltási tevékenység közvetítésére irányuló megbízási szerződéssel. A megbízási szerződés megkötése előtt a hitelintézet köteles meggyőződni arról, hogy a közvetítő megfelel az (1) és (3) bekezdésben, valamint 10–14. §-ban foglalt feltételeknek.
+(2)[^7] A közvetítőnek a kérelem előterjesztésekor rendelkeznie kell egy hitelintézettel kötött pénzváltási tevékenység közvetítésére irányuló megbízási szerződéssel. A megbízási szerződés megkötése előtt a hitelintézet köteles meggyőződni arról, hogy a közvetítő megfelel az (1) és (3) bekezdésben, valamint 10–14. §-ban foglalt feltételeknek.
 
-(3)[^6] A közvetítőnek az (1) bekezdés e) és f) pontjaiban előírt feltételt akkor kell teljesíteni, ha a pénzváltási tevékenységet kizárólagos tevékenységként kívánja gyakorolni.
+(3)[^8] A közvetítőnek az (1) bekezdés e) és f) pontjaiban előírt feltételt akkor kell teljesíteni, ha a pénzváltási tevékenységet kizárólagos tevékenységként kívánja gyakorolni.
 
-(4)[^7] Ha a kérelmező az (1) bekezdés a)–c) pontjában meghatározott okiratokat, adatokat a kérelemhez nem csatolja, a Felügyelet az adatok szolgáltatása érdekében megkeresi az okiratokról, adatokról nyilvántartást vezető hatóságot, bíróságot. Ha a kérelmező cégjegyzékben nyilvántartott cég, annak cégkivonatát a Felügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(4)[^9] Ha a kérelmező az (1) bekezdés a)–c) pontjában meghatározott okiratokat, adatokat a kérelemhez nem csatolja, az MNB az adatok szolgáltatása érdekében megkeresi az okiratokról, adatokról nyilvántartást vezető hatóságot, bíróságot. Ha a kérelmező cégjegyzékben nyilvántartott cég, annak cégkivonatát az MNB a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-[^3]: A 3. § (1) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 3. § (1) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^5]: A 3. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^6]: A 3. § (3) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 685. § (1) bekezdése iktatta be, szövege a 355/2012. (XII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (1) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 3. § (3) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 685. § (1) bekezdése iktatta be, szövege a 355/2012. (XII. 13.) Korm. rendelet 10. §-ával megállapított és a 345/2013. (IX. 30.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
