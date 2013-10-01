@@ -8,4 +8,6 @@ A Kormány
 
 4. jóváhagyja a szerződés kihirdetéséről szóló kormányrendelet tervezetét, és elrendeli a szerződés szövegének végleges megállapítását követően annak a Magyar Közlönyben történő kihirdetését;
 
-5. a Magyar Köztársaság Kormánya és Georgia (Grúzia) Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló Egyezmény szövegének végleges megállapítására adott felhatalmazásról szóló 1231/2011. (VII. 7.) Korm. határozatot visszavonja.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
