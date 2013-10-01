@@ -1,4 +1,4 @@
-## 5. §[^1]
+## 5. §[^3]
 
 1. melléklet a 48/2011. (XII. 21.) NGM rendelethez
 
@@ -60,4 +60,4 @@ D) SZOKÁSOS VÁLLALKOZÁSI EREDMÉNY
 
 (±B+01+02+03–04±05–06+07–08)
 
-[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
