@@ -20,4 +20,4 @@ e) a 14/A. §-ban meghatározott esetben a készpénz-helyettesítő fizetési e
 
 (6) Amennyiben a nyilvántartott személy az adatszolgáltatás tárgyát képező szerződés hatálya alatt előtörlesztést teljesít, a referenciaadat-szolgáltató az előtörlesztést követő öt munkanapon belül átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pont i) alpontja, illetve 2.2 pont j) alpontja szerinti adatot.
 
-(7) Ha a KHR-t kezelő pénzügyi vállalkozás adatot szolgáltat a Magyar Nemzeti Bank és a Felügyelet részére, a továbbított adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszi.
+(7) Ha a KHR-t kezelő pénzügyi vállalkozás adatot szolgáltat a Magyar Nemzeti Bank részére, a továbbított adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszi.

@@ -10,10 +10,10 @@ b) legalább kétszázmillió forint saját tőkével rendelkezik,
 
 c) a hitelreferencia szolgáltatást kizárólagos tevékenységként végzi,
 
-d) részvényeinek tulajdonosa kizárólag pénzügyi intézmény vagy befektetési vállalkozás és
+d) részvényeinek tulajdonosa kizárólag pénzügyi intézmény, befektetési vállalkozás vagy hitelintézetek érdek-képviseleti szerve és
 
 e) a hitelinformációs rendszeréhez történő csatlakozási szándékát a referenciaadat-szolgáltatók legalább hetven százaléka kinyilvánította, és ezen referenciaadat-szolgáltatók legalább nyolcvan százalékával rendelkeznek az összes referenciaadat-szolgáltató tárgyévet megelőző év éves beszámolója alapján kiszámított kockázatvállalásának.
 
 (3)
 
-(4) A KHR-t kezelő pénzügyi vállalkozás évente tájékoztatást készít a KHR működéséről, illetve a KHR-ben kezelt adatok alapján a hitelfelvételek számáról, nagyságrendjéről, a szerződéses kötelezettségek teljesítéséről, valamint az eladósodás alakulásáról. E tájékoztatást a KHR-t kezelő pénzügyi vállalkozás évente honlapján közzéteszi, valamint egyidejűleg megküldi a Felügyelet részére.
+(4) A KHR-t kezelő pénzügyi vállalkozás évente tájékoztatást készít a KHR működéséről, illetve a KHR-ben kezelt adatok alapján a hitelfelvételek számáról, nagyságrendjéről, a szerződéses kötelezettségek teljesítéséről, valamint az eladósodás alakulásáról. E tájékoztatást a KHR-t kezelő pénzügyi vállalkozás évente honlapján közzéteszi, valamint egyidejűleg megküldi a Magyar Nemzeti Bank részére.

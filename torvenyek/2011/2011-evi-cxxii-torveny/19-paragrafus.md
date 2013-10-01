@@ -4,4 +4,4 @@
 
 (3) A referenciaadat zárolását, a zárolás megszüntetését, illetve a referenciaadat helyesbítését, törlését a bíróság erre vonatkozó jogerős határozatának kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül végre kell hajtani.
 
-(4) A bíróság a referenciaadat módosítására vagy törlésére vonatkozó jogerős határozatát a Felügyeletnek is megküldi.
+(4) A bíróság a referenciaadat módosítására vagy törlésére vonatkozó jogerős határozatát a Magyar Nemzeti Banknak is megküldi.
