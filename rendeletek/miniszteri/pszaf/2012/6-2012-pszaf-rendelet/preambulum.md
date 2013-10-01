@@ -1,1 +1,0 @@
-Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 79. §-ában kapott felhatalmazás alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
