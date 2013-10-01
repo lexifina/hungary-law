@@ -2,7 +2,7 @@
 
 ## Egymást átfedő pozíciók
 
-226. §[^66] (1) Ha egy értékpapírosítási ügylet egymást átfedő pozícióval rendelkezik, akkor a kockázattal súlyozott kitettség értékének meghatározásakor az átfedés mértékéig csak azt a pozíciót vagy pozíciórészt kell figyelembe venni, amelyikhez nagyobb kockázattal súlyozott kitettség érték tartozik.
+226. §[^69] (1) Ha egy értékpapírosítási ügylet egymást átfedő pozícióval rendelkezik, akkor a kockázattal súlyozott kitettség értékének meghatározásakor az átfedés mértékéig csak azt a pozíciót vagy pozíciórészt kell figyelembe venni, amelyikhez nagyobb kockázattal súlyozott kitettség érték tartozik.
 
 (2) A befektetési vállalkozás a kereskedési könyvben nyilvántartott pozíció egyedi kockázati tőkekövetelményével történő átfedést is figyelembe vehet, amennyiben ki tudja számítani és össze tudja hasonlítani az adott pozíciókra vonatkozó tőkekövetelményeket.
 
@@ -10,4 +10,4 @@
 
 (4) E § alkalmazásában az átfedés alatt azt kell érteni, hogy a pozíciók részben vagy egészben ugyanazon kockázattal szembeni kitettségből származnak.
 
-[^66]: A 226. § a 348/2011. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^69]: A 226. § a 348/2011. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.

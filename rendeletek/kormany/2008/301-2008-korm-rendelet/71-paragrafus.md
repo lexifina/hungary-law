@@ -26,7 +26,7 @@ b) a mérlegen belüli nettósítási ügyletre.
 
 (8) A (7) bekezdéstől eltérően, a központi szerződő féllel szembeni kitettség értékét az V. Fejezet szerint kell meghatározni, ha a központi szerződő fél minden ügyfelének hitelkockázata napi szinten biztosítékkal teljes mértékben fedezett.
 
-(9) A Felügyelet a honlapján közzéteszi a (8) bekezdésben említett feltételnek megfelelő központi szerződő felek listáját.
+(9)[^25]
 
 (10) A (7) és (8) bekezdéstől eltérően, a befektetési vállalkozás repóügyletből, értékpapír- vagy áru-kölcsönzési ügyletből, hosszú elszámolási idejű ügyletből és értékpapír ügylethez kapcsolódó hitelből származó kitettség értékét
 
@@ -49,3 +49,5 @@ b) ha a 148–177. § szerinti belső modell módszer alkalmazási feltételeine
 (16) Ha a befektetési vállalkozás a 74–115. §-ban meghatározott, a saját hitelegyenértékesítési faktorra vonatkozó becslés alkalmazásához szükséges minimum követelménynek megfelel, akkor a Felügyelet engedélyével a saját hitelegyenértékesítési tényezőre becsléseket alkalmazhat a (12)–(15) bekezdésben említett ügyletek esetén.
 
 (17) Ha a kötelezettségvállalás egy másik kötelezettségvállalás meghosszabbításának eredményeként – új kötelezettségvállalásként – jön létre, akkor az eredeti és a hosszabbítás eredményeként létrejött kötelezettségvállaláshoz tartozó hitelegyenértékesítési tényezők közül az alacsonyabbat kell alkalmazni.
+
+[^25]: A 71. § (9) bekezdését a 345/2013. (IX. 30.) Korm. rendelet 55. §-a hatályon kívül helyezte.

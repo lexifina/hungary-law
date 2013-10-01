@@ -1,6 +1,6 @@
 ## Hagyományos értékpapírosítás
 
-215. §[^61] (1) Hagyományos értékpapírosítást kezdeményező befektetési vállalkozásnak az értékpapírosított kitettségeire nem kell meghatároznia a kockázattal súlyozott kitettség értékét és a várható veszteség értékét, ha
+215. §[^64] (1) Hagyományos értékpapírosítást kezdeményező befektetési vállalkozásnak az értékpapírosított kitettségeire nem kell meghatároznia a kockázattal súlyozott kitettség értékét és a várható veszteség értékét, ha
 
 a) az értékpapírosított kitettségekhez tartozó jelentős hitelkockázatot harmadik félre ruházta át, vagy
 
@@ -48,4 +48,4 @@ a) az átruházott kitettségeket nyereség realizálása érdekében a különl
 
 b) köteles visszavenni az átruházott kockázatot.
 
-[^61]: A 215. § a 349/2010. (XII. 28.) Korm. rendelet 84. §-ával megállapított szöveg.
+[^64]: A 215. § a 349/2010. (XII. 28.) Korm. rendelet 84. §-ával megállapított szöveg.

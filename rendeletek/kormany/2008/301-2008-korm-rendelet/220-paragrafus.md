@@ -8,14 +8,14 @@ a) nincs lejárati eltérés a hitelminősítés során figyelembe vett fizetés
 
 b) a hitelminősítés a piac számára nyilvánosan elérhető, és azt a külső hitelminősítő szervezet minősítési kategóriák közötti elmozdulási arányokat mutató migrációs mátrixa tartalmazza,
 
-c)[^63] strukturált finanszírozási eszközökkel kapcsolatos hitelminősítés esetében a külső hitelminősítő szervezet nyilvánosságra hozza, hogy az értékpapírosított kitettségek teljesítése hogyan befolyásolja a hitelminősítést,
+c)[^66] strukturált finanszírozási eszközökkel kapcsolatos hitelminősítés esetében a külső hitelminősítő szervezet nyilvánosságra hozza, hogy az értékpapírosított kitettségek teljesítése hogyan befolyásolja a hitelminősítést,
 
-d)[^64] a hitelminősítés sem részben sem egészben nem alapulhat a befektetési vállalkozás előre nem rendelkezésre bocsátott támogatásán.
+d)[^67] a hitelminősítés sem részben sem egészben nem alapulhat a befektetési vállalkozás előre nem rendelkezésre bocsátott támogatásán.
 
 (3) Értékpapírosítási pozíció kockázattal súlyozott kitettség értékének meghatározásához az elismert külső hitelminősítő szervezet hitelminősítése elismerhetőségének további feltétele, hogy a külső hitelminősítő szervezet az értékpapírosítás terén is megfeleljen a hitelesség és piaci elfogadás követelményének.
 
-(4)[^65] Ha a hitelminősítés részben vagy egészben a befektetési vállalkozás előre nem rendelkezésre bocsátott fedezet nyújtásán alapul az értékpapírosítási pozíciót nem minősített pozíciónak kell tekinteni kockázattal súlyozott kitettség érték kiszámításakor.
+(4)[^68] Ha a hitelminősítés részben vagy egészben a befektetési vállalkozás előre nem rendelkezésre bocsátott fedezet nyújtásán alapul az értékpapírosítási pozíciót nem minősített pozíciónak kell tekinteni kockázattal súlyozott kitettség érték kiszámításakor.
 
-[^63]: A 220. § (2) bekezdés c) pontját a 349/2010. (XII. 28.) Korm. rendelet 86. § (1) bekezdése iktatta be.
-[^64]: A 220. § (2) bekezdés d) pontját a 349/2010. (XII. 28.) Korm. rendelet 86. § (1) bekezdése iktatta be.
-[^65]: A 220. § (4) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 86. § (2) bekezdése iktatta be.
+[^66]: A 220. § (2) bekezdés c) pontját a 349/2010. (XII. 28.) Korm. rendelet 86. § (1) bekezdése iktatta be.
+[^67]: A 220. § (2) bekezdés d) pontját a 349/2010. (XII. 28.) Korm. rendelet 86. § (1) bekezdése iktatta be.
+[^68]: A 220. § (4) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 86. § (2) bekezdése iktatta be.
