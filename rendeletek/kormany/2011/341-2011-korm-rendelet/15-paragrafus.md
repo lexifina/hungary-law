@@ -6,7 +6,7 @@
 
 (3) Az otthonteremtési kamattámogatást az állam nevében a Kincstár nyújtja a folyósító hitelintézet utólagos havi elszámolása alapján.
 
-(4) A hitelintézet (3) bekezdés szerinti elszámolását – szükség esetén a Pénzügyi Szervezetek Állami Felügyeletének bevonásával – a Kincstár ellenőrzi.
+(4)[^79] A hitelintézet (3) bekezdés szerinti elszámolását a Kincstár ellenőrzi.
 
 (5) Ha a Kincstár az (4) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti és a miniszternél a (2) bekezdés szerinti szerződés felmondását kezdeményezheti.
 
@@ -33,3 +33,4 @@ f) adóazonosító jel.
 (10) A (6)–(8) bekezdés szerinti adatszolgáltatások teljesítésének elmaradása esetén a miniszter az otthonteremtési kamattámogatás folyósítását felfüggeszti.
 
 [^78]: A 15. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
+[^79]: A 15. § (4) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 67. § (1) bekezdés g) pontja szerint módosított szöveg.
