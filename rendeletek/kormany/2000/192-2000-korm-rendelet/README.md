@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-192-20-
 | 2011-01-01 | 2000-192-20-22.12 | 345/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 2000-192-20-22.13 | 342/2011. (XII. 29.) Korm. rendelet |
 | 2013-01-01 | 2000-192-20-22.14 | 382/2012. (XII. 19.) Korm. rendelet |
+| 2013-10-01 | 2000-192-20-22.15 | 382/2012. (XII. 19.) Korm. rendelet |
