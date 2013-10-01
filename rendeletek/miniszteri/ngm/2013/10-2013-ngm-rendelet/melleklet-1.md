@@ -1,6 +1,4 @@
-## 14. §[^4]
-
-1. melléklet a 10/2013. (III. 13.) NGM rendelethez[^5]
+1. melléklet a 10/2013. (III. 13.) NGM rendelethez[^6]
 
 |  |  |  |  |  | Fejezeti jellemző adatok |  |  |  |  |  |  |  | Önkormányzati jellemző adatok |  |  |  |  |  |  |  |
 
@@ -151,6 +149,8 @@ TARTALOMJEGYZÉK A „D” ŰRLAPGARNITÚRÁHOZ
 |  | és bevételeinek előirányzata/teljesítése |  |
 
 | 99 | Üres űrlapok jegyzéke |  |
+
+3K62761M_4
 
 |  |  | Alap felett rendelkező megnevezése |  |  | Alapkezelő megnevezése, székhelye |  |  |
 
@@ -346,133 +346,4 @@ TARTALOMJEGYZÉK A „H” ŰRLAPGARNITÚRÁHOZ
 
 | 99 | Üres űrlapok jegyzéke |  |
 
-| Személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó |
-
-| előirányzata és teljesítése |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | szerv megnevezése |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 2 |  |  |  |  |  |  |  |
-
-| PIR-törzsszám |  | szektor |  | fejezet/megye |  | cím/alcím településtípus |  | szakágazat |  | űrlap |  | év | időszak |
-
-|  | ezer forintban |
-
-| Megnevezés | Sor- szám | Eredeti | Módosított | Teljesítés |
-
-| előirányzat |
-
-| 1 | 2 | 3 | 4 | 5 |
-
-| Alapilletmények | 01 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Illetménykiegészítések | 02 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Nyelvpótlék | 03 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb kötelező illetménypótlékok | 04 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb feltételtől függő pótlékok és juttatások | 05 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb juttatás | 06 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Teljes munkaidőben foglalkoztatottak rendszeres személyi juttatása összesen (01+...+06) | 07 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Részmunkaidőben foglalkoztatottak rendszeres személyi juttatása | 08 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Rendszeres személyi juttatások (07+08) | 09 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Jutalom (normatív) | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Jutalom (teljesítményhez kötött) | 11 | --------------- |  |  |  |  |  |  |  |  |  |  |
-
-| Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb munkavégzéshez kapcsolódó juttatások | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Teljes munkaidőben foglalkoztatottak munkavégzéshez kapcsolódó juttatásai összesen (10+....+13) | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Részmunkaidőben foglalkoztatottak munkavégzéshez kapcsolódó juttatásai | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Munkavégzéshez kapcsolódó juttatások (14+15) | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Keresetkiegészítés fedezete | 17 |  |  |  |  |  | ---------------- | ---------------- |
-
-| Végkielégítés | 18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Jubileumi jutalom | 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Napidíj | 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Biztosítási díjak | 21 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb sajátos juttatások | 22 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Teljes munkaidőben foglalkoztatottak sajátos juttatásai (18+...+22) | 23 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Részmunkaidőben foglalkoztatottak sajátos juttatásai | 24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Foglalkoztatottak sajátos juttatásai (23+24) | 25 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Ruházati költségtérítés, hozzájárulás | 26 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Üdülési hozzájárulás | 27 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Közlekedési költségtérítés | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Étkezési hozzájárulás | 29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb költségtérítés és hozzájárulás | 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Teljes munkaidőben foglalkoztatottak személyhez kapcsolódó költségtérítései összesen (26+...+30) | 31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Részmunkaidőben foglalkoztatottak személyhez kapcsolódó költségtérítései | 32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Személyhez kapcsolódó költségtérítések és hozzájárulások összesen (31+32) | 33 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Teljes munkaidőben foglalkoztatottak szociális jellegű juttatásai | 34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Részmunkaidőben foglalkoztatottak szociális jellegű juttatásai | 35 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Szociális jellegű juttatások (34+35) | 36 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Teljes munkaidőben foglalkoztatottak különféle nem rendszeres juttatásai | 37 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Részmunkaidőben foglalkoztatottak különféle nem rendszeres juttatásai | 38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Különféle nem rendszeres juttatások összesen (37+38) | 39 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Teljes munkaidőben foglalkoztatottak nem rendszeres juttatásai (14+23+31+34+37) | 40 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Részmunkaidőben foglalkoztatottak nem rendszeres juttatásai (15+24+32+35+38) | 41 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Nem rendszeres személyi juttatások (17+40+41) | 42 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állományba nem tartozók juttatásai | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Tartalékos állományúak juttatásai | 44 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Katonai és rendvédelmi tanintézeti hallgatók juttatásai | 45 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egyéb sajátos juttatások | 46 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Fegyveres erők, testületi és rendvédelmi szervek állományába nem tartozók juttatásai (44+...+46) | 47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Külső személyi juttatások (43+47) | 48 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Személyi juttatások összesen (09+42+48) | 49 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Szociális hozzájárulási adó | 50 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Korkedvezmény-biztosítási járulék | 51 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Egészségügyi hozzájárulás | 52 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Táppénz hozzájárulás | 53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Munkaadókat terhelő járulékok és szociális hozzájárulási adó (50+...+53) | 54 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Cafetéria rendszer keretében adott juttatások (tájékoztató adat) | 55 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 26/2013. (VI. 28.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 26/2013. (VI. 28.) NGM rendelet 8. §-a szerint módosított szöveg.
