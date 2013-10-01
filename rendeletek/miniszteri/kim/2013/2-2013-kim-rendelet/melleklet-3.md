@@ -72,7 +72,7 @@
 
 | □ mostoha- vagy nevelt gyermek | □ örökbefogadó-, mostoha- vagy nevelőszülő | □ testvér |
 
-## 5. A pályázóként megjelölt gazdasági társaság, alapítvány, társadalmi szervezet, egyház vagy szakszervezet tekintetében az érintettség fennáll, mert
+## 5. A pályázóként megjelölt gazdasági társaság, alapítvány, társadalmi szervezet, egyházi jogi személy vagy szakszervezet tekintetében az érintettség fennáll, mert
 
 ## □ vezető tisztségviselője,
 

@@ -20,7 +20,7 @@ h) – ha e rendelet vagy a támogatási szerződés költségvetési támogatá
 
 i) határon túli magyar kedvezményezett esetén a magyarországi bankszámlával rendelkező szervezet befogadó nyilatkozata, ha azzal rendelkezik,
 
-j) felhalmozási célú költségvetési támogatás esetében a nem állami vagy egyházi tulajdonú ingatlanra vonatkozó elektronikus dokumentumként szolgáltatott nem hiteles tulajdoni lap másolata,
+j)[^1] felhalmozási célú költségvetési támogatás esetében a nem az állam vagy egyházi jogi személy tulajdonában lévő ingatlanra vonatkozó elektronikus dokumentumként szolgáltatott nem hiteles tulajdoni lap másolata,
 
 k) ha azt jogszabály előírja, a támogatott tevékenységhez szükséges jogerős hatósági engedély másolata.
 
@@ -31,3 +31,5 @@ a) a szerződéskötés várható határideje a támogatási döntés közlésé
 b) ha a költségvetési támogatás az Európai Unió működéséről szóló szerződés 107. cikkének hatálya alá tartozik, a támogatási szerződés megkötéséhez a fejlesztéspolitikáért felelős miniszter állásfoglalása szükséges, amelyre tekintettel az a) pontban meghatározott határidő további 30 nappal meghosszabbodik.
 
 (3) Ha a kötelezettségvállaló a támogatási szerződésben az (1) bekezdés h) pontjában meghatározott biztosítéktól eltérő biztosítékot köt ki, e tényről az (1) bekezdés szerinti értesítésben kell a kedvezményezettet tájékoztatni.
+
+[^1]: A 11. § (1) bekezdés j) pontja a 23/2013. (IX. 30.) KIM rendelet 6. § a) pontja szerint módosított szöveg.

@@ -58,4 +58,6 @@
 
 ## Aláírás/Cégszerű aláírás
 
-2. melléklet a 2/2013. (III. 6.) KIM rendelethez
+2. melléklet a 2/2013. (III. 6.) KIM rendelethez[^13]
+
+[^13]: A 2. melléklet a 23/2013. (IX. 30.) KIM rendelet 6. § d) pontja szerint módosított szöveg.
