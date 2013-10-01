@@ -10,7 +10,7 @@ c) a befektetési alapkezelő ügyféllel szemben fennálló követelése érté
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
-a) a hatáskörében eljáró Felügyelettel, a Befektető-védelmi Alappal, az Országos Betétbiztosítási Alappal, az MNB-vel, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal,
+a) az MNB-vel, a Befektető-védelmi Alappal, az Országos Betétbiztosítási Alappal, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal,
 
 b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az államháztartásról szóló 1992. évi XXXVIII. törvényben meghatározott kormányzati ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
@@ -50,7 +50,7 @@ e) a befektetési alapkezelő az Art. 52. §-ának (8) bekezdése alapján szolg
 
 a) azt az ügyfelet vagy számlát, akiről vagy amelyről a (4) bekezdésben megjelölt szerv vagy hatóság az értékpapírtitok kiadását kéri, és
 
-b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró MNB vagy a Felügyelet helyszíni ellenőrzést folytat.
+b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha az MNB helyszíni ellenőrzést folytat.
 
 (6) A (3) és (4) bekezdés szerint adatkérésre jogosult szerv vagy hatóság a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkérésében megjelölt.
 

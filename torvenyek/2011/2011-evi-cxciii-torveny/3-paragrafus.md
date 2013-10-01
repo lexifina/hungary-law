@@ -60,7 +60,7 @@ c) bármely olyan természetes személy, aki harmadik fél részére szóló, be
 
 25. felosztott hozam: a tőkenövekmény azon része, amelyet a befektetési alapkezelő a kezelési szabályzat szerint a befektetési alapkezelés eredményeképpen a befektetési jegyek után fizet;
 
-26. Felügyelet: a Pénzügyi Szervezetek Állami Felügyelete;
+26. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB;
 
 27. felügyeleti hatóság:
 

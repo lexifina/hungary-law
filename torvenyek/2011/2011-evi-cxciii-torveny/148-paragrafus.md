@@ -16,7 +16,7 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 
 (2) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn a hatáskörében törvény felhatalmazása alapján eljáró
 
-a) Felügyelettel, felügyeleti hatósággal,
+a) felügyeleti hatósággal,
 
 b) a Befektető-védelmi Alappal,
 

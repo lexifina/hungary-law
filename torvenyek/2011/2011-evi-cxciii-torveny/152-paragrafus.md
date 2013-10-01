@@ -12,10 +12,10 @@ a) a befektetési alapkezelőre vonatkozó szervezeti, összeférhetetlenségi, 
 
 b) a befektetési alapok befektetési és hitelfelvételi szabályait.
 
-(2) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
-a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat,
+(3) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
 
-b) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező ajánlat, vagy megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat,
+a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat,
 
-c) az e törvény 131. § (6) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletes szabályokat.
+b) az e törvény 131. § (6) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletes szabályokat.
