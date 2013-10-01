@@ -374,15 +374,27 @@ II. A TELEPÜLÉSI ÖNKORMÁNYZATOK EGYES KÖZNEVELÉSI ÉS GYERMEKÉTKEZTETÉSI
 
 |
 
+|
+
 ELŐIRÁNYZAT:
 
 |
 
-101 228,8 millió forint
+108 085,5 millió forint
 
 |
 
-ÓVODAPEDAGÓGUSOK ÁTLAGBÉRÉNEK ÉS KÖZTERHEINEK ELISMERT ÖSSZEGE:
+|
+
+ÓVODAPEDAGÓGUSOK ÁTLAGBÉRÉNEK
+
+|
+
+|
+
+|
+
+ÉS KÖZTERHEINEK ELISMERT ÖSSZEGE:
 
 |
 
@@ -390,7 +402,59 @@ ELŐIRÁNYZAT:
 
 |
 
-ÓVODAPEDAGÓGUSOK NEVELŐ MUNKÁJÁT KÖZVETLENÜL SEGÍTŐK ÁTLAGBÉRÉNEK ÉS KÖZTERHEINEK ELISMERT ÖSSZEGE:
+|
+
+ÓVODAPEDAGÓGUSOK ÁTLAGBÉRÉNEK
+
+|
+
+|
+
+|
+
+ÉS KÖZTERHEINEK ELISMERT
+
+|
+
+|
+
+|
+
+PÓTLÓLAGOS ÖSSZEGE
+
+|
+
+|
+
+|
+
+A 2013/2014. NEVELÉSI ÉVRE:
+
+|
+
+263 100 forint/számított létszám/3 hónap
+
+|
+
+|
+
+ÓVODAPEDAGÓGUSOK NEVELŐ MUNKÁJÁT
+
+|
+
+|
+
+|
+
+KÖZVETLENÜL SEGÍTŐK ÁTLAGBÉRÉNEK
+
+|
+
+|
+
+|
+
+ÉS KÖZTERHEINEK ELISMERT ÖSSZEGE:
 
 |
 
@@ -444,7 +508,7 @@ Psz1 = (L1 / Cs) * Feh1 + Vk1
 
 2013/2014. nevelési évre:
 
-Psz2 = (L2/Cs) * Feh2 + Vk2
+Psz2 = (L2/Cs) * Feh2 + Vk2 + Op
 
 ahol:
 
@@ -462,9 +526,11 @@ Feh1; Feh2 = foglalkozási együttható (két tizedesre kerekítve), azaz
 
 hányadosa (az egységes óvoda-bölcsőde esetében is az óvoda-pedagógusok kötelező heti óraszáma, illetve kötött munkaideje alapozza meg a számítást), korrigálva az intézménytípus-együtthatóval,
 
-Vk1; Vk2 = vezetői órakedvezmény miatti pedagógus többletlétszám a 2012/2013., illetve 2013/2014. nevelési évben (két tizedesre kerekítve).
+Vk1; Vk2 = vezetői órakedvezmény miatti pedagógus többletlétszám a 2012/2013., illetve 2013/2014. nevelési évben (két tizedesre kerekítve),
 
-A támogatás igénylése szempontjából az óvodapedagógusok nevelő munkáját közvetlenül segítők száma a 2012/2013. nevelési évben a Közokt. tv. 1. számú melléklet Első része, a 2013/2014. nevelési évben a Köznev. tv. 2. melléklete szerint elismerhető - a Kjt. alapján foglalkoztatott - létszám, de legfeljebb
+Op = a Köznev. tv. 61. § (3) bekezdése alapján az 500 fő ellátottat elérő, vagy azt meghaladó intézményeknél kötelezően alkalmazandó óvodapszichológusok létszáma.
+
+A támogatás igénylése szempontjából az óvodapedagógusok nevelő munkáját közvetlenül segítők száma a 2012/2013. nevelési évben a Közokt. tv. 1. számú melléklet Első része, a 2013/2014. nevelési évben a Köznev. tv. 2. melléklete és a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető - a Kjt. alapján foglalkoztatott - létszám, de legfeljebb
 
 – 2013. év első 8 hónapjában a ténylegesen foglalkoztatott segítők átlagos száma,
 

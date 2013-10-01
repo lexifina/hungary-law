@@ -831,3 +831,55 @@ a) A nevelőszülőnél biztosított otthont nyújtó ellátás esetén alkalmaz
 b) A nevelőszülőnél biztosított különleges ellátás esetén alkalmazandó korrekciós szorzóval számított támogatást a nevelőszülői hálózatot fenntartó veheti igénybe
 
 ba) az ideiglenes hatállyal elhelyezett, a Gyvt. 53. § (2) bekezdés a) pontja szerinti 0-3 éves életkorú különleges szükségletű gyermekek,
+
+bb) ideiglenes hatállyal elhelyezett nem magyar állampolgárságú a gyermekvédelmi szakértői bizottság szakvéleménye és a gyámhivatal határozata alapján különleges szükségletű gyermekek,
+
+bc) gyámhatósági határozattal átmeneti vagy tartós nevelésbe vett, a gyermekvédelmi szakértői bizottság szakvéleménye és a gyámhivatal határozata alapján a Gyvt. 53. § (2) bekezdés a) pontja szerinti különleges szükségletű gyermekek
+
+után, ha a gyermekek nevelőszülőnél, vagy hivatásos nevelőszülőnél kerültek elhelyezésre.
+
+A nevelőszülénél biztosított különleges ellátás támogatására való jogosultság megalapozásához a kora miatt különleges ellátást igénylő gyermek esetében a gyermekvédelmi szakértői bizottság szakvéleménye nem szükséges.
+
+c) A nevelőszülőnél biztosított speciális ellátás esetén alkalmazandó korrekciós szorzóval számított támogatást a nevelőszülői hálózatot fenntartó veheti igénybe
+
+ca) az ideiglenes hatállyal elhelyezett nem magyar állampolgárságú, a gyermekvédelmi szakértői bizottság szakvéleménye és a gyámhivatal határozata alapján speciális szükségletű gyermekek,
+
+cb) gyámhatósági határozattal átmeneti vagy tartós nevelésbe vett, a gyermekvédelmi szakértői bizottság szakvéleménye és a gyámhivatal határozata alapján a Gyvt. 53. § (2) bekezdés b) pontja szerinti speciális szükségletű gyermekek
+
+után, ha a gyermekek nevelőszülőnél, vagy hivatásos nevelőszülőnél kerültek elhelyezésre.
+
+d) A nevelőszülőnél biztosított utógondozói ellátás esetén alkalmazandó korrekciós szorzóval számított támogatást a nevelőszülői hálózatot fenntartó veheti igénybe – gyámhivatal határozata alapján – a Gyvt. 93. § (1) bekezdése b) vagy c) pontja szerinti ok miatt, a Gyvt. 53/A. §-a szerinti utógondozói ellátásban részesített, 18-25 éves korú fiatal felnőtt után, ha a fiatal felnőtt nevelőszülőnél, vagy hivatásos nevelőszülőnél került elhelyezésre.
+
+e) A nevelőszülőnél biztosított utógondozói ellátás esetén alkalmazandó korrekciós szorzóval számított támogatást a nevelőszülői hálózatot fenntartó veheti igénybe – gyámhivatal határozata alapján – a Gyvt. 93. § (1) bekezdése a) pontja szerinti ok miatt, a Gyvt. 53/A. §-a szerinti utógondozói ellátásban részesített, 18-21 éves korú fiatal felnőtt után, ha a fiatal felnőtt nevelőszülőnél, vagy hivatásos nevelőszülőnél került elhelyezésre.
+
+f) Az ellátottak számának meghatározása során a tervezéskor az intézményben ellátottak éves becsült gondozási napjainak számát 365-tel kell osztani, az elszámolásnál az ellátottak gondozási napokra vonatkozó nyilvántartása szerint összesített éves gondozási napok számát 365-tel kell osztani.
+
+III. Kiegészítő szabályok
+
+1. A nem állami szociális fenntartó a Kormány rendeletében meghatározott adatszolgáltatási rend szerint szolgáltat adatot a kincstár fenntartó székhelye szerint illetékes területi szerve részére.
+
+2. Gondozási napként egy ellátott egy napi intézményi ellátását kell figyelembe venni, amely az intézménybe történő felvétel napjával kezdődik és annak végleges elhagyásával fejeződik be. A gondozási napok számításánál az ideiglenesen – egészségügyi vagy egyéb okból – távollévőket is figyelembe kell venni. Az intézményi jogviszony egy évi folyamatos távollét esetén megszűnik.
+
+3. A támogatást az a nem állami szociális fenntartó veheti igénybe, amely
+
+a) az adott szociális szolgáltatásra, illetve gyermekjóléti, gyerekvédelmi szolgáltató tevékenységre jogerős működési engedéllyel rendelkeznek, továbbá az intézményt jogszabályokban meghatározott szakmai szabályoknak megfelelően tartja fenn és
+
+b) a Szoctv. 58/A. § (2), (2a) és (2e) bekezdése, illetve a Gyvt. 145. § (2)-(2c) bekezdése alapján új szociális, gyermekjóléti, gyermekvédelmi szolgáltatóra, intézményre, hálózatra, új ellátotti létszámra, illetve új férőhelyre – külön jogszabályban meghatározott kivételekkel –befogadást nyertek.
+
+4. A támogatás igénybevételének feltétele az ellátottak adatainak – a Szoctv. 20/C. § (1)-(4) bekezdése, illetve a Gyvt. 139. § (2) és (3) bekezdése szerinti – nyilvántartásba vétele. A támogatás igénybevételére a nem állami szociális fenntartó attól az időponttól jogosult, amikor a nyilvántartásba vettek ellátását ténylegesen megkezdte.
+
+5. A támogatás teljes összege abban az esetben jár, ha az intézmény a tárgyév egészében működési engedély alapján működik. Ha az intézmény nem egész évben működik, a támogatás a működés megkezdését követő hónap 1-jétől megszűnése hónapjának utolsó napjáig időarányosan jár. Ha a működési engedély a hónap első napjától érvényes, és a szolgáltatás, intézmény ezen időponttól jogszerűen működik, e hónapra a támogatás igénybe vehető.
+
+6. Az intézményben a Szoctv. 92/K. § (5) bekezdés b) pontja alapján az ellátottak száma egyetlen napon sem haladhatja meg a működési engedélyben meghatározott férőhelyszám 105%-át, éves átlagban pedig a férőhelyszám 100%-át. A Gyvt. 100. § (5) bekezdése alapján az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon, utógondozó otthon által történő biztosítása esetén az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett – a működési engedélyben meghatározott – nevelőszülői, illetve gyermekotthoni összférőhelyszám 100%-át.
+
+7. Átmeneti elhelyezést nyújtó intézménynek minősül a heti jelleggel, meghatározott időszakhoz kötődően folyamatosan működő, valamint határozott időtartamra elhelyezést biztosító intézmény, így különösen az időskorúak, fogyatékosok, pszichiátriai és szenvedélybetegek gondozóháza, otthonháza.
+
+8. A 16-35 év közötti drog- és szenvedélybeteg személyeket ellátó intézmények (szenvedélybetegek otthona, rehabilitációs intézménye, rehabilitációs lakóotthona) esetében a támogatás az OEP finanszírozással együtt is igénybe vehető.
+
+9. A gyermekvédelmi szakellátáshoz kapcsolódó támogatás igénybevételére a következő sajátos szabályok vonatkoznak:
+
+a) ha a gyermekvédelmi szakellátásban részesülő gyermek bölcsődei vagy családi napközi ellátásban vagy gyermek, fiatal felnőtt köznevelési szolgáltatásban részesül, a bölcsődei vagy családi napközi ellátást vagy a köznevelési szolgáltatást biztosító intézmény országos nemzetiségi önkormányzat, egyházi jogi személy vagy nem állami felsőoktatási intézmény fenntartója a feladathoz kapcsolódóan a 35. §, 35/A. § (1) és (2) bekezdése szerinti támogatás, egyéb fenntartója a 35/A. § (1) bekezdése szerinti támogatásra jogosult,
+
+b) az otthont nyújtó ellátásban, utógondozói ellátásban részesülők gondozási napok szerinti nyilvántartását – elhelyezés-típusonként, ellátási szükségletekre bontva – jogszabályban meghatározott szerv vezeti az ellátást nyújtó intézmények adatszolgáltatása alapján,
+
+c) ha a bentlakásos intézmény köznevelési feladatot is ellát, a fenntartó az intézményen belül oktatott tanulók létszáma alapján az ellátott feladathoz kapcsolódóan az országos nemzetiségi önkormányzat, egyházi jogi személy vagy nem állami felsőoktatási intézmény fenntartója a 35/A. § (1) és (2) bekezdése szerinti támogatás, egyéb fenntartója a 35/A. § (1) bekezdése szerinti támogatásra jogosult.

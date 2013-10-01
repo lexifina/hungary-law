@@ -14,7 +14,7 @@ d) a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 33. alcím, 1. 
 
 e) a 35. § (3)–(4) és (7)–(8) bekezdése szerinti támogatás igénylésének, folyósításának, elszámolásának, ellenőrzésének részletes szabályait,
 
-f) a 10. § (8) bekezdése szerinti kiadási megtakarítás befizetési kötelezettségének szabályait.
+f) a 10. § (8) bekezdése szerinti kiadási megtakarítás befizetési kötelezettségének szabályait,
 
 g) a 44/B. § és 44/C. § szerinti állami kezesség, valamint a 44/C. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 

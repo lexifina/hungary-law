@@ -7058,7 +7058,7 @@ A települési önkormányzatok egyes köznevelési és gyermekétkeztetési fel
 
 |
 
-163 371,4
+170 228,1
 
 |
 
@@ -7242,7 +7242,7 @@ IX. fejezet összesen:
 
 |
 
-636 449,9
+643 306,6
 
 |
 
@@ -12512,7 +12512,7 @@ Rendkívüli kormányzati intézkedések
 
 |
 
-100 000,0
+106 000,0
 
 |
 
@@ -12538,7 +12538,7 @@ Országvédelmi Alap
 
 |
 
-400 000,0
+315 877,3
 
 |
 
@@ -12562,7 +12562,7 @@ XI. fejezet összesen:
 
 |
 
-525 490,7
+447 368,0
 
 |
 
@@ -13948,7 +13948,7 @@ Mezőgazdasági középfokú szakoktatás intézményei
 
 |
 
-4 020,7
+4 584,3
 
 |
 
@@ -14014,7 +14014,7 @@ Személyi juttatások
 
 |
 
-3 043,4
+3 487,2
 
 |
 
@@ -14050,7 +14050,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-807,1
+926,9
 
 |
 
@@ -18678,7 +18678,7 @@ XII. fejezet összesen:
 
 |
 
-375 233,2
+375 796,8
 
 |
 
@@ -18686,7 +18686,7 @@ XII. fejezet összesen:
 
 |
 
-193 272,6
+193 836,2
 
 |
 
@@ -19836,7 +19836,7 @@ Honvéd Vezérkar közvetlen szervezetei
 
 |
 
-20 559,2
+20 562,2
 
 |
 
@@ -19902,7 +19902,7 @@ Személyi juttatások
 
 |
 
-14 315,7
+14 318,1
 
 |
 
@@ -19938,7 +19938,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-3 540,8
+3 541,4
 
 |
 
@@ -20978,6 +20978,126 @@ Beruházások
 
 |
 
+7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Gábor Dénes Elektronikai Műszaki Szakközépiskola és Kollégium
+
+|
+
+|
+
+|
+
+8,1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Működési költségvetés
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+Személyi juttatások
+
+|
+
+6,4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+Munkaadókat terhelő járulékok és szociális hozzájárulási adó
+
+|
+
+1,7
+
+|
+
+|
+
+|
+
 8
 
 |
@@ -21426,7 +21546,7 @@ XIII. fejezet összesen:
 
 |
 
-241 367,8
+241 378,9
 
 |
 
@@ -21434,7 +21554,7 @@ XIII. fejezet összesen:
 
 |
 
-217 338,0
+217 349,1
 
 |
 
@@ -22926,7 +23046,7 @@ Rendőrség
 
 |
 
-231 244,2
+232 249,3
 
 |
 
@@ -22992,7 +23112,7 @@ Személyi juttatások
 
 |
 
-155 431,3
+155 825,7
 
 |
 
@@ -23028,7 +23148,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-39 790,1
+39 886,9
 
 |
 
@@ -23064,7 +23184,7 @@ Dologi kiadások
 
 |
 
-38 663,2
+39 177,1
 
 |
 
@@ -26120,7 +26240,7 @@ XIV. fejezet összesen:
 
 |
 
-421 299,1
+422 304,2
 
 |
 
@@ -26128,7 +26248,7 @@ XIV. fejezet összesen:
 
 |
 
-403 813,0
+404 818,1
 
 |
 
@@ -33258,6 +33378,40 @@ A közösségi közlekedés összehangolása
 
 |
 
+3
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+UD rendszer működtetése és kapcsolódó feladatok
+
+|
+
+3 900,0
+
+|
+
+|
+
+3 900,0
+
+|
+
+|
+
+|
+
 5
 
 |
@@ -34184,6 +34338,36 @@ Kormányzati szakpolitikai feladatok
 
 |
 
+41
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vagyoni hozzájárulás a 2001. évi XX. tv. 2. § m) pont körében
+
+|
+
+100 000,0
+
+|
+
+|
+
+100 000,0
+
+|
+
+|
+
 |
 
 |
@@ -34198,7 +34382,7 @@ Kormányzati szakpolitikai feladatok
 
 |
 
-312 007,9
+415 907,9
 
 |
 
@@ -34206,7 +34390,7 @@ Kormányzati szakpolitikai feladatok
 
 |
 
-214 588,0
+318 488,0
 
 |
 
@@ -34444,7 +34628,7 @@ XVII. fejezet összesen:
 
 |
 
-574 355,1
+678 255,1
 
 |
 
@@ -34452,7 +34636,7 @@ XVII. fejezet összesen:
 
 |
 
-214 588,0
+318 488,0
 
 |
 
@@ -37700,6 +37884,38 @@ A hatvani Grassalkovich-kastély felújítása
 
 |
 
+|
+
+13
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+EU Önerő Alap
+
+|
+
+20 000,0
+
+|
+
+|
+
+20 000,0
+
+|
+
+|
+
 8
 
 |
@@ -37744,7 +37960,7 @@ XIX. fejezet összesen:
 
 |
 
-1 436 857,2
+1 456 857,2
 
 |
 
@@ -37752,7 +37968,7 @@ XIX. fejezet összesen:
 
 |
 
-151 164,8
+171 164,8
 
 |
 
@@ -38800,7 +39016,7 @@ Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítá
 
 |
 
-66 197,7
+66 248,2
 
 |
 
@@ -38866,7 +39082,7 @@ Személyi juttatások
 
 |
 
-54 724,8
+54 764,6
 
 |
 
@@ -38902,7 +39118,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-14 611,6
+14 622,3
 
 |
 
@@ -39934,7 +40150,7 @@ Egyetemek, főiskolák
 
 |
 
-123 549,9
+123 978,8
 
 |
 
@@ -40000,7 +40216,7 @@ Személyi juttatások
 
 |
 
-168 147,6
+168 485,3
 
 |
 
@@ -40036,7 +40252,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-47 758,2
+47 849,4
 
 |
 
@@ -44026,7 +44242,7 @@ Köznevelési feladatellátás és irányítás intézményei
 
 |
 
-411 930,5
+430 433,2
 
 |
 
@@ -44092,7 +44308,7 @@ Személyi juttatások
 
 |
 
-307 688,4
+322 257,5
 
 |
 
@@ -44128,7 +44344,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-82 987,0
+86 920,6
 
 |
 
@@ -44566,13 +44782,13 @@ Közoktatási célú humánszolgáltatás és kiegészítő támogatás
 
 |
 
-126 915,4
+138 017,8
 
 |
 
 |
 
-126 915,4
+138 017,8
 
 |
 
@@ -44695,6 +44911,38 @@ Kiválósági támogatások
 |
 
 10 000,0
+
+|
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Felsőoktatási Struktúraátalakítási Alap
+
+|
+
+11 000,0
+
+|
+
+|
+
+11 000,0
 
 |
 
@@ -44881,6 +45129,38 @@ Szakmai, tanügy-igazgatási informatikai feladatok támogatása
 |
 
 1 000,0
+
+|
+
+|
+
+|
+
+11
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kislétszámú hit- és erkölcstanoktatás kiegészítő támogatása
+
+|
+
+100,0
+
+|
+
+|
+
+100,0
 
 |
 
@@ -46470,13 +46750,13 @@ Szociális célú nem állami humánszolgáltatások támogatása
 
 |
 
-60 412,1
+65 012,1
 
 |
 
 |
 
-60 412,1
+65 012,1
 
 |
 
@@ -50682,7 +50962,7 @@ Roma ösztöndíj programok
 
 |
 
-1 823 471,9
+1 869 256,4
 
 |
 
@@ -50690,7 +50970,7 @@ Roma ösztöndíj programok
 
 |
 
-1 048 370,9
+1 094 155,4
 
 |
 
@@ -51518,7 +51798,7 @@ XX. fejezet összesen:
 
 |
 
-2 654 579,4
+2 700 363,9
 
 |
 
@@ -51526,7 +51806,7 @@ XX. fejezet összesen:
 
 |
 
-1 048 370,9
+1 094 155,4
 
 |
 
@@ -55754,7 +56034,7 @@ MTA Jóléti intézmények
 
 |
 
-201,4
+203,1
 
 |
 
@@ -55820,7 +56100,7 @@ Személyi juttatások
 
 |
 
-220,4
+221,7
 
 |
 
@@ -55856,7 +56136,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-63,8
+64,2
 
 |
 
@@ -56452,7 +56732,7 @@ XXXIII. fejezet összesen:
 
 |
 
-59 109,5
+59 111,2
 
 |
 
@@ -56460,7 +56740,7 @@ XXXIII. fejezet összesen:
 
 |
 
-43 127,5
+43 129,2
 
 |
 
@@ -63562,6 +63842,38 @@ Az MFB Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések
 
 |
 
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az MVM Zrt. tőkeemelése
+
+|
+
+71 000,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
 5
 
 |
@@ -64682,7 +64994,7 @@ XLIII. fejezet összesen:
 
 |
 
-155 390,0
+226 390,0
 
 |
 
@@ -73292,7 +73604,7 @@ KIADÁSI FŐÖSSZEG:
 
 |
 
-16 205 150,9
+16 376 150,9
 
 |
 
@@ -73332,4 +73644,4 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
--879 834,8
+-1 050 834,8

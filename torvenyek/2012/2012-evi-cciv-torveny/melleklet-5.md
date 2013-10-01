@@ -1034,6 +1034,34 @@ A vasúti pályahálózat működtetésének költségtérítése (21. cím, 1. 
 
 |
 
+15a
+
+|
+
+XX. EMBERI ERŐFORRÁSOK MINISZTÉRIUMA fejezetben
+
+|
+
+15b
+
+|
+
+|
+
+Közoktatási célú humánszolgáltatás és kiegészítő támogatás (20. cím, 2. alcím, 3. jogcím-csoport)
+
+|
+
+15c
+
+|
+
+|
+
+Szociális célú nem állami humánszolgáltatások támogatása (20. cím, 19. alcím, 1. jogcím-csoport)
+
+|
+
 16
 
 |
