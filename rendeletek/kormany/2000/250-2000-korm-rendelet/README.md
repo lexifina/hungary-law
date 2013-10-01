@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-250-20-
 | 2012-07-28 | 2000-250-20-22.18 | 204/2012. (VII. 27.) Korm. rendelet |
 | 2012-12-30 | 2000-250-20-22.19 | 433/2012. (XII. 29.) Korm. rendelet |
 | 2013-01-01 | 2000-250-20-22.20 | 382/2012. (XII. 19.) Korm. rendelet |
+| 2013-10-01 | 2000-250-20-22.21 | 345/2013. (IX. 30.) Korm. rendelet |

@@ -2,7 +2,7 @@
 
 12. § (1) A pénzügyi intézmény számlarendjének a Tv. 161. §-ának (2) bekezdésén túlmenően tartalmaznia kell a pénzügyi intézmény által végzett tevékenységekhez kapcsolódó számlaösszefüggéseket, továbbá a 0. Nyilvántartási számlák számlaosztályban kimutatott tételek bemutatását is.
 
-(2)[^133] A pénzügyi intézmény minden hónap utolsó napjára vonatkozóan – a Felügyelet, valamint a Magyar Nemzeti Bank részére készített évközi jelentések alátámasztása céljából – köteles eszköz- és forrásszámláit, valamint költség- és eredményszámláit lezárni, azok egyenlegét megállapítani, főkönyvi kivonatot, továbbá a 0. Nyilvántartási számlák számlaosztályban kimutatott mérlegen kívüli tételekről összesítést készíteni. A számviteli nyilvántartások havi, illetve negyedéves zárása során – a számviteli politikában is rögzítettek szerint – legalább a következő zárlati munkálatokat kell elvégezni:
+(2)[^133] A pénzügyi intézmény minden hónap utolsó napjára vonatkozóan – az MNB részére készített évközi jelentések alátámasztása céljából – köteles eszköz- és forrásszámláit, valamint költség- és eredményszámláit lezárni, azok egyenlegét megállapítani, főkönyvi kivonatot, továbbá a 0. Nyilvántartási számlák számlaosztályban kimutatott mérlegen kívüli tételekről összesítést készíteni. A számviteli nyilvántartások havi, illetve negyedéves zárása során – a számviteli politikában is rögzítettek szerint – legalább a következő zárlati munkálatokat kell elvégezni:
 
 a) az aktív és passzív időbeli elhatárolások elszámolása (pénzügyi vállalkozásnál negyedévente, hitelintézetnél havonta);
 
@@ -16,7 +16,7 @@ e) az értékcsökkenés elszámolása (negyedévente);
 
 f)[^135] a főkönyvi kivonat elkészítése. A főkönyvi kivonatnak tartalmaznia kell a könyvviteli számlák tárgyidőszaki nyitó egyenlegét, tartozik és követel forgalmát, valamint tárgyidőszak végi záró egyenlegét;
 
-g)[^136] a főkönyvi számlák technikai zárása (csak az egyenleg meghatározását értve alatta). A pénzügyi intézmény a zárlat keretében a főkönyvi számláit oly módon köteles zárni, hogy abból a Felügyelet által is ellenőrizhető legyen a tárgyidőszakban elért halmozott eredmény. A pénzügyi intézmény a főkönyvi kivonathoz kapcsolódóan köteles bemutatni számlaosztályonként a forgalmi adatok összesítését;
+g)[^136] a főkönyvi számlák technikai zárása (csak az egyenleg meghatározását értve alatta). A pénzügyi intézmény a zárlat keretében a főkönyvi számláit oly módon köteles zárni, hogy abból az MNB által is ellenőrizhető legyen a tárgyidőszakban elért halmozott eredmény. A pénzügyi intézmény a főkönyvi kivonathoz kapcsolódóan köteles bemutatni számlaosztályonként a forgalmi adatok összesítését;
 
 h) a még nem teljesített és pénzmozgással nem rendezett azonnali és határidős bizományi ügyletek miatt fennálló követelések és kötelezettségek könyvviteli nyilvántartásokból való kivezetése és a 0. Nyilvántartási számlák számlaosztályba való felvétele;
 
@@ -68,10 +68,10 @@ g) a pénzváltó ügynök működésének megszűnése esetén a pénzváltáss
 
 (15)[^146] A pénzügyi intézmény a Tv. 20. §-ának (4) bekezdését nem alkalmazhatja.
 
-[^133]: A 12. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 212. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^133]: A 12. § (2) bekezdés nyitó szövegrésze a 345/2013. (IX. 30.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
 [^134]: A 12. § (2) bekezdés c) pontja a 382/2012. (XII. 19.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^135]: A 12. § (2) bekezdésének f) pontja a 238/2003. (XII. 17.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^136]: A 12. § (2) bekezdésének g) pontja a 238/2003. (XII. 17.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^136]: A 12. § (2) bekezdésének g) pontja a 238/2003. (XII. 17.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet. A g) pont a 345/2013. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^137]: A 12. § (2) bekezdésének j) pontját a 238/2003. (XII. 17.) Korm. rendelet 9. § (1) bekezdése iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^138]: A 12. § (7) bekezdését a 291/2001. (XII. 26.) Korm. rendelet 10. §-a iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^139]: A 12. § (8) bekezdését a 291/2001. (XII. 26.) Korm. rendelet 10. §-a iktatta a szövegbe, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
