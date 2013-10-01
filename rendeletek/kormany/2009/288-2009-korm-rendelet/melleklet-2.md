@@ -4,7 +4,7 @@
 
 ## Tipus: AGY = adatgyűjtés AÁ, adatátvétel
 
-## 3K65002M_0
+## 3K68005M_0
 
 | Adatgyűjtés - Adatátvétel | Az adatszolgáltatás beérkezési határideje | Irányadó uniós jogi aktus |
 
@@ -64,7 +64,7 @@
 
 | 1078 | Részletező adatok a lakások és üdülők végleges használatba vételéről | AGY | Eseményhez kötődő | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | folyamatos | 1165/98/EK | Rendelet |
 
-| * 1080 | Jelentés az önkormányzatok ingatlankezelési és lakásellátási tevékenységéről | AGY | Évenkénti | önkormányzati lakásállománnyal rendelkező települi önkormányzatok | a tárgyévet követő március 1. |  |
+| * 1080 | Jelentés az önkormányzatok ingatlankezelési és lakásellátási tevékenységéről | AGY | Évenkénti | önkormányzati lakásállománnyal rendelkező települési önkormányzatok | a tárgyévet követő március 1. |  |
 
 | * 1081 | Építési engedélyek | AGY | Havonkénti | külön kormányrendeletben kijelölt elsőfokú építésügyi és építésfelügyeleti hatóságok | a tárgyhót követő hó 7. | 1165/98/EK | Rendelet |
 
@@ -128,7 +128,7 @@
 
 | * 1511 | Jelentés a javítóintézetek helyzetéről | AGY | Évenkénti | javítóintézetek | a tárgyévet követő január 31. |  |
 
-| 1600 | A pénzügyi vállalkozások és pénzügyi tevékenységet folytató egyéb szervezetek éves jelentései | AÁ | Évenkénti | a Pénzügyi Szervezetek Állami Felügyelete: Betétbiztosítási, Befektetővédelmi, Intézményvédelmi Alapok | a tárgyévet követő július 31. | 2223/96/EK | Rendelet |
+| 1600 | A pénzügyi vállalkozások és pénzügyi tevékenységet folytató egyéb szervezetek éves jelentései | AÁ | Évenkénti | a Magyar Nemzeti Bank: Betétbiztosítási, Befektetővédelmi, Intézményvédelmi Alapok | a tárgyévet követő július 31. | 2223/96/EK | Rendelet |
 
 | 1616 | Jelentés az önkormányzatok tulajdonában lévő ingatlanvagyonról | AÁ | Évenkénti | helyi önkormányzatok | a tárgyévet követő március 20. |  |
 
@@ -166,7 +166,7 @@
 
 | 1712 | Jelentés a lakás- és lakótelek-forgalom alakulásáról | AÁ | Havonkénti | Nemzeti Adó- és Vámhivatal | a tárgyhónapot követő hó 10. |  |
 
-| 1713 | Hitelintézetek, hitelintézeti fióktelepek adatai, pénzügyi vállalkozások és pénzügyi tevékenységet folytató egyéb szervezetek jelentései | AÁ | Havonkénti, negyed- évenkénti | a Pénzügyi Szervezetek Állami Felügyelete | hitelintézetek és fióktelepek esetében: a tárgyhót követő második hó 5., pénztárak esetében: tárgynegyedévet követő 3. hónap 10., többi szervezet esetében: a tárgynegyedévet követő második hó 10. | 2223/96/EK | Rendelet |
+| 1713 | Hitelintézetek, hitelintézeti fióktelepek adatai, pénzügyi vállalkozások és pénzügyi tevékenységet folytató egyéb szervezetek jelentései | AÁ | Havonkénti, negyed- évenkénti | a Magyar Nemzeti Bank | hitelintézetek és fióktelepek esetében: a tárgyhót követő második hó 5., pénztárak esetében: tárgynegyedévet követő 3. hónap 10., többi szervezet esetében: a tárgynegyedévet követő második hó 10. | 2223/96/EK | Rendelet |
 
 | 1714 | Egészségbiztosítási ellátások éves területi adatai | AÁ | Évenkénti | az Országos Egészségbiztosítási Pénztár | a tárgyévet követő május 30. |  |  |
 
@@ -336,7 +336,7 @@
 
 | 2129 | Magzati veszteség adatai | AÁ | Negyedéven- kénti | Országos Egészségbiztosítási Pénztár | a tárgynegyedévet követő harmadik hó 30. |  |
 
-| * 2130 | Az üzleti szolgáltatások kibocsátási árjelentése | AGY | N Negyedéven- kénti | üzleti szolgáltatást végző, a megfigyelésbe bevont gazdasági szervezetek | a tárgynegyedévet követő hó 8. nap | 1158/2005/EK Rendelet 1503/2006/EK Rendelet 2002/990/EK Határozat 2223/96/EK Rendelet 98/715/EK Határozat |
+| * 2130 | Az üzleti szolgáltatások kibocsátási árjelentése | AGY | Negyedéven- kénti | üzleti szolgáltatást végző, a megfigyelésbe bevont gazdasági szervezetek | a tárgynegyedévet követő hó 8. nap | 1158/2005/EK Rendelet 1503/2006/EK Rendelet 2002/990/EK Határozat 2223/96/EK Rendelet 98/715/EK Határozat |
 
 | * 2131 | A vasúti szállítás negyedéves adatai | AGY | Negyedéven- kénti | a szükséges vasúti engedélyekkel rendelkező gazdasági szervezetek | a tárgynegyedévet követő hó 20. | 1192/2003/EK Rendelet 91/2003/EK Rendelet |
 
@@ -414,7 +414,7 @@
 
 ## Adatkörök
 
-## 3K65002M_1
+## 3K68005M_1
 
 | nyilván- tartási száma |  | Adatgyűjtés | - Adatátvétel |
 
