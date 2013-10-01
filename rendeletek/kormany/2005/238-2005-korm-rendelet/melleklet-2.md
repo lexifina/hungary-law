@@ -34,7 +34,7 @@
 
 | 14. Kivitelezési dokumentációtól vagy ennek hiányában engedélyezési dokumentációtól eltérő kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 400.000 Ft |  |
 
-| 15. Az építési napló hiánya (csak a kitöltött címlappal és nyilvántartási résszel rendelkező építési naplót lehet meglévőnek tekinteni) |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 1.500.000 Ft |  |  |
+| 15. Az építési főnapló készenlétbe helyezésének vagy megnyitásának a hiánya | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |  | 200.000 Ft + 0,01xSZÉ legfeljebb 1.500.000 Ft |  |  |
 
 | 16. Az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése |  | 200.000 Ft + 0,005xSZÉ legfeljebb 800.000 Ft | 500.000 Ft + 0,015xSZÉ legfeljebb 5.000.000 Ft | 400.000 Ft + 0,006xSZÉ legfeljebb 1.500.000 Ft |  |
 
@@ -76,7 +76,7 @@
 
 | 8. Kivitelezési dokumentációtól vagy ennek hiányában engedélyezési dokumentációtól eltérő kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,007xSZÉ legfeljebb 400.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |
 
-| 9. Az építési napló hiánya (csak a kitöltött címlappal és nyilvántartási résszel rendelkező építési naplót lehet meglévőnek tekinteni) |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 1.000.000 |  |  |
+| 9. Az építési főnapló készenlétbe helyezésének vagy megnyitásának a hiánya | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |  | 200.000 Ft + 0,01xSZÉ legfeljebb 1.000.000 |  |  |
 
 | 10. Az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése | 200.000 Ft + 0,005xSZÉ legfeljebb 1.000.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 250.000 Ft + 0,02xSZÉ legfeljebb 3.000.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 800.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft |
 
