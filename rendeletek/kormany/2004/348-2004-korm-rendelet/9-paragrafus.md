@@ -12,7 +12,7 @@ b) az értékpapír kölcsönzési rendszer működtetése miatt felszámított 
 
 (4) Az analitikus, illetve a főkönyvi nyilvántartások keretében biztosítani kell, hogy az elszámolóházi tevékenységből adódó befektetési szolgáltatókkal szembeni követelések árutőzsdei és értéktőzsdei ügyletek részletezésben megállapíthatók legyenek.
 
-(5) Az értéktári szolgáltatások miatti követelésként kell kimutatni az értékpapírok letétkezeléséért, letéti őrzéséért, az értékpapírszámla vezetéséért, a letéti igazolások kiállításáért, a központi értékpapírszámla vezetéséért, a részvénykönyv vezetéséért, az értékpapírok be- és kiszállításáért, az elszámolóházi tevékenységet segítő, kiegészítő tevékenységekért, továbbá egyéb – a Pénzügyi Szervezetek Állami Felügyelete által jóváhagyott Díjszabályzatban rögzített – szolgáltatásokért felszámított díjak miatti követelés összegét.
+(5)[^4] Az értéktári szolgáltatások miatti követelésként kell kimutatni az értékpapírok letétkezeléséért, letéti őrzéséért, az értékpapírszámla vezetéséért, a letéti igazolások kiállításáért, a központi értékpapírszámla vezetéséért, a részvénykönyv vezetéséért, az értékpapírok be- és kiszállításáért, az elszámolóházi tevékenységet segítő, kiegészítő tevékenységekért, továbbá egyéb – a Felügyelet által jóváhagyott Díjszabályzatban rögzített – szolgáltatásokért felszámított díjak miatti követelés összegét.
 
 (6) Befektetési szolgáltatásokból adódó követelések között kell kimutatni az elszámolóházi tevékenységet végző szervezet által, saját számlájára tőzsdén kívül kötött ügyletek, értékpapír-kölcsönadási ügyletek miatt fennálló követelések összegét.
 
@@ -21,3 +21,5 @@ b) az értékpapír kölcsönzési rendszer működtetése miatt felszámított 
 (8) A forgóeszközökön belüli értékpapírok között elkülönítetten kell kimutatni a szabad pénzeszközökből beszerzett állampapírok és hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapírok összegét.
 
 (9) A pénzeszközökön belül, az analitikus nyilvántartások vagy a főkönyvi nyilvántartások keretében elkülönítetten kell kimutatni a szabad pénzeszközöknek az MNB-nél, illetve hitelintézetnél éven belüli lejáratú betétbe, illetve a pénzforgalmi számlán elhelyezett összegét, valamint a pénztárban ilyen címen rendelkezésre álló pénzösszeget.
+
+[^4]: A 9. § (5) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
