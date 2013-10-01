@@ -14,8 +14,8 @@ f) 168. § (4a) bekezdésében a „közigazgatási és hatósági eljárás és
 
 lép.
 
-(2) A VET. 114/B. § (1) bekezdésében az „és 15.” szövegrész helyébe a „ , 9. és 15.” szöveg lép.
+(2)
 
-(3) A VET. 114/B. § (1) bekezdésében a „9. és 15.” szövegrész helyébe a „8–9. és 15.” szöveg lép.
+(3)
 
-(4) A VET. 53. § (1) bekezdés b) pontjában a „13. § (1) bekezdés” szövegrész helyébe a „13. § (5) bekezdés b) pontja” szöveg lép.
+(4)

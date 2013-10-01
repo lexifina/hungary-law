@@ -4,4 +4,4 @@ a) 13. § (1) bekezdésében a „(kivéve az egyetemes szolgáltatókat az ált
 
 b) 178/D. §-a.
 
-(2) Hatályát veszti a VET. 171/A. §-a.
+(2)
