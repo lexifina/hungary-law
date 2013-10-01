@@ -24,9 +24,11 @@ c) a külföldi vezetői engedély honosításával,
 
 d)[^21] az elektronikus úton indított, az ügyfél személyes megjelenése nélkül intézhető közlekedési igazgatási ügyekkel
 
+e)[^22] a mozgásában korlátozott személy parkolási igazolványának elektronikus úton történő pótlásával és cseréjével
+
 kapcsolatos feladatokat.
 
-(4)[^22] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
+(4)[^23] A KEKKH Budapest és Pest megye területére kiterjedő kizárólagos illetékességgel ellátja:
 
 a) a „P”, és a „Z” betűjelű ideiglenes, valamint
 
@@ -36,4 +38,5 @@ b) a külön jogszabályban meghatározott közúti közlekedési szolgáltatás
 [^19]: A 12/A. § (1) bekezdés f) pontja a 15/2013. (I. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^20]: A 12/A. § (3) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^21]: A 12/A. § (3) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 51/2013. (II. 25.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^22]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 12/A. § (3) bekezdés e) pontját az 5/2013. (I. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^23]: A 12/A. § (4) bekezdését a 418/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
