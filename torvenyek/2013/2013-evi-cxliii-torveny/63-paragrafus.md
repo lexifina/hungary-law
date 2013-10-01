@@ -1,0 +1,3 @@
+63. § A Tpt. „Átmeneti rendelkezések” alcíme a következő 450/A. §-sal egészül ki:
+
+„450/A. § Az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvény hatálybalépése nem érinti a 223. § (2) bekezdése alapján létrejött olyan igazgatósági tagsági jogviszonyt, mely 2013. szeptember 30-án már fennállt, azzal hogy az MNB a 223. § (2) bekezdés c) pontjában meghatározott jogosultságával az e törvényben meghatározott megszűnési okok valamelyikének bekövetkezte esetén élhet.”

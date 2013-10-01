@@ -1,0 +1,5 @@
+## 54. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
+
+165. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény (a továbbiakban: Postatv.) 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Nemzetközi postautalvány-szolgáltatás tekintetében nem minősül az üzleti titok sérelmének a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 22. § (1) és (2) bekezdése alapján a pénzügyi információs egységként működő hatóság és a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) részére történő adatátadás, továbbá a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett pénzforgalmi szolgáltatója és közvetítő pénzforgalmi szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása.”
