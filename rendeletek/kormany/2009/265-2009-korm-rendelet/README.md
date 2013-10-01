@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-265-20-
 | 2011-01-01 | 2009-265-20-22.2 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2012-01-01 | 2009-265-20-22.3 | 293/2011. (XII. 22.) Korm. rendelet |
 | 2013-03-30 | 2009-265-20-22.4 | 99/2013. (III. 29.) Korm. rendelet |
+| 2013-10-01 | 2009-265-20-22.5 | 99/2013. (III. 29.) Korm. rendelet |
