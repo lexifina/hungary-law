@@ -8,4 +8,7 @@ a) az energia-végfelhasználás hatékonyságáról és az energetikai szolgál
 
 b) a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+(3)[^507] Ez a rendelet a földgázszállító hálózatokhoz való hozzáférés feltételeiről szóló 715/2009/EK európai parlamenti és tanácsi rendelet I. mellékletének módosításáról szóló, 2012. augusztus 24-i 2012/490/EU európai bizottsági határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
+
 [^506]: A Vhr. 168. §-a a 293/2011. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^507]: A Vhr. 168. § (3) bekezdését a 344/2013. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
