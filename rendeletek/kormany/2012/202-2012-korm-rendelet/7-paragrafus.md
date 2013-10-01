@@ -1,4 +1,4 @@
-7. §[^16] (1) Az Intézményfenntartó Központ a köznevelési közfeladat-ellátásban részt vevő, fenntartásában lévő köznevelési intézmények tekintetében
+7. §[^17] (1) Az Intézményfenntartó Központ a köznevelési közfeladat-ellátásban részt vevő, fenntartásában lévő köznevelési intézmények tekintetében
 
 a) ellátja – az Nkt.-ban és az e rendeletben foglaltak kivételével, figyelemmel a b)–i) pontban foglaltakra – az Nkt. 83. § (2) bekezdésében meghatározott fenntartói feladatokat,
 
@@ -44,7 +44,7 @@ h) ellátja a jogszabályban és az Intézményfenntartó Központ alapító oki
 
 (3) Az Intézményfenntartó Központ a fenntartásában lévő szakképző intézmények tekintetében
 
-a) ellátja a szakképző iskolák működésének országos szakmai koordinációját,
+a)[^18] ellátja a szakképző iskolák szakképzési feladatainak országos szakmai koordinációját,
 
 b) kidolgozza a szakképzéssel kapcsolatos országos feladatellátási koncepciót, fejlesztési tervet, szakmai irányelveket és feladatszervezési alapelveket, továbbá elemzéseket készít,
 
@@ -62,6 +62,10 @@ h) a Kormány által az adott megyében, a fővárosban az állami intézményfe
 
 i) tervet készít a megyei szakképzési kapacitásokra vonatkozóan, amelyet összehangol a nem állami fenntartók által ellátott szakképzési feladatokkal.
 
+(3a)[^19] A (3) bekezdésben meghatározott feladatokat az elnök a szakképzési elnökhelyettes egyetértésével látja el.
+
+(3b)[^20] A szakképzésért felelős szervezeti egység vezetőjét – a szakképzési elnökhelyettes egyetértésével – az elnök nevezi ki és menti fel.
+
 (4) Az Intézményfenntartó Központ a szakképzéssel kapcsolatos feladatait a szakképzésért és felnőttképzésért felelős miniszterrel együttműködve látja el.
 
 (5) Az elnök a feladatkörébe tartozó több ágazatot érintő kérdésekben egyeztetést kezdeményez a miniszternél.
@@ -72,4 +76,7 @@ i) tervet készít a megyei szakképzési kapacitásokra vonatkozóan, amelyet �
 
 (8) Az Intézményfenntartó Központnak az oktatási ágazati jogszabályokban valamint az e rendeletben meghatározott ágazati fenntartói feladataihoz – különösen az (1) bekezdés g)–i) pontjaiban meghatározott adatszolgáltatási és ágazati fenntartói informatikai és fenntartói tevékenységéhez – kapcsolódó informatikai tevékenységet – a külön kormányrendeletben meghatározott informatikai feladatok kivételével – az Educatio Társadalmi Szolgáltató Nonprofit Kft. látja el.
 
-[^16]: A 7. § a 199/2013. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^17]: A 7. § a 199/2013. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^18]: A 7. § (3) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^19]: A 7. § (3a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^20]: A 7. § (3b) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be.
