@@ -1,0 +1,3 @@
+## 8. §[^8] A miniszter a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos kormányközi megállapodásról vagy e tárgykörben kötött kormányközi megállapodás módosításáról harmadik országgal folytatott tárgyalás előtt vagy során tájékoztathatja a Bizottságot a tárgyalás céljáról, tartalmáról és gondoskodhat a releváns információk megküldéséről. Ha a miniszter tájékoztatja a Bizottságot, részére a tárgyalás előrehaladásáról rendszeresen beszámolni köteles.
+
+[^8]: A 8. §-t a 83/2011. (XII. 29.) NFM rendelet 12. §-a hatályon kívül helyezte, újonnan az 56/2013. (IX. 27.) NFM rendelet 1. §-a iktatta be.
