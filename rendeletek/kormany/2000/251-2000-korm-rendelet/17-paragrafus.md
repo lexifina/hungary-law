@@ -58,7 +58,7 @@ b) a vagyonkezelési szerződés alapján kötött és a mérleg fordulónapján
 
 13.[^102] a követelések – ezen belül külön kiemelten a halasztott pénzügyi teljesítés és a befektetési hitel miatti követelés –, valamint az értékpapírok és a követelés kiegyenlítéseként kapott – készletként kimutatott – eszközök bekerülési értékét, továbbá a bekerülés óta elszámolt értékvesztést és annak visszaírt összegét;
 
-14.[^103] a Magyar Nemzeti Bank által – a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 9. §-ának (1)–(2) bekezdése értelmében – előírt kötelező tartalék Magyar Nemzeti Banknál elhelyezett összegét;
+14.[^103] a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 19. § (1) és (2) bekezdése alapján előírt kötelező tartalék Magyar Nemzeti Banknál elhelyezett összegét;
 
 15. a külföldi székhelyű vállalkozás magyarországi fióktelepeként működő befektetési vállalkozásnál a külföldi székhelyű vállalkozással vagy annak más fióktelepével szembeni – pénzügyileg nem rendezendő – követeléseit és kötelezettségeit – a tárgyévi összevezetést megelőzően –, előző évről áthozott egyenleg és az üzleti évben keletkezett tételek bontásban, a keletkezés jogcímének megjelölésével.
 
@@ -105,7 +105,7 @@ g) az átsorolt pénzügyi instrumentum tartásának ideje alatt az egyes üzlet
 [^100]: A 17. § 5. pontja a 241/2003. (XII. 17.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^101]: A 17. § 12. pontja a 292/2001. (XII. 26.) Korm. rendelet 13. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^102]: A 17. § 13. pontja a 292/2001. (XII. 26.) Korm. rendelet 13. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
-[^103]: A 17. § 14. pontja a 292/2001. (XII. 26.) Korm. rendelet 13. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
+[^103]: A 17. § 14. pontja a 345/2013. (IX. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^104]: A 17. § 16. pontját a 292/2001. (XII. 26.) Korm. rendelet 13. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^105]: A 17. § 17. pontját a 292/2001. (XII. 26.) Korm. rendelet 13. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^106]: A 17. § 18. pontját a 292/2001. (XII. 26.) Korm. rendelet 13. §-ának (3) bekezdése iktatta a szövegbe, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
