@@ -1,3 +1,0 @@
-26. § (1) A 25. § (1) bekezdés i) pontjában meghatározott, az ellenőrzött szervezettel, személlyel szemben kiszabható bírság összege százezer forinttól kétmilliárd forintig terjedhet. A bírságot a jogsértéssel okozott sérelemre, a jogsértés súlyára és ismétlődő jellegére tekintettel állapítja meg az MNB.
-
-(2) A vezetővel szemben kiszabható bírság összege százezer forinttól húszmillió forintig terjedhet. A vezetővel szemben kiszabott bírság összegét az ellenőrzött szervezetek nem vállalhatják át. A bírságot a jogsértéssel okozott sérelemre, a jogsértés súlyára és ismétlődő jellegére tekintettel állapítja meg az MNB.
