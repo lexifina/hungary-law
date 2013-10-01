@@ -1,3 +1,3 @@
-1. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^64]
+1. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^74]
 
-[^64]: Az 1. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.
+[^74]: Az 1. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.

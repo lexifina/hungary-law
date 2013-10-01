@@ -20,7 +20,7 @@ c) az E betűjelű ideiglenes rendszámtábla, az ideiglenes forgalomban tartás
 
 d) személyes megjelenés esetén az ügyfél, képviseleti eljárás esetén a meghatalmazott személyazonosságát igazoló okmányt, illetve képviseleti eljárás esetén meghatalmazást, valamint
 
-e)[^77] jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság esetében
+e)[^87] jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság esetében
 
 ea) közjegyzői aláírás-hitelesítéssel ellátott címpéldányt, avagy ennek közjegyző által hitelesített másolatát,
 
@@ -390,6 +390,7 @@ b) a személyi azonosítót és a lakcímet igazoló hatósági igazolványt,
 
 c) külföldi esetén a szokásos tartózkodási hely országát igazoló okmányt,
 
-d) az új, kezdő vezetői engedély kiadása, új kategória megszerzése, illetve külföldi hatóság által kiállított vezetői engedély honosítása esetén az e rendeletben meghatározott tanfolyammentes gyakorlati, illetve elméleti vizsgakötelezettség teljesítésének igazolására a sikeres vizsga tényét tanúsító, a közlekedési hatóság által kiállított vizsgalapot, illetve vizsgaigazolást.
+d)[^88]
 
-[^77]: A 19. melléklet I. rész 2. pont e) alpontja a 355/2012. (XII. 13.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^87]: A 19. melléklet I. rész 2. pont e) alpontja a 355/2012. (XII. 13.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^88]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.

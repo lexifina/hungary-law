@@ -15,3 +15,7 @@
 (6) A nemzeti kategóriára nemzetközi vezetői engedély nem érvényesíthető.
 
 (7) A nemzetközi vezetői engedély igénylésére irányuló kérelmét az ügyfél a kormányzati portálon keresztül elektronikus úton is előterjesztheti.
+
+(8)[^8] A nemzetközi vezetői engedély kiállítása elektronikus úton is intézhető. Az elektronikus úton igényelt nemzetközi vezetői engedélyt – a kérelem teljesíthetősége esetén – a Hivatal 15 napon belül postai úton kézbesíti. Az elkészült okmány az ügyfél rendelkezése szerint átvehető postai kézbesítés útján vagy a Hivatalnál.
+
+[^8]: A 10. § (8) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 18. §-a iktatta be.

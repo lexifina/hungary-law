@@ -1,6 +1,6 @@
 46. § (1) A törzskönyvben és a nyilvántartásban tulajdonosként azt a természetes személyt, jogi személyiséggel rendelkező vagy jogi személyiség nélküli szervezetet lehet feltüntetni, aki a jármű tulajdonjogának jogszerű megszerzését, származását, továbbá eredetiségét e rendeletben foglaltak szerint igazolja.
 
-(2)[^23] A forgalmi engedély és a törzskönyv kiadása nélkül a nyilvántartásba be kell jegyezni – a jármű tulajdonjogában beállt változásnak a tulajdonátruházó által tett bejelentésben meghatározott, a személyi- és lakcímnyilvántartásban történő ellenőrzés alapján hitelesített – a Kknyt. 9. § (1a) bekezdésében meghatározott adatokat.
+(2)[^25] A forgalmi engedély és a törzskönyv kiadása nélkül a nyilvántartásba be kell jegyezni – a jármű tulajdonjogában beállt változásnak a tulajdonátruházó által tett bejelentésben meghatározott, a személyi- és lakcímnyilvántartásban történő ellenőrzés alapján hitelesített – a Kknyt. 9. § (1a) bekezdésében meghatározott adatokat.
 
 (3) A forgalmi engedélyben és a nyilvántartásban üzemben tartóként azt a természetes személyt, vagy jogi személyiséggel rendelkező vagy jogi személyiség nélküli szervezetet lehet feltüntetni, aki a jármű jogszerű üzemeltetésére szerződés vagy más, hitelt érdemlően igazolt jogcím alapján jogosult.
 
@@ -14,4 +14,4 @@
 
 (8) A négykerekű segédmotoros kerékpárok forgalomba helyezésére irányuló kérelem elbírálása során a jármű tulajdonjogának hitelt érdemlő igazolása hiányában a származás-ellenőrzés és eredetiségvizsgálat elvégzése nélkül a forgalmi engedély és a rendszámtábla kiadható az üzemben tartó járműnyilvántartásba történő egyidejű bejegyzésével, ha a jármű magyarországi gyártására vagy behozatalára 2009. április 1-jét megelőzően került sor, és a járműnek a forgalomba helyezést kezdeményező ügyfél birtokába kerülése igazolt.
 
-[^23]: A 46. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^25]: A 46. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
