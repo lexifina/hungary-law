@@ -24,4 +24,4 @@ j) a lakáscélú felhasználás bizonyításának okiratai.
 
 (2) A lakástakarékpénztár köteles általános szerződési feltételeit oly módon meghatározni, hogy azok hosszú távon biztosítsák a lakáselőtakarékoskodók és a lakástakarékpénztár által vállalt kötelezettségek összhangját.
 
-(3) Az általános szerződési feltételek módosításához a Felügyelet engedélye szükséges.
+(3) Az általános szerződési feltételek módosításához az MNB engedélye szükséges.

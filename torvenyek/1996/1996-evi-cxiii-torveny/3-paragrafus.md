@@ -10,7 +10,7 @@
 
 (5) Lakástakarékpénztár legalább kétmilliárd forint induló tőkével alapítható.
 
-(6) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) a működési engedély iránti kérelmet elutasítja, ha a szerződéses módozatokra vonatkozó modellszámítások alapján az általános szerződési feltételek a szerződések teljesíthetőségét nem mutatják tartósan garantáltnak, vagy a szerződéses összegek kiutalását indokolatlanul elhalasztanák, méltánytalanul hosszú minimális megtakarítási időket határoznak meg, vagy a betételhelyezők egyéb érdekeit nem védik megfelelően.
+(6) A Magyar Nemzeti Bank (a továbbiakban: MNB) a működési engedély iránti kérelmet elutasítja, ha a szerződéses módozatokra vonatkozó modellszámítások alapján az általános szerződési feltételek a szerződések teljesíthetőségét nem mutatják tartósan garantáltnak, vagy a szerződéses összegek kiutalását indokolatlanul elhalasztanák, méltánytalanul hosszú minimális megtakarítási időket határoznak meg, vagy a betételhelyezők egyéb érdekeit nem védik megfelelően.
 
 (7) A módozat tartalmi elemei:
 

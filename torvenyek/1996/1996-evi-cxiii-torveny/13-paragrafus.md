@@ -1,3 +1,3 @@
 13. § (1) A lakástakarékpénztár által felvett kölcsönök, illetve az általa kibocsátott hitelviszonyt megtestesítő értékpapírok (a továbbiakban együtt: felvett kölcsönök) állománya a 10. § (2) bekezdésében foglalt eset kivételével nem haladhatja meg a folyósított áthidaló kölcsöneinek állományát. A felvett kölcsönök állománya – beleértve a 10. § (2) bekezdésben foglalt esetet is – a kölcsönfelvételkor, illetve a hitelviszonyt megtestesítő értékpapír kibocsátásakor nem haladhatja meg a betétállomány 40%-át.
 
-(2) A felvett kölcsönök állományának alakulásáról a lakástakarékpénztár a folyamatos adatszolgáltatás körében jelentést tesz a Felügyeletnek.
+(2) A felvett kölcsönök állományának alakulásáról a lakástakarékpénztár a folyamatos adatszolgáltatás körében jelentést tesz az MNB-nek.
