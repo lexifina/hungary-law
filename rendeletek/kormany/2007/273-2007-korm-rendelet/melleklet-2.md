@@ -96,6 +96,6 @@
 
 ## b) az egyetemes szolgáltató üzletszabályzatában vagy a villamosenergia-vásárlási szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^360]
+2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^364]
 
-[^360]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^364]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.

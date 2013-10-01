@@ -188,7 +188,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^433]
+23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^437]
 
 Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába történő
 
@@ -318,48 +318,4 @@ Igazolom, hogy a villamos energiáról szóló 2007. évi LXXXVI. törvény egye
 
 * Az orvos tölti ki!
 
-A táblázatban fel kell tüntetni az igénylőt, akit a fogyatékossága okán a Rendelet 33. § (1) bekezdése szerinti eseteknek megfelelően különleges bánásmódban kell részesíteni a villamos energia felhasználása során. A fogyatékosság jellegénél a korlátozottság jellegének megfelelő betűjelet vagy betűjeleket kell megadni.
-
-A Rendelet 33. § (1) bekezdés b) pontja szerinti fogyatékosság esetén annak jellege alapján álláspontom szerint a fogyasztó tekintetében az alábbi típusú különleges bánásmód (bánásmódok) alkalmazása lehet indokolt:
-
-a) havi (időközi) mérőleolvasás a felhasználási helyen,
-
-b) készpénzben történő számlakiegyenlítés a felhasználási helyen,
-
-c) az általánostól eltérő, de a műszaki-biztonsági előírásoknak megfelelő mérőhely-kialakítás,
-
-d) a számla értelmezéséhez az engedélyes üzletszabályzata szerint nyújtott egyedi segítség, különösen nagyobb betűmérettel nyomtatott számla, helyszíni számla magyarázat, számlafordíttatás,
-
-e) egyéb szolgáltatás, éspedig:
-
-A 33. § (1) bekezdés b) pont bc) alpontja szerinti körbe tartozó fogyatékkal élő személy vonatkozásában a villamosenergia-ellátás kikapcsolásának, szüneteltetésének vagy szünetelésének esetén értesítendő személy vagy szervezet neve, telefonszáma: ................................................................
-
-Alulírott ....................... mint a fent megjelölt személy orvosi ellátását végző orvos, a Rendelet 33. § (1) bekezdésében foglaltak alapján kijelentem, hogy a fent megjelölt fogyatékossági állapotra vonatkozó adatok a valóságnak megfelelnek.
-
-Kelt:
-
-P. H.
-
-.....................................
-
-orvos aláírása
-
-KITÖLTÉSI ÚTMUTATÓ
-
-Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
-
-A villamos energiáról szóló 2007. évi LXXXVI. törvény 64. § (1) bekezdése alapján a védendő fogyasztók nyilvántartásába történő felvétel
-
-a) fogyatékkal élő fogyasztóként és/vagy
-
-b) szociálisan rászoruló fogyasztóként
-
-kérelmezhető.
-
-A villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 19. pontja szerint fogyatékkal élő fogyasztó:
-
-a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy,
-
-b) a vakok személyi járadékában részesülő személy, továbbá
-
-[^433]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. § szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
+[^437]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. § szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.

@@ -2,9 +2,9 @@
 
 ## A Hivatal eljárására vonatkozó általános szabályok
 
-118. § (1)[^340]
+118. § (1)[^343]
 
-(2)[^341] A Hivatal határozatainak közzététele során a az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint a minősített adat védelméről szóló törvény rendelkezéseinek figyelembevételével jár el.
+(2)[^344] A Hivatal határozatainak közzététele során a az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint a minősített adat védelméről szóló törvény rendelkezéseinek figyelembevételével jár el.
 
-[^340]: A Vhr. 118. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^341]: A Vhr. 118. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^343]: A Vhr. 118. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^344]: A Vhr. 118. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 27. §-ával megállapított szöveg.

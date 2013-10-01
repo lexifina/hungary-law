@@ -218,6 +218,6 @@
 
 ## 15.4. tercier oldali névleges feszültség (kV).
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^432]
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^436]
 
-[^432]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése szerint módosított szöveg.
+[^436]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése szerint módosított szöveg.
