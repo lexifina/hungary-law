@@ -1,6 +1,6 @@
 ## Az elismerés hatásai
 
-31. §[^15] (1) A partnerkockázati kitettség mérése sztenderd módszerénél a nettósítás hatását az V. Fejezetben leírtak szerint, a belső modell módszer alkalmazásakor a VI. Fejezetben leírtak szerint kell számítani.
+31. §[^26] (1) A partnerkockázati kitettség mérése sztenderd módszerénél a nettósítás hatását az V. Fejezetben leírtak szerint, a belső modell módszer alkalmazásakor a VI. Fejezetben leírtak szerint kell számítani.
 
 (2) Az adósságmegújítási szerződések (novációs szerződések) által rögzített egyedi nettó összegek súlyozhatóak azzal, hogy
 
@@ -8,7 +8,7 @@ a) a piaci árazás szerinti módszer alkalmazásakor a pótlási költséget é
 
 b) az eredeti kitettség szerinti módszer alkalmazásakor a szerződéskötési értéket az adósságmegújítási szerződés által keletkeztetett nettó értékre kell értelmezni és azt az összeget kell megszorozni a 2. számú mellékletben meghatározott táblázatban szereplő megfelelő értékkel a futamidőtől és az ügylettípustól függően.
 
-(3) Egyéb, jogszabály vagy a Felügyelet által elismert nettósítási megállapodások esetében a termékcsoportok közötti nettósítás kivételével
+(3)[^27] Egyéb, jogszabály vagy az MNB által elismert nettósítási megállapodások esetében a termékcsoportok közötti nettósítás kivételével
 
 a) a piaci árazás szerinti módszer alkalmazásakor a nettósítási megállapodásba tartozó szerződések
 
@@ -26,4 +26,5 @@ bb) a nettósítási megállapodás alá tartozó minden más szerződés eseté
 
 (5) A (3) és (4) bekezdés alkalmazásában tökéletesen illeszkedő szerződések olyan tőzsdén kívüli deviza határidős ügyletek (forward) és hasonló szerződések, amelyeknél a pénzáramlások egyenlőek, a pénzáramlások ugyanarra az értéknapra vonatkoznak és részben vagy egészben ugyanabban a pénznemben válnak esedékessé.
 
-[^15]: A 31. § a 348/2011. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^26]: A 31. § a 348/2011. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^27]: A 31. § (3) bekezdés nyitó szövegrésze a 345/2013. (IX. 30.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 ## ahol
 
-## alfa (α)=1,4 azzal, hogy a Felügyelet magasabb α értéket is előírhat, és
+## alfa (α)=1,4 azzal, hogy az MNB magasabb α értéket is előírhat, és
 
 ## tényleges várható pozitív kitettség értéket a várható kitettségnek (EEt) egy jövőbeli t időpontban fennálló átlagos kitettségeként való becslésével kell kiszámítani, ahol az átlagot a piaci kockázati tényezők lehetséges jövőbeli értékein alapulva kell kiszámítani azzal, hogy a modell a várható kitettség értéket a jövőbeli t1, t2, t3... időpontok sorozata alapján becsli.
 

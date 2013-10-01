@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-381-20-
 | 2007-12-31 | 2007-381-20-22.1 | 381/2007. (XII. 23.) Korm. rendelet |
 | 2011-01-01 | 2007-381-20-22.2 | 349/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 2007-381-20-22.3 | 348/2011. (XII. 30.) Korm. rendelet |
+| 2013-10-01 | 2007-381-20-22.4 | 345/2013. (IX. 30.) Korm. rendelet |

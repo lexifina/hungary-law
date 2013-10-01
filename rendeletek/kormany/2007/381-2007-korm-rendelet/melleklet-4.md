@@ -92,4 +92,6 @@
 
 | 10. | A fenti kategóriákba nem tartozó, tőzsdén kívüli származtatott ügyletek alapjául szolgáló eszközök azzal, hogy az alapul szolgáló eszköz minden egyes kategóriáját külön fedezeti halmazba kell sorolni | 10,0% |
 
-4. számú melléklet a 381/2007. (XII. 23.) Korm. rendelethez
+4. számú melléklet a 381/2007. (XII. 23.) Korm. rendelethez[^29]
+
+[^29]: A 4. számú melléklet a 345/2013. (IX. 30.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.

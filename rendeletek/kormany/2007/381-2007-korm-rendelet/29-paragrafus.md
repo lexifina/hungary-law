@@ -4,7 +4,7 @@
 
 ## Elismerhető nettósítási megállapodások
 
-29. §[^11] (1) A szerződéses nettósítás tekintetében
+29. §[^20] (1) A szerződéses nettósítás tekintetében
 
 a) a partner olyan természetes vagy jogi személy, amely jogosult szerződéses nettósítási megállapodást kötni, és
 
@@ -22,8 +22,9 @@ c) a Hkr. 18. §-a szerinti származtatott ügylet.
 
 a) a hitelintézet és partnere közötti kétoldalú adósságmegújítási szerződés (nováció), amelynek alapján a kölcsönösen fennálló követelések és kötelezettségek egymással szemben automatikusan oly módon kerülnek beszámításra, hogy az adósságmegújítás egyetlen nettó összeget határoz meg, amely így jogilag kötelező erejű, egyetlen új szerződést képez a korábbi szerződések megszüntetésével;
 
-b) egyéb Felügyelet vagy jogszabály által elismert nettósítási megállapodások;
+b)[^21] egyéb, az MNB vagy jogszabály által elismert nettósítási megállapodások;
 
 c) olyan, hitelintézetek termékcsoportok közötti szerződéses nettósítási megállapodásai, amelyek a belső modell módszert alkalmazzák azzal, hogy a Hpt. 90. § (2) bekezdése szerinti vállalkozások által kötött az ügyletek közötti nettósítás e rendelet tekintetében nem vehető figyelembe.
 
-[^11]: A 29. § a 348/2011. (XII. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^20]: A 29. § a 348/2011. (XII. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^21]: A 29. § (3) bekezdés b) pontja a 345/2013. (IX. 30.) Korm. rendelet 49. § d) pontja szerint módosított szöveg.

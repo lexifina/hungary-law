@@ -16,4 +16,6 @@ f) a partner reprezentatív portfóliójának értékelése folyamatos és múlt
 
 g) a hitelintézet a partner reprezentatív portfóliói tekintetében negyedévente legalább egyszer utótesztelést végez azzal, hogy a reprezentatív portfóliókat a hitelintézet kockázati tényezőinek és korrelációinak alapján választja ki.
 
-(2) Ha az (1) bekezdés szerinti utótesztelés azt jelzi, hogy a modell nem pontos, akkor a Felügyelet visszavonja a modellre vonatkozó engedélyt, vagy a modell azonnali javítását biztosító intézkedéseket ír elő.
+(2)[^19] Ha az (1) bekezdés szerinti utótesztelés azt jelzi, hogy a modell nem pontos, akkor az MNB visszavonja a modellre vonatkozó engedélyt, vagy a modell azonnali javítását biztosító intézkedéseket ír elő.
+
+[^19]: A 28. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 6. egyedi rossz irányú kockázat: a partnerrel szembeni kitettség a partner nemteljesítésének valószínűségével pozitív korrelációban áll a partnerrel kötött ügylet természeténél fogva azzal, hogy egy hitelintézet egyedi rossz irányú kockázatnak van kitéve, ha egy adott partnerrel szembeni jövőbeni kitettség várhatóan nagy, amikor a partner nemteljesítésének valószínűsége szintén magas;
 
-7.[^1] értékpapír ügylethez kapcsolódó hitel: olyan hitel, amelyet egy hitelintézet értékpapírok vásárlásához, eladásához vagy kereskedelméhez nyújt, ide nem értve az értékpapír fedezettel nyújtott kölcsönt, hitelkeretet;
+7.[^2] értékpapír ügylethez kapcsolódó hitel: olyan hitel, amelyet egy hitelintézet értékpapírok vásárlásához, eladásához vagy kereskedelméhez nyújt, ide nem értve az értékpapír fedezettel nyújtott kölcsönt, hitelkeretet;
 
 8. fedezeti (hedging) halmaz: egyetlen nettósítási halmazon belüli ügyletekből származó olyan kitettségekből vagy hitelkockázati fedezetekből származó kockázati pozíciók összessége, amelyeknek kizárólag az egyenlegüket kell figyelembe venni az e rendeletben meghatározott sztenderd módszer szerinti kitettség érték meghatározásakor;
 
@@ -42,9 +42,9 @@ b) a hitelintézet ügyletbe történő lépését követő ötödik munkanap
 
 18. központi szerződő fél: olyan intézmény, amely jogilag helyettesíti a pénzügyi piacon kötött szerződésben érintett partnert, azaz vevőként lép fel valamennyi eladóval, illetve eladóként valamennyi vevővel szemben;
 
-19.[^2] megújulási kockázat: az az összeg, amellyel a várható pozitív kitettség alulértékelt, amikor egy partnerrel kötött jövőbeni ügyleteket várhatóan folyamatosan kötik, mivel az ezekből a jövőbeni ügyletekből szármató pótlólagos kitettség nem képezi részét a várható pozitív kitettség számításának;
+19.[^3] megújulási kockázat: az az összeg, amellyel a várható pozitív kitettség alulértékelt, amikor egy partnerrel kötött jövőbeni ügyleteket várhatóan folyamatosan kötik, mivel az ezekből a jövőbeni ügyletekből szármató pótlólagos kitettség nem képezi részét a várható pozitív kitettség számításának;
 
-20.[^3] nettósítási halmaz:
+20.[^4] nettósítási halmaz:
 
 20.1. azonos partnerrel létrejött olyan ügyletek csoportja, amelyek jogilag érvényesíthető kétoldalú nettósítási megállapodás tárgyát képezik, és amelyekre a nettósítást az e rendeletben meghatározott szerződéses nettósítás és a Hkr. Negyedik Része lehetővé teszi,
 
@@ -56,7 +56,7 @@ b) a hitelintézet ügyletbe történő lépését követő ötödik munkanap
 
 23. saját nettósítási halmaz: minden az e rendelet szerint elismert, jogilag érvényesíthető kétoldalú nettósítási megállapodás tárgyát nem képező ügylet;
 
-24.[^4] termékcsoportok közötti nettósítás: különböző termékcsoportokra vonatkozó ügyletek – az e rendeletben meghatározott, termékcsoportok közötti nettósítási szabályokkal összhangban – azonos nettósítási halmazba történő bevonása;
+24.[^5] termékcsoportok közötti nettósítás: különböző termékcsoportokra vonatkozó ügyletek – az e rendeletben meghatározott, termékcsoportok közötti nettósítási szabályokkal összhangban – azonos nettósítási halmazba történő bevonása;
 
 25. tényleges eloszlás: a piaci értékek vagy a kitettségek eloszlása egy olyan jövőbeni időszakban, amikor az eloszlás múltbeli érték (ár-, árfolyam-, kamatláb-változás alapján meghatározott volatilitás) alapján kerül meghatározásra;
 
@@ -70,7 +70,7 @@ b) a hitelintézet ügyletbe történő lépését követő ötödik munkanap
 
 (2) Az (1) bekezdésben meg nem határozott fogalomra a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú mellékletének, a Hkr.-nek, valamint a Kkr.-nek az értelmező rendelkezései az irányadóak.
 
-[^1]: A 2. § (1) bekezdés 7. pontja a 348/2011. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés 19. pontja a 348/2011. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 20. pontja a 349/2010. (XII. 28.) Korm. rendelet 49. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 24. pontja a 348/2011. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 7. pontja a 348/2011. (XII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 19. pontja a 348/2011. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 20. pontja a 349/2010. (XII. 28.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 24. pontja a 348/2011. (XII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
