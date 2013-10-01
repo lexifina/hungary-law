@@ -1,7 +1,0 @@
-1. § (1) A kibocsátó vagy a tőzsdei tevékenységet végző szervezet (a továbbiakban: kérelmező) az ISIN azonosító kiadását – a (4) bekezdésben meghatározott eset figyelembevételével – értékpapír esetén az 1. mellékletben, egyéb tőzsdei termék esetén a 2. mellékletben meghatározott adatok központi értéktárral való közlésével igényli.
-
-(2) A kérelmező a központi értéktárral közölt adatok változását, valamint az ISIN azonosító törlését megalapozó körülményt annak bekövetkeztétől számított 5 napon belül bejelenti a központi értéktárnak.
-
-(3) Az e rendeletben meghatározott adatokat a kérelmező papír alapú okiraton vagy – a központi értéktár által biztosított esetekben – elektronikus úton juttatja el a központi értéktárhoz. Az adatok papír alapú okiraton történő bejelentésére szolgáló adatlap letölthető a központi értéktár honlapjáról, valamint kérelemre a központi értéktár azt a kérelmező rendelkezésére bocsátja. Az elektronikus úton történő bejelentés a központi értéktár által működtetett felületen keresztül tehető meg.
-
-(4) A tőzsdei tevékenységet végző szervezet egyéb tőzsdei termékekre vonatkozóan a (3) bekezdésben meghatározott elektronikus úttól eltérő módon is jogosult az ISIN azonosító iránti kérelmét bejelenteni a központi értéktárhoz. Az ISIN azonosító iránti kérelem beadására és az ISIN azonosító központi értéktár általi kiadására vonatkozó e rendeletben meghatározottól eltérő feltételeket külön megállapodásban kell rögzíteni.
