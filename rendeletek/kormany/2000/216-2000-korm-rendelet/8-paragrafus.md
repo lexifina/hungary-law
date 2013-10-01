@@ -1,4 +1,4 @@
-## 7. §[^15] A kockázati tőkealap a Tv. szerinti kettős könyvvitelt köteles vezetni oly módon, hogy abból a Pénzügyi Szervezetek Állami Felügyelete információs igénye mindenkor kielégíthető, a jogszabály szerinti tájékoztatási kötelezettség teljesíthető legyen.
+## 7. §[^15] A kockázati tőkealap a Tv. szerinti kettős könyvvitelt köteles vezetni oly módon, hogy abból a Felügyelet információs igénye mindenkor kielégíthető, a jogszabály szerinti tájékoztatási kötelezettség teljesíthető legyen.
 
 ## Kiegészítő melléklet
 
@@ -34,7 +34,7 @@ n)[^28] a kockázati tőkealap tulajdonában lévő, a Tv. 54. §-ának (8) beke
 
 o)[^29] a kockázati tőkealap-kezelő nevét, címét és azt, hogy milyen más kockázati tőkealapokat kezel.
 
-[^15]: A 7. § a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^15]: A 7. § a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni. A 7. § a 345/2013. (IX. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^16]: A 8. § felvezető szövege a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^17]: A 8. § a) pontja a 334/2005. (XII. 29.) Korm. rendelet 37. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^18]: A 8. § b) pontja a 334/2005. (XII. 29.) Korm. rendelet 37. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
