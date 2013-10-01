@@ -1,1 +1,0 @@
-A magánnyugdíjpénztárakat minősítő szervezetekről szóló 166/1998. (X. 6.) Korm. rendelet 17. §-ában, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
