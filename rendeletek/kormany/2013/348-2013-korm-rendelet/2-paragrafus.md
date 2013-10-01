@@ -1,0 +1,3 @@
+## 1. § Az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködésről szóló egyezmény kihirdetéséről szóló 204/2008. (VIII. 19.) Korm. rendelet (a továbbiakban: R1.) a következő 5. §-sal egészül ki:
+
+## „5. § A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 40. § (1) bekezdése alapján a kutatóreaktor kiégett fűtőelemeinek az egyezmény szerinti kiszállításával kapcsolatos feladatok ellátására a Magyar Tudományos Akadémia Energiatudományi Kutatóközpontját jelöli ki.”
