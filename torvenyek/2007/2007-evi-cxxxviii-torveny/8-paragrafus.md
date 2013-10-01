@@ -1,4 +1,4 @@
-8. § (1) Befektetési szolgáltatási tevékenység és kiegészítő szolgáltatás – a (2)–(4) bekezdésben foglaltak figyelembevételével – a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélyével végezhető, illetve nyújtható.
+8. § (1) Befektetési szolgáltatási tevékenység és kiegészítő szolgáltatás – a (2)–(4) bekezdésben foglaltak figyelembevételével – a Felügyelet engedélyével végezhető, illetve nyújtható.
 
 (2) A külföldi befektetési vállalkozás – ide nem értve a (3) bekezdésben foglalt befektetési vállalkozást – fióktelepe befektetési szolgáltatási tevékenységet akkor végezhet, illetőleg kiegészítő szolgáltatást akkor nyújthat, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével.
 

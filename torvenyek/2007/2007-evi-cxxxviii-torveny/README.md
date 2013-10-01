@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2013-06-22 | 2013. évi LXXXIII. törvény | 2007-138-00-00.26 |
 | 2013-06-29 | 2013. évi XCVIII. törvény | 2007-138-00-00.27 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2007-138-00-00.28 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2007-138-00-00.29 |

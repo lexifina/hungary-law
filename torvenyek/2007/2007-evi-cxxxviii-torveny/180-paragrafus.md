@@ -16,7 +16,7 @@ d) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a
 
 e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
 
-f) a hitelkockázat, működési kockázat, devizaárfolyam-kockázat, nagykockázat és árukockázat kezelésére és tőkekövetelményére vonatkozó részletes szabályokat,
+f) a hitelkockázat – ide nem értve a lakóingatlan és a kereskedelmi ingatlan kockázati súlyára –, működési kockázat, devizaárfolyam-kockázat, nagykockázat és árukockázat kezelésére és tőkekövetelményére vonatkozó részletes szabályokat,
 
 g) a befektetési vállalkozás nyilvánosságra hozatali követelményeinek teljesítésére vonatkozó részletes szabályokat,
 
@@ -24,10 +24,6 @@ h) a javadalmazási politikának az érintett befektetési vállalkozás mérete
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
-a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére,
-
-b) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére
-
-vonatkozó részletes szabályokat.
+(3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.

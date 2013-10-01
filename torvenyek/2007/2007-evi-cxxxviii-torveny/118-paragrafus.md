@@ -10,7 +10,7 @@ c) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató ügyf�
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
-a) a hatáskörében eljáró Felügyelettel, Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
+a) a hatáskörében eljáró Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
 
 b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
@@ -52,7 +52,7 @@ f) a pénzügyi információs egységként működő hatóság a pénzmosás és
 
 a) azt az ügyfelet, ügyfélkört vagy számlát, akiről vagy amelyről a (4) bekezdésben megjelölt szerv vagy hatóság az értékpapírtitok kiadását kéri, és
 
-b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró MNB vagy a Felügyelet helyszíni ellenőrzést folytat.
+b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha az MNB helyszíni ellenőrzést folytat.
 
 (6) A (3) és (4) bekezdés szerint adatkérésre jogosult szerv vagy hatóság a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkérésében megjelölt.
 

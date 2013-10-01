@@ -80,7 +80,9 @@ b) amely megvásárolja egy harmadik fél eszközeit, mérlegen kívüli tétele
 
 27. értékpapírtitok: minden olyan, az ügyfélről a befektetési vállalkozás, a multilaterális kereskedési rendszer működtetője és az árutőzsdei szolgáltató rendelkezésére álló adat, amely az ügyfél személyére, adataira, vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, illetve a befektetési vállalkozással és árutőzsdei szolgáltatóval kötött szerződéseire, számlájának egyenlegére és forgalmára vonatkozik,
 
-28. felügyeleti hatóság: a befektetési vállalkozás és az árutőzsdei szolgáltató befektetési szolgáltatási tevékenysége, kiegészítő szolgáltatása, illetőleg az árutőzsdei szolgáltató által végezhető tevékenység felügyeletét ellátó, hatáskörrel rendelkező szervezet, ide nem értve a Pénzügyi Szervezetek Állami Felügyeletét,
+27a. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB.
+
+28. felügyeleti hatóság: a befektetési vállalkozás és az árutőzsdei szolgáltató befektetési szolgáltatási tevékenysége, kiegészítő szolgáltatása vagy az árutőzsdei szolgáltató által végezhető tevékenység felügyeletét ellátó, hatáskörrel rendelkező szervezet, ide nem értve a Felügyeletet,
 
 29. fióktelep: az Fkt.-ban, illetve Ctv.-ben meghatározott szervezet,
 

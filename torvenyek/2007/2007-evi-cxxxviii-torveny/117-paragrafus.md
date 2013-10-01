@@ -14,7 +14,7 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 
 (2) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn a hatáskörében törvény felhatalmazása alapján eljáró
 
-a) Felügyelettel, felügyeleti hatósággal,
+a) felügyeleti hatósággal,
 
 b) Befektető-védelmi Alappal,
 
@@ -26,7 +26,7 @@ e) állami adóhatósággal,
 
 f) Gazdasági Versenyhivatallal,
 
-g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, a Kormány által kijelölt belső ellenőrzési szervvel,
+g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, kormányzati ellenőrzési szervvel,
 
 h) nemzetbiztonsági szolgálattal,
 
