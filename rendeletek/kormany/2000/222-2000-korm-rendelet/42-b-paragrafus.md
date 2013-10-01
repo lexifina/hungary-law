@@ -1,6 +1,6 @@
-## A társadalombiztosítási nyugdíjrendszerbe történő visszalépéssel kapcsolatos könyvvezetési előírások[^187]
+## A társadalombiztosítási nyugdíjrendszerbe történő visszalépéssel kapcsolatos könyvvezetési előírások[^188]
 
-42/B. §[^188] (1) A társadalombiztosítási nyugdíjrendszerbe jogszabály alapján történő visszalépés esetén az átlépés szabályait kell alkalmazni a (2)–(7) bekezdésben foglaltak figyelembevételével.
+42/B. §[^189] (1) A társadalombiztosítási nyugdíjrendszerbe jogszabály alapján történő visszalépés esetén az átlépés szabályait kell alkalmazni a (2)–(7) bekezdésben foglaltak figyelembevételével.
 
 (2) A társadalombiztosítási nyugdíjrendszerbe jogszabály alapján történő visszalépés esetén a fedezeti tartalékot csökkenteni kell a tag egyéni számlán lévő követelésének a taggal szembeni kötelezettségek számlára átvezetett összegével.
 
@@ -14,5 +14,5 @@
 
 (7) A Nyugdíjreform és Adósságcsökkentő Alaptól a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvények módosításáról szóló 2011. évi XLIII. törvény szerint visszakapott, nyugdíjpénztári tagot megillető beazonosított függő befizetéseknek és azok hozamának megfelelő pénzeszközt a tag pénztárral szembeni követelését tartalmazó egyéni számla javára kell elszámolni. Egyidejűleg a 0. Nyilvántartási számlák számlaosztályból ki kell vezetni a függőportfolió fedezeteként átadott eszközök értékének ott kimutatott összegét.
 
-[^187]: A 42/B. §-t megelőző címet a 345/2010. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
-[^188]: A 42/B. §-t újonnan a 114/2012. (VI. 8.) Korm. rendelet 20. §-a iktatta be.
+[^188]: A 42/B. §-t megelőző címet a 345/2010. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^189]: A 42/B. §-t újonnan a 114/2012. (VI. 8.) Korm. rendelet 20. §-a iktatta be.

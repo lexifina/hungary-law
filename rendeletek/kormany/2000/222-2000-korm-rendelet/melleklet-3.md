@@ -384,7 +384,7 @@
 
 | 23.5.4. Egyéb piaci értékítéletből adódó értékkülönbözet |
 
-3. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^232]
+3. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^233]
 
 ## Cash-flow kimutatás
 
@@ -474,4 +474,4 @@
 
 41.2. Számlapénz (pénztári elszámolási számla, éven belüli lejáratú forint és deviza betétszámlák, egyéb elkülönített betétszámlák) állomány változása
 
-[^232]: A 3. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^233]: A 3. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.

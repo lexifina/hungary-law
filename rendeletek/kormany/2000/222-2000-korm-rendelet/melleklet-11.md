@@ -1,4 +1,4 @@
-11. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^251]
+11. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^252]
 
 79MRVF
 
@@ -244,4 +244,4 @@ A magánpénztár tagi portfolióinak 2012. május 31-re vonatkozó felosztása
 
 | 075 | 79MRVF16 | A vagyonfelosztásban érintett tagok száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^251]: A 11. számú mellékletet a 297/2010. (XII. 23.) Korm. rendelet 11. § (4) bekezdése iktatta be, szövege a 87/2011. (V. 31.) Korm. rendelet 14. § (9) bekezdésével megállapított, a 114/2012. (VI. 8.) Korm. rendelet 22. § (4) bekezdése szerint módosított szöveg.
+[^252]: A 11. számú mellékletet a 297/2010. (XII. 23.) Korm. rendelet 11. § (4) bekezdése iktatta be, szövege a 87/2011. (V. 31.) Korm. rendelet 14. § (9) bekezdésével megállapított, a 114/2012. (VI. 8.) Korm. rendelet 22. § (4) bekezdése szerint módosított szöveg.
