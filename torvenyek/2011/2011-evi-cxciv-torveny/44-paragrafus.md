@@ -12,23 +12,19 @@ b) Magyarország területén székhellyel rendelkező hitelintézetnek kölcsön
 
 (3) Az államháztartásért felelős miniszter az (1) bekezdés a) pontja szerint szerzett értékpapírt Magyarország területén székhellyel rendelkező hitelintézetnek értékpapír-kölcsön ügylet keretében kölcsönadhatja.
 
-(4) Az államháztartásért felelős miniszter az értékpapírkölcsön-ügyletről vagy a kölcsönnyújtásról szóló döntését megelőzően javaslatot kér
+(4) Az államháztartásért felelős miniszter az értékpapírkölcsön-ügyletről vagy a kölcsönnyújtásról szóló döntését megelőzően javaslatot kér a Magyar Nemzeti Bank elnökétől, amely tartalmazza
 
-a) a Magyar Nemzeti Bank elnökétől, amely tartalmazza
+a) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára és a reálgazdaságra gyakorolt hatásának vizsgálatát,
 
-aa) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára, és a reálgazdaságra gyakorolt hatásának vizsgálatát,
+b) a hitelintézet rövid távú likviditási helyzetének értékelését,
 
-ab) a hitelintézet rövid távú likviditási helyzetének értékelését, és
+c) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
 
-ac) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést, valamint
+d) a hitelintézet szavatolótőke-helyzetéről szóló értékelést,
 
-b) a Pénzügyi Szervezetek Állami Felügyelete elnökétől, amely tartalmazza
+e) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
 
-ba) a hitelintézet szavatoló tőke helyzetéről szóló értékelést,
-
-bb) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
-
-bc) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
+f) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
 
 (5) Az (1) bekezdés b) pontja szerinti kölcsönnyújtáshoz kapcsolódóan az államháztartásért felelős miniszter a kölcsönfelvevő kötelezettségeként olyan feltételek teljesülését írja elő, amelyek biztosítják, hogy a kölcsön a Magyarország területén székhellyel rendelkező vállalkozások finanszírozási forrásainak bővítését szolgálja.
 
