@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2013-07-01 | 2011-368-20-22.14 | 242/2013. (VI. 30.) Korm. rendelet |
 | 2013-08-01 | 2011-368-20-22.15 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2013-08-19 | 2011-368-20-22.16 | 307/2013. (VIII. 14.) Korm. rendelet |
+| 2013-10-01 | 2011-368-20-22.17 | 74/2013. (III. 11.) Korm. rendelet |
