@@ -12,7 +12,7 @@
 
 a) kérelemre hatósági eljárást folytat le
 
-aa) az építőipari kivitelezési tevékenység,
+aa)[^58]
 
 ab) a bontási tevékenység
 
@@ -47,3 +47,5 @@ c) az építési engedély nélkül végezhető építési tevékenység esetén
 (6) A helyszíni ellenőrzést egyidejűleg legalább két fő végzi. Az építésfelügyeleti hatóság az ellenőrzésbe más – jogszabályban erre felhatalmazott – szervet, szervezetet is bevonhat, az építési helyszín ellenőrzését az építésfelügyelő a bevont szerv, szervezet képviselőjével is lefolytathatja.
 
 (7) A speciális vizsgálatok elvégzése érdekében az építésfelügyeleti hatóság az Étv. 53/A. § (3) bekezdésében meghatározott szakértő vagy minőség-ellenőrző szerv közreműködését is igénybe veheti.
+
+[^58]: Az 58. § (2) bekezdés a) pont aa) alpontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés c) pontja hatályon kívül helyezte.

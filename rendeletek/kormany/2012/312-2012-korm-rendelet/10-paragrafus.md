@@ -24,11 +24,11 @@ g) tájékoztatást az ügyre vonatkozó minden egyéb lényeges információró
 
 h) tájékoztatást arról, hogy a Ket. 28/A. § (1) bekezdés a) pontjában meghatározottakon túl, ha a kapcsolattartás módjáról (papír alapú vagy elektronikus) nyolc napon belül nem nyilatkozik, az eljárással kapcsolatos érdemi döntésről az ÉTDR felületén milyen módon értesülhet.
 
-(5) Az építésügyi és az építésfelügyeleti hatóság az értesítendők adatait – ha azok a kérelem benyújtásakor nem állnak rendelkezésre –
+(5)[^4] Az építésügyi és az építésfelügyeleti hatóság az eljárásában az ügyfelek és az értesítendők adatait
 
 a) az ingatlan-nyilvántartásból,
 
-b)[^4] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
+b)[^5] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
 
 c) az elektronikus elérhetőségi adatai tekintetében az ügyintézési rendelkezési nyilvántartásból
 
@@ -44,4 +44,5 @@ c) a kérelmezett eljárás típusa és az eljárás megindulásának időpontja
 
 d) a 8. mellékletben meghatározott tartalmú utcai homlokzati terv vagy látványterv.
 
-[^4]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^4]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.

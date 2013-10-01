@@ -24,10 +24,12 @@ c) a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgy
 
 d) az építtető a bontási tevékenységet csak a jogerős és végrehajtható bontási engedély és az ahhoz tartozó – engedélyezési záradékkal ellátott – építészeti-műszaki dokumentáció alapján, az engedély hatályának időtartama alatt, továbbá a saját felelősségére és veszélyére végezhet,
 
-e) tájékoztatást arról, hogy a tervezett bontási tevékenység megkezdését az építésfelügyeleti hatósághoz előzetesen be kell-e jelenteni és hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
+e)[^37] tájékoztatást arról, hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
 
 f) az építtető a bontási tevékenység befejezését követően – a külön jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a környezetvédelmi hatósághoz kell benyújtania,
 
 g) a bontási tevékenység befejezését követően harminc napon belül az ingatlan-nyilvántartási változás átvezetése, valamint az OÉNY-ben történő feltüntetés érdekében a megvalósult állapotról hatályos földhivatali záradékkal ellátott változási vázrajzot kell az OÉNY-be feltölteni.
 
 (4) Az építésügyi hatóság a bontás tényéről és a (3) bekezdés g) pontjának teljesítéséről a változás átvezetése iránt végzéssel megkeresi az első fokú ingatlanügyi hatóságot.
+
+[^37]: A 47. § (3) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés b) pontja szerint módosított szöveg.

@@ -14,9 +14,9 @@ b) annak használatbavételi engedélyezési eljárásába szakhatóságot szük
 
 (3) A használatbavételi engedély iránti kérelemmel egy időben a fennmaradási engedélyezésre irányuló kérelem is előterjeszthető.
 
-(4)[^22] A használatbavételi engedély iránti kérelmet az építtető az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, az építési munkaterület építtető részére történő, építési naplóban igazolt átadását követően, az építési engedély hatályossága alatt – a használatbavétel előtt – nyújtja be az építésügyi hatósághoz.
+(4)[^25] A használatbavételi engedély iránti kérelmet az építtető az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, az építési munkaterület építtető részére történő, építési naplóban igazolt átadását követően, az építési engedély hatályossága alatt – a használatbavétel előtt – nyújtja be az építésügyi hatósághoz.
 
-(5)[^23] Új épület építése vagy meglévő épület – az ingatlan-nyilvántartásban változást eredményező – bővítése esetén a használatbavételi engedély iránti kérelem előterjesztésével egyidőben a földhivatal által hatályos záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez külön jogszabályban előírt változási vázrajzot az Országos Építésügyi Nyilvántartásba (a továbbiakban: OÉNY) elektronikusan fel kell tölteni.
+(5)[^26] Új épület építése vagy meglévő épület – az ingatlan-nyilvántartásban változást eredményező – bővítése esetén a használatbavételi engedély iránti kérelem előterjesztésével egyidőben a földhivatal által hatályos záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez külön jogszabályban előírt változási vázrajzot az Országos Építésügyi Nyilvántartásba (a továbbiakban: OÉNY) elektronikusan fel kell tölteni.
 
 (6) Az (5) bekezdésben meghatározott változási vázrajz feltöltésének hiánya a használatbavételi engedélyezési eljárás lefolytatását és a használatbavételi engedély kiadását nem akadályozza, azonban ha az (5) bekezdésben foglaltaknak a kérelmező nem tett eleget, az építésügyi hatóság a használatbavételi engedély rendelkező részében határidő megjelölésével kötelezi az építtetőt a változási vázrajznak az OÉNY-be történő elektronikus feltöltésére.
 
@@ -40,5 +40,5 @@ a) az ügyben érintett szakhatóság előzetes állásfoglalását – amennyib
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^22]: A 39. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.
-[^23]: A 39. § (5) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés e) pontja szerint módosított szöveg.
+[^25]: A 39. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^26]: A 39. § (5) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés e) pontja szerint módosított szöveg.

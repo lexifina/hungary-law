@@ -60,7 +60,7 @@ c) figyelmeztetést arra vonatkozóan, hogy a létrehozott építmény csak hasz
 
 d) figyelmeztetést arra, hogy műemléken az egyes, építési engedély nélkül végezhető tevékenységekhez a kulturális örökségvédelmi hatóság külön jogszabályban meghatározott engedélye is szükséges,
 
-e) tájékoztatást arról, hogy a tervezett építési tevékenység megkezdését az építésfelügyeleti hatósághoz előzetesen be kell-e jelenteni és hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
+e)[^10] tájékoztatást arról, hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
 
 f) tájékoztatást arról, hogy az építésügyi hatósági engedély nem mentesíti az építtetőt az építési tevékenység megkezdéséhez az egyéb jogszabályokban előírt engedélyek, hozzájárulások vagy nyilatkozatok megszerzésének kötelezettsége alól,
 
@@ -69,3 +69,5 @@ g) tájékoztatást az engedély hatálya meghosszabbításának módjáról, fe
 h) tájékoztatást arról, hogy a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgyát képező építészeti-műszaki dokumentációba milyen módon tekinthet be.
 
 (7) Az építésügyi hatóság a határozaton feltünteti az értesítettek körét a 20. § (2) bekezdésében foglaltak szerint.
+
+[^10]: A 19. § (6) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
