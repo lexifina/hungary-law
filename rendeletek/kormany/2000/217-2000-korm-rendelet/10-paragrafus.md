@@ -10,8 +10,10 @@ d) mérleg szerinti eredményként kell kimutatni az Alap tárgyévi tevékenys�
 
 (2) A tagpénztárakkal szembeni rövid lejáratú kötelezettségként kell a mérlegben kimutatni az Alapnak a tagpénztárakkal kapcsolatos elszámolások során keletkező egy évnél rövidebb lejáratú fizetési kötelezettségeit.
 
-(3) Rövid lejáratú hitelek, kölcsönök között kell a mérlegben kimutatni az Alap által az Mpt. 98. §-ának (5) bekezdésében foglaltak alapján a Magyar Nemzeti Banktól felvett egy évnél rövidebb lejáratú hitel, illetve kölcsön összegét.
+(3)[^4]
 
 (4) Állammal szembeni kötelezettségként kell a mérlegben kimutatni az Mpt. 100. §-ában foglaltak alapján az Alap fizetőképességének biztosítása miatt a központi költségvetés által vállalt garancia beváltásából eredő kötelezettséget.
 
 (5) Egyéb rövid lejáratú kötelezettségként kell a mérlegben kimutatni a szerződésen alapuló, eszközbeszerzéssel vagy szolgáltatás igénybevételével kapcsolatos, az előzőekben nem nevesített minden egyéb, egy éves vagy egy évnél rövidebb lejáratú kötelezettséget.
+
+[^4]: A 10. § (3) bekezdését a 345/2013. (IX. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.

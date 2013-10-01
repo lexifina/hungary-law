@@ -46,7 +46,7 @@
 
 ## c) Alapra átszállt befagyott követelések
 
-## d)[^11]
+## d)[^13]
 
 ## e) szolgáltatási tartalék kiegészítéséből eredő követelések
 
@@ -120,7 +120,7 @@
 
 ## Források összesen
 
-2. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez[^12]
+2. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez[^14]
 
 ## Az eredménykimutatás előírt tagolása
 
@@ -196,5 +196,5 @@ C. Rendkívüli eredmény (VIII–IX)
 
 D. Mérleg szerinti eredmény ( ± A ± B ± C)
 
-[^11]: Az 1. számú melléklet B/II. részének 1.d) sorát a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
-[^12]: A 2. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 26. §-a, a 325/2009. (XII. 29.) Korm. rendelet 44. §-a, a 345/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^13]: Az 1. számú melléklet B/II. részének 1.d) sorát a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^14]: A 2. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 26. §-a, a 325/2009. (XII. 29.) Korm. rendelet 44. §-a, a 345/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
