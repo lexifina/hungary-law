@@ -58,6 +58,6 @@
 
 |  | név, beosztás |
 
-2/a. számú melléklet a 17/2004. (II. 13.) Korm. rendelethez[^8]
+2/a. számú melléklet a 17/2004. (II. 13.) Korm. rendelethez[^10]
 
-[^8]: A 2/a. számú melléklet a 189/2006. (IX. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^10]: A 2/a. számú melléklet a 189/2006. (IX. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 314/2009. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.

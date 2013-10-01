@@ -74,7 +74,7 @@
 
 ## az MVH képviseletében
 
-2/b. számú melléklet a 17/2004. (II. 13.) Korm. rendelethez[^9]
+2/b. számú melléklet a 17/2004. (II. 13.) Korm. rendelethez[^11]
 
 Kezesi nyilatkozat
 
@@ -146,4 +146,4 @@ Jelen kezességvállalást elfogadom:
 
 a Magyar Kereskedelmi Engedélyezési Hivatal nevében
 
-[^9]: A 2/b. számú melléklet a 189/2006. (IX. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított és a Magyar Közlöny 2006. évi 112. számában megjelent helyesbítésnek megfelelő, a 314/2009. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^11]: A 2/b. számú melléklet a 189/2006. (IX. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított és a Magyar Közlöny 2006. évi 112. számában megjelent helyesbítésnek megfelelő, a 314/2009. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.
