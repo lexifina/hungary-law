@@ -20,7 +20,7 @@
 
 6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 
-7. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény,
+7.
 
 8. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 

@@ -4,7 +4,7 @@
 
 a) húsz munkanapot meghaladóan igénybe veszi az MNB rendkívüli likviditási hitelét a legutolsó, könyvvizsgáló által felülvizsgált, az Szmt. szerinti közbenső mérleg készítésére irányadó szabályoknak megfelelően elkészített beszámoló mérlegfőösszegének öt százalékát meghaladó összegben,
 
-b) Felügyelet által megállapított szavatoló tőkéje nem éri el a Hpt. e törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
+b) MNB által megállapított szavatoló tőkéje nem éri el a Hpt. e törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
 
 c)
 
@@ -12,7 +12,7 @@ c)
 
 (2) A Kormány az (1) bekezdés szerinti rendeletét hatályon kívül helyezi, ha
 
-a) a hitelintézet Felügyelet által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 76. § (1) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
+a) a hitelintézet MNB által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 76. § (1) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
 
 b) a hitelintézet kilencven egymást követő nap egyikén sem vette igénybe az MNB rendkívüli likviditási hitelét.
 

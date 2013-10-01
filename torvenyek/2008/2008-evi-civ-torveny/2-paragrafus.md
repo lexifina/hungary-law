@@ -16,7 +16,7 @@
 
 6. hitelintézet: a Hpt. szerinti hitelintézet, ide nem értve a fióktelep formájában működő hitelintézetet,
 
-7. szabályozott intézmény: a Psztv. 4. §-a szerinti szervezet és személy,
+7. szabályozott intézmény: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 39. §-a szerinti szervezet és személy,
 
 8. vezető tisztségviselő: a Gt.-ben meghatározott fogalom,
 
@@ -24,4 +24,4 @@
 
 10. pénzügyi eszköz: a Bszt. 6. §-ában meghatározott fogalom,
 
-11. MNB rendkívüli likviditási hitele: az MNB tv. 12. § (4) bekezdése szerinti – a 7. §-ban meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel
+11. MNB rendkívüli likviditási hitele: az MNB tv. 35. §-a szerinti – az MNB tv. 18. §-ában meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.
