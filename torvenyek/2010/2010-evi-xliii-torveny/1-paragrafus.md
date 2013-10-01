@@ -70,6 +70,6 @@ f) a polgári nemzetbiztonsági szolgálatok.
 
 a) a Nemzeti Média- és Hírközlési Hatóság,
 
-b) a Pénzügyi Szervezetek Állami Felügyelete,
+b)
 
 c) a Magyar Energetikai és Közmű-szabályozási Hivatal.
