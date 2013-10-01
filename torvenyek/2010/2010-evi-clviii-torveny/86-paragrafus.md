@@ -1,1 +1,0 @@
-86. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Ptk. 327. § (1) és (2) bekezdésében, az eljárás eredménytelensége esetén a Ptk. 326. § (2) bekezdésében foglaltak irányadók.

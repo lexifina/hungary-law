@@ -1,5 +1,0 @@
-16. § (1) A Felügyelet elnökének lemondását írásban, a miniszterelnök útján kell közölni a köztársasági elnökkel. Lemondás esetén a Felügyelet elnöke megbízatása megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg, az azonban nem lehet későbbi a lemondásnak a miniszterelnökhöz történő eljuttatását követő hatvanadik napnál.
-
-(2) A Felügyelet alelnökének lemondását írásban kell közölni a Felügyelet elnökével. Lemondás esetén a Felügyelet alelnöke megbízatása megszűnésének időpontját a Felügyelet elnöke határozza meg, az azonban nem lehet későbbi a lemondásnak a Felügyelet elnökéhez történő eljuttatását követő hatvanadik napnál.
-
-(3) A Pénzügyi Békéltető Testület elnökének lemondását írásban kell közölni a Felügyelet elnökével. Lemondás esetén a Pénzügyi Békéltető Testület elnöke megbízatása megszűnésének időpontját a Felügyelet elnöke határozza meg, az azonban nem lehet későbbi a lemondásnak a Felügyelet elnökéhez történő eljuttatását követő hatvanadik napnál.

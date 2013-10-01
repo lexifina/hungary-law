@@ -1,3 +1,0 @@
-65. § (1) A fogyasztóvédelmi eljárásban az általuk védett érdekek védelme körében az ügyfél jogai illetik meg az 5. § (1) bekezdésében meghatározott irányelveket átültető jogszabályi rendelkezések megsértésére hivatkozással az Európai Gazdasági Térség bármely más államának joga alapján létrejött azon feljogosított egységeket is, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
-
-(2) A fogyasztóvédelmi eljárásban az ügyfél jogai megilletik azt a külföldi pénzügyi hatóságot, amelynek feladatkörét az ügy érinti.

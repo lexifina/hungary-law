@@ -1,1 +1,0 @@
-19. § A foglalkoztatást kizáró okok vizsgálatával kapcsolatos, az igazolásra való felhívással összefüggő jogkör gyakorlója a Felügyelet elnöke tekintetében a miniszterelnök, az alelnök és a Pénzügyi Békéltető Testület elnöke esetében a Felügyelet elnöke.
