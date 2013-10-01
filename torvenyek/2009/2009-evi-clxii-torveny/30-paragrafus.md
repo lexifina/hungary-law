@@ -4,4 +4,4 @@
 
 a) a teljes hiteldíj mutató meghatározására, számítására és közzétételére vonatkozó részletes szabályokat;
 
-b) a hitelképesség vizsgálatának részletes szabályait.
+b) a hitelképesség vizsgálatának részletes szabályait – ide nem értve a jövedelemarányos törlesztőrészletet – továbbá az ingatlan-, gépjárműhitelek és pénzügyi lízingügyletek maximális hitelfedezeti arányára vonatkozó szabályokat,
