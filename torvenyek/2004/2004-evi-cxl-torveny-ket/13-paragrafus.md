@@ -30,7 +30,7 @@ j) az adatvédelmi és titokfelügyeleti hatósági eljárásban,
 
 k) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői eljárásokban,
 
-l) a jegybanki ellenőrzés során, a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti eljárásokban, valamint a forgalomban lévő magyar törvényes fizetőeszközről utánzat készítésével kapcsolatos eljárásokban,
+l) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti eljárásokban, valamint a forgalomban lévő magyar törvényes fizetőeszközről utánzat készítésével kapcsolatos eljárásokban,
 
 m) a kisajátítási eljárásban
 
