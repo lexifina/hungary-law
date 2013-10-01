@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-244-20-
 | 2009-10-01 | 2006-244-20-22.9 | 244/2006. (XII. 5.) Korm. rendelet |
 | 2010-05-28 | 2006-244-20-22.10 | 290/2007. (X. 31.) Korm. rendelet |
 | 2011-01-01 | 2006-244-20-22.11 | 61/2008. (III. 27.) Korm. rendelet |
+| 2013-10-01 | 2006-244-20-22.12 | 322/2012. (XI. 16.) Korm. rendelet |

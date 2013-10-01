@@ -24,7 +24,7 @@ i) építésügyi műszaki szakértői
 
 ## tevékenység folytatásának időtartamát kell figyelembe venni.
 
-(2)[^14] A szakmagyakorlási tevékenység engedélyezése során szakmai gyakorlati időként az (1) bekezdésben felsoroltak szerinti,
+(2)[^17] A szakmagyakorlási tevékenység engedélyezése során szakmai gyakorlati időként az (1) bekezdésben felsoroltak szerinti,
 
 a) az építési műszaki ellenőr esetében
 
@@ -38,4 +38,4 @@ b) felelős műszaki vezető esetében a melléklet szerinti
 
 (3) A szakmai gyakorlat igazolásaként csak közokirat vagy teljes bizonyító erejű magánokirat fogadható el (munkáltatói, illetve az építési szakmai érdekképviseleti szerv által kiadott igazolás, továbbá munka- vagy megbízási szerződés, szakmagyakorlási tevékenységet végző személy által kiállított igazolás stb.).
 
-[^14]: A 4. § (2) bekezdésének bevezető szövegrésze a 196/2009. (IX. 15.) Korm. rendelet 62. § (5) bekezdésének c) pontja szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdésének bevezető szövegrésze a 196/2009. (IX. 15.) Korm. rendelet 62. § (5) bekezdésének c) pontja szerint módosított szöveg.

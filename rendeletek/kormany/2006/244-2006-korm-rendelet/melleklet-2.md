@@ -464,6 +464,6 @@
 
 | bc) villanyszerelő mesteri képesítés |  |
 
-2. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^57]
+2. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^61]
 
-[^57]: A 2. melléklet a 196/2009. (IX. 15.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^61]: A 2. melléklet a 196/2009. (IX. 15.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.

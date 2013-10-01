@@ -54,7 +54,7 @@
 
 ## 12. a kötelező alkalmassági időre vonatkozó előírásokat,
 
-## 13. a megfelelőség igazolására, megfelelőségi tanúsítványra és megfelelőségi nyilatkozatra, továbbá a CE megfelelőségi jelölés alkalmazására vonatkozó előírásokat,
+## 13.[^77] a termékek elvárt követelményeire és a teljesítménynyilatkozatra, továbbá a CE jelölés alkalmazására vonatkozó előírásokat,
 
 ## 14. a szabványokra vonatkozó alapvető fogalmakat, a szabványok alkalmazására vonatkozó általános szabályokat, a szabványtípusokat,
 
@@ -154,7 +154,7 @@
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó – a miniszterrel egyeztetett – jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-5. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^61]
+5. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^78]
 
 A szakmagyakorlási tevékenység engedélyezése iránti kérelem tartalma
 
@@ -170,4 +170,5 @@ A szakmagyakorlási tevékenység engedélyezése iránti kérelem tartalma
 
 6. a kérelmezett szakmagyakorlási jogosultság szakterületének megnevezése.
 
-[^61]: Az 5. mellékletet a 196/2009. (IX. 15.) Korm. rendelet 44. § (3) bekezdése iktatta be. E módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^77]: A 4. melléklet 13. pontja a 322/2012. (XI. 16.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^78]: Az 5. mellékletet a 196/2009. (IX. 15.) Korm. rendelet 44. § (3) bekezdése iktatta be. E módosító rendelet 60. § (6) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.

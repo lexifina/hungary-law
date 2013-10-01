@@ -2,9 +2,9 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1)[^1] E rendeletet az építési műszaki ellenőri, valamint a felelős műszaki vezetői tevékenység gyakorlására vonatkozó jogosultság engedélyezésére, megújítására, valamint az építési műszaki ellenőrök és felelős műszaki vezetők névjegyzékének vezetésére kell alkalmazni.
+1. § (1)[^2] E rendeletet az építési műszaki ellenőri, valamint a felelős műszaki vezetői tevékenység gyakorlására vonatkozó jogosultság engedélyezésére, megújítására, valamint az építési műszaki ellenőrök és felelős műszaki vezetők névjegyzékének vezetésére kell alkalmazni.
 
-(2)[^2] E rendelet alkalmazásában
+(2)[^3] E rendelet alkalmazásában
 
 1. építési műszaki ellenőri tevékenység: az Étv. 38/A. § (2) bekezdése szerinti tevékenység;
 
@@ -22,5 +22,5 @@
 
 8. területi kamara: területi mérnöki kamarának, illetve a területi építész kamarának a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott közigazgatási ügyben eljáró szerve.
 
-[^1]: Az 1. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (5) bekezdésének a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (5) bekezdésének a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 37. §-ával megállapított szöveg.

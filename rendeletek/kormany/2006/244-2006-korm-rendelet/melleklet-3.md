@@ -74,7 +74,7 @@
 
 ## ca) okleveles építészmérnöki, okleveles építőmérnöki, illetve építészmérnöki, építőmérnöki szakképzettség, 3 év szakmai gyakorlat,
 
-## cb) építőipari technikusi, szakközépiskolai végzettség, 5 éves szakmai gyakorlat
+## cb)[^62]
 
 ## 2.2. Mélyépítés és mélyépítési műtárgyak (ÉM-II) szakterület
 
@@ -90,7 +90,7 @@
 
 ## ca) okleveles építőmérnöki, illetve építőmérnöki szakképzettség, 3 éves szakmai gyakorlat,
 
-## cb) építőipari technikusi, szakközépiskolai (mélyépítő) végzettség, 5 éves szakmai gyakorlat
+## cb)[^63]
 
 ## 2.3. Építmény- és épületgépészet (ÉG-II.) szakterület
 
@@ -106,7 +106,7 @@
 
 ## ca) okleveles gépészmérnöki, illetve gépészmérnöki szakképzettség, 3 éves szakmai gyakorlat,
 
-## cb) épületgépész technikusi, szakközépiskolai végzettség, 5 éves szakmai gyakorlat
+## cb)[^64]
 
 ## 2.4. Építmény- és épületvillamosság (ÉV-II.) szakterület
 
@@ -122,7 +122,7 @@
 
 ## ca) okleveles villamosmérnöki, illetve villamosmérnöki szakképzettség, 3 éves szakmai gyakorlat,
 
-## cb) villanyszerelő mesteri képesítés, 5 év szakmai gyakorlat
+## cb)[^65]
 
 ## II. Rész
 
@@ -144,7 +144,7 @@
 
 ## cb) okleveles erdőmérnöki, építőmérnöki, mélyépítő-, közlekedési építő üzemmérnöki szakképzettség, 3 év szakmai gyakorlat,
 
-## cc) középfokú szakirányú végzettség, 5 év szakmai gyakorlat
+## cc)[^66]
 
 ## 1.2. Közlekedési szakterület (KÉ/II.)
 
@@ -160,7 +160,7 @@
 
 ## ca) okleveles erdőmérnöki, építőmérnöki, mélyépítő-, közlekedési építő üzemmérnöki szakképzettség, 3 év szakmai gyakorlat,
 
-## cb) középfokú szakirányú végzettség, 5 év szakmai gyakorlat
+## cb)[^67]
 
 ## 2.1. Vasút-villamossági szakterület (VV/I.)
 
@@ -194,7 +194,7 @@
 
 ## cb) felsőfokú villamosipari technikusi szakképzettség, 5 év szakmai gyakorlat
 
-## cc) vasútgépészeti, vasút-villamossági technikumi végzettség, 5 év szakmai gyakorlat
+## cc)[^68]
 
 ## 3. Vízgazdálkodási szakterület (VZ)
 
@@ -240,7 +240,7 @@
 
 ## ca) okleveles villamosmérnöki, mérnök informatikusi, építőmérnöki szakképzettség, villamosmérnöki, mérnök informatikusi, építőmérnöki szakképzettség, 3 éves szakmai gyakorlat,
 
-## cb) távközlési, építőipari technikusi végzettség, távközlési, építőipari szakközépiskolai végzettség, posta műszaki tiszti végzettség, 5 éves szakmai gyakorlat
+## cb)[^69]
 
 ## 5. Távközlési építmények villamos szerelése szakterület (TV)
 
@@ -256,7 +256,7 @@
 
 ## ca) okleveles villamosmérnöki (Msc), villamosmérnöki szakképzettség (Bsc), 3 év szakmai gyakorlat,
 
-## cb) villamosmérnöki vagy üzemmérnök, felsőfokú villamosipari technikusi, villamosipari technikusi végzettség, 5 éves szakmai gyakorlat
+## cb)[^70] villamosmérnöki vagy üzemmérnök, felsőfokú villamosipari technikusi, 5 éves szakmai gyakorlat
 
 ## 6.1. Szilárdásvány-bányászati, kőolaj- és földgázbányászati építmények szakterület (BÁ/I.)
 
@@ -288,7 +288,7 @@
 
 ## ca) okl. bánya- és geotechnikai mérnöki, okl. bányagépész mérnöki, okl. előkészítéstechnika mérnöki végzettség (Msc), bánya- és geotechnikai mérnöki, földtudomány mérnöki végzettség (Bsc), bánya- és geotechnikai üzemmérnöki szakképzettség, 3 éves szakmai gyakorlat,
 
-## cb) bányagépész technikusi, bányaipari technikusi végzettség, 5 éves szakmai gyakorlat
+## cb)[^71]
 
 ## 7. Szénhidrogén-szállító vezetékek, gázelosztó vezetékek, propán-bután töltő telepek és tartozékainak építése szakterület (GO)
 
@@ -334,7 +334,7 @@
 
 ## ca) okleveles gépészmérnöki, okleveles vegyészmérnöki, okl. energiamérnöki szakképzettség (Msc), gépészmérnöki, energiamérnöki, vegyészmérnöki (Bsc) szakképzettség, 3 éves szakmai gyakorlat,
 
-## cb) vegyész technikusi, gépésztechnikusi, energetikai technikusi szakközépiskolai végzettség, 5 éves szakmai gyakorlat
+## cb)[^72]
 
 ## 9.1. Távhő termelésre és szállításra szolgáló sajátos műszaki építmények építése (TH/I.)
 
@@ -396,8 +396,20 @@
 
 ## ca) okleveles villamosmérnöki, okl. energiamérnöki (Msc) szakképzettség, villamosmérnöki, energiamérnöki (Bsc), 3 éves szakmai gyakorlat,
 
-## cb) felsőfokú technikusi végzettség villamosipari technikusi szakképzettség, 5 éves szakmai gyakorlat.
+## cb)[^73] felsőfokú technikusi végzettség villamosipari technikusi szakképzettség, 5 éves szakmai gyakorlat.
 
-3. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^58]
+3. melléklet a 244/2006. (XII. 5.) Korm. rendelethez[^74]
 
-[^58]: A 3. melléklet a 61/2008. (III. 27.) Korm. rendelet 22. § (6) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
+[^62]: A 2. melléklet I. rész 2.1. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § e) pontja hatályon kívül helyezte.
+[^63]: A 2. melléklet I. rész 2.2. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § f) pontja hatályon kívül helyezte.
+[^64]: A 2. melléklet I. rész 2.3. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § g) pontja hatályon kívül helyezte.
+[^65]: A 2. melléklet I. rész 2.4. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § h) pontja hatályon kívül helyezte.
+[^66]: A 2. melléklet II. rész 1.1. c) pont cc) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § i) pontja hatályon kívül helyezte.
+[^67]: A 2. melléklet II. rész 1.2. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § j) pontja hatályon kívül helyezte.
+[^68]: A 2. melléklet II. rész 2.2. c) pont cc) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § k) pontja hatályon kívül helyezte.
+[^69]: A 2. melléklet II. rész 4.2. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § l) pontja hatályon kívül helyezte.
+[^70]: A 2. melléklet II. rész 5. c) pont cb) alpontja a 322/2012. (XI. 16.) Korm. rendelet 11. § m) pontja szerint módosított szöveg.
+[^71]: A 2. melléklet II. rész 6.2. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § n) pontja hatályon kívül helyezte.
+[^72]: A 2. melléklet II. rész 8.2. c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 11. § o) pontja hatályon kívül helyezte.
+[^73]: [A 322/2012. (XI. 16.) Korm. rendelet 11. § p) pontjával elrendelt módosítás, amely szerint a 2. melléklet II. Rész 10.2. c) pont cb) alpontjában a „villamosipari technikusi végzettség,”szövegrész hatályát veszti, nem vezethető át.]
+[^74]: A 3. melléklet a 61/2008. (III. 27.) Korm. rendelet 22. § (6) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján rendelkezéseit a 2008. április 4. napját követően indult ügyekben kell alkalmazni.
