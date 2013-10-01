@@ -14,7 +14,7 @@ da) amely esetében a fizetőképtelenséget kizárólag a biztosító, a biztos
 
 db) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította,
 
-e) nem sértette meg súlyosan vagy ismételten a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) felügyeleti hatáskörét megalapozó törvények vagy azok felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Felügyelet nem szabta ki öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot vagy a bíróság nem állapította meg 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt,
+e) nem sértette meg súlyosan vagy ismételten a Magyar Nemzeti Bank felügyeleti hatáskörét megalapozó törvények vagy azok felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Magyar Nemzeti Bank nem szabta ki öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot vagy a bíróság nem állapította meg 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt,
 
 f) nem tevékenykedik más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, biztosítónál könyvvizsgálóként,
 
@@ -40,6 +40,6 @@ b) külföldön az illetékes hatóság vádat emelt olyan vagyon elleni vagy ga
 
 a büntetőeljárás jogerős befejezéséig vezető állású személyként nem foglalkoztatható, vagy az ilyen feladatok általa történ ő ellátását fel kell függeszteni.
 
-(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib Rt. a kinevezéstől számított 2 munkanapon belül köteles a Felügyeletnek bejelenteni. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
+(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib Rt. a kinevezéstől számított 2 munkanapon belül köteles a Magyar Nemzeti Banknak bejelenteni. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
 
-(7) Amennyiben a Felügyelet úgy ítéli meg, hogy a megválasztott vagy kinevezett személy nem felel meg az e törvényben meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását vagy a kinevezett személy felmentését. A tulajdonosi jogok gyakorlója a kezdeményezésben megnevezett személyt 10 munkanapon belül visszahívja, vagy felmenti.
+(7) Amennyiben a Magyar Nemzeti Bank úgy ítéli meg, hogy a megválasztott vagy kinevezett személy nem felel meg az e törvényben meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását vagy a kinevezett személy felmentését. A tulajdonosi jogok gyakorlója a kezdeményezésben megnevezett személyt 10 munkanapon belül visszahívja, vagy felmenti.
