@@ -28,6 +28,6 @@ A védelem alá eső tisztségek:
 
 13. a Magyar Nemzeti Bank elnöke és alelnökei,
 
-14. a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei,
+14.
 
 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
