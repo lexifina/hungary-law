@@ -1,6 +1,6 @@
 ## „A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
-## 1.[^227] A járművek követelményei kategóriánként
+## 1.[^226] A járművek követelményei kategóriánként
 
 ## „A1” alkategória
 
@@ -328,7 +328,7 @@
 
 ## A felsorolt járművek teljesítmény- és sebességadatai hatósági bizonyítvány hiányában a gyártó által kiadott „Kezelési Útmutató”-val is igazolhatók.
 
-## 2.[^228] Egyéb követelmények
+## 2.[^227] Egyéb követelmények
 
 ## Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivéve – fel kell szerelni kék alapszínű, 20 cm magasságú, 3 cm vonalvastagságú – elölről és hátulról egyaránt – jól látható, nyomtatott fehér „T” betűt ábrázoló, 25x25 cm oldalélű táblával, valamint jól láthatóan fel kell tüntetni az „Autósiskola” feliratot. A „B” kategória esetében ezen jelzéseket a jármű hossztengelyére merőlegesen felszerelt tetőtáblán kell elhelyezni. A tetőtáblán lévő „T” betűt oktatáson kívül le kell takarni.
 
@@ -336,5 +336,5 @@
 
 6. melléklet a 24/2005. (IV. 21.) GKM rendelethez
 
-[^227]: Az 5. melléklet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.
-[^228]: Az 5. melléklet 2. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.
+[^226]: Az 5. melléklet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.
+[^227]: Az 5. melléklet 2. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (4) bekezdése és 21. § j) pontja szerint módosított szöveg.

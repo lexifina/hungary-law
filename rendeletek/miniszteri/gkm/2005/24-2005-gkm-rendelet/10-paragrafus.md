@@ -42,6 +42,8 @@ b) az iskolai végzettség igazolására szóló okmány eredeti-, vagy közjegy
 
 c) a külföldi bizonyítványok és oklevelek esetén olyan – hatáskörrel rendelkező – magyar hatóság által hozott elismerő határozattal, honosítási záradékkal, hatósági bizonyítvánnyal, hatósági igazolással, tájékoztatással vagy három hónapnál nem régebbi Magyarországon felsőoktatási intézmény által kiállított hallgatói jogviszony igazolással, amely kimondja, hogy az adott bizonyítvány vagy oklevél legalább alapfokú végzettséget igazol vagy annak meglétét előfeltételezi.
 
+(5)[^56] Amennyiben a tanuló a tanfolyam kezdetétől számított tizenkét hónapon belül nem teszi le sikeresen az elméleti vizsgáit, akkor csak a teljes tanfolyam megismétlését követően jelenthető ismét elméleti vizsgára.
+
 [^43]: A 10. § (1) bekezdés a) pontja a 45/2013. (VIII. 7.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^44]: A közúti járművezetők egészségügyi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 1. §-a és a közúti járművezetők pályaalkalmassági vizsgálatáról szóló 41/2004. (IV. 7.) GKM rendelet.
 [^45]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 15. §-a.
@@ -55,3 +57,4 @@ c) a külföldi bizonyítványok és oklevelek esetén olyan – hatáskörrel r
 [^53]: A 10. § (2) bekezdés e) pontja az 58/2011. (XI. 24.) NFM rendelet 11. § (5) bekezdésével megállapított szöveg.
 [^54]: A 10. § (3) bekezdése az 58/2011. (XI. 24.) NFM rendelet 11. § (6) bekezdésével megállapított szöveg.
 [^55]: A 10. § (4) bekezdését az 58/2011. (XI. 24.) NFM rendelet 11. § (7) bekezdése iktatta be, nyitó szövegrésze a 45/2013. (VIII. 7.) NFM rendelet 20. § a) pontja szerint módosított szöveg.
+[^56]: A 10. § (5) bekezdését a 45/2013. (VIII. 7.) NFM rendelet 7. § (4) bekezdése iktatta be.
