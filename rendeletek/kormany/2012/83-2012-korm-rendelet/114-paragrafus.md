@@ -6,6 +6,6 @@
 
 (2) A kormányzati hitelesítés-szolgáltató elektronikus aláírással kapcsolatos egyéb szolgáltatásokat, különösen elektronikus archiválási szolgáltatást, időbélyegzést, a TASZ-ra vonatkozó szabályok alkalmazásával azonosítási célú tanúsítványok kibocsátását, valamint más nyilvános kulcsú infrastruktúra-szolgáltatásokat is nyújthat.
 
-(3)[^6] A kormányzati hitelesítés-szolgáltató szolgáltatásait a nemzetbiztonsági szolgálatok és a Terrorelhárítási Központ munkatársai részére az illetékes szolgálattal írásban megkötött együttműködési megállapodásban foglaltak szerint nyújtja.
+(3)[^7] A kormányzati hitelesítés-szolgáltató szolgáltatásait a nemzetbiztonsági szolgálatok és a Terrorelhárítási Központ munkatársai részére az illetékes szolgálattal írásban megkötött együttműködési megállapodásban foglaltak szerint nyújtja.
 
-[^6]: A 114. § (3) bekezdése a 303/2013. (VII. 31.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^7]: A 114. § (3) bekezdése a 303/2013. (VII. 31.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
