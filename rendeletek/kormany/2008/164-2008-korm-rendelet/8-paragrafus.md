@@ -1,4 +1,4 @@
-## 8. §[^4] A befektetési vállalkozás a szavatoló tőkéjére vonatkozóan nyilvánosságra hozza
+## 8. §[^6] A befektetési vállalkozás a szavatoló tőkéjére vonatkozóan nyilvánosságra hozza
 
 a) az alapvető, a járulékos és a kiegészítő tőke összegét,
 
@@ -12,4 +12,4 @@ e) a Bszt. 2. mellékletének 28. pontja alapján meghatározott értéket,
 
 f) a vegyes tulajdonságú befizetett jegyzett tőkéhez és az alapvető kölcsöntőkéhez kapcsolódó visszaváltásra vagy visszavásárlásra ösztönző rendelkezéseket.
 
-[^4]: A 8. § a 349/2010. (XII. 28.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^6]: A 8. § a 349/2010. (XII. 28.) Korm. rendelet 55. §-ával megállapított szöveg.
