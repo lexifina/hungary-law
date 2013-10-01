@@ -1,0 +1,3 @@
+## 6. § A Get. Vhr. 76. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A szállítási rendszerirányító az igénybejelentések alapján köteles minden évben, az ÜKSZ felülvizsgálatakor – ha a rendszeren fizikai szűkületet állapít meg – javaslatot tenni a forrásoldali kapacitások ÜKSZ szerint történő felosztási szabályaira. A fizikai szűkület kezelésére az ÜKSZ-ben aukciós eljárásrendet kell kialakítani és az aukciós tapasztalatok alapján a felosztási szabályokat megfelelően módosítani. A szerződéses szűkület kezelésére az ÜKSZ-ben meghatározott szűkületkezelési eljárásokat kell alkalmazni.”

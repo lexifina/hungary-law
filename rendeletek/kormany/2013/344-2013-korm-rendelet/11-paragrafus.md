@@ -1,0 +1,3 @@
+11. § (1) Az 1. alcím szerinti módosítás a tagállamok és harmadik országok között kötött kormányközi energiaügyi megállapodásokra vonatkozó információcsere-mechanizmus létrehozásáról szóló, 2012. október 25-i 994/2012/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(2) A 2. alcím szerinti módosítás a földgázszállító hálózatokhoz való hozzáférés feltételeiről szóló 715/2009/EK európai parlamenti és tanácsi rendelet I. mellékletének módosításáról szóló, 2012. augusztus 24-i 2012/490/EU európai bizottsági határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
