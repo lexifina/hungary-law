@@ -10,7 +10,7 @@ c) jegyző (főjegyző, körjegyző), aljegyző, továbbá ugyanannál az önkor
 
 d) a területileg illetékes területfejlesztési tanács munkaszervezetének munkavállalója,
 
-e) a Pénzügyi Szervezetek Állami Felügyeletének köztisztviselője,
+e) a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja,
 
 f) kuratóriumi tagság kivételével a képviselő-testület által létrehozott közalapítvány kezelő szervének tisztségviselője,
 
