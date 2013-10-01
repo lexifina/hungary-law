@@ -1,1 +1,0 @@
-A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
