@@ -366,7 +366,7 @@
 
 ## 13.2. Az ellenőrzött szerv vezetője felel az ellenőrzött szervnél a megállapítások és javaslatok alapján – szükség esetén – végrehajtandó intézkedések megvalósulásáért.
 
-2. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^74]
+2. melléklet a 288/2010. (XII. 21.) Korm. rendelethez[^85]
 
 A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében a 22–23. §-ban meghatározott ügykörök
 
@@ -374,7 +374,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.1. a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (9) bekezdése szerinti kártalanítás,
 
-1.2.[^75]
+1.2.[^86]
 
 1.3. az állampolgárság megszerzésére irányuló nyilatkozat és kérelem, továbbá az állampolgárságról lemondó nyilatkozat, valamint az állampolgársági bizonyítvány kiadása iránti kérelem,
 
@@ -384,7 +384,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.6. a nyugdíjbiztosítási adatszolgáltatási kötelezettségek teljesítéséről szóló igazolások kiadása iránt a felszámoló/végelszámoló által benyújtott kérelmek átvétele, továbbítása,
 
-1.7.[^76] a nyugdíjfolyósításhoz és a megváltozott munkaképességű személyek ellátása folyósításához kapcsolódó bejelentési kötelezettségek teljesítése, továbbá nyomtatvány kiadása, átvétele,
+1.7.[^87] a nyugdíjfolyósításhoz és a megváltozott munkaképességű személyek ellátása folyósításához kapcsolódó bejelentési kötelezettségek teljesítése, továbbá nyomtatvány kiadása, átvétele,
 
 1.8. TAJ kártya igénylés befogadása,
 
@@ -448,131 +448,131 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.38. építőipari kivitelezési tevékenység megkezdésének és az adatok változásának bejelentése, előzetes bejelentés, utólagos bejelentés, bejelentő lapok, és mellékleteik átvétele és továbbítása.
 
-1.39.[^77] teljes hatályú apai elismerő nyilatkozat és az apai elismerő nyilatkozat teljes hatályához szükséges hozzájárulás,
+1.39.[^88] teljes hatályú apai elismerő nyilatkozat és az apai elismerő nyilatkozat teljes hatályához szükséges hozzájárulás,
 
-1.40.[^78] otthonteremtési támogatás iránti kérelem,
+1.40.[^89] otthonteremtési támogatás iránti kérelem,
 
-1.41.[^79] gyermektartásdíj állam általi megelőlegezése iránti kérelem,
+1.41.[^90] gyermektartásdíj állam általi megelőlegezése iránti kérelem,
 
-1.42.[^80] gyermek családi és utónevének megállapítása iránti kérelem,
+1.42.[^91] gyermek családi és utónevének megállapítása iránti kérelem,
 
-1.43.[^81] a családi jogállás megállapítása iránti perindításhoz történő hozzájárulás iránti kérelem,
+1.43.[^92] a családi jogállás megállapítása iránti perindításhoz történő hozzájárulás iránti kérelem,
 
-1.44.[^82] a 16. életévet betöltött gyermek házasságkötésének engedélyezése iránti kérelem,
+1.44.[^93] a 16. életévet betöltött gyermek házasságkötésének engedélyezése iránti kérelem,
 
-1.45.[^83] lakáscélú állami támogatásokat (közvetlen támogatások, kamattámogatások) igénylők hitelintézeti elutasítása miatt a támogatásra való jogosultság feltételeinek a megállapítása iránti kérelem,
+1.45.[^94] lakáscélú állami támogatásokat (közvetlen támogatások, kamattámogatások) igénylők hitelintézeti elutasítása miatt a támogatásra való jogosultság feltételeinek a megállapítása iránti kérelem,
 
-1.46.[^84] lakástámogatás visszafizetési kötelezettség felfüggesztése iránti kérelem,
+1.46.[^95] lakástámogatás visszafizetési kötelezettség felfüggesztése iránti kérelem,
 
-1.47.[^85] hatósági közvetítői nyilvántartásba vétel iránti kérelem,
+1.47.[^96] hatósági közvetítői nyilvántartásba vétel iránti kérelem,
 
-1.48.[^86] hatósági közvetítői nyilvántartásból való törlésre irányuló kérelem,
+1.48.[^97] hatósági közvetítői nyilvántartásból való törlésre irányuló kérelem,
 
-1.49.[^87] igazolás kiadása iránti kérelem arról, hogy az ügyfél nem kedvezményezettje másik lakás-takarékpénztári szerződésnek,
+1.49.[^98] igazolás kiadása iránti kérelem arról, hogy az ügyfél nem kedvezményezettje másik lakás-takarékpénztári szerződésnek,
 
-1.50.[^88] lakástakarék-pénztári megtakarítás esetén az állami támogatás visszafizetésére kötelezettek fizetési könnyítés iránti kérelme,
+1.50.[^99] lakástakarék-pénztári megtakarítás esetén az állami támogatás visszafizetésére kötelezettek fizetési könnyítés iránti kérelme,
 
-1.51.[^89] lakásfenntartási támogatás iránti kérelem,
+1.51.[^100] lakásfenntartási támogatás iránti kérelem,
 
-1.52.[^90] az egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet szerinti, törlesztési kötelezettség felfüggesztése iránti kérelem,
+1.52.[^101] az egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet szerinti, törlesztési kötelezettség felfüggesztése iránti kérelem,
 
-1.53.[^91] aktív korúak ellátása iránti kérelem,
+1.53.[^102] aktív korúak ellátása iránti kérelem,
 
-1.54.[^92] rendezvénytartási engedély kiadása iránti kérelem,
+1.54.[^103] rendezvénytartási engedély kiadása iránti kérelem,
 
-1.55.[^93] rendezvénytartási engedély jogosultjának adatváltozásról szóló bejelentése,
+1.55.[^104] rendezvénytartási engedély jogosultjának adatváltozásról szóló bejelentése,
 
-1.56.[^94] rendezvénytartási engedély jogosultjának bejelentése a tevékenység megszüntetéséről,
+1.56.[^105] rendezvénytartási engedély jogosultjának bejelentése a tevékenység megszüntetéséről,
 
-1.57.[^95] adó- és értékbizonyítvány kiállítása iránti kérelem,
+1.57.[^106] adó- és értékbizonyítvány kiállítása iránti kérelem,
 
-1.58.[^96] olyan személynek a bejelentése, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik,
+1.58.[^107] olyan személynek a bejelentése, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik,
 
-1.59.[^97] az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti panasz benyújtása, kivéve az állami adó- és vámhatóság elleni panaszokat,
+1.59.[^108] az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti panasz benyújtása, kivéve az állami adó- és vámhatóság elleni panaszokat,
 
-1.60.[^98] a Rendőrségről szóló 1994. évi XXXIV. törvény 92. §-a szerinti panasz benyújtása,
+1.60.[^109] a Rendőrségről szóló 1994. évi XXXIV. törvény 92. §-a szerinti panasz benyújtása,
 
-1.61.[^99] a közterület-felügyeletről szóló 1999. évi LXIII. törvény 26. §-a szerinti panasz benyújtása,
+1.61.[^110] a közterület-felügyeletről szóló 1999. évi LXIII. törvény 26. §-a szerinti panasz benyújtása,
 
-1.62.[^100] az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 22. § (4) bekezdés b) pontja szerinti panasz benyújtása,
+1.62.[^111] az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 22. § (4) bekezdés b) pontja szerinti panasz benyújtása,
 
-1.63.[^101] az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti közérdekű bejelentés benyújtása, kivéve az állami adó- és vámhatósághoz intézett közérdekű bejelentéseket,
+1.63.[^112] az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti közérdekű bejelentés benyújtása, kivéve az állami adó- és vámhatósághoz intézett közérdekű bejelentéseket,
 
-1.64.[^102] annak igazolása iránti kérelem, hogy a kérelmező az elmebeteget gondozásban, ellátásban és felügyeletben tudja részesíteni,
+1.64.[^113] annak igazolása iránti kérelem, hogy a kérelmező az elmebeteget gondozásban, ellátásban és felügyeletben tudja részesíteni,
 
-1.65.[^103] anyakönyvi kivonat kiállítása iránti kérelem,
+1.65.[^114] anyakönyvi kivonat kiállítása iránti kérelem,
 
-1.66.[^104] temetkezési szolgáltatási tevékenység engedélyezése iránti kérelem,
+1.66.[^115] temetkezési szolgáltatási tevékenység engedélyezése iránti kérelem,
 
-1.67.[^105] állatvásár tartásának engedélyezése iránti kérelem,
+1.67.[^116] állatvásár tartásának engedélyezése iránti kérelem,
 
-1.68.[^106] állatpiac tartásának engedélyezése iránti kérelem,
+1.68.[^117] állatpiac tartásának engedélyezése iránti kérelem,
 
-1.69.[^107] állatkiállítás tartásának engedélyezése iránti kérelem,
+1.69.[^118] állatkiállítás tartásának engedélyezése iránti kérelem,
 
-1.70.[^108] közterületen lévő fás szárú növény kivágásának engedélyezése iránti kérelem,
+1.70.[^119] közterületen lévő fás szárú növény kivágásának engedélyezése iránti kérelem,
 
-1.71.[^109] állatmenhely létesítésének engedélyezésére irányuló kérelem,
+1.71.[^120] állatmenhely létesítésének engedélyezésére irányuló kérelem,
 
-1.72.[^110] állatpanzió létesítésének engedélyezésére irányuló kérelem,
+1.72.[^121] állatpanzió létesítésének engedélyezésére irányuló kérelem,
 
-1.73.[^111] üzlet működési engedélyének kiadása iránti kérelem,
+1.73.[^122] üzlet működési engedélyének kiadása iránti kérelem,
 
-1.74.[^112] vásár üzemeltetésének engedélyezésére irányuló kérelem,
+1.74.[^123] vásár üzemeltetésének engedélyezésére irányuló kérelem,
 
-1.75.[^113] vásár 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
+1.75.[^124] vásár 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
 
-1.76.[^114] piac üzemeltetésének engedélyezésére irányuló kérelem,
+1.76.[^125] piac üzemeltetésének engedélyezésére irányuló kérelem,
 
-1.77.[^115] piac 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
+1.77.[^126] piac 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
 
-1.78.[^116] bevásárlóközpont üzemeltetésére irányuló bejelentés,
+1.78.[^127] bevásárlóközpont üzemeltetésére irányuló bejelentés,
 
-1.79.[^117] helyi termelői piac üzemeltetésére irányuló szándék bejelentése,
+1.79.[^128] helyi termelői piac üzemeltetésére irányuló szándék bejelentése,
 
-1.80.[^118] helyi termelői piac 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
+1.80.[^129] helyi termelői piac 20 óra utáni nyitva tartásának engedélyezésére irányuló kérelem,
 
-1.81.[^119] szálloda szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.81.[^130] szálloda szálláshely-üzemeltetési engedély kiadása iránti kérelem,
 
-1.82.[^120] panzió szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.82.[^131] panzió szálláshely-üzemeltetési engedély kiadása iránti kérelem,
 
-1.83.[^121] kemping szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.83.[^132] kemping szálláshely-üzemeltetési engedély kiadása iránti kérelem,
 
-1.84.[^122] üdülőház szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.84.[^133] üdülőház szálláshely-üzemeltetési engedély kiadása iránti kérelem,
 
-1.85.[^123] közösségi szálláshely szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.85.[^134] közösségi szálláshely szálláshely-üzemeltetési engedély kiadása iránti kérelem,
 
-1.86.[^124] egyéb szálláshely szálláshely-üzemeltetési engedély kiadása iránti kérelem,
+1.86.[^135] egyéb szálláshely szálláshely-üzemeltetési engedély kiadása iránti kérelem,
 
-1.87.[^125] szálloda szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.87.[^136] szálloda szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
 
-1.88.[^126] panzió szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.88.[^137] panzió szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
 
-1.89.[^127] kemping szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.89.[^138] kemping szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
 
-1.90.[^128] üdülőház szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.90.[^139] üdülőház szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
 
-1.91.[^129] közösségi szálláshely szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.91.[^140] közösségi szálláshely szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
 
-1.92.[^130] egyéb szálláshely szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
+1.92.[^141] egyéb szálláshely szálláshely-üzemeltetési engedély jogosultjának adatváltozás bejelentése,
 
-1.93.[^131] szálloda szálláshely megszüntetésének bejelentése,
+1.93.[^142] szálloda szálláshely megszüntetésének bejelentése,
 
-1.94.[^132] panzió szálláshely megszüntetésének bejelentése,
+1.94.[^143] panzió szálláshely megszüntetésének bejelentése,
 
-1.95.[^133] kemping szálláshely megszüntetésének bejelentése,
+1.95.[^144] kemping szálláshely megszüntetésének bejelentése,
 
-1.96.[^134] üdülőház szálláshely megszüntetésének bejelentése,
+1.96.[^145] üdülőház szálláshely megszüntetésének bejelentése,
 
-1.97.[^135] közösségi szálláshely megszüntetésének bejelentése,
+1.97.[^146] közösségi szálláshely megszüntetésének bejelentése,
 
-1.98.[^136] egyéb szálláshely megszüntetésének bejelentése,
+1.98.[^147] egyéb szálláshely megszüntetésének bejelentése,
 
-1.99.[^137] természetes személy, gazdálkodó szervezet üzletszerű ingatlanközvetítői tevékenység engedélyezése iránti kérelme,
+1.99.[^148] természetes személy, gazdálkodó szervezet üzletszerű ingatlanközvetítői tevékenység engedélyezése iránti kérelme,
 
-1.100.[^138] természetes személy, gazdálkodó szervezet üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység engedélyezése iránti kérelme,
+1.100.[^149] természetes személy, gazdálkodó szervezet üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység engedélyezése iránti kérelme,
 
-1.101.[^139] építésügyi hatósági engedélyezés iránti kérelem:
+1.101.[^150] építésügyi hatósági engedélyezés iránti kérelem:
 
 1.101.1. építési engedély iránti kérelem,
 
@@ -590,7 +590,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.101.8. összevont telepítési engedély iránti kérelem,
 
-1.102.[^140] építésügyi hatósági tudomásulvétel iránti kérelem:
+1.102.[^151] építésügyi hatósági tudomásulvétel iránti kérelem:
 
 1.102.1. jogutódlás tudomásulvétele iránti kérelem,
 
@@ -598,23 +598,23 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.102.3. veszélyhelyzet esetén szükségessé váló építési tevékenység tudomásulvétele iránti kérelem,
 
-1.103.[^141] építésügyi hatósági eljárásban benyújtott egyéb kérelem:
+1.103.[^152] építésügyi hatósági eljárásban benyújtott egyéb kérelem:
 
 1.103.1. hatósági bizonyítvány kiállítása iránti kérelem,
 
 1.103.2. előzetes szakhatósági hozzájárulás iránti kérelem,
 
-1.104.[^142] építésfelügyeleti hatósági tudomásulvétel iránti kérelem:
+1.104.[^153] építésfelügyeleti hatósági tudomásulvétel iránti kérelem:
 
 1.104.1. bontás tudomásulvétele iránti kérelem,
 
 1.104.2. kivitelezés kezdésének tudomásulvétele iránti kérelem,
 
-1.105.[^143] építésügyi hatósági szolgáltatás iránti kérelem,
+1.105.[^154] építésügyi hatósági szolgáltatás iránti kérelem,
 
-1.106.[^144] elektronikus gyűjtőtárhely és feltöltő tárhely létesítése az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszerben (ÉTDR),
+1.106.[^155] elektronikus gyűjtőtárhely és feltöltő tárhely létesítése az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszerben (ÉTDR),
 
-1.107.[^145] információ, illetve adatszolgáltatás az Építésügyi Dokumentációs és Információs Központ Országos Építésügyi Nyilvántartás (OÉNY) nyilvános adataiból.
+1.107.[^156] információ, illetve adatszolgáltatás az Építésügyi Dokumentációs és Információs Központ Országos Építésügyi Nyilvántartás (OÉNY) nyilvános adataiból.
 
 2. A kormányablak tájékoztatást nyújt az ügyfélnek az eljárás menetéről, valamint az eljárással kapcsolatos ügyféli jogokról és kötelezettségekről a következő ügyekben:
 
@@ -630,33 +630,33 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 2.6. a bemutatott külföldi okiratok elfogadhatóságának elbírálása, amennyiben nem magyar állampolgár kíván Magyarországon házasságot kötni, vagy bejegyzett élettársi kapcsolatot létesíteni,
 
-2.7.[^146] a megváltozott munkaképességű személyek ellátásainak igénylése,
+2.7.[^157] a megváltozott munkaképességű személyek ellátásainak igénylése,
 
-2.8.[^147] nem magyar állampolgár házasságkötése és bejegyzett élettársi kapcsolatának létesítése,
+2.8.[^158] nem magyar állampolgár házasságkötése és bejegyzett élettársi kapcsolatának létesítése,
 
-2.9.[^148] házasságkötés és bejegyzett élettársi kapcsolat létesítése,
+2.9.[^159] házasságkötés és bejegyzett élettársi kapcsolat létesítése,
 
-2.10.[^149] a házassági névviselési forma módosítása,
+2.10.[^160] a házassági névviselési forma módosítása,
 
-2.11.[^150] születés anyakönyvezése,
+2.11.[^161] születés anyakönyvezése,
 
-2.12.[^151]
+2.12.[^162]
 
-2.13.[^152] haláleset anyakönyvezése,
+2.13.[^163] haláleset anyakönyvezése,
 
-2.14.[^153] tájékoztatás a tervezett építési tevékenység engedélyezésére, a választott eljárástípus lefolytatására hatáskörrel rendelkező illetékes építésügyi hatóság megnevezéséről és elérhetőségéről,
+2.14.[^164] tájékoztatás a tervezett építési tevékenység engedélyezésére, a választott eljárástípus lefolytatására hatáskörrel rendelkező illetékes építésügyi hatóság megnevezéséről és elérhetőségéről,
 
-2.15.[^154] tájékoztatás arról, hogy mely hatósági engedély iránti kérelmek nyújthatók be együtt,
+2.15.[^165] tájékoztatás arról, hogy mely hatósági engedély iránti kérelmek nyújthatók be együtt,
 
-2.16.[^155] tájékoztatás a kérelmezendő eljárástípus illetékének mértékéről,
+2.16.[^166] tájékoztatás a kérelmezendő eljárástípus illetékének mértékéről,
 
-2.17.[^156] tájékoztatás az egyes szakhatósági eljárások illetékének vagy igazgatási szolgáltatási díjának mértékéről,
+2.17.[^167] tájékoztatás az egyes szakhatósági eljárások illetékének vagy igazgatási szolgáltatási díjának mértékéről,
 
-2.18.[^157] információ, felvilágosítás és segítségnyújtás az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) kapcsán az elektronikus ügyintézésre vonatkozóan.
+2.18.[^168] információ, felvilágosítás és segítségnyújtás az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) kapcsán az elektronikus ügyintézésre vonatkozóan.
 
 3.
 
-3.1. A kormányablak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 169. § (1) bekezdés d) pontja szerint az ügyfelek azonosítását követően egyedi ügyük intézéséhez internetes kapcsolati lehetőséget, szakmai és informatikai segítséget nyújt
+3.1.[^169] A kormányablak a Ket. 169. § (1) bekezdés d) pontja szerint az ügyfelek azonosítását követően egyedi ügyük intézéséhez internetes kapcsolati lehetőséget, szakmai és informatikai segítséget nyújt
 
 a) egyéni vállalkozói tevékenység elektronikus bejelentéséhez,
 
@@ -670,95 +670,100 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 
 3.3. A kormányablak betekintési lehetőséget biztosít az Országos Cégnyilvántartási és Céginformációs Rendszer cégadatbázisába.
 
-4.[^158]
+3.4.[^170] A kormányablak internethasználatot és -hozzáférést biztosít az Építésügyi Dokumentációs és Információs Központ, valamint Országos Építésügyi Nyilvántartás adataihoz, és elektronikus alkalmazásainak használatához, az elektronikus ügyintézés indításához.
 
-4.1.[^159] A kormányablak Internet használatot és hozzáférést biztosít az Építésügyi Dokumentációs és Információs Központ, valamint Országos Építésügyi Nyilvántartás adataihoz, és elektronikus alkalmazásainak használatához, elektronikus ügyintézés indításához.
+4.[^171]
 
-4.2. A kormányablak iratbetekintési és iratmásolati szolgáltatási lehetőséget biztosít az ügyfél azonosítását követően az egyedi ügy irataiba, amelyben az ezt kérelmező ügyféli jogállással rendelkezik és amely iratra iratbetekintési joga van.
+4.1.[^172]
 
-[^74]: A 2. melléklet a 212/2011. (X. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^75]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
-[^76]: A 2. melléklet 1. pont 1.7. alpontja a 95/2012. (V. 15.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
-[^77]: A 2. melléklet 1. pont 1. 39. alpontját a 133/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^78]: A 2. melléklet 1. pont 1.40. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^79]: A 2. melléklet 1. pont 1.41. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^80]: A 2. melléklet 1. pont 1.42. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^81]: A 2. melléklet 1. pont 1.43. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^82]: A 2. melléklet 1. pont 1.44. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^83]: A 2. melléklet 1. pont 1.45. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^84]: A 2. melléklet 1. pont 1.46. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^85]: A 2. melléklet 1. pont 1.47. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^86]: A 2. melléklet 1. pont 1.48. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^87]: A 2. melléklet 1. pont 1.49. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^88]: A 2. melléklet 1. pont 1.50. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^89]: A 2. melléklet 1. pont 1.51. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^90]: A 2. melléklet 1. pont 1.52. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^91]: A 2. melléklet 1. pont 1.53. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^92]: A 2. melléklet 1. pont 1.54. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^93]: A 2. melléklet 1. pont 1.55. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^94]: A 2. melléklet 1. pont 1.56. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^95]: A 2. melléklet 1. pont 1.57. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^96]: A 2. melléklet 1. pont 1.58. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^97]: A 2. melléklet 1. pont 1.59. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^98]: A 2. melléklet 1. pont 1.60. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^99]: A 2. melléklet 1. pont 1.61. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^100]: A 2. melléklet 1. pont 1.62. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^101]: A 2. melléklet 1. pont 1.63. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^102]: A 2. melléklet 1. pont 1.64. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^103]: A 2. melléklet 1. pont 1.65. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^104]: A 2. melléklet 1. pont 1.66. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^105]: A 2. melléklet 1. pont 1.67. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^106]: A 2. melléklet 1. pont 1.68. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^107]: A 2. melléklet 1. pont 1.69. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^108]: A 2. melléklet 1. pont 1.70. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^109]: A 2. melléklet 1. pont 1.71. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^110]: A 2. melléklet 1. pont 1.72. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^111]: A 2. melléklet 1. pont 1.73. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^112]: A 2. melléklet 1. pont 1.74. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^113]: A 2. melléklet 1. pont 1.75. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^114]: A 2. melléklet 1. pont 1.76. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^115]: A 2. melléklet 1. pont 1.77. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^116]: A 2. melléklet 1. pont 1.78. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^117]: A 2. melléklet 1. pont 1.79. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^118]: A 2. melléklet 1. pont 1.80. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^119]: A 2. melléklet 1. pont 1.81. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^120]: A 2. melléklet 1. pont 1.82. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^121]: A 2. melléklet 1. pont 1.83. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^122]: A 2. melléklet 1. pont 1.84. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^123]: A 2. melléklet 1. pont 1.85. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^124]: A 2. melléklet 1. pont 1.86. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^125]: A 2. melléklet 1. pont 1.87. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^126]: A 2. melléklet 1. pont 1.88. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^127]: A 2. melléklet 1. pont 1.89. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^128]: A 2. melléklet 1. pont 1.90. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^129]: A 2. melléklet 1. pont 1.91. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^130]: A 2. melléklet 1. pont 1.92. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^131]: A 2. melléklet 1. pont 1.93. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^132]: A 2. melléklet 1. pont 1.94. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^133]: A 2. melléklet 1. pont 1.95. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^134]: A 2. melléklet 1. pont 1.96. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^135]: A 2. melléklet 1. pont 1.97. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^136]: A 2. melléklet 1. pont 1.98. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^137]: A 2. melléklet 1. pont 1.99. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^138]: A 2. melléklet 1. pont 1.100. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^139]: A 2. melléklet 1. pont 1.101. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^140]: A 2. melléklet 1. pont 1.102. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^141]: A 2. melléklet 1. pont 1.103. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^142]: A 2. melléklet 1. pont 1.104. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^143]: A 2. melléklet 1. pont 1.105. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^144]: A 2. melléklet 1. pont 1.106. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^145]: A 2. melléklet 1. pont 1.107. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^146]: A 2. melléklet 2. pont 2.7. alpontja a 417/2012. (XII. 29.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
-[^147]: A 2. melléklet 2. pont 2.8. alpontját a 95/2012. (V. 15.) Korm. rendelet 42. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
-[^148]: A 2. melléklet 2. pont 2.9. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
-[^149]: A 2. melléklet 2. pont 2.10. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
-[^150]: A 2. melléklet 2. pont 2.11. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
-[^151]: A 2. melléklet 2. pont 2.12. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be, hatályon kívül helyezte a 152/2013. (V. 24.) Korm. rendelet 1. §-a.
-[^152]: A 2. melléklet 2. pont 2.13. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
-[^153]: A 2. melléklet 2. pont 2.14. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^154]: A 2. melléklet 2. pont 2.15. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^155]: A 2. melléklet 2. pont 2.16. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^156]: A 2. melléklet 2. pont 2.17. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^157]: A 2. melléklet 2. pont 2.18. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^158]: A 2. melléklet 4. pontját a 414/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^159]: A 2. melléklet 4. pont 4.1. alpontja a 152/2013. (V. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+4.2.[^173] A kormányablak az építésügyi és építésfelügyeleti hatósági és a szakhatósági eljárásokkal összefüggésben iratbetekintési és iratmásolati szolgáltatási lehetőséget biztosít az ügyfél azonosítását követően az egyedi ügy irataiba, amelyben az ezt kérelmező ügyféli jogállással rendelkezik és amely iratra iratbetekintési joga van.
+
+[^85]: A 2. melléklet a 212/2011. (X. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^86]: A 2. melléklet 1.2. pontját a 63/2012. (IV. 2.) Korm. rendelet 6. § k) pontja hatályon kívül helyezte.
+[^87]: A 2. melléklet 1. pont 1.7. alpontja a 95/2012. (V. 15.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^88]: A 2. melléklet 1. pont 1. 39. alpontját a 133/2012. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^89]: A 2. melléklet 1. pont 1.40. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^90]: A 2. melléklet 1. pont 1.41. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^91]: A 2. melléklet 1. pont 1.42. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^92]: A 2. melléklet 1. pont 1.43. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^93]: A 2. melléklet 1. pont 1.44. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^94]: A 2. melléklet 1. pont 1.45. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^95]: A 2. melléklet 1. pont 1.46. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^96]: A 2. melléklet 1. pont 1.47. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^97]: A 2. melléklet 1. pont 1.48. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A 2. melléklet 1. pont 1.49. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^99]: A 2. melléklet 1. pont 1.50. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^100]: A 2. melléklet 1. pont 1.51. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^101]: A 2. melléklet 1. pont 1.52. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^102]: A 2. melléklet 1. pont 1.53. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^103]: A 2. melléklet 1. pont 1.54. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^104]: A 2. melléklet 1. pont 1.55. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^105]: A 2. melléklet 1. pont 1.56. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^106]: A 2. melléklet 1. pont 1.57. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^107]: A 2. melléklet 1. pont 1.58. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^108]: A 2. melléklet 1. pont 1.59. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^109]: A 2. melléklet 1. pont 1.60. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^110]: A 2. melléklet 1. pont 1.61. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^111]: A 2. melléklet 1. pont 1.62. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^112]: A 2. melléklet 1. pont 1.63. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^113]: A 2. melléklet 1. pont 1.64. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^114]: A 2. melléklet 1. pont 1.65. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^115]: A 2. melléklet 1. pont 1.66. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^116]: A 2. melléklet 1. pont 1.67. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^117]: A 2. melléklet 1. pont 1.68. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^118]: A 2. melléklet 1. pont 1.69. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^119]: A 2. melléklet 1. pont 1.70. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^120]: A 2. melléklet 1. pont 1.71. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^121]: A 2. melléklet 1. pont 1.72. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^122]: A 2. melléklet 1. pont 1.73. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^123]: A 2. melléklet 1. pont 1.74. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^124]: A 2. melléklet 1. pont 1.75. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^125]: A 2. melléklet 1. pont 1.76. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^126]: A 2. melléklet 1. pont 1.77. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^127]: A 2. melléklet 1. pont 1.78. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^128]: A 2. melléklet 1. pont 1.79. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^129]: A 2. melléklet 1. pont 1.80. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^130]: A 2. melléklet 1. pont 1.81. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^131]: A 2. melléklet 1. pont 1.82. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^132]: A 2. melléklet 1. pont 1.83. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^133]: A 2. melléklet 1. pont 1.84. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^134]: A 2. melléklet 1. pont 1.85. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^135]: A 2. melléklet 1. pont 1.86. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^136]: A 2. melléklet 1. pont 1.87. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^137]: A 2. melléklet 1. pont 1.88. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^138]: A 2. melléklet 1. pont 1.89. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^139]: A 2. melléklet 1. pont 1.90. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^140]: A 2. melléklet 1. pont 1.91. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^141]: A 2. melléklet 1. pont 1.92. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^142]: A 2. melléklet 1. pont 1.93. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^143]: A 2. melléklet 1. pont 1.94. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^144]: A 2. melléklet 1. pont 1.95. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^145]: A 2. melléklet 1. pont 1.96. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^146]: A 2. melléklet 1. pont 1.97. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^147]: A 2. melléklet 1. pont 1.98. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^148]: A 2. melléklet 1. pont 1.99. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^149]: A 2. melléklet 1. pont 1.100. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^150]: A 2. melléklet 1. pont 1.101. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^151]: A 2. melléklet 1. pont 1.102. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^152]: A 2. melléklet 1. pont 1.103. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^153]: A 2. melléklet 1. pont 1.104. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^154]: A 2. melléklet 1. pont 1.105. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^155]: A 2. melléklet 1. pont 1.106. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^156]: A 2. melléklet 1. pont 1.107. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^157]: A 2. melléklet 2. pont 2.7. alpontja a 417/2012. (XII. 29.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
+[^158]: A 2. melléklet 2. pont 2.8. alpontját a 95/2012. (V. 15.) Korm. rendelet 42. § (3) bekezdése iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
+[^159]: A 2. melléklet 2. pont 2.9. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^160]: A 2. melléklet 2. pont 2.10. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^161]: A 2. melléklet 2. pont 2.11. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^162]: A 2. melléklet 2. pont 2.12. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be, hatályon kívül helyezte a 152/2013. (V. 24.) Korm. rendelet 1. §-a.
+[^163]: A 2. melléklet 2. pont 2.13. alpontját a 417/2012. (XII. 29.) Korm. rendelet 71. § (2) bekezdése iktatta be.
+[^164]: A 2. melléklet 2. pont 2.14. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^165]: A 2. melléklet 2. pont 2.15. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^166]: A 2. melléklet 2. pont 2.16. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^167]: A 2. melléklet 2. pont 2.17. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^168]: A 2. melléklet 2. pont 2.18. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^169]: A 2. melléklet 3. pont 3.1. alpontja a 252/2013. (VII. 4.) Korm. rendelet 1. § (7) bekezdése szerint módosított szöveg.
+[^170]: A 2. melléklet 3. pont 3.4. alpontját a 252/2013. (VII. 4.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^171]: A 2. melléklet 4. pontját a 414/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^172]: A 2. melléklet 4. pont 4.1. alpontját a 252/2013. (VII. 4.) Korm. rendelet 1. § (9) bekezdése hatályon kívül helyezte.
+[^173]: A 2. melléklet 4. pont 4.2. alpontja a 252/2013. (VII. 4.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.

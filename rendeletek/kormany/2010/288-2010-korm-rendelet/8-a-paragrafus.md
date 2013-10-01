@@ -1,4 +1,4 @@
-8/A. §[^24] (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt kormánymegbízott figyelemmel kíséri.
+8/A. §[^27] (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, kormányrendeletben meghatározott közigazgatási hatósági ügy (a továbbiakban: kiemelt jelentőségű ügy) intézését a kormányrendeletben kijelölt kormánymegbízott figyelemmel kíséri.
 
 (2) A kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt kormánymegbízott
 
@@ -18,7 +18,7 @@ g) a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szerv
 
 h) – a 15. §-ban foglalt ellenőrzési jogkörtől eltérően – kezdeményezésére a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervnél az irányító, szakmai irányító és felügyeleti szervének vezetője soron kívül törvényességi és hatékonysági ellenőrzést folytat le a kiemelt jelentőségű ügy tekintetében;
 
-i) a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervet egyedi vagy rendszeres jelentéstételre vagy beszámolóra kötelezheti – az (5) bekezdésben foglalttól eltérő határidővel –;
+i)[^28] a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervet egyedi vagy rendszeres jelentéstételre vagy beszámolóra kötelezheti – az (4) bekezdésben foglalttól eltérő határidővel –;
 
 j) a kormányzati szolgálati jogviszonyból eredő kötelezettségeknek a kiemelt jelentőségű ügy intézése során történő megszegésének alapos gyanúja esetén fegyelmi eljárást kezdeményezhet; valamint
 
@@ -42,4 +42,5 @@ c) a Kormány döntését igénylő kérdésben előterjesztést készít a Korm
 
 (8) A (2) és a (3)–(5) bekezdés szerinti feladatok ellátása során nem alkalmazandó a 6. § (5) és (5a) bekezdése.
 
-[^24]: A 8/A. §-t a 261/2012. (IX. 17.) Korm. rendelet 1. §-a iktatta be.
+[^27]: A 8/A. §-t a 261/2012. (IX. 17.) Korm. rendelet 1. §-a iktatta be.
+[^28]: A 8/A. § (2) bekezdés i) pontja a 252/2013. (VII. 4.) Korm. rendelet 1. § (8) bekezdése szerint módosított szöveg.
