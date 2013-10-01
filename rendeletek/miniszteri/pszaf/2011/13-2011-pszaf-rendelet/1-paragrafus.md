@@ -1,5 +1,0 @@
-1. § (1) E rendelet hatálya a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvényben meghatározott Kártalanítási Alap kezelője (a továbbiakban: adatszolgáltató) adatszolgáltatási kötelezettségének szabályaira terjed ki.
-
-(2) Az adatszolgáltató az e rendeletben foglaltak szerint felügyeleti jelentést készít, amelyet megküld a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) részére.
-
-(3) A felügyeleti jelentések elkészítésének alapját a magyar számviteli jogszabályok szerint készített főkönyvi és analitikus nyilvántartások képezik.
