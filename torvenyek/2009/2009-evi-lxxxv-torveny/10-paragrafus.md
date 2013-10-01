@@ -8,7 +8,7 @@ ab) a szolgáltató – az ügyfél lakóhelye vagy székhelye szerinti EGT-áll
 
 ac) ügyféllel való egyéb kapcsolattartás (ideértve az elektronikus levelezést) címéről, valamint
 
-ad) a szolgáltató cégjegyzékszámáról vagy bírósági nyilvántartásba vételi számáról, és a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által kiadott tevékenységi engedély számáról, vagy törzskönyvi nyilvántartási számáról;
+ad) a szolgáltató cégjegyzékszámáról vagy bírósági nyilvántartásba vételi számáról, és a Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által kiadott tevékenységi engedély számáról, vagy törzskönyvi nyilvántartási számáról;
 
 b) a szolgáltatásra vonatkozóan:
 
