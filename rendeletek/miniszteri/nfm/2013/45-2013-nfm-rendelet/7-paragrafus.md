@@ -1,9 +1,8 @@
-## 1–6. §[^1]
+## 1–6. §[^2]
 
-7. § (1)–(3)[^2]
+7. § (1)–(3)[^3]
 
-(4)[^3]
+(4) Az R. 10. §-a a következő (5) bekezdéssel egészül ki:
 
-[^1]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 7. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 7. § (4) bekezdése a 23. § (2) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^2]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
