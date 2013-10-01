@@ -1,4 +1,4 @@
-## 17. §[^12]
+## 17. §[^13]
 
 18. § (1) A járadékszolgáltató pénztár aktuáriusának értékelésében elemeznie kell a szolgáltatási számlák tervezett és tényleges alakulásának a különbségét. Szolgáltatási típusonként meg kell határoznia, hogy a különbség mekkora része tekinthető a pénztártagi halandóság nem várt alakulása következményének, mekkora része tekinthető a szolgáltatási számlák befektetéseivel kapcsolatban tervezett és ténylegesen elért hozamok különbsége következményének, és mekkora része tekinthető a szolgáltatási költségek tervezett és tényleges nagysága különbsége következményének.
 
@@ -10,4 +10,4 @@
 
 (5) Az (1) és (3) bekezdésekben meghatározott elemzés módszerének levezetése az első alkalommal, illetve a módszer minden megváltoztatása esetén része az aktuáriusi értékelésnek.
 
-[^12]: A 17. §-t a 258/2001. (XII. 19.) Korm. rendelet 6. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^13]: A 17. §-t a 258/2001. (XII. 19.) Korm. rendelet 6. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.

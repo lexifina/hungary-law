@@ -1,4 +1,4 @@
-## 9. §[^5]
+## 9. §[^6]
 
 10. § (1) Ha egy naptári év során a pénztár valamelyik szolgáltatási számláján szereplő tagok tényleges halandósága nagyobb, mint ami a pénztár által használt halandósági tábla alapján várható, akkor a pénztár demográfiai tartalékát az erre az évre vonatkozó aktuáriusi értékelésben meghatározott mértékben a szóban forgó szolgáltatási számláról fel kell tölteni.
 
@@ -8,4 +8,4 @@
 
 (4) Ha a szolgáltatási számlák feltöltésének eredményeképpen a demográfiai tartalék a szolgáltatási számlák összegének 0,3%-a alatt van, akkor a demográfiai tartalékot a saját tevékenységi tartalékból kell feltölteni erre a szintre, vagy a saját tevékenységi tartalék nagyságából adódó szintre, ha ez utóbbi a kisebb.
 
-[^5]: A 9. §-t a 234/2006. (XI. 24.) Korm. rendelet 15. § (5) bekezdése hatályon kívül helyezte.
+[^6]: A 9. §-t a 234/2006. (XI. 24.) Korm. rendelet 15. § (5) bekezdése hatályon kívül helyezte.
