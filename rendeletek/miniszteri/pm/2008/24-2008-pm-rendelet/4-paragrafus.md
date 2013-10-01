@@ -1,4 +1,4 @@
-## 3. §[^1] A Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettséget, továbbá a Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettség alóli mentesülés bejelentését az Európai Bizottság által meghatározott tartalmú, a Pénzügyi Szervezetek Állami Felügyelete által üzemeltetett honlapon közzétett formanyomtatvány alkalmazásával kell teljesíteni.
+## 3. §[^1] A Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettséget, továbbá a Tpt. 61. § (1) bekezdés szerinti tájékoztatási kötelezettség alóli mentesülés bejelentését az Európai Bizottság által meghatározott tartalmú, a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által üzemeltetett honlapon közzétett formanyomtatvány alkalmazásával kell teljesíteni.
 
 4. § (1)[^2] A szabályozott információ korlátozástól mentes elérhetősége érdekében a kibocsátó a szabályozott információt egyidejűleg
 
@@ -32,7 +32,7 @@ dc) a szabályozott információ kibocsátó általi megküldésének napját é
 
 (4) A kibocsátó nem tartozik felelősséggel azért a rendszerhibáért vagy hiányosságért, amely a szabályozott információt átvevő médiánál következik be.
 
-(5) A Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) kérése esetén a kibocsátó közli:
+(5)[^3] A Felügyelet kérése esetén a kibocsátó közli:
 
 a) a kommunikáció biztonsága érdekében tett intézkedésekre vonatkozó részleteket,
 
@@ -42,5 +42,6 @@ c) a szabályozott információ terjesztéséhez használt közvetítő eszközt
 
 d) a szabályozott információra elrendelt embargóra vonatkozó részleteket.
 
-[^1]: A 3. § a 21/2010. (V. 12.) PM rendelet 1. §-ával megállapított szöveg.
+[^1]: A 3. § a 21/2010. (V. 12.) PM rendelet 1. §-ával megállapított, a 40/2013. (IX. 30.) NGM rendelet 9. § a) pontja szerint módosított szöveg.
 [^2]: A 4. § (1) bekezdése a 18/2012. (VII. 13.) NGM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (5) bekezdés nyitó szövegrésze a 40/2013. (IX. 30.) NGM rendelet 9. § b) pontja szerint módosított szöveg.

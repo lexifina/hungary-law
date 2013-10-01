@@ -70,6 +70,6 @@
 
 ## 5.2. a kibocsátó nyilatkozata (az aláírók nevének és beosztásának közlésével), hogy az alkalmazható számviteli előírások alapján a legjobb tudásuk szerint elkészített – az 5.1. pontban meghatározott – pénzügyi kimutatások valós és megbízható képet adnak a kibocsátó és a konszolidációba bevont vállalkozások eszközeiről, kötelezettségeiről, pénzügyi helyzetéről, valamint nyereségéről és veszteségéről.
 
-2. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^6]
+2. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^7]
 
-[^6]: A 2. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (3) bekezdése alapján a kibocsátó a 2010. évre vonatkozó féléves jelentési kötelezettségét e rendelet 2. mellékletének rendelkezései szerint teljesíti.
+[^7]: A 2. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (3) bekezdése alapján a kibocsátó a 2010. évre vonatkozó féléves jelentési kötelezettségét e rendelet 2. mellékletének rendelkezései szerint teljesíti.
