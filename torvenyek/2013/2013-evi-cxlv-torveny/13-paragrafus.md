@@ -1,0 +1,7 @@
+13. § (1) A VET. 178/L. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés szerinti engedélyesek – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződéseik kivételével – kötelesek a Hivatal által az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyek felülvizsgálata érdekében indított eljárás jogerős lezárásától számított hat hónapon belül megszüntetni azokat a kiszervezési tárgyú szerződéseiket, amelyeket kapcsolt vállalkozásaikkal kötöttek. A Hivatal által az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyek felülvizsgálata érdekében indított eljárás jogerős lezárásától számított 6. hónapot követően az (1) bekezdés szerinti engedélyeseknek a kapcsolt vállalkozásaikhoz kiszervezett tevékenységeikkel kapcsolatos költségei az árszabályozás során nem vehetők figyelembe.”
+
+(2) A VET. XXI. Fejezete a 178/P. §-t követően a következő 178/Q. §-sal egészül ki:
+
+„178/Q. § A szervezett villamosenergia-piaci engedélyes az e törvénynek a villamos energiával, valamint a földgázellátással összefüggésben egyes törvények módosításáról szóló 2013. évi CXLV. törvény 3. §-ával megállapított 114/D. § (1) bekezdése, valamint 17. §-ával megállapított, a Get. 61/E. § (1) bekezdése szerinti szabályzatot 2013. október 1-jéig küldi meg a Hivatal részére jóváhagyásra.”
