@@ -4,7 +4,7 @@ IX. cikk
 
 (2) Magyarország elismeri és védi a sajtó szabadságát és sokszínűségét, biztosítja a demokratikus közvélemény kialakulásához szükséges szabad tájékoztatás feltételeit.
 
-(3) A demokratikus közvélemény kialakulásához szükséges megfelelő tájékoztatás, valamint az esélyegyenlőség biztosítása érdekében, politikai reklám médiaszolgáltatásban kizárólag ellenérték nélkül közölhető. Az országgyűlési képviselők általános választásán országos listát, illetve az európai parlamenti képviselők választásán listát állító jelölő szervezetek által és érdekében, az országgyűlési képviselők és az európai parlamenti képviselők választását megelőzően, kampányidőszakban politikai reklám – sarkalatos törvényben meghatározottak szerint – kizárólag közszolgálati médiaszolgáltatások útján, egyenlő feltételek mellett tehető közzé.
+(3) A demokratikus közvélemény kialakulásához választási kampányidőszakban szükséges megfelelő tájékoztatás érdekében politikai reklám médiaszolgáltatásban kizárólag ellenérték nélkül, az esélyegyenlőséget biztosító, sarkalatos törvényben meghatározott feltételek mellett közölhető.
 
 (4) A véleménynyilvánítás szabadságának a gyakorlása nem irányulhat mások emberi méltóságának a megsértésére.
 

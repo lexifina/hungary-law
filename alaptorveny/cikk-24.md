@@ -8,7 +8,7 @@
 
 a) az Alaptörvénnyel való összhang szempontjából megvizsgálja az elfogadott, de ki nem hirdetett törvényeket;
 
-b) bírói kezdeményezésre soron kívül, de legkésőbb harminc napon belül felülvizsgálja az egyedi ügyben alkalmazandó jogszabálynak az Alaptörvénnyel való összhangját;
+b) bírói kezdeményezésre soron kívül, de legkésőbb kilencven napon belül felülvizsgálja az egyedi ügyben alkalmazandó jogszabálynak az Alaptörvénnyel való összhangját;
 
 c) alkotmányjogi panasz alapján felülvizsgálja az egyedi ügyben alkalmazott jogszabálynak az Alaptörvénnyel való összhangját;
 
@@ -22,11 +22,11 @@ g) az Alaptörvényben, illetve sarkalatos törvényben meghatározott további 
 
 (3) Az Alkotmánybíróság
 
-a) a (2) bekezdés b), c), e) és f) pontjában foglalt hatáskörében megsemmisíti az Alaptörvénnyel ellentétes jogszabályt vagy jogszabályi rendelkezést;
+a) a (2) bekezdés b), c) és e) pontjában foglalt hatáskörében megsemmisíti az Alaptörvénnyel ellentétes jogszabályt vagy jogszabályi rendelkezést;
 
 b) a (2) bekezdés d) pontjában foglalt hatáskörében megsemmisíti az Alaptörvénnyel ellentétes bírói döntést;
 
-c) a (2) bekezdés g) pontjában foglalt hatáskörében megsemmisítheti a nemzetközi szerződésbe ütköző jogszabályt vagy jogszabályi rendelkezést;
+c) a (2) bekezdés f) pontjában foglalt hatáskörében megsemmisítheti a nemzetközi szerződésbe ütköző jogszabályt vagy jogszabályi rendelkezést;
 
 illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.
 

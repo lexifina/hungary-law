@@ -10,6 +10,6 @@
 
 (5) A (4) bekezdést azon törvényi rendelkezések esetében, amelyek abban az időszakban léptek hatályba, amíg az államadósság a teljes hazai össztermék felét meghaladta, ezen időszak tekintetében akkor is alkalmazni kell, ha az államadósság a teljes hazai össztermék felét már nem haladja meg.
 
-(6) Mindaddig, amíg az államadósság a teljes hazai össztermék felét meghaladja, ha az Alkotmánybíróság, az Európai Unió Bírósága, illetve más bíróság vagy jogalkalmazó szerv döntéséből az állam által teljesítendő olyan fizetési kötelezettség fakad, amelynek teljesítésére a központi költségvetésről szóló törvényben e célra rendelkezésre álló összeg nem elegendő, tartalmában és elnevezésében is kizárólag és kifejezetten az e kötelezettség teljesítéséhez kapcsolódó, a közös szükségletek fedezéséhez való hozzájárulást kell megállapítani.
+(6) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.
 
-(7) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.
+(7)
