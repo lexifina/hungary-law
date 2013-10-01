@@ -1,3 +1,3 @@
-## 15–16. §[^17]
+## 16. § Az R3. 89. § (11) bekezdése helyébe a következő rendelkezés lép:
 
-[^17]: A 15–16. § a 24. § (4) bekezdése alapján 2013. október 1-jén lép hatályba.
+## „(11) A forgalmi engedély elvesztéséről, eltulajdonításáról, megsemmisüléséről, illetve megtalálásáról felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton kérelmezett forgalmi engedély pótlás esetében az ügyfél elektronikus úton tett nyilatkozata kerül a Hivatalnak továbbításra.”

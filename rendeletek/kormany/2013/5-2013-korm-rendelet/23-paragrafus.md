@@ -1,9 +1,12 @@
-## 19–22. §[^20]
+## 19–22. §[^16]
 
-23. § (1)[^21]
+23. § (1)[^17]
 
-(2)[^22]
+(2) Hatályát veszti az R3.
 
-[^20]: A 19–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 23. § (2) bekezdése a 24. § (2) bekezdése alapján 2013. október 1-jén lép hatályba.
+a) 96. § (1) bekezdés b) pont ba) alpontja és
+
+b) 19. melléklet VI. fejezet B) pont d) alpontja.
+
+[^16]: A 19–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 23. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
