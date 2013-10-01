@@ -1,1 +1,0 @@
-A befektetési vállalkozásokról és árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény 21. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
