@@ -1,4 +1,4 @@
-2. § (1)[^1] A befektetési vállalkozás – a (2) bekezdésben meghatározott kivétellel – a működési kockázat tőkekövetelményét
+2. § (1)[^3] A befektetési vállalkozás – a (2) bekezdésben meghatározott kivétellel – a működési kockázat tőkekövetelményét
 
 a) az alapvető mutató módszer,
 
@@ -24,4 +24,4 @@ alkalmazásával számítja ki. A b)–f) pont szerinti módszer a Felügyelet e
 
 (6) A sztenderd módszer esetén a működési kockázat tőkekövetelménye a 4. § szerint meghatározott irányadó mutató értéke.
 
-[^1]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 625. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 625. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
