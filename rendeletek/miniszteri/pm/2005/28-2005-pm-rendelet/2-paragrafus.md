@@ -1,6 +1,6 @@
 ## 1. § E rendelet alkalmazása során pénzügyi eszközön a Tpt. 204. §-ának (5) bekezdésében foglalt fogalmat kell érteni.
 
-## 2. § A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) a Tpt. 202. §-ának a)–b) pontjában foglalt magatartások vizsgálatakor az alábbi körülményeket értékeli:
+## 2. §[^2] A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) a Tpt. 202. §-ának a)–b) pontjában foglalt magatartások vizsgálatakor az alábbi körülményeket értékeli:
 
 a) a megbízások vagy megkötött ügyletek (a továbbiakban együtt: ügyletek) darabszáma és összesített árfolyamértéke mekkora hányadát képviselik az adott pénzügyi eszközzel folytatott ügyletek napi forgalmának az érintett szabályozott piacon, különösen, ha ezek az ügyletek a pénzügyi eszköz árfolyamának jelentős változásához vezetnek;
 
@@ -23,3 +23,5 @@ e) az ügyletek milyen mértékben koncentrálódnak egy rövid időszakra a nap
 f) milyen mértékben változtatják meg a végrehajtás előtt visszavont megbízások a pénzügyi eszközre vonatkozó legjobb ajánlati árakat, illetve az ajánlati könyvben szereplő adatokat;
 
 g) milyen mértékben adnak megbízásokat, illetve hajtanak végre ügyleteket, a referencia-árfolyamok, az elszámolóárak és az értékelések kialakítása előtt, milyen hatással van ez a pénzügyi eszköz árára és az a referencia-árfolyamot, az elszámolóárat, illetve az értékelést hogyan befolyásolja.
+
+[^2]: A 2. § nyitó szövegrésze a 40/2013. (IX. 30.) NGM rendelet 2. §-a szerint módosított szöveg.
