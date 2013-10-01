@@ -1,3 +1,0 @@
-6. § (1) A kibocsátónak, a nem természetes személy nyilvános ajánlattevőnek és az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltatónak, valamint a kockázati tőkealap-kezelőnek az elektronikus űrlapon kell nyilatkoznia arról, hogy az engedély kiadása érdekében szükséges minden lényeges adatot és tényt közölt a Felügyelettel.
-
-(2) A természetes személy nyilvános ajánlattevőnek és az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltatónak az ÁNYK-űrlapon kell nyilatkoznia arról, hogy az engedély kiadása érdekében szükséges minden lényeges adatot és tényt közölt a Felügyelettel.
