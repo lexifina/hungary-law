@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-a) ellenőrzés: a pénztár közgyűlése által elfogadott beszámolóval lezárt üzleti év(ek) adatainak – a pénztár, az adóhatóság, illetve a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) általi – utólagos ellenőrzése az önellenőrzés, az adóhatósági, illetve a felügyeleti ellenőrzés keretében;
+a)[^1] ellenőrzés: a pénztár közgyűlése által elfogadott beszámolóval lezárt üzleti év(ek) adatainak – a pénztár, az adóhatóság, illetve a pénztárak pénzügyi felügyeletét ellátó szerv (a továbbiakban: Felügyelet) általi – utólagos ellenőrzése az önellenőrzés, az adóhatósági, illetve a felügyeleti ellenőrzés keretében;
 
 b) ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, a pénztári befektetéseket, a saját tőkét, a működési, fedezeti, illetve likviditási alapok tartalékait érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások, a pénztár alapszabálya nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak;
 
@@ -11,3 +11,5 @@ c) jelentős összegű hiba: ha a hiba feltárásának évében, a különböző
 d) nem jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – a működési, fedezeti, illetve likviditási alapok tartalékait növelő-csökkentő – értékének együttes (előjeltől független) összege nem haladja meg a jelentős összegű hiba c) pont szerinti értékhatárát;
 
 e) megbízható és valós képet lényegesen befolyásoló hiba: ha a jelentős összegű hibák és hibahatások összevont értéke a működési, fedezeti, illetve likviditási alap tartalékainak értékét lényegesen – a számviteli politikában meghatározott módon és mértékben – megváltoztatja, és ezért a már közzétett – a vagyoni, pénzügyi és jövedelmi helyzetre vonatkozó – adatok megtévesztők. Minden esetben a megbízható és valós képet lényegesen befolyásoló hibának kell tekinteni, ha a megállapítások következtében a hiba feltárásának évét megelőző üzleti év mérlegében kimutatott működési, fedezeti, illetve likviditási alap tartalékainak együttes összege legalább 5 százalékkal változik (nő vagy csökken).
+
+[^1]: A 2. § a) pontja a 345/2013. (IX. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Átalakulással létrejövő pénztár vagyonmérleg-tervezete
 
-31/D. §[^48] (1) Az átalakulással létrejövő pénztár vagyonmérleg-tervezete „jogelőd” pénztár vagyonát tartalmazó oszlopának adatai megegyeznek az átalakuló pénztár(ak) 31/A. § szerinti vagyonmérleg-tervezete harmadik oszlopának adataival a 31/A. § (7) bekezdésében foglaltak figyelembevételével.
+31/D. §[^49] (1) Az átalakulással létrejövő pénztár vagyonmérleg-tervezete „jogelőd” pénztár vagyonát tartalmazó oszlopának adatai megegyeznek az átalakuló pénztár(ak) 31/A. § szerinti vagyonmérleg-tervezete harmadik oszlopának adataival a 31/A. § (7) bekezdésében foglaltak figyelembevételével.
 
 (2) A kiválással létrejövő pénztárnak – ha élt a 31/A. § (9) bekezdés szerinti átértékelés lehetőségével – a vagyonmérleg-tervezete „különbözetek” oszlopában elkülönítetten kell kimutatnia az átértékelési különbözetet a 31/B. § (3) bekezdésében foglaltak szerint.
 
@@ -10,4 +10,4 @@
 
 (5) Az átalakulással létrejövő pénztár 31/B. § (1) bekezdése szerinti fordulónapra elkészített vagyonmérleg-tervezetét (azonos fordulónappal) tételes adatokat tartalmazó vagyonleltár-tervezettel kell alátámasztani.
 
-[^48]: A 31/C. §-t és az azt megelőző alcímet a 352/2004. (XII. 22.) Korm. rendelet 14. §-a iktatta be, számozását 31/D. §-ra változtatta a 358/2006. (XII. 27.) Korm. rendelet 40. §-a.
+[^49]: A 31/C. §-t és az azt megelőző alcímet a 352/2004. (XII. 22.) Korm. rendelet 14. §-a iktatta be, számozását 31/D. §-ra változtatta a 358/2006. (XII. 27.) Korm. rendelet 40. §-a.
