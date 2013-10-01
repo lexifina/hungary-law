@@ -1,6 +1,5 @@
-25. § (1)[^6]
+25. § (1)[^7]
 
-(2)[^7]
+(2) A Gyer. 65. § (1a) bekezdésében a „polgármesteri hivatalánál” szövegrész helyébe a „polgármesteri hivatalánál vagy a kormányablaknál” szöveg lép.
 
-[^6]: A 25. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 25. § (2) bekezdése a 30. § (3) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^7]: A 25. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
