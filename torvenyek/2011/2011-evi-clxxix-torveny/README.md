@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-179-00-00
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2011-179-00-00.21 |
 | 2013-09-01 | 2012. évi CLXXXII. törvény | 2011-179-00-00.22 |
 | 2013-09-02 | 2010. évi CXXX. törvény | 2011-179-00-00.23 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2011-179-00-00.24 |
