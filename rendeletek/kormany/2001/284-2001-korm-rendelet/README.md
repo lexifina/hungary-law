@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-284-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2001-284-20-22.5 | 284/2001. (XII. 26.) Korm. rendelet |
+| 2013-10-01 | 2001-284-20-22.6 | 182/2009. (IX. 10.) Korm. rendelet |

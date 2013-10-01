@@ -1,6 +1,6 @@
 ## 1. § Dematerializált értékpapír — az Tpt.-ben és e rendeletben meghatározottak szerint — elektronikus úton, számítógépes jelként állítható elő, illetve továbbítható.
 
-## 2. §[^1] A dematerializált értékpapír előállítása, nyilvántartása, továbbítása és az ezekkel kapcsolatos adatkezelés csak olyan — a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által jóváhagyott, az 5. §-ban meghatározott – szabályzat (a továbbiakban: szabályzat) alapján és olyan jóváhagyott számítógépprogram, valamint adathordozó felhasználásával történhet, amely biztosítja:
+## 2. §[^1] A dematerializált értékpapír előállítása, nyilvántartása, továbbítása és az ezekkel kapcsolatos adatkezelés csak olyan — a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által jóváhagyott, az 5. §-ban meghatározott – szabályzat (a továbbiakban: szabályzat) alapján és olyan jóváhagyott számítógépprogram, valamint adathordozó felhasználásával történhet, amely biztosítja:
 
 a) a központi értéktár [Tpt. 336. §] nyilvántartási rendszerével az adatkapcsolatot,
 
@@ -14,4 +14,4 @@ e) a dematerializált értékpapír jogosultjának, tulajdonosának, illetve eze
 
 f) a dematerializált értékpapír összes kötelező tartalmi elemének a számítógép képernyőjén és nyomtatás útján történő megjelenítését.
 
-[^1]: A 2. § bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 255. §-a szerint módosított szöveg.
+[^1]: A 2. § bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 255. §-a, a 345/2013. (IX. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
