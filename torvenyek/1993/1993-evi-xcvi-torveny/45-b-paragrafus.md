@@ -2,7 +2,7 @@
 
 (2) A pénztár ellen nincs helye csődeljárásnak.
 
-(3) A bíróság a pénztár felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
+(3) A bíróság a pénztár felszámolójának kizárólag az MNBtv. 39. §-ában meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 (4) A bíróság a felszámolás iránti kérelemről a benyújtástól számított 8 napon belül határoz. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható. A Felügyelet által kezdeményezett felszámolási eljárás esetében a felszámolás kezdő időpontja a felszámolást elrendelő végzés meghozatalának napja.
 

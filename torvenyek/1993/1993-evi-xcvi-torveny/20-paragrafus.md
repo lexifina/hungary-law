@@ -26,7 +26,7 @@ c) nem lehet vezető tisztségviselő, valamint a pénztár ügyvezetője (helye
 
 ca) aki vezető tisztségviselő volt olyan önkéntes kölcsönös biztosítópénztárban, magánnyugdíj-pénztárban, biztosítóintézetben, pénzügyi intézményben vagy befektetési vállalkozásban, amely öt éven belül fizetésképtelenné vált, illetve amelynek tevékenységi engedélyét a Felügyelet jogsértés miatt visszavonta, vagy amelynek a felszámolását a bíróság jogerősen elrendelte,
 
-cb) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet vagy más hatóság a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította.
+cb) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben a Felügyelet vagy más hatóság a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította.
 
 (3) Az igazgatótanács és az ellenőrző bizottság tagjai, ha az alapszabály erre módot ad, díjazásban részesülhetnek a közgyűlés határozatának megfelelően.
 

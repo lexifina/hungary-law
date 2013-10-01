@@ -1,4 +1,4 @@
-78. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a pénztárak egyes gazdálkodási szabályait, a pénztárak beszámolási és könyvvezetési kötelezettségét, a felügyeleti eljárási szabályokat, a felügyeleti eljárási igazgatási díjak kiszabásának feltételeit, valamint az egészségpénztárak és az önsegélyező pénztárak által finanszírozható szolgáltatások nyújtására, és ezen szolgáltatások szakmai ellenőrzésére vonatkozó egyes szabályokat.
+78. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a pénztárak egyes gazdálkodási szabályait, a pénztárak beszámolási és könyvvezetési kötelezettségét, a felügyeleti eljárási szabályokat, valamint az egészségpénztárak és az önsegélyező pénztárak által finanszírozható szolgáltatások nyújtására, és ezen szolgáltatások szakmai ellenőrzésére vonatkozó egyes szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy az egészségpénztáraknak az egészségügyi intézményekre vonatkozó működési és üzemeltetési szabályait rendeletben szabályozza.
 
