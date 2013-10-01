@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-25-00-00
 | --- | --- | --- |
 | 2009-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2005-25-00-00.6 |
 | 2010-06-11 | 2009. évi CLXII. törvény | 2005-25-00-00.7 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2005-25-00-00.8 |
