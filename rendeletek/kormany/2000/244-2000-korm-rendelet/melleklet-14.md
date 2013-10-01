@@ -42,7 +42,7 @@
 
 14. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez
 
-A járulékos nemteljesítési és a migrációs kockázat mérésére szolgáló módszer[^141]
+A járulékos nemteljesítési és a migrációs kockázat mérésére szolgáló módszer[^145]
 
 Paraméterek
 
@@ -122,4 +122,4 @@ Ezen pont alkalmazásában az intézménynek elegendő piaci adattal kell rendel
 
 Az ezen pont hatálya alá tartozó portfóliók tekintetében az intézmény rendszeresen alkalmaz egyedi, előre meghatározott stressz-forgatókönyveket. Ezekkel a stressz-forgatókönyvekkel megvizsgálja a stresszhelyzet hatását a nemteljesítési rátákra, a megtérülési rátákra, a hitelkockázati felárra és a korrelációkereskedési részleg eredmény-kimutatásában szereplő korrelációkra. Az intézmény ezeket a stressz-forgatókönyveket legalább hetente alkalmazza, és legalább negyedévente beszámol a Felügyeletnek az eredményekről, beleértve e pontnak megfelelően az intézmény tőkekövetelményével való összehasonlításokat is. Amennyiben a stresszteszt a tőkekövetelménytől való jelentős eltérést jelez, azt minden esetben haladéktalanul jelenteni kell a Felügyeletnek. A stressztesztek eredményei alapján a Felügyelet kiegészítő tőkekövetelményt írhat elő a korrelációkereskedési portfólió tekintetében, a Hpt. 76. § (2) bekezdésében vagy a Bszt. 105. § (5) bekezdésében meghatározottaknak megfelelően.
 
-[^141]: A 14. számú mellékletet a 348/2011. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^145]: A 14. számú mellékletet a 348/2011. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.

@@ -24,6 +24,6 @@
 
 ## A nulladik munkanap: az a munkanap, amelytől az intézménynek az értékpapírok ismert mennyiségének ismert áron való elfogadására feltétel nélküli kötelezettsége fennáll.
 
-6. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^137]
+6. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^141]
 
-[^137]: A 6. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
+[^141]: A 6. számú melléklet a 345/2007. (XII. 19.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.

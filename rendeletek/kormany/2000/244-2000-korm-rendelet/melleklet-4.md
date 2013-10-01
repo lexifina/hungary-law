@@ -14,6 +14,6 @@
 
 ## A nem minősített kibocsátó által kibocsátott értékpapírok esetén az egyedi kockázatra vonatkozó tőkekövetelmény 12%.
 
-4. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^135]
+4. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^139]
 
-[^135]: A 4. számú melléklet a 230/2003. (XII. 16.) Korm. rendelet 26. §-a, a 345/2007. (XII. 19.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^139]: A 4. számú melléklet a 230/2003. (XII. 16.) Korm. rendelet 26. §-a, a 345/2007. (XII. 19.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.

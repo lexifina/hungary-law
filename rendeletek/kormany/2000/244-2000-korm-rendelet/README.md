@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-244-20-
 | 2010-01-01 | 2000-244-20-22.11 | 244/2000. (XII. 24.) Korm. rendelet |
 | 2011-01-01 | 2000-244-20-22.12 | 349/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 2000-244-20-22.13 | 348/2011. (XII. 30.) Korm. rendelet |
+| 2013-10-01 | 2000-244-20-22.14 | 345/2013. (IX. 30.) Korm. rendelet |

@@ -32,6 +32,6 @@
 
 |  | 250%– | 900% |  |
 
-13. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^140]
+13. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^144]
 
-[^140]: A 13. számú mellékletet a 345/2007. (XII. 19.) Korm. rendelet 26. § (6) bekezdése iktatta be, szövege a 348/2011. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^144]: A 13. számú mellékletet a 345/2007. (XII. 19.) Korm. rendelet 26. § (6) bekezdése iktatta be, szövege a 348/2011. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

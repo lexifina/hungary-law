@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-2. § (1)[^4] E rendelet alkalmazásában
+2. § (1)[^5] E rendelet alkalmazásában
 
 1. általános piaci kockázat: az értékpapír egyedi jellemzőihez nem kapcsolható, kamatszínvonal változás vagy széles körű részvénypiaci mozgás nyomán bekövetkező árfolyamváltozás kockázata, amelyet a kibocsátó tevékenysége nem befolyásol,
 
@@ -18,11 +18,11 @@
 
 8. elsődleges forgalmazó: az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársasággal (a továbbiakban: ÁKK Zrt.) elsődleges forgalmazói szerződést kötött intézmény,
 
-9. elszámolási nap: tőzsdei ügyletek esetében az a nap, amelyen az elszámolóház elszámolások lebonyolítására nyitva áll, devizaügyletek és devizában meghatározott ügyletek esetében az a nap, amikor a Magyar Nemzeti Bank árfolyamot jegyez, tőzsdén kívüli ügyletek esetében az a nap, amelyet a szerződés ilyennek határoz meg, illetve ennek hiányában az adott piac szokványának megfelelő nap,
+9.[^6] elszámolási nap: tőzsdei ügyletek esetében az a nap, amelyen az elszámolóház elszámolások lebonyolítására nyitva áll, devizaügyletek és devizában meghatározott ügyletek esetében az a nap, amikor a Magyar Nemzeti Bank (a továbbiakban: MNB) árfolyamot jegyez, tőzsdén kívüli ügyletek esetében az a nap, amelyet a szerződés ilyennek határoz meg, illetve ennek hiányában az adott piac szokványának megfelelő nap,
 
 10. elszámoló ár: a kereskedés helyén az irányadó szabályzatoknak megfelelően – a határidős ügyletek tárgyát képező pénzügyi eszközre kereskedési naponként – megállapított és nyilvánosságra hozott piaci érték, amely a napi árfolyam-alakulásból adódó pénzügyi kötelezettségek és követelések kiszámításának alapjául szolgál,
 
-10a.[^5] értékpapírosítási pozíció:
+10a.[^7] értékpapírosítási pozíció:
 
 a) hitelintézet esetében a Hpt.-ben,
 
@@ -30,7 +30,7 @@ b) befektetési vállalkozás esetében a 16a. pont a) alpontja szerinti jogszab
 
 ## meghatározott fogalom;
 
-11. Felügyelet: a Pénzügyi Szervezetek Állami Felügyelete,
+11.[^8] Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank,
 
 12. gamma: az opció alapjául szolgáló pénzügyi eszköz, áru vagy deviza árfolyamának egy pénzegységnyi változása hatására az opció deltájában bekövetkező változást jelző mutatószám,
 
@@ -38,11 +38,11 @@ b) befektetési vállalkozás esetében a 16a. pont a) alpontja szerinti jogszab
 
 14. hátralévő átlagos futamidő: fix kamatozású kötvények esetén az egyes kifizetésekig hátralévő időtartamnak a – kifizetések lejáratig számított hozammal diszkontált jelenértékének a kötvény árfolyamához viszonyított arányával – súlyozott átlaga. Változó kamatozású kötvények esetén az átlagos hátralévő futamidő a következő kamatmegállapításig hátralévő időtartammal egyenlő [duration],
 
-15.[^6] hitelderivatíva: a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló jogszabályban (a továbbiakban: Hkr.) meghatározott fogalom,
+15.[^9] hitelderivatíva: a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló jogszabályban (a továbbiakban: Hkr.) meghatározott fogalom,
 
-16.[^7] hitelezési kockázat nélküli kötvény: olyan hitelviszonyt megtestesítő értékpapír, amelynek kibocsátója a Hkr. előírásai szerint 0%-os kockázati súlyozás alá esik,
+16.[^10] hitelezési kockázat nélküli kötvény: olyan hitelviszonyt megtestesítő értékpapír, amelynek kibocsátója a Hkr. előírásai szerint 0%-os kockázati súlyozás alá esik,
 
-16a.[^8] hitelezési kockázatról szóló jogszabály:
+16a.[^11] hitelezési kockázatról szóló jogszabály:
 
 a) befektetési vállalkozás esetén a befektetési vállalkozás hitelkockázatáról szóló 301/2008. (XII. 17.) Korm. rendelet (a továbbiakban: Bhkr.),
 
@@ -54,7 +54,7 @@ b) hitelintézet esetén a hitelezési kockázat kezeléséről és tőkekövete
 
 19. jövőbeli pénzáramlás jelenértéke: a pénzáramlás diszkontált értéke. A diszkontáláshoz a hozamgörbének a pénzáramlás esedékességéig hátralévő időtartamhoz tartozó kamatlábát kell alkalmazni,
 
-19a.[^9] kétirányú kereslet: független és jóhiszemű vételi és eladási ajánlat fennállása azzal, hogy a legutolsó eladási árhoz vagy az aktuális jóhiszemű versenyképes vételi, illetve eladási ajánlattételi árhoz elfogadhatóan viszonyuló ár egy napon belül meghatározható, és az ügylet a kereskedési szokásoknak megfelelő viszonylag rövid időn belül ezen az áron megköthető;
+19a.[^12] kétirányú kereslet: független és jóhiszemű vételi és eladási ajánlat fennállása azzal, hogy a legutolsó eladási árhoz vagy az aktuális jóhiszemű versenyképes vételi, illetve eladási ajánlattételi árhoz elfogadhatóan viszonyuló ár egy napon belül meghatározható, és az ügylet a kereskedési szokásoknak megfelelő viszonylag rövid időn belül ezen az áron megköthető;
 
 20. kiegyenlített pozíció: a hosszú és rövid pozíciók abszolút értéke közül a kisebb,
 
@@ -98,7 +98,7 @@ d) az elszámolást követően fennmaradó kötelezettség a továbbiakban az ú
 
 34. tőzsdén kívüli határidős és opciós ügylet, swap ügylet, fedezeti ügylet: a számvitelről szóló jogszabály szerint meghatározott fogalmak,
 
-34a.[^10] újraértékpapírosítási pozíció:
+34a.[^13] újraértékpapírosítási pozíció:
 
 a) hitelintézet esetében a hitelintézetek értékpapírosítási tőkekövetelményéről szóló 380/2007. (XII. 23.) Korm. rendeletben,
 
@@ -114,10 +114,12 @@ b) befektetési vállalkozás esetében a 16a. pont a) alpontja szerinti jogszab
 
 (2) E rendelet alkalmazásában – eltérő rendelkezés hiányában – kötvényen a hitelviszonyt megtestesítő értékpapírokat, részvényen a tagsági jogokat megtestesítő értékpapírokat, egyéb értékpapíron a befektetetési jegyet és más, az előző két kategóriába nem tartozó értékpapírt kell érteni (beleértve mindhárom esetben az egyes értékpapírokra vonatkozó letéti igazolásokat is).
 
-[^4]: A 2. § (1) bekezdése a 345/2007. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 2. § (1) bekezdés 10a. pontját a 348/2011. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^6]: A 2. § (1) bekezdésének 15. pontja a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdésének 16. pontja a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg.
-[^8]: A 2. § (1) bekezdés 16a. pontját a 349/2010. (XII. 28.) 3. §-a iktatta be.
-[^9]: A 2. § (1) bekezdés 19a. pontját a 348/2011. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^10]: A 2. § (1) bekezdés 34a. pontját a 348/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdése a 345/2007. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés 9. pontja a 345/2013. (IX. 30.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 10a. pontját a 348/2011. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 11. pontja a 345/2013. (IX. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdésének 15. pontja a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdésének 16. pontja a 182/2009. (IX. 10.) Korm. rendelet 208. §-a szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés 16a. pontját a 349/2010. (XII. 28.) 3. §-a iktatta be.
+[^12]: A 2. § (1) bekezdés 19a. pontját a 348/2011. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^13]: A 2. § (1) bekezdés 34a. pontját a 348/2011. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.

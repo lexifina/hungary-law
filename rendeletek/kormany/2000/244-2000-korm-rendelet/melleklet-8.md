@@ -4,6 +4,6 @@
 
 | Nyitva szállítás | Nincs tőkekövetelmény | Kitettségként kell kezelni | A szavatoló tőkéből levonva az átadott értéket plusz a jelenlegi pozitív kitettséget (pozitív piaci érték) |
 
-8–10. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^139]
+8–10. számú melléklet a 244/2000. (XII. 24.) Korm. rendelethez[^143]
 
-[^139]: A 8–10. számú mellékletet a 345/2007. (XII. 19.) Korm. rendelet 27. § (4) bekezdése hatályon kívül helyezte.
+[^143]: A 8–10. számú mellékletet a 345/2007. (XII. 19.) Korm. rendelet 27. § (4) bekezdése hatályon kívül helyezte.

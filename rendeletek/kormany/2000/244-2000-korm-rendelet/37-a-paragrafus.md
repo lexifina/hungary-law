@@ -1,4 +1,4 @@
-## VI/A. Fejezet[^91]
+## VI/A. Fejezet[^95]
 
 ## NAGYKOCKÁZAT VÁLLALÁS
 
@@ -44,4 +44,4 @@ tartozó kitettségi osztály esetében az ügyletet, az annak alapjául szolgá
 
 (8) A nagykockázat vállalásra vonatkozó rendelkezések tekintetében a garancia magába foglalja a készfizető kezességet, valamint a hitelkockázat mérsékléseként figyelembe vehető hitelderivatívákat is a hitelkockázati eseményhez kapcsolt értékpapírok kivételével.
 
-[^91]: A VI/A. fejezetet (37/A–37/C. §) a 349/2010. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^95]: A VI/A. fejezetet (37/A–37/C. §) a 349/2010. (XII. 28.) Korm. rendelet 8. §-a iktatta be.

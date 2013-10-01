@@ -4,7 +4,7 @@
 
 ## A kereskedési könyvbe történő besorolás és értékelés általános szabályai
 
-3. §[^11] (1) A kereskedési könyvbe besorolt pénzügyi eszközök értékelésének meg kell felelnie az e rendeletben előírt értékelési elveknek és az azokhoz kapcsolódó értékelési eljárásoknak.
+3. §[^14] (1) A kereskedési könyvbe besorolt pénzügyi eszközök értékelésének meg kell felelnie az e rendeletben előírt értékelési elveknek és az azokhoz kapcsolódó értékelési eljárásoknak.
 
 (2) A kereskedési szándékkal tartott pozíciókra a következő követelmények vonatkoznak:
 
@@ -26,4 +26,4 @@ c) az intézménynek rendelkeznie kell a pozícióknak az intézmény kereskedé
 
 (3) Az intézménynek a kockázatok vállalásakor a megbízható működés és a mindenkori fizetőképesség (szolvencia) folyamatos biztosítását figyelembe kell vennie.
 
-[^11]: A 3. § a 345/2007. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 3. § a 345/2007. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
