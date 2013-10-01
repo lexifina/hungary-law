@@ -1,4 +1,4 @@
-16. § (1) A befektetési alapkezelőnek a belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Felügyelet információs igényeit.
+16. § (1)[^9] A befektetési alapkezelőnek a belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank információs igényeit.
 
 (2) A befektetési alapkezelő az általa kezelt befektetési alapok vagyonát és az abban bekövetkező változásokat a befektetési alap számviteli nyilvántartásában vezeti, az saját számviteli nyilvántartásaiban és beszámolójában nem szerepel.
 
@@ -31,3 +31,5 @@ b) amennyiben az harmadik fél általi garanciavállalással (kötelezettségvá
 c) értékelésekor, annak kockázatát az ígérettel érintett, kezelt portfolió részét képező befektetési eszközökből eredő kockázatok alapján kell meghatározni;
 
 d) esetében a veszteségjellegű jövőbeni kifizetési kötelezettség felmérésekor alapvetően a kötelezettségvállalás értékének – a kötelezettségvállalás jellegétől függően – a kezelt portfolió értékelés időpontjában érvényes piaci értékét meghaladó összegéből kell kiindulni, fedezet-jellegű veszteségmérséklő tényezőként figyelembe véve a tőke, illetve hozamgarancia tekintetében a harmadik fél (bank) által vállalt garanciát.
+
+[^9]: A 16. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § c) pontja szerint módosított szöveg.

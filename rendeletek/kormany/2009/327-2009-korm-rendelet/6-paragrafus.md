@@ -1,4 +1,4 @@
-6. § (1) A pénzforgalmi szolgáltatónak belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) információs igényeit.
+6. § (1)[^7] A pénzforgalmi szolgáltatónak belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Magyar Nemzeti Bank információs igényeit.
 
 (2) Az (1) bekezdéssel összhangban biztosítani kell, hogy a Hpt. szerinti rendelkezésre álló szavatoló tőke levezetésénél, valamint a szavatoló tőke Hpt-ben meghatározott minimális szintjének megállapításánál figyelembevett források és eszközök értéke a számviteli nyilvántartásokban bármikor megállapítható legyen.
 
@@ -21,3 +21,5 @@ b) az irányadó mutató alkalmazása során alapul vett, a pénzforgalmi szolg�
 (9) A pénzforgalmi szolgáltatásért, valamint a kapcsolódó pénzügyi szolgáltatásokért felszámított különböző díjakat az értékesítés nettó árbevételén belül elkülönítetten kell bemutatni pénzforgalmi szolgáltatások díjbevétele és kapcsolódó pénzügyi szolgáltatások díjbevétele jogcímen.
 
 (10) A (9) bekezdésben foglaltaktól eltérően, a kamatjellegű jutalékot, a kamatjellegű bevételt a kapott kamatok és kamatjellegű bevételek között, pénzforgalmi szolgáltatással, illetve kapcsolódó pénzügyi szolgáltatással összefüggő kamatként és kamatjellegű bevételként elkülönítetten kell nyilvántartani. E tekintetben kamatjellegű jutaléknak, illetve kamatjellegű bevételnek minősül a Hitkr. 10. §-a (2) bekezdésének f) pontja, illetve (3) bekezdése szerint meghatározott jutalék, illetve bevétel.
+
+[^7]: A 6. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § a) pontja szerint módosított szöveg.

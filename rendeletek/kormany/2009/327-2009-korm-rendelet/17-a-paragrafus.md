@@ -1,4 +1,4 @@
-## III/A. Fejezet[^7]
+## III/A. Fejezet[^10]
 
 ## ELEKTRONIKUSPÉNZ-KIBOCSÁTÓ INTÉZMÉNYEK ÉVES BESZÁMOLÓ KÉSZÍTÉSI
 
@@ -20,10 +20,11 @@ c) az összevont (konszolidált) éves beszámoló elkészítésére vonatkozó 
 
 d) a fióktelep és a központ közötti elszámolásra, illetve a fióktelepek egymás közötti elszámolására vonatkozó szabályzatot a Hitkr. 3. §-a (10) bekezdésében foglaltak megfelelő alkalmazásával, feltéve, hogy az elektronikuspénz-kibocsátó intézmény külföldi vállalkozás (központ) belföldi fióktelepének vagy külföldi fiókteleppel rendelkező belföldi vállalkozásnak (központnak) minősül.
 
-(5) Az elektronikuspénz-kibocsátó intézménynek belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) információs igényeit.
+(5)[^11] Az elektronikuspénz-kibocsátó intézménynek belső számviteli rendjét oly módon kell kialakítania, hogy annak adataiból év közben is kielégíthesse a Magyar Nemzeti Banknak információs igényeit.
 
 (6) Az (5) bekezdéssel összhangban biztosítani kell, hogy a Hpt. szerinti rendelkezésre álló szavatoló tőke levezetésénél, valamint a szavatoló tőke Hpt.-ben meghatározott minimális szintjének megállapításánál figyelembevett források és eszközök értéke a számviteli nyilvántartásokban bármikor megállapítható legyen.
 
 (7) A Hpt. szerinti tőkekövetelmény meghatározása érdekében a kibocsátott (kinn lévő) és még vissza nem váltott elektronikus pénz állományáról és az abban bekövetkezett változásokról folyamatosan nyilvántartást kell vezetni.
 
-[^7]: A III/A. fejezetet (17/A–17/C. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^10]: A III/A. fejezetet (17/A–17/C. §-t) a 345/2010. (XII. 28.) Korm. rendelet 31. §-a iktatta be.
+[^11]: A 17/A. § (5) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 58. § d) pontja szerint módosított szöveg.
