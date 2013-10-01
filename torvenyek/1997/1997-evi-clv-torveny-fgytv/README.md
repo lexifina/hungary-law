@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2012-12-01 | 2012. évi CLXXXVI. törvény | 1997-155-00-00.36 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 1997-155-00-00.37 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1997-155-00-00.38 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 1997-155-00-00.39 |
