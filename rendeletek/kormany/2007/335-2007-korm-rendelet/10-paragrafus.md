@@ -14,7 +14,7 @@ e) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
 f) a Nemzeti Média- és Hírközlési Hatóság elnöke,
 
-g) a Pénzügyi Szervezetek Állami Felügyelete elnöke,
+g)[^28] a Magyar Nemzeti Bank elnöke,
 
 h) a Magyar Tudományos Akadémia elnöke,
 
@@ -24,7 +24,8 @@ j) a Nemzeti Fejlesztési Ügynökség elnöke,
 
 k) az Országgyűlés Hivatalának vezetője, valamint
 
-l)[^28] a Közigazgatási és Igazságügyi Hivatal vezetője.
+l)[^29] a Közigazgatási és Igazságügyi Hivatal vezetője.
 
 [^27]: A 10. § az 55/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^28]: A 10. § l) pontja a 178/2012. (VII. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^28]: A 10. § g) pontja a 345/2013. (IX. 30.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^29]: A 10. § l) pontja a 178/2012. (VII. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
