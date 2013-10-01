@@ -1,25 +1,19 @@
-## 15. §[^51]
+## 15. §[^91]
 
 ## KÖZÖS RENDELKEZÉSEK
 
 ## Pénzügyi rendelkezések
 
-16. § (1) A szakvizsgára történő felkészítés és a továbbképzés költségtérítéses formában szervezhető.
+16. § (1)[^92] A pedagógus-továbbképzés az állami köznevelési közfeladat-ellátás keretében térítésmentes.
 
-(2) A költségek fedezéséhez – a közoktatásról szóló törvény 1. számú melléklete Második rész, 1. pont, a) alpont második gondolatjelében meghatározottak alapján, az éves költségvetésről szóló törvényben foglaltak szerint – hozzájárul a központi költségvetés. A költségekhez hozzájárulhat a munkáltató. A más által nem fedezett költségeket a résztvevő viseli.
+(2)[^93] A pedagógus-továbbképzési költségek fedezéséhez hozzájárul a központi költségvetés, a fenntartó, a munkáltató. A más által nem fedezett költségeket a résztvevő viseli.
 
-(3) A munkáltató – külön jogszabályban meghatározott esetben és módon – köteles hozzájárulni a pedagógusok fővárosi, megyei állandó helyettesítési rendszerének működéséhez, ha a helyettesítési feladatok ellátásához igénybe veszi.
+(3)[^94]
 
-(4) A költségvetés által biztosított hozzájárulás felhasználható
+(4)[^95]
 
-a) a távollévő helyettesítéséhez szükséges költségek fedezéséhez, beleértve a (3) bekezdésben meghatározott kiadásokat,
-
-b)[^52] a szakvizsgára történő felkészítésben, beleértve a közoktatásról szóló törvény 128. §-ának (8) bekezdése alapján a szakvizsgával egyenértékű végzettség, tudományos fokozat, doktori cím megszerzésére történő felkészülést, és az e rendelet 5. §-ában felsorolt továbbképzésben való részvétel díja és költsége (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja stb.) kifizetésének munkáltatói támogatásához,
-
-c) a b) pont szerinti továbbképzést teljesítők anyagi elismeréséhez,
-
-d)[^53] a 4. § (5) bekezdésében meghatározott továbbképzésben való részvétel díja és költsége (utazás, szállás, étkezés, könyv, könyvtári beiratkozás és használat díja stb.) kifizetésének munkáltatói támogatásához.
-
-[^51]: A 15. §-t a 185/1999. (XII. 13.) Korm. rendelet 13. §-a (3) bekezdése hatályon kívül helyezte.
-[^52]: A 16. § (4) bekezdésének b) pontja a 185/1999. (XII. 13.) Korm. rendelet 13. §-a (2) bekezdésének c) pontja szerint módosított szöveg.
-[^53]: A 16. § (4) bekezdésének d) pontját a 185/1999. (XII. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 3/2010. (I. 14.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^91]: A 15. §-t a 185/1999. (XII. 13.) Korm. rendelet 13. §-a (3) bekezdése hatályon kívül helyezte.
+[^92]: A 16. § (1) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^93]: A 16. § (2) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^94]: A 16. § (3) bekezdését a 346/2013. (IX. 30.) Korm. rndelet 18. § j) pontja hatályon kívül helyezte.
+[^95]: A 16. § (4) bekezdését a 346/2013. (IX. 30.) Korm. rndelet 18. § j) pontja hatályon kívül helyezte.

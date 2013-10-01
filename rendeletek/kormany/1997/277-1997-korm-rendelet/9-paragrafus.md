@@ -1,22 +1,22 @@
-## 8/C. §[^32]
+## 8/C. §[^63]
 
 ## A továbbképzéssel kapcsolatos irányítási feladatok
 
-9. § (1)[^33] A továbbképzéssel kapcsolatos irányítási feladatokat az oktatásért felelős miniszter gyakorolja. A továbbképzéssel kapcsolatos irányítási feladatokban szakképesítésért felelős miniszter az e rendeletben meghatározottak szerint vesz részt.
+9. § (1)[^64] A továbbképzéssel kapcsolatos irányítási feladatokat az oktatásért felelős miniszter gyakorolja. A továbbképzéssel kapcsolatos irányítási feladatokban szakképesítésért felelős miniszter az e rendeletben meghatározottak szerint vesz részt.
 
-(2)[^34] Az oktatásért felelős miniszter döntéseinek előkészítésében közreműködik a közoktatásról szóló törvény 93. §-ának (3) bekezdése alapján létrehozott Pedagógus-továbbképzési Akkreditációs Testület. A Pedagógus-továbbképzési Akkreditációs Testület az e rendelet 1. számú mellékletében meghatározott bírálati szempontok alapján készíti el javaslatát. A Pedagógus-továbbképzési Akkreditációs Testület munkájához közoktatási szakértőt vesz igénybe.
+(2)[^65] Az oktatásért felelős miniszter döntéseinek előkészítésében javaslattevőként közreműködik a Pedagógus-továbbképzési Akkreditációs Testület.
 
-(3)[^35]
+(3)[^66] A Pedagógus-továbbképzési Akkreditációs Testület kilenc tagból áll. A Pedagógus-továbbképzési Akkreditációs Testület tagjait az oktatásért felelős miniszter kéri fel, a megbízatás öt évre szól.
 
-(4)[^36] Ha a továbbképzési program nemzeti, etnikai kisebbségi óvodai nevelésben, iskolai nevelésben és oktatásban részt vevő pedagógusok továbbképzése céljából készült, az alapítási engedély kiadásához az Oktatási Hivatal kikéri a közoktatásról szóló törvény 98. §-ának (1) bekezdésében meghatározottak alapján létrehozott Országos Kisebbségi Bizottság véleményét.
+(4)[^67] Ha a továbbképzési program nemzetiségi óvodai nevelésben, iskolai nevelésben és oktatásban részt vevő pedagógusok továbbképzése céljából készült, az alapítási engedély kiadásához a Hivatal kikéri az Országos Nemzetiségi Tanács véleményét.
 
-(5)[^37] Az oktatásért felelős miniszter
+(5)[^68] Az oktatásért felelős miniszter
 
-a) figyelemmel kíséri és legalább háromévenként az Országos Pedagógus-továbbképzési Bizottság és az Országos Kisebbségi Bizottság véleményének kikérése után értékeli a továbbképzés rendszerének működését, indokolt esetben kezdeményezi a Kormánynál e rendelet módosítását,
+a)[^69] figyelemmel kíséri és legalább háromévenként az Országos Nemzetiségi Tanács véleményének kikérése után értékeli a továbbképzés rendszerének működését,
 
 b) gondoskodik
 
-ba) az Országos Pedagógus-továbbképzési Bizottság, valamint a Pedagógus-továbbképzési Akkreditációs Testület működéséhez szükséges feltételek megteremtéséről, döntéseinek előkészítéséről,
+ba)[^70] a Pedagógus-továbbképzési Akkreditációs Testület működéséhez szükséges feltételek megteremtéséről, döntéseinek előkészítéséről,
 
 bb) az alapítási engedéllyel rendelkező továbbképzés nyilvántartásáról, továbbá a nyilvántartott továbbképzésekkel kapcsolatos információkhoz való hozzáférés lehetőségéről,
 
@@ -24,21 +24,24 @@ bc) a továbbképzés rendszerének külső értékeléséről, hatékonyságán
 
 bd) a továbbképzéssel összefüggő nemzetközi tapasztalatok összegyűjtéséről, közzétételéről.
 
-(6)[^38] Az oktatási és kulturális miniszter nyilvános pályázatot írhat ki a továbbképzési program elkészítésére vagy továbbképzés indítására azokon a területeken, amelyeken alapítási engedéllyel rendelkező továbbképzési program, illetve megfelelő számú továbbképzés indításának hiányában nem megoldott a pedagógusok továbbképzése.
+(6)[^71] Az oktatásért felelős miniszter nyilvános pályázatot írhat ki a továbbképzési program elkészítésére vagy továbbképzés indítására azokon a területeken, amelyeken alapítási engedéllyel rendelkező továbbképzési program, illetve megfelelő számú továbbképzés indításának hiányában nem megoldott a pedagógusok továbbképzése.
 
-(7)[^39] Az oktatási és kulturális miniszter az Országos Kisebbségi Bizottság kezdeményezésére nyilvános pályázatot ír ki továbbképzési program elkészítésére, vagy továbbképzés indítására, ha a nemzeti, etnikai kisebbségi óvodai nevelésben, iskolai nevelésben és oktatásban részt vevő pedagógusok továbbképzése nem megoldott.
+(7)[^72] Az oktatásért felelős miniszter az Országos Nemzetiségi Tanács kezdeményezésére nyilvános pályázatot ír ki továbbképzési program elkészítésére, vagy továbbképzés indítására, ha a nemzetiségi óvodai nevelésben, iskolai nevelésben és oktatásban részt vevő pedagógusok továbbképzése nem megoldott.
 
 (8) Ha a továbbképzés rendszerének külső értékelése, hatékonyságának mérése
 
-a) a nemzeti, etnikai kisebbségi óvodai nevelés, iskolai nevelés és oktatás területén szervezett továbbképzésekre irányul, az érintett kisebbségi önkormányzat,
+a)[^73] a nemzetiségi óvodai nevelés, iskolai nevelés és oktatás területén szervezett továbbképzésekre irányul, az érintett országos nemzetiségi önkormányzat,
 
 b) a világnézetileg elkötelezett óvodai nevelés, iskolai nevelés és oktatás területén szervezett továbbképzésre irányul, az érintett egyházi jogi személy
 
-[^32]: A 8/C. §-t a 93/2009. (IV. 24.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése.
-[^33]: A 9. § (1) bekezdése a 3/2010. (I. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^34]: A 9. § (2) bekezdése a 3/2010. (I. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^35]: A 9. § új (3) bekezdését a 185/1999. (XII. 13.) Korm. rendelet 6. §-ának (1) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3)-(7) bekezdés számozását (4)-(8) bekezdésre változtatva. A (3) bekezdést a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte.
-[^36]: A 9. § (4) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének d) pontja, a 3/2010. (I. 14.) Korm. rendelet 12. § (2) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^37]: A 9. § (5) bekezdése a 3/2010. (I. 14.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^38]: A 9. § (6) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének b) pontja, a 3/2010. (I. 14.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^39]: A 9. § (7) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének b) pontja szerint módosított szöveg.
+[^63]: A 8/C. §-t a 93/2009. (IV. 24.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése.
+[^64]: A 9. § (1) bekezdése a 3/2010. (I. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^65]: A 9. § (2) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^66]: A 9. § új (3) bekezdését a 185/1999. (XII. 13.) Korm. rendelet 6. §-ának (1) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti (3)-(7) bekezdés számozását (4)-(8) bekezdésre változtatva. A (3) bekezdést a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte. Újonnan a 346/2013. (IX. 30.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^67]: A 9. § (4) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^68]: A 9. § (5) bekezdése a 3/2010. (I. 14.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^69]: A 9. § (5) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^70]: A 9. § (5) bekezdés b) pont ba) alpontja a 346/2013. (IX. 30.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
+[^71]: A 9. § (6) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének b) pontja, a 3/2010. (I. 14.) Korm. rendelet 12. § (2) bekezdése, a 346/2013. (IX. 30.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.
+[^72]: A 9. § (7) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének b) pontja, a 346/2013. (IX. 30.) Korm. rendelet 17. § 4. és 12. pontja szerint módosított szöveg.
+[^73]: A 9. § (8) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-## 25–26. §[^80]
+## 25–26. §[^131]
 
-1. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^81]
+1. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^132]
 
-[^80]: A 25–26. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1299. pontja hatályon kívül helyezte.
-[^81]: Az 1. számú melléklet a 185/1999. (XII. 13.) Korm. rendelet 11. §-ának (1) bekezdésével, illetve 1. számú mellékletével megállapított szöveg.
+[^131]: A 25–26. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1299. pontja hatályon kívül helyezte.
+[^132]: Az 1. számú mellékletet a 346/2013. (IX. 30.) Korm. rendelet 18. § n) pontja hatályon kívül helyezte.

@@ -1,9 +1,12 @@
-7/A. §[^19] (1) Az alapítási engedéllyel rendelkező továbbképzési programokat az Oktatási Hivatal nyilvántartja.
+7/A. §[^37] (1)[^38] Az alapítási engedéllyel rendelkező továbbképzési programokat a Hivatal nyilvántartja.
 
 (2) Megszűnik az alapítási engedély hatálya, ha eltelt az az időszak, amelyre az engedélyt kiadták, illetve az engedélyt a 8/B. §-ban foglaltak szerint visszavonták.
 
-(3) Az alapítási engedély alapján – a felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: felnőttképzésről szóló törvény) 19. §-ának (3) bekezdése szerint – a Felnőttképzési Akkreditáló Testület (a továbbiakban: FAT) az akkreditációs eljárás lefolytatása nélkül kiadja a programakkreditációs tanúsítványt. A FAT által kiadott programakkreditációs tanúsítvány – a pedagógus-továbbképzés tekintetében – programakkreditációt tanúsít az alapítási engedélyben és a tanúsítványban megjelölt képző intézmény vonatkozásában, az alapítási engedélyben megjelölt időpontig.
+(3)[^39]
 
-(4) Az Oktatási és Kulturális Minisztérium az alapítási engedély tárgyában hozott jogerős határozatot közli a FAT-tal.
+(4)[^40]
 
-[^19]: A 7/A. §-t a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^37]: A 7/A. §-t a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^38]: A 7/A. § (1) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
+[^39]: A 7/A. § (3) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 18. § f) pontja hatályon kívül helyezte.
+[^40]: A 7/A. § (4) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 18. § f) pontja hatályon kívül helyezte.

@@ -1,12 +1,14 @@
-## A pedagógus-továbbképzési program engedélyezése[^16]
+## A pedagógus-továbbképzési program engedélyezése[^27]
 
-7. §[^17] (1) A továbbképzési kötelezettség teljesítése szempontjából az 5. § (1) bekezdése szerinti továbbképzésként olyan továbbképzés vehető figyelembe, és a közoktatási intézmény továbbképzési programja, illetve a beiskolázási terve – az e rendelet 5. §-ának (2)–(3) bekezdésében felsoroltak kivételével – csak olyan továbbképzést tartalmazhat, amelynek programját az e rendeletben meghatározott eljárás keretében az oktatásért felelős miniszter jóváhagyta és a program alkalmazására engedélyt adott (a továbbiakban: alapítási engedély). Az alapítási engedély öt évre szól.
+7. §[^28] (1)[^29] A továbbképzési kötelezettség teljesítése szempontjából az 5. § (1) bekezdése szerinti továbbképzésként olyan továbbképzés vehető figyelembe, és a köznevelési intézmény továbbképzési programja, illetve a beiskolázási terve – az e rendelet 5. §-ának (2)–(3) bekezdésében felsoroltak kivételével – csak olyan továbbképzést tartalmazhat, amelynek programját az e rendeletben meghatározott eljárás keretében az oktatásért felelős miniszter jóváhagyta és a program alkalmazására engedélyt adott (a továbbiakban: alapítási engedély). Az alapítási engedély öt évre szól.
 
-(2) Az alapítási engedély kiadása iránti kérelmet a program készítőjének a 2. számú mellékletnek megfelelő adattartalommal kell benyújtani három példányban az Oktatási Hivatalhoz, mint közreműködő hatósághoz. A kérelemhez csatolni kell:
+(2)[^30] Az alapítási engedély kiadása iránti kérelmet a program készítőjének a 2. számú mellékletnek megfelelő adattartalommal kell benyújtania három példányban az Oktatási Hivatalhoz (a továbbiakban: Hivatal) mint közreműködő hatósághoz a Hivatal által közzétett nyomtatványon. A program maximális óraszáma nem haladhatja meg a százhúsz órát. A kérelemhez csatolni kell:
 
-a) ha a továbbképzési program nemzeti, etnikai kisebbségek óvodai nevelésében, iskolai nevelésében és oktatásában, kollégiumi nevelésben részt vevők továbbképzése céljából készült, az érintett országos kisebbségi önkormányzat véleményét,
+a) az érintett országos nemzetiségi önkormányzat véleményét, amennyiben a továbbképzési program nemzetiségi óvodai nevelésben, iskolai nevelésben és oktatásban, kollégiumi nevelésben részt vevők továbbképzése céljából készült és
 
 b) az igazgatási szolgáltatási díj befizetésének igazolását.
+
+(2a)[^31] A Hivatal a pedagógus-továbbképzési program engedélyezési eljárásában közreműködő hatóságként – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 32. § (1) bekezdése és 58. § (1) bekezdése alapján – az eljárást felfüggeszti, valamint szakértőt rendel ki.
 
 (3) Ha a továbbképzési program teljes egészében a szakvizsgára történő felkészítés oktatási és tanulmányi követelményeire épül úgy, hogy a továbbképzés követelményeinek teljesítése a szakvizsgára történő felkészülésbe beszámít, a kérelemhez a következőket kell csatolni:
 
@@ -14,7 +16,7 @@ a) a felsőoktatási intézménynek a szakvizsgára történő felkészítésre 
 
 b) a kidolgozó felsőoktatási intézmény nyilatkozatát arról, hogy milyen ismereteket számít be a szakvizsgára történő felkészítésbe,
 
-c) ha a továbbképzési program alapítási engedélye iránti kérelmet nem az a felsőoktatási intézmény nyújtja be, amely a program alapjául szolgáló oktatási és tanulmányi követelményt készítette, a felsőoktatási intézménnyel vagy intézményekkel kötött megállapodást arról, hogy milyen ismereteket számít be a szakvizsgára történő felkészítésbe,
+c)[^32]
 
 d) az igazgatási szolgáltatási díj befizetésének igazolását.
 
@@ -22,7 +24,7 @@ d) az igazgatási szolgáltatási díj befizetésének igazolását.
 
 (5) Ha a továbbképzési program távoktatás céljából készült, a foglalkozási órák számítását a követelmények elsajátításához szükséges felkészülési idő, illetőleg a követelmények elsajátítását igazoló feladatok elkészítéséhez tervezett órák alapján kell számítani.
 
-(6) A továbbképzési program jóváhagyásáról, az alapítási engedély kiadásáról az oktatásért felelős miniszter a Pedagógus-továbbképzési Akkreditációs Testület javaslata alapján dönt. A Pedagógus-továbbképzés Akkreditációs Testület javaslatának meghozatala előtt szakértői véleményt szerez be. A szakértői vélemény elkészítésének a költségeit az igazgatási szolgáltatási díjból kell fedezni.
+(6)[^33] A továbbképzési program jóváhagyásáról, az alapítási engedély kiadásáról az oktatásért felelős miniszter a Pedagógus-továbbképzési Akkreditációs Testület javaslata alapján dönt. Az oktatásért felelős miniszter a javaslattól eltérő döntést is hozhat. A Pedagógus-továbbképzési Akkreditációs Testület a 9/A. §-ban meghatározott bírálati szempontok alapján, köznevelési szakértői vélemény figyelembevételével készíti el javaslatát. A szakértői vélemény elkészítésének a költségeit, a Pedagógus-továbbképzési Akkreditációs Testület működéséhez szükséges kiadásokat – beleértve a testület tagjainak díjazását is – az igazgatási szolgáltatási díjból kell fedezni.
 
 (7) Nem működhet közre az alapítási engedély kiadásával összefüggő eljárásban az, aki az engedély kiadásában érdekelt, így különösen
 
@@ -40,12 +42,19 @@ c) az a)–b) pontban felsoroltak – a közigazgatási hatósági eljárás ál
 
 a) a továbbképzési program követelményeinek teljesítéséhez nincs szükség legalább harminc foglalkozási órára,
 
-b) a továbbképzési program nem felel meg az e rendelet 1. számú mellékletében foglalt bírálati szempontoknak.
+b)[^34] a továbbképzési program nem felel meg az e rendeletben megállapított pedagógus-továbbképzési programok bírálati szempontjainak.
 
-(11) A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek az Oktatási és Kulturális Minisztériumba kell megküldeni.
+(11)[^35] A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek az oktatásért felelős miniszter által vezetett minisztériumba kell megküldeni.
 
-(12)[^18] Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. Az Oktatási Hivatal megkeresi a szakképesítésért felelős minisztert véleményének kikérése érdekében.
+(12)[^36] Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszter véleményének kikérése után dönt. A Hivatal megkeresi a szakképesítésért felelős minisztert véleményének kikérése érdekében.
 
-[^16]: A 7. §-t megelőző alcím a 3/2010. (I. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^17]: A 7. § a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^18]: A 7. § (12) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^27]: A 7. §-t megelőző alcím a 3/2010. (I. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^28]: A 7. § a 3/2010. (I. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^29]: A 7. § (1) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^30]: A 7. § (2) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^31]: A 7. § (2a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^32]: A 7. § (3) bekezdés c) pontját a 346/2013. (IX. 30.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^33]: A 7. § (6) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^34]: A 7. § (10) bekezdés b) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
+[^35]: A 7. § (11) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 15. pontja szerint módosított szöveg.
+[^36]: A 7. § (12) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (18) bekezdése, a 346/2013. (IX. 30.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.

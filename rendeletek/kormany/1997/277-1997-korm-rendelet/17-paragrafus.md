@@ -1,21 +1,37 @@
-17. § (1)[^54] A finanszírozási alprogram összeállításánál – a (3) bekezdésben meghatározott kivétellel – a 16. § (4) bekezdésében az előbb lévő pontban meghatározott feladat teljesítéséhez szükséges fedezet biztosítása után lehet a sorrendben következő feladatra fedezetet biztosítani. A finanszírozási alprogramban meg kell határozni – a 16. § (4) bekezdésben, valamint az e §-ban meghatározottak figyelembevételével – a helyettesítési feladatok megoldása után fennmaradó összeg felosztásának elvét, az egy pedagógusra jutó hozzájárulás legkisebb összege meghatározásának szabályait. Az ily módon megállapításra kerülő összegre a beiskolázási tervben szereplő és a továbbképzésben részt vevő, a meghatározott feltételeknek megfelelő pedagógus jogosulttá válik.
+17. §[^96] (1) A finanszírozási alprogramban kell megtervezni
 
-(2)[^55] A központi költségvetés által biztosított hozzájárulás terhére – a (4) bekezdésben meghatározott kivétellel – a részvételi díj kifizetéséhez való hozzájárulás nem lehet több a díj nyolcvan százalékánál.
+a) a távollevő helyettesítéséhez szükséges költségeket,
 
-(3) Ha a résztvevő helyettesítésére nincs szükség, részvételi díja és költségei kifizetéséhez – a (2) bekezdésben meghatározottak megtartásával – hozzá kell járulni, legalább a nevelési-oktatási intézményben az adott évben helyettesítésre egy személyre átlagosan fordított összeggel.
+b) az egy pedagógusra jutó hozzájárulás legkisebb összege meghatározásának szabályait és
 
-(4)[^56] A részt vevő pedagógus kötelező óraszáma csökkenthető, illetve a részvételi díja és költségei kifizetéséhez való hozzájárulás összege a (2) bekezdésben meghatározottakon túl megemelhető, ha az ehhez szükséges fedezetet a fenntartó többlet-költségvetési támogatás nélkül vagy a nevelési-oktatási intézmény saját forrásaiból biztosítani tudja. A részvételi díj kifizetéséhez való hozzájárulás a központi költségvetés által biztosított hozzájárulás terhére a (2) bekezdésben meghatározott mértéken túl is megemelhető, ha a pedagógus a munkáltató által meghatározott munkakörhöz kapcsolódó, vagy más olyan továbbképzésben vesz részt, amely a foglalkoztatási gondok megoldását szolgálja, amennyiben megfelel a (3) bekezdésben meghatározottaknak, továbbá a továbbképzésben való részvétel miatt munkavégzésének rendjét nem kell átszervezni, valamint ha a munkáltatóval tanulmányi szerződést kötött. A tanulmányi szerződés nem terjedhet ki az (1) és (3) bekezdés alapján járó hozzájárulás összegére. A részvételi díj kifizetéséhez való hozzájárulás a (2) bekezdésben meghatározottakon túl megemelhető abban az esetben is, ha a szükséges fedezetet az Oktatási Minisztérium vagy a szakképesítésért felelős minisztérium által kiírt pályázaton keresztül biztosítják.
+c) a továbbképzésben való részvétel díja és költsége (utazás, szállás, étkezés, könyv stb.) támogatására szolgáló összeget pedagógusonként.
 
-(5) A továbbképzésen, illetve a szakvizsgára történő felkészítésben való részvétel elrendelése esetén a (2) bekezdésben meghatározottakon túli kiadásokat a munkáltatónak kell fedeznie a (4) bekezdésben meghatározott források terhére.
+(2) Ha a pedagógus nem az állami köznevelési közfeladat-ellátás keretében vesz részt a továbbképzésen, a részvételi díj kifizetéséhez való hozzájárulás – a (3) és (4) bekezdésben foglalt kivétellel – nem lehet több a díj nyolcvan százalékánál.
 
-(6) Ha olyan pedagógus vesz részt a 16. § (4) bekezdés b) pontjában felsorolt képzésben, aki nem szerepel a beiskolázási tervben, az nem tarthat igényt a részvételi díja és költségei fedezésének támogatására, valamint a továbbképzést eredményesen befejezők részére a 16. § (4) bekezdésének c) pontja alapján megállapítható anyagi elismerésre.
+(3) Ha a továbbképzésben való részvétel a pedagógus minősítéséhez szükséges, a részvételi díj teljes összege finanszírozható.
 
-(7)[^57] Ha a munkáltató által kifizetett hozzájárulás teljes egészében fedezi a részvételi díj és a költségek összegét, a munkáltató kikötheti, hogy a megvásárolt könyvek, tankönyvek, segédanyagok a közoktatási intézmény tulajdonába kerülnek.
+(4) A részvételi díjhoz történő hozzájárulás meghaladhatja a részvételi díj nyolcvan százalékát, ha
 
-(8)[^58] A munkáltató – a munka törvénykönyvéről szóló 2012. évi I. törvény 285. § (2) bekezdésében szabályozott fizetési felszólítással – a helyettesítésre fordított kiadásai, valamint az (1) és (3) bekezdés alapján a továbbképzésben és a szakvizsgára történő felkészítésben a résztvevőnek kifizetett munkáltatói támogatás visszafizetését kérheti, ha a résztvevő saját hibájából nem teljesítette az előírt követelményeket. A visszafizetett összeget az e rendelet 16. §-ának (4) bekezdésében meghatározottak szerint lehet felhasználni. E rendelkezések alkalmazásában nem teljesítette az előírt követelményeket az, aki a képzési időt is figyelembe véve a munkáltató által meghatározott ideig nem szerezte meg az 5. § (2) bekezdésének a) pontjában felsorolt oklevelet, bizonyítványt, vagy a 6. § (11) bekezdésében meghatározott tanúsítványt, illetve nem készítette el az 5. § (4)–(6) bekezdésében előírt beszámolót. A visszafizetésre vonatkozó rendelkezéseket alkalmazni kell abban az esetben is, ha az előzőekben meghatározott időn belül a munkavállaló a munkaviszonyát, illetve a közalkalmazott a közalkalmazotti jogviszonyát megszünteti, vagy azt a munkáltató munkavállaló esetén rendkívüli felmondással, közalkalmazottnál a közalkalmazotti jogviszonyt nem megfelelő munkavégzés miatt felmentéssel, illetve elbocsátással megszüntette. Mentesül a visszafizetési kötelezettség alól az, aki igazolja, hogy másik közoktatási intézményben, illetve a közoktatás irányításában helyezkedett el és folytatja a továbbképzést, illetve a pedagógus szakvizsgára való felkészülést. A tanulmányi szerződés alapján nyújtott juttatásokra a tanulmányi szerződésben foglaltakat kell alkalmazni.
+a) az ehhez szükséges fedezetet a fenntartó többlet-költségvetési támogatás nélkül biztosítani tudja,
 
-[^54]: A 17. § (1) bekezdése a 185/1999. (XII. 13.) Korm. rendelet 9. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^55]: A 17. § (2) bekezdése a 185/1999. (XII. 13.) Korm. rendelet 9. §-ának (2) bekezdésével megállapított szöveg.
-[^56]: A 17. § (4) bekezdése a 185/1999. (XII. 13.) Korm. rendelet 9. §-ának (3) bekezdése szerint kiegészített szöveg, harmadik mondata a 16/2000. (II. 11.) Korm. rendelet 20. § (5) bekezdésének b) pontjával megállapított szöveg.
-[^57]: A 17. § (7) és (8) bekezdését a 185/1999. (XII. 13.) Korm. rendelet 9. §-ának (4) bekezdése iktatta a szövegbe.
-[^58]: A 17. § (8) bekezdése a 3/2010. (I. 14.) Korm. rendelet 12. § (2) bekezdése, a 135/2012. (VI. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+b) az ehhez szükséges fedezetet – az állami intézményfenntartó központ által fenntartott intézmény kivételével – a köznevelési intézmény saját forrásaiból biztosítani tudja,
+
+c) a szükséges fedezetet pályázati úton biztosítják, vagy
+
+d) a pedagógus a munkáltató által meghatározott munkakörhöz kapcsolódó vagy más olyan továbbképzésben vesz részt, amely a foglalkoztatási gondok megoldását szolgálja, feltéve, hogy helyettesítésére nincs szükség, továbbá a továbbképzésben való részvétel miatt munkavégzésének rendjét nem kell átszervezni, valamint ha a munkáltatóval tanulmányi szerződést kötött.
+
+(5) Ha a pedagógus a beiskolázási tervben szereplő továbbképzésen vesz részt és a résztvevő helyettesítésére nincs szükség, részvételi díja és költségei kifizetéséhez hozzá kell járulni, legalább a nevelési-oktatási intézményben az adott évben helyettesítés céljából egy személyre átlagosan fordított összeggel, kivéve, ha a pedagógus az állami köznevelési közfeladat-ellátás keretében térítésmentesen vesz részt a továbbképzésben.
+
+(6) A továbbképzésben, illetve a szakvizsgára történő felkészítésben való részvétel elrendelése esetén a (2) bekezdésben meghatározottakon túli kiadásokat a munkáltatónak kell fedeznie.
+
+(7) Ha a munkáltató által kifizetett hozzájárulás teljes egészében fedezi a részvételi díj és az egyéb költségek összegét, a munkáltató kikötheti, hogy a megvásárolt könyvek, tankönyvek, segédanyagok a köznevelési intézmény tulajdonába kerülnek.
+
+(8) A munkáltató – a munka törvénykönyvéről szóló 2012. évi I. törvény 285. § (2) bekezdésében szabályozott fizetési felszólítással – a helyettesítésre fordított kiadásai, valamint a (2) és (3) bekezdés alapján a továbbképzésben és a szakvizsgára történő felkészítésben a résztvevőnek kifizetett munkáltatói támogatás visszafizetését kérheti, ha a résztvevő saját hibájából nem teljesítette az előírt követelményeket. E rendelkezések alkalmazásában nem teljesíti az előírt követelményeket az, aki a képzési időt is figyelembe véve a munkáltató által meghatározott ideig nem szerzi meg az 5. § (2) bekezdés a) pontjában meghatározott oklevelet, bizonyítványt vagy a 6. § (11) bekezdésében meghatározott tanúsítványt, illetve nem készíti el az 5. § (4)–(6) bekezdése szerinti beszámolót.
+
+(9) A visszafizetésre vonatkozó rendelkezéseket alkalmazni kell abban az esetben is, ha a (8) bekezdésben meghatározott időn belül a munkavállaló a munkaviszonyát, a közalkalmazott a közalkalmazotti jogviszonyát megszünteti, vagy a munkáltató munkavállaló esetén a munkaviszonyt rendkívüli felmondással, közalkalmazott esetén a közalkalmazotti jogviszonyt nem megfelelő munkavégzés miatt felmentéssel megszüntette.
+
+(10) Mentesül a visszafizetési kötelezettség alól az, aki igazolja, hogy másik köznevelési intézményben, illetve a köznevelés irányításában helyezkedett el, és folytatja a továbbképzést, illetve a pedagógus-szakvizsgára való felkészülést.
+
+(11) A tanulmányi szerződés alapján nyújtott juttatásokra a tanulmányi szerződésben foglaltakat kell alkalmazni.
+
+[^96]: A 17. § a 346/2013. (IX. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
