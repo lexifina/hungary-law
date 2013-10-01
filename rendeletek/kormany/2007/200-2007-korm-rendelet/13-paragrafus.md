@@ -1,4 +1,4 @@
-## 12. § Egyesülés esetén a hitelintézet – a Felügyelet engedélyével – az alapmutató módszert és a sztenderdizált módszert együttesen is alkalmazhatja azzal, hogy a hitelintézetnek az engedélyezési kérelemhez megalapozott és részletes ütemtervet kell mellékelnie, amely előre meghatározott határidőket rögzít a sztenderdizált módszer alkalmazásának teljeskörű bevezetésére.
+## 12. §[^25] Egyesülés esetén a hitelintézet – az MNB engedélyével – az alapmutató módszert és a sztenderdizált módszert együttesen is alkalmazhatja azzal, hogy a hitelintézetnek az engedélyezési kérelemhez megalapozott és részletes ütemtervet kell mellékelnie, amely előre meghatározott határidőket rögzít a sztenderdizált módszer alkalmazásának teljeskörű bevezetésére.
 
 ## A működési kockázat eseménytípusai
 
@@ -37,3 +37,5 @@ e) tárgyi eszközökben bekövetkező károk: tárgyi eszközben természeti ka
 f) üzletmenet fennakadása vagy rendszerhiba: az üzletmenet fennakadása vagy bármely működő rendszer hibája,
 
 g) végrehajtás, teljesítés és folyamatkezelés: ügyletek hibás feldolgozásából vagy kereskedelmi ügyfelekkel és beszállítókkal kapcsolatos folyamatok kezeléséből bekövetkező kár.
+
+[^25]: A 12. § a 345/2013. (IX. 30.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ b) a bevételek forgatási célú részvényekből, részesedésekből (osztalé
 
 ## összegének hároméves számtani átlaga.
 
-(2) Az irányadó mutató számítása során a számítást megelőző három üzleti év könyvvizsgáló által hitelesített éves beszámolóját kell figyelembe venni. Ha a hitelintézet az üzleti tevékenysége megkezdésének napjától számítva még nem működik három éve, vagy tevékenységi kör változása miatt nem áll rendelkezésre adat, akkor a rendelkezésre nem álló időszak, üzletág vagy tevékenység vonatkozásában az éves beszámoló adatai helyett az üzleti tervében szereplő, becsült adatokat kell figyelembe vennie. Egyesülés, szétválás vagy tevékenységi kör változása esetén a működési kockázat tőkekövetelményének meghatározásához – a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélyével – az üzleti tervben szereplő becsült adatok alkalmazhatóak.
+(2)[^2] Az irányadó mutató számítása során a számítást megelőző három üzleti év könyvvizsgáló által hitelesített éves beszámolóját kell figyelembe venni. Ha a hitelintézet az üzleti tevékenysége megkezdésének napjától számítva még nem működik három éve, vagy tevékenységi kör változása miatt nem áll rendelkezésre adat, akkor a rendelkezésre nem álló időszak, üzletág vagy tevékenység vonatkozásában az éves beszámoló adatai helyett az üzleti tervében szereplő, becsült adatokat kell figyelembe vennie. Egyesülés, szétválás vagy tevékenységi kör változása esetén a működési kockázat tőkekövetelményének meghatározásához – a Magyar Nemzeti Bank (a továbbiakban: MNB) engedélyével – az üzleti tervben szereplő becsült adatok alkalmazhatóak.
 
 (3) Az irányadó mutató számítása során csak a pozitív előjelű összeget lehet figyelembe venni. Ha az összeg egy év vonatkozásában negatív vagy nulla, akkor a fennmaradó két évhez tartozó pozitív összegek számtani átlagát kell figyelembe venni. Ha az összeg két év vonatkozásában negatív vagy nulla, akkor kizárólag annak az évnek az adatát kell figyelembe venni, amelynek esetében az összeg pozitív.
 
@@ -28,7 +28,7 @@ d) a kiszervezett tevékenység szerződés szerint – nem a hitelintézet anya
 
 (6) Az irányadó mutató számítása során nem vehető figyelembe
 
-a)[^1] a kereskedési könyv részét nem képező tételek – ide nem értve a devizát – eladásából realizált bevétel, a pénzügyi műveletek nettó nyereségében és a pénzügyi műveletek nettó veszteségében szereplő eredmény, az egyéb bevételek üzleti tevékenységből között szereplő bevétel,
+a)[^3] a kereskedési könyv részét nem képező tételek – ide nem értve a devizát – eladásából realizált bevétel, a pénzügyi műveletek nettó nyereségében és a pénzügyi műveletek nettó veszteségében szereplő eredmény, az egyéb bevételek üzleti tevékenységből között szereplő bevétel,
 
 b) az egyéb bevételek üzleti tevékenységből között szereplő, biztosítási események miatti kártérítésből származó bevétel.
 
@@ -36,4 +36,5 @@ b) az egyéb bevételek üzleti tevékenységből között szereplő, biztosít�
 
 (8) A működési kockázat tőkekövetelménye az irányadó mutató tizenöt százaléka.
 
-[^1]: A 3. § (6) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 558. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 3. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (6) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 558. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

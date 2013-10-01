@@ -1,4 +1,4 @@
-5. § (1)[^9] A hitelintézet részére a Felügyelet akkor engedélyezi sztenderdizált módszer alkalmazását, ha a hitelintézet megfelel a Hpt. 13/D. § szerinti irányítási és kockázatkezelési követelményeknek, és
+5. § (1)[^12] A hitelintézet részére az MNB akkor engedélyezi sztenderdizált módszer alkalmazását, ha a hitelintézet megfelel a Hpt. 13/D. § szerinti irányítási és kockázatkezelési követelményeknek, és
 
 a) a hitelintézet jól kidolgozott, dokumentált és rendszeresen – legalább évente – a működési kockázat kezeléséért felelős szervezeti egységtől független szervezeti egység által felülvizsgált szervezeti és felelősségi rendszerrel rendelkezik a működési kockázat mérésére és kezelésére,
 
@@ -30,4 +30,4 @@ f) a tevékenységeket következetesen, a hitelezési és a piaci kockázat eset
 
 (4) A (2)–(3) bekezdésben foglaltak megfelelő alkalmazásáért a hitelintézet igazgatósága, illetve ügyvezetése felelős.
 
-[^9]: Az 5. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 14. §-a, nyitó szövegrésze a 345/2013. (IX. 30.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
