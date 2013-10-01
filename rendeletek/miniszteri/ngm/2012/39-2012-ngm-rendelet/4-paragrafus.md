@@ -6,6 +6,8 @@
 
 a) a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény hatálya alá tartozó versenyfelügyeleti ügyben,
 
-b) olyan ügyben, amelyben a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvényben meghatározott fogyasztóvédelmi eljárás lefolytatásának van helye.
+b)[^2] olyan ügyben, amelyben a Magyar Nemzeti Bankról szóló törvényben meghatározott fogyasztóvédelmi eljárás lefolytatásának van helye.
 
 (3) A pénzügyi jogok biztosa eljárása során figyelembe veszi a Pénzügyi Békéltető Testület (a továbbiakban: PBT) joggyakorlatát.
+
+[^2]: A 4. § (2) bekezdés b) pontja a 40/2013. (IX. 30.) NGM rendelet 20. § a) pontja szerint módosított szöveg.
