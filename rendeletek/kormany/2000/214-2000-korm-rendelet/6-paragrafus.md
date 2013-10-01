@@ -10,7 +10,7 @@ b) a betétesek megbízásából behajtandó követelések után a betéteseknek
 
 c) az állami garanciával biztosított betétek megbízásból történő kifizetése után felszámított díjbevétel összegét;
 
-d) a Pénzügyi Szervezetek Állami Felügyelete által a hitelintézetektől beszedett bírságok összegének az OBA-t megillető részét az egyéb betétbiztosítási bevételek között.
+d)[^2]
 
 (3) A nem betétbiztosításból eredő bevételek között kell kimutatni:
 
@@ -45,3 +45,5 @@ f) egyéb, a betétbiztosítási tevékenységgel kapcsolatban felmerült, tová
 (8) Az OBA nyereségének teljes összegét a tartalék növekedéseként kell elszámolni az üzleti évet követő évben.
 
 (9) Az OBA veszteségének teljes összegét a tartalék csökkenéseként kell elszámolni az üzleti évet követő évben.
+
+[^2]: A 6. § (2) bekezdés d) pontját a 345/2013. (IX. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.

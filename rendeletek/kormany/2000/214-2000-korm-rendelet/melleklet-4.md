@@ -1,6 +1,6 @@
 ## A. Mérleg szerinti eredmény (I+II+III+IV+V+VI–VII–VIII–IX–X–XI–XII–XIII)
 
-4. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^4]
+4. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^8]
 
 ## A Befektető-védelmi Alap mérlegének előírt tagolása
 
@@ -106,4 +106,4 @@ II. Rövid lejáratú kötelezettségek
 
 G. Passzív időbeli elhatárolások
 
-[^4]: A 4. számú melléklet a 288/2001. (XII. 26.) Korm. rendelet 3. §-a szerint kiegészített szöveg, e módosító rendelet 4. §-a értelmében rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^8]: A 4. számú melléklet a 288/2001. (XII. 26.) Korm. rendelet 3. §-a szerint kiegészített szöveg, e módosító rendelet 4. §-a értelmében rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
