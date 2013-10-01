@@ -1,6 +1,6 @@
 ## Nyilvánosságra hozatal
 
-21. §[^59] (1) A pénztár minden évben, legkésőbb a pénzügyi évet követő év június 30-áig köteles az alábbiakat nyilvánosságra hozni, a pénztár teljesítménymérésének főbb mutatói és változásuk címén:
+21. §[^60] (1) A pénztár minden évben, legkésőbb a pénzügyi évet követő év június 30-áig köteles az alábbiakat nyilvánosságra hozni, a pénztár teljesítménymérésének főbb mutatói és változásuk címén:
 
 a) a pénztár egészének a tárgyévi és az azt megelőző kilencévi nettó és bruttó hozamrátáját a 4. számú mellékletben leírt módszerrel számítva, összehasonlítható szerkezetben, valamint a referenciaindex ugyanazon időszakra vonatkozó hozamrátáját. Választható portfóliós rendszer esetén a választható portfóliókra vonatkozó bruttó és nettó hozamrátákat, referenciahozamokat kell nyilvánosságra hozni, megjelölve a portfóliókba fektetett eszközök fordulónapi záró piaci értékét is, a referenciaindex hozamrátáját csak a 2002. január 1-jétől kezdődő időszakra kell publikálni;
 
@@ -20,4 +20,4 @@ d) a pénztár teljes vagyonának tárgyévi eszközcsoportonkénti százalékos
 
 (6) Az egyes, egy évnél rövidebb részidőszakok (havi vagy negyedéves periódusok) hozamrátáit nem lehet sem évesíteni, sem nyilvánosságra hozni.
 
-[^59]: A 21. § a 335/2008. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^60]: A 21. § a 335/2008. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

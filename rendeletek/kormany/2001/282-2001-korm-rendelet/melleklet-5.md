@@ -16,6 +16,6 @@
 
 ## vb = a tárgyévet megelőző 9. évben a pénztár fedezeti tartaléka egy pénztártagra jutó vagyonának nyitó értéke.
 
-5. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^131]
+5. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^132]
 
-[^131]: Az 5. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^132]: Az 5. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.

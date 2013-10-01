@@ -1,4 +1,4 @@
-2/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^116]
+2/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^117]
 
 I. Választható portfoliós rendszert üzemeltető pénztárakra vonatkozó prudenciális elvárások
 
@@ -26,7 +26,7 @@ II. Választható portfoliós rendszert üzemeltető pénztárakra vonatkozó á
 
 7. A nem OECD, illetve EU-tagállam, vagy az EGT-megállapodásban részes állambeli kibocsátó értékpapírjába történő befektetések aránya – választható portfoliónként – nem haladhatja meg a külföldi befektetések 20 százalékát.
 
-8.[^117]
+8.[^118]
 
 9. Az egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapírban történő befektetések aránya a befektetett pénztári eszközök (illetve választható portfoliós rendszer esetében az egyes portfoliók értékének) 10 százalékát nem haladhatja meg.
 
@@ -42,7 +42,7 @@ III. Az egyes választható portfoliókra vonatkozó prudenciális elvárások, 
 
 1.3. A portfolióban a részvények, részvénybefektetésen alapuló befektetési instrumentumok aránya a befektetett eszközök 10 százalékát nem haladhatja meg.
 
-1.4.[^118]
+1.4.[^119]
 
 2. Kiegyensúlyozott portfolióra vonatkozó elvárások, előírások:
 
@@ -50,7 +50,7 @@ III. Az egyes választható portfoliókra vonatkozó prudenciális elvárások, 
 
 2.2. A Kiegyensúlyozott portfolióban az ingatlanbefektetések (ingatlanok és ingatlanalapok) aránya a befektetett eszközök 10 százalékát, míg a kockázati tőkealapjegyek a 3 százalékát nem haladhatják meg. Egy kockázati tőkealap által kibocsátott jegyek aránya nem haladhatja meg a befektetett eszközök 2 százalékát. A portfolióba származtatott alapok jegyei nem helyezhetők el, illetve nyitott származtatott pozíciók nem vehetők fel.
 
-2.3.[^119] A portfolióban a részvények, részvénybefektetésen alapuló befektetési instrumentumok aránya a befektetett eszközök 40 százalékát nem haladhatja meg.
+2.3.[^120] A portfolióban a részvények, részvénybefektetésen alapuló befektetési instrumentumok aránya a befektetett eszközök 40 százalékát nem haladhatja meg.
 
 3. Növekedési portfolióra vonatkozó elvárások, előírások:
 
@@ -58,10 +58,10 @@ III. Az egyes választható portfoliókra vonatkozó prudenciális elvárások, 
 
 3.2. A Növekedési portfolióban az ingatlanbefektetések (ingatlanok és ingatlanalapok) aránya a befektetett eszközök 20 százalékát, míg a kockázati tőkealapjegyek aránya a befektetett eszközök 5 százalékát nem haladhatja meg. Egy kockázati tőkealap által kibocsátott jegyek aránya nem haladhatja meg a befektetett eszközök 2 százalékát. A származtatott alapok jegyeinek és nyitott származtatott pozíciók árfolyamértéken vett együttes aránya a befektetett eszközök maximálisan 5 százalékát teheti ki.
 
-3.3.[^120]
+3.3.[^121]
 
-[^116]: A 2/A. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 12. §-a iktatta be.
-[^117]: A 2/A. számú melléklet II. részének 8. pontját a 369/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
-[^118]: A 2/A. számú melléklet III. rész 1. pont 1.4. alpontját a 155/2009. (VII. 23.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.
-[^119]: A 2/A. számú melléklet III. fejezet 2.3. pontja a 425/2012. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^120]: A 2/A. számú melléklet III. fejezet 3.3. pontját a 425/2012. (XII. 29.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^117]: A 2/A. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 12. §-a iktatta be.
+[^118]: A 2/A. számú melléklet II. részének 8. pontját a 369/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^119]: A 2/A. számú melléklet III. rész 1. pont 1.4. alpontját a 155/2009. (VII. 23.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.
+[^120]: A 2/A. számú melléklet III. fejezet 2.3. pontja a 425/2012. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^121]: A 2/A. számú melléklet III. fejezet 3.3. pontját a 425/2012. (XII. 29.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
