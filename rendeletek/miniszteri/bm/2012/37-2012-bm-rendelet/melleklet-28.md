@@ -1,4 +1,4 @@
-28. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^19]
+28. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^20]
 
 1 Műemlékvédelemért – Forster Gyula-emlékérem
 
@@ -8,4 +8,4 @@ Az emlékérem leírása a 27. melléklet 1. pontjában meghatározottakkal azon
 
 Az emlékérem leírása a 27. melléklet 2. pontjában meghatározottakkal azonos, azzal az eltéréssel, hogy az előlapon „SCHÖNVISNER ISTVÁN-EMLÉKÉREM” felirat szerepel.
 
-[^19]: A 28. mellékletet a 17/2013. (V. 9.) BM rendelet 9. § (2) bekezdése iktatta be.
+[^20]: A 28. mellékletet a 17/2013. (V. 9.) BM rendelet 9. § (2) bekezdése iktatta be.

@@ -12,6 +12,7 @@ látja el.
 
 (4) A szakmai kuratórium az örökségvédelmi elismerések adományozására vonatkozó javaslatát a BM Személyügyi Főosztályon keresztül juttatja el a belügyminiszterhez.
 
-(5) Az örökségvédelmi elismerések adományozására a Kulturális Örökség Napjai alkalmából kerül sor.
+(5)[^14] Az örökségvédelmi elismerések adományozására a Műemléki Világnap (április 18.) alkalmából kerül sor.
 
 [^13]: Az 52/A. §-t a 17/2013. (V. 9.) BM rendelet 5. §-a iktatta be.
+[^14]: Az 52/A. § (5) bekezdése a 17/2013. (V. 9.) BM rendelet 6. §-ával megállapított szöveg.
