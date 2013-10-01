@@ -28,7 +28,7 @@ követő hónap 20. napjáig a lakásgazdálkodásért és lakáspolitikáért f
 
 (7) Ha a kincstár a pénzügyi intézmény ellenőrzése során a pénzügyi intézmény terhére jogosulatlan támogatáslehívást állapít meg, a pénzügyi intézmény azt a kincstár megállapításait tartalmazó dokumentum kézhezvételét követően a Ptk. 301/A. § (2) bekezdése szerinti kamattal növelt összegben köteles a kincstár által vezetett, 10032000-01034004 számú „Különleges bevételek” számlára megfizetni. A miniszter által kiadott teljesítésigazolás nem érinti a kincstár ellenőrzési jogosultságát.
 
-(8) A pénzügyi intézmény elszámolását – szükség esetén a Pénzügyi Szervezetek Állami Felügyeletének bevonásával – a kincstár ellenőrzi.
+(8)[^11] A pénzügyi intézmény elszámolását a kincstár ellenőrzi.
 
 (9) A kincstár a (8) bekezdés szerinti ellenőrzése során a pénzügyi intézménynél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
 
@@ -39,3 +39,4 @@ követő hónap 20. napjáig a lakásgazdálkodásért és lakáspolitikáért f
 [^8]: A 15. § (3a) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 46. §-a ikatta be.
 [^9]: A 15. § (4) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
 [^10]: A 15. § (5) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 49. § c) pontja szerint módosított szöveg.
+[^11]: A 15. § (8) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 67. § (1) bekezdés h) pontja szerint módosított szöveg.

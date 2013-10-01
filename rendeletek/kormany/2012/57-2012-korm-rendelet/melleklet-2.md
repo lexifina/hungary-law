@@ -30,7 +30,7 @@
 
 |  | aláírás |
 
-2. melléklet az 57/2012. (III. 30.) Korm. rendelethez[^17]
+2. melléklet az 57/2012. (III. 30.) Korm. rendelethez[^18]
 
 Elszámolási adatlap
 
@@ -92,4 +92,4 @@ Kijelentem, hogy jelen elszámolásban közölt adatok a valóságnak megfelelne
 
 Az elszámolási adatlapot elektronikus úton a miniszter által vezetett minisztérium honlapján található fájlformátumban kell megküldeni.
 
-[^17]: A 2. melléklet a 379/2012. (XII. 19.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
+[^18]: A 2. melléklet a 379/2012. (XII. 19.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
