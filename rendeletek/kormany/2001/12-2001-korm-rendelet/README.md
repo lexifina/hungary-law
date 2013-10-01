@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2013-05-03 | 2001-12-20-22.55 | 128/2013. (IV. 30.) Korm. rendelet |
 | 2013-07-01 | 2001-12-20-22.56 | 203/2013. (VI. 14.) Korm. rendelet |
 | 2013-08-01 | 2001-12-20-22.57 | 74/2011. (V. 2.) Korm. rendelet |
+| 2013-10-01 | 2001-12-20-22.58 | 79/2003. (VI. 6.) Korm. rendelet |
