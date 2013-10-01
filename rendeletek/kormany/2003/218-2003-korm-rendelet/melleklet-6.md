@@ -1,4 +1,4 @@
-6. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^51]
+6. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^53]
 
 A 2/A. §-ban meghatározott – mozgásában korlátozott személyeket ellátó – intézmény parkolási igazolványa
 
@@ -54,4 +54,4 @@ A hátlap jobb oldalán a következők szerepelnek:
 
 – a „használatkor az igazolványt a jármű szélvédője mögött úgy kell elhelyezni, hogy előlapja ellenőrzés céljából tisztán látható legyen” szöveg.
 
-[^51]: A 6. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^53]: A 6. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (3) bekezdése iktatta be.

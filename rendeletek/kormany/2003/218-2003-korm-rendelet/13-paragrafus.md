@@ -1,15 +1,15 @@
 13. § (1) Ez a rendelet 2004. július 1-jén lép hatályba.
 
-(2)[^42] A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet hatálybalépését megelőző napon hatályos 2. § a) pontja szerinti jogosultság alapján
+(2)[^44] A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet hatálybalépését megelőző napon hatályos 2. § a) pontja szerinti jogosultság alapján
 
 a) kiállított parkolási igazolványok az érvényességükön belül felhasználhatók,
 
-b)[^43] a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 164/1995. (XII. 27.) Korm. rendelet 2. és 3. számú melléklete szerinti orvosi szakvélemény parkolási igazolvány igénylésére és hatályának meghosszabbítására a hatályossági idején belül, de legkésőbb 2012. december 31-éig felhasználható.
+b)[^45] a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 164/1995. (XII. 27.) Korm. rendelet 2. és 3. számú melléklete szerinti orvosi szakvélemény parkolási igazolvány igénylésére és hatályának meghosszabbítására a hatályossági idején belül, de legkésőbb 2012. december 31-éig felhasználható.
 
-(3)–(4)[^44]
+(3)–(4)[^46]
 
 (5) Ez a rendelet az Európai Közösségek Tanácsának a fogyatékos személyek parkolókártyájáról szóló 98/376/EK ajánlásával összeegyeztethető szabályozást tartalmaz.
 
-[^42]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 805. pontja hatályon kívül helyezte, újonnan a 102/2011. (VI. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^43]: A 13. § (2) bekezdés b) pontja a 331/2011. (XII. 29.) Korm. rendelet 20. §-a, a 61/2012. (III. 30.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^44]: A 13. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 805. pontja hatályon kívül helyezte.
+[^44]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 805. pontja hatályon kívül helyezte, újonnan a 102/2011. (VI. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^45]: A 13. § (2) bekezdés b) pontja a 331/2011. (XII. 29.) Korm. rendelet 20. §-a, a 61/2012. (III. 30.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^46]: A 13. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 805. pontja hatályon kívül helyezte.
