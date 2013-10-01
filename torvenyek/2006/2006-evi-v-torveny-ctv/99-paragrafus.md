@@ -6,7 +6,7 @@
 
 (4) A végelszámoló az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, a végelszámolás alatt álló cég, valamint a hitelezők érdekeinek szem előtt tartásával köteles eljárni. A kötelezettségeinek megszegésével okozott kárért a polgári jogi felelősség általános szabályai szerint felel.
 
-(4a) Ha jogszabály rendelkezése alapján a végelszámolást a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző nonprofit gazdasági társaság végzi, a végelszámolási feladatok ellátására kijelölt személy nem lehet az, aki a végelszámolás alatt álló cégnél a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti felügyeleti biztosi tevékenységet látott, illetve lát el.
+(4a) Ha jogszabály rendelkezése alapján a végelszámolást a Magyar Nemzeti Bankról szóló törvényben (a továbbiakban: MNBtv.) meghatározott szervezetek felszámolását végző nonprofit gazdasági társaság végzi, a végelszámolási feladatok ellátására kijelölt személy nem lehet az, aki a végelszámolás alatt álló cégnél az MNBtv. szerinti felügyeleti biztosi tevékenységet látott, illetve lát el.
 
 (5) Ha a végelszámolás alatt álló cég felszámolás alá kerül, és megállapítható, hogy a végelszámoló alapos ok nélkül késlekedett a felszámolási eljárás kezdeményezésével, vagy nem tett meg mindent a hitelezők veszteségeinek csökkentése, illetve a környezeti károk mérséklése a kármentesítés érdekében vagy egyes hitelezőket mások rovására előnyben részesített, a felszámoló vagy a hitelezők keresetére a bíróság arra kötelezi a végelszámolót, hogy a cég vagyonához a károkozás összege mértékéhez igazodó tőke-hozzájárulást teljesítsen. A bíróság ebben az esetben a végelszámoló díját részben vagy egészben megvonhatja.
 

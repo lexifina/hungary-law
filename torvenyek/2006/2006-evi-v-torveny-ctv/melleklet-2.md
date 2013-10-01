@@ -64,7 +64,7 @@
 
 ## aa) az alapítási tervezet,
 
-## ab) a Pénzügyi Szervezetek Állami Felügyelete által jóváhagyott tájékoztató,
+## ab) a Magyar Nemzeti Bank által jóváhagyott tájékoztató,
 
 ## ac) a részvényjegyzési ív,
 
