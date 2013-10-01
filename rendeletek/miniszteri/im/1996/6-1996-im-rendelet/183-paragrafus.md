@@ -1,6 +1,6 @@
 ## Félbeszakítás összbüntetés esetén
 
-## 183. §[^166] Ha a bíróság a Be. 574. §-ának (3) bekezdése alapján összbüntetésbe foglalás céljából annak közlése végett keresi meg az elítéltet fogva tartó intézetet, hogy az elítélt az összbüntetési ítélet alapjául szolgáló szabadságvesztés büntetésekből mennyi időt töltött ki, az intézet soron kívül (rövid úton) teljesíti az adatszolgáltatást.
+## 183. §[^175] Ha a bíróság a Be. 574. §-ának (3) bekezdése alapján összbüntetésbe foglalás céljából annak közlése végett keresi meg az elítéltet fogva tartó intézetet, hogy az elítélt az összbüntetési ítélet alapjául szolgáló szabadságvesztés büntetésekből mennyi időt töltött ki, az intézet soron kívül (rövid úton) teljesíti az adatszolgáltatást.
 
 (2) Ha a bíróság a nem jogerős összbüntetési ítéletben az összbüntetés alapjául szolgáló szabadságvesztések végrehajtását félbeszakítja, az intézet haladéktalanul intézkedik az elítélt szabadítása iránt.
 
@@ -12,4 +12,4 @@ a) az elítélt feltételes szabadságra bocsátása esedékes, az intézet soro
 
 b) az elítélt nem bocsátható feltételes szabadságra, vagy a feltételes szabadságra bocsátása később esedékes, továbbá, ha a feltételes szabadságra bocsátást a bv. bíró nem engedélyezte, az intézet az elítéltet írásban felszólítja, hogy a büntetés hátralévő részének letöltésére a megjelölt napon jelentkezzék.
 
-[^166]: A 183. §-t a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 32/2007. (VI. 18.) IRM rendelet 3. §-a iktatta be.
+[^175]: A 183. §-t a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 32/2007. (VI. 18.) IRM rendelet 3. §-a iktatta be.

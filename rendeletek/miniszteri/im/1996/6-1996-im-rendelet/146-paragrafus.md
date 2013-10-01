@@ -1,4 +1,4 @@
-## 145. §[^127] A 47. § (8) bekezdése szerinti különleges biztonságú zárka berendezését, felszerelését és – a 47. § (2) bekezdésének hatálya alá tartozók kivételével – az elítéltnél tartható tárgyakat a 6. számú melléklet tartalmazza.
+## 145. §[^136] A 47. § (8) bekezdése szerinti különleges biztonságú zárka berendezését, felszerelését és – a 47. § (2) bekezdésének hatálya alá tartozók kivételével – az elítéltnél tartható tárgyakat a 6. számú melléklet tartalmazza.
 
 ## Egyéb helyiségek és létesítmények
 
@@ -26,4 +26,4 @@ f) a szabad levegőn való tartózkodásra, illetve a sportolásra alkalmas ter�
 
 (5) Az (1)–(4) bekezdésben megjelölt helyiségek és területek kialakításánál, berendezésénél, működtetésénél a vonatkozó jogszabályok rendelkezéseit alkalmazni kell.
 
-[^127]: A 145. § a 18/2002. (XI. 30.) IM rendelet 39. §-ával megállapított szöveg.
+[^136]: A 145. § a 18/2002. (XI. 30.) IM rendelet 39. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A csomag mindazokat a tárgyakat tartalmazhatja, amelyeket az elítélt engedéllyel magánál tarthat.
 
-(3)[^103] A csomag súlya az öt kg-ot nem haladhatja meg. Ha a csomag ruhaneműt, tisztasági szereket vagy gyógyászati segédeszközt tartalmaz, továbbá más indokolt esetben öt kg-ot meghaladó súlyú csomag átadása is engedélyezhető.
+(3)[^106] A csomag súlya az öt kg-ot nem haladhatja meg. Ha a csomag ruhaneműt, tisztasági szereket vagy gyógyászati segédeszközt tartalmaz, továbbá más indokolt esetben öt kg-ot meghaladó súlyú csomag átadása is engedélyezhető.
 
 (4) A csomag tartalmát az elítélt jelenlétében kell felbontani és ellenőrizni. A csomagban talált olyan tárgyakat, amelyeket az elítélt nem tarthat magánál, az elítélt letétjében kell elhelyezni, vagy – költségére – a feladónak vissza kell küldeni.
 
@@ -14,4 +14,4 @@
 
 (7) A parancsnok engedélyezheti, hogy a hozzátartozó a csomagot közvetlenül az intézetben adja át.
 
-[^103]: A 91. § (3) bekezdése a 41/2011. (XII. 30.) KIM rendelet 4. §-ával megállapított szöveg.
+[^106]: A 91. § (3) bekezdése a 41/2011. (XII. 30.) KIM rendelet 4. §-ával megállapított szöveg.

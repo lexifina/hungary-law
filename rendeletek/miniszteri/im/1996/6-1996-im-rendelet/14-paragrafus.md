@@ -2,7 +2,7 @@
 
 14. § (1) Ha a bíróság felhívására az elítélt az illetékes megyei (fővárosi) intézet hivatali idejében jelentkezik, az intézet
 
-a)[^14] haladéktalanul megkéri az illetékes bíróságtól a bírói értesítést, az ítéletkiadmányt, a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról, illetve közügyektől eltiltásról szóló értesítést;
+a)[^15] haladéktalanul megkéri az illetékes bíróságtól a bírói értesítést, az ítéletkiadmányt, a foglalkozástól eltiltásról, járművezetéstől eltiltásról, kitiltásról, sportrendezvények látogatásától való eltiltásról, kiutasításról, illetve közügyektől eltiltásról szóló értesítést;
 
 b) az elítéltet ellátja hitelezett utazási igazolvánnyal és útba indítja a végrehajtásra kijelölt intézetbe;
 
@@ -16,7 +16,7 @@ d) tájékoztatja az elítéltet a jelentkezési kötelezettségéről és a kö
 
 (4) Az elítélt nem indítható útba, és az intézetbe be kell fogadni, ha
 
-a)[^15] a várható szabadulásáig hátralévő idő a kilencven napot nem haladja meg;
+a)[^16] a várható szabadulásáig hátralévő idő a kilencven napot nem haladja meg;
 
 b) olyan betegségben szenved, amely az utazást akadályozza;
 
@@ -34,5 +34,5 @@ h) az utazást nem vállalja, vagy alapos okból feltételezhető, hogy a jelent
 
 i) a bíróság vagy az ügyész a szabadságvesztés ideiglenes foganatbavételét rendelte el.
 
-[^14]: A 14. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^15]: A 14. § (4) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 17. § a) pontja szerint módosított szöveg.
+[^15]: A 14. § (1) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^16]: A 14. § (4) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 17. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## II/A. Fejezet[^228]
+## II/A. Fejezet[^240]
 
 ## AZ ELZÁRÁS VÉGREHAJTÁSA
 
@@ -28,4 +28,4 @@ előterjesztést tesz a bv. bírónak az elzárás végrehajtását kizáró ok 
 
 (7) Ha az elzárást töltő elítélttel szemben szabadságvesztést, javítóintézeti nevelést vagy előzetes letartóztatást kell foganatba venni, az elzárás végrehajtását meg kell szakítani és e körülmények megszűnését követően azt – ha a végrehajtását kizáró ok nem következett be – folyamatosan folytatni kell.
 
-[^228]: A II/A. Fejezetet (232/A–232/C. §) a 9/2013. (VI. 29.) KIM rendelet 15. §-a iktatta be.
+[^240]: A II/A. Fejezetet (232/A–232/C. §) a 9/2013. (VI. 29.) KIM rendelet 15. §-a iktatta be.

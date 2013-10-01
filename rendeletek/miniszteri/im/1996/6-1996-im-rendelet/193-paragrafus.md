@@ -1,8 +1,8 @@
 ## 192. § Az elítéltet az intézetben a nyomozó hatóság, vagy hatósági ügyben eljáró más szerv a parancsnokkal való előzetes egyeztetés alapján hallgathatja ki.
 
-## Az elítélt kiadása[^176]
+## Az elítélt kiadása[^185]
 
-193. §[^177] (1)[^178] Az elítéltet az illetékes ügyész, illetve a nyomozó hatóságnak az illetékes ügyész engedélyét is tartalmazó írásbeli megkeresésére a parancsnok adja ki, nyomozási cselekmények lefolytatása, továbbá a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben meghatározott bűnügyi nyilvántartási adat mintavétele céljából.
+193. §[^186] (1)[^187] Az elítéltet az illetékes ügyész, illetve a nyomozó hatóságnak az illetékes ügyész engedélyét is tartalmazó írásbeli megkeresésére a parancsnok adja ki, nyomozási cselekmények lefolytatása, továbbá a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben meghatározott bűnügyi nyilvántartási adat mintavétele céljából.
 
 (2) Ha az elítélt kiadása a rendőrségi fogdán történő elhelyezéssel jár, úgy azt az illetékes ügyész a Be. 135. §-ának (2) bekezdése szerinti időtartamban engedélyezheti.
 
@@ -20,6 +20,6 @@ c) a kiadást – orvosi vélemény szerint – az elítélt egészségi állapo
 
 (6) A nyomozó hatóság az elítéltet az ügyész engedélye alapján – a parancsnokkal való előzetes egyeztetés szerint – az intézetben kihallgathatja, illetve ha az elítéltek ugyanabban az intézetben vannak fogvatartva, a nyomozó hatóság a szembesítést az intézetben is végrehajthatja. A nyomozó hatóság a fogvatartott intézetben levő érték-, illetve tárgyletétjéből lefoglalhat, illetve iratismertetést (Be. 193. §) tarthat. Az ügyész más nyomozási cselekmények intézetben történő elvégzésére is engedélyt adhat.
 
-[^176]: A 193. § előtti alcím a 18/2002. (XI. 30.) IM rendelet 51. §-ával megállapított szöveg.
-[^177]: A 193. § a 7/2005. (III. 24.) IM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 14. §-a alapján rendelkezéseit azokban az ügyekben kell alkalmazni, amelyekben a kiadás iránti megkeresés 2005. április 1-jét követően érkezik az intézetbe.
-[^178]: A 193. § (1) bekezdése a 9/2013. (VI. 29.) KIM rendelet 17. § b) pontja szerint módosított szöveg.
+[^185]: A 193. § előtti alcím a 18/2002. (XI. 30.) IM rendelet 51. §-ával megállapított szöveg.
+[^186]: A 193. § a 7/2005. (III. 24.) IM rendelet 8. §-ával megállapított szöveg, e módosító rendelet 14. §-a alapján rendelkezéseit azokban az ügyekben kell alkalmazni, amelyekben a kiadás iránti megkeresés 2005. április 1-jét követően érkezik az intézetbe.
+[^187]: A 193. § (1) bekezdése a 9/2013. (VI. 29.) KIM rendelet 17. § b) pontja szerint módosított szöveg.

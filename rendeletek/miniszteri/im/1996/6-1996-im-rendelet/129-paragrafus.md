@@ -10,8 +10,8 @@ a) konkrét feladathoz (célfeladat) kötött prémium,
 
 b) pénzbeli elismerés,
 
-c)[^120]
+c)[^129]
 
 d) tárgyjutalom
 
-[^120]: A 129. § (2) bekezdésének c) pontját a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^129]: A 129. § (2) bekezdésének c) pontját a 18/2002. (XI. 30.) IM rendelet 67. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
