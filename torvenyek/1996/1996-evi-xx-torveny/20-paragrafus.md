@@ -20,7 +20,7 @@ f) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivat
 
 g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, a családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, a hozzájárulások, támogatások, ellátások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 
-h) a Pénzügyi Szervezetek Állami Felügyelete és a magánnyugdíjpénztár a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX., továbbá a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvényben meghatározott feladatai ellátásához;
+h)
 
 i) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a rehabilitációs hatóság a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben, továbbá a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvényben meghatározott feladatai ellátásához;
 
