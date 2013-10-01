@@ -30,11 +30,11 @@
 
 ## 1.3. A pénzpiac működését érintő hatóságok és egyéb szervezetek
 
-## 1.3.1. Pénzügyi Szervezetek Állami Felügyeletének főbb feladatai, jogkörei
+## 1.3.1. Magyar Nemzeti Bank pénzügyi közvetítőrendszer felügyeletével kapcsolatos főbb feladatai, jogkörei
 
-## (Pénzügyi Szervezetek Állami Felügyeletének pénzpiaci közvetítőkre vonatkozó ajánlásai, útmutatói és jogi állásfoglalásai)
+## (pénzügyi közvetítőrendszer felügyeletét ellátó szerv pénzpiaci közvetítőkre vonatkozó ajánlásai, útmutatói és jogi állásfoglalásai)
 
-## 1.3.2. Magyar Nemzeti Bank főbb feladatai, jogkörei
+## 1.3.2. Magyar Nemzeti Bank jegybanki funkciójával kapcsolatos főbb feladatai, jogkörei
 
 ## 1.3.3. Gazdasági Versenyhivatal (a pénzpiacot érintő versenyszabályok lényege)
 
@@ -272,4 +272,6 @@
 
 ## 6.8. Faktorálás
 
-2. melléklet a 18/2010. (IV. 29.) PM rendelethez
+2. melléklet a 18/2010. (IV. 29.) PM rendelethez[^22]
+
+[^22]: A 2. melléklet a 40/2013. (IX. 30.) NGM rendelet 12. § e) pontja szerint módosított szöveg.

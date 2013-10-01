@@ -1,4 +1,6 @@
-3. § (1) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Hatóság) jegyzéket vezet a 2. § (3) bekezdésben meghatározott képzést és vizsgáztatást végző képző szervekről.
+## szakképesítés, vagy részszakképesítés oktatására jogosult, a felnőttképzésről szóló törvény alapján akkreditált intézmény végez, vagy amelyet Magyarország területén pénzügyi szolgáltatási tevékenységek végzésére jogosult intézmény a saját és a Hpt. 2. számú melléklet III. rész 36. pontja szerint vele egy csoportba tartozó társaságok munkavállalói, közvetítői számára nyújt.
+
+3. § (1)[^2] A Magyar Nemzeti Bank (a továbbiakban: Hatóság) jegyzéket vezet a 2. § (3) bekezdésben meghatározott képzést és vizsgáztatást végző képző szervekről.
 
 (2) A Hatóság által vezetett jegyzék azokat a szerveket tartalmazza, amelyek
 
@@ -24,8 +26,9 @@ c) a jegyzékbe való felvétel időpontját és
 
 d) a jegyzékből való törlés időpontját és okát.
 
-(4)[^2] A képző szerv a (2) bekezdésben foglalt feltételek és a (3) bekezdés a) pontjában foglaltak változását a Hatóságnak a változástól számított 8 napon belül bejelenti.
+(4)[^3] A képző szerv a (2) bekezdésben foglalt feltételek és a (3) bekezdés a) pontjában foglaltak változását a Hatóságnak a változástól számított 8 napon belül bejelenti.
 
 (5) A képző szerv jegyzékben foglalt adatait a tevékenység ellenőrzése és egyéb hatósági, bírósági eljárásban történő felhasználás céljából a Hatóság a képző szerv jegyzékből való törlését követően 5 évig megőrzi.
 
-[^2]: A 3. § (4) bekezdése a 26/2010. (XII. 31.) NGM rendelet 13. §-a szerint módosított szöveg. E módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^2]: A 3. § (1) bekezdése a 40/2013. (IX. 30.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (4) bekezdése a 26/2010. (XII. 31.) NGM rendelet 13. §-a szerint módosított szöveg. E módosító rendelet 15. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

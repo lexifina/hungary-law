@@ -1,6 +1,6 @@
 ## Tanúsítvány a pénzügyi szolgáltatás közvetítői hatósági vizsgáról
 
-## Pénzügyi Szervezetek Állami Felügyelete Tanúsítvány száma:
+## Magyar Nemzeti Bank Tanúsítvány száma:
 
 ## Vizsgázó neve:
 
@@ -20,7 +20,7 @@
 
 ## aláírás
 
-3. melléklet a 18/2010. (IV. 29.) PM rendelethez[^19]
+3. melléklet a 18/2010. (IV. 29.) PM rendelethez[^23]
 
 Jelentkezési lap a hatósági vizsgára
 
@@ -44,7 +44,7 @@ A tervezett hatósági vizsga helyszíne:
 
 Megismételt vizsga esetén az előző, sikertelen vizsga helyszíne és időpontja:
 
-Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak feltételeit elfogadom, valamint hozzájárulok a fenti adataim Pénzügyi Szervezetek Állami Felügyelete általi kezeléséhez.
+Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak feltételeit elfogadom, valamint hozzájárulok a fenti adataim Magyar Nemzeti Bank általi kezeléséhez.
 
 ..........................................., 20 .................
 
@@ -52,4 +52,4 @@ Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak felt�
 
 aláírás
 
-[^19]: A 3. melléklet a 19/2010. (XII. 31.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^23]: A 3. melléklet a 19/2010. (XII. 31.) NGM rendelet 4. §-a, a 40/2013. (IX. 30.) NGM rendelet 12. § f) pontja szerint módosított szöveg.
