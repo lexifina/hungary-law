@@ -1,6 +1,6 @@
 ## Intézkedések
 
-153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazza:
+153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – az MNB a következő intézkedéseket alkalmazza:
 
 a) a vezető állású személlyel folytatott tárgyalás keretében a pénzügyi intézményt felhívhatja, hogy tegye meg a szükséges intézkedéseket
 
@@ -26,7 +26,7 @@ f) határozattal megállapítja a jogsértés tényét, s egyben elrendeli a jog
 
 g) kötelezheti a hitelintézetet az irányítási rendszerére, vállalatirányítási rendszerére és kockázatkezelési rendszerére, valamint a belső tőkemegfelelés értékelési folyamatára vonatkozó szabályzatok, eljárások, stratégiák és módszerek megerősítésére.
 
-(2) A 151. § (2) és (6) bekezdése szerinti esetekben a Felügyelet a következő intézkedéseket alkalmazza:
+(2) A 151. § (2) és (6) bekezdése szerinti esetekben az MNB a következő intézkedéseket alkalmazza:
 
 a) a pénzügyi intézményhez – egy vagy több – helyszíni ellenőrt rendelhet ki;
 
@@ -68,7 +68,7 @@ c) megtilthatja, korlátozhatja vagy feltételhez kötheti
 
 d) kötelezheti a hitelintézetet, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a hitelintézet prudenciális követelményeknek való megfelelésével.
 
-(2a) A (2) bekezdés b) pont 9. alpontja szerinti többlettőke-követelmény mértékének meghatározásakor a Felügyeletnek figyelembe kell vennie:
+(2a) A (2) bekezdés b) pont 9. alpontja szerinti többlettőke-követelmény mértékének meghatározásakor az MNB-nek figyelembe kell vennie:
 
 a) a hitelintézet belső tőkemegfelelés értékelési folyamatának [76/K. §] mennyiségi és minőségi szempontjait,
 
@@ -76,4 +76,4 @@ b) a hitelintézet irányítási és kockázatkezelési rendszerének [13/D. §]
 
 c) a hitelintézetnél végrehajtott felügyeleti felülvizsgálat [145/A. §] eredményét.
 
-(3) Ha a fióktelep formájában működő hitelintézet eszköz fenntartási mutatója száz százalék alá csökken, a Felügyelet kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszköz fenntartási mutatóra vonatkozó előírásoknak.
+(3) Ha a fióktelep formájában működő hitelintézet eszköz fenntartási mutatója száz százalék alá csökken, az MNB kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszköz fenntartási mutatóra vonatkozó előírásoknak.

@@ -1,4 +1,4 @@
-154. § A Felügyelet által a 153. § (2) bekezdésének a) pontja alapján kirendelt helyszíni ellenőr jogosult
+154. § Az MNB által a 153. § (2) bekezdésének a) pontja alapján kirendelt helyszíni ellenőr jogosult
 
 a) a 146. § (3) bekezdésben foglaltaknak megfelelően bármely ellenőrzési tevékenység ellátására;
 

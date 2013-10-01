@@ -30,6 +30,6 @@ kell alkalmazni.
 
 (6) Az (5) bekezdésben meghatározottakon túl biztonságos, alacsony kockázatú eszköz az ÁÉKBV olyan kollektív befektetési értékpapírja, amely kizárólag az (5) bekezdésben meghatározott eszközbe fektet.
 
-(7) Az elektronikuspénz-kibocsátó intézménynek előzetesen tájékoztatnia kell a Felügyeletet a kibocsátott elektronikus pénz ellenében átvett pénzeszközök védelme érdekében végrehajtott intézkedésekben bekövetkező minden jelentős változásról.
+(7) Az elektronikuspénz-kibocsátó intézménynek előzetesen tájékoztatnia kell az MNB-t a kibocsátott elektronikus pénz ellenében átvett pénzeszközök védelme érdekében végrehajtott intézkedésekben bekövetkező minden jelentős változásról.
 
 (8) Az elektronikuspénz-kibocsátó intézmény által pénzforgalmi szolgáltatás nyújtása érdekében átvett pénzeszközre a 87/L. §-ban foglaltakat kell alkalmazni.

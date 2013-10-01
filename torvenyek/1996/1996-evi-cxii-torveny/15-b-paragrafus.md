@@ -1,4 +1,4 @@
-15/B. § A Felügyelet engedélye szükséges elektronikuspénz-kibocsátó intézmény
+15/B. § Az MNB engedélye szükséges elektronikuspénz-kibocsátó intézmény
 
 a) elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységének végzéséhez,
 

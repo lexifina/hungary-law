@@ -1,6 +1,6 @@
 ## A felügyeleti díj
 
-139/A. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és ezen intézmények magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás, a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
+139/A. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és ezen intézmények magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás, a független közvetítő és a bankképviselet az MNB részére felügyeleti díjat fizet.
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint az (5)–(9) bekezdés szerint számított változó díj összege.
 

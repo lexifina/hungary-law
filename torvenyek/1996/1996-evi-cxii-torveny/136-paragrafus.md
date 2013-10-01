@@ -8,8 +8,8 @@ c) az előírt és szükséges tartalékok képzésének megtörténtét,
 
 d) a szavatoló tőkére, a tőkemegfelelésre, folyamatos fizetőképességre, valamint az egyes pénzügyi szolgáltatásokra vonatkozó szabályok betartását,
 
-e) az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint az MNB tv., a pénzforgalomról szóló jogszabályok, a devizajogszabályok, illetve felügyeleti és jegybanki határozatok betartását, valamint
+e) az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint az MNB tv., tevékenységére vonatkozó egyéb jogszabályok, a devizajogszabályok, illetve felügyeleti és jegybanki határozatok betartását, valamint
 
 f) a megfelelő ellenőrzési rendszerek működését.
 
-(2) A könyvvizsgálónak az (1) bekezdésben foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az igazgatóságnak, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek, valamint – a szövetkezeti hitelintézet könyvvizsgálója kivételével – az MNB-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
+(2) A könyvvizsgáló külön kiegészítő jelentésben rögzíti az (1) bekezdésben foglaltakra vonatkozó megállapításait, és azt legkésőbb a tárgyévet követő év május 31-éig megküldi az igazgatóságnak, az ügyvezetőnek, a felügyelő bizottság elnökének és az MNB-nek.

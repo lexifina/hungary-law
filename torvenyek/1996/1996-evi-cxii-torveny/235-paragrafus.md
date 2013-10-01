@@ -2,17 +2,17 @@
 
 a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
 
-b) a hitelintézet likviditásának minimális szintjére,
+b)
 
 c) az egységesített betéti kamatláb mutató számítására és közzétételére,
 
-d) a hitelintézet devizapozícióbeli lejárati összhangjára,
+d)
 
 e) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott pénzügyi szolgáltatási, illetőleg kiegészítő pénzügyi szolgáltatási tevékenységek folytatásához szükséges személyi és tárgyi feltételekre,
 
 f) a kereskedési könyvben nyilvántartott pozíció- és nagykockázatvállalások tőkekövetelményére, valamint a tevékenység egészében meglévő devizaárfolyam kockázat és árukockázat miatt felmerülő piaci kockázat tőkekövetelményére,
 
-g) a hitelezési és a felhígulási kockázathoz kapcsolódó kitettség, a kitettség érték, a kockázattal súlyozott kitettség érték, a nemteljesítési valószínűség, a nemteljesítéskori veszteségráta, a hitelegyenértékesítési tényező, a várható veszteség meghatározására, a hitelezési és felhígulási kockázat tőkekövetelményére,
+g) a hitelezési és a felhígulási kockázathoz kapcsolódó kitettség, a kitettség érték, kockázattal súlyozott kitettség érték – ide nem értve a lakóingatlanok és kereskedelmi ingatlanok kockázati súlyát –, a nemteljesítési valószínűség, a nemteljesítéskori veszteségráta, a hitelegyenértékesítési tényező, a várható veszteség meghatározására, a hitelezési és felhígulási kockázat tőkekövetelményére,
 
 h) az elismert külső hitelminősítő szervezettel szembeni követelményekre, és az elismert külső hitelminősítő szervezet és exporthitel-ügynökség hitelminősítésének elismerésére,
 
@@ -38,15 +38,19 @@ vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben állapítsa meg:
 
-a)
+a) a hitelintézetek befektetési szabályzatára,
 
 b) a kintlevőségek, a mérlegen kívüli tételek és a fedezetek minősítésének, illetőleg értékelésének szempontjaira,
 
-c)–e)
+c) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
+
+d) a belső ellenőrzési rendszerekre, eljárásokra,
+
+e)
 
 f)–g)
 
-h) a Felügyelet közvetítői hatósági képzéssel összefüggő feladataira vonatkozó szabályait, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
+h) a közvetítői hatósági képzésre, a hatósági képzés során szerzett, a pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 
 i)
 
@@ -70,18 +74,6 @@ r)
 
 vonatkozó részletes szabályokat.
 
-(3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(3) Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 
-a) a hitelintézetek befektetési szabályzatára,
-
-b) a belső ellenőrzési rendszerekre, eljárásokra
-
-vonatkozó részletes szabályokat,
-
-c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
-
-d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
-
-e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére.
-
-(4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(4)

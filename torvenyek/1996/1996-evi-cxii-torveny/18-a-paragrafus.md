@@ -36,7 +36,7 @@ p) a 6/B. §-ban, illetve a 6/D. §-ban foglalt hitel- és pénzkölcsön nyújt
 
 q) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak,
 
-r) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+r) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (2) Az (1) bekezdés d), e), h)–j) pontjaihoz kapcsolódóan a kérelmezőnek mellékelnie kell azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzforgalmi szolgáltatását igénybe vevők, elektronikuspénz-kibocsátó intézmény esetében az elektronikuspénz-birtokosok érdekeinek védelmét, valamint a pénzforgalmi szolgáltatások végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
 
@@ -60,10 +60,10 @@ h) nem természetes személy tulajdonos esetén nyilatkozatot arról, hogy milye
 
 i) a kérelmezővel szoros kapcsolatban álló személy nyilatkozatát arról, hogy a szoros kapcsolatban álló személy, vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend lehetővé teszi a felügyeleti feladatok ellátását,
 
-j) a tulajdonos teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+j) a tulajdonos teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (4) A pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátásra jogosító engedély kiadásának feltételeként nyilatkozatot kell adni arról, hogy a pénzforgalmi, illetve elektronikuspénz-kibocsátó intézmény irányítása Magyarország területén létesített főirodában történik.
 
-(5) Ha a kérelmező az (1) bekezdés m) pontjában, illetve a (3) bekezdés c) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
+(5) Ha a kérelmező az (1) bekezdés m) pontjában, illetve a (3) bekezdés c) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, az MNB megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
 
-(6) Ha a kérelmező az (1) bekezdés l) és o) pontjában, illetve a (3) bekezdés e) és f) pontjában meghatározott adatokat nem mellékeli, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
+(6) Ha a kérelmező az (1) bekezdés l) és o) pontjában, illetve a (3) bekezdés e) és f) pontjában meghatározott adatokat nem mellékeli, az MNB adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.

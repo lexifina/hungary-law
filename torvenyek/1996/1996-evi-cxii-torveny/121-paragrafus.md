@@ -12,7 +12,7 @@
 
 (6) Ha az adott hitelintézet olyan kockázatos tevékenységet folytat, amely a szabályzat szerint indokolja az emelést, az Alap növelheti a hitelintézet által a tárgyév során fizetendő díjat. Az emelés előtt az Alap
 
-a) véleményt kér a Felügyelettől és az MNB-től;
+a) véleményt kér az MNB-től;
 
 b) módot ad a hitelintézetnek észrevételei megtételére.
 

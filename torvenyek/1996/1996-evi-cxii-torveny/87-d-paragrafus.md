@@ -20,6 +20,6 @@ b) a 9. §-ban – az engedélyezés feltételeként – előírt legkisebb indu
 
 összege közül a magasabb érték alá.
 
-(2) Az (1) bekezdés a) pontjától eltérően a Felügyelet a 87/K. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő.
+(2) Az (1) bekezdés a) pontjától eltérően az MNB a 87/K. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő.
 
 (3) A pénzforgalmi intézmény szavatoló tőkéjének meghatározására, kiszámítására az 5. számú mellékletet kell megfelelően alkalmazni.

@@ -1,4 +1,4 @@
-188. § (1) A Felügyelet ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet a közvetítőkről és a közvetítői alvállalkozókról. A Felügyelet a nyilvántartásban a közvetítők és a közvetítői alvállalkozók következő adatait kezeli:
+188. § (1) Az MNB ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet a közvetítőkről és a közvetítői alvállalkozókról. Az MNB a nyilvántartásban a közvetítők és a közvetítői alvállalkozók következő adatait kezeli:
 
 a) a nevét, székhelyét,
 
@@ -20,6 +20,6 @@ ha) a tisztségét,
 
 hb) a 3. számú melléklet I. Fejezetében meghatározott azonosító adatai közül a vezető állású személy nevét, születési helyét, idejét és anyja nevét.
 
-(2) A Felügyelet az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
+(2) Az MNB az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
 
-(3) Az (1) bekezdés a)–g) pontja szerinti adatot, továbbá a vezető állású személy nevét és az (1) bekezdés h) pont ha) alpontja szerinti adatát a Felügyelet a honlapján bárki számára elérhetően, napra készen közzéteszi.
+(3) Az (1) bekezdés a)–g) pontja szerinti adatot, továbbá a vezető állású személy nevét és az (1) bekezdés h) pont ha) alpontja szerinti adatát az MNB a honlapján bárki számára elérhetően, napra készen közzéteszi.

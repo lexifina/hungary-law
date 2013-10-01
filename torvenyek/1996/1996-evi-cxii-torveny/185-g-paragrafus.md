@@ -8,6 +8,6 @@
 
 (5) Minden olyan hitelező, akinek (amelynek) állandó lakóhelye, székhelye, telephelye az Európai Unió másik tagállamában található, követelését magyar nyelven köteles benyújtani. Ezen túlmenően követelését saját tagállamának hivatalos nyelvén is benyújthatja, azzal a feltétellel, hogy beadványán a ,,Követelés benyújtása'' címet magyar nyelven kell feltüntetni.
 
-(6) A végelszámoló vagy a felszámoló köteles rendszeresen tájékoztatni a Felügyeletet és a hitelezőket a végelszámolás vagy a felszámolás helyzetéről.
+(6) A végelszámoló vagy a felszámoló köteles rendszeresen tájékoztatni az MNB-t és a hitelezőket a végelszámolás vagy a felszámolás helyzetéről.
 
-(7) A Felügyelet az Európai Unió más tagállamai felügyeleti hatóságainak megkeresésére köteles tájékoztatást adni a végelszámolás vagy a felszámolás helyzetéről.
+(7) Az MNB az Európai Unió más tagállamai felügyeleti hatóságainak megkeresésére köteles tájékoztatást adni a végelszámolás vagy a felszámolás helyzetéről.

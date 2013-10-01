@@ -14,7 +14,7 @@ e) külföldi székhelyű kérelmező esetében nyilatkozatot a kérelmező kéz
 
 f) pénzügyi vállalkozás esetében annak igazolását, hogy a vállalkozás rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel, valamint a 18. § (2) bekezdés d)–f), h) és k)–l) pontjában foglaltakat;
 
-g) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja;
+g) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt az MNB rendelkezésére bocsátja;
 
 h) az összevont alapú vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá tartozó hitelintézet esetében a hitelintézettel szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez, valamint továbbításához.
 
@@ -36,7 +36,7 @@ g) nem természetes személy kérelmező esetén a tulajdonosi szerkezetének r�
 
 h) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
 
-i) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+i) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -52,6 +52,6 @@ b) a középtávú – az első három évre vonatkozó – üzleti tervet,
 
 c) a 18. § (2) bekezdés f) és h) pontjában foglaltakat,
 
-d) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a felügyelete érdekében szükséges adatot, tényt, információt, megoldást a Felügyelet rendelkezésére bocsátja
+d) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a felügyelete érdekében szükséges adatot, tényt, információt, megoldást az MNB rendelkezésére bocsátja
 
 (7) Alapítási engedély alapján a hitelintézet a banküzem létesítésével kapcsolatos tevékenységet végezhet.

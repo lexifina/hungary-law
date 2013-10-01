@@ -1,1 +1,1 @@
-162. § A Felügyelet a 153. §-ban, valamint a 157–160. §-ban meghatározott intézkedéseket, illetőleg kivételes intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten is alkalmazhatja.
+162. § Az MNB a 153. §-ban, valamint a 157–160. §-ban meghatározott intézkedéseket, illetőleg kivételes intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten is alkalmazhatja.

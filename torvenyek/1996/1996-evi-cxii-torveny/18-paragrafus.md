@@ -1,8 +1,8 @@
 ## A tevékenységi (működési) engedély iránti kérelem
 
-18. § (1) A hitelintézet működésének – pénzügyi és kiegészítő pénzügyi szolgáltatási tevékenységének – megkezdéséhez a Felügyelet engedélye szükséges.
+18. § (1) A hitelintézet működésének – pénzügyi és kiegészítő pénzügyi szolgáltatási tevékenységének – megkezdéséhez az MNB engedélye szükséges.
 
-(2) A hitelintézetnek a tevékenységi engedély megadása iránti kérelméhez a következőket kell a Felügyelethez benyújtani:
+(2) A hitelintézetnek a tevékenységi engedély megadása iránti kérelméhez a következőket kell az MNB-hez benyújtani:
 
 a) az induló tőkének a 10. § (1) bekezdése szerinti teljes befizetésére vonatkozó igazolást,
 
@@ -34,7 +34,7 @@ n) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyo
 
 o) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét, illetőleg a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza.
 
-p) harmadik országbeli hitelintézet fióktelepe esetén, ha az a Felügyelet 97. § (3) bekezdés szerinti engedélye alapján nem csatlakozik az Országos Betétbiztosítási Alaphoz,
+p) harmadik országbeli hitelintézet fióktelepe esetén, ha az az MNB 97. § (3) bekezdés szerinti engedélye alapján nem csatlakozik az Országos Betétbiztosítási Alaphoz,
 
 1. az ügyfelek – biztosított betéti formákról történő – magyar nyelvű tájékoztatására vonatkozó kötelezettségvállalását,
 

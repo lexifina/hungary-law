@@ -38,7 +38,7 @@ a) a jelentését megküldi
 
 2. fióktelep esetén az alapító felügyelő bizottságának és igazgatóságának vagy ezek megfelelő szervének; továbbá
 
-b) gondoskodik arról, hogy szükség esetén jelentése a Felügyelet rendelkezésére álljon.
+b) gondoskodik arról, hogy szükség esetén jelentése az MNB rendelkezésére álljon.
 
 (9) A belső ellenőrzési szervezeti egység vezetésével, illetőleg ha az intézmény, pénzforgalmi intézmény csak egy belső ellenőrt alkalmaz, akkor a belső ellenőrzési feladatok ellátásával csak olyan személy bízható meg, aki
 

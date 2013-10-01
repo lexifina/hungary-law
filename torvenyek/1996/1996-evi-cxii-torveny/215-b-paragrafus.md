@@ -22,9 +22,9 @@ fogadja.
 
 (7) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
 
-(8) A panasz elutasítása esetén a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény válaszában tájékoztatja az ügyfelet arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénzügyi intézménynek, a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény válaszában tájékoztatja az ügyfelet arról, hogy az MNB tv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén MNB-nél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénzügyi intézménynek, a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
-(9) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
+(9) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt az MNB kérésére bemutatja.
 
 (10) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (13) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról
 
@@ -46,4 +46,4 @@ e) a panasz megválaszolásának időpontját.
 
 (14) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
 
-(15) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
+(15) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és az MNB-nek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.

@@ -40,4 +40,4 @@ c) egyéb tételbe
 
 tartozó kitettségi osztály esetében az ügyletet, az annak alapjául szolgáló eszközöket, vagy mindkettőt az ügylet gazdasági tartalma és az ügylet szerkezetéből eredő kockázatok felmérésével értékeli.
 
-(7) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3) bekezdésben foglalt korlátozást, a Felügyelet – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.
+(7) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3) bekezdésben foglalt korlátozást, az MNB – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.

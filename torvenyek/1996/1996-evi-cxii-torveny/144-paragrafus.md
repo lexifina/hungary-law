@@ -1,4 +1,4 @@
-144. § A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
+144. § A pénzügyi intézmény számára az MNB – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
 
 a) a likviditás,
 

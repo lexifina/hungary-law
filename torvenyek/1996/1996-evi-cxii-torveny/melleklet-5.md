@@ -52,7 +52,7 @@ c) eredménytartalék, ha negatív,
 
 d) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatolótőke-számítás esetén az évközi negatív eredmény,
 
-e) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalékhiányt, illetve az el nem számolt értékvesztést is), amennyiben a hiány a szavatoló tőkéből más jogcímen nem kerül levonásra,
+e) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy az MNB vizsgálata során feltárt céltartalékhiányt, illetve az el nem számolt értékvesztést is), amennyiben a hiány a szavatoló tőkéből más jogcímen nem kerül levonásra,
 
 f) a vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének a 14. pont szerinti korlátozások miatt figyelembe nem vehető része,
 
@@ -82,19 +82,19 @@ f) a hitelintézet a jegyzési dokumentáció alapján bármikor jogosult arra, 
 
 g) a jegyzési dokumentációban szereplő osztalék, részesedés, kamat és egyéb kifizetési feltételek olyanok, hogy azok nem akadályozzák a hitelintézet szükség esetén történő feltőkésítését,
 
-h) a Felügyelet a részvény és részjegy visszaváltásához szükséges előzetes hozzájáruláshoz előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető tőkeelem biztosításával a szavatoló tőke felemelését,
+h) az MNB a részvény és részjegy visszaváltásához szükséges előzetes hozzájáruláshoz előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető tőkeelem biztosításával a szavatoló tőke felemelését,
 
-i) a Felügyelet törölheti a részvény és részjegy visszaváltását, osztalék, részesedés vagy kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
+i) az MNB törölheti a részvény és részjegy visszaváltását, osztalék, részesedés vagy kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-j) a Felügyelet engedélyezheti a visszaváltást, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen részvények adóügyi vagy szabályozói minősítése,
+j) az MNB engedélyezheti a visszaváltást, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen részvények adóügyi vagy szabályozói minősítése,
 
 k) a hitelintézet köteles törölni az osztalék-, részesedés-, vagy kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-l) a Felügyelet előírhatja az osztalék-, részesedés-, vagy kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
+l) az MNB előírhatja az osztalék-, részesedés-, vagy kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást az MNB további feltételekhez kötheti,
 
-m) a Felügyelet az i) és l) alpontban foglalt intézkedéseivel egyidejűleg előírhatja a részvénynek és részjegynek a 3. pont a) alpontja szerinti részvénnyel vagy részjeggyel való helyettesítést.
+m) az MNB az i) és l) alpontban foglalt intézkedéseivel egyidejűleg előírhatja a részvénynek és részjegynek a 3. pont a) alpontja szerinti részvénnyel vagy részjeggyel való helyettesítést.
 
-8. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+8. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok MNB-nek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
 
 9. Ha a hitelintézet a jegyzett tőke leszállításáról dönt, a hitelintézetnek a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe vennie.
 
@@ -106,17 +106,17 @@ a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára a
 
 b) a kölcsönszerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet folyamatos működése mellett is a hitelintézet adósságának rendezésébe, és a kölcsönt nyújtó követelése felszámolási eljárás esetén a törlesztések sorrendjében a járulékos kölcsöntőke után áll,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan vagy eredetileg legalább 30 éves futamidejű, kizárólag a Felügyelet engedélyével, legalább 5 év futamidő elteltét követően mondható fel, törleszthető, váltható vagy vásárolható vissza,
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan vagy eredetileg legalább 30 éves futamidejű, kizárólag az MNB engedélyével, legalább 5 év futamidő elteltét követően mondható fel, törleszthető, váltható vagy vásárolható vissza,
 
 d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok tartalmazhatnak egy vagy több visszaváltási opciót, melynek lehívása kizárólag a hitelintézet döntésétől függ,
 
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt az MNB engedélyezi,
 
-f) a Felügyelet a kölcsön felmondásához, az értékpapír visszaváltásához és visszavásárlásához szükséges előzetes hozzájárulás esetén előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető kölcsöntőke vagy jegyzett tőke biztosításával a szavatoló tőke felemelését,
+f) az MNB a kölcsön felmondásához, az értékpapír visszaváltásához és visszavásárlásához szükséges előzetes hozzájárulás esetén előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető kölcsöntőke vagy jegyzett tőke biztosításával a szavatoló tőke felemelését,
 
-g) a Felügyelet törölheti a kölcsön felmondását, értékpapír visszaváltását, visszavásárlását, kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
+g) az MNB törölheti a kölcsön felmondását, értékpapír visszaváltását, visszavásárlását, kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
 
-h) a Felügyelet engedélyezheti a lejárattal rendelkező vagy a lejárat nélküli kölcsönök lejárat előtti visszaváltását, visszavásárlását, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen kölcsönök adóügyi vagy szabályozói minősítése,
+h) az MNB engedélyezheti a lejárattal rendelkező vagy a lejárat nélküli kölcsönök lejárat előtti visszaváltását, visszavásárlását, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen kölcsönök adóügyi vagy szabályozói minősítése,
 
 i) amennyiben egy határozatlan futamidejű kölcsön, vagy hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve értékpapírban foglalt jogok mérsékelt ösztönzést tartalmaznak a visszaváltásra vagy visszavásárlásra, akkor ilyen tőketörlesztés a futamidő első 10 évében nem lehetséges,
 
@@ -126,7 +126,7 @@ k) a hitelintézet a kamatfizetést törölheti,
 
 l) a hitelintézet köteles törölni a kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
 
-m) a Felügyelet előírhatja a kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
+m) az MNB előírhatja a kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást az MNB további feltételekhez kötheti,
 
 n) ha egy adott évben a k)–m) alpontokban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
 
@@ -134,7 +134,7 @@ o) ha a hitelintézet a kölcsön alapján valamely fizetési kötelezettségén
 
 p) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
 
-q) a Felügyelet a g) és m) alpontban foglalt intézkedéseivel egyidejűleg előírhatja az alapvető kölcsöntőke 3. pont a) alpontja szerinti részvénnyel való helyettesítését.
+q) az MNB a g) és m) alpontban foglalt intézkedéseivel egyidejűleg előírhatja az alapvető kölcsöntőke 3. pont a) alpontja szerinti részvénnyel való helyettesítését.
 
 12. a) Amennyiben a hitelintézet több alapvető, illetve járulékos kölcsöntőkét bocsátott ki, a kölcsöntőke tulajdonosai számára megfelelő tájékoztatást kell adnia a kölcsöntőke adósságrendezésbe való bevonásának lehetőségéről, az adott kölcsöntőke elem kielégítési sorrendben elfoglalt helyéről, valamint a különböző kibocsátású kölcsöntőkék egymáshoz viszonyított helyéről az adósságbevonási, illetve -kielégítési sorrendben.
 
@@ -144,7 +144,7 @@ b) Ha az alapvető és járulékos kölcsöntőke különleges célú gazdasági
 
 14. A vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének az alapvető tőkébe történő együttes beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
 
-a) az alapvető tőke legfeljebb 50%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely kötelezően olyan részvényre vagy részjegyre váltandó a kibocsátáskor meghatározott átváltási mechanizmus szerint a hitelintézet pénzügyi és tőkehelyzetét veszélyeztető esemény bekövetkezése esetén, vagy ha ezt a Felügyelet előírja, amely a 3. pont a) alpontja alapján figyelembe vehető, és megfelel a 6. pontban foglalt feltételeknek,
+a) az alapvető tőke legfeljebb 50%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely kötelezően olyan részvényre vagy részjegyre váltandó a kibocsátáskor meghatározott átváltási mechanizmus szerint a hitelintézet pénzügyi és tőkehelyzetét veszélyeztető esemény bekövetkezése esetén, vagy ha ezt az MNB előírja, amely a 3. pont a) alpontja alapján figyelembe vehető, és megfelel a 6. pontban foglalt feltételeknek,
 
 b) az alapvető tőke együttesen legfeljebb 35%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely határozatlan futamidejű, és amelyhez nem kapcsolódik visszaváltásra vagy visszavásárlásra ösztönző rendelkezés, de az a) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át,
 
@@ -182,11 +182,11 @@ a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára a
 
 b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek, valamint az alapvető és járulékos kölcsöntőkenyújtók előtti legutolsó helyen áll,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha az MNB engedélyezi a korábbi visszafizetést,
 
 d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmaznak, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
 
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt az MNB engedélyezi,
 
 f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
 

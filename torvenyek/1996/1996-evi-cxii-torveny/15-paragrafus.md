@@ -1,4 +1,4 @@
-15. § (1) A Felügyelet engedélye szükséges a (2) bekezdésben foglalt eltérésekkel a pénzügyi vállalkozás
+15. § (1) Az MNB engedélye szükséges a (2) bekezdésben foglalt eltérésekkel a pénzügyi vállalkozás
 
 a) alapításához,
 
@@ -12,7 +12,7 @@ e) minősített befolyásának megszerzéséhez, illetőleg a minősített befol
 
 f) pénzügyi szolgáltatási tevékenységének kiemelt közvetítő vagy többes kiemelt közvetítő igénybevételével történő végzéséhez.
 
-(2) A Felügyelet engedélye szükséges a fióktelep formájában működő pénzügyi vállalkozás
+(2) Az MNB engedélye szükséges a fióktelep formájában működő pénzügyi vállalkozás
 
 a) alapításához,
 
@@ -36,7 +36,7 @@ b) tevékenységét abban a tagállamban végzi, ahol a székhelye van,
 
 c) az anyavállalat a szavazati jog legalább kilencven százalékát gyakorolja,
 
-d) az anyavállalat a Felügyeletnek bemutatja a székhely szerinti állam illetékes felügyeleti hatósága igazolását arról, hogy a pénzügyi vállalkozás irányítását óvatos és körültekintő módon látja el,
+d) az anyavállalat az MNB-nek bemutatja a székhely szerinti állam illetékes felügyeleti hatósága igazolását arról, hogy a pénzügyi vállalkozás irányítását óvatos és körültekintő módon látja el,
 
 e) az anyavállalat – az illetékes felügyeleti hatósága hozzájárulásával – egyetemleges felelősséget vállal a pénzügyi vállalkozás kötelezettségéért, és
 

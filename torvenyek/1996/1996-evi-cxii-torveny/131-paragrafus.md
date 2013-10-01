@@ -12,7 +12,7 @@
 
 a) tegye lehetővé a pénzügyi intézmény belső ellenőrzését,
 
-b) biztosítsa a gondos és megbízható irányítást, vezetést, ideértve a vezető állású személyek tevékenységének a megítélését, valamint a tulajdonosok, a könyvvizsgáló, a Felügyelet és az MNB által történő ellenőrzést, továbbá segítse a pénzügyi intézményt abban, hogy eleget tegyen a jogszabályokban és a szerződésekben előírt kötelezettségek teljesítésének.
+b) biztosítsa a gondos és megbízható irányítást, vezetést, ideértve a vezető állású személyek tevékenységének a megítélését, valamint a tulajdonosok, a könyvvizsgáló, az MNB által történő ellenőrzést, továbbá segítse a pénzügyi intézményt abban, hogy eleget tegyen a jogszabályokban és a szerződésekben előírt kötelezettségek teljesítésének.
 
 (3) Az (1)–(2) bekezdésben foglaltaknak a pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan a pénzforgalmi intézménynek, az elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan az elektronikuspénz-kibocsátó intézménynek is meg kell felelnie.
 

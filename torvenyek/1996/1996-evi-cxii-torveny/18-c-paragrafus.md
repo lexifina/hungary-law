@@ -14,8 +14,8 @@ e) nyilatkozatát arra vonatkozóan, hogy a független közvetítőként törté
 
 f) nyilatkozatát arról, hogy a jogszabályban meghatározott, illetőleg jogszabályon alapuló adatszolgáltatások teljesítésére felkészült,
 
-g) teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+g) teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (2) Ha a kérelmező többes kiemelt közvetítőként kíván működni, az (1) bekezdésben meghatározottakon kívül a kérelemhez igazolnia kell a 9. § szerinti induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékelnie kell a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzatát és eljárásrendjét.
 
-(3) Ha a kérelmező az (1) bekezdés b) pontjában meghatározott adatot nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
+(3) Ha a kérelmező az (1) bekezdés b) pontjában meghatározott adatot nem igazolja, az MNB adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.

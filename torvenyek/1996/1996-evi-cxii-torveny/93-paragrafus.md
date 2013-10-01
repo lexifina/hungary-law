@@ -8,9 +8,9 @@
 
 (4) Ha egy hitelintézet ellenőrző befolyás alatt áll vagy egy vállalkozás ezen hitelintézetben részesedési viszonnyal rendelkezik és a hitelintézet maga is ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy másik hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban vagy járulékos vállalkozásban (a továbbiakban: többszörös ellenőrző befolyás vagy részesedési viszony), a kockázatvállalási és tőkemegfelelési előírásoknak való összevont alapú megfelelés számítását minden, az összevont alapú felügyelet alá tartozó hitelintézetnek, illetőleg a pénzügyi holding társaságnak el kell végeznie.
 
-(5) Többszörös ellenőrző befolyás vagy részesedési viszony esetén a Felügyelet engedélyezheti, hogy a tőkemegfelelési és kockázatvállalási előírásoknak való összevont alapú megfelelés számítását csak a legfelső szinten lévő, összevont alapú felügyelet hatálya alá tartozó hitelintézet, illetőleg pénzügyi holding társaság végezze el.
+(5) Többszörös ellenőrző befolyás vagy részesedési viszony esetén az MNB engedélyezheti, hogy a tőkemegfelelési és kockázatvállalási előírásoknak való összevont alapú megfelelés számítását csak a legfelső szinten lévő, összevont alapú felügyelet hatálya alá tartozó hitelintézet, illetőleg pénzügyi holding társaság végezze el.
 
-(6) A Felügyelet az (5) bekezdés szerinti mentesítést a következő feltételek együttes fennállása esetén adhat:
+(6) Az MNB az (5) bekezdés szerinti mentesítést a következő feltételek együttes fennállása esetén adhat:
 
 a) a legfelső szinten lévő magyarországi bejegyzésű hitelintézet, illetőleg pénzügyi holding társaság a mentesítendő magyarországi bejegyzésű hitelintézetben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
 

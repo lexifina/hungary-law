@@ -2,7 +2,7 @@
 
 ## Összeférhetetlenségi szabályok
 
-56. § A vezető állású személy a Felügyeletnek haladéktalanul bejelenti, ha
+56. § A vezető állású személy az MNB-nek haladéktalanul bejelenti, ha
 
 a) egy másik pénzügyi intézménynél igazgatósági taggá vagy felügyelő bizottsági taggá választják, vagy ilyen tisztségét megszünteti,
 

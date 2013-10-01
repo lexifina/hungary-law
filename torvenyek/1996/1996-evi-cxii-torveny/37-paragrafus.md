@@ -8,7 +8,7 @@
 
 ## A minősített befolyás megszerzésének engedélyezése
 
-37. § (1) Köteles a Felügyelettől engedélyt kérni, aki pénzügyi intézményben
+37. § (1) Köteles az MNB-től engedélyt kérni, aki pénzügyi intézményben
 
 a) minősített befolyást kíván szerezni, vagy
 
@@ -16,9 +16,9 @@ b) minősített befolyását úgy kívánja módosítani, hogy az elérje a hús
 
 (2) Az (1) bekezdésben meghatározott engedély iránti kérelemhez a kérelmezőnek be kell nyújtania a 17. § (1) bekezdésének g), h) pontjában és a 17. § (2)–(4) bekezdésében meghatározott iratokat.
 
-(3) A pénzügyi intézmény tulajdonosa a tulajdonjoghoz, illetőleg a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak a Felügyelet engedélyével köthet.
+(3) A pénzügyi intézmény tulajdonosa a tulajdonjoghoz, illetőleg a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak az MNB engedélyével köthet.
 
-(4) Aki olyan vállalkozásban, amely pénzügyi intézményben minősített befolyással rendelkezik, többségi részesedést kíván szerezni, köteles a szerződéskötést megelőzően a Felügyelettől engedélyt kérni.
+(4) Aki olyan vállalkozásban, amely pénzügyi intézményben minősített befolyással rendelkezik, többségi részesedést kíván szerezni, köteles a szerződéskötést megelőzően az MNB-től engedélyt kérni.
 
 (5) Az (1)–(4) bekezdés szerinti engedély iránti kérelemnek tartalmaznia kell
 

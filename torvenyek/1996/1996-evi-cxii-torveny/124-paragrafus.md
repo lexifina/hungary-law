@@ -14,9 +14,9 @@ d) nyilvántartása nem teszi lehetővé a betétesek kártalanítási jogosults
 
 e) a betétbiztosítással összefüggő szabályokat megsérti
 
-az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetésére, és egyidejűleg tájékoztatja a Felügyeletet.
+az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetésére, és egyidejűleg tájékoztatja az MNB-t.
 
-(2) A felszólítást követő harminc nap elteltével – ha a hitelintézet az (1) bekezdés szerinti jogsértő magatartást nem szüntette meg – az Alap kezdeményezheti a Felügyeletnél a hitelintézettel szemben intézkedés, bírság alkalmazását, vagy a Felügyelet egyetértésével a hitelintézetet tagjai sorából kizárja legalább tizenkét hónappal az erre vonatkozó intézkedés bejelentése után, ha ez alatt az idő alatt a hitelintézet továbbra sem szüntette meg a jogsértő magatartást. Az Alap a felügyeleti intézkedés kezdeményezéséről egyidejűleg értesíti az MNB-t.
+(2) Ha a hitelintézet az (1) bekezdés szerinti jogsértő magatartást nem szüntette meg, az Alap a felszólítást követő harminc nap elteltével kezdeményezheti az MNB-nél a hitelintézettel szemben intézkedés, bírság alkalmazását, vagy legalább tizenkét hónappal az erre vonatkozó intézkedés bejelentése után, ha ez alatt az idő alatt a hitelintézet továbbra sem szüntette meg a jogsértő magatartást, az MNB egyetértésével kizárja a hitelintézetet tagjai sorából.
 
 (3) Kizárás kezdeményezése esetén a hitelintézet tagsága az Alapban az előzetes felszólításban megjelölt határidőt követően megszűnik, kivéve, ha
 

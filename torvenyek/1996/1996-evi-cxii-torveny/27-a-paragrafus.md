@@ -1,4 +1,4 @@
-27/A. § (1) Az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatásra vonatkozó engedély iránti kérelmet az MNB elutasítja, ha a kérelmező
+27/A. § (1) Az MNB 3. § (2) bekezdés a), b) és c) pontjában foglalt tevékenységre vonatkozó engedély iránti kérelmet az MNB elutasítja, ha a kérelmező
 
 a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
 

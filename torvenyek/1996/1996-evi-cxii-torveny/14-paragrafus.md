@@ -2,7 +2,7 @@
 
 ## Engedélyezési eljárás
 
-14. § (1) A Felügyelet engedélye szükséges – a (2)–(4) bekezdésben, valamint a 14/A–14/B. §-ban foglalt eltéréssel – a hitelintézet:
+14. § (1) Az MNB engedélye szükséges – a (2)–(4) bekezdésben, valamint a 14/A–14/B. §-ban foglalt eltéréssel – a hitelintézet:
 
 a) alapításához;
 
@@ -48,7 +48,7 @@ u) működési kockázat tőkekövetelményének sztenderdizált vagy fejlett m�
 
 v) a külön jogszabály alapján partnerkockázati kitettség tőkekövetelményének belső modell módszer szerinti számításához.
 
-(2) A Felügyelet engedélye szükséges a fióktelep formájában működő hitelintézet
+(2) Az MNB engedélye szükséges a fióktelep formájában működő hitelintézet
 
 a) alapításához,
 
@@ -68,8 +68,8 @@ h)
 
 i) működésének megszüntetéséhez.
 
-(3) A Felügyelet (1) bekezdés szerinti engedélye nem szükséges hitelintézet fióktelepének az Európai Unió másik tagállamában történő létesítéséhez.
+(3) Az MNB (1) bekezdés szerinti engedélye nem szükséges hitelintézet fióktelepének az Európai Unió másik tagállamában történő létesítéséhez.
 
 (4) A (2) bekezdés szerinti engedély nem szükséges olyan hitelintézet fióktelepe esetén, amelynek székhelye az Európai Unió másik tagállamában van.
 
-(5) Az (1) bekezdés b) és d) pontjában, valamint a 20. § e) pontjában foglalt engedély megadása előtt, ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, a Felügyelet – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon tagállam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre az engedélyezési kérelmet benyújtó hitelintézettel együttesen az összevont alapú felügyelet kiterjed.
+(5) Az (1) bekezdés b) és d) pontjában, valamint a 20. § e) pontjában foglalt engedély megadása előtt, ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, az MNB – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon tagállam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre az engedélyezési kérelmet benyújtó hitelintézettel együttesen az összevont alapú felügyelet kiterjed.

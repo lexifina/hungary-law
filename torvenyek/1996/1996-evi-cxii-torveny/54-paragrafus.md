@@ -12,7 +12,7 @@ e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a
 
 f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
 
-g) a Felügyelet által – a banktitokra vonatkozó szabályok betartásával – a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
+g) az MNB által – a banktitokra vonatkozó szabályok betartásával – a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
 
 1. statisztikai célra a Központi Statisztikai Hivatal,
 
@@ -22,13 +22,13 @@ részére.
 
 h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 
-i) a külföldi pénzügyi intézmény székhelye szerinti felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, amennyiben a megállapodás tartalmazza az adatok bizalmas kezelésére, illetőleg felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
+i) a külföldi pénzügyi intézmény székhelye szerinti felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és az MNB között együttműködési megállapodásban rögzített módon történő adattovábbítás, amennyiben a megállapodás tartalmazza az adatok bizalmas kezelésére, illetőleg felhasználására vonatkozó rendelkezést, továbbá az MNB hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
 
 j) a hitelintézet által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
 
 k) e törvény XIV. és XIV/A. fejezetében, a Tpt. XIX/A. és XIX/B. fejezetében, valamint a Bit. Nyolcadik részének III/A. fejezetében foglalt rendelkezések teljesítése érdekében történő adatátadás,
 
-l) a Felügyelet által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
+l) az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
 
 m) az Országos Betétbiztosítási Alap által külföldi betétbiztosítási rendszerek, valamint külföldi felügyeleti hatóságok részére együttműködési megállapodásban rögzített módon történő adattovábbítás, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
 
@@ -36,11 +36,11 @@ n) a pénzügyi intézmény által vállalt kockázat fedezetét nyújtó harmad
 
 o) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása
 
-p) az MNB részére, írásbeli megkeresés alapján az MNB tv. 4. § (1)–(7) bekezdéseiben meghatározott alapvető feladatai teljesítése érdekében végrehajtott műveletei biztosítékául szolgáló hitelkövetelésekre vonatkozó adatátadás,
+p)
 
 q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás,
 
-r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
+r) az MNB által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
 
 s) a pénzügyi intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzügyi intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
 

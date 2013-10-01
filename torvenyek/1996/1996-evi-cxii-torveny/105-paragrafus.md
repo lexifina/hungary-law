@@ -1,6 +1,6 @@
 ## Kifizetés az Alapból
 
-105. § (1) Az Alap a betétek befagyása vagy a Felügyeletnek a 30. § (1) bekezdés b) vagy c) pontja alapján hozott határozatának közlése vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – (a továbbiakban: a kártalanítás kezdő időpontja) megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére a Felügyelet engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
+105. § (1) Az Alap a betétek befagyása vagy az MNB-nek a 30. § (1) bekezdés b) vagy c) pontja alapján hozott határozatának közlése vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – (a továbbiakban: a kártalanítás kezdő időpontja) megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére az MNB engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
 
 (2) Az Alap köteles legalább két országos napilapban, valamint honlapján közzétenni a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az Alap által közzétett információkat a kártalanítással érintett hitelintézet honlapján is közzé kell tenni.
 

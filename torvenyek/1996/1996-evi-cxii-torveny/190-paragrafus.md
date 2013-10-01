@@ -1,4 +1,4 @@
-190. § (1) A Felügyelet az e törvényben meghatározott feladatai ellátásához a 186–188. §-ban meghatározott, valamint az általa elrendelt adatszolgáltatások alapján nyilvántartja:
+190. § (1) Az MNB az e törvényben meghatározott feladatai ellátásához a 186–188. §-ban meghatározott, valamint az általa elrendelt adatszolgáltatások alapján nyilvántartja:
 
 a) a pénzügyi intézményeket, pénzforgalmi intézményeket, elektronikuspénz-kibocsátó intézményeket, bankképviseleteket, járulékos vállalkozásokat, a közvetítőket,
 
@@ -18,7 +18,7 @@ a) a minősített befolyással összefüggésben a minősített befolyás arány
 
 b) a 186. § (3) bekezdésének a)–b) pontja szerinti szoros kapcsolattal összefüggésben a szoros kapcsolat mértékét, valamint a szoros kapcsolat gyakorlását biztosító szerződést,
 
-c) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
+c) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá az MNB által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
 
 d) az engedély kiadásával vagy visszaadásával kapcsolatos kérelem tartalmát, továbbá a kérelem elbírálásához csatolt dokumentum adatait,
 
@@ -36,7 +36,7 @@ j) a nagykockázat, belső hitel, kapcsolódó hitel, befektetési korlát és k
 
 k) a fióktelep formájában működő hitelintézet esetében az a)–j) pontokon túl az eszközfenntartási mutató ellenőrzéséhez szükséges adatokat.
 
-(3) A (2) bekezdésben megjelölt célok érdekében a 3. számú mellékletben felsoroltakon kívül a Felügyelet a pénzügyi intézmény ügyfelének következő személyes adatait kezelheti:
+(3) A (2) bekezdésben megjelölt célok érdekében a 3. számú mellékletben felsoroltakon kívül az MNB a pénzügyi intézmény ügyfelének következő személyes adatait kezelheti:
 
 a) az ügyfél hiteladatait,
 
@@ -46,6 +46,6 @@ c) az ügyfél betétadatait,
 
 d) az ügyfél pénzügyi intézménnyel szembeni követelésre vonatkozó egyéb adatait.
 
-(4) A Felügyelet engedélye egyúttal a nyilvántartásba vételt is igazolja.
+(4) Az MNB engedélye egyúttal a nyilvántartásba vételt is igazolja.
 
 (5)

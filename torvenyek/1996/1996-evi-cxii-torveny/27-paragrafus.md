@@ -1,6 +1,6 @@
 ## Az engedély iránti kérelem elutasítása
 
-27. § (1) A Felügyelet az alapítás iránti kérelmet elutasítja, ha a kérelmező
+27. § (1) Az MNB az alapítás iránti kérelmet elutasítja, ha a kérelmező
 
 a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
 
@@ -10,12 +10,12 @@ c) devizakülföldi, és nincs kézbesítési megbízottja,
 
 d) a hitelintézettel szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé az összevont alapú felügyeleti feladatok ellátását.
 
-(2) A Felügyelet a fióktelep alapítására irányuló kérelmet akkor is elutasítja, ha a 17. § (1) bekezdésében, illetőleg a 17/A. §-ban felsorolt feltételek valamelyike nem teljesül.
+(2) Az MNB a fióktelep alapítására irányuló kérelmet akkor is elutasítja, ha a 17. § (1) bekezdésében, illetőleg a 17/A. §-ban felsorolt feltételek valamelyike nem teljesül.
 
-(3) A tevékenységi engedély iránti kérelmet a Felügyelet elutasíthatja, ha a kérelmező
+(3) A tevékenységi engedély iránti kérelmet az MNB elutasíthatja, ha a kérelmező
 
 a) esetében az (1) bekezdésben említett valamely elutasítási ok fennáll,
 
 b) a szükséges személyi és tárgyi feltételekkel nem rendelkezik,
 
-c) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a prudens működésre vonatkozó jogszabályi előírásoknak.
+c) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá az MNB rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a prudens működésre vonatkozó jogszabályi előírásoknak.

@@ -36,7 +36,7 @@ g) a külön jogszabály alapján létrehozott Diákhitel Központra.
 
 h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3. melléklet II. fejezetének 1.1–1.3 pontja kivételével kereskedelmi kölcsönt nyújtó hitelezőre.
 
-(3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
+(3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az engedélyezési és felügyeleti tevékenysége, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
 (4) A 13. § (1) bekezdés, 13/C. §, 13/D. §, 153. §, 157–160. §, 168/B. § és 218. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon kívüli személyek és szervezetek számára végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikus pénz kibocsátóját említenek, azon a kincstárt is érteni kell.
 

@@ -22,6 +22,6 @@ i) a tulajdonszerzéssel összefüggő felügyeleti határozat ügyszámát és 
 
 (3) A részvénykönyv mellékleteként nyilván kell tartani a legalább öt százalékot elérő tulajdonosok által a pénzügyi intézményben birtokolt – a 4. számú melléklet szerint számított – közvetett tulajdonának azonosításra alkalmas adatait is. A pénzügyi intézményben ötszázalékos vagy ezt meghaladó tulajdoni hányaddal rendelkező, illetve ilyen hányadot megszerző tulajdonos a pénzügyi intézményben birtokolt közvetett tulajdonát, illetve annak változását – az azonosításra alkalmas adatok egyidejű közlésével – köteles a pénzügyi intézménynek bejelenteni.
 
-(4) A (3) bekezdésben foglalt kötelezettségét nem teljesítő tulajdonos szavazati jogának gyakorlását a kötelezettség teljesítéséig a Felügyelet felfüggeszti.
+(4) A (3) bekezdésben foglalt kötelezettségét nem teljesítő tulajdonos szavazati jogának gyakorlását a kötelezettség teljesítéséig az MNB felfüggeszti.
 
 (5) A részvénytársasági formában működő pénzügyi intézmény vezető állású személye köteles a tulajdonában lévő, a pénzügyi intézmény által kibocsátott részvényét a pénzügyi intézmény igazgatóságának bejelenteni.

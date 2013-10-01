@@ -28,17 +28,17 @@ c) bizalmas információnak, amelynek tekintetében a hitelintézetet titoktart�
 
 (5) A hitelintézetnek nyilatkoznia kell a nyilvánosságra hozatali kötelezettségének teljesítése során a (3) bekezdés b) pontjában meghatározott információ nyilvánosságra hozatalától való tartózkodás tényéről és okáról, valamint a kapcsolódó, védett és bizalmas információnak nem minősülő információt nyilvánosságra kell hoznia.
 
-(6) Az (1) bekezdés szerinti kötelezettségének a hitelintézetnek évente legalább egyszer – az éves beszámoló jóváhagyásától számított tizenöt napon belül – eleget kell tennie. A hitelintézet tevékenységének méretéből és jellegéből adódóan évesnél gyakoribb nyilvánosságra hozatali kötelezettséget is vállalhat, amelyről a honlapján tájékoztatást ad. A hitelintézet – ezen felül – a tudomásra jutástól számított harminc napon belül nyilvánosságra hozza a pénzügyi helyzetét, az irányítási vagy a számviteli rendjét befolyásoló és a belső szabályzatának megfelelően lényegesnek tekintett eseményeket. A nyilvánosságra hozatal keretében a hitelintézet az információkat a honlapján vagy a Felügyelet honlapján megjelenteti, ha a Felügyelet nyújt ilyen szolgáltatást jogszabály szerinti közzétételi kötelezettség teljesítése céljából.
+(6) Az (1) bekezdés szerinti kötelezettségének a hitelintézetnek évente legalább egyszer – az éves beszámoló jóváhagyásától számított tizenöt napon belül – eleget kell tennie. A hitelintézet tevékenységének méretéből és jellegéből adódóan évesnél gyakoribb nyilvánosságra hozatali kötelezettséget is vállalhat, amelyről a honlapján tájékoztatást ad. A hitelintézet – ezen felül – a tudomásra jutástól számított harminc napon belül nyilvánosságra hozza a pénzügyi helyzetét, az irányítási vagy a számviteli rendjét befolyásoló és a belső szabályzatának megfelelően lényegesnek tekintett eseményeket. A nyilvánosságra hozatal keretében a hitelintézet az információkat a honlapján vagy az MNB honlapján megjelenteti, ha az MNB nyújt ilyen szolgáltatást jogszabály szerinti közzétételi kötelezettség teljesítése céljából.
 
-(7) A hitelintézet a (6) bekezdés szerint nyilvánosságra hozott információt a nyilvánosságra hozatallal egyidejűleg megküldi a Felügyeletnek is, amelyet a Felügyelet a honlapján megjelentethet.
+(7) A hitelintézet a (6) bekezdés szerint nyilvánosságra hozott információt a nyilvánosságra hozatallal egyidejűleg megküldi az MNB-nek is, amelyet az MNB a honlapján megjelentethet.
 
-(8) A Felügyelet kérelemre mentesítheti a hitelintézetet a nyilvánosságra hozatali követelmény teljesítése alól, ha a hitelintézet
+(8) Az MNB kérelemre mentesítheti a hitelintézetet a nyilvánosságra hozatali követelmény teljesítése alól, ha a hitelintézet
 
 a) a számviteli, a tőzsdei, a kibocsátókra vonatkozó vagy más, jogszabály által előírt információt a (6) bekezdés szerint nyilvánosságra hozza, és
 
 b) által az a) pontban meghatározott információk tartalmilag megfelelnek a hitelintézet nyilvánosságra hozatali követelményei keretében nyilvánosságra hozandó információknak.
 
-(9) Ha a hitelintézet tevékenysége és a nyilvánosság igénye ezt szükségessé teszi, akkor a Felügyelet a hitelintézetnek előírja
+(9) Ha a hitelintézet tevékenysége és a nyilvánosság igénye ezt szükségessé teszi, akkor az MNB a hitelintézetnek előírja
 
 a) a (3) bekezdésben meghatározott információ – személyes adatokra, bank- és üzleti titokra vonatkozó szabályok megtartásával történő – nyilvánosságra hozatalát,
 

@@ -2,7 +2,7 @@
 
 a) megfelel a vezető állású személyekre vonatkozó, a 44. §-ban meghatározott általános követelményeknek;
 
-b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
+b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően az MNB-nek – az előzetes engedély megszerzése érdekében – bejelentették, és az MNB az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
 
 c) rendelkezik
 
@@ -32,7 +32,7 @@ szerzett.
 
 a) megfelel a vezető állású személyekre vonatkozó, a 44. §-ban meghatározott általános követelményeknek;
 
-b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
+b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően az MNB-nek – az előzetes engedély megszerzése érdekében – bejelentették, és az MNB az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
 
 c) rendelkezik
 

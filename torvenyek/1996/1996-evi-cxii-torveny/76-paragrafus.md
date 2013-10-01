@@ -16,13 +16,13 @@ a) legalább
 
 b) nem lehet kevesebb a 9. §-ban – az engedélyezés feltételeként – előírt legkisebb jegyzett tőke összegénél.
 
-(2) Az (1) bekezdés a) pontjától eltérően a Felügyelet a 145/A. § szerinti felügyeleti felülvizsgálat keretében a hitelintézet számára – legfeljebb a 153. §-ban rögzített mértékű – többlet-tőkekövetelményt írhat elő.
+(2) Az (1) bekezdés a) pontjától eltérően az MNB a 145/A. § szerinti felügyeleti felülvizsgálat keretében a hitelintézet számára – legfeljebb a 153. §-ban rögzített mértékű – többlet-tőkekövetelményt írhat elő.
 
 (3) A hitelintézetnek az e törvényben foglalt eltéréssel a Bszt. kereskedési könyvre és nagykockázat vállalására vonatkozó szabályait kell alkalmaznia azzal, hogy ahol a Bszt. befektetési vállalkozást említ, azon hitelintézetet kell érteni.
 
 (4)
 
-(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és a Felügyelet által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 31. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni a Felügyeletnek.
+(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és az MNB által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 31. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni az MNB-nek.
 
 (6)–(9)
 

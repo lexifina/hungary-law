@@ -4,8 +4,6 @@
 
 ## XXIII. Fejezet
 
-## A Felügyelet
+## Az MNB
 
-138. § (1) A Felügyelet hatáskörét és jogállását külön törvény határozza meg.
-
-(2)
+138. §

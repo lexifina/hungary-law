@@ -36,4 +36,4 @@ c) könyvvizsgálói társaság egy-egy hitelintézettől származó bevétele n
 
 d) a könyvvizsgáló társaságnak az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát.
 
-(6) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény nem adhat könyvvizsgálói megbízást a Felügyelet alkalmazottjának, illetőleg annak közeli hozzátartozójának.
+(6) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény nem adhat könyvvizsgálói megbízást az MNB alkalmazottjának, illetőleg annak közeli hozzátartozójának.

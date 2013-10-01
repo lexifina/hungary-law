@@ -48,7 +48,7 @@ d) repóügylet, értékpapír- vagy árukölcsönzési ügylet esetén a külö
 
 (6) Ha jogszabály másként nem rendelkezik, a kockázattal súlyozott kitettség érték számításakor a kitettséghez száz százalékos kockázati súlyt kell hozzárendelni.
 
-(7) A nulla százalékos kockázati súly hozzárendelését a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez a Felügyelet jóváhagyja, ha az említett anyavállalat, leányvállalat vagy vállalkozás
+(7) A nulla százalékos kockázati súly hozzárendelését a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez az MNB jóváhagyja, ha az említett anyavállalat, leányvállalat vagy vállalkozás
 
 a) hitelintézet, befektetési vállalkozás, vegyes pénzügyi holding társaság, pénzügyi vállalkozás, befektetési alapkezelő, vagyonkezelő társaság vagy járulékos vállalkozás,
 
@@ -60,7 +60,7 @@ d) magyarországi székhellyel rendelkezik,
 
 e) és a hitelintézet között a szavatoló tőke átadásának és a kötelezettség visszafizetésének nincs akadálya.
 
-(8) A nulla százalékos kockázati súly hozzárendelését a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez a Felügyelet jóváhagyja, ha
+(8) A nulla százalékos kockázati súly hozzárendelését a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez az MNB jóváhagyja, ha
 
 a) a tag a (7) bekezdés a) és d) pontjában foglaltaknak megfelel, valamint a tag és a hitelintézet között a szavatoló tőke átadásának és a kötelezettség visszafizetésének nincs akadálya,
 
@@ -68,7 +68,7 @@ b) a hitelintézet és a tag között olyan kötelezettségvállalás áll fenn,
 
 c) a kölcsönös kötelezettségvállalás lehetővé teszi, hogy az intézményvédelmi rendszer biztosítsa a haladéktalanul rendelkezésre álló forrásokból a szükséges támogatást,
 
-d) az intézményvédelmi rendszer egységes, a kockázatok megfigyelését és minősítését lehetővé tevő – a Felügyelet által jóváhagyott – rendszerekkel rendelkezik,
+d) az intézményvédelmi rendszer egységes, a kockázatok megfigyelését és minősítését lehetővé tevő – az MNB által jóváhagyott – rendszerekkel rendelkezik,
 
 e) az intézményvédelmi rendszer saját kockázati értékelést végez, amelyet közöl az egyes tagokkal,
 
@@ -84,7 +84,7 @@ h) az intézményvédelmi rendszer tagjai között a szavatoló tőke számítá
 
 i) az intézményvédelmi rendszernek legalább tíz hitelintézet tagja van és a tagok legalább kilencven százaléka szövetkezeti hitelintézet.
 
-(9) A (8) bekezdés d) pontjában meghatározott rendszert a Felügyelet akkor hagyja jóvá, ha az a tag és az intézményvédelmi rendszer szintjén biztosítja a kockázati helyzet áttekintését és a nemteljesítésből eredő kockázatok nyomon követését, valamint a szükség szerinti beavatkozást. A (8) bekezdés d) pontjában meghatározott rendszert a Felügyelet legalább kétévente felülvizsgálja.
+(9) A (8) bekezdés d) pontjában meghatározott rendszert az MNB akkor hagyja jóvá, ha az a tag és az intézményvédelmi rendszer szintjén biztosítja a kockázati helyzet áttekintését és a nemteljesítésből eredő kockázatok nyomon követését, valamint a szükség szerinti beavatkozást. A (8) bekezdés d) pontjában meghatározott rendszert az MNB legalább kétévente felülvizsgálja.
 
 (10) A (7) és (8) bekezdés alkalmazásában szavatoló tőke átadásnak minősül
 

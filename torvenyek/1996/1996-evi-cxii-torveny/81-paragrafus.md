@@ -20,4 +20,4 @@ bb) nincs eltérés a kitettség lejárata, valamint a hitelkockázati fedezet l
 
 (7) A (6) bekezdés a) pontja szerinti eljárás esetén a hitelkockázati fedezet elismerhetőségére és kockázatmérséklő hatásának a tőkekövetelmény-számítás során való számszerűsítésére vonatkozó külön jogszabály rendelkezéseit is megfelelően alkalmazni kell.
 
-(8) A hitelintézet a pénzügyi biztosítékok átfogó módszerét, valamint a (6) bekezdés b) pontja szerinti eljárást akkor alkalmazhatja együttesen, ha a hitelezési kockázata tőkekövetelményének meghatározásához a pénzügyi biztosítékok átfogó és egyszerű módszerének együttes alkalmazását a Felügyelet engedélyezte.
+(8) A hitelintézet a pénzügyi biztosítékok átfogó módszerét, valamint a (6) bekezdés b) pontja szerinti eljárást akkor alkalmazhatja együttesen, ha a hitelezési kockázata tőkekövetelményének meghatározásához a pénzügyi biztosítékok átfogó és egyszerű módszerének együttes alkalmazását az MNB engedélyezte.

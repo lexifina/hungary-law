@@ -44,29 +44,23 @@ e) forgatható utalvány kibocsátására irányuló tevékenység.
 
 (3) Az (1)–(2) bekezdésben foglalt tevékenységek – az e törvényben foglalt eltéréssel – üzletszerűen csak engedéllyel végezhetők.
 
-(4) Ha törvény másként nem rendelkezik, kizárólag a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) az e törvény alapján kiadott engedélyével végezhető az (1) bekezdésben meghatározott pénzügyi szolgáltatás, valamint a (2) bekezdés a) és d) pontjában meghatározott kiegészítő pénzügyi szolgáltatás.
+(4) Ha törvény másként nem rendelkezik, kizárólag az MNB e törvény alapján kiadott engedélyével végezhető az (1) bekezdésben meghatározott pénzügyi szolgáltatás, valamint a (2) bekezdésben meghatározott kiegészítő pénzügyi szolgáltatás.
 
-(5) Az (1) bekezdés d)–f) pontjaiban meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5)–(6)
 
-(6) A (2) bekezdés b) és c) pontjában meghatározott tevékenységet az MNB engedélyezi, ellenőrzi, illetve az ilyen engedélyt az MNB vonja vissza.
+(6a) A (2) bekezdés e) pontjában meghatározott tevékenység engedély nélkül, az MNB-nek – e törvényben meghatározott módon – tett bejelentés mellett végezhető.
 
-(6a) A (2) bekezdés e) pontjában meghatározott tevékenység
-
-a) engedély nélkül, az MNB-nek – e törvényben meghatározott módon – tett bejelentés mellett végezhető,
-
-b) végzésével kapcsolatos, e törvényben meghatározott rendelkezések megtartását az MNB ellenőrzi.
-
-(7) A (6) bekezdésben meghatározott tevékenységek végzésének engedélyezéséről szóló határozatot az MNB közli a Felügyelettel. A Felügyelet a határozat alapján a jogi személyt nyilvántartásba veszi.
+(7)
 
 (8) Törvény váltóval saját számlára vagy bizományosként történő kereskedelmi tevékenységet [3. § (1) bekezdésének g) pontja] más jogi személy részére is lehetővé teheti.
 
-(9) A függő ügynök a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
+(9) A függő ügynök az MNB engedélye nélkül végezhet ügynöki tevékenységet.
 
-(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
+(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét az MNB által meghatározott módon és gyakorisággal bejelenti az MNB-nek.
 
 (11) A kockázati tőkealap a tőkepiacról szóló 2001. évi CXX. tövényben (a továbbiakban: Tpt.) meghatározott mértékben az ott felsorolt személyi kör részére pénzkölcsönt nyújthat.
 
-(12) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást a Felügyelet engedélye nélkül is végezhet.
+(12) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást az MNB engedélye nélkül is végezhet.
 
 (13) A 3. § (1) bekezdésének e) pontja szerinti pénzügyi szolgáltatási tevékenység végzésére
 

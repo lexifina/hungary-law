@@ -30,8 +30,8 @@ m) határoz a 121. § (6)–(8) bekezdése szerinti megemelt, illetve rendkívü
 
 n)–o)
 
-p) javaslatot tesz a Felügyeletnek a hitelintézetek betétbiztosítással kapcsolatos kötelezettségeinek ellenőrzésére,
+p) javaslatot tesz az MNB-nek a hitelintézetek betétbiztosítással kapcsolatos kötelezettségeinek ellenőrzésére,
 
 q) ellátja az e törvényben meghatározott egyéb feladatokat.
 
-(2) Az igazgatótanács feladatainak végrehajtása során igénybe veheti a Felügyelet szolgáltatásait.
+(2) Az igazgatótanács feladatainak végrehajtása során igénybe veheti az MNB szolgáltatásait.

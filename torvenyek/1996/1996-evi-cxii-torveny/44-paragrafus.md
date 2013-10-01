@@ -1,22 +1,22 @@
 ## Közös szabályok
 
-44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
+44. § (1) Az MNB előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
+(2) Az engedélyt megadottnak kell tekinteni, ha az MNB a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, az MNB a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
-(3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
+(3) Az MNB a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 
 (4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél és vegyes pénzügyi holding társaságnál nem lehet vezető állású személy az, aki
 
 a) minősített befolyással rendelkezik (vagy rendelkezett), vagy vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben,
 
-aa) amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
+aa) amely esetében a fizetésképtelenséget csak az MNB által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
 
 ab) amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
 
 és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
 
-b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre, a pénzforgalmi szolgáltatásra vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
+b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre, a pénzforgalmi szolgáltatásra vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt az MNB, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
 
 c) büntetett előéletű;
 

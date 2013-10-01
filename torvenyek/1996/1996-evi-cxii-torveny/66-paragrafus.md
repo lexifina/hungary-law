@@ -26,7 +26,7 @@ f)
 
 (4) A felügyelő bizottság előzetes egyetértése szükséges a belső ellenőrzési szervezet vezetői és alkalmazottai foglalkoztatásának létesítésével, megszüntetésével kapcsolatos döntések meghozatalához, valamint díjazásuk megállapításához.
 
-(5) A felügyelő bizottság elnöke – a bizottsági ülést követő tíz napon belül – a Felügyeletnek megküldi azokat a jegyzőkönyveket, előterjesztéseket, illetőleg jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
+(5) A felügyelő bizottság elnöke – a bizottsági ülést követő tíz napon belül – az MNB-nek megküldi azokat a jegyzőkönyveket, előterjesztéseket, illetőleg jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
 
 (6) A belső ellenőrzési szervezeti egység számára az éves tervhez képest további ellenőrzési feladatokat csak a felügyelő bizottság, a belső ellenőrzési szervezeti egység vezetője, illetőleg a felügyelő bizottság egyetértésével vagy utólagos tájékoztatásával az ügyvezető határozhat meg.
 

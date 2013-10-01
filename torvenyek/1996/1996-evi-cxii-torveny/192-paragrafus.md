@@ -1,8 +1,8 @@
 ## XXVIII. Fejezet
 
-## A Felügyelet eljárása
+## Az MNB eljárása
 
-## A Felügyelet határozatai
+## Az MNB határozatai
 
 192. § (1)
 

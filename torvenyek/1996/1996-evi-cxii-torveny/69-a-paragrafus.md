@@ -6,4 +6,4 @@
 
 (3) A hitelintézeten belül elkülönült szervezeti egységek banktitkot és értékpapírtitkot csak belső szabályzatban meghatározott módon adhatnak át egymásnak. A szabályzatnak biztosítania kell, hogy banktitokhoz és értékpapírtitokhoz csak az jusson hozzá, akinek arra feladata elvégzéséhez szüksége van.
 
-(4) A belső szabályzatot a Felügyeletnek meg kell küldeni.
+(4) A belső szabályzatot az MNB-nek meg kell küldeni.

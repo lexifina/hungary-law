@@ -24,4 +24,4 @@ i) a tagok díjfizetési rendjét,
 
 j) a tagok kilépése, kizárása esetén történő elszámolás rendjét.
 
-(3) Az önkéntes alap létesítő okiratának elfogadásához, valamint a létesítő okirat módosításához, az önkéntes alap megszűnéséhez – a 128/C. § megfelelő alkalmazásával – a Felügyelet jóváhagyása szükséges.
+(3) Az önkéntes alap létesítő okiratának elfogadásához, valamint a létesítő okirat módosításához, az önkéntes alap megszűnéséhez – a 128/C. § megfelelő alkalmazásával – az MNB jóváhagyása szükséges.

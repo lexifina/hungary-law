@@ -1,6 +1,6 @@
 ## Felügyeleti felülvizsgálat
 
-145/A. § (1) A Felügyelet felülvizsgálja a hitelintézet tőkemegfelelésével összefüggő szabályzatokat, stratégiákat, eljárásokat és módszereket, valamint értékeli a hitelintézet kockázatait.
+145/A. § (1) Az MNB felülvizsgálja a hitelintézet tőkemegfelelésével összefüggő szabályzatokat, stratégiákat, eljárásokat és módszereket, valamint értékeli a hitelintézet kockázatait.
 
 (2) Az (1) bekezdés szerinti felülvizsgálatnak és értékelésnek a hitel-, piaci- és működési kockázatokon kívül ki kell terjednie:
 
@@ -18,16 +18,16 @@ f) a piaci kockázattal kapcsolatos tőkekövetelményhez belső modell módszer
 
 g) a kitettséggel szemben felmerülő országkockázatból eredő pótlólagos tőkekövetelményre, és
 
-h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
+h) egy olyan mérési vizsgálatra, amelynek keretében az MNB megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
 
 i) arra, hogy a hitelintézet által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, ideértve az átadott kockázat mértékét is.
 
-(2a) A (2) bekezdés d) pontja szerinti felülvizsgálat keretében a Felügyelet a hitelintézet pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását.
+(2a) A (2) bekezdés d) pontja szerinti felülvizsgálat keretében az MNB a hitelintézet pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását.
 
-(3) Az (1)–(2) bekezdés szerinti felülvizsgálat és értékelés alapján a Felügyeletnek meg kell határoznia, hogy a hitelintézet által alkalmazott szabályzatok, stratégiák, eljárások és módszerek, valamint a hitelintézet szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
+(3) Az (1)–(2) bekezdés szerinti felülvizsgálat és értékelés alapján az MNB-nek meg kell határoznia, hogy a hitelintézet által alkalmazott szabályzatok, stratégiák, eljárások és módszerek, valamint a hitelintézet szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
 
-(4) A Felügyelet által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető hitelintézetnél arra is kiterjed, hogy a hitelintézet által elszámolt értékvesztés és képzett céltartalék lehetővé teszik-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
+(4) Az MNB által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető hitelintézetnél arra is kiterjed, hogy a hitelintézet által elszámolt értékvesztés és képzett céltartalék lehetővé teszik-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
 
-(5) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg a Felügyelet azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
+(5) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg az MNB azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
 
-(6) A Felügyelet által végzett felülvizsgálat és értékelés kiterjed a hitelintézetnek a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatára.
+(6) Az MNB által végzett felülvizsgálat és értékelés kiterjed a hitelintézetnek a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatára.

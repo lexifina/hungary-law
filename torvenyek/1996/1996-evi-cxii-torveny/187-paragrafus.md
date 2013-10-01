@@ -1,4 +1,4 @@
-187. § A Felügyelet határozattal nyilvántartásba veszi a külföldi hitelintézetek bankképviseleteinek a következő adatait:
+187. § Az MNB határozattal nyilvántartásba veszi a külföldi hitelintézetek bankképviseleteinek a következő adatait:
 
 a) a képviselt hitelintézet neve, székhelye, tevékenységi köre, a tevékenység végzésének helyére vonatkozó adatok;
 

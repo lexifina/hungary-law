@@ -8,7 +8,7 @@ b) a fizetési rendszer működtetését pénzügyi vállalkozás esetében – 
 
 c) részvénytársaságként vagy részvénytársaság fióktelepeként működik.
 
-(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, valamint a Tpt. szerinti elszámolóházi tevékenységet végző szervezet szerezhet.
+(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a Tpt. szerinti elszámolóházi tevékenységet végző szervezet, továbbá hitelintézetek érdek-képviseleti szerve szerezhet.
 
 (4) Ha a pénzforgalmi elszámolóház a kiegészítő pénzügyi szolgáltatást kizárólag készpénz-helyettesítő fizetési eszközökkel végzett fizetési műveletek tekintetében végzi, a kérelmező a 3. § (6) bekezdése szerinti engedélyt akkor is megkaphatja, ha igazolja, hogy – a (2) bekezdés a) pontjától eltérően – legalább százötvenmillió forint jegyzett és befizetett tőkével rendelkezik.
 

@@ -462,7 +462,7 @@ III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 8. Hitelminősítés: külső hitelminősítő szervezet vagy exporthitel-ügynökség saját módszertana által előállított és nyilvánosságra hozott véleménye a hitelminősítés alanyáról, azaz a minősítettről. A hitelminősítés irányulhat adósra (ügyfélre) vagy adósságra (kitettségre). A hitelminősítés eredménye egy szöveges indoklással kibővített értékelés, amely tartalmaz egy betűvel, számmal, jellel, illetőleg ezek kombinációjával megalkotott hitelminősítési kategóriát.
 
-9. Hitelminősítési besorolás: egy egységesített megközelítést támogató, pozitív egész számjegyű jelölés, amely a Felügyelet hozzárendelése által az elismert külső hitelminősítő szervezet hitelminősítési kategóriájához alkalmazandó kockázati súly alkalmazását segíti elő.
+9. Hitelminősítési besorolás: egy egységesített megközelítést támogató, pozitív egész számjegyű jelölés, amely az MNB hozzárendelése által az elismert külső hitelminősítő szervezet hitelminősítési kategóriájához alkalmazandó kockázati súly alkalmazását segíti elő.
 
 10. Hitelminősítési kategória: külső hitelminősítő szervezet által a minősített adóshoz (ügyfélhez) vagy adóssághoz (kitettséghez) rendelt betűből, számból, jelből, illetőleg ezek kombinációjából álló jelölés.
 

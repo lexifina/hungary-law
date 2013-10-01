@@ -10,7 +10,7 @@
 
 (3) A (2) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
-a) Felügyelettel,
+a)
 
 b) az Országos Betétbiztosítási Alappal, betét- és intézményvédelmi alappal, valamint a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt intézményvédelmi szervezettel és az ugyanezen törvényben nevesített és ott meghatározott feladatkörében eljáró kormánybiztossal szemben,
 
@@ -40,7 +40,7 @@ c) a törvényben meghatározott feltételek megléte esetén a titkosszolgálat
 
 (5) A pénzügyi intézmény és a pénzforgalmi intézmény a nyomozó hatóságot, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a „halaszthatatlan intézkedés” jelzéssel ellátott, önálló jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
 
-(6) Nem jelenti az üzleti titok sérelmét a Felügyelet vagy az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
+(6) Nem jelenti az üzleti titok sérelmét az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
 
 a) a nemzetgazdasági folyamatok elemzése, illetve a központi költségvetés tervezése céljából, vagy
 

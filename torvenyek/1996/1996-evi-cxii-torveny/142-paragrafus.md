@@ -1,6 +1,6 @@
 ## Adatszolgáltatás
 
-142. § (1) A hitelintézet igazgatósága a Felügyeletnek és az MNB-nek haladéktalanul – írásban – bejelenti, ha
+142. § (1) A hitelintézet igazgatósága az MNB-nek haladéktalanul – írásban – bejelenti, ha
 
 a) az azonnali fizetésképtelenség (illikviditás) veszélye következett be,
 
@@ -12,7 +12,7 @@ d) fizetéseit megszüntette, illetőleg
 
 e) működését – pénzügyi szolgáltatási tevékenységét – megszüntette.
 
-(2) A hitelintézet igazgatósága köteles a Felügyeletnek két munkanapon belül – írásban – bejelenteni
+(2) A hitelintézet igazgatósága köteles az MNB-nek két munkanapon belül – írásban – bejelenteni
 
 a)
 
@@ -20,7 +20,7 @@ b) a jegyzett tőke felemelését vagy leszállítását,
 
 c) az egyes pénzügyi szolgáltatási tevékenységek szüneteltetését, korlátozását, megszüntetését,
 
-(3) Fióktelep formájában működő hitelintézet esetén az (1)–(2) bekezdés szerinti bejelentést a fióktelep vezető állású személye teszi meg, valamint a Felügyeletnek és az MNB-nek haladéktalanul – írásban – bejelenti azt is, ha
+(3) Fióktelep formájában működő hitelintézet esetén az (1)–(2) bekezdés szerinti bejelentést a fióktelep vezető állású személye teszi meg, valamint az MNB-nek haladéktalanul – írásban – bejelenti azt is, ha
 
 a) eszköz fenntartási mutatója száz százalék alá csökkent,
 

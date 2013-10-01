@@ -1,4 +1,4 @@
-15/A. § A Felügyelet engedélye szükséges pénzforgalmi intézmény
+15/A. § Az MNB engedélye szükséges pénzforgalmi intézmény
 
 a) pénzforgalmi szolgáltatási tevékenységének végzéséhez,
 

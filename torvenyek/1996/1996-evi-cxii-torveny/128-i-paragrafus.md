@@ -12,7 +12,7 @@ b) felhívhatja az igazgatóságot, hogy a jogszabályoknak, a létesítő okira
 
 c) indítványozhatja az igazgatóság egészének vagy egyes tagjainak felmentését, felelősségre vonását, valamint a közgyűlés rendkívüli összehívását,
 
-d) a Felügyelet egyidejűleg történt értesítésével összehívja a közgyűlést, ha az igazgatóság nem tesz eleget erre vonatkozó kötelezettségének,
+d) az MNB egyidejűleg történt értesítésével összehívja a közgyűlést, ha az igazgatóság nem tesz eleget erre vonatkozó kötelezettségének,
 
 e) véleményt nyilvánít a közgyűlés elé terjesztett éves költségvetésről, valamint éves beszámolóról, amely nélkül ezen tárgyakban érvényes határozat nem hozható,
 

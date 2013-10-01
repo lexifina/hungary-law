@@ -18,7 +18,7 @@ h) az alapító tulajdonosi
 
 szerkezetének, valamint azon körülményeknek a részletes leírását, amelyek miatt az alapító kapcsolatban álló személyek csoportjához tartozónak minősül, továbbá az irányító vállalat előző évre vonatkozó konszolidált éves beszámolóját, ha az irányító vállalat konszolidált beszámoló készítésére kötelezett,
 
-i) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez,
+i) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez,
 
 j) a kérelmező által folytatott, a székhely szerinti felügyeleti hatóság által engedélyezett 3. § szerinti tevékenységek megjelölését, valamint azokat a helyeket, ahol ezeket a tevékenységeket végzi,
 
@@ -28,9 +28,9 @@ l) a székhely szerinti felügyeleti hatóság nyilatkozatát arról, hogy a nem
 
 (2) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
-(3) Fióktelep formájában működő pénzügyi intézmény alapítási engedélyét a Felügyelet abban az esetben adja meg – az (1) bekezdésben és a 17. § (1) bekezdésében meghatározott feltételek teljesülése mellett –, ha
+(3) Fióktelep formájában működő pénzügyi intézmény alapítási engedélyét az MNB abban az esetben adja meg – az (1) bekezdésben és a 17. § (1) bekezdésében meghatározott feltételek teljesülése mellett –, ha
 
-a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező pénzügyi intézmény székhelye szerinti felügyeleti hatóság között,
+a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van az MNB és a kérelmező pénzügyi intézmény székhelye szerinti felügyeleti hatóság között,
 
 b) a kérelmező pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeknek megfelelő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal,
 

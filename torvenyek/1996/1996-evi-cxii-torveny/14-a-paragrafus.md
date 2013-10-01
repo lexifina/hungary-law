@@ -10,4 +10,4 @@ d) a hitelintézet partnerkockázatának kezeléséről szóló kormányrendelet
 
 engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak, vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak kell benyújtania a székhelye szerinti tagállam illetékes felügyeleti hatóságának.
 
-(2) A kérelem elbírálásában a Felügyelet a 14/B. §-ban foglaltak szerint együttműködik más tagállam illetékes felügyeleti hatóságával.
+(2) A kérelem elbírálásában az MNB a 14/B. §-ban foglaltak szerint együttműködik más tagállam illetékes felügyeleti hatóságával.

@@ -1,4 +1,4 @@
-30/B. § (1) A Felügyelet a független közvetítő működési engedélyét visszavonja, ha a közvetítő
+30/B. § (1) Az MNB a független közvetítő működési engedélyét visszavonja, ha a közvetítő
 
 a) az e törvényben előírt nyilvántartásba vételi és működési feltételek bármelyikének nem felel meg,
 
@@ -8,7 +8,7 @@ c) az engedély megadásától számított egy éven belül tevékenységét nem
 
 d) a tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre.
 
-(2) A Felügyelet a független közvetítő működési engedélyét visszavonhatja, ha a közvetítő
+(2) Az MNB a független közvetítő működési engedélyét visszavonhatja, ha a közvetítő
 
 a) működése súlyosan vagy ismétlődően megsérti az ügyfelek érdekeit,
 

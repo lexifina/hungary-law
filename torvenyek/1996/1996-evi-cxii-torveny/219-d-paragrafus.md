@@ -32,7 +32,7 @@ bk) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
 
 bl) a ba)–bk) pontokban foglaltakkal egyenértékű szakképesítéssel, vagy
 
-c) külön jogszabályban meghatározott, a Felügyelet által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával
+c) külön jogszabályban meghatározott, az MNB által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával
 
 rendelkezik.
 

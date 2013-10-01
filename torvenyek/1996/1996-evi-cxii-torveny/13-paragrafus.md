@@ -32,4 +32,4 @@ ab) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbia
 
 b) akivel szemben az a) pontban meghatározott bűncselekmények bármelyike miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig.
 
-(5) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (4) bekezdésben meghatározott foglalkoztatási feltétel fennállásának ellenőrzésére – a bűntettesek nyilvántartásának és a büntetőeljárás alatt állók nyilvántartásának adatai alapján – a Felügyelet jogosult.
+(5) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (4) bekezdésben meghatározott foglalkoztatási feltétel fennállásának ellenőrzésére – a bűntettesek nyilvántartásának és a büntetőeljárás alatt állók nyilvántartásának adatai alapján – az MNB jogosult.

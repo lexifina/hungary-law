@@ -1,6 +1,6 @@
 ## Az alapszabály módosításának engedélyezése
 
-20. § A Felügyelet engedélye szükséges a hitelintézetek alapszabályának módosításához a következő esetekben:
+20. § Az MNB engedélye szükséges a hitelintézetek alapszabályának módosításához a következő esetekben:
 
 a) a cég nevének és székhelyének megváltoztatása,
 

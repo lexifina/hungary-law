@@ -8,7 +8,7 @@ c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követ
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
 b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 
@@ -44,13 +44,13 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
-a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, amennyiben a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
+a) az adóhatóság és az MNB nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, amennyiben a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
 
 b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. §-ának (8) bekezdése alapján szolgáltat adatot,
 
 c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot.
 
-(4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet vagy az MNB helyszíni ellenőrzést folytat.
+(4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró MNB helyszíni ellenőrzést folytat.
 
 (5) A (2) és (3) bekezdés szerint adatkérésre jogosult a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkéréskor megjelölt.
 
@@ -64,7 +64,7 @@ b) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján k
 
 c) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, amennyiben a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
-(8) A Felügyelet, valamint az MNB jogszabályban a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
+(8) Az MNB jogszabályban a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
 
 (9) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
