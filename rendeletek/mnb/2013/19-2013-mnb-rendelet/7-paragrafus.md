@@ -1,0 +1,1 @@
+## 6. § A jegybanki információs rendszerhez szolgáltatandó információk és az információt szolgáltatók köréről, a szolgáltatás módjáról és határidejéről szóló 20/2012. (X. 15.) MNB rendelet (a továbbiakban: R.) 2. melléklete a 2. melléklet szerint módosul.
