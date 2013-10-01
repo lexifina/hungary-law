@@ -12,6 +12,6 @@ c) akinek a szakmai képesítése megszerzésének határidejére a Bit. 229. §
 
 (3) A független biztosításközvetítői hatósági vizsga a 2. számú mellékletben meghatározott „pénzügyi és biztosítási piac szereplői”, a „biztosításszakmai alapfogalmak”, a „biztosítási szerződésjog” és a „független biztosításközvetítői alapismeretek” vizsgatárgyakból áll. Valamennyi vizsgatárgyból a vizsgát egyidejűleg kell letenni.
 
-(4)[^10] Függő biztosításközvetítői hatósági vizsgával, illetve az R. 6. számú mellékletében megjelölt – vagy ennek megfelelő – függő biztosításközvetítő szakképesítéssel rendelkező biztosításközvetítő a vizsga megszerzését követő 2 éven belül – a képzés teljesítése nélkül – a 2. számú mellékletben meghatározott „független biztosításközvetítői alapismeretek” vizsgatárgyra vonatkozó önálló különbözeti vizsga sikeres letételével független biztosításközvetítői tanúsítványt szerezhet.
+(4)[^13] Függő biztosításközvetítői hatósági vizsgával, illetve az R. 2. mellékletében szereplő, 20. sorszámú, „Biztosításközvetítő (függő és független)” megnevezésű részszakképesítéssel – vagy ennek megfelelő – függő biztosításközvetítő szakképesítéssel vagy részszakképesítéssel rendelkező biztosításközvetítő a vizsga megszerzését követő 2 éven belül – a képzés teljesítése nélkül – a 2. számú mellékletben meghatározott független biztosításközvetítői alapismeretek vizsgatárgyra vonatkozó önálló különbözeti vizsga sikeres letételével független biztosításközvetítői tanúsítványt szerezhet.
 
-[^10]: A 7. § (4) bekezdése a 41/2008. (XII. 31.) PM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 7. § (4) bekezdése a 40/2013. (IX. 30.) NGM rendelet 6. §-ával megállapított szöveg.

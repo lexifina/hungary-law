@@ -1,6 +1,6 @@
 ## Tanúsítvány a függő biztosításközvetítői hatósági vizsgáról
 
-## Pénzügyi Szervezetek Állami Felügyelete Tanúsítvány száma:
+## Magyar Nemzeti Bank Tanúsítvány száma:
 
 ## Vizsgázó neve:
 
@@ -20,6 +20,6 @@
 
 ## aláírás
 
-4. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^38]
+4. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^43]
 
-[^38]: A 4. számú melléklet a 37/2009. (XII. 22.) PM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^43]: A 4. számú melléklet a 37/2009. (XII. 22.) PM rendelet 9. § (3) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 8. § g) pontja szerint módosított szöveg.

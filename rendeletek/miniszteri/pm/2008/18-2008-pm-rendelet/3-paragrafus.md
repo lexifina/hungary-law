@@ -14,7 +14,7 @@ e) a maximális csoportlétszámot,
 
 f) a résztvevők jelenléti nyilvántartásának rendjét.
 
-(3)[^6] A képző szervnél oktatóként az a személy foglalkoztatható, aki
+(3)[^9] A képző szervnél oktatóként az a személy foglalkoztatható, aki
 
 a) felsőfokú végzettséggel rendelkezik, valamint legalább 3 éves biztosításszakmai tapasztalatot szerzett
 
@@ -28,4 +28,4 @@ ad) biztosítók, biztosításközvetítők, szaktanácsadók szakmai érdekkép
 
 b) középiskolai végzettséggel rendelkezik, és biztosítónál vagy biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél legalább 10 év biztosításszakmai tapasztalatot szerzett.
 
-[^6]: A 3. § (3) bekezdése a 43/2011. (XII. 13.) NGM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 3. § (3) bekezdése a 43/2011. (XII. 13.) NGM rendelet 1. §-ával megállapított szöveg.

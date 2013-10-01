@@ -66,9 +66,9 @@
 
 ## C) A biztosítási piac működését érintő hatóságok és egyéb szervezetek
 
-## 1. Pénzügyi Szervezetek Állami Felügyeletének főbb feladatai, jogkörei
+## 1.[^40] Magyar Nemzeti Bank pénzügyi közvetítőrendszer felügyeletével kapcsolatos főbb feladatai, jogkörei
 
-## (Pénzügyi Szervezetek Állami Felügyeletének biztosításközvetítőkre vonatkozó ajánlásai, útmutatói)
+## (pénzügyi közvetítőrendszer felügyeletét ellátó szerv biztosításközvetítőkre vonatkozó ajánlásai, útmutatói)
 
 ## 2. Gazdasági Versenyhivatal (a biztosítást érintő versenyszabályok lényege)
 
@@ -263,3 +263,5 @@
 ## 4.3. Vagyonbiztosítási szabályok alkalmazása
 
 2. számú melléklet a 18/2008. (VI. 13.) PM rendelethez
+
+[^40]: Az 1. számú melléklet „I. Vizsgatárgy: Pénzügyi és biztosítási piac szereplői” megnevezésű pont C) alpont 1. pontja a 40/2013. (IX. 30.) NGM rendelet 8. § b)–c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Tanúsítvány a független biztosításközvetítői hatósági vizsgáról
 
-## Pénzügyi Szervezetek Állami Felügyelete Tanúsítvány száma:
+## Magyar Nemzeti Bank Tanúsítvány száma:
 
 ## Vizsgázó neve:
 
@@ -20,7 +20,7 @@
 
 ## aláírás
 
-5. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^39]
+5. számú melléklet a 18/2008. (VI. 13.) PM rendelethez[^44]
 
 Jelentkezési lap a hatósági vizsgára
 
@@ -54,4 +54,4 @@ Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem és annak felt�
 
 aláírás
 
-[^39]: Az 5. számú melléklet a 41/2008. (XII. 31.) PM rendelet 8. §-ával megállapított szöveg.
+[^44]: Az 5. számú melléklet a 41/2008. (XII. 31.) PM rendelet 8. §-ával megállapított szöveg.
