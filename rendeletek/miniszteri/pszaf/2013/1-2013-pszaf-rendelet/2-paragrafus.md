@@ -1,1 +1,0 @@
-## 1. § E rendelet alkalmazásában elektronikus űrlap: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet 2. § 3. pontjában meghatározott fogalom.
