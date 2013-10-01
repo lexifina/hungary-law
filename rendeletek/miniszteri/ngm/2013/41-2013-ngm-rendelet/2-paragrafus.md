@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény (a továbbiakban: Pktv.) 7. § (2) és (3) bekezdésében meghatározott pénzügyi ágazatbeli vállalkozásokra terjed ki.

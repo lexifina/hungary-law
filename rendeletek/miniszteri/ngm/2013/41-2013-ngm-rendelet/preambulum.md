@@ -1,0 +1,1 @@
+A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény 17. §-ában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § f) pontjában meghatározott feladatkörömben eljárva az alábbiakat rendelem el:
