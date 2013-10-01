@@ -1,3 +1,0 @@
-9. § (1) Ha a benyújtott támogatási igény nem felel meg a jogszabályi előírásoknak, valamint a támogatási felhívásban meghatározott formai követelményeknek, egy ízben, tizenöt napos határidő kitűzésével – a hibák, hiányosságok egyidejű megjelölése mellett – fel kell szólítani a támogatási igény benyújtóját a hiba kijavítására, a hiányosság pótlására.
-
-(2) Ha a támogatási igény előterjesztője a hiánypótlást hibásan, hiányosan nyújtja be, illetve a hiányosságokat nem pótolja a megadott határidőn belül, a kérelmet további vizsgálat nélkül el kell utasítani, és erről a támogatási igény előterjesztőjét értesíteni kell.

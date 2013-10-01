@@ -1,1 +1,0 @@
-Az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (9) bekezdésében kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában foglalt feladatkörében eljárva a pénzügyminiszterrel egyetértésben, a következőket rendelem el.

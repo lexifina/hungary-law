@@ -1,3 +1,0 @@
-24. § (1) A kedvezményezett a határon túli támogatásokról a szomszédos államokban élő magyaroknak nyújtott támogatások központi nyilvántartásáról szóló 233/2005. (X. 19.) Korm. rendelet szerint köteles a Támogatás Nyilvántartási Rendszernek adatszolgáltatást teljesíteni.
-
-(2) A határon túli előirányzatok esetében legfeljebb a költségvetési törvény szerint rendelkezésre álló előirányzatok 10%-a használható fel az előirányzatok kezelésével és felhasználásával kapcsolatos működési és felhalmozási kiadásokra, ideértve a szerződések előkészítésével és megkötésével, a nyilvántartással, a könyveléssel és a szakmai, továbbá pénzügyi ellenőrzéssel kapcsolatos költségeket, valamint a mindezek ellátásához szükséges feltételek biztosításával összefüggő kiadásokat is.

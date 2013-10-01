@@ -1,1 +1,0 @@
-## 3. § A kisebbségi előirányzattal, illetve a határon túli előirányzatokkal kapcsolatos feladatok ellátásában a Miniszterelnök Hivatal (a továbbiakban: MeH) szakállamtitkár által irányított szakfőosztályai (a Nemzeti és Etnikai Kisebbségi Főosztály, illetve a Nemzetpolitikai Ügyek Főosztálya) vesznek részt.
