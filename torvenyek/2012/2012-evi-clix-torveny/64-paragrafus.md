@@ -10,7 +10,7 @@ c) a postai szolgáltatások piacával kapcsolatos, a személyes adatok védelm�
 
 d) a 37. § (1) bekezdése alapján az engedély szempontjából figyelembe vett munkajogi jogsértésekkel kapcsolatos ellenőrzési feladatok ellátása érdekében a munkaügyi hatósággal, az állami adóhatósággal, az egyenlő bánásmód követelményének érvényesülését ellenőrző hatósággal, valamint az idegenrendészeti hatósággal,
 
-e) a postai szolgáltatásokhoz kapcsolódó pénzforgalmi szolgáltatások vonatkozásában a Pénzügyi Szervezetek Állami Felügyeletével.
+e) a postai szolgáltatásokhoz kapcsolódó pénzforgalmi szolgáltatások vonatkozásában a Felügyelettel.
 
 (2) A Hatóság a rendezett munkaügyi kapcsolatokra vonatkozó hatósági nyilvántartások adatait – az e törvényben meghatározott kötelezettségekkel összefüggésben – felhasználhatja.
 
