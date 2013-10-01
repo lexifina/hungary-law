@@ -2,6 +2,6 @@
 
 (2) E rendelet hatálybalépésekor működő vagy engedélyezési eljárás alatt álló vállalkozás e rendelet hatálybalépését követő 30 napon belül köteles módosítani az üzletszabályzatát.
 
-(3)[^1]
+(3)[^2]
 
-[^1]: A 7. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^2]: A 7. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

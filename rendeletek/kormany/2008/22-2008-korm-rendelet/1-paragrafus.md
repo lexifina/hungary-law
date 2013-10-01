@@ -1,6 +1,6 @@
 1. § (1) A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerinti befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást (a továbbiakban: kiegészítő szolgáltatás), valamint árutőzsdei szolgáltatást folytató gazdálkodó szervezet (a továbbiakban: vállalkozás) e tevékenysége tekintetében készített üzletszabályzata tartalmazza
 
-a) a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által engedélyezett befektetési szolgáltatási tevékenységek, kiegészítő szolgáltatások, árutőzsdei szolgáltatások, valamint a Bszt. 8. §-ának (5) bekezdésében meghatározott tevékenységek felsorolását,
+a)[^1] a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró a Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által engedélyezett befektetési szolgáltatási tevékenységek, kiegészítő szolgáltatások, árutőzsdei szolgáltatások, valamint a Bszt. 8. §-ának (5) bekezdésében meghatározott tevékenységek felsorolását,
 
 b) a Felügyelet által kiadott, az a) pontban foglalt tevékenységek végzésére jogosító határozat számát és keltét, a Felügyelet elnevezését, levelezési és honlapcímét,
 
@@ -39,3 +39,5 @@ c) ügyletfajtánként a vállalkozás, illetve az ügyfél kötelezettségét, 
 a) számlanyitás részletes feltételeit,
 
 b) a számla jóváírásáról, terheléséről és egyenlegéről történő ügyfélértesítés gyakoriságát és módját.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 345/2013. (IX. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.
