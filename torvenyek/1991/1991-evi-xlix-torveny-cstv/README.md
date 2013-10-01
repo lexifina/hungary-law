@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2013-01-02 | 2012. évi CIV. törvény | 1991-49-00-00.78 |
 | 2013-04-20 | 2013. évi XLVI. törvény | 1991-49-00-00.79 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1991-49-00-00.80 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 1991-49-00-00.81 |

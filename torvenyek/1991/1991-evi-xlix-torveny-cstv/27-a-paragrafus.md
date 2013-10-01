@@ -30,7 +30,7 @@ bf) aki maga, vagy akinek közeli hozzátartozója összeférhetetlen tevékenys
 
 bg) aki három éven belül az adós foglalkoztatottja volt, vagy – a rendes gazdálkodás körébe eső ügyleteken kívül – az adóssal üzleti kapcsolatban állt,
 
-bh) aki az adósnál a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti felügyeleti biztosi tevékenységet látott, vagy lát el,
+bh) aki az adósnál a Magyar Nemzeti Bankról szóló törvény szerinti felügyeleti biztosi tevékenységet látott, vagy lát el,
 
 bi) akit a felszámoló nem jelentett be a felszámolói nyilvántartást vezető szervnek.
 
