@@ -2,7 +2,7 @@
 
 9. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét kizárólag a Felügyelet által kiadott, tevékenységi engedélyről szóló jogerős határozat birtokában kezdheti meg. A tevékenységi engedély iránti kérelmet a cégbejegyzés iránti kérelem benyújtását igazoló okirat megérkezését követő naptól számított tizenöt napon belül kell benyújtani.
 
-(2) A tevékenység engedélyezésének eljárására a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény (a továbbiakban: Psztv.) rendelkezéseit e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A tevékenység engedélyezésének eljárására a Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNBtv.) rendelkezéseit e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A tevékenységi engedély megszerzéséig a foglalkoztatói nyugdíjszolgáltató intézmény gazdálkodása kizárólag a tevékenység megszervezésére irányulhat, kifizetések csak ezzel összefüggésben teljesíthetők.
 

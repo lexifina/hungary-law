@@ -78,4 +78,6 @@ c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szeri
 
 35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt azon időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz – az egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
 
-36. minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom.
+36. minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
+
+37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank.
