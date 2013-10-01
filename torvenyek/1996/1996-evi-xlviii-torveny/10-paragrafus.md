@@ -10,7 +10,7 @@ c) visszavonhatja a közraktári engedélyt;
 
 d) a közraktárt ötvenezer forinttól ötvenmillió forintig terjedő bírsággal sújthatja;
 
-e) a PSZÁF egyetértésével megtilthatja a zálogkölcsön-nyújtási tevékenység folytatását.
+e) az MNB egyetértésével megtilthatja a zálogkölcsön-nyújtási tevékenység folytatását.
 
 (1a) A felügyelet az (1) bekezdés b) és c) pontjában meghatározott intézkedéssel egyidejűleg értesíti a közraktárral a közraktározási biztosítékra szerződéses jogviszonyban álló hitelintézetet vagy biztosítót.
 

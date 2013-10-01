@@ -8,7 +8,7 @@
 
 (2) A közraktári engedély 10. § (1) bekezdés c) pontja szerinti visszavonása esetén a felügyelet felügyeleti jogkörét a közraktár által kibocsátott valamennyi közraktári jegy bevonásáig gyakorolhatja.
 
-(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – a PSZÁF-fel együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
+(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – az MNB-vel együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
 
 (4) Az ellenőrzés során a közraktár köteles
 

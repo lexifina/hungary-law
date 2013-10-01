@@ -1,6 +1,6 @@
 ## A közraktári engedély
 
-5. § (1) A közraktár a közraktári tevékenységet akkor kezdheti, illetőleg szüntetheti meg, ha azt a felügyelet a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) egyetértésével – az e törvényben meghatározott feltételek fennállása alapján – engedélyezte. A közraktár vámszabadterületen való működéséhez erre vonatkozó külön engedély is szükséges.
+5. § (1) A közraktár a közraktári tevékenységet akkor kezdheti, vagy szüntetheti meg, ha azt a felügyelet a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) egyetértésével – az e törvényben meghatározott feltételek fennállása alapján – engedélyezte. A közraktár vámszabadterületen való működéséhez erre vonatkozó külön engedély is szükséges.
 
 (2) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelemhez két példányban mellékelni kell:
 
