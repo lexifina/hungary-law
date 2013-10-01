@@ -24,7 +24,7 @@
 
 | Nevező | Hitelintézet mérlegfőösszege |
 
-3. melléklet a 366/2011. (XII. 30.) Korm. rendelethez[^6]
+3. melléklet a 366/2011. (XII. 30.) Korm. rendelethez[^9]
 
 A Devizafinanszírozás megfelelési mutató számításának módja
 
@@ -136,10 +136,10 @@ A mutató számítása során a nevező egyes sorai az alábbiak szerint értelm
 
 3. A táblázat 15. sorában szereplő olyan értékpapírok alatt, amelyeket 20%-os súlyozású kormányzat, központi bank bocsát ki vagy garantál, a Hkr. szerinti 20%-os hitelkockázati súlyozásba tartozó központi kormánnyal vagy központi bankkal szembeni kitettségeket kell érteni.
 
-4. A táblázat 17. sorában szereplő nem a hitelintézet vagy annak leányvállalata által kibocsátott tőzsdei indexben szereplő részvények között a hitelintézet saját tulajdonában lévő, de nem általa kibocsátott részvények állományát kell kimutatni adott időszak végi záróárfolyamán. Csak a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény alapján is elismerhető, és a Pénzügyi Szervezetek Állami Felügyeletének honlapján közzétett részvényeket lehet ebben a kategóriában figyelembe venni.
+4. A táblázat 17. sorában szereplő nem a hitelintézet vagy annak leányvállalata által kibocsátott tőzsdei indexben szereplő részvények között a hitelintézet saját tulajdonában lévő, de nem általa kibocsátott részvények állományát kell kimutatni adott időszak végi záróárfolyamán. Csak a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény alapján is elismerhető, és a Magyar Nemzeti Bank honlapján közzétett részvényeket lehet ebben a kategóriában figyelembe venni.
 
 5. A táblázat 18. sorában szereplő éven túli hátralévő lejáratú, nem csoporton belül kibocsátott jelzáloglevelek alatt az adatszolgáltató tulajdonában lévő azon 1 éven túl lejáró jelzáloglevelek állományát kell beszámítani névértéken, amelynek kibocsátója az adatszolgáltatóval nem ugyanazon összevont felügyeleti körbe tartozó hitelintézet.
 
 6. A táblázat 19. sorában szereplő bármilyen lejáratú, 35%-os, vagy annál kisebb súlyozású lakóingatlannal fedezett kitettségekhez a Hkr. szerint meghatározott feltételek alapján 35%-os vagy annál kisebb hitelkockázati súlyozású lakóingatlannal fedezett kitettségek tartoznak, függetlenül attól, hogy a hitelintézet a hitelezési kockázat kezelésére sztenderd vagy belső minősítési módszert alkalmaz. Ebbe a kategóriába tartozik a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követelése is.
 
-[^6]: A 3. melléklet a 165/2012. (VII. 19.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^9]: A 3. melléklet a 165/2012. (VII. 19.) Korm. rendelet 4. §-a, a 345/2013. (IX. 30.) Korm. rendelet 64. § c) pontja szerint módosított szöveg.

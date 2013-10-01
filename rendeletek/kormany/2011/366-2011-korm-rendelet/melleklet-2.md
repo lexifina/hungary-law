@@ -24,6 +24,6 @@
 
 | Nevező | A hitelintézetnél a háztartások és nem pénzügyi vállalatok által elhelyezett betétek állománya |
 
-2. melléklet a 366/2011. (XII. 30.) Korm. rendelethez[^5]
+2. melléklet a 366/2011. (XII. 30.) Korm. rendelethez[^8]
 
-[^5]: A 2. melléklet a 165/2012. (VII. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 165/2012. (VII. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
