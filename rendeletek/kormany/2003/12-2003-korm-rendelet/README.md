@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-12-20-2
 | 2011-01-15 | 2003-12-20-22.8 | 194/2010. (VI. 10.) Korm. rendelet |
 | 2011-04-13 | 2003-12-20-22.9 | 194/2010. (VI. 10.) Korm. rendelet |
 | 2013-01-01 | 2003-12-20-22.10 | 403/2012. (XII. 28.) Korm. rendelet |
+| 2013-10-01 | 2003-12-20-22.11 | 345/2013. (IX. 30.) Korm. rendelet |

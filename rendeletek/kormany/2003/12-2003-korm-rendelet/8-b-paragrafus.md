@@ -1,8 +1,8 @@
-8/B. §[^16] (1) Az árverés kiírásának előfeltétele, hogy a jogosult megkeresésében
+8/B. §[^19] (1) Az árverés kiírásának előfeltétele, hogy a jogosult megkeresésében
 
 a) jelölje meg az (5) bekezdés a)–h) pontjaiban meghatározott adatokat,
 
-b)[^17] csatolja a kezdeményezést megelőző hat hónapon belül készült, a beköltözhető forgalmi értékre vonatkozó szakértői értékbecslést,
+b)[^20] csatolja a kezdeményezést megelőző hat hónapon belül készült, a beköltözhető forgalmi értékre vonatkozó szakértői értékbecslést,
 
 c) csatolja a lakóingatlan lényeges tulajdonságainak megállapítására alkalmas fénykép- vagy videofelvételeket,
 
@@ -40,5 +40,5 @@ k) az árverés kezdő időpontját, amely a hirdetmény közzétételét legal�
 
 l) az arra való utalást, hogy árverezni kizárólag elektronikus úton lehetséges.
 
-[^16]: A 8/B. §-t a 114/2010. (IV. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2010. április 14-én folyamatban levő ügyekben alkalmazni kell.
-[^17]: A 8/B. § (1) bekezdés b) pontja a 169/2010. (V. 11.) Korm. rendelet 52. § (4) bekezdése szerint módosított szöveg.
+[^19]: A 8/B. §-t a 114/2010. (IV. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2010. április 14-én folyamatban levő ügyekben alkalmazni kell.
+[^20]: A 8/B. § (1) bekezdés b) pontja a 169/2010. (V. 11.) Korm. rendelet 52. § (4) bekezdése szerint módosított szöveg.

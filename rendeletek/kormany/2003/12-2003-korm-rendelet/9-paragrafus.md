@@ -1,10 +1,10 @@
-## 8/G. §[^22] A kötelezett által lakott lakóingatlan a Ptk. 257–258. § alkalmazásával 2011. július 1-jéig csak a kötelezett erre irányuló, az állami adóhatóságnál személyesen előterjesztett írásbeli hozzájárulása alapján értékesíthető és tehető közzé az árverési hirdetmény az EÁF-en. A kötelezett a nyilatkozatát az árverési hirdetmény közzétételét követően nem vonhatja vissza.
+## 8/G. §[^25] A kötelezett által lakott lakóingatlan a Ptk. 257–258. § alkalmazásával 2011. július 1-jéig csak a kötelezett erre irányuló, az állami adóhatóságnál személyesen előterjesztett írásbeli hozzájárulása alapján értékesíthető és tehető közzé az árverési hirdetmény az EÁF-en. A kötelezett a nyilatkozatát az árverési hirdetmény közzétételét követően nem vonhatja vissza.
 
-9. § (1)[^23] Az értékesítés sikertelen, ha a zálogkötelezettel kötött megállapodás szerinti határidőben és feltételek mellett a zálogtárgy értékesítése nem vezet eredményre.
+9. § (1)[^26] Az értékesítés sikertelen, ha a zálogkötelezettel kötött megállapodás szerinti határidőben és feltételek mellett a zálogtárgy értékesítése nem vezet eredményre.
 
 (2) Az értékesítés sikertelensége esetén a felek 15 napon belül az értékesítésre újabb határidőben állapodhatnak meg, ennek hiányában a jogosult 8 napon belül köteles a zálogtárgyat a zálogkötelezettnek visszaadni, és ezt csak abban az esetben mellőzheti, ha ez utóbbi határidő lejártától számított 15 napon belül bírósági végrehajtást kezdeményez.
 
 (3) Az értékesítésre megszabott határidő sikertelen elteltére nem hivatkozhat az a zálogkötelezett, aki a vele kötött megállapodásban foglalt, illetve az e rendelet szerinti kötelezettségeinek nem tett eleget. A kötelezettségek késedelmes teljesítése esetén a késedelem időtartamát az értékesítésre megszabott határidő számításánál figyelmen kívül kell hagyni. E tényről, illetve a figyelmen kívül hagyott időtartamról a zálogkötelezettet írásban tájékoztatni kell.
 
-[^22]: A 8/G. §-t a 194/2010. (VI. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 2/2011. (I. 14.) Korm. rendelet 1. §-ával megállapított, az 58/2011. (IV. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^23]: A 9. § (1) bekezdése a 209/2009. (IX. 29.) Korm. rendelet 4. §-ával megállapított, a 114/2010. (IV. 13.) Korm. rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (2) bekezdése alapján a 2010. április 14-én folyamatban levő ügyekben alkalmazni kell.
+[^25]: A 8/G. §-t a 194/2010. (VI. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 2/2011. (I. 14.) Korm. rendelet 1. §-ával megállapított, az 58/2011. (IV. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^26]: A 9. § (1) bekezdése a 209/2009. (IX. 29.) Korm. rendelet 4. §-ával megállapított, a 114/2010. (IV. 13.) Korm. rendelet 2. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (2) bekezdése alapján a 2010. április 14-én folyamatban levő ügyekben alkalmazni kell.

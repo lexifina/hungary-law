@@ -16,10 +16,10 @@ f) a zálogkötelezettet megillető maradványösszeget.
 
 (3) Kifogás esetén – az észrevételekre figyelemmel – a jogosult az írásbeli elszámolást fenntartja vagy módosítja. Erről az érdekelteket írásban és azzal tájékoztatja, hogy a figyelembe nem vett kifogásaikat, illetve észrevételeiket a továbbiakban bírósági úton, nem peres eljárás keretében érvényesíthetik. Ha az eljárás megindítását az érdekelt a tájékoztatás közlésétől számított 15 napon belül igazolja, a jogosult az értékesítés során befolyt összeget vagy annak vitatott részét köteles bírósági letétbe helyezni.
 
-(4)[^24] A (3) bekezdés szerinti nem peres eljárás megindítása iránti kérelmet a zálogkötelezett lakóhelye szerint illetékes járásbírósághoz kell benyújtani.
+(4)[^27] A (3) bekezdés szerinti nem peres eljárás megindítása iránti kérelmet a zálogkötelezett lakóhelye szerint illetékes járásbírósághoz kell benyújtani.
 
 (5) Kifogás vagy az eljárás megindítása igazolásának hiányában a jogosult az (1) bekezdés b) és d) pontjában foglalt tételeket összesíti, abból levonja a c) pont szerint elszámolható költségeket, majd a fennmaradó összeget az e) pontban foglaltaknak megfelelő rangsor szerint és mértékben a zálogjogosultak között felosztja, ezt követően pedig kiadja a zálogkötelezettnek az (1) bekezdés f) pontja szerinti maradványösszeget.
 
 (6) Közös értékesítés esetén írásbeli elszámolást csak akkor kell készíteni, ha a felek ebben megállapodtak vagy az értékesítésbe más zálogjogosult is bekapcsolódott.
 
-[^24]: A 10. § (4) bekezdése a 403/2012. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^27]: A 10. § (4) bekezdése a 403/2012. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
