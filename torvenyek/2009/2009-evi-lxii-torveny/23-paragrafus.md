@@ -4,7 +4,7 @@
 
 (2) A szerződő üzemben tartónak a szerződés megkötésekor fennálló közlési vagy együttműködési kötelezettségének megsértése esetén a szerződés díja legkésőbb a kockázatviselés kezdetét követő hatvan napon belül, az üzemben tartó egyidejű értesítése mellett – a szerződéskötéskor fennálló tények figyelembevételével – a kockázatviselés kezdetétől alkalmazandó hatállyal módosítható a biztosítási időszak, illetve tartam kezdőnapján alkalmazandó díjtarifa szerint.
 
-(3) A biztosító köteles minden egyedi szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Felügyelet elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa alkalmazandó.
+(3) A biztosító köteles minden egyedi szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Magyar Nemzeti Bank elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa alkalmazandó.
 
 (4) A biztosító köteles a biztosítási feltételeit és az alkalmazandó díjtarifáját az ügyfélfogadásra rendelkezésre álló helyiségeiben és a honlapján folyamatosan hozzáférhetővé tenni.
 
