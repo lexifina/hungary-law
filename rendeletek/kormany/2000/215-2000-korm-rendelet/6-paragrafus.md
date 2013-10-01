@@ -2,9 +2,9 @@
 
 (2) Indulótőkeként kell kimutatni a befektetési alap forgalomban lévő befektetési jegyeinek névértékét.
 
-(3)[^19] Tőkeváltozásként (tőkenövekményként) kell kimutatni a befektetési alap nettó eszközértékének és a forgalomban lévő befektetési jegyei névértékének különbségét. A tőkeváltozás (tőkenövekmény) magában foglalja az üzleti évet megelőző években és az üzleti évben keletkezett eredmény, az értékelési különbözet tartaléka, valamint a visszavásárolt befektetési jegyek névértéke és visszavásárlási értéke közötti különbözet (bevonási értékkülönbözet) összegét.
+(3)[^20] Tőkeváltozásként (tőkenövekményként) kell kimutatni a befektetési alap nettó eszközértékének és a forgalomban lévő befektetési jegyei névértékének különbségét. A tőkeváltozás (tőkenövekmény) magában foglalja az üzleti évet megelőző években és az üzleti évben keletkezett eredmény, az értékelési különbözet tartaléka, valamint a visszavásárolt befektetési jegyek névértéke és visszavásárlási értéke közötti különbözet (bevonási értékkülönbözet) összegét.
 
-(4)[^20] Kötelezettségként kell kimutatni:
+(4)[^21] Kötelezettségként kell kimutatni:
 
 a) ingatlanalap esetében a vásárolt ingatlanok és állampapírok pénzügyileg nem rendezett vételárának összegét;
 
@@ -20,5 +20,5 @@ f) a külföldi pénzértékre szóló kötelezettségek értékelési különb�
 
 (5) Passzív időbeli elhatárolásként kell kimutatni a forgalomban lévő befektetési jegyek után a mérleg fordulónapján az üzleti évet időarányosan terhelő, és a mérleg fordulónapját követően fizetendő hozamok összegét.
 
-[^19]: A 6. § (3) bekezdése a 289/2001. (XII. 26.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^20]: A 6. § (4) bekezdése a 289/2001. (XII. 26.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^20]: A 6. § (3) bekezdése a 289/2001. (XII. 26.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^21]: A 6. § (4) bekezdése a 289/2001. (XII. 26.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.

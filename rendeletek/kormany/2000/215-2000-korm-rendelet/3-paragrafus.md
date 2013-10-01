@@ -4,11 +4,11 @@
 
 (2)[^7] A befektetési alap az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból, a 10. § szerinti kiegészítő mellékletből álló éves beszámolót köteles készíteni. Az éves beszámolóval egyidejűleg a Tv. szerinti üzleti jelentést is el kell készíteni.
 
-(3) A befektetési alap belső számviteli rendjét oly módon köteles kialakítani, hogy az év közben is alkalmas legyen a Pénzügyi Szervezetek Állami Felügyelete információs igényeinek kielégítésére.
+(3)[^8] A befektetési alap belső számviteli rendjét oly módon köteles kialakítani, hogy az év közben is alkalmas legyen a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank információs igényeinek kielégítésére.
 
-(4)[^8] A befektetési alap – a számviteli politikájában rögzített döntése alapján – a forint helyett devizában vezetheti könyvviteli nyilvántartásait és készítheti el éves beszámolóját, amennyiben az általa kibocsátott befektetési jegyek – a kibocsátási tájékoztató szerint – külföldi pénznemre szólnak. A könyvvezetés és az éves beszámoló készítés devizaneme ilyen esetben megegyezik azzal a pénznemmel, amelyre a kibocsátott befektetési jegyek szólnak (a továbbiakban: befektetési jegy devizaneme).
+(4)[^9] A befektetési alap – a számviteli politikájában rögzített döntése alapján – a forint helyett devizában vezetheti könyvviteli nyilvántartásait és készítheti el éves beszámolóját, amennyiben az általa kibocsátott befektetési jegyek – a kibocsátási tájékoztató szerint – külföldi pénznemre szólnak. A könyvvezetés és az éves beszámoló készítés devizaneme ilyen esetben megegyezik azzal a pénznemmel, amelyre a kibocsátott befektetési jegyek szólnak (a továbbiakban: befektetési jegy devizaneme).
 
-(5)[^9] Ha a (4) bekezdés rendelkezései alapján a befektetési alap a forintban történő könyvvezetésről áttér a devizában való könyvvezetésre és éves beszámoló készítésre, akkor a Tv. 145. és 146. §-ait, valamint 149. §-ának (1) és (2) bekezdéseit kell megfelelően alkalmazni, a következő eltérésekkel:
+(5)[^10] Ha a (4) bekezdés rendelkezései alapján a befektetési alap a forintban történő könyvvezetésről áttér a devizában való könyvvezetésre és éves beszámoló készítésre, akkor a Tv. 145. és 146. §-ait, valamint 149. §-ának (1) és (2) bekezdéseit kell megfelelően alkalmazni, a következő eltérésekkel:
 
 a) a Tv. szerinti, létesítő okiratban rögzített deviza helyett a befektetési jegy devizanemét kell érteni,
 
@@ -27,5 +27,6 @@ g) a Tv. 149. §-ának (2) bekezdésében említett, a cégbíróságon forintba
 h) a Tv. 149. §-ának (2) bekezdése szerinti különbözeteket minden esetben a saját tőkén belüli tőkeváltozásban az előző év(ek) eredményét módosító tételként kell figyelembe venni a g) pontra tekintettel.
 
 [^7]: A 3. § (2) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^8]: A 3. § (4) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 39. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
-[^9]: A 3. § (5) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 39. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^8]: A 3. § (3) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 39. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^10]: A 3. § (5) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 39. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.

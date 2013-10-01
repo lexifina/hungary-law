@@ -16,27 +16,27 @@ a) a befektetett pénzügyi eszközök között és a forgóeszközök között 
 
 b) a befektetett pénzügyi eszközök között vagy a forgóeszközök között kimutatott értékpapírok után kapott kamat és osztalék összegét;
 
-c)[^27] a rövid és hosszú lejáratú bankbetétek (forint- és devizabetétek) után kapott, illetve a mérleg fordulónapján, az üzleti évre időarányosan járó kamat, valamint az óvadéki repoba vétel után kapott, illetve járó kamat és az értékpapír kölcsönbe adás után kapott, illetve járó kölcsönzési díj összegét;
+c)[^28] a rövid és hosszú lejáratú bankbetétek (forint- és devizabetétek) után kapott, illetve a mérleg fordulónapján, az üzleti évre időarányosan járó kamat, valamint az óvadéki repoba vétel után kapott, illetve járó kamat és az értékpapír kölcsönbe adás után kapott, illetve járó kölcsönzési díj összegét;
 
-d)[^28] a valuta és deviza eladásakor, átváltásakor, illetve a külföldi pénzértékre szóló követelések és kötelezettségek pénzügyi rendezésekor realizált devizaárfolyam-nyereség összegét;
+d)[^29] a valuta és deviza eladásakor, átváltásakor, illetve a külföldi pénzértékre szóló követelések és kötelezettségek pénzügyi rendezésekor realizált devizaárfolyam-nyereség összegét;
 
-e)[^29] a származtatott ügyletek lezárásakor realizált kamatjellegű bevételek, illetve árfolyamnyereségek összegét.
+e)[^30] a származtatott ügyletek lezárásakor realizált kamatjellegű bevételek, illetve árfolyamnyereségek összegét.
 
 (8) A pénzügyi műveletek ráfordításai között kell kimutatni a befektetési alapnál:
 
 a) a befektetett pénzügyi eszközök és a forgóeszközök között kimutatott értékpapírok értékesítésekor – illetve beváltásakor – az értékpapír szerződés szerinti eladási árának és könyv szerinti (beszerzési) értékének különbözeteként adódó árfolyamveszteség összegét;
 
-b)[^30] nyílt végű alap esetén az alapkezelő által az alap részére felvett hitelek után fizetett (fizetendő) kamat összegét, valamint az óvadéki repoba adás után fizetett, illetve fizetendő kamat és az értékpapír kölcsönbe vétel után fizetett, illetve fizetendő kölcsönzési díj összegét;
+b)[^31] nyílt végű alap esetén az alapkezelő által az alap részére felvett hitelek után fizetett (fizetendő) kamat összegét, valamint az óvadéki repoba adás után fizetett, illetve fizetendő kamat és az értékpapír kölcsönbe vétel után fizetett, illetve fizetendő kölcsönzési díj összegét;
 
-c)[^31] a valuta és deviza eladásakor, átváltásakor, illetve a külföldi pénzértékre szóló követelések és kötelezettségek pénzügyi rendezésekor realizált devizaárfolyam-veszteség összegét;
+c)[^32] a valuta és deviza eladásakor, átváltásakor, illetve a külföldi pénzértékre szóló követelések és kötelezettségek pénzügyi rendezésekor realizált devizaárfolyam-veszteség összegét;
 
-d)[^32] a származtatott ügyletek lezárásakor realizált kamatjellegű ráfordítások, illetve árfolyamveszteségek összegét.
+d)[^33] a származtatott ügyletek lezárásakor realizált kamatjellegű ráfordítások, illetve árfolyamveszteségek összegét.
 
 (9) Fizetett, fizetendő hozamként kell kimutatni a befektetési jegyek névértéke után fizetett, illetve a mérleg fordulónapján időarányosan az üzleti évet terhelő, fizetendő hozamok összegét.
 
-[^27]: A 9. § (7) bekezdésének c) pontja a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^28]: A 9. § (7) bekezdésének d) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^29]: A 9. § (7) bekezdésének e) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^30]: A 9. § (8) bekezdésének b) pontja a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^31]: A 9. § (8) bekezdésének c) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (4) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^32]: A 9. § (8) bekezdésének d) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (4) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^28]: A 9. § (7) bekezdésének c) pontja a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^29]: A 9. § (7) bekezdésének d) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^30]: A 9. § (7) bekezdésének e) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (2) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^31]: A 9. § (8) bekezdésének b) pontja a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^32]: A 9. § (8) bekezdésének c) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (4) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^33]: A 9. § (8) bekezdésének d) pontját a 289/2001. (XII. 26.) Korm. rendelet 6. §-ának (4) bekezdése iktatta a szövegbe, e módosító rendelet 11. §-a alapján rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
