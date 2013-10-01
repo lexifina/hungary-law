@@ -102,7 +102,7 @@ történik a kiállítása;
 
 33. a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat elrendelésére irányuló eljárás,
 
-34. a Pénzügyi Szervezetek Állami Felügyeletének fogyasztóvédelmi eljárása;
+34. a pénzügyi közvetítőrendszer felügyeletét ellátó szerv fogyasztóvédelmi eljárása;
 
 35. a fogyasztóvédelmi hatóság első fokú fogyasztóvédelmi eljárása;
 

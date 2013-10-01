@@ -4,11 +4,11 @@
 
 a) olyan, ingatlanok tulajdonjogának értékesítését (a továbbiakban: ingatlanforgalmazást) végző vállalkozó, amelynek előző adóévi nettó árbevétele legalább 50%-ban e tevékenységből származott, vagy
 
-b) Pénzügyi Szervezetek Állami Felügyelete által kiadott engedély alapján pénzügyi lízinget folytató vállalkozó
+b) engedély alapján pénzügyi lízinget folytató vállalkozó
 
 és legkésőbb a fizetési meghagyás jogerőre emelkedéséig nyilatkozatban vállalja, hogy az ingatlant az illetékkiszabásra történő bejelentéstől számított két éven belül eladja, illetve a futamidő végén tulajdonjog átszállást eredményező pénzügyi lízingbe adja. A vállalkozó nem teljesíti az illetékkedvezmény e bekezdés szerinti feltételét az ingatlan 26. § (1) bekezdés t) pontja szerinti átruházásával.
 
-(2) A Pénzügyi Szervezetek Állami Felügyeletének engedélyével működő ingatlanalap az (1) bekezdésben meghatározott illetéket fizeti ingatlanszerzése után.
+(2) Engedély alapján működő ingatlanalap az (1) bekezdésben meghatározott illetéket fizeti ingatlanszerzése után.
 
 (3) A nettó árbevétel megoszlásáról a vagyonszerző a fizetési meghagyás jogerőre emelkedéséig nyilatkozik. Ha az illetékkiszabásra történő bejelentésre az adóév hatodik hónapjának 1. napját megelőzően kerül sor, a vagyonszerzőnek arról kell nyilatkoznia, hogy nettó árbevétele előreláthatólag az (1) bekezdésben foglaltak szerint oszlik meg. Amennyiben a nyilatkozatban vállaltak nem teljesültek, úgy a vállalkozó az illetékkötelezettség keletkezése szerinti adóév hatodik hónapjának 15. napjáig jelezheti ezt a körülményt az állami adóhatóság felé, amely a 19. § (1) bekezdés alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének 50%-kal növelt összegét a vagyonszerző terhére pótlólag előírja. Ha az állami adóhatóság adóellenőrzés keretében megállapítja, hogy a vagyonszerző valótlan nyilatkozatot tett, a vagyonszerzésre a 19. § (1) bekezdése alapján egyébként fizetendő és az (1) bekezdés szerint megállapított illeték különbözetének kétszeresét az állami adóhatóság a vállalkozó terhére pótlólag előírja.
 

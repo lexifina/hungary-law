@@ -32,7 +32,7 @@ j) a kisajátított vagy bányakárt szenvedett ingatlanért kapott csereingatla
 
 k) a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárából történő ingatlanvásárlás, ide értve az ilyen ingatlanra vonatkozó más személyt megillető jog megszűnéséért a vételárból történő azonos jog vásárlását is;
 
-l) gépjármű, pótkocsi tulajdonjogának olyan vállalkozó általi megszerzése, melynek előző adóévi nettó árbevételének legalább 50%-a gépjárművek és pótkocsik értékesítéséből származott (gépjármű-forgalmazó), továbbá Pénzügyi Szervezetek Állami Felügyelete által nyilvántartásba vett pénzügyi lízinget folytató vállalkozó általi megszerzése;
+l) gépjármű, pótkocsi tulajdonjogának olyan vállalkozó általi megszerzése, melynek előző adóévi nettó árbevételének legalább 50%-a gépjárművek és pótkocsik értékesítéséből származott (gépjármű-forgalmazó), továbbá a pénzügyi közvetítőrendszer felügyeletét ellátó szerv által vezetett nyilvántartásban szereplő pénzügyi lízinget folytató vállalkozó általi megszerzése;
 
 m) a helyi önkormányzat vagy az állam tulajdonában álló lakás tulajdonjogának, haszonélvezeti jogának a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: lakástörvény) 45. §-ának (1) bekezdése alapján vételi joggal rendelkező, továbbá 49. §-ának (1)—(2) bekezdése alapján elővásárlási joggal rendelkező személy által történő megszerzése;
 
