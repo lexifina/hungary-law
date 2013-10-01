@@ -1,3 +1,3 @@
-## 6. §[^2]
+## 6. § A Rendelet 52/A. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 6. § a 11. § (2) bekezdése alapján 2013. október 1-jén lép hatályba.
+## „(5) Az örökségvédelmi elismerések adományozására a Műemléki Világnap (április 18.) alkalmából kerül sor.”
