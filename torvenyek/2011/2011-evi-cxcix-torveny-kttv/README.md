@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2013-06-28 | 2013. évi CXIII. törvény | 2011-199-00-00.13 |
 | 2013-07-01 | 2012. évi CCV. törvény | 2011-199-00-00.14 |
 | 2013-08-01 | 2013. évi LXXII. törvény | 2011-199-00-00.15 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2011-199-00-00.16 |
