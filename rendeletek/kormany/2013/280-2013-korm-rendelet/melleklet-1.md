@@ -1,3 +1,1 @@
-1–2. melléklet a 280/2013. (VII. 24.) Korm. rendelethez[^12]
-
-[^12]: Az 1–2. melléklet a 24. § (3) bekezdése alapján 2013. október 1-jén lép hatályba.
+1. melléklet a 280/2013. (VII. 24.) Korm. rendelethez
