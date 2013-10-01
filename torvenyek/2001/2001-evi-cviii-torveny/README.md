@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-108-00-00
 | 2011-12-22 | 2011. évi CLXXV. törvény | 2001-108-00-00.15 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2001-108-00-00.16 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2001-108-00-00.17 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2001-108-00-00.18 |
