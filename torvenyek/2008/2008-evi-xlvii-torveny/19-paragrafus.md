@@ -2,7 +2,7 @@
 
 a) a fogyasztóvédelmi hatóság eljárása tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.),
 
-b) a Pénzügyi Szervezetek Állami Felügyeletének eljárása tekintetében a Psztv.,
+b) a Felügyelet eljárása tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.),
 
 c) a Gazdasági Versenyhivatal eljárása tekintetében a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.)
 

@@ -2,4 +2,4 @@
 
 (2) Az együttműködést szolgáló adatok és információk átadásának, így különösen a 20. § (3) bekezdésében, illetve a 23. § (2) bekezdésében, a 25. § (3) bekezdésében és a 26. § (2) bekezdésében előírt értesítés megtételének módját a hatóságok együttműködésük keretében állapítják meg.
 
-(3) Az együttműködés részletes szabályaira vonatkozóan a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal és a Pénzügyi Szervezetek Állami Felügyelete együttműködési megállapodást kötnek, amelyet évente felülvizsgálnak, és honlapjukon a nyilvánosság számára hozzáférhetővé tesznek.
+(3) Az együttműködés részletes szabályaira vonatkozóan a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal és a Felügyelet együttműködési megállapodást kötnek, amelyet évente felülvizsgálnak, és honlapjukon a nyilvánosság számára hozzáférhetővé tesznek.

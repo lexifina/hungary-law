@@ -1,6 +1,6 @@
 ## Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
-28. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2005/29/EK európai parlamenti és tanácsi irányelvet átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében a fogyasztóvédelmi hatóság, a Pénzügyi Szervezetek Állami Felügyelete vagy a Gazdasági Versenyhivatal látja el, a 10. §-ban meghatározottak szerint.
+28. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2005/29/EK európai parlamenti és tanácsi irányelvet átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében a fogyasztóvédelmi hatóság, a Felügyelet vagy a Gazdasági Versenyhivatal látja el, a 10. §-ban meghatározottak szerint.
 
 (2) A kölcsönös jogsegély során az (1) bekezdés szerinti hatóságok a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően járnak el.
 

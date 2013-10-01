@@ -1,1 +1,1 @@
-24. § A Psztv. 70. §-ának alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
+24. § Az MNBtv. 87. §-ának alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
