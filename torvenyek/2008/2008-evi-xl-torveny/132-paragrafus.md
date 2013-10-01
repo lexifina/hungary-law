@@ -4,7 +4,7 @@
 
 132. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-1. a Magyar Energetikai és Közmű-szabályozási Hivatal által kiszabható bírság felső határát,
+1. a Magyar Energetikai és Közmű-szabályozási Hivatal által kiszabható bírság mértékét,
 
 2. a panaszok engedélyesek általi kezelésére és a felhasználók, illetve lakossági fogyasztók általi benyújtására vonatkozó eljárási szabályokat,
 
@@ -105,3 +105,5 @@
 50. a 994/2010/EU európai parlamenti és tanácsi rendelet 4. cikke szerinti megelőzési cselekvési tervet és vészhelyzeti tervet,
 
 51. a földgázellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
+
+52. a földgázkereskedő által a földgáz biztonsági készletezéséről szóló törvény szerinti tagi hozzájárulás visszaigénylése és a 141/C. § alapján felajánlott földgázforrás felhasználása céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat.

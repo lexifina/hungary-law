@@ -32,7 +32,13 @@
 
 14. a rendszerüzemeltetők által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
 
-15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
+15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
+
+16. az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározott nemzeti nyilvántartás létrehozásával és működtetésével kapcsolatos részletes szabályokat,
+
+17. az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti bennfentes információk közzétételével kapcsolatos részletszabályokat,
+
+18. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit.
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 

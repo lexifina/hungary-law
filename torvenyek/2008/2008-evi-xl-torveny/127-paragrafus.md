@@ -44,6 +44,8 @@ m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben 
 
 n) dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve a 64. § (1) bekezdése szerinti lakossági fogyasztói panaszokat;
 
+ny) ellátja a földgázpiacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez;
+
 o) a folyamatos és biztonságos földgázellátás fenntartása érdekében folyamatosan ellenőrzi
 
 oa) a földgázvezetékek és a földgáztárolók kapacitását, a földgázkereskedő rendelkezésre álló gázforrásait, a tárolt földgáz mennyiségeket, és a szállítóvezeték egyensúlyozáshoz rendelkezésre álló eszközeit, gázforrásait,

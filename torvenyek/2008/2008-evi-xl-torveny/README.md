@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2013-05-10 | 2013. évi LIV. törvény | 2008-40-00-00.29 |
 | 2013-06-29 | 2013. évi XCVIII. törvény | 2008-40-00-00.30 |
 | 2013-07-01 | 2013. évi LXXIX. törvény | 2008-40-00-00.31 |
+| 2013-10-01 | 2013. évi CXLV. törvény | 2008-40-00-00.32 |

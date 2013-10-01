@@ -1,0 +1,1 @@
+61/H. § Ha a Hivatal a 61/G. § (1) bekezdése szerinti tilalmak megsértését ellenőrzési eljárás során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre a nagykereskedelmi piacfelügyeleti eljárás szabályai irányadóak.

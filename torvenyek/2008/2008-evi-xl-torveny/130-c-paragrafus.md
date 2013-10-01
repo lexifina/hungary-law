@@ -1,0 +1,1 @@
+130/C. § A miniszter felkérheti az Európai Bizottság képviselőjét a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos tárgyalásokon megfigyelőként történő részvételre.

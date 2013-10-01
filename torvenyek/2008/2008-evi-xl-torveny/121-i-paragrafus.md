@@ -1,4 +1,4 @@
-## A független rendszerüzemeltetőre vonatkozó szétválasztási szabályok
+## A független rendszerüzemeltetőre, valamint a vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosára és földgáztárolói engedélyesére vonatkozó szétválasztási szabályok
 
 121/I. § (1) A 119/A. § (3) bekezdés alkalmazása vagy az ügyfél erre irányuló kérelme esetén a Hivatal által kijelölésre kerülő független rendszerüzemeltetőnek – az átruházott feladatok jellegétől függően – az alábbi feltételeknek kell megfelelnie:
 
@@ -28,9 +28,9 @@ e) a tulajdonában lévő szállítóvezetéket és a szállítási tevékenysé
 
 (4) A szállítóvezeték tulajdonosának felelőssége nem terjed ki a 81. §-ban foglalt fejlesztések tervezésére és a 74. § szerinti hálózati hozzáférések biztosítására.
 
-(5) A vertikálisan integrált vállalkozás részét képező szállítóvezeték tulajdonosának és a földgáztároló engedélyesnek legalább társasági formájukban, valamint szervezeti és döntéshozatali szempontjából függetlennek kell lennie a rendszerüzemeltetéshez nem kapcsolódó egyéb tevékenységektől, legalább a következők szerint:
+(5) A vertikálisan integrált vállalkozás részét képező szállítóvezeték tulajdonosának és földgáztároló engedélyesének legalább társasági formájukban, valamint szervezeti és döntéshozatali szempontjából függetlennek kell lennie a rendszerüzemeltetéshez nem kapcsolódó egyéb tevékenységektől, legalább a következők szerint:
 
-a) a szállítóvezeték tulajdonos és a földgáztároló engedélyes operatív irányítását végző személy nem vehetnek részt az integrált földgázipari vállalkozás azon szervezetében, amely földgáztermelői, földgázelosztói és földgáz-kereskedelmi tevékenység napi üzemviteléért közvetlenül vagy közvetve felelős,
+a) a szállítóvezeték tulajdonos és a földgáztároló engedélyes operatív irányítását végző személy nem vehetnek részt az integrált földgázipari vállalkozás azon szervezetében, amely földgáztermelői vagy földgáz-kereskedelmi tevékenység napi üzemviteléért közvetlenül vagy közvetve felelős,
 
 b) a szállítóvezeték tulajdonos és a földgáztároló engedélyes operatív irányítását végző személy munkaszerződésében vagy megbízási szerződésében foglalt jogokat és kötelezettségeket, munkabérét és egyéb juttatásait, munkavégzésének feltételeit és szakmai érdekeit úgy kell meghatározni, hogy feladatai ellátása során biztosítsa számunkra a független cselekvés lehetőségét, és
 
