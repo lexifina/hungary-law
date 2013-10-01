@@ -1,4 +1,4 @@
-7. § (1)[^17] Fogyasztóvédelmi hatóságként a Kormány – a Pénzügyi Szervezetek Állami Felügyelete hatáskörébe tartozó ügyek kivételével – közigazgatási hatósági ügyekben az NFH-t és a területileg illetékes felügyelőséget jelöli ki.
+7. § (1)[^17] Fogyasztóvédelmi hatóságként a Kormány – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörbe tartozó ügyek kivételével – közigazgatási hatósági ügyekben az NFH-t és a területileg illetékes felügyelőséget jelöli ki.
 
 (2)[^18] Közigazgatási hatósági ügyekben első fokon megyei illetékességgel a felügyelőségek, másodfokon országos illetékességgel az NFH jár el.
 
@@ -20,7 +20,7 @@ bb) az érintett kereskedelmi gyakorlat az EEKH hatáskörébe tartozó, az orvo
 
 (4)[^22] A Kormány a tengeri és belvízi közlekedést igénybe vevő utasok jogairól, valamint a 2006/2004/EK rendelet módosításáról szóló, 2010. november 24-i 1177/2010/EU európai parlamenti és tanácsi rendeletben előírt, a hajók üzemképessége és a hajózási létesítmények engedélyezésének feltételeként meghatározott akadálymentesítéssel össze nem függő kötelezettség megsértése miatti eljárásban szakhatóságként az első fokú eljárásban a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát, a másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központját jelöli ki abban a szakkérdésben, hogy a járattörlés vagy a késés a hajó biztonságos üzemeltetését veszélyeztető időjárási viszonyok vagy a személyszállítási szolgáltatás teljesítését megakadályozó olyan rendkívüli körülmények miatt következett-e be, amelyeket minden ésszerű intézkedés megtétele esetén sem lehetett volna elkerülni.
 
-[^17]: A 7. § (1) bekezdése a 153/2009. (VII. 23.) Korm. rendelet 2. §-ával megállapított, a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^17]: A 7. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 45. §-ával megállapított szöveg.
 [^18]: A 7. § (2) bekezdése a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^19]: A 7. § (3) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 21. § (3) bekezdés c) pontja hatályon kívül helyezte, újonnan a 182/2009. (IX. 10.) Korm. rendelet 566. §-a iktatta be. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^20]: A 7. § (3) bekezdés a) pont nyitó szövegrésze az 59/2011. (IV. 12.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
