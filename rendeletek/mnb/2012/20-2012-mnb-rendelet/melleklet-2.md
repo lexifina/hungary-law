@@ -284,7 +284,7 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatás |
 
-2. melléklet a 20/2012. (X. 15.) MNB rendelethez[^8]
+2. melléklet a 20/2012. (X. 15.) MNB rendelethez[^9]
 
 I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -428,9 +428,9 @@ A háztartásokat segítő nonprofit intézmények körébe tartoznak azok a non
 
 Egy adott ügyfél megfelelő szektorát a következőképpen kell meghatározni:
 
-5.1. Meg kell vizsgálni, hogy az ügyfél rendelkezik-e egységes statisztikai számjellel, illetve a befektetési alapok esetében a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) által adott engedély számmal vagy az MNB által adott technikai törzsszámmal. Ha igen, akkor az 5.2. alpontban leírtakat kell követni, ha nem, akkor az 5.4. alpont előírásait.
+5.1. Meg kell vizsgálni, hogy az ügyfél rendelkezik-e egységes statisztikai számjellel, illetve a befektetési alapok esetében az MNB által adott technikai törzsszámmal. Ha igen, akkor az 5.2. alpontban leírtakat kell követni, ha nem, akkor az 5.4. alpont előírásait.
 
-5.2. Ha az ügyfél rendelkezik egységes statisztikai számjellel, illetve PSZÁF engedély számmal vagy MNB technikai törzsszámmal, akkor meg kell vizsgálni, hogy szerepel-e valamelyik, az MNB által készített listán. A listákon azok az intézmények szerepelnek, amelyek szektorbesorolásánál gazdálkodási forma szerinti (GFO) kódjukat (egységes statisztikai számjel 13-15. számjegyét) nem kell felhasználni. Ha az ügyfél szerepel valamelyik listán, akkor a lista alapján kell a megfelelő szektorba sorolni. Ha az ügyfél nem szerepel a listákon, akkor az 5.3. alpont szerint kell eljárni.
+5.2. Ha az ügyfél rendelkezik egységes statisztikai számjellel, illetve MNB technikai törzsszámmal, akkor meg kell vizsgálni, hogy szerepel-e valamelyik, az MNB által készített listán. A listákon azok az intézmények szerepelnek, amelyek szektorbesorolásánál gazdálkodási forma szerinti (GFO) kódjukat (egységes statisztikai számjel 13-15. számjegyét) nem kell felhasználni. Ha az ügyfél szerepel valamelyik listán, akkor a lista alapján kell a megfelelő szektorba sorolni. Ha az ügyfél nem szerepel a listákon, akkor az 5.3. alpont szerint kell eljárni.
 
 Az MNB listát készített azokról a pénzügyi vállalatokról, amelyek a B) Központi bank, a C) Egyéb monetáris intézmények, a D) Egyéb pénzügyi közvetítők, az E) Pénzügyi kiegészítő tevékenységet végzők és az F) Biztosítók és nyugdíjpénztárak szektorba tartoznak.
 
@@ -656,7 +656,7 @@ Amennyiben a nem-rezidens fél nemzetközi szervezet vagy nemzetközi intézmén
 
 7. Eljárás bankszünnap esetén
 
-A Hpt. 215. § (1) és (2) bekezdésében foglaltak alapján a hitelintézeteknek a PSZÁF-nál, illetve az MNB-nél tett bejelentésében pontosan fel kell tüntetniük, hogy a bankszünnap
+A Hpt. 215. § (1) és (2) bekezdésében foglaltak alapján a hitelintézeteknek az MNB-nél tett bejelentésében pontosan fel kell tüntetniük, hogy a bankszünnap
 
 a) könyvelési szünnapot,
 
@@ -746,7 +746,7 @@ F. Fogalmak
 
 – A KELER Zrt.-nél nem nyilvántartott értékpapírok esetében a számviteli elszámolás időpontja.
 
-2.3. Jelentő letétkezelő: a jelentő letétkezelők körébe tartozik valamennyi rezidens befektetési vállalkozás, bank, szakosított hitelintézet, valamint a Magyar Államkincstár. A jelentő letétkezelők körének listáját a 3. melléklet 12. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza, és az megtalálható a Pénzügyi Szervezetek Állami Felügyeletének honlapján is.
+2.3. Jelentő letétkezelő: a jelentő letétkezelők körébe tartozik valamennyi rezidens befektetési vállalkozás, bank, szakosított hitelintézet, valamint a Magyar Államkincstár. A jelentő letétkezelők körének listáját a 3. melléklet 12. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
 
 2.4. Letétkezelt értékpapír: az adatszolgáltatónál értékpapír-számlán, valamint értékpapír-letétkezelés, letéti őrzés vagy felelős őrzés keretében elhelyezett értékpapírok, abban az esetben is, ha az adatszolgáltató az értékpapírt máshol helyezte letétbe, letéti őrzésbe vagy értékpapír számlára.
 
@@ -1934,4 +1934,4 @@ A2 tábla: DEVIZAÜGYLETEK 1
 
 | Forgalom névleges értéken 2013. áprilisában | Negatív értékek és nem numerikus adatok nem megengedettek! | (millió USD-ben) |
 
-[^8]: A 2. melléklet a 8/2013. (V. 27.) MNB rendelet 4. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet a 8/2013. (V. 27.) MNB rendelet 4. §-a, a 19/2013. (IX. 27.) MNB rendelet 6. §-a szerint módosított szöveg.
