@@ -1,4 +1,4 @@
-340. § (1) Az elszámolóházi tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+340. § (1) Az elszámolóházi tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (2) Az elszámolóház pénzügyi szolgáltatási tevékenységére a Hpt. rendelkezéseit, az elszámolóházi tevékenységet végző szervezetek kiegészítő befektetési szolgáltatási tevékenységére pedig e törvény negyedik, illetőleg ötödik részének rendelkezéseit az e részben foglalt eltérésekkel kell alkalmazni.
 

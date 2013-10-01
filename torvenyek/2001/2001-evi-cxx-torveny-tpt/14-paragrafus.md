@@ -24,6 +24,6 @@ d) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén f
 
 e) az értékpapírt a kibocsátó, illetőleg kapcsolt vállalkozása bármelyikük munkavállalójának, vezető tisztségviselőjének, felügyelő bizottsági tagjának, illetve volt munkavállalójának, vezető tisztségviselőjének és felügyelő bizottsági tagjának ajánlja fel, értékesíti, illetőleg juttatja, ha a kibocsátó valamely értékpapírja valamely szabályozott piacra már be van vezetve.
 
-(3) Az (1) bekezdésben meghatározott összegek átszámításánál a forgalomba hozatalra vonatkozó döntés napján érvényes MNB hivatalos devizaárfolyamot kell alkalmazni.
+(3) Az (1) bekezdésben meghatározott összegek átszámításánál a forgalomba hozatalra vonatkozó döntés napján érvényes, MNB által közzétett, hivatalos devizaárfolyamot kell alkalmazni.
 
 (4)

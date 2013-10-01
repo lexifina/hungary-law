@@ -28,11 +28,11 @@ A törvényben hivatkozott jogszabályok rövidítései
 
 13. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
 
-14.
+14. MNBtv.: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény.
 
 15. Pmt.: a pénzmosás megelőzéséről és megakadályozásáról szóló törvény,
 
-16. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény,
+16.
 
 17. Ptk.: a Polgári Törvénykönyvről szóló törvény,
 

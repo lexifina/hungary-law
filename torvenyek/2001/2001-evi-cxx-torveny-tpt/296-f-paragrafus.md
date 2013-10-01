@@ -6,7 +6,7 @@
 
 (4) A kockázati tőkealap-kezelő az általa kezelt alap működésének időtartama alatt végelszámolással nem szűnhet meg.
 
-(5) Kockázati tőkealap-kezelő felszámolójának a bíróság kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki.
+(5) Kockázati tőkealap-kezelő felszámolójának a bíróság kizárólag a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki.
 
 (6) A kockázati tőkealap-kezelő által kezelt portfolióban lévő eszközök nem képezik a kockázati tőkealap-kezelő tulajdonát, azok a kockázati tőkealap-kezelő hitelezőinek kielégítésére nem vehetők igénybe.
 

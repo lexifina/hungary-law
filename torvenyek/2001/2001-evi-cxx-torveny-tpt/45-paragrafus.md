@@ -12,10 +12,10 @@ a) kibocsátási program keretében forgalomba hozott hasonló típusú értékp
 
 4. kiterjed rájuk az Országos Betétbiztosítási Alap által nyújtott biztosítás;
 
-b) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetében, ha az összes forgalomba hozott értékpapír kibocsátási értéke az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes MNB hivatalos devizaárfolyamon számítva annak megfelelő összeget és az értékpapírok
+b) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetében, ha az összes forgalomba hozott értékpapír kibocsátási értéke az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva annak megfelelő összeget és az értékpapírok
 
-1. nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, és
+ba) nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, és
 
-2. nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez.
+bb) nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez.
 
 (3) Az ismertető a felügyeleti jóváhagyástól számított tizenkét hónapig hatályos.

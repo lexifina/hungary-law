@@ -12,4 +12,4 @@ d) az igazgatóság ügyrendjét.
 
 (3) Az Alap a szabályzatait és az igazgatóság nyilvánossá minősített határozatait a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza. Az (1) bekezdés d) pontjában meghatározott szabályzat közzétételétől az Alap eltekinthet.
 
-(4) Az Alap igazgatósága a tag tevékenységében rejlő kockázat meghatározásának és a díjalap arányában számított díj kockázatarányos módosításának szabályozásával kapcsolatban véleményt kér a Felügyelettől és az MNB-től.
+(4) Az Alap igazgatósága a tag tevékenységében rejlő kockázat meghatározásának és a díjalap arányában számított díj kockázatarányos módosításának szabályozásával kapcsolatban véleményt kér az MNB-től.

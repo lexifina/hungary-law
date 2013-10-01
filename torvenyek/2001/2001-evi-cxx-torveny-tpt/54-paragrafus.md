@@ -10,7 +10,7 @@ b) éves jelentés,
 
 c) nyilvánosan forgalomba hozott részvény kibocsátója időközi vezetőségi beszámoló formájában teljesíti.
 
-(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg.
+(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg.
 
 (4) A kibocsátónak az egyes pénzügyi évek végét követő legkésőbb négy hónapon belül közzé kell tennie az éves jelentését. A helyi önkormányzatnak az éves jelentést a jogszabályban előírt határidőben kell nyilvánosságra hoznia.
 
@@ -18,7 +18,7 @@ c) nyilvánosan forgalomba hozott részvény kibocsátója időközi vezetőség
 
 (6) Nem köteles féléves jelentést készíteni
 
-a) az a hitelintézet, amelynek részvényeit nem vezették be a szabályozott piacra, és amely folyamatosan és ismétlődő módon csak hitelviszonyt megtestesítő értékpapírokat bocsátott ki, azzal a feltétellel, hogy az ilyen hitelviszonyt megtestesítő értékpapírok össznévértéke nem éri el a százmillió eurót, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeget, és a nyilvános forgalomba hozatalhoz tájékoztatót nem készített,
+a) az a hitelintézet, amelynek részvényeit nem vezették be a szabályozott piacra, és amely folyamatosan és ismétlődő módon csak hitelviszonyt megtestesítő értékpapírokat bocsátott ki, azzal a feltétellel, hogy az ilyen hitelviszonyt megtestesítő értékpapírok össznévértéke nem éri el a százmillió eurót, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeget, és a nyilvános forgalomba hozatalhoz tájékoztatót nem készített,
 
 b) az a kibocsátó, amely 2005. július 1. napján már létezett, és amely kizárólag a székhely szerinti tagállam által feltétel nélkül és visszavonhatatlanul garantált, hitelviszonyt megtestesítő értékpapírokat bocsát ki.
 

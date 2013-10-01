@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2013-06-29 | 2013. évi XCVIII. törvény | 2001-120-00-00.47 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2001-120-00-00.48 |
 | 2013-07-13 | 2013. évi CXXXV. törvény | 2001-120-00-00.49 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2001-120-00-00.50 |

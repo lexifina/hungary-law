@@ -30,7 +30,7 @@ l) az ügylet elszámolásával kapcsolatosan azt az időpontot, melyet követő
 
 (3) A szabályzatoknak a központi szerződő fél ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
-(4) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(4) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (5) A Felügyelet az engedély megadását megtagadja, ha
 
@@ -38,7 +38,7 @@ a) a szabályzat nem felel meg e törvény vagy más jogszabály rendelkezésein
 
 b) a szabályzat nincs összhangban más szabályzat rendelkezéseivel,
 
-c) az MNB a szakhatósági állásfoglalásban a hozzájárulást megtagadja.
+c)
 
 (6) A Felügyelet engedélyét követően a központi szerződő fél a (2) bekezdésben meghatározott szabályzatokat a Felügyelet által üzemeltetett honlapon és a saját honlapján közzéteszi.
 

@@ -52,9 +52,9 @@ h) a (3) bekezdés esetén az éves beszámoló elfogadását követő tizenöt 
 
 kell eleget tenni.
 
-(5) Az MNB, a kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
+(5) A kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
 
-(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
+(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről jogszabályban előírt módon, tartalommal és gyakorisággal az MNB-nek adatot szolgáltatni.
 
 (7) A nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó szabályok betartásának ellenőrzése keretében a Felügyelet írásbeli megkeresésére a részvényesi jogok gyakorlója köteles e jogok gyakorlására kötött megállapodást feltárni, valamennyi e tárgyban keletkezett irat másolatát a Felügyelet rendelkezésére bocsátani, illetve megjelölni azt a személyt, akinek érdekében ténylegesen eljár.
 

@@ -38,4 +38,4 @@ d) a 350/E. §-ban meghatározott szabályzatokkal.
 
 (8) A (2) bekezdés d) és e) pontjában meghatározott tevékenységet végző központi szerződő fél alapítására, működésére és felügyeletére a Hpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(9) Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(9) Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.

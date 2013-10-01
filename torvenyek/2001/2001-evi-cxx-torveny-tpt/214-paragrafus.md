@@ -1,4 +1,4 @@
-214. § (1) Az Alap a tevékenysége ellátásához szükséges adatok szolgáltatását írhatja elő a tagjai számára, és a helyszínen ellenőrizheti a tagsági viszony alapján a tagokat terhelő kötelezettségek teljesítését. Ebben a körben a Felügyelet és az MNB az Alap kérésére megadja a rendelkezésére álló adatokat. Ha az Alap feladatkörében eljárva jogszabálysértést észlel, arról haladéktalanul értesíti a Felügyeletet.
+214. § (1) Az Alap a tevékenysége ellátásához szükséges adatok szolgáltatását írhatja elő a tagjai számára, és a helyszínen ellenőrizheti a tagsági viszony alapján a tagokat terhelő kötelezettségek teljesítését. Ebben a körben a Felügyelet az Alap kérésére megadja a rendelkezésére álló adatokat. Ha az Alap feladatkörében eljárva jogszabálysértést észlel, arról haladéktalanul értesíti a Felügyeletet.
 
 (2) Az Alap a kártalanításra jogosult befektetőtől kapott megbízás alapján elláthatja a befektető képviseletét az egyezségi tárgyaláson, illetve felszámolási eljárás során.
 

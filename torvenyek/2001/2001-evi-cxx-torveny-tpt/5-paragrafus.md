@@ -360,7 +360,7 @@ b) az adott szabályozott piacon, feltéve hogy a részvényt más szabályozott
 
 3. MNB: a Magyar Nemzeti Bank,
 
-4. Felügyelet: a Pénzügyi Szervezetek Állami Felügyelete,
+4. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB,
 
 5. hitelintézet, bank, szakosított hitelintézet, szövetkezeti hitelintézet, pénzügyi vállalkozás: a Hpt.-ben ilyenként meghatározott gazdálkodó szervezet,
 

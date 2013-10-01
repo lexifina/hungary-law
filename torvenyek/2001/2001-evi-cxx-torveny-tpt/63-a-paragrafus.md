@@ -14,7 +14,7 @@ f) az egy részvényre jutó saját tőke értéke közül a legmagasabb összeg
 
 (2) Ha az (1) bekezdés a) pontjában meghatározott esetben, az ott meghatározott időszakban kevesebb, mint harminchat ügyletre került sor, akkor a forgalommal súlyozott átlagárat nem kell figyelembe venni. Az ellenérték meghatározásánál az (1) bekezdés a) és b) pontja szerinti számított értéket akkor is figyelembe kell venni, ha az első kereskedési nap és a kivezetésről szóló döntés között eltelt idő kevesebb, mint száznyolcvan nap, de a kilencven napot meghaladja.
 
-(3) Ha a kibocsátó részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni.
+(3) Ha a kibocsátó részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, az MNB által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
 (4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely jogerős hatósági döntés vagy bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
 

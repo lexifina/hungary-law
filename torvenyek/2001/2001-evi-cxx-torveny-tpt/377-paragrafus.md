@@ -6,4 +6,4 @@
 
 ## A FELÜGYELETRE VONATKOZÓ SZABÁLYOK
 
-377. § A Pénzügyi Szervezetek Állami Felügyelete jogállását és hatáskörét külön törvény határozza meg.
+377. §

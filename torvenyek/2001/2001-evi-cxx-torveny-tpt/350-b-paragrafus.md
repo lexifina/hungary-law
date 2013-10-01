@@ -22,7 +22,7 @@ g) az értékpapír kölcsönzés szabályait.
 
 (4) Az üzletszabályzatnak és a szabályzatoknak a központi értéktár ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
-(5) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (6) A Felügyelet az engedély megadását megtagadja, ha
 
@@ -30,7 +30,7 @@ a) a szabályzat nem felel meg e törvény vagy más jogszabály rendelkezésein
 
 b) a szabályzat nincs összhangban más szabályzat rendelkezéseivel,
 
-c) az MNB a szakhatósági állásfoglalásban a hozzájárulást megtagadja.
+c)
 
 (7) A Felügyelet engedélyét követően a központi értéktár a (2) bekezdésben meghatározott szabályzatokat a Felügyelet által üzemeltetett honlapon és a saját honlapján közzéteszi.
 

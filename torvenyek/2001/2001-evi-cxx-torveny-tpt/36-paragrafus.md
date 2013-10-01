@@ -4,7 +4,7 @@
 
 (3) Magyarországon székhellyel rendelkező kibocsátó a tájékoztató vagy alaptájékoztató közzétételét az Európai Unió másik tagállamának hatáskörrel rendelkező felügyeleti hatóságával is engedélyeztetheti, ha:
 
-a) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amelynek névértéke legalább ezer euró, illetőleg a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán átszámítva ennek megfelelő összeg, vagy
+a) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amelynek névértéke legalább ezer euró, vagy a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon átszámítva ennek megfelelő összeg, vagy
 
 b) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amely átváltás útján, vagy az általa megtestesített jog gyakorlásával jogot ad valamely más értékpapír vagy pénz megszerzésére, feltéve, hogy a kibocsátó nem azonos a megszerezhető másik értékpapír kibocsátójával és nem tartozik vele azonos csoportba.
 

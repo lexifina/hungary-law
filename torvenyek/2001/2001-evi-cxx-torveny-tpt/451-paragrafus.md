@@ -66,18 +66,16 @@ r) az elfogadott piaci gyakorlat megállapításának részletes szabályait;
 
 s) a bennfentes információ nyilvánosságra hozatalának kibocsátó általi késleltetésére vonatkozó részletes szabályokat;
 
-t)
+t) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
 
-u)
+u) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmára vonatkozó részletszabályokat.
 
-(3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(3) Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg:
 
-a) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
+a) az ISIN azonosítóra vonatkozó részletes szabályokat;
 
-b) az ISIN azonosítóra vonatkozó részletes szabályokat;
+b) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének módjára és gyakoriságára vonatkozó részletszabályokat;
 
-c) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmára, módjára és gyakoriságára vonatkozó részletszabályokat;
+c) a 388. § (1) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletszabályokat;
 
-d) a 388. § (1) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletszabályokat;
-
-e) az információterjesztésre, az információtárolási rendszerre, továbbá a Felügyelet felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat.
+d) az információterjesztésre, az információtárolási rendszerre, továbbá az MNB felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat.

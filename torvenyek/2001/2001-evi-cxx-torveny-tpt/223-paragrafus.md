@@ -4,25 +4,25 @@
 
 (2) Az igazgatóság tagja:
 
-a) a tőzsde, a központi értéktár és az MNB által kijelölt egy-egy személy;
+a) a tőzsde és a központi értéktár által kijelölt egy-egy személy;
 
-b) az Alap tagjainak – szakmai érdekképviseleti szervezetei által kijelölt – két képviselője;
+b) az Alap tagjainak – szakmai érdek-képviseleti szervezetei által kijelölt – két képviselője;
 
-c) a Felügyelet által kinevezett személy;
+c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv. 4. § (7) bekezdésében, a másik az MNBtv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatokat ellátó vezető;
 
 d) az Alap ügyvezető igazgatója.
 
-(3) A kinevezés vagy kijelölés három évre szól.
+(3) A kijelölés három évre szól.
 
 (4) Ha egy megüresedett hely betöltésére több szervezetet is megillet a kijelölés joga és a szervezetek nem tudnak megállapodni az igazgatósági tag személyéről, a betöltendő hely megüresedésekor kijelölésre jogosult szervezetek egy-egy jelöltje közül sorsolással kell kiválasztani az igazgatóság új tagját.
 
-(5) Az igazgatósági tagság megszűnése esetén a kijelölésre, illetve kinevezésre jogosult harminc napon belül dönt az új igazgatósági tag személyéről.
+(5) Az igazgatósági tagság megszűnése esetén a kijelölésre jogosult harminc napon belül dönt az új igazgatósági tag személyéről.
 
 (6) Megszűnik az igazgatósági tagság:
 
 a) a (3) bekezdésben meghatározott idő elteltével;
 
-b) a kijelölés visszavonásával, visszahívással, vagy az ügyvezető igazgató esetén az ügyvezető igazgatói beosztás megszűnésével;
+b) a kijelölés visszavonásával, vagy az ügyvezető igazgató esetén az ügyvezető igazgatói beosztás megszűnésével;
 
 c) a tag halálával; vagy
 
@@ -32,6 +32,4 @@ d) az ügyvezető igazgató kivételével lemondással.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
-(9) A Felügyelet képviselője az igazgatóság ülésén tanácskozási joggal vesz részt.
-
-(10) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább öt tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg.
+(9) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább öt tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
