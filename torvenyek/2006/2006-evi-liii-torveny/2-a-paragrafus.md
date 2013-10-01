@@ -6,4 +6,4 @@
 
 (3) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdés szerinti feladatat- és hatásköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
 
-(4) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdésben meghatározott feladat- és hatásköröket nem gyakorolhatja az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
+(4) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdésben meghatározott feladat- és hatásköröket nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.

@@ -14,7 +14,9 @@ e) legalább 90 millió forint teljes költségigényű és legalább 15 új mun
 
 f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő,
 
-g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó
+g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó,
+
+h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági engedélyezési ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
 
