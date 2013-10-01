@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-99-00-00
 | 2013-06-30 | 2010. évi CXXX. törvény | 2013-99-00-00.2 |
 | 2013-07-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-99-00-00.3 |
 | 2013-07-22 | 2010. évi CXXX. törvény | 2013-99-00-00.4 |
+| 2013-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-99-00-00.5 |
