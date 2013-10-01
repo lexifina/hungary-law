@@ -6,7 +6,7 @@
 
 a) az engedélyben foglaltaktól eltérő tevékenységet végez, illetve
 
-b)[^34] a járművezető személyi feltételeire, vezetési és pihenőidejére, a tehergépjármű, illetve az autóbusz műszaki, biztonsági, környezetvédelmi vagy egyéb követelményeire, a szállítás feltételeire, az árutovábbítási, illetve személyszállítási közösségi engedély hiteles másolatainak, az ellenőrzési okmányoknak a használatára vagy az adatszolgáltatási kötelezettségre vonatkozó előírásokat megsérti.
+b)[^36] a járművezető személyi feltételeire, vezetési és pihenőidejére, a tehergépjármű, illetve az autóbusz műszaki, biztonsági, környezetvédelmi vagy egyéb követelményeire, a szállítás feltételeire, az árutovábbítási, illetve személyszállítási közösségi engedély hiteles másolatainak, az ellenőrzési okmányoknak a használatára vagy az adatszolgáltatási kötelezettségre vonatkozó előírásokat megsérti.
 
 (4) A közlekedési hatóság a gazdálkodó szervezet tevékenységi engedélyét (az engedélykivonatokkal együtt) visszavonhatja,
 
@@ -26,4 +26,4 @@ g) ha a gazdálkodó szervezet ismételten olyan személyszállítási tevékeny
 
 (5) Az eljáró közlekedési hatóság a közforgalmú menetrend szerinti személyszállítási tevékenységet is érintő felfüggesztő vagy visszavonó határozatát tájékoztatás céljából megküldi a közlekedésért felelős miniszternek, valamint az érintett gazdálkodó szervezetnél az állam tulajdonosi jogait gyakorló szervezetnek, továbbá helyi közlekedést érintő esetben az illetékes önkormányzatnak is.
 
-[^34]: A 17. § (3) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^36]: A 17. § (3) bekezdés b) pontja a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.

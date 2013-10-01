@@ -1,4 +1,4 @@
-## 41. §[^69]
+## 41. §[^72]
 
 1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
@@ -58,7 +58,7 @@ f) egészségbiztosítási főiskolai szintű szak
 
 g) jogi egyetem.
 
-4.[^70] Árufuvarozási ismeretek:
+4.[^73] Árufuvarozási ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -82,7 +82,7 @@ ia) nemzetközi szállítmányozási és logisztikai menedzser,
 
 ib) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-5.[^71] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
+5.[^74] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -118,7 +118,7 @@ o) közlekedés-üzemviteli, gépjárműüzemi technikus.
 
 – közép- vagy felsőfokú vámügyintézői szakképesítés.
 
-7.[^72] Személyszállítási ismeretek:
+7.[^75] Személyszállítási ismeretek:
 
 a) szakirányú okleveles közlekedésmérnök vagy
 
@@ -134,7 +134,7 @@ ea) nemzetközi szállítmányozási és logisztikai menedzser,
 
 eb) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-[^69]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^70]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^71]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^72]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^72]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^74]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^75]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.

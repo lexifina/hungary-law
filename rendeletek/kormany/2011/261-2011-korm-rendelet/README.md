@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-261-20-
 | 2012-12-04 | 2011-261-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-02-01 | 2011-261-20-22.7 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2013-07-25 | 2011-261-20-22.8 | 280/2013. (VII. 24.) Korm. rendelet |
+| 2013-10-01 | 2011-261-20-22.9 | 280/2013. (VII. 24.) Korm. rendelet |
