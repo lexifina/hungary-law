@@ -18,10 +18,12 @@ ahol TM a hitelintézet által alkalmazott likvidációs időtartam, HM a likvid
 
 (9) A volatilitási korrekciós tényező számításához használt múltbeli megfigyelési időszak legalább egy év hosszúságú. A megfigyelési időszakra súlyozási vagy más rendszert alkalmazó hitelintézet legalább egy év időtartamú tényleges megfigyelési időszakot vesz figyelembe, ami biztosítja, hogy az egyes megfigyelések súlyozott átlagos időeltolódása ne legyen hat hónapnál kevesebb.
 
-(10) A (9) bekezdéstől eltérően, a Felügyelet elrendelheti a hitelintézet számára a volatilitási korrekciós tényező számításánál a rövidebb megfigyelési időszak alkalmazását, ha az árak volatilitásának lényeges növekedése ezt indokolttá teszi.
+(10)[^90] A (9) bekezdéstől eltérően, az MNB elrendelheti a hitelintézet számára a volatilitási korrekciós tényező számításánál a rövidebb megfigyelési időszak alkalmazását, ha az árak volatilitásának lényeges növekedése ezt indokolttá teszi.
 
 (11) A hitelintézet aktualizálja az adatállományát, és újraértékeli a volatilitási korrekciós tényezőt
 
 a) legalább háromhavonta, valamint
 
 b) a piaci árak lényeges változásakor.
+
+[^90]: A 141. § (10) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

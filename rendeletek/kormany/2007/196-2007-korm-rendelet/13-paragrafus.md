@@ -14,4 +14,6 @@ b) száz százalékot, ha az elszámolt értékvesztés és kockázati céltarta
 
 (5) A késedelmes tétel fedezettel ellátott részének meghatározása esetében elismert hitelezésikockázat-mérséklő tétel vehető figyelembe.
 
-(6) Ha a késedelmes tétel nem elismert, de a Felügyelet által a negyedik részben meghatározottak szerint megfelelőnek tekintett, hitelkockázat-mérséklő tétellel teljesen fedezett, valamint az elszámolt értékvesztés és kockázati céltartalék értéke legalább az értékvesztés elszámolása és kockázati céltartalék képzése előtti bruttó értéknek a tizenöt százaléka, akkor száz százalékos kockázati súlyt kell alkalmazni.
+(6)[^18] Ha a késedelmes tétel nem elismert, de az MNB által a negyedik részben meghatározottak szerint megfelelőnek tekintett, hitelkockázat-mérséklő tétellel teljesen fedezett, valamint az elszámolt értékvesztés és kockázati céltartalék értéke legalább az értékvesztés elszámolása és kockázati céltartalék képzése előtti bruttó értéknek a tizenöt százaléka, akkor száz százalékos kockázati súlyt kell alkalmazni.
+
+[^18]: A 13. § (6) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

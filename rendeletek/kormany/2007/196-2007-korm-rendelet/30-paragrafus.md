@@ -60,7 +60,7 @@ S: a vállalatcsoport éves árbevétele, ha az eléri az ötmillió eurot, ille
 
 | Legalább 2,5 év | 70% | 90% | 115% | 250% | 0% |
 
-(6) A hitelintézet az (5) bekezdés alkalmazásában – a legalább 2,5 év fennmaradó lejárat esetén – a Felügyelet engedélyével alkalmazhat
+(6)[^37] A hitelintézet az (5) bekezdés alkalmazásában – a legalább 2,5 év fennmaradó lejárat esetén – az MNB engedélyével alkalmazhat
 
 a) az 1. kategóriába tartozó kitettség esetében az ötven százalékos, és
 
@@ -82,9 +82,10 @@ e) fedezet összetétele és mértéke.
 
 (8) A hitelintézet a 27. § (3) bekezdésében meghatározottaknak megfelelő vállalkozással szembeni vásárolt követelése esetén – ha indokolatlan terhet jelentene számára a 72. §, a 75. § és a 78. § alkalmazása – a 73. §-t, a 76. §-t és a 79. §-t alkalmazhatja.
 
-(9)[^20] Az értékpapírosítás keretében első veszteségviselő pozícióként kezelhető az olyan – vállalkozással szembeni – vásárolt követelés, visszafizetendő árengedmény, valamint biztosíték vagy részleges garancia, amely nemteljesítési veszteségre, felhígulási kockázatból származó veszteségre vagy mindkettőre vonatkozó első veszteségviselést jelentő fedezetet biztosít.
+(9)[^38] Az értékpapírosítás keretében első veszteségviselő pozícióként kezelhető az olyan – vállalkozással szembeni – vásárolt követelés, visszafizetendő árengedmény, valamint biztosíték vagy részleges garancia, amely nemteljesítési veszteségre, felhígulási kockázatból származó veszteségre vagy mindkettőre vonatkozó első veszteségviselést jelentő fedezetet biztosít.
 
-(10)[^21] Ha a hitelintézet egy kitettség-csoportra olyan feltétellel nyújt hitelkockázat fedezetet, hogy azoknál az n-edik nemteljesítés váltja ki a fedezet lehívását, és ez a kielégítési jog megnyíltát eredményező hitelesemény megszünteti a szerződést és a termék egy elismert külső hitelminősítő szervezet által készített külső hitelminősítéssel rendelkezik, akkor az Épkr.-ben előírt kockázati súlyokat kell alkalmazni. Ha a hitelintézet nem rendelkezik elismert külső hitelminősítő szervezet minősítésével, akkor a kosárban található kitettségek kockázati súlya összeadódik, kivéve (n–1) kitettséget, ahol a várható veszteség 12,5-szeresének és a kockázattal súlyozott kitettség értéknek az összege nem haladhatja meg a hitelderivatíva által nyújtott fedezet értékének 12,5-szeresét. Az összesítésből kizárandó (n–1) kitettségeket azon az alapon határozzák meg, hogy e kitettségek mindegyikének a kockázattal súlyozott kitettség értéke alacsonyabb legyen, mint az összesítésben szereplő bármely kitettség kockázattal súlyozott kitettség értéke.
+(10)[^39] Ha a hitelintézet egy kitettség-csoportra olyan feltétellel nyújt hitelkockázat fedezetet, hogy azoknál az n-edik nemteljesítés váltja ki a fedezet lehívását, és ez a kielégítési jog megnyíltát eredményező hitelesemény megszünteti a szerződést és a termék egy elismert külső hitelminősítő szervezet által készített külső hitelminősítéssel rendelkezik, akkor az Épkr.-ben előírt kockázati súlyokat kell alkalmazni. Ha a hitelintézet nem rendelkezik elismert külső hitelminősítő szervezet minősítésével, akkor a kosárban található kitettségek kockázati súlya összeadódik, kivéve (n–1) kitettséget, ahol a várható veszteség 12,5-szeresének és a kockázattal súlyozott kitettség értéknek az összege nem haladhatja meg a hitelderivatíva által nyújtott fedezet értékének 12,5-szeresét. Az összesítésből kizárandó (n–1) kitettségeket azon az alapon határozzák meg, hogy e kitettségek mindegyikének a kockázattal súlyozott kitettség értéke alacsonyabb legyen, mint az összesítésben szereplő bármely kitettség kockázattal súlyozott kitettség értéke.
 
-[^20]: A 30. § (9) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (5) bekezdése iktatta be.
-[^21]: A 30. § (10) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (5) bekezdése iktatta be.
+[^37]: A 30. § (6) bekezdés nyitó szövegrésze a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^38]: A 30. § (9) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (5) bekezdése iktatta be.
+[^39]: A 30. § (10) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (5) bekezdése iktatta be.

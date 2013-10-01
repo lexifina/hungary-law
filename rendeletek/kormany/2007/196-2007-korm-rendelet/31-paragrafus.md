@@ -38,14 +38,17 @@ f) a veszteségráta volatilitása a lakossággal szembeni kitettségek átlagos
 
 g) a rulírozó, lakossággal szembeni kitettségként való kezelése összhangban van az alosztály kitettségeinek kockázati jellemzőivel.
 
-(7) A Felügyelet – a Hpt. 145/A. § szerinti felügyeleti felülvizsgálat keretében – értékeli a rulírozó, lakossággal szembeni kitettségi alosztály és a teljes lakossággal szembeni kitettségi osztály veszteségrátájának relatív volatilitását, valamint felülvizsgálja az alosztály rulírozó, lakossági kitettségként való kezelésének és az alosztály kitettségeinek kockázati jellemzőivel való összhangját.
+(7)[^40] Az MNB – a Hpt. 145/A. § szerinti felügyeleti felülvizsgálat keretében – értékeli a rulírozó, lakossággal szembeni kitettségi alosztály és a teljes lakossággal szembeni kitettségi osztály veszteségrátájának relatív volatilitását, valamint felülvizsgálja az alosztály rulírozó, lakossági kitettségként való kezelésének és az alosztály kitettségeinek kockázati jellemzőivel való összhangját.
 
-(8) A Felügyelet a rulírozó, lakossággal szembeni kitettségi alosztály jellemzőire vonatkozó információkról kérelemre tájékoztatja az illetékes felügyeleti hatóságokat.
+(8)[^41] Az MNB a rulírozó, lakossággal szembeni kitettségi alosztály jellemzőire vonatkozó információkról kérelemre tájékoztatja az illetékes felügyeleti hatóságokat.
 
-(9) Ha egy bankszámlára munkabérből származó rendszeres jövedelem érkezik, az ezen bankszámlához kapcsolódó hitelkeret esetén a Felügyelet eltekinthet a (6) bekezdés c) pontjában meghatározott fedezetlenségre vonatkozó feltételtől. Ebben az esetben a biztosítékból behajtható összeg a nemteljesítéskori veszteségráta becslésében nem vehető figyelembe.
+(9)[^42] Ha egy bankszámlára munkabérből származó rendszeres jövedelem érkezik, az ezen bankszámlához kapcsolódó hitelkeret esetén az MNB eltekinthet a (6) bekezdés c) pontjában meghatározott fedezetlenségre vonatkozó feltételtől. Ebben az esetben a biztosítékból behajtható összeg a nemteljesítéskori veszteségráta becslésében nem vehető figyelembe.
 
 (10) Ha a vásárolt lakossági követelések pooljai (halmazai) esetében nem különíthető el az ingatlannal fedezett és a rulírozó, lakossággal szembeni kitettség az egyéb lakossággal szembeni kitettségtől, akkor ezekre a kitettségekre azon lakossággal szembeni kitettségi alosztályhoz tartozó kockázati súlyt kell alkalmazni, amely a legmagasabb tőkekövetelményt eredményezi.
 
-(11)[^22] Az értékpapírosítás keretében első veszteségviselő pozícióként kezelhető az olyan lakossággal szembeni vásárolt követelés, visszafizetendő árengedmény, valamint biztosíték vagy részleges garancia, amely nemteljesítési veszteségre, felhígulásból származó veszteségre vagy mindkettőre vonatkozó első veszteségviselést jelentő fedezetet biztosít.
+(11)[^43] Az értékpapírosítás keretében első veszteségviselő pozícióként kezelhető az olyan lakossággal szembeni vásárolt követelés, visszafizetendő árengedmény, valamint biztosíték vagy részleges garancia, amely nemteljesítési veszteségre, felhígulásból származó veszteségre vagy mindkettőre vonatkozó első veszteségviselést jelentő fedezetet biztosít.
 
-[^22]: A 31. § (11) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (6) bekezdése iktatta be.
+[^40]: A 31. § (7) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § c) pontja szerint módosított szöveg.
+[^41]: A 31. § (8) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § c) pontja szerint módosított szöveg.
+[^42]: A 31. § (9) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^43]: A 31. § (11) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (6) bekezdése iktatta be.

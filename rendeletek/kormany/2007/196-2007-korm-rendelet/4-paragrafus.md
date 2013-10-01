@@ -10,7 +10,7 @@
 
 4. § (1) A központi kormánnyal és a központi bankkal szembeni kitettségre – a (2)–(5) bekezdésben meghatározott eltéréssel – száz százalékos kockázati súlyt kell alkalmazni.
 
-(2) Ha van elismert külső hitelminősítő szervezet hitelminősítése, akkor a központi kormánnyal és a központi bankkal szembeni kitettségnél a Felügyelet által a hitelminősítéshez hozzárendelt besorolás alapján az egyes besorolásokhoz a következő kockázati súlyok alkalmazhatóak:
+(2)[^8] Ha van elismert külső hitelminősítő szervezet hitelminősítése, akkor a központi kormánnyal és a központi bankkal szembeni kitettségnél az MNB által a hitelminősítéshez hozzárendelt besorolás alapján az egyes besorolásokhoz a következő kockázati súlyok alkalmazhatóak:
 
 | Hitelminősítési besorolás | 1 | 2 | 3 | 4 | 5 | 6 |
 
@@ -23,3 +23,5 @@
 (5) Az Európai Központi Bankkal szembeni kitettséghez nulla százalékos kockázati súlyt kell rendelni.
 
 (6) A központi kormánnyal és a központi bankkal szembeni kitettségre az exporthitel-ügynökség hitelminősítéséhez rendelt hitelminősítési besoroláshoz tartozó – VII. Fejezetben meghatározott – kockázati súly is alkalmazható.
+
+[^8]: A 4. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

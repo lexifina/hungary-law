@@ -1,5 +1,5 @@
-## 166. §[^58]
+## 166. §[^104]
 
 ## Hatályát vesztő rendelkezések
 
-[^58]: A 166. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 43. pontja hatályon kívül helyezte.
+[^104]: A 166. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 43. pontja hatályon kívül helyezte.

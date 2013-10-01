@@ -8,7 +8,7 @@ b) az elismert külső hitelminősítő szervezet hitelminősítése hiányában
 
 ## kell alkalmazni.
 
-(2) Elismert külső hitelminősítő szervezet hitelminősítése esetén a multilaterális fejlesztési bankkal szembeni kitettséghez – a Felügyelet által a hitelminősítéshez rendelt besorolás alapján – a következő táblázat szerinti kockázati súly alkalmazandó:
+(2)[^13] Elismert külső hitelminősítő szervezet hitelminősítése esetén a multilaterális fejlesztési bankkal szembeni kitettséghez – az MNB által a hitelminősítéshez rendelt besorolás alapján – a következő táblázat szerinti kockázati súly alkalmazandó:
 
 | Hitelminősítési besorolás | 1 | 2 | 3 | 4 | 5 | 6 |
 
@@ -49,3 +49,5 @@ b) az elismert külső hitelminősítő szervezet hitelminősítése hiányában
 14. Nemzetközi Újjáépítési és Fejlesztési Bank.
 
 (6) Az Európai Beruházási Alapnál jegyzett, de be nem fizetett tőkére húsz százalékos kockázati súlyt kell alkalmazni.
+
+[^13]: A 7. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

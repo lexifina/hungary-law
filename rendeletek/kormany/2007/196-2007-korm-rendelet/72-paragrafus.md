@@ -16,6 +16,6 @@
 
 (8) Függetlenül attól, hogy a hitelintézet külső, belső vagy közös adatforrásokat, illetve ennek a háromnak a kombinációját használja nemteljesítési valószínűség becsléseihez, az ezeket alátámasztó múltbeli megfigyelési időszak hosszának egy forrás tekintetében legalább öt évnek kell lennie. Ha a megfigyelési időszak egy forrás tekintetében hosszabb időszakot tekint át, és ezek az adatok meghatározóak, akkor ezt a hosszabb időszakot kell alkalmazni. Ez a követelmény részesedések esetén alkalmazott 35. §-ban meghatározott módszerre is vonatkozik.
 
-(9)[^29]
+(9)[^65]
 
-[^29]: A 72. § (9) bekezdését a 167. § hatályon kívül helyezte azzal, hogy rendelkezéseit a 2012. december 31-ig kérelmezett engedélyezési eljárás során a hitelintézet kérelmére alkalmazni lehet.
+[^65]: A 72. § (9) bekezdését a 167. § hatályon kívül helyezte azzal, hogy rendelkezéseit a 2012. december 31-ig kérelmezett engedélyezési eljárás során a hitelintézet kérelmére alkalmazni lehet.

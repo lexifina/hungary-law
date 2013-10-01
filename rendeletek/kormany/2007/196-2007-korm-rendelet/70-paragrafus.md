@@ -16,4 +16,6 @@
 
 (8) A hitelintézet eltérő becsléseket használhat a kockázati súlyok kiszámítására és belső célokra, ha az eltérések indokoltságát dokumentumokkal és számításokkal alátámasztja.
 
-(9) Ha a hitelintézet által ezen rendelet hatálybalépése előtt gyűjtött adatokat megfelelően korrigálták ahhoz, hogy azok széles körűen megfeleltethetőek legyenek a nemteljesítés vagy veszteség meghatározásával, akkor a hitelintézet számára ezen adatok alkalmazását a Felügyelet engedélyezi.
+(9)[^63] Ha a hitelintézet által ezen rendelet hatálybalépése előtt gyűjtött adatokat megfelelően korrigálták ahhoz, hogy azok széles körűen megfeleltethetőek legyenek a nemteljesítés vagy veszteség meghatározásával, akkor a hitelintézet számára ezen adatok alkalmazását az MNB engedélyezi.
+
+[^63]: A 70. § (9) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

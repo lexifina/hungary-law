@@ -18,7 +18,7 @@ b) a hitelintézet és a befektetési vállalkozás,
 
 c) a pénzügyi vállalkozás, a biztosító, valamint a viszontbiztosító, ha arra a sztenderd módszer alapján 20%-os kockázati súly alkalmazható,
 
-d) elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező pénzügyi vállalkozás, biztosító, valamint viszontbiztosító, ha a kockázattal súlyozott kitettség értékét és a várható veszteség értékét belső minősítésen alapuló módszer szerint számító hitelintézet legalább a Pénzügyi Szervezetek Állami Felügyelete (továbbiakban: Felügyelet) által elismert külső hitelminősítő szervezet 2-es hitelminősítési besorolásához tartozó nemteljesítési valószínűséget rendelt,
+d)[^4] elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező pénzügyi vállalkozás, biztosító, valamint viszontbiztosító, ha a kockázattal súlyozott kitettség értékét és a várható veszteség értékét belső minősítésen alapuló módszer szerint számító hitelintézet legalább a Magyar Nemzeti Bank (a továbbiakban: MNB) által elismert külső hitelminősítő szervezet 2-es hitelminősítési besorolásához tartozó nemteljesítési valószínűséget rendelt,
 
 e) tőkekövetelmény vagy tőkeáttételi szabályok tekintetében szabályozott kollektív befektetési forma,
 
@@ -64,12 +64,13 @@ c) olyan elszámolási rendszert működtet, vagy olyan elfogadott elszámolóh�
 
 20. hosszú elszámolási idejű ügylet: a partnerkockázatról szóló kormányrendeletben ilyenként meghatározott fogalom.
 
-21.[^3]
+21.[^5]
 
-22.[^4]
+22.[^6]
 
-23.[^5]
+23.[^7]
 
-[^3]: A 3. § 21. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.
-[^4]: A 3. § 22. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.
-[^5]: A 3. § 23. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.
+[^4]: A 3. § 4. pont d) alpontja a 345/2013. (IX. 30.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § 21. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.
+[^6]: A 3. § 22. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.
+[^7]: A 3. § 23. pontját a 380/2007. (XII. 23.) Korm. rendelet 55. § (2) bekezdése iktatta be, hatályon kívül helyezte a 348/2011. (XII. 30.) Korm. rendelet 13. §-a.

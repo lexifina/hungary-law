@@ -1,4 +1,4 @@
-163. § (1)[^56] A 4. § (3) bekezdésétől eltérően 2015. december 31-ig az Európai Unió bármely tagállamának központi kormányával vagy központi bankjával szembeni, bármely tagállam nemzeti pénznemében fennálló (denominált) és finanszírozott kitettséghez nulla százalékos kockázati súlyt kell rendelni.
+163. § (1)[^100] A 4. § (3) bekezdésétől eltérően 2015. december 31-ig az Európai Unió bármely tagállamának központi kormányával vagy központi bankjával szembeni, bármely tagállam nemzeti pénznemében fennálló (denominált) és finanszírozott kitettséghez nulla százalékos kockázati súlyt kell rendelni.
 
 (2) A 45. §-tól eltérően 2010. december 31-ig a fedezett kötvényhez 11,25%-os nemteljesítéskori veszteségrátát lehet rendelni, ha
 
@@ -12,9 +12,10 @@ d) a fedezett kötvény hitelminősítését egy elismert külső hitelminősít
 
 (3) A Tpt. 285/A. § (5) bekezdésében meghatározott feltételeknek megfelelő és 2007. december 31. előtt kibocsátott kötvénnyel szemben a 14. § (4) bekezdése szerinti kedvezőbb súlyozás a kötvény lejáratáig alkalmazható.
 
-(4) 2010. december 31-ig a 13. § (5) bekezdésétől eltérően, a Hpt. 76/E–76/F. §-a szerint el nem ismerhető, de a Felügyelet által megfelelőnek tekintett hitelezésikockázat-mérséklő tétel is elismerhető hitelkockázati fedezetként, annak nyújtója legalább három éve nyújt hitelkockázati fedezetet.
+(4)[^101] 2010. december 31-ig a 13. § (5) bekezdésétől eltérően, a Hpt. 76/E–76/F. §-a szerint el nem ismerhető, de az MNB által megfelelőnek tekintett hitelezésikockázat-mérséklő tétel is elismerhető hitelkockázati fedezetként, annak nyújtója legalább három éve nyújt hitelkockázati fedezetet.
 
-(5)[^57] Az olyan, lakóingatlanon alapított jelzálogjoggal fedezett lakossággal szembeni kitettségnek a súlyozott átlagos nemteljesítéskori veszteségrátája, amelyhez nem kapcsolódik központi kormány garanciavállalása, 2012. december 31-ig legalább 10%.
+(5)[^102] Az olyan, lakóingatlanon alapított jelzálogjoggal fedezett lakossággal szembeni kitettségnek a súlyozott átlagos nemteljesítéskori veszteségrátája, amelyhez nem kapcsolódik központi kormány garanciavállalása, 2012. december 31-ig legalább 10%.
 
-[^56]: A 163. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^57]: A 163. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^100]: A 163. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^101]: A 163. § (4) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^102]: A 163. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.

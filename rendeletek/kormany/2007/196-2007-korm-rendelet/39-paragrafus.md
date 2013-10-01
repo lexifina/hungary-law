@@ -22,10 +22,12 @@ várható veszteség értéke = várható veszteség * kitettség értéke.
 
 | Legalább 2,5 év | 0,4% | 0,8% | 2,8% | 8% | 50% |
 
-(4) Ha a Felügyelet engedélyezte a 30. § (6) bekezdésének alkalmazását, akkor a várható veszteség értéke az 1. kategóriába tartozó kitettség esetén 0%, a 2. kategóriába tartozó kitettség esetén 0,4%.
+(4)[^50] Ha az MNB engedélyezte a 30. § (6) bekezdésének alkalmazását, akkor a várható veszteség értéke az 1. kategóriába tartozó kitettség esetén 0%, a 2. kategóriába tartozó kitettség esetén 0,4%.
 
 (5) A vásárolt követelés esetében a felhígulási kockázat várható veszteségének értékét a következő képlet szerint kell kiszámítani:
 
 várható veszteség = nemteljesítési valószínűség * nemteljesítéskori veszteségráta,
 
 várható veszteség értéke = várható veszteség * kitettség értéke.
+
+[^50]: A 39. § (4) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

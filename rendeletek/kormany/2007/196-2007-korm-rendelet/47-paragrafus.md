@@ -14,7 +14,7 @@ b) CFt az ügyfél által szerződés alapján, t időszak során kifizetett pé
 
 (4) Az olyan származtatott ügylet esetében, amelyre szabványosított nettósítási megállapodást alkalmaznak, a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább egy év. A lejárati idő súlyozása során minden kitettség névértékét kell figyelembe venni.
 
-(5)[^27] Az olyan – hitelkockázati fedezettel teljes mértékben ellátott – származtatott ügylet és értékpapír ügylethez kapcsolódó hitel esetében, amelyre szabványosított nettósítási megállapodást alkalmaznak, a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább tíz nap. Ha repóügyletre, értékpapír- vagy árukölcsönzési ügyletre szabványosított nettósítási megállapodást alkalmaznak a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább öt nap. A lejárati idő súlyozása során minden kitettség szerződéskötéskori értékét (elvi főösszegét) kell figyelembe venni.
+(5)[^55] Az olyan – hitelkockázati fedezettel teljes mértékben ellátott – származtatott ügylet és értékpapír ügylethez kapcsolódó hitel esetében, amelyre szabványosított nettósítási megállapodást alkalmaznak, a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább tíz nap. Ha repóügyletre, értékpapír- vagy árukölcsönzési ügyletre szabványosított nettósítási megállapodást alkalmaznak a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább öt nap. A lejárati idő súlyozása során minden kitettség szerződéskötéskori értékét (elvi főösszegét) kell figyelembe venni.
 
 (6) Ha a hitelintézet a vállalkozással szembeni vásárolt követelésére saját nemteljesítési valószínűség becslést alkalmaz, akkor a lehívott összeg lejárata a vásárolt követelések súlyozott átlagos hátralévő lejárati ideje, de legalább kilencven nap. Ugyanezt a lejárati időt kell alkalmazni a szerződésben meghatározott, vásárolt követelésre vonatkozó kötelezettségvállalás le nem hívott részére, ha a szerződés lejárat előtti visszafizetést vagy törlesztést biztosít, vagy a vásárolt követelést megvásárló hitelintézet számára hitelkockázati fedezetet nyújt az olyan jövőbeli követelés jelentős minőségromlása ellen, amelyet megvásárol az ügyleti feltételeknek megfelelően. Az ilyen hitelkockázati fedezettel el nem látott kitettség esetében a le nem hívott összeg lejárata a vásárlási megállapodás leghosszabb időtartamú, potenciális követelésének és a vásárolt követelés hátralévő lejáratának az összege, de legalább kilencven nap.
 
@@ -36,13 +36,13 @@ bb) tk időtartamra
 
 bc) a többi jel meghatározása a partnerkockázatról szóló jogszabályban meghatározott belső modell módszer szerint értendő.
 
-(9) A (8) bekezdéstől eltérően, a hitelértékelés egyoldali kiigazításának kiszámításához belső modell módszert alkalmazó hitelintézet – a Felügyelet engedélyével – alkalmazhatja e módszert a tényleges lejáratig hátralévő átlagos futamidő becslésre, amelyet a lejáratként értelmezhet, ha a megelőző három évben az e bekezdésben meghatározott módszerrel számított érték pontosabban közelítő értéket ad, mint a (8) bekezdés szerinti képlet alkalmazása.
+(9)[^56] A (8) bekezdéstől eltérően, a hitelértékelés egyoldali kiigazításának kiszámításához belső modell módszert alkalmazó hitelintézet – az MNB engedélyével – alkalmazhatja e módszert a tényleges lejáratig hátralévő átlagos futamidő becslésre, amelyet a lejáratként értelmezhet, ha a megelőző három évben az e bekezdésben meghatározott módszerrel számított érték pontosabban közelítő értéket ad, mint a (8) bekezdés szerinti képlet alkalmazása.
 
 (10) A (3) bekezdésben meghatározott képlet alkalmazandó az olyan nettósítási halmazra is, amelyben minden szerződés eredeti lejárata egy évnél rövidebb.
 
 (11) A 30. § (3) bekezdése szerinti kitettségre a lejárat a hitelkockázati fedezet tényleges lejárata, de legalább egy év.
 
-(12)[^28] A (3)–(6) és (7) bekezdéstől eltérően a lejárati időt legalább egy napnak kell tekinteni
+(12)[^57] A (3)–(6) és (7) bekezdéstől eltérően a lejárati időt legalább egy napnak kell tekinteni
 
 a) 18. §-ban meghatározott, hitelkockázati fedezettel ellátott származtatott ügylet,
 
@@ -56,5 +56,6 @@ c) repóügylet, értékpapír- vagy áru-kölcsönzési ügylet
 
 (14) A lejárati eltéréseket a XVII. Fejezet szerint kell kezelni.
 
-[^27]: A 47. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^28]: A 47. § (12) bekezdés nyitó szövegrésze a 349/2010. (XII. 28.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^55]: A 47. § (5) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^56]: A 47. § (9) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^57]: A 47. § (12) bekezdés nyitó szövegrésze a 349/2010. (XII. 28.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Regionális kormánnyal és helyi önkormányzattal szembeni kitettség
 
-5. § (1)[^6] A regionális kormánnyal és a helyi önkormányzattal szembeni kitettségre – a (2)–(7) bekezdésben meghatározott eltéréssel – a hitelintézettel és a befektetési vállalkozással szembeni kitettségre alkalmazott kockázati súlyt kell alkalmazni.
+5. § (1)[^9] A regionális kormánnyal és a helyi önkormányzattal szembeni kitettségre – a (2)–(7) bekezdésben meghatározott eltéréssel – a hitelintézettel és a befektetési vállalkozással szembeni kitettségre alkalmazott kockázati súlyt kell alkalmazni.
 
 (2) A regionális kormánnyal és a helyi önkormányzattal szembeni kitettségre nem alkalmazható a 9. § (5) bekezdése szerinti – alacsonyabb – kockázati súly.
 
@@ -8,12 +8,13 @@
 
 (4) Ha a harmadik ország a magyar szabályozással legalább egyenértékű felügyeleti és prudenciális szabályokat alkalmaz, valamint a regionális kormányával és a helyi önkormányzatával szembeni kitettség súlyozása megegyezik a központi kormányával szembeni kitettség súlyozásával, akkor a harmadik ország regionális kormányával és helyi önkormányzatával szembeni kitettség súlyozására annak központi kormányával szembeni kitettség kockázati súlyozása alkalmazható.
 
-(5) Azon regionális kormányok és helyi önkormányzatok listáját, amelyekkel szemben a központi kormányukkal azonos kockázati súly alkalmazható, a Felügyelet a honlapján közzéteszi.
+(5)[^10] Azon regionális kormányok és helyi önkormányzatok listáját, amelyekkel szemben a központi kormányukkal azonos kockázati súly alkalmazható, az MNB a honlapján közzéteszi.
 
-(6)[^7] Ha az egyházi jogi személy önálló adókivetési joggal rendelkezik, a kitettségére – a (3) bekezdés alkalmazásának kivételével – a regionális kormánnyal vagy a helyi önkormányzattal szembeni kitettségre alkalmazott kockázati súlyozást kell alkalmazni.
+(6)[^11] Ha az egyházi jogi személy önálló adókivetési joggal rendelkezik, a kitettségére – a (3) bekezdés alkalmazásának kivételével – a regionális kormánnyal vagy a helyi önkormányzattal szembeni kitettségre alkalmazott kockázati súlyozást kell alkalmazni.
 
-(7)[^8] A regionális kormánnyal, helyi önkormányzattal szembeni, a központi kormánya nemzeti pénznemében fennálló (denominált) és finanszírozott kitettségre 20%-os kockázati súlyt kell alkalmazni.
+(7)[^12] A regionális kormánnyal, helyi önkormányzattal szembeni, a központi kormánya nemzeti pénznemében fennálló (denominált) és finanszírozott kitettségre 20%-os kockázati súlyt kell alkalmazni.
 
-[^6]: Az 5. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (6) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^8]: Az 5. § (7) bekezdését a 348/2011. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^9]: Az 5. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (5) bekezdése a 345/2013. (IX. 30.) 42. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (6) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^12]: Az 5. § (7) bekezdését a 348/2011. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.

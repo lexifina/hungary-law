@@ -32,7 +32,7 @@ b) a mérlegen belüli nettósítási ügyletre.
 
 (8) A (7) bekezdéstől eltérően, a központi szerződő féllel szembeni kitettség értékét a partnerkockázatról szóló jogszabályban meghatározottak szerint kell meghatározni, ha a központi szerződő fél minden ügyfelének hitelkockázata napi szinten biztosítékkal teljes mértékben fedezett.
 
-(9) A Felügyelet a honlapján közzéteszi a (8) bekezdésben említett feltételnek megfelelő központi szerződő felek listáját.
+(9)[^60] Az MNB a honlapján közzéteszi a (8) bekezdésben említett feltételnek megfelelő központi szerződő felek listáját.
 
 (10) A (7)–(8) bekezdéstől eltérően, a hitelintézet repóügyletből, értékpapír- vagy áru-kölcsönzési ügyletből, hosszú elszámolási idejű ügyletből és értékpapír ügylethez kapcsolódó hitelből származó kitettség értékét
 
@@ -52,6 +52,9 @@ b) ha a XVI. Fejezet szerinti belső modell módszer alkalmazási feltételeinek
 
 (15) A hitelintézet a (12)–(14) bekezdésben meghatározotton kívüli egyéb hitelkeret, rulírozó hitelmegállapodás rövid lejáratú pénzpiaci eszköz jegyzése (note issuance facilities, NIF), valamint középtávú rulírozó megállapodás rövid lejáratú pénzpiaci eszköz jegyzése és a kibocsátásban való közreműködése (revolving underwriting facilities, RUF) esetében hetvenöt százalékos hitelegyenértékesítési tényezőt alkalmaz.
 
-(16) Ha a hitelintézet a XIII. Fejezetben meghatározott, a saját hitelegyenértékesítési faktorra vonatkozó becslés alkalmazásához szükséges minimum követelménynek megfelel, akkor a Felügyelet engedélyével a saját hitelegyenértékesítési tényezőre becsléseket alkalmazhat a (12)–(15) bekezdésben említett ügyletek esetében.
+(16)[^61] Ha a hitelintézet a XIII. Fejezetben meghatározott, a saját hitelegyenértékesítési faktorra vonatkozó becslés alkalmazásához szükséges minimum követelménynek megfelel, akkor az MNB engedélyével a saját hitelegyenértékesítési tényezőre becsléseket alkalmazhat a (12)–(15) bekezdésben említett ügyletek esetében.
 
 (17) Ha a kötelezettségvállalás egy másik kötelezettségvállalás meghosszabbításának eredményeként – új kötelezettségvállalásként – jön létre, akkor az eredeti és a hosszabbítás eredményeként létrejött kötelezettségvállaláshoz tartozó hitelegyenértékesítési tényezők közül az alacsonyabbat kell alkalmazni.
+
+[^60]: Az 51. § (9) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § c) pontja szerint módosított szöveg.
+[^61]: A 51. § (16) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

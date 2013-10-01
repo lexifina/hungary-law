@@ -18,8 +18,8 @@ b) a hitelintézet belső kockázati profilja és a külső adatok összetétele
 
 (5) Függetlenül attól, hogy egy hitelintézet külső, belső vagy közös adatforrásokat, illetve ennek a háromnak a kombinációját használja a veszteségjellemzők becsléseihez, az ezeket alátámasztó múltbeli megfigyelési időszak hosszának legalább egy forrás tekintetében legalább öt évnek kell lennie. Ha a megfigyelési időszak egy forrás tekintetében hosszabb időszakot tekint át, és ezek az adatok meghatározóak, akkor ezt a hosszabb időszakot kell alkalmazni. A hitelintézetnek nem kell a múltbeli adatokat figyelembe vennie, ha a frissebb adatok a veszteségi ráta jobb előrejelzői.
 
-(6)[^30]
+(6)[^66]
 
 (7) A hitelintézet azonosítja és elemzi a kockázati paraméterek várható változását a kitettség élettartama során.
 
-[^30]: A 73. § (6) bekezdését a 167. § hatályon kívül helyezte azzal, hogy rendelkezéseit a 2012. december 31-ig kérelmezett engedélyezési eljárás során a hitelintézet kérelmére alkalmazni lehet.
+[^66]: A 73. § (6) bekezdését a 167. § hatályon kívül helyezte azzal, hogy rendelkezéseit a 2012. december 31-ig kérelmezett engedélyezési eljárás során a hitelintézet kérelmére alkalmazni lehet.

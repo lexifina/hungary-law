@@ -2,7 +2,7 @@
 
 (2) A belső modell módszer alkalmazható függetlenül attól, hogy a hitelintézet a kockázattal súlyozott kitettség érték számítása során a sztenderd vagy a belső minősítésen alapuló módszert alkalmazza.
 
-(3) Ha a hitelintézet nem felel meg a kereskedési könyvről szóló jogszabályban meghatározott belső modell módszer alkalmazási feltételének, akkor a belső modell módszer a Felügyelet engedélyével alkalmazható. A Felügyelet az engedélyt akkor adja meg, ha a hitelintézet szabványosított nettósítási megállapodásban szereplő ügyletekből eredő kockázat kezelésének rendszere megfelel a következő feltételeknek:
+(3)[^80] Ha a hitelintézet nem felel meg a kereskedési könyvről szóló jogszabályban meghatározott belső modell módszer alkalmazási feltételének, akkor a belső modell módszer az MNB engedélyével alkalmazható. Az MNB az engedélyt akkor adja meg, ha a hitelintézet szabványosított nettósítási megállapodásban szereplő ügyletekből eredő kockázat kezelésének rendszere megfelel a következő feltételeknek:
 
 a) napi kockázatkezelési folyamatba integrált kockázatkezelési modell biztosítja az ügylet lehetséges árfolyam-volatilitásának megfelelő számítását,
 
@@ -32,7 +32,7 @@ h) a belső modell megfelel a partnerkockázatról szóló jogszabály szerinti 
 
 i) megbízható és következetes.
 
-(4)[^42] Az (1) bekezdés szerinti belső modellt a hitelintézet a Felügyelet engedélyével az értékpapír ügylethez kapcsolódó hitelhez is alkalmazhatja, ha megfelel a partnerkockázatról szóló jogszabály szerződés szerinti nettósításra meghatározott feltételeinek.
+(4)[^81] Az (1) bekezdés szerinti belső modellt a hitelintézet az MNB engedélyével az értékpapír ügylethez kapcsolódó hitelhez is alkalmazhatja, ha megfelel a partnerkockázatról szóló jogszabály szerződés szerinti nettósításra meghatározott feltételeinek.
 
 (5) Ha a hitelintézet a teljes mértékben korrigált kitettség érték számításához a belső modell módszert alkalmazza, akkor az kiterjed minden ügyfélre és értékpapírra azzal, hogy az elhanyagolható jelentőségű portfólióra a hitelintézet a 131. §-t alkalmazhatja.
 
@@ -50,7 +50,7 @@ e) az adatok háromhavonta történő aktualizálása.
 
 (7) A belső kockázatkezelési modell elegendő számú kockázati tényezőt tartalmaz ahhoz, hogy az összes lényeges árfolyamkockázatra kiterjedjen.
 
-(8) Ha a hitelintézet korrelációk mérésére alkalmazott rendszere megbízható és következetes, akkor a Felügyelet engedélyezi az empirikus adatokon alapuló korrelációk használatát az egyes kockázati kategóriákon belül és azok között.
+(8)[^82] Ha a hitelintézet korrelációk mérésére alkalmazott rendszere megbízható és következetes, akkor az MNB engedélyezi az empirikus adatokon alapuló korrelációk használatát az egyes kockázati kategóriákon belül és azok között.
 
 (9) A belső modell módszert alkalmazó hitelintézet a teljes mértékben korrigált kitettség értéket a következő képlet szerint számítja:
 
@@ -70,4 +70,6 @@ E*: a teljes mértékben korrigált kitettség értéke.
 
 (10) A hitelintézet a belső modell módszerrel történő kockázattal súlyozott kitettség érték kiszámításakor a modell által az előző banki munkanapra adott eredményt alkalmazza.
 
-[^42]: A 132. § (4) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 55. § (11) bekezdésével megállapított szöveg.
+[^80]: A 132. § (3) bekezdés nyitó szövegrésze a 345/2013. (IX. 30.) Korm. rendelet 42. § b) és c) pontja szerint módosított szöveg.
+[^81]: A 132. § (4) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 55. § (11) bekezdésével megállapított, a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^82]: A 132. § (8) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.

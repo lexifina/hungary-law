@@ -12,7 +12,7 @@ b) az ügyfél minősítése és a lakóingatlan fedezeti értéke független eg
 
 c) a kötelezettség törlesztése legalább nyolcvan százalékban nem a lakóingatlanból származó bevételtől függ, valamint
 
-d)[^9] a kitettség értéke nem haladja meg a lakóingatlan piaci értékének hetvenöt százalékát.
+d)[^15] a kitettség értéke nem haladja meg a lakóingatlan piaci értékének hetvenöt százalékát.
 
 (4) A lakóingatlannal kapcsolatos pénzügyi lízing ügylethez harmincöt százalékos kockázati súlyt kell rendelni, ha
 
@@ -24,7 +24,7 @@ c) a kitettség értéke nem haladja meg a lakóingatlan piaci értékének hetv
 
 (5) A lakóingatlannak nem minősülő ingatlanon alapított jelzálogjoggal fedezett kitettség-részhez ötven százalékos kockázati súlyt kell rendelni, ha
 
-a)[^10] az ingatlan Magyarország területén helyezkedik el,
+a)[^16] az ingatlan Magyarország területén helyezkedik el,
 
 b) az ügyfél minősítése és az ingatlan fedezeti értéke független egymástól, valamint
 
@@ -32,7 +32,7 @@ c) a kötelezettség törlesztése legalább nyolcvan százalékban nem az ingat
 
 (6) A lakóingatlannak nem minősülő ingatlannal kapcsolatos pénzügyi lízing ügylethez ötven százalékos kockázati súlyt kell rendelni, ha
 
-a)[^11] az ingatlan Magyarország területén helyezkedik el,
+a)[^17] az ingatlan Magyarország területén helyezkedik el,
 
 b) az ügyfél minősítése és az ingatlan fedezeti értéke független egymástól, valamint
 
@@ -48,6 +48,6 @@ b) az ingatlan hitelbiztosítéki értékének hatvan százaléka.
 
 (9) A jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárból származó követelését ingatlannal fedezett kitettség kategóriába sorolhatja, ha az önálló zálogjog a (3) vagy (5) bekezdésben foglalt feltételeknek megfelelő követelés fedezetéül szolgál.
 
-[^9]: A 12. § (3) bekezdés d) pontja a 361/2009. (XII. 30.) Korm. rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 8. § (3) bekezdése alapján a rendelkezést a 2010. március 1-jét követően kötött szerződésekre kell alkalmazni.
-[^10]: A 12. § (5) bekezdés a) pontja a 348/2011. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^11]: A 12. § (6) bekezdés a) pontja a 348/2011. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^15]: A 12. § (3) bekezdés d) pontja a 361/2009. (XII. 30.) Korm. rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 8. § (3) bekezdése alapján a rendelkezést a 2010. március 1-jét követően kötött szerződésekre kell alkalmazni.
+[^16]: A 12. § (5) bekezdés a) pontja a 348/2011. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^17]: A 12. § (6) bekezdés a) pontja a 348/2011. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
