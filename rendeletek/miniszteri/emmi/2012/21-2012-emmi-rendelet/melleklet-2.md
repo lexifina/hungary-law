@@ -1,12 +1,33 @@
 ## 1–3.[^5]
 
-## 4–7.[^6]
+## 4. Az R1. 1. számú mellékletében foglalt táblázat a következő 47. sorral egészül ki:
 
-## 8–11.[^7]
+| [Sor- szám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Termék- típus | Különös rendelkezések(2)] |
 
-2–3. melléklet a 21/2012. (IX. 4.) EMMI rendelethez[^8]
+| 47. | A H-14 szerotípusú Bacillus thuringiensis subsp. israelensis AM65-52 törzse | - | Nincsenek releváns szennyeződések. | 2013. október1. | 2015. szeptember 30. | 2023. szeptember 30. | 18 | A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – amennyiben ez az adott termék esetében releváns – értékelni kell azon felhasználási vagy expozíciós körülményeket, valamint népességcsoportokat és környezeti elemeket érintő kockázatokat, amelyek nem szerepeltek reprezentatív módon az uniós szintű kockázatértékelésben. A foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, kivéve, ha a termék engedélyezése iránti kérelem bizonyítja, hogy a foglalkozásszerű felhasználókat érintő kockázatok más módon is elfogadható szintre csökkenthetők. A H-14 szerotípusú Bacillus thuringiensis subsp. israelensis AM65-52 törzsét tartalmazó olyan termékek esetében, amelyek használata során az élelmiszerekben vagy a takarmányokban maradékok képződhetnek az anyagból, meg kell vizsgálni, hogy szükséges-e új maximális maradékanyag-határértékeket (MRL) meghatározni, vagy a már meglévőket módosítani összhangban a 470/2009/EK vagy a 396/2005/EK rendelettel, illetve meg kell hozni minden megfelelő kockázatcsökkentő intézkedést annak biztosítása érdekében, hogy ne kerüljön sor az alkalmazandó MRL-ek túllépésére. |
+
+## 5. Az R1. 1. számú mellékletében foglalt táblázat a következő 48. sorral egészül ki:
+
+| [Sor- szám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Termék- típus | Különös rendelkezések(2)] |
+
+| 48. | Fipronil | (±)-5-amino-1-(2,6- diklór-α,α,α-trifluor-p- tolil)-4-trifluor-metil- szulfinil-pirazol-3- karbonitril (1:1) EK-szám: 424-610-5 CAS-szám: 120068- 37-3 | 950 g/kg | 2013. október1. | 2015. szeptember 30. | 2023. szeptember 30. | 18 | Az uniós szintű kockázatértékelés csupán olyan foglalkozásszerű, beltéri helyszíneket érintő felhasználásokra terjedt ki, amelyek rendes körülmények között az anyag használata után ember és háziállatok számára nem megközelíthetőek. A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – amennyiben ez az adott termék esetében releváns – értékelni kell azon felhasználási vagy expozíciós körülményeket, valamint népességcsoportokat és környezeti elemeket érintő kockázatokat, amelyek nem szerepeltek reprezentatív módon az uniós szintű kockázatértékelésben. |
+
+## 6. Az R1. 1. számú mellékletében foglalt táblázat a következő 49. sorral egészül ki:
+
+| [Sor- szám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Termék- típus | Különös rendelkezések(2)] |
+
+| 49. | Lambda- cihalotrin | A következő reakciótömege: (R)-α- cián-3-fenoxibenzil-(1S,3S)-3-[(Z)- 2- klór-3,3,3-trifluor-propenil]-2,2- dimetil-ciklopropánkarboxilát és (S)- α- cián-3-fenoxibenzil-(1R,3R)-3- [(Z)-2- klór-3,3,3-trifluor-propenil]- 2,2- dimetil-ciklopropánkarboxilát (1:1) CAS-szám: 91465-08-6 EK-szám: 415-130-7 | 900 g/kg | 2013. október1. | 2015. szeptember 30. | 2023. szeptember 30. | 18 | A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – amennyiben ez az adott termék esetében releváns – értékelni kell azon felhasználási vagy expozíciós körülményeket, valamint a népességcsoportokat és környezeti elemeket érintő azon kockázatokat, amelyek nem szerepeltek reprezentatív módon az uniós szintű kockázatértékelésben. A termékek nem engedélyezhetők olyan felhasználási módok esetében, amelyekkel összefüggésben nem akadályozható meg a termék szennyvíztisztító telepekre való kibocsátása, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék – szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével – megfelel az 5. § és a 6. számú melléklet követelményeinek. A foglalkozásszerű felhasználásra engedélyezett termékeket megfelelő egyéni védőeszközökkel kell használni, kivéve, ha a termék engedélyezése iránti kérelem bizonyítja, hogy a foglalkozásszerű felhasználókat érintő kockázatok más módon is elfogadható szintre csökkenthetők. A lambda-cihalotrint tartalmazó olyan termékek esetében, amelyek használata során az anyagból szermaradékok képződhetnek az élelmiszerekben vagy a takarmányokban, meg kell vizsgálni, hogy szükséges-e új maximális maradékanyag-határértékeket (MRL) meghatározni, vagy a már meglévőket módosítani összhangban a 470/2009/EK vagy a 396/2005/EK rendelettel, illetve meg kell hozni minden megfelelő kockázatcsökkentő intézkedést annak biztosítása érdekében, hogy ne kerüljön sor az alkalmazandó MRL-ek túllépésére. |
+
+## 7. Az R1. 1. számú mellékletében foglalt táblázat a következő 50. sorral egészül ki:
+
+| [Sor- szám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Termék- típus | Különös rendelkezések(2)] |
+
+| 50. | Deltametrin | (S)-α-cián-3-fenoxibenzil (1R,3R)- 3-(2,2-dibromovinil)-2,2-dimetilciklopropán karboxilát CAS-szám: 52918-63-5 EK-szám: 258-256-6 | 985 g/kg | 2013. október1. | 2015. szeptember 30. | 2023. szeptember 30. | 18 | A termékengedélyezés iránti kérelemnek az 5. §-sal és a 6. számú melléklettel összhangban történő elbírálása során – amennyiben ez az adott termék esetében releváns – értékelni kell azon felhasználási vagy expozíciós körülményeket, valamint környezeti elemeket és népességcsoportokat érintő kockázatokat, amelyek nem szerepeltek reprezentatív módon az uniós szintű kockázatértékelésben. A termékek nem engedélyezhetők azokra a beltéri kezelési módokra, amelyek olyan mértékű, szennyvíztisztító telepen mért kibocsátást eredményeznek, amelyek esetében az uniós szintű kockázatértékelés elfogadhatatlanul nagy kockázatokat tárt fel, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék – szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével – megfelel az 5. § és a 6. számú melléklet követelményeinek. |
+
+## 8–11.[^6]
+
+2–3. melléklet a 21/2012. (IX. 4.) EMMI rendelethez[^7]
 
 [^5]: Az 1. melléklet 1–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet 4–7. pontja az 5. § (3) bekezdése alapján 2013. október 1-jén lép hatályba.
-[^7]: Az 1. melléklet 8–11. pontja az 5. § (4) bekezdése alapján 2014. február 1-jén lép hatályba.
-[^8]: A 2–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet 8–11. pontja az 5. § (4) bekezdése alapján 2014. február 1-jén lép hatályba.
+[^7]: A 2–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
