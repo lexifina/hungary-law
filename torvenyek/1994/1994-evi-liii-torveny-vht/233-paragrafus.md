@@ -34,11 +34,13 @@ c) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszer
 
 d) aki a jogi képesítéshez kötött foglalkozástól vagy a végrehajtói foglalkozástól eltiltás hatálya alatt áll,
 
-e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott, a határozat jogerőre emelkedésétől számított 10 évig,
+e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy akinek a végrehajtói szolgálatát a miniszter a 239. § (4a) bekezdése alapján szüntette meg, a határozat jogerőre emelkedésétől számított 10 évig,
 
 f) aki egészségi állapota miatt vagy más okból a szolgálat ellátására alkalmatlan, vagy
 
-g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátásához szükséges közbizalomra érdemtelen.
+g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátásához szükséges közbizalomra érdemtelen,
+
+h) akivel szemben a 227. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
 
 (3)
 

@@ -6,4 +6,4 @@
 
 (3) A fegyelmi eljárást megindító határozatban a fegyelmi tanács – a (4) bekezdésben foglalt eset kivételével – vizsgálatot rendel el, és ennek a lefolytatására vizsgálóbiztost rendel ki.
 
-(4) Egyszerű ügyben a fegyelmi tanács — vizsgálóbiztos kirendelése nélkül — azonnal tárgyalást tűz ki, vagy fegyelmi intézkedést hoz (291. §).
+(4) Egyszerű ügyben a fegyelmi tanács — vizsgálóbiztos kirendelése nélkül — azonnal tárgyalást tűz ki, vagy fegyelmi intézkedést hoz (291. §). A tárgyalást 30 napon belüli időpontra kell kitűzni.

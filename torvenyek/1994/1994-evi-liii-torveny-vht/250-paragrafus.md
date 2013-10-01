@@ -32,7 +32,7 @@ n) a végrehajtási ügyek intézéséről statisztikai adatgyűjtést és adats
 
 o) az önálló bírósági végrehajtók hatáskörébe tartozó ügyekről a hiteles, pontos és gyors tájékoztatás érdekében felvilágosítást ad a sajtó, a rádió és a televízió részére, és
 
-p) kiállítja az önálló bírósági végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek és helyettes bírósági végrehajtók igazolványát,
+p) kiállítja az önálló bírósági végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványát,
 
 q) – a bíróság hatáskörébe tartozó ügyek kivételével – dönt a végrehajtó kizárásáról és új végrehajtó kijelöléséről.
 
@@ -62,4 +62,4 @@ c) statisztikai adatszolgáltatásáról,
 
 d) működésének vizsgálatáról és a panaszügyek intézéséről.
 
-(5) A kamara működésével felmerülő kiadásokat elsősorban a végrehajtók által fizetett kamarai hozzájárulás (tagdíj), a kamara tevékenységével kapcsolatos gazdasági tevékenységből származó bevétel, az általános költségátalány, valamint a fegyelmi büntetésként kiszabott pénzbírságok összege fedezi.
+(5) A kamara működésével felmerülő kiadásokat elsősorban a végrehajtók által fizetett kamarai hozzájárulás (tagdíj), a kamara tevékenységével kapcsolatos gazdasági tevékenységből származó bevétel, az általános költségátalány összege fedezi.

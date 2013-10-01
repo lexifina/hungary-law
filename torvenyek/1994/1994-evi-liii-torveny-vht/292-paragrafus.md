@@ -1,6 +1,6 @@
 ## Felfüggesztés
 
-292. § (1) Az elsőfokú fegyelmi tanács az eljárás alá vont személyt felfüggeszti a hivatalából, ha a büntetőeljárás során az eljárás alá vont személyt letartóztatták, illetőleg ha a fegyelmi vagy a büntetőeljárás során a felfüggesztés más fontos okból indokolt. A felfüggesztésre a feljelentő, valamint a miniszternek vagy a kamarának a képviselője indítványt tehet, továbbá azt a bíróság hivatalból is elrendelheti.
+292. § (1) Az elsőfokú fegyelmi tanács az eljárás alá vont személyt felfüggeszti a hivatalából, ha a büntetőeljárás során az eljárás alá vont személyt előzetes letartóztatásba vagy házi őrizetbe helyezték, illetve vele szemben lakhelyelhagyási tilalmat vagy ideiglenes kényszergyógykezelést rendeltek el, illetőleg ha a fegyelmi vagy a büntetőeljárás során a felfüggesztés más fontos okból indokolt. A felfüggesztésre a feljelentő, valamint a miniszternek vagy a kamarának a képviselője indítványt tehet, továbbá azt a bíróság hivatalból is elrendelheti.
 
 (2) Az (1) bekezdésben foglalt indítványról a fegyelmi tanács 15 napon belül határoz. Ha az indítványt a feljelentéssel együtt terjesztették elő, a felfüggesztéssel egyidejűleg a fegyelmi eljárás megindításának kérdésében is dönteni kell.
 

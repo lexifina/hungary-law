@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2013-07-21 | 2013. évi XCIX. törvény | 1994-53-00-00.93 |
 | 2013-08-01 | 2012. évi LXXXV. törvény | 1994-53-00-00.94 |
 | 2013-09-01 | 2013. évi XXXIV. törvény | 1994-53-00-00.95 |
+| 2013-10-01 | 2013. évi XCIX. törvény | 1994-53-00-00.96 |

@@ -32,4 +32,6 @@ c) a 233. § (2) bekezdés b)–d) pontjában foglalt kizáró ok következett b
 
 d) elhalálozott,
 
-e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-helyettesek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg.
+e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-helyettesek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
+
+f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget kamarai felszólításra 30 napon belül nem szüntette meg.

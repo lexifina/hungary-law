@@ -10,7 +10,7 @@ c) a jövőbeni tisztségviseléstől meghatározott ideig történő eltiltás,
 
 d) a kamarai tisztségtől való megfosztás,
 
-e) 500 000 Ft-ig terjedő pénzbírság,
+e) 5 000 000 Ft-ig terjedő pénzbírság,
 
 f) hivatalvesztés.
 
@@ -24,7 +24,7 @@ c) a jövőbeni tisztségviseléstől meghatározott ideig történő eltiltás,
 
 d) a kamarai tisztségtől való megfosztás,
 
-e) 100 000 Ft-ig terjedő pénzbírság,
+e) 500 000 Ft-ig terjedő pénzbírság,
 
 f) törlés a kamarai névjegyzékből.
 
@@ -32,4 +32,4 @@ f) törlés a kamarai névjegyzékből.
 
 (4) Ha a fegyelmi vétség a végrehajtó pénzkezelésére vagy díjszabására vonatkozó szabályok megsértésével valósult meg, pénzbüntetést alkalmazni kell.
 
-(5) Az (1) és (2) bekezdés e) pontjában említett pénzbírság összege a kamarát illeti meg.
+(5) Az (1) és (2) bekezdés e) pontjában említett pénzbírság összege az államot illeti meg és azt a bíróság gazdasági hivatala számlájára kell befizetni.

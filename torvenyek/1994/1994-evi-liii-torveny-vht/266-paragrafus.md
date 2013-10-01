@@ -2,7 +2,7 @@
 
 266. § (1) Fegyelmi vétséget követ el az a 225. § (1) bekezdésében felsorolt személy, aki
 
-a) e törvényben vagy más jogszabályban meghatározott hivatásbeli kötelességét vétkesen megszegi, illetőleg
+a) e törvényben vagy más jogszabályban meghatározott hivatásbeli kötelességét vétkesen megszegi vagy elmulasztja, illetőleg
 
 b) magatartásával vagy életmódjával a feladatának ellátásához szükséges közbizalmat megingatja, vagy hivatásának tekintélyét csorbítja.
 

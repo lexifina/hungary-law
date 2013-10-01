@@ -2,7 +2,7 @@
 
 a) a közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség alapján bármelyik közjegyző, továbbá a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke alapján a költségjegyzéket kiállító közjegyzőn kívüli bármelyik közjegyző,
 
-b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak pénzbírság, eljárási költség és kamarai tagdíj megfizetésére kötelező határozata alapján az adós lakóhelye szerinti járásbíróság (kerületi bíróság; a továbbiakban együtt: járásbíróság),
+b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak eljárási költség és kamarai tagdíj megfizetésére kötelező határozata alapján az adós lakóhelye szerinti járásbíróság (kerületi bíróság; a továbbiakban együtt: járásbíróság),
 
 c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 

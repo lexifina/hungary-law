@@ -28,6 +28,8 @@ c) a 233. § (2) bekezdés b)–d) pontjában foglalt kizáró ok következett b
 
 d) elhalálozott,
 
-e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtójelöltek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg.
+e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtójelöltek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
+
+f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget kamarai felszólításra 30 napon belül nem szüntette meg.
 
 (7) A végrehajtójelöltek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtójelölt tekintetében a 233. § (2) bekezdés a)–d) pontjában foglalt körülmény vizsgálata esetén a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.

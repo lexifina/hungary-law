@@ -4,4 +4,4 @@
 
 (2) A fegyelmi intézkedésről szóló határozatban e törvénynek megfelelően bármely fegyelmi büntetés kiszabható a hivatalvesztés kivételével.
 
-(3) Ha az eljárás alá vont személy a fegyelmi intézkedésről szóló határozat kézbesítésétől számított 15 napon belül tárgyalás tartását kérte, a fegyelmi intézkedés a hatályát veszti, és az elsőfokú fegyelmi tanács a tárgyalást kitűzi, vagy vizsgálóbiztost rendel ki.
+(3) Ha az eljárás alá vont személy a fegyelmi intézkedésről szóló határozat kézbesítésétől számított 15 napon belül tárgyalás tartását kérte, a fegyelmi intézkedés a hatályát veszti, és az elsőfokú fegyelmi tanács a 15 napon belül a tárgyalást 60 napon belüli időpontra kitűzi, vagy vizsgálóbiztost rendel ki.
