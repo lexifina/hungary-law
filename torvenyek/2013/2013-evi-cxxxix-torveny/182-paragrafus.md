@@ -1,1 +1,3 @@
-### 182. §
+182. § (1) Az MNB részére benyújtandó formanyomtatványt és elektronikus űrlapot 2013. december 1-jéig az MNB abban az esetben is elfogadja, ha az a 2013. szeptember 30-án hatályos jogszabályokban ezek tartalmára, formájára és benyújtására vonatkozóan előírtaknak megfelel.
+
+(2) Ha az MNB elnöke 2013. október 1-jét követően az 59. § (4) bekezdése alapján formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására vonatkozó részletes szabályokat tartalmazó rendeletet alkot, e rendelet kihirdetését követő hatvanadik napig az abban szabályozott engedélyezési, jóváhagyási és nyilvántartásba vételi, törlési, valamint bejelentésekre vonatkozó eljárásokban a rendelet kihirdetését megelőző napon hatályos előírások szerint is, ilyenek hiányában a rendeletben előírt követelmények nélkül is teljesíthetők a rendelettel érintett kötelezettségek.

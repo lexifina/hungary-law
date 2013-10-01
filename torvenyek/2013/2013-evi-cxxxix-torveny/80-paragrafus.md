@@ -1,1 +1,3 @@
-### 80. §
+80. § (1) A nonprofit gazdasági társaság a kijelöléskor, illetve a felügyeleti biztosi tevékenységének folytatása során is – a lefolytatandó vagy folyamatban lévő eljárás összes körülményének mérlegelése alapján – dönthet úgy, hogy több személyt jelöl ki a felügyeleti biztosi tevékenység ellátására. A nonprofit gazdasági társaságnak lehetősége van arra is, hogy a már kijelölt személyek számát csökkentse, ha ez a lefolytatandó vagy folyamatban lévő eljárás összes körülményének mérlegelése alapján indokolt.
+
+(2) Hitelintézethez történő felügyeleti biztos kirendelése esetén a nonprofit gazdasági társaság a hitelintézethez egyidejűleg legalább két személyt jelöl ki a felügyeleti biztosi tevékenység ellátására.

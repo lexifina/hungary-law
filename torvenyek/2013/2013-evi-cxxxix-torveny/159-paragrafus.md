@@ -1,1 +1,27 @@
-### 159. §
+159. § (1) Az MNB jogosult
+
+a) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti pénzforgalmi szolgáltató,
+
+b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet,
+
+c) a Hpt. szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
+
+d) a pénzfeldolgozási tevékenységet végző szervezet,
+
+e) a központi értéktár,
+
+f) az Országos Betétbiztosítási Alap,
+
+g) a Befektető-védelmi Alap,
+
+h) a 4. § (1), (4), (5) és (7) bekezdésében meghatározott feladatok ellátásával összefüggésben bármely más belföldi szervezet és
+
+i) külföldi jegybank, valamint a 4. § (1), (4), (5) és (7) bekezdésében meghatározott feladatok ellátásával összefüggésben, továbbá nemzetközi szerződésből eredő kötelezettségek ellátása érdekében bármely más külföldi szervezet
+
+részére forintban és külföldi pénznemben bankszámlát vezetni.
+
+(2) Az MNB a 4. § (1)–(5) és (7) bekezdésében foglalt feladatai ellátása során jogosult forintban, külföldi pénznemben és nemesfémekkel a pénzügyi és kiegészítő pénzügyi szolgáltatási tevékenység körébe tartozó bármely egyéb műveletet végezni.
+
+(3) Az MNB a 4. § (1) és (7) bekezdésében meghatározott feladata ellátása során a Bszt. szerinti befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásként pénzügyi eszköz letéti őrzését és nyilvántartását láthatja el, ehhez kapcsolódóan ügyfélszámlát vezethet, továbbá letétet kezelhet és ehhez kapcsolódóan értékpapírszámlát vezethet, valamint nyomdai úton előállított értékpapír esetén azt nyilvántarthatja és ügyfélszámlát vezethet.
+
+(4) Az MNB a nyomozó hatóság és az ügyészség tevékenységének támogatása céljából, a monetáris finanszírozás 146. § szerinti tilalmának betartásával jogosult forint és külföldi bankjegyeket biztosítani e szervek részére a nyomozati tevékenységhez.

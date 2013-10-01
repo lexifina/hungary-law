@@ -1,1 +1,1 @@
-### 56. §
+56. § Az MNB-vel szemben – hatósági jogkörben hozott döntése miatt – kártérítési igény akkor érvényesíthető, ha az MNB határozata vagy mulasztása jogszabálysértő és a bekövetkezett kárt közvetlenül ez idézte elő, és a sérelmet okozó MNB döntés kapcsán megindított közigazgatási perben hozott – az MNB-t marasztaló – ítélet jogerőre emelkedett.

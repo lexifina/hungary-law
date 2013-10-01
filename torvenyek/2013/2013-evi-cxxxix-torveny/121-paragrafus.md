@@ -1,1 +1,1 @@
-### 121. §
+121. § A Pénzügyi Békéltető Testület közzéteheti annak a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet nevét, székhelyét és az eljárással érintett tevékenysége megjelölését, amely felszólítása ellenére nem tett az ügy érdemére vonatkozó – a 108. § (2) bekezdésében foglaltaknak megfelelő tartalmú – nyilatkozatot és a kitűzött meghallgatáson nem jelent meg, ilyen módon megakadályozva az egyezség létrehozását. Erre az értesítésben a szervezet vagy személy figyelmét fel kell hívni.

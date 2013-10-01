@@ -1,1 +1,1 @@
-### 66. §
+66. § Az MNB csak az ellenőrzési feladatainak ellátása érdekében és az ellenőrzéshez szükséges mértékben vizsgálhatja a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek ügyfelére, illetve a pénztártagra vonatkozó adatokat. Az MNB ellenőrzési feladatkörében való eljárásához történő, titokkörbe tartozó adatátadásáról az ügyfél, pénztártag tájékoztatása mellőzhető.

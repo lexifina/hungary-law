@@ -1,1 +1,3 @@
-### 70. §
+70. § (1) Az MNB a 69. § (4) bekezdése alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított hatvan napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható. Az MNB a vizsgálatot lezáró döntését a vizsgálati jelentésben foglalt megállapítások, valamint a rendelkezésre álló egyéb bizonyítékok, hivatalosan ismert és köztudomású tények alapján hozza meg.
+
+(2) A 67. § (1) bekezdés szerinti értesítés mellőzését – kivéve a rendszeres adatszolgáltatásból származó adatok ellenőrzésén alapuló ellenőrzési eljárást – és a 69. § (4) bekezdésében meghatározott határidőnél rövidebb határidő előírását az MNB az (1) bekezdés szerinti döntésében megindokolja.

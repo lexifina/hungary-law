@@ -1,1 +1,3 @@
-### 137. §
+137. § (1) A deviza- és aranytartalék mértékére, összetételére, a tartalékkezelés során kötött egyed ügyletekre vonatkozó adatok, a tartalékkezeléssel összefüggő döntések és belső szabályok – amennyiben azok nem minősített adatok – az MNB általi nyilvánosságra hozatalukig, de legfeljebb az adat keletkezésétől számított 10 évig nem nyilvánosak. Az adatok ezen határidőn belüli nyilvánosságra hozataláról az MNB elnöke dönt.
+
+(2) A Monetáris Tanács, a Pénzügyi Stabilitási Tanács, és az igazgatóság döntésének meghozatalára irányuló eljárás során készített vagy rögzített, az alapvető feladat ellátásával kapcsolatos döntés megalapozását szolgáló adat a keletkezésétől számított harminc évig nem nyilvános, ezen határidő alatt – sem a döntés meghozatalát megelőzően, sem azt követően – a döntés megalapozását szolgáló adat megismerésére vonatkozó igény nem terjeszthető elő.

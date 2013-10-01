@@ -1,1 +1,1 @@
-### 87. §
+87. § Az MNB fogyasztóvédelmi eljárásában a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésben megtilthatja a jogsértő magatartás további folytatását, és elrendelheti a jogsértő állapot megszüntetését, ha erre – a fogyasztók jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van. Az MNB e végzését soron kívül hozza meg.

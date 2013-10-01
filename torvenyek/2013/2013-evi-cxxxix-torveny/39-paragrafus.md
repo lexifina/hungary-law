@@ -2,4 +2,46 @@
 
 ## FELÜGYELETI FELADATOK
 
-### 39. §
+39. § (1) Ha törvény eltérően nem rendelkezik, az MNB a 4. § (9) bekezdésben meghatározott feladatkörében ellátja
+
+a) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény,
+
+b) a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvény,
+
+c) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény,
+
+d) a lakástakarékpénztárakról szóló törvény,
+
+e) a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvény,
+
+f) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény,
+
+g) a Magyar Fejlesztési Bank Részvénytársaságról szóló törvény,
+
+h) a Tpt.,
+
+i) a biztosítókról és a biztosítási tevékenységről szóló törvény,
+
+j) a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló törvény,
+
+k) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény (a továbbiakban: Fnytv.),
+
+l) a Bszt.,
+
+m) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény (a továbbiakban: Batv.),
+
+n) a viszontbiztosítókról szóló törvény (a továbbiakban: Vbit.),
+
+o) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény, valamint
+
+p) a kötelező gépjármű-felelősségbiztosításról szóló törvény (a továbbiakban: Gfbt.),
+
+q) a központi hitelinformációs rendszerről szóló törvény,
+
+r) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény
+
+hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
+
+(2) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló törvény hatálya alá tartozó tevékenysége tekintetében.
+
+(3) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a Pmt.-ben meghatározott felügyeleti feladatokat.
