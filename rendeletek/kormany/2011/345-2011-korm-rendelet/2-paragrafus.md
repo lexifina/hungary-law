@@ -24,7 +24,7 @@ db) a bevezetés a forgalomba hozataltól számított 1 éven belül megtörtén
 
 e) ÁÉKBV által kibocsátott kollektív befektetési értékpapírok, vagy egyéb kollektív befektetési formák által nyilvánosan forgalomba hozott nyílt végű értékpapírok, feltéve, hogy:
 
-ea) az egyéb kollektív befektetési forma jogszabály alapján prudenciális felügyelet hatálya alatt áll, és ez a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) megítélése szerint egyenértékű a közösségi jogszabályokban megállapított felügyelettel, és a hatóságok közötti megfelelő együttműködés biztosított,
+ea)[^1] az egyéb kollektív befektetési forma jogszabály alapján prudenciális felügyelet hatálya alatt áll, és ez a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) megítélése szerint egyenértékű a közösségi jogszabályokban megállapított felügyelettel, és a hatóságok közötti megfelelő együttműködés biztosított,
 
 eb) az egyéb kollektív befektetési forma által kibocsátott értékpapírok tulajdonosainak védelme egyenértékű az ÁÉKBV befektetési jegyei tulajdonosai számára biztosított védelemmel, beleérve az eszközök elkülönített módon való kezelésére, a hitelfelvételre, a kölcsönnyújtásra, valamint az átruházható értékpapírok és pénzpiaci eszközök fedezetlen vásárlásaira vonatkozó szabályokat,
 
@@ -53,3 +53,5 @@ hc) a pénzpiaci eszközök kibocsátója vagy garanciavállalója olyan személ
 hd) a pénzpiaci eszközöket a Felügyelet által felügyelt intézmények bocsátották ki, feltéve, hogy az ilyen értékpapírokba történő befektetésekre olyan befektető-védelem vonatkozik, amely egyenértékű a ha), hb) vagy hc) pontokban meghatározott védelemmel, és a kibocsátó induló tőkéje és tőketartaléka legalább tízmillió euró, és a számvitelről szóló 2000. évi C. törvény szerint bemutatja és közzéteszi éves számviteli beszámolóit, továbbá a kibocsátó kifejezetten a csoport finanszírozásával foglalkozik olyan vállalkozáscsoporton belül, amelynek egy vagy több tagja tőzsdére bevezetett gazdasági társaság vagy intézmény, vagy banki likviditási keretből részesülő értékpapírrá alakított eszközök finanszírozását végzi.
 
 (2) Az ÁÉKBV eszközeinek legfeljebb 10 százalékát fektetheti az (1) bekezdésben nem említett átruházható értékpapírokba vagy pénzpiaci eszközökbe; és nem vásárolhat sem nemesfémeket, sem nemesfémeket megtestesítő okiratokat. Az ÁÉKBV-k rendelkezhetnek járulékos likvid eszközökkel.
+
+[^1]: A 2. § (1) bekezdés e) pont ea) alpontja a 345/2013. (IX. 30.) Korm. rendelet 63. §-a szerint módosított szöveg.
