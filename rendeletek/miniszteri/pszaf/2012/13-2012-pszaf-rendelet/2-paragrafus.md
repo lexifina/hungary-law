@@ -1,1 +1,0 @@
-## 1. § A Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) feladat- és hatáskörébe tartozó területeken végzett kimagasló színvonalú szakmai tevékenység elismerése céljából Elnöki Díjat alapítok.
