@@ -1,4 +1,4 @@
-## 29. §[^1]
+## 29. §[^2]
 
 ## 6. Hatályba léptető rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 32. § (2) bekezdése 2013. június 30-án lép hatályba.
 
-[^1]: A 29. §-t a 32. § (2) bekezdése hatályon kívül helyezte.
+[^2]: A 29. §-t a 32. § (2) bekezdése hatályon kívül helyezte.
