@@ -10,7 +10,7 @@ a) Magyarország területén a viszontbiztosítók által végzett viszontbiztos
 
 b) a külföldi viszontbiztosító magyarországi képviselete által folytatott tevékenységre;
 
-c) a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által ellátott – e törvényben meghatározott – felügyeleti tevékenységre; valamint
+c) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) – e törvényben meghatározott – tevékenységére; valamint
 
 d) azon vállalkozások – e törvényben meghatározott – kötelezettségeire, amelyekre az összevont alapú, illetőleg a kiegészítő felügyelet kiterjed.
 

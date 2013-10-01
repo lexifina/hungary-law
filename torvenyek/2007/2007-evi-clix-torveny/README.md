@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-159-00-00
 | 2013-06-22 | 2013. évi LXXXIII. törvény | 2007-159-00-00.13 |
 | 2013-06-29 | 2013. évi LXXXVI. törvény | 2007-159-00-00.14 |
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2007-159-00-00.15 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2007-159-00-00.16 |

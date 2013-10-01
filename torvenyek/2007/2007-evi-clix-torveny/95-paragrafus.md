@@ -2,7 +2,7 @@
 
 a) Felügyelettel,
 
-b) MNB-vel,
+b)
 
 c) nemzetbiztonsági szolgálattal,
 
