@@ -1,6 +1,6 @@
 ## Szavatoló tőkével kapcsolatos információk
 
-## 5. §[^3] A hitelintézetnek a szavatoló tőkéjével összefüggésben nyilvánosságra kell hoznia
+## 5. §[^4] A hitelintézetnek a szavatoló tőkéjével összefüggésben nyilvánosságra kell hoznia
 
 a) az alapvető, a járulékos és a kiegészítő tőkéjének összegét,
 
@@ -14,4 +14,4 @@ e) a Hpt. 5. számú melléklet 29. pontja szerinti értéket,
 
 f) a vegyes tulajdonságú befizetett jegyzett tőkéhez és az alapvető kölcsöntőkéhez kapcsolódó, visszaváltásra ösztönző rendelkezéseket.
 
-[^3]: Az 5. § a 349/2010. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^4]: Az 5. § a 349/2010. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.

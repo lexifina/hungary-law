@@ -1,6 +1,6 @@
-## Javadalmazási politika[^1]
+## Javadalmazási politika[^2]
 
-3/A. §[^2] (1) A hitelintézetnek legalább évente nyilvánosságra kell hoznia a Hpt. 69/B. § (2) bekezdéssel érintett személyekre vonatkozóan a javadalmazási politikáját.
+3/A. §[^3] (1) A hitelintézetnek legalább évente nyilvánosságra kell hoznia a Hpt. 69/B. § (2) bekezdéssel érintett személyekre vonatkozóan a javadalmazási politikáját.
 
 (2) A nyilvánosságra hozatalnak ki kell terjednie
 
@@ -28,5 +28,5 @@ gd) a ki nem fizetett, halasztott javadalmazás összege, megszerzett jogosults�
 
 ge) az üzleti évben odaítélt halasztott javadalmazás kifizetett és teljesítménnyel korrigált összege.
 
-[^1]: A 3/A. §-t megelőző alcímet a 349/2010. (XII. 28.) Korm. rendelet 37. §-a iktatta be.
-[^2]: A 3/A. §-t a 349/2010. (XII. 28.) Korm. rendelet 37. §-a iktatta be.
+[^2]: A 3/A. §-t megelőző alcímet a 349/2010. (XII. 28.) Korm. rendelet 37. §-a iktatta be.
+[^3]: A 3/A. §-t a 349/2010. (XII. 28.) Korm. rendelet 37. §-a iktatta be.
