@@ -176,7 +176,7 @@
 
 |  |  | 524 | Kölcsönös biztosító egyesület |
 
-|  |  | 525 | Alapcélként vallási tevékenységet végző egyesület |
+|  |  | 525 | Vallási tevékenységet végző szervezet |
 
 |  |  | 526 | Polgárőr egyesület |
 
@@ -196,15 +196,15 @@
 
 |  |  | 549 | Egyéb köztestület |
 
-|  | 55 |  | Egyházi szervezet |
+|  | 55 |  | Egyházi jogi személy |
 
-|  |  | 551 | Egyház |
+|  |  | 551 | Bevett egyház |
 
-|  |  | 552 | Egyházi intézmény |
+|  |  | 552 | Elsődlegesen közfeladatot ellátó belső egyházi jogi személy |
 
-|  |  | 555 | Nyilvántartásba vett belső egyházi jogi személy |
+|  |  | 555 | Elsődlegesen vallási tevékenységet végző belső egyházi jogi személy |
 
-|  |  | 559 | Egyéb egyházi szervezet |
+|  |  | 559 | Egyházi szervezet technikai kód |
 
 |  | 56 |  | Alapítvány |
 
