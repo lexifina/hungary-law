@@ -8,7 +8,7 @@
 
 3. Egyeztető testület: a kamarán belül működtetett állandó fórum, amelynek célja elősegíteni a kamarai tagok egymás közötti, valamint a kamarai tagok és nem kamarai tagok közötti szakmai természetű viták rendezését.
 
-4. Érintett állami szerv: a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a Pénzügyi Szervezetek Állami Felügyelete, az államháztartás alrendszereinek szervezeteit érintően az Állami Számvevőszék.
+4. Érintett állami szerv: a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank, az államháztartás alrendszereinek szervezeteit érintően az Állami Számvevőszék.
 
 5. Gazdálkodó: a számvitelről szóló törvényben meghatározott fogalom.
 

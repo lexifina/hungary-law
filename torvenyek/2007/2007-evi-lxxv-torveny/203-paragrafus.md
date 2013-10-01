@@ -8,4 +8,4 @@
 
 (5) Az e törvény hatálybalépésekor érvényben lévő, a Kkt. 18. §-a szerinti igazolásokhoz ugyanazon jogok és kötelezettségek kapcsolódnak, mint az e törvény 34. §-a alapján kiállított igazolásokhoz.
 
-(6) Ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég e törvény hatálybalépésekor rendelkezett a 49. § szerinti – érvényes – minősítéssel (szerepelt a kamara vagy a Pénzügyi Szervezetek Állami Felügyelete által e célból vezetett nyilvántartásban), e minősítést az e törvény 50. §-a szerint megszerzett minősítésnek kell tekinteni.
+(6) Ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég e törvény hatálybalépésekor rendelkezett a 49. § szerinti – érvényes – minősítéssel (szerepelt a kamara vagy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank által e célból vezetett nyilvántartásban), e minősítést az e törvény 50. §-a szerint megszerzett minősítésnek kell tekinteni.
