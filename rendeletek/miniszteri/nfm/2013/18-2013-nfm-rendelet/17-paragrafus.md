@@ -1,4 +1,4 @@
-## 16. §[^10]
+## 16. §[^9]
 
 ## 3. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 2. § és az 5. § 2013. október 1-jén lép hatályba.
 
-[^10]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
