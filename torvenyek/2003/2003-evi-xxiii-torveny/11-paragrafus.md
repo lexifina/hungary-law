@@ -4,7 +4,7 @@
 
 (3)
 
-(4) A kérelmező a 10. § d) pont da) alpontja szerinti tevékenységre való jogosultságát az engedélynek a kijelölés iránti kérelem mellékleteként való benyújtásával igazolhatja, ennek hiányában a kijelölő az adat igazolása iránt a Pénzügyi Szervezetek Állami Felügyeletét keresi meg. A kijelölés iránti kérelemhez mellékelni kell:
+(4) A kijelölés iránti kérelemhez mellékelni kell:
 
 a) a rendszerben résztvevő elszámoló fél 10. § d) pont dc) alpontja szerinti hatósági tevékenységi engedélyét,
 

@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-23-00-00
 | 2012-01-01 | 2011. évi CXCIII. törvény | 2003-23-00-00.9 |
 | 2012-10-28 | 2012. évi CLI. törvény | 2003-23-00-00.10 |
 | 2013-06-29 | 2013. évi XCVIII. törvény | 2003-23-00-00.11 |
+| 2013-10-01 | 2013. évi CXLIII. törvény | 2003-23-00-00.12 |
