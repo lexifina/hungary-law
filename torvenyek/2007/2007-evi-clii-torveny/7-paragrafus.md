@@ -2,7 +2,7 @@
 
 7. § A vagyonnyilatkozat őrzéséért
 
-a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége,
+a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége, bírósági végrehajtó esetében a kinevezésre jogosult,
 
 b) a 3. § (3) bekezdés a)–c) pontja szerinti kötelezett esetében a gazdálkodó szervezet tekintetében a tulajdonosi jogokat az állam nevében gyakorló személy vagy szervezet,
 

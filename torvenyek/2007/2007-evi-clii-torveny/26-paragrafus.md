@@ -10,6 +10,8 @@
 
 (8) 2008. július 1-jén hatályát veszti e törvény 21. §-a.
 
+(9) A bírósági végrehajtással kapcsolatos egyes törvények módosításáról szóló 2013. évi XCIX. törvény hatálybalépésének időpontjában már szolgálatban lévő bírósági végrehajtó első alkalommal 2013. december 31-éig tesz vagyonnyilatkozatot.
+
 ## Melléklet a 2007. évi CLII. törvényhez
 
 VAGYONNYILATKOZAT

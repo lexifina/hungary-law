@@ -26,7 +26,9 @@ e) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre kötel
 
 f) ügyész vagy
 
-g) közjegyző.
+g) közjegyző,
+
+h) bírósági végrehajtó.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
