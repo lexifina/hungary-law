@@ -1,6 +1,5 @@
-21. § (1)[^8]
+21. § (1)[^9]
 
-(2)[^9]
+(2) A Pr. 35/A. §-a helyébe a következő rendelkezés lép:
 
-[^8]: A 21. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 21. § (2) bekezdése a 25. § (3) bekezdése alapján 2013. október 1-jén lép hatályba.
+[^9]: A 21. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
