@@ -4,7 +4,7 @@
 
 ## A külső hitelminősítő szervezetek hitelminősítésével szembeni követelmények
 
-11. § (1)[^15] Értékpapírosítási pozíció kockázati súlyának meghatározására külső hitelminősítő szervezet hitelminősítése akkor alkalmazható, ha a Felügyelet a külső hitelminősítő szervezetet – a Hkr.-ben foglaltak alapján – az értékpapírosítási pozíció hitelminősítése szempontjából elismeri.
+11. § (1)[^19] Értékpapírosítási pozíció kockázati súlyának meghatározására külső hitelminősítő szervezet hitelminősítése akkor alkalmazható, ha az MNB a külső hitelminősítő szervezetet – a Hkr.-ben foglaltak alapján – az értékpapírosítási pozíció hitelminősítése szempontjából elismeri.
 
 (2) Az értékpapírosítási pozíció kockázattal súlyozott kitettség értékének meghatározásához az elismert külső hitelminősítő szervezet hitelminősítésének – a Hkr.-ben foglalt feltételeken túl – a következő feltételeket is teljesítenie kell:
 
@@ -12,15 +12,15 @@ a) nincs lejárati eltérés a hitelminősítés során figyelembe vett fizetés
 
 b) a hitelminősítés a piac számára nyilvánosan elérhető, és azt a külső hitelminősítő szervezet minősítési kategóriák közötti elmozdulási arányokat mutató migrációs mátrixa tartalmazza,
 
-c)[^16] strukturált finanszírozási eszközökkel kapcsolatos hitelminősítés esetében a külső hitelminősítő szervezet nyilvánosságra hozza, hogy az értékpapírosított kitettségek teljesítése hogyan befolyásolja a hitelminősítést,
+c)[^20] strukturált finanszírozási eszközökkel kapcsolatos hitelminősítés esetében a külső hitelminősítő szervezet nyilvánosságra hozza, hogy az értékpapírosított kitettségek teljesítése hogyan befolyásolja a hitelminősítést,
 
-d)[^17] a hitelminősítés sem részben sem egészben nem alapulhat a hitelintézet előre nem rendelkezésre bocsátott támogatásán.
+d)[^21] a hitelminősítés sem részben sem egészben nem alapulhat a hitelintézet előre nem rendelkezésre bocsátott támogatásán.
 
 (3) Értékpapírosítási pozíció kockázattal súlyozott kitettség értékének meghatározásához az elismert külső hitelminősítő szervezet hitelminősítése elismerhetőségének további feltétele, hogy a külső hitelminősítő szervezet az értékpapírosítás terén is megfeleljen a Hkr.-ben foglalt hitelesség és piaci elfogadás követelményének.
 
-(4)[^18] Ha a hitelminősítés részben vagy egészben a hitelintézet előre nem rendelkezésre bocsátott fedezet nyújtásán alapul, az értékpapírosítási pozíciót nem minősített pozíciónak kell tekinteni kockázattal súlyozott kitettség érték kiszámításakor.
+(4)[^22] Ha a hitelminősítés részben vagy egészben a hitelintézet előre nem rendelkezésre bocsátott fedezet nyújtásán alapul, az értékpapírosítási pozíciót nem minősített pozíciónak kell tekinteni kockázattal súlyozott kitettség érték kiszámításakor.
 
-[^15]: A 11. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^16]: A 11. § (2) bekezdés c) pontját a 349/2010. (XII. 28.) Korm. rendelet 45. § (2) bekezdése iktatta be.
-[^17]: A 11. § (2) bekezdés d) pontját a 349/2010. (XII. 28.) Korm. rendelet 45. § (2) bekezdése iktatta be.
-[^18]: A 11. § (4) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 45. § (3) bekezdése iktatta be.
+[^19]: A 11. § (1) bekezdése a 349/2010. (XII. 28.) Korm. rendelet 45. § (1) bekezdésével megállapított, a 345/2013. (IX. 30.) Korm. rendelet 48. § c) pontja szerint módosított szöveg.
+[^20]: A 11. § (2) bekezdés c) pontját a 349/2010. (XII. 28.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^21]: A 11. § (2) bekezdés d) pontját a 349/2010. (XII. 28.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^22]: A 11. § (4) bekezdését a 349/2010. (XII. 28.) Korm. rendelet 45. § (3) bekezdése iktatta be.

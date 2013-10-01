@@ -1,14 +1,14 @@
 2. § (1) E rendelet alkalmazásában:
 
-1.[^1]
+1.[^2]
 
-2.[^2]
+2.[^3]
 
 3. értékpapírosítási felár: az értékpapírosításhoz kapcsolódó minden költség beszedéséből befolyó összeg és más, az értékpapírosított kitettségekkel kapcsolatos bevétel, csökkentve az elszámolt ráfordításokkal;
 
-4.[^3]
+4.[^4]
 
-5.[^4]
+5.[^5]
 
 6. hagyományos értékpapírosítás: olyan – valódi átruházáson alapuló – értékpapírosítás, amelynek keretében
 
@@ -22,7 +22,7 @@ b) a különleges célú gazdasági egység által kibocsátott értékpapírok 
 
 9. KIRB: azon kockázattal súlyozott kitettség érték 8%-a, amelyet a hitelezési kockázat tőkekövetelményének belső minősítésen alapuló módszere alapján az értékpapírosított kitettségekre úgy számítanának ki, hogy azok nem lennének értékpapírosítva, valamint az e kitettségekhez tartozó, a belső minősítésen alapuló módszer szerint kiszámított várható veszteségek összege;
 
-10.[^5]
+10.[^6]
 
 11. lejárat előtti visszafizetést biztosító rendelkezés (rulírozó megállapodásból származó kitettség vonatkozásában): olyan rendelkezés a szerződésben, amely meghatározott események bekövetkeztekor lehetővé teszi a befektetőnek járó összegek visszafizetését a kibocsátott értékpapírok eredetileg meghatározott lejárata előtt;
 
@@ -30,9 +30,9 @@ b) a különleges célú gazdasági egység által kibocsátott értékpapírok 
 
 13. maradék pozícióra vonatkozó visszavásárlási jog: az értékpapírosítást kezdeményező olyan szerződéses vételi opciója, amely lehetővé teszi az értékpapírosítás során kibocsátott értékpapírok visszavásárlását vagy az értékpapírosítási pozíció megszüntetését az alapul szolgáló kitettségek egészének visszafizetése előtt, ha a fennálló kitettségek egy meghatározott érték alá csökkennek;
 
-14.[^6] minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció;
+14.[^7] minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció;
 
-15.[^7] nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció.
+15.[^8] nem minősített pozíció: elismert külső hitelminősítő szervezet hitelminősítésével nem rendelkező értékpapírosítási vagy újraértékpapírosítási pozíció.
 
 16. rulírozó megállapodásból származó kitettség: olyan kitettség, amelynél az ügyfelek tartozásának egyenlegei az ügyfelek kölcsönfelvételi és visszafizetési döntéseinek megfelelően a megállapított értékhatáron belül ingadozhatnak;
 
@@ -40,18 +40,18 @@ b) a különleges célú gazdasági egység által kibocsátott értékpapírok 
 
 18. szponzor: értékpapírosítást kezdeményezőnek nem minősülő hitelintézet, amely ABCP programot vagy más értékpapírosítási konstrukciót hoz létre és működtet, amely harmadik fél kitettségeit vásárolja meg;
 
-19.[^8] újraértékpapírosítás: olyan értékpapírosítás, ahol az alapul szolgáló kitettségek halmazához (pooljához) tartozó hitelezési kockázat ügyletrész-sorozatba kerül besorolásra, és az alapul szolgáló kitettségek legalább egyike értékpapírosítási pozíció;
+19.[^9] újraértékpapírosítás: olyan értékpapírosítás, ahol az alapul szolgáló kitettségek halmazához (pooljához) tartozó hitelezési kockázat ügyletrész-sorozatba kerül besorolásra, és az alapul szolgáló kitettségek legalább egyike értékpapírosítási pozíció;
 
-20.[^9] újraértékpapírosítási pozíció: az újraértékpapírosítási ügyletben vállalt hitelezési kockázati kitettség.
+20.[^10] újraértékpapírosítási pozíció: az újraértékpapírosítási ügyletben vállalt hitelezési kockázati kitettség.
 
 (2) Az (1) bekezdésben meghatározottakon kívül, az e rendeletben használt fogalmak meghatározását a Hpt. 2. számú melléklete, valamint a Hkr. tartalmazza.
 
-[^1]: A 2. § (1) bekezdés 1. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
-[^2]: A 2. § (1) bekezdés 2. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
-[^3]: A 2. § (1) bekezdés 4. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
-[^4]: A 2. § (1) bekezdés 5. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
-[^5]: A 2. § (1) bekezdés 10. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
-[^6]: A 2. § (1) bekezdés 14. pontja a 348/2011. (XII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1) bekezdés 15. pontja a 348/2011. (XII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § (1) bekezdés 19. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte, újonnan a 348/2011. (XII. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdés 20. pontját a 348/2011. (XII. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^2]: A 2. § (1) bekezdés 1. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés 2. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdés 4. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés 5. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1) bekezdés 10. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 14. pontja a 348/2011. (XII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés 15. pontja a 348/2011. (XII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdés 19. pontját a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte, újonnan a 348/2011. (XII. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés 20. pontját a 348/2011. (XII. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## Szintetikus értékpapírosítás
 
-7. §[^14] (1) Szintetikus értékpapírosítást kezdeményező hitelintézet az értékpapírosított kitettségeihez tartozó kockázattal súlyozott kitettség értéket és várható veszteség értéket a 8–10. § szerint számíthatja ki, ha
+7. §[^18] (1) Szintetikus értékpapírosítást kezdeményező hitelintézet az értékpapírosított kitettségeihez tartozó kockázattal súlyozott kitettség értéket és várható veszteség értéket a 8–10. § szerint számíthatja ki, ha
 
 a) jelentős hitelezési kockázatot ruház át harmadik félre hitelkockázati fedezet alkalmazása mellett, vagy
 
@@ -26,4 +26,4 @@ cd) alapján az értékpapírosítást kezdeményező hitelintézetnek a szintet
 
 d) a szintetikus értékpapírosítást szolgáló hitelkockázati fedezet – jogi szakvéleménnyel alátámasztva – valamennyi irányadó joghatóság előtt érvényes és érvényesíthető.
 
-[^14]: A 7. § a 349/2010. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^18]: A 7. § a 349/2010. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.

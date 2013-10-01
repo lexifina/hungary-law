@@ -42,7 +42,7 @@
 
 ## Ha rendelkezésre áll a legnagyobb kitettséghez tartozó portfólió részesedés, a hitelintézet az N értékét az 1/C1 hányados alkalmazásával is kiszámíthatja, ahol C1 a legnagyobb kitettséghez tartozó portfólió részesedés.”
 
-5. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez[^36]
+5. számú melléklet a 380/2007. (XII. 23.) Korm. rendelethez[^48]
 
 Felügyeleti képlet módszerének kockázati súlyai
 
@@ -106,8 +106,8 @@ Ahol
 
 A Cm a legnagyobb „m” kitettségekhez tartozó kitettség értékek összegének az értékpapírosított kitettségekhez tartozó kitettség értékek összegéhez viszonyított aránya. Az „m” szintjét a hitelintézet határozza meg.
 
-4. Lakossági kitettségeket érintő értékpapírosítási ügylet esetében a Felügyelet engedélyezheti a felügyeleti képlet módszerének a következő egyszerűsítésekkel történő alkalmazását:
+4. Lakossági kitettségeket érintő értékpapírosítási ügylet esetében az MNB engedélyezheti a felügyeleti képlet módszerének a következő egyszerűsítésekkel történő alkalmazását:
 
 h = 0 és v = 0.
 
-[^36]: Az 5. számú melléklet a 348/2011. (XII. 30.) Korm. rendelet 21. § (3) bekezdése szerint módosított szöveg.
+[^48]: Az 5. számú melléklet a 348/2011. (XII. 30.) Korm. rendelet 21. § (3) bekezdése, a 345/2013. (IX. 30.) Korm. rendelet 48. § c) pontja szerint módosított szöveg.

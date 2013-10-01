@@ -1,6 +1,6 @@
 ## Nem minősített likviditási hitelkeretek kezelése
 
-22. §[^23] (1) Likviditási hitelkeret esetében a kitettség értékének megállapításához 50%-os ügyletkockázati súlyt lehet rendelni, ha
+22. §[^30] (1) Likviditási hitelkeret esetében a kitettség értékének megállapításához 50%-os ügyletkockázati súlyt lehet rendelni, ha
 
 a) a likviditási hitelkeret dokumentációja egyértelműen meghatározza a lehívás feltételeit,
 
@@ -20,4 +20,4 @@ fb) megszünteti a likviditási hitelkeretet, ha a halmaz (pool) átlagosan 3-as
 
 (2) Az (1) bekezdés feltételeinek megfelelő likviditási hitelkeretre azt a legmagasabb kockázati súlyt kell alkalmazni, amelyet a hitelezési kockázat tőkekövetelményének sztenderd módszere szerint az értékpapírosítás alapjául szolgáló kitettségekre alkalmazni kell.
 
-[^23]: A 22. § a 349/2010. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^30]: A 22. § a 349/2010. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 37. § A Felügyelet engedélyével a hitelintézet a 38–40. §-ban meghatározott követelmények teljesülése esetén az ABCP programban levő nem minősített pozícióhoz a 41. § szerinti származtatott minősítést alkalmazhat.
+## 37. §[^35] Az MNB engedélyével a hitelintézet a 38–40. §-ban meghatározott követelmények teljesülése esetén az ABCP programban levő nem minősített pozícióhoz a 41. § szerinti származtatott minősítést alkalmazhat.
 
 38. § (1) Az ABCP program keretében kibocsátott kereskedelmi értékpapírokban levő pozícióknak elismert külső hitelminősítő szervezet által minősített pozícióknak kell lenniük.
 
@@ -12,4 +12,7 @@
 
 (6) A hitelintézetnek a belső értékelésen alapuló módszer alkalmazását integrálnia kell a kockázatkezelési folyamatokba, ideértve a döntéshozatali, a vezetői információs és a tőkeallokációs folyamatokat is.
 
-(7) A Felügyelet engedélyével el lehet tekinteni a külső hitelminősítő szervezet minősítési módszertanának beépítésére vonatkozó követelménytől, ha az adott értékpapírosítás sajátosságából – így különösen annak egyedi szerkezetéből – adódóan nem áll rendelkezésre nyilvánosan hozzáférhető külső hitelminősítő szervezet minősítési módszertana.
+(7)[^36] Az MNB engedélyével el lehet tekinteni a külső hitelminősítő szervezet minősítési módszertanának beépítésére vonatkozó követelménytől, ha az adott értékpapírosítás sajátosságából – így különösen annak egyedi szerkezetéből – adódóan nem áll rendelkezésre nyilvánosan hozzáférhető külső hitelminősítő szervezet minősítési módszertana.
+
+[^35]: A 37. § a 345/2013. (IX. 30.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^36]: A 38. § (7) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.

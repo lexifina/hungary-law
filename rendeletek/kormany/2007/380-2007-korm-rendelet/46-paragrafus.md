@@ -1,3 +1,3 @@
-## 45. §[^30]
+## 45. §[^41]
 
-[^30]: A 45. §-t a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
+[^41]: A 45. §-t a 349/2010. (XII. 28.) Korm. rendelet 91. § a) pontja hatályon kívül helyezte.
