@@ -10,6 +10,8 @@
 
 ## 4. megállapítja az ÁROP 2011–2013. évekre szóló akciótervének tartaléklistáját a 3. melléklet szerint,
 
-## 5. visszavonja az Államreform Operatív Program 2011–2013. évekre szóló akciótervének módosításáról, az Államreform Operatív Program tartaléklistájáról, és az Államreform Operatív Program 2009–2010. évekre szóló akcióterve módosításáról szól 1428/2013. (VII. 10.) Korm. határozat 1–3. pontját és 1–3. mellékletét.
+## 5.[^2]
 
 1. melléklet az 1677/2013. (IX. 30.) Korm. határozathoz
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
