@@ -50,7 +50,9 @@
 
 6. vizsgálja az öt évet meghaladó időtartamú szerződéseket a tekintetben, hogy megfelelnek-e a 96. § (1) bekezdésében felsorolt jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek, kivéve, ha ennek vizsgálatára a versenyhatóság rendelkezik hatáskörrel, és
 
-7. meghatározza az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát.
+7. meghatározza az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát,
+
+8. ellátja a villamosenergia-piacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez.
 
 (4) A Hivatal a szétválasztási szabályok teljesítésével kapcsolatos feladatai körében:
 

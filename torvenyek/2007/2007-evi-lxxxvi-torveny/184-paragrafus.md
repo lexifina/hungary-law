@@ -15,3 +15,7 @@ a) a villamos energia határokon keresztül történő kereskedelme esetén alka
 b) 16. § p) pontja az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet,
 
 c) az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i, 713/2009/EK európai parlamenti és tanácsi rendelet, és
+
+d) 170. § (1) bekezdés 26. pontja
+
+da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló 2010. június 24-i, 617/2010/EU, Euratom európai tanácsi rendelet és

@@ -1,0 +1,1 @@
+114/G. § Ha a Hivatal a 114/F. § (1) bekezdése szerinti rendelkezések megsértését ellenőrzési eljárás során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre a nagykereskedelmi piacfelügyeleti eljárás szabályai irányadóak.

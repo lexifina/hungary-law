@@ -4,4 +4,4 @@
 
 (2) Az együttműködés keretében a Hivatal és a Nemzeti Adó- és Vámhivatal kölcsönösen adatszolgáltatást nyújt egymásnak az (1) bekezdésben meghatározott engedélyesek által határon keresztül ki- és beszállított, valamint belföldön vásárolt és értékesített villamos energia mennyiségéről.
 
-(3) A Hivatal és a Nemzeti Adó- és Vámhivatal az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy az üzleti titokhoz fűződő érdekek ne sérüljenek.
+(3) A Hivatal és a Nemzeti Adó- és Vámhivatal az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.

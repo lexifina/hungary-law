@@ -1,0 +1,1 @@
+114/H. § Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 114/F. § (1) bekezdése szerinti rendelkezések megsértése is megvalósult, a Hivatal valamennyi jogsértésre egységes intézkedést is alkalmazhat.
