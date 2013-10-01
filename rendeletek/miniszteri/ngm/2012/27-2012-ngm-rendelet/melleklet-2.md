@@ -3936,7 +3936,7 @@ A vizsgafeladat időtartama: 90 perc
 
 Az a jelölt, aki a közgazdasági felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 4/1996. (I. 18.) Korm. rendelet szerinti végzettséggel, vagy a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet szerinti gazdaságtudományok képzési területen szerzett végzettséggel, vagy a közgazdasági felsőoktatásban folyó szakirányú továbbképzési szakok képesítési követelményeiről szóló 7/1999. (II. 1.) OM rendelet alapján, vagy a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet alapján szerzett közgazdasági felsőoktatásban folyó szakirányú végzettséggel rendelkezik, vagy a gazdaságtudományok képzési területen, közgazdaság képzési ágon szerzett végzettséggel rendelkezik, felmentést kap a 11504-12 Gazdálkodási alaptevékenység ellátása szakmai követelménymodulhoz rendelt modulzáró vizsga szóbeli, a 10137-12 Banki ügyfélkapcsolat és kommunikáció, a 10136-12 Banki piac termékeinek értékesítése, a 10140-12 Befektetési piac termékeinek értékesítése, valamint az 10138-12 Banki, befektetési és biztosítási jogi feladatok szakmai követelménymodulokhoz rendelt modulzáró vizsga írásbeli vizsgatevékenységek alól.
 
-A 10138-12 Banki, befektetési és biztosítási jogi feladatok szakmai követelménymodulhoz rendelt modulzáró vizsga írásbeli vizsgatevékenysége alól felmentést kap, aki 1997. január 1. után szerezte meg a tőzsdei szakvizsga jogi részvizsgáját, valamint 1997. január 1. után szerezte meg a Pénzügyi Szervezetek Állami Felügyelete által elismert jogi szakmai vizsgáját.
+A 10138-12 Banki, befektetési és biztosítási jogi feladatok szakmai követelménymodulhoz rendelt modulzáró vizsga írásbeli vizsgatevékenysége alól felmentést kap, aki 1997. január 1. után szerezte meg a tőzsdei szakvizsga jogi részvizsgáját, valamint 1997. január 1. után szerezte meg a Pénzügyi Szervezetek Állami Felügyelete és a Magyar Nemzeti Bank által elismert jogi szakmai vizsgáját.
 
 7.3. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
@@ -5536,4 +5536,28 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi
 
 5.2.A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+|  | A | B | C |
+
+| 5.2.1. | A részszakképesítés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10163-12 | Gépészeti munkabiztonság és környezetvédelem | szóbeli |
+
+| 5.2.4. | 10162-12 | Gépészeti alapozó feladatok | gyakorlati |
+
+| 5.2.5. | 10180-12 | Hegesztés előkészítő és befejező műveletei | gyakorlati |
+
+| 5.2.6. | 11453-12 | Bevontelektródás kézi ívhegesztő feladatok | gyakorlati, szóbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Hegesztett kötést készít Bevontelektródás kézi ívhegesztéssel.
+
+A vizsgafeladat ismertetése: Bevontelektródás kézi ívhegesztő
+
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja szerint módosított szöveg.
