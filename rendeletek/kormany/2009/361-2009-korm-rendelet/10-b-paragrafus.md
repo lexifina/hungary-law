@@ -1,3 +1,3 @@
-## 10/A. §[^32] E rendeletnek az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 348/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R2.) 43. §-ával megállapított 1. § (3) bekezdés a) pontjában, 1. § (6) bekezdés b) pontjában, valamint 1. § (7) bekezdésében foglaltakat az R2. hatálybalépését megelőzően kezdeményezett folyamatban lévő szerződés módosításra, átütemezésre és hitelkiváltásra is alkalmazni kell.
+## 10/A. §[^33] E rendeletnek az egyes pénzügyi tárgyú kormányrendeletek módosításáról szóló 348/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R2.) 43. §-ával megállapított 1. § (3) bekezdés a) pontjában, 1. § (6) bekezdés b) pontjában, valamint 1. § (7) bekezdésében foglaltakat az R2. hatálybalépését megelőzően kezdeményezett folyamatban lévő szerződés módosításra, átütemezésre és hitelkiváltásra is alkalmazni kell.
 
-[^32]: A 10/A. §-t a 348/2011. (XII. 30.) Korm. rendelet 44. §-a iktatta be.
+[^33]: A 10/A. §-t a 348/2011. (XII. 30.) Korm. rendelet 44. §-a iktatta be.
