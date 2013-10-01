@@ -1,0 +1,1 @@
+## 27. § Az önkéntes kölcsönös egészség- és önsegélyező pénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 252/2000. (XII. 24.) Korm. rendelet (a továbbiakban: 252/2000. Korm. rendelet) 2. § a) pontjában a „Pénzügyi Szervezetek Állami Felügyelete” szövegrész helyébe a „pénztárak pénzügyi felügyeletét ellátó szerv” szöveg lép.

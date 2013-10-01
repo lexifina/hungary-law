@@ -1,0 +1,1 @@
+## 17. § A magánnyugdíjpénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 222/2000. (XII. 19.) Korm. rendelet (a továbbiakban: 222/2000. Korm. rendelet) 2. § a) pontjában a „Pénzügyi Szervezetek Állami Felügyelete” szövegrész helyébe a „pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank” szöveg lép.
