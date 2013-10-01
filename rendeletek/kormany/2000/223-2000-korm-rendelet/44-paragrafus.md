@@ -8,7 +8,7 @@
 
 (4) A kiegészítő melléklet számszaki részből és szöveges indokolásból tevődik össze.
 
-(5)[^166] A kiegészítő melléklet számszaki része – a Tv. 92. §-ának (1) bekezdésében előírt számszerű adatokon kívül – a pénztár pénzmozgásainak jogcímeit tükröző cash-flow-t, a pénztári céltartalékok alakulását, valamint a portfolió állomány üzleti év végi állományának könyv szerinti és piaci értékét, továbbá az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztár esetében az elszámoló egységek választható portfoliónkénti nyitó, záró árfolyamát és darabszámát tartalmazza.
+(5)[^167] A kiegészítő melléklet számszaki része – a Tv. 92. §-ának (1) bekezdésében előírt számszerű adatokon kívül – a pénztár pénzmozgásainak jogcímeit tükröző cash-flow-t, a pénztári céltartalékok alakulását, valamint a portfolió állomány üzleti év végi állományának könyv szerinti és piaci értékét, továbbá az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztár esetében az elszámoló egységek választható portfoliónkénti nyitó, záró árfolyamát és darabszámát tartalmazza.
 
 (6) A kiegészítő melléklet szöveges részében kell ismertetni azokat a körülményeket, amelyek meghatározó jelleggel befolyásolták a pénztár gazdálkodását. Részletesen be kell mutatni azokat az eseményeket, amelyek a pénzügyi terv teljesítését megakadályozták, az éven belüli ütemezésnél az eltéréseket okozták.
 
@@ -22,7 +22,7 @@
 
 (11) A kiegészítő mellékletben külön kell elemezni a pénztár működési és kiegészítő vállalkozási tevékenysége eredményének alakulását, az eredmény alakulására ható tényezőket, valamint a működési céltartalék képzését és felhasználását jogcímek szerinti bontásban.
 
-(12)[^167]
+(12)[^168]
 
 (13) A kiegészítő melléklet elemző értékelő részeként kell bemutatni a nyugdíjszolgáltatással kapcsolatos kifizetéseket szolgáltatástípusonkénti bontásban, a szolgáltatások volumenében bekövetkezett változásokat, a nyugdíjszolgáltatási kötelezettség és azok fedezete összhangjának érvényesülését.
 
@@ -36,25 +36,25 @@
 
 (18) A kiegészítő mellékletben be kell mutatni a pénztár ügyvezetője az igazgatótanács és ellenőrző bizottság tagjainak tevékenységükért az üzleti évben elszámolt járandóság összegét.
 
-(19)[^168] A kiegészítő mellékletben be kell mutatni az Öbr. 32. §-a szerinti biztosításmatematikai mérleget.
+(19)[^169] A kiegészítő mellékletben be kell mutatni az Öbr. 32. §-a szerinti biztosításmatematikai mérleget.
 
-(20)[^169] A kiegészítő mellékletben kell bemutatni a pénztár által kötött és az üzleti év mérlegfordulónapjáig le nem zárt határidős és opciós ügyleteket a szerződés szerinti érték (kötési ár) összegében, valamint azoknak a jövőbeni eredményre és a cash-flowra vonatkozó, várható hatását részletezve ügyletfajtánként, továbbá fedezeti célú és nem fedezeti célú ügyletek (ideértve az arbitrázs ügyletek keretében kötött ügyleteket is) bontásban. Be kell mutatni a tárgyév mérleg fordulónapjáig és a mérlegkészítés időszakában lezárt határidős és opciós ügyletek eredményre és cash-flowra gyakorolt hatását az előző részletezésben.
+(20)[^170] A kiegészítő mellékletben kell bemutatni a pénztár által kötött és az üzleti év mérlegfordulónapjáig le nem zárt határidős és opciós ügyleteket a szerződés szerinti érték (kötési ár) összegében, valamint azoknak a jövőbeni eredményre és a cash-flowra vonatkozó, várható hatását részletezve ügyletfajtánként, továbbá fedezeti célú és nem fedezeti célú ügyletek (ideértve az arbitrázs ügyletek keretében kötött ügyleteket is) bontásban. Be kell mutatni a tárgyév mérleg fordulónapjáig és a mérlegkészítés időszakában lezárt határidős és opciós ügyletek eredményre és cash-flowra gyakorolt hatását az előző részletezésben.
 
 (21) A kiegészítő mellékletben be kell mutatni a (20) bekezdésben nem szereplő egyéb függő és jövőbeni (biztos) kötelezettségeket.
 
-(22)[^170] A kiegészítő mellékletben be kell mutatni a várakozási idő figyelembevételével megállapított kifizetés igénybevételére jogosult vagy egy éven belül jogosulttá váló pénztártagok létszámát és egyéni számlájuk összesített tárgyév végi egyenlegét.
+(22)[^171] A kiegészítő mellékletben be kell mutatni a várakozási idő figyelembevételével megállapított kifizetés igénybevételére jogosult vagy egy éven belül jogosulttá váló pénztártagok létszámát és egyéni számlájuk összesített tárgyév végi egyenlegét.
 
-(23)[^171] A kiegészítő mellékletben be kell mutatni a kölcsönbe adott értékpapírok üzleti év végén meglévő állományát könyv szerinti és piaci értéken, valamint a kapott óvadékot, értékpapírfajtánként, működési, fedezeti és likviditási célú megbontásban.
+(23)[^172] A kiegészítő mellékletben be kell mutatni a kölcsönbe adott értékpapírok üzleti év végén meglévő állományát könyv szerinti és piaci értéken, valamint a kapott óvadékot, értékpapírfajtánként, működési, fedezeti és likviditási célú megbontásban.
 
-(24)[^172] A kiegészítő mellékletben be kell mutatni a pénztár tulajdonában lévő kockázati tőkealap-jegyek üzleti év végén meglévő állományának könyv szerinti és piaci értékét.
+(24)[^173] A kiegészítő mellékletben be kell mutatni a pénztár tulajdonában lévő kockázati tőkealap-jegyek üzleti év végén meglévő állományának könyv szerinti és piaci értékét.
 
-(25)[^173] A kiegészítő mellékletben be kell mutatnia a taglétszám alakulását korévenként, a 12. számú melléklet szerinti jogcímeknek megfelelő bontásban, valamint a nyugdíjszolgáltatást igénybe vevők, illetve a nyugdíjszolgáltatást év közben megszüntetők létszámát korévenként a 13. számú melléklet szerinti jogcímeknek megfelelő bontásban.
+(25)[^174] A kiegészítő mellékletben be kell mutatnia a taglétszám alakulását korévenként, a 12. számú melléklet szerinti jogcímeknek megfelelő bontásban, valamint a nyugdíjszolgáltatást igénybe vevők, illetve a nyugdíjszolgáltatást év közben megszüntetők létszámát korévenként a 13. számú melléklet szerinti jogcímeknek megfelelő bontásban.
 
-[^166]: A 44. § (5) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 64. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
-[^167]: A 44. § (12) bekezdését a 236/2003. (XII. 17.) Korm. rendelet 19. §-ának (4) bekezdése hatályon kívül helyezte.
-[^168]: A 44. § (19) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
-[^169]: A 44. § (20) bekezdésének első mondata a 285/2005. (XII. 20.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^170]: A 44. § (22) bekezdését a 352/2004. (XII. 22.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^171]: A 44. § (23) bekezdését a 285/2005. (XII. 20.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^172]: A 44. § (24) bekezdését a 285/2005. (XII. 20.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^173]: A 44. § (25) bekezdését a 358/2006. (XII. 27.) Korm. rendelet 29. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
+[^167]: A 44. § (5) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 64. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^168]: A 44. § (12) bekezdését a 236/2003. (XII. 17.) Korm. rendelet 19. §-ának (4) bekezdése hatályon kívül helyezte.
+[^169]: A 44. § (19) bekezdése a 358/2006. (XII. 27.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
+[^170]: A 44. § (20) bekezdésének első mondata a 285/2005. (XII. 20.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^171]: A 44. § (22) bekezdését a 352/2004. (XII. 22.) Korm. rendelet 9. §-a iktatta be, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^172]: A 44. § (23) bekezdését a 285/2005. (XII. 20.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^173]: A 44. § (24) bekezdését a 285/2005. (XII. 20.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^174]: A 44. § (25) bekezdését a 358/2006. (XII. 27.) Korm. rendelet 29. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
