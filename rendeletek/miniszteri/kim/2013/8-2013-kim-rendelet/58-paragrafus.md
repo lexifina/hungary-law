@@ -6,4 +6,6 @@
 
 (4) Az utógondozás során a pártfogó felügyelő felügyeleti funkciót nem érvényesít, az utógondozás kizárólag az utógondozott önkéntes kérelmére vehető igénybe.
 
-(5) Az önkormányzatok, az egyházak, a munkáltatók, a karitatív és más civil szervezetek az utógondozásban közreműködhetnek, ennek során velük a Hivatal és fővárosi és megyei igazságügyi szolgálat együttműködési megállapodást vagy szerződést köthet.
+(5)[^1] Az önkormányzatok, az egyházi jogi személyek, a munkáltatók, a karitatív és más civil szervezetek az utógondozásban közreműködhetnek, ennek során velük a Hivatal és fővárosi és megyei igazságügyi szolgálat együttműködési megállapodást vagy szerződést köthet.
+
+[^1]: Az 58. § (5) bekezdése a 23/2013. (IX. 30.) KIM rendelet 7. §-a szerint módosított szöveg.

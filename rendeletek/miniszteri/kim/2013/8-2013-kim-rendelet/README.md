@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-8-20-2T
 | --- | --- | --- |
 | 2013-07-01 | 2013-8-20-2T.1 | 8/2013. (VI. 29.) KIM rendelet |
 | 2013-07-02 | 2013-8-20-2T.2 | 2010: CXXX. törvény |
+| 2013-10-01 | 2013-8-20-2T.3 | 23/2013. (IX. 30.) KIM rendelet |
