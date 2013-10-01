@@ -4670,4 +4670,4 @@ Az erősáramú kapcsolókészülékeket kiválasztja, beköti, működteti és 
 
 Villamos kapcsolóállomásokat üzemeltet
 
-[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése, a 266/2013. (VII. 11.) Korm. rendelet 55. § j) pontja, a 297/2013. (VII. 29.) Korm. rendelet 80. §-a szerint módosított szöveg.
+[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése, a 266/2013. (VII. 11.) Korm. rendelet 55. § j) pontja, a 297/2013. (VII. 29.) Korm. rendelet 80. §-a, a 345/2013. (IX. 30.) Korm. rendelet 65. §-a szerint módosított szöveg.
