@@ -1,4 +1,4 @@
-## 8. §[^1]
+## 8. §[^3]
 
 1. melléklet a 47/2011. (XII. 21.) NGM rendelethez
 
@@ -44,4 +44,4 @@ b. egyéb befektetések ráfordítása
 
 13. Tárgyévi eredmény
 
-[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
