@@ -44,7 +44,7 @@ h) a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló 1
 
 (12) A (11) bekezdés c), d), f) és h) pontjaiban felsorolt egyazon kötelezettel szembeni összes követelés pótfedezetként legfeljebb a jelzálog-hitelintézetek által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 2%-áig vehető figyelembe. A (11) bekezdés h) pontjában felsorolt eszközök együttesen legfeljebb a pótfedezetek összegének 25%-áig vehetők figyelembe pótfedezetként, illetve összegük nem haladhatja meg a jelzálog-hitelintézet által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 5%-át.
 
-(13) A jelzálog-hitelintézet haladéktalanul jelenti a Felügyeletnek, ha
+(13) A jelzálog-hitelintézet haladéktalanul jelenti a Magyar Nemzeti Banknak, ha
 
 a) a forgalomban lévő jelzáloglevelek fedezete nem felel meg az (1) bekezdésben előírtaknak;
 
@@ -52,4 +52,4 @@ b) a fedezeten belül a rendes fedezet aránya nyolcvan százalék alá esik.
 
 (14) A jelzáloglevelek rendes fedezetét biztosító zálogtárgyakról, a rendes és a pótfedezeti értékekről a jelzálog-hitelintézet fedezet-nyilvántartást vezet, amelyben a fedezeteket egyedileg mutatja ki.
 
-(15) A jelzálog-hitelintézet fedezet-nyilvántartási szabályzatot készít, melyet a Felügyelet hagy jóvá.
+(15) A jelzálog-hitelintézet fedezet-nyilvántartási szabályzatot készít, melyet a Magyar Nemzeti Bank hagy jóvá.

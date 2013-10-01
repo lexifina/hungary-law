@@ -6,7 +6,7 @@
 
 (3) A jelzáloghitelekből, valamint önálló zálogjog visszavásárlásából eredő tőkekövetelések állományának mértéke – ide nem értve a kapcsolódó kölcsönrészből eredő tőkeköveteléseket, továbbá a visszavásárlási vételár kapcsolódó kölcsönrészre eső összegét – nem haladhatja meg a fedezetül szolgáló ingatlanok együttes hitelbiztosítéki értékének hetven százalékát.
 
-(4) A hitelbiztosítéki érték megállapításának módszertani elveit jogszabály határozza meg. Ennek alapján a jelzálog-hitelintézet értékmegállapítási szabályzatot készít, amelyet a Felügyelet hagy jóvá.
+(4) A hitelbiztosítéki érték megállapításának módszertani elveit jogszabály határozza meg. Ennek alapján a jelzálog-hitelintézet értékmegállapítási szabályzatot készít, amelyet a Magyar Nemzeti Bank hagy jóvá.
 
 (5)
 

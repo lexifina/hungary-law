@@ -1,6 +1,6 @@
 ## Vagyonellenőr megbízása
 
-16. § (1) A jelzálog-hitelintézet a 17. §-ban foglalt feladatok teljesítésére vagyonellenőrt bíz meg. A vagyonellenőr megbízásának érvényességéhez a Felügyelet engedélye szükséges.
+16. § (1) A jelzálog-hitelintézet a 17. §-ban foglalt feladatok teljesítésére vagyonellenőrt bíz meg. A vagyonellenőr megbízásának érvényességéhez a Magyar Nemzeti Bank engedélye szükséges.
 
 (2) Vagyonellenőri megbízatást csak könyvvizsgáló társaság vagy természetes személy kaphat.
 
@@ -28,7 +28,7 @@ d) a jelzálog-hitelintézettel, illetve az a) pontban meghatározott személyek
 
 e) a jelzálog-hitelintézetnek – bármilyen jogcímen – tartozik.
 
-(7) A vagyonellenőr határozott időre és legfeljebb öt évre kaphat megbízatást, de a megbízás időtartamának lejárta után ismételten is megbízható. A Felügyelet engedélye nélkül a jelzálog-hitelintézet és a vagyonellenőr között létrejött megbízási szerződés érvényesen nem mondható fel.
+(7) A vagyonellenőr határozott időre és legfeljebb öt évre kaphat megbízatást, de a megbízás időtartamának lejárta után ismételten is megbízható. A Magyar Nemzeti Bank engedélye nélkül a jelzálog-hitelintézet és a vagyonellenőr között létrejött megbízási szerződés érvényesen nem mondható fel.
 
 (8) A vagyonellenőrt megbízója – vagyonellenőri tevékenysége körében – nem utasíthatja.
 

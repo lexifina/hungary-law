@@ -1,6 +1,6 @@
 ## Jelzáloglevélből eredő kötelezettség átruházása
 
-15. § (1) A jelzálog-hitelintézet, átalakítása vagy felszámolása esetén, a Felügyelet engedélyével a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettségét egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
+15. § (1) A jelzálog-hitelintézet, átalakítása vagy felszámolása esetén, a Magyar Nemzeti Bank engedélyével a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettségét egészben vagy részben más jelzálog-hitelintézetre átruházhatja.
 
 (2) Jelzáloglevélből és származtatott (derivatív) ügyletből eredő kötelezettség átruházása során a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) tartozásátvállalásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az átruházáshoz nem szükséges a jelzáloglevél-tulajdonos és a fedezetbe vont származtatott (derivatív) ügylet szerződött partnerének hozzájárulása. Az átruházással – az engedély kézhezvételének időpontjától – a jelzáloglevélből és a fedezetbe vont származtatott (derivatív) ügyletből eredő kötelezettség az átvevő jelzálog-hitelintézetet terheli.
 
@@ -18,7 +18,7 @@ e) annak igazolását, hogy az átvevő jelzálog-hitelintézet rendelkezik a sa
 
 f) részleges átruházás esetén annak igazolását, hogy az átruházás a jelzálog-hitelintézet fizetőképességének folyamatos fenntartása és a jelzáloglevél-tulajdonosok kielégítése érdekében szükséges, illetve a vagyonellenőr írásbeli nyilatkozatát arról, hogy az átruházással nem érintett jelzáloglevelek tulajdonosai az átruházást követően nem kerülnek hátrányosabb helyzetbe.
 
-(4) A Felügyelet az átruházás engedélyezését megtagadja, ha az veszélyezteti az átruházással érintett jelzáloglevelekből eredő kötelezettségek teljesítését. A Felügyelet részleges átruházás esetén az átruházás engedélyezését akkor is megtagadhatja, ha az az átruházással nem érintett jelzáloglevelekből eredő kötelezettségek teljesítését veszélyezteti.
+(4) A Magyar Nemzeti Bank az átruházás engedélyezését megtagadja, ha az veszélyezteti az átruházással érintett jelzáloglevelekből eredő kötelezettségek teljesítését. A Magyar Nemzeti Bank részleges átruházás esetén az átruházás engedélyezését akkor is megtagadhatja, ha az az átruházással nem érintett jelzáloglevelekből eredő kötelezettségek teljesítését veszélyezteti.
 
 (5) Jelzáloglevélből eredő kötelezettség csak rendes és pótfedezete egyidejű átadásával ruházható át.
 
