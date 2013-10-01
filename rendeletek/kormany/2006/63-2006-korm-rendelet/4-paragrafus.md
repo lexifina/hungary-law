@@ -1,14 +1,14 @@
-4. §[^12] (1)[^13] Az Szt. 4. §-a (1) bekezdésének b) pontja alkalmazásában azt az ingatlant kell a személy által lakottnak tekinteni, amelyben a személy lakóhelyként vagy tartózkodási helyként életvitelszerűen tartózkodik. A vagyoni helyzet vizsgálatakor egy ingatlant lehet lakottként figyelembe venni.
+4. §[^13] (1)[^14] Az Szt. 4. §-a (1) bekezdésének b) pontja alkalmazásában azt az ingatlant kell a személy által lakottnak tekinteni, amelyben a személy lakóhelyként vagy tartózkodási helyként életvitelszerűen tartózkodik. A vagyoni helyzet vizsgálatakor egy ingatlant lehet lakottként figyelembe venni.
 
-(2)[^14] Az Szt. 4. § (1) bekezdés b) pontja alkalmazásában mozgáskorlátozottságra tekintettel fenntartott a gépjármű, ha
+(2)[^15] Az Szt. 4. § (1) bekezdés b) pontja alkalmazásában mozgáskorlátozottságra tekintettel fenntartott a gépjármű, ha
 
 a) a kérelmező vagy háztartásának tagja a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló kormányrendelet szerint mozgáskorlátozottnak, vagy a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerint mozgásszervi fogyatékosnak minősül, és a gépjárművet rendeltetésszerűen személyszállításra használják, vagy
 
 b) a kérelmező vagy háztartásának tagja a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló kormányrendelet szerint egyéb fogyatékosnak minősül, és a gépjárművet szerzési támogatás felhasználásával vásárolták.
 
-(3)[^15] A vagyoni helyzet vizsgálatakor háztartásonként egy, a (2) bekezdésben foglaltaknak megfelelő személygépjárművet lehet mozgáskorlátozottságra tekintettel fenntartott gépjárműnek tekinteni.
+(3)[^16] A vagyoni helyzet vizsgálatakor háztartásonként egy, a (2) bekezdésben foglaltaknak megfelelő személygépjárművet lehet mozgáskorlátozottságra tekintettel fenntartott gépjárműnek tekinteni.
 
-[^12]: A 4. § második mondatát a 341/2008. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
-[^13]: A 4. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 323/2009. (XII. 29.) Korm. rendelet 1. §-a.
-[^14]: A 4. § (2) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta. A 4. § (2) bekezdése a 95/2013. (III. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^15]: A 4. § (3) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.
+[^13]: A 4. § második mondatát a 341/2008. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^14]: A 4. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 323/2009. (XII. 29.) Korm. rendelet 1. §-a.
+[^15]: A 4. § (2) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta. A 4. § (2) bekezdése a 95/2013. (III. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^16]: A 4. § (3) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.
