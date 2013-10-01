@@ -4,43 +4,53 @@
 
 ## Forgalomba helyezés előtti vizsgálat
 
-10. § (1)[^93] A gépjármű a mezőgazdasági vontató, és ezek pótkocsija – a (4) bekezdésben foglalt kivétellel – a közlekedési hatóság által végzett forgalomba helyezés előtti vizsgálat alapján helyezhető forgalomba. A forgalomba helyezés előtti vizsgálat elvégzésére irányuló kérelmet a közlekedési hatóság, vagy a közlekedési hatóság által engedélyezett gépjárműfenntartó szervezet által üzemeltetett vizsgáló állomáson (a továbbiakban együtt: vizsgáló állomás) lehet benyújtani. A forgalomba helyezés előtti vizsgálat keretében végzett környezetvédelmi felülvizsgálatot a környezetvédelmi felülvizsgálatról szóló jogszabályban meghatározott módon kell elvégezni.
+10. § (1)[^94] A gépjármű a mezőgazdasági vontató, és ezek pótkocsija – a (4) bekezdésben foglalt kivétellel – a közlekedési hatóság által végzett forgalomba helyezés előtti vizsgálat alapján helyezhető forgalomba. A forgalomba helyezés előtti vizsgálat elvégzésére irányuló kérelmet a közlekedési hatóság, vagy a közlekedési hatóság által engedélyezett gépjárműfenntartó szervezet által üzemeltetett vizsgáló állomáson (a továbbiakban együtt: vizsgáló állomás) lehet benyújtani. A forgalomba helyezés előtti vizsgálat keretében végzett környezetvédelmi felülvizsgálatot a környezetvédelmi felülvizsgálatról szóló jogszabályban meghatározott módon kell elvégezni.
 
-(2)[^94] A forgalomba helyezés előtti vizsgálat elvégzését általános, sorozat, illetőleg egyedi forgalomba helyezési engedély alapján kell kérni a közlekedési hatóságtól. Az egyedi forgalomba helyezés engedélyezése és a forgalomba helyezés előtti vizsgálat elvégzése összevontan, egy eljárásban is lefolytatható.
+(2)[^95] A forgalomba helyezés előtti vizsgálat elvégzését általános, sorozat, illetőleg egyedi forgalomba helyezési engedély alapján kell kérni a közlekedési hatóságtól. Az egyedi forgalomba helyezés engedélyezése és a forgalomba helyezés előtti vizsgálat elvégzése összevontan, egy eljárásban is lefolytatható.
 
-(3)[^95] A gyártó, a forgalmazó, a javító vagy az üzemeltető kérelmére a közlekedési hatóság — a vizsgálati feltételek megléte esetében — a forgalomba helyezés előtti vizsgálatot a kérelmező telephelyén is elvégezheti.
+(3)[^96] A gyártó, a forgalmazó, a javító vagy az üzemeltető kérelmére a közlekedési hatóság — a vizsgálati feltételek megléte esetében — a forgalomba helyezés előtti vizsgálatot a kérelmező telephelyén is elvégezheti.
 
-(4)[^96] Nem kell forgalomba helyezés előtti vizsgálatra bemutatni azt a forgalmazó által értékesített járművet, amelynek típusára vonatkozóan a közlekedési hatóság a Függelékek alkalmazásával lefolytatott típusjóváhagyási eljárásban Megfelelőségi nyilatkozat alkalmazásával történő forgalomba helyezést engedélyezett. A forgalomba helyezés előtti megvizsgálás alól történő mentesítés feltételeként meghatározott követelmények teljesítését a közlekedési hatóság ellenőrzi.
+(4)[^97] Nem kell forgalomba helyezés előtti vizsgálatra bemutatni azt a forgalmazó által értékesített járművet, amelynek típusára vonatkozóan a közlekedési hatóság a Függelékek alkalmazásával lefolytatott típusjóváhagyási eljárásban Megfelelőségi nyilatkozat alkalmazásával történő forgalomba helyezést engedélyezett. A forgalomba helyezés előtti megvizsgálás alól történő mentesítés feltételeként meghatározott követelmények teljesítését a közlekedési hatóság ellenőrzi.
 
-(5)[^97] Az általános forgalomba helyezési engedély alapján végzett forgalomba helyezés előtti vizsgálat során a típusbizonyítvány adataival való egyezést, továbbá – az MR 5–8., 17., 19., 21. §-okban foglaltak kivételével – az üzemeltetési műszaki feltételek megtartását kell ellenőrizni.
+(4a)[^98] A közlekedési hatóság a megfelelőségi nyilatkozat alkalmazásával történő forgalomba helyezési eljárás keretében a jármű műszaki adatainak a típus-adatbázissal való összevetését haladéktalanul, de legfeljebb öt napon belül elvégzi. Ezen eljárás során a „Műszaki adatlap” kiadása mellett a jármű ellenőrzött műszaki adatait a közlekedési hatóság elektronikus úton adja át a központi közúti közlekedési nyilvántartó szerv (a továbbiakban: Nyilvántartó) részére.
 
-(6)[^98] A sorozat és az egyedi forgalomba helyezési engedély alapján végzett forgalomba helyezés előtti vizsgálat során a forgalomba helyezési engedélyben, illetőleg az összeépítési engedélyben foglalt adatokkal való egyezést, az azokban foglalt feltételek teljesítését, továbbá – az MR 5–8., 17., 19., 21. §-aiban foglaltak kivételével – az üzemeltetési műszaki feltételek megtartását kell ellenőrizni.
+(4b)[^99] Amennyiben az új jármű kereskedelmi forgalomba hozatala vizsgáló állomáson történik, a (4) bekezdésben meghatározott eljárás során kiadott vagy elektronikusan átadott „Műszaki adatlap” adatainak kiegészítésével kiadott új „Műszaki adatlapon” – a változtatással érintett jellemzők MR.-ben foglaltaknak való megfelelősége ellenőrzésére korlátozott időszakos vizsgálat alkalmazásával – a vizsgabiztos megállapíthatja
 
-(7)[^99] A használt gépjármű és a gépjármű pótkocsija forgalomba helyezés előtti vizsgálata során – a muzeális jellegű jármű kivételével – külön jogszabályban előírt feltételek fennállása esetén előzetes eredetiségvizsgálatot is kell végezni.
+a) a vonószerkezettel felszerelt jármű vontatásra való alkalmasságát, amennyiben a járműtípus a típusbizonyítvány alapján vontatásra alkalmas, valamint
 
-(8)[^100] A forgalomba helyezés előtti vizsgálat során a hatósági szerződéssel rendelkező vizsgáló állomás tanúsító szervezetként jár el (a továbbiakban: tanúsító vizsgáló állomás).
+b) a megkülönböztető- és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló miniszteri rendelet alapján jogosult üzemben tartó járműve esetében a jármű figyelmeztető- vagy megkülönböztető jelzésekkel való felszereltségét.
 
-(9)[^101] A tanúsító vizsgáló állomáson a jármű műszeres és vizuális vizsgálatát, a mérési adatok rögzítését a közlekedési hatóság által kiadott engedéllyel rendelkező műszaki vizsgabiztos (a továbbiakban: vizsgabiztos) végzi.
+(5)[^100] Az általános forgalomba helyezési engedély alapján végzett forgalomba helyezés előtti vizsgálat során a típusbizonyítvány adataival való egyezést, továbbá – az MR 5–8., 17., 19., 21. §-okban foglaltak kivételével – az üzemeltetési műszaki feltételek megtartását kell ellenőrizni.
 
-(10)[^102] A forgalomba helyezés előtti vizsgálathoz biztosítandó tárgyi feltételeket, a technológiát, és az ügyrendet az 5. számú melléklet tartalmazza.
+(6)[^101] A sorozat és az egyedi forgalomba helyezési engedély alapján végzett forgalomba helyezés előtti vizsgálat során a forgalomba helyezési engedélyben, illetőleg az összeépítési engedélyben foglalt adatokkal való egyezést, az azokban foglalt feltételek teljesítését, továbbá – az MR 5–8., 17., 19., 21. §-aiban foglaltak kivételével – az üzemeltetési műszaki feltételek megtartását kell ellenőrizni.
 
-(11)[^103] A forgalomba helyezés előtti vizsgálat alapján a közúti forgalomban való részvételre alkalmasnak minősített M1 és N1 kategóriába tartozó gépkocsi, valamint L kategóriába tartozó motorkerékpár és segédmotoros kerékpár esetében meg kell állapítani és a Műszaki adatlapon rögzíteni, hogy a jármű a regisztrációs adóról szóló 2003. évi CX. törvény szerinti személygépkocsi vagy motorkerékpár-e.
+(7)[^102] A használt gépjármű és a gépjármű pótkocsija forgalomba helyezés előtti vizsgálata során – a muzeális jellegű jármű kivételével – külön jogszabályban előírt feltételek fennállása esetén előzetes eredetiségvizsgálatot is kell végezni.
 
-(12)[^104] A (11) bekezdésben meghatározottak tekintetében a fellebbezési eljárásban a Vám- és Pénzügyőrség Vegyvizsgáló Intézete szakértőként jár el.[^105]
+(8)[^103] A forgalomba helyezés előtti vizsgálat során a hatósági szerződéssel rendelkező vizsgáló állomás tanúsító szervezetként jár el (a továbbiakban: tanúsító vizsgáló állomás).
 
-(13)[^106]
+(9)[^104] A tanúsító vizsgáló állomáson a jármű műszeres és vizuális vizsgálatát, a mérési adatok rögzítését a közlekedési hatóság által kiadott engedéllyel rendelkező műszaki vizsgabiztos (a továbbiakban: vizsgabiztos) végzi.
 
-[^93]: A 10. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^94]: A 10. § (2) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^95]: A 10. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^96]: A 10. § (4) bekezdése az 1/2001. (I. 10.) KöViM rendelet 2. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^97]: A 10. § (5) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
-[^98]: A 10. § (6) bekezdése a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
-[^99]: A 10. § (7) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte, újonnan a 19/2006. (IV. 19.) GKM rendelet 2. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^100]: A 10. § (8) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^101]: A 10. § (9) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^102]: A 10. § (10) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^103]: A 10. § (11) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^104]: A 10. § (12) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^105]: Lásd a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet 12. §-át.
-[^106]: A 10. § (13) bekezdését a 34/2004. (III. 30.) GKM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés f) pontja.
+(10)[^105] A forgalomba helyezés előtti vizsgálathoz biztosítandó tárgyi feltételeket, a technológiát, és az ügyrendet az 5. számú melléklet tartalmazza.
+
+(11)[^106] A forgalomba helyezés előtti vizsgálat alapján a közúti forgalomban való részvételre alkalmasnak minősített M1 és N1 kategóriába tartozó gépkocsi, valamint L kategóriába tartozó motorkerékpár és segédmotoros kerékpár esetében meg kell állapítani és a Műszaki adatlapon rögzíteni, hogy a jármű a regisztrációs adóról szóló 2003. évi CX. törvény szerinti személygépkocsi vagy motorkerékpár-e.
+
+(12)[^107] A (11) bekezdésben meghatározottak tekintetében a fellebbezési eljárásban a Vám- és Pénzügyőrség Vegyvizsgáló Intézete szakértőként jár el.[^108]
+
+(13)[^109]
+
+[^94]: A 10. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^95]: A 10. § (2) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^96]: A 10. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^97]: A 10. § (4) bekezdése az 1/2001. (I. 10.) KöViM rendelet 2. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^98]: A 10. § (4a) bekezdését a 18/2013. (V. 9.) NFM rendelet 5. §-a iktatta be.
+[^99]: A 10. § (4b) bekezdését a 18/2013. (V. 9.) NFM rendelet 5. §-a iktatta be.
+[^100]: A 10. § (5) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
+[^101]: A 10. § (6) bekezdése a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
+[^102]: A 10. § (7) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte, újonnan a 19/2006. (IV. 19.) GKM rendelet 2. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^103]: A 10. § (8) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^104]: A 10. § (9) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^105]: A 10. § (10) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^106]: A 10. § (11) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^107]: A 10. § (12) bekezdését a 12/1998. (V. 22.) KHVM rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^108]: Lásd a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet 12. §-át.
+[^109]: A 10. § (13) bekezdését a 34/2004. (III. 30.) GKM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés f) pontja.

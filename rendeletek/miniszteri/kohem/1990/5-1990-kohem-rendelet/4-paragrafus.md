@@ -16,15 +16,17 @@
 
 (9)[^50] Járműsorozat forgalomba helyezésének engedélyezésére irányuló kérelemre a közlekedési hatóság – a járművek alvázszámait is tartalmazó – sorozat forgalomba helyezési engedélyt ad ki. Az (1) és az (5)–(7) bekezdések rendelkezéseit értelemszerűen alkalmazni kell a sorozat forgalomba helyezési engedélyre is.
 
-(10)[^51]
+(10)[^51] A közlekedési hatóság az (1)–(9) bekezdésben foglaltak alapján kiadott típusbizonyítványban, továbbá az egyedi- és sorozat forgalomba helyezési engedélyben meghatározott műszaki adatok alapján megállapítja a járműtípusok műszaki adatait (a továbbiakban: típus-adatbázis).
 
-(11)[^52] Az Európai Közösségek tagállamának illetékes hatósága által valamely járműtípusra kiadott „EK típusjóváhagyó okmány” alapján a közlekedési hatóság a gyártó, illetőleg a forgalmazó kérelmére – típusvizsgálat nélkül – típusbizonyítványt ad ki. A típusbizonyítványban továbbá a „Megfelelőségi tanúsítvány”-on, valamint a „Műszaki Adatlap”-on alkalmazott „EK típusjóváhagyás-szám” számozási rendszerét az A. Függelék A/7. melléklete tartalmazza.
+(10a)[^52] A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet (a továbbiakban: KR.) szerint a jármű forgalomba helyezésekor a típus-adatbázisban meghatározott adatokkal vehető nyilvántartásba a jármű. A típus-adatbázis naprakész állapotáról és a közlekedési igazgatási hatóság számára elektronikus úton biztosított közvetlen hozzáférésről a közlekedési hatóság gondoskodik.
 
-(12)[^53] Az általános, valamint a sorozat forgalomba helyezési engedéllyel rendelkező M1 és N1 kategóriájú jármű gyártója, valamint forgalmazója a bontási információt – kézikönyvek vagy elektronikus média útján (CD-ROM, on-line szolgáltatások) a forgalmazás megkezdését követő hat hónapon belül – köteles biztosítani a külön jogszabályban[^54] meghatározott regisztrált bontó-hulladékkezelők részére. E kötelezettség elmulasztása esetén a közlekedési hatóság a jármű típusára kiadott típusbizonyítvány, illetőleg sorozat forgalomba helyezési engedély érvényességét megszünteti.
+(11)[^53] Az Európai Közösségek tagállamának illetékes hatósága által valamely járműtípusra kiadott „EK típusjóváhagyó okmány” alapján a közlekedési hatóság a gyártó, illetőleg a forgalmazó kérelmére – típusvizsgálat nélkül – típusbizonyítványt ad ki. A típusbizonyítványban továbbá a „Megfelelőségi tanúsítvány”-on, valamint a „Műszaki Adatlap”-on alkalmazott „EK típusjóváhagyás-szám” számozási rendszerét az A. Függelék A/7. melléklete tartalmazza.
 
-(13)[^55] Közösségi járműre az egyedi forgalomba helyezési engedélyt a (8) bekezdésben meghatározott feltételek ellenőrzése nélkül, a jármű forgalomban tartására vonatkozóan a származási országban megszerzett jogosultság igazolása mellett, a 4/C. §-ban meghatározott jármű-honosítási eljárásban kell kiadni.
+(12)[^54] Az általános, valamint a sorozat forgalomba helyezési engedéllyel rendelkező M1 és N1 kategóriájú jármű gyártója, valamint forgalmazója a bontási információt – kézikönyvek vagy elektronikus média útján (CD-ROM, on-line szolgáltatások) a forgalmazás megkezdését követő hat hónapon belül – köteles biztosítani a külön jogszabályban[^55] meghatározott regisztrált bontó-hulladékkezelők részére. E kötelezettség elmulasztása esetén a közlekedési hatóság a jármű típusára kiadott típusbizonyítvány, illetőleg sorozat forgalomba helyezési engedély érvényességét megszünteti.
 
-(14)[^56] A (13) bekezdés és a 4/C. § rendelkezéseit megfelelően alkalmazni kell az Európai Gazdasági Térségben nem részes államban nyilvántartásba vett azon gépjárműre, amely a vámkönnyítések közösségi rendszerének felállításáról szóló 1983. március 28-i 918/83/EGK tanácsi rendelet 2–10. cikke szerint természetes személyhez tartozó személyes vagyontárgynak minősül.
+(13)[^56] Közösségi járműre az egyedi forgalomba helyezési engedélyt a (8) bekezdésben meghatározott feltételek ellenőrzése nélkül, a jármű forgalomban tartására vonatkozóan a származási országban megszerzett jogosultság igazolása mellett, a 4/C. §-ban meghatározott jármű-honosítási eljárásban kell kiadni.
+
+(14)[^57] A (13) bekezdés és a 4/C. § rendelkezéseit megfelelően alkalmazni kell az Európai Gazdasági Térségben nem részes államban nyilvántartásba vett azon gépjárműre, amely a vámkönnyítések közösségi rendszerének felállításáról szóló 1983. március 28-i 918/83/EGK tanácsi rendelet 2–10. cikke szerint természetes személyhez tartozó személyes vagyontárgynak minősül.
 
 [^42]: A 4. § a 12/1998. (V. 22.) KHVM rendelet 3. §-ával megállapított szöveg.
 [^43]: A 4. § (1) bekezdése a 43/2001. (XII. 18.) KöViM rendelet 3. § (1) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
@@ -35,9 +37,10 @@
 [^48]: A 4. § (7) bekezdése a 27/2010. (III. 31.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^49]: A 4. § (8) bekezdése a 83/2005. (X. 11.) GKM rendelet 2. § (2) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b), r) és w) pontja, a 22/2012. (V. 8.) NFM rendelet 12. §-a szerint módosított szöveg.
 [^50]: A 4. § (9) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^51]: A 4. § (10) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^52]: A 4. § (11) bekezdését a 11/2000. (V. 24.) KHVM rendelet 4. §-ának (4) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^53]: A 4. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 2. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^54]: A gépjármű fenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
-[^55]: A 4. § (13) bekezdését a 34/2004. (III. 30.) GKM rendelet 2. §-a iktatta be, szövege a 105/2007. (XII. 23.) GKM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^56]: A 4. § (14) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 2. § (3) bekezdése iktatta be.
+[^51]: A 4. § (10) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte, újonnan a 18/2013. (V. 9.) NFM rendelet 2. §-a iktatta be.
+[^52]: A 4. § (10a) bekezdését a 18/2013. (V. 9.) NFM rendelet 2. §-a iktatta be.
+[^53]: A 4. § (11) bekezdését a 11/2000. (V. 24.) KHVM rendelet 4. §-ának (4) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^54]: A 4. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 2. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^55]: A gépjármű fenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
+[^56]: A 4. § (13) bekezdését a 34/2004. (III. 30.) GKM rendelet 2. §-a iktatta be, szövege a 105/2007. (XII. 23.) GKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^57]: A 4. § (14) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 2. § (3) bekezdése iktatta be.
