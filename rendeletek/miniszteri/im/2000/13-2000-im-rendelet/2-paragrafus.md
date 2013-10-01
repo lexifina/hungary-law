@@ -1,7 +1,13 @@
-## 1. § A büntetés-végrehajtási intézetekben (a továbbiakban: bv. intézetek) a fogvatartottak csoportos és egyéni vallásgyakorlása, valamint lelki gondozásának biztosítása érdekében minden bejegyzett vallási közösség, vallásfelekezet, egyház (a továbbiakban együtt: egyház) – a fogvatartottak igényei alapján – vallási tevékenységet folytathat.
+## 2. §[^3] A börtönlelkészi szolgálat főbb feladata
 
-2. § (1) Az 1. §-ban foglaltak elősegítése érdekében a büntetés-végrehajtási szervezetnél Börtönlelkészi Szolgálat (a továbbiakban: Szolgálat) létesül.
+a) a hit- és kegyességi élet, a vallásgyakorlás biztosítása, mise, istentisztelet, biblia- és imaórák tartása,
 
-(2) A Szolgálat a katolikus, a református, az evangélikus és a zsidó egyházak lelkészeiből áll.
+b) az egyéni és közösségi lelki gondozás,
 
-(3) A lelkészek munkájukat ökumenikus szellemben, a felekezeti önállóság tiszteletben tartásával végzik.
+c) az életismereti, erkölcsi oktatás, nevelés,
+
+d) a vallási tevékenységet végző szervezetek bv. intézetben történő tevékenységének és a börtönmissziók munkájának koordinálása,
+
+e) a fogvatartottak kérésére egyéb vallásos szertartások végzése.
+
+[^3]: A 2. § a 23/2013. (IX. 30.) KIM rendelet 2. §-ával megállapított szöveg.
