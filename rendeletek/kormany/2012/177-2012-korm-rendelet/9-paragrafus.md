@@ -1,4 +1,4 @@
-## 5. [^3] A Közigazgatási és Igazságügyi Hivatal személyügyi igazgatási feladatai
+## 5. [^4] A Közigazgatási és Igazságügyi Hivatal személyügyi igazgatási feladatai
 
 9. § (1) A Hivatal
 
@@ -26,4 +26,4 @@ b) közreműködik a fővárosi és megyei kormányhivatalok személyügyi dönt
 
 c) nyilvántartja a fővárosi és megyei kormányhivatalok személyügyi állománytábláját, valamint összegyűjti a fővárosi és megyei kormányhivatalok személyi állományára vonatkozó adatokat, gondoskodik ezen adatok folyamatos aktualizálásáról.
 
-[^3]: Az 5. alcím (9. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. alcím (9. §) az 56/2013. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
