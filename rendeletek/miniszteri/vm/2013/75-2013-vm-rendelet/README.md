@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-75-20-2
 | --- | --- | --- |
 | 2013-09-07 | 2013-75-20-2Y.1 | 75/2013. (IX. 6.) VM rendelet |
 | 2013-09-08 | 2013-75-20-2Y.2 | 2010: CXXX. törvény |
+| 2013-10-01 | 2013-75-20-2Y.3 | 2010: CXXX. törvény |
