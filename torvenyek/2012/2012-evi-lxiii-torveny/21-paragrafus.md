@@ -18,9 +18,9 @@ b) az újrahasznosítás céljára történő rendelkezésre bocsátásért fize
 
 rendeletben állapíthassa meg.
 
-(5) Felhatalmazást kap a Pénzügyi Szervezetek Állami Felügyeletének elnöke, hogy
+(5) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy
 
-a) a Pénzügyi Szervezetek Állami Felügyelete által kezelt, újrahasznosítás céljából rendelkezésre bocsátható közadatok körét – a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének kikérésével –,
+a) a Magyar Nemzeti Bank által kezelt, újrahasznosítás céljából rendelkezésre bocsátható közadatok körét – a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének kikérésével –,
 
 b) az újrahasznosítás céljára történő rendelkezésre bocsátásért fizetendő díj mértékének, megállapítása szempontjainak, megfizetése módjának, valamint a díjfizetés kedvezményeinek és a díjfizetés alóli mentességek e törvény rendelkezéseivel összhangban álló további részletszabályait
 
