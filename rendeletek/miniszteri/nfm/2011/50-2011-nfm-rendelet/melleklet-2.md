@@ -116,7 +116,7 @@
 
 | 55. | Miskolc | Bioenergy-Miskolc Szolgáltató Kft. | Miskolci Hőszolgáltató Kft. | 0 | 3 619 |
 
-| 56. | Miskolc | MVM MIFŰ Kft. - Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | Miskolci Hőszolgáltató Kft. | 2 018 | 3 100 |
+| 56. | Miskolc | MVM MIFŰ Kft. - Hold u. hrsz. 23358/9 és Tatár u. 29/a. hrsz. 23358/8 | Miskolci Hőszolgáltató Kft. | 15 394 | 3 100 |
 
 | 57. | Miskolc | MVM MIFŰ Kft. - Miskolc, Bánki Donát u. 17. | Miskolci Hőszolgáltató Kft. | 0 | 4 466 |
 
