@@ -8,7 +8,7 @@ b) „C” sorozatú elsőbbségi részvény: a Takarékbank Zrt. által kibocs�
 
 c) Előzetes kötelezettségvállaló nyilatkozat: a Gt. 255. § (3) bekezdés szerinti kötelezettségvállalást tartalmazó nyilatkozat, amely tartalmában e törvény rendelkezéseinek is megfelel.
 
-d) Felügyelet: a Pénzügyi Szervezetek Állami Felügyelete;
+d) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
 
 e) Folyamatban lévő engedélykérelemmel rendelkező hitelintézet: jelen törvény elfogadásáig a nem takarékszövetkezeti hitelintézetté alakulás iránt a Felügyeletnek kérelmet benyújtott szövetkezeti hitelintézet, amely 2013. december 31-ig a Felügyelet engedélye alapján nem takarékszövetkezeti hitelintézetté alakult és e törvény hatályba lépését követő 100 napon belül már nem tagja az Integrációs Szervezetnek illetve az OTIVA, a REPIVA, a HBA és a TAKIVA intézményvédelmi alapok egyikének sem.
 
