@@ -1,0 +1,1 @@
+## „(5) A vállalkozó kivitelező a saját elektronikus építési naplójának a vezetésével megbízhatja a felelős műszaki vezetőjét. Az erre irányuló megállapodást mindkét fél elfogadásával a vállalkozó kivitelező elektronikus építési naplójában kell rögzíteni.”

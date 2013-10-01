@@ -1,3 +1,3 @@
-## 82. §[^53]
+## 82. § Az Épkiv. 28. §-a a következő (3) bekezdéssel egészül ki:
 
-[^53]: A 82. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+## „(3) A felmérési napló és a teljesítésigazolási napló az e-napló része.”

@@ -1,0 +1,1 @@
+## „(1b) Ha az építtetői fedezetkezelő arról értesül, hogy olyan vállalkozó kivitelező vesz részt a fedezetkezelés hatálya alá tartozó építési tevékenység folytatásában, aki vagy amely vonatkozásában az elektronikus építési napló nem került készenlétbe helyezésre vagy megnyitásra, haladéktalanul értesíti az területileg illetékes építésfelügyeleti hatóságot.”

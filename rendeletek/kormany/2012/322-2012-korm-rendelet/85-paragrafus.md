@@ -1,3 +1,3 @@
-## 84. §[^55]
+## 84. § Az Épkiv. 33. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^55]: A 84. § a 110. § (3) bekezdése alapján 2013. július 1-jén lép hatályba.
+## „(3a) A fővállalkozó az (1) és (3) bekezdésben felsorolt dokumentumok és nyilatkozatok építtető számára történő átadását az e-naplóban történő rögzítéssel teljesíti.”
