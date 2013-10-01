@@ -1,1 +1,0 @@
-A Kormány visszavonja a Társadalmi Megújulás Operatív Program 3.1.4-12/1-2 „Innovatív iskolák fejlesztése” című pályázati kiírásokra beérkezett pályázatok értékeléséről, a vonatkozó megoldási javaslatról és eljárásról szóló 1483/2012. (XI. 7.) Korm. határozat 2. pontját.
