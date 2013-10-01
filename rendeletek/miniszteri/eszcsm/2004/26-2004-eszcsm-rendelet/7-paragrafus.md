@@ -1,1 +1,0 @@
-## 6. § A Vhr. 108. §-ának (2) bekezdése szerinti ellenőrzés céljára nyilvántartási számmal ellátott ,,Ellenőrzési Napló-t'' kell rendszeresíteni. A bejegyzett hiányosságok megszüntetésére az intézmény vezetője a megállapított határidőig köteles intézkedni.

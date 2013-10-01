@@ -1,1 +1,0 @@
-## 7. § A meghagyási munka személyi és tárgyi feltételeinek biztosításáért, annak megszervezéséért és végrehajtásáért az intézmény vezetője a felelős. A meghagyási munkával kapcsolatos nyilvántartások vezetését az intézmény humánpolitikai feladatokat ellátó szervezeti egységének bevonásával kell végezni.
