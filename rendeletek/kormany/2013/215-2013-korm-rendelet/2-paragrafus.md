@@ -38,4 +38,6 @@ db) a nukleáris létesítmény végleges leállítását követően – leszere
 
 dc) a nukleáris létesítmény lebontásáról, helyszíne helyreállításáról; továbbá
 
-e) a nukleárisüzemanyag-ciklus lezárásával kapcsolatos, a c) és a d) pontban nem említett feladatok elvégzéséről.
+e)[^1] ha kormányrendelet eltérően nem rendelkezik, gondoskodik a nukleárisüzemanyag-ciklus lezárásával kapcsolatos, a c) és a d) pontban nem említett feladatok elvégzéséről.
+
+[^1]: A 2. § e) pontja a 348/2013. (IX. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
