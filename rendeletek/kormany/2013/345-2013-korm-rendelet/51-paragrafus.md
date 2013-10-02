@@ -1,3 +1,5 @@
-## 50. § A foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 399/2007. (XII. 27.) Korm. rendelet 16. § (3) bekezdésében a „Pénzügyi Szervezetek Állami Felügyelete” szövegrész helyébe a „pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank” szöveg lép.
+## 50. §[^36]
 
 ## 37. A befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint árutőzsdei szolgáltatást folytató gazdálkodó szervezet üzletszabályzatának kötelező tartalmi elemeiről szóló 22/2008. (II. 7.) Korm. rendelet módosítása
+
+[^36]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

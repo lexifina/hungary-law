@@ -1,3 +1,5 @@
-## 51. § A befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint árutőzsdei szolgáltatást folytató gazdálkodó szervezet üzletszabályzatának kötelező tartalmi elemeiről szóló 22/2008. (II. 7.) Korm. rendelet 1. § (1) bekezdés a) pontjában a „Pénzügyi Szervezetek Állami Felügyelete” szövegrész helyébe a „pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró a Magyar Nemzeti Bank” szöveg lép.
+## 51. §[^37]
 
 ## 38. A befektetési vállalkozás kockázatvállalására és kockázatkezelésére vonatkozó információk nyilvánosságra hozataláról szóló 164/2008. (VI. 27.) Korm. rendelet módosítása
+
+[^37]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

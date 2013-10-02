@@ -1,3 +1,0 @@
-## 8. § A betétbiztosítási alapok és intézményvédelmi alapok, valamint a befektető-védelmi alap éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 214/2000. (XII. 11.) Korm. rendelet (a továbbiakban: 214/2000. Korm. rendelet) 11. §-a helyébe a következő rendelkezés lép:
-
-## „11. § Az éves beszámolót és az üzleti jelentést legkésőbb az üzleti évet követő év május 30-áig kell elkészíteni és benyújtani a tagintézetekhez, a Magyar Nemzeti Bankhoz, a Bankszövetséghez, az Országos Takarékszövetkezeti Szövetséghez, az Állami Számvevőszékhez és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumhoz.”

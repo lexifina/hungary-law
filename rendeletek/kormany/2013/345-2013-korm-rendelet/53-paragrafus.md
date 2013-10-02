@@ -1,9 +1,7 @@
-## 52. § A befektetési vállalkozás kockázatvállalására és kockázatkezelésére vonatkozó információk nyilvánosságra hozataláról szóló 164/2008. (VI. 27.) Korm. rendelet 1. § (2) bekezdés 3. pontja helyébe a következő rendelkezés lép:
-
-## (E rendelet alkalmazásában:)
-
-## „3. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank,”
+## 52. §[^38]
 
 ## 39. A befektetési vállalkozás működési kockázatának tőkekövetelményéről szóló
 
 ## 169/2008. (VI. 28.) Korm. rendelet módosítása
+
+[^38]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
