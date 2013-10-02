@@ -1,3 +1,3 @@
-1. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^219]
+1. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^222]
 
-[^219]: Az 1. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § a) pontjával megállapított szöveg.
+[^222]: Az 1. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § a) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-27. §[^169] (1) Az e-napló készenlétének lezárásáig – a naplóvezetésre kötelezetten túl – bejegyzést tehet
+27. §[^171] (1) Az e-napló készenlétének lezárásáig – a naplóvezetésre kötelezetten túl – bejegyzést tehet
 
 a) az e-főnaplóba és mellékleteibe az építtető, az építési műszaki ellenőr vagy a beruházási tanácsadó, továbbá – ha az erre irányuló feladat meghatározást az írásbeli szerződésük tartalmazza – a beruházáslebonyolító vagy a tervezői művezető,
 
@@ -42,7 +42,16 @@ be) az építtető megbízása alapján a tervezői művezető.
 
 (4) Az érdekelt szerződéses feleken, az építtetői fedezetkezelői eljárásban feljogosítottak és a (3) bekezdés a) pont ad) alpontja szerinti hatóságon kívül a bejegyzésre vagy betekintésre felhatalmazottak nem jogosultak megtekinteni az e-főnaplóban, az e-alnaplóban és mellékleteikben feltüntetett fő- vagy alvállalkozói teljesítés, részteljesítés ellenértékét.
 
-(5)–(6)[^170]
+(5)[^172] Az e-főnapló és e-alnapló mellékletei:
 
-[^169]: A 27. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
-[^170]: A 27. § (5)–(6) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.
+a) az ellenőrző hatóságok és szakhatóságok által készített okiratokat, jegyzőkönyveket tartalmazó hatósági napló,
+
+b) a felmérési naplót, a teljesítésösszesítőt, a teljesítésigazolást és a teljesítésről felvett jegyzőkönyveket tartalmazó teljesítésigazolási napló, valamint
+
+c) az építési-bontási hulladék-nyilvántartást, az építési termékekre vonatkozó teljesítménynyilatkozatokat, mérési jegyzőkönyveket, felülvizsgálati jegyzőkönyveket, elvégzett üzempróbák jegyzőkönyveit, üzembe helyezési vizsgálati tanúsítványokat, továbbá az a)–b) pont szerinti mellékletek tartalmaként fel nem sorolt minden további dokumentumot tartalmazó gyűjtőnapló.
+
+(6)[^173]
+
+[^171]: A 27. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^172]: A 27. § (5) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 13. §-a iktatta be.
+[^173]: A 27. § (6) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 17. § b) pont bb) alpontja alapján nem lép hatályba.

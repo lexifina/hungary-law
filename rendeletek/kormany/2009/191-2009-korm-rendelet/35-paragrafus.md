@@ -2,7 +2,7 @@
 
 35. § (1) A vállalkozó kivitelezőre vonatkozó, az Étv. 39. § (3) bekezdése szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 22. § (1) bekezdésében meghatározott adatokon kívül – tartalmaznia kell
 
-a)[^194] a vállalkozó kivitelező
+a)[^197] a vállalkozó kivitelező
 
 aa) cégjegyzékszámát, egyéni vállalkozó esetében egyéni vállalkozói nyilvántartási számát, adószámát,
 
@@ -20,7 +20,7 @@ b) az a) pont ac)–af) alpontjában közölteket és az aa) és ab) alpontjaiba
 
 c) ha a bejelentő elektronikus levélcímét, telefaxszámát vagy telefonos elérhetőséget a 36. § szerinti nyilvántartásban történő feltüntetés céljából adja meg, a megadott elérhetőség mellett az erre vonatkozó nyilatkozatot is.
 
-(2)[^195] A telephely akkor minősül a vállalkozó kivitelezői tevékenység végzéséhez alkalmasnak, ha
+(2)[^198] A telephely akkor minősül a vállalkozó kivitelezői tevékenység végzéséhez alkalmasnak, ha
 
 a) a cég székhelyétől eltérő helyen lévő telephely esetén azt a cégnyilvántartásba bejegyezték, vagy egyébként a vállalkozó kivitelező okiratokkal igazolja, hogy a cég tulajdonát képezi vagy használatára a cég jogosult,
 
@@ -40,5 +40,5 @@ c) a bejelentést tevő nyilatkozatát a bejelentés (ideértve az igazolás cé
 
 (5) A bejelentés elektronikus úton vagy elektronikus adathordozón is benyújtható.
 
-[^194]: A 35. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (14) bekezdésével megállapított szöveg.
-[^195]: A 35. § (2) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés h) pontja szerint módosított szöveg.
+[^197]: A 35. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (14) bekezdésével megállapított szöveg.
+[^198]: A 35. § (2) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés h) pontja szerint módosított szöveg.
