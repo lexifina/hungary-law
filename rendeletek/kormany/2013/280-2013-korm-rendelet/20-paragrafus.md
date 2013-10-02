@@ -1,3 +1,0 @@
-## 19. § Az R4. a következő 25/A. §-sal egészül ki:
-
-## „25/A. § Ha a járművezető rendelkezik a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott érvényes „Gépjárművezetői képesítési igazolvány”-nyal, akkor a vezetői engedély kiadása, pótlása, cseréje, honosítása tárgyában általa kezdeményezett eljárás során kérelmezheti a részére kiadásra kerülő vezetői engedélyben a 95. számú közösségi kód feltüntetését a „Gépjárművezetői képesítési igazolvány” időbeli hatályával megegyező időtartamra.”
