@@ -2,4 +2,6 @@
 
 9. § (1) Ez a rendelet 2013. október 1-jén lép hatályba.
 
-(2) Hatályát veszti a pénzügyi konglomerátum szintű tőkemegfelelés számításáról szóló 36/2005. (X. 31.) PM rendelet.
+(2)[^1]
+
+[^1]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
