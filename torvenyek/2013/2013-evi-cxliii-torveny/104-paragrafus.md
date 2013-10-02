@@ -1,1 +1,0 @@
-104. § A Pmt. 22. § (4) bekezdésében a „Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben (a továbbiakban: Psztv.)” szövegrész helyébe a „Magyar Nemzeti Bankról szóló törvényben (a továbbiakban: MNBtv.)” szövegrész lép.

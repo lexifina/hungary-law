@@ -1,1 +1,0 @@
-66. § Hatályát veszti a Tpt. 341. § (1) bekezdés a) pontja, a 345. § (7) bekezdés c) pontja, 350/B. § (6) bekezdés c) pontja, 350/E. § (5) bekezdés c) pontja, a 377. §-a és az 1. számú mellékletének 16. pontja.

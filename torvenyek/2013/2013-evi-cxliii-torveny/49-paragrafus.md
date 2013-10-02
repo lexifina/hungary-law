@@ -1,3 +1,0 @@
-49. § A Tpt. 26. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan, hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése, illetve multilaterális kereskedési rendszerbe történő regisztrációja céljából készült, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra, illetve regisztrálni kívánják multilaterális kereskedési rendszerbe, és a tájékoztatót nem magyar nyelven készítették el.”

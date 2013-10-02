@@ -1,3 +1,3 @@
 ## 48. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-152. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 106. § (1) és (3) bekezdésében a „Pénzügyi Szervezetek Állami Felügyeletének elnöke, alelnöke és köztisztviselője,” szövegrész helyébe a „Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja” szöveg lép.
+152. §
