@@ -1,7 +1,3 @@
-7. melléklet a 17/2013. (IV. 30.) NFM rendelethez
+7. melléklet a 17/2013. (IV. 30.) NFM rendelethez[^6]
 
-Az R. 1. melléklet E:56 mezője helyébe a következő rendelkezés lép:
-
-|  | (Értékesítői teljesítménydíj) |
-
-| (Miskolc) | „15394” |
+[^6]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
