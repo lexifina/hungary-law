@@ -10,9 +10,15 @@
 
 ## Határidő: a nyertes ajánlattevővel történő szerződés megkötését követően azonnal
 
-## 3. felhívja a Miniszterelnökséget vezető államtitkárt, hogy a 2013. évben – a 2014–2020 programozási időszak azonos célt szolgáló operatív programjainak előirányzatai terhére, az Európai Bizottság 2007–2013 közötti költségvetési ciklust lezáró eljárásrendjében rögzített feltételek figyelembevételével – vállaljon kötelezettséget a 2007–2013 programozási időszakban a Közlekedés Operatív Program keretében indult projekteknek a 2007–2013 programozási időszakon túlnyúló költségei finanszírozására,
+## 3.[^1] egyetért a KÖZOP-2.5.0-09-11-2012-0019 azonosító számú [„Szolnok (kiz.)–Szajol (kiz.) vasútvonal rekonstrukciójának kivitelezése” című] projekt kettő szakaszra bontásával,
 
-## Felelős: Miniszterelnökséget vezető államtitkár
+## 3/A.[^2] elrendeli a 3. pont szerinti szakaszok kivitelezéséhez szükséges vállalkozási szerződések megkötését,
+
+## 3/B.[^3] egyetért azzal, hogy a 3. pont szerinti szakaszok tekintetében a vállalkozási szerződések megkötése során a projekt kedvezményezettje jár el,
+
+## 3/C.[^4] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–2020 közötti programozási időszak azonos célt szolgáló operatív programjának Európai Bizottság által történő elfogadása esetén a KÖZOP-2.5.0-09-11 2012-0019 azonosító számú [„Szolnok (kiz.)–Szajol (kiz.) vasútvonal rekonstrukciójának kivitelezése” című] projekt 3. pont szerinti második szakaszára vonatkozó támogatási szerződés megkötéséről,
+
+## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: azonnal
 
@@ -37,3 +43,8 @@
 | KÖZOP 2007–2013 (nettó Ft) | XIX. fejezet 2007–2013 (ÁFA Ft) | 2014–2020 közötti azonos célt szolgáló operatív program vagy hazai költségvetési forrás a 2015 után felmerülő költségekre (nettó Ft) | Hazai költségvetési forrás a 2015 után felmerülő költségekre (ÁFA Ft) |
 
 | KÖZOP–2.5.0-09- 11-2012-0019 | Szolnok (kiz.)-Szajol (kiz.) vasútvonal rekonstrukciójának kivitelezése | Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvény- társaság | 100 | Szolnok (kiz.)– Szajol (kiz.) vasúti vonalszakasz teljes körű rekonstrukciója új vasúti műtárgyak építésével. | 32 622 855 609 | 22 767 749 775 | 6 147 292 439 | 2 919 538 106 | 788 275 289 |
+
+[^1]: A 3. pont az 1694/2013. (X. 2.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 3/A. pontot az 1694/2013. (X. 2.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 3/B. pontot az 1694/2013. (X. 2.) Korm. határozat 2. pontja iktatta be.
+[^4]: A 3/C. pontot az 1694/2013. (X. 2.) Korm. határozat 2. pontja iktatta be.
