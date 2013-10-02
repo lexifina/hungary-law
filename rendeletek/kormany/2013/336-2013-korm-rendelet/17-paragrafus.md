@@ -1,4 +1,4 @@
-## lép.
+## 14–16. §[^3]
 
 ## 17. § Nem lép hatályba
 
@@ -9,3 +9,5 @@ b) az építőipari lánctartozás megakadályozását segítő intézkedésekr�
 ba) 2. § (8) bekezdésével megállapított Épkiv. 24/A. § (3) és (6) bekezdése,
 
 bb) 2. § (9) bekezdésével megállapított Épkiv. 25. § (1)–(2) bekezdése, 26. § (4) bekezdése, 27. § (5) és (6) bekezdése.
+
+[^3]: A 14–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
