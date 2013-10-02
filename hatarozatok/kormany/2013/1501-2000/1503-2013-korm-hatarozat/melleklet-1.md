@@ -14,11 +14,17 @@
 
 ## 4. egyetért azzal, hogy az 1. és a 3. pontban meghatározott projektek támogatása együttesen legfeljebb 62,6 milliárd forint lehessen,
 
-## 5. felhívja a Miniszterelnökséget vezető államtitkárt, hogy a 2013. évben – a 2014–2020 közötti programozási periódus azonos célt szolgáló operatív programjainak előirányzatai terhére, az Európai Bizottság 2007–2013. évi költségvetési ciklust lezáró eljárásrendjében rögzített feltételek figyelembevételével – kötelezettséget vállaljon a 2007–2013 közötti programozási periódusban a Közlekedés Operatív Program keretében indult projekteknek a 2007–2013 közötti programozási periódus terhére már nem elszámolható költségei finanszírozására,
+## 5.[^2] egyetért a KÖZOP-2.5.0-09-11-2012-0018 azonosító számú [„Budapest–Lőkösháza vasútvonal rekonstrukciója III/1. ütem kivitelezés, Békéscsaba állomás pályaépítés és Gyoma (kiz.)–Békéscsaba (bez.) vonalszakasz új elektronikus biztosítóberendezés építése” című], valamint a KÖZOP-2.5.0-09-11-2012-0017 azonosító számú [„Ferencváros »C« elágazás–Lőkösháza ETCS 2 telepítés kivitelezése” című] projektek kettő szakaszra bontásával,
 
-## Felelős: Miniszterelnökséget vezető államtitkár
+## 5/A.[^3] elrendeli az 5. pont szerinti szakaszok kivitelezéséhez szükséges vállalkozási szerződések megkötését,
 
-## Határidő: azonnal
+## 5/B.[^4] egyetért azzal, hogy az 5. pont szerinti szakaszok tekintetében a vállalkozási szerződések megkötése során a projekt kedvezményezettje járjon el,
+
+## 5/C.[^5] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–2020 közötti programozási időszak azonos célt szolgáló operatív programjának Európai Bizottság által történő elfogadása esetén a KÖZOP-2.5.0-09-11 2012-0018 azonosító számú [„Budapest–Lőkösháza vasútvonal rekonstrukciója III/1. ütem kivitelezés, Békéscsaba állomás pályaépítés és Gyoma (kiz.)–Békéscsaba (bez.) vonalszakasz új elektronikus biztosítóberendezés építése” című], valamint a KÖZOP-2.5.0-09-11-2012-0017 azonosító számú [„Ferencváros »C« elágazás–Lőkösháza ETCS 2 telepítés kivitelezése” című] projektek 5. pont szerinti második szakaszaira vonatkozó támogatási szerződések megkötéséről,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: folyamatos
 
 ## 6. felhívja
 
@@ -61,3 +67,8 @@
 | 3. | KÖZOP 3. prioritás | Orosházi úti felüljáró és kapcsolódó útépítési munkák | Nemzeti Infrastruktúra Fejlesztő Zrt. | 100% | Orosházi úti felüljáró és a hozzá kapcsolódó Bartók Béla úti csomópont és Orosházi út – Gyár utca csatlakozásában fonódásmentes („turbó”) körforgalom kialakítása. | – | 9 998 664 752 | 2 699 639 483 | – | – |
 
 | 4. | KÖZOP- 2.5.0-09- 11-2012- 0017 | Ferencváros „C” elágazás–Lőkösháza ETCS 2 telepítés kivitelezése | Nemzeti Infrastruktúra Fejlesztő Zrt. | 100% | 225 km hosszon ETCS 2 vonatbefolyásolási berendezés telepítése. | 21 403 663 000 | 5 778 989 000 | 17 946 989 015 | – | 4 845 687 034 | 3 456 673 985 | 933 301 976 |
+
+[^2]: Az 5. pont az 1694/2013. (X. 2.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5/A. pontot az 1694/2013. (X. 2.) Korm. rendelet 1. pontja iktatta be.
+[^4]: Az 5/B. pontot az 1694/2013. (X. 2.) Korm. rendelet 1. pontja iktatta be.
+[^5]: Az 5/C. pontot az 1694/2013. (X. 2.) Korm. rendelet 1. pontja iktatta be.
