@@ -1,3 +1,0 @@
-## 15. § Az R3. 83. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az elveszett, eltulajdonított, megsemmisült törzskönyv csak a sorszámának a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételét követő 15. nap eltelte után pótolható. A törzskönyv elvesztéséről, eltulajdonításáról, megsemmisüléséről, illetve megtalálásáról felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton indított törzskönyv pótlás esetében az ügyfél elektronikus úton tett nyilatkozata elektronikus úton kerül a Hivatalnak továbbításra.”
