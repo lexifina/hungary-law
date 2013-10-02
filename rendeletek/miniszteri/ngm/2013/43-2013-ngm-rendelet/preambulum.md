@@ -1,0 +1,1 @@
+A fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény 10. § (2) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

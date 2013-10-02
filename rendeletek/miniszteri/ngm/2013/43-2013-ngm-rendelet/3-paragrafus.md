@@ -1,0 +1,1 @@
+## 2. § A Fétám tv. 7. § (1) bekezdés b) pontja szerinti adatszolgáltatást a gyámhatóság a 3. melléklet szerinti formában és tartalommal elektronikus úton teljesíti a Magyar Államkincstár (a továbbiakban: kincstár) részére.
