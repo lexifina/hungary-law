@@ -1,3 +1,0 @@
-12. § A VET. a következő 171/A. §-sal egészül ki:
-
-„171/A. § Egyetemes szolgáltatónak nem minősülő villamosenergia-kereskedő esetében a villamos energiával, valamint a földgázellátással összefüggésben egyes törvények módosításáról szóló 2013. évi CXLV. törvénnyel megállapított 13. § (1) bekezdés szerinti kötelező átvétel alá eső villamos energia átvétele alóli mentességet az átviteli rendszerirányító első alkalommal az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztásáról és a szétosztás során alkalmazható árak meghatározásának módjáról szóló miniszteri rendelet szerinti 2013. november hónapra vonatkozó szétosztás során veszi figyelembe.”
