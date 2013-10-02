@@ -1,0 +1,9 @@
+# 1693/2013. (X. 2.) Korm. határozat
+
+a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és egyes prioritások keretének növeléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1693-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-10-02 | 2013-1693-30-22.1 | 1693/2013. (X. 2.) Korm. határozat |
