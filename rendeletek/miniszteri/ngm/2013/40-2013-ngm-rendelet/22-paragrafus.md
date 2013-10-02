@@ -1,4 +1,4 @@
-## 21. § Az elemi költségvetésről szóló 10/2013. (III. 13.) NGM rendelet 5. melléklete helyébe az 1. melléklet lép.
+## 21. §[^14]
 
 ## 15. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 23. § d) pontja 2014. január 1-jén lép hatályba.
 
 (3) A 14. § 2014. február 1-jén lép hatályba.
+
+[^14]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

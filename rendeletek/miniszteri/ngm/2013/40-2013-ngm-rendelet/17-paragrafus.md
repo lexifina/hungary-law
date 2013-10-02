@@ -1,3 +1,0 @@
-## 16. § A Kártalanítási Alap javára teljesített befizetéseknek, az Alap kezelésének és az Alap kezelője eredményelszámolásának szabályairól szóló 47/2011. (XII. 21.) NGM rendelet (a továbbiakban: 47/2011. NGM rendelet) 5. §-a helyébe a következő rendelkezés lép:
-
-## „5. § Az Alap kezelője köteles az Alap eredményelszámolását az 1. melléklet szerint elkészíteni és a tárgyévet követő évben a Magyar Nemzeti Bank elnökének a Kártalanítási Alap kezelője adatszolgáltatási kötelezettségének a részletes szabályait megállapító rendeletében meghatározott adatszolgáltatás keretében a Felügyelet részére megküldeni.”

@@ -1,3 +1,0 @@
-## 6. § A 18/2008. PM rendelet 7. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Függő biztosításközvetítői hatósági vizsgával, illetve az R. 2. mellékletében szereplő, 20. sorszámú, „Biztosításközvetítő (függő és független)” megnevezésű részszakképesítéssel – vagy ennek megfelelő – függő biztosításközvetítő szakképesítéssel vagy részszakképesítéssel rendelkező biztosításközvetítő a vizsga megszerzését követő 2 éven belül – a képzés teljesítése nélkül – a 2. számú mellékletben meghatározott független biztosításközvetítői alapismeretek vizsgatárgyra vonatkozó önálló különbözeti vizsga sikeres letételével független biztosításközvetítői tanúsítványt szerezhet.”
