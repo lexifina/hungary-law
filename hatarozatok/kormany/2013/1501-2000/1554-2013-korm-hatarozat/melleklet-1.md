@@ -16,13 +16,17 @@
 
 ## történő szerződéskötést követően azonnal
 
-## 3. felhívja a Miniszterelnökséget vezető államtitkárt, hogy a 2013. évben – a 2014–2020 programozási időszak azonos célt szolgáló operatív programjainak előirányzatai vagy hazai költségvetési forrás terhére, az Európai Bizottság 2007–2013. évi költségvetési ciklust lezáró eljárásrendjében rögzített feltételek figyelembevételével – kötelezettséget vállaljon tárgyi projekt 2007–2013 programozási időszakon túlnyúló költségei finanszírozására az 1. melléklet szerint,
+## 3.[^1] egyetért a KÖZOP-3.5.0-09-11-2013-0011 azonosítószámú [„M4 autópálya Abony–Fegyvernek új Tisza-híddal (kivitelezés)” című] projekt kettő szakaszra bontásával,
 
-## Felelős: Miniszterelnökséget vezető államtitkár
+## 3/A.[^2] elrendeli az a) pont szerinti szakaszok kivitelezéséhez szükséges vállalkozási szerződések megkötését,
 
-## Határidő: a folyamatban lévő feltételes közbeszerzési eljárások eredményeként a nyertes ajánlattevőkkel
+## 3/B.[^3] egyetért azzal, hogy az a) pont szerinti szakaszok tekintetében a vállalkozási szerződések megkötése során a projekt kedvezményezettje jár el,
 
-## történő szerződéskötést követően azonnal
+## 3/C.[^4] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–2020 közötti programozási időszak azonos célt szolgáló operatív programjának Európai Bizottság által történő elfogadása esetén a KÖZOP-3.5.0-09-11 2013-0011 azonosítószámú [„M4 autópálya Abony–Fegyvernek új Tisza-híddal (kivitelezés)” című] projekt 3. pont szerinti második szakaszára vonatkozó támogatási szerződés megkötéséről.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: folyamatos
 
 ## 4. felhívja
 
@@ -45,3 +49,8 @@
 | KÖZOP 2007–2013 (nettó Ft) | XIX. fejezet 2007–2013 (ÁFA + megtérülő rész Ft) | 2014–2020 közötti azonos célt szolgáló operatív program vagy hazai költségvetési forrás a 2015 után felmerülő költségekre (nettó Ft) | Hazai költségvetési forrás a 2015 után felmerülő költségekre (ÁFA + megtérülő rész Ft) |
 
 | KÖZOP-3.5.0- 09-11-2012- 0027 | M4 autópálya Abony- Fegyvernek új Tisza-híddal (kivitelezés) | Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság | 97,44 | Az M4–M8 autópálya csomópontja után kezdődik az M4 gyorsforgalmi út Abony-Fegyvernek szakasza és a Törökszentmiklós keleti csomópont után fejeződik be. A szakasz hossza 28,945 km. | 181 812 878 750 | 111 151 815 522 | 33 719 700 228 | 28 343 042 000 | 8 598 321 000 |
+
+[^1]: A 3. pont az 1694/2013. (X. 2.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: A 3/A. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
+[^3]: A 3/B. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 3/C. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
