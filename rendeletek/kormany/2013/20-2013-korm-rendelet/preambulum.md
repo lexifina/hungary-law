@@ -1,1 +1,0 @@
-A Kormány a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 40. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
