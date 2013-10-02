@@ -1,4 +1,4 @@
-## 1. megállapítja az 1–7. melléklet szerint a regionális operatív programok 2011–2013. évekre szóló akciótervét,
+## 1.[^2]
 
 ## 2. felhívja a Miniszterelnökséget vezető államtitkárt, hogy a Nemzeti Fejlesztési Ügynökség útján biztosítson kiemelt projekt felhívást
 
@@ -26,8 +26,10 @@
 
 ## 4. egyetért azzal, hogy a 3. pontban megjelölt prioritás vonatkozásában a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 29/A–29/C. § szerinti többlet-kötelezettségvállalás csak akkor vehető figyelembe, ha a keret a rendelkezésre álló uniós források összegéig elszámolásra kerül,
 
-## 5.[^1]
+## 5.[^3]
 
-1. melléklet az 1635/2013. (IX. 10.) Korm. határozathoz
+1. melléklet az 1635/2013. (IX. 10.) Korm. határozathoz[^4]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1693/2013. (X. 2.) Korm. határozat 5. pontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1–7. mellékletet az 1693/2013. (X. 2.) Korm. határozat 5. pontja visszavonta.
