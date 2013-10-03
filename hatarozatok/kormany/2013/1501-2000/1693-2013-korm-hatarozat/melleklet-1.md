@@ -24,6 +24,8 @@
 
 ## Határidő: azonnal
 
-## 5. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterve 5. prioritás keretének növeléséről szóló 1635/2013. (IX. 10.) Korm. határozat 1. pontját és 1–7. mellékletét.
+## 5.[^1]
 
 1. melléklet az 1693/2013. (X. 2.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
