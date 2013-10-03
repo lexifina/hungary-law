@@ -1,0 +1,9 @@
+20. § (1) Az előfizetői névjegyzék készítésére kijelölt egyetemes szolgáltató és az egyetemes tudakozó szolgáltató által készített összesített előfizetői névjegyzékek az előfizető hozzájárulása esetén legalább az előfizető azonosításához szükséges adatokat tartalmazzák, különösen az előfizető nevét, lakcímének a szolgáltatóval nyilvánosságra hozatal céljából közölt részét, kapcsolási számát.
+
+(2) Természetes személy előfizető számára az előfizetői szerződés megkötésekor biztosítani kell, hogy az adatok egyetemes szolgáltató részére történő átadása előtt írásban, hangfelvétel útján vagy más elektronikusan rögzített módon rendelkezhessen arról, hogy hozzájárul az adatai előfizetői névjegyzékben, valamint a tudakozóban történő megjelentetéséhez, továbbá arról, hogy milyen adatok feltüntetését kéri.
+
+(3) Az (1) bekezdésben meghatározott adatokon felüli további adat megjelentetését az egyetemes szolgáltató díjfizetéshez kötheti.
+
+(4) Az előfizető díjmentesen kérheti a hozzáférést biztosító szolgáltatójánál, hogy az egyetemes szolgáltatók által készített névjegyzékekben feltüntetésre kerüljön, hogy nem járul hozzá az adatai közvetlen üzletszerzés céljára történő felhasználásához.
+
+(5) Amennyiben az előfizető észleli, hogy az adatai az egyetemes szolgáltató által kiadott névjegyzékben, vagy az egyetemes tudakozóban az előzetes írásbeli hozzájárulásától eltérően szerepelnek, vagy adataiban változás állt be, a telefonszolgáltatójánál jelezheti a változtatásra vonatkozó igényét. A telefonszolgáltató az igényt 5 napon belül köteles továbbítani az érintett egyetemes szolgáltatónak, amely a változást tudakozó esetén 8 napon belül, interneten elérhető előfizetői névjegyzék és az adathordozón kiadott előfizetői névjegyzék esetén a következő frissítéskor, illetve megjelentetéskor köteles átvezetni. A változtatás díjmentes.
