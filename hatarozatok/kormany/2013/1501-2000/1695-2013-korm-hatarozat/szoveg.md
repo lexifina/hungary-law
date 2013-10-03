@@ -1,1 +1,0 @@
-Az egymilliárd forintot meghaladó támogatási igényű GOP projektjavaslatok jóváhagyásáról szóló 1622/2013. (IX. 5.) Korm. határozat 1. mellékletében foglalt táblázat D:3 mezőjében az „1 318 269 967” szövegrész helyébe az „1 190 439 029” szöveg lép.
