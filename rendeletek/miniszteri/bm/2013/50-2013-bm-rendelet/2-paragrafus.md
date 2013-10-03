@@ -14,8 +14,8 @@ f) 50 000 fő feletti lakosságszámú település esetén legfeljebb 1 500 000 
 
 ## összegű támogatást igényelhet.
 
-(1a)[^1] Az (1) bekezdéstől eltérően Ópusztaszer Község Önkormányzata, mint a programsorozat kiemelt helyszíne legfeljebb 5 000 000 forint összegű támogatásban részesülhet.
+(1a)[^2] Az (1) bekezdéstől eltérően Ópusztaszer Község Önkormányzata, mint a programsorozat kiemelt helyszíne legfeljebb 5 000 000 forint összegű támogatásban részesülhet.
 
 (2) A települési önkormányzatok lakosságszámát a 2013. január 1-jei állapotnak megfelelően, a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala adatai alapján kell figyelembe venni.
 
-[^1]: A 2. § (1a) bekezdését az 51/2013. (IX. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. § (1a) bekezdését az 51/2013. (IX. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
