@@ -4,18 +4,18 @@
 
 (2) Az igénylő az Eht. 117. § a) pontja szerinti egyetemes szolgáltatás igénybevételére vonatkozó szándékát (a továbbiakban: igénybejelentés) a szolgáltató általános szerződési feltételeiben rögzített módon, legalább két lehetséges mód közül választva – melyek közül legalább egy hangalapú és egy írásos – teheti meg. Az igénybejelentés különösen ügyfélszolgálaton személyesen, postai úton vagy interneten keresztül elérhető elektronikus űrlap kitöltésével vagy a telefonos ügyfélszolgálaton keresztüli bejelentéssel történhet.
 
-(3) Az igénybejelentést a szolgáltató írásban vagy elektronikus úton rögzíti és nyilvántartásba veszi. Amennyiben szükséges, a szolgáltató az igénylőt 15 napos határidő tűzésével az igénybejelentéssel azonos módon felkéri adathiány esetén az igénybejelentés megfelelő kiegészítésére, vagy az egyetemes elektronikus hírközlési szolgáltatás nyújtásának részletes pénzügyi és műszaki feltételeiről és követelményeiről szóló 97/2010. (III. 31.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. § (1) bekezdés c)–d) pontja szerinti nyilatkozat megtételére, amelyet írásban vagy elektronikus úton rögzít. Ha az igénylő igénybejelentését a 15 napos határidőn belül nem egészíti ki, a szolgáltató az igénybejelentést törli a nyilvántartásból.
+(3)[^6] Az igénybejelentést a szolgáltató írásban vagy elektronikus úton rögzíti és nyilvántartásba veszi. Amennyiben szükséges, a szolgáltató az igénylőt 15 napos határidő tűzésével az igénybejelentéssel azonos módon felkéri adathiány esetén az igénybejelentés megfelelő kiegészítésére, vagy az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról szóló 13/2013. (IX. 25.) NMHH rendelet (a továbbiakban: NMHH rendelet) 11. § (1) bekezdés c)–d) pontja szerinti nyilatkozat megtételére, amelyet írásban, hangfelvétel útján vagy más elektronikus formában rögzít. Ha az igénylő igénybejelentését a 15 napos határidőn belül nem egészíti ki, a szolgáltató az igénybejelentést törli a nyilvántartásból.
 
 (4) A szolgáltató az igénybejelentő számára ajánlatot tehet olyan más, nem egyetemes elektronikus hírközlési szolgáltatásra vagy szolgáltatási csomagra is, amely az igényelt előfizetői hozzáférési ponton keresztül biztosítja legalább az általa igényelt szolgáltatások elérését.
 
-(5) A szolgáltató az igénybejelentés rögzítésétől számított 15 napon belül az igénybejelentéssel azonos, vagy a szolgáltató által felkínált lehetőségek közül választva az igénybejelentő által kért módon értesíti az igénylőt
+(5)[^7] A szolgáltató az igény elutasításáról, az igény hiánytalan beérkezését követő 15 napon belül, indoklással ellátva, írásban értesíti az igénylőt
 
-a) az igény elfogadásáról vagy
+a) az igény elfogadásáról, vagy
 
-b) az igény Eht. 118. § (4) bekezdése visszautasításáról és a Korm. rendelet 3. § (2)–(3) bekezdésében szabályozott, az igénylőt megillető eljárásról, ha a visszautasítás Korm. rendelet 3. § (1) bekezdésében foglalt valamely feltétel fennáll.
+b) az igény NMHH rendelet 11. § (1) bekezdése szerinti elutasításáról.
 
-(6) Amennyiben a szolgáltató az igénybejelentést elfogadja,
+(6)[^8] Amennyiben az egyetemes szolgáltató az igénybejelentést elfogadja, az igénybejelentés elfogadásával egyidejűleg megjelöli, hogy az Eht. 117. § a) pontja szerinti nyilvános telefonhálózathoz való hozzáférés biztosítására milyen határnaptól vállal kötelezettséget. Ezen határnap nem lehet későbbi mint az igénybejelentés elfogadásától számított 90. nap, kivéve, ha a létesítendő előfizetői hozzáférési pont kiépítése közigazgatási hatósági eljárást vagy az Eht. 95. §-a szerinti szolgalmi vagy használati jog alapítására vonatkozó eljárást igényel. Ebben az esetben a határnap nem lehet későbbi mint a közigazgatási hatósági eljárás, vagy az Eht. 95. §-a szerinti szolgalmi vagy használati jog alapítására vonatkozó eljárás befejezésétől számított 90. nap.
 
-a) megküldi az igénylőnek az egyedi előfizetői szerződés két aláírt példányát,
-
-b) a szerződés jogszabályban meghatározott határidőn belüli teljesítése műszaki feltételeinek hiánya esetén írásban értesíti az igénylőt arról, hogy az előfizetői szerződés megkötésére milyen határidővel (év, hó, nap) vállal kötelezettséget, amely a 3 hónapot nem haladhatja meg.
+[^6]: A 25. § (3) bekezdése a 13/2013. (IX. 25.) NMHH rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^7]: A 25. § (5) bekezdése a 13/2013. (IX. 25.) NMHH rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^8]: A 25. § (6) bekezdése a 13/2013. (IX. 25.) NMHH rendelet 32. § (3) bekezdésével megállapított szöveg.
