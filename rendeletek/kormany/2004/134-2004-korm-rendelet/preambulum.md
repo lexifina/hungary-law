@@ -1,1 +1,0 @@
-A Kormány az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 182. §-a (2) bekezdésének j) pontjában foglalt felhatalmazás alapján – az Eht. 122. §-ában foglaltakra figyelemmel – a következőket rendeli el:
