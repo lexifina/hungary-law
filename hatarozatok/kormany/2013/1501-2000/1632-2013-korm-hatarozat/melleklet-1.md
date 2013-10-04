@@ -24,12 +24,14 @@
 
 ## Határidő: a 2014. évi központi költségvetés tervezése
 
-## 4. felhívja a vidékfejlesztési minisztert, valamint a nemzetgazdasági minisztert, hogy gondoskodjon a Nemzeti Lovarda létesítményfejlesztés megvalósításához szükséges – 2014. évben 600,0 millió forint, 2015. évben 1340,0 millió forint – forrásoknak a központi költségvetés tervezése során a Vidékfejlesztési Minisztérium fejezetben történő biztosításáról.
+## 4.[^2] felhívja a nemzeti fejlesztési minisztert, valamint a nemzetgazdasági minisztert, hogy a Nemzeti Lovarda létesítményfejlesztés megvalósításához szükséges – 2014. évben 600,0 millió forint, 2015. évben 1340,0 millió forint – forrásoknak a központi költségvetés tervezése során Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben történő biztosításáról gondoskodjanak.
 
-## Felelős: vidékfejlesztési miniszter
+## Felelős: nemzeti fejlesztési miniszter
 
 ## nemzetgazdasági miniszter
 
 ## Határidő: a 2014. évi és a 2015. évi központi költségvetés tervezése
 
 1. melléklet az 1632/2013. (IX. 10.) Korm. határozathoz
+
+[^2]: A 4. pont az 1700/2013. (X. 4.) Korm. határozat 2. pontjával megállapított szöveg.
