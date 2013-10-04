@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (6) bekezdése alapján a szakközépiskolák és a Magyar Kajak-Kenu Szövetség támogatásához szükséges 2852,7 millió forint 2. melléklet szerinti átcsoportosítását rendeli el elszámolási a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 6. Mezőgazdasági középfokú szakoktatás intézményei cím és XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére;
+## 2.[^1] az Áht. 21. § (6) bekezdése alapján a szakközépiskolák és a Magyar Kajak-Kenu Szövetség támogatásához szükséges 2852,7 millió forint 2. melléklet szerinti átcsoportosítását rendeli el elszámolási a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: Kvtv.) 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 6. Mezőgazdasági középfokú szakoktatás intézményei cím és XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 3. Rendkívüli kormányzati intézkedések cím terhére;
 
 ## Felelős: átcsoportosításért: nemzetgazdasági miniszter
 
@@ -14,8 +14,10 @@
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2013. június 30.
+## Határidő: 2014. június 30.
 
 ## 3. a lakosság állampapír állományának növeléséhez szükséges intézkedésekről szóló 1101/2012. (IV. 5.) Korm. határozatban (a továbbiakban: H.) – az elszámolásra és a visszafizetési kötelezettség teljesítésére meghatározott határidőtől eltérően – a H. alapján átcsoportosított előirányzattal kapcsolatos elszámolásra és a fel nem használt részre vonatkozó visszafizetési kötelezettség teljesítésére 2013. június 30-i határnapot állapít meg.
 
 1. melléklet az 1646/2012. (XII. 19.) Korm. határozathoz
+
+[^1]: A 2. pont az 1700/2013. (X. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
