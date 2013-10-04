@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-8-20-22
 | --- | --- | --- |
 | 2008-07-01 | 2006-8-20-22.2 | 8/2006. (I. 13.) Korm. rendelet |
 | 2013-09-08 | 2006-8-20-22.3 | 328/2013. (IX. 3.) Korm. rendelet |
+| 2013-10-04 | 2006-8-20-22.4 | 328/2013. (IX. 3.) Korm. rendelet |
