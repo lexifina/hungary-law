@@ -82,7 +82,7 @@
 
 ## a) a Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ beruházás előkészítési feladatainak támogatásához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1539/2013. (VIII. 15.) Korm. határozat (a továbbiakban: Korm. határozat) szerint átcsoportosított előirányzat visszarendezését rendeli el a 2. melléklet szerint,
 
-## b) a Korm. határozatot és 1. mellékletét visszavonja,
+## b)[^1]
 
 ## c) a Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ beruházás előkészítési feladatainak támogatásához 50,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 4. A vagyongazdálkodás egyéb kiadásai alcím, 1. Tanácsadók, értékbecslők és jogi képviselők díja jogcímcsoport, 2. Az MNV Zrt. tevékenységével kapcsolatos egyéb kiadások jogcím javára, a 3. melléklet szerint.
 
@@ -98,18 +98,9 @@
 
 ## Határidő: 2013. december 15.
 
-## 2. A 2012. évi kötelezettségvállalással nem terhelt előirányzat-maradványok egy részének felhasználásáról szóló 1632/2013. (IX. 10.) Korm. határozat 4. pontja helyébe a következő rendelkezés lép:
-
-## „4. felhívja a nemzeti fejlesztési minisztert, valamint a nemzetgazdasági minisztert, hogy a Nemzeti Lovarda létesítményfejlesztés megvalósításához szükséges – 2014. évben 600,0 millió forint, 2015. évben 1340,0 millió forint – forrásoknak a központi költségvetés tervezése során Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben történő biztosításáról gondoskodjanak.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: a 2014. évi és a 2015. évi központi költségvetés tervezése”
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1439/2012. (X. 11.) Korm. határozatban a „2013. június 30.” szövegrész helyébe a „2013. december 31.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és kormányhatározat módosításról szóló 1646/2012. (XII. 19.) Korm. határozat 2. pontjában a „2013. június 30.” szövegrész helyébe a „2014. június 30.” szöveg lép.
+## 2–4.[^2]
 
 1. melléklet az 1700/2013. (X. 4.) Korm. határozathoz
+
+[^1]: Az 1. pont 1.10. alpont b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
