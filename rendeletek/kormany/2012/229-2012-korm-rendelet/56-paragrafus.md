@@ -1,5 +1,6 @@
-## 51–55. §[^69]
+## 51–55. §[^78]
 
-## 20. Hatályon kívül helyező rendelkezések
+## 20.[^79]
 
-[^69]: Az 51–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: Az 51–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

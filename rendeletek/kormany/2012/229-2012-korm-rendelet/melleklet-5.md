@@ -14,6 +14,6 @@
 
 |  |  | jegyző |  |  | polgármester |  |  |
 
-5. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^77]
+5. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^88]
 
-[^77]: Az 5. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^88]: Az 5. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

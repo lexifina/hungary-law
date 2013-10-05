@@ -1,5 +1,6 @@
-## 56. §[^70]
+## 56. §[^80]
 
-## 21. Hatályba nem lépésről szóló rendelkezések
+## 21.[^81]
 
-[^70]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 21. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
