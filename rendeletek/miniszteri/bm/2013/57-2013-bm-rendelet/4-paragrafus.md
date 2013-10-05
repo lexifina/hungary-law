@@ -1,0 +1,3 @@
+4. § (1) A támogatást a települési önkormányzat ±5% elfogadott tűréshatárú, átlagosan 100 cm hosszú, 5–35 cm átmérőjű tűzifának a fővárosi és a megyei kormányhivatal erdészeti igazgatóságai által nyilvántartott erdőgazdálkodóktól (a továbbiakban: erdőgazdálkodó) történő megvásárlására fordíthatja. Kemény lombos vastag tűzifa esetében a megvásárolt tűzifa mennyiségének legfeljebb 5%-a lehet a nem kemény lombos fajokból származó fafajta.
+
+(2) A települési önkormányzat a támogatott mennyiségnél többet is vásárolhat az erdőgazdálkodótól, ha az (1) bekezdésben meghatározott minőségi követelményeknek megfelelő tűzifát az 1. § (2) bekezdésében meghatározott árnál kedvezőbb feltételekkel tudja beszerezni.
