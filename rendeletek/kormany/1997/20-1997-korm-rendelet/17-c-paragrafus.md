@@ -1,1 +1,0 @@
-## A központi költségvetési szervként működő felsőoktatási intézmény által fenntartott közoktatási intézmény normatív hozzájárulásának és támogatásának igénylése, folyósítása, elszámolása és ellenőrzése
