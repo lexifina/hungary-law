@@ -1,4 +1,4 @@
-## 2. §[^5] Az Nkt. 83–85. §-ában foglalt, oktatási intézményekre vonatkozó fenntartói jogköröket – a közoktatási intézmény létesítése, megszüntetése, tevékenységi körének megállapítása és módosítása, az igazgató megbízása és felmentése, a központi képzési program jóváhagyása, a szervezeti és működési szabályzat jóváhagyása, valamint az alapító okirat jóváhagyása kivételével – a Körmendi Rendészeti Szakközépiskola, a Miskolci Rendészeti Szakközépiskola és a Szegedi Rendészeti Szakközépiskola vonatkozásában az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) vezetője, az Adyligeti Rendészeti Szakközépiskola vonatkozásában a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóság vezetője gyakorolja.
+## 2. §[^5] Az Nkt. 83–85. §-ában foglalt, oktatási intézményekre vonatkozó fenntartói jogköröket – a közoktatási intézmény létesítése, megszüntetése, tevékenységi körének megállapítása és módosítása, az igazgató megbízása és felmentése, a központi képzési program jóváhagyása, a szervezeti és működési szabályzat jóváhagyása, valamint az alapító okirat jóváhagyása kivételével – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) vezetője gyakorolja.
 
 3. § (1)[^6] A hivatásos állományú pedagógus szolgálatteljesítési idejének meghatározásakor – az Nkt. kötelező óraszámokra vonatkozó rendelkezéseinek figyelembevételével – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 84–85. §-ait kell alkalmazni.
 
@@ -6,6 +6,6 @@
 
 (3) A pedagógus minden tanévben valamely rendvédelmi szervnél vagy oktatási intézménynél szakmai konzultáción (gyakorlaton) köteles részt venni a szakközépiskola által meghatározottak szerint.
 
-[^5]: A 2. § a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 1. §-ával megállapított és a 81/2012. (XII. 28.) BM rendelet 13. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
+[^5]: A 2. § a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 1. §-ával megállapított, a 81/2012. (XII. 28.) BM rendelet 13. § (2) bekezdés b) pontja, az 57/2013. (X. 4.) BM rendelet 9. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 13. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^7]: A 3. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 13. § (2) bekezdés e) pontja és (3) bekezdés a) pontja szerint módosított szöveg.
