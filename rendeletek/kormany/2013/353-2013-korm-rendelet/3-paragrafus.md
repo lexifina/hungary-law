@@ -1,0 +1,305 @@
+## 2. § Az R. a következő III/A. Fejezettel egészül ki:
+
+## „III/A. FEJEZET
+
+## A NEM ÁLLAMI KÖZNEVELÉSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ TÁMOGATÁSOK IGÉNYLÉSE, FOLYÓSÍTÁSA, ELSZÁMOLÁSA ÉS ELLENŐRZÉSE
+
+## 16/A. Értelmező rendelkezések
+
+## 37/A. § E Fejezet alkalmazásában
+
+## a) tárgyév: az a naptári év, amelyre tekintettel a támogatást megállapítják, illetve folyósítják,
+
+## b) új köznevelési intézmény: az a köznevelési intézmény, amelyre vonatkozóan a fenntartó első alkalommal nyújt be igénylést támogatásokra.
+
+## 16/B. Az átlagbér alapú támogatás, gyermek- és tanulóétkeztetéshez nyújtott támogatás és a tankönyvtámogatás igénylése
+
+## 37/B. § (1) Az átlagbér alapú támogatás az után a nevelési-oktatási intézményben vagy pedagógiai szakszolgálati intézményben (a továbbiakban együtt: köznevelési intézmény), a gyermek- és tanulóétkeztetéshez nyújtott támogatás és a tankönyvtámogatás a nevelési-oktatási intézményben nevelt, oktatott olyan gyermek, tanuló után vehető igénybe,
+
+## a) aki szerepel a felvételi és mulasztási vagy beírási naplóban,
+
+## b) akiről kiállították a törzslapot, óvodában és kollégiumban a törzskönyvet,
+
+## c) akinek jelenlétéről, távolmaradásáról külön jogszabályban meghatározott nyilvántartást vezetnek és
+
+## d) aki rendelkezik oktatási azonosító számmal.
+
+## (2) Az átlagbér alapú támogatás, a gyermek- és tanulóétkeztetéshez nyújtott támogatás és a tankönyvtámogatások (a továbbiakban: támogatások) igénybevételének feltétele, hogy
+
+## a) a köznevelési intézmény
+
+## aa) rendelkezzen OM azonosítóval,
+
+## ab) működési engedélyében szerepeljen az igényjogosultságot megalapozó alapfeladat,
+
+## ac) a nemzetiségi önkormányzat, az egyházi jogi személy, a vallási tevékenységet végző szervezet, az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartó és a nem állami felsőoktatási intézmény (a továbbiakban együtt: fenntartó) ne lépje túl a működési engedélyében meghatározott maximális gyermek- és tanulólétszámot és
+
+## ad) alkalmazottja és óraadója szerepeljen a KIR személyi nyilvántartásában,
+
+## b) – nevelési-oktatási intézmény esetében – a nevelési-oktatási intézménnyel létesített óvodai, tanulói, kollégiumi tagsági jogviszony szerepeljen a KIR személyi nyilvántartásában,
+
+## c) – szakképző iskola és az alapfokú művészeti iskola esetében – a fenntartó rendelkezzen a tanuló, kiskorú tanuló esetén a szülő 37. § (4) bekezdése szerinti nyilatkozatával,
+
+## d) – pedagógiai szakszolgálati intézmény esetében – az átlagbér alapú támogatás feltétele, hogy a pedagógiai szakszolgálati intézményben ellátott gyermek, tanuló szerepeljen a pedagógiai szakszolgálati intézmények működéséről szóló 15/2013. (II. 26.) EMMI rendelet (a továbbiakban: EMMI rendelet) szerinti nyilvántartásban.
+
+## (3) Az (1) bekezdést és a (2) bekezdés a), b) és c) pontját a külföldi nevelési-oktatási intézményre és a nemzetközi nevelési-oktatási intézményre is alkalmazni kell.
+
+## 37/C. § (1) A fenntartó a támogatásokra vonatkozó kérelmét a tárgyévet megelőző év október 31-éig a kincstár fenntartó székhelye szerint területileg illetékes megyei igazgatóságához (e Fejezet alkalmazásában a továbbiakban: Igazgatóság) nyújthatja be. E határidő elmulasztása jogvesztő.
+
+## (2) A kérelmet
+
+## a) az átlagbér alapú támogatásra vonatkozóan
+
+## aa) nevelési-oktatási intézmény esetében a tárgyévet megelőző év október 1-jei ténylétszám,
+
+## ab) a pedagógiai szakszolgálati intézmény esetében az ellátott gyermekek, tanulók egy évre számított havonkénti átlaglétszámának éves összesített, tízzel elosztott becsült létszáma,
+
+## b) a tankönyvtámogatásra vonatkozóan a tárgyévet megelőző év október 1-jei ténylétszám,
+
+## c) a gyermek és tanulóétkeztetéshez nyújtott támogatásra vonatkozóan a központi költségvetésről szóló törvényben meghatározott létszám
+
+## alapján, a miniszter és a kincstár által közösen meghatározottak szerint és a kincstár honlapján közzétett adatlapon kell benyújtani köznevelési intézményi, fenntartói szinten összesített formában, – a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak kivételével – ügyviteli feladatot ellátó feladatellátási helyenként.
+
+## (3) A (2) bekezdés a) pont ab) alpontja szerinti éves átlaglétszámot feladattípusonként, a hetente ellátott gyermek-, tanulólétszám alapján kell megállapítani. A heti ellátotti létszám megállapításánál egy gyermek, tanuló csak egyszer vehető figyelembe tekintet nélkül arra, hogy a hét egy vagy több napján, egyéni vagy csoportos foglalkozás keretében biztosították számára az Nkt.-ban és az EMMI rendeletben foglalt követelményeknek megfelelő időkeretekben az ellátást. Új pedagógiai szakszolgálati intézmény esetén átlaglétszámként a becsült létszámot kell alapul venni.
+
+## (4) A fenntartó a létszám
+
+## a) változása miatt az átlagbér alapú támogatás és gyermek- és tanulóétkeztetéshez nyújtott támogatás módosítását a tárgyév február 28-áig, június 30-áig és október 31-éig,
+
+## b) változása miatt a tankönyvtámogatás módosítását a tárgyév június 30-áig
+
+## kezdeményezheti.
+
+## (5) Ha az (1) bekezdés szerinti kérelem tartalma a tárgyévre elfogadott központi költségvetésről szóló törvénytől eltér, a fenntartó a kérelmet erre hivatkozással a tárgyév január 20-áig a (2) bekezdésében meghatározott módon módosíthatja.
+
+## 37/D. § (1) Új köznevelési intézmény alapításával vagy átvételével összefüggő kérelmet a tárgyév augusztus 31-éig, évközben létesített óvoda, kollégium esetén a működés megkezdését követő tizenötödik napig lehet benyújtani. E határidő elmulasztása jogvesztő.
+
+## (2) A kérelmet köznevelési intézmény
+
+## a) alapítása esetén az új nevelési évre, tanévre beiratkozott,
+
+## b) átvétele esetén az átadó fenntartó által jogcímenként összeállított és hitelesített, a lemondással vagy átcsoportosítással érvényesített vagy az augusztus havi támogatások alapjául szolgáló létszámokról szóló kimutatást, valamint az új nevelési évre, tanévre beiratkozott és a köznevelési intézménnyel jogviszonyban álló
+
+## gyermekek, tanulók létszáma alapján, a 37/C. § (2) bekezdése szerinti adatlapon kell benyújtani.
+
+## (3) A fenntartó az (1) bekezdés szerinti kérelemhez csatolja
+
+## a) a képviseletére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát – az (5) bekezdés kivételével –, adószámát, valamennyi fizetési számlája bankszámlaszerződésének hiteles másolatát, több fizetési számla esetén annak a fizetési számlának a megjelölésével, amelyre a támogatások folyósítását kéri,
+
+## b) a köznevelési intézmény nyilvántartásba vételéről szóló jogerős határozatot, költségvetési szerv esetén a törzskönyvi bejegyzésről szóló határozatot, a jogerős működési engedélyt, alapító okiratot, fizetési számlaszámot, adószámot,
+
+## c) valamennyi fizetési számlájára vonatkozó felhatalmazó nyilatkozatát beszedési megbízás benyújtására,
+
+## d) nyilatkozatát arról, hogy sem neki, sem a köznevelési intézménynek nincs harminc napon túli köztartozása,
+
+## e) szakképző iskola esetén az illetékes kormányhivatallal kötött szakképzési megállapodást, valamint
+
+## f) pedagógiai szakszolgálati feladat ellátása esetén a miniszterrel kötött köznevelési szerződést.
+
+## (4) Ha a fenntartó a (3) bekezdésben meghatározott okiratokat a támogatásokkal összefüggésben korábban az Igazgatósághoz benyújtotta, a kérelemhez azokat az okiratokat kell csatolnia, amelyeket változás érintett.
+
+## (5) Ha a fenntartó cégjegyzékben nyilvántartott cég és a képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az Igazgatóság az iratot elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+## (6) Az OM azonosítót az Igazgatóság a KIR nyilvános felületén ellenőrzi, az igénylésekkel összefüggő új és módosított adatokat a KIR-ből átveszi. Ha a fenntartó a KIR-ben tárolt okiratokat nem küldi meg, azokat az Igazgatóság a Hivataltól megkéri.
+
+## 37/E. § (1) A kincstár a 37/C. § (1) bekezdése és 37/D. § (1) bekezdése szerinti kérelem adatairól a tárgyév február 15-éig fenntartó típusonkénti bontásban, egyházi jogi személyek esetében bevett egyházanként összesítve, országos, fővárosi, megyei összesítésben, alap- és szakfeladat szerinti részletezéssel tájékoztatja a minisztert.
+
+## (2) A kincstár az (1) bekezdés szerinti részletezéssel küldi meg a miniszter részére
+
+## a) a negyedéves keretigényt a tárgynegyedévet,
+
+## b) a keretigényen felül jelentkező pótigényt a tárgyhót
+
+## megelőző hónap tizedik napjáig.
+
+## 16/C. A támogatások megállapítása, folyósítása és a fenntartói változás-bejelentés
+
+## 37/F. § (1) Az Igazgatóság a rendelkezésére álló okiratok alapján
+
+## a) – a b) pontban meghatározott kivétellel –
+
+## aa) az átlagbér alapú támogatást és a tankönyvtámogatást a tárgyév január–augusztus és szeptember–december hónapjára két tizedesjegyre kerekítve 8/12 és 4/12 arányban,
+
+## ab) a gyermek- és tanulóétkeztetéshez nyújtott támogatást a központi költségvetésről szóló törvényben foglaltak szerint,
+
+## b) az évközben létesített óvoda, kollégium esetén a működés első teljes hónapjától kezdve
+
+## állapítja meg a fenntartót megillető támogatásokat.
+
+## (2) Az Igazgatóság támogatások megállapításával kapcsolatos döntése ellen benyújtott fellebbezést a miniszter bírálja el.
+
+## (3) A támogatásokat megállapító határozat a támogatásokkal összefüggésben tartalmazza
+
+## a) az igényléssel érintett köznevelési intézmények hivatalos nevét és OM azonosítóját, köznevelési intézményenként a támogatások igénybevételének alapjául szolgáló gyermek- és tanulólétszámot, a tankönyvtámogatás és a gyermek- és tanulóétkeztetéshez nyújtott támogatás esetén az átlaglétszámot és az ezek alapján számított pedagógus, a nevelő-, oktató munkát közvetlenül segítő munkakörben foglalkoztatottak létszámát, továbbá a köznevelési intézmény működési engedély számát,
+
+## b) a megállapított támogatások körét, mértékét jogcímenként és köznevelési intézményenként,
+
+## c) a fenntartónak megállapított támogatások teljes, valamint az egyes jogcímekre meghatározott összegét,
+
+## d) a folyósítás ütemét,
+
+## e) a támogatások elszámolásának határidejét és módját, valamint
+
+## f) a támogatások felhasználásának elszámolása és ellenőrzése rendjéről, a tartozás és a köztartozás esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
+
+## 37/G. § (1) A fenntartó a támogatások felhasználását, az ingyenesség, tandíj, térítési díj megállapításával, beszedésével kapcsolatos rendelkezéseket, okiratokat alapfeladatonkénti bontásban elkülönítetten és naprakészen tartja nyilván. Az adatok valódiságát az egyes fenntartónál, köznevelési intézménynél megfelelő nyilvántartással, szakmai és pénzügyi dokumentációval kell alátámasztani. A fenntartó a nyilvántartás kialakításáról akként gondoskodik, hogy abból megállapítható legyen, hogy a támogatások milyen határnappal kerültek átadásra és milyen célra kerültek felhasználásra.
+
+## (2) A fenntartó az ellenőrzésre feljogosított szervek megkeresésére – az ellenőrzésre nyitva álló határidő leteltéig – az ellenőrzés lefolytatásához szükséges tájékoztatást köteles megadni, a kért dokumentumokat rendelkezésre bocsátani, a helyszíni ellenőrzést lehetővé tenni. A betekintést akkor is biztosítani kell, ha az intézményi és a köznevelési intézmény fenntartásával összefüggő fenntartói könyvvezetési, beszámoló-készítési kötelezettséget a köznevelési intézményen és fenntartón kívüli más szervezet látja el.
+
+## 37/H. § (1) A fenntartó nyolc napon belül változás-bejelentést küld az Igazgatóság részére, ha a köznevelési intézmény feladataiban vagy más nyilvántartott adataiban változás következett be. Ha a változás a KIR adattartalmát is érinti, az Igazgatóság erről – az eltérés okának bemutatásával – tájékoztatja a Hivatalt.
+
+## (2) Ha az Igazgatóság a nyilvántartásában szereplő adatokban a támogatásokra való jogosultságot érintő változtatást tapasztal, adategyeztetést kezdeményez a fenntartóval és szükség esetén a Hivatallal. Ha a változtatás a támogatások jogosulatlan igénybevételéhez vezethet, az Igazgatóság az igénylés módosítására hívja fel a fenntartót. Ha a fenntartó az igénylést nem módosítja, az Igazgatóság a rendelkezésére álló adatok alapján állapítja meg az esetleges eltérést.
+
+## (3) Ha a fenntartó székhelye a kérelem benyújtását követően megváltozik, az e rendeletben meghatározott eljárási cselekményeket az új székhely szerinti Igazgatóság a tárgyév január 1-jétől végzi.
+
+## 37/I. § (1) A fenntartó a csődeljárás, végelszámolás, felszámolási eljárás megindítását követő nyolc napon belül köteles bejelenteni az Igazgatóságnak az eljárás megindítását. A bejelentéshez csatolni kell az eljárás megindításáról hivatalos lapban közzétett értesítőt, kimutatást a hó végi ténylétszám adatokról, az értesítő közzétételét megelőző és elszámolással nem érintett hónapokról havi-, jogcím-, feladatellátási hely bontásban.
+
+## (2) A fenntartó a köznevelési alapfeladat-ellátásának, köznevelési intézményének megszüntetésre, szüneteltetésére vonatkozó döntéséről és a megszüntetés, szüneteltetés kezdő időpontjáról a döntést követő nyolc napon belül értesíti az Igazgatóságot és a megszűnés, szünetelés napjától számított nyolc napon belül a kincstár honlapján közzétett évközi elszámoló adatlap alapján elszámol az igénybe vett támogatásokkal.
+
+## (3) Az illetékes kormányhivatal tájékoztatja a fenntartó székhelye szerinti Igazgatóságot, ha hivatalos tudomása van köznevelési intézmény megszűnéséről, köznevelési alapfeladat-ellátás szüneteltetéséről vagy fenntartóváltásról. Az illetékes kormányhivatal a tájékoztatással egyidejűleg közli az Igazgatósággal a köznevelési intézmény megszűnéséről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a nyilvántartásból való törlésről vagy a fenntartó-váltás tudomásulvételéről szóló jogerős döntését.
+
+## 37/J. § (1) A támogatásokat az Igazgatóság havi ütemezésben, a tárgyhó hetedik napjáig folyósítja.
+
+## (2) A 37/D. § (1) bekezdése szerinti esetben a támogatások folyósítására a kérelem benyújtására meghatározott határidő lejártát követő második hónaptól kezdődően kerül sor.
+
+## 37/K. § Ha a fenntartónak két egymást követő hónapban lejárt köztartozása van és annak mértéke nagyobb a fenntartónak megállapított hat havi támogatások összegénél, az Igazgatóság erről tájékoztatja a működést engedélyező szervet és a minisztert.
+
+## 16/D. A támogatások elszámolása és ellenőrzése
+
+## 37/L. § (1) A fenntartó
+
+## a) az átlagbér alapú támogatással
+
+## aa) nevelési-oktatási intézmény esetében a tárgyévet megelőző év október 1-jei ténylétszám és a tárgyév október 1-jei ténylétszám,
+
+## ab) pedagógiai szakszolgálati intézmény esetében a 37/C. § (3) bekezdésében meghatározott módon azzal, hogy a becsült létszám helyett a gyermekek és tanulók ténylétszáma,
+
+## b) a tankönyvtámogatás esetében a tankönyvtámogatásban részesült tanulólétszám,
+
+## c) a gyermek- és tanulóétkeztetéshez nyújtott támogatás esetében a központi költségvetésről szóló törvényben meghatározott létszám
+
+## alapján, a 37/C. § (4) bekezdése szerinti esetben a változással érintett létszám alapján a kincstár és a miniszter által közösen meghatározott és a kincstár honlapján közzétett adatlapon köznevelési intézményi, feladatellátási helyenkénti, valamint fenntartói szinten összesített módon számol el.
+
+## (2) Az elszámoláshoz csatolni kell a pedagógus- és nevelő-oktató munkát segítő munkakörben a tárgyévben foglalkoztatottakkal kapcsolatban a fenntartói nyilatkozatot arról, hogy az illetmények, bérek, és ezek járulékai megfizetésre kerültek.
+
+## (3) A fenntartó az (1) bekezdés szerinti adatlap benyújtásával egyidejűleg a tárgyévet megelőző év október 1-jén, illetve a tárgyév október 1-jén a köznevelési intézménnyel jogviszonyban álló gyermek és tanuló oktatási azonosító számát – köznevelési intézményi, feladatellátási helyenkénti bontásban, táblázatos vagy a KIR-ből kinyomtatott, a fenntartó által hitelesített formában – az Igazgatóság rendelkezésére bocsátja.
+
+## (4) A támogatások elszámolásánál nem lehet figyelembe venni azt a nem tanköteles tanulót, akinek a tanulói jogviszonya félévkor megszűnt vagy a tanulói jogviszony megszűnését – jogszabály alapján – meg kellett volna állapítani.
+
+## (5) Ha a fenntartó az elszámolási kötelezettségének nem tesz eleget, az Igazgatóság nyolc napos határidő kitűzésével felhívja az elszámolási kötelezettség teljesítésére. Ha a fenntartó a felhívásnak határidőben nem tesz eleget, a támogatások folyósítását az Igazgatóság felfüggeszti és az elszámolással érintett évben, valamint a tárgyévben folyósított támogatások visszafizetésére és igénybevételi kamat megfizetésére kötelezi.
+
+## 37/M. § (1) A fenntartó igénybevételi kamatot fizet az általa jogosulatlanul igénybe vett támogatások után. A jogosulatlan igénybevétel kezdő napja a támogatások fenntartó fizetési számláján történő jóváírásának napja.
+
+## (2) Jogosulatlan igénybevételnek minősül, ha
+
+## a) a fenntartó a támogatások igénybevételéhez valótlan adatot szolgáltatott,
+
+## b) a fenntartó az igénybe vett támogatásokat nem a jogszabályban meghatározott célra használta fel,
+
+## c) a fenntartó által igénybe vett támogatások legalább három százalékkal meghaladják a fenntartót ténylegesen megillető támogatások összegét,
+
+## d) a fenntartó a támogatásokra vonatkozóan jogszabályban meghatározott valamely feltételt megszegett.
+
+## (3) Az igénybevételi kamat mértéke
+
+## a) – ha az igényelt támogatásokról – a fenntartó a tárgyév
+
+## aa) február 28-áig lemond, a jegybanki alapkamat 25%-a,
+
+## ab) június 30-áig lemond, a jegybanki alapkamat 50%-a,
+
+## ac) október 31-éig lemond, a jegybanki alapkamat,
+
+## b) a jegybanki alapkamat kétszerese, ha
+
+## ba) a visszafizetési kötelezettség az elszámolás során keletkezik,
+
+## bb) a jogosulatlan igénybevételt az Igazgatóság a 37/O. § szerinti ellenőrzés során vagy az Állami Számvevőszék által végzett ellenőrzés alapján állapítja meg.
+
+## (4) Új fenntartó esetén az igénybevételi kamat mértéke az (3) bekezdésben meghatározott kamatmértéknek a tárgyévi finanszírozás időtartamának figyelembevételével számított időarányos része. Megszűnt fenntartó esetén az igénybevételi kamat mértéke a jegybanki alapkamat kétszeresének a tárgyévi finanszírozás időtartamának figyelembevételével számított időarányos része, ha a visszafizetési kötelezettség az elszámolás során keletkezik, vagy a jogosulatlan igénybevételt az Igazgatóság ellenőrzése során állapítja meg.
+
+## (5) Ha a jogosulatlanul igénybe vett támogatások összege nem haladja meg az ötszázezer forintot, az igénybevételi kamat mértéke a (3) bekezdésben meghatározott kamatmérték 50%-a.
+
+## (6) E § alkalmazásában jegybanki alapkamaton a támogatások igénybevételét megállapító döntés napját magában foglaló naptári félévet megelőző utolsó napon érvényes jegybanki alapkamatot kell érteni.
+
+## 37/N. § (1) Az elszámolás alapján hozott határozat tartalmazza
+
+## a) a 37/F. § (3) bekezdés a)–c) pontjában meghatározott adatokat,
+
+## b) fenntartói szinten összesítve, jogcímenként az igénylési és elszámolási létszám és az összegbeli változások kimutatását,
+
+## c) a részletfizetési kedvezmény lehetőségéről szóló tájékoztatást,
+
+## d) arra vonatkozó utalást, hogy mikor és milyen jogcímekre vonatkozóan került sor lemondásra, pótlólagos igénylés benyújtására, valamint
+
+## e) a támogatások ellenőrzése rendjéről, visszafizetés esetén követendő eljárásról, valamint a visszafizetésről és a kamatfizetésről szóló tájékoztatást.
+
+## (2) Az elszámolás alapján határozatban megállapított fizetési kötelezettséget a fenntartó a határozat jogerőre emelkedésétől számított nyolc napon belül köteles teljesíteni. A határozatban megállapított többlettámogatás összegéről – az évközi elszámolás kivételével – a kincstár március 20-áig tájékoztatja a minisztert, aki április 20-áig gondoskodik a többlettámogatási igény fedezetének – átutalásáról. Ha a visszafizetendő támogatások együttes összege vagy a fizetendő kamatok együttes összege az ezer forintot nem éri el, azt nem kell megfizetni, a kincstár a pótlólagosan megállapított ezer forint alatti összeget nem utalja át.
+
+## (3) Ha a fenntartó visszafizetési kötelezettségének határidőben nem tesz eleget, a késedelembe esés napjától a jegybanki alapkamat kétszeresének 365-öd részével megegyező mértékű késedelmi pótlékot fizet addig a napig, amíg fizetési kötelezettségét nem teljesíti.
+
+## (4) Az Igazgatóság a visszafizetési kötelezettség teljesítésére legfeljebb tizenkét havi részletfizetést engedélyezhet azzal, hogy a visszafizetésnek az engedélyezés évében meg kell történnie. A részletfizetéssel érintett összeget a részletfizetés iránti kérelem benyújtását megelőző félév utolsó napján érvényes jegybanki alapkamat terheli. A részletfizetés iránti kérelemben részletesen be kell mutatni, hogy az egy összegben történő visszafizetés a köznevelési intézmény működtetésében milyen veszélyekkel járna, ennek keretében ki kell térni az intézményi kötelezettségvállalás jogcímenkénti összegére, a tervezett fenntartói intézkedésekre, továbbá mellékelni kell a köznevelési intézmény elfogadott éves költségvetését és a bankszámlakivonatot a visszafizetési kötelezettséget megállapító határozathozatal napjára vonatkozóan valamennyi – a fenntartó saját és a köznevelési intézmény – fizetési számlájáról. A részletfizetési kérelemről az Igazgatóság soron kívül dönt.
+
+## (5) Ha a fenntartó a részletfizetést engedélyező döntésben foglalt fizetési kötelezettségének nem tesz eleget, a visszafizetési és igénybevételi kamatfizetési kötelezettség, valamint az eredeti esedékességtől felszámított, (3) bekezdésnek megfelelő késedelmi pótlékfizetési kötelezettség egy összegben, azonnal esedékessé válik.
+
+## (6) Ha a fenntartó (5) bekezdés alapján esedékessé vált tartozása
+
+## a) nem haladja meg a fenntartót megillető egy havi támogatások összegét és az esedékessé válását követő öt napon belül a fenntartó nem tesz eleget fizetési kötelezettségének, az Igazgatóság a fenntartót megillető soron következő havi támogatások összegéből levonja a tartozás és a késedelmi pótlék összegét,
+
+## b) meghaladja a fenntartót megillető egy havi támogatások összegét és az esedékessé válását követő öt napon belül a fenntartó nem tesz eleget fizetési kötelezettségének, az Igazgatóság felfüggeszti a támogatások kifizetését és beszedési megbízást nyújt be a fenntartó fizetési számlájára.
+
+## 37/O. § (1) Az Igazgatóság a rendelkezésére álló iratok alapján, illetve helyszíni ellenőrzés során felülvizsgálja a támogatások igénylésének és elszámolásának jogszerűségét. Ha a fenntartó által az elszámoláskor közölt létszámadatok az igénylési létszámhoz képest 10%-ot meghaladó mértékben változtak vagy a fenntartó befizetési kötelezettsége 10%-kal meghaladja az őt ténylegesen megillető támogatások összegét, az Igazgatóság helyszíni vizsgálatot tart. A felülvizsgálat megszervezése során biztosítani kell, hogy legalább négyévenként valamennyi fenntartónál sor kerüljön helyszíni ellenőrzésre, amely a Polgári Törvénykönyv szerinti általános elévülési időn belül, a korábban helyszínen nem vizsgált időszakra, támogatásokra és köznevelési intézményekre kiterjeszthető.
+
+## (2) Az Igazgatóság a felülvizsgálat keretében ellenőrzi az igénybevételi jogosultság jogszabályi feltételeinek teljesülését, a kérelemben, a változás-bejelentésben és az elszámoláskor közölt adatok megalapozottságát, valamint a támogatások felhasználásának jogszerűségét. A felülvizsgálat kiterjed a fenntartónál és a köznevelési intézményben a támogatások igénylésének alapjául szolgáló – a köznevelési intézményben és a fenntartónál vezetett – nyilvántartások meglétének, vezetésének, a tanügy-igazgatási dokumentumoknak és ezek alapján az igénylés és az elszámolás megalapozottságának vizsgálatára. A felülvizsgálat eredménye alapján az Igazgatóság a kormányhivatalnál hatósági vagy törvényességi ellenőrzést kezdeményezhet.
+
+## (3) Ha az Igazgatóság a felülvizsgálat során megállapítja, hogy a támogatásokat megalapozó gyermek-, tanulólétszám nem egyezik meg a KIR-ben az október 1-jei állapot szerint nyilvántartott létszámadatokkal, az Igazgatóság adategyeztetés céljából megkeresi a fenntartót, szükség esetén a Hivatalt.
+
+## (4) A felülvizsgálat során az Igazgatóság által megállapított, a fenntartót megillető támogatások és a fenntartó által ténylegesen igénybe vett támogatások közötti különbözetet az Igazgatóság határozatának jogerőre emelkedését követő második hónapban kell kifizetni.
+
+## (5) Az Igazgatóság a helyszíni ellenőrzésről készített jegyzőkönyvet és az ellenőrzés alapján hozott határozatot a működést engedélyező szervvel is közli.
+
+## (6) A kincstár minden év januárjában megküldi a miniszter részére a tárgyévre vonatkozó ellenőrzési munkatervét. A miniszter koordinálja a kormányhivatal, a kincstár és a Hivatal – köznevelési intézmények és fenntartók ellenőrzését megalapozó – munkaterveit, a munkatervek alapján javaslatot tehet a hatóságok együttes ellenőrzésének lefolytatására.
+
+## 37/P. § A kincstár a támogatások elszámolásának feldolgozása után, a jóváhagyott és az előző évi ténylegesen igénybe vett támogatásokról a tárgyévet követő év március 20-áig adatszolgáltatást nyújt a miniszter és az államháztartásért felelős miniszter részére az általuk meghatározott és a kincstár részére március 1-jéig megküldött formában. Az adatszolgáltatást intézményfenntartó-típusonkénti bontásban kell elkészíteni, egyházi intézmények esetében bevett egyházanként is összesítve, továbbá országos, fővárosi, megyei összesítésben, jogcím szerinti részletezéssel, megadva a fenntartó részére kiutalt támogatások mértékét, a fenntartók, a köznevelési intézmények, a feladatellátási helyek, az alkalmazottak, a gyermekek és a tanulók számát.
+
+## 16/E. A működési támogatás
+
+## 37/Q. § (1) A működési támogatás megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstár adatszolgáltatására a 37/A–37/P. §-nak az átlagbér alapú támogatásra vonatkozó szabályait az e §-ban meghatározott eltérésekkel kell alkalmazni.
+
+## (2) A működési támogatást
+
+## a) a nemzetiségi önkormányzat részére az Igazgatóság feladatonkénti bontásban,
+
+## b) a bevett egyház részére az egyházi jogi személy fenntartó székhelye szerinti Igazgatóság adatszolgáltatása alapján a kincstár Budapesti és Pest Megyei Igazgatósága feladatonkénti és egyházi jogi személyek fenntartójakénti bontásban
+
+## állapítja meg.
+
+## (3) A működési támogatást megállapító határozat a támogatással összefüggésben tartalmazza a 37/F. § (3) bekezdés b)–f) pontjában foglaltakat, és az Igazgatóság által közölt adatok közül köznevelési intézményenként az intézmény hivatalos nevét, OM azonosítóját, a székhelyét, fenntartója nevét, alapfeladatonként a megállapított támogatási összegeket és a gyermek-, tanulólétszámot.
+
+## (4) A nemzetiségi önkormányzat és a bevett egyház nyilvántartást vezet arról, hogy mely fenntartótól, milyen köznevelési intézményt, milyen feladatot, mennyi időre és hány fővel vett át. A nyilvántartás részét képezi a köznevelési szerződés, bevett egyház esetén az egyoldalú nyilatkozat is. Az Igazgatóság és a kincstár Budapesti és Pest Megyei Igazgatósága a működési támogatás megállapítása, elszámolása és ellenőrzése során bekérheti a nyilvántartásban szereplő adatokat ellenőrzés céljából.
+
+## (5) A működési támogatásra első alkalommal jogosulttá váló bevett egyház, ha nem tart fenn köznevelési intézményt, a 37/C. § (1) bekezdésében meghatározott határnapig megküldi a kincstár Budapesti és Pest Megyei Igazgatósága számára a nyilvántartásba vételéről szóló igazolást, képviselőjének aláírási címpéldányát, adószámát, a működési támogatással összefüggő valamennyi bankszámlaszerződésének hiteles másolatát, bankszámlaszámát.
+
+## 16/F. Az átlagbér alapú támogatás és a működési támogatás összesített egyenlegének rendezése
+
+## 37/R. § (1) Az átlagbér alapú támogatás és a működési támogatás összesített egyenlegének rendezése során előálló korrekció összegét az Igazgatóság, bevett egyház esetén a kincstár Budapesti és Pest Megyei Igazgatósága a központi költségvetés végrehajtásáról szóló törvény alapján folyósítja.
+
+## (2) A korrekcióra, illetve – ha a korrekció mértéke negatív – a korrekció megfizetésére a tárgyévben működési támogatásban részesült nemzetiségi önkormányzat, bevett egyház jogosult, illetve köteles. Ha a köznevelési intézmény fenntartását másik nemzetiségi önkormányzat vagy másik bevett egyházhoz tartozó fenntartó vette át, a korrekcióra, illetve a korrekció megfizetésére a köznevelési intézményt, tagintézményt, köznevelési alapfeladatot átvevő nemzetiségi önkormányzat, bevett egyház jogosult, illetve köteles. Ha a köznevelési intézmény, tagintézmény működési engedélyét visszavonták vagy ha a köznevelési intézményt, tagintézményt, köznevelési alapfeladatot nem nemzetiségi önkormányzat vagy egyházi jogi személy vette át, a korrekció időarányosan a jogosultság fennállásáig és a ráfordítás arányában folyósítható, a nemzetiségi önkormányzat, bevett egyház azonban – ha a korrekció mértéke negatív – köteles a korrekció megfizetésére.
+
+## (3) A nemzetiségi önkormányzat és a bevett egyház a korrekciót a központi költségvetés végrehajtásáról szóló törvényben meghatározott időpontig köteles megfizetni. Késedelmes teljesítés esetén a visszafizetendő összeg után a 37/N. § (3) bekezdése szerinti mértékű késedelmi pótlékot kell felszámolni, és korrekciót a késedelmi pótlékkal együtt a fizetési határidő lejártát követően folyósítandó támogatásból le kell vonni. Ha a visszafizetendő támogatás és a késedelmi pótlék együttes összege nem éri el az ezer forintot, azt nem kell megfizetni.
+
+## (4) A korrekcióból eredő visszafizetési kötelezettségre – a központi költségvetés végrehajtásáról szóló törvény eltérő rendelkezése hiányában – fizetési kedvezmény nem engedélyezhető.
+
+## (5) A korrekcióról elszámolást nem kell benyújtani.
+
+## 16/G. A hit- és erkölcstanoktatás támogatása
+
+## 37/S. § (1) A hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatás és tankönyvtámogatás igénylésére, megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstári adatszolgáltatásra a 37/A–37/P. §-nak az átlagbér alapú támogatásra vonatkozó szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
+
+## (2) A hit- és erkölcstanoktatás támogatására vonatkozó kérelmet a bevett egyház a kincstár Budapesti és Pest Megyei Igazgatósághoz nyújtja be.
+
+## (3) A bevett egyház a hit- és erkölcstanoktatás megszüntetésére, szüneteltetésére vonatkozó döntéséről és a megszüntetés, szüneteltetés tervezett kezdő időpontjáról a döntést követő nyolc napon belül értesíti a kincstár Budapesti és Pest Megyei Igazgatóságát és az állami iskola fenntartóját.
+
+## (4) Az állami iskola fenntartója a hit- és erkölcstanoktatás megtartását igazoló nyilatkozatát január 15-éig, a (3) bekezdés szerinti esetben a megszüntetéstől, szüneteltetéstől számított 15 napon belül az érintett iskolák szerinti bontásban küldi meg a bevett egyháznak. A nyilatkozat tartalmazza az érintett iskola hivatalos nevét, OM azonosítóját, az oktatásban részt vett tanulók számát feladatellátási hely, évfolyamonkénti és csoportonkénti bontásban és a ténylegesen megtartott hit- és erkölcstanórák számát. A nyilatkozatot a bevett egyház a kincstár Budapesti és Pest Megyei Igazgatósága számára a hit- és erkölcstanoktatáshoz nyújtott támogatásra vonatkozó elszámolásával egyidejűleg megküldi.
+
+## (5) A hit- és erkölcstanoktatáshoz kapcsolódó tankönyvtámogatást a kincstár Budapesti és Pest Megyei Igazgatósága folyósítja.”
