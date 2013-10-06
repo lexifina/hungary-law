@@ -1,3 +1,5 @@
-## 9. § A belügyminiszter irányítása alá tartozó rendészeti szakközépiskolákra vonatkozó szabályokról szóló 32/2005. (VI. 30.) BM–OM együttes rendelet 2. §-ában az „a Körmendi Rendészeti Szakközépiskola, a Miskolci Rendészeti Szakközépiskola és a Szegedi Rendészeti Szakközépiskola vonatkozásában az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) vezetője, az Adyligeti Rendészeti Szakközépiskola vonatkozásában a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóság vezetője gyakorolja.” szövegrész helyébe az „az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) vezetője gyakorolja.” szöveg lép.
+## 9. §[^1]
 
 1. melléklet az 57/2013. (X. 4.) BM rendelethez
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
