@@ -1,3 +1,0 @@
-## 1. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: R.) 37. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) Az egyházi köznevelési intézmény és a magán köznevelési intézmény, ha a tanuló alapfokú művészetoktatásban, illetve szakképesítés megszerzésére irányuló képzésben vesz részt, beiratkozáskor köteles beszerezni a tanuló, kiskorú tanuló esetén a szülő írásbeli nyilatkozatát azzal összefüggésben, hogy meg lehessen állapítani, hogy a tanuló az érintett képzést ingyenesen, térítési díj vagy tandíj megfizetése mellett jogosult igénybe venni.”
