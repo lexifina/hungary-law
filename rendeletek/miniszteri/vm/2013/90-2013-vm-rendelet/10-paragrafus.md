@@ -1,0 +1,19 @@
+## 5. Az egészséges ivóvízzel való ellátás ideiglenes módozatainak ellentételezése
+
+10. § (1) Az egészséges ivóvízzel való ellátás ideiglenes módozataként olyan intézkedés támogatható, amely a lakossági felhasználók, illetve közegészségügyi határozat alapján kiemelt felhasználói csoportok esetén az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 6. §-a szerinti eljárás alapján elrendelt, legfeljebb 6 hét időtartamig fenntartott ivóvíz-ellátási kötelezettség alapján került elrendelésre. A támogatás megítélésére akkor kerülhet sor, amennyiben a kötelezettség nem az önkormányzatnak felróható okból, illetve az üzemeltető jogellenes magatartása következtében keletkezett.
+
+(2) Az egészséges ivóvízzel való ellátás ideiglenes módozatai kiadásainak részbeni ellentételezésére igénybejelentést benyújtani – a (3) bekezdésben foglalt kivétellel – azok az önkormányzatok jogosultak, amelyeket a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szerve vagy kistérségi, kerületi népegészségügyi intézete 2012. január 1. és 2012. december 31. között kiadott határozatban kötelezett arra, hogy a településen vagy településrészen az érintett fogyasztók részére az egészséges ivóvizet biztosítsák.
+
+(3) Az Ivóvízminőség-javító Programban érintett települések, településrészek vonatkozásában az önkormányzatok nem jogosultak támogatásra a (8) bekezdés szerinti eseti ivóvízszennyezéssel összefüggő igények kivételével.
+
+(4) Az önkormányzat az ellentételezést utólag, a szolgáltató által benyújtott és az önkormányzat által jóváhagyott számlák alapján – az Igazgatóság útján – a minisztertől 2013. október 15-éig igényelheti. A határidő elmulasztása jogvesztő.
+
+(5) Az igénybejelentést két eredeti papír alapú példányban, valamint elektronikus úton kell benyújtani az Igazgatósághoz. Az igénybejelentéshez az önkormányzat mellékeli a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szervének vagy kistérségi, kerületi népegészségügyi intézetének jogerős határozatát és a számlák hitelesített másolati példányait, valamint a 3. melléklet szerinti számlaösszesítést tartalmazó kimutatást.
+
+(6) A rendelkezésre álló összeg mértékéről – az (1) és (2) bekezdésben meghatározott feltételek alapján potenciálisan jogosult települések számának figyelembevételével – a Tárcaközi Bizottság javaslata alapján a miniszter 2013. december 2-áig dönt.
+
+(7) Az igényelhető ellentételezés mértékét az (1) bekezdés szerint jogosult önkormányzat számítja ki a 4. mellékletben foglaltak szerint.
+
+(8) Eseti vízszennyezésre hivatkozással támogatás akkor adható, ha a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szerve a 2012. évben legfeljebb két alkalommal az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 1. számú melléklet A) vagy B) pontjában szereplő vízminőségi jellemző határértékének túllépését, majd 6 héten belül a túllépés megszűnését állapította meg határozatában. A határérték két alkalommal történő túllépése együttesen sem haladhatja meg a 6 hetes időtartamot. A pályázat befogadásának feltétele a határozatok másolatának benyújtása.
+
+(9) A nitrit, illetve nitrát paraméter esetén a (8) bekezdésben foglaltakat ideiglenes vízellátásban részesülő várandós anyák és egy év alatti csecsemők tekintetében azzal az eltéréssel kell alkalmazni, hogy a támogatás a teljes 2012. naptári évre is adható, amennyiben a fővárosi, illetve megyei kormányhivatal népegészségügyi szakigazgatási szerve 2012. évben a közüzemi ivóvíz nitrit, illetve nitrát határérték túllépést megállapító és ismételten megfelelőséget megállapító határozatai együttesen benyújtásra kerülnek és a kereskedelmi forgalomban lévő alternatív megoldások költségigényét nem haladja meg a benyújtott igény. A várandós anyák és az egy év alatti csecsemők részére kiadott egészséges ivóvíz tételes elszámolását az igényhez csatolni kell.

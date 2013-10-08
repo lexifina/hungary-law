@@ -1,0 +1,5 @@
+7. § (1) A beérkezett pályázatokat a (3) bekezdés szerinti Tárcaközi Bizottság a 6. §-ban foglalt szempontok szerint megvizsgálja, és javaslatot tesz a lakossági ivóvíz- és csatornaszolgáltatás fajlagos ráfordításai támogatásának odaítélésénél figyelembe vehető tényleges küszöbértékekre, továbbá a támogatásban részesíthető települési önkormányzatok körére. A küszöbértékek nem lehetnek alacsonyabbak, mint a 2. § (1) bekezdés e) pontjában megadott értékek.
+
+(2) Ha az (1) bekezdés szerinti küszöbértékek alapján a támogatásban részesíthető önkormányzatok számára megítélhető összes támogatás meghaladja a rendelkezésre álló keretet, a Tárcaközi Bizottság javaslatot tesz az önkormányzatonkénti támogatási összegek egységes mértékben történő csökkentésére.
+
+(3) A Tárcaközi Bizottság a helyi önkormányzatokért felelős miniszter, az államháztartásért felelős miniszter, a víziközmű-szolgáltatásért felelős miniszter, az egészségügyért felelős miniszter, a miniszter és a MEKH elnöke által delegált egy-egy tagból áll.
