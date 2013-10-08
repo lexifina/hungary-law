@@ -1,7 +1,5 @@
 14. § (1) Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
 
-(2) Hatályát veszti
+(2)[^1]
 
-a) a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 14/1997. (IX. 3.) KHVM rendelet és
-
-b) a kiégett nukleáris üzemanyag biztonságos vasúti szállításáról szóló szabályzat kihirdetéséről szóló 13/1997. (IX. 3.) KHVM rendelet.
+[^1]: A 14. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
