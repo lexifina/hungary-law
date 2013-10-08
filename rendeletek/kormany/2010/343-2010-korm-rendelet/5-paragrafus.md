@@ -1,10 +1,10 @@
 ## 5. Üzemanyagok kötelező bioüzemanyag-részaránya
 
-5. §[^24] (1) A Büat. 5. § (1) bekezdésében előírt havi szinten forgalomba hozott kötelező bioüzemanyag-részarány a (3)–(4) bekezdés szerint meghatározott mennyiségek összegének és az üzemanyag-forgalmazók által a tárgyhónapban forgalomba hozott üzemanyagok 1. melléklet szerinti energiatartalmának a hányadosa, százalékértékben, egytizedessel meghatározva, figyelemmel a (2) bekezdésben foglaltakra.
+5. §[^32] (1)[^33] A Büat. 5. § (1) bekezdésében előírt éves szinten forgalomba hozott kötelező bioüzemanyag-részarány a (3)–(4) bekezdés szerint meghatározott mennyiségek összegének és az üzemanyag-forgalmazók által a tárgyévben forgalomba hozott üzemanyagok 1. melléklet szerinti energiatartalmának a hányadosa, százalékértékben, egytizedessel meghatározva.
 
-(1a)[^25] Több üzemanyag- vagy bioüzemanyag-típust tartalmazó üzemanyag esetében az üzemanyag teljes mennyiségére vonatkozó energiatartalmat az üzemanyagban legnagyobb térfogatarányt képviselő üzemanyag-típus 1. mellékletben meghatározott energiatartalmának figyelembevételével kell meghatározni.
+(1a)[^34] Több üzemanyag- vagy bioüzemanyag-típust tartalmazó üzemanyag esetében az üzemanyag teljes mennyiségére vonatkozó energiatartalmat az üzemanyagban legnagyobb térfogatarányt képviselő üzemanyag-típus 1. mellékletben meghatározott energiatartalmának figyelembevételével kell meghatározni.
 
-(2) Amennyiben az üzemanyag-forgalmazó a tárgyév valamely hónapjában a (3)–(4) bekezdések szerinti bioüzemanyag-részaránynak megfelelő mennyiségnél több bioüzemanyagot hozott forgalomba, a többlettel a tárgyévben, választása szerinti hónapban csökkentheti a (3)–(4) bekezdésében foglalt mértékek figyelembevételével meghatározott, a kötelező bioüzemanyag-részaránynak megfelelő bioüzemanyag-mennyiséget.
+(2)[^35]
 
 (3) A kötelező bioüzemanyag-részarány számításánál 2013. december 31-ig
 
@@ -14,7 +14,7 @@ b) a dízelgázolaj esetében az energiatartalomban kifejezett forgalomba hozott
 
 kell figyelembe venni.
 
-(4)[^26] A kötelező bioüzemanyag-részarány számításánál a motorbenzin és a dízelgázolaj esetében egyaránt az energiatartalomban kifejezett forgalomba hozott mennyiség 4,9%-át kell figyelembe venni a 2014. január 1. és 2015. december 31. közötti időszakban.
+(4)[^36] A kötelező bioüzemanyag-részarány számításánál a motorbenzin és a dízelgázolaj esetében egyaránt az energiatartalomban kifejezett forgalomba hozott mennyiség 4,9%-át kell figyelembe venni a 2014. január 1. és 2015. december 31. közötti időszakban.
 
 (5) Az üzemanyag-forgalmazóra vonatkozó, a (3) bekezdésében meghatározott kötelező részarány csökkenthető a valótlan tartalmú biomassza igazolással, fenntarthatósági igazolással vagy a 11. § b)–d) pontjaiban meghatározott, valótlan tartalmú igazolással (e bekezdés alkalmazásában igazolás) beszerzett biomasszából, köztes termékből előállított bioüzemanyag, továbbá a valótlan tartalmú igazolással beszerzett bioüzemanyag mennyiségével, amennyiben az üzemanyag-forgalmazó az így beszerzett mennyiséget már szabadforgalomba bocsátotta, és
 
@@ -30,6 +30,8 @@ d) a 11. § d) pontja alapján kiállított igazolás eleget tesz a 2009/28/EK e
 
 (7) Több telephellyel, illetve a Jöt.-ben meghatározott több engedéllyel rendelkező üzemanyag-forgalmazó esetében a mennyiséget összesítve kell meghatározni.
 
-[^24]: Az 5. § a 167/2011. (VIII. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^25]: Az 5. § (1a) bekezdését a 318/2012. (XI. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^26]: Az 5. § (4) bekezdése a 318/2012. (XI. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^32]: Az 5. § a 167/2011. (VIII. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^33]: Az 5. § (1) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^34]: Az 5. § (1a) bekezdését a 318/2012. (XI. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^35]: Az 5. § (2) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 16. § (1) bekezdése hatályon kívül helyezte.
+[^36]: Az 5. § (4) bekezdése a 318/2012. (XI. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

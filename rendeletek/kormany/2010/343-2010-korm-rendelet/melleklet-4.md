@@ -1,4 +1,4 @@
-## A fenntarthatósági igazolás adattartalma
+## A fenntarthatósági igazolás minimális adattartalma[^94]
 
 ## 1. A termesztett biomasszára vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
@@ -18,13 +18,13 @@
 
 ## h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás kiszámításakor;
 
-## i) a termék birtokba adásának dátuma.
+## i)[^95]
 
 ## 2. A nem termesztett biomasszára vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
 ## a) az igazolás kiállítójának adatai, adószáma, adóazonosító jele;
 
-## b) a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
+## b)[^96] a biomassza megvásárlójának, bérfeldolgozójának neve, címe, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
 
 ## c) a biomassza megnevezése és KN-kódja;
 
@@ -32,13 +32,13 @@
 
 ## e) az igazolás azonosítószáma;
 
-## f) a termék birtokba adásának dátuma.
+## f)[^97] az igazolásban szereplő biomassza mennyiségéhez tartozó kibocsátási komponensek értéke.
 
 ## 3. A köztes termékre vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
 ## a) az igazolás kiállítójának adatai, regisztrációs száma;
 
-## b) a köztes termék megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
+## b)[^98] a köztes termék megvásárlójának, bérfeldolgozójának neve, címe, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
 
 ## c) a köztes termék megnevezése és KN-kódja;
 
@@ -52,7 +52,7 @@
 
 ## h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás-csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás kiszámításakor;
 
-## i) a termék birtokba adásának dátuma.
+## i)[^99]
 
 ## 4. A bioüzemanyagra vonatkozó fenntarthatósági igazolás tartalmazza a következő adatokat:
 
@@ -72,4 +72,14 @@
 
 ## h) nyilatkozat arról, hogy a degradációs bónuszt és a talajban lévő kötött szénnek a jobb mezőgazdasági gazdálkodásnak köszönhető felhalmozódása miatti kibocsátás csökkentést leíró tényezőt figyelembe vették-e az ÜHG kibocsátás kiszámításakor.
 
+## 5.[^100] Ha az 1–4. pont szerinti termékek esetében a kibocsátási komponensek megállapítása tényleges érték kiszámításával történt, a fenntarthatósági igazolás tartalmazza az auditor nevét, regisztrációs számát, valamint az auditori nyilatkozat azonosító számát.
+
 4. melléklet a 343/2010. (XII. 28.) Korm. rendelethez
+
+[^94]: A 3. melléklet címe a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^95]: A 3. melléklet 1. pont i) alpontját a 348/2013. (IX. 30.) Korm. rendelet 16. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^96]: A 3. melléklet 2. pont b) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^97]: A 3. melléklet 2. pont f) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^98]: A 3. melléklet 3. pont b) alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^99]: A 3. melléklet 3. pont i) alpontját a 348/2013. (IX. 30.) Korm. rendelet 16. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^100]: A 3. melléklet 5. pontját a 348/2013. (IX. 30.) Korm. rendelet 14. § (2) bekezdése iktatta be.

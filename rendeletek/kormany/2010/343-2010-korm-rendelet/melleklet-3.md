@@ -1,4 +1,4 @@
-## A biomassza igazolás adattartalma
+## A biomassza igazolás minimális adattartalma[^87]
 
 ## I. Termesztett biomassza esetében a biomassza igazolás tartalmazza a következő adatokat:
 
@@ -6,7 +6,7 @@
 
 ## 2. az igazolás kiállítójának adatai, regisztrációs száma;
 
-## 3. a biomassza megvásárlójának neve, címe, devizabelföldi vásárló esetében regisztrációs száma;
+## 3.[^88] a biomassza megvásárlójának, bérfeldolgozójának neve, címe, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
 
 ## 4. a biomassza megnevezése és KN-kódja;
 
@@ -24,7 +24,7 @@
 
 ## 11. ha a termesztésre, termőterület váltásra vonatkozó kibocsátási komponensek megállapítása nem alapértelmezett értéken történt, akkor az egy tonna terménymennyiségre vetített, a termesztéséből eredő közvetlen és a termesztés során a talaj kötöttszén-készletváltozásából eredő ÜHG kibocsátás mértéke;
 
-## 12. az igazolásban szereplő biomassza mennyiség megtermelésével érintett termőterület MePAR szerinti blokk- és parcella azonosítója (a továbbiakban: termőterületre vonatkozó adatok).
+## 12.[^89] az igazolásban szereplő biomassza mennyiség megtermelésével érintett termőterület MePAR szerinti blokk- és parcella azonosítója.
 
 ## II. Nem termesztett biomassza esetében a biomassza igazolás tartalmazza a következő adatokat:
 
@@ -32,14 +32,24 @@
 
 ## 2. az igazolás kiállítójának neve, székhelye vagy lakcíme, az igazolás kiállítójának adószáma vagy adóazonosító jele;
 
-## 3. a biomassza megvásárlójának neve, lakcíme vagy székhelye, devizabelföldi vásárló esetében regisztrációs száma;
+## 3.[^90] a biomassza megvásárlójának, bérfeldolgozójának neve, lakcíme vagy székhelye, devizabelföldi vásárló, bérfeldolgozó esetében regisztrációs száma;
 
 ## 4. a biomassza megnevezése és KN-kódja;
 
 ## 5. a biomassza mennyisége tonnában kifejezve;
 
-## 6. a biomassza forrására vagy a begyűjtés helyére vonatkozó adatok.
+## 6. a biomassza forrására vagy a begyűjtés helyére vonatkozó adatok;
 
-3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^65]
+## 7.[^91] az igazolásban szereplő biomassza mennyiségéhez tartozó kibocsátási komponensek értéke.
 
-[^65]: A 3. melléklet a 318/2012. (XI. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+## III.[^92] Ha a kibocsátási komponensek megállapítása tényleges érték kiszámításával történt, a biomassza igazolás tartalmazza az auditor nevét, regisztrációs számát, valamint az auditori nyilatkozat azonosító számát.
+
+3. melléklet a 343/2010. (XII. 28.) Korm. rendelethez[^93]
+
+[^87]: A 2. melléklet címe a 348/2013. (IX. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^88]: A 2. melléklet I. pont 3. alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^89]: A 2. melléklet I. pont 12. alpontja a 348/2013. (IX. 30.) Korm. rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^90]: A 2. melléklet II. pont 3. alpontja a 348/2013. (IX. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^91]: A 2. melléklet II. pont 7. alpontját a 348/2013. (IX. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^92]: A 2. melléklet III. pontját a 348/2013. (IX. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^93]: A 3. melléklet a 318/2012. (XI. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

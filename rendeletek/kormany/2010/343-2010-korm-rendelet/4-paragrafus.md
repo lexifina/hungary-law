@@ -1,14 +1,14 @@
 ## 4. Fenntarthatósági igazolás
 
-4. § (1)[^18] A bioüzemanyag üvegházhatású gázkibocsátási nyilvántartásba (a továbbiakban: BÜHG nyilvántartás) bejegyzett
+4. § (1)[^25] A bioüzemanyag üvegházhatású gázkibocsátási nyilvántartásba (a továbbiakban: BÜHG nyilvántartás) bejegyzett
 
-a)[^19] biomassza kereskedő az általa értékesített és fenntarthatóan megtermeltnek minősülő biomasszára, köztes termékre,
+a) biomassza kereskedő az általa értékesített és fenntarthatóan megtermeltnek minősülő biomasszára, köztes termékre, bioüzemanyagra,
 
-b)[^20] biomassza feldolgozó az általa értékesített vagy bérfeldolgozás keretében feldolgozott és fenntarthatóan megtermeltnek minősülő biomasszából előállított köztes termékre vagy fenntarthatóan előállítottnak minősülő bioüzemanyagra,
+b) biomassza feldolgozó az általa értékesített vagy bérfeldolgozás keretében feldolgozott és fenntarthatóan megtermeltnek minősülő biomasszából előállított köztes termékre vagy fenntarthatóan előállítottnak minősülő bioüzemanyagra,
 
 c) üzemanyag-forgalmazó az általa tisztán vagy üzemanyagba keverve értékesített, vagy más üzemanyag-forgalmazóhoz áttárolt, fenntarthatóan előállítottnak minősülő bioüzemanyagra
 
-a termék birtokba adását követő 30 napon belül fenntarthatósági igazolást állíthat ki.
+## a termék birtokba adását – amennyiben a vevő részéről a termék birtokba vételére nem kerül sor, úgy a tulajdonba adást – követő 30 napon belül fenntarthatósági igazolást állíthat ki.
 
 (2) Az (1) bekezdés szerinti fenntarthatósági igazolás
 
@@ -18,11 +18,15 @@ b) köztes termékre és bioüzemanyagra a gyártáshoz felhasznált biomassza m
 
 állítható ki.
 
+(2a)[^26] Az (1) bekezdés szerinti fenntarthatósági igazolás azt követően állítható ki, hogy a biomassza kereskedő, a biomassza feldolgozó és az üzemanyag-forgalmazó a tőle elvárható gondossággal meggyőződött arról, hogy a kiállítani kívánt fenntarthatósági igazolás alapjául szolgáló fenntarthatósági igazolás kiállítója az általa kiadott igazolás kiállításakor szerepelt a BÜHG nyilvántartásban vagy rendelkezik a BÜHG nyilvántartásba vételről szóló határozat eredeti példányával vagy annak hitelesített másolatával.
+
 (3) A (2) bekezdés szerinti dokumentumokban szereplő adott mennyiség kizárólag egy fenntarthatósági igazolás kiállításához használható fel.
 
-(4) A fenntarthatósági igazolást a 3. mellékletben meghatározott adattartalommal, formanyomtatványon kell kiállítani. A fenntarthatósági igazolás formanyomtatványát a mezőgazdasági igazgatási szerv a honlapján közzéteszi.
+(3a)[^27] Ha a kibocsátási komponens tényleges érték számításával kerül meghatározásra, a fenntarthatósági igazolást a köztes termék és a bioüzemanyag előállítójának az auditori nyilatkozat alapján kell kiállítania.
 
-(5)[^21] A fenntarthatósági igazolás kiállítója az igazoláshoz azonosító számot (a továbbiakban: igazolás azonosítószám) köteles hozzárendelni. Egy igazolás azonosítószámhoz kizárólag egy fenntarthatósági igazolás rendelhető, valamint egy fenntarthatósági igazolás csak egy igazolás azonosítószámon állítható ki. Az igazolás azonosítószámnak sorrendben a következő adatokat kell tartalmaznia:
+(4)[^28] A fenntarthatósági igazolásnak a 3. mellékletben meghatározott adatokat kell tartalmaznia. A fenntarthatósági igazolás formanyomtatványát a mezőgazdasági igazgatási szerv a honlapján közzéteszi.
+
+(5)[^29] A fenntarthatósági igazolás kiállítója az igazoláshoz azonosító számot (a továbbiakban: igazolás azonosítószám) köteles hozzárendelni. Egy igazolás azonosítószámhoz kizárólag egy fenntarthatósági igazolás rendelhető, valamint egy fenntarthatósági igazolás csak egy igazolás azonosítószámon állítható ki. Az igazolás azonosítószámnak sorrendben a következő adatokat kell tartalmaznia:
 
 a) a biomassza kereskedő esetében a „BK”, biomassza feldolgozó esetében a „BF”, az üzemanyag-forgalmazó esetében pedig az „ÜF” betűkód;
 
@@ -34,13 +38,14 @@ d) a kiadás évszáma.
 
 (6) Ha a mezőgazdasági igazgatási szerv megállapítja, hogy az a biomassza, a köztes termék vagy a bioüzemanyag, amelyre a fenntarthatósági igazolás kiállítására sor került, nem felel meg a fenntarthatósági követelményeknek, az igazolással érintett biomassza és köztes termék mennyiségéből előállítható bioüzemanyag-mennyiséget vagy bioüzemanyagot Magyarországon felhasználtnak kell tekinteni, és a Büat. 12. §-a szerinti jelentésben a Magyarországon felhasznált fenntartható bioüzemanyag-mennyiséget ezzel a mennyiséggel csökkenteni kell.
 
-(7)[^22] A fenntarthatósági igazolás kiállítója az (1) bekezdés szerinti termékek tulajdonjog átruházásának teljes vagy részleges meghiúsulása esetén a már kiállított igazolást köteles visszavonni és annak tényét a visszavonást követő 10 napon belül a mezőgazdasági igazgatási szerv honlapján közzétett, erre a célra rendszeresített nyomtatványon a mezőgazdasági igazgatási szervnek bejelenteni. A termék tulajdonjog átruházásának meghiúsulása különösen, ha a termék megvásárlójának személyében változás áll be.
+(7)[^30] A fenntarthatósági igazolás kiállítója az (1) bekezdés szerinti termékek tulajdonjog átruházásának teljes vagy részleges meghiúsulása esetén a már kiállított igazolást köteles visszavonni és annak tényét a visszavonást követő 10 napon belül a mezőgazdasági igazgatási szerv honlapján közzétett, erre a célra rendszeresített nyomtatványon, a visszavont fenntarthatósági igazolás másolati példányának csatolásával a mezőgazdasági igazgatási szervnek bejelenteni. A termék tulajdonjog átruházásának meghiúsulása különösen, ha a termék megvásárlója személyében változás áll be.
 
-(8)[^23] Ha az igazolás megsemmisül, megrongálódik vagy a (7) bekezdés szerinti ok miatt visszavonásra kerül, akkor az igazolás kiállítója ugyanazon mennyiségre ismételten fenntarthatósági igazolást állíthat ki. A fenntarthatósági igazolás ismételt kiállítását annak kiadását követő 10 napon belül, a mezőgazdasági igazgatási szerv honlapján közzétett, erre a célra rendszeresített nyomtatványon be kell jelenteni a mezőgazdasági igazgatási szervnek.
+(8)[^31] Ha az igazolás megsemmisül, megrongálódik vagy a (7) bekezdés szerinti ok miatt visszavonásra kerül, akkor az igazolás kiállítója ugyanazon mennyiségre ismételten fenntarthatósági igazolást állíthat ki. A fenntarthatósági igazolás ismételt kiállítását annak kiadását követő 10 napon belül, a mezőgazdasági igazgatási szerv honlapján közzétett, erre a célra rendszeresített nyomtatványon be kell jelenteni a mezőgazdasági igazgatási szervnek.
 
-[^18]: A 4. § (1) bekezdés záró szövegrésze a 318/2012. (XI. 13.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^19]: A 4. § (1) bekezdés a) pontja a 167/2011. (VIII. 24.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^20]: A 4. § (1) bekezdés b) pontja a 318/2012. (XI. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^21]: A 4. § (5) bekezdése a 318/2012. (XI. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^22]: A 4. § (7) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 318/2012. (XI. 13.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^23]: A 4. § (8) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^25]: A 4. § (1) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^26]: A 4. § (2a) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^27]: A 4. § (3a) bekezdését a 348/2013. (IX. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^28]: A 4. § (4) bekezdése a 348/2013. (IX. 30.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^29]: A 4. § (5) bekezdése a 318/2012. (XI. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^30]: A 4. § (7) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 348/2013. (IX. 30.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^31]: A 4. § (8) bekezdését a 167/2011. (VIII. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be.
