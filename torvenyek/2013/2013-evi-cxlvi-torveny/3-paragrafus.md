@@ -1,0 +1,1 @@
+3. § Az Országgyűlés a Nemzetközi Migrációs Szervezet Alapokmányának a Nemzetközi Migrációs Szervezet Tanácsa 1998. november 24-i ülésén elfogadott 997. (LXXVI) számú határozatában foglalt módosításait (a továbbiakban: Módosító Határozat) e törvénnyel kihirdeti.
