@@ -42,7 +42,7 @@
 
 ## Határidő: azonnal
 
-## 6. A Kormány felhívja az emberi erőforrások miniszterét, hogy a Nemzeti Kulturális Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest 1000,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
+## 6.[^1] A Kormány felhívja az emberi erőforrások miniszterét, hogy a Nemzeti Kulturális Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest 400,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -107,3 +107,5 @@
 ## Határidő: Magyarország 2014. évi központi költségvetéséről szóló törvény előkészítéséhez igazodóan
 
 1. melléklet az 1259/2013. (V. 13.) Korm. határozathoz
+
+[^1]: A 6. pont az 1705/2013. (X. 8.) Korm. határozattal megállapított szöveg.
