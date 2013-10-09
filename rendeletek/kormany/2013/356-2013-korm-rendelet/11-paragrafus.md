@@ -1,0 +1,3 @@
+## 10. § Az R. 85. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Ha az ellenőrzési hatóság ellenőrzési tevékenysége során szabálytalanságot állapít meg, és annak alapján észleli, hogy a költségnyilatkozatban nem elszámolható költség szerepel, felkéri az NFÜ-t, hogy gondoskodjon arról, hogy az átutalás igénylési dokumentáció a nem elszámolható költség nélkül kerüljön kiállításra. Az NFÜ vezetője az előbbiek alapján gondoskodik az átutalás igénylési dokumentáció korrekciójáról, illetve szükség szerint az e rendelet szerinti egyéb jogkövetkezmények alkalmazását is elrendeli. Az NFÜ döntése ellen a 92. §-ban foglaltak szerint lehetséges jogorvoslatot benyújtani. A jogorvoslati kérelmet az NFÜ-nél kell előterjeszteni.”

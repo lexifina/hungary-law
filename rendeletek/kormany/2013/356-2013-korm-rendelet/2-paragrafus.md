@@ -1,0 +1,1 @@
+## „25b. szakaszolt projekt: fizikai és pénzügyi szempontból két egyértelműen elhatárolható szakaszból álló projekt, amelynek első szakasza a 2007–2013. programozási időszakban, második szakasza a 2014–2020. programozási időszakban valósul meg,”
