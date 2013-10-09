@@ -1,0 +1,1 @@
+A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 82/A. § (1) bekezdés c) és g) pontjai alapján, a kormányhivatalokat felügyelő miniszterek kijelöléséről szóló 5/2010. (XII. 23.) ME rendelet 1. § e) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
