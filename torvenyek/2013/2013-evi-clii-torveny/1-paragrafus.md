@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és Japán között a szociális biztonságról szóló Egyezmény és az ahhoz kapcsolódó jegyzékváltások (a továbbiakban együtt: Egyezmény) kötelező hatályának elismerésére.
