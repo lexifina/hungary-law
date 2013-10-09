@@ -1,0 +1,3 @@
+## 1. § A szennyvíz-elvezetési és tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 29/2013. (II. 12.) Korm. rendelet (a továbbiakban: R.) a következő 5. §-sal egészül ki:
+
+## „5. § E rendelet rendelkezéseit az 1. melléklet 1. pontjában foglalt táblázatnak a szennyvíz-elvezetési és tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 29/2013. (II. 12.) Korm. rendelet módosításáról szóló 357/2013. (X. 8.) Korm. rendelettel beiktatott 255–281. sorában meghatározott projektekkel összefüggő, folyamatban lévő ügyekben is alkalmazni kell, a 2. § a) pont kivételével.”
