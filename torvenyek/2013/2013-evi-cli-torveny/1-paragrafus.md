@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről Izrael Állam közötti euromediterrán légiközlekedési megállapodás (a továbbiakban: a Megállapodás) kötelező hatályának elismerésére.
