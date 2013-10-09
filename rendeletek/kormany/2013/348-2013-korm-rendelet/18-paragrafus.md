@@ -1,4 +1,4 @@
-## 17. §[^3]
+## 17. §[^4]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 2. § 2014. január 1-jén lép hatályba.
 
-[^3]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
