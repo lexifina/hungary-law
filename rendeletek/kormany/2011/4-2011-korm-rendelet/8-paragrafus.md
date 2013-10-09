@@ -1,3 +1,3 @@
-## 7.[^39]
+## 7.[^43]
 
-[^39]: A 7. alcímet (8. §) a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^43]: A 7. alcímet (8. §) a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 3. pontja hatályon kívül helyezte.

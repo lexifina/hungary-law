@@ -1,4 +1,4 @@
-## 74. §[^240] Az NFÜ köteles a pályáztatás, a szerződéskötés, a pénzügyi lebonyolítás, a közbeszerzési eljárás lefolytatásának, a fizikai megvalósítás ellenőrzése, a monitoring és – az államháztartásért felelős miniszter által közzétett módszertani útmutatónak megfelelő – folyamatba épített ellenőrzés teljes folyamatára részletes eljárásrendet kidolgozni, és előírni annak alkalmazását valamennyi hitelesítést végző szervezet számára. Az NFÜ a folyamatba épített ellenőrzés elemeit előzetes és utólagos ellenőrzési tevékenységekre oszthatja.
+## 74. §[^252] Az NFÜ köteles a pályáztatás, a szerződéskötés, a pénzügyi lebonyolítás, a közbeszerzési eljárás lefolytatásának, a fizikai megvalósítás ellenőrzése, a monitoring és – az államháztartásért felelős miniszter által közzétett módszertani útmutatónak megfelelő – folyamatba épített ellenőrzés teljes folyamatára részletes eljárásrendet kidolgozni, és előírni annak alkalmazását valamennyi hitelesítést végző szervezet számára. Az NFÜ a folyamatba épített ellenőrzés elemeit előzetes és utólagos ellenőrzési tevékenységekre oszthatja.
 
 75. § (1) A folyamatba épített – dokumentum alapú és helyszíni – ellenőrzés részeként – az államháztartásért felelős miniszter által közzétett módszertani útmutatónak megfelelően – valamennyi, hitelesítést végző szervezetnek a hitelesítés keretében gondoskodnia kell a kedvezményezett által benyújtott jelentések, nyilatkozatok és kifizetési igénylések formai és tartalmi ellenőrzésének lefolytatásáról, annak megállapítása céljából, hogy a kedvezményezett a támogatási szerződésben rögzített, vagy a projektadatlap alapján vállalt kötelezettségeit – a vonatkozó európai uniós és nemzeti jogszabályokkal összhangban – teljesítette.
 
@@ -18,7 +18,7 @@ e) a kedvezményezett köztartozás-mentességét az EMIR-en keresztül,
 
 f) a kettős finanszírozás elkerülésére vonatkozó előírások teljesülését,
 
-g)[^241] azt, hogy a benyújtott számlán szereplő teljesítés összhangban van-e a közbeszerzésre vonatkozó uniós és nemzeti előírásokkal, és
+g)[^253] azt, hogy a benyújtott számlán szereplő teljesítés összhangban van-e a közbeszerzésre vonatkozó uniós és nemzeti előírásokkal, és
 
 h) azt, hogy mely költségvetési fejezet biztosította a kifizetett költségek forrását, ha a projekt fedezete kizárólag központi költségvetési forrásból került megelőlegezésre.
 
@@ -26,5 +26,5 @@ h) azt, hogy mely költségvetési fejezet biztosította a kifizetett költsége
 
 (5) A tájékoztatással és a nyilvánossággal kapcsolatos kötelezettségek teljesítését, valamint a környezeti fenntarthatóság és az esélyegyenlőség érvényesítését folyamatosan, de legkésőbb a záró kifizetési igénylés jóváhagyásáig ellenőrizni kell.
 
-[^240]: A 74. § a 302/2013. (VII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^241]: A 75. § (3) bekezdés g) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
+[^252]: A 74. § a 302/2013. (VII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^253]: A 75. § (3) bekezdés g) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.

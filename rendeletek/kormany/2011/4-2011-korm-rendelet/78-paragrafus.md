@@ -1,8 +1,8 @@
-## 77. §[^243]
+## 77. §[^255]
 
 78. § (1) Az NFÜ, mint irányító hatóság vagy az általa átruházott hatáskörben eljáró közreműködő szervezet a tárgyhónapot követő minden hónap tizedik napjáig az igazoló hatóság által meghatározott formátumú és tartalmú hitelesítési jelentést állít ki. Az NFÜ a közreműködő szervezet által kiállított hitelesítési jelentés tartalmát szükség esetén kiegészítheti. Az NFÜ a hitelesítési jelentést a tárgyhónapot követő hónap huszadik napjáig elektronikusan megküldi az igazoló hatóság részére.
 
-(2)[^244] A hitelesítési jelentés megküldésének elmulasztása, hiányos tartalommal történő megküldése, vagy a hitelesítési jelentések tartalma alapján irányítási és kontrollrendszerre vonatkozó kiegészítő információ igénye esetén az igazoló hatóság a költségigazoló nyilatkozat kiállítását felfüggesztheti.
+(2)[^256] A hitelesítési jelentés megküldésének elmulasztása, hiányos tartalommal történő megküldése, vagy a hitelesítési jelentések tartalma alapján irányítási és kontrollrendszerre vonatkozó kiegészítő információ igénye esetén az igazoló hatóság a költségigazoló nyilatkozat kiállítását felfüggesztheti.
 
 (3) A hitelesítési jelentés ellenjegyzésének alátámasztása érdekében az NFÜ maga is jogosult ellenőrzéseket végezni a közreműködő szervezetnél. Ezen ellenőrzések eredményéről az NFÜ rendszeresen tájékoztatja az igazoló hatóságot.
 
@@ -26,24 +26,24 @@ a) a programnak az akcióterv és a finanszírozási szerződés szerinti megfel
 
 b) a forráskezelő szervezet által benyújtott beszámolók és a program tényleges előrehaladásának összhangját,
 
-c)[^245] hogy a forráskezelő szervezet által az NFÜ részére teljesített adatszolgáltatás összhangban áll-e a pénzügyi közvetítő által a forráskezelő szervezet részére teljesített adatszolgáltatással,
+c)[^257] hogy a forráskezelő szervezet által az NFÜ részére teljesített adatszolgáltatás összhangban áll-e a pénzügyi közvetítő által a forráskezelő szervezet részére teljesített adatszolgáltatással,
 
-d)[^246] a forráskezelő szervezet és a pénzügyi közvetítő által elvégzett ellenőrzések megfelelőségét,
+d)[^258] a forráskezelő szervezet és a pénzügyi közvetítő által elvégzett ellenőrzések megfelelőségét,
 
-e)[^247] a nyilvánosságra, tájékoztatásra vonatkozó uniós szabályok betartását, és az állami támogatásokra vonatkozó uniós szabályok betartatását, továbbá
+e)[^259] a nyilvánosságra, tájékoztatásra vonatkozó uniós szabályok betartását, és az állami támogatásokra vonatkozó uniós szabályok betartatását, továbbá
 
 f) a jogszabályok, valamint a hatékony és célszerű működés követelményeinek betartását.
 
 (8) A folyamatba épített ellenőrzéseket (ideértve a dokumentumalapú ellenőrzéseket és a kockázatelemzésre, mintavételezésre alapozott helyszíni ellenőrzéseket) megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
-(9)[^248] A forráskezelő szervezet a közvetítői szerződésekben köteles kikötni az arra vonatkozó jogát, hogy a pénzügyi közvetítőnél helyszíni ellenőrzést végezhet. Az NFÜ a helyszíni ellenőrzés jogát magához vonhatja, és a pénzügyi közvetítőnél maga is közvetlenül ellenőrizheti a közvetítői szerződések betartását.
+(9)[^260] A forráskezelő szervezet a közvetítői szerződésekben köteles kikötni az arra vonatkozó jogát, hogy a pénzügyi közvetítőnél helyszíni ellenőrzést végezhet. Az NFÜ a helyszíni ellenőrzés jogát magához vonhatja, és a pénzügyi közvetítőnél maga is közvetlenül ellenőrizheti a közvetítői szerződések betartását.
 
-(10)[^249] Az NFÜ a forráskezelő szervezet közreműködésével minden hónap tizenkettedik napjáig hitelesítési jelentést állít ki, amelyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, az EMIR-ben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos, a (4) és (5) bekezdés szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a (6) és (7) bekezdés szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az NFÜ az államháztartásért felelős miniszter által meghatározott formában és tartalommal készíti el. Az NFÜ a kiállított hitelesítési jelentést annak kiállításától számított 8 napon belül elektronikusan megküldi az igazoló hatóság részére.
+(10)[^261] Az NFÜ a forráskezelő szervezet közreműködésével minden hónap tizenkettedik napjáig hitelesítési jelentést állít ki, amelyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, az EMIR-ben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos, a (4) és (5) bekezdés szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a (6) és (7) bekezdés szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az NFÜ az államháztartásért felelős miniszter által meghatározott formában és tartalommal készíti el. Az NFÜ a kiállított hitelesítési jelentést annak kiállításától számított 8 napon belül elektronikusan megküldi az igazoló hatóság részére.
 
-[^243]: A 77. §-t a 302/2013. (VII. 29.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.
-[^244]: A 78. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 33. pontja szerint módosított szöveg.
-[^245]: A 78. § (7) bekezdés c) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 34. pontja szerint módosított szöveg.
-[^246]: A 78. § (7) bekezdés d) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 35. pontja szerint módosított szöveg.
-[^247]: A 78. § (7) bekezdés e) pontja a 302/2013. (VII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^248]: A 78. § (9) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 36. pontja szerint módosított szöveg.
-[^249]: A 78. § (10) bekezdése a 25/2012. (II. 29.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^255]: A 77. §-t a 302/2013. (VII. 29.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.
+[^256]: A 78. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 33. pontja szerint módosított szöveg.
+[^257]: A 78. § (7) bekezdés c) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 34. pontja szerint módosított szöveg.
+[^258]: A 78. § (7) bekezdés d) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 35. pontja szerint módosított szöveg.
+[^259]: A 78. § (7) bekezdés e) pontja a 302/2013. (VII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^260]: A 78. § (9) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 36. pontja szerint módosított szöveg.
+[^261]: A 78. § (10) bekezdése a 25/2012. (II. 29.) Korm. rendelet 43. §-ával megállapított szöveg.

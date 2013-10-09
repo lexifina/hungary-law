@@ -1,18 +1,18 @@
-## 20/B. [^116] A többletkötelezettség-vállalási minimum szintek és a többletkötelezettség-vállalás mértékének megállapítására vonatkozó alapelvek
+## 20/B. [^121] A többletkötelezettség-vállalási minimum szintek és a többletkötelezettség-vállalás mértékének megállapítására vonatkozó alapelvek
 
-29/B. § (1)[^117] Az egyes prioritásokra vonatkozó kötelezettségvállalási minimum szint az adott prioritás teljes keretének 65%-a. A kötelezettség-vállalási minimumszint alatt az NFÜ többletkötelezettség-vállalási igényt nem nyújthat be.
+29/B. § (1)[^122] Az egyes prioritásokra vonatkozó kötelezettségvállalási minimum szint az adott prioritás teljes keretének 65%-a. A kötelezettség-vállalási minimumszint alatt az NFÜ többletkötelezettség-vállalási igényt nem nyújthat be.
 
 (2) A többletkötelezettség-vállalás mértékét a prioritás európai uniós és hazai finanszírozási keretéhez (a továbbiakban: keret) igazodva forintban szükséges meghatározni.
 
 (3) A többletkötelezettség-vállalás mértékét a lemorzsolódó források aránya, valamint a prioritások kifizetett közkiadással nem érintett kerete alapján kell meghatározni.
 
-(4)[^118] A többletkötelezettség-vállalás prioritásonkénti kiindulási mértéke a prioritásban lemorzsolódott források lekötött forrásokhoz viszonyított arányával egyezik meg. Ezen arányt kell a prioritások kifizetett közkiadással nem érintett keretére alkalmazni a többletkötelezettség-vállalás összegének meghatározásához.
+(4)[^123] A többletkötelezettség-vállalás prioritásonkénti kiindulási mértéke a prioritásban lemorzsolódott források lekötött forrásokhoz viszonyított arányával egyezik meg. Ezen arányt kell a prioritások kifizetett közkiadással nem érintett keretére alkalmazni a többletkötelezettség-vállalás összegének meghatározásához.
 
-(5)[^119]
+(5)[^124]
 
-(6)[^120]
+(6)[^125]
 
-(7)[^121]
+(7)[^126]
 
 (8) A többletkötelezettség-vállalás megállapítása közkiadás alapon, EU támogatás, hazai központi költségvetési támogatás és hazai közszféra önerő bontásban történik.
 
@@ -22,13 +22,14 @@
 
 (11) Az előzetes többletkötelezettség-vállalás tényleges többletkötelezettség-vállalással le nem kötött része újra felhasználható.
 
-(12) A többletkötelezettség-vállalás forrásait olyan projektek támogatására kell felhasználni, amelyek kivitelezése és elszámolása 2015. december 31-éig megvalósítható.
+(12)[^127] A többletkötelezettség-vállalás forrásait szakaszolt projektek első szakaszának indítására vagy olyan projektek támogatására kell felhasználni, amelyek kivitelezése és elszámolása 2015. december 31-éig megvalósítható.
 
 (13) A többletkötelezettség-vállaláson belül az európai uniós és a nemzeti társfinanszírozás arányát úgy kell meghatározni, hogy megvalósuljon a 100%-os abszorpció az Európai Bizottság által előírt hazai társfinanszírozás minimális szinten tartása mellett. Emellett törekedni kell arra, hogy a programozási időszak végére az Európai Bizottság által elvárt prioritásonkénti 85–15% arány teljesüljön.
 
-[^116]: A 20/B. alcímet (29/B. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
-[^117]: A 29/B. § (1) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^118]: A 29/B. § (4) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^119]: A 29/B. § (5) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
-[^120]: A 29/B. § (6) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
-[^121]: A 29/B. § (7) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
+[^121]: A 20/B. alcímet (29/B. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^122]: A 29/B. § (1) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^123]: A 29/B. § (4) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^124]: A 29/B. § (5) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
+[^125]: A 29/B. § (6) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
+[^126]: A 29/B. § (7) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
+[^127]: A 29/B. § (12) bekezdése a 356/2013. (X. 8.) Korm. rendelet 4. §-ával megállapított szöveg.

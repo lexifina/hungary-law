@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2013-07-30 | 2011-4-20-22.15 | 302/2013. (VII. 29.) Korm. rendelet |
 | 2013-07-31 | 2011-4-20-22.16 | 302/2013. (VII. 29.) Korm. rendelet |
 | 2013-08-01 | 2011-4-20-22.17 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2013-10-09 | 2011-4-20-22.18 | 356/2013. (X. 8.) Korm. rendelet |

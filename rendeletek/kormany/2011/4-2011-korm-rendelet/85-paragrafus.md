@@ -14,7 +14,7 @@ c) a szabálytalanság gyanúja kiemelt projekttel vagy nagyprojekttel szemben m
 
 d) a szabálytalansági gyanú olyan projekttel szemben merült fel, amely technikai segítségnyújtás keretből finanszírozott,
 
-e)[^268] a szabálytalansági gyanú az alapkezelő szervezettel szemben merül fel.
+e)[^280] a szabálytalansági gyanú az alapkezelő szervezettel szemben merül fel.
 
 (3) A közreműködő szervezet vezetője a közreműködő szervezethez benyújtott és az általa észlelt szabálytalansági gyanút alátámasztó és azzal összefüggő dokumentumokat a (2) bekezdésben meghatározott esetben átadja az NFÜ-nek.
 
@@ -22,7 +22,7 @@ e)[^268] a szabálytalansági gyanú az alapkezelő szervezettel szemben merül 
 
 (5) Ha a szabálytalansági eljárás lefolytatását az NFÜ magához vonta, a szabálytalansági eljárás kezdő napjának az eljárás dokumentumainak NFÜ-höz történő megérkezésének napját kell tekinteni.
 
-(6)[^269] Ha az ellenőrzési hatóság ellenőrzési tevékenysége során szabálytalanságot állapít meg, az e rendelet szerinti jogkövetkezmények alkalmazásának szükségességéről értesíti az NFÜ vezetőjét, aki gondoskodik azok végrehajtásáról. Az NFÜ döntése ellen a 92. §-ban foglaltak szerint lehetséges jogorvoslatot benyújtani. A jogorvoslati kérelmet az NFÜ-nél kell előterjeszteni.
+(6)[^281] Ha az ellenőrzési hatóság ellenőrzési tevékenysége során szabálytalanságot állapít meg, és annak alapján észleli, hogy a költségnyilatkozatban nem elszámolható költség szerepel, felkéri az NFÜ-t, hogy gondoskodjon arról, hogy az átutalás igénylési dokumentáció a nem elszámolható költség nélkül kerüljön kiállításra. Az NFÜ vezetője az előbbiek alapján gondoskodik az átutalás igénylési dokumentáció korrekciójáról, illetve szükség szerint az e rendelet szerinti egyéb jogkövetkezmények alkalmazását is elrendeli. Az NFÜ döntése ellen a 92. §-ban foglaltak szerint lehetséges jogorvoslatot benyújtani. A jogorvoslati kérelmet az NFÜ-nél kell előterjeszteni.
 
-[^268]: A 85. § (2) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 49. § (1) bekezdése iktatta be.
-[^269]: A 85. § (6) bekezdése a 25/2012. (II. 29.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
+[^280]: A 85. § (2) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 49. § (1) bekezdése iktatta be.
+[^281]: A 85. § (6) bekezdése a 356/2013. (X. 8.) Korm. rendelet 10. §-ával megállapított szöveg.
