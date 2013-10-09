@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külügyminiszter előterjesztésére – László Béla rendkívüli és meghatalmazott nagykövetet – Magyarországnak a pretoriai nagykövetség vezetése, valamint Magyarországnak a Szváziföldi Királyságban, a Mozambiki Köztársaságban, a Namíbiai Köztársaságban, a Zimbabwei Köztársaságban, a Leshotoi Királyságban és a Botswanai Köztársaságban való képviselete érintetlenül hagyása mellett – megbízom Magyarországnak a Zambiai Köztársaságban való képviseletével, illetve – érdemei elismerése mellett – felmentem Magyarországnak az Angolai Köztársaságban való képviselete alól.
+
+KEH ügyszám: IV-5/00912/2012.
