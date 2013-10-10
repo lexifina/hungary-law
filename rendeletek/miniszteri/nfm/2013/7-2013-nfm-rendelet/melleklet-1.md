@@ -66,7 +66,7 @@
 
 1.27. a Svájci–Magyar egészségprogram „8. prioritás: alapellátás fejlesztése” elnevezésű projekt keretei között megvalósuló Praxis közösség tevékenységét támogató rendszer.
 
-1.28.[^4] a külön jogszabályban meghatározott elektronikus útdíjrendszer (a továbbiakban: UD rendszer), beleértve az UD rendszer üzemeltetéséhez kapcsolódó IT biztonsági rendszer üzemeltetését, az éles üzemet megelőző testre szabását és előzetes tesztelését, ezen belül:
+1.28.[^6] a külön jogszabályban meghatározott elektronikus útdíjrendszer (a továbbiakban: UD rendszer), beleértve az UD rendszer üzemeltetéséhez kapcsolódó IT biztonsági rendszer üzemeltetését, az éles üzemet megelőző testre szabását és előzetes tesztelését, ezen belül:
 
 1.28.1. a biztonságos üzemeltetéshez szükséges IT biztonsági szabályozás és politika kialakítását;
 
@@ -84,13 +84,13 @@
 
 1.28.8. a rendszerkapcsolatok és azok illesztései folyamatos biztosítását;
 
-1.29.[^5] a külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+1.29.[^7] a külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
 2. A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:
 
 2.1. Az 1.17. pont szerinti önkormányzati ASP központot kiszolgáló informatikai rendszer.
 
-2.2.[^6] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+2.2.[^8] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
 3. A központi szolgáltató a következő informatikai rendszerek fejlesztésében működik közre:
 
@@ -114,6 +114,6 @@
 
 3.10. Az 1.26. pont szerinti Mentés irányítási rendszer.
 
-[^4]: Az 1. melléklet 1.28. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^5]: Az 1. melléklet 1.29. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^6]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^6]: Az 1. melléklet 1.28. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^7]: Az 1. melléklet 1.29. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^8]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
