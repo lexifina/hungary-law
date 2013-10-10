@@ -8,8 +8,14 @@ a) állománymozgás: állatok egy csoportjának vagy keltetésre szánt tojáso
 
 b) INTRA/KÁBO szám: az Európai Unió által működtetett TRACES rendszer által képzett, a Közösségen Belüli Bizonyítványok/Közös Állategészségügyi Beléptetési Okmányok azonosítására kiadott tizennyolc karakteres azonosító szám;
 
-c) törzsállomány azonosító szám: a BIR által képzett és a tenyésztési hatóság által kiadott hatjegyű szám, amely a baromfi törzsállományok azonosítására szolgál;
+c)[^1] törzsállomány azonosító szám: a BIR által képzett és a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által kiadott hatjegyű szám, amely a baromfi törzsállományok azonosítására szolgál;
 
-d) Útmutató: a tenyésztési hatóság által készített és a Földművelésügyi és Vidékfejlesztési Minisztérium honlapján közzétett BIR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató.
+d)[^2] útmutató: a NÉBIH által készített és honlapján közzétett BIR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató.
+
+e)[^3] állat-egészségügyi bizonyítvány: az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 2. melléklete szerinti okirat.
 
 (2) Az e rendeletben nem meghatározott fogalmakra a TIR rendelet 2. §-a és az Átv. 3. §-a az irányadó.
+
+[^1]: A 2. § (1) bekezdés c) pontja a 88/2013. (X. 2.) VM rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés d) pontja a 88/2013. (X. 2.) VM rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés e) pontját a 88/2013. (X. 2.) VM rendelet 44. § (2) bekezdése iktatta be.

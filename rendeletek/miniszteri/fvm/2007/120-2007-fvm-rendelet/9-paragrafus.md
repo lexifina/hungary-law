@@ -1,6 +1,6 @@
 ## 9. § A BIR működtetése keretében a TIR regisztrációra kötelezett állattartó feladatai:
 
-a)[^7] az állatok vagy keltetésre szánt tojások másik tenyészetbe történő szállításakor kitölti az Útmutató szerinti szállítólevelet, valamint a szállítás engedélyezésére kiállított állategészségügyi bizonyítvány sorszámát és a kiállítás dátumát feltünteti a szállítólevélen, melyet az állatorvos aláírásával és bélyegzőlenyomatával hitelesít, és az állattartó a szállítólevél egy példányát megküldi az Országos Adatbázis részére;
+a)[^12] az állatok vagy keltetésre szánt tojások másik tenyészetbe történő szállításakor kitölti a szállítólevelet, valamint a szállítás engedélyezésére kiállított állat-egészségügyi bizonyítvány sorszámát, a kiállítás dátumát, valamint a kiállító állatorvos bélyegzőszámát feltünteti a szállítólevélen, és a szállítólevél egy példányát megküldi az Országos Adatbázis részére;
 
 b) a tenyészetbe beérkezett állatok vagy keltetésre szánt tojások szállítólevelének fogadásra vonatkozó részét kitölti, és annak egy példányát megküldi az Országos Adatbázis részére;
 
@@ -10,4 +10,4 @@ d) az e rendelet szerint szükséges információkat, illetve adatokat az ellen�
 
 e) köteles a 3. §-nak megfelelően nyilvántartást vezetni.
 
-[^7]: A 9. § a) pontja a 87/2012. (VIII. 27.) VM rendelet 20. §-ával megállapított szöveg.
+[^12]: A 9. § a) pontja a 88/2013. (X. 2.) VM rendelet 46. §-ával megállapított szöveg.
