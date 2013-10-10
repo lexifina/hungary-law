@@ -1,0 +1,1 @@
+## „(5) Az elfogadott füljelzőket és azok forgalmazóinak listáját a NÉBIH saját honlapján közzéteszi, és megállapodást köt a nyertes pályázókkal. A sertés ENAR-ban kizárólag ezek a füljelzők igényelhetők.”

@@ -1,0 +1,3 @@
+## 55. § A 182/2009. (XII. 30.) FVM rendelet 10. §-a helyébe a következő rendelkezés lép:
+
+## „10. § Amennyiben a jelölőeszköz az állat füléből kiesett, elveszett, vagy olyan mértékben károsodott, hogy a rajta lévő felirat vagy elektronikus jel nem olvasható, akkor az annak pótlását szolgáló, illetve a 4. § c) pontja és az 5. § c) és d) pontja szerinti új füljelző megrendeléséről az állattartónak legkésőbb a 12. § szerinti éves leltárkor, pótlásáról vagy cseréjéről pedig a lehető leghamarabb, de legkésőbb az állat értékesítéséig vagy vágóhídra kerüléséig gondoskodnia kell. A jelölőeszközt az útmutatóban leírtak szerint bármilyen engedélyezett típussal lehet pótolni a 4. és 5. §-ban rögzített előírások betartásával.”
