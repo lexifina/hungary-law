@@ -1,14 +1,16 @@
-## 14. §[^45] A tenyésztési hatóság részletes feladat- és hatásköre az ENAR működtetésével kapcsolatban:
+## 14. §[^32] A tenyésztési hatóság részletes feladat- és hatásköre az ENAR működtetésével kapcsolatban:
 
-a) ellátja az információk biztonságos központi tárolásával, az országos adatbázis működtetésével és fejlesztésével összefüggő valamennyi feladatot az adatvédelmi előírások betartásával;
+a)[^33] ellátja az információk biztonságos központi tárolásával, az Országos Adatbázis működtetésével és fejlesztésével összefüggő valamennyi feladatot az adatvédelmi előírások betartásával;
 
-b) gondoskodik az állatok jelöléséhez szükséges füljelzők és behelyező eszközök, valamint a kapcsolódó bizonylatok beszerzéséről és továbbításáról, illetve kiállításáról;
+b)[^34] lefolytatja az állatok jelöléséhez használható füljelzők és behelyező eszközök megfelelőségi vizsgálatát, jóváhagyja a füljelző-beszállítókat, valamint felügyeli a füljelzők megrendelésének és a szállítás-teljesítésnek a folyamatát;
 
 c) gondoskodik arról, hogy az arra jogosult felhasználóknak az adatbázis hiteles információkat adjon;
 
 d) eljárást kezdeményez az illetékes hatóságnál, ha észleli, hogy e rendelet előírásaitól eltérnek;
 
-e)[^46] az állategészségügyi hatóság egyetértésével elkészíti az Útmutatót.
+e)[^35] elkészíti az Útmutatót.
 
-[^45]: A 14. § bevezető szövegrésze a 119/2007. (X. 18.) FVM rendelet 15. § (9) bekezdése szerint módosított szöveg.
-[^46]: A 14. § e) pontja a 119/2007. (X. 18.) FVM rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^32]: A 14. § bevezető szövegrésze a 119/2007. (X. 18.) FVM rendelet 15. § (9) bekezdése szerint módosított szöveg.
+[^33]: A 14. § a) pontja a 88/2013. (X. 2.) VM rendelet 23. § 11. pontja szerint módosított szöveg.
+[^34]: A 14. § b) pontja a 88/2013. (X. 2.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^35]: A 14. § e) pontja a 88/2013. (X. 2.) VM rendelet 6. § (2) bekezdésével megállapított szöveg.

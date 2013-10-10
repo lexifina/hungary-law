@@ -1,9 +1,13 @@
-41. § (1)[^105]
+## 41. §[^94] Ez a rendelet:
 
-(2)[^106]
+a) a 820/97/EK tanácsi rendeletnek a szarvasmarhafélék azonosítási és nyilvántartási rendszerének keretében a minimálisan alkalmazandó közigazgatási szankciók végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 1998. február 27-i 494/98/EK bizottsági rendelet;
 
-(3)[^107]
+b) a szarvasmarhafélék azonosítási és nyilvántartási rendszerének létrehozásáról, valamint a marhahús és marhahústermékek címkézéséről, továbbá a 820/97/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2000. július 17-i 1760/2000/EK európai parlamenti és tanácsi rendelet;
 
-[^105]: A 41. § (1) bekezdését a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
-[^106]: A 41. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 296. pontja hatályon kívül helyezte.
-[^107]: A 41. § (3) bekezdését a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
+c) az 1760/2000/EK európai parlamenti és tanácsi rendeletnek a szarvasmarhafélék azonosítási és nyilvántartási rendszerének keretében végrehajtandó minimális szintű ellenőrzések tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2003. június 23-i 1082/2003/EK bizottsági rendelet;
+
+d) a füljelzők, marhalevelek és állomány-nyilvántartások tekintetében az 1760/2000/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló, 2004. április 29-i 911/2004/EK bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^94]: A 41. §-t újonnan a 88/2013. (X. 2.) VM rendelet 21. §-a iktatta be.

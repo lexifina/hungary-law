@@ -1,3 +1,3 @@
-## 38. §[^102]
+## 38. §[^91]
 
-[^102]: A 38. §-t a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
+[^91]: A 38. §-t a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.

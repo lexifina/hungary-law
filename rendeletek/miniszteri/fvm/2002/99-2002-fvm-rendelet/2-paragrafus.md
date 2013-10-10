@@ -1,51 +1,34 @@
 ## Értelmező rendelkezések
 
-2. § (1)[^4]
+2. § (1)[^3] E rendelet alkalmazásában:
 
-1.[^5]
+1. állatmozgás: az állat tenyészetek közötti helyváltoztatása,
 
-2.[^6] Állatmozgás: az állat tenyészetek közötti helyváltoztatása.
+2. ENAR-szám: a magyar ENAR szám és a más tagállami ENAR jelölés összefoglaló elnevezése,
 
-3.[^7]
+3. füljelző: a szarvasmarhák szabályszerű, mindkét fülében történő jelölésére szolgáló jelzőeszköz,
 
-4.[^8] Belföldi marhalevél-igazolólap: az állat központi nyilvántartásba vételét, valamint az állattartó személyét tanúsító hatósági bizonyítvány.
+4. használati szám: a magyar ENAR-számmal rendelkező egyedek tenyészeten belüli megkülönböztetésére szolgáló négyjegyű szám, amit a magyar ENAR-szám tíz számjegyének 6-9. számjegyei alkotnak,
 
-5.[^9] Szarvasmarha ENAR (a továbbiakban: ENAR): a szarvasmarha-fajok egyedeinek azonosítási és nyilvántartási rendszere, ami kapcsolódik a tenyészetek nyilvántartásához, biztosítja az állatok nyomon követését, továbbá alapját képezi az érintett szakterületek (állategészségügy, állattenyésztés, piacszabályozás stb.) nyilvántartási rendszerének.
+5. magyar ENAR-szám: az egyed megjelölésére és azonosítására használt, Magyarország ISO kódjeléből (HU) és tíz számjegyből álló egyedi kód; a bejelentett egyed kódját az Országos Adatbázis adja ki,
 
-6–8.[^10]
+6. más tagállami ENAR jelölés: a szarvasmarhák azonosítási és nyilvántartási rendszerének létrehozásáról, továbbá a marhahús és marhahústermékek címkézéséről, valamint a 820/97/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1760/2000/EK európai parlamenti és tanácsi rendeletnek (a továbbiakban: 1760/2000/EK európai parlamenti és tanácsi rendelet) megfelelő jelölés,
 
-9.[^11] Magyar ENAR-szám: az egyed megjelölésére és azonosítására használt, Magyarország ISO kódjeléből (HU) és tíz számjegyből álló egyedi kód; a bejelentett egyed kódját az országos adatbázis adja ki.
+7. ENAR: a szarvasmarha-fajok egyedeinek azonosítási és nyilvántartási rendszere, ami kapcsolódik a tenyészetek nyilvántartásához, biztosítja az állatok nyomon követését, továbbá alapját képezi az érintett szakterületek (különösen az állategészségügy, az állattenyésztés, a piacszabályozás) nyilvántartási rendszerének,
 
-10. Füljelző: a szarvasmarhák szabályszerű, mindkét fülében történő jelölésére szolgáló jelző eszköz.
+8. tenyészetkód: a tenyészet azonosító száma a Tenyészet Információs Rendszer (a továbbiakban: TIR) nyilvántartásában,
 
-11.[^12] Használati szám: a magyar ENAR-számmal rendelkező egyedek tenyészeten belüli megkülönböztetésére szolgáló négyjegyű szám, amit a magyar ENAR-szám tíz számjegyének 6–9. számjegyei alkotnak.
+9. tenyésztési hatóság: a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH),
 
-12–15.[^13]
+10. Útmutató: a szarvasmarha egyedi jelölésére és nyilvántartására vonatkozó segédlet, amelyet a tenyésztési hatóság készít el, tart naprakészen és tesz közzé a www.enar.hu honlapon,
 
-16. Szarvasmarha útlevél: az állat exportra történő szállítása esetén az export-bizonyítványhoz kötelezően csatolandó hatósági bizonyítvány.
+11. állat-egészségügyi bizonyítvány: az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 2. melléklete szerinti okirat,
 
-17.[^14]
+12. belföldi marhalevél-igazolólap: az állat központi nyilvántartásba vételét, valamint az állattartó személyét tanúsító hatósági bizonyítvány,
 
-18.[^15] Tenyészetkód: a tenyészet azonosító száma a Tenyészet Információs Rendszer nyilvántartásában.
+13. szarvasmarha útlevél: az állat exportra történő szállítása esetén az export-bizonyítványhoz kötelezően csatolandó hatósági bizonyítvány.
 
-19.[^16] ENAR-szám: A magyar ENAR szám és a más tagállami ENAR szám összefoglaló elnevezése.
+(2)[^4] Az e rendeletben nem meghatározott fogalmakra a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet 2. §-a irányadó.
 
-20.[^17] Más tagállami ENAR jelölés: az 1. § (2) bekezdés a) pontja szerinti rendeletnek megfelelő jelölés.
-
-(2)[^18] Az e rendeletben nem meghatározott fogalmakra a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet 2. §-a irányadó.
-
-[^4]: A 2. § eredeti szövegének számozását (1) bekezdésre változtatta a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése.
-[^5]: A 2. § (1) bekezdésének 1. pontját a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
-[^6]: A 2. § 2. pontja a 12/2004. (I. 31.) FVM rendelet 2. §-ának (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1) bekezdés 3. pontját a 4/2009. (I. 16.) FVM rendelet 32. § (2) bekezdése hatályon kívül helyezte.
-[^8]: A 2. § (1) bekezdés 4. pontja a 87/2012. (VIII. 27.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § 5. pontja a 12/2004. (I. 31.) FVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
-[^10]: A 2. § (1) bekezdésének 6–8. pontját a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
-[^11]: A 2. § (1) bekezdés 9. pontja a 4/2009. (I. 16.) FVM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^12]: A 2. § (1) bekezdés 11. pontja a 4/2009. (I. 16.) FVM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^13]: A 2. § (1) bekezdésének 12–15. pontját a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
-[^14]: A 2. § (1) bekezdésének 17. pontját a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte.
-[^15]: A 2. § (1) bekezdés 18. pontja a 4/2009. (I. 16.) FVM rendelet 17. § (3) bekezdésével megállapított szöveg.
-[^16]: A 2. § (1) bekezdésének 19. pontját a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése hatályon kívül helyezte, újonnan a 4/2009. (I. 16.) FVM rendelet 17. § (4) bekezdése iktatta be.
-[^17]: A 2. § 20. pontját hatályon kívül helyezte a 119/2007. (X. 18.) FVM rendelet 15. § (11) bekezdése, újonnan a 4/2009. (I. 16.) FVM rendelet 17. § (4) bekezdése iktatta be.
-[^18]: A 2. § (2) bekezdését a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
+[^3]: A 2. § eredeti szövegének számozását (1) bekezdésre változtatta a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése. A 2. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdését a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.

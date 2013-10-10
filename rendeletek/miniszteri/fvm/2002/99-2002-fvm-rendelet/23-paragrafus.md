@@ -20,6 +20,6 @@ g) a kiadás időpontját és sorszámát.
 
 (2) A belföldi marhalevél-igazolólap első oldalának alsó része az ellenőrző szelvényből áll.
 
-(3)[^66] A marhalevél második oldala (hátoldala) az állatot kísérő állategészségügyi bizonyítvány azonosító adatait tartalmazza. Az adatlap kitöltését követően – ha jogszabály másképp nem rendelkezik – az állatorvos feltünteti a jelen rendelet alapján kiállított állategészségügyi bizonyítvány sorszámát, valamint aláírását és a bélyegzőlenyomatát.
+(3)[^53] A marhalevél második oldala (hátoldala) az állatot kísérő állat-egészségügyi bizonyítvány azonosító adatait tartalmazza. Az adatlap kitöltését követően – ha jogszabály másképp nem rendelkezik – a hátoldalon fel kell tüntetni az állat-egészségügyi bizonyítvány sorszámát, a kiállító állatorvos bélyegzőszámát és a kiállítás dátumát.
 
-[^66]: A 23. § (3) bekezdése a 87/2012. (VIII. 27.) VM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^53]: A 23. § (3) bekezdése a 88/2013. (X. 2.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
