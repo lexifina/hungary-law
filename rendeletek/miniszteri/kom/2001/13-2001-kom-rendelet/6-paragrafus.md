@@ -1,41 +1,23 @@
-## 6. §[^18] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+6. §[^18] (1) Ez a rendelet
 
-a) a Tanács 79/409/EGK irányelve (1979. április 2.) a vadon élő madarak védelméről, I. melléklet, II/2. melléklet és III/2. melléklet, valamint az azokat módosító
+a) a vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv I. mellékletének, II. melléklet B. részének és III. melléklet B. részének;
 
-aa) a Tanács 81/854/EGK irányelve,
+b) az egyes fókakölykök bőrének és az abból származó termékeknek a tagállamokba történő behozataláról szóló, 1983. március 28-i 83/129/EGK tanácsi irányelvnek;
 
-ab) a Bizottság 85/411/EGK irányelve,
+c) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló, 1992. május 21-i 92/43/EGK tanácsi irányelv 12. cikk (1) bekezdésének, 13. cikk (1) bekezdésének, II., IV. és V. mellékletének, valamint az azokat módosító
 
-ac) a Tanács 86/122/EGK irányelve,
+ca) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló 92/43/EGK irányelv műszaki és tudományos fejlődéshez történő hozzáigazításáról szóló, 1997. október 27-i 97/62/EK tanácsi irányelvnek,
 
-ad) a Bizottság 91/244/EGK irányelve,
+cb) az Osztrák Köztársaság, a Finn Köztársaság és a Svéd Királyság csatlakozási feltételeiről és a szerződések kiigazításáról szóló okmánynak,
 
-ae) a Tanács 94/24/EK irányelve,
+cc) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmánynak;
 
-af) a Bizottság 97/49/EK irányelve,
+d) a környezetvédelem területén elfogadott 79/409/EGK, 92/43/EGK, 97/68/EK, 2001/80/EK és 2001/81/EK irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról szóló, 2006. november 20-i 2006/105/EK tanácsi irányelvnek;
 
-ag) a Görög Köztársaság csatlakozási feltételeiről és a szerződések kiigazításáról szóló okmány,
+e) a környezetvédelem területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013. május 13-i 2013/17/EU tanácsi irányelv 2. cikkének
 
-ah) a Spanyol Királyság és a Portugál Köztársaság csatlakozási feltételeiről és a szerződések kiigazításáról szóló okmány,
+## való megfelelést szolgálja.
 
-ai) az Osztrák Köztársaság, a Finn Köztársaság és a Svéd Királyság csatlakozási feltételeiről és a szerződések kiigazításáról szóló okmány,
+(2) Ez a rendelet a fókatermékek kereskedelméről szóló, 2009. szeptember 16-i 1007/2009/EK európai parlamenti és tanácsi rendelet 4. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-aj) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány;
-
-b) a Tanács 83/129/EGK irányelve (1983. március 28.) egyes fókabébik prémjének és az abból származó termékeknek a tagállamokba történő behozataláról;
-
-c) a Tanács 92/43/EGK irányelve (1992. május 21.) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről, 12. cikk (1) bekezdés, 13. cikk (1) bekezdés, II. melléklet, IV. melléklet és V. melléklet, valamint az azokat módosító
-
-ca) a Tanács 97/62/EK irányelve,
-
-cb) az Osztrák Köztársaság, a Finn Köztársaság és a Svéd Királyság csatlakozási feltételeiről és a szerződések kiigazításáról szóló okmány,
-
-cc) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány;
-
-d)[^19] a Tanács 2006. november 20-i 2006/105/EK irányelve a környezetvédelem területén elfogadott 79/409/EGK, 92/43/EGK, 97/68/EK, 2001/80/EK és 2001/81/EK irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról;
-
-e)[^20] az Európai Parlament és a Tanács 1007/2009/EK rendelete (2009. szeptember 16.) a fókatermékek kereskedelméről, 4. cikk.
-
-[^18]: A 6. § a 23/2005. (VIII. 31.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^19]: A 6. § d) pontját a 23/2007. (VI. 27.) KvVM rendelet 1. § (1) bekezdése iktatta be.
-[^20]: A 6. § e) pontját a 106/2011. (XI. 10.) VM rendelet 2. §-a iktatta be.
+[^18]: A 6. § a 83/2013. (IX. 25.) VM rendelet 1. §-ával megállapított szöveg.

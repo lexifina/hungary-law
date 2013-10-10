@@ -1,6 +1,6 @@
 ## FOKOZOTTAN VÉDETT ÉS VÉDETT NÖVÉNYEK
 
-## 2K20905_0
+## 3K67479M_0
 
 |  | A | B | C | D | E |
 
@@ -332,6 +332,10 @@
 
 | 163. | ANGIOSPERMATOPHYTA |  |  | ZÁRVATERMŐK |  |
 
+| 163a. | Alismataceae |  |  | hídőrfélék |  |
+
+| 163b. |  | Caldesia parnassifolia |  | szíveslevelű-hídőr (lápiszíveslevelű-hídőr) | 100 000 |
+
 | 164. | Alliaceae |  |  | hagymafélék |  |
 
 | 165. |  |  | Allium carinatum | szarvashagyma | 5 000 |
@@ -346,9 +350,9 @@
 
 | 170. |  |  | Allium victorialis | győzedelmes hagyma (havasi hagyma) | 50 000 |
 
-| 171. | Alismataceae |  |  | hídőrfélék |  |
+| 171. |  |  |  |  |  |
 
-| 172. |  | Caldesia parnassifolia |  | szíveslevelű-hídőr (lápiszíveslevelű-hídőr) | 100 000 |
+| 172. |  |  |  |  |  |
 
 | 173. | Amaryllidaceae |  |  | amarilliszfélék |  |
 
@@ -418,7 +422,7 @@
 
 | 206. | Araceae |  |  | kontyvirágfélék |  |
 
-| 207. |  |  | Acorus calamus 22 | kálmos (orvosikálmos)1 | 5 000 |
+| 207. |  |  | Acorus calamus 20 | kálmos (orvosikálmos)1 | 5 000 |
 
 | 208. | Asclepiadaceae |  |  | selyemkórófélék |  |
 
@@ -604,7 +608,7 @@
 
 | 299. |  |  | Cardaminopsis petraea | sziklai kövifoszlár | 50 000 |
 
-| 300. |  |  | Conringia austriaca | keleti nyilasfű | 50 000 |
+| 300. |  |  | Conringia austriaca | nyugati nyilasfű | 50 000 |
 
 | 301. |  | Crambe tataria |  | tátorján (buglyos tátorján) | 100 000 |
 
@@ -770,7 +774,7 @@
 
 | 382. |  |  | Sempervivum matricum (Sempervivum marmoreum auct. hung.) | mátrai kövirózsa (rózsás kövirózsa) | 10 000 |
 
-| 383. |  |  | Sempervivum tectorum 23 | házi kövirózsa (fali kövirózsa) 2 | 5 000 |
+| 383. |  |  | Sempervivum tectorum 21 | házi kövirózsa (fali kövirózsa) 2 | 5 000 |
 
 | 384. | Cyperaceae |  |  | palkafélék |  |
 
@@ -854,7 +858,7 @@
 
 | 424. | Elaeagnaceae |  |  | ezüstfafélék |  |
 
-| 425. |  |  | Hippophaë rhamnoides 24 | homoktövis (európai homoktövis) 3 | 10 000 |
+| 425. |  |  | Hippophaë rhamnoides 22 | homoktövis (európai homoktövis) 3 | 10 000 |
 
 | 426. | Elatinaceae |  |  | látonyafélék |  |
 
@@ -1276,7 +1280,7 @@
 
 | 635. |  | Himantoglossum adriaticum |  | adriai sallangvirág | 250 000 |
 
-| 636. |  | Himantoglossum caprinum |  | bíboros sallangvirág | 250 000 |
+| 636. |  | Himantoglossum jankae (Himantoglossum caprinum) |  | Janka- sallangvirág (bíboros sallangvirág) | 250 000 |
 
 | 637. |  |  | Limodorum abortivum | gérbics (ibolyásgérbics) | 10 000 |
 
@@ -1374,7 +1378,7 @@
 
 | 684. |  |  | Calamagrostis varia | tarka nádtippan | 5 000 |
 
-| 685. |  |  | Elymus elongatus 25 | magas tarackbúza 4 | 5 000 |
+| 685. |  |  | Elymus elongatus 23 | magas tarackbúza 4 | 5 000 |
 
 | 686. |  |  | Festuca amethystina | lila csenkesz | 10 000 |
 
@@ -1536,6 +1540,10 @@
 
 | 765. |  |  | Reseda inodora | szagtalan rezeda | 5 000 |
 
+| 765a. | Rhamnaceae |  |  | bengefélék |  |
+
+| 765b. |  |  | Rhamnus saxatilis | sziklai benge | 10 000 |
+
 | 766. | Rosaceae |  |  | rózsafélék |  |
 
 | 767. |  |  | Alchemilla acutiloba | hegyeskaréjú palástfű | 5 000 |
@@ -1610,55 +1618,53 @@
 
 |  |  |  | Sorbus andreanszkyana | Andreánszky-berkenye |  |
 
-|  |  |  | Sorbusadami | Ádám-berkenye |  |
+|  |  |  | Sorbus adami | Ádám-berkenye |  |
 
-|  |  |  | Sorbusbakonyensis | bakonyi berkenye |  |
+|  |  |  | Sorbusb akonyensis | bakonyi berkenye |  |
 
 |  |  |  | Sorbus balatonica | balatoni berkenye |  |
 
 |  |  |  | Sorbus barabitsii | Barabits-berkenye |  |
 
-|  |  |  | Sorbusbarthae | Bartha-berkenye |  |
+|  |  |  | Sorbus barthae | Bartha-berkenye |  |
 
-|  |  |  | Sorbusbodajkensis | bodajki berkenye |  |
+|  |  |  | Sorbus bodajkensis | bodajki berkenye |  |
 
 |  |  |  | Sorbus borosiana | Boros-berkenye |  |
 
-|  |  |  | Sorbus budaiana | budai berkenye |  |
+|  |  |  | Sorbus budaiana | Budai-berkenye |  |
 
 |  |  |  | Sorbus buekkensis | bükki berkenye |  |
 
-|  |  |  | Sorbusdecipientiformis | keszthelyi berkenye |  |
+|  |  |  | Sorbus decipientiformis | keszthelyi berkenye |  |
 
-|  |  |  | Sorbus degenii | Dégen-berkenye |  |
+|  |  |  | Sorbus degenii | Degen-berkenye |  |
 
 |  |  |  | Sorbus dracofolius | gánti berkenye |  |
 
-|  |  |  | Sorbuseugenii-kelleri | Keller-berkenye |  |
+|  |  |  | Sorbus eugenii-kelleri | Keller-berkenye |  |
 
-|  |  |  | Sorbusgayeriana | Gáyer-berkenye |  |
+|  |  |  | Sorbus gayeriana | Gáyer-berkenye |  |
 
-|  |  |  | Sorbusgerecseensis | gerecsei berkenye |  |
+|  |  |  | Sorbus gerecseensis | gerecsei berkenye |  |
 
 |  |  |  | Sorbus huljakii | Hulják-berkenye |  |
 
 |  |  |  | Sorbus javorkae | Jávorka-berkenye |  |
 
-|  |  |  | Sorbuskarpatii | Kárpáti-berkenye |  |
+|  |  |  | Sorbus karpatii | Kárpáti-berkenye |  |
 
-|  |  |  | Sorbuslatissima | nagylevelű berkenye |  |
+|  |  |  | Sorbus latissima | nagylevelű berkenye |  |
 
-|  |  |  | Sorbusmajeri | Májer-berkenye |  |
+|  |  |  | Sorbus majeri | Májer-berkenye |  |
 
-|  |  |  | Sorbussemiincisa | budai berkenye |  |
-
-|  |  |  | Sorbuspannonica | dunántúli berkenye |  |
+|  |  |  | Sorbus pannonica | dunántúli berkenye |  |
 
 |  |  |  | Sorbus polgariana | Polgár-berkenye |  |
 
-|  |  |  | Sorbuspseudobakonyensis | rövidkaréjú berkenye |  |
+|  |  |  | Sorbus pseudobakonyensis | rövidkaréjú berkenye |  |
 
-|  |  |  | Sorbuspseudodanubialis | Duna-menti berkenye |  |
+|  |  |  | Sorbus pseudodanubialis | Duna-menti berkenye |  |
 
 |  |  |  | Sorbus pseudolatifolia | széleslevelű berkenye |  |
 
@@ -1667,6 +1673,8 @@
 |  |  |  | Sorbus pseudovertensis | csákberényi berkenye |  |
 
 |  |  |  | Sorbus redliana | Rédl-berkenye |  |
+
+|  |  |  | Sorbus semiincisa | budai berkenye |  |
 
 |  |  |  | Sorbus simonkaiana | Simonkai-berkenye |  |
 
@@ -1750,7 +1758,7 @@
 
 | 830. |  | Pseudolysimachion spurium |  | bugás fürtösveronika | 100 000 |
 
-| 831. |  |  | Rhamnus saxatilis | sziklai benge | 10 000 |
+| 831. |  |  |  |  |  |
 
 | 832. |  |  | Scrophularia scopolii | bársonyos görvélyfű | 5 000 |
 
@@ -1808,13 +1816,13 @@
 
 | 858. |  |  | Vitissylvestris | ligeti szőlő | 50 000 |
 
-## 22Kivéve gyógyászati célra feldolgozott származéka.
+## 20Kivéve gyógyászati célra feldolgozott származéka.
 
-## 23Kivéve sterilis, termőképtelen alak.
+## 21Kivéve sterilis, termőképtelen alak.
 
-## 24Kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka.
+## 22Kivéve gyümölcse, gyógyászati és élelmezési célra feldolgozott származéka.
 
-## 25Kivéve energetikai célra termesztett és feldolgozott származéka.
+## 23Kivéve energetikai célra termesztett és feldolgozott származéka.
 
 ## 1 Kivéve gyógyászati célra feldolgozott származéka.
 
@@ -1824,8 +1832,8 @@
 
 ## 4 Kivéve energetikai célra termesztett és feldolgozott származéka.
 
-2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^22]
+2. számú melléklet a 13/2001. (V. 9.) KöM rendelethez[^20]
 
 FOKOZOTTAN VÉDETT ÉS VÉDETT ÁLLATOK
 
-[^22]: A 2. számú melléklet a 100/2012. (IX. 28.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. számú melléklet a 100/2012. (IX. 28.) VM rendelet 5. § (2) bekezdésével megállapított, a 83/2013. (IX. 25.) VM rendelet 3. §-a szerint módosított szöveg.
