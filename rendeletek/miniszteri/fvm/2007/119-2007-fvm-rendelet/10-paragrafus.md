@@ -16,6 +16,9 @@ c) új állattartó esetén az új állattartó és a tartóváltás adatait;
 
 d) tenyészetének vagy tartási helyének bármely adatában bekövetkezett változást.
 
-(5)[^12] Az állattartó köteles a TIR szerinti tenyészetkódot a kaptárak külső felületén, jól láthatóan, legalább 20 milliméteres számokkal, roncsolás nélkül nem eltávolítható módon, égetéssel, vagy korróziónak ellenálló hordozón feltüntetni.
+(5)[^39] Az állattartó köteles a TIR szerinti tenyészetkódot a kaptárak külső felületén, jól láthatóan, legalább 20 milliméteres számokkal, roncsolás nélkül nem eltávolítható módon, égetéssel, vagy korróziónak ellenálló hordozón feltüntetni.
 
-[^12]: A 10. § (5) bekezdését a 38/2012. (IV. 25.) VM rendelet 1. §-a iktatta be.
+(6)[^40] Az e rendelet hatálya alá eső tenyészet állattartója az önálló tenyészetbe való besorolást, illetve ENAR-felelős személyének megváltozását követő 10 napon belül írásban tájékoztatja az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot az ENAR-felelős személyéről.
+
+[^39]: A 10. § (5) bekezdését a 38/2012. (IV. 25.) VM rendelet 1. §-a iktatta be.
+[^40]: A 10. § (6) bekezdését a 88/2013. (X. 2.) VM rendelet 40. §-a iktatta be.
