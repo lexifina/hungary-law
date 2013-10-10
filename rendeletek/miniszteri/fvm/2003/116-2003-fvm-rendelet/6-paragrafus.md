@@ -1,9 +1,9 @@
-6. § (1)[^17]
+6. § (1)[^22]
 
-(2)[^18] A megyei körzetben az ENAR működtetésével kapcsolatos feladatokat kizárólag az illetékes megyei állategészségügyi hatóság igazgatója által megbízott kapcsolattartó állatorvos végezheti, az igazgató által kijelölt meghatározott területen, illetve tenyészetekben.
+(2)[^23]
 
-(3)–(6)[^19]
+(3)–(6)[^24]
 
-[^17]: A 6. § (1) bekezdését a 119/2007. (X. 18.) FVM rendelet 16. § (16) bekezdése hatályon kívül helyezte.
-[^18]: A 6. § (2) bekezdése a 119/2007. (X. 18.) FVM rendelet 16. § (14) bekezdése szerint módosított szöveg.
-[^19]: A 6. § (3)–(6) bekezdését a 119/2007. (X. 18.) FVM rendelet 16. § (16) bekezdése hatályon kívül helyezte.
+[^22]: A 6. § (1) bekezdését a 119/2007. (X. 18.) FVM rendelet 16. § (16) bekezdése hatályon kívül helyezte.
+[^23]: A 6. § (2) bekezdését a 88/2013. (X. 2.) VM rendelet 36. § b) pontja hatályon kívül helyezte.
+[^24]: A 6. § (3)–(6) bekezdését a 119/2007. (X. 18.) FVM rendelet 16. § (16) bekezdése hatályon kívül helyezte.
