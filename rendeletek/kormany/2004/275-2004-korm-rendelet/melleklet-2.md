@@ -1,1830 +1,1169 @@
-## 1. A) számú melléklet[^58]
+## 1. A) számú melléklet
 
 ## Közösségi jelentőségű madárfajok
 
-## -------------------
+|  | A | B | C |
 
-## Tudományos név Magyar név
+|  | Rendszertani kategória | Tudományos név | Magyar név |
 
-## -------------------
+| 1. | ANSERIFORMES |  | LÚDALAKÚAK |
 
-## BÚVÁRALAKÚAK (GAVIIFORMES)
+| 2. | Anatidae |  | Récefélék |
 
-## Búvárfélék (Gaviidae)
+| 3. |  | Cygnus columbianus bewickii | kis hattyú bewickii alfaja |
 
-## Gavia stellata északi búvár
+| 4. |  | Cygnus cygnus | énekes hattyú |
 
-## Gavia arctica sarki búvár
+| 5. |  | Anser albifrons flavirostris | grönlandi nagy lilik |
 
-## Gavia immer jeges búvár
+| 6. |  | Anser erythropus | kis lilik |
 
-## VÖCSÖKALAKÚAK (PODICIPEDIFORMES)
+| 7. |  | Branta leucopsis | apácalúd |
 
-## Vöcsökfélék (Podicipedidae)
+| 8. |  | Branta ruficollis | vörösnyakú lúd |
 
-## Podiceps auritus füles vöcsök
+| 9. |  | Tadorna ferruginea | vörös ásólúd |
 
-## VIHARMADÁR-ALAKÚAK (PROCELLARIIFORMES)
+| 10. |  | Marmaronetta angustirostris | márványos réce |
 
-## Viharmadárfélék (Procellariidae)
+| 11. |  | Aythya nyroca | cigányréce |
 
-## Pterodroma madeira madeirai viharmadár
+| 12. |  | Polysticta stelleri | Steller-pehelyréce |
 
-## Pterodroma feae zöld-foki viharmadár
+| 13. |  | Mergus albellus | kis bukó |
 
-## Bulweria bulwerii szalagos szerecsenhojsza
+| 14. |  | Oxyura leucocephala | kékcsőrű réce |
 
-## Calonectris diomedea mediterrán vészmadár
+| 15. | GALLIFORMES |  | TYÚKALAKÚAK |
 
-## Puffinus mauretanicus baleári vészmadár
+| 16. | Tetraonidae |  | Fajdfélék |
 
-## Puffinus yelkouan bukdosó vészmadár
+| 17. |  | Tetrastes bonasia (Bonasa bonasia) | császármadár |
 
-## Puffinus assimilis kis vészmadár
+| 18. |  | Lagopus muta pyrenaicus | havasi hófajd pyrenaicus alfaja |
 
-## Viharfecskefélék (Hydrobatidae)
+| 19. |  | Lagopus muta helveticus | havasi hófajd helveticus alfaja |
 
-## Pelagodroma marina fehérarcú viharfecske
+| 20. |  | Tetrao tetrix tetrix (Lyrurus tetrix tetrix) | nyírfajd tetrix alfaja |
 
-## Hydrobates pelagicus viharfecske
+| 21. |  | Tetrao urogallus | siketfajd |
 
-## Oceanodroma leucorhoa villás viharfecske
+| 22. | Phasianidae |  | Fácánfélék |
 
-## Oceanodroma castro madeirai viharfecske
+| 23. |  | Alectoris graeca | szirti fogoly |
 
-## GÖDÉNYALAKÚAK (PELECANIFORMES)
+| 24. |  | Alectoris barbara | barnanyakú szirtifogoly |
 
-## Gödényfélék (Pelecanidae)
+| 25. |  | Perdix perdix italica | fogoly italica alfaja |
 
-## Pelecanus onocrotalus rózsás gödény
+| 26. |  | Perdix perdix hispaniensis | fogoly hispaniensis alfaja |
 
-## Pelecanus crispus borzas gödény
+| 27. | GAVIIFORMES |  | BÚVÁRALAKÚAK |
 
-## Kárókatonafélék (Phalacrocoracidae)
+| 28. | Gaviidae |  | Búvárfélék |
 
-## Phalacrocorax aristotelis desmarestii üstökös kárókatona desmarestii alfaja
+| 29. |  | Gavia stellata | északi búvár |
 
-## Phalacrocorax pygmeus kis kárókatona
+| 30. |  | Gavia arctica | sarki búvár |
 
-## GÓLYAALAKÚAK (CICONIIFORMES)
+| 31. |  | Gavia immer | jeges búvár |
 
-## Gémfélék (Ardeidae)
+| 32. | PODICIPEDIFORMES |  | VÖCSÖKALAKÚAK |
 
-## Botaurus stellaris bölömbika
+| 33. | Podicipedidae |  | Vöcsökfélék |
 
-## Ixobrychus minutus törpegém
+| 34. |  | Podiceps auritus | füles vöcsök |
 
-## Nycticorax nycticorax bakcsó
+| 35. | PROCELLARIIFORMES |  | VIHARMADÁR-ALAKÚAK |
 
-## Ardeola ralloides üstökösgém
+| 36. | Procellariidae |  | Viharmadárfélék |
 
-## Egretta garzetta kis kócsag
+| 37. |  | Pterodroma madeira | madeirai viharmadár |
 
-## Egretta alba nagy kócsag
+| 38. |  | Pterodroma feae | zöld-foki viharmadár |
 
-## Ardea purpurea vörös gém
+| 39. |  | Bulweria bulwerii | szalagos szerecsenhojsza |
 
-## Gólyafélék (Ciconidae)
+| 40. |  | Calonectris diomedea | mediterrán vészmadár |
 
-## Ciconia nigra fekete gólya
+| 41. |  | Puffinus mauretanicus | Baleár-szigeteki vészmadár |
 
-## Ciconia ciconia fehér gólya
+| 42. |  | Puffinus yelkouan | bukdosó vészmadár |
 
-## Íbiszfélék (Threskiornithidae)
+| 43. |  | Puffinus assimilis | kis vészmadár |
 
-## Plegadis falcinellus batla
+| 44. | Hydrobatidae |  | Viharfecskefélék |
 
-## Platalea leucorodia kanalasgém
+| 45. |  | Pelagodroma marina | fehérarcú viharfecske |
 
-## FLAMINGÓ-ALAKÚAK (PHOENICOPTERIFORMES)
+| 46. |  | Hydrobates pelagicus | viharfecske |
 
-## Flamingófélék (Phoenicopteridae)
+| 47. |  | Oceanodroma leucorhoa | villás viharfecske |
 
-## Phoenicopterus ruber rózsás flamingó
+| 48. |  | Oceanodroma castro | madeirai viharfecske |
 
-## LÚDALAKÚAK (ANSERIFORMES)
+| 49. | PELECANIFORMES |  | GÖDÉNYALAKÚAK |
 
-## Récefélék (Anatidae)
+| 50. | Pelecanidae |  | Gödényfélék |
 
-## Cygnus columbianus bewickii kis hattyú bewickii alfaja
+| 51. |  | Pelecanus onocrotalus | rózsás gödény |
 
-## Cygnus cygnus énekes hattyú
+| 52. |  | Pelecanus crispus | borzas gödény |
 
-## Anser albifrons flavirostris nagy lilik flavirostris alfaja
+| 53. | Phalacrocoracidae |  | Kárókatonafélék |
 
-## Anser erythropus kis lilik
+| 54. |  | Phalacrocorax aristotelis desmarestii | üstökös kárókatona desmarestii alfaja |
 
-## Branta leucopsis apácalúd
+| 55. |  | Phalacrocorax pygmeus | kis kárókatona |
 
-## Branta ruficollis vörösnyakú lúd
+| 56. | CICONIIFORMES |  | GÓLYAALAKÚAK |
 
-## Tadorna ferruginea vörös ásólúd
+| 57. | Ardeidae |  | Gémfélék |
 
-## Marmaronetta angustirostris márványos réce
+| 58. |  | Botaurus stellaris | bölömbika |
 
-## Aythya nyroca cigányréce
+| 59. |  | Ixobrychus minutus | törpegém |
 
-## Polysticta stelleri Steller-pehelyréce
+| 60. |  | Nycticorax nycticorax | bakcsó |
 
-## Mergus albellus kis bukó
+| 61. |  | Ardeola ralloides | üstökösgém |
 
-## Oxyura leucocephala kékcsőrű réce
+| 62. |  | Egretta garzetta | kis kócsag |
 
-## SÓLYOMALAKÚAK (FALCONIFORMES)
+| 63. |  | Egretta alba (Ardea alba, Casmerodius albus) | nagy kócsag |
 
-## Halászsasfélék (Pandionidae)
+| 64. |  | Ardea purpurea | vörös gém |
 
-## Pandion haliaetus halászsas
+| 65. | Ciconiidae |  | Gólyafélék |
 
-## Vágómadárfélék (Accipitridae)
+| 66. |  | Ciconia nigra | fekete gólya |
 
-## Pernis apivorus darázsölyv
+| 67. |  | Ciconia ciconia | fehér gólya |
 
-## Elanus caeruleus kuhi
+| 68. | Threskiornithidae |  | Íbiszfélék |
 
-## Milvus migrans barna kánya
+| 69. |  | Plegadis falcinellus | batla |
 
-## Milvus milvus vörös kánya
+| 70. |  | Platalea leucorodia | kanalasgém |
 
-## Haliaeetus albicilla rétisas
+| 71. | PHOENICOPTERIFORMES |  | FLAMINGÓ-ALAKÚAK |
 
-## Gypaetus barbatus saskeselyű
+| 72. | Phoenicopteridae |  | Flamingófélék |
 
-## Neophron percnopterus dögkeselyű
+| 73. |  | Phoenicopterus ruber (Nagyfaj. Beleértve a Phoenicopterus roseus néven önálló fajként is ismert Phoenicopterus ruber roseus alfajt is.) | rózsás flamingó |
 
-## Gyps fulvus fakó keselyű
+| 74. | FALCONIFORMES |  | SÓLYOMALAKÚAK |
 
-## Aegypius monachus barátkeselyű
+| 75. | Accipitridae |  | Vágómadárfélék |
 
-## Circaetus gallicus kígyászölyv
+| 76. |  | Pernis apivorus | darázsölyv |
 
-## Circus aeruginosus barna rétihéja
+| 77. |  | Elanus caeruleus | kuhi |
 
-## Circus cyaneus kékes rétihéja
+| 78. |  | Milvus migrans | barna kánya |
 
-## Circus macrourus fakó rétihéja
+| 79. |  | Milvus milvus | vörös kánya |
 
-## Circus pygargus hamvas rétihéja
+| 80. |  | Haliaeetus albicilla | rétisas |
 
-## Accipiter gentilis arrigonii héja arrigonii alfaja
+| 81. |  | Gypaetus barbatus | saskeselyű |
 
-## Accipiter nisus granti karvaly granti alfaja
+| 82. |  | Neophron percnopterus | dögkeselyű |
 
-## Accipiter brevipes kis héja
+| 83. |  | Gyps fulvus | fakó keselyű |
 
-## Buteo rufinus pusztai ölyv
+| 84. |  | Aegypius monachus | barátkeselyű |
 
-## Aquila pomarina békászó sas
+| 85. |  | Circaetus gallicus | kígyászölyv |
 
-## Aquila clanga fekete sas
+| 86. |  | Circus aeruginosus | barna rétihéja |
 
-## Aquila heliaca parlagi sas
+| 87. |  | Circus cyaneus | kékes rétihéja |
 
-## Aquila adalberti ibériai sas
+| 88. |  | Circus macrourus | fakó rétihéja |
 
-## Aquila chrysaetos szirti sas
+| 89. |  | Circus pygargus | hamvas rétihéja |
 
-## Hieraaetus pennatus törpesas
+| 90. |  | Accipiter gentilis arrigonii | héja arrigonii alfaja |
 
-## Hieraaetus fasciatus héjasas
+| 91. |  | Accipiter nisus granti | karvaly granti alfaja |
 
-## Sólyomfélék (Falconidae)
+| 92. |  | Accipiter brevipes | kis héja |
 
-## Falco naumanni fehérkarmú vércse
+| 93. |  | Buteo rufinus | pusztai ölyv |
 
-## Falco vespertinus kék vércse
+| 94. |  | Aquila pomarina | békászó sas |
 
-## Falco columbarius kis sólyom
+| 95. |  | Aquila clanga | fekete sas |
 
-## Falco eleonorae Eleonóra-sólyom
+| 96. |  | Aquila heliaca | parlagi sas |
 
-## Falco biarmicus Feldegg-sólyom
+| 97. |  | Aquila adalberti | ibériai sas |
 
-## Falco cherrug kerecsensólyom
+| 98. |  | Aquila chrysaetos | szirti sas |
 
-## Falco rusticolus északi sólyom
+| 99. |  | Hieraaetus pennatus (Aquila pennata) | törpesas |
 
-## Falco peregrinus vándorsólyom
+| 100. |  | Hieraaetus fasciatus (Aquila fasciata) | héjasas |
 
-## TYÚKALAKÚAK (GALLIFORMES)
+| 101. | Pandionidae |  | Halászsasfélék |
 
-## Fajdfélék (Tetraonidae)
+| 102. |  | Pandion haliaetus | halászsas |
 
-## Bonasa bonasia császármadár
+| 103. | Falconidae |  | Sólyomfélék |
 
-## Lagopus mutus pyrenaicus havasi hófajd pyrenaicus alfaja
+| 104. |  | Falco naumanni | fehérkarmú vércse |
 
-## Lagopus mutus helveticus havasi hófajd helveticus alfaja
+| 105. |  | Falco vespertinus | kék vércse |
 
-## Tetrao tetrix tetrix nyírfajd tetrix alfaja
+| 106. |  | Falco columbarius | kis sólyom |
 
-## Tetrao urogallus siketfajd
+| 107. |  | Falco eleonorae | Eleonóra-sólyom |
 
-## Fácánfélék (Phasianidae)
+| 108. |  | Falco biarmicus | Feldegg-sólyom |
 
-## Alectoris graeca szirti fogoly
+| 109. |  | Falco cherrug | kerecsensólyom |
 
-## Alectoris barbara barnanyakú szirtifogoly
+| 110. |  | Falco rusticolus | északi sólyom |
 
-## Perdix perdix italica fogoly italica alfaja
+| 111. |  | Falco peregrinus | vándorsólyom |
 
-## Perdix perdix hispaniensis fogoly hispaniensis alfaja
+| 112. | GRUIFORMES |  | DARUALAKÚAK |
 
-## DARUALAKÚAK (GRUIFORMES)
+| 113. | Turnicidae |  | Guvatfürjfélék |
 
-## Guvatfürjfélék (Turnicidae)
+| 114. |  | Turnix sylvatica | guvatfürj |
 
-## Turnix sylvatica guvatfürj
+| 115. | Gruidae |  | Darufélék |
 
-## Darufélék (Gruidae)
+| 116. |  | Grus grus | daru |
 
-## Grus grus daru
+| 117. | Rallidae |  | Guvatfélék |
 
-## Guvatfélék (Rallidae)
+| 118. |  | Porzana porzana | pettyes vízicsibe |
 
-## Porzana porzana pettyes vízicsibe
+| 119. |  | Porzana parva | kis vízicsibe |
 
-## Porzana parva kis vízicsibe
+| 120. |  | Porzana pusilla | törpevízicsibe |
 
-## Porzana pusilla törpevízicsibe
+| 121. |  | Crex crex | haris |
 
-## Crex crex haris
+| 122. |  | Porphyrio porphyrio | kék fú |
 
-## Porphyrio porphyrio kék fú
+| 123. |  | Fulica cristata | bütykös szárcsa |
 
-## Fulica cristata bütykös szárcsa
+| 124. | Otitidae |  | Túzokfélék |
 
-## Túzokfélék (Otitidae)
+| 125. |  | Tetrax tetrax | reznek |
 
-## Tetrax tetrax reznek
+| 126. |  | Chlamydotis undulata | galléros túzok |
 
-## Chlamydotis undulata galléros túzok
+| 127. |  | Otis tarda | túzok |
 
-## Otis tarda túzok
+| 128. | CHARADRIIFORMES |  | LILEALAKÚAK |
 
-## LILEALAKÚAK (CHARADRIIFORMES)
+| 129. | Recurvirostridae |  | Gulipánfélék |
 
-## Gulipánfélék (Recurvirostridae)
+| 130. |  | Himantopus himantopus | gólyatöcs |
 
-## Himantopus himantopus gólyatöcs
+| 131. |  | Recurvirostra avosetta | gulipán |
 
-## Recurvirostra avosetta gulipán
+| 132. | Burhinidae |  | Ugartyúkfélék |
 
-## Ugartyúkfélék (Burhinidae)
+| 133. |  | Burhinus oedicnemus | ugartyúk |
 
-## Burhinus oedicnemus ugartyúk
+| 134. | Glareolidae |  | Székicsérfélék |
 
-## Székicsérfélék (Glareolidae)
+| 135. |  | Cursorius cursor | futómadár |
 
-## Cursorius cursor futómadár
+| 136. |  | Glareola pratincola | székicsér |
 
-## Glareola pratincola székicsér
+| 137. | Charadriidae |  | Lilefélék |
 
-## Lilefélék (Charadriidae)
+| 138. |  | Charadrius alexandrinus | széki lile |
 
-## Charadrius alexandrinus széki lile
+| 139. |  | Charadrius morinellus | havasi lile |
 
-## Charadrius morinellus havasi lile
+| 140. |  | Pluvialis apricaria | aranylile |
 
-## Pluvialis apricaria aranylile
+| 141. |  | Vanellus spinosus (Hoplopterus spinosus) | tüskés bíbic |
 
-## Hoplopterus spinosus tüskés bíbic
+| 142. | Scolopacidae |  | Szalonkafélék |
 
-## Szalonkafélék (Scolopacidae)
+| 143. |  | Calidris alpina schinzii | havasi partfutó schinzii alfaja |
 
-## Calidris alpina schinzii havasi partfutó schinzii alfaja
+| 144. |  | Philomachus pugnax | pajzsoscankó |
 
-## Philomachus pugnax pajzsoscankó
+| 145. |  | Gallinago media | nagy sárszalonka |
 
-## Gallinago media nagy sárszalonka
+| 146. |  | Limosa lapponica | kis goda |
 
-## Limosa lapponica kis goda
+| 147. |  | Numenius tenuirostris | vékonycsőrű póling |
 
-## Numenius tenuirostris vékonycsőrű póling
+| 148. |  | Tringa glareola | réti cankó |
 
-## Tringa glareola réti cankó
+| 149. |  | Xenus cinereus | terekcankó |
 
-## Xenus cinereus terekcankó
+| 150. |  | Phalaropus lobatus | vékonycsőrű víztaposó |
 
-## Phalaropus lobatus vékonycsőrű víztaposó
+| 151. | Laridae |  | Sirályfélék |
 
-## Sirályfélék (Laridae)
+| 152. |  | Larus melanocephalus | szerecsensirály |
 
-## Larus melanocephalus szerecsensirály
+| 153. |  | Larus genei (Chroicocephalus genei) | vékonycsőrű sirály |
 
-## Larus genei vékonycsőrű sirály
+| 154. |  | Larus audouinii | korallsirály |
 
-## Larus audouinii korallsirály
+| 155. |  | Larus minutus (Hydrocoloeus minutus) | kis sirály |
 
-## Larus minutus kis sirály
+| 156. | Sternidae |  | Csérfélék |
 
-## Csérfélék (Sternidae)
+| 157. |  | Gelochelidon nilotica | kacagócsér |
 
-## Gelochelidon nilotica kacagócsér
+| 158. |  | Sterna caspia (Hydroprogne caspia) | lócsér |
 
-## Sterna caspia lócsér
+| 159. |  | Sterna sandvicensis | kenti csér |
 
-## Sterna sandvicensis kenti csér
+| 160. |  | Sterna dougallii | rózsás csér |
 
-## Sterna dougallii rózsás csér
+| 161. |  | Sterna hirundo | küszvágó csér |
 
-## Sterna hirundo küszvágó csér
+| 162. |  | Sterna paradisaea | sarki csér |
 
-## Sterna paradisaea sarki csér
+| 163. |  | Sterna albifrons (Sternula albifrons) | kis csér |
 
-## Sterna albifrons kis csér
+| 164. |  | Chlidonias hybrida | fattyúszerkő |
 
-## Chlidonias hybridus fattyúszerkő
+| 165. |  | Chlidonias niger | kormos szerkő |
 
-## Chlidonias niger kormos szerkő
+| 166. | Alcidae |  | Alkafélék |
 
-## Alkafélék (Alcidae)
+| 167. |  | Uria aalge ibericus | lumma ibericus alfaja |
 
-## Uria aalge ibericus lumma ibericus alfaja
+| 168. | PTEROCLIFORMES |  | PUSZTAITYÚK-ALAKÚAK |
 
-## PUSZTAITYÚK-ALAKÚAK (PTEROCLIFORMES)
+| 169. | Pteroclididae |  | Pusztaityúkfélék |
 
-## Pusztaityúkfélék (Pteroclididae)
+| 170. |  | Pterocles orientalis | feketehasú pusztaityúk |
 
-## Pterocles orientalis feketehasú pusztaityúk
+| 171. |  | Pterocles alchata | nyílfarkú pusztaityúk |
 
-## Pterocles alchata nyílfarkú pusztaityúk
+| 172. | COLUMBIFORMES |  | GALAMBALAKÚAK |
 
-## GALAMBALAKÚAK (COLUMBIFORMES)
+| 173. | Columbidae |  | Galambfélék |
 
-## Galambfélék (Columbidae)
+| 174. |  | Columba palumbus azorica | azori örvös galamb |
 
-## Columba palumbus azorica örvös galamb azorica alfaja
+| 175. |  | Columba trocaz | madeirai babérgalamb |
 
-## Columba trocaz madeirai babérgalamb
+| 176. |  | Columba bollii | szürkefejű babérgalamb |
 
-## Columba bollii szürkefejű babérgalamb
+| 177. |  | Columba junoniae | fehérfarkú babérgalamb |
 
-## Columba junoniae fehérfarkú babérgalamb
+| 178. | STRIGIFORMES |  | BAGOLYALAKÚAK |
 
-## BAGOLYALAKÚAK (STRIGIFORMES)
+| 179. | Strigidae |  | Bagolyfélék |
 
-## Bagolyfélék (Strigidae)
+| 180. |  | Bubo bubo | uhu |
 
-## Bubo bubo uhu
+| 181. |  | Bubo scandiacus (Nyctea scandiaca) | hóbagoly |
 
-## Nyctea scandiaca hóbagoly
+| 182. |  | Surnia ulula | karvalybagoly |
 
-## Surnia ulula karvalybagoly
+| 183. |  | Glaucidium passerinum | törpekuvik |
 
-## Glaucidium passerinum törpekuvik
+| 184. |  | Strix nebulosa | szakállas bagoly |
 
-## Strix nebulosa szakállas bagoly
+| 185. |  | Strix uralensis | uráli bagoly |
 
-## Strix uralensis uráli bagoly
+| 186. |  | Asio flammeus | réti fülesbagoly |
 
-## Asio flammeus réti fülesbagoly
+| 187. |  | Aegolius funereus | gatyáskuvik |
 
-## Aegolius funereus gatyáskuvik
+| 188. | CAPRIMULGIFORMES |  | LAPPANTYÚ-ALAKÚAK |
 
-## LAPPANTYÚ-ALAKÚAK (CAPRIMULGIFORMES)
+| 189. | Caprimulgidae |  | Lappantyúfélék |
 
-## Lappantyúfélék (Caprimulgidae)
+| 190. |  | Caprimulgus europaeus | lappantyú |
 
-## Caprimulgus europaeus lappantyú
+| 191. | APODIDAE |  | SARLÓSFECSKE-ALAKÚAK |
 
-## SARLÓSFECSKE-ALAKÚAK (APODIDAE)
+| 192. | Apodidae |  | Sarlósfecskefélék |
 
-## Sarlósfecskefélék (Apodidae)
+| 193. |  | Apus caffer | kaffersarlósfecske |
 
-## Apus caffer kaffersarlósfecske
+| 194. | CORACIIFORMES |  | SZALAKÓTA-ALAKÚAK |
 
-## SZALAKÓTA-ALAKÚAK (CORACIIFORMES)
+| 195. | Alcedinidae |  | Jégmadárfélék |
 
-## Jégmadárfélék (Alcedinidae)
+| 196. |  | Alcedo atthis | jégmadár |
 
-## Alcedo atthis jégmadár
+| 197. | Coraciidae |  | Szalakótafélék |
 
-## Szalakótafélék (Coraciidae)
+| 198. |  | Coracias garrulus | szalakóta |
 
-## Coracias garrulus szalakóta
+| 199. | PICIFORMES |  | HARKÁLYALAKÚAK |
 
-## HARKÁLYALAKÚAK (PICIFORMES)
+| 200. | Picidae |  | Harkályfélék |
 
-## Harkályfélék (Picidae)
+| 201. |  | Picus canus | hamvas küllő |
 
-## Picus canus hamvas küllő
+| 202. |  | Dryocopus martius | fekete harkály |
 
-## Dryocopus martius fekete harkály
+| 203. |  | Dendrocopos major canariensis | nagy fakopáncs canariensis alfaja |
 
-## Dendrocopos major canariensis nagy fakopáncs canariensis alfaja
+| 204. |  | Dendrocopos major thanneri | nagy fakopáncs thanneri alfaja |
 
-## Dendrocopos major thanneri nagy fakopáncs thanneri alfaja
+| 205. |  | Dendrocopos syriacus | balkáni fakopáncs |
 
-## Dendrocopos syriacus balkáni fakopáncs
+| 206. |  | Dendrocopos medius | középfakopáncs |
 
-## Dendrocopos medius közép fakopáncs
+| 207. |  | Dendrocopos leucotos | fehérhátú fakopáncs |
 
-## Dendrocopos leucotos fehérhátú fakopáncs
+| 208. |  | Picoides tridactylus | háromujjú hőcsik |
 
-## Picoides tridactylus háromujjú hőcsik
+| 209. | PASSERIFORMES |  | VERÉBALAKÚAK |
 
-## VERÉBALAKÚAK (PASSERIFORMES)
+| 210. | Alaudidae |  | Pacsirtafélék |
 
-## Pacsirtafélék (Alaudidae)
+| 211. |  | Chersophilus duponti | vékonycsőrű pacsirta |
 
-## Chersophilus duponti vékonycsőrű pacsirta
+| 212. |  | Melanocorypha calandra | kalandrapacsirta |
 
-## Melanocorypha calandra kalandrapacsirta
+| 213. |  | Calandrella brachydactyla | szikipacsirta |
 
-## Calandrella brachydactyla szikipacsirta
+| 214. |  | Galerida theklae | kövi pacsirta |
 
-## Galerida theklae kövi pacsirta
+| 215. |  | Lullula arborea | erdei pacsirta |
 
-## Lullula arborea erdei pacsirta
+| 216. | Motacillidae |  | Billegetőfélék |
 
-## Billegetőfélék (Motacillidae)
+| 217. |  | Anthus campestris | parlagi pityer |
 
-## Anthus campestris parlagi pityer
+| 218. | Troglodytidae |  | Ökörszemfélék |
 
-## Ökörszemfélék (Troglodytidae)
+| 219. |  | Troglodytes troglodytes fridariensis | ökörszem fridariensis alfaja |
 
-## Troglodytes troglodytes fridariensis ökörszem fridariensis alfaja
+| 220. | Turdidae |  | Rigófélék |
 
-## Rigófélék (Turdidae)
+| 221. |  | Luscinia svecica | kékbegy |
 
-## Luscinia svecica kékbegy
+| 222. |  | Saxicola dacotiae | Kanári-szigeteki csuk |
 
-## Saxicola dacotiae kanári csuk
+| 223. |  | Oenanthe leucura | kormos hantmadár |
 
-## Oenanthe leucura kormos hantmadár
+| 224. |  | Oenanthe cypriaca | ciprusi hantmadár |
 
-## Oenanthe cypriaca ciprusi hantmadár
+| 225. |  | Oenanthe pleschanka | apácahantmadár |
 
-## Oenanthe pleschanka apácahantmadár
+| 226. | Sylviidae |  | Poszátafélék |
 
-## Poszátafélék (Sylviidae)
+| 227. |  | Acrocephalus melanopogon | fülemülesitke |
 
-## Acrocephalus melanopogon fülemülesitke
+| 228. |  | Acrocephalus paludicola | csíkosfejű nádiposzáta |
 
-## Acrocephalus paludicola csíkosfejű nádiposzáta
+| 229. |  | Hippolais olivetorum | olívgeze |
 
-## Hippolais olivetorum olívgeze
+| 230. |  | Sylvia sarda | szardíniai poszáta |
 
-## Sylvia sarda szardíniai poszáta
+| 231. |  | Sylvia undata | bujkáló poszáta |
 
-## Sylvia undata bujkáló poszáta
+| 232. |  | Sylvia melanothorax | ciprusi poszáta |
 
-## Sylvia melanothorax ciprusi poszáta
+| 233. |  | Sylvia rueppelli | feketetorkú poszáta |
 
-## Sylvia rueppelli feketetorkú poszáta
+| 234. |  | Sylvia nisoria | karvalyposzáta |
 
-## Sylvia nisoria karvalyposzáta
+| 235. | Muscicapidae |  | Légykapófélék |
 
-## Légykapófélék (Muscicapidae)
+| 236. |  | Ficedula parva | kis légykapó |
 
-## Ficedula parva kis légykapó
+| 237. |  | Ficedula semitorquata | félörvös légykapó |
 
-## Ficedula semitorquata félörvös légykapó
+| 238. |  | Ficedula albicollis | örvös légykapó |
 
-## Ficedula albicollis örvös légykapó
+| 239. | Paridae |  | Cinegefélék |
 
-## Cinegefélék (Paridae)
+| 240. |  | Parus ater cypriotes (Periparus ater cypriotes) | fenyvescinege cypriotes alfaja |
 
-## Parus ater cypriotes fenyvescinege cypriotes alfaja
+| 241. | Sittidae |  | Csuszkafélék |
 
-## Csuszkafélék (Sittidae)
+| 242. |  | Sitta krueperi | török csuszka |
 
-## Sitta krueperi török csuszka
+| 243. |  | Sitta whiteheadi | korzikai csuszka |
 
-## Sitta whiteheadi korzikai csuszka
+| 244. | Certhiidae |  | Fakuszfélék |
 
-## Fakuszfélék (Certhiidae)
+| 245. |  | Certhia brachydactyla dorotheae | rövidkarmú fakusz dorotheae alfaja |
 
-## Certhia brachydactyla dorotheae rövidkarmú fakusz dorotheae alfaja
+| 246. | Laniidae |  | Gébicsfélék |
 
-## Gébicsfélék (Laniidae)
+| 247. |  | Lanius collurio | tövisszúró gébics |
 
-## Lanius collurio tövisszúró gébics
+| 248. |  | Lanius minor | kis őrgébics |
 
-## Lanius minor kis őrgébics
+| 249. |  | Lanius nubicus | álarcos gébics |
 
-## Lanius nubicus álarcos gébics
+| 250. | Corvidae |  | Varjúfélék |
 
-## Varjúfélék (Corvidae)
+| 251. |  | Pyrrhocorax pyrrhocorax | havasi varjú |
 
-## Pyrrhocorax pyrrhocorax havasi varjú
+| 252. | Fringillidae |  | Pintyfélék |
 
-## Pintyfélék (Fringillidae)
+| 253. |  | Fringilla coelebs ombriosa | erdei pinty ombriosa alfaja |
 
-## Fringilla coelebs ombriosa erdei pinty ombriosa alfaja
+| 254. |  | Fringilla teydea | kék pinty |
 
-## Fringilla teydea kék pinty
+| 255. |  | Loxia scotica | skót keresztcsőrű |
 
-## Loxia scotica skót keresztcsőrű
+| 256. |  | Bucanetes githagineus | trombitás sivatagipinty |
 
-## Bucanetes githagineus trombitás sivatagipinty
+| 257. |  | Pyrrhula murina (Pyrrhula pyrrhula murina) | azori süvöltő |
 
-## Pyrrhula murina azori süvöltő
+| 258. | Emberizidae |  | Sármányfélék |
 
-## Sármányfélék (Emberizidae)
+| 259. |  | Emberiza cineracea | szürke sármány |
 
-## Emberiza cineracea szürke sármány
+| 260. |  | Emberiza hortulana | kerti sármány |
 
-## Emberiza hortulana kerti sármány
+| 261. |  | Emberiza caesia | rozsdás sármány |
 
-## Emberiza caesia rozsdás sármány
-
-## 1. B) számú melléklet[^59]
+## 1. B) számú melléklet
 
 ## Az Európai Közösség területén rendszeresen előforduló egyéb, vonuló madárfajok
 
-## -------------------
+|  | A | B | C |
 
-## Tudományos név Magyar név
+|  | Rendszertani kategória | Tudományos név | Magyar név |
 
-## -------------------
+| 1. | ANSERIFORMES |  | LÚDALAKÚAK |
 
-## BÚVÁRALAKÚAK (GAVIIFORMES)
+| 2. | Anatidae |  | Récefélék |
 
-## Búvárfélék (Gaviidae)
+| 3. |  | Cygnus olor | bütykös hattyú |
 
-## Gavia adamsii fehércsőrű búvár
+| 4. |  | Anser fabalis | vetési lúd |
 
-## VÖCSÖKALAKÚAK (PODICIPEDIFORMES)
+| 5. |  | Anser brachyrhynchus | rövidcsőrű lúd |
 
-## Vöcsökfélék (Podicipedidae)
+| 6. |  | Anser albifrons | nagy lilik |
 
-## Tachybaptus ruficollis kis vöcsök
+| 7. |  | Anser anser | nyári lúd |
 
-## Podiceps cristatus búbos vöcsök
+| 8. |  | Branta bernicla | örvös lúd |
 
-## Podiceps grisegena vörösnyakú vöcsök
+| 9. |  | Tadorna tadorna | bütykös ásólúd |
 
-## Podiceps nigricollis feketenyakú vöcsök
+| 10. |  | Anas penelope | fütyülő réce |
 
-## VIHARMADÁR-ALAKÚAK (PROCELLARIIFORMES)
+| 11. |  | Anas strepera | kendermagos réce |
 
-## Viharmadárfélék (Procellariidae)
+| 12. |  | Anas crecca | csörgő réce |
 
-## Fulmarus glacialis sirályhojsza
+| 13. |  | Anas platyrhynchos | tőkés réce |
 
-## Puffinus gravis nagy vészmadár
+| 14. |  | Anas acuta | nyílfarkú réce |
 
-## Puffinus griseus szürke vészmadár
+| 15. |  | Anas querquedula | böjti réce |
 
-## Puffinus puffinus atlanti vészmadár
+| 16. |  | Anas clypeata | kanalas réce |
 
-## Viharfecskefélék (Hydrobatidae)
+| 17. |  | Netta rufina | üstökös réce |
 
-## Oceanites oceanicus Wilson-viharfecske
+| 18. |  | Aythya ferina | barátréce |
 
-## GÖDÉNYALAKÚAK (PELECANIFORMES)
+| 19. |  | Aythya fuligula | kontyos réce |
 
-## Szulafélék (Sulidae)
+| 20. |  | Aythya marila | hegyi réce |
 
-## Morus bassanus szula
+| 21. |  | Somateria mollissima | pehelyréce |
 
-## Kárókatonafélék (Phalacrocoracidae)
+| 22. |  | Somateria spectabilis | cifra pehelyréce |
 
-## Phalacrocorax carbo kárókatona
+| 23. |  | Clangula hyemalis | jegesréce |
 
-## Phalacrocorax aristotelis üstökös kárókatona
+| 24. |  | Melanitta nigra | fekete réce |
 
-## GÓLYAALAKÚAK (CICONIIFORMES)
+| 25. |  | Melanitta fusca | füstös réce |
 
-## Gémfélék (Ardeidae)
+| 26. |  | Bucephala clangula | kerceréce |
 
-## Bubulcus ibis pásztorgém
+| 27. |  | Mergus serrator | örvös bukó |
 
-## Ardea cinerea szürke gém
+| 28. |  | Mergus merganser | nagy bukó |
 
-## LÚDALAKÚAK (ANSERIFORMES)
+| 29. | GALLIFORMES |  | TYÚKALAKÚAK |
 
-## Récefélék (Anatidae)
+| 30. | Phasianidae |  | Fácánfélék |
 
-## Cygnus olor bütykös hattyú
+| 31. |  | Coturnix coturnix | fürj |
 
-## Anser fabalis vetési lúd
+| 32. | GAVIIFORMES |  | BÚVÁRALAKÚAK |
 
-## Anser brachyrhynchus rövidcsőrű lúd
+| 33. | Gaviidae |  | Búvárfélék |
 
-## Anser albifrons nagy lilik
+| 34. |  | Gavia adamsii | fehércsőrű búvár |
 
-## Anser anser nyári lúd
+| 35. | PODICIPEDIFORMES |  | VÖCSÖKALAKÚAK |
 
-## Branta bernicla örvös lúd
+| 36. | Podicipedidae |  | Vöcsökfélék |
 
-## Tadorna tadorna bütykös ásólúd
+| 37. |  | Tachybaptus ruficollis | kis vöcsök |
 
-## Anas penelope fütyülő réce
+| 38. |  | Podiceps cristatus | búbos vöcsök |
 
-## Anas strepera kendermagos réce
+| 39. |  | Podiceps grisegena | vörösnyakú vöcsök |
 
-## Anas crecca csörgő réce
+| 40. |  | Podiceps nigricollis | feketenyakú vöcsök |
 
-## Anas platyrhynchos tőkés réce
+| 41. | PROCELLARIIFORMES |  | VIHARMADÁR-ALAKÚAK |
 
-## Anas acuta nyílfarkú réce
+| 42. | Procellariidae |  | Viharmadárfélék |
 
-## Anas querquedula böjti réce
+| 43. |  | Fulmarus glacialis | sirályhojsza |
 
-## Anas clypeata kanalas réce
+| 44. |  | Puffinus gravis | nagy vészmadár |
 
-## Netta rufina üstökösréce
+| 45. |  | Puffinus griseus | szürke vészmadár |
 
-## Aythya ferina barátréce
+| 46. |  | Puffinus puffinus | atlanti vészmadár |
 
-## Aythya fuligula kontyos réce
+| 47. | Hydrobatidae |  | Viharfecskefélék |
 
-## Aythya marila hegyi réce
+| 48. |  | Oceanites oceanicus | Wilson-viharfecske |
 
-## Somateria mollissima pehelyréce
+| 49. | PELECANIFORMES |  | GÖDÉNYALAKÚAK |
 
-## Somateria spectabilis cifra pehelyréce
+| 50. | Sulidae |  | Szulafélék |
 
-## Clangula hyemalis jegesréce
+| 51. |  | Morus bassanus | szula |
 
-## Melanitta nigra fekete réce
+| 52. | Phalacrocoracidae |  | Kárókatonafélék |
 
-## Melanitta fusca füstös réce
+| 53. |  | Phalacrocorax carbo | kárókatona |
 
-## Bucephala clangula kerceréce
+| 54. |  | Phalacrocorax aristotelis | üstökös kárókatona |
 
-## Mergus serrator örvös bukó
+| 55. | CICONIIFORMES |  | GÓLYAALAKÚAK |
 
-## Mergus merganser nagy bukó
+| 56. | Ardeidae |  | Gémfélék |
 
-## SÓLYOMALAKÚAK (FALCONIFORMES)
+| 57. |  | Bubulcus ibis | pásztorgém |
 
-## Vágómadárfélék (Accipitridae)
+| 58. |  | Ardea cinerea | szürke gém |
 
-## Accipiter gentilis héja
+| 59. | FALCONIFORMES |  | SÓLYOMALAKÚAK |
 
-## Accipiter nisus karvaly
+| 60. | Accipitridae |  | Vágómadárfélék |
 
-## Buteo buteo egerészölyv
+| 61. |  | Accipiter gentilis | héja |
 
-## Buteo lagopus gatyás ölyv
+| 62. |  | Accipiter nisus | karvaly |
 
-## Sólyomfélék (Falconidae)
+| 63. |  | Buteo buteo | egerészölyv |
 
-## Falco tinnunculus vörös vércse
+| 64. |  | Buteo lagopus | gatyás ölyv |
 
-## Falco subbuteo kabasólyom
+| 65. | Falconidae |  | Sólyomfélék |
 
-## TYÚKALAKÚAK (GALLIFORMES)
+| 66. |  | Falco tinnunculus | vörös vércse |
 
-## Fácánfélék (Phasianidae)
+| 67. |  | Falco subbuteo | kabasólyom |
 
-## Coturnix coturnix fürj
+| 68. | GRUIFORMES |  | DARUALAKÚAK |
 
-## DARUALAKÚAK (GRUIFORMES)
+| 69. | Gruidae |  | Darufélék |
 
-## Darufélék (Gruidae)
+| 70. |  | Anthropoides virgo (Grus virgo) | pártás daru |
 
-## Anthropoides virgo pártás daru
+| 71. | Rallidae |  | Guvatfélék |
 
-## Guvatfélék (Rallidae)
+| 72. |  | Rallus aquaticus | guvat |
 
-## Rallus aquaticus guvat
+| 73. |  | Gallinula chloropus | vízityúk |
 
-## Gallinula chloropus vízityúk
+| 74. |  | Fulica atra | szárcsa |
 
-## Fulica atra szárcsa
+| 75. | CHARADRIIFORMES |  | LILEALAKÚAK |
 
-## LILEALAKÚAK (CHARADRIIFORMES)
+| 76. | Haematopodidae |  | Csigaforgatófélék |
 
-## Csigaforgatófélék (Haematopodidae)
+| 77. |  | Haematopus ostralegus | csigaforgató |
 
-## Haematopus ostralegus csigaforgató
+| 78. | Glareolidae |  | Székicsérfélék |
 
-## Székicsérfélék (Glareolidae)
+| 79. |  | Glareola nordmanni | feketeszárnyú székicsér |
 
-## Glareola nordmanni feketeszárnyú székicsér
+| 80. | Charadriidae |  | Lilefélék |
 
-## Lilefélék (Charadriidae)
+| 81. |  | Charadrius dubius | kis lile |
 
-## Charadrius dubius kis lile
+| 82. |  | Charadrius hiaticula | parti lile |
 
-## Charadrius hiaticula parti lile
+| 83. |  | Charadrius leschenaultii | sivatagi lile |
 
-## Charadrius leschenaultii sivatagi lile
+| 84. |  | Pluvialis squatarola | ezüstlile |
 
-## Pluvialis squatarola ezüstlile
+| 85. |  | Vanellus vanellus | bíbic |
 
-## Vanellus vanellus bíbic
+| 86. |  | Vanellus leucurus (Chettusia leucura) | fehérfarkú lilebíbic |
 
-## Chettusia leucura fehérfarkú lilebíbic
+| 87. | Scolopacidae |  | Szalonkafélék |
 
-## Szalonkafélék (Scolopacidae)
+| 88. |  | Calidris canutus | sarki partfutó |
 
-## Calidris canutus sarki partfutó
+| 89. |  | Calidris alba | fenyérfutó |
 
-## Calidris alba fenyérfutó
+| 90. |  | Calidris minuta | apró partfutó |
 
-## Calidris minuta apró partfutó
+| 91. |  | Calidris temminckii | Temminck-partfutó |
 
-## Calidris temminckii Temminck-partfutó
+| 92. |  | Calidris maritima | tengeri partfutó |
 
-## Calidris maritima tengeri partfutó
+| 93. |  | Calidris ferruginea | sarlós partfutó |
 
-## Calidris ferruginea sarlós partfutó
+| 94. |  | Calidris alpina | havasi partfutó |
 
-## Calidris alpina havasi partfutó
+| 95. |  | Limicola falcinellus | sárjáró |
 
-## Limicola falcinellus sárjáró
+| 96. |  | Lymnocryptes minimus | kis sárszalonka |
 
-## Lymnocryptes minimus kis sárszalonka
+| 97. |  | Gallinago gallinago | sárszalonka |
 
-## Gallinago gallinago sárszalonka
+| 98. |  | Scolopax rusticola | erdei szalonka |
 
-## Scolopax rusticola erdei szalonka
+| 99. |  | Limosa limosa | nagy goda |
 
-## Limosa limosa nagy goda
+| 100. |  | Numenius phaeopus | kis póling |
 
-## Numenius phaeopus kis póling
+| 101. |  | Numenius arquata | nagy póling |
 
-## Numenius arquata nagy póling
+| 102. |  | Tringa erythropus | füstös cankó |
 
-## Tringa erythropus füstös cankó
+| 103. |  | Tringa totanus | piroslábú cankó |
 
-## Tringa totanus piroslábú cankó
+| 104. |  | Tringa stagnatilis | tavi cankó |
 
-## Tringa stagnatilis tavi cankó
+| 105. |  | Tringa nebularia | szürke cankó |
 
-## Tringa nebularia szürke cankó
+| 106. |  | Tringa ochropus | erdei cankó |
 
-## Tringa ochropus erdei cankó
+| 107. |  | Actitis hypoleucos | billegetőcankó |
 
-## Actitis hypoleucos billegetőcankó
+| 108. |  | Arenaria interpres | kőforgató |
 
-## Arenaria interpres kőforgató
+| 109. |  | Phalaropus fulicarius | laposcsőrű víztaposó |
 
-## Phalaropus fulicarius laposcsőrű víztaposó
+| 110. | Stercorariidae |  | Halfarkasfélék |
 
-## Halfarkasfélék (Stercorariidae)
+| 111. |  | Stercorarius pomarinus | szélesfarkú halfarkas |
 
-## Stercorarius pomarinus szélesfarkú halfarkas
+| 112. |  | Stercorarius parasiticus | ékfarkú halfarkas |
 
-## Stercorarius parasiticus ékfarkú halfarkas
+| 113. |  | Stercorarius longicaudus | nyílfarkú halfarkas |
 
-## Stercorarius longicaudus nyílfarkú halfarkas
+| 114. |  | Stercorarius skua | nagy halfarkas |
 
-## Stercorarius skua nagy halfarkas
+| 115. | Laridae |  | Sirályfélék |
 
-## Sirályfélék (Laridae)
+| 116. |  | Larus ichthyaetus (Ichthyaetus ichthyaetus) | halászsirály |
 
-## Larus ichthyaetus halászsirály
+| 117. |  | Larus ridibundus (Chroicocephalus ridibundus) | dankasirály |
 
-## Larus ridibundus dankasirály
+| 118. |  | Larus canus | viharsirály |
 
-## Larus canus viharsirály
+| 119. |  | Larus fuscus | heringsirály |
 
-## Larus fuscus heringsirály
+| 120. |  | Larus argentatus | ezüstsirály |
 
-## Larus argentatus ezüstsirály
+| 121. |  | Larus cachinnans | sztyeppi sirály |
 
-## Larus cachinnans sárgalábú sirály
+| 122. |  | Larus michahellis | sárgalábú sirály |
 
-## Larus hyperboreus jeges sirály
+| 123. |  | Larus hyperboreus | jeges sirály |
 
-## Larus marinus dolmányos sirály
+| 124. |  | Larus marinus | dolmányos sirály |
 
-## Rissa tridactyla csüllő
+| 125. |  | Rissa tridactyla | csüllő |
 
-## Csérfélék (Sternidae)
+| 126. | Sternidae |  | Csérfélék |
 
-## Chlidonias leucopterus fehérszárnyú szerkő
+| 127. |  | Chlidonias leucopterus | fehérszárnyú szerkő |
 
-## Alkafélék (Alcidae)
+| 128. | Alcidae |  | Alkafélék |
 
-## Uria aalge lumma
+| 129. |  | Uria aalge | lumma |
 
-## Alca torda alka
+| 130. |  | Alca torda | alka |
 
-## Cepphus grylle fekete lumma
+| 131. |  | Cepphus grylle | fekete lumma |
 
-## Alle alle alkabukó
+| 132. |  | Alle alle | alkabukó |
 
-## Fratercula arctica lunda
+| 133. |  | Fratercula arctica | lunda |
 
-## GALAMBALAKÚAK (COLUMBIFORMES)
+| 134. | COLUMBIFORMES |  | GALAMBALAKÚAK |
 
-## Galambfélék (Columbidae)
+| 135. | Columbidae |  | Galambfélék |
 
-## Columba oenas kék galamb
+| 136. |  | Columba oenas | kék galamb |
 
-## Columba palumbus örvös galamb
+| 137. |  | Columba palumbus | örvös galamb |
 
-## Streptopelia decaocto balkáni gerle
+| 138. |  | Streptopelia decaocto | balkáni gerle |
 
-## Streptopelia turtur vadgerle
+| 139. |  | Streptopelia turtur | vadgerle |
 
-## KAKUKKALAKÚAK (CUCULIFORMES)
+| 140. | CUCULIFORMES |  | KAKUKKALAKÚAK |
 
-## Kakukkfélék (Cuculidae)
+| 141. | Cuculidae |  | Kakukkfélék |
 
-## Clamator glandarius szajkókakukk
+| 142. |  | Clamator glandarius | pettyes kakukk |
 
-## Cuculus canorus kakukk
+| 143. |  | Cuculus canorus | kakukk |
 
-## BAGOLYALAKÚAK (STRIGIFORMES)
+| 144. | STRIGIFORMES |  | BAGOLYALAKÚAK |
 
-## Gyöngybagolyfélék (Tytonidae)
+| 145. | Tytonidae |  | Gyöngybagolyfélék |
 
-## Tyto alba gyöngybagoly
+| 146. |  | Tyto alba | gyöngybagoly |
 
-## Bagolyfélék (Strigidae)
+| 147. | Strigidae |  | Bagolyfélék |
 
-## Otus scops füleskuvik
+| 148. |  | Otus scops | füleskuvik |
 
-## Asio otus erdei fülesbagoly
+| 149. |  | Asio otus | erdei fülesbagoly |
 
-## LAPPANTYÚ-ALAKÚAK (CAPRIMULGIFORMES)
+| 150. | CAPRIMULGIFORMES |  | LAPPANTYÚ-ALAKÚAK |
 
-## Lappantyúfélék (Caprimulgidae)
+| 151. | Caprimulgidae |  | Lappantyúfélék |
 
-## Caprimulgus ruficollis rozsdásnyakú lappantyú
+| 152. |  | Caprimulgus ruficollis | rozsdásnyakú lappantyú |
 
-## SARLÓSFECSKE-ALAKÚAK (APODIDAE)
+| 153. | APODIDAE |  | SARLÓSFECSKE-ALAKÚAK |
 
-## Sarlósfecskefélék (Apodidae)
+| 154. | Apodidae |  | Sarlósfecskefélék |
 
-## Apus apus sarlósfecske
+| 155. |  | Apus apus | sarlósfecske |
 
-## Apus pallidus halvány sarlósfecske
+| 156. |  | Apus pallidus | halvány sarlósfecske |
 
-## Apus melba havasi sarlósfecske
+| 157. |  | Apus melba | havasi sarlósfecske |
 
-## SZALAKÓTA-ALAKÚAK (CORACIIFORMES)
+| 158. | CORACIIFORMES |  | SZALAKÓTA-ALAKÚAK |
 
-## Gyurgyalagfélék (Meropidae)
+| 159. | Meropidae |  | Gyurgyalagfélék |
 
-## Merops apiaster gyurgyalag
+| 160. |  | Merops apiaster | gyurgyalag |
 
-## Bankafélék (Upupidae)
+| 161. | Upupidae |  | Bankafélék |
 
-## Upupa epops búbosbanka
+| 162. |  | Upupa epops | búbosbanka |
 
-## HARKÁLYALAKÚAK (PICIFORMES)
+| 163. | PICIFORMES |  | HARKÁLYALAKÚAK |
 
-## Harkályfélék (Picidae)
+| 164. | Picidae |  | Harkályfélék |
 
-## Jynx torquilla nyaktekercs
+| 165. |  | Jynx torquilla | nyaktekercs |
 
-## VERÉBALAKÚAK (PASSERIFORMES)
+| 166. | PASSERIFORMES |  | VERÉBALAKÚAK |
 
-## Pacsirtafélék (Alaudidae)
+| 167. | Alaudidae |  | Pacsirtafélék |
 
-## Galerida cristata búbospacsirta
+| 168. |  | Galerida cristata | búbos pacsirta |
 
-## Alauda arvensis mezei pacsirta
+| 169. |  | Alauda arvensis | mezei pacsirta |
 
-## Eremophila alpestris havasi fülespacsirta
+| 170. |  | Eremophila alpestris | havasi fülespacsirta |
 
-## Fecskefélék (Hirundinidae)
+| 171. | Hirundinidae |  | Fecskefélék |
 
-## Riparia riparia partifecske
+| 172. |  | Riparia riparia | partifecske |
 
-## Ptyonoprogne rupestris szirti fecske
+| 173. |  | Ptyonoprogne rupestris | szirti fecske |
 
-## Hirundo rustica füsti fecske
+| 174. |  | Hirundo rustica | füsti fecske |
 
-## Hirundo daurica vörhenyes fecske
+| 175. |  | Hirundo daurica (Cecropis daurica) | vörhenyes fecske |
 
-## Delichon urbica molnárfecske
+| 176. |  | Delichon urbicum | molnárfecske |
 
-## Billegetőfélék (Motacillidae)
+| 177. | Motacillidae |  | Billegetőfélék |
 
-## Anthus trivialis erdei pityer
+| 178. |  | Anthus trivialis | erdei pityer |
 
-## Anthus pratensis réti pityer
+| 179. |  | Anthus pratensis | réti pityer |
 
-## Anthus cervinus rozsdástorkú pityer
+| 180. |  | Anthus cervinus | rozsdástorkú pityer |
 
-## Anthus petrosus parti pityer
+| 181. |  | Anthus petrosus | parti pityer |
 
-## Anthus spinoletta havasi pityer
+| 182. |  | Anthus spinoletta | havasi pityer |
 
-## Motacilla flava sárga billegető
+| 183. |  | Motacilla flava | sárga billegető |
 
-## Motacilla citreola citrombillegető
+| 184. |  | Motacilla citreola | citrombillegető |
 
-## Motacilla cinerea hegyi billegető
+| 185. |  | Motacilla cinerea | hegyi billegető |
 
-## Motacilla alba barázdabillegető
+| 186. |  | Motacilla alba | barázdabillegető |
 
-## Csonttollúfélék (Bombycillidae)
+| 187. | Bombycillidae |  | Csonttollúfélék |
 
-## Bombycilla garrulus csonttollú
+| 188. |  | Bombycilla garrulus | csonttollú |
 
-## Vízirigófélék (Cinclidae)
+| 189. | Cinclidae |  | Vízirigófélék |
 
-## Cinclus cinclus vízirigó
+| 190. |  | Cinclus cinclus | vízirigó |
 
-## Ökörszemfélék (Troglodytidae)
+| 191. | Troglodytidae |  | Ökörszemfélék |
 
-## Troglodytes troglodytes ökörszem
+| 192. |  | Troglodytes troglodytes | ökörszem |
 
-## Szürkebegyfélék (Prunellidae)
+| 193. | Prunellidae |  | Szürkebegyfélék |
 
-## Prunella modularis erdei szürkebegy
+| 194. |  | Prunella modularis | erdei szürkebegy |
 
-## Prunella collaris havasi szürkebegy
+| 195. |  | Prunella collaris | havasi szürkebegy |
 
-## Rigófélék (Turdidae)
+| 196. | Turdidae |  | Rigófélék |
 
-## Cercotrichas galactotes tüskebujkáló
+| 197. |  | Cercotrichas galactotes | tüskebujkáló |
 
-## Erithacus rubecula vörösbegy
+| 198. |  | Erithacus rubecula | vörösbegy |
 
-## Luscinia luscinia nagy fülemüle
+| 199. |  | Luscinia luscinia | nagy fülemüle |
 
-## Luscinia megarhynchos fülemüle
+| 200. |  | Luscinia megarhynchos | fülemüle |
 
-## Tarsiger cyanurus kékfarkú
+| 201. |  | Tarsiger cyanurus | kékfarkú |
 
-## Phoenicurus ochruros házi rozsdafarkú
+| 202. |  | Phoenicurus ochruros | házi rozsdafarkú |
 
-## Phoenicurus phoenicurus kerti rozsdafarkú
+| 203. |  | Phoenicurus phoenicurus | kerti rozsdafarkú |
 
-## Saxicola rubetra rozsdás csuk
+| 204. |  | Saxicola rubetra | rozsdás csuk |
 
-## Saxicola torquata cigánycsuk
+| 205. |  | Saxicola torquatus (Nagyfaj. Beleértve a Saxicola rubicola (európai cigánycsuk) és Saxicola maurus (szibériai csuk) néven önálló fajként is ismert Saxicola torquatus rubicola és maurus alfajokat is.) | cigánycsuk |
 
-## Oenanthe isabellina pusztai hantmadár
+| 206. |  | Oenanthe isabellina | pusztai hantmadár |
 
-## Oenanthe oenanthe hantmadár
+| 207. |  | Oenanthe oenanthe | hantmadár |
 
-## Oenanthe hispanica déli hantmadár
+| 208. |  | Oenanthe hispanica | déli hantmadár |
 
-## Monticola saxatilis kövirigó
+| 209. |  | Monticola saxatilis | kövirigó |
 
-## Monticola solitarius kék kövirigó
+| 210. |  | Monticola solitarius | kék kövirigó |
 
-## Turdus torquatus örvös rigó
+| 211. |  | Turdus torquatus | örvös rigó |
 
-## Turdus merula fekete rigó
+| 212. |  | Turdus merula | fekete rigó |
 
-## Turdus pilaris fenyőrigó
+| 213. |  | Turdus pilaris | fenyőrigó |
 
-## Turdus philomelos énekes rigó
+| 214. |  | Turdus philomelos | énekes rigó |
 
-## Turdus iliacus szőlőrigó
+| 215. |  | Turdus iliacus | szőlőrigó |
 
-## Turdus viscivorus léprigó
+| 216. |  | Turdus viscivorus | léprigó |
 
-## Poszátafélék (Sylviidae)
+| 217. | Sylviidae |  | Poszátafélék |
 
-## Cettia cetti berki poszáta
+| 218. |  | Cettia cetti | berki poszáta |
 
-## Locustella naevia réti tücsökmadár
+| 219. |  | Locustella naevia | réti tücsökmadár |
 
-## Locustella fluviatilis berki tücsökmadár
+| 220. |  | Locustella fluviatilis | berki tücsökmadár |
 
-## Locustella luscinioides nádi tücsökmadár
+| 221. |  | Locustella luscinioides | nádi tücsökmadár |
 
-## Acrocephalus schoenobaenus foltos nádiposzáta
+| 222. |  | Acrocephalus schoenobaenus | foltos nádiposzáta |
 
-## Acrocephalus agricola rozsdás nádiposzáta
+| 223. |  | Acrocephalus agricola | rozsdás nádiposzáta |
 
-## Acrocephalus dumetorum berki nádiposzáta
+| 224. |  | Acrocephalus dumetorum | berki nádiposzáta |
 
-## Acrocephalus palustris énekes nádiposzáta
+| 225. |  | Acrocephalus palustris | énekes nádiposzáta |
 
-## Acrocephalus scirpaceus cserregő nádiposzáta
+| 226. |  | Acrocephalus scirpaceus | cserregő nádiposzáta |
 
-## Acrocephalus arundinaceus nádirigó
+| 227. |  | Acrocephalus arundinaceus | nádirigó |
 
-## Hippolais pallida halvány geze
+| 228. |  | Hippolais pallida (Iduna pallida) | halvány geze |
 
-## Hippolais icterina kerti geze
+| 229. |  | Hippolais opaca (Iduna opaca) | spanyol geze |
 
-## Hippolais polyglotta déli geze
+| 230. |  | Hippolais icterina | kerti geze |
 
-## Sylvia conspicillata törpeposzáta
+| 231. |  | Hippolais polyglotta | déli geze |
 
-## Sylvia cantillans bajszos poszáta
+| 232. |  | Sylvia conspicillata | törpeposzáta |
 
-## Sylvia melanocephala kucsmás poszáta
+| 233. |  | Sylvia cantillans | bajszos poszáta |
 
-## Sylvia hortensis dalos poszáta
+| 234. |  | Sylvia melanocephala | kucsmás poszáta |
 
-## Sylvia curruca kis poszáta
+| 235. |  | Sylvia hortensis | dalos poszáta |
 
-## Sylvia communis mezei poszáta
+| 236. |  | Sylvia curruca | kis poszáta |
 
-## Sylvia borin kerti poszáta
+| 237. |  | Sylvia communis | mezei poszáta |
 
-## Sylvia atricapilla barátposzáta
+| 238. |  | Sylvia borin | kerti poszáta |
 
-## Phylloscopus trochiloides sárga füzike
+| 239. |  | Sylvia atricapilla | barátposzáta |
 
-## Phylloscopus borealis északi füzike
+| 240. |  | Phylloscopus trochiloides | sárga füzike |
 
-## Phylloscopus proregulus királyfüzike
+| 241. |  | Phylloscopus borealis | északi füzike |
 
-## Phylloscopus inornatus vándorfüzike
+| 242. |  | Phylloscopus proregulus | királyfüzike |
 
-## Phylloscopus bonelli Bonelli-füzike
+| 243. |  | Phylloscopus inornatus | vándorfüzike |
 
-## Phylloscopus sibilatrix sisegő füzike
+| 244. |  | Phylloscopus bonelli | Bonelli-füzike |
 
-## Phylloscopus collybita csilpcsalpfüzike
+| 245. |  | Phylloscopus orientalis | balkáni füzike |
 
-## Phylloscopus trochilus fitiszfüzike
+| 246. |  | Phylloscopus sibilatrix | sisegő füzike |
 
-## Regulus regulus sárgafejű királyka
+| 247. |  | Phylloscopus collybita | csilpcsalpfüzike |
 
-## Regulus ignicapillus tüzesfejű királyka
+| 248. |  | Phylloscopus brehmi | ibériai füzike |
 
-## Légykapófélék (Muscicapidae)
+| 249. |  | Phylloscopus canariensis | Kanári-szigeteki füzike |
 
-## Muscicapa striata szürke légykapó
+| 250. |  | Phylloscopus trochilus | fitiszfüzike |
 
-## Ficedula hypoleuca kormos légykapó
+| 251. |  | Regulus regulus | sárgafejű királyka |
 
-## Őszapófélék (Aegithalidae)
+| 252. |  | Regulus ignicapillus | tüzesfejű királyka |
 
-## Aegithalos caudatus őszapó
+| 253. |  | Regulus teneriffae | Kanári-szigeteki királyka |
 
-## Cinegefélék (Paridae)
+| 254. |  | Regulus madeirensis | madeirai királyka |
 
-## Parus ater fenyvescinege
+| 255. | Muscicapidae |  | Légykapófélék |
 
-## Parus caeruleus kék cinege
+| 256. |  | Muscicapa striata | szürke légykapó |
 
-## Hajnalmadárfélék (Tichodromadidae)
+| 257. |  | Ficedula hypoleuca | kormos légykapó |
 
-## Tichodroma muraria hajnalmadár
+| 258. | Aegithalidae |  | Őszapófélék |
 
-## Fakuszfélék (Certhiidae)
+| 259. |  | Aegithalos caudatus | őszapó |
 
-## Certhia familiaris hegyi fakusz
+| 260. | Paridae |  | Cinegefélék |
 
-## Függőcinegefélék (Remizidae)
+| 261. |  | Parus ater (Periparus ater) | fenyvescinege |
 
-## Remiz pendulinus függőcinege
+| 262. |  | Parus caeruleus (Cyanistes caeruleus) | kék cinege |
 
-## Sárgarigófélék (Oriolidae)
+| 263. | Tichodromadidae |  | Hajnalmadárfélék |
 
-## Oriolus oriolus sárgarigó
+| 264. |  | Tichodroma muraria | hajnalmadár |
 
-## Gébicsfélék (Laniidae)
+| 265. | Certhiidae |  | Fakuszfélék |
 
-## Lanius excubitor nagy őrgébics
+| 266. |  | Certhia familiaris | hegyi fakusz |
 
-## Lanius senator vörösfejű gébics
+| 267. |  | Certhia brachydactyla | rövidkarmú fakusz |
 
-## Varjúfélék (Corvidae)
+| 268. | Remizidae |  | Függőcinegefélék |
 
-## Nucifraga caryocatactes fenyőszajkó
+| 269. |  | Remiz pendulinus | függőcinege |
 
-## Corvus monedula csóka
+| 270. | Oriolidae |  | Sárgarigófélék |
 
-## Corvus frugilegus vetési varjú
+| 271. |  | Oriolus oriolus | sárgarigó |
 
-## Seregélyfélék (Sturnidae)
+| 272. | Laniidae |  | Gébicsfélék |
 
-## Sturnus vulgaris seregély
+| 273. |  | Lanius excubitor | nagy őrgébics |
 
-## Sturnus roseus pásztormadár
+| 274. |  | Lanius meridionalis | sivatagi őrgébics |
 
-## Pintyfélék (Fringillidae)
+| 275. |  | Lanius senator | vörösfejű gébics |
 
-## Fringilla coelebs erdei pinty
+| 276. | Corvidae |  | Varjúfélék |
 
-## Fringilla montifringilla fenyőpinty
+| 277. |  | Nucifraga caryocatactes | fenyőszajkó |
 
-## Serinus serinus csicsörke
+| 278. |  | Corvus monedula | csóka |
 
-## Serinus citrinella citromcsicsörke
+| 279. |  | Corvus frugilegus | vetési varjú |
 
-## Carduelis chloris zöldike
+| 280. | Sturnidae |  | Seregélyfélék |
 
-## Carduelis carduelis tengelic
+| 281. |  | Sturnus vulgaris | seregély |
 
-## Carduelis spinus csíz
+| 282. |  | Sturnus roseus (Pastor roseus) | pásztormadár |
 
-## Carduelis cannabina kenderike
+| 283. | Fringillidae |  | Pintyfélék |
 
-## Carduelis flavirostris sárgacsőrű kenderike
+| 284. |  | Fringilla coelebs | erdei pinty |
 
-## Carduelis flammea zsezse
+| 285. |  | Fringilla montifringilla | fenyőpinty |
 
-## Carduelis hornemanni szürke zsezse
+| 286. |  | Serinus serinus | csicsörke |
 
-## Loxia leucoptera szalagos keresztcsőrű
+| 287. |  | Serinus citrinella | citromcsicsörke |
 
-## Loxia curvirostra keresztcsőrű
+| 288. |  | Carduelis chloris | zöldike |
 
-## Loxia pytyopsittacus nagy keresztcsőrű
+| 289. |  | Carduelis carduelis | tengelic |
 
-## Carpodacus erythrinus karmazsinpirók
+| 290. |  | Carduelis spinus | csíz |
 
-## Pinicola enucleator nagy pirók
+| 291. |  | Carduelis cannabina | kenderike |
 
-## Pyrrhula pyrrhula süvöltő
+| 292. |  | Carduelis flavirostris | sárgacsőrű kenderike |
 
-## Coccothraustes coccothraustes meggyvágó
+| 293. |  | Carduelis flammea (Nagyfaj. Beleértve a Carduelis cabaret (barna zsezse) néven önálló fajként is ismert Carduelis flammea caberet alfajt is.) | zsezse |
 
-## Sármányfélék (Emberizidae)
+| 294. |  | Carduelis hornemanni | szürke zsezse |
 
-## Calcarius lapponicus sarkantyús sármány
+| 295. |  | Loxia leucoptera | szalagos keresztcsőrű |
 
-## Plectrophenax nivalis hósármány
+| 296. |  | Loxia curvirostra | keresztcsőrű |
 
-## Emberiza leucocephalos fenyősármány
+| 297. |  | Loxia pytyopsittacus | nagy keresztcsőrű |
 
-## Emberiza citrinella citromsármány
+| 298. |  | Carpodacus erythrinus | karmazsinpirók |
 
-## Emberiza cirlus sövénysármány
+| 299. |  | Pinicola enucleator | nagy pirók |
 
-## Emberiza cia bajszos sármány
+| 300. |  | Pyrrhula pyrrhula | süvöltő |
 
-## Emberiza cineracea szürke sármány
+| 301. |  | Coccothraustes coccothraustes | meggyvágó |
 
-## Emberiza rustica erdei sármány
+| 302. | Emberizidae |  | Sármányfélék |
 
-## Emberiza pusilla törpesármány
+| 303. |  | Calcarius lapponicus | sarkantyús sármány |
 
-## Emberiza aureola aranyos sármány
+| 304. |  | Plectrophenax nivalis | hósármány |
 
-## Emberiza schoeniclus nádi sármány
+| 305. |  | Emberiza leucocephalos | fenyősármány |
 
-## Emberiza melanocephala kucsmás sármány
+| 306. |  | Emberiza citrinella | citromsármány |
 
-## Miliaria calandra sordély
+| 307. |  | Emberiza cirlus | sövénysármány |
 
-2. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^60]
+| 308. |  | Emberiza cia | bajszos sármány |
 
-2. A) számú melléklet
+| 309. |  | Emberiza rustica | erdei sármány |
 
-## Közösségi jelentőségű állatfajok
+| 310. |  | Emberiza pusilla | törpesármány |
 
-| Tudományos név | Magyar név |
+| 311. |  | Emberiza aureola | aranyos sármány |
 
-| EMLŐSÖK (MAMMALIA) |  |
+| 312. |  | Emberiza schoeniclus | nádi sármány |
 
-| ROVAREVŐK (INSECTIVORA) |  |
+| 313. |  | Emberiza melanocephala | kucsmás sármány |
 
-| Vakondfélék (Talpidae) |  |
+| 314. |  | Emberiza calandra (Miliaria calandra) | sordély |
 
-| Galemys pyrenaicus | pireneusi pézsmacickány |
+2. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^57]
 
-| DENEVÉREK (CHIROPTERA) |  |
-
-| Patkósdenevér-félék (Rhinolophidae) |  |
-
-| Rhinolophus blasii | Blasius-patkósdenevér |
-
-| Rhinolophus euryale | kereknyergű patkósdenevér |
-
-| Rhinolophus ferrumequinum | nagy patkósdenevér |
-
-| Rhinolophus hipposideros | kis patkósdenevér |
-
-| Rhinolophus mehelyi | Méhely-patkósdenevér |
-
-| Simaorrú denevérek (Vespertilionidae) |  |
-
-| Barbastella barbastellus | piszedenevér |
-
-| Miniopterus schreibersii | hosszúszárnyú denevér |
-
-| Myotis bechsteini | nagyfülű denevér |
-
-| Myotis blythii | hegyesorrú denevér |
-
-| Myotis capaccinii | hosszúlábú denevér |
-
-| Myotis dasycneme | tavi denevér |
-
-| Myotis emarginatus | csonkafülű denevér |
-
-| Myotis myotis | közönséges denevér |
-
-| Repülőkutya-félék (Pteropodidae) |  |
-
-| Rousettus aegyptiacus | nílusi repülőkutya |
-
-| RÁGCSÁLÓK (RODENTIA) |  |
-
-| Pelefélék (Gliridae) |  |
-
-| Myomimus roachi | bolgár egérpele |
-
-| Mókusfélék (Sciuridae) |  |
-
-| Spermophilus citellus | közönséges ürge |
-
-| Hódfélék (Castoridae) |  |
-
-| Castor fiber (kivéve az észt, lett, litván, finn és svéd populációkat) | közönséges hód |
-
-| Hörcsögfélék (Cricetidae) |  |
-
-| Mesocricetus newtoni | dobrudzsai aranyhörcsög |
-
-| Pocokfélék (Microtidae) |  |
-
-| Microtus cabrerae | Cabrera-pocok |
-
-| Microtus tatricus | tátrai pocok |
-
-| Szöcskeegérfélék (Zapodidae) |  |
-
-| Sicista subtilis | csíkos szöcskeegér |
-
-| RAGADOZÓK (CARNIVORA) |  |
-
-| Menyétfélék (Mustelidae) |  |
-
-| Lutra lutra | vidra |
-
-| Mustela eversmannii | molnárgörény |
-
-| Vormela peregusna | tigrisgörény |
-
-| Macskafélék (Felidae) |  |
-
-| Lynx lynx (kivéve az észt, lett és finn populációkat) | hiúz |
-
-| Igazi fókák (Phocidae) |  |
-
-| Halichoerus grypus | kúpos fóka |
-
-| Phoca hispida bottnica | gyűrűsfóka bottnica alfaja |
-
-| Phoca vitulina | borjúfóka |
-
-| PÁROSUJJÚ PATÁSOK (ARTIODACTYLA) |  |
-
-| Szarvasfélék (Cervidae) |  |
-
-| Rangifer tarandus fennicus | rénszarvas fennicus alfaja |
-
-| Tülkösszarvúak (Bovidae) |  |
-
-| Capra aegagrus (természetes populációi) | bezoárkecske |
-
-| Ovis gmelini musimon (Korzikán és Szardínián élő természetes populációi) | muflon musimon alfaja |
-
-| Ovis orientalis ophion | ciprusi muflon |
-
-| Rupicapra rupicapra balcanica | balkáni zerge |
-
-| CETEK (CETACEA) |  |
-
-| Phocoena phocoena | közönséges disznódelfin |
-
-| Tursiops truncatus | palackorrú delfin |
-
-| HÜLLŐK (REPTILIA) |  |
-
-| TEKNŐSÖK (TESTUDINES) |  |
-
-| Szárazfölditeknős-félék (Testudinidae) |  |
-
-| Testudo graeca | mór teknős |
-
-| Testudo hermanni | görög teknős |
-
-| Testudo marginata | szegélyes teknős |
-
-| Mocsáriteknős-félék (Emydidae) |  |
-
-| Emys orbicularis | mocsári teknős |
-
-| Mauremys caspica | kaszpi teknős |
-
-| Mauremys leprosa | spanyol víziteknős |
-
-| GYÍKOK (SAURIA) |  |
-
-| Nyakörvösgyík-félék (Lacertidae) |  |
-
-| Gallotia galloti insulanagae | kanári gyík insulanagae alfaja |
-
-| Lacerta bonnali | nincs magyar neve |
-
-| Lacerta monticola | ibériai hegyigyík |
-
-| Lacerta schreiberi | spanyol zöldgyík |
-
-| Podarcis lilfordi | Baleár-szigeteki faligyík |
-
-| Podarcis pityusensis | Pityusen-faligyík |
-
-| Vakondgyík-félék (Scincidae) |  |
-
-| Chalcides simonyi | fuerteventurai ércesgyík |
-
-| Gekkófélék (Gekkonidae) |  |
-
-| Phyllodactylus europaeus | lemezesujjú gekkó |
-
-| KÍGYÓK (OPHIDIA) |  |
-
-| Siklófélék (Colubridae) |  |
-
-| Elaphe quatuorlineata | szalagos sikló |
-
-| Elaphe situla | leopárdsikló |
-
-| Viperafélék (Viperidae) |  |
-
-| Vipera ursinii (kivéve a Vipera ursinii rakosiensis) | parlagi vipera |
-
-| KÉTÉLTŰEK (AMPHIBIA) |  |
-
-| FARKOS KÉTÉLTŰEK (CAUDATA) |  |
-
-| Szalamandrafélék (Salamandridae) |  |
-
-| Chioglossa lusitanica | ibériai szalamandra |
-
-| Mertensiella luschani | likiai szalamandra |
-
-| Salamandrina terdigitata | pápaszemes szalamandra |
-
-| Triturus carnifex | alpesi tarajosgőte |
-
-| Triturus cristatus | közönséges tarajosgőte |
-
-| Triturus dobrogicus | dunai tarajosgőte |
-
-| Triturus karelinii | balkáni tarajosgőte |
-
-| Triturus montandoni | kárpáti gőte |
-
-| Triturus vulgaris ampelensis | pettyes gőte ampelensis alfaja |
-
-| Tüdőtlenszalamandra-félék (Plethodontidae) |  |
-
-| Hydromantes ambrosii | francia barlangi szalamandra |
-
-| Hydromantes flavus | sárga barlangi szalamandra |
-
-| Hydromantes genei | barna barlangi szalamandra |
-
-| Hydromantes imperialis | nincs magyar neve |
-
-| Hydromantes strinatii | nincs magyar neve |
-
-| Hydromantes supramontis | nincs magyar neve |
-
-| FARKATLAN KÉTÉLTŰEK (ANURA) |  |
-
-| Korongnyelvű békák (Discoglossidae) |  |
-
-| Bombina bombina | vöröshasú unka |
-
-| Bombina variegata | sárgahasú unka |
-
-| Discoglossus galganoi (Discoglossus „jeanneae”-t is beleértve) | spanyol korongnyelvű béka |
-
-| Discoglossus montalentii | korzikai korongnyelvű béka |
-
-| Discoglossus sardus | Tirrén-tengeri korongnyelvű béka |
-
-| Valódibéka-félék (Ranidae) |  |
-
-| Rana latastei | olasz barna béka |
-
-| HALAK (PISCES) |  |
-
-| INGOLASZERŰEK (PETROMYZONIFORMES) |  |
-
-| Ingolafélék (Petromyzontidae) |  |
-
-| Eudontomyzon spp. | ingolafajok |
-
-| Lampetra fluviatilis (kivéve a finn és svéd populációkat) | folyami ingola |
-
-| Lampetra planeri (kivéve az észt, finn és svéd populációkat) | pataki ingola |
-
-| Lethenteron zanandreai | nincs magyar neve |
-
-| Petromyzon marinus (kivéve a svéd populációkat) | tengeri ingola |
-
-| HERINGALAKÚAK (CLUPEIFORMES) |  |
-
-| Heringfélék (Clupeidae) |  |
-
-| Alosa spp. | nagyheringfajok |
-
-| LAZACALAKÚAK (SALMONIFORMES) |  |
-
-| Pisztrángfélék (Salmonidae) |  |
-
-| Hucho hucho (természetes populációi) | dunai galóca |
-
-| Salmo macrostigma | nagyfoltú pisztráng |
-
-| Salmo marmoratus | márványos pisztráng |
-
-| Salmo salar (csak az édesviziek) (kivéve a finn populációkat) | lazac |
-
-| Pócfélék (Umbridae) |  |
-
-| Umbra krameri | lápi póc |
-
-| PONTYALAKÚAK (CYPRINIFORMES) |  |
-
-| Pontyfélék (Cyprinidae) |  |
-
-| Alburnus albidus | déli küsz |
-
-| Anaecypris hispanica | nincs magyar neve |
-
-| Aspius aspius (kivéve a finn populációkat) | balin |
-
-| Barbus comiza | spanyol márna |
-
-| Barbus meridionalis | Petényi-márna |
-
-| Barbus plebejus | olasz márna |
-
-| Chalcalburnus chalcoides | állas küsz |
-
-| Chondrostoma genei | sötétoldalsávos paduc |
-
-| Chondrostoma lusitanicum | nincs magyar neve |
-
-| Chondrostoma polylepis (C. willkommi-t is beleértve) | ibériai paduc |
-
-| Chondrostoma soetta | olasz paduc |
-
-| Chondrostoma toxostoma | francia paduc |
-
-| Gobio albipinnatus | halványfoltú küllő |
-
-| Gobio kessleri | homoki küllő |
-
-| Gobio uranoscopus | felpillantó küllő |
-
-| Iberocypris palaciosi | nincs magyar neve |
-
-| Leuciscus lucumonis | olasz csabak |
-
-| Leuciscus souffia | vaskos csabak |
-
-| Pelecus cultratus | garda |
-
-| Phoxinellus spp. | mediterrán csellefajok |
-
-| Rhodeus sericeus amarus | szivárványos ökle |
-
-| Rutilus alburnoides | spanyol koncér |
-
-| Rutilus arcasii | ibériai koncér |
-
-| Rutilus frisii meidingeri | gyöngyös koncér |
-
-| Rutilus lemmingii | portugál koncér |
-
-| Rutilus macrolepidotus | nagypikkelyű koncér |
-
-| Rutilus pigus | leánykoncér |
-
-| Rutilus rubilio | olasz koncér |
-
-| Scardinius graecus | görög keszeg |
-
-| Csíkfélék (Cobitidae) |  |
-
-| Cobitis elongata | nyurga csík |
-
-| Cobitis taenia (kivéve a finn populációkat) | vágó csík |
-
-| Cobitis trichonica | nincs magyar neve |
-
-| Misgurnus fossilis | réti csík |
-
-| Sabanejewia aurata | törpecsík |
-
-| Sabanejewia larvata (Cobitis larvata és Cobitis conspersa) | olasz csík |
-
-| HARCSAALAKÚAK (SILURIFORMES) |  |
-
-| Harcsafélék (Siluridae) |  |
-
-| Silurus aristotelis | négybajuszszálas harcsa |
-
-| FOGASPONTYALAKÚAK (ATHERINIFORMES) |  |
-
-| Ikrázó fogaspontyfélék (Cyprinodontidae) |  |
-
-| Aphanius fasciatus | zebra-fogasponty |
-
-| Aphanius iberus | spanyol fogasponty |
-
-| SÜGÉRALAKÚAK (PERCIFORMES) |  |
-
-| Sügérfélék (Percidae) |  |
-
-| Gymnocephalus baloni | széles durbincs |
-
-| Gymnocephalus schraetzer | selymes durbincs |
-
-| Zingel spp. | bucófajok |
-
-| Gébfélék (Gobiidae) |  |
-
-| Knipowitschia panizzae | lagúnagéb |
-
-| Padogobius nigricans | olasz folyamigéb |
-
-| Pomatoschistus canestrini | csatornagéb |
-
-| SKORPIÓHALALAKÚAK (SCORPAENIFORMES) |  |
-
-| Kölöntefélék (Cottidae) |  |
-
-| Cottus gobio (kivéve a finn populációkat) | botos kölönte |
-
-| Cottus petiti | Petit-kölönte |
-
-| GERINCTELENEK (INVERTEBRATA) |  |
-
-| ÍZELTLÁBÚAK (ARTHROPODA) |  |
-
-| RÁKOK (CRUSTACEA) |  |
-
-| Tízlábú rákok (Decapoda) |  |
-
-| Austropotamobius pallipes | csókarák |
-
-| ROVAROK (INSECTA) |  |
-
-| Bogarak (Coleoptera) |  |
-
-| Agathidium pulchellum | csinos gombabogárka |
-
-| Bolbelasmus unicornis | szarvas ganéjtúró |
-
-| Boros schneideri | európai boroszbogár |
-
-| Buprestis splendens | pompás díszbogár |
-
-| Carabus hampei | beregi futrinka |
-
-| Carabus hungaricus | magyar futrinka |
-
-| Carabus variolosus | vízi futrinka |
-
-| Carabus zawadszkii | zempléni futrinka |
-
-| Cerambyx cerdo | nagy hőscincér |
-
-| Corticaria planula | lapos pudvabogár |
-
-| Cucujus cinnaberinus | skarlátbogár |
-
-| Dorcadion fulvum cervae | pusztai gyalogcincér |
-
-| Duvalius gebhardti | Gebhardt-vakfutrinka |
-
-| Duvalius hungaricus | magyar vakfutrinka |
-
-| Dytiscus latissimus | óriáscsíkbogár |
-
-| Graphoderus bilineatus | széles tavicsíkbogár |
-
-| Leptodirus hochenwarti | barlangi pecebogár |
-
-| Limoniscus violaceus | kék pattanóbogár |
-
-| Lucanus cervus | szarvasbogár |
-
-| Macroplea pubipennis | finn hínárbogár |
-
-| Mesosa myops | északi foltoscincér |
-
-| Morimus funereus | gyászcincér |
-
-| Oxyporus mannerheimii | északi gombaholyva |
-
-| Pilemia tigrina | atracélcincér |
-
-| Probaticus subrugosus | ráncos gyászbogár |
-
-| Propomacrus cypriacus | ciprusi karolóbogár |
-
-| Pseudoseriscius cameroni | máltai gyászbogár |
-
-| Pytho kolwensis | északi sárkánybogár |
-
-| Rhysodes sulcatus | kerekvállú állasbogár |
-
-| Stephanopachys linearis | vonalas csuklyásszú |
-
-| Stephanopachys substriatus | rovátkás csuklyásszú |
-
-| Xyletinus tremulicola | rezgőnyár-álszú |
-
-| Poloskák (Heteroptera) |  |
-
-| Aradus angularis | hegyessarkú kéregpoloska |
-
-| Lepkék (Lepidoptera) |  |
-
-| Agriades glandon aquilo | északi fehérszemes-boglárka |
-
-| Arytrura musculus | keleti lápibagoly |
-
-| Catopta thrips | sztyeplepke |
-
-| Chondrosoma fiduciarium | magyar ősziaraszoló |
-
-| Clossiana improba | füstös gyöngyházlepke |
-
-| Coenonympha oedippus | ezüstsávos szénalepke |
-
-| Colias myrmidone | narancsszínű kéneslepke |
-
-| Cucullia mixta | vértesi csuklyásbagoly |
-
-| Dioszeghyana schmidtii | magyar fésűsbagoly |
-
-| Erannis ankeraria | Anker-araszoló |
-
-| Erebia calcaria | Lorkovic-szerecsenlepke |
-
-| Erebia christi | fekete szerecsenlepke |
-
-| Erebia medusa polaris | skandináv szerecsenlepke |
-
-| Eriogaster catax | sárga gyapjasszövő |
-
-| Euphydryas aurinia | lápi tarkalepke |
-
-| Glyphipterix loricatella | budai szakállasmoly |
-
-| Gortyna borelii lunata | nagy szikibagoly |
-
-| Graellsia isabellae | spanyol pávaszem |
-
-| Hesperia comma catena | svéd vesszős busalepke |
-
-| Hypodryas maturna | díszes tarkalepke |
-
-| Leptidea morsei | keleti mustárlepke |
-
-| Lignyoptera fumidaria | füstös ősziaraszoló |
-
-| Lycaena dispar | nagy tűzlepke |
-
-| Lycaena helle | lápi tűzlepke |
-
-| Maculinea nausithous | sötét hangyaboglárka |
-
-| Maculinea teleius | vérfű-hangyaboglárka |
-
-| Melanargia arge | olasz sakktáblalepke |
-
-| Papilio hospiton | korzikai fecskefarkúlepke |
-
-| Phyllometra culminaria | csüngőaraszoló |
-
-| Plebicula golgus | Golgus-boglárka |
-
-| Polymixis rufocincta isolata | villányi télibagoly |
-
-| Polyommatus eroides | balkáni pöttyösboglárka |
-
-| Pseudophilotes bavius | nincs magyar neve |
-
-| Xestia borealis | lapp földibagolylepke |
-
-| Xestia brunneopicta | szibériai földibagolylepke |
-
-| Fogólábúak (Mantodea) |  |
-
-| Apteromantis aptera | nincs magyar neve |
-
-| Szitakötők (Odonata) |  |
-
-| Coenagrion hylas | csíkos légivadász |
-
-| Coenagrion mercuriale | déli légivadász |
-
-| Coenagrion ornatum | díszes légivadász |
-
-| Cordulegaster heros | ritka hegyiszitakötő |
-
-| Cordulegaster trinacriae | szicíliai hegyiszitakötő |
-
-| Gomphus graslinii | atlanti folyami-szitakötő |
-
-| Leucorrhinia pectoralis | lápi szitakötő |
-
-| Lindenia tetraphylla | levelespotrohú szitakötő |
-
-| Macromia splendens | pompás sárkányszitakötő |
-
-| Ophiogomphus cecilia | erdei szitakötő |
-
-| Oxygastra curtisii | narancsfoltos szitakötő |
-
-| Egyenesszárnyúak (Orthoptera) |  |
-
-| Baetica ustulata | Sierra Nevada-i nyergesszöcske |
-
-| Brachytrupes megacephalus | sivatagi házitücsök |
-
-| Isophya costata | magyar tarsza |
-
-| Isophya harzi | nincs magyar neve |
-
-| Isophya stysi | erdélyi tarsza |
-
-| Myrmecophilus baronii | Baron-hangyásztücsök |
-
-| Odontopodisma rubripes | vöröslábú hegyisáska |
-
-| Paracaloptenus caloptenoides | álolaszsáska |
-
-| Pholidoptera transsylvanica | erdélyi avarszöcske |
-
-| Stenobothrus eurasius | eurázsiai rétisáska |
-
-| PÓKSZABÁSÚAK (ARACHNIDA) |  |
-
-| Álskorpiók (Pseudoscorpiones) |  |
-
-| Anthrenochernes stellae | nincs magyar neve |
-
-| PUHATESTŰEK (MOLLUSCA) |  |
-
-| CSIGÁK (GASTROPODA) |  |
-
-| Anisus vorticulus | kis lemezcsiga |
-
-| Caseolus calculus | bordás kövecskecsiga |
-
-| Caseolus commixta | felemás kövecskecsiga |
-
-| Caseolus sphaerula | gömbölyded kövecskecsiga |
-
-| Chilostoma banaticum | bánáti csiga |
-
-| Discula leacockiana | Leacock-gombcsiga |
-
-| Discula tabellata | rovásos gombcsiga |
-
-| Discus guerinianus | madeirai diszkoszcsiga |
-
-| Elona quimperiana | quemperi csiga |
-
-| Geomalacus maculosus | ír csupaszcsiga |
-
-| Geomitra moniziana | Moniz-turbáncsiga |
-
-| Gibbula nivosa | havasi ragyáscsiga |
-
-| Hygromia kovacsi | dobozi pikkelyescsiga |
-
-| Idiomela subplicata | madeirai bordáscsiga |
-
-| Lampedusa imitatrix | nincs magyar neve |
-
-| Leiostyla abbreviata | kurta bábcsiga |
-
-| Leiostyla cassida | sisakos bábcsiga |
-
-| Leiostyla corneocostata | bordás bábcsiga |
-
-| Leiostyla gibba | dudoros bábcsiga |
-
-| Leiostyla lamellosa | lemezes bábcsiga |
-
-| Sadleriana pannonica | tornai patakcsiga |
-
-| Theodoxus transversalis | sávos bödöncsiga |
-
-| Vertigo angustior | hosszúfogú törpecsiga |
-
-| Vertigo genesii | kerekszájú törpecsiga |
-
-| Vertigo geyeri | négyfogú törpecsiga |
-
-| Vertigo moulinsiana | hasas törpecsiga |
-
-| KAGYLÓK (BIVALVIA) |  |
-
-| Najádfélék (Unionoida) |  |
-
-| Margaritifera durrovensis | ír gyöngykagyló |
-
-| Margaritifera margaritifera | folyami gyöngykagyló |
-
-| Unio crassus | tompa folyamkagyló |
-
-| Vándorkagylófélék (Dreissenidae) |  |
-
-| Congeria kusceri | dinári kecskekörömkagyló |
-
-2. B) számú melléklet[^61]
-
-[^58]: Az 1. A) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (1) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.
-[^59]: Az 1. B) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^60]: A 2. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^61]: A 2. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^57]: A 2. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 3. §-ával megállapított szöveg.

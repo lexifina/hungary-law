@@ -1,4 +1,4 @@
-## 4. A) számú melléklet
+## 4. A) számú melléklet[^60]
 
 ## Közösségi jelentőségű élőhelytípusok
 
@@ -132,6 +132,8 @@
 
 ## 3290 Időszakos mediterrán folyók (Paspalo-Agrostidion)
 
+## 32A0 Karsztfolyók mésztufagátjai a Dinári-hegységben
+
 ## 4. MÉRSÉKELT ÖVI FENYÉREK ÉS CSERJÉSEK
 
 ## 4010 Észak-atlanti nedves fenyérek keresztes hangával (Erica tetralix)
@@ -225,6 +227,8 @@
 ## 6510 Sík- és dombvidéki kaszálórétek (Alopecurus pratensis, Sanguisorba officinalis)
 
 ## 6520 Hegyi kaszálórétek
+
+## 6540 Molinio-Hordeion secalini típusú szubmediterrán gyepek
 
 ## 7. DAGADÓLÁPOK, ÁTMENETI LÁPOK ÉS RÉTLÁPOK
 
@@ -402,7 +406,7 @@
 
 ## 95A0 Magas hegyvidéki mediterrán fenyvesek
 
-## 4. B) számú melléklet[^65]
+## 4. B) számú melléklet[^61]
 
 ## Kiemelt közösségi jelentőségű élőhelytípusok
 
@@ -624,7 +628,8 @@
 
 ## 9590 Ciprusicédrus-erdők (Cedrosetum brevifoliae)
 
-5. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^66]
+5. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^62]
 
-[^65]: A 4. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^66]: Az 5. számú melléklet szerinti különleges madárvédelmi területek helyrajzi számos jegyzékét a 45/2006. (XII. 8.) KvVM rendelet 1. számú melléklete tartalmazza. Az 5. számú melléklet a 23/2010. (II. 11.) Korm. rendelet 2. § (2) bekezdése és 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^60]: A 4. A) számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^61]: A 4. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^62]: Az 5. számú melléklet szerinti különleges madárvédelmi területek helyrajzi számos jegyzékét a 45/2006. (XII. 8.) KvVM rendelet 1. számú melléklete tartalmazza. Az 5. számú melléklet a 23/2010. (II. 11.) Korm. rendelet 2. § (2) bekezdése és 6. § (2) bekezdés b) pontja szerint módosított szöveg.

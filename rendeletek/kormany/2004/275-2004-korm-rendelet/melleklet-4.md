@@ -1,1154 +1,1163 @@
+## 3. A) számú melléklet
+
 ## Közösségi jelentőségű növényfajok
 
-| Tudományos név | Magyar név |
+|  | A | B | C |
 
-| HARASZTOK (PTERIDOPHYTA) |  |
+|  | Rendszertani kategóriák | Tudományos név | Magyar elnevezés |
 
-| Fodorkafélék (Aspleniaceae) |  |
+| 1. | BRYOPHYTA |  | MOHÁK |
 
-| Asplenium jahandiezii | verdoni fodorka |
+| 2. |  | Bruchia vogesiaca | (nincs magyar neve) |
 
-| Asplenium adulterinum | barnászöld fodorka |
+| 3. |  | Bryhnia novae-angliae | (nincs magyar neve) |
 
-| Bordapáfrányfélék (Blechnaceae) |  |
+| 4. |  | Buxbaumia viridis | zöld koboldmoha |
 
-| Woodwardia radicans | kúszó láncpáfrány |
+| 5. |  | Cephalozia macounii | (nincs magyar neve) |
 
-| Hópáfrányfafélék (Dicksoniaceae) |  |
+| 6. |  | Cynodontium suecicum | (nincs magyar neve) |
 
-| Culcita macrocarpa | nincs magyar neve |
+| 7. |  | Dichelyma capillaceum | (nincs magyar neve) |
 
-| Pajzsikafélék (Dryopteridaceae) |  |
+| 8. |  | Dicranum viride | zöld seprőmoha |
 
-| Diplazium sibiricum | nincs magyar neve |
+| 9. |  | Distichophyllum carinatum | (nincs magyar neve) |
 
-| Dryopteris fragans | illatos pajzsika |
+| 10. |  | Drepanocladus vernicosus (syn.: Hamatocaulis vernicosus) | karcsú pásztorbotmoha |
 
-| Hártyapáfrányfélék (Hymenophyllaceae) |  |
+| 11. |  | Encalypta mutica | (nincs magyar neve) |
 
-| Trichomanes speciosum | különleges sörtepáfrány |
+| 12. |  | Hamatocaulis lapponicus | (nincs magyar neve) |
 
-| Durdafűfélék (Isoetaceae) |  |
+| 13. |  | Herzogiella turfacea | (nincs magyar neve) |
 
-| Isoetes boryana | Bory-durdafű |
+| 14. |  | Hygrohypnum montanum | (nincs magyar neve) |
 
-| Isoetes malinverniana | lombardiai durdafű |
+| 15. |  | Jungermannia handelii | (nincs magyar neve) |
 
-| Mételyfűfélék (Marsileaceae) |  |
+| 16. |  | Mannia triandra | sziklai illatosmoha |
 
-| Marsilea batardae | ibériai mételyfű |
+| 17. |  | Meesia longiseta | (nincs magyar neve) |
 
-| Marsilea quadrifolia | négylevelű mételyfű |
+| 18. |  | Nothothylas orbicularis | (nincs magyar neve) |
 
-| Marsilea strigosa | borostás mételyfű |
+| 19. |  | Ochyraea tatrensis | (nincs magyar neve) |
 
-| Kígyónyelvfélék (Ophioglossaceae) |  |
+| 20. |  | Orthothecium lapponicum | (nincs magyar neve) |
 
-| Botrychium simplex | egyszerű holdruta |
+| 21. |  | Orthotrichum rogeri | alhavasi szőrössüvegűmoha |
 
-| Ophioglossum polyphyllum | apró kígyónyelv |
+| 22. |  | Petalophyllum ralfsii | (nincs magyar neve) |
 
-| ZÁRVATERMŐK (ANGIOSPERMAE) |  |
+| 23. |  | Plagiomnium drummondii | (nincs magyar neve) |
 
-| Hídőrfélék (Alismataceae) |  |
+| 24. |  | Riccia breidleri | (nincs magyar neve) |
 
-| Caldesia parnassifolia | szíveslevelű hídőr |
+| 25. |  | Riella helicophylla | (nincs magyar neve) |
 
-| Luronium natans | lebegő kanalashídőr |
+| 26. |  | Scapania massolongi | (nincs magyar neve) |
 
-| Amarilliszfélék (Amaryllidaceae) |  |
+| 27. |  | Sphagnum pylaisii | (nincs magyar neve) |
 
-| Leucojum nicaeense | riviérai tőzike |
+| 28. |  | Tayloria rudolphiana | (nincs magyar neve) |
 
-| Narcissus asturiensis | apró nárcisz |
+| 29. |  | Tortella rigen | (nincs magyar neve) |
 
-| Narcissus calcicola | mészkedvelő nárcisz |
+| 30. | PTERIDOPHYTA |  | HARASZTOK |
 
-| Narcissus cyclamineus | bókoló nárcisz |
+| 31. | Aspleniaceae |  | fodorkafélék |
 
-| Narcissus fernandesii | Fernandes-nárcisz |
+| 32. |  | Asplenium adulterinum | barnászöld fodorka |
 
-| Narcissus humilis | törpe nárcisz |
+| 33. |  | Asplenium jahandiezii | verdoni fodorka |
 
-| Narcissus pseudonarcissus subsp. nobilis | pompás csupros nárcisz |
+| 34. | Blechnaceae |  | bordapáfrányfélék |
 
-| Narcissus scaberulus | érdes nárcisz |
+| 35. |  | Woodwardia radicans | kúszó láncpáfrány |
 
-| Narcissus triandrus subsp. capax | normandiai csüngő nárcisz |
+| 36. | Dicksoniaceae |  | hópáfrányfélék |
 
-| Narcissus viridiflorus | zöld nárcisz |
+| 37. |  | Culcita macrocarpa | (nincs magyar neve) |
 
-| Selyemkórófélék (Asclepiadaceae) |  |
+| 38. | Dryopteridaceae |  | pajzsikafélék |
 
-| Vincetoxicum pannonicum | magyar méreggyilok |
+| 39. |  | Diplazium sibiricum | (nincs magyar neve) |
 
-| Érdeslevelűek (Boraginaceae) |  |
+| 40. |  | Dryopteris fragans | illatos pajzsika |
 
-| Echium russicum | piros kígyószisz |
+| 41. | Hymenophyllaceae |  | hártyaharasztok |
 
-| Myosotis lusitanica | luzitániai nefelejcs |
+| 42. |  | Trichomanes speciosum | különleges sörtepáfrány |
 
-| Myosotis rehsteineri | Rehsteiner-nefelejcs |
+| 43. | Isoetaceae |  | durdafűfélék |
 
-| Myosotis retusifolia | tompalevelű nefelejcs |
+| 44. |  | Isoetes boryana | Bory-durdafű |
 
-| Omphalodes kuzinskyanae | Kuzinsky-békaszem |
+| 45. |  | Isoetes malinverniana | lombardiai durdafű |
 
-| Solenanthus albanicus | albán ebnyelvűfű |
+| 46. | Marsileaceae |  | mételyfűfélék |
 
-| Harangvirágfélék (Campanulaceae) |  |
+| 47. |  | Marsilea batardae | ibériai mételyfű |
 
-| Adenophora lilifolia | illatos csengettyűvirág |
+| 48. |  | Marsilea quadrifolia | mételyfű (négylevelű mételyfű) |
 
-| Asyneuma giganteum | óriás harangcsillag |
+| 49. |  | Marsilea strigosa | borostás mételyfű |
 
-| Campanula romanica | nincs magyar neve |
+| 50. | Ophioglossaceae |  | kígyónyelvfélék |
 
-| Campanula zoysii | csöves harangvirág |
+| 51. |  | Botrychium simplex | egyszerű holdruta |
 
-| Jasione crispa subsp. serpentinica | portugál fodros kékcsillag |
+| 52. |  | Ophioglossum polyphyllum | apró kígyónyelv |
 
-| Jasione lusitanica | luzitániai kékcsillag |
+| 53. | ANGIOSPERMATOPHYTA |  | ZÁRVATERMŐK |
 
-| Szegfűfélék (Caryophyllaceae) |  |
+| 54. | Alismataceae |  | hídőrfélék |
 
-| Arenaria ciliata subsp.pseudofrigida | vékonyka homokhúr |
+| 55. |  | Caldesia parnassifolia | szíveslevelű-hídőr (lápi szíveslevelű-hídőr) |
 
-| Arenaria humifusa | elterülő homokhúr |
+| 56. |  | Luronium natans | lebegő kanalashídőr |
 
-| Arenaria provincialis | provence-i homokhúr |
+| 57. | Amaryllidaceae |  | amarilliszfélék |
 
-| Cerastium dinaricum | dinári-hegységi madárhúr |
+| 58. |  | Leucojum nicaeense | riviérai tőzike |
 
-| Dianthus arenarius subsp. arenarius | homoki szegfű |
+| 59. |  | Narcissus asturiensis | apró nárcisz |
 
-| Dianthus cintranus subsp. cintranus | portugál szegfű |
+| 60. |  | Narcissus calcicola | mészkedvelő nárcisz |
 
-| Dianthus marizii | Marizi-szegfű |
+| 61. |  | Narcissus cyclamineus | bókoló nárcisz |
 
-| Dianthus plumarius subsp. regis-stephani | Szent István-szegfű |
+| 62. |  | Narcissus fernandesii | Fernandes-nárcisz |
 
-| Dianthus rupicola | sziklalakó szegfű |
+| 63. |  | Narcissus humilis | törpe nárcisz |
 
-| Herniaria algarvica | algarvei porcika |
+| 64. |  | Narcissus pseudonarcissus subsp. nobilis | pompás csupros nárcisz |
 
-| Herniaria lusitanica subsp. berlengiana | Berlenga-szigeteki portugál porcika |
+| 65. |  | Narcissus scaberulus | érdes nárcisz |
 
-| Herniaria maritima | tengeri porcika |
+| 66. |  | Narcissus triandrus subsp. capax | csüngő nárcisz capax alfaja |
 
-| Moehringia jankae | Janka-csitri |
+| 67. |  | Narcissus viridiflorus | zöld nárcisz |
 
-| Moehringia lateriflora | téglavörösvirágú csitri |
+| 68. | Apiaceae (Umbelliferae) |  | ernyősök |
 
-| Moehringia tommasinii | velencei csitri |
+| 69. |  | Angelica palustris | réti angyalgyökér |
 
-| Moehringia villosa | bozontos csitri |
+| 70. |  | Apium repens | kúszó zeller |
 
-| Petrocoptis grandiflora | nagyvirágú csokorszegfű |
+| 71. |  | Athamanta cortiana | Corti-szemgyökér |
 
-| Petrocoptis montsicciana | Montsicci-csokorszegfű |
+| 72. |  | Eryngium alpinum | havasi iringó |
 
-| Petrocoptis pseudoviscosa | ragacsos csokorszegfü |
+| 73. |  | Hladnikia pastinacifolia | (nincs magyar neve) |
 
-| Silene furcata subsp. angustiflora | skandináviai villás habszegfű |
+| 74. |  | Petagnia saniculifolia | (nincs magyar neve) |
 
-| Silene hifacensis | Baleár-szigeteki habszegfű |
+| 75. |  | Rouya polygama | (nincs magyar neve) |
 
-| Silene longicilia | hosszúpillás habszegfű |
+| 76. |  | Seseli leucospermum | magyar gurgolya |
 
-| Silene mariana | Mária-habszegfű |
+| 77. |  | Thorella verticillatinundata | (nincs magyar neve) |
 
-| Szuharfélék (Cistaceae) |  |
+| 78. | Asclepiadaceae |  | selyemkórófélék |
 
-| Cistus palhinhae | portugál szuhar |
+| 79. |  | Vincetoxicum pannonicum | magyar méreggyilok |
 
-| Halimium verticillatum | örvöslevelű halimium |
+| 80. | Asteraceae (Compositae) |  | őszirózsafélék (fészekvirágzatúak) |
 
-| Helianthemum alypoides | spanyol napvirág |
+| 81. |  | Artemisia campestris subsp. bottnica | skandináviai mezei üröm |
 
-| Helianthemum caput-felis | macskafej-napraforgó |
+| 82. |  | Artemisia oelandica | ölandi üröm |
 
-| Fészekvirágzatúak (Compositae) |  |
+| 83. |  | Carlina onopordifolia | szamárbogáncs-levelű bábakalács |
 
-| Artemisia campestris subsp. bottnica | skandináviai mezei üröm |
+| 84. |  | Centaurea corymbosa | ernyős imola |
 
-| Artemisia oelandica | ölandi üröm |
+| 85. |  | Centaurea gadorensis | Sierra de Gador-i imola |
 
-| Carlina onopordifolia | szamárbogáncslevelű bábakalács |
+| 86. |  | Centaurea immanuelis-loewii | imola faj |
 
-| Centaurea corymbosa | ernyős imola |
+| 87. |  | Centaurea jankae | Janka-imola |
 
-| Centaurea gadorensis | Sierra de Gador-i imola |
+| 88. |  | Centaurea kartschiana | velencei imola |
 
-| Centaurea immanuelis-loewii | nincs magyar neve |
+| 89. |  | Centaurea micrantha subsp. herminii | portugál útszéli imola |
 
-| Centaurea jankae | Janka-imola |
+| 90. |  | Centaurea pontica | pontuszi imola |
 
-| Centaurea kartschiana | velencei imola |
+| 91. |  | Centaurea pulvinata | párnás imola |
 
-| Centaurea micrantha subsp. herminii | portugál útszéli imola |
+| 92. |  | Centaurea rothmalerana | Rothmaler-imola |
 
-| Centaurea pontica | pontuszi imola |
+| 93. |  | Centaurea vicentina | Vincent-imola |
 
-| Centaurea pulvinata | párnás imola |
+| 94. |  | Cirsium brachycephalum | kisfészkű aszat |
 
-| Centaurea rothmalerana | Rothmaler-imola |
+| 95. |  | Crepis granatensis | gránátzörgőfű |
 
-| Centaurea vicentina | Vincent-imola |
+| 96. |  | Crepis pusilla | apró zörgőfű |
 
-| Cirsium brachycephalum | kisfészkű ászát |
+| 97. |  | Crepis tectorum subsp. nigrescens | fekete hamvas zörgőfű |
 
-| Crepis granatensis | gránátzörgőfű |
+| 98. |  | Erigeron frigidus | Sierra Nevada-i küllőrojt |
 
-| Crepis pusilla | apró zörgőfű |
+| 99. |  | Hymenostemma pseudanthemis | (nincs magyar neve) |
 
-| Crepis tectorum subsp. nigrescens | fekete hamvas zörgőfű |
+| 100. |  | Hyoseris frutescens | (nincs magyar neve) |
 
-| Erigeron frigidus | Sierra Nevada-i küllőrojt |
+| 101. |  | Leontodon boryi | Bory-oroszlánfog |
 
-| Hymenostemma pseudanthemis | nincs magyar neve |
+| 102. |  | Leontodon microcephalus | kisfejű oroszlánfog |
 
-| Hyoseris frutescens | nincs magyar neve |
+| 103. |  | Leuzea longifolia | hosszúlevelű imola |
 
-| Leontodon microcephalus | kisfejű oroszlánfog |
+| 104. |  | Ligularia sibirica | szibériai hamuvirág |
 
-| Leontodon boryi | Bory-oroszlánfog |
+| 105. |  | Santolina impressa | lapított cipruska |
 
-| Leuzea longifolia | hosszúlevelű imola |
+| 106. |  | Santolina semidentata | fogacskás cipruska |
 
-| Ligularia sibirica | szibériai hamuvirág |
+| 107. |  | Saussurea alpina subsp. esthonica | észt havasi törpebogáncs |
 
-| Santolina impressa | lapított cipruska |
+| 108. |  | Senecio jacobea subsp. gotlandicus | svéd jakabnapi aggófű |
 
-| Santolina semidentata | fogacskás cipruska |
+| 109. |  | Senecio nevadensis | Sierra Nevada-i aggófű |
 
-| Saussurea alpina subsp. esthonica | észt havasi törpebogáncs |
+| 110. |  | Tephroseris longifolia subsp. moravica | morva hosszúlevelű aggófű |
 
-| Senecio jacobea subsp. gotlandicus | svéd jakabnapi aggófű |
+| 111. | Boraginaceae |  | érdeslevelűek |
 
-| Senecio nevadensis | Sierra Nevada-i aggófű |
+| 112. |  | Echium maculatum (syn.: Echium russicum) | piros kígyószisz |
 
-| Tephroseris longifolia subsp. moravica | morva hosszúlevelű aggófű |
+| 113. |  | Myosotis lusitanica | luzitániai nefelejcs |
 
-| Keresztesvirágúak (Cruciferae) |  |
+| 114. |  | Myosotis rehsteineri | Rehsteiner-nefelejcs |
 
-| Alyssum pyrenaicum | pireneusi ternye |
+| 115. |  | Myosotis retusifolia | tompalevelű nefelejcs |
 
-| Arabis sadina | portugál ikravirág |
+| 116. |  | Omphalodes kuzinskyanae | Kuzinsky-békaszem |
 
-| Arabis scopoliana | Scopoli-ikravirág |
+| 117. |  | Solenanthus albanicus | albán ebnyelvűfű |
 
-| Biscutella vincentina | Vincent-korongpár |
+| 118. | Brassicaceae (Cruciferae) |  | keresztesvirágúak |
 
-| Boleum asperum | nincs magyar neve |
+| 119. |  | Alyssum pyrenaicum | pireneusi ternye |
 
-| Brassica glabrescens | kopaszodó káposzta |
+| 120. |  | Arabis sadina | portugál ikravirág |
 
-| Brassica hilarionis | ciprusi káposzta |
+| 121. |  | Arabis scopoliana | Scopoli-ikravirág |
 
-| Brassica insularis | nincs magyar neve |
+| 122. |  | Biscutella vincentina | Vincent-korongpár |
 
-| Braya linearis | szálaslevelű havasizsázsa |
+| 123. |  | Boleum asperum | (nincs magyar neve) |
 
-| Crambe tataria | tátorján |
+| 124. |  | Brassica glabrescens | kopaszodó káposzta |
 
-| Diplotaxis ibicensis | ibizai kányazsázsa |
+| 125. |  | Brassica hilarionis | ciprusi káposzta |
 
-| Diplotaxis vicentina | Szent Vince-kányazsázsa |
+| 126. |  | Brassica insularis | szigeti káposzta |
 
-| Draba cacuminum | csúcsos daravirág |
+| 127. |  | Braya linearis | szálaslevelű havasizsázsa |
 
-| Draba cinerea | hamvas daravirág |
+| 128. |  | Crambe tataria | tátorján (buglyos tátorján) |
 
-| Draba dorneri | nincs magyar neve |
+| 129. |  | Diplotaxis ibicensis | ibizai kányazsázsa |
 
-| Erucastrum palustre | mocsári nyurgaszál |
+| 130. |  | Diplotaxis vicentina | Szent Vince-kányazsázsa |
 
-| Iberis procumbens subsp. microcarpa | portugál elterülő tatárvirág |
+| 131. |  | Draba cacuminum | csúcsos daravirág |
 
-| Jonopsidium savianum | toscanai álibolya |
+| 132. |  | Draba cinerea | hamvas daravirág |
 
-| Rhynchosinapis erucastrum subsp. cintrana | nincs magyar neve |
+| 133. |  | Draba dorneri | Dorner-daravirág |
 
-| Sisymbrium cavanillesianum | madridi zsombor |
+| 134. |  | Erucastrum palustre | mocsári nyurgaszál |
 
-| Sisymbrium supinum | heverő zsombor |
+| 135. |  | Iberis procumbens subsp. microcarpa | portugál elterülő tatárvirág |
 
-| Thlaspi jankae | Janka-tarsóka |
+| 136. |  | Jonopsidium savianum | toscanai álibolya |
 
-| Sásfélék (Cyperaceae) |  |
+| 137. |  | Rhynchosinapis erucastrum subsp. cintrana | (nincs magyar neve) |
 
-| Carex holostoma | nincs magyar neve |
+| 138. |  | Sisymbrium cavanillesianum | madridi zsombor |
 
-| Eleocharis carniolica | sűrű csetkáka |
+| 139. |  | Sisymbrium supinum | heverő zsombor |
 
-| Harmatfűfélék (Droseraceae) |  |
+| 140. |  | Thlaspi jankae agg. (incl. Thlaspi hungaricum) | Janka-tarsóka (beleértve a magyar tarsókát) |
 
-| Aldrovanda vesiculosa | aldrovanda |
+| 141. | Campanulaceae |  | harangvirágfélék |
 
-| Látonyafélék (Elatinaceae) |  |
+| 142. |  | Adenophora lilifolia | csengettyűvirág (illatos csengettyűvirág) |
 
-| Elatine gussonei | Gusson-látonya |
+| 143. |  | Asyneuma giganteum | óriás harangcsillag |
 
-| Hangafélék (Ericaceae) |  |
+| 144. |  | Campanula romanica | (nincs magyar neve) |
 
-| Rhododendron luteum | sárga havasszépe |
+| 145. |  | Campanula zoysii | csöves harangvirág |
 
-| Kutyatejfélék (Euphorbiaceae) |  |
+| 146. |  | Jasione crispa subsp. serpentinica | portugál fodros kékcsillag |
 
-| Euphorbia transtagana | ágas kutyatej |
+| 147. |  | Jasione lusitanica | luzitániai kékcsillag |
 
-| Tárnicsfélék (Gentianaceae) |  |
+| 148. | Caryophyllaceae |  | szegfűfélék |
 
-| Gentiana ligustica | liguriai tárnics |
+| 149. |  | Arenaria ciliata subsp. pseudofrigida | vékonyka homokhúr |
 
-| Gentianella anglica | angyaltárnicska |
+| 150. |  | Arenaria humifusa | elterülő homokhúr |
 
-| Gólyaorrfélék (Geraniaceae) |  |
+| 151. |  | Arenaria provincialis | provence-i homokhúr |
 
-| Erodium paularense | guadarramai gémorr |
+| 152. |  | Cerastium dinaricum | Dinári-hegységi madárhúr |
 
-| Pázsitfüvek (Gramineae) |  |
+| 153. |  | Dianthus arenarius subsp. arenarius | homoki szegfű |
 
-| Arctagrostis latifolia | széleslevelű sarkitippan |
+| 154. |  | Dianthus cintranus subsp. cintranus | portugál szegfű |
 
-| Arctophila fulva | nincs magyar neve |
+| 155. |  | Dianthus marizii | Marizi-szegfű |
 
-| Avenula hackelii | Hackel-zabfű |
+| 156. |  | Dianthus plumarius subsp. regis-stephani | Szent István-szegfű (István király-szegfű) |
 
-| Bromus grossus | durva rozsnok |
+| 157. |  | Dianthus rupicola | sziklalakó szegfű |
 
-| Calamagrostis chalybaea | nincs magyar neve |
+| 158. |  | Herniaria algarvica | algarvei porcika |
 
-| Cinna latifolia | nincs magyar neve |
+| 159. |  | Herniaria lusitanica subsp. berlengiana | Berlenga-szigeteki portugál porcika |
 
-| Coleanthus subtilis | hüvelykfű |
+| 160. |  | Herniaria maritima | tengerparti porcika |
 
-| Festuca brigantina | portugál csenkesz |
+| 161. |  | Moehringia jankae | Janka-csitri |
 
-| Festuca duriotagana | nincs magyar neve |
+| 162. |  | Moehringia lateriflora | téglavörös-virágú csitri |
 
-| Festuca elegans | kecses csenkesz |
+| 163. |  | Moehringia tommasinii | velencei csitri |
 
-| Festuca henriquesii | nincs magyar neve |
+| 164. |  | Moehringia villosa | bozontos csitri |
 
-| Festuca summilusitana | luzitániai csenkesz |
+| 165. |  | Petrocoptis grandiflora | nagyvirágú csokorszegfű |
 
-| Gaudinia hispanica | spanyol füzérzab |
+| 166. |  | Petrocoptis montsicciana | Montsicci-csokorszegfű |
 
-| Holcus setiglumis subsp. duriensis | luzitániai szőrösnyelvű selyemperje |
+| 167. |  | Petrocoptis pseudoviscosa | ragacsos csokorszegfű |
 
-| Micropyropsis tuberosa | nincs magyar neve |
+| 168. |  | Silene furcata subsp. angustiflora | skandináviai villás habszegfű |
 
-| Poa granitica disparilis | nincs magyar neve |
+| 169. |  | Silene hifacensis | Baleár-szigeteki habszegfű |
 
-| Pseudarrhenatherum pallens | fakó csokoládénövény |
+| 170. |  | Silene longicilia | hosszúpillás habszegfű |
 
-| Puccinellia phryganodes | cserjés mézpázsit |
+| 171. |  | Silene mariana | Mária-habszegfű |
 
-| Puccinellia pungens | szúrós mézpázsit |
+| 172. | Cistaceae |  | szuharfélék |
 
-| Stipa danubialis | dunai árvalányhaj |
+| 173. |  | Cistus palhinhae | portugál szuhar |
 
-| Trisetum subalpestre | alhavasi aranyzab |
+| 174. |  | Halimium verticillatum | örvöslevelű halimium |
 
-| Vízilófarkfélék (Hippuridaceae) |  |
+| 175. |  | Helianthemum alypoides | spanyol napvirág |
 
-| Hippuris tetraphylla | négylevelű vízilófark |
+| 176. |  | Helianthemum caput-felis | macskafej-napvirág |
 
-| Nősziromfélék (Iridaceae) |  |
+| 177. | Cyperaceae |  | palkafélék |
 
-| Crocus cyprius | ciprusi sáfrány |
+| 178. |  | Carex holostoma | sás faj |
 
-| Crocus hartmannianus | Hartmann-sáfrány |
+| 179. |  | Eleocharis carniolica | sűrű csetkáka |
 
-| Gladiolus palustris | mocsári kardvirág |
+| 180. | Droseraceae |  | harmatfűfélék |
 
-| Iris aphylla subsp. hungarica | magyar nőszirom |
+| 181. |  | Aldrovanda vesiculosa | aldrovanda (lápi aldrovanda) |
 
-| Iris humilis subsp. arenaria | homoki nőszirom |
+| 182. | Elatinaceae |  | látonyafélék |
 
-| Szittyófélék (Juncaceae) |  |
+| 183. |  | Elatine gussonei | Gusson-látonya |
 
-| Juncus valvatus | kopácsos szittyó |
+| 184. | Ericaceae |  | hangafélék |
 
-| Luzula arctica | sarki perjeszittyó |
+| 185. |  | Rhododendron luteum | sárga havasszépe |
 
-| Ajakosak (Labiatae) |  |
+| 186. | Euphorbiaceae |  | kutyatejfélék |
 
-| Dracocephalum austriacum | osztrák sárkányfű |
+| 187. |  | Euphorbia transtagana | ágas kutyatej |
 
-| Nepeta dirphya | görög macskamenta |
+| 188. | Fabaceae (Leguminosae, Papilionaceae) | pillangósvirágúak (hüvelyesek) |
 
-| Origanum dictamnus | krétai szurokfű |
+| 189. |  | Anthyllis hystrix | tüskés nyúlszapuka |
 
-| Phlomis brevibracteata | rövidcsészéjű macskahere |
+| 190. |  | Astragalus centralpinus | alpesi csűdfű |
 
-| Phlomis cypria | ciprusi macskahere |
+| 191. |  | Astragalus peterfii | Péterfi-csűdfű |
 
-| Salvia veneris | Vénusz-zsálya |
+| 192. |  | Astragalus tremolsianus | Sierra de Gador-i csűdfű |
 
-| Sideritis cypria | ciprusi sármányvirág |
+| 193. |  | Genista dorycnifolia | dárdahere-levelű rekettye |
 
-| Sideritis incana subsp. glauca | spanyol szürke sármányvirág |
+| 194. |  | Genista holopetala | krajnai rekettye |
 
-| Sideritis javalambrensis | javalambrei sármányvirág |
+| 195. |  | Melilotus segetalis subsp. fallax | portugál vetési somkóró |
 
-| Sideritis serrata | fűrészes sármányvirág |
+| 196. |  | Trifolium saxatile | sziklai here |
 
-| Teucrium lepicephalum | pikkelyesfejű gamandor |
+| 197. | Gentianaceae |  | tárnicsfélék |
 
-| Teucrium turredanum | spanyol gamandor |
+| 198. |  | Gentiana ligustica | liguriai tárnics |
 
-| Thymus carnosus | fénylő kakukkfű |
+| 199. |  | Gentianella anglica | angyaltárnicska |
 
-| Hüvelyesek (Leguminosae) |  |
+| 200. | Geraniaceae |  | gólyaorrfélék |
 
-| Anthyllis hystrix | tüskés nyúlszapuka |
+| 201. |  | Erodium paularense | guadarramai gémorr |
 
-| Astragalus centralpinus | alpesi csűdfű |
+| 202. | Hippuridaceae |  | vízilófarkfélék |
 
-| Astragalus peterfii | Péterfi-csűdfű |
+| 203. |  | Hippuris tetraphylla | négylevelű vízilófark |
 
-| Astragalus tremolsianus | Sierra de Gador-i csűdfű |
+| 204. | Iridaceae |  | nősziromfélék |
 
-| Genista dorycnifolia | dárdaherelevelű rekettye |
+| 205. |  | Crocus cyprius | ciprusi sáfrány |
 
-| Genista holopetala | krajnai rekettye |
+| 206. |  | Crocus hartmannianus | Hartmann-sáfrány |
 
-| Melilotus segetalis subsp. fallax | portugál vetési somkóró |
+| 207. |  | Gladiolus palustris | mocsári kardvirág |
 
-| Trifolium saxatile | sziklai here |
+| 208. |  | Iris aphylla subsp. hungarica | magyar nőszirom |
 
-| Rencefélék (Lentibulariaceae) |  |
+| 209. |  | Iris arenaria (syn.: Iris humilis subsp. arenaria) | homoki nőszirom |
 
-| Pinguicula nevadensis | Sierra Nevada-i hízóka |
+| 210. | Juncaceae |  | szittyófélék |
 
-| Liliomfélék (Liliaceae) |  |
+| 211. |  | Juncus valvatus | kopácsos szittyó |
 
-| Allium grosii | Baleár-szigeteki hagyma |
+| 212. |  | Luzula arctica | sarki perjeszittyó |
 
-| Colchicum arenarium | homoki kikerics |
+| 213. | Lamiaceae (Labiatae) |  | ajakosok |
 
-| Hyacinthoides vicentina | Vince-kékharang |
+| 214. |  | Dracocephalum austriacum | osztrák sárkányfű |
 
-| Scilla litardierei | balkáni csillagvirág |
+| 215. |  | Nepeta dirphya | görög macskamenta |
 
-| Tulipa cypria | ciprusi tulipán |
+| 216. |  | Origanum dictamnus | krétai szurokfű |
 
-| Tulipa hungarica | magyar tulipán |
+| 217. |  | Phlomis brevibracteata | rövidcsészéjű macskahere |
 
-| Mályvafélék (Malvaceae) |  |
+| 218. |  | Phlomis cypria | ciprusi macskahere |
 
-| Kosteletzkya pentacarpos | Kosteletzky-mályva |
+| 219. |  | Salvia veneris | Vénusz-zsálya |
 
-| Tüskéshínárfélék (Najadaceae) |  |
+| 220. |  | Sideritis cypria | ciprusi sármányvirág |
 
-| Najas flexilis | hajlékony tüskehínár |
+| 221. |  | Sideritis incana subsp. glauca | spanyol szürke sármányvirág |
 
-| Najas tenuissima | karcsú tüskehínár |
+| 222. |  | Sideritis javalambrensis | javalambrei sármányvirág |
 
-| Syringa josikaea | Jósika-orgona |
+| 223. |  | Sideritis serrata | fűrészes sármányvirág |
 
-| Olajfafélék (Oleaceae) |  |
+| 224. |  | Teucrium lepicephalum | pikkelyesfejű gamandor |
 
-| Kosborfélék (Orchidaceae) |  |
+| 225. |  | Teucrium turredanum | spanyol gamandor |
 
-| Anacamptis urvilleana | máltai vitézvirág |
+| 226. |  | Thymus carnosus | fénylő kakukkfű |
 
-| Calypso bulbosa | Calypso-orchidea |
+| 227. | Lentibulariaceae |  | rencefélék |
 
-| Cypripedium calceolus | rigópohár (Boldogasszony papucsa) |
+| 228. |  | Pinguicula nevadensis | Sierra Nevada-i hízóka |
 
-| Dactylorhiza kalopissii | nincs magyar neve |
+| 229. | Liliaceae |  | liliomfélék |
 
-| Gymnigritella runei | svéd havasikosbor |
+| 230. |  | Allium grosii | Baleár-szigeteki hagyma |
 
-| Himantoglossum adriaticum | adriai sallangvirág |
+| 231. |  | Colchicum arenarium | homoki kikerics |
 
-| Himantoglossum caprinum | bíboros sallangvirág |
+| 232. |  | Hyacinthoides vicentina | Vince-kékharang |
 
-| Liparis loeselii | hagymaburok |
+| 233. |  | Scilla litardierei | balkáni csillagvirág |
 
-| Ophrys melitensis | nincs magyar neve |
+| 234. |  | Tulipa cypria | ciprusi tulipán |
 
-| Platanthera obtusata subsp. oligantha | kevésvirágú tompa sarkvirág |
+| 235. |  | Tulipa hungarica | magyar tulipán |
 
-| Vajvirágfélék (Orobanchaceae) |  |
+| 236. | Malvaceae |  | mályvafélék |
 
-| Orobanche densiflora | tömöttvirágú szádorgó |
+| 237. |  | Kosteletzkya pentacarpos | Kosteletzky-mályva |
 
-| Bazsarózsafélék (Paeoniaceae) |  |
+| 238. | Najadaceae |  | tüskéshínárfélék |
 
-| Paeonia cambessedesii | Baleár-szigeteki bazsarózsa |
+| 239. |  | Najas flexilis | hajlékony tüskehínár |
 
-| Paeonia clusii subsp. rhodia | rodoszi bazsarózsa |
+| 240. |  | Najas tenuissima | karcsú tüskehínár |
 
-| Paeonia officinalis subsp. banatica | bánáti bazsarózsa |
+| 241. | Oleaceae |  | olajfafélék |
 
-| Paeonia parnassica | görög bazsarózsa |
+| 242. |  | Syringa josikaea | Jósika-orgona |
 
-| Pálmafélék (Palmae) |  |
+| 243. | Orchidaceae |  | kosborfélék |
 
-| Phoenix theophrasti | krétai datolyapálma |
+| 244. |  | Anacamptis urvilleana | máltai vitézvirág |
 
-| Mákfélék (Papaveraceae) |  |
+| 245. |  | Calypso bulbosa | Calypso-orchidea |
 
-| Corydalis gotlandica | gotlandi keltike |
+| 246. |  | Cypripedium calceolus | rigópohár (erdei papucskosbor, Boldogasszony papucsa) |
 
-| Papaver laestadianum | skandináv pipacs |
+| 247. |  | Dactylorhiza kalopissii | ujjaskosbor faj |
 
-| Papaver radicatum subsp. hyperboreum | sarkvidéki mák |
+| 248. |  | Gymnigritella runei | svéd havasikosbor |
 
-| Útifűfélék (Plantaginaceae) |  |
+| 249. |  | Himantoglossum adriaticum | adriai sallangvirág |
 
-| Plantago algarbiensis | algarvei útifű |
+| 250. |  | Himantoglossum jankae (Himantoglossum caprinum) | Janka-sallangvirág (bíboros sallangvirág) |
 
-| Plantago almogravensis | ibériai útifű |
+| 251. |  | Liparis loeselii | hagymaburok (lápi hagymaburok) |
 
-| Kékgyökérfélék (Plumbaginaceae) |  |
+| 252. |  | Ophrys melitensis | bangó faj |
 
-| Armeria berlengensis | Berlenga-szigeteki pázsitszegfű |
+| 253. |  | Platanthera obtusata subsp. oligantha | kevésvirágú tompa sarkvirág |
 
-| Armeria neglecta | apró pázsitszegfű |
+| 254. | Orobanchaceae |  | vajvirágfélék (szádorfélék) |
 
-| Armeria pseudarmeria | széleslevelű pázsitszegfű |
+| 255. |  | Orobanche densiflora | tömöttvirágú szádorgó |
 
-| Armeria soleirolii | Soleirol-pázsitszegfű |
+| 256. | Paeoniaceae |  | bazsarózsafélék |
 
-| Armeria velutina | bársonyos pázsitszegfű |
+| 257. |  | Paeonia cambessedesii | Baleár-szigeteki bazsarózsa |
 
-| Limonium dodartii subsp. lusitanicum | luzitániai sóvirág |
+| 258. |  | Paeonia clusii subsp. rhodia | rodoszi bazsarózsa |
 
-| Limonium lanceolatum | lándzsás sóvirág |
+| 259. |  | Paeonia officinalis subsp. banatica | bánáti bazsarózsa |
 
-| Limonium multiflorum | sokvirágú sóvirág |
+| 260. |  | Paeonia parnassica | görög bazsarózsa |
 
-| Keserűfűfélék (Polygonaceae) |  |
+| 261. | Palmae |  | pálmafélék |
 
-| Persicaria foliosa | dúslevelű keserűfű |
+| 262. |  | Phoenix theophrasti | krétai datolyapálma |
 
-| Polygonum praelongum | török keserűfű |
+| 263. | Papaveraceae |  | mákfélék |
 
-| Rumex rupestris | kövi sóska |
+| 264. |  | Corydalis gotlandica | gotlandi keltike |
 
-| Kankalinfélék (Primulaceae) |  |
+| 265. |  | Papaver laestadianum | skandináv pipacs |
 
-| Androsace mathildae | Matild-gombafű |
+| 266. |  | Papaver radicatum subsp. hyperboreum | sarkvidéki mák |
 
-| Androsace pyrenaica | pireneusi gombafű |
+| 267. | Plantaginaceae |  | útifűfélék |
 
-| Primula carniolica | karni-alpokbeli kankalin |
+| 268. |  | Plantago algarbiensis | algarvei útifű |
 
-| Primula nutans | bókoló kankalin |
+| 269. |  | Plantago almogravensis | ibériai útifű |
 
-| Primula palinuri | olasz kankalin |
+| 270. | Plumbaginaceae |  | kékgyökérfélék (ólomvirágfélék) |
 
-| Primula scandinavica | skandináv kankalin |
+| 271. |  | Armeria berlengensis | Berlenga-szigeteki pázsitszegfű |
 
-| Soldanella villosa | pireneusi harangrojt |
+| 272. |  | Armeria neglecta | apró pázsitszegfű |
 
-| Boglárkafélék (Ranunculaceae) |  |
+| 273. |  | Armeria pseudarmeria | széleslevelű pázsitszegfű |
 
-| Aconitum firmum subsp. moravicum | morva sisakvirág |
+| 274. |  | Armeria soleirolii | Soleirol-pázsitszegfű |
 
-| Adonis distorta | tekeredett hérics |
+| 275. |  | Armeria velutina | bársonyos pázsitszegfű |
 
-| Aquilegia bertolonii | Bertoloni-harangláb |
+| 276. |  | Limonium dodartii subsp. lusitanicum | luzitániai sóvirág |
 
-| Aquilegia kitaibelii | Kitaibel-harangláb |
+| 277. |  | Limonium lanceolatum | lándzsás sóvirág |
 
-| Pulsatilla grandis | leánykökörcsin |
+| 278. |  | Limonium multiflorum | sokvirágú sóvirág |
 
-| Pulsatilla patens | tátogó kökörcsin |
+| 279. | Poaceae (Gramineae) |  | pázsitfüvek |
 
-| Pulsatilla vulgaris subsp. gotlandica | gotlandi közönséges kökörcsin |
+| 280. |  | Arctagrostis latifolia | széleslevelű sarkitippan |
 
-| Ranunculus kykkoensis | ciprusi boglárka |
+| 281. |  | Arctophila fulva | (nincs magyar neve) |
 
-| Ranunculus lapponicus | lappföldi boglárka |
+| 282. |  | Avenula hackelii | Hackel-zabfű |
 
-| Rózsafélék (Rosaceae) |  |
+| 283. |  | Bromus grossus | durva rozsnok |
 
-| Agrimonia pilosa | szőrös párlófű |
+| 284. |  | Calamagrostis chalybaea | nádtippan faj |
 
-| Potentilla delphinensis | francia pimpó |
+| 285. |  | Cinna latifolia | széleslevelű erdeinád |
 
-| Potentilla emilii-popii | nincs magyar neve |
+| 286. |  | Coleanthus subtilis | hüvelykfű |
 
-| Sorbus teodorii | Teodor-berkenye |
+| 287. |  | Festuca brigantina | portugál csenkesz |
 
-| Galajfélék (Rubiaceae) |  |
+| 288. |  | Festuca duriotagana | csenkesz faj |
 
-| Galium cracoviense | krakkói galaj |
+| 289. |  | Festuca elegans | kecses csenkesz |
 
-| Galium moldavicum | moldovai galaj |
+| 290. |  | Festuca henriquesii | csenkesz faj |
 
-| Fűzfafélék (Salicaceae) |  |
+| 291. |  | Festuca summilusitana | luzitániai csenkesz |
 
-| Salix salvifolia subsp. australis | portugál zsályalevelű fűz |
+| 292. |  | Gaudinia hispanica | spanyol füzérzab |
 
-| Zsellérkefélék (Santalaceae) |  |
+| 293. |  | Holcus setiglumis subsp. duriensis | luzitániai szőrösnyelvű selyemperje |
 
-| Thesium ebracteatum | murvátlan zsellérke |
+| 294. |  | Micropyropsis tuberosa | (nincs magyar neve) |
 
-| Kőtörőfűfélék (Saxifragaceae) |  |
+| 295. |  | Poa granitica subsp. disparilis | perje faj |
 
-| Saxifraga berica | olasz kőtörőfű |
+| 296. |  | Pseudarrhenatherum pallens | fakó csokoládénövény |
 
-| Saxifraga florulenta | alpesi kőtörőfű |
+| 297. |  | Puccinellia phryganodes | cserjés mézpázsit |
 
-| Saxifraga hirculus | bucsecsi kőtörőfű |
+| 298. |  | Puccinellia pungens | szúrós mézpázsit |
 
-| Saxifraga osloënsis | oslói kőtörőfű |
+| 299. |  | Stipa danubialis | dunai árvalányhaj |
 
-| Saxifraga tombeanensis | lombardiai kőtörőfű |
+| 300. |  | Trisetum subalpestre | alhavasi aranyzab |
 
-| Tátogatófélék (Scrophulariaceae) |  |
+| 301. | Polygonaceae |  | keserűfűfélék |
 
-| Antirrhinum charidemi | spanyol oroszlánszáj |
+| 302. |  | Persicaria foliosa | dúslevelű keserűfű |
 
-| Chaenorrhinum serpyllifolium subsp. lusitanicum | luzitániai keskenylevelű tátos |
+| 303. |  | Polygonum praelongum | török keserűfű |
 
-| Euphrasia marchesettii | Marchesetti-szemvidítófű |
+| 304. |  | Rumex rupestris | kövi sóska |
 
-| Linaria algarviana | algarvei gyújtoványfű |
+| 305. | Primulaceae |  | kankalinfélék |
 
-| Linaria coutinhoi | Coutinho-gyújtoványfű |
+| 306. |  | Androsace mathildae | Matild-gombafű |
 
-| Linaria loeselii | Loesel-gyújtoványfű |
+| 307. |  | Androsace pyrenaica | pireneusi gombafű |
 
-| Linaria flava | sárga gyújtoványfű |
+| 308. |  | Primula carniolica | Karni-alpokbeli kankalin |
 
-| Linaria pseudolaxiflora | nincs magyar neve |
+| 309. |  | Primula nutans | bókoló kankalin |
 
-| Linaria tonzigii | Tonzig-gyújtoványfű |
+| 310. |  | Primula palinuri | olasz kankalin |
 
-| Odontites granatensis | gránátfogfű |
+| 311. |  | Primula scandinavica | skandináv kankalin |
 
-| Rhinanthus oesilensis | észt kakascímer |
+| 312. |  | Soldanella villosa | pireneusi harangrojt |
 
-| Tozzia carpathica | kárpáti torokvirág |
+| 313. | Ranunculaceae |  | boglárkafélék |
 
-| Verbascum litigiosum | portugál ökörfarkkóró |
+| 314. |  | Aconitum firmum subsp. moravicum | morva sisakvirág |
 
-| Veronica micrantha | kisvirágú veronika |
+| 315. |  | Adonis distorta | tekeredett hérics |
 
-| Boroszlánfélék (Thymelaeaceae) |  |
+| 316. |  | Aquilegia bertolonii | Bertoloni-harangláb |
 
-| Daphne petraea | sziklai boroszlán |
+| 317. |  | Aquilegia kitaibelii | Kitaibel-harangláb |
 
-| Szilfafélék (Ulmaceae) |  |
+| 318. |  | Pulsatilla grandis | leánykökörcsin |
 
-| Zelkova abelicea | krétai gyertyánszil |
+| 319. |  | Pulsatilla patens | tátogó kökörcsin |
 
-| Ernyősök (Umbelliferae) |  |
+| 320. |  | Pulsatilla vulgaris subsp. gotlandica | gotlandi közönséges kökörcsin |
 
-| Angelica palustris | réti angyalgyökér |
+| 321. |  | Ranunculus kykkoensis | ciprusi boglárka |
 
-| Apium repens | kúszó zeller |
+| 322. |  | Ranunculus lapponicus | lappföldi boglárka |
 
-| Athamanta cortiana | Corti-szemgyökér |
+| 323. | Rosaceae |  | rózsafélék |
 
-| Eryngium alpinum | havasi iringó |
+| 324. |  | Agrimonia pilosa | szőrös párlófű |
 
-| Hladnikia pastinacifolia | nincs magyar neve |
+| 325. |  | Potentilla delphinensis | francia pimpó |
 
-| Petagnia saniculifolia | nincs magyar neve |
+| 326. |  | Potentilla emilii-popii | pimpó faj |
 
-| Rouya polygama | nincs magyar neve |
+| 327. |  | Sorbus teodorii | Teodor-berkenye |
 
-| Seseli leucospermum | magyar gurgolya |
+| 328. | Rubiaceae |  | galajfélék |
 
-| Thorella verticillatinundata | nincs magyar neve |
+| 329. |  | Galium cracoviense | krakkói galaj |
 
-| Macskagyökérfélék (Valerianaceae) |  |
+| 330. |  | Galium moldavicum | moldovai galaj |
 
-| Centranthus trinervis | háromerű sarkantyúvirág |
+| 331. | Salicaceae |  | fűzfafélék |
 
-| Ibolyafélék (Violaceae) |  |
+| 332. |  | Salix salvifolia subsp. australis | portugál zsályalevelű fűz |
 
-| Viola delphinantha | dél-balkáni ibolya |
+| 333. | Santalaceae |  | szantálfafélék (zsellérkefélék) |
 
-| Viola jaubertiana | Jaubert-ibolya |
+| 334. |  | Thesium ebracteatum | murvátlan zsellérke |
 
-| Viola rupestris subsp. relicta | homoki ibolya |
+| 335. | Saxifragaceae |  | kőtörőfűfélék |
 
-| Alacsonyabbrendű növények |  |
+| 336. |  | Saxifraga berica | olasz kőtörőfű |
 
-| MOHÁK (BRYOPHYTA) |  |
+| 337. |  | Saxifraga florulenta | alpesi kőtörőfű |
 
-| Bruchia vogesiaca | nincs magyar neve |
+| 338. |  | Saxifraga hirculus | bucsecsi kőtörőfű |
 
-| Bryhnia novae-angliae | nincs magyar neve |
+| 339. |  | Saxifraga osloënsis | oslói kőtörőfű |
 
-| Buxbaumia viridis | zöld koboldmoha |
+| 340. |  | Saxifraga tombeanensis | lombardiai kőtörőfű |
 
-| Cephalozia macounii | nincs magyar neve |
+| 341. | Scrophulariaceae |  | tátogatófélék |
 
-| Cynodontium suecicum | nincs magyar neve |
+| 342. |  | Antirrhinum charidemi | spanyol oroszlánszáj |
 
-| Dichelyma capillaceum | nincs magyar neve |
+| 343. |  | Chaenorrhinum serpyllifolium subsp. lusitanicum | luzitániai keskenylevelű tátos |
 
-| Dicranum viride | zöld seprőmoha |
+| 344. |  | Euphrasia marchesettii | Marchesetti-szemvidítófű |
 
-| Distichophyllum carinatum | nincs magyar neve |
+| 345. |  | Linaria algarviana | algarvei gyújtoványfű |
 
-| Drepanocladus vernicosus | karcsú aranymoha |
+| 346. |  | Linaria coutinhoi | Coutinho-gyújtoványfű |
 
-| Encalypta mutica | nincs magyar neve |
+| 347. |  | Linaria loeselii | Loesel-gyújtoványfű |
 
-| Hamatocaulis lapponicus | nincs magyar neve |
+| 348. |  | Linaria flava | sárga gyújtoványfű |
 
-| Herzogiella turfacea | nincs magyar neve |
+| 349. |  | Linaria pseudolaxiflora | gyújtoványfű faj |
 
-| Hygrohypnum montanum | nincs magyar neve |
+| 350. |  | Linaria tonzigii | Tonzig-gyújtoványfű |
 
-| Jungermannia handelii | nincs magyar neve |
+| 351. |  | Odontites granatensis | gránátfogfű |
 
-| Mannia triandra | sziklai illatosmoha |
+| 352. |  | Rhinanthus oesilensis | észt kakascímer |
 
-| Meesia longiseta | nincs magyar neve |
+| 353. |  | Tozzia carpathica | kárpáti torokvirág |
 
-| Nothothylas orbicularis | nincs magyar neve |
+| 354. |  | Verbascum litigiosum | portugál ökörfarkkóró |
 
-| Ochyraea tatrensis | nincs magyar neve |
+| 355. |  | Veronica micrantha | kisvirágú veronika |
 
-| Orthothecium lapponicum | nincs magyar neve |
+| 356. | Thymelaeaceae |  | boroszlánfélék |
 
-| Orthotrichum rogeri | alhavasi szőrössüvegű-moha |
+| 357. |  | Daphne petraea | sziklai boroszlán |
 
-| Petalophyllum ralfsii | nincs magyar neve |
+| 358. | Ulmaceae |  | szilfafélék |
 
-| Plagiomnium drummondii | nincs magyar neve |
+| 359. |  | Zelkova abelicea | krétai gyertyánszil |
 
-| Riccia breidleri | nincs magyar neve |
+| 360. | Valerianaceae |  | macskagyökérfélék |
 
-| Riella helicophylla | nincs magyar neve |
+| 361. |  | Centranthus trinervis | háromerű sarkantyúvirág |
 
-| Scapania massolongi | nincs magyar neve |
+| 362. | Violaceae |  | ibolyafélék |
 
-| Sphagnum pylaisii | nincs magyar neve |
+| 363. |  | Viola delphinantha | dél-balkáni ibolya |
 
-| Tayloria rudolphiana | nincs magyar neve |
+| 364. |  | Viola jaubertiana | Jaubert-ibolya |
 
-| Tortella rigen | nincs magyar neve |
+| 365. |  | Viola rupestris subsp. relicta | ibolya faj (viola faj) |
 
-## 3. B) számú melléklet[^63]
+## 3. B) számú melléklet
 
 ## Kiemelt közösségi jelentőségű növényfajok
 
-## -------------------
+|  | A | B | C |
 
-## Tudományos név Magyar név
+|  | Rendszertani kategóriák | Tudományos név | Magyar elnevezés |
 
-## -------------------
+| 1. | BRYOPHYTA |  | MOHÁK |
 
-## HARASZTOK (PTERIDOPHYTA)
+| 2. |  | Bryoerythrophyllum campylocarpum (syn.: Bryoerythrophyllum machadoanum) | (nincs magyar neve) |
 
-## Pajzsikafélék (Dryopteridaceae)
+| 3. |  | Marsupella profunda | (nincs magyar neve) |
 
-## Dryopteris corleyi Corley-pajzsika
+| 4. | PTERIDOPHYTA |  | HARASZTOK |
 
-## NYITVATERMŐK (GYMNOSPERMAE)
+| 5. | Dryopteridaceae |  | pajzsikafélék |
 
-## Fenyőfélék (Pinaceae)
+| 6. |  | Dryopteris corleyi | Corley-pajzsika |
 
-## Abies nebrodensis szicíliai jegenyefenyő
+| 7. |  | Polystichum drepanum | vesepáfrány faj |
 
-## ZÁRVATERMŐK (ANGIOSPERMAE)
+| 8. | Marsileaceae |  | mételyfűfélék |
 
-## Hídőrfélék (Alismataceae)
+| 9. |  | Marsilea azorica | Azori-szigeteki mételyfű |
 
-## Alisma wahlenbergii Wahlenberg-hídőr
+| 10. | GYMNOSPERMATOPHYTA |  | NYITVATERMŐK |
 
-## Amarilliszfélék (Amaryllidaceae)
+| 11. | Pinaceae |  | ikermagvas fenyőfélék családja |
 
-## Narcissus nevadensis Sierra Nevada-i nárcisz
+| 12. |  | Abies nebrodensis | szicíliai jegenyefenyő |
 
-## Érdeslevelűek (Boraginaceae)
+| 13. | ANGIOSPERMATOPHYTA |  | ZÁRVATERMŐK |
 
-## Anchusa crispa fodros atracél
+| 14. | Alismataceae |  | hídőrfélék |
 
-## Lithodora nitida fénylő kőmagcserje
+| 15. |  | Alisma wahlenbergii | Wahlenberg-hídőr |
 
-## Omphalodes littoralis parti békaszem
+| 16. | Amaryllidaceae |  | amarilliszfélék |
 
-## Onosma tornensis tornai vértő
+| 17. |  | Narcissus nevadensis | Sierra Nevada-i nárcisz |
 
-## Symphytum cycladense görög nadálytő
+| 18. | Apiaceae (Umbelliferae) |  | ernyősök |
 
-## Harangvirágfélék (Campanulaceae)
+| 19. |  | Angelica heterocarpa | felemás angyalgyökér |
 
-## Campanula bohemica cseh harangvirág
+| 20. |  | Apium bermejoi | Baleár-szigeteki zeller |
 
-## Campanula gelida gleccserharangvirág
+| 21. |  | Bupleurum capillare | szálas buvákfű |
 
-## Campanula sabatia liguriai harangvirág
+| 22. |  | Bupleurum kakiskalae | görög buvákfű |
 
-## Campanula serrata fűrészes harangvirág
+| 23. |  | Eryngium viviparum | elevenszülő iringó |
 
-## Szegfűfélék (Caryophyllaceae)
+| 24. |  | Ferula sadleriana | magyarföldi husáng |
 
-## Arenaria nevadensis Sierra Nevada-i homokhúr
+| 25. |  | Laserpitium longiradium | hosszúsugarú bordamag |
 
-## Cerastium alsinifolium szálaslevelű madárhúr
+| 26. |  | Naufraga balearica | (nincs magyar neve) |
 
-## Dianthus arenarius subsp. bohemicus cseh homoki szegfű
+| 27. |  | Oenanthe conioides | bürökszerű borgyökér |
 
-## Dianthus diutinus tartós szegfű
+| 28. |  | Seseli intricatum | spanyol gurgolya |
 
-## Dianthus lumnitzeri Lumnitzer-szegfű
+| 29. | Asteraceae (Compositae) |  | őszirózsafélék (fészekvirágzatúak) |
 
-## Dianthus moravicus morva szegfű
+| 30. |  | Anthemis glaberrima | csupasz pipitér |
 
-## Dianthus nitidus fényes szegfű
+| 31. |  | Artemisia granatensis | granadai üröm |
 
-## Gypsophila papillosa szemcsés fátyolvirág
+| 32. |  | Artemisia laciniata | szeldeltlevelű üröm |
 
-## Herniaria latifolia subsp. litardierei pireneusi széleslevelű porcika
+| 33. |  | Artemisia pancicii | delibláti üröm |
 
-## Minuartia smejkalii Smejkál-kőhúr
+| 34. |  | Aster pyrenaeus | pireneusi őszirózsa |
 
-## Silene hicesiae olasz habszegfű
+| 35. |  | Aster sorrentinii | Sorrentin-őszirózsa |
 
-## Silene holzmanii Holzman-habszegfű
+| 36. |  | Carduus myriacanthus | soktövisű bogáncs |
 
-## Silene orphanidis Orphanides-habszegfű
+| 37. |  | Centaurea alba subsp. heldreichii | Heldreich-imola |
 
-## Silene rothmaleri Rothmaler-habszegfű
+| 38. |  | Centaurea alba subsp. princeps | enyves fehér imola |
 
-## Silene velutina bársonyos habszegfű
+| 39. |  | Centaurea akamantis | ciprusi imola |
 
-## Libatopfélék (Chenopodiaceae)
+| 40. |  | Centaurea attica subsp. megarensis | attikai imola megarensis alfaja |
 
-## Bassia saxicola sziklai seprőfű
+| 41. |  | Centaurea balearica | Baleár-szigeteki imola |
 
-## Cremnophyton lanfrancoi nincs magyar neve
+| 42. |  | Centaurea borjae | Bory-imola |
 
-## Salicornia veneta velencei sziksófű
+| 43. |  | Centaurea citricolor | citromsárga imola |
 
-## Szuharfélék (Cistaceae)
+| 44. |  | Centaurea horrida | ijesztő imola |
 
-## Tuberaria major nagy homokinaprózsa
+| 45. |  | Centaurea kalambakensis | kalampákai imola |
 
-## Fészekvirágzatúak (Compositae)
+| 46. |  | Centaurea lactiflora | tejfehér imola |
 
-## Anthemis glaberrima csupasz pipitér
+| 47. |  | Centaurea niederi | görög imola |
 
-## Artemisia granatensis granadai üröm
+| 48. |  | Centaurea peucedanifolia | kocsordlevelű imola |
 
-## Artemisia laciniata szeldeltlevelű üröm
+| 49. |  | Centaurea pinnata | tollas imola |
 
-## Artemisia pancicii delibláti üröm
+| 50. |  | Crepis crocifolia | sáfránylevelű zörgőfű |
 
-## Aster pyrenaeus pireneusi őszirózsa
+| 51. |  | Helichrysum melitense | máltai szalmagyopár |
 
-## Aster sorrentinii Sorrentin-őszirózsa
+| 52. |  | Jurinea cyanoides | kékes hangyabogáncs |
 
-## Carduus myriacanthus soktövisű bogáncs
+| 53. |  | Jurinea fontqueri | spanyol hangyabogáncs |
 
-## Centaurea alba subsp. heldreichii Heldreich-imola
+| 54. |  | Lamyropsis microcephala | kisfejű szardíniaibogáncs |
 
-## Centaurea alba subsp. princeps enyves fehér imola
+| 55. |  | Leontodon siculus | szicíliai oroszlánfog |
 
-## Centaurea akamantis ciprusi imola
+| 56. |  | Palaeocyanus crassifolius | (nincs magyar neve) |
 
-## Centaurea attica subsp. megarensis attikai imola megarensis alfaja
+| 57. |  | Serratula lycopifolia | fénylő zsoltina |
 
-## Centaurea balearica Baleár-szigeteki imola
+| 58. | Boraginaceae |  | érdeslevelűek |
 
-## Centaurea borjae Bory-imola
+| 59. |  | Anchusa crispa | fodros atracél |
 
-## Centaurea citricolor citromsárga imola
+| 60. |  | Lithodora nitida | fénylő kőmagcserje |
 
-## Centaurea horrida ijesztő imola
+| 61. |  | Omphalodes littoralis | parti békaszem |
 
-## Centaurea kalambakensis kalampákai imola
+| 62. |  | Onosma tornense (syn.: Onosma tornensis) | tornai vértő |
 
-## Centaurea lactiflora tejfehér imola
+| 63. |  | Symphytum cycladense | görög nadálytő |
 
-## Centaurea niederi görög imola
+| 64. | Brassicaceae (Cruciferae) |  | keresztesvirágúak |
 
-## Centaurea peucedanifolia kocsordlevelű imola
+| 65. |  | Arabis kennedyae | Kennedy-ikravirág |
 
-## Centaurea pinnata tollas imola
+| 66. |  | Biscutella neustriaca | párizsi korongpár |
 
-## Crepis crocifolia sáfránylevelű zörgőfű
+| 67. |  | Brassica macrocarpa | nagytermésű káposzta |
 
-## Helichrysum melitense szalmagyopár
+| 68. |  | Cochlearia polonica | lengyel kanálfű |
 
-## Jurinea cyanoides kékes hangyabogáncs
+| 69. |  | Cochlearia tatrae | tátrai kanálfű |
 
-## Jurinea fontqueri spanyol hangyabogáncs
+| 70. |  | Coincya rupestris | kövi sziklakáposzta |
 
-## Lamyropsis microcephala kisfejű szardíniaibogáncs
+| 71. |  | Coronopus navasii | spanyol varjúláb |
 
-## Leontodon siculus szicíliai oroszlánfog
+| 72. |  | Degenia velebitica | Degen-virág (Degen-viola) |
 
-## Palaeocyanus crassifolius nincs magyar neve
+| 73. |  | Erysimum pieninicum | pienineki repcsény |
 
-## Senecio elodes spanyol aggófű
+| 74. |  | Iberis arbuscula | fás tatárvirág |
 
-## Serratula lycopifolia fénylő zsoltina
+| 75. |  | Jonopsidium acaule | szártalan álibolya |
 
-## Szulákfélék (Convolvulaceae)
+| 76. | Campanulaceae |  | harangvirágfélék |
 
-## Convolvulus argyrothamnus krétai szulák
+| 77. |  | Campanula bohemica | cseh harangvirág |
 
-## Convolvulus fernandesii Fernandes-szulák
+| 78. |  | Campanula gelida | gleccserharangvirág |
 
-## Keresztesvirágúak (Cruciferae)
+| 79. |  | Campanula sabatia | liguriai harangvirág |
 
-## Arabis kennedyae Kennedy-ikravirág
+| 80. |  | Campanula serrata | fűrészes harangvirág |
 
-## Biscutella neustriaca párizsi korongpár
+| 81. | Caryophyllaceae |  | szegfűfélék |
 
-## Brassica macrocarpa nagytermésű káposzta
+| 82. |  | Arenaria nevadensis | Sierra Nevada-i homokhúr |
 
-## Cochlearia polonica lengyel kanálfű
+| 83. |  | Cerastium alsinifolium | szálaslevelű madárhúr |
 
-## Cochlearia tatrae tátrai kanálfű
+| 84. |  | Dianthus arenarius subsp. bohemicus | cseh homoki szegfű |
 
-## Coincya rupestris kövi sziklakáposzta
+| 85. |  | Dianthus diutinus | tartós szegfű |
 
-## Coronopus navasii spanyol varjúláb
+| 86. |  | Dianthus plumarius subsp. lumnitzeri (incl. Dianthus plumarius subsp. regis-stephani) | Lumnitzer-szegfű (beleértve az István király-szegfüvet) |
 
-## Diplotaxis siettiana Alborán-szigeti kányazsázsa
+| 87. |  | Dianthus moravicus | morva szegfű |
 
-## Erysimum pieninicum pienineki repcsény
+| 88. |  | Dianthus nitidus | fényes szegfű |
 
-## Iberis arbuscula fás tatárvirág
+| 89. |  | Gypsophila papillosa | szemcsés fátyolvirág |
 
-## Jonopsidium acaule száratlan álibolya
+| 90. |  | Herniaria latifolia subsp. litardierei | pireneusi széleslevelű porcika |
 
-## Sásfélék (Cyperaceae)
+| 91. |  | Silene hicesiae | olasz habszegfű |
 
-## Carex panormitana nincs magyar neve
+| 92. |  | Silene holzmanii | Holzman-habszegfű |
 
-## Jamszgyökérfélék (Dioscoreaceae)
+| 93. |  | Silene orphanidis | Orphanides-habszegfű |
 
-## Borderea chouardii nincs magyar neve
+| 94. |  | Silene rothmaleri | Rothmaler-habszegfű |
 
-## Kutyatejfélék (Euphorbiaceae)
+| 95. |  | Silene velutina | bársonyos habszegfű |
 
-## Euphorbia margalidiana ibizai kutyatej
+| 96. | Chenopodiaceae |  | libatopfélék |
 
-## Tárnicsfélék (Gentianaceae)
+| 97. |  | Bassia saxicola | sziklai seprőfű |
 
-## Centaurium rigualii spanyol ezerjófű
+| 98. |  | Cremnophyton lanfrancoi | (nincs magyar neve) |
 
-## Centaurium somedanum kantábriai ezerjófű
+| 99. |  | Salicornia veneta | velencei sziksófű |
 
-## Gentianella bohemica cseh tárnicska
+| 100. | Cistaceae |  | szuharfélék |
 
-## Gólyaorrfélék (Geraniaceae)
+| 101. |  | Tuberaria major | nagy homokinaprózsa |
 
-## Erodium astragaloides csűdfűszerű gémorr
+| 102. | Convolvulaceae |  | szulákfélék |
 
-## Erodium rupicola sziklai gémorr
+| 103. |  | Convolvulus argyrothamnus | krétai szulák |
 
-## Gubóvirágfélék (Globulariaceae)
+| 104. |  | Convolvulus fernandesii | Fernandes-szulák |
 
-## Globularia stygia peloponnészoszi gubóvirág
+| 105. | Cyperaceae |  | palkafélék |
 
-## Pázsitfüvek (Gramineae)
+| 106. |  | Carex panormitana | apró sás |
 
-## Poa riphaea cseh perje
+| 107. | Dioscoreaceae |  | jamszgyökérfélék |
 
-## Stipa austroitalica calabriai árvalányhaj
+| 108. |  | Borderea chouardii | (nincs magyar neve) |
 
-## Stipa bavarica bajor árvalányhaj
+| 109. | Euphorbiaceae |  | kutyatejfélék |
 
-## Stipa styriaca stíriai árvalányhaj
+| 110. |  | Euphorbia margalidiana | kutyatej faj |
 
-## Stipa veneta velencei árvalányhaj
+| 111. | Fabaceae (Leguminosae, Papilionaceae) | pillangósvirágúak (hüvelyesek) |
 
-## Stipa zalesskii Zaleszki-árvalányhaj
+| 112. |  | Astragalus algarbiensis | algarvei csüdfű |
 
-## Ribiszkefélék (Grossulariaceae)
+| 113. |  | Astragalus aquilanus | barnás csüdfű |
 
-## Ribes sardoum szardíniai egres
+| 114. |  | Astragalus macrocarpus subsp. lefkarensis | ciprusi nagymagvú csüdfű |
 
-## Orbáncfűfélék (Hypericaceae)
+| 115. |  | Astragalus maritimus | tengerparti csüdfű |
 
-## Hypericum aciferum tűhegyű orbáncfű
+| 116. |  | Astragalus verrucosus | bibircses csüdfű |
 
-## Ajakosak (Labiatae)
+| 117. |  | Cytisus aeolicus | szicíliai zanót |
 
-## Micromeria taygetea tajgetoszi kispereszlény
+| 118. |  | Ononis hackelii | Hackel-iglice |
 
-## Nepeta sphaciotica krétai macskamenta
+| 119. |  | Vicia bifoliolata | Baleár-szigeteki bükköny |
 
-## Thymus camphoratus kámforszagú kakukkfű
+| 120. | Gentianaceae |  | tárnicsfélék |
 
-## Thymus lotocephalus fejes kakukkfű
+| 121. |  | Centaurium rigualii | spanyol ezerjófű |
 
-## Hüvelyesek (Leguminosae)
+| 122. |  | Centaurium somedanum | kantábriai ezerjófű |
 
-## Astragalus algarbiensis algarvei csűdfű
+| 123. |  | Gentianella bohemica | cseh tárnicska |
 
-## Astragalus aquilanus barnás csűdfű
+| 124. | Geraniaceae |  | gólyaorrfélék |
 
-## Astragalus macrocarpus subsp. lefkarensis ciprusi nagymagvú csűdfű
+| 125. |  | Erodium astragaloides | csüdfűszerű gémorr |
 
-## Astragalus maritimus tengerparti csűdfű
+| 126. |  | Erodium rupicola | sziklai gémorr |
 
-## Astragalus verrucosus bibircses csűdfű
+| 127. | Globulariaceae |  | gubóvirágfélék |
 
-## Cytisus aeolicus szicíliai zanót
+| 128. |  | Globularia stygia | peloponnészoszi gubóvirág |
 
-## Ononis hackelii Hackel-iglice
+| 129. | Grossulariaceae |  | ribiszkefélék |
 
-## Vicia bifoliolata Baleár-szigeteki bükköny
+| 130. |  | Ribes sardoum | szardíniai ribiszke |
 
-## Rencefélék (Lentibulariaceae)
+| 131. | Hypericaceae |  | orbáncfűfélék |
 
-## Pinguicula crystallina kristályos hízóka
+| 132. |  | Hypericum aciferum | tűhegyű orbáncfű |
 
-## Liliomfélék (Liliaceae)
+| 133. | Lamiaceae (Labiatae) |  | ajakosok |
 
-## Androcymbium rechingeri Rechinger-fürtösliliom
+| 134. |  | Micromeria taygetea | tajgetoszi kispereszlény |
 
-## Asphodelus bento-rainhae Gardunha-hegységi aszfodélusz
+| 135. |  | Nepeta sphaciotica | krétai macskamenta |
 
-## Chionodoxa lochiae ciprusi hófény
+| 136. |  | Thymus camphoratus | kámforszagú kakukkfű |
 
-## Muscari gussonei szicíliai gyöngyike
+| 137. |  | Thymus lotocephalus | lótuszfejű kakukkfű |
 
-## Scilla morrisii Morris-csillagvirág
+| 138. | Lentibulariaceae |  | rencefélék |
 
-## Lenfélék (Linaceae)
+| 139. |  | Pinguicula crystallina | kristályos hízóka |
 
-## Linum dolomiticum pilisi len
+| 140. | Liliaceae |  | liliomfélék |
 
-## Linum muelleri Müller-len
+| 141. |  | Androcymbium rechingeri | Rechinger-fürtösliliom |
 
-## Füzényfélék (Lythraceae)
+| 142. |  | Asphodelus bento-rainhae | Gardunha-hegységi aszfodélusz |
 
-## Lythrum flexuosum fodros füzény
+| 143. |  | Chionodoxa lochiae | ciprusi hófény |
 
-## Kosborfélék (Orchidaceae)
+| 144. |  | Muscari gussonei | szicíliai gyöngyike |
 
-## Cephalanthera cucullata csuklyás madársisak
+| 145. |  | Scilla morrisii | Morris-csillagvirág |
 
-## Ophrys kotschyi Kotschy-bangó
+| 146. | Linaceae |  | lenfélék |
 
-## Ophrys lunulata félholdas bangó
+| 147. |  | Linum dolomiticum | pilisi len (dolomitlen) |
 
-## Kékgyökérfélék (Plumbaginaceae)
+| 148. |  | Linum muelleri | Müller-len |
 
-## Armeria helodes velencei pázsitszegfű
+| 149. | Lythraceae |  | füzényfélék |
 
-## Armeria rouyana Rouy-pázsitszegfű
+| 150. |  | Lythrum flexuosum | fodros füzény |
 
-## Limonium insulare szigeti sóvirág
+| 151. | Orchidaceae |  | kosborfélék |
 
-## Limonium pseudolaetum szardíniai sóvirág
+| 152. |  | Cephalanthera cucullata | csuklyás madársisak |
 
-## Limonium strictissimum merev sóvirág
+| 153. |  | Ophrys kotschyi | Kotschy-bangó |
 
-## Kankalinfélék (Primulaceae)
+| 154. |  | Ophrys lunulata | félholdas bangó |
 
-## Cyclamen fatrense fátrai ciklámen
+| 155. | Plumbaginaceae |  | kékgyökérfélék (ólomvirágfélék) |
 
-## Primula apennina appennineki kankalin
+| 156. |  | Armeria helodes | velencei pázsitszegfű |
 
-## Boglárkafélék (Ranunculaceae)
+| 157. |  | Armeria rouyana | Rouy-pázsitszegfű |
 
-## Aconitum corsicum korzikai sisakvirág
+| 158. |  | Limonium insulare | szigeti sóvirág |
 
-## Aquilegia pyrenaica subsp. cazorlensis pireneusi harangláb
+| 159. |  | Limonium pseudolaetum | szardíniai sóvirág |
 
-## Consolida samia számoszi szarkaláb
+| 160. |  | Limonium strictissimum | merev sóvirág |
 
-## Delphinium caseyi ciprusi szarkaláb
+| 161. | Poaceae (Gramineae) |  | pázsitfüvek |
 
-## Pulsatilla pratensis subsp. hungarica magyar kökörcsin
+| 162. |  | Poa riphaea | cseh perje |
 
-## Pulsatilla slavica szlovák kökörcsin
+| 163. |  | Stipa austroitalica | calabriai árvalányhaj |
 
-## Pulsatilla subslavica szláv kökörcsin
+| 164. |  | Stipa bavarica | bajor árvalányhaj |
 
-## Ranunculus weyleri Weyler-boglárka
+| 165. |  | Stipa styriaca | stájer árvalányhaj |
 
-## Rezedafélék (Resedaceae)
+| 166. |  | Stipa veneta | velencei árvalányhaj |
 
-## Reseda decursiva szárrafutó-levelű rezeda
+| 167. |  | Stipa zalesskii | Zaleszki-árvalányhaj |
 
-## Rózsafélék (Rosaceae)
+| 168. | Polygonaceae |  | keserűfűfélék |
 
-## Pyrus magyarica magyar vadkörte
+| 169. |  | Persicaria foliosa | dúslevelű keserűfű |
 
-## Galajfélék (Rubiaceae)
+| 170. |  | Polygonum praelongum | török keserűfű |
 
-## Galium litorale tengerparti galaj
+| 171. |  | Rumex azoricus | Azori-szigeteki sóska |
 
-## Galium sudeticum szudétákbeli galaj
+| 172. |  | Rumex rupestris | kövi sóska |
 
-## Galium viridiflorum zöldvirágú galaj
+| 173. | Primulaceae |  | kankalinfélék |
 
-## Tátogatófélék (Scrophulariaceae)
+| 174. |  | Cyclamen fatrense | fátrai ciklámen |
 
-## Euphrasia genargentea szardíniai szemvidító
+| 175. |  | Primula apennina | appennineki kankalin |
 
-## Linaria ficalhoana Ficalho-gyújtoványfű
+| 176. | Ranunculaceae |  | boglárkafélék |
 
-## Linaria hellenica görög gyújtoványfű
+| 177. |  | Aconitum corsicum | korzikai sisakvirág |
 
-## Linaria ricardoi Ricardo-gyújtoványfű
+| 178. |  | Aquilegia pyrenaica subsp. cazorlensis | pireneusi harangláb |
 
-## Linaria tursica spanyol gyújtoványfű
+| 179. |  | Consolida samia | számoszi szarkaláb |
 
-## Pedicularis sudetica szudétákbeli kakastaréj
+| 180. |  | Delphinium caseyi | ciprusi szarkaláb |
 
-## Veronica oetaea görög veronika
+| 181. |  | Pulsatilla flavescens (syn.: Pulsatilla pratensis subsp. hungarica) | magyar kökörcsin |
 
-## Burgonyafélék (Solanaceae)
+| 182. |  | Pulsatilla slavica | szlovák kökörcsin |
 
-## Atropa baetica andalúziai nadragulya
+| 183. |  | Pulsatilla subslavica | szláv kökörcsin |
 
-## Boroszlánfélék (Thymelaeaceae)
+| 184. |  | Ranunculus weyleri | Weyler-boglárka |
 
-## Daphne arbuscula murányi boroszlán
+| 185. | Resedaceae |  | rezedafélék |
 
-## Daphne rodriguezii Rodrigez-boroszlán
+| 186. |  | Reseda decursiva | szárrafutó-levelű rezeda |
 
-## Ernyősök (Umbelliferae)
+| 187. | Rosaceae |  | rózsafélék |
 
-## Angelica heterocarpa felemás angyalgyökér
+| 188. |  | Pyrus magyarica | magyar vadkörte |
 
-## Apium bermejoi Baleár-szigeteki zeller
+| 189. | Rubiaceae |  | galajfélék |
 
-## Bupleurum capillare szálas buvákfű
+| 190. |  | Galium litorale | tengerparti galaj |
 
-## Bupleurum kakiskalae görög buvákfű
+| 191. |  | Galium sudeticum | szudétákbeli galaj |
 
-## Eryngium viviparum elevenszülő iringó
+| 192. |  | Galium viridiflorum | zöldvirágú galaj |
 
-## Ferula sadleriana magyarföldi husáng
+| 193. | Scrophulariaceae |  | tátogatófélék |
 
-## Laserpitium longiradium hosszúsugarú bordamag
+| 194. |  | Euphrasia genargentea | szardíniai szemvidítófű |
 
-## Naufraga balearica nincs magyar neve
+| 195. |  | Linaria ficalhoana | Ficalho-gyújtoványfű |
 
-## Oenanthe conioides bürökszerű borgyökér
+| 196. |  | Linaria hellenica | görög gyújtoványfű |
 
-## Seseli intricatum spanyol gurgolya
+| 197. |  | Linaria ricardoi | Ricardo-gyújtoványfű |
 
-## Ibolyafélék (Violaceae)
+| 198. |  | Linaria tursica | spanyol gyújtoványfű |
 
-## Viola hispida szőrös ibolya
+| 199. |  | Pedicularis sudetica | szudétákbeli kakastaréj |
 
-## Alacsonyabbrendű növények
+| 200. |  | Veronica oetaea | görög veronika |
 
-## MOHÁK (BRYOPHYTA)
+| 201. | Solanaceae |  | csucsorfélék |
 
-## Bryoerythrophyllum campylocarpum nincs magyar neve
+| 202. |  | Atropa baetica | andalúziai nadragulya |
 
-## Marsupella profunda nincs magyar neve
+| 203. | Thymelaeaceae |  | boroszlánfélék |
 
-4. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^64]
+| 204. |  | Daphne arbuscula | murányi boroszlán |
 
-[^63]: A 3. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^64]: A 4. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+| 205. |  | Daphne rodriguezii | Rodriguez-boroszlán |
+
+| 206. | Violaceae |  | ibolyafélék |
+
+| 207. |  | Viola hispida | szőrös ibolya |
+
+4. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^59]
+
+[^59]: A 4. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

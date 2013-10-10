@@ -14,6 +14,6 @@
 
 ## g) A kémiai környezetszennyezések madárfajok állományaira gyakorolt káros hatásainak tanulmányozása.
 
-11. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^75]
+11. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^71]
 
-[^75]: A 11. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 6. § (2) bekezdés c) pontja, a 375/2012. (XII. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^71]: A 11. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be, szövege a 23/2010. (II. 11.) Korm. rendelet 6. § (2) bekezdés c) pontja, a 375/2012. (XII. 19.) Korm. rendelet 3. §-a szerint módosított szöveg.
