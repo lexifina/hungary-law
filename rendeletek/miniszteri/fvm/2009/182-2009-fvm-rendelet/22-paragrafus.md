@@ -1,11 +1,12 @@
-## 21. § A 21/2004/EK rendelet 4. cikk (8) bekezdése, 5. cikk (6) bekezdése, valamint 11. cikk (1) bekezdése szerinti tájékoztatási kötelezettséget a földművelésügyi és vidékfejlesztési miniszter teljesíti.
+## 21. §[^44] A 21/2004/EK rendelet 4. cikk (8) bekezdése, 5. cikk (6) bekezdése, valamint 11. cikk (1) bekezdése szerinti tájékoztatási kötelezettséget az élelmiszerlánc-felügyeletért felelős miniszter teljesíti.
 
-22. § (1)[^34] A NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a juh-, illetve kecsketenyészetben helyszínen ellenőrzi az állatok azonosítására és nyilvántartására vonatkozó előírások betartását a juh- és kecskefélék azonosításával és nyilvántartásával kapcsolatosan végrehajtandó ellenőrzések minimális szintje tekintetében a 21/2004/EK tanácsi rendelet végrehajtásáról szóló, 2006. október 11-i 1505/2006/EK bizottsági rendelet 2–5. cikkeiben meghatározott módon.
+22. § (1)[^45] A NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a juh-, illetve kecsketenyészetben helyszínen ellenőrzi az állatok azonosítására és nyilvántartására vonatkozó előírások betartását a juh- és kecskefélék azonosításával és nyilvántartásával kapcsolatosan végrehajtandó ellenőrzések minimális szintje tekintetében a 21/2004/EK tanácsi rendelet végrehajtásáról szóló, 2006. október 11-i 1505/2006/EK bizottsági rendelet 2–5. cikkeiben meghatározott módon.
 
-(2)[^35] Ha a NÉBIH, illetve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság ellenőrzést végez, az ellenőrzés során a fél évesnél idősebb juh- és kecskefélék esetében 50 egyed állománynagyságig az összes állatot, 51–500 közötti állománynagyságnál 50 egyedet, 500-nál nagyobb állomány esetében az összes állat 10%-át kell ellenőrizni. Ha a minta alapján a hiba mértéke meghaladja az 5%-ot, akkor az összes egyedet ellenőrizni kell.
+(2)[^46] Ha a NÉBIH, illetve az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság ellenőrzést végez, az ellenőrzés során a fél évesnél idősebb juh- és kecskefélék esetében 50 egyed állománynagyságig az összes állatot, 51–500 közötti állománynagyságnál 50 egyedet, 500-nál nagyobb állomány esetében az összes állat 10%-át kell ellenőrizni. Ha a minta alapján a hiba mértéke meghaladja az 5%-ot, akkor az összes egyedet ellenőrizni kell.
 
-(3)[^36] A NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság és az MVH az általa vizsgálandó tenyészetek kiválasztása során az 1505/2006/EK bizottsági rendelet 3. cikk a)–f) pontjai mellett figyelembe veszi az előző éves ellenőrzés során tett megállapításokat is.
+(3)[^47] A NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság és az MVH az általa vizsgálandó tenyészetek kiválasztása során az 1505/2006/EK bizottsági rendelet 3. cikk a)–f) pontjai mellett figyelembe veszi az előző éves ellenőrzés során tett megállapításokat is.
 
-[^34]: A 22. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § d)–e) pontja szerint módosított szöveg.
-[^35]: A 22. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 7. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 118. § b) és d) pontja szerint módosított szöveg.
-[^36]: A 22. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § d)–e) pontja szerint módosított szöveg.
+[^44]: A 21. § a 88/2013. (X. 2.) VM rendelet 61. § 6. pontja szerint módosított szöveg.
+[^45]: A 22. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § d)–e) pontja szerint módosított szöveg.
+[^46]: A 22. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 7. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 118. § b) és d) pontja szerint módosított szöveg.
+[^47]: A 22. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § d)–e) pontja szerint módosított szöveg.

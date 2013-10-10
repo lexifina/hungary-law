@@ -8,4 +8,8 @@ c) nyilvántartást vezet a kiadott szállítólevelekről;
 
 d) gondoskodik az állomány- és egyednyilvántartáshoz, továbbá a jelöléshez szükséges bizonylatokról és eszközökről, szállítólevélről;
 
-e) tájékoztatja az állattartókat az állatok jelölésével és nyilvántartásával kapcsolatos előírásokról.
+e) tájékoztatja az állattartókat az állatok jelölésével és nyilvántartásával kapcsolatos előírásokról;
+
+f)[^33] nyilvántartást vezet az állattartóktól beérkező jelölési igényekről és azok időpontjáról, valamint a területi felelősökön keresztül gondoskodik azok 30 napon belüli teljesítéséről.
+
+[^33]: A 15. § f) pontját a 88/2013. (X. 2.) VM rendelet 57. §-a iktatta be.
