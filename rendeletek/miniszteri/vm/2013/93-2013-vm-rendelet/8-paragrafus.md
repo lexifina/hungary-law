@@ -1,0 +1,3 @@
+## 7. § Az R1. a következő 16. §-sal egészül ki:
+
+## „16. § E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet módosításáról szóló 93/2013. (X. 10.) VM rendelettel [a továbbiakban: 93/2013. (X. 10.) VM rendelet] megállapított 3. § (1) bekezdés h) pontját a 93/2013. (X. 10.) VM rendelet hatályba lépésekor folyamatban lévő ügyekben is alkalmazni kell.”

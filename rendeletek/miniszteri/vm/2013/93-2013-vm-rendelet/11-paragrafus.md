@@ -1,0 +1,3 @@
+## 10. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet (a továbbiakban: R2.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A támogatás forrása az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA). Az ÚMVP alapján a támogatás és az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet szerinti támogatás nyújtására fordítható együttes keretösszeg 7 milliárd forint.”
