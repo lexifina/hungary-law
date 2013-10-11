@@ -4,7 +4,7 @@
 
 ## 3.[^1]
 
-1. melléklet az 1429/2012. (X. 8.) Korm. határozathoz
+1. melléklet az 1429/2012. (X. 8.) Korm. határozathoz[^2]
 
 | I. Prioritás bemutatása - 1. prioritás: Az oktatási infrastruktúra fejlesztése |  |  |  |  | Társadalmi Infrastruktúra Operatív Program |
 
@@ -42,7 +42,7 @@
 
 | 2011 | 2012 | 2013 |
 
-| 1.1.1. | Neumann Program | 0,00 | 10,44 | 0,00 | Közoktatási intézményekben az IKT kompetenciák, készségek és képességek fejlesztését, továbbá az ezen intézmények kommunikációját, adminisztrációját segítő eszközök beszerzése. | Emberi Erőforrások Miniszter |  |
+| 1.1.1. |  |  |  |  |  |  |  |
 
 | 1.1.2. | Hatékony informatikai infrastruktúra a közoktatásban II. szakasz | 0,00 | 1,20 | 0,00 | A TIOP 1.1.2 első szakaszában kialakított informatikai infrastruktúra bővítése, fejlesztése annak érdekében, hogy a már meglévő és a majd kialakítandó különböző oktatási rendszerek, valamint az oktatás ágazati szintű tervezéséhez és irányításához szükséges rendszerek működtetése az alapinfrastruktúra oldaláról az elkövetkező évekre is biztosított legyen. | Emberi Erőforrások Miniszter |  |
 
@@ -69,8 +69,6 @@
 | Konstrukció neve | Tartalék támogatási konstrukciók indikatív kerete (Mrd Ft) | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |  |
 
 | 2012 | 2013 |  |
-
-| Neumann Program 2.0 | 0,00 | 2,20 | Közoktatási intézményekben az IKT kompetenciák, készségek és képességek fejlesztését, továbbá az ezen intézmények kommunikációját, adminisztrációját segítő eszközök beszerzése. | Emberi Erőforrások Miniszter |  |  |
 
 | Könyvtár és közösségi hely létrehozása | 2,45 | 0,00 | A nyilvános könyvtári ellátással nem rendelkező falvakban (5000 fő alatti községekben) a könyvtári feladatok ellátása céljából könyvtári szolgáltató helyek kialakítása. Meglévő épület vagy helyiségek felújítása, IKT-infrastruktúrájának kialakítása és kisértékű eszközbeszerzés. | Emberi Erőforrások Miniszter |  |  |
 
@@ -174,7 +172,7 @@
 
 | 3.2.3. | A kistérségekben a közösségi szolgáltatások infrastruktúrájának fejlesztése | 0,00 | 8,90 | 0,00 | Modellértékű innovatív, többfunkciós szolgáltató központok kialakítása révén a komplex kistérségi felzárkóztató programokhoz kapcsolódóan az ott élők általános hozzáférési problémáinak enyhítése, ellátásainak korszerűsítése, helyzetük javítása. | Emberi Erőforrások Miniszter |  |
 
-| 3.2.3.A | Lakhatási beruházások támogatása | 0,00 | 1,50 | 0,00 | A szegregátumokban és a hátrányos helyzetű kistérségekben élők lakhatási körülményeinek javítása – új szociális bérlakások építésével, illetve a nem szegregált lakókörnyezetben lévő lakások felújításával. | Emberi Erőforrások Miniszter |  |
+| 3.2.3.A |  |  |  |  |  |  |  |
 
 | 3.2.4. | Autisták és megváltozott munkaképességű személyek foglalkoztatásának elősegítése | 0,00 | 1,20 | 0,00 | Társadalmi és munkaerő-piaci integrációt elősegítő foglalkoztatások és képzések infrastrukturális feltételeinek fejlesztése. | Emberi Erőforrások Miniszter |  |
 
@@ -186,7 +184,7 @@
 
 | 3.4.1. | Bentlakásos intézmények kiváltása, új kapacitások létesítése | 3,00 | 7,00 | 0,00 | Nagy létszámú bentlakásos intézmények kiváltása a jogszabályi feltételeknek megfelelő, korszerű elhelyezési feltételek biztosítása érdekében "A" komponens: szociális intézmények "B" komponens: gyermekvédelmi intézmények. | Emberi Erőforrások Miniszter |  |
 
-| 3.4.2. | Önkormányzati, állami, egyházi, nonprofit fenntartású bentlakásos intézmények korszerűsítése | 5,77 | 0,00 | 1,24 | A bentlakásos intézmények korszerűsítésének célja a lakók életminőségének javítása az intézményekben uralkodó rossz infrastrukturális adottságok és a hiányos felszereltség leküzdése, illetve az életviszonyok humanizálása és modernizálása révén. | Emberi Erőforrások Miniszter |  |
+| 3.4.2. |  |  |  |  |  |  |  |
 
 | 3.4.3. | Javítóintézeti ellátás biztosítása fiúk részére a Dunántúlon | 0,00 | 2,25 | 0,00 | Új, vegyes szakmai profilú, többfunkciós javítóintézet létrehozása fiúk részére a Dunántúlon. | Emberi Erőforrások Miniszter |  |
 
@@ -202,8 +200,7 @@
 
 | 2012 | 2013 |  |
 
-| Lakhatási beruházások támogatása a Komplex telepprogramhoz kapcsolódóan | 0,00 | 2,00 | A szegregátumokban élők lakhatási körülményeinek javítása – új szociális bérlakások építésével, illetve a nem szegregált lakókörnyezetben lévő lakások felújításával. | Emberi Erőforrások Miniszter |  |  |
-
 | A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés | 0,00 | 4,00 | A fogyatékos emberek, továbbá az időskorú, járókerettel, babakocsival közlekedő, nagycsaládos, mozgásukban vagy kommunikációjukban egyéb okból átmenetileg akadályozott személyek életminőségének javítása a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megvalósítása útján. A kormányzati felelősségi körbe tartozó épületek komplex akadálymentesítése, és az abban nyújtott közszolgáltatások egyenlő esélyű hozzáférhetővé tétele. | Emberi Erőforrások Miniszter |  |  |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont d) alpontja szerint módosított szöveg.
