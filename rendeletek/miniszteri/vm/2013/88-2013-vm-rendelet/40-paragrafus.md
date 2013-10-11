@@ -1,1 +1,0 @@
-## „(6) A megyei körzetbe való sorolás esetén az ENAR működtetésével kapcsolatos feladatokat kizárólag az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által erre kijelölt, illetve megbízott állatorvos végezheti, a működésére meghatározott területen.”
