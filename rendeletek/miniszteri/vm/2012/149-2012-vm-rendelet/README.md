@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-149-20-
 | 2013-09-25 | 2012-149-20-2Y.18 | 82/2013. (IX. 17.) VM rendelet |
 | 2013-09-26 | 2012-149-20-2Y.19 | 82/2013. (IX. 17.) VM rendelet |
 | 2013-10-10 | 2012-149-20-2Y.20 | 91/2013. (X. 8.) VM rendelet |
+| 2013-10-11 | 2012-149-20-2Y.21 | 91/2013. (X. 8.) VM rendelet |
