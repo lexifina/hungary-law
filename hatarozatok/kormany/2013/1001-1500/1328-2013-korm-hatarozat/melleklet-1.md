@@ -12,15 +12,15 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1328/2013. (VI. 12.) Korm. határozathoz
+1. melléklet az 1328/2013. (VI. 12.) Korm. határozathoz[^2]
 
 | Azonosító | Módosítás előtti keret | Forrásátcsoportosítás konstrukciók között | Keretemelés szabad keret terhére | Módosítás utáni keret |
 
 | (Mrd Ft) | (Mrd Ft) | (Mrd Ft) | (Mrd Ft) | (Mrd Ft) |
 
-| TÁMOP 6.1.2 | 7,28 | 0,00 | 1,21 | 12,39 | 20,88 |
+| TÁMOP 6.1.2 |  |  |  |  |  |
 
-| TÁMOP 6.1.2A | 3,20 | 0,00 | 0,8 | 0,00 | 4,00 |
+| TÁMOP 6.1.2A |  |  |  |  |  |
 
 | TÁMOP 6.1.2B | 1,80 | –1,80 | 0,00 | 0,00 | 0,00 |
 
@@ -56,6 +56,8 @@ Címében és céljában pontosított konstrukciók:
 
 | TÁMOP 6.1.1 | Egészségfejlesztési szakmai hálózat létrehozása |  |  | 1,0 | A különböző színtereken (iskolák, munkahelyek, települések, stb.) folyó egészségfejlesztési tevékenységet támogató, a szakmai fejlődést és a szereplők koordinált működését elősegítő szakmai hálózat létrehozása. | emberi erőforrások minisztere |  |
 
-| TÁMOP 6.1.2A | Komplex intézményi mozgásprogramok és kapcsolódó egészségfejlesztési alprogramok megvalósítása az általános iskolákban, többcélú intézményekben, valamint szabadidős közösségi mozgásprogramok és kapcsolódó egészségfejlesztési alprogramok megvalósítása az iskolán kívüli szereplők bevonásával |  |  | 4,0 | A konstrukció célja, hogy olyan összetett eszközrendszerű intézményi egészségfejlesztési programok (komplex intézményi testmozgásprogramok) valósuljanak meg az általános iskolai tanulók részvételével, melyeknek fő pillérjét az életkornak megfelelő energia-egyensúlyt szolgáló, nem tanórai rendszerű testmozgás és életmód programok megvalósítása, illetve ehhez kapcsolódóan az igénybe venni kívánt szakemberek szakmai kompetenciafejlesztése, valamint attitűdformálása jelenti. A konstrukció további célja, hogy az egészségfejlesztést célzó programok a tanulók aktív részvételével – a tanórán kívüli tevékenységek eredményeképpen – beépüljenek az iskolák mindennapi életébe, és ezáltal hozzájáruljanak a tanulók érzékenyítéséhez, attitűdváltozásához. Erre alapozottan olyan megyei szintű szabadidős közösségi programok, „hétpróba” versenyek megszervezésére és lebonyolítására kerül sor, melynek keretében az általános iskolák osztályai összemérhetik a tudásukat és felkészültségüket. | emberi erőforrások minisztere |  |
+| TÁMOP 6.1.2A |  |  |  |  |  |  |  |
 
 | TÁMOP 6.2.4B | Struktúraváltáshoz kapcsolódó képzést és foglalkoztatást támogató fejlesztés |  | 2,35 |  | Elsősorban a TIOP (valamint ROP-ok) keretében támogatásban részesülő kistérségi és emelt szintű járóbeteg intézmények (szakellátó központok), egészségügyi szolgáltatók részére humánerőforrás szükségletek biztosítása, képzés, átképzés és foglalkoztatás támogatása révén. | emberi erőforrások minisztere |  |
+
+[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
