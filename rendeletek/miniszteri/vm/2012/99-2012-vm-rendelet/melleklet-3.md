@@ -194,4 +194,6 @@
 
 | 95 | 84798930 | Mozgatható hajtású bányatám |
 
-3. melléklet a 99/2012. (IX. 25.) VM rendelethez
+3. melléklet a 99/2012. (IX. 25.) VM rendelethez[^31]
+
+[^31]: A 3. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.

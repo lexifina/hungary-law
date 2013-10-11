@@ -1,4 +1,4 @@
-## AZ EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS FORMANYOMTATVÁNYA
+## Az együttműködési megállapodás formanyomtatványa
 
 ## Az együttműködési projekt címe:
 
@@ -6,19 +6,19 @@
 
 ## Nyilatkozat:
 
-## Alulírott, a LEADER Helyi Akciócsoport / LEADER-szerűen szerveződött harmadik országbeli szervezet partnerek képviseletében, ezennel kötelezettséget vállalok az együttműködési projekt végrehajtására, valamint tanúsítom, hogy az abban szereplő információk a valóságnak megfelelnek.
+## Alulírott, az ügyfél és a LEADER Helyi Akciócsoport / LEADER-szerűen szerveződött harmadik országbeli szervezet partnerek képviseletében, ezennel kötelezettséget vállalok az együttműködési projekt végrehajtására, valamint tanúsítom, hogy az abban szereplő információk a valóságnak megfelelnek.
 
 ## Irányadó jog és illetékes bíróság
 
-## A megállapodásra a ….. jog vonatkozik.
+## A megállapodásra a ………… jog vonatkozik.
 
-## 1. A felek között a megállapodás értelmezéséből vagy alkalmazásából eredő minden olyan jogvitát, amelyet békés úton nem lehet rendezni, ……. bíróságai előtt kell peres úton érvényesíteni.
+## 1. A felek között a megállapodás értelmezéséből vagy alkalmazásából eredő minden olyan jogvitát, amelyet békés úton nem lehet rendezni, …………… bíróságai előtt kell peres úton érvényesíteni.
 
 ## 2. Az új partnerek csatlakozását lehetővé tevő záradék („LEADER vagy más Helyi Akciócsoportok – amennyiben erre irányuló szándékukat jelzik – a projektbe e megállapodás módosításával kapcsolódhatnak be”):
 
 ## 3. Más módosításokat lehetővé tevő záradék:
 
-## A Koordináló LEADER Helyi Akciócsoport neve:
+## Az ügyfél neve:
 
 ## A képviselő neve:
 
@@ -66,4 +66,6 @@
 
 ## Aláírás:
 
-6. melléklet a 99/2012. (IX. 25.) VM rendelethez
+6. melléklet a 99/2012. (IX. 25.) VM rendelethez[^34]
+
+[^34]: A 6. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.

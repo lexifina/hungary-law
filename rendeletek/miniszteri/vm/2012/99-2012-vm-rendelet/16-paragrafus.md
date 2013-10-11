@@ -1,0 +1,4 @@
+## 15. §[^27] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet módosításáról szóló 55/2013. (VI. 27.) VM rendelettel [a továbbiakban: 55/2013. (VI. 27.) VM rendelet] megállapított 3. § (1) bekezdés g)–i) pontját, 3. § (1a) bekezdését, 6. § (4) bekezdését, valamint 11. § (1) bekezdését a 55/2013. (VI. 27.) VM rendelet hatálybalépésekor[^28] folyamatban lévő eljárásokban is alkalmazni kell.
+
+[^27]: A 15. §-t az 55/2013. (VI. 27.) VM rendelet 1. § (6) bekezdése iktatta be.
+[^28]: A hatálybalépés időpontja 2013. június 28.

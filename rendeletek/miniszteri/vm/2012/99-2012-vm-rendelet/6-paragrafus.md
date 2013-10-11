@@ -1,12 +1,12 @@
 ## 3. A támogatás mértéke, elszámolható kiadások
 
-6. § (1)[^5] E rendelet keretében, egy együttműködési projekt kapcsán a megítélhető maximális támogatási összeg az együttműködési projekt egészére vonatkozóan nem haladhatja meg az 50 millió forintot. Egy ügyfél párhuzamosan több együttműködési projekt megvalósításában is részt vehet.
+6. § (1)[^10] E rendelet keretében, egy együttműködési projekt kapcsán a megítélhető maximális támogatási összeg az együttműködési projekt egészére vonatkozóan nem haladhatja meg az 50 millió forintot. Egy ügyfél párhuzamosan több együttműködési projekt megvalósításában is részt vehet.
 
-(2) A támogatás forrása az EMVA. Az ÚMVP alapján 2012–2013. évi időszakban a támogatás nyújtására fordítható keretösszeg 3,5 milliárd forint.
+(2)[^11] A támogatás forrása az EMVA. Az ÚMVP alapján a támogatás és az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet szerinti támogatás nyújtására fordítható együttes keretösszeg 7 milliárd forint.
 
 (3) Kizárólag azon költségek számolhatóak el, amelyek az ügyfélnek az együttműködési projektben való részvételéhez kapcsolódnak.
 
-(4)[^6] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
+(4)[^12] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
 
 a) a motorral hajtott szárazföldi, légi, vízi közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
 
@@ -52,13 +52,27 @@ k) NACE Rev. 2. 51 Légi szállítás.
 
 (8) A LEADER HACS-ok részére a LEADER Helyi Akciócsoportok feladat ellátásához az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatás részletes feltételeiről szóló 30/2012. (III. 24.) VM rendelet keretében elszámolt kiadások e rendelet keretében nem támogathatóak.
 
-(9) Az együttműködési projektmenedzsment tevékenységhez kapcsolódó kiadások az összes elszámolható kiadás 20%-ának mértékéig számolhatóak el.
+(9)[^13] Az együttműködési projektmenedzsment tevékenységhez kapcsolódó kiadások legfeljebb az összes elszámolható kiadás projektmenedzsment és 3. melléklet szerinti kiadások nélkül számított összegének 15%-áig számolhatóak el. Azon TESZOR számú kiadások, amelyek projektmenedzsmentként kerülnek elszámolásra, a Vhr. 3. számú mellékletében meghatározott egyéb elszámolható kiadásként nem támogathatók.
 
-(10) Az együttműködési projektmenedzsment tevékenységhez kapcsolódó és a 3. melléklet szerint elszámolható kiadások együttesen az összes elszámolható kiadás 30%-ának mértékéig számolhatóak el.
+(10)[^14] A 3. melléklet szerint elszámolható kiadások legfeljebb az összes elszámolható kiadás projektmenedzsment és 3. melléklet szerinti kiadások nélkül számított összegének 15%-áig számolhatóak el.
 
 (11) Az együttműködések utazáshoz kapcsolódó költségeit a 3. mellékletben foglaltakat figyelembe véve kell megtervezni és a projekt költségvetésébe építeni.
 
-(12) A támogatás mértéke az összes elszámolható kiadás 100%-a.
+(12)[^15] A támogatás mértéke, ha az ügyfél:
 
-[^5]: A 6. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^6]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+a) természetes személy, mikro, kis- és középvállalkozás és a fejlesztést
+
+aa) hátrányos helyzetű területen valósítja meg, akkor az összes elszámolható kiadás 65%-a;
+
+ab) egyéb területen valósítja meg, akkor az összes elszámolható kiadás 60%-a;
+
+b) települési önkormányzat, települési nemzetiségi önkormányzat, önálló jogi személyiséggel rendelkező önkormányzati társulás, akkor az összes elszámolható kiadás 100%-a;
+
+c) egyházi jogi személy, nonprofit szervezet, akkor az összes elszámolható kiadás 100%-a.
+
+[^10]: A 6. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^11]: A 6. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^12]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^13]: A 6. § (9) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^14]: A 6. § (10) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 6. § (12) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.

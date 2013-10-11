@@ -1,4 +1,4 @@
-## A HELYI PARTNEREKKEL VALÓ EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS FORMANYOMTATVÁNYA
+## Helyi partnerekkel való együttműködési megállapodás formanyomtatványa
 
 ## Az együttműködési projekt címe:
 
@@ -6,9 +6,9 @@
 
 ## Nyilatkozat:
 
-## Alulírott, a Helyi Akciócsoport-partnerek, valamint, mint helyi partner képviseletében, ezennel kötelezettséget vállalok az együttműködési projekt végrehajtására.
+## Alulírott, az ügyfél, valamint, mint helyi partner képviseletében, ezennel kötelezettséget vállalok az együttműködési projekt végrehajtására.
 
-## Az ügyfél LEADER Helyi Akciócsoport neve:
+## Az ügyfél neve:
 
 ## A képviselő neve:
 
@@ -17,6 +17,8 @@
 ## Dátum: Hely:
 
 ## Aláírás:
+
+## –
 
 ## Az 1. helyi partner neve:
 
@@ -26,9 +28,9 @@
 
 ## Dátum: Hely:
 
-## –
-
 ## Aláírás:
+
+## –
 
 ## Az „n” helyi partner neve:
 
@@ -38,8 +40,8 @@
 
 ## Dátum: Hely:
 
-## –
-
 ## Aláírás:
 
-5. melléklet a 99/2012. (IX. 25.) VM rendelethez
+5. melléklet a 99/2012. (IX. 25.) VM rendelethez[^33]
+
+[^33]: Az 5. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.

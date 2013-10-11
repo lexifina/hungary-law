@@ -6,29 +6,31 @@
 
 ## Déclaration:
 
-## Le soussigné, représentant du LEADER Groupe d’Action Locale/ d’Organisation organisée selon la méthodologie LEADER dans les Pays Tiers, s’engage à mettre en æuvre le projet de coopération et certifie la véracité des informations qu’il contient.
+## Le soussigné, représentant du Client et du LEADER Groupe d’Action Locale/ d’Organisation organisée selon la méthodologie LEADER dans les Pays Tiers, s’engage à mettre en œuvre le projet de coopération et certifie la véracité des informations qu’il contient.
 
 ## Droit applicable et juridiction compétente
 
-## L’accord est régi par ….. loi.
+## L’accord est régi par …………… loi.
 
-## 1. Tout litige entre les parties résultant de l’interprétation ou de l’application de l’accord ne pouvant être réglé à l’amiable est porté devant les tribunaux de ………….
+## 1. Tout litige entre les parties résultant de l’interprétation ou de l’application de l’accord ne pouvant être réglé à l’amiable est porté devant les tribunaux de ………………
 
-## 2. Clause permettant l’inclusion de nouveaux partenaires («les groupes LEADER ou les autres Groupes d’Action Locale qui le désirent peuvent être inclus au présent accord au moyen d’un avenant ? celui-ci»)
+## 2. Clause permettant l’inclusion de nouveaux partenaires («les groupes LEADER ou les autres Groupes d’Action Locale qui le désirent peuvent être inclus au présent accord au moyen d’un avenant à celui-ci»)
 
 ## 3. Clause permettant d’autres avenants
 
-## Signatures
-
-## Nom du LEADER Groupe d’Action Locale chargé de la coordination:
+## Nom du Client:
 
 ## Nom du représentant:
 
 ## Fonction:
 
-## Téléphone: Télécopieur :
+## Téléphone :
 
-## Date: Lieu (adresse, pays compris):
+## Télécopieur :
+
+## Date:
+
+## Lieu (adresse, pays compris):
 
 ## Langues parlées/ comprises :
 
@@ -40,13 +42,15 @@
 
 ## Fonction:
 
-## Téléphone: Télécopieur :
+## Téléphone :
 
-## Date: Lieu (adresse, pays compris):
+## Télécopieur :
+
+## Date:
+
+## Lieu (adresse, pays compris):
 
 ## Langues parlées/ comprises :
-
-## Date: Lieu (adresse, pays compris):
 
 ## Signature:
 
@@ -56,13 +60,15 @@
 
 ## Fonction:
 
-## Téléphone: Télécopieur :
+## Téléphone :
 
-## Date: Lieu (adresse, pays compris):
+## Télécopieur :
+
+## Date:
+
+## Lieu (adresse, pays compris):
 
 ## Langues parlées/ comprises :
-
-## Date: Lieu (adresse, pays compris):
 
 ## Signature:
 

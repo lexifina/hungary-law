@@ -6,11 +6,11 @@
 
 ## Erklärung:
 
-## Die Unterzeichner verpflichten sich als Vertreter der Lokalen Aktionsgruppen/ LEADER-ähnliche Organisation des Drittlands dazu, das Projekt der Zusammenarbeit durchzuführen, und versichert, dass die diesbezüglichen Angaben der Wahrheit entsprechen.
+## Die Unterzeichner verpflichten sich als Vertreter des Klientes und der Lokalen Aktionsgruppen/ LEADER-ähnliche Organisation des Drittlands dazu, das Projekt der Zusammenarbeit durchzuführen, und versichert, dass die diesbezüglichen Angaben der Wahrheit entsprechen.
 
 ## Anwendbares Recht und Gerichtsstand
 
-## Die Vereinbarung unterliegt ... Recht.
+## Die Vereinbarung unterliegt …………… Recht.
 
 ## 1. Jeder Streit zwischen den beteiligten Parteien, der sich aus der Auslegung oder Anwendung der Vereinbarung ergibt, und die nicht einvernehmlich beigelegt werden kann, wird gerichtlich in ... entschieden.
 
@@ -18,17 +18,21 @@
 
 ## 3. Klausel, welche andere Änderungen zulässt
 
-## Name der koordinierenden Lokalen LEADER-Aktionsgruppe:
+## Name vomKlient:
 
 ## Name des Vertreters:
 
 ## Stellung:
 
-## Telefonnummer: Faxnummer:
+## Telefonnummer:
+
+## Faxnummer:
 
 ## E-mail Adresse:
 
-## Datum: Ort (Anschrift, einschließlich Land):
+## Datum:
+
+## Ort (Anschrift, einschließlich Land):
 
 ## Unterschrift:
 
@@ -38,26 +42,36 @@
 
 ## Stellung:
 
-## Telefonnummer: Faxnummer:
+## Telefonnummer:
+
+## Faxnummer:
 
 ## E-mail Adresse:
 
-## Datum: Ort (Anschrift, einschließlich Land):
+## Datum:
+
+## Ort (Anschrift, einschließlich Land):
 
 ## Unterschrift:
 
-## Name der Lokalen LEADER-Aktionsgruppe/ LEADER-ähnliche Organisation des Drittlands „n”:
+## Name der Lokalen LEADER-Aktionsgruppe/ LEADER-ähnliche Organisation des Drittlands „n„:
 
 ## Name des Vertreters:
 
 ## Stellung:
 
-## Telefonnummer: Faxnummer:
+## Telefonnummer:
+
+## Faxnummer:
 
 ## E-mail Adresse:
 
-## Datum: Ort (Adresse, einschließlich Land):
+## Datum:
+
+## Ort (Adresse, einschließlich Land):
 
 ## Unterschrift:
 
-8. melléklet a 99/2012. (IX. 25.) VM rendelethez
+8. melléklet a 99/2012. (IX. 25.) VM rendelethez[^36]
+
+[^36]: A 8. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (6) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Útiköltségek fogalma, mértéke
 
-## Az ügyfélnél közvetlenül alkalmazásban álló munkavállalók, a LEADER HACS elnökségi tagok, a projekt végrehajtásához igénybe vett szakértők, tolmács és a helyi partnerek részére utazási költség és napidíj számolható el.
+## Az ügyfél, vagy az ügyfélnél közvetlenül alkalmazásban álló munkavállalók, a LEADER HACS elnökségi tagok, a LEADER HACS-nál alkalmazásban álló munkavállalók, a projekt végrehajtásához igénybe vett szakértők, tolmács és a helyi partnerek részére utazási költség és napidíj számolható el.
 
 ## 1. Utazási költségek:
 
@@ -20,12 +20,12 @@
 
 ## Repülőjegy esetében az utazó turista jegy (economic) vásárlására jogosult.
 
-## 2.[^11] Napidíj:
+## 2. Napidíj:
 
 ## A napidíjak nem haladhatják meg az Európai Bizottság által publikált értékeket (Current per diems rates – http://ec.europa.eu/europeaid/work/procedures/implementation/per_diems/index_en.htm).
 
-## A napidíj magába foglalja a szállás, az étkezés, valamint a helyi utazás (adott település közigazgatási határain belüli) költségeit. A szállás díja számla alapján kerülhet elszámolásra. A napidíj mértéke az eltöltött éjszakák számához igazodik. A napidíj fennmaradó része után a személyi jövedelemadóról szóló törvényben meghatározott módon személyi jövedelemadót kell fizetni. A napidíjból fizetett étkezés, valamint helyi utazás költségét számlával nem kell igazolni.
+## A napidíj magába foglalja a szállás, az étkezés, valamint a helyi utazás (adott település közigazgatási határain belüli) költségeit. A szállás díja számla alapján kerülhet elszámolásra. A napidíj fennmaradó része után a személyi jövedelemadóról szóló törvényben meghatározott módon személyi jövedelemadót kell fizetni. A napidíjból fizetett étkezés, valamint helyi utazás költségét számlával nem kell igazolni.
 
-4. melléklet a 99/2012. (IX. 25.) VM rendelethez
+4. melléklet a 99/2012. (IX. 25.) VM rendelethez[^32]
 
-[^11]: A 3. melléklet 2. pontja a 110/2012. (X. 15.) VM rendelet 3. §-ával megállapított szöveg.
+[^32]: A 4. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
