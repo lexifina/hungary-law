@@ -1,0 +1,1 @@
+A Kormány a további intézkedésig fel nem használható, 2012. évi kötelezettségvállalással nem terhelt előirányzat-maradványokból a XII. Vidékfejlesztési Minisztérium fejezetnél keletkezett 269 672 ezer forintnak és a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 82 328 ezer forintnak
