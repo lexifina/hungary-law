@@ -52,11 +52,11 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 2011 | 2012 | 2013 |
 
-| 3.1.1. | XXI. századi közoktatás (fejlesztés, koordináció) 2. ütem | 0,00 | 7,95 | 0,00 | A konstrukció célja az új Nemzeti Köznevelési Rendszerről szóló törvény és az új tartalmi szabályozókhoz kapcsolódó központi közoktatás szakmai fejlesztéseinek megvalósítása, a közoktatás fejlesztési konstrukciók megalapozása, koordinálás, támogatása, minőségbiztosítása és nyomonkövetése. | Emberi Erőforrások Miniszter |  |
+| 3.1.1. |  |  |  |  |  |  |  |
 
 | 3.1.2. | Új tartalomfejlesztések a közoktatásban | 0,00 | 4,00 | 0,00 | Az új Nemzeti Köznevelési Rendszerhez, a felülvizsgált Nat-hoz és kerettantervekhez kapcsolódóan a közoktatás tartalmi kínálatának megújítása, fejlesztése. | Emberi Erőforrások Miniszter |  |
 
-| 3.1.3. | Természettudományos oktatás módszertanának és eszközrendszerének megújítása a közoktatásban | 0,00 | 14,00 | 0,00 | A konstrukció célja a természettudományos oktatás színvonalának erősítése a közoktatásban természettudományos laborok korszerűsítése és pedagógustovábbképzés révén. | Emberi Erőforrások Miniszter |  |
+| 3.1.3. |  |  |  |  |  |  |  |
 
 | 3.1.4. | Köznevelés az iskolában | 0,00 | 20,02 | 0,00 | A konstrukció alapvető célja, hogy támogassa a megújuló, magasabb szakmai színvonalon működő köznevelési rendszer működését, az oktatás és képzés minőségének és hatékonyságának, javítását kiemelten az idegennyelv-tudást, digitális írástudást, vállalkozói-, életpálya-építési, életviteli, és egészségfejlesztési készségeket, környezettudatosságot, aktív állampolgárságot valamint segítse elő az egész napos iskolai nevelés és foglalkoztatás elterjesztését. | Emberi Erőforrások Miniszter |  |
 
@@ -92,7 +92,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 3.2.4. | "Tudásdepó - Expressz" – B: Országos könyvtári szolgáltatások bővítése, fejlesztése az oktatás és képzés támogatásának érdekében 2. ütem | 0,59 | 0,00 | 0,00 | A konstrukció célja kettős: részben az új, országos elektronikus könyvtári szolgáltatások fejlesztése, bővítése; részben pedig országos olvasáskultúra-fejlesztő programok megvalósítása. | Emberi Erőforrások Miniszter |  |
 
-| 3.2.8. | „Múzeumok Mindenkinek” Program – Múzeumok oktatási-képzési szerepének erősítése B) komponens, 3. ütem | 0,00 | 0,55 | 0,00 | A pályázat célja a múzeumok közoktatást és az egész életen át tartó tanulást támogató szolgáltatásainak körében a múzeumpedagógiai tevékenységek fejlesztése. a) Iskolák és múzeumok közötti partnerség erősítése: kompetenciafejlesztés a kedvezményezett múzeumok és iskolák együttműködésében megvalósuló, a formális oktatást kiegészítő múzeumpedagógiai programsorozatok révén. b) Az egész életen át tartó tanulás támogatása a nem formális és informális tanulást szolgáló iskolabarát élményprogramok és múzeumi közművelődési programcsomagok kialakítása és megvalósítása által. | Emberi Erőforrások Miniszter |  |
+| 3.2.8. |  |  |  |  |  |  |  |
 
 | 3.2.12. | Kulturális szakemberek továbbképzése a szolgáltatásfejlesztés érdekében | 0,00 | 1,89 | 0,00 | A kulturális intézmények szakembereinek át- és továbbképzése a TÁMOP és TIOP keretében támogatott, élethoesszig tartó tanuláshoz kapcsolódó kulturális alapú szolgáltatásfejlesztések fenntarthatóságát és széles körű elterjesztését segítő humán-erőforrás igények biztosítására. | Emberi Erőforrások Miniszter |  |
 
@@ -106,11 +106,11 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 3.3.8.B | Közoktatási intézmények esélyegyenlőségi alapú fejlesztéseinek támogatása a hátrányos helyzetű kistérségekben | 0,00 | 2,00 | 0,00 | Közoktatási intézmények befogadó, minőségi oktatás érdekében végzett fejlesztése érdekében a leszakadó társadalmi rétegek többségi óvodákban, iskolákban való integrálását elősegítő programok intézményi alkalmazása, az iskolai szegregációt felszámoló szervezeti és pedagógiai modellek gyűjtése, adaptálása és terjesztése, a szakmai felkészülést szolgáló pedagógus-továbbképzéseken való részvétel. Befogadó iskolai környezet kialakítása. A nevelés-oktatás tartalmi fejlesztése a halmozottan hátrányos helyzetű tanulók sikeres integrációja érdekében: integrációt támogató módszertan adaptációja, intézményi pedagógiai program átdolgozása, fenntartói, társadalmi környezet érzékenyítése. A pedagógiai fejlesztéshez szükséges eszközök, berendezések beszerzése. A halmozottan hátrányos helyzetű gyermekek korai (3 éves kortól történő), szervezett beóvodázásának és az óvodai hiányzások megszűntetésének elősegítése. Intézményi együttműködések és intézményi esélyegyenlőségi szolgáltatások fejlesztése. Szakmai, módszertani szolg | Emberi Erőforrások Miniszter |  |
 
-| 3.3.9.A | Tanoda típusú programok támogatása | 0,00 | 2,00 | 0,00 | A halmozottan hátrányos helyzetű és roma tanulók továbbtanulási útjainak megerősítése az oktatási esélykülönbségek csökkentését célzó alternatív megoldások,tanoda típusú programok támogatásával. | Emberi Erőforrások Miniszter |  |
+| 3.3.9.A |  |  |  |  |  |  |  |
 
 | 3.3.9.B | Második Esély Típusú programok támogatása | 0,00 | 2,00 | 0,00 | A halmozottan hátrányos helyzetű és roma tanulók továbbtanulási útjainak megerősítése az oktatási esélykülönbségek csökkentését célzó alternatív megoldások, második esély típusú oktatási-tanulási formák és programok támogatásával. | Emberi Erőforrások Miniszter |  |
 
-| 3.3.9.C | Tanoda típusú programok támogatása a Hátrányos Helyzetű kistérségekben | 0,00 | 2,00 | 0,00 | A halmozottan hátrányos helyzetű és roma tanulók továbbtanulási útjainak megerősítése az oktatási esélykülönbségek csökkentését célzó alternatív megoldások, tanoda típusú programok támogatásával a hátrányos helyzetű térségekben. | Emberi Erőforrások Miniszter |  |
+| 3.3.9.C |  |  |  |  |  |  |  |
 
 | 3.3.9.D | Második Esély Típusú programok támogatása a hátrányos helyzetű kistérségekben | 0,00 | 1,50 | 0,00 | A halmozottan hátrányos helyzetű és roma tanulók továbbtanulási útjainak megerősítése az oktatási esélykülönbségek csökkentését célzó alternatív megoldások, második esély típusú oktatási-tanulási formák és programok támogatásával a hátrányos helyzetű térségekben. | Emberi Erőforrások Miniszter |  |
 
@@ -126,9 +126,9 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 3.3.14. | Hazai és nemzetközi testvériskolai kapcsolatok kialakítása | 0,00 | 4,85 | 0,00 | Az országhatáron belüli és túli, valamin nemzetközi testvériskolai kapcsolatok kialakításával, közös programok megvalósításával hozzájárul a gyermekek kompetenciájának (szociális, életviteli, kommunikáció, stb.) fejlesztéséhez, ismeretanyaguk bővítéséhez. Emellett az intézmények között olyan kapcsolatok kialakítását teszi lehetővé, amelyek keretében megoszthatják tapasztalataikat, jó gyakorlataikat a nevelés különböző területein, például az egész napos iskola keretében folytatott tevékenységeikkel, a hátrányos helyzetű gyermekek nevelésével kapcsolatosan. | Emberi Erőforrások Miniszter |  |
 
-| 3.3.15. | A hátrányos helyzetű gyermekek önkéntes részvételének ösztönzése a komplex iskolai testmozgásprogramok szervezésében | 0,00 | 3,00 | 0,00 | A konstrukció keretében sor kerül a hátrányos helyzetű gyermekek sport általi önkéntesség témájú, képzők általi szemléletformálására éa komplex iskolai testmozgásprogramok területén, valamint a testnevelés és sport műveltségterületen, a diáksport egyesületekben (iskolai sportkörökben) és egyéb területi sportszervezetekben dolgozó pedagógusok és sportszakemberek irányításával, és az önkéntes tréningeken részt vett hátrányos helyzetű gyermekek vezetésével zajló, a szabadidő hasznos eltöltését szolgáló testmozgásprogramok, valamint társadalmi felelősségvállalást ösztönző programok megvalósítására. | Emberi Erőforrások Miniszter |  |
+| 3.3.15. |  |  |  |  |  |  |  |
 
-| 3.3.16. | Szimfónia | 0,00 | 0,87 | 0,00 | A kiemelt projekt célja a zenére, hangszerek elsajátítására, a muzikalitás javítására, az együtt zenélésre építve az általános iskolában tanuló, hátrányos helyzetű gyermekek és fiatalok társadalmi beilleszkedésének elősegítése, a társas kompetenciák és koncentrációs képességek fejlesztése. | Emberi Erőforrások Miniszter |  |
+| 3.3.16. |  |  |  |  |  |  |  |
 
 | 3.4.1.A | Nemzetiségi tanulók nevelésének és oktatásának támogatása | 0,00 | 1,43 | 0,00 | Cél, hogy a nemzetiségi oktatás számára a minőség javítását szolgáló oktatási programok álljanak rendelkezésre, amelyek hozzájárulnak a pedagógusok módszertani kultúrájának bővítéséhez a kompetenciaalapú oktatás módszertanával és eszközeivel, továbbá biztosítják a tanulók eltérő nyelvi adottságaira épülve a képességek és kulcskompetenciák egyénre szabott fejlesztését és megerősítését. | Emberi Erőforrások Miniszter |  |
 
@@ -218,8 +218,6 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 4.2.4.B1 | Nemzeti Kiválóság Program B1 Campus Hungary K+F projektekhez és képzéséi programokhoz kapcsolódó nemzetközi hallgatói mobilitás személyi támogatási rendszerének fejlesztése országos program | 1,32 | 0,00 | 0,00 | Nemzetközi hallgatói mobilitás elősegítése K+F projektekhez és képzéséi programokhoz kapcsolódóan. | Emberi Erőforrások Miniszter |  |
 
-| 4.2.4.A2 | Nemzeti Kiválóság Program A2: Hazai hallgatói illetve kutatói személyi támogatást biztosító rendszer kidolgozása és működtetése konvergencia program | 0,00 | 5,50 | 0,00 | Kiemelkedő kutatási teljesítménnyel rendelkező hallgatók, oktatók, kutatók Magyarországon tartásának és Magyarországra vonzásának elősegítése. | Emberi Erőforrások Miniszter |  |
-
 | 4.2.4.B2 | Nemzeti Kiválóság Program B2 Campus Hungary K+F projektekhez és képzéséi programokhoz kapcsolódó nemzetközi hallgatói mobilitás személyi támogatási rendszerének fejlesztése konvergencia program | 0,00 | 3,82 | 0,00 | Nemzetközi hallgatói mobilitás elősegítése K+F projektekhez és képzéséi programokhoz kapcsolódóan. | Emberi Erőforrások Miniszter |  |
 
 | 4.2.5.A | Magyar Tudományos Művek Tára | 0,31 | 0,00 | 0,00 | A projekt célja a már kiépítés alatt álló első nemzeti tudományos bibliográfiai adatbázis (Magyar Tudományos Művek Tára, továbbiakban: MTMT) teljes kiépítése, adatvagyonának lényeges bővítése és használatának kiterjesztése a felsőoktatás teljes területére. Az eddig az akadémiai intézményeknek nyújtott szolgáltatás kiterjesztése a felsőoktatásra. | Emberi Erőforrások Miniszter |  |
@@ -286,7 +284,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 5.2.8. | Kisközösségi ifjúság nevelés támogatása | 0,00 | 1,08 | 0,00 | Ifjúságnevelés, ifjúságfejlesztés, élményközpontú közösségi nevelés biztosítása, kisközösségi, kortárs vezetőkre épülő ifjúsági munka módszertani fejlesztése, szakmai standardok kidolgozása, szakmai együttműködések kialakítása, ezzel a célcsoport társadalmi részvételének erősítése, életpálya tervezése, negatív társadalmi hatásokkal, folyamatokkal szembeni védekező képességük fejlesztése | Emberi Erőforrások Miniszter |  |
 
-| 5.3.1.B-1 | Roma emberek képzésbe ágyazott foglalkoztatása a szociális és gyermekjóléti ellátórendszerben | 1,52 | 0,00 | 0,00 | A társadalmi előítélettel és munkaerő-piaci diszkriminációval küzdő munkanélküli roma emberek, elsősorban roma nők társadalmi befogadásának és foglalkoztatásának javítása, szociális és gyermekjóléti szakmákra való képzésük és ezen intézményekben történő foglalkoztatásuk előkészítése. | Közigazgatási és Igazságügyi Miniszter |  |
+| 5.3.1.B-1 |  |  |  |  |  |  |  |
 
 | 5.3.1.B-2 | Roma emberek képzésbe ágyazott foglalkoztatása a szociális és gyermekjóléti ellátórendszerben | 0,00 | 1,40 | 0,00 | A társadalmi előítélettel és munkaerő-piaci diszkriminációval küzdő munkanélküli roma emberek, elsősorban roma nők társadalmi befogadásának és foglalkoztatásának javítása, szociális és gyermekjóléti intézményekben történő foglalkoztatásuk támogatása. | Emberi Erőforrások Miniszter |  |
 
@@ -296,7 +294,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 5.3.6. | „Komplex telep-program” | 5,73 | 0,00 | 0,00 | A mélyszegészségben, szegregált lakókörnyezetben élő hátrányos helyzetű emberek társadalmi felzárkózásának és integrációjának segítése. | Emberi Erőforrások Miniszter |  |
 
-| 5.3.6./B | Szakmai-módszertani támogatás a komplex telepprogram és az elnéptelenedő falvak társadalmi-gazdasági folyamatainak megfordítását célzó program megvalósítói számára | 0,00 | 0,52 | 0,00 | A kiemelt projekt célja kettős: 1. Komplex telepprogram megvalósításának szakmai-módszertani támogatása, nyomonkövetése, jó gyakorlatok beazonosítása és adaptációjának elősegítése, a mérések feldolgozása, összegzése, szakmai és tudományos publikációja | Emberi Erőforrások Miniszter |  |
+| 5.3.6./B |  |  |  |  |  |  |  |
 
 | 5.3.8.A | A leghátrányosabb helyzetű csoportok munkaerő-piaci esélyeinek növelése érdekében motiváló képzések és támogató szolgáltatások | 4,90 | 4,70 | 0,00 | A leghátrányosabb helyzetű csoportok tagjainak nyílt munkaerőpiaci elhelyezkedését támogató képzések, felmérések és fejlesztések kidolgozása és lebonyolítása, támogató szolgáltatások létrehozása. | Emberi Erőforrások Miniszter |  |
 
@@ -312,7 +310,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 5.4.2. | Központi szociális információs fejlesztések | 0,00 | 2,11 | 0,00 | A szociális terület informatikai rendszereinek további fejlesztése, az elektronizálás kibővítése új informatikai alkalmazások segítségével, valamint az információáramlás hatékonyságának növelése. | Emberi Erőforrások Miniszter |  |
 
-| 5.4.5. | A fizikai és info-kommunikációs akadálymentesítés szakmai tudásának kialakítása | 0,45 | 0,00 | 0,00 | A fizikai és info-kommunikációs akadálymentesítés szakmai tudásának elterjesztése, mentorhálózat kialakítása, valamint az 5.4.6 program módszertani támogatása. | Emberi Erőforrások Miniszter |  |
+| 5.4.5. |  |  |  |  |  |  |  |
 
 | 5.4.6.A | A fizikai és info-kommunikációs akadálymentesítés szakmai tudásának elterjesztése és hozzáférhető szolgáltatások fejlesztése | 0,50 | 0,10 | 0,00 | A fizikai és info-kommunikációs akadálymentesítés szakmai tudásának elterjesztése és hozzáférhető szolgáltatások fejlesztése | Emberi Erőforrások Miniszter |  |
 
@@ -328,7 +326,7 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 5.5.1.B | Közösségi kezdeményezések és önkéntes programok támogatása - B komponens: A családi közösségi kezdeményezések és programok megerősítése | 6,19 | 0,00 | 0,00 | Az országos szemléletváltás előmozdítása a családi szféra társadalmi jelentőségével kapcsolatban, integrált szolgáltatások nyújtásával a fiatal gyermekes családok támogatása – a kötelező önkormányzati alapellátási feladatokat kiegészítő eszközökkel – kis közösségi kezdeményezések, például ún. „családi erőforrás központok létrehozása útján. | Emberi Erőforrások Miniszter | Közigazgatási és Igazságügyi Miniszter |
 
-| 5.5.2. | Az önkéntesség elterjesztése | 1,36 | 0,00 | 0,00 | A felnőtt lakosság önkéntességre való hajlandóságának növelése, az önkéntes tevékenység általános társadalmi megbecsültségének emelése és ezzel együtt az önkéntesség helyi/térségi szintű népszerűsítése. Cél továbbá a civil szervezetek, önkormányzatok, önkormányzati és állami intézmények szociális, egészségügy és oktatás területén biztosított szolgáltatási kapacitásának fejlesztése önkéntesek bevonásán keresztül. | Emberi Erőforrások Miniszter | Közigazgatási és Igazságügyi Miniszter |
+| 5.5.2. |  |  |  |  |  |  |  |
 
 | 5.5.4. | Lakóközösségi programok, kezdeményezések támogatása | 0,00 | 1,50 | 0,00 | Lakossági közösségi kezdeményezések támogatása, a társadalmi integráció és kohézió elősegítése közösségi programokon keresztül. | Emberi Erőforrások Miniszter |  |
 
@@ -390,9 +388,9 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 6.1.1. | Bizonyítékokon alapuló egészségfejlesztési ismeretek kidolgozása az oktatás különböző szintjei számára, valamint egészségfejlesztési szakmai hálózat létrehozása | 0,00 | 1,00 | 0,00 | Az alap-, közép- és felsőfokú iskolarendszerben az egészséggel kapcsolatos ismeretek átadásának intézményesült formában történő fejlesztése. A különböző színtereken (iskolák, munkahelyek, települések, stb.) folyó egészségfejlesztési tevékenységet támogató, a szakmai fejlődést és a szereplők koordinált működését elősegítő szakmai hálózat létrehozása. | Emberi Erőforrások Miniszter | - |
 
-| 6.1.2. | Egészségre nevelő és szemléletformáló életmódprogramok | 0,00 | 7,28 | 0,00 | Az egészséges életmódot támogató, legfontosabb életmódtényezőket befolyásoló pozitív közösségi minták elterjesztése érdekében egészségfejlesztési programok megvalósítása az életmódot befolyásolni képes színtereken (települések, kistérségek, munkahelyek, oktatási és egészségügyi intézmények), valamint egészségfejlesztési tematikus programok megvalósítása útján. Megjegyzés: A TÁMOP 6.1.2, a TÁMOP 6.1.2/A és a TÁMOP 6.1.2.B konstrukciók esetleges maradványai egymás között átcsoportosításra kerülhetnek a konkrét pályázati többletigények függvényében. | Emberi Erőforrások Miniszter | - |
+| 6.1.2. |  |  |  |  |  |  |  |
 
-| 6.1.2.A | Komplex intézményi mozgásprogramok és kapcsolódó egészségfejlesztési alprogramok megvalósítása az általános iskolákban, többcélú intézményekben | 0,00 | 3,20 | 0,00 | A konstrukció célja, hogy olyan összetett eszközrendszerű intézményi egészségfejlesztési programok (komplex intézményi testmozgásprogramok) valósuljanak meg az általános iskolai tanulók részvételével, melyeknek fő pillérjét az életkornak megfelelő energia-egyensúlyt szolgáló, nem tanórai rendszerű testmozgás és életmód programok megvalósítása, illetőleg ehhez kapcsolódóan az igénybe venni kívánt szakemberek szakmai kompetenciafejlesztése, valamint attitűdformálása jelenti. | Emberi Erőforrások Miniszter |  |
+| 6.1.2.A |  |  |  |  |  |  |  |
 
 | 6.1.2.B | Szabadidős közösségi mozgásprogramok és kapcsolódó egészségfejlesztési alprogramok megvalósítása az iskolán kívüli szereplők bevonásával | 0,00 | 1,80 | 0,00 | A konstrukció alapvető célja, hogy az egészségfejlesztést célzó programok a tanulók aktív részvételével - a tanórán kívüli tevékenységek eredményeképpen - beépüljenek az iskolák mindennapi életébe, és ezáltal hozzájáruljanak a tanulók érzékenyítéséhez, attitűdváltozásához. Erre alapozottan olyan megyei szintű szabadidős közösségi programok, „hétpróba” versenyek megszervezése és lebonyolítása, melynek keretében az általános iskolák osztályai összemérhetik a tudásukat és felkészültségüket. | Emberi Erőforrások Miniszter |  |
 
@@ -429,4 +427,4 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 | - | - | - | - | - | - |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1585/2013. (VIII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1585/2013. (VIII. 28.) Korm. határozat 2. pontja, az 1736/2013. (X. 11.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
