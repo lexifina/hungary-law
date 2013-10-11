@@ -4,7 +4,7 @@
 
 1. arculati elemek: a kedvezményezettnek a tájékoztatásra és nyilvánosságra vonatkozó rendelkezések értelmében a támogatással megvalósított beruházáson és eszközein feltüntetett, az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 2006. december 15-i 1974/2006/EK bizottsági rendelet VI. melléklet 3.1. szerinti „Európai Mezőgazdasági és Vidékfejlesztési Alap: A vidéki területekbe beruházó Európa.” szlogen, az Európai Unió zászlajának logója, LEADER logó, Darányi Ignác Terv logó, az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) logója, valamint a LEADER Helyi Akciócsoport (a továbbiakban: LEADER HACS) logója;
 
-2. egyház: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyház és belső egyházi jogi személy (a továbbiakban együtt: egyház);
+2.[^1]
 
 3. együttműködési intézkedés: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet (a továbbiakban: 1698/2005/EK tanácsi rendelet) 65. cikke szerint meghatározott intézkedés;
 
@@ -44,10 +44,13 @@ d) önálló jogi személyiséggel rendelkező önkormányzati társulás;
 
 e) székhellyel vagy telephellyel rendelkező nonprofit szervezet;
 
-f) székhellyel vagy telephellyel rendelkező egyház;
+f)[^2] székhellyel vagy telephellyel rendelkező egyházi jogi személy;
 
 g) lakóhellyel vagy tartózkodási hellyel rendelkező természetes személy,
 
 ## amely fejlesztést valósít meg vagy bonyolít le.
 
 (2) Az e rendeletben nem szabályozott kérdések vonatkozásában a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) szereplő szabályokat kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés 2. pontját a 93/2013. (X. 10.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés 16. pont f) alpontja a 93/2013. (X. 10.) VM rendelet 13. §-a szerint módosított szöveg.

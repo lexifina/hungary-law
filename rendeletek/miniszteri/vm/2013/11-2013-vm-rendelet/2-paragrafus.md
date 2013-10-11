@@ -12,7 +12,7 @@ b) működő települési önkormányzat, települési nemzetiségi önkormányz
 
 c) székhellyel vagy telephellyel rendelkező nonprofit szervezet,
 
-d) székhellyel vagy telephellyel rendelkező egyház.
+d)[^3] székhellyel vagy telephellyel rendelkező egyházi jogi személy.
 
 (4) A koordináló szervezetet az együttműködésben részt vevő LEADER HACS, vagy több LEADER HACS részvétele esetén az együttműködésben részt vevő LEADER HACS-ok választják ki.
 
@@ -49,3 +49,5 @@ g) a projekt együttműködésben való megvalósulását bemutató szakmai besz
 (13) A megvalósíthatósági tanulmány értékelését az IH által létrehozott Szakmai Bizottság az 1. mellékletben szereplő értékelési szempontok alapján végzi. Pozitív elbírálás esetén az IH hozzájáruló nyilatkozatot állít ki. Amennyiben a megvalósíthatósági tanulmány nem megfelelően kidolgozott, az IH átdolgozó javaslatokról szóló válaszlevelet küld.
 
 (14) Az e rendelet alapján benyújtott támogatási kérelemben megjelölt teljes költségvetés a benyújtott megvalósíthatósági tanulmányban jóváhagyott teljes költségvetéstől legfeljebb 10% mértékéig térhet el. Amennyiben több mint 10% a teljes költségvetés tekintetében az eltérés, vagy az ügyfél által vállalt tevékenységek módosulnak, abban az esetben a támogatási kérelem elutasításra kerül.
+
+[^3]: A 2. § (3) bekezdés d) alpontja a 93/2013. (X. 10.) VM rendelet 13. §-a szerint módosított szöveg.
