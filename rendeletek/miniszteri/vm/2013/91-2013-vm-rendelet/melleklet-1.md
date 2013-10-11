@@ -1,50 +1,84 @@
 1. melléklet a 91/2013. (X. 8.) VM rendelethez
 
-1. Az R. 1. melléklete 4. pont 4.1., 4.3., 4.6. és 4.7. alpontja helyébe a következő rendelkezések lépnek:
+1.[^4]
 
-„4.1. Békéscsabai Járási Hivatal Járási Földhivatala (székhelye: Békéscsaba)
+2. Az R. 1. melléklete 4. pont 4.2., 4.5–4.8. alpontja helyébe a következő rendelkezések lépnek:
 
-Békéscsaba
+„4.2. Gyulai Járási Hivatal Járási Földhivatala (székhelye: Gyula)
 
-Csabaszabadi
+Biharugra
 
-Csorvás
+Elek
 
-Doboz
+Geszt
 
-Gerendás
+Gyula
 
-Kétsoprony
+Kétegyháza
 
-Szabadkígyós
+Körösnagyharsány
 
-Telekgerendás
+Kötegyán
 
-Újkígyós”
+Lőkösháza
 
-„4.3. Békési Járási Hivatal Járási Földhivatala (székhelye: Békés)
+Mezőgyán
 
-Békés
+Méhkerék
 
-Bélmegyer
+Okány
 
-Kamut
+Sarkad
 
-Köröstarcsa
+Sarkadkeresztúr
 
-Mezőberény
+Újszalonta
 
-Murony
+Zsadány”
 
-Tarhos”
+„4.5. Mezőkovácsházai Járási Hivatal Járási Földhivatala (székhelye: Mezőkovácsháza)
 
-„4.6. Szarvasi Járási Hivatal Járási Földhivatala (székhelye: Szarvas)
+Almáskamarás
+
+Battonya
+
+Dombegyház
+
+Dombiratos
+
+Kaszaper
+
+Kevermes
+
+Kisdombegyház
+
+Kunágota
+
+Magyarbánhegyes
+
+Magyardombegyház
+
+Medgyesbodzás
+
+Medgyesegyháza
+
+Mezőhegyes
+
+Mezőkovácsháza
+
+Nagybánhegyes
+
+Nagykamarás
+
+Pusztaottlaka
+
+Végegyháza
+
+4.6. Szarvasi Járási Hivatal Járási Földhivatala (székhelye: Szarvas)
 
 Békésszentandrás
 
 Csabacsűd
-
-Hunya
 
 Kardos
 
@@ -54,9 +88,7 @@ Kondoros
 
 Szarvas
 
-4.7. Szarvasi Járási Hivatal Járási Földhivatala Gyomaendrődi Kirendeltsége
-
-(székhelye: Gyomaendrőd)
+4.7. Gyomaendrődi Járási Hivatal Járási Földhivatala (székhelye: Gyomaendrőd)
 
 Csárdaszállás
 
@@ -64,14 +96,30 @@ Dévaványa
 
 Ecsegfalva
 
-Gyomaendrőd”
+Gyomaendrőd
 
-2.[^4]
+Hunya
+
+4.8. Szeghalmi Járási Hivatal Járási Földhivatala (székhelye: Szeghalom)
+
+Bucsa
+
+Füzesgyarmat
+
+Kertészsziget
+
+Körösladány
+
+Körösújfalu
+
+Szeghalom
+
+Vésztő”
 
 3.[^5]
 
 4.[^6]
 
-[^4]: Az 1. melléklet 2. pontja a 6. § (2) bekezdése alapján 2013. október 11-én lép hatályba.
+[^4]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: Az 1. melléklet 3. pontja a 6. § (3) bekezdése alapján 2013. október 25-én lép hatályba.
 [^6]: Az 1. melléklet 4. pontja a 6. § (4) bekezdése alapján 2014. január 1-jén lép hatályba.
