@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről Közép-Amerika közötti társulás létrehozásáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
