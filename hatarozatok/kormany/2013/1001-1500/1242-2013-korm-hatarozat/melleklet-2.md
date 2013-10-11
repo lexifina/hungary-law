@@ -4,11 +4,11 @@
 
 | 2011 | 2012 | 2013 |  |  |  |
 
-| TÁMOP 3.1.2.B | Az új NAT-hoz illeszkedő tankönyvfejlesztés és Nemzeti Közoktatási Portál fejlesztése |  |  | 2,6 | A Nemzeti Alaptantervhez illeszkedő digitális taneszközökön túlmutatón szükséges a tankönyvkínálat bővítése, a hiányosan vagy nem megfelelő színvonalon ellátott területeken azok pótlása. A Sulinet tapasztalataira és adattartalmára építve a Nemzeti Közoktatási Portál kialakítása, amely egykapus hozzáféréssel, egységes felhasználói felületen, a megfelelő minőségbiztosítás mellett teszi elérhetővé az összes digitális tananyagot. | emberi erőforrások minisztere |  |
+| TÁMOP 3.1.2.B |  |  |  |  |  |  |  |
 
 | TÁMOP 5.3.9.B | Digitális Közösség Program |  |  | 0,5 | A „Miskolc és agglomerációja digitális közösség” című hazai eszközellátási programhoz kapcsolódóan olyan képzési, motivációs programok megszervezése és lebonyolítása, amelyek hozzájárulnak az informatikaoktatás, az egész életen át tartó tanulás és a munkaerő-piaci reintegráció megerősítéséhez. További cél az információs társadalomba kiszorultak beilleszkedésének elősegítése, a társadalom, különösen a hátrányos helyzetűek informatikai kompetenciájának fejlesztése. A digitális közösség a digitális társadalmi értéklánc egyik fontos pillére, amely igen hatékony módon képes támogatni, segíteni az állam legfontosabb célkitűzéseit: a digitális írástudás növelését, a munkahelyteremtést és a versenyképesség növelését. | emberi erőforrások minisztere |  |
 
-| TÁMOP-6.1.5 | Területi emberi erőforrás fejlesztési komplex programok támogatása |  |  | 1,7 | A területi komplex felzárkóztató program keretében – a szakképzési, szociális gazdasági fejlesztésekhez kapcsolódóan – az egészséges életmód, egészségszemlélet elterjesztése, az egészséges élettel kapcsolatos ismeretek beépítése a képzési és gazdasági tevékenységek körébe. | emberi erőforrások minisztere |  |
+| TÁMOP-6.1.5 |  |  |  |  |  |  |  |
 
 ## Címében és céljában módosított konstrukciók:
 
@@ -22,4 +22,6 @@
 
 | TÁMOP 6.2.7 | Nemzeti Egészségügyi Informatikai (e-Egészségügyi) Rendszer bevezetését támogató módszertan, szolgáltatás-, képzés és humánerőforrás fejlesztés |  |  | 1,000 | Szakmai és lakossági szolgáltatások fejlesztése az egészségügyi rendszerben való jobb eligazodás támogatása céljából. A nemzeti egészségügyi informatikai (eHealth) fejlesztések során létrejövő informatikai rendszerekhez kapcsolódó oktatás, tájékoztatás és oktatási anyagok fejlesztése. | emberi erőforrások minisztere |  |
 
-2. melléklet az 1242/2013. (IV. 30.) Korm. határozathoz
+2. melléklet az 1242/2013. (IV. 30.) Korm. határozathoz[^3]
+
+[^3]: A 2. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont b) pont bb) alpontja szerint módosított szöveg.

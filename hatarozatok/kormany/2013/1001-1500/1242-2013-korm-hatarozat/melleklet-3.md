@@ -2,7 +2,7 @@
 
 | (Mrd Ft) | (Mrd Ft) | (Mrd Ft) | (Mrd Ft) | (Mrd Ft) |
 
-| TÁMOP 3.1.2.B | Az új NAT-hoz illeszkedő tankönyvfejlesztés és Nemzeti Közoktatási Portál fejlesztése | 0 | 2,0665 |  | 0,5335 | 2,6 |
+| TÁMOP 3.1.2.B |  |  |  |  |  |  |
 
 | TÁMOP 3.3.1 | Esélyegyenlőség és Integráció III. szakasz | 2,644 |  | -2,644 |  | 0 |
 

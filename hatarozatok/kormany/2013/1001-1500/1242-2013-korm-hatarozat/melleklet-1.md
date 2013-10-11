@@ -50,4 +50,6 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1242/2013. (IV. 30.) Korm. határozathoz
+1. melléklet az 1242/2013. (IV. 30.) Korm. határozathoz[^2]
+
+[^2]: Az 1. melléklet az 1736/2013. (X. 11.) Korm. határozat 5. pont b) pont ba) alpontja szerint módosított szöveg.
