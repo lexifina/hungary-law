@@ -1,1 +1,0 @@
-## 13. § Az R2. 1. § (1) bekezdés 16. pont f) alpontjában, 2. § (3) bekezdés d) pontjában, valamint 6. § (10) bekezdés c) pontjában az „egyház” szövegrész helyébe az „egyházi jogi személy” szöveg lép.
