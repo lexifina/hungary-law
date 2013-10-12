@@ -1,3 +1,3 @@
-## 3. § Az R. a következő 23. §-sal egészül ki:
+## 3. §[^2]
 
-## „23. § E rendelet 1. mellékletének az Mr6. rendelettel megállapított 4. pont 4.2., 4.5–4.8. alpontját a 2013. október 11-én folyamatban lévő eljárásokban is alkalmazni kell.”
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
