@@ -2,7 +2,7 @@
 
 (2)[^143] Az (1) bekezdés szerinti szolgáltató az ellátási területéhez tartozó háziorvosi szolgálatok háziorvosi ellátásra szóló szerződés szerinti összlakosságszáma alapján jogosult az ügyeleti ellátás díjazására.
 
-(3)[^144] A díjazás alapösszege 40 Ft/fő, amely a fenntartó települési önkormányzat illetékességi területéhez tartozó lakosságszám alapján az alábbiak szerint változik:
+(3)[^144] A díjazás alapösszege 42 Ft/fő, amely a fenntartó települési önkormányzat illetékességi területéhez tartozó lakosságszám alapján az alábbiak szerint változik:
 
 a)[^145]
 
@@ -30,7 +30,7 @@ c)[^150] a b) pont szerinti szorzókkal kiszámított összes díj levonása ut�
 
 [^142]: A 19. § (1) bekezdése a 21/2000. (III. 3.) Korm. rendelet 13. §-ának (1) bekezdésével megállapított, valamint a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 13. pontja szerint módosított szöveg.
 [^143]: A 19. § (2) bekezdése a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének b) pontja szerint módosított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést első alkalommal a 2005. január hónapra szóló kifizetések tekintetében kell alkalmazni.
-[^144]: A 19. § (3) bekezdésének felvezető mondata a 293/2002. (XII. 27.) Korm. rendelet 10. §-ával megállapított és a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg.
+[^144]: A 19. § (3) bekezdésének felvezető mondata a 293/2002. (XII. 27.) Korm. rendelet 10. §-ával megállapított, a 362/2013. (X. 11.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^145]: A 19. § (3) bekezdésének a) pontját a 102/2003. (VII. 17.) Korm. rendelet 13. § (4) bekezdésének b) pontja hatályon kívül helyezte.
 [^146]: A 19. § (3) bekezdésének b) pontja a 102/2003. (VII. 17.) Korm. rendelet 13. § (4) bekezdésének b) pontja szerint módosított szöveg.
 [^147]: A 19. § (3) bekezdése b) pontjának ba) alpontja a 193/2008. (VII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § – 283/2008. (XI. 28.) Korm. rendelet 8. § (6) bekezdés b) pontja szerint módosított – (7) bekezdése alapján a 19. § (3) bekezdése b) pontjának ba) alpontja szerinti díjazás a 2008. szeptemberben esedékes kifizetésektől alkalmazható.

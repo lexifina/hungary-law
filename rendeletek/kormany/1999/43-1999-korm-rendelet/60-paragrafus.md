@@ -1,4 +1,4 @@
-60. §[^486] (1) A 2012. június 30-ával megszűnő aktív fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató az általános szabályok szerint jogosult a 2012. június 30-áig elvégzett, a finanszírozónak lejelentett és a finanszírozó által elismert teljesítménye szerinti díjazásra, az e §-ban foglaltak megfelelő alkalmazásával.
+60. §[^493] (1) A 2012. június 30-ával megszűnő aktív fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató az általános szabályok szerint jogosult a 2012. június 30-áig elvégzett, a finanszírozónak lejelentett és a finanszírozó által elismert teljesítménye szerinti díjazásra, az e §-ban foglaltak megfelelő alkalmazásával.
 
 (2) Ha az aktív fekvőbeteg-szakellátás megszűnése esetén a megszűnést megelőzően felvett biztosítottnak a kezelése nem fejeződött be, az adott ellátási eseményre irányadó normatív ápolási idő figyelembevételével jogosult az egészségügyi szolgáltató az elszámolható teljesítmény után járó díjazásra azzal, hogy 2012. július 31-e után egynapos ellátás kivételével aktív fekvőbeteg-szakellátást nem végezhet.
 
@@ -12,4 +12,4 @@
 
 (7) Amennyiben a finanszírozott fekvőbeteg-szakellátási feladat a struktúraváltás alapján egy vagy több másik egészségügyi szolgáltató ellátási kötelezettsége körébe kerül, a feladatot átvevő egészségügyi szolgáltató kérelmére finanszírozási előlegre jogosult.
 
-[^486]: A 60. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be.
+[^493]: A 60. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be.

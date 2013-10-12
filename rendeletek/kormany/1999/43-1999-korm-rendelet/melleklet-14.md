@@ -1,4 +1,4 @@
-14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^529]
+14. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^537]
 
 „ADATLAP kórházi (osztályos) ápolási esetről
 
@@ -326,30 +326,4 @@ M. bíróság által elrendelt elmemegfigyelés
 
 20. A felvétel időpontja
 
-A felvétel dátuma (óra, perc pontossággal). Az a regisztrált időpont, amikor a felvételt végző orvos a beteg felvételének szükségességéről dönt. Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött esetén az újszülöttkori első szűrés kezdetének időpontja.
-
-22. A távozás időpontja
-
-A távozás időpontja az óra megadásával. Az óra, perc kitöltése csak áthelyezésre kerülő, illetve exitált betegnél kötelező. A távozás időpontja az, amikor a beteg az intézet azon osztályának területét hagyja el véglegesen, ahol a zárójelentését kiadták. Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató közreműködésével született újszülött esetén az újszülöttkori első szűrés befejezésének időpontja.
-
-23. A beteg további sorsa
-
-1. belső kórházi áthelyezés
-
-2. más fekvőbeteg gyógyintézetbe történő áthelyezés
-
-3. otthonába bocsátva / az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató által nyújtott ellátás befejezettnek minősül
-
-4. meghalt
-
-5. részszámla
-
-6. otthonába adaptációs szabadságra bocsátva
-
-7. önkényesen távozott
-
-8. szociális otthonba távozott
-
-C. folytató rekord következik
-
-[^529]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^537]: A 14. számú melléklet a 291/2009. (XII. 18.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 365/2010. (XII. 30.) Korm. rendelet 13. § (7) bekezdése és 19. § (1) bekezdés g) pontja és (2) bekezdés c) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (5) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (3) bekezdése, a 227/2011. (X. 28.) Korm. rendelet 6. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés k) pontja, a 164/2012. (VII. 19.) Korm. rendelet 1. §-a, a 447/2012. (XII. 29.) Korm. rendelet 27. § (4) bekezdése és 29. § i) pontja, a 254/2013. (VII. 5.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.

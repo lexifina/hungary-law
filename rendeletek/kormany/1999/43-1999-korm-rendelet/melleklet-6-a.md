@@ -4,29 +4,29 @@
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
-| Praxisfinanszírozás | 76 646,6 |
+| Praxisfinanszírozás | 80 292,0 |
 
 | Eseti ellátás díjazása | 649,3 |
 
-| Ügyeleti szolgálat | 9 647,4 |
+| Ügyeleti szolgálat | 10 106,2 |
 
-| 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 86 943,3 |
+| 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 91 047,5 |
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
-| Iskolaegészségügyi ellátás | 2 116,4 |
+| Iskolaegészségügyi ellátás | 2 217,1 |
 
-| Védőnői ellátás | 16 972,6 |
+| Védőnői ellátás | 17 779,8 |
 
-| Anya-, gyermek- és csecsemővédelem | 461,5 |
+| Anya-, gyermek- és csecsemővédelem | 483,4 |
 
 | MSZSZ: gyermekgyógyászat | 121,6 |
 
 | MSZSZ: nőgyógyászat | 96,3 |
 
-| 2. | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen | 19 768,4 |
+| 2. | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen | 20 698,2 |
 
-| 3. | Fogászati ellátás | 23 336,9 |
+| 3. | Fogászati ellátás | 24 446,8 |
 
 | 5. | Betegszállítás és orvosi rendelvényű halottszállítás | 6 046,9 |
 
@@ -60,15 +60,15 @@
 
 |  | Összevont szakellátás |  |
 
-| Járóbeteg-szakellátás | 122 514,7 |
+| Járóbeteg-szakellátás | 121 956,9 |
 
-| Fekvőbeteg-szakellátás | 415 993,6 |
+| Fekvőbeteg-szakellátás | 410 407,5 |
 
 | ebből: |  |
 
-| – aktív fekvőbeteg-szakellátás | 352 148,9 |
+| – aktív fekvőbeteg-szakellátás | 346 916,9 |
 
-| – krónikus fekvőbeteg-szakellátás | 62 844,7 |
+| – krónikus fekvőbeteg-szakellátás | 62 490,6 |
 
 | – bázis finanszírozású szakellátás (BVOP) | 1 000,0 |
 
@@ -76,11 +76,11 @@
 
 | Speciális finanszírozású szakellátás | 67 706,1 |
 
-| 18. | Összevont szakellátás összesen | 606 714,4 |
+| 18. | Összevont szakellátás összesen | 600 570,5 |
 
 | ÖSSZESEN | 887 006,2 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^517]
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^525]
 
 ## Ambuláns adatlap
 
@@ -542,4 +542,4 @@ A felírt gyógyászati ellátás vények számát kell megadni
 
 39.
 
-[^517]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^525]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
