@@ -1,0 +1,3 @@
+7. § (1) A kezességi díjtámogatásról a támogatástartalomról szóló igazolást a kezességvállaló intézmény állítja ki, és megküldi a kedvezményezett és – a támogatástartalom lekötése céljából – elektronikus úton az MVH részére.
+
+(2) E rendelet hatálybalépéséig megelőlegezett kezességi díjtámogatásról a kezességvállaló intézmény által kiállított támogatástartalomról szóló igazolást a kezességvállaló intézmény e rendelet hatálybalépését követő hatvan napon belül – de legkésőbb a vonatkozó támogatáslehívási kérelem benyújtását megelőzően – elektronikus úton megküldi az MVH részére a támogatástartalom lekötése céljából.

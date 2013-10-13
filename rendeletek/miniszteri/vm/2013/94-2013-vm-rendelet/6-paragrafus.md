@@ -1,0 +1,5 @@
+6. § (1) A kezességvállaló intézmény a kezességi díj kedvezményezett által meg nem fizetett, a kezességi díj megelőlegezett részéről szóló támogatáslehívási kérelmet – kedvezményezettenként részletezve – a kezességi díjtámogatásra vonatkozóan – az MVH által rendszeresített és honlapján közzétett nyomtatványon nyújtja be az MVH-hoz.
+
+(2) Az (1) bekezdés szerinti kérelem MVH-hoz történő beérkezésétől számított harminc napon belül meghozott döntést követően az MVH – a forrás rendelkezésre állása esetén – haladéktalanul folyósítja a kezességi díjtámogatást a kezességvállaló intézmény részére.
+
+(3) Amennyiben a kezességvállaló intézmény által garantált ügyletben bekövetkező változás miatt a kezességi díj visszatérítése szükséges a kedvezményezett részére, úgy a visszatérített kezességi díjra eső, az MVH által korábban folyósított kezességi díjtámogatásról a kezességvállaló intézmény a garantált alapügyletben bekövetkező változás hatálybalépését követően benyújtott támogatáslehívási kérelemben számol el.
