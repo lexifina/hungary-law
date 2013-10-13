@@ -1,10 +1,10 @@
-## 3. §[^6] A kamattámogatás és a kezességi díjtámogatás forrása a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelem-támogatások jogcímcsoport.
+## 3. §[^8] A kamattámogatás és a kezességi díjtámogatás forrása a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelem-támogatások jogcímcsoport.
 
 ## 4. A támogatás igénybevételének feltétele
 
 4. § (1) Igénylőlapot nyújthat be és ahhoz kapcsolódóan – hatályosan létrejött hitelszerződés alapján – támogatást vehet igénybe az a mezőgazdasági vállalkozás, aki (amely)
 
-a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti regisztrációs kötelezettségének eleget tett vagy az igénylőlap benyújtásával egy időben igazolja, hogy az erre vonatkozó kérelmét benyújtotta;
+a)[^9] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett vagy az igénylőlap benyújtásával egy időben igazolja, hogy az erre vonatkozó kérelmét benyújtotta;
 
 b) nyilatkozik arról, hogy az igénylőlap benyújtásának időpontjában:
 
@@ -18,7 +18,8 @@ d) nyilatkozik az igénylőlap benyújtását megelőző kettő pénzügyi évbe
 
 e) nem rendelkezik Széchenyi Kártya Folyószámlahitellel.
 
-(2)[^7] Az (1) bekezdés e) pontjában foglalt feltétel fennállásának ellenőrzését a KAVOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
+(2)[^10] Az (1) bekezdés e) pontjában foglalt feltétel fennállásának ellenőrzését a KAVOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
 
-[^6]: A 3. § a 140/2011. (XII. 22.) VM rendelet 3. § (2) bekezdése iktatta be, szövege a 139/2012. (XII. 22.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^7]: A 4. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 3. § a 140/2011. (XII. 22.) VM rendelet 3. § (2) bekezdése iktatta be, szövege a 139/2012. (XII. 22.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdés a) pontja a 94/2013. (X. 10.) VM rendelet 10. § (6) bekezdése szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
