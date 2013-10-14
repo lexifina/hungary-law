@@ -12,8 +12,8 @@ b) a telken meglévő építmény vagy önálló rendeltetési egység jogszerű
 
 (2)[^56]
 
-(3)[^57] A hatósági bizonyítványt – az e rendelet szerinti hivatalbóli intézkedés kivételével – az eljárás megindulásától számított tíz napon belül vagy önálló határozattal.
+(3)[^57] A hatósági bizonyítványt – az e rendelet szerinti hivatalbóli intézkedés kivételével – az eljárás megindulásától számított tíz napon belül vagy önálló határozattal kell kiállítani.
 
 [^55]: Az 56. § (1) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (2) bekezdésével megállapított szöveg.
 [^56]: Az 56. § (2) bekezdését a 266/2013. (VII. 11.) Korm. rendelet 55. § k) pont ka) alpontja hatályon kívül helyezte.
-[^57]: Az 56. § (3) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 55. § k) pont kb) alpontja szerint módosított szöveg.
+[^57]: Az 56. § (3) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 55. § k) pont kb) alpontja, a 358/2013. (X. 9.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

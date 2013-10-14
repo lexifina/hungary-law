@@ -1,4 +1,4 @@
-2. melléklet a 312/2012. (XI. 8.) Korm. rendelethez
+2. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^87]
 
 ## Bontási engedély és bontás tudomásulvétele nélkül végezhető bontási tevékenységek
 
@@ -110,6 +110,8 @@ f) újjáépíteni.
 
 28. Magasles, vadetető, erdei építmény, kilátó bontása, amelynek a terepcsatlakozástól mért legfelső pontja az 5,0 m-t nem haladja meg.
 
-29. Elektronikus hírközlési építmény körében műtárgynak minősülő antennatartó szerkezet bontása, ha annak bármely irányú mérete a bruttó 6,0 m-t nem haladja meg.
+29.
 
 30. Közforgalom elől elzárt, telken belüli 3,0 m vagy annál kisebb fesztávú áteresz, bejáró-, átjáró-híd bontása.
+
+[^87]: A 2. melléklet a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.

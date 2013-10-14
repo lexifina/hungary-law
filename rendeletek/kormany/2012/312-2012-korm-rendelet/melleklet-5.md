@@ -1,4 +1,4 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^86]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^88]
 
 ## Szakhatósági dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
@@ -104,31 +104,7 @@ IV. A műszaki biztonsági szakhatóság állásfoglalásának megkéréséhez s
 
 2.6. Nyilatkozat az építtetőtől a nem megvalósított berendezésekről (más berendezések beépítéséről).
 
-V. A sugár-egészségügyi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentumok
-
-1. Antenna létesítésének építési és összevont engedélyezési eljárása esetén
-
-1.1. A létesítendő antenna (antennák) gyártója, típusa, működési frekvenciája, teljesítménye ERP-ben, nyeresége.
-
-1.2. Az antennatartó szerkezeten már működő antenna (antennák) gyártója, típusa, működési frekvenciája, teljesítménye ERP-ben, nyeresége.
-
-1.3. Az 1.1. és az 1.2. pontban szereplő adatok figyelembevételével végzett, részletes számításon alapuló becslés arra vonatkozóan, hogy az antenna (antennák) környezetében, az emberek lehetséges tartózkodási helyén mekkora Seq ekvivalens síkhullám teljesítménysűrűség várható.
-
-1.4. Az 1.1. és az 1.2. pontban szereplő adatok figyelembevételével végzett, részletes számításon alapuló becslés arra vonatkozóan, hogy az antenna (antennák) környezetében, az antennától (antennáktól) számított mekkora távolságban teljesülnek a 0 Hz–300 GHz közötti frekvenciatartományú elektromos, mágneses és elektromágneses terek lakosságra vonatkozó egészségügyi határértékeiről szóló 63/2004. (VII. 26.) ESZCSM rendelet 1. számú mellékletében szereplő vonatkoztatási határértékek.
-
-1.5. Az antennát befogadó ingatlan és a szomszédos ingatlanok helyszínrajza 1:1000 léptékben.
-
-1.6. Az antenna elhelyezkedése az ingatlanon.
-
-1.7. Az antenna esetleges álcázási módja.
-
-2. Antenna használatbavételi és a fennmaradási engedélyezési eljárás esetén
-
-2.1. Az engedélyezési eljárás tárgyát képező antenna (antennák) környezetében az antenna (antennák) üzemeltetőjétől független, akkreditált szervezet által végzett sugár-egészségügyi mérések jegyzőkönyve arról, hogy a lakosság lehetséges tartózkodási helyein a mérések időpontjában
-
-2.1.1. milyen volt az elektromágneses sugárzás frekvencia szerinti eloszlása, továbbá
-
-2.1.2. mekkora volt az Seq ekvivalens síkhullám teljesítménysűrűség, vagy más, a 0 Hz–300 GHz közötti frekvenciatartományú elektromos, mágneses és elektromágneses terek lakosságra vonatkozó egészségügyi határértékeiről szóló 63/2004. (VII. 26.) ESZCSM rendelet 1. számú mellékletében szereplő vonatkoztatási elektromos paraméter.
+V.
 
 VI. A tűzvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentáció
 
@@ -186,4 +162,4 @@ A tűzvédelmi dokumentáció tartalma
 
 2.2. Helyszínrajz, melyen feltüntetik az engedélyezéssel érintett építményt és a szomszédos építményeket, valamint a közöttük lévő távolságot.
 
-[^86]: Az 5. melléklet a 76. § szerint módosított szöveg.
+[^88]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja szerint módosított szöveg.

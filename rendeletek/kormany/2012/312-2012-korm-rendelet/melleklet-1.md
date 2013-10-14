@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^85]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^86]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -126,11 +126,7 @@ f) újjáépíteni.
 
 30. Magasles, vadetető, erdei építmény, kilátó építése, amelynek a terepcsatlakozástól mért legfelső pontja az 5,0 m-t nem haladja meg.
 
-31. Elektronikus hírközlési építmény:
-
-a) műtárgynak minősülő antennatartó szerkezet létesítése, ha annak bármely irányú mérete a bruttó 6,0 m-t nem haladja meg, vagy
-
-b) az antennatartó szerkezet méretétől függetlenül a szerkezetre antenna felszerelése, ha az antenna bármely irányú mérete a 4,0 m-t nem haladja meg.
+31.
 
 32. Közforgalom elől elzárt, telken belüli, 3,0 m vagy annál kisebb fesztávú áteresz, bejáró-, átjáró-híd építése.
 
@@ -138,4 +134,4 @@ b) az antennatartó szerkezet méretétől függetlenül a szerkezetre antenna f
 
 34. Közterületen, filmforgatáshoz kapcsolódó építmény létesítése.
 
-[^85]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^86]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja szerint módosított szöveg.
