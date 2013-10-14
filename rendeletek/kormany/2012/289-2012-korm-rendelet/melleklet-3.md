@@ -6,7 +6,7 @@
 
 ## b) amennyiben jogszabály előírja, független tanúsító szervezet tanúsítása;
 
-## c)[^4] amennyiben független tanúsító szervezet tanúsítása nem előírt, mérési eredményeken, bizonylatokon, minőségi bizonyítványokon alapuló összefoglaló jelentés arról, hogy megvalósult vasúti építmény műszaki paraméterei az engedélyezési dokumentációban előírt feltételeknek megfelelnek (a jelentésnek ki kell terjednie a rendszerelemek, alrendszerek, strukturális alrendszerek megfelelőségére és minőségére vonatkozó értékelésére, valamint az építési termékek teljesítményére);
+## c)[^27] amennyiben független tanúsító szervezet tanúsítása nem előírt, mérési eredményeken, bizonylatokon, minőségi bizonyítványokon alapuló összefoglaló jelentés arról, hogy megvalósult vasúti építmény műszaki paraméterei az engedélyezési dokumentációban előírt feltételeknek megfelelnek (a jelentésnek ki kell terjednie a rendszerelemek, alrendszerek, strukturális alrendszerek megfelelőségére és minőségére vonatkozó értékelésére, valamint az építési termékek teljesítményére);
 
 ## d) a vágányok melletti és fölötti létesítményeknek a vágánytengelytől és a sínkorona-szinttől mért távolságait, valamint a szabadon tartott tér felmérését tartalmazó jegyzőkönyv;
 
@@ -110,7 +110,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3. Biztosítóberendezés:
+## 3.3.[^28] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) a vasút üzemeltetője által jóváhagyott Kezelési Szabályzat;
 
@@ -120,9 +120,35 @@
 
 ## d) az üzembe helyezés megkezdéséhez adott engedélyt;
 
-## e) a biztosítóberendezés alkalmassági tanúsítványa és elektronikus biztosítóberendezés tanúsítói nyilatkozatai az elektronikus biztosítóberendezés szoftverére;
+## e) a berendezés alkalmassági tanúsítványa és elektronikus berendezés tanúsítói nyilatkozatai az elektronikus berendezés szoftverére;
 
-## f) ideiglenes üzemengedély, forgalmi üzembe helyezési rendelet.
+## f) ideiglenes üzemengedély, forgalmi üzembe helyezési rendelet;
+
+## g) a berendezésben megvalósult szoftverfrissítés műszaki leírása;
+
+## h) a különleges kezeléseket érintő szoftverfrissítéshez tartozóan kiadott hatósági engedélyek száma;
+
+## i) a meglévő biztonság integritási szint (SIL) SIL0 szintű funkció javításáról kiállított tanúsítói nyilatkozat;
+
+## j) az új SIL0 szintű funkció első alkalmazásakor, vagy meglévő funkció jelentősebb módosításakor, a tanúsító előzetes nyilatkozatán kívül, kockázatelemzés és biztonságértékelés;
+
+## k) a SIL1, SIL2, SIL3, SIL4 szintű biztonsági funkciókat érintő szoftverfrissítés esetén tanúsító bevonásával megvalósult független biztonságértékelési eljárás eredménye, amelyben igazolni kell, hogy a biztonság integritási szint (SIL) nem csökken;
+
+## l) a szoftverfrissítést követően – üzemi próba keretében – elvégzett vizsgálat eredménye, amelyben igazolásra kerül, hogy a frissítés által érintett funkcionalitás megfelelő, a valós forgalmi/üzemi helyzetek bekövetkeztek, és a kezelőszemélyzet gyakorlottsága a frissítés által bekövetkezett változások vonatkozásában is eléri a kívánt szintet; az egyes szoftverfrissítésekhez tartozó elegendő üzemi próbaidőt a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen kell meghatároznia;
+
+## m) a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen tett nyilatkozata arra vonatkozóan, hogy az üzemi próba
+
+## ma) a teljes rendszerre,
+
+## mb) csak bizonyos funkciókra, funkciócsoportokra, vagy
+
+## mc) csak bizonyos területre
+
+## vonatkozott;
+
+## n) az üzemi próba során vezetett próbaüzemi napló másolatát;
+
+## o) a szoftverfrissítésekről vezetett nyilvántartást.
 
 ## 3.4. Villamos felsővezeték:
 
@@ -152,7 +178,7 @@
 
 ## 4. Helyhez kötött gépészeti berendezések
 
-## 4.1. Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés):
+## 4.1.[^29] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -203,6 +229,26 @@
 ## c) vasúti terhet viselő szerkezetek vizsgálatáról készített jegyzőkönyv és adatlapok;
 
 ## d) a fénytechnikai felülvizsgálati jegyzőkönyv, vagy állapotterv.
+
+## 4.5.[^30] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+
+## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
+
+## b) pályán mozgó gép (pl. darupálya) pályájának szintezési, fesztáv- és kígyózás-mérési jegyzőkönyve;
+
+## c) a villamos berendezésekre vonatkozó szerelői nyilatkozat;
+
+## d) a csővezetékek, tárolótartályok esetén a nyomás, vagy tömítettségi próbáról készített jegyzőkönyv;
+
+## e) az emelőgépek esetén a terhelési vizsgálatról készült jegyzőkönyv;
+
+## f) munkavédelmi minősítő bizonyítvány azokra a gépekre, amelyekre ennek szükségességét a jogszabály előírja;
+
+## g) a vasúti terhet viselő és a vasút feletti szerkezetek vizsgálatáról készített jegyzőkönyv és adatlapok;
+
+## h) a térvilágítás fénytechnikai felülvizsgálati jegyzőkönyv, vagy állapotterv;
+
+## i) a felvonók, mozgólépcsők és mozgó járdák esetében a vasúti környezetben való alkalmazhatóságot igazoló tanúsítás.
 
 3. melléklet a 289/2012. (X. 11.) Korm. rendelethez
 
@@ -284,4 +330,7 @@ b) területrendezésre és újrahasznosításra vonatkozó tervek;
 
 c) műszaki leírás.
 
-[^4]: A 2. melléklet 1. pont c) alpontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^27]: A 2. melléklet 1. pont c) alpontja a 328/2013. (IX. 3.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^28]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^29]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
+[^30]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.

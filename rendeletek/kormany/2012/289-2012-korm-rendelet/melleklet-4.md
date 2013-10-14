@@ -26,7 +26,7 @@ ad) vasúti átjárók, burkolt vágányok átépítése, amennyiben a vasúti p
 
 ae) munkagépek tárolása, anyagtároló területek megközelítése céljából két évnél rövidebb időtartamra ideiglenes céllal létesülő vágányok,
 
-af) korlátozott szolgáltatási szintű forgalom lebonyolítására, vagy építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló vágány építése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb a használatbavétel időpontjáig kerülnek megépítésre,
+af)[^31] építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló vágány építése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb a használatbavétel időpontjáig kerülnek megépítésre,
 
 ag) vasúti alépítményi szerkezetek kialakítása, cseréje, megerősítése;
 
@@ -36,9 +36,9 @@ ba) vasúti jelzőberendezések létesítése, átalakítása, megszüntetése,
 
 bb) olyan biztosító, vagy védelmi berendezések bontása, amelyeknél a védendő vasúti pálya megszűnik, és a biztosító, vagy védelmi berendezés nincs szerkezeti függésben elbontásra nem kerülő berendezéssel,
 
-bc) vasúti átjárót fedező sorompó berendezés létesítése, átalakítása és megszüntetése, ha annak működése nincs összefüggésben közúti forgalomirányító fényjelző készülékkel,
+bc)[^32] vasúti átjárót fedező sorompó berendezés létesítése, átalakítása és megszüntetése, ha annak működése nincs összefüggésben vasúti biztosító berendezéssel vagy közúti forgalomirányító fényjelző készülékkel,
 
-bd) vasúti biztosítóberendezés, vagy folyamatirányító automatika, központi forgalomirányító berendezés, vagy ezek szoftverének olyan átalakítása, amely a berendezés rendszerét annak teljes hatáskörzetére kiterjedően nem változtatja meg,
+bd)[^33] vasúti biztosítóberendezés, vagy folyamatirányító automatika, központi forgalomirányító berendezés olyan, az 1. és 2. mellékletnek megfelelően dokumentált átalakítása, amely a berendezés rendszerét annak teljes hatáskörzetére kiterjedően nem változtatja meg.
 
 be) vasúti pályára telepített járműdiagnosztikai berendezések létesítése, átalakítása és megszüntetése, ha nem kapcsolódnak jelző vagy biztosítóberendezéshez,
 
@@ -50,7 +50,7 @@ bh) olyan védelmi berendezések telepítése, vagy bontása, amelyek nincsenek 
 
 bi) kizárólag jelzőeszközök elhelyezését szolgáló létesítmények, jelzőhidak telepítése, bontása;
 
-c) vasúti hidak, alagutak, támfalak, vasúti peron, vasúti peronhoz vezető gyalogos aluljárók esetében:
+c)[^34] vasúti hidak, alagutak, támfalak, esetében:
 
 ca) 5 m vagy annál kisebb szabadnyílású állandó jellegű híd létesítése, vagy megszüntetése,
 
@@ -62,22 +62,30 @@ cd) valamely káresemény elhárítása, vagy építési munkák miatt ideiglene
 
 ce) vasúti alagút olyan átalakítása, amely az alagút erőtani szerkezetét nem változtatja meg,
 
-cf) tám- és bélésfal, görgetegfogó fal létesítése és bontása,
+cf)[^35] tám- és bélésfal, görgetegfogó fal létesítése és bontása, ha idegen tulajdonú területet nem érint;
 
-cg) a vonatok megközelítését szolgáló peronok építése és átalakítása, amennyiben a vágány használatbavételi engedélyében meghatározott sebesség 100 km/h vagy annál kisebb és megfelel az ágazati műszaki előírásokban rögzített paramétereknek,
-
-ch) a vasút elzárt területein az illetéktelenek szabad mozgását megakadályozó eszközök, kerítések, korlátok, peronlezáró elemek telepítése, bontása;
+cg)–ch)[^36]
 
 d) vasúti villamos felsővezeték és a hozzá kapcsolt berendezések esetében:
 
-da) a vasúti felsővezeték átépítése,
+da)[^37]
 
 db) a felsővezetéki hosszlánc, munkavezeték cseréje, ha nem jár sebesség növeléssel,
 
 dc) a kapcsoló szekrények, kapcsolókertek átalakítása, ha az áramköri kialakítás nem változik,
 
-dd) korlátozott szolgáltatási szintű forgalom lebonyolítására, vagy építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló felsővezetéki berendezések telepítése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb két évre kerülnek beépítésre;
+dd)[^38] építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló felsővezetéki berendezések telepítése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb két évre kerülnek beépítésre;
 
 e) vasúti térvilágítási berendezések átépítése, bővítése, ha a fénytechnikai paraméterek, a megvilágítás, fénysűrűség, térbeli egyenletesség előírt értéke nem változik, zavaró hatások nem keletkeznek;
 
-f) vágányba épített mérlegek létesítése, átalakítása és megszüntetése, ha nem jár a vágány folytonosságának megszakításával.
+f)[^39]
+
+[^31]: A 4. melléklet a) pont af) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^32]: A 4. melléklet b) pont bc) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^33]: A 4. melléklet b) pont bd) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^34]: A 4. melléklet c) pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^35]: A 4. melléklet c) pont cf) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^36]: A 4. melléklet c) pont cg)–ch) alpontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^37]: A 4. melléklet d) pont da) alpontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^38]: A 4. melléklet d) pont dd) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^39]: A 4. melléklet f) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.

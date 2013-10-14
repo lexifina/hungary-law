@@ -12,7 +12,7 @@
 
 ## e) a hatásterület ügyfeleinek kimutatása;
 
-## f)[^3] amennyiben a megvalósításhoz más tulajdonában álló ingatlant kell igénybe venni, az érintett ingatlanokról készült kisajátítási terv;
+## f)[^16] amennyiben a megvalósításhoz más tulajdonában álló ingatlant kell igénybe venni, az érintett ingatlanokról készült kisajátítási terv;
 
 ## g) amennyiben a kisajátítási eljárás termőföldet érint, az ingatlanügyi hatóság termőföld más célú hasznosítására vonatkozó jogerős engedélye;
 
@@ -154,7 +154,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3. Biztosítóberendezés:
+## 3.3.[^17] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) torzított helyszínrajz;
 
@@ -170,7 +170,31 @@
 
 ## e) amennyiben a vasúti átjáró biztosítási módját nem a vasúti közlekedési hatóság határozza meg, a vasúti átjárók biztosítási módjáról szóló határozat;
 
-## f) végleges alkalmassági tanúsítvánnyal nem rendelkező berendezések esetében előzetes alkalmassági tanúsítvány, legkésőbb a létesítés megkezdéséig.
+## f) végleges alkalmassági tanúsítvánnyal nem rendelkező berendezések esetében előzetes alkalmassági tanúsítvány, legkésőbb a létesítés megkezdéséig;
+
+## g)[^18] a berendezésben megvalósítani tervezett szoftverfrissítés műszaki leírása;
+
+## h)[^19] a különleges kezeléseket érintő szoftverfrissítéshez tartozóan korábban kiadott hatósági engedélyek;
+
+## i)[^20] a meglévő SIL0 szintű funkció javításáról kiállított előzetes vagy közbenső tanúsítói nyilatkozat;
+
+## j)[^21] az új SIL0 szintű funkció első alkalmazásakor, vagy meglévő funkció jelentősebb módosításakor, a tanúsító előzetes nyilatkozata, valamint kockázatelemzés és biztonságértékelés;
+
+## k)[^22] a SIL1, SIL2, SIL3, SIL4 szintű biztonsági funkciókat érintő szoftverfrissítés esetén tanúsító bevonásával megvalósult független biztonságértékelési eljárás eredménye, amelyben igazolni kell, hogy a biztonság integritási szint (SIL) nem csökken;
+
+## l)[^23] a szoftverfrissítést követő üzemi próba kiértékelésének kritériumai, amelynél az egyes szoftverfrissítésekhez tartozó elegendő üzemi próbaidőt a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen kell meghatároznia;
+
+## m)[^24] a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen tett nyilatkozata arra vonatkozóan, hogy az üzemi próba
+
+## ma) a teljes rendszerre,
+
+## mb) csak bizonyos funkciókra, funkciócsoportokra, vagy
+
+## mc) csak bizonyos területre
+
+## vonatkozott;
+
+## n)[^25] szoftvermódosítási utasítás.
 
 ## 3.4. Villamos felsővezeték:
 
@@ -298,6 +322,36 @@
 
 ## i) a berendezések és környezetük megvilágításának terve.
 
+## 4.5.[^26] Egyéb vasútgépészeti berendezés (vágányba épített vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+
+## a) helyszínrajz;
+
+## b) műszaki leírás;
+
+## c) alaprajz;
+
+## d) metszetek;
+
+## e) fő összeállítási terv;
+
+## f) részletterv:
+
+## fa) az üzem közben az űrszelvénybe is benyúló szerkezetek elrendezéséről, működéséről és rögzítéséről,
+
+## fb) vasúti vágányba épülő építmények, vagy pályán mozgó gépek, berendezések esetén a sínleerősítés és pályaterv;
+
+## g) erőtani számítás a vasúti terhet viselő és a vasút feletti szerkezetek esetén;
+
+## h) villamos és érintésvédelmi terv;
+
+## i) vízellátás, víztelenítés terve;
+
+## j) közművezetékek kimutatása;
+
+## k) védelmi berendezések tervei;
+
+## l) felvonók, mozgólépcsők és mozgó járdák esetében a vasúti környezetben való alkalmazhatóságot igazoló dokumentum.
+
 ## 5. Feltétfüzet:
 
 ## a) feltétfüzet üzemeltetői nyilatkozattal záradékolva;
@@ -306,4 +360,14 @@
 
 2. melléklet a 289/2012. (X. 11.) Korm. rendelethez
 
-[^3]: Az 1. melléklet 1. pont f) alpontja a 154/2013. (V. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 1. pont f) alpontja a 154/2013. (V. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^17]: Az 1. melléklet 3.3. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^18]: Az 1. melléklet 3.3. pont g) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^19]: Az 1. melléklet 3.3. pont h) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^20]: Az 1. melléklet 3.3. pont i) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^21]: Az 1. melléklet 3.3. pont j) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^22]: Az 1. melléklet 3.3. pont k) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^23]: Az 1. melléklet 3.3. pont l) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^24]: Az 1. melléklet 3.3. pont m) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^25]: Az 1. melléklet 3.3. pont n) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^26]: Az 1. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.

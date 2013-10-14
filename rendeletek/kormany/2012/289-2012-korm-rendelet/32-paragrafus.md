@@ -32,7 +32,7 @@ i) az eljárási illeték vagy igazgatási szolgáltatási díj megfizetésének
 
 (5) A tervezői nyilatkozat tartalmazza
 
-a) az építtető nevét, jogi személy vagy jogi személyiség nélküli szervezet esetén megnevezését,
+a)[^7] az építtető nevét, jogi személy megnevezését,
 
 b) a felelős tervező nevét, címét, jogosultsága számát,
 
@@ -45,3 +45,5 @@ cb) helyét, az ingatlan címét, helyrajzi számát, és
 cc) rövid leírását, jellemzőit.
 
 (6) A felelős műszaki vezetői nyilatkozat az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározottakat tartalmazza.
+
+[^7]: A 32. § (5) bekezdés a) pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
