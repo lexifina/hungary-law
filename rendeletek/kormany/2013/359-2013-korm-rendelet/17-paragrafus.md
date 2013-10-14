@@ -1,0 +1,3 @@
+17. § (1) Közbeszerzési jogsértés gyanúja esetén a nemzeti hatóság vezetője a közbeszerzésekről szóló törvény rendelkezéseivel összhangban kezdeményezi a Közbeszerzési Döntőbizottság eljárását, és ezzel egyidejűleg dönt a szabálytalansági eljárás 19. § szerinti felfüggesztéséről.
+
+(2) Közbeszerzést érintő szabálytalanság megállapítása esetén a szabálytalansággal érintett közbeszerzési eljárásban az ajánlatkérő nevében eljáró vagy az eljárásba bevont személyt megillető támogatás kifizetése megtagadható, visszakövetelhető, és a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
