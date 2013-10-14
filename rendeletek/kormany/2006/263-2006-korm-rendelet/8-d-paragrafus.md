@@ -16,17 +16,29 @@ f)[^179] ha az építmény külterületen, továbbá belterületen egyedi tájé
 
 g)[^180] helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló vasúti építmény esetén, – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó helyi önkormányzati rendeletben meghatározott követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a települési önkormányzat jegyzőjét, a fővárosban a főjegyzőt, másodfokú eljárásban a fővárosi és megyei kormányhivatalt,
 
-h)[^181] erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló területen vagy arra közvetlen hatást gyakorló módon megvalósuló – normál és keskeny nyomtávú – vasúti pályaépítmény esetén, – annak elbírálása kérdésében, hogy a tevékenység az erdő védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a megyei kormányhivatal erdészeti igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
+h)[^181] erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló területen vagy arra közvetlen hatást gyakorló módon megvalósuló – normál és keskeny nyomtávú – vasúti pályaépítmény esetén, – annak elbírálása kérdésében, hogy a tevékenység az erdő védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a megyei kormányhivatal erdészeti igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+
+i)[^182] amennyiben az eljárás vasúti alagutat érint, a katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében első fokú eljárásban a hivatásos katasztrófavédelmi szerv területi szervét, másodfokú eljárásban a hivatásos katasztrófavédelmi szerv központi szervét,
+
+j)[^183] ha az építmény építése, megszüntetése közutat vagy annak biztonsági övezetét érinti és a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja, annak elbírálása kérdésében, hogy a közút területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a közúti forgalom biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján – engedélyezhető-e,
+
+ja) gyorsforgalmi út, valamint közúti határátkelőhely közlekedési építményei kivételével, az országos közút, továbbá a főváros kivételével a települési önkormányzat tulajdonában lévő helyi közutak esetében első fokú eljárásban a fővárosi és megyei kormányhivatal közlekedési felügyelőségét,
+
+jb) a Fővárosi Önkormányzat tulajdonában lévő helyi közutak esetében első fokú eljárásban Budapest Főváros Kormányhivatalának Közlekedési Felügyelőségét,
+
+jc) a fővárosi kerületi önkormányzatok tulajdonában lévő közutak esetében első fokú eljárásban a Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, másodfokú eljárásban a Budapest Főváros Kormányhivatalának Közlekedési Felügyelőségét
 
 ## szakhatóságként jelöli ki.
+
+(1a)[^184] A Kormány a felszín alatti vasutak vasúti üzemi létesítményei, valamint a vasúti üzemi létesítményekhez kapcsolódó felvonók, mozgólépcsők és mozgójárdák engedélyezésére irányuló eljárásban az 1. mellékletben meghatározott esetekben és szakkérdésben az 1. mellékletben meghatározott hatóságokat szakhatóságként jelöli ki.
 
 (2) Az (1) bekezdés szerinti eljárásban
 
 a) ügyfélnek az eljárás megindítását megelőzően benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki,
 
-b)[^182] a meghozott döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
+b)[^185] a meghozott döntést – az (1) bekezdés i) pontja szerinti eljárás kivételével – az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
-(3)[^183] A Kormány az (1) bekezdésben nem említett, a hagyományos és a nagysebességű transzeurópai vasúti rendszerrel összefüggésben a Vtv. 10. § (1) bekezdés b)–d) pontja szerinti műszaki engedély kiadására irányuló vasúti hatósági eljárásban
+(3)[^186] A Kormány az (1) bekezdésben nem említett, a hagyományos és a nagysebességű transzeurópai vasúti rendszerrel összefüggésben a Vtv. 10. § (1) bekezdés b)–d) pontja szerinti műszaki engedély kiadására irányuló vasúti hatósági eljárásban
 
 a) a zajvédelemre vonatkozó követelményeknek való megfelelés megállapítása érdekében,
 
@@ -46,5 +58,8 @@ első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi 
 [^179]: A 8/D. § (1) bekezdés f) pontja a 82/2011. (V. 18.) Korm. rendelet 28. §-ával megállapított szöveg.
 [^180]: A 8/D. § (1) bekezdés g) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés o) pontja szerint módosított szöveg.
 [^181]: A 8/D. § (1) bekezdés h) pontját a 145/2009. (VII. 10.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés n) pontja, a 23/2012. (II. 29.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
-[^182]: A 8/D. § (2) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^183]: A 8/D. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 487. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^182]: A 8/D. § (1) bekezdés i) pontját a 358/2013. (X. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^183]: A 8/D. § (1) bekezdés j) pontját a 358/2013. (X. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^184]: A 8/D. § (1a) bekezdését a 358/2013. (X. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^185]: A 8/D. § (2) bekezdés b) pontja a 358/2013. (X. 9.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^186]: A 8/D. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 487. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

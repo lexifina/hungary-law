@@ -14,7 +14,7 @@
 
 | 6. | A berendezés típuscseréje, valamint a repülőtér területén történő légiforgalmi berendezés telepítése kivételével a nem ionizáló sugárzó berendezést szolgáló építmény hatósági engedélyezése esetén. | A berendezés sugár-egészségügyi hatásai, kockázatai. | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve Sugár-egészségügyi Decentruma | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
-5. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^230]
+5. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^235]
 
 I. A kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati
 
@@ -44,7 +44,7 @@ eljárásban közreműködő szakhatóságok
 
 | 6. | Ha a hajózási létesítmény régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon valósul meg. | Annak elbírálása kérdésében, hogy a hajózási létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | Ha a hajózási létesítmény régészeti lelőhelyen vagy régészeti védőövezet területén valósul meg, Budapest Főváros Kormányhivatala építésügyi és örökségvédelmi hivatala, ha a hajózási létesítmény műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon valósul meg, a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala. | IGEN | IGEN | IGEN |
 
-| 7. | Minden esetben | Az építmény elhelyezése megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala | IGEN | NEM | NEM |
+| 7. | Minden esetben | Az építmény elhelyezése megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | fővárosi és megyei kormányhivatal | IGEN | NEM | NEM |
 
 II. A hajókiemelő berendezés elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, adatváltozás átvezetésére irányuló eljárásában, valamint a tervtől eltérés engedélyezése iránt eljárásában részt vevő szakhatóságok
 
@@ -70,7 +70,7 @@ vonatkozásában a tervtől eltérés engedélyezési eljárásában közreműk�
 
 | b) Annak elbírálása kérdésében, hogy a tevékenység alapján jelentős környezeti hatások feltételezhetők-e. |
 
-| 2. | Új, vízi állásnak nem minősülő, legalább 20 csónak fogadására alkalmas csónakkikötő esetén. | Az építmény elhelyezése megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala | IGEN | NEM | NEM |
+| 2. | Új, vízi állásnak nem minősülő, legalább 20 csónak fogadására alkalmas csónakkikötő esetén. | Az építmény elhelyezése megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | az építési tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzője a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | fővárosi és megyei kormányhivatal | IGEN | NEM | NEM |
 
 | 3. | Ha az eljárás határátlépéssel kapcsolatos vagy határvizek területét érinti. | az államhatár rendje, a határrend-sértések és határesemények megelőzéséhez szükséges feltételek megléte | megyei, fővárosi rendőr- főkapitányság | Országos Rendőr- főkapitányság | IGEN | IGEN | IGEN |
 
@@ -100,4 +100,4 @@ engedélyezési eljárásban részt vevő szakhatóságok
 
 | 5. | Vízisportpálya esetén, ha a tevékenység halgazdálkodási vízterületet érint. | Annak elbírálása kérdésében, hogy a tevékenység a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | megyei, fővárosi kormányhivatal földművelésügyi igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal | IGEN | IGEN | IGEN |
 
-[^230]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a, a 296/2012. (X. 17.) Korm. rendelet 22. § g) pontja, a 394/2012. (XII. 20.) Korm. rendelet 14. § (3) bekezdése, a 255/2013. (VII. 5.) Korm. rendelet 18. §-a, a 323/2013. (VIII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^235]: Az 5. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 114. § (2) bekezdése, a 326/2010. (XII. 27.) Korm. rendelet – a 351/2010. (XII. 30.) Korm. rendelet 290. §-ával megállapított – 13. §-a, a 158/2011. (VIII. 11.) Korm. rendelet 8. § (3) bekezdés b) pontja, a 82/2011. (V. 18.) Korm. rendelet 34. §-a, a 296/2012. (X. 17.) Korm. rendelet 22. § g) pontja, a 394/2012. (XII. 20.) Korm. rendelet 14. § (3) bekezdése, a 255/2013. (VII. 5.) Korm. rendelet 18. §-a, a 323/2013. (VIII. 28.) Korm. rendelet 1. §-a, a 358/2013. (X. 9.) Korm. rendelet 1. § (9) bekezdése szerint módosított szöveg.

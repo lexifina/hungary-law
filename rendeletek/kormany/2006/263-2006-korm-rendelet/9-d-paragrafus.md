@@ -1,4 +1,4 @@
-## 9/C. §[^201] E rendeletnek a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosításáról szóló 323/2012. (XI. 16.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított 5. § (10) és (11) bekezdését a Mód. Kr2. hatálybalépésekor[^202] folyamatban lévő eljárásokban is alkalmazni kell.
+## 9/C. §[^204] E rendeletnek a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet módosításáról szóló 323/2012. (XI. 16.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított 5. § (10) és (11) bekezdését a Mód. Kr2. hatálybalépésekor[^205] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^201]: A 9/C. §-t a 323/2012. (XI. 16.) Korm. rendelet 5. §-a iktatta be.
-[^202]: A hatálybalépés időpontja 2012. november 17.
+[^204]: A 9/C. §-t a 323/2012. (XI. 16.) Korm. rendelet 5. §-a iktatta be.
+[^205]: A hatálybalépés időpontja 2012. november 17.
