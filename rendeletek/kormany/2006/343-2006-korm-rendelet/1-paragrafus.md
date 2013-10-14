@@ -1,6 +1,6 @@
 ## Az építésügyi hatóság
 
-1. §[^1] (1)[^2] A Kormány – a (2)–(4) bekezdésben meghatározott építésügyi hatósági ügyek, a sajátos építményfajták és a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott hatósági ügyek kivételével – az első fokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként (a továbbiakban: első fokú építésügyi hatóság) az építmények, építési tevékenységek tekintetében a járásszékhely települési önkormányzat jegyzőjét és a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki. A járásszékhely települési önkormányzat jegyzőjének illetékessége a járási (fővárosi kerületi) hivatalokról szóló 218/2012. (VIII. 13.) Korm. rendelet 1. mellékletében meghatározott településekre terjed ki.
+1. §[^1] (1)[^2] A Kormány – a (2)–(4) bekezdésben meghatározott építésügyi hatósági ügyek, a sajátos építményfajták és a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározott hatósági ügyek, valamint a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott építmények hatósági ügyeinek kivételével – az első fokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként (a továbbiakban: első fokú építésügyi hatóság) az építmények, építési tevékenységek tekintetében a járásszékhely települési önkormányzat jegyzőjét és a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki. A járásszékhely települési önkormányzat jegyzőjének illetékessége a járási (fővárosi kerületi) hivatalokról szóló 218/2012. (VIII. 13.) Korm. rendelet 1. mellékletében meghatározott településekre terjed ki.
 
 (2) A Kormány
 
@@ -22,13 +22,13 @@ f) az első fokú építésügyi hatóságot érintő kizárási ügyben
 
 (4)[^3] A Kormány a fővárosban – az (1) bekezdésben meghatározott feladatok mellett – az Étv. rendelkezései alapján a helyi építészeti értékvédelem alá vont építmények esetében az első fokú építésügyi hatósági feladatok ellátására a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki.
 
-(5)[^4] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként, valamint a műemlékvédelem területén a külön jogszabályban meghatározott másodfokú feladatok ellátására az építmények, építési tevékenységek tekintetében – a sajátos építményfajták, valamint a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározottak kivételével – a fővárosi és megyei kormányhivatal szakigazgatási szerveként működő építésügyi és örökségvédelmi hivatalának építésfelügyeleti hatósági és örökségvédelemmel kapcsolatos hatósági feladatokat is ellátó önálló feladat- és hatáskörrel rendelkező szervezeti egységét (a továbbiakban: másodfokú építésügyi hatóság) jelöli ki.
+(5)[^4] A Kormány a másodfokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként, valamint a műemlékvédelem területén a külön jogszabályban meghatározott másodfokú feladatok ellátására az építmények, építési tevékenységek tekintetében – a sajátos építményfajták, valamint a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendeletben meghatározottak valamint a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet 1. § (1) bekezdés d) pontjában meghatározott építmények hatósági ügyeinek kivételével – a fővárosi és megyei kormányhivatal szakigazgatási szerveként működő építésügyi és örökségvédelmi hivatalának építésfelügyeleti hatósági és örökségvédelemmel kapcsolatos hatósági feladatokat is ellátó önálló feladat- és hatáskörrel rendelkező szervezeti egységét (a továbbiakban: másodfokú építésügyi hatóság) jelöli ki.
 
-(6) A Kormány a hírközlési sajátos építményfajták közül az antennák, antennatartó szerkezetek, az azokhoz tartozó műtárgyak tekintetében első fokú építésügyi hatóságként a (2) bekezdés, másodfokú építésügyi hatóságként az (5) bekezdés szerinti feladatokat ellátó építésügyi hatóságot jelöli ki.
+(6)[^5]
 
 (7) A sajátos építményfajták tekintetében az építésügyi hatósági feladatokat ellátó hatóságot külön jogszabály jelöli ki. Ilyen jogszabály hiányában ezen építményfajtákat és építményeket érintő építésügyi hatósági ügyekben a (2) és az (5) bekezdés szerinti feladatokat ellátó építésügyi hatóság jár el.
 
-(8) Azokban az esetekben, amikor az ügyfajtára vonatkozó jogszabály általános építésügyi szakkérdésben szakhatóság közreműködését rendeli el, a Kormány a kiemelt jelentőségű ügyben – a kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendelet eltérő rendelkezése hiányában – szakhatóságként első fokon a (2) bekezdés szerinti hatóságot, másodfokon az (5) bekezdés szerinti hatóságot jelöli ki.
+(8)[^6] A Kormány azokban az esetekben, amikor az ügyfajtára vonatkozó jogszabály általános építésügyi szakkérdésben szakhatóság közreműködését rendeli el, vagy kiemelt jelentőségű ügyben – a kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendelet eltérő rendelkezése hiányában – szakhatóságként első fokon a (2) bekezdés szerinti hatóságot, másodfokon az (5) bekezdés szerinti hatóságot jelöli ki.
 
 (9) Építésügyi Szolgáltatási Pontként az 1. melléklet III. részében meghatározott városi és 5000 fő lakosságszám feletti települési önkormányzat a következő építésügyi szolgáltatási feladatokat látja el:
 
@@ -43,6 +43,8 @@ d) az építésügyi hatósági eljárás illetékének és az építésügyi ig
 e) települési önkormányzati egyéb műszaki, üzemeltetési feladatok.
 
 [^1]: Az 1. § a 394/2012. (XII. 20.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 358/2013. (X. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (4) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^4]: Az 1. § (5) bekezdése a 67/2013. (III. 8.) Korm. rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdése a 358/2013. (X. 9.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 2. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (8) bekezdése a 358/2013. (X. 9.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
