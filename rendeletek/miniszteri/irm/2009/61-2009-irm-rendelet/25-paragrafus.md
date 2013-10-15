@@ -1,6 +1,6 @@
 ## 11. Hivatkozás államigazgatási szervre
 
-25. § (1)[^25] A törvény tervezetében feladat- és hatáskör címzettjeként az államigazgatási szervet – a Kormány, a Miniszterelnökség, a minisztérium, az önálló szabályozó szervek, az autonóm államigazgatási szervek, a rendvédelmi szervek és a kormányhivatal kivételével – köznévvel kell megjelölni, és szükség szerint törvényi felhatalmazást kell biztosítani a Kormány részére, hogy a köznévi formában megjelölt szervet rendeletben jelölje ki.
+25. § (1)[^26] A törvény tervezetében feladat- és hatáskör címzettjeként az államigazgatási szervet – a Kormány, a Miniszterelnökség, a minisztérium, az önálló szabályozó szervek, az autonóm államigazgatási szervek, a rendvédelmi szervek és a kormányhivatal kivételével – köznévvel kell megjelölni, és szükség szerint törvényi felhatalmazást kell biztosítani a Kormány részére, hogy a köznévi formában megjelölt szervet rendeletben jelölje ki.
 
 (2) A törvény tervezetében a minisztert a feladatköre szerint kell megjelölni. Más jogszabály tervezetében a minisztert a feladatköre szerint kell megjelölni, kivéve, ha a szabályozás célja így nem biztosítható.
 
@@ -24,4 +24,4 @@ d) az a)–c) pontban meghatározott törvény módosításáról szóló törv�
 
 e) törvény kivételével az olyan jogszabály tervezetét, amelyben a szabályozás célja így nem biztosítható.
 
-[^25]: A 25. § (1) bekezdése a 43/2011. (XII. 31.) KIM rendelet 14. § (6) bekezdése szerint módosított szöveg.
+[^26]: A 25. § (1) bekezdése a 43/2011. (XII. 31.) KIM rendelet 14. § (6) bekezdése szerint módosított szöveg.

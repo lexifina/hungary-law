@@ -1,4 +1,4 @@
-1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^99]
+1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^101]
 
 A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szövegezési minták
 
@@ -46,9 +46,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a rendelet megalkotójának teljes megjelölése} …/… . (… . … .) {a rendelet megalkotójának rövid megjelölése} rendelete {a rendelet címe} |
 
-2.3.9. A Pénzügyi Szervezetek Állami Felügyelete elnöke rendelete tervezetének a megjelölése
+2.3.9. A Magyar Energetikai és Közmű-szabályozási Hivatal elnöke rendelete tervezetének a megjelölése
 
-| A Pénzügyi Szervezetek Állami Felügyelete elnökének .../... . (... . ... .) PSZÁF rendelete {a rendelet címe} |
+| A Magyar Energetikai és Közmű-szabályozási Hivatal elnökének ...../..... (..... .....) MEKH rendelete {a rendelet címe} |
 
 2.3.10. A Nemzeti Média- és Hírközlési Hatóság elnöke rendelete tervezetének a megjelölése
 
@@ -168,9 +168,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály kihirdetése évének a száma}. évi {a jogszabály száma}. [törvény (VAGY) törvényerejű rendelet] |
 
-4.1.4. A kormányrendeletre, a Magyar Nemzeti Bank elnökének a rendeletére, a miniszterelnök rendeletére, a miniszteri rendeletre, a Pénzügyi Szervezetek Állami Felügyelete elnökének rendeletére vagy a Nemzeti Média és Hírközlési Hatóság elnökének rendeletére vonatkozó merev hivatkozás
+4.1.4. A kormányrendeletre, a Magyar Nemzeti Bank elnökének a rendeletére, a miniszterelnök rendeletére, a miniszteri rendeletre, a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének rendeletére vagy a Nemzeti Média és Hírközlési Hatóság elnökének rendeletére vonatkozó merev hivatkozás
 
-| {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály száma}/{a jogszabály kihirdetése évének a száma}. ({a jogszabály kihirdetése hónapjának a száma}. {a jogszabály kihirdetése napjának a száma}.) [Korm. (VAGY) MNB (VAGY) ME (VAGY) {a miniszteri rendelet megalkotójának a rövid megjelölése} (VAGY) PSZÁF (VAGY) NMHH] rendelet |
+| {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály száma}/{a jogszabály kihirdetése évének a száma}. ({a jogszabály kihirdetése hónapjának a száma}. {a jogszabály kihirdetése napjának a száma}.) [Korm. (VAGY) MNB (VAGY) ME (VAGY) {a miniszteri rendelet megalkotójának a rövid megjelölése} (VAGY) MEKH (VAGY) NMHH] rendelet |
 
 4.1.5. Az együttes miniszteri rendeletre vonatkozó merev hivatkozás
 
@@ -552,9 +552,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a feladatkör megjelölése} meghatározott feladatkörében eljárva |
 
-7.1.2.2. A feladatkörre vagy feladatkörökre vonatkozó hivatkozás felépítése MNB rendelet, miniszteri rendelet, PSZÁF rendelet vagy NMHH rendelet tervezetének bevezető részében
+7.1.2.2. A feladatkörre vagy feladatkörökre vonatkozó hivatkozás felépítése MNB rendelet, miniszteri rendelet, MEKH rendelet vagy NMHH rendelet tervezetének bevezető részében
 
-7.1.2.2.1. Egyetlen feladatkörre vonatkozó hivatkozás felépítése MNB rendelet, miniszteri rendelet, PSZÁF rendelet vagy NMHH rendelet tervezetének a bevezető részében
+7.1.2.2.1. Egyetlen feladatkörre vonatkozó hivatkozás felépítése MNB rendelet, miniszteri rendelet, MEKH rendelet vagy NMHH rendelet tervezetének a bevezető részében
 
 | {a feladatkör megjelölése} meghatározott feladatkörömben eljárva |
 
@@ -622,7 +622,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | […] a következőket rendeli el |
 
-7.5.1.2. A jogalkotás aktusára vonatkozó kifejezés MNB rendelet, miniszteri rendelet, PSZÁF rendelet vagy NMHH rendelet tervezetének a bevezető részében
+7.5.1.2. A jogalkotás aktusára vonatkozó kifejezés MNB rendelet, miniszteri rendelet, MEKH rendelet vagy NMHH rendelet tervezetének a bevezető részében
 
 | […] a következőket rendelem el |
 
@@ -664,7 +664,7 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 |  | (VAGY) |
 
-| a Pénzügyi Szervezetek Állami Felügyeletének elnöke |
+| a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke |
 
 |  | (VAGY) |
 
@@ -1572,4 +1572,4 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 19.
 
-[^99]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a szerint módosított szöveg.
+[^101]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a, a 25/2013. (X. 14.) KIM rendelet 1. § (3) bekezdés b)–e) pontja és (4) bekezdése szerint módosított szöveg.
