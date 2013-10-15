@@ -4,9 +4,9 @@
 
 (2) A közigazgatási és igazságügyi miniszter (a továbbiakban: miniszter), valamint az állami vagyon felügyeletéért felelős miniszter megállapodásban jelöli ki az integrált üdültetési rendszerhez tartozó üdülőket. A miniszterek a megállapodást minden év december 31. napjáig felülvizsgálják és indokolt esetben kezdeményezik a megállapodás módosítását.
 
-(3)[^1] Az üdülők üzemeltetéséről és az integrált üdültetési rendszer működtetéséről a miniszter gondoskodik, amely tevékenységéhez az Erzsébet Szállodák, Táborok és Vendég házak Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait veszi igénybe.
+(3)[^2] Az üdülők üzemeltetéséről és az integrált üdültetési rendszer működtetéséről a miniszter gondoskodik, amely tevékenységéhez az Erzsébet Szállodák, Táborok és Vendég házak Nonprofit Közhasznú Korlátolt Felelősségű Társaság szolgáltatásait veszi igénybe.
 
-(4)[^2]
+(4)[^3]
 
-[^1]: A 2. § (3) bekezdése a 7/2013. (VI. 26.) KIM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (4) bekezdését a 7/2013. (VI. 26.) KIM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (3) bekezdése a 7/2013. (VI. 26.) KIM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (4) bekezdését a 7/2013. (VI. 26.) KIM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
