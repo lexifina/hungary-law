@@ -1,0 +1,1 @@
+## „(7) A közszolgáltató a tűzvédelmi hatóság megkeresésére elvégzett közszolgáltatási feladatok eredményéről készített tanúsítvány vagy nyilatkozat egy példányát a tűzvédelmi hatóság részére a helyszínen átadja vagy a hatóság részére a vizsgálatot követő munkanapon megküldi.”
