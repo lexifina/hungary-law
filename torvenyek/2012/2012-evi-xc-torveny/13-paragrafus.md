@@ -34,7 +34,9 @@ j) a közszolgáltatásról készített éves statisztikai adatlap tartalmi köv
 
 k) az új közszolgáltatói feladatok bevezetésének ütemezését,
 
-l) a közszolgáltatást ellátó szakmunkás szakmai továbbképzésére vonatkozó szabályokat.
+l) a közszolgáltatást ellátó szakmunkás szakmai továbbképzésére vonatkozó szabályokat,
+
+m) a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelményeket.
 
 (3) Felhatalmazást kap az ellátásért felelős önkormányzat, hogy a közszolgáltatással kapcsolatban rendeletben állapítsa meg
 

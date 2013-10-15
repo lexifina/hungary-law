@@ -28,6 +28,22 @@ b) személyes adatait a közszolgáltatónak írásban, igazolható módon bejel
 
 c) a közszolgáltatásért járó díjat megfizetni vagy az ingatlan használójával fennálló megállapodás alapján írásban, igazolható módon a közszolgáltatónak bejelenteni, ha a közszolgáltatásért járó díj megfizetése az ingatlan használóját terheli,
 
-d) a (2) bekezdés c)–f) pontjában meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.
+d) a (2) bekezdés c)–f) pontjában és az (5) bekezdésben meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.
 
 (4) Az ingatlan tulajdonosa vagy használója a hatósági eljárásokat megelőzően köteles panaszával – igazolható módon – a közszolgáltatóhoz vagy az ellátásért felelős önkormányzathoz fordulni.
+
+(5) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezés üzemeltetése esetén
+
+a) a bölcsődei, óvodai vagy iskolai ellátás nyújtására szolgáló,
+
+b) a vendégéjszaka eltöltésére használt,
+
+c) a személyes gondoskodás keretébe tartozó szakosított ellátást nyújtó bentlakásos intézmény céljára szolgáló,
+
+d) a fekvőbeteg-gyógyintézeti ellátásra szolgáló,
+
+e) a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá tartozó
+
+önálló rendeltetési egység használója a tüzelőberendezés helyiségében a vonatkozó műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezés felszerelésére és működtetésére köteles, amennyiben a tüzelőberendezés közösségi térben vagy vele légtér-összeköttetésben lévő helyiségekben van.
+
+(6) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezéssel felszerelt, új építésű épület akkor vehető használatba, ha a tüzelőberendezés helyiségében jogszabályban meghatározott műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezést helyeztek el.
