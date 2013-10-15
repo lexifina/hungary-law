@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2013-08-03 | 2012-423-20-22.4 | 285/2013. (VII. 26.) Korm. rendelet |
 | 2013-09-01 | 2012-423-20-22.5 | 285/2013. (VII. 26.) Korm. rendelet |
 | 2013-09-02 | 2012-423-20-22.6 | 2010: CXXX. törvény |
+| 2013-10-15 | 2012-423-20-22.7 | 347/2013. (IX. 30.) Korm. rendelet |
