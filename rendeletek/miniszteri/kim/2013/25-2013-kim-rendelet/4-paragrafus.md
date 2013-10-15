@@ -1,0 +1,1 @@
+## 3. § A központi közigazgatás integrált üdültetési rendszerébe tartozó üdülők igénybevételi rendjéről és hasznosítási szabályairól szóló 20/2011. (VII. 11.) KIM rendelet 1. § (1) bekezdés d) pontjában a „Pénzügyi Szervezetek Állami Felügyelete” szövegrész helyébe a „Magyar Energetikai és Közmű-szabályozási Hivatal” szöveg lép.
