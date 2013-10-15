@@ -1,6 +1,6 @@
 ## 85. Helyszíni idézés, értesítési kötelezettség
 
-101. § (1) Az e törvény szerint helyszíni bírság kiszabására, illetve jogszabály alapján ellenőrzésre jogosult szerv vagy személy a szabálysértési elzárással nem büntethető szabálysértés tetten ért elkövetőjét, amennyiben a helyszíni bírság kiszabását nem veszi tudomásul, szabálysértési eljárás azonnali lefolytatása érdekében az elkövetés helye szerint illetékes szabálysértési hatósággal egyeztetett, de legkésőbb öt napon belüli időpontra a helyszínen a szabálysértési hatóság elé idézheti.
+101. § (1) Az e törvény szerint helyszíni bírság kiszabására, illetve jogszabály alapján ellenőrzésre jogosult szerv vagy személy a szabálysértési elzárással nem büntethető szabálysértés tetten ért elkövetőjét, ha a helyszíni bírság kiszabását nem veszi tudomásul, vagy ha a helyszíni bírság kiszabása e törvény szerint kizárt, a szabálysértési eljárás azonnali lefolytatása érdekében az elkövetés helye szerint illetékes szabálysértési hatósággal egyeztetett, de legkésőbb öt napon belüli időpontra a helyszínen a szabálysértési hatóság elé idézheti.
 
 (2) A helyszíni bírság kiszabására jogosult szerv vagy személy beszerzi a helyszínen fellelhető, az eljárás lefolytatásához szükséges bizonyítékokat és a helyszínen tartózkodó tanúkat idézi. A beszerzett bizonyítékokról és a tanúkutatás eredményéről feljegyzést készít, amelyben a szabálysértési hatóság által történő döntéshozatalhoz szükséges mértékben részletezi a szabálysértést.
 

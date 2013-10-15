@@ -35,3 +35,5 @@ i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogos
 részletes szabályait rendeletben szabályozza.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
+
+(4) Felhatalmazást kapnak a helyi önkormányzatok, a főváros tekintetében a fővárosi önkormányzat a 179/A. § (2) és (3) bekezdésében meghatározottak szerint, hogy a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében rendeletben kijelöljék a közterület meghatározott részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
