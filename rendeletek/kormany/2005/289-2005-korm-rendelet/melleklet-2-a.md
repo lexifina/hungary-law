@@ -276,7 +276,7 @@
 
 | 129/b. |  | kodifikátor |  | 60 |
 
-| 130. | közigazgatási, rendészeti és katonai | igazgatásszervező | közigazgatási4 |  | 120 |
+| 130. | közigazgatási, rendészeti és katonai | igazgatásszervező, közigazgatás-szervező | közigazgatási4 |  | 120 |
 
 | 131. | nemzetközi igazgatási | európai és nemzetközi igazgatás4 |  | 120 |
 

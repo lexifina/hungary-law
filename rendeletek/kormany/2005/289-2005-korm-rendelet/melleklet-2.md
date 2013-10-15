@@ -90,7 +90,7 @@
 
 | 44. | munkajogi | munkaügyi és társadalombiztosítási igazgatási |
 
-| 45. | közigazgatási, rendészeti és katonai | közigazgatási | igazgatásszervező | 180 |
+| 45. | közigazgatási, rendészeti és katonai | közigazgatási | közigazgatás-szervező | 180 |
 
 | 46. | nemzetközi igazgatási |
 
@@ -296,4 +296,4 @@
 
 2. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^24]
 
-[^24]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított és a 229/2011. (X. 28.) Korm. rendelet 2. §-a, a 325/2013. (VIII. 29.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 2. számú melléklet a 39/2011. (III. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 229/2011. (X. 28.) Korm. rendelet 2. §-a, a 325/2013. (VIII. 29.) Korm. rendelet 1. § (2) bekezdése, a 347/2013. (IX. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
