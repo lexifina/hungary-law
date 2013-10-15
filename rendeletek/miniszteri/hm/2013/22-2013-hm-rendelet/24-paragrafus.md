@@ -1,0 +1,3 @@
+## 23. § Az R. 218. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Az eltérő vonzáskörzetben lévő településre kinevezett, áthelyezett, egy évet meghaladó határozott vagy határozatlan időtartamra vezényelt hivatásos és szerződéses tiszt, altiszt részére – kérelmére – az új szolgálati helyre történő tényleges átköltözéséig, de legfeljebb a személyügyi határozatban (parancsban) megállapított kinevezési, áthelyezési, vezénylési határnaptól számított 3 hónapig folyósítható a korábban megállapított albérleti díj hozzájárulás, feltéve, hogy az állományilletékes parancsnok az új szolgálati helyen, valamint az annak vonzáskörzetén kívüli lakhatáshoz erre az időtartamra a Hjt-ben előírt engedélyt megadta. Ebben az esetben az (5) bekezdés nem alkalmazható.”

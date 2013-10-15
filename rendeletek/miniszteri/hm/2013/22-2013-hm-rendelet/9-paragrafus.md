@@ -1,0 +1,1 @@
+## „(3a) A (3) bekezdés a)–k) pontjában foglaltakat nem kell alkalmazni akkor, ha a hivatásos katona a szolgálati viszony megszűnésével egyidejűleg nyugellátásra vagy a megváltozott munkaképességű személyek ellátására szerzett jogosultságot.”
