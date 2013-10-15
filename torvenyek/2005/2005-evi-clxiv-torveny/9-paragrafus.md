@@ -24,7 +24,7 @@ d) megtiltja az engedély nélkül folytatott, előírásokba ütköző tevéken
 
 e) ha az adott tevékenység végzése engedélyhez kötött, visszavonja az engedélyt,
 
-f) bírságot szab ki, illetve
+f) közterületi értékesítés szabályainak megszegése kivételével bírságot szab ki, illetve
 
 g) a külön jogszabályban meghatározott egyéb jogkövetkezményt alkalmaz.
 
