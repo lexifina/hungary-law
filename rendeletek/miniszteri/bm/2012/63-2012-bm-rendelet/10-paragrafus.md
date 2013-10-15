@@ -1,4 +1,4 @@
-## 9. §[^1]
+## 9. §[^15]
 
 ## 8. Az ingatlan tulajdonosára és használójára vonatkozó, a közszolgáltató feladatainak ellátását biztosító feltételek
 
@@ -18,4 +18,4 @@ f) az 5. § (4) bekezdésében meghatározott dokumentumokat,
 
 g) a CO méréshez szükséges mérőnyílás hiányában annak kialakítását vagy kialakításának lehetőségét.
 
-[^1]: A 9. § a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.
+[^15]: A 9. § a 12. § (2) bekezdése alapján 2015. január 1-jén lép hatályba.

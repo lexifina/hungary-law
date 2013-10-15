@@ -60,6 +60,14 @@
 
 ## 5.2. más – az égéstermék-elvezetőhöz nem tartozó – vezetékek, antennák zavaró, nem biztonságos jelenlétét, közelségét.
 
+## 6. A szén-monoxid-érzékelő berendezésnél
+
+## 6.1. a szén-monoxid-érzékelő berendezés meglétét és felszerelését,
+
+## 6.2. a szén-monoxid-érzékelő berendezés működőképességét az elektromos tápellátás kijelzőjének szemrevételezésével, valamint az öndiagnosztikai funkció segítségével, amennyiben azzal a készülék rendelkezik,
+
+## 6.3. a szén-monoxid-érzékelő berendezés gyártó által megjelölt szavatossági időn belüli használatát.
+
 ## II. Tisztítás
 
 ## A tüzelőberendezés és az égéstermék-elvezető használatából eredő lerakódások, továbbá egyéb az égéstermék-elvezető belső keresztmetszetét szűkítő vagy azt elzáró anyagok (állattetemek, pókháló, avar, korrózióból, állagromlásból lehulló, visszamaradt építőelem) eltávolítása az égéstermék-elvezető járatából, a koromzsákból, a bekötőnyílásból és az összekötő elemből (amennyiben ennek lehetősége rendeltetésszerűen kialakított).
@@ -268,6 +276,8 @@
 
 ## 2.8. az 5. § (2) bekezdés a) pontjában meghatározott vizsgálatok esetében a vizsgálatot követően az égéstermék-elvezetőre csatlakoztatott tüzelőberendezésre (tüzelőberendezésekre) a vizsgálatot igazoló matricát kell elhelyezni.
 
+## 3. Szén-monoxid-érzékelő berendezés használatára vonatkozó kötelezettség fennállása esetén a vizsgálat során az „I. Ellenőrzés alcím” 6. pontjában meghatározottak szerint kell eljárni.
+
 ## VIII. A tervezett vagy a tervezéssel érintett égéstermék-elvezető műszaki megoldásának megfelelőségével összefüggő, megrendelt tervfelülvizsgálat
 
 ## A 6. § (2) bekezdésének megfelelő építész, gépész tervek felülvizsgálatáról kiadott kéményseprő-ipari nyilatkozat esetében a közszolgáltató a tervdokumentáció égéstermék-elvezetőre vonatkozó tervrészeinek egy másolatát megőrzi, és az összes tervlapot és a műszaki leírás égéstermék elvezetőt érintő minden oldalát bélyegzővel, dátummal és a nyilatkozatot készítő aláírásával látja el. A 4. mellékletnek megfelelő nyilatkozat aláírt első példányát kell a megrendelőnek átadni.
@@ -336,4 +346,6 @@
 
 | 30. | Rádió adó-vevő |  | X |
 
-2. melléklet a 63/2012. (XII. 11.) BM rendelethez
+2. melléklet a 63/2012. (XII. 11.) BM rendelethez[^19]
+
+[^19]: A 2. melléklet az 58/2013. (X. 11.) BM rendelet 12. §-ával megállapított szöveg.

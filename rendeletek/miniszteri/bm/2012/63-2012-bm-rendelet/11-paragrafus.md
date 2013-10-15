@@ -1,3 +1,5 @@
+## 10/A. §[^16] Az ingatlan használója a közszolgáltatás ellátása során a közszolgáltató felhívására köteles nyilatkozni a Törvény 9. § (5) bekezdésében fennálló szén-monoxid-érzékelő berendezés felszerelési és működtetési kötelezettségének fennállásáról.
+
 ## 9. A közszolgáltatási díjak meghatározásának a közszolgáltatási feladatok tartalmától függő, részletes szabályai
 
 11. § (1) A sormunka keretében időszakonként kötelezően elvégzendő közszolgáltatási feladat díját épületenként vagy önálló rendeltetési egységenként
@@ -25,3 +27,5 @@ b) a műszaki megoldás megfelelőségével összefüggő, megrendelt vizsgálat
 megegyező szerkezetben határozza meg.
 
 (4) A díjat az ingatlan tulajdonosának, vagy az ingatlan tulajdonos bejelentése alapján az ingatlan használójának az ellenőrzést, szükség szerinti tisztítást követően kell megfizetnie.
+
+[^16]: A 10/A. §-t az 58/2013. (X. 11.) BM rendelet 9. §-a iktatta be.

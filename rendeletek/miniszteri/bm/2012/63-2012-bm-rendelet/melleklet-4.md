@@ -6,7 +6,7 @@
 
 | Címe, irsz: helység: közterület: | hsz: lh: em: ajtó: |
 
-| Megrendelő neve: |  | tel: |
+| Megrendelő neve: | tel: |
 
 | Címe, irsz: helység: közterület: | hsz: lh: em: ajtó: |
 
@@ -30,17 +30,17 @@
 
 | Névleges bemenő hőteljesítménye (kWth) |  |  |  |  |  |
 
-| Füstcsonk mérete (cm). |  |  |  |  |  |
+| Füstcsonk mérete (cm) |  |  |  |  |  |
 
 | Telepítési helyisége |  |  |  |  |  |
 
-| Összekötő elem, levegő-bevezető | „Cső- a csőben” (C), vagy szétválasztott (S) rendszer |  |  |  |  |  |
+| Összekötő elem, levegő-bevezető | „Cső- a csőben” (C) vagy szétválasztott (S) rendszer |  |  |  |  |  |
 
 | Összekötő elem | Teljes hossza / ebből függőleges hossz (m) |  |  |  |  |  |
 
 | Keresztmetszeti mérete (-i) (cm) |  |  |  |  |  |
 
-| Iránytörései ( X°/db) |  |  |  |  |  |
+| Iránytörései (X°/db) |  |  |  |  |  |
 
 | Összekötő elem / külső burkolat anyaga |  |  |  |  |  |
 
@@ -50,7 +50,7 @@
 
 | Keresztmetszeti mérete (-i) (cm) |  |  |  |  |  |
 
-| Iránytörései ( X°/db) |  |  |  |  |  |
+| Iránytörései (X°/db) |  |  |  |  |  |
 
 | Levegő bevezető / külső burkolat anyaga |  |  |  |  |  |
 
@@ -78,43 +78,51 @@
 
 | Legalsó / legfelső bekötésektől mért távolság a kitorkollásig (m) |  |  |  |  |  |
 
-| A járatának iránytörései ( X°/db) |  |  |  |  |  |
+| A járatának iránytörései (X°/db) |  |  |  |  |  |
 
 | A járatának / külső burkolatának anyaga |  |  |  |  |  |
 
 | Járatának / hőszigetelésének / külső burkolatának vastagsága (mm) |  |  |  |  |  |
 
+| Szén-monoxid-érzékelő berendezés használatára kötelezett igen (I) – nem (N) / van (V) – nincs (N) |  |  |  |  |  |
+
+| Szén-monoxid-érzékelő berendezés szavatossági idő szempontjából megfelelő (M) – nem megfelelő (N) / működőképes igen (I) – nem (N) |  |  |  |  |  |
+
 | Sorszám: | A vizsgálat során feltárt hibák, szabálytalanságok |
 
 | A hő- és áramlástechnikai méretezés adatai megegyeznek a vizsgálat alkalmával feltárt adatokkal: igen (I), nem (N) |  |  |  |  |  |
 
-| A műszaki vizsgálat bontás nélküli szemrevételezéssel, a vonatkozó jogszabályi-, tűzrendészeti- és szabványelőírások alapján történt. Az egyes jelölések és hibakódok beazonosíthatók a mellékelt hibajegyzékben. Amennyiben a műszaki vizsgálat eredményével a megrendelő, vagy a tulajdonos nem ért egyet, úgy észrevételével a területileg illetékes első fokú tűzvédelmi hatósághoz fordulhat jogorvoslatért! |  |  |  |  |  |
+| A műszaki vizsgálat bontás nélküli szemrevételezéssel, a vonatkozó jogszabályi-, tűzrendészeti- és szabványelőírások alapján történt. Az egyes jelölések és hibakódok beazonosíthatók a mellékelt hibajegyzékben. Amennyiben a műszaki vizsgálat eredményével a megrendelő vagy a tulajdonos nem ért egyet, úgy észrevételével a területileg illetékes első fokú tűzvédelmi hatósághoz fordulhat jogorvoslatért! |  |  |  |  |  |
 
 | Rendeltetésszerű használatra alkalmas (I) nem alkalmas (N). |  |  |  |  |  |
 
 | Szöveges kiegészítés (szükség esetén pótlapon folytatható): |
 
-| Tetőalaprajz, vagy alaprajzi részlet, esetleg a szöveges kiegészítés folytatása: |
+| Tetőalaprajz vagy alaprajzi részlet, esetleg a szöveges kiegészítés folytatása: |
 
 | A vizsgálatot végző kéményseprőmester neve: | Oklevélszáma: | Dátum: év, hó, nap. |
 
-| Aláírása: | ph | Megrendelő, vagy megbízott neve: |
+| Aláírása: | ph | Megrendelő vagy megbízott neve: |
 
 | A vizsgálatot végző szakmunkás neve: | Aláírása: |
 
 | Aláírása: |
 
+## A KÉMÉNYSEPRŐ-IPARI NYILATKOZATOT NEM HELYETTESÍTI A KÉMÉNYSEPRŐ-IPARI KÖZSZOLGÁLTATÓ SORMUNKÁNÁL ALKALMAZOTT TANÚSÍTVÁNYA.
+
+## ÉGÉSTERMÉK-ELVEZETŐ ÉPÍTÉSE, JAVÍTÁSA, ÚJBÓLI HASZNÁLATBAVÉTELE, VALAMINT A BEKÖTÖTT TÜZELŐBERENDEZÉS CSERÉJE, ILLETVE ÚJ TELEPÍTÉSE A KÉMÉNY MEGFELELŐSÉGÉT IGAZOLÓ KÉMÉNYSEPRŐ-IPARI NYILATKOZAT HIÁNYÁBAN TILOS!
+
 ## A közszolgáltatást a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény,
 
-## a kéményseprő-ipari közszolgáltatásról szóló törvény végrehajtásáról szóló kormányrendelet és
+## a kéményseprő-ipari közszolgáltatásról szóló törvény végrehajtásáról szóló kormányrendelet,
 
 ## a kéményseprő-ipari közszolgáltatás ellátásának szakmai szabályairól szóló BM rendelet és
 
-## az ellátásért felelős önkormányzat kéményseprő-ipari közszolgáltatásról szóló rendelete szabályozza
+## az elláttatásért felelős önkormányzat kéményseprő-ipari közszolgáltatásról szóló rendelete szabályozza
 
 | KITÖLTÉSRE VONATKOZÓ INFORMÁCIÓK |
 
-| A megrendelt műszaki vizsgálat célja a kéményseprő-ipari közszolgáltatásról szóló törvény végrehajtásáról szóló kormányrendelet 1. melléklete szerint: 3.1. Új égéstermék-elvezetők kivitelezés közbeni, eltakarás előtti vizsgálata 3.2. Újonnan épített vagy szerelt felújított, átalakított, vagy újból használatba vett égéstermék-elvezetők üzembe helyezés előtti vizsgálata 3.3. Tüzelőanyag váltás, tüzelőberendezés csere, új tüzelőberendezés üzembe helyezése esetén az üzembe helyezést megelőzően az érintett égéstermék-elvezetők vizsgálata 3.4. Meglévő égéstermék-elvezető bontását, funkciójának megváltoztatását, használaton kívül helyezését, illetve az égéstermék-elvezetőt érintő átalakítást megelőző helyszíni vizsgálat Az égéstermék-elvezetőre kötött tüzelőberendezések használatának célja, jellege: kazán (K), vízmelegítő (V), egyedi fűtő (F), kombi (C), hőlégfúvó (H), technológiai (T), egyéb (E)] / CO mérés szükségessége (C). Az összekötő elem, a légbevezető, égéstermék-elvezető, külső burkolat anyaga: vakolt (V), alumínium (A), acél (S), samott, kerámia (K), műanyag (M), műgyanta (G), flexibilis (F), fix (X), egyéb: …...........(E1)................ (E2) ................ (E3) |
+| A megrendelt műszaki vizsgálat célja a kéményseprő-ipari közszolgáltatásról szóló törvény végrehajtásáról szóló 347/2012. (XII. 11.) Korm. rendelet 1. Melléklete szerint: 3.1. Új égéstermék-elvezetők kivitelezés közbeni, eltakarás előtti vizsgálata. 3.2. Újonnan épített vagy szerelt felújított, átalakított vagy újból használatba vett égéstermék-elvezetők üzembe helyezés előtti vizsgálata. 3.3. Tüzelőanyag váltás, tüzelőberendezés csere, új tüzelőberendezés üzembe helyezése esetén az üzembe helyezést megelőzően az érintett égéstermék-elvezetők vizsgálata. 3.4. Meglévő égéstermék-elvezető bontását, funkciójának megváltoztatását, használaton kívül helyezését, illetve az égéstermék-elvezetőt érintő átalakítást megelőző helyszíni vizsgálat. Az égéstermék-elvezetőre kötött tüzelőberendezések használatának célja, jellege: [kazán (K), vízmelegítő (V), egyedi fűtő (F), kombi (C), hőlégfúvó (H), technológiai (T), egyéb (E)] / CO mérés szükségessége (C). Az összekötő elem, a légbevezető, égéstermék-elvezető, külső burkolat anyaga: vakolt (V), alumínium (A), acél (S), samott, kerámia (K), műanyag (M), műgyanta (G), flexibilis (F), fix (X), egyéb: …...........(E1)................ (E2) ................ (E3). |
 
 | HIBAJEGYZÉK |
 
@@ -130,7 +138,7 @@
 
 | 1/d | ki nem égethető égéstermék-elvezető belső felületén lerakódott szurokréteg, |
 
-| 1/e | szilárd- vagy olaj-tüzelőberendezés égéstermék-elvezetőjénél a szikrafogó hiánya az E-F tűzvédelmi osztályú (nád, szalma, fazsindely és egyéb anyagú) tetőhéjalás esetében, vagy az égéstermék-elvezetőből kijutó szikra által veszélyeztetett területen belül E-F tűzvédelmi osztályú anyag jelenléte az égéstermék-elvezető kitorkollásától mért 15 méteres távolságon belül, |
+| 1/e | szilárd- vagy olaj-tüzelőberendezés égéstermék-elvezetőjénél a szikrafogó hiánya az E–F tűzvédelmi osztályú (nád, szalma, fazsindely és egyéb anyagú) tetőhéjalás esetében, vagy az égéstermék-elvezetőből kijutó szikra által veszélyeztetett területen belül E–F tűzvédelmi osztályú anyag jelenléte az égéstermék-elvezető kitorkollásától mért 15 méteres távolságon belül, |
 
 | 1/f | olyan égéstermék-elvezető használata, amelynek falába B–F tűzvédelmi osztályba tartozó épületszerkezet van beépítve, vagy az ilyen éghető anyagtól való távolságtartás kisebb, mint az égéstermék-elvezető gyártója által meghatározott minimális távolság, vagy ennek hiányában kisebb, mint 12 cm, |
 
@@ -150,7 +158,7 @@
 
 | 2/b | járatának szabad keresztmetszete | 4/b | tüzelés módja |
 
-| 2/c | külső állapota | 4/c | és a környezetében tárolt, beépített anyagok, szerkezetek kapcsolata |
+| 2/c | külső állapota | 4/c | a környezetében tárolt, beépített anyagok, szerkezetek kapcsolata |
 
 | 2/d | tömörsége | (az ellenőrizhetőség, a megfelelő üzemeltetés és a tűzvédelem szempontjából) |
 
@@ -170,7 +178,7 @@
 
 | 3/c | állapota |
 
-| 3/d | tömörsége | 6. | Szabálytalan bekötés az égéstermék elvezetőn |
+| 3/d | tömörsége | 6. | Szabálytalan bekötés az égéstermék-elvezetőn |
 
 ## A KÉMÉNYSEPRŐ-IPARI NYILATKOZATOT NEM HELYETTESÍTI A KÉMÉNYSEPRŐ-IPARI KÖZSZOLGÁLTATÓ SORMUNKÁNÁL ALKALMAZOTT TANÚSÍTVÁNYA.
 
@@ -184,7 +192,7 @@
 
 | E | Egyedi, egy építmény szintről igénybe vett, 60 kW és az alatti összes névleges bemenő hőteljesítményű, jellemzően függőleges tengelyirányú égéstermék-elvezető. |
 
-| K | Központi, egy építmény szintről igénybe vett, 60 kW feletti összes névleges bemenő hőteljesítményű, jellemzően függőleges tengelyirányú égéstermék-elvezető, 4096 cm2 járat keresztmetszetig. |
+| K | Központi, egy építmény szintről igénybe vett, 60 kW feletti összes névleges bemenő hőteljesítményű, jellemzően függőleges tengelyirányú égéstermék-elvezető, 4 096 cm2 járat keresztmetszetig. |
 
 | N | Nagy járat-keresztmetszetű, egy építmény szintről igénybe vett, 60 kW feletti összes névleges bemenő hőteljesítményű, jellemzően függőleges tengelyirányú égéstermék-elvezető 4 096 cm2 járat keresztmetszet felett, 10 000 cm2-ig. |
 
@@ -203,5 +211,9 @@
 |  |  |  | S | Szilárd- és olaj tüzelőanyagokkal üzemeltetett tüzelőberendezéseket kiszolgáló égéstermék-elvezető. |
 
 |  |  |  | G | Gáznemű tüzelőanyagokkal üzemeltetett tüzelőberendezéseket kiszolgáló égéstermék-elvezető. |
+
+## A mennyiségi egység a munkaráfordítás (mf), a munkaráfordítás egységára az elláttatásért felelős önkormányzat által meghatározott összeg.
+
+## A fizetendő díj a munkaráfordítás és a munkaráfordítás egységárának szorzata.
 
 4. melléklet a 63/2012. (XII. 11.) BM rendelethez

@@ -22,7 +22,7 @@ a) az építész, gépész terveket,
 
 b) az égéstermék-elvezető nyomvonaltervét,
 
-c) az égéstermék-elvezető tervező által készített hő- és áramlástechnikai méretezését,
+c)[^7] az égéstermék-elvezető-, tüzelőberendezés gyártója által kiadott diagramoknak, táblázatoknak való megfeleltetését, ennek hiányában az égéstermék-elvezető tervező által készített hő- és áramlástechnikai méretezését,
 
 d) a beépített anyagok szállítói megfelelőségi és egyéb nyilatkozatait,
 
@@ -36,4 +36,10 @@ g) villámvédelmi jegyzőkönyvet a vonatkozó villámvédelmi szabványok elő
 
 (6) Lakóhelyiségek vagy állandó tartózkodási célt szolgáló helyiségek – kivéve az időlegesen használt ingatlanok – fűtési célt szolgáló tüzelőberendezés cseréje esetén, fűtési szezonban (október 15. és április 15. között), a megrendelést követő 2 munkanapon belül a közszolgáltató a helyszíni vizsgálatot elvégzi, amennyiben annak feltételei adottak. A közszolgáltató a nyilatkozatot legkésőbb a vizsgálatot követő munkanapon kiadja.
 
-(7) Az (1)–(6) bekezdésben meghatározott feladatokat a közszolgáltató az 1. mellékletben meghatározott munkafolyamatok, szakmai követelmények és módszerek szerint végzi el.
+(6a)[^8] Kéménytűz vagy szén-monoxid-szivárgás káreseményt követően az érintett égéstermék-elvezetőt csak helyszíni műszaki vizsgálatot követően lehet ismételten üzembe helyezni. A szükséges vizsgálatot a közszolgáltató a megrendelést követő 3 munkanapon belül elvégzi, és annak eredményéről készített nyilatkozatot a vizsgálatot követő munkanapon kiadja.
+
+(7)[^9] Az (1)–(6a) bekezdésben meghatározott feladatokat a közszolgáltató az 1. mellékletben meghatározott munkafolyamatok, szakmai követelmények és módszerek szerint végzi el.
+
+[^7]: Az 5. § (4) bekezdés c) pontja az 58/2013. (X. 11.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (6a) bekezdését az 58/2013. (X. 11.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^9]: Az 5. § (7) bekezdése az 58/2013. (X. 11.) BM rendelet 15. § (1) bekezdése szerint módosított szöveg.
