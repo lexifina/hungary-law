@@ -28,7 +28,8 @@ a) kizárólag szakmai szervezeti egységekre tagozódik – ideértve a jogszab
 
 b) a szellemi, fizikai támogató funkciókat ellátók száma külön szervezeti egység létrehozását nem igényli, e funkciók más költségvetési szerv által elláthatók.
 
-(4) Az országos nemzetiségi önkormányzat hivatala vezetőjének igazgatásszervezői vagy állam- és jogtudományi doktori képesítéssel, okleveles közgazdász képesítéssel, vagy okleveles közigazgatási menedzser szakképesítéssel, a pénzügyi források és a vagyon mértékének megfelelő vezetési-szervezési és pénzügyi-gazdasági ismeretekkel, szakmai és vezetői gyakorlattal rendelkező, pályázati úton kiválasztott természetes személy nevezhető ki.
+(4)[^13] Az országos nemzetiségi önkormányzat hivatala vezetőjének igazgatásszervezői, közigazgatás-szervezői vagy állam- és jogtudományi doktori képesítéssel, okleveles közgazdász képesítéssel, vagy okleveles közigazgatási menedzser szakképesítéssel, a pénzügyi források és a vagyon mértékének megfelelő vezetési-szervezési és pénzügyi-gazdasági ismeretekkel, szakmai és vezetői gyakorlattal rendelkező, pályázati úton kiválasztott természetes személy nevezhető ki.
 
 [^11]: Az Ávr. 7. §-át megelőző alcím címe a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 2. pontja szerint módosított szöveg.
 [^12]: Az Ávr. 7. § (1) bekezdés e) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 2. pontja szerint módosított szöveg.
+[^13]: Az Ávr. 7. § (4) bekezdése a 347/2013. (IX. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.

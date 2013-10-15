@@ -1,4 +1,4 @@
-## [Az Áht. 83/A. §-ához][^209]
+## [Az Áht. 83/A. §-ához][^210]
 
 144/A. § (1) A központi költségvetésről szóló törvény alapján a központi költségvetést havonta megillető hányadának ellenőrzése céljából a települési önkormányzat az önkormányzati adóhatóság által a tárgynegyedévben beszedett gépjárműadó összegének adatait, illetve a gépjárműadó fizetési számláról a települési önkormányzat által végrehajtott utalások adatait – havi kimutatással, a települési önkormányzatot és a központi költségvetést megillető hányad szerinti bontásban – a tárgynegyedévet követő hónap 15. napjáig továbbítja az Igazgatóságnak.
 
@@ -20,4 +20,4 @@ b) ha az adatszolgáltatási késedelem a 60 napot meghaladja, akkor a tárgyév
 
 (8) Ha a bírság, illetve az Áht. 83/A. § (2) bekezdése alapján az Igazgatóság által megállapított különbözet és annak kamata nem éri el a tízezer forintot, azt nem kell megfizetni, és az Igazgatóság az önkormányzati adóhatóság értesítését mellőzi.
 
-[^209]: Az Ávr. „[Az Áht. 83/A. §-ához]” alcímét (Ávr. 144/A. §) a 307/2013. (VIII. 14.) Korm. rendelet 22. §-a iktatta be.
+[^210]: Az Ávr. „[Az Áht. 83/A. §-ához]” alcímét (Ávr. 144/A. §) a 307/2013. (VIII. 14.) Korm. rendelet 22. §-a iktatta be.

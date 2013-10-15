@@ -1,4 +1,4 @@
-## [Az Áht. 104–105. §-ához][^241]
+## [Az Áht. 104–105. §-ához][^242]
 
 167/A. § (1) A törzskönyvi nyilvántartás tartalmazza a törzskönyvi jogi személy
 
@@ -122,4 +122,4 @@ c) a levelezési címet az a) pontban meghatározott módon vagy az irányítós
 
 feltüntetésével kell megjelölni.
 
-[^241]: Az Ávr. „[Az Áht. 104–105. §-ához]” alcímét (Ávr. 167/A–167/L. §) a 307/2013. (VIII. 14.) Korm. rendelet 25. §-a iktatta be.
+[^242]: Az Ávr. „[Az Áht. 104–105. §-ához]” alcímét (Ávr. 167/A–167/L. §) a 307/2013. (VIII. 14.) Korm. rendelet 25. §-a iktatta be.

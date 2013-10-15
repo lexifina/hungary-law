@@ -2,9 +2,9 @@
 
 ## AZ ÁLLAMHÁZTARTÁS ÖNKORMÁNYZATI ALRENDSZERÉNEK TÁMOGATÁSA
 
-## [Az Áht. 57–57/B. §-ához][^131]
+## [Az Áht. 57–57/B. §-ához][^132]
 
-101. §[^132] (1) A központi költségvetésről szóló törvényjavaslat alapján a helyi önkormányzat, helyi nemzetiségi önkormányzat által igényelhető feladatmutatók szerint járó támogatásra való jogosultsági feltételeiről és az igénylés lebonyolításának rendjéről az államháztartásért felelős miniszter – a helyi önkormányzatokért felelős miniszterrel és az ágazati miniszterekkel együttműködve, a Kincstár útján – a helyi önkormányzatot, helyi nemzetiségi önkormányzatot értesíti.
+101. §[^133] (1) A központi költségvetésről szóló törvényjavaslat alapján a helyi önkormányzat, helyi nemzetiségi önkormányzat által igényelhető feladatmutatók szerint járó támogatásra való jogosultsági feltételeiről és az igénylés lebonyolításának rendjéről az államháztartásért felelős miniszter – a helyi önkormányzatokért felelős miniszterrel és az ágazati miniszterekkel együttműködve, a Kincstár útján – a helyi önkormányzatot, helyi nemzetiségi önkormányzatot értesíti.
 
 (2) Az államháztartásért felelős miniszter a helyi önkormányzatokért felelős miniszterrel és a feladatkörében érintett ágazati miniszterrel együttműködve a központi költségvetésről szóló törvény alapján a Kincstár útján értesítőt bocsát ki. Az értesítő alapján a helyi önkormányzat, helyi nemzetiségi önkormányzat kiegészítő adatszolgáltatást nyújt be a Kincstárhoz, ha
 
@@ -16,11 +16,11 @@ b) a helyi önkormányzat, helyi nemzetiségi önkormányzat számára megállap
 
 (4) A helyi önkormányzat, helyi nemzetiségi önkormányzat a számára megállapított feladatmutató alapján járó támogatás módosítását, valamint az önkormányzati körön belüli és körön kívüli átadását a költségvetési év során legfeljebb három alkalommal kezdeményezheti, a központi költségvetésről szóló törvényben foglaltak szerint.
 
-(5)[^133] A Kincstár az (1) bekezdés, a (2) bekezdés a) pontja és a (4) bekezdés alapján benyújtott kérelmet a kérelem benyújtásától számított öt napon belül szabályszerűségi és formai szempontból megvizsgálja és szükség esetén – legfeljebb öt napos határidő kitűzésével – a helyi önkormányzatot, helyi nemzetiségi önkormányzatot hiánypótlásra, módosításra hívja fel. A Kincstár az államháztartás önkormányzati alrendszerén kívüli feladat, illetve intézmény átadásához kapcsolódó hiánytalan kérelmet a benyújtást vagy a hiánypótlás teljesítését követő öt napon belül megküldi a helyi önkormányzatokért felelős miniszternek.
+(5)[^134] A Kincstár az (1) bekezdés, a (2) bekezdés a) pontja és a (4) bekezdés alapján benyújtott kérelmet a kérelem benyújtásától számított öt napon belül szabályszerűségi és formai szempontból megvizsgálja és szükség esetén – legfeljebb öt napos határidő kitűzésével – a helyi önkormányzatot, helyi nemzetiségi önkormányzatot hiánypótlásra, módosításra hívja fel. A Kincstár az államháztartás önkormányzati alrendszerén kívüli feladat, illetve intézmény átadásához kapcsolódó hiánytalan kérelmet a benyújtást vagy a hiánypótlás teljesítését követő öt napon belül megküldi a helyi önkormányzatokért felelős miniszternek.
 
-(6)[^134] Az egyes jövedelempótló támogatások kiegészítése és a települési önkormányzatok muzeális intézményi feladatainak támogatása esetén az igénylés, az igénybevétel évközi felülvizsgálata és a kamat megállapítása a költségvetési támogatásokra vonatkozó szabályok szerint történik.
+(6)[^135] Az egyes jövedelempótló támogatások kiegészítése és a települési önkormányzatok muzeális intézményi feladatainak támogatása esetén az igénylés, az igénybevétel évközi felülvizsgálata és a kamat megállapítása a költségvetési támogatásokra vonatkozó szabályok szerint történik.
 
-[^131]: Az Ávr. 101. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^132]: Az Ávr. 101. § a 413/2012. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^133]: Az Ávr. 101. § (5) bekezdése a 74/2013. (III. 11.) Korm. rendelet 32. § 14. pontja szerint módosított szöveg.
-[^134]: Az Ávr. 101. § (6) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 29. § 10. pontja szerint módosított szöveg.
+[^132]: Az Ávr. 101. § előtti alcím címe a 413/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^133]: Az Ávr. 101. § a 413/2012. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^134]: Az Ávr. 101. § (5) bekezdése a 74/2013. (III. 11.) Korm. rendelet 32. § 14. pontja szerint módosított szöveg.
+[^135]: Az Ávr. 101. § (6) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 29. § 10. pontja szerint módosított szöveg.
