@@ -1,31 +1,50 @@
-169. § (1) A honvédelmi szerv állományába tartozó személy részére – a HM rendelkezésű lakásra való igényjogosultságától függetlenül – szálló férőhely adható, ha
+## 168. §[^78]
 
-a) a szolgálati helye szerinti – a 7. § (4) bekezdésben meghatározott – vonzáskörzetben,
+169. §[^79] (1) Szálló férőhely elhelyezést kaphat:
 
-b) a Hjt. 52. §-ában foglalt, határozott időtartamra szóló vezénylés esetén a szolgálatteljesítés helye szerinti településen,
+a) a hivatásos katona, a szerződéses katona a szolgálati hely szerinti településen vagy annak vonzáskörzetében, egy évet meg nem haladó időtartamú vezénylés esetén a szolgálatteljesítés helye szerinti településen;
 
-c) a munkahelye szerinti településen vagy annak vonzáskörzetében
+b) a honvédelmi szerv állományába tartozó kormánytisztviselő, közalkalmazott és munkavállaló a munkahelye szerinti településen vagy annak vonzáskörzetében;
 
-nem rendelkezik önálló lakással, illetőleg a honvédelmi szervtől albérleti (lízing-) díj hozzájárulásban nem részesül.
+c) a nyugállományba helyezett hivatásos katona.
 
-(2) A honvédelmi szerv állományából szolgálati nyugállományba vagy öregségi nyugdíjba helyezett személy részére szálló férőhely akkor adható, ha lakáshasználati joggal sehol nem rendelkezik.
+(2) Az (1) bekezdés a) pontjában megjelölt személyek
 
-(3) Amennyiben a szálló használatának rendjét nem zavarja, kivételesen szállóelhelyezést kaphat:
+a) a tiszti állományú katonák,
 
-a)[^71] a tiszti és altiszti állományú katona szolgálati helye szerinti vonzáskörzetben önálló lakással nem rendelkező házastársa (élettársa), valamint
+b) altiszti állományú katonák,
 
-b) a helyőrségi szálló önálló WC-vel és fürdőhelyiséggel rendelkező lakóegységében a honvédelmi szerv állományába tartozó jogosulttal közösen, annak gyermeke és házastársa (élettársa),
+c) legénységi állományú katonák
 
-c) a hivatásos katona felsőfokú oktatási intézmény nappali tagozatán tanulmányait folytató gyermeke önállóan, ha az oktatási intézmény székhelyén lakáshasználati joggal nem rendelkezik, és kollégiumi elhelyezésben sem részesülhet.
+## sorrendjében kaphatnak szálló férőhelyet, ha más lakhatási támogatásban egyidejűleg nem részesülnek, vagy az igénybe vett támogatás mellett élethelyzetük alapján a szállóelhelyezésre átmenetileg rászorulnak.
 
-(4) Szálló férőhelyen lehet elhelyezni alkalomszerű szállás céljából a honvédelmi szerv állományába tartozó személyt és közvetlen hozzátartozóit, továbbá a honvédelmi szerv állományába tartozó személyt, ha a szállást szolgálati úttal összefüggésben igényli. Alkalomszerű szállásnak kell tekinteni a nem rendszeres, legfeljebb 5 éjszaka időtartamú elhelyezést.
+(3) Az (1) bekezdés c) pontjában megjelölt személyek akkor kaphatnak szálló férőhelyet, ha a bérbeadás a hivatásos és szerződéses állományú katonák ellátását nem veszélyezteti.
 
-(5)[^72] Az (1)–(4) bekezdésekben nem említett személyek részére a HM központi lakásgazdálkodási szerv előzetes engedélyével, legfeljebb egy év határozott időtartamra adható szálló férőhely. Az önkéntes tartalékos tiszt és altiszt szállóelhelyezését a területileg illetékes helyi lakásgazdálkodási szerv vezetője engedélyezheti az önkéntes tartalékos szolgálat időtartamára azzal, hogy a szálló férőhely bérlője a 172. § (2) bekezdésben meghatározott mértékű bérleti díjat köteles fizetni.
+(4) Az (1) bekezdés a)–c) pontjában felsorolt személyek házastársa, élettársa, gyermeke, valamint a honvédelmi szerv állományába nem tartozó egyéb személyek elhelyezéséről, az (5) bekezdésben foglalt kivétellel, a helyi lakásgazdálkodási szerv dönt.
 
-(6) A szálló férőhely elosztásáról, illetve az ott történő elhelyezésről a helyi lakásgazdálkodási szerv vezetője dönt.
+(5) A honvédelmi szerv állományába nem tartozó személyek a központi lakásgazdálkodási szerv előzetes engedélyével kaphatnak a helyőrségi szállón elhelyezést, ha
 
-(7)[^73] A szállók házirendjét a HM vagyonkezelői feladatokat ellátó szerv vezetője a központi lakásgazdálkodási szerv vezetője által jóváhagyott intézkedésben határozza meg.
+a) az alkalmi, nem rendszeres jellegű elhelyezés időtartama meghaladja az egy hónapot, és
 
-[^71]: A 169. § (3) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^72]: A 169. § (5) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^73]: A 169. § (7) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+b) az együttesen elhelyezni kívánt személyek létszáma meghaladja a 15 főt.
+
+(6) Az önkéntes tartalékos katona részére szálló férőhely a tényleges szolgálat időtartamára, a 172. § (2) bekezdésben meghatározott térítési díj ellenében adható bérbe, ha elhelyezése laktanyai szálláson nem oldható meg. A szállóelhelyezésről a helyi lakásgazdálkodási szerv vezetője dönt.
+
+(7) A honvédelmi szerv állományába tartozó személy saját háztartásában eltartott gyermeke – a (8) bekezdésben foglalt kivétellel – csak az igényjogosulttal közösen, a helyőrségi szálló önálló WC-vel és fürdőhelyiséggel rendelkező lakóegységében helyezhető el. A honvédelmi szerv állományába tartozó személy házastársa, élettársa a helyőrségi szállón csak akkor helyezhető el, ha ő az igényjogosult szolgálati vagy munkahelyén, továbbá annak a 7. § (4) bekezdése szerinti vonzáskörzetében nem rendelkezik beköltözhető lakás tulajdon- vagy bérleti jogával.
+
+(8) A honvédelmi szerv állományába tartozó személy felsőfokú tanulmányait nappali tagozaton folytató gyermeke, ha az a honvédelmi érdekű elhelyezést nem veszélyezteti, az oktatási intézmény székhelyén vagy annak közelében lévő szálló férőhelyen a szülőtől különállóan is elhelyezhető.
+
+(9) Alkalomszerűnek kell tekinteni azt a szállón történő eseti elhelyezést, amelynek időtartama nem haladja meg az öt éjszakát. Alkalomszerűen lehet elhelyezni a szállón
+
+a) a honvédelmi szerv állományába tartozó személyt, amennyiben a szállást szolgálati úttal összefüggésben veszi igénybe;
+
+b) a honvédelmi szerv állományába tartozó személyt és hozzátartozóit, amennyiben a szállást utazással, rokoni vagy baráti látogatással összefüggésben veszi igénybe;
+
+c) a HM tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavégzésre kirendelt munkavállalóját.
+
+(10) A szállón történő elhelyezés a rendeletben meghatározott kivétellel kizárólag a 172. §-ban megállapított bérleti vagy használati díj ellenében engedélyezhető.
+
+(11) A szálló férőhelyek elosztásáról a helyi lakásgazdálkodási szerv vezetője dönt. A helyőrségi szállók egységes házirendjét a HM vagyonkezelői feladatokat ellátó szerv vezetője a HM központi lakásgazdálkodási szerv vezetőjének jóváhagyásával teszi közzé.
+
+[^78]: A 168. §-t a 22/2013. (X. 7.) HM rendelet 27. § b) pontja hatályon kívül helyezte.
+[^79]: A 169. § a 22/2013. (X. 7.) HM rendelet 10. §-ával megállapított szöveg.

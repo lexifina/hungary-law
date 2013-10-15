@@ -6,9 +6,9 @@
 
 a) tiszti állományú katonák,
 
-b)[^16] altiszti állományú katonák,
+b)[^23] altiszti állományú katonák,
 
-c)[^17] kormánytisztviselők, közalkalmazottak és munkavállalók,
+c)[^24] kormánytisztviselők, közalkalmazottak és munkavállalók,
 
 d) nyugállományúak, valamint özvegyek és az 5. § (1) bekezdés c) pontjában meghatározott túlélő élettárs.
 
@@ -20,7 +20,7 @@ aa) a szolgálati helye szerinti vonzáskörzetben lévő településen nem rend
 
 ab) az építési hatóság megállapítása szerint olyan lakásban lakik, amely lakás céljára alkalmatlan,
 
-ac) az Állami Népegészségügyi és Tisztiorvosi Szolgálat megállapítása szerint egészségre ártalmas lakásban lakik;
+ac)[^25] az egészségügyi államigazgatási szerv megállapítása szerint egészségre ártalmas lakásban lakik;
 
 b) a II. kategóriába azt, aki
 
@@ -42,5 +42,6 @@ b) a II. kategóriába kell sorolni, ha a végleges letelepedés helyéül vála
 
 c) a III. kategóriába kell sorolni, ha a végleges letelepedés helyéül választott településen a 10. § (1) bekezdésben meghatározott igény mértékének megfelelő HM rendelkezésű lakásban lakik, és annál nagyobb szobaszámú, magasabb komfortfokozatú vagy számára kedvezőbb fekvésű, beosztású, alapterületű, jobb minőségű lakást kér.
 
-[^16]: A 16. § (1) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^17]: A 16. § (1) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^23]: A 16. § (1) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^24]: A 16. § (1) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^25]: A 16. § (2) bekezdés a) pont ac) alpontja a 22/2013. (X. 7.) HM rendelet 4. §-ával megállapított szöveg.

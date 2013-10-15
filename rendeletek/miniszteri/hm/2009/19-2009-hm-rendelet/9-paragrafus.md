@@ -24,9 +24,9 @@ b) HM rendelkezésű lakás juttatásával összefüggésben cseretérítésben 
 
 c) a szolgálati, illetőleg munkahelye szerinti településen lévő, a 10. §-ban megállapított jogos igényének megfelelő, beköltözhető, saját tulajdonú lakását elidegenítette;
 
-d) a Lakástörvény 24. § (1) bekezdés a)–d) pontja szerinti bérbeadói felmondás következtében vált a HM rendelkezésű lakás jogcím nélküli használójává.
+d)[^16] a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) 24. § (1) bekezdés a)–d) pontja szerinti bérbeadói felmondás következtében vált a HM rendelkezésű lakás jogcím nélküli használójává.
 
-(3) Az (1) bekezdés b)–h) pontjában, továbbá a (2) bekezdés a) pontjában meghatározott kizáró okok alól a HM Központi Lakásbizottság, a (2) bekezdés b) pontjában foglalt kizáró okok alól a helyőrségi – Budapesten az illetékes keretgazda – lakásbizottság adhat felmentést a méltányolható körülmények, valamint a szolgálati és lakásgazdálkodási érdek együttes mérlegelésével. Az eljáró bizottság ezzel egyidejűleg köteles meghatározni a lakásjuttatás e rendelet szerint megállapítható tartamát, amelyet a felmentő döntésről szóló értesítésben közöl a kérelmezővel.
+(3)[^17] Az (1) bekezdés c)–h) pontjában, továbbá a (2) bekezdés a) pontjában meghatározott kizáró okok alól a HM Központi Lakásbizottság, a (2) bekezdés b) pontjában foglalt kizáró okok alól a helyőrségi – Budapesten az illetékes keretgazda – lakásbizottság adhat felmentést a (8) bekezdés szerinti méltányolható körülmények, valamint a 3. § (10) bekezdés szerinti szolgálati és lakásgazdálkodási érdek együttes mérlegelésével. Az eljáró bizottság ezzel egyidejűleg köteles meghatározni a lakásjuttatás e rendelet szerint megállapítható tartamát, amelyet a felmentő döntésről szóló értesítésben közöl a kérelmezővel.
 
 (4) A felmentés – beleértve a (2) bekezdés szerinti időtartam lejártával bekövetkező mentesülést követő lakásjuttatást is –
 
@@ -40,13 +40,15 @@ ac) a meglévőnél nagyobb szobaszámú vagy magasabb komfortfokozatú lakás j
 
 b) vállalkozói HM rendelkezésű lakás juttatása esetében az a) pontban foglalt esetekben a 31. § (1) bekezdése szerinti feltétellel adható.
 
-(5)[^12] A másik helyőrségbe – különösen a haderő átalakítása vagy átszervezés során – kinevezett, áthelyezett, rendelkezési állományból más szervhez határozatlan időtartamra vezényelt (a továbbiakban: áthelyezett) személy részére az (1) bekezdés b)–g) pontjaiban, valamint a (2) bekezdés a) és b) pontjában foglalt kizáró okok alól
+(5)[^18] A másik helyőrségbe – különösen a haderő átalakítása vagy átszervezés során – kinevezett, áthelyezett, rendelkezési állományból más szervhez egy évet meghaladó határozott vagy határozatlan időtartamra vezényelt (a továbbiakban: áthelyezett) személy részére az (1) bekezdés c)–g) pontjaiban, valamint a (2) bekezdés a) és b) pontjában foglalt kizáró okok alól
 
-a) HM rendelkezésű lakás juttatására – a b) pontban foglalt kivételekkel – az új szolgálati hely szerinti településen betöltött beosztásának megszűnéséig, vagy
+a) HM rendelkezésű lakás juttatására az új szolgálati hely szerinti településen betöltött beosztásának megszűnéséig, vagy
 
 b) vállalkozói HM rendelkezésű lakás juttatására az új szolgálati hely szerinti településen betöltött beosztásának, de legfeljebb a honvédelmi szerv és a magánbefektető között fennálló elhelyezési célú megállapodás megszűnéséig
 
 mint feltétel bekövetkezéséig szólóan is adhat a HM Központi Lakásbizottság felmentést. A felmentésben részesült személyt a (4) bekezdés a) pontjának aa)–ac) alpontjában megállapított visszafizetési kötelezettség nem terheli.
+
+(5a)[^19] Ha az (5) bekezdés szerinti felmentés szerinti tartammal bérelt lakás bérleti szerződése azért szűnik meg, mert a bérlőt külszolgálatra vezénylik vagy áthelyezik, a lakás ismételt bérbeadása érdekében a bérlő (használó) kérelmére a külföldi szolgálat megszűnéséig, mint feltétel bekövetkezéséig szóló felmentés adható.
 
 (6) Vezetői és munkakörhöz kötött lakásra jogosult személyek tekintetében az (1) bekezdés b) pontját nem kell alkalmazni.
 
@@ -68,4 +70,7 @@ f) nyugállományba helyezése folyamatban van vagy az megtörtént, és család
 
 g) házasságát bíróság jogerős ítélettel felbontotta vagy élettársi kapcsolata megszűnt, és ennek következményeként lakással nem rendelkezik.
 
-[^12]: A 9. § (5) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 2. pontja szerint módosított szöveg.
+[^16]: A 9. § (2) bekezdés d) pontja a 22/2013. (X. 7.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^17]: A 9. § (3) bekezdése a 22/2013. (X. 7.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^18]: A 9. § (5) bekezdése a 22/2013. (X. 7.) HM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^19]: A 9. § (5a) bekezdését a 22/2013. (X. 7.) HM rendelet 3. § (4) bekezdése iktatta be.

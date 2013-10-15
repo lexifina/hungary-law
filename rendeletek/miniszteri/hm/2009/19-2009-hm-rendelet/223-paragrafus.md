@@ -1,6 +1,6 @@
-223. § (1)[^120] A lakáscélú támogatási szerv lakásgazdálkodási feladatait a HM központi lakásgazdálkodási szerv szakmai irányításával önálló hatáskörben, az egész ország területére kiterjedő illetékességgel látja el.
+223. § (1)[^137] A lakáscélú támogatási szerv lakásgazdálkodási feladatait a HM központi lakásgazdálkodási szerv szakmai irányításával önálló hatáskörben, az egész ország területére kiterjedő illetékességgel látja el.
 
-(2)[^121] A lakáscélú támogatási szerv:
+(2)[^138] A lakáscélú támogatási szerv:
 
 a) központi lakásgazdálkodási döntéseket előkészítő,
 
@@ -14,5 +14,5 @@ e) tájékoztató jellegű ügyfélszolgálati
 
 feladatokat lát el.
 
-[^120]: A 223. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^121]: A 223. § (2) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^137]: A 223. § (1) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^138]: A 223. § (2) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 a) korábban a lakásbérleti jogról való lemondásért pénzbeli térítésben vagy kiürítési térítésben nem részesült, és
 
-b)[^39] a lakást legalább öt éve folyamatosan bérli.
+b)[^50] a lakást legalább öt éve folyamatosan bérli.
 
 (3) A 30. § (1) bekezdéstől eltérően kikötött feltétel bekövetkezéséig szóló, valamint a határozott időtartamú lakásbérlet megszüntetése esetén kiürítési térítésben nem lehet megállapodni.
 
@@ -12,4 +12,4 @@ b)[^39] a lakást legalább öt éve folyamatosan bérli.
 
 (5) A 64. § (2) bekezdés a) vagy b) pontja szerinti kiürítési térítés összegével megegyező térítés fizethető annak a bérlőnek, akinek a vállalkozói HM rendelkezésű lakásra a 31. § (1) bekezdés szerint létrejött bérlete a magánbefektetővel kötött elhelyezési célú megállapodás megszűnése miatt szűnik meg, feltéve, hogy a (2) bekezdésben foglalt feltételek fennállnak.
 
-[^39]: A 65. § (2) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 7. §-ával megállapított szöveg.
+[^50]: A 65. § (2) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 7. §-ával megállapított szöveg.

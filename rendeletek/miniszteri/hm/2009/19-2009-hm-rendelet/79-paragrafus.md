@@ -6,7 +6,7 @@
 
 a) a lakásbérleti szerződés határozott időtartamra vagy feltétel bekövetkezéséig szól,
 
-b)[^50] a lakás bérlője a honvédelmi szervvel szolgálati (kormánytisztviselői, közalkalmazotti, munkavállalói) jogviszonyban áll,
+b)[^59] a lakás bérlője a honvédelmi szervvel szolgálati (kormánytisztviselői, közalkalmazotti, munkavállalói) jogviszonyban áll,
 
 c) a lakás egyszobás,
 
@@ -20,4 +20,4 @@ g) a lakás állami tulajdonban és HM vagyonkezelésben van, kivéve, ha bérbe
 
 (3) A vállalkozói HM rendelkezésű lakás nem adható albérletbe.
 
-[^50]: A 79. § (2) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^59]: A 79. § (2) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.

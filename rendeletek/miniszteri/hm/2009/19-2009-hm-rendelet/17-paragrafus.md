@@ -1,4 +1,4 @@
-17. § (1) A lakásbizottság évente március 1-jéig dönt a lakásigénylők besorolási kategórián belüli sorrendjéről. A sorrendiség kialakításakor figyelembe kell venni
+17. § (1)[^26] A lakásbizottság évente, szeptember 15. és szeptember 30. között dönt a lakásigénylők besorolási kategórián belüli sorrendjéről. A sorrendiség kialakításakor figyelembe kell venni
 
 a) az igénylő beosztását, katonai rendfokozatát, közszolgálati, illetve munkaviszonyának időtartamát, továbbá a lakásigénylésének nyilvántartásba vétele óta eltelt időtartamot,
 
@@ -11,3 +11,5 @@ c) az igénylővel egy háztartásban élő eltartott személyek, a háztartás�
 (3) A lakásbizottság által megállapított besorolástól a tárgyévben eltérni csak pótbesorolás esetén lehet.
 
 (4) A lakásigénylőt a besorolásról a kategória és azon belüli sorszám közlésével a bizottsági döntést követő 30 napon belül írásban kell értesíteni.
+
+[^26]: A 17. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 5. §-ával megállapított szöveg.

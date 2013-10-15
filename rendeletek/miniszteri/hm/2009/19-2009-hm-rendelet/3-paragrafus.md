@@ -50,17 +50,17 @@ c) az országos parancsnoki beosztás.
 
 a) a helyőrségi szálló, továbbá
 
-b)[^4] a laktanyai tiszti és altiszti szállás.
+b)[^6] a laktanyai tiszti és altiszti szállás.
 
 (8) A rendelet alkalmazásában
 
-a)[^5] bérbeadó: az állami tulajdonú HM rendelkezésű lakások és személygépkocsi-tároló helyiségek, illetve állóhelyek tekintetében a helyi lakásgazdálkodási szerv, az állami tulajdonú HM rendelkezésű lakóépülethez tartozó nem lakáscélú helyiségek tekintetében a HM vagyonkezelői feladatokat ellátó szerv;
+a)[^7] bérbeadó: az állami tulajdonú HM rendelkezésű lakások és személygépkocsi-tároló helyiségek, illetve állóhelyek tekintetében a helyi lakásgazdálkodási szerv, az állami tulajdonú HM rendelkezésű lakóépülethez tartozó nem lakáscélú helyiségek tekintetében a HM vagyonkezelői feladatokat ellátó szerv;
 
 b) kezelő: az állami tulajdonú HM rendelkezésű lakóépületek (lakások) és nem lakáscélú helyiségek tekintetében a helyi lakóházkezelő szerv;
 
 c) magánbefektető: az olyan természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, amellyel a honvédelmi szerv elhelyezési célú megállapodást köt.
 
-(9)[^6] Az e rendeletben meghatározott
+(9)[^8] Az e rendeletben meghatározott
 
 a) HM központi lakásgazdálkodási szerv;
 
@@ -100,9 +100,9 @@ a) beosztásának (11) bekezdés a) pontja szerinti megszűnését követően re
 
 b) beosztásának (11) bekezdés a) pontja szerinti megszűnése nélkül, új katonai képesség létrehozásával összefüggésben nevezték ki, helyezték át a korábbi beosztásáétól eltérő településen lévő katonai szervezet állományába.
 
-(13)[^7] A szolgálati járandóságban részesülő személyekre a szolgálati nyugállományú katonákra vonatkozó szabályokat kell alkalmazni.
+(13)[^9] A szolgálati járandóságban részesülő személyekre a szolgálati nyugállományú katonákra vonatkozó szabályokat kell alkalmazni.
 
-[^4]: A 3. § (7) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^5]: A 3. § (8) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^6]: A 3. § (9) bekezdése a 4/2012. (IV. 5.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 3. § (7) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 3. § (8) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 3. § (9) bekezdése a 4/2012. (IV. 5.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (13) bekezdését a 4/2012. (IV. 5.) HM rendelet 2. § (2) bekezdése iktatta be.

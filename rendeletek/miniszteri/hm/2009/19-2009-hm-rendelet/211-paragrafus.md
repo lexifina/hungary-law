@@ -1,18 +1,10 @@
-211. § (1)[^107] Lakbértámogatás az arra jogosult, szolgálati érdekből áthelyezett hivatásos és szerződéses tiszt, altiszt részére akkor állapítható meg, ha
+211. § (1)[^121] Lakbértámogatás az arra jogosult, szolgálati érdekből áthelyezett hivatásos és szerződéses tiszt, altiszt részére akkor állapítható meg, ha
 
 a) önkormányzati tulajdonú lakásban bérlőként (bérlőtársként), a bérlő házastársaként, továbbá az 5. § (1) bekezdés c) pontja szerinti feltételeknek megfelelő élettársaként lakik, és
 
-b)[^108] a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 81. § (1) bekezdésben meghatározott lakbér mértékét.
+b)[^122] a lakás helyi önkormányzat által megállapított lakbérének a mértéke (forint/m2) meghaladja az azonos komfortfokozatú lakásra a 81. § (1) bekezdésben meghatározott lakbér mértékét.
 
-(2) A lakbértámogatásra való jogosultság szempontjából szolgálati érdekű áthelyezésnek minősül:
-
-a) a Hjt. 52. §-a szerinti vezénylés kivételével a korábbi beosztásétól eltérő helyőrségben lévő szolgálati beosztásba helyezés,
-
-b) a Hjt. 46. §-a szerint más szervhez történt vezénylés,
-
-c) az ugyanazon helyőrségben (szolgálati helyen) lévő más beosztásba helyezés, továbbá
-
-d) az első beosztásba kinevezés.
+(2)[^123]
 
 (3) Nem kaphat lakbértámogatást, aki
 
@@ -46,5 +38,6 @@ nem haladhatja meg.
 
 (7) A lakbértámogatásra való jogosultság a kérelem benyújtásának időpontját megelőző hatállyal nem állapítható meg, illetőleg nem igazolható. A lakbértámogatás folyósítása számla leadása ellenében történik.
 
-[^107]: A 211. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^108]: A 211. § (1) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 16. pontja szerint módosított szöveg.
+[^121]: A 211. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^122]: A 211. § (1) bekezdés b) pontja a 9/2010. (V. 4.) HM rendelet 12. § 16. pontja szerint módosított szöveg.
+[^123]: A 211. § (2) bekezdését a 22/2013. (X. 7.) HM rendelet 27. § d) pontja hatályon kívül helyezte.

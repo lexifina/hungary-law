@@ -1,7 +1,7 @@
-199. §[^95] (1) A munkáltatói kölcsön iránt benyújtott kérelmeket a lakáscélú támogatási szerv a beérkezés sorrendjében, az e célra rendelkezésre álló pénzügyi fedezet figyelembevételével bírálja el.
+199. §[^110] (1) A munkáltatói kölcsön iránt benyújtott kérelmeket a lakáscélú támogatási szerv a beérkezés sorrendjében, az e célra rendelkezésre álló pénzügyi fedezet figyelembevételével bírálja el.
 
 (2) Az (1) bekezdés szerint e célra rendelkezésre álló pénzügyi fedezet legfeljebb 30%-át a HM Központi Lakásbizottság javaslatára a honvédelemért felelős miniszter egyes helyőrségeket érintő, a honvédség átalakításával összefüggő, vagy más központi lakásgazdálkodási feladat megvalósítására lakáscélú támogatásra összpontosíthatja, illetve átcsoportosíthatja.
 
 (3) Amennyiben az igénylés okirati hiányosság miatt érdemben nem bírálható el, a lakáscélú támogatási szerv a kérelmezőt az igénylés nyilvántartásba vételét követő 30 napon belül hiánypótlásra felhívja. A hiánypótlási határidő legfeljebb a kérelem nyilvántartásba vételétől számított 6 hónap lehet, amelyet a lakáscélú támogatási szerv indokolt esetben, kérelemre egy alkalommal, legfeljebb további 6 hónappal hosszabbíthat meg. A hiánypótlási határidő további meghosszabbítását – kérelemre, különös méltánylást érdemlő esetben, a lakáscélú támogatási szerv javaslatára – a HM központi lakásgazdálkodási szerv vezetője engedélyezheti. A hiánypótlási határidő összességében – a hosszabbításokkal együtt – nem haladhatja meg az igénylés nyilvántartásba vételétől számított 3 évet.
 
-[^95]: A 199. § a 240. § (2) bekezdése alapján 2011. január 1-jén lép hatályba, szövege a 4/2012. (IV. 5.) HM rendelet 14. §-ával megállapított szöveg.
+[^110]: A 199. § a 240. § (2) bekezdése alapján 2011. január 1-jén lép hatályba, szövege a 4/2012. (IV. 5.) HM rendelet 14. §-ával megállapított szöveg.

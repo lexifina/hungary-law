@@ -2,7 +2,7 @@
 
 ## Lakáshasználati díj
 
-59. § (1)[^34] Az a jogcím nélküli lakáshasználó, aki e rendelet alapján megfelelő elhelyezésre nem tarthat igényt, a jogcím nélküli használat kezdetétől számított 6 hónap elteltével a lakásra a 81. § szerint megállapítható lakbér négyszeresére növelt összegét köteles lakáshasználati díjként megfizetni. További 6 hónap elteltével a lakáshasználati díj a lakásra megállapítható lakbér összegének hatszorosa.
+59. § (1)[^45] Az a jogcím nélküli lakáshasználó, aki e rendelet alapján megfelelő elhelyezésre nem tarthat igényt, a jogcím nélküli használat kezdetétől számított 6 hónap elteltével a lakásra a 81. § szerint megállapítható lakbér négyszeresére növelt összegét köteles lakáshasználati díjként megfizetni. További 6 hónap elteltével a lakáshasználati díj a lakásra megállapítható lakbér összegének hatszorosa.
 
 (2) Az (1) bekezdés rendelkezéseit az 1994. január 1-je előtt rosszhiszemű jogcím nélkülivé vált lakáshasználó esetében is alkalmazni kell.
 
@@ -22,4 +22,4 @@ teljesíti.
 
 (7) Az (1) bekezdés szerinti lakáshasználati díj 50%-át köteles megfizetni az a hivatásos és szerződéses katona, akinek a helyőrségben betöltött beosztása megszűnéséig mint feltétel bekövetkezésig szóló lakásbérleti szerződése azért szűnt meg, mert a haderő átalakításával vagy átszervezéssel összefüggésben más helyőrségbe helyezték át.
 
-[^34]: Az 59. § (1) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 8. pontja szerint módosított szöveg.
+[^45]: Az 59. § (1) bekezdése a 9/2010. (V. 4.) HM rendelet 12. § 8. pontja szerint módosított szöveg.

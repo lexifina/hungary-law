@@ -1,4 +1,4 @@
-38. § (1)[^30] A hivatásos és szerződéses tiszt, altiszt a részére bérbe adott HM rendelkezésű lakás részleges felújításához – kivéve, ha a lakás új, valamint részben vagy egészében felújított – részleges lakásfelújítási átalányra jogosult, ha a lakást
+38. § (1)[^41] A hivatásos és szerződéses tiszt, altiszt a részére bérbe adott HM rendelkezésű lakás részleges felújításához – kivéve, ha a lakás új, valamint részben vagy egészében felújított – részleges lakásfelújítási átalányra jogosult, ha a lakást
 
 a) első juttatásként,
 
@@ -18,4 +18,4 @@ kapta.
 
 (6) A részleges lakásfelújítási átalány a lakás tisztasági festése, tapétázása, mázolása, a parkettaburkolat védőkezelése, valamint a lakás takarítása számlával igazolt anyag- és szolgáltatási költségeinek részleges visszatérítésére szolgáló, a lakhatási támogatásokkal összefüggő feladatok ellátásáról szóló HM utasításban közzétett mérték alapján számított pénzösszeg.
 
-[^30]: A 38. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 38. § (1) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés b) pontja szerint módosított szöveg.

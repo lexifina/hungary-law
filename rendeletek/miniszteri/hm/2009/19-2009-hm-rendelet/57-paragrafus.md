@@ -4,8 +4,8 @@
 
 (2) Az (1) bekezdés szerinti térítés nem terjed ki a lakás nem rendeltetésszerű használatából és a lakásberendezési tárgyak pótlásából eredő, továbbá a kártérítési felelősségen alapuló bérlői kötelezettségek teljesítésének költségeire.
 
-(3)[^33] A lakás karbantartási költségtérítés mértéke nem haladhatja meg a visszaadott lakásra az e rendelet szerint megállapítható részleges felújítási átalány összegének 50%-át, de legfeljebb a 150 ezer forintot.
+(3)[^44] A lakás karbantartási költségtérítés mértéke nem haladhatja meg a visszaadott lakásra az e rendelet szerint megállapítható részleges felújítási átalány összegének 50%-át, de legfeljebb a 150 ezer forintot.
 
 (4) Az (1)–(3) bekezdések nem alkalmazhatóak az olyan magánbefektetői HM rendelkezésű lakásra, amelynek az időszakos felújítására a magánbefektetővel kötött elhelyezési célú megállapodás kiterjed, vagy annak teljesítésére üzemeltetési, vállalkozási szerződést kötött a honvédelmi szerv a magánbefektetővel.
 
-[^33]: Az 57. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 4. §-ával megállapított szöveg.
+[^44]: Az 57. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 4. §-ával megállapított szöveg.
