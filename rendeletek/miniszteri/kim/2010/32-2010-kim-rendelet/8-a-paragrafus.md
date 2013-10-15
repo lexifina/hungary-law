@@ -1,4 +1,4 @@
-## 1/A. [^12] Az Alaptörvény egységes szerkezetű szövegének megjelölése a közzététel során
+## 1/A. [^13] Az Alaptörvény egységes szerkezetű szövegének megjelölése a közzététel során
 
 ## 8/A. § Az Alaptörvény egységes szerkezetű szövegének megjelölése annak közzététele során – az alábbi sorrendben – magában foglalja
 
@@ -12,4 +12,4 @@ bb) hónapját betűvel kiírva és
 
 bc) napját arab számmal.
 
-[^12]: Az 1/A. alcímet (8/A. §) a 13/2011. (IV. 22.) KIM rendelet 1. §-a iktatta be, szövege a 6/2013. (V. 30.) KIM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 1/A. alcímet (8/A. §) a 13/2011. (IV. 22.) KIM rendelet 1. §-a iktatta be, szövege a 6/2013. (V. 30.) KIM rendelet 11. § (1) bekezdésével megállapított szöveg.
