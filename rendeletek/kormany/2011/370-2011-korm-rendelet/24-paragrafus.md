@@ -6,7 +6,7 @@
 
 a) a következő szakirányú szakképzettségek valamelyikével rendelkezik:
 
-aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, okleveles igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
+aa)[^13] jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, közigazgatás-szervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
 
 ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi, vagy
 
@@ -36,7 +36,7 @@ bk) felsőfokú államháztartási
 
 ## szakképesítéssel rendelkezik.
 
-(3)[^13] Ha a költségvetési szerv belső ellenőrzési szervezeti egységgel rendelkezik, a költségvetési szerv vezetője a felsőfokú iskolai végzettségűeknek felmentést adhat a (2) bekezdésben foglalt szakmai gyakorlati feltétel alól, de ebben az esetben is köteles gondoskodni arról, hogy a belső ellenőrzési szervezeti egység rendelkezzen mindazzal a szaktudással, gyakorlattal és egyéb ismerettel, amely a feladatok elvégzéséhez szükséges.
+(3)[^14] Ha a költségvetési szerv belső ellenőrzési szervezeti egységgel rendelkezik, a költségvetési szerv vezetője a felsőfokú iskolai végzettségűeknek felmentést adhat a (2) bekezdésben foglalt szakmai gyakorlati feltétel alól, de ebben az esetben is köteles gondoskodni arról, hogy a belső ellenőrzési szervezeti egység rendelkezzen mindazzal a szaktudással, gyakorlattal és egyéb ismerettel, amely a feladatok elvégzéséhez szükséges.
 
 (4) Nem lehet vizsgálatvezetőnek kijelölni azt a belső ellenőrt, aki a (2) bekezdés szerinti szakmai gyakorlat alól felmentést kapott, addig amíg a belső ellenőrzési szervezeti egységnél a hiányzó szakmai gyakorlatot meg nem szerezte.
 
@@ -48,4 +48,5 @@ bk) felsőfokú államháztartási
 
 [^11]: A 24. § (1) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^12]: A 24. § (2) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^13]: A 24. § (3) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: A 24. § (2) bekezdés a) pont aa) alpontja a 347/2013. (IX. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^14]: A 24. § (3) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-24/A. §[^14] (1) A költségvetési szervnél belső ellenőrzési tevékenység végzésére jogosító engedély kiadásához szükséges – és a regisztrációs kérelemhez csatolandó – bizonyítási eszközök az alábbiak:
+24/A. §[^15] (1) A költségvetési szervnél belső ellenőrzési tevékenység végzésére jogosító engedély kiadásához szükséges – és a regisztrációs kérelemhez csatolandó – bizonyítási eszközök az alábbiak:
 
 a) a 24. § (2) bekezdés a) és b) pontjában meghatározott szakirányú és más felsőfokú iskolai végzettséget igazoló oklevél, bizonyítvány másolata,
 
@@ -12,4 +12,4 @@ d) hatósági erkölcsi bizonyítvány, amellyel a kérelmező igazolja azt a t�
 
 (3) A büntetlen előélet és a foglalkozástól való eltiltás hatályának igazolása céljából a kérelmező kérheti, hogy az erre vonatkozó adatokat a bűnügyi nyilvántartó szerv az államháztartásért felelős miniszter részére – a belső ellenőrzési tevékenység végzéséhez szükséges engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
-[^14]: A 24/A. §-t a 264/2013. (VII. 11.) Korm. rendelet 7. §-a iktatta be.
+[^15]: A 24/A. §-t a 264/2013. (VII. 11.) Korm. rendelet 7. §-a iktatta be.
