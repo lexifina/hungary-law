@@ -1,3 +1,0 @@
-## 15. § Az R. 123. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A hatályon kívül helyező rendelkezések között a törvényre vonatkozó hatályon kívül helyező rendelkezések megelőzik a Magyar Nemzeti Bank elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a kormányrendeletre vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Kormány tagja rendeletére vonatkozó hatályon kívül helyező rendelkezéseket, amelyek megelőzik a Pénzügyi Szervezetek Állami Felügyelete elnöke rendeletére vonatkozó hatályon kívül helyező rendelkezéseket.”
