@@ -1,0 +1,3 @@
+2. § A Szabs. tv. 101. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az e törvény szerint helyszíni bírság kiszabására, illetve jogszabály alapján ellenőrzésre jogosult szerv vagy személy a szabálysértési elzárással nem büntethető szabálysértés tetten ért elkövetőjét, ha a helyszíni bírság kiszabását nem veszi tudomásul, vagy ha a helyszíni bírság kiszabása e törvény szerint kizárt, a szabálysértési eljárás azonnali lefolytatása érdekében az elkövetés helye szerint illetékes szabálysértési hatósággal egyeztetett, de legkésőbb öt napon belüli időpontra a helyszínen a szabálysértési hatóság elé idézheti.”
