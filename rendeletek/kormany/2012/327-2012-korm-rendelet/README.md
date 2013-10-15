@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-327-20-
 | 2013-02-01 | 2012-327-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-02-02 | 2012-327-20-22.6 | 2010: CXXX. törvény |
 | 2013-09-23 | 2012-327-20-22.7 | 335/2013. (IX. 20.) Korm. rendelet |
+| 2013-10-15 | 2012-327-20-22.8 | 347/2013. (IX. 30.) Korm. rendelet |
