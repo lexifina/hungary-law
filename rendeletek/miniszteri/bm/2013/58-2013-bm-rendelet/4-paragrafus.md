@@ -1,3 +1,0 @@
-## 3. § Az R. 3. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A közszolgáltató a sormunka tényleges időpontjáról legalább 8 nappal korábban köteles az ingatlan használóját értesíteni az ellátásért felelős önkormányzat rendeletében meghatározott módon. Ha a közszolgáltatás a jelzett időpontban nem valósul meg, a közszolgáltató írásban a Törvény szerint meghatározott második időpontot jelöl meg, és egyidejűleg az ingatlan használóját, tulajdonosát írásban tájékoztatja a közszolgáltatás – a közszolgáltatás ellátásának ismételt meghiúsulása esetén annak napjától számított – 30 napon belüli igénybevételének kötelezettségéről, és ennek elmulasztása esetén a tűzvédelmi hatóság értesítésének közszolgáltatói kötelezettségéről.”

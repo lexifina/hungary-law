@@ -1,1 +1,0 @@
-## „(6a) Kéménytűz vagy szén-monoxid-szivárgás káreseményt követően az érintett égéstermék-elvezetőt csak helyszíni műszaki vizsgálatot követően lehet ismételten üzembe helyezni. A szükséges vizsgálatot a közszolgáltató a megrendelést követő 3 munkanapon belül elvégzi, és annak eredményéről készített nyilatkozatot a vizsgálatot követő munkanapon kiadja.”
