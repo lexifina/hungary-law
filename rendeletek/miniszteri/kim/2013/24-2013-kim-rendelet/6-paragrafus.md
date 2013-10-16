@@ -2,4 +2,6 @@
 
 6. § (1) Ez a rendelet 2013. október 15-én lép hatályba.
 
-(2) Hatályát veszti az MA Nemzetközi Közszolgálati Kapcsolatok mesterképzési szak képzési és kimeneti követelményeiről szóló 22/2013. (VIII. 21.) KIM rendelet.
+(2)[^2]
+
+[^2]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
