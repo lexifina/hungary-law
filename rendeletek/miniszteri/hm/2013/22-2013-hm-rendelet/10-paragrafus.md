@@ -1,3 +1,0 @@
-## 9. § Az R. 74. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Ha a jogcím nélkül használt lakás a megfelelő másik lakás követelményeinek felel meg, vagy annál legfeljebb egy lakószobával nagyobb, megfelelő elhelyezés címén a jogosultnak bérbe lehet adni, ha az nem sérti a lakásgazdálkodási érdekeket. Amennyiben a jogcím nélkül használt lakás az (1) bekezdésben meghatározott mértéknél több mint egy lakószobával nagyobb, a lakás megfelelő elhelyezés címén a honvédelmért felelős miniszter előzetes hozzájárulásával adható bérbe.”

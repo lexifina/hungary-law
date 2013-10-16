@@ -1,1 +1,0 @@
-## „(5a) Ha az (5) bekezdés szerinti felmentés szerinti tartammal bérelt lakás bérleti szerződése azért szűnik meg, mert a bérlőt külszolgálatra vezénylik vagy áthelyezik, a lakás ismételt bérbeadása érdekében a bérlő (használó) kérelmére a külföldi szolgálat megszűnéséig, mint feltétel bekövetkezéséig szóló felmentés adható.”

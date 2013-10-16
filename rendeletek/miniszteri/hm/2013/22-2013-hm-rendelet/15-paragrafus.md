@@ -1,1 +1,0 @@
-## „(2a) Az (1) bekezdés b) pontja szerinti esetben a támogatás a szolgálati viszony megszüntetéséről rendelkező határozat (parancs) kiadmányozását követően, a szolgálati viszony megszűnésének napjáig terjedő időszakban nyújtható, illetve állapítható meg.”

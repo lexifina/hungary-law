@@ -1,1 +1,0 @@
-## „Az (1) bekezdésben foglaltakon túlmenően, a bekövetkezett kötelezettségszegésre és mulasztásra figyelemmel kell felmondani a munkáltatói kölcsönt és vissza kell vonni a már jóváírt engedményt, ha a kedvezményezett:”

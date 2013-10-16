@@ -1,1 +1,0 @@
-## „b) a hivatásos, a hivatásos állományból szolgálati nyugállományba helyezett katonának, valamint az állomány hősi halott tagjának özvegyére, az 5. § (1) bekezdés c) pontja szerinti feltétekkel rendelkező túlélő élettársára, továbbá a hősi halott saját háztartásában eltartott gyermekére.”
