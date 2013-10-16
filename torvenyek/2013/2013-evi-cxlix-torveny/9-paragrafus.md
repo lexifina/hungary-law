@@ -1,1 +1,0 @@
-9. § A kereskedelemről szóló 2005. évi CLXIV. törvény 9. § (4) bekezdés f) pontjában a „bírságot szab ki” szövegrész helyébe a „közterületi értékesítés szabályainak megszegése kivételével bírságot szab ki” szöveg lép.
