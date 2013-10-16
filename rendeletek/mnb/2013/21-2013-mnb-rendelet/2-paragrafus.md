@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 999 ezrelék finomságú aranyból készült, súlya 0,5 gramm, átmérője 11 mm, széle sima.
+
+(2) Az emlékérme előlapjának szélén, felső köriratban a „MAGYARORSZÁG” felirat olvasható. A középmezőben, öt egymás alatti vízszintes sorban a „2013” verési évszám, a „BP.” verdejel, egy filmtekercs kockáját ábrázoló motívumban az „5000” értékjelzés, valamint a „FORINT” felirat olvasható. Az emlékérme szélén, középen lent az előlapot tervező Illyés Antal tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapjának jobb felső szélén, köriratban a „ROBERT CAPA” felirat olvasható. A középmezőben Robert Capa mellképének ábrázolása látható fényképezés közben, katonai uniformisban és rohamsisakban. A mellképtől jobbra, két egymás alatti vízszintes sorban az „1913” és az „-1954” felirat olvasható. A mellképtől balra a hátlapot tervező Szabó György tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
