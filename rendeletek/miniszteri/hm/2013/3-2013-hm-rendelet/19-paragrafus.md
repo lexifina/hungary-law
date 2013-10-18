@@ -2,4 +2,6 @@
 
 (2) Az előirányzat felhasználása közvetlen kifizetéssel valósul meg.
 
-(3) Az előirányzat kezelő szerve a HM Fegyverzeti és Hadbiztosi Hivatal.
+(3)[^7] Az előirányzat kezelő szerve a HM VGH.
+
+[^7]: A 19. § (3) bekezdése a 23/2013. (X. 17.) HM rendelet 3. § d) pontja szerint módosított szöveg.

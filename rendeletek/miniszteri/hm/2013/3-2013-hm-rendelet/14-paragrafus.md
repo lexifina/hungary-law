@@ -4,4 +4,6 @@
 
 (2) Az előirányzat felhasználása egyedi döntéssel, államháztartáson belüli, működési és felhalmozási célú pénzeszköz-átadással valósul meg.
 
-(3) Az előirányzat kezelő szerve a HM KPH.
+(3)[^2] Az előirányzat kezelő szerve a HM VGH.
+
+[^2]: A 14. § (3) bekezdése a 23/2013. (X. 17.) HM rendelet 3. § b) pontja szerint módosított szöveg.

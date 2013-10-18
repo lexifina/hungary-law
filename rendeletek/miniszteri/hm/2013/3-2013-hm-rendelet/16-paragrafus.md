@@ -40,7 +40,13 @@
 
 20. az Občianské zdru¤enie Gloria Victis (Gloria Victis Polgári Társulás),
 
-21. az Asociatia Exploratori Transilvaneni (Erdélyi Kutatócsoport Egyesület)
+21. az Asociatia Exploratori Transilvaneni (Erdélyi Kutatócsoport Egyesület),
+
+22.[^3] a Magyarországi Jogsértettek Egyesülete,
+
+23.[^4] a Szolnoki Fúvósegyüttes és Huszárzenekar,
+
+24.[^5] az Asociatia Szentegyházi Hagyományőrző Huszár Egyesület (Szentegyházi Hagyományőrző Huszár Egyesület)
 
 működésének és alapszabályában rögzített feladatai végrehajtásának támogatására.
 
@@ -52,4 +58,9 @@ működésének és alapszabályában rögzített feladatai végrehajtásának t
 
 (5) Ha a külföldi kedvezményezett a (4) bekezdés szerinti felhatalmazó nyilatkozatot nem tudja megadni, a támogatási szerződésben biztosítékként a zálogjog, óvadék, bankgarancia vagy kezesség is megjelölhető.
 
-(6) Az (1) bekezdés 1., 6., 12., 18. és 19. pontja alapján nyújtott támogatás az Európai Bizottság SA. 34770 (2012/N-2) ügyben hozott 2012. július 27-i határozata szerinti kulturális támogatás.
+(6)[^6] Az (1) bekezdés 1., 6., 12., 18., 19., 23. és 24. pontja alapján nyújtott támogatás az Európai Bizottság SA. 34770 (2012/N-2) ügyben hozott 2012. július 27-i határozata szerinti kulturális támogatás.
+
+[^3]: A 16. § (1) bekezdés 22. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
+[^4]: A 16. § (1) bekezdés 23. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
+[^5]: A 16. § (1) bekezdés 24. pontját a 23/2013. (X. 17.) HM rendelet 1. §-a iktatta be.
+[^6]: A 16. § (6) bekezdése a 23/2013. (X. 17.) HM rendelet 3. § c) pontja szerint módosított szöveg.
