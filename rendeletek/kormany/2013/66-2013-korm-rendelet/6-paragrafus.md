@@ -4,4 +4,6 @@
 
 (3) Ha a közlekedésért felelős miniszter megállapítja, hogy a MÁV vagy a GYSEV a pályaműködtetési szerződésben meghatározott valamely kötelezettségét nem teljesítette, a teljesítésigazolásban rendelkezik a 2. § (2) bekezdés d) és e) pontja szerinti költségtérítés arányos csökkentéséről és annak a csökkentett összegen felüli része folyósításának felfüggesztéséről.
 
-(4) A közlekedésért felelős miniszter a teljesítésigazolás kiállításának megtagadásáról, a 2. § (2) bekezdés d) és e) pontja szerinti költségtérítés csökkentéséről és a csökkentés indokáról a MÁV-START és a GYSEV által megküldött, a vasúti személyszállítási közszolgáltatási szerződés szerinti havi jelentés megérkezését követő 8 napon belül értesíti a NAV-ot és az államháztartásért felelős minisztert.
+(4)[^5] A közlekedésért felelős miniszter a teljesítésigazolás kiállításának megtagadásáról, a 2. § (2) bekezdés a) és b) pontja szerinti költségtérítés csökkentéséről és a csökkentés indokáról a MÁV-START és a GYSEV által megküldött, a vasúti személyszállítási közszolgáltatási szerződés szerinti havi jelentés megérkezését követő 8 napon belül értesíti a NAV-ot és az államháztartásért felelős minisztert.
+
+[^5]: A 6. § (4) bekezdése a 366/2013. (X. 17.) Korm. rendelet 2. §-ával megállapított szöveg.

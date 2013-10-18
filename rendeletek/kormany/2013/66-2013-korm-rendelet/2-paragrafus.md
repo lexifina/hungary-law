@@ -10,11 +10,11 @@ igényelhető.
 
 (2) Költségtérítésként
 
-a) a MÁV-START által az Sztv. 25. §-ában meghatározott szerződés alapján végzett személyszállítási közszolgáltatáshoz 129 683,0 millió forint,
+a)[^2] a MÁV-START által az Sztv. 25. §-ában meghatározott szerződés alapján végzett személyszállítási közszolgáltatáshoz 144 092,2 millió forint,
 
-b) a GYSEV által az Sztv. 25. §-ában meghatározott szerződés alapján végzett személyszállítási közszolgáltatáshoz 9360,0 millió forint,
+b)[^3] a GYSEV által az Sztv. 25. §-ában meghatározott szerződés alapján végzett személyszállítási közszolgáltatáshoz 10 400,0 millió forint,
 
-c) az autóbusszal szolgáltatást végző társaságok helyközi személyszállítási közszolgáltatásaihoz 32 400,0 millió forint,
+c)[^4] az autóbusszal szolgáltatást végző társaságok helyközi személyszállítási közszolgáltatásaihoz 45 995,0 millió forint,
 
 d) a GYSEV által a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 28. § (1) bekezdésében meghatározott szerződés alapján működtetett vasúti pályahálózathoz 4380,0 millió forint,
 
@@ -23,3 +23,7 @@ e) a MÁV által a Vtv. 28. § (1) bekezdésében meghatározott szerződés ala
 ## igényelhető.
 
 (3) A költségtérítés igénybevételét előre meghatározott szolgáltatások, hatékonysági elvárás teljesítéséhez, valamint utólagos elszámolási kötelezettséghez kell kötni.
+
+[^2]: A 2. § (2) bekezdés a) pontja a 366/2013. (X. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdés b) pontja a 366/2013. (X. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdés c) pontja a 366/2013. (X. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
