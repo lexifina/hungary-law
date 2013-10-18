@@ -330,7 +330,7 @@
 
 ## V. kerület
 
-## | 24. | Ferenciek tere 6. | Egyetemi Könyvtár | 25. | József A. u. 6. (Nádor u. 2.) | Pollack Mihály háza | 26. | Károlyi M. u. 16. | Károlyi-palota és Károlyi-kert | 27. | Kossuth L. tér 11. | Földművelésügyi Minisztérium | 28. | Kossuth L. tér 12. | kúria | 29. | Március 15. tér | Contra Aquincum romjai | 30. | Vigadó tér 2. | Pesti Vigadó
+## | 24. | Ferenciek tere 6. | Egyetemi Könyvtár | 25. | József A. u. 6. (Nádor u. 2.) | Pollack Mihály háza | 26. | Károlyi M. u. 16. | Károlyi-palota és Károlyi-kert | 27. | Kossuth L. tér 11. | Földművelésügyi Minisztérium | 28. | Kossuth L. tér 12. | kúria | 29. | Március 15. tér | Contra Aquincum romjai | 30. | |
 
 ## VI. kerület
 
@@ -350,7 +350,7 @@
 
 ## XIV. kerület
 
-## | 56. | Hősök tere műemléki együttese | | | Dózsa György út 39-41. | Szépművészeti Múzeum | | Dózsa György út 37. | Műcsarnok | | Hősök tere | Millenniumi Emlékmű | 57. | Stefánia út 14. | Földtani Intézet | 58. | Városliget, Vázsonyi Vilmos sétány, Széchenyi sziget | Vajdahunyad vára
+## | 56. | Hősök tere műemléki együttese | | | Dózsa György út 39-41. | Szépművészeti Múzeum | | Hősök tere | Millenniumi Emlékmű | 57. | Stefánia út 14. | Földtani Intézet | 58. | Városliget, Vázsonyi Vilmos sétány, Széchenyi sziget | Vajdahunyad vára
 
 ## XXII. kerület
 
