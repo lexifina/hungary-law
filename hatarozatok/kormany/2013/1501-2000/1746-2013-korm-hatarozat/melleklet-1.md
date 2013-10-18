@@ -12,10 +12,12 @@
 
 ## Határidő: az engedélyek meglétét követően azonnal
 
-## 4. visszavonja a KEOP-1.3.0/09-11-2012-0009 azonosító számú („Békés megyei Ivóvízminőség-javító Program” című, az Európai Bizottság számára benyújtandó) nagyprojekt javaslatáról szóló 1447/2013. (VII. 16.) Korm. határozat 3. pontját.
+## 4.[^2]
 
 1. melléklet az 1746/2013. (X. 17.) Korm. határozathoz
 
 | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatási összege(nettó Ft) | Projekt támogatási összegének növekedése (nettó Ft) | Projekt megnövelt támogatási összege (nettó Ft) | Támogatás intenzitása (%) | Projekt rövid bemutatása |
 
 | KEOP-1.3.0/09- 11-2012-0009 | Békés megyei Ivóvízminőség-javító Program | „Közép-Békési Térség” Ivóvízminőség-javító Önkormányzati Társulás | 25 834 506 370 | 3 180 144 685 | 29 014 651 028 | 88,445729 | A projekt célja a projekt megvalósítási területén élő lakosság megfelelő minőségű ivóvízzel való ellátása. A projekt eredményeként 66 településen 309 300 fő egészséges ivóvízzel történő ellátása valósul meg. |
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
