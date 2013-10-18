@@ -16,7 +16,7 @@ d) a Nemzeti Drogellenes Stratégia megvalósításának félidejében tájékoz
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Hatályát veszti a kábítószer-probléma kezelése érdekében készített nemzeti stratégiai programról szóló 106/2009. (XII. 21.) OGY határozat.
+4.[^2]
 
 Melléklet a 80/2013. (X. 16.) OGY határozathoz
 
@@ -50,7 +50,7 @@ A Nemzeti Drogellenes Stratégia számára kézzelfogható szakpolitikai kontext
 
 A Nemzeti Drogellenes Stratégia összhangban áll Magyarország Nemzeti Biztonsági Stratégiájával és hangsúlyosan kezeli a kínálatcsökkentés területén megjelenő szakpolitikai kihívásokat és az azokra adható megfelelő válaszokat.
 
-A Nemzeti Drogellenes Stratégia összhangban áll továbbá az Európai Unió stratégiájával, illetve az ahhoz kapcsolódó akciótervekkel, amelyek célja „a társadalom és az egyén jólétének védelme és növelése, a közegészségügy védelme, magas szintű biztonság nyújtása a lakosság számára, valamint a kábítószer-probléma kiegyensúlyozott, egységes megközelítése”. A Nemzeti Drogellenes Stratégia alapját képezik a vonatkozó ENSZ-egyezmények, az Egységes Kábítószer Egyezmény[^2] (1961), a Pszichotróp Anyagokról szóló Egyezmény[^3] (1971), illetve a Kábítószerek és Pszichotróp Anyagok Tiltott Forgalmazása Elleni Egyezmény[^4] (1988), amelyek a kábítószer-probléma kezelésének fontos jogi eszközei. A dokumentum célkitűzései figyelembe veszik továbbá az ENSZ Kábítószer Bizottságának 2009. évi magas szintű szegmensén elfogadott Politikai Deklarációban és az ahhoz tartozó Akciótervben lefektetett kábítószer-politikai irányelveket.
+A Nemzeti Drogellenes Stratégia összhangban áll továbbá az Európai Unió stratégiájával, illetve az ahhoz kapcsolódó akciótervekkel, amelyek célja „a társadalom és az egyén jólétének védelme és növelése, a közegészségügy védelme, magas szintű biztonság nyújtása a lakosság számára, valamint a kábítószer-probléma kiegyensúlyozott, egységes megközelítése”. A Nemzeti Drogellenes Stratégia alapját képezik a vonatkozó ENSZ-egyezmények, az Egységes Kábítószer Egyezmény[^3] (1961), a Pszichotróp Anyagokról szóló Egyezmény[^4] (1971), illetve a Kábítószerek és Pszichotróp Anyagok Tiltott Forgalmazása Elleni Egyezmény[^5] (1988), amelyek a kábítószer-probléma kezelésének fontos jogi eszközei. A dokumentum célkitűzései figyelembe veszik továbbá az ENSZ Kábítószer Bizottságának 2009. évi magas szintű szegmensén elfogadott Politikai Deklarációban és az ahhoz tartozó Akciótervben lefektetett kábítószer-politikai irányelveket.
 
 I. 3. Újszerűség
 
@@ -164,7 +164,7 @@ A nem-elterelt kezelésbe lépők szerfogyasztásának mintázatát összegezve 
 
 Az életükben először kezelésbe lépők szerhasználatának mintázata az összes kezelésbe lépőéhez hasonló, azaz a heroin-fogyasztók és az egyéb stimulánsokat fogyasztók arányának alakulása egymással ellentétesen mozgott.
 
-Az elterelésbe[^5] lépők – azaz a kezelési folyamatot a büntetőeljárás alternatívájaként megkezdők – csoportja jelentősen különbözik a nem-elterelt kezelést kezdőkétől. Az elmúlt években 2500–3400 fő között mozgott az elterelésüket megkezdők száma (2011-ben 3453 fő volt). Legnagyobb részük (kb. 80–85%) az úgynevezett megelőző-felvilágosító szolgáltatásban, kisebb hányaduk az egészségügyi típusú ellátásban jelent meg. Az általuk elsődlegesen használt kábítószerek 2011-ben: a kannabisz (80%), a stimulánsok (13%) és az opiátok (3%) voltak. A nem eltereltekhez képest e csoportban a fogyasztott szerek mintázatán kívül más a fogyasztás intenzitása is. Mintegy 60–65%-uk alkalmi szerhasználónak tekinthető, tehát a jelentkezést megelőző 30 napban nem használt kábítószert[^6]. Közel egyötödük viszont intenzív (napi vagy heti többszöri) szerhasználó.
+Az elterelésbe[^6] lépők – azaz a kezelési folyamatot a büntetőeljárás alternatívájaként megkezdők – csoportja jelentősen különbözik a nem-elterelt kezelést kezdőkétől. Az elmúlt években 2500–3400 fő között mozgott az elterelésüket megkezdők száma (2011-ben 3453 fő volt). Legnagyobb részük (kb. 80–85%) az úgynevezett megelőző-felvilágosító szolgáltatásban, kisebb hányaduk az egészségügyi típusú ellátásban jelent meg. Az általuk elsődlegesen használt kábítószerek 2011-ben: a kannabisz (80%), a stimulánsok (13%) és az opiátok (3%) voltak. A nem eltereltekhez képest e csoportban a fogyasztott szerek mintázatán kívül más a fogyasztás intenzitása is. Mintegy 60–65%-uk alkalmi szerhasználónak tekinthető, tehát a jelentkezést megelőző 30 napban nem használt kábítószert[^7]. Közel egyötödük viszont intenzív (napi vagy heti többszöri) szerhasználó.
 
 Az opiát-függők helyettesítő programjaiban 2010-ben összesen 1031 fő, 2011-ben pedig 715 fő vett részt. Ez utóbbiak közül detoxikációs céllal 70, szubsztitúciós céllal pedig 639 fő. Az alkalmazott szubsztitúciós szer metadon vagy buprenorfin-naloxon volt.
 
@@ -206,7 +206,7 @@ Az egészségügy területén a gondozói finanszírozást érintő kedvezőtlen
 
 A szociális területen a közösségi szenvedélybeteg-, valamint az alacsonyküszöbű szociális ellátások fejlesztésére került sor. 2011-ben a Nemzeti Rehabilitációs és Szociális Hivatal adatai szerint 53 szolgáltató végzett alacsonyküszöbű ellátást, míg 72 szolgáltató végzett az ellátási területeken szenvedélybetegek részére közösségi ellátást.
 
-2011-ben 24 szervezet nyújtott tűcsere-szolgáltatást hazánkban. Tűcsere-szolgáltatás 16 városban, 12 megyében, illetve mind a 7 régióban hozzáférhető volt. A szolgáltatók összesen 648 269 fecskendőt osztottak ki, a hozott és gyűjtött fecskendők száma 469 122 darab volt. A programok 3373 főt[^7] értek el, a tárgyévben a kliensek 38 407 alkalommal vettek igénybe tűcsere-szolgáltatást. A hazai intravénás kábítószer-fogyasztók becsült számát tekintve (5699 fő) egy intravénás kábítószer-fogyasztóra átlagosan 114 steril fecskendő jutott 2011-ben. A veszélyeztetett, rejtőzködő droghasználói csoportokkal sok esetben kizárólag ezek a szolgáltatók állnak kapcsolatban.
+2011-ben 24 szervezet nyújtott tűcsere-szolgáltatást hazánkban. Tűcsere-szolgáltatás 16 városban, 12 megyében, illetve mind a 7 régióban hozzáférhető volt. A szolgáltatók összesen 648 269 fecskendőt osztottak ki, a hozott és gyűjtött fecskendők száma 469 122 darab volt. A programok 3373 főt[^8] értek el, a tárgyévben a kliensek 38 407 alkalommal vettek igénybe tűcsere-szolgáltatást. A hazai intravénás kábítószer-fogyasztók becsült számát tekintve (5699 fő) egy intravénás kábítószer-fogyasztóra átlagosan 114 steril fecskendő jutott 2011-ben. A veszélyeztetett, rejtőzködő droghasználói csoportokkal sok esetben kizárólag ezek a szolgáltatók állnak kapcsolatban.
 
 II. 8. A kábítószer-probléma kezelésével összefüggő közkiadások
 
@@ -292,7 +292,7 @@ A jelzett nehézségek jó része nem csak hazánkban észlelhető. Úgy tűnik,
 
 A kábítószer-probléma jelensége a társadalmi viszonyrendszer, a közösségi kapcsolatok színterein alakul, bontakozik ki vagy szorul vissza. Ezzel összhangban az új stratégiai megközelítés középpontjában az egészség, illetve az egészség támogatása áll. Az a célkitűzés, hogy az erőforrásoknak az egészséghez vezető folyamatok támogatására, a józanság kultúrájának terjedésére való összpontosításával párhuzamosan változzék meg a közösség kábítószer-problémákhoz való viszonyulása, illetve cselekvőképessége. A kábítószer problémák visszaszorulása elsősorban a közösség problémaérzékenységének erősödésétől és problémakezelő képességének fejlődésétől várható, a nemzeti és helyi közösségeket és az állam eszköztárát egyaránt beleértve. A kezelés és ellátás szakterületein e paradigmát a felépülés-központú megközelítés hangsúlya, illetve érvényesítése jelenti.
 
-Mindezekkel összhangban és mindezek érdekében ki kell szélesíteni a kábítószer-probléma megelőzésében és kezelésében közreműködő érdekhordozói kört, továbbá meg kell erősíteni a különböző közösségi, laikus és hivatásos segítő szolgálatok rendszerét.[^8] Ez akkor lehet eredményes, ha a folyamatot határozottabb fellépés kíséri a bűnmegelőzés terén és a kábítószerekkel összefüggő bűnözés ellen.
+Mindezekkel összhangban és mindezek érdekében ki kell szélesíteni a kábítószer-probléma megelőzésében és kezelésében közreműködő érdekhordozói kört, továbbá meg kell erősíteni a különböző közösségi, laikus és hivatásos segítő szolgálatok rendszerét.[^9] Ez akkor lehet eredményes, ha a folyamatot határozottabb fellépés kíséri a bűnmegelőzés terén és a kábítószerekkel összefüggő bűnözés ellen.
 
 III. Alapértékek
 
@@ -792,7 +792,7 @@ A Nemzeti Drogellenes Stratégia nyomon követéséhez és értékeléséhez sz�
 
 A Nemzeti Drogellenes Stratégiában foglalt célok megvalósulását az (1) egészségfejlesztés, kábítószer-megelőzés, a (2) kezelés, ellátás, felépülés, illetve (3) a kínálatcsökkentés területén rendszeres adatgyűjtésen alapuló hazai és nemzetközi adatbázisokhoz kapcsolódó indikátorok biztosítják. A Nemzeti Drogellenes Stratégia monitorozásához szükséges legfontosabb mutatókat (indikátorokat), azok rövid tartalmát, a gyűjtésükért felelős intézményeket, szervezeteket az 5. számú melléklet tartalmazza.
 
-Az eljárás keretrendszere összhangban áll az Európai Unió stratégiai dokumentumaival, különösen az Európai Stratégia 2020 vállalásainak teljesülését jelző indikátorokkal. A prioritások mentén megfogalmazott beavatkozások hatékonyságának nyomon követése döntő mértékben támaszkodik az EMCDDA[^9] által kialakított kulcsindikátorokra. Az információk a meglévő intézményrendszerek együttműködésével válnak elérhetővé a döntéshozók számára.
+Az eljárás keretrendszere összhangban áll az Európai Unió stratégiai dokumentumaival, különösen az Európai Stratégia 2020 vállalásainak teljesülését jelző indikátorokkal. A prioritások mentén megfogalmazott beavatkozások hatékonyságának nyomon követése döntő mértékben támaszkodik az EMCDDA[^10] által kialakított kulcsindikátorokra. Az információk a meglévő intézményrendszerek együttműködésével válnak elérhetővé a döntéshozók számára.
 
 A Nemzeti Drogellenes Stratégia félidős felülvizsgálatát mind az általános, mind a konkrét célok megvalósulása tekintetében a bemutatott indikátorokon alapuló komplex vizsgálattal szükséges ellenőrizni. Az adatok értelmezése és az esetleges új beavatkozási irányok szakpolitikai programokban történő rögzítése a kormányzati egyeztetés intézményrendszerén keresztül történik. Az időközi jelentésnek a célok megvalósulásának értékelése mellett az erőforrások felhasználásának hatékonyságára is ki kell terjednie. A jelentés elemzi továbbá a stratégia, illetve a szakpolitikai program egyszerűsítésének lehetőségeit, a célok és intézkedések alkalmasságát, valamint a korábbi stratégiák és programok utólagos értékeléseinek eredményeit.
 
@@ -1203,11 +1203,12 @@ A Nat.-ban a következő műveltségi területeken kerültek kiemelten megfogalm
 3. Ember és természet műveltségi terület részeként mind a fejlesztési feladatok között, mind a közműveltségi tartalmakon belül az ember megismerése és egészsége címszó alatt részletezi a kapcsolódó feladatokat (főként az önfenntartás alcímhez rendelve).
 
 [^1]: A határozatot az Országgyűlés a 2013. október 7-i ülésnapján fogadta el.
-[^2]: 1965. évi 4. törvényerejű rendelet a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről
-[^3]: 1979. évi 25. törvényerejű rendelet a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről
-[^4]: 1998. évi L. törvény az Egyesült Nemzetek Szervezete keretében a kábítószerek és pszichotrop anyagok tiltott forgalmazása elleni, 1988. december 20-án, Bécsben kelt Egyezmény kihirdetéséről
-[^5]: A büntetőeljárás alternatívája alkalmazásának kereteit a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 283. §-a, végrehajtását a kábítószer-függoséget gyógyító kezelés, kábítószer-használatot kezelo más ellátás vagy megelozo-felvilágosító szolgáltatás szabályairól szóló 42/2008. (XI. 14.) EüM–SZMM együttes rendelet szabályozza.
-[^6]: 6 A megelőző-felvilágosító szolgáltatásba lépők többsége az eljárás megindulása után több mint 30 nappal kerül ellátóhoz.
-[^7]: A kliensek száma szolgáltatói szinten duplikációszurt, azonban országos szinten nem. Elofordulhat, hogy ugyanaz a kliens több szervezetnél is regisztrálásra került.
-[^8]: A stratégiai készítésekor fennálló szakmapolitikai környezet gyorsértékelésére készített SWOT analízis a 2. számú mellékletben olvasható.
-[^9]: A Kábítószer és Kábítószer-függőség Európai Megfigyelőközpontja
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: 1965. évi 4. törvényerejű rendelet a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről
+[^4]: 1979. évi 25. törvényerejű rendelet a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről
+[^5]: 1998. évi L. törvény az Egyesült Nemzetek Szervezete keretében a kábítószerek és pszichotrop anyagok tiltott forgalmazása elleni, 1988. december 20-án, Bécsben kelt Egyezmény kihirdetéséről
+[^6]: A büntetőeljárás alternatívája alkalmazásának kereteit a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 283. §-a, végrehajtását a kábítószer-függoséget gyógyító kezelés, kábítószer-használatot kezelo más ellátás vagy megelozo-felvilágosító szolgáltatás szabályairól szóló 42/2008. (XI. 14.) EüM–SZMM együttes rendelet szabályozza.
+[^7]: 6 A megelőző-felvilágosító szolgáltatásba lépők többsége az eljárás megindulása után több mint 30 nappal kerül ellátóhoz.
+[^8]: A kliensek száma szolgáltatói szinten duplikációszurt, azonban országos szinten nem. Elofordulhat, hogy ugyanaz a kliens több szervezetnél is regisztrálásra került.
+[^9]: A stratégiai készítésekor fennálló szakmapolitikai környezet gyorsértékelésére készített SWOT analízis a 2. számú mellékletben olvasható.
+[^10]: A Kábítószer és Kábítószer-függőség Európai Megfigyelőközpontja

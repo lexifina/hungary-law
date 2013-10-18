@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-80-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-10-17 | 2013-80-30-41.1 | 80/2013. (X. 16.) OGY határozat |
+| 2013-10-18 | 2013-80-30-41.2 | 2010: CXXX. törvény |
