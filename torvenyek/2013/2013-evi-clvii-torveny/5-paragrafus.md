@@ -1,1 +1,1 @@
-5. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. mellékletének III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek című táblázat 30. sora, az 56. sorának „Dózsa György út 37.” és „Műcsarnok” szövegrésze.
+5. §
