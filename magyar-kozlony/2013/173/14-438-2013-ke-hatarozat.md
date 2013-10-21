@@ -1,0 +1,19 @@
+# A köztársasági elnök 438/2013. (X. 21.) KE határozata
+
+Magyar Közlöny 2013. évi 173. szám, 2013. október 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/805f23ad9ac86588b2e34ceea17c008f9cb1b04c/dokumentumok/25107d575cc24d12d7862fae6a9feab5ad7f8961/letoltes)
+
+---
+
+A köztársasági elnök 438/2013. (X. 21.) KE határozata
+dandártábornoki kinevezésről
+Az Alaptörvény 9. cikk (4) bekezdés e) pontja, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény
+4. §-a alapján – a honvédelmi miniszter javaslatára – Dezső Sándor ezredest 2013. október 23-ai hatállyal
+dandártábornokká kinevezem.
+Budapest, 2013. szeptember 25.
+ Áder János s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2013. szeptember 27.
+ Dr. Hende Csaba s. k.,
+ honvédelmi miniszter
+KEH ügyszám: IV-6/04846/2013.
