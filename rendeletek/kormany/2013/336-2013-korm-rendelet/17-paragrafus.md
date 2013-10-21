@@ -1,4 +1,4 @@
-## 14–16. §[^4]
+## 14–16. §[^3]
 
 ## 17. § Nem lép hatályba
 
@@ -10,4 +10,4 @@ ba) 2. § (8) bekezdésével megállapított Épkiv. 24/A. § (3) és (6) bekezd
 
 bb) 2. § (9) bekezdésével megállapított Épkiv. 25. § (1)–(2) bekezdése, 26. § (4) bekezdése, 27. § (5) és (6) bekezdése.
 
-[^4]: A 14–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 14–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
