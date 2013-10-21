@@ -1,41 +1,47 @@
 2. § (1) A természetvédelmi alapbírságok legmagasabb mértéke:
 
-a)[^1] a természet általános védelmét (Tvt. II. rész) szolgáló jogszabály, illetve egyedi határozat előírásainak megsértése esetén:
+a)[^2] a természet védelmét szolgáló jogszabály, illetve egyedi határozat előírásainak megsértése esetén:
 
 aa) természeti értékre vonatkozó előírás megsértésével okozott veszélyeztetés vagy károsítás esetében a természeti érték pénzben kifejezett értéke, de veszélyeztetés esetén legfeljebb százezer, károsítás esetén legfeljebb kettőszázezer forint,
 
-ab) természeti területre vonatkozó előírás megsértésével okozott veszélyeztetés vagy károsítás esetében a veszélyeztetett vagy károsított területnagyság alapján, megkezdett hektáronként veszélyeztetés esetén legfeljebb százezer, károsítás esetén legfeljebb kettőszázezer forint,
+ab)[^3] természeti területre, Natura 2000 területre vonatkozó előírás megsértésével okozott veszélyeztetés vagy károsítás esetében a veszélyeztetett vagy károsított területnagyság alapján, megkezdett hektáronként veszélyeztetés esetén legfeljebb százezer, károsítás esetén legfeljebb kettőszázezer forint,
 
 ac) tájvédelmi előírások megsértésével okozott veszélyeztetés esetén a területnagyság alapján, megkezdett hektáronként legfeljebb százezer, károsítás esetében megkezdett hektáronként legfeljebb kettőszázezer forint;
 
-b)[^2] védett természeti érték jogellenes veszélyeztetése esetében legfeljebb a veszélyeztetett védett természeti értékek összegének pénzben kifejezett értéke, károsítása, elpusztítása esetében a károsított, elpusztított védett természeti értékek összegének legfeljebb háromszorosa;
+b)[^4] védett természeti érték jogellenes veszélyeztetése esetében legfeljebb a veszélyeztetett védett természeti értékek pénzben kifejezett értékének összege, károsítása, elpusztítása esetében a károsított, elpusztított védett természeti értékek pénzben kifejezett értéke összegének legfeljebb háromszorosa;
 
-c)[^3] védett természeti terület állapotának, minőségének jogellenes veszélyeztetése esetében a veszélyeztetett területnagyság alapján megkezdett hektáronként legfeljebb kettőszázötvenezer forint, rongálása, károsítása esetében megkezdett hektáronként legfeljebb ötszázezer forint;
+c)[^5] védett természeti terület állapotának, minőségének jogellenes veszélyeztetése esetében a veszélyeztetett területnagyság alapján megkezdett hektáronként legfeljebb kettőszázötvenezer forint, rongálása, károsítása esetében megkezdett hektáronként legfeljebb ötszázezer forint;
 
-d)[^4] barlang jogellenes veszélyeztetése esetében legfeljebb ötszázezer forint, károsítása, elpusztítása esetében a barlang felületének minden megkezdett száz négyzetmétere után legfeljebb hétszázötvenezer forint;
+d)[^6] barlang jogellenes veszélyeztetése, károsítása esetében legfeljebb ötszázezer forint, elpusztítása esetében a barlang felületének minden megkezdett száz négyzetmétere után legfeljebb hétszázötvenezer forint;
 
-e)[^5] a védett természeti terület, továbbá barlang jogellenes megváltoztatása, átalakítása esetében a c)–d) pontok károsításra vonatkozó szabályait kell alkalmazni azzal, hogy a védett természeti területen, illetve barlangban a védelem céljával össze nem egyeztethető és a c)–d) pontok alá nem tartozó tevékenység folytatása esetén legfeljebb ötszázezer forint;
+e)[^7] a védett természeti terület, Natura 2000 terület, továbbá barlang jogellenes megváltoztatása, átalakítása esetében a c) és d) pontok károsításra vonatkozó szabályait kell alkalmazni azzal, hogy a védett természeti területen, Natura 2000 területen, illetve barlangban a védelem céljával össze nem egyeztethető, c) és d) pontok alá nem tartozó tevékenység folytatása esetén legfeljebb ötszázezer forint;
 
 f) a védett élő szervezet, életközösség élőhelyének, illetőleg élettevékenységének jelentős mértékű zavarása esetén legfeljebb a zavarással érintett védett élő szervezetek, életközösségek pénzben kifejezett értékének az összege, élőhely esetében pedig a zavarással érintett területnagyság alapján, megkezdett hektáronként legfeljebb háromszázötvenezer forint;
 
-g)[^6] a természetvédelmi hatóság engedélyéhez, hozzájárulásához kötött tevékenység engedély, hozzájárulás nélkül vagy attól eltérően történő végzése esetén:
+g)[^8] a természetvédelmi hatóság engedélyéhez, hozzájárulásához kötött tevékenység engedély, hozzájárulás nélkül vagy attól eltérően történő végzése esetén:
 
 ga) védett természeti érték esetében legfeljebb az egyedek, egyes védett természeti értékek pénzben kifejezett értékének az összege,
 
 gb) barlang esetében legfeljebb ötszázezer forint,
 
-gc) védett természeti terület esetében a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint,
+gc)[^9] védett természeti terület, Natura 2000 terület esetében a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint,
 
 gd) az ideiglenes vagy átmeneti védettség kimondásáról szóló hatósági határozat megsértésével okozott veszélyeztetés esetében a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint;
 
-h) az a)–g) pontokba nem tartozó esetekben legfeljebb százezer forint.
+ge)[^10] tájvédelmi előírások megsértése esetében a területnagyság alapján, megkezdett hektáronként legfeljebb százezer forint;
 
-(2)[^7] Fokozottan védett természeti terület, illetve fokozottan védett természeti érték veszélyeztetése, károsítása esetében az alapbírság az (1) bekezdés b)–h) pontjaiban meghatározott mérték kétszerese.
+h)[^11] az a)–g) pontokba nem tartozó esetekben legfeljebb kettőszázezer forint.
 
-[^1]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
-[^2]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
-[^3]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
-[^4]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
+(2)[^12] Fokozottan védett természeti terület, illetve fokozottan védett természeti érték veszélyeztetése, károsítása, elpusztítása esetében az alapbírság az (1) bekezdés b)–h) pontjaiban meghatározott mérték kétszerese.
+
+[^2]: A 2. § (1) bekezdés a) pont nyitó szövegrésze a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés a) pont ab) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés b) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^5]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
-[^6]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
-[^7]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
+[^6]: A 2. § (1) bekezdés d) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés e) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^8]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
+[^9]: A 2. § (1) bekezdés g) pont gc) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés g) pont ge) alpontját a 336/2013. (IX. 20.) Korm. rendelet 2. § (6) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdés h) pontja a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 2. § (2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.

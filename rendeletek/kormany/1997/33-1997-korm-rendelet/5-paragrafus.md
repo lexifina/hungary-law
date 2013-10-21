@@ -1,13 +1,39 @@
-5. § (1) A természetvédelmi bírság összegének meghatározásakor előbb az alapbírság összegét kell meghatározni, amelyek során figyelembe kell venni
+5. § (1)[^15] A természetvédelmi bírság összegének meghatározásakor előbb az alapbírság összegét kell meghatározni, amely során figyelembe kell venni
 
-a) a jogsértő magatartás konkrét veszélyességét vagy károsító hatását;
+1. a tevőleges magatartás, illetve a mulasztás körülményeit;
 
-b) az ország természetvédelmi helyzetére, illetőleg a térség természeti állapotának egészére gyakorolt hatását;
+2. a kötelezettségszegés súlyosságát;
 
-c) a bekövetkezett kár mértékét, a helyreállíthatóság lehetőségét;
+3. a kötelezettségszegés időtartamát és ismétlődését;
 
-d) azt, hogy az elkövetőt a további, a természet védelméhez fűződő érdekeket sértő magatartástól visszatartsa.
+4. a jogsértő magatartás konkrét veszélyességét vagy károsító hatását;
+
+5. az ország természetvédelmi helyzetére, illetve a térség természeti állapotának egészére gyakorolt hatását;
+
+6. a jogsértő magatartással érintett területnek az ökológiai hálózat koherenciájában betöltött szerepét;
+
+7. a jogsértő magatartással érintett élőhelyek, fajok, illetve területek kedvező természetvédelmi helyzetének elérését vagy fenntartását befolyásoló hatások jelentőségét;
+
+8. a jogsértő magatartással érintett populáció szerepét, sérülékenységét;
+
+9. a jogsértő magatartással érintett fajok tömegességét, állománysűrűségét, állománynagyságát, reprodukciós rátáját;
+
+10. a jogsértő magatartással érintett faj, élőhelytípus ritkaságát (helyi, regionális, országos, európai közösségi szinten);
+
+11. a jogsértő magatartással érintett fajok szaporodási képességét;
+
+12. a bekövetkezett kár mértékét;
+
+13. a helyreállíthatóság lehetőségét, a terület természetes megújulási képességét, a faj állományának, illetve az élőhelytípusnak a regenerálódási képességét;
+
+14. azt, hogy a jogsértő magatartás hogyan viszonyul a természetvédelmi szempontból szükségszerű kezeléshez;
+
+15. azt, hogy az elkövetőt a további, a természet védelméhez fűződő érdekeket sértő magatartástól visszatartsa;
+
+16. azt, hogy a cselekményt engedély nélkül vagy engedélytől eltérően végezte.
 
 (2) Az alapbírság meghatározását követően az e rendelet alapján előírt módosító tényezők szorzószámával az alapbírságot meg kell szorozni.
 
 (3) Ha több módosító tényező szorzószámainak alkalmazására is sor kerülhet, a szorzószámokat össze kell adni és az így kapott emelt szorzószámmal kell az alapbírságot megszorozni.
+
+[^15]: Az 5. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
