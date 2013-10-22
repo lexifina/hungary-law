@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2011-195-00-00.20 |
 | 2013-07-23 | 2013. évi CIII. törvény | 2011-195-00-00.21 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2011-195-00-00.22 |
+| 2013-10-22 | 2013. évi CLVI. törvény | 2011-195-00-00.23 |
