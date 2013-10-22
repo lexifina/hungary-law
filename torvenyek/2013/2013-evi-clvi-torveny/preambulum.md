@@ -1,0 +1,1 @@
+Az Országgyűlés a vidéki kis- és középvállalkozások megerősödésének elősegítésében kulcsszerepet játszó szövetkezeti hitelintézeti rendszerben szerzett állami jogosultságok ellentételezése érdekében a következő törvényt alkotja:
