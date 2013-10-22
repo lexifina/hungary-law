@@ -3,3 +3,5 @@
 (2) A távhőszolgáltató egyértelműen, írásban, a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével egyidejűleg köteles tájékoztatást nyújtani a lakossági díjfizető, valamint a lakossági felhasználó részére az (1) bekezdésben foglaltak teljesüléséről.
 
 (3) A távhőszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. január 1-je óta eltelt időszakban.
+
+(4) Az (1) bekezdés szerinti szolgáltatási egységre vonatkozó díjalkalmazási feltételek módosítása sem közvetve, sem közvetlenül nem eredményezheti az (1) bekezdés szerinti szolgáltatási egységre jutó fizetendő összeg növekedését.
