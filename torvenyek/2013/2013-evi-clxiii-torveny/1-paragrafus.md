@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Svájci Államszövetség között a jövedelem- és vagyonadók területén a kettős adóztatás elkerüléséről szóló, Budapesten, 2013. szeptember 12. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
