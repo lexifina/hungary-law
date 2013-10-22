@@ -1,1 +1,0 @@
-A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 53. § e) és f) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
