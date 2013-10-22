@@ -1,6 +1,6 @@
-## Számhasználati jogviszony[^44]
+## Számhasználati jogviszony[^47]
 
-16/A. §[^45] (1) A számhasználati jogviszony a kijelölési engedély jogosultja és a számhasználó közötti számhasználati szerződéssel jön létre.
+16/A. §[^48] (1) A számhasználati jogviszony a kijelölési engedély jogosultja és a számhasználó közötti számhasználati szerződéssel jön létre.
 
 (2) A számhasználati szerződésnek tartalmaznia kell:
 
@@ -24,9 +24,10 @@ e) a számhasználó által a szerződés tárgyát képező hívószámon vagy 
 
 f) a jelen rendelet 1. mellékletének 2.7 és 2.8 pontja szerinti szolgáltatások esetén a szerződés tárgyát képező hívószám vagy hívószámok hívásának díját;
 
-g) amennyiben a számhasználó a szerződés tárgyát képező hívószámon, vagy hívószámokon emelt díjas, díjkorlátmentes, vagy emelt díjas, díjkorlátos szolgáltatást kíván nyújtani, a 16/B. – 16/E. §-aiban meghatározott kötelező tartalmi elemeket.
+g)[^49] amennyiben a számhasználó a szerződés tárgyát képező hívószámon, vagy hívószámokon emelt díjas szolgáltatást kíván nyújtani, a 16/B. – 16/E. §-aiban meghatározott kötelező tartalmi elemeket.
 
 (3) Amennyiben a számhasználati jogviszony tárgyát képező azonosító használatát a jelen rendelet alapján a kijelölési engedély jogosultja felfüggeszti, és a számhasználó a felfüggesztésre okot adó körülményt 30 napon belül nem szünteti meg, a kijelölési engedély jogosultja a számhasználati szerződést rendkívüli felmondással 15 napos felmondási idővel felmondhatja.
 
-[^44]: A 16/A. §-t megelőző alcímet az 1/2012. (I. 3.) NMHH rendelet 2. § (1) bekezdése iktatta be.
-[^45]: A 16/A. §-t az 1/2012. (I. 3.) NMHH rendelet 2. § (1) bekezdése iktatta be.
+[^47]: A 16/A. §-t megelőző alcímet az 1/2012. (I. 3.) NMHH rendelet 2. § (1) bekezdése iktatta be.
+[^48]: A 16/A. §-t az 1/2012. (I. 3.) NMHH rendelet 2. § (1) bekezdése iktatta be.
+[^49]: A 16/A. § (2) bekezdés g) pontja a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.

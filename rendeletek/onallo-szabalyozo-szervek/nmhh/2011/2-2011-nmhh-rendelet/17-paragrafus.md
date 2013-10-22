@@ -1,6 +1,6 @@
 ## Záró rendelkezések
 
-17. §[^53] (1) E rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő hónap első napján lép hatályba.
+17. §[^61] (1) E rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő hónap első napján lép hatályba.
 
 (2) E rendelet 16/A. § (2) bekezdés g) pontja, valamint a 16/B. – 16/E. §-ok 2012. július 1-jén lépnek hatályba.
 
@@ -24,4 +24,4 @@ c) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálóz
 
 d) a 116-os nemzeti számsík harmonizált közérdekű szolgáltatások harmonizált számai részére történő fenntartásáról szóló 2007. február 15-i 2007/116/EK bizottsági határozatának
 
-[^53]: A 17. § az 1/2012. (I. 3.) NMHH rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^61]: A 17. § az 1/2012. (I. 3.) NMHH rendelet 4. § (2) bekezdésével megállapított szöveg.

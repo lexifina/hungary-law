@@ -30,7 +30,7 @@
 
 ## 1.2.2. Számmező használat
 
-## Mobil számmező köthető le és jelölhető ki azon szolgáltató számára, amelyet mobil rádiótelefon-szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett, továbbá mobil számmező köthető le és jelölhető ki az SHS=31 számozási tartományban azon szolgáltató számára, amelyet a mobil internet hozzáférési (elérési) szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## Mobil számmező köthető le és jelölhető ki azon szolgáltató számára, amelyet mobil rádiótelefon-szolgáltatás vagy mobil internet hozzáférési (elérési) szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## Az 50-es és a 60-as szolgáltatás- vagy hálózatkijelölő számok számozási tartományában előfizetői számmezők olyan, a hatóság által ezen rendelet hatálybalépését követően mobil rádiótelefon-szolgáltatás nyújtására bejegyzett szolgáltatók kérelmére köthetők le és jelölhetők ki, amelyek jogerős frekvenciahasználati engedéllyel rendelkeznek.
 
@@ -46,23 +46,23 @@
 
 ## 1.3.1. A gazdálkodás rendje
 
-## A kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás, az emelt díjas, díjkorlátmentes szolgáltatás és az emelt díjas, díjkorlátos szolgáltatás számait a hatóság 1000-es számmezőkben köti le, jelöli ki és vonja vissza.
+## A kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás és az emelt díjas szolgáltatás számait a hatóság 1000-es számmezőkben köti le, jelöli ki és vonja vissza.
 
 ## 1.3.2. Számmező használat
 
-## Díjmentes szolgáltatás, kedvezményes díjazású szolgáltatás, emelt díjas, díjkorlátmentes szolgáltatás és emelt díjas, díjkorlátos szolgáltatás előfizetői számmező azon szolgáltató számára köthető le és jelölhető ki, amelyet helyhez kötött telefonszolgáltatás vagy mobil rádiótelefon-szolgáltatás vagy nomadikus beszédcélú szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## Díjmentes szolgáltatás, kedvezményes díjazású szolgáltatás, és emelt díjas szolgáltatás előfizetői számmező azon szolgáltató számára köthető le és jelölhető ki, amelyet helyhez kötött telefonszolgáltatás vagy mobil rádiótelefon-szolgáltatás vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## A kijelölési engedély jogosultja jogosult a számára kijelölt számmezőből – a hordozott számok kivételével – előfizetői számot meghatározni és a szám használatára a számhasználót számhasználati jogviszony keretében feljogosítani.
 
-## 1.4. Nomadikus beszédcélú szolgáltatás számai (SHS = 21)
+## 1.4. Nomadikus telefonszolgáltatás számai (SHS = 21)
 
 ## 1.4.1. A gazdálkodás rendje
 
-## A nomadikus beszédcélú szolgáltatás számait a hatóság 1000-es számmezőkben köti le, jelöli ki és vonja vissza.
+## A nomadikus telefonszolgáltatás számait a hatóság 1000-es számmezőkben köti le, jelöli ki és vonja vissza.
 
 ## 1.4.2. Számmező használat
 
-## Nomadikus beszédcélú szolgáltatás számmező köthető le és jelölhető ki olyan szolgáltató számára, amelyet nomadikus beszédcélú szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## Nomadikus telefonszolgáltatás számmező köthető le és jelölhető ki olyan szolgáltató számára, amelyet nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## A kijelölési engedély jogosultja a számára kijelölt számmezőből jogosult az előfizetői számot meghatározni és a szám használatára az előfizetőt előfizetői szerződés keretében feljogosítani.
 
@@ -76,27 +76,31 @@
 
 ## Internet-hozzáférési szolgáltatás számmező jelölhető ki azon szolgáltató számára, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy országos területű internet-hozzáférési szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett. Amennyiben a kijelölési engedély jogosultja telefonszolgáltató, jogosult számot meghatározni és az internet-hozzáférési szolgáltatót hálózati szerződésben a szolgáltatás nyújtásához a szám használatára feljogosítani.
 
-## 1.6.
+## 1.6. Üzleti hálózatok számai (SHS = 38)
 
 ## 1.6.1. A gazdálkodás rendje
 
-## A hatóság egy adott üzleti hálózat elérésére egyedi számot, vagy az üzleti hálózat tagjainak elérésére számmezőt jelöl ki. A kijelölhető számmezők az üzleti hálózat azonosítói szerint az alábbiak:
-
-## 20–29 azonosító: 100 000-es számmezők;
-
-## 30–39 azonosító: 100 000-es számmezők
-
-## vagy 300–399 azonosító: 10 000-es számmezők;
-
-## 400–599 azonosító: 10 000-es számmezők;
-
-## 6000–9999 azonosító: 1000-es számmezők.
+## A hatóság egy adott üzleti hálózat tagjainak elérésére a számokat 1000-es számmezőkben jelöli ki és vonja vissza.
 
 ## 1.6.2. Számmező használat
 
-## Üzleti hálózati szám, vagy számmező azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás vagy nomadikus beszédcélú szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## Üzleti hálózati számmező azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett, valamint azon vállalkozás számára, amelyet a Kormány GSM-R rendszer működtetésére és a szolgáltatás nyújtására kijelölt.
 
-## A kijelölési engedély jogosultja az adott számmezőben szereplő számok használatát – az előfizetői szerződés keretében – együtt engedi át az üzleti előfizető részére.
+## A kijelölési engedély jogosultja – a GSM-R rendszer részére kijelölt számok kivételével – az adott üzleti hálózat eléréséhez kijelölt számmezőkben szereplő számok használatára az üzleti hálózat üzemeltetőjét számhasználati jogviszony keretében jogosíthatja fel.
+
+## 1.7. Gépek közötti kommunikáció (M2M) számai (SHS = 71)
+
+## 1.7.1. A gazdálkodás rendje
+
+## A hatóság egy adott M2M alkalmazás részére a számokat 10 000-es számmezőkben köti le, jelöli ki és vonja vissza.
+
+## 1.7.2. Számmező használat
+
+## A szolgáltató kérelmében meghatározott alkalmazás nyújtásához az M2M számok kijelölhetőségét a hatóság állapítja meg. A hatóság a számmező kijelölési határozatában a kérelemben meghatározott alkalmazás jellegétől függő számhasználati feltételeket állapíthat meg.
+
+## A gépek közötti kommunikáció céljára számmező azon szolgáltató számára jelölhető ki, amelyet elektronikus hírközlési szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+
+## A kijelölési engedély jogosultja az adott számmezőben szereplő számok használatára a számhasználót számhasználati jogviszony keretében jogosíthatja fel.
 
 ## 2. RÖVID KÓDOK
 
@@ -122,7 +126,7 @@
 
 ## A 116 kezdőszámú, harmonizált közérdekű szolgáltatások harmonizált számait, a számok használatának és kijelölésének feltételeit a hatóság a honlapján teszi közzé.
 
-## A közzétett rövid szám minden olyan elektronikus hírközlési szolgáltató részére kijelölhető, amely rendelkezik a harmonizált közérdekű szolgáltatás nyújtására jogosult szervezet meghatalmazásával, gondoskodik a hívások végződtetéséről, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus beszédcélú szolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A közzétett rövid szám minden olyan elektronikus hírközlési szolgáltató részére kijelölhető, amely rendelkezik a harmonizált közérdekű szolgáltatás nyújtására jogosult szervezet meghatalmazásával, gondoskodik a hívások végződtetéséről, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## 2.4. Országosan elérhető telefon tudakozó számok
 
@@ -146,28 +150,42 @@
 
 ## A 135d és 136de formátumú számokon adománygyűjtésre illetve az adománygyűjtés közvetítésére a hatóság honlapján közzétett, az adott adománygyűjtő számhoz rendelt szervezet jogosult.
 
-## A közzétett adománygyűjtő szám minden olyan elektronikus hírközlési szolgáltató részére kijelölhető, amely rendelkezik a számhoz tartozó szervezet írásbeli meghatalmazásával, gondoskodik a hívószámok elérhetőségéről, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus beszédcélú szolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A közzétett adománygyűjtő szám minden olyan elektronikus hírközlési szolgáltató részére kijelölhető, amely rendelkezik a számhoz tartozó szervezet írásbeli meghatalmazásával, gondoskodik a hívószámok elérhetőségéről, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## 2.7. Különös díjazású országos számok
 
-## A 14cd(e) formátumú, díjmentes vagy kedvezményes díjazású országos szám azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus beszédcélú szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A 14cd(e) formátumú, díjmentes vagy kedvezményes díjazású országos szám azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## A kijelölési engedély jogosultja a szolgáltatás nyújtásához a szám használatára számhasználót számhasználati jogviszony keretében feljogosíthat.
 
 ## 2.8. Elektronikus hírközlési szolgáltató hálózatához rendelt számok
 
-## A 17c(d)(e) formátumú, elektronikus hírközlési szolgáltató hálózatához rendelt szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus beszédcélú szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A 17c(d)(e) formátumú, elektronikus hírközlési szolgáltató hálózatához rendelt szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## A kijelölési engedély jogosultja a szolgáltatás nyújtásához a szám használatára számhasználót számhasználati jogviszony keretében feljogosíthat.
 
 ## 2.9. Közérdekű tájékoztató és támogató szolgáltatások számai
 
-## A 18c(d) formátumú közérdekű tájékoztató és támogató szám olyan szolgáltató számára jelölhető ki, amely a számhoz tartozó szolgáltatás elérését biztosítja, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus beszédcélú szolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A 18c(d) formátumú közérdekű tájékoztató és támogató szám olyan szolgáltató számára jelölhető ki, amely a számhoz tartozó szolgáltatás elérését biztosítja, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## 2.10. Telefonos kezelői szolgáltatások számai
 
-## A 19c formátumú telefonos kezelői szolgáltatás szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás vagy mobil rádiótelefon-szolgáltatás vagy nomadikus beszédcélú szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A 19c formátumú telefonos kezelői szolgáltatás szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás vagy mobil rádiótelefon-szolgáltatás vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^55]
+## 2.11. Lelki segítő és támogató szolgáltatások számai
 
-[^55]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.
+## A 137de formátumú számon a számhoz hozzárendelt, a hatóság honlapján közzétett, az ANFT-ben meghatározott szervezet nyújt telefonos lelki segítő és támogató szolgáltatást. A hatóság a számot a szervezet kérésére előzetesen, vagy az első kijelölési kérelemmel egyidejűleg rendeli a szervezethez.
+
+## A közzétett szám minden olyan elektronikus hírközlési szolgáltató részére kijelölhető, amely rendelkezik a számhoz tartozó szervezet írásbeli meghatalmazásával, gondoskodik a hívások végződtetéséről, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+
+## 2.12. Emelt díjas szolgáltatás rövid számok
+
+## A 16cde(f) formátumú emelt díjas szolgáltatás rövid szám azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás vagy mobil rádiótelefon-szolgáltatás vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+
+## A kijelölési engedély jogosultja a szolgáltatás nyújtásához a szám használatára számhasználót számhasználati jogviszony keretében feljogosíthat.
+
+## Egy emelt díjas rövid szám több szolgáltatónak is kijelölhető, ha a rövid számon emelt díjas szolgáltatást nyújtó számhasználó a kijelölési engedélyben meghatározott szolgáltatás nyújtására több elektronikus hírközlési szolgáltatóval számhasználati jogviszonyt létesít.
+
+2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^63]
+
+[^63]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.

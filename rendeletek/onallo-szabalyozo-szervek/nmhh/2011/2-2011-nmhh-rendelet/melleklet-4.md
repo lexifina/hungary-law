@@ -22,7 +22,7 @@ A jelzéspont kódokkal való gazdálkodás rendje
 
 1. Nemzetközi jelzéspont kód
 
-1.1.[^57] A gazdálkodás rendje
+1.1.[^65] A gazdálkodás rendje
 
 A nemzetközi jelzéspont kód (ISPC) részét képező jelzéspont azonosítót (SPI) a hatóság jelöli ki. Egy jelzéspont számára egy nemzetközi jelzéspont kód (jelzéspont azonosító) jelölhető ki.
 
@@ -48,4 +48,4 @@ Nemzeti összekötő jelzéshálózati jelzéspont kód jelölhető ki azon szol
 
 Nemzeti jelzéshálózat létesítésére a szolgáltató azzal kap felhatalmazást, ha számára a hatóság meghatározza az NISPC-hez tartozó NIAA + NIBB kódokat. Az NSPC kiosztását a szolgáltató végzi.
 
-[^57]: A 4. melléklet 1.1. pontja az 1/2012. (I. 3.) NMHH rendelet 6. §-a szerint módosított szöveg.
+[^65]: A 4. melléklet 1.1. pontja az 1/2012. (I. 3.) NMHH rendelet 6. §-a szerint módosított szöveg.

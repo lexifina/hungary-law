@@ -44,11 +44,11 @@ i)[^5] zárolt: a gazdálkodás köréből kivont azonosító, melynek kijelölh
 
 5.[^6] Számhasználó: az azonosítót használó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező egyéb szervezet, amelyet az azonosító használatára a kijelölési engedély jogosultja a közöttük fennálló számhasználati jogviszony alapján feljogosított.
 
-6.[^7] Számhasználati jogviszony: A kijelölési engedély jogosultja és a számhasználó közötti számhasználati szerződés alapján, a szerződésben megjelölt azonosító használatára létrejött jogviszony, amelynek célja, hogy a számhasználó a számhasználati szerződésben meghatározott azonosítón a jelen rendelet 1. mellékletének 1.3, 2.4, 2.7 vagy 2.8 pontja szerinti szolgáltatást nyújtson.
+6.[^7] Számhasználati jogviszony: A kijelölési engedély jogosultja és a számhasználó közötti számhasználati szerződés alapján, a szerződésben megjelölt azonosító használatára létrejött jogviszony, amelynek célja, hogy a számhasználó a számhasználati szerződésben meghatározott azonosítón a jelen rendelet 1. mellékletének 1.3, 1.6, 1.7, 2.4, 2.7, 2.8 vagy 2.12 pontja szerinti szolgáltatást nyújtson.
 
 [^2]: A 2. § 3. pont f) alpontja az 1/2012. (I. 3.) NMHH rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § 3. pont g) alpontja az 1/2012. (I. 3.) NMHH rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^4]: A 2. § 3. pont h) alpontját az 1/2012. (I. 3.) NMHH rendelet 1. § (1) bekezdése iktatta be.
 [^5]: A 2. § 3. pont i) alpontját az 1/2012. (I. 3.) NMHH rendelet 1. § (1) bekezdése iktatta be.
 [^6]: A 2. § 5. pontja az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése és 6. §-a szerint módosított szöveg.
-[^7]: A 2. § 6. pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § 6. pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (2) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 7. §-a szerint módosított szöveg.

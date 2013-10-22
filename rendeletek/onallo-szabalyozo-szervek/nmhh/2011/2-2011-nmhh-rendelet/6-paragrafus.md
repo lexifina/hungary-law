@@ -1,4 +1,4 @@
-## 5/A. §[^22] Azonosító engedélyezési eljárásokban – ide nem értve az egyeztetést igénylő és a több szolgáltatót vagy nemzetközi azonosítót érintő ügyeket – az ügyintézési határidő 21 nap, ami indokolt esetben legfeljebb 10 nappal meghosszabbítható.
+## 5/A. §[^23] Azonosító engedélyezési eljárásokban – ide nem értve az egyeztetést igénylő és a több szolgáltatót vagy nemzetközi azonosítót érintő ügyeket – az ügyintézési határidő 21 nap, ami indokolt esetben legfeljebb 10 nappal meghosszabbítható.
 
 ## Lekötés
 
@@ -12,4 +12,4 @@ b) a lekötésre kért azonosító megjelölését, használatának célját, a 
 
 (3) A lekötési engedély egy évig érvényes, kérelemre egy alkalommal további egy évvel meghosszabbítható.
 
-[^22]: Az 5/A. §-t a 7/2012. (I. 26.) NMHH rendelet 36. § (1) bekezdése iktatta be. E módosító rendelet 35. § (3) bekezdése alapján a 2012. február 1. napját követően indult eljárásokban és a megismételt eljárásokban kell alkalmazni.
+[^23]: Az 5/A. §-t a 7/2012. (I. 26.) NMHH rendelet 36. § (1) bekezdése iktatta be. E módosító rendelet 35. § (3) bekezdése alapján a 2012. február 1. napját követően indult eljárásokban és a megismételt eljárásokban kell alkalmazni.
