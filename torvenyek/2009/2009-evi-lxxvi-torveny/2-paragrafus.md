@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában:
 
-a) Belső Piaci Információs Rendszer: az Európai Bizottság által üzemeltetett, a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv végrehajtása céljából az EGT-államok illetékes hatóságai közötti elektronikus adatcserét biztosító adatátviteli rendszer,
+a) belső piaci információs rendszer: a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló 1024/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: IMI rendelet) 5. cikk a) pontjában meghatározott elektronikus adatátviteli eszköz,
 
 b) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 

@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) A Magyarországon vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására e törvény rendelkezéseit kell alkalmazni.
+1. § (1) A Magyarországon vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására, valamint a belső piaci információs rendszerben való részvételre e törvény rendelkezéseit kell alkalmazni.
 
 (2) Nem kell alkalmazni e törvény rendelkezéseit
 
