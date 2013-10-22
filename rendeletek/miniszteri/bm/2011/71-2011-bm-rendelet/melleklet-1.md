@@ -3,4 +3,4 @@
 1. melléklet a 71/2011. (XII. 31.) BM rendelethez[^38]
 
 [^37]: Az 59/A. §-t a 35/2012. (VII. 13.) BM rendelet 11. §-a iktatta be.
-[^38]: Az 1. melléklet a 35/2012. (VII. 13.) BM rendelet 13. § a) pontjával megállapított szöveg.
+[^38]: Az 1. melléklet az 59/2013. (X. 21.) BM rendelet 1. §-ával megállapított, a Magyar Közlöny 2013. évi 177. számában megjelent helyesbítésnek megfelelő szöveg.
