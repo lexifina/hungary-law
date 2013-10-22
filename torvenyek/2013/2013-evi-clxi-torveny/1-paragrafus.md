@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Egyesült Arab Emírségek Kormánya között a jövedelemadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló, Dubaiban, 2013. április 30. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
