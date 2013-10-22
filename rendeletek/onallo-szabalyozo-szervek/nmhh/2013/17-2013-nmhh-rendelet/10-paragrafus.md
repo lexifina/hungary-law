@@ -1,0 +1,3 @@
+## „4. Felnőtt tartalom: olyan tartalom, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása.
+
+## 5. Nomadikus telefonszolgáltatás: olyan telefonszolgáltatás, amely a hívások kezdeményezése és fogadása céljából a szolgáltatást nyújtó hálózatok tetszőleges előfizetői hozzáférési pontján elérhető, azaz a szolgáltatáshoz való hozzáférés nincs egy adott előfizetői hozzáférési ponthoz rendelve, azonban helyhez kötött előfizetői hozzáférési pont esetén a szolgáltatás igénybevétele közben az előfizetői hozzáférési pont nem változtatható.”

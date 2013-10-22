@@ -1,0 +1,1 @@
+## 15. § A hatóság az e rendelet hatálybalépését megelőzően a 17 kezdőszámú számtartományban emelt díjas, díjkorlátos szolgáltatás nyújtására kijelölt rövid számok használati engedélyét 2013. december 31-ig, a telefon tudakozó céljára kijelölt 197, 198, 199 rövid számok használati engedélyét 2014. december 31-ig visszavonja.

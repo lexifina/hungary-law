@@ -1,0 +1,1 @@
+## 12. § Az elektronikus hírközlési szolgáltatásokhoz szükséges azonosítók lekötésének és használatának díjáról szóló 5/2012. (I. 24.) NMHH rendelet (a továbbiakban: R3.) 1. melléklete helyébe a 3. melléklet lép.

@@ -1,0 +1,1 @@
+## 16. § A hatóság köteles az SHS=90 és SHS=91 emelt díjas szolgáltatás számokra, a 197, 198, 199 rövid számokra és a 17c(d)(e) formátumú rövid számokra kiadott kijelöléseket felülvizsgálni és a 2014. január 1-jén hatályba lépő használati díjakról rendelkező határozatot 2013. december 31-ig kiadni.
