@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-57-00-00
 | 2010-05-29 | 2010. évi XLIII. törvény | 2004-57-00-00.12 |
 | 2011-01-01 | 2011. évi CXII. törvény | 2004-57-00-00.13 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2004-57-00-00.14 |
+| 2013-10-22 | 2013. évi CLXIV. törvény | 2004-57-00-00.15 |
