@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Guernsey Kormánya között az adóügyi információcseréről szóló, Londonban, 2013. szeptember 11. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
