@@ -1,0 +1,3 @@
+21. § (1) Ha a bejelentett tervezetre vonatkozóan a Bizottság a bejelentés kézhezvételétől számított három hónapon belül olyan határozatot hoz, amelyben az abban foglalt korlátozó követelmény megszüntetésére szólít fel, a Bizottság határozatának megfelelően módosított illetőleg átdolgozott jogszabályt a Kormány döntését, illetve a szakminiszter általi aláírást követően haladéktalanul meg kell küldeni a Bizottságnak.
+
+(2) Ha a szakminiszter nem ért egyet a Bizottság határozatában jelzett indokolással, – az európai integrációs ügyekért felelős miniszter és az igazságügyért felelős miniszter egyetértése esetén és bevonásával – a Központon keresztül egyeztetést kezdeményezhet a Bizottsággal a kifogásolt korlátozó követelmény elfogadtatása céljából.
