@@ -7,11 +7,3 @@
 (3) A 4. § (2) bekezdése és az 5. § (7) bekezdés a) pontja 2014. január 1-jén lép hatályba.
 
 (4) Az 5. § (5) bekezdése 2014. március 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
