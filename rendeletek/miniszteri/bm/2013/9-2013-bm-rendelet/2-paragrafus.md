@@ -12,9 +12,9 @@ d) a hivatásos katasztrófavédelmi szervek katasztrófavédelmi egyen és vegy
 
 e) a rendészeti szakközépiskolákba vezényelt hivatásos állomány.
 
-(2) Az (1) bekezdés a) pontjában meghatározott állománykategóriák természetbeni ellátása – a (3) bekezdésben foglalt kivétellel – a következő cikkekből áll:
+(2)[^2] Az (1) bekezdés a) pontjában meghatározott állománykategóriák természetbeni ellátása – a (3) és (3a) bekezdésben foglalt kivétellel – a következő cikkekből áll:
 
-a) 12M e.r. téli sapka, szerelék nélkül 1 db
+a)[^3]
 
 b) 12M e.r. szolgálati ing/blúz, rövid ujjú, világoskék (a közlekedésrendészeti szolgálati ágnál szolgálatot teljesítő állomány esetében 1 db) 2 db
 
@@ -26,47 +26,71 @@ e) hímzett névkitűző 2 db
 
 f) hímzett váll-lap (testületi színnek megfelelő) 1 pár
 
-(3) A Készenléti Rendőrség hivatásos állományának természetbeni ellátása a következő cikkekből áll:
+(3)[^4] A Készenléti Rendőrség egyenruhás állományának természetbeni ellátása a következő cikkekből áll:
 
-a) 12M e.r. téli sapka, szerelék nélkül 1 db
+a) KR köznapi teniszing, sötétkék 2 db
 
-b) KR köznapi teniszing, sötétkék 2 db
+b) KR ünnepi teniszing, fehér 2 db
 
-c) KR ünnepi teniszing, fehér 2 db
+c) 10M e.r. gyakorló nadrág (könnyített) 1 db
 
-d) 10M e.r. gyakorló nadrág (könnyített) 1 db
+d) 10M e.r. gyakorló zubbony (könnyített) 1 db
 
-e) 10M e.r. gyakorló zubbony (könnyített) 1 db
+e) KR felirat nagy 2 db
 
-f) KR felirat nagy 2 db
+f) KR felirat kicsi 2 db
 
-g) KR felirat kicsi 2 db
+g) 12M e.r. gyakorló bakancs (könnyített) 1 pár
 
-h) 10M e.r. gyakorló bakancs (könnyített) 1 pár
+h) 12 M e. r. taktikai öv klt. 1 db
 
-i) taktikai öv 1 db
+i) hímzett névkitűző 2 db
 
-j) KR köznapi sál, bordó 1 db
+j) hímzett tépőzáras rendfokozati jelzés 2 db
 
-k) KR ünnepi sál, világoskék 1 db
+k) karjelvény 2 db
 
-l) hímzett névkitűző 2 db
+l) hímzett szövetsapka (pilotka), bordó 1 db
 
-m) hímzett tépőzáras rendfokozati jelzés 2 db
+m) tépőzáras karszalag, bordó 1 db
 
-n) karjelvény 2 db
+(3a)[^5] A Készenléti Rendőrség tábornoki, vegyes és polgári ruhás állományának természetbeni ellátása a következő cikkekből áll:
 
-(4) Az (1) bekezdés b) pontjában meghatározott állománykategóriák természetbeni ellátása a következő cikkekből áll:
+a) KR köznapi teniszing, sötétkék 1 db
 
-a) 12M e.r. téli sapka, szerelék nélkül 1 db
+b) KR ünnepi teniszing, fehér 1 db
 
-b) taktikai öv 1 db
+c) 10M e.r. gyakorló nadrág (könnyített) 1 db
 
-c) hímzett névkitűző 2 db
+d) 10M e.r. gyakorló zubbony (könnyített) 1 db
 
-d) gyakorló póló 1 db
+e) KR felirat nagy 2 db
 
-e) hímzett tépőzáras rendfokozati jelzés 2 db
+f) KR felirat kicsi 2 db
+
+g) 12M e.r. gyakorló bakancs (könnyített) 1 pár
+
+h) 12 M e. r. taktikai öv klt. 1 db
+
+i) hímzett névkitűző 2 db
+
+j) hímzett tépőzáras rendfokozati jelzés 2 db
+
+k) karjelvény 2 db
+
+l) hímzett szövetsapka (pilotka), bordó 1 db
+
+m) tépőzáras karszalag, bordó 1 db
+
+(4)[^6] Az (1) bekezdés b) pontjában meghatározott állománykategóriák természetbeni ellátása – a (3a) bekezdésben foglalt kivétellel – a következő cikkekből áll:
+
+a) taktikai öv 1 db
+
+b) hímzett névkitűző 2 db
+
+c) gyakorló póló 1 db
+
+d) hímzett tépőzáras rendfokozati jelzés 2 db
 
 (5) Az (1) bekezdés c) pontjában meghatározott állománykategóriák természetbeni ellátása a következő cikkekből áll:
 
@@ -113,3 +137,9 @@ g) hímzett névkitűző 2 db
 (8) Az (1) bekezdés e) pontjában meghatározott állománykategóriák természetbeni ellátását a vezénylő szerv szerinti, a (2)–(4) bekezdésben meghatározott természetbeni ellátás alapján kell biztosítani.
 
 (9) Az igényjogosult hivatásos állomány részére a természetbeni ellátásban felsorolt ruházati termékeket csak a rendszeresítést követően lehet kiadni.
+
+[^2]: A 2. § (2) bekezdés nyitó szövegrésze az 59/2013. (X. 21.) BM rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés a) pontját az 59/2013. (X. 21.) BM rendelet 6. §-a hatályon kívül helyezte.
+[^4]: A 2. § (3) bekezdése az 59/2013. (X. 21.) BM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (3a) bekezdését az 59/2013. (X. 21.) BM rendelet 3. §-a iktatta be.
+[^6]: A 2. § (4) bekezdése az 59/2013. (X. 21.) BM rendelet 4. §-ával megállapított szöveg.
