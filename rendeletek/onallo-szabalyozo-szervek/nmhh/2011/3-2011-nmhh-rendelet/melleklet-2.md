@@ -54,6 +54,10 @@
 
 ## 1.4. A használat feltételei
 
+## Az 1.2 pont b) és c) pontjában meghatározott globális szolgáltatások és Hálózatok nemzetközi számainak kijelölési és használati feltételeit ITU-T Ajánlások határozzák meg.
+
+## Az ITU-T E.152 Ajánlásban meghatározott OS=800 egyetemes nemzetközi díjmentes szolgáltatás (Universal International Freephone Service) számainak elérését a hívó részére díjmentesen kell biztosítani, feltéve, hogy a hívó fél a hívást honos hálózatából, barangolás igénybevétele nélkül kezdeményezi. A hívás és üzenetküldés díját a hívott fél fizeti. A barangolásból adódó többletköltségeket a hívó fél viseli.
+
 ## A nemzetközi hívás lehetőségét a szolgáltató az előfizetője kérésére köteles letiltani.
 
 ## 2. BELFÖLDI SZÁMOK FELOSZTÁSA ÉS MEGHATÁROZÁSA
@@ -74,7 +78,7 @@
 
 |  | ES | előfizetői szám, amely egy BRS által meghatározott számozási tartományban egy előfizetői hozzáférési pont vagy egy szolgáltatás hívására vagy elérésére szolgál. |
 
-## A belföldi szám hossza 8 vagy 9 számjegy. Egy számozási tartományban a belföldi szám hossza azonos.
+## A belföldi szám hossza 8, 9 vagy 12 számjegy. Egy számozási tartományban a belföldi szám hossza azonos.
 
 ## A belföldi rendeltetési szám típusai:
 
@@ -90,117 +94,119 @@
 
 ## A körzetszámok és a földrajzi számozási területek összerendelését az alábbi táblázat tartalmazza:
 
-| KS | Földrajzi számozási terület |
+|  |  | A | B |
 
-| 1 | Budapest |
+|  | 1 | KS | Földrajzi számozási terület |
 
-| 22 | Székesfehérvár |
+|  | 2 | 1 | Budapest |
 
-| 23 | Biatorbágy |
+|  | 3 | 22 | Székesfehérvár |
 
-| 24 | Szigetszentmiklós |
+|  | 4 | 23 | Biatorbágy |
 
-| 25 | Dunaújváros |
+|  | 5 | 24 | Szigetszentmiklós |
 
-| 26 | Szentendre |
+|  | 6 | 25 | Dunaújváros |
 
-| 27 | Vác |
+|  | 7 | 26 | Szentendre |
 
-| 28 | Gödöllő |
+|  | 8 | 27 | Vác |
 
-| 29 | Monor |
+|  | 9 | 28 | Gödöllő |
 
-| 32 | Salgótarján |
+|  | 10 | 29 | Monor |
 
-| 33 | Esztergom |
+|  | 11 | 32 | Salgótarján |
 
-| 34 | Tatabánya |
+|  | 12 | 33 | Esztergom |
 
-| 35 | Balassagyarmat |
+|  | 13 | 34 | Tatabánya |
 
-| 36 | Eger |
+|  | 14 | 35 | Balassagyarmat |
 
-| 37 | Gyöngyös |
+|  | 15 | 36 | Eger |
 
-| 42 | Nyíregyháza |
+|  | 16 | 37 | Gyöngyös |
 
-| 44 | Mátészalka |
+|  | 17 | 42 | Nyíregyháza |
 
-| 45 | Kisvárda |
+|  | 18 | 44 | Mátészalka |
 
-| 46 | Miskolc |
+|  | 19 | 45 | Kisvárda |
 
-| 47 | Szerencs |
+|  | 20 | 46 | Miskolc |
 
-| 48 | Ózd |
+|  | 21 | 47 | Szerencs |
 
-| 49 | Mezőkövesd |
+|  | 22 | 48 | Ózd |
 
-| 52 | Debrecen |
+|  | 23 | 49 | Mezőkövesd |
 
-| 53 | Cegléd |
+|  | 24 | 52 | Debrecen |
 
-| 54 | Berettyóújfalu |
+|  | 25 | 53 | Cegléd |
 
-| 55 | teszt-körzet |
+|  | 26 | 54 | Berettyóújfalu |
 
-| 56 | Szolnok |
+|  | 27 | 55 | teszt-körzet |
 
-| 57 | Jászberény |
+|  | 28 | 56 | Szolnok |
 
-| 59 | Karcag |
+|  | 29 | 57 | Jászberény |
 
-| 62 | Szeged |
+|  | 30 | 59 | Karcag |
 
-| 63 | Szentes |
+|  | 31 | 62 | Szeged |
 
-| 66 | Békéscsaba |
+|  | 32 | 63 | Szentes |
 
-| 68 | Orosháza |
+|  | 33 | 66 | Békéscsaba |
 
-| 69 | Mohács |
+|  | 34 | 68 | Orosháza |
 
-| 72 | Pécs |
+|  | 35 | 69 | Mohács |
 
-| 73 | Szigetvár |
+|  | 36 | 72 | Pécs |
 
-| 74 | Szekszárd |
+|  | 37 | 73 | Szigetvár |
 
-| 75 | Paks |
+|  | 38 | 74 | Szekszárd |
 
-| 76 | Kecskemét |
+|  | 39 | 75 | Paks |
 
-| 77 | Kiskunhalas |
+|  | 40 | 76 | Kecskemét |
 
-| 78 | Kiskőrös |
+|  | 41 | 77 | Kiskunhalas |
 
-| 79 | Baja |
+|  | 42 | 78 | Kiskőrös |
 
-| 82 | Kaposvár |
+|  | 43 | 79 | Baja |
 
-| 83 | Keszthely |
+|  | 44 | 82 | Kaposvár |
 
-| 84 | Siófok |
+|  | 45 | 83 | Keszthely |
 
-| 85 | Marcali |
+|  | 46 | 84 | Siófok |
 
-| 87 | Tapolca |
+|  | 47 | 85 | Marcali |
 
-| 88 | Veszprém |
+|  | 48 | 87 | Tapolca |
 
-| 89 | Pápa |
+|  | 49 | 88 | Veszprém |
 
-| 92 | Zalaegerszeg |
+|  | 50 | 89 | Pápa |
 
-| 93 | Nagykanizsa |
+|  | 51 | 92 | Zalaegerszeg |
 
-| 94 | Szombathely |
+|  | 52 | 93 | Nagykanizsa |
 
-| 95 | Sárvár |
+|  | 53 | 94 | Szombathely |
 
-| 96 | Győr |
+|  | 54 | 95 | Sárvár |
 
-| 99 | Sopron |
+|  | 55 | 96 | Győr |
+
+|  | 56 | 99 | Sopron |
 
 ## Az egyes földrajzi számozási területekhez tartozó települések felsorolását, az érintett szolgáltatókkal történt egyeztetés után, a hatóság a honlapján teszi közzé.
 
@@ -210,31 +216,37 @@
 
 ## Az SHS-ek és a szolgáltatások, vagy hálózatok összerendelését az alábbi táblázat tartalmazza:
 
-| SHS | Szolgáltatás vagy hálózat |
+|  |  | A | B |
 
-| 20 | Mobil rádiótelefon szolgáltatás |
+|  | 1 | SHS | Szolgáltatás vagy hálózat |
 
-| 21 | Nomadikus beszédcélú szolgáltatás |
+|  | 2 | 20 | Mobil rádiótelefon szolgáltatás |
 
-| 30 | Mobil rádiótelefon szolgáltatás |
+|  | 3 | 21 | Nomadikus telefonszolgáltatás |
 
-| 31 | Mobil rádiótelefon szolgáltatás |
+|  | 4 | 30 | Mobil rádiótelefon szolgáltatás |
 
-| 40 | Kedvezményes díjazású szolgáltatás |
+|  | 5 | 31 | Mobil rádiótelefon szolgáltatás |
 
-| 50 | Mobil rádiótelefon szolgáltatás |
+|  | 6 | 38 | Üzleti hálózatok |
 
-| 51 | Internet-hozzáférési szolgáltatás |
+|  | 7 | 40 | Kedvezményes díjazású szolgáltatás |
 
-| 60 | Mobil rádiótelefon szolgáltatás |
+|  | 8 | 50 | Mobil rádiótelefon szolgáltatás |
 
-| 70 | Mobil rádiótelefon szolgáltatás |
+|  | 9 | 51 | Internet-hozzáférési szolgáltatás |
 
-| 80 | Díjmentes szolgáltatás |
+|  | 10 | 60 | Mobil rádiótelefon szolgáltatás |
 
-| 90 | Emelt díjas, díjkorlátmentes szolgáltatás |
+|  | 11 | 70 | Mobil rádiótelefon szolgáltatás |
 
-| 91 | Emelt díjas, díjkorlátos szolgáltatás |
+|  | 12 | 71 | Gépek közötti kommunikáció |
+
+|  | 13 | 80 | Díjmentes szolgáltatás |
+
+|  | 14 | 90 | Emelt díjas, díjkorlátmentes szolgáltatás és emelt díjas felnőtt szolgáltatás |
+
+|  | 15 | 91 | Emelt díjas, díjkorlátos szolgáltatás |
 
 ## 2.1.5. Hívószám azonosítás
 
@@ -274,13 +286,13 @@
 
 ## A földrajzi szám csak a körzetszámhoz tartozó földrajzi számozási területen elhelyezett előfizetői hozzáférési ponthoz rendelhető.
 
-## Földrajzi számon különleges díjazású (a díjmentes, a kedvezményes díjazású, az emelt díjas, díjkorlátmentes és az emelt díjas, díjkorlátos) szolgáltatás, valamint nomadikus beszédcélú szolgáltatás nem nyújtható.
+## Földrajzi számon különleges díjazású (a díjmentes, a kedvezményes díjazású, az emelt díjas) szolgáltatás, valamint nomadikus telefonszolgáltatás nem nyújtható.
 
 ## 2.3. Mobil számok (SHS = 20, 30, 31, 50, 60, 70)
 
 ## 2.3.1. Leírás
 
-## A mobil számok a mobil rádiótelefon hálózathoz csatlakozó előfizetők azonosítását és elérését teszik lehetővé.
+## A mobil számok a mobil rádiótelefon hálózathoz csatlakozó előfizetők azonosítását és elérését teszik lehetővé mobil rádiótelefon illetőleg mobil internet hozzáférési szolgáltatás igénybevételéhez.
 
 ## 2.3.2. A számok felépítése
 
@@ -294,31 +306,31 @@
 
 ## 2.3.3. A használat feltételei
 
-## Amennyiben az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa eltérően nem rendelkezik, mobil számon különleges díjazású (a díjmentes, a kedvezményes díjazású, az emelt díjas, díjkorlátmentes és az emelt díjas, díjkorlátos) szolgáltatás nem nyújtható.
+## A mobil számon kedvezményes díjazású és emelt díjas szolgáltatás, nomadikus telefonszolgáltatás, valamint – amennyiben az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa eltérően nem rendelkezik – díjmentes szolgáltatás nem nyújtható.
 
-## 2.4. Nomadikus beszédcélú szolgáltatás számai (SHS = 21)
+## 2.4. Nomadikus telefonszolgáltatás számai (SHS = 21)
 
 ## 2.4.1. Leírás
 
-## A nomadikus számok Magyarország területén a nomadikus beszédcélú szolgáltatást nyújtó elektronikus hírközlő hálózathoz csatlakozó előfizetők azonosítását és belföldi vagy nemzetközi hívásokkal való elérését teszik lehetővé. Az előfizetői hozzáférési pont helye változhat, azaz a szolgáltatáshoz való hozzáférés nincs egy adott hozzáférési ponthoz rendelve, azonban a szolgáltatás igénybevétele közben a hozzáférési pont nem változtatható.
+## A nomadikus számok a nyilvános elektronikus hírközlő hálózathoz – általában helyhez kötött vagy mobil internet hozzáférésen – csatlakozó nomadikus telefonszolgáltatás előfizetők azonosítását és elérését teszik lehetővé.
 
 ## 2.4.2. A számok felépítése
 
 |  |  | 21 abc defg |
 
-| ahol: | 21 | nomadikus beszédcélú szolgáltatást jelölő SHS, |
+| ahol: | 21 | nomadikus telefonszolgáltatást jelölő SHS, |
 
 |  | abc defg | előfizetői szám 200 0000-999 9999 között. |
 
 ## 2.4.3. A használat feltételei
 
-## Az előfizetői számokon különleges díjazású (a díjmentes, a kedvezményes díjazású, az emelt díjas, díjkorlátmentes és az emelt díjas, díjkorlátos) szolgáltatás nem nyújtható.
+## Az előfizetői számokon helyhez kötött telefonszolgáltatás, mobil rádiótelefon szolgáltatás, különleges díjazású (a díjmentes, a kedvezményes díjazású, az emelt díjas) szolgáltatás nem nyújtható.
 
 ## 2.5. Kedvezményes díjazású szolgáltatás számai (ún. kék számok) (SHS = 40)
 
 ## 2.5.1. Leírás
 
-## Lehetővé teszi a beszédcélú elektronikus hírközlő hálózatból a 2. § 2. pontban meghatározott kedvezményes díjazású szolgáltatások elérését.
+## Lehetővé teszi a telefonhálózatból a 2. § 2. pontban meghatározott kedvezményes díjazású szolgáltatások elérését.
 
 ## 2.5.2. A számok felépítése
 
@@ -332,9 +344,9 @@
 
 ## 2.5.3. A használat feltételei
 
-## A szolgáltatónak kötelessége, hogy a hálózatából kedvezményes díjazású szolgáltatások elérésére kezdeményezett hívások hívó által fizetendő, az általános forgalmi adót (a továbbiakban: áfa) tartalmazó hívásdíját az általános szerződési feltételeiben közzétegye.
+## A szolgáltatónak kötelessége, hogy a hálózatából kedvezményes díjazású szolgáltatások elérésére kezdeményezett hívások hívó által fizetendő, az általános forgalmi adót (a továbbiakban: áfa) tartalmazó hívásdíját az általános szerződési feltételeiben közzétegye. A szolgáltató a hívó fél által fizetendő díjat úgy köteles meghatározni, hogy az ne haladja meg a hatóság által az érintett szolgáltatókkal történő egyeztetést követően – évente január 31-ig – a hatóság internetes honlapján közzétett díjat.
 
-## A számhasználó kérésére - kereskedelmi okból - a szolgáltatónak korlátoznia kell a kedvezményes díjazású szolgáltatás nemzetközi hálózatból, valamint meghatározott belföldi KS-sel illetve SHS-sel azonosított számtartományokból való elérését.
+## A számhasználó kérésére – kereskedelmi okból – a szolgáltatónak korlátoznia kell a kedvezményes díjazású szolgáltatás nemzetközi hálózatból, valamint meghatározott belföldi KS-sel, illetve SHS-sel azonosított számtartományokból való elérését.
 
 ## A kedvezményes díjazású szolgáltatás szám számhasználója által kezdeményezett hívásoknál a kedvezményes díjazású szolgáltatás szám a hívottnál hívószám kijelzés szolgáltatással a hívó telefonszámaként nem jeleníthető meg.
 
@@ -376,65 +388,87 @@
 
 | ahol: | 80 | a díjmentes szolgáltatást jelölő SHS, |
 
-|  | abc def | előfizetői szám, amelynek értéke: 000 000-099 999, ha belföldi formában tárcsázható nemzetközi hívószám, ahol a hívás nemzetközi hívószámon illetve más országban végződik 100 000-999 999, ha belföldi hívószám, ahol a hívás belföldi hívószámon illetve belföldön végződik. |
+|  | abc def | előfizetői szám, amelynek értéke: 000 000-099 999, ha belföldi formában tárcsázható nemzetközi hívószám, ahol a hívás nemzetközi hívószámon, illetve más országban végződik 100 000-999 999, ha belföldi hívószám, ahol a hívás belföldi hívószámon, illetve belföldön végződik. |
 
 ## 2.7.3. A használat feltételei
 
 ## A hívás és üzenetküldés díját a számhasználó fizeti. A hívás és üzenetküldés a hívó fél részére díjmentes, feltéve, hogy a hívó fél a hívást honos hálózatából, barangolás igénybevétele nélkül kezdeményezi. A barangolásból adódó többletköltségeket a hívó fél viseli.
 
-## A számhasználó kérésére - kereskedelmi okból - a szolgáltatónak korlátoznia kell a díjmentes szolgáltatás nemzetközi hálózatból, valamint meghatározott belföldi KS-sel illetve SHS-sel azonosított számtartományokból való elérését.
+## A számhasználó kérésére – kereskedelmi okból – a szolgáltatónak korlátoznia kell a díjmentes szolgáltatás nemzetközi hálózatból, valamint meghatározott belföldi KS-sel, illetve SHS-sel azonosított számtartományokból való elérését.
 
 ## A díjmentes szolgáltatás szám számhasználója által kezdeményezett hívásoknál a díjmentes szolgáltatás szám a hívottnál hívószám kijelzés szolgáltatással a hívó telefonszámaként nem jeleníthető meg.
 
-## 2.8. Emelt díjas, díjkorlátmentes szolgáltatás számai (SHS = 90)
+## 2.8. Emelt díjas szolgáltatás számai (SHS = 90, 91)
 
 ## 2.8.1. Leírás
 
-## Lehetővé teszi a beszédcélú elektronikus hírközlő hálózatból információt, tartalmat nyújtó szolgáltatások elérését.
+## Lehetővé teszi a telefonhálózatból információt, tartalmat nyújtó, emelt díjas szolgáltatások elérését.
 
 ## 2.8.2. A számok felépítése
 
-|  |  | 90 abc def |
+|  |  | 90 abc def 91 abc def |
 
-| ahol: | 90 | az emelt díjas, díjkorlátmentes szolgáltatást jelölő SHS, |
+| ahol: | 90 91 | az emelt díjas, díjkorlátmentes és emelt díjas felnőtt szolgáltatást jelölő SHS, az emelt díjas, díjkorlátos szolgáltatást jelölő SHS |
 
 |  | abc def | előfizetői szám 100 000-999 999 között. |
 
-## 2.8.3. A használat feltételei
+## 2.8.3. A szolgáltatás kategóriák használati feltételei
 
-## A számhasználó minden esetben köteles az emelt díjas, díjkorlátmentes szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, áfát tartalmazó díj mértékét is (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja) nyilvánosságra hozni. A szolgáltatás díja mellett fel kell tüntetni, hogy annak megfizetése indított emelt díjas hívással, vagy üzenetküldéssel történik, valamint fogadott emelt díjas szolgáltatás esetén azt, hogy maximálisan hány üzenet küldésére kerül sor a szolgáltatás igénybevétele során. Ugyancsak fel kell tüntetni a számhasználó megnevezését, valamint a szolgáltatáshoz kapcsolódó ügyfélszolgálat elérhetőségét telefonon, postai és elektronikus úton.
+## Az SHS=90 számtartomány számain a szolgáltatónak megfelelő intézkedésekkel biztosítania kell, hogy kiskorú előfizető ne érhessen el olyan szolgáltatást, amelyen keresztül felnőtt tartalom hozzáférhető. Ez a korlátozás a kiskorú előfizető esetében törvényes képviselőjének kérésére sem oldható fel.
 
-## Az emelt díjas, díjkorlátmentes szolgáltatás elérését az előfizetője kérésére a szolgáltató köteles díjmentesen letiltani. Ennek lehetőségéről az Eht. 144. § (3), illetve (4) bekezdés szerinti módon havonta tájékoztatni kell minden olyan előfizetőt, aki a letiltás lehetőségével nem élt.
+## Az SHS=91 számtartomány számain nem nyújtható felnőtt tartalom. A szolgáltató a hívó fél által fizetendő legmagasabb díjat úgy köteles meghatározni, hogy az ne haladja meg a hatóság által az érintett szolgáltatókkal történő egyeztetést követően – évente január 31-ig – a hatóság internetes honlapján közzétett díjat.
 
-## A fogadott emelt díjas, díjkorlátmentes szolgáltatás nyújtására használható számokra vonatkozóan a szolgáltató minden előfizetőjénél díjmentesen alapértelmezett tiltást köteles berendezni. A tiltás csak az előfizető nyilatkozatára oldható fel. A szolgáltatónak biztosítania kell, hogy az emelt díjas, díjkorlátmentes szolgáltatás nyújtására használható számok hívásának, illetve az ilyen számokra küldött, vagy onnan fogadott üzeneteknek tiltására illetve feloldásra vonatkozó nyilatkozatát az előfizető bármikor ingyenesen megtehesse, illetve visszavonhassa. Az emelt díjas, díjkorlátmentes szolgáltatás nyújtására használható számok hívására, illetve az ilyen számokra küldött, vagy onnan fogadott üzenetekre vonatkozó tiltás illetve feloldás a szolgáltatás rendelkezésre állásának állapotát jelenti, ezért tiltás feloldására vonatkozó nyilatkozat megtétele, továbbá a tiltás újbóli beállítására vonatkozó nyilatkozat megtétele nem minősül az előfizetői szerződés módosításának. Ennek részletes feltételeit a szolgáltató Általános Szerződési Feltételeiben határozza meg, de a nyilatkozat megtételének és visszavonásának lehetőségét legalább telefonos ügyfélszolgálatán biztosítania kell. A szolgáltatónak megfelelő intézkedésekkel biztosítania kell, hogy a 18 éven aluli előfizető ne érhessen el olyan emelt díjas, díjkorlátmentes szolgáltatást, amelyen keresztül felnőtt tartalom férhető hozzá. Ez a korlátozás a 18 éven aluli előfizető esetében még a 18 éven aluli előfizető törvényes képviselőjének kérésére sem oldható fel. Amennyiben az emelt díjas, díjkorlátmentes szolgáltatás elérhetőségével, igénybevehetőségével, vagy a szolgáltató által kiszámlázott díjával kapcsolatban az igénybevevő a számára előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgáltatónál reklamációt terjeszt elő, az elektronikus hírközlési szolgáltató köteles gondoskodni a reklamáció hatályos jogszabályoknak megfelelő kivizsgálásáról. Az ilyen vitatott díj meg nem fizetése miatt az igénybevevő számára elektronikus hírközlési szolgáltatást nyújtó szolgáltató az elektronikus hírközlési szolgáltatás nyújtását nem korlátozhatja, nem szüneteltetheti, és az előfizetői szerződést erre hivatkozva rendkívüli felmondással nem szüntetheti meg.
+## 2.8.4. A számhasználat általános feltételei
 
-## Az emelt díjas, díjkorlátmentes szolgáltatás szám használatára feljogosított számhasználó által kezdeményezett hívásoknál az emelt díjas, díjkorlátmentes szolgáltatás szám a hívottnál hívószám kijelzés szolgáltatással a hívó telefonszámaként nem jeleníthető meg.
+## A szolgáltatás tartalmára vonatkozó feltételek betartásáért a számhasználó felel.
 
-## 2.9. Emelt díjas, díjkorlátos szolgáltatás számai (SHS = 91)
+## A számhasználó minden esetben köteles az emelt díjas szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, áfát tartalmazó díj mértékét is (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja) nyilvánosságra hozni. A szolgáltatás díja mellett fel kell tüntetni, hogy annak megfizetése indított emelt díjas hívással, vagy üzenetküldéssel történik, valamint fogadott emelt díjas szolgáltatás esetén azt, hogy maximálisan hány üzenet küldésére kerül sor a szolgáltatás igénybevétele során. Ugyancsak fel kell tüntetni a számhasználó megnevezését, valamint a szolgáltatáshoz kapcsolódó ügyfélszolgálat elérhetőségét telefonon, postai és elektronikus úton.
+
+## Az emelt díjas szolgáltatások elérését az előfizetője kérésére a szolgáltató köteles díjmentesen letiltani. Ennek lehetőségéről a szolgáltató az előfizetőket honlapján, illetve ügyfélszolgálatán megfelelően tájékoztatni köteles.
+
+## A fogadott emelt díjas szolgáltatás nyújtására használható számokra vonatkozóan a szolgáltató minden előfizetőjénél díjmentesen alapértelmezett tiltást köteles berendezni. A tiltás csak az előfizető megfelelő azonosítását követően tett kifejezett és egyértelmű nyilatkozatára oldható fel. A szolgáltatónak biztosítania kell, hogy az emelt díjas szolgáltatás nyújtására használható számok hívásának, illetve az ilyen számokra küldött, vagy onnan fogadott üzeneteknek tiltására, illetve feloldásra vonatkozó nyilatkozatát az előfizető bármikor ingyenesen megtehesse, illetve visszavonhassa. Az emelt díjas szolgáltatás nyújtására használható számok hívására, illetve az ilyen számokra küldött, vagy onnan fogadott üzenetekre vonatkozó tiltás, illetve feloldás a szolgáltatás rendelkezésre állásának állapotát jelenti, ezért tiltás feloldására vonatkozó nyilatkozat megtétele, továbbá a tiltás újbóli beállítására vonatkozó nyilatkozat megtétele nem minősül az előfizetői szerződés módosításának. Ennek részletes feltételeit a szolgáltató Általános Szerződési Feltételeiben határozza meg, de a nyilatkozat megtételének és visszavonásának lehetőségét legalább telefonos ügyfélszolgálatán biztosítania kell.
+
+## Amennyiben az emelt díjas szolgáltatás elérhetőségével, igénybevehetőségével, vagy a szolgáltató által kiszámlázott díjával kapcsolatban az igénybevevő a számára előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgáltatónál reklamációt terjeszt elő, az elektronikus hírközlési szolgáltató köteles gondoskodni a reklamáció hatályos jogszabályoknak megfelelő kivizsgálásáról. Az ilyen vitatott díj meg nem fizetése miatt az igénybevevő számára elektronikus hírközlési szolgáltatást nyújtó szolgáltató az elektronikus hírközlési szolgáltatás nyújtását nem korlátozhatja, nem szüneteltetheti, és az előfizetői szerződést erre hivatkozva rendkívüli felmondással nem szüntetheti meg.
+
+## Az emelt díjas szolgáltatás szám használatára feljogosított számhasználó által kezdeményezett hívásoknál az emelt díjas szolgáltatás szám a hívottnál hívószám kijelzés szolgáltatással a hívó telefonszámaként nem jeleníthető meg.
+
+## 2.9. Üzleti hálózatok számai (SHS=38)
 
 ## 2.9.1. Leírás
 
-## Lehetővé teszi a beszédcélú elektronikus hírközlő hálózatból a 2. § 4. pontjában meghatározott emelt díjas, díjkorlátos szolgáltatások elérését.
+## Az előfizetők egy meghatározott csoportját – jellemzően egy céget, vagy egyéb szervezetet – kiszolgáló hálózat, azaz üzleti hálózat (Corporate Network) tagjainak elérését biztosítja a telefonhálózatból. Az üzleti hálózat összekapcsolja az adott szervezet magánhálózati és/vagy virtuális magánhálózati elemeit, ezen kívül lehetőséget biztosít az elektronikus hírközlő hálózat elérésére. Egy üzleti hálózat egyaránt tartalmazhat elektronikus hírközlési szolgáltatói és saját hálózati elemeket.
 
 ## 2.9.2. A számok felépítése
 
-|  |  | 91 abc def |
+|  |  | 38 abc defg |
 
-| ahol: | 91 | SHS az emelt díjas, díjkorlátos szolgáltatás számára, |
+| ahol: | 38 | az üzleti hálózatot jelölő SHS |
 
-|  | abc def | előfizetői szám 100 000-999 999 között. |
+|  | abc defg | előfizetői szám 200 0000-999 9999 között. |
 
 ## 2.9.3. A használat feltételei
 
-## Emelt díjas, díjkorlátos szolgáltatási számon nem nyújtható felnőtt tartalom. Felnőtt tartalomnak minősül az a szolgáltatás, amelynek meghatározó eleme a szexualitás vagy az erőszak. A szolgáltatás tartalmára vonatkozó feltételek betartásáért a számhasználó felel.
+## Az SHS=38 számtartomány számain nyilvánosan elérhető elektronikus hírközlési szolgáltatást üzleti hálózaton kívüli előfizetők részére nem nyújtható.
 
-## Emelt díjas, díjkorlátos szolgáltatási számon azzal a feltétellel nyújtható szolgáltatás, amennyiben a szolgáltató a hívó fél által fizetendő legmagasabb díjat úgy határozza meg, hogy az ne haladja meg a hatóság által az érintett szolgáltatókkal történő egyeztetést követően - évente január 31-ig - a hatóság internetes honlapján közzétett díjat.
+## 2.10. Gépek közötti kommunikáció számai (ún. M2M számok) (SHS=71)
 
-## A számhasználó minden esetben köteles az emelt díjas, díjkorlátos szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, az áfát is tartalmazó díj mértékét is (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja) nyilvánosságra hozni. A szolgáltatás díja mellett fel kell tüntetni, hogy annak megfizetése indított emelt díjas hívással, vagy üzenetküldéssel történik, valamint fogadott emelt díjas szolgáltatás esetén azt, hogy összesen hány üzenet küldésére kerül sor a szolgáltatás igénybevétele során. Ugyancsak fel kell tüntetni a számhasználó megnevezését, valamint a szolgáltatáshoz kapcsolódó ügyfélszolgálat elérhetőségét telefonon, faxon, postai és elektronikus úton. Az emelt díjas, díjkorlátos szolgáltatás elérését az előfizetője kérésére a szolgáltató köteles díjmentesen letiltani. Ennek lehetőségéről az Eht. 144. § (3), illetve (4) bekezdés szerinti módon havonta tájékoztatni kell minden olyan előfizetőt, aki a letiltás lehetőségével nem élt.
+## 2.10.1. Leírás
 
-## A fogadott emelt díjas, díjkorlátos szolgáltatás nyújtására használható számokra vonatkozóan az elektronikus hírközlési szolgáltató minden előfizetőjénél díjmentesen alapértelmezett tiltást köteles berendezni. A tiltás csak az előfizető kifejezett és egyértelmű nyilatkozatára oldható fel. A szolgáltatónak biztosítania kell, hogy az emelt díjas, díjkorlátos szolgáltatás nyújtására használható számok hívásának, illetve az ilyen számokra küldött, vagy onnan fogadott üzeneteknek tiltására illetve feloldásra vonatkozó nyilatkozatát az előfizető bármikor ingyenesen megtehesse, illetve visszavonhassa. Az emelt díjas, díjkorlátos szolgáltatás nyújtására használható számok hívására, illetve az ilyen számokra küldött, vagy onnan fogadott üzenetekre vonatkozó tiltás illetve feloldás a szolgáltatás rendelkezésre állásának állapotát jelenti, ezért tiltás feloldására vonatkozó nyilatkozat megtétele, továbbá a tiltás újbóli beállítására vonatkozó nyilatkozat megtétele nem minősül az előfizetői szerződés módosításának. Ennek részletes feltételeit a szolgáltató Általános Szerződési Feltételeiben határozza meg, de a nyilatkozat megtételének és visszavonásának lehetőségét legalább telefonos ügyfélszolgálatán biztosítania kell. Amennyiben az emelt díjas, díjkorlátos szolgáltatás elérhetőségével, igénybevehetőségével, vagy a szolgáltató által kiszámlázott díjával kapcsolatban az igénybevevő a számára előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgáltatónál reklamációt terjeszt elő, az elektronikus hírközlési szolgáltató köteles gondoskodni a reklamáció hatályos jogszabályoknak megfelelő kivizsgálásáról. Az ilyen vitatott díj meg nem fizetése miatt az igénybevevő számára elektronikus hírközlési szolgáltatást nyújtó szolgáltató az elektronikus hírközlési szolgáltatás nyújtását nem korlátozhatja, nem szüneteltetheti, és az előfizetői szerződést erre hivatkozva rendkívüli felmondással nem szüntetheti meg.
+## Az elektronikus hírközlő hálózaton olyan kommunikációt tesz lehetővé a végberendezések vagy alkalmazások között, ahol az információt legfeljebb csekély emberi beavatkozással továbbítják.
 
-## Az emelt díjas, díjkorlátos szolgáltatás szám használatára feljogosított számhasználó által kezdeményezett hívásoknál az emelt díjas, díjkorlátos szolgáltatás szám a hívottnál hívószám kijelzés szolgáltatással a hívó telefonszámaként nem jeleníthető meg.
+## 2.10.2. A számok felépítése
+
+|  |  | 71 abc def ghij |
+
+| ahol: | 71 | a gépek közötti kommunikációt jelölő SHS |
+
+|  | abc def ghij | előfizetői szám 200 000 0000-999 999 9999 között. |
+
+## 2.10.3. A használat feltételei
+
+## A számok használatának egyes alkalmazásokra vonatkozó feltételeit a hatóság a kijelölési engedélyben határozza meg. A számokon adat- vagy hangkommunikáció, illetve üzenetküldés kizárólag a hatóság számmező kijelölési határozatában megadott jelleggel illetve módon, az alkalmazáshoz tartozó végberendezések és alkalmazások között létesíthető.
+
+## Az SHS=71 számtartomány számain helyhez kötött telefonszolgáltatás, mobil rádiótelefon szolgáltatás és nomadikus telefonszolgáltatás nem nyújtható.
 
 ## 3. RÖVID KÓDOK FELOSZTÁSA ÉS MEGHATÁROZÁSA
 
@@ -456,43 +490,37 @@
 
 ## A rövid kódok és rövid kód tartományok felosztása:
 
-| 00 | nemzetközi előtét (NE) |
+|  |  | A | B |
 
-| 06 | belföldi előtét (BE) |
+|  | 1 | 00 | nemzetközi előtét (NE) |
 
-| 104 | segélyhívó számok |
+|  | 2 | 06 | belföldi előtét (BE) |
 
-| 105 |  |
+|  | 3 | 104 105 107 112 | segélyhívó számok |
 
-| 107 |  |
+|  | 4 | 116* | harmonizált közérdekű szolgáltatások harmonizált számai |
 
-| 112 |  |
+|  | 5 | 118* | telefontudakozó számok |
 
-| 116* | harmonizált közérdekű szolgáltatások harmonizált számai |
+|  | 6 | 12* | elektronikus hírközlési szolgáltatók ügyfélszolgálati számai |
 
-| 118* | telefontudakozó számok |
+|  | 7 | 130 131 | kiegészítő szolgáltatás előtétek |
 
-| 12* | elektronikus hírközlési szolgáltatók ügyfélszolgálati számai |
+|  | 8 | 135* 136* | adománygyűjtő számok |
 
-| 130 | kiegészítő szolgáltatás előtétek |
+|  | 9 | 137* | lelki segítő és támogató szolgáltatás számok |
 
-| 131 |  |
+|  | 10 | 14* | különös díjazású országos számok |
 
-| 135* | adománygyűjtő számok |
+|  | 11 | 15* | közvetítő választó előtétek (KVE) |
 
-| 136* |  |
+|  | 12 | 16* | emelt díjas szolgáltatás rövid számok |
 
-| 14* | különös díjazású országos számok |
+|  | 13 | 17* | elektronikus hírközlési szolgáltató hálózatához rendelt számok |
 
-| 15* | közvetítő választó előtétek (KVE) |
+|  | 14 | 18* | közérdekű tájékoztató és támogató szolgáltatások számai |
 
-| 17* | elektronikus hírközlési szolgáltató hálózatához rendelt számok |
-
-| 18* | közérdekű tájékoztató és támogató szolgáltatások számai |
-
-| 192 | telefonos kezelői szolgáltatások számai |
-
-| 193 |  |
+|  | 15 | 192 193 | telefonos kezelői szolgáltatások számai |
 
 ## A * a számtartományokat jelöli.
 
@@ -514,13 +542,13 @@
 
 ## 3.3.2. Hívószámok
 
-## 104 mentők
+| 104 | mentők |
 
-## 105 tűzoltóság
+| 105 | tűzoltóság |
 
-## 107 rendőrség
+| 107 | rendőrség |
 
-## 112 egységes európai segélyhívószám
+| 112 | egységes európai segélyhívószám |
 
 ## 3.3.3. A használat feltételei
 
@@ -532,47 +560,47 @@
 
 ## 3.4.1. Leírás
 
-## Az Európai Unió által, minden tagállam területén azonos hívószámmal bevezetésre javasolt szolgáltatások, úgynevezett harmonizált közérdekű szolgáltatások hívószámai, amelyek valamely konkrét közérdekű - az állampolgárok vagy állampolgári csoportok jólétét és biztonságát szolgáló, vagy a bajba jutott állampolgárokon segítő - szolgáltatás díjmentes elérését hivatottak lehetővé tenni.
+## Az Európai Unió által, minden tagállam területén azonos hívószámmal bevezetésre javasolt szolgáltatások, úgynevezett harmonizált közérdekű szolgáltatások hívószámai, amelyek valamely konkrét közérdekű – az állampolgárok vagy állampolgári csoportok jólétét és biztonságát szolgáló, vagy a bajba jutott állampolgárokon segítő – szolgáltatás díjmentes elérését hivatottak lehetővé tenni.
 
 ## 3.4.2. A számok felépítése
 
 |  |  | 116def |
 
-| ahol: | 116 | a harmonizált közérdekű szolgáltatás elérési kódja, |
+| ahol: | 116 | a harmonizált közérdekű szolgáltatás elérési kódja |
 
 |  | def | harmonizált közérdekű szolgáltatás azonosítója. |
 
 ## 3.4.3. A használat feltételei
 
-## A harmonizált közérdekű szolgáltatások harmonizált számai használatának feltétele, hogy a szolgáltatás előzetes regisztráció nélkül bárki számára - az ország területén belül bárhonnan - elérhető legyen. A szolgáltatás időhatárokhoz nem kötött, a szolgáltatás igénybevételének nem előfeltétele fizetési kötelezettség vagy kötelezettségvállalás, a hívás díját a számhasználó fizeti. A szolgáltatás a tájékoztatás vagy segítségnyújtás, vagy az állampolgári bejelentés eszköze, vagy ezek tetszőleges kombinációja. A számon nyújtott szolgáltatás keretében reklám, szórakoztatás, továbbá áru, szolgáltatás értékesítését célzó üzletszerzési vagy tájékoztatási tevékenység nem folytatható.
+## A harmonizált közérdekű szolgáltatások harmonizált számai használatának feltétele, hogy a szolgáltatás előzetes regisztráció nélkül bárki számára – az ország területén belül bárhonnan – elérhető legyen. A szolgáltatás időhatárokhoz nem kötött, a szolgáltatás igénybevételének nem előfeltétele fizetési kötelezettség vagy kötelezettségvállalás, a hívás díját a számhasználó fizeti. A szolgáltatás a tájékoztatás vagy segítségnyújtás, vagy az állampolgári bejelentés eszköze, vagy ezek tetszőleges kombinációja. A számon nyújtott szolgáltatás keretében reklám, szórakoztatás, továbbá áru, szolgáltatás értékesítését célzó üzletszerzési vagy tájékoztatási tevékenység nem folytatható.
 
-## Az egyes harmonizált közérdekű szolgáltatások harmonizált számaihoz kapcsolódó - jogszabályon és az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusán alapuló - használati feltételeket a hatóság a honlapján teszi közzé.
+## Az egyes harmonizált közérdekű szolgáltatások harmonizált számaihoz kapcsolódó – jogszabályon és az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusán alapuló – használati feltételeket a hatóság a honlapján teszi közzé.
 
 ## A harmonizált közérdekű szolgáltatások elérhetőségének biztosítása érdekében a 116 kezdetű számhoz rendelt szervezet felkérése esetén az elektronikus hírközlési szolgáltatót a felkéréstől számított 30 napon belül szerződéskötési kötelezettség terheli.
 
-## Az elektronikus hírközlési szolgáltatók a hívások illetve üzenetek költségére a rövid számhoz kijelölt szervezet részére legfeljebb az érintett szolgáltatókkal történő egyeztetést követően a hatóság által megállapított, és a hatóság honlapján közzétett összeget számíthatják fel.
+## Az elektronikus hírközlési szolgáltatók a hívások, illetve üzenetek költségére a rövid számhoz kijelölt szervezet részére legfeljebb az érintett szolgáltatókkal történő egyeztetést követően a hatóság által megállapított és a hatóság honlapján közzétett összeget számíthatják fel.
 
 ## 3.5. Telefontudakozó számok
 
 ## 3.5.1. Leírás
 
-## Rövid számok, amelyek előfizetők meghatározott adatairól - az előfizető hozzájárulásától függően - felvilágosítást nyújtó tudakozó szolgáltatások elérését teszik lehetővé.
+## Rövid számok, amelyek előfizetők meghatározott adatairól – az előfizető hozzájárulásától függően – felvilágosítást nyújtó tudakozó szolgáltatások elérését teszik lehetővé.
 
 ## 3.5.2. A számok felépítése
 
 |  |  | 118de |
 
-| ahol: | 118 | a tudakozó szolgáltatás elérési kódja, |
+| ahol: | 118 | a tudakozó szolgáltatás elérési kódja |
 
-|  | de | a tudakozó szolgáltatóját azonosítja. |
+|  | de | a tudakozó szolgáltatóját és szolgáltatását azonosítja. |
 
-## Az egyetemes tudakozó szolgáltatás hívószáma: 11800.
+## Az egyetemes tudakozó szolgáltatások hívószámai: 11800-11809.
 
 ## 3.5.3. A használat feltételei
 
-## Az egyetemes tudakozó szolgáltatás nyújtására egyetemes szolgáltató jogosult a 11800 hívószámon, amelynek elérhetőségét minden telefonhálózatból biztosítani kell. Az egyetemes tudakozó szolgáltatás nyújtásának feltételeit külön jogszabály tartalmazza.
+## Az egyetemes tudakozó szolgáltatás nyújtására egyetemes szolgáltató jogosult a 11800-11809 hívószámokon, amelyek elérhetőségét minden telefonhálózatból biztosítani kell. Az egyetemes tudakozó szolgáltatás nyújtásának feltételeit az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról szóló NMHH rendelet tartalmazza.
 
-## Az elektronikus hírközlési szolgáltató illetve a számhasználó minden esetben köteles a szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, áfát tartalmazó díj mértékét (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja), valamint az igénybe vehető kiegészítő szolgáltatások díját is nyilvánosságra hozni. Emellett közzé kell tenni, hogy a tudakozó mely előfizetők adataira terjed ki, terület, számtípus illetve szolgáltatók szerint.
+## Az elektronikus hírközlési szolgáltató, illetve a számhasználó minden esetben köteles a szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, áfát tartalmazó díj mértékét (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja), valamint az igénybe vehető kiegészítő szolgáltatások díját is nyilvánosságra hozni. Emellett közzé kell tenni, hogy a tudakozó mely előfizetők adataira terjed ki, terület, számtípus, illetve szolgáltatók szerint.
 
 ## 3.6. Elektronikus hírközlési szolgáltatók ügyfélszolgálati számai
 
@@ -584,7 +612,7 @@
 
 |  |  | 12cd |
 
-| ahol: | 12 | az elektronikus hírközlési szolgáltatók ügyfélszolgálatainak elérési kódja, |
+| ahol: | 12 | az elektronikus hírközlési szolgáltatók ügyfélszolgálatainak elérési kódja |
 
 |  | cd | az elektronikus hírközlési szolgáltatót azonosítja. |
 
@@ -616,7 +644,7 @@
 
 ## 3.8.1. Leírás
 
-## Rövid számok, amelyek elérése a hívás illetve üzenetküldés díjából közcélú adományok eljuttatását teszi lehetővé.
+## Rövid számok, amelyek elérése a hívás, illetve üzenetküldés díjából közcélú adományok eljuttatását teszi lehetővé.
 
 ## 3.8.2. A számok felépítése
 
@@ -626,7 +654,7 @@
 
 |  | 1357 | Nemzeti Összefogás Vonala hívószáma |
 
-|  | 135d, d≠7 | kiemelt adománygyűjtő vonal hívószáma. |
+|  | 135d, d ≠ 7 | kiemelt adománygyűjtő vonal hívószáma. |
 
 ## Közcélú adománygyűjtő számok:
 
@@ -640,31 +668,31 @@
 
 ## A 135d kiemelt adománygyűjtő számokon közcélú adománygyűjtésre a Karitatív Tanács tagszervezetei jogosultak. A 135d rövid számok elérhetőségének biztosítása érdekében a rövid számhoz rendelt szervezet felkérése esetén az elektronikus hírközlési szolgáltatót a felkéréstől számított 30 napon belül szerződéskötési kötelezettség terheli.
 
-## A 1357 rövid szám a „Nemzeti Összefogás Vonala”, egy kormányhatározatban megjelölt nemzeti katasztrófa esetén elinduló adományvonal.
+## A 1357 rövid szám a „Nemzeti Összefogás Vonala”, egy kormányrendeletben kihirdetett veszélyhelyzet esetén elinduló adományvonal.
 
 ## A 13600-13609 számokon az a szervezet jogosult adományok közvetítésére közhasznú, vagy kiemelten közhasznú szervezetek felé, amellyel a hatóság által kijelölt előfizetői számok 60%-ával együttesen rendelkező hírközlési szolgáltatók megállapodást kötöttek a hívószámok elérhetőségének biztosításáról.
 
 ## A 13610-13699 számokon az a közhasznú, vagy kiemelten közhasznú szervezet jogosult adománygyűjtésre, amely legalább egy elektronikus hírközlési szolgáltatóval az adománygyűjtésről megállapodást kötött.
 
-## A hatóság internetes honlapján közzéteszi az adománygyűjtő számokat, a számokhoz tartozó adománygyűjtő illetve közvetítő szervezet adatait és honlapjának elérhetőségét.
+## A hatóság internetes honlapján közzéteszi az adománygyűjtő számokat, a számokhoz tartozó adománygyűjtő, illetve közvetítő szervezet adatait és honlapjának elérhetőségét.
 
 ## Az adománygyűjtő szervezet köteles honlapján az alábbi adatokat közzétenni:
 
-## - a beérkezett hívásokból és üzenetekből származó adomány teljes összege (a)
+## 1. a beérkezett hívásokból és üzenetekből származó adomány teljes összege (a)
 
-## - ebből a telefonszolgáltatók részére átadott díj (b)
+## 2. ebből a telefonszolgáltatók részére átadott díj (b)
 
-## - az adománygyűjtő szervezet által saját működési költségre felhasznált keret (a következő részletezettséggel: raktározási költség, karbantartási költség, hirdetési költség, bérköltség, bérjárulékok) (c)
+## 3. az adománygyűjtő szervezet által saját működési költségre felhasznált keret (a következő részletezettséggel: raktározási költség, karbantartási költség, hirdetési költség, bérköltség, bérjárulékok) (c)
 
-## - a szervezet által a rászorulók megsegítésére felhasználható összeg (d) [d = a – b – c)]
+## 4. a szervezet által a rászorulók megsegítésére felhasználható összeg (d) [d=a-b-c)]
 
-## - adományban részesítettek száma (fő)
+## 5. adományban részesítettek száma (fő)
 
-## - a gyűjtésből befolyt adomány felhasználása, a tevékenység részletes bemutatása
+## 6. a gyűjtésből befolyt adomány felhasználása, a tevékenység részletes bemutatása
 
 ## Az adománygyűjtést közvetítő szervezet a honlapján köteles közzétenni az adománygyűjtő számokon belül az egyes kódokhoz tartozó adománygyűjtő szervezet adatait és honlapjának elérhetőségét, valamint köteles gondoskodni az általa közvetített adományok fenti adatainak az adománygyűjtő szervezet általi közzétételéről.
 
-## Az elektronikus hírközlési szolgáltatók az adománygyűjtés hívásonkénti illetve üzenetenkénti költségére legfeljebb az érintett szolgáltatókkal történő egyeztetést követően a hatóság által a 135d illetve 136de számtartományokra megállapított és a hatóság honlapján közzétett összeget számíthatják fel. A 135d és 136de számokra az emelt díjas, díjkorlátos szolgáltatásra előírt, 2. § 4. pont és az 1. melléklet 2.9.3. pont szerinti feltételeket kell alkalmazni. Amennyiben az előfizető az adománygyűjtő számok elérhetőségének letiltását kérte, a szolgáltatónak a letiltást díjmentesen biztosítania kell a 135d és 136de rövidszámokra.
+## Az elektronikus hírközlési szolgáltatók az adománygyűjtés hívásonkénti, illetve üzenetenkénti költségére legfeljebb az érintett szolgáltatókkal történő egyeztetést követően a hatóság által a 135d, illetve 136de számtartományokra megállapított és a hatóság honlapján közzétett összeget számíthatják fel. A 135d és 136de számokra az emelt díjas, díjkorlátos szolgáltatásra előírt, 2. § 3a. pont és az 1. melléklet 2.8.3. és 2.8.4. pont szerinti feltételeket kell alkalmazni. Amennyiben az előfizető az adománygyűjtő számok elérhetőségének letiltását kérte, a szolgáltatónak a letiltást díjmentesen biztosítania kell a 135d és 136de rövidszámokra.
 
 ## 3.9. Különös díjazású országos számok
 
@@ -722,7 +750,7 @@
 
 ## A 17c(d)(e) formátumú számokon a szolgáltató saját hálózatában saját előfizetői részére nyújtott szolgáltatásai érhetők el. A szolgáltatás más szolgáltató hálózatából csak abban az esetben érhető el, ha az adott szolgáltató jogosult ugyanazon rövid szám használatára ugyanannak a szolgáltatásnak az eléréséhez.
 
-## A számokon a 2. § 3. pont szerinti emelt díjas, díjkorlátmentes, valamint a 2. § 4. pont szerinti emelt díjas, díjkorlátos szolgáltatás nem nyújtható. Kedvezményes díjazású szolgáltatás csak a 2. § 2. pontjában és az 1. melléklet 2.5.3. pontjában előírt feltételek szerint nyújtható.
+## A számokon emelt díjas szolgáltatás nem nyújtható. Kedvezményes díjazású szolgáltatás csak a 2. § 2. pontjában és az 1. melléklet 2.5.3. pontjában előírt feltételek szerint nyújtható.
 
 ## 3.12. Közérdekű tájékoztató és támogató szolgáltatások számai
 
@@ -744,7 +772,7 @@
 
 ## A hatóság internetes honlapján folyamatosan közzéteszi a kijelölhető számokat és a számokon elérhető szolgáltatásokat. Az országosan harmonizált számokhoz rendelt közérdekű támogató és tájékoztató szolgáltatások bevezetése nem kötelező, de alkalmazásuk esetén a közzétett számok csak a megadott szolgáltatáshoz használhatók.
 
-## A számokon emelt díjas, díjkorlátmentes és emelt díjas, díjkorlátos szolgáltatás nem nyújtható. A szolgáltató minden esetben köteles a szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, áfát tartalmazó díj mértékét is (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja) nyilvánosságra hozni.
+## A számokon emelt díjas szolgáltatás nem nyújtható. A szolgáltató minden esetben köteles a szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, áfát tartalmazó díj mértékét is (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja) nyilvánosságra hozni.
 
 ## 3.13. Telefonos kezelői szolgáltatások számai
 
@@ -766,9 +794,55 @@
 
 ## A hívó fél által fizetendő díj mértékét (áfát is tartalmazó hívásonkénti vagy percenkénti díj) a szolgáltatónak minden esetben a szolgáltatás számának közzétételével együtt nyilvánosságra kell hoznia.
 
+## 3.14. Lelki segítő és támogató szolgáltatás számok
+
+## 3.14.1. Leírás
+
+## Rövid számok, amelyek telefonos lelki segítséget és támogatást nyújtó szervezetek díjmentes elérését teszik lehetővé.
+
+## 3.14.2. A számok felépítése
+
+|  |  | 137de |
+
+| ahol: | 137 | a lelki segítő és támogató szolgáltatások elérési kódja |
+
+|  | de | a támogató szervezetet és szolgáltatást azonosítja. |
+
+## 3.14.3. A használat feltételei
+
+## A 137de formátumú számokon a számhoz hozzárendelt, a hatóság honlapján, valamint az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény által létrehozott Civil Információs Portálon közzétett, működő státuszú lelki segítő és támogató szolgáltatást nyújtó szervezetek nyújtanak telefonos támogatást, biztosítva a hívók névtelenségét. A szolgáltatás igénybevétele a hívók részére díjmentes, a szolgáltatás díját a hívott szervezet fizeti.
+
+## Az elektronikus hírközlési szolgáltatók a hívások, illetve üzenetek költségére a rövid számhoz hozzárendelt szervezet részére legfeljebb – az érintett szolgáltatókkal történő egyeztetést követően – a hatóság által megállapított és a hatóság honlapján közzétett összeget számíthatják fel.
+
+## 3.15. Emelt díjas szolgáltatás rövid számok
+
+## 3.15.1. Leírás
+
+## Rövid számok, melyek a beszédcélú elektronikus hírközlő hálózatból adott számhasználó meghatározott emelt díjas szolgáltatásának elérését teszik lehetővé. A szolgáltatás igénybevételi díja és tartalma szerint a számokon emelt díjas, díjkorlátos szolgáltatás vagy emelt díjas, díjkorlátmentes szolgáltatás vagy emelt díjas felnőtt szolgáltatás nyújtható.
+
+## 3.15.2. A számok felépítése
+
+| Emelt díjas, díjkorlátos szolgáltatás: | 160de, 161def |
+
+| Emelt díjas, díjkorlátmentes szolgáltatás: | 164de, 165def |
+
+| Emelt díjas felnőtt szolgáltatás: | 168de, 169def |
+
+## 3.15.3. A használat feltételei
+
+## A 16cde(f) számok az 1. melléklet 2.8.4. pontjában meghatározott általános számhasználati feltételekkel használhatók.
+
+## A 160de és 161def számokon a szolgáltató a hívó fél által fizetendő legmagasabb díjat úgy köteles meghatározni, hogy az ne haladja meg a hatóság által az érintett szolgáltatókkal történő egyeztetést követően – évente január 31-ig – a hatóság internetes honlapján közzétett díjat.
+
+## A 160de, 161def, 164de és 165def számokon nem nyújtható felnőtt tartalom.
+
+## A 168de és 169def számokra vonatkozóan a szolgáltató minden kiskorú előfizetőjénél díjmentesen alapértelmezett tiltást köteles berendezni. Ez a korlátozás kiskorú előfizető esetében még törvényes képviselőjének kérésére sem oldható fel.
+
+## A szolgáltatás tartalmára vonatkozó feltételek betartásáért a számhasználó felel.
+
 ## 4. TÁRCSÁZÁSI ELJÁRÁSOK
 
-## A tárcsázási eljárások meghatározzák, hogy a beszédcélú elektronikus hírközlő hálózatok számozási tervében, azaz e melléklet 1-3. pontjában meghatározott azonosítók milyen sorrendben, milyen eljárással alkalmazhatók hívásfelépítés és üzenetküldés kezdeményezésére a számozási tervben meghatározott előfizetők és szolgáltatások felé.
+## A tárcsázási eljárások meghatározzák, hogy a beszédcélú elektronikus hírközlő hálózatok számozási tervében, azaz e melléklet 1–3. pontjában meghatározott azonosítók milyen sorrendben, milyen eljárással alkalmazhatók hívásfelépítés és üzenetküldés kezdeményezésére a számozási tervben meghatározott előfizetők és szolgáltatások felé.
 
 ## A tárcsázási eljárásokban a belföldi előtét (BE) és a nemzetközi előtét (NE) a belföldi és a nemzetközi számformátumot jelzik, a közvetítő választó előtét (KVE) az adott híváshoz tartozó közvetítő szolgáltató választását jelzi.
 
@@ -784,21 +858,21 @@
 
 ## A tárcsázási folyamat:
 
-## (KVE) - NE - nemzetközi szám
+## (KVE) – NE – nemzetközi szám
 
 ## 4.2. Belföldi számok hívása
 
 ## A tárcsázási folyamat:
 
-## (KVE) - BE - belföldi szám
+## (KVE)–BE-belföldi szám
 
 ## vagy
 
-## (KVE) - NE - 36 - belföldi szám
+## (KVE)–NE-36-belföldi szám
 
 ## Megengedett a földrajzi számozási területen belüli, azonos körzetszámmal rendelkező előfizetői hozzáférési pontok közötti hívás esetén az előfizetői szám formátumú tárcsázás is:
 
-## (KVE) - ES
+## (KVE) – ES
 
 ## 4.3. Rövid számok hívása
 
@@ -810,6 +884,6 @@
 
 ## A KEE vagy a KTE előtétet a tárcsázási folyamat elején kell tárcsázni.
 
-2. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^11]
+2. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^16]
 
-[^11]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^16]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.

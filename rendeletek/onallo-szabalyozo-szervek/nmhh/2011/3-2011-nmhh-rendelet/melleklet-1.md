@@ -1,3 +1,3 @@
-1. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^10]
+1. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^15]
 
-[^10]: Az 1. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 11. §-ával megállapított szöveg.

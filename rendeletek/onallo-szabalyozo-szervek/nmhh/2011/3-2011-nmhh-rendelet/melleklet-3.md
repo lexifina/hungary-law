@@ -22,6 +22,6 @@
 
 ## Az IMSI 0-9 számjegyekből állhat, maximális hossza 15 számjegy lehet.
 
-3. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^12]
+3. melléklet a 3/2011. (IX. 26.) NMHH rendelethez[^17]
 
-[^12]: A 3. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^17]: A 3. melléklet az 1/2012. (I. 3.) NMHH rendelet 8. § (5) bekezdésével megállapított szöveg.
