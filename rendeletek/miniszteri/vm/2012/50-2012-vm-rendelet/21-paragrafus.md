@@ -1,4 +1,4 @@
-## 20/A. §[^31] E rendeletnek az egyes iskolai ellátást, valamint a zöldség-gyümölcs ágazat támogatási jogcímeit szabályozó rendeletek módosításáról szóló 31/2013. (V. 2.) VM rendelettel (a továbbiakban: módosító rendelet) módosított 1. §-át, 2. § (1) és (3) bekezdését, 3. § (1), (2), és (5) bekezdését, 4. §-át, 5. § (2) bekezdését, 6. § (1) és (2) bekezdését, 7. § (1), (5), (6), és (7) bekezdését, 8. § b) pontját, 11. § (3)–(6) bekezdését, 14. § (2) bekezdését, 15. és 16. §-át, 17. § (1) és (2) bekezdését, 18. § (1) bekezdését, valamint a 19. §-át a 2012/2013. tanévre vonatkozóan nem kell alkalmazni.
+## 20/A. §[^32] E rendeletnek az egyes iskolai ellátást, valamint a zöldség-gyümölcs ágazat támogatási jogcímeit szabályozó rendeletek módosításáról szóló 31/2013. (V. 2.) VM rendelettel (a továbbiakban: módosító rendelet) módosított 1. §-át, 2. § (1) és (3) bekezdését, 3. § (1), (2), és (5) bekezdését, 4. §-át, 5. § (2) bekezdését, 6. § (1) és (2) bekezdését, 7. § (1), (5), (6), és (7) bekezdését, 8. § b) pontját, 11. § (3)–(6) bekezdését, 14. § (2) bekezdését, 15. és 16. §-át, 17. § (1) és (2) bekezdését, 18. § (1) bekezdését, valamint a 19. §-át a 2012/2013. tanévre vonatkozóan nem kell alkalmazni.
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -10,4 +10,4 @@ b) az oktatási intézményekben tanuló gyermekeknek az iskolagyümölcs-progra
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^31]: A 20/A. §-t a 31/2013. (V. 2.) VM rendelet 20. §-a iktatta be.
+[^32]: A 20/A. §-t a 31/2013. (V. 2.) VM rendelet 20. §-a iktatta be.
