@@ -1,4 +1,4 @@
-## 13. §[^1]
+## 13. §[^4]
 
 ## 4. Átmeneti és záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 13. § 2014. január 1. napján lép hatályba.
 
-[^1]: A 13. § a 14. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^4]: A 13. § a 14. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

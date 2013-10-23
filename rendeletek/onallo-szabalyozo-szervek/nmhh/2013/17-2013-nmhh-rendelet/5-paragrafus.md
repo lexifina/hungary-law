@@ -1,3 +1,0 @@
-## 4. § Az R1. 11. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Abban az esetben, ha a kijelölési engedély jogosultja a szolgáltatási tevékenység végzésének feltételeit megállapodás alapján egy harmadik félre (jogutódra) ruházza át, és a jogutódlást 30 napon belül a hatóság részére bejelenti, a jogutódlásban érintett azonosítók átruházhatók. A jogutód szolgáltató kérelme alapján az átruházott tevékenységhez kapcsolódó azonosítókra vonatkozó kijelölési engedélyeket a hatóság – az érintett szolgáltatókkal egyeztetett átadási időpontban – a jogutód szolgáltató részére átruházza. Az átruházás a jogutódlásban nem érintett szolgáltatóhoz hordozott számokat nem érinti.”

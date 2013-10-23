@@ -1,1 +1,0 @@
-## 17. § A polgári célra használható frekvenciasávok felhasználási szabályainak megállapításáról szóló 2/2013. (I. 7.) NMHH rendelet (a továbbiakban: R4.) 7. mellékletében foglalt táblázat C:2/B mezőjében a „8b. pont 8b.8. alpont” szövegrész helyébe a „8b. pont 8b.13. alpont” szöveg lép.

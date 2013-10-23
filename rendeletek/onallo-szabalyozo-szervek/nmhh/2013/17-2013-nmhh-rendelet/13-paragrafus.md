@@ -1,1 +1,3 @@
-## 12. § Az elektronikus hírközlési szolgáltatásokhoz szükséges azonosítók lekötésének és használatának díjáról szóló 5/2012. (I. 24.) NMHH rendelet (a továbbiakban: R3.) 1. melléklete helyébe a 3. melléklet lép.
+## 12. §[^3]
+
+[^3]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
