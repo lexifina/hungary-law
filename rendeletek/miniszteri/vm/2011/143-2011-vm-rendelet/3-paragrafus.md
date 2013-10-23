@@ -22,21 +22,21 @@ ah) a biztosítás 4–6. §-ban meghatározott típusára való hivatkozást,
 
 ai)[^3] az eljárási törvény szerinti regisztrációval rendelkező biztosító arra vonatkozó nyilatkozatát, hogy „A”, „B” és „C” típusú biztosítási konstrukció szerinti bontásban tárgyév november 15-éig ügyfélkapun keresztül, elektronikus úton a biztosítási szerződés alapján elkészített kötvény sorszámát is tartalmazó, az af) pont szerinti biztosítási díj megfizetéséről szóló igazolást állít ki, az MVH honlapján vagy a kormányzati portálon keresztül elérhető, az MVH honlapján található elektronikus űrlapkitöltő szolgáltatás segítségével hozzáférhető felületen,
 
-aj) a mezőgazdasági termelő nyilatkozatát a megelőző három évben vagy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves termésátlagáról;
+aj)[^4] a mezőgazdasági termelő nyilatkozatát a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves termésátlagáról;
 
 b) amely a szerződésen egyértelműen feltüntetett, legfeljebb egy éves időszak termelésére vonatkozik a naptári év megjelölésével;
 
 c) amelyben az „A”, „B” és „C” típusú mezőgazdasági biztosítás keretébe tartozó feltételek mind egymástól, mind pedig más kockázatoktól elkülönítve kerülnek megállapításra;
 
-d)[^4]
+d)[^5]
 
 e) amelyben a biztosítási szerződéssel lefedett terület vonatkozásában a kárküszöb
 
 ea) egyetlen biztosítás típus esetében sem alacsonyabb a károsodott területre eső biztosítási összeg 30%-nál,
 
-eb)[^5] az elemi káresemény okozta mezőgazdasági árvízkár és a felhőszakadáskár kockázatoknál a károsodott növénytábla biztosítási összegének 40%-a,
+eb)[^6] az elemi káresemény okozta mezőgazdasági árvízkár és a felhőszakadáskár kockázatoknál a károsodott növénytábla biztosítási összegének 40%-a,
 
-ec)[^6] aszálykár és tavaszi fagykár kockázatok esetében pedig üzemenként és növénykultúránként, téli fagykár esetében pedig táblánként nem haladja meg az 50%-ot;
+ec)[^7] aszálykár és tavaszi fagykár kockázatok esetében pedig üzemenként és növénykultúránként, téli fagykár esetében pedig táblánként nem haladja meg az 50%-ot;
 
 f) amely szövegszerűen tartalmazza, hogy a biztosító a szerződéskötés során annak tudatában jár el, hogy az ügyfél a szerződés tárgyát képező mezőgazdasági biztosítás díjához nyújtott támogatást kíván igénybe venni;
 
@@ -54,19 +54,19 @@ ge) a kárt vagy károkat okozó kárnemet vagy kárnemeket,
 
 gf) a hozamcsökkenés becsült mértékét és forintosított értékét,
 
-gg)[^7] a biztosítási esemény Mezőgazdasági Parcella Azonosító Rendszer azonosító szerinti helyét,
+gg)[^8] a biztosítási esemény Mezőgazdasági Parcella Azonosító Rendszer azonosító szerinti helyét,
 
 gh) a károsodott terület nagyságát, és
 
 gi) a kifizetett kártérítés összegét;
 
-h) amely kizárólag a megelőző három évben vagy a megelőző ötéves időszak legmagasabb és a legalacsonyabb értékeinek kizárásával képzett hároméves átlagában a mezőgazdasági termelő szokásos éves termésének több mint 30%-át elpusztító jégesőkár, aszálykár, az elemi káresemény okozta mezőgazdasági árvízkár, viharkár, tavaszi fagykár, téli fagykár, felhőszakadás-kár, tűzkár, illetve homokveréskár miatti gazdasági veszteségeket fedezi;
+h)[^9] amely kizárólag a megelőző ötéves időszak legmagasabb és a legalacsonyabb értékeinek kizárásával képzett hároméves átlagában a mezőgazdasági termelő szokásos éves termésének több mint 30%-át elpusztító jégesőkár, aszálykár, az elemi káresemény okozta mezőgazdasági árvízkár, viharkár, tavaszi fagykár, téli fagykár, felhőszakadás-kár, tűzkár, illetve homokveréskár miatti gazdasági veszteségeket fedezi;
 
 i) amely szerint a biztosító csak abban az esetben fizet kártérítést, ha a biztosítási eseményt kiváltó időjárási jelenség bekövetkeztét
 
 ia) tűz esetén a tűzeset keletkezésének helye szerint illetékes hatóság igazolja,
 
-ib)[^8] elemi káresemény okozta mezőgazdasági árvízkár, homokverés kár és mezőgazdasági káresemény vonatkozásában pedig az Országos Meteorológiai Szolgálat a rendelkezésére álló adatok alapján, az Mkk tv. 14. § (4) bekezdése szerint, vagy külön eljárásban igazolja, indokolt esetben az Országos Vízügyi Főigazgatóság, a Nemzeti Környezetügyi Intézet, valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal bevonásával;
+ib)[^10] elemi káresemény okozta mezőgazdasági árvízkár, homokverés kár és mezőgazdasági káresemény vonatkozásában pedig az Országos Meteorológiai Szolgálat a rendelkezésére álló adatok alapján, az Mkk tv. 14. § (4) bekezdése szerint, vagy külön eljárásban igazolja, indokolt esetben az Országos Vízügyi Főigazgatóság, a Nemzeti Környezetügyi Intézet, valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal bevonásával;
 
 j) amely megfelel a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról szóló 73/2009/EK tanácsi rendelet III. címében előírt egységes támogatási rendszer végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. október 29-i 1120/2009/EK bizottsági rendelet 47. cikkében foglalt követelményeknek;
 
@@ -76,7 +76,7 @@ l) amely alapján a biztosító a tényleges veszteséget meghaladó kártérít
 
 (2) Amennyiben a mezőgazdasági termelő a mezőgazdasági biztosítási szerződés megkötésekor nem rendelkezik az eljárási törvény szerinti regisztrációs számmal, úgy a mezőgazdasági termelő a regisztrációs szám megállapítása iránt benyújtott kérelmének elbírálásáról szóló döntés kézhezvételét követően köteles kezdeményezni a vele szerződő biztosítónál a mezőgazdasági biztosítási szerződés regisztrációs számmal történő kiegészítését.
 
-(3)[^9] Amennyiben a biztosító a mezőgazdasági biztosítási szerződés alapján az (1) bekezdés h) pontjában rögzített határértéknél kisebb mértékű biztosítási események vagy az ugyanezen pontban felsorolt biztosítási eseményeken kívül más események után is fizet kártérítést, úgy támogatás kizárólag a mezőgazdasági biztosítási szerződés és az ennek alapján kiállított számla egyértelműen elkülönült, (1) bekezdésnek megfelelő feltételeket tartalmazó része után vehető igénybe.
+(3)[^11] Amennyiben a biztosító a mezőgazdasági biztosítási szerződés alapján az (1) bekezdés h) pontjában rögzített határértéknél kisebb mértékű biztosítási események vagy az ugyanezen pontban felsorolt biztosítási eseményeken kívül más események után is fizet kártérítést, úgy támogatás kizárólag a mezőgazdasági biztosítási szerződés és az ennek alapján kiállított számla egyértelműen elkülönült, (1) bekezdésnek megfelelő feltételeket tartalmazó része után vehető igénybe.
 
 (4) Az (1) bekezdés h) pontjában hivatkozott hozamcsökkenést a biztosító saját helyszíni ellenőrzése és nyilvántartása alapján, biztosítói termésadatok hiányában a mezőgazdasági termelő által átadott adatok, tények felhasználásával vagy más, a mezőgazdasági biztosítási szerződésben rögzített módon kell megállapítani.
 
@@ -84,21 +84,26 @@ l) amely alapján a biztosító a tényleges veszteséget meghaladó kártérít
 
 (6) Az (1) bekezdés szerinti mezőgazdasági biztosítási szerződés díjához csak abban a naptári évben igényelhető támogatás, amely naptári év termelésére a szerződés vonatkozik.
 
-(7)[^10] Amennyiben a mezőgazdasági termelő nem rendelkezik az (1) bekezdés a) pont aj) alpontjában meghatározott adatokkal, úgy a megelőző három évben vagy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves, a biztosítási szerződéssel lefedett terület szerint illetékes megyei kormányhivatal földművelésügyi igazgatóságánál elérhető, az adott növénykultúrára és az adott évekre vonatkozó megyei vagy országos átlagtermés-adatokat kell figyelembe venni.
+(7)[^12] Amennyiben a mezőgazdasági termelő nem rendelkezik az (1) bekezdés a) pont aj) alpontjában meghatározott adatokkal, úgy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves, a biztosítási szerződéssel lefedett terület szerint illetékes megyei kormányhivatal földművelésügyi igazgatóságánál elérhető, az adott növénykultúrára és az adott évekre vonatkozó megyei vagy országos átlagtermés-adatokat kell figyelembe venni.
 
-(8)[^11] Támogatás csak a díjelőírás teljes összegének megfizetése esetén nyújtható, díjhátralékos szerződés esetén támogatás nem adható.
+(8)[^13] Támogatás csak a díjelőírás teljes összegének megfizetése esetén nyújtható, díjhátralékos szerződés esetén támogatás nem adható.
 
-(9)[^12] A mezőgazdasági biztosítási szerződés módosítása esetén a biztosító a módosított tartalmú kötvényt és a módosítást alátámasztó adatokat – ideértve a módosítással érintett biztosított növénykultúrára, a hozamra, a területre, a blokkazonosítókra, és A, B és C típusonként összesítve a biztosítottankénti díjelőírásra vonatkozó adatokat – legkésőbb a 7. § (2) bekezdésben meghatározott határidőig megküldi az MVH részére.
+(9)[^14] A mezőgazdasági biztosítási szerződés módosítása esetén a biztosító a módosított tartalmú kötvényt és a módosítást alátámasztó adatokat – ideértve a módosítással érintett biztosított növénykultúrára, a hozamra, a területre, a blokkazonosítókra, és A, B és C típusonként összesítve a biztosítottankénti díjelőírásra vonatkozó adatokat – legkésőbb a 7. § (2) bekezdésben meghatározott határidőig megküldi az MVH részére.
+
+(10)[^15] Támogatást igényelhet az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet aki, vagy amely felszámolási, végelszámolási, adósságrendezési eljárás alatt áll, feltéve, hogy a rendeletben meghatározott egyéb feltételeknek megfelel.
 
 [^1]: A 3. § (1) bekezdés a) pont ae) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 3. § (1) bekezdés a) pont af) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § (1) bekezdés a) pont ai) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^4]: A 3. § (1) bekezdés d) pontját a 21/2012. (III. 9.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
-[^5]: A 3. § (1) bekezdés e) pont eb) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (1) bekezdés e) pont ec) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^7]: A 3. § (1) bekezdés g) pont gg) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^8]: A 3. § (1) bekezdés i) pont ib) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (3) bekezdésével megállapított, a 125/2012. (XII. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 137. §-ával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
-[^9]: A 3. § (3) bekezdése a 125/2012. (XII. 10.) VM rendelet 8. § b) pontja szerint módosított szöveg.
-[^10]: A 3. § (7) bekezdése a 21/2012. (III. 9.) VM rendelet 17. § (4) bekezdésével megállapított szöveg.
-[^11]: A 3. § (8) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
-[^12]: A 3. § (9) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
+[^4]: A 3. § (1) bekezdés a) pont aj) alpontja a 97/2013. (X. 22.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdés d) pontját a 21/2012. (III. 9.) VM rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 3. § (1) bekezdés e) pont eb) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés e) pont ec) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés g) pont gg) alpontja a 125/2012. (XII. 10.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdés h) pontja a 97/2013. (X. 22.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdés i) pont ib) alpontja a 21/2012. (III. 9.) VM rendelet 17. § (3) bekezdésével megállapított, a 125/2012. (XII. 10.) VM rendelet 8. § a) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 137. §-ával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép, nem vezethető át.]
+[^11]: A 3. § (3) bekezdése a 125/2012. (XII. 10.) VM rendelet 8. § b) pontja szerint módosított szöveg.
+[^12]: A 3. § (7) bekezdése a 97/2013. (X. 22.) VM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^13]: A 3. § (8) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
+[^14]: A 3. § (9) bekezdését a 125/2012. (XII. 10.) VM rendelet 1. § (4) bekezdése iktatta be.
+[^15]: A 3. § (10) bekezdését a 97/2013. (X. 22.) VM rendelet 12. § (4) bekezdése iktatta be.

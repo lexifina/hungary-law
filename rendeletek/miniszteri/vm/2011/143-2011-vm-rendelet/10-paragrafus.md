@@ -6,6 +6,6 @@
 
 (3) Az MVH a (2) bekezdés szerinti miniszteri jóváhagyással rendelkező szerződések Mkk tv.-nyel, továbbá a jelen rendelettel való összhangját, a kötelező tartalmi elemek, valamint a 4. § szerinti feltételek teljesítése tekintetében nem vizsgálja.
 
-(4)[^28] A Magyar Biztosítók Szövetsége a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 16. § (2) bekezdésében meghatározott eljárás során a miniszter és a biztosítók közötti egyeztetés elősegítése érdekében koordinációs feladatokat lát el.
+(4)[^31] A Magyar Biztosítók Szövetsége a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 16. § (2) bekezdésében meghatározott eljárás során a miniszter és a biztosítók közötti egyeztetés elősegítése érdekében koordinációs feladatokat lát el.
 
-[^28]: A 10. § (4) bekezdését a 21/2012. (III. 9.) VM rendelet 17. § (7) bekezdése iktatta be.
+[^31]: A 10. § (4) bekezdését a 21/2012. (III. 9.) VM rendelet 17. § (7) bekezdése iktatta be.
