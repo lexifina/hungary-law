@@ -1,4 +1,4 @@
-## 29. § Hatályát veszti a Belső Piaci Információs Rendszer hazai működésének és az abban való részvételnek a szabályairól szóló 342/2009. (XII. 30.) Korm. rendelet, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség teljesítéséről 341/2009. (XII. 30.) Korm. rendelet.
+## 29. §[^2]
 
 1. melléklet a 354/2013. (X. 7.) Korm. rendelethez
 
@@ -29,3 +29,5 @@ f) az alkalmazottak minimális számát előíró követelmény,
 g) rögzített legalacsonyabb és/vagy legmagasabb díjtétel, amelynek a szolgáltatónak meg kell felelnie,
 
 h) a szolgáltató azon kötelezettsége, hogy szolgáltatásával együtt egyéb meghatározott szolgáltatásokat is nyújtson.
+
+[^2]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
