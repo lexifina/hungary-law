@@ -4,7 +4,7 @@
 
 (2) E törvény 9. §-a 2013. október 25-én lép hatályba.
 
-(3) Hatályát veszti a Szolgtv. 40. §-át megelőző alcím és a 48. §-a az azt megelőző alcímmel együtt.
+(3)
 
 (4) Ez a törvény
 
