@@ -50,6 +50,8 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 
 (13)[^18] Az ügyfél az (1) bekezdés b) pont bb) alpontja szerinti árbevételhez viszonyított beruházással, felújítással kapcsolatos saját nevére szóló érvényes számlán, teljesítési igazoláson, használatbavételi engedélyen, illetve adásvételi szerződésen feltüntetett teljesítési időpontnak a tárgyév január 1. és a tárgyévet követő év március 15-e közötti időszakra kell esnie. A beruházással, felújítással kapcsolatos saját nevére szóló érvényes számla, teljesítési igazolás, használatbavételi engedély, illetve adásvételi szerződés csak egy támogatási év vonatkozásában fogadható el.
 
+(14)[^19] Abban az esetben, ha az ügyfél az (1) bekezdés b) pont bc) alpontja szerinti nemzeti feltétel teljesítése során 2013. szeptember 1-jét megelőző időszakban kezdte meg az 1. mellékletben felsorolt Országos Képzési Jegyzék (OKJ) szerinti szakképesítésének a megszerzését, úgy jogosult a 2013. évi egységes kérelem beadásának időpontjában hatályos 1. melléklet szerinti képzések igazolására.
+
 [^6]: A 3. § (1) bekezdés b) pont ba) alpontja a 8/2013. (II. 18.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés b) pont bb) alpontja a 8/2013. (II. 18.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (1) bekezdés b) pont bc) alpontja a 8/2013. (II. 18.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
@@ -63,3 +65,4 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 [^16]: A 3. § (11) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be.
 [^17]: A 3. § (12) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be.
 [^18]: A 3. § (13) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be.
+[^19]: A 3. § (14) bekezdését a 97/2013. (X. 22.) VM rendelet 24. §-a iktatta be.
