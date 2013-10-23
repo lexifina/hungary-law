@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és az Európai Űrügynökség közötti, az Európai Együttműködő Államok Terve (PECS) programban való részvételről szóló megállapodás meghosszabbításáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
