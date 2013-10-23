@@ -1,4 +1,4 @@
-10. §[^26] (1) A zöldség, gyümölcs támogatási jogosultságok egységértékét a (5) és (7) bekezdésben foglaltakra figyelemmel külön zöldségre és gyümölcsre, euróban, termelőnként kell megállapítani.
+10. §[^28] (1) A zöldség, gyümölcs támogatási jogosultságok egységértékét a (5) és (7) bekezdésben foglaltakra figyelemmel külön zöldségre és gyümölcsre, euróban, termelőnként kell megállapítani.
 
 (2) Az (1) bekezdésben foglalt egységértékhez kapcsolódó zöldség és gyümölcs terület megállapításához figyelembe veendő egyrészről a 2010-ben bejelentkezett termelő vonatkozásában a 2012. június 9. napján tulajdonában lévő jogosultságok számával megegyező hektár számú földterület, vagy a 2012. évi megállapított SAPS területei közül az alacsonyabb, továbbá a 2012. évben újonnan bejelentkezett termelő esetében a jogosult referenciaterülete és a 2012. évben megállapított SAPS területe közül az alacsonyabb.
 
@@ -14,4 +14,4 @@
 
 (8) A támogatási jogosultság egységértéke utáni kifizetés a közösségi jogi aktusban meghatározott esetben és jogszabályban meghatározottak szerint csökkenthető.
 
-[^26]: A 10. § a 4/2012. (II. 7.) VM rendelet 7. §-ával megállapított szöveg.
+[^28]: A 10. § a 4/2012. (II. 7.) VM rendelet 7. §-ával megállapított szöveg.

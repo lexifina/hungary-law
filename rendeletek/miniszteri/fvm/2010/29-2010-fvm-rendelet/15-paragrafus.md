@@ -4,6 +4,6 @@
 
 (3) Az (1) bekezdésben foglaltak szerinti nyilatkozatot tevő termelő a tárgyévtől kezdődően a szerkezetátalakítási program hátralevő időszakára különleges támogatás igénybevételére nem jogosult.
 
-(4)[^32] Amennyiben az ügyfél a tárgyévre vonatkozó egységes kérelmét a kifizetésről szóló döntés jogerőre emelkedéséig visszavonta, akkor azt az ügyfelet a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti programból kilépettnek kell tekinteni.
+(4)[^34] Amennyiben az ügyfél a tárgyévre vonatkozó egységes kérelmét a kifizetésről szóló döntés jogerőre emelkedéséig visszavonta, akkor azt az ügyfelet a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti programból kilépettnek kell tekinteni.
 
-[^32]: A 15. § (4) bekezdését a 8/2013. (II. 18.) VM rendelet 3. §-a iktatta be.
+[^34]: A 15. § (4) bekezdését a 8/2013. (II. 18.) VM rendelet 3. §-a iktatta be.
