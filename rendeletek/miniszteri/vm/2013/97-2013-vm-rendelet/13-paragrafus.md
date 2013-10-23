@@ -1,0 +1,1 @@
+## „(10) Támogatást igényelhet az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet aki, vagy amely felszámolási, végelszámolási, adósságrendezési eljárás alatt áll, feltéve, hogy a rendeletben meghatározott egyéb feltételeknek megfelel.”
