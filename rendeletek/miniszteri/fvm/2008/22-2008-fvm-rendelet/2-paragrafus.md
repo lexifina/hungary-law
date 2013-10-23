@@ -1,9 +1,11 @@
-## 2. § E rendelet szerinti támogatásra azok a mezőgazdasági termelők jogosultak, akik:
+2. §[^3] (1) Támogatásra az a mezőgazdasági termelő jogosult, aki:
 
-a) a tárgyévben külön jogszabály szerinti egységes területalapú támogatási (a továbbiakban: SAPS) kérelmet nyújtottak be, és kérelmüket a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részben vagy teljes egészében jóváhagyta, azaz SAPS jogosultak;
+a) a tárgyévben egységes területalapú támogatásra (a továbbiakban: SAPS) vonatkozó kérelmet nyújtott be, és kérelmét a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részben vagy teljes egészében jóváhagyta, azaz SAPS jogosult,
 
-b) a tárgyévben termelői szervezet tagjai és az ebből eredő, külön jogszabályban foglalt kötelességeiket teljesítették;
+b) a tárgyévben termelői szervezet tagja és az ebből eredő, a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendeletben foglalt kötelességeit teljesítette, valamint
 
-c)[^2] a referencia időszakban közvetve termelői szervezeten keresztül kapott zöldség-gyümölcs feldolgozóipari támogatás figyelembevételével az e rendelet melléklete alapján kiszámított, az MVH támogatási jogosultságot megállapító döntésével rendelkeznek.
+c) 2a referencia időszakban közvetve termelői szervezeten keresztül kapott zöldség-gyümölcs feldolgozóipari támogatás figyelembevételével az e rendelet melléklete alapján kiszámított, az MVH támogatási jogosultságot megállapító döntésével rendelkezik.
 
-[^2]: A 2. § c) pontja a 19/2010. (III. 11.) FVM rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+(2) Támogatást igényelhet az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet aki, vagy amely felszámolási, végelszámolási, adósságrendezési eljárás alatt áll, feltéve, hogy a rendeletben meghatározott egyéb feltételeknek megfelel.
+
+[^3]: A 2. § a 97/2013. (X. 22.) VM rendelet 3. §-ával megállapított szöveg.
