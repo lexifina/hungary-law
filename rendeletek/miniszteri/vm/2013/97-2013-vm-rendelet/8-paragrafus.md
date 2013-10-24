@@ -1,3 +1,3 @@
-## 7. § A zöldség-gyümölcs termelői csoportok támogatásáról szóló 24/2010. (III. 19.) FVM rendelet [a továbbiakban: 24/2010. (III. 19.) FVM rendelet] 9. §-a a következő (6a) bekezdéssel egészül ki:
+## 7. §[^4]
 
-## „(6a) Az ügyfélnek a beruházás pénzügyi rendezését, használatba vételét, üzembe helyezését, illetve tulajdonba kerülését igazoló dokumentumokat legkésőbb a (6) bekezdésben biztosított ügyintézési határidő letelte előtt 30 nappal kell az MVH részére benyújtania, azzal, hogy a pénzügyi rendezésnek eddig az időpontig kell megtörténnie, valamint a fenti dokumentumok megszerzéséhez szükséges legelső hatósági eljárás megindítását az (1) bekezdés szerinti összevont támogatási kérelem MVH-hoz benyújtását megelőzően kérelmezni kell. Az igazoló dokumentumok benyújtására nyitva álló határidő jogvesztő.”
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

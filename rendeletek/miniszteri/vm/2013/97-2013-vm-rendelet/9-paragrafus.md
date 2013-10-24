@@ -1,3 +1,3 @@
-## 8. §[^1]
+## 8. §[^5]
 
-[^1]: A 8. § a 35. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^5]: A 8. § a 35. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

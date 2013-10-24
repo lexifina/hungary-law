@@ -1,3 +1,0 @@
-## 24. § A húsmarha és a juh ágazatokban nyújtott kérődző szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 22/2012. (III. 9.) VM rendelet [a továbbiakban: 22/2012. (III. 9.) VM rendelet] 3. §-a a következő (14) bekezdéssel egészül ki:
-
-## „(14) Abban az esetben, ha az ügyfél az (1) bekezdés b) pont bc) alpontja szerinti nemzeti feltétel teljesítése során 2013. szeptember 1-jét megelőző időszakban kezdte meg az 1. mellékletben felsorolt Országos Képzési Jegyzék (OKJ) szerinti szakképesítésének a megszerzését, úgy jogosult a 2013. évi egységes kérelem beadásának időpontjában hatályos 1. melléklet szerinti képzések igazolására.”

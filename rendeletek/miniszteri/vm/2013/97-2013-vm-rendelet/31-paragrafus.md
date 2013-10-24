@@ -1,1 +1,0 @@
-## „(4) A pályázati felhívásban előírt feltételeket és a pályázatnak a támogatási döntés alapján elfogadott részét a hatósági szerződésben foglaltak szerinti megvalósítási határidőn belül, de legkésőbb 2014. május 31-ig kell teljesíteni.”
