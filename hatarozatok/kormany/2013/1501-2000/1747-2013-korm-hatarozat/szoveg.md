@@ -22,4 +22,6 @@ g) a szükséges kormányzati, közigazgatási döntések, intézkedések elők�
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti a budai Várbazár felújításának és a Várnegyed hosszú távú fejlesztési koncepciójának kidolgozásáért, valamint a fertődi Esterházy-kastély rekonstrukciójával kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1053/2012. (III. 6.) Korm. határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
