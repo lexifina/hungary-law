@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-32-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 1995-32-00-00.15 |
 | 2013-04-01 | 2013. évi XVI. törvény | 1995-32-00-00.16 |
 | 2013-07-01 | 2013. évi LXXXI. törvény | 1995-32-00-00.17 |
+| 2013-10-25 | 2013. évi CLIX. törvény | 1995-32-00-00.18 |
