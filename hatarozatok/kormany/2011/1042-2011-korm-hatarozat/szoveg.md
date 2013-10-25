@@ -1,4 +1,4 @@
-1. A Kormány az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés c) pontja és a 36. § (3) bekezdése alapján úgy dönt, hogy az alábbi állami vagyonba tartozó ingatlanok ingyenesen a határozatban megjelölt helyi önkormányzatok tulajdonába kerüljenek.
+1.[^1] A Kormány az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés c) pontja és a 36. § (3) bekezdése alapján úgy dönt, hogy az alábbi állami vagyonba tartozó ingatlanok ingyenesen a határozatban megjelölt helyi önkormányzatok tulajdonába kerüljenek.
 
 | Sor- szám | Önkormányzat | Ingatlan/tulajdoni hányad | Feladat/cél | Ingatlan-nyilvántartási megnevezés | Terület (m2) |
 
@@ -10,7 +10,7 @@
 
 | 4. | Békésszentandrás Nagyközség Önkormányzata | 508/A/1 hrsz-ú ingatlan | közösségi feladatok ellátása céljára | „iroda” | 9,8 |
 
-| 5. | Bököny Község Önkormányzata | Bököny 438/3 hrsz-ú ingatlan | közút kialakítása céljára | „kivett táptakarmánybolt” | 503 |
+| 5. | Bököny Község Önkormányzata | Bököny 438/3 hrsz.-ú ingatlan | közparkok és egyéb közterületek kialakítása és fenntartása | „kivett táptakarmánybolt” | 503 |
 
 | 6. | Budapest Főváros Önkormányzata | Budapest 39470/73/A/235 hrsz-ú ingatlan 1/2 tulajdoni hányada | nővérszálló kialakítása céljára | „lakás” | 46 |
 
@@ -149,3 +149,5 @@ g) az ingatlan-nyilvántartásban sporttelepként nyilvántartott ingatlanok ön
 7. A Hollókő 89/8 és 89/9 hrsz-ú ingatlanok és a Kaposújlak 218/55 hrsz-ú ingatlan tulajdonjogának átruházására vonatkozó szerződésben rögzíteni kell, hogy Hollókő Község Önkormányzata és Kaposújlak Község Önkormányzata vállalja az ingyenes tulajdonba adással összefüggő általános forgalmi adó megfizetését.
 
 8. E kormánydöntés alapján tulajdon átruházási szerződést 2011. augusztus 31-ig lehet megkötni.
+
+[^1]: Az 1. pont táblázata az 1763/2013. (X. 25.) Korm. határozat 1. pontja szerint módosított szöveg.
