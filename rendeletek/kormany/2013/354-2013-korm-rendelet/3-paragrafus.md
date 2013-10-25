@@ -8,6 +8,4 @@ b) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvén
 
 c) a Bizottság 2001. december 7-i ajánlása a „SOLVIT” – belső piaci problémamegoldó hálózat alkalmazásának alapelveiről szóló bizottsági ajánlás I. és II. fejezete szerinti eljárásokra,
 
-d)[^1]
-
-[^1]: A 3. § d) pontja a 26. § (2) bekezdése alapján 2013. október 25-én lép hatályba.
+d) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelv 10. cikk (4) bekezdése szerinti információcserére.
