@@ -14,7 +14,7 @@ c) a bejelentett és a lajstromozott földrajzi árujelzők nyilvántartása,
 
 d) a földrajzi árujelzők oltalmával kapcsolatos hatósági tájékoztatás.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az egyes földrajzi árujelzők közösségi oltalmára és az eredetmegjelölések nemzetközi lajstromozására vonatkozó rendelkezések (XVII/A–XVII/B. fejezetek) alkalmazásából eredő ügyek is.
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az egyes földrajzi árujelzők uniós oltalmára és az eredetmegjelölések nemzetközi lajstromozására vonatkozó rendelkezések (XVII/A–XVII/B. fejezetek) alkalmazásából eredő ügyek is.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a törlési eljárásban és a megszűnés megállapítására irányuló eljárásban.
 
@@ -26,7 +26,7 @@ b) a földrajzi árujelző törlése;
 
 c) a földrajzi árujelző-oltalom megszűnésének megállapítása;
 
-d) a közösségi rendelet alapján tett bejelentés továbbítása;
+d)
 
 e) az eredetmegjelölés nemzetközi bejelentésének továbbítása;
 

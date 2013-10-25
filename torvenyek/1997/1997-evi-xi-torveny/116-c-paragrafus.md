@@ -1,6 +1,6 @@
 116/C. § (1) A 116/A–116/B. §-okban nem szabályozott kérdésekben a külön jogszabály rendelkezéseit kell alkalmazni. E külön jogszabály előírhatja, hogy a termékleírásnak való megfelelés ellenőrzését a következő szervezetek is végezhetik:
 
-a) mezőgazdasági termékek és élelmiszerek esetében az 510/2006/EK rendelet 11. cikkének (1) bekezdésében említett terméktanúsító szervezetek;
+a) mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendelet 37. cikkének (1) bekezdésében említett terméktanúsító szervezetek;
 
 b) szeszes italok esetében a 110/2008/EK rendelet 22. cikkének (1) bekezdésében említett terméktanúsító szervezetek;
 

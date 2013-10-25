@@ -10,7 +10,7 @@ b) az Európai Parlament és a Tanács 2008/95/EK irányelve (2008. október 22.
 
 a) a közösségi védjegyről szóló, 2009. február 26-i 207/2009/EK tanácsi rendelet;
 
-b) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló, 2006. március 20-i 510/2006/EK tanácsi rendelet;
+b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet;
 
 c) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 510/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 14-i 1898/2006/EK bizottsági rendelet;
 
