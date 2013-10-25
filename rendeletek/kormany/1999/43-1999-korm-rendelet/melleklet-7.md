@@ -60,6 +60,12 @@
 
 ## S = Magyarország területén tartózkodó beteg 4. § (10) és (11) bekezdése szerinti, más forrásból meg nem térülő sürgősségi ellátása
 
+## T = uniós beteg részére magyar egészségügyi szolgáltató által határon átnyúló egészségügyi ellátás keretében végzett ellátás
+
+## V = magyar biztosított külföldi ellátása a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján
+
+## Y = magyar biztosított külföldi ellátása a határon átnyúló egészségügyi ellátás keretében
+
 ## 0 = élsportoló speciális ellátása
 
 | Szolgáltató OEP kódja: ....................................................................... | Szolgáltató neve: ....................................................................... |
@@ -146,9 +152,9 @@ A finanszírozás módja szerint aktív ellátásnak minősül az az ellátás, 
 
 A finanszírozás módja szerint krónikus ellátásnak minősül az, amelynek célja az egészségi állapot stabilizálása, fenntartása, illetve helyreállítása. Az ellátás időtartama, illetve befejezése általában nem tervezhető, és jellemzően hosszú időtartamú.
 
-3.[^527] Mátrix kórházi ellátás
+3.[^528] Mátrix kórházi ellátás
 
-A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^528]
+A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^529]
 
-[^527]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^528]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
+[^528]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^529]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.

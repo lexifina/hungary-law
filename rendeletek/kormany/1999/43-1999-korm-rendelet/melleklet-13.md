@@ -1,6 +1,6 @@
 ## SZAKÁPOLÓI, SZAKIRÁNYÚ TERÁPIÁS VIZITEK FINANSZÍROZÁSA
 
-## A)[^535] A vizitdíj megállapítása a betegellátás típusa, valamint a beteg önellátó képessége szerint
+## A)[^536] A vizitdíj megállapítása a betegellátás típusa, valamint a beteg önellátó képessége szerint
 
 | A beteg önellátó képességének foka | Szakápolási ellátás | Szakirányú (rehabilitációs) tevékenység, alapdíj szorzók |
 
@@ -30,7 +30,7 @@
 
 ## * Táplálkozás, tisztálkodás, öltözködés, széklet és vizelet kontinencia, önálló helyzetváltoztatás (felkelés, lefekvés).
 
-13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^536]
+13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^537]
 
-[^535]: A 12. számú melléklet A) pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^536]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.
+[^536]: A 12. számú melléklet A) pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^537]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte.

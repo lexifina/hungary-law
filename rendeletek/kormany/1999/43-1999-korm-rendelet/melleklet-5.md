@@ -28,6 +28,6 @@
 
 | szolgáltató (működtető) | háziorvos |
 
-5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^524]
+5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^525]
 
-[^524]: Az 5. számú mellékletet a 329/2005. (XII. 29.) Korm. rendelet 16. § (6) bekezdés b) pontja hatályon kívül helyezte, újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 362/2013. (X. 11.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^525]: Az 5. számú mellékletet a 329/2005. (XII. 29.) Korm. rendelet 16. § (6) bekezdés b) pontja hatályon kívül helyezte, újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 362/2013. (X. 11.) Korm. rendelet 4. §-ával megállapított szöveg.

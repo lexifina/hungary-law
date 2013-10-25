@@ -1,3 +1,1 @@
-## 50/B. §[^463]
-
-[^463]: Az 50/B. §-t a 293/2002. (XII. 27.) Korm. rendelet 23. §-a iktatta be, hatályon kívül helyezte a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése.
+## 50/B. § Az egészségügyi szolgáltató által saját beszerzésből biztosított, az R. 1. számú melléklete szerinti eszköz vagy tételes elszámolás alá eső egyszerhasználatos eszköz és implantátum uniós beteg részére történő alkalmazása esetén – a részére történő elszámolásban – az egészségügyi szolgáltató saját beszerzésének megfelelő költségmértéket kell alkalmazni.
