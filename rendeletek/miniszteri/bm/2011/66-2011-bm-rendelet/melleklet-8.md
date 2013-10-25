@@ -138,17 +138,17 @@
 
 ## 4.6. főelőadó,
 
-## 4.7. főmérnök,
+## 4.7.[^28]
 
-## 4.8. őrségparancsnok,
+## 4.8.[^29]
 
-## 4.9. díszőrség parancsnok-helyettes,
+## 4.9.[^30]
 
 ## 4.10. szolgálatparancsnok,
 
 ## 4.11. kiemelt biztonsági főtiszt,
 
-## 4.12. kiemelt főmérnök,
+## 4.12.[^31]
 
 ## 4.13. mérnök,
 
@@ -160,13 +160,13 @@
 
 ## 4.17. biztonsági gépkocsivezető,
 
-## 4.18.[^28]
+## 4.18.[^32]
 
-## 4.19.[^29]
+## 4.19.[^33]
 
-## 4.20. díszőr,
+## 4.20.[^34]
 
-## 4.21. parlamenti őr,
+## 4.21.[^35]
 
 ## 4.22. lakásbiztosító,
 
@@ -176,6 +176,12 @@
 
 ## 4.25. technikus.
 
+## 4.26.[^36] őrparancsnok,
+
+## 4.27.[^37] fogdaőr I.,
+
+## 4.28.[^38] kísérőőr.
+
 8. melléklet a 66/2011. (XII. 30.) BM rendelethez
 
 [^23]: A 7. melléklet 3. pont nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
@@ -183,5 +189,14 @@
 [^25]: A 7. melléklet 3. pont 3.30. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése szerint módosított szöveg.
 [^26]: A 7. melléklet 3. pont 3.33. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése iktatta be.
 [^27]: A 7. melléklet 4. pont nyitó szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^28]: A 7. melléklet 4. pont 4.18. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^29]: A 7. melléklet 4. pont 4.19. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 7. melléklet 4. pont 4.7. alpontját a 60/2013. (X. 24.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^29]: A 7. melléklet 4. pont 4.8. alpontját a 60/2013. (X. 24.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^30]: A 7. melléklet 4. pont 4.9. alpontját a 60/2013. (X. 24.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^31]: A 7. melléklet 4. pont 4.12. alpontját a 60/2013. (X. 24.) BM rendelet 2. § b) pontja hatályon kívül helyezte.
+[^32]: A 7. melléklet 4. pont 4.18. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 7. melléklet 4. pont 4.19. alpontját a 31/2012. (VI. 28.) BM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^34]: A 7. melléklet 4. pont 4.20. alpontját a 60/2013. (X. 24.) BM rendelet 2. § c) pontja hatályon kívül helyezte.
+[^35]: A 7. melléklet 4. pont 4.21. alpontját a 60/2013. (X. 24.) BM rendelet 2. § c) pontja hatályon kívül helyezte.
+[^36]: A 7. melléklet 4. pont 4.26. alpontját a 60/2013. (X. 24.) BM rendelet 1. § b) pontja iktatta be.
+[^37]: A 7. melléklet 4. pont 4.27. alpontját a 60/2013. (X. 24.) BM rendelet 1. § b) pontja iktatta be.
+[^38]: A 7. melléklet 4. pont 4.28. alpontját a 60/2013. (X. 24.) BM rendelet 1. § b) pontja iktatta be.

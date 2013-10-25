@@ -2,9 +2,9 @@
 
 ## 1. A rendőrségen 150%-os mértékű különleges bevetési pótlékra jogosult az, aki
 
-## 1.1.[^30] az ORFK Bűnügyi Ellátó Igazgatóság Műveleti Főosztály osztályainál tényleges műveleti feladatok ellátásával,
+## 1.1.[^40] az ORFK Bűnügyi Ellátó Igazgatóság Műveleti Főosztály osztályainál tényleges műveleti feladatok ellátásával,
 
-## 1.2.[^31] a Készenléti Rendőrség Különleges Szolgálatok Igazgatósága Tanúvédelmi Szolgálat Bevetést Támogató Osztályán és Nemzetközi Műveleti Osztályán
+## 1.2.[^41] a Készenléti Rendőrség Különleges Szolgálatok Igazgatósága Tanúvédelmi Szolgálat Bevetést Támogató Osztályán és Nemzetközi Műveleti Osztályán
 
 ## 1.3. a Repülőtéri Rendőr Igazgatóság Akció Alosztályán
 
@@ -14,25 +14,25 @@
 
 ## 2.1. a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztályán,
 
-## 2.2.[^32] a Készenléti Rendőrség Rendészeti Igazgatóság bevetési főosztályainak támogató alegységeinél
+## 2.2.[^42] a Készenléti Rendőrség Rendészeti Igazgatóság bevetési főosztályainak támogató alegységeinél
 
 ## 2.3. a békefenntartó és nemzetközi rendőri erőknél,
 
 ## különleges bevetési pótlékra jogosító tevékenységet közvetlenül ellát.
 
-## 3.[^33] A rendőrségen 100%-os mértékű különleges bevetési pótlékra jogosult az, aki
+## 3.[^43] A rendőrségen 100%-os mértékű különleges bevetési pótlékra jogosult az, aki
 
-## 3.1.[^34] az 1. pont 1.1. alpontjában felsoroltak kivételével az ORFK Bűnügyi Ellátó Igazgatóságnál,
+## 3.1.[^44] az 1. pont 1.1. alpontjában felsoroltak kivételével az ORFK Bűnügyi Ellátó Igazgatóságnál,
 
 ## 3.2. a 2. pont 2.2. alpontjában felsoroltak kivételével a Készenléti Rendőrség Rendészeti Igazgatóságán,
 
-## 3.3.[^35] a Készenléti Rendőrség Különleges Szolgálatok Igazgatósága törzsében, a III. Bevetési Főosztályánál, Pénzkísérő Szolgálatánál, valamint az 1. pont 1.2. alpontjában felsoroltak kivételével a Tanúvédelmi Szolgálatánál,
+## 3.3.[^45] a Készenléti Rendőrség Különleges Szolgálatok Igazgatósága törzsében, a III. Bevetési Főosztályánál, Pénzkísérő Szolgálatánál, valamint az 1. pont 1.2. alpontjában felsoroltak kivételével a Tanúvédelmi Szolgálatánál,
 
-## 3.4.[^36] a Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóságán személyvédelmi feladatok közvetlen végrehajtásával, valamint Ügyeleti és Védelmi Szolgálatánál, a Gazdasági Igazgatóság Informatikai Osztályánál és Forgalmi Alosztályánál biztonsági gépkocsivezetőként,
+## 3.4.[^46] a Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóságán személyvédelmi feladatok közvetlen végrehajtásával, a Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság Őrzési Osztályán, valamint Ügyeleti és Védelmi Szolgálatánál, a Gazdasági Igazgatóság Informatikai Osztályánál és Forgalmi Alosztályánál biztonsági gépkocsivezetőként,
 
-## 3.5.[^37] a Készenléti Rendőrség Nemzeti Nyomozó Irodánál,
+## 3.5.[^47] a Készenléti Rendőrség Nemzeti Nyomozó Irodánál,
 
-## 3.6.[^38] a megyei (fővárosi) rendőr-főkapitányságok akció alegységeinél, valamint a Budapesti Rendőr-főkapitányság bevetési osztályán.
+## 3.6.[^48] a Budapesti Rendőr-főkapitányság Bűnügyi Bevetési Osztályán, valamint a megyei rendőr-főkapitányságok mélységi ellenőrzési és közterületi támogató alegységeinél közterületi támogató feladatok ellátásával
 
 ## különleges bevetési pótlékra jogosító tevékenységet közvetlenül ellát.
 
@@ -94,19 +94,42 @@ A Vhr. 54. §-ában meghatározott nyomozói pótlékra jogosító szolgálati b
 
 1.20. katonai vétségek nyomozását végző fegyelmi kiemelt főreferens,
 
-1.21.[^39] kiemelt főreferens (ORFK Bűnügyi Ellátó Igazgatóság, ORFK Kiemelt Életellenes Ügyeket Felderítő Főosztály, KR Nemzeti Nyomozó Iroda, Repülőtéri Rendőr Igazgatóság Bűnügyi Igazgatóság),
+1.21.[^49] kiemelt főreferens (ORFK Bűnügyi Főigazgatóság, KR Nemzeti Nyomozó Iroda, Repülőtéri Rendőr Igazgatóság Bűnügyi Igazgatóság),
 
 1.22. alosztályvezető (Repülőtéri Rendőr Igazgatóság Bűnügyi Igazgatóság),
 
 1.23. az 1.1.–1.22. alpontban felsoroltak szolgálati elöljárói osztályvezetői szintig, amennyiben bűnügyi megelőző, felderítő és vizsgálati feladatot ténylegesen ellátnak.
 
-[^30]: A 11. melléklet 1. pont 1.1. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^31]: A 11. melléklet 1. pont 1.2. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított és a 81/2012. (XII. 28.) BM rendelet 29. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^32]: A 11. melléklet 2. pont 2.2. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdése szerint módosított szöveg.
-[^33]: A 11. melléklet 3. pont záró szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^34]: A 11. melléklet 3. pont 3.1. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^35]: A 11. melléklet 3. pont 3.3. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított, a 43/2012. (VIII. 23.) BM rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^36]: A 11. melléklet 3. pont 3.4. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^37]: A 11. melléklet 3. pont 3.5. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^38]: A 11. melléklet 3. pont 3.6. alpontját a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdése iktatta be.
-[^39]: A 12. melléklet 1. pont 1.21. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított és a 81/2012. (XII. 28.) BM rendelet 29. § (1) bekezdés i) pontja szerint módosított szöveg.
+2.[^50] A Készenléti Rendőrség Különleges Szolgálatok Igazgatóság Tanúvédelmi Szolgálat Bevetést Támogató Osztályán rendszeresített beosztások közül:
+
+2.1. osztályvezető-helyettes,
+
+2.2. alosztályvezető,
+
+2.3. kiemelt főreferens,
+
+2.4. kiemelt főelőadó,
+
+2.5. kiemelt főnyomozó,
+
+2.6. szolgálatparancsnok,
+
+2.7. járőrvezető,
+
+2.8. helyszínbiztosító,
+
+2.9. segédelőadó,
+
+2.10. technikus (bűnügyi).
+
+[^40]: A 11. melléklet 1. pont 1.1. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^41]: A 11. melléklet 1. pont 1.2. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított és a 81/2012. (XII. 28.) BM rendelet 29. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^42]: A 11. melléklet 2. pont 2.2. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdése szerint módosított szöveg.
+[^43]: A 11. melléklet 3. pont záró szövegrésze a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^44]: A 11. melléklet 3. pont 3.1. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^45]: A 11. melléklet 3. pont 3.3. alpontja a 31/2012. (VI. 28.) BM rendelet 21. § (3) bekezdésével megállapított, a 43/2012. (VIII. 23.) BM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^46]: A 11. melléklet 3. pont 3.4. alpontja a 60/2013. (X. 24.) BM rendelet 1. § d) pontjával megállapított szöveg.
+[^47]: A 11. melléklet 3. pont 3.5. alpontja a 43/2012. (VIII. 23.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^48]: A 11. melléklet 3. pont 3.6. alpontja a 60/2013. (X. 24.) BM rendelet 1. § d) pontjával megállapított szöveg.
+[^49]: A 12. melléklet 1. pont 1.21. alpontja a 60/2013. (X. 24.) BM rendelet 1. § e) pontjával megállapított szöveg.
+[^50]: A 12. melléklet 2. pontját a 60/2013. (X. 24.) BM rendelet 1. § e) pontja iktatta be.
