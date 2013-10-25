@@ -1,0 +1,344 @@
+# A Kormány 374/2013. (X. 25.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 176. szám, 2013. október 25. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/76c5cb76e541cb15ce189930e1cb769a2f7caed1/dokumentumok/18e5a30c2e649ea8e458528312e1f92063b0aafe/letoltes)
+
+---
+
+A Kormány 374/2013. (X. 25.) Korm. rendelete
+az EU Önerő Alap felhasználásának részletes szabályairól szóló 285/2012. (X. 9.) Korm. rendelet
+módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az EU Önerő Alap felhasználásának részletes szabályairól szóló 285/2012. (X. 9.) Korm. rendelet (a továbbiakban: R.)
+1. alcímének címe helyébe a következő rendelkezés lép:
+„1. A rendelet alkalmazási köre, az EU Önerő Alap célja”
+2. §
+Az R. 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendeletet a Magyarország központi költségvetéséről szóló törvényben meghatározott EU Önerő Alap fejezeti
+kezelésű előirányzat (a továbbiakban: Önerő Alap) felhasználására kell alkalmazni.”
+3. § (1) Az R. 2. § (1) bekezdés 7. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„7. önerő: a megvalósítandó projekt elszámolható költségeinek az európai uniós és hazai költségvetési forrásból
+finanszírozott költségvetési támogatáson felüli része, a 8. pont szerinti önerő-támogatás kivételével,”
+(2) Az R. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdésben meg nem határozott fogalmak tekintetében a 2007–2013 programozási időszakban
+az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások
+felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet (a továbbiakban: Rendelet) rendelkezései
+az irányadók.”
+
+4. §
+ Az R. II. Fejezete helyébe a következő rendelkezés lép:
+„II. Fejezet
+Az önerő-támogatás odaítélésének rendje
+3. Az önerő-támogatásra való jogosultság feltételei
+3. § (1) Önerő-támogatást közszféra szervezet igényelhet. Önerő-támogatásra a közszféra-szervezet akkor jogosult, ha
+a) korábban, a Rendelet hatálya alá tartozó eljárás során az önerő rendelkezésére állásáról nyilatkozott, de az önerőt
+nem vagy csak részben tudja biztosítani,
+b) a Rendelet hatálya alá tartozó támogatással megvalósuló projekthez igényli az önerő-támogatást és a projektre
+vonatkozóan rendelkezik hatályos támogatói okirattal,
+c) nem áll csőd-, felszámolási, végelszámolási, illetve kényszertörlési eljárás hatálya alatt,
+d) nincs az államháztartásról szóló 2011. évi CXCV. törvény 50. § (3) bekezdése szerinti köztartozása, valamint
+e) önerő-támogatásban történő részesítését
+ea) gazdasági, költségvetési helyzete, vagy
+eb) a projekt megvalósításához fűződő nemzetstratégiai érdek,
+indokolja.
+(2) Nem részesíthető e rendelet szerinti önerő-támogatásban ivóvízminőség-javításra irányuló projekt tekintetében
+sem helyi önkormányzat, sem helyi önkormányzatok társulása.
+4. § (1) Az önerő-támogatás összege nem haladhatja meg a Rendelet szerinti uniós támogatással megvalósítandó
+projekt keretében elszámolható, a projekt befejezéséhez a kérelem előterjesztésekor még szükséges önerő mértékét.
+(2) Az önerő-támogatás az önerő finanszírozása érdekében felvett hitel kiváltására is felhasználható. A hitelkiváltás
+költségei nem elszámolhatóak.
+4. Az önerő-támogatás odaítélésének eljárási szabályai
+5. § (1) Az önerő-támogatás odaítélésére irányuló eljárás kérelemre indul. Az eljárás lefolytatása az NFÜ hatáskörébe
+tartozik. A hozzá benyújtott kérelmekről az NFÜ folyamatos elbírálás keretében, a kérelem előterjesztésétől számított
+tizenöt napon belül dönt. A döntésre nyitva álló határidő a kérelem Egységes Monitoring és Információs Rendszerbe
+(a továbbiakban: EMIR) történő hiánytalan feltöltésével kezdődik. A döntésre nyitva álló határidőbe nem számítandó
+be a 7. § (1) bekezdésében foglalt időtartam.
+(2) A kérelem és mellékletei a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) honlapjáról elérhető EMIR-en
+keresztül nyújtható be.
+(3) A kérelem tartalmazza
+a) a kedvezményezett nevét,
+b) a projekt azonosító számát,
+c) a projekt elszámolható összköltségét,
+d) a projekt teljes önereje finanszírozására vonatkozó forrástáblát, valamint az Önerő Alapból igényelt önerő-támogatás
+összegét,
+e) a kérelem előterjesztésének indokait és a kérelmező nyilatkozatát az uniós támogatási szerződés határidőre történő
+teljesítéséről,
+f) az V. Fejezet szerinti állami támogatási szabályoknak való megfelelésre vonatkozó nyilatkozatot,
+g) a kérelmező nyilatkozatát arról, hogy a köztartozásmentes adózói adatbázisban szerepel vagy az adóhatóság által
+kibocsátott köztartozás mentességre vonatkozó hatósági bizonyítványt,
+h) tájékoztatást a benyújtandó elszámolások ütemezett összegéről,
+i) derogációs projektek esetében a halasztott önerő miatt a valódi önerő-igény időpontját.
+6. § (1) Az NFÜ a hozzá benyújtott kérelmet megvizsgálja.
+(2) Ha
+a) a kérelem elintézése nem tartozik a hatáskörébe,
+b) a benyújtott kérelemmel azonos tartalmú, azonos kérelmező által benyújtott kérelmet már korábban érdemben
+elbírálta,
+c) a kérelmező a kérelmét visszavonta,
+d) a kérelmező jogi személy (jogi személyiség nélküli szervezet) és jogutód nélkül megszűnt, vagy
+e) a kérelmező nevében képviselő járt el, akinek a képviseleti joga megszűnt és – az NFÜ által tűzött határidő alatt –
+képviselőről a kérelmező nem gondoskodik,
+az NFÜ a kérelmet érdemi vizsgálat nélkül elutasítja, vagy a már megindult eljárást megszünteti, és erről tájékoztatja
+a kérelmezőt.
+
+7. § (1) Ha a kérelem nem felel meg az 5. § (3) bekezdésének vagy egyébként hiányos (hibás), az NFÜ a kérelem
+beérkezésétől számított nyolc napon belül – legfeljebb nyolc nap határidő megjelölésével és a mulasztás
+jogkövetkezményeire történő figyelmeztetéssel – hiánypótlásra hívja fel a kérelmezőt. Az NFÜ a hiánypótlásra nyitva
+álló határidőt nem hosszabbíthatja meg.
+(2) Az NFÜ az eljárást megszüntetheti, ha a kérelmező a kérelmét hiányosan (hibásan) adta be és a hiánypótlásra való
+felhívásnak nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte, illetve nyilatkozattételének
+elmaradása megakadályozta a tényállás tisztázását.
+8. § (1) Ha a 6. § (2) bekezdése vagy 7. § szerinti intézkedéseknek nincs helye vagy a kérelmező a hiánypótlást
+teljesítette, az NFÜ az EMIR-en keresztül a kérelmet az államháztartásért felelős miniszter részére hozzáférhetővé teszi.
+Az államháztartásért felelős miniszter a feltöltött kérelmet véleményezi.
+(2) Az államháztartásért felelős miniszter a kérelem és mellékletei EMIR-be történő feltöltését követően három napon
+belül elektronikusan, az EMIR-be feltöltött, önerő-támogatási kérelmenként külön tájékoztatja az NFÜ-t a kérelemre
+vonatkozó szakmai véleményéről. Ha e határidőn belül az államháztartásért felelős miniszter nem tölti fel véleményét
+az EMIR-be, azt úgy kell tekinteni, hogy a kérelmet támogatja.
+(3) Az (1) bekezdésben meghatározott intézkedéssel egyidejűleg az NFÜ megkeresi a helyi önkormányzatokért
+felelős minisztert annak tisztázása érdekében, hogy a kérelem nem ütközik-e a 3. § (2) bekezdésébe. A megkeresés
+kiküldésétől az arra adott válasz beérkezéséig terjedő idő nem számít bele az NFÜ ügyintézési határidejébe.
+9. § (1) A kérelemről az NFÜ egyedi döntést hoz, és – ha a 6. § (2) bekezdés vagy a 7. § (2) bekezdés alkalmazásának
+helye nincs – dönt az önerő-támogatás megítéléséről vagy a kérelmet döntésével elutasítja. A támogatási döntést
+az NFÜ haladéktalanul feltölti az EMIR-be. Az NFÜ a döntéséről és annak indokairól az EMIR-en keresztül elektronikusan
+tájékoztatja a kérelmezőt, a Miniszterelnökséget vezető államtitkárt, az államháztartásért felelős minisztert és a helyi
+önkormányzatokért felelős minisztert. Ha a kérelmet az NFÜ elutasítja vagy a kérelemben foglalt igényhez képest
+alacsonyabb összegű önerő-támogatást ítél meg, a döntésében a kérelmezőt tájékoztatja a VI. Fejezet szerinti kifogás
+benyújtásának lehetőségéről is.
+(2) Az önerő-támogatási döntés meghozatala során az NFÜ figyelembe veszi
+a) az államháztartásért felelős miniszter véleményét,
+b) a projekt műszaki és pénzügyi megvalósításának előrehaladottságát, ennek körében különösen azt, hogy
+a Rendelet szerinti támogatási szerződés megkötésétől legalább egy hónap eltelt-e vagy a támogatási szerződésben
+rögzített támogatás legalább egyötöde kifizetésre került-e,
+c) a projekt megvalósítása derogációs kötelezettséghez való kapcsolódását,
+d) a projektnek az érintett operatív program pénzügyi és fizikai mutatóinak teljesüléséhez való hozzájárulását,
+e) a kérelmező által előterjesztett indokokat, ennek körében különösen a kérelmező gazdasági, költségvetési
+helyzetére, fizetőképességére, illetve fizetőképességével összefüggő eljárásokra (csődeljárás, felszámolási eljárás,
+helyi önkormányzatok adósságrendezési eljárása), adósságkonszolidációban történő részvételére vonatkozó
+információkat,
+f) a projekt megvalósításához fűződő nemzetstratégiai megfontolásokat,
+g) korábbi önerő-támogatási kérelemben vállalt ütemterv teljesülését,
+h) a kérelem benyújtását megelőzően a kérelmező által már megvalósított, a Rendeletben foglaltaknak megfelelően
+lezárt, uniós finanszírozású projekteket,
+i) az állami támogatási szabályoknak történő megfelelést.
+(3) A nemzetstratégiai megfontolások tekintetében az NFÜ állásfoglalása irányadó.
+(4) Ha a kérelemben megjelölt önerő-támogatási igény a kérelmező által ténylegesen viselendő önerő összegét
+meghaladja, az NFÜ – az önerő-támogatás odaítélhetősége más feltételeinek fennállása esetén – e két összeg
+különbözetével csökkentett összegű önerő-támogatást biztosít.
+(5) Ha a kérelmező korábbi önerő-támogatási jogviszonyát az NFÜ azért szüntette meg annak létrejöttére visszamenő
+hatállyal, mert az általa jóváhagyott ütemtervhez képest a kérelmező a projektet késedelmesen valósította meg,
+az NFÜ – az önerő-támogatás más feltételeinek fennállása esetén – az igényelt önerő-támogatás 80%-ával megegyező
+összegű önerő-támogatást biztosít.
+(6) A kérelem akkor is elutasítható, ha az igényelt önerő-támogatás összege nem éri el az egymillió forintot.
+5. Az önerő-támogatói okirat és a jövedelemtermelő projektek sajátos szabályai
+10. § Az önerő-támogatás felhasználásának feltételeit önerő-támogatói okiratban kell rögzíteni, amely tartalmazza
+különösen az önerő-támogatás összegét és folyósításának módját. Az önerő-támogatói okiratot az NFÜ bocsátja ki,
+a döntés közlésétől számított legfeljebb tizenöt napon belül.
+
+10/A. § Ha az önerő-támogatás iránti kérelem olyan projekt megvalósításához kapcsolódik, amelyből
+a kedvezményezettnek bevétele (a továbbiakban: támogatással érintett bevétel) keletkezik, a kérelem beadásával
+egyidejűleg, de legkésőbb az önerő-támogatói okirat közlését követő hét napon belül a kérelmezőnek nyilatkoznia
+kell arról, hogy a támogatással érintett bevételeit maradéktalanul a rendszer fenntartására – pótlási, üzemeltetési,
+fejlesztési költségeire – fordítja.”
+5. §
+Az R. 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Kormány hozzájárulása esetén az (1) bekezdésben meghatározott időponttól eltérően is folyósítható
+az önerő-támogatás.”
+6. §
+Az R. IV. Fejezetének címe helyébe a következő rendelkezés lép:
+„IV. Fejezet
+Az önerő-támogatói okirat megszegésének jogkövetkezményei”
+7. §
+Az R. 9. alcím címe helyébe a következő rendelkezés lép:
+„9. A támogatói okirat megszegésének szabályai”
+8. § Az R. 18. § (2) bekezdése helyébe a következő rendelkezés lép és a § a következő (1a) bekezdéssel egészül ki:
+„(1a) Az (1) bekezdés szerinti döntést az NFÜ haladéktalanul feltölti az EMIR-be. Az NFÜ a döntéséről és annak
+indokairól az EMIR-en keresztül elektronikusan tájékoztatja a kérelmezőt, a Miniszterelnökséget vezető államtitkárt,
+az államháztartásért felelős minisztert és a helyi önkormányzatokért felelős minisztert. Az NFÜ a döntésében
+tájékoztatást ad a VI. Fejezet szerinti kifogás benyújtásának lehetőségéről is.
+(2) Ha a projekt önerő-támogatói okirata az (1) bekezdés alapján visszavonásra kerül, a kedvezményezett köteles
+a már folyósított önerő-támogatást a folyósítás időpontjától számított, a Ptk. szerinti kamatokkal növelt mértékben,
+a visszavonásról szóló döntésben megadott fizetési számlára, de legkésőbb a projekt támogatási szerződése
+megszűnésétől számított harminc napon belül egy összegben visszafizetni.”
+9. §
+Az R. 10. alcíme helyébe a következő rendelkezés lép:
+„10. A visszavont önerő-támogatás visszafizetésének szabályai
+20. § (1) A 18. § (2) bekezdése szerinti visszafizetés a kedvezményezett kérelmére részletekben is teljesíthető.
+(2) Ha az NFÜ a kérelemnek helyt ad, akkor külön megállapodásban meg kell határozni az önerő-támogatás
+visszafizetésének ütemezését és az azzal kapcsolatos határidőket. A kérelem elfogadását követő öt napon belül
+a kedvezményezett részére a részletfizetés ütemezésről szóló megállapodás-tervezetet meg kell küldeni és annak
+kézhezvételétől számított tíz napos határidőt kell kitűzni számára az aláírt megállapodás visszaküldésére. Ha
+a kedvezményezett az aláírt megállapodást a megjelölt határidőig nem küldi vissza, az NFÜ az átütemezési kérelem
+folytán megindult eljárást megszünteti, és erről tájékoztatja a kérelmezőt.
+(3) A kérelmet és az NFÜ döntését az EMIR-be fel kell tölteni.
+(4) Ha a kedvezményezett az önerő-támogatás teljes vagy részleges visszafizetésére köteles, egy alkalommal
+kezdeményezheti az általa vállalt visszafizetési ütemezés módosítását (a továbbiakban: átütemezési kérelem).
+Az átütemezési kérelem előterjesztésére csak az a kedvezményezett jogosult, amely az ütemezés szerinti visszafizetési
+kötelezettségének az átütemezési kérelem előterjesztését megelőzően maradéktalanul eleget tett.
+(5) Az átütemezési kérelmet az EMIR-be kell feltölteni. Az átütemezési kérelemről az NFÜ az erre irányuló kérelem
+EMIR-be történő feltöltésétől számított tizenöt napon belül dönt. Ennek során a (2) bekezdésben foglaltakat
+megfelelően alkalmazni kell.
+(6) Ha az átütemezési kérelmet az NFÜ elutasítja, erről a kedvezményezettet öt napon belül az indokok megjelölésével
+írásban köteles tájékoztatni.
+(7) Az NFÜ gondoskodik az átütemezésre vonatkozó döntés EMIR-be történő feltöltéséről.
+20/A. § (1) A kedvezményezett az önerő-támogatás visszafizetését a lebonyolítási számlára történő átutalással teljesíti.
+(2) A visszafizetés akkor teljesül, ha a visszavont önerő-támogatás az (1) bekezdés szerint megjelölt fizetési számlán
+jóváírásra kerül.”
+
+10. §
+ Az R. VI. Fejezete helyébe a következő rendelkezés lép:
+„VI. Fejezet
+Kifogás
+11. A kifogás benyújtása
+24. § (1) A 9. § (1) bekezdés és a 18. § (1) bekezdés szerinti döntés ellen kifogásnak van helye. Kifogást a kérelmező
+nyújthat be.
+(2) A kifogást a kérelmező a döntés 9. § (1) bekezdése, illetve 18. § (1a) bekezdése szerinti közlésétől számított nyolc
+napon belül nyújthatja be. E határidő jogvesztő. A kifogást az NFÜ-höz, írásban kell benyújtani.
+(3) A kifogásban
+a) meg kell jelölni azt a döntést, amely ellen a kifogás irányul,
+b) meg kell határozni, hogy a kérelmező a döntést mely részében tartja sérelmesnek,
+c) meg kell jelölni, hogy a kérelmező álláspontja szerint a döntés mely jogszabályt (jogszabályi rendelkezést) sértette
+meg és elő kell adni, hogy a kérelmező mely okból tartja a döntést jogszabálysértőnek,
+d) hivatkozni kell a kifogásban foglaltakat alátámasztó tényekre, bizonyítékokra, és csatolni kell azt a bizonyítékot,
+amelynek ez a természetével nem ellentétes.
+(4) A kifogásnak a döntés végrehajtására halasztó hatálya van.
+12. Intézkedések a kifogás alapján
+25. § (1) Az NFÜ a beérkezett kifogást az EMIR-ben rögzíti és megvizsgálja.
+(2) Az NFÜ – legfeljebb nyolc napos határidő tűzésével – hiánypótlásra kötelezi a kifogást benyújtót, ha a kifogás
+nem felel meg a 24. § (3) bekezdésének. Ha az NFÜ a hiánypótlásra nyolc napnál rövidebb határidőt tűz, a kérelmező
+kérelmére az NFÜ a határidőt meghosszabbíthatja akként, hogy az eredetileg tűzött határidő és a meghosszabbításának
+időtartama összesen legfeljebb nyolc nap lehet.
+13. A kifogás felterjesztése és a döntés saját hatáskörben történő felülvizsgálata
+26. § (1) Az NFÜ a kifogást annak beérkezésétől számított tíz napon belül
+a) felterjeszti vagy
+b) a döntést saját hatáskörben felülvizsgálja.
+E határidőbe nem számít bele a 25. § (2) bekezdése szerinti intézkedések megtételéhez szükséges idő.
+(2) Ha a (3) bekezdés szerinti intézkedéseknek nincs helye, az NFÜ a kifogást az ügy irataival együtt felterjeszti
+a Miniszterelnökséget vezető államtitkárhoz. Ha az NFÜ a kifogást felterjeszti, akkor a felterjesztésében részletesen
+megindokolja, hogy a kifogásban foglaltakkal miért nem ért egyet.
+(3) Ha az NFÜ a kifogás alapján megállapítja, hogy a kifogással támadott döntés jogszabálysértő, a döntést saját
+hatáskörben felülvizsgálja. Ennek során a döntést visszavonja, módosítja, kiegészíti vagy kijavítja. Az így meghozott
+döntést a 9. § (1) bekezdés és a 18. § (1a) bekezdés szerint kell közölni és ellene ugyanolyan jogorvoslatnak van helye,
+mint a 9. § (1) bekezdés és a 18. § (1) bekezdés szerinti döntéssel szemben.
+(4) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, az NFÜ a hibát – szükség esetén a kérelmező
+meghallgatása után – kijavítja, ha az nem hat ki az ügy érdemére.
+(5) Ha a döntésből jogszabály által előírt kötelező tartalmi elem hiányzik, vagy az ügy érdeméhez tartozó kérdésben
+nem született döntés, a NFÜ a döntést kiegészíti.
+14. A kifogás jogorvoslati hatáskörben történő elintézése
+26/A. § (1) A felterjesztett kifogást a Miniszterelnökséget vezető államtitkár bírálja el.
+(2) A Miniszterelnökséget vezető államtitkár az iratok hozzá történő maradéktalan felterjesztésétől számított
+negyvenöt napon belül dönt. E határidő egy alkalommal további negyvenöt nappal meghosszabbítható.
+(3) A Miniszterelnökséget vezető államtitkár a kifogás elintézése körében – feladat elvégzésére vagy mulasztás
+pótlására irányuló utasítás kivételével – nem gyakorolja az NFÜ felett külön jogszabály alapján gyakorolható utasítási
+jogát.
+(4) A kifogásnak a Miniszterelnökséget vezető államtitkár általi elintézéséből ki van zárva, és abban nem vehet részt:
+a) a kérelmező, illetve a kedvezményezett tagja, részvényese, alapítója, képviselője, alkalmazottja, továbbá azon volt
+képviselője és alkalmazottja, aki az ügyben eljárt,
+b) az, aki az NFÜ kifogással támadott döntésének meghozatalában részt vett,
+c) az a) és a b) pont alá eső személynek a Ptk. szerinti hozzátartozója vagy volt házastársa (bejegyzett élettársa),
+valamint
+d) az, akitől az ügy tárgyilagos megítélése egyéb okból nem várható (elfogultság).
+26/B. § (1) A Miniszterelnökséget vezető államtitkár a sérelmezett döntést, valamint az azt megelőző eljárást és
+az annak során hozott közbenső döntéseket megvizsgálja; ennek során nincs kötve a kifogásban foglaltakhoz.
+
+(2) A Miniszterelnökséget vezető államtitkár a kifogást annak érdemi vizsgálata nélkül elutasítja, ha
+a) a döntés ellen nincs helye kifogásnak,
+b) azt a 24. § (2) bekezdése szerinti határidőn túl terjesztették elő,
+c) azt nem az arra jogosult terjesztette elő,
+d) olyan ügyben terjesztették elő, amelyben korábban már kifogást nyújtottak be (ismételt kifogás),
+e) az NFÜ 25. § (2) bekezdés szerinti felhívása ellenére a kifogást benyújtó a jelzett hiányokat nem vagy nem
+megfelelően pótolta, vagy az NFÜ által a 25. § (2) bekezdés alapján megjelölt határidőt a kérelmező elmulasztotta,
+f) az nyilvánvalóan alaptalan.
+(3) A Miniszterelnökséget vezető államtitkár a kifogásban foglaltakra tekintet nélkül a kifogással támadott döntést
+megsemmisíti és az NFÜ-t az eljárás részben vagy egészben való megismételésére kötelezi, ha a kifogást megelőző
+eljárás során súlyos eljárásjogi jogsértés történt. Súlyos eljárásjogi jogsértésnek kell tekinteni azt, ha
+a) a döntés meghozatalában vagy a döntési javaslat kidolgozásában olyan személy vett részt, akinek részvétele
+jogszabály alapján kizárt,
+b) a döntés megalapozatlan,
+c) a döntés érdemi tartalma és az indokolása egymással ellentétes, vagy az NFÜ a döntését annak ellenére elégségesen
+nem indokolta meg, hogy ez kötelezettsége lett volna.
+(4) Ha a (2) vagy a (3) bekezdés alkalmazásának nincs helye, a Miniszterelnökséget vezető államtitkár a kifogást
+érdemben bírálja el.
+26/C. § (1) A kifogás mindaddig visszavonható, amíg a Miniszterelnökséget vezető államtitkár a döntését meg nem
+hozza. E szabály alkalmazása során a döntés meghozatalának azt kell tekinteni, amikor a döntés kiadmányozására
+jogosult személy a döntést kiadmányozza.
+(2) A visszavont kifogást újból előterjeszteni nem lehet.
+(3) A kifogás visszavonásának kell tekinteni azt is, ha a kifogással támadott döntésből rá háruló kötelezettségeket
+ténylegesen teljesíti, illetve jogok gyakorlását megkezdi, így különösen azt, ha a támogatói okiratot elfogadja.
+(4) A kifogás visszavonása esetén a felterjesztésig az NFÜ, a kifogás felterjesztését követően pedig a Miniszterelnökséget
+vezető államtitkár az eljárást megszünteti.
+26/D. § (1) A Miniszterelnökséget vezető államtitkár
+a) a kifogást elutasítja,
+b) a kifogással támadott döntést megsemmisíti és
+ba) az eljárást megszünteti vagy
+bb) a kifogással támadott döntést meghozó szervet az eljárás vagy egyes eljárási cselekmények megismétlésére
+kötelezi.
+(2) A Miniszterelnökséget vezető államtitkár a döntését megindokolja.
+(3) Ha a kifogással támadott döntés érdemben helyes, a Miniszterelnökséget vezető államtitkár a kifogást elutasítja,
+ellenkező esetben a kifogással támadott döntést megsemmisíti. A Miniszterelnökséget vezető államtitkár a kifogást
+akkor is elutasítja, ha a kifogásban állított jogsérelem a kifogással támadott döntés megsemmisítésével és az eljárás
+megszüntetésével, avagy az eljárás részben, vagy egészben történő megismétlésével nem küszöbölhető ki. Ilyen
+esetben a Miniszterelnökséget vezető államtitkár megállapítja a jogsértést.
+(4) A Miniszterelnökséget vezető államtitkár az (1) bekezdés b) pont ba) alpontja szerint dönt, ha az NFÜ a hatáskörét
+túllépte, vagy olyan tartalmú döntést hozott, amely az eljárás részben vagy egészben való megismétlése révén sem
+helyesbíthető.
+(5) A Miniszterelnökséget vezető államtitkár az (1) bekezdés b) pont bb) alpontja szerint dönt, ha a 26/B. §
+(3) bekezdésében fel nem sorolt, és a kifogás elbírálására irányuló eljárásban nem orvosolható olyan jogszabálysértés
+vagy a kiírás megsértése történt, amely lényeges hatással volt az eljárás lefolytatására, illetve a döntés tartalmára.
+Ilyennek kell tekinteni különösen, ha az eljárásban bizonyítás folyt és annak szabályait megsértették, az eljárásban
+részt vevő személyek a jogaikat nem gyakorolhatták, vagy ezek gyakorlását korlátozták.
+(6) A Miniszterelnökséget vezető államtitkár az (1) bekezdés b) pont bb) alpontja szerint dönt akkor is, ha a kifogásban
+állított új tény vagy előadott új bizonyíték folytán a kifogásolt döntésben megállapított tényállás kiegészítésre szorul,
+és akkor is, ha a döntés nem jogszabálysértő, de a kifogásban foglaltakkal – különösen fejlesztéspolitikai szempontokra
+figyelemmel – egyetért.
+(7) A megismételt eljárásban az NFÜ-t a kifogást elbíráló döntés és annak indokolása köti.
+
+26/E. § A Miniszterelnökséget vezető államtitkár a 26/D. § (1) bekezdése szerinti döntés meghozatalát követően
+intézkedik a döntésének a kifogást előterjesztő részére való kézbesítése iránt és a döntés egy példányát megküldi
+az NFÜ-nek.”
+11. §
+Az R. 27. §-a a következő (5)–(9) bekezdéssel egészül ki:
+„(5) Az EU Önerő Alap felhasználásának részletes szabályairól szóló 285/2012. (X. 9.) Korm. rendelet módosításáról
+szóló 374/2013. (X. 25.) Korm. rendelet (a továbbiakban: Módr3.) hatálybalépésekor már benyújtott azon kérelmek
+nyomán megindult eljárásokat az NFÜ megszüntetheti, amelyek nem tartoznak a (8) bekezdés hatálya alá, és
+amelyeket Magyarország európai uniós kötelezettségének határidőben történő megvalósítását célzó projekthez
+(a továbbiakban: derogációs projekt) történő önerő-támogatás igénylése iránt nyújtottak be. Ha az 5. § (3) bekezdés
+i) pontjára is figyelemmel a derogációs projekt határidőben történő megvalósítását az önerő-támogatás hiánya
+veszélyeztetné, az NFÜ nem szüntetheti meg az eljárást.
+(6) Az (5) bekezdés szerint megszüntetett eljárásban támogatni kérelmezett projektek az Ávr. 96. § (4) bekezdés
+j) pontjának alkalmazása szempontjából úgy minősülnek, mint azok, amelyek esetében a Nemzeti Fejlesztési
+Kormánybizottság egyedi hozzájárulását megadta.
+(7) Az NFÜ az eljárás (5) bekezdés alapján történő megszüntetéséről hozott döntéséről, annak indokairól és az Ávr.
+96. § (4) bekezdés j) pontjának (6) bekezdés alapján való alkalmazhatóságáról tájékoztatja a kérelmezőt. E döntés
+ellen a VI. Fejezet szabályainak megfelelő alkalmazásával kifogásnak van helye.
+(8) A Módr3. hatálybalépésekor folyamatban lévő ügyekben nem nyújtható e rendelet szerinti önerő-támogatás
+ivóvízminőség-javító projekt vonatkozásában sem helyi önkormányzatnak, sem helyi önkormányzatok társulásának.
+(9) A 3. § (1) bekezdésében meghatározottakon felül önerő-támogatásra jogosult a Rendelet hatálya alá tartozó
+projektjét a Módr3. hatálybalépését megelőzően megvalósító, a 3. § (1) bekezdés b)–e) pontjának megfelelő állami
+fenntartású felsőoktatási intézmény is azzal, hogy e bekezdés alapján önerő-támogatás csak kormányhatározatban
+a) e célra biztosított keret erejéig ítélhető meg, és
+b) meghatározott időponttól kezdődően benyújtott számlákra számolható el.”
+12. §
+Az R.
+a) 12. §-ban az„A kérelmező”szövegrész helyébe az„A kérelmező, illetve a kedvezményezett”szöveg,
+b) 18. § (1) bekezdés nyitó szövegrészében az „az önerő-támogatási szerződéstől elállni” szövegrész helyébe
+az„az önerő-támogatói okiratot visszavonni”szöveg,
+c) 18. § (1) bekezdés a) pontjában a „368/2011. (XII. 31.) Korm. rendelet 82. §-ában” szövegrész helyébe
+a„368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 82. §-ában”szöveg,
+d) 22. § (3) bekezdésében az „az Európai Unió működéséről szóló szerződés” szövegrész helyébe az „az EUMSZ”
+szöveg
+lép.
+13. §
+Hatályát veszti az R.
+a) 2. § (1) bekezdés 1. és 2. pontja,
+b) 2. § (1) bekezdés 8. pontjának a „vagy kamatmentes visszatérítendő” és az „(a továbbiakban együtt:
+önerő-támogatás)”szövegrésze,
+c) 2. § (1) bekezdés 10. pontja,
+d) 11. § (4) bekezdése,
+e) 13. §-a,
+f) 8. alcíme.
+14. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
