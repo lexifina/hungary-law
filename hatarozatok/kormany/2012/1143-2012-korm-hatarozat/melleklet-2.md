@@ -1,16 +1,8 @@
-| Konstrukció kódja | Projekt megnevezése | Támogatást igénylő neve | Támogatás összege (KONV+KMR Mrd Ft) | Projekt rövid bemutatása | Támogathatóság feltételei (amennyiben releváns) |
-
-| TÁMOP 2011–2013. évi akcióterv |
-
-| TÁMOP-2.1.6. | Újra tanulok | Nemzeti Munkaügyi Hivatal | 20,1 | A program célja, hogy az alacsony iskolai végzettségű felnőttek (munkanélküliek és foglalkoztatottak egyaránt) továbblépjenek képzettség tekintetében. A programban a résztvevők egyéni helyzetüknek, szándékuknak, képzettségüknek, tudásszintjüknek és a munkaerő-piaci igényeknek megfelelően sajátíthatnak el versenyképes, a munkaerő-piaci keresletnek megfelelő ismereteket. |  |
-
-2. melléklet az 1143/2012. (V. 10.) Korm. határozathoz[^1]
+2. melléklet az 1143/2012. (V. 10.) Korm. határozathoz[^4]
 
 | Konstrukció kódja | Projekt megnevezése | Támogatást igénylő neve | Kiemelt projekt támogatási összege (KONV+KMR Mrd Ft) | Projekt rövid bemutatása | Támogathatóság feltételei (amennyiben releváns) |
 
 | TÁMOP 2011–2013. évi akcióterv |
-
-| TÁMOP-2.1.6. | Újra tanulok | Nemzeti Munkaügyi Hivatal | 20,1 | A program célja, hogy az alacsony iskolai végzettségű felnőttek (munkanélküliek és foglalkoztatottak egyaránt) továbblépjenek képzettség tekintetében. A programban a résztvevők egyéni helyzetüknek, szándékuknak, képzettségüknek, tudásszintjüknek és a munkaerő-piaci igényeknek megfelelően sajátíthatnak el versenyképes, a munkaerő-piaci keresletnek megfelelő ismereteket. |  |
 
 | TÁMOP 4.1.3 | Felsőoktatási szolgáltatások rendszerszintű fejlesztése, 2. ütem | Educatio Társadalmi Szolgáltató Nonprofit Kft. | 1,23 | Ágazati informatikai, képzési és hallgatói szolgáltatásfejlesztés |  |
 
@@ -22,4 +14,4 @@
 
 | TÁMOP-2.2.2. | A pálya- orientáció rendszerének tartami és módszertani fejlesztése | Nemzeti Munkaügyi Hivatal | 2,8 | A projekt célja az országosan egységes pályaorientációs rendszer megalapozása és kialakítása, a pályaorientáció módszertanának megújítása, a pályaorientációval foglalkozó szakemberek körének bővítése és szakmai felkészítése. Cél a piaci információhiányok, az inadekvát pálya- és szakmaválasztások számának csökkentése és a keresletvezérelt szakképzés megteremtése. |  |
 
-[^1]: A 2. melléklet az 1409/2013. (VII. 2.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^4]: A 2. melléklet az 1409/2013. (VII. 2.) Korm. határozat 4. pontja, az 1775/2013. (X. 25.) Korm. határozat 4. pontja szerint módosított szöveg.

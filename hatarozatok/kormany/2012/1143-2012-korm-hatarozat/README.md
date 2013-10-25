@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1143-30
 | --- | --- | --- |
 | 2012-05-10 | 2012-1143-30-22.1 | 1143/2012. (V. 10.) Korm. határozat |
 | 2013-07-02 | 2012-1143-30-22.2 | 1409/2013. (VII. 2.) Korm. határozat |
+| 2013-10-25 | 2012-1143-30-22.3 | 1775/2013. (X. 25.) Korm. határozat |
