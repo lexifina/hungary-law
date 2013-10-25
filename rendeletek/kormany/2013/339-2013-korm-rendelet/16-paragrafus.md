@@ -1,4 +1,4 @@
-## 13–15. §[^4]
+## 13–15. §[^2]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–12. § és az 1–4. melléklet 2013. október 25-én lép hatályba.
 
-[^4]: A 13–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 13–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
