@@ -1,0 +1,3 @@
+21. § Az Szjt. 92/K. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Ha az igazságügyért felelős miniszter a közös jogkezelő egyesületek díjszabásaival kapcsolatos feladata körében az (1) bekezdésben meghatározott jogszabályok megsértését észleli, a Hivatalnál felügyeleti intézkedést kezdeményez. Ha az NKA elnöke vagy alelnöke a közös jogkezelő egyesületek jogdíj- és más bevételeinek kulturális célra történő felhasználásával kapcsolatos feladata [89. § (11) és (11a) bekezdés] körében az (1) bekezdésben meghatározott jogszabályok megsértését észleli, a Hivatalnál felügyeleti intézkedést kezdeményez.”
