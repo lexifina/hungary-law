@@ -1,0 +1,1 @@
+## 25. § Ez a rendelet a fajtatiszta állatok forgalmazására vonatkozó tenyésztéstechnikai és származási követelmények megállapításáról, valamint a 77/504/EGK és 90/425/EGK irányelv módosításáról szóló 1991. március 25-i 91/174/EGK tanácsi irányelvnek való megfelelést szolgálja.
