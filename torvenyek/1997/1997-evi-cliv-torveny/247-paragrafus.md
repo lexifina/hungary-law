@@ -223,17 +223,3 @@ g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett v
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
-
-(4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
-
-(5) Felhatalmazást kap
-
-a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
-
-b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
-
-c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
-
-cb) az egészségügyi szolgáltatók működési engedélyezésével kapcsolatosan,
