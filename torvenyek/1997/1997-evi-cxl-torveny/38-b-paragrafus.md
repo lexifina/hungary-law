@@ -1,0 +1,1 @@
+38/B. § A miniszter a nemzeti kulturális érdekre figyelemmel és a széles körű hozzáférés céljait szem előtt tartva határozott időre kijelölheti a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyét.

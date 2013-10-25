@@ -1,1 +1,1 @@
-95. § Az állami és önkormányzati fenntartású muzeális intézményekben, nyilvános könyvtárakban, közlevéltárakban és közművelődési intézményekben magasabb vezető beosztás ellátásával csak szakirányú felsőfokú végzettséggel rendelkező munkavállaló bízható meg.
+95. §

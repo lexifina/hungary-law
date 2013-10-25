@@ -1,10 +1,10 @@
 95/B. § (1)–(5)
 
-(6) Az országos és a megyei hatókörű muzeális intézmény, valamint országos vagy megyei könyvtár közgyűjtemény vezetője az lehet, aki a 95. §-ban meghatározott szakirányú felsőfokú végzettségen túlmenően államháztartási, vezetési ismeretekkel és vezetői gyakorlattal rendelkezik, továbbá az intézménnyel közalkalmazotti jogviszonyban áll, illetve akivel ilyen jogviszonyt létesítenek.
+(6) Múzeum, országos vagy megyei könyvtár, valamint közművelődési intézmény vezetője az lehet, aki államháztartási és vezetési ismeretekkel, továbbá vezetői gyakorlattal rendelkezik.
 
 (7) A (6) bekezdésben meghatározott államháztartási, vezetési ismeretekkel rendelkezőnek kell tekinteni azt, aki legalább a miniszter által külön jogszabályban meghatározottak szerint akkreditált, vezetői ismereteket nyújtó tanfolyam eredményes elvégzését igazoló okirattal rendelkezik.
 
-(8) A (7) bekezdésben előírt képesítést a 2010. január 1-je után létrejövő új megbízások esetén a megbízást követő 1 éven belül, a 2010. január 1-jén érvényben lévő és még legalább 2 évig tartó megbízások esetében 2011. december 31-ig kell megszerezni. Amennyiben a képesítés megszerzése nem történik meg, a megbízás e törvény erejénél fogva megszűnik.
+(8) A (7) bekezdésben előírt képesítést a vezetői megbízást követő 2 éven belül kell megszerezni.
 
 (9) Az országos és a megyei hatókörű muzeális intézmény, valamint országos vagy megyei könyvtár közgyűjtemény az éves munkatervét gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos szakmai mutatók alapján készíti el.
 

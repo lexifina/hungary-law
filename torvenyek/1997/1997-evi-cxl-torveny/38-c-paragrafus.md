@@ -1,0 +1,1 @@
+38/C. § Az állami tulajdonban lévő, jogszabály alapján védett vagy hatósági eljárás során védetté nyilvánított kulturális javak vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. a miniszter által a nemzeti kulturális érdekre figyelemmel kijelölt személlyel vagy szervezettel vagyonkezelési szerződést köt.
