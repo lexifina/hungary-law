@@ -1,0 +1,1 @@
+A mozgóképről szóló 2004. évi II. törvény 37. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § j) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
