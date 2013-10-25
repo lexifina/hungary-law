@@ -6,7 +6,7 @@
 
 (3) Felhatalmazást kap a Kormány, hogy az e törvény 38. §-ának (5) bekezdésében szabályozott szabad felhasználás esetében a nyilvánosság egyes tagjaihoz való közvetítés és a számukra történő hozzáférhetővé tétel módját és feltételeit rendelettel meghatározza.
 
-(4) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az ismeretlen vagy az ismeretlen helyen tartózkodó szerző alkotása felhasználásának engedélyezésére vonatkozó eljárás részletes szabályait és az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének, visszatérítésének módját továbbá az ilyen alkotások nyilvántartásának részletes szabályait.
+(4) Felhatalmazást kap a Kormány, hogy az árva mű felhasználásával kapcsolatos részletes szabályokat, a jogosultat megillető megfelelő díjazás feltételeit, a felhasználással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének, visszatérítésének módját, továbbá az árva művek felhasználására vonatkozóan kiadott engedélyek nyilvántartásának részletes szabályait rendeletben állapítsa meg.
 
 (4a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
@@ -21,5 +21,7 @@ a) a Hivatal elnöke véleményének kikérésével, a kultúráért felelős mi
 b) a Hivatal elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
 
 (6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, valamint a Hivatal elnöke véleményének kikérésével kiadott rendeletben határozza meg a közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a kezelésére, nyilvántartására, visszafizetésére és megfizetésére vonatkozó részletes szabályokat.
+
+(6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben, valamint a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével rendeletben szabályozza.
 
 (7) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az igazságügyért felelős miniszterrel egyetértésben – az e törvény 23/A. §-ának (4) bekezdése alapján a nyilvános haszonkölcsönzésért a szerzőt megillető díj megállapításához és felosztásához szükséges adatok, valamint az adatszolgáltatásra kötelezett nyilvános könyvtárak körét rendelettel megállapítsa.

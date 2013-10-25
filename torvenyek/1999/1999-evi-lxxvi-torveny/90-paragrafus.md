@@ -12,7 +12,7 @@ c) a közös jogkezeléssel érintett jogosulti csoport meghatározását,
 
 d) a közös jogkezelő szervezetek nyilvántartásának részletes szabályairól szóló kormányrendeletben meghatározott egyéb – a közös jogkezelés céljainak megvalósításához szükséges – adatokat.
 
-(3) A közös jogkezelő szervezetek nyilvántartása a bejegyzett jogok, tények és adatok fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a nyilvántartásba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés b)–c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A közös jogkezelő szervezetek nyilvántartását bárki megtekintheti, ahhoz a Hivatal a honlapján elektronikus hozzáférést biztosít. A nyilvántartásban szereplő vagy az onnan törölt adatok nyilvánosak. Ezekről az adatokról bárki feljegyzést készíthet vagy – díj ellenében – hitelesített kivonatot kérhet.
 

@@ -6,11 +6,13 @@ b) iskolai oktatás céljára és iskolai ünnepélyeken,
 
 c) szociális és időskori gondozás keretében,
 
-d) nemzeti ünnepeken tartott ünnepségeken,
+d)
 
 e) vallási közösségek vallásos szertartásain és vallásos ünnepségein,
 
 f) magánhasználatra, valamint alkalomszerűen tartott zártkörű összejövetelen.
+
+(1a) Ha az előadás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, a művek előadhatók nemzeti ünnepeken tartott ünnepségeken.
 
 (2) Jövedelemfokozás célját szolgálja a felhasználás, ha alkalmas arra, hogy a felhasználó (pl. üzlet, szórakozóhely) vevőkörét vagy látogatottságát növelje, vagy pedig, ha az üzlethelyiséget látogató vendégek vagy más fogyasztók szórakoztatását szolgálja. Jövedelemszerzésnek minősül különösen a belépődíj szedése, akkor is, ha egyéb elnevezés alatt történik. Díjazásnak minősül a fellépéssel kapcsolatban ténylegesen felmerült és indokolt költségeket meghaladó térítés is.
 
