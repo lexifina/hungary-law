@@ -2,6 +2,6 @@
 
 a) 38. § (1) bekezdés d) pontja,
 
-b) „A felhasználás engedélyezése ismeretlen vagy ismeretlen helyen tartózkodó szerző alkotása (árva mű) esetén” alcíme és az 57/A–57/D. §-a,
+b)
 
-c) 92/K. § (8) bekezdése.
+c)
