@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-56-20-5
 | 2013-08-30 | 2013-56-20-5H.4 | 2010: CXXX. törvény |
 | 2013-09-01 | 2013-56-20-5H.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-09-02 | 2013-56-20-5H.6 | 2010: CXXX. törvény |
+| 2013-10-25 | 2013-56-20-5H.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
