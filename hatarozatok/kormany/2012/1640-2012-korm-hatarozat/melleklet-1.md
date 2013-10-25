@@ -8,9 +8,9 @@
 
 ## 5. Ez a határozat 2013. január 1-jén lép hatályba.
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1640/2012. (XII. 19.) Korm. határozathoz
+1. melléklet az 1640/2012. (XII. 19.) Korm. határozathoz[^3]
 
 A 2013. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -26,7 +26,7 @@ A 2013. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 4. | A111/13 | STEADFAST JOKER 2013 NRF értékelő gyakorlat | HVK HDMCSF | NATO tagállam/ Törökország/ Olaszország/ Portugália | II-III. n. é. | 15 |
 
-| 5. | A112/13 | STEADFAST JAZZ 2013 NRF gyakorlat | HVK KIKCSF | Lengyelország/ Balti államok | III-IV. n. é. | 100 |
+| 5. | A112/13 | STEADFAST JAZZ 2013 NRF gyakorlat | HVK KIKCSF | Lengyelország/ Balti államok | III–IV. n. é. | 200 |
 
 | 6. | A113/13 | ACTIVE GUARDIAN 2013 (OHNG) közös katasztrófavédelmi gyakorlat | HVK KIKCSF | Magyarország | III-IV. n. é. | 500 |
 
@@ -134,7 +134,7 @@ A 2013. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 1. | B102/13 | WISE FORESIGHT 2013 román-magyar békefenntartó zászlóalj gyakorlat | MH ÖHP | Románia/ Magyarország | III-IV. n. é. | 100 |
 
-| 2. | B103/13 | BLONDE AVALANCHE 2013“Tisza”magyar-román-szlovák-ukrán zászlóalj katasztrófaelhárító gyakorlat | MH ÖHP | Szlovákia | III-IV. n. é. | 150 |
+| 2. | B103/13 | BLONDE AVALANCHE 2013„Tisza”magyar-román-szlovák-ukrán zászlóalj katasztrófaelhárító gyakorlat | MH ÖHP | Szlovákia | III-IV. n. é. | 150 |
 
 | 3. | B137/13 | SIBCRA 2013 gyakorlat | MH ÖHP | Olaszország | I- IV. n. é. | 20 |
 
@@ -270,4 +270,5 @@ A 2013. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 8. | A Pápán települő NATO Stratégiai Légiszállítási tevékenységgel kapcsolatos csapatmozgások | 2013. I-IV. n. é. | egyidejűleg legfeljebb 1000 fő |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1748/2013. (X. 24.) Korm. határozat 1. pontja szerint módosított szöveg.
