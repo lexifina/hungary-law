@@ -8,7 +8,13 @@ a) a beutalóhoz kötött szakellátások esetében a beutaló szerinti egészs�
 
 b) a beutalóhoz nem kötött szakellátások esetében a biztosított tekintetében területi ellátási kötelezettséggel rendelkező egészségügyi szolgáltató.
 
+(2a) A beutalóhoz kötött szakellátások esetében az egészségügyi szolgáltató köteles elfogadni az Európai Unió más tagállamában az uniós beteg részére az arra jogosult egészségügyi szakember által kiállított beutalót is, kivéve, ha az az egészségügyi szolgáltató számára nem érthető vagy nem nyújt elég információt a beteg egészségi állapotáról és az ennek alapján orvosilag szükséges beavatkozások köréről.
+
+(2b) A beutalóhoz nem kötött szakellátások esetében az uniós beteg ellátását nem lehet megtagadni arra hivatkozva, hogy vonatkozásában az egészségügyi szolgáltató területi ellátási kötelezettséggel nem rendelkezik.
+
 (3) A biztosított tekintetében területi ellátási kötelezettséggel nem rendelkező egészségügyi szolgáltató a (2) bekezdés a), illetve b) pontja szerinti esetben az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint az ellátást – az egészségügyről szóló 1997. évi CLIV. törvény 77. §-ában meghatározott eset kivételével – megtagadhatja, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását a területen kívüli betegek fogadása veszélyeztetné.
+
+(3a) Az egészségügyi szolgáltató csak akkor tagadhatja meg az uniós beteg ellátását, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását az uniós beteg fogadása veszélyezteti. Az elutasítást ilyen esetben írásban meg kell indokolni.
 
 (4) A szolgálati jogviszonyban álló és egyes külön jogszabályban meghatározott tevékenységet végző biztosítottak külön jogszabályban meghatározott rendben, valamint a fogva tartott személyek külön jogszabályban meghatározott rendben és feltételek szerint jogosultak az egészségügyi szolgáltatás igénybevételére.
 

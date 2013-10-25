@@ -10,7 +10,7 @@ b) a keresőképesség elbírálásával kapcsolatos eljárás rendjének,
 
 c) a gyógyszerek, gyógyászati segédeszközök és a gyógyászati ellátások árához nyújtott támogatás, illetve a gyógyászati segédeszközök javítási és kölcsönzési díjához nyújtott támogatás formájának, alapjának, mértékének megállapítására vonatkozó hatásköri és eljárási szabályok,
 
-d) a külföldön történő gyógykezelés feltételeinek és elszámolási rendjének,
+d) a külföldön történő gyógykezelés feltételeinek és elszámolási rendjének, valamint az előzetes engedélyhez kötött határon átnyúló egészségügyi ellátások körének és igénybevételi rendjének,
 
 e) a beutaló nélkül igénybe vehető szakellátások, a beutalásra jogosult orvosok körének, a beutalási rendnek, a szolgáltató-választás feltételeinek és eljárási szabályainak,
 

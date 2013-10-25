@@ -1,0 +1,1 @@
+83/D. § Ez a törvény a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

@@ -18,7 +18,7 @@ igazolja.
 
 (2) Amennyiben az (1) bekezdés b) pontja szerinti ellátásokat árhoz nyújtott támogatással rendelik, a biztosított a kezelőorvos kérelmére nyilatkozik arról, hogy a kezelőorvoson kívül más orvos által rendelt gyógyászati ellátást az adott naptári évben hány alkalommal vett igénybe, illetve, hogy a kezelőorvoson kívül más orvos a betegségével összefüggésben 30 napon belül milyen gyógyszert, milyen mennyiségben vagy annak kihordási idején belül milyen gyógyászati segédeszközt rendelt számára.
 
-(3) A Közösségi rendelet hatálya alá tartozó személy a Közösségi rendelet szerinti formanyomtatvány, illetve hatósági igazolvány bemutatása esetén jogosult egészségügyi szolgáltatás igénybevételére.
+(3) Az 5/B. § s) pont sa) alpontja szerinti határon átnyúló egészségügyi ellátást igénybevevő személy jogosultságát az e törvény végrehajtására kiadott kormányrendeletben meghatározott dokumentummal igazolja.
 
 (4) A biztosított az egészségügyi szolgáltatás igénybevételéhez – ha jogszabály eltérően nem rendelkezik – a Társadalombiztosítási Azonosító Jelet (a továbbiakban: TAJ-szám) igazoló hatósági igazolványát és – amennyiben a biztosított a 14. életévét betöltötte – érvényes, a személyazonosság megállapítására alkalmas igazolványát köteles bemutatni. A biztosított a TAJ-számát a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartásra vonatkozó rendelkezések szerint is igazolhatja.
 
