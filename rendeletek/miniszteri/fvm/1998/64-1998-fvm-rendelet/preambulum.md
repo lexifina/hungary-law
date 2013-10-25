@@ -1,1 +1,0 @@
-Az állattenyésztésről szóló – az 1996. évi CXXX. törvénnyel módosított – 1993. évi CXIV. törvény (a továbbiakban: Átv.) 49. §-a (1) bekezdésének a) 7–8. pontjaiban és a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 67. §-ának (5) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
