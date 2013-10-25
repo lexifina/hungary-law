@@ -4,4 +4,4 @@
 
 (2) A fenntartási díj szabályszerű megfizetésének elmaradása – e törvény, illetve külön törvény rendelkezései szerint – az oltalom megszűnését eredményezi.
 
-(3) A határidő-hosszabbítási, az eljárás folytatása iránti és az igazolási kérelmet mindaddig nem lehet benyújtottnak tekinteni, ameddig a kérelem díját meg nem fizetik.
+(3) A határidő-hosszabbítási, az eljárás folytatása iránti, az igazolási és az írásos véleménnyel kiegészített újdonságkutatási jelentésre, valamint annak gyorsított elkészítésére irányuló kérelmet mindaddig nem lehet benyújtottnak tekinteni, ameddig a kérelem díját meg nem fizetik.
