@@ -20,7 +20,7 @@ h) az elektronikus vényre vonatkozó részletszabályokat,
 
 i) a Betegségregiszterre vonatkozó részletes szabályokat,
 
-j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat,
+j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat
 
 k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat
 
@@ -35,3 +35,7 @@ b) a 30. § (9) bekezdése szerinti adatfeldolgozót
 rendeletben jelölje ki.
 
 (4) Ez a törvény a foglalkozási megbetegedések európai jegyzékéről szóló 2003/670/EK ajánlásnak való megfelelést szolgálja.
+
+(5) Ez a törvény a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(6) Ez a törvény a más tagállamban kiállított orvosi rendelvények elismerésének megkönnyítésére irányuló intézkedésekről szóló 2012. december 20-ai 2012/52/EU bizottsági végrehajtási irányelvnek való megfelelést szolgálja.

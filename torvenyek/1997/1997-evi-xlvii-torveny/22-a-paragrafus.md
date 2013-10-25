@@ -7,3 +7,5 @@
 (4) A Betegségregiszter a megküldött egészségügyi adatokat személyazonosításra alkalmatlan módon tartalmazza. A kapcsolati kód biztosítja az ellátott beteg, az egyes ellátási események, ideértve a gyógyszer, gyógyászati segédeszköz rendelését és a (3) bekezdésben meghatározott módon előállított, személyazonosításra alkalmatlan adatok összefűzését. A kapcsolati kód olyan módon kerül kialakításra, ami kizárja a személyes adatoknak a kódból való visszafejtését. Az egészségbiztosítási szerv az adattovábbítást követően törli azokat az adatokat, melyeket egyéb célból nem kezel.
 
 (5) A Betegségregiszterben gyűjtött személyazonosításra alkalmatlan egészségügyi adatokat aggregált módon az egészségügyi államigazgatási szerven keresztül megismerheti az adott gyógyszer forgalomba hozatali engedély jogosultja, illetve kizárólag tudományos célt szolgáló statisztikai elemzés érdekében – az adatkezelési szabályzatában rögzített módon – kutatóintézmény.
+
+22/B–22/D. §
