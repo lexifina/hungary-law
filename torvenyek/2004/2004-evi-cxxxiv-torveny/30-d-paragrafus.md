@@ -14,6 +14,8 @@ f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartás
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak; a Szellemi Tulajdon Nemzeti Hivatalának a 30/A. § (1) bekezdésében és a 30/C. §-ban felsorolt kérdésekben hozott határozatait a Fővárosi Törvényszék – a 30/E. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
 
+(2a) A Szellemi Tulajdon Nemzeti Hivatala a 30/A. § (1) bekezdésében és a 30/C. § (1) bekezdésében felsorolt kérdésekben hozott döntését megváltoztatási kérelem alapján, annak a bírósághoz történő továbbításáig visszavonhatja vagy a megváltoztatási kérelemben foglaltaknak megfelelően módosíthatja, ha megállapítja, hogy döntése jogszabályt sért vagy ha a megváltoztatási kérelemben foglaltakkal egyetért. A módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a módosított döntés ellen volt.
+
 (3) A 30/A. § (1) bekezdése és a 30/C. § (1) bekezdése szerinti kérelemért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 (4) A kutatás-fejlesztési minősítési eljárások magyar nyelven folynak, a kérelmet magyar nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, a Szellemi Tulajdon Nemzeti Hivatala azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
