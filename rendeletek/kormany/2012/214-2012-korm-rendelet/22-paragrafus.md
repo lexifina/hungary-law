@@ -10,7 +10,7 @@
 
 (5) Az e rendelet hatálybalépésének napján a Nemzeti Rehabilitációs és Szociális Hivatallal (a továbbiakban: NRSZH) munkavégzésre irányuló jogviszonyban álló jogvédelmi képviselők az egy szakterületen általuk teljesített jogvédelmi képviselői tanfolyami óraszám és az 5. § (1) bekezdésében szereplő tanfolyami óraszám különbözetét és az azt követő vizsgát 2014. június 30-ig kötelesek teljesíteni.
 
-(5a)[^7] A (12) bekezdés szerinti tanfolyamot eredményesen elvégzett jogvédelmi képviselők az egy szakterületen általuk teljesített jogvédelmi képviselői tanfolyami óraszám és az 5. § (1) bekezdésében szereplő tanfolyami óraszám különbözetét és az azt követő vizsgát 2014. június 30-ig kötelesek teljesíteni.
+(5a)[^12] A (12) bekezdés szerinti tanfolyamot eredményesen elvégzett jogvédelmi képviselők az egy szakterületen általuk teljesített jogvédelmi képviselői tanfolyami óraszám és az 5. § (1) bekezdésében szereplő tanfolyami óraszám különbözetét és az azt követő vizsgát 2014. június 30-ig kötelesek teljesíteni.
 
 (6) Mentesül a tanfolyami óraszám különbözet és vizsga letétele alól a jogi szakokleveles betegjogi, ellátottjogi és gyermekjogi jogvédői képesítéssel rendelkező személy.
 
@@ -26,25 +26,25 @@ az NRSZH jogutódja.
 
 (9) Az OBDK a jogosultsági feltételek egyidejű vizsgálata mellett hivatalból intézkedik az NRSZH-tól a (8) bekezdés a) pontja szerinti jogutódlás keretében átvett jogvédelmi képviselők nyilvántartásba vételéről.
 
-(10)[^8] A (4) bekezdésben foglaltaktól eltérően, különös méltánylást érdemlő ellátási érdek fennállásakor jogvédelmi képviselőt foglalkoztatni abban az esetben is lehet, ha a foglalkoztatni kívánt jogvédelmi képviselő vállalja, hogy a (12) bekezdésben előírt tanfolyamot 2013. december 31-ig eredményesen elvégzi.
+(10)[^13] A (4) bekezdésben foglaltaktól eltérően, különös méltánylást érdemlő ellátási érdek fennállásakor jogvédelmi képviselőt foglalkoztatni abban az esetben is lehet, ha a foglalkoztatni kívánt jogvédelmi képviselő vállalja, hogy a (12) bekezdésben előírt tanfolyamot 2013. december 31-ig eredményesen elvégzi.
 
-(11)[^9] A (10) bekezdés szerinti különös méltánylás érdemlő ellátási érdek akkor áll fenn, ha:
+(11)[^14] A (10) bekezdés szerinti különös méltánylás érdemlő ellátási érdek akkor áll fenn, ha:
 
-a) a jogvédelmi feladat ellátása az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központról szóló 214/2012. (VII. 30.) Korm. rendelet módosításáról szóló 122/2013. (IV. 26.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^10] követően helyettesítéssel történik, vagy
+a) a jogvédelmi feladat ellátása az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központról szóló 214/2012. (VII. 30.) Korm. rendelet módosításáról szóló 122/2013. (IV. 26.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépését[^15] követően helyettesítéssel történik, vagy
 
 b) az adott jogterületet a Módr. hatálybalépését követően jogvédelmi képviselő nem látja el.
 
-(12)[^11] A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) a (4) bekezdés szerinti kötelezettséget érintő időpont beálltáig terjedő időszakra 60 órás jogvédelmi képviselői tanfolyamot szervez a (13) és a (14) bekezdés szerinti feltételekkel. A tanfolyam elvégzéséről szóló tanúsítványt az OBDK és a GYEMSZI együttesen adja ki.
+(12)[^16] A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) a (4) bekezdés szerinti kötelezettséget érintő időpont beálltáig terjedő időszakra 60 órás jogvédelmi képviselői tanfolyamot szervez a (13) és a (14) bekezdés szerinti feltételekkel. A tanfolyam elvégzéséről szóló tanúsítványt az OBDK és a GYEMSZI együttesen adja ki.
 
-(13)[^12] A GYEMSZI a (12) bekezdés szerinti tanfolyam elindításáról a Módr. hatálybalépését[^13] követő 30 napon belül gondoskodik.
+(13)[^17] A GYEMSZI a (12) bekezdés szerinti tanfolyam elindításáról a Módr. hatálybalépését[^18] követő 30 napon belül gondoskodik.
 
-(14)[^14] A (12) bekezdés szerinti tanfolyam szakmai követelményeit és a követelmények teljesítéséhez szükséges ismereteket a 3. melléklet tartalmazza.
+(14)[^19] A (12) bekezdés szerinti tanfolyam szakmai követelményeit és a követelmények teljesítéséhez szükséges ismereteket a 3. melléklet tartalmazza.
 
-[^7]: A 22. § (5a) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
-[^8]: A 22. § (10) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
-[^9]: A 22. § (11) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
-[^10]: A hatálybalépés időpontja 2013. április 27.
-[^11]: A 22. § (12) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
-[^12]: A 22. § (13) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
-[^13]: A hatálybalépés időpontja 2013. április 27.
-[^14]: A 22. § (14) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 22. § (5a) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 22. § (10) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 22. § (11) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2013. április 27.
+[^16]: A 22. § (12) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 22. § (13) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2013. április 27.
+[^19]: A 22. § (14) bekezdését a 122/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.

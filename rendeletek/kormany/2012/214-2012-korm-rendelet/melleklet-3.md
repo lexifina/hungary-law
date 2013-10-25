@@ -66,7 +66,7 @@
 
 |  | 2. | A megszűnés/megszüntetés jogalapja |
 
-3. melléklet a 214/2012. (VII. 30.) Korm. rendelethez[^16]
+3. melléklet a 214/2012. (VII. 30.) Korm. rendelethez[^21]
 
 A jogvédelmi képviselői tanfolyam szakmai követelményei és a követelmények teljesítéséhez szükséges ismeretek
 
@@ -198,4 +198,4 @@ i) A gyermekjogi képviselő feladat- és hatásköre
 
 j) Esetfeldolgozások, a gyermekek jogsérelmeinek kezelése
 
-[^16]: A 3. mellékletet a 122/2013. (IV. 26.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 3. mellékletet a 122/2013. (IV. 26.) Korm. rendelet 3. §-a iktatta be.
