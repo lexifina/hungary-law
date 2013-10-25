@@ -1,8 +1,8 @@
 ## 14. § A 13. § (1)–(4) bekezdéseiben nem szabályozott postaigazgatási eljárások díja egységesen 5000 Ft eljárásonként.
 
-## A mozgóképszakmai hatóság eljárásaiért fizetendő díjak[^6]
+## A mozgóképszakmai hatóság eljárásaiért fizetendő díjak[^7]
 
-14/A. §[^7] (1) A Hivatalnak a filmalkotások kiskorúak védelme érdekében történő besorolási eljárásáért fizetendő díj összege 25 000 Ft, rövidfilm esetében 5000 Ft. A Hivatalnak a mozielőzetes önálló besorolása tárgyában indított eljárásáért fizetendő díj összege 5000 Ft.
+14/A. §[^8] (1) A Hivatalnak a filmalkotások kiskorúak védelme érdekében történő besorolási eljárásáért fizetendő díj összege 25 000 Ft, rövidfilm esetében 5000 Ft. A Hivatalnak a mozielőzetes önálló besorolása tárgyában indított eljárásáért fizetendő díj összege 5000 Ft.
 
 (2) Sorozatnak kiskorúak védelme érdekében történő besorolására irányuló eljárásért fizetendő díj összege epizódonként 5000 forint, rövidfilm esetében epizódonként 1000 forint, azzal, hogy a sorozat egészének besorolására irányuló eljárásért fizetendő díj összege nem lehet kevesebb, mint 30 000 forint és nem lehet több, mint 100 000 forint. Amennyiben a sorozat egészének valamennyi epizódja az Mktv. 21. § (1) bekezdés a) pontja szerinti I. besorolási kategóriába kerül besorolásra, és a sorozat egészének hossza nem haladja meg a 150 percet, akkor a sorozat epizódjainak besorolására irányuló eljárásokért összesen fizetendő díj összege legfeljebb 10 000 forint lehet.
 
@@ -16,5 +16,5 @@
 
 (7) Amennyiben a Hivatal a (2) bekezdés szerinti eljárásában megállapítja, hogy az ügyfél által megfizetett igazgatási szolgáltatási díj összege eltér a hatósági ügy tényállása alapján meghatározható igazgatási szolgáltatási díj összegétől, az eljárás során kiszabja az igazgatási szolgáltatási díjkülönbözetet.
 
-[^6]: A 14/A. §-t megelőző alcímet a 12/2012. (VIII. 9.) NMHH rendelet 6. § (1) bekezdése iktatta be.
-[^7]: A 14/A. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (1) bekezdése iktatta be.
+[^7]: A 14/A. §-t megelőző alcímet a 12/2012. (VIII. 9.) NMHH rendelet 6. § (1) bekezdése iktatta be.
+[^8]: A 14/A. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-14/D. §[^10] (1) A támogatási igazolás kiállítására irányuló egyszeri eljárásért fizetendő díj összege megrendelésre készülő filmalkotás esetében:
+14/D. §[^11] (1) A támogatási igazolás kiállítására irányuló egyszeri eljárásért fizetendő díj összege megrendelésre készülő filmalkotás esetében:
 
 a) ha a támogatási igazolás kiadása iránti kérelemben megjelölt közvetlen filmgyártási költség a 14/C. § (1) bekezdés a) pontban meghatározott mértéket nem haladja meg, 20 000 Ft,
 
@@ -28,4 +28,4 @@ b) ha a filmalkotás közvetlen filmgyártási költsége 10 millió és 500 mil
 
 c) ha a filmalkotás közvetlen filmgyártási költsége az 500 millió forintot meghaladja, 50 000 Ft.
 
-[^10]: A 14/D. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (4) bekezdése iktatta be.
+[^11]: A 14/D. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (4) bekezdése iktatta be.

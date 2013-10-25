@@ -1,5 +1,3 @@
-## 12. § A Hivatal zavarvizsgálatra, zavarelhárításra irányuló eljárásáért fizetendő díj összege 0 Ft.
-
 ## Postaigazgatási eljárásokért fizetendő díjak
 
 13. § (1) A postai szolgáltatások engedélyezésével kapcsolatos eljárásokért fizetendő díj összege 175 000 Ft.
