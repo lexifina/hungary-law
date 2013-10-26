@@ -1,3 +1,0 @@
-## 9. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) a következő 6/E. §-sal egészül ki:
-
-## „6/E. § Az egészségügyi szolgáltató az általa külföldön történő gyógykezelésre beutalt beteg részére végzett külföldön történő gyógykezelésről a 4. § (2) bekezdése szerint adatot szolgáltat az OEP részére a külföldön történő gyógykezelések részletes szabályairól szóló kormányrendelet alapján, amennyiben a beteg a külföldön történő gyógykezelést a külföldön történő gyógykezelések részletes szabályairól szóló kormányrendelet szerint vette igénybe.”
