@@ -1,3 +1,0 @@
-10. § A Vt. 76. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A megszűnés megállapítására irányuló eljárás költségeinek viselésére a vesztes felet kell kötelezni. A védjegyjogosult jogutód nélküli megszűnése miatt bekövetkező megszűnés megállapítására irányuló eljárás költségeit azonban a kérelmező viseli. Ha a védjegyjogosult az oltalom megszűnésének megállapítására irányuló eljárásra okot nem adott és a védjegyoltalomról – legalább az árujegyzék érintett része vonatkozásában – a bejelentés napjára visszaható hatállyal, az (1) bekezdés szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.”
