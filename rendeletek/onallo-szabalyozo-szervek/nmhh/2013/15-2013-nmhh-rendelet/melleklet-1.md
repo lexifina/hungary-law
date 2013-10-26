@@ -1,3 +1,5 @@
-## „(3) A díjfizetés megtörténtének igazolását – a bankszámla megterhelését tartalmazó napi bankkivonatot (a továbbiakban: befizetési bizonylat) – a rádióamatőr vizsga kivételével a kérelemnek tartalmaznia kell. A befizetési bizonylaton a befizetés jogcímét fel kell tüntetni. A természetes személy kérelmező készpénzátutalási megbízás útján történő díjfizetése esetén a díjfizetésének igazolását – a feladóvevényt – a rádióamatőr vizsga kivételével a kérelemnek tartalmaznia kell. Rádióamatőr vizsga esetén a díjfizetés megtörténtét a jelentkező köteles a vizsga megkezdése előtt a befizetési bizonylat, vagy feladóvevény bemutatásával igazolni.”
+## 22. §[^1]
 
 1. melléklet a 15/2013. (IX. 25.) NMHH rendelethez
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
