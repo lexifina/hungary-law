@@ -1,1 +1,0 @@
-## 3. § A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 3. § (3) és (4) bekezdésének alkalmazása szempontjából az 1. melléklet szerinti beruházások kiemelt társadalmi cél érdekében megvalósuló beruházásnak minősülnek.
