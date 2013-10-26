@@ -1,1 +1,3 @@
-14. § Hatályát veszti a nem filmgyártási célú mozgóképszakmai tevékenységek állami támogatásának szabályairól szóló 25/2008. (VIII. 8.) OKM rendelet.
+14. §[^1]
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
