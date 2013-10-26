@@ -4,7 +4,7 @@
 
 3. § (1)[^14] Az adókedvezmény akkor vehető igénybe, ha a beruházás megfelel a Tao. törvényben és az e rendeletben, illetve a Kormány a Tao. törvény 22/B. § (2) bekezdésében meghatározott egyedi határozatában (a továbbiakban: határozat) meghatározott valamennyi feltételnek.
 
-(2)[^15] Az adókedvezmény a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–j) pontja szerinti beruházás esetén akkor vehető igénybe, ha az adózó a beruházás részét képező valamennyi tárgyi eszközt üzembe helyezi, a támogatható immateriális javakat használatba veszi, és ezeket az eszközöket nagyvállalkozás az üzembe helyezést követő öt évig, kis- és középvállalkozás három évig (a továbbiakban: kötelező üzemeltetési időszak) az érintett régióban a hatályos, jogerős engedélyben foglaltak szerint üzemelteti, illetve használja.
+(2)[^15] Az adókedvezmény a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–l) pontja szerinti beruházás esetén akkor vehető igénybe, ha az adózó a beruházás részét képező valamennyi tárgyi eszközt üzembe helyezi, a támogatható immateriális javakat használatba veszi, és ezeket az eszközöket nagyvállalkozás az üzembe helyezést követő öt évig, kis- és középvállalkozás három évig (a továbbiakban: kötelező üzemeltetési időszak) az érintett régióban a hatályos, jogerős engedélyben foglaltak szerint üzemelteti, illetve használja.
 
 (3) Az adókedvezmény igénybevételének a Tao. törvény 22/B. § (1) bekezdés h) pontja szerinti munkahelyteremtést szolgáló beruházás esetén feltétele, hogy az adózó azokat az új munkahelyeket, amelyekhez kapcsolódóan az elszámolható költséget a támogatási intenzitás számítása során figyelembe vette, az első alkalommal történő betöltésük időpontját követően nagyvállalkozás öt, kis- és középvállalkozás három éven keresztül az érintett régióban fenntartja.
 
@@ -16,7 +16,7 @@ b) az adózót közigazgatási hatóság határozatban, illetve annak bíróság
 
 (5) Az adókedvezmény akkor vehető igénybe, ha
 
-a)[^17] a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–j) pontja szerinti beruházás forrásának legalább 25 százaléka saját forrás;
+a)[^17] a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–l) pontja szerinti beruházás forrásának legalább 25 százaléka saját forrás;
 
 b) a beruházás megkezdésének a napját megelőzi a kérelem, illetve a bejelentés benyújtásának a napja;
 
@@ -31,9 +31,9 @@ c)[^18] a Kormány egyedi döntése alapján megítélhető támogatás igényl�
 (9)[^21] Az adókedvezmény jelenértékét az Atr. 2. mellékletében meghatározott módszerrel kell meghatározni.
 
 [^14]: A 3. § (1) bekezdése a 277/2011. (XII. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^15]: A 3. § (2) bekezdése a 202/2009. (IX. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. §-át.
+[^15]: A 3. § (2) bekezdése a 202/2009. (IX. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 375/2013. (X. 25.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^16]: A 3. § (4) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 113. § (1) bekezdésével megállapított szöveg.
-[^17]: A 3. § (5) bekezdés a) pontja a 202/2009. (IX. 18.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 19. §-át.
+[^17]: A 3. § (5) bekezdés a) pontja a 202/2009. (IX. 18.) Korm. rendelet 17. § 2. pontja, a 375/2013. (X. 25.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^18]: A 3. § (5) bekezdés c) pontja a 277/2011. (XII. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^19]: A 3. § (7) bekezdését a 315/2006. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
 [^20]: A 3. § (8) bekezdését a 269/2008. (XI. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 202/2009. (IX. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. §-át.

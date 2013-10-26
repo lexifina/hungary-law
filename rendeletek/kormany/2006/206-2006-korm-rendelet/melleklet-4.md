@@ -40,21 +40,21 @@
 
 ## II. A BERUHÁZÁS ADATAI
 
-| 1. A beruházás adatai |
+| 1. A beruházás adatai |
 
 | Beruházás kezdete (év, hó, nap) |  |
 
 | Beruházás tervezett befejezése (év, hó, nap) |  |
 
-| Beruházás helyszíne [megye, település]4 |  |
+| Beruházás helyszíne [megye, település]1 |  |
 
 | Beruházás célja |  |
 
-| Beruházás jellege5 | a) új létesítmény létrehozatala b) meglévő létesítmény bővítése c) az előállított termék, illetve a termelési folyamat alapvető változását eredményező beruházás d) a nyújtott szolgáltatás, illetve a szolgáltatási folyamat alapvető változását eredményező beruházás |
+| Beruházás jellege2 | a) új létesítmény létrehozatala b) meglévő létesítmény bővítése c) az előállított termék, illetve a termelési folyamat alapvető változását eredményező beruházás d) a nyújtott szolgáltatás, illetve a szolgáltatási folyamat alapvető változását eredményező beruházás |
 
-| Beruházás összetétele6 | a) a beruházás kizárólag létesítmény felvásárlásából áll b) a beruházás részben tartalmaz létesítményfelvásárlást is c) a beruházás nem tartalmaz létesítményfelvásárlást |
+| Beruházás összetétele3 | a) a beruházás kizárólag létesítmény felvásárlásából áll b) a beruházás részben tartalmaz létesítményfelvásárlást is c) a beruházás nem tartalmaz létesítményfelvásárlást |
 
-| 2. A megvalósítani tervezett beruházás7 |
+| 2. A megvalósítani tervezett beruházás4 |
 
 | a) | jelenértéken legalább 3 milliárd forint értékű beruházás, |
 
@@ -64,7 +64,7 @@
 
 | d) | jelenértéken legalább 100 millió forint értékű önálló környezetvédelmi beruházás, |
 
-| e) | jelenértéken legalább 100 millió forint értékű, ea) meglévő, a frekvenciasávok nemzeti felosztásáról szóló jogszabály fogalommeghatározása szerinti állandó helyű szolgálat keretében, vagy a helyhez kötött, az elektronikus hírközlésről szóló 2003. évi C. törvény szerinti előfizetői interfésszel rendelkező, eb) 2006. január 1-jét követően szerzett frekvencia használati jogosultság alapján megvalósuló szélessávú internetszolgáltatást szolgáló beruházás, |
+| e) | jelenértéken legalább 100 millió forint értékű, ea) meglévő, a frekvenciasávok nemzeti felosztásáról szóló jogszabály fogalommeghatározása szerinti állandó helyű szolgálat keretében, vagy a helyhez kötött, az elektronikus hírközlésről szóló 2003. évi C. törvény szerinti előfizetői interfésszel rendelkező, eb) 2006. január 1-jét követően szerzett frekvencia használati jogosultság alapján megvalósuló szélessávú internetszolgáltatást szolgáló beruházás, |
 
 | f) | a jelenértéken legalább 100 millió forint értékű, az alapkutatást, az alkalmazott kutatást vagy a kísérleti fejlesztést szolgáló beruházás, |
 
@@ -74,7 +74,19 @@
 
 | i) | az adózó jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (vagy egy részének) a tőkepiacról szóló törvényben meghatározott szabályozott piacra történő bevezetésének a napját (az első kereskedési napot) követően, de legkésőbb az e napot követő harmadik év utolsó napjáig megkezdett, jelenértéken legalább 100 millió forint értékű beruházás, |
 
-| j) | jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás. |
+| j) | jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás, |
+
+| k) | a szabad vállalkozási zóna területén üzembe helyezett és üzemeltetett jelenértéken legalább 100 millió forint értékű beruházás, |
+
+| l) | a jelenértéken legalább 100 millió forint értékű – külön jogszabályban meghatározott tanúsítvány által igazolt módon – energiahatékonyságot szolgáló beruházás. |
+
+## 1 Ha a beruházás különböző telephelyeken valósul meg, valamennyi telephelyet fel kell tüntetni, az adatokat telephelyenként szükséges bemutatni. A szabad vállalkozási zónának minősülő település(ek) nevét aláhúzással szükséges jelölni.
+
+## 2 A megfelelő válasz betűjele bekarikázandó.
+
+## 3 A megfelelő válasz betűjele bekarikázandó.
+
+## 4 A megfelelő válasz betűjele bekarikázandó.
 
 | 3. Az adókedvezmény törvényi feltételei közül az adózó a következő teljesítését vállalja [csak a 2. pont a)–b) és j) alpont szerinti beruházás esetén töltendő ki]8 |
 
@@ -82,17 +94,17 @@
 
 | b) | bérköltség-növelési feltétel. |
 
-| 4. Az adózó által foglalkoztatottak átlagos állományi létszáma60 [Tao. törvény 4. § 16/a. pont] [A 2. pont a)–b) és j) pont szerinti beruházás esetén a 3. pont a) alpontjában szereplő feltétel választásakor, továbbá a 2. pont h) pont szerinti beruházás esetén töltendő ki.] |
+| 4. Az adózó által foglalkoztatottak átlagos állományi létszáma70 [Tao. törvény 4. § 16/a. pont] [A 2. pont a)–b) és j) pont szerinti beruházás esetén a 3. pont a) alpontjában szereplő feltétel választásakor, továbbá a 2. pont h) pont szerinti beruházás esetén töltendő ki.] |
 
-| A beruházás megkezdését megelőző adóév adata alapján (fő) | A beruházás megkezdését megelőző három adóév évesített adatiból számított számtani átlag alapján (fő) |
+| A beruházás megkezdését megelőző adóév adata alapján (fő) | A beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlag alapján (fő) |
 
 | ...................... | ...................... |
 
-## 60 A 2. pont h) pont szerinti beruházás esetén kizárólag a beruházás megkezdését megelőző adóév adata szerepeltethető.
+## 70 A 2. pont h) pont szerinti beruházás esetén kizárólag a beruházás megkezdését megelőző adóév adata szerepeltethető.
 
 | 5. Az adózó évesített bérköltsége [A 2. pont a)–b) és j) pont szerinti beruházás esetén a 3. pont b) alpontjában szereplő feltétel választásakor töltendő ki.] |
 
-| A beruházás megkezdését megelőző adóév adata alapján (ezer forint) | A beruházás megkezdését megelőző három adóév évesített adatiból számított számtani átlag alapján (ezer forint) |
+| A beruházás megkezdését megelőző adóév adata alapján (ezer forint) | A beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlag alapján (ezer forint) |
 
 | ...................... | ...................... |
 
@@ -276,7 +288,7 @@
 
 ## a) a beruházást a kérelem benyújtásáig nem kezdte meg;
 
-## b) a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–j) pontja szerinti beruházás forrásának legalább 25 százaléka saját forrás;
+## b) a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–l) pontja szerinti beruházás forrásának legalább 25 százaléka saját forrás;
 
 ## c) tevékenysége e rendelet 1. számú mellékletében meghatározott acélipari tevékenységhez tartozik / nem tartozik; [A megfelelő rész aláhúzandó.]
 
@@ -290,11 +302,11 @@
 
 ## h) a kérelem benyújtásakor nem áll az állami, az önkormányzati adóhatóságnál vagy a vámhatóságnál nyilvántartott adótartozás – ide nem értve a késedelmi pótlék miatti tartozást – miatt az állami, illetve az önkormányzati adóhatóságnál végrehajtási eljárás alatt;
 
-## i) a kérelem benyújtásakor megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok követelményeinek;
+## i) a kérelem benyújtásakor megfelel a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló jogszabályban meghatározott rendezett munkaügyi kapcsolatok követelményeinek;
 
 ## j) nem áll bíróság által jogerősen elrendelt felszámolás alatt,, illetve végelszámolását nem jelentette be a bírósághoz;
 
-## k) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/E. §-a alapján társasági adókedvezményt vesz igénybe / nem vesz igénybe; [A megfelelő rész aláhúzandó.]
+## k)
 
 ## l) a beruházás helyszínéül szolgáló ingatlan per- és igénymentes;
 
@@ -306,7 +318,7 @@
 
 ## 1. Létesítmény felvásárlása esetén a létesítmény bezárásáról a létesítmény igazgatósága (annak megfelelő testület) által hozott határozat másolata.
 
-## 2.  Nagyberuházás esetén az érintett termék Prodcom besorolása [a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista megállapításáról szóló bizottsági rendelet], illetve az érintett szolgáltatás CPA besorolása [a Bizottság rendelete az Európai Gazdasági Közösségben a termékek tevékenységek szerinti statisztikai osztályozásáról (CPA) szóló 3696/93/EGK tanácsi rendelet módosításáról] a kérelem benyújtásakor hatályos bizottsági rendelet besorolása alapján.
+## 2.  Nagyberuházás esetén az érintett termék Prodcom besorolása [a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista megállapításáról szóló bizottsági rendelet], illetve az érintett szolgáltatás CPA besorolása [a termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA, magyarul: TESZOR) és a 3696/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. április 23-i 451/2008/EK európai parlamenti és tanácsi rendelet] a kérelem benyújtásakor hatályos bizottsági rendelet besorolása alapján.
 
 ## 4/a. Amennyiben az adózó által kért támogatás összege magasabb, mint a 100 millió eurónak megfelelő forintösszegű nagyberuházáshoz adható támogatás összege, akkor az EK-Szerződés 93. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló 659/1999/EK tanácsi rendelet végrehajtásáról szóló, 2004. április 21-i 794/2004/EK bizottsági rendeletben szereplő adatok.
 
@@ -358,6 +370,6 @@
 
 ## 18 A táblázat ezen sorában csak akkor kell adatot szerepeltetni, ha az adózó a 100 millió eurót meghaladó elszámolható költséghez nem kér állami támogatást.
 
-4. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^67]
+4. számú melléklet a 206/2006. (X. 16.) Korm. rendelethez[^70]
 
-[^67]: A 4. számú melléklet a 315/2006. (XII. 23.) Korm. rendelet 9. § (4) bekezdése, a 361/2007. (XII. 23.) Korm. rendelet 3. §-a, a 211/2008. (VIII. 27.) Korm. rendelet 3. §-a, a 202/2009. (IX. 18.) Korm. rendelet 12. §-a és 18. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. §-át.
+[^70]: A 4. számú melléklet a 315/2006. (XII. 23.) Korm. rendelet 9. § (4) bekezdése, a 361/2007. (XII. 23.) Korm. rendelet 3. §-a, a 211/2008. (VIII. 27.) Korm. rendelet 3. §-a, a 202/2009. (IX. 18.) Korm. rendelet 12. §-a és 18. §-a, a 375/2013. (X. 25.) Korm. rendelet 5. §-a szerint módosított szöveg.

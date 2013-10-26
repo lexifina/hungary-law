@@ -6,7 +6,7 @@
 
 2. Elszámolható költség:
 
-a)[^3] a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–j) pontja szerinti beruházás esetén a beruházás célját szolgáló
+a)[^3] a Tao. törvény 22/B. § (1) bekezdés a)–g) és i)–l) pontja szerinti beruházás esetén a beruházás célját szolgáló
 
 aa) tárgyi eszköznek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 47–48. §-ai, 51. §-a szerinti bekerülési értéke,
 
@@ -71,7 +71,7 @@ a) a garantált minimum sebessége a szolgáltatótól az előfizető irányába
 b) időben korlátlan hozzáférést biztosít, legalább havi 99,5 százalékos rendelkezésre állási idővel.
 
 [^2]: Az 1. § 1. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (14) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § 2. pont a) alpontja a 202/2009. (IX. 18.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 19. §-át.
+[^3]: Az 1. § 2. pont a) alpontja a 202/2009. (IX. 18.) Korm. rendelet 17. § 1. pontja, a 375/2013. (X. 25.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § 2. pont ac) alpontja a 313/2009. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. § 2. pont c)–d) alpontját a 202/2009. (IX. 18.) Korm. rendelet 18. §-a hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 19. §-át.
 [^6]: Az 1. § 3. pontjának e) alpontja a 315/2006. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
