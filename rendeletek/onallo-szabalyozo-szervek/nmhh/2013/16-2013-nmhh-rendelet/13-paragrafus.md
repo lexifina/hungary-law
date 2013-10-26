@@ -1,0 +1,3 @@
+## 12. § Hatályát veszti az R. 14/D. § (1) bekezdés a) pontjában a „támogatási igazolás kiadása iránti” szövegrész, a 14/D. § (1) bekezdés b) pontjában a „támogatási igazolás kiadása iránti” szövegrész, a 14/D. § (1) bekezdés c) pontjában a „támogatási igazolás kiadása iránti” szövegrész, a 14/D. § (1) bekezdés d) pontjában a „támogatási igazolás kiadása iránti” szövegrész, a 14/D. § (2) bekezdésében a „támogatási igazolási” szövegrész, a 14/D. § (3) bekezdésében a „támogatási igazolás” szövegrész, a 14/D. § (5) bekezdésében a „támogatási igazolási” szövegrész és a 14/D. § (6) bekezdésében a „támogatási igazolás” szövegrész.
+
+13. § Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
