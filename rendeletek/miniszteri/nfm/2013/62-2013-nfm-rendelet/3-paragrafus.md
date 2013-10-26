@@ -2,4 +2,6 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2) Hatályát veszti a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) belföldi alkalmazásáról szóló 39/2009. (VIII. 7.) KHEM rendelet.
+(2)[^1]
+
+[^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
