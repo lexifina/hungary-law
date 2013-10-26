@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Nemzetközi Migrációs Szervezet között a migráció területén folytatandó együttműködésről szóló, 1995. december 18-án, Budapesten aláírt Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
