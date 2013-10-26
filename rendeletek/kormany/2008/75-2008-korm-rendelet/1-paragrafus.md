@@ -1,34 +1,24 @@
 1. § (1) A Kormány kiemelt jelentőségű üggyé nyilvánítja az 1. számú mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek alapját a következő beruházások képezik:
 
-a) Budapesti elővárosi vasútvonalak rekonstrukciója;
-
-b) Rákosrendező(kiz.)–Óbuda–Esztergom vasútvonal rekonstrukciója;
-
-c) Budapest–Győr–Hegyeshalom vasútvonal rehabilitációja;
-
-d) Budapest Kelenföld–Székesfehérvár vasútvonal korszerűsítés;
-
-e) Budapest–Cegléd–Szolnok–Lőkösháza vasútvonal rehabilitációja I. ütem;
-
-f) Budapest–Cegléd–Szolnok–Lőkösháza vasútvonal rehabilitációja II/2. ütem;
-
-g) Budapest–Lőkösháza vasútvonal korszerűsítése III. ütem (Gyoma–Lőkösháza vonalszakasz, illetve ETCS 2 kiépítése a Budapest–Lőkösháza vonalszakaszon);
-
-h) Zalalövő–Zalaegerszeg–Boba vasútvonal rehabilitációja;
-
-i) ETCS 2 kiépítése a Hódos–Boba vonalszakaszon;
-
-j) Győr–Pápa–Celldömölk–Boba vasútvonal korszerűsítése;
-
-k) Sopron–Szombathely–Szentgotthárd vasútvonal korszerűsítése;
-
-l) Budapest–Cegléd–Szolnok–Lőkösháza vasútvonal rehabilitációja II/1. ütem;
-
-m) Szolnok–Záhony vasútvonal felújítása I. ütem (Szolnok–Debrecen vonalszakasz);
+a)–m)[^1]
 
 n) a MÁV Zrt. és a GySEV Zrt. által működtetett vasúti pályahálózaton a GSM-R rendszer megvalósítása.
 
 (2) E rendelet 1. számú melléklete állapítja meg az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságokat.
+
+(2a)[^2] Az 1. számú mellékletben írtakon túlmenően a Kormány kiemelt jelentőségű üggyé nyilvánítja az (1) bekezdésben megjelölt beruházásokhoz kapcsolódó 3. számú mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2b)[^3] A Kormány a (2a) bekezdés szerinti közigazgatási hatósági ügyben eljáró
+
+a) első fokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint első fokú hatóságként jár el,
+
+b) első fokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint első fokú szakhatóságként jár el.
+
+(2c)[^4] A Kormány a (2a) bekezdés szerinti közigazgatási hatósági ügyben eljáró
+
+a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint másodfokú hatóságként jár el,
+
+b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint másodfokú szakhatóságként jár el.
 
 (3) Azokban az esetekben, amikor az 1. számú mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el,
 
@@ -36,10 +26,14 @@ a) a 2. számú mellékletben meghatározott ügyekben az ott meghatározott sze
 
 b) a 2. számú mellékletben nem szereplő ügyekben a szakhatóságként közreműködő szervet az Ngt. 2. §-ának alkalmazásával kell megállapítani.
 
-(4)[^1] Az 1. számú melléklet 14. sora szerinti
+(4)[^5] Az 1. számú melléklet szerinti
 
 a) építésügyi hatósági ügyekben nem kell településképi véleményezési eljárást lefolytatni,
 
 b) beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.
 
-[^1]: Az 1. § (4) bekezdését a 241/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^1]: Az 1. § (1) bekezdés a)–m) pontját a 377/2013. (X. 25.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (2a) bekezdését a 377/2013. (X. 25.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (2b) bekezdését a 377/2013. (X. 25.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (2c) bekezdését a 377/2013. (X. 25.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (4) bekezdését a 241/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 377/2013. (X. 25.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
