@@ -2,4 +2,6 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2) Hatályát veszti a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló 38/2009. (VIII. 7.) KHEM rendelet.
+(2)[^1]
+
+[^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
