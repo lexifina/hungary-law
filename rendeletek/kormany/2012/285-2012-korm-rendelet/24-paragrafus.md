@@ -1,17 +1,23 @@
-## VI. Fejezet
+## VI. Fejezet[^35]
 
-## JOGORVOSLAT
+## KIFOGÁS
 
-## 11. Kifogás
+## 11. A kifogás benyújtása
 
-24. § (1)[^48] A kérelmező a döntés 8. § szerinti közlésétől számított nyolc napon belül az NFÜ-höz, az önerő-támogatás odaítélésére vonatkozó, jelen rendeletben foglaltak megsértését alátámasztó indokolással, írásban kifogást nyújthat be. A kifogás előterjesztésére nyitva álló határidő jogvesztő.
+24. § (1) A 9. § (1) bekezdés és a 18. § (1) bekezdés szerinti döntés ellen kifogásnak van helye. Kifogást a kérelmező nyújthat be.
 
-(2) A kifogás benyújtására egy alkalommal van lehetőség.
+(2) A kifogást a kérelmező a döntés 9. § (1) bekezdése, illetve 18. § (1a) bekezdése szerinti közlésétől számított nyolc napon belül nyújthatja be. E határidő jogvesztő. A kifogást az NFÜ-höz, írásban kell benyújtani.
 
-(3) A kifogás elbírálásáig a kifogásban foglaltakkal összefüggő eljárási határidők nyugszanak.
+(3) A kifogásban
 
-(4) A kifogásnak az önerő-támogatásra vonatkozó támogatási szerződés megkötésére halasztó hatálya van.
+a) meg kell jelölni azt a döntést, amely ellen a kifogás irányul,
 
-(5) A kifogást a beérkezésétől számított 30 napon belül kell elbírálni.
+b) meg kell határozni, hogy a kérelmező a döntést mely részében tartja sérelmesnek,
 
-[^48]: A 24. § (1) bekezdése a 42/2013. (II. 18.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+c) meg kell jelölni, hogy a kérelmező álláspontja szerint a döntés mely jogszabályt (jogszabályi rendelkezést) sértette meg és elő kell adni, hogy a kérelmező mely okból tartja a döntést jogszabálysértőnek,
+
+d) hivatkozni kell a kifogásban foglaltakat alátámasztó tényekre, bizonyítékokra, és csatolni kell azt a bizonyítékot, amelynek ez a természetével nem ellentétes.
+
+(4) A kifogásnak a döntés végrehajtására halasztó hatálya van.
+
+[^35]: A VI. Fejezet (24–26/E. §) a 374/2013. (X. 25.) Korm. rendelet 10. §-ával megállapított szöveg.

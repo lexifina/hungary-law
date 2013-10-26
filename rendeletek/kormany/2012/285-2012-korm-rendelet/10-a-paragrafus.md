@@ -1,0 +1,1 @@
+## 10. § Az önerő-támogatás felhasználásának feltételeit önerő-támogatói okiratban kell rögzíteni, amely tartalmazza különösen az önerő-támogatás összegét és folyósításának módját. Az önerő-támogatói okiratot az NFÜ bocsátja ki, a döntés közlésétől számított legfeljebb tizenöt napon belül.

@@ -1,11 +1,27 @@
-## II. Fejezet
+## II. Fejezet[^11]
 
-## AZ ÖNERŐ-TÁMOGATÁS ÁLTALÁNOS SZABÁLYAI
+## AZ ÖNERŐ-TÁMOGATÁS ODAÍTÉLÉSÉNEK RENDJE
 
-## 3. [^6] Az önerő-támogatások kérelmezésének, döntéshozatalának közös szabályai
+## 3. Az önerő-támogatásra való jogosultság feltételei
 
-3. § (1) A közszféra szervezet önerő-támogatást igényelhet, ha korábban, a Rendelet hatálya alá tartozó eljárás során az önerő rendelkezésére állásáról nyilatkozott, de az önerőt neki fel nem róható okból nem vagy csak részben tudja biztosítani.
+3. § (1) Önerő-támogatást közszféra szervezet igényelhet. Önerő-támogatásra a közszféra-szervezet akkor jogosult, ha
 
-(2) Az önerő-támogatásokra vonatkozó közös szabályokat a rendelet 3–8. §-a, valamint 11. és 12. §-a, 14. és 15. §-a, 18–19. §-a valamint a 21–28. §-a szabályozza. A visszatérítendő önerő-támogatások esetében alkalmazandó további szabályok vonatkozásában a rendelet 9. §-ában, valamint a 13. §-ában és 16–17. §-ában, illetve a 20. §-ában, míg a vissza nem térítendő önerő-támogatások esetében a rendelet 10. §-ában foglaltak irányadók.
+a) korábban, a Rendelet hatálya alá tartozó eljárás során az önerő rendelkezésére állásáról nyilatkozott, de az önerőt nem vagy csak részben tudja biztosítani,
 
-[^6]: A 3. alcím címe a 42/2013. (II. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+b) a Rendelet hatálya alá tartozó támogatással megvalósuló projekthez igényli az önerő-támogatást és a projektre vonatkozóan rendelkezik hatályos támogatói okirattal,
+
+c) nem áll csőd-, felszámolási, végelszámolási, illetve kényszertörlési eljárás hatálya alatt,
+
+d) nincs az államháztartásról szóló 2011. évi CXCV. törvény 50. § (3) bekezdése szerinti köztartozása, valamint
+
+e) önerő-támogatásban történő részesítését
+
+ea) gazdasági, költségvetési helyzete, vagy
+
+eb) a projekt megvalósításához fűződő nemzetstratégiai érdek,
+
+## indokolja.
+
+(2) Nem részesíthető e rendelet szerinti önerő-támogatásban ivóvízminőség-javításra irányuló projekt tekintetében sem helyi önkormányzat, sem helyi önkormányzatok társulása.
+
+[^11]: A II. Fejezet (3–10/A. §) a 374/2013. (X. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
