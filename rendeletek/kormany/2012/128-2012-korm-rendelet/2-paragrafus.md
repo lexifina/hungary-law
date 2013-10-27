@@ -1,10 +1,10 @@
-## II. Fejezet[^4]
+## II. Fejezet[^9]
 
 ## A MEGVÉTELRE FELAJÁNLOTT LAKÓINGATLAN MEGVÁSÁRLÁSÁNAK SZABÁLYAI
 
 ## 2. A szociális rászorultság feltételei és a szociális rászorultság igazolásának módja
 
-2. §[^5] (1) A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant abban az esetben vásárolja meg, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója a háztartásban legalább egy gyermeket nevel, akire tekintettel a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő házastársa vagy élettársa családi pótlékra jogosult, és
+2. §[^10] (1)[^11] A Nemzeti Eszközkezelő a megvételre felajánlott lakóingatlant abban az esetben vásárolja meg, ha a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója a háztartásban legalább egy gyermeket nevel, akire tekintettel a hiteladós, a zálogkötelezett vagy a vele egy háztartásban élő hozzátartozója családi pótlékra jogosult, és
 
 a) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján aktív korúak ellátására jogosult vagy lakásfenntartási támogatásban részesül
 
@@ -28,11 +28,13 @@ ac) a közfoglalkoztatásról a szándéknyilatkozat benyújtásának időpontj�
 
 b) a (2) bekezdésben meghatározott esetben az ápolási díjra való jogosultságról a lakóingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának a szándéknyilatkozat benyújtásának időpontjánál harminc nappal nem régebben kiállított igazolását;
 
-c) a (3) bekezdésben meghatározott esetekben az ellátást megállapító határozatot, vagy az ellátás évenkénti rendszeres emeléséről szóló értesítést vagy a folyósított ellátás törzsszámáról szóló igazolást, valamint
+c)[^12] a (3) bekezdésben meghatározott esetekben az ellátást megállapító határozatot, vagy az ellátás évenkénti rendszeres emeléséről szóló értesítést, valamint
 
 ca) postai úton történő kifizetés esetén az ellátás átvételét igazoló, a szándéknyilatkozat benyújtásának időpontjánál 30 napnál nem régebbi szelvényt vagy
 
 cb) pénzforgalmi szolgáltatónál vezetett számlára átutalással történő kifizetés esetén az ellátás jóváírását is igazoló, a szándéknyilatkozat benyújtásának időpontjánál 30 napnál nem régebbi számlakivonatot.
 
-[^4]: A II. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^5]: A 2. § a 130/2013. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A II. Fejezet megjelölését és címét a 431/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 2. § a 130/2013. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 2. § (1) bekezdés nyitó szövegrésze a 368/2013. (X. 24.) 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 2. § (4) bekezdés c) pontja a 368/2013. (X. 24.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
