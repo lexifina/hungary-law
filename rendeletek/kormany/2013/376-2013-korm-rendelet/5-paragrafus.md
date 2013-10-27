@@ -1,1 +1,0 @@
-## 4. § Hatályát veszti az M3 autópálya és a 36. számú főút közötti „Nyugati elkerülő út” beruházás megvalósításával és használatbavételével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 141/2013. (V. 13.) Korm. rendelet.
