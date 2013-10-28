@@ -34,7 +34,7 @@
 
 ## 5) A hexán és az etil-metil-keton együttes használata tilos.
 
-15. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^42]
+15. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^43]
 
 ## A Magyar Élelmiszerkönyv 1-3-76/621 számú előírása az étolajokban, zsírokban, valamint hozzáadott étolajat és zsírt tartalmazó élelmiszerekben megengedett erukasav-tartalomról
 
@@ -50,4 +50,4 @@ b) azokra az élelmiszerekre, amelyek 5%-ban vagy ezt meghaladó mennyiségben h
 
 3. Az erukasav tartalom meghatározására szolgáló vizsgálati módszereket a Magyar Élelmiszerkönyv 3-1-80/891 számú előírása tartalmazza.
 
-[^42]: A 15. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^43]: A 15. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.

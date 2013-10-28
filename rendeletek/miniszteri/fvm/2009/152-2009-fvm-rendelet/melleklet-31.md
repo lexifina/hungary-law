@@ -1,4 +1,4 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^58]
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^59]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -324,6 +324,4 @@ Meghatározzuk a vizsgált minta törésmutatóját 20 °C hőmérsékleten, és
 
 Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények között, egy időben vagy közvetlenül egymás után végzett két meghatározás eredménye közötti különbség 100 g mintára vonatkoztatva 0,2 g-nál nagyobb nem lehet.
 
-Törésmutató-cukortartalom táblázat 20 °C-on
-
-[^58]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^59]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.

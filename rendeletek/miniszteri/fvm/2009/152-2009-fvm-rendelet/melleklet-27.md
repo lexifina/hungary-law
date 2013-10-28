@@ -632,6 +632,6 @@
 
 ## (+++) Ha megfelelő kísérlettel bizonyítható, hogy nincs érintkezés a zsír és a műanyag között a „D” modellanyaggal a vizsgálatot nem kell elvégezni.
 
-27. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^54]
+27. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^55]
 
-[^54]: A 27. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 77/2011. (VIII. 3.) VM rendelet 3. § c) pontja.
+[^55]: A 27. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 77/2011. (VIII. 3.) VM rendelet 3. § c) pontja.
