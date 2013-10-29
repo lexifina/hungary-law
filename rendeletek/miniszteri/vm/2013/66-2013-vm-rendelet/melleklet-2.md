@@ -1,30 +1,28 @@
-## A TÁMOGATHATÓ KÖZJÓLÉTI LÉTESÍTMÉNYEK KÖVETELMÉNYEI
+## A támogatható közjóléti létesítmények követelményei
 
 |  | A | B | C | D | E | F | G | H |
 
 | 1. |  |  | Erdei kirándulóhely | Erdei pihenőhely | Erdei tanösvény | „A” típusú erdei kilátó | „B” típusú erdei kilátó | „C” típusú erdei kilátó |
 
-| 2. | Tervezési egység |
+| 2. |  | Berendezések pontszáma pont/db |  |  | minimum 8 tájékoztató táblával ellátott, legalább 1000 méter hosszú tanösvény nyomvonal |  |  |  |
 
-| 3. |  | Berendezések pontszáma pont/db | 1–2 hektár | 0,01–0,3 hektár | minimum 8 tájékoztató táblával ellátott, legalább 1000 méter hosszú tanösvény nyomvonal | 0,03–0,3 hektár | 0,05–0,5 hektár | 0,07–0,7 hektár |
+| 3. | Kötelező közjóléti berendezései és azok minimális mennyisége létesítményenként: |
 
-| 4. | Kötelező közjóléti berendezései és azok minimális mennyisége létesítményenként: |
+| 4. | erdei bútor garnitúra | 15 | 4 db | 2 db | 2 db | 1 db | 1 db | 2 db |
 
-| 5. | erdei bútor garnitúra | 15 | 4 db | 2 db | 2 db | 1 db | 1 db | 1 db |
+| 5. | pad | 10 | 4 db | nem támogatott | 2 db | nem támogatott | 2 db | 2 db |
 
-| 6. | pad | 10 | 4 db | nem támogatott | 2 db | nem támogatott | 2 db | 2 db |
+| 6. | védőház | 100 | 1 db | nem támogatott | nem támogatott | nem támogatott | nem támogatott | nem támogatott |
 
-| 7. | védőház | 100 | 1 db | nem támogatott | nem támogatott | nem támogatott | nem támogatott | nem támogatott |
+| 7. | tájékoztató tábla | 25 | 1 db | nem támogatott | 8 db | 1 db | 1 db | 1 db |
 
-| 8. | tájékoztató tábla | 25 | 1 db | nem támogatott | 8 db | 1 db | 1 db | 1 db |
+| 8. | tűzrakóhely | 15 | 2 db | 0 db [az 5. § (5) bekezdése szerinti esetben] | 1 db | 0 db [az 5. § (5) bekezdése szerinti esetben] | nem támogatott | nem támogatott | nem támogatott | nem támogatott |
 
-| 9. | tűzrakóhely | 15 | 2 db | 0 db [az 5. § (5) bekez- dése szerinti esetben] | 1 db | 0 db [az 5. § (5) bekez- dése szerinti esetben] | nem támogatott | nem támogatott | nem támogatott | nem támogatott |
+| 9. | 6–8 méter magas erdei kilátó | 300 | nem támogatott | nem támogatott | nem támogatott | 1 db | nem támogatott | nem támogatott |
 
-| 10. | 6–8 méter magas erdei kilátó | 300 | nem támogatott | nem támogatott | nem támogatott | 1 db | nem támogatott | nem támogatott |
+| 10. | 8,01–11 méter magas erdei kilátó | 350 | nem támogatott | nem támogatott | nem támogatott | nem támogatott | 1 db | nem támogatott |
 
-| 11. | 8,01–11 méter magas erdei kilátó | 350 | nem támogatott | nem támogatott | nem támogatott | nem támogatott | 1 db | nem támogatott |
-
-| 12. | 11,01 m felett | 400 | nem támogatott | nem támogatott | nem támogatott | nem támogatott | nem támogatott | 1 db |
+| 11. | 11,01 m felett | 400 | nem támogatott | nem támogatott | nem támogatott | nem támogatott | nem támogatott | 1 db |
 
 | Létesítményenként adható összpontszám: | 255 | 225 | 45 | 30 | 250 | 340 | 410 | 475 |
 

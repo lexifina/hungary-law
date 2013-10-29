@@ -32,6 +32,8 @@
 
 15. őshonos fafaj: az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatások részletes feltételeiről szóló 124/2009. (IX. 24.) FVM rendelet (a továbbiakban: EKV rendelet) 1. mellékletének erdőgazdasági tájcsoportjai alapján az EKV rendelet 2. melléklet termőhelynek megfelelő célállomány típusaiban meghatározott fafajok;
 
-16. tervezési egység: a Közjóléti Engedélyezési Tervben a közjóléti létesítmény létrehozására tervezett erdőterület vagy a Közjóléti Engedélyezési Tervben a közjóléti létesítmény létrehozására tervezett az Evt. 13. § (1) bekezdés a) pont aa)–ad), af) alpontjai, c) pontja vagy d) pontja szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület.
+16.[^1] tervezési egység: a Közjóléti Engedélyezési Tervben a közjóléti létesítmény létrehozására tervezett, az Evt. 13. § (1) bekezdés a) pont aa)–ad), af) alpontja, c) vagy d) pontja szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület, vagy az a) pont ah) alpontja szerinti nyiladék.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés 16. pontja a 99/2013. (X. 28.) VM rendelet 4. §-ával megállapított szöveg.

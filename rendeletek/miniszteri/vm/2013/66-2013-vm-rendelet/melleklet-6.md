@@ -18,7 +18,7 @@
 
 | 8. | „C” típusú erdei kilátó építése | 10 |
 
-| 9. | Az erdőrészlet belterületen helyezkedik el | 10 |
+| 9. | Az erdőrészlet, vagy az Evt. 13. § (1) bekezdés a) pont aa)–ad), af) alpontja, c) pontja vagy d) pontja szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület, vagy az a) pont ah) alpontja szerinti nyiladék belterületen helyezkedik el. | 10 |
 
 | 10. | Az erdőrészlet elsődleges rendeltetése | Közjóléti vagy az erdő elsődleges rendeltetése természetvédelmi és további rendeltetési közjóléti | 5 |
 

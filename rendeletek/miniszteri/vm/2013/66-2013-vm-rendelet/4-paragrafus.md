@@ -2,7 +2,7 @@
 
 4. § (1) Közjóléti létesítmény létrehozása kizárólag akkor támogatható, ha
 
-a) az az Adattárban nyilvántartott erdőrészlet területén, vagy az Evt. 13. § (1) bekezdés a) pont aa)–ad), af) alpontjai, c) pontja vagy d) pontja szerinti, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen valósul meg,
+a) az az Adattárban nyilvántartott erdőrészlet területén, vagy az Evt. 13. § (1) bekezdés a)[^2] pont aa)–ad), af) alpontja, c) vagy d) pontja szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen, vagy az a) pont ah) alpontja szerinti nyiladékon valósul meg.
 
 b) vágásos üzemmódú erdőállomány területén megvalósuló tervezési egység esetében az erdőrészlet Adattár szerinti vágásérettségi mutatója legalább 10 év, és
 
@@ -21,3 +21,5 @@ c) a támogatási kérelem benyújtásáig az építésiengedély-köteles léte
 a) a Környezet és Energia Operatív Program KEOP – 3.1.2 kódszámú „Élőhelyvédelem, és – helyreállítás, élettelen természeti értékek védelme, vonalas létesítmények természetkárosító hatásának mérséklése” pályázat, vagy
 
 b) a Közép-Magyarországi Operatív Program KMOP – 2007-3.2.1/A kódszámú „Élőhelyek és élettelen természeti értékek megőrzését, helyreállítását szolgáló beruházások” pályázat támogatási konstrukció keretében ugyanazon berendezés létesítésére már támogatást nyert.
+
+[^2]: A 4. § (1) bekezdés a) pontja a 99/2013. (X. 28.) Vm rendelet 5. §-ával megállapított szöveg.
