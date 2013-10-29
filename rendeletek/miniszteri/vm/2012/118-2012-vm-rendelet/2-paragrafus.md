@@ -46,7 +46,7 @@
 
 22. az Európai Mezőgazdasági Vidékfejlesztési Alapból a vidéki örökség megőrzéséhez LEADER Helyi Akciócsoportok közreműködésével 2012-től igénybe vehető támogatások részletes feltételeiről szóló 103/2012. (X. 1.) VM rendelet alapján meghirdetett támogatási jogcím;
 
-23.[^1] az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2013-ban nyújtandó támogatások részletes feltételeiről szóló 35/2013. (V. 22.) VM rendelet alapján meghirdetett támogatási jogcím.
+23.[^2] az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2013-ban nyújtandó támogatások részletes feltételeiről szóló 35/2013. (V. 22.) VM rendelet alapján meghirdetett támogatási jogcím.
 
 (2) Az (1) bekezdés szerinti intézkedések keretében az Irányító Hatóság közleményben határozza meg azokat a támogatási kérelem benyújtási időszakokat, amelyek vonatkozásában az ügyfél előleget igényelhet.
 
@@ -58,4 +58,4 @@
 
 (6) Az ügyfél által igényelt támogatási előleg mértéke a támogatási határozattal jóváhagyott támogatási összeg legfeljebb 30%-a lehet.
 
-[^1]: A 2. § (1) bekezdés 23. pontját a 65/2013. (VII. 29.) VM rendelet 17. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés 23. pontját a 65/2013. (VII. 29.) VM rendelet 17. §-a iktatta be.
