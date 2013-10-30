@@ -8,10 +8,10 @@ b)[^8] vágósertésre vonatkozóan éves átlagban hetente legfeljebb 200 darab
 
 (3) Az (1) bekezdés szerinti minősítési kötelezettség, illetve a 4. § (1) bekezdése szerinti minősítő hely üzemeltetési kötelezettség nem vonatkozik az olyan vágóhidakra, amelyek csak saját tenyésztelepeiken született és hizlalt sertéseket vágnak és az azokból nyert összes hasított testet fel is darabolják.
 
-(4)[^9] A (2) bekezdés szerinti felmentést kapott vágóhíd üzemeltetőjének a felvásárolt és a levágott állatokról negyedévenként jelentést kell adnia a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) Szabályzatban megadott adattartalommal az MgSzH részére. Az MgSzH a honlapján közzéteszi a minősítésre kötelezett és a minősítésre nem kötelezett vágóhidak listáját.
+(4)[^9] A (2) bekezdés b) pontjában és a (3) bekezdésben foglaltak alapján felmentést kapott vágóhíd üzemeltetőjének a vágási nap végén elektronikusan meg kell küldenie a felvásárolt és a levágott állatok Egységes Nyilvántartási és Azonosítási Rendszer (a továbbiakban: ENAR) szerinti adatait és a vágási adatokat a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) vágóhídi kliens programjából a NÉBIH központi adatbázisába. A vágóhíd üzemeltetője e bekezdés szerinti adatokat köteles a vágást követő hat hónapig megőrizni. A NÉBIH a honlapján közzéteszi a minősítésre kötelezett és a minősítésre nem kötelezett vágóhidak listáját.
 
 [^5]: A 2. § a 119/2009. (IX. 10.) FVM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (1) bekezdése a 28/2010. (XI. 9.) VM rendelet 2. § (3) bekezdésével megállapított, és a 134/2011. (XII. 22.) VM rendelet 5. §-a szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdése a 28/2010. (XI. 9.) VM rendelet 2. § (3) bekezdésével megállapított, és a 134/2011. (XII. 22.) VM rendelet 6. § (1) bekezdése szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdés b) pontja a 134/2011. (XII. 22.) VM rendelet 5. §-a szerint módosított szöveg.
-[^9]: A 2. § (4) bekezdése a 134/2011. (XII. 22.) VM rendelet 6. § (2)–(3) bekezdése szerint módosított szöveg.
+[^9]: A 2. § (4) bekezdése a 80/2013. (IX. 13.) VM rendelet 1. §-ával megállapított szöveg.

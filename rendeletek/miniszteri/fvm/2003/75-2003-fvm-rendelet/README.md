@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-75-20-8
 | 2010-11-17 | 2003-75-20-82.7 | 28/2010. (XI. 9.) VM rendelet |
 | 2012-01-01 | 2003-75-20-82.8 | 132/2007. (XI. 8.) FVM rendelet |
 | 2012-02-01 | 2003-75-20-82.9 | 148/2011. (XII. 29.) VM rendelet |
+| 2013-10-30 | 2003-75-20-82.10 | 80/2013. (IX. 13.) VM rendelet |
