@@ -22,10 +22,14 @@ j) a konzuli díj megfizetése és a konzuli kölcsön visszafizetése alóli me
 
 k) a külföldi állam Magyarországra akkreditált diplomáciai vagy hivatásos konzuli képviseletének tagja, valamint a kiküldetés ideje alatt vele egy háztartásban élő közeli hozzátartozó részére teljesített miniszteri felülhitelesítés, viszonosság fennállása esetén;
 
-l) az az eljárás, melynek konzuli díj alóli mentességét jogszabály vagy nemzetközi szerződés írja elő.
+l) az az eljárás, melynek konzuli díj alóli mentességét jogszabály vagy nemzetközi szerződés írja elő;
+
+m)[^15] a konzulnak a hazai anyakönyvezési eljárásban teljesített közreműködői tevékenysége.
 
 (2) A költségátalány jellegű konzuli díjak kivételével mentes a konzuli díj megfizetése alól az a konzulnál tett nyilatkozat, beleegyezés vagy hozzájárulás, amely
 
 a) a hazai hatóságnál indított vagy ott indítani kívánt eljárásban a kérelem elbírálásához szükséges, azokban a hatósági ügyekben, amelyekben a konzul közreműködőként járhat el;
 
 b) a már megtett apai elismerő nyilatkozat teljes hatályúvá válásához szükséges.
+
+[^15]: A 14. § (1) bekezdés m) pontját a 4/2013. (X. 30.) KüM rendelet 1. §-a iktatta be.

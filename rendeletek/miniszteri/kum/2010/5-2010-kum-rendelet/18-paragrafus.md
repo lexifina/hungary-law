@@ -2,7 +2,7 @@
 
 ## 5. A konzuli költség beszedésére vonatkozó szabályok
 
-18. §[^13] (1) A konzuli költséget belföldön forintban, külföldön euróban kell megfizetni.
+18. §[^16] (1) A konzuli költséget belföldön forintban, külföldön euróban kell megfizetni.
 
 (2) A konzuli költségek az (1) bekezdésben meghatározottól eltérő más konvertibilis valutában vagy a kérelem előterjesztésének helye szerinti állam törvényes fizetőeszközében is teljesíthetők, ha a miniszter – a fogadó állam sajátos viszonyaira tekintettel – a külképviselet részére a konzuli költségek e fizetőeszközben való beszedését engedélyezte. A külképviselet erről az ügyfelet tájékoztatja.
 
@@ -12,4 +12,4 @@
 
 (5) A (4) bekezdés szerint megállapított konzuli költségeket a következő hónap első munkanapjától kell alkalmazni.
 
-[^13]: A 18. § a 22. § (2) bekezdése alapján 2011. február 1-jén lép hatályba.
+[^16]: A 18. § a 22. § (2) bekezdése alapján 2011. február 1-jén lép hatályba.

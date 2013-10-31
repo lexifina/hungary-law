@@ -10,7 +10,7 @@
 
 (5) E rendelet rendelkezéseit a hatálybalépésüket követően indított eljárásokban kell alkalmazni.
 
-Melléklet az 5/2010. (XII. 31.) KüM rendelethez[^17]
+Melléklet az 5/2010. (XII. 31.) KüM rendelethez[^20]
 
 Konzuli díjak
 
@@ -30,7 +30,7 @@ Konzuli díjak
 
 | 4. | Hivatásos konzul közreműködői díja (eljárásonként) |  |
 
-|  | a) a Magyar Köztársasággal szomszédos országban | 20 EUR |
+|  | a) a Magyarországgal szomszédos országban | 20 EUR |
 
 |  | b) más európai országban | 40 EUR |
 
@@ -108,4 +108,4 @@ Konzuli díjak
 
 |  | e) nem a külképviselet székhelye szerinti államba történő szállításnál Európán kívül | 40 EUR |
 
-[^17]: A melléklet a 22. § (2) bekezdése alapján 2011. február 1-jén lép hatályba.
+[^20]: A Melléklet a 4/2013. (X. 30.) KüM rendelet 2. § b) pontja szerint módosított szöveg.
