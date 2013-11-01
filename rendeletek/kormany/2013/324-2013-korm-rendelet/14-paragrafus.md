@@ -1,0 +1,1 @@
+## 13. § A közművezeték üzemeltető az e rendelet hatálybalépésekor a nyilvántartásában digitálisan meg nem lévő adatokat digitálisan az e-közmű részére a 6. § (1) bekezdése szerinti műszaki követelményekkel és metaadatokkal, az 5. melléklet 1., 4. és 5. pontjának megfelelően 2017. január 1-jétől köteles naprakészen szolgáltatni.

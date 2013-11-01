@@ -1,0 +1,1 @@
+## 11. § A közművezeték üzemeltető a közművezetékekre vonatkozó nyilvántartásában meglévő, EOV-ban vezetett digitális adatokat az e-közmű részére a 6. § (1) bekezdése szerinti műszaki követelményekkel és metaadatokkal, az 5. melléklet 1. és 2. pontjának megfelelően 2014. január 1-jétől köteles naprakészen szolgáltatni.

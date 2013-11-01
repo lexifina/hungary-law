@@ -1,0 +1,1 @@
+## 7. § A közművezeték üzemeltető minden év március 31-ig az e-közműt üzemeltető szervezet részére megküldi az általa üzemeltetett hálózat által lefedett települések listáját, valamint adatokat szolgáltat ügyfélszolgálata és közműegyeztetésben hatáskörrel rendelkező munkatársa címéről és elérhetőségéről.
