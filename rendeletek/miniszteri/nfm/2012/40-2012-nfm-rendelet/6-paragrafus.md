@@ -1,37 +1,37 @@
 ## 3. A közlekedési infrastruktúrával összefüggő egyes állami feladatok és a végrehajtásukhoz szükséges források felhasználásnak szabályai
 
-## 6. § A 4. § szerinti bevételek a működési kiadások körében felhasználhatók:
+## 6. §[^1] A 4. § szerinti bevételek a működési kiadások körében felhasználhatók:
 
-a) a gyorsforgalmi utak nélküli országos közúthálózattal kapcsolatos – az üzemeltetési, karbantartási és útügyi műszaki-gazdasági szolgáltatások ellátásából adódó – közútkezelői kötelezettségek finanszírozására;
+a) a koncessziós szerződés keretében üzemeltetett közutak kivételével az országos közúthálózattal kapcsolatos
 
-b) a gyorsforgalmi utak nélküli országos közúthálózattal kapcsolatos programszerű, egyéb karbantartási feladatok ellátására;
+aa) üzemeltetési, karbantartási és útügyi műszaki-gazdasági szolgáltatások ellátásából adódó közútkezelői kötelezettségek finanszírozására,
 
-c) a koncessziós szerződés keretében üzemeltetett utak nélküli gyorsforgalmi utakkal kapcsolatos – az üzemeltetési, karbantartási és útügyi műszaki-gazdasági szolgáltatások ellátásából adódó – közútkezelői kötelezettségek finanszírozására;
+ab) programszerű, egyéb karbantartási feladatok ellátására;
 
-d) a koncessziós szerződés keretében üzemeltetett utak nélküli gyorsforgalmi utakkal kapcsolatos programszerű, egyéb karbantartási feladatok ellátására;
+b) az országos közúthálózattal kapcsolatos egyéb üzemeltetési feladatok ellátására és költségek viselésére, ideértve
 
-e) az országos közúthálózattal kapcsolatos egyéb üzemeltetési feladatok ellátására és költségek viselésére, ideértve
+ba) a hálózati adatfelvételi feladatokat,
 
-ea) a hálózati adatfelvételi feladatokat;
+bb) a műszaki szabályozási feladatokat,
 
-eb) a műszaki szabályozási feladatokat;
+bc) a hálózati adatfelvételi, műszaki szabályozási feladatok lebonyolítási, valamint az egyéb működési lebonyolítási feladatokat,
 
-ec) a hálózati adatfelvételi, műszaki szabályozási feladatok lebonyolítási, valamint az egyéb működési lebonyolítási feladatokat;
+bd) a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzését,
 
-ed) a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzését;
+be) az üzemeltetési, karbantartási és felújítási tevékenységekkel kapcsolatos egyéb feladatokat, különösen a KKK-nak az országos közúthálózattal összefüggő műszaki ellenőrzési, szakmai tevékenységéhez kapcsolódó, illetve jogszabályban előírt szakértői feladatok ellátását, továbbá a tervtanács és a tervzsűri működtetésével kapcsolatos költségeket,
 
-ee) az üzemeltetési, karbantartási és felújítási tevékenységekkel kapcsolatos egyéb feladatokat, különösen a KKK-nak az országos közúthálózattal összefüggő műszaki ellenőrzési, szakmai tevékenységéhez kapcsolódó, illetve jogszabályban előírt szakértői feladatok ellátását, továbbá a tervtanács és a tervzsűri működtetésével kapcsolatos költségeket;
+bf) a hídvizsgálati és hídmosási feladatokat,
 
-ef) a hídvizsgálati és hídmosási feladatokat;
+bg) a közlekedéssel összefüggő szakmai kiadványokkal kapcsolatos tevékenységet,
 
-eg) a közlekedéssel összefüggő szakmai kiadványokkal kapcsolatos tevékenységet;
+bh) az országos közúthálózaton végzett fejlesztési tevékenységek ellenőrzését;
 
-eh) az országos közúthálózaton végzett fejlesztési tevékenységek ellenőrzését;
+c) a díjpolitika kialakításával összefüggő kiadások fedezetére;
 
-f) a díjpolitika kialakításával összefüggő kiadások fedezetére;
+d) a szerződést biztosító mellékkötelezettségekkel és a kincstári költségekkel összefüggő kiadások fedezetére;
 
-g) a szerződést biztosító mellékkötelezettségekkel és a kincstári költségekkel összefüggő kiadások fedezetére;
+e) a használati díj és pótdíj beszedésének és a használati jogosultság ellenőrzésének költségeire;
 
-h) a használati díj és pótdíj beszedésének és a használati jogosultság ellenőrzésének költségeire;
+f) a NIF Zrt. működési kiadásainak fedezetére.
 
-i) a NIF Zrt. működési kiadásainak fedezetére.
+[^1]: A 6. § a 65/2013. (X. 31.) NFM rendelet 2. §-ával megállapított szöveg.

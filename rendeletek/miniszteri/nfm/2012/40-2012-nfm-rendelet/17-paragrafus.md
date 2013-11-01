@@ -4,8 +4,8 @@
 
 17. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^1]
+(2)[^8]
 
 (3) A 2012. január 1. előtt az Útpénztár fejezeti kezelésű előirányzat terhére megkötött szerződések alapján 2012. január 1-jét követően az Útpénztár fejezeti kezelésű előirányzattal kapcsolatban vezetett fizetési számlára teljesített befizetéseket a 2. § (2) bekezdésben meghatározott fizetési számlára kell átutalni. Az átutalt összeget a KKK az e rendeletben meghatározott szakmai feladatok ellátására használja fel. Az Útpénztár fejezeti kezelésű előirányzattal kapcsolatban vezetett fizetési számlára 2012. január 1-jét követően érkező befizetéseket és a 2. § (2) bekezdésben meghatározott fizetési számlára történő átutalásokat átfutó bevételként és átfutó kiadásként kell elszámolni.
 
-[^1]: A 17. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 17. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
