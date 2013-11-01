@@ -16,6 +16,6 @@ g) 41. § (3) bekezdés b) pontjában az „a temető használatának” szöveg
 
 h) 41. § (3) bekezdés e) pontjában a „megváltási díját” szövegrész helyébe a „megváltásának és újraváltásának díját” szöveg, a „vállalkozók részéről történő” szövegrész helyébe az „és az üzemeltető által biztosított szolgáltatások”,
 
-i) 41. § (3) bekezdés f) pontjában az „illetőleg” szövegrész helyébe az „a szociális temetés és”
+i)
 
 szöveg lép.

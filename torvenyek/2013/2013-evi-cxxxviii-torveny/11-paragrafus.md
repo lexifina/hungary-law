@@ -10,8 +10,4 @@ a) a vallási közösség tulajdonában lévő temetőben, temetkezési emlékhe
 
 b) a felnőtt hospice-palliatív vagy gyermek palliatív ellátás nyújtására működési engedéllyel rendelkező fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál végzett ravatalozás.”
 
-(3) A Ttv. 25. § (3) bekezdése a következő c) ponttal egészül ki:
-
-(E törvény értelmében nem minősül temetkezési szolgáltatásnak)
-
-„c) a szociális temetés során a hozzátartozó vagy az általa felkért személy által végzett, a 24/A. § (7) bekezdésében felsorolt temetkezési szolgáltatási elemek végzése.”
+(3)
