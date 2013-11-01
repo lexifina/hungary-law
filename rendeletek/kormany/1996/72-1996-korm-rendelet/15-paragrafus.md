@@ -6,6 +6,10 @@
 
 (3) A fennmaradási engedéllyel kapcsolatos kérelem elbírálása során a vízjogi létesítési és üzemeltetési engedélyezési eljárásra vonatkozó rendelkezések megfelelő alkalmazásával kell eljárni azzal, hogy a kérelemhez a tényleges megvalósulási állapotot tartalmazó tervdokumentációt kell csatolni.
 
+(3a)[^74] A víziközmű-vezetékre és az elválasztott rendszerű csapadék-vízelvezető műre fennmaradási engedély csak akkor adható, ha a kérelmező a fennmaradási engedély iránti kérelemhez csatolja az e-közmű adatszolgáltatásra kötelezett üzemeltető igazolását a közművezeték utólagos beméréséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről. A felügyelőség a fennmaradási engedélyt közli a víziközmű és az elválasztott rendszerű csapadék-vízelvezető mű – e-közmű adatszolgáltatásra kötelezett – üzemeltetőjével is.
+
 (4) Az (1) bekezdésben meghatározott kérelemmel kapcsolatos eljárás annak megállapítására irányul, hogy a megvalósított vízilétesítmény, vízimunka – az engedély hiányától eltekintve – mennyiben felel meg a vízjogi létesítési és üzemeltetési engedély kiadására vonatkozó, a Vgtv.-ben és egyéb jogszabályban meghatározott követelményeknek, illetve a hatósági előírásoknak. A vízügyi hatóság a fennmaradási engedély megadását a létesítmény átalakításától vagy meghatározott munkák elvégzésétől teheti függővé.
 
 (5) Amennyiben a fennmaradási engedély megadható, a Vgtv. 29. §-ának (3) bekezdésében meghatározott bírság megfizetéséről a fennmaradásról szóló döntéssel, illetve eljárással egyidejűleg kell rendelkezni.
+
+[^74]: A 15. § (3a) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.

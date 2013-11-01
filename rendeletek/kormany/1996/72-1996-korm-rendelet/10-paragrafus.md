@@ -20,15 +20,15 @@ e) a parti ingatlan tulajdonosának jogszabályban meghatározott jogaira és k�
 
 (4) A megállapított partvonalat a településrendezési tervek elkészítése során is figyelembe kell venni.
 
-(5)[^67] Ha a vízviszonyokba a meder feltöltésével jogellenesen beavatkoztak, a feltöltés fennmaradásáról vagy megszüntetéséről az (1) bekezdésben meghatározott eljárás során kell a partvonal módosításával vagy az eredeti partvonal fenntartásával határozni.
+(5)[^68] Ha a vízviszonyokba a meder feltöltésével jogellenesen beavatkoztak, a feltöltés fennmaradásáról vagy megszüntetéséről az (1) bekezdésben meghatározott eljárás során kell a partvonal módosításával vagy az eredeti partvonal fenntartásával határozni.
 
-(6)[^68] Amennyiben a partvonal nem módosítható, az eredeti állapot helyreállításához szükséges intézkedésekről – jogszabály eltérő rendelkezése hiányában – a határozatban külön rendelkezni kell.
+(6)[^69] Amennyiben a partvonal nem módosítható, az eredeti állapot helyreállításához szükséges intézkedésekről – jogszabály eltérő rendelkezése hiányában – a határozatban külön rendelkezni kell.
 
-(7)[^69] A partvonal módosítására irányuló kérelemhez – ideértve a jogellenesen megvalósított mederfeltöltés fennmaradására irányuló kérelmet is – a meder tulajdonosának (kezelőjének) hozzájárulását, továbbá az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt kell csatolni. Amennyiben a hozzájárulás hiányzik, a kérelem nem teljesíthető és a partvonal kizárólag hivatalból indított eljárás eredményeként módosítható.
+(7)[^70] A partvonal módosítására irányuló kérelemhez – ideértve a jogellenesen megvalósított mederfeltöltés fennmaradására irányuló kérelmet is – a meder tulajdonosának (kezelőjének) hozzájárulását, továbbá az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt kell csatolni. Amennyiben a hozzájárulás hiányzik, a kérelem nem teljesíthető és a partvonal kizárólag hivatalból indított eljárás eredményeként módosítható.
 
-(8)[^70] A jogellenes mederfeltöltéssel kapcsolatos ügyekben egyebekben a rendeletnek a hatósági engedély nélkül vagy arról eltérően végzett létesítésre és üzemeltetésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(8)[^71] A jogellenes mederfeltöltéssel kapcsolatos ügyekben egyebekben a rendeletnek a hatósági engedély nélkül vagy arról eltérően végzett létesítésre és üzemeltetésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-[^67]: A 10. § (5) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be.
-[^68]: A 10. § (6) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be, szövege a 10/2000. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^69]: A 10. § (7) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be, szövege a 10/2000. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^70]: A 10. § (8) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be.
+[^68]: A 10. § (5) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be.
+[^69]: A 10. § (6) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be, szövege a 10/2000. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^70]: A 10. § (7) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be, szövege a 10/2000. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^71]: A 10. § (8) bekezdését a 120/1999. (VIII. 6.) Korm. rendelet 13. §-ának (4) bekezdése iktatta be.
