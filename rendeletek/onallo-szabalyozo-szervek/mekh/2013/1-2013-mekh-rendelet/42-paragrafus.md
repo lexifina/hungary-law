@@ -2,10 +2,12 @@
 
 ## AZ ÜZEMI ÁLLAPOTRÓL GÁZTECHNIKAI NORMÁLÁLLAPOTRA TÖRTÉNŐ ÁTSZÁMÍTÁS ÁLTALÁNOS SZABÁLYAI
 
-## 42. § Az átszámításnál a
+## 42. §[^3] Az átszámításnál a
 
-a) szűkítőelemes (mérőperemes) mérők esetében a Magyar Kereskedelmi Engedélyezési Hivatal HE 64/1989. számú hitelesítési előírásában foglaltakat,
+a) szűkítő elemes (mérőperemes) mérők esetében az ISO 5167 szabványban vagy azzal egyenértékű más megoldásban foglaltakat,
 
-b) turbinás, forgódugattyús, valamint örvényleválásos elven működő mérők esetében a Magyar Kereskedelmi Engedélyezési Hivatal HE 75/1992. számú hitelesítési előírásában foglaltakat,
+b) turbinás, forgódugattyús, ultrahangos, valamint örvényleválásos elven működő mérők esetében az EN 12405 szabványban vagy azzal egyenértékű más megoldásban foglaltakat,
 
-c) lemezes (membrános) mérő esetében a Magyar Kereskedelmi Engedélyezési Hivatal HE 2/1996. számú hitelesítési előírásában foglaltakat
+c) lemezes (membrános) mérő esetében a Magyar Kereskedelmi Engedélyezési Hivatal HE 2-1/2006. számú hitelesítési előírásában foglaltakat
+
+[^3]: A 42. § az 5/2013. (X. 16.) MEKH rendelet 2. §-ával megállapított szöveg.
