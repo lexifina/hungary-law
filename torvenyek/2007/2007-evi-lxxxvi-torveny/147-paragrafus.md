@@ -12,22 +12,14 @@ c) a kapcsolt termelésszerkezet-átalakítás támogatása
 
 finanszírozásához szükséges pénzügyi forrásokat.
 
-(2) Az (1) bekezdésben meghatározott pénzeszközöket
+(2) Az (1) bekezdésben meghatározott pénzeszközöket havonta az átviteli rendszerirányítónak fizeti meg
 
-a) a rendszerhasználó részére villamos energiát értékesítő
+a) a rendszerhasználó részére villamos energiát értékesítő egyetemes szolgáltató, villamosenergia-kereskedő és termelői engedélyes a nem lakossági fogyasztó részére közvetlenül értékesített villamos energia mennyiség tekintetében azzal, hogy azokat továbbhárítja a nem lakossági fogyasztó rendszerhasználó felé, valamint
 
-1. egyetemes szolgáltató,
-
-2. kereskedő,
-
-3. termelői engedélyes;
-
-b) a közvetlenül a szervezett villamosenergia-piacról, vagy külföldről villamos energiát vásárló rendszerhasználó
-
-az átviteli rendszerirányítónak havonta megfizeti, és azokat továbbhárítja a rendszerhasználó felé.
+b) a közvetlenül a szervezett villamosenergia-piacról vagy külföldről villamos energiát vásárló, nem lakossági fogyasztó rendszerhasználó.
 
 (3) Az (1) bekezdésben meghatározott célok érdekében az átviteli rendszerirányító által beszedett pénzeszközök nem minősülnek az átviteli rendszerirányító bevételének, és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartoznak bele az általános forgalmi adó alapjába az átviteli rendszerirányító azokat más célra nem fordíthatja és köteles azokat egyéb pénzeszközeitől és egymástól is elkülönítetten kezelni. Az átviteli rendszerirányító köteles az elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként kimutatni.
 
-(4) A (2) bekezdés szerint megfizetett (fizetendő) pénzeszközöket az egyetemes szolgáltató, a kereskedő és a termelői engedélyes köteles a rendszerhasználók részére kiállított számlán külön feltüntetni.
+(4) A (2) bekezdés szerint megfizetett (fizetendő) pénzeszközöket az egyetemes szolgáltató, a kereskedő és a termelői engedélyes köteles a nem lakossági fogyasztó rendszerhasználók részére kiállított számlán külön feltüntetni.
 
 (5) A (2) bekezdés szerint megfizetett (fizetendő), a rendszerhasználó részére kiállított számlán a (4) bekezdésben meghatározott módon külön feltüntetett pénzeszközök nem minősülnek az egyetemes szolgáltató, a kereskedő és a termelői engedélyes bevételének, azokat kötelesek egyéb pénzeszközeiktől és egymástól is elkülönítetten kezelni. Az egyetemes szolgáltató, a kereskedő és a termelői engedélyes köteles ezeket az elkülönítetten kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát az átviteli rendszerirányítóval szembeni kötelezettségként kimutatni.
