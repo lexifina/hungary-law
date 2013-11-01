@@ -14,6 +14,6 @@
 
 (4) A 37. § (2) bekezdése és a 38. § (1) bekezdés d) pontja 2014. január 1-jén lép hatályba.
 
-(5)[^59] A 35. § (3) bekezdése 2014. január 1-jén lép hatályba.
+(5)[^60] A 35. § (3) bekezdése 2014. január 1-jén lép hatályba.
 
-[^59]: A 43. § (5) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^60]: A 43. § (5) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés l) pontja szerint módosított szöveg.

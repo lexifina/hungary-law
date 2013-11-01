@@ -20,7 +20,7 @@ fa) a munkaidő-keretben meghatározott munkaórák számát,
 
 fb) az átlagos napi munkavégzés időtartamát.
 
-(2a)[^52] A munkáltató jogosult a (2) bekezdés e) és f) pontja szerinti adatok tekintetében az egyéni foglalkoztatási megállapodást egyoldalúan módosítani a megállapodásban meghatározott elektronikus felületen keresztül.
+(2a)[^53] A munkáltató jogosult a (2) bekezdés e) és f) pontja szerinti adatok tekintetében az egyéni foglalkoztatási megállapodást egyoldalúan módosítani a megállapodásban meghatározott elektronikus felületen keresztül.
 
 (3) Az egyéni foglalkoztatási megállapodás hatályát veszti, ha
 
@@ -36,4 +36,4 @@ c) az egyéni foglakoztatási megállapodással érintett munkavállaló munkavi
 
 (6) Az egyéni foglalkoztatási megállapodás megszűnésére, felmondására a keretszerződésre megállapított szabályokat alkalmazni kell.
 
-[^52]: A 33. § (2a) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 19. §-a iktatta be.
+[^53]: A 33. § (2a) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 19. §-a iktatta be.

@@ -1,8 +1,8 @@
 ## 47. § A 18. § (2) bekezdésében foglaltakat első alkalommal a 2013. évi fejezeti kezelésű előirányzat tekintetében kell alkalmazni.
 
-48. §[^61] (1) A szociális foglalkoztatás engedélyezéséről és a szociális foglalkoztatási támogatásról szóló 112/2006. (V. 12.) Korm. rendelet, továbbá a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosításáról szóló 335/2013. (IX. 20.) Korm. rendelet (a továbbiakban: Mr1.) hatálybalépésekor[^62] nem munkaviszony vagy megbízási jogviszony, hanem egyéb foglalkoztatásra irányuló jogviszony keretében foglalkoztatott rehabilitációs tanácsadót 2013. október 1-jétől csak munkaviszony vagy megbízási jogviszony keretében lehet foglalkoztatni.
+48. §[^62] (1) A szociális foglalkoztatás engedélyezéséről és a szociális foglalkoztatási támogatásról szóló 112/2006. (V. 12.) Korm. rendelet, továbbá a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosításáról szóló 335/2013. (IX. 20.) Korm. rendelet (a továbbiakban: Mr1.) hatálybalépésekor[^63] nem munkaviszony vagy megbízási jogviszony, hanem egyéb foglalkoztatásra irányuló jogviszony keretében foglalkoztatott rehabilitációs tanácsadót 2013. október 1-jétől csak munkaviszony vagy megbízási jogviszony keretében lehet foglalkoztatni.
 
-(2) Az Mr1. hatálybalépéséig[^63] terjedő időszak tekintetében az Mr1. hatálybalépését megelőző napon hatályos
+(2) Az Mr1. hatálybalépéséig[^64] terjedő időszak tekintetében az Mr1. hatálybalépését megelőző napon hatályos
 
 a) 17. § (3) bekezdés a) és c) pontját, valamint
 
@@ -22,6 +22,6 @@ b) 32. § (2) bekezdés f) pontját első alkalommal a 2014. évre vonatkozó é
 
 (5) A 29. § (1) bekezdésében foglaltaktól eltérően a 2014. évre kiírt pályázaton nyertes munkáltatóval a Hivatal 1 évre köt keretszerződést.
 
-[^61]: A 48. § a 335/2013. (IX. 20.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^62]: A hatálybalépés időpontja 2013. szeptember 23.
+[^62]: A 48. § a 335/2013. (IX. 20.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^63]: A hatálybalépés időpontja 2013. szeptember 23.
+[^64]: A hatálybalépés időpontja 2013. szeptember 23.

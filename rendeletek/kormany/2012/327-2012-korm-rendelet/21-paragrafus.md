@@ -54,10 +54,10 @@ ad) a munkaviszonyt a munkavállaló felmondja vagy azonnali hatállyal felmondj
 
 ae) a munkaviszony a munkavállaló halála miatt szűnik meg;
 
-b)[^36] kötelességszegés miatti jogszerű elbocsátásnak kell tekinteni, ha
+b)[^37] kötelességszegés miatti jogszerű elbocsátásnak kell tekinteni, ha
 
 ba) a munkaviszonyt a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény 78. §-a alapján azonnali hatállyal felmondja vagy
 
 bb) a munkaviszonyt határozott időre, a 33. § szerinti egyéni foglalkoztatási megállapodás időtartamára kötik meg, és az egyéni foglalkoztatási megállapodást a rehabilitációs szakigazgatási szerv a 33. § (5) bekezdése alapján felmondja.
 
-[^36]: A 21. § (7) bekezdés b) pont nyitó szövegrésze a 335/2013. (IX. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^37]: A 21. § (7) bekezdés b) pont nyitó szövegrésze a 335/2013. (IX. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
