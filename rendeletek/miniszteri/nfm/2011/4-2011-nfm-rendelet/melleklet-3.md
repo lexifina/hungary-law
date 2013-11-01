@@ -4,32 +4,46 @@
 
 | 1. | Árszabások | EDF DÉMÁSZ Zrt. | E.ON Energia- szolgáltató Kft. | ELMŰ Nyrt. | ÉMÁSZ Nyrt. |
 
-| 2. | A1 |  |  |  |  |
+| 2. | A1 |
 
-|  | - lakossági felhasználók esetében |  |  |  |  |
+| 3. | - lakossági felhasználók esetében 1320 kWh/év fogyasztásig | 16,35 | 15,44 | 16,20 | 16,02 |
 
-|  | 1320 kWh/év fogyasztásig - lakossági felhasználók esetében | 19,09 | 18,06 | 18,92 | 18,72 |
+| 4. | - lakossági felhasználók esetében az éves fogyasztás 1320 kWh-t meghaladó részére | 17,28 | 17,47 | 17,30 | 17,11 |
 
-|  | az éves fogyasztás 1320 kWh-t meghaladó részére | 20,13 | 20,35 | 20,16 | 19,94 |
+| 5. | - nem lakossági felhasználók esetében | 21,77 | 22,02 | 21,80 | 21,56 |
 
-|  | - nem lakossági felhasználók esetében | 22,28 | 22,53 | 22,31 | 22,07 |
+| 6. | A2 |
 
-| 3. | A2 |  |  |  |  |
+| 7. | - lakossági felhasználók esetében |
 
-|  | - csúcsidőszak | 25,99 | 28,43 | 27,42 | 25,39 |
+| 8. | - csúcsidőszak | 20,27 | 22,22 | 21,42 | 19,79 |
 
-|  | - völgyidőszak | 15,52 | 17,31 | 16,69 | 15,45 |
+| 9. | - völgyidőszak | 11,90 | 13,33 | 12,83 | 11,84 |
 
-| 4. | A3 |  |  |  |  |
+| 10. | - nem lakossági felhasználók esetében |
 
-|  | - csúcsidőszak | 26,25 | 30,82 | 27,42 | 25,39 |
+| 11. | - csúcsidőszak | 25,48 | 27,92 | 26,91 | 24,88 |
 
-|  | - völgyidőszak | 15,69 | 19,58 | 16,69 | 15,45 |
+| 12. | - völgyidőszak | 15,01 | 16,80 | 16,18 | 14,94 |
 
-| 5. | B Alap | 13,19 | 13,58 | 13,24 | 12,80 |
+| 13. | A3 |
 
-| 6. | H | 13,19 | 13,58 | 13,24 | 12,80 |
+| 14. | - csúcsidőszak | 25,69 | 30,26 | 26,86 | 24,83 |
 
-3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^8]
+| 15. | - völgyidőszak | 15,13 | 19,02 | 16,13 | 14,89 |
 
-[^8]: A 3. melléklet a 78/2012. (XII. 22.) NFM rendelet 42. §-ával megállapított szöveg.
+| 16. | B Alap |
+
+| 17. | - lakossági felhasználók esetében | 11,85 | 12,22 | 11,91 | 11,52 |
+
+| 18. | - nem lakossági felhasználók esetében | 12,69 | 13,08 | 12,74 | 12,30 |
+
+| 19. | H |  |  |  |  |
+
+| 20. | - lakossági felhasználók esetében | 11,85 | 12,22 | 11,91 | 11,52 |
+
+| 21. | - nem lakossági felhasználók esetében | 12,69 | 13,08 | 12,74 | 12,30 |
+
+3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^14]
+
+[^14]: A 3. melléklet a 78/2012. (XII. 22.) NFM rendelet 42. §-ával megállapított szöveg.

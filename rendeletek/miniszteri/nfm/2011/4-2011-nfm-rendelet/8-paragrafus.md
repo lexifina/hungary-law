@@ -4,7 +4,7 @@
 
 (2) A piaci alapú villamosenergia-beszerzés szolgáltatónkénti átlagos összehasonlító árát a (3)–(4) bekezdésekben foglaltaknak megfelelően – a 10. § (3) bekezdésében foglaltakra figyelemmel – kell meghatározni.
 
-(3)[^3] A piaci alapú villamosenergia-beszerzés tárgyévi országos összehasonlító ára 17,6 Ft/kWh.
+(3)[^5] A piaci alapú villamosenergia-beszerzés tárgyévi országos összehasonlító ára 15,15 Ft/kWh.
 
 (4) Az egyes egyetemes szolgáltatók piaci alapú villamosenergia-beszerzésének az egyetemes szolgáltatási ár képzésénél figyelembe vehető összehasonlító árát úgy kell számszerűsíteni, hogy a (3) bekezdés szerinti országos összehasonlító árat az egyes egyetemes szolgáltatók tárgyévben érvényesülő fajlagos piaci vásárlási költségeinek az egyetemes szolgáltatók összességének fajlagos, ugyanezen időszakra vonatkozó piaci vásárlási költségétől való eltérésével egyező mértékben kell korrigálni.
 
@@ -20,13 +20,13 @@ b) az egyetemes szolgáltatók által egyetemes szolgáltatás céljára vásár
 
 (7) Ha az egyetemes szolgáltató január 1-jére vonatkozó árváltoztatási javaslatot kíván tenni, akkor azt a megelőző év november 10-ig nyújthatja be a Hivatalnak. A szolgáltató az árváltoztatási javaslatában, a 4. melléklet szerinti képlet alkalmazása során, az árváltoztatással érintett évre általa becsült beszerzési és értékesítési adatokat köteles alapul venni.
 
-(8) A Hivatal a január 1-jére vonatkozó, a VET 143. § (3) bekezdése szerinti javaslatát a megelőző év november 30-ig teszi meg.
+(8)[^6]
 
-(9)[^4] Ha az egyetemes szolgáltató által alkalmazott értékesítési árak szerinti éves átlagos egyetemes szolgáltatási ár és az elismert éves villamosenergia-beszerzési átlagár alapján számított fajlagos kereskedelmi árrés tárgyévi átlagos értéke eltér a (6) bekezdés szerinti értéktől, akkor a Hivatal az eltérésnek megfelelő, általa határozatban megállapított összeget is figyelembe veszi az értékesítési árakra vonatkozó, a VET 143. § (3) bekezdése szerinti javaslatainak elkészítése során.
+(9)[^7] Ha az egyetemes szolgáltató által alkalmazott értékesítési árak szerinti éves átlagos egyetemes szolgáltatási ár és az elismert éves villamosenergia-beszerzési átlagár alapján számított fajlagos kereskedelmi árrés tárgyévi átlagos értéke eltér a (6) bekezdés szerinti értéktől, akkor a Hivatal az eltérésnek megfelelő, általa határozatban megállapított összeget is figyelembe veszi az értékesítési árakra vonatkozó, a VET 143. § (3) bekezdése szerinti javaslatainak elkészítése során.
 
-(10) Ha az egyetemes szolgáltató július 1-re vonatkozó árváltoztatási javaslatot kíván tenni, akkor azt május 10-ig nyújthatja be a Hivatalnak. A szolgáltató az árváltoztatási javaslatában, a 4. melléklet szerinti képlet alkalmazása során, az adott évre általa becsült beszerzési és értékesítési adatokat köteles alapul venni.
+(10)–(11)[^8]
 
-(11) A Hivatal a július 1-jére vonatkozó, a VET 143. § (3) bekezdése szerinti javaslatát május 31-ig teszi meg.
-
-[^3]: A 8. § (3) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 8. § (9) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 8. § (3) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (1) bekezdésével megállapított, a 64/2013. (X. 30.) NFM rendelet 12. § c) pontja szerint módosított szöveg.
+[^6]: A 8. § (8) bekezdését a 64/2013. (X. 30.) NFM rendelet 13. §-a hatályon kívül helyezte.
+[^7]: A 8. § (9) bekezdése a 83/2011. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 8. § (10)–(11) bekezdését a 64/2013. (X. 30.) NFM rendelet 13. §-a hatályon kívül helyezte.

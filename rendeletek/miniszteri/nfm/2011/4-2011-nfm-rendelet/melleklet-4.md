@@ -12,7 +12,7 @@
 
 | 5. | ÉMÁSZ Nyrt. | 1,316 |
 
-4. melléklet a 4/2011. (I. 31.) NFM rendelethez
+4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^15]
 
 ## Az egyetemes szolgáltatási ár képzésére vonatkozó általános szabályok
 
@@ -74,6 +74,8 @@ VIFTi: az idősoros elszámolású felhasználóknál a menetrendtől felfelé t
 
 VILTi: az idősoros elszámolású felhasználóknál a menetrendtől lefelé történő eltérésű negyedórák tény fogyasztási mennyiségeinek aggregált értéke az i-edik hónapban (kWh);
 
-M: az egyetemes szolgáltatás 8. § (7) bekezdés szerinti (átlagos) kereskedelmi árrése az adott egyetemes szolgáltató vonatkozásában, Ft/kWh;
+M: az egyetemes szolgáltatás 8. § (6) bekezdés szerinti (átlagos) kereskedelmi árrése az adott egyetemes szolgáltató vonatkozásában, Ft/kWh;
 
 D: a 8. § (9) bekezdése szerinti eltérésnek megfelelő összeg; Ft.
+
+[^15]: A 4. melléklet a 64/2013. (X. 30.) NFM rendelet 12. § d) pontja szerint módosított szöveg.

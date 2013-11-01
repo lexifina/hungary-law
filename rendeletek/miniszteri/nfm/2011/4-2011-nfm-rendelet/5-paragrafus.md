@@ -1,4 +1,4 @@
-5. § (1) A „B” árszabás szerint számolható el a felhasználó által meghatározott bármely, szakaszosan is biztonságosan üzemeltethető, külön mért – az elosztó vezérlőberendezésével vezérelt felhasználói áramkörre állandó jelleggel, megfelelő segédeszköz hiányában állagsérelem nélkül nem leválasztható módon, nem dugaszolhatóan csatlakoztatott – felhasználói berendezés fogyasztása.
+5. § (1)[^3] A „B” árszabás szerint számolható el – közvilágítási célra vételező felhasználó kivételével – a felhasználó által meghatározott bármely, szakaszosan is biztonságosan üzemeltethető, külön mért – az elosztó vezérlőberendezésével vezérelt felhasználói áramkörre állandó jelleggel, megfelelő segédeszköz hiányában állagsérelem nélkül nem leválasztható módon, nem dugaszolhatóan csatlakoztatott – felhasználói berendezés fogyasztása.
 
 (2) Az egyetemes szolgáltató – tekintettel a (3) bekezdésben foglaltakra is – többféle „B” árszabást is alkalmazhat.
 
@@ -13,3 +13,5 @@ b) a fűtési idényen kívül – a felhasználó és az egyetemes szolgáltat�
 (5) Az egyetemes szolgáltató legalacsonyabb „B” árszabású ára (a továbbiakban: „B Alap” árszabás) nem haladhatja meg az „A1” árszabáshoz tartozó legmagasabb ár 70%-át.
 
 (6) Az egyetemes szolgáltató „H” árszabásának ára nem haladhatja meg a „B Alap” árszabásához tartozó árat.
+
+[^3]: Az 5. § (1) bekezdése a 64/2013. (X. 30.) NFM rendelet 12. § a) pontja szerint módosított szöveg.

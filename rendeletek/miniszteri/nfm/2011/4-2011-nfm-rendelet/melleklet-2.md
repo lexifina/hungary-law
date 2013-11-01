@@ -1,3 +1,3 @@
-2. melléklet a 4/2011. (I. 31.) NFM rendelethez[^7]
+2. melléklet a 4/2011. (I. 31.) NFM rendelethez[^13]
 
-[^7]: A 2. melléklet a 78/2012. (XII. 22.) NFM rendelet 41. §-ával megállapított szöveg.
+[^13]: A 2. melléklet a 64/2013. (X. 30.) NFM rendelet 11. § (3) bekezdésével megállapított szöveg.
