@@ -1,0 +1,3 @@
+## 17. § A villamos energia rendszerhasználati díjak megállapításának és alkalmazásának szabályairól szóló 64/2011. (XI. 30.) NFM rendelet 5. §-a helyébe a következő rendelkezés lép:
+
+## „5. § Az elosztási díj nyújt fedezetet – figyelembe véve a VET 142/A. § (2) bekezdése szerinti kiegyenlítő fizetéseket is – az elosztók (elosztó hálózat) indokolt működési költségeire, értékcsökkenésére és tőkeköltségére, az elosztó hálózaton elismert hálózati veszteség pótlásához szükséges villamos energia beszerzésének és az elismert hálózati veszteséggel kapcsolatban fizetendő átviteli-rendszerirányítási és rendszerszintű szolgáltatási díjak megfizetésének, valamint a profiltól való eltérés kiegyenlítésének indokolt költségeire.”
