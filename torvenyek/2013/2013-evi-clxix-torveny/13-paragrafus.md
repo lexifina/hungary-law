@@ -1,0 +1,3 @@
+13. § A Tfvt. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A termőföld más célú hasznosítására kiadott engedély – annak jogerőre emelkedésének napját követő naptól számított – 4 évig hatályos. Ha a termőföld más célú hasznosítására kiadott engedély időbeli hatálya alatt az engedély szerinti hasznosítás megkezdésére nem kerül sor, az engedély hatályát veszti. Az engedély jogosultjának kérelmére hatályon kívül kell helyezni az engedélyt, ha az engedély jogosultja arról nyilatkozik, hogy az engedélyben foglalt jogosultságáról lemond, feltéve, ha a termőföld engedélyezett más célú hasznosítását nem kezdte meg.”

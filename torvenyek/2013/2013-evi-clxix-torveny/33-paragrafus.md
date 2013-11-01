@@ -1,0 +1,3 @@
+33. § A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A borszőlő termőhelyi kataszterbe sorolt területeken gyümölcsös – a csemegeszőlő-telepítést kivéve –, erdő telepítése, halastó és nádas létesítése, valamint a termőföld más célú hasznosítása csak az illetékes hegyközség hozzájárulásával lehetséges. Erdő telepítéséhez 0,5 ha-nál nem kisebb területen, az ingatlan határától legalább 10 méteres védősáv megtartásával, gyümölcsös telepítéséhez 0,5 ha-nál nem kisebb területen, az ingatlan határától legalább 5 m-es védősáv megtartásával adható hozzájárulás.”

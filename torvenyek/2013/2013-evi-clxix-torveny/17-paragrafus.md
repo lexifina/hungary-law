@@ -1,0 +1,17 @@
+17. § A Tfvt. a következő 15/B. §-sal és azt megelőzően a következő alcímmel egészül ki:
+
+„Cél-kitermelőhely és a külfejtéses bányászati tevékenység végzéséhez szükséges termőföld végleges más célú hasznosításának engedélyezésére vonatkozó külön szabályok
+
+15/B. § (1) A cél-kitermelőhely létesítéséhez és a külfejtéses bányászati tevékenység végzéséhez (a továbbiakban együtt: cél-kitermelőhely) szükséges termőföld más célú hasznosításának engedélyezése esetén a 9–13. §-ban foglaltakat ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+(2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
+
+(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető.
+
+(4) A (3) bekezdésben foglalt feltétel fennállása esetén sem engedélyezhető a termőföld végleges más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.
+
+(5) Ha a végleges más célú hasznosítással érintett területet a jogosult a bányafelügyelet jogerős határozata alapján úgy állítja helyre, hogy ennek eredményeként a végleges más célú hasznosítással érintett terület egésze vagy annak egy része e törvény szerinti újrahasznosítása valósul meg, a jogosult köteles az újrahasznosítást az ingatlanügyi hatóságnak bejelenteni.
+
+(6) Az újrahasznosítás bejelentése esetén az eljárásra a 6/A. § (1)–(3) bekezdésében foglaltakat kell alkalmazni azzal, hogy a 6/A. § (3) bekezdése szerinti fölvédelmi bírság kiszabásának nincs helye.
+
+(7) Az újrahasznosítás elfogadásáról szóló határozatban rendelkezni kell a végleges más célú hasznosításról szóló jogerős döntésben meghatározott és befizetett földvédelmi járulék összege, valamint az újrahasznosított területre az 1. melléklet 1. pontja alapján kiszámított földvédelmi járulék összege különbözetének a jogosult javára történő visszatérítéséről.”
