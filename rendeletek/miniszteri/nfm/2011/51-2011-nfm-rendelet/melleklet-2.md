@@ -1,4 +1,4 @@
-2. melléklet az 51/2011. (IX. 30.) NFM rendelethez[^18]
+2. melléklet az 51/2011. (IX. 30.) NFM rendelethez[^19]
 
 ## Támogatási igénybejelentés
 
@@ -90,4 +90,4 @@ vi: Intézmény által vásárolt vagy termelt kapcsolt hő mennyisége
 
 Ti: Intézmény kapcsolt termelés után kapott támogatásának értéke (Ti = ti*vi)
 
-[^18]: A 2. melléklet az 59/2012. (X. 31.) NFM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. melléklet az 59/2012. (X. 31.) NFM rendelet 12. § (2) bekezdésével megállapított szöveg.

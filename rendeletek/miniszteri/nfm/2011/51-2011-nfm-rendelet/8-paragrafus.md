@@ -18,7 +18,7 @@ a) az (1) bekezdés szerinti döntését a rendszerirányító részére haladé
 
 b) az (1) bekezdés szerinti bírság kiszabása esetén a bírság megfizetéséről a rendszerirányítót öt napon belül tájékoztatja.
 
-(4)[^14] Ha a rendszerirányító a Hivatal (3) bekezdés a) pontja szerinti döntését megkapta, a Hivatal döntésével érintett igénylő részére – a 4. § szerinti feltételeknek eleget tevő támogatási igénybejelentés esetén – a továbbiakban kifizetést akkor teljesíthet, ha
+(4)[^15] Ha a rendszerirányító a Hivatal (3) bekezdés a) pontja szerinti döntését megkapta, a Hivatal döntésével érintett igénylő részére – a 4. § szerinti feltételeknek eleget tevő támogatási igénybejelentés esetén – a továbbiakban kifizetést akkor teljesíthet, ha
 
 a) az igénylő a kifizetett jogosulatlan támogatás kamattal növelt összegét visszafizette az elkülönített számla javára, és
 
@@ -26,4 +26,4 @@ b) az (1) bekezdés szerinti bírság kiszabása esetén a Hivatal (3) bekezdés
 
 (5) Ha a Hivatal megállapítja, hogy az igényelt vagy kifizetett támogatás összege alacsonyabb mint ami az igénylőt megillette volna, kötelezi a rendszerirányítót arra, hogy a döntésében megállapított összeg erejéig kifizetést teljesítsen a tartalék terhére.
 
-[^14]: A 8. § (4) bekezdés nyitó szövegrésze a 66/2011. (XI. 30.) NFM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdés nyitó szövegrésze a 66/2011. (XI. 30.) NFM rendelet 11. § (4) bekezdése szerint módosított szöveg.
