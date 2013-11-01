@@ -1,4 +1,4 @@
-33/B. § (1) A díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, valamint megfizetésének elmaradása esetén a pótdíj mértékét, a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
+33/B. § (1) A használati díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, valamint megfizetésének elmaradása esetén a pótdíj mértékét, a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
 
 (2)
 
@@ -14,6 +14,6 @@
 
 (7)
 
-(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelők jogosultak.
+(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelő, valamint az ÁAK Zrt. jogosult.
 
 (9)

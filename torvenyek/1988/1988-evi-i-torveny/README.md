@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2013-04-03 | 2013. évi XVII. törvény | 1988-1-00-00.64 |
 | 2013-06-01 | 2013. évi LXVII. törvény | 1988-1-00-00.65 |
 | 2013-07-01 | 2013. évi LXVII. törvény | 1988-1-00-00.66 |
+| 2013-11-01 | 2013. évi CLXVI. törvény | 1988-1-00-00.67 |

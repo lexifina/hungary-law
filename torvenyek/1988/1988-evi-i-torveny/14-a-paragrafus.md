@@ -1,4 +1,4 @@
-14/A. § (1) A gyorsforgalmi közút kezelője balesetveszély esetén a rendőrség, minden más esetben az üzemben tartó vagy a tulajdonos (a továbbiakban e § alkalmazásában együttesen: üzemben tartó) és a rendőrség előzetes értesítésével elszállítással eltávolíthatja vagy eltávolíttathatja azt a járművet, amely a közúti forgalom biztonságát veszélyeztető módon a közút területén olyan helyen vesztegel, ahol a megállás tilos.
+14/A. § (1) A gyorsforgalmi közúton a közút kezelője balesetveszély esetén a rendőrség, minden más esetben az üzemben tartó vagy a tulajdonos (a továbbiakban e § alkalmazásában együttesen: üzemben tartó) és a rendőrség előzetes értesítésével elszállítással eltávolíthatja vagy eltávolíttathatja azt a járművet, amely a közúti forgalom biztonságát veszélyeztető módon a közút területén olyan helyen vesztegel, ahol a megállás tilos.
 
 (2) A jármű elszállítása során a járműhasználat akadályoztatása folytán a keletkezett kárért a közút kezelőjét nem terheli kártalanítási kötelezettség.
 
@@ -6,4 +6,4 @@
 
 (4) Az üzemben tartó a közútkezelő utólagos értesítése alapján köteles a járművet az elszállítás és a tárolás igazolt költségeinek megtérítését követően elszállítani. Amennyiben az üzemben tartó ezen kötelezettségének a közútkezelő második értesítését követő 180 napon belül sem tesz eleget, vagy az üzemben tartó 180 napon belül nem állapítható meg, a közútkezelő jogosult a járművet értékesíteni vagy más módon hasznosítani. Amennyiben az elszállított jármű tulajdonosa az értékesítést, vagy más módon történő hasznosítást követő 60 napon belül jelentkezik, részére az értékesítésből, vagy a más módon történő hasznosításból befolyt, a szállítással, a tárolással, és az értékesítéssel kapcsolatban felmerült igazolt költségekkel csökkentett ellenértéket ki kell fizetni.
 
-(5) A gyorsforgalmi közút kezelője, valamint az általa megbízott közreműködő a miniszter által rendeletben meghatározottak szerint, az e §-ban foglalt feladatai ellátásához szükséges személy- és járműazonosító adatokat a (4) bekezdésben foglalt határidőig kezelheti.
+(5) A gyorsforgalmi közúton a közút kezelője, valamint az általa megbízott közreműködő a miniszter által rendeletben meghatározottak szerint, az e §-ban foglalt feladatai ellátásához szükséges személy- és járműazonosító adatokat a (4) bekezdésben foglalt határidőig kezelheti.

@@ -1,4 +1,4 @@
-20/A. § (1) A közlekedési hatóság által végzett ellenőrzés során, továbbá a 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja szerinti közúti közlekedési ellenőrzés során, amennyiben az ellenőrzést a közút kezelője végzi, csak olyan személy (a továbbiakban: közúti ellenőr) járhat el, aki megfelel a 20/B. §-ban meghatározottaknak, valamint a miniszter rendeletében meghatározott személyi és szakmai alkalmassági feltételeknek, továbbá részt vesz a közúti ellenőrök rendszeres továbbképzésén.
+20/A. § (1) A 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja szerinti közúti közlekedési ellenőrzés során, amennyiben az ellenőrzést a közút kezelője végzi, csak olyan személy (a továbbiakban: közúti ellenőr) járhat el, aki megfelel a 20/B. §-ban meghatározottaknak, valamint a miniszter rendeletében meghatározott személyi és szakmai alkalmassági feltételeknek, továbbá részt vesz a közúti ellenőrök rendszeres továbbképzésén.
 
 (2) A közlekedési hatóság a közúti ellenőrökről névjegyzéket vezet, amely tartalmazza a közúti ellenőr
 
