@@ -16,4 +16,8 @@ g) jelentést az esetleges próbaüzem tapasztalatairól,
 
 h) vezetékjog és használati jog alapítása esetén annak ingatlan-nyilvántartásba történő bejegyzés kezdeményezését igazoló dokumentumot, és
 
-i) gázelosztó- vagy célvezeték esetében a vezeték üzemeltetőjének a használatba vételhez történő hozzájáruló nyilatkozatát.
+i) gázelosztó- vagy célvezeték esetében a vezeték üzemeltetőjének a használatba vételhez történő hozzájáruló nyilatkozatát,
+
+j)[^1] a szénhidrogén-szállítóvezeték, továbbá a földgáz-elosztó és célvezeték esetében – a nagynyomású szénhidrogén-vezeték kivételével – az e-közmű adatszolgáltatásra kötelezett leendő üzemeltető igazolását a geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről.
+
+[^1]: A 21. § j) pontját a 324/2013. (VIII. 29.) Korm. rendelet 19. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
