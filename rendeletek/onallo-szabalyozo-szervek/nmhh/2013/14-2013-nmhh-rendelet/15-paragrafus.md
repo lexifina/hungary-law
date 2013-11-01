@@ -22,7 +22,7 @@ f) a megvalósult építmény tényleges nyomvonal hosszát.
 
 a) az elektronikus hírközlési építmény műszaki átadás-átvételéről készült jegyzőkönyvet és ennek mellékleteit;
 
-b)[^1]
+b) az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet (a továbbiakban: e-közmű rendelet) alapján a leendő üzemeltető igazolását a nyíltárkos geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről;
 
 c) az elektronikus hírközlési építmény geodéziai bemérési rajzát;
 
@@ -48,7 +48,7 @@ d) az elkészült építmény a vonatkozó jogszabályoknak, előírt követelm�
 
 e) felszín alatti építmény esetén azt, hogy az érintett építmény nyíltárkos bemérése megtörtént-e,
 
-f)[^2]
+f) az adott építmény közérdekű adatai az egységes elektronikus közműnyilvántartási rendszerben (a továbbiakban: e-közmű) szerepelnek-e.
 
 (6) A használatbavételi engedély akkor adható meg, ha az építmény a rendeltetésszerű és biztonságos használat követelményeinek, az építési engedélynek és a hozzá tartozó engedélyezési záradékkal ellátott tervdokumentációnak megfelel.
 
@@ -66,10 +66,6 @@ d) az elektronikus hírközlési építmény használatbavételével és üzembe
 
 a) mindazokkal, akikkel a Hatóság az építési engedélyt közölte,
 
-b)[^3]
+b) ha nem azonos az építtetővel, az üzemeltetővel.
 
 (9) Használatbavételi engedély hiányában az építmény jogszerűen nem használható, azon elektronikus hírközlési szolgáltatás nem nyújtható.
-
-[^1]: A 15. § (4) bekezdés b) pontja a 27. § (2) bekezdése alapján 2013. november 1-jén lép hatályba.
-[^2]: A 15. § (5) bekezdés f) pontja a 27. § (2) bekezdése alapján 2013. november 1-jén lép hatályba.
-[^3]: A 15. § (8) bekezdés b) pontja a 27. § (2) bekezdése alapján 2013. november 1-jén lép hatályba.

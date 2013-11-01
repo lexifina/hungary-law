@@ -38,7 +38,7 @@ f) a nyomvonal hosszát,
 
 (7) Az építtető a bejelentett építési és bontási tevékenység befejezéséről 15 napon belül a Hatóság honlapján közzétett adatlapon köteles utólagos bejelentést tenni.
 
-(8)[^6]
+(8) Az utólagos bejelentéshez csatolni kell az e-közmű rendelet alapján a leendő üzemeltető igazolását a nyíltárkos geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről.
 
 (9) A Hatóság az építmény elkészültét az utólagos bejelentés beérkezését követő naptól számított 8 napon belül hatósági nyilvántartásba veszi.
 
@@ -50,9 +50,6 @@ b) az előzetes bejelentéstől eltérően végezték, vagy
 
 c) az elkészült építmény nem az (1) bekezdés a)–c) pontja alá tartozónak minősül,
 
-d)[^7]
+d) az elkészült építmény közérdekű adatai az e-közműben nem szerepelnek.
 
 (11) A (9) bekezdés szerinti nyilvántartásba vétel hiányában az építmény jogszerűen nem használható, azon elektronikus hírközlési szolgáltatás nem nyújtható.
-
-[^6]: A 19. § (8) bekezdése a 27. § (2) bekezdése alapján 2013. november 1-jén lép hatályba.
-[^7]: A 19. § (10) bekezdés d) pontja a 27. § (2) bekezdése alapján 2013. november 1-jén lép hatályba.

@@ -20,7 +20,7 @@ b) a szabályossá tétel feltételei fennállnak-e vagy megteremthetőek-e,
 
 c) felszín alatti építmény esetén azt, hogy az érintett építmény nyíltárkos bemérése megtörtént-e,
 
-d)[^4]
+d) az adott építmény közérdekű adatai az e-közműben szerepelnek-e.
 
 (5) Az (1) bekezdés szerint szabálytalanul épített elektronikus hírközlési építményre a Hatóság
 
@@ -36,7 +36,7 @@ b) az elrendelt átalakítást az előírt határidőre nem végezték el, vagy
 
 c) az építtető fennmaradási engedély iránti kérelmét a hatóság felhívása szerinti határidőig nem nyújtotta be, illetve az azzal kapcsolatos hiánypótlási felhívásnak a megadott határidőig nem tett eleget, vagy
 
-d)[^5]
+d) az elkészült építmény közérdekű adatai az e-közműben nem szerepelnek.
 
 (7) A Hatóság a fennmaradási engedély megtagadásával egyidejűleg a 17. § (1) bekezdésére tekintettel – határidő tűzésével – bontási engedély iránti kérelem benyújtására hívja fel az építtetőt.
 
@@ -61,6 +61,3 @@ g) a tájékoztatást az építésügyi bírság elengedésének feltételeiről
 (10) Ha a Hatóság a fennmaradási engedélyt megadja, az építtetőnek az építményre használatbavételi engedélyt nem kell kérnie.
 
 (11) A fennmaradási engedély közlésére a használatbavételi engedély közlésére vonatkozó szabályokat kell alkalmazni.
-
-[^4]: A 16. § (4) bekezdés d) pontja a 27. § (2) bekezdése alapján 2013. november 1-jén lép hatályba.
-[^5]: A 16. § (6) bekezdés d) pontja a 27. § (2) bekezdése alapján 2013. november 1-jén lép hatályba.
