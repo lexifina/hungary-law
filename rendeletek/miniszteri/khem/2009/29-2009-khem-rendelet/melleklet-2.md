@@ -76,7 +76,7 @@
 
 ## erUSD: Külön rendeletben meghatározott Ft/USD árfolyam (előrejelzés). Amennyiben a közzétett árfolyam (előrejelzés) több mint 3%-kal magasabb az MNB aktuális, külön rendeletben meghatározott referencia időszakra vonatkozó hivatalos napi Ft/USD (tény) árfolyamainak átlagánál, a Hivatal indokolt árfolyamként a korábban közzétett árfolyamnak a 3% feletti eltérés mértékének felével csökkentett értékét veszi figyelembe.
 
-## fgS: Az aktuális negyedévet megelőző negyedév második hónapjának 1. napjától a 15. napjáig terjedő időszak banki napjain, a www.apxendex.com honlapon (égéshő figyelembevételével) EUR/MWh-ban közzétett napvégi ENDEX TTF GAS aktuális negyedévre vonatkozó futures adatok egyszerű számtani átlaga. Az égéshővel való korrekció 1,11-es értékkel történik.
+## fgS: Az aktuális negyedévet megelőző negyedév második hónapjának 1. napjától a 15. napjáig terjedő időszak napjain, a Hivatal honlapján megjelölt honlap szerint (égéshő figyelembevételével) EUR/MWh-ban közzétett napvégi, az aktuális negyedévre vonatkozó TTF Gas Base Load Futures adatok egyszerű számtani átlaga. Az égéshővel való korrekció 1,11-es értékkel történik.
 
 ## fgFt: a negyedéves ármódosítás során a szolgáltató értékesítési átlagárában indokolt (figyelembe vett) fajlagos földgáz beszerzési költség, Ft/MJ
 
@@ -120,7 +120,7 @@
 
 ## ne: az egyetemes szolgáltatás árában elismert (figyelembe vett) nagykereskedelmi árrés a megelőző gázévben, Ft/MJ
 
-## sp: eltérés (spread), értéke 2010. december 31-ig 3,461 EUR/MWh. A következő negyedévekre megállapított értékét a Hivatal a honlapján közzéteszi az Endex TTF GAS futures piaci árának a Central European Gas Hub árakhoz való közelítése érdekében. Az égéshővel való korrekció 1,11-es értékkel történik.
+## sp: eltérés (spread), értéke 2010. december 31-ig 3,461 EUR/MWh. A következő negyedévekre megállapított értékét a Hivatal a honlapján közzéteszi a TTF Gas Base Load Futures piaci árának a Central European Gas Hub árakhoz való közelítése érdekében. Az égéshővel való korrekció 1,11-es értékkel történik.
 
 ## Y: az MNB által közzétett aktuális (legutolsó) éves átlagos fogyasztói árindex-előrejelzések – az árrés megállapítás lezárása előtti utolsó „Jelentés az infláció alakulásáról” című kiadvány – alapján képzett (előretekintő) átlagos fogyasztói árváltozás a tárgyidőszaki júliusi ármódosítási időszak közepére számítva, százalék
 

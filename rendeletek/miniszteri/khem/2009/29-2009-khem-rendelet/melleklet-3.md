@@ -44,9 +44,13 @@
 
 3. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^37]
 
-|  | <20 m3/h | ≥20 m3/h |
+Egyetemes szolgáltatói árrések mértéke
 
-| Egyetemes szolgáltatói árrés (Ft/GJ) | 174,1 | 42,5 |
+|  | A | B | C |
+
+| 1. |  | <20 m3/h | ≥20 m3/h |
+
+| 2. | Egyetemes szolgáltatói árrés (Ft/GJ) | 126,3 | 42,5 |
 
 [^36]: A 2. melléklet 1. pont c) alpontja a 43/2013. (VII. 25.) NFM rendelet 12. § (5) bekezdése szerint módosított szöveg.
-[^37]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 4. § (2) bekezdésével megállapított, a 38/2012. (VII. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^37]: A 3. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be, szövege a 64/2013. (X. 30.) NFM rendelet 8. §-ával megállapított szöveg.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-29-20-2
 | 2013-01-01 | 2009-29-20-2M.17 | 18/2010. (XII. 3.) NFM rendelet |
 | 2013-04-04 | 2009-29-20-2M.18 | 13/2013. (IV. 3.) NFM rendelet |
 | 2013-07-26 | 2009-29-20-2M.19 | 43/2013. (VII. 25.) NFM rendelet |
+| 2013-11-01 | 2009-29-20-2M.20 | 72/2009. (XII. 7.) KHEM rendelet |
