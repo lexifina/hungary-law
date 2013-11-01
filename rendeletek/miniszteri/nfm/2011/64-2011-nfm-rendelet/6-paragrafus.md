@@ -1,0 +1,3 @@
+## 5. §[^4] Az elosztási díj nyújt fedezetet – figyelembe véve a VET 142/A. § (2) bekezdése szerinti kiegyenlítő fizetéseket is – az elosztók (elosztó hálózat) indokolt működési költségeire, értékcsökkenésére és tőkeköltségére, az elosztó hálózaton elismert hálózati veszteség pótlásához szükséges villamos energia beszerzésének és az elismert hálózati veszteséggel kapcsolatban fizetendő átviteli-rendszerirányítási és rendszerszintű szolgáltatási díjak megfizetésének, valamint a profiltól való eltérés kiegyenlítésének indokolt költségeire.
+
+[^4]: Az 5. § a 64/2013. (X. 30.) NFM rendelet 17. §-ával megállapított szöveg.

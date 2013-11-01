@@ -1,3 +1,0 @@
-5. § (1) Az elosztási díjak részeként a 2. § (2) bekezdés a)–d) pontjai szerinti díjak – figyelembe véve a VET 142/A. § (2) bekezdése szerinti kiegyenlítő fizetéseket is – az elosztó (elosztó hálózat) indokolt működési és tőkeköltségeire nyújtanak fedezetet, kivéve a (2) bekezdésben meghatározott költségeket.
-
-(2) A 2. § (2) bekezdés e)–f) pontjai szerinti elosztói díjak az elosztó hálózaton elismert hálózati veszteség pótlásához szükséges villamos energia beszerzésének és az elismert hálózati veszteséggel kapcsolatban fizetendő átviteli-rendszerirányítási és rendszerszintű szolgáltatási díjak megfizetésének, valamint a profiltól való eltérés kiegyenlítésének indokolt költségeire nyújtanak fedezetet.
