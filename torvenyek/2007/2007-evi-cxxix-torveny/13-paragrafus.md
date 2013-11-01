@@ -1,4 +1,4 @@
-13. § (1) A termőföld más célú hasznosítására kiadott engedély, ha e hasznosítás megkezdésére négy év alatt nem kerül sor, hatályát veszti. Hatályon kívül kell helyezni az engedélyt, ha az engedély jogosultja írásban nyilatkozik arról, hogy az engedélyben foglalt jogosultságáról lemond.
+13. § (1) A termőföld más célú hasznosítására kiadott engedély – annak jogerőre emelkedésének napját követő naptól számított – 4 évig hatályos. Ha a termőföld más célú hasznosítására kiadott engedély időbeli hatálya alatt az engedély szerinti hasznosítás megkezdésére nem kerül sor, az engedély hatályát veszti. Az engedély jogosultjának kérelmére hatályon kívül kell helyezni az engedélyt, ha az engedély jogosultja arról nyilatkozik, hogy az engedélyben foglalt jogosultságáról lemond, feltéve, ha a termőföld engedélyezett más célú hasznosítását nem kezdte meg.
 
 (2) A határozat időbeli hatályán belül azonos területre benyújtott más célú hasznosítás iránti kérelmet – a 15. § (1a) bekezdésében meghatározott eset kivételével – érdemi vizsgálat nélkül el kell utasítani.
 

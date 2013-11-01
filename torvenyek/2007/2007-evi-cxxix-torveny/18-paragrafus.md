@@ -1,7 +1,17 @@
-## A földvédelmi eljárás igazgatási szolgáltatási díja
+## A földvédelmi és az újrahasznosítási eljárás igazgatási szolgáltatási díja
 
-18. § (1) Az első fokon kérelemre indult földvédelmi eljárásért – ideértve az ingatlanügyi hatóság külön jogszabály szerinti, a termőföld mennyiségi védelmének érvényre juttatásával kapcsolatos szakhatósági közreműködését is – 15 000 forint összegű díjat kell fizetni.
+18. § (1) Az első fokon kérelemre, illetve bejelentésre induló földvédelmi eljárásért – ide értve az ingatlanügyi hatóság külön jogszabály szerinti, a termőföld mennyiségi védelmének érvényre juttatásával kapcsolatos szakhatósági közreműködést is –
 
-(2) A földvédelmi eljárásban igénybe vehető valamennyi jogorvoslatért 15 000 forint díjat kell fizetni.
+a) egy földrészlet esetében 30 000 Ft,
 
-(3) A földvédelmi eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely a földügyért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. A földvédelmi eljárásáért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
+b) 2–5 db földrészlet esetén 30 000 Ft, valamint földrészletenként további 7000 Ft,
+
+c) 6–25 db földrészlet esetén 58 000 Ft, valamint földrészletenként további 2000 Ft,
+
+d) 26 db vagy annál több földrészlet esetén 98 000 Ft, valamint földrészletenként további 1000 Ft,
+
+összegű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
+
+(2) A földvédelmi eljárásban igénybe vehető valamennyi jogorvoslati eljárásért az (1) bekezdésben meghatározott díjat kell fizetni.
+
+(3) Az első fokon bejelentésre indult újrahasznosítási eljárásért, valamint az újrahasznosítási eljárásban igénybe vehető valamennyi jogorvoslati eljárásért az (1) bekezdésben meghatározott díjat kell fizetni.

@@ -2,18 +2,26 @@
 
 14. § (1) A termőföld-igénybevétel akkor minősül időleges más célú hasznosításnak, ha az érintett területen
 
-a) a lábon álló termény megsemmisül, vagy
+a) a lábon álló termény megsemmisül,
 
-b) terméskiesés következik be, vagy
+b) terméskiesés következik be,
 
 c) az időszerű mezőgazdasági munkák akadályozására kerül sor, vagy
 
 d) a talajszerkezet károsodik.
 
-(2) A termőföld időleges más célú hasznosítása csak meghatározott időre, legfeljebb 5 évre engedélyezhető. Az időlegesen más célra hasznosított termőföldön – az engedélyező határozatban megállapított határidő lejártáig – az igénybevevő köteles az ingatlan-nyilvántartásban rögzített előző állapotot helyreállítani, és a termőföldet mező- vagy erdőgazdasági termelés céljára alkalmassá tenni (a továbbiakban: eredeti állapot helyreállítása).
+(2) A termőföld időleges más célú hasznosítása csak meghatározott időre, legfeljebb 5 évre engedélyezhető. Az időlegesen más célra hasznosított termőföldet az igénybevevő az engedélyező határozatban megállapított határidő vagy határnap lejártáig – a (9) bekezdésben meghatározott eset kivételével – köteles az eredeti állapotába helyreállítani. Az engedélyező határozatban elő kell írni, hogy az eredeti állapot helyreállítását a talajvédelmi hatóság által jóváhagyott, az 50. § (2) bekezdés d) pontjában foglalt talajvédelmi terv szerint kell végrehajtani.
 
-(3) Az időleges más célú hasznosítás akkor engedélyezhető, ha a kérelemhez a 12. § (2) bekezdésében foglaltakon túl mellékelik a terület eredeti állapotának helyreállítására készített tervet, amely előirányozza a helyreállításhoz szükséges munkák elvégzését.
+(3) Ha az ingatlanügyi hatóság a termőföld időleges más célú hasznosítását 5 évnél rövidebb időtartamra engedélyezte, és az igénybevevő – az engedély időbeli hatálya alatt – kérelmezi az engedély időtartamának meghosszabbítását, az ingatlanügyi hatóság a kérelemnek megfelelően módosíthatja az engedélyt azzal, hogy az időleges más célú hasznosítás az engedély meghosszabbításával sem haladhatja meg a (2) bekezdésben meghatározott időtartamot.
 
-(4) Az eredeti állapot helyreállítását az ingatlanügyi hatóság a talajvédelmi hatósággal lefolytatott közös helyszíni ellenőrzés keretében ellenőrzi. Ha az ingatlanügyi hatóság az eredeti állapot helyreállítását elfogadta, ezzel egyidejűleg határozatot hoz a fizetendő földvédelmi járulékról és – amennyiben e törvény úgy rendelkezik – a bírság kiszabásáról. Ha az ingatlanügyi hatóság a helyreállítást nem fogadja el, határozatot hoz, melyben újabb határidő megjelölésével a helyreállítás érdekében szükséges további munkák elvégzését írja elő.
+(4) Az engedély jogosultja az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
-(5) Időleges más célú hasznosításnak kell tekinteni a villamos berendezések elhelyezését biztosító használati jog, a vezetékjog, a vízvezetési és bányaszolgalmi jog olyan gyakorlását is, amely a termelés folytatását, illetőleg a talajvédelmi előírások betartását nem teszi lehetővé. Ezen időleges más célú hasznosítás nem engedélyköteles; a más célú hasznosítást az említett jog gyakorlásának megkezdésétől számított nyolc napon belül a jogosult köteles az ingatlanügyi hatóságnak bejelenteni. Ugyanígy kell eljárni az azonnali intézkedés megtételét igénylő veszélyhelyzet (havaria) esetén történő időleges termőföld-igénybevétel során. A bejelentés elmulasztása esetén a földvédelmi járulékon felül, annak háromszoros összegét földvédelmi bírságként kell megfizetni.
+(5) Az eredeti állapot helyreállítását az ingatlanügyi hatóság a talajvédelmi hatósággal közös helyszíni ellenőrzéssel állapítja meg.
+
+(6) Ha a helyszíni ellenőrzés során megállapításra kerül, hogy az eredeti állapot helyreállására a (2) bekezdés szerinti határozatban előírtak szerint került sor, az ingatlanügyi hatóság az eredeti állapot helyreállítását határozattal elfogadja, ezzel egyidejűleg rendelkezik a fizetendő földvédelmi járulékról és – ha e törvény úgy rendelkezik – a bírság megfizetéséről.
+
+(7) Ha a helyszíni ellenőrzés során megállapításra kerül, hogy az eredeti állapot helyreállására nem, vagy nem a (2) bekezdés szerinti határozatban előírtaknak megfelelően került sor, az ingatlanügyi hatóság az eredeti állapot helyreállítása érdekében szükséges további munkák elvégzésére kötelezi az igénybevevőt.
+
+(8) A (6) és (7) bekezdésben foglaltakat nem kell alkalmazni a (9) bekezdésben meghatározott esetben.
+
+(9) Ha az igénybevevő az engedély időbeli hatálya alatt az engedéllyel érintett termőföld végleges más célú hasznosításának engedélyezését kérelmezi, az ingatlanügyi hatóság a 9–13. §-ban foglaltak szerint folytatja le az eljárást, azzal, hogy ha a kérelemnek helyt ad, az időleges más célú hasznosítás engedélyezéséről szóló határozatát egyidejűleg hatályon kívül helyezi, és a végleges más célú hasznosítás engedélyezéséről szóló határozatában az időleges más célú hasznosításért fizetendő földvédelmi járulékot is megállapítja, és annak megfizetéséről is rendelkezik.

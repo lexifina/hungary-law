@@ -10,7 +10,7 @@ c) a 36. § (2) bekezdés c) pontjában meghatározott talajvédelmi műszaki be
 
 d) hígtrágya termőföldön történő felhasználásához az állattartás során keletkező egyéb szervestrágya kivételével,
 
-e) szennyvíz, szennyvíziszap mezőgazdasági felhasználásához,
+e) szennyvíz, szennyvíziszap és szennyvíziszap komposzt mezőgazdasági felhasználásához,
 
 f) nem mezőgazdasági eredetű nem veszélyes hulladék termőföldön történő felhasználásához,
 

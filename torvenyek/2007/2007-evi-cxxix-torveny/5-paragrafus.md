@@ -4,8 +4,10 @@
 
 (2) Szőlőt és gyümölcsöst a művelési ágának megfelelő termeléssel kell hasznosítani.
 
-(3) Ha a termőföld más célú hasznosítását engedélyezték, a földhasználó köteles a termőföld engedélyezett célú felhasználásáig a hasznosítási kötelezettségét teljesíteni (ideiglenes hasznosítás).
+(3) Ha az ingatlanügyi hatóság engedélyezte a termőföld más célú hasznosítását, a földhasználó vagy az igénybevevő köteles a termőföldet az első igénybevételig az (1) és (2) bekezdésben meghatározottak szerint hasznosítani (ideiglenes hasznosítás).
 
 (4) A földhasználó köteles a termőföldnek nem minősülő ingatlanon a növényzet gondozását rendszeresen elvégezni, ha ez az ingatlan más célú hasznosításának megfelelő területfelhasználást nem akadályozza, illetőleg nem korlátozza (mellékhasznosítás).
 
-(5) Az (1)–(4) bekezdésben előírtakat az ingatlanügyi hatóság rendszeresen ellenőrzi. Mulasztás esetén az ingatlanügyi hatóság földvédelmi bírsággal sújtja a földhasználót. Ha a földhasználati nyilvántartásban nincs bejegyzett földhasználó, a földvédelmi bírságot a tulajdonossal szemben kell kiszabni. Ha az érintett földrészletnek a földhasználati nyilvántartás szerint több földhasználója van, illetőleg az érintett földrészlet közös tulajdonban áll, a földvédelmi bírság a földhasználókat, illetőleg tulajdonosokat egyetemlegesen terheli.
+(5) Az (1)–(4) bekezdésben előírtakat az ingatlanügyi hatóság rendszeresen ellenőrzi.
+
+(6) Az ingatlanügyi hatóság az (1)–(4) bekezdésben foglalt kötelezettségek elmulasztása miatt a földvédelmi bírság megfizetésére kötelező jogerős határozatának egy példányát közli a mezőgazdasági igazgatási szervvel.

@@ -4,6 +4,8 @@ a) a talajvédelmi hatóságot vagy hatóságokat,
 
 b) a telepítési hatóságot vagy hatóságokat.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a haváriával közvetlenül nem érintett termőföldnek a havária elhárítása érdekében történő igénybevételével okozott kár, továbbá a termőföld tulajdonost terhelő eredeti állapot helyreállításával vagy újrahasznosításával felmerült igazolt költségei megtérítésének a részletes szabályait.
+
 (2) Felhatalmazást kap a földügyért felelős miniszter, hogy rendelettel állapítsa meg
 
 a) a földminősítés részletes szabályait,

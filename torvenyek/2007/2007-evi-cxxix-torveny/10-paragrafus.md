@@ -1,11 +1,3 @@
-10. § (1) Termőföld más célú hasznosításának minősül:
+10. § (1) Az ingatlanügyi hatóság engedélyével lehet termőföldet más célra hasznosítani. Az engedély hiánya esetén a más hatóságok által kiadott engedélyek nem mentesítik az igénybevevőt az e törvényben foglalt jogkövetkezmények alól. Az ingatlanügyi hatóság engedélye nem mentesít a szükséges más hatósági engedélyek megszerzésének kötelezettsége alól.
 
-a) a hasznosítási kötelezettségtől történő olyan időleges vagy végleges eltérés, amellyel a termőföld a továbbiakban mezőgazdasági hasznosításra alkalmatlanná válik;
-
-b) termőföld belterületbe vonása;
-
-c) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá nem tartozó üzem-, majorfásítás, valamint az út, vasút és egyéb műszaki létesítmény tartozékát képező fásítás igénybevétele.
-
-(2) Nem minősül a termőföld más célú hasznosításának a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény hatálya alá tartozó, a részarány földkiadási eljárás során, továbbá a részarány földkiadási eljárásban keletkezett osztatlan közös tulajdonok megszüntetése során keletkező új földrészletek megközelítését szolgáló utak kialakítása.
-
-(3) A termőföld más célú hasznosítása időleges vagy végleges lehet.
+(2) Más hatóságok a termőföldet érintő engedélyezési eljárásuk során kötelesek meggyőződni arról, hogy rendelkezésre áll-e a termőföld más célú hasznosításának engedélyezéséről szóló jogerős ingatlanügyi hatósági határozat. Termőföld más célú hasznosításának engedélyezéséről szóló jogerős ingatlanügyi hatósági határozat hiánya esetén a hatóságnak az eljárását fel kell függesztenie.

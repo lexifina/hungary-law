@@ -16,4 +16,4 @@ b) beruházás: a számvitelről szóló törvény szerint termőföldön megval
 
 c) beruházó: a beruházási tevékenység engedélyese, a beruházás megvalósulását követően az üzemeltető.
 
-(2) E fejezetben foglalt rendelkezéseket nem kell alkalmazni az ingatlan-nyilvántartásban halastóként nyilvántartott földrészletekre.
+(2)

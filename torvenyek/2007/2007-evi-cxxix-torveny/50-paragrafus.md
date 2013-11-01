@@ -8,7 +8,7 @@ b) humuszos termőréteg mentéséhez termőföldön történő, 400 m2-t meghal
 
 c) az ültetvénytelepítéshez,
 
-d) a mezőgazdasági célú hasznosítást lehetővé tevő rekultivációhoz, újrahasznosításhoz,
+d) a mezőgazdasági célú hasznosítást lehetővé tevő újrahasznosításhoz,
 
 e) öntözéshez,
 
