@@ -1,4 +1,4 @@
-## 21. §[^82] 2011. január 1-jével a megelőzően működött fővárosi és megyei földhivatal általános és egyetemes jogutóda:
+## 21. §[^83] 2011. január 1-jével a megelőzően működött fővárosi és megyei földhivatal általános és egyetemes jogutóda:
 
 a) a Baranya Megyei Földhivatal esetében a Baranya Megyei Kormányhivatal,
 
@@ -40,4 +40,4 @@ s) a Veszprém Megyei Földhivatal esetében a Veszprém Megyei Kormányhivatal,
 
 t) a Zala Megyei Földhivatal esetében a Zala Megyei Kormányhivatal.
 
-[^82]: A 21. §-t a 317/2010. (XII. 27.) Korm. rendelet 10. §-a iktatta be.
+[^83]: A 21. §-t a 317/2010. (XII. 27.) Korm. rendelet 10. §-a iktatta be.

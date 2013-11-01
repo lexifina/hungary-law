@@ -2,7 +2,7 @@
 
 |  | 1. | 2. | 3. | 4. |
 
-|  | I. Művelés alól kivett terület újrahasznosítására készített terv ingatlanügyi hatóság által történő jóváhagyására vonatkozó eljárásban közreműködő szakhatóságok |
+|  | I. Az ingatlanügyi hatóság által lefolytatott újrahasznosítási eljárásban közreműködő szakhatóságok |
 
 | 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
@@ -50,6 +50,6 @@
 
 3. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^86]
+338/2006. (XII. 23.) Korm. rendelethez[^87]
 
-[^86]: A 3. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/012. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^87]: A 3. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 404/012. (XII. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

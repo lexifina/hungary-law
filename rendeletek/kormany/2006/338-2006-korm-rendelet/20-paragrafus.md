@@ -2,7 +2,7 @@
 
 20. § (1) Ez a rendelet 2007. január 1-jén lép hatályba; a már folyamatban lévő eljárásokat az azok indulásakor hatályos rendelkezések szerint kell befejezni.
 
-(2)[^77] E rendeletnek az egyes ingatlanügyi jogszabályok módosításáról szóló 129/2010. (IV. 21.) Korm. rendelet (a továbbiakban: Mr.)
+(2)[^78] E rendeletnek az egyes ingatlanügyi jogszabályok módosításáról szóló 129/2010. (IV. 21.) Korm. rendelet (a továbbiakban: Mr.)
 
 a) 1. §-a által módosított 2. § (3), (4) és (5) bekezdését,
 
@@ -20,14 +20,14 @@ f) 8. §-a által módosított 2. mellékletét,
 
 g) 9. §-a által módosított 3. és 4. mellékletét
 
-az Mr. hatálybalépését[^78] követően indult ügyekben kell alkalmazni.
+az Mr. hatálybalépését[^79] követően indult ügyekben kell alkalmazni.
 
-(3)[^79] E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel módosított 6. §-át és 2. mellékletét a 2012. július 1-jét követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+(3)[^80] E rendeletnek az egyes kormányrendeleteknek a műemlékekkel kapcsolatos építésügyi hatáskör változásával összefüggő módosításáról szóló 134/2012. (VI. 28.) Korm. rendelettel módosított 6. §-át és 2. mellékletét a 2012. július 1-jét követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
-(4)[^80] E rendeletnek az egyes földügyi tárgyú kormányrendeletek módosításáról szóló 206/2013. (VI. 17.) Korm. rendelet (a továbbiakban: Mr2.) 1. mellékletével megállapított 2. mellékletében foglaltakat az Mr2. hatálybalépését[^81] követően indult újrahasznosítási eljárással, valamint engedély nélküli más célú hasznosítással kapcsolatos ügyekben és az ilyen ügytípusokkal kapcsolatos megismételt eljárásokban kell alkalmazni.
+(4)[^81] E rendeletnek az egyes földügyi tárgyú kormányrendeletek módosításáról szóló 206/2013. (VI. 17.) Korm. rendelet (a továbbiakban: Mr2.) 1. mellékletével megállapított 2. mellékletében foglaltakat az Mr2. hatálybalépését[^82] követően indult újrahasznosítási eljárással, valamint engedély nélküli más célú hasznosítással kapcsolatos ügyekben és az ilyen ügytípusokkal kapcsolatos megismételt eljárásokban kell alkalmazni.
 
-[^77]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan a 129/2010. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
-[^78]: A hatálybalépés időpontja: 2010. május 1.
-[^79]: A 20. § (3) bekezdését a 134/2012. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^80]: A 20. § (4) bekezdését a 206/2013. (VI. 17.) Korm. rendelet 8. §-a iktatta be.
-[^81]: A hatálybalépés időpontja 2013. június 20.
+[^78]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 185. pontja hatályon kívül helyezte, újonnan a 129/2010. (IV. 21.) Korm. rendelet 6. §-a iktatta be.
+[^79]: A hatálybalépés időpontja: 2010. május 1.
+[^80]: A 20. § (3) bekezdését a 134/2012. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^81]: A 20. § (4) bekezdését a 206/2013. (VI. 17.) Korm. rendelet 8. §-a iktatta be.
+[^82]: A hatálybalépés időpontja 2013. június 20.
