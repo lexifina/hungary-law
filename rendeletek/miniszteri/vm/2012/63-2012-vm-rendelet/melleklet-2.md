@@ -1,6 +1,6 @@
 | 1. | BORÁSZATI DÍJTÉTELEK |  |
 
-| 1.1. | A forgalomba hozatali engedély kiadásának és az ahhoz kapcsolódó analitikai vizsgálatok díja az alábbi borászati termékek esetében: - bor - likőrbor - pezsgő - minőségi pezsgő - illatos minőségi pezsgő - szén-dioxid hozzáadásával készült habzóbor - gyöngyözőbor - szén-dioxid hozzáadásával készült habzóbor - szárított szőlőből készült bor - túlérett szőlőből készült bor - borecet | A forgalomba hozni kívánt tétel a) első 50 hektoliteréig 7500 b) 51-500. hektoliterére hektoliterenként további 120 c) 500. hektoliterétől további 26 100 |
+| 1.1. | A forgalomba hozatali engedély kiadásának és az ahhoz kapcsolódó analitikai vizsgálatok díja az alábbi borászati termékek esetében: - bor - likőrbor - pezsgő - minőségi pezsgő - illatos minőségi pezsgő - szén-dioxid hozzáadásával készült habzóbor - gyöngyözőbor - szén-dioxid hozzáadásával készült gyöngyözőbor - szárított szőlőből készült bor - túlérett szőlőből készült bor - borecet | A forgalomba hozni kívánt tétel a) első 50 hektoliteréig 7500 b) 51-500. hektoliterére hektoliterenként további 120 c) 500. hektoliterétől további 26 100 |
 
 | 1.2 | Érzékszervi vizsgálat | 3 000 |
 
@@ -15,6 +15,26 @@
 | 2. 3. | A kísérleti engedély határozott idejű meghosszabbítása | 40 000 |
 
 | 2.4 | A lejárt etethetőségi, felhasználhatósági, illetve minőség-megőrzési idejű takarmány forgalomba hozatalára, valamint a minőségében károsult takarmány felhasználására engedély kiadása. | 20 000 |
+
+| 2.5. | A takarmányok harmadik országokból való behozataláról szóló 52/2005. (VI. 4.) FVM–PM együttes rendelet szerint ellenőrzésköteles nem állati eredetű termék behozatala esetén az állategészségügyi határállomásokon, illetve egyéb beléptetési pontokon fizetendő díjak |  |
+
+| 2.5.1. | takarmány-adalékanyag, -premix szállítmányaiként hat tonnáig | 7500 |
+
+| 2.5.2. | takarmány-adalékanyag, -premix 6 tonnát meghaladó szállítmányaiként 46 tonnáig tonnánként | 1200 |
+
+| 2.5.3. | takarmány-adalékanyag, -premix 46 tonnát meghaladó szállítmányaiként (legfeljebb 60 tonna) | 60 000 |
+
+| 2.5.4. | takarmány-keverék szállítmányaiként hat tonnáig | 7000 |
+
+| 2.5.5. | takarmány-keverék 6 tonnát meghaladó szállítmányaiként 46 tonnáig tonnánként | 1000 |
+
+| 2.5.6. | takarmány-keverék 46 tonnát meghaladó szállítmányaiként (legfeljebb 90 tonna) | 50 000 |
+
+| 2.5.7. | takarmány-alapanyag szállítmányaiként hat tonnáig | 3500 |
+
+| 2.5.8. | takarmány-alapanyag 6 tonnát meghaladó szállítmányaiként 46 tonnáig tonnánként | 550 |
+
+| 2.5.9. | takarmány-alapanyag 46 tonnát meghaladó szállítmányaiként (legfeljebb 120 tonna) | 27 000 |
 
 | 3. | ÉLELMISZERHIGIÉNIAI HATÓSÁGI VIZSGÁLATOK ALAPDÍJA (A LÉTESÍTMÉNYBE BEÉRKEZETT ÁLLATOK DARABSZÁMÁRA VONATKOZÓAN) |  |
 
@@ -78,6 +98,20 @@
 
 | 4.2. | A veszettség ellen oltott ebek védőoltásának igazolása és járványügyi nyilvántartásba vétele | 260 |
 
+| 4.3. | A veszélyes és a veszélyesnek minősített eb tartásának engedélyezése |  |
+
+| 4.3.1. | Tartás engedélyezése | 25 000 |
+
+| 4.3.2. | A tartási engedély érvényességi idejének meghosszabbítása | 20 000 |
+
+| 4.3.3. | A tartás engedélyezésére irányuló fellebbezési eljárás díja | 25 000 |
+
+| 4.3.4. | A tartási engedély érvényességi idejének meghosszabbítására irányuló fellebbezési eljárás díja | 20 000 |
+
+| 4.4. | Kisállat-kereskedés engedélyezése | 20 000 |
+
+| 4.5. | Állategészségügyi felügyelet alá tartozó rendezvények hatósági állatorvosi felügyelete megkezdett óránként | 7000 |
+
 | 5. | ÁLLAT-EGÉSZSÉGÜGYI HATÁRÁLLOMÁSOKON FIZETETT ALAPDÍJAK |  |
 
 | 5.1. | Állategészségügyi ellenőrzésköteles élő állatok, állati eredetű élelmiszerek, állati melléktermékek, állati eredetű takarmányok és szaporítóanyagok Európai Unióba történő beléptetése |  |
@@ -94,7 +128,7 @@
 
 | 5.2.2. | Az alapdíjhoz ellenőrzésenként, az ellenőrzést végző személyek valamennyi tagjára számítva negyedóránként hozzáadódó díj | 6 000 |
 
-| 5.3. | Egyéb, külön jogszabály szerint meghatározott ellenőrzésköteles termék |  |
+| 5.3. | A takarmányok harmadik országokból való behozataláról szóló 52/2005. (VI. 4.) FVM–PM együttes rendelet kivételével egyéb, külön jogszabály szerint meghatározott ellenőrzésköteles termék |  |
 
 | 5.3.1. | hat tonnáig szállítmányonként | 16 500 |
 
@@ -104,17 +138,27 @@
 
 | 5.4. | Állategészségügyi határállomáson történő állatszállítás állatvédelmi ellenőrzése és bizonylatolása az EU-fuvarozók részére, esetenként | 12500 |
 
-| 5.4.1. | Behozatal és átvitel esetén munkanapokon 6-22 óra között fizetendő | Alapdíj |
+| 5.4.1. |  |  |
 
-| 5.4.2. | Behozatal és átvitel esetén munkanapokon 22-6 óra között valamint pihenő- és munkaszüneti napokon fizetendő | Alapdíj 2-szerese |
+| 5.4.2. |  |  |
 
-| 5.4.3. | Behozatal és átvitel esetén a kötelező előzetes bejelentés hiánya esetén munkanapokon 6-22 óra között fizetendő | Alapdíj 2-szerese |
+| 5.4.3. |  |  |
 
-| 5.4.4. | Behozatal és átvitel esetén a kötelező előzetes bejelentés hiánya esetén munkanapokon 22-6 óra között valamint pihenő- és munkaszüneti napokon fizetendő | Alapdíj 3-szorosa |
+| 5.4.4. |  |  |
 
-| 5.4.5. | Beléptetéskori ellenőrzés alóli elvonás esetén kiléptetéskor minden esetben fizetendő | Alapdíj 5-szöröse |
+| 5.4.5. |  |  |
 
-| 5.4.6. | Beléptetéskor hiányosan kitöltött útiokmányok, illetve sürgősséggel kiadott behozatali engedélyek kezelésének díja az első szállítmány esetében fizetendő | Alapdíj 4-szerese |
+| 5.4.6. |  |  |
+
+| 5.5. | Behozatal és átvitel esetén a kötelező előzetes bejelentés hiánya esetén az alapdíjon felül fizetendő díjak |  |
+
+| 5.5.1. | Behozatal, átvitel, 5.4. pont szerinti ellenőrzés és bizonylatolás esetén munkanapokon 6–22 óra között fizetendő Alapdíj |  |
+
+| 5.5.2. | Behozatal, átvitel, 5.4. pont szerinti ellenőrzés és bizonylatolás esetén munkanapokon 22–6 óra között, valamint pihenő- és munkaszüneti napokon az 5.1–5.4. pontokban foglalt díjon felül fizetendő | 5000 |
+
+| 5.5.3. | Behozatal és átvitel esetén a kötelező előzetes bejelentés hiánya esetén munkanapokon 6–22 óra között az 5.1–5.3. pontokban foglalt díjon felül fizetendő | 14 000 |
+
+| 5.5.4. | Behozatal és átvitel esetén a kötelező előzetes bejelentés hiánya esetén munkanapokon 22–6 óra között, valamint pihenő- és munkaszüneti napokon az 5.1–5.3. pontokban foglalt díjon felül fizetendő | 17 000 |
 
 | 6. | ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK TÖRZSKÖNYVEZÉSI ÉS GYÓGYSZERGYÁRTÁSI ENGEDÉLYEZÉSI DÍJA |  |
 
@@ -128,9 +172,11 @@
 
 | 6.1.1.3. | I.B. típusú módosítás | 80 000 |
 
-| 6.1.1.4. | kiterjesztés, vagy II. típusú módosítás | 250 000 |
+| 6.1.1.4. | II. típusú módosítás | 250 000 |
 
 | 6.1.1.5. | forgalomba hozatali engedély megújítása | 200 000 |
+
+| 6.1.1.6. | kiterjesztés | 350 000 |
 
 | 6.1.2. | Javallat nélküli homeopátiás készítmény egyszerűsített eljárással |  |
 
@@ -184,9 +230,11 @@
 
 | 6.3.5. | I.B. típusú módosítás | 80 000 |
 
-| 6.3.6. | kiterjesztés, vagy II. típusú módosítás | 250 000 |
+| 6.3.6. | II. típusú módosítás | 250 000 |
 
 | 6.3.7. | forgalomba hozatali engedély megújítása | 200 000 |
+
+| 6.3.8. | kiterjesztés | 350 000 |
 
 | 6.4. | Állatgyógyászati készítmények törzskönyvi dokumentációjának elbírálása, értékelő jelentés készítése és engedélyezés decentralizált eljárás (DCP) esetén (ritka állatfajok és ritka alkalmazások esetén (MUMS) a díjak 50%-kal csökkentettek) |  |
 
@@ -198,11 +246,15 @@
 
 | 6.4.4. | amennyiben Magyarország érintett tagállam (CMS) további hatáserősség | 100 000 |
 
-| 6.5. | I.B. típusú módosítás | 80 000 |
+| 6.4.5. | I.B. típusú módosítás | 80 000 |
 
-| 6.5.1. | kiterjesztés, vagy II. típusú módosítás | 250 000 |
+| 6.4.6. | II. típusú módosítás | 250 000 |
 
-| 6.5.2. | forgalomba hozatali engedély megújítása | 200 000 |
+| 6.4.7. | forgalomba hozatali engedély megújítása | 200 000 |
+
+| 6.4.8. | kiterjesztés | 350 000 |
+
+| 6.5. |  |  |
 
 | 6.6. | Állatok részére szolgáló egyéb termékek dokumentációjának elbírálása, értékelő jelentés készítése, engedélyezése, nyilvántartásba vétele |  |
 
@@ -232,7 +284,7 @@
 
 | 6.7.3. | Állatgyógyászati készítmény I.A. típusú bejelentésének adminisztrációs költsége | 30 000 |
 
-| 6.7.4. | Visszavonás vagy az eljárás megszüntetésének adminisztrációs költsége az érdemi értékelés megkezdése előtt | 30 000 |
+| 6.7.4. | Visszavonás vagy az eljárás megszüntetésének adminisztrációs költsége az érdemi értékelés megkezdése előtt; a forgalombahozatali engedély visszavonása | 30 000 |
 
 | 6.7.5. | Gyakorlati kipróbálási engedély | 80 000 |
 
@@ -268,13 +320,13 @@
 
 | 6.8.9. | Általános alaki hibás engedély készítményenként | 85 000 |
 
-| 6.8.10. | PSUR szakvéleményezése a törzskönyvi megújításig | 20 000 |
+| 6.8.10. |  |  |
 
-| 6.8.11. | PSUR szakvéleményezése a törzskönyvi megújítás után | 100 000 |
+| 6.8.11. |  |  |
 
-| 6.8.12. | MRP/DCP PSUR szakvéleményezése a törzskönyvi megújításig referens tagállamként | 80 000 |
+| 6.8.12. |  |  |
 
-| 6.8.13. | MRP/DCP/Work Sharing PSUR szakvéleményezése a törzskönyvi megújítás után referens tagállamként | 400 000 |
+| 6.8.13. |  |  |
 
 | 6.8.14. | GMP igazolás kiadása a 3. országbeli gyártó részére nemzeti, MRP, DCP eljárás keretében; kérelmező a díjon felül közvetlenül fizeti a kiutazás és a kint tartózkodás költségeit | 750 000 |
 
@@ -424,6 +476,10 @@
 
 | 8.5. | Növényvédő szerek engedélyezése kölcsönös elismerés alapján, ha Magyarország átvevő tagállam | 1 500 000 |
 
+| 8.5.1. | Engedély módosításának átvétele, ha további értékelés szükséges | 600 000 |
+
+| 8.5.2. | Engedély módosításának átvétele további értékelés nélkül | 300 000 |
+
 | 8.6. | Növényvédő szerek újraengedélyezése (engedélyek felülvizsgálata) |  |
 
 | 8.6.1. | Hatóanyag azonosságának megállapítása hatóanyagonként a pozitív listára való felvétel után, vagy megújítás után (step 1) |  |
@@ -444,13 +500,13 @@
 
 | 8.6.2.1.1. | Kémiai hatóanyagot tartalmazó készítmények esetén | 2 500 000 |
 
-| 8.6.2.1.2. | Mikroorganizmusok, vírusok esetében | 1 500 000 |
+| 8.6.2.1.2. | Mikroorganizmusok, vírusok, valamint egyéb növényvédelmi hatású anyagok (növényi kivonatok, feromonok, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók stb.) esetében | 1 500 000 |
 
 | 8.6.3. | Készítmény zonális értékelése és újraengedélyezése, ha Magyarország a zonális értékelő tagállam (zRMS) |  |
 
 | 8.6.3.1. | Kémiai hatóanyagot tartalmazó készítmények esetén | 5 000 000 |
 
-| 8.6.3.2. | Mikroorganizmusok, vírusok esetében | 3 000 000 |
+| 8.6.3.2. | Mikroorganizmusok, vírusok, valamint egyéb növényvédelmi hatású anyagok (növényi kivonatok, feromonok, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók stb.) esetében | 3 000 000 |
 
 | 8.6.3.3. | Két, vagy több hatóanyagú készítmény engedélyezése esetén | a 8.6.3 pont alatti alapdíjak plusz hatóanyagon- ként 25%-kal növelt értéke |
 
@@ -458,7 +514,7 @@
 
 | 8.6.4.1. | Kémiai hatóanyagot tartalmazó készítmények esetén | 1 000 000 |
 
-| 8.6.4.2. | Mikroorganizmusok, vírusok esetében | 500 000 |
+| 8.6.4.2. | Mikroorganizmusok, vírusok, valamint egyéb növényvédelmi hatású anyagok (növényi kivonatok, feromonok, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók stb.) esetében | 500 000 |
 
 | 8.7. | Növényvédő szernek nem minősülő termékek nemzeti engedélyezése |  |
 
@@ -486,25 +542,25 @@
 
 | 8.10.3. | Címkétől eltérő felhasználási engedély (off-label) | 150 000 |
 
-| 8.11. | Címke-felülvizsgálat |  |
+| 8.11. | Címke-felülvizsgálat | 50 000 |
 
-| 8.11.1. | Címke-felülvizsgálat szakterületenként (CLP értékelés) | 50 000 |
+| 8.11.1. |  |  |
 
 | 8.12. | Kísérleti engedély |  |
 
-| 8.12.1. | Magyarországon még forgalomban nem lévő hatóanyagot tartalmazó növényvédő szerre | 50 000 |
+| 8.12.1. | Magyarországon még forgalomban nem lévő hatóanyagot tartalmazó növényvédő szerre (készítményenként és kultúránként) | 50 000 |
 
-| 8.12.2. | Magyarországon forgalomban lévő hatóanyagot tartalmazó növényvédő szerre | 15 000 |
+| 8.12.2. | Magyarországon forgalomban lévő hatóanyagot tartalmazó növényvédő szerre (készítményenként és kultúránként) | 15 000 |
 
 | 8.12.3. | Bemutató vizsgálatok / premarketing tevékenység engedélyezése (kultúránként) | 25 000 |
 
-| 8.13. | Eseti felhasználási engedély Engedélyezett növényvédő szer és növényvédő szernek nem minősülő termék előírt felhasználásától eltérő módja esetén (kultúránként) a 14.2.2.szerinti szakterületi értékelés nélkül |  |
+| 8.13. | Szükséghelyzeti vagy eseti felhasználási engedély már engedélyezett készítményre Engedélyezett növényvédő szer vagy növényvédő szernek nem minősülő termék előírt felhasználásától eltérő módja esetén (kultúránként) a 8.2.2. szerinti szakterületi értékelés nélkül |  |
 
 | 8.13.1. | Termelő kérésére (saját felhasználásra) | 15 000 |
 
 | 8.13.2. | Gyártó, forgalmazó, vagy egyéb jogi személy kérésére, vagy 50 ha fölött | 150 000 |
 
-| 8.14. | Nem engedélyezett készítmény felhasználásának ideiglenes engedélyezése (120 napos engedély) | 150 000 |
+| 8.14. | Szükséghelyzeti vagy eseti felhasználási engedély nem engedélyezett készítményre | 150 000 |
 
 | 8.15. | Párhuzamos behozatal engedélyezése |  |
 
@@ -557,6 +613,8 @@
 | 8.18.6. | Kísérleti engedély | 15 000 |
 
 | 8.18.7 | Hulladékot tartalmazó termésnövelő anyag (komposzt kivételével) kiegészítő eljárási díja | 25% |
+
+| 8.18.8. | További márkanév használat nevenként és készítményenként | 25 000 |
 
 | 8.19. | Vizsgálóhely GEP (Good Experimental Practice) elismerése |  |
 
@@ -860,17 +918,17 @@
 
 | 11.1. | Zöldség, gyümölcs forgalmazási minőségnek való megfelelés vizsgálata |  |
 
-| 11.1.1. | A szállítmány azonossági és megfelelési vizsgálata megkezdett 10 tonnánként | 6 300 |
+| 11.1.1. | A szállítmány azonossági és megfelelési vizsgálata megkezdett 10 tonnánként | 4300 |
 
-| 11.1.2. | A szállítmány munkaszüneti napon elvégzett azonossági és megfelelési vizsgálata megkezdett 10 tonnánként | 10 600 |
+| 11.1.2. | A szállítmány munkaszüneti napon elvégzett azonossági és megfelelési vizsgálata megkezdett 10 tonnánként | 5300 |
 
-| 11.1.3. | A meghiúsult szállítás esetén, a szállítmányok számától függetlenül, esetenként | 5 500 |
+| 11.1.3. | A meghiúsult szállítás esetén, a szállítmányok számától függetlenül, esetenként | 3000 |
 
 | 11.2. | Komló vizsgálata |  |
 
-| 11.2.1. | A szállítmány azonossági vizsgálata megkezdett tonnánként | 6 300 |
+| 11.2.1. | A szállítmány azonossági vizsgálata megkezdett tonnánként | 4300 |
 
-| 11.3. | Zöldség-gyümölcs forgalmazó regisztrációja, igazoló okirat kiadása okiratonként | 4 000 |
+| 11.3. |  |  |
 
 | 12. | TALAJVÉDELEMI IGAZGATÁSI DÍJAK |  |
 
@@ -882,59 +940,67 @@
 
 | 12.1.3. | Talajvédelmi műszaki beavatkozások, létesítmények megvalósításának engedélyezése | 73 000 |
 
-| 12.1.4. | Hígtrágya termőföldön történő felhasználásának engedélyezése | 87 000 |
+| 12.1.4. | Hígtrágya termőföldön történő felhasználásának engedélyezése |  |
+
+| 12.1.4.1. | Hígtrágya termőföldön történő felhasználásának engedélyezése 100 ha és az alatti nagyságú területen | 30 000 |
+
+| 12.1.4.2. | Hígtrágya termőföldön történő felhasználásának engedélyezése 100 ha nagyságú terület felett | 50 000 |
 
 | 12.1.5. | Szennyvíz, szennyvíziszap mezőgazdasági felhasználásának engedélyezése | 144 000 |
 
 | 12.1.6. | Szennyvíziszap komposzt mezőgazdasági felhasználásának engedélyezése | 110 000 |
 
-| 12.1.7. | Nem mezőgazdasági eredetű nem veszélyes hulladék termőföldön történő felhasználásának engedélyezése | 144 000 |
+| 12.1.7. |  |  |
 
-| 12.1.8. | Mezőgazdasági termelés során keletkező nem veszélyes hulladék termőföldön történő felhasználásának engedélyezése | 60 000 |
+| 12.1.8. | Nem veszélyes hulladék termőföldön történő felhasználásának engedélyezése | 60 000 |
 
 | 12.1.9. | Engedély módosítása, meghosszabbítása kérelemre |  |
 
-| 12.1.9.1. | Engedély módosítása | Az engedélyre megállapított díj 50 %-a |
+| 12.1.9.1. |  |  |
 
-| 12.1.9.2. | Engedély módosítása csak az engedélyes adataiban bekövetkező változások miatt | 12 000 |
+| 12.1.9.2. |  |  |
 
-| 12.1.9.3. | Engedély érvényességi idejének meghosszabbítása | Az engedélyre megállapított díj 50 %-a |
+| 12.1.9.3. | A 12.1.1–12.1.8. alpontokban meghatározott tevékenységek ugyanazon területen történő további folytatásának, ellenőrző vizsgálatok alapján végzett ismételt engedélyezése | Az engedélyre megállapított díj 50 %-a |
 
 | 12.1.10. | A talajvédelmi, illetve a termőföld használati követelmények teljesítéséről, a talajvédelmi hatósági engedély szükségességéről szóló és egyéb bizonyítvány kiállítása | 12 000 |
 
-| 12.2. | Talajvédelmi szakhatósági eljárások |  |
+| 12.1.11. | Árutermelő, törzs- és kísérleti szőlő (kivéve csemege- és alanyszőlő) telepítését megalapozó talajvédelmi terv, illetve egyszerűsített talajvédelmi terv jóváhagyása | 28 000 |
 
-| 12.2.1. | Nemzetgazdasági szempontból kiemelt jelentőségű beruházások eljárásaiban való közreműködés | 137 000 |
+| 12.2. | Talajvédelmi szakhatósági eljárások (12.2–12.16. pontokban meghatározott eljárások) |  |
+
+| 12.2.1. |  |  |
 
 | 12.2.2. | Bányafelügyeleti eljárások |  |
 
 | 12.2.2.1. | Cél-kitermelőhely létesítésének engedélyezési eljárása | 105 000 |
 
-| 12.2.2.2. | Bányaüzemi feltárási, kitermelési és kitermelés befejezési MÜT jóváhagyásának eljárása föld alatti bányatérségek és bányászati létesítmények más célú hasznosításának jóváhagyási eljárása | 50 000 |
+| 12.2.2.2. | Bányaüzemi kitermelés befejezési MÜT jóváhagyásának eljárása, föld alatti bányatérségek és bányászati létesítmények más célú hasznosításának jóváhagyási eljárása, szén-dioxid geológiai tárolásának engedélyezési eljárása | 50 000 |
 
-| 12.2.2.3. | Bányaüzem bezárási és tájrendezési MÜT jóváhagyásának eljárása, a tájrendezési feladatokkal összefüggő bányahatósági eljárások, a felszín alatti vízkészletet érintő bányatavak fennmaradása és hasznosítása feltételeinek meghatározása | 30 000 |
+| 12.2.2.3. | Bányaüzem bezárási és tájrendezési MÜT jóváhagyásának eljárása, a tájrendezési feladatokkal összefüggő bányahatósági eljárások, a felszín alatti vízkészletet érintő bányatavak fennmaradása és hasznosítása feltételeinek meghatározása, szén-dioxid tárolóhely bezárására irányuló eljárás | 30 000 |
 
-| 12.2.2.4. | Jóváhagyott MÜT-től eltérés engedélyezése (feltárásra és kitermelésre vonatkozóan) | 19 000 |
+| 12.2.2.4. |  |  |
 
 | 12.3. | Építésügyi hatósági eljárások |  |
 
-| 12.3.1. | Építési engedélyezési és bejelentési eljárás | 50 000 |
+| 12.3.1. | Építési engedélyezési eljárás 400 m2 felett igénybevett termőföld esetén | 50 000 |
 
 | 12.3.2. | Összevont építésügyi hatósági engedélyezési eljárás | 50 000 |
 
 | 12.3.3. | Építésügyi fennmaradási engedélyezési eljárás | 50 000 |
 
-| 12.3.4. | Az építési és bontási hulladékkal kapcsolatos engedélyezési eljárás | 19 000 |
+| 12.3.4. | A nem veszélyes hulladék kereskedelmének, közvetítésének, szállításának, hasznosításának, ártalmatlanításának engedélyezési eljárása | 19 000 |
 
-| 12.3.5. | Telepengedélyezési eljárás | 26 000 |
+| 12.3.5. |  |  |
 
 | 12.4. | Katonai építésügyi hatóság telekalakítási engedélyezési eljárása | 19 000 |
 
 | 12.5. | Hírközlési hatósági eljárások |  |
 
-| 12.5.1. | Elektronikus hírközlési építmények építési engedélyezése | 50 000 |
+| 12.5.1. | Hírközlési hatósági eljárások |  |
 
-| 12.5.2. | Elektronikus hírközlési építmények fennmaradási engedélyezése | 50 000 |
+| 12.5.1.1. | Elektronikus hírközlési építmények építési engedélyezési eljárása 400 m2 vagy 500 fm, illetve az az alatt igénybevett termőföld esetén | 25 000 |
+
+| 12.5.1.2. | Elektronikus hírközlési építmények építési engedélyezési eljárása 400 m2 vagy 500 fm felett igénybevett termőföld esetén | 50 000 |
 
 | 12.6. | Sajátos építményekre vonatkozó hatósági eljárások (mérésügyi és biztonsági hatóság, bányafelügyelet, katonai építésügyi hatóság) |  |
 
@@ -946,7 +1012,7 @@
 
 | 12.7. | Mérésügyi és műszaki biztonsági hatósági eljárások |  |
 
-| 12.7.1. | Villamosenergia-ipari építési engedélyezési eljárás - előmunkálati jog | 10 000 |
+| 12.7.1. |  |  |
 
 | 12.7.2. | Villamosenergia-ipari építési engedélyezési eljárás - vezetékjog (termelői, magán- és közvetlen vezeték építése is) | 50 000 |
 
@@ -956,7 +1022,7 @@
 
 | 12.7.5. | Villamosenergia-ipari egyszerűsített engedélyezési eljárás | 28 000 |
 
-| 12.7.6. | Villamosenergia-ipari üzemeltetési engedélyezési eljárás | 25 000 |
+| 12.7.6. | Villamosenergia-ipari használatbavételi engedélyezési eljárás | 25 000 |
 
 | 12.8. | Közlekedési hatósági eljárások |  |
 
@@ -976,23 +1042,23 @@
 
 | 12.8.8. | Utak megszüntetésének engedélyezése | 33 000 |
 
-| 12.8.9. | Polgári repülőtér létesítésének elvi engedélyezése | 19 000 |
+| 12.8.9. |  |  |
 
 | 12.8.10. | Polgári repülőtér létesítésének engedélyezése | 50 000 |
 
-| 12.8.11. | Polgári repülőtér használatbavételének engedélyezése | 33 000 |
+| 12.8.11. |  |  |
 
-| 12.8.12. | Repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények fennmaradásának engedélyezése | 50 000 |
+| 12.8.12. | Repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények építésének, fennmaradásának engedélyezése | 50 000 |
 
-| 12.8.13. | Repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények megszüntetésének engedélyezése | 50 000 |
+| 12.8.13. |  |  |
 
 | 12.8.14. | Repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények fejlesztésének engedélyezése | 50 000 |
 
-| 12.8.15. | Légiforgalmi berendezések engedélyezése | 25 000 |
+| 12.8.15. |  |  |
 
 | 12.9. | Környezetvédelmi hatósági eljárások |  |
 
-| 12.9.1. | A területi hulladékgazdálkodási terv tervezetének véleményezési eljárása | 15 000 |
+| 12.9.1. |  |  |
 
 | 12.9.2. | A települési hulladékokkal kapcsolatos engedélyezési eljárások | 15 000 |
 
@@ -1016,9 +1082,17 @@
 
 | 12.11.3. | Vízbázisok védőterületeinek kijelölésével kapcsolatos engedélyezés | 50 000 |
 
-| 12.11.4. | Vízjogi létesítési engedélyezés | 50 000 |
+| 12.11.4. | Vízjogi létesítési engedélyezés |  |
 
-| 12.11.5. | Vízjogi üzemeltetési engedélyezés | 33 000 |
+| 12.11.4.1. | Vízjogi létesítési engedélyezés 400 m2 és 500 fm feletti talajfelszín megbontása esetén | 50 000 |
+
+| 12.11.4.2. | Vízjogi létesítési engedélyezés 400 m2 és 500 fm, illetve az alatti talajfelszín megbontása esetén | 25 000 |
+
+| 12.11.5. | Vízjogi üzemeltetési engedélyezés |  |
+
+| 12.11.5.1. | Vízjogi üzemeltetési engedélyezés (kivéve az egynyaras öntözés engedélyezése) | 25 000 |
+
+| 12.11.5.2. | Vízjogi üzemeltetési engedélyezés egynyaras öntözéshez | 5000 |
 
 | 12.11.6. | Vízjogi fennmaradási engedélyezés | 50 000 |
 
@@ -1026,41 +1100,39 @@
 
 | 12.12. | Ingatlanügyi hatósági eljárások |  |
 
-| 12.12.1.1. | Termőföld időleges más célú hasznosításának engedélyezése 400 m2 alatt | 10 000 |
+| 12.12.1.1. | Termőföld időleges más célú hasznosításának engedélyezése 400 m2 és az alatt | 10 000 |
 
 | 12.12.1.2. | Termőföld időleges más célú hasznosításának engedélyezése 400 m2 felett | 50 000 |
 
 | 12.12.2. | Más célra hasznosított termőföld újrahasznosítására készített terv jóváhagyása | 50 000 |
 
-| 12.12.3. | Termőföld végleges más célú hasznosítása | 50 000 |
+| 12.12.3. | Termőföld végleges más célú hasznosítása |  |
 
-| 12.12.4.1. | Termőföld engedély nélküli más célú hasznosítása esetén a más célú hasznosítás folytatásához való hozzájárulás 400 m2 alatt | 10 000 |
+| 12.12.3.1. | Termőföld végleges más célú hasznosítása 400 m2 és az alatt | 10 000 |
 
-| 12.12.4.2. | Termőföld engedély nélküli más célú hasznosítása esetén a más célú hasznosítás folytatásához való hozzájárulás 400 m2 alatt | 50 000 |
+| 12.12.3.2. | Termőföld végleges más célú hasznosítása 400 m2 felett | 50 000 |
+
+| 12.12.4. | Termőföld engedély nélküli más célú hasznosításának eljárásában való részvétel |  |
+
+| 12.12.4.1. | Termőföld engedély nélküli más célú hasznosításának eljárásában való részvétel 400 m2 és az alatti terület esetén | 10 000 |
+
+| 12.12.4.2. | Termőföld engedély nélküli más célú hasznosításának eljárásában való részvétel 400 m2 feletti terület esetén | 50 000 |
 
 | 12.13. | Szőlő telepítésével kapcsolatos engedélyezési eljárások |  |
 
 | 12.13.1. | Csemege- és alanyszőlő telepítés engedélyezése | 28 000 |
 
-| 12.13.2. | Árutermő, törzs- és kísérleti szőlőtelepítés engedélyezése | 28 000 |
+| 12.13.2. |  |  |
 
 | 12.14. | Gyümölcstelepítés engedélyezési eljárása | 28 000 |
 
-| 12.15. | Terület- és településrendezéssel, helyi építési szabályzattal kapcsolatos hatósági eljárások |  |
-
-| 12.15.1. | A településrendezési tervek és a helyi építési szabályzat előzetes véleményezési eljárása | 17 000 |
-
-| 12.15.2. | A településrendezési tervek és a helyi építési szabályzat véleményezési eljárása | 17 000 |
-
-| 12.15.3. | Területrendezési tervek egyeztetése, elfogadása | 17 000 |
-
-| 12.15.4. | Területrendezési hatósági eljárás | 50 000 |
+| 12.15. |  |  |
 
 | 12.16. | Kulturális örökségvédelmi hatósági eljárások |  |
 
-| 12.16.1. | Régészeti feltárás engedélyezése (beleértve a próba feltárást is) | 28 000 |
+| 12.16.1. | Régészeti feltárás engedélyezése (kivéve a megelőző feltárást) | 28 000 |
 
-| 12.16.2. | Régészeti mentő feltárás engedélyezése | 28 000 |
+| 12.16.2. |  |  |
 
 | 12.16.3. | Régészeti megelőző feltárás engedélyezése | 38 000 |
 
@@ -1071,6 +1143,12 @@
 | 12.17.2. | Talajvédelmi szakértői tevékenységi kör bővítésének bejelentésére nyilvántartásba vétel | 7 000 |
 
 | 12.18. | A jogorvoslati eljárásért fizetendő igazgatási szolgáltatási díj | a 12. pont alatt meghatározott díjtétel 50%-a |
+
+| 12.19. | Engedély módosítása, meghosszabbítása kérelemre (talajvédelmi szakhatósági eljárásokban) |  |
+
+| 12.19.1. | Engedély módosítása | A szakhatósági eljárásra megállapított díj 50%-a |
+
+| 12.19.2. | Engedély érvényességi idejének meghosszabbítása változatlan feltételek mellett | 10 000 |
 
 | 13. | VADGAZDÁLKODÁSI DÍJAK |  |
 
@@ -1088,141 +1166,211 @@
 
 | 13.3. | Kérelemre indult vadászati hatósági eljárás díjai |  |
 
-| 13.3.1. | Kérelem benyújtásával egyidejűleg fizetendő összeg | 10 000 |
+| 13.3.1. | Kérelem benyújtásával egyidejűleg fizetendő összeg, a vadászterület határának megállapításával, megváltoztatásával, földtulajdonosi képviselő nyilvántartásba vételével, vadászati jog hasznosításával, a vad vadászterületek közötti szállításának engedélyezésével összefüggő kérelmek kivételével | 10 000 |
 
-| 13.3.2. | Elsőfokú határozat ellen benyújtott jogorvoslati kérelem (kivéve vadgazdálkodási és vadvédelmi bírságot kiszabó határozat ellen) | 15 000 |
+| 13.3.2. | Kérelem benyújtásával egyidejűleg fizetendő összeg a vadászterület határának megállapításával, megváltoztatásával, földtulajdonosi képviselő nyilvántartásba vételével, vadászati jog hasznosításával összefüggő kérelmek esetén | 20 000 |
 
-| 13.3.3. | Vadgazdálkodási és vadvédelmi bírságot kiszabó határozat ellen benyújtott fellebbezés alapdíja | 15 000 |
-
-| 13.3.3.1. | Minden további jogsértéssel érintett jogcím alapján megállapított bírság esetén | + 10 000 |
+| 13.3.3. | A vad vadászterületek közötti szállításának engedélyezésére benyújtott kérelem díja (szállítmányonként) | 3000 |
 
 | 13.4. | Azonosító jel díja darabonként | 100 |
 
-| 14. | HALÁSZATI DÍJAK |  |
+| 14. | HALGAZDÁLKODÁSI DÍJAK |  |
 
-| 14.1. | Halászvizsga díja | 7 000 |
+| 14.1. | Halászvizsga díja | 7000 |
 
-| 14.2. | Horgászvizsga díja | 3 500 |
+| 14.2. | Horgászvizsga díja | 3500 |
 
-| 14.3. | Állami halászjegy és horgászjegy díja | 2 000 |
+| 14.3. | Turista állami horgászjegy díja | 2000 |
 
-| 14.4. | Halászati őr vizsgáztatásának díja | 5 000 |
+| 14.4. | Állami halász és horgász fogási napló díja | 200 |
 
-| 14.5. | Eskü kivételének díja | 3 000 |
+| 14.5. | Halászati engedély kiadásának díja | 10 000 |
 
-| 14.6. | Halászati őr igazolvány és szolgálati napló díja | 3 000 |
+| 14.5.1. | Fogási tanúsítvány nyomtatvány tömb díja | 1000 |
 
-| 14.7. | Szolgálati napló díja | 3 000 |
+| 14.6. | Halászati őr és társadalmi halőr vizsgáztatásának díja | 5000 |
 
-| 14.8. | Elsőfokú eljárás díja | 2 000 |
+| 14.7. | Halászati őr és társadalmi halőr eskü tételének díja | 3000 |
 
-| 14.9. | Elsőfokú hatósági döntés elleni fellebbezés alapdíja | 5 000 |
+| 14.7.1. | Halászati őr és társadalmi halőr szolgálati napló díja | 3000 |
 
-| 14.9.1. | Minden további jogsértéssel érintett jogcím alapján megállapított bírság esetén | + 3 000 |
+| 14.8. | Az IUU fogási tanúsítvány érvényesítése (tanúsítványonként) | 5000 |
+
+| 14.9. | Elsőfokú eljárás díja | 2000 |
 
 | 15. | ERDÉSZETI HATÓSÁGI ELJÁRÁSOK DÍJTÉTELEI |  |
 
 | 15.1. | Helyszínelést nem igénylő eljárások |  |
 
-| 15.1.1. | Alapdíj -Erdőterv határozat kiadása kérelemre induló eljárásban -a 15.1.2 pont alá tartozó eljárásokban | 6 500 |
+| 15.1.1. | Alapdíj | 6500 |
+
+|  | – erdőterv határozat kiadása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 113. § (13) bekezdése alapján kérelemre induló eljárásban; |  |
+
+|  | – az Evt. 15. § (2) bekezdése hatálya alá tartozó, a 15.2.1. pontban nem szereplő, erdei közjóléti létesítménynek nem minősülő egyéb nem nyomvonalas kialakítású erdészeti létesítménnyel kapcsolatos engedélyezési eljárások; |  |
+
+|  | – a 15.1.2 pont alá tartozó eljárásokban. |  |
 
 | 15.1.2. | Alapdíjon felül fizetett további díjak |  |
 
-| 15.1.2.1. | Földrészletenként - szabad rendelkezésű erdő átminősítése nem szabad rendelkezésű erdővé; - erdő telepítésének engedélyezése; - fásítás és szabad rendelkezésű erdő telepítésének engedélyezése; - meghiúsult erdőtelepítés törlése az Adattárból - erdő igénybevételének érvényes elvi engedély mellett történő engedélyezése; - az erdő időleges igénybevételére vonatkozó engedély meghosszabbítása | 500 |
+| 15.1.2.1. | Földrészletenként | 500 |
 
-| 15.1.2.2. | Földrészletenként - erdőgazdálkodó és a használatában álló erdő erdőgazdálkodói nyilvántartásba történő bejegyzése, törlése | 5 000 |
+|  | – szabad rendelkezésű erdő átminősítése nem szabad rendelkezésű erdővé; |  |
 
-| 15.1.2.3. | Erdőrészletenként - erdő fátlan állapotban tartásának engedélyezése; - erdő rendeltetéseinek megváltoztatása; - erdő üzemmódjának megváltoztatása; - erdősítési határidők módosításának engedélyezési eljárása; - tarvágás erdőfelújítási biztosíték nyújtásához kötése; - cserjék kivágásának engedélyezése vízgazdálkodási elsődleges rendeltetésű erdőben | 300 |
+|  | – erdő telepítésének engedélyezése; |  |
 
-| 15.1.2.4. | Kilométerenként - erdészeti magánút műtárgyának építésére, bővítésére, korszerűsítésére vagy fennmaradására vonatkozó önálló engedélyezési eljárás; - lovas és technikai sportverseny engedélyezése erdőben; - 15.2.2 pont alá tartozó eljárások | 3 000 |
+|  | – fásítás és szabad rendelkezésű erdő telepítésének engedélyezése; |  |
+
+|  | – meghiúsult erdőtelepítés törlése az Adattárból; |  |
+
+|  | – erdő igénybevételének érvényes elvi engedély mellett történő engedélyezése; |  |
+
+|  | – az erdő időleges igénybevételére vonatkozó engedély meghosszabbítása. |  |
+
+| 15.1.2.2. | Földrészletenként | 5000 |
+
+|  | – erdőgazdálkodó és a használatában álló erdő erdőgazdálkodói nyilvántartásba történő bejegyzése, törlése. |  |
+
+| 15.1.2.3. | Erdőrészletenként | 300 |
+
+|  | – erdő fátlan állapotban tartásának engedélyezése; |  |
+
+|  | – erdő rendeltetéseinek megváltoztatása; |  |
+
+|  | – erdő üzemmódjának megváltoztatása; |  |
+
+|  | – erdősítési határidők módosításának engedélyezési eljárása; |  |
+
+|  | – tarvágás erdőfelújítási biztosíték nyújtásához kötése; |  |
+
+|  | – cserjék kivágásának engedélyezése vízgazdálkodási elsődleges rendeltetésű erdőben. |  |
+
+| 15.1.2.4. | Kilométerenként | 3000 |
+
+|  | – az Evt. 15. § (2) bekezdése hatálya alá tartozó, a 15.2.2.3. vagy 15.3.2.2. pontban nem szereplő, erdei közjóléti létesítménynek nem minősülő egyéb nyomvonalas kialakítású erdészeti létesítménnyel kapcsolatos engedélyezési eljárások; |  |
+
+|  | – járműközlekedésre használható út kijelölése erdőben az Evt. 92. § (2) bekezdésében foglaltak szerint. |  |
 
 | 15.2. | Helyszínelést igénylő eljárások |  |
 
-| 15.2.1. | Alapdíj - erdészeti magánút műtárgyának építésére, bővítésére, korszerűsítésére vagy fennmaradására vonatkozó önálló engedélyezési eljárás; - lovas és technikai sportverseny engedélyezése erdőben; - 15.2.2 pont alá tartozó eljárások | 25 000 |
+| 15.2.1. | Alapdíj | 25 000 |
+
+|  | – erdészeti magánút műtárgyának építésére, bővítésére, korszerűsítésére vagy fennmaradására vonatkozó önálló engedélyezési eljárás; |  |
+
+|  | – lovas és gépjárműnek nem minősülő járművel folytatott, vagy egyéb technikai sportverseny engedélyezése erdőben; |  |
+
+|  | – az Evt. 15. § (2) bekezdése hatálya alá tartozó, külön nem nevesített erdei közjóléti berendezéssel vagy létesítménnyel kapcsolatos engedélyezési eljárások; |  |
+
+|  | – a 15.2.2. pont alá tartozó eljárásokban. |  |
 
 | 15.2.2. | Alapdíjon felül fizetett további díjak |  |
 
-| 15.2.2.1. | Földrészletenként - önerdősülés nyilvántartásba vétele az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 11. § (1) bekezdés e) pont szerinti szabad rendelkezésű erdőként;* - erdő Evt. 77. § d) pontja szerinti igénybevételének érvényes elvi engedély hiányában történő engedélyezése, fennmaradás engedélyezése* - erdő Evt. 77. § d) pontja szerinti igénybevételének előzetes elvi engedélyezése | 2 000 |
+| 15.2.2.1. | Földrészletenként | 2000 |
 
-| 15.2.2.2. | Erdőrészletenként - átalakítási vagy szálalási terv jóváhagyási eljárása; - erdőterv módosítása; - természetes mag eredetű erdőfelújításhoz kapcsolódó véghasználat, valamint szálalás március 31. és szeptember 1. közötti időszakban történő végrehajtásának engedélyezése; - erdészeti szaporítóanyag gyűjtésének engedélyezése | 2 000 |
+|  | – önerdősülés nyilvántartásba vétele az Evt. 11. § (1) bekezdés e) pontja szerinti szabad rendelkezésű erdőként; |  |
 
-| 15.2.2.3. | Kilométerenként - épített közelítő nyommal kapcsolatos engedélyezési eljárások; - az Evt. 92. § (2) bekezdése hatálya alá tartozó, az 1.1 mellékletben nem szereplő, egyéb járműközlekedésre használható út kijelölése erdőben | 10 000 |
+|  | – Evt. 77. § d) pontja szerinti igénybevételének érvényes elvi engedély hiányában történő engedélyezése; |  |
+
+|  | – erdő engedély nélküli vagy engedélytől eltérő, az Evt. 77. § d) pontja szerinti igénybevétele esetén a helyreállítási kötelezettség alóli felmentés megadása; |  |
+
+|  | – erdő Evt. 77. § d) pontja szerinti igénybevételének előzetes elvi engedélyezése. |  |
+
+| 15.2.2.2. | Erdőrészletenként | 2000 |
+
+|  | – erdőterv módosítása; |  |
+
+|  | – természetes mag eredetű erdőfelújításhoz kapcsolódó véghasználat, valamint szálalás március 31. és szeptember 1. közötti időszakban történő végrehajtásának engedélyezése; |  |
+
+|  | – erdészeti szaporítóanyag gyűjtésének engedélyezése. |  |
+
+| 15.2.2.3. | Kilométerenként | 10 000 |
+
+|  | – épített közelítő nyommal kapcsolatos engedélyezési eljárások; |  |
 
 | 15.3. | Erdő igénybevétel és erdészeti magánút építés engedélyezési eljárások |  |
 
-| 15.3.1. | Alapdíj - az Evt. 93. § (2) bekezdése hatálya alá tartozó, az 1.2. mellékletben nem szereplő, egyéb jármű technikai sportverseny engedélyezése erdőben; - 15.3.2 pont alá tartozó eljárások | 60 000 |
+| 15.3.1. | Alapdíj | 60 000 |
+
+|  | – gépjárművel folytatott technikai sportverseny engedélyezése erdőben; |  |
+
+|  | – a 15.3.2. pont alá tartozó eljárásokban. |  |
 
 | 15.3.2. | Alapdíjon felül fizetett további díjak |  |
 
-| 15.3.2.1. | Földrészletenként - erdő Evt. 77. § a)-c) pont szerinti igénybevételének előzetes elvi engedély hiányában történő engedélyezése, fennmaradás engedélyezése;* - erdő Evt. 77. § a)-c) pont szerinti igénybevételének előzetes elvi engedélyezése | 7 000 |
+| 15.3.2.1. | Földrészletenként | 7000 |
 
-| 15.3.2.2. | Kilométerenként - erdészet magánút építésének, bővítésének, korszerűsítésének vagy fennmaradásának engedélyezése - | 80 000 |
+|  | – erdő Evt. 77. § a)–c) pontja szerinti igénybevételének előzetes elvi engedély hiányában történő engedélyezése; |  |
 
-| 15.4. | Az erdészeti szakszemélyzet nyilvántartásával kapcsolatos eljárások |  |
+|  | – erdő engedély nélküli vagy engedélytől eltérő, az Evt. 77. § a)–c) pontja szerinti igénybevétele esetén a helyreállítási kötelezettség alóli felmentés megadása; |  |
 
-| 15.4.1. | Nyilvántartásba vétel szakszemélyzet átminősítése | 6 500 |
+|  | – erdő Evt. 77. § a)–c) pont szerinti igénybevételének előzetes elvi engedélyezése. |  |
 
-| 15.4.2. | Szolgálati igazolvány kiadása, pótlása, cseréje | 5 500 |
+| 15.3.2.2. | Kilométerenként | 80 000 |
 
-| 15.4.3. | Szolgálati jelvény kiadása, pótlása, cseréje | 8 000 |
+|  | – erdészet magánút építésének, bővítésének, korszerűsítésének vagy fennmaradásának engedélyezése. |  |
 
-| 15.4.4. | Szolgálati napló hitelesítése | 4 000 |
+| 15.4. | Az erdészeti szakszemélyzet, illetve a jogosult erdészeti szakszemélyzet nyilvántartásával kapcsolatos eljárások |  |
 
-| 15.5. | Adatszolgáltatási eljárások |  |
+| 15.4.1. | Nyilvántartásba vétel, átminősítés | 3000 |
 
-| 15.5.1. | erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott hiteles, teljes másolat kiadása földrészletenként | 4 000 |
+| 15.4.2. | Rendészeti feladatok ellátására nem jogosult szakszemélyzet részére szolgálati igazolvány kiadása, pótlása, cseréje | 5500 |
 
-| 15.5.2. | erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott hiteles, szemlemásolat kiadása földrészletenként | 2 000 |
+| 15.5. | Egyedi adatszolgáltatási eljárások |  |
 
-| 15.5.3. | erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott nem hiteles, teljes másolat kiadása földrészletenként | 3 000 |
+| 15.5.1. | Erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott hiteles, teljes másolat kiadása földrészletenként | 4000 |
 
-| 15.5.4. | erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott nem hiteles, szemlemásolat kiadása földrészletenként | 1 500 |
+| 15.5.2. | Erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott hiteles, szemlemásolat kiadása földrészletenként | 2000 |
 
-| 15.5.5. | adatszolgáltatás keretében hiteles adattári teljes másolat kiadása erdőrészletenként | 4 000 |
+| 15.5.3. | Erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott nem hiteles, teljes másolat kiadása földrészletenként | 3000 |
 
-| 15.5.6. | adatszolgáltatás keretében hiteles adattári szemlemásolat kiadása erdőrészletenként | 2 000 |
+| 15.5.4. | Erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott nem hiteles, szemlemásolat kiadása földrészletenként | 1500 |
 
-| 15.5.7. | adatszolgáltatás keretében nem hiteles adattári teljes másolat kiadása erdőrészletenként | 3 000 |
+| 15.5.5. | Adatszolgáltatás keretében hiteles adattári teljes másolat kiadása erdőrészletenként | 4000 |
 
-| 15.5.8. | adatszolgáltatás keretében nem hiteles adattári szemlemásolat kiadása erdőrészletenként | 1 500 |
+| 15.5.6. | Adatszolgáltatás keretében hiteles adattári szemlemásolat kiadása erdőrészletenként | 2000 |
 
-| 15.5.9. | adatszolgáltatás keretében rendszeresített erdőtervi statisztikai tábla kiadása meghatározott erdőterületre | 8 000 |
+| 15.5.7. | Adatszolgáltatás keretében nem hiteles adattári teljes másolat kiadása erdőrészletenként | 3000 |
 
-| 15.5.10. | adatszolgáltatás keretében erdészeti nyilvántartási térkép 1:10000 méretarányú másolatának (teljes szelvény) kiadása | 5 000 |
+| 15.5.8. | Adatszolgáltatás keretében nem hiteles adattári szemlemásolat kiadása erdőrészletenként | 1500 |
 
-| 15.5.11. | adatszolgáltatás keretében erdészeti nyilvántartási térkép 1:20000 méretarányú másolatának (teljes szelvény) kiadása | 7 500 |
+| 15.5.9. | Adatszolgáltatás keretében rendszeresített erdőtervi statisztikai tábla kiadása meghatározott erdőterületre | 8000 |
 
-| 15.5.12. | adatszolgáltatás keretében erdészeti nyilvántartási térkép adott részének másolatának (A4-es méretben) kiadása | 1 000 |
+| 15.5.10. | Adatszolgáltatás keretében erdészeti nyilvántartási térkép 1:10000 méretarányú másolatának (teljes szelvény) kiadása | 5000 |
+
+| 15.5.11. | Adatszolgáltatás keretében erdészeti nyilvántartási térkép 1:20000 méretarányú másolatának (teljes szelvény) kiadása | 7500 |
+
+| 15.5.12. | Adatszolgáltatás keretében erdészeti nyilvántartási térkép adott részének másolatának (A4-es méretben) kiadása | 1000 |
 
 | 15.6. | Jogorvoslati eljárások |  |
 
-| 15.6.1. | Végzés ellen kezdeményezett másodfokú eljárás | 9 000 |
+| 15.6.1. |  |  |
 
-| 15.6.2.1. | Határozat ellen kezdeményezett másodfokú eljárás | 20 000 |
+| 15.6.2.1. |  |  |
 
 | 15.6.2.2. | A 15.1-15.5 pontban foglalt eljárásban hozott határozat ellen kezdeményezett másodfokú eljárás díja. | a jogorvoslati kérelemmel érintett erdőrészlet, földrészlet vagy vonalas létesítmény szakasz alapul-vételével számított összeg 200 %-a |
 
-| 15.6.3. | Az újrafelvételi eljárás díja | megegyezik az elsőfokú díjköteles eljárás díjával |
+| 15.6.3. |  |  |
 
-| 15.7. | Az erdészeti hatóság más hatóság más hatóságnál, kérelemre indult eljárásban folytatott szakhatósági eljárásának díja | 7 500 |
+| 15.7. | Az erdészeti hatóság más hatóság más hatóságnál, kérelemre indult eljárásban lefolytatott szakhatósági eljárásai |  |
 
-| 15.8. | Fás szárú energetikai növények telepítésének díja |  |
+| 15.7.1. | Szakhatósági eljárás igazgatási szolgáltatási díja a 15.7.2. pontban foglalt, valamint az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet 3. § (2) bekezdése szerinti eljárás kivételével | 7500 |
 
-| 15.8.1. | Alapdíj, amely magában foglalja a helyszíni vizsgálat, talajmintavétel és laborvizsgálat költségeit | 11 000 |
+| 15.7.2. | Szakhatósági eljárás igazgatási szolgáltatási díja bányatelek megállapítása iránti eljárásban, ha a szakhatósági eljárás a külön jogszabály szerint az erdő igénybevételének előzetes elvi engedélyezésére is kiterjed | 60 000 |
 
-| 15.8.2. | Az alapdíjon felül, ha a talajmintavétel az 5 ha-t meghaladja, minden megkezdett 5 ha esetén további | 4 000 |
+| 15.8. | Fás szárú energetikai ültetvény telepítésével vagy a telepítés megszűntetésével kapcsolatos eljárások |  |
 
-| 15.8.3. | Telepítés és megszűntetés ellenőrzése, telepítés fennmaradásának engedélyezése | 9 000 |
+| 15.8.1. | Alapdíj | 11 000 |
 
-| 15.8.4. | ha az ugyanazon kérelmező által azonos időpontban benyújtott több, azonos célra irányuló kérelemben megjelölt ingatlanok egyikének területe sem haladja meg az öt hektárt, az ingatlanok egymással szomszédosak vagy egy dűlőben vannak | az alapdíj 50%-a |
+| 15.8.2. | Az alapdíjon felül a telepítéssel érintett terület minden megkezdett 5 hektárja után további | 4000 |
 
-| 15.8.5. | A jogorvoslati kérelem díja a 15.6.1-4. pont alatti eljárásokban hozott döntés esetén | az elsőfokú eljárásért fizetett díj 200 %-a |
+| 15.8.3. | Ha az egy kérelemben szereplő ingatlanok egyikének területe sem haladja meg az öt hektárt, az ingatlanok egymással szomszédosak vagy egy dűlőben vannak | 15.8.1. és 15.8.2. pontokban foglaltak szerint számított díj 50%-a |
 
-| 15.9 | Hatósági bizonyítvány kiállítása |  |
+| 15.8.4. | A 15.8.1–15.8.3. pontban foglalt elsőfokú eljárásban hozott határozat ellen kezdeményezett másodfokú eljárás díja | Jogorvoslati kérelemmel érintett terület alapul vételével a 15.8.1–15.8.3. pont alapján számított összeg 200%-a |
 
-| 15.9.1. | az első példányért | 2 000 |
+| 15.9. | Hatósági bizonyítvány kiállítása |  |
 
-| 15.9.2. | több azonos tartalmú bizonyítványnál minden további példányért |  |
+| 15.9.1. | Első példány kiállítása | 2000 |
+
+| 15.9.2. | Több azonos tartalmú bizonyítvány kiállítása esetén minden további példány díja | 600 |
 
 | 16. | BIOÜZEMANYAG-ELŐÁLLÍTÁSSAL KAPCSOLATOS DÍJAK |  |
 
@@ -1362,7 +1510,7 @@
 
 | 18.1.3.1.1.3. | Fémzárolás, helyszíni visszautasítás díja | 1 575 |
 
-| 18.1.3.1.1.4. | Drazsírozott helyszíni visszautasítás | 2 050 |
+| 18.1.3.1.1.4. | Drazsírozott, illetve csávázott minta helyszíni visszautasítás | 2 050 |
 
 | 18.1.3.1.1.5. | Export-import tételek | 4 725 |
 
@@ -1720,7 +1868,13 @@
 
 | 18.1.5.4.34.2. | Minőségi, specifikus meghatározás génkonstrukciónként | 16 000 |
 
-| 18.1.5.4.34.3. | Mennyiségi (kvantitatív) meghatározás | 50 000 |
+| 18.1.5.4.34.3. | Mennyiségi (kvantitatív) meghatározás DNS kivonásával | 50 000 |
+
+| 18.1.5.4.34.4. | Mennyiségi (kvantitatív) meghatározás DNS kivonása nélkül | 35 000 |
+
+| 18.1.5.4.35. | Eltérő közegen (homok, szerves vagy PP) végzett csírázóképességi vizsgálat alapdíjon felül | 1000 |
+
+| 18.1.5.4.35.1. | Drazsírozott, illetve csávázott minta | 1200 |
 
 | 18.1.5.5. | Egyéb szakmunkák díjtételei |  |
 
@@ -1752,7 +1906,7 @@
 
 | 18.1.5.5.4.8. | Egyéb igazolások (VPOP, egyenértékűség-vizsgálat stb.) tételenként | 5 250 |
 
-| 18.1.5.5.4.9. | Adatszolgáltatás | 25 200 |
+| 18.1.5.5.4.9. | Adatszolgáltatás (éves adat/alkalom), szántóföldi állományszemle kérelemre (kivéve rendeletben előírt minősítő szemle) | 25 200 |
 
 | 18.1.5.5.4.10. | Oktatás, vizsgáztatás (fő/nap) | 12 600 |
 
@@ -1798,7 +1952,7 @@
 
 | 18. 2.3.1.1.2. | Drazsírozott és/vagy csávázott minta | 5 880 |
 
-| 18.1.3.1.1.3. | Fémzárolás, helyszíni visszautasítás díja | 2 250 |
+| 18.2.3.1.1.3. | Fémzárolás, helyszíni visszautasítás díja | 2 250 |
 
 | 18.2.3.1.1.4. | Drazsírozott helyszíni visszautasítás | 2 960 |
 
@@ -1898,35 +2052,35 @@
 
 | 18.2.5.1.3.2. | Csírázóképesség |  |
 
-| 18.1.5.1.3.2.1. | Alapdíj | 2 100 |
+| 18.2.5.1.3.2.1. | Alapdíj | 2 100 |
 
-| 18.1.5.1.3.2.2. | Csávázott | 2 520 |
+| 18.2.5.1.3.2.2. | Csávázott | 2 520 |
 
-| 18.1.5.1.3.3. | TTC életképesség |  |
+| 18.2.5.1.3.3. | TTC életképesség |  |
 
-| 18.1.5.1.3.3.1. | Alapdíj | 2 520 |
+| 18.2.5.1.3.3.1. | Alapdíj | 2 520 |
 
-| 18.1.5.1.3.3.2. | csávázott | 3 570 |
+| 18.2.5.1.3.3.2. | csávázott | 3 570 |
 
-| 18.1.5.1.4. | Gyümölcs faiskolai vetőmagvak, erdészeti díszcserje magvak |  |
+| 18.2.5.1.4. | Gyümölcs faiskolai vetőmagvak, erdészeti díszcserje magvak |  |
 
-| 18.1.5.1.4.1. | Tisztaság |  |
+| 18.2.5.1.4.1. | Tisztaság |  |
 
-| 18.1.5.1.4.1.1. | Alapdíj | 2 520 |
+| 18.2.5.1.4.1.1. | Alapdíj | 2 520 |
 
-| 18.1.5.1.4.1.2. | csávázott | - |
+| 18.2.5.1.4.1.2. | csávázott | - |
 
-| 18.1.5.1.4.2. | Csírázóképesség |  |
+| 18.2.5.1.4.2. | Csírázóképesség |  |
 
-| 18.1.5.1.4.2.1. | Alapdíj | 2 520 |
+| 18.2.5.1.4.2.1. | Alapdíj | 2 520 |
 
-| 18.1.5.1.4.2.2. | Csávázott | - |
+| 18.2.5.1.4.2.2. | Csávázott | - |
 
-| 18.1.5.1.4.3. | TTC életképesség |  |
+| 18.2.5.1.4.3. | TTC életképesség |  |
 
-| 18.1.5.1.4.3.1. | alapdíj | 3 830 |
+| 18.2.5.1.4.3.1. | alapdíj | 3 830 |
 
-| 18.1.5.1.4.3.2. | csávázott | - |
+| 18.2.5.1.4.3.2. | csávázott | - |
 
 | 18.2.5.2. | Kombinált vizsgálat (TTC+csírázóképesség) esetén a csírázóképesség és TTC vizsgálatok díjtételeinek összegét össze kell adni |  |
 
@@ -2048,9 +2202,11 @@
 
 | 18.2.5.3.27.2.2. | Drazsírozott és/vagy csávázott minta |  |
 
-| 18.2.5.3.27.3.1 | Mennyiségi (kvantitatív) meghatározás | 25 000 |
+| 18.2.5.3.27.3.1 | Mennyiségi (kvantitatív) meghatározás DNS kivonásával | 50 000 |
 
 | 18.2.5.3.27.3.2. | Drazsírozott és/vagy csávázott minta |  |
+
+| 18.2.5.3.27.3.3. | Mennyiségi (kvantitatív) meghatározás DNS kivonása nélkül | 35 000 |
 
 | 18.2.5.4. | Egyéb szakmunkák díjtétele |  |
 
@@ -2082,7 +2238,7 @@
 
 | 18.2.5.4.5.8. | Egyéb igazolások (VPOP stb.) tételenként | 2 625 |
 
-| 18.2.5.4.5.9. | Adatszolgáltatás | 12 600 |
+| 18.2.5.4.5.9. | Adatszolgáltatás (éves adat/alkalom), szántóföldi állományszemle kérelemre (kivéve rendeletben előírt minősítő szemle) | 25 200 |
 
 | 18.2.5.4.5.10. | Oktatás, vizsgáztatás fő/nap | 6 300 |
 
@@ -2132,7 +2288,7 @@
 
 | 18.3.1.2.2.4.6. | szamóca 1000 db | 60 |
 
-| 18.3.1.2.2.5. | dísznövény fajok: |  |
+| 18.3.1.2.2.5. |  |  |
 
 | 18.3.1.2.2.5.1. | éves importjogosultság igazolás engedélyes faiskolásnak | 10 650 |
 
@@ -2145,6 +2301,14 @@
 | 18.3.1.2.4.1. | fajtánként | 5 900 |
 
 | 18.3.1.2.4.2. | Amennyiben a minőség, fajtaazonosság stb. megállapítása kiegészítő laboratóriumi vizsgálatot igényel, annak költsége külön térítendő. |  |
+
+| 18.3.1.3. | Csemegeszőlő, alanyszőlő ültetvény telepítésének engedélyezése összefüggő területenként | 5900 |
+
+| 18.3.1.4. | Árutermő szőlő- és gyümölcsültetvények szemléje telepítés, termőre fordítás, kivágás megvalósításának igazolása céljából |  |
+
+| 18.3.1.4.1. | 3 ha-ig | 5900 |
+
+| 18.3.1.4.2. | 3 ha felett ha-onként további | 1000 |
 
 | 18.3.2. | Szőlő szaporítóanyag vizsgálat és minősítés díjtételei |  |
 
@@ -2210,13 +2374,21 @@
 
 | 18.3.2.5.3.2. | Gyökeres szaporítóanyag telepítése, kezelése, vizsgálata évente, db-onként | 125 |
 
-| 18.3.2.6. | Állami támogatásból megvalósuló szőlőültevény beruházások szemléje, termőre fordítása területhelyenként és esetenként | 14 150 |
+| 18.3.2.6. |  |  |
 
-| 18.3.2.7. | Szőlőterületek szemléje a szőlőtermelési potenciál változásaival kapcsolatban az ügyfél kérelmére indult eljárás esetén |  |
+| 18.3.2.7. |  |  |
 
 | 18.3.2.7.1. | Szőlőtelepítés megvalósításának szemléje | 5 900 |
 
 | 18.3.2.7.2. | Szőlőültetvény kivágásának szemléje | 4 900 |
+
+| 18.3.2.8. | Szőlő-Gyümölcs termőhelyi kataszteri besoroláshoz kapcsolódó igazolás kiadásának díja | 5000 |
+
+| 18.3.2.9. | Szőlő-Gyümölcs termőhelyi kataszteri módosítása |  |
+
+| 18.3.2.9.1. | Szőlő-Gyümölcs termőhelyi kataszteri módosítása 5 db HRSZ–ig | 18 500 |
+
+| 18.3.2.9.2. | Szőlő-Gyümölcs termőhelyi kataszteri módosítása 6 db HRSZ felett | 25 000 |
 
 | 18.3.3. | Gyümölcs szaporítóanyag szemle és minősítés díjtételei az ügyfél kérelmére indult eljárás esetén |  |
 
@@ -2286,17 +2458,17 @@
 
 | 18.3.3.2.3.1. | faiskolai magtermő és szemzőhajtást, oltóvesszőt termő gyümölcsfák, fánként | 110 |
 
-| 18.3.3.2.3.2. | Gyökérnemes ültetvények (szamóca, málna, szeder, málnaszeder kivételével) |  |
+| 18.3.3.2.3.2. |  |  |
 
-| 18.3.3.2.3.3. | 0,1 ha-onként | 1 800 |
+| 18.3.3.2.3.3. | Gyökérnemes ültetvények (szamóca, málna, szeder, málnaszeder kivételével) 0,1 ha-onként | 1 800 |
 
-| 18.3.3.2.3.4. | Vegetatív alanytermő ültetvények |  |
+| 18.3.3.2.3.4. |  |  |
 
-| 18.3.3.2.3.5. | 0,1 ha-onként | 950 |
+| 18.3.3.2.3.5. | Vegetatív alanytermő ültetvények 0,1 ha-onként | 950 |
 
 | 18.3.3.2.3.6. | Szamóca, málna, szeder, málnaszeder ültetvény 0,1 ha-onként | 2 400 |
 
-| 18.3.3.2.3.7. | Alapdíj | 8 500 |
+| 18.3.3.2.3.7. | Törzsültetvény szemlék alapdíja területhelyenként | 8 500 |
 
 | 18.3.3.4. | Gyümölcs szaporítóanyag nagykereskedelmi tevékenység éves szemléje |  |
 
@@ -2324,7 +2496,7 @@
 
 | 18.3.3.5.3. | Gyümölcs ültetési anyagvizsgálata db-onként, évente | 200 |
 
-| 18.3.3.6. | Állami támogatásból megvalósuló árutermő gyümölcsös ültevény beruházások szemléje, termőre fordítása területhelyenként és esetenként | 14 150 |
+| 18.3.3.6. |  |  |
 
 | 18.3.4. | Erdészeti szemlék és minősítés díjtételei az ügyfél kérelmére indult eljárás esetén |  |
 
@@ -2626,6 +2798,10 @@
 
 | 19.1.13. | Borvidéken nem engedélyezett fajta kísérleti célból történő engedélyezése | 12 500 |
 
+| 19.1.14. | Hivatalos (angol vagy magyar nyelvű) kivonat a DUS vizsgálat eredményeiről | 12 500 |
+
+| 19.1.15. | Igazolás (angol vagy magyar nyelvű) kiadása állami elismerésről | 12 500 |
+
 | 19.2. | DUS vizsgálat éves díja |  |
 
 | 19.2.1 | Szántóföldi (a kukorica, a napraforgó, a repce, a rozs, a takarmánycirok, a búza és a kender hibrideknél a díjtételeket a hibridekre, a vonalakra és az alapegyszeresekre külön-külön kell fizetni) és zöldségnövények, valamint gyógy-, fűszer- és illóolajos növények vizsgálati alapdíja, | 86 100 |
@@ -2634,7 +2810,7 @@
 
 | 19.2.3. | Szőlő és gyümölcs ültetvények esetében a nem termő években fizetendő díj | 29 500 |
 
-| 19.2.4. | Dísznövények vizsgálati díja | 48 800 |
+| 19.2.4. | Dísznövények, erdészeti és fásszárú energetikai növények vizsgálati díja | 48 800 |
 
 | 19.2.5. | Gélelektroforézis vizsgálat (hibridfajták szülőkomponenseinek meghatározása) | 18 900 |
 
@@ -2646,11 +2822,13 @@
 
 | 19.2.7.2. | zöldség-, gyógy-, fűszer- és illóolajos növények | 21 200 |
 
-| 19.2.7.3. | szőlő, gyümölcs és dísznövények | 10 600 |
+| 19.2.7.3. | szőlő, gyümölcs, erdészeti növények, fásszárú energetikai növények és dísznövények | 10 600 |
 
 | 19.2.8. | Az állami elismerésre kötelezett fajoknál az állami elismerés meghosszabbításának vizsgálati díja esetében | a vizsgálati alapdíj 50%-a számítandó fel. |
 
 | 19.2.9. | A nem állami elismerésre kötelezett fajoknál az állami elismerés meghosszabbításának vizsgálati díja esetében | minden díjtétel 50%-a számítandó fel |
+
+| 19.2.10. | DUS vizsgálathoz előírt rezisztencia vizsgálatok díja kórokozónként | 8500 |
 
 | 19.3. | Gazdasági értékvizsgálat éves díja |  |
 
@@ -2662,7 +2840,7 @@
 
 | 19.3.1.3. | egyéb növényfajok esetén | 133 800 |
 
-| 19.3.2. | Gazdasági értékvizsgálat alapdíja szőlőnél és erdészeti fajtáknál | 31 200 |
+| 19.3.2. | Gazdasági értékvizsgálat alapdíja szőlőnél, erdészeti és fásszárú energetikai fajtáknál | 31 200 |
 
 | 19.3.4. | Szőlőfajták beltartalmi és érzékszervi vizsgálata | 27 800 |
 
@@ -2678,7 +2856,7 @@
 
 | 20.1. | Hatósági konzultáció, szakértői tevékenység, szaktanácsadás óradíja megkezdett óránként, az ügyfél kérelmére induló eljárás esetén | 12 000 |
 
-2. melléklet a 63/2012. (VII. 2.) VM rendelethez
+2. melléklet a 63/2012. (VII. 2.) VM rendelethez[^18]
 
 1. A Nemzeti Élelmiszerlánc-biztonsági Hivatal fizetési számlája:
 
@@ -2732,9 +2910,9 @@
 
 | Baranya Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10024003-00304294-00000000 |
 
-| Bács-Kiskun Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10025004-00299657-00000000 |
+| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
-| Békés Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10026005-00302711-00000000 |
+| Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóság | 10027006-00302924-00000000 |
 
@@ -2774,9 +2952,9 @@
 
 | Baranya Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10024003-00304304-00000000 |
 
-| Bács-Kiskun Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10025004-00299657-00000000 |
+| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
-| Békés Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10026005-00302728-00000000 |
+| Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10027006-00302759-00000000 |
 
@@ -2784,7 +2962,7 @@
 
 | Fejér Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10029008-00302632-00000000 |
 
-| Győr-Moson-Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10033001-00301576-00000000 |
+| Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
 
 | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | 10034002-00301758-00000000 |
 
@@ -2816,9 +2994,9 @@
 
 | Baranya Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10024003-00300953-00000000 |
 
-| Bács-Kiskun Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10025004-00299657-00000000 |
+| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
-| Békés Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10026005-00302735-00000000 |
+| Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10027006-00302797-00000000 |
 
@@ -2826,7 +3004,7 @@
 
 | Fejér Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10029008-00302694-00000000 |
 
-| Győr-Moson-Sopron Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10033001-00301590-00000000 |
+| Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
 
 | Hajdú-Bihar Megyei Kormányhivatal Földművelésügyi Igazgatóság | 10034002-00301789-00000000 |
 
@@ -2858,7 +3036,7 @@
 
 | Baranya Megyei Kormányhivatal Erdészeti Igazgatóság | 10024003-00304287-00000000 |
 
-| Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatóság | 10025004-00301026-00000000 |
+| Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Erdészeti Igazgatóság | 10027006-00302773-00000000 |
 
@@ -2875,3 +3053,5 @@
 | Veszprém Megyei Kormányhivatal Erdészeti Igazgatóság | 10048005-00301662-00000000 |
 
 | Zala Megyei Kormányhivatal Erdészeti Igazgatóság | 10049006-00302986-00000000 |
+
+[^18]: A 2. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
