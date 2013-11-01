@@ -46,31 +46,33 @@ HE: a háztartási energia KSH által közzétett éves átlagos árindexe.
 
 1.1.3. A díjak meghatározása
 
-A rendszeres ármegállapítás során a rendszerhasználati díjak megállapításánál a Hivatal a következő évre vonatkozóan (tárgyidőszak), az előző év alapján (bázisidőszak) a következő képleteket veszi figyelembe akként, hogy a 2. melléklet 2. pont c) alpontja szerinti „külön módszertan alapján számított költségeket” a képletekben szereplő költségelemek nem tartalmazhatják. A 2. melléklet 2. pont c) alpontja szerinti „külön módszertan alapján számított költségeket” a rendszeres ármegállapítás alkalmával újra kell számolni.
+1.1.3.1. A rendszeres ármegállapítás során a rendszerhasználati díjak megállapításánál a Hivatal a következő évre vonatkozóan (tárgyidőszak), az előző év alapján (bázisidőszak) a következő képleteket veszi figyelembe oly módon, hogy a 2. melléklet 2. pont c) alpontja szerinti „külön módszertan alapján számított költségeket” a képletekben szereplő költségelemek nem tartalmazhatják. A 2. melléklet 2. pont c) alpont ca)–cb) alpontja szerinti „külön módszertan alapján számított költségeket” a rendszeres ármegállapítás alkalmával újra kell számolni. A 2. melléklet 2. pont c) alpont cc) alpontja szerinti „külön módszertan alapján számított költségek” nem képezik részét az indokolt árbevétel-igénynek.
 
-1.1.3.1. A földgáz alaprendszeren történő továbbítása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
+1.1.3.2. A földgáz alaprendszeren történő továbbítása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
 
-A = Ae x zhf
+|  |  | A = Ae x zhf |
 
-1.1.3.2. A földgáz tárolása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
+1.1.3.3. A földgáz tárolása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
 
-B = Be x zhf
+|  |  | B = Be x zhf |
 
-1.1.3.3. A földgáz elosztása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
+1.1.3.4. A földgáz elosztása érdekében felmerülő költségek (indokolt árbevétel-igény) díjban elismerésre kerülő értéke:
 
-C = Ce x zhf
+|  |  | C = Ce x zhf |
 
-1.1.4. A tőkeköltség reál hozamtényezője a földgázszállítók által végzett tevékenység esetében minden felhasználó ellátása tekintetében:
+1.1.4. A tőkeköltség reál hozamtényezőjével kapcsolatos számítások
 
-THSZ: 8,78 %.
+1.1.4.1. A tőkeköltség reál hozamtényezője a földgázszállítók által végzett tevékenység esetében minden felhasználó ellátása tekintetében:
 
-Az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig a földgázelosztók és a földgáztárolók által végzett tevékenység tőkeköltségének reál hozamtényezője:
+|  | THSZ: 8,78%. |
 
-THESZ: a tőkeköltség reál hozamtényezője egységesen 2,28%.
+1.1.4.2. Az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig a földgázelosztók és a földgáztárolók által végzett tevékenység tőkeköltségének reál hozamtényezője:
 
-A földgázelosztók és a földgáztárolók által a nem az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig végzett tevékenység tőkeköltségének reál hozamtényezője:
+|  | THESZ: a tőkeköltség reál hozamtényezője egységesen 0%. |
 
-THV: a tőkeköltség reál hozamtényezője: földgázelosztás esetében: 8,29%, földgáztárolás esetében: 10,05%.
+1.1.4.3. A földgázelosztók és a földgáztárolók által a nem az egyetemes szolgáltatásra jogosult felhasználók ellátásának mértékéig végzett tevékenység tőkeköltségének reál hozamtényezője:
+
+|  | THV: a tőkeköltség reál hozamtényezője földgázelosztás esetében 8,29%, földgáztárolás esetében: 10,05%. |
 
 1.1.5. Nyereségkorlát és nyereség visszajuttatás a rendszeres ármegállapítás során
 
@@ -152,13 +154,11 @@ A rendszeres ármegállapítás során utólag elismerhető azon – az induló 
 
 1.1.7.5. Az elosztói engedélyes által havonta beszedett pótdíjak, valamint a –12 °C-nál hidegebb időben a többletértékesítés miatt felmerült többletköltség egyenlege éves szinten kiszámításra kerül. A negatív egyenleg közvetlenül a következő díjmegállapításnál, a pozitív egyenleg – a Hivatal döntése alapján – közvetlenül a következő díjmegállapításnál vagy közvetetten a kapacitásgazdálkodás elvét elősegítő beruházások megvalósításánál kerül figyelembevételre.
 
-1.1.7.6. Az adott gázévben meghatározott elosztás indokolt árbevétel igényének részét képező – elosztott mennyiségre vetített – elszámolási különbözet indokolt költsége a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 1. melléklet 1. pontjában szereplő képlettel adott gázévre számított átlagos földgázárral és az országos átlagos szállítási átlagárral kerül kiszámításra. Amennyiben adott gázévben az elosztónként differenciált elszámolási különbözet értéke 3%-ot meghaladó mértékben eltér a díjak számításánál figyelembe vett elszámolási különbözet indokolt költségétől, az eltérés irányának megfelelően a +3% feletti vagy a –3% alatti különbséget a következő gázévre vonatkozó elosztói díjra vonatkozó rendszeres ármegállapítás során a Hivatal figyelembe veszi.
+1.1.7.6.
 
 1.1.7.7. Az elosztási átszállítási díj megállapításakor az átszállításhoz kapcsolódó indokolt költségelemeknek az elosztási díj számításakor figyelembe vett közvetlen és közvetett indokolt költségek összegéhez, illetve az összesen elosztott mennyiséghez viszonyított aránya kerül figyelembevételre, tekintettel az 1.1.7.1. pontra. Egyebekben a díjszámítás menete a fentiekkel megegyező.
 
-1.2. Rendkívüli ármegállapítás
-
-A Hivatal rendkívüli ármegállapítás során is dönthet a rendszerhasználati díjakról, ha azt a földgázpiaci események egyértelműen szükségessé teszik. A Hivatal ezen események hatását akkor érvényesíti a rendszerhasználati díjakban, amikor azok elismerése indokolt.
+1.2. Rendkívüli ármegállapítás: a Hivatal rendkívüli ármegállapítás során is dönthet a rendszerhasználati díjakról.
 
 2. Jelölések
 
@@ -188,4 +188,4 @@ zh: a tárgyidőszaki rendszeres ármegállapításnál számított hibakorrekci
 
 zhf: a tárgyidőszaki rendszeres ármegállapításnál figyelembe veendő, hibakorrekciós tényezővel korrigált felülvizsgált inflációkövetési tényező.
 
-[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése szerint módosított szöveg.
+[^21]: A 4. mellékletet a 18/2010. (XII. 3.) NFM rendelet 16. §-a iktatta be, szövege a 28/2012. (V. 31.) NFM rendelet 15. §-ával megállapított, a 78/2012. (XII. 22.) NFM rendelet 25. §-a, a 13/2013. (IV. 3.) NFM rendelet 7. §-a, a 43/2013. (VII. 25.) NFM rendelet 13. § (2) bekezdés d) pontja és (3) bekezdése, az 58/2013. (IX. 27.) NFM rendelet 2. §-a, a 60/2013. (X. 16.) NFM rendelet 1. §-a szerint módosított szöveg.
