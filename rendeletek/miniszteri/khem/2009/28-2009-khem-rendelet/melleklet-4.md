@@ -1,117 +1,125 @@
-## I. Az egyetemes szolgáltató által az I. árkategória esetében alkalmazandó díjak
+## 1. Az egyetemes szolgáltató által az I. árkategória esetében alkalmazandó díjak
 
-## I.1. Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## 1.1. Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
+|  | A | B | C |
 
-| Ft | Ft/MJ |
+| 1. | Érintett vásárlói kör | Alapdíj (éves) Ft | Gázdíjak Ft/MJ |
 
-| <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 | 2,725 |
+| 2. | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 | 2,422 |
 
-| <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 2,968 |
+| 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 2,968 |
 
-## I.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
+## 1.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
 
-| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
+|  | A | B | C |
 
-| Ft | Ft/MJ |
+| 1. | Érintett vásárlói kör | Alapdíj (éves) Ft | Gázdíjak Ft/MJ |
 
-| <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 | 2,762 |
+| 2. | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 | 2,455 |
 
-| <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 3,009 |
+| 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 3,009 |
 
-## I.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## 1.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
+|  | A | B | C |
 
-| Ft | Ft/MJ |
+| 1. | Érintett vásárlói kör | Alapdíj (éves) Ft | Gázdíjak Ft/MJ |
 
-| <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 | 2,715 |
+| 2. | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 | 2,413 |
 
-| <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 2,957 |
+| 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 2,957 |
 
-## I.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## 1.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-| Érintett vásárlói kör | Alapdíj (éves) | Gázdíjak |
+|  | A | B | C |
 
-| Ft | Ft/MJ |
+| 1. | Érintett vásárlói kör | Alapdíj (éves) Ft | Gázdíjak Ft/MJ |
 
-| <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 | 2,845 |
+| 2. | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 | 2,529 |
 
-| <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 3,101 |
+| 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 3,101 |
 
-## II. Az egyetemes szolgáltató által a II. árkategória esetében alkalmazandó díjak
+## 2. Az egyetemes szolgáltató által a II. árkategória esetében alkalmazandó díjak
 
-## II.1. Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+## 2.1. Az E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság, az E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
+|  | A | B | C | D | E |
 
-| Ft | Ft/m3/h |
+| 1. | Ár- szabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak |
 
-| I.1 | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 |  | 3,128 |
+| 2. | Ft | Ft/m3/h | Ft/MJ |
 
-|  | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,415 |
+| 3. | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 |  | 2,780 |
 
-|  | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 11 076 |  | 2,866 |
+| 4. | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,415 |
 
-|  | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 17 608 | 2,339 |
+| 5. | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 9840 |  | 2,547 |
 
-|  | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,539 |
+| 6. | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 15651 | 2,079 |
 
-|  | C) | Gázmérővel nem rendelkezők |  |  | 2,978 |
+| 7. | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,539 |
 
-## II.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
+| 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,646 |
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
+## 2.2. Az Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén alkalmazandó díjak:
 
-| Ft | Ft/m3/h |
+|  | A | B | C | D | E |
 
-| I.1 | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 |  | 3,093 |
+| 1. | Ár- szabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak |
 
-|  | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,376 |
+| 2. | Ft | Ft/m3/h | Ft/MJ |
 
-|  | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 11 076 |  | 2,905 |
+| 3. | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 |  | 2,749 |
 
-|  | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 17 608 | 2,344 |
+| 4. | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,376 |
 
-|  | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,544 |
+| 5. | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 9840 |  | 2,582 |
 
-|  | C) | Gázmérővel nem rendelkezők |  |  | 3,021 |
+| 6. | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 15651 | 2,083 |
 
-## II.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+| 7. | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,544 |
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
+| 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,685 |
 
-| Ft | Ft/m3/h |
+## 2.3. A FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-| I.1 | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 |  | 3,149 |
+|  | A | B | C | D | E |
 
-|  | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,438 |
+| 1. | Ár- szabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak |
 
-|  | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 11 076 |  | 2,857 |
+| 2. | Ft | Ft/m3/h | Ft/MJ |
 
-|  | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 17 608 | 2,449 |
+| 3. | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 |  | 2,798 |
 
-|  | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,661 |
+| 4. | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,438 |
 
-|  | C) | Gázmérővel nem rendelkezők |  |  | 2,967 |
+| 5. | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 9840 |  | 2,539 |
 
-## II.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a NaturalGas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+| 6. | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 15651 | 2,177 |
 
-| Sor- szám | Árszabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak Ft/MJ |
+| 7. | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,661 |
 
-| Ft | Ft/m3/h |
+| 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,637 |
 
-| I.1 | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 11 076 |  | 3,264 |
+## 2.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
-| I.1 | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,567 |
+|  | A | B | C | D | E |
 
-|  | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 11 076 |  | 2,992 |
+| 1. | Ár- szabás | Érintett vásárlói kör | Alapdíjak (éves) | Gázdíjak |
 
-|  | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 17 608 | 2,443 |
+| 2. | Ft | Ft/m3/h | Ft/MJ |
 
-|  | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,654 |
+| 3. | A1) | <20 m3/h gázmérővel rendelkező lakossági felhasználók, kivéve fogyasztói közösségek | 9840 |  | 2,901 |
 
-|  | C) | Gázmérővel nem rendelkezők |  |  | 3,070 |
+| 4. | A2) | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 |  | 3,567 |
+
+| 5. | A3) | <20 m3/h gázmérővel rendelkező fogyasztói közösségek | 9840 |  | 2,659 |
+
+| 6. | B1) | ≥20 m3/h gázmérővel rendelkező lakossági felhasználók |  | 15651 | 2,171 |
+
+| 7. | B2) | 20 m3/h gázmérővel rendelkező nem lakossági felhasználók |  | 19 564 | 2,654 |
+
+| 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,729 |
 
 4. melléklet a 28/2009. (VI. 25.) KHEM rendelethez
