@@ -12,7 +12,7 @@ e) a temető bekerítését vagy élősövénnyel való lehatárolását,
 
 f) vízvételi lehetőséget, illemhelyet,
 
-g) a temető területének – rendeltetésének és a hely jellegének megfelelő – parkosítását, az utak sorfásítását,
+g) az utak sorfásítását,
 
 h) hulladéktárolót
 

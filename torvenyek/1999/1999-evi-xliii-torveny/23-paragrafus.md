@@ -1,1 +1,1 @@
-23. § Temetőn vagy temetkezési emlékhelyen kívül ravatalozni az egészségügyi államigazgatási szervnek az engedélyével lehet.
+23. § Temetőn, temetkezési emlékhelyen kívül holttestet ravatalozni az egészségügyi államigazgatási szerv engedélyével lehet.

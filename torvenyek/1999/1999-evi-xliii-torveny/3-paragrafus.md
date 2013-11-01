@@ -2,9 +2,9 @@
 
 3. § E törvény alkalmazásában
 
-a) temető: a település igazgatási területén belüli, beépítésre szánt, építési használata szerinti zöldfelületi jellegű különleges terület, amely kegyeleti célokat szolgál, közegészségügyi rendeltetésű, és amelyet az elhunytak eltemetésére, a hamvak elhelyezésére létesítettek és használnak, vagy használtak;
+a) temető: a település közigazgatási területén belüli, beépítésre szánt vagy beépítésre nem szánt, építési használata szerinti zöldfelületi jellegű különleges terület, amely kegyeleti célokat szolgál, közegészségügyi rendeltetésű, és amelyet az elhunytak eltemetésére, a hamvak elhelyezésére létesítettek és használnak, vagy használtak;
 
-b) köztemető: az önkormányzat tulajdonában lévő temető, továbbá az a nem önkormányzati tulajdonban lévő temető is, amelyben az önkormányzat – a temető tulajdonosával kötött megállapodás alapján – a köztemető fenntartására vonatkozó kötelezettségét teljesíti;
+b) köztemető: az önkormányzat tulajdonában lévő temető, továbbá az a nem önkormányzati tulajdonban lévő temető vagy temetőrész, amelyben az önkormányzat – a temető tulajdonosával kötött megállapodás alapján – a köztemető fenntartására vonatkozó kötelezettségét teljesíti;
 
 c) temetkezési emlékhely: a temetőn kívül, különösen templomban, altemplomban, templomkertben, történeti kertben, urnacsarnokházban vagy más építményben és területen lévő, az elhunytak eltemetésére, urnák elhelyezésére és hamvak szétszórására szolgál;
 

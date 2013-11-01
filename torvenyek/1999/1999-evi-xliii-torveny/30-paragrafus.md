@@ -4,13 +4,13 @@
 
 a) aki büntetlen előéletű, és nem áll a temetkezési szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 
-b) aki igazolja szakmai alkalmasságát, továbbá megfelelő pénzügyi teljesítőképességét,
+b) aki igazolja az e törvény végrehajtásáról kiadott kormányrendelet szerinti vagyoni biztosíték rendelkezésre állását,
 
 c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégzésre vonatkozó előírásoknak megfelelő, a tevékenység méltóságát nem sértő, a környezetben élők egészségét és a környezetet nem veszélyeztető telephellyel,
 
 d) aki írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenség nem áll fenn, és
 
-e) akinek gazdálkodó szervezet esetében legalább egy személyesen közreműködő tagja vagy alkalmazottja, egyéni vállalkozó esetében – ha a tevékenységet nem maga látja el – legalább egy foglalkoztatottja rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek.
 
 (3) A (2) bekezdésben meghatározott követelményeket – a (4) bekezdésben meghatározottakra figyelemmel –
 

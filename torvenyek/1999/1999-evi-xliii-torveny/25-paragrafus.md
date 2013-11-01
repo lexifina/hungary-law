@@ -8,11 +8,11 @@ a) a temetésfelvétel,
 
 b) az elhunytnak a kegyeleti igényeknek megfelelő temetésre való – az egészségügyi szolgáltató halottkezelési feladatkörébe nem tartozó és az egészségügyi intézmény területén kívül végzett – előkészítése,
 
-c) a temetéshez szükséges kellékekkel való ellátás,
+c) a temetéshez szükséges kellékekkel való ellátás, ideértve az eltemettető felé történő értékesítést is,
 
 d) a ravatalozás,
 
-e) a búcsúztatás,
+e)
 
 f) sírhelynyitás és visszahantolás,
 
@@ -32,4 +32,8 @@ m) az újratemetés.
 
 (2) A temetkezési szolgáltatási tevékenységek teljeskörűen vagy önállóan is végezhetők (a továbbiakban együtt: temetkezési szolgáltatás).
 
-(3) A vallási közösség által végzett vallásos szertartás szerinti búcsúztatás e törvény értelmében nem minősül temetkezési szolgáltatásnak.
+(3) E törvény értelmében nem minősül temetkezési szolgáltatásnak
+
+a) a vallási közösség tulajdonában lévő temetőben, temetkezési emlékhelyen a vallási közösség által vallási szertartás keretében végzett urnaelhelyezés,
+
+b) a felnőtt hospice-palliatív vagy gyermek palliatív ellátás nyújtására működési engedéllyel rendelkező fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál végzett ravatalozás.

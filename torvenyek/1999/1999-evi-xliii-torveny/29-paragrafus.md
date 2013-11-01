@@ -1,5 +1,5 @@
 ## A temetkezési szolgáltató
 
-29. § (1) Egészségügyi intézményben az orvos, az egészségügyi feladatot ellátó vezetői megbízású alkalmazott, továbbá az egészségügyi feladatot ellátó alkalmazott nem lehet temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég, illetőleg gazdasági társaság tagja, vezető tisztségviselője vagy alkalmazottja.
+29. § (1) Az egészségügyi intézménnyel vagy mentésre feljogosított szervezettel közalkalmazotti jogviszonyban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, a halottak kezelésében, kiadásában érintett alkalmazott vagy vele közös háztartásban élő hozzátartozója nem lehet temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég, gazdasági társaság vezető tisztségviselője, alkalmazottja, vagy – a nyilvánosan működő részvénytársaságot kivéve – tagja.
 
-(2) Az (1) bekezdésben felsoroltak közeli hozzátartozója [Ptk. 685. § b) pontja] nem lehet ugyanabban a megyében temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég tagja, illetőleg gazdasági társaság vezető tisztségviselője vagy alkalmazottja.
+(2)
