@@ -1,4 +1,4 @@
-17/C. §[^27] (1) A fűtési díjmegosztási arányok meghatározásához fűtési költségmegosztók akkor alkalmazhatók, ha
+17/C. §[^29] (1) A fűtési díjmegosztási arányok meghatározásához fűtési költségmegosztók akkor alkalmazhatók, ha
 
 a) a felhasználási hely külön tulajdonban vagy külön használatban álló épületrészeiben felszerelt valamennyi hőleadó készülék hőleadása azonos gyártmányú, egységes értékelési rendszerű fűtési költségmegosztóval kerül meghatározásra, vagy a felhasználási hely külön tulajdonban vagy külön használatban álló épületrészeiben a fűtési hőfelhasználás költségmegosztó funkciót ellátó hőfogyasztás-mérővel önállóan mérhető,
 
@@ -16,4 +16,4 @@ f) a fűtési költségmegosztók leolvasása, működőképességük és a plom
 
 (3) Párologtatós fűtési költségmegosztó – a 23/A. § (3) bekezdésében foglaltak kivételével – fűtési költségmegosztóként nem alkalmazható.
 
-[^27]: A Vhr. 17/C. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A Vhr. 17/C. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.

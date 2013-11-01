@@ -8,6 +8,9 @@
 
 (5)[^22] Ha a kérelmező a kérelemhez a 2. mellékletben meghatározott tulajdoni lap másolatokat és a földhivatali térképmásolatokat nem csatolja, a Tszt. 23. § (2) bekezdésében megjelölt hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
 
+(6)[^23] Az engedélyező hatóság a távhővezeték megvalósítását követően jogosult ellenőrizni, hogy a távhővezeték adatai az e-közműben szerepelnek-e. Amennyiben az e-közmű a távhővezeték adatait nem tartalmazza, az engedélyező hatóság a szolgáltatónál kezdeményezi a naprakész adatszolgáltatást.
+
 [^20]: A Vhr. 10. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 414. § szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^21]: A Vhr. 10. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 29. § (2) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 136. §-a szerint módosított szöveg.
 [^22]: A Vhr. 10. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 413. § (5) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A Vhr. 10. § (6) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
