@@ -16,6 +16,6 @@ f) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.
 
 g) az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joghoz kapcsolódó egyes jogokról;
 
-h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes kapcsolódó jogok védelmi idejének összehangolásáról;
+h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről és az azt módosító 2011/77/EU európai parlamenti és tanácsi irányelv;
 
 i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetővé tételéről, valamint a digitális megőrzésről 6. (a) és (c) alpontja.
