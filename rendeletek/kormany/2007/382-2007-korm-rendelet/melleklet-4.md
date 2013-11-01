@@ -1,4 +1,4 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^64]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^66]
 
 1. A villamosenergia-ipari építésügyi engedélyezési eljárásokban kijelölt szakhatóságok
 
@@ -68,4 +68,4 @@
 
 – kéményseprő-ipari szolgáltató szerv.
 
-[^64]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a, az 51/2013. (II. 25.) Korm. rendelet 16. §-a, a 86/2013. (III. 21.) Korm. rendelet 4. §-a, a 107/2013. (IV. 5.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^66]: A 4. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § c) pontjával megállapított, a 296/2012. (X. 17.) Korm. rendelet 34. §-a, a 394/2012. (XII. 20.) Korm. rendelet 23. §-a, a 402/2012. (XII. 28.) Korm. rendelet 7. §-a, az 51/2013. (II. 25.) Korm. rendelet 16. §-a, a 86/2013. (III. 21.) Korm. rendelet 4. §-a, a 107/2013. (IV. 5.) Korm. rendelet 7. §-a szerint módosított szöveg.

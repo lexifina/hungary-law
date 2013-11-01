@@ -1,4 +1,4 @@
-5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^65]
+5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^67]
 
 ## Az elvi építési és az építési engedély iránti kérelem adattartalma
 
@@ -36,4 +36,4 @@ d) kivitelezés tervezett befejezési időpontja.
 
 9. A kérelem tárgyával összefüggésben korábban keletkezett hatósági döntések megnevezése, iktatószáma és kelte.
 
-[^65]: Az 5. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § d) pontjával megállapított szöveg.
+[^67]: Az 5. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § d) pontjával megállapított szöveg.

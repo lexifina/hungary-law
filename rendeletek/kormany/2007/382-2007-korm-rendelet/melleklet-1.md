@@ -1,4 +1,4 @@
-1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^61]
+1. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^63]
 
 ## A vezetékjog engedélyezése és a vezeték építési engedély iránti kérelem adattartalma
 
@@ -66,4 +66,4 @@ e) átalakító és kapcsoló berendezés típusa.
 
 14. Termőföld esetében a termőföld más célú hasznosításának engedélyezéséről szóló hatósági határozat.
 
-[^61]: Az 1. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § a) pontjával megállapított szöveg.
+[^63]: Az 1. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § a) pontjával megállapított szöveg.
