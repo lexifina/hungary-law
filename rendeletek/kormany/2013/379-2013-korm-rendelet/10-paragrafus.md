@@ -1,0 +1,1 @@
+## „(5) A munkavégzés temetőbeli helye és ideje a folyamatban levő temetésre, búcsúztatásra, kegyeleti szertartások végzésére tekintettel és a temetőszabályzatban meghatározott előírások be nem tartása esetén korlátozható. A munkavégzés előzetes bejelentésének hiányában a temető üzemeltetője a temető területére munkavégzés céljából történő belépést megtilthatja.”

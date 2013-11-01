@@ -1,0 +1,1 @@
+## „(7) Ha a rendelkezési jog azért szűnik meg, mert a jogosult a holttestet más temetési helyen kívánja eltemetni, a jogosult részére a megfizetett megváltási díj időarányos részét vissza kell téríteni.”

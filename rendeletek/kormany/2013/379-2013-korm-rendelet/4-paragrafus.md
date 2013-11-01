@@ -1,0 +1,3 @@
+## 3. § A Vhr. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A sírbolt (kripta) koporsó elhelyezését biztosító, terepszint alatti és feletti, vagy kizárólag terepszint alatti vagy feletti építményből álló temetési hely. A sírbolt méretét a befogadott koporsók száma határozza meg. A sírbolt temetőn belüli elhelyezését a temető tulajdonosa (üzemeltetője) jelöli ki. Sírbolt az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben az építésügyi hatóság engedélye nélkül építhető.”

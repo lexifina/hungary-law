@@ -1,0 +1,3 @@
+## 13. § A Vhr. 32. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A hamvasztóüzem a temetkezési szolgáltató kérésére az egységesen érvényesített árairól tájékoztatást ad. A hamvasztásos temetés felvételekor a szolgáltató a felvételi irodában kifüggesztett árjegyzékben tájékoztatja az eltemettetőt a Magyarország területén található minden hamvasztó üzem, és a rendelkezésére álló információk alapján egyéb hamvasztó üzemek hamvasztási és szállítási díjáról. Az eltemettetőt külön tájékoztatni kell a legolcsóbb és legközelebbi hamvasztóüzemek díjairól. A tételes számlában a hamvasztóüzem által számlázott díjat kell érvényesíteni.”
