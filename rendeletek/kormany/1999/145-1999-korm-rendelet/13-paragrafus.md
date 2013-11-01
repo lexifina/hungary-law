@@ -1,5 +1,7 @@
 13. § (1) Temetési hely megjelölésére sírjel használható, illetőleg létesíthető.
 
-(2) A sírjel nem foglalhat el a szabályzatban meghatározott temetési helynél nagyobb területet, magasságát a helyi építési szabályzat, ennek hiányában az építésügyi hatóság korlátozhatja.
+(2)[^16] A sírjel nem foglalhat el a szabályzatban meghatározott temetési helynél nagyobb területet, magasságát a helyi építési szabályzat korlátozhatja.
 
 (3) A síremlék és tartozékai, valamint az emlékoszlop tervét (vázrajzát) a temető üzemeltetőjének az elhelyezés előtt be kell mutatni.
+
+[^16]: A 13. § (2) bekezdése a 379/2013. (X. 25.) Korm. rendelet 5. §-ával megállapított szöveg.

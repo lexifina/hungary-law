@@ -1,6 +1,6 @@
 ## Temetési hely feletti rendelkezési jog időtartama
 
-18. § (1)[^14] A temetési hely feletti rendelkezési jog időtartama (használati idő) nem lehet kevesebb, mint
+18. § (1)[^20] A temetési hely feletti rendelkezési jog időtartama (használati idő) nem lehet kevesebb, mint
 
 a) a koporsós betemetés, illetve rátemetés napjától számított 25 év;
 
@@ -10,17 +10,24 @@ c) urnafülke és urnasírhely esetén 10 év;
 
 d) urnasírbolt esetén 20 év.
 
-(2) A temetési hely feletti rendelkezési jog a (3) bekezdésben foglalt kivétellel meghosszabbítható (újraváltható). A meghosszabbítás legrövidebb időtartamára az (1) bekezdésben foglaltak az irányadók.
+(2)[^21] A temetési hely feletti rendelkezési jog a (3) bekezdésben meghatározott kivétellel, az (1) bekezdésben foglalt rendelkezési idő lejárta után meghosszabbítható (újraváltható). A temetési hely felett rendelkezni jogosult kérelmére az újraváltás időtartama az (1) bekezdésben meghatározott használati időnél lehet rövidebb, de legalább az (1) bekezdés a) és d) pontja esetében 10 év, az (1) bekezdés b) pontja esetében 30 év, az (1) bekezdés c) pontja esetében 5 év. Ha az újraváltás időtartama a megváltási időnél rövidebb, akkor az újraváltás díja nem lehet magasabb a megváltási díj időarányosan csökkentett részénél.
 
-(3) A meghosszabbítás nem tagadható meg, kivéve akkor, ha a temető tulajdonosa bizonyítja, hogy a területet átalakítja vagy más célra kívánja felhasználni. Erről a temetési hely felett rendelkezni jogosult nyilatkozatot kérhet.
+(3)[^22] A meghosszabbítás nem tagadható meg, kivéve akkor, ha
 
-(4)[^15] A szabályzat, illetve a temető, temetkezési emlékhely tulajdonosának az eltemettetővel kötött megállapodása az (1) bekezdésben meghatározott időtartamnál hosszabb használati időt is megállapíthat.
+a) a temető tulajdonosa a területet átalakítja, vagy más célra kívánja felhasználni; erről a temetési hely felett rendelkezni jogosult nyilatkozatot kérhet.
+
+b) a temetési hely, sírjel nem felel meg a szabályzat előírásainak.
+
+(4)[^23] A szabályzat, illetve a temető, temetkezési emlékhely tulajdonosának az eltemettetővel kötött megállapodása az (1) bekezdésben meghatározott időtartamnál hosszabb használati időt is megállapíthat.
 
 (5) Megszűnik a rendelkezés jog gyakorlása, ha a használati idő meghosszabbítás hiányában lejár, illetve, ha a temetési hely megszűnik.
 
 (6) A temetési helyre vonatkozó rendelkezési jog a temetési helyből kikerült holttest új temetési helyre történő áthelyezésével, illetve elhamvasztásával is megszűnik, kivéve, ha az urnát ugyanarra a temetési helyre rátemetéssel visszahelyezik.
 
-(7) Ha a rendelkezési jog azért szűnik meg, mert a jogosult a holttestet más temetési helyen kívánja eltemetni, a jogosult részére a megváltási díj időarányos részét vissza kell téríteni.
+(7)[^24] Ha a rendelkezési jog azért szűnik meg, mert a jogosult a holttestet más temetési helyen kívánja eltemetni, a jogosult részére a megfizetett megváltási díj időarányos részét vissza kell téríteni.
 
-[^14]: A 18. § (1) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított szöveg.
-[^15]: A 18. § (4) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg.
+[^20]: A 18. § (1) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított szöveg.
+[^21]: A 18. § (2) bekezdése a 379/2013. (X. 25.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^22]: A 18. § (3) bekezdése a 379/2013. (X. 25.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^23]: A 18. § (4) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg.
+[^24]: A 18. § (7) bekezdése a 379/2013. (X. 25.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

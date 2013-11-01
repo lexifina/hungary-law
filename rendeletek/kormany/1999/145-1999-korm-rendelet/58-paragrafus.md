@@ -1,4 +1,4 @@
-58. § (1) A hamvasztóüzemben nyilvántartó könyvet kell vezetni, amely tartalmazza a sorszámot, a hamvasztás napját, az elhalt nevét, születési idejét, az elhalálozás helyét és idejét, az üzembe beszállító szolgáltató nevét, címét, a szállító gépjármű forgalmi rendszámát, az átvétel napját, idejét, az urnaátadás idejét, módját, az átadás azonosító adatait (postai utalványszám) vagy az átvevő nevét, címét és aláírását. A nyilvántartást az üzem fennállásáig meg kell őrizni. Ha az üzem megszűnik, a nyilvántartás levéltárban való elhelyezéséről a tulajdonos gondoskodik. Ha az üzem más tulajdonos birtokába kerül, köteles a nyilvántartó könyvet tovább vezetni, és a korábbi nyilvántartó könyveket megőrizni.
+58. § (1)[^91]
 
 (2) A hamvasztóüzemben üzemi naplót kell vezetni. Ebben a hamvasztókemence automata regisztrációjával azonosítható módon rögzíteni kell az elhunyt hamvasztásának tényleges napját, idejét, az üzem működésének – a tulajdonos által meghatározott – egyéb eseményeit. Az automata regisztráció adatait 10 évig kell megőrizni.
 
@@ -6,6 +6,7 @@
 
 (4) A hamvasztóüzem az eltemettető részére igazolást ad az elhunyt hamvasztásának szabályszerű elvégzéséről.
 
-(5)[^67] A hamvasztó-helyiségben üzemidő alatt az üzemeltető szerv dolgozóin és a hatósági ellenőrzést végzőkön kívül más személy csak az üzemeltető vezetőjének engedélyével tartózkodhat.
+(5)[^92] A hamvasztó-helyiségben üzemidő alatt az üzemeltető szerv dolgozóin és a hatósági ellenőrzést végzőkön kívül más személy csak az üzemeltető vezetőjének engedélyével tartózkodhat.
 
-[^67]: Az 58. § (5) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 24. §-a iktatta a szövegbe.
+[^91]: Az 58. § (1) bekezdését a 379/2013. (X. 25.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^92]: Az 58. § (5) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 24. §-a iktatta a szövegbe.

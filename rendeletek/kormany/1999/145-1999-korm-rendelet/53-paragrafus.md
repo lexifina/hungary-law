@@ -1,13 +1,17 @@
-53. § (1) A vagyoni biztosíték mértéke a temetkezési szolgáltatás megkezdésekor 200 ezer Ft.
+53. § (1)[^82] A vagyoni biztosíték mértéke a temetkezési szolgáltatás megkezdésekor 500 000 forint.
 
-(2) Ha a temetkezési szolgáltatás megkezdésétől számított két év eltelt, illetőleg a szerződés meghosszabbításakor, a vagyoni biztosíték mértéke a tárgyévet megelőző évben a számviteli törvény szerint elszámolt nettó árbevételhez igazodóan
+(2)[^83] Ha a temetkezési szolgáltatás megkezdésétől számított két év eltelt, a vagyoni biztosíték mértéke a tárgyévet megelőző évben a számviteli törvény szerint elszámolt nettó árbevételhez igazodóan
 
-a) egymillió Ft nettó árbevételig 200 ezer Ft;
+a) 5 000 000 forint nettó árbevételig 500 000 forint;
 
-b) egymillió Ft és ötmillió Ft árbevétel között 400 ezer Ft;
+b) 5 000 001 forint és 10 000 000 forint nettó árbevétel között 1 000 000 forint;
 
-c) ötmillió Ft és tízmillió Ft árbevétel között 600 ezer Ft;
+c) 10 000 000 forint nettó árbevétel felett 2 000 000 forint.
 
-d) tízmillió Ft árbevétel fölött egymillió Ft.
+(2a)[^84] A temető üzemeltetője az (1) és a (2) bekezdésben meghatározott vagyoni biztosítékon túl a temetkezési szolgáltató számára további vagyoni biztosítékot nem határozhat meg.
 
 (3) A tevékenységét tovább folytató temetkezési szolgáltató a felhasznált vagyoni biztosítékot köteles haladéktalanul, de legkésőbb 30 napon belül pótolni.
+
+[^82]: Az 53. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^83]: Az 53. § (2) bekezdése a 379/2013. (X. 25.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^84]: Az 53. § (2a) bekezdését a 379/2013. (X. 25.) Korm. rendelet 24. § (2) bekezdése iktatta be.

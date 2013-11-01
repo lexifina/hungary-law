@@ -1,4 +1,4 @@
-43. §[^46] (1) Településen kívülre történő szállítás esetén az elhunytat kellő szilárdságú, vízhatlan módon hézagmentesített, ráillő fedéllel ellátott koporsóba kell helyezni. Szállítani erre a célra kialakított, fedéllel ellátott szállítókoporsóban is lehet.
+43. §[^63] (1) Településen kívülre történő szállítás esetén az elhunytat kellő szilárdságú, vízhatlan módon hézagmentesített, ráillő fedéllel ellátott koporsóba kell helyezni. Szállítani erre a célra kialakított, fedéllel ellátott szállítókoporsóban is lehet.
 
 (2) A koporsón belül műanyag zsákot kell használni a szállításra
 
@@ -12,4 +12,4 @@ b) a rendkívüli halálesetben vagy fertőző betegségben elhunyt, valamint 10
 
 (5) Hamvasztás céljára történő szállításhoz – ha a szállítás az elhalálozástól számított 120 órán belül megtörténik – fedéllel ellátott hamvasztó koporsó is használható.
 
-[^46]: A 43. § a 121/2005. (VI. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^63]: A 43. § a 121/2005. (VI. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
