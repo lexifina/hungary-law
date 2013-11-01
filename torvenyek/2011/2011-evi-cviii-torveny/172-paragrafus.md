@@ -36,7 +36,7 @@ k) az állami vagyon felügyeletéért felelős miniszterrel egyeztetve a közbe
 
 l) figyelemmel kíséri a közbeszerzési eljárás alapján megkötött szerződések módosítását és teljesítését;
 
-m) működteti a Közbeszerzési Adatbázist, amely a közbeszerzési eljárások központi nyilvántartása, elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását;
+m) működteti a Közbeszerzési Adatbázist, amely a közbeszerzési eljárások központi nyilvántartása, elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását; ennek keretében elektronikus közzétételi lehetőséget biztosít, ahol az ajánlatkérő a közbeszerzési eljárás dokumentációját központilag, térítésmentesen és teljes terjedelemben közvetlenül elektronikus úton az ajánlattevők számára hozzáférhetővé teheti, és ahonnan az ajánlattevők a közbeszerzési eljárások dokumentációit ingyenesen elérhetik;
 
 n) az állami vagyon felügyeletéért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában és a közbeszerzési tárgyú képzések koordinálásában, felügyeletében és ellenőrzésében;
 
