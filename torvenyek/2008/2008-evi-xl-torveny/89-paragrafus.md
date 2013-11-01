@@ -8,8 +8,10 @@
 
 (5) Az üzembe helyező az üzembe helyezés alkalmával köteles a felhasználóval a csatlakozóvezeték és a felhasználói berendezés szakszerű használatát, a gázmérő állagmegóvási és védelmi kötelezettségét, valamint a felhasználó egyéb kötelezettségeit ismertetni.
 
-(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – külön jogszabály tartalmazza.
+(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – az iparügyekért felelős miniszter rendelete, a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóságot kormányrendelet tartalmazza.
 
-(7) A fogyasztói főelzáró karbantartása és javítása az elosztó kötelessége, saját költségén.
+(7) A fogyasztói főelzáró karbantartása és javítása, valamint egyetemes szolgáltatásra jogosult felhasználók tekintetében – igénybejelentés esetében – a csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálata a földgázelosztó kötelessége, saját költségén.
+
+(7a) A (7) bekezdés szerinti műszaki-biztonsági felülvizsgálat nem minősül a földgázelosztó e törvény szerinti engedélyköteles tevékenységének.
 
 (8) A felhasználó és a szállítási rendszerüzemeltető vagy a földgázelosztó közötti egyéb megállapodás hiányában a szállítási rendszerüzemeltető vagy a földgázelosztó köteles a felhasználó számára az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti fogyasztásmérő berendezést és 100 m3/óra vagy azt meghaladó kapacitásigény esetén a fogyasztásmérő berendezést és az adatátviteli berendezést térítésmentesen biztosítani.
