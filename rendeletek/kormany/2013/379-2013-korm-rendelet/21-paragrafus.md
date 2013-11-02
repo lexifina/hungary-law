@@ -1,3 +1,3 @@
-## 20. §[^4]
+## 20. §[^9]
 
-[^4]: A 20. § a 33. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^9]: A 20. § a 33. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

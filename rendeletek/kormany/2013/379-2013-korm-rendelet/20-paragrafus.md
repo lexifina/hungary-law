@@ -1,3 +1,3 @@
-## 19. § A Vhr. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 15–19. §[^8]
 
-## „(1) A koporsós temetésre szolgáló temetési helyre sírnyitási engedéllyel – a sír megfelelő mélyítésével, alapméretenként egymás fölé helyezve – további legfeljebb egy elhalt vagy a szabályzatban rögzített számú 25 évnél régebbi holttestmaradvány temethető rá. Fertőző betegségben elhunyt sírhelyére csak a járási népegészségügyi intézet engedélye alapján lehet rátemetni. Ez esetben a rátemethető elhaltak számát a járási népegészségügyi intézet korlátozhatja. Rátemetés esetén – a 25 évnél régebben temetett és exhumált maradvány kivételével – biztosítani kell a temetési hely legalább 25 éves használatát. Rátemetés esetén a meghosszabbított sírhelyhasználati időre vonatkozó arányos sírhelyhasználati díjat kell megfizetni.”
+[^8]: A 15–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
