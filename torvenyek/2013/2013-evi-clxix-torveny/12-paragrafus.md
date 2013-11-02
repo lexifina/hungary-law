@@ -1,3 +1,0 @@
-12. § A Tfvt. a következő 13/A. §-sal egészül ki:
-
-„13/A. § Az épített környezet alakításáról és védelméről szóló törvényben meghatározott nyomvonal jellegű építmények létesítése érdekében megindult más célú hasznosítás iránti eljárás során, az első fokon kiadott engedély fellebbezéssel nem érintett rendelkezései jogerőssé válnak, ha az engedélyező határozat egyes rendelkezései ellen nyújtottak be fellebbezést, és a más célú hasznosítás jellegéből adódóan a fellebbezés elbírálása nem hat ki a határozatnak a fellebbezéssel meg nem támadott rendelkezéseire.”
