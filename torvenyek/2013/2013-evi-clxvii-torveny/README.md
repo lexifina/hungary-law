@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-167-00-00
 | 2013-10-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-167-00-00.1 |
 | 2013-10-23 | 2010. évi CXXX. törvény | 2013-167-00-00.2 |
 | 2013-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-167-00-00.3 |
+| 2013-11-02 | 2010. évi CXXX. törvény | 2013-167-00-00.4 |
