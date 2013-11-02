@@ -1,1 +1,0 @@
-## „(2) A közlekedési infrastruktúrával összefüggő állami feladatok közül az ÁAK Zrt. a KKK-val kötött szerződésben foglaltak szerint ellátja a használati díj és pótdíj beszedését, az ahhoz kapcsolódóan a szerződésben rögzített egyéb feladatokat, valamint a díjköteles utak díjfizetés ellenében történő használatának ellenőrzését.”

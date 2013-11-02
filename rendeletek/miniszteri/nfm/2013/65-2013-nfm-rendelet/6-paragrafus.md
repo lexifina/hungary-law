@@ -1,4 +1,4 @@
-## 5. §[^1]
+## 5. §[^3]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 5. § ezen rendelet kihirdetését követő 31. napon lép hatályba.
 
-[^1]: Az 5. § a 6. § (2) bekezdése alapján 2013. december 1-jén lép hatályba.
+[^3]: Az 5. § a 6. § (2) bekezdése alapján 2013. december 1-jén lép hatályba.
