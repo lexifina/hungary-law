@@ -1,1 +1,0 @@
-## 1. § A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet 6. § (4) bekezdésében az „1.1.4. pontja szerinti reálhozam tényező 2,28%-os” szövegrész helyébe az „1.1.4.1. pontja szerinti reálhozam tényező 0%-os” szöveg lép.
