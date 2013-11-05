@@ -1,5 +1,5 @@
-## 12. §[^22]
+## 12. §[^49]
 
 1. melléklet a 71/2010. (V. 13.) FVM rendelethez
 
-[^22]: A 12. §-t a 11. § (4) bekezdése hatályon kívül helyezte.
+[^49]: A 12. §-t a 11. § (4) bekezdése hatályon kívül helyezte.

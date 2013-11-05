@@ -1,20 +1,26 @@
-## 6. §[^6] A rendőrség által az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet részére kiadott szolgálati jelvény a középen egy 45 mm külső átmérőjű, kör alakú betétet tartalmaz. A betét külső részén 5 mm-es sötétzöld, azon belül 1 mm-es fekete színű keret, azon belül világoszöld alapon sötétzöld, öt tölgylevélből álló erdészcsillag található. Az alkalmazott zöld színek iránykódjai: Pantone 377C és Pantone 378C. A külső sötétzöld keret sávjában „ERDÉSZETI SZAKSZEMÉLYZET” fehér színű felirat szerepel.
+7. § (1)[^14] Az NÉBIH a jogosult erdészeti szakszemélyzet részére az alábbi hatósági szakmai továbbképzéseket szervezi:
 
-7. § (1)[^7] Az erdészeti hatóság a jogosult erdészeti szakszemélyzet részére az alábbi hatósági szakmai továbbképzéseket szervezi:
-
-a) az erdőgazdálkodást és az erdészeti szakirányítást érintő hatályos jogszabályokról szóló általános továbbképzés,
+a)[^15] az erdőgazdálkodást és az erdészeti szakirányítást érintő hatályos jogszabályokról és azok alkalmazásáról szóló általános továbbképzés,
 
 b) az a) pontban foglalt jogszabályok változásairól, valamint az alkalmazásuk aktuális kérdéseiről szóló, szükség szerinti gyakorisággal szervezett kiegészítő továbbképzés.
 
-(2) A jogosult erdészeti szakszemélyzet köteles az (1) bekezdés szerinti továbbképzéseken – az előadások és konzultációk időtartamának legalább 80%-án – részt venni.
+(2)[^16] A jogosult erdészeti szakszemélyzet köteles az (1) bekezdés szerinti továbbképzéseken – az előadások és konzultációk időtartamának legalább 80%-án – részt venni és vizsgát tenni.
 
-(3) Az (1) bekezdés szerinti továbbképzések ismeretanyagát, helyét, időpontját, időtartamát, tematikáját, továbbá a jelentkezés módját az erdészeti hatóság központi szerve határozza meg és azt a honlapján közzéteszi.
+(3)[^17] Az (1) bekezdés szerinti továbbképzések tartalmát, fő témaköreit a NÉBIH határozza meg.
 
-(4) A továbbképzésre történő jelentkezést az erdészeti hatóság akkor fogadja el, ha az a továbbképzés időpontját legalább 15 nappal megelőzően beérkezik.
+(4)[^18] A továbbképzésre és megismételt vizsgára, annak időpontját legalább 15 nappal megelőzően a NÉBIH-nél, az általa rendszeresített, és a honlapján közzétett jelentkezési lapon lehet jelentkezni.
 
-(5) Az erdészeti hatóság a továbbképzésre jelentkezőket a jelentkezés során általuk megadott módon értesíti a jelentkezés elfogadásáról, és a jelentkezők névsorát a továbbképzés időpontját megelőzően legalább 5 nappal a honlapján közzéteszi.
+(5)[^19] Az NÉBIH a továbbképzésre jelentkezőket a jelentkezés során általuk megadott módon értesíti a jelentkezés elfogadásáról, és a jelentkezők névsorát a továbbképzés időpontját megelőzően legalább 5 nappal a honlapján közzéteszi.
 
-(6) Az erdészeti hatóság a továbbképzésen részt vevő mindazon személyek részére, akik igazolt módon az óraszám legalább 80%-ában a képzésen részt vettek, tanúsítványt állít ki és a továbbképzés teljesítését a jogosult erdészeti szakszemélyzet esetében bejegyzi a névjegyzékbe.
+(6)[^20] A NÉBIH a továbbképzésen részt vevő mindazon személyek részére, akik igazolt módon az óraszám legalább 80%-ában a továbbképzésen részt vettek és a továbbképzés végén eredményes vizsgát tettek, tanúsítványt állít ki és a továbbképzés teljesítését a jogosult erdészeti szakszemélyzet esetében bejegyzi a névjegyzékbe.
 
-[^6]: A 6. § a 45/2013. (VI. 3.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^7]: A 7. § (1) bekezdés nyitó szövegrésze a 45/2013. (VI. 3.) VM rendelet 5. § (8) bekezdés b) pontja szerint módosított szöveg.
+(7)[^21] Az (1) bekezdés szerinti továbbképzések megszervezésével a NÉBIH erdészeti szakirányú képzésre akkreditált intézményt bízhat meg.
+
+[^14]: A 7. § (1) bekezdés nyitó szövegrésze a 45/2013. (VI. 3.) VM rendelet 5. § (8) bekezdés b) pontja, a 102/2013. (XI. 4.) VM rendelet 13. § c) pontja szerint módosított szöveg.
+[^15]: A 7. § (1) bekezdés a) pontja a 102/2013. (XI. 4.) VM rendelet 13. § d) pontja szerint módosított szöveg.
+[^16]: A 7. § (2) bekezdése a 102/2013. (XI. 4.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^17]: A 7. § (3) bekezdése a 102/2013. (XI. 4.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^18]: A 7. § (4) bekezdése a 102/2013. (XI. 4.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^19]: A 7. § (5) bekezdése a 102/2013. (XI. 4.) VM rendelet 13. § c) pontja szerint módosított szöveg.
+[^20]: A 7. § (6) bekezdése a 102/2013. (XI. 4.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^21]: A 7. § (7) bekezdését a 102/2013. (XI. 4.) VM rendelet 7. § (3) bekezdése iktatta be.

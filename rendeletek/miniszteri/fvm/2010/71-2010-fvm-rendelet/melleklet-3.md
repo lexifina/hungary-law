@@ -70,24 +70,12 @@
 
 ## II. Egyenruha kiegészítő jelzései
 
-## 1.
+## 1. A 6/A. § (1) bekezdésében foglalt szolgálati igazolvánnyal rendelkező szakszemélyzet az alábbi ábra szerinti kiegészítő jelzést viseli:
 
-## 2. Az erdészeti igazgatási és hatósági feladatokat ellátó személyek az egyenruha bal felső karján az alábbi ábra és leírás szerinti kiegészítő jelzést viselik:
+## 2. Az erdészeti igazgatási és hatósági feladatokat ellátó személyek az alábbi ábra szerinti kiegészítő jelzést viselik:
 
-## A kiegészítő jelzés 60 mm átmérőjű, külső részén sötétzöld (irány színkód: Pantone 377C), belül világoszöld (irány színkód: Pantone 378C) alapszínű. A kiegészítő jelzéseken lévő erdészcsillag alapszíne a külső rész alapszínével megegyező. A két alapszínt egymástól körben, fekete színű vonal választja el. A kiegészítő jelzéseken lévő feliratok, fehér színűek.
+## 3. Az 1. és 2. pontban szereplő kiegészítő jelzések 60 mm átmérőjűek, a külső részükön sötétzöld (irány színkód Pantone 377C), belül világoszöld (irány színkód Pantone 378C) alapszínűek. A kiegészítő jelzéseken lévő erdészcsillag alapszíne a külső rész alapszínével megegyező. A két alapszínt egymástól körben, fekete színű vonal választja el. A kiegészítő jelzéseken lévő feliratok, fehér színűek.
 
-## 3.
+3. számú melléklet a 71/2010. (V. 13.) FVM rendelethez[^51]
 
-## 4.
-
-3. számú melléklet a 71/2010. (V. 13.) FVM rendelethez[^24]
-
-Az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványa
-
-A rendészeti feladatokat ellátók szolgálati igazolványa az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 10. § (2) bekezdésében meghatározott adattartalommal rendelkező
-
-1. Az ISO 7810 (1995) vagy azzal egyenértékű szabványnak megfelelő, ID-1 méretű, többrétegű, melegen laminált, műanyag kártya, amely megfelel az A okmányvédelmi kategóriának.
-
-2. Az alapanyagba integrált arckép méretének legalább 30x24 mm-nek kell lenni. Az arcképmezőn belül az áll és a fejtető közötti résznek a teljes képmagasság 70-80%-a közöttinek kell lenni.
-
-[^24]: A 3. számú mellékletet a 45/2013. (VI. 3.) VM rendelet 5. § (7) bekezdése iktatta be.
+[^51]: A 3. számú mellékletet a 45/2013. (VI. 3.) VM rendelet 5. § (7) bekezdése iktatta be, hatályon kívül helyezte a 102/2013. (XI. 4.) VM rendelet 14. § (2) bekezdés e) pontja.

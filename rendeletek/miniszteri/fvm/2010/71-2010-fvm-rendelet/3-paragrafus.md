@@ -1,14 +1,20 @@
-3. § (1) A nyilvántartásba vételre irányuló kérelmet az erdészeti hatóság központi szerve által rendszeresített és a honlapján közzétett formanyomtatványon, az erdészeti hatóság kérelmező állandó lakóhelye, vagy tartózkodási helye szerint illetékes területi szervéhez kell benyújtani.
+3. § (1)[^7] A nyilvántartásba vételre irányuló kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által rendszeresített és a honlapján közzétett formanyomtatványon, a kérelmező állandó lakóhelye, vagy tartózkodási helye szerint illetékes erdészeti hatósághoz kell benyújtani.
 
-(2) Az (1) bekezdés szerinti kérelemhez csatolni kell
+(2)[^8] Az (1) bekezdés szerinti kérelemhez csatolni kell
 
 a) az erdészeti végzettséget igazoló dokumentum másolatát,
 
-b) jogosult erdészeti szakszemélyzetként történő nyilvántartásba vételre irányuló kérelem esetén a szakmai gyakorlati időre vonatkozó igazolások másolatát, valamint nem magyar nyelvű igazolás esetén annak hiteles fordítását,
+b) a 2007. március 1-jét követően megszerzett felsőfokú végzettség esetében hozzájárulást ahhoz, hogy a végzettséget igazoló dokumentum adatait az erdészeti hatóság a felsőoktatási információs rendszerben kezelt adatok beszerzésével ellenőrizze,
 
-c)[^4] a 2. § (1) bekezdésének b) pontjában foglalt szolgálati igazolvány és jelvény kiadására irányuló, a rendőrség részére szóló kérelmet, annak mellékleteivel.
+c) jogosult erdészeti szakszemélyzet esetében
 
-d)[^5]
+ca) a szakmai gyakorlati időre vonatkozó igazolások másolatát, valamint nem magyar nyelvű igazolás esetén annak hiteles fordítását, és
 
-[^4]: A 3. § (2) bekezdés c) pontja a 45/2013. (VI. 3.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (2) bekezdés d) pontját a 45/2013. (VI. 3.) VM rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+cb) a 2. § (2) bekezdés b) pontja szerinti továbbképzés teljesítéséről szóló tanúsítványt,
+
+d) rendészeti feladatokat ellátó szakszemélyzet esetében a 2. § (2a) bekezdésében foglalt szolgálati igazolvány és jelvény kiadására irányuló, az általános rendőrségi feladatok ellátására létrehozott szerv részére szóló kérelmet, annak mellékleteivel, valamint
+
+e) kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet esetében egy 3x4 cm méretű arcfényképet.
+
+[^7]: A 3. § (1) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 3. § (2) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.

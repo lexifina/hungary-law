@@ -36,6 +36,6 @@
 
 ## 2.9 Az Erdészeti Vízépítési és Vízgazdálkodási Szakközépiskolában megszerzett erdészeti képesítés.
 
-2. melléklet a 71/2010. (V. 13.) FVM rendelethez[^23]
+2. melléklet a 71/2010. (V. 13.) FVM rendelethez[^50]
 
-[^23]: A 2. melléklet a 45/2013. (VI. 3.) VM rendelet 5. § (6) és (9) bekezdése szerint módosított szöveg.
+[^50]: A 2. melléklet a 45/2013. (VI. 3.) VM rendelet 5. § (6) és (9) bekezdése, a 102/2013. (XI. 4.) VM rendelet 12. §-a szerint módosított szöveg.
