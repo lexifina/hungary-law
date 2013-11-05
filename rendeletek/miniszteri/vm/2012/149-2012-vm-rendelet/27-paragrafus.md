@@ -1,0 +1,3 @@
+## 26. §[^23] E rendelet 1. mellékletének a Borsod-Abaúj-Zemplén Megyei Kormányhivatal és a Csongrád Megyei Kormányhivatal Földhivatalainak járási földhivatalai illetékességi területeinek változásával összefüggésben a járási földhivatalok illetékességi területeinek kijelöléséről szóló 149/2012. (XII. 28.) VM rendelet módosításáról szóló 100/2013. (X. 31.) VM rendelettel (a továbbiakban: Mr7. rendelet) megállapított 5. pont 5.2., 5.4., 5.7. és 5.8. alpontját a 2013. november 4-én folyamatban lévő eljárásokban is alkalmazni kell.
+
+[^23]: A 26. §-t a 100/2013. (X. 31.) VM rendelet 2. §-a iktatta be.
