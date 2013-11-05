@@ -1,0 +1,9 @@
+# 101/2013. (XI. 4.) VM rendelet
+
+egyes borászati és egyéb agrártámogatási tárgyú miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-101-20-2Y
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-11-05 | 2013-101-20-2Y.1 | 101/2013. (XI. 4.) VM rendelet |

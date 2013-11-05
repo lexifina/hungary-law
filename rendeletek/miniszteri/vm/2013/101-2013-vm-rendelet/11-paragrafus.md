@@ -1,0 +1,1 @@
+## „c) az angoltól különböző idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását.”
