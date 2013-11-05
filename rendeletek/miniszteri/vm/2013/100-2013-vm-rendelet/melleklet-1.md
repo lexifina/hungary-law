@@ -1,14 +1,154 @@
 1. melléklet a 100/2013. (X. 31.) VM rendelethez
 
-1. Az R. 1. melléklet 5. pont 5.2., 5.4., 5.7. és 5.8. alpontja helyébe a következő rendelkezések lépnek:
+1.[^3]
 
-„5.2. Encsi Járási Hivatal Járási Földhivatala (székhelye: Encs)
+2. Az R. 1. melléklet 5. pont 5.1., 5.2., 5.5. és 5.7. alpontja helyébe a következő rendelkezések lépnek:
+
+„5.1. Edelényi Járási Hivatal Járási Földhivatala (székhelye: Edelény)
+
+Abod
+
+Alacska
+
+Alsótelekes
+
+Balajt
+
+Bánhorváti
+
+Becskeháza
+
+Berente
+
+Bódvalenke
+
+Bódvarákó
+
+Bódvaszilas
+
+Boldva
+
+Borsodszirák
+
+Damak
+
+Debréte
+
+Dédestapolcsány
+
+Edelény
+
+Égerszög
+
+Felsőtelekes
+
+Galvács
+
+Hangács
+
+Hegymeg
+
+Hidvégardó
+
+Irota
+
+Izsófalva
+
+Kazincbarcika
+
+Komjáti
+
+Kurityán
+
+Lak
+
+Ládbesenyő
+
+Martonyi
+
+Mályinka
+
+Meszes
+
+Múcsony
+
+Nagybarca
+
+Nyomár
+
+Ormosbánya
+
+Perkupa
+
+Rakaca
+
+Rakacaszend
+
+Rudabánya
+
+Rudolftelep
+
+Sajógalgóc
+
+Sajóivánka
+
+Sajókaza
+
+Sajószentpéter
+
+Szakácsi
+
+Szalonna
+
+Szendrő
+
+Szendrőlád
+
+Szin
+
+Szinpetri
+
+Szögliget
+
+Szőlősardó
+
+Szuhakálló
+
+Szuhogy
+
+Tardona
+
+Teresztenye
+
+Tomor
+
+Tornabarakony
+
+Tornakápolna
+
+Tornanádaska
+
+Tornaszentandrás
+
+Tornaszentjakab
+
+Vadna
+
+Varbóc
+
+Viszló
+
+Ziliz
+
+5.2. Encsi Járási Hivatal Járási Földhivatala (székhelye: Encs)
 
 Abaújalpár
 
 Abaújkér
 
 Abaújlak
+
+Abaújszántó
 
 Abaújszolnok
 
@@ -23,6 +163,8 @@ Arka
 Aszaló
 
 Baktakék
+
+Baskó
 
 Beret
 
@@ -67,6 +209,8 @@ Gagyvendégi
 Garadna
 
 Gibárt
+
+Golop
 
 Gönc
 
@@ -144,6 +288,8 @@ Regéc
 
 Selyeb
 
+Sima
+
 Szalaszend
 
 Szászfa
@@ -153,6 +299,8 @@ Szemere
 Szentistvánbaksa
 
 Szikszó
+
+Tállya
 
 Telkibánya
 
@@ -164,93 +312,97 @@ Vizsoly
 
 Zsujta
 
-5.4. Miskolci Járási Hivatal Járási Földhivatala (székhelye: Miskolc)
+5.5. Ózdi Járási Hivatal Járási Földhivatala (székhelye: Ózd)
 
-Alsózsolca
+Arló
 
-Arnót
+Aggtelek
 
-Berzék
+Alsószuha
 
-Bőcs
+Bánréve
 
-Bükkaranyos
+Borsodbóta
 
-Bükkszentkereszt
+Borsodnádasd
 
-Emőd
+Borsodszentgyörgy
 
-Felsőzsolca
+Bükkmogyorósd
 
-Gesztely
+Csernely
 
-Harsány
+Csokvaomány
 
-Hernádkak
+Domaháza
 
-Hernádnémeti
+Dövény
 
-Kisgyőr
+Dubicsány
 
-Kistokaj
+Farkaslyuk
 
-Kondó
+Felsőkelecsény
 
-Köröm
+Felsőnyárád
 
-Mályi
+Gömörszőlős
 
-Miskolc
+Hangony
 
-Nyékládháza
+Hét
 
-Onga
+Imola
 
-Ónod
+Jákfalva
 
-Parasznya
+Járdánháza
 
-Radostyán
+Jósvafő
 
-Répáshuta
+Kánó
 
-Sajóbábony
+Kelemér
 
-Sajóecseg
+Királd
 
-Sajóhidvég
+Kissikátor
 
-Sajókápolna
+Lénárddaróc
 
-Sajókeresztúr
+Nekézseny
 
-Sajólád
+Ózd
 
-Sajólászlófalva
+Putnok
 
-Sajópálfala
+Ragály
 
-Sajópetri
+Sajómercse
 
-Sajósenye
+Sajónémeti
 
-Sajóvámos
+Sajópüspöki
 
-Sóstófalva
+Sajóvelezd
 
-Szirmabesenyő
+Sáta
 
-Újcsanálos
+Serényfalva
 
-Varbó
+Szuhafő
+
+Trizs
+
+Uppony
+
+Zádorfalva
+
+Zubogy
 
 5.7. Szerencsi Járási Hivatal Járási Földhivatala (székhelye: Szerencs)
 
-Abaújszántó
-
 Alsódobsza
-
-Baskó
 
 Bekecs
 
@@ -261,8 +413,6 @@ Bodrogkisfalud
 Csobaj
 
 Erdőbénye
-
-Golop
 
 Legyesbénye
 
@@ -277,8 +427,6 @@ Monok
 Prügy
 
 Rátka
-
-Sima
 
 Szegi
 
@@ -296,69 +444,15 @@ Taktaszada
 
 Tarcal
 
-Tállya
-
 Tiszaladány
 
 Tiszalúc
 
 Tiszatardos
 
-Tokaj
-
-5.8. Tiszaújvárosi Járási Hivatal Járási Földhivatala (székhelye: Tiszaújváros)
-
-Ároktő
-
-Gelej
-
-Girincs
-
-Hejőbába
-
-Hejőkeresztúr
-
-Hejőkürt
-
-Hejőpapi
-
-Hejőszalonta
-
-Igrici
-
-Kesznyéten
-
-Kiscsécs
-
-Mezőcsát
-
-Muhi
-
-Nagycsécs
-
-Nemesbikk
-
-Oszlár
-
-Sajóörös
-
-Sajószöged
-
-Szakáld
-
-Tiszadorogma
-
-Tiszakeszi
-
-Tiszapalkonya
-
-Tiszatarján
-
-Tiszaújváros”
-
-2.[^3]
+Tokaj”
 
 3.[^4]
 
-[^3]: Az 1. melléklet 2. pontja az 5. § (2) bekezdése alapján 2013. november 5-én lép hatályba.
+[^3]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: Az 1. melléklet 3. pontja az 5. § (3) bekezdése alapján 2013. november 21-én lép hatályba.
