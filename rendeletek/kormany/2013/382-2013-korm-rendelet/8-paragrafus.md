@@ -1,0 +1,1 @@
+## 7. § A Rendelet 7/E. §-ában a „közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény” szövegrész helyébe a „Kftv.” szövegrész lép.”
