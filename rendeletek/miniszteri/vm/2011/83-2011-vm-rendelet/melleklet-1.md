@@ -1,6 +1,7 @@
-## 19. §[^36] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 18/2013. (III. 21.) VM rendelet [a továbbiakban: 18/2013. (III. 21.) VM rendelet] által megállapított 3. § (5) bekezdés a) pontját a 18/2013. (III. 21.) VM rendelet hatályba lépésekor[^37] folyamatban levő ügyekben is alkalmazni kell.
+## 20. §[^69] E rendeletnek az egyes borászati és egyéb agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 101/2013. (XI. 4.) VM rendelet (a továbbiakban: módosító rendelet) által megállapított 11. § (5) bekezdés a) pont ad) alpontját és 14/B. §-át a módosító rendelet hatálybalépésekor[^70] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 83/2011. (VIII. 31.) VM rendelethez
+1. melléklet a 83/2011. (VIII. 31.) VM rendelethez[^71]
 
-[^36]: A 19. §-t a 18/2013. (III. 21.) VM rendelet 9. § (2) bekezdése iktatta be.
-[^37]: A hatálybalépés napja: 2013. március 22.
+[^69]: A 20. §-t a 101/2013. (XI. 4.) VM rendelet 13. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2013. november 5.
+[^71]: Az 1. melléklet a 101/2013. (XI. 4.) VM rendelet 14. §-a szerint módosított szöveg.

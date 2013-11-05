@@ -1,6 +1,6 @@
 ## A borászati hatóság által kiadott hatósági bizonyítvány adattartalma
 
-## 1. kérelmező neve, regisztrációs száma;
+## 1. kérelmező neve, ügyfél-azonosítója;
 
 ## 2. igazolás arra vonatkozóan, hogy a – □□□□-□□□□ gépkódú gép a 2. § szerinti beruházásnak minősül-e;
 

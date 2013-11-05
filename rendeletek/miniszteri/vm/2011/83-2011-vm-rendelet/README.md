@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-83-20-2
 | 2012-02-11 | 2011-83-20-2Y.3 | 5/2012. (II. 10.) VM rendelet |
 | 2012-10-12 | 2011-83-20-2Y.4 | 108/2012. (X. 11.) VM rendelet |
 | 2013-03-22 | 2011-83-20-2Y.5 | 18/2013. (III. 21.) VM rendelet |
+| 2013-11-05 | 2011-83-20-2Y.6 | 101/2013. (XI. 4.) VM rendelet |

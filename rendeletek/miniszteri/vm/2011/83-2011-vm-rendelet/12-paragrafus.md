@@ -1,10 +1,10 @@
 ## 6. Üzemeltetési hely változtatásának bejelentése
 
-12. § (1)[^31] Az üzemeltetési kötelezettség időtartama alatt a gép üzemeltetési helyének megváltoztatása az MVH által rendszeresített nyomtatványon történő bejelentést követően valósítható meg.
+12. § (1)[^53] Az üzemeltetési kötelezettség időtartama alatt a gép üzemeltetési helyének megváltoztatása az MVH által rendszeresített nyomtatványon történő bejelentést követően valósítható meg.
 
-(2)[^32] Az üzemeltetési hely változtatása bejelentőlapot az MVH részére kell benyújtani postai úton vagy telefax útján, legalább 10 nappal a gép tervezett átszállításának megkezdése előtt, az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon. A nyomtatványon a kérelmező megadja
+(2)[^54] Az üzemeltetési hely változtatása bejelentőlapot az MVH részére kell benyújtani postai úton vagy telefax útján, legalább 10 nappal a gép tervezett átszállításának megkezdése előtt, az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon. A nyomtatványon a kérelmező megadja
 
-a) a regisztrációs számát,
+a)[^55] az ügyfél-azonosítóját,
 
 b) a támogatási határozat iratazonosítóját,
 
@@ -24,14 +24,16 @@ d) az üzemeltetési hely változtatásának indoklását,
 
 e) az üzemeltetési hely változtatásának tervezett időpontját.
 
-(3)[^33] Az üzemeltetési hely változtatása bejelentőlaphoz csatolni kell
+(3)[^56] Az üzemeltetési hely változtatása bejelentőlaphoz csatolni kell
 
 a) az új üzemeltetési hely szerinti üzemre vonatkozó, az adott gép szabályszerű működtetését lehetővé tevő, a borászati hatóság által a kérelmező nevére kiállított működési engedély másolatát;
 
 b) az új üzemeltetési helyre vonatkozó egyszerűsített adóraktári, illetve pezsgőadóraktári engedély másolatát;
 
-c) a gép nem saját tulajdonú vagy más személy jogával terhelt ingatlanon történő üzemeltetése esetén a 4. melléklet szerinti nyilatkozatot teljes bizonyító erejű magánokiratba foglaltan.
+c)[^57] a gép nem saját tulajdonú vagy más személy rendelkezési jogával terhelt ingatlanon történő üzemeltetése esetén a 4. melléklet szerinti nyilatkozatot teljes bizonyító erejű magánokiratba foglaltan.
 
-[^31]: A 12. § (1) bekezdése a 108/2012. (X. 11.) VM rendelet 10. § a) pontja szerint módosított szöveg.
-[^32]: A 12. § (2) bekezdése a 108/2012. (X. 11.) VM rendelet 8. §-ával megállapított szöveg.
-[^33]: A 12. § (3) bekezdése a 108/2012. (X. 11.) VM rendelet 8. §-ával megállapított szöveg.
+[^53]: A 12. § (1) bekezdése a 108/2012. (X. 11.) VM rendelet 10. § a) pontja szerint módosított szöveg.
+[^54]: A 12. § (2) bekezdése a 108/2012. (X. 11.) VM rendelet 8. §-ával megállapított szöveg.
+[^55]: A 12. § (2) bekezdés a) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 11. pontjával megállapított szöveg.
+[^56]: A 12. § (3) bekezdése a 108/2012. (X. 11.) VM rendelet 8. §-ával megállapított szöveg.
+[^57]: A 12. § (3) bekezdés c) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 12. pontja szerint módosított szöveg.
