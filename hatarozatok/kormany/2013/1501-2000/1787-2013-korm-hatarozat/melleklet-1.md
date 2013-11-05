@@ -1,6 +1,6 @@
 ## 1. megállapítja az 1. melléklet szerint a Közép-Magyarországi Operatív Program 2011–2013. évekre szóló akciótervét,
 
-## 2. visszavonja a regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról és egyes prioritások keretének növeléséről szóló 1693/2013. (X. 2.) Korm. határozat 6. mellékletét.
+## 2.[^2]
 
 1. melléklet az 1787/2013. (XI. 4.) Korm. határozathoz
 
@@ -313,3 +313,5 @@
 |  | Akcióterv 2011-2013 ÖSSZESEN (Mrd Ft) | 168,06 |  |  |  |  |  |
 
 |  | Akcióterv 2011-2013 ÖSSZESEN (pénzügyi eszközök nélkül, Mrd Ft) | 127,67 |  |  |  |  |  |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
