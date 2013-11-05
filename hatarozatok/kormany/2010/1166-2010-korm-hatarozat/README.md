@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1166-30
 | 2012-12-30 | 2010-1166-30-22.14 | 1206/2012. (VI. 26.) Korm. határozat |
 | 2013-02-14 | 2010-1166-30-22.15 | 1206/2012. (VI. 26.) Korm. határozat |
 | 2013-04-06 | 2010-1166-30-22.16 | 1206/2012. (VI. 26.) Korm. határozat |
+| 2013-11-05 | 2010-1166-30-22.17 | 1223/2011. (VI. 29.) Korm. határozat |

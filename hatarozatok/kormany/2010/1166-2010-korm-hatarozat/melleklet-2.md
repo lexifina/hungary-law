@@ -32,7 +32,7 @@
 
 | 3. | Kormányzati Ellenőrzési Hivatal | 140 |
 
-| 4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 739 |
+| 4. | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | 729 |
 
 | 5. | Balassi Intézet | 280 |
 
@@ -46,9 +46,9 @@
 
 | 10. |  |  |
 
-| 11. | Közigazgatási és Igazságügyi Hivatal | 244 |
+| 11. | Közigazgatási és Igazságügyi Hivatal | 434 |
 
-| 12. | Nemzeti Államigazgatási Központ | 318 |
+| 12. |  |  |
 
 | 13. | Csongrád Megyei Kormányhivatal | 1050 |
 
@@ -118,7 +118,7 @@
 
 | 45. | Körös-Maros Nemzeti Park Igazgatóság | 55 |
 
-| 46. | Országos Környezetvédelmi Természetvédelmi és Vízügyi Főfelügyelőség | 105 |
+| 46. | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | 135 |
 
 | 47. | Alsó-Tisza-vidéki Környezetvédelmi Természetvédelmi és Vízügyi Felügyelőség | 127 |
 
@@ -232,6 +232,6 @@
 
 | 92. | Országos Egészségbiztosítási Pénztár | 1594 |
 
-| 93. | Összesen | 70 758 |
+| 93. | Összesen | 70 650 |
 
-[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja, az 1170/2013. (IV. 5.) Korm.határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. számú melléklet az 1223/2011. (VI. 29.) Korm. határozat 2. pontjával megállapított, az 1258/2012. (VII. 26.) Korm. határozat 1. pontja, az 1399/2012. (IX. 25.) Korm. határozat 2. pontja, az 1420/2012. (X. 4.) Korm. határozat 1–3. pontja, az 1054/2013. (II. 13.) Korm. határozat 2. pontja, az 1170/2013. (IV. 5.) Korm.határozat 2. pontja, az 1786/2013. (XI. 4.) Korm. határozat 1–2. pontja szerint módosított szöveg.
