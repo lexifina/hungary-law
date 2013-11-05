@@ -10,7 +10,7 @@ b) a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet szerint elism
 
 c) a mezőgazdasági termékek forgalmazási tevékenységét végző vállalkozás (a továbbiakban: forgalmazó),
 
-d)[^1] akire az a)–c) alpont szerinti élőállat-beszállító az élőállat-beszállítói szerződésből, vagy élőállat-beszállító jogviszonyból eredő követelését engedményezte, valamint
+d)[^2] akire az a)–c) alpont szerinti élőállat-beszállító az élőállat-beszállítói szerződésből, vagy élőállat-beszállító jogviszonyból eredő követelését engedményezte, valamint
 
 e) az engedményező a 2. § (2) bekezdése szerinti esetben,
 
@@ -20,4 +20,4 @@ aki vagy amely a PÁPAI HÚS 1913 Élelmiszeripari Feldolgozó Korlátolt Felel�
 
 4. nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ában meghatározott vállalkozás.
 
-[^1]: Az 1. § 2. pont d) alpontja a 93/2013. (X. 10.) VM rendelet 15. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 2. pont d) alpontja a 93/2013. (X. 10.) VM rendelet 15. § a) pontja szerint módosított szöveg.

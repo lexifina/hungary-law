@@ -1,6 +1,6 @@
-## 3. § A támogatás forrása a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XII. Vidékfejlesztési Minisztérium Fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelemtámogatások jogcímcsoport. A támogatásra rendelkezésre álló forrás 400 millió forint.
+## 3. §[^7] A támogatás forrása a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XII. Vidékfejlesztési Minisztérium Fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelemtámogatások jogcímcsoport. A támogatásra rendelkezésre álló forrás 500 millió forint.
 
-4. § (1)[^6] Az MVH a rendelkezésre álló dokumentumok alapján – a kérelmező rendelkezésére álló szabad csekély összegű (de minimis) keretének figyelembevételével – megállapítja a támogatásra való jogosultságot, a jogos támogatási összeget és a hiánytalanul beérkezett kérelmek esetén legkésőbb 2013. november 8-áig döntést hoz a támogatási kérelemről.
+4. § (1)[^8] Az MVH a rendelkezésre álló dokumentumok alapján – a kérelmező rendelkezésére álló szabad csekély összegű (de minimis) keretének figyelembevételével – megállapítja a támogatásra való jogosultságot, a jogos támogatási összeget és a hiánytalanul beérkezett kérelmek esetén legkésőbb 2013. november 8-áig döntést hoz a támogatási kérelemről.
 
 (2) Hiányosan benyújtott támogatási kérelem esetén az MVH a kérelmezőt tíz napos határidő kitűzésével hiánypótlásra szólítja fel.
 
@@ -10,4 +10,5 @@
 
 (5) Az MVH a támogatás összegének euróra történő átváltásánál a 2013. október 1-jén érvényes, az Európai Központi Bank által közzétett, két tizedes jegy pontossággal meghatározott forint/euró devizaárfolyamot alkalmazza.
 
-[^6]: A 4. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 15. § f) pontja szerint módosított szöveg.
+[^7]: A 3. § a 101/2013. (XI. 4.) VM rendelet 18. §-a szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 15. § f) pontja szerint módosított szöveg.
