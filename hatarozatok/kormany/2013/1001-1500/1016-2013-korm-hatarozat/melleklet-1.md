@@ -1,4 +1,4 @@
-## 1. megállapítja a Társadalmi Megújulás Operatív Program 2011–2013. közötti időszakra szóló akcióterv 1. prioritását az 1. melléklet szerint,
+## 1.[^2]
 
 ## 2. megállapítja a Társadalmi Megújulás Operatív Program 1. prioritásának 2007–2008. és 2009–2010. közötti időszakra szóló akciótervei alapján megjelent konstrukciók keretösszegeit a 2. melléklet szerint,
 
@@ -60,8 +60,10 @@
 
 ## Határidő: folyamatos
 
-## 9.[^1]
+## 9.[^3]
 
-1. melléklet az 1016/2013. (I. 18.) Korm. határozathoz
+1. melléklet az 1016/2013. (I. 18.) Korm. határozathoz[^4]
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1799/2013. (XI. 7.) Korm. határozat 2. pont a) alpontja visszavonta.
+[^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1799/2013. (XI. 7.) Korm. határozat 2. pont a) alpontja visszavonta.
