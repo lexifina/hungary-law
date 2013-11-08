@@ -1,0 +1,1 @@
+## 1. § A Kormány a Műszaki és Természettudományi Egyesületek Szövetségét (székhelye: 1055 Budapest, Kossuth Lajos tér 6–8.; megyei nyilvántartási száma: 13.PK.60.431/1989; a továbbiakban: Szövetség) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
