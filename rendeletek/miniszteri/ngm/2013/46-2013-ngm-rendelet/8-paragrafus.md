@@ -1,0 +1,5 @@
+## 7. § A bérlő és a vele együtt költöző vagy a 9. § szerint befogadott személyek kötelesek a lakást életvitelszerűen használni. A bérlő köteles továbbá a lakásból történő két hónapot meghaladó távollétének időtartamát, okát és helyét előre, írásban bejelenteni a bérbeadónak.
+
+8. § (1) A bérbeadó a NAV rendelkezése alatt álló lakást tiszta, rendeltetésszerű használatra alkalmas állapotban, illetve a lakásberendezéseket működőképes állapotban köteles a bérlő részére átadni.
+
+(2) A bérleti jogviszony bármely okból történő megszűnésekor a bérlő köteles a NAV rendelkezése alatt álló lakást kiüríteni és a vele együtt költöző vagy a 9. § szerint befogadott személyekkel együtt elhagyni, továbbá azt tiszta, rendeltetésszerű használatra alkalmas, illetve a lakásberendezéseket működőképes állapotban a bérbeadónak visszaadni és a lakbér, a külön szolgáltatási, valamint a közüzemi díjtartozásait a bérleti jogviszony megszűnésétől számított 8 napon belül rendezni. Közvetlenül a közüzemi szolgáltatók felé fennálló díjtartozás rendezését a bérlő köteles igazolni – fenti határidőn belül – a bérbeadó részére.
