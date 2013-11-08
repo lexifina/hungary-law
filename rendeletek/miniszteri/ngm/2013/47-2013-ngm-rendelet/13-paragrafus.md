@@ -1,0 +1,5 @@
+## 12. § Az állami adóhatóság a bankkártyás adófizetés teljesítése érdekében olyan rendszert működtet, mely – a 13. § (2) bekezdésében meghatározott kivétellel – alkalmas a 11. § (4) bekezdése szerinti nyilatkozat figyelembevételével teljesített bankkártyás adófizetésnek az adózó adószámláján adónemenként történő kimutatására.
+
+13. § (1) Az árverési vételár, vagy vételárelőleg megfizetése a bankkártyás adófizetés szabályai szerint is teljesíthető, azzal, hogy a fizetés az állami adóhatóság által rendelkezésre bocsátott mobil eszköz használatával is megvalósulhat.
+
+(2) Az állami adóhatóság által a végrehajtási eljárásban kiírt árverés, elektronikus árverés, valamint a nyilvános pályázat során (a továbbiakban együtt: árverés) az árverési vételár vagy vételár-előleg bankkártyával történő megfizetésének lehetőségét az állami adóhatóság az árverési hirdetményben a bankkártyával történő fizetés helyének feltüntetésével közli, ha az az árverés helyétől eltér. A befizetést bankkártyával teljesítő személy a befizetéssel egyidejűleg nyilatkozik arról, hogy mely végrehajtási ügyben, milyen jogcímen teljesít befizetést.

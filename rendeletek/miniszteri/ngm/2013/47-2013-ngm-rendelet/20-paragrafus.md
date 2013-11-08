@@ -1,0 +1,1 @@
+## 19. § Az állami adóhatóság az egy összegben történő befizetés teljesítése érdekében olyan rendszert működtet, amely alkalmas a felosztási rendelkezés figyelembevételével teljesített összegben történő befizetésnek az adózó adószámláján adónemenként történő kimutatására.

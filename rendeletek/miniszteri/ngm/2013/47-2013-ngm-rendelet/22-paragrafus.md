@@ -1,0 +1,1 @@
+## 21. § Amennyiben a bevallási és adatszolgáltatási rendszerben üzemzavar történik, az állami adóhatóság az üzemzavarról és az üzemzavar elhárítását követően annak kezdő és megszűnési időpontjáról haladéktalanul közleményt tesz közzé honlapján, és közzététel céljából értesíti a KR üzemeltetőjét.
