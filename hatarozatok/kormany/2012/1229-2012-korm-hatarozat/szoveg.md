@@ -10,21 +10,21 @@ nemzetgazdasági miniszter
 
 Határidő: 2013. október 30.
 
-c) felhívja az érintett minisztereket, hogy készítsenek javaslatot a Kormány számára a magyar képesítések besorolásáról az MKKR szintjeinek megfelelően, valamint készítsék elő az MKKR-nek az Európai Képesítési Keretrendszer szintjeivel történő megfeleltetésére vonatkozó javaslatot,
+c)[^1] felhívja az érintett minisztereket, hogy készítsenek javaslatot a Kormány számára a magyar képesítések besorolásáról az MKKR szintjeinek megfelelően, valamint készítsék elő az MKKR-nek az Európai Képesítési Keretrendszer szintjeivel történő megfeleltetésére vonatkozó javaslatot,
 
 Felelős: emberi erőforrások minisztere,
 
 nemzetgazdasági miniszter
 
-Határidő: 2013. október 30.
+Határidő: 2014. május 31.
 
-d) felhívja az érintett minisztereket, hogy a folyamat megfeleltetési szakaszának lezárásaként gondoskodjanak az MKKR szintjeinek az Európai Képesítési Keretrendszer szintjeivel való megfeleltetéséről szóló európai uniós jelentés elkészítéséről, valamint annak az Európai Képesítési Keretrendszer Tanácsadó Testületéhez való benyújtásáról.
+d)[^2] felhívja az érintett minisztereket, hogy gondoskodjanak az MKKR szintjeinek az Európai Képesítési Keretrendszer szintjeivel való megfeleltetéséről szóló európai uniós jelentés elkészítéséről, valamint annak az Európai Képesítési Keretrendszer Tanácsadó Testületéhez való benyújtásáról.
 
 Felelős: emberi erőforrások minisztere,
 
 nemzetgazdasági miniszter
 
-Határidő: 2013. november 30.
+Határidő: 2014. június 30.
 
 2. A Kormány felhívja az érintett minisztereket, hogy gondoskodjanak az Új Széchenyi Terv keretében az MKKR fejlesztési feladatait tartalmazó TÁMOP kiemelt projektek soron kívüli elindításáról és nevesítéséről, az alábbi szerződések megkötéséről:
 
@@ -50,7 +50,7 @@ Határidő: folyamatos
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5.[^1]
+5.[^3]
 
 Melléklet az 1229/2012. (VII. 6.) Korm. határozathoz
 
@@ -74,4 +74,6 @@ A MAGYAR KÉPESÍTÉSI KERETRENDSZER SZINTJEI
 
 | 8 | – Rendelkezik az adott tudományterület tárgykörének, általános és specifikus jellemzőinek, legfontosabb irányainak és pontosan kidolgozott határainak, megállapodott és vitatott összefüggéseinek kutatási szintű ismeretével. – Alkotó módon megérti az adott szak, illetve tanulmányi terület összefüggéseit, elméleteit és az ezeket felépítő fogalmi rendszereket, terminológiát. – Rendelkezik adott tudomány/szakterület önálló kutatásához szükséges kutatás-módszertani ismeretekkel. | – Képes az adott szakterület kreatív analízisére, átfogó és speciális összefüggések szintetikus, új szemléletű megfogalmazására és az ezekkel adekvát értékelő és kritikai tevékenységre. – Alkalmazni, illetve továbbfejleszteni tudja szakterületének sajátos ismeretszerzési és probléma-megoldási módszereit. – Képes az elvi kérdések újszerű, eddig ismeretlen gyakorlati vonatkozásainak kreatív kidolgozására. – Képes új projektek tervezésére, megvalósítására, adott tudományterületen kutatást végezni, új technikákat és megközelítéseket kialakítani. – Képes előre nem látható szakmai problémák azonosítására, és az azok megoldásához szükséges kutatási szintű részletes elvi és gyakorlati háttér feltárására. – Képes szakterülete szempontjából lényeges új viszonyok, a személyes és közösségi lét szempontjából releváns, átfogó összefüggések felépítésére és közvetítésére. | – Képviseli és saját témájához kapcsolódva továbbfejleszti azokat a relációkat, amelyek a szakterület sajátosságából következően járulnak hozzá az emberi önteremtés folyamatához. – Rendelkezik olyan érdeklődéssel és tanulási képességgel, mely lehetővé teszi a szakterület jelen pillanatban még átláthatatlan, előjelezhetetlen kutatási problémáinak azonosítását és megoldását. – Jellemző viszonyulása a szilárd szakmai elköteleződés, az új utak keresésére való elhivatottság állandósulása, a kitartó munkavégzés szükségességének elfogadása. | – Alkotó, kreatív önállósággal épít ki és kezdeményez új tudásterületeket, és kezdeményez új gyakorlati megoldásokat. – Vezető szereppel és magas szintű kooperációval képes részt venni az elméleti és gyakorlati kérdések megfogalmazásában. – Képes egyenrangú, vitapartneri szerep vitelére a terület szakembereivel. – Felelősséggel vállalja szakmája elméleti és gyakorlati kérdései kapcsán új etikai kérdések felvetését és megválaszolását. |
 
-[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontja az 1791/2013. (XI. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. pont d) alpontja az 1791/2013. (XI. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
