@@ -4,7 +4,7 @@
 
 (2) A Hegyközségek Nemzeti Tanácsa az általa elfogadott alapszabály szerint működik. Az alapszabályt a küldöttek együttes ülésen a 14. § (3) bekezdése szerint fogadják el.
 
-(3) A Hegyközségek Nemzeti Tanácsa a tagjai sorából a küldöttek együttes ülésen elnökséget, ennek tagjai közül elnököt és alelnököt választ. A Hegyközségek Nemzeti Tanácsának elnökét a szőlészeti szekcióba, az alelnökét a borászati szekcióba tartozó küldöttek közül kell megválasztani. Az ügyek viteléért felelős tisztségviselő a főtitkár, akit a Hegyközségek Nemzeti Tanácsa pályázat alapján választ meg. A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet, akinek egyebekben a hegybíróval azonos személyi feltételekkel kell rendelkeznie. A főtitkár felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának elnöke gyakorolja.
+(3) A Hegyközségek Nemzeti Tanácsa a tagjai sorából a küldöttek együttes ülésen elnökséget, ennek tagjai közül elnököt és alelnököt választ. Az ügyek viteléért felelős tisztségviselő a főtitkár, akit a Hegyközségek Nemzeti Tanácsa pályázat alapján választ meg. A főtitkár hivatalba lépéséhez a miniszter előzetes jóváhagyása szükséges. A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet, akinek egyebekben a hegybíróval azonos személyi feltételekkel kell rendelkeznie. A főtitkár felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának elnöke gyakorolja.
 
 (4) A Hegyközségek Nemzeti Tanácsában a 24. § (2) bekezdése szerint megválasztott tagokból álló szőlészeti és borászati szekció működik.
 
