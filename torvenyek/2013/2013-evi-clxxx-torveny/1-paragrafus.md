@@ -1,0 +1,3 @@
+1. § A hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) 28. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A Hegyközségek Nemzeti Tanácsa a tagjai sorából a küldöttek együttes ülésen elnökséget, ennek tagjai közül elnököt és alelnököt választ. Az ügyek viteléért felelős tisztségviselő a főtitkár, akit a Hegyközségek Nemzeti Tanácsa pályázat alapján választ meg. A főtitkár hivatalba lépéséhez a miniszter előzetes jóváhagyása szükséges. A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet, akinek egyebekben a hegybíróval azonos személyi feltételekkel kell rendelkeznie. A főtitkár felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának elnöke gyakorolja.”
