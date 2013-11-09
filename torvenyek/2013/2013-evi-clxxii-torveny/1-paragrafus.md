@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény (a továbbiakban: Egyezmény) 2012. február 9-én elfogadott harminckettedik módosítását (a továbbiakban: Módosítás) e törvénnyel kihirdeti.
