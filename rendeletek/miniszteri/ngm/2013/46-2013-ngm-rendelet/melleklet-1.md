@@ -1,3 +1,5 @@
+## 18. §[^1]
+
 1. melléklet a 46/2013. (X. 31.) NGM rendelethez
 
 1. A lakások havi lakbérének mértéke:
@@ -65,3 +67,5 @@ d) felvonó nélküli lakóépület negyedik vagy ennél magasabb emeletén van.
 3.12. közös helyiségek áramszolgáltatása;
 
 3.13. egyéb, külön meghatározott szolgáltatás.
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
