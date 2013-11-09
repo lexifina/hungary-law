@@ -1,1 +1,1 @@
-### 14. §
+14. § A devizahitelesek megsegítése érdekében szükséges egyes törvények módosításáról szóló 2013. évi CLXXIII. törvény 2. §-ával megállapított 2. § (1) bekezdésében foglaltakat az e rendelkezések hatálybalépése után kezdeményezett gyűjtőszámlahitelre kell alkalmazni.

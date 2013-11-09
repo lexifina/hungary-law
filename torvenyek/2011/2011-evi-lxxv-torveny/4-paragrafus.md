@@ -12,7 +12,7 @@ cb) a rögzített árfolyam alkalmazási időszaka záró időpontját követőe
 
 d) a hitelbírálat során, valamint a szerződésszerű teljesítése esetén az ügyleti kamaton kívül egyéb járulék és díj jogcímén fizetési kötelezettséget a pénzügyi intézmény a hiteladóssal szemben nem érvényesíthet,
 
-e) amennyiben a hiteladósnak a rögzített árfolyam alkalmazási időszaka kezdő időpontjában a devizakölcsönből eredően 90 napot meg nem haladó késedelmes tartozása áll fenn, e tartozás teljes összegének – a kezdő időpontban érvényes hitelezői törlesztési árfolyam alkalmazásával megállapított – forint ellenértékét a hiteladós a kezdő időpontban a gyűjtőszámlahitel terhére végrehajtott folyósítással megfizeti.
+e) amennyiben a hiteladósnak a rögzített árfolyam alkalmazási időszaka kezdő időpontjában a devizakölcsönből eredően késedelmes tartozása áll fenn, e tartozás teljes összegének – a kezdő időpontban érvényes hitelezői törlesztési árfolyam alkalmazásával megállapított – forint ellenértékét a hiteladós a kezdő időpontban a gyűjtőszámlahitel terhére végrehajtott folyósítással megfizeti.
 
 f) a gyűjtőszámlahitel terhére folyósított összegből
 
