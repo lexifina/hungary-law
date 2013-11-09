@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Biológiai Biztonságról szóló Cartagena Jegyzőkönyv felelősségről és jogorvoslatról szóló Nagojai–Kuala Lumpur-i Kiegészítő Jegyzőkönyve (a továbbiakban: Kiegészítő Jegyzőkönyv) kötelező hatályának elismerésére.
