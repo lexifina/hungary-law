@@ -20,7 +20,7 @@
 
 ## – az igénybevétel miatt szükséges forgalomszabályozás (korlátozás, forgalomelterelés) tervét 3 példányban.
 
-4. számú melléklet a 19/1994. (V. 31.) KHVM rendelethez[^28]
+4. számú melléklet a 19/1994. (V. 31.) KHVM rendelethez[^30]
 
 Országos közutak nem közlekedési célú igénybevétele esetén fizetendő díjak
 
@@ -44,4 +44,4 @@ Országos közutak nem közlekedési célú igénybevétele esetén fizetendő d
 
 | Közút teljes lezárása | 3–5 |
 
-[^28]: A 4. számú mellékletet a 28/2003. (VI. 2.) AB határozat 3. pontja megsemmisítette 2003. szeptember 30. napjával, újonnan a 63/2003. (X. 16.) GKM rendelet 2. §-a iktatta be.
+[^30]: A 4. számú mellékletet a 28/2003. (VI. 2.) AB határozat 3. pontja megsemmisítette 2003. szeptember 30. napjával, újonnan a 63/2003. (X. 16.) GKM rendelet 2. §-a iktatta be.
