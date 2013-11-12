@@ -48,11 +48,11 @@ Felelős: belügyminiszter
 
 Határidő: 2013. augusztus 31.
 
-7. felhívja a belügyminisztert, hogy a Nemzeti Biztonsági Stratégia alapján dolgozza ki az irányítása alá tartozó Alkotmányvédelmi Hivatal és Nemzetbiztonsági Szakszolgálat tevékenységére vonatkozó nemzetbiztonsági stratégiát azzal, hogy a szakpolitikai stratégia tervezetét nem kell társadalmi véleményezésre bocsátani;
+7.[^1] felhívja a belügyminisztert, hogy a Nemzeti Biztonsági Stratégia alapján dolgozza ki az irányítása alá tartozó Alkotmányvédelmi Hivatal és Nemzetbiztonsági Szakszolgálat tevékenységére vonatkozó nemzetbiztonsági stratégiát azzal, hogy a szakpolitikai stratégia tervezetét nem kell társadalmi véleményezésre bocsátani;
 
 Felelős: belügyminiszter
 
-Határidő: 2013. október 31.
+Határidő: 2013. december 15.
 
 8. felhívja a belügyminisztert az Emberkereskedelem elleni irányelvhez és az Emberkereskedelem Felszámolását Célzó Európai Stratégiához kapcsolódó, valamint az emberkereskedelem elleni küzdelemről szóló 2008–2012. közötti nemzeti stratégiát felváltó 4 éves szakpolitikai stratégia kidolgozására;
 
@@ -138,7 +138,7 @@ az érintett miniszterek bevonásával
 
 Határidő: 2013. szeptember 30.
 
-15.[^1]
+15.[^2]
 
 16. felhívja a minisztereket, hogy saját feladatkörükben 2013. február 28-ig tárják fel a deregulálandó kormányzati stratégiai tervdokumentumokat, és tegyék meg a szükséges lépéseket azok hatályon kívül helyezésére.
 
@@ -146,4 +146,5 @@ Felelős: minden miniszter
 
 Határidő: 2013. június 30.
 
-[^1]: A 15. pont a 2012: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. pont az 1813/2013. (XI. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 15. pont a 2012: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

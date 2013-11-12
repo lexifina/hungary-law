@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1657-30
 | --- | --- | --- |
 | 2012-12-20 | 2012-1657-30-22.1 | 1657/2012. (XII. 20.) Korm. határozat |
 | 2012-12-21 | 2012-1657-30-22.2 | 2012: CXXX. törvény |
+| 2013-11-12 | 2012-1657-30-22.3 | 1813/2013. (XI. 12.) Korm. határozat |
