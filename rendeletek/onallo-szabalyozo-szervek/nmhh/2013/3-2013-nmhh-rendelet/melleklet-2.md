@@ -2,208 +2,426 @@
 
 |  | A | B | C | D |
 
-|  | A szolgáltató megnevezése | Telephelye | Védelmi feladatok ellátására kijelölt | Az ágazat ügyeleti rendszerébe bevont |
+| 1 | A szolgáltató megnevezése | Telephelye | Védelmi feladatok ellátására kijelölt | Az ágazat ügyeleti rendszerébe bevont |
 
-| 1 | Antenna Hungária Magyar Műsorszóró és Rádióhírközlési Zrt. | 1119 Budapest, Petzvál József u. 31–33. | X | X |
+| 2 | Antenna Hungária Magyar Műsorszóró és Rádióhírközlési Zrt. | 1119 Budapest, Petzvál József u. 31-33. | X | X |
 
-| 2 | GTS Hungary Távközlési Kft. | 2040 Budaörs, Ipartelep u. 13–15. | X | X |
+| 3 | GTS Hungary Távközlési Kft. | 2040 Budaörs, Ipartelep u. 13-15. | X | X |
 
-| 3 | INVITEL Távközlési Zrt. | 2040 Budaörs, Puskás Tivadar u. 8–10. | X | X |
+| 4 | INVITEL Távközlési Zrt. | 2040 Budaörs, Puskás Tivadar u. 8-10. | X | X |
 
-| 4 | Magyar Telekom Távközlési Nyrt. | 1013 Budapest, Krisztina krt. 55. | X | X |
+| 5 | Magyar Telekom Távközlési Nyrt. | 1013 Budapest, Krisztina krt. 55. | X | X |
 
-| 5 | Magyar Villamosművek Zrt. | 1031 Budapest, Szentendrei út 207–209. | X | X |
+| 6 | Magyar Villamosművek Zrt. | 1031 Budapest, Szentendrei út 207-209. | X |  |
 
-| 6 | UPC Magyarország Telekommunikációs Kft. | 1092 Budapest, Kinizsi u. 30–36. | X | X |
+| 7 | MVM NET Távközlési Szolgáltató Zrt. | 1134 Budapest, Róbert Károly krt. 59. | X | X |
 
-| 7 | Telenor Magyarország Zrt. | 2045 Törökbálint, Pannon út 1. | X | X |
+| 8 | UPC Magyarország Telekommunikációs Kft. | 1092 Budapest, Kinizsi u. 30-36. | X | X |
 
-| 8 | Pro-M Professzionális Mobilrádió Zrt. | 1107 Budapest, Száva u. 3–5. | X | X |
+| 9 | Telenor Magyarország Zrt. | 2045 Törökbálint, Pannon út 1. | X | X |
 
-| 9 | TM Support Telekommunikációs Gyártó és Szolgáltató Kft. | 1224 Budapest, Dózsa György út 77. | X |  |
+| 10 | Pro-M Professzionális Mobilrádió Zrt. | 1107 Budapest, Száva u. 3-5. | X | X |
 
-| 10 | Vodafone Magyarország Mobil Távközlési Zrt. | 1096 Budapest, Lechner Ödön fasor 6. | X | X |
+| 11 | TM Support Telekommunikációs Gyártó és Szolgáltató Kft. | 1224 Budapest, Dózsa György út 77. | X |  |
 
-| 11 | Digi Távközlési és Szolgáltató Kft. | 1134 Budapest, Váci út 35. | X | X |
+| 12 | Vodafone Magyarország Mobil Távközlési Zrt. | 1096 Budapest, Lechner Ödön fasor 6. | X | X |
 
-| 12 | Nemzeti Infokommunikációs Szolgáltató Zrt. | 1081 Budapest, Csokonai u. 3. | X | X |
+| 13 | Digi Távközlési és Szolgáltató Kft. | 1134 Budapest, Váci út 35. | X | X |
 
-2. melléklet a 3/2013. (I. 11.) NMHH rendelethez
+| 14 | Nemzeti Infokommunikációs Szolgáltató Zrt. | 1081 Budapest, Csokonai u. 3. | X | X |
 
-A riasztási és tájékoztatási feladat ellátásában részt vevő nem közszolgálati műsort sugárzó országos, körzeti, helyi rádió és televízióadók, az adókat üzemeltetők (engedélyesek) jegyzéke
+2. melléklet a 3/2013. (I. 11.) NMHH rendelethez[^3]
+
+1. A riasztási és tájékoztatási feladat ellátásában részt vevő közszolgálati adók jegyzéke
+
+|  | A | B | C |
+
+| 1 | Közszolgálati adó neve | Középhullámú (AM) adók | Ultrarövidhullámú (URH) adók |
+
+| 2 | Kossuth Rádió | Solt 540 kHz | Aggtelek 94,6 MHz |
+
+| 3 |  | Bácsalmás 95,0 MHz |
+
+| 4 |  | Balassagyarmat 93,7 MHz |
+
+| 5 |  | Barcs 89,5 MHz |
+
+| 6 |  | Battonya 105,4 MHz |
+
+| 7 |  | Békéscsaba 97,3 MHz |
+
+| 8 |  | Budapest 107,8 MHz |
+
+| 9 |  | Cegléd 93,0 MHz |
+
+| 10 |  | Debrecen 99,7 MHz |
+
+| 11 |  | Dunaújváros 91,3 MHz |
+
+| 12 |  | Eger 96,2 MHz |
+
+| 13 |  | Fehérgyarmat 105,9 MHz |
+
+| 14 |  | Gerecse 105,6 MHz |
+
+| 15 |  | Győr 106,4 MHz |
+
+| 16 |  | Kabhegy 102,3 MHz |
+
+| 17 |  | Kaposvár 96,7 MHz |
+
+| 18 |  | Karcag 97,9 MHz |
+
+| 19 |  | Kazincbarcika 97,7 MHz |
+
+| 20 |  | Kecskemét 104,9 MHz |
+
+| 21 |  | Kékes 99,8 MHz |
+
+| 22 |  | Kiskunhalas 102,7 MHz |
+
+| 23 |  | Komádi 89,9 MHz |
+
+| 24 |  | Letenye 103,8 MHz |
+
+| 25 |  | Miskolc 103,8 MHz |
+
+| 26 |  | Mosonmagyaróvár 95,0 MHz |
+
+| 27 |  | Nagykanizsa 106,7 MHz |
+
+| 28 |  | Ózd 105,0 MHz |
+
+| 29 |  | Paks 92,0 MHz |
+
+| 30 |  | Pápa 96,4 MHz |
+
+| 31 |  | Pécs 104,6 MHz |
+
+| 32 |  | Rábaszentandrás 105,2 MHz |
+
+| 33 |  | Salgótarján 89,9 MHz |
+
+| 34 |  | Sárvár 96,0 MHz |
+
+| 35 |  | Sátoraljaújhely 91,9 MHz |
+
+| 36 |  | Siófok 93,6 MHz |
+
+| 37 |  | Sopron 101,6 MHz |
+
+| 38 |  | Szeged 101,9 MHz |
+
+| 39 |  | Székesfehérvár 92,3 MHz |
+
+| 40 |  | Szekszárd 99,0 MHz |
+
+| 41 |  | Szentes 91,6 MHz |
+
+| 42 |  | Szolnok 94,3 MHz |
+
+| 43 |  | Szombathely 93,0 MHz |
+
+| 44 |  | Telkibánya 90,2 MHz |
+
+| 45 |  | Tiszakécske 106,4 MHz |
+
+| 46 |  | Tokaj 88,3 MHz |
+
+| 47 |  | Vasvár 103,6 MHz |
+
+| 48 |  | Zalaegerszeg 102,6 MHz |
+
+| 49 | Petőfi Rádió |  | Budapest 94,8 MHz |
+
+| 50 |  | Csávoly 89,4 MHz |
+
+| 51 |  | Debrecen 89,0 MHz |
+
+| 52 |  | Győr 93,1 MHz |
+
+| 53 |  | Kabhegy 93,9 MHz |
+
+| 54 |  | Kékes 102,7 MHz |
+
+| 55 |  | Kiskőrös 95,1 MHz |
+
+| 56 |  | Komádi 96,7 MHz |
+
+| 57 |  | Miskolc 102,3 MHz |
+
+| 58 |  | Nagykanizsa 94,3 MHz |
+
+| 59 |  | Pécs 103,7 MHz |
+
+| 60 |  | Sopron 99,5 MHz |
+
+| 61 |  | Szeged 104,6 MHz |
+
+| 62 |  | Szentes 98,8 MHz |
+
+| 63 |  | Tokaj 92,7 MHz |
+
+| 64 |  | Uzd 90,3 MHz |
+
+| 65 |  | Vasvár 98,2 MHz |
+
+| 66 | Bartók Rádió |  | Budapest 105,3 MHz |
+
+| 67 |  | Debrecen 106,6 MHz |
+
+| 68 |  | Győr 106,8 MHz |
+
+| 69 |  | Kabhegy 105,0 MHz |
+
+| 70 |  | Kékes 90,7 MHz |
+
+| 71 |  | Kiskőrös 105,9 MHz |
+
+| 72 |  | Komádi 105,1 MHz |
+
+| 73 |  | Miskolc 107,5 MHz |
+
+| 74 |  | Nagykanizsa 104,7 MHz |
+
+| 75 |  | Pécs 107,6 MHz |
+
+| 76 |  | Sopron 107,9 MHz |
+
+| 77 |  | Szeged 105,7 MHz |
+
+| 78 |  | Szentes 107,3 MHz |
+
+| 79 |  | Tokaj 105,5 MHz |
+
+| 80 |  | Uzd 106,9 MHz |
+
+| 81 |  | Vasvár 106,9 MHz |
+
+| 82 | Dankó Rádió | Miskolc 1116 kHz | Debrecen 91,4 MHz |
+
+| 83 | Mosonmagyaróvár 1116 kHz | Szeged 93,1 MHz |
+
+| 84 | Nyíregyháza 1251 kHz | Budapest 98,6 MHz |
+
+| 85 | Szombathely 1251 kHz | Szolnok 101,2 MHz |
+
+| 86 | Győr 1350 kHz | Pécs 101,7 MHz |
+
+| 87 |  | Miskolc 102,3 MHz |
+
+2. A riasztási és tájékoztatási feladat ellátásában részt vevő nem közszolgálati műsort sugárzó országos, körzeti, helyi rádió- és televízióadók, az adókat üzemeltetők (engedélyesek) jegyzéke
 
 |  | A | B | C | D |
 
-|  | Település neve | Sugárzott Rádió/TV műsor neve | Frekvencia MHz/TV csatorna | Üzemeltető (engedélyes) neve és címe |
+| 1 | Település neve | Sugárzott Rádió/TV műsor neve | Frekvencia/ TV csatorna | Üzemeltető (engedélyes) neve és címe |
 
-| 1 | BAJA | Bajai Rádió | 89,8 | Baja Hangja Kft. 6500 Baja, Árpád tér 1. |
+| 2 | AJKA | Mária Rádió Bakony | 93,2 MHz | Magyarországi Mária Rádió Közhasznú Alapítvány 8200 Veszprém, Házgyári út 7. |
 
-| 2 | BÉKÉS | Torony Rádió | 94,4 | Torony Rádió Bt. 5630 Békés, Jantyik Mátyás utca 21. |
+| 3 | BAJA | Gong Rádió | 88,7 MHz | Gong Rádió Kft. 6000 Kecskemét, Petőfi Sándor u. 1/b. |
 
-| 3 | BÉKÉSCSABA | Rádió 1 Start | 88,9 | INTERAX Kulturális Szolgáltató és Kereskedelmi Kft. 5600 Békéscsaba, Bartók B. út 23. A lépcsőház VIII/32. |
+| 4 | BAJA | Bajai Rádió | 89,8 MHz | Baja Hangja Kft. 6500 Baja, Árpád tér 1. |
 
-| 4 | BÉKÉSCSABA | Csaba TV | 47 | „Csaba TV” Első Csabai Televíziós Kft. 5600 Békéscsaba, Teleki u. 5. |
+| 5 | BALATONFÜRED | Lánchíd Rádió | 96,2 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
 
-| 5 | BÉKÉSCSABA | Csaba Rádió | 104,0 | Csaba Rádió Kft. 5600 Békéscsaba, Bartók B. út 7. |
+| 6 | BÉKÉS | Torony Rádió | 94,4 MHz | Torony Rádió Bt. 5630 Békés, Jantyik Mátyás utca 21. |
 
-| 6 | BUDAPEST | TV2 | országos | MTM-SBS Televízió Zrt. 1145 Budapest, Róna u. 174. |
+| 7 | BÉKÉSCSABA | Rádió 1 Start | 88,9 MHz | INTERAX Kulturális Szolgáltató és Kereskedelmi Kft. 5600 Békéscsaba, Bartók B. út 23. A lépcsőház VIII/32. |
 
-| 7 | BUDAPEST | RTL KLUB | országos | Magyar RTL Televízió Zrt. 1222 Budapest, Nagytétényi út 29. |
+| 8 | BÉKÉSCSABA | Csaba Rádió | 104,0 MHz | Csaba Rádió Kft. 5600 Békéscsaba, Bartók B. út 7. |
 
-| 8 | BUDAPEST | Lánchíd Rádió | 100,3 | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
+| 9 | BÉKÉSCSABA | Csaba TV | 47. csatorna | Csaba TV Első Csabai Televízió Kft. 5600 Békéscsaba, Teleki u.5. |
 
-| 9 | BUDAPEST | Juventus Rádió | 103,9 | Rádió Juventus Zrt. 1134 Budapest, Róbert Károly krt. 82–84. |
+| 10 | BUDAPEST | TV2 | országos | MTM-SBS Televízió Zrt. 1145 Budapest, Róna u. 174. |
 
-| 10 | BUDAPEST | Class FM | országos | Advenio Műsorszolgáltató Zrt. 1089 Budapest, Üllői út 102. |
+| 11 | BUDAPEST | RTL KLUB | országos | Magyar RTL Televízió Zrt. 1222 Budapest, Nagytétényi út 29. |
 
-| 11 | BUDAPEST | Klubrádió | 95,3 | Klubrádió Zrt. 1037 Budapest, Bokor u. 1–5. |
+| 12 | BUDAPEST | Lánchíd Rádió | 100,3 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
 
-| 12 | BUDAPEST | Magyar Katolikus Rádió | 102,1 | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15–17. |
+| 13 | BUDAPEST | Juventus Rádió | 103,9 MHz | Rádió Juventus Zrt. 1134 Budapest, Róbert Károly krt. 82-84. |
 
-| 13 | BUDAPEST | Mária Rádió | 94,2 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 14 | BUDAPEST | Class FM | országos | Advenio Műsorszolgáltató Zrt. 1089 Budapest, Üllői út 102. |
 
-| 14 | CEGLÉD | Ceglédi Városi Televízió | 48 | Ceglédi Tv Közhasznú Nonprofit Kft. 2700 Cegléd, Teleki u. 12. |
+| 15 | BUDAPEST | Mária Rádió | 94,2 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 15 | DEBRECEN | Debrecen Televízió | 50 | Debrecen Városi Televízió Kft. 4025 Debrecen, Petőfi tér 10. |
+| 16 | BUDAPEST | Klubrádió | 95,3 MHz | Klubrádió Zrt. 1037 Budapest, Bokor u. 1-5. |
 
-| 16 | DEBRECEN | Rádió FM 95 | 95,0 | Lokál-Média Kft. 4026 Debrecen, Darabos u. 35. |
+| 17 | BUDAPEST | Magyar Katolikus Rádió | 102,1 MHz | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15-17. |
 
-| 17 | DEBRECEN | Rádió 1 | 92,3 | VARAGE Műsorszolgáltatási Kft. 4026 Debrecen, Kálvin tér 4/c. |
+| 18 | CEGLÉD | Ceglédi Városi Televízió | 48. csatorna | Ceglédi TV Közhasznú Nonprofit Kft. 2700 Cegléd, Teleki utca 12. |
 
-| 18 | DÖMÖS | Mária Rádió | 104,9 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 19 | CELLDÖMÖLK | Mária Rádió Celldömölk | 92,5 MHz | Mária Rádió Frekvencia Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 19 | DUNAÚJVÁROS | Rádió 24 | 102,9 | Pentafon-Penta Rádió Kft. 2400 Dunaújváros, Táncsics Mihály u. 1/A. |
+| 20 | CSONGRÁD | Gong Rádió | 87,6 MHz | Gong Rádió Kft. 6000 Kecskemét, Petőfi Sándor u. 1/b. |
 
-| 20 | DUNAÚJVÁROS | Gerilla Rádió 99,1 | 99,1 | Don Marcello Bt. 2400 Dunaújváros, Domanovszky tér 3. VII/3. |
+| 21 | DABAS | Mária Rádió | 97,5 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 21 | EGER | Rádió Eger | 101,3 | Rádió Eger Kft. 3300 Eger, Trinitárius u. 1/A. |
+| 22 | DEBRECEN | Debrecen Televízió | 48. csatorna | Debrecen Városi Televízió Kft. 4025 Debrecen, Petőfi tér 10. |
 
-| 22 | EGER | Rádió 1 | 101,9 | Newave Kft. 3300 Eger, Árpád út 64. II/4. |
+| 23 | DEBRECEN | Best FM Rádió | 104,6 MHz | Kredit Holding Kft. 4033 Debrecen, Veres Pálné u. 31. |
 
-| 23 | EGER | Szent István Rádió | 91,8 | Magyar Katolikus Rádió Alapítvány 3300 Eger Széchenyi út 1. |
+| 24 | DÖMÖS | Mária Rádió | 104,9 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 24 | ESZTERGOM | Klubrádió | 98,1 | Klubrádió Zrt. 1037 Budapest, Bokor u. 1–5. |
+| 25 | DUNAÚJVÁROS | Lánchíd Rádió | 99,1 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
 
-| 25 | ESZTERGOM | Mária Rádió | 97,4 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 26 | DUNAÚJVÁROS | Rádió 24 | 102,9 MHz | Pentafon-Penta Rádió Kft. 2400 Dunaújváros, Táncsics Mihály u. 1/A. |
 
-| 26 | ESZTERGOM | Kék Duna Rádió | 92,5 | Hold Rádiós és Televíziós Reklám Bt. 2500 Esztergom, Kápolna u. 15. |
+| 27 | EGER | Rádió Eger | 101,3 MHz | Rádió Eger Kft. 3300 Eger, Trinitárius u. 1/A. |
 
-| 27 | GYÁL | Mária Rádió | 98,9 | FM-4 Rádió Szolgáltató Kft., 8200 Veszprém, Házgyári út 7. |
+| 28 | EGER | Szent István Rádió | 91,8 MHz | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
 
-| 28 | GYÖNGYÖS | Gyöngyös Városi Televízió | 27 | Gyöngyösi Városi Televízió Kft. 3200 Gyöngyös, Eszperantó u. 6/A. |
+| 29 | ESZTERGOM | Mária Rádió | 97,4 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 29 | GYÖNGYÖS | Diórádió | 101,7 | Diórádió Gyöngyös Kft. 3200 Gyöngyös, Vármegyeház tér 1. |
+| 30 | ESZTERGOM | Magyar Katolikus Rádió | 92,5 MHz | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15-17. |
 
-| 30 | GYŐR | OZONE FM (Oxygen FM) 103,1 | 103,1 | BMC Rádió Kft. 1085 Budapest, József krt 69. |
+| 31 | GYÁL | Mária Rádió | 98,9 MHz | FM-4 Rádió Kft., 8200 Veszprém, Házgyári út 7. |
 
-| 31 | GYŐR | Kék Duna Rádió Győr | 91,5 | Hold Rádiós és Televíziós Reklám Bt. 2500 Esztergom, Kápolna u. 15. |
+| 32 | GYÖNGYÖS | Gyöngyös Városi Televízió | 27. csatorna | Gyöngyösi Városi Televízió Kft. 3200 Gyöngyös, Eszperantó u. 6/A. |
 
-| 32 | HAJDÚSZOBOSZLÓ | Hajdúszoboszlói Városi Televízió | 55 | Hajdúszoboszlói Városi Televízió 4200 Hajdúszoboszló, Szilfákalja u. 7. |
+| 33 | GYÖNGYÖS | Diórádió | 101,7 MHz | Diórádió Gyöngyös Kft. 3200 Gyöngyös, Vármegyeház tér 1. |
 
-| 33 | HAJÓS | Hajós TV (kábel TV) | Kábel TV | Hajósszolg Kft. 6344 Hajós, Rákóczi út 12. |
+| 34 | GYÖMRŐ | Gong Rádió | 97,2 MHz | Gong Rádió Kft. 6000 Kecskemét,Petőfi Sándor u. 1/b. |
 
-| 34 | HATVAN | Szent István Rádió | 94,0 | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
+| 35 | GYŐR | Lánchíd Rádió | 88,1 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
 
-| 35 | HÓDMEZŐVÁSÁRHELY | Vásárhelyi Televízió | 34 | Szerdahelyi József Nonprofit Kft. 6800 Hódmezővásárhely, Ady Endre u. 14. |
+| 36 | GYŐR | OZONE FM | 103,1 MHz | BMC Rádió Kft. 1085 Budapest, József krt. 36. fsz. 5. |
 
-| 36 | JÁSZBERÉNY | Trió Rádió Jászberény | 97,7 | TRIÓ-Rádió Kft. 5100 Jászberény, Bercsényi út 5. |
+| 37 | GYŐR | Kék Duna Rádió | 91,5 MHz | Hold Rádiós és Televíziós Reklám Kft. 2500 Esztergom, Kápolna u. 15. |
 
-| 37 | KALOCSA | Kalocsa Városi Televízió | 34 | Városi Közművelődési Intézmények Múzeum és TV 6300 Kalocsa, Szt. István kir. út 2–4. |
+| 38 | HAJDÚSZOBOSZLÓ | Hajdúszoboszlói Városi Televízió | 55. csatorna | Hajdúszoboszlói Városi Televízió 4200 Hajdúszoboszló, Szilfákalja u. 7. |
 
-| 38 | KALOCSA | Korona Rádió Kalocsa | 100,0 | Kalocsai Rádió Bt. 6328 Dunapataj, Jókai u. 10. |
+| 39 | HATVAN | Szent István Rádió | 94,0 MHz | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
 
-| 39 | KAPOSVÁR | Kapos Televízió | 42 | Kapos Televízió és Rádió Nonprofit Kft. 7400 Kaposvár, Kossuth u. 6. |
+| 40 | HÓDMEZŐVÁSÁRHELY | Vásárhelyi Televízió | 34. csatorna | Szerdahelyi József Nonprofit Kft. 6800 Hódmezővásárhely, Ady Endre u. 14. |
 
-| 40 | KAPOSVÁR | Kapos Rádió | 99,9 | Kapos Rádió Kft. 7400 Kaposvár, Dózsa György u. 18. |
+| 41 | JÁSZBERÉNY | Trió Rádió Jászberény | 97,7 MHz | TRIÓ-Rádió Kft. 5100 Jászberény, Bercsényi út 5. |
 
-| 41 | KECSKEMÉT | Gong FM | 96,5 | Gong Rádió Kft. 6000 Kecskemét, Petőfi Sándor u. 1/B. |
+| 42 | KALOCSA | Kalocsa Városi Televízió | 34. csatorna | Városi Közművelődési Intézmények 6300 Kalocsa, Szt. István kir. út 2-4. |
 
-| 42 | KECSKEMÉT | Kecskeméti Televízió | 31 | Kecskeméti TV Nonprofit Kft. 6000 Kecskemét, Szabadság tér 2. |
+| 43 | KALOCSA | Korona FM 100 | 100,0 MHz | Kalocsai Rádió Bt. 6328 Dunapataj, Jókai u. 10. |
 
-| 43 | KISKUNFÉLEGYHÁZA | Sirius Rádió | 91,1 | Félegyházi Hírlap Kft. 6100 Kiskunfélegyháza, Kossuth Lajos u. 16. |
+| 44 | KAPOSVÁR | Kapos Televízió | 42. csatorna | Kapos Televízió és Rádió Nonprofit Kft. 7400 Kaposvár, Kossuth u. 6. |
 
-| 44 | KISKUNFÉLEGYHÁZA | Trió TV | 50 | Trió-Média-Kiskunfélegyháza Kft. 6100 Kiskunfélegyháza, Szent János tér 5. |
+| 45 | KECEL | Gong Rádió | 99,6 MHz | Gong Rádió Kft. 6000 Kecskemét,Petőfi Sándor u. 1/B. |
 
-| 45 | KISKUNHALAS | Halas TV | 31 | Halasmédia Nonprofit Szolgáltató Kft. 6400 Kiskunhalas, Bethlen Gábor tér 1. |
+| 46 | KECSKEMÉT | Gong Rádió | 96,5 MHz | Gong Rádió Kft. 6000 Kecskemét, Petőfi Sándor u. 1/B. |
 
-| 46 | KOMÁROM | Mária Rádió | 88,3 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 47 | KECSKEMÉT | Kecskeméti Televízió | 31. csatorna | Kecskeméti Televízió Nonprofit Kft. 6000 Kecskemét, Szabadság tér 2. |
 
-| 47 | KOMÁROM | Kék Duna Rádió Győr | 90,5 | Hold Rádiós és Televíziós Reklám Bt. 2500 Esztergom, Kápolna u. 15. |
+| 48 | KESZTHELY | Lánchíd Rádió | 93,4 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
 
-| 48 | KOMLÓ | Mária Rádió | 91,4 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 49 | KISKUNFÉLEGYHÁZA | Sirius Rádió | 91,1 MHz | Félegyházi Hírlap Kft. 6100 Kiskunfélegyháza, Kossuth Lajos u. 16. |
 
-| 49 | MAKÓ | Arkadia Rádió | 96,8 | Arkadia Parkszínpad Kereskedelmi és Szolgáltató Kft. 6900 Makó, Ráday u. 33. |
+| 50 | KISKUNFÉLEGYHÁZA | Trió TV | 50. csatorna | Trió-Média-Kiskunfélegyháza Kft. 6100 Kiskunfélegyháza, Szent János tér 5. |
 
-| 50 | MAKÓ | Makó Városi TV | 51 | Makói Városi TV Nonprofit Kft. 6900 Makó, Széchenyi tér 6. |
+| 51 | KISKUNHALAS | Halas TV | 31. csatorna | Halasi Média és Kultúra Nonprofit Kft. 6400 Kiskunhalas, Bethlen Gábor tér 7/D. |
 
-| 51 | MISKOLC | Szent István Rádió | 95,1 | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
+| 52 | KISKŐRÖS | Magyar Katolikus Rádió | 91,7 MHz | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15-17. |
 
-| 52 | MONOR | Mária Rádió | 106,3 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 53 | KOMÁROM | Mária Rádió | 88,3 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 53 | OROSHÁZA | Rádió 1 Orosháza | 90,2 | A-tól Z-ig Beruházási és Szervezési Lebonyolítási Bt. 1016 Budapest, Mészáros u. 58/B. II. em. |
+| 54 | KOMLÓ | Mária Rádió | 91,4 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 54 | ÓZD | Ózdi Városi Televízió | 51 | Ózdi Kommunikációs Nonprofit Kft. 3600 Ózd, Brassói u. 2. |
+| 55 | MAKÓ | Rádió 7 | 96,8 MHz | Kisbíró Hirdető, Szervező és Műsorszóró Kft. 6800 Hódmezővásárhely, Szabadság tér 71. |
 
-| 55 | PAKS | Fortuna Rádió | 96,3 | Rádió 96,3 Kft. 7030 Paks, Dózsa Gy. u. 98. |
+| 56 | MAKÓ | Makó Városi TV | 51. csatorna | Makói Városi Televízió Nonprofit Kft. 6900 Makó, Széchenyi tér 6. |
 
-| 56 | PAKS | TELEPAKS (TV) | 31 | Tele-Paks Nonprofit Kft. 7030 Paks, Dózsa György u. 51–53. |
+| 57 | MISKOLC | Szent István Rádió | 95,1 MHz | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
 
-| 57 | PÁPA | Pápa Városi Televízió | 48 | Pápa Városi Televízió (Önkormányzat) 8500 Pápa, Deák Ferenc u. 1. |
+| 58 | MONOR | Mária Rádió | 106,3 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 58 | PÉCEL | Mária Rádió | 91,7 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 59 | MÓR | Mária Rádió Mór | 92,9MHz | Mária Rádió Frekvencia Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 59 | PÉCS | Pécs TV | 36 és 46 | Pécs TV Kommunikációs Kft. 7621 Pécs, Rákóczi út. 11. |
+| 60 | NAGYKŐRÖS | Gong Rádió | 93,6 MHz | Gong Rádió Kft. 6000 Kecskemét, Petőfi Sándor u. 1/b. |
 
-| 60 | PILISCSABA | Mária Rádió | 104,2 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 61 | OROSHÁZA | 90,2 Rádió 1 | 90,2 MHz | A-tól Z-ig Beruházási és Szervezési Lebonyolítási Bt. 1016 Budapest, Mészáros u. 58/B. II. em. |
 
-| 61 | SALGÓTARJÁN | Salgótarjáni Városi Televízió | 29 | Salgótarjáni Városi TV Nonprofit Kft. 3100 Salgótarján, Fő tér 5. |
+| 62 | ÓZD | Ózdi Városi Televízió | 51. csatorna | Ózdi Kommunikációs Nonprofit Kft. 3600 Ózd, Brassói u. 2. |
 
-| 62 | SALGÓTARJÁN | Rádió Focus | 100,4 | Helyi Rádió Műsorszolgáltató Kft. 3100 Salgótarján, Bem út 1. |
+| 63 | PAKS | Fortuna Rádió Paks | 96,3 MHz | Rádió 96,3 Kft. 7030 Paks, Dózsa Gy. u. 98. |
 
-| 63 | SÁTORALJAÚJHELY | Zemplén Televízió | 50 | Zemplén TV Nonprofit Kft. 3980 Sátoraljaújhely, Színház köz 4. |
+| 64 | PAKS | TELEPAKS | 31. csatorna | Telepaks Nonprofit Kft. 7030 Paks, Dózsa György u. 51-53. |
 
-| 64 | SÁTORALJAÚJHELY | Szent István Rádió | 90,6 | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
+| 65 | PÁPA | Mária Rádió | 90,8 MHz | Mária Rádió Frekvencia Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 65 | SOPRON | Corvinus Rádió | 104,6 | Erasmus 2001 Kft. 9400 Sopron, Kútösvény 7. |
+| 66 | PÁPA | Pápa Városi Televízió | 48. csatorna | Pápa Városi Televízió (Önkormányzat) 8500 Pápa, Deák Ferenc u. 1. |
 
-| 66 | SOPRON | Nap Rádió | 94,1 | Pannon – Sopron Regionális TV Műsorgyártó és Szolgáltató Kft. 9400 Sopron, Liszt Ferenc u. 1. |
+| 67 | PÉCEL | Mária Rádió | 91,7 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 67 | SZÁZHALOMBATTA | Halom Televízió Százhalombatta | 48 | Halom Televízió Nonprofit Kft. 2440 Százhalombatta, Ifjúság útja 7. |
+| 68 | PÉCS | Pécs TV | 46. csatorna | Pécs TV Kommunikációs Kft. 7621 Pécs, Rákóczi út 11. |
 
-| 68 | SZÉKESFEHÉRVÁR | Fehérvár Rádió | 94,5 | Fehérvár Rádió Kft. 8000 Székesfehérvár, Donát u. 92. |
+| 69 | PÉCS | Lánchíd Rádió Pécs | 94,6 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
 
-| 69 | SZÉKESFEHÉRVÁR | Fehérvár Televízió | 48 | Fehérvár Médiacentrum Kft. 8000 Székesfehérvár, Jókai u. 15. |
+| 70 | PILISCSABA | Mária Rádió | 104,2 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 70 | SZÉKESFEHÉRVÁR | Vörösmarty Rádió | 99,2 | Kodolányi János Főiskola 8000 Székesfehérvár, Szabadságharcos út 59. |
+| 71 | SALGÓTARJÁN | Salgótarjáni Városi Televízió | 29. csatorna | Salgótarjáni Közművelődési Nonprofit Kft. 3100 Salgótarján, Fő tér 5. |
 
-| 71 | SZÉKESFEHÉRVÁR | Magyar Katolikus Rádió | 96,1 | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15–17. |
+| 72 | SALGÓTARJÁN | Rádió Focus | 100,4 MHz | Helyi Rádió Műsorszolgáltató Kft. 3100 Salgótarján, Bem út 1. |
 
-| 72 | SZEKSZÁRD | Alisca Rádió | 91,1 | Alisca Rádió Kft. 7100 Szekszárd, Szent László u. 11. |
+| 73 | SÁRVÁR | Mária Rádió | 95,2 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
 
-| 73 | SZEKSZÁRD | Rádió Antritt | 105,1 | Rádió Antritt Kft. 7100 Szekszárd, Wesselényi u. 16. |
+| 74 | SÁTORALJAÚJHELY | Szent István Rádió | 90,6 MHz | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
 
-| 74 | SZOLNOK | Rádió 1 Szolnok | 90,4 | Páll József egyéni vállalkozó 5000 Szolnok, Csokonai út 84. |
+| 75 | SÁTORALJAÚJHELY | Zemplén Televízió | 50. csatorna | Zemplén TV Közhasznú Nonprofit Kft. 3980 Sátoraljaújhely, Színház köz 4. |
 
-| 75 | SZOLNOK | Aktív Rádió | 92,2 | Viacom Kft. 5000 Szolnok, Kossuth u. 2. |
+| 76 | SOLT | Gong Rádió | 94,1 MHz | Gong Rádió Kft. 6000 Kecskemét, Petőfi Sándor u. 1/b. |
 
-| 76 | SZOMBATHELY | Rádió Szombathely | 97,1 | Rádió Szombathely Kft. 9021 Győr, Virágpiac u. 3. |
+| 77 | SOPRON | Magyar Katolikus Rádió 104,6 | 104,6 MHz | Erasmus ’ 2001 Kft. 9400 Sopron, Kútösvény 7. |
 
-| 77 | SZOMBATHELY | Magyar Katolikus Rádió 107,4 MHz | 107,4 | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15–17. |
+| 78 | SOPRON | Nap Rádió | 94,1 MHz | Pannon – Sopron Regionális TV Műsorgyártó és Szolgáltató Kft. 9400 Sopron, Liszt Ferenc u. 1. |
 
-| 78 | TAPOLCA | Tapolcai Városi Televízió | 43 | Tapolcai Média Közalapítvány 8300 Tapolca, Hősök tere 15. |
+| 79 | SZÁZHALOMBATTA | Halom Televízió Százhalombatta | 48. csatorna | Halom Televízió Nonprofit Kft. 2440 Százhalombatta, Ifjúság útja 7. |
 
-| 79 | TATABÁNYA | Forrás Rádió | 97,8 | Turul Média Kft. 2800 Tatabánya, Fő tér 4/B. |
+| 80 | SZÉKESFEHÉRVÁR | Fehérvár Rádió | 94,5 MHz | Fehérvár Rádió Kft. 8000 Székesfehérvár, Donát u. 92. |
 
-| 80 | TATABÁNYA | Kék Duna Rádió Győr | 107,0 | Hold Rádiós és Televíziós Reklám Bt. 2500 Esztergom, Kápolna u. 15. |
+| 81 | SZÉKESFEHÉRVÁR | Fehérvár Televízió | 48. csatorna | Fehérvár Médiacentrum Kft. 8000 Székesfehérvár, Szent Vendel u. 17/A |
 
-| 81 | TISZAÚJVÁROS | Rádió 35 | 89,6 | Tiszaújvárosi Közösségi Rádió Egyesület 3580 Tiszaújváros, Bolyai köz 4. |
+| 82 | SZÉKESFEHÉRVÁR | Magyar Katolikus Rádió | 96,1 MHz | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15-17. |
 
-| 82 | TÖRÖKSZENTMIKLÓS | Rádió Törökszentmiklós | 96,4 | Rádió Horizont Kft. 5200 Törökszentmiklós, Kossuth tér 6. |
+| 83 | SZÉKESFEHÉRVÁR | Lánchíd Rádió | 106,6 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
 
-| 83 | VÁC | Mária Rádió | 94,1 | FM-4 Rádió Szolgáltató Kft. 8200 Veszprém, Házgyári út 7. |
+| 84 | SZÉKESFEHÉRVÁR | Vörösmarty Rádió | 99,2 MHz | Fehérvár Médiacentrum Kft. 8000 Székesfehérvár, Szent Vendel u. 17/A |
 
-| 84 | VÁC | Elektro-Szignál Televízió | 22 | Váci Városimázs Nonprofit Kft. 2600 Vác, Kossuth L. u. 21. |
+| 85 | SZEKSZÁRD | 91,1 Rádió 1 | 91,1 MHz | Alisca Network Kft. 7100 Szekszárd, Szent László u. 11. |
 
-| 85 | VÁRPALOTA | Várpalotai Városi Televízió | 43 | Városi Televízió Várpalota 8100 Várpalota, Erdődi Pálffy Tamás u. 19. |
+| 86 | SZEKSZÁRD | Rádió Antritt | 105,1 MHz | Rádió Antritt Kft. 7100 Szekszárd, Wesselényi u. 16. |
 
-| 86 | ZALAEGERSZEG | Zalaegerszegi Televízió | 51 | Zalaegerszegi Televízió Kft. 8900 Zalaegerszeg, Kossuth Lajos u. 45–49. |
+| 87 | SZENTES | Rádió 451 | 106,1 MHz | Kultúr-Média Kft. 6600 Szentes, Jókai u. 12. |
+
+| 88 | SZOLNOK | 90,4 Rádió 1 | 90,4 MHz | Popkom Kft. 5000 Szolnok, Szántó krt. 62. |
+
+| 89 | SZOLNOK | Aktív Rádió | 92,2 MHz | Viacom Kft. 5000 Szolnok, Kossuth u. 2. |
+
+| 90 | SZOMBATHELY | Magyar Katolikus Rádió 107,4 MHz | 107,4 MHz | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15-17. |
+
+| 91 | TAPOLCA | Tapolcai Városi Televízió | 43. csatorna | Tapolcai Média Közalapítvány 8300 Tapolca, Kisfaludy u. 2-6. |
+
+| 92 | TATABÁNYA | Forrás Rádió | 97,8 MHz | Turul Média Kft. 2800 Tatabánya, Fő tér 4/B. |
+
+| 93 | TATABÁNYA | Lánchíd Rádió | 107,0 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
+
+| 94 | TELKIBÁNYA | Híd Rádió | 100,6 MHz | Médiahíd Kft. 8200 Veszprém, Házgyári út 7. |
+
+| 95 | TISZAÚJVÁROS | Rádió 35 | 89,6 MHz | Tiszaújvárosi Közösségi Rádió Egyesület 3580 Tiszaújváros, Bolyai köz 4. X/2. |
+
+| 96 | TOKAJ | Szent István Rádió – Tokaj | 101,8 MHz | Hegyalja Média Kft. 3300 Eger, Széchenyi István u. 5. |
+
+| 97 | TÖRÖKSZENTMIKLÓS | Szent István Rádió 96,4 | 96,4 MHz | Magyar Katolikus Rádió Alapítvány 3300 Eger, Széchenyi út 1. |
+
+| 98 | VÁC | Magyar Katolikus Rádió | 87,9 MHz | Magyar Katolikus Rádió Zrt. 1062 Budapest, Délibáb u. 15-17. |
+
+| 99 | VÁC | Mária Rádió | 94,1 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
+
+| 100 | VÁC | Elektro-Szignál Televízió | 22. csatorna | Váci Városimázs Nonprofit Kft. 2600 Vác, Kossuth L. u. 21. |
+
+| 101 | VÁRPALOTA | Mária Rádió Palota | 90,0 MHz | Magyarországi Mária Rádió Közhasznú Alapítvány 8200 Veszprém, Házgyári út 7. |
+
+| 102 | VESZPRÉM | Mária Rádió Völgyhíd | 95,1 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
+
+| 103 | ZALAEGERSZEG | Zalaegerszegi Televízió | 51. csatorna | Zalaegerszegi Televízió Kft. 8900 Zalaegerszeg, Kossuth Lajos u. 45-49. |
+
+| 104 | ZALAEGERSZEG | Lánchíd Rádió | 88,3 MHz | Lánchíd Rádió Kft. 1089 Budapest, Üllői út 102. |
+
+| 105 | ZALAEGERSZEG | Mária Rádió | 97,8 MHz | FM-4 Rádió Kft. 8200 Veszprém, Házgyári út 7. |
+
+[^3]: A 2. melléklet a 18/2013. (X. 28.) NMHH rendelet 3. §-ával megállapított szöveg.
