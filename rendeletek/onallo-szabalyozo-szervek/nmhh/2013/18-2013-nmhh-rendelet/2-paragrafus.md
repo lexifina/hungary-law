@@ -1,0 +1,3 @@
+## 1. § A honvédelmi és katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési szolgáltatók kijelöléséről és felkészülési feladataik meghatározásáról szóló 3/2013. (I. 11.) NMHH rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti légiriasztási rendszer riasztási és tájékoztatási feladatainak ellátásában részt vevő közszolgálati adók és nem közszolgálati műsort sugárzó országos, körzeti, helyi rádió- és televízióadók, valamint az adókat üzemeltetők (engedélyesek) jegyzékét a 2. melléklet tartalmazza.”
