@@ -30,7 +30,7 @@
 
 ## Határidő: azonnal
 
-## 2.2. felhívja a belügyminisztert, hogy a támogatást utólagos, legkésőbb 2013. június 30-áig történő elszámolási, visszafizetési kötelezettséggel soron kívül folyósítsa a Baranya Megyei Önkormányzat számára.
+## 2.2.[^1] felhívja a belügyminisztert, hogy a támogatást utólagos, legkésőbb 2013. december 31-éig történő elszámolási, visszafizetési kötelezettséggel soron kívül folyósítsa a Baranya Megyei Önkormányzat számára.
 
 ## Felelős: belügyminiszterHatáridő:
 
@@ -113,3 +113,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2.2. pont az 1813/2013. (XI. 12.) Korm. határozat 1. pontja szerint módosított szöveg.
