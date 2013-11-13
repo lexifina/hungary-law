@@ -12,6 +12,6 @@ d) az adatváltozás bejelentésének időpontja,
 
 e) a 8. § (1) bekezdés szerinti intézkedés és annak időbeli hatálya.
 
-(2)[^1] A szakértő tevékenységet folytató személyekről vezetett nyilvántartás az (1) bekezdés a)–c) és e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül, melyet a Nemzeti Közlekedési Hatóság az interneten bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
+(2)[^2] A szakértő tevékenységet folytató személyekről vezetett nyilvántartás az (1) bekezdés a)–c) és e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül, melyet a Nemzeti Közlekedési Hatóság az interneten bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzétesz.
 
-[^1]: A 7. § (2) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^2]: A 7. § (2) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 20. §-ával megállapított szöveg.

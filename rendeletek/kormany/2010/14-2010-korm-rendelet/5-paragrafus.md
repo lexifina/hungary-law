@@ -4,7 +4,7 @@ a) a szakértői tevékenységet folytatni szándékozó személy (a továbbiakb
 
 aa) iskolai végzettségét, illetve szakképzettségét, az azt igazoló oklevelének, bizonyítványának számát és keltét, a kibocsátó felsőoktatási intézmény nevét, nem magyar felsőoktatási intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismerésről szóló határozat számát,
 
-ab) szakképesítését, az azt tanúsító bizonyítványának, oklevelének számát és keltét, a kibocsátó felnőttképzést folytató intézmény nevét, nem magyar intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismerésről szóló határozat számát;
+ab)[^1] szakképesítését, az azt tanúsító bizonyítványának, oklevelének számát és keltét, nem magyar intézményben szerzett oklevél esetén a Magyarországon megszerezhető oklevéllel való egyenértékűség elismerésről szóló határozat számát;
 
 b) a szakterület meghatározását;
 
@@ -19,3 +19,5 @@ b) a szakirány elbírálásához az oklevél mellékletét is be kell nyújtani
 c) az eddigi szakmai tevékenység részletes leírását, amely tartalmazza a szakmai gyakorlat megszerzésének helyét, idejét, a betöltött munka- vagy feladatkört és a végzett szakmai tevékenységet;
 
 d) a szakmai gyakorlatot igazoló okmányok másolatát.
+
+[^1]: Az 5. § (1) bekezdés a) pont ab) alpontja a 393/2013. (XI. 12.) Korm. rendelet 40. § l) pontja szerint módosított szöveg.
