@@ -1,4 +1,4 @@
-2. §[^2] (1) Az engedély kiadása iránti kérelem – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl – tartalmazza:
+2. §[^3] (1) Az engedély kiadása iránti kérelem – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túl – tartalmazza:
 
 a) a kérelmező intézmény szakmai vizsga szervezéséért felelős szervezeti egységének megjelölését, címét, elérhetőségét;
 
@@ -6,7 +6,7 @@ b) a kérelmező intézmény vezetőjének nevét és elérhetőségét;
 
 c) közoktatási intézmény esetén az OM azonosító számot;
 
-d) a kérelmező intézmény akkreditációs lajstromszámát;
+d)[^4] a kérelmező intézménynek a felnőttképzésről szóló törvény szerinti nyilvántartásba-vételi számát;
 
 e) a szakképesítés megnevezését és azonosító számát, amely tekintetében a kérelmező a vizsgaszervezésre jogosító engedélyt kíván szerezni. Ha a szakképesítés szakképesítés-ráépüléssel egészül ki, vagy szakképesítés-elágazásokat tartalmaz, úgy a kérelemben azon szakképesítés-ráépülést, vagy szakképesítés-elágazást kell feltüntetni, amely tekintetében a kérelmező vizsgaszervezésre jogosító engedélyt kíván szerezni;
 
@@ -38,4 +38,5 @@ g) a kérelmező intézmény arra vonatkozó nyilatkozatát, hogy az Országos K
 
 h) ha a kérelmező intézmény nem szerepel a köztartozásmentes adózói adatbázisban, a köztartozás-mentességét igazoló 30 napnál nem régebbi közokiratot.
 
-[^2]: A 2. § a 11. § (2) bekezdése alapján 2010. május 25. napján lép hatályba.
+[^3]: A 2. § a 11. § (2) bekezdése alapján 2010. május 25. napján lép hatályba.
+[^4]: A 2. § (1) bekezdés d) pontja a 393/2013. (XI. 12.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.

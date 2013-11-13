@@ -2,7 +2,7 @@
 
 1. §[^1] (1) A szakképzésről szóló 1993. évi LXXVI. törvény (a továbbiakban: Szt.) szerinti szakmai vizsga megszervezésére vonatkozó engedély (a továbbiakban: engedély) akkor adható ki, ha az engedély kiadását kérelmező intézmény (a továbbiakban: kérelmező intézmény)
 
-a) a felnőttképzésről szóló törvényben meghatározottak szerint akkreditált,
+a)[^2] rendelkezik a felnőttképzésről szóló 2013. évi LXXVII. törvény 1. § (2) bekezdés a) pontja szerinti, a d) pontban meghatározott szakképesítés folytatására feljogosító engedéllyel,
 
 b) rendelkezik az 1. mellékletben meghatározott, a szakmai vizsgaszervezési tevékenységekhez kapcsolódó általános személyi és tárgyi feltételekkel és azokat folyamatosan biztosítani képes,
 
@@ -19,3 +19,4 @@ g) szerepel a köztartozásmentes adózói adatbázisban vagy igazolja, hogy nem
 (2) Az engedély kiadására az a)–g) pontban meghatározott feltételek együttes fennállása esetén kerülhet sor.
 
 [^1]: Az 1. § a 11. § (2) bekezdése alapján 2010. május 25. napján lép hatályba.
+[^2]: Az 1. § (1) bekezdés a) pontja a 393/2013. (XI. 12.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.

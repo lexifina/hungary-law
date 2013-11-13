@@ -1,6 +1,6 @@
 ## 4. Törlés a nyilvántartásból
 
-## 9. §[^23] A kormányhivatal törli a nyilvántartásba vett intézményt a nyilvántartásból, ha az intézmény
+## 9. §[^25] A kormányhivatal törli a nyilvántartásba vett intézményt a nyilvántartásból, ha az intézmény
 
 a) azt kéri,
 
@@ -12,4 +12,4 @@ d) akkreditációját a Felnőttképzési Akkreditáló Testület visszavonta,
 
 e) az állami foglalkoztatási szerv által hozott, felnőttképzési tevékenységfolytatási tilalmat kimondó határozat hatálya alatt áll.
 
-[^23]: A 9. § a 11. § (2) bekezdése alapján 2010. május 25. napján lépett hatályba. A 9. § nyitó szövegrésze a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^25]: A 9. § a 11. § (2) bekezdése alapján 2010. május 25. napján lépett hatályba. A 9. § nyitó szövegrésze a 111/2011. (VII. 4.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

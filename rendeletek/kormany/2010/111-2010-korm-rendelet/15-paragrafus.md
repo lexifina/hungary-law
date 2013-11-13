@@ -1,3 +1,3 @@
-## 14. §[^29]
+## 14. §[^31]
 
-[^29]: A 14. §-t a 16. § (2) bekezdése hatályon kívül helyezte.
+[^31]: A 14. §-t a 16. § (2) bekezdése hatályon kívül helyezte.
