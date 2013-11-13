@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-161-20-
 | 2010-05-28 | 2008-161-20-22.7 | 177/2010. (V. 13.) Korm. rendelet |
 | 2011-07-05 | 2008-161-20-22.8 | 111/2011. (VII. 4.) Korm. rendelet |
 | 2013-01-01 | 2008-161-20-22.9 | 322/2012. (XI. 16.) Korm. rendelet |
+| 2013-11-13 | 2008-161-20-22.10 | 393/2013. (XI. 12.) Korm. rendelet |

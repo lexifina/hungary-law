@@ -1,6 +1,6 @@
-3. § (1)[^9] A vizsga keretében a vizsgázó – a 2. mellékletben meghatározott követelményrendszernek megfelelően – számot ad általános elméleti és gyakorlati ismereteiről, továbbá elemző, problémamegoldó, szervezési, jogalkalmazási és döntéshozatali készségéről.
+3. § (1)[^11] A vizsga keretében a vizsgázó – a 2. mellékletben meghatározott követelményrendszernek megfelelően – számot ad általános elméleti és gyakorlati ismereteiről, továbbá elemző, problémamegoldó, szervezési, jogalkalmazási és döntéshozatali készségéről.
 
-(2)[^10] Az építésügyi vizsga írásbeli és szóbeli vizsgarész teljesítéséből áll, amelyeket a vizsgázó számára egy vizsganapon kell megszervezni.
+(2)[^12] Az építésügyi vizsga írásbeli és szóbeli vizsgarész teljesítéséből áll, amelyeket a vizsgázó számára egy vizsganapon kell megszervezni.
 
 (3) Az építésügyi vizsgát 3 tagú Építésügyi Vizsgabizottság (a továbbiakban: bizottság) előtt kell letenni. A bizottság elnöke a 7. § (1) bekezdésének a) pontjában foglaltaknak megfelelő személy.
 
@@ -8,8 +8,8 @@
 
 (5) Az eredményes építésügyi vizsgáról a bizottság az 1. mellékletben meghatározott formában bizonyítványt állít ki.
 
-(6)[^11] Azt a vizsgázót, aki az építészeti-műszaki tervezői, az építésügyi műszaki szakértői, vagy a felelős műszaki vezetői szakmagyakorlási jogosultság valamely szakterületén már eredményes jogosultsági vizsgát tett, a vizsgaszervező mentesíti az építésügyi vizsgának a jogosultsági vizsgával megegyező témaköreiből.
+(6)[^13] Azt a vizsgázót, aki az építészeti-műszaki tervezői, az építésügyi műszaki szakértői, vagy a felelős műszaki vezetői szakmagyakorlási jogosultság valamely szakterületén már eredményes jogosultsági vizsgát tett, a vizsgaszervező mentesíti az építésügyi vizsgának a jogosultsági vizsgával megegyező témaköreiből.
 
-[^9]: A 3. § (1) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^11]: A 3. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 16. §-a iktatta be.
+[^11]: A 3. § (1) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 3. § (6) bekezdését a 177/2010. (V. 13.) Korm. rendelet 16. §-a iktatta be.
