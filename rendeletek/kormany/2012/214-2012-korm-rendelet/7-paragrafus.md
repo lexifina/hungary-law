@@ -28,11 +28,11 @@ a) érthető tájékoztatást nyújt a gyermek részére – figyelembe véve ko
 
 b) a megfelelő szolgáltatásnyújtáshoz való hozzájutás segítésében lehetőség szerint személyes részvétel mellett fogalmazza meg észrevételeit, megjegyzéseit,
 
-c)[^2] a járási (fővárosi kerületi) gyámhivatal (a továbbiakban: járási gyámhivatal) kirendelésében foglaltak figyelembevételével személyesen képviseli a gyermeket, megismeri az eljárás során keletkezett dokumentáció tartalmát és folyamatosan figyelemmel kíséri a gyermek jogainak az eljárás során történő érvényesítését,
+c)[^3] a járási (fővárosi kerületi) gyámhivatal (a továbbiakban: járási gyámhivatal) kirendelésében foglaltak figyelembevételével személyesen képviseli a gyermeket, megismeri az eljárás során keletkezett dokumentáció tartalmát és folyamatosan figyelemmel kíséri a gyermek jogainak az eljárás során történő érvényesítését,
 
 d) a gyermekvédelmi bírság kiszabására irányuló javaslattétele során figyelembe veszi a jogsértés jellegét, súlyát, az érintettek létszámának nagyságát a szolgáltatás jellegének arányában, javaslatát megfelelően indokolja.
 
-(4)[^3] A jogvédelmi képviselő feladatellátása során a betegek, az ellátottak és a gyermekek jogainak érvényesítésével összefüggésben felmerült és a részére megfogalmazott panaszok kezelése során elsődlegesen a beteg, az ellátott, a gyermek jogait és érdekeit képviselve, az érintett és a szolgáltató közötti megegyezés létrehozására törekszik, amely – ha a panasz megalapozott –,
+(4)[^4] A jogvédelmi képviselő feladatellátása során a betegek, az ellátottak és a gyermekek jogainak érvényesítésével összefüggésben felmerült és a részére megfogalmazott panaszok kezelése során elsődlegesen a beteg, az ellátott, a gyermek jogait és érdekeit képviselve, az érintett és a szolgáltató közötti megegyezés létrehozására törekszik, amely – ha a panasz megalapozott –,
 
 a) a jog gyakorlásának nem megfelelő biztosításakor a jogszabályokban megfogalmazott követelményeknek a szolgáltató részéről – a szolgáltatás, vagy a jog gyakorlásának jellegére figyelemmel – annak megfelelő biztosítását,
 
@@ -54,5 +54,5 @@ d) eljárásáról és annak eredményéről írásban tájékoztatja a jogosult
 
 e) munkájáról, eljárásának tapasztalatairól, valamint a jogok gyakorlásával és a szolgáltatásnyújtással kapcsolatos tapasztalatairól – az OBDK által meghatározott formában – évente beszámolót készít.
 
-[^2]: A 7. § (3) bekezdés c) pontja a 296/2012. (X. 17.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
-[^3]: A 7. § (4) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 56. §-a szerint módosított szöveg.
+[^3]: A 7. § (3) bekezdés c) pontja a 296/2012. (X. 17.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^4]: A 7. § (4) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 56. §-a szerint módosított szöveg.
