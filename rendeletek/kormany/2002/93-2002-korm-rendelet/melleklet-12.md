@@ -22,7 +22,7 @@
 
 ## 11 Csak az új nyilvántartásba vételi kérelemhez szükséges továbbképzési kötelezettség teljesítése (első nyilvántartásba vétel vagy törlést követő nyilvántartásba vétel) esetén kell kitölteni.
 
-12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^133]
+12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^134]
 
 ## ADATLAP a szakmai szervezeti minősítési eljárás iránti kérelemhez
 
@@ -70,5 +70,5 @@ b) Kijelentem, hogy minden továbbképzési év tekintetében a nyilvántartásb
 
 5. Cégszerű aláírás
 
-[^133]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^134]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^1.]: A Rendelet 10/B. § (8a) bekezdése szerinti szakmai szervezeti minősítési eljárás esetén alkalmazandó.

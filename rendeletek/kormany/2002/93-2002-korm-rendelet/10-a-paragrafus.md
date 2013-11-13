@@ -1,4 +1,4 @@
-10/A. §[^68] (1)[^69] A könyvviteli szolgáltatást végzők továbbképzésére irányuló szolgáltatási tevékenységet az a felnőttképzési intézmény-akkreditációval rendelkező intézmény (a továbbiakban: szervezet) végezhet, amely megfelel a (4) bekezdés szerinti feltételeknek.
+10/A. §[^68] (1)[^69] A könyvviteli szolgáltatást végzők továbbképzésére irányuló szolgáltatási tevékenységet az a felnőttképzési tevékenységet folytató intézmény (a továbbiakban: szervezet) végezhet, amely megfelel a (4) bekezdés szerinti feltételeknek.
 
 (2)[^70] A szervezet az (1) bekezdés szerinti szolgáltatási tevékenység megkezdését a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerint jelenti be a nyilvántartásba vételt végző szervezetnek. A bejelentést a 4. számú mellékletben meghatározott tartalommal, a (7) bekezdésben felsorolt mellékletekkel együtt kell a nyilvántartásba vételt végző szervezetnek benyújtani.
 
@@ -67,7 +67,7 @@ d) a szervezet jogutód nélkül megszűnik.
 (15)[^82] Ha a szervezet nem csatolja a (6) bekezdés a) pontjában, valamint a (7) bekezdés a) pontjában foglaltak igazolására szolgáló dokumentumokat, a nyilvántartásba vételt végző szervezet megkeresi az adatokról nyilvántartást vezető hatóságot az adatok megszerzése érdekében.
 
 [^68]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^69]: A 10/A. § (1) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^69]: A 10/A. § (1) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 393/2013. (XI. 12.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
 [^70]: A 10/A. § (2) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^71]: A 10/A. § (3) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^72]: A 10/A. § (4) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
