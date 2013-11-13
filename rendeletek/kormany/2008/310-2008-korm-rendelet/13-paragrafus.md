@@ -30,7 +30,7 @@ e) csak az I., II. és az VI., VII. kategóriás képesített személlyel rendel
 
 (6)[^19] A gazdálkodó szervezetek számára előírt képesítés a HLH, a járműklíma és szállítmányhűtés szektorokban 3 évre adható.
 
-(7) A 303/2008/EK rendelet 10. cikk (3) bekezdésében és 11. cikk (3) bekezdésében, a 304/2008/EK rendelet 10. cikk (3) bekezdésében és 11. cikk (3) bekezdésében, a 305/2008/EK bizottsági rendelet 5. cikk (3) bekezdésében és 6. cikk (3) bekezdésében, a 306/2008/EK bizottsági rendelet 4. cikk (3) bekezdésében, és 5. cikk (3) bekezdésében meghatározott nyilvántartásra a felnőttképzésről szóló 2001. évi CI. törvényben előírtakat kell alkalmazni.
+(7)[^20]
 
 [^14]: A 13. § (1) bekezdése e rendelet 20. § (2) bekezdése alapján hatályát vesztette.
 [^15]: A 13. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 655. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -38,3 +38,4 @@ e) csak az I., II. és az VI., VII. kategóriás képesített személlyel rendel
 [^17]: A 13. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 655. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^18]: A 13. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 655. §-a, a 34/2010. (II. 24.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
 [^19]: A 13. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 654. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 13. § (7) bekezdését a 393/2013. (XI. 12.) Korm. rendelet 40. § h) pontja hatályon kívül helyezte.

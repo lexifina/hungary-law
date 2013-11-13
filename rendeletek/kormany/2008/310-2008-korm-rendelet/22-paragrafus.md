@@ -6,6 +6,6 @@
 
 (2) E rendelet 11. § (1)–(2) bekezdése szerinti jelentéstételt első alkalommal 2011. március 31-ig kell teljesítenie a kötelezettnek.
 
-(3)–(4)[^24]
+(3)–(4)[^25]
 
-[^24]: A 22. § (3)–(4) bekezdését a 306/2010. (XII. 23.) Korm. rendelet 45. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38–42. §-át.
+[^25]: A 22. § (3)–(4) bekezdését a 306/2010. (XII. 23.) Korm. rendelet 45. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38–42. §-át.
