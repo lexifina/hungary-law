@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Lengyel Köztársaság Kormánya között, a védelem területén történő együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
