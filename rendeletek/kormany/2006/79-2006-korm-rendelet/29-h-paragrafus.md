@@ -2,8 +2,9 @@
 
 (2) A Hivatal a költségvetési szervként működő felsőoktatási intézmény esetében a nyilvántartásba történő bejegyzésről, törlésről szóló jogerős határozatának megküldésével értesíti a törzskönyvi nyilvántartást vezető szervet.
 
-(3) Ha a felsőoktatási intézmény alapító okiratában foglaltak alapján felnőttképzésben vehet részt, a Hivatal a külön jogszabályban rögzített adatokat megküldi a Felnőttképzési Akkreditáló Testület részére.
+(3)[^89]
 
 (4) A Hivatal a felsőoktatási intézmény nyilvántartásba vételével, átalakulásával, nyilvántartásból törlésével kapcsolatos jogerős határozatát az Oktatási Közlönyben közzéteszi.
 
 [^88]: A 29/H. §-t a 198/2008. (VIII. 4.) Korm. rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^89]: A 29/H. § (3) bekezdését a 393/2013. (XI. 12.) Korm. rendelet 40. § e) pont ea) alpontja hatályon kívül helyezte.

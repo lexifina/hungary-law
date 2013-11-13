@@ -160,6 +160,6 @@
 
 | 55 812 01 0010 55 02 | vendéglátó szakmenedzser | gazdaságtudományok |
 
-7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^118]
+7. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^119]
 
-[^118]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^119]: A 7. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.

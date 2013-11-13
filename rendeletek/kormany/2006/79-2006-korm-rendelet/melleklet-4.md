@@ -30,6 +30,6 @@
 
 ## Közoktatási intézmény részbeni gyakorló intézményként való működésekor a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatási törvény) 33. §-ának (1) bekezdése a)–c) pontja szerinti intézménynek – a felsőoktatási intézmény pedagógusképzési feladatainak megfelelő –, a közoktatási törvény 8. §-ának (1) bekezdése szerinti nevelési szakaszok, illetve a kollégium feladatai vizsgálandók.
 
-4. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^111]
+4. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^112]
 
-[^111]: A 4. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^112]: A 4. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.

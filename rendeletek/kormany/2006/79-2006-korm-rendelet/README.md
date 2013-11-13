@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-79-20-2
 | 2012-09-01 | 2006-79-20-22.16 | 248/2012. (VIII. 31.) Korm. rendelet |
 | 2013-01-01 | 2006-79-20-22.17 | 387/2012. (XII. 19.) Korm. rendelet |
 | 2013-04-27 | 2006-79-20-22.18 | 121/2013. (IV. 26.) Korm. rendelet |
+| 2013-11-13 | 2006-79-20-22.19 | 393/2013. (XI. 12.) Korm. rendelet |
