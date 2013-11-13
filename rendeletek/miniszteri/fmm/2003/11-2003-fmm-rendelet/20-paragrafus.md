@@ -1,5 +1,5 @@
-20. § (1) Munkahelyzet beállításhoz használt rögzítő kötélként kizárólag szintetikus kötél, drótkötél, heveder vagy lánc használható, amely a kötélrendszer csatlakozó elemeként vagy részeként legfeljebb 2 méter hosszú lehet.
+20. §[^38] (1) Munkahelyzet beállításhoz használt rögzítő kötélként kizárólag szintetikus kötél, drótkötél, heveder vagy lánc használható, amely a kötélrendszer csatlakozó elemeként vagy részeként legfeljebb 2 méter hosszú lehet.
 
-(2) Statikus kötél esetén a zuhanást gátló eszköz nem kerülhet a munkavállaló teljes testhevederzetéhez való csatlakozási pontjának vonala alá. Dinamikus kötélen a munkavállaló zuhanásának megakadályozására mászógép nem alkalmazható.
+(2) Segédkötélként bármilyen átmérőjű kötél vagy heveder használható a várható terhelés és a munkafolyamat figyelembevételével.
 
-(3) Segédkötélként csak körszövött (magból és köpenyből álló), 4–8 milliméter átmérőjű statikus kötél használható.
+[^38]: A 20. § a 45/2013. (X. 14.) NGM rendelet 14. §-ával megállapított szöveg.

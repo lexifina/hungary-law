@@ -20,7 +20,7 @@ c) a zuhanás megállítása után a munkavállalót olyan helyzetben rögzíti,
 
 (7) A teljes testhevederzetnek bármely zuhanást gátló eszközzel, illetőleg az ülőpaddal történő összekötésére energia elnyelését biztosító eszközként energiaelnyelőt, 9 milliméternél nem vékonyabb dinamikus kötelet vagy kantárt szabad használni, csatlakozó közbeiktatásával.
 
-(8) Zuhanást gátló eszközként visszahúzható típusú lezuhanásgátló, vezérelt típusú lezuhanásgátló és – a fogantyús mászógép kivételével – mászógép egyaránt használható.
+(8)[^32] Zuhanást gátló eszközként visszahúzható vagy vezérelt típusú lezuhanásgátló egyaránt használható.
 
 (9) A mászógép karabinere csatlakozásra szolgáló nyílásának a terhelés irányával párhuzamosnak kell lennie.
 
@@ -29,3 +29,5 @@ c) a zuhanás megállítása után a munkavállalót olyan helyzetben rögzíti,
 (11) Az alpintechnika során kizárólag olyan csatlakozó használható, amelynek terhelhetősége a felületén feltüntetésre került és kiképzése lehetővé teszi, hogy benne két kötél biztonságosan elhelyezhető legyen. Kézi rögzítésű csatlakozó csak akkor használható, ha a munkavégzés során nem kell gyakran átcsatlakoztatni.
 
 (12) Az ülőpadot az ereszkedő kötélhez megfelelő teherbírású statikus kötéllel vagy hevederrel kell biztonságosan rögzíteni. Az ülőpad a rögzítési ponthoz történő csatlakoztatás (biztosítás), illetve munkahelyzet-beállító deréköv helyettesítésére nem alkalmazható. Az ülőpad alatt keresztbe vezetett kötélgyűrűnek és az alkalmazott csomónak meg kell felelnie a várható igénybevételnek.
+
+[^32]: A 15. § (8) bekezdése a 45/2013. (X. 14.) NGM rendelet 10. §-ával megállapított szöveg.

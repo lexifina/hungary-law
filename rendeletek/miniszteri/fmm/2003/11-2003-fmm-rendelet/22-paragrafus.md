@@ -1,3 +1,1 @@
 ## Záró rendelkezések
-
-22. § Ez a rendelet 2004. január 1-jén lép hatályba. A rendelet hatálybalépésével egyidejűleg az Ipari Alpintechnikai Biztonsági Szabályzat kiadásáról szóló 1/1995. (I. 6.) MüM rendelet, valamint az egyes miniszteri rendeletek módosításáról szóló 3/2002. (IX. 30.) FMM rendeletnek az 1/1995. (I. 6.) MüM rendeletre vonatkozó része hatályát veszti.
