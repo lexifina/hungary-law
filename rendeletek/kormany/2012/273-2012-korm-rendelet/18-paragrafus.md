@@ -10,9 +10,9 @@
 
 (4) A továbbképzési tervek tartalmazzák a tanulmányi kötelezettség teljesítésének alapjául szolgáló közszolgálati, szakmai továbbképzési és vezetőképzési programokat.
 
-(5)[^16] Az éves továbbképzési tervet a munkáltatói jogkör gyakorlója az év közben felmerülő továbbképzési igények alapján – a (6) bekezdésben foglaltak figyelembe vételével – módosíthatja. Az év közbeni módosítás során nincs lehetőség az intézmény éves tervének teljes körű, átfogó módosítására.
+(5)[^21] Az éves továbbképzési tervet a munkáltatói jogkör gyakorlója az év közben felmerülő továbbképzési igények alapján – a (6) bekezdésben foglaltak figyelembe vételével – módosíthatja. Az év közbeni módosítás során nincs lehetőség az intézmény éves tervének teljes körű, átfogó módosítására.
 
-(6)[^17] Az éves továbbképzési tervnek a minősített programjegyzéken szereplő programokra vonatkozó részét a személyügyi központ által megküldött tervsablon útján módosíthatja a munkáltatói jogkör gyakorlója.
+(6)[^22] Az éves továbbképzési tervnek a minősített programjegyzéken szereplő programokra vonatkozó részét a személyügyi központ által megküldött tervsablon útján módosíthatja a munkáltatói jogkör gyakorlója.
 
-[^16]: A 18. § (5) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^17]: A 18. § (6) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^21]: A 18. § (5) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^22]: A 18. § (6) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be.

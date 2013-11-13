@@ -28,7 +28,7 @@ l) minősített továbbképzési program megvalósítása: a minősített progra
 
 m) nyilvántartásba vételi eljárás: a belső továbbképzést folytató munkáltató továbbképzési jogosultságának kérelemre történő jegyzékbe vétele;
 
-n) szakmai továbbképzési program: a közigazgatási szerveknél betöltött munkakörökhöz kapcsolódó szakmai és kompetenciafejlesztő képzések, amelyekről a munkáltató gondoskodik a minősített programjegyzékre felvett felsőoktatási továbbképzésekkel, felnőttképzéssel vagy belső továbbképzéssel;
+n)[^3] szakmai továbbképzési program: a közigazgatási szerveknél betöltött munkakörökhöz kapcsolódó szakmai és kompetenciafejlesztő képzések, amelyekről a munkáltató gondoskodik a minősített programjegyzékre felvett továbbképzésekkel;
 
 o) tanulmányi pont: a közszolgálati továbbképzésben végzett tanulmányi munka mértékegysége, amely a továbbképzési programok, illetve az egyes kurzusok vonatkozásában, arányaiban kifejezi azt a tanulmányi munkaórát, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges;
 
@@ -41,3 +41,5 @@ r) továbbképzési programminősítés: a képzőintézmények által fejleszte
 (2) E rendeletben meghatározott továbbképzési programjegyzéken szereplő minősített programok a honvédelmi és rendvédelmi szerveknél foglalkoztatottak képzése esetén igénybe vehetők.
 
 (3) A nemzetközi kötelezettség teljesítéséhez kapcsolódó speciális szakmai ismeretek, készségek megszerzésére irányuló kül- és belföldi képzésre, illetve nemzetközi konferenciára, tanulmányútra a belső továbbképzési programra vonatkozó szabályokat kell alkalmazni.
+
+[^3]: A 2. § (1) bekezdés n) pontja a 393/2013. (XI. 12.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
