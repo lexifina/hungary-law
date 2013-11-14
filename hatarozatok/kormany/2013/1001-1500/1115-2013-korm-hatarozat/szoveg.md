@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy
 
-a) a fejlesztések integrációjának és a térségi programoknak a szintjei és beavatkozási egységei a megyék, a megyei jogú városok térségei, a helyi közösségek és települések együttműködésén alapuló kisvárosi térségek, valamint az egyes országos szempontból kiemelten kezelendő speciális, funkcionális térségek legyenek,
+a)[^1] a fejlesztések integrációjának és a térségi programoknak a szintjei és beavatkozási egységei a megyék, a megyei jogú városok, a helyi közösségek és települések együttműködésén alapuló várostérségek és megyei jogú városok térségei, valamint az egyes országos szempontból kiemelten kezelendő speciális, funkcionális térségek legyenek,
 
 b) a megyei szinten a területfejlesztési programokban megfogalmazásra kerülő fejlesztési igények rendszerszerű és átlátható finanszírozhatóságának érdekében szükséges, hogy a megyei tervezés az ágazati szintű stratégiákkal és reformokkal összhangban, az országos szinten kialakított programkeretbe illeszkedve, egységes formában, összehangoltan valósuljon meg, illeszkedve az uniós kohéziós politikai rendszerébe,
 
@@ -89,3 +89,5 @@ Miniszterelnökséget vezető államtitkár
 belügyminiszter
 
 Határidő: 2013. március 31.
+
+[^1]: Az 1. pont a) alpontja az 1831/2013. (XI. 14.) Korm. határozat 13. pontjával megállapított szöveg.
