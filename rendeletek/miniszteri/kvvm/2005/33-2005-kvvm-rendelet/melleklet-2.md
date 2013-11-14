@@ -34,6 +34,10 @@
 
 |  | 4. | Hulladékkereskedelmi, -közvetítői vagy szállítási tevékenység, valamint előkezelés engedélyezése | 160 000 |
 
+|  | 5. | Hulladékgyűjtés engedélyezése a 4.1, 4.2, 4.3, 4.4 műveletekhez kapcsolódóan | 40 000 |
+
+|  | 6. | Hulladékgyűjtés engedélyezése a 4.5 kivételével | 120 000 |
+
 | 5. |  | Hulladék előkezelésének engedélyezése, ha a hasznosítási és ártalmatlanítási műveletek közül előkészítő műveletet engedélyeznek | 120 000 |
 
 | 6. |  | Hulladéktárolás engedélyezése | 144 000 |
@@ -894,7 +898,7 @@
 
 | 15.4.2. | Kizárólag környezeti hatások jelentőségének vizsgálata | 133 000 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^25]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^27]
 
 A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
 
@@ -924,4 +928,4 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 
 | 12. | Vidékfejlesztési Minisztérium | 10032000-01494549 |
 
-[^25]: A 2. melléklet a 20/2007. (VI. 8.) KvVM rendelet 2. §-ának b) pontjával megállapított, a 149/2011. (XII. 31.) VM rendelet 3. §-a szerint módosított szöveg.
+[^27]: A 2. melléklet a 20/2007. (VI. 8.) KvVM rendelet 2. §-ának b) pontjával megállapított, a 149/2011. (XII. 31.) VM rendelet 3. §-a szerint módosított szöveg.
