@@ -1,0 +1,3 @@
+1. § (1) A hulladékról szóló törvény (a továbbiakban: Ht.) és a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló kormányrendelet alapján folytatott – engedélyhez vagy nyilvántartásba vételhez kötött – tevékenységekre vonatkozóan a környezethasználónak a Ht.-ben a tárgyévre megállapított felügyeleti díjat egy összegben kell átutalási megbízással teljesítenie a környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) kincstárnál vezetett, 1. mellékletben meghatározott előirányzat-felhasználási számlájára.
+
+(2) Az átutalási megbízáson a közlemény rovatban fel kell tüntetni a befizetés jogcímét.
