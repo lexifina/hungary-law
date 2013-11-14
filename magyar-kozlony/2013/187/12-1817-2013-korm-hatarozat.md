@@ -1,0 +1,194 @@
+# A Kormány 1817/2013. (XI. 14.) Korm. határozata
+
+Magyar Közlöny 2013. évi 187. szám, 2013. november 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/449ac2d9fbdc82b51bddd220f309781b85ddbddb/dokumentumok/455cedd4c60d0239f963133ccadc8abad60ba008/letoltes)
+
+---
+
+A Kormány 1817/2013. (XI. 14.) Korm. határozata
+Abasár település ivóvízellátását biztosító kutak szennyezettségének feltárásával,
+valamint a település ivóvízellátásával kapcsolatban szükséges intézkedésekről
+A Kormány kiemelt figyelmet fordít az Abasár településen élő lakónépesség egészséges ivóvízzel történő ellátásának
+megoldására, ezért – a költséghatékonyság elvét szem előtt tartva – a következő intézkedéseket rendeli el:
+A Kormány
+1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított
+jogkörében eljárva, a Mátrafüred és Abasár közötti távvezeték megvalósítására (a továbbiakban: beruházás)
+90,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési
+kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban:
+Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv.
+1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-,
+energia- és zöldgazdaság-politikai ágazati programok alcím, 9. ÉRV Zrt. egészséges ivóvízellátással kapcsolatos
+feladatainak támogatása jogcímcsoport javára az 1. melléklet szerint;
+Az átcsoportosítás tekintetében
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+Az elszámolás és a visszatérítési kötelezettség tekintetében
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2014. június 30.
+2. egyetért azzal, hogy a nemzeti fejlesztési miniszter a támogatás felhasználásának és elszámolásának feltételeiről
+az Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársasággal 2013. november 30-áig
+támogatási megállapodást köt és a fejlesztéshez rendelkezésre bocsátott forrás felhasználásáról legkésőbb a Kvtv.
+zárszámadásának keretében gondoskodik;
+
+3. felhívja a beruházással kapcsolatos közigazgatási hatósági eljárásban eljáró hatóságokat irányító minisztereket,
+hogy – az érintett megyei kormányhivatalok kormánymegbízottjainak útján – kísérjék kiemelt figyelemmel
+a hatósági eljárásokat és tegyenek meg minden szükséges lépést annak érdekében, hogy az egyes eljárások
+ügyintézési határidőn belül, soron kívül lezáruljanak;
+Felelős: közigazgatási és igazságügyi miniszter
+emberi erőforrások minisztere
+vidékfejlesztési miniszter
+belügyminiszter
+Határidő: azonnal
+4. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva, az Abasár ivóvízellátását biztosító kutakban feltárt
+szennyezettséggel (a továbbiakban: szennyezettség) veszélyeztetett, Abasár környéki vízbázisok alapállapot
+vizsgálatának a víziközművek üzemeltetéséről szóló 21/2002. (IV. 25.) KöViM rendelet szerinti elvégzésére
+70,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési
+kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím
+terhére, a Kvtv. 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 13. Nemzeti Környezetügyi Intézet cím javára
+a 2. melléklet szerint;
+Az átcsoportosítás tekintetében
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+Az elszámolás és a visszatérítési kötelezettség tekintetében
+Felelős: vidékfejlesztési miniszter
+Határidő: 2014. június 30.
+5. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva, a szennyezettségre vonatkozó, a felszín alatti vizek
+védelméről szóló 219/2004. (VII. 21.) Korm. rendeletben meghatározottak szerinti tényfeltárás elvégzésére
+100,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési
+kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím
+terhére, a Kvtv. 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 13. Nemzeti Környezetügyi Intézet cím javára
+3. melléklet szerint.
+Az átcsoportosítás tekintetében
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+Az elszámolás és a visszatérítési kötelezettség tekintetében
+Felelős: vidékfejlesztési miniszter
+Határidő: 2014. június 30.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1817/2013. (XI. 14.) Korm. határozathoz
+XVII. Nemzeti Fejlesztési Minisztérium
+XI. Miniszterelnökség
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+a Kormány hatáskörében
+Költségvetési év: 2013.
+Millió forintban, egy tizedessel !
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. KIADÁSOK A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XVII. Nemzeti Fejlesztési Minisztérium
+20 Fejezeti kezelésű előirányzatok
+35 Klíma-, energia- és zöldgazdaság-politikai ágazati programok
+344606 9 ÉRV Zrt. egészséges ivóvízellátással kapcsolatos feladatainak támogatása
+2 Felhalmozási költségvetés
+3 Egyéb felhalmozási kiadások 90,0
+XI. Miniszterelnökség
+297102 7 Rendkívüli kormányzati intézkedések -90,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel !
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. TÁMOGATÁS A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XVII. Nemzeti Fejlesztési Minisztérium
+20 Fejezeti kezelésű előirányzatok
+35 Klíma-, energia- és zöldgazdaság-politikai ágazati programok
+344606 9 ÉRV Zrt. egészséges ivóvízellátással kapcsolatos feladatainak támogatása 90,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Az adatlap 5 példányban töltendő ki Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: I. n. év II. n. év III. n. év IV.n. év
+Fejezet 1 példány időarányos
+Állami Számvevőszék 1 példány teljesítményarányos
+Magyar Államkincstár 1 példány egyéb AZONNAL 90,0 90,0
+Nemzetgazdasági Minisztérium 2 példány
+A módosítást elrendelő
+jogszabály/ határozat
+száma
+Millió forintban, egy tizedessel !
+A módosítást elrendelő
+jogszabály/ határozat
+száma
+
+2. melléklet az 1817/2013. (XI. 14.) Korm. határozathoz
+XII. Vidékfejlesztési Minisztérium
+XI. Miniszterelnökség
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+a Kormány hatáskörében
+Költségvetési év: 2013.
+Millió forintban, egy tizedessel !
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. KIADÁSOK A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XII. Vidékfejlesztési Minisztérium
+276201 13 Nemzeti Környezetügyi Intézet
+1 Működési költségvetés
+3 Dologi kiadások 70,0
+XI. Miniszterelnökség
+297102 7 Rendkívüli kormányzati intézkedések -70,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel !
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. TÁMOGATÁS A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XII. Vidékfejlesztési Minisztérium
+276201 13 Nemzeti Környezetügyi Intézet 70,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Az adatlap 5 példányban töltendő ki Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: I. n. év II. n. év III. n. év IV.n. év
+Fejezet 1 példány időarányos
+Állami Számvevőszék 1 példány teljesítményarányos
+Magyar Államkincstár 1 példány egyéb AZONNAL 70,0 70,0
+Nemzetgazdasági Minisztérium 2 példány
+A módosítást elrendelő
+jogszabály/ határozat
+száma
+Millió forintban, egy tizedessel !
+A módosítást elrendelő
+jogszabály/ határozat
+száma
+
+3. melléklet az 1817/2013. (XI. 14.) Korm. határozathoz
+XII. Vidékfejlesztési Minisztérium
+XI. Miniszterelnökség
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+a Kormány hatáskörében
+Költségvetési év: 2013.
+Millió forintban, egy tizedessel !
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. KIADÁSOK A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XII. Vidékfejlesztési Minisztérium
+276201 13 Nemzeti Környezetügyi Intézet
+1 Működési költségvetés
+3 Dologi kiadások 100,0
+XI. Miniszterelnökség
+297102 7 Rendkívüli kormányzati intézkedések -100,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Millió forintban, egy tizedessel !
+ÁHT. Fejezet Cím Alcím Jog- Jog- Előir. Kiemelt Fejezet Cím Alcím Jog- Jog- Előir. TÁMOGATÁS A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím csoport előir. név név név cím cím csop. (+/-) következő
+azonosító csop. szám száma szám csop. név név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XII. Vidékfejlesztési Minisztérium
+276201 13 Nemzeti Környezetügyi Intézet 100,0
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Az adatlap 5 példányban töltendő ki Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: I. n. év II. n. év III. n. év IV.n. év
+Fejezet 1 példány időarányos
+Állami Számvevőszék 1 példány teljesítményarányos
+Magyar Államkincstár 1 példány egyéb AZONNAL 100,0 100,0
+Nemzetgazdasági Minisztérium 2 példány
+A módosítást elrendelő
+jogszabály/ határozat
+száma
+Millió forintban, egy tizedessel !
+A módosítást elrendelő
+jogszabály/ határozat
+száma
