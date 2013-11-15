@@ -1,0 +1,1 @@
+## 1. § A Kormány a Pannon Kollégium Ingatlanfejlesztő Korlátolt Felelősségű Társaság (Cg. 19-09-511793, székhely: 8200 Veszprém, Egyetem utca 12.) gazdasági társaságot (a továbbiakban: Társaság) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
