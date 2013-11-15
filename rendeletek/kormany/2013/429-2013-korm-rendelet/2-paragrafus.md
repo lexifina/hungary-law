@@ -1,0 +1,1 @@
+## 1. § A Kormány a Zugliget 9 Korlátolt Felelősségű Társaság (Cg. 01-09-949853, székhely: 1054 Budapest, Hold utca 21. 4. em.) gazdasági társaságot (a továbbiakban: Társaság) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
