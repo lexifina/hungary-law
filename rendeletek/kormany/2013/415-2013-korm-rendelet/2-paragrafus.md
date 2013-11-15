@@ -1,0 +1,1 @@
+## 1. § A Kormány a Radom Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-014244, székhely: 9027 Győr, Budai u. 2–6.) gazdasági társaságot (a továbbiakban: Társaság) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
