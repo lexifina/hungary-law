@@ -1,4 +1,4 @@
-## 19–22. §[^6]
+## 19–22. §[^13]
 
 1. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
@@ -152,6 +152,12 @@
 
 2.64. vezető közegészségügyi felügyelő*
 
+2.65.[^14] ápolási igazgató
+
+2.66.[^15] egészségügyi szakoktató
+
+2.67.[^16] mentőhelikopter vezető
+
 3. Az Eütev. 11/A. § (6) bekezdése szerinti, felsőfokú végzettséggel betölthető munkakörök:
 
 3.1. pszichológus
@@ -167,6 +173,10 @@
 3.6. logopédus
 
 3.7. mikrobiológus*
+
+3.8.[^17] fizikus
+
+3.9.[^18] kémikus
 
 4. Az Eütev. 11/A. § (6a) bekezdése szerinti gyógyszerészi végzettséggel betölthető munkakörök:
 
@@ -188,7 +198,7 @@
 
 5.3. parancsnok helyettes*
 
-5.4. ápolási igazgató
+5.4.[^19]
 
 5.5. intézetvezető*
 
@@ -204,4 +214,10 @@ Jelmagyarázat:
 
 ** = a Kjt. vhr. 17. §-ában említett fegyveres szerveknél foglalkoztatott közalkalmazottakra irányadó munkakör.
 
-[^6]: A 19–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 19–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^15]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^16]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^17]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^18]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^19]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.

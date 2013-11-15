@@ -1,11 +1,19 @@
-10. § (1) A Nemzetközi Pető András Közhasznú Nonprofit Kft.-nek az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, e rendelet hatálybalépésének napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2012. január 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó foglalkoztatási jogviszonya időtartamára jogosult.
+10. §[^8] (1) A 2. mellékletben foglalt táblázat 242–249. pontja szerinti egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, a Módr. hatálybalépésének[^9] napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2013. január 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó foglalkoztatási jogviszonya időtartamára jogosult.
 
-(2) Az (1) bekezdés alapján illetmény- vagy bérnövelésre jogosult foglalkoztatott az egészségügyi ágazati előmeneteli rendszer alapján egyébként járó visszamenőleges és folyamatos illetmény- vagy bérnövelésre az e §-ban meghatározottak szerint egyösszegű illetmény- vagy bérnövelésként (a továbbiakban együtt: egyösszegű illetménynövelés) jogosult.
+(2) A HEVA Kft.-nek az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, a Módr. hatálybalépésének[^10] napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2013. május 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó foglalkoztatási jogviszonya időtartamára jogosult.
 
-(3) Az (1) bekezdés szerinti munkáltató illetmény- vagy bérnövelésre jogosult foglalkoztatottja részére az egyösszegű illetménynövelés összegét a 2013. augusztusi bér (illetmény) kifizetésével egyidejűleg kell kifizetni 2013. szeptember hónapban.
+(3) A 2. mellékletben foglalt táblázat szerinti munkáltató által az 1. mellékletnek a Módr.-rel megállapított 2.65–2.67., 3.8. és 3.9. pontjában szereplő munkakörben foglalkoztatott dolgozója az illetmény- vagy bérnövelésre 2013. január 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó foglalkoztatási jogviszonya időtartamára jogosult.
 
-(4) Az (1) bekezdés szerinti munkáltató által a 2012. január 1-je és 2013. augusztus 31-e közötti időszakra vonatkozó egyösszegű illetménynövelés biztosítása érdekében igényelhető támogatás összege megegyezik az egészségügyi dolgozót, illetve egészségügyben dolgozót az Eütev. szerint megillető mértékű emelési összegnek a kifizetőt terhelő adókkal és járulékokkal megnövelt mértékével.
+(4) Az (1)–(3) bekezdés alapján illetmény- vagy bérnövelésre jogosult foglalkoztatott az egészségügyi ágazati előmeneteli rendszer alapján egyébként járó visszamenőleges és folyamatos illetmény- vagy bérnövelésre az e §-ban meghatározottak szerint egyösszegű illetmény- vagy bérnövelésként (a továbbiakban együtt: egyösszegű illetménynövelés) jogosult.
 
-(5) Az egyösszegű illetménynövelés igénybejelentésére a 4. § (1) és (3) bekezdésében foglaltakat kell alkalmazni.
+(5) Az (1)–(3) bekezdés szerinti munkáltató illetmény- vagy bérnövelésre jogosult foglalkoztatottja részére az egyösszegű illetménynövelés összegét a 2013. novemberi bér (illetmény) kifizetésével egyidejűleg kell kifizetni 2013. december hónapban.
 
-(6) A 4. § (4) bekezdésében foglaltaktól eltérően a (4) bekezdés szerinti támogatásnak – a GYEMSZI adatszolgáltatása alapján – az OEP általi utalványozására a 2013. szeptember hónapban esedékes támogatás utalványozásával egyidejűleg kerül sor.
+(6) A munkáltató által az (1)–(3) bekezdés szerinti időszakra vonatkozó egyösszegű illetménynövelés biztosítása érdekében igényelhető támogatás összege megegyezik az egészségügyi dolgozót, illetve egészségügyben dolgozót az Eütev. szerint megillető mértékű emelési összegnek a kifizetőt terhelő adókkal és járulékokkal megnövelt mértékével.
+
+(7) Az egyösszegű illetménynövelés igénybejelentésére a 4. § (1) és (3) bekezdésében foglaltakat kell alkalmazni, azzal, hogy a 4. § (1) bekezdésében foglaltaktól eltérően a GYEMSZI 2013. november 20-áig továbbítja a bruttó támogatási összeget az OEP részére.
+
+(8) A 4. § (4) bekezdésében foglaltaktól eltérően a (6) bekezdés szerinti támogatásnak – a GYEMSZI adatszolgáltatása alapján – az OEP általi utalványozására a 2013. december hónapban esedékes támogatás utalványozásával egyidejűleg kerül sor.
+
+[^8]: A 10. § a 394/2013. (XI. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A hatálybalépés időpontja 2013. november 15.
+[^10]: A hatálybalépés időpontja 2013. november 15.

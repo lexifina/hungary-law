@@ -482,6 +482,24 @@
 
 | 241. | Zsigmondy Vilmos Harkányi Gyógyfürdőkórház Nonprofit Kft. | Harkány |
 
+| 242. | Magyar Máltai Szeretetszolgálat Egyesület Járóbeteg szakrendelés (Szarvas Gábor u.) | Budapest |
+
+| 243. | Magyar Máltai Szeretetszolgálat Egyesület Mozgó Tüdőgondozó Állomás | Budapest |
+
+| 244. | Magyar Máltai Szeretetszolgálat Egyesület Járóbeteg Szakrendelés | Pécs |
+
+| 245. | Magyar Máltai Szeretetszolgálat Egyesület Ápolási Otthon | Miskolc |
+
+| 246. | Cserkeszőlő Községi Önkormányzat Fürdő és Gyógyászati Központ | Cserkeszőlő |
+
+| 247. | Rákosmenti Egészségügyi és Szociális Központ | Budapest |
+
+| 248. | Egészségügyi és Szociális Intézmények Igazgatósága | Kecskemét |
+
+| 249. | Verpelét Nagyközségi Önkormányzat | Verpelét |
+
+| 250. | HEVA Kft. | Heves |
+
 3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
 ## Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz

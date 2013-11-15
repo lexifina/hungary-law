@@ -1,3 +1,3 @@
-8–10. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^8]
+8–10. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^22]
 
-[^8]: A 8–10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 8–10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
