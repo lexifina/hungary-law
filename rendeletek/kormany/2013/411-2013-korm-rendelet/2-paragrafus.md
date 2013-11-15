@@ -1,0 +1,1 @@
+## 1. § A Kormány a KIPTREF Befektető és Üzemeltető Korlátolt Felelősségű Társaság (Cg. 01-09-869247, székhely: 1106 Budapest, Jászberényi út 24–36.) gazdasági társaságot (a továbbiakban: Társaság) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
