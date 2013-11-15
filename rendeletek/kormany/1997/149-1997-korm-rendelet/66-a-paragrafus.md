@@ -2,6 +2,8 @@
 
 (2) A rendszeres kedvezmény első alkalommal történő megállapításakor – erre irányuló kérelem esetén – a határozat egy példányát meg kell küldeni a kérelemben megjelölt, a gyermek étkeztetését biztosító intézmény számára.
 
+(2a)[^304] Az Szt. 18/B. §-ában meghatározott országos nyilvántartásba rögzítendő, a rendszeres kedvezményről hozott döntésnek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 72. §-ában meghatározottakon kívül tartalmaznia kell az ügy elbírálási azonosítóját is.
+
 (3) A rendszeres kedvezményre való jogosultság kezdő időpontja – a 67/A. § (4) bekezdés b) pontjában foglalt kivétellel – a kérelem benyújtásának napja.
 
 (4) A rendszeres kedvezményre való jogosultság – ideértve az ahhoz kapcsolódó pénzbeli ellátást is – ismételt megállapításához a szülőnek vagy más törvényes képviselőnek, illetve a nagykorú jogosultnak új kérelmet kell előterjesztenie.
@@ -12,3 +14,4 @@
 
 [^302]: A 66/A. §-t az 57/2006. (III. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 98/2013. (III. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^303]: A 66/A. § (1) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^304]: A 66/A. § (2a) bekezdését a 392/2013. (XI. 12.) Korm. rendelet 16. §-a iktatta be.

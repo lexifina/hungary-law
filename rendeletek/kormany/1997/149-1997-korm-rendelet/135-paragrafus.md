@@ -1,6 +1,6 @@
 ## Ideiglenes gondnok
 
-135. §[^700] (1) A törvényben meghatározott feltételek fennállása esetén [Ptk. 18/A. § (1) bek.] az ideiglenes gondnokrendelés előtt a gyámhivatal
+135. §[^702] (1) A törvényben meghatározott feltételek fennállása esetén [Ptk. 18/A. § (1) bek.] az ideiglenes gondnokrendelés előtt a gyámhivatal
 
 a) meghallgatja a gondnokság alá helyezendő személyt,
 
@@ -18,4 +18,4 @@ d) leltároztatja a gondnokság alá helyezendő személy vagyonát.
 
 (5) Annak a személynek a bentlakásos szociális intézménybe történő elhelyezését, akinek cselekvőképessége a gyámhivatal ideiglenes gondnokrendelő határozata alapján e jognyilatkozat megtételében korlátozott, az ideiglenes gondnok csak a bíróság ideiglenes gondnokrendelés fenntartásáról rendelkező jogerős végzése alapján kérheti.
 
-[^700]: A 135. § a 262/2001. (XII. 21.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^702]: A 135. § a 262/2001. (XII. 21.) Korm. rendelet 10. §-ával megállapított szöveg.
