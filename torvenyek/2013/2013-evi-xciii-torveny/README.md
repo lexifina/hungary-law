@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-93-00-00
 | 2013-09-02 | 2010. évi CXXX. törvény | 2013-93-00-00.4 |
 | 2013-10-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-93-00-00.5 |
 | 2013-10-16 | 2010. évi CXXX. törvény | 2013-93-00-00.6 |
+| 2013-11-15 | 2013. évi CLVIII. törvény | 2013-93-00-00.7 |
