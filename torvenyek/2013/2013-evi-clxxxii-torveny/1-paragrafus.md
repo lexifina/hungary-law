@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a 2011. évi XXXVII. törvénnyel kihirdetett, a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (a továbbiakban: SzMGSz) és az SzMGSz 2., 12.6., és 14. mellékletei módosításait e törvénnyel kihirdeti.
