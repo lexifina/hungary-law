@@ -28,7 +28,7 @@
 
 10. Totófogadás: olyan totalizatőri rendszerben szervezett fogadás, amelyben a fogadónak a labdarúgó-csapatok mérkőzéseinek eredményét kell eltalálnia.
 
-11. Egység: egy pályázat alapján megkötött koncessziós szerződéssel működtetett egy játékkaszinó.
+11. Egység: koncessziós szerződéssel működtetett egy játékkaszinó.
 
 12. Pénzgyűjtő: a tétek és a nyeremények kezelésével megbízott személy.
 
@@ -69,3 +69,15 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 
 29. Játékosi egyenleg: távszerencsejáték esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték-szervező által vezetett egyenleg.
+
+30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, valamint annak többségi tulajdonosa, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet, és
+
+a) valamennyi közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és egyszer sem esett harminc napot meghaladó késedelembe;
+
+b) egyik bankszámláján sem volt azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene végrehajtási eljárás;
+
+c) a működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként öt millió forint összeget meghaladó bírsággal sújtották volna;
+
+d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet Magyarországon;
+
+e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.

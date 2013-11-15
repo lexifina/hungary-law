@@ -13,3 +13,5 @@ b) a szerencsejáték szervező tevékenységgel összefüggő azon tevékenysé
 c) a pályázat benyújtásának határidejét és helyét.
 
 (5) A pályázati kiírásnak szükség esetén tartalmaznia kell a szerencsejáték szervező tevékenységre alapított gazdasági társaságra vonatkozó különös előírásokat (pl. a kibocsátott részvények, illetőleg üzletrészek korlátozott forgalomképességét).
+
+(6) A koncessziós szerződést a miniszter a Ktv. 10/C. § (2) bekezdése alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül is megkötheti.
