@@ -1,0 +1,1 @@
+## 1. § A Kormány az Invest Sport Szolgáltató Korlátolt Felelősségű Társaság (Cg. 10-09-026870, székhely: 3300 Eger, Szálloda u. 1–3.) gazdasági társaságot (a továbbiakban: Társaság) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
