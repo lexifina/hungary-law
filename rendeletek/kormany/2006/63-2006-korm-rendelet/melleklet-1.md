@@ -1,4 +1,6 @@
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^221]
+## 62. §[^223] A szociális és gyermekvédelmi ellátások országos nyilvántartásáról szóló 392/2013. (XI. 12.) Korm. rendelettel megállapított 1. § (1) bekezdését, 5/A. §-t, 35. § (1) bekezdését, valamint 2. számú mellékletet, 2/A. számú mellékletet, 3. számú mellékletet, 4. számú mellékletet, 9. számú mellékletet és 12. számú mellékletet a 2013. december 15-ét követően indult ügyekben kell alkalmazni.
+
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^224]
 
 ## Vagyonnyilatkozat
 
@@ -74,4 +76,5 @@ __________
 
 ** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
 
-[^221]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^223]: A 62. §-t a 392/2013. (XI. 12.) Korm. rendelet 13. §-a iktatta be.
+[^224]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -80,6 +80,6 @@
 
 ## A megfelelő választ X-szel kell jelölni, illetve a hiányzó adatokat kitölteni.
 
-9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^229]
+9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^232]
 
-[^229]: A 9. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdés c) pontjával megállapított, a 24. §-a szerint módosított szöveg.
+[^232]: A 9. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § e) pontjával megállapított szöveg.

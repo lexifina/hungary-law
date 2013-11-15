@@ -2,47 +2,61 @@
 
 ## a normatív lakásfenntartási támogatás megállapítására
 
-## I. Személyi adatok
+| 1. Személyi adatok |
 
-## 1. A kérelmező személyre vonatkozó adatok:
+| 1.1. A kérelmező személyre vonatkozó adatok: |
 
-| Neve:......................................................................................................................................................................... |
+| 1.1.1. Neve: ................................................................................................................................................................ |
 
-| Születési neve: ......................................................................................................................................................... |
+| 1.1.2. Születési neve: ................................................................................................................................................. |
 
-| Anyja neve: .............................................................................................................................................................. |
+| 1.1.3. Anyja neve: ...................................................................................................................................................... |
 
-| Születés helye, ideje: ................................................................................................................................................ |
+| 1.1.4. Születés helye, ideje (év, hó, nap): .................................................................................................................. |
 
-| Lakóhely: ⬜ ⬜ ⬜ ⬜ irányítószám .............................................................................................................. település ..........................................................utca/út/tér .............. házszám ............ épület/lépcsőház ............... emelet, ajtó |
+| 1.1.5. Lakóhelye: ⬜⬜⬜⬜irányítószám ................................................................................................ település ..........................................................utca/út/tér .............. házszám ............ épület/lépcsőház ............... emelet, ajtó |
 
-| Tartózkodási hely: ⬜ ⬜ ⬜ ⬜ irányítószám ................................................................................................ település ...........................................................utca/út/tér .............. házszám ............ épület/lépcsőház ............... emelet, ajtó |
+| 1.1.6. Tartózkodási helye: ⬜⬜⬜⬜irányítószám ................................................................................................ település ...........................................................utca/út/tér .............. házszám ............ épület/lépcsőház ............... emelet, ajtó |
 
-| Társadalombiztosítási Azonosító Jele: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
+| 1.1.7. Társadalombiztosítási Azonosító Jele: ⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.1.8. Állampolgársága: .............................................................................................................................................. |
 
-| Telefonszám (nem kötelező megadni): .................................................................................................. |
+| 1.1.9. Telefonszám (nem kötelező megadni): ............................................................................................................ |
 
-| E-mail cím (nem kötelező megadni): ………………………………………………………………..... |
+| 1.1.10. E-mail cím (nem kötelező megadni): ............................................................................................................. |
 
-| 2. Kérelmezővel közös háztartásában élők száma: ………… fő |
+| 1.2. A kérelmező idegenrendészeti státusza (nem magyar állampolgárság esetén): 1.2.1. ⬜szabad mozgás és tartózkodás jogával rendelkező, vagy 1.2.2. ⬜EU kék kártyával rendelkező, vagy 1.2.3. ⬜bevándorolt/letelepedett, vagy 1.2.4. ⬜menekült/oltalmazott/hontalan. |
 
-## 3. Kérelmező háztartásában élők személyi adatai:
+| 1.3. Kérelmezővel közös háztartásban (azonos lakcímen) élők száma: ………… fő. |
 
-| Név | Születési helye, ideje | Anyja neve |
+## 1.4. Kérelmező háztartásában élők személyi adatai:
 
-## 4. Kijelentem, hogy a kérelem benyújtásának időpontjában a háztartásom táblázatban feltüntetett tagjai között van olyan személy:
+|  | A | B | C | D |
 
-## - aki után vagy részére súlyos fogyatékosság vagy tartós betegség miatt magasabb összegű családi pótlékot folyósítanak; ha igen, akkor e személyek száma ............ fő
+|  | Név (születési név) | Születési helye, ideje (év, hó, nap) | Anyja neve | Társadalombiztosítási Azonosító Jele |
 
-## - aki fogyatékossági támogatásban részesül; ha igen, akkor e személyek száma .......... fő
+| 1. |  |  |  |  |
 
-## - aki gyermekét egyedülállóként neveli; ha igen, akkor e személyek száma .......... fő
+| 2. |  |  |  |  |
 
-## II. Jövedelmi adatok
+| 3. |  |  |  |  |
+
+| 4. |  |  |  |  |
+
+| 5. |  |  |  |  |
+
+## 1.5. Kijelentem, hogy a kérelem benyújtásának időpontjában a háztartásom táblázatban feltüntetett tagjai között van olyan személy:
+
+## a) aki után vagy részére súlyos fogyatékosság vagy tartós betegség miatt magasabb összegű családi pótlékot folyósítanak; ha igen, akkor e személyek száma ............ fő,
+
+## b) aki fogyatékossági támogatásban részesül; ha igen, akkor e személyek száma .......... fő,
+
+## c) aki gyermekét egyedülállóként neveli; ha igen, akkor e személyek száma .......... fő.
+
+## 2. Jövedelmi adatok
 
 ## A kérelmező, valamint a vele közös háztartásban élő személyeknek a havi jövedelme forintban:
 
-|  | A. | B. | C. |
+|  | A | B | C |
 
 | A jövedelem típusa | Kérelmező | A kérelmezővel közös háztartásban élő további személyek |
 
@@ -60,31 +74,31 @@
 
 | 7. | Összes jövedelem |  |  |  |  |  |  |
 
-## III. Lakásviszonyok
+## 3. Lakásviszonyok
 
-| A támogatással érintett lakás nagysága: …………..m2 |
+| 3.1. A támogatással érintett lakás nagysága: ………….. m2. |
 
-| A lakásban tartózkodás jogcíme: ……………………………………………………….. |
+| 3.2. A lakásban tartózkodás jogcíme: ……………………………………………………….. |
 
-| IV. Nyilatkozatok |
+| 4. Nyilatkozatok |
 
-| 1. A kérelemmel érintett lakásba előrefizetős gáz-vagy áramszolgáltatást mérő készülék került-e felszerelésre: |
+| 4.1. A kérelemmel érintett lakásban előrefizetős gáz- vagy áramszolgáltatást mérő készülék |
 
-| igen - nem (a megfelelő rész aláhúzandó) |
+| működik – nem működik (a megfelelő rész aláhúzandó). |
 
-| Amennyiben igen, kérjük nevezze meg a szolgáltatót: ……………. ……………………………… |
+| Amennyiben igen, kérjük, nevezze meg a szolgáltatót: ……………. ……………………………… |
 
-| {Azon személy részére, akinél készülék működik, a lakásfenntartási támogatást részben vagy egészben a készülék működtetését lehetővé tevő eszköz (kódhordozó) formájában kell nyújtani, ideértve a készülék feltöltésének elektronikus úton, a fogyasztó javára történő teljesítését is [63/2006. (III.27.) Korm. rend. 22. § (1) bekezdés]} |
+| {Azon személy részére, akinél készülék működik, a lakásfenntartási támogatást részben vagy egészben a készülék működtetését lehetővé tevő eszköz (kódhordozó) formájában kell nyújtani, ideértve a készülék feltöltésének elektronikus úton, a fogyasztó javára történő teljesítését is [a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 22. § (1) bekezdése]} |
 
-| 2. A lakhatást a legnagyobb mértékben veszélyeztető lakásfenntartási kiadás(ok): |
+| 4.2. A lakhatást a legnagyobb mértékben veszélyeztető lakásfenntartási kiadás(ok): |
 
-| 3. Felelősségem tudatában kijelentem, hogy |
+| 4.3. Felelősségem tudatában kijelentem, hogy |
 
-| - életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek* (a megfelelő rész aláhúzandó), |
+| a) életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek* (a megfelelő rész aláhúzandó), |
 
-| - a közölt adatok a valóságnak megfelelnek. |
+| b) a közölt adatok a valóságnak megfelelnek. |
 
-| Tudomásul veszem, hogy a kérelemben közölt jövedelmi adatok valódiságát a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény 10. §-ának (7) bekezdése alapján a szociális hatáskört gyakorló szerv – a NAV hatáskörrel és illetékességgel rendelkező adóigazgatósága útján - ellenőrizheti. |
+| Tudomásul veszem, hogy a kérelemben közölt jövedelmi adatok valódiságát a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 10. § (7) bekezdése alapján a szociális hatáskört gyakorló szerv – a Nemzeti Adó- és Vámhivatal hatáskörrel és illetékességgel rendelkező adóigazgatósága útján – ellenőrizheti. |
 
 | Hozzájárulok a kérelemben szereplő adatoknak a szociális igazgatási eljárás során történő felhasználásához. |
 
@@ -94,6 +108,6 @@
 
 | * Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha bejelentett lakó- és tartózkodási hellyel is rendelkezik. |
 
-12/a. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^233]
+12/a. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^236]
 
-[^233]: A 12/a. számú mellékletet a 133/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja. Újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § b) pontja iktatta be.
+[^236]: A 12/a. számú mellékletet a 133/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja. Újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § b) pontja iktatta be.

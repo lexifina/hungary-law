@@ -14,59 +14,81 @@
 
 ## 1.1.4. Születési helye, ideje (év, hó, nap):
 
-## 1.1.5. Lakóhely:
+## 1.1.5. Lakóhelye:
 
-## 1.1.6. Tartózkodási hely:
+## 1.1.6. Tartózkodási helye:
 
 ## 1.1.7. Társadalombiztosítási Azonosító Jele:
 
-## 1.1.8. Telefonszám (nem kötelező megadni):
+## 1.1.8. Állampolgársága:
 
-## 1.1.9. Fizetési számlaszám (ha a folyósítást fizetési számlaszámra kéri):
+## 1.1.9. Telefonszám (nem kötelező megadni):
 
-## 1.1.10. A fizetési számlát vezető pénzintézet neve:
+## 1.1.10. Fizetési számlaszám (ha a folyósítást fizetési számlaszámra kéri):
+
+## 1.1.11. A fizetési számlát vezető pénzintézet neve:
 
 ## 1.2. A kérelmező családi állapota:
 
-## 1.2.1. ⬜ egyedülálló
+## 1.2.1. ⬜ egyedülálló,
 
-## 1.2.2. ⬜ házastársával/élettársával él együtt
+## 1.2.2. ⬜ házastársával/élettársával él együtt.
 
-## 1.3. A kérelmező házastársára/élettársára vonatkozó adatok:
+## 1.3. A kérelmező idegenrendészeti státusza (nem magyar állampolgárság esetén):
 
-## 1.3.1. Neve:
+## 1.3.1. ⬜ szabad mozgás és tartózkodás jogával rendelkező, vagy
 
-## 1.3.2. Születési neve:
+## 1.3.2. ⬜ EU kék kártyával rendelkező, vagy
 
-## 1.3.3. Lakóhely:
+## 1.3.3. ⬜ bevándorolt/letelepedett, vagy
 
-## 1.3.4. Tartózkodási hely:
+## 1.3.4. ⬜ menekült/oltalmazott/hontalan.
 
-## 1.3.5. Társadalombiztosítási Azonosító Jele:
+## 1.4. A kérelmezővel azonos lakcímen élő házastársára/élettársára vonatkozó adatok:
+
+## 1.4.1. Neve:
+
+## 1.4.2. Születési neve:
+
+## 1.4.3. Anyja neve:
+
+## 1.4.4. Születési helye, ideje (év, hó, nap):
+
+## 1.4.5. Lakóhelye:
+
+## 1.4.6. Tartózkodási helye:
+
+## 1.4.7. Társadalombiztosítási Azonosító Jele:
 
 ## 2. Jövedelmi adatok:
 
 |  | A | B | C |
 
-| 2.1. | Jövedelem típusa | Kérelmező | Házastárs/élettárs |
+|  | A jövedelem típusa | Kérelmező | Házastárs, élettárs |
 
 | havi jövedelme (forint) |
 
-| 2.2. | Nyugdíj vagy nyugdíjszerű ellátás |  |  |
+| 2.1. | Munkaviszonyból és más foglalkoztatási jogviszonyból származó ebből: közfoglalkoztatásból származó |  |  |
 
-| 2.3. | Keresőtevékenységből származó jövedelem |  |  |
+| 2.2. | Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó |  |  |
 
-| 2.4. | Egyéb jövedelem |  |  |
+| 2.3. | Táppénz, gyermekgondozási támogatások |  |  |
 
-| 2.5. | Összesen |  |  |
+| 2.4. | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |  |
+
+| 2.5. | Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások |  |  |
+
+| 2.6. | Egyéb jövedelem |  |  |
+
+| 2.7. | Összes jövedelem |  |  |
 
 ## 3. Nyilatkozatok:
 
 ## 3.1. Tudomásul veszem, hogy
 
-## 3.1.1. a kérelemben közölt jövedelmi adatok valódiságát a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 10. § (7) bekezdése alapján a szociális hatáskört gyakorló szerv – az állami adóhatóság illetékes adóigazgatósága útján – ellenőrizheti,
+## 3.1.1. a szociális hatáskört gyakorló szerv – az állami adóhatóság útján – ellenőrizheti a kérelemben közölt jövedelmi adatok valódiságát,
 
-## 3.1.2. a feltüntetett adatokban bekövetkezett változást köteles vagyok 15 napon belül az eljáró hatóságnak bejelenteni.
+## 3.1.2. köteles vagyok a feltüntetett adatokban bekövetkezett változást 15 napon belül bejelenteni az eljáró hatóságnak.
 
 ## 3.2. Hozzájárulok a kérelemben szereplő adatoknak a szociális igazgatási eljárás során történő felhasználásához.
 
@@ -74,7 +96,7 @@
 
 ## Felelősségem tudatában kijelentem, hogy
 
-## 3.3.1.* életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
+## 3.3.1.* életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
 
 ## 3.3.2. a kérelemben közölt adatok a valóságnak megfelelnek.
 
@@ -82,13 +104,13 @@
 
 ## Felelősségem tudatában kijelentem, hogy
 
-## 3.4.1.* életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
+## 3.4.1.* életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
 
 ## 3.4.2. a kérelemben közölt adatok a valóságnak megfelelnek.
 
 ## Kelt: …………………………………………………., ……………………………………….
 
-## 3K14358M_1
+## 3K80593_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -100,7 +122,7 @@
 
 ## 4. TÁJÉKOZTATÓ A KÉRELEM KITÖLTÉSÉHEZ
 
-## Kérjük, hogy szíveskedjen a megfelelő választ X-szel jelölni, illetve a hiányzó adatokat kitölteni.
+## Kérjük, hogy szíveskedjen a megfelelő választ X-szel jelölni, és a hiányzó adatokat kitölteni.
 
 ## 4.1. A személyi adatok kitöltéséhez
 
@@ -108,29 +130,45 @@
 
 ## 4.2. A jövedelemre vonatkozó adatok kitöltéséhez
 
-## 4.2.1. „Nyugdíj vagy nyugdíjszerű ellátásként” kell feltüntetni az öregségi nyugdíjat, az özvegyi nyugdíjat, a hozzátartozói baleseti nyugellátást, a mezőgazdasági járadékot, a korhatár előtti ellátást, a szolgálati járandóságot, a balettművészeti életjáradékot, az átmeneti bányászjáradékot, a rokkantsági ellátást, a rehabilitációs ellátást, a bányászok egészségkárosodási járadékát, a rokkantsági járadékot, a rehabilitációs járadékot, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásait és egyéb hasonló jellegű juttatásokat.
+## 4.2.1. „Jövedelem”: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
 
-## 4.2.2. „Keresőtevékenységből származó jövedelemnek” minősül minden olyan bevétel, amely munkavégzésből származik (például: munkabér, megbízási díj, vállalkozásból származó jövedelem).
+## 4.2.2. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni.
 
-## 4.2.3. „Egyéb jövedelmek” között kell feltüntetni a táppénzt, a gyermekgondozási segélyt, a gyermeknevelési támogatást, a munkaügyi szervek, a járási hivatal vagy az önkormányzat által folyósított pénzbeli ellátásokat (például: álláskeresési támogatás, rendszeres szociális segély, foglalkoztatást helyettesítő támogatás, ápolási díj), valamint azon jövedelmeket, amelyek az előző két rovatban nem tüntethetők fel.
+## 4.2.2.1. Elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj.
 
-## 4.2.4. Ha a jövedelemből munkavállalói járulékot, személyi jövedelemadót, egészségbiztosítási és nyugdíjjárulékot, magán-nyugdíjpénztári tagdíjat fizetnek, akkor a jövedelemnek e befizetésekkel csökkentett összegét kell a kérelemben szerepeltetni.
+## 4.2.2.2. Befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
 
-## 4.2.5. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+## 4.2.3. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel vagy a bevétel 85%-ának, illetve állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-## 4.2.6. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
+## 4.2.4. Nem minősül jövedelemnek, így jövedelemként nem kell feltüntetni az önkormányzati segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
 
-## 4.2.7. A havi jövedelem kiszámításakor
+## 4.2.5. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
-## 4.2.7.1. a rendszeres jövedelem esetén a kérelem benyújtását megelőző hónap alatt, és
+## 4.2.6. A havi jövedelem kiszámításakor
 
-## 4.2.7.2. a nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap alatt
+## 4.2.6.1. a rendszeres jövedelem esetén a kérelem benyújtását megelőző hónap alatt,
+
+## 4.2.6.2. a nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap alatt
 
 ## kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
-## 4.2.8. A jövedelemről – a Magyar Államkincstár területileg illetékes Igazgatósága által a családtámogatási törvény szerint folyósított családtámogatási ellátás, vagy a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény szerint folyósított fogyatékossági támogatás kivételével – a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
+## 4.2.7. A jövedelem típusai:
 
-2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^223]
+## 4.2.7.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+
+## 4.2.7.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
+
+## 4.2.7.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+
+## 4.2.7.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
+
+## 4.2.7.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a foglalkoztatást helyettesítő támogatás, az ápolási díj; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+
+## 4.2.7.6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, a felzárkózást elősegítő megélhetési támogatás, a nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
+
+## 4.2.8. A jövedelemről – a Magyar Államkincstár területileg illetékes Igazgatósága által a családtámogatási törvény szerint folyósított családtámogatási ellátás, vagy a fogyatékossági támogatás kivételével – a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
+
+2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^226]
 
 ## Adatlap
 
@@ -140,17 +178,29 @@ az időskorúak járadékának hivatalból történő megállapításához
 
 1.1. [A HATÓSÁG TÖLTI KI]
 
-1.1.1. Neve: ............................................................................................................................................................
+1.1.1. Neve:
 
-1.1.2. Anyja neve: ..................................................................................................................................................
+1.1.2. Anyja neve:
 
-1.1.3. Születés helye, ideje: ....................................................................................................................................
+1.1.3. Születés helye, ideje (év, hó, nap):
 
-1.1.4. Lakóhelye: ....................................................................................................................................................
+1.1.4. Lakóhelye:
 
-1.1.5. Tartózkodási helye .......................................................................................................................................
+1.1.5. Tartózkodási helye:
 
-1.1.6. Társadalombiztosítási Azonosító Jele: .........................................................................................................
+1.1.6. Társadalombiztosítási Azonosító Jele:
+
+1.1.7. Állampolgársága:
+
+1.1.8. A kérelmező idegenrendészeti státusza (nem magyar állampolgárság esetén):
+
+1.1.8.1. ⬜ szabad mozgás és tartózkodás jogával rendelkező, vagy
+
+1.1.8.2. ⬜ EU kék kártyával rendelkező, vagy
+
+1.1.8.3. ⬜ bevándorolt/letelepedett, vagy
+
+1.1.8.4. ⬜ menekült/oltalmazott/hontalan
 
 1.2. [AZ ÜGYFÉL TÖLTI KI]
 
@@ -164,39 +214,49 @@ az időskorúak járadékának hivatalból történő megállapításához
 
 1.2.5. Családi állapot:
 
-1.2.5.1. ⬜ egyedülálló
+1.2.5.1. ⬜ egyedülálló,
 
-1.2.5.2. ⬜ házastársával/élettársával együtt élő
+1.2.5.2. ⬜ házastársával/élettársával együtt élő.
 
-1.2.6. A házastárs/élettárs személyes adatai:
+1.2.6. A kérelmezővel azonos lakcímen élő házastársa/élettársa személyes adatai:
 
 1.2.6.1. Neve:
 
 1.2.6.2. Születési neve:
 
-1.2.6.3. Lakóhelye:
+1.2.6.3. Anyja neve:
 
-1.2.6.4. Tartózkodási helye:
+1.2.6.4. Születési helye, ideje (év, hó, nap):
 
-1.2.6.5. Társadalombiztosítási Azonosító Jele:
+1.2.6.5. Lakóhelye:
+
+1.2.6.6. Tartózkodási helye:
+
+1.2.6.7. Társadalombiztosítási Azonosító Jele:
 
 2. Jövedelmi adatok*
 
 |  | A | B | C |
 
-| 1. | Jövedelem típusa | Ügyfél | Házastárs/élettárs |
+|  | A jövedelem típusa | Kérelmező | Házastárs, élettárs |
 
 | havi jövedelme (forint) |
 
-| 2. | Nyugdíj vagy nyugdíjszerű ellátás |  |  |
+| 2.1. | Munkaviszonyból és más foglalkoztatási jogviszonyból származó ebből: közfoglalkoztatásból származó |  |  |
 
-| 3. | Keresőtevékenységből származó jövedelem |  |  |
+| 2.2. | Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó |  |  |
 
-| 4. | Egyéb jövedelem |  |  |
+| 2.3. | Táppénz, gyermekgondozási támogatások |  |  |
 
-| 5. | Összesen |  |  |
+| 2.4. | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |  |
 
-## *Egyedülálló személy esetén csak akkor kell kitölteni, ha az aktív korúak ellátására való jogosultság megszüntetését követően a jövedelemben változás állt be.
+| 2.5. | Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások |  |  |
+
+| 2.6. | Egyéb jövedelem |  |  |
+
+| 2.7. | Összes jövedelem |  |  |
+
+## * Egyedülálló személy esetén csak akkor kell kitölteni, ha az aktív korúak ellátására való jogosultság megszüntetését követően a jövedelemben változás állt be.
 
 3. Nyilatkozatok
 
@@ -204,7 +264,7 @@ az időskorúak járadékának hivatalból történő megállapításához
 
 Felelősségem tudatában kijelentem, hogy
 
-3.1.1.** életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek (a megfelelő rész aláhúzandó),
+3.1.1.** életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó),
 
 3.1.2. az adatlapon közölt adatok a valóságnak megfelelnek.
 
@@ -212,17 +272,17 @@ Felelősségem tudatában kijelentem, hogy
 
 Felelősségem tudatában kijelentem, hogy
 
-3.2.1.** életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
+3.2.1.** életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
 
 3.2.2. a kérelemben közölt adatok a valóságnak megfelelnek.
 
-3.3. Tudomásul veszem, hogy a közölt jövedelmi adatok valódiságát a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 10. § (7) bekezdése alapján a szociális hatáskört gyakorló szerv – az állami adóhatóság illetékes adóigazgatósága útján – ellenőrizheti.
+3.3. Tudomásul veszem, hogy a szociális hatáskört gyakorló szerv – az állami adóhatóság útján – ellenőrizheti a közölt jövedelmi adatok valódiságát.
 
-3.4. A feltüntetett adatokban bekövetkezett változást köteles vagyok 15 napon belül az eljáró hatóságnak bejelenteni.
+3.4. Tudomásul veszem, hogy köteles vagyok a feltüntetett adatokban bekövetkezett változást 15 napon belül bejelenteni az eljáró hatóságnak.
 
 Kelt: ,......................................................
 
-## 3K14358N_1
+## 3K80596_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -236,34 +296,50 @@ Kelt: ,......................................................
 
 A megfelelő választ X-szel kell jelölni, illetve a hiányzó adatokat kitölteni.
 
-4.1. Személyi adatok
+4.1. A személyi adatok kitöltéséhez
 
 4.1.1. Egyedülálló az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van. A házastársak akkor tekinthetők különélőnek, ha a lakcímük különböző.
 
 4.2. A jövedelemre vonatkozó adatok kitöltéséhez
 
-4.2.1. A jövedelemre vonatkozó adatokat nem kell megadni, ha az ügyfél egyedülálló, és az aktív korúak ellátására való jogosultságának megszűnését követően jövedelmében változás nem állt be.
+4.2.1. A jövedelemre vonatkozó adatokat nem kell megadni, ha az ügyfél egyedülálló és az aktív korúak ellátására való jogosultságának megszűnését követően jövedelmében változás nem állt be.
 
-4.2.2. Nyugdíj vagy nyugdíjszerű ellátásként kell feltüntetni az öregségi nyugdíjat, az özvegyi nyugdíjat, a hozzátartozói baleseti nyugellátást, a mezőgazdasági járadékot, a korhatár előtti ellátást, a szolgálati járandóságot, a balettművészeti életjáradékot, az átmeneti bányászjáradékot, a rokkantsági ellátást, a rehabilitációs ellátást, a bányászok egészségkárosodási járadékát, a rokkantsági járadékot, a rehabilitációs járadékot, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásait és egyéb hasonló jellegű juttatásokat.
+4.2.2. „Jövedelem”: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
 
-4.2.3. Keresőtevékenységből származó jövedelemnek minősül minden olyan bevétel, amely munkavégzésből származik (például: munkabér, megbízási díj, vállalkozásból származó jövedelem).
+4.2.3. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni.
 
-4.2.4. Egyéb jövedelmek között kell feltüntetni a táppénzt, a gyermekgondozási segélyt, a gyermeknevelési támogatást, a munkaügyi szervek, a járási hivatal vagy az önkormányzat által folyósított pénzbeli ellátásokat (például: álláskeresési támogatás, rendszeres szociális segély, foglalkoztatást helyettesítő támogatás, ápolási díj), valamint azon jövedelmeket, amelyek az előző két rovatban nem tüntethetők fel.
+4.2.3.1. Elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj.
 
-4.2.5. Ha a jövedelemből munkavállalói járulékot, személyi jövedelemadót, egészségbiztosítási és nyugdíjjárulékot, magán-nyugdíjpénztári tagdíjat fizetnek, akkor a jövedelemnek e befizetésekkel csökkentett összegét kell a kérelemben szerepeltetni.
+4.2.3.2. Befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
 
-4.2.6. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+4.2.4. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel vagy a bevétel 85%-ának, illetve állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-4.2.7. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
+4.2.5. Nem minősül jövedelemnek, így jövedelemként nem kell feltüntetni az önkormányzati segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
 
-4.2.8. A havi jövedelem kiszámításakor
+4.2.6. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
-– rendszeres jövedelem esetén a kérelem benyújtását megelőző hónap alatt,
+4.2.7. A havi jövedelem kiszámításakor
 
-– nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap alatt
+4.2.7.1. a rendszeres jövedelem esetén a kérelem benyújtását megelőző hónap alatt,
+
+4.2.7.2. a nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap alatt
 
 kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
+4.2.8. A jövedelem típusai:
+
+4.2.8.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+
+4.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
+
+4.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+
+4.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
+
+4.2.8.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a foglalkoztatást helyettesítő támogatás, az ápolási díj; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+
+4.2.8.6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, a felzárkózást elősegítő megélhetési támogatás, a nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
+
 4.2.9. A jövedelemről a kérelemhez mellékelni kell – a családtámogatási törvény szerint folyósított családtámogatási ellátás kivételével – a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-[^223]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege ugyanezen § (3) bekezdés b) pontja szerint módosított szöveg.
+[^226]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított szöveg.

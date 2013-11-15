@@ -1,6 +1,8 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^224]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^227]
 
-## Kérelem aktív korúak ellátásának megállapítására
+## KÉRELEM
+
+aktív korúak ellátásának megállapítására
 
 1. Személyi adatok
 
@@ -14,75 +16,93 @@
 
 1.1.4. Születési helye, ideje (év, hó, nap):
 
-1.1.5. Lakóhely:
+1.1.5. Lakóhelye:
 
-1.1.6. Tartózkodási hely:
+1.1.6. Tartózkodási helye:
 
 1.1.7. Társadalombiztosítási Azonosító Jele:
 
-1.1.8. Telefonszám (nem kötelező megadni):
+1.1.8. Állampolgársága:
 
-1.1.9. Fizetési számlaszám (ha a folyósítást fizetési számlaszámra kéri):
+1.1.9. Telefonszám (nem kötelező megadni):
 
-1.1.10. A fizetési számlát vezető pénzintézet neve:
+1.1.10. Fizetési számlaszám (ha a folyósítást fizetési számlaszámra kéri):
+
+1.1.11. A fizetési számlát vezető pénzintézet neve:
 
 1.2. A kérelmező családi állapota:
 
-1.2.1. ⬜ egyedülálló
+1.2.1. ⬜ egyedülálló,
 
-1.2.2. ⬜ házastársával/élettársával él együtt
+1.2.2. ⬜ házastársával/élettársával él együtt.
 
 1.3. A kérelmező
 
-1.3.1. ⬜ részesül fogyatékossági támogatásban
+1.3.1. ⬜ részesül fogyatékossági támogatásban,
 
-1.3.2. ⬜ nem részesül fogyatékossági támogatásban
+1.3.2. ⬜ nem részesül fogyatékossági támogatásban.
 
-1.4. A kérelmező házastársára/élettársára vonatkozó adatok:
+1.4. A kérelmező idegenrendészeti státusza (nem magyar állampolgárság esetén):
 
-1.4.1. Neve:
+1.4.1. ⬜ szabad mozgás és tartózkodás jogával rendelkező, vagy
 
-1.4.2. Születési neve:
+1.4.2. ⬜ EU kék kártyával rendelkező, vagy
 
-1.4.3. Lakóhely:
+1.4.3. ⬜ bevándorolt/letelepedett, vagy
 
-1.4.4. Tartózkodási hely:
+1.4.4. ⬜ menekült/oltalmazott/hontalan.
 
-1.4.5. Társadalombiztosítási Azonosító Jele:
+1.5. A kérelmezővel azonos lakcímen élő házastársára/élettársára vonatkozó adatok:
 
-1.5. A kérelmező házastársa/élettársa
+1.5.1. Neve:
 
-1.5.1. ⬜ részesül fogyatékossági támogatásban
+1.5.2. Születési neve:
 
-1.5.2. ⬜ nem részesül fogyatékossági támogatásban
+1.5.3. Anyja neve:
 
-1.6. A kérelmezővel együtt élő, eltartott gyermekek száma összesen: .................. fő
+1.5.4. Születési helye, ideje (év, hó, nap):
 
-|  | A | B | C | D |
+1.5.5. Lakóhelye:
 
-| Név | Születés ideje (év, hó, nap) | 18. életévét betöltött személy esetén az oktatási intézmény megnevezése | Megjegyzés* |
+1.5.6. Tartózkodási helye:
 
-| 1.6.1. |  |  |  |  |
+1.5.7. Társadalombiztosítási Azonosító Jele:
 
-| 1.6.2. |  |  |  |  |
+1.6. A kérelmező házastársa/élettársa
 
-| 1.6.3. |  |  |  |  |
+1.6.1. ⬜ részesül fogyatékossági támogatásban,
 
-| 1.6.4. |  |  |  |  |
+1.6.2. ⬜ nem részesül fogyatékossági támogatásban.
 
-| 1.6.5. |  |  |  |  |
+1.7. A kérelmezővel azonos lakcímen élő, eltartott gyermekek száma összesen: .................. fő
 
-| * Ebben az oszlopban kell feltüntetni, |
+1.8. A kérelmezővel azonos lakcímen élő gyermekekre vonatkozó adatok:
 
-| - ha a gyermekre tekintettel gyermekgondozási segélyt, gyermeknevelési támogatást, gyermekgondozási díjat vagy terhességi gyermekágyi segélyt folyósítanak, |
+|  | A | B | C | D | E | F |
 
-| - ha a 20 évesnél fiatalabb gyermek nem jár oktatási intézménybe, de önálló keresettel még nem rendelkezik, vagy |
+| Név (ha eltérő, születési neve is) | Anyja neve | Születés helye, ideje (év, hó, nap) | Társadalom- biztosítási Azonosító Jele | 18. életévét betöltött személy esetén azon oktatási intézmény megnevezése, ahol tanul | Megjegyzés* |
 
-| - életkortól függetlenül a tartós betegség vagy fogyatékosság fennállását, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt. |
+| 1.8.1. |  |  |  |  |  |  |
+
+| 1.8.2. |  |  |  |  |  |  |
+
+| 1.8.3. |  |  |  |  |  |  |
+
+| 1.8.4. |  |  |  |  |  |  |
+
+| 1.8.5. |  |  |  |  |  |  |
+
+## * Ebben az oszlopban kell feltüntetni:
+
+a) ha a gyermekre tekintettel gyermekgondozási segélyt, gyermeknevelési támogatást, gyermekgondozási díjat vagy terhességi gyermekágyi segélyt folyósítanak,
+
+b) ha a 20 évesnél fiatalabb gyermek nem jár oktatási intézménybe, de önálló keresettel még nem rendelkezik, vagy
+
+c) életkortól függetlenül a tartós betegség vagy fogyatékosság fennállását, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
 
 2. Jövedelemi adatok
 
-A kérelmező, valamint házastársának (élettársának) és a vele egy háztartásban élő gyermekeinek a havi jövedelme, forintban:
+A kérelmező, valamint házastársa (élettársa) és a velük egy háztartásban élő gyermekeik havi jövedelme, forintban:
 
 |  | A | B | C | D |
 
@@ -112,13 +132,13 @@ A kérelmező, valamint házastársának (élettársának) és a vele egy házta
 
 3.1.2. jelölje aláhúzással, ha
 
-a) csatolta a Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs szakigazgatási szerv érvényes és hatályos szakvéleményét vagy szakhatósági állásfoglalását, vagy
+a) rendelkezik a Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs szakigazgatási szerv érvényes és hatályos szakvéleményével vagy szakhatósági állásfoglalásával az egészségi állapotról, egészségkárosodásról vagy a megváltozott munkaképességről, és ezt csatolta vagy
 
-b) csatolta a Magyar Államkincstár területileg illetékes Igazgatósága igazolását a vakok személyi járadékának folyósításáról, vagy
+b) vakok személyi járadékában részesül, és csatolta a Magyar Államkincstár területileg illetékes Igazgatóságának igazolását annak folyósításáról, vagy
 
 c) fogyatékossági támogatásban részesül.
 
-3.1.3. Amennyiben Ön a b) pontban foglaltakat nem igazolta, a hivatal által adatszolgáltatási kérelemmel megkereshető (az ellátást folyósító) hatóság megnevezése és címe:
+3.1.3. Amennyiben Ön vakok személyi járadékában részesül, azonban a Magyar Államkincstár Igazgatóságának erre vonatkozó igazolását nem csatolta, kérjük, adja meg az ellátást folyósító hatóság megnevezését és címét:
 
 3.2. Kérjük, hogy
 
@@ -136,17 +156,17 @@ b) a korábban folyósított szociális ellátások megszüntetéséről hozott 
 
 3.2.4. Amennyiben Ön
 
-- a 3.2.2. a) alpontban foglalt igazolást nem csatolta, a hivatal által adatszolgáltatási kérelemmel megkereshető munkaügyi központ megnevezése és címe:
+a) a 3.2.2. pont a) alpontjában foglalt igazolást nem csatolta, kérjük, adja meg annak a munkaügyi központnak a megnevezését és címét, amely Önnek ellátást folyósított, vagy amellyel Ön együttműködött:
 
-- a 3.2.2. b) alpontban foglalt határozatot, igazolást nem csatolta, a hivatal által adatszolgáltatási kérelemmel megkereshető, a korábbi szociális ellátást megszüntető szerv megnevezése és címe:
+b) a 3.2.2. pont b) alpontjában foglalt határozatot, igazolást nem csatolta, kérjük, adja meg a korábbi szociális ellátást megszüntető szerv megnevezését és címét:
 
 4. Nyilatkozatok
 
 4.1. Tudomásul veszem, hogy
 
-4.1.1. a kérelemben közölt jövedelmi adatok valódiságát a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 10. § (7) bekezdése alapján a szociális hatáskört gyakorló szerv – az állami adóhatóság illetékes adóigazgatósága útján – ellenőrizheti,
+4.1.1. a szociális hatáskört gyakorló szerv – az állami adóhatóság útján – ellenőrizheti a kérelemben közölt jövedelmi adatok valódiságát,
 
-4.1.2. a feltüntetett adatokban bekövetkezett változást köteles vagyok 15 napon belül az eljáró hatóságnak bejelenteni.
+4.1.2. köteles vagyok a feltüntetett adatokban bekövetkezett változást 15 napon belül bejelenteni az eljáró hatóságnak.
 
 4.2. Hozzájárulok a kérelemben szereplő adatoknak a szociális igazgatási eljárás során történő felhasználásához.
 
@@ -154,25 +174,27 @@ b) a korábban folyósított szociális ellátások megszüntetéséről hozott 
 
 Felelősségem tudatában kijelentem, hogy
 
-4.3.1.* életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
+4.3.1.* életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó),
 
-4.3.2. keresőtevékenységet nem folytatok,
+4.3.2. a családomban élő közeli hozzátartozóként feltüntetett személyek életvitelszerűen az enyémmel megegyező lakcímen élnek,
 
-4.3.3. gyermekgondozási segélyben, gyermeknevelési támogatásban vagy megváltozott munkaképességű személyek ellátásában nem részesülök,
+4.3.3. keresőtevékenységet nem folytatok,
 
-4.3.4. közoktatási, illetve felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat nem folytatok,
+4.3.4. gyermekgondozási segélyben, gyermeknevelési támogatásban vagy megváltozott munkaképességű személyek ellátásában nem részesülök,
 
-4.3.5. vállalom az elhelyezkedésem érdekében szükséges nyilvántartásba vételt és az állami foglalkoztatási szervvel való együttműködést,
+4.3.5. közoktatási, illetve felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat nem folytatok,
 
-4.3.6. vállalom az együttműködésre kijelölt szervvel való együttműködést,
+4.3.6. vállalom az elhelyezkedésem érdekében szükséges, az állami foglalkoztatási szervnél történő nyilvántartásba vételt és az állami foglalkoztatási szervvel való együttműködést,
 
-4.3.7. a kérelemben közölt adatok a valóságnak megfelelnek.
+4.3.7. vállalom az együttműködésre kijelölt szervvel való együttműködést,
+
+4.3.8. a kérelemben közölt adatok a valóságnak megfelelnek.
 
 4.4. (A kérelmező házastársának/élettársának részéről:)
 
 Felelősségem tudatában kijelentem, hogy
 
-4.4.1.* életvitelszerűen a lakóhelyemen vagy a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
+4.4.1.* életvitelszerűen a lakóhelyemen/a tartózkodási helyemen élek (a megfelelő rész aláhúzandó), és
 
 4.4.2. a kérelemben közölt adatok a valóságnak megfelelnek.
 
@@ -180,13 +202,13 @@ Kelt: ....................................................................., ...
 
 | ..................................................... | ..................................................... |
 
-| kérelmező | nagykorú hozzátartozók aláírása |
+| kérelmező aláírása | nagykorú hozzátartozók aláírása |
 
 | * Ezt a nyilatkozatot csak abban az esetben kell megtenni, ha egyidejűleg bejelentett lakó- és tartózkodási hellyel is rendelkezik. |
 
 5. TÁJÉKOZTATÓ A KÉRELEM KITÖLTÉSÉHEZ
 
-Kérjük, hogy a nyomtatványon szíveskedjen a megfelelő választ X-szel jelölni, illetve a hiányzó adatokat kitölteni.
+Kérjük, hogy szíveskedjen a megfelelő választ X-szel jelölni, és a hiányzó adatokat kitölteni.
 
 5.1. A személyi adatok kitöltéséhez:
 
@@ -194,13 +216,13 @@ Kérjük, hogy a nyomtatványon szíveskedjen a megfelelő választ X-szel jelö
 
 5.1.2. „Közös háztartásban élő eltartott gyermeknek” számít:
 
-- a húszévesnél fiatalabb, önálló keresettel nem rendelkező gyermek,
+a) a húszévesnél fiatalabb, önálló keresettel nem rendelkező gyermek,
 
-- a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató gyermek,
+b) a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, nappali oktatás munkarendje szerint tanulmányokat folytató gyermek,
 
-- a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermek,
+c) a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermek,
 
-- korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
+d) korhatárra való tekintet nélkül a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek, amennyiben ez az állapot a gyermek 25. életévének betöltését megelőzően is fennállt.
 
 5.1.3. A tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi vagy beszédfogyatékos vér szerinti, örökbe fogadott, illetve nevelt gyermek egészségi állapotára vonatkozó igazolásokat – a magasabb összegű családi pótlékra, illetve a fogyatékossági támogatásra vonatkozó irat kivételével – a kérelemhez csatolni kell.
 
@@ -216,7 +238,7 @@ Kérjük, hogy a nyomtatványon szíveskedjen a megfelelő választ X-szel jelö
 
 5.2.3. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel vagy a bevétel 85%-ának, illetve állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-5.2.4. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+5.2.4. Nem minősül jövedelemnek, így nem kell feltüntetni a jövedelmek között az önkormányzati segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
 
 5.2.5. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
@@ -250,7 +272,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 5.3.1. Egészségkárosodott az a személy, aki
 
-a) munkaképességét legalább 67%-ban elvesztette, illetve egészségkárosodásának mértéke legalább 50%-os, vagy
+a) munkaképességét legalább 67%-ban elvesztette, vagy egészségkárosodásának mértéke legalább 50%-os, vagy egészségi állapota nem haladja meg az 50 %-os mértéket, vagy
 
 b) vakok személyi járadékában részesül, vagy
 
@@ -258,21 +280,21 @@ c) fogyatékossági támogatásban részesül.
 
 5.3.2. A kérelemhez
 
-5.3.2.1. az 5.3.1. a) alpontban meghatározott esetben mellékelni kell a Nemzeti Rehabilitációs és Szociális Hivatalnak vagy a rehabilitációs szakigazgatási szervnek a munkaképesség legalább 67%-os mértékű csökkenéséről, illetve a legalább 50%-os mértékű egészségkárosodásról készült érvényes és hatályos szakvéleményét, előzetes szakhatósági állásfoglalását vagy szakhatósági állásfoglalását;
+5.3.2.1. az 5.3.1. pont a) alpontjában meghatározott esetben mellékelni kell a Nemzeti Rehabilitációs és Szociális Hivatalnak vagy a rehabilitációs szakigazgatási szervnek a munkaképesség legalább 67%-os mértékű csökkenéséről, illetve a legalább 50%-os mértékű egészségkárosodásról készült érvényes és hatályos szakvéleményét, előzetes szakhatósági állásfoglalását vagy szakhatósági állásfoglalását;
 
-5.3.2.2. az 5.3.1. b) alpontban meghatározott esetben pedig
+5.3.2.2. az 5.3.1. pont b) alpontjában meghatározott esetben
 
-– vagy mellékelni kell a Magyar Államkincstár illetékes területi szervének igazolását arról, hogy a vak személy vakok személyi járadékában részesül,
+a) mellékelni kell a Magyar Államkincstár illetékes területi szervének igazolását arról, hogy a vak személy vakok személyi járadékában részesül, vagy
 
-– vagy meg kell adni a folyósító szerv nevét és címét.
+b) meg kell adni a folyósító szerv nevét és címét.
 
 5.3.3. Állástalan az a személy:
 
 a) akinek a munkanélküli járadék, álláskeresési járadék, álláskeresési segély, vállalkozói járadék (a továbbiakban együtt: álláskeresési támogatás) folyósítási időtartama lejárt, és álláskeresést ösztönző juttatásban, képzési támogatásként keresetpótló juttatásban, illetve felzárkózást elősegítő megélhetési támogatásban nem részesül, vagy
 
-b) akinek az álláskeresési támogatás folyósítását keresőtevékenység folytatása miatt a folyósítási időtartam lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az álláskeresési támogatásra nem szerez jogosultságot, vagy
+b) akinek álláskeresési támogatását keresőtevékenység folytatása miatt a folyósítási időtartam lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az álláskeresési támogatásra nem szerzett jogosultságot, vagy
 
-c) aki az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőző két évben a munkaügyi központtal, annak kirendeltségével, illetve a rehabilitációs hatósággal legalább egy év időtartamban együttműködött, vagy
+c) aki az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőző két évben a munkaügyi központtal, illetve a rehabilitációs hatósággal legalább egy év időtartamban együttműködött, vagy
 
 d) akinek az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, rokkantsági ellátás, rehabilitációs ellátás, a rehabilitációs járadék, az ideiglenes özvegyi nyugdíj, továbbá az árvaellátás megszűnése miatt az özvegyi nyugdíj folyósítását megszüntették, és közvetlenül a kérelem benyújtását megelőzően a munkaügyi központtal, annak kirendeltségével, illetve a rehabilitációs hatósággal legalább három hónapig együttműködött, vagy
 
@@ -280,16 +302,16 @@ e) akinek az aktív korúak ellátására való jogosultság iránti kérelem be
 
 5.3.4. A kérelemhez vagy mellékelni kell az alábbi igazolások valamelyikét, vagy meg kell adni azon szerv nevét és címét, ahonnan az irat beszerezhető, így:
 
-- az 5.3.3. a) alpontban meghatározott esetben: a munkaügyi központnak az igazolása a munkanélküli járadék, az álláskeresési járadék, álláskeresési segély folyósítása időtartamának lejártáról, valamint arról, hogy a nem foglalkoztatott személy álláskeresést ösztönző juttatásban nem részesül;
+a) az 5.3.3. pont a) alpontjában meghatározott esetben: a munkaügyi központnak az igazolása a munkanélküli járadék, az álláskeresési járadék, álláskeresési segély folyósítása időtartamának lejártáról, valamint arról, hogy a nem foglalkoztatott személy álláskeresést ösztönző juttatásban nem részesül;
 
-- az 5.3.3. b) alpontban meghatározott esetben: a munkaügyi központ igazolása arról, hogy az álláskeresési támogatásra való jogosultsága nem áll fenn, továbbá a munkaviszonyban töltött azon napjainak számáról, amelyeket az álláskeresési támogatás megállapításánál figyelembe kell venni;
+b) az 5.3.3. pont b) alpontjában meghatározott esetben: a munkaügyi központ igazolása arról, hogy az álláskeresési támogatásra való jogosultsága nem áll fenn, továbbá a munkaviszonyban töltött azon napjainak számáról, amelyeket az álláskeresési támogatás megállapításánál figyelembe kell venni;
 
-- az 5.3.3. c) és d) alpontban meghatározott esetben: a munkaügyi központ, illetve a rehabilitációs hatóság igazolása a megelőző együttműködés teljesítéséről;
+c) az 5.3.3. pont c) és d) alpontjában meghatározott esetben: a munkaügyi központ, illetve a rehabilitációs hatóság igazolása a megelőző együttműködés teljesítéséről;
 
-- az 5.3.3. d) és e) alpontban meghatározott esetben: a korábban megállapított szociális ellátások megszüntetéséről szóló határozat vagy a folyósító szerv igazolása, ha a korábbi ellátásokat nem a kérelmező jelenlegi lakcíme szerint illetékes települési önkormányzat folyósította.
+d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban megállapított szociális ellátások megszüntetéséről szóló határozat vagy a folyósító szerv igazolása, ha a korábbi ellátásokat nem a kérelmező jelenlegi lakcíme szerint illetékes települési önkormányzat folyósította.
 
 5.3.5. Amennyiben az igénylő 14. életévét be nem töltött, iskolában tanuló gyermekének a napközbeni ellátása nem biztosított, az intézmény erre vonatkozó igazolását is csatolni kell.
 
 5.3.6. A kérelmet a kérelmezőn túlmenően a házastársának (élettársának) és a nagykorú gyermekeknek is alá kell írniuk. Ha az ellátást kérő vagy annak közeli hozzátartozója nem cselekvőképes, helyette a törvényes képviselője jogosult az aláírásra.
 
-[^224]: A 3. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdés b) pontjával megállapított, ugyanezen § (3) bekezdés c) pontja szerint módosított szöveg.
+[^227]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított szöveg.

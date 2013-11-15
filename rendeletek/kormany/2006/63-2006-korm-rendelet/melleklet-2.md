@@ -1,3 +1,3 @@
-2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^222]
+2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^225]
 
-[^222]: A 2. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 22. § (1) bekezdés a) pontjával megállapított, ugyanezen § (3) bekezdés a) pontja szerint módosított szöveg.
+[^225]: A 2. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § a) pontjával megállapított szöveg.
