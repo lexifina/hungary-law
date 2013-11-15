@@ -34,12 +34,8 @@
 
 ## Határidő: folyamatos
 
-## 13. A 2014–2020 közötti források területi koordinációjának kereteiről szóló 1115/2013. (III. 8.) Korm. határozat 1. pont a) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány egyetért azzal, hogy)
-
-## „a) a fejlesztések integrációjának és a térségi programoknak a szintjei és beavatkozási egységei a megyék, a megyei jogú városok, a helyi közösségek és települések együttműködésén alapuló várostérségek és megyei jogú városok térségei, valamint az egyes országos szempontból kiemelten kezelendő speciális, funkcionális térségek legyenek,”
-
-## 14. A Kormány visszavonja a 2014–2020 közötti időszakra a Terület- és Településfejlesztési Operatív Program tervezésének egyes szempontjairól és az operatív programhoz tartozó megyék megyei önkormányzatai tervezési jogkörébe utalt források megoszlásáról szóló 1495/2013. (VII. 29.) Korm. határozatot.
+## 13–14.[^2]
 
 1. melléklet az 1831/2013. (XI. 14.) Korm. határozathoz
+
+[^2]: A 13–14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

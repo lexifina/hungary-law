@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1831-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-11-14 | 2013-1831-30-22.1 | 1831/2013. (XI. 14.) Korm. határozat |
+| 2013-11-15 | 2013-1831-30-22.2 | 1298/2014. (V. 5.) Korm. határozat |
