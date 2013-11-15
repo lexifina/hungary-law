@@ -52,7 +52,9 @@ x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását
 
 y) a Biztos Kezdet Gyerekház támogatása igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályait,
 
-z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait.
+z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait,
+
+zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait, valamint a pénzbeli és természetbeni szociális és gyermekvédelmi ellátások országos nyilvántartását vezető szerv kijelölését.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 

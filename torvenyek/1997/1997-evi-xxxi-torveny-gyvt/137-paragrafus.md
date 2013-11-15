@@ -6,4 +6,6 @@
 
 (3) A Kormány által kijelölt szerv – külön jogszabályban meghatározottak szerint – országos nyilvántartást vezet a szolgáltató tevékenységet végző szolgáltatókról, intézményekről, helyettes szülői és nevelőszülői hálózatokról. A nyilvántartás adattartalma nyilvános.
 
+(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, valamint a rendszeres gyermekvédelmi kedvezményre jogosult személyről és gondozó családjáról.
+
 (4) A nyilvántartás eszköze lehet minden olyan adattároló eszköz vagy módszer, amely biztosítja a 134. § (3) bekezdése szerinti védelmet.
