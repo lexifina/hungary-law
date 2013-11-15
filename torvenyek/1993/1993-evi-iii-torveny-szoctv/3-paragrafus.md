@@ -22,7 +22,25 @@ amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatároz
 
 (5) E törvény meghatározza a pénzbeli, a természetben nyújtott és a személyes gondoskodást nyújtó szociális ellátások egyes formáit, a jogosultság feltételeit, annak megállapítását, a szociális ellátás finanszírozásának elveit és intézményrendszerét, a szociális ellátást nyújtó szervezet és a jogosult közötti jogviszony főbb elemeit, továbbá a fenntartónak a szolgáltatóval, illetve intézménnyel kapcsolatos feladat- és jogkörét, valamint a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi tevékenységet végző személy adatainak működési nyilvántartására vonatkozó szabályokat.
 
-(6) E törvény hatálya nem terjed ki a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mny.), a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Eb.), a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.), a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.), a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), valamint a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálya alá tartozó ellátásokra.
+(6) E törvény hatálya nem terjed ki
+
+a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.),
+
+b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.),
+
+c) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mny.),
+
+d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Eb.),
+
+e) a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.),
+
+f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.),
+
+g) a rendszeres gyermekvédelmi kedvezményre jogosultakról a 18/B. § alapján vezetett országos nyilvántartás vezetésével összefüggő rendelkezések kivételével a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), és
+
+h) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
+
+hatálya alá tartozó ellátásokra.
 
 (7) A hadigondozottaknak, a hadkötelezettség alapján katonai vagy polgári szolgálatot teljesítőknek és hozzátartozóiknak járó különleges pénzbeli ellátásokról, a nemzeti gondozásról, valamint a foglalkozási rehabilitáció keretében nyújtott ellátásokról külön törvény rendelkezik.
 

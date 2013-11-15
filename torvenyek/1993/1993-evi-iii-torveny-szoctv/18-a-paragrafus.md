@@ -1,19 +1,37 @@
 18/A. § A járási hivatal a feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
-a) a jogosult természetes személyazonosító adatait;
+a) a jogosult és az adott ellátás megállapítása során e törvény rendelkezései alapján figyelembe vett más személy
 
-b) a jogosult állampolgárságát, illetőleg bevándorolt, letelepedett vagy menekült jogállását;
+aa) természetes személyazonosító adatait,
 
-c) a jogosult belföldi lakó-, illetőleg tartózkodási helyét;
+ab) belföldi lakó- vagy tartózkodási helyét,
 
-d) a jogosult tartására köteles személy természetes személyazonosító adatait;
+ac) Társadalombiztosítási Azonosító Jelét;
 
-e) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
+b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
 
-f) a szociális ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
+c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 
-g) a jogosultság megállapításához szükséges jövedelmi adatokat;
+d) a szociális ellátás
 
-h) a jogosult Társadalombiztosítási Azonosító Jelét;
+da) megnevezését,
 
-i) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot.
+db) jogcímét,
+
+dc) összegét,
+
+dd) megállapítására, megváltoztatására, megszűnésére vagy megszüntetésére vonatkozó adatokat,
+
+de) megszűnésének vagy megszüntetésének jogcímét;
+
+e) a szociális ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját;
+
+f) a szociális ellátás megállapításánál figyelembe vett, egy főre jutó jövedelem összegét;
+
+g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
+
+h) az ápolási díjra jogosult személy adóazonosító jelét;
+
+i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajléktalan személyekre vonatkozó szabályok szerint történik;
+
+j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét.
