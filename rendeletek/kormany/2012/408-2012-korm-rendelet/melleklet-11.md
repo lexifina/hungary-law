@@ -66,7 +66,7 @@
 
 | Összesen | 0 | 0 | 0,0 | 0,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-11. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^21]
+11. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^25]
 
 Nyilatkozat és Változás bejelentés a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló
 
@@ -270,4 +270,4 @@ szerepeltetendő a nyilatkozatban. Az elvárt béremelés teljesítése esetén 
 
 „Nem” válasz esetén, tehát amennyiben a foglalkoztatott munkabérének emelésére az elvárt béremelés szerint nem került sor a 2012. év folyamán, akkor a minimálbér, illetve garantált bérminimum elérése érdekében, 2012. január 1-jén végrehajtott kötelező személyi alapbéremelés összegéről – az 1. ponthoz tartozó kitöltési útmutatás értelemszerű alkalmazásával – kell nyilatkozni.
 
-[^21]: A 11. mellékletet a 187/2013. (VI. 7.) Korm. rendelet 8. §-a iktatta be.
+[^25]: A 11. mellékletet a 187/2013. (VI. 7.) Korm. rendelet 8. §-a iktatta be.

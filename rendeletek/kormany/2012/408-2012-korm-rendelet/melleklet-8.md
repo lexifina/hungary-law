@@ -40,6 +40,6 @@
 
 | 3 | A helyi önkormányzat a 6. § (4) bekezdés szerint soron kívül továbbítja január hónapban a 6. oszlop szerinti, a további hónapokban az 5. oszlop szerinti összeget. |
 
-8. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^18]
+8. melléklet a 408/2012. (XII. 28.) Korm. rendelethez[^22]
 
-[^18]: A 8. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § d) pontja szerint módosított szöveg.
+[^22]: A 8. melléklet a 297/2013. (VII. 29.) Korm. rendelet 89. § d) pontja szerint módosított szöveg.
