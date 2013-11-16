@@ -1,3 +1,3 @@
-## 11. §[^3]
+## 11. §[^4]
 
-[^3]: A 11. § a 7. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
+[^4]: A 11. § a 7. § (3) bekezdése alapján 2014. július 1-jén lép hatályba.
