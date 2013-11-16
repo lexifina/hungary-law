@@ -34,9 +34,9 @@ c) a hatósági szerződés megkötése az ügy összes körülményére, így k
 
 (7b)[^27] A hatósági szerződés a (7a) bekezdésben foglalt feltételek fennállása esetén is csak abban az esetben köthető meg, ha a hatósági szerződésben az ügyfél kötelezettséget vállal az általa az árverési vagy pályázati eljárásban elnyert frekvenciablokkra vonatkozó, árverési vagy pályázati kiírási dokumentációban foglalt valamennyi olyan feltétel és előírás teljesítésére, amelytől a (7a) bekezdés b) pontja alapján az eltérés nem lehetséges.
 
-(7c)[^28] A Hatóság a hatósági szerződés megkötésére irányuló eljárást a (7a) bekezdésben foglalt feltételek fennállása esetén – mérlegelése szerint – hivatalból indítja meg. Az eljárás határideje 45 nap, amely nem hosszabbítható meg.
+(7c)[^28] A Hatóság a hatósági szerződés megkötésére irányuló eljárást a (7a) bekezdésben foglalt feltételek fennállása esetén – mérlegelése szerint – hivatalból indítja meg. Az eljárás határideje negyvenöt nap, amely nem hosszabbítható meg.
 
-(7d)[^29] Amennyiben a (7c) bekezdésben foglalt határidőn belül a hatósági szerződés megkötésére nem kerül sor – ide értve azt az esetet is, ha az ügyfél a (7b) bekezdésben foglaltak teljesítésére a hatósági szerződésben nem vállal kötelezettséget – akkor a Hatóság az eljárást a 45. napon megszünteti. Az eljárásban igazolási kérelem előterjesztésének nincs helye.
+(7d)[^29] Amennyiben a (7c) bekezdésben foglalt határidőn belül a hatósági szerződés megkötésére nem kerül sor – ide értve azt az esetet is, ha az ügyfél a (7b) bekezdésben foglaltak teljesítésére a hatósági szerződésben nem vállal kötelezettséget – akkor a Hatóság az eljárást a negyvenötödik napon megszünteti. Az eljárásban igazolási kérelem előterjesztésének nincs helye.
 
 (8)[^30]
 
@@ -52,7 +52,7 @@ b) több részletben történő fizetés esetén – amennyiben a nyertes részt
 [^25]: A 21. § (7) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
 [^26]: A 21. § (7a) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 1. § (8) bekezdése iktatta be.
 [^27]: A 21. § (7b) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 1. § (8) bekezdése iktatta be.
-[^28]: A 21. § (7c) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 1. § (8) bekezdése iktatta be.
-[^29]: A 21. § (7d) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 1. § (8) bekezdése iktatta be.
+[^28]: A 21. § (7c) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 1. § (8) bekezdése iktatta be, szövege a 20/2013. (XI. 15.) NMHH rendelet 1. §-a szerint módosított szöveg.
+[^29]: A 21. § (7d) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 1. § (8) bekezdése iktatta be, szövege a 20/2013. (XI. 15.) NMHH rendelet 1. §-a szerint módosított szöveg.
 [^30]: A 21. § (8) bekezdését a 9/2013. (IX. 19.) NMHH rendelet 3. § (2) bekezdése hatályon kívül helyezte.
 [^31]: A 21. § (10) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.

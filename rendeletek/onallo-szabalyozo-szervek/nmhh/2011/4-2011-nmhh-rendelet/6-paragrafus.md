@@ -1,6 +1,6 @@
 6. § (1) A Hatóság jogosult a hirdetményt és a kiírási dokumentációt az objektív, átlátható és hátrányos megkülönböztetéstől mentes eljárás elveit figyelembe véve módosítani.
 
-(2)[^14] A hirdetmény és a kiírási dokumentáció a jelentkezésre meghatározott határidőt megelőző tizenkettedik napig módosítható.
+(2)[^14] A hirdetmény és a kiírási dokumentáció a jelentkezésre meghatározott határidőt megelőző nyolcadik napig módosítható.
 
 (3) A hirdetmény módosítását a hirdetmény közzétételére irányadó szabályok szerint kell nyilvánosságra hozni.
 
@@ -8,4 +8,4 @@
 
 (5) A hirdetmény és a kiírási dokumentáció módosítása annak közzétételével lép hatályba.
 
-[^14]: A 6. § (2) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^14]: A 6. § (2) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 2. §-a, a 20/2013. (XI. 15.) NMHH rendelet 1. §-a szerint módosított szöveg.

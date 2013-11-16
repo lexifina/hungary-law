@@ -36,6 +36,8 @@ d) a kiírási dokumentációban meghatározott tartalmi követelményeknek nem 
 
 (10) A pályázati ajánlatokat a kiírási dokumentációban meghatározottaktól eltérően értékelni nem lehet.
 
-(11) A pályázati eljárást lezáró döntést a hirdetmény közzétételét követő 60. és 150. nap között kell meghoznia a Hatóságnak.
+(11)[^36] A pályázati eljárást lezáró döntést a hirdetmény közzétételét követő negyvenötödik és százötvenedik nap között kell meghoznia a Hatóságnak.
 
 (12) A (11) bekezdés szerinti határidőt a Hatóság egy alkalommal legfeljebb harminc nappal meghosszabbíthatja.
+
+[^36]: A 27. § (11) bekezdése a 20/2013. (XI. 15.) NMHH rendelet 1. §-a szerint módosított szöveg.
