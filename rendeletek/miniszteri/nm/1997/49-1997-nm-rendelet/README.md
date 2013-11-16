@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-49-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2006-08-26 | 1997-49-20-3D.6 | 49/1997. (XII. 17.) NM rendelet |
+| 2013-11-16 | 1997-49-20-3D.7 | 68/2013. (XI. 15.) EMMI rendelet |
