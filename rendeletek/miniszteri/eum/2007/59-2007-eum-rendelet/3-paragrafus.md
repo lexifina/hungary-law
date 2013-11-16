@@ -2,7 +2,7 @@
 
 3. § (1)[^11] A támogatás odaítéléséről – az egészségügyi ellátás indokoltsága és a beteg egészségi állapota alapján – a miniszter irányítása alatt működő Értékelő Bizottság dönt.
 
-(2)[^12] A támogatásról szóló döntést az Értékelő Bizottság a kérelem beérkezésétől számított 60 napon belül hozza meg. A kérelem nem utasítható el formai hiányosságok miatt, ide nem értve az egészségügyi dokumentáció hiányosságát. Amennyiben az egészségügyi dokumentáció hiányos, az Értékelő Bizottság a kérelem beérkezésétől számított 10 napon belül hiánypótlásra szólítja fel a kérelmezőt azzal, hogy a hiánypótlás ideje az eljárási határidőbe nem számít be. Amennyiben a kérelmező a hiánypótlási felhívásban meghatározott határidőn belül nem pótolja a hiányosságot, az Értékelő Bizottság a kérelmet elutasítja.
+(2)[^12] A támogatásról szóló döntést az Értékelő Bizottság a kérelem beérkezésétől számított 60 napon belül hozza meg. Ha az egészségügyi dokumentáció hiányos, az Értékelő Bizottság a kérelem beérkezésétől számított 10 napon belül hiánypótlásra szólítja fel a kérelmezőt, azzal, hogy a hiánypótlás ideje az eljárási határidőbe nem számít be. Ha a kérelmező a hiánypótlási felhívásban meghatározott határidőn belül nem pótolja a hiányosságot, az Értékelő Bizottság elutasítja a kérelmet.
 
 (3)[^13] Az Értékelő Bizottság – a (4) és (4a) bekezdésben meghatározott kivétellel – csak a 2. számú mellékletben felsorolt magyarországi egészségügyi ellátások igénybevételéhez nyújthat támogatást, amennyiben azok a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) alapján az Egészségbiztosítási Alap terhére igénybe vehetőek az Ebtv. szerinti biztosítottak által.
 
@@ -52,14 +52,16 @@ a)[^20] a betegnek és meghatalmazottjának,
 
 b)[^21] a kérelmet felterjesztő koordináló szervnek, és
 
-c) az OEP-nek.
+c) az OEP-nek,
 
-(9)[^22] Az Értékelő Bizottság a döntést követően haladéktalanul tájékoztatja a beteget, illetve meghatalmazottját a (7) bekezdésben foglaltakon túl az ellátás várható költségeiről, valamint arról, hogy a támogatást meghaladó összegű térítési díj fennmaradó részét a beteg köteles viselni.
+d)[^22] a támogatott ellátást végző egészségügyi szolgáltatónak.
 
-(10)[^23] A támogatott egészségügyi ellátás a (8) és a (9) bekezdés szerinti tájékoztatást követően vehető igénybe, erről a koordináló szerv a kérelem benyújtását követően haladéktalanul tájékoztatja a kérelmezőt.
+(9)[^23] Az Értékelő Bizottság a döntést követően haladéktalanul tájékoztatja a beteget, illetve meghatalmazottját a (7) bekezdésben foglaltakon túl az ellátás várható költségeiről, valamint arról, hogy a támogatást meghaladó összegű térítési díj fennmaradó részét a beteg köteles viselni.
+
+(10)[^24] A támogatott egészségügyi ellátás a (8) és a (9) bekezdés szerinti tájékoztatást követően vehető igénybe, erről a koordináló szerv a kérelem benyújtását követően haladéktalanul tájékoztatja a kérelmezőt.
 
 [^11]: A 3. § (1) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 9. § b) és c) pontja, a 10. § a) pontja szerint módosított szöveg.
-[^12]: A 3. § (2) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (2) bekezdése a 68/2013. (XI. 15.) EMMI rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § (3) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^14]: A 3. § (4) bekezdés c) pontját a 9/2012. (VII. 13.) EMMI rendelet 3. § (2) bekezdése iktatta be.
 [^15]: A 3. § (4a) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 3. § (3) bekezdése iktatta be.
@@ -69,5 +71,6 @@ c) az OEP-nek.
 [^19]: A 3. § (6) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 10. § b) pontja hatályon kívül helyezte.
 [^20]: A 3. § (8) bekezdés a) pontja a 9/2012. (VII. 13.) EMMI rendelet 9. § d) pontja szerint módosított szöveg.
 [^21]: A 3. § (8) bekezdés b) pontja a 9/2012. (VII. 13.) EMMI rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^22]: A 3. § (9) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 9. § e) és f) pontja szerint módosított szöveg.
-[^23]: A 3. § (10) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 3. § (5) bekezdése iktatta be.
+[^22]: A 3. § (8) bekezdés d) pontját a 68/2013. (XI. 15.) EMMI rendelet 21. § (2) bekezdése iktatta be.
+[^23]: A 3. § (9) bekezdése a 9/2012. (VII. 13.) EMMI rendelet 9. § e) és f) pontja szerint módosított szöveg.
+[^24]: A 3. § (10) bekezdését a 9/2012. (VII. 13.) EMMI rendelet 3. § (5) bekezdése iktatta be.
