@@ -1,0 +1,1 @@
+## 4. § Az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló 30/1998. (VI. 24.) NM rendelet (a továbbiakban: Err.) 1., 2., 4., 5. és 6. számú melléklete a 2. melléklet szerint módosul.
