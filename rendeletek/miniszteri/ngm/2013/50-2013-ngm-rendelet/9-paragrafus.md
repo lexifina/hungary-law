@@ -1,0 +1,1 @@
+## 8. § E rendelet alkalmazásában pénztárgép program: a pénztárgépben működő azon szoftverelemek összessége, melyek az adóügyi ellenőrző egység kiszolgálását, a pénztárgép működtetésének biztosítását, valamint a bizonylatok összeállítását ellátja, továbbá a külső számítógépes kapcsolat esetén az azzal való kommunikációban részt vesz.

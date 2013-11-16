@@ -1,0 +1,1 @@
+## 5. § A pénztárgép forgalmazását a Rendelet 4. § (1) bekezdése szerinti engedélyező hatóság (a továbbiakban: engedélyező hatóság) – a Rendelet 5. §-ában meghatározott feltételeken túl – abban az esetben engedélyezi, ha a pénztárgéppel rögzített és tárolt bizonylatok megfelelnek az Art. 44. § (1) bekezdésében foglalt követelményeknek.
