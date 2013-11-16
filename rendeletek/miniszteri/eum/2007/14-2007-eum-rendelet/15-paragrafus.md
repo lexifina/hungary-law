@@ -1,3 +1,5 @@
+## kell alkalmazni.
+
 15. § (1) A támogatással rendelt, egyedi méretvétel alapján készült gyógyászati segédeszköz alkalmasságát a beteg véleményezteti az azt rendelő orvossal. Amennyiben az orvos a gyógyászati segédeszközt nem tartja megfelelőnek, erről értesíti a gyártót vagy annak meghatalmazott képviselőjét és az OEP-et.
 
 (2)[^148] A forgalmazó, illetve a gyártó vagy annak meghatalmazott képviselője a Gtv. 33. § (6) bekezdése szerinti közleményben meghatározott sorozatgyártású, illetve adaptív gyógyászati segédeszközt termékazonosító EAN kóddal köteles ellátni.

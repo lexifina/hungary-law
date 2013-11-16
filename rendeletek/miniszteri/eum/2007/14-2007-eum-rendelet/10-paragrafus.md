@@ -22,8 +22,6 @@ c) 79. §-ának (1) bekezdésében foglaltakat a díj visszatérítése tekintet
 
 d) 86. §-ában foglaltakat az elévülés tekintetében
 
-értelemszerűen kell a fentiek figyelembevételével alkalmazni.
-
 [^87]: A 10. § (1) bekezdés második mondatát a 38/2009. (XI. 6.) EüM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
 [^88]: A 10. § (2) bekezdés a) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 10. pontja szerint módosított szöveg.
 [^89]: A 10. § (2) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 11. pontja szerint módosított szöveg.
