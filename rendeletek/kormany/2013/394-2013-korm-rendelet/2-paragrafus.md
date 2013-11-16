@@ -1,1 +1,0 @@
-## „(4) A (2a) bekezdés szerinti visszamenőleges béremelésre jogosult foglalkoztatottakról a visszamenőleges béremelés biztosításához szükséges adatokat az (1) bekezdés szerinti munkáltató 2013. november 15-éig küldi meg a GYEMSZI részére.”
