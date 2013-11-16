@@ -1,6 +1,6 @@
 2. § (1) E rendelet alkalmazásában rendkívüli esemény
 
-a) az intézmény épületét, berendezését, felszerelését érintő káresemény, így különösen:
+a)[^2] az intézmény épületét, berendezését, felszerelését érintő káresemény, így különösen:
 
 aa) a tűzeset, robbanás,
 
@@ -10,7 +10,7 @@ ac) az árvízkár, belvízkár,
 
 ad) egyéb természeti csapás okozta kár (például: viharkár),
 
-feltéve, hogy a kár összege valószínűsíthetően eléri a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 138/A. §-ának c) pontjában meghatározott jelentős kár összegét;
+feltéve, hogy a kár összege valószínűsíthetően eléri a Büntető Törvénykönyv (a továbbiakban: Btk.) szerinti jelentős kár összegét;
 
 b) az egészségügyi szolgáltatást jelentősen vagy tartósan veszélyeztető
 
@@ -22,7 +22,7 @@ c) az egészségügyi dolgozók sztrájkja;
 
 d) az intézmény területén történt
 
-da) terrorcselekmény (Btk. 261. §),
+da)[^3] terrorcselekmény,
 
 db) bombariadó,
 
@@ -36,7 +36,7 @@ df) a katasztrófavédelem (tűzoltóság, polgári védelem) beavatkozását ig
 
 dg) kábítószert vagy pszichotrop anyagot tartalmazó gyógyszer vagy alapanyag eltulajdonítása, eltűnése,
 
-dh) rendőri intézkedést igénylő csoportos garázdaság (Btk. 271. §);
+dh)[^4] rendőri intézkedést igénylő csoportos garázdaság;
 
 e) természeti csapás, illetve veszélyhelyzet miatt történő kimenekítés, kitelepítés;
 
@@ -54,6 +54,11 @@ c) mentőjármű súlyos személyi sérüléssel vagy halálesettel járó bales
 
 d) légi mentőjárműben keletkezett minden káresemény;
 
-e) mentőgépkocsiban keletkezett – a Btk. 138/A. §-ának c) pontjában meghatározott – jelentősnek minősülő kár;
+e)[^5] mentőgépkocsiban keletkezett – a Btk. szerinti – jelentősnek minősülő kár;
 
 f) mentőjármű, illetve mentőjármű okmányainak eltulajdonítása.
+
+[^2]: A 2. § (1) bekezdés a) pont záró szövegrésze a 68/2013. (XI. 15.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés d) pont da) alpontja a 68/2013. (XI. 15.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés d) pont dh) alpontja a 68/2013. (XI. 15.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdés e) pontja a 68/2013. (XI. 15.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
