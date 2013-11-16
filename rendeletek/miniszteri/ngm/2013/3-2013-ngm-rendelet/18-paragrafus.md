@@ -1,1 +1,0 @@
-## 17. § A forgalmazó törvényes képviselője a típusvizsgálaton történő részvételre más személynek meghatalmazást adhat. A meghatalmazás eredeti példányát legkésőbb a típusvizsgálat megkezdése előtt az engedélyező hatóság részére be kell nyújtani.

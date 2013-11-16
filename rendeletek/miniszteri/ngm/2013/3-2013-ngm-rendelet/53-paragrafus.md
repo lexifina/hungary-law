@@ -1,1 +1,0 @@
-## köteles a pénztárgépnaplóba bejegyezni.

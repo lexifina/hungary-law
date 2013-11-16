@@ -1,1 +1,0 @@
-## 49. § Az üzemeltető köteles biztosítani, hogy az adóügyi ellenőrző egység és a Nemzeti Adó- és Vámhivatal szervere közötti, e rendelet szerinti elektronikus hírközlő hálózat útján történő adatkapcsolatot az üzemeltető által befolyásolható külső körülmény ne zavarja, ne gátolja, illetve köteles az ilyen körülményt haladéktalanul megszüntetni.
