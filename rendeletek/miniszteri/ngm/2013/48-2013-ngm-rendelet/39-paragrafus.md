@@ -1,0 +1,3 @@
+39. § (1) A szerviz az általa (műszerésze által) végzett szervizelési tevékenységről – kivéve az adóügyi ellenőrző egység cseréjével nem járó javítást – 5 napon belül, továbbá azokról az eseményekről, körülményekről, amelyekről e rendelet szerint jegyzőkönyvet kell felvennie 3 napon belül az erre rendszeresített nyomtatványon adatot szolgáltat az állami adóhatóság felé.
+
+(2) A szerviz az általa felvett jegyzőkönyvek egy példányát az üzemeltető (képviselője, alkalmazottja, meghatalmazottja, üzemeltető részéről jelenlévő más személy) részére átadja. Az üzemeltető a jegyzőkönyveket 5 évig köteles megőrizni.

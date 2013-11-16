@@ -1,0 +1,1 @@
+## 76. § Az állami adóhatóság által a számla, egyszerűsített számla és nyugta adóigazgatási azonosításáról, valamint a nyugta adását biztosító pénztárgép és taxaméter alkalmazásáról szóló 24/1995. (XI. 22.) PM rendelet 3. § (2) bekezdése alapján, pénztárgép kötelező alkalmazása alól adott, 2013. március 19-én érvényben lévő felmentések 2014. december 31-ig érvényben maradnak.

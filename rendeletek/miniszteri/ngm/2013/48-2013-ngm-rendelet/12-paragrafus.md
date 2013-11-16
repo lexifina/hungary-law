@@ -1,0 +1,1 @@
+## 11. § A típusvizsgálat azon részének időpontjáról, amely a forgalmazó vagy meghatalmazottja részvételével zajlik, az engedélyező hatóság a forgalmazót rövid úton (telefonon, faxon, stb.) értesíti. Az eszközt a típusvizsgálatra az engedélyező hatóság által megjelölt időpontban és helyszínre kell szállítani.

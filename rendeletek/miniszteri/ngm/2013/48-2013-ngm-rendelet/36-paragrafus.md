@@ -1,0 +1,1 @@
+## 35. § A műszerészi igazolványra vonatkozó rendelkezéseket – a 32. § és a 34. § (1) bekezdés a)–c) és i) pontja kivételével – a plombanyomóra is megfelelően alkalmazni kell azzal, hogy ahol a rendelkezés műszerészi igazolványt említ, azon plombanyomót kell érteni.
