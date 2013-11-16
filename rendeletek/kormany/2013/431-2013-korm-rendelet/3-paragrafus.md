@@ -1,0 +1,5 @@
+## 2. § A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 10. § (8) bekezdése szerinti befizetési kötelezettséget a központi költségvetési szerv 2013. december 10. napjáig, ezer forintra kerekítve, a kincstár „A zárolt álláshelyekhez kapcsolódó megtakarítások befizetései” megnevezésű, 10032000-01034286-00000000 számú számlájára teljesíti.
+
+3. § (1) A központi költségvetési szerv az álláshely-zárolásból eredő kiadási megtakarításokról az 1. melléklet kitöltéséhez szükséges adatokat – a fejezetet irányító szerv által meghatározott formában – a 2013. január 1-jétől 2013. december 31-éig terjedő időszak utáni befizetések alapján, 2013. december 10-éig küldi meg a fejezetet irányító szervnek.
+
+(2) A fejezetet irányító szerv az általa irányított költségvetési fejezetbe sorolt központi költségvetési szervek által teljesített adatszolgáltatást – az (1) bekezdésben meghatározott határidőt követő 10. munkanapig – az 1. melléklet szerinti adatlapon összesítve megküldi az államháztartásért felelős miniszter részére.
