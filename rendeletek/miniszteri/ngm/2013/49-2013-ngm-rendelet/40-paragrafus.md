@@ -1,0 +1,1 @@
+## 39. § A 7. és 8. alcímben, továbbá a IV. fejezetben előírt adatszolgáltatási és bejelentési kötelezettséget az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 175. § (9) bekezdése alapján elektronikus bevallásra kötelezettek elektronikusan teljesítik.

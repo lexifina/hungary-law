@@ -1,0 +1,1 @@
+## 4. § Az 3. §-ban meghatározottakon túl a taxaméter forgalmazására vonatkozó engedély megadásának további feltétele, hogy a gyártó rendelkezzen a 22/2004/EK irányelvet átültető tagállami jogszabályok szerinti EK típusvizsgálati tanúsítvánnyal.
