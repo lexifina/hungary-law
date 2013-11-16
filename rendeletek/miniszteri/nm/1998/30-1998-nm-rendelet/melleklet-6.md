@@ -29,3 +29,7 @@ b) az embriók egyébként friss embriótranszferre alkalmatlanok,
 c) az embriók a minősítési rendszer utolsó két kategóriájába tartoznak,
 
 d) a pár az embriók fagyasztva tárolását nem kéri.
+
+3.[^24] Női ivarsejt nem tárolható, ha szakorvosi javaslat alapján a leszívás eredménnyel nem járna.
+
+[^24]: A 6. számú melléklet 3. pontját a 68/2013. (XI. 15.) EMMI rendelet 4. §-a iktatta be.

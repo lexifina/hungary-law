@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-30-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 1998-30-20-3D.8 | 30/1998. (VI. 24.) NM rendelet |
+| 2013-11-16 | 1998-30-20-3D.9 | 68/2013. (XI. 15.) EMMI rendelet |

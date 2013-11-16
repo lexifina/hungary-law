@@ -38,6 +38,6 @@
 
 7.1. HIV-szűrés
 
-8.[^15] Speciális donorok esetén, illetve epidemiológiai helyzetekben esetleg szükséges további vizsgálatok.
+8.[^21] Speciális donorok esetén, illetve epidemiológiai helyzetekben esetleg szükséges további vizsgálatok.
 
-[^15]: A 3. számú melléklet 8. pontját a 20/2007. (IV. 19.) EüM rendelet 11. § (3) bekezdése iktatta be.
+[^21]: A 3. számú melléklet 8. pontját a 20/2007. (IV. 19.) EüM rendelet 11. § (3) bekezdése iktatta be.
