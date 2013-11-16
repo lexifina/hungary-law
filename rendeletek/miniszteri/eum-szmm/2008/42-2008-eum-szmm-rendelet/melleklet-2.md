@@ -16,7 +16,7 @@
 
 ## állandó lakcíme:
 
-## Tájékoztatom, hogy az érintett személlyel szemben, aki a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (Btk.) 282–282/C. §-ában meghatározott visszaélés kábítószerrel bűncselekmény megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a Btk. 283. § (1) bekezdésére tekintettel a nyomozás felfüggesztésének lehet helye.
+## Tájékoztatom, hogy az érintett személlyel szemben, aki a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 178–179. §-ában meghatározott kábítószer birtoklása, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 282–282/C. §-ában meghatározott visszaélés kábítószerrel bűncselekmény megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a Btk. 180. § (1) bekezdésére, illetve az 1978. évi IV. törvény 283. § (1) bekezdésére tekintettel a nyomozás felfüggesztésének lehet helye.
 
 ## Az igazságügyi orvosszakértő kábítószer-függőségre vonatkozó megállapítása:
 
