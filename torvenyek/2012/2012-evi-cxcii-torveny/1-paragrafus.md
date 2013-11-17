@@ -17,3 +17,9 @@ e) gyermekvédelmi szakellátást biztosító intézmény – ideértve a többc
 megszervezésével és fenntartásával nyújtott szakosított szociális ellátás és gyermekvédelmi szakellátás;
 
 2. átvett vagyon: a települési önkormányzat valamennyi ingó és ingatlan vagyona, valamint vagyoni értékű joga, amelyek az átvett feladat ellátását szolgálják, illetve ahhoz szükségesek és nevesítetten az átvett feladathoz, valamint az átvett intézményekhez kapcsolódnak, ideértve az önkormányzatok gazdasági társaságokban fennálló tulajdoni részesedését is, valamint a költségvetési szervként működő átvett intézmények valamennyi ingó és ingatlan vagyonát, vagyoni értékű jogát, gazdasági társaságokban fennálló tulajdoni részesedését.
+
+3. integrált intézménytől átvett feladat: 2013. január 1-jét megelőzően a települési önkormányzat által, 2013. január 1-jétől az állam által – a települési önkormányzattal az integrált intézmény működtetésére kötött ellátási szerződés vagy megállapodás útján – nyújtott szakosított szociális ellátás és gyermekvédelmi szakellátás;
+
+4. integrált intézmény: a 3. mellékletben felsorolt intézmény;
+
+5. integrált intézményi vagyon: a települési önkormányzat, valamint a költségvetési szervként működő integrált intézmény valamennyi olyan ingó és ingatlan vagyona, vagyoni értékű joga, gazdasági társaságokban fennálló tulajdoni részesedése, amely az integrált intézménytől átvett feladat ellátását szolgálja, illetve ahhoz szükséges és nevesítetten az integrált intézménytől átvett feladathoz, valamint az integrált intézményekhez kapcsolódik.

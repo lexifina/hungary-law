@@ -2,7 +2,7 @@
 
 10. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) az átvett intézmények fenntartásával kapcsolatos feladatokat ellátó szervet rendeletben kijelölje,
+a) az átvett intézmények, integrált intézmények fenntartásával kapcsolatos feladatokat ellátó szervet rendeletben kijelölje,
 
 b) az állami szociális és gyermekvédelmi feladatellátást szolgáló intézmények átadás-átvételi eljárásának részletszabályait és a megállapodás tartalmi elemeit rendeletben határozza meg.
 
