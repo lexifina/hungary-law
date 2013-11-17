@@ -1,7 +1,7 @@
-## 18. § A Vr. 4. §-a következő (4) bekezdéssel egészül ki:
-
-## „(4) A transzplantációs várólistán lévő betegekre – a csontvelő transzplantációra vonatkozó várólistán szereplő betegek kivételével – az állami vérellátó szolgálat által megkötött megállapodás szerinti allokációs szabályok érvényesülnek.”
+## 17–18. §[^12]
 
 ## 10. A várólista adatainak honlapon történő közzétételére vonatkozó szabályairól szóló
 
 ## 46/2006. (XII. 27.) EüM rendelet módosítása
+
+[^12]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
