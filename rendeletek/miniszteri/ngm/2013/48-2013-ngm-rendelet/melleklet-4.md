@@ -76,7 +76,7 @@
 
 ## Jelen pont alkalmazásában az áfa alól mentes termékek, szolgáltatások forgalmával esik egy tekintet alá az alanyi adómentességet választó adóalany forgalma, az egyszerűsített vállalkozói adó hatálya alá tartozó adóalany forgalma, az Áfa tv. XV. fejezetében meghatározott különös szabályok szerinti utazásszervezési szolgáltatás forgalma, az Áfa tv. XVI. fejezetében meghatározott különös szabályok szerinti használt ingóság, műalkotás, gyűjteménydarab vagy régiség értékesítésének forgalma, valamint az Áfa tv. hatályán kívüli értékesítések, szolgáltatások forgalma.
 
-## f)[^1]
+## f)[^2]
 
 ## 2. A forgalmi adatok gyűjtését bizonylat szinten (nyugta, egyszerűsített számla) és napi szinten is biztosítani kell.
 
@@ -750,4 +750,4 @@
 
 4. melléklet a 48/2013. (XI. 15.) NGM rendelethez
 
-[^1]: A 3. melléklet C) alcím 1. pont f) alpontja a 68. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
+[^2]: A 3. melléklet C) alcím 1. pont f) alpontja a 68. § (2) bekezdése alapján 2018. január 1-jén lép hatályba.
