@@ -1,3 +1,0 @@
-## 1. § A frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló 4/2011. (X. 6.) NMHH rendelet 5. § (3) bekezdésében a „harminc” szövegrész helyébe „húsz” szöveg, a 6. § (2) bekezdésében a „tizenkettedik” szövegrész helyébe „nyolcadik” szöveg, a 21. § (7c) bekezdésében a „45” szövegrész helyébe „negyvenöt” szöveg, a 21. § (7d) bekezdésében a „45.” szövegrész helyébe „negyvenötödik” szöveg, a 25. § (2) bekezdésében a „60. és 150.” szövegrész helyébe „negyvenötödik és százötvenedik” szöveg és a 27. § (11) bekezdésében a „60. és 150.” szövegrész helyébe „negyvenötödik és százötvenedik” szöveg lép.
-
-2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
