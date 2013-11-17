@@ -1,0 +1,589 @@
+1. melléklet a 2013. évi CLXXXIV. törvényhez
+
+„3. melléklet a 2012. évi CXCII. törvényhez
+
+2014. január 1-jével állami tulajdonba kerülő integrált szociális, gyermekvédelmi intézmények
+
+|
+
+1.
+
+|
+
+Békéscsaba és Térsége
+
+Többcélú Önkormányzati
+
+Kistérségi Társulás
+
+|
+
+Békéscsabai Kistérségi Egyesített
+
+Szociális Intézmény 4-es Honvéd
+
+Utcai Időskorúak Gondozóháza
+
+|
+
+5600
+
+Békéscsaba,
+
+4-es Honvéd utca 2.
+
+|
+
+Ápolást,
+
+gondozást nyújtó
+
+intézmény
+
+|
+
+Szenvedélybetegek
+
+otthona
+
+|
+
+2.
+
+|
+
+Debrecen Megyei Jogú Város
+
+Önkormányzata
+
+|
+
+Debrecen Megyei Jogú Város
+
+Fogyatékosokat Ellátó Intézménye
+
+|
+
+4032
+
+Debrecen,
+
+Böszörményi út 148.
+
+|
+
+Lakóotthon
+
+|
+
+Fogyatékos
+
+személyek ápoló-
+
+gondozó célú
+
+lakóotthona
+
+|
+
+Ápolást, gondozást
+
+nyújtó intézmény
+
+|
+
+Fogyatékos (látás,
+
+mozgás, értelmi)
+
+személyek otthona
+
+|
+
+Átmeneti
+
+elhelyezést nyújtó
+
+intézmény
+
+|
+
+Fogyatékos
+
+személyek
+
+gondozóháza
+
+|
+
+3.
+
+|
+
+Debrecen Megyei Jogú Város
+
+Önkormányzata
+
+|
+
+Debrecen Megyei Jogú Város
+
+Csökkentlátók Otthona
+
+|
+
+4032
+
+Debrecen,
+
+Nagyerdei körút 100.
+
+|
+
+Ápolást, gondozást
+
+nyújtó intézmény
+
+|
+
+Fogyatékos (látás,
+
+mozgás, értelmi)
+
+személyek otthona
+
+|
+
+4.
+
+|
+
+Győr Megyei Jogú Város
+
+Önkormányzata
+
+|
+
+Fogyatékosok Átmenet
+
+Gondozóháza
+
+|
+
+9023
+
+Győr,
+
+Török István út 1.
+
+|
+
+Átmeneti
+
+elhelyezést nyújtó
+
+intézmény
+
+|
+
+Fogyatékos
+
+személyek
+
+gondozóháza
+
+|
+
+5.
+
+|
+
+Kalocsa Város Önkormányzata
+
+|
+
+Kalocsa Város Önkormányzata
+
+Szociális Alapszolgáltatási és
+
+Szakellátási Központja Malom utcai
+
+telephely
+
+|
+
+6300
+
+Kalocsa, Malom utca 3–5.
+
+|
+
+Ápolást, gondozást
+
+nyújtó intézmény
+
+|
+
+Fogyatékos (látás,
+
+mozgás, értelmi)
+
+személyek otthona
+
+|
+
+6.
+
+|
+
+Miskolc Környéki
+
+Önkormányzati Társulás
+
+|
+
+Miskolci Egyesített Szociális,
+
+Egészségügyi és Gyermekvédelmi
+
+Intézmény – Módszertani Központ
+
+Értelmi Fogyatékosok Napközi
+
+Otthona és Fogyatékos Személyek
+
+Gondozóháza
+
+|
+
+3530
+
+Miskolc,
+
+Meggyesalja út 10.
+
+|
+
+Átmeneti
+
+elhelyezést nyújtó
+
+intézmény
+
+|
+
+Fogyatékos
+
+személyek
+
+gondozóháza
+
+|
+
+7.
+
+|
+
+Miskolc Környéki
+
+Önkormányzati Társulás
+
+|
+
+Miskolci Egyesített Szociális,
+
+Egészségügyi és Gyermekvédelmi
+
+Intézmény – Módszertani Központ
+
+Junior Gyermekotthon
+
+|
+
+3515
+
+Miskolc,
+
+Egyetem út 1/C.
+
+|
+
+Gyermekvédelmi
+
+szakellátás
+
+|
+
+Gyermekotthon
+
+|
+
+8.
+
+|
+
+Miskolc Környéki
+
+Önkormányzati Társulás
+
+|
+
+Miskolci Egyesített Szociális,
+
+Egészségügyi és Gyermekvédelmi
+
+Intézmény – Módszertani Központ
+
+Aranyhíd Gyermekotthon
+
+|
+
+3515
+
+Miskolc,
+
+Egyetem út 1/C.
+
+|
+
+Gyermekvédelmi
+
+szakellátás
+
+|
+
+Gyermekotthon
+
+|
+
+9.
+
+|
+
+Miskolc Környéki
+
+Önkormányzati Társulás
+
+|
+
+Miskolci Egyesített Szociális,
+
+Egészségügyi és Gyermekvédelmi
+
+Intézmény – Módszertani Központ
+
+Fruska Gyermekotthon
+
+|
+
+3515
+
+Miskolc,
+
+Egyetem út 1/C.
+
+|
+
+Gyermekvédelmi
+
+szakellátás
+
+|
+
+Gyermekotthon
+
+|
+
+10.
+
+|
+
+Miskolc Környéki
+
+Önkormányzati Társulás
+
+|
+
+Miskolci Egyesített Szociális,
+
+Egészségügyi és Gyermekvédelmi
+
+Intézmény – Módszertani Központ
+
+Nevelőszülői hálózat
+
+|
+
+3515
+
+Miskolc,
+
+Egyetem út 1/C.
+
+|
+
+Gyermekvédelmi
+
+szakellátás
+
+|
+
+Nevelőszülői
+
+hálózat
+
+|
+
+11.
+
+|
+
+Nagykanizsa Megyei Jogú
+
+Város Önkormányzata
+
+|
+
+Fogyatékkal Élők Integrált
+
+Intézménye
+
+|
+
+8800
+
+Nagykanizsa,
+
+Űrhajós út 6/A.
+
+|
+
+Ápolást, gondozást
+
+nyújtó intézmény
+
+|
+
+Fogyatékos (látás,
+
+mozgás, értelmi)
+
+személyek otthona
+
+|
+
+Átmeneti elhelyezést nyújtó intézmény
+
+|
+
+Fogyatékos személyek gondozóháza
+
+|
+
+12.
+
+|
+
+Pécs Megyei Jogú Város
+
+|
+
+Pécsi Gyermekotthon és Gyermekek
+
+Átmeneti Otthona
+
+|
+
+7621 Pécs, Megye utca 24.
+
+|
+
+Gyermekvédelmi szakellátás
+
+|
+
+Nevelőszülői hálózat
+
+|
+
+13.
+
+|
+
+Pécs Megyei Jogú Város
+
+|
+
+Pécsi Gyermekotthon és Gyermekek
+
+Átmeneti Otthona
+
+|
+
+7621 Pécs, Megye utca 24.
+
+|
+
+Gyermekvédelmi szakellátás
+
+|
+
+Gyermekotthon
+
+|
+
+14.
+
+|
+
+Pécs Megyei Jogú Város
+
+|
+
+Pécsi Gyermekotthon és Gyermekek
+
+Átmeneti Otthona
+
+|
+
+7621 Pécs, Megye utca 24.
+
+|
+
+Gyermekvédelmi szakellátás
+
+|
+
+Utógondozó otthon
+
+|
+
+15.
+
+|
+
+Tatabányai Többcélú
+
+Kistérségi Társulás
+
+|
+
+Tatabányai Többcélú Kistérségi
+
+Társulás Egyesített Szociális
+
+Intézmények Szent György Központ
+
+|
+
+2831 Tarján, Petőfi Sándor utca 16.
+
+|
+
+Ápolást, gondozást nyújtó intézmény
+
+|
+
+Fogyatékos (látás, mozgás, értelmi) személyek otthona
+
+”
