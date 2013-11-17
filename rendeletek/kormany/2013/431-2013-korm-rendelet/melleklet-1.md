@@ -1,4 +1,4 @@
-## „(4) A támogatás folyósítása és elszámolása tekintetében az országos nemzetiségi önkormányzat, illetve az iskolafenntartó helyi nemzetiségi önkormányzat és a nemzetiségpolitikáért felelős miniszter által vezetett minisztérium támogatási szerződést köt az országos nemzetiségi önkormányzat hivatalánál és költségvetési szerveinél, illetve a helyi nemzetiségi önkormányzat által fenntartott iskolában foglalkoztatottakat megillető kompenzáció biztosításáról.”
+## 5. §[^2]
 
 1. melléklet a 431/2013. (XI. 15.) Korm. rendelethez
 
@@ -21,3 +21,5 @@
 | Dátum: |  |  |  |  |  |  |
 
 |  | aláírás |
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
