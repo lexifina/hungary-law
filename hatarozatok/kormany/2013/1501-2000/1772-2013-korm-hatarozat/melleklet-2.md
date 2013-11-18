@@ -48,58 +48,6 @@
 
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, amennyiben nem kerül sor költségvetési kompenzációra. Az 1.2.0 konstrukció 4,90 Mrd Ft túlvállalást tartalmaz. ** A 280 HUF/EUR árfolyamról a 293,1 HUF/EUR árfolyamra való áttérés során az árfolyamtöbbletből 25 Mrd Ft-ot erre a technikai sorra helyezzük. Ha az operatív programokkal kapcsolatos módosítást az Európai Bizottság elfogadja, az alábbi forrás-átcsoportosítás történik: Az 1. (Egészséges, tiszta települések) prioritásról 10 Mrd Ft kerül át az 5. (Hatékony energia felhasználás) prioritásra, és 15 Mrd Ft a 7. (Projekt előkészítés) prioritásra. |
 
-2. melléklet az 1772/2013. (X. 25.) Korm. határozathoz
+2. melléklet az 1772/2013. (X. 25.) Korm. határozathoz[^4]
 
-| I. Prioritás bemutatása - 4. prioritás: A megújuló energiaforrás-felhasználás növelése prioritási tengely |  | Környezet és Energia Operatív Program |
-
-|  |  |  |  |  |  | Akcióterv 2011-2013 |  |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritási tengely a megújuló energiából előállított hő- és/vagy villamosenrgia termelésre, valamint bioetanol előállítására és megújuló energiaforrások alkalmazásával kombinált épületenergetikai fejlesztésekre fókuszáló projekteket kívánja támogatni, amelynek eredményeként a megújuló energiaforrásokból termelt hő- és villamosenergia részaránya a teljes hazai energiafogyasztáson belül növekszik, hozzájárulva a fosszilis energiahordozók felhasználásával járó CO₂ kibocsátás mérsékléséhez. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 293,1 HUF/EUR árfolyamon) |  |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |  |
-
-| 37,05 | 0,00 | 49,80 | 86,85 |  |  |  |  |
-
-| Túlvállalás: (Mrd Ft) |  |  |  |  |  |  |
-
-| ESZA tervezett aránya a prioritás keretéből: 0% |  |  |  |  |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 293,1 HUF/EUR árfolyamon) |  |  |  |  |
-
-| 2007-2013 | 2013 hátralévő | 2014-2015 | Összesen |  |  |  |  |
-
-| 61,51 | 53,90 | 0,00 | 115,41 |  |  |  |  |
-
-| II. A támogatási konstrukciók összefoglaló adatai (2011-2013) |  |  |  |  |  |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt)* | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 4.2.0 | Helyi hő- és hűtési energiaigény kielégítése megújuló energiaforrásokból | 14,81 | 0,00 | 0,00 | helyi hő, hűtési és villamos energia igény kielégítése megújuló energiaforrásokkal | NFM |  |
-
-| 4.3.0 | Megújuló energia alapú térségfejlesztés | 2,47 | 0,00 | 0,00 | megújuló energiaforrás-felhasználás térségfejlesztő hatással, mintaprojekt jelleggel | NFM |  |
-
-| 4.4.0 | Megújuló energia alapú villamosenergia-, kapcsolt hő és villamosenergia-, valamint biometán termelés | 11,08 | 0,00 | 0,00 | villamosenergia előállítás napenergia, biomassza segítségével, vízenergia hasznosítás, biogáz termelés és felhasználás, geotermális energia hasznosítás, szélenergia hasznosítás, megújuló energiaforrások kombinálása | NFM |  |
-
-| 4.7.0 | Geotermikus alapú hő-, illetve villamosenergia-termelő projektek előkészítési és projektfejlesztési tevékenységeinek támogatása | 0,31 | 0,00 | 0,00 | geotermális projektek előkészítése | NFM |  |
-
-| 4.8.0 | Pénzügyi konstrukció | 0,00 | 0,00 | 6,00 | 4.2.0/B, 4.4.0, 4.10.0/B és 4.10.0/C szerinti tevékenységekhez visszatérítendő forrás biztosítása. | NFM |  |
-
-| 4.9.0 | Épületenergetikai fejlesztések megújuló energiaforrás hasznosítással kombinálva | 8,38 | 0,00 | 0,00 | épületek hőtechnikai adottságainak javítása, fűtési, hűtési hmv rendszerek korszerűsítése, világítási rendszerek korszerűsítése, megújulókkal történő kombinálás (napkollektor, biomassza, napelem, hőszivattyú, stb) | NFM |  |
-
-| 4.10.0 | Megújuló energiaforrás alapú hő- és villamos energia termelés | 0,00 | 0,00 | 43,80 | napenergia (hmv, fűtési igény), biomassza (hmv, fűtési igény), biogáz, depóniagáz előállítás, geotermikus energia használat, hőszivattyús rendszerek kialakítása, hűtés megújuló energiaforrással, megújuló energia források kombinálása, megújulók közösségi távfűtő rendszerben történő hasznosítása, villamos energia előállítása megújuló energiaforrásból (kivéve az értékesítési célú napelem-beruházások, vállalkozások részére) | NFM | BM |
-
-| 4. | Prioritás | 37,05 | 0,00 | 49,80 |  |  |  |
-
-| * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |  |
+[^4]: A 2. mellékletet az 1838/2013. (XI. 18.) Korm. határozat 3. pontja visszavonta.
