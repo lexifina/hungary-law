@@ -1,0 +1,163 @@
+# A Kormány 433/2013. (XI. 18.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 190. szám, 2013. november 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a936fb0ff3fbd98327e688c17a002227562412ac/dokumentumok/973e417c2243cf3f965747de6eb9c00c166bdd31/letoltes)
+
+---
+
+A Kormány 433/2013. (XI. 18.) Korm. rendelete
+az építési beruházások közbeszerzései lefolytatásának további gyorsító és egyszerűsítő feltételeiről,
+az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet
+és a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési
+műszaki leírás meghatározásának módjáról szóló 310/2011. (XII. 23.) Korm. rendelet módosításáról
+A Kormány
+az 1. alcím tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 10. pontjában,
+a 2. alcím tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdés 1. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. Az építési beruházások közbeszerzésének részletes szabályairól szóló
+306/2011. (XII. 23.) Korm. rendelet módosítása
+1. §
+Az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet
+(a továbbiakban: R1.) 5. § (1) bekezdése a következő g) ponttal egészül ki:
+(Amennyiben az építési beruházás építmény kivitelezésére és tervezésére együtt irányul, vagy a Kbt. 1. mellékletében
+foglalt tevékenységek egyikéhez kapcsolódó munka kivitelezésére és tervezésére együtt irányul, az ajánlatkérőnek
+a dokumentációt az 1. melléklet szerinti tartalommal kell elkészítenie. A dokumentációt kivitelezésre és tervezésre
+irányuló építési beruházásnál a jogerős építési vagy létesítési engedély és a hozzá tartozó dokumentáció alapján kell
+elkészíteni, kivéve:)
+„g) nukleáris létesítmény építményeivel, vagy nukleáris létesítmény létesítéséhez vagy üzemeltetéséhez kapcsolódó
+egyéb építményekkel kapcsolatos közbeszerzési eljárás esetén.”
+2. §
+Az R1. 8/A. §-a helyébe a következő rendelkezés lép:
+„8/A. § (1) Amennyiben a rezsióradíj mértéke az eljárásban a Kbt. 71. §-a szerint önállóan értékelésre kerül,
+aránytalanul alacsony árajánlatnak minősül, és köteles az ajánlatkérő a Kbt. 69. §-a szerint indokolást kérni, ha
+az ajánlattevő által alkalmazott rezsióradíj alacsonyabb az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján
+az építésügyért felelős miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékénél.
+(2) Az (1) bekezdésen kívüli esetekben az ajánlatkérő a Kbt. 69. § (1) bekezdése szerinti indokolás kérése keretében
+köteles arra vonatkozóan is tájékoztatást kérni, hogy az aránytalanul alacsony árat benyújtó ajánlattevő ajánlatában
+milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes – az Épkiv.-ben meghatározottak szerint
+az építőipari minimális rezsióradíj elemeit képező – költségeket milyen összeggel és módon vett figyelembe.
+Az ajánlatkérő az ajánlattevő által nyújtott indokolás gazdasági ésszerűséggel való összeegyeztethetőségének
+vizsgálata során figyelembe veszi az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építésügyért felelős
+miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékét, és amennyiben az ajánlatban
+alkalmazott rezsióradíj annál alacsonyabb, különös figyelemmel vizsgálja a Kbt. 69. § (6) bekezdése szerinti
+körülmény fennállását.”
+3. § (1) Az R1. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ajánlatkérőként szerződő fél, valamint – európai uniós támogatás esetén szállítói kifizetés során – a kifizetésre
+köteles szervezet, amennyiben az ajánlattevőként szerződő fél a teljesítéshez alvállalkozót vesz igénybe, a Ptk.
+292/B. § (1) bekezdésétől eltérően a következő szabályok szerint köteles az ellenszolgáltatást teljesíteni:
+a) az ajánlattevőként szerződő felek legkésőbb a teljesítés elismerésének időpontjáig kötelesek nyilatkozatot tenni
+az ajánlatkérőnek, hogy közülük melyik mekkora összegre jogosult az ellenszolgáltatásból;
+b) az összes ajánlattevőként szerződő fél legkésőbb a teljesítés elismerésének időpontjáig köteles
+nyilatkozatot tenni, hogy az általa a teljesítésbe bevont alvállalkozók egyenként mekkora összegre jogosultak
+az ellenszolgáltatásból, egyidejűleg felhívja az alvállalkozókat, hogy állítsák ki ezen számláikat;
+c) az ajánlattevőként szerződő felek mindegyike a teljesítés elismerését követően állítja ki számláját, a számlában
+részletezve az alvállalkozói teljesítés, valamint az ajánlattevői teljesítés mértékét;
+d) a c) pont szerint a számlában feltüntetett alvállalkozói teljesítés ellenértékét az ajánlatkérőként szerződő fél
+− európai uniós támogatás esetén szállítói kifizetés során a kifizetésre köteles szervezet − tizenöt napon belül
+átutalja az ajánlattevőknek;
+
+e) az ajánlattevőként szerződő fél haladéktalanul kiegyenlíti az alvállalkozók számláit vagy az adózás rendjéről szóló
+2003. évi XCII. törvény (a továbbiakban: Art.) 36/A. § (3) bekezdése szerint azt vagy annak egy részét visszatartja,
+illetve az alvállalkozóval kötött szerződésben foglaltak szerint az alvállalkozói díj egy részét visszatartja;
+f) az ajánlattevőként szerződő felek átadják az e) pont szerinti átutalások igazolásainak másolatait, vagy
+az alvállalkozó köztartozást mutató együttes adóigazolásának másolatát az ajánlatkérőként szerződő félnek (annak
+érdekében, hogy az ajánlatkérőként szerződő fél megállapíthassa, hogy az ajánlattevőként szerződő fél jogszerűen
+nem fizette ki a teljes összeget az alvállalkozónak);
+g) az ajánlattevőként szerződő felek által benyújtott számlában megjelölt, fővállalkozói teljesítés ellenértékét
+az ajánlatkérőként szerződő fél − európai uniós támogatás esetén szállítói kifizetés során a kifizetésre köteles
+szervezet − tizenöt napon belül átutalja az ajánlattevőként szerződő feleknek, ha ők az alvállalkozókkal szembeni
+fizetési kötelezettségüket az Art. 36/A. §-ára is tekintettel teljesítették;
+h) ha az ajánlattevőként szerződő felek valamelyike az e) vagy az f) pont szerinti kötelezettségét nem teljesíti,
+az ellenszolgáltatás fennmaradó részét az ajánlatkérő (vagy a kifizetésre köteles szervezet) őrzi és az akkor illeti meg
+az ajánlattevőt, ha az ajánlatkérő részére igazolja, hogy az e) vagy az f) pont szerinti kötelezettségét teljesítette,
+vagy hitelt érdemlő irattal igazolja, hogy az alvállalkozó vagy szakember nem jogosult az ajánlattevő által a b) pont
+szerint bejelentett összegre vagy annak egy részére;
+i) részben vagy egészben európai uniós támogatásból megvalósított közbeszerzés esetén a d) pont szerinti határidő
+harminc nap.”
+(2) Az R1. 14. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha az ellenszolgáltatást több részletben teljesíti az ajánlatkérőként szerződést kötő fél vagy a kifizetésre köteles
+szervezet, minden részlettel kapcsolatban alkalmazni kell az (1) és (2) bekezdést.”
+4. §
+Az R1. 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) E rendelet rendelkezéseit a hatálybalépése után megkezdett közbeszerzésekre és a hatálybalépése után
+megkezdett közbeszerzési eljárások alapján megkötött szerződésekre kell alkalmazni. Az 5. § (4) bekezdését nem
+kell alkalmazni, ha a tervezővel a szerződés megkötésére e rendelet hatálybalépését megelőzően került sor.
+(2) A 2012. január 1. előtt megkezdett közbeszerzésekre az építési beruházások közbeszerzési eljárás során
+készítendő dokumentációjának tartalmáról szóló 215/2010. (VII. 9.) Korm. rendelet rendelkezéseit kell alkalmazni.
+(3) E rendeletnek az építőipari lánctartozás megakadályozását segítő intézkedésekről szóló 109/2013. (IV. 9.)
+Korm. rendelettel megállapított 8/A. §-ában foglalt szabályait a 2013. július 1-jét követően megkezdett
+közbeszerzési eljárásokban kell alkalmazni.
+(4) E rendeletnek az egyes közbeszerzési tárgyú rendeletek módosításáról szóló 238/2013. (VI. 30.) Korm. rendelet
+(a továbbiakban: MódR.) 3. §-ában megállapított rendelkezéseit a MódR. hatálybalépését követően megkezdett
+közbeszerzési eljárások esetében kell alkalmazni.
+(5) E rendeletnek az építési beruházások közbeszerzései lefolytatásának további gyorsító és egyszerűsítő
+feltételeiről, az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet
+és a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki
+leírás meghatározásának módjáról szóló 310/2011. (XII. 23.) Korm. rendelet módosításáról szóló 433/2013. (XI. 18.)
+Korm. rendelettel (a továbbiakban: MódR1.) megállapított 5. § (1) bekezdés g) pontját, valamint 8/A. §-át a MódR1.
+hatálybalépését követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.”
+2. A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának,
+valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló
+310/2011. (XII. 23.) Korm. rendelet módosítása
+5. §
+A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás
+meghatározásának módjáról szóló 310/2011. (XII. 23.) Korm. rendelet (a továbbiakban: R2.) 2. § i) pont ib) alpontja
+helyébe a következő rendelkezés lép:
+[Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében a Kbt. Második Része szerint lefolytatott
+közbeszerzési eljárásban az ajánlatkérő a Kbt. 56. §-a tekintetében a következő igazolásokat és írásbeli nyilatkozatokat
+köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:
+a Kbt. 56. § (1) bekezdés k) pontjára vonatkozóan:]
+„ib) a Kbt. 56. § (1) bekezdés k) pont kc) alpontja tekintetében az ajánlattevő, illetve részvételre jelentkező
+nyilatkozata arról, hogy olyan társaságnak minősül-e, melyet nem jegyeznek szabályozott tőzsdén vagy amelyet
+
+szabályozott tőzsdén jegyeznek; ha az ajánlattevőt vagy részvételre jelentkezőt nem jegyzik szabályozott
+tőzsdén, akkor a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi
+CXXXVI. törvény (a továbbiakban: pénzmosásról szóló törvény) 3. § r) pontja szerint definiált valamennyi tényleges
+tulajdonos nevének és állandó lakóhelyének bemutatását tartalmazó nyilatkozatot szükséges benyújtani;”
+6. §
+Az R2. 4. § f) pont fc) alpontja helyébe a következő rendelkezés lép:
+[Nem Magyarországon letelepedett ajánlattevő, illetve részvételre jelentkező esetében az ajánlatkérő a Kbt. Második
+Része szerint lefolytatott közbeszerzési eljárásban a Kbt. 56. §-a és 57. §-a tekintetében a következő igazolásokat és
+írásbeli nyilatkozatokat köteles elfogadni, illetve a következőképpen köteles ellenőrizni a kizáró okok hiányát:
+a Kbt. 56. § (1) bekezdés k) pontjára vonatkozóan:]
+„fc) a Kbt. 56. § (1) bekezdés k) pont kc) pontja tekintetében az ajánlattevő, illetve részvételre jelentkező
+nyilatkozatát arról, hogy olyan társaságnak minősül-e, melyet nem jegyeznek szabályozott tőzsdén vagy amelyet
+szabályozott tőzsdén jegyeznek; ha az ajánlattevőt, illetve részvételre jelentkezőt nem jegyzik szabályozott tőzsdén,
+akkor a pénzmosásról szóló törvény 3. § r) pontja szerint definiált valamennyi tényleges tulajdonos nevének és
+állandó lakóhelyének bemutatását tartalmazó nyilatkozatot szükséges benyújtani;”
+7. § (1) Az R2. 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A 15. § (2) bekezdés a) pontjának esetét a Kbt. Második Része szerint lefolytatott közbeszerzési eljárásban
+a szerződést kötő másik fél által adott igazolással kell igazolni. Az igazolásban meg kell adni legalább
+az ellenszolgáltatás összegét, a teljesítés idejét és helyét, továbbá nyilatkozni kell arról, hogy a teljesítés
+az előírásoknak és a szerződésnek megfelelően történt-e. Ajánlatkérő a referencia igazolás tartalmi elemei között
+jogosult előírni az alkalmasság megállapításához szükséges további adat megadását is.”
+(2) Az R2. 16. §-a a következő (6) bekezdéssel egészül ki:
+„(6) A 15. § (2) bekezdés a) pontja, valamint a 15. § (3) bekezdés a) pontja szerinti esetben, ha a nyertes közös
+ajánlattevőként teljesített építési beruházásra, vagy szolgáltatás megrendelésére vonatkozó referencia igazolás,
+vagy nyilatkozat nem állítható ki az egyes ajánlattevők által végzett munkák, illetve teljesített szolgáltatások
+elkülönítésével, úgy az ajánlatkérő a referencia igazolást, vagy nyilatkozatot bármelyik, a teljesítésben részt vett
+ajánlattevő részéről az ismertetett építési beruházás vagy szolgáltatás egésze tekintetében köteles elfogadni,
+feltéve, hogy a teljesítés a közös ajánlattevők egyetemleges felelősségvállalása mellett történt, és az igazolást
+benyújtó ajánlattevő által végzett teljesítés aránya elérte a 15%-ot.”
+8. §
+Az R2. 29. §-a a következő (4) bekezdéssel egészül ki:
+„(4) E rendeletnek az építési beruházások közbeszerzései lefolytatásának további gyorsító és egyszerűsítő
+feltételeiről, az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet
+és a közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki
+leírás meghatározásának módjáról szóló 310/2011. (XII. 23.) Korm. rendelet módosításáról szóló 433/2013. (XI. 18.)
+Korm. rendelettel (a továbbiakban: MódR1.) megállapított rendelkezéseit a MódR1. hatálybalépését követően
+megkezdett közbeszerzési eljárások esetében kell alkalmazni.”
+9. §
+Az R2.
+a) 14. § (8) bekezdésében az „amennyiben a Kbt. 122. §-a alapján jár el” szövegrész helyébe az „amennyiben
+a Kbt. 122. és 122/A. §-a alapján jár el”szöveg,
+b) 17. § (6) bekezdésében az „amennyiben a Kbt. 122. §-a alapján jár el” szövegrész helyébe az „amennyiben
+a Kbt. 122. és 122/A. §-a alapján jár el”szöveg,
+lép.
+3. Záró rendelkezések
+10. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
