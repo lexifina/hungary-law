@@ -60,17 +60,7 @@
 
 ## Határidő: azonnal
 
-## 9. A Kormány felkéri a Bethlen Gábor Alap irányítását ellátó Bizottságot, hogy a Bethlen Gábor Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest 500,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
-
-## Felelős: Bethlen Gábor Alap irányítását ellátó Bizottság
-
-## Határidő: azonnal
-
-## 10. A Kormány felhívja a nemzetgazdasági minisztert, hogy a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap egyenlegének a Kvtv.-ben jóváhagyotthoz képest 1,0 millió forinttal történő javulásához a szükséges intézkedéseket tegye meg.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 9–10.[^2]
 
 ## 11. A Kormány felhívja a nemzetgazdasági minisztert, hogy készítse elő a Kvtv. olyan tartalmú módosítását, amely lehetővé teszi, hogy az Országgyűlés kizárólagos hatáskörébe tartozó előirányzatok esetében – fejezeten belüli – kötelező, összesen 5000,0 millió forint összeget elérő tartalékképzésre kerüljön sor, valamint a Pénzügyi Szervezetek Állami Felügyelete 1500,0 millió forint központi költségvetési befizetést teljesítsen.
 
@@ -109,3 +99,4 @@
 1. melléklet az 1259/2013. (V. 13.) Korm. határozathoz
 
 [^1]: A 6. pont az 1705/2013. (X. 8.) Korm. határozattal megállapított szöveg.
+[^2]: A 9–10. pontot az 1868/2013. (XI. 19.) Korm. határozat 2. pontja visszavonta.
