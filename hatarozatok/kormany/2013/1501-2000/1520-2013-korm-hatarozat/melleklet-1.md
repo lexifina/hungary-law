@@ -10,7 +10,7 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. december 31.
+## Határidő: 2014. június 30.[^2]
 
 1. melléklet az 1520/2013. (VIII. 1.) Korm. határozathoz
 
@@ -83,3 +83,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A határozat az 1862/2013. (XI. 19.) korm. határozat 4. pontja szerint módosított szöveg.
