@@ -32,7 +32,7 @@ o) a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a
 
 p) fióktelep esetében – ha a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a harmadik országbeli biztosító székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal – a harmadik országbeli biztosítóval, biztosításközvetítővel, szaktanácsadóval,
 
-q) a feladatkörében eljáró alapvető jogok biztosával, valamint pénzügyi jogok biztosával,
+q) a feladatkörében eljáró alapvető jogok biztosával,
 
 r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
