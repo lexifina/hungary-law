@@ -1,1 +1,0 @@
-## 19. § Amennyiben a pénzügyi szervezet 11. § (2) és (3) bekezdés szerinti válaszai vagy az egyeztetés alapján a pénzügyi jogok biztosa úgy látja, hogy a beadványban szereplő ügy vitarendezési fórum igénybevételével megoldható, javasolja a kérelmezőnek, hogy a PBT-hez forduljon.
