@@ -24,6 +24,6 @@
 
 |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások | -20 000 |
 
-3. melléklet az 1223/2012. (VII. 3.) Korm. határozathoz[^4]
+3. melléklet az 1223/2012. (VII. 3.) Korm. határozathoz[^5]
 
-[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
