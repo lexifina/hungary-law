@@ -1,1 +1,1 @@
-43. § A pénzügyi jogok biztosát működése során a Pénzügyi Jogok Biztosa Hivatala segíti, amelyet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter a minisztérium szervezeti egységeként működtet.
+43. §

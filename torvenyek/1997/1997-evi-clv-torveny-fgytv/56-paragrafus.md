@@ -1,1 +1,1 @@
-56. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a pénzügyi jogok biztosa eljárásának, a Pénzügyi Jogok Biztosa Hivatalának feladatai és működésének részletes szabályait rendeletben állapítsa meg.
+56. §

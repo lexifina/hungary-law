@@ -24,7 +24,7 @@ j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdés
 
 k) az Európai Fogyasztói Központok Hálózatában való részvételre,
 
-l) a fogyasztói csoportok szervezésére és működésére, valamint a fogyasztói csoportokkal kapcsolatos fogyasztóvédelmi hatósági feladatok ellátását végző szerv kijelölésére, annak feladat- és hatáskörére,
+l) a 2012. január 1-je előtt létrehozott fogyasztói csoportok bejelentésére, működésére, a fogyasztói csoportot működtető vállalkozás által ellátandó feladatokra, az általa teljesítendő adatszolgáltatásra, a fogyasztók befizetéseinek kezelésére, a fogyasztókkal való elszámolásra és a szerződés megszüntetésére
 
 vonatkozó részletes szabályokat rendelettel meghatározza.
 
