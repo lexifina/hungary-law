@@ -1,0 +1,1 @@
+A Kormány, figyelemmel az afganisztáni Nemzetközi Biztonsági Közreműködő Erők (ISAF) műveleteiben történő további magyar katonai szerepvállalásról szóló 2186/2008. (XII. 29.) Korm. határozatban foglaltakra,
