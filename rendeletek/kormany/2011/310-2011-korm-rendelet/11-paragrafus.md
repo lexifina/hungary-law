@@ -4,6 +4,6 @@
 
 (3) Ha jogszabály a Kbt. 56. § (1) bekezdés e) pontjának hatálya alá tartozó új közterhet állapít meg, az ezzel kapcsolatos igazolást csak azokban az eljárásokban kell csatolni, amelyekben az ajánlattételi vagy részvételi határidő a köztartozásról szóló rendelkezés hatálybalépését követő egy évnél későbbi időpontra esik.
 
-(4)[^4]
+(4)[^6]
 
-[^4]: A 11. § (4) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 4. § (12) bekezdése hatályon kívül helyezte.
+[^6]: A 11. § (4) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 4. § (12) bekezdése hatályon kívül helyezte.
