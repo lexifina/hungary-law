@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. és 4. prioritásának módosításáról szóló 1772/2013. (X. 25.) Korm. határozat 1. pont a) alpontjában az „és” szövegrészt, 1. pont b) alpontját és 2. mellékletét.
+## 3.[^2]
 
 1. melléklet az 1838/2013. (XI. 18.) Korm. határozathoz
 
@@ -61,3 +61,5 @@
 | 4. | Prioritás | 37,05 | 0,00 | 49,80 |  |  |  |
 
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, amennyiben nem kerül sor költségvetési kompenzációra. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette.
