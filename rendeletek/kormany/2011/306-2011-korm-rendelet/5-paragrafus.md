@@ -10,9 +10,11 @@ d)[^1] a hulladékról szóló törvény szerinti hulladékgazdálkodási létes
 
 e) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó építési beruházás esetén,
 
-f)[^2] a Kbt. 94. § (3) bekezdés a) pontja szerinti kiegészítő építési beruházás esetén (ha az ajánlatkérő készít dokumentációt).
+f)[^2] a Kbt. 94. § (3) bekezdés a) pontja szerinti kiegészítő építési beruházás esetén (ha az ajánlatkérő készít dokumentációt),
 
-(2)[^3]
+g)[^3] nukleáris létesítmény építményeivel, vagy nukleáris létesítmény létesítéséhez vagy üzemeltetéséhez kapcsolódó egyéb építményekkel kapcsolatos közbeszerzési eljárás esetén.
+
+(2)[^4]
 
 (3) A dokumentáció kivitelezésre és tervezésre irányuló építési beruházás esetében is lehet az Épkiv. szerinti – e rendelet előírásainak megfelelő – kivitelezési dokumentáció, ahol a nyertes ajánlattevő feladata egyes kiegészítő tervezési feladatok ellátása.
 
@@ -22,4 +24,5 @@ f)[^2] a Kbt. 94. § (3) bekezdés a) pontja szerinti kiegészítő építési b
 
 [^1]: Az 5. § (1) bekezdés d) pontja a 441/2012. (XII. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.
 [^2]: Az 5. § (1) bekezdés f) pontját a 238/2013. (VI. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^3]: Az 5. § (2) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 3. § (5) bekezdése hatályon kívül helyezte.
+[^3]: Az 5. § (1) bekezdés g) pontját a 433/2013. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 5. § (2) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 3. § (5) bekezdése hatályon kívül helyezte.
