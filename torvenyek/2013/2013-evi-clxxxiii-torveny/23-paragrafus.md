@@ -8,7 +8,7 @@
 
 (5) Hatályát veszti az Fgytv. 41–43. §-a, 56. §-a, 56/C. §-a és 57. § (3) bekezdése.
 
-(6) Hatályát veszti az Fgytv. 47/C. § (5) bekezdés b) pontjában a „továbbá” szövegrész.
+(6)
 
 (7) Hatályát veszti a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 157. § (1) bekezdés q) pontjában a „ , valamint pénzügyi jogok biztosával” szövegrész.
 
