@@ -1,0 +1,9 @@
+A Kormány
+
+1. egyetért a Magyar Köztársaság Kormánya és az Organisation for Economic Co-operation and Development (OECD) közötti második közigazgatás-fejlesztési keretmegállapodás (a továbbiakban: Megállapodás) bemutatott szövegével;
+
+2. felhatalmazza a közigazgatási és igazságügyi minisztert vagy az általa kijelölt személyt a Megállapodás bemutatott szövegének végleges megállapítására;
+
+3. felhívja a külügyminisztert, hogy a Megállapodás szövegének végleges megállapításához szükséges meghatalmazási okiratot adja ki;
+
+4. jóváhagyja a Megállapodás kihirdetéséről szóló kormányrendelet tervezetét és elrendeli a Megállapodás szövegének végleges megállapítását követően annak a Magyar Közlönyben történő kihirdetését.
