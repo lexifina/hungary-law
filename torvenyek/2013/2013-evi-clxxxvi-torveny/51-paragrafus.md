@@ -1,0 +1,3 @@
+51. § A Be. 268. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bíróság hivatalból vagy az eljárásban részt vevő személyek indítványára intézkedik aziránt, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak. Ennek érdekében – határidő tűzésével, szükség esetén az eljárás felfüggesztése mellett – megkeresheti az ügyészt, továbbá pártfogó felügyelői vélemény beszerzését rendelheti el. Az ügyész megkeresése a vádirat hiányosságainak pótlására, bizonyítási eszköz felkutatására és biztosítására irányulhat.”
