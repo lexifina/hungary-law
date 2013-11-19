@@ -1,5 +1,7 @@
-## 1. § Az ingatlan tulajdonosa köteles
+1. §[^1] (1) Ha a felhasználó egyetemes szolgáltatásra jogosult, az ingatlantulajdonos a csatlakozóvezeték és a felhasználói berendezés – a gázfelhasználó technológia kivételével – műszaki-biztonsági felülvizsgálatát – a 2/A. §-ban meghatározott kivétellel – a mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet 2. számú mellékletében meghatározott időszakos gázmérő hitelesítéssel összefüggő gázmérő cserével (a továbbiakban: gázmérő csere) egyidejűleg köteles elvégeztetni.
 
-a) a felhasználói berendezés – a gázfelhasználói technológia kivételével – műszaki-biztonsági felülvizsgálatát az üzembe helyezés, vagy az e rendelet hatálybalépését megelőzően üzembe helyezett felhasználói berendezés esetében az első műszaki biztonsági felülvizsgálat évét követő 5. évben és ezt követően 5 évente,
+(2) Ha az ingatlantulajdonos a gázmérő cseréjének dátumához képest 10 évnél nem régebbi jegyzőkönyvvel igazolja a műszaki-biztonsági felülvizsgálat elvégeztetésének tényét, nem köteles a soron következő gázmérő cseréjével egyidejűleg újból elvégeztetni a felülvizsgálatot. Az ingatlantulajdonos a gázmérő cseréjének napja előtt köteles bejelenteni, hogy a műszaki-biztonsági felülvizsgálatot az e bekezdésben meghatározott időszakban elvégeztette.
 
-b) a csatlakozóvezeték műszaki-biztonsági felülvizsgálatát az üzembe helyezés, vagy az e rendelet hatálybalépését megelőzően üzembe helyezett csatlakozóvezeték esetében az első műszaki biztonsági felülvizsgálat évét követő 10. évben és ezt követően 10 évente elvégeztetni.
+(3) Ha a felhasználó egyetemes szolgáltatásra jogosult, az ingatlantulajdonos a műszaki-biztonsági felülvizsgálatot az ellátását lehetővé tevő, területileg illetékes földgázelosztói engedélyestől történő megrendelés útján köteles elvégeztetni.
+
+[^1]: Az 1. § az 51/2013. (XI. 18.) NGM rendelet 1. §-ával megállapított szöveg.

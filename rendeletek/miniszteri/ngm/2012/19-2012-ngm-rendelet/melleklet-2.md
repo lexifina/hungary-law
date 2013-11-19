@@ -200,11 +200,11 @@
 
 |  | 8. | A gázfogyasztó készülékek időszakos felülvizsgálatot megelőző utolsó karbantartásának és beszabályozásának időpontja |  |  |  |  |  |  |
 
-## 4. Minősítés a műszaki biztonsági felülvizsgálat megállapításai alapján
+## 4. Minősítés a műszaki-biztonsági felülvizsgálat megállapításai alapján
 
-|  | Megnevezés | Az időszakos felülvizsgálat megállapításai – Megjegyzések – | Az eltérés minősítése |
+|  |  |  | Az eltérés minősítése |
 
-|  | Megfelel | Feltétellel megfelel* | Nem felel meg** |
+|  | Megnevezés | Az időszakos felülvizsgálat megállapításai – Megjegyzések – | Megfelel | Feltétellel megfelel* | Nem felel meg** |
 
 |  | Csatlakozóvezeték további üzemeltetésre való alkalmassága |  |  |  |  |
 
@@ -220,34 +220,38 @@
 
 ## Az üresen hagyott rovatokat átlósan át kell húzni.
 
-## Dátum:…………………… év …. hó …nap
+## Dátum: ........................ év ..................... hó ....... nap
 
-## ……………………………………………
-
-## Időszakos felülvizsgálatot végezte
-
-## (Olvasható név /aláírás)
+## ......................................................................... Időszakos felülvizsgálatot végezte (olvasható név/aláírás)
 
 ## Gázszerelői Igazolvány száma:
 
-## Az ingatlan tulajdonosa/felhasználó nyilatkozata
+## Az ingatlan tulajdonosa/felhasználó nyilatkozata – az alábbi pontok értelemszerű jelölésével
 
-## – az alábbi pontok értelemszerű jelölésével –
+## 1. „Feltétellel megfelel” megállapítás esetén feltárt hiányosságokat megismertem,
 
-## 1. „Feltétellel megfelel” megállapítás esetén feltárt hiányosságokat megismertem, azok megszüntetéséről gondoskodom, annak elmulasztásából adódó következményeket vállalom.
+## a) azok megszüntetéséről haladéktalanul gondoskodom;
 
-## 2. „Nem felel meg” megállapítás esetén a csatlakozóvezeték / fogyasztói vezeték / gázfogyasztó berendezés Felülvizsgáló jelenlétében történő üzemen kívül helyezése megtörtént. A szabálytalan helyzet megszüntetésére intézkedem, egyben tudomásul veszem, hogy az ismételt üzembe helyezésre – a hiányosságok szakember által történő megszüntetését követően – kizárólag a területileg illetékes földgázelosztó, vagy a vezetékes PB-gázszolgáltató engedélyével történhet.
+## b) azok jogosságát vitatom;
 
-## Az időszakos műszaki biztonsági felülvizsgálat fenti megállapításait tudomásul vettem.
+## c) azok megszüntetésére vagy jogosságának vitatására 30 nap haladékot kérek.
 
-## Dátum:…………………… év …. hó …nap
+## 2. „Nem felel meg” megállapítás esetén a csatlakozóvezeték / fogyasztói vezeték / gázfogyasztó berendezés Felülvizsgáló jelenlétében történő üzemen kívül helyezése megtörtént.
 
-## ………………………………….
+## a) A szabálytalan helyzet megszüntetésére intézkedem, egyben tudomásul veszem, hogy az ismételt üzembe helyezésre – a hiányosságok szakember által történő megszüntetését követően – kizárólag a területileg illetékes földgázelosztói engedélyes vagy a vezetékes PB-gáz szolgáltató engedélyével történhet.
 
-## Ingatlan tulajdonos/Felhasználó,
+## b) A megállapítás jogosságát vitatom, egyben tudomásul veszem, hogy az ismételt üzembe helyezésre – a hiányosságok szakember által történő megszüntetését követően – kizárólag a területileg illetékes földgázelosztói engedélyes vagy a vezetékes PB-gáz szolgáltató engedélyével történhet.
 
-## Olvasható név /aláírás
+## Az időszakos műszaki-biztonsági felülvizsgálat fenti megállapításait tudomásul vettem.
 
-2. melléklet a 19/2012. (VII. 20.) NGM rendelethez[^2]
+## Dátum: ........................ év ....... hó .......nap
 
-[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## .........................................................................
+
+## ingatlan tulajdonosa/felhasználója,
+
+## olvasható név/aláírás
+
+2. melléklet a 19/2012. (VII. 20.) NGM rendelethez[^10]
+
+[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
