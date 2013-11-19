@@ -24,4 +24,4 @@ b) színházban vagy moziban 20 óra előtt, illetve gyermek-, illetve fiatalkor
 
 c) egyértelműen játék céljára szánt terméken és annak csomagolásán, és
 
-d) közoktatási és egészségügyi intézményben, továbbá ilyen intézmény bejáratától légvonalban mért kétszáz méteres távolságon belül szabadtéri reklámhordozón.
+d) köznevelési és egészségügyi intézményben, továbbá ilyen intézmény bejáratától légvonalban mért kétszáz méteres távolságon belül szabadtéri reklámhordozón.
