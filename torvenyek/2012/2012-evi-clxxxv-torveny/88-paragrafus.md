@@ -100,7 +100,9 @@ ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átl�
 
 bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
 
-bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat
+bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
+
+bd) a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a közszolgáltatók által alkalmazható számlaképet
 
 rendeletben állapítsa meg.
 
