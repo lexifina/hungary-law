@@ -1,0 +1,86 @@
+# A Kormány 436/2013. (XI. 19.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 191. szám, 2013. november 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d352f3998ecf114e84a6f4bc5091a91722e9028d/dokumentumok/034ef26f082ba44e51f713affb252a89065876dd/letoltes)
+
+---
+
+A Kormány 436/2013. (XI. 19.) Korm. rendelete
+a sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet, valamint a doppingellenes tevékenység
+szabályairól szóló 43/2011. (III. 23.) Korm. rendelet módosításáról
+A Kormány
+a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bb) alpontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont ba) alpontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+1. A sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet módosítása
+1. § (1) A sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet (a továbbiakban: R.) 4. § (1) bekezdése helyébe
+a következő rendelkezés lép:
+„(1) Kötelezettségszegés megalapozott gyanúja esetén a sportfegyelmi bizottság elnöke sportfegyelmi eljárást
+indít. Az (1c) bekezdésben meghatározott kivétellel nem indítható sportfegyelmi eljárás, ha a kötelezettségszegés
+elkövetése óta a sportszövetség sportfegyelmi szabályzatában meghatározott határidő (a továbbiakban: elévülési
+határidő) eltelt. Külföldön elkövetett kötelezettségszegés esetén az elévülési határidőt az eljárás alá vont személy
+belföldre történő visszaérkezésétől kell számítani.”
+(2) Az R. 4. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
+„(1a) A sportszövetség a sportfegyelmi szabályzatában az elévülési határidőt úgy állapíthatja meg, hogy az elévülési
+határidő
+a) igazodjon a kötelezettségszegés tárgyi súlyához és
+b) a kötelezettségszegéstől számított legalább 1 év, legfeljebb 10 év legyen.
+(1b) Ha a sportszövetség sportfegyelmi szabályzata az elévülési határidőről nem rendelkezik, akkor az elévülési
+határidő a kötelezettségszegéstől számított egy év.
+(1c) A verseny, mérkőzés vagy versenyrendszer (bajnokság) eredményének jogellenes befolyásolása esetén
+a sportfegyelmi eljárás megindításának joga nem évül el.”
+(3) Az R. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A sportfegyelmi bizottság elnöke nyolc napon belül írásban, a postai szolgáltatásokról szóló törvény szerinti
+tértivevény többletszolgáltatással feladott postai küldemény megküldésével értesíti az eljárás alá vont személyt,
+illetve sportszervezetet a sportfegyelmi eljárás megindításáról.”
+(4) Az R. 4. §-a a következő (7)–(10) bekezdéssel egészül ki:
+„(7) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik,
+hogy az értesítést nem veszi át, az értesítést a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
+(8) Ha az értesítés a sportfegyelmi bizottsághoz „nem kereste” jelzéssel érkezik vissza, az értesítést – az ellenkező
+bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell
+tekinteni.
+(9) A kézbesítési vélelem megdöntése iránti kérelmet a címzett a kézbesítési vélelem beálltáról történő
+tudomásszerzéstől számított 8 napon belül, de legkésőbb a kézbesítési vélelem beálltától számított 15 napos
+jogvesztő határidőn belül terjeszthet elő. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek
+a kézbesítés szabálytalanságát igazolják vagy a címzett önhibájának hiányát valószínűsítik.
+(10) A (9) bekezdés szerinti kérelmet az a sportfegyelmi bizottság bírálja el, amelyik a kézbesítés tárgyát képező
+értesítést kiadmányozta. A kérelem előterjesztésének a sportfegyelmi eljárás megindítására halasztó hatálya van. Ha
+a sportfegyelmi bizottság a kérelemnek helyt ad, a sportfegyelmi eljárás megtartására az (5) bekezdésben és az 5. §
+(1) bekezdésében meghatározott határidőkre figyelemmel új határidőt tűz ki, amellyel szemben igazolási kérelem
+ismételt előterjesztésének nincs helye.”
+2. §
+Az R. 8. §-a helyébe a következő rendelkezés lép:
+„8. § Meg kell szüntetni a sportfegyelmi eljárást, ha annak tartama alatt az eljárás alá vont személy elhalálozik vagy
+az eljárás alá vont sportszervezet megszűnik.”
+3. §
+Az R. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az első fokú sportfegyelmi határozat ellen az eljárás alá vont személy, illetve sportszervezet, valamint az, akinek
+jogát vagy jogos érdekét a határozat érinti, a kézbesítéstől számított tizenöt napon belül jogorvoslati kérelmet
+terjeszthet elő. A jogorvoslati kérelmet az első fokú határozatot hozó sportfegyelmi bizottság elnökénél kell
+benyújtani, aki azt a kérelem kézhezvételétől számított tizenöt napon belül az eljárás során keletkezett iratokkal
+együtt továbbítja a sportszövetség fellebbviteli szerve vezetőjének.”
+4. §
+Az R. a következő 15. §-sal egészül ki:
+„15. § (1) E rendeletnek a sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet, valamint
+a doppingellenes tevékenység szabályairól szóló 43/2011. (III. 23.) Korm. rendelet módosításáról szóló 436/2013.
+(XI. 19.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított 4. § (1)–(1c) bekezdését a módosító
+
+rendelet hatálybalépése után elkövetett kötelezettségszegésekre, külföldön elkövetett kötelezettségszegés esetén
+a módosító rendelet hatálybalépését követően belföldre történő visszaérkezés esetében kell alkalmazni.
+(2) A 8. § módosító rendelettel történt módosítása a módosító rendelet hatálybalépésekor folyamatban lévő
+sportfegyelmi eljárásokat nem érinti.”
+2. A doppingellenes tevékenység szabályairól szóló 43/2011. (III. 23.) Korm. rendelet módosítása
+5. §
+A doppingellenes tevékenység szabályairól szóló 43/2011. (III. 23.) Korm. rendelet 21. §-a a következő
+(7) bekezdéssel egészül ki:
+„(7) A doppingeljárásban hozott első fokú határozat ellen az eljárás alá vont személy, illetve az, akinek jogát vagy
+jogos érdekét a határozat érinti, a kézbesítéstől számított tizennégy napon belül jogorvoslati kérelmet terjeszthet
+elő. A jogorvoslati kérelmet az első fokú határozatot hozó doppingbizottság elnökénél kell benyújtani, aki azt
+a kérelem kézhezvételétől számított tizenöt napon belül az eljárás során keletkezett iratokkal együtt továbbítja
+a dopping fellebbviteli bizottság vezetőjének.”
+3. Záró rendelkezések
+6. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
