@@ -27,5 +27,3 @@ f) az elmeállapot megfigyelésére kijelölt egészségügyi intézményeket, a
 g) a tolmácsra és a fordítóra vonatkozó rendelkezéseket, a tolmács és a fordító díjazására és az általuk felszámítható költségekre vonatkozó részletes szabályokat az érintett miniszterek egyetértésével kiadott,
 
 h) a házi őrizet végrehajtási szabályait, valamint a lakhelyelhagyási tilalommal összefüggésben a terhelt mozgását nyomon követő eszköz alkalmazásának szabályait a rendészetért felelős miniszter egyetértésével kiadott,
-
-i) az óvadék letétele esetén a bírósági letét szabályait,
