@@ -16,7 +16,7 @@ Tisztességtelen kereskedelmi gyakorlatok
 
 1. Annak valótlan állítása, hogy a vállalkozás magatartási kódex aláírója.
 
-2. Annak valótlan állítása, hogy a magatartási kódexet valamely közigazgatási hatóság vagy közigazgatási jogkör gyakorlására feljogosított szerv jóváhagyta.
+2. Annak valótlan állítása, hogy a magatartási kódexet valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy egyéb szervezet jóváhagyta.
 
 3. Minőségi jelzés, bizalmi jegy vagy hasonló megkülönböztető jelölés jogosulatlan feltüntetése.
 
