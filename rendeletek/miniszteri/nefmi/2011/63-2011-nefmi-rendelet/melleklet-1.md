@@ -1,4 +1,4 @@
-## 18. §[^12]
+## 18. §[^13]
 
 1. melléklet a 63/2011. (XI. 29.) NEFMI rendelethez
 
@@ -382,7 +382,7 @@
 
 7. FOGÁSZATI ELLÁTÁS SZAKMACSOPORT
 
-7.1. Fogász
+7.1.[^14]
 
 7.2. Fogászati asszisztens
 
@@ -402,7 +402,7 @@
 
 7.10. Klinikai fogászati higiénikus (54)
 
-7.11. Vizsgázott fogász
+7.11.[^15]
 
 8. GYÓGYSZERTÁRI ELLÁTÁS SZAKMACSOPORT
 
@@ -684,4 +684,6 @@
 
 17.10. Szemtréning eljárások
 
-[^12]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. melléklet 7.1. pontját a 69/2013. (XI. 19.) EMMI rendelet 5. §-a hatályon kívül helyezte.
+[^15]: Az 1. melléklet 7.11. pontját a 69/2013. (XI. 19.) EMMI rendelet 5. §-a hatályon kívül helyezte.
