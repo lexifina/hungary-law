@@ -1,1 +1,0 @@
-## 16. § 2013. december 31-éig az egy területi nemzetiségi önkormányzatra jutó működési költségvetési támogatás összege az egy települési nemzetiségi önkormányzatra jutó működési költségvetési támogatás kétszerese.
