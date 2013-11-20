@@ -48,12 +48,8 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1191/2012. (VI. 12.) Korm. határozatban a „2012. december 15.” szövegrész helyébe a „2013. november 30.” szöveg lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a címrend és egyes kormányhatározatok módosításáról, valamint a 2011. évi kötelezettségvállalással nem terhelt maradványok felhasználásáról szóló 1223/2012. (VII. 3.) Korm. határozat 1. pontjában az „a X. Közigazgatási és Igazságügyi Minisztérium fejezet tekintetében 2013. június 30.” szövegrész helyébe „a X. Közigazgatási és Igazságügyi Minisztérium fejezet tekintetében 2013. december 31.” szöveg lép.
-
-## 4. A Magyarország határain kívül működő magyar cserkészet támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1520/2013. (VIII. 1.) Korm. határozatban a „2013. december 31.” szövegrész helyébe a „2014. június 30.” szöveg lép.
-
-## 5. A határon túli regionális civil központok létrehozásának támogatásáról szóló 1538/2013. (VIII. 15.) Korm. határozatban a „2014. január 31.” szövegrész helyébe a „2014. május 31.” szöveg lép.
+## 2–5.[^1]
 
 1. melléklet az 1862/2013. (XI. 19.) Korm. határozathoz
+
+[^1]: A 2–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatáyát vesztette.
