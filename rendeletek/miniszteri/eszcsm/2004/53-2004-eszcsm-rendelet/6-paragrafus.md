@@ -1,4 +1,4 @@
-6. §[^33] (1)[^34] A nagykereskedő a tevékenységét szüneteltetheti, amelynek tényéről – a szüneteltetés időtartamának megjelölésével – annak megkezdését megelőzően legalább 30 nappal köteles értesíteni a GYEMSZI-t. A nagykereskedő a tevékenységének a szünetelést követő újbóli megkezdését megelőzően legalább 30 nappal köteles értesíteni a GYEMSZI-t.
+6. §[^34] (1)[^35] A nagykereskedő a tevékenységét szüneteltetheti, amelynek tényéről – a szüneteltetés időtartamának megjelölésével – annak megkezdését megelőzően legalább 30 nappal köteles értesíteni a GYEMSZI-t. A nagykereskedő a tevékenységének a szünetelést követő újbóli megkezdését megelőzően legalább 30 nappal köteles értesíteni a GYEMSZI-t.
 
 (2) A nagykereskedő haladéktalanul köteles bejelenteni a GYEMSZI-nek, ha az 5. § (1) bekezdés e) pontjában, f) pont ff) alpontjában és i) pontjában felsoroltakban, valamint ha a nagykereskedő nevében vagy székhelyének címében változás történik.
 
@@ -10,17 +10,17 @@ b) meglévő telephelyen új raktár építése,
 
 c) meglévő alapterület bővítése,
 
-d)[^35] a beérkezett gyógyszerek minőségértékelését és felszabadítását végző felelős személy változása,
+d)[^36] a beérkezett gyógyszerek minőségértékelését és felszabadítását végző felelős személy változása,
 
 e) a forgalmazni kívánt gyógyszercsoport vagy gyógyszercsoportok változása
 
 ## esetén.
 
-(4)[^36] A GYEMSZI a tevékenységi engedélyben szereplő adatokat rögzíti és naprakészen tartja az Európai Gyógyszerügynökség által működtetett uniós adatbázisban. Az Európai Bizottság vagy bármely EGT tagállami hatóság kérésére a GYEMSZI tájékoztatást ad az egyedi engedélyekre vonatkozó információkról.
+(4)[^37] A GYEMSZI a tevékenységi engedélyben szereplő adatokat rögzíti és naprakészen tartja az Európai Gyógyszerügynökség által működtetett uniós adatbázisban. Az Európai Bizottság vagy bármely EGT tagállami hatóság kérésére a GYEMSZI tájékoztatást ad az egyedi engedélyekre vonatkozó információkról.
 
 (5) A GYEMSZI a kiadott, a módosított, továbbá a visszavont tevékenységi engedélyekről, valamint a nagykereskedelmi tevékenység (1) bekezdés szerinti szüneteltetéséről nyilvántartást vezet, amelynek személyes adatot nem tartalmazó részét a honlapján közzéteszi.
 
-[^33]: A 6. § a 41/2011. (VII. 5.) NEFMI rendelet 8. §-ával megállapított szöveg.
-[^34]: A 6. § (1) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 16. §-ával megállapított szöveg.
-[^35]: A 6. § (3) bekezdés d) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^36]: A 6. § (4) bekezdése az 53/2012. (XII. 28.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^34]: A 6. § a 41/2011. (VII. 5.) NEFMI rendelet 8. §-ával megállapított szöveg.
+[^35]: A 6. § (1) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^36]: A 6. § (3) bekezdés d) pontja a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^37]: A 6. § (4) bekezdése az 53/2012. (XII. 28.) EMMI rendelet 3. §-ával megállapított szöveg.
