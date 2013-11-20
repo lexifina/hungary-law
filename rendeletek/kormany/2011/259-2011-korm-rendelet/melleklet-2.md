@@ -92,6 +92,6 @@
 
 | 42. | A termőföld védelméről szóló törvényben előírt hasznosítási, vagy mellékhasznosítási kötelezettség elmulasztásával a tűzesetek megelőzéséről nem gondoskodik | 60 000 | 200 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^49]
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^46]
 
-[^49]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
