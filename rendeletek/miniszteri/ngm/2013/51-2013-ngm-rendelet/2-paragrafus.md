@@ -1,7 +1,0 @@
-## 1. § A gáz csatlakozó vezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatáról szóló 19/2012. (VII. 20.) NGM rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § (1) Ha a felhasználó egyetemes szolgáltatásra jogosult, az ingatlantulajdonos a csatlakozóvezeték és a felhasználói berendezés – a gázfelhasználó technológia kivételével – műszaki-biztonsági felülvizsgálatát – a 2/A. §-ban meghatározott kivétellel – a mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet 2. számú mellékletében meghatározott időszakos gázmérő hitelesítéssel összefüggő gázmérő cserével (a továbbiakban: gázmérő csere) egyidejűleg köteles elvégeztetni.
-
-## (2) Ha az ingatlantulajdonos a gázmérő cseréjének dátumához képest 10 évnél nem régebbi jegyzőkönyvvel igazolja a műszaki-biztonsági felülvizsgálat elvégeztetésének tényét, nem köteles a soron következő gázmérő cseréjével egyidejűleg újból elvégeztetni a felülvizsgálatot. Az ingatlantulajdonos a gázmérő cseréjének napja előtt köteles bejelenteni, hogy a műszaki-biztonsági felülvizsgálatot az e bekezdésben meghatározott időszakban elvégeztette.
-
-## (3) Ha a felhasználó egyetemes szolgáltatásra jogosult, az ingatlantulajdonos a műszaki-biztonsági felülvizsgálatot az ellátását lehetővé tevő, területileg illetékes földgázelosztói engedélyestől történő megrendelés útján köteles elvégeztetni.”
