@@ -1132,7 +1132,7 @@
 
 ## b) 12 hó mellkas-sebészeti alap gyakorlat
 
-## c) 12 hó I. szinten akkreditált mellkas-sebészeten töltendő gyakorlat
+## c) 12 hó III. szinten akkreditált mellkas-sebészeten töltendő gyakorlat
 
 ## d) 2 hó szívsebészeti gyakorlat
 
@@ -1270,7 +1270,7 @@
 
 ## b) 1 hó törzsképzési tanfolyamok
 
-## c) 7 hó nukleáris medicina alapképzési gyakorlat, benne: izotóp alaptanfolyam, átfogó sugárvédelmi tanfolyam
+## c) 7 hó nukleáris medicina alapképzési gyakorlat, benne: izotóp alaptanfolyam, bővített sugárvédelmi tanfolyam
 
 ## d) 6 hó belgyógyászati gyakorlat
 
@@ -2116,17 +2116,11 @@
 
 ## b) 1 hó törzsképzési tanfolyam
 
-## c) 6 hó intenzív terápiás, benne: kötelezően légzésterápiás gyakorlat
+## c) 3 hó gasztroenterológiai gyakorlat
 
-## d) 11 hó belgyógyászati alapgyakorlat:
+## d) 2 hó kardiológiai gyakorlat
 
-## da) 3 hó általános belgyógyászati gyakorlat
-
-## db) 3 hó kardiológiai osztályos gyakorlat
-
-## dc) 3 hó gasztroenterológiai osztályos gyakorlat
-
-## dd) 2 hó tüdőgyógyászati gyakorlat
+## e) 12 hó tüdőgyógyászati gyakorlat
 
 ## 2.2. 36 hó szakgyakorlati képzés: speciális tüdőgyógyászati képzés, ebből:
 
@@ -2147,6 +2141,8 @@
 ## h) 1 hó palliáció, hospice
 
 ## i) 3 hét szakvizsga-előkészítő tanfolyam
+
+## j) 6 hó intenzív légzésterápiás gyakorlat
 
 ## 3. Szakvizsgára bocsátás egyéb feltételei
 
@@ -2190,6 +2186,6 @@
 
 ## Szakvizsga-felkészítő program sikeres teljesítése (évente 5x3 nap elméleti és gyakorlati képzés a teljes urológiai tananyagot felölelően, forgó rendszerben).
 
-3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^7]
+3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^13]
 
-[^7]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése szerint módosított szöveg.
+[^13]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése szerint módosított szöveg.

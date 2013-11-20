@@ -170,6 +170,54 @@
 
 ## Meghatározott számú és típusú sebészi beavatkozás teljesítése.
 
+## 3/A. AUDIOLÓGIA
+
+## 1. Képzés belépési feltétele: fül-orr-gégegyógyászat szakvizsga
+
+## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+
+## 3. Képzési program: 24 hó kórházi vagy klinikai audiológiai állomáson, ebben:
+
+## a) akusztikai és hallásélettani alapismeretek
+
+## b) szubjektív audiometrai eljárások (elmélet és gyakorlati kivitelezés)
+
+## c) objektív audiometrai eljárások (elméleti és gyakorlati kivitelezés)
+
+## d) hallókészülék rendelés és gondozás (elméleti és gyakorlati kivitelezés)
+
+## 4. Szakvizsgára bocsátás egyéb feltételei
+
+## Audiológiai témájú kötelező szintentartó továbbképzési tanfolyamon történő részvétel és sikeres vizsga.
+
+## 3/B. BELGYÓGYÁSZATI ANGIOLÓGIA
+
+## 1. Képzés belépési feltétele: belgyógyászat szakvizsga
+
+## 2. Képzési idő: 84 hó: 60 hó alapképzés + 24 hó ráépített képzés
+
+## 3. Képzési program:
+
+## a) 1 hó intenzív osztályos gyakorlat
+
+## b) 2 hó érsebészeti osztályos gyakorlat
+
+## c) 2 hó intervenciós radiológiai gyakorlat
+
+## d) 2 hó ultrahangos gyakorlat (vascularis color duplex UH )
+
+## e) 1 hó non-invazív érdiagnosztikai vizsgálatok (CT/MR angiographia, kapillármikroszkópia, TCPo2, plethysmographia, laser doppler, CW Doppler)
+
+## f) 1 hó bőrgyógyászati gyakorlat, sebkezelés
+
+## g) 12 hó angiológia osztályos gyakorlat (ezen belül hemorheológiai és haemostaseológiai labordiagnosztika)
+
+## h) 3 hó angiológiai szakambulancia
+
+## 4. Szakvizsgára bocsátás egyéb feltételei
+
+## Klinikai angiológiai tanfolyam végzése.
+
 ## 4. CSECSEMŐ- ÉS GYERMEK FÜL-ORR-GÉGEGYÓGYÁSZAT
 
 ## 1. Képzés belépési feltétele: fül-orr-gégegyógyászat szakvizsga
@@ -968,7 +1016,7 @@
 
 ## Meghatározott számú és típusú vizsgálat, beavatkozás elvégzése
 
-## 27. NŐGYÓGYÁSZATI ONKOLÓGIA
+## 27. NŐGYÓGYÁSZATI DAGANATSEBÉSZET
 
 ## 1. Képzés belépési feltétele: szülészet-nőgyógyászat szakvizsga
 
@@ -1166,7 +1214,11 @@
 
 ## 2. PSZICHOTERÁPIA II.
 
-## 2.1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésből
+## 2.1. Képzés belépési feltétele:
+
+## a) szakvizsga bármely alap szakképesítésből vagy
+
+## b) szakfogorvosi szakképesítés
 
 ## 2.2. Képzési idő: 82-114 hó: 46-78 hó alapképzés + 36 hó ráépített képzés
 

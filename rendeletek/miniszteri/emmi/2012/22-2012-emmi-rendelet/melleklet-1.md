@@ -1,6 +1,6 @@
 ## 17. § Ez a rendelet a szakmai képesítések elismeréséről szóló 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 25. cikkének, 28. cikkének, 35. cikkének és V. melléklete 5.1.2., 5.1.3., 5.1.4. és 5.3.3. pontjának való megfelelést szolgálja.
 
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^5]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^11]
 
 1. Szakorvosi alap szakképesítések
 
@@ -104,95 +104,99 @@
 
 | 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
 
-| 2. | 1. Addiktológia | gyermek- és ifjúságpszichiátria, pszichiátria | (60) +25 hó |
+| 2. | Addiktológia | gyermek- és ifjúságpszichiátria, pszichiátria | (60) + 25 hó |
 
 | 3. | aneszteziológia és intenzív terápia, belgyógyászat, csecsemő- és gyermekgyógyászat, háziorvostan, neurológia, oxyológia és sürgősségi orvostan, tüdőgyógyászat | (36-60) + 25 hó |
 
-| 4. | 2. Allergológia és klinikai immunológia | belgyógyászat, bőrgyógyászat, csecsemő- és gyermekgyógyászat, fül-orr-gégegyógyászat, infektológia, neurológia, reumatológia, sebészet, szemészet, szülészet-nőgyógyászat, transzfuziológia, tüdőgyógyászat | (48-72) +24 hó |
+| 4. | Allergológia és klinikai immunológia | belgyógyászat, bőrgyógyászat, csecsemő- és gyermekgyógyászat, fül-orr-gégegyógyászat, infektológia, neurológia, reumatológia, sebészet, szemészet, szülészet-nőgyógyászat, transzfuziológia, tüdőgyógyászat | (48-72) + 24 hó |
 
-| 5. | 3. Andrológia | urológia | (60) +24 hó |
+| 5. | Andrológia | urológia | (60) + 24 hó |
 
-| 6. | belgyógyászat, bőrgyógyászat, csecsemő- és gyermekgyógyászat, szülészet-nőgyógyászat | (60) +48 hó |
+| 6. | belgyógyászat, bőrgyógyászat, csecsemő- és gyermekgyógyászat, szülészet-nőgyógyászat | (60) + 48 hó |
 
-| 7. | 4. Csecsemő- és gyermek fül-orr-gégegyógyászat | fül-orr-gégegyógyászat | (60) +24 hó |
+| 7. | Audiológia | fül-orr-gégegyógyászat | (60) + 24 hó |
 
-| 8. | 5. Csecsemő- és gyermekgyógyászati intenzív terápia | aneszteziológia és intenzív terápia, csecsemő- és gyermekgyógyászat | (60) +24 hó |
+| 8. | Belgyógyászati angiológia | belgyógyászat | (60) + 24 hó |
 
-| 9. | 6. Csecsemő- és gyermek-kardiológia | csecsemő- és gyermekgyógyászat | (60) +36 hó |
+| 9. | Csecsemő- és gyermek fül-orr-gégegyógyászat | fül-orr-gégegyógyászat | (60) + 24 hó |
 
-| 10. | 7. Diagnosztikus cytológia | patológia | (60) +24 hó |
+| 10. | Csecsemő- és gyermekgyógyászati intenzív terápia | aneszteziológia és intenzív terápia, csecsemő- és gyermekgyógyászat | (60) + 24 hó |
 
-| 11. | 8. Egészségbiztosítás | bármely alap szakképesítés | (36-72) +24 hó |
+| 11. | Csecsemő- és gyermek-kardiológia | csecsemő- és gyermekgyógyászat | (60) + 36 hó |
 
-| 12. | 9. Endokrinológia és anyagcsere-betegségek | belgyógyászat | (60) +24 hó |
+| 12. | Diagnosztikus cytológia | patológia | (60) + 24 hó |
 
-| 13. | csecsemő- és gyermekgyógyászat | (60) +24 hó |
+| 13. | Egészségbiztosítás | bármely alap szakképesítés | (36-72) + 24 hó |
 
-| 14. | szülészet-nőgyógyászat | (60) +24 hó |
+| 14. | Endokrinológia és anyagcsere-betegségek | belgyógyászat | (60) + 24 hó |
 
-| 15. | 10. Gyermek gasztroenterológia | csecsemő- és gyermekgyógyászat | (60) +24 hó |
+| 15. | csecsemő- és gyermekgyógyászat | (60) + 24 hó |
 
-| 16. | 11. Gyermek hemato-onkológia | csecsemő- és gyermekgyógyászat | (60) +36 hó |
+| 16. | szülészet-nőgyógyászat | (60) + 24 hó |
 
-| 17. | 12. Gyermek-neurológia | csecsemő- és gyermekgyógyászat | (60) +24 hó |
+| 17. | Gyermek gasztroenterológia | csecsemő- és gyermekgyógyászat | (60) + 24 hó |
 
-| 18. | neurológia | (60) +24 hó |
+| 18. | Gyermek hemato-onkológia | csecsemő- és gyermekgyógyászat | (60) + 36 hó |
 
-| 19. | 13. Gyermek-nőgyógyászat | szülészet-nőgyógyászat | (60) +36 hó |
+| 19. | Gyermek-neurológia | csecsemő- és gyermekgyógyászat | (60) + 24 hó |
 
-| 20. | 14. Gyermek-radiológia | radiológia | (60) +24 hó |
+| 20. | neurológia | (60) + 24 hó |
 
-| 21. | csecsemő- és gyermekgyógyászat | (60) +30 hó |
+| 21. | Gyermek-nőgyógyászat | szülészet-nőgyógyászat | (60) + 36 hó |
 
-| 22. | 15. Gyermek-tüdőgyógyászat | csecsemő- és gyermekgyógyászat | (60) +25 hó |
+| 22. | Gyermek-radiológia | radiológia | (60) + 24 hó |
 
-| 23. | 16. Igazságügyi pszichiátria | pszichiátria | (60) +36 hó |
+| 23. | csecsemő- és gyermekgyógyászat | (60) + 30 hó |
 
-| 24. | gyermek- és ifjúság-pszichiátria | (60) +36 hó |
+| 24. | Gyermek-tüdőgyógyászat | csecsemő- és gyermekgyógyászat | (60) + 25 hó |
 
-| 25. | 17. Intenzív terápia | belgyógyászat, kardiológia, neurológia, tüdőgyógyászat | (60) +24 hó |
+| 25. | Igazságügyi pszichiátria | pszichiátria | (60) + 36 hó |
 
-| 26. | 18. Iskola-egészségtan és ifjúságvédelem | belgyógyászat, foglalkozás-orvostan | (48-60) +33 hó |
+| 26. | gyermek- és ifjúság-pszichiátria | (60) + 36 hó |
 
-| 27. | csecsemő- és gyermekgyógyászat, háziorvostan | (36-60) +24 hó |
+| 27. | Intenzív terápia | belgyógyászat, kardiológia, neurológia, tüdőgyógyászat | (60) + 24 hó |
 
-| 28. | 19. Kézsebészet | gyermeksebészet, ortopédia és traumatológia (ortopédia, traumatológia), sebészet | (72) +24 hó |
+| 28. | Iskola-egészségtan és ifjúságvédelem | belgyógyászat, foglalkozás-orvostan | (48-60) + 33 hó |
 
-| 29. | 20. Klinikai farmakológia | bármely alap szakképesítés | (36-72) +25 hó |
+| 29. | csecsemő- és gyermekgyógyászat, háziorvostan | (36-60) + 24 hó |
 
-| 30. | 21. Klinikai neurofiziológia | aneszteziológia és intenzív terápia, csecsemő- és gyermekgyógyászat, gyermek- és ifjúság-pszichiátria, idegsebészet, neurológia, pszichiátria | (60-72) +24 hó |
+| 30. | Kézsebészet | gyermeksebészet, ortopédia és traumatológia (ortopédia, traumatológia), sebészet | (72) + 24 hó |
 
-| 31. | 22. Laboratóriumi hematológia és immunológia | orvosi laboratóriumi diagnosztika | (60) +24 hó |
+| 31. | Klinikai farmakológia | bármely alap szakképesítés | (36-72) + 25 hó |
 
-| 32. | transzfuziológia | (48) +24 hó |
+| 32. | Klinikai neurofiziológia | aneszteziológia és intenzív terápia, csecsemő- és gyermekgyógyászat, gyermek- és ifjúság-pszichiátria, idegsebészet, neurológia, pszichiátria | (60-72) + 24 hó |
 
-| 33. | 23. Molekuláris genetikai diagnosztika | igazságügyi orvostan, klinikai genetika, orvosi laboratóriumi diagnosztika, orvosi mikrobiológia, patológia | (60) +24 hó |
+| 33. | Laboratóriumi hematológia és immunológia | orvosi laboratóriumi diagnosztika | (60) + 24 hó |
 
-| 34. | 24. Munkahigiéné | foglalkozás orvostan, megelőző orvostan és népegészségtan | (48) +24 hó |
+| 34. | transzfuziológia | (48) + 24 hó |
 
-| 35. | 25. Neonatológia | csecsemő- és gyermekgyógyászat | (60) +24 hó |
+| 35. | Molekuláris genetikai diagnosztika | igazságügyi orvostan, klinikai genetika, orvosi laboratóriumi diagnosztika, orvosi mikrobiológia, patológia | (60) +24 hó |
 
-| 36. | 26. Neuroradiológia | radiológia | (60) +24 hó |
+| 36. | Munkahigiéné | foglalkozás orvostan, megelőző orvostan és népegészségtan | (48) + 24 hó |
 
-| 37. | 27. Nőgyógyászati onkológia | szülészet-nőgyógyászat | (60) +36 hó |
+| 37. | Neonatológia | csecsemő- és gyermekgyógyászat | (60) + 24 hó |
 
-| 38. | 28. Orvosi rehabilitáció | Mozgásszervi területen: bármely alap szakképesítés | (36-72) +24 hó |
+| 38. | Neuroradiológia | radiológia | (60) + 24 hó |
 
-| 39. | Kardiológia területen: kardiológia | (60) +25 hó |
+| 39. | Nőgyógyászati daganatsebészet | szülészet-nőgyógyászat | (60) + 36 hó |
 
-| 40. | Gyermekgyógyászat területen: csecsemő- és gyermekgyógyászat | (60) +25 hó |
+| 40. | Orvosi rehabilitáció | Mozgásszervi területen: bármely alap szakképesítés | (36-72) + 24 hó |
 
-| 41. | Pszichiátria területen: gyermek- és ifjúságpszichiátria, pszichiátria | (60) +24 hó |
+| 41. | Kardiológia területen: kardiológia | (60) + 25 hó |
 
-| 42. | Pulmonológia területen: tüdőgyógyászat | (60) +25 hó |
+| 42. | Gyermekgyógyászat területen: csecsemő- és gyermekgyógyászat | (60) + 25 hó |
 
-| 43. | 29. Pszichoterápia | gyermek- és ifjúság-pszichiátria, pszichiátria | (60) +24 hó |
+| 43. | Pszichiátria területen: gyermek- és ifjúságpszichiátria, pszichiátria | (60) + 24 hó |
 
-| 44. | bármely alap szakképesítés | (36-72) +36 hó |
+| 44. | Pulmonológia területen: tüdőgyógyászat | (60) + 25 hó |
 
-| 45. | 30. Sportorvostan | bármely alap szakképesítés | (36-72) +24 hó |
+| 45. | Pszichoterápia | gyermek- és ifjúság-pszichiátria, pszichiátria | (60) + 24 hó |
 
-| 46. | 31. Trópusi betegségek | belgyógyászat, infektológia | (60) +24 hó |
+| 46. | bármely alap szakképesítés, szakfogorvosi szakképesítés | (36-72) + 36 hó |
+
+| 47. | Sportorvostan | bármely alap szakképesítés | (36-72) + 24 hó |
+
+| 48. | Trópusi betegségek | belgyógyászat, infektológia | (60) + 24 hó |
 
 3. Szakfogorvosi szakképesítések
 
@@ -322,4 +326,4 @@
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^5]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése szerint módosított szöveg.
+[^11]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
