@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-0
 | 2013-03-01 | 2010-16-20-0B.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-03-02 | 2010-16-20-0B.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-03-03 | 2010-16-20-0B.10 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-11-20 | 2010-16-20-0B.11 | 69/2013. (XI. 19.) EMMI rendelet |

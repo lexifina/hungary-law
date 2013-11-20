@@ -1,14 +1,14 @@
 23. § (1) A képzésüket az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki rendszerről szóló kormányrendelet alapján megkezdők a szakvizsgájukat a felsőfokú szakirányú szakképzésük megkezdésekor hatályos jogszabályi követelmények szerint tehetik le.
 
-(2)[^53]
+(2)[^56]
 
-(3)[^54]
+(3)[^57]
 
-(4)[^55]
+(4)[^58]
 
-(5)[^56]
+(5)[^59]
 
-[^53]: A 23. § (2) bekezdését a 24. § (3) bekezdése hatályon kívül helyezte.
-[^54]: A 23. § (3) bekezdését a 24. § (2) bekezdése hatályon kívül helyezte.
-[^55]: A 23. § (4) bekezdését a 24. § (3) bekezdése hatályon kívül helyezte.
-[^56]: A 23. § (5) bekezdését a 24. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A 23. § (2) bekezdését a 24. § (3) bekezdése hatályon kívül helyezte.
+[^57]: A 23. § (3) bekezdését a 24. § (2) bekezdése hatályon kívül helyezte.
+[^58]: A 23. § (4) bekezdését a 24. § (3) bekezdése hatályon kívül helyezte.
+[^59]: A 23. § (5) bekezdését a 24. § (2) bekezdése hatályon kívül helyezte.
