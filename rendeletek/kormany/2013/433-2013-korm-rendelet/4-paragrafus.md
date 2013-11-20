@@ -1,1 +1,0 @@
-## „(3) Ha az ellenszolgáltatást több részletben teljesíti az ajánlatkérőként szerződést kötő fél vagy a kifizetésre köteles szervezet, minden részlettel kapcsolatban alkalmazni kell az (1) és (2) bekezdést.”
