@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-15-20-5
 | 2012-09-21 | 2012-15-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-09-22 | 2012-15-20-5H.4 | 2010: CXXX. törvény |
 | 2012-10-12 | 2012-15-20-5H.5 | 33/2012. (X. 11.) EMMI rendelet |
+| 2013-11-20 | 2012-15-20-5H.6 | 70/2013. (XI. 19.) EMMI rendelet |
