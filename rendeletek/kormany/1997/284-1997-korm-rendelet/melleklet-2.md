@@ -106,10 +106,12 @@
 
 | 15. | A foglalkoztathatóság szakvéleményezése |  |
 
-|  |  | a) | közfoglalkoztatási jogviszonyhoz szükséges szakvélemény esetén | 1 900 Ft/fő/eset |
+|  |  | a) | közfoglalkoztatási jogviszonyhoz szükséges szakvélemény esetén | 1900 Ft/fő/eset |
 
-|  |  | b) | az a) pontban nem említett esetben | 3 300 Ft/fő/eset |
+|  |  | b) | a büntető ügyben kiszabott közérdekű munka végrehajtásához szükséges szakvélemény esetén | 1900 Ft/fő/eset |
+
+|  |  | c) | az a) és a b) pontban nem említett esetben | 3300 Ft/fő/eset |
 
 | 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
 
-[^22]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
