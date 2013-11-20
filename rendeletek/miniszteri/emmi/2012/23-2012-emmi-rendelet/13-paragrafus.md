@@ -2,8 +2,10 @@
 
 13. § (1) A 3. § (1) bekezdése szerinti kérelmet e rendelet hatálybalépését követően lehet benyújtani.
 
-(2) Az e rendelet hatálybalépését megelőzően valamely e rendelet szerint megszerezhető licenc tartalmával megegyező kompetenciabővítő továbbképzést elvégzett személy a megszerzett jogosultságot a továbbiakban is gyakorolhatja az e rendeletben meghatározott feltételek mellett, amennyiben
+(2)[^25] Az új licenc képzés bevezetésétől számított 1 éven belül a bevezetést megelőzően
 
-a) az ESZTT elnöke nyilatkozik arról, hogy a szakorvos által elvégzett továbbképzés tartalma teljes egészében megfeleltethető a licenc képzés e rendeletben meghatározott tartalmának és
+a) a licenc tartalmával megegyező kompetenciabővítő továbbképzést elvégzett személy vagy
 
-b) az a) pontban foglalt nyilatkozat alapján a licenc a működési nyilvántartásban feltüntetésre kerül.
+b) az adott szakterületen legalább a licenc képzés időtartama háromszoros idejének megfelelő gyakorlattal rendelkező személy
+
+[^25]: A 13. § (2) bekezdése a 69/2013. (XI. 19.) EMMI rendelet 17. §-ával megállapított szöveg.

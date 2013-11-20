@@ -1,9 +1,6 @@
-## 14–15. §[^16]
+## 14–15. §[^26]
 
-1. melléklet a 23/2012. (IX. 14.) EMMI rendelethez
+1. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^27]
 
-A szakorvosok, szakfogorvosok, szakgyógyszerészek és szakpszichológusok által megszerezhető licencek
-
-(az egészségügyért felelős miniszter által befogadott licenc képzések tevékenységi köreire és szakmai feltételekre vonatkozó rendelkezések a 3. § (5) bekezdése szerinti döntést követően kerülnek e mellékletbe)
-
-[^16]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 1. melléklet a 69/2013. (XI. 19.) EMMI rendelet 19. § (1) bekezdésével megállapított szöveg.

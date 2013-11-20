@@ -10,9 +10,9 @@ c) az egészségügy területén működő egyesület
 
 ## terjeszthet elő.
 
-(2) Az (1) bekezdés szerinti kezdeményezést az Egészségügyi Szakképzési és Továbbképzési Tanácshoz (a továbbiakban: ESZTT) kell benyújtani.
+(2)[^7] Az (1) bekezdés szerinti kezdeményezést az egészségügyért felelős miniszternek (a továbbiakban: miniszter) kell benyújtani.
 
-(3)[^2] A kezdeményezésnek tartalmaznia kell:
+(3)[^8] A kezdeményezésnek tartalmaznia kell:
 
 a) a licenc képzés célját annak indoklásával, hogy miért szükséges az adott licenc képzés bevezetése,
 
@@ -30,13 +30,18 @@ g) a gyakorlati képzőhelyek követelményeinek meghatározását,
 
 h) javaslatot a vizsgáztatók személyére,
 
-i) a szakmai kollégium illetékes tagozatainak egyetértő nyilatkozatát.
+i) a szakmai kollégium illetékes tagozatainak egyetértő nyilatkozatát,
+
+j)[^9] a licenc képzés – 1. § d)–f) pontja szerint meghatározott – típusát.
 
 (4) Az (1) bekezdés c) pontja szerinti kezdeményezés mellékleteként csatolni kell legalább egy egyetem támogató nyilatkozatát a licenc képzés elfogadásával kapcsolatosan.
 
-(5) A licenc képzés bevezetésére tett javaslatokról az ESZTT kezdeményezésére az egészségügyért felelős miniszter (a továbbiakban: miniszter) dönt.
+(5)[^10] A licenc képzés bevezetésére tett javaslatokról a miniszter dönt.
 
-(6)[^3] Nem fogadható el licencként olyan javaslat, amely nem felel meg a 2. § (2) bekezdésében meghatározott feltételeknek.
+(6)[^11] Nem fogadható el licencként olyan javaslat, amely nem felel meg a 2. § (2) bekezdésében meghatározott feltételeknek.
 
-[^2]: A 3. § (3) bekezdés nyitó szövegrésze a 2/2013. (I. 2.) EMMI rendelet 43. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § (6) bekezdése a 2/2013. (I. 2.) EMMI rendelet 43. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 69/2013. (XI. 19.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés nyitó szövegrésze a 2/2013. (I. 2.) EMMI rendelet 43. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdés j) pontját a 69/2013. (XI. 19.) EMMI rendelet 15. § (1) bekezdése iktatta be.
+[^10]: A 3. § (5) bekezdése a 69/2013. (XI. 19.) EMMI rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (6) bekezdése a 2/2013. (I. 2.) EMMI rendelet 43. § b) pontja szerint módosított szöveg.
