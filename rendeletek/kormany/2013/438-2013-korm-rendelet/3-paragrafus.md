@@ -1,0 +1,9 @@
+## 2. § Az egészségügyi szolgáltató a konszolidációs támogatást kizárólag a 2013. október 31-ig lejárt szállítói tartozása csökkentésére fordíthatja és 2013. december 31-éig használhatja fel. A fel nem használt összeget az egészségügyi szolgáltató az Egészségbiztosítási Alap részére 2014. január 31-ig köteles visszatéríteni.
+
+3. § (1) A konszolidációs támogatás jogszerű felhasználását a Kormányzati Ellenőrzési Hivatal (a továbbiakban: KEHI) a Kormányzati Ellenőrzési Hivatalról szóló 355/2011. (XII. 30.) Korm. rendelet 6. §-ában meghatározott hatáskörében eljárva 2014. április 30-ig ellenőrzi. Az egészségügyi szolgáltató köteles a konszolidációs támogatás felhasználását alátámasztó valamennyi dokumentumot megőrizni a számvitelre vonatkozó törvényben meghatározott ideig, és azokat a KEHI ellenőrzéséhez rendelkezésre bocsátani. Az ellenőrzés eredményéről a KEHI 2014. május 31-ig tájékoztatja az egészségbiztosításért felelős minisztert (a továbbiakban: miniszter).
+
+(2) A jogosulatlanul felhasznált visszatérítendő összeg mértékét és a visszatérítés határidejét az (1) bekezdés szerinti tájékoztatás alapján a miniszter állapítja meg. A visszatérítésre kötelezést a visszatérítésre kötelezett egészségügyi szolgáltatóval és az Országos Egészségbiztosítási Pénztárral (a továbbiakban: finanszírozó) közölni kell.
+
+(3) A fel nem használt és határidőre vissza nem térített, valamint a jogosulatlanul felhasznált konszolidációs támogatást az egészségügyi szolgáltató a 2014. január 31-i határidő lejártát követő időszakra számított, a 2014. január 31-én érvényes jegybanki alapkamat kétszeresével növelt összegben köteles visszafizetni.
+
+(4) A visszatérítés határidejének eredménytelen elteltét követően a finanszírozó jogosult a kamattal növelt visszatérítendő összeget három egyenlő részletben levonni az egészségügyi szolgáltató részére esedékes havi finanszírozási összegből.
