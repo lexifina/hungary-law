@@ -1,0 +1,1 @@
+## „(5) Az észrevételt a támogató a beérkezését követő 15 napon belül megvizsgálja és a megalapozott észrevételeknek megfelelően az (1) bekezdés szerinti pontszámokat módosítja. A támogató a módosított pontszámok alapján meghozott támogatási döntését március 15-éig a honlapján közzéteszi.”
