@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. visszavonja a H. 9. és 10. pontját.
+## 2.[^1]
 
 1. melléklet az 1868/2013. (XI. 19.) Korm. határozathoz
 
@@ -51,3 +51,5 @@
 | Egészégbiztosítási Alap gyógyító-megelőző ellátás | 3 900,0 |
 
 | Együtt | 53 760,3 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
