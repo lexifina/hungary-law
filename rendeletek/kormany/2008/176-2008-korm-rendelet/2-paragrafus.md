@@ -18,7 +18,9 @@ f)[^9] költségoptimalizált szint: az energiahatékonyság azon szintje, amely
 
 g)[^10] önálló rendeltetési egység: az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott fogalom;
 
-h)[^11] épület energiahatékonysága: az épület szokásos használatához kapcsolódó energiaszükséglet számított vagy mért mennyisége, amely többek között magába foglalja a fűtéshez, a hűtéshez, a szellőztetéshez, a melegvíz-ellátáshoz szükséges energiát.
+h)[^11] épület energiahatékonysága: az épület szokásos használatához kapcsolódó energiaszükséglet számított vagy mért mennyisége, amely többek között magába foglalja a fűtéshez, a hűtéshez, a szellőztetéshez, a melegvíz-ellátáshoz szükséges energiát;
+
+i)[^12] hatósági rendeltetésű épület: olyan épület, amelyben a hasznos alapterület több mint 50%-át állami vagy önkormányzati szervek igazgatási célú feladat ellátására használják.
 
 [^6]: A 2. § a) pontját a 322/2012. (XI. 16.) Korm. rendelet 46. §-a hatályon kívül helyezte.
 [^7]: A 2. § d) pontja a 196/2009. (IX. 15.) Korm. rendelet 54. §-ával megállapított szöveg.
@@ -26,3 +28,4 @@ h)[^11] épület energiahatékonysága: az épület szokásos használatához ka
 [^9]: A 2. § f) pontját a 105/2012. (V. 30.) Korm. rendelet 3. §-a iktatta be.
 [^10]: A 2. § g) pontját a 105/2012. (V. 30.) Korm. rendelet 3. §-a iktatta be.
 [^11]: A 2. § h) pontját a 105/2012. (V. 30.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A 2. § i) pontját a 440/2013. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
