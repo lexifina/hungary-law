@@ -1,3 +1,3 @@
-## 5. § Az R1. 7. alcíme a következő 17. §-sal egészül ki:
+## 5. §[^2]
 
-## „17. § Az elsőfokú tűzvédelmi hatóság az egyes tűzvédelmi tárgyú kormányrendeletek módosításáról szóló 435/2013. (XI. 19.) Korm. rendelet (a továbbiakban: MódR.) hatálybalépését megelőzően hozott, a kéményseprő-ipari közszolgáltatásról szóló törvény végrehajtásáról szóló 347/2012. (XII. 11.) Korm. rendelet 1. § (2) bekezdés c)–e) vagy g) pontjára alapozott döntését hivatalból, a MódR. hatálybalépését követő 60 napon belül felülvizsgálja. Ha az elsőfokú tűzvédelmi hatóság a felülvizsgálat eredményeként megállapítja, hogy a kéményseprő-ipari közszolgáltatásról szóló törvény végrehajtásáról szóló 347/2012. (XII. 11.) Korm. rendelet MódR.-rel megállapított 1. §-ában meghatározott körülmények nem állnak fenn, akkor döntését módosítja vagy visszavonja.”
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
