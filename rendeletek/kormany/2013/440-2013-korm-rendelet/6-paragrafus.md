@@ -1,0 +1,1 @@
+6. § Az 1. § az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv 11. cikk (5) bekezdésének és 20. cikk (1) és (2) bekezdésének való megfelelést szolgálja.
