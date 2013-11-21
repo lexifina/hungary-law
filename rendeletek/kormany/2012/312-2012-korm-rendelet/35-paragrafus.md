@@ -14,7 +14,7 @@ c) az országos építési követelményektől való eltérés engedélyezési e
 
 a) a telepítési engedélyben tett kikötés, feltétel teljesítésének igazolását,
 
-b)[^23] az építési beruházás megvalósításához még szükséges a 29. § (1) bekezdés c)–g) pontja szerinti önálló eljárásban kiadott jogerős engedély megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
+b)[^24] az építési beruházás megvalósításához még szükséges a 29. § (1) bekezdés c)–g) pontja szerinti önálló eljárásban kiadott jogerős engedély megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
 
 c) az Étv. 53/F. § (1) bekezdésében meghatározott kereskedelmi építmény létesítése esetén az Étv. 53/F. § (2) bekezdése szerinti felmentést,
 
@@ -100,4 +100,4 @@ a) a jogerős döntést követően haladéktalanul tájékoztatást ad az ÉTDR 
 
 b) jogerőre emelkedésére tekintet nélkül a Ket. szabályai szerint nyilvánosan közzéteszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést és a szakhatósági állásfoglalást, amit az építésügyi hatósági engedély iránti kérelem tárgyában olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi, természetvédelmi és vízügyi felügyelőség a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^23]: A 35. § (3) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés f) pontja szerint módosított szöveg.
+[^24]: A 35. § (3) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés f) pontja szerint módosított szöveg.

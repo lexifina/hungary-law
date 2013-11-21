@@ -6,7 +6,7 @@
 
 36. § (1) Az OTÉK IV. Fejezetében foglalt előírásoktól eltérő műszaki megoldás tervezése esetén az országos építési követelményektől való eltérés engedélyezésére az OTÉK 111. § (4) bekezdésében foglaltak tekintetében – figyelemmel a természeti erőforrások fenntarthatóságának biztosítására vonatkozó követelményekre – az építésügyi hatóságtól engedély kérhető.
 
-(2)[^24] Az országos építési követelményektől való eltérés engedélyezése iránti kérelmet elő lehet terjeszteni
+(2)[^25] Az országos építési követelményektől való eltérés engedélyezése iránti kérelmet elő lehet terjeszteni
 
 a) önálló kérelemként,
 
@@ -32,4 +32,4 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^24]: A 36. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 65. § (3) bekezdésével megállapított szöveg.
+[^25]: A 36. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 65. § (3) bekezdésével megállapított szöveg.

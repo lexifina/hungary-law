@@ -16,9 +16,9 @@ f) az építési műszaki ellenőr nevét, lakcímét, névjegyzéki számát,
 
 g) az építmény rendeltetését, jellegét,
 
-h)[^75] az építési engedély számát.
+h)[^76] az építési engedély számát.
 
-i)[^76]
+i)[^77]
 
 (2) Az építésfelügyeleti hatóság az 58. § (4) bekezdése szerinti ellenőrzésen a jegyzőkönyvében a szabálytalan állapotról ábrázolást vagy rajzot és fényképfelvételt készít.
 
@@ -26,5 +26,5 @@ i)[^76]
 
 (4) A hatósági ellenőrzésről készült jegyzőkönyvet az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendelet szerint az OÉNY-ben kell rögzíteni.
 
-[^75]: A 64. § (1) bekezdés h) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés n) pontja szerint módosított szöveg.
-[^76]: A 64. § (1) bekezdés i) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés f) pontja hatályon kívül helyezte.
+[^76]: A 64. § (1) bekezdés h) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés n) pontja szerint módosított szöveg.
+[^77]: A 64. § (1) bekezdés i) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés f) pontja hatályon kívül helyezte.
