@@ -1,7 +1,3 @@
-## XIV. Fejezet
-
-## ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK
-
 ## Hatálybalépés
 
 65. § (1) E törvény – a (2)–(3) bekezdésben meghatározott eltéréssel – 2009. november 1-jén lép hatályba.

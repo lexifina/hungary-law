@@ -14,4 +14,6 @@ vonatkoznak.
 
 (2) Ha az ügyfél fogyasztó vagy mikrovállalkozás, a II–III. és V–VI. Fejezet rendelkezéseitől hátrányukra eltérni nem lehet.
 
+(2a) Ha az ügyfél fogyasztó, a 36/A. § rendelkezéseitől hátrányára eltérni nem lehet.
+
 (3) A felek a IV. Fejezet rendelkezéseitől nem térhetnek el.
