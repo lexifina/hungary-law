@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Koszovói Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Pristinában, 2013. október 3-án aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
