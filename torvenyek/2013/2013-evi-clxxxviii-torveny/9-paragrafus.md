@@ -1,0 +1,1 @@
+9. § Amennyiben a számlát a szolgáltatóval kötött szerződés alapján egy másik vállalkozás állítja ki, úgy e törvény előírásainak megtartásáért egyetemleges felelősség terheli a szolgáltatót és a vállalkozást.
