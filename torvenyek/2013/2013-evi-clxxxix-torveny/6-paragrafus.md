@@ -1,7 +1,5 @@
 6. § Hatályát veszti a Pft.
 
-a) 36/A. § (1) bekezdés a) pontja,
+a)–b)
 
-b) 66/B. § (2) bekezdése és
-
-c) 66/B. § (3)–(4) bekezdése.
+c)
