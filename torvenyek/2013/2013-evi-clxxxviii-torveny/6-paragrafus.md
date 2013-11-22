@@ -1,1 +1,0 @@
-6. § A hulladékgazdálkodási közszolgáltató által a természetes személy ingatlanhasználó, valamint a társasház és a lakásszövetkezet részére kiállított számlák tekintetében alkalmazható számlaképre vonatkozó részletes előírásokat a 11. melléklet tartalmazza.

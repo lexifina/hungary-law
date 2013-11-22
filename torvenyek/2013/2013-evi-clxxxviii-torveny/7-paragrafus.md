@@ -1,1 +1,0 @@
-7. § A kéményseprő-ipari közszolgáltató által a természetes személy tulajdonában lévő ingatlanokat érintő számlák tekintetében alkalmazható számlaképekre vonatkozó részletes előírásokat a 12. melléklet tartalmazza.
