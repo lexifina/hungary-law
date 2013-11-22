@@ -1,0 +1,1 @@
+146/I. § A Hivatal elnöke által kiadott rendeletben meghatározott, 104/A. § szerinti árszabályozási ciklus kezdőidőpontjáig az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény hatálybalépésekor folyamatban lévő árszabályozási ciklus meghosszabbodik.
