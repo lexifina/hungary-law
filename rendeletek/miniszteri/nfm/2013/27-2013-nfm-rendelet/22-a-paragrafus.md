@@ -1,4 +1,4 @@
-## 8/A. [^7] UD rendszer működtetése és kapcsolódó feladatok (17-20-32-3, ÁHT: 341573)
+## 8/A. [^9] UD rendszer működtetése és kapcsolódó feladatok (17-20-32-3, ÁHT: 341573)
 
 22/A. § (1) Az előirányzat célja fedezet biztosítása a megtett úttal arányos díjszedési rendszer (a továbbiakban: UD rendszer) működtetésével összefüggésben
 
@@ -32,4 +32,4 @@ kapcsolatban felmerülő kiadásokra.
 
 (7) Az előirányzat kezelő szerve a KKK. Az előirányzat pénzügyi lebonyolítására szolgáló számla felett a KKK rendelkezési joggal bír. Az előirányzatnak a (1) bekezdés g) és h) pontjában meghatározott feladatokra történő felhasználását kivéve a KKK végzi a kötelezettségvállalással kapcsolatos feladatokat, a szakmai teljesítésigazolást, az érvényesítést és az utalványozást, valamint az előirányzattal kapcsolatos könyvvezetési feladatokat és részt vesz a forrás felhasználásának az ellenőrzésében.
 
-[^7]: A 8/A. alcímet (22/A. §) a 44/2013. (VII. 25.) NFM rendelet 4. §-a iktatta be.
+[^9]: A 8/A. alcímet (22/A. §) a 44/2013. (VII. 25.) NFM rendelet 4. §-a iktatta be.

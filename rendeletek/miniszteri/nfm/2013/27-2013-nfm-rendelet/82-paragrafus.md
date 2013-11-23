@@ -1,6 +1,6 @@
-## 80–81. §[^24]
+## 80–81. §[^28]
 
-## 82. §[^25] A
+## 82. §[^29] A
 
 a) 22. § (1) bekezdése és az 53. § (2) bekezdés a)–i) pontjai a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló, 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379., 2006.12.28., 5–10. o.),
 
@@ -10,5 +10,5 @@ c) 20. § és a 48. § (2) bekezdése az Európai Unió működéséről szóló
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^24]: A 80–81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 82. § a 44/2013. (VII. 25.) NFM rendelet 9. §-ával megállapított szöveg.
+[^28]: A 80–81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 82. § a 44/2013. (VII. 25.) NFM rendelet 9. §-ával megállapított szöveg.
