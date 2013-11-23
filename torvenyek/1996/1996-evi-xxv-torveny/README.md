@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-25-00-00
 | 2013-01-01 | 2012. évi XCIII. törvény | 1996-25-00-00.17 |
 | 2013-04-01 | 2013. évi XXVII. törvény | 1996-25-00-00.18 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1996-25-00-00.19 |
+| 2013-11-23 | 35/2013. (XI. 22.) AB határozat | 1996-25-00-00.20 |
