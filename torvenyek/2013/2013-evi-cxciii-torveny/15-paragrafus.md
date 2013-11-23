@@ -1,0 +1,1 @@
+15. § Az Országgyűlés jóváhagyja, hogy a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény végrehajtásáról szóló 2012. évi CLV. törvény 10. §-ában és 12. §-ában előírt megtérítési, visszautalási kötelezettségek teljesítése megtörtént.

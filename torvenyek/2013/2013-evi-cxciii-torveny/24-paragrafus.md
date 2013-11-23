@@ -1,0 +1,1 @@
+24. § Az Országgyűlés megállapítja, hogy a Kvtv. 76. § (1) bekezdése szerinti letéti számlára a megyei önkormányzatok 2012. január 15-éig 27 795,2 millió forintot fizettek be. A Kvtv. 76. § (3) bekezdésében meghatározott kötelezettségek teljesítése után a kincstár a letéti számla 23,9 millió forint záró egyenlegét a KESZ-re átutalja.
