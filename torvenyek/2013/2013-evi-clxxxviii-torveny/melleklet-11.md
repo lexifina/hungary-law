@@ -301,3 +301,9 @@ Tájékoztató adatok:
 4.8. Tétel megnevezése a harmadik oldalon: Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható.
 
 4.9. Teljesítés kelte: Az általános forgalmi adóról szóló törvény rendelkezései alapján nem kell feltüntetni, ha az megegyezik a számla kibocsátásának keltével.
+
+4.10. Alapdíj, ürítési díj: ha az elszámolási időszakban különböző alapdíjak, vagy ürítési díjak (ide értve például a zsákos elszállítást, stb. is) alkalmazására kerül sor, az egyes alapdíjakat és ürítési díjakat külön sorban kell feltüntetni.
+
+4.11. Rezsicsökkentéssel nem érintett alapdíj, ürítési díj: kizárólag társasház vagy lakásszövetkezet részére kiállított számlán kell feltüntetni ezeket a sorokat, ha a hulladékról szóló törvény 91. § (3) bekezdésében foglalt tájékoztatás alapján, ilyen tétel felmerül a nem természetes személy ingatlanhasználókra tekintettel.
+
+4. 12. Az egyes tételek szerinti sorok feltüntetése kizárólag akkor szükséges, ha az adott tételhez érték tartozik.
