@@ -1,0 +1,1 @@
+Az Országgyűlés a jelentős gazdasági károkat okozó és a közszolgáltatások biztonságát, továbbá az élet- és vagyonbiztonságot fenyegető fémlopások és illegális fémkereskedelem visszaszorítása, valamint a kulturális javak védelme érdekében a következő törvényt alkotja:
