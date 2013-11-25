@@ -2,12 +2,6 @@
 
 (2) Hatályát veszti a 4. § (5) bekezdése az e törvény hatálybalépését követő 4. hónap első napján.
 
-Áder János s. k.,köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2013. évi CXL. törvényhez
 
 A törvény 2. § (1) bekezdés 1. pontjában megjelölt fémek felsorolása
