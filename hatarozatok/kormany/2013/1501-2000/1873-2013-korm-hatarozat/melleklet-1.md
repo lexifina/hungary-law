@@ -18,6 +18,8 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1078/2013. (II. 21.) Korm. határozat 1. pontjában a „2013. december 20.” szövegrész helyébe a „2014. június 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1873/2013. (XI. 25.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 2. pontja alapján hatályát vesztette.
