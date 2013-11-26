@@ -1,4 +1,4 @@
-18. § (1) Hatályát veszti az egyes fémek begyűjtésével és értékesítésével összefüggő visszaélések visszaszorításáról szóló 2009. évi LXI. törvény.
+18. § (1)
 
 (2) Hatályát veszti a 4. § (5) bekezdése az e törvény hatálybalépését követő 4. hónap első napján.
 
