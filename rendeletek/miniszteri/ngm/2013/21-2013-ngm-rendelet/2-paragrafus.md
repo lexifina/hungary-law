@@ -1,4 +1,4 @@
-## 1. § A szakképzési hozzájárulási kötelezettségnek az e rendelet alapján elszámolható költségekkel történő csökkentése – a felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) 21. § (2) bekezdés b) pontja alapján – állami támogatásnak minősül, amelyre a 800/2008/EK bizottsági rendelet I. fejezetében, illetve II. fejezet 8. szakaszában foglaltak megfelelően irányadóak.
+## 1. §[^1] A szakképzési hozzájárulási kötelezettségnek az e rendelet alapján elszámolható költségekkel történő csökkentése – a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 23. § (1) bekezdés c) pontja alapján – állami támogatásnak minősül, amelyre a 800/2008/EK bizottsági rendelet I. fejezetében, illetve a II. fejezet 8. szakaszában foglaltak megfelelően irányadóak.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -10,11 +10,11 @@ c) speciális képzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontjába
 
 d) áthúzódó képzés: az a képzés, amelyet a hozzájárulásra kötelezett több tárgyévet érintően valósít meg;
 
-e) belső képzés: az Fktv. 29. § 13. pontjában meghatározott képzés;
+e)[^2] belső képzés: az Fktv. 2. § 2. pontjában meghatározott képzés;
 
-f) külső képzés: az a képzés, amelyet a hozzájárulásra kötelezett saját munkavállalói részére, teljes egészében saját szervezetétől elkülönült, az Fktv. szerint akkreditált felnőttképzési intézmény (a továbbiakban: képző intézmény) közreműködésével – szolgáltatási szerződés alapján – valósít meg;
+f)[^3] külső képzés: az a képzés, amelyet a hozzájárulásra kötelezett saját munkavállalói részére, teljes egészében saját szervezetétől elkülönült, az Fktv. szerinti engedéllyel rendelkező felnőttképzést folytató intézmény (a továbbiakban: képző intézmény) közreműködésével – szolgáltatási szerződés alapján – valósít meg, figyelembe véve az Fktv. 30. § (1) bekezdésében foglaltakat is;
 
-g) vegyes képzés: az a képzés, amelyet a hozzájárulásra kötelezett saját munkavállalói részére részben külső képzésként, részben belső képzésként valósít meg;
+g)[^4]
 
 h) hátrányos helyzetű munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 18. pontjában meghatározott munkavállaló;
 
@@ -25,3 +25,8 @@ j) mikro-, kis- és középvállalkozás: az a vállalkozás, amely a tárgyév 
 k) támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: 37/2011. Korm. rendelet) 2. § 15. pontjában meghatározott fogalom;
 
 l) támogatástartalom: a 37/2011. Korm. rendelet 2. § 19. pontjában meghatározott fogalom.
+
+[^1]: Az 1. § az 52/2013. (XI. 25.) NGM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § e) pontja az 52/2013. (XI. 25.) NGM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § f) pontja az 52/2013. (XI. 25.) NGM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § g) pontját az 52/2013. (XI. 25.) NGM rendelet 9. § a) pontja hatályon kívül helyezte.

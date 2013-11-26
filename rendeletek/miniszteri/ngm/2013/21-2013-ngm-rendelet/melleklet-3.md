@@ -2,9 +2,9 @@
 
 ## a képzésre vonatkozóan
 
-## 1. A hozzájárulásra kötelezett neve:
+## 1. A hozzájárulásra kötelezett neve
 
-## 2. Adószáma:
+## 2. Adószáma
 
 ## 3. Az elszámolt képzés megnevezése:
 
@@ -12,71 +12,79 @@
 
 ## a) OKJ-ben szereplő képzés esetén OKJ azonosítószám:
 
-## b) akkreditált képzési program alapján folytatott képzés esetén akkreditációs lajstromszám:
+## b) nyilvántartásba vett egyéb szakmai képzés esetén annak nyilvántartásba vételi száma:
 
-## 5. A képzés áthúzódó képzés: igen nem
+## c) nyilvántartásba vett egyéb nyelvi képzés esetén annak nyilvántartásba vételi száma:
+
+## 5. A képzés áthúzódó képzés: igen nem
 
 ## 6. A képzés időtartama: ............... év ............................ hótól ............... év .......................... hóig.
 
-## 7. A képzést folytató intézmény neve:
+## 7. Az engedéllyel rendelkező képző intézmény
+
+## neve:
 
 ## címe:
 
-## akkreditációs lajstromszáma:
+## nyilvántartásba vételi száma:
 
 ## 8. A képzés típusa: általános képzés (Á) speciális képzés (S)*
 
-## 9. A képzés formája: belső (B) külső (K) vegyes (V)*
+## 9. A képzés formája: belső (B) külső (K)*
 
-## 10. A képzés jellege:
+## 10. A képzés jellege az Fktv. 1. § (2) bekezdése alapján:*
 
-## a) szakmai képzés,
+## a) a szakképzésről szóló törvény szerinti, állam által elismert szakképesítés (OKJ szerinti szakképesítés) megszerzésére irányuló szakmai képzés (OKJ),
 
-## b) nyelvi képzés,
+## b) az a) pont hatálya alá nem tartozó, támogatott egyéb szakmai képzés (TESZ),
 
-## c) közúti közlekedési szolgáltatást végző gazdálkodó szervezetek által vezetői engedélyek megszerzését célzó képzés, illetve továbbképzés.*
+## c) általános nyelvi képzés és támogatott egyéb nyelvi képzés (NY),
 
-## 11. A képzésben részt vevő saját munkavállalók létszáma: .......................................... fő
+## d) az a)–c) pont hatálya alá nem tartozó, támogatott egyéb képzés (TE),
 
-## ebből – a fogyatékossággal élő munkavállalók létszáma: ....................................... fő
+## e) közúti közlekedési szolgáltatást végző gazdálkodó szervezetek által vezetői engedélyek megszerzését célzó képzés, illetve továbbképzés (K).
 
-## – a hátrányos helyzetű munkavállalók létszáma: ........................................................ fő
+## 11. A képzésben részt vevő saját munkavállalók létszáma: fő
 
-## 12. A képzés összes óraszáma: ....................................... óra (100%)
+## ebből – a fogyatékossággal élő munkavállalók létszáma: fő
 
-## 13. Az általános képzés óraszáma: ..................................... óra, aránya: .....................%
+## – a hátrányos helyzetű munkavállalók létszáma: fő
 
-## 14. A speciális képzés óraszáma: ..................................... óra, aránya: ........................%
+## 12. A képzés összes óraszáma: óra (100%)
 
-## 15. A képzés tárgyévben elszámolt óraszáma: ........................ óra
+## 13. Az általános képzés óraszáma: óra, aránya: .........................%
 
-## 16. A képzésnek a 9. § szerinti összes elszámolható költsége: ........................................ Ft
+## 14. A speciális képzés óraszáma: óra, aránya: ..........................%
 
-## 17. A képzésre érvényesítendő támogatási intenzitás mértéke: .....................................%
+## 15. A képzés tárgyévben elszámolt óraszáma: óra
 
-## 18. A támogatási intenzitás alapján számított támogatási összeg: ............................... Ft
+## 16. A képzésnek a 9. § szerinti összes elszámolható költsége: Ft
 
-## 19. A képzés fajlagos támogatása: ..................... Ft/fő/óra ..................... Ft/fő/képzés
+## 17. A képzésre érvényesítendő támogatási intenzitás mértéke: %
+
+## 18. A támogatási intenzitás alapján számított támogatási összeg: Ft
+
+## 19. A képzés fajlagos támogatása: Ft/fő/óra Ft/fő/képzés
 
 ## 20. A képzésre elszámolt, illetve elszámolni kívánt támogatási összegből:
 
-## a) a tárgyévben igénybe vett támogatási összeg: ........................................................................... Ft
+## a) a tárgyévben igénybe vett támogatási összeg Ft
 
-## b) az előző évben (években) igénybe vett támogatási összeg: .................................................. Ft
+## b) az előző évben (években) igénybe vett támogatási összeg: .Ft
 
-## c) a következő évben (években) igénybe venni kívánt támogatási összeg: ......................... Ft
+## c) a következő évben (években) igénybe venni kívánt támogatási összeg Ft
 
 ## .............................., 20 ........ év ............................... hó ....... nap
 
+## * A megfelelő rész aláhúzandó
+
 ## P. H.
 
-## ........................................................................................
+## .........................................................................................
 
 ## a hozzájárulásra kötelezett cégszerű aláírása
 
-## * A megfelelő válasz aláhúzandó!
-
-3. melléklet a 21/2013. (VI. 18.) NGM rendelethez
+3. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^18]
 
 Nyilvántartás a szakképzési hozzájárulási kötelezettséget saját munkavállalóik képzésére fordító kötelezettek által,
 
@@ -90,7 +98,7 @@ a ... NGM rendelet szerint benyújtott elszámolásokról
 
 | tárgyévben igénybe vett támogatás összege | előző években igénybe vett támogatás összege | következő években igénybe venni kívánt támogatás összege |
 
-|  |  | Megnevezése, címe | Cégjegyzék száma | Adószáma | Statisztika számjele | Mikro- kis-vagy középvállalozás M/Ki/Kö/E | Ft | Fő | Ft | Ft | db |  | OKJ / lajstrom | I/N | év hó | év hó | Megnevezése | Lajstromszáma | Á/S | B/K/V | SZ / NY / K | Fő | Fő | Fő | óra | % | % | óra | Ft | % | Ft | Ft/fő/óra | Ft/fő/képzés | Ft | Ft | Ft |
+|  |  | Megnevezése, címe | Cégjegyzék száma | Adószáma | Statisztika számjele | Mikro- kis-vagy középvállalozás M/Ki/Kö/E | Ft | Fő | Ft | Ft | db |  | OKJ / nyilvántartási | I/N | év hó | év hó | Megnevezése | Nyilvántartási száma | Á/S | B/K | OKJ/TESZ/NY/TE/K | Fő | Fő | Fő | óra | % | % | óra | Ft | % | Ft | Ft/fő/óra | Ft/fő/képzés | Ft | Ft | Ft |
 
 | 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -101,3 +109,5 @@ A táblázatot a benyújtott 1. és 2. melléklet alapján kell kitölteni. A t�
 A nyilvántartást készítő neve: …………………………………………………………….., telefonszáma: ………………………..
 
 Kelt: …………………………………………., 20.. . év ………………………… hó ……………………….. nap
+
+[^18]: A 3. melléklet az 52/2013. (XI. 25.) NGM rendelet 8. §-a szerint módosított szöveg.
