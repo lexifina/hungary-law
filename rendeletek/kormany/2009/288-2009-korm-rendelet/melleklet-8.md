@@ -148,6 +148,6 @@
 
 | 2203 | Gyógynövény felvásárlás | (1) Gyógynövények és fűszernövények felvásárlása (termesztett, vadon termő, import) (2) Értékesítése mennyiségben (nyers és drog kg) főbb növényenként (virág, levél, fű, gyökér, mag-termés, vegyes) |
 
-8. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^20]
+8. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^19]
 
-[^20]: A 8. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 8. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

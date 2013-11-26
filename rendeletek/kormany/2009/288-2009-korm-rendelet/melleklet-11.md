@@ -56,6 +56,6 @@
 
 | 2245 | Szolgáltatások negyedéves adatszolgáltatása, BPM6 (R54) | (1) Szolgáltatások negyedéves adatszolgáltatása (KSH-tól negyedéves szolgáltatások adatok) a) instrumentumonként b) országbontásban c) tranzakciók bevétele szerint d) tranzakciók kiadása szerint |
 
-11. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^23]
+11. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^22]
 
-[^23]: A 11. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 11. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -148,6 +148,6 @@
 
 | 2252 | Légiközlekedési szakszemélyzet adatai | (1) A légiközlekedési szakszemélyzet képesítéseire vonatkozó adatok a) szakszolgálati engedély kategóriák és jogosítások típusai b) Magyarországon kiadott szakszolgálati engedélyek és jogosítások c) érvényes szakszolgálati engedélyek és jogosítások d) más állam által kiadott, elismert vagy konvertált szakszolgálati engedélyek és jogosítások éves adatai e más állam által kiadott, elismert vagy konvertált szakszolgálati engedélyek és jogosítások összesített adatai (2) A légiközlekedési szakszemélyzet képzésére rendelkezésre álló kapacitás adatai a) képző szervezetek száma b) képző szervezetek számának várható alakulása c) a férőhelyek számának várható alakulása |
 
-6. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^18]
+6. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^17]
 
-[^18]: A 6. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^17]: A 6. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

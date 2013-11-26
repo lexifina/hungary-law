@@ -42,6 +42,6 @@
 
 | 2221 | Energiamérleg, energiaszektor | (1) Energiahordozók termelése, átalakítása bel- és külkereskedelme, készletei (2) A hazai eladások bontása főbb nemzetgazdasági áganként és megyénként (3) A nukleáris energiastatisztikai adatok köre |
 
-10. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^22]
+10. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^21]
 
-[^22]: A 10. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A 10. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

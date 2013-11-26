@@ -62,10 +62,10 @@
 
 | 1979 | Ítélőtábla ügyforgalmi statisztikai jelentése | (1) Az ítélőtáblák másod- és harmadfokú ügyeinek ügyforgalma az eljárás tárgya szerint és a befejezett ügyekben hozott határozatok (2) Az ítélőtáblákhoz érkezett fellebbezett civilisztikai ügyek pertárgy értéke (3) A fellebbezett peres eljárások időtartama az ítélőtáblákon (4) Az ítélőtáblák egyéb ügyeinek ügyforgalma |
 
-12. melléklet a 288/2009. (XII. 1.) Korm. rendelethez[^24]
+12. melléklet a 288/2009. (XII. 1.) Korm. rendelethez[^23]
 
 Országos Statisztikai Adatgyűjtési Program
 
 jogharmonizációs függeléke
 
-[^24]: A 12. mellékletet a 257/2010. (XI. 9.) Korm. rendelet 4. §-a hatályon kívül helyezte, újonnan a 243/2011. (XI. 22.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 12. mellékletet a 257/2010. (XI. 9.) Korm. rendelet 4. §-a hatályon kívül helyezte, újonnan a 243/2011. (XI. 22.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

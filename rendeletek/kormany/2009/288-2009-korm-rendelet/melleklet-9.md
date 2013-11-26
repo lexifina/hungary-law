@@ -34,6 +34,6 @@
 
 | 1523 | Vádképviseleti Informatikai Rendszer | (1) Az eljáró nyomozó hatóság, ügyészség(ek), bíróság(ok) megnevezése (2) Az eljárás jellemző időpontjai (3) A vádlott előélete, cselekményei (4) A vádemelés módja (5) A tárgyalás előkészítése során hozott döntések (6) Kényszerintézkedések az eljárás egyes meghatározó időpontjaiban (7) Bírósági döntések és az alkalmazott büntetések, intézkedések fajtái (8) Ügyészi nyilatkozatok, ezek tartalma és alakulása |
 
-9. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^21]
+9. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^20]
 
-[^21]: A 9. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^20]: A 9. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.

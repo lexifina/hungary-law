@@ -820,6 +820,6 @@
 
 | 2243 | Gazdaságszerkezeti összeírás, egyéni gazdaságok | (1) Gazdaságazonosító adatai: név (cégnév), lakcím, székhely, a gazdaság helye (a 1166/2008/EK rendeletnek megfelelően), a gazdaság egyéb azonosítói (2) A gazdálkodás célja (3) A gazdaságban munkát végzők foglalkoztatási jellemzői (nem, mukaidő, alkalmazotti státusz) (4) A gazdasághoz tartozók neme, életkora, mezőgazdasági jellegű iskolai végzettsége, gazdasági aktivitása, jövedelemszerző tevékenysége (5) A gazdaság földterületének nagysága, a földhasználat jogcímei, a földhasználat művelési ágak szerinti jellemzői (6) A gazdaság növénytermesztésének jellemzői (7) A gazdaság állatállománya kor és ivar szerint (8) Legeltetés (9) Az állattartás jellemzői (10) Élőállat-vágás (11) Állatállomány-változás (12) A megújuló energia-termelés berendezései (13) A gazdaság egyéb, nem mezőgazdasági jellegű tevékenységei (14) Mezőgazdasági szolgáltatások (15) Gépállomány (16) Épületek |
 
-2. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^14]
+2. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^13]
 
-[^14]: A 2. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 2. melléklet a 340/2012. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
