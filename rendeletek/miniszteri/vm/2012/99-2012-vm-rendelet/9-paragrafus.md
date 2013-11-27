@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-9. § (1)[^18] A támogatási kérelmet 2013. október 15-től forráskimerülésig, de legkésőbb 2013. november 15-ig lehet benyújtani postai úton, papír alapon az MVH által rendszeresített és honlapján közzétett formanyomtatványon az ügyfél székhelye szerinti illetékes MVH regionális kirendeltségéhez.
+9. § (1)[^18] A támogatási kérelmet 2013. október 15-től forráskimerülésig, de legkésőbb 2013. november 29 -ig lehet benyújtani postai úton, papír alapon az MVH által rendszeresített és honlapján közzétett formanyomtatványon az ügyfél székhelye szerinti illetékes MVH regionális kirendeltségéhez.
 
 (2) A támogatási kérelem benyújtásának feltétele az IH hozzájáruló nyilatkozatának megléte, amelyet az IH az ügyfél és az MVH részére is megküld.
 
@@ -38,7 +38,7 @@ d) a Vhr. 27. § (1) bekezdés b) pontja szerinti okirat.
 
 (4) A támogatási kérelem módosítására legkésőbb a benyújtást követő 10 napon belül van lehetőség. Amennyiben az ügyfél a támogatási kérelmét módosítja, úgy az ügyintézési határidő a módosítás beérkezésétől számítva újrakezdődik.
 
-[^18]: A 9. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^18]: A 9. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 5. § (1) bekezdésével megállapított, a 106/2013. (XI. 26.) VM rendelet 4. § (1) bekezdése szerint módosított szöveg.
 [^19]: A 9. § (3) bekezdés e) pontját a 93/2013. (X. 10.) VM rendelet 5. § (2) bekezdése iktatta be.
 [^20]: A 9. § (3) bekezdés f) pontját a 93/2013. (X. 10.) VM rendelet 5. § (2) bekezdése iktatta be.
 [^21]: A 9. § (3) bekezdés g) pontját a 93/2013. (X. 10.) VM rendelet 5. § (2) bekezdése iktatta be.

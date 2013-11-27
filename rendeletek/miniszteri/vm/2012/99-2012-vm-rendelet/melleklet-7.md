@@ -72,6 +72,6 @@
 
 ## Signature:
 
-7. melléklet a 99/2012. (IX. 25.) VM rendelethez[^35]
+7. melléklet a 99/2012. (IX. 25.) VM rendelethez[^37]
 
-[^35]: A 7. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^37]: A 7. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (5) bekezdésével megállapított szöveg.

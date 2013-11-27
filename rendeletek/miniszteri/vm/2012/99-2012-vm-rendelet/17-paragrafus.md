@@ -1,0 +1,4 @@
+## 16. §[^29] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet módosításáról szóló 93/2013. (X. 10.) VM rendelettel [a továbbiakban: 93/2013. (X. 10.) VM rendelet] megállapított 3. § (1) bekezdés h) pontját a 93/2013. (X. 10.) VM rendelet hatályba lépésekor[^30] folyamatban lévő ügyekben is alkalmazni kell.
+
+[^29]: A 16. §-t a 93/2013. (X. 10.) VM rendelet 7. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2013. október 11.

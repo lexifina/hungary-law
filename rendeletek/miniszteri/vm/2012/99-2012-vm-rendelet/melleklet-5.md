@@ -42,6 +42,6 @@
 
 ## Aláírás:
 
-5. melléklet a 99/2012. (IX. 25.) VM rendelethez[^33]
+5. melléklet a 99/2012. (IX. 25.) VM rendelethez[^35]
 
-[^33]: Az 5. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^35]: Az 5. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
