@@ -1,3 +1,0 @@
-## 1. § A gyakorlati képzést végző gazdálkodó szervezetek saját munkavállalói részére szervezett képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásáról szóló 21/2013. (VI. 18.) NGM rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A szakképzési hozzájárulási kötelezettségnek az e rendelet alapján elszámolható költségekkel történő csökkentése – a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 23. § (1) bekezdés c) pontja alapján – állami támogatásnak minősül, amelyre a 800/2008/EK bizottsági rendelet I. fejezetében, illetve a II. fejezet 8. szakaszában foglaltak megfelelően irányadóak.”
