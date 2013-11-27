@@ -62,8 +62,10 @@ h) tagságot fenntartani turisztikai szakmai szervezetben és csatlakozni annak 
 
 i) falusi szálláshely esetében a 239/2009. (X. 20.) Korm. rendeletnek megfelelő üzemeltetési engedéllyel kell rendelkeznie.
 
-(10) A 4. § (3) bekezdés b) pontja alapján jogosult támogatást igényelni az az ügyfél, aki vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásáig az 1997. évi CLVI. törvény 3. §-a szerinti közhasznúsági nyilvántartásba veteti magát, és tevékenységét ekként végzi.
+(10)[^4] A 4. § (3) bekezdés b) pontja alapján jogosult támogatást igényelni az az ügyfél, aki vállalja, hogy a támogatás megítélését követően az utolsó kifizetési kérelem benyújtásáig az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznúsági nyilvántartásba veteti magát, és tevékenységét ekként végzi.
 
 (11) E rendelet keretében benyújtott támogatási kérelmek vonatkozásában a Vhr. 7. § (1) bekezdés b) pontját nem kell alkalmazni.
 
 (12) Induló vállalkozás esetén a Vhr. 7. § (1) bekezdés c) pontjában előírt nehéz helyzetben lévőséget a támogatási kérelem benyújtásától számított harmadik lezárt, teljes gazdasági évet követően kell vizsgálni.
+
+[^4]: Az 5. § (10) bekezdése a 106/2013. (XI. 26.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
