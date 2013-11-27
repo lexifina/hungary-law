@@ -1,6 +1,6 @@
-## 15–17. §[^21]
+## 15–17. §[^27]
 
-1. melléklet a 30/2012. (III. 24.) VM rendelethez[^22]
+1. melléklet a 30/2012. (III. 24.) VM rendelethez[^28]
 
-[^21]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: Az 1. melléklet a 126/2012. (XII. 12.) VM rendelet 8. § (7) bekezdése szerint módosított szöveg.
+[^27]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: Az 1. melléklet a 106/2013. (XI. 26.) VM rendelet 3. § (7) bekezdés a) pontjával megállapított szöveg.

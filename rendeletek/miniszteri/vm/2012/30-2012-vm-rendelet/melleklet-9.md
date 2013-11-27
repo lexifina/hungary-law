@@ -90,16 +90,30 @@
 
 ## 1. felsőfokú végzettség,
 
-## 2. magyar állampolgárság,
+## 2. felhasználói szintű számítógépes ismeret,
 
-## 3. erkölcsi bizonyítvány,
+## 3. kompetenciák: magas szintű kommunikációs és együttműködési készség, jó helyi kapcsolatok, elfogadottság és támogatottság.
 
-## 4. felhasználói szintű számítógépes ismeret,
+## Vezetői szerepkör csak felsőfokú végzettséggel tölthető be. Vezető kinevezésére kötelező érvényűek a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet előírásai. Ha a LEADER HACS nem rendelkezik olyan vezetővel, aki a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 3. melléklet 14., 35., 87., 88., 114., 123., 125. vagy 126. pontja I. besorolási osztály szerinti képesítési előírásainak megfelel, akkor köteles felvenni legalább egy főt a vonatkozó rendelet előírásainak megfelelően.
 
-## 5. kompetenciák: magas szintű kommunikációs és együttműködési készség, jó helyi kapcsolatok, elfogadottság és támogatottság.
+## Ügyintéző (legalább 1 fő)
 
-## Vezetői szerepkör csak felsőfokú végzettséggel tölthető be. Vezető kinevezésére kötelező érvényűek a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet előírásai. Ha a LEADER HACS nem rendelkezik olyan vezetővel, aki a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 3. melléklet 14. 35., 87., 88., 123. vagy 125. pontja I. besorolási osztály szerinti képesítési előírásainak megfelel, akkor köteles felvenni legalább egy főt a vonatkozó rendelet előírásainak megfelelően.
+## 1. felsőfokú végzettség vagy középfokú végzettség és legalább 3 év szakmai tapasztalat,
 
-9. melléklet a 30/2012. (III. 24.) VM rendelethez[^24]
+## 2. felhasználói szintű számítógépes ismeretek.
 
-[^24]: A 9. melléklet az 52/2012. (VI. 8.) VM rendelet 18. § (7) bekezdése szerint módosított szöveg.
+## Ügyintéző egyben elláthat ügykezelői feladatot is, ebben az esetben nincs szükség külön ügykezelő alkalmazására.
+
+## Ügykezelő (1 fő)
+
+## 1. középfokú végzettség,
+
+## 2. adminisztrációs gyakorlat,
+
+## 3. felhasználói szintű számítógépes ismeret.
+
+9. melléklet a 30/2012. (III. 24.) VM rendelethez[^30]
+
+LEADER HACS-ok illetékességi területei
+
+[^30]: A 9. melléklet a 106/2013. (XI. 26.) VM rendelet 3. § (7) bekezdés b) pontjával megállapított szöveg.

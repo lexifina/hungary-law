@@ -116,250 +116,254 @@
 
 | 57. |  |  | 49.31.21 | Városi és elővárosi menetrend szerinti szárazföldi személyszállítás |
 
-| 58. |  |  | 49.39.11 | Távolsági menetrend szerinti szárazföldi személyszállítás |
+|  | 58. |  |  | 49.39.11 | Távolsági menetrend szerinti szárazföldi személyszállítás |
 
-| 59. | 6022 | Taxis személyszállítás | 49.32.11 | Taxis személyszállítás |
+|  | 59. | 6022 | Taxis személyszállítás | 49.32.11 | Taxis személyszállítás |
 
-| 60. | 6023 | Egyéb szárazföldi személyszállítás | 49.39.39 | M.n.s. egyéb szárazföldi személyszállítás |
+|  | 60. | 6023 | Egyéb szárazföldi személyszállítás | 49.39.39 | M.n.s. egyéb szárazföldi személyszállítás |
 
-| 61. | 6024 | Közúti teherszállítás | 49.42.19 | Egyéb költöztetés |
+|  | 61. | 6024 | Közúti teherszállítás | 49.42.19 | Egyéb költöztetés |
 
-| 62. |  |  | 49.41.20 | Közúti 3.5 tonnánál nagyobb teherbírású gépjármű kölcsönzése vezetővel |
+|  | 62. |  |  | 49.41.20 | Közúti 3.5 tonnánál nagyobb teherbírású gépjármű kölcsönzése vezetővel |
 
-| 63. | 6210 | Menetrendszerű légi szállítás | 51.10.13 | Nemzetközi menetrendszerinti légi szállítás |
+|  | 63. | 6210 | Menetrendszerű légi szállítás | 51.10.13 | Nemzetközi menetrendszerinti légi szállítás |
 
-| 64. | 6321 | Egyéb, szárazföldi szállítást segítő tevékenység | 52.21.29 | Egyéb szárazföldi szállítást kiegészítő szolgáltatás |
+|  | 64. | 6321 | Egyéb, szárazföldi szállítást segítő tevékenység | 52.21.29 | Egyéb szárazföldi szállítást kiegészítő szolgáltatás |
 
-| 65. | 6411 | Nemzeti postai tevékenység | 53.10.11 | Hírlap, időszaki kiadvány postai továbbítása (egyetemes kötelezettséggel) |
+|  | 65. | 6411 | Nemzeti postai tevékenység | 53.10.11 | Hírlap, időszaki kiadvány postai továbbítása (egyetemes kötelezettséggel) |
 
-| 66. |  |  | 53.10.12 | Levélküldeménnyel kapcsolatos egyetemes postai szolgáltatás |
+|  | 66. |  |  | 53.10.12 | Levélküldeménnyel kapcsolatos egyetemes postai szolgáltatás |
 
-| 67. |  |  | 53.10.13 | Postacsomagokkal kapcsolatos egyetemes postai szolgáltatás |
+|  | 67. |  |  | 53.10.13 | Postacsomagokkal kapcsolatos egyetemes postai szolgáltatás |
 
-| 68. |  |  | 53.10.14 | Postahivatali szolgáltatás |
+|  | 68. |  |  | 53.10.14 | Postahivatali szolgáltatás |
 
-| 69. |  |  | 53.10.19 | Egyéb postai szolgáltatás (egyetemes kötelezettséggel) |
+|  | 69. |  |  | 53.10.19 | Egyéb postai szolgáltatás (egyetemes kötelezettséggel) |
 
-| 70. | 6412 | Futárpostai tevékenység | 53.20.19 | Egyéb m.n.s. postai, futárpostai szolgáltatás |
+|  | 70. | 6412 | Futárpostai tevékenység | 53.20.19 | Egyéb m.n.s. postai, futárpostai szolgáltatás |
 
-| 71. | 6420 | Távközlés | 61.10.43 | Szélessávú internet-hozzáférés vezetékes hálózaton |
+|  | 71. | 6420 | Távközlés | 61.10.43 | Szélessávú internet-hozzáférés vezetékes hálózaton |
 
-| 72. |  |  | 61.10.49 | Egyéb, vezetékes interneten nyújtott távközlési szolgáltatás |
+|  | 72. |  |  | 61.10.49 | Egyéb, vezetékes interneten nyújtott távközlési szolgáltatás |
 
-| 73. |  |  | 61.20.11 | Mobil távközlési szolgáltatás (hozzáférés és használat biztosítása) |
+|  | 73. |  |  | 61.20.11 | Mobil távközlési szolgáltatás (hozzáférés és használat biztosítása) |
 
-| 74. |  |  | 61.20.12 | Mobil távközlési szolgáltatás (kiegészítő hívásszolgáltatás biztosítása) |
+|  | 74. |  |  | 61.20.12 | Mobil távközlési szolgáltatás (kiegészítő hívásszolgáltatás biztosítása) |
 
-| 75. |  |  | 61.20.20 | Vezeték nélküli távközlési üzemeltetői szolgáltatás |
+|  | 75. |  |  | 61.20.20 | Vezeték nélküli távközlési üzemeltetői szolgáltatás |
 
-| 76. |  |  | 61.20.30 | Adatátvitel vezeték nélküli távközlő hálózaton |
+|  | 76. |  |  | 61.20.30 | Adatátvitel vezeték nélküli távközlő hálózaton |
 
-| 77. |  |  | 61.20.41 | Keskenysávú internetelérés vezeték nélküli hálózaton |
+|  | 77. |  |  | 61.20.41 | Keskenysávú internetelérés vezeték nélküli hálózaton |
 
-| 78. |  |  | 61.20.42 | Szélessávú internetelérés vezeték nélküli hálózaton |
+|  | 78. |  |  | 61.20.42 | Szélessávú internetelérés vezeték nélküli hálózaton |
 
-| 79. |  |  | 61.20.49 | Egyéb vezeték nélküli internetszolgáltatás |
+|  | 79. |  |  | 61.20.49 | Egyéb vezeték nélküli internetszolgáltatás |
 
-| 80. |  |  | 61.20.50 | Vezeték nélküli műsorelosztás |
+|  | 80. |  |  | 61.20.50 | Vezeték nélküli műsorelosztás |
 
-| 81. |  |  | 61.30.10 | Műholdas távközlés (kivéve: műholdas műsorelosztás) |
+|  | 81. |  |  | 61.30.10 | Műholdas távközlés (kivéve: műholdas műsorelosztás) |
 
-| 82. |  |  | 61.30.20 | Műholdas műsorelosztás |
+|  | 82. |  |  | 61.30.20 | Műholdas műsorelosztás |
 
-| 83. |  |  | 61.90.10 | Egyéb távközlés |
+|  | 83. |  |  | 61.90.10 | Egyéb távközlés |
 
-| 84. | 6512 | Egyéb monetáris közvetítés | 64.19.25 | Monetáris intézmények nem jelzálog alapú üzleti hitelnyújtása |
+|  | 84. | 6512 | Egyéb monetáris közvetítés | 64.19.25 | Monetáris intézmények nem jelzálog alapú üzleti hitelnyújtása |
 
-| 85. |  |  | 64.19.30 | Egyéb m.n.s. monetáris pénzügyi szolgáltatás |
+|  | 85. |  |  | 64.19.30 | Egyéb m.n.s. monetáris pénzügyi szolgáltatás |
 
-| 86. | 6522 | Egyéb m.n.s. pénzügyi szolgáltatás | 64.99.19 | Garancia díj |
+|  | 86. | 6522 | Egyéb m.n.s. pénzügyi szolgáltatás | 64.99.19 | Garancia díj |
 
-| 87. | 6603 | Nem életbiztosítás | 65.12.90 | Nem életbiztosítás |
+|  | 87. | 6603 | Nem életbiztosítás | 65.12.90 | Nem életbiztosítás |
 
-| 88. | 7020 | Ingatlan bérbeadása, üzemeltetése | 68.20.12 | Saját tulajdonú és bérelt nem lakóingatlan bérbeadása, üzemeltetése |
+|  | 88. | 7020 | Ingatlan bérbeadása, üzemeltetése | 68.20.12 | Saját tulajdonú és bérelt nem lakóingatlan bérbeadása, üzemeltetése |
 
-| 89. | 7110 | Gépkocsikölcsönzés | 77.11.10 | Személygépjármű kölcsönzése |
+|  | 89. | 7031 | Ingatlan-értékbecslés | 68.31.16 | Ingatlan-értékbecslés |
 
-| 90. | 7121 | Egyéb szárazföldi jármű kölcsönzése | 77.12.11 | Tehergépjármű kölcsönzése |
+|  | 90. | 7110 | Gépkocsikölcsönzés | 77.11.10 | Személygépjármű kölcsönzése |
 
-| 91. |  |  | 77.12.19 | Egyéb szárazföldi jármű kölcsönzése |
+|  | 91. | 7121 | Egyéb szárazföldi jármű kölcsönzése | 77.12.11 | Tehergépjármű kölcsönzése |
 
-| 92. | 7133 | Irodagép, számítógép kölcsönzése | 77.33.11 | Irodagép és irodai berendezés kölcsönzése |
+|  | 92. |  |  | 77.12.19 | Egyéb szárazföldi jármű kölcsönzése |
 
-| 93. |  |  | 77.33.12 | Számítógép kölcsönzése |
+|  | 93. | 7133 | Irodagép, számítógép kölcsönzése | 77.33.11 | Irodagép és irodai berendezés kölcsönzése |
 
-| 94. | 7210 | Hardver- szaktanácsadás | 62.02.10 | Hardver-szaktanácsadás |
+|  | 94. |  |  | 77.33.12 | Számítógép kölcsönzése |
 
-| 95. | 7221 | Rendszerszoftver, felhasználói szoftver kiadása | 58.29.11 | Csomagolt operációsrendszer |
+|  | 95. | 7210 | Hardver- szaktanácsadás | 62.02.10 | Hardver-szaktanácsadás |
 
-| 96. |  |  | 58.29.12 | Csomagolt hálózati szoftver |
+|  | 96. | 7221 | Rendszerszoftver, felhasználói szoftver kiadása | 58.29.11 | Csomagolt operációsrendszer |
 
-| 97. |  |  | 58.29.13 | Csomagolt adatbázis-kezelő szoftver |
+|  | 97. |  |  | 58.29.12 | Csomagolt hálózati szoftver |
 
-| 98. |  |  | 58.29.14 | Csomagolt fejlesztő eszköz, programnyelv szoftver |
+|  | 98. |  |  | 58.29.13 | Csomagolt adatbázis-kezelő szoftver |
 
-| 99. |  |  | 58.29.21 | Általános üzleti, otthoni felhasználásra készült csomagolt alkalmazási szoftver |
+|  | 99. |  |  | 58.29.14 | Csomagolt fejlesztő eszköz, programnyelv szoftver |
 
-| 100. |  |  | 58.29.29 | Egyéb csomagolt alkalmazási szoftver |
+|  | 100. |  |  | 58.29.21 | Általános üzleti, otthoni felhasználásra készült csomagolt alkalmazási szoftver |
 
-| 101. | 7222 | Egyéb szoftver- szaktanácsadás, -ellátás | 62.02.20 | Rendszer-, szoftver-szaktanácsadás |
+|  | 101. |  |  | 58.29.29 | Egyéb csomagolt alkalmazási szoftver |
 
-| 102. |  |  | 62.01.11 | IT-alkalmazás tervezés, fejlesztés |
+|  | 102. | 7222 | Egyéb szoftver- szaktanácsadás, -ellátás | 62.02.20 | Rendszer-, szoftver-szaktanácsadás |
 
-| 103. |  |  | 62.01.12 | IT-hálózatrendszer tervezése, fejlesztése |
+|  | 103. |  |  | 62.01.11 | IT-alkalmazás tervezés, fejlesztés |
 
-| 104. |  |  | 62.02.30 | IT műszaki támogatás |
+|  | 104. |  |  | 62.01.12 | IT-hálózatrendszer tervezése, fejlesztése |
 
-| 105. |  |  | 62.02.10 | Hardver-szaktanácsadás |
+|  | 105. |  |  | 62.02.30 | IT műszaki támogatás |
 
-| 106. |  |  | 62.09.20 | Egyéb m.n.s. információtechnológiai, számítógépes szolgáltatás |
+|  | 106. |  |  | 62.02.10 | Hardver-szaktanácsadás |
 
-| 107. | 7230 | Adatfeldolgozás | 62.03.11 | Hálózatüzemeltetés |
+|  | 107. |  |  | 62.09.20 | Egyéb m.n.s. információtechnológiai, számítógépes szolgáltatás |
 
-| 108. |  |  | 62.03.12 | Számítógépes rendszer menedzselése |
+|  | 108. | 7230 | Adatfeldolgozás | 62.03.11 | Hálózatüzemeltetés |
 
-| 109. |  |  | 63.11.11 | Adatfeldolgozás |
+|  | 109. |  |  | 62.03.12 | Számítógépes rendszer menedzselése |
 
-| 110. |  |  | 63.11.12 | Webhoszting-szolgáltatás |
+|  | 110. |  |  | 63.11.11 | Adatfeldolgozás |
 
-| 111. | 7240 | Adatbázis- tevékenység, on-line kiadás | 58.11.30 | On-line könyv |
+|  | 111. |  |  | 63.11.12 | Webhoszting-szolgáltatás |
 
-| 112. |  |  | 58.19.29 | Egyéb m.n.s. on-line tartalom |
+|  | 112. | 7240 | Adatbázis- tevékenység, on-line kiadás | 58.11.30 | On-line könyv |
 
-| 113. | 7250 | Irodagép-, számítógép-javítás | 33.12.16 | Irodagép (kivéve: a számítógép és perifériái) javítása, karbantartása |
+|  | 113. |  |  | 58.19.29 | Egyéb m.n.s. on-line tartalom |
 
-| 114. |  |  | 95.11.10 | Számítógép és -periféria javítása |
+|  | 114. | 7250 | Irodagép-, számítógép-javítás | 33.12.16 | Irodagép (kivéve: a számítógép és perifériái) javítása, karbantartása |
 
-| 115. | 7260 | Egyéb számítástechnikai tevékenység | 62.09.10 | Számítógép, periféria telepítése |
+|  | 115. |  |  | 95.11.10 | Számítógép és -periféria javítása |
 
-| 116. |  |  | 62.09.20 | Egyéb m.n.s. információtechnológiai, számítógépes szolgáltatás |
+|  | 116. | 7260 | Egyéb számítástechnikai tevékenység | 62.09.10 | Számítógép, periféria telepítése |
 
-| 117. | 7310 | Műszaki kutatás, fejlesztés | 72.19.19 | Egyéb természettudományi kutatás, fejlesztés |
+|  | 117. |  |  | 62.09.20 | Egyéb m.n.s. információtechnológiai, számítógépes szolgáltatás |
 
-| 118. | 7320 | Humán kutatás, fejlesztés | 72.20.19 | Egyéb társadalomtudományi kutatás, fejlesztés |
+|  | 118. | 7310 | Műszaki kutatás, fejlesztés | 72.19.19 | Egyéb természettudományi kutatás, fejlesztés |
 
-| 119. | 7411 | Jogi tevékenység | 69.10.19 | Egyéb jogi tevékenység |
+|  | 119. | 7320 | Humán kutatás, fejlesztés | 72.20.19 | Egyéb társadalomtudományi kutatás, fejlesztés |
 
-| 120. | 7412 | Számviteli, adószakértői tevékenység | 69.20.10 | Könyvvizsgálói (audit) szolgáltatás |
+|  | 120. | 7411 | Jogi tevékenység | 69.10.19 | Egyéb jogi tevékenység |
 
-| 121. |  |  | 69.20.21 | Beszámoló felülvizsgálata |
+|  | 121. | 7411 | Jogi dokumentálás | 69.10.16 | Közjegyzői szolgáltatás, egyéb jogi dokumentumok létrehozása |
 
-| 122. |  |  | 69.20.22 | Számviteli jelentés összeállítása |
+|  | 122. | 7412 | Számviteli, adószakértői tevékenység | 69.20.10 | Könyvvizsgálói (audit) szolgáltatás |
 
-| 123. |  |  | 69.20.24 | Bérszámfejtés |
+|  | 123. |  |  | 69.20.21 | Beszámoló felülvizsgálata |
 
-| 124. |  |  | 69.20.29 | Egyéb számviteli szolgáltatás |
+|  | 124. |  |  | 69.20.22 | Számviteli jelentés összeállítása |
 
-| 125. |  |  | 69.20.23 | Könyvelés |
+|  | 125. |  |  | 69.20.24 | Bérszámfejtés |
 
-| 126. |  |  | 69.20.31 | Adótanácsadás, adóbevallás készítése vállalkozások részére |
+|  | 126. |  |  | 69.20.29 | Egyéb számviteli szolgáltatás |
 
-| 127. | 7413 | Piac-, közvélemény- kutatás | 73.20.11 | Piackutatás: minőségi felmérés |
+|  | 127. |  |  | 69.20.23 | Könyvelés |
 
-| 128. |  |  | 73.20.12 | Piackutatás: mennyiségi eseti felmérés |
+|  | 128. |  |  | 69.20.31 | Adótanácsadás, adóbevallás készítése vállalkozások részére |
 
-| 129. |  |  | 73.20.13 | Piackutatás: mennyiségi, folyamatos és rendszeres felmérés |
+|  | 129. | 7413 | Piac-, közvélemény- kutatás | 73.20.11 | Piackutatás: minőségi felmérés |
 
-| 130. |  |  | 73.20.14 | Nem felmérés jellegű piackutatás |
+|  | 130. |  |  | 73.20.12 | Piackutatás: mennyiségi eseti felmérés |
 
-| 131. |  |  | 73.20.19 | Egyéb piackutatás |
+|  | 131. |  |  | 73.20.13 | Piackutatás: mennyiségi, folyamatos és rendszeres felmérés |
 
-| 132. |  |  | 73.20.20 | Közvélemény-kutatás |
+|  | 132. |  |  | 73.20.14 | Nem felmérés jellegű piackutatás |
 
-| 133. | 7414 | Üzletviteli tanácsadás | 70.21.10 | PR, kommunikáció |
+|  | 133. |  |  | 73.20.19 | Egyéb piackutatás |
 
-| 134. |  |  | 70.22.30 | Üzletviteli, egyéb vezetési tanácsadás |
+|  | 134. |  |  | 73.20.20 | Közvélemény-kutatás |
 
-| 135. |  |  | 74.90.20 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
+|  | 135. | 7414 | Üzletviteli tanácsadás | 70.21.10 | PR, kommunikáció |
 
-| 136. | 7420 | Építészeti tervezés/Egyéb műszaki tervezése,… | 71.11.10 | Építészeti terv, tervrajz |
+|  | 136. |  |  | 70.22.30 | Üzletviteli, egyéb vezetési tanácsadás |
 
-| 137. |  | Építészeti tervezés/Egyéb építészeti szolgáltatás | 71.11.22 | Nem lakóépületekre vonatkozó építészmérnöki szolgáltatás |
+|  | 137. |  |  | 74.90.20 | M.n.s. egyéb szakmai, tudományos, műszaki tevékenység |
 
-| 138. |  |  | 71.11.23 | Műemlékvédelmi építészmérnöki szolgáltatás |
+|  | 138. | 7420 | Építészeti tervezés/Egyéb műszaki tervezése,… | 71.11.10 | Építészeti terv, tervrajz |
 
-| 139. |  |  | 71.11.24 | Építészmérnöki tanácsadás |
+|  | 139. |  | Építészeti tervezés/Egyéb építészeti szolgáltatás | 71.11.22 | Nem lakóépületekre vonatkozó építészmérnöki szolgáltatás |
 
-| 140. |  |  |  |  |
+|  | 140. |  |  | 71.11.23 | Műemlékvédelmi építészmérnöki szolgáltatás |
 
-| 141. | 7440 | Hirdetés | 73.11.11 | Teljes körű hirdetési szolgáltatás |
+|  | 141. |  |  | 71.11.24 | Építészmérnöki tanácsadás |
 
-| 142. |  |  | 73.11.19 | Egyéb hirdetési szolgáltatás |
+|  | 142. |  |  |  |  |
 
-| 143. |  |  | 73.12.11 | Reklámfelület értékesítése nyomtatott médiában díjazásért vagy szerződéses alapon |
+|  | 143. | 7440 | Hirdetés | 73.11.11 | Teljes körű hirdetési szolgáltatás |
 
-| 144. |  |  | 73.12.12 | Reklámfelület értékesítése televízióban és rádióban díjazásért vagy szerződéses alapon |
+|  | 144. |  |  | 73.11.19 | Egyéb hirdetési szolgáltatás |
 
-| 145. |  |  | 73.12.13 | Reklámfelület értékesítése az interneten díjazásért vagy szerződéses alapon |
+|  | 145. |  |  | 73.12.11 | Reklámfelület értékesítése nyomtatott médiában díjazásért vagy szerződéses alapon |
 
-| 146. |  |  | 73.12.19 | Reklámfelület értékesítése egyéb helyen díjazásért vagy szerződéses alapon |
+|  | 146. |  |  | 73.12.12 | Reklámfelület értékesítése televízióban és rádióban díjazásért vagy szerződéses alapon |
 
-| 147. | 7460 | Távfelügyelet | 80.20.10 | Biztonsági-rendszer szolgáltatás |
+|  | 147. |  |  | 73.12.13 | Reklámfelület értékesítése az interneten díjazásért vagy szerződéses alapon |
 
-| 148. | 7470 | Takarítás, tisztítás | 81.21.10 | Épülettakarítás |
+|  | 148. |  |  | 73.12.19 | Reklámfelület értékesítése egyéb helyen díjazásért vagy szerződéses alapon |
 
-| 149. |  |  | 81.29.11 | Fertőtlenítés, kártevőirtás |
+|  | 149. | 7460 | Távfelügyelet | 80.20.10 | Biztonsági-rendszer szolgáltatás |
 
-| 150. |  |  | 81.22.11 | Ablaktisztítás |
+|  | 150. | 7470 | Takarítás, tisztítás | 81.21.10 | Épülettakarítás |
 
-| 151. |  |  | 81.29.19 | Egyéb takarítás |
+|  | 151. |  |  | 81.29.11 | Fertőtlenítés, kártevőirtás |
 
-| 152. | 7481 | Fényképészet | 74.20.23 | Eseményfényképészet, videofelvétel készítése |
+|  | 152. |  |  | 81.22.11 | Ablaktisztítás |
 
-| 153. |  |  | 74.20.31 | Fényképelőhívás, -kidolgozás |
+|  | 153. |  |  | 81.29.19 | Egyéb takarítás |
 
-| 154. | 7485 | Titkári, fordítói tevékenység | 82.19.11 | Sokszorosítás |
+|  | 154. | 7481 | Fényképészet | 74.20.23 | Eseményfényképészet, videofelvétel készítése |
 
-| 155. |  |  | 74.30.11 | Fordítás |
+|  | 155. |  |  | 74.20.31 | Fényképelőhívás, -kidolgozás |
 
-| 156. |  |  | 74.30.12 | Tolmácsolás |
+|  | 156. | 7485 | Titkári, fordítói tevékenység | 82.19.11 | Sokszorosítás |
 
-| 157. |  |  | 82.11.10 | Összetett adminisztratív szolgáltatás |
+|  | 157. |  |  | 74.30.11 | Fordítás |
 
-| 158. |  |  | 82.19.13 | Dokumentumkészítés, egyéb irodai kiegészítő szolgáltatás |
+|  | 158. |  |  | 74.30.12 | Tolmácsolás |
 
-| 159. | 7487 | Máshova nem sorolt, egyéb gazdasági szolgáltatás | 74.90.19 | Egyéb m.n.s. tudományos és műszaki tanácsadás |
+|  | 159. |  |  | 82.11.10 | Összetett adminisztratív szolgáltatás |
 
-| 160. |  |  | 74.90.20 | Egyéb m.n.s. szakmai, műszaki és üzleti szolgáltatás |
+|  | 160. |  |  | 82.19.13 | Dokumentumkészítés, egyéb irodai kiegészítő szolgáltatás |
 
-| 161. |  |  | 82.30.11 | Konferencia szervezése |
+|  | 161. | 7487 | Máshova nem sorolt, egyéb gazdasági szolgáltatás | 74.90.19 | Egyéb m.n.s. tudományos és műszaki tanácsadás |
 
-| 162. |  |  | 82.99.19 | Egyéb m.n.s. kiegészítő üzleti szolgáltatás |
+|  | 162. |  |  | 74.90.20 | Egyéb m.n.s. szakmai, műszaki és üzleti szolgáltatás |
 
-| 163. | 7511 | Általános közigazgatás | 84.11.19 | Általános közigazgatás |
+|  | 163. |  |  | 82.30.11 | Konferencia szervezése |
 
-| 164. | 8042 | Máshova nem sorolt felnőtt- és egyéb oktatás | 85.59.13 | M.n.s. egyéb oktatás |
+|  | 164. |  |  | 82.99.19 | Egyéb m.n.s. kiegészítő üzleti szolgáltatás |
 
-| 165. | 8512 | Járóbeteg-ellátás | 86.21.10 | Általános járóbeteg-ellátás |
+|  | 165. | 7511 | Általános közigazgatás | 84.11.19 | Általános közigazgatás |
 
-| 166. | 9001 | Szennyvíz gyűjtése, kezelése | 37.00.11 | Szennyvíz gyűjtése, kezelése |
+|  | 166. | 8042 | Máshova nem sorolt felnőtt- és egyéb oktatás | 85.59.13 | M.n.s. egyéb oktatás |
 
-| 167. | 9002 | Hulladékgyűjtés, -kezelés | 38.11.21 | Nem veszélyes hulladék gyűjtése |
+|  | 167. | 8512 | Járóbeteg-ellátás | 86.21.10 | Általános járóbeteg-ellátás |
 
-| 168. |  |  | 38.12.12 | Veszélyes hulladék gyűjtése |
+|  | 168. | 9001 | Szennyvíz gyűjtése, kezelése | 37.00.11 | Szennyvíz gyűjtése, kezelése |
 
-| 169. |  |  | 38.21.29 | Nem veszélyes hulladék kezelése, ártalmatlanítása |
+|  | 169. | 9002 | Hulladékgyűjtés, -kezelés | 38.11.21 | Nem veszélyes hulladék gyűjtése |
 
-| 170. | 9112 | Szakmai érdekképviselet | 94.12.10 | Szakmai érdekképviselet |
+|  | 170. |  |  | 38.12.12 | Veszélyes hulladék gyűjtése |
 
-| 171. | 9211 | Film-, videogyártás | 59.11.13 | Egyéb televízióműsor készítés |
+|  | 171. |  |  | 38.21.29 | Nem veszélyes hulladék kezelése, ártalmatlanítása |
 
-| 172. |  |  | 59.12.19 | Film-, videogyártás, televíziós műsorfelvétel utómunkálatai |
+|  | 172. | 9112 | Szakmai érdekképviselet | 94.12.10 | Szakmai érdekképviselet |
 
-| 173. |  |  | 59.20.11 | Hangfelvétel készítése, kiadása |
+|  | 173. | 9211 | Film-, videogyártás | 59.11.13 | Egyéb televízióműsor készítés |
 
-| 174. |  |  | 59.13.12 | Film-, video- és televízióprogram terjesztése |
+|  | 174. |  |  | 59.12.19 | Film-, videogyártás, televíziós műsorfelvétel utómunkálatai |
 
-| 175. | 9212 | Film-, videoterjesztés | 59.13.12 | Film-, video-, televízióprogram terjesztése |
+|  | 175. |  |  | 59.20.11 | Hangfelvétel készítése, kiadása |
 
-| 176. | 9220 | Rádió-, televízióműsor- szolgáltatás | 59.11.13 | Egyéb televízióműsor készítés |
+|  | 176. |  |  | 59.13.12 | Film-, video- és televízióprogram terjesztése |
 
-| 177. |  |  | 59.20.11 | Hangfelvétel készítése |
+|  | 177. | 9212 | Film-, videoterjesztés | 59.13.12 | Film-, video-, televízióprogram terjesztése |
 
-| 178. |  |  | 59.20.12 | Élőhangfelvétel készítés |
+|  | 178. | 9220 | Rádió-, televízióműsor- szolgáltatás | 59.11.13 | Egyéb televízióműsor készítés |
 
-| 179. |  |  | 60.10.11 | Rádióműsor-szolgáltatás |
+|  | 179. |  |  | 59.20.11 | Hangfelvétel készítése |
 
-| 180. |  |  | 60.20.40 | Televíziós reklámidő |
+|  | 180. |  |  | 59.20.12 | Élőhangfelvétel készítés |
+
+|  | 181. |  |  | 60.10.11 | Rádióműsor-szolgáltatás |
+
+|  | 182. |  |  | 60.20.40 | Televíziós reklámidő” |
 
 2. melléklet a 30/2012. (III. 24.) VM rendelethez
