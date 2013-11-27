@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-432-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-11-26 | 2013-432-20-22.1 | 432/2013. (XI. 18.) Korm. rendelet |
+| 2013-11-27 | 2013-432-20-22.2 | 2010: CXXX. törvény |
