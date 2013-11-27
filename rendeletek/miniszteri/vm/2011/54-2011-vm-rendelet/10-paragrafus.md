@@ -14,7 +14,7 @@ b) alapítvány, közalapítvány, egyesület;
 
 c) egyházi jogi személy;
 
-d) helyi önkormányzat és kisebbségi önkormányzat;
+d)[^25] helyi önkormányzat és nemzetiségi önkormányzat;
 
 e) természetes személy,
 
@@ -22,7 +22,7 @@ a (3) bekezdéssel összhangban.
 
 (5) A (4) bekezdés b)–d) pontjában meghatározott szervezetek képviselőik útján vesznek részt az új HACS címre pályázó egyesületben.
 
-(5a)[^21] A (4) bekezdés a)–e) pontjában felsorolt tagokat kizárólag egy új HACS szerveződésében lehet figyelembe venni. Egy személy csak egy, a (4) bekezdés a)–e) pontjában felsorolt tagot képviselhet a helyi közösségben.
+(5a)[^26] A (4) bekezdés a)–e) pontjában felsorolt tagokat kizárólag egy új HACS szerveződésében lehet figyelembe venni. Egy személy csak egy, a (4) bekezdés a)–e) pontjában felsorolt tagot képviselhet a helyi közösségben.
 
 (6) Nem lehet tag az új HACS címre pályázó egyesület döntéshozó testületében, a munkaszervezet vezetésében, aki a címvisszavonással érintett LEADER HACS döntéshozó testületének a tagja, vagy a munkaszervezetnek vezetője volt, kivéve, ha a LEADER HACS cím visszavonására a 7. § (1) bekezdés k) pontja alapján került sor.
 
@@ -40,4 +40,5 @@ d) a b) és c) pontokban meghatározott szervezetek közös csoportja, amely 300
 
 részt vesz az új HACS megalakításában.
 
-[^21]: A 10. § (5a) bekezdését a 126/2012. (XII. 12.) VM rendelet 7. § (5) bekezdése iktatta be.
+[^25]: A 10. § (4) bekezdés d) pontja a 106/2013. (XI. 26.) VM rendelet 2. § (5) bekezdése szerint módosított szöveg.
+[^26]: A 10. § (5a) bekezdését a 126/2012. (XII. 12.) VM rendelet 7. § (5) bekezdése iktatta be.
