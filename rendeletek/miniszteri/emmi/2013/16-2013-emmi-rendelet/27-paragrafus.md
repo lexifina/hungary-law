@@ -11,3 +11,7 @@
 (5) Az iskolának legkésőbb május 31-ig – a helyben szokásos módon – közzé kell tennie azoknak a tankönyveknek, ajánlott és kötelező olvasmányoknak a jegyzékét, amelyeket az iskolai könyvtárból a tanulók kikölcsönözhetnek.
 
 (6) Az iskola igazgatója a Nemzeti alaptanterv felmenő rendszerű bevezetésével érintett iskolai évfolyamokon bármely tantárgyhoz, műveltségi területhez csak olyan tankönyvet rendelhet az iskolai tankönyvrendelés kereti között, amelyiknek a tankönyvvé nyilvánítása a kerettantervi rendelet kihirdetését követően történt feltéve, hogy az adott tantárgyhoz, műveltségi területhez a kerettantervi rendelet alapján került kiadásra vagy jóváhagyásra kerettanterv, továbbá szerepel ilyen tankönyv a hivatalos tankönyvjegyzéken. Ezt a rendelkezést nem kell alkalmazni a 31. § (5)–(7) bekezdésekben meghatározott tankönyvek vonatkozásában.
+
+(7)[^7] Amennyiben valamely évfolyamon valamely tantárgyból a miniszter kísérleti tankönyv fejlesztését és kipróbálását engedélyezte, az adott tantárgyhoz, műveltségi területhez a kerettantervi rendelet alapján kiadott vagy jóváhagyott kerettanterv követelményeinek megfelelő kísérleti tankönyv választható.
+
+[^7]: A 27. § (7) bekezdését a 72/2013. (XI. 26.) EMMI rendelet 6. §-a iktatta be.

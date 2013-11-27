@@ -2,7 +2,7 @@
 
 8. § (1) A tankönyvvé nyilvánítási eljárásban vizsgálni kell, hogy a könyv
 
-a) a Nemzeti alaptanterv kiadásáról és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet (a továbbiakban: Nemzeti alaptanterv) rendelkezéseinek megfelelően alkalmas-e az adott műveltségterület, tantárgy tananyagtartalmának oktatására,
+a)[^5] a Nemzeti alaptanterv rendelkezéseinek megfelelően alkalmas-e az adott műveltségi terület, tantárgy tananyagtartalmának oktatására,
 
 b) biztosítja-e a szaktudományok megfelelő szintű, tudományos, hiteles, tárgyilagos feldolgozását,
 
@@ -57,3 +57,5 @@ c) mentes-e a politikai állásfoglalástól,
 d) az iskolai reklámcélú tevékenység korlátozására vonatkozó jogszabályi előírásokba ütközik-e.
 
 (5) Nem nyilvánítható tankönyvvé az a könyv, amelyik nem felel meg az (1)–(4) bekezdésben foglaltaknak, valamint ha a könyvhöz kapcsolódó kiadvány nem szolgálja a tankönyv alkalmazhatóságát.
+
+[^5]: A 8. § (1) bekezdés a) pontja a 72/2013. (XI. 26.) EMMI rendelet 4. §-ával megállapított szöveg.

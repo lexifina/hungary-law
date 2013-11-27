@@ -1,5 +1,3 @@
-## 12. § Azt a könyvet, amelyet adott évfolyamra, műveltségi területre, tantárgyra a miniszter nyilvános pályázati eljárás során választott ki, a tankönyvtörvény 2. § (7) bekezdésére figyelemmel a hivatal a miniszter döntése alapján tizenöt napon belül tankönyvvé nyilvánítja.
-
 13. § (1) A könyv tankönyvvé nyilvánításának érvényessége annak a tanévnek az utolsó napjáig tart, amelyik a határozat jogerőre emelkedését követő ötödik naptári évben fejeződik be. A tankönyv kötésmódjának vagy borítójának megváltozása miatt indult, valamint az 6. § (4) bekezdése szerinti eljárásban a könyv megváltozott kötésmódú vagy borítójú, valamint javításokat tartalmazó változatának tankönyvvé nyilvánítása a megváltoztatott kivitelű és javított könyv tankönyvvé nyilvánításáról rendelkező jogerős határozatban megjelölt időpontig tart.
 
 (2) Az oktatási program (pedagógiai rendszer) részeként jóváhagyott információhordozó tankönyvvé nyilvánításáról szóló határozatnak tartalmaznia kell az oktatási programnak (pedagógiai rendszernek) a megnevezését, továbbá azt a rendelkezést, hogy ez a tankönyv kizárólag az oktatási program részeként alkalmazható.

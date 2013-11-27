@@ -38,4 +38,6 @@ f) a 2. mellékletben meghatározott igazgatási szolgáltatási díj megfizeté
 
 (8) Az eljárás tartama alatt a benyújtott könyvet – a 10. § (1) bekezdésben meghatározott eset kivételével – a kiadó vagy a szerző sem tartalmában, sem kivitelében nem változtathatja meg.
 
-(9) Az e paragrafusban foglaltakat nem kell alkalmazni azon tankönyv esetében, amelyet a miniszter adott évfolyamra, műveltségi területre, tantárgyra a tankönyvtörvény 2. § (7) bekezdése és a 3. § (2a) bekezdése alapján nyilvános pályázati eljárás során választott ki.
+(9)[^4] Az e paragrafusban foglaltakat nem kell alkalmazni azon tankönyv esetében, amelyet a miniszter adott évfolyamra, műveltségi területre, tantárgyra a tankönyvtörvény 2. § (7) bekezdése és a 3. § (2a) bekezdése alapján nyilvános pályázati eljárás során választott ki, vagy kísérleti tankönyvként való használatát engedélyezte.
+
+[^4]: A 3. § (9) bekezdése a 72/2013. (XI. 26.) EMMI rendelet 3. §-ával megállapított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-16-20-5
 | 2013-03-31 | 2013-16-20-5H.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-09-01 | 2013-16-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-09-02 | 2013-16-20-5H.4 | 2010: CXXX. törvény |
+| 2013-11-27 | 2013-16-20-5H.5 | 72/2013. (XI. 26.) EMMI rendelet |
