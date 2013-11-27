@@ -11,3 +11,7 @@
 (5) A versenyzőnek a versenyszerű sporttevékenység folytatásától, a sportszakembernek a versenyszerű sporttevékenységben való részvételtől történő visszavonulására vonatkozó bejelentése az előzetes felülvizsgálati eljárás és a doppingeljárás lefolytatását és befejezését nem akadályozza.
 
 (6) Az előzetes felülvizsgálati eljárás és a doppingeljárás részletes szabályaira – az e rendeletben foglalt eltérésekkel – a sportfegyelmi felelősségről szóló kormányrendelet rendelkezései az irányadók.
+
+(7)[^4] A doppingeljárásban hozott első fokú határozat ellen az eljárás alá vont személy, illetve az, akinek jogát vagy jogos érdekét a határozat érinti, a kézbesítéstől számított tizennégy napon belül jogorvoslati kérelmet terjeszthet elő. A jogorvoslati kérelmet az első fokú határozatot hozó doppingbizottság elnökénél kell benyújtani, aki azt a kérelem kézhezvételétől számított tizenöt napon belül az eljárás során keletkezett iratokkal együtt továbbítja a dopping fellebbviteli bizottság vezetőjének.
+
+[^4]: A 21. § (7) bekezdése a 436/2013. (XI. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
