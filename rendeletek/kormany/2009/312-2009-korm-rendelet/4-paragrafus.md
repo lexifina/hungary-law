@@ -1,6 +1,0 @@
-4. § (1)[^9] Az engedélyező vámszerv, illetve az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszerv a fémkereskedelmi engedély iránti kérelem megérkezését követő naptól számított tizenöt napon belül a kérelmező telephelyén helyszíni szemlét tart, amelynek időpontjáról előzetesen értesíti az 1. számú melléklet 1.9. pontja szerint megadott kapcsolattartó személyt.
-
-(2)[^10] Az engedélyező vámszerv, illetve az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszerv a benyújtott fémkereskedelmi engedély iránti kérelemben és az ahhoz csatolt, vagy a helyszínen megtekintett okiratokban, bizonylatokban foglaltak helyszíni ellenőrzésének eredményét a kérelmező jelenlétében felvett jegyzőkönyvben rögzíti.
-
-[^9]: A 4. § (1) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése, a 289/2010. (XII. 21.) Korm. rendelet 3. § (139) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^10]: A 4. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 129. § (13) bekezdése szerint módosított szöveg.
