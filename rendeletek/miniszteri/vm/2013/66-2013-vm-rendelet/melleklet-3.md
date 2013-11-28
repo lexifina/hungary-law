@@ -14,4 +14,6 @@
 
 | 6. | erdei kilátó | Kizárólag fából, kizárólag kőből vagy ezen anyagokból vegyesen alapozással és villámvédelemmel épített, olyan a környező fák feletti akadálytalan ellátás lehetőségét biztosító, legalább 6 méter padlómagasságú létesítmény, amelynek magasságán a kilátó és a terepszint legmélyebben fekvő találkozási pontjától a legmagasabb járószintig mért függőleges távolsága értendő, amelyet méterben, 2 tizedes jegy pontosságú értékre kell kerekíteni. |
 
-3. melléklet a 66/2013. (VII. 29.) VM rendelethez
+3. melléklet a 66/2013. (VII. 29.) VM rendelethez[^7]
+
+[^7]: A 3. melléklet a 107/2013. (XI. 27.) VM rendelet 4. § b) pontja szerint módosított szöveg.

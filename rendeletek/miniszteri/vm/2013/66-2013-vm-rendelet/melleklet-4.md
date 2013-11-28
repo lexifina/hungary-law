@@ -18,6 +18,6 @@
 
 | 8. | „B” típusú erdei kilátó | 44 395 |
 
-| 9. | „C” típusú erdei kilátó | 81 575 |
+| 9. | „C” típusú erdei kilátó | 81 195 |
 
 4. melléklet a 66/2013. (VII. 29.) VM rendelethez
