@@ -8,6 +8,6 @@
 
 (4) A tranzitengedély három hónapig hatályos, amely kérelemre, egy alkalommal, 3 hónappal meghosszabbítható
 
-(5)[^28] A Hatóság az 1. melléklet I. fejezet a)–c) pontjában, II. fejezet a) és b) pontjában, III., IV., VII. és VIII. fejezetében felsorolt haditechnikai eszközökre vonatkozó tranzit engedélyben a közrend és a közbiztonság érvényesülése érdekében az összes körülmény figyelembevételével a szállítmány fegyveres kíséretének biztosításáról rendelkezhet.
+(5)[^30] A Hatóság az 1. melléklet I. fejezet a)–c) pontjában, II. fejezet a) és b) pontjában, III., IV., VII. és VIII. fejezetében felsorolt haditechnikai eszközökre vonatkozó tranzit engedélyben a közrend és a közbiztonság érvényesülése érdekében az összes körülmény figyelembevételével a szállítmány fegyveres kíséretének biztosításáról rendelkezhet.
 
-[^28]: A 18. § (5) bekezdését a 78/2013. (III. 13.) Korm. rendelet 6. §-a iktatta be.
+[^30]: A 18. § (5) bekezdését a 78/2013. (III. 13.) Korm. rendelet 6. §-a iktatta be.

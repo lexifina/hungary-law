@@ -26,9 +26,9 @@
 
 ## 1. az összes számlavezető pénzintézet által 3 hónapnál nem régebben kiállított nyilatkozatot,
 
-## 2.[^41] az eseti tevékenységi, illetve a kizárólag tranzit és kizárólag bróker tevékenységre irányuló engedélykérelem kivételével a vállalkozás Belső Megfelelési Programját,
+## 2.[^49] az eseti tevékenységi, illetve a kizárólag tranzit és kizárólag bróker tevékenységre irányuló engedélykérelem kivételével a vállalkozás Belső Megfelelési Programját,
 
-## 3.[^42] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát,
+## 3.[^50] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát,
 
 ## 4. amennyiben az ügyben nem a vállalkozás képviseletére jogosult jár el, az eljáró ügyintéző meghatalmazását,
 
@@ -38,5 +38,5 @@
 
 4. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez
 
-[^41]: A 3. melléklet II. pont 2. alpontja a 78/2013. (III. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^42]: A 3. melléklet II. 3. pontja a 355/2012. (XII. 13.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg.
+[^49]: A 3. melléklet II. pont 2. alpontja a 78/2013. (III. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^50]: A 3. melléklet II. 3. pontja a 355/2012. (XII. 13.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg.

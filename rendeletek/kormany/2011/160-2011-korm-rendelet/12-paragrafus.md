@@ -1,11 +1,13 @@
 ## 6. Forgalmi engedély
 
-## 12. §[^23] Haditechnikai eszköz kivitelére, behozatalára, transzferjére és haditechnikai szolgáltatás nyújtására és igénybevételére vonatkozó szerződés csak forgalmi engedély birtokában teljesíthető. Forgalmi engedély hatályos tevékenységi engedély birtokában, azzal összhangban kérelmezhető, illetve vehető igénybe. A forgalmi engedély típusai:
+## 12. §[^24] Haditechnikai eszköz kivitelére, behozatalára, transzferjére és haditechnikai szolgáltatás nyújtására és igénybevételére vonatkozó szerződés csak forgalmi engedély birtokában teljesíthető. Forgalmi engedély hatályos tevékenységi engedély birtokában, azzal összhangban kérelmezhető, illetve vehető igénybe. A forgalmi engedély típusai:
 
-a) általános,
+a) általános forgalmi engedély,
 
-b) globális vagy
+b) globális forgalmi engedély,
 
-c) egyedi.
+c) egyedi forgalmi engedély, vagy
 
-[^23]: A 12. § a 78/2013. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+d) 258/2012/EU rendelet szerinti kiviteli engedély.
+
+[^24]: A 12. § a 441/2013. (XI. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
