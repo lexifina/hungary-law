@@ -18,9 +18,12 @@ b)[^5] hulladék kivitele esetén a hulladék termelőjének (birtokosának) tel
 
 c)[^6] hulladéknak az országon történő átszállítása esetén a NAV Központi Hivatalát, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét értesíti.
 
+(8)[^7] A (7) bekezdésben meghatározott, a NAV Központi Hivatala részére teljesítendő értesítés elektronikus kapcsolattartás útján hivatali kapun keresztül történik.
+
 [^1]: Az 1. § (2) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 12. § (5) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 549. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^3]: Az 1. § (7) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (7) bekezdés a) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
 [^5]: Az 1. § (7) bekezdés b) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
 [^6]: Az 1. § (7) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^7]: Az 1. § (8) bekezdését a 443/2013. (XI. 27.) Korm. rendelet 33. §-a iktatta be.
