@@ -2,9 +2,9 @@
 
 8. § (1) A Kormány – a (3) bekezdésben meghatározott körben – piacfelügyeleti hatóságként a Hivatalt jelöli ki.
 
-(2)[^12] Piacfelügyeleti eljárásban első fokon országos illetékességgel a Hivatal piacfelügyeleti és műszaki felügyeleti hatósága, másodfokon a Hivatal központi szerve jár el.
+(2)[^13] Piacfelügyeleti eljárásban első fokon országos illetékességgel a Hivatal piacfelügyeleti és műszaki felügyeleti hatósága, másodfokon a Hivatal központi szerve jár el.
 
-(3)[^13] A piacfelügyeleti eljárás a külön jogszabály szerinti egyes gazdasági célfelhasználásra szánt
+(3)[^14] A piacfelügyeleti eljárás a külön jogszabály szerinti egyes gazdasági célfelhasználásra szánt
 
 a) nyomástartó berendezések és rendszerek biztonsági követelményeinek és megfelelőség tanúsításának,
 
@@ -32,5 +32,5 @@ i) a kötelező hitelesítés körébe tartozó egyes mérőeszközök méréste
 
 (4) A piacfelügyeleti eljárás a kötelező hitelesítés körébe tartozó egyes mérőeszközök forgalmazási követelményeknek való megfelelősége ellenőrzésére terjed ki.
 
-[^12]: A 8. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (13) bekezdése szerint módosított szöveg.
-[^13]: A 8. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^13]: A 8. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (13) bekezdése szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

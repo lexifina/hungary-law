@@ -2,7 +2,7 @@
 
 12. § (1) A Kormány – a (2) bekezdésben meghatározott körben, illetve a (3) és (4) bekezdésben foglalt kivétellel – műszaki biztonsági hatóságként az illetékes területi mérésügyi és műszaki biztonsági hatóságot, másodfokon a Hivatal központi szervét jelöli ki.
 
-(2)[^16] Az (1) bekezdés szerinti hatóság
+(2)[^17] Az (1) bekezdés szerinti hatóság
 
 a) a műszaki biztonsági hatóságok műszaki biztonsági tevékenységének részletes szabályairól szóló kormányrendeletben meghatározott, műszaki biztonsági szempontból veszélyes berendezésekkel és létesítményekkel kapcsolatos eljárásokban műszaki biztonsági hatóságként jár el,
 
@@ -10,7 +10,7 @@ b) ellátja a gázcsatlakozóvezeték- és a felhasználói berendezés-létesí
 
 c) műszaki biztonsági hatóságként jár el a felvonó, mozgólépcső létesítésének, áthelyezésének, főbb műszaki adatainak megváltoztatásával járó átalakításának, használatbavételének, valamint elbontásának engedélyezésével kapcsolatos hatósági eljárásokban a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendeletben meghatározott felvonókkal, mozgólépcsőkkel és mozgójárdákkal kapcsolatos hatósági eljárások kivételével.
 
-(3)[^17] A Kormány műszaki biztonsági hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első fokon a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
+(3)[^18] A Kormány műszaki biztonsági hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első fokon a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
 
 a) az egyes hegesztett szerkezetek gyártását, szerelését, átalakítását és javítását végző gazdálkodó szervezetek nyilvántartásba vételével,
 
@@ -30,14 +30,14 @@ h) a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgáló
 
 ## kapcsolatos eljárásokban.
 
-(3a)[^18] A (3) bekezdés a)–b) pontjában foglalt nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3a)[^19] A (3) bekezdés a)–b) pontjában foglalt nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4)[^19] A Kormány a (3) bekezdés a)–c) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
+(4)[^20] A Kormány a (3) bekezdés a)–c) pontjában megjelölt tevékenység vonatkozásában a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatal piacfelügyeleti és műszaki felügyeleti hatóságát, másodfokon a Hivatal központi szervét jelöli ki.
 
-(5)[^20] A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
+(5)[^21] A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
 
-[^16]: A 12. § (2) bekezdése a 358/2013. (X. 9.) Korm. rendelet 4. §-ával megállapított szöveg. [A 12. § (2) bekezdésének a 360/2013. (X. 11.) Korm. rendelet 23. §-ával elrendelt módosítása, amely szerint az „elbontásának engedélyezésével kapcsolatos hatósági eljárásokban.” szövegrész helyébe az „elbontásának engedélyezésével, és a kőolaj-feldolgozás és a kőolajtermék-tárolás tekintetében az energetikai létfontosságú rendszerekkel és létesítményekkel kapcsolatos hatósági eljárásokban.” szöveg lép, nem vezethető át.]
-[^17]: A 12. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^18]: A 12. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (2) bekezdése iktatta be.
-[^19]: A 12. § (4) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^20]: A 12. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^17]: A 12. § (2) bekezdése a 358/2013. (X. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^18]: A 12. § (3) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^19]: A 12. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^20]: A 12. § (4) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^21]: A 12. § (5) bekezdését a 7/2013. (I. 18.) Korm. rendelet 5. § (7) bekezdése iktatta be.
