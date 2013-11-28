@@ -1,0 +1,1 @@
+A Kormány a fémkereskedelemről szóló 2013. évi CXL. törvény 15. § (7) bekezdés a)–l) pontjának felhatalmazása, a 34–39. § tekintetében a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 81. § (1) bekezdés b) pontjának felhatalmazása alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
