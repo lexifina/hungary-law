@@ -1,6 +1,6 @@
 ## A) A Nemzeti Adó- és Vámhivatal középfokú vámszervei, székhelyük és illetékességi területük
 
-## 1.[^189] A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága, székhelye Budapest, illetékességi területe Budapest és Pest megye közigazgatási területe a 8. pontban foglaltak kivételével az e rendelet szerinti eltérésekkel.
+## 1.[^193] A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága, székhelye Budapest, illetékességi területe Budapest és Pest megye közigazgatási területe a 8. pontban foglaltak kivételével az e rendelet szerinti eltérésekkel.
 
 ## 2. A Nemzeti Adó- és Vámhivatal Észak-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága, székhelye Miskolc, illetékességi területe Borsod-Abaúj-Zemplén megye, Heves megye és Nógrád megye közigazgatási területe.
 
@@ -14,25 +14,25 @@
 
 ## 7. A Nemzeti Adó- és Vámhivatal Dél-dunántúli Regionális Vám- és Pénzügyőri Főigazgatósága, székhelye Pécs, illetékességi területe Baranya, Somogy és Tolna megye közigazgatási területe.
 
-## 8.[^190] A Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575); továbbá a nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légiközlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
+## 8.[^194] A Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575); továbbá a nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légiközlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
 
-## 9.[^191] A Nemzeti Adó- és Vámhivatal Bevetési Főigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
+## 9.[^195] A Nemzeti Adó- és Vámhivatal Bevetési Főigazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
-## 10.[^192] A Nemzeti Adó- és Vámhivatal Szakértői Intézete, székhelye Budapest, illetékességi területe Magyarország területe.
+## 10.[^196] A Nemzeti Adó- és Vámhivatal Szakértői Intézete, székhelye Budapest, illetékességi területe Magyarország területe.
 
 ## B) A Nemzeti Adó- és Vámhivatal alsó fokú vámszervei, székhelyük és illetékességi területük
 
 ## A Nemzeti Adó- és Vámhivatal Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága területén:
 
-## 1.[^193]
+## 1.[^197]
 
 ## 2. A Nemzeti Adó- és Vámhivatal Észak-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe – az e rendelet szerinti eltérésekkel – Budapest I., II., III., IV., V. és XIII. kerülete közigazgatási területe.
 
 ## 3. A Nemzeti Adó- és Vámhivatal Kelet-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe – az e rendelet szerinti eltérésekkel – Budapest VI., VII., VIII., X., XIV., XV., XVI. és XVII. kerülete közigazgatási területe.
 
-## 4.[^194] A Nemzeti Adó- és Vámhivatal Dél-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe Budapest IX., XI., XII., XVIII., XIX., XX., XXI., XXII. és XXIII. kerülete közigazgatási területe; ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság hatáskörébe tartozó ügyekben a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
+## 4.[^198] A Nemzeti Adó- és Vámhivatal Dél-budapesti Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe Budapest IX., XI., XII., XVIII., XIX., XX., XXI., XXII. és XXIII. kerülete közigazgatási területe; ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság hatáskörébe tartozó ügyekben a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
 
-## 5.[^195] A Nemzeti Adó- és Vámhivatal Pest Megyei Vám- és Pénzügyőri Igazgatósága, székhelye Budaörs, illetékességi területe Pest megye közigazgatási területe; ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság hatáskörébe tartozó ügyekben a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
+## 5.[^199] A Nemzeti Adó- és Vámhivatal Pest Megyei Vám- és Pénzügyőri Igazgatósága, székhelye Budaörs, illetékességi területe Pest megye közigazgatási területe; ide nem értve a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság hatáskörébe tartozó ügyekben a Nemzeti Adó- és Vámhivatal 1. és 2. számú Repülőtéri Igazgatóság illetékességi területét.
 
 ## A Nemzeti Adó- és Vámhivatal Észak-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága területén:
 
@@ -82,37 +82,37 @@
 
 ## 23. A Nemzeti Adó- és Vámhivatal Tolna Megyei Vám- és Pénzügyőri Igazgatósága, székhelye Szekszárd, illetékességi területe Tolna megye közigazgatási területe.
 
-## A Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatósága területén:[^196]
+## A Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatósága területén:[^200]
 
-## 24.[^197] A Nemzeti Adó- és Vámhivatal 1. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége a következő helyekre terjed ki: Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575) területére.
+## 24.[^201] A Nemzeti Adó- és Vámhivatal 1. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége a következő helyekre terjed ki: Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés, Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9–12); 1097 Budapest, Fehérakác u. 3. (helyrajzi szám: 38236/723); és 1097 Budapest, Ecseri u. 14–16. (helyrajzi szám: 38236/575) területére.
 
-## 25.[^198] A Nemzeti Adó- és Vámhivatal 2. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége a következő helyekre terjed ki: a Budapest Liszt Ferenc Nemzetközi Repülőtér, és légi forgalom tekintetében Pest megye közigazgatási területére.
+## 25.[^202] A Nemzeti Adó- és Vámhivatal 2. számú Repülőtéri Igazgatósága, székhelye Budapest, illetékessége a következő helyekre terjed ki: a Budapest Liszt Ferenc Nemzetközi Repülőtér, és légi forgalom tekintetében Pest megye közigazgatási területére.
 
-## A Nemzeti Adó- és Vámhivatal Őrzésvédelmi és Támogató Igazgatóság székhelye és illetékessége:[^199]
+## A Nemzeti Adó- és Vámhivatal Őrzésvédelmi és Támogató Igazgatóság székhelye és illetékessége:[^203]
 
-## 26.[^200] A Nemzeti Adó- és Vámhivatal Őrzésvédelmi és Támogató Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
+## 26.[^204] A Nemzeti Adó- és Vámhivatal Őrzésvédelmi és Támogató Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
-## A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága székhelye és illetékessége:[^201]
+## A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága székhelye és illetékessége:[^205]
 
-## 27.[^202] A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe a hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe, a hatáskörébe tartozó egyéb feladatok tekintetében – az e rendelet szerinti eltérésekkel – Magyarország területe.
+## 27.[^206] A Nemzeti Adó- és Vámhivatal Kiemelt Ügyek és Adózók Vám- és Pénzügyőri Igazgatósága, székhelye Budapest, illetékességi területe a hatáskörébe tartozó kiemelt adózók tekintetében Budapest és Pest megye közigazgatási területe, a hatáskörébe tartozó egyéb feladatok tekintetében – az e rendelet szerinti eltérésekkel – Magyarország területe.
 
-## C)[^203]
+## C)[^207]
 
-3/A. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez[^204]
+3/A. számú melléklet a 273/2010. (XII. 9.) Korm. rendelethez[^208]
 
-[^189]: A 3. számú melléklet A) rész 1. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^190]: A 3. számú melléklet A) rész 8. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 20. és 21. pontja szerint módosított szöveg.
-[^191]: A 3. számú melléklet A) rész 9. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
-[^192]: A 3. számú melléklet A) rész 10. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
-[^193]: A 3. számú melléklet B) rész 1. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 26. pontja hatályon kívül helyezte.
-[^194]: A 3. számú melléklet B) rész 4. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 23. pontja szerint módosított szöveg.
-[^195]: A 3. számú melléklet B) rész 5. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 23. pontja szerint módosított szöveg.
-[^196]: A 3. számú melléklet B) rész 24. pontját megelőző nyitó szövegrészt a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^197]: A 3. számú melléklet B) rész 24. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^198]: A 3. számú melléklet B) rész 25. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^199]: A 3. számú melléklet B) rész 26. pontját megelőző nyitó szövegrészt a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^200]: A 3. számú melléklet B) rész 26. pontját a 269/2011. (XII. 20.) Korm. rendelet 19. § 18. pontja hatályon kívül helyezte, újonnan a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^201]: A 3. számú melléklet B) rész 27. pontját megelőző nyitó szövegrészt a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
-[^202]: A 3. számú melléklet B) rész 27. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^203]: A 3. számú melléklet C) részét a 269/2011. (XII. 20.) Korm. rendelet 19. § 19. pontja hatályon kívül helyezte.
-[^204]: A 3/A. számú mellékletet a 366/2012. (XII. 17.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^193]: A 3. számú melléklet A) rész 1. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^194]: A 3. számú melléklet A) rész 8. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 20. és 21. pontja szerint módosított szöveg.
+[^195]: A 3. számú melléklet A) rész 9. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
+[^196]: A 3. számú melléklet A) rész 10. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 21. pontja szerint módosított szöveg.
+[^197]: A 3. számú melléklet B) rész 1. pontját a 366/2012. (XII. 17.) Korm. rendelet 31. § 26. pontja hatályon kívül helyezte.
+[^198]: A 3. számú melléklet B) rész 4. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 23. pontja szerint módosított szöveg.
+[^199]: A 3. számú melléklet B) rész 5. pontja a 269/2011. (XII. 20.) Korm. rendelet 18. § 23. pontja szerint módosított szöveg.
+[^200]: A 3. számú melléklet B) rész 24. pontját megelőző nyitó szövegrészt a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^201]: A 3. számú melléklet B) rész 24. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^202]: A 3. számú melléklet B) rész 25. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^203]: A 3. számú melléklet B) rész 26. pontját megelőző nyitó szövegrészt a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^204]: A 3. számú melléklet B) rész 26. pontját a 269/2011. (XII. 20.) Korm. rendelet 19. § 18. pontja hatályon kívül helyezte, újonnan a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^205]: A 3. számú melléklet B) rész 27. pontját megelőző nyitó szövegrészt a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^206]: A 3. számú melléklet B) rész 27. pontja a 366/2012. (XII. 17.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^207]: A 3. számú melléklet C) részét a 269/2011. (XII. 20.) Korm. rendelet 19. § 19. pontja hatályon kívül helyezte.
+[^208]: A 3/A. számú mellékletet a 366/2012. (XII. 17.) Korm. rendelet 29. § (3) bekezdése iktatta be.
