@@ -1,10 +1,10 @@
-20/B. §[^49] (1) A házilagos lőszerszerelésre és -újratöltésre jogosító engedéllyel rendelkező az engedély birtokában jogosult
+20/B. §[^51] (1) A házilagos lőszerszerelésre és -újratöltésre jogosító engedéllyel rendelkező az engedély birtokában jogosult
 
 a) a lőpor és a csappantyú megvásárlására,
 
 b) legfeljebb 5 kg lőpor és 2000 db csappantyú szállítására, valamint
 
-c)[^50] az Ftv. 2. § 44. pontjában meghatározott tevékenység végzésére.
+c)[^52] az Ftv. 2. § 44. pontjában meghatározott tevékenység végzésére.
 
 (2) Kizárólag az engedélyes lőfegyvertartási engedélyébe bejegyzett lőfegyverhez jogszerűen és rendeltetésszerűen használható kaliberjelű lőszer házilagos szerelése és újratöltése engedélyezett.
 
@@ -18,5 +18,5 @@ c) a lőpor és a csappantyú közforgalmú közlekedési eszközön történő 
 
 (4) A lőszer házilagos szerelése és újratöltése nem végezhető olyan helyiségben, ahol nyílt lánggal üzemelő berendezés található. A lőszer házilagos szerelése és újratöltése során a dohányzás, valamint a nyílt láng használatával vagy szikraképződéssel járó egyéb tevékenység folytatása tilos.
 
-[^49]: A 20/B. §-t a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
-[^50]: A 20/B. § (1) bekezdés c) pontja a 102/2012. (V. 18.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^51]: A 20/B. §-t a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
+[^52]: A 20/B. § (1) bekezdés c) pontja a 102/2012. (V. 18.) Korm. rendelet 14. §-a szerint módosított szöveg.

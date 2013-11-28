@@ -42,6 +42,6 @@
 
 | aláírás |  |
 
-13. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^177]
+13. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^181]
 
-[^177]: A 13. melléklet a 39/2012. (III. 12.) korm. rendelet 28. § a) pontjával megállapított szöveg.
+[^181]: A 13. melléklet a 39/2012. (III. 12.) korm. rendelet 28. § a) pontjával megállapított szöveg.

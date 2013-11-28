@@ -1,10 +1,10 @@
-26. § (1)[^62] E rendelet eltérő rendelkezése hiányában lőfegyver tartására engedély csak akkor adható, ha a kérelmező személy
+26. § (1)[^64] E rendelet eltérő rendelkezése hiányában lőfegyver tartására engedély csak akkor adható, ha a kérelmező személy
 
-a)[^63]
+a)[^65]
 
-b)[^64] a jogszabályban meghatározottak szerint a lőfegyver biztonságos használatához előírt egészségi alkalmasságát igazolja;
+b)[^66] a jogszabályban meghatározottak szerint a lőfegyver biztonságos használatához előírt egészségi alkalmasságát igazolja;
 
-c)[^65] a jogszabályban meghatározottak szerint a lőfegyver tartásához szükséges elméleti ismereteket és gyakorlati jártasságát igazoló vizsgát tesz és a vizsgabizottság megítélése szerint a lőfegyver biztonságos kezelésére és használatára képes;
+c)[^67] a jogszabályban meghatározottak szerint a lőfegyver tartásához szükséges elméleti ismereteket és gyakorlati jártasságát igazoló vizsgát tesz és a vizsgabizottság megítélése szerint a lőfegyver biztonságos kezelésére és használatára képes;
 
 d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételeivel rendelkezik.
 
@@ -14,15 +14,15 @@ d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételei
 
 (4) E rendelet eltérő rendelkezése hiányában a sportlőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsgát a sportlövő versenybírák esetében a Versenybírói Igazolvány, a sportlövő edzők esetében az Edzői Oklevél helyettesíti.
 
-(5)[^66] E rendelet eltérő rendelkezése hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
+(5)[^68] E rendelet eltérő rendelkezése hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
 
 (6) Az Európai Unió más tagállamában lakóhellyel rendelkező személy részére lőfegyver tartása akkor engedélyezhető, ha a lakóhely szerinti tagállam illetékes hatósága ezzel előzetesen egyetértett.
 
-(7)[^67] A 26. § (1) bekezdésének c) pontja szerinti vizsga letételére kell kötelezni a lőfegyver tartására jogosító engedély megadását kérelmező személyt, ha lőfegyvertartási engedélyét az 5. § (1) bekezdés b) pontja alapján vonták vissza.
+(7)[^69] A 26. § (1) bekezdésének c) pontja szerinti vizsga letételére kell kötelezni a lőfegyver tartására jogosító engedély megadását kérelmező személyt, ha lőfegyvertartási engedélyét az 5. § (1) bekezdés b) pontja alapján vonták vissza.
 
-[^62]: A 26. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^63]: A 26. § (1) bekezdés a) pontját a 21/2010. (II. 9.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^64]: A 26. § (1) bekezdés b) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés e) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^65]: A 26. § (1) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^66]: A 26. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 11. §-ával megállapított, a 416/2012. (XII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^67]: A 26. § (7) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^64]: A 26. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^65]: A 26. § (1) bekezdés a) pontját a 21/2010. (II. 9.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^66]: A 26. § (1) bekezdés b) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés e) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^67]: A 26. § (1) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^68]: A 26. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 11. §-ával megállapított, a 416/2012. (XII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^69]: A 26. § (7) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 10. pontja szerint módosított szöveg.

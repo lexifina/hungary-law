@@ -1,6 +1,6 @@
-## A házilagos lőszerszerelésre és -újratöltésre vonatkozó szabályok[^47]
+## A házilagos lőszerszerelésre és -újratöltésre vonatkozó szabályok[^49]
 
-20/A. §[^48] (1) A házilagos lőszerszerelésre és -újratöltésre jogosító – a 14. számú mellékletben meghatározott – engedély kizárólag a lőfegyver, lőszer tartására jogosító engedéllyel rendelkezőnek adható meg, feltéve, hogy a kérelmező a lőszer, valamint a lőszerelem tárolásának e rendeletben meghatározott feltételeivel rendelkezik, illetve e feltételeket biztosítja.
+20/A. §[^50] (1) A házilagos lőszerszerelésre és -újratöltésre jogosító – a 14. számú mellékletben meghatározott – engedély kizárólag a lőfegyver, lőszer tartására jogosító engedéllyel rendelkezőnek adható meg, feltéve, hogy a kérelmező a lőszer, valamint a lőszerelem tárolásának e rendeletben meghatározott feltételeivel rendelkezik, illetve e feltételeket biztosítja.
 
 (2) A házilagos lőszerszerelésre és -újratöltésre jogosító engedélyt a 19. számú melléklet szerinti formanyomtatvány benyújtásával kell kérelmezni.
 
@@ -8,5 +8,5 @@
 
 (4) A vizsgabizottság elnökét és egy megfelelő szakismerettel rendelkező tagját a lőfegyverek és lőszerek vizsgálatára kijelölt szervezet vezetője, egy tagját pedig a megyei (budapesti) rendőrfőkapitány jelöli ki.
 
-[^47]: A 20/A–20/B. §-okat megelőző alcímet a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
-[^48]: A 20/A. §-t a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
+[^49]: A 20/A–20/B. §-okat megelőző alcímet a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
+[^50]: A 20/A. §-t a 39/2012. (III. 12.) Korm. rendelet 8. §-a iktatta be.
