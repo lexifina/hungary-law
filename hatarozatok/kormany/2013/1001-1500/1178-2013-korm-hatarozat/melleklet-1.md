@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján, a kormányablakok kialakítása érdekében 3700,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 15. Közigazgatási és Igazságügyi Hivatal cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján, a kormányablakok kialakítása érdekében 3700,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet X. Közigazgatási és Igazságügyi Minisztérium fejezet, 15. Közigazgatási és Igazságügyi Hivatal cím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,9 +10,9 @@
 
 ## Felelős: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. december 15.
+## Határidő: 2014. június 30.
 
-## 2. a 2012. és 2013. évi költségvetési hiánycél biztosításához szükséges további intézkedésekről szóló 1036/2012. (II. 21.) Korm. határozat 6. pontjában foglalt beszerzési tilalom alól felmentést ad a kormányablakok fizikai kialakításához szükséges beszerzések vonatkozásában;
+## 2.[^2] a 2012. és 2013. évi költségvetési hiánycél biztosításához szükséges további intézkedésekről szóló 1036/2012. (II. 21.) Korm. határozat 6. pontjában foglalt beszerzési tilalom alól felmentést ad a kormányablakok fizikai kialakításához szükséges beszerzések vonatkozásában;
 
 ## 3. felhívja a nemzetgazdasági minisztert, hogy a közigazgatási és igazságügyi miniszter bevonásával gondoskodjon arról, hogy a kormányablakok kialakításához további legfeljebb 3525,0 millió forint 2013. év második féléve során rendelkezésre álljon.
 
@@ -111,3 +111,6 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: Az 1. pont az 1877/2013. (XI. 28.) Korm. határozat szerint módosított szöveg.
+[^2]: [A 2. pontban az 1426/2014. (VII. 28.) Korm. határozat 6. pontjával elrendelt módosítás, amely szerint a „2014. június 30.” szövegrész helyébe a „2014. december 31.” szöveg lép, nem vezethető át.]
