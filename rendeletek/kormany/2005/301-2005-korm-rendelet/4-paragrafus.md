@@ -1,4 +1,4 @@
-## 3/A. §[^7] A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) az engedélyeket, a nemzetbiztonsági szolgálatok és a Terror Elhárítási Központ vezetője véleményének szükség szerinti kikérésével, az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter egyidejű tájékoztatásával adja ki.
+## 3/A. §[^7] A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) az engedélyeket a nemzetbiztonsági szolgálatok és a Terrorelhárítási Központ vezetője véleményének kikérésével, az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter és az országos rendőrfőkapitány egyidejű tájékoztatásával adja ki.
 
 4. § (1) A kérelemnek tartalmaznia kell:
 
@@ -60,7 +60,7 @@ c) a tervezett gyártáshoz vagy a szolgáltatás nyújtásához közvetlenül k
 
 d) a külön jogszabályban előírt termékekről nyilvántartást vezet, illetve arról adatot szolgáltat.
 
-[^7]: a 3/A. §-t a 292/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 3/A. §-t a 292/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 441/2013. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^8]: A 4. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 439. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^9]: A 4. § (1) bekezdés b) pontja a 292/2011. (XII. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. § (1) bekezdés d) pontja a 182/2009. (IX. 10.) Korm. rendelet 440. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

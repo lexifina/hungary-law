@@ -1,7 +1,7 @@
 ## 13. § Ez a rendelet 2006. január 15-én lép hatályba.
 
-14. §[^39] (1) Ez a rendelet az Európai Unió (2011/C 86/01) közös katonai listájának való megfelelést szolgálja.
+14. §[^40] (1) Ez a rendelet az Európai Unió (2011/C 86/01) közös katonai listájának való megfelelést szolgálja.
 
 (2) A haditechnikai termékek gyártása és a haditechnikai szolgáltatások nyújtása engedélyezésének részletes szabályairól szóló 301/2005. (XII. 23.) Korm. rendelet módosításáról szóló 292/2011. (XII. 22.) Korm. rendelet (a továbbiakban: R1.) hatálybalépése az R1 hatálybalépése előtt kiadott, határozott időre szóló engedélyek hatályosságát nem érinti. A határozatlan idejű engedélyek 2017. január 1-jével megszűnnek.
 
-[^39]: A 14. §-t a 171/2010. (V. 13.) Korm. rendelet 1. § 4. pontja hatályon kívül helyezte, újonnan a 292/2011. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^40]: A 14. §-t a 171/2010. (V. 13.) Korm. rendelet 1. § 4. pontja hatályon kívül helyezte, újonnan a 292/2011. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.

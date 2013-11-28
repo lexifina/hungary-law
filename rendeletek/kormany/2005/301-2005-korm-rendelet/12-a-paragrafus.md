@@ -1,6 +1,6 @@
-## Hadiipari bírság[^37]
+## Hadiipari bírság[^38]
 
-12/A. §[^38] (1) A bírság mértéke a hadiipari
+12/A. §[^39] (1) A bírság mértéke a hadiipari
 
 a) tájékoztatási kötelezettség megszegése esetén egyszázezer forinttól kettőszázezer forintig;
 
@@ -20,5 +20,5 @@ h) tevékenység engedély nélküli végzése esetén ötmillió forinttól tí
 
 (2) A bírságot az azt megállapító jogerős és végrehajtható határozatban előírt határidőn belül a Magyar Államkincstár által vezetett 10032000-00282448-00000000 számú számlára kell megfizetni.
 
-[^37]: Az alcímet a 292/2011. (XII. 22.) Korm rendelet 8. § (1) bekezdése iktatta be.
-[^38]: A 12/A. §-t újonnan a 292/2011. (XII. 22.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^38]: Az alcímet a 292/2011. (XII. 22.) Korm rendelet 8. § (1) bekezdése iktatta be.
+[^39]: A 12/A. §-t újonnan a 292/2011. (XII. 22.) Korm. rendelet 8. § (2) bekezdése iktatta be.
