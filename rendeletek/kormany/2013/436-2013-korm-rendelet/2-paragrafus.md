@@ -1,7 +1,0 @@
-## „(7) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy az értesítést nem veszi át, az értesítést a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
-
-## (8) Ha az értesítés a sportfegyelmi bizottsághoz „nem kereste” jelzéssel érkezik vissza, az értesítést – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
-
-## (9) A kézbesítési vélelem megdöntése iránti kérelmet a címzett a kézbesítési vélelem beálltáról történő tudomásszerzéstől számított 8 napon belül, de legkésőbb a kézbesítési vélelem beálltától számított 15 napos jogvesztő határidőn belül terjeszthet elő. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát igazolják vagy a címzett önhibájának hiányát valószínűsítik.
-
-## (10) A (9) bekezdés szerinti kérelmet az a sportfegyelmi bizottság bírálja el, amelyik a kézbesítés tárgyát képező értesítést kiadmányozta. A kérelem előterjesztésének a sportfegyelmi eljárás megindítására halasztó hatálya van. Ha a sportfegyelmi bizottság a kérelemnek helyt ad, a sportfegyelmi eljárás megtartására az (5) bekezdésben és az 5. § (1) bekezdésében meghatározott határidőkre figyelemmel új határidőt tűz ki, amellyel szemben igazolási kérelem ismételt előterjesztésének nincs helye.”
