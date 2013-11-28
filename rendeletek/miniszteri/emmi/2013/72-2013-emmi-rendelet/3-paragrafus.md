@@ -1,3 +1,0 @@
-## 2. § A tankönyvrendelet 2. §-a a következő f) ponttal egészül ki:
-
-## „f) kísérleti tankönyv: olyan, a miniszter engedélye alapján kiadott, bármely iskolai évfolyam vonatkozásában bármely, a Nemzeti alaptanterv kiadásáról és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendeletben (a továbbiakban: Nemzeti alaptanterv) meghatározott műveltségi területre, vagy a miniszter által kiadott kerettantervek bármely tantárgyára vonatkozó, valamint bármely nevelési-oktatási program részeként keletkezett tankönyv, amelynek célja a kísérleti köznevelés-fejlesztési program keretében történő alkalmazása az iskolák önkéntes részvétele alapján, és amelyet térítésmentesen kell a részt vevő iskolák rendelkezésére bocsátani.”
