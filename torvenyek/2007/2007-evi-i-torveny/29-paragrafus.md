@@ -1,4 +1,4 @@
-29. § A három hónapot meghaladó tartózkodási jogát gyakorló EGT-állampolgár vagy családtag a személyes adatok közlésével köteles bejelenteni
+29. § A száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogát gyakorló EGT-állampolgár vagy családtag a személyes adatok közlésével köteles bejelenteni
 
 a) a vele együtt tartózkodó családtagjának a halálát,
 

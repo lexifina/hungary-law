@@ -1,6 +1,6 @@
-## A három hónapot meghaladó tartózkodás joga
+## A száznyolcvan napon belül kilencven napot meghaladó tartózkodás joga
 
-6. § (1) A három hónapot meghaladó tartózkodásra az az EGT-állampolgár jogosult,
+6. § (1) A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra az az EGT-állampolgár jogosult,
 
 a) akinek tartózkodási célja keresőtevékenység folytatása,
 

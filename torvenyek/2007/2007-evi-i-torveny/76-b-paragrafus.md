@@ -1,4 +1,4 @@
-76/B. § (1) Az eljáró hatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem és a kiadott vízum, illetve vízumot helyettesítő engedély (a továbbiakban e §-ban együtt: vízum) alapján a harmadik ország állampolgárságával rendelkező családtag következő adatait kezeli:
+76/B. § (1) Az eljáró hatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem és a kiadott vízum, illetve vízumot helyettesítő engedély (a továbbiakban e §-ban együtt: vízum) alapján a harmadik ország állampolgárságával rendelkező családtag következő adatait kezeli:
 
 a) családi és utónév (nevek);
 

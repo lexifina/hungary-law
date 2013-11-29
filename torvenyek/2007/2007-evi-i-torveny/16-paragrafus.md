@@ -16,4 +16,4 @@ a) a magyar állampolgár családtagja – a házastárs kivételével –, ha m
 
 b) a magyar állampolgár házastársa, feltéve, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték, és azóta életközösségük folyamatosan fennáll.
 
-(3) Ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, és Magyarország területére három hónapot meghaladó időre visszatér, az állandó tartózkodási jog megszerzéséhez szükséges időtartam újrakezdődik.
+(3) Ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, és Magyarország területére száznyolcvan napon belül kilencven napot meghaladó időre visszatér, az állandó tartózkodási jog megszerzéséhez szükséges időtartam újrakezdődik.

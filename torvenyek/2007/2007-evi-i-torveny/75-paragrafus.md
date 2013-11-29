@@ -16,7 +16,7 @@ e) a személyes szabadságukban korlátozott EGT-állampolgárok és családtago
 
 f) az úti okmány, a személyazonosító igazolvány vagy a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő EGT-állampolgárok és családtagok nyilvántartása;
 
-g) a három hónapot meg nem haladó tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
+g) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 

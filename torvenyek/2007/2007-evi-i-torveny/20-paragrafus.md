@@ -4,9 +4,9 @@
 
 ## A harmadik ország állampolgárságával rendelkező családtag számára kiadott vízum
 
-20. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
+20. § (1) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
 
-(1a) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
+(1a) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
 
 (1b) A fellebbezés tárgyában hozott elutasító döntéssel szemben bírósági felülvizsgálatnak van helye.
 
@@ -18,4 +18,4 @@
 
 (2) A vízumeljárásban az eljáró hatóság meghallgathatja a korlátozottan cselekvőképes vagy a cselekvőképtelen kiskorú kérelmezőt is. A meghallgatás során a kérelmező törvényes képviselőjének, illetve a törvényes képviselő által adott meghatalmazással rendelkező, nagykorú cselekvőképes személynek is jelen kell lennie.
 
-(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárás tárgyi költségmentes.
+(3) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadására irányuló eljárás tárgyi költségmentes.
