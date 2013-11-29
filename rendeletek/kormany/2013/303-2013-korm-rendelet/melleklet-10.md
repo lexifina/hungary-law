@@ -20,4 +20,6 @@
 
 | 9. |  | 2.1. a Magyar Külügyi Intézet igazgatója |
 
-10. melléklet a 303/2013. (VII. 31.) Korm. rendelethez
+10. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^6]
+
+[^6]: A 10. melléklet a 447/2013. (XI. 20.) Korm. rendelet 11. § (5) bekezdése szerint módosított szöveg.

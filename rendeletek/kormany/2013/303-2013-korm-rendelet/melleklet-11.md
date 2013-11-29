@@ -70,7 +70,7 @@
 
 | 34. |  | 2.16. az állandó személyi védelemben részesülő állami vezetők állami légijárművel történő szállításában közvetlenül részt vevő gépszemélyzet munkaköre |
 
-| 35. |  | 2.17. a minősített adat védelméről szóló 2009. évi CLV. törvény 5. § (4) bekezdés a) pontja szerinti minősítési jelölésű információt kezelő kijelölt koronaőr munkakör |
+| 35. |  | 2.17 a minősített adat védelméről szóló 2009. évi CLV. törvény 5. § (4) bekezdés a) és b) pontja szerinti minősítési jelölésű információt kezelő kijelölt koronaőr munkakör |
 
 | 36. |  | 2.18. a hadfelszerelési fejlesztést, a logisztikai tervezést, irányítást és beszerzést bonyolító szervezet kijelölt munkaköre, továbbá a beszerzési és közbeszerzési eljárásokban részt vevő kijelölt munkakör |
 
@@ -78,4 +78,6 @@
 
 | 38. |  | 2.20. a honvéd tisztjelölt és honvédaltiszt-jelölt, önkéntes tartalékos, amennyiben a képzés jellege, vagy a megtervezett beosztása indokolja |
 
-11. melléklet a 303/2013. (VII. 31.) Korm. rendelethez
+11. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^7]
+
+[^7]: A 11. melléklet a 447/2013. (XI. 20.) Korm. rendelet 11. § (6) bekezdése szerint módosított szöveg.

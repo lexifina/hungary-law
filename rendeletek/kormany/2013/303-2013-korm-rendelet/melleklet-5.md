@@ -172,4 +172,6 @@
 
 | 85. |  | 10.1. a rendészeti szakközépiskola igazgatója |
 
-5. melléklet a 303/2013. (VII. 31.) Korm. rendelethez
+5. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^4]
+
+[^4]: Az 5. melléklet a 447/2013. (XI. 20.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.

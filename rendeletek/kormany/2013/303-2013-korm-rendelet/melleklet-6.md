@@ -74,7 +74,7 @@
 
 | 36. |  | 7.3. gazdasági vezető |
 
-| 37. |  | 7.4. az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben másodfokon vagy felügyeleti hatáskörben eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők |
+| 37. |  | 7.4 az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, az Információs Hivatal és a Katonai Nemzetbiztonsági Szolgálat ügyeiben első fokon eljáró ügyintézők és ügykezelők, valamint a döntéseket kiadmányozó vezetők |
 
 | 38. | 8. Országos Tisztifőorvosi Hivatal |  |
 
@@ -187,5 +187,17 @@
 | 92. |  | 23.1. gazdasági vezető |
 
 | 93. |  | 23.2. Kábítószerügyi Főosztály vezetője és ügyintézői |
+
+| 94. | 24. Nemzeti Rehabilitációs és Szociális Hivatal |  |
+
+| 95. |  | 24.1. gazdasági igazgató |
+
+| 96. | 25. Forster Gyula Nemzeti Örökség-gazdálkodási és Szolgáltatási Központ |  |
+
+| 97. |  | 25.1. gazdasági vezető |
+
+| 98. | 26. Emberi Erőforrás Támogatáskezelő |  |
+
+| 99. |  | 26.1. gazdálkodási igazgató |
 
 6. melléklet a 303/2013. (VII. 31.) Korm. rendelethez

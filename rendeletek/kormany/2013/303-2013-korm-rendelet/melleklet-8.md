@@ -16,9 +16,9 @@
 
 | 7. |  | 1.5. biztonsági feladatok ellátásával kapcsolatos munkakör |
 
-| 8. |  | 1.6. Európai Uniós feladatok ellátásával kapcsolatos kiemelt munkakör |
+| 8. |  | 1.6 az Európai Uniós ügyek ellátásáért felelős szervezeti egység valamennyi munkaköre |
 
-| 9. |  | 1.7. nemzetközi szerződések előkészítésével foglalkozó kiemelt munkakör |
+| 9. |  | 1.7 nemzetközi szerződések létrehozásával járó feladatok ellátásával kapcsolatos munkakör |
 
 | 10. |  | 1.8. személyügyi feladatok ellátásával kapcsolatos munkakör |
 
@@ -264,19 +264,19 @@
 
 | 131. |  | 9.7. közbeszerzési szakértő, jogtanácsos, műszaki-ellátási feladatokhoz kapcsolódó munkakörben foglalkoztatott közalkalmazott, amennyiben a felsorolt munkakörök betöltője a minősített adat védelméről szóló 2009. évi CLV. törvény 5. § (4) bekezdés a)–c) pontja szerinti minősítési szintű adat, vagy a 9. §-a szerinti külföldi minősített adat megismerésére vagy felhasználására jogosult |
 
-| 132. | 10. Nemzeti Fejlesztési Ügynökség |  |
+| 132. |  |  |
 
-| 133. |  | 10.1. főosztályvezető |
+| 133. |  |  |
 
-| 134. |  | 10.2. általános főosztályvezető-helyettes |
+| 134. |  |  |
 
-| 135. |  | 10.3. Belső Ellenőrzési Főosztály vezetői és belső ellenőri munkakörei |
+| 135. |  |  |
 
-| 136. |  | 10.4. Jogi Főosztály vezetői munkakörei |
+| 136. |  |  |
 
-| 137. |  | 10.5. Közbeszerzési Felügyeleti Főosztály vezetői munkakörei |
+| 137. |  |  |
 
-| 138. |  | 10.6. IH vezetők, valamint magasabb jogállású vezetőket közvetlenül segítők (személyi titkár, titkárnő, gépkocsivezető) |
+| 138. |  |  |
 
 | 139. | 11. NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. |  |
 

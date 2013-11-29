@@ -174,4 +174,6 @@
 
 | 86. |  | 9.1. a Gazdasági Főosztály főosztályvezetője |
 
-7. melléklet a 303/2013. (VII. 31.) Korm. rendelethez
+7. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^5]
+
+[^5]: A 7. melléklet a 447/2013. (XI. 20.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.

@@ -214,7 +214,7 @@
 
 | 106. |  | 9.7. a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 28. §-ában meghatározott védelmi igazgatási munkában részt vevő munkakör |
 
-| 107. |  | 9.8. a vagyonnyilatkozat kezeléséhez kapcsolódó munkakör. |
+| 107. |  |  |
 
 | 108. |  | 9.9. minősített iratkezelési feladatot ellátó munkakör |
 

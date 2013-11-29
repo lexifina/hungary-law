@@ -1,4 +1,4 @@
-## Nemzetbiztonsági ellenőrzés alá eső jogviszonyok a Miniszterelnökségen és az általa irányított vagy felügyelt szerveknél
+## Nemzetbiztonsági ellenőrzés alá eső jogviszonyok a Miniszterelnökségen és az általa irányított vagy felügyelt szerveknél, valamint a miniszterelnök által irányított szerveknél
 
 |  | A | B |
 
@@ -44,6 +44,20 @@
 
 | 21. |  | 4.3. osztályvezető |
 
-12. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^2]
+| 22. | 5. Nemzeti Fejlesztési Ügynökség |  |
 
-[^2]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 23. |  | 5.1. főosztályvezető |
+
+| 24. |  | 5.2. általános főosztályvezető-helyettes |
+
+| 25. |  | 5.3. Belső Ellenőrzési Főosztály vezetői és belső ellenőri munkakörei |
+
+| 26. |  | 5.4. Jogi Főosztály vezetői munkakörei |
+
+| 27. |  | 5.5. Közbeszerzési Felügyeleti Főosztály vezetői munkakörei |
+
+| 28. |  | 5.6. IH vezetők, valamint magasabb jogállású vezetőket közvetlenül segítők (személyi titkár, titkárnő, gépkocsivezető) |
+
+12. melléklet a 303/2013. (VII. 31.) Korm. rendelethez[^8]
+
+[^8]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
