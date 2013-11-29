@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
