@@ -1,4 +1,4 @@
-## 4. §[^5] Figyelemmel az 539/2001/EK tanácsi rendeletre, három hónapot meg nem haladó tartózkodás céljából vízummentes beutazásra és három hónapot meg nem haladó tartózkodásra jogosult
+## 4. §[^6] Figyelemmel az 539/2001/EK tanácsi rendeletre, száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodás céljából vízummentes beutazásra és száznyolcvan napon belül kilencven napot meg nem haladó tartózkodásra jogosult
 
 a) az a menekültként vagy hontalanként elismert harmadik országbeli állampolgár, aki az 539/2001/EK tanácsi rendelet II. mellékletében szereplő állam által kiállított úti okmánnyal rendelkezik,
 
@@ -12,4 +12,4 @@ e) a tengerhajózási személyzet tagja, és
 
 f) a nemzetközi belvízi utakon közlekedő úszólétesítmény személyzetének tagja.
 
-[^5]: A 4. § a 96/2010. (III. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^6]: A 4. § a 96/2010. (III. 31.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg.

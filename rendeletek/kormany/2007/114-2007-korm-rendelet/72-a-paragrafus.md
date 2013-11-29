@@ -1,6 +1,6 @@
-## Az EU Kék Kártya kiadására vonatkozó szabályok[^144]
+## Az EU Kék Kártya kiadására vonatkozó szabályok[^169]
 
-72/A. §[^145] (1) Az EU Kék Kártya kiadása és meghosszabbítása iránti kérelem benyújtására és elbírálására a 31. §-ban, a 32. § a) pontjában, a 33. §-ban, a 36. §-ban, és a 41–48. §-ban, a 49. § (1) bekezdésében, az 50. §-ban az 51. § (3) bekezdésében, és az 52–55. §-ban foglalt rendelkezéseket kell alkalmazni.
+72/A. §[^170] (1) Az EU Kék Kártya kiadása és meghosszabbítása iránti kérelem benyújtására és elbírálására a 31. §-ban, a 32. § a) pontjában, a 33. §-ban, a 36. §-ban, és a 41–48. §-ban, a 49. § (1) bekezdésében, az 50. §-ban az 51. § (3) bekezdésében, és az 52–55. §-ban foglalt rendelkezéseket kell alkalmazni.
 
 (2) Az EU Kék Kártya kiadására vagy meghosszabbítására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása a foglalkoztató és a harmadik országbeli állampolgár munkavállaló között létrejött magas szintű képzettséget igénylő munkavállalás céljából – legfeljebb négyéves határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére – kötött előzetes megállapodással vagy érvényes munkaszerződéssel igazolható.
 
@@ -10,7 +10,7 @@
 
 (5) Az EU Kék Kártya kiadására és meghosszabbítására irányuló eljárásban a megélhetést igazoltnak kell tekinteni, ha a harmadik országbeli állampolgár munkabérének mértéke a külön jogszabályban meghatározott havi bruttó munkabért eléri vagy meghaladja.
 
-(6)[^146] Az EU Kék Kártya kiadására és meghosszabbítására irányuló eljárásban a megélhetés nem tekinthető biztosítottnak, ha a harmadik országbeli állampolgár nem rendelkezik elegendő forrással önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátó rendszerére.
+(6)[^171] Az EU Kék Kártya kiadására és meghosszabbítására irányuló eljárásban a megélhetés nem tekinthető biztosítottnak, ha a harmadik országbeli állampolgár nem rendelkezik elegendő forrással önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátó rendszerére.
 
 (7) Nem rendelkezik elegendő forrással az a személy, aki a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
 
@@ -26,6 +26,6 @@ három hónapnál hosszabb ideig részesül.
 
 (9) A Tv. 20/A. § (1) bekezdés c) pontjában meghatározott feltételnek az a harmadik országbeli állampolgár felel meg, aki rendelkezik a 29. § (7) bekezdésében meghatározott feltételekkel.
 
-[^144]: A 72/A. §-t megelőző alcímet a 168/2011. (VIII. 24.) Korm. rendelet 11. §-a iktatta be.
-[^145]: A 72/A. §-t a 168/2011. (VIII. 24.) Korm. rendelet 11. §-a iktatta be.
-[^146]: A 72/A. § (6) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^169]: A 72/A. §-t megelőző alcímet a 168/2011. (VIII. 24.) Korm. rendelet 11. §-a iktatta be.
+[^170]: A 72/A. §-t a 168/2011. (VIII. 24.) Korm. rendelet 11. §-a iktatta be.
+[^171]: A 72/A. § (6) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

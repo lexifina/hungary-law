@@ -1,3 +1,3 @@
-## 8. §[^10]
+## 8. §[^12]
 
-[^10]: A 8. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^12]: A 8. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.

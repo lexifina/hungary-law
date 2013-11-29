@@ -1,11 +1,14 @@
-## A három hónapot meghaladó tartózkodásra
+## A kilencven napot meghaladó tartózkodásra
 
-## jogosító vízumok
+## jogosító vízumok[^87]
 
-## 31. § A három hónapot meghaladó tartózkodásra jogosító vízum kiadására irányuló idegenrendészeti eljárás
+## 31. §[^88] A kilencven napot meghaladó tartózkodásra jogosító vízum kiadására irányuló idegenrendészeti eljárás
 
 a) a konzuli tisztviselő,
 
 b) a Hivatal,
 
 c) a regionális igazgatóság
+
+[^87]: A 31. §-t megelőző alcím a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^88]: A 31. § nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
