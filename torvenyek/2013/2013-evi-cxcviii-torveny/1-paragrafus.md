@@ -1,7 +1,1 @@
-1. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 24. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bíróság, az ügyészség és a nemzetbiztonsági szolgálatok a feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, a nyomozó hatóságok, valamint a rendőrség bűnüldözési tevékenységük ellátásához, a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi tervezéshez, a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzéséhez, az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához, illetve az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont], továbbá a szabálysértési hatóság a szabálysértési eljárás, a rendőrség a szabálysértési eljárásról szóló törvény szerinti előkészítő eljárás lefolytatásához a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m) és p) pont] igénylésére jogosultak.”
-
-(2) Az Nytv. 28/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bíróság, a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, a nyomozó hatóságok és az ügyészség a bűncselekmények megelőzése, felderítése és büntetőeljárás lefolytatása, valamint a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából a címnyilvántartásba felvett adatok teljes körének igénylésére jogosultak.”
+1. §

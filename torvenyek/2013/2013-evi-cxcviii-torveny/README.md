@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-198-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2013-11-29 | 2013. évi CXCVIII. törvény | 2013-198-00-00.0 (közlönyállapot) |
+| 2013-11-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-198-00-00.1 |

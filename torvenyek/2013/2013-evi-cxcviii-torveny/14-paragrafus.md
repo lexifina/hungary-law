@@ -6,4 +6,4 @@
 
 (4) A Harmtv. 13. § (1) bekezdés nyitó szövegrészében és 14. § (1) bekezdés nyitó szövegrészében a „Három hónapot meghaladó” szövegrész helyébe a „Száznyolcvan napon belül kilencven napot meghaladó” szöveg lép.
 
-(5) A Harmtv. 106. § (2) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) és (1a) bekezdésben” szöveg lép.
+(5)

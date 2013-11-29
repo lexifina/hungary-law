@@ -12,9 +12,7 @@
 
 „(1) A harmadik országbeli állampolgár az első beutazástól számított száznyolcvan napon belül kilencven napot meg nem haladó, tervezett (a továbbiakban: kilencven napot meg nem haladó, tervezett) tartózkodás céljából a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt feltételek szerint utazhat be Magyarország területére.”
 
-(4) A Harmtv. 35. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés e) pontja alapján előterjesztett nemzeti letelepedési engedély kiadására irányuló eljárásban – a törvényben meghatározott személyes megjelenési kötelezettség kivételével – a jogi képviselet kötelező.”
+(4)
 
 (5) A Harmtv. 37. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 

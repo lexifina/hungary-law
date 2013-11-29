@@ -18,9 +18,7 @@
 
 „(3) Olyan érvényes úti okmánnyal, amelynek érvényessége legalább három hónappal meghaladja a tervezett távozása időpontját és a megelőző tíz éven belül bocsátották ki, valamint – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal családtagként jogosult beutazni Magyarország területére az a harmadik ország állampolgárságával rendelkező személy is, aki”
 
-(5) Az Szmtv. 81. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az eljáró hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a szervezett bűnözés elleni koordinációs központnak az utasadatok kockázatelemzéséhez szolgáltathat adatot.”
+(5)
 
 (6) Az Szmtv. 129. § (2) bekezdése a következő h) ponttal egészül ki:
 
