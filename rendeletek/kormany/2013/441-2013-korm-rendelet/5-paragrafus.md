@@ -1,3 +1,0 @@
-## 4. § Az R1. a következő 56/A. §-sal egészül ki:
-
-## „56/A. § Ez a rendelet az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve (az ENSZ tűzfegyverekről szóló jegyzőkönyve) 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló, 2012. március 14-i, 258/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
