@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Török Köztársaság Kormánya között az egészségügy és az orvostudományok területén történő együttműködésről szóló megállapodás (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
