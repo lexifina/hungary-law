@@ -1,3 +1,3 @@
-## 39. § A NAV Korm. rendelet 50. §-a az alábbi (8) bekezdéssel egészül ki:
+## 33–39. §[^2]
 
-## „(8) Fémkereskedelmi hatósági ügyben a telephely szerint illetékes vám- és pénzügyőri igazgatóság is jogosult – ide nem értve a fémkereskedelmi tevékenységről szóló 443/2013. (XI. 27.) Korm. rendelet szerinti kérelmező fővárosi vagy Pest megyei telephelyeit – az illetékességi területén lévő telephely helyszíni ellenőrzésének, illetve hatósági ellenőrzésének elvégzésére. Az ellenőrzést követő hatósági eljárást, illetve hatósági döntést ilyen esetben is az általános szabályok szerint hatáskörrel és illetékességgel rendelkező vám- és pénzügyőri igazgatóság, illetve a KAVIG folytatja le, illetve hozza meg.”
+[^2]: A 33–39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
