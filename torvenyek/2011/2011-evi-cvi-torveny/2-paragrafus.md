@@ -88,7 +88,7 @@ c) az Mt. 49. § (2) bekezdése nem alkalmazható,
 
 d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
 
-e) az Mt. 58. §-át azzal az eltéréssel kell alkalmazni, hogy a szerződés módosítása nem irányulhat a közfoglalkoztatási jogviszony 12 hónapon túli meghosszabbítására, valamint a közfoglalkoztatottnak a közfoglalkoztatási szerződésben meghatározott program helyett más típusú közfoglalkoztatási támogatási programba történő áthelyezésére,
+e)
 
 f) az Mt. 59–62. §-a nem alkalmazható,
 
