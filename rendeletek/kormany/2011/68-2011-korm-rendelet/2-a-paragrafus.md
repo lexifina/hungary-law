@@ -1,4 +1,4 @@
-2/A. §[^2] (1) A Társaság felügyeletét és szakmai irányítását az államtitkár látja el.
+2/A. §[^3] (1) A Társaság felügyeletét és szakmai irányítását az államtitkár látja el.
 
 (2) Az államtitkár a Társaság felügyelete és szakmai irányítása körében különösen az alábbi feladatokat látja el:
 
@@ -16,4 +16,4 @@ f) jóváhagyja az Irodákra vonatkozó stratégiai döntéseket,
 
 g) egyéb, az Irodák tevékenységét érintő szakmai döntést hoz.
 
-[^2]: A 2/A. §-t a 36/2013. (II. 14.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 2/A. §-t a 36/2013. (II. 14.) Korm. rendelet 2. §-a iktatta be.
