@@ -4,8 +4,8 @@ a) okirattal köteles igazolni, hogy tartási vagy életjáradéki szerződés, 
 
 b) a kezelőorvos által kiállított igazolással köteles igazolni, hogy súlyos egészségügyi okból az EGT-állampolgár, illetve a magyar állampolgár személyes ápolására szorul;
 
-c)[^56] arra hivatkozva, hogy – abban az országban ahonnan érkeznek – az EGT-állampolgárral egy háztartásban élt, köteles ezt okirattal – különösen az erről kiállított hatósági bizonyítvánnyal – vagy egyéb hitelt érdemlő módon igazolni.
+c)[^70] arra hivatkozva, hogy – abban az országban ahonnan érkeznek – az EGT-állampolgárral egy háztartásban élt, köteles ezt okirattal – különösen az erről kiállított hatósági bizonyítvánnyal – vagy egyéb hitelt érdemlő módon igazolni.
 
 (2) A regionális igazgatóság a személyi adat- és lakcímnyilvántartásból adatot igényel arra vonatkozóan, hogy a kérelmezőnek legalább egy éve a magyar állampolgár lakóhelyével vagy a tartózkodási helyével azonos-e a lakóhelye vagy a tartózkodási helye.
 
-[^56]: A 27. § (1) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^70]: A 27. § (1) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
