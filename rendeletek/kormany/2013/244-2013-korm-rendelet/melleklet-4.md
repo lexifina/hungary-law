@@ -50,6 +50,20 @@
 
 ## 7. A dohánytermék kiskereskedelmi (fogyasztói) értékesítési ára; egyéb termék esetén az első javasolt fogyasztói ár.
 
-4. melléklet a 244/2013. (VI. 30.) Korm. rendelethez[^2]
+4. melléklet a 244/2013. (VI. 30.) Korm. rendelethez[^5]
 
-[^2]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+Az egyszerűsített nyilvántartási és adatszolgáltatási kötelezettséggel érintett adatok köre
+
+1. A bejelentőre vonatkozó adatok:
+
+a) a tevékenység végzésére jogosult gazdasági társaság vagy egyéni vállalkozó adószáma;
+
+b) a tevékenység végzésének pontos címe; mozgóbolt esetén az azt végző személy lakcíme/székhelye;
+
+c) az értékesítési helyen használt pénztárgépek azonosítója.
+
+2. Az árukészlettel kapcsolatos összesített adatok:
+
+a) az értékesített érintett termékek összesítve.
+
+[^5]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 453/2013. (XI. 28.) Korm. rendelet 8. §-a iktatta be.
