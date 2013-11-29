@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-349-20-
 | 2012-12-14 | 2012-349-20-22.2 | 2010: CXXX. törvény |
 | 2013-01-01 | 2012-349-20-22.3 | 425/2012. (XII. 29.) Korm. rendelet |
 | 2013-01-02 | 2012-349-20-22.4 | 2010: CXXX. törvény |
+| 2013-11-29 | 2012-349-20-22.5 | 448/2013. (XI. 28.) Korm. rendelet |

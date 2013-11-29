@@ -60,7 +60,7 @@
 
 ## A MEGÁLLAPODÁS TÁRGYA
 
-## A megállapodás tárgya az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló törvény (a továbbiakban: Törvény) 1. mellékletében meghatározott intézmények, illetve a Törvény 2. § (1) bekezdésében meghatározott vagyon, vagyoni értékű jog, alapítói jog és tulajdoni részesedés (a továbbiakban együtt: átvett intézmények) átadás-átvételi eljárásának megvalósítása, a lebonyolításához szükséges keretek meghatározása.
+## A megállapodás tárgya az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló törvény (a továbbiakban: Törvény) 1., illetve 3. mellékletében meghatározott intézmények, valamint a Törvény 2. § (1) bekezdése, illetve 9/A. § (1) bekezdésében meghatározott vagyon, vagyoni értékű jog, alapítói jog és tulajdoni részesedés (a továbbiakban együtt: átvett intézmények) átadás-átvételi eljárásának megvalósítása, a lebonyolításához szükséges keretek meghatározása.
 
 ## A feladat és vagyon átadásához kapcsolódó jogviszonyok tekintetében a tulajdonosi és fenntartói jogutódlásra és az átvett állami vagyonnal gazdálkodásra a Törvény, az államháztartásról szóló 2011. évi CXCV. törvény és végrehajtási rendelete, a nemzeti vagyonról szóló 2011. évi CXCVI. törvény, az állami vagyonról szóló 2007. évi CVI. törvény és az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet, a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény és végrehajtási rendelete, a Nemzeti Földalapról szóló törvény szerinti közös tulajdonosi joggyakorlás alatt álló ingatlanokról szóló 220/2011. (X. 20.) Korm. rendelet, továbbá a gazdasági társaságokról szóló 2006. évi IV. törvény és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény rendelkezései az irányadóak.
 
@@ -84,7 +84,7 @@
 
 ## e) az eszköz- és vagyonleltárról (ingatlanok jegyzéke figyelemmel azok terheire, ingó vagyon és egyéb vagyonelemek összesített kimutatása), a vagyoni értékű jogról és az adósságállományról szóló dokumentumokat, a szállítói tartozások igazolását, beleértve azon szállítói tartozásokat is, amelyek mögött teljesített szolgáltatás/elvégzett munka áll, azonban a szállító részéről a számla kiállítására még nem került sor, valamint a hatályos szerződéseket;
 
-## f) az átvett intézmények költségvetési helyzetéről, a 2012. évi költségvetés végrehajtásáról és az előző évi beszámolóról szóló dokumentumokat,
+## f) az átvett intézmények költségvetési helyzetéről, az átvételt megelőző évi költségvetés végrehajtásáról és az előző évi beszámolóról szóló dokumentumokat,
 
 ## g) az intézmény saját bevételeként képződött és az önkormányzat által elvont, de igénylési kérelem ellenére vissza nem utalt összegről szóló kimutatást havi bontásban.
 
@@ -110,7 +110,7 @@
 
 ## 2. Az intézményi feladatellátás helyét, amely során ki kell térni arra, hogy az intézmény elhelyezésére szolgáló ingatlannak (ingatlanoknak) ki a tulajdonosa (saját tulajdonú, idegen vagy más önkormányzat tulajdona, állami tulajdon), az ingatlanon (ingatlanokon) milyen jogok és kötelezettségek szerepelnek (használati kötelmek, perfeljegyzések, fenntartási kötelezettségek), továbbá az intézmény fenntartására milyen finanszírozási formában kerül sor.
 
-## 3. Az intézmény 2012. évi normatív támogatás igénylésére, módosítására, lemondására vonatkozó adatokat, összegszerűen részletezve.
+## 3. Az intézmény átvételt megelőző évi normatív támogatás igénylésére, módosítására, lemondására vonatkozó adatokat, összegszerűen részletezve.
 
 ## 4. Az intézményi érvényes szerződésállományt, ezen belül a szerződés típusát (szállítói szerződések, megbízási szerződések, lízingszerződések, hitel- és kölcsönszerződések, támogatási szerződések, bankszámlavezetésre és kötvénykibocsátásra vonatkozó szerződések) a 6. számú mellékletben rögzített bontás szerint, ide értve azon megállapodásokat is, amelyek pénzügyi és/vagy jogi kötelezettséget és jogot keletkeztethetnek.
 
@@ -140,15 +140,15 @@
 
 ## 12. Az intézmény közbeszerzéseinek bemutatását a 13. számú mellékletben rögzített bontás szerint.
 
-## 13. A 2012. december 31-én fenntartott pénzforgalmi számlaszámok megjelölését, az ahhoz tartozó pénzmaradványok összegét és a pénztárak pénzkészletét intézményenként, a 14. számú mellékletben rögzített bontás szerint.
+## 13. Az átvételt megelőző év utolsó napján fenntartott pénzforgalmi számlaszámok megjelölését, az ahhoz tartozó pénzmaradványok összegét és a pénztárak pénzkészletét intézményenként, a 14. számú mellékletben rögzített bontás szerint.
 
-## 14. Az adott intézményre vonatkozó intézményi költségvetés várható teljesüléséről szóló, 2012. december 31-ei fordulónappal elkészített adatszolgáltatást.
+## 14. Az adott intézményre vonatkozó intézményi költségvetés várható teljesüléséről szóló, az átvételt megelőző év utolsó napjával, mint fordulónappal elkészített adatszolgáltatást.
 
 ## 15. Az átvett intézmények, alapítványok, közalapítványok és gazdasági társaságok szállítói tartozásainak és egyéb kötelezettségeinek bemutatása a 15. számú mellékletben rögzített bontás szerint.
 
 ## Átadó kötelezettséget vállal arra, hogy Átvevőt jelen megállapodás aláírását követő 3 munkanapon belül tájékoztatja a működőképesség fenntartása érdekében szükséges azonnali teendők (pl. pénzügyi műveletek, beszámolók, elszámolások, adatszolgáltatások teljesítése, meghosszabbítandó, felmondandó szerződések, kiírandó közbeszerzések stb.) megtételéről és határidejéről.
 
-## Átadó és Átvevő kötelezettséget vállalnak arra, hogy a közös használatú és üzemeltetésű ingatlanok kiadásainak megosztása és a használati jog rendezése érdekében 2013.............-ig ingatlanonkénti bontásban külön megállapodást kötnek. Az Átvevő kötelezettséget vállal arra, hogy ugyanilyen tartalmú megállapodást köt azon ingatlanok tekintetében is az érintett ingatlanok vagyonkezelőjével, ahol az ingatlan közös használata nem az Átadóval, hanem más szervezettel történik.
+## Átadó és Átvevő kötelezettséget vállalnak arra, hogy a közös használatú és üzemeltetésű ingatlanok kiadásainak megosztása és a használati jog rendezése érdekében .............-ig ingatlanonkénti bontásban külön megállapodást kötnek. Az Átvevő kötelezettséget vállal arra, hogy ugyanilyen tartalmú megállapodást köt azon ingatlanok tekintetében is az érintett ingatlanok vagyonkezelőjével, ahol az ingatlan közös használata nem az Átadóval, hanem más szervezettel történik.
 
 ## Átadó és Átvevő kötelezettséget vállal arra, hogy az intézményi alapfeladatok ellátását biztosító informatikai hálózatok zavartalan működésének biztosítása céljából soron kívül intézkednek:
 
@@ -170,15 +170,15 @@
 
 ## EGYÉB RENDELKEZÉSEK
 
-## Az MNV Zrt. és Átvevő kijelentik, hogy jelen megállapodás aláírásától, de legkorábban 2013. január 1-jétől számított 30 napon belül vagyonkezelési szerződést – a gazdasági társasági részesedések tekintetében a tulajdonosi jogok egészének vagy egy részének gyakorlására megbízási szerződést – kötnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerint az átvett vagyonra vonatkozóan.
+## Az MNV Zrt. és Átvevő kijelentik, hogy jelen megállapodás aláírásától, de legkorábban a vagyonátszállás törvényben meghatározott időpontjától számított 30 napon belül vagyonkezelési szerződést – a gazdasági társasági részesedések tekintetében a tulajdonosi jogok egészének vagy egy részének gyakorlására megbízási szerződést – kötnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerint az átvett vagyonra vonatkozóan.
 
-## A Nemzeti Földalapkezelő Szervezet és Átvevő kijelentik, hogy jelen megállapodás aláírásától, de legkorábban 2013. január 1-jétől számított 30 napon belül vagyonkezelési szerződést kötnek a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészletekre vonatkozóan (amennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
+## A Nemzeti Földalapkezelő Szervezet és Átvevő kijelentik, hogy jelen megállapodás aláírásától, de legkorábban a vagyonátszállás törvényben meghatározott időpontjától számított 30 napon belül vagyonkezelési szerződést kötnek a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészletekre vonatkozóan (amennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
 
-## Felek egyetértenek abban, hogy a vagyonelemek átadásánál-átvételénél a 2012. december 31-ei nyilvántartási érték állapotot veszik alapul. Felek rögzítik, hogy a vagyon átadása és átvétele az Átadó és az Átvevő között közvetlenül történik meg. Felek rögzítik, hogy az átadásra-átvételre kerülő vagyon nyilvántartásokban való ki- és bevezetésének dátuma 2013. január 1. Az állami vagyon növekedése az Átvevő kataszteri jelentése által valósul meg.
+## Felek egyetértenek abban, hogy a vagyonelemek átadásánál-átvételénél a az átvételt megelőző év december 31-ei nyilvántartási érték állapotot veszik alapul. Felek rögzítik, hogy a vagyon átadása és átvétele az Átadó és az Átvevő között közvetlenül történik meg. Felek rögzítik, hogy az átadásra-átvételre kerülő vagyon nyilvántartásokban való ki- és bevezetésének dátuma az átvétel évének január 1-je. Az állami vagyon növekedése az Átvevő kataszteri jelentése által valósul meg.
 
 ## Felek megállapodnak, hogy a Törvény alapján állami tulajdonba kerülő társasági részesedések, mint állami vagyonelemek átadás-átvételének eljárásrendjét jelen megállapodással összhangban, azt kiegészítve külön megállapodásban rögzítik.
 
-## A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészleteket érintő szerződések esetében az Átvevő értesíti a szerződő felet arról, hogy 2013. január 1-jét követően a szerződés tárgyát képező földrészlet felett a tulajdonosi (és így a szerződésből eredő) jogokat a Nemzeti Földalapkezelő Szervezet gyakorolja (mennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
+## A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészleteket érintő szerződések esetében az Átvevő értesíti a szerződő felet arról, hogy a szerződés tárgyát képező földrészlet felett a tulajdonosi (és így a szerződésből eredő) jogokat a Nemzeti Földalapkezelő Szervezet gyakorolja (mennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
 
 ## Átadó tájékoztatja az Átvevőt minden olyan körülményről, veszélyről, illetve lehetőség számbavételéről, amely az átvett intézmény működését érdemben befolyásolhatja, valamint az eredményes feladatellátáshoz szükséges további tényekről, körülményekről.
 
@@ -426,7 +426,7 @@
 
 ## (intézményenként kitöltendő)
 
-| Közbeszerzés formája, megnevezése | Közbeszerzés státusza (előkészítés alatt, folyamatban) | Közbeszerzési eljárás által érintett hatályos szerződés tárgya | Közbeszerzési eljárás értéke (forint) | 2012. 12. 31-ig várhatóan elindítható eljárás megnevezése | 2013. első félévében lejáró szerződés megnevezése, amely meghosszabbítása közbeszerzési eljárás köteles |
+| Közbeszerzés formája, megnevezése | Közbeszerzés státusza (előkészítés alatt, folyamatban) | Közbeszerzési eljárás által érintett hatályos szerződés tárgya | Közbeszerzési eljárás értéke (forint) | Átvételt megelőző évben várhatóan elindítható eljárás megnevezése | Átvétel évének első félévében lejáró szerződés megnevezése, amely meghosszabbítása közbeszerzési eljárás köteles |
 
 ## 14. számú melléklet
 
@@ -436,7 +436,7 @@
 
 ## (a táblázat intézményenként kitöltendő)
 
-| Pénzforgalmi számlát vezető pénzintézet megnevezése | Pénzforgalmi számlát vezető pénzintézet címe | Számlaszám, házipénztár elnevezése | Elkülönített számla esetén az elkülönítés célja | Pénzforgalmi számlaszám alszámlaszám (24 karakter) | Számla, pénztár egyenlege 2012. 12. 31-én (forint) |
+| Pénzforgalmi számlát vezető pénzintézet megnevezése | Pénzforgalmi számlát vezető pénzintézet címe | Számlaszám, házipénztár elnevezése | Elkülönített számla esetén az elkülönítés célja | Pénzforgalmi számlaszám alszámlaszám (24 karakter) | Számla, pénztár egyenlege Átvételt megelőző év december 31-én (forint) |
 
 ## 15. számú melléklet
 
