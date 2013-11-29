@@ -1,3 +1,3 @@
-## Három hónapot meg nem haladó tartózkodásra jogosító vízumok
+## A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumok
 
-8. § A három hónapot meg nem haladó tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
+8. § A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.

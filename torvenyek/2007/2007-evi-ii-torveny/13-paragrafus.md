@@ -1,16 +1,16 @@
 ## III. Fejezet
 
-## A HÁROM HÓNAPOT MEGHALADÓ TARTÓZKODÁS SZABÁLYAI
+## A száznyolcvan napon belül kilencven napot meghaladó tartózkodás szabályai
 
 ## Általános szabályok
 
-13. § (1) Három hónapot meghaladó tartózkodás céljából az a harmadik országbeli állampolgár utazhat be, illetve három hónapot meghaladó időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki
+13. § (1) Száznyolcvan napon belül kilencven napot meghaladó tartózkodás céljából az a harmadik országbeli állampolgár utazhat be, illetve száznyolcvan napon belül kilencven napot meghaladó időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki
 
 a) rendelkezik érvényes úti okmánnyal;
 
 b) rendelkezik
 
-ba) három hónapot meghaladó tartózkodásra jogosító vízummal,
+ba) száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízummal,
 
 bb) tartózkodási engedéllyel,
 

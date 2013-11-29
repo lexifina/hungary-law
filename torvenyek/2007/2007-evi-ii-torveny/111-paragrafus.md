@@ -60,9 +60,9 @@ e) a harmadik országbeli állampolgárok részére kiállított úti okmányok 
 
 (6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
 
-a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
+a) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
 
-b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+b) más schengeni állam vízumkiadó hatósága a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
 
 (7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárainak a Vízumkódex 3. cikk (2) bekezdése szerinti esetben repülőtéri tranzitvízummal kell rendelkezniük.
 

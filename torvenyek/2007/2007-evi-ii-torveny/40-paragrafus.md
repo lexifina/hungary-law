@@ -4,7 +4,7 @@
 
 ## A beléptetés megtagadása és a visszairányítás
 
-40. § (1) A határforgalmat ellenőrző hatóság a három hónapot meg nem haladó időtartamú tartózkodás céljából beutazni kívánó harmadik országbeli állampolgár államhatáron történő beléptetését a Schengeni határ-ellenőrzési kódex rendelkezései alapján megtagadja, és – érdekeinek figyelembevételével – visszairányítja
+40. § (1) A határforgalmat ellenőrző hatóság a kilencven napot meg nem haladó, tervezett időtartamú tartózkodás céljából beutazni kívánó harmadik országbeli állampolgár államhatáron történő beléptetését a Schengeni határ-ellenőrzési kódex rendelkezései alapján megtagadja, és – érdekeinek figyelembevételével – visszairányítja
 
 a) annak az országnak a területére, ahonnan érkezett;
 

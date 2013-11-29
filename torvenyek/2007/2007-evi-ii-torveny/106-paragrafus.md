@@ -34,6 +34,8 @@ p) a szabálysértési eljárás alá vont személy személyazonosságának elle
 
 részére továbbíthat adatot.
 
+(1a) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból a szervezett bűnözés elleni koordinációs központnak az utasadatok kockázatelemzéséhez továbbíthat adatot.
+
 (2) Az (1) bekezdésben meghatározott adattovábbításról az idegenrendészeti hatóság adattovábbítási nyilvántartást vezet, amely tartalmazza, hogy mely szervnek, milyen célból továbbított adatokat. Az idegenrendészeti hatóság az adattovábbítási nyilvántartásban az adatokat az adat továbbításától számított öt évig kezeli.
 
 (3) Az adattovábbítási nyilvántartásban szereplő adatokkal kapcsolatos tájékoztatás nemzetbiztonsági és bűnüldözési érdekből megtagadható.

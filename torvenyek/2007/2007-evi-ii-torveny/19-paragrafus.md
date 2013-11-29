@@ -1,4 +1,4 @@
-## A három hónapot meghaladó tartózkodásra vonatkozó különös szabályok
+## A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra vonatkozó különös szabályok
 
 19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
 

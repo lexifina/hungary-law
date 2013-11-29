@@ -1,10 +1,10 @@
-9. § (1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
+9. § (1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
 
-(2) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
+(2) A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
-(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
+(3) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
 
-(4) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
+(4) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
 
 (5) A fellebbezés tárgyában hozott elutasító döntéssel szemben bírósági felülvizsgálatnak van helye.
 

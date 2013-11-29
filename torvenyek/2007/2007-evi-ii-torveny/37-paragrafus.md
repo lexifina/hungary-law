@@ -4,7 +4,7 @@ a) az engedélyezés alapjául szolgáló feltételek olyan jelentősen megvált
 
 b) családi kapcsolatra tekintettel kiadott engedély esetén a házasság az engedély kézhezvételétől számított három éven belül nem a házastárs halála miatt szűnt meg, vagy a harmadik országbeli állampolgár szülői felügyeleti joga megszűnt, kivéve, ha a harmadik országbeli állampolgár már négy éve letelepedettként vagy bevándoroltként Magyarország területén tartózkodik;
 
-c) a harmadik országbeli állampolgár Magyarország területét hat hónapnál hosszabb ideig elhagyta.
+c) a harmadik országbeli állampolgár Magyarország területét hat hónapnál hosszabb ideig elhagyta, kivéve, ha a nemzeti letelepedése a 35. § (1) bekezdés e) pontja alapján került engedélyezésre.
 
 (2) Az idegenrendészeti hatóság az engedélyt visszavonja, ha
 
