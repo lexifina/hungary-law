@@ -17,3 +17,5 @@ d) a területi katasztrófavédelmi szerv javítóműhelyeinek felszerelése, be
 e) az országos és a megyei kiképzőbázisok működtetésével kapcsolatos költségvetési előirányzatok.
 
 (6) Az (5) bekezdés a)–b) és e) pontjában említett költségvetési eszközzel a központi katasztrófavédelmi szerv, a c)–d) pontokban foglaltakkal a területi katasztrófavédelmi szerv gazdálkodik.
+
+(7) A hivatásos katasztrófavédelmi szerv központi és területi szervei a tűzmegelőzési célú tevékenységgel összefüggésben államháztartáson belüli és kívüli szervek, valamint háztartások részére reklám- és propagandacéllal kiadványokat, eszközöket biztosíthatnak, továbbá tűzmegelőzési célú, speciális készleteket és eszközöket adományozhatnak.

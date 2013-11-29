@@ -10,17 +10,17 @@ c) tűzvédelmi, biztonságossági követelmény hiányában, vagy amennyiben a 
 
 (3) Tűz- vagy robbanásveszélyes készüléket, gépet, berendezést forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja.
 
-(4) A 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezet, amellyel szemben műszaki előírás tűzállósági vagy tűzvédelmi követelményt határoz meg, csak úgy építhető be, ha az építményszerkezet műszaki előírásban meghatározott követelményeknek való megfelelősége, az alábbi módok valamelyike szerint igazolt:
+(4) A 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezet műszaki előírásban meghatározott tűzvédelmi követelményeknek való megfelelőségét, az alábbi módok valamelyike szerint kell igazolni:
 
-a) Magyarországon vagy az Európai Unióban akkreditált vizsgáló laboratórium által elvégzett vizsgálati jelentés vagy az ez alapján kiadott nyilatkozat,
+a) Magyarországon vagy az Európai Unióban akkreditált vizsgáló laboratórium által elvégzett vizsgálati jelentés vagy a vizsgáló laboratórium ez alapján kiadott nyilatkozata,
 
-b) a vonatkozó EuroCode szabványok alapján elvégzett tűzállósági vagy tűzvédelmi méretezés, a méretezésnek megfelelő kivitelezést igazoló építési napló bejegyzés, vagy
+b) a vonatkozó Eurocode szabványok alapján elvégzett tűzállósági vagy tűzvédelmi méretezés, a méretezésnek megfelelő kivitelezést igazoló felelős műszaki vezető építési napló bejegyzése,
 
-c) szakértői intézet vagy akkreditált vizsgáló laboratórium igazolásán alapuló építési napló bejegyzés,
+c) szakértői intézet vagy akkreditált vizsgáló laboratórium igazolása alapján a felelős műszaki vezető építési napló bejegyzése,
 
-d) a jogszabályi előírásoknak való megfelelőséget igazoló építési napló bejegyzés, amennyiben az építményszerkezet tűzvédelmi teljesítményét a jogszabály meghatározza,
+d) a jogszabályi előírásoknak való megfelelőség igazolására a felelős műszaki vezető építési napló bejegyzése, amennyiben az adott összetételű építményszerkezet tűzvédelmi teljesítményét a jogszabály vagy tűzvédelmi műszaki irányelv meghatározza,
 
-e) jogszabályban meghatározott esetben az ott meghatározott szakértő nyilatkozata.
+e) az e törvény 47. § (2) bekezdés 26. pontja alapján kiadott miniszteri rendeletben meghatározott esetben a tűzvédelmi szakértő vagy a tűzvédelmi tervező nyilatkozata.
 
 (5) Az Európai Unió másik tagállamában vagy Törökországban az ott irányadó előírásoknak megfelelően előállított vagy forgalomba hozott, továbbá az Európai Gazdasági Térségről szóló megállapodásban részes – az előbbiektől eltérő – államban az ott irányadó előírásoknak megfelelően előállított, (1)–(3) bekezdés szerinti termékekre az Európai Közösség létrehozásáról szóló szerződésnek az áruk szabad áramlását biztosító rendelkezéseihez kapcsolódó kölcsönös elismerés alkalmazásáról szóló törvény előírásait kell alkalmazni.
 

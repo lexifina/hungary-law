@@ -2,19 +2,15 @@
 
 12. § (1) Aki
 
-a) tűzoltó készülékek karbantartása és felülvizsgálata,
+a) tűzoltó készülékek karbantartásával kapcsolatos,
 
-b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése a hivatásos katasztrófavédelmi szerv központi szerve, területi szervei, hivatásos tűzoltóságai, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
+b) a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzoltó technika felülvizsgálatával, javításával összefüggő,
 
-c) beépített tűzjelző berendezés vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
+c) tűzvédelmi szakvizsgával összefüggő oktatásszervezési,
 
-d)
+d) tűzvédelmi szakvizsgáztatási
 
-e) tűzvédelmi szakvizsgával összefüggő oktatásszervezés,
-
-f) tűzvédelmi szakvizsgáztatás
-
-tevékenységet kíván folytatni, köteles az erre irányuló szándékát a tűzvédelmi hatóságnak bejelenteni. A bejelentésben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – meg kell jelölni a bejelentő természetes személyazonosító adatait.
+tevékenységet kíván folytatni, köteles az erre irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben, valamint a bejelentésköteles tűzvédelmi szolgáltatási tevékenységek megkezdésének és folytatásának részletes szabályairól szóló jogszabályban meghatározott szabályok szerint a tűzvédelmi hatóságnak bejelenteni.
 
 (2) Az (1) bekezdésben meghatározott tevékenységet csak az folytathat, aki rendelkezik a katasztrófák elleni védekezésért felelős miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -22,8 +18,10 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a t�
 
 a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét,
 
-b) a szolgáltatás megkezdésének és befejezésének időpontját, valamint
+b) a bejelentés előterjesztésének napját,
 
-c) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltókészülék-javító műhely címét.
+c) a szolgáltatás megkezdésének és befejezésének időpontját vagy a határozatlan időpontra vonatkozó utalást, valamint
+
+d) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltó készülék karbantartó szervezet címét.
 
 (3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.

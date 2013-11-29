@@ -8,7 +8,7 @@
 
 (4) A tűzoltóság fenntartója a tűzoltóság készenléti szolgálatot, és a tűzoltás irányítását ellátó tagjai részére szolgálati tevékenységükre vonatkozóan köteles élet- és balesetbiztosítást kötni.
 
-(5) Az önkormányzati tűzoltóságok létesítésével, fejlesztésével, fenntartásával és működésével kapcsolatos költségek fedezetéről a székhely szerinti települési önkormányzat, és az önkormányzati tűzoltóság által védett települések önkormányzatai, valamint az általuk végzett feladattal arányosan a hivatásos katasztrófavédelmi szerv központi szervén keresztül a központi költségvetés gondoskodik.
+(5) Az önkormányzati tűzoltóságok létesítésével, fejlesztésével, fenntartásával és működésével kapcsolatos költségek fedezetéről a székhely szerinti települési önkormányzat, és az önkormányzati tűzoltóság elsődleges műveleti körzete szerinti települések önkormányzatai, valamint az általuk végzett feladattal arányosan a központi költségvetés gondoskodik.
 
 (6) A hivatásos katasztrófavédelmi szerv, valamint az önkormányzati tűzoltóság tagjai, továbbá az önkéntes tűzoltó egyesületek szaktevékenységet irányító tagja a külön jogszabályban előírt képesítés megszerzésére kötelezett.
 

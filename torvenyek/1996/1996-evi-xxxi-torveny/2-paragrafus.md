@@ -4,4 +4,4 @@
 
 (3) A tűzoltás és a műszaki mentés az e törvényben meghatározott kivételekkel térítésmentes.
 
-(4) A hivatásos tűzoltóságok, az önkormányzati és a létesítményi tűzoltóságok a tűzvédelmi és műszaki mentési feladataik ellátása során kötelesek egymással együttműködni.
+(4) A hivatásos tűzoltóságok, az önkormányzati és a létesítményi tűzoltóságok és az önkéntes tűzoltó egyesületek a tűzvédelmi és műszaki mentési feladataik ellátása során kötelesek egymással együttműködni.

@@ -10,7 +10,7 @@ c) az a) alpontban nem említett jogi személyeket, valamint a magán- és jogi 
 
 d) az a)–c) pontban felsoroltak járműveit, eszközeit, felszereléseit, anyagait igénybe veheti;
 
-e) elrendelheti a Riasztási és Segítségnyújtási Tervben meghatározott tűzoltóságok riasztását;
+e) elrendelheti a Műveletirányító Tervben meghatározott tűzoltóságok riasztását;
 
 f) igényelheti az e) ponton kívüli tűzoltóságok riasztását;
 

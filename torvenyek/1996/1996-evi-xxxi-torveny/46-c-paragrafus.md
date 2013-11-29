@@ -1,4 +1,4 @@
-46/C. § (1) A 2011. december 31. napján működő önkéntes tűzoltóságok működési feltételeit a 2011. december 31. napján hatályos szabályok szerint a 34. § (1) bekezdésében foglalt feltételek teljesítéséig, de legfeljebb 2012. április 30. napjáig kell biztosítani.
+46/C. § (1)
 
 (2) A hivatásos katasztrófavédelmi szervezet kialakítása kapcsán 2012. január 1-től az önállóan működő hivatásos tűzoltóságok költségvetési előirányzatokkal, kincstári számlával nem rendelkeznek, kincstári és elemi költségvetést, továbbá elemi költségvetési beszámolót nem készítenek. A működési és fenntartatási előirányzataikat a területileg illetékes megyei hivatásos katasztrófavédelmi szervek költségvetése tartalmazza.
 

@@ -1,4 +1,4 @@
-21/A. § (1) A névjegyzéket vezető szerv a tűzvédelmi tervezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben meghatározott adatokon túl – tartalmazza
+21/A. § (1) A névjegyzéket vezető szerv a tűzvédelmi tervezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
 
 a) a természetes személyazonosító adatokat,
 

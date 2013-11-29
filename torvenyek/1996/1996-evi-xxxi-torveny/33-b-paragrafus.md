@@ -1,3 +1,9 @@
-33/B. § (1) Az önkéntes tűzoltó egyesület tagjának a szaktevékenység végzésével kapcsolatos elmaradt jövedelmének és költségeinek megtérítésére az önkéntes tűzoltó egyesület alapszabálya az irányadó.
+33/B. § (1) Szaktevékenységet az önkéntes tűzoltó egyesületnek csak olyan nagykorú, cselekvőképes, a hivatásos katasztrófavédelmi szerveknél, a tűzoltóságoknál, valamint az ez irányú szakágazatban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló miniszteri rendeletben meghatározott szakmai képesítéssel rendelkező tagja végezhet, aki életkoránál, egészségi, fizikai állapotánál fogva alkalmas és erre önként vállalt kötelezettséget.
 
-(2) Az önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) e törvényben foglalt eltérésekkel irányadó.
+(2) A szaktevékenység végzésére vonatkozó kötelezettségvállalást teljes bizonyító erejű magánokiratba kell foglalni, és azt az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjának át kell adni, aki azt visszavonásig őrzi. A kötelezettségvállalást tartalmazó nyilatkozat bármikor, határidő nélkül visszavonható.
+
+(3) Az önkéntes tűzoltó egyesületnek a szaktevékenységet végző tagja mentesíthető részben vagy teljesen a helyi adó megfizetése alól.
+
+(4) Az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjaként azt lehet kijelölni, aki a hivatásos katasztrófavédelmi szerveknél, a tűzoltóságoknál, valamint az ez irányú szakágazatban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló miniszteri rendeletben előírt képesítéssel rendelkezik.
+
+(5) A hivatásos katasztrófavédelmi szerv hivatásos állományú tagja önkéntes tűzoltó egyesületben vezető tisztséget nem tölthet be. A hivatásos állomány tagja az önkéntes tűzoltó egyesületben tagsági jogviszonyt létesíthet, amelyet köteles szolgálati elöljárójának írásban bejelenteni. Amennyiben az egyesületi tevékenysége során bármilyen jogcímen díjazásban részesül, úgy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvénynek a más keresőfoglalkozás folytatására vonatkozó szabályai szerint köteles eljárni.

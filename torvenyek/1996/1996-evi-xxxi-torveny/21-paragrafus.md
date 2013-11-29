@@ -6,9 +6,9 @@
 
 (4) A tűzvédelmi tervezői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi tervezői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(5) A kivitelező köteles a tűzvédelmi dokumentációban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
+(5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a jogerős építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
-(6) A kivitelezőnek a kivitelezési eljárás befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
+(6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
 (7) Hatósági ellenőrzés esetén a büntetlen előélet követelményének való megfelelést a tervező igazolja.
 

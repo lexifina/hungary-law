@@ -30,16 +30,20 @@ m) teljesítménynyilatkozat: az építési termék gyártója által kiállíto
 
 n) hivatásos tűzoltóság: tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott, önálló működési területtel rendelkező hivatásos tűzoltóság;
 
-o) tűzoltóőrs (tűzőrség): a hivatásos tűzoltóság elsődleges tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott szervezeti egysége;
+o) katasztrófavédelmi őrs: a hivatásos tűzoltóság elsődleges tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott szervezeti egysége;
 
-p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, önálló működési területtel nem rendelkező önkéntes tűzoltóság;
+p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, elsődleges műveleti körzettel rendelkező önkéntes tűzoltóság;
 
 q) létesítményi tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére, gazdálkodó szervezet által létrehozott, önálló működési területtel nem rendelkező tűzoltóság;
 
-r) önkéntes tűzoltó egyesület: a székhelye szerinti településen tűzoltási műszaki mentési feladatokban közreműködő egyesület.
+r) önkéntes tűzoltó egyesület: a tűzmegelőzési, valamint a tűzoltási és műszaki mentési feladatok ellátásában közreműködő vagy részt vevő olyan egyesület, amely alapszabályában ezt tevékenysége céljaként rögzítette;
 
 s) tűzvédelmi tervezői tevékenység: a 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció elkészítése, a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése;
 
 t) műszaki előírás: műszaki tartalmú alapdokumentum, mely lehet európai uniós jogi aktus, jogszabály, harmonizált, európai vagy nemzeti szabvány, európai műszaki értékelés, nemzeti műszaki értékelés, hatályos építőipari műszaki engedély vagy műszaki irányelv;
 
-u) építményszerkezet (épület- vagy műtárgyszerkezet): az építmény építési termékekből meghatározott céllal összeépített olyan eleme, amellyel szemben tűzvédelmi követelmény létezik.
+u) építményszerkezet (épület- vagy műtárgyszerkezet): az építmény építési termékekből meghatározott céllal összeépített olyan eleme, amellyel szemben tűzvédelmi követelmény létezik;
+
+v) közreműködő önkéntes tűzoltó egyesület: a vállalt tevékenységi területen tűzoltási, műszaki mentési feladatokban közreműködő egyesület;
+
+w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület.

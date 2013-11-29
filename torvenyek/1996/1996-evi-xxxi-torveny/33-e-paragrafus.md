@@ -1,21 +1,13 @@
-33/E. § (1) Az önkéntes tűzoltó egyesület a szaktevékenység végzésére írásban megállapodást köt a hivatásos tűzoltósággal.
+33/E. § (1) Az együttműködési megállapodásban rögzíteni kell
 
-(2) Az együttműködési megállapodás megkötésének feltétele, hogy
+a) a közreműködő önkéntes tűzoltó egyesületnek a szaktevékenység ellátására vonatkozó kötelezettségvállalását, különösen az annak érdekében vállalt szolgálati rendjét, értesíthetőségének módját, szakmai igénybevehetőségének körét, és azt, hogy a közreműködő önkéntes tűzoltó egyesület a szaktevékenységet milyen földrajzi területen látja el (a továbbiakban: tevékenységi terület),
 
-a) az önkéntes tűzoltó egyesület szaktevékenységet irányító tagja a külön jogszabályban előírt képesítéssel rendelkezik, és
+b) a hivatásos tűzoltóság részéről a közreműködő önkéntes tűzoltó egyesület szaktevékenysége ellátásának elősegítésére vonatkozó kötelezettségvállalást, így különösen a szakmai továbbképzés, gyakorlat szervezését a közreműködő önkéntes tűzoltó egyesület részére, az időszerű tűzvédelmi feladatokra vonatkozó, a közreműködő önkéntes tűzoltó egyesület tűzmegelőzési tevékenységéhez, a lakosság tájékoztatásához szükséges adatoknak a közreműködő önkéntes tűzoltó egyesület rendelkezésre bocsátásának rendjét,
 
-b) az egyesület működése egyébként megfelel az e törvényben meghatározott feltételeknek.
+c) a közreműködő önkéntes tűzoltó egyesületet tevékenységi területén keletkezett tűzesetről, műszaki mentésről, katasztrófáról való kölcsönös értesítés rendjét.
 
-(3) Együttműködési megállapodás határozatlan időre köthető, és azt az önkéntes tűzoltó egyesület az együttműködési megállapodásban meghatározott határidővel írásban indokolás nélkül felmondhatja.
+(2) A közreműködő önkéntes tűzoltó egyesület a megállapodásban vállalhatja, hogy kivételes esetben – a hivatásos tűzoltóság kérésére – tevékenységi területén kívül is végez szaktevékenységet.
 
-(4) A hivatásos tűzoltóság az együttműködési megállapodást írásban, azonnali hatállyal csak akkor mondhatja fel, ha
+(3) A közreműködő önkéntes tűzoltó egyesület a szaktevékenység ellátásáért díjazást nem köthet ki.
 
-a) az együttműködési megállapodás megkötésének bármely feltétele a továbbiakban már nem áll fenn,
-
-b) az önkéntes tűzoltó egyesület a jogszabályokban foglalt előírásokat ismételten vagy súlyosan megsérti.
-
-(5) Az együttműködési megállapodást bármely fél megfelelő indokolással, írásban, azonnali hatállyal felmondhatja, ha a másik fél az együttműködési megállapodásból folyó kötelezettségeit ismételten vagy súlyosan megszegi.
-
-(6) A hivatásos tűzoltóság és az önkéntes tűzoltó egyesület közötti együttműködési megállapodás megkötését, annak megszüntetését a hivatásos tűzoltóság székhelye szerint illetékes hivatásos katasztrófavédelmi szerv területi szervének kell jelenteni.
-
-(7) Az együttműködési megállapodásra egyebekben a Ptk. az irányadó.
+(4) A hivatásos tűzoltóság a vele megállapodást kötő közreműködő tűzoltó egyesületnek támogatást nyújthat.

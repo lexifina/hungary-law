@@ -48,9 +48,9 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 14. a tűzoltóságok által végezhető szolgáltatások körét és szabályait,
 
-15.
+15. a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokat,
 
-16. az európai uniós jogi aktusok, nemzeti, harmonizált, vagy európai szabványok által nem vagy nem teljes körűen szabályozott tűzoltó-technikai termék vonatkozásában a tűzvédelmi, biztonságossági követelményeket,
+16. az európai uniós jogi aktusok, nemzeti, harmonizált, vagy európai szabványok által nem vagy nem teljes körűen szabályozott tűzoltó-technikai termék, építési termékek vonatkozásában a tűzvédelmi, biztonságossági követelményeket,
 
 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
 
@@ -66,7 +66,9 @@ j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzo
 
 25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat,
 
-26. a műszaki előírás által meghatározott tűzállósági vagy tűzvédelmi követelménnyel érintett, de a 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezetek esetében a műszaki előírásban meghatározott követelményeknek való megfelelés szakértői nyilatkozattal történő igazolhatóságának eseteit és módját.
+26. a műszaki előírás által meghatározott tűzállósági vagy tűzvédelmi követelménnyel érintett, de a 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezetek esetében a műszaki előírásban meghatározott követelményeknek való megfelelés tűzvédelmi szakértői vagy tűzvédelmi tervezői nyilatkozattal történő igazolhatóságának eseteit és módját,
+
+27. a tűzvédelmi műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat.
 
 (3)
 

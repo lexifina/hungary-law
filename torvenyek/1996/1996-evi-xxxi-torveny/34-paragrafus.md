@@ -4,4 +4,6 @@
 
 (2) Az önkormányzati tűzoltóság parancsnokát a hivatásos katasztrófavédelmi szerv területi szerve vezetője egyetértésével a köztestület nevezi ki.
 
-(3) Az önkormányzati tűzoltóság székhelye szerinti települési önkormányzat részére a hivatásos katasztrófavédelmi szerv központi szerve költségvetéséből erre a célra biztosított költségkeret mértékéig az általuk végzett feladattal arányos költségfedezetet biztosítja.
+(3) Az önkormányzati tűzoltóságok részére, az általuk végzett feladattal arányos költségfedezetet a katasztrófák elleni védekezésért felelős miniszter az erre a célra rendelkezésre álló költségvetési keret mértékéig biztosítja.
+
+(4) A hivatásos katasztrófavédelmi szerv központi szerve és területi szervei az önkormányzati tűzoltóság részére pályázati úton, valamint egyedi elbírálás alapján pénzbeli és nem pénzbeli juttatást biztosíthatnak.

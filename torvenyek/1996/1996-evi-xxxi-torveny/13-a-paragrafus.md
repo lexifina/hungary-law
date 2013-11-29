@@ -1,4 +1,4 @@
-13/A. § (1) A 13. § (1) és (2) bekezdésben felsorolt termékek tűzvédelmi, biztonságossági követelményeknek való megfelelősége tekintetében a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szerv (a továbbiakban: piacfelügyeleti hatóság) jár el.
+13/A. § (1) A 13. § (1)–(3) bekezdésében felsorolt termékek tűzvédelmi, biztonságossági követelményeknek való megfelelősége tekintetében a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szerv (a továbbiakban: piacfelügyeleti hatóság) jár el.
 
 (2) Amennyiben a piacfelügyeleti hatóság megállapítja, hogy a rendeltetésszerűen használt 13. § (1)–(3) bekezdése szerinti termék tűzvédelmi szempontból veszélyezteti a biztonságot, megtiltja annak forgalomba hozatalát, forgalmazását, beépítését, felhasználását és piacfelügyeleti bírságot szabhat ki.
 

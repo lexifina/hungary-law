@@ -4,7 +4,7 @@
 
 (2) A tűzvizsgálati eljárás során tartandó szemle a tűz keletkezési okának egyértelmű megállapítása és a bizonyítékok megsemmisülésének megelőzése érdekében haladéktalanul megtartható.
 
-(3) Amennyiben nem állapítható meg egyértelműen, hogy a tűz mely tűzoltóság területén keletkezett, vagy a tűz több megye területére is kiterjed, a tűzvizsgálat lefolytatására jogosult szervet a közös felügyeleti szerv vezetője jelöli ki.
+(3) Amennyiben nem állapítható meg egyértelműen, hogy a tűz mely, a tűzvizsgálati eljárás lefolytatására jogosult tűzvédelmi hatóság illetékességi területén keletkezett, vagy a tűz több megye területére is kiterjed, a tűzvizsgálat lefolytatására jogosult szervet a közös felügyeleti szerv vezetője jelöli ki.
 
 (4) A tűzvédelmi hatóság bűncselekmény gyanúja esetén értesíti az illetékes rendőri szervet, ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy katona, az illetékes katonai nyomozó hatóságot.
 
