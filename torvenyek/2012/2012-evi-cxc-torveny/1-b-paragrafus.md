@@ -1,0 +1,1 @@
+1/B. § Az ingatlanrész e törvény erejénél fogva, az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény hatálybalépésével, vagyonkezelési szerződés kötése nélkül, ingyenesen a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésébe kerül.
