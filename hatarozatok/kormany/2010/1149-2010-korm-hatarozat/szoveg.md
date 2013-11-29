@@ -32,13 +32,7 @@ a) A kormánybiztost a tevékenységének ellátásában a Közigazgatási és I
 
 b) A titkársághoz az erre a célra a Külügyminisztériumból (két fő), a Nemzeti Fejlesztési Ügynökségtől, a Nemzeti Fejlesztési Minisztériumból kirendelt kormánytisztviselők tartoznak. A Nemzeti Erőforrás Minisztérium, valamint a Belügyminisztérium DMRS kapcsolattartói közreműködő partnerek.
 
-6.[^5] A titkárság szervezeti egységéhez csatlakozva ki kell építeni az Európai Beruházási Bank budapesti Duna Kontakt Pontját, amelyhez a Nemzetgazdasági Minisztériumból két kormánytisztviselőt kell áthelyezni. A Nemzetgazdasági Minisztérium mindenkori engedélyezett belföldi létszáma ezzel a két fővel meghaladható.
-
-Felelős: EU Duna Régió stratégiáért felelős kormánybiztos
-
-nemzetgazdasági miniszter
-
-Határidő: azonnal
+6.[^5]
 
 7.[^6] A Kormány felhívja a három magyar társkoordinációs prioritási területet koordináló vidékfejlesztési minisztert, a nemzeti fejlesztési minisztert és a külügyminisztert, valamint az Európai Beruházási Bank budapesti Duna Kontakt Pontja kapcsán a nemzetgazdasági miniszert, hogy nevezzen ki a DMRS végrehajtásának elősegítése érdekében a minisztériumokon belül a DMRS végrehajtásáért felelős kapcsolattartót, továbbá hozza létre a koordinátori feladatok ellátásához szükséges intézményi struktúrát.
 
@@ -68,7 +62,7 @@ Határidő: folyamatosan
 [^2]: A 2. pont c) alpontja az 1233/2011. (VII. 7.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 3. pont az 1233/2011. (VII. 7.) Korm. határozat 3. pontjával megállapított szöveg.
 [^4]: Az 5. pont az 1233/2011. (VII. 7.) Korm. határozat 4. pontjával megállapított szöveg.
-[^5]: Az új 6. pontot az 1233/2011. (VII. 7.) Korm. határozat 5. pontja iktatta be, egyidejűleg az eredeti 6. pont számozását 9. pontra változtatta.
+[^5]: Az új 6. pontot az 1233/2011. (VII. 7.) Korm. határozat 5. pontja iktatta be, egyidejűleg az eredeti 6. pont számozását 9. pontra változtatta. A 6. pontot az 1883/2013. (XI. 28.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte.
 [^6]: Az új 7. pontot az 1233/2011. (VII. 7.) Korm. határozat 5. pontja iktatta be, egyidejűleg az eredeti 7. pont számozását 10. pontra változtatta.
 [^7]: A 8. pontot az 1233/2011. (VII. 7.) Korm. határozat 5. pontja iktatta be.
 [^8]: Az eredeti 6. pont számozását 9. pontra változtatta az 1233/2011. (VII. 7.) Korm. határozat 5. pontja.
