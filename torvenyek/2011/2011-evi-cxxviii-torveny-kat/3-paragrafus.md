@@ -26,9 +26,9 @@
 
 12. Közbiztonsági referens: a polgármester katasztrófák elleni védekezésre való felkészülési, védekezési, helyreállítási szakmai feladataiban, továbbá rendvédelmi és honvédelmi feladataiban közreműködő, köztisztviselői jogviszonyban álló, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtási rendeletében meghatározott végzettséggel rendelkező személy.
 
-13. Külső védelmi terv: a veszélyes anyagokkal foglalkozó üzem környezetében élő lakosság mentése, az anyagi javakban, a környezetben bekövetkező károk enyhítése érdekében a végrehajtandó rendszabályok bevezetésére, a végrehajtó szervezetre, a vezetésre, az adatszolgáltatásra vonatkozó terv, amely a települési veszélyelhárítási terv része.
+13. Külső védelmi terv: a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem környezetében élő lakosság mentése, az anyagi javakban, a környezetben bekövetkező károk enyhítése érdekében a végrehajtandó rendszabályok bevezetésére, a végrehajtó szervezetre, a vezetésre, az adatszolgáltatásra vonatkozó terv, amely a települési veszélyelhárítási terv része.
 
-14. Küszöbérték alatti üzem: egy adott üzemeltető irányítása alatt álló azon terület, ahol e törvény végrehajtására kiadott jogszabály szerinti alsó küszöbérték negyedét meghaladó, de az alsó küszöbértéket el nem érő mennyiségben veszélyes anyag van jelen, valamint a külön jogszabályban meghatározott, kiemelten kezelendő létesítmények.
+14. Küszöbérték alatti üzem: egy adott üzemeltető irányítása alatt álló azon terület, ahol e törvény végrehajtására kiadott jogszabály szerinti alsó küszöbérték negyedét elérő vagy meghaladó, de az alsó küszöbértéket el nem érő mennyiségben veszélyes anyag van jelen, valamint a külön jogszabályban meghatározott, kiemelten kezelendő létesítmények.
 
 15. Lakossági riasztó rendszer: a hivatásos katasztrófavédelmi szerv központi szerve, illetve a hivatásos katasztrófavédelmi szerv területi szervei kezelésében lévő lakossági riasztó, riasztó-tájékoztató, viharjelző rendszerek és ezek működésével szorosan összefüggő eszközök, berendezések összessége, amely lehet:
 
@@ -60,7 +60,7 @@ d) speciális végpont: minden olyan eszköz, berendezés, amely az a)–c) pont
 
 25. Veszélyelhárítási terv: katasztrófaveszély, valamint katasztrófa időszakában végrehajtandó katasztrófavédelmi feladatokat tartalmazó, központi, területi (fővárosi), települési (a fővárosban kerületi) és munkahelyi okmányrendszer.
 
-26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, amely mint nyersanyag, termék, melléktermék, maradék vagy köztes termék van jelen, beleértve azokat az anyagokat is, amelyekről feltételezhető, hogy egy baleset bekövetkezésekor létrejöhetnek.
+26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, amely mint nyersanyag, termék, melléktermék, maradék, köztes termék vagy hulladék van jelen, beleértve azokat az anyagokat is, amelyekről feltételezhető, hogy egy baleset bekövetkezésekor létrejöhetnek.
 
 27. Veszélyes anyagokkal foglalkozó létesítmény: olyan, a veszélyes anyagokkal foglalkozó üzem területén lévő technológiai vagy termelésszervezési okokból elkülönülő területrész, ahol egy vagy több berendezésben (technológiai rendszerben) veszélyes anyagok előállítása, felhasználása, szállítása vagy tárolása történik. Magában foglal minden olyan felszerelést, szerkezetet, csővezetéket, gépi berendezést, eszközt, iparvágányt, kikötőt, a létesítményt szolgáló rakpartot, kikötőgátat, raktárt vagy hasonló – úszó vagy egyéb – felépítményt, amely a létesítmény működéséhez szükséges.
 
@@ -82,7 +82,7 @@ e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-
 
 f) veszélyes anyagokkal foglalkozó létesítmény leállítása.
 
-31. Veszélyes tevékenység: olyan ipari, biológiai (mezőgazdasági), kémiai eljárások felhasználásával végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
+31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 
 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 

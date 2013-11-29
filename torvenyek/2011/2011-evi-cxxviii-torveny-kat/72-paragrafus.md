@@ -4,7 +4,7 @@
 
 (3) A polgármester a 71. § (1) bekezdése szerint összegyűjtött adatokról nyilvántartást nem vezethet, az adatállományt a beosztó határozat jogerőre emelkedése és a hivatásos katasztrófavédelmi szerv területi szerve tájékoztatása után haladéktalanul törli.
 
-(4) A (2) bekezdés szerint átadott adatok felhasználásával a polgári védelmi kötelezettség teljesítésével kapcsolatos feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv területi szerve nyilvántartást vezet. A nyilvántartásból kizárólag a polgári védelmi szervezetbe történő beosztáshoz, a polgári védelmi kötelezettség teljesítéséhez, és az igazolványban szereplő adatok ellenőrzéséhez kapcsolódóan igényelhető adat.
+(4) A (2) bekezdés szerint átadott adatok felhasználásával a polgári védelmi kötelezettség teljesítésével kapcsolatos feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv nyilvántartást vezet. A nyilvántartásból kizárólag a polgári védelmi szervezetbe történő beosztáshoz, a polgári védelmi kötelezettség teljesítéséhez, az igazolványban szereplő adatok ellenőrzéséhez igényelhető adat.
 
 (5) A polgári védelmi szervezet tagját a (4) bekezdésben meghatározott nyilvántartás, illetve a polgári védelmi szervezet tagja önkéntes adatszolgáltatása alapján a hivatásos katasztrófavédelmi szerv területi szerve igazolvánnyal látja el, amely a következő adatokat tartalmazza:
 

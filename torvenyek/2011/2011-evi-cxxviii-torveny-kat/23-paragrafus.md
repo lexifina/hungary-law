@@ -32,7 +32,9 @@ i) együttműködik az országos illetékességgel eljáró szervek ágazati kat
 
 j) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
 
-k) gondoskodik a közfoglalkoztatás feltételeinek rendelkezésre állásáról a katasztrófák elleni védekezésre való felkészüléssel, a védekezéssel és a helyreállítással összefüggő katasztrófavédelmi feladatok hatékonyabb ellátása érdekében.
+k) gondoskodik a közfoglalkoztatás feltételeinek rendelkezésre állásáról a katasztrófák elleni védekezésre való felkészüléssel, a védekezéssel és a helyreállítással összefüggő katasztrófavédelmi feladatok hatékonyabb ellátása érdekében,
+
+l) irányítja a veszélyes áruk szállításának ellenőrzésével kapcsolatos, a hivatásos katasztrófavédelmi szerv hatáskörébe tartozó hatósági feladatok ellátását.
 
 (5) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a nemzetközi együttműködéssel kapcsolatos jogkörében:
 

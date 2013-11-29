@@ -8,7 +8,7 @@ c) az irányítása alá tartozó rendvédelmi szervek katasztrófavédelmi fela
 
 d) a települések katasztrófavédelmi besorolását, a hivatásos katasztrófavédelmi szerv helyi szerveinek illetékességi területét,
 
-e) a polgári védelmi kötelezettségen alapuló polgári védelmi szervezetek létrehozásának, irányításának, anyagi-technikai ellátásának és alkalmazásának szabályait,
+e) a polgári védelmi kötelezettségen alapuló polgári védelmi szervezetek létrehozásának, irányításának, anyagi-technikai ellátásának és alkalmazásának szabályait, valamint a polgári védelmi szolgálatra önként jelentkezésre, a jelentkezés visszavonására és az ezekkel kapcsolatos döntésekre vonatkozó speciális szabályokat,
 
 f) a katasztrófavédelmi felkészítés követelményeit,
 

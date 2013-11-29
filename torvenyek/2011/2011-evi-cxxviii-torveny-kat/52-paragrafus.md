@@ -26,4 +26,6 @@ i) a települések kockázatértékelésen alapuló veszélyeztetettségének fe
 
 j) a veszélyelhárítási tervezés, szervezés,
 
-k) közreműködés a kulturális örökség védett elemeinek védelmében, a vizek kártételei elleni védekezés külön jogszabályban meghatározott feladatainak ellátásában, a menekültek elhelyezésében és ellátásában, továbbá a tűzoltásban, és a nemzetközi szerződésekből adódó tájékoztatás és kölcsönös segítségnyújtás feladatainak ellátásában.
+k) közreműködés a kulturális örökség védett elemeinek védelmében, a vizek kártételei elleni védekezés külön jogszabályban meghatározott feladatainak ellátásában, a menedékjogról szóló törvény hatálya alá tartozó személy elhelyezésében és ellátásában, továbbá a tűzoltásban, és a nemzetközi szerződésekből adódó tájékoztatás és kölcsönös segítségnyújtás feladatainak ellátásában,
+
+l) közszolgáltatás ellátásának kiesésekor az emberi életben, egészségben és az anyagi javakban esett kár megelőzése céljából a közszolgáltatás ideiglenes ellátásáról történő gondoskodás.

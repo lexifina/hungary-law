@@ -19,3 +19,5 @@ b) hogy az ország meghatározott területére utazni, azon átutazni vagy onnan
 c) hogy az ország meghatározott területéről történő kilépés csak a mentesítést követően engedélyezhető.
 
 (7) Veszélyhelyzetben elrendelhető a vasúti, közúti, vízi, légi szállítások biztosítása érdekében a javítókapacitások, valamint az állomások, kikötők, repülőterek, raktárak igénybevétele vagy használatának korlátozása.
+
+(8) Veszélyhelyzetben a védekezési munkák helyszínén megtiltható a szeszes italok fogyasztása, árusítása, tárolása.

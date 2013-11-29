@@ -1,6 +1,6 @@
-41. § A küszöbérték alatti üzem üzemeltetője – amennyiben a hatóság azt részére előírja – köteles
+41. § A küszöbérték alatti üzem üzemeltetője – amennyiben az iparbiztonsági hatóság azt részére előírja – köteles
 
-a) a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését és elhárítását, az egészség és a környezet magas fokú védelmét biztosító súlyos káresemény-elhárítási tervet a hatóság részére jóváhagyásra benyújtani,
+a) a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését és elhárítását, az egészség és a környezet magas fokú védelmét biztosító súlyos káresemény-elhárítási tervet az iparbiztonsági hatóság részére jóváhagyásra benyújtani,
 
 b) a súlyos káresemény-elhárítási terv részeként súlyos balesetek megelőzését és elhárítását biztosító irányítási rendszert működtetni,
 
@@ -10,4 +10,4 @@ d) a súlyos káresemény-elhárítási tervet a külön jogszabályban meghatá
 
 e) a súlyos káresemény-elhárítási terv végrehajthatóságát a külön jogszabályban meghatározott módon gyakorlattal ellenőrizni,
 
-f) a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeit kivizsgálni és az arról készült jelentést a hatóság részére megküldeni.
+f) a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeit kivizsgálni és az arról készült jelentést az iparbiztonsági hatóság részére megküldeni.

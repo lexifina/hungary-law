@@ -1,8 +1,8 @@
-35. § (1) A hatóság az üzemeltetőt megfelelő határidő megjelölésével kötelezheti a IV. fejezetben és a végrehajtási rendeletekben meghatározott üzemeltetői kötelezettségek teljesítésére, vagy ha a biztonságos üzemeltetés feltétele bármely okból hiányzik, a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzéséhez és elhárításához szükséges intézkedések megtételére. A hatóság az előírt kötelezettség vagy intézkedés megtételéig a veszélyes tevékenység folytatásának felfüggesztését rendelheti el.
+35. § (1) Az iparbiztonsági hatóság az üzemeltetőt megfelelő határidő megjelölésével kötelezheti a IV. fejezetben és a végrehajtási rendeletekben meghatározott üzemeltetői kötelezettségek teljesítésére, vagy ha a biztonságos üzemeltetés feltétele bármely okból hiányzik, a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzéséhez és elhárításához szükséges intézkedések megtételére. Az iparbiztonsági hatóság az előírt kötelezettség vagy intézkedés megtételéig a veszélyes tevékenység folytatásának felfüggesztését rendelheti el.
 
-(2) Ha az üzemeltető a biztonságos működéssel kapcsolatos kötelezettségeit nem teljesíti és a biztonságos üzemeltetés feltételeiben súlyos hiányosság jelentkezik, akkor a hatóság a 25. § (1) bekezdésében meghatározott engedély visszavonásával a veszélyes tevékenység folytatását megtiltja. Ha az üzemeltető a veszélyes tevékenységet hatósági engedély nélkül kezdi el, akkor a hatóság a veszélyes tevékenység folytatását a veszélyes anyagokkal foglalkozó üzemben jelen lévő veszélyes anyagok mennyiségének alsó küszöbérték alá csökkentésével korlátozza.
+(2) Ha az üzemeltető a biztonságos működéssel kapcsolatos kötelezettségeit nem teljesíti és a biztonságos üzemeltetés feltételeiben súlyos hiányosság jelentkezik, akkor az iparbiztonsági hatóság a 25. § (1) bekezdésében meghatározott engedély visszavonásával a veszélyes tevékenység folytatását megtiltja. Ha az üzemeltető a veszélyes tevékenységet hatósági engedély nélkül kezdi el, akkor az iparbiztonsági hatóság a veszélyes tevékenység folytatását a veszélyes anyagokkal foglalkozó üzemben jelen lévő veszélyes anyagok mennyiségének alsó küszöbérték negyede alá csökkentésével korlátozza.
 
-(3) A hatóság elrendelheti az üzemeltető költségére és veszélyére:
+(3) Az iparbiztonsági hatóság elrendelheti az üzemeltető költségére és veszélyére:
 
 a) a rendőrség közreműködésével – külön jogszabály szerint – a veszélyes anyagokkal foglalkozó üzemben foglalkoztatott vagy annak területén lévő személyeknek a veszélyes anyagokkal foglalkozó üzem területére történő belépésének, illetve az ott-tartózkodásának megtiltását, a veszélyes anyagokkal foglalkozó üzem, veszélyes anyagokkal foglalkozó létesítmény helyiségeinek lezárását és ennek hatósági pecséttel történő hitelesítését,
 
@@ -16,9 +16,9 @@ cb) környezetvédelmi szabályok szerinti megsemmisítését,
 
 cc) veszélyeztető jellegük megszüntetését.
 
-(4) Amennyiben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesettel vagy üzemzavarral összefüggésben a megelőző, elhárító, helyreállító intézkedésekre, valamint a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeinek kivizsgálására vonatkozó kötelezettségének nem tesz eleget, a hatóság ezek megtételére kötelezi.
+(4) Amennyiben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesettel vagy üzemzavarral összefüggésben a megelőző, elhárító, helyreállító intézkedésekre, valamint a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeinek kivizsgálására vonatkozó kötelezettségének nem tesz eleget, az iparbiztonsági hatóság ezek megtételére kötelezi.
 
-(5) A hatóság katasztrófavédelmi bírság kiszabására jogosult:
+(5) Az iparbiztonsági hatóság katasztrófavédelmi bírság kiszabására jogosult:
 
 a) katasztrófavédelmi engedély nélkül végzett engedélyköteles tevékenység végzése esetén,
 
