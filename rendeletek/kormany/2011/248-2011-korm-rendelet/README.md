@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-248-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-12-02 | 2011-248-20-22.1 | 248/2011. (XII. 1.) Korm. rendelet |
+| 2013-11-29 | 2011-248-20-22.2 | 451/2013. (XI. 28.) Korm. rendelet |

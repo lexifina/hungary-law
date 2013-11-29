@@ -50,21 +50,21 @@ l) szakmai háttérelemzésekkel segíti a gazdasági versenyképesség általá
 
 m) szakmai háttérelemzésekkel segíti a magyar gazdaság megújítását szolgáló nemzetközi iparági és ágazati projekt-együttműködési, koncepció-készítési, módszertani, kutatási és egyéb szakmai feladatok ellátását;
 
-n) ellátja Magyarország külgazdasági kapcsolatait érintő stratégiai elemzési, tervezési és előrejelzési feladatait.
+n) ellátja Magyarország külgazdasági kapcsolatait érintő stratégiai elemzési, tervezési és előresjelzési feladatait.
 
-(3) A Hivatal feladata előrejelzési, trendkutatási tevékenységi körében
+(3)[^1] A Hivatal a 2014–2020-as nemzeti szintű tervezési feladatok szakmai támogatása keretében
 
-a) nemzeti iparági és nemzetgazdasági előrejelzési és szcenárióalkotási feladatok és módszertani anyagok készítése;
+a) közreműködik a gazdaságfejlesztési célú források felhasználásával kapcsolatos központi tervezési, valamint az operatív programokhoz kapcsolódó szakmai koordinációs feladatokban;
 
-b) nemzeti iparági és nemzetgazdasági trend- és jövőkutatási értékelési és monitoring feladatok és módszertani anyagok készítése;
+b) közreműködik a 2014–2020-as tervezési időszakra vonatkozó, az uniós források felhasználását meghatározó operatív programok előkészítésében, tervezési-programozási, projekt-előkészítési, támogatásközvetítői, értékelési, valamint az operatív programok tervezését érintő szakmai és operatív feladatokban;
 
-c) trendkutatás terén nemzetközi és nemzeti partnerségi, szakértői és kutatási együttműködések koordinációja, előrejelzési, trend- és jövőkutatási stratégiai értékelési, elemzési, minőségbiztosítási és monitoring feladatok ellátása;
+c) részt vesz az uniós költségvetési tervezési időszakra vonatkozó, illetve a gazdasági és területi fejlesztésekhez kapcsolódó operatív programok tervezésében, programozásában és kijelölés alapján egyes végrehajtási feladatok ellátásában;
 
-d) vállalati, vállalatcsoporti területi és településszintű kutatások, előrejelzések készítése;
+d) munkája során együttműködik és kapcsolatot tart fenn a területi fejlesztésekben érdekelt szervezetekkel, kiemelten a megyék és a megyei jogú városok képviselőivel, ellátja a terület- és településfejlesztési program készítésének tervezési, illetve szakmai, módszertani támogatását;
 
-e) a minisztérium vezetése számára rendszeres és eseti jellegű tájékoztatás nyújtása a gazdaságstratégiai döntések szempontjából releváns közép- és hosszú távú hazai és globális gazdasági trendek alakulásáról, rendszeres összefoglalók készítése az aktuálisan megjelenő gazdasági adatokból kirajzolódó trendekről, folyamatokról és azok mozgatórugóiról;
+e) közreműködik a Magyarország és az Európai Unió között a 2014–2020-as időszakra vonatkozó Partnerségi Megállapodás szövegének elkészítésében a minisztérium felelős szervezeti egysége koordinálásával, az érintett szervezetekkel együttműködve;
 
-f) a szakmai sajtó és a szakirodalom, a releváns hazai és külföldi gazdasági hírforrások rendszeres figyelemmel kísérése és értékelése, a minisztérium rendelkezésére álló nyilvános és államigazgatáson belüli nem nyilvános, közgazdasági elemzési szempontból releváns adatforrások feltérképezésével, összesítésével és rendszerezésével kapcsolatos feladatok ellátása, ez alapján a közgazdasági elemzési és tájékoztatási tevékenységet támogató adatbázis kialakítása.
+f) kijelölés alapján részt vesz a programozási feladatok koordinációjában, módszertani minőségbiztosításban.
 
 (4) A Hivatal nemzeti és nemzetközi területi elemzési, területfejlesztési stratégiaalkotó tevékenységi körében
 
@@ -113,3 +113,5 @@ g) a minisztérium feladatkörébe tartozó szakpolitikák érvényesülésének
 h) egyes kiemelt stratégiai fejlesztési területekhez kapcsolódó szakmai feladatok, információ beszerzési feladatok, elemzések, értékelések koordinációja;
 
 i) a Magyarországon tervezett külföldi nagyberuházások ágazati hatásvizsgálatának elvégzése, a támogatási döntések (EKD) megalapozása.
+
+[^1]: A 4. § (3) bekezdése a 451/2013. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
