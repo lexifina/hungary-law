@@ -28,7 +28,7 @@ l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállítás
 
 m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait,
 
-n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, továbbá feladatai ellátásának részletes szabályait.
+n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, feladatai ellátásának részletes szabályait, továbbá kijelölje azon szerveket, szervezeteket, gazdasági társaságokat, amelyek együttműködésre kötelezettek a segélyhívásokat fogadó szervvel vagy a készenléti szervekkel és megállapítsa ezen együttműködés rendjét.
 
 (2)
 
