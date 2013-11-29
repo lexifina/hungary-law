@@ -2,8 +2,10 @@
 
 a) nemzetközi szerződésben meghatározott vagy nemzetközi kötelezettség alapján elismert úti okmányok,
 
-b) valamennyi harmadik ország által kiállított magán-, szolgálati és diplomata útlevél, az 1. mellékletben meghatározottak kivételével, és
+b) valamennyi harmadik ország által kiállított magán-, szolgálati, diplomata, különleges és hivatalos útlevél, az 1. mellékletben meghatározottak kivételével,
 
-c) a 2. mellékletben felsorolt okmányok.
+c) az a) és b) pontja alá nem tartozó, az Európai Unió tagállamai, és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes államok által a harmadik országbeli állampolgárok számára kiállított úti okmányok, és
 
-[^1]: Az 1. § nyitó szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 14. §-a szerint módosított szöveg.
+d) a 2. mellékletben felsorolt okmányok.
+
+[^1]: Az 1. § a 447/2013. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

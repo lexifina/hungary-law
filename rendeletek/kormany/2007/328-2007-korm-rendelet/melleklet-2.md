@@ -1,112 +1,79 @@
 2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^5]
 
-## Magyarország által elismert egyéb okmányok listája[^6]
+## A Magyarország által elismert egyéb okmányok listája
 
-1. Amerikai Egyesült Államok – az Amerikai Egyesült Államok Állampolgársági és Bevándorlási Szolgálata által kiállított úti okmányok (Travel Document Issued by US Citizenship and Immigration Services)
+1. Amerikai Egyesült Államok
 
-a) menekültek számára kiállított úti okmányok (Refugee Travel Document)
+a) az Amerikai Egyesült Államok Állampolgársági és Bevándorlási Szolgálata által kiállított úti okmányok (Travel Document Issued by US Citizenship and Immigration Services)
 
-b) visszatérésre feljogosító engedély (Permit to Re-enter)
+b) menekültek számára kiállított úti okmányok (Refugee Travel Document)
 
-2. Ausztrália
+c) visszatérésre feljogosító engedély (Permit to Re-enter)
 
-a) személyazonosságot igazoló okirat (document of identity)
+d) úti okmány (Travel document)
 
-b) személyazonosító igazolvány (certificate of identity)
+e) sürgősségi útlevél (Emergency passport)
 
-3. Bahrein – különleges útlevél
+2. Bahama-szigetek – gyakori utazó útlevél (Frequent Traveller Passport)
 
-4. Brazília – külföldiek úti okmánya
+3. Dél-Korea – utazási igazolvány (Travel certificate)
 
-5. Dél-afrikai Köztársaság
+4. Grúzia – státusz Semleges Úti Okmány (Status Neutral Tarvel Document)
 
-a) gyermekútlevél
+5. Kanada
 
-b) külföldiek úti okmánya
+a) sürgősségi úti okmány (Emergency travel document)
 
-c) ideiglenes útlevél
+b) ideiglenes úti okmány (Temporary passport)
 
-6. Dél-Korea – utazási igazolvány
+6. Egyiptom – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
 
-7. Kanada – különleges útlevél (special passport)
+7. India – a tibeti emigráns közösség tagjai számára kiállított személyazonosító igazolvány (Special Entry Permit Tibet origins)
 
-8. Kelet-Timor – külföldiek úti okmánya
+8. Izrael
 
-9. Kínai Népköztársaság
+a) külföldiek úti okmánya (Travel document)
 
-a) közszolgálati útlevél
+b) Palesztin Hatóság által kiállított magánútlevél (Ordinary passport/Travel Document)
 
-b) Hong Kong Különleges Közigazgatási Régió útlevele
+c) Palesztin Hatóság által kiállított VIP útlevél (VIP passport/Travel Document)
 
-c) vízum beillesztésére szolgáló személyazonosságot igazoló okirat (Hong Kong)
+9. Jordánia – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
 
-d) személyazonosító igazolvány (Hong Kong)
+10. Kelet-Timor – különleges szolgálati útlevél (Special Service Passport)
 
-e) magánútlevél (Tajvan)
+11. Kínai Népköztársaság
 
-f) Makaó Különleges Közigazgatási Régió útlevele
+a) közszolgálati útlevél (Passport for Public affairs)
 
-g) Makaó Különleges Közigazgatási Régió úti okmánya
+b) Hong Kong Különleges Közigazgatási Régió útlevele (HKSAR passport)
 
-10. Egyiptom – úti okmány palesztin menekültek részére
+c) Hong Kong Különleges Közigazgatási Régió vízum beillesztésére szolgáló személyazonosságot igazoló okirat (HKSAR Document of identity for visa purposes)
 
-11. Etiópia – különleges útlevél
+d) magánútlevél (Tajvan)
 
-12. Guatemala – konzuli útlevél
+e) Makaó Különleges Közigazgatási Régió útlevele (Macao Special Administrative Region passport)
 
-13. India – a tibeti emigráns közösség tagjai számára kiállított személyazonosító igazolvány
+f) Makaó Különleges Közigazgatási Régió úti okmánya (Macao Special Administrative Region Travel permit)
 
-14. Izrael
+g) hajós útlevél (Seafarer's Passport)
 
-a) különleges útlevél
+12. Libanon – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
 
-b) külföldiek úti okmánya
+13. Líbia – úti okmány palesztin menekültek részére – (Travel document for Palestinian refugees)
 
-c) magánútlevél (Palesztin Hatóság)
+14. Oroszország – hajós útlevél (Seaman's passport)
 
-d) különleges (VIP) útlevél (Palesztin Hatóság)
+15. Szaúd-Arábia – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
 
-15. Japán – külföldiek úti okmánya
+16. Trinidad és Tobago – útlevél az országgyűlési képviselők számára (Passport for members of parliament)
 
-16. Jordánia
+17. Türkmenisztán – hajós útlevél (Seaman's passport)
 
-a) különleges útlevél
+18. Új-Zéland
 
-b) úti okmány palesztin menekültek részére
+a) sürgősségi úti okmány (Emergency travel document)
 
-17. Katar – különleges útlevél
+b) sürgősségi útlevél (Emergency passport)
 
-18. Kuvait – különleges útlevél
-
-19. Libanon
-
-a) különleges útlevél
-
-b) úti okmány palesztin menekültek részére
-
-20. Líbia
-
-a) különleges útlevél
-
-b) úti okmány palesztin menekültek részére
-
-21. Marokkó – különleges útlevél
-
-22. Szaúd-Arábia
-
-a) különleges útlevél
-
-b) úti okmány palesztin menekültek részére
-
-23. Szíria
-
-a) különleges útlevél
-
-b) úti okmány palesztin menekültek részére
-
-24. Törökország – különleges útlevél
-
-25. Tunézia – különleges útlevél
-
-[^5]: A 2. melléklet a 25/2010. (II. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^6]: Az 2. melékletet követő cím a 276/2011. (XII. 20.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^5]: A 2. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés b) pontjával megállapított szöveg.
