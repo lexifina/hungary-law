@@ -1,0 +1,1 @@
+20. § Az egyes rendészeti tárgyú törvények módosításáról szóló 2013. évi XCIII. törvény 57. § (2) bekezdésének a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § w) pontját megállapító rendelkezése a „három hónapot meghaladó” szövegrész helyett a „száznyolcvan napon belül kilencven napot meghaladó” szöveggel lép hatályba.
