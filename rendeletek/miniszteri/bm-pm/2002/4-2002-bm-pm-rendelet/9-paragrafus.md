@@ -1,1 +1,0 @@
-## 8. § A NEBEK ügyelete a titokvédelmi előírásoknak megfelelően védett távadatátviteli hálózaton keresztül 24 órás közvetlen elérhetőséget biztosít a nemzetközi bűnüldözési szervezetek, a külföldi bűnüldöző szervek, a magyar bűnüldöző szervek, valamint a külső, a belső és a telepített összekötők részére.
