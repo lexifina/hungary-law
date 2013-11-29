@@ -13,3 +13,11 @@
 (7) Ideiglenes ellátásra irányuló kijelölés az új hulladékgazdálkodási közszolgáltatási szerződés megkötéséig, de legfeljebb 9 hónapos időtartamra történhet. A kijelölés egy alkalommal, legfeljebb 3 hónappal meghosszabbítható.
 
 (8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a hulladékgazdálkodási közszolgáltatási engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
+
+(9) Ha a (6) bekezdés szerinti közérdek érvényesítését a (3) bekezdésben meghatározott feltételekkel rendelkező szolgáltatók száma korlátozza, közérdekű szolgáltatóként az ideiglenes szolgáltatáshoz szükséges feltételek megléte esetén kijelölhető az a szolgáltató is, amelyik
+
+a) hulladékgazdálkodási közszolgáltatási engedéllyel nem, de hulladékgazdálkodási engedéllyel rendelkezik,
+
+b) hulladékgazdálkodási engedély megszerzése érdekében kérelmet nyújtott be, vagy
+
+c) korábban hulladékgazdálkodási engedéllyel rendelkezett, de az engedélyének időbeli hatálya a kijelölés időpontját megelőző legfeljebb 60 napon belül szűnt meg.
