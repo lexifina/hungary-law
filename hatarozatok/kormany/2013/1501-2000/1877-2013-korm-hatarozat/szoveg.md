@@ -1,1 +1,0 @@
-A kormányablakok kialakításához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1178/2013. (IV. 5.) Korm. határozat 1. pontjában a „2013. december 15.” szövegrész helyébe a „2014. június 30.” szöveg lép.
