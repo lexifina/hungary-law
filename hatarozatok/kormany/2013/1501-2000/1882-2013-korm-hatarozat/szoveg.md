@@ -8,7 +8,7 @@ Felelős: belügyminiszter
 
 Határidő: 2013. november 30.
 
-3. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1543/2013. (VIII. 15.) Korm. határozat 1. mellékletének 2. prioritásra vonatkozó részét.
+3.[^1]
 
 1. melléket az 1882/2013. (XI. 28.) Korm. határozathoz
 
@@ -83,3 +83,5 @@ Határidő: 2013. november 30.
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, amennyiben nem kerül sor költségvetési kompenzációra |
 
 | A 2.1.1, 2.1.2, 2.2.2, 2.2.2/B, 2.2.3, 2.3.0, 2.3.0/B, 2.4.0, 2.4.0/B és 2.5.0/B konstrukciókon összesen 27,33 Mrd Ft túlvállalást tartalmaz. |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
