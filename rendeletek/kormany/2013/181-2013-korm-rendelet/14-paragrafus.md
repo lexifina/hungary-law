@@ -1,3 +1,5 @@
 14. § (1) E rendelet rendelkezéseit az e rendelet hatálybalépését követően benyújtott kérelmek esetében kell alkalmazni. A vámhatóság e rendelet rendelkezéseit az e rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni köteles akkor, ha az a kérelmezőre nézve kedvezőbb.
 
-(2) Az e rendelet hatálybalépésekor már benyújtott kérelmek esetében a kérelmező külön benyújtott írásbeli nyilatkozattal kérheti a 7. § szerinti eljárás alkalmazását, mely esetben a soron kívüli eljárásra irányadó határidőket az e bekezdés szerinti írásbeli nyilatkozat beérkezésétől kell számítani. A kérelmező legkésőbb a nyilatkozatával együtt köteles csatolni a 7. § (2) bekezdésében felsorolt mellékletek közül az eljárásban addig nem csatoltakat, ugyanakkor a vámhatóság a 7. § (3) bekezdése szerinti hiánypótlási felhívást kibocsáthatja akkor is, ha a folyamatban lévő ügyben az 5. § (1) bekezdése szerinti hiánypótlási felhívást már kibocsátotta.
+(2)[^3]
+
+[^3]: A 14. § (2) bekezdését a 453/2013. (XI. 28.) Korm. rendelet 4. §-a hatályon kívül helyezte.
