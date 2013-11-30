@@ -12,4 +12,4 @@ c) a vitatott kérdések – ide nem értve az igazságügyi szakértői vélem�
 
 vonatkozásában, e rendeletben nem szabályozott kérdéskörökben együttműködési megállapodást köt.
 
-[^2]: A 13. § a 15. § (3) bekezdése alapján 2013. november 30-án lép hatályba.
+[^2]: A 13. § a 15. § (3) bekezdése alapján 2014. május 30-án lép hatályba.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-19-20-1
 | 2010-05-03 | 2010-19-20-1U.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-11-30 | 2010-19-20-1U.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-12-01 | 2010-19-20-1U.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-11-30 | 2010-19-20-1U.6 | 30/2013. (XI. 29.) KIM rendelet |

@@ -22,20 +22,20 @@
 
 ## 11. AMEL
 
-## 12.[^5] D1S1656,
+## 12.[^6] D1S1656,
 
-## 13.[^6] D2S441,
+## 13.[^7] D2S441,
 
-## 14.[^7] D10S1248,
+## 14.[^8] D10S1248,
 
-## 15.[^8] D12S391,
+## 15.[^9] D12S391,
 
-## 16.[^9] D22S1045
+## 16.[^10] D22S1045
 
 2. melléklet a 19/2010. (IV. 30.) IRM rendelethez
 
-[^5]: Az 1. melléklet 12. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
-[^6]: Az 1. melléklet 13. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
-[^7]: Az 1. melléklet 14. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
-[^8]: Az 1. melléklet 15. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
-[^9]: Az 1. melléklet 16. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^6]: Az 1. melléklet 12. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^7]: Az 1. melléklet 13. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^8]: Az 1. melléklet 14. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^9]: Az 1. melléklet 15. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
+[^10]: Az 1. melléklet 16. pontja a 15. § (4) bekezdése alapján 2011. november 30-án lépett hatályba.
