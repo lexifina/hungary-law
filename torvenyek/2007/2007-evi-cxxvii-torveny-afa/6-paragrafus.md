@@ -16,6 +16,8 @@ ba) annak első rendeltetésszerű használatbavétele még nem történt meg, v
 
 bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év
 
+[a ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
+
 c) egyébként nem adóalanyi minőségben eljáró személy, szervezet sorozat jelleggel építési telket (telekrészt) értékesít.
 
 (5) Nem minősül az (1) bekezdésben említett független formában végzett gazdasági tevékenységnek az a tevékenység, amelyet munkaviszony, munkaviszony jellegű jogviszony vagy olyan munkavégzésre irányuló egyéb jogviszony keretében végeznek, amelyben a jogosult irányítása és felelőssége mellett a kötelezett alárendelt helyzetben van a tevékenység végzése eredményének, díjazásának, valamint egyéb feltételeinek és körülményeinek meghatározásában.
