@@ -6,6 +6,6 @@ b) 6. §-a a Közösségi Vízumkódex létrehozásáról szóló, 2009. július
 
 c) 6. §-a a külső határok átlépésére jogosító és vízummal ellátható úti okmányok listájáról, valamint az e lista összeállítására irányuló eljárás meghatározásáról szóló, 2011. október 25-i 1105/2011/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2)[^7]
+(2)[^9]
 
-[^7]: A 14. § (2) bekezdése a 13. § (2) bekezdése alapján 2013. december 13-án lép hatályba.
+[^9]: A 14. § (2) bekezdése a 13. § (2) bekezdése alapján 2013. december 13-án lép hatályba.

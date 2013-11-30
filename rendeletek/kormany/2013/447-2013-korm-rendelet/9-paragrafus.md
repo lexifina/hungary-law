@@ -1,3 +1,3 @@
-## 8. §[^4]
+## 8. §[^5]
 
-[^4]: A 8. § a 13. § (2) bekezdése alapján 2013. december 13-án lép hatályba.
+[^5]: A 8. § a 13. § (2) bekezdése alapján 2013. december 13-án lép hatályba.
