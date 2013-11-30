@@ -2,6 +2,4 @@
 
 a) a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2011. szeptember 2-i 2011/75/EU bizottsági irányelvnek,
 
-b)[^11]
-
-[^11]: A 10. § b) pontja a 9. § (2) bekezdése alapján 2013. november 30-án lép hatályba.
+b) a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2012. október 25-i 2012/32/EU bizottsági irányelvnek

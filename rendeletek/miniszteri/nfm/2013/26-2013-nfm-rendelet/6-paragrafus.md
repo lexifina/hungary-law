@@ -1,6 +1,7 @@
-6. § (1)[^7]
+6. § (1)[^6]
 
-(2)[^8]
+(2) Az R. 14. § (1) bekezdése a következő 9. ponttal egészül ki:
 
-[^7]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. § (2) bekezdése a 9. § (2) bekezdése alapján 2013. november 30-án lép hatályba.
+(Ez a rendelet)
+
+[^6]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
