@@ -1,3 +1,3 @@
-## 2. § Az R1. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 1–2. §[^2]
 
-## „(3) A vámhatóság az engedélyezési eljárás során a rendelkezésére álló adatok alapján dönt, illetve szükség szerint szemlét tart.”
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

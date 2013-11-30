@@ -1,3 +1,0 @@
-## 1. § A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezési eljárás egyes szabályairól szóló 181/2013. (VI. 7.) Korm. rendelet (a továbbiakban: R1.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A vámhatóság az engedélyt határozatával megadja, ha az előterjesztett okiratok, a rendelkezésére álló adatok, valamint a hatósági nyilvántartások alapján megállapítható, hogy a kérelmező, illetve kérelme a Tv. 13. §-ában, illetve az e rendeletben foglalt követelményeknek megfelel. A vámhatóság – szükség szerint – iratok, adatok beszerzése céljából más állami vagy önkormányzati szervet is megkereshet, ez azonban az ügyintézési határidőt nem hosszabbítja meg.”
