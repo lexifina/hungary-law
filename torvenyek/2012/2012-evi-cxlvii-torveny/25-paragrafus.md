@@ -8,6 +8,8 @@
 
 (2) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a kisadózó vállalkozások tételes adója szerinti adóalanyiság bejelentése adóévében az Szja tv.-nek az egyéni vállalkozói tevékenység megszüntetésére vonatkozó előírásai szerint megállapítja a meglévő készletekkel kapcsolatos bevételét. E bevételt a továbbiakban mindaddig adóalapot nem érintő bevételként tartja nyilván, amíg adókötelezettségeit a kisadózó vállalkozások tételes adójára vonatkozó rendelkezések szerint teljesíti vagy az Szja tv. szerinti átalányadózást alkalmaz.
 
+(2a) Ha a kisadózó vállalkozások tételes adóját alkalmazó egyéni vállalkozó a tevékenységét megszünteti, akkor a bevételét növeli az az összeg, amelyet a kisadózó vállalkozások tételes adója szerinti adóalanyiság bejelentése adóévében a (2) bekezdésben foglaltak szerint megállapított.
+
 (3) Ha a kisadózó vállalkozások tételes adója szerinti adóalany egyéni vállalkozó az adóévben
 
 a) egyidejűleg mezőgazdasági őstermelői tevékenységet is folytat, a mindkét tevékenységgel összefüggő költségeket a bevételek arányában meg kell osztania;

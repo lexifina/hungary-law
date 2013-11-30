@@ -2,7 +2,7 @@
 
 4. § (1) A kisadózó vállalkozások tételes adója szerinti adóalanyiság a választás bejelentését követő hónap első napjával jön létre.
 
-(2) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesítheti. Ebben az esetben az adóalanyiság a vállalkozás nyilvántartásba vételének napjával – de legkorábban 2013. január 1-jén – jön létre.
+(2) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesítheti. Ebben az esetben az adóalanyiság a vállalkozás nyilvántartásba vételének napjával vagy – ha az korábbi időpont – a létesítő okirat ellenjegyzésének napjával – de legkorábban 2013. január 1-jén – jön létre.
 
 (3) Nem választhatja az adóalanyiságot az a vállalkozás, amelynek adószámát az adóhatóság a bejelentést megelőző két éven belül törölte, vagy ezen időszakban a vállalkozás adószáma jogerősen fel volt függesztve.
 
