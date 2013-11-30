@@ -9,11 +9,3 @@ b) 226. § és 264. §–287. § tervezetének a belső piaci szolgáltatásokr�
 c) 264. §–287. § tervezetének az Európai Parlament és a Tanács 94/62/EK irányelve (1994. december 20.) a csomagolásról és a csomagolási hulladékról, 16. cikk (1) és (2) bekezdése
 
 szerinti előzetes bejelentése megtörtént.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

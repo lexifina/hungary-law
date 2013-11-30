@@ -1,3 +1,0 @@
-332. § A NAV tv. 34/L. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Amennyiben a foglalkoztatott az esedékes részletet 15 napot meghaladóan sem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben, a nem teljesített részlet esedékességétől számított, Ptk. szerinti kamattal növelten esedékessé válik, illetve a munkáltató a követelését a 28/D. § szerinti levonás útján érvényesítheti. Ugyanígy kell eljárni, ha a foglalkoztatott a fizetési halasztásra engedélyezett határidőt követően 15 napot meghaladóan sem teljesít. Erre a határozat rendelkező részében fel kell hívni a foglalkozatott figyelmét.”

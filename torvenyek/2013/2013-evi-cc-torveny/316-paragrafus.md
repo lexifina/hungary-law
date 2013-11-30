@@ -1,3 +1,0 @@
-316. § A NAV tv. 28/C. §-a helyébe a következő rendelkezés lép:
-
-„28/C. § A kormánytisztviselő, pénzügyőr, ügykezelő részére az illetményéről részletes írásbeli elszámolást kell adni. Az elszámolásnak olyannak kell lennie, hogy az érintett a kifizetés (és egyes elemeinek) jogcímét, a kiszámítás helyességét, valamint a levonások jogcímét és összegét ellenőrizni tudja.”
