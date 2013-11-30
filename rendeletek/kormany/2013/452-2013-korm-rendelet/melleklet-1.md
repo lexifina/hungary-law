@@ -1,8 +1,4 @@
-## 5. § A Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központról szóló 310/2012. (XI. 6.) Korm. rendelet 4. § c) pontja helyébe a következő rendelkezés lép:
-
-## (A Központ az örökséggazdálkodási és szolgáltatási tevékenysége körében ellátja különösen az alábbi feladatokat:)
-
-## „c) a kulturális örökség kezelésével kapcsolatos információk nyújtása, hasznosítással kapcsolatos tanácsadás, pályázati tanácsadás és közreműködés, fejlesztéssel, felújítással kapcsolatos tanácsadás, tervpályázati eljárás lebonyolítása;”
+## 5. §[^1]
 
 1. melléklet a 452/2013. (XI. 28.) Korm. rendelethez
 
@@ -23,3 +19,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 7. Tűzvédelmi hatósági eljárások
 
 8. Azok a további hatósági engedélyezési eljárások, amelyek a beruházás megvalósításhoz közvetlenül szükségesek
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
