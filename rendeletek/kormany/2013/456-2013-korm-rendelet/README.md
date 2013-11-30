@@ -1,0 +1,9 @@
+# 456/2013. (XI. 29.) Korm. rendelet
+
+a Takata Safety Systems Hungary Kft. Miskolcon megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-456-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-11-30 | 2013-456-20-22.1 | 456/2013. (XI. 29.) Korm. rendelet |

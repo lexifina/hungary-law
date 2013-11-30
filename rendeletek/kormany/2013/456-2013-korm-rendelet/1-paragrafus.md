@@ -1,0 +1,7 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek a Takata Safety Systems Hungary Kft. által Miskolc város közigazgatási területén fekvő, az ingatlan-nyilvántartás szerinti 47511/8, 47511/9 és a 47511/10 helyrajzi számú földrészleteken, illetve ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészleteken megvalósításra kerülő, passzív biztonsági rendszereket gyártó üzem, illetve logisztikai központ létesítését eredményező beruházással függenek össze.
+
+(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
+
+(3) Azokban az esetekben, amikor az 1. mellékletben meghatározott eljárásfajtára vonatkozó jogszabály az adott eljárásban szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+
+(4) A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyek koordinációjára – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. §-ában foglaltak szerint – feladat- és hatáskörrel rendelkező kormánymegbízottként a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
