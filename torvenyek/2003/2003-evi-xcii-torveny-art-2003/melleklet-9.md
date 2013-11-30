@@ -53,3 +53,49 @@ a) a tag – kérelem előterjesztésekor érvényes, illetve a visszatéríttet
 b) a tag a visszatéríttetési kérelem (kiigazítási nyilatkozat) előterjesztésére a csoportos adóalanyiságtól függetlenül
 
 jogosult.
+
+9. A) Az adó-visszatéríttetési kérelem, valamint a 7. pontban meghatározott kiigazítási nyilatkozat kötelező és választható adattartalmát, formátumát, kitöltésének módját külön jogszabály állapítja meg.
+
+B) E cím alkalmazásában az ügyfélkapun és a központi elektronikus szolgáltató rendszeren keresztül történő, az e törvény 5. § (3) bekezdésének megfelelő elektronikus kapcsolattartás szabályait kell alkalmazni.
+
+II. A Közösség más tagállamában, illetve harmadik államban letelepedett adóalany általános forgalmiadó-visszatéríttetési jogának Magyarországon történő érvényesítésével kapcsolatos eljárás egyes kérdéseiről
+
+1. Az általános forgalmi adóról szóló törvényben meghatározott, a Közösség más tagállamában vagy harmadik államban letelepedett adóalany (a továbbiakban együtt: adózó) adó-visszatéríttetési kérelmével, kiigazítási nyilatkozatával (a továbbiakban: kérelem) kapcsolatos eljárásban e törvény rendelkezéseit az e címben foglalt eltérésekkel kell alkalmazni.
+
+2. E cím alkalmazásában:
+
+a) elektronikus kapcsolattartás: az ügyfélkapun és a központi elektronikus szolgáltató rendszeren keresztül történő, az e törvény 5. § (3) bekezdése szerinti elektronikus kapcsolattartási mód;
+
+b) elektronikus levélcímen való kapcsolattartás: az elektronikus kapcsolattartástól különböző olyan kapcsolattartási mód, amely esetén
+
+ba) az állami adóhatóság a kérelemmel kapcsolatos döntését és egyéb értesítését a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással ellátva az adózó kérelmében megjelölt elektronikus levélcímére küldi meg, illetve
+
+bb) az adózó azon beadványát, amelyet nem a letelepedés tagállamának adóhatósága útján terjeszt elő az állami adóhatósághoz, az adózó a kérelmében megjelölt elektronikus levélcímről az állami adóhatóság által kijelölt elektronikus levélcímre küldi meg;
+
+c) ha az adózó vagy képviselője a kérelem beérkezése napján az állami adóhatóság nyilvántartása alapján
+
+ca) rendelkezik az e törvény 17. § (5) bekezdése szerinti regisztrációval és ezt az állami adóhatósághoz bejelentette, az eljárásban az elektronikus kapcsolattartás szabályai szerint kell eljárni,
+
+cb) nem felel meg a ca) alpontban meghatározott feltételnek, az eljárásban az adózó választása szerint az elektronikus kapcsolattartás vagy az elektronikus levélcímen való kapcsolattartás szabályai szerint kell eljárni.
+
+3. Az állami adóhatóság a 2. c) pont ca) alpontban foglaltaknak megfelelő adózó kérelmének az általános forgalmi adóról szóló törvény 251/D. § (2) bekezdése szerinti beérkezése tényéről és időpontjáról az adózót a beérkezés napját követő 2 napon belül értesíti. Az értesítéssel egyidejűleg az állami adóhatóság tájékoztatja az adózót a főbb eljárási szabályokról (így különösen a határidőkről és a hatósággal való kapcsolattartás módjairól).
+
+4. A 2. c) pont cb) alpont szerinti adózó esetén az állami adóhatóság a 3. pont szerinti értesítést és tájékoztatást elektronikus kapcsolattartás útján küldi meg az adózónak. Ez esetben az állami adóhatóság a 2. b) pont bb) alpont szerinti elektronikus levélcíméről, valamint arról is tájékoztatja az adózót, hogy nyilvántartása szerint sem az adózó, sem a képviselője nem felel meg a 2. c) pont ca) alpontban foglalt feltételnek.
+
+5. Az adózó a 2. c) pont cb) alpont szerinti választását a kérelem beérkezésének napját követő 15 napon belül, elektronikus levélcímen való kapcsolattartás útján közli az állami adóhatósággal. Ha az adózó az elektronikus kapcsolattartás választásáról nyilatkozott, az adózónak vagy képviselőjének a kérelem beérkezésének napját követő 30 napon belül kell teljesítenie az e törvény 17. § (5) bekezdése szerinti bejelentést az állami adóhatósághoz. A választás bejelentésére, illetve a 17. § (5) bekezdés szerinti nyilatkozat teljesítésére előírt határidő jogvesztő, igazolási kérelem előterjesztésének nincs helye.
+
+6. Ha az adózó az 5. pont szerinti választásáról nyilatkozatot nem, vagy késedelmesen tesz, illetve az 5. pont szerinti bejelentést az adózó vagy képviselője nem, vagy késedelmesen teljesíti, a kérelemmel kapcsolatos elsőfokú eljárásban az elektronikus levélcímen való kapcsolattartás szabályait kell alkalmazni.
+
+7. Ha az adózó a kérelemben megjelölt elektronikus levélcím megszűnését az állami adóhatóságnak bejelenti, a bejelentést követően az eljárásban az elektronikus levélcímen való kapcsolattartás szabályai nem alkalmazhatók. A bejelentést követően az állami adóhatóság döntéseit, egyéb értesítéseit postai úton közli az adózóval, az adózó beadványait postai úton vagy személyesen közli az állami adóhatósággal.
+
+8. Ha az állami adóhatóság az adózó bejelentése hiányában a rendelkezésére álló adatokból megállapítja, hogy az adózó kérelemben megjelölt elektronikus levélcímén a kapcsolattartás technikai vagy egyéb okból nem lehetséges (a továbbiakban: sikertelen közlés), a 7. pontban foglalt rendelkezéseket a sikertelen közlés megállapítását követően kell alkalmazni. A sikertelen közléssel érintett döntést, egyéb értesítést az állami adóhatóság a sikertelen közlés tényének megállapításáról szóló döntéssel egyidejűleg, postai úton közli az adózóval. A sikertelen közlés tényének megállapítása ellen nincs helye jogorvoslatnak.
+
+9. Elektronikus levélcímen való kapcsolattartás esetén
+
+a) az állami adóhatóság 2. b) pont ba) alpontnak megfelelően elküldött döntését, egyéb értesítését az elküldés napjától számított ötödik napon kell közöltnek tekinteni; illetve
+
+b) az adózó 2. b) pont bb) alpontnak megfelelően elküldött beadványát az állami adóhatósághoz való beérkezése napján kell benyújtottnak tekinteni.
+
+10. Az állami adóhatóság a döntése, egyéb értesítése közlésének napjáról, illetve a beadvány benyújtása napjáról az adózót elektronikus levélcímen való kapcsolattartás útján haladéktalanul értesíti.
+
+11. Az elektronikus levélcímen való kapcsolattartás útján folytatott eljárásra az e címben nem szabályozott kérdésekben – az elektronikus kapcsolattartásra vonatkozó, valamint az e törvény 7. § (1) és (2) bekezdésében foglalt rendelkezések kivételével – e törvény rendelkezéseit kell alkalmazni. Az elektronikus levélcímen való kapcsolattartás útján folytatott eljárásra a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezései nem alkalmazhatók.
