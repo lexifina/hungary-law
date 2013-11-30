@@ -1,0 +1,7 @@
+200. § (1) A Tbj. 65. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvény 153. §-ával megállapított 11. § b) pontban foglaltak alkalmazandók 2013. január 1-je előtt megkezdett kiküldetés, kirendelés és munkaerő-kölcsönzés esetén is, azzal az eltéréssel, hogy a két éves időtartamot 2013. január 1-jétől kell számítani és a biztosítási kötelezettség legkorábban 2015. január 1-jével jön létre.”
+
+(2) A Tbj. 65. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel beiktatott 24/A–24/C., 51., 51/A. és 51/B. §-okat az olyan jövedelmekre kell elsőként alkalmazni, amelyeket a 2014. január hónapra vonatkozóan benyújtott bevallásban kell bevallani.”

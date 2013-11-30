@@ -1,0 +1,3 @@
+104. § Az Áfa tv. a következő 284. §-sal egészül ki:
+
+„284. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 58. § (1) bekezdését az olyan 2014. június 30-át követően kezdődő elszámolási időszak esetén kell először alkalmazni, amely tekintetében a fizetés esedékessége 2014. június 30-át követő időpont.”

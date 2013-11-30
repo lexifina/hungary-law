@@ -1,0 +1,3 @@
+13. § Az Szja tv. 69. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a juttatás utalvány, készpénz-helyettesítő fizetési eszköz, e törvény külön rendelkezése alapján vagy annak hiányában is akkor minősül e § szerinti juttatásnak, ha a juttatási feltételek alapján megállapítható, hogy az mely termékre, szolgáltatásra, vagy milyen termék- vagy szolgáltatáskörben használható fel, továbbá ha az utalvány – a magánszemélynek ki nem osztott (nem juttatott) utalványok visszaváltása kivételével – nem visszaváltható, és egyebekben a juttatás körülményei megfelelnek a 70–71. § rendelkezéseinek.”

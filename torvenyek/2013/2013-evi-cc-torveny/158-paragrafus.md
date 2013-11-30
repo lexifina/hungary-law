@@ -1,0 +1,3 @@
+158. § Az Art. 49. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Önellenőrzéssel az adóalapot, az adót, a költségvetési támogatást a kötelezettség eredeti időpontjában hatályos szabályok szerint, a helyesbítendő adóra előírt bevallási időszakra, az adómegállapításhoz való jog elévülési idején belül lehet helyesbíteni. Az önellenőrzés az adóalap, a feltárt adó, költségvetési támogatás és – ha törvény előírja – az önellenőrzési pótlék megállapítása, a helyesbített adóalap, a helyesbített adó, költségvetési támogatás, valamint a pótlék bevallása és egyidejű megfizetése, és az adó, költségvetési támogatás igénylése.”

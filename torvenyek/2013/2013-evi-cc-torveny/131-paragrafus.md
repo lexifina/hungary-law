@@ -1,0 +1,5 @@
+131. § Az Itv. a következő 99/I. §-sal egészül ki:
+
+„99/I. § (1) A 16. § (2e), a 17. § (2e), a 26. § (2e) bekezdéseinek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított rendelkezéseit azokban a vagyonszerzési ügyekben is alkalmazni kell, melyekben az állami adóhatóság 2014. január 1-jéig még nem rendelkezett jogerősen a felfüggesztett illeték késedelmi pótlékkal növelt összegben történő megfizetéséről.
+
+(2) Ha a 16. § (2e) bekezdése, a 17. § (2e) bekezdése, a 26. § (2e) bekezdése alapján a felfüggesztett illeték törlésének van helye, a lakóház felépítésére nyitva álló határidő azonban 2014. január 1-jéig még nem telt el és a vagyonszerző az illetéket már megfizette, akkor annak visszatérítését 2014. január 1-jétől kezdődően kérheti az állami adóhatóságtól.”

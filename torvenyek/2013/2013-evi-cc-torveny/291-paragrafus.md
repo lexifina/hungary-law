@@ -1,0 +1,3 @@
+291. § A Szit. tv. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A szabályozott ingatlanbefektetési elővállalkozásnál és társaságnál vezető állású személy nem lehet – kivéve, ha a szavazatok legalább 90%-ával rendelkező részvényesek ettől eltérően döntenek – vezető tisztségviselő hitelintézetnél, befektetési vállalkozásnál, befektetési alapkezelőnél, ingatlanértékelőnél, kockázati tőkealap-kezelőnél, biztosítónál, viszontbiztosítónál, továbbá olyan szabályozott ingatlanbefektetési társaságnál, amelyben az őt korábban vezető állású személyként alkalmazó szabályozott ingatlanbefektetési társaság nem rendelkezik részesedéssel.”
