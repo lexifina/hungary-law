@@ -2,7 +2,7 @@
 
 13. § (1) A magánszemély az adóhatóság közreműködése nélkül elkészített bevallást nyújt be, ha az adóévben
 
-a) egyéni vállalkozó volt;
+a) egyéni vállalkozó volt, kivéve, ha az adóév egészében szüneteltette a vállalkozói tevékenységét;
 
 b) mezőgazdasági őstermelő volt, és e tevékenységéből adóköteles bevétele származott, kivéve, ha jövedelméről egyszerűsített bevallásban, munkáltatói elszámolásban nemleges nyilatkozatot adott vagy egyébként a bevételből nem kellett jövedelmet megállapítani;
 

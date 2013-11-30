@@ -4,7 +4,7 @@
 
 (3) A nyugdíj-előtakarékossági nyilatkozatot a magánszemély a nyugdíj-előtakarékossági számla vezetője által – az adózás rendjéről szóló törvénynek az adókedvezményre jogosító igazolás kiállítására vonatkozó előírásai szerint – kiadott igazolás alapján teheti meg, amely tartalmazza a rendelkezési jogosultság alapjául szolgáló összeget.
 
-(4) Ha az adóévben a magánszemély nyugdíj-előtakarékossági számlája terhére nem-nyugdíjszolgáltatásról rendelkezett,
+(4) Ha az adóévben a magánszemély nyugdíj-előtakarékossági számlája terhére nem-nyugdíjszolgáltatásról rendelkezett (ide nem értve az adóköteles nyugdíjszolgáltatásról való rendelkezést),
 
 a) az erre az adóévre vonatkozó adóbevallásában nem teheti meg az (1) bekezdés szerinti nyilatkozatot, valamint
 

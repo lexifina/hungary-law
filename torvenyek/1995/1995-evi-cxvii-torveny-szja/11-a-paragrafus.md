@@ -12,7 +12,7 @@ d) tételes költségelszámolással költséget, költséghányadot (kivéve a 
 
 e) az adóévben belföldi illetőségű volt;
 
-f) az adóévben nem volt egyéni vállalkozó;
+f) az adóévben nem volt egyéni vállalkozó, vagy az egyéni vállalkozói tevékenységét az adóév egészében szüneteltette;
 
 g) mezőgazdasági őstermelőként nem köteles adóbevallás, nemleges nyilatkozat benyújtására;
 

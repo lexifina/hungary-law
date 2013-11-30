@@ -216,6 +216,8 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 
 4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
 
+4.27. a kifizető által független félnek biztosított olyan szolgáltatás, amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy a szolgáltatás nem minősül a magánszemély tevékenysége ellenértékének;
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
@@ -324,7 +326,7 @@ c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 
 a) a fogyasztóvédelemről szóló törvényben meghatározott közüzemi szolgáltatás szolgáltatója, valamint a hitelintézet, pénzügyi vállalkozás által – az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – részben vagy egészben elengedett követelés (akkor is, ha az elengedés egyezség keretében történik), feltéve, hogy a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét;
 
-b) hitelintézet, befektetési szolgáltató, pénzügyi vállalkozás pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból, befektetési szolgáltatásból vagy azt kiegészítő szolgáltatásból származó 10 000 forintot meg nem haladó követelése, feltéve, hogy az elengedéssel a hitelintézetnek, befektetési szolgáltatónak, pénzügyi vállalkozásnak az adott szolgáltatásból származó követelése a magánszeméllyel szemben végérvényesen megszűnik;
+b) hitelintézet, befektetési szolgáltató, pénzügyi vállalkozás pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból, befektetési szolgáltatásból vagy azt kiegészítő szolgáltatásból, biztosító biztosítási szolgáltatásból származó 20 000 forintot meg nem haladó követelése, feltéve, hogy az elengedéssel a hitelintézetnek, befektetési szolgáltatónak, pénzügyi vállalkozásnak, biztosítónak az adott szolgáltatásból származó követelése a magánszeméllyel szemben végérvényesen megszűnik;
 
 7.16. a nyugdíj-előtakarékossági számla szerint a tulajdonos követelését növelő jóváírás, ha az
 
@@ -355,6 +357,8 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 7.23. a Magyar Honvédség hivatásos és szerződéses állományú tagjai részére járó egyenruházati ellátmány terhére, az egyenruházati ellátmány éves összegének legfeljebb 15 százalékáig terjedő összegben adott pénzbeli juttatás;
 
 7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás.
+
+7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó az egyéni vállalkozók, az őstermelők esetében agrár csekély összegű (de minimis) támogatásnak minősül.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -422,7 +426,7 @@ b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, a k�
 
 8.20. a bevett egyház belső szabályában meghatározott tartási kötelezettségből adódó juttatás, ideértve az egyházi jogi személy által a kezelésében levő egyházi üdülőben egyházi személynek nyújtott ingyenes üdülést is, valamint a bejegyzett szerzetesrend közösségében élő magánszemély tagnak a rendtől – egyéni szükségleteinek fedezetére – kapott pénzbeli vagy nem pénzbeli juttatás;
 
-8.21. a kormányrendeletben meghatározott, adómentes természetbeni juttatásnak minősülő, fogyasztói árkiegészítést nem tartalmazó közlekedési kedvezmény;
+8.21. a kormányrendeletben meghatározott, adómentes juttatásnak minősülő, szociálpolitikai menetdíj-támogatást nem tartalmazó közlekedési kedvezmény;
 
 8.22. a Nemzeti Kulturális Alap támogatásával szervezett rendezvényhez, programhoz kapcsolódó utazás, szállás, étkezés értékének a támogatás összegét meg nem haladó része, továbbá az a juttatás, amelyet az államháztartás – a juttatás forrása alapján akár közvetetten is – valamely alrendszeréből, az egyházi jogi személy forrásából vagy a köznevelési intézmény saját bevételéből
 

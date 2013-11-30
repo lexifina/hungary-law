@@ -8,7 +8,7 @@ b) ingó vagyontárgy, ingatlan, vagyoni értékű jog átruházásából szárm
 
 továbbá
 
-c) nem volt egyéni vállalkozó, és
+c) nem volt egyéni vállalkozó, vagy az egyéni vállalkozói tevékenységét az adóév egészében szüneteltette, és
 
 d) mezőgazdasági őstermelői tevékenységéből adóköteles bevétele nem származott, és
 
