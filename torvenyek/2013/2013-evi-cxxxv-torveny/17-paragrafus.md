@@ -1,4 +1,4 @@
-17. § (1) A Felügyelet visszavonja a működési engedélyét annak a szövetkezeti hitelintézetnek, amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés szerinti kötelezettségeinek nem tesz határidőben eleget.
+17. § (1) A Felügyelet visszavonja a működési engedélyét annak a szövetkezeti hitelintézetnek, amelyik a 17/K. § (1) bekezdés, 19. § (3) bekezdés, a 19. § (6) bekezdés szerinti kötelezettségeinek nem tesz eleget vagy nem határidőben tesz eleget. A Felügyelet visszavonhatja a működési engedélyét annak a szövetkezeti hitelintézetnek is, amelyik a 15/A. §-ban foglalt kötelezettségeinek ismételten nem tesz eleget.
 
 (2) A Felügyelet a szövetkezeti hitelintézet vonatkozásában a jelen törvény hatályba lépéséből fakadó átmeneti helyzetre tekintettel – átmeneti, legfeljebb 180 napos időszakra a betétesek védelme és a fizetőképesség fenntartása érdekében – korlátozhatja a szövetkezeti hitelintézet eszközeinek átruházását vagy általuk kötelezettségek vállalását, jogok átruházását illetve kötelezettségek átvállalását, és korlátozhatják a működést és ezen belül különösen az eszközök kihelyezését.
 

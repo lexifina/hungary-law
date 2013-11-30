@@ -1,14 +1,10 @@
 1. melléklet a 2013. évi CXXXV. törvényhez
 
-## | SZÖVETKEZETEK HITELINTÉZETEK INTEGRÁCIÓS SZERVEZETE ALAPSZABÁLYA | 2013
-
-## SZÖVETKEZETI HITELINTÉZETEK INTEGRÁCIÓS SZERVEZETE
-
-## ALAPSZABÁLYA
+## SZÖVETKEZETI HITELINTÉZETEK INTEGRÁCIÓS SZERVEZETE ALAPSZABÁLYA 2013
 
 ## I. Fogalmak
 
-## | | | | „Éves beszámoló” | | A számviteli törvény előírásainak megfelelően elkészített beszámoló valamint kapcsolódó üzleti jelentés. | | | | „Központi Bank” | | A Magyar Takarékszövetkezeti Bank Zártkörűen Működő Részvénytársaság (1122 Budapest, Pethényi köz 10. Cg.01-10-041206). | | | | „Magyar Fejlesztési Bank” | | A Cg.01-10-041712 cégjegyzékszámú MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (1051 Budapest, Nádor u. 31.). | | | | „Mintaszabályzat” | | Jogszabály vagy jelen szabályzat szerint megkövetelt szabályzat, melyet a Központi Bank kötelező jelleggel tesz közzé a Szövetkezeti hitelintézetek számára. | „PSZÁF” | | Pénzügyi Szervezetek Állami Felügyelete. | | | | „Szövetkezeti hitelintézet” | | Az integrációban részt vevő takarékszövetkezeti, hitelszövetkezeti vagy hitelintézeti formában működő jogi személyek. | „Tagdíj” | | A Szövetkezeti hitelintézetek által a Szervezet részére fizetendő éves díj. | | | | „Szervezet” | | A Szövetkezeti Hitelintézetek Integrációs Szervezete. | | | | „Utasítás” | | A Központi Bank által egy vagy több szövetkezeti hitelintézet vezetésének kiadott, és a szövetkezeti hitelintézet által követendő egyedi kötelezettséget teremtő, a Szövetkezeti hitelintézet szervezetével, működésével illetőleg gazdálkodásával kapcsolatban hozott központi banki igazgatósági határozat. | „Törvény” | | A 2013. évi CXXXV. tv. | „Üzleti Intézkedés” | | A Központi Bank által kiadott utasítás és/vagy szabályzat.
+## | „Éves beszámoló” | A számviteli törvény előírásainak megfelelően elkészített beszámoló valamint kapcsolódó üzleti jelentés. | „Központi Bank” | A Magyar Takarékszövetkezeti Bank Zártkörűen Működő Részvénytársaság (1122 Budapest, Pethényi köz 10. Cg.01-10-041206). | „Magyar Fejlesztési Bank” | A Cg.01-10-041712 cégjegyzékszámú MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (1051 Budapest, Nádor u. 31.). | „Mintaszabályzat” | Jogszabály vagy jelen szabályzat szerint megkövetelt szabályzat, melyet a Központi Bank kötelező jelleggel tesz közzé a Szövetkezeti hitelintézetek számára. | „MNB” | Pénzügyi Szervezetek Állami Felügyelete. | „Szervezet” | A Szövetkezeti Hitelintézetek Integrációs Szervezete. | „Szövetkezeti hitelintézet” | Az integrációban részt vevő takarékszövetkezeti, hitelszövetkezeti vagy hitelintézeti formában működő jogi személyek. | „Tagdíj” | A Szövetkezeti hitelintézetek által a Szervezet részére fizetendő éves díj. | „Törvény” | A 2013. évi CXXXV. tv. | „Utasítás” | A Központi Bank által egy vagy több szövetkezeti hitelintézet vezetésének kiadott, és a szövetkezeti hitelintézet által követendő egyedi kötelezettséget teremtő, a Szövetkezeti hitelintézet szervezetével, működésével illetőleg gazdálkodásával kapcsolatban hozott központi banki igazgatósági határozat. | „Üzleti Intézkedés” | A Központi Bank által kiadott utasítás és/vagy szabályzat.
 
 ## II. A Szervezet elnevezése, jogi státusza, székhelye
 
@@ -38,7 +34,7 @@
 
 ## 5.1.2. A közgyűlés évente legalább egy alkalommal ülésezik. A közgyűlést az igazgatóság hívja össze.
 
-## 5.1.3. A közgyűlésen minden tag a Szervezet részére teljesített vagyoni hozzájárulása arányában rendelkezik szavazati joggal, az 5.1.4.4. és az 5.1.5. pontban foglaltakra is tekintettel.
+## 5.1.3. A közgyűlésen minden tag a Szervezet részére teljesített vagyoni hozzájárulása arányában rendelkezik szavazati joggal, az 5.1.4. és az 5.1.5. pontban foglaltakra is tekintettel.
 
 ## 5.1.4. Az 5.1.3. pont tekintetében a Szövetkezeti hitelintézet által az OTIVA, REPIVA, TAKIVA illetve HBA javára teljesített vagyoni hozzájárulását úgy kell tekinteni, hogy azt a Szövetkezeti hitelintézet a Szervezet javára teljesítette.
 
@@ -48,9 +44,9 @@
 
 ## 5.2.1. A Szervezet alapszabályának elfogadás, megállapítása és módosítása, az első alapszabály kivételével.
 
-## 5.2.2. Az igazgatósági tagok megválasztása, visszahívása, díjazásának megállapítása.
+## 5.2.2. Az igazgatósági tagok megválasztása, díjazásának megállapítása.
 
-## 5.2.3. A felügyelő bizottsági tagok megválasztása visszahívása, díjazásának megállapítása.
+## 5.2.3. A felügyelő bizottsági tagok megválasztása, visszahívása díjazásának megállapítása.
 
 ## 5.2.4. A Szervezet költségvetésének elfogadása.
 
@@ -86,13 +82,13 @@
 
 ## 5.5.1. A közgyűlésen megjelent Szövetkezeti hitelintézetekről jelenléti ívet, a közgyűlésről jegyzőkönyvet kell felvenni. A jegyzőkönyv tartalmazza:
 
-## a. a közgyűlés helyét és idejét;
+## a) a közgyűlés helyét és idejét;
 
-## b. a közgyűlés levezető elnökének, a jegyzőkönyvvezetőnek, a jegyzőkönyv hitelesítőinek és a szavazatszámlálóknak a nevét;
+## b) a közgyűlés levezető elnökének, a jegyzőkönyvvezetőnek, a jegyzőkönyv hitelesítőinek és a szavazatszámlálóknak a nevét;
 
-## c. a közgyűlésen lezajlott fontosabb eseményeket, az elhangzott indítványokat;
+## c) a közgyűlésen lezajlott fontosabb eseményeket, az elhangzott indítványokat;
 
-## d. a határozati javaslatokat, az azokra leadott szavazatok és ellenszavazatok számát, valamint a szavazástól tartózkodók számát.
+## d) a határozati javaslatokat, az azokra leadott szavazatok és ellenszavazatok számát, valamint a szavazástól tartózkodók számát.
 
 ## 5.5.2. A jegyzőkönyv a közgyűlésen elhangzottak lényegét és a határozatokat (ez utóbbiakat szó szerint) tartalmazza.
 
@@ -104,21 +100,23 @@
 
 ## 5.6.1. Az Igazgatóság tagjai
 
-## 5.6.1.1. A Szervezet ügyvezetését 3 főből álló Igazgatóság látja el. Az Igazgatóság tagjait a Közgyűlés választja meg az 5.6.1.3. pont szerinti kivétellel.
+## 5.6.1.1. A Szervezet ügyvezetését 3 főből álló Igazgatóság látja el. Az Igazgatóság tagjait a Közgyűlés választja meg az 5.6.1.3. pont szerinti kivétellel hét éves időtartamra.
 
-## 5.6.1.2. Az Igazgatóságnak nem lehet tagja a PSZÁF dolgozója vagy olyan személy, aki kinevezését megelőző egy éven belül a PSZÁF-nál munkavégzésre irányuló jogviszonyban állt.
-
-## 5.6.1.3. A Törvény hatálybalépését követően átmeneti jelleggel az első igazgatóság összes tagját az Magyar Fejlesztési Bank jelöli.
+## 5.6.1.2. A Törvény hatálybalépését követően átmeneti jelleggel az első igazgatóság összes tagját a Magyar Fejlesztési Bank jelöli.
 
 ## 5.6.2. Az Igazgatóság hatásköre
 
 ## 5.6.2.1 Az első Igazgatóság a Törvény alapján fogadja el illetve szükség szerint módosítja ezt az alapszabályt.
 
-## 5.6.2.2 A Szervezet nevében az Igazgatóság dönt, kivéve a kifejezetten a közgyűlés hatáskörébe utalt kérdésekben.
+## 5.6.2.2 A Szervezet nevében az Igazgatóság dönt, kivéve a kifejezetten a közgyűlés hatáskörébe utalt kérdésekben. Az Igazgatóság hatásköre nem vonható el, az Igazgatóság a hatáskörébe tartozó ügyben vagy az Igazgatóság tagja nem utasítható.
 
 ## 5.6.2.3 Az Igazgatóság ellátja a Szervezet képviseletét. Az Igazgatóság elnöke illetve bármely két tagja jogosult a Szervezetet képviselni és jegyezni illetve a bankszámlája fölött rendelkezni.
 
 ## 5.6.2.4 Az Igazgatóság ellátja valamennyi a Szervezet valamennyi Törvényből fakadó feladatát.
+
+## 5.6.2.5 A Szervezet működésére vonatkozó szabályzatokat – így a Szervezeti és Működési Szabályzatot, a beszerzési szabályzatot és az IT-biztonsági szabályzatot is – a Szervezet Igazgatósága fogadja el.
+
+## 5.6.2.6 Az Igazgatóság a Szervezet költségvetését évente előre maga állapítja meg.
 
 ## 5.6.3 Az Igazgatóság működése
 
@@ -140,13 +138,15 @@
 
 ## 5.6.3.9. Az Igazgatóság munkáját az Igazgatóság elnöke irányítja.
 
+## 5.6.3.10. Amennyiben az Igazgatóság Tanácsadó Testület létrehozásáról dönt, akkor az Igazgatóság elnökének a munkáját Tanácsadó Testület támogatja. A Tanácsadó Testület működésének elveit és szabályait a létrehozó igazgatósági határozat állapítja meg.
+
+## 5.6.3.11. Amennyiben az Igazgatóság a 2013. évi CXXXV. tv. 19. § (2) bekezdés b) pontjából fakadó hatásköreinek gyakorlásával kapcsolatban a döntés-előkészítésre igazgatósági határozatban előkészítő bizottságot hoz létre, akkor a Szervezet tagjainak a fenti törvényhely hatálya alá eső jogügyletek dokumentumait az előkészítő bizottságnak kell megküldenie.
+
 ## 5.7. Felügyelő Bizottság
 
 ## 5.7.1. A Felügyelő Bizottság tagjai
 
 ## 5.7.1.1. A Szervezet Működését 3 tagú Felügyelő Bizottság ellenőrzi. A Felügyelő Bizottság tagjait a közgyűlés választja meg a jelen alapszabály rendelkezéseinek megfelelően.
-
-## 5.7.1.2. A Felügyelő Bizottságnak nem lehet tagja a PSZÁF dolgozója vagy olyan személy, aki kinevezését megelőző egy éven belül a PSZÁF-nál munkavégzésre irányuló jogviszonyban állt.
 
 ## 5.7.2. A Felügyelő Bizottság hatásköre
 
@@ -170,19 +170,19 @@
 
 ## 6.1. A Szervezethez bármely Szövetkezeti hitelintézet csatlakozhat, feltéve, hogy
 
-## - írásbeli csatlakozási kérelmet intéz a Szervezethez, amelyet a Szervezet igazgatósága megvizsgál és elfogad;
+## – írásbeli csatlakozási kérelmet intéz a Szervezethez, amelyet a Szervezet igazgatósága megvizsgál és elfogad;
 
-## - a PSZÁF jogerős alapítási és működési engedélyével rendelkezik.
+## – az MNB jogerős alapítási és működési engedélyével rendelkezik.
 
 ## 6.2. A Szervezethez a jogszabály által meghatározott határidőben benyújtandó csatlakozási kérelem mintáját a jelen alapszabály melléklete tartalmazza.
 
 ## 6.3. A 6.1 és 6.2 ponttól eltérően a jelen alapszabály hatályba lépésekor működési engedéllyel rendelkező Szövetkezeti hitelintézet a Törvény erejénél fogva a Szervezet tagja.
 
-## 6.4. A Központi Bank igazgatóságának kezdeményezése alapján vagy saját kezdeményezéséből a Szervezet igazgatósága dönt a szövetkezeti hitelintézet szervezeti tagságának a felfüggesztéséről vagy – indokolt esetben - a szövetkezeti hitelintézet Szervezetből történő kizárásáról.
+## 6.4. A Központi Bank igazgatóságának kezdeményezése alapján vagy saját kezdeményezéséből a Szervezet igazgatósága dönt a szövetkezeti hitelintézet szervezeti tagságának a felfüggesztéséről vagy – indokolt esetben – a szövetkezeti hitelintézet Szervezetből történő kizárásáról.
 
 ## 6.5. A Szervezet igazgatósága dönt az Integrációs Szervezeti tagság felfüggesztésének a megszüntetéséről, amennyiben a szövetkezeti hitelintézet az utasításnak eleget tesz illetve helyreállította a jogszabályoknak és a Mintaszabályzatoknak megfelelő működését.
 
-## 6.6. Amennyiben a Szövetkezeti hitelintézet vagy a Szövetkezeti hitelintézetek egy csoportja a Takarékbank Zrt. igazgatósága szerint válsághelyzetben van, akkor a Központi Bank igazgatóságának kezdeményezése alapján vagy saját kezdeményezéséből a Szervezet igazgatósága dönt a szövetkezeti hitelintézet szervezeti tagságának a felfüggesztéséről vagy – indokolt esetben - a szövetkezeti hitelintézet Szervezetből történő kizárásáról.
+## 6.6. Amennyiben a Szövetkezeti hitelintézet vagy a Szövetkezeti hitelintézetek egy csoportja a Takarékbank Zrt. igazgatósága szerint válsághelyzetben van, akkor a Központi Bank igazgatóságának kezdeményezése alapján vagy saját kezdeményezéséből a Szervezet igazgatósága dönt a szövetkezeti hitelintézet szervezeti tagságának a felfüggesztéséről vagy – indokolt esetben – a szövetkezeti hitelintézet Szervezetből történő kizárásáról.
 
 ## 6.7. Amennyiben a Központi Bank igazgatósága a Szervezet igazgatóságának kezdeményezése ellenére – 5 munkanapon belül – nem hozza meg a 6.4. és 6.6 szerinti intézkedést, akkor azt a Szervezet igazgatósága is megteheti.
 
@@ -192,27 +192,57 @@
 
 ## A Szövetkezeti hitelintézet jogutód nélküli megszűnése esetén a megszűnés napjának hatályával illetve amennyiben elveszíti a működési engedélyét, akkor a Szövetkezeti hitelintézet Szervezetben fennálló tagsága automatikusan megszűnik.
 
-## 7.2. A Szövetkezeti hitelintézet kilépése vagy kizárása a Szervezetből
+## 7.2. A Szövetkezeti hitelintézet kilépése a Szervezetből
 
-## 7.2.1. A Szövetkezeti hitelintézet kizárásáról a Központi Bank kezdeményezésére az Igazgatóság dönt.
+## 7.2.1. A Szervezetből a Törvény 19. § (5) bekezdésében leírt átvilágítás Szervezet általi, Igazgatósági határozatban megállapított lezárását követő 90. napig nem lehet kilépni.
 
-## 7.2.2. A Központi Bank az alábbi esetekben jogosult a Szövetkezeti hitelintézet kizárását kezdeményezni:
+## 7.2.2. A 7.2.1. pontban írt határidőt követően a Szervezetből kilépni szándékozó Szövetkezeti hitelintézet kilépési nyilatkozatához köteles csatolni a Szövetkezeti hitelintézet kilépési szándék bejelentésének napjára elkészített a Szervezet által elfogadott könyvvizsgáló által független könyvvizsgálói nyilatkozattal ellátott mérlegét és eredménykimutatását, valamint a Szövetkezeti hitelintézet ezen a napon fennálló valamennyi kötelezettségének listáját egyenként az azokat alátámasztó minden dokumentummal fénymásolatban együtt a Szervezet számára elfogadható formában és cégszerűen aláírt teljességi nyilatkozattal és a fénymásolatok hitelességére vonatkozó nyilatkozattal (a továbbiakban: „Kilépési dokumentáció”).
 
-## 7.2.2.1. Amennyiben a Szövetkezeti hitelintézet a jelen Alapszabályban foglalt bármely kötelezettségét ismételten megszegi; különösen, de nem kizárólag, amennyiben a Szövetkezeti hitelintézet a Központi Bank által közölt Üzleti Intézkedésben foglaltakat a Központi Bank felhívásában rögzített póthatáridőn belül sem hajtja végre.
+## 7.2.3. Kivéve, ha a Szervezet és a Szervezetből kilépni szándékozó Szövetkezeti hitelintézet írásban másban nem állapodnak meg, a Szervezetből kilépni szándékozó Szövetkezeti hitelintézet kilépési nyilatkozata legkorábban a kilépési szándék Szervezetnek történt bejelentését követően azon a napon hatályosul, amelyen a Szövetkezeti hitelintézet a Törvény 11. § (7) bekezdésének második fordulatában írt működési engedélyét jogerősen megszerzi, azonban ebben az esetben is csak akkor, ha az alábbi feltételek erre a napra teljesülnek:
 
-## 7.2.2.2. Amennyiben a Szövetkezeti hitelintézet a Központi Bank a jelen alapszabályban rögzített jóváhagyást ismételten nem szerzi be valamilyen intézkedéséhez, noha az adott intézkedéshez ilyen jóváhagyás szükséges.
+## (1) a kilépni szándékozó Szövetkezeti hitelintézetnek nincsen és nem is lehet olyan fennálló kötelezettsége, amely miatt a Szervezet tagjainak az egyetemleges felelősség alapján bármiféle fizetési vagy helytállási kötelezettségük lehetne és ezt a Szervezet is írásban kifejezetten elfogadta; és
 
-## 7.2.2.3. Amennyiben a Szövetkezeti hitelintézet a Törvény rendelkezéseit megszegi.
+## (2) a 11. § (7) bekezdésének második fordulatában írt jogerős működési engedély megszerzésének napjára vonatkozóan a Kilépési dokumentációba tartozó dokumentumokat a kilépni szándékozó Szövetkezeti hitelintézet a Szervezetnek megfelelő formában átadta és ez a Szervezet álláspontja szerint megfelelően alátámasztja az (1) pont szerinti megállapításokat,
 
-## 7.2.3. A kilépés vagy a kizárás napjának hatályával:
+## (3) a 11. § (7) bekezdésének második fordulatában írt jogerős működési engedély megszerzésének napjáig a Szövetkezeti hitelintézet valamennyi, a szervezeti tagságából fakadóan a Törvény, ill. a jelen Alapszabály, a Szervezet igazgatóságának határozataiból reá irányadó kötelezettségnek a Szervezet igazgatósága szerint maradéktalanuk és teljes körűen eleget tett,
 
-## 7.2.3.1. a Szövetkezeti hitelintézet Szervezettel szembeni valamennyi tartozása esedékessé válik,
+## (4) a kilépni szándékozó Szövetkezeti hitelintézetnek nincsen semmilyen lejárt kötelezettsége a Szervezettel vagy annak tagjaival szemben és erről a Szervezet is írásban kifejezetten úgy nyilatkozott, hogy a felek egymással teljes körűen elszámoltak és egymással szemben további követelésük nincs. Nem kell teljesíteni a fenti (1) feltételt és a feltétel teljesülése nélkül is hatályosul a kilépési nyilatkozat, amennyiben a Szövetkezeti hitelintézet a kilépési szándék bejelentését követően a Szervezet által írásban kifejezetten elfogadhatónak ítélt biztosítékot adott a Szervezetnek illetve a Szervezet tagjainak az egyetemleges felelősség alapján esetleg felmerülő valamennyi fizetési vagy helytállási kötelezettségeire.
 
-## 7.2.3.2. azok az ingyenes juttatások vagy kedvezmények, amelyeket a kilépő tag a kilépő nyilatkozatot megelőző öt évben kapott a Szervezettől, átalakulnak esedékes kölcsöntartozássá.
+## 7.2.3. A kilépési szándék bejelentése napjának hatályával:
 
-## 7.2.3.3. kilépő tag elveszíti jogát bármilyen, a Szervezet által nyújtott szolgáltatásra vagy támogatásra,
+## 7.2.3.1. a Szövetkezeti hitelintézet Szervezettel és annak valamennyi tagjával szembeni valamennyi tartozása esedékessé válik (kivéve, ha az érintettek a kilépési szándék bejelentése után írásban kifejezetten másban állapodnak meg),
 
-## 7.2.3.4. megszűnik a kizárt illetve kilépő tag vonatkozásában a Szervezet tagjainak egyetemleges felelőssége. A Szervezetből kizárt illetve kilépő tag a Szervezetben fennállt tagság megszűnésének időpontjáig keletkezett kötelezettségekért a Szervezeti tagsága megszűnése időpontjától számított további 730 napig felel.
+## 7.2.3.2. azok az ingyenes juttatások vagy kedvezmények, amelyeket a kilépő tag a kilépési nyilatkozatot megelőző öt évben kapott a Szervezettől, átalakulnak esedékes kölcsöntartozássá, kivéve amennyiben azok vonatkozásában a Szervezet írásban másként dönt,
+
+## 7.2.3.3. a kilépési szándékát bejelentő tag elveszíti jogát bármilyen, a Szervezet által nyújtott szolgáltatásra vagy támogatásra, ideértve a korábban a Szervezet által vállalt, de még nem teljesített kötelezettségekre is,
+
+## 7.2.3.4. megszűnik a kilépő tag vonatkozásában a Szervezet tagjainak egyetemleges felelőssége. A Szervezetből kilépő tag a kilépési szándék bejelentésének időpontjáig keletkezett saját és más tagok kötelezettségeiért a kilépési szándék bejelentésének időpontjától számított további 730 napig felel a Törvény – különös tekintettel a 11. § (8) bekezdése – rendelkezéseinek megfelelően. E rendelkezés a Ptk. általános felelősségi szabályainak alkalmazhatóságát egyebekben nem érinti.
+
+## 7.2.3.5. a kilépő tagnak igazoltan meg kell kezdenie leválását a központi informatikai rendszerről, és e folyamatnak visszaállíthatatlanul és végérvényesen be kell fejeződnie 15 (tizenöt) napon belül.
+
+## 7.2.4. A kilépés hatályosulásának napjával kilépő tagnak megszűnik az a kötelezettsége, hogy a Törvényből és a jelen alapszabályból fakadó kötelezettségeket maradéktalanul betartsa.
+
+## 7.3. A Szövetkezeti hitelintézet kizárása a Szervezetből
+
+## 7.3.1. A Szövetkezeti hitelintézet kizárásáról a Központi Bank kezdeményezésére az Igazgatóság dönt.
+
+## 7.3.2. A Központi Bank az alábbi esetekben jogosult a Szövetkezeti hitelintézet kizárását kezdeményezni:
+
+## 7.3.2.1. Amennyiben a Szövetkezeti hitelintézet a jelen Alapszabályban foglalt bármely kötelezettségét ismételten megszegi; különösen, de nem kizárólag, amennyiben a Szövetkezeti hitelintézet a Központi Bank által közölt Üzleti Intézkedésben foglaltakat a Központi Bank felhívásában rögzített póthatáridőn belül sem hajtja végre.
+
+## 7.3.2.2. Amennyiben a Szövetkezeti hitelintézet a Központi Bank a jelen alapszabályban rögzített jóváhagyást ismételten nem szerzi be valamilyen intézkedéséhez, noha az adott intézkedéshez ilyen jóváhagyás szükséges.
+
+## 7.3.2.3. Amennyiben a Szövetkezeti hitelintézet a Törvény rendelkezéseit megszegi.
+
+## 7.3.3. A kizárás napjának hatályával:
+
+## 7.3.3.1. a Szövetkezeti hitelintézet Szervezettel szembeni valamennyi tartozása esedékessé válik,
+
+## 7.3.3.2. azok az ingyenes juttatások vagy kedvezmények, amelyeket a kizárt tag a kilépő nyilatkozatot megelőző öt évben kapott a Szervezettől, átalakulnak esedékes kölcsöntartozássá.
+
+## 7.3.3.3. a kizárt tag elveszíti jogát bármilyen, a Szervezet által nyújtott szolgáltatásra vagy támogatásra,
+
+## 7.3.4.5. megszűnik a kizárt illetve kilépő tag vonatkozásában a Szervezet tagjainak egyetemleges felelőssége. A Szervezetből kizárt tag a Szervezetben fennállt tagság megszűnésének időpontjáig keletkezett kötelezettségekért a Szervezeti tagsága megszűnése időpontjától számított további 730 napig felel.
 
 ## VIII. A Szervezet és az integráció működési elvei
 
@@ -224,7 +254,7 @@
 
 ## IX. A Szervezet feladatai
 
-## 9.1. A Szervezet a tagjaira – a Magyar Fejlesztési Bank kivételével - kötelező szabályzatot fogad el
+## 9.1. A Szervezet a tagjaira – a Magyar Fejlesztési Bank kivételével – kötelező szabályzatot fogad el
 
 ## (a) a számviteli rendről
 
@@ -250,7 +280,7 @@
 
 ## 10.1. A Szervezet induló vagyona a Magyar Fejlesztési Bank által a Törvény alapján rendelkezésre bocsátott hozzájárulás, valamint az a vagyon, amely a Szervezet részére az Országos Takarékszövetkezeti Intézményvédelmi Alap (a továbbiakban: OTIVA), a Regionális Pénzintézetek Pénzügyi Alapja (a továbbiakban REPIVA), a Hitelszövetkezetek Első Hazai Önkéntes Betétbiztosítási és Intézményvédelmi Alapja (a továbbiakban HBA) és a Takarékszövetkezeti Intézményvédelmi Alap (TAKIVA) jogutódlásával átadásra kerül.
 
-## 10.2. A Szövetkezeti hitelintézetek a Közgyűlés által megállapított tagdíjat fizetnek a Szervezetnek. A tagdíj mértéke a Szövetkezeti hitelintézet kockázattal súlyozott kitettségének 0,1 %-a.
+## 10.2. A Szövetkezeti hitelintézetek a Közgyűlés által megállapított tagdíjat fizetnek a Szervezetnek. A tagdíj mértéke a Szövetkezeti hitelintézet kockázattal súlyozott kitettségének 0,1%-a.
 
 ## 10.3. A tagdíj megfizetésének rendjét az Igazgatóság szabályzatban határozza meg azzal, hogy a tagdíjat megfizetése negyedévente esedékes.
 
@@ -268,17 +298,17 @@
 
 ## 11.2. A Szervezet az Igazgatóság által elfogadott külön szabályzat rendelkezéseinek megfelelően kölcsönnyújtással segítheti a Szövetkezeti hitelintézetek működésének fenntartását.
 
-## 11.3. A Szervezet saját döntése alapján tőkeemeléssel tulajdont szerezhet a Központi Bankban illetve valamely Szövetkezeti hitelintézetben, amennyiben az érintett hitelintézet tőkeellátottsága – egyedileg - a jogszabályban meghatározott mérték alá süllyed. Az Integrációs Szervezet az ily módon tulajdonába került részvényeket, illetve üzletrészt két éven belül köteles elidegeníteni. Ezen tőkeemelés esetén a tőkeemeléssel érintett hitelintézet igazgatósága köteles előkészíteni a tőkeemelést, és a tagok kötelesek megszavazni a tőkeemelést.
+## 11.3. A Szervezet saját döntése alapján tőkeemeléssel tulajdont szerezhet a Központi Bankban illetve valamely Szövetkezeti hitelintézetben, amennyiben az érintett hitelintézet tőkeellátottsága – egyedileg – a jogszabályban meghatározott mérték alá süllyed. Az Integrációs Szervezet az ily módon tulajdonába került részvényeket, illetve üzletrészt két éven belül köteles elidegeníteni. Ezen tőkeemelés esetén a tőkeemeléssel érintett hitelintézet igazgatósága köteles előkészíteni a tőkeemelést, és a tagok kötelesek megszavazni a tőkeemelést.
 
 ## 11.4. A Szervezet ellátja az OTIVA-tól, a REPIVA-tól, a HBA-tól és a TAKIVA-tól átvett alábbi feladatait:
 
-## • válságmegelőzés, válságelhárítás
+## – válságmegelőzés, válságelhárítás
 
-## • a tag hitelintézetek egységes és kölcsönös szakmai segítése,
+## – a tag hitelintézetek egységes és kölcsönös szakmai segítése,
 
-## • a tag hitelintézetek üzleti együttműködésének elősegítése,
+## – a tag hitelintézetek üzleti együttműködésének elősegítése,
 
-## • a tag hitelintézetek jó üzleti hírnevének megőrzése, az ügyfelek bizalmának erősítése, a hosszú távon stabil üzletmenet kialakítása.
+## – a tag hitelintézetek jó üzleti hírnevének megőrzése, az ügyfelek bizalmának erősítése, a hosszú távon stabil üzletmenet kialakítása.
 
 ## XII. A Központi Bank feladatai
 
@@ -304,7 +334,9 @@
 
 ## 13.2. A Szövetkezeti hitelintézetek üzletpolitikájának összehangolása körében a Központi Bank legalább az alábbi területeken köteles a Szövetkezeti hitelintézetek számára kötelezően alkalmazandó Mintaszabályzatot fogad el:
 
-## (a) a kockázatkezelés részletes szabályairól, ide értve a hitelengedélyezés, kockázati monitoring, betételhelyezés, készpénzgazdálkodás és befektetési politika, a minősítés és az értékvesztés szabályait valamint a jogszabályokon és egyéb kötelező szabályokon felüli addicionális egyedi tőkekövetelményekre vonatkozó szabályokat; (b) a kockázatmérés, a kockázatértékelés és a kockázati kontroll folyamat elveire és módszertanára vonatkozóan
+## (a) a kockázatkezelés részletes szabályairól, ide értve a hitelengedélyezés, kockázati monitoring, betételhelyezés, készpénzgazdálkodás és befektetési politika, a minősítés és az értékvesztés szabályait valamint a jogszabályokon és egyéb kötelező szabályokon felüli addicionális egyedi tőkekövetelményekre vonatkozó szabályokat;
+
+## (b) a kockázatmérés, a kockázatértékelés és a kockázati kontroll folyamat elveire és módszertanára vonatkozóan
 
 ## (c) a követendő üzletpolitikáról;
 
@@ -334,7 +366,7 @@
 
 ## 14.5. A Szövetkezeti hitelintézet alapszabálya módosításához köteles kikérni a Központi Bank előzetes írásbeli jóváhagyását.
 
-## 14.7. A Szövetkezeti hitelintézetek a Központi Bank által működtetett készpénzellátási rendszer fenntartására kötelesek, és kötelesek továbbá, annak - a Központi Bankkal kötött szerződésben rögzített - szabályait megtartani.
+## 14.7. A Szövetkezeti hitelintézetek a Központi Bank által működtetett készpénzellátási rendszer fenntartására kötelesek, és kötelesek továbbá, annak–a Központi Bankkal kötött szerződésben rögzített–szabályait megtartani.
 
 ## 14.8. A Szövetkezeti hitelintézet a Központi Bank által megjelölt tárgykörben és gyakorisággal rendszeres adatszolgáltatást valósít meg. A Szövetkezeti hitelintézet kötelezhető a Központi Bank által további adatszolgáltatás is teljesítésére is, illetve az adatszolgáltatás köre évente felülvizsgálható, amennyiben a közös biztonsági rendszer működtetése indokolttá teszi.
 
@@ -342,17 +374,19 @@
 
 ## 15.1. A Jelen Alapszabály az elfogadásának napján lép hatályba.
 
-## 15.2. A jelen Alapszabály a 2006/48/EK irányelvével, a CEBS (Committee of European Banking Supervisors) 2010. november 8-án kiadásra került Irányelvével, az 1996. évi CXII. törvény rendelkezéseivel összhangban lévő rendelkezéseket tartalmaz.
+## 15.2. A jelen Alapszabály a 2006/48/EK irányelvével, az 515/2013/EU rendelettel, a CEBS (Committee of European Banking Supervisors) 2010. november 8-án kiadásra került Irányelvével, az 1996. évi CXII. törvény rendelkezéseivel összhangban lévő rendelkezéseket tartalmaz.
 
-## MELLÉKLET: CSATLAKOZÁSI KÉRELEM MINTA
+## MELLÉKLET
 
-## CSATLAKOZÁSI KÉRELEM
+## CSATLAKOZÁSI KÉRELEM MINTA
 
-## Alulírott, [•], az [cím, cégjegyzékszám, PSZÁF alapítási engedély szám, PSZÁF működési engedély szám] bank/takarékszövetkezet/hitelszövetkezet képviseletében
+## Csatlakozási Kérelem
 
-## k é r e m
+## Alulírott, [ ], az [cím, cégjegyzékszám, MNB alapítási engedély szám, MNB működési engedély szám] bank/takarékszövetkezet/hitelszövetkezet képviseletében
 
-## hogy a [•] bank/takarékszövetkezet/hitelszövetkezet (az alábbiakban mint „Kérelmező szervezet”) a Szövetkezeti Hitelintézetek Integrációs Szervezetéhez csatlakozhasson.
+## kérem
+
+## hogy a [ ] bank/takarékszövetkezet/hitelszövetkezet (az alábbiakban mint „Kérelmező szervezet”) a Szövetkezeti Hitelintézetek Integrációs Szervezetéhez csatlakozhasson.
 
 ## Nyilatkozom, hogy a Kérelmező elfogadta és aláírta a Szövetkezeti Hitelintézetek Integrációs Szervezete által a Takarékbank Zrt. kapcsán elfogadott mintaszabályzatot és azt magára nézve kötelezőnek tekinti.
 
@@ -362,8 +396,8 @@
 
 ## A Kérelmező szervezet tudomásul veszi azt, hogy a Magyar Takarékbank Zrt. Igazgatósága a Kérelmező szervezet eszközeit illetve kötelezettségeit a törvényben meghatározott határidőben átvizsgálhatja.
 
-## A Kérelmező szervezet tudomásul veszi továbbá, hogy amennyiben a fentiek szerint felmért eszközei illetve kötelezettségei nem felelnek meg a törvényben meghatározott határnap előtt publikált utolsó nyilvános mérlegének (az évközi eltérést figyelembe véve), vagy gazdálkodása nem felelt meg a jogszabályoknak és a PSZÁF-előírásoknak illetve belső szabályzataiknak, akkor a Szövetkezeti Hitelintézetek Integrációs Szervezete a törvényben meghatározott határidőben kizárhatja a kérelmezőt az integrációból, és ennek a jogszabályban meghatározott következményei vannak.
+## A Kérelmező szervezet tudomásul veszi továbbá, hogy amennyiben a fentiek szerint felmért eszközei illetve kötelezettségei nem felelnek meg a törvényben meghatározott határnap előtt publikált utolsó nyilvános mérlegének (az évközi eltérést figyelembe véve), vagy gazdálkodása nem felelt meg a jogszabályoknak és a MNB-előírásoknak illetve belső szabályzataiknak, akkor a Szövetkezeti Hitelintézetek Integrációs Szervezete a törvényben meghatározott határidőben kizárhatja a kérelmezőt az integrációból, és ennek a jogszabályban meghatározott következményei vannak.
 
-## Kelt _________________, 2013. [•]
+## Kelt ...................................., 2013. [ ]
 
 ## cégszerű aláírás

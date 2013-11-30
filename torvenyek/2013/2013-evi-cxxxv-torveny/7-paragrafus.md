@@ -8,6 +8,6 @@ b) az Integrációs Szervezet igazgatósága tagjainak megválasztása, visszah�
 
 c) az Integrációs Szervezet felügyelő bizottsága tagjainak megválasztása, visszahívása, díjazásának megállapítása,
 
-d) az Integrációs Szervezet költségvetésének elfogadása,
+d)
 
 e) az Integrációs Szervezet éves beszámolójának és költségvetési beszámolójának elfogadása.

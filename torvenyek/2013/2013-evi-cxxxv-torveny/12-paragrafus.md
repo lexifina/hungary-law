@@ -9,3 +9,5 @@
 (2) A Takarékbank Zrt. részvényese a szövetkezeti hitelintézet, az MFB és – tőkeemelés után – a Magyar Posta, illetve az MFB és a Magyar Posta esetleges általános vagy különös jogutódja(i) és a Takarékbank Zrt. 20. § (7) bekezdés alapján tartott közgyűlése vagy ezt követő Takarékbank Zrt. közgyűlés által választott az alapszabály szerinti testület hozzájárulásával Takarékbank Zrt. részvényt szerző más szerv vagy jogi vagy természetes személy.
 
 (3) A (2) bekezdés megsértésével szerzett Takarékbank Zrt. részvény alapján Takarékbank Zrt. részvényesi jogok nem gyakorolhatóak.
+
+(4) A 11.§ (4) bekezdésében leírt esetben az Integrációs Szervezet átmeneti jelleggel tulajdont szerezhet a Takarékbank Zrt.-ben. A 12. § (2) bekezdése nem korlátozza a törvény hatálybalépésekor a Takarékbank Zrt. részvényeit jogszerűen tulajdonoló személyeket tulajdoni jogaik gyakorlásában.

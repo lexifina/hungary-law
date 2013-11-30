@@ -16,7 +16,7 @@ e) az Integrációs Szervezet eszközeinek a 4. § (4) bekezdése szerinti eszk�
 
 (3) Az Integrációs Szervezet nyomon követi a Takarékbank Zrt. és a szövetkezeti hitelintézet fizetőképességének és tőkeellátottságának alakulását egyedi alapon is.
 
-(4) Az Integrációs Szervezet tőkeemeléssel tulajdont szerezhet a Takarékbank Zrt.-ben és a szövetkezeti hitelintézetben, ha az érintett hitelintézet egyedi alapon kalkulált a Hpt. előírásai szerint számított tőkemegfelelése a jogszabályban meghatározott mérték alá süllyed. Az Integrációs Szervezet az ily módon tulajdonába került részvényeket, illetve üzletrészt két éven belül köteles elidegeníteni.
+(4) Az Integrációs Szervezet – intézményvédelmi céllal – a 17/C. § (2) bekezdése alapján végrehajtott intézkedés vagy intézkedések sikertelensége esetén tőkeemeléssel tulajdont szerezhet a Takarékbank Zrt.-ben és a szövetkezeti hitelintézetben. Az Integrációs Szervezet az ily módon a Takarékbank Zrt.-ben, illetve a szövetkezeti hitelintézetben tulajdonába került részvényeket, illetve részjegyet vagy üzletrészt két éven belül köteles elidegeníteni. A Takarékbank Zrt. intézményvédelmi céllal szerzett részvényeinek elidegenítése esetében a Takarékbank Zrt. részvényeseinek, míg a szövetkezeti hitelintézet intézményvédelmi céllal szerzett részjegyeinek vagy üzletrészeinek elidegenítése esetén az adott szövetkezeti hitelintézet tulajdonosainak elővásárlási joga van.
 
 (5) Az Integrációs Szervezet vagyona a Takarékbank Zrt. és a szövetkezeti hitelintézet összevont szavatoló tőkéjébe beszámítandó az 1. § (5) bekezdésének megfelelően.
 
