@@ -28,6 +28,8 @@ d) a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 
 e) az a vállalkozó, amelyik a 4. § (4) bekezdése szerint – a megbízható és valós kép érdekében – a kivételes esetben eltér a törvény előírásaitól.
 
+(5a) A (3) bekezdésben foglaltakat nem alkalmazhatja a tárgyévi üzleti évet követő üzleti évben a vállalkozó, ha a tárgyévi üzleti év mérlegfordulónapján 10 millió forintot meghaladó, 60 napnál régebben lejárt – az adózás rendjéről szóló törvény szerinti – köztartozása van.
+
 (6) Ha kötelező a könyvvizsgálat, akkor a vállalkozó legfőbb szerve az üzleti évről készített éves beszámoló, egyszerűsített éves beszámoló felülvizsgálatára, az abban foglaltak valódiságának és jogszabályszerűségének ellenőrzésére köteles a (7) bekezdésnek megfelelően bejegyzett könyvvizsgálót, könyvvizsgáló céget – az előző üzleti év éves beszámolójának, egyszerűsített éves beszámolójának elfogadásakor, jogelőd nélkül alapított vállalkozónál az üzleti év mérlegfordulónapja előtt – választani.
 
 (7) A (6) bekezdés szerinti könyvvizsgálatra a Magyar Könyvvizsgálói Kamara tagja vagy a Magyar Könyvvizsgálói Kamaránál nyilvántartásba bejegyzett könyvvizsgáló cég választható.

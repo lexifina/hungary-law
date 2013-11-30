@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2013-06-30 | 2013. évi CIII. törvény | 2000-100-00-00.44 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2000-100-00-00.45 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2000-100-00-00.46 |
+| 2013-11-30 | 2013. évi CC. törvény | 2000-100-00-00.47 |

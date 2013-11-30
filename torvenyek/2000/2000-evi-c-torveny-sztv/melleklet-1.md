@@ -164,7 +164,7 @@ II. Hosszú lejáratú kötelezettségek
 
 1. Hosszú lejáratra kapott kölcsönök
 
-2. Átváltoztatható kötvények
+2. Átváltoztatható és átváltozó kötvények
 
 3. Tartozások kötvénykibocsátásból
 
@@ -182,7 +182,7 @@ III. Rövid lejáratú kötelezettségek
 
 1. Rövid lejáratú kölcsönök
 
-– ebből: az átváltoztatható kötvények
+– ebből: az átváltoztatható és átváltozó kötvények
 
 2. Rövid lejáratú hitelek
 
@@ -330,7 +330,7 @@ D. Egy éven belül esedékes kötelezettségek
 
 1. Rövid lejáratú kölcsönök
 
-– ebből: az átváltoztatható kötvények
+– ebből: az átváltoztatható és átváltozó kötvények
 
 2. Rövid lejáratú hitelek
 
@@ -368,7 +368,7 @@ I. Hosszú lejáratú kötelezettségek
 
 1. Hosszú lejáratra kapott kölcsönök
 
-2. Átváltoztatható kötvények
+2. Átváltoztatható és átváltozó kötvények
 
 3. Tartozások kötvénykibocsátásból
 

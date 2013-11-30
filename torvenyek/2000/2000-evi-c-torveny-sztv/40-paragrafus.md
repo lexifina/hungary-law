@@ -10,4 +10,4 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (3) Ha a legutolsó beszámolóval lezárt üzleti év mérlege, illetve a – 21. § szerinti – közbenső mérleg a külön jogszabályban meghatározott időtartamon belül több kifizetés, ügylet alátámasztására is szolgál, a feltételek vizsgálata során azokat együttesen (egybe számítva) kell figyelembe venni.
 
-(4) Átváltoztatható kötvény részvénnyé történő átalakítása során a jegyzett tőke (alaptőke) emelését a kötvénykibocsátás miatti kötelezettség terhére kell végrehajtani az alapító okirat, az alapszabály előírásainak (módosításának) megfelelően, a cégjegyzékbe történt bejegyzés időpontjával.
+(4) Átváltoztatható és átváltozó kötvény részvénnyé történő átalakítása során a jegyzett tőke (alaptőke) emelését a kötvénykibocsátás miatti kötelezettség terhére kell végrehajtani az alapító okirat, az alapszabály előírásainak (módosításának) megfelelően, a cégjegyzékbe történt bejegyzés időpontjával.

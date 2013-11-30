@@ -9,3 +9,5 @@
 (4) A közbenső mérleg fordulónapjára vonatkozóan az analitikus és a főkönyvi nyilvántartásokat nem lehet lezárni, azokat folyamatosan vezetni kell. A mérlegtételek értékelésére vonatkozó (3) bekezdés szerinti korrekciókat az analitikus és főkönyvi nyilvántartásokban nem lehet szerepeltetni, azokat csak a közbenső mérleg elkészítésénél lehet figyelembe venni.
 
 (5) Amennyiben a vállalkozónál a könyvvizsgálat a 155. § szerint kötelező, a könyvvizsgálati kötelezettség a jogszabály által előírt közbenső mérlegre is vonatkozik.
+
+(6) Ha jogszabály a vállalkozó saját tőkéjének évközi megállapításáról, vagy figyelembe vételéről rendelkezik, eltérő jogszabályi rendelkezés hiányában saját tőke alatt a jogszabály előírásainak megfelelő időpontra, mint mérlegfordulónapra elkészített (1)–(5) bekezdés szerinti közbenső mérlegben kimutatott saját tőkét kell érteni.
