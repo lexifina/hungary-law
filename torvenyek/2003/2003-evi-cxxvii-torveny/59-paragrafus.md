@@ -56,7 +56,7 @@ aa) beszerzésre kerülő ásványolaj és megfigyelt termék, illetve – az 50
 
 ab) előállításra kerülő megfigyelt termék egyhavi átlagos előállított mennyisége, amennyiben azt nem ásványolajból vagy nem megfigyelt termékből állítják elő, valamint
 
-b) az 52. § (1) bekezdésének a) pontjában meghatározott – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, illetve az alkoholtermék esetében a 64. § (2) bekezdése szerinti – alacsonyabb adómérték
+b) az 52. § (1) bekezdésének a) pontjában meghatározott – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, illetve az alkoholtermék esetében a 64. § (2) bekezdése szerinti alacsonyabb, a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén esetében az 52. § (1) bekezdés f) pontja szerinti legmagasabb – adómérték
 
 alapján számított összeg erejéig, de legfeljebb 60 millió forint összegben kell nyújtani, azzal, hogy a megbízható felhasználói engedélyes esetében a jövedéki biztosíték összege – kérelem alapján – felére csökkenthető, amely további 50%-kal mérsékelhető, amennyiben a megbízható felhasználói engedélyes legalább 5 éve az e törvény szerinti engedéllyel folytatja az (1) bekezdésben megjelölt tevékenységet.
 

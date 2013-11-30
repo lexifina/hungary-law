@@ -10,7 +10,7 @@ c) az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított halmazállapot�
 
 d) az 52. § (1) bekezdés g) pontja szerinti vagy egyéb, üzemanyag célra gyártott sűrített gáz halmazállapotú gázterméket előállító töltőállomásra (a továbbiakban: sűrítettgáz-töltő),
 
-e) ásványolaj önálló tárolását végző tárolótelepre, ahol a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése is végezhető (a továbbiakban: ásványolaj-tároló);
+e) ásványolaj önálló tárolását végző tárolótelepre, ahol a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése, valamint a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén kiszerelése is végezhető (a továbbiakban: ásványolaj-tároló);
 
 f) a (2) bekezdésben foglaltak figyelembevételével – az ásványolaj-adóraktárak, illetve az ásványolaj-adóraktár és a jövedéki engedélyes kereskedő telephelye vagy az adómentes felhasználó üzeme, raktára között kiépített, ásványolaj szállítására létesített, összefüggő csővezetékrendszerre, ideértve Magyarország államhatárát átlépő csővezeték esetén annak belföldre eső szakaszát is (a továbbiakban: terméktávvezeték);
 
@@ -52,7 +52,7 @@ b) a finomítói ásványolajraktárban legalább 10 000 m3,
 
 c) a cseppfolyósítottgáz-töltőn legalább 300 m3, a repülőtéri adóraktárban legalább 30 m3,
 
-d) az ásványolaj-tárolóban – kivéve a kizárólag az 52. § (1) bekezdés f) pontja szerinti és a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént vasúti tartálykocsiban tároló adóraktárt, amennyiben a vasúti tartálykocsi feltöltése a mérésügyi szerv által hitelesített vágánymérleg alkalmazásával történik – legalább 10 000 m3,
+d) az ásványolaj-tárolóban – kivéve a kizárólag az 52. § (1) bekezdés f) pontja szerinti és a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént palackban vagy vasúti tartálykocsiban tároló adóraktárt, amennyiben a vasúti tartálykocsi feltöltése a mérésügyi szerv által hitelesített vágánymérleg alkalmazásával történik – legalább 10 000 m3,
 
 e) az ásványolaj-regeneráló üzemben és az egyébásványolaj-gyártó adóraktárban – a (16) és a (17) bekezdésben foglalt eltéréssel – legalább 500 m3,
 
@@ -70,7 +70,7 @@ b) a cseppfolyósítottgáz-töltő esetén adóraktáranként, illetve több ad
 
 c) a sűrítettgáz-töltő esetén legfeljebb 80 millió forint,
 
-d) az ásványolaj-tároló esetén adóraktáranként legalább 200 millió forint, de több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 2 milliárd forint, kivéve az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított szénhidrogént tároló adóraktárt, mely esetén adóraktáranként 80 millió forint,
+d) az ásványolaj-tároló esetén adóraktáranként legalább 200 millió forint, de több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 2 milliárd forint, kivéve az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított szénhidrogént tároló adóraktárt, mely esetén adóraktáranként 80 millió forint, és a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént tároló adóraktárt, mely esetén adóraktáranként 20 millió forint,
 
 e) a kikötői adóraktár esetén legfeljebb 200 millió Ft, a repülőtéri adóraktár esetén legalább 10, legfeljebb 200 millió Ft,
 

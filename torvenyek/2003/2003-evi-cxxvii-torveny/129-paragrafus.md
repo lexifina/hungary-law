@@ -6,7 +6,9 @@ a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, 
 
 b)
 
-c) a központi kapcsolattartó szerv, a vegyvizsgáló szerv vagy szervek, valamint a csomagküldő kereskedő adóügyi képviselője nyilvántartásba vételét végző szerv kijelölését.
+c) a központi kapcsolattartó szerv, a vegyvizsgáló szerv vagy szervek, valamint a csomagküldő kereskedő adóügyi képviselője nyilvántartásba vételét végző szerv kijelölését,
+
+d) a szárított dohány, illetve fermentált dohány behozatalával, kivitelével, tárolásával illetve birtoklásával kapcsolatos e törvényben nem szabályozott követelményeket, illetve regisztrációs eljárás szabályait.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben határozza meg
 
@@ -63,11 +65,3 @@ z) a légiutas-ellátási tevékenység vonatkozásában a jövedéki engedélye
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg
 
 a) az üzemanyag e törvény 53. § (1) bekezdése a) pontjában meghatározott adómentes beszerzésének, nyilvántartásának és elszámolásának külön szabályait,
-
-b) a 106. § (11) bekezdésében meghatározott szervezet jövedéki nyilvántartásának és vevőnyilvántartásának vezetésére vonatkozó előírásokat,
-
-c) az adómegállapítási és adófizetési kötelezettség alóli, e törvény 13. §-a (1) bekezdésének f) pontja szerinti végleges mentesülés érvényesítésének részletes feltételeit és eljárási szabályait.
-
-(4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg az 1 százaléknál nagyobb kéntartalmú fűtőolaj e törvény 53. §-a (1) bekezdésének d) pontjában meghatározott adómentes felhasználása engedélyezésének külön szabályait.
-
-(5) Felhatalmazást kap a kereskedelemért felelős miniszter arra, hogy rendeletben határozza meg a cukortermékek – jogszabályba ütköző felhasználást akadályozó – forgalmazási rendjét és feltételeit.

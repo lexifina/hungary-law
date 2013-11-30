@@ -12,9 +12,25 @@ d) megfelel a 35. § (1) bekezdésének b)–c) és – a 35. § (2) bekezdésé
 
 e)
 
-f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő jövedéki termék mennyiségére számított adótartalom – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó – egytizenketted részének megfelelő összegben.
+f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő
 
-(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban, részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt jövedéki termék beszerzésre kerülő mennyiségére számított adónak – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adónak – megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén (a továbbiakban: eseti bejegyzett kereskedő).
+fa) egyéb ellenőrzött ásványolaj – kivéve a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént – mennyiségére az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó,
+
+fb) 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén mennyiségére az 52. § (1) bekezdés f) pontja szerinti legmagasabb adómértékkel számított adó,
+
+fc) – az fa) és fb) pontban nem említett – jövedéki termék mennyiségére számított adótartalom
+
+egytizenketted részének megfelelő összegben.
+
+(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban (a továbbiakban: eseti bejegyzett kereskedő), részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt, beszerzésre kerülő
+
+a) egyéb ellenőrzött ásványolaj – kivéve a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént – mennyiségére az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel,
+
+b) 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén mennyiségére az 52. § (1) bekezdés f) pontja szerinti legmagasabb adómértékkel,
+
+c) – az a) és b) pontokban nem említett – jövedéki termék mennyiségére
+
+számított adónak megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén.
 
 (3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege – a (7) bekezdésben foglalt eltéréssel – 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
 
