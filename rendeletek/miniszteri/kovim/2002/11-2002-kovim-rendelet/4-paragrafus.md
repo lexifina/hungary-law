@@ -10,9 +10,12 @@
 
 (6)[^16] Az A) melléklet A.1. rész 2. táblázat 10. sorában, 3. táblázat 57. sorában, 4. táblázat 42–46. sorában megjelölt azon felszerelés, amelyet valamely EGT-állam területén már hatályban lévő típus-jóváhagyási eljárással összhangban 2012. október 5. előtt gyártottak, 2014. október 5-ig továbbra is forgalomba hozható és az EGT-állam lobogója alatt közlekedő hajók fedélzetén elhelyezhető.
 
+(7)[^17] Az A) melléklet A.1. rész 3. táblázat 58–61. sorában feltüntetett azon felszerelés, amelyet valamely EGT-állam területén már hatályban lévő típus-jóváhagyási eljárással összhangban 2013. november 30. előtt gyártottak, 2015. november 30-ig továbbra is forgalomba hozható és az EGT-állam lobogója alatt közlekedő hajók fedélzetén elhelyezhető.
+
 [^11]: A 4. § (1) bekezdése a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
 [^12]: Lásd a hírközlésről szóló 2001. évi XL. törvény 11. §-át.
 [^13]: A 4. § (3) bekezdését a 82/2003. (XII. 10.) GKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2009. (XI. 26.) KHEM rendelet 8. § (3) bekezdése.
 [^14]: A 4. § (4) bekezdését a 24/2010. (III. 25.) KHEM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 4. §-a.
 [^15]: A 4. § (5) bekezdését a 90/2011. (XII. 30.) NFM rendelet 2. §-a iktatta be, szövege a 26/2013. (VI. 3.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^16]: A 4. § (6) bekezdését a 90/2011. (XII. 30.) NFM rendelet 2. §-a iktatta be, szövege a 26/2013. (VI. 3.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (7) bekezdését a 26/2013. (VI. 3.) NFM rendelet 4. § (2) bekezdése iktatta be.

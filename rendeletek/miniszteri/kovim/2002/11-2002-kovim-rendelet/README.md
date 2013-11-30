@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-11-20-9
 | 2012-01-01 | 2002-11-20-93.8 | 91/2011. (XII. 30.) NFM rendelet |
 | 2012-04-07 | 2002-11-20-93.9 | 90/2011. (XII. 30) NFM rendelet |
 | 2013-06-04 | 2002-11-20-93.10 | 26/2013. (VI. 3.) NFM rendelet |
+| 2013-11-30 | 2002-11-20-93.11 | 26/2013. (VI. 3.) NFM rendelet |
