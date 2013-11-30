@@ -14,7 +14,7 @@
 
 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő, befektetési alapkezelő;
 
-8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást;
+8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;
 
 9. befektetési vállalkozás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) szerinti befektetési vállalkozás;
 
