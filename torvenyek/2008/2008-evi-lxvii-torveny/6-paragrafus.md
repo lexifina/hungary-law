@@ -4,7 +4,7 @@
 
 (2) Növelő tételek:
 
-a) a jövedelemre tekintettel külföldön megfizetett (fizetendő), ráfordításként elszámolt adó,
+a)
 
 b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, az ellenérték nélkül átvállalt kötelezettség egyéb vagy rendkívüli ráfordításként az adóévi adózás előtti eredmény terhére elszámolt összege,
 
