@@ -1,6 +1,6 @@
 3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként:
 
-a) ha törvény vagy miniszteri rendelet eltérően nem rendelkezik, a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.),
+a) ha törvény vagy miniszteri rendelet eltérően nem rendelkezik, az MNV Zrt.,
 
 b) törvényben kijelölt személy vagy
 
