@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-156-00-00
 | 2013-05-03 | 2013. évi XLI. törvény | 2011-156-00-00.19 |
 | 2013-07-01 | 2013. évi CIII. törvény | 2011-156-00-00.20 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2011-156-00-00.21 |
+| 2013-11-30 | 2013. évi CC. törvény | 2011-156-00-00.22 |

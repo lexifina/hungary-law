@@ -43,3 +43,11 @@ l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszony
 m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik;
 
 8. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy.
+
+9. tanulmányokat folytató tanuló, hallgató: az a személy, aki
+
+a) nappali rendszerű oktatás keretében a nemzeti köznevelésről szóló törvény szerinti tanulói jogviszonnyal rendelkezik,
+
+b) nappali rendszerű oktatás keretében a nemzeti felsőoktatásról szóló törvény szerinti nem szünetelő (aktív) hallgatói jogviszonnyal rendelkezik, vagy
+
+c) az a) vagy b) pont szerinti jogviszonya megszűnését követően diákigazolványra jogosult, a diákigazolványra való jogosultsága lejártáig.
