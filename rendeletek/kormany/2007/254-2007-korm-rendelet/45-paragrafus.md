@@ -1,4 +1,4 @@
-45. § (1)[^78] Az árverési hirdetmény közzétételének legalább tizenöt nappal meg kell előznie a hirdetményben megjelölt árverési időpontot. A hirdetményt a 32. § (2)–(4) bekezdésében megjelölt módon kell közzétenni, továbbá az árverés helyszínén, ingatlan esetében – a felépítmény nélküli ingatlan kivételével – az ingatlanon is ki kell függeszteni.
+45. § (1)[^85] Az árverési hirdetmény közzétételének legalább tizenöt nappal meg kell előznie a hirdetményben megjelölt árverési időpontot. A hirdetményt a 32. § (2)–(4) bekezdésében megjelölt módon kell közzétenni, továbbá az árverés helyszínén, ingatlan esetében – a felépítmény nélküli ingatlan kivételével – az ingatlanon is ki kell függeszteni.
 
 (2) A hirdetményben fel kell tüntetni
 
@@ -32,4 +32,4 @@ d) vagyonkezelői jog,
 
 e) jelzálogjog
 
-[^78]: A 45. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^85]: A 45. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.

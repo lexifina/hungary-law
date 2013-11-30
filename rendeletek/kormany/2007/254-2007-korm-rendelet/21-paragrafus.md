@@ -16,6 +16,6 @@ b) tevékenységének megkezdéséről – az (1) bekezdés d) pontjában foglal
 
 c) megállapításait tárgyszerűen, a valóságnak megfelelően ellenőrzési jelentésbe foglalni és a jelentéstervezetet, valamint a végleges – az el nem fogadott észrevételek indokait is tartalmazó – jelentést az ellenőrzött vezetőjének megküldeni.
 
-(3)[^54] A honvédelmi szervek, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a nemzetbiztonsági szolgálatok ellenőrzését tevékenységük sajátosságainak és a külön törvényekben foglaltaknak megfelelően kell végrehajtani. Az ellenőrzés nem terjedhet ki e szervek titkos információgyűjtéssel, adatnyilvántartással, minősített adatokkal kapcsolatos dokumentumaira, informatikai rendszereire és tevékenységére.
+(3)[^61] A honvédelmi szervek, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a nemzetbiztonsági szolgálatok ellenőrzését tevékenységük sajátosságainak és a külön törvényekben foglaltaknak megfelelően kell végrehajtani. Az ellenőrzés nem terjedhet ki e szervek titkos információgyűjtéssel, adatnyilvántartással, minősített adatokkal kapcsolatos dokumentumaira, informatikai rendszereire és tevékenységére.
 
-[^54]: A 21. § (3) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (23) bekezdése, a 273/2010. (XII. 9.) Korm. rendelet 122. §-a szerint módosított szöveg.
+[^61]: A 21. § (3) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (23) bekezdése, a 273/2010. (XII. 9.) Korm. rendelet 122. §-a szerint módosított szöveg.
