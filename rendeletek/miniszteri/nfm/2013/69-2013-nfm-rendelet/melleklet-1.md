@@ -1,4 +1,4 @@
-## 20. §[^1]
+## 20. §[^2]
 
 1. melléklet a 69/2013. (XI. 28.) NFM rendelethez
 
@@ -314,4 +314,4 @@ c) az oltalom megadása iránti hivatalos eljárásban, illetve az esetleges fel
 
 12.7. A támogatás nyújtásának egyéb feltételeit a pályázati felhívás határozza meg.
 
-[^1]: A 20. § a 16. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+[^2]: A 20. § a 16. § (2) bekezdése alapján 2014. március 15-én lép hatályba.

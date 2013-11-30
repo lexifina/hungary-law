@@ -1,1 +1,3 @@
-## 19. § A fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 27/2013. (VI. 12.) NFM rendelet 59. §-ában az „az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti kibocsátási egységek és légiközlekedési kibocsátási egységek értékesítéséből származó bevételek felhasználásáról szóló kormányrendelet” szövegrész helyébe az „a Zöldgazdaság Finanszírozási Rendszer fejezeti kezelésű előirányzat felhasználásáról szóló miniszteri rendelet” szöveg lép.
+## 19. §[^1]
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
