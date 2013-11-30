@@ -11,11 +11,3 @@
 (5) A 2013. évi CXXXV. tv. 1. mellékletének helyébe e törvény 1. melléklete lép. Az Integrációs Szervezet új alapszabályát az Integrációs Szervezet igazgatósága e törvény mellékletének megfelelő tartalommal fogadja el a jelen törvény hatályba lépését követő tíz napon belül.
 
 (6) Ez a törvény a kihirdetését követő 91. napon hatályát veszti.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
