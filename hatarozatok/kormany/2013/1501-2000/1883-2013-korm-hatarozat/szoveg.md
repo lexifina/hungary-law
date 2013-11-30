@@ -44,8 +44,6 @@ Határidő: 2014. január 1.
 
 7. E határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti
+8.[^1]
 
-a) az EU Duna Régió Stratégiáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1149/2010. (VII. 9.) Korm. határozat 6. pontja, valamint
-
-b) a Duna Makro-regionális Stratégiához kapcsolódó kormányzati szervezeti felépítésről és feladatokról szóló 1467/2011. (XII. 23.) Korm. határozat 2. pontja.
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
