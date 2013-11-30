@@ -18,9 +18,9 @@ tevékenységet végez;
 
 b) nem állt és a bejelentés időpontjában sem áll végelszámolás, csődeljárás vagy a bíróság által jogerősen elrendelt felszámolás hatálya alatt;
 
-c) létesítő okirata alapján a külön jogszabályokban meghatározottak szerint osztalékként kifizethető eredményének legalább 90%-át kifizeti osztalékként a számviteli beszámoló jóváhagyását követő 15 napon belül;
+c) létesítő okirata alapján legalább az elvárt osztaléknak megfelelő mértékű osztalékot fizet, a számviteli beszámoló jóváhagyását követő 15 napon belül, azzal, hogy abban az esetben, ha a szabályozott ingatlanbefektetési társaság szabad pénzeszközeinek összege nem éri el a külön jogszabályban meghatározottak szerint osztalékként kifizethető tárgyévi adózott eredményének összegét, akkor a szabad pénzeszközök összegének legalább 90%-át fizeti ki osztalékként;
 
-d) projekttársaságon, más szabályozott ingatlanbefektetési társaságon, valamint főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságon kívül más gazdasági társaságban nem rendelkezik részesedéssel, azzal, hogy szabályozott ingatlanbefektetési társaságban, valamint főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságban nem rendelkezhet a jegyzett tőkéhez viszonyítottan több mint 10%-os részesedéssel vagy szavazati joggal;
+d) projekttársaságon, más szabályozott ingatlanbefektetési társaságon, valamint főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságon kívül más gazdasági társaságban nem rendelkezik részesedéssel, azzal, hogy szabályozott ingatlanbefektetési társaságban nem rendelkezhet több mint 10%-os részesedéssel vagy szavazati joggal;
 
 e) kibocsátott részvényeit együttesen legfeljebb összesen 10%-ban tulajdonolják biztosítók és hitelintézetek, valamint amelyben együttesen az összes szavazati jog legfeljebb 10%-át gyakorolják biztosítók és hitelintézetek;
 

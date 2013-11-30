@@ -15,3 +15,7 @@ b) minden olyan személy, akit a szabályozott ingatlanbefektetési elővállalk
 5. szabályozott ingatlanbefektetési társaság ingatlan-portfoliója: azon ingatlanok összessége, amelyeknek a szabályozott ingatlanbefektetési társaság, valamint amelyeknek a szabályozott ingatlanbefektetési társaság projekttársasága a tulajdonosa.
 
 6. TEÁOR: az e törvény hatályba lépésekor hatályos Gazdasági Tevékenységek Osztályozási Rendszere.
+
+7. Szabad pénzeszköz: a látra szóló és a lekötött bankbetéteknek, az Európai Gazdasági Térségről szóló Megállapodásban részes államok vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállama által kibocsátott állampapíroknak, a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapíroknak és az elismert tőkepiacra bevezetett értékpapíroknak a szabályozott ingatlanbefektetési társaság éves beszámolójának mérlegében kimutatott értéke.
+
+8. Elvárt osztalék: a szabályozott ingatlanbefektetési társaság külön jogszabályban meghatározottak szerint osztalékként kifizethető eredményének 90%-a.

@@ -20,7 +20,7 @@ h) a vezető állású személy esetén a bűnügyi nyilvántartó szerv által 
 
 (3) Az állami adóhatóság a szabályozott ingatlanbefektetési társaság, illetve elővállalkozás adózót határozattal törli a szabályozott ingatlanbefektetési társaságok, illetve elővállalkozások nyilvántartásából, ha
 
-a) a nyilvántartásba vétel feltételei már nem állnak fenn, és azokat az adózó 90 napon belül nem pótolja; vagy
+a) a nyilvántartásba vétel feltételei már nem állnak fenn, és azokat az adózó 90 napon – a 8. § (5) bekezdése szerinti kötelezettséggel kapcsolatban egy éven – belül nem pótolja;
 
 b) a szabályozott ingatlanbefektetési társaság a tevékenységet a nyilvántartásba vételtől számított hat hónapon belül nem kezdi meg vagy hat hónapot meghaladó időtartam alatt nem gyakorolja; vagy
 
@@ -36,4 +36,4 @@ f) a szabályozott ingatlanbefektetési elővállalkozást az állami adóhatós
 
 (5) Az állami adóhatóság ellenőrizheti a nyilvántartásba vett szabályozott ingatlanbefektetési elővállalkozásnak és társaságnak a nyilvántartásba vétel feltételeinek való megfelelését. Az ellenőrzés során az (1) bekezdés h) pont szerinti bűnügyi személyes adatot az érintett igazolja. Az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás és társaság vezető állású személyére vonatkozó (1) bekezdés h) pont szerinti bűnügyi személyes adatot a 6. § (1) bekezdés c) pontjában meghatározott feltétel ellenőrzése céljából, a szabályozott ingatlanbefektetési elővállalkozás és társaság ellenőrzésének befejezéséig, illetve a szabályozott ingatlanbefektetési elővállalkozásnak és társaságnak a (6) bekezdés szerinti nyilvántartásból való törléséig kezelheti.
 
-(6) Ha az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás vagy társaság bejelentése alapján vagy hivatalból megállapítja, hogy a nyilvántartásba vétel feltételei már nem állnak fenn, végzésben – 90 napos határidővel – felszólítja a szabályozott ingatlanbefektetési elővállalkozást vagy társaságot azok pótlására. Ha a szabályozott ingatlanbefektetési elővállalkozás vagy társaság a feltételeknek a határidőn belül nem tesz eleget, az állami adóhatóság a nyilvántartásból a határidő leteltét követő nappal törli. A végzés ellen önálló fellebbezésnek van helye.
+(6) Ha az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás vagy társaság bejelentése alapján vagy hivatalból megállapítja, hogy a nyilvántartásba vétel feltételei már nem állnak fenn, végzésben – 90 napos, a 8. § (5) bekezdése szerinti kötelezettséggel kapcsolatban egy éves határidővel – felszólítja a szabályozott ingatlanbefektetési elővállalkozást vagy társaságot azok pótlására. Ha a szabályozott ingatlanbefektetési elővállalkozás vagy társaság a feltételeknek a határidőn belül nem tesz eleget, az állami adóhatóság a nyilvántartásból a határidő leteltét követő nappal törli. A végzés ellen önálló fellebbezésnek van helye.

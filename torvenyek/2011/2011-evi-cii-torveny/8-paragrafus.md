@@ -14,6 +14,6 @@
 
 a) az osztalék kifizetését korlátozza,
 
-b) az ingatlanportfólióba tartozó ingatlanra vonatkozóan más személy részére vételi jogot biztosít.
+b) az ingatlanportfólióba tartozó ingatlanra vonatkozóan más személy – kivéve a pénzügyi intézményeket – részére vételi jogot biztosít.
 
 (8) A (7) bekezdésben foglaltakkal ellentétes szerződéses kikötés, egyoldalú kötelezettségvállalás semmis.
