@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Bolgár Köztársaság Kormánya között, a hadisírokról és háborús emlékhelyekről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
