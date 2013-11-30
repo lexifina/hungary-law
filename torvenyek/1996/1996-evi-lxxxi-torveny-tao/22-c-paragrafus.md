@@ -12,7 +12,9 @@ ac) az ad) pontban foglaltakra is figyelemmel tárgyi eszköz beruházásra, fel
 
 ad) a sportrendezvények biztonságáról szóló külön jogszabályban meghatározott biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztésre,
 
-ae) képzéssel összefüggő feladatokra;
+ae) képzéssel összefüggő feladatokra,
+
+af) az amatőr sportszervezetek versenyeztetéssel összefüggő költségeinek támogatására;
 
 b) a látvány-csapatsport országos sportági szakszövetsége tagjaként működő amatőr sportszervezet – ideértve a sportról szóló törvényben meghatározott szabályok szerint a szakszövetség tagjaként működő sportiskolát is – részére
 
@@ -60,7 +62,7 @@ ea) a személyi jellegű ráfordításaira – azzal, hogy a sportról szóló t
 
 eb) képzéssel összefüggő feladatokra.
 
-(2) Az adózó a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő három adóév adójából – feltéve, hogy a támogatási igazolás kiállítására irányuló kérelemnek a támogatás igénybevételére jogosult szervezet általi benyújtásakor az adózónak nincs lejárt köztartozása – adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
+(2) Az adózó a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő adóévek adójából, de utoljára a támogatás (juttatás) naptári évét követő hatodik naptári évben lezáruló adóév adójából – feltéve, hogy a támogatási igazolás kiállítására irányuló kérelemnek a támogatás igénybevételére jogosult szervezet általi benyújtásakor az adózónak nincs lejárt köztartozása – adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
 
 (3) Az adókedvezmény támogatási igazolás alapján vehető igénybe. Az adókedvezmény igénybevételének feltétele, hogy az adózó – jogszabályban meghatározottak szerint –
 

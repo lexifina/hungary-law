@@ -250,6 +250,6 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
 
-45.
+45. termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld;
 
 46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.
