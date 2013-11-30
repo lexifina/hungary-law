@@ -1,3 +1,0 @@
-25. § A Kat. 35. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha az üzemeltető a biztonságos működéssel kapcsolatos kötelezettségeit nem teljesíti és a biztonságos üzemeltetés feltételeiben súlyos hiányosság jelentkezik, akkor az iparbiztonsági hatóság a 25. § (1) bekezdésében meghatározott engedély visszavonásával a veszélyes tevékenység folytatását megtiltja. Ha az üzemeltető a veszélyes tevékenységet hatósági engedély nélkül kezdi el, akkor az iparbiztonsági hatóság a veszélyes tevékenység folytatását a veszélyes anyagokkal foglalkozó üzemben jelen lévő veszélyes anyagok mennyiségének alsó küszöbérték negyede alá csökkentésével korlátozza.”
