@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2012-1-00-00.1 |
 | 2013-01-01 | 2012. évi LXXXVI. törvény | 2012-1-00-00.2 |
 | 2013-08-01 | 2013. évi CIII. törvény | 2012-1-00-00.3 |
+| 2013-11-30 | 2013. évi CXCVI. törvény | 2012-1-00-00.4 |
