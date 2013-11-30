@@ -22,4 +22,6 @@ j) a Munkavállalói Résztulajdonosi Programról szóló törvény szerint alap
 
 k) az európai területi együttműködési csoportosulásról szóló törvény szerint alapított európai területi társulást,
 
-l) azt a szervezetet, amelynek e törvény szerinti nyilvántartásba vételét törvény elrendeli.
+l) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek Integrációs Szervezetét és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapját.
+
+m) azt a szervezetet, amelynek e törvény szerinti nyilvántartásba vételét törvény elrendeli.
