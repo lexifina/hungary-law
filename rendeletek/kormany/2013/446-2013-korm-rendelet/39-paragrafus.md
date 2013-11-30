@@ -1,4 +1,4 @@
-## 38. §[^4]
+## 38. §[^7]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4–7. §, a 10–38. §, valamint a 40. § 2014. január 1-jén lép hatályba.
 
-[^4]: A 38. § a 39. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^7]: A 38. § a 39. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.

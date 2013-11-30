@@ -1,3 +1,3 @@
-## 3. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 47. § (5a) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^2]
 
-## „(5a) A Tv. 28. § (3) bekezdésében meghatározott célból, nemzetgazdasági érdekre tekintettel benyújtott tartózkodási engedély kiadása iránti kérelmet, valamint az ilyen kérelmet előterjesztő harmadik országbeli állampolgár családtagjának családi együttélés biztosítása, vagy egyéb célú tartózkodási engedély kiadása iránti kérelmét a konzuli tisztviselő haladéktalanul felterjeszti az ezen kérelem elbírálására jogosult Budapesti és Pest Megyei Regionális Igazgatósághoz.”
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

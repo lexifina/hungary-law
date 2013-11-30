@@ -1,6 +1,6 @@
-## 40. §[^5]
+## 40. §[^8]
 
-1. melléklet a 446/2013. (XI. 28.) Korm. rendelethez[^6]
+1. melléklet a 446/2013. (XI. 28.) Korm. rendelethez[^9]
 
-[^5]: A 40. § a 39. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
-[^6]: Az 1. melléklet a 39. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^8]: A 40. § a 39. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^9]: Az 1. melléklet a 39. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
