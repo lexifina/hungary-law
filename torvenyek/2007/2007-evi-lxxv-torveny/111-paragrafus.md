@@ -6,11 +6,11 @@ b) titkos szavazással megválasztja, illetve visszahívja a 119. § a)–c) pon
 
 c) beszámoltatja az elnökséget és a 113. § (1) bekezdésében meghatározott bizottságok elnökeit,
 
-d) elfogadja a kamara éves pénzügyi tervét és az éves pénzügyi beszámolót (annak részeként a számviteli jogszabályok szerinti beszámolót),
+d) elfogadja a kamara – egyes területi szervezetek pénzügyi tervét önállóan is tartalmazó – éves pénzügyi tervét és az – egyes területi szervezetek pénzügyi beszámolóját önállóan is tartalmazó – éves pénzügyi beszámolót (annak részeként a számviteli jogszabályok szerinti beszámolót),
 
 e) kamarai szabályzatokat alkot,
 
-f) meghatározza az elnök, az alelnökök, az elnökség további tagjai, a fegyelmi megbízott és a kamara alapszabálya szerint díjazásban részesíthető bizottsági elnökök és tagok díját,
+f) meghatározza személyenként külön-külön az elnök, az alelnökök, az elnökség további tagjai, a területi szervezetek elnökei, a fegyelmi megbízott és a kamara alapszabálya szerint díjazásban részesíthető bizottsági elnökök és tagok díjazását, továbbá a főtitkár és a főtitkári hivatal főkönyvelőjének javadalmazását,
 
 g) megállapítja a tagdíjak és a hozzájárulási díjak összegét,
 

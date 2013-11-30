@@ -15,3 +15,5 @@ e)
 (3)
 
 (4) Az (1) bekezdés szerinti feladatainak ellátásához a közfelügyeleti hatóság a kamarától, a közfelügyelet hatálya alá tartozó személyektől, szervezetektől iratot, adatot, információt, nyilatkozatot kérhet, valamint e célból betekinthet irataikba, könyveikbe és adathordozóikba.
+
+(5) A közfelügyeleti hatóság az (1) bekezdésben felsorolt feladatok ellátásához szakértőt vehet igénybe. Szakértőként nem járhat el az, akivel szemben az ellenőrre vonatkozó kizárási ok áll fenn.

@@ -1,0 +1,1 @@
+208/G. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 111. § f) pontját a hatálybalépését követően megkötött szerződésekre, illetve kinevezésekre kell alkalmazni.

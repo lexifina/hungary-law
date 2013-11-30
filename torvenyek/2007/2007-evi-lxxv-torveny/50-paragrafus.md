@@ -24,6 +24,6 @@ b) ha a (4) bekezdésben foglalt információk alapján nem biztosított, hogy a
 
 (6) A minősítés megadásáról igazolást kell adni, és a minősítést rögzíteni kell a kamarai nyilvántartásokban is.
 
-(7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön nyilvántartást kell vezetni.
+(7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön – közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást kell vezetni.
 
 (8) A szakmai minősítő vizsga tartalmi követelményeit, az eljárási és az értékelési szabályokat a kamara külön szabályzatban határozza meg. A szakmai minősítő vizsgának legalább részben írásbeli vizsgának kell lennie.
