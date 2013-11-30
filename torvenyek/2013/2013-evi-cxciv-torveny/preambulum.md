@@ -1,0 +1,1 @@
+Az Országgyűlés a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság, NMHH), 2012. évi egységes költségvetéséről szóló 2011. évi CLXXXIII. törvényben meghatározott költségvetések végrehajtásáról a következő törvényt alkotja.
