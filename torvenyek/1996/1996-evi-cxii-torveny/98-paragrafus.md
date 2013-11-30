@@ -2,7 +2,7 @@
 
 a)
 
-b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének az MNB által a 30. § (1) bekezdés b) vagy c) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
+b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének az MNB által a 30. § (1) bekezdés b) vagy c) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén, vagy az előző szabályok érintése nélkül, amennyiben a szövetkezeti hitelintézet végelszámolásának elhatározására szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/T.§ (5) bekezdése alapján kerül sor, a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
 
 c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása,
 

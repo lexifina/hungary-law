@@ -22,7 +22,7 @@ b) a hitelintézet szavatolótőkéje nem éri el a 76. § (1) bekezdésében me
 
 c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja az MNB-t, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását,
 
-d) a szövetkezeti hitelintézet működési engedélyét az MNB a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági vonatkozású jogszabályok módosításáról szóló 2013. évi CXXXV. tv. amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés alapján visszavonja
+d)
 
 (3)
 

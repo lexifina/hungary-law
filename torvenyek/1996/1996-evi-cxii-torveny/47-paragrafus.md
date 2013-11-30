@@ -1,6 +1,6 @@
 47. § (1) Cégjegyzésre – ideértve a fizetési számla feletti rendelkezést is – és a hitelintézet nevében a pénzügyi szolgáltatási tevékenységgel kapcsolatos kötelezettségvállalásra
 
-a) részvénytársasági vagy szövetkezeti formában működő hitelintézet esetében két igazgatósági tag, illetve két ügyvezető,
+a) részvénytársasági formában működő hitelintézet esetében két igazgatósági tag, illetve két ügyvezető
 
 b) külföldi hitelintézet fióktelepe esetében két vezető állású személy
 

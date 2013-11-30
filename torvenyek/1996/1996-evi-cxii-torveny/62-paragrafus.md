@@ -8,4 +8,4 @@
 
 (2) A hitelintézet igazgatóságában legalább két olyan tagnak kell lennie, aki a hitelintézettel munkaviszonyban áll (a továbbiakban: belső tag).
 
-(3) A szövetkezeti hitelintézet igazgatóságában legalább egy belső tagnak, alapítványi formában működő pénzügyi vállalkozás kuratóriumában legalább egy, az alapítvánnyal munkaviszonyban álló tagnak kell lennie.
+(3) Alapítványi formában működő pénzügyi vállalkozás kuratóriumában legalább egy, az alapítvánnyal munkaviszonyban álló tagnak kell lennie.

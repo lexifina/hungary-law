@@ -100,7 +100,9 @@ k) könyvvizsgálója elmulasztja az MNB, a pénzügyi intézmény igazgatóság
 
 l) az (1) bekezdésben említett előírásokat – az MNB által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül–ismételten megsérti,
 
-m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti.
+m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
+
+n) működési engedélye a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. tv. alapján visszavonásra kerül.
 
 (4) Az MNB-nek a (3) bekezdésen kívül akkor is meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha
 

@@ -4,7 +4,7 @@
 
 (2) Szakosított hitelintézet a rá vonatkozó külön törvényi szabályozással meghatározott induló tőkével alapítható.
 
-(3) Szövetkezeti hitelintézet legalább kétszázötvenmillió forint induló tőkével alapítható.
+(3)
 
 (4) Pénzügyi vállalkozás – kivéve a pénzügyi holding társaságot és a pénzforgalmi elszámolóházat – legalább ötvenmillió forint induló tőkével alapítható.
 

@@ -10,15 +10,15 @@ b)–c)
 
 d) pénzváltási tevékenység végzésére.
 
-(3) A hitelintézet bank, szakosított hitelintézet vagy szövetkezeti hitelintézet (takarék-, illetőleg hitelszövetkezet) lehet.
+(3) A hitelintézet bank, szakosított hitelintézet illetve részvénytársaság vagy szövetkezet formában működő szövetkezeti hitelintézet lehet.
 
 (4) A bank az a hitelintézet, amely a 3. § (1) bekezdésének a), b) és d) pontjában meghatározott tevékenységet üzletszerűen végzi. Kizárólag bank kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
 (5) A szakosított hitelintézet a rá vonatkozó külön törvényi szabályozásnak megfelelően jogosult tevékenységének végzésére, azzal, hogy nem kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
-(6) A szövetkezeti hitelintézet a 3. § (1) bekezdésének a)–j) pontjában, illetve a 3. § (2) bekezdésének a) és d) pontjában meghatározott tevékenységet végezhet.
+(6) A szövetkezeti hitelintézetekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat külön törvény állapítja meg.
 
-(7) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
+(7)
 
 (8)
 

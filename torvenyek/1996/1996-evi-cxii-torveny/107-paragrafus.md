@@ -7,3 +7,5 @@
 (3) Hitelintézet a 30. § (1) bekezdés b) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az Alap azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből eredő jogok még nem szálltak át az Alapra, de amelyekért a 101. § szerint fizetni tartozik, ideértve a kifizetés kapcsán felmerülő költségeket is.
 
 (4) A (2) bekezdés alkalmazásában a kifizetéshez kapcsolódóan az Alapnál felmerülő költség a kifizető hitelintézet díja, az átutalások költsége, a nyomdaköltség, a kommunikációs költség, a számítástechnikai költség és a jogi költség.
+
+(5) Az Alap csak azzal a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény szerinti szövetkezeti hitelintézettel szemben érvényesíthet követelést, amelynél a betétet elhelyezték.

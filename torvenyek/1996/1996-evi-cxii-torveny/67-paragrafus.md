@@ -16,7 +16,7 @@ e) a hitelintézet és ügyfelei eszközeinek és a tulajdonosok érdekeinek vé
 
 (4) A belső ellenőrzési rendszert a hitelintézet által folytatott szolgáltatási tevékenységek sajátosságaival, kiterjedtségével, összetettségével és kockázataival összhangban kell kialakítani.
 
-(5) A szövetkezeti hitelintézet, a pénzügyi vállalkozás és a pénzforgalmi intézmény legalább egy belső ellenőrt foglalkoztat. A szövetkezeti hitelintézet, a pénzügyi vállalkozás és a pénzforgalmi intézmény írásban megállapodhat arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emel kifogást. Ugyanazon személy legfeljebb három szövetkezeti hitelintézetnél, pénzügyi vállalkozásnál, illetve pénzforgalmi intézménynél foglalkoztatható belső ellenőrként.
+(5) A pénzügyi vállalkozás és a pénzforgalmi intézmény legalább egy belső ellenőrt foglalkoztat. A pénzügyi vállalkozás és a pénzforgalmi intézmény írásban megállapodhat arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emel kifogást. Ugyanazon személy legfeljebb három szövetkezeti hitelintézetnél, pénzügyi vállalkozásnál, illetve pénzforgalmi intézménynél foglalkoztatható belső ellenőrként.
 
 (6) A belső ellenőrzés szervezetét, hatáskörét, feladatait, a belső ellenőrrel szemben támasztott szakmai követelményt és eljárási szabályokat belső szabályzatban kell rögzíteni.
 

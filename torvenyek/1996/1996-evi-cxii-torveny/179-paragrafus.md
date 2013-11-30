@@ -8,8 +8,10 @@ b) fióktelep esetén, ha a Magyarországon fióktelepet működtető külföldi
 
 (3) A bíróság a felszámolási eljárást
 
-a) a részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény,
+a) a részvénytársasági formában működő pénzügyi intézmény vagy a szövetkezeti formában működő pénzügyi vállalkozás,
 
-b) a fióktelepet működtető külföldi pénzügyi intézmény
+b) a szövetkezeti hitelintézet
+
+c) a fióktelepet működtető külföldi pénzügyi intézmény
 
 fizetésképtelenségének megállapítása nélkül köteles elrendelni.
