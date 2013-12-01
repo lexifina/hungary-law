@@ -1,6 +1,12 @@
 8. § (1) A 2. § (1) és (2) bekezdésében foglalt szervek hatósági tevékenységük során az e törvényben szabályozott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint járnak el.
 
-(2) A munkaügyi hatóság a szükséges intézkedések megtétele céljából megkeresi az illetékes hatóságot, ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy kereső tevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés során megállapítja annak valószínűségét, hogy a harmadik országbeli állampolgár foglalkoztatása vagy magyarországi tartózkodása a közrendet, a közbiztonságot, a nemzetbiztonságot veszélyeztetheti, vagy közegészségügyi, járványügyi szempontból veszéllyel járhat.
+(2) Ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy kereső tevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés megállapítja annak valószínűségét, hogy
+
+a) a jogsértés súlyosságára tekintettel a jogsértés során igénybe vett létesítmények átmeneti vagy végleges bezárása, illetve a szóban forgó gazdasági tevékenység végzésére kiadott engedély ideiglenes vagy végleges visszavonása lehet indokolt, vagy
+
+b) a harmadik országbeli állampolgár foglalkoztatása vagy magyarországi tartózkodása a közrendet, a közbiztonságot, a nemzetbiztonságot veszélyeztetheti, vagy közegészségügyi, járványügyi szempontból veszéllyel járhat,
+
+a munkaügyi hatóság a szükséges intézkedések megtétele céljából megkeresi a hatáskörrel rendelkező hatóságot.
 
 (3) A munkaügyi hatóság tevékenysége során együttműködik a tevékenységével érintett más hatóságokkal.
 

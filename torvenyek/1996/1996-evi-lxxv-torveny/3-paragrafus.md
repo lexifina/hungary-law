@@ -46,6 +46,6 @@ megtartására.
 
 (3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezeti tagnak az Mt. 223. §-a alapján történő munkavégzése tekintetében a munkaügyi ellenőrzés kiterjed az iskolaszövetkezetre és az Mt. 224. § (1)–(3) tekintetében a szolgáltatás fogadójára. Az iskolaszövetkezetnél az (1) bekezdés a)–b), e)–i), valamint r)–s) pontja vonatkozásában lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
 
-(4)
+(4) A foglalkoztató saját maga munkaügyi hatósági ellenőrzés alá vonását nem kérelmezheti.
 
 (5)

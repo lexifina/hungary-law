@@ -1,4 +1,4 @@
-7/A. § (1) Amennyiben a 3. § (1) bekezdés i) pontjában foglaltak ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt érvényes munkavállalási engedély, illetve EU Kék Kártya nélkül foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre a (2)–(7) bekezdésben foglaltak szerint.
+7/A. § (1) Amennyiben a 3. § (1) bekezdés i) pontjában foglaltak ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt érvényes munkavállalási engedély, illetve EU Kék Kártya nélkül foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre a (2)–(7) bekezdésben foglaltak szerint. A kötelezettség a foglalkoztatót minden olyan általa foglalkoztatott harmadik országbeli állampolgár tekintetében terheli, akire nézve az engedély vagy EU Kék Kártya nélkül történő foglalkoztatást megállapították.
 
 (2) A központi költségvetésbe történő befizetés mértéke
 

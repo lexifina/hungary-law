@@ -8,7 +8,7 @@
 
 a) újrafelvételi eljárásnak nincs helye,
 
-b) a bíróság a munkaügyi hatóság bírságot megállapító határozatát megváltoztathatja, ha a határozat jogszabálysértő, és a közigazgatási határozatot megváltoztató döntéshez szükséges adatok rendelkezésre állnak,
+b) a 7. § (8) bekezdés alapján egybefoglalt határozat valamely rendelkezésének hatályon kívül helyezése esetén a bíróság a munkaügyi bírság összegét a hatályon kívül helyezett rendelkezésre tekintettel változtathatja meg,
 
 c) felügyeleti eljárás keretében a kötelezettséget megállapító döntés jogerőre emelkedésétől vagy ha a teljesítési határidő hosszabb, annak utolsó napjától számított egy év elteltével munkaügyi döntésmegváltoztatásának, illetőleg megsemmisítésének nincs helye.
 
