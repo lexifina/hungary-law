@@ -1,0 +1,45 @@
+## 14. Jogkövetkezmények
+
+40. § (1) A működést engedélyező szerv az ellenőrzés során tett megállapítások alapján
+
+a) az engedélyest törli a szolgáltatói nyilvántartásból, ha az engedélyes megszűnt vagy szolgáltatást nem nyújt,
+
+b) az ellátottak számára nyitva álló egyéb helyiséget, a lakhatási szolgáltatást biztosító ingatlant, illetve a külső férőhelyet – szükség szerint a férőhelyszám egyidejű csökkentésével – törli a szolgáltatói nyilvántartásból, ha az elhelyezésére szolgáló épület (épületrész) állaga az ellátottak életét, testi épségét vagy egészségét súlyosan veszélyezteti,
+
+c) a helyettes szülőt, nevelőszülőt – szükség szerint a férőhelyszám egyidejű csökkentésével – törli a szolgáltatói nyilvántartásból, ha az ellátottak életét, testi épségét, egészségét vagy az ellátott gyermekek fejlődését súlyosan veszélyezteti, illetve más alapvető jogát súlyosan sérti, vagy jogszabály kizárja, hogy helyettes szülőként, nevelőszülőként működjön,
+
+d) az engedélyes épületének egy részét lezáratja, ha az az engedélyes működőképességének fenntartása mellett megfelelően lezárható, és állaga az ellátottak életét, testi épségét vagy egészségét súlyosan veszélyezteti,
+
+e) a b)–d) pontban nem említett esetben az engedélyest törli a szolgáltatói nyilvántartásból, és kötelezi a fenntartót a szolgáltatásnyújtás megszüntetésére, ha az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét, egészségét vagy az ellátott gyermekek fejlődését súlyosan veszélyezteti, vagy más alapvető jogát súlyosan sérti,
+
+f) a szolgáltatói nyilvántartás adatait az ellenőrzés során megállapított tényeknek és a jogszabályoknak megfelelően – a b) és c) pontban foglaltakon túl – hivatalból módosíthatja, ha a fenntartó elmulasztott adatmódosítást kérni,
+
+g) az a)–c) és e) pontban nem említett jogsértés esetén a jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével
+
+ga) legalább húsz napos, de legfeljebb négy hónapos határidő megjelölésével felszólíthatja a fenntartót a hiányosság vagy más jogsértés megszüntetésére, és a jogszerű működés helyreállítására,
+
+gb) a ga) alpont szerinti felszólítással egyidejűleg – ha az ellátottak Szt., illetve Gyvt. szerinti jogainak megóvása érdekében szükséges – legfeljebb a hiányosság vagy más jogsértés megszüntetéséig, és a jogszerű működés helyreállításáig megtilthatja újabb ellátottak felvételét,
+
+gc) az ügynek az ellátottak, az ellátási érdek és a fenntartó szempontjából is előnyös rendezése érdekében a hiányosság – legfeljebb három éven belül történő – megszüntetéséről a fenntartóval hatósági szerződést köthet,
+
+gd) kötelezheti a fenntartót és a szolgáltatót, hogy a jogsértő személyt küldje az Országos Szociális és Gyermekvédelmi Továbbképzési és Szakvizsga Bizottság által minősített továbbképzésre,
+
+ge) a jogsértéssel érintettek között egyeztető megbeszélés tartása iránt intézkedhet,
+
+h) az Szt. 92/L. § (1) bekezdésében, illetve a Gyvt. 100/A. § (1) bekezdésében meghatározott esetben bírságot szabhat ki.
+
+(2) A hiányosság vagy más jogsértés megszüntetésére, és a jogszerű működés helyreállítására megállapított határidő a fenntartó kérelmére indokolt esetben egyszer, legfeljebb két hónappal meghosszabbítható.
+
+(3) A Ket. 94. § (2) bekezdés b) pontja alkalmazásának van helye
+
+a) az (1) bekezdés b)–e) pontjában, valamint az (1) bekezdés g) pont gb), gd) és ge) alpontjában foglalt jogkövetkezmények esetén;
+
+b) bírság kiszabása esetén
+
+ba) az Szt. 92/L. § (1) bekezdés b), e) és i)–k) pontja szerinti esetben,
+
+bb) az Szt. 92/L. § (1) bekezdés f) és g) pontja szerinti esetben, ha az ellátottnak, törvényes képviselőjének, hozzátartozójának vagy a térítési díjat, illetve az egyszeri hozzájárulást megfizető személynek az Szt. szerinti jogai sérülnek,
+
+bc) a Gyvt. 100/A. § (1) bekezdés a) és b) pontja szerinti esetben,
+
+bd) a 23. § (1) bekezdés a) pontja, a 24. § és a 25. § szerinti bejelentési kötelezettség elmulasztása miatt.

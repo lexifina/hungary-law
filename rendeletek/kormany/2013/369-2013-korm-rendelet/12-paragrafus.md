@@ -1,0 +1,3 @@
+12. § (1) Ha a szolgáltatás, illetve a lakhatási szolgáltatást biztosító ingatlan több különböző hatállyal is bejegyezhető, a szolgáltatást, illetve a lakhatási szolgáltatást biztosító ingatlant a legrövidebb hatállyal kell bejegyezni. A fennmaradt időre – ha a feltételei egyébként fennállnak – az ideiglenes hatályú bejegyzés hatálya is meghosszabbítható.
+
+(2) Ha a fenntartó azelőtt kérelmezi a határozott idejű bejegyzés vagy az ideiglenes hatályú bejegyzés hatályának módosítását, mielőtt az hatályát veszítené, a kérelem elbírálásáig a bejegyzés hatálya meghosszabbodik. A határozott idejű bejegyzés és az ideiglenes hatályú bejegyzés hatályának meghosszabbítása során az (1) bekezdésben foglaltakat alkalmazni kell.

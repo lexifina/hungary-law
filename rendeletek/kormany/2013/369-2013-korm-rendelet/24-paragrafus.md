@@ -1,0 +1,13 @@
+24. § (1) Az egyházi fenntartó, a nem állami fenntartó és az ellátási kötelezettséget teljesítőnek nem minősülő állami fenntartó szociális alapszolgáltatás, gyermekjóléti szolgáltatás és gyermekek napközbeni ellátása esetén legalább két hónappal, bentlakásos szociális intézményi ellátás, támogatott lakhatás, gyermekek átmeneti gondozása, otthont nyújtó ellátás és utógondozói ellátás esetén legalább hat hónappal korábban köteles bejelenteni
+
+a) az érintett ellátottaknak és törvényes képviselőiknek,
+
+b) a 4. § (1)–(3) bekezdése alapján illetékes szociális és gyámhivatalnak, és
+
+c) – ahol működik – az érdekképviseleti fórumnak, illetve az ellátotti önkormányzatnak,
+
+## ha kérelmezni fogja az engedélyes törlését, vagy olyan adatmódosítást, amelynek következtében ellátás megszüntetésére kerül sor.
+
+(2) Ellátási szerződés, illetve az Szt. 90. § (4) bekezdése szerinti megállapodás a bejelentési kötelezettség teljesítésére az (1) bekezdésben meghatározottaktól eltérő, de legalább egy hónapos határidőt is megállapíthat.
+
+(3) Az (1) bekezdés szerinti bejelentési kötelezettség határideje az engedélyes törlése, illetve az adatmódosítás iránti kérelem benyújtását megelőző nyolcadik nap, ha a fenntartó az ellátottakról megfelelően gondoskodik.
