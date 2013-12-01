@@ -1,24 +1,32 @@
 ## A rendelet hatálya
 
-1. § (1) E rendelet hatálya – a (2)–(4) bekezdésben foglaltak kivételével – az emberi fogyasztásra szolgáló víz (a továbbiakban: ivóvíz) minőségi követelményeire és a vízminőség-ellenőrzés rendjére terjed ki.
+1. § (1)[^1] E rendelet hatálya – a (2)–(4) bekezdésben foglaltak kivételével – az emberi fogyasztásra szánt víz (a továbbiakban: ivóvíz) minőségi követelményeire és a vízminőség-ellenőrzés rendjére terjed ki.
 
-(2) A jelen rendelet hatálya nem terjed ki:
+(2)[^2] E rendelet hatálya nem terjed ki:
 
-a) a természetes ásványvízre;
+a) a természetes ásványvízre,
 
-b) az 1. számú mellékletben foglalt vízminőségi határértékek kivételével a palackozott természetes vagy kezelt ivóvízre;
+b) az 1. számú mellékletben foglalt azon vízminőségi határérték kivételével, amelyet a dúsítás nem érint, és a 2. számú melléklet C) részében foglalt táblázatában előírt vizsgálati gyakoriság kivételével az ásványi anyaggal dúsított palackozott ivóvízre,
 
-c) az 1. számú mellékletben foglalt azon vízminőségi határérték kivételével, amelyet a dúsítás nem érint, az ásványi anyaggal dúsított palackozott ivóvízre;
+c) a gyógyvízre,
 
-d) a gyógyvízre;
+d) arra a vízre, amelyet kizárólag olyan célra használnak, amely nem jelent sem közvetlen, sem közvetett káros hatást a vízhasználók egészségére és a víz felhasználását az illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete, illetve a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve (a továbbiakban együtt: népegészségügyi szerv) vagy annak jogelődje engedélyezte,
 
-e)[^1] arra a vízre, amelyet kizárólag olyan célra használnak, amely nem jelent sem közvetlen, sem közvetett káros hatást a vízhasználók egészségére és a víz felhasználását az illetékes népegészségügyi szerv vagy annak jogelődje engedélyezte;
+e) a közösségi használatra szánt vizekben – beleértve az ivóvizet, a használati meleg vizet és a medencés fürdővizet – alkalmazott biocid termékekre.
 
-f) arra a nem közüzemi vízellátó rendszerből származó vízre, amely napi 10 m3-nél kevesebb vizet szolgáltat vagy 50 főnél kevesebb személyt lát el, és a vizet közösségi létesítményben vagy kereskedelmi célra szánt élelmiszer előállítására nem használják.
+(2a)[^3] E rendeletet nem kell alkalmazni
 
-(3)[^2] A (2) bekezdés f) pontja szerinti esetben az illetékes népegészségügyi szerv meghatározza azokat a feltételeket, amelyek elősegítik a fogyasztók egészségének védelmét a víz esetleges szennyeződéséből eredő káros hatásokkal szemben.
+a) az 50 személynél kevesebbet ellátó vagy
+
+b) a napi 10 m3 mennyiségnél kevesebb vizet szolgáltató
+
+egyedi vízellátásból származó ivóvízre, ha azt nem kereskedelmi vagy közszolgáltatáshoz kapcsolódó tevékenység keretében szolgáltatják.
+
+(3)[^4] A (2a) bekezdés szerinti esetben az illetékes népegészségügyi szerv meghatározza azokat a feltételeket, amelyek elősegítik a fogyasztók egészségének védelmét a víz esetleges szennyeződéséből eredő káros hatásokkal szemben.
 
 (4) Ha a (3) bekezdésben foglaltak átmenetileg nem teljesíthetők és az ivóvíz fogyasztása az emberi egészséget károsíthatja, a vízellátó rendszer üzemeltetője haladéktalanul köteles erről az érintett lakosságot és az érintett települési önkormányzato(ka)t tájékoztatni.
 
-[^1]: Az 1. § (2) bekezdés e) pontja a 351/2010. (XII. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 51. pontja, a 65/2009. (III. 31.) Korm. rendelet 9. § (4) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 86. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2a) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 51. pontja, a 351/2010. (XII. 30.) Korm. rendelet 86. §-a, a 430/2013. (XI. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

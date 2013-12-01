@@ -180,6 +180,6 @@
 
 ## A biológiai vizsgálatokat a vonatkozó (nemzetközi vagy hazai) szabványok szerint kell végezni.
 
-4. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^70]
+4. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^82]
 
-[^70]: A 4. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének g) pontja, a 65/2009. (III. 31.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^82]: A 4. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének g) pontja, a 65/2009. (III. 31.) Korm. rendelet 8. § (3) bekezdése, a 430/2013. (XI. 15.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.

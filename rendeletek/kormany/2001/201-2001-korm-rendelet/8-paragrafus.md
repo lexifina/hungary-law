@@ -2,22 +2,16 @@
 
 ## vonatkozó előírások
 
-8. §[^47] (1) Ivóvíz-szolgáltató létesítmények esetében az üzemeltető(k)nek minden intézkedést meg kell tenni annak érdekében, hogy az ivóvíz előállítása (beszerzése, kezelése, tárolása) és elosztása során használt vízkezelési technológiák és anyagok okozta szennyeződés ne juthasson az ivóvízbe olyan koncentrációban, hogy az veszélyt jelentsen az emberi egészségre.
+8. §[^54] (1) Az ivóvízellátó rendszereket üzemeltetőnek minden intézkedést meg kell tennie annak érdekében, hogy az ivóvíz előállítása (beszerzése, kezelése, tárolása, elosztása) során a vízzel érintkezésbe kerülő anyagok, termékek, a vízkezelési eljárások ne jelentsenek veszélyt az emberi egészségre, az élelmiszerbiztonságra és hatásukra ne történjen vízminőségromlás.
 
-(2) Az ivóvíz előállítása során használt hagyományos technológiák, valamint az ivóvízzel érintkezésbe kerülő hagyományos szerkezeti anyagok listáját és az ezekre vonatkozó előírásokat az 5. számú melléklet 2. része tartalmazza.
+(2) Magyarország területén csak az e rendeletnek megfelelő, vízzel érintkezésbe kerülő anyagok, termékek és technológiák használhatóak.
 
-(3) Az ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák alkalmazását – az 5. számú melléklet 2. részében felsorolt hagyományos anyagok és technológiák kivételével – közegészségügyi szempontból az OTH engedélyezi. Az engedélyezés során az OTH figyelembe veszi a vízzel érintkező anyagból kioldódó szennyező anyagok jelenlétét, vizsgálja, hogy a felhasználandó anyag, termék, technológia alkalmazása nem eredményezi-e a mikrobiológiai minőség romlását, továbbá kellemetlen íz- és szaganyagok ivóvízbe kerülését. Az ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére használni kívánt technológiák alkalmassága megítélésének részletes szempontjait az OTH az ÁNTSZ honlapján közzéteszi. A kérelem tartalmi követelményeit az 5. számú melléklet 1. része tartalmazza.
+(3) A vízzel közvetlenül érintkező anyagok, termékek bejelentésének meglétét, a bejelentésben foglalt alkalmazási feltételek betartását, a technológiák ivóvízbiztonsági engedélyének meglétét, az engedélyben foglalt előírások teljesülését, a tájékoztatási kötelezettség betartását az illetékes népegészségügyi szerv ellenőrzi.
 
-(4)[^48] A (3) bekezdés szerinti alkalmazási engedély határozatlan időre szól. A határozatlan időre szóló engedély alapjául szolgáló dokumentációban szereplő, az engedélyben megjelölt adatok, illetve minőség módosulása esetén az engedélyesnek a korábbi helyett új alkalmazási engedélyt kell kérnie. Az egyéb adatokban bekövetkező változások tekintetében az engedélyest bejelentési kötelezettség terheli.
+(4) Amennyiben egy már nyilvántartásban lévő anyagot, terméket vagy ivóvízbiztonsági engedéllyel rendelkező technológiát az OTH közegészségügyi szempontból kockázatosnak ítél meg, a bejelentőt vagy engedélyest további vizsgálatokra kötelezi.
 
-(5)[^49] Az engedélyezett anyagok, termékek, technológiák közegészségügyi felülvizsgálatát az engedélyesnek, ha az engedély ettől eltérő időt nem határoz meg, ötévente az OTH-nál kell kérelmezni.
+(5) Az OTH az anyagot, terméket a nyilvántartásból törli vagy az ivóvízbiztonsági engedélyt visszavonja, ha a (4) bekezdés szerinti további vizsgálatok eredménye indokolja.
 
-(6)[^50] A (3) bekezdés szerint kiadott engedélyekről az OTH nyilvántartást vezet, amelyet az ÁNTSZ honlapján havonta, bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzétesz.
+(6) A (4) bekezdésben foglaltaktól eltérően az OTH további vizsgálatok elrendelése nélkül, haladéktalanul visszavonja az ivóvízbiztonsági engedélyt, illetve törli az anyagot, terméket a nyilvántartásból, ha a közegészségügyi kockázat olyan magas, hogy a kockázatcsökkenés lehetősége a további vizsgálatok eredményétől sem várható.
 
-(7)[^51]
-
-[^47]: A 8. § a 65/2009. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^48]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 238. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^49]: A 8. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 238. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^50]: A 8. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 238. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^51]: A 8. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 239. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A 8. § a 430/2013. (XI. 15.) Korm. rendelet 8. §-ával megállapított szöveg.

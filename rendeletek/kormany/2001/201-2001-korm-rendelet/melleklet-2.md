@@ -194,10 +194,6 @@
 
 | Keménység | min. 50 max. 350 | mg/l CaO | 11. megjegyzés |
 
-| Fenolindex | 20 | μg/l | 12. megjegyzés |
-
-| Olajszármazékok | 50 | μg/l | 12. megjegyzés |
-
 | RADIOAKTIVITÁS |  |  |  |
 
 | Tricium | 100 | Bq/l | 13. és 14. megjegyzés |
@@ -222,7 +218,7 @@
 
 ## 5. Tartályban forgalmazott vízre a jelen melléklet A) részében foglaltak vonatkoznak.
 
-## 6. Az illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve vízműre, illetve mintavételi pontra; a 4. § (1) bekezdés d) pontjában meghatározott megfelelőségi ponttól a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága mintavételi pontra határértéket szabhat meg, amelyet 90%-os gyakorisággal kell betartani; az eseti túllépés e határértéknek legfeljebb a négyszerese lehet. A 37 °C-os telepszámot csak a 2. számú melléklet szerinti esetekben kell meghatározni.
+## 6. Az illetékes népegészségügyi szerv vízműre, illetve mintavételi pontra; azon megfelelőségi ponttól, ahol a 178/2002/EK rendelet szerinti ivóvizet az élelmiszer-előállításhoz, illetve -kezeléshez az élelmiszer-higiénia biztosítása érdekében felhasználják, a fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága mintavételi pontra – a vízműre, illetve a mintavételi pontra jellemző szokásos érték figyelembevételével – határértéket szabhat meg, amelyet 90%-os gyakorisággal kell betartani; az eseti túllépés e határértéknek legfeljebb a négyszerese lehet. A 37 °C-os telepszámot csak a 2. számú melléklet szerinti esetekben kell meghatározni.
 
 ## 7. Tartályban forgalmazott vízre az egység: szám/250 ml.
 
@@ -264,27 +260,33 @@
 
 | véglények | 0 | szám/l | 2. |
 
-| férgek | 0 | szám/l | 3. |
+| fonálférgek (Nematoda) | 5 | szám/l | 3. |
+
+| egyéb férgek | 0 | szám/l | 4. |
+
+| szennyezettség jelző |  |  |  |
 
 | baktériumok | 0 | szám/l | 1. |
 
 | gombák | 0 | szám/l | 1. |
 
-| vas- és mangánbaktériumok | 2.104 | szám/l |  |
+| vas- és mangánbaktériumok | 2x104 | szám/l | 5. |
 
-| egyéb baktériumok | 102 | szám/l | 5. |
+| kénbaktériumok | 102 | szám/l | 6. |
 
-| algák és cianobaktériumok | 104 | szám/l | 6. |
+| algák és cianobaktériumok | 5x103 | szám/l | 7. |
+
+| magasabb rendű szervezetek | 0 | szám/l | 8. |
 
 ## Megjegyzések:
 
-## 1. Legalább 1 liter vízmintából 0,45 μm-es membránszűrőn kiszűrt, lemosott, majd centrifugálva tömörített anyagként mérve.
+## 1. Legalább 1 liter vízmintából 0,45 µm-es membránszűrőn kiszűrt, lemosott, majd centrifugálva tömörített anyagként mérve.
 
 ## Ez az üledék sem tartalmazhat
 
-## – háztartási, ipari vagy mezőgazdasági eredetű anyagokat;
+## a) háztartási, ipari vagy mezőgazdasági eredetű anyagokat;
 
-## – natív készítményben meghatározható, szennyezettséget jelző baktériumokat (pl. Spirillum, Spirochaeta, Sarcina, Zooglea), baktériumtelepeket, gombákat (pl. Fusarium, Leptomitus).
+## b) natív készítményben meghatározható, szennyezettséget jelző baktériumokat (pl. Spirillum, Spirochaeta, Sarcina, Zooglea, Beggiatoa), baktériumtelepeket, gombákat (pl. Fusarium, Leptomitus, Candida, kivéve: Alternaria, Cladosporium fajokat, melyek előfordulását az üledék minőségénél jelezzük és a szennyezés okát ki kell deríteni).
 
 ## Ha az üledékben csak elpusztult szervezeteket lehet kimutatni, célszerű deklórozott mintából víztoxikológiai ellenőrző vizsgálatot is végezni.
 
@@ -292,15 +294,19 @@
 
 ## A betáplált vízben levő szervezetektől eltérő élőlények a vízfogyasztás helyén nem válhatnak jellemzővé.
 
-## 2. Szennyezettséget jelző alfamezoszaprób, poliszaprób szervezetek: Flagelláták, Ciliaták, Rhizopodák stb., különös tekintettel a patogénekre, a fakultatív patogénekre és cisztáikra.
+## 2. Szennyezettséget jelző indikátor szervezetek: Flagelláták, Ciliaták, Rhizopodák különös tekintettel a patogénekre, a fakultatív patogénekre és cisztáikra (kivéve a házzal vagy héjjal rendelkező fajokat, pl. Centropyxis, Difflugia, Euglypha stb., melyek határértéke 5 szám/l, de előfordulásuk okát ki kell deríteni, és számuk csökkentése érdekében az üzemeltetőnek be kell avatkoznia).
 
-## 3. Nematoda-, Oligochaeta-, Ascarida-, Gastrotricha- stb. fajok és petéik, cocconjaik.
+## 3. Nematoda fajok: a csoportba kizárólag a Nematoda egyedek tartoznak. Mivel a petéik egyértelműen nem különíthetőek el más férgek petéitől, azokat az egyéb férgek kategóriába kell sorolni. Nematoda kimutatása esetén, számuk csökkentése érdekében az üzemeltetőnek be kell avatkoznia.
 
-## 4. Telepes baktériumok esetén ennek 100-ad része.
+## 4. Oligochaeta-, Ascarida-, Gastrotricha-, Rotatoria-fajok és minden egyéb, feltehetően féregtől származó pete, coccon és egyéb kitartó képlet.
 
-## 5. Kénbaktériumok.
+## 5. Telepes baktériumok esetén a határérték a megadott határérték századrésze.
 
-## 6. Felszíni vízből nyert ivóvíz esetén, egyéb esetben a határérték ennek tizedrésze.
+## 6. Kivéve a Beggiatoa fajokat, melyek a szennyezettségjelző baktériumok csoportjába sorolandóak.
+
+## 7. Felszíni vízből nyert ivóvíz esetén; parti szűrés esetén a határérték a megadott határérték tizedrésze, minden más esetben a határérték a megadott határérték ötvened része.
+
+## 8. Magasabb rendű szervezetek (pl. ízeltlábúak, medveállatkák és egyéb többsejtű szervezetek) ivóvízben való előfordulása esetén ivóvíztisztítási technológiát érintő beavatkozásra van szükség.
 
 ## F) Ideiglenes határértékek
 
@@ -320,6 +326,6 @@
 
 ## * Az ideiglenes határérték első életévüket be nem töltött csecsemők és várandós anyák ivóvízellátásában nem alkalmazható.
 
-2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^68]
+2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^80]
 
-[^68]: A 2. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének e) pontja, a 65/2009. (III. 31.) Korm. rendelet 8. § (2) bekezdése és 9. § (4) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 85. §-a, a 23/2012. (II. 29.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^80]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

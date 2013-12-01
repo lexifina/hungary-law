@@ -1,166 +1,181 @@
-## Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező
+## I. Ivóvízellátásban a vízzel közvetlenül érintkező anyagok, termékek bejelentésének és a technológiák ivóvízbiztonsági engedélyezésének feltételei
 
-## termékek és a víz kezelésére alkalmazni kívánt anyagok és technológiák engedélyezésének követelményei
+## A) Nyilvántartásba vételhez bejelentésköteles termékcsoportok
 
-## 1. Az OTH-hoz benyújtott kérelem tartalmi követelményei
+## 1. Ivóvízkezelésben használatos olyan vegyszerek (oxidáló, flokkuláló, koaguláló stb.), amelyek minőségi követelményeire vonatkozóan nincs MSZ EN szabvány.
 
-## 1.1. Az anyag megnevezését, kémiai összetételét (szerkezetét), fizikai, kémiai tulajdonságait (szín, szag, sűrűség stb.)
+## 2. Ivóvíz kezelésére használatos termékek: fizikai kezelésére szolgáló szűrő, adszorbens, ioncserélő gyanta, membrán, szűrőanyag, helyszíni klór-, klórdioxid-fejlesztő, desztilláló-, dializáló- és fordított ozmózisos, UV sugárzó berendezés.
 
-## 1.2. Az előállításához felhasznált anyagok jegyzékét (kémiai elnevezések).
+## 3. Műanyag csövek és tartályok és tárolók [polietilén (PE), polipropilén (PP), polivinilklorid (PVC), akrilonitril-butadién-sztirén kopolimer (ABS), polietilén-tereftalát (PET), üvegszál erősítésű műanyag (GRP) stb.], műanyag bevonattal ellátott fém csövek, műanyagok szigetelő membránok.
 
-## 1.3. A gyártó cég nevét, telephelyét.
+## 4. Fém csövek és tartályok (beleértve a rozsdamentes acél termékeket is), kerámia és zománc bevonatok.
 
-## 1.4. A termék előállításának technológiáját, beleértve az esetleges utókezelést.
+## 5. Csövekhez és tartályokhoz kapcsolódó szerelvények, szelepek, csapok, szivattyúk, vízórák, ragasztó, javító és tömítő anyagok.
 
-## 1.5. A gyártásra vonatkozó minőségbiztosítást.
+## 6. Beton, habarcs és adalékanyagok, helyszínen készített in-situ PE javító és lamináló bevonat, epoxi, poliuretán bázisú műanyag bevonat, korrózióvédelmi bevonat, bevonatrendszerek.
 
-## 1.6. A nem kívánatos, nem reagált monomerek és egyéb maradékok, szennyezőanyagok, melléktermékek kimutatására szolgáló analitikai módszerek leírását és határértékeket (minőségi bizonyítványt).
+## B) Bejelentésre nem kötelezett termékcsoportok
 
-## 1.7. A termék felhasználási területét (részletezve).
+## 1. Ivóvízkezelésben használatos olyan vegyszerek (oxidáló, flokkuláló, koaguláló), amelyek minőségi követelményeire vonatkozó MSZ EN szabványnak a termékminőség megfelel. A szabványszámot a termék címkézésén fel kell tüntetni.
 
-## 1.8.[^71] Az OKI vizsgálati eredményeit és szakvéleményét.
+## 2. Ivóvízkezelésben használatos természetes ásványi és szervetlen segédanyag, szűrőanyagok, amelyek minőségi követelményeire vonatkozóan van MSZ EN, MSZ EN ISO szabvány.
 
-## 2. A külön jogszabály hatálya alá nem tartozó, vízkezelésben használt vegyszer esetében az 1.1–1.8. pontokban felsoroltakon kívül:
+## 3. Közüzemi ivóvízkezelő eljárás, amely az A) pont szerinti elemeket nem tartalmazza, vagy amelyről az OKI azt megállapítja.
 
-## 2.1. Az adagolható mennyiséget – normál, maximális dózis.
+## 4. Amennyiben az OKI szakvéleményében megállapította, hogy az alkalmazás közegészségügyi és vízbiztonsági kockázata a fogyasztóra nézve elhanyagolható.
 
-## 2.2. Az adagolás módját és ennek ellenőrzését.
+## C) Bejelentés közösségi használatra szánt használati melegvízzel és medencés fürdővízzel érintkező termékcsoportok esetében
 
-## 2.3. A termék ivóvízben lévő koncentrációja meghatározásának módszerét.
+## A 8/A. §-ban foglalt előírás alapján a közösségi használatra szánt használati melegvízzel és medencés fürdővizekkel érintkezésbe kerülő anyagok, termékek tekintetében az A) és B) pont szerinti előírást kell alkalmazni.
 
-## 2.4. Biztonságtechnikai adatlapját.
+## D) Ivóvízbiztonságiengedély-köteles technológiák
 
-## 2.5. A keletkező hulladék elhelyezésének tervét.
+## 1. Hálózativíz-utókezelő vagy vízadagoló, ballonos vízadagoló kisberendezés
 
-## 3. Szerkezeti anyag, bevonat (rendszer) esetében az 1.1–1.8. pontokban felsoroltakon kívül:
+## 2. Újonnan létesülő közüzemi ivóvízkezelő eljárás, amely az alábbi vízkezelő eljárások egyikét alkalmazza:
 
-## 3.1. Az anyag beépítési módjára vonatkozó leírást (utasítást).
+## 2.1. klóroxidációval történő ammónium eltávolítás,
 
-## 3.2. Az anyag karbantartására, tisztítására, fertőtlenítésére vonatkozó utasítást.
+## 2.2. a fordított ozmózisos vízkezelés,
 
-## 4. Technológia esetében a kérelemben a technológia olyan leírása szükséges, aminek alapján az új eljárás által elérhető vízminőség-változás megítélhető. Meg kell adni az eljárás során használni kívánt anyagokat (új anyag esetében az 1.1–1.8. és 2.1–2.5. pontokban foglaltak szerint), a technológia jellemzésére szolgáló számszerű értékeket, a folyamat ellenőrzésének módját, eszközeit, a várható eredményt igazoló adatokat (kísérleti, félüzemi berendezésnél mért értékek, referenciák).
+## 2.3. kémiai katalitikus folyamaton alapuló víztisztítási eljárások [ami nem tartozik a B) pont 4. alpontjába],
 
-## 5. A kérelemhez benyújtott segédanyagok, referenciák magyar vagy angol nyelvűek lehetnek. Egyéb külföldi dokumentum esetén magyar fordítás és az eredeti anyag másolata is mellékelendő.
+## 2.4. biológiai, biotechnológiai vízkezelés,
 
-## 2. Hagyományos technológiák, anyagok jegyzéke
+## 2.5. felszíni vízből közvetlenül történő ivóvíz előállítás.
 
-## Hagyományos vízkezelési technológiának tekintendők azok az eljárások, amelyeket az illető egyetemi tankönyvek (jegyzetek) ilyen címmel (megnevezéssel) tárgyalnak, illetve a vonatkozó szakkönyvek bevált eljárásként mutatnak be. Vitás esetben az OKI véleménye mértékadó.
+## II. Az OTH-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei
 
-## Az ivóvizek termelése, szállítása, vezetése, tárolása, kezelése során használatos hagyományos anyagok listája:
+## 1. Minden esetben be kell nyújtani az 1.1–1.9. pontokban felsoroltakat.
 
-## A) Korlátozás nélkül felhasználhatóak:
+## 1.1. Az anyag megnevezése, kémiai összetétele (szerkezete), fizikai, kémiai tulajdonságai (szín, szag, sűrűség stb.).
 
-## saválló acél
+## 1.2. Az előállításához felhasznált anyagok jegyzéke (kémiai elnevezések).
 
-## acél
+## 1.3. A gyártó cég neve, telephelye.
 
-## öntöttvas
+## 1.4. A termék előállításának technológiája, beleértve az esetleges utókezelést.
 
-## beton*
+## 1.5. A gyártásra vonatkozó minőségbiztosítás.
 
-## vasbeton*
+## 1.6. A nemkívánatos, nem reagált monomerek és egyéb maradékok, szennyezőanyagok, melléktermékek kimutatására szolgáló analitikai módszerek leírása és határértékek (minőségi bizonyítvány).
 
-## azbeszt-cement**
+## 1.7. A termék felhasználási területe (részletezve).
 
-## homok
+## 1.8. Az OKI által kiadott pozitív elbírálású szakvélemény.
 
-## kavics
+## 1.9. Használati útmutató
 
-## márványzuzalék
+## 2. A külön jogszabály hatálya alá nem tartozó, vízkezelésben használt vegyszer esetében az 1.1–1.9. pontokban felsoroltakon kívül:
 
-## zeolit
+## 2.1. Az adagolható mennyisége – normál, maximális dózis.
 
-## mészkő
+## 2.2. Az adagolás módja és ennek ellenőrzése.
 
-## égetett, oltott mész
+## 2.3. A termék ivóvízben lévő koncentrációja meghatározásának módszere.
 
-## kerámiatermék (üveg, porcelán, kőedény)
+## 2.4. Egy évnél nem régebbi biztonsági adatlap (CAS és EINCS számmal).
 
-## aluminium 99,9%-os.
+## 2.5. A keletkező hulladék elhelyezésének terve.
 
-## (A termékek minősége tekintetében az EN, illetőleg EN–MSZ szabványok mérvadók.)
+## 3. Szerkezeti anyag, bevonat (rendszer) esetében az 1.1–1.9. pontokban felsoroltakon kívül:
 
-## _______
+## 3.1. Az anyag beépítési módjára vonatkozó leírás (utasítás).
 
-## * Szerves adalékanyag nélkül.
+## 3.2. Az anyag karbantartására, tisztítására, fertőtlenítésére vonatkozó utasítás.
 
-## ** Az egyes veszélyes anyagokkal, illetve veszélyes készítményekkel kapcsolatos egyes tevékenységek korlátozásáról szóló 41/2000. (XII. 20.) EüM–KöM együttes rendelet alapján a krizotilt tartalmazó termékek 2005. január 5-ét követően nem forgalmazhatók és nem használhatók fel.
+## 4. Vízkezelő eljárás esetében olyan leírás és adatok szükségesek, amelyek alapján a kezelés eredményessége, hatásai közegészségügyi és vízbiztonsági szempontból megítélhetők.
 
-## B) Termékek, amelyek előállítása nemzetközi előírásoknak megfelelő minőségbiztosítás mellett történik:
+## 5. A kérelemhez benyújtott dokumentumok, referenciák magyar vagy angol nyelvűek lehetnek. Egyéb nyelvek esetén magyar fordítást és az eredeti szakmai anyag másolatát kell mellékelni.
 
-## vörösréz
+## 6. Igazgatási szolgáltatási díj megfizetését igazoló dokumentum.
 
-## bronz
+## III. Az OTH-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei
 
-## sárgaréz
+## 1. A felülvizsgálatról szóló OKI által kiadott pozitív elbírálású szakvélemény.
 
-## horganyozott vas
+## 2. Gyártói nyilatkozat a termék változatlan gyártási körülményeiről.
 
-## aluminium ötvözetek
+## 3. Nyilatkozat a termék változatlanságáról (különös tekintettel az összetételére a gyártás során felhasznált alap- és segédanyagok minőségére, a felépítésére, típusára, gyártójára).
 
-## aluminium-szulfát
+## 4. Igazolás, nyilatkozat arról, hogy a hatósági igazolásban foglalt feltételek teljesülnek.
 
-## nátrium-aluminát
+## 5. Igazgatási szolgáltatási díj megfizetését igazoló dokumentum.
 
-## egyéb szervetlen aluminium vegyületek
+## 6. Használati útmutató
 
-## vas (III)-klorid
+## IV. Szempontok a vízellátásban használni kívánt szerkezeti anyagok vizsgálatához
 
-## vas (II)-szulfát
+## A vízkioldási vizsgálatok arra terjednek ki, hogy az engedélyezni kért termékből milyen mértékben oldódnak ki anyagok, amelyek a víz ízét, szagát, színét megváltoztatják, illetve szerves anyagok, amelyek mikroorganizmusok szaporodását, megtelepedését elősegítik, vagy esetleg toxikus anyagok, amelyek a víz felhasználását kockázatossá tehetik.
 
-## aktivált kovasav
+## Vízellátás területén alkalmazni kívánt termékek esetében az áztatást 23±2 °C-on végzik az ISO 8795 és EN 852-1 figyelembevételével.
 
-## kovasav
+## A használati melegvíz és fürdővízellátás területén történő minősítés esetén az alkalmazni kívánt legmagasabb hőmérsékleten történik az áztatás.
 
-## szóda
+## A csövek vizsgálatához egyik csővégen saját anyagával vagy semleges (pl. PTFE) anyaggal lezárt csövek kerülnek felhasználásra.
 
-## nátrium-hidroxid
+## Egyéb anyagnál (korróziógátló bevonatrendszerek, beton adalékanyagok, tömítő anyagok stb.) olyan próbatestek kerülnek áztatásra, ahol a próbatest teljes felületét borítja a minősítésre váró termék. Az áztatott felületet és az áztató tesztvíz mennyiségét a vizsgáló laboratórium határozza meg.
 
-## kálium-permanganát
+## A vizsgálandó anyagokat a vizsgálat előtt az áztatási hőmérsékleten egynapi előáztatásnak vetik alá. Ezt az áztató tesztvizet elöntik, és utána a mintát, illetve a próbatesteket a vizsgálatok elvégzéséhez naponta cserélt tesztvízzel tovább áztatják.
 
-## nátrium-klorit.
+## A kioldási vizsgálat során az 1., 2. és 6. napos áztató vizeket vizsgálják. Kedvezőtlen eredmény esetén az áztatást folytatják, és a kritikus komponenseket a 7., 8. és 9. nap után is mérik.
 
-## A B) csoportba sorolt anyagoknál nyílvántartásba vételhez a következőket kell benyújtani:
+## A vizsgálat során kioldódó anyagok mennyiségét felületegységre átszámítva értékelik attól is függően, hogy milyen a felhasználás módja. Műanyagok esetén a kioldódó összes szerves széntartalmat (TOC) minden esetben mérni és értékelni kell. A minősítés szempontjait az OKI a honlapján közzéteszi.
 
-## – a termék neve,
+6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^84]
 
-## – a gyártó cég,
+Az ivóvízbiztonsági terv tartalmi követelményei
 
-## – a termék leírása, kémiai összetétele (az előállításhoz felhasznált alap- és segédanyagok jegyzéke) CAS-szám megadásával,
+A vízellátórendszer főbb elemein végigvezetve kell a szükséges adatokat, a lehetséges veszélyeket, a kockázatértékelés módját, a beavatkozási lehetőségeket, és az ellenőrző rendszert a vízbiztonsági tervben rögzíteni.
 
-## – biztonságtechnikai adatlap,
+1. Víznyerő hely, nyersvíz-források védelme
 
-## – a termék felhasználási területe,
+1.1. Rendszer leírása
 
-## – használati utasítás,
+1.2. Veszélyek azonosítása
 
-## – a gyártásra vonatkozó minőségbiztosítás,
+1.3. Kockázatértékelés
 
-## – az anyag tisztaságára vonatkozó előírások és annak dokumentálása (minőségi bizonylat),
+1.4. Beavatkozás, ellenőrző pontok
 
-## – az adagolt mennyiség ellenőrzésének módja,
+1.5. Értékelés, ellenőrző mérések
 
-## – a keletkező hulladék elhelyezése.
+2 Vízkezelés
 
-## 3. Szempontok a vízellátásban használni kívánt szerkezeti anyagok vizsgálatához
+2.1. Rendszer leírása
 
-## A vízkioldási vizsgálatok arra terjednek ki, hogy az engedélyezni kért termékből milyen mértékben oldódnak ki anyagok, amelyek a víz ízét, szagát, színét megváltoztatják, szerves anyagok, amelyek mikroorganizmusok szaporodását, megtelepedését elősegítik, vagy esetleg toxikus anyagok, amelyek a víz felhasználását kockázatossá tehetik.
+2.2. Veszélyek azonosítása
 
-## Vízellátás területén alkalmazni kívánt termékek esetében az áztatást 23±2 °C-on végzik az ISO 8795 és EN 852–1 figyelembevételével.
+2.3. Kockázat értékelése
 
-## Használati melegvízellátás területén történő engedélyeztetés esetén 60±2 °C -on vagy 80±2 °C -on történik az áztatás.
+2.4. Beavatkozás, ellenőrző pontok meghatározása
 
-## A csövek vizsgálatához egyik oldalon saját anyagával vagy semleges (pl. PTFE) anyaggal lezárt csövek kerülnek felhasználásra.
+2.5. Értékelés, ellenőrző mérések
 
-## Egyéb anyagnál (korroziógátló bevonatrendszerek, beton adalékanyagok, tömítő anyagok stb.) olyan próbatestek kerülnek áztatásra, ahol a próbatest teljes felületét borítja a minősítésre váró termék. Az áztatott felületet és az áztató víz mennyiségét a vizsgáló laboratórium határozza meg.
+3. Elosztóhálózat
 
-## A vizsgálandó anyagokat az áztatási hőmérsékleten egynapi előáztatásnak vetik alá. Ezt a vizet elöntik, és utána a mintát, illetve a próbatesteket mossák.
+3.1. Rendszer leírása
 
-## A kioldási vizsgálat során általában az 1., 2. és 6. napos áztató vizeket vizsgálják. Kedvezőtlen eredmény esetén az áztatást folytatják, és a kritikus komponenseket a 7., 8. és 9. nap után is mérik.
+3.2. Veszélyek azonosítása
 
-## A vizsgálat során kioldódó anyagok mennyiségét felületegységre átszámítva értékelik attól is függően, hogy milyen a felhasználás módja. Műanyagok esetén a kioldódó szerves anyagot (TOC) minden esetben mérni és értékelni kell.
+3.3. Kockázatértékelés
 
-6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^72]
+3.4. Beavatkozás, ellenőrző pontok meghatározása
 
-[^71]: Az 5. számú melléklet 1.8 pontja a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése szerint módosított szöveg.
-[^72]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
+3.5. Értékelés, ellenőrző mérések
+
+4. Fogyasztói pontok
+
+4.1. A vízellátó rendszer leírása a felhasználási pontokon a fogyasztói csapig
+
+4.2. Veszélyek azonosítása
+
+4.3. Kockázatértékelés
+
+4.4. Beavatkozás, ellenőrző pontok meghatározása
+
+4.5. Értékelés, ellenőrző mérések
+
+5. A fogyasztásra szánt ivóvíz egészségre és fogyaszthatóságra vonatkozó veszélyeinek kezelésére, kockázatuk csökkentésére beállított egyedi szabályzó dokumentumok és munkautasítások.
+
+[^84]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be.
