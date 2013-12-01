@@ -2,7 +2,7 @@
 
 a) 1. § (3) bekezdésében az „állami támogatás” szövegrész helyébe a „támogatás” szöveg,
 
-b) 4. § (2) bekezdés b) pontjában, 6. § (2) bekezdés b) pontjában és (4) bekezdésében az „az átmeneti vagy tartós nevelésbe vett” szövegrész helyébe az „a nevelésbe vett” szöveg,
+b)
 
 c) 3. § (2) bekezdésében, 3. § (3) bekezdés f) pontjában, 5. § (1) bekezdés a) pontjában és (4) bekezdés a) pont ae) alpontjában az „az állami támogatás” szövegrész helyébe az „a támogatás” szöveg,
 

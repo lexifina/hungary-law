@@ -1,6 +1,4 @@
-9. § (1) A Fétám tv. a következő 11. §-sal egészül ki:
-
-„11. § E törvénynek a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2013. évi CXC. törvénnyel megállapított 9/B. §-át a 2014. tárgyévre vonatkozóan kell először alkalmazni. A 2013. tárgyévről szóló adatszolgáltatást e törvény 2013. december 31-én hatályos 9/B. §-a szerint kell teljesíteni.”
+9. § (1)
 
 (2) A Fétám tv. a következő 12. §-sal egészül ki:
 
