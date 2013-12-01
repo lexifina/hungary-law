@@ -2,7 +2,7 @@
 
 5. § (1) Az életkezdési támogatásra való jogosultság érvényesítéséhez – a 2005. december 31. napja után született gyermekekre vonatkozóan
 
-a) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a naptári hónapban nyilvántartásba vett gyermekekről a gyermek adóazonosító jelének megállapítása céljából az adózás rendjéről szóló törvényben előírt adatokról, azok naptári hónapban rögzített változásairól, valamint a kiutaló e törvény szerinti kötelezettségeinek teljesítése – így különösen a kincstári letéti Start-számlán lévő követelés áthelyezése, az állami támogatás kiutalása – céljából szükséges adatokról és a gyermek lakcíméről havonta, a naptári hónap utolsó napját követő 5 munkanapon belül elektronikus úton adatot szolgáltat az állami adóhatóság részére,
+a) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a naptári hónapban nyilvántartásba vett gyermekekről a gyermek adóazonosító jelének megállapítása céljából az adózás rendjéről szóló törvényben előírt adatokról, azok naptári hónapban rögzített változásairól, valamint a kiutaló e törvény szerinti kötelezettségeinek teljesítése – így különösen a kincstári letéti Start-számlán lévő követelés áthelyezése, a támogatás kiutalása – céljából szükséges adatokról és a gyermek lakcíméről havonta, a naptári hónap utolsó napját követő 5 munkanapon belül elektronikus úton adatot szolgáltat az állami adóhatóság részére,
 
 b) az állami adóhatóság az a) pont szerinti adatszolgáltatást követő öt munkanapon belül a gyermek adóazonosító jelét elektronikus úton átadja a kiutaló részére, továbbá kiállítja az adóigazolványt, és a gyermek lakóhelyére postai úton megküldi, valamint a kiutaló részére öt munkanapon belül elektronikus úton továbbítja az e törvény szerinti kötelezettségeinek teljesítéséhez szükséges adatokat.
 
@@ -42,7 +42,7 @@ ac) ha a megállapodást – 16. életévének betöltését követően – a gy
 
 ad) a 2006. január 1-jét megelőzően született gyermek adóazonosító jelének közlése az adóigazolvány bemutatásával,
 
-ae) felhatalmazás a számlavezető részére a 3. § (3) bekezdése szerinti adatkezeléshez és az állami támogatás igényléséhez,
+ae) felhatalmazás a számlavezető részére a 3. § (3) bekezdése szerinti adatkezeléshez és a támogatás igényléséhez,
 
 af) a Start-számlára a 6. § (1) bekezdés a) pontja alapján történő befizetéshez a befizető felhatalmazása a számlavezető részére, hogy a befizetett összeg esetleges visszautalásához a befizető nevét és levelezési címét vagy folyószámlaszámát nyilvántartsa,
 
@@ -70,7 +70,7 @@ ec) az ea) pontban foglalt rendelkezéstől függetlenül is, a 6. § (5) bekezd
 
 (6) Ha a gyermek Start-számlával rendelkezik, a második és a harmadik utalási összeget – a gyermek hetedik vagy tizennegyedik születésnapjától az utalást megelőző napig felszámított, az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ Zrt. által az utalást megelőző napon közzétett mértékű kamattal növelten – a kiutaló a 9/B. § szerinti adatszolgáltatás beérkezését követő 30 napon belül – felróható késedelem esetén az utalás összege után napi 3,5 ezrelék késedelmi kamattal növelten – utalja a számlavezetőhöz.
 
-(7) A Start-számlán vagy ennek hiányában a kincstári letéti Start-számlán nyilvántartott követelés kifizetését – a számla megszüntetésével –
+(7) A Start-számlán, a 7. § (6) bekezdése szerint a Start-számlából létrejött számlán vagy ezek hiányában a kincstári letéti Start-számlán nyilvántartott követelés kifizetését – a számla megszüntetésével –
 
 a) a fiatal felnőtt 18. életévének betöltése napjától, de legkorábban a Start-számla megnyitását követő harmadik év elteltétől,
 

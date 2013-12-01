@@ -4,7 +4,7 @@
 
 a) a kincstári letéti Start-számlán nyilvántartott követelés után
 
-aa) évenként december 31-i fordulónappal,
+aa) évenként február 1-jei fordulónappal,
 
 ab) a nyilvántartott követelés Start-számlára történő áthelyezése esetén az utalást megelőző napon,
 
@@ -12,15 +12,25 @@ ac) a gyermek külföldre települése esetén távozásának napján,
 
 ad) a gyermek adóazonosító jelének passzívvá válása napján,
 
-ae) elhunyta esetén halálának napján
+ae) a gyermek halála esetén az elhalálozás napján
 
-az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ ZRt. által a jóváírás napján közzétett mértékű kamat alapján a nyilvántartott követelés utolsó fordulónaptól számított időszakban meghatározott átlagos állománya után számított támogatást,
+a jóváírás évét megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat, negatív éves fogyasztói árindex esetén nulla százalékos kamat alapján a nyilvántartott követelés utolsó fordulónapjától számított időszakban meghatározott átlagos állománya után számított támogatást,
 
-b) a gyámhatóság által a naptári évet követő év február 15-éig megküldött – az átmeneti vagy tartós nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint állami támogatást
+b) a gyámhatóság által a naptári évet követő év február 15-éig megküldött – a nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legkorábban a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint támogatást
 
 ír jóvá.
 
-(2) Start-számla követelés kezelésére bankbetét vagy a tőkepiacról szóló törvény szerint nyilvánosan forgalomba hozott állampapír, tőke- vagy hozamgarantált befektetési jegy választható.
+(1a) Az (1) bekezdés a) pontja szerinti esetben, ha a támogatás jóváírására okot adó körülmény felmerülése időpontjában a megelőző évre vonatkozó éves átlagos fogyasztói árindex százalékos mértéke nem ismert, a támogatás mértékének megállapítása a jóváírás évét kettővel megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat alapján történik.
+
+(2) Start-számla követelés kezelésére – a kincstárnál vezetett Start-számla kivételével – bankbetét vagy a tőkepiacról szóló törvény szerint nyilvánosan forgalomba hozott állampapír, tőke- vagy hozamgarantált befektetési jegy választható.
+
+(2a) A 2014. január 31-ét követően született gyermek részére a kincstárnál vezetett Start-számla követelést a tőkepiacról szóló törvény szerint nyilvánosan forgalomba hozott,
+
+a) január hónapban született gyermek esetén a születési évet megelőző évben,
+
+b) februártól decemberig terjedő hónapokban született gyermek esetén a születési évben
+
+kibocsátásra kerülő, 19 éves futamidejű állampapírban kell kezelni.
 
 (3) A szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek bármikor jogosult a Start-számlán nyilvántartott követelésre vonatkozóan a számlavezető által felajánlott megtakarítási, befektetési lehetőségek között a Start-számla állományát vagy annak egyes elemeit átcsoportosítani, vagy magát a befektetés, megtakarítás teljes állományát a kiutalónál nyitott Start-számlára áthelyezni. Az áthelyezést megelőzően a befektetési jegyet értékesíteni kell, bankbetét esetén a lekötést meg kell szüntetni, és a Start-számla követelést pénzeszköz és állampapír formájában kell a kiutalónál nyitott Start-számlára áthelyezni.
 
@@ -34,31 +44,27 @@ b) a korábbi számlavezető az ígérvény alapján a nála vezetett Start-szá
 
 c) az új számlavezető – a befektetésre vonatkozó választást is figyelembe véve – a Start-számlát haladéktalanul megnyitja és erről a kiutalót tájékoztatja.
 
-(6) A fiatal felnőtt 18. életéve betöltésének napját, illetőleg a gyermek halála esetén elhunytának napját követően
-
-a) a gyermek nevén nyitott kincstári letéti Start-számlán nyilvántartott követelés után a támogatás jóváírás megszűnik;
-
-b) a Start-számla követelésre az általános jogszabályi rendelkezések – ideértve különösen a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény és a tőkepiacról szóló törvény rendelkezéseit – az irányadóak.
+(6) A fiatal felnőtt 18. életéve betöltésének napját, vagy a gyermek halála esetén elhunytának napját követően a gyermek nevén nyitott kincstári letéti Start-számlán nyilvántartott követelés után a támogatás jóváírás megszűnik. A (2a) bekezdésben és a 12. §-ban meghatározott állampapír futamidejének lejárta vagy a gyermek halála esetén elhunytának napja közül a korábbi időpontot követő 30. naptól a számla nem minősül a 2. § 5. pontja szerinti Start-számlának, a számlára és a számlakövetelésre az általános jogszabályi rendelkezések – ideértve különösen a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény és a tőkepiacról szóló törvény rendelkezéseit, továbbá a közterhekre vonatkozó előírásokat – az irányadóak.
 
 (7) Start-számlával összefüggésben felmerülő költségek miatt (megbízási díj, számlavezetési díj, jutalék stb. címen) a számlavezető évenként gyermekenként a Start-számla éves átlagos állománya legfeljebb 1 százalékának megfelelő díjat számíthat fel. E rendelkezést a gyermek 18. életéve betöltésének, illetőleg a gyermek halála esetén elhunytának napjáig kell alkalmazni.
 
 (8) Az életkezdési támogatást, illetőleg a gyermek halála esetén az örököst megillető összeget a fiatal felnőtt, illetőleg az örökös kérelmére
 
-a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – az állami támogatásnak a 7. § (1) bekezdés b) pontja szerinti jóváírását követő 8 munkanapon belül a kérelemben megjelölt címre vagy számlára utalja;
+a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – a támogatásnak a 7. § (1) bekezdés b) pontja szerinti jóváírását követő 8 munkanapon belül a kérelemben megjelölt címre vagy számlára utalja;
 
-b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – az állami támogatásnak a 6. § (4) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással fizeti ki.
+b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – a támogatásnak a 6. § (4) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással fizeti ki.
 
 (9) A kiutaló a (8) bekezdésben említetteket megillető összeget a kérelem kézhezvételétől számított 8 munkanapon belül
 
-a) fizeti ki, ha a kifizetés évére a gyermeket állami támogatás nem illeti meg;
+a) fizeti ki, ha a kifizetés évére a gyermeket támogatás nem illeti meg;
 
-b) a gyermeket a 6. § (2) bekezdés b) pontja szerint a kifizetés évében megillető állami támogatás nélkül fizeti ki, ha a kérelmező írásban hozzájárul annak a (8) bekezdés a) pontjában említett időpontot követő utólagos kifizetéséhez vagy nyilatkozik, hogy arra nem tart igényt.
+b) a gyermeket a 6. § (2) bekezdés b) pontja szerint a kifizetés évében megillető támogatás nélkül fizeti ki, ha a kérelmező írásban hozzájárul annak a (8) bekezdés a) pontjában említett időpontot követő utólagos kifizetéséhez vagy nyilatkozik, hogy arra nem tart igényt.
 
 (10) A számlavezető a (8) bekezdésben említetteket megillető összeget a kérelem kézhezvételétől számított 8 munkanapon belül
 
-a) fizeti ki, ha a kifizetés évére a gyermeket állami támogatás nem illeti meg;
+a) fizeti ki, ha a kifizetés évére a gyermeket támogatás nem illeti meg;
 
-b) a gyermeket a 6. § (2) bekezdése szerint a kifizetés évében megillető állami támogatás nélkül fizeti ki, ha a kérelmező írásban hozzájárul annak a (8) bekezdés b) pontjában említett időpontot követő utólagos kifizetéséhez vagy nyilatkozik, hogy arra nem tart igényt.
+b) a gyermeket a 6. § (2) bekezdése szerint a kifizetés évében megillető támogatás nélkül fizeti ki, ha a kérelmező írásban hozzájárul annak a (8) bekezdés b) pontjában említett időpontot követő utólagos kifizetéséhez vagy nyilatkozik, hogy arra nem tart igényt.
 
 (11) A számlavezető a gyermek adóazonosító jelének az 5. § (2) bekezdésének g) pontja szerinti passzivvá válásának napját követő 120 napon belül a számlát lezárja és a számla egyenlegét átutalja a kiutaló számlájára.
 

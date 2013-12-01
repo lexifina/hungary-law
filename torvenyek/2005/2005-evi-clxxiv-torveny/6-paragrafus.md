@@ -8,7 +8,9 @@ b) települési önkormányzat által a rendeletében meghatározott feltételek
 
 azzal, hogy a gyermek külföldi letelepedésének időszakában történő befizetés Start-számlán nem írható jóvá, azt a számlavezető a befizetőnek visszajuttatja, továbbá azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasználására vonatkozó korlátozást csak az önkormányzat által befizetett összeg(ek) mértékéig tartalmazhat.
 
-(2) Állami támogatás illeti meg
+(1a) A Start-számlán lévő állampapír befektetéséből származó kamatjövedelem nem minősül befizetésnek.
+
+(2) Támogatás illeti meg
 
 a) az (1) bekezdés a) pontja alapján történő befizetés esetén a befizetés évében a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti rendszeres gyermekvédelmi kedvezményre jogosult gyermeket a naptári évben befizetett összeg 20 százalékának megfelelő, de legfeljebb évi 12 ezer forint összegben;
 
@@ -18,11 +20,11 @@ c) az a) pontban nem említett gyermeket az (1) bekezdés a) pontja szerinti bef
 
 (3) Az állami támogatást a gyermek javára a Start-számláját vezető számlavezető a naptári évet követő március 1-jéig igényli a kiutalónál. A kiutalóval kötött szerződés szerint a számlavezető eljuttatja a (2) bekezdés a)–c) pontja szerinti csoportosításban az állami támogatásra jogosult gyermekekről készített kimutatást, amely tartalmazza a gyermekek adóazonosító jelét, Start-számláik számát, az állami támogatásra jogosító befizetések összegét, valamint a rendszeres gyermekvédelmi kedvezményre jogosult, illetőleg átmeneti vagy tartós nevelésbe vett gyermekek esetében megküldi a magasabb összegű állami támogatásra való jogosultság igazolására szolgáló, az (5) bekezdés szerint kiállított, a szülő által hozzá eljuttatott iratot. Az iratokat számlavezetőnként egy csomagban kísérőjegyzékkel együtt kell a kiutalóhoz eljuttatni.
 
-(4) Az állami támogatást a kiutaló a (3) bekezdés alapján kapott igénylésben feltüntetett befizetések után, illetőleg az átmeneti vagy tartós nevelésbe vett gyermek esetében a jogosultság időszakával arányos összegben az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül a számlavezetőhöz utalja
+(4) A támogatást a kiutaló a (3) bekezdés alapján kapott igénylésben feltüntetett befizetések után, illetőleg az átmeneti vagy tartós nevelésbe vett gyermek esetében a jogosultság időszakával arányos összegben az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül a számlavezetőhöz utalja
 
 a) a (2) bekezdés c) pontja szerint, vagy
 
-b) a (2) bekezdés a)–b) pontja szerint, ha a gyermeknek a rendelkezésekben meghatározott magasabb összegű állami támogatásra való jogosultsága igazolása céljából az (5) bekezdésben említett iratot a számlavezető az igényléshez csatolta.
+b) a (2) bekezdés a)–b) pontja szerint, ha a gyermeknek a rendelkezésekben meghatározott magasabb összegű támogatásra való jogosultsága igazolása céljából az (5) bekezdésben említett iratot a számlavezető az igényléshez csatolta.
 
 (5) A (4) bekezdés b) pontjában említett jogosultság igazolására, az államháztartásért felelős miniszter rendeletében meghatározott formában és tartalommal,
 
