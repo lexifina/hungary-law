@@ -2,13 +2,7 @@
 
 ## 1. § E rendelet alkalmazása során
 
-a) engedélyes: az Szt. 57. §-a (1) bekezdésének a) és c)–j) pontja, illetve (2) bekezdése szerinti szociális szolgáltatásokat működési engedéllyel, illetve a Gyvt. 15. §-ának (2)–(3) bekezdése szerinti szolgáltató tevékenységet működési engedéllyel végző szolgáltató, intézmény, illetve hálózat; telephellyel rendelkező szolgáltató, intézmény esetén önálló engedélyesnek minősül az ellátást nyújtó székhely és a telephely,
-
-b)[^1] telephely: a szociális szolgáltatók és intézmények működésének engedélyezéséről és ellenőrzéséről szóló 321/2009. (XII. 29.) Korm. rendelet (a továbbiakban: Szmr.) 1. § b) pontjában, illetve a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezéséről, valamint a gyermekjóléti és gyermekvédelmi vállalkozói engedélyről szóló 259/2002. (XII. 18.) Korm. rendelet (a továbbiakban: Gymr.) 2. §-ának b) pontjában meghatározott hely,
-
-c) fenntartó: az Szt. 4. §-a (1) bekezdésének m) pontja, illetve a Gyvt. 5. §-ának s) pontja szerinti személy vagy szervezet,
-
-d) működést engedélyező szerv: az Szt. 92/K. §-ának (2) bekezdésében, illetve a Gyvt. 100. §-ának (2) bekezdésben meghatározott szervek,
+a)–d)[^1]
 
 e)[^2] szociális foglalkoztatás: az Szt. 99/B–99/E. §-a szerinti foglalkoztatás,
 
@@ -20,7 +14,7 @@ h)[^5] feladatmutató: a támogató szolgáltatás és a közösségi ellátáso
 
 i)[^6] szolgáltatás: a szociális szolgáltatás és a gyermekjóléti, gyermekvédelmi szolgáltató tevékenység.
 
-[^1]: Az 1. § b) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a)–d) pontját a 369/2013. (X. 24.) Korm. rendelet 53. § (4) bekezdés a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § e) pontja a 38/2010. (II. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § f) pontja a 191/2008. (VII. 30.) Korm. rendelet 28. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § g) pontja a 191/2008. (VII. 30.) Korm. rendelet 28. § (3) bekezdés a) pontja szerint módosított szöveg.
