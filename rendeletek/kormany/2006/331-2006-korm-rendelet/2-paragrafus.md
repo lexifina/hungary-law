@@ -6,18 +6,9 @@
 
 (3)[^8] A települési önkormányzat jegyzőjének és a járási gyámhivatalnak a gyermekvédelmi és gyámügyi hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság a szociális és gyámhivatal.
 
-(4)[^9] A szociális és gyámhivatalnak
-
-a)[^10] a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezésével kapcsolatos hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság a Nemzeti Rehabilitációs és Szociális Hivatal,
-
-b)[^11] az a) pont szerinti hatósági ügyeiben a felügyeleti szerv miniszter,
-
-c)[^12] az a) pontban nem említett gyermekvédelmi és gyámügyi hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti hatóság a miniszter.
+(4)[^9] A szociális és gyámhivatalnak a gyermekvédelmi és gyámügyi hatósági ügyeiben – a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásával és ellenőrzésével kapcsolatos ügyek kivételével – a fellebbezés elbírálására jogosult hatóság és a felügyeleti hatóság a miniszter.
 
 [^6]: Az 1/A. §-t a 207/2009. (IX. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdése az 53/2007. (III. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés a) pontja, a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A 2. § (4) bekezdését az 53/2007. (III. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be, 2007. július 1. napján lépett hatályba. E módosító rendelet 17. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^10]: A 2. § (4) bekezdés a) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés b) pontja, a 332/2010. (XII. 27.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^11]: A 2. § (4) bekezdés b) pontja a 360/2010. (XII. 30.) Korm. rendelet 55. § a) pontja szerint módosított szöveg.
-[^12]: A 2. § (4) bekezdés c) pontja a 173/2009. (VIII. 29.) Korm. rendelet 66. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 2. § (4) bekezdését az 53/2007. (III. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 369/2013. (X. 24.) Korm. rendelet 55. § (1) bekezdésével megállapított szöveg.
