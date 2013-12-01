@@ -8,6 +8,6 @@
 
 (4) A 17/E. § (4) bekezdésében írt jogkövetkezményt a jelen törvény hatálybalépésekor tulajdoni hányaddal rendelkező tagok illetve részvényesek vonatkozásában a (3) bekezdés szerinti határidőt követően kell alkalmazni.
 
-(5) A 2013. évi CXXXV. tv. 1. mellékletének helyébe e törvény 1. melléklete lép. Az Integrációs Szervezet új alapszabályát az Integrációs Szervezet igazgatósága e törvény mellékletének megfelelő tartalommal fogadja el a jelen törvény hatályba lépését követő tíz napon belül.
+(5) Az Integrációs Szervezet új alapszabályát az Integrációs Szervezet igazgatósága e törvény mellékletének megfelelő tartalommal fogadja el a jelen törvény hatályba lépését követő tíz napon belül.
 
 (6) Ez a törvény a kihirdetését követő 91. napon hatályát veszti.
