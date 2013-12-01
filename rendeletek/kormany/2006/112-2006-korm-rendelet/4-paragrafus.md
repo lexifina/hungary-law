@@ -2,9 +2,9 @@
 
 a) a foglalkoztató nevét, székhelyét,
 
-b)[^36] engedélyköteles tevékenység esetén a tevékenység végzésére jogosító hatósági engedély másolatát,
+b)[^37] engedélyköteles tevékenység esetén a tevékenység végzésére jogosító hatósági engedély másolatát,
 
-c)[^37] külön jogszabály szerint a külső foglalkoztató nyilatkozatát a számlaszámáról, illetve a megállapodás megkötéséhez szükséges egyéb adatokról,
+c)[^38] külön jogszabály szerint a külső foglalkoztató nyilatkozatát a számlaszámáról, illetve a megállapodás megkötéséhez szükséges egyéb adatokról,
 
 d) a szociális foglalkoztatás formáját, a foglalkoztatatásban részt vevők számát, a foglalkoztatás helyét,
 
@@ -26,11 +26,11 @@ l) szerződésszegés esetén a kártérítés mértékére vonatkozó megállap
 
 m) a megállapodás felmondásának szabályait, a felmondás határidejét,
 
-n)[^38] a szociális intézmény, valamint – amennyiben jogszabály szerint azzal rendelkeznie kell – a külső foglalkoztató ágazati azonosítóját,
+n)[^39] a szociális intézmény, valamint – amennyiben jogszabály szerint azzal rendelkeznie kell – a külső foglalkoztató ágazati azonosítóját,
 
-o)[^39] a szociális intézmény szakmai programja és a foglalkoztatási szakmai program összehangolását biztosító eljárásrendet.
+o)[^40] a szociális intézmény szakmai programja és a foglalkoztatási szakmai program összehangolását biztosító eljárásrendet.
 
-[^36]: A 4. § b) pontja a 174/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
-[^37]: A 4. § c) pontja a 174/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
-[^38]: A 4. § n) pontját a 226/2006. (XI. 20.) Korm. rendelet 26. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján 2007. június 1. napján lépett hatályba. E módosító rendelet 14. § (3) bekezdése alapján a rendelkezést a folyamatban lévő működési engedélyezési eljárásokban is alkalmazni kell.
-[^39]: A 4. § o) pontját a 174/2009. (VIII. 29.) Korm. rendelet 18. §-a iktatta be. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^37]: A 4. § b) pontja a 174/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^38]: A 4. § c) pontja a 174/2009. (VIII. 29.) Korm. rendelet 18. §-ával megállapított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^39]: A 4. § n) pontját a 226/2006. (XI. 20.) Korm. rendelet 26. §-a iktatta be, e módosító rendelet 14. § (1) bekezdése alapján 2007. június 1. napján lépett hatályba. E módosító rendelet 14. § (3) bekezdése alapján a rendelkezést a folyamatban lévő működési engedélyezési eljárásokban is alkalmazni kell.
+[^40]: A 4. § o) pontját a 174/2009. (VIII. 29.) Korm. rendelet 18. §-a iktatta be. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
