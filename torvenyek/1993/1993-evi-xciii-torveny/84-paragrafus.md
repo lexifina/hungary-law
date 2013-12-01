@@ -4,7 +4,7 @@ a) a munkahelyek tekintetében a munkáltatót határozatban kötelezni, hogy í
 
 b) valamennyi munkahelyen – külön engedély nélkül, ellenőrzési jogosultságát az erre jogosító igazolványával (amely a sorszámot, az eljáró felügyelő nevét és a munkavédelmi hatóság megnevezését tartalmazza) igazolva – ellenőrzést tartani;
 
-c) a munkabaleseteket, kivéve a közúti közlekedéssel kapcsolatosakat – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni;
+c) a munkabaleseteket – kivéve a közúti közlekedéssel kapcsolatosakat – és a fokozott expozíciós eseteket – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni;
 
 d) a munkáltatót felhívni az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeinek teljesítésére;
 
@@ -12,7 +12,7 @@ e) a munkáltatót a feltárt hiányosságok meghatározott határidőn belül t
 
 f) az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó előírások súlyos megszegésével foglalkoztatott munkavállalót a kifogásolt munkavégzéstől eltiltani;
 
-g) a munkavállaló egészségét, testi épségét közvetlenül fenyegető veszély esetén, vagy határértéket meghaladó expozícióban, vagy rákkeltő, mutagén, teratogén hatású veszély előfordulásakor – annak elhárításáig –, továbbá a nem megfelelő védelmet nyújtó védőeszköz használatakor a veszélyes tevékenység, illetőleg üzem, üzemrész működésének, munkaeszköz, egyéni védőeszköz, veszélyes anyag/készítmény használatának felfüggesztését elrendelni;
+g) a munkavállaló egészségét, testi épségét közvetlenül fenyegető veszély esetén, vagy határértéket meghaladó expozícióban, vagy rákkeltő, mutagén, teratogén hatású veszély előfordulásakor – annak elhárításáig –, továbbá a nem megfelelő védelmet nyújtó védőeszköz használatakor a veszélyes tevékenység, illetőleg üzem, üzemrész működésének, munkaeszköz, egyéni védőeszköz, veszélyes anyag/keverék használatának felfüggesztését elrendelni;
 
 h) elrendelni a 23. § (2) bekezdése szerinti ellenőrzést;
 

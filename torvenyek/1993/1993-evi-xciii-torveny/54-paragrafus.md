@@ -24,7 +24,15 @@ i) a munkavállalók megfelelő utasításokkal történő ellátása.
 
 (2) A munkáltatónak rendelkeznie kell kockázatértékeléssel, amelyben köteles minőségileg, illetve szükség esetén mennyiségileg értékelni a munkavállalók egészségét és biztonságát veszélyeztető kockázatokat, különös tekintettel az alkalmazott munkaeszközökre, veszélyes anyagokra és keverékekre, a munkavállalókat érő terhelésekre, valamint a munkahelyek kialakítására. A kockázatértékelés során a munkáltató azonosítja a várható veszélyeket (veszélyforrásokat, veszélyhelyzeteket), valamint a veszélyeztetettek körét, felbecsüli a veszély jellege (baleset, egészségkárosodás) szerint a veszélyeztetettség mértékét. A kockázatértékelés során az egészségvédelmi határértékkel szabályozott kóroki tényező előfordulása esetén munkahigiénés vizsgálatokkal kell gondoskodni az expozíció mértékének meghatározásáról.
 
-(3) A munkáltató a kockázatértékelést, a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 3 évente köteles elvégezni. Indokolt esetnek kell tekinteni különösen az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását, illetve minden olyan, az eredeti tevékenységgel összefüggő változtatást, amelynek eredményeképpen a munkavállalók egészségét, biztonságát meghatározó munkakörülményi tényezők megváltozhattak – ideértve a munkaklíma-, zaj-, rezgésterhelést, légállapotokat (gázállapotú, por, rost légszennyezők minőségi, illetve mennyiségi változását). Soron kívül el kell végezni a kockázatértékelést, ha az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának hiányosságával összefüggésben bekövetkezett munkabaleset, fokozott expozíció, illetve foglalkozási megbetegedés fordult elő, vagy a kockázatértékelés a külön jogszabályban meghatározott szempontra nem terjedt ki. Az 56. §-ban meghatározottak a kockázatértékelésben rögzítésre kerülhetnek.
+(3) A munkáltató a kockázatértékelést, a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 3 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben rögzítésre kerülhetnek. Indokolt esetnek kell tekinteni
+
+a) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását,
+
+b) minden olyan, az eredeti tevékenységgel összefüggő változtatást, amelynek eredményeképpen a munkavállalók egészségét, biztonságát meghatározó munkakörülményi tényezők megváltozhattak – ideértve a munkaklíma-, zaj-, rezgésterhelést, légállapotokat (gázállapotú, por, rost légszennyezők minőségi, illetve mennyiségi változást),
+
+c) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának hiányosságával összefüggésben bekövetkezett munkabaleset, fokozott expozíció, illetve foglalkozási megbetegedés előfordulását, továbbá
+
+d) ha a kockázatértékelés a külön jogszabályban meghatározott szempontra nem terjedt ki.
 
 (4) A munkavédelmi hatósági ellenőrzés során a munkáltatónak kell bizonyítania a tevékenység megkezdésének tényét, időpontját.
 
@@ -48,7 +56,7 @@ h) az előző kockázatértékelés időpontja.
 
 A kockázatértékelés dokumentumát a munkáltató köteles a külön jogszabályban foglaltak szerint, de legalább 5 évig megőrizni.
 
-(6) Az (1) bekezdés g) pontjában meghatározott megelőzési stratégia munkabiztonsági és munkaegészségügyi tartalmának kialakítása munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül.
+(6) Az (1) bekezdés g) pontjában meghatározott megelőzési stratégia munkabiztonsági és munkaegészségügyi tartalmának kialakítása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül.
 
 (7) Az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében a munkáltató köteles
 
@@ -68,8 +76,8 @@ g) biztosítani a védőeszközök rendeltetésszerű használhatóságát, véd
 
 h) teljes felelősséggel megtenni minden szükséges intézkedést a munkavállalók biztonsága és egészségvédelme érdekében, figyelembe véve a változó körülményeket is, valamint törekedve a munkakörülmények folyamatos javítására;
 
-i) a munkabiztonsági szaktevékenységnek, illetve munka-egészségügyi szaktevékenységnek minősített feladatok ellátásáról az e törvényben meghatározott módon gondoskodni és az előírt feladatok ellátására e törvényben meghatározott személyt, illetve szervezetet biztosítani.
+i) a munkabiztonsági szaktevékenységnek, illetve munkaegészségügyi szaktevékenységnek minősített feladatok ellátásáról az e törvényben meghatározott módon gondoskodni és az előírt feladatok ellátására e törvényben meghatározott személyt, illetve szervezetet biztosítani.
 
-(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági és ezzel egyidejűleg munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai biztonság területén a külön jogszabályban foglalt szempontokat is figyelembe kell venni.
+(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai biztonság területén a külön jogszabályban foglalt szempontokat is figyelembe kell venni.
 
 (9) A munkáltató a kockázatértékelést követően, annak megállapításait figyelembe véve, a feltárt kockázatok kezelése során határozza meg a védekezés leghatékonyabb módját, a kollektív, műszaki egyéni védelem módozatait, illetve az alkalmazandó szervezési és egészségügyi megelőzési intézkedéseket.

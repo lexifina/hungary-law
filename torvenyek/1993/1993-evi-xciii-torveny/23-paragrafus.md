@@ -8,6 +8,6 @@ a) ha az a rendeltetésszerű alkalmazás során közvetlenül veszélyeztette a
 
 b) rendkívüli körülmények (különösen átalakítás, baleset, természeti jelenségek vagy műszaki okból 30 napot meghaladó használaton kívüliidőszak) bekövetkezése esetén.
 
-Az ellenőrzés elvégzéséig a munkahely, az egyéni védőeszköz, a munkaeszköz, a technológia üzemeltetését, illetve használatát meg kell tiltani. Az ellenőrzés elvégzése – a veszélyeztetés jellegétől függően – munkabiztonsági, illetve munka-egészségügyi szaktevékenységnek minősül.
+Az ellenőrzés elvégzéséig a munkahely, az egyéni védőeszköz, a munkaeszköz, a technológia üzemeltetését, illetve használatát meg kell tiltani. Az ellenőrzés elvégzése – a veszélyeztetés jellegétől függően – munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül.
 
 (3) A foglalkoztatáspolitikáért felelős miniszter – az egészségügyért felelős miniszterrel egyetértésben – meghatározza a munkaeszközökre, továbbá a munkahelyekre vonatkozó munkavédelmi követelmények minimális szintjét, ideértve az ideiglenes vagy változó helyszínű építkezésekre vonatkozó munkavédelmi szabályokat is.
