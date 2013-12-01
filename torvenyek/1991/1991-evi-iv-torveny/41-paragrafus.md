@@ -4,4 +4,4 @@
 
 (3) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében a Nemzeti Foglalkoztatási Alap mint központi programok kedvezményezettje a támogatásokat előfinanszírozza, amelyet az Európai Unió az intézkedések végrehajtásáról szóló elszámolás elfogadását követően megtérít. Az Európai Unió felé elszámolt, de az Európai Unió által meg nem térített összegek közötti különbözet a Nemzeti Foglalkoztatási Alapot terheli.
 
-(4) A rendszeres szociális segély átalakításával összefüggő, a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szervek közreműködésével megvalósuló programot a Nemzeti Foglalkoztatási Alap, mint a központi program kedvezményezettje előfinanszírozhatja, illetve az uniós források terhére finanszírozhatja. Az Európai Unió felé elszámolt, de az Európai Unió által meg nem térített összegek közötti különbözet a Nemzeti Foglalkoztatási Alapot terheli.
+(4)

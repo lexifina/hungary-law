@@ -8,11 +8,11 @@ a) központi foglalkoztatási, képzési és munkaerőpiaci integrációs progra
 
 b) a 18. §-ban meghatározott munkahely-teremtési támogatásra;
 
-c) foglalkoztatási és képzési célú közalapítványok támogatására;
+c) a foglalkoztatáspolitikáért felelős miniszter által alapított, közfeladatot ellátó közhasznú szervezet részére – foglalkoztatási és képzési célú támogatás nyújtása érdekében – támogatás nyújtására;
 
 d) foglalkoztatást elősegítő támogatások továbbfejlesztésére vonatkozó kutatások és programok támogatására;
 
-e) a PHARE, majd az Európai Szociális Alap társfinanszírozásával megvalósuló programok hazai finanszírozására;
+e) az Európai Szociális Alap társfinanszírozásával megvalósuló programok hazai finanszírozására;
 
 f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre;
 

@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2013-05-03 | 2013. évi XLI. törvény | 1991-4-00-00.88 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1991-4-00-00.89 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1991-4-00-00.90 |
+| 2013-12-01 | 2013. évi CLXXIX. törvény | 1991-4-00-00.91 |

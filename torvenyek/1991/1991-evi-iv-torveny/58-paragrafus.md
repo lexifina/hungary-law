@@ -58,7 +58,7 @@ ib) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban r�
 
 ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
 
-j) munkaközvetítő tevékenység: olyan szolgáltatások összessége, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
+j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
 
 k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki
 
@@ -88,7 +88,13 @@ t) társas vállalkozó: a Tbj. 5. §-a (1) bekezdésének f) pontja szerint biz
 
 u) elektronikus levél: az egyedi levelezési címek között levelezőprogram segítségével küldhető és fogadható adategyüttes.
 
-v)
+v) munkaerőpiaci szolgáltatást kérő:
+
+va) az a természetes személy, aki az állami foglalkoztatási szerv szolgáltatását az álláskeresők ellátása és a foglalkoztatást elősegítő támogatások iránti kérelem benyújtása nélkül veszi igénybe vagy olyan támogatás érdekében veszi igénybe, amelynek nem feltétele az álláskeresőként történő nyilvántartásba vétel, vagy
+
+vb) az a munkaadó, aki harmadik országbeli állampolgár magyarországi foglalkoztatásának engedélyezése érdekében munkaerőigényt jelent be és közvetítést is kér,
+
+w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból támogatásban részesül.
 
 (6) A törvény alkalmazásában a
 
@@ -98,7 +104,7 @@ b) munkaviszonynak a munkáltató részéről azonnali hatályú felmondással t
 
 c) a munkaviszonynak a munkaadó részéről felmondással történő megszüntetésén a közszolgálati és a közalkalmazotti jogviszonynak felmentéssel történő megszüntetését is érteni kell;
 
-d)
+d) munkaviszony létesítéséhez szükséges feltételekkel az a személy rendelkezik, aki az Mt. alapján munkaviszonyt létesíthet.
 
 (7) Ahol jogszabály munkaügyi szakigazgatási szervet, munka- vagy munkaerőközvetítő szervet, munkaügyi szolgáltató irodát említ, ezen az állami foglalkoztatási szervet kell érteni.
 
@@ -116,7 +122,7 @@ e) az e törvényben meghatározott nyilvántartások vezetésének
 
 f)
 
-g) az adópolitikáért felelős miniszterrel egyetértésben a munkaerőpiaci szolgáltatásokat nyújtó szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj
+g)
 
 szabályait.
 

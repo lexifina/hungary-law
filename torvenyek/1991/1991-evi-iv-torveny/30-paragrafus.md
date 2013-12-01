@@ -2,7 +2,7 @@
 
 30. § (1) Az álláskereső kérelmére nyugdíj előtti álláskeresési segélyt (a továbbiakban: álláskeresési segély) kell megállapítani, ha
 
-a) rendelkezik a 25. § (1) bekezdésének c)–d) pontjában, meghatározott feltételekkel, és
+a) rendelkezik a 25. § (1) bekezdésének d) pontjában, meghatározott feltételekkel, és
 
 b) a kérelem benyújtásának időpontjában a rá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és legalább 45 napon át álláskeresési járadékban részesült és az álláskeresési járadék folyósítási időtartamát kimerítette, vagy a folyósítási időtartam kimerítését megelőzően az álláskeresési járadék folyósítását az állami foglalkoztatási szerv – kereső tevékenység miatt – megszüntette és az álláskereső álláskeresési járadékra ismételten nem szerzett jogosultságot,
 

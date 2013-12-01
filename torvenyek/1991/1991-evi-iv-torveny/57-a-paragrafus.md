@@ -8,7 +8,7 @@ a) természetes személyazonosító adatok,
 
 b) állampolgárság, bevándorolt, letelepedett, menekült vagy oltalmazott jogállás,
 
-c) lakóhely (tartózkodási hely);
+c) lakcím (lakóhely, tartózkodási hely) és értesítési cím,
 
 d) foglalkozás, munkahely, munkakör (tevékenység),
 
@@ -24,7 +24,11 @@ i) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, 
 
 j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e,
 
-k) a nemzetiséghez való tartozásra vonatkozó adatok.
+k) a nemzetiséghez való tartozásra vonatkozó adatok,
+
+l) az állami foglalkoztatási szerv által végzett munkaközvetítői tevékenység végzéséhez az álláskereső munkavállalással kapcsolatos személyes és szakmai kompetenciáira, képességeire vonatkozó adatok,
+
+m) a cselekvőképtelen vagy cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott személy törvényes képviselőjének természetes személyazonosító adatait, lakóhelyét és értesítési címét.
 
 (2a) Az állami foglalkoztatási szerv által vezetett nyilvántartás az álláskeresők nyilvántartásba vételéhez, az álláskeresési ellátás megállapításához és igénybevételéhez szükséges, e törvényben meghatározott adatok tekintetében – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
