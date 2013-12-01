@@ -1,61 +1,29 @@
 ## A referencia-időszak három évének meghatározása
 
-| 1. | A mezőgazdasági termelő azonosító adatai: |
+## 1. A mezőgazdasági termelő azonosító adatai:
 
-| 1.1. | név |
+## 1.1. név
 
-| 1.2. | cím |
+## 1.2. cím
 
-| 1.3. | MVH regisztrációs szám |
+## 1.3. ügyfél-azonosító
 
-| 1.4. | A gazdálkodási forma megadása (őstermelő, vagy egyéni mezőgazdasági vállalkozó, vagy gazdálkodó szervezet) |
+## 1.4. Az ügyfél telefonos elérhetősége
 
-| 2. | Az alábbi táblázat: |
+## 2. Az alábbi táblázat:
 
-| Termék megnevezése | 20... évi | 20... évi | 20... évi | 20... évi | 20... évi | A referencia- időszak három évének megadása* |
+|  | 20... évi | 20... évi | 20... évi | 20... évi | 20... évi | A refe- rencia- időszak három évének meg- adása* |
 
-| terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) |
+| Növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint) | terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) | terület (ha) | termés (t) | hozam (t/ha) |
 
-| 1. Szántóföldi növények |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Újravetett, újratelepített növénykultúra: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## * A referencia-időszak három éve: az előző öt évből a legmagasabb és a legalacsonyabb hozamot tartalmazó két év elhagyásával képzett három év.
 
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## 3. Keltezés helye, ideje (év, hó, nap).
 
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## 4. A mezőgazdasági termelő aláírása.
 
-| Szántóföldi növények összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+4. melléklet a 21/2012. (III. 9.) VM rendelethez[^38]
 
-| 2. Szántóföldi zöldségfélék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Szántóföldi zöldségfélék összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 3. Gyümölcsfélék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Gyümölcsfélék összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 4. Szőlő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Szőlő összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Újravett, újratelepített növénykultúra: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  | * A referencia-időszak három éve: az előző öt évből a legmagasabb és a legalacsonyabb hozamot tartalmazó két év elhagyásával képzett három év. |
-
-| 3. | Keltezés helye, ideje (év, hó, nap). |
-
-| 4. | A mezőgazdasági termelő aláírása. |
-
-4. melléklet a 21/2012. (III. 9.) VM rendelethez
+[^38]: A 4. melléklet a 97/2013. (X. 22.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.

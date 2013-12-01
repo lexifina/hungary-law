@@ -1,3 +1,3 @@
-19. §[^21]
+## 16–18. §[^33]
 
-[^21]: A 19. §-t a (2) bekezdés hatályon kívül helyezte.
+[^33]: A 16–18. §-t a 19. § (1) bekezdése hatályon kívül helyezte.

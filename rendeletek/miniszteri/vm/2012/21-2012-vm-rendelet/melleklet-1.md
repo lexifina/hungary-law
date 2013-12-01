@@ -1,3 +1,6 @@
-1. melléklet a 21/2012. (III. 9.) VM rendelethez[^22]
+## 19. §[^34]
 
-[^22]: Az 1. melléklet a 81/2012. (VII. 30.) VM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+1. melléklet a 21/2012. (III. 9.) VM rendelethez[^35]
+
+[^34]: A 19. §-t a (2) bekezdés hatályon kívül helyezte.
+[^35]: Az 1. melléklet a 97/2013. (X. 22.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.

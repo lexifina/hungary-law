@@ -1,4 +1,4 @@
-## 14/A. §[^16] E rendeletnek az egyes élelmiszerlánc-felügyeleti tárgyú miniszteri rendeletek módosításáról szóló 51/2013. (VI. 17.) VM rendelettel [a továbbiakban: 51/2013. (VI. 17.) VM rendelet] módosított 9. § (3) bekezdés d) és e) pontjait, valamint az 51/2013. (VI. 17.) VM rendelettel megállapított 9. § (3) bekezdésének h) pontját és 9. § (8) bekezdését az 51/2013. (VI. 17.) VM rendelet hatályba lépésekor[^17] folyamatban levő eljárásokban is alkalmazni kell.
+## 14/A. §[^31] E rendeletnek az egyes élelmiszerlánc-felügyeleti tárgyú miniszteri rendeletek módosításáról szóló 51/2013. (VI. 17.) VM rendelettel [a továbbiakban: 51/2013. (VI. 17.) VM rendelet] módosított 9. § (3) bekezdés d) és e) pontjait, valamint az 51/2013. (VI. 17.) VM rendelettel megállapított 9. § (3) bekezdésének h) pontját és 9. § (8) bekezdését az 51/2013. (VI. 17.) VM rendelet hatályba lépésekor[^32] folyamatban levő eljárásokban is alkalmazni kell.
 
 ## 11. Az Európai Unió jogának való megfelelés
 
@@ -10,5 +10,5 @@ b) a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállítá
 
 végrehajtásához szükséges rendelkezéseket tartalmaz.
 
-[^16]: A 14/A. §-t az 51/2013. (VI. 17.) VM rendelet 20. §-a iktatta be.
-[^17]: A hatálybalépés időpontja 2013. június 17. 18.00 óra.
+[^31]: A 14/A. §-t az 51/2013. (VI. 17.) VM rendelet 20. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2013. június 17. 18.00 óra.
