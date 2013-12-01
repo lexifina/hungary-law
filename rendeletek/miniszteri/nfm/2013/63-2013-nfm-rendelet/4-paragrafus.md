@@ -1,17 +1,16 @@
 ## 4. A Befogadó kötelezettségei
 
-4. § (1)–(2)[^6]
+4. § (1) A Befogadó az átvételre kötelezett mérlegkör felelősök 3. § (1) bekezdésben meghatározott adatszolgáltatása alapján összesíti a tervezett fogyasztási adatokat (a továbbiakban: összesített tervezett fogyasztási adat).
 
-(3)[^7]
+(2) Amennyiben az átvételre kötelezett mérlegkör felelős tény fogyasztási adata eltér a tervezett fogyasztási adatától, a Befogadó a soron következő allokáció során az 5. § (1) bekezdése szerinti KÁT szétosztási aránytényezőt ezen eltérés hatásának megfelelően korrigálja, és korrekciós kamatot számol el. A korrekciót úgy kell végrehajtani, hogy minden egyes átvételre kötelezett mérlegkör felelős a tény fogyasztási adata szerinti aránytényező alapján kiszámított terhet viselje.
 
-(4)[^8]
+(3)[^3]
 
-(5)[^9]
+(4) A Befogadó a (2) bekezdés szerinti korrekció helyett korrekciós hozzájárulást számol el, amennyiben az átvételre kötelezett mérlegkör felelős a 3. § (1) bekezdés szerinti tervezett fogyasztási adatok meghatározása során valamely hónapra nulla tervezett fogyasztási adatot ad meg. A korrekciós hozzájárulást úgy kell meghatározni, hogy minden egyes átvételre kötelezett mérlegkör felelős a tény fogyasztási adata szerinti aránytényező alapján kiszámított terhet viselje.
 
-(6)[^10]
+(5)[^4]
 
-[^6]: A 4. § (1)–(2) bekezdése a 13. § (2) bekezdés 3. pontja alapján 2013. december 1-jén lép hatályba.
-[^7]: A 4. § (3) bekezdése a 13. § (5) bekezdés 2. pontja alapján 2014. február 1-jén lép hatályba.
-[^8]: A 4. § (4) bekezdése a 13. § (2) bekezdés 3. pontja alapján 2013. december 1-jén lép hatályba.
-[^9]: A 4. § (5) bekezdése a 13. § (5) bekezdés 2. pontja alapján 2014. február 1-jén lép hatályba.
-[^10]: A 4. § (6) bekezdése a 13. § (2) bekezdés 3. pontja alapján 2013. december 1-jén lép hatályba.
+(6) A korrekció és a korrekciós hozzájárulás kiszámításának részletes szabályait a kereskedelmi szabályzat tartalmazza.
+
+[^3]: A 4. § (3) bekezdése a 13. § (5) bekezdés 2. pontja alapján 2014. február 1-jén lép hatályba.
+[^4]: A 4. § (5) bekezdése a 13. § (5) bekezdés 2. pontja alapján 2014. február 1-jén lép hatályba.

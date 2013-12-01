@@ -1,5 +1,3 @@
-## 12. §[^18]
-
 ## 9. Záró rendelkezések
 
 13. § (1) Ez a rendelet – a (2)–(5) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
@@ -55,5 +53,3 @@
 3. 11. §,
 
 4. 15. § (4) bekezdése
-
-[^18]: A 12. § a 13. § (2) bekezdés 8. pontja alapján 2013. december 1-jén lép hatályba.
