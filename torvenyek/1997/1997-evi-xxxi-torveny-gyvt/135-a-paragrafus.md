@@ -44,11 +44,11 @@ dd) vagyoni helyzetére vonatkozó adatokat;
 
 e) a gyermek törvényes képviselőjének, a válsághelyzetben lévő várandós anya törvényes képviselőjének, a vér szerinti szülő törvényes képviselőjének személyazonosító adatait.
 
-(2) Ha az örökbefogadást elősegítő közhasznú szervezet szolgáltatása megszűnik, e tényről 8 napon belül tájékoztatja a szolgáltatást igénybe vevőt. A tájékoztatásban 30 napos határidő megjelölésével felhívja a szolgáltatást igénybe vevőt a hozzá benyújtott dokumentumok átvételére. Ha a szolgáltatást igénybe vevő a dokumentumokat nem veszi át, úgy ezeket és a tevékenysége során keletkezett iratokat megküldi a működést engedélyező szervnek.
+(2) Ha az örökbefogadást elősegítő közhasznú szervezet szolgáltatása megszűnik, e tényről 8 napon belül tájékoztatja a szolgáltatást igénybe vevőt. A tájékoztatásban 30 napos határidő megjelölésével felhívja a szolgáltatást igénybe vevőt a hozzá benyújtott dokumentumok átvételére. Ha a szolgáltatást igénybe vevő a dokumentumokat nem veszi át, úgy ezeket és a tevékenysége során keletkezett iratokat megküldi a szolgáltatást engedélyező szervnek.
 
-(3) A működést engedélyező szerv az örökbefogadást elősegítő közhasznú szervezet szolgáltatásának további szervezése céljából kezelheti az (1) bekezdés szerinti adatokat. A működést engedélyező szerv az adatkezelés céljának megszűnését követően adatkezelését haladéktalanul megszünteti.
+(3) A szolgáltatást engedélyező szerv az örökbefogadást elősegítő közhasznú szervezet szolgáltatásának további szervezése céljából kezelheti az (1) bekezdés szerinti adatokat. A szolgáltatást engedélyező szerv az adatkezelés céljának megszűnését követően adatkezelését haladéktalanul megszünteti.
 
-(4) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában évente adatot szolgáltat a működést engedélyező szervnek – az örökbefogadást elősegítő közhasznú szervezet tevékenységének ellenőrzése céljából –
+(4) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában évente adatot szolgáltat a szolgáltatást engedélyező szervnek – az örökbefogadást elősegítő közhasznú szervezet tevékenységének ellenőrzése céljából –
 
 a) személyazonosításra alkalmatlan módon az (1) bekezdés a) pontjában foglaltakról,
 

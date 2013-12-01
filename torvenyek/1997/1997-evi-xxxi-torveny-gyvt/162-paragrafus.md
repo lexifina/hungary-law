@@ -18,13 +18,13 @@ g) a személyes adatok kezelésére vonatkozó részletes eljárási szabályoka
 
 h) a helyettes szülői és a nevelőszülői jogviszony egyes kérdéseit,
 
-i) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
+i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
 
-j) az örökbefogadást elősegítő magánszervezetek tevékenységét és működésük engedélyezését, továbbá a működést engedélyező szerv kijelölését,
+j) az örökbefogadást elősegítő magánszervezetek tevékenységét és működésük engedélyezését, továbbá a szolgáltatást engedélyező szerv kijelölését,
 
 k) a gyermekvédelmi közvetítői eljárás részletes szabályait,
 
-l) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők szakmai ellenőrzésének részletes szabályait,
+l)
 
 m) a gyámhatóság hatáskörébe utalt pénzbeli és természetbeni ellátások igénylésének, megállapításának és folyósításának részletes szabályait,
 
@@ -32,7 +32,7 @@ n) a gyámhatóság illetékességére vonatkozó szabályokat,
 
 o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
 
-p) a szolgáltató tevékenységet végző szolgáltatók, intézmények, helyettes szülői és nevelőszülői hálózatok országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését,
+p)
 
 q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 
@@ -84,6 +84,6 @@ l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit.
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
-(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.

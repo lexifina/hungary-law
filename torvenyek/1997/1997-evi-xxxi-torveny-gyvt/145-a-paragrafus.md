@@ -6,7 +6,7 @@ a) a megszűnt és a létrehozott szolgáltatónál, intézményben ellátott gy
 
 b) a megszűnt és a létrehozott intézmény – részben vagy egészben – ugyanabban az ingatlanban működik.
 
-(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartó működési engedélyében nem szereplő szolgáltató tevékenység – ide nem értve azt az esetet, ha az új szolgáltató tevékenységet a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám.
+(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartónak a szolgáltatói nyilvántartásban bejegyzett adatai között nem szereplő szolgáltató tevékenység – ide nem értve azt az esetet, ha az új szolgáltató tevékenységet a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám.
 
 (4) Az egyházi kiegészítő támogatás megtérítéséről a kincstár külön kormányrendeletben meghatározott eljárás szerint határozatban dönt.
 

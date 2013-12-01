@@ -1,4 +1,4 @@
-145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet végző, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
+145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a szolgáltatói nyilvántartásba jogerősen bejegyzett szolgáltató, intézmény vagy hálózat útján gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet folytató, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
 (2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele a
 
@@ -12,9 +12,9 @@ a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, k
 
 (2b) A (2a) bekezdés szerinti esetben a központi költségvetésről szóló törvényben biztosított támogatás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha
 
-a) a változás a működési engedély módosítását nem teszi szükségessé,
+a) a változás a szolgáltatói nyilvántartásban bejegyzett adatok módosítását nem teszi szükségessé,
 
-b) a működési engedély módosítását kizárólag fenntartóváltás teszi szükségessé.
+b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé.
 
 (2c) A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
@@ -22,7 +22,7 @@ a) az állami vagy önkormányzati kötelező feladatot ellátó állami fenntar
 
 b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre nézve a fenntartó pályázati úton elnyert európai uniós vagy hazai fejlesztési támogatásban részesül,
 
-c) azt a kérelem benyújtását megelőzően is érvényes működési engedélyben feltüntetett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a működési engedély módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, szolgáltatásiforma-váltás, valamint a fenntartó intézményei, telephelyei közötti férőhelyszám-átcsoportosítás teszi szükségessé,
+c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is jogerősen bejegyzett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, szolgáltatásiforma-váltás, valamint a fenntartó intézményei, telephelyei közötti férőhelyszám-átcsoportosítás teszi szükségessé,
 
 d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól kezdődően, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
 

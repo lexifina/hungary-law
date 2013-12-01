@@ -14,7 +14,7 @@ e) a gyermek közeli hozzátartozói: ha e törvény másképp nem rendelkezik, 
 
 f) a gyermek tartására köteles személy: a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (a továbbiakban: Csjt.) 61. §-a (4) bekezdésében és 62. §-a (1) bekezdésében, a Csjt. 69/A. §-ában, valamint a 69/D. § (2) bekezdésében meghatározott személy,
 
-g) gyermekjóléti és gyermekvédelmi szolgáltató tevékenység: a gyermekjóléti alapellátás, illetve a gyermekvédelmi szakellátás keretében – működési engedéllyel – végzett tevékenység, függetlenül a feladatellátás e törvényben nevesített formájától és módjától; a szolgáltató tevékenység célja a gyermekjólétnek, azaz a gyermek testi, értelmi, érzelmi és erkölcsi fejlődésének, személyi, vagyoni és egyéb jogainak biztosítása,
+g) gyermekjóléti és gyermekvédelmi szolgáltató tevékenység: a gyermekjóléti alapellátás, illetve a gyermekvédelmi szakellátás keretében végzett tevékenység, függetlenül a feladatellátás e törvényben nevesített formájától és módjától; a szolgáltató tevékenység célja a gyermekjólétnek, azaz a gyermek testi, értelmi, érzelmi és erkölcsi fejlődésének, személyi, vagyoni és egyéb jogainak biztosítása,
 
 h) gyermeki jogok: az Alaptörvényben, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
 
@@ -54,11 +54,11 @@ sd) az sa)–sb) alpontokban nem említett, magyarországi székhelyű jogi szem
 
 se) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
 
-ha az e törvényben és más jogszabályban meghatározott feltételek szerint, működési engedély alapján gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+ha az e törvényben és más jogszabályban meghatározott feltételek szerint, gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 t) személyazonosító adat: az érintett személy természetes személyazonosító adatai, neme, állampolgársága, bevándorolt, letelepedett, oltalmazott vagy menekült jogállása, lakó- és tartózkodási helye,
 
-u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, és tevékenysége működési engedélyköteles. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
+u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
 
 v) működtető: az a természetes személy, jogi személy, illetve ezek jogi személyiség nélküli szervezete, aki, illetve amely a fenntartó által biztosított működési feltételek között a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet szervezi,
 

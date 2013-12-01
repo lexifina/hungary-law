@@ -60,4 +60,4 @@ e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban
 
 (6) A (2) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
 
-(7) A (2) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a működési engedélyezésre és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
+(7) A (2) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
