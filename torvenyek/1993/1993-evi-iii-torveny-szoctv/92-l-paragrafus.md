@@ -1,10 +1,10 @@
 92/L. § (1) A működést engedélyező szerv szociális igazgatási bírságot (a továbbiakban: bírság) szabhat ki
 
-a) szociális szolgáltatást működési engedély nélkül nyújtó, illetve ilyen szolgáltatást működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen a szolgáltatás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben,
+a) szociális szolgáltatást a szolgáltatói nyilvántartásba történő jogerős bejegyzés nélkül vagy a szolgáltatói nyilvántartásból történő, végrehajtható törlést követően nyújtó, illetve ilyen szolgáltatást működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen a szolgáltatás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben,
 
 b) a fenntartóval, a jogsértés során a fenntartó nevében eljáró személlyel, illetve a szociális szolgáltató, intézmény vezetőjével szemben, ha a fenntartó, illetve a szociális szolgáltató, intézmény az ellátottak e törvényben biztosított valamely jogát megsérti, így különösen, ha az ellátottak, törvényes képviselőik, illetve az ellátotti érdek-képviseleti szervek felé fennálló tájékoztatási, bejelentési kötelezettséget megszegik, az ellátottat vagy az ellátotti érdekképviseleti szervet akadályozzák jogai gyakorlásában, illetve abban, hogy a működést engedélyező szervhez, más hatósághoz vagy az ellátottjogi képviselőhöz forduljon, vagy a szociális szolgáltató, intézmény vezetője, illetve a fenntartó a panaszt határidőben nem vizsgálja ki,
 
-c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a jogszabályban előírt határidőben nem kéri a működési engedély módosítását vagy visszavonását,
+c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a jogszabályban előírt határidőben nem kéri a szolgáltatói nyilvántartásba bejegyzett adatok módosítását vagy a szociális szolgáltatónak, szociális intézménynek (székhelynek, telephelynek) a szolgáltatói nyilvántartásból történő törlését,
 
 d) ha jogszabály kivételt nem tesz, a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét határidőben nem teljesíti,
 

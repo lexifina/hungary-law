@@ -4,4 +4,4 @@
 
 VII. CÍM
 
-A szociális szolgáltatások engedélyezése
+Szolgáltatói nyilvántartás és a szolgáltatók, intézmények ellenőrzése

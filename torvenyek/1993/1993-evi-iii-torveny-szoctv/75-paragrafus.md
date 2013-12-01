@@ -34,7 +34,7 @@ a) szociális szolgáltatást nyújtó szolgáltatóval, intézménnyel kötött
 
 b) más támogatott lakhatást nyújtó fenntartóval együttesen, a közös működtetésre vonatkozó megállapodás alapján (hálózat),
 
-c) más, a tevékenységi köre szerinti működési engedéllyel rendelkező szolgáltatást nyújtó szervezettel kötött megállapodás útján,
+c) más, a tevékenységi köre szerinti működési engedéllyel rendelkező vagy a szolgáltatói nyilvántartásba bejegyzett szervezettel kötött megállapodás útján,
 
 d) az intézményi szolgáltatások intézményen kívüli szervezet által történő ellátásának szabályai szerint
 

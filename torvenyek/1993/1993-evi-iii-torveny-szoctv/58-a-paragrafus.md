@@ -1,4 +1,4 @@
-58/A. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel szociális szolgáltatást nyújtó, közfeladatot ellátó egyházi fenntartó és a központi költségvetésről szóló törvény szerinti nem állami fenntartó.
+58/A. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a szolgáltatói nyilvántartásba jogerősen bejegyzett szociális szolgáltató, szociális intézmény útján szociális szolgáltatást biztosító, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
 (2) A 131/A. §-ban nem említett szociális szolgáltatások esetében
 
@@ -22,11 +22,11 @@ b) több mint 60%-ának hozzájáruló nyilatkozata kell, feltéve, hogy ezen te
 
 (2d) A (2a) bekezdés szerinti esetben – ide nem értve a (2b) bekezdés szerinti nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszámát – a központi költségvetésről szóló törvényben biztosított támogatás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha
 
-a) a változás a működési engedély módosítását nem teszi szükségessé,
+a) a változás a szolgáltatói nyilvántartásba bejegyzett adatok módosítását nem teszi szükségessé,
 
 b) a kérelem benyújtását megelőzően is létezett férőhelyet demens betegek bentlakásos intézményi ellátására minősítik át,
 
-c) a működési engedély módosítását kizárólag fenntartóváltás teszi szükségessé.
+c) a szolgáltatói nyilvántartásba bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé.
 
 (2e) A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
@@ -34,7 +34,7 @@ a) az állami vagy önkormányzati kötelező feladatot ellátó állami fenntar
 
 b) azt a szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amelyre nézve a fenntartó pályázati úton elnyert európai uniós vagy hazai fejlesztési támogatásban részesül,
 
-c) azt a kérelem benyújtását megelőzően is érvényes működési engedélyben feltüntetett szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amely esetében a működési engedély módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás vagy átmeneti és tartós ellátást nyújtó férőhelyek egymás közti átminősítése teszi szükségessé,
+c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is jogerősen bejegyzett szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amely esetében a szolgáltatói nyilvántartásba bejegyzett adatok módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás vagy átmeneti és tartós ellátást nyújtó férőhelyek egymás közti átminősítése teszi szükségessé,
 
 d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
 

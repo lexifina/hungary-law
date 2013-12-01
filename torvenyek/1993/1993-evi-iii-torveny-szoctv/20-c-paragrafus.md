@@ -16,4 +16,4 @@ d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét
 
 (5) Az (1) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
 
-(6) Az (1) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a működési engedélyezésre és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
+(6) Az (1) bekezdés szerinti nyilvántartásból adatot kérhet a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok – 92/K. § szerinti – hatósági nyilvántartására (a továbbiakban: szolgáltatói nyilvántartás) vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárásának a lefolytatása céljából.

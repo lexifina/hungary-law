@@ -1,26 +1,48 @@
-92/K. § (1) Szociális szolgáltatásokat a 4. § (1) bekezdésének m) pontjában meghatározott bármely állami fenntartó, egyházi fenntartó és nem állami fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, illetve szociális intézmény
+92/K. § (1) Szociális szolgáltatást a jogszabályokban előírt feltételek teljesítése esetén bármely fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, szociális intézmény (székhely, telephely) jogerősen be van jegyezve a szolgáltatói nyilvántartásba.
 
-a) megfelel az e törvényben és külön jogszabályban meghatározott feltételeknek, és
+(2) A szolgáltatói nyilvántartás tartalmazza
 
-b) jogerős működési engedéllyel rendelkezik.
+a) a fenntartó nevét, székhelyét, adószámát és típusát,
 
-(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a fővárosi és megyei kormányhivatal szakigazgatási szerveként működő szociális hatóság – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárások illetékmentesek.
+b) a fenntartó és a szociális szolgáltató, szociális intézmény (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
 
-(3) A működést engedélyező szerv ellenőrzi, hogy a szociális szolgáltató, illetve intézmény működése megfelel-e a működési engedélyben és a jogszabályokban foglaltaknak.
+c) a szociális szolgáltató, szociális intézmény (székhely, telephely) és az általa nyújtott szociális szolgáltatás kormányrendeletben meghatározott adatait.
 
-(4) A működést engedélyező szerv – külön jogszabályban foglaltak szerint – a működési engedélyt visszavonhatja, és kötelezheti a fenntartót a szociális szolgáltatás abbahagyására, ha működése nem felel meg a jogszabályokban, illetve a működési engedélyben foglaltaknak.
+(3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja a (2) bekezdés a) és c) pontja szerinti adatokat.
+
+(4) A szolgáltatói nyilvántartásból jogerősen törölt és a jogerősen módosított adatokat a szolgáltatói nyilvántartás történeti állományába kell helyezni. A történeti állományba helyezett,
+
+a) a (2) bekezdés b) pont szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
+
+b) a (2) bekezdés a) és c) pontja szerinti adatokat a szociális szolgáltatónak, szociális intézménynek (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével
+
+kell törölni.
+
+(4a) A szolgáltatói nyilvántartás adatai a Gyvt.-ben meghatározottak kivételével nyilvánosak, és a történeti állományba tartozó adatok kivételével a szolgáltatói nyilvántartást vezető szerv honlapján hozzáférhetők.
+
+(4b) Ha jogszabály kivételt nem tesz, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott bármely bizonyítási eszköz felhasználható, de jogszabály előírhatja egyes bizonyítási eszközök kötelező alkalmazását.
+
+(4c) A szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet a működést engedélyező szerv ellenőriz. Ha a szociális szolgáltató, szociális intézmény (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
+
+a) a VIII. címben foglaltak szerint szociális igazgatási bírságot szabhat ki,
+
+b) kormányrendeletben foglaltak szerint a szolgáltatói nyilvántartás adatait módosíthatja,
+
+c) kormányrendeletben foglaltak szerint a szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a szolgáltatói nyilvántartásból törölheti, és kötelezheti a fenntartót a szociális szolgáltatások nyújtásának megszüntetésére, illetve
+
+d) alkalmazhatja a kormányrendeletben meghatározott egyéb jogkövetkezményeket.
 
 (5) Az intézményben ellátottak száma egyetlen napon sem haladhatja meg
 
-a) nappali intézmény esetén – a nappali melegedő kivételével – a működési engedélyben meghatározott férőhelyszám száztíz százalékát,
+a) nappali intézmény esetén – a nappali melegedő kivételével – a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszám száztíz százalékát,
 
-b) bentlakásos intézmény esetén a működési engedélyben meghatározott férőhelyszám százöt százalékát,
+b) bentlakásos intézmény esetén a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszám százöt százalékát,
 
-éves átlagban pedig a férőhelyszám száz százalékát. Ha az intézményben egymást követő hatvan napot meghaladóan a működési engedélyben meghatározott férőhelyszámnál több személyt látnak el, a fenntartó köteles kérelmezni a működési engedély módosítását.
+éves átlagban pedig a férőhelyszám száz százalékát. Ha az intézményben egymást követő hatvan napot meghaladóan a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszámnál több személyt látnak el, a fenntartó köteles kérelmezni a szolgáltatói nyilvántartásba bejegyzett adatok módosítását.
 
-(6) Házi segítségnyújtás esetében az ellátottak száma egyetlen napon sem haladhatja meg a működési engedélyben meghatározott ellátotti létszám száztíz százalékát, éves átlagban pedig annak száz százalékát.
+(6) Házi segítségnyújtás esetében az ellátottak száma egyetlen napon sem haladhatja meg a szolgáltatói nyilvántartásba jogerősen bejegyzett ellátotti létszám száztíz százalékát, éves átlagban pedig annak száz százalékát.
 
-(6) A Kormány által kijelölt szerv a működési engedéllyel rendelkező szociális szolgáltatókról, intézményekről nyilvántartást vezet, amelynek adattartalma nyilvános.
+(6)
 
 (7) A működést engedélyező szerv a működés személyi és tárgyi feltételeinek, a működés jogszerűségének, a szociális szolgáltatásra való jogosultság megállapításának, illetőleg az intézményi jogviszonyra vonatkozó szabályok megtartásának ellenőrzése érdekében, az ahhoz szükséges mértékben
 

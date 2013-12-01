@@ -6,17 +6,17 @@ b) biztosítja az intézmény gazdálkodásának és működésének törvényes
 
 (2)–(4)
 
-(5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
+(5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a működést engedélyező szerv intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
 
 a)
 
 b)
 
-c) az intézmény alapfeladataiban történő változást – mely új működési engedélyeztetési eljárást tesz szükségessé – nem jelzi a működést engedélyező hatóság felé, az éves központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka,
+c) fenntartásában lévő szociális intézmény olyan szociális szolgáltatást nyújt, amely nincs jogerősen bejegyezve a szolgáltatói nyilvántartásba, a központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka,
 
 d) nem biztosítja a kötelező gyógyszerkészletet vagy gyógyászati segédeszközt, az éves központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka.
 
-(6) Amennyiben a működést engedélyező hatóság több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a központi költségvetésről szóló törvényben biztosított támogatás visszatartásának mértéke legfeljebb az éves központi költségvetésről szóló törvényben biztosított támogatás 15 százaléka.
+(6) Amennyiben a működést engedélyező szerv több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a központi költségvetésről szóló törvényben biztosított támogatás visszatartásának mértéke legfeljebb az éves központi költségvetésről szóló törvényben biztosított támogatás 15 százaléka.
 
 (7) A visszatartott központi költségvetésről szóló törvényben biztosított támogatás akkor illeti meg az egyházi fenntartót és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
 

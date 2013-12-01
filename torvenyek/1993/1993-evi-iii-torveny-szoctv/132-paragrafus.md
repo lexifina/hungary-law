@@ -14,7 +14,7 @@ d) a pénzbeli és természetbeni szociális ellátások igénylésének és meg
 
 e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
 
-f) a szociális szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
+f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
 
 g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 
@@ -30,7 +30,7 @@ m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valam
 
 n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 
-o) a szociális intézmények, szolgáltatók országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését;
+o)
 
 p) a támogató szolgáltatás, a közösségi ellátások és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
 
@@ -82,7 +82,7 @@ n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan
 
 o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
-(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
