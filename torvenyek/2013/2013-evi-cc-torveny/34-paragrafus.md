@@ -2,4 +2,4 @@
 
 a)–b)
 
-c) 28. § (5) bekezdésében a „ráfordításként elszámolt” szövegrész.
+c)

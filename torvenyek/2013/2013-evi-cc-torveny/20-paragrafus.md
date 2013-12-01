@@ -14,7 +14,7 @@
 
 9.
 
-10. 80. § c) pontjában a „természetbeni” szövegrész;
+10.
 
 11.
 
