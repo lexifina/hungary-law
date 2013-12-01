@@ -22,9 +22,11 @@ i)[^17] a mezőgazdasági vontatóból vagy lassú járműből és mezőgazdasá
 
 j)[^18] a polgárőri szolgálat ellátása során használt járműre,
 
-k)[^19] a polgári frekvenciagazdálkodó hatóság rádióellenőrzési, rádiófelderítési, rádiómegfigyelési, zavarvizsgálati és mérőszolgálati tevékenység ellátására rendszeresített járművére.
+k)[^19] a polgári frekvenciagazdálkodó hatóság rádióellenőrzési, rádiófelderítési, rádiómegfigyelési, zavarvizsgálati és mérőszolgálati tevékenység ellátására rendszeresített járművére,
 
-(2)[^20] Az (1) bekezdés e)–f) és h)–j) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket szabad használni, amelyet az adott szállítási feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
+l)[^20] a Rendőrség 3. § (1) bekezdés b) pontjában meghatározott feladatai ellátásához rendszeresített járművére, amennyiben a megkülönböztető jelzés és figyelmeztető jelzés együttesen került kialakításra.
+
+(2)[^21] Az (1) bekezdés e)–f) és h)–j) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket szabad használni, amelyet az adott szállítási feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
 
 [^14]: A 9. § (1) bekezdés b) pontja a 4/2010. (II. 23.) IRM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^15]: A 9. § (1) bekezdés g) pontját a 4/2010. (II. 23.) IRM rendelet 17. § (2) bekezdése iktatta be.
@@ -32,4 +34,5 @@ k)[^19] a polgári frekvenciagazdálkodó hatóság rádióellenőrzési, rádi�
 [^17]: A 9. § (1) bekezdés i) pontját a 22/2011. (VII. 19.) BM rendelet 2. §-a iktatta be.
 [^18]: A 9. § (1) bekezdés j) pontját a 62/2011. (XII. 29.) BM rendelet 72. § (5) bekezdése iktatta be.
 [^19]: A 9. § (1) bekezdés k) pontját az 1/2013. (I. 25.) BM rendelet 3. §-a iktatta be.
-[^20]: A 9. § (2) bekezdése a 62/2011. (XII. 29.) BM rendelet 72. § (7) bekezdés d) pontja szerint módosított szöveg.
+[^20]: A 9. § (1) bekezdés l) pontját a 63/2013. (XI. 28.) BM rendelet 18. §-a iktatta be.
+[^21]: A 9. § (2) bekezdése a 62/2011. (XII. 29.) BM rendelet 72. § (7) bekezdés d) pontja szerint módosított szöveg.
