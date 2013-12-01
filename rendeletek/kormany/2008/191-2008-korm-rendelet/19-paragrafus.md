@@ -1,14 +1,14 @@
 ## A működési támogatás visszafizetése
 
-19. § (1)[^129] Ha támogató szolgáltatás és közösségi alapellátások esetén a kötelezően teljesítendő feladatmutatót nem teljesítik, a tárgyévi alaptámogatás arányos részét vissza kell fizetni.
+19. § (1)[^132] Ha támogató szolgáltatás és közösségi alapellátások esetén a kötelezően teljesítendő feladatmutatót nem teljesítik, a tárgyévi alaptámogatás arányos részét vissza kell fizetni.
 
-(2)[^130] Ha támogató szolgáltatás és közösségi alapellátások esetén a finanszírozási szerződésben vállalt feladatmutatót nem teljesítik, a tárgyévi teljesítménytámogatás arányos részét vissza kell fizetni.
+(2)[^133] Ha támogató szolgáltatás és közösségi alapellátások esetén a finanszírozási szerződésben vállalt feladatmutatót nem teljesítik, a tárgyévi teljesítménytámogatás arányos részét vissza kell fizetni.
 
-(3)[^131] Ha alacsonyküszöbű ellátás, illetve utcai szociális munka esetén a szolgáltatást nem nyújtják a működési támogatás alapjául szolgáló ellátási terület egészén, vagy nem látják el a finanszírozási szerződésben meghatározott valamennyi feladatot, a tárgyévi működési támogatás arányos részét vissza kell fizetni.
+(3)[^134] Ha alacsonyküszöbű ellátás, illetve utcai szociális munka esetén a szolgáltatást nem nyújtják a működési támogatás alapjául szolgáló ellátási terület egészén, vagy nem látják el a finanszírozási szerződésben meghatározott valamennyi feladatot, a tárgyévi működési támogatás arányos részét vissza kell fizetni.
 
-(3a)[^132] Ha krízisközpont esetén nem nyújtják a finanszírozási szerződésben meghatározott valamennyi szolgáltatást, a tárgyévi működési támogatás időarányos részét vissza kell fizetni.
+(3a)[^135] Ha krízisközpont esetén nem nyújtják a finanszírozási szerződésben meghatározott valamennyi szolgáltatást, a tárgyévi működési támogatás időarányos részét vissza kell fizetni.
 
-(3b)[^133] Ha a Biztos Kezdet Gyerekházban a szolgáltatást adott hónapban átlagosan napi
+(3b)[^136] Ha a Biztos Kezdet Gyerekházban a szolgáltatást adott hónapban átlagosan napi
 
 a) hétnél kevesebb gyermek veszi igénybe olyan településen, ahol legfeljebb ezer állandó lakos él,
 
@@ -24,14 +24,14 @@ b) tíznél kevesebb gyermek veszi igénybe olyan településen, ahol ezernél t
 
 a) a szükséges nyilatkozatok bármelyikét visszavonta,
 
-b)[^134] a pályázatban vagy az ahhoz csatolt, illetve a finanszírozási szerződés megkötéséhez benyújtott iratokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra, illetve a finanszírozási szerződés nem került volna megkötésre.
+b)[^137] a pályázatban vagy az ahhoz csatolt, illetve a finanszírozási szerződés megkötéséhez benyújtott iratokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra, illetve a finanszírozási szerződés nem került volna megkötésre.
 
-(7)[^135] Ha a Hivatal az elszámolást elutasítja, vagy a finanszírozási szerződés megszűnését követően a fenntartó az elszámolási kötelezettségének határidőben nem tesz eleget, vagy a hiánypótlási felhívásnak határidőben nem vagy nem megfelelően tesz eleget, illetve a fenntartó vagy a szolgáltató a finanszírozási szerződés megszűnését követően nem biztosítja az ellenőrzés feltételeit vagy akadályozza az ellenőrzést, a tárgyévi működési támogatás teljes összegét vissza kell fizetni.
+(7)[^138] Ha a Hivatal az elszámolást elutasítja, vagy a finanszírozási szerződés megszűnését követően a fenntartó az elszámolási kötelezettségének határidőben nem tesz eleget, vagy a hiánypótlási felhívásnak határidőben nem vagy nem megfelelően tesz eleget, illetve a fenntartó vagy a szolgáltató a finanszírozási szerződés megszűnését követően nem biztosítja az ellenőrzés feltételeit vagy akadályozza az ellenőrzést, a tárgyévi működési támogatás teljes összegét vissza kell fizetni.
 
-[^129]: A 19. § (1) bekezdése a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^130]: A 19. § (2) bekezdése a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^131]: A 19. § (3) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § v) pontja szerint módosított szöveg.
-[^132]: A 19. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^133]: A 19. § (3b) bekezdését a 322/2013. (VIII. 28.) Korm. rendelet 5. §-a iktatta be.
-[^134]: A 19. § (6) bekezdés b) pontja a 140/2011. (VII. 21.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^135]: A 19. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^132]: A 19. § (1) bekezdése a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^133]: A 19. § (2) bekezdése a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^134]: A 19. § (3) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § v) pontja szerint módosított szöveg.
+[^135]: A 19. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^136]: A 19. § (3b) bekezdését a 322/2013. (VIII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^137]: A 19. § (6) bekezdés b) pontja a 140/2011. (VII. 21.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^138]: A 19. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
