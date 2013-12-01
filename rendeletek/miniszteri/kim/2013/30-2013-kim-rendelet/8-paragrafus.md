@@ -1,3 +1,5 @@
-## 7. § A DNS-profil meghatározásának szakmai-módszertani követelményeiről szóló 19/2010. (IV. 30.) IRM rendelet 15. § (3) bekezdésében a „2013. november 30-án” szövegrész helyébe a „2014. május 30-án” szöveg lép.
+## 7. §[^2]
 
 8. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
