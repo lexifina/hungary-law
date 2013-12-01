@@ -238,4 +238,10 @@ B) lap
 
 Alulírott kérem a gyermekem, gyermekeim/a gyámságom alá helyezett gyermek részére/részemre (a megfelelő aláhúzandó) a hátrányos, halmozottan hátrányos helyzet fennállásának megállapítását
 
+1. NYILATKOZAT ISKOLAI VÉGZETTSÉGRŐL (A nyilatkozat megtétele önkéntes! Amennyiben a szülői felügyeleti jogot a gyermeket együtt nevelő mindkét szülő gyakorolja, mindkét szülőnek külön-külön nyilatkoznia kell!)
+
+⬜ Kijelentem, hogy a kérelem benyújtásának időpontjában legfeljebb alapfokú iskolai végzettséggel rendelkezem.
+
+…………………………………………... ……………………………
+
 [^854]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 20. §-ával megállapított szöveg.

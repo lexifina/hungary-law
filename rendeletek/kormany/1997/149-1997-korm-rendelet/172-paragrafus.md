@@ -6,13 +6,7 @@
 
 (3)[^825] A Kr.-rel megállapított 97. § (1)–(5) bekezdését és 97/A. §-t a 2010. szeptember 30-án folyamatban lévő ügyekben is alkalmazni kell.
 
-(4)[^826] A megyei önkormányzatok által 2011. december 31-én fenntartott intézmények működési engedélyének hivatalbóli módosítása eredményeként
-
-a) az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, átmeneti vagy tartós nevelésbe vett gyermek gondozási helye,
-
-b) a fiatal felnőtt utógondozói ellátásának helye
-
-tekintetében a fenntartó megváltozását, illetve a gondozási (ellátási) hely elnevezésének megváltozását a gyermek ellátásának soron következő felülvizsgálatakor, de legkésőbb 2012. december 31-ig hivatalból módosítani kell.
+(4)[^826]
 
 (5)–(6)[^827]
 
@@ -26,7 +20,7 @@ tekintetében a fenntartó megváltozását, illetve a gondozási (ellátási) h
 [^823]: A hatálybalépés időpontja: 2010. szeptember 16.
 [^824]: A hatálybalépés időpontja: 2010. szeptember 16.
 [^825]: A 172. § (3) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 237/2010. (IX. 13.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^826]: A 172. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 258/2011. (XII. 7.) Korm. rendelet 29. § (4) bekezdése iktatta be.
+[^826]: A 172. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 258/2011. (XII. 7.) Korm. rendelet 29. § (4) bekezdése iktatta be, újból hatályon kívül helyezte a 369/2013. (X. 24.) Korm. rendelet 52. § a) pontja.
 [^827]: A 172. § (5)–(6) bekezdését a 224/1998. (XII. 30.) Korm. rendelet 219. §-a iktatta a szövegbe, s egyidejűleg az addigi (5)–(7) bekezdés számozását (7)–(9) bekezdésre változtatta. A 172. § (5)–(6) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 62. § (1) bekezdés b) pontja hatályon kívül helyezte. Ez utóbbi módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^828]: A 172. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 224/1998. (XII. 30.) Korm. rendelet 219. §-a, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 62. § (1) bekezdés b) pontja. Ez utóbbi módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^829]: A 172. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1323. pontja hatályon kívül helyezte.
