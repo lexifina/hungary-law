@@ -1,3 +1,0 @@
-## 19. § A 21/2012. (III. 9.) VM rendelet 8. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) A kárenyhítő juttatás összegének 6. melléklet szerinti megállapítása során a mezőgazdasági káresemények folytán lecsökkent termés betakarításához kapcsolódó ráfordítás-csökkenést, a mezőgazdasági káresemények után a biztosító által kifizetett kártérítési összeget, az Mkk. tv. 22. §-ában meghatározott haszonbér-mérséklésből eredő bérleti díjcsökkenést le kell vonni a hozamérték-csökkenés összegéből, és a számítás során a 6. mellékletben található költségmegtakarítási fajlagos összegeket kell használni.”
