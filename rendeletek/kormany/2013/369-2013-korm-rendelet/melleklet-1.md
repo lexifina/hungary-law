@@ -1,3 +1,5 @@
+## 57. §[^2]
+
 1. melléklet a 369/2013. (X. 24.) Korm. rendelethez
 
 ## A szolgáltatói nyilvántartás adatai
@@ -331,3 +333,5 @@
 6.3.2. szociális étkeztetés, házi segítségnyújtás, családsegítés, támogató szolgáltatás, közösségi ellátások, utcai szociális munka és gyermekjóléti szolgáltatás esetén település, fővárosi kerület, kistérség vagy járás megnevezésével,
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, kistérség, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
+
+[^2]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
