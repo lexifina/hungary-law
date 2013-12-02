@@ -1,0 +1,94 @@
+# A Kormány 458/2013. (XII. 2.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 200. szám, 2013. december 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d218bfb9dbffccbb790fae9d8f327132293179d0/dokumentumok/972f75a8ff18ccca40724a3bf2099b14c3f81244/letoltes)
+
+---
+
+A Kormány 458/2013. (XII. 2.) Korm. rendelete
+a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló
+58/2013. (II. 27.) Korm. rendelet módosításáról
+A Kormány a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 74. § (1) bekezdés 10. pontjában foglalt felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el.
+1. §
+A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló
+58/2013. (II. 27.) Korm. rendelet (a továbbiakban: Vhr.) a következő 85/A. §-sal egészül ki:
+„85/A. § (1) A háztartási szennyvizet a törzshálózatba juttató szivattyúnak, vákuumszelepnek és ezek műtárgyainak,
+szerelvényeinek (a továbbiakban együtt: szennyvíz beemelő)
+a) a szennyvízelvezető törzshálózattal egyidejű kiépítése – a víziközmű-szolgáltatóval történő eltérő megállapodás
+hiányában – az ellátásért felelős,
+b) a működtetése működőképességének és üzembiztonságának, üzemképes állapotának folyamatos fenntartása
+a víziközmű-szolgáltató
+feladata.
+(2) A szennyvíz beemelő működtetéséhez a felhasználó biztosítja:
+a) a szennyvíz beemelő megközelítésének és hozzáférhetőségének korlátozásmentes lehetőségét, valamint
+b) eltérő műszaki kialakítás vagy megállapodás hiányában a szennyvíz beemelő folyamatos energiaellátását.
+(3) A műszakilag elérhető szennyvízelvezető törzshálózathoz korábban csatlakozott és e rendelet hatálybalépése
+után a felhasználó által kiépített szennyvíz beemelők esetében az üzemeltetési feladat átvételekor a víziközmű-
+szolgáltató és a felhasználó átadás-átvételi jegyzőkönyvet vesz fel, amelyben rögzítik:
+a) a szennyvíz beemelő műtárgy ingatlanon belüli elhelyezkedését, közterület felőli megközelíthetőségét,
+a hozzáférhetőség módját, a jellemző méreteit és anyagát,
+b) a szivattyú vagy a vákuumszelep műtárgyon belüli elhelyezését, típusát, – ha ismert – a gyártási évét, műszaki
+állapotát és az utolsó felújítás időpontját,
+c) a szennyvíz bekötővezetékhez, esetleg a házi vízhálózathoz csatlakozó szerelvények méretét, fajtáját,
+d) az energiaellátó vezeték csatlakozási pontjait, a beépített elektromos védelmi berendezések jellemző
+paramétereit,
+e) a helyszínen készült vázrajzokat műszaki szükség szerinti részletességgel vagy azt a tényt, hogy a felhasználó által
+rendelkezésre bocsátott műszaki tervek megfelelőek,
+f) egyéb, az átadó vagy az átvevő által lényegesnek tartott megállapításokat.
+(4) A (2) bekezdésben meghatározott feladat elmulasztására visszavezethető kárért a víziközmű-szolgáltató nem
+felel. A mulasztás bizonyítása a víziközmű-szolgáltató feladata.
+(5) Ha arra korábban nem került sor, a korábban csatlakozott és a műszakilag elérhető szennyvízelvezető
+törzshálózathoz e rendelet hatálybalépése után a felhasználó által kiépített szennyvíz beemelő akkor kerül
+az ellátásért felelős vagy rendszerfüggetlen víziközmű-elem estében a víziközmű-szolgáltató tulajdonába, amikor
+a fő szerkezeti egység cseréje (új szivattyú, vákuumszelep vagy műtárgy beépítése) válik szükségessé, vagy
+megvalósul annak felhasználási helytől független energiaellátása.
+(6) Az ellátásért felelős a Vksztv. 11. §-ban előírt beruházási terv alapján gondoskodik a (2) bekezdés b) pontjában
+rögzített feladat felhasználási helytől független energiahálózattal történő kiváltásáról.”
+2. §
+A Vhr. a következő 99/A. §-sal egészül ki:
+„99/A. § (1) E rendelet hatálybalépésekor folyamatban lévő szennyvízberuházások esetében a 85/A. § rendelkezéseit
+a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
+(2) A jogerős és hatályos elvi vízjogi engedéllyel vagy jogerős és hatályos vízjogi létesítési engedéllyel rendelkező,
+folyamatban lévő szennyvízberuházás esetén a beruházó – legfeljebb a (7) bekezdésben meghatározott időpontig –
+
+mentesül a szennyvíz beemelő és a felhasználási helytől független energiaellátás kiépítésének kötelezettsége alól,
+ha
+a) a szennyvíz beemelőnek a szennyvízelvezető törzshálózattal egyidejű kiépítése a műszaki tartalom utólagos
+kiegészítését, illetve a vízjogi létesítési engedély módosítását tenné szükségessé, és
+b) az a) pontban foglaltak miatt a beruházás szerződéses határidőben történő megvalósítása veszélybe kerülne vagy
+ellehetetlenülne.
+(3) A (2) bekezdésben meghatározott mentesítés kiterjed arra az engedélyesre is, akinek kérelmére, a vízjogi
+létesítési engedélyezési eljárás e rendelet hatálybalépésekor
+a) már folyamatban van, vagy
+b) a vízjogi létesítési engedélye még nem jogerős,
+feltéve, hogy a vízügyi hatóság által kibocsátott engedély jogerőre emelkedik.
+(4) A (2) bekezdésben meghatározott körülmény fennállása, továbbá a műszakilag elérhető szennyvízelvezető
+törzshálózathoz újonnan csatlakozni kívánó felhasználó (új bekötés) esetében – a víziközmű-szolgáltatóval történő
+eltérő megállapodás hiányában – az érintett felhasználó gondoskodik a víziközmű-szolgáltató üzletszabályzatában
+meghatározott alapvető műszaki követelményeket kielégítő szennyvíz beemelő kiépítéséről.
+(5) A vízjogi üzemeltetési engedélyezési eljárás során a vízügyi hatóság figyelembe veszi, hogy a vízjogi engedélyes
+a szennyvíz beemelő szennyvízelvezető törzshálózattal egyidejű kiépítése alól a (2) és a (3) bekezdés szerint
+mentesítésben részesült.
+(6) A műszakilag elérhető szennyvízelvezető törzshálózathoz korábban csatlakoztatott szennyvízátemelő
+esetében a 85/A. § (3) bekezdésben előírt átadás-átvételi eljárást – ha arra korábban nem került sor – legkésőbb
+2014. február 28-ig kell lefolytatni. A víziközmű-szolgáltató a honlapján és írásban, igazolható módon, legkésőbb
+2013. december 31-ig hívja fel az érintett felhasználók figyelmét a szennyvíz beemelőkre vonatkozó átadási igény
+bejelentésére. Az igénybejelentés kézhezvételét követő 15 napon belül a víziközmű-szolgáltató az átadás-átvételi
+eljárás időpontjáról tértivevényes levélben vagy egyéb igazolható módon értesíti az igénybejelentő felhasználót.
+Az értesítésben a víziközmű-szolgáltató felhívja a felhasználó figyelmét az időpont-egyeztetés lehetőségére – azzal,
+hogy az átadás-átvételi eljárásra legalább munkanapon 20 óráig lehetőséget biztosít –, valamint a víziközmű-
+szolgáltató időpont-egyeztetésre alkalmas elérhetőségére.
+(7) A 85/A. § (6) bekezdésében előírt feladat végrehajtásáról legkésőbb 2018. december 31-ig gondoskodik
+az ellátásért felelős.
+(8) Ha a felhasználási helytől független energiahálózat kialakítása csak aránytalanul nagy költségráfordítással
+volna megvalósítható, az ellátásért felelős a víziközmű-szolgáltató bevonásával, a (7) bekezdésben meghatározott
+határidőn belül megállapodik a felhasználóval az energiaellátás további biztosítása és annak költségviselése
+kérdésében. A megállapodás létrejöttével az ellátásért felelős mentesül a 85/A. § (6) bekezdésében előírt feladat
+végrehajtása alól.
+(9) A (8) bekezdés szerinti megállapodás hatálya az abban részes felek jogutódaira is kiterjed.”
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
