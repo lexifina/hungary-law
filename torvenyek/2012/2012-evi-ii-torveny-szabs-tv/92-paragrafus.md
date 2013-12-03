@@ -8,7 +8,15 @@ b) az eljárás alá vont személynek, a sértettnek, továbbá az eljárás al�
 
 c) a sértett képviselőjének az indokolt készkiadása és díja, akkor is, ha azt az állam nem előlegezte,
 
-d) a közérdekű munka büntetés végzéséhez beszerzett foglalkoztathatósági szakvélemény költsége.
+d) a meg nem fizetett pénzbírság vagy helyszíni bírság közérdekű munkával történő megváltása esetén a közérdekű munka végzéséhez beszerzett foglalkoztathatósági szakvélemény költsége.
+
+(1a) A büntetésként kiszabott közérdekű munka végzéséhez beszerzett foglalkoztathatósági szakvélemény költségét az állam viseli. A szakvélemény költségét
+
+a) a bíróság által kiszabott közérdekű munka esetén az elkövető lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság,
+
+b) egyéb esetben a büntetést kiszabó szabálysértési hatóság
+
+téríti meg.
 
 (2) A (3) bekezdésben meghatározott kivétellel az eljárás alá vont személy viseli a szabálysértési költséget, ha vele szemben szabálysértés elkövetése miatt joghátrányt alkalmaztak.
 
