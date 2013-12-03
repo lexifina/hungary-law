@@ -16,6 +16,4 @@ c) idegenrendészeti vagy menekültügyi eljárásban az idegenrendészeti vagy 
 
 „(4b) A 84. §-ban meghatározott ellátásokat a (4a) bekezdésben felsorolt külföldiek az idegenrendészeti vagy a menekültügyi hatóság által kiállított ideiglenes tartózkodásra jogosító igazolás, vagy humanitárius tartózkodási engedély és a (4a) bekezdésben foglalt feltételek fennállását tanúsító hatósági igazolás birtokában vehetik igénybe.”
 
-(3) Az Sztv. 3. §-a a következő (4c) bekezdéssel egészül ki:
-
-„(4c) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgárra.”
+(3)
