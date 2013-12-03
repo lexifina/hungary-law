@@ -38,11 +38,11 @@ b) toxikológia a progresszivitás harmadik szintjén,
 
 c) gyermek és felnőtt égéssebészet a progresszivitás második, harmadik szintjén,
 
-d)[^21] idegsebészet, stroke a progresszivitás második szintjén,
+d)[^21] idegsebészet a progresszivitás második és harmadik, neurológia és stroke a progresszivitás első, második és harmadik szintjén,
 
 e) infektológia a progresszivitás harmadik szintjén.
 
 [^18]: A 19. § (1) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
 [^19]: A 19. § (6) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
 [^20]: A 19. § (7) bekezdése e rendelet 23. §-ának (3) bekezdése alapján 2006. január 1. napján lépett hatályba.
-[^21]: A 19. § (9) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 14. §-a szerint módosított szöveg.
+[^21]: A 19. § (9) bekezdés d) pontja a 73/2013. (XII. 2.) EMMI rendelet 4. §-ával megállapított szöveg.
