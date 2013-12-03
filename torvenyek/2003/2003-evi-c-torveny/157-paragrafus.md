@@ -57,3 +57,11 @@ c) a bírósági végrehajtásról szóló törvény előírásai szerint a vég
 d) ha az érintett elháríthatatlan okból nem képes hozzájárulását megadni, az érintett vagy más személy létfontosságú érdekeinek védelme, vagy a személyek életét, testi épségét vagy javait fenyegető veszély elhárítása vagy megelőzése érdekében, az adatok megismerésére külön törvényben felhatalmazott szerv kérelme alapján a felhatalmazott szerv részére.
 
 (10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
+
+(11) Az elektronikus hírközlési szolgáltató – ha az a rendelkezésére áll – a szabálysértési hatóság kérelmére a segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértés elkövetőjének azonosítása céljából köteles átadni a segélyhívószámra kezdeményezett hívó telefonszám vonatkozásában
+
+a) az előfizető családi nevére és utónevére, születési helyére és idejére, anyja születési családi és utónevére, lakcímére és értesítési címére, vagy
+
+b) a nem természetes személy előfizető esetén annak cégnevére, székhelyére, telephelyére, képviselőjének családi nevére és utónevére
+
+vonatkozó adatokat.
