@@ -56,7 +56,7 @@
 
 ## s) a vér- és vérkészítményeket (beleértve a szállítást is).
 
-## 2.2. A járóbeteg-ellátást nyújtó egészségügyi szolgáltató a betegellátás folyamatossága érdekében az engedélyezett szakmák mindegyike számára saját szervezeti egységének működtetésével vagy működési engedéllyel rendelkező közreműködő egészségügyi szolgáltató bevonásával, vagy szerződés útján [kivéve: e), k) pont] biztosítja
+## 2.2. A járóbeteg-ellátást nyújtó egészségügyi szolgáltató a betegellátás folyamatossága érdekében az engedélyezett szakmák mindegyike számára saját szervezeti egységének működtetésével vagy működési engedéllyel rendelkező közreműködő egészségügyi szolgáltató bevonásával, vagy szerződés útján [kivéve: e), k), n) és q) pont] biztosítja
 
 ## a) az asszisztenciát/ápolást,
 
@@ -82,11 +82,15 @@
 
 ## l) a dezinfekció tevékenységet,
 
-## m) a biológiai minta szállítását és tárolását,
+## m) a biológiai minta szállítását,
 
-## n) az intézményen belüli betegszállítást,
+## n) a biológiai minta tárolását,
 
-## o) a dietetikai szaktanácsadást (csak a rendelőintézetben).
+## o) az intézményen belüli betegszállítást,
+
+## p) a dietetikai szaktanácsadást (csak a rendelőintézetben),
+
+## q) a járványügyi érdekből történő elkülönítést és a megelőző rendszabályok betartását (izoláció).
 
 ## 3. A járóbeteg szakrendelés/szakambulancia általános feltételei
 
@@ -122,7 +126,7 @@
 
 ## 4.3. Minden fekvőbeteg-ellátó osztálynak rendelkeznie kell a 3. § (1) bekezdés a) és b) pontjában a rendelőre meghatározott feltételeknek megfelelő osztályos vizsgáló helyiséggel.
 
-## 4.4. A felnőtt ellátás keretében gyermekellátást nyújtó egészségügyi szolgáltatónak gyermekek elhelyezésére külön kórtermet, szülői jelenlét lehetőségét és elérhető gyermekgyógyász szakorvosi ellátást biztosítania kell. 18 év alatti gyermek felnőtt osztályon is ellátható a következő szakmákban: fül-orr-gégészet, traumatológia, sebészet, szülészet-nőgyógyászat, szemészet, addiktológia és pszichiátria.
+## 4.4. A felnőtt ellátás keretében gyermekellátást nyújtó egészségügyi szolgáltatónak gyermekek elhelyezésére külön kórtermet, szülői jelenlét lehetőségét és elérhető gyermekgyógyász szakorvosi ellátást biztosítania kell. 18 év alatti gyermek felnőtt osztályon is ellátható a következő szakmákban: fül-orr-gégészet, traumatológia, sebészet, szülészet-nőgyógyászat, szemészet.
 
 ## 5. A fekvőbeteg-ellátás speciális működési formái
 
@@ -152,7 +156,7 @@
 
 ## A heveny tünetek vagy sürgősségi ellátást igénylő kórkép miatt előre nem tervezett felvételre jelentkező vagy előzetes szakorvosi vizsgálat nélkül jelentkező, vagy beszállított beteg fogadására az aktív fekvőbeteg-ellátásra engedéllyel rendelkező egészségügyi szolgáltató
 
-## a) sürgősségi betegellátó osztályt köteles kialakítani a 2. mellékletben meghatározott “sürgősségi betegellátó egységben szervezett szakellátás” minimumfeltételei alapján,
+## a) sürgősségi betegellátó osztályt köteles kialakítani a 2. mellékletben meghatározott „sürgősségi betegellátó egységben szervezett szakellátás” minimumfeltételei alapján,
 
 ## b) az a) pontban meghatározott feltételekkel nem rendelkező szolgáltató beteg-fogadóhelyet köteles kialakítani az alábbi feltételek alapján:
 
@@ -248,7 +252,7 @@
 
 ## 1 A műtőteremnek a bemosakodó helyiséggel és a beteg-előkészítővel közvetlen kapcsolatban kell lennie.
 
-## 2 A helyiségek a “zöld zóna” tisztafolyosójáról kell, hogy nyíljanak.
+## 2 A helyiségek a „zöld zóna” tisztafolyosójáról kell, hogy nyíljanak.
 
 ## 6.1. A műtőterem/kiemelt kezelő általános minimumfeltételei
 
@@ -374,8 +378,6 @@
 
 | Ágytál, vizeletgyűjtő (kacsa) | ágyanként |
 
-## 6.3. Az Intermediaer care ellátás minimumfeltételei
-
 ## Prioritási kritériumok az intermediaer care beutaláshoz:
 
 ## 1. Kritikus állapotú, instabil betegek, akiknél azonban az alapbetegségük természeténél, illetve súlyosságánál fogva a javulás esélye csekély.
@@ -462,7 +464,7 @@
 
 | Személyi feltételek: 1 fő szakorvos + 1 fő asszisztens/szakasszisztens (amennyiben a 2. melléklet másként nem rendelkezik) Fekvőbeteg szakellátásban a 2. melléklet, valamint a 3. melléklet szerinti követelmények | X | X |
 
-| Adminisztrátor (40-50 ágyanként, illetve 5 rendelői munkahelyenként 1) | X | X |
+| Adminisztrátor (50 ágyanként, illetve 5 teljes munkaidős rendelőnként 1) | X | X |
 
 | Betegkísérő | EL* | X |
 
@@ -476,7 +478,7 @@
 
 | Nővérszoba/nővérpult |  | X |
 
-| Fektető (1 fő ápolóval) épületenként járóbeteg ellátásban 2 órán túli tartózkodás esetén, amennyiben a beteg önellátásra képtelen | X |  |
+| Fektető épületenként, járóbeteg-ellátásban 2 órán túli tartózkodás esetén, amennyiben a beteg önellátásra képtelen | X |  |
 
 | Személyzeti öltöző nemenként vizesblokkal | X*/** | X |
 
@@ -526,7 +528,7 @@
 
 | Számítógép, nyomtató | X | X |
 
-| Fax (telephelyenként) | X | X |
+| Fax (telephelyenként) | X* | X |
 
 | Telefon | X | X |
 
@@ -550,7 +552,9 @@
 
 | Ágy (a szakma specialitásaira figyelemmel állítható, gurítható) |  | X |
 
-| Prevenciós és terápiás antidecubitor matrac |  | X |
+| Prevenciós antidecubitor matrac |  | X |
+
+| Terápiás antidecubitor matrac |  | X* |
 
 | Háttámasz, lábtámasz |  | X |
 
@@ -590,13 +594,17 @@
 
 | Oxigénellátás (központi vagy egyedi) |  | X |
 
-| Vérnyomásmérő, vérnyomásmérő mandzsettasor (a korosztálynak megfelelően) | X | X |
+| Vérnyomásmérő | X | X |
+
+| Vérnyomásmérő mandzsettasor (a korosztálynak megfelelően) | EL | X |
 
 | Motoros szívó | X*/** | X |
 
 | Defibrillátor | X*/** | X |
 
-| Készenléti (reanimációs) tálca/táska (lélegeztető ballon, laringoszkóp, különböző méretű tubusok, gyógyszerek)épület szintenként | X* | X |
+| Laringoszkóp, különböző méretű tubusok, gyógyszerek épületenként | X* | X |
+
+| Lélegeztető ballon, maszk, vénabiztosítás eszközei épületszintenként | X* | X |
 
 | EKG képernyővel/regisztrálóval (hordozható) | X* | X |
 
@@ -724,7 +732,7 @@
 
 ## A Központi Sterilizáló Egység az egészségügyi szolgáltató teljes körűen sterilanyag-eszköz előállítást, ellátást végző önálló szervezeti egysége, ahol minőségügyi rendszer alkalmazásával felügyelten a teljes újrafelhasználhatóvá tételi ciklus – a szennyanyag átvételétől a sterilanyag kiadásig – végbemegy.
 
-## 2K20337M_7
+## 3K83445M_7
 
 |  | Kategóriák |
 
@@ -748,7 +756,7 @@
 
 | 1. Szakmai helyiségek19 | rendelő* | rendelőintézet | gyógyintézet | KSE |
 
-| 1.1. “Szennyes oldali” anyagátvevő | - | - | 1 | 1 |
+| 1.1. „Szennyes oldali” anyagátvevő | - | - | 1 | 1 |
 
 | 1.2. Előkészítő helyiségek |  |
 
@@ -798,7 +806,7 @@
 
 | 3. Gépek, műszerek, berendezés (szakmai helyiségenkénti bontásban) | rendelő* | rendelőintézet | gyógyintézet | KSE |
 
-| 3.1. Anyagátvevő | - | - | min. 6 m2 | min. 12 m2 |
+| 3.1. Anyagátvevő | - | - | - | - |
 
 | Átvevő pult | - | - | 1 | 1 |
 
@@ -806,7 +814,7 @@
 
 | Kézmosó/kézfertőtlenítő16 | - | - | 1 | 1 |
 
-| 3.2. Tisztító-mosogató, fertőtlenítő | - | min. 9 m2 | min. 12 m2 | min. 30 m2 |
+| 3.2. Tisztító-mosogató, fertőtlenítő | - | - | - | - |
 
 | Mosogató medence | 1 | 1 | 1 | 1 |
 
@@ -822,7 +830,7 @@
 
 | Kézmosó/kézfertőtlenítő16 | 117 | 117 | 1 | 1 |
 
-| 3.3. Csomagoló | - | min. 10 m2 | min. 20 m2 | min. 50 m2 |
+| 3.3. Csomagoló | - | - | - | - |
 
 | Csomagoló/tálca összerakó asztal | 1 | 118 | 2 | 4 |
 
@@ -834,9 +842,9 @@
 
 | Kézmosó, kézfertőtlenítő16 | - | 118 | 1 | 1 |
 
-| 3.4. Sterilizáló | - | min. 15 m2 | min. 20 m2 | min. 30 m2 |
+| 3.4. Sterilizáló | - | - | - | - |
 
-| Autokláv2, 10 | EL | 111 | 1 | 2 |
+| Autokláv2, 10/hőlégsterilizátor | EL | 111 | 1 | 2 |
 
 | Hőérzékeny anyagok sterilizálására engedélyezett berendezés (ETO12, Formaligáz13, Plazma13) | EL | EL | 1 | 2 |
 
@@ -848,19 +856,19 @@
 
 | Tároló-polcrendszer | - | 118 | 1 | 2 |
 
-| 3.5. Sterilanyag-raktár | - | min. 10 m2 | min. 30 m2 | min. 50 m2 |
+| 3.5. Sterilanyag-raktár | - | - | - | - |
 
 | Kézmosó, kézfertőtlenítő 16 | - | 1 | 1 | 1 |
 
 | Tároló-polcrendszer | - | 1 | 1 | 2 |
 
-| 3.6. Sterilanyag kiadó | - | min. 6 m2 * | min. 10 m2 | min. 15 m2 |
+| 3.6. Sterilanyag kiadó | - | - | - | - |
 
 | Kézmosó, kézfertőtlenítő16 | - | 118 | 1 | 1 |
 
 | Kiadópult | - | - | 1 | 1 |
 
-## * Azon alapellátást, illetve járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében, ahol a működés során a szakma szabályai steril orvostechnikai eszközök alkalmazását írják elő és a sterilizálást helyben végzik. A sterilanyag ellátás egyszer használatos steril anyagokkal, eszközökkel, vagy más, megfelelő működési engedéllyel rendelkező szolgáltatóval kötött szerződés alapján is biztosítható.
+## * Azon alapellátást, illetve járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében, ahol a működés során a szakma szabályai steril orvostechnikai eszközök alkalmazását írják elő és a sterilizálást helyben végzik. A sterilanyag ellátás egyszer használatos steril anyagokkal, eszközökkel, vagy más, megfelelő működési engedéllyel rendelkező és legalább azonos vagy magasabb szinten működő szolgáltatóval kötött szerződés alapján is biztosítható.
 
 ## 1Egy helyiségben végezheti a tisztítást és csomagolást térben elkülönítetten.
 
@@ -868,7 +876,7 @@
 
 ## 3 Amennyiben a sterilizáló berendezés falba épített, kétoldali átadós rendszerű, úgy a csomagoló helyiség sterilanyag raktárral közös fala előtti tér annak tekinthető.
 
-## 4Az Országos Epidemiológiai Központ által kiadott, érvényben lévő Tájékoztató “a sterilizálásról” című kiadvány szerint.
+## 4Az Országos Epidemiológiai Központ által kiadott, érvényben lévő Tájékoztató „a sterilizálásról” című kiadvány szerint.
 
 ## 5Egy helyiségben, térben elkülönítve megoldható.
 
@@ -884,7 +892,7 @@
 
 ## 11A 10. pontban leírtaknak megfelelő, de nem kétajtós autokláv.
 
-## 12Az orvostvechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek megfelelő, vákuum alatt üzemelő, validálható és gázmegsemmisítő berendezéssel felszerelt etilénoxidos gázsterilizáló berendezés beépítése engedélyezett.
+## 12Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek megfelelő, vákuum alatt üzemelő, validálható és gázmegsemmisítő berendezéssel felszerelt etilénoxidos gázsterilizáló berendezés beépítése engedélyezett.
 
 ## 13Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek megfelelő, validálható és megfelelőségi tanúsítvánnyal rendelkező (CE és négyjegyű Notified Body azonosító) formalinos autokláv és plazma sterilizátor beépítése engedélyezett. Ajánlott a kétajtós átadórendszerű berendezés telepítése.
 
@@ -912,7 +920,7 @@
 
 ## X: szükséges
 
-2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^49]
+2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^50]
 
 A TEVÉKENYSÉGEK VÉGZÉSÉHEZ SZÜKSÉGES MINIMUMFELTÉTELEK
 
@@ -920,13 +928,17 @@ A TEVÉKENYSÉGEK VÉGZÉSÉHEZ SZÜKSÉGES MINIMUMFELTÉTELEK
 
 EL: elérhető intézményen belül
 
-EK: elérhető nem intézményen belül
+EK: elérhető intézményen kívül
 
-X: szükséges (tárgyi feltételeknél a szervezeti egységen belül, vagy közvetlenül mellette rendelkezésre kell állnia)
+RM: részmunkaidő
+
+TM: teljes munkaidő
+
+X: szükséges (tárgyi feltételeknél a szervezeti egységen belül vagy közvetlenül mellette rendelkezésre kell állnia)
 
 A személyi feltételek FTE egységben kerültek meghatározásra.
 
-FTE: teljes 40 órás munkaidőre számított heti munkaidő aránya (az általános szabálytól való eltérés jelölve pl. műszakonként v. adott ágyszámra, illetve járóbeteg szakrendelés létszáma heti 30 óra szakrendelésre számítva)
+FTE: teljes 40 órás munkaidőre számított heti munkaidő aránya (az általános szabálytól való eltérés jelölve pl. műszakonként vagy adott ágyszámra, illetve járóbeteg szakrendelés létszáma heti 30 óra szakrendelésre számítva)
 
 sze: szükség esetén
 
@@ -938,11 +950,11 @@ sze: szükség esetén
 
 | Személyi feltételek: |  |
 
-| Orvos vezető – aneszteziológus szakorvos | 1 |
+| Orvos vezető – aneszteziológia és intenzív terápia szakorvos | 1 |
 
 | Vezető aneszteziológiai szakasszisztens | 1 |
 
-| Aneszteziológus szakorvos/szakorvos jelölt intézményen belüli szakorvosi felügyelettel | 1/aneszt. munkahely |
+| Aneszteziológia és intenzív terápia szakorvos/szakorvos jelölt intézményen belüli szakorvosi felügyelettel | 1/aneszt. munkahely |
 
 | Felnőtt aneszteziológiai és intenzív szakápoló/aneszteziológiai szakasszisztens | 1/aneszt. munkahely |
 
@@ -956,13 +968,15 @@ sze: szükség esetén
 
 | Lélegeztetőkészülék | 1/gép |
 
-| Voluméter(az altatógép monitorba beépített is lehet) | 1/gép |
+| Voluméter (az altatógép monitorba beépített is lehet) | 1/gép |
 
-| Légúti nyomásmérő(az altatógép monitorba beépített is lehet) | 1/gép |
+| Légúti nyomásmérő (az altatógép monitorba beépített is lehet) | 1/gép |
+
+| Palackos oxigén | 1 |
 
 | Oxigénkimaradás-jelző riasztó (altatógépbe beépített is lehet) | 1 |
 
-| A légzőrendszer szétkapcsolódását jelző riasztó(beépített is lehet) | 1 |
+| A légzőrendszer szétkapcsolódását jelző riasztó (beépített is lehet) | 1 |
 
 | Aneszteziológiai betegőrző monitor | 1 |
 
@@ -986,11 +1000,11 @@ sze: szükség esetén
 
 Az esetleges aneszteziológiai szövődmények elhárítására megfelelő intenzív terápiás háttér biztosítása szükséges
 
-| Aneszteziológiai szakrendelés/szakambulancia minimumfeltételei |
+| Aneszteziológiai járóbeteg szakrendelés/szakambulancia minimumfeltételei |
 
 | Személyi feltételek: |  |
 
-| Aneszteziológus szakorvos | 1 |
+| Aneszteziológia és intenzív terápia szakorvos | 1 |
 
 | Általános asszisztens/felnőtt aneszteziológiai és intenzív szakápoló/aneszteziológiai szakasszisztens | 1 |
 
@@ -1016,19 +1030,19 @@ Az esetleges aneszteziológiai szövődmények elhárítására megfelelő inten
 
 | Testsúly és testmagasságmérő | 1 |
 
-| Otthon végzett parenterális táplálási szakambulancia minimumfeltételei |
+| Otthon végzett parenterális táplálási járóbeteg szakambulancia minimumfeltételei |
 
 | Személyi feltételek: |  |
 
-| Aneszteziológia és intenzív terápia szakorvos/gasztroenterológia szakorvos/sebész szakorvos | 1 |
+| Aneszteziológia és intenzív terápia szakorvos/gasztroenterológia szakorvos/sebészet szakorvos | 1 |
 
-| Klinikai és mentálhigiéniai felnőtt szakpszichológus | EK |
+| Klinikai és mentálhigiéniai felnőtt szakpszichológus/pszichológus | EK |
 
-| Klinikai és mentálhigiéniai gyermek szakpszichológus | EK |
+| Klinikai és mentálhigiéniai gyermek szakpszichológus/pszichológus | EK |
 
 | Pszichoterapeuta | EK |
 
-| Radiológia szakorvos | EL |
+| Radiológia szakorvosa | EL |
 
 | Dietetikus | EL |
 
@@ -1072,11 +1086,13 @@ Az esetleges aneszteziológiai szövődmények elhárítására megfelelő inten
 
 | CT | EL |
 
-Az otthoni parenterális táplálás feltételei az otthoni szakápolási tevékenységről szóló 20/1996. (VII. 26.) NM rendeletben foglaltak figyelembe vételével
+Az otthoni parenterális táplálás feltételei az otthoni szakápolási tevékenységről szóló 20/1996. (VII. 26.) NM rendeletben foglaltak figyelembe vételével biztosítandók.
 
 | Intenzív ellátás | Szakmakód: | 1502 |
 
 Intenzív ellátás
+
+Az 1. progresszivitási szinten végzett ellátás a szakmaspecifikus őrzők feladata. Ezek minimumfeltételei a kardiológia, neurológia és pulmonológia szakmánál szerepelnek.
 
 Prioritási kritériumok intenzív osztályos beutaláshoz:
 
@@ -1114,7 +1130,7 @@ Feladatai:
 
 7. Mesterséges táplálás.
 
-Ezek az intenzív osztályok 1-3 prioritási csoport valamelyikébe sorolható betegeket kezelnek. Az ezen ellátási szinthez tartozó intenzív osztály tevékenységi körét, illetve annak korlátait a kórháza által vitt szakmák jellege határozza meg. A kórházi profilba nem tartozó (pl. idegsebészeti, szívsebészeti, gyermeksebészeti), vagy komplikált, speciális kezeléseket igénylő beteget a progresszív ellátási szintnek megfelelő intenzív osztályra helyezi át a beteg állapotának stabilizálását követően.
+Ezek az intenzív osztályok az 1-3 prioritási csoport valamelyikébe sorolható betegeket kezelnek. Ezen ellátási szinthez tartozó intenzív osztály tevékenységi körét, illetve annak korlátait a kórháza által vitt szakmák jellege határozza meg. A kórházi profilba nem tartozó (pl. idegsebészeti, szívsebészeti, gyermeksebészeti), vagy komplikált, speciális kezeléseket igénylő beteget a progresszív ellátási szintnek megfelelő intenzív osztályra helyezi át a beteg állapotának stabilizálását követően.
 
 Intenzív III.:
 
@@ -1136,7 +1152,7 @@ Feladataik:
 
 7. Mesterséges táplálás
 
-8. III. progreszivitási szintű társszakmák intenzív hátterének biztosítása
+8. III. progresszivitási szintű társszakmák intenzív hátterének biztosítása
 
 Ebbe a csoportba tartoznak a multidiszciplináris, nagy betegforgalmú megyei és klinikai intenzív osztályok.
 
@@ -1148,19 +1164,15 @@ Ebbe a csoportba tartoznak a multidiszciplináris, nagy betegforgalmú megyei é
 
 | Személyi feltételek: |  |  |
 
-| Vezetők |  |  |
+| Vezető: Aneszteziológia és intenzív terápia szakorvos vagy intenzív terápia szakorvos | 1 | 1 |
 
-| Az egységet kinevezett vezető irányítja | 1 | 1 |
+| Orvos (szakorvos, szakorvos jelölt)-beteg arány | 1:4 | 1:3 |
 
-| A vezető az alábbi követelményeket teljesíti: |  |  |
-
-| 1. Aneszteziológiai és/vagy intenzív terápiás szakorvos | X | X |
-
-| 2. Irányítja, szervezi a gyógyító, igazgatási és szakképzési munkát | X | X |
-
-| Orvos-beteg arány | 1:2 | 1:2 |
+| Ápoló-beteg arány | 1:3 | 1:2 |
 
 | A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |  |
 
 | 1. Ágyszám | A kórházi össz. ágyszám 3%-a, de minimum | 5 | 8 |
 
@@ -1168,7 +1180,7 @@ Ebbe a csoportba tartoznak a multidiszciplináris, nagy betegforgalmú megyei é
 
 | Gép-műszer tisztító |  | 1 | 1 |
 
-| Technikai szoba / gép raktár |  | 1 | 1 |
+| Technikai szoba/gép raktár |  | 1 | 1 |
 
 | 3. Műszer-géppark |  |  |  |
 
@@ -1190,11 +1202,11 @@ Ebbe a csoportba tartoznak a multidiszciplináris, nagy betegforgalmú megyei é
 
 | Invazív perctérfogat monitorozási lehetőség |  | 2 | 4 |
 
-| Lélegeztető készülék | Hány ágyanként 1 | 1 | 1 |
+| Lélegeztető készülék | ágyanként | 1 | 1 |
 
 | Fiberoptikás brochoscop |  | 1 | 1 |
 
-| Kézi lélegeztető ballon | Minimum | 3 | 3 |
+| Kézi lélegeztető ballon |  | 3 | 3 |
 
 | Mobil újraélesztési egység |  | 1 | 2 |
 
@@ -1206,7 +1218,7 @@ Ebbe a csoportba tartoznak a multidiszciplináris, nagy betegforgalmú megyei é
 
 | Mellkasszívó készülék, fali | ágyanként | 1 | 1 |
 
-| Motoros fecskendő (perfúzor) | ágyanként | 4 | 4 |
+| Motoros fecskendő (perfúzor) | ágyanként | 3 | 3 |
 
 | Infuziós pumpa (infúzor) | ágyanként | 2 | 2 |
 
@@ -1234,7 +1246,7 @@ Ebbe a csoportba tartoznak a multidiszciplináris, nagy betegforgalmú megyei é
 
 | Személyi feltételek: |  |
 
-| Aneszteziológiai és intenzív terápiás szakorvos | 1 |
+| Aneszteziológia és intenzív terápia szakorvos | 1 |
 
 | Általános asszisztens/felnőtt aneszteziológiai és intenzív szakápoló/aneszteziológiai szakasszisztens | 1 |
 
@@ -1254,9 +1266,9 @@ Tartós lélegeztetési igényű betegeknek,
 
 1. akiket kezelésük során 30 napon túl kell mesterségesen lélegeztetni, és ennek felfüggesztése a beteg életét akutan veszélyeztetné.
 
-2. akiknél olyan kórkép igazolódott a vizsgálatok során, amely természeténél fogva várhatóan 30 napot meghaladó gépi lélegeztetést tesz szükségessé, melynek felfüggesztése akutan veszélyezteti a beteg életét. Ez utóbbi esetben – amennyiben nincs egyéb szervtámogatásra szükség – a 30 napos időkorlát betartása sem szükséges, a folyamat chronicus, vagy chronicus/progresszív jellegénél fogva, hanem hamarabb is megindítható a tartós lélegeztető központban a kezelés vagy az otthoni lélegeztetés.
+2. akiknél olyan kórkép igazolódott a vizsgálatok során, amely természeténél fogva várhatóan 30 napot meghaladó gépi lélegeztetést tesz szükségessé, melynek felfüggesztése akutan veszélyezteti a beteg életét. Ez utóbbi esetben – amennyiben nincs egyéb szervtámogatásra szükség – a 30 napos időkorlát betartása sem szükséges, hanem hamarabb is megindítható a tartós lélegeztető központban a kezelés vagy az otthoni lélegeztetés.
 
-Osztály kialakítása: felnőtt ellátásban 6-8 ágyas és a csecsemő-gyermek ellátásban 4-6 ágyas osztályok.
+Osztály kialakítása: felnőtt ellátásban 6-8 ágyas, a csecsemő-gyermek ellátásban 4-6 ágyas osztályok.
 
 Az otthonlélegeztetés központjait ott kell kialakítani, ahol a tartós lélegeztetés is folyik. Ezekbe a központokba ki kell helyezni 5 olyan készüléket, amelyek az otthoni lélegeztetésre alkalmasak. A beteg innen veheti kölcsön a készüléket, a készülék meghibásodása esetén ebből a készletből kaphat cserekészüléket, a központ gondoskodik a készülékek szervizeléséről.
 
@@ -1266,9 +1278,9 @@ Az otthonlélegeztetés központjait ott kell kialakítani, ahol a tartós léle
 
 | Személyi feltételek: |  |
 
-| Aneszteziológiai és/vagy intenzív terápiás szakorvos | 1 |
+| Aneszteziológia és intenzív terápia szakorvos vagy intenzív terápia szakorvos | 1 |
 
-| A szakdolgozói létszám a 3. mellékletben az intermedier care-re meghatározottak szerint (ápoló, dietetikus, gyógytornász) |  |
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X |
 
 | Tárgyi feltételek: az osztály általános feltételei + |  |
 
@@ -1284,19 +1296,19 @@ Az otthonlélegeztetés központjait ott kell kialakítani, ahol a tartós léle
 
 | Műszer-géppark |  |
 
-| Ágymelletti betegőrző monitor: minimum: EKG, pulzusszám, non-invazív vérnyomásmérés lehetősége | 1/ágyanként |
+| Ágymelletti betegőrző monitor: minimum: EKG, pulzusszám, non-invazív vérnyomásmérés lehetősége | ágyanként 1 |
 
 | Kapnográf (etco2 mérési lehetőség) | respirátoronként |
 
-| Pulzoximéter | 1/ágyanként |
+| Pulzoximéter | ágyanként 1 |
 
 | Folyamatos testhőmérséklet monitorozás | X |
 
-| Véres vérnyomásmérő (min. 2 csatorna) | ¼ ágyanként |
+| Véres vérnyomásmérő (min. 2 csatorna) | 4 ágyanként 1 |
 
 | EKG regisztráló készülék, 3 csatornás | 1 |
 
-| Lélegeztető készülék (teljes értékű lélegeztetésre alkalmas) | 1/ágyanként |
+| Lélegeztető készülék (teljes értékű lélegeztetésre alkalmas) | ágyanként 1 |
 
 | Kézi lélegeztető ballon | 2 |
 
@@ -1304,15 +1316,15 @@ Az otthonlélegeztetés központjait ott kell kialakítani, ahol a tartós léle
 
 | Defibrillátor, hordozható | 1 |
 
-| Váladékszívó készülék, fali | 1/ágyanként |
+| Váladékszívó készülék, fali | ágyanként 1 |
 
-| Mellkasszívó készülék, fali | 1/ágyanként |
+| Mellkasszívó készülék, fali | ágyanként 1 |
 
-| Motoros fecskendő (perfúzor) | 1/3 ágyanként |
+| Motoros fecskendő (perfúzor) | 3 ágyanként 1 |
 
-| Infúziós pumpa (infúzor) | 1/3ágyanként |
+| Infúziós pumpa (infúzor) | 3 ágyanként 1 |
 
-| Vér- infúzió melegítő egyszerű | 1 |
+| Vér-infúzió melegítő egyszerű | 1 |
 
 | Laringoszkóp | 2 |
 
@@ -1320,15 +1332,15 @@ Az otthonlélegeztetés központjait ott kell kialakítani, ahol a tartós léle
 
 | Vérgázanalizátor | 1 |
 
-| ARC-ÁLLCSONT-SZÁJSEBÉSZET |
+| ARC-, ÁLLCSONT- ÉS SZÁJSEBÉSZET |
 
-| Arc-állcsont-szájsebészet | Szakmakód: | 1700 |
+| Arc-, állcsont- és szájsebészet | Szakmakód: | 1700 |
 
 Egynapos sebészet
 
 Sürgősségi, dentoalveoláris eredetű és traumatológiai ellátáshoz kapcsolódó fekvő osztályos beavatkozások végzése.
 
-Ambuláns beavatkozások és egy napos sebészeti ellátások végzésére alkalmas intézmények, melyek tudják a biztonsághoz szükséges intézeti fekvőbeteg hátteret biztosítani. Nem végezhetnek 24 órás hospitalizációt meghaladó obszervációt kívánó műtéteket.
+Ambuláns beavatkozások és egy napos sebészeti ellátások végzésére alkalmas intézmények, amelyekben biztosítják a szükséges fekvőbeteg hátteret. Nem végezhetnek 24 órás hospitalizációt meghaladó obszervációt kívánó műtéteket.
 
 Fekvőbeteg szakellátás
 
@@ -1344,8 +1356,6 @@ Malignus folyamat miatti műtétek csak megfelelő diagnosztikus háttérrel, ko
 
 A 24 óránál hosszabb idejű bent tartózkodást igénylő összes sebészeti műtét elvégzésére alkalmas osztály, mely a személyi és tárgyi feltételeknek megfelel.
 
-15 ágynál kisebb ágyszámmal is működtethető .
-
 Minimum ágyszám: 7
 
 III. szint:
@@ -1354,27 +1364,25 @@ Azok a fekvő osztályok, melyek az arc-állcsontsebészet teljes spektrumát v�
 
 Személyi és tárgyi feltétellel rendelkeznek az alábbi négy, speciális műtéti beavatkozás rutinszerű végzéséhez:
 
-orthognat műtétek (minimum évi 10)
+- orthognat műtétek (minimum évi 10),
 
-mikrosebészeti technikával végzett szövetátültetések (minimum évi 10)
+- mikrosebészeti technikával végzett szövetátültetések (minimum évi 10),
 
-hasadék műtétek (minimum évi 10)
+- hasadék műtétek (minimum évi 10),
 
-pánfaciális sérülések ellátása (minimum évi 5)
+- pánfaciális sérülések ellátása (minimum évi 5).
 
-Térségenként (1-1,2 millió lakos) 1 III. szintű központ szükséges.
-
-A II. és III. szinthez arc-állcsont és szájsebészeti szakambulancia tartozik, melyen belül speciális szakambulanciát nem különítünk el.
+A II. és III. szinthez arc-, állcsont- és szájsebészeti szakambulancia tartozik.
 
 Minimum ágyszám: 10
 
-| Arc-állcsont-szájsebészet osztály minimumfeltételei |
+| Arc-, állcsont- és szájsebészeti osztály minimumfeltételei |
 
 |  | Progresszivitási szint |
 
 |  | Egynapos sebészet | II. | III. |
 
-| Személyi feltételek: |  |  |  |
+|  | Személyi feltételek: |  |  |  |
 
 | Szakorvos osztályvezető | 1 [DA, vagy Szs(D)] | 1 [AÁSZ, vagy Szs(O), vagy Szs(K)] | 1 [AÁSZ, vagy Szs(O), vagy Szs(K)] |
 
@@ -1382,13 +1390,13 @@ Minimum ágyszám: 10
 
 | Orvosi teljesidő egyenérték: | 1,7 (évi 8 hét kieséssel kalkulálva) | 4,2 (évi 8 hét kieséssel kalkulálva) | 6,0 (évi 8 hét kieséssel kalkulálva) |
 
-| Szakorvos | 1 | 2* | 3* |
+|  | Szakorvos | 1 | 2* | 3* |
 
 | Orvos |  | 2 | 3 |
 
 | A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |
 
-| Klinikai és mentálhigiéniai szakpszichológus |  | EL | EL |
+|  | Klinikai és mentálhigiéniai szakpszichológus/pszichológus |  | EL | EL |
 
 | Tárgyi feltételek: |  |  |  |
 
@@ -1396,15 +1404,87 @@ Minimum ágyszám: 10
 
 *A II-III. szinten maxillo-faciális szakorvosi [AÁSZ; Szs(O); Szs(K)] felügyelet mellett látható el ügyelet.
 
-A II. szinten az ügyelet készenléti szinten látható el. Az aneszteziológiai ellátást központi aneszteziológiai szolgálat biztosítja.
+A II. szinten az ügyelet készenléti szinten látható el.
 
-A III. szinten ügyelet, mint a minimumfeltételekben meghatározott: III. szinten maxillo-faciális szakorvosi [AÁSZ; Szs(O); Szs(K)] folyamatos készenléti felügyelet mellett látható el ügyelet, melyet szakorvosjelölt és dentoalveoláris sebész is elláthat. A III. szinten az aneszteziológiát a központi szolgálatoknak kell ellátniuk.
+A III. szinten ügyelet, mint a minimumfeltételekben meghatározott: III. szinten maxillo-faciális szakorvosi [AÁSZ; Szs(O); Szs(K)] folyamatos készenléti felügyelet mellett látható el ügyelet, melyet szakorvosjelölt és dentoalveoláris sebész is elláthat.
 
 Ügyeletet minden szinten elláthat dentoalveoláris sebész.
 
-Jelmagyarázat:
+Megjegyzés:
 
 DA: dentoalveoláris sebész szakorvos
+
+Jelmagyarázat:
+
+* Dialízis gyakorlattal rendelkező belgyógyász, gyermekgyógyász és aneszteziológia és intenzív terápiás szakorvos felügyelői tevékenységet végezhet dialízis centrumban akkor, ha minimumfeltételként telefonon azonnal elérhető a nefrológus szakorvos. A gyermekgyógyász szakorvos ezt a tevékenységet csak gyermekdialízis centrumban láthatja el. Belgyógyász, gyermekgyógyász (csak gyermekdialízis centrumban) vagy aneszteziológia és intenzív terápia szakorvosjelölt – rezidensi periódusa eredményes lezárása után – azonos telephelyen, megegyező időben jelenlévő nefrológus szakorvos felügyelete mellett tevékenykedhet. ** Az akut kezelőhelyiségben oxigén, szívó, mozgatható vizsgálólámpa, újraélesztő-felszerelés, EKG, defibrillátor szükséges.
+
+| Peritoneális dialízis központok és CAPD ambulanciák működésének szakmai minimumfeltételei |
+
+|  | Oktató központ | CAPD központ | CAPD ambulancia |
+
+| Személyi feltételek: |  |  |  |
+
+| Vezető nefrológia szakorvos | 1 | 1 | 1 |
+
+| Nefrológia szakorvos | 2 | 1 | 1 |
+
+| Szakápoló (20 betegre 1) | X | X | X |
+
+| Nefrológiai szakápoló | 1 | 1 | 1 |
+
+| Dietetikus | EL | EL | EK |
+
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EK | EK | EK |
+
+| Tárgyi feltételek: |  |  |  |
+
+| CAPD kezelő | X | X | X |
+
+| CAPD gyakorló helyiség | X | X |  |
+
+| Asztali mérleg | X | X | X |
+
+| Oldatmelegítő berendezés (termosztát vagy micro melegítő) | X | X | X |
+
+| Fonendoszkóp személyenként 1 db | X | X | X |
+
+| ABPM | X | X | X |
+
+| Speciális PD-bemutató és oktató eszközök | X | X | X |
+
+| APD automata | X |  |  |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |  |
+
+| Mikrobiológiai laboratórium | EK | EK | EK |
+
+| Orvosi laboratórium | EK | EK | EK |
+
+| Képalkotó diagnosztika | EK | EK | EK |
+
+| Nefrológiai vagy belgyógyászati osztályos háttér | EK | EK | EK |
+
+| Hemodialízis háttér | X | X | X |
+
+| Szervezett betegszállítás | EK | EK | EK |
+
+| Szervezett anyagszállítás | EK | EK | EK |
+
+| BŐRGYÓGYÁSZAT |
+
+| Bőr- és nemibeteg-ellátás | Szakmakód: | 0800 |
+
+Bőrgyógyászat, kozmetológia, STD betegségek és venerológia (syphilis, gonorrhoea, HIV):
+
+− Bőr- és Nemibeteg gondozó Intézetek (syphilis, gonorrhoea gondozása),
+
+− HIV - STD Centrumok (antiretrovirális kezelésben még nem részesülő HIV pozitívak gondozása),
+
+− II-III. szintű bőrgyógyászati fekvőbeteg osztályok.
+
+Bőrgyógyászat, kozmetológia és STD betegségek ellátása, de nem jogosult a venerológiai betegségek gondozására (syphilis, gonorrhoea és HIV).
+
+Szakképesítés neve: bőrgyógyász szakorvos/bőrgyógyász, kozmetológus és venerológus szakorvos.
 
 AÁSZ: arc-állcsont-szájsebész szakorvos
 
@@ -1414,27 +1494,25 @@ Szs(O): szájsebész szakorvos orvosi alapdiplomával
 
 Szs(K): szájsebész szakorvos kettősdiplomával
 
-| Arc-állcsont-szájsebészet műtő minimumfeltételei |
+| Arc-, állcsont- és szájsebészeti műtő minimumfeltételei |
 
 |  | Progresszivitási szint |
 
 |  | Egynapos sebészet | II. | III. |
 
-| Személyi feltételek: |  |  |  |
+| Személyi feltételek: a műtő egység általános feltételei + |  |  |  |
 
-| a műtő egység általános feltételei + |  |  |  |
+|  | Arc-, állcsont- és szájsebészet szakorvos és szájsebészet szakorvos | Arc-állcsont-szájsebészet osztály személyi feltételei szerint |
 
-| Arc-állcsont-szájsebész szakorvos és szájsebész szakorvos | Arc-állcsont-szájsebészet osztály személyi feltételei szerint |
+|  | Műtéti szakasszisztens |  | 2 | 2 |
 
-| Műtéti szakasszisztens |  | 2 | 2 |
-
-| Aneszteziológus szakorvos |  | 1 | 1 |
+| Aneszteziológia és intenzív terápia szakorvos |  | 1 | 1 |
 
 | Tárgyi feltételek: a műtő egység általános feltételei + |  |  |  |
 
 | Fejlámpa hidegfénnyel |  | X | X |
 
-| Elektromos és/vagy pneumatikus fúró, fűrész | X | X | X |
+| Elektromos/pneumatikus fúró, fűrész | X | X | X |
 
 | Sebészeti mikromotor | X | X | X |
 
@@ -1474,7 +1552,7 @@ Szs(K): szájsebész szakorvos kettősdiplomával
 
 | Sebészeti lézerkészülék |  |  | X |
 
-| Flexibilis naso-pharyngo-laryngo-tracheo-bronhoszkóp hidegfényforrással saját szívóval, munkacsatornával |  | X | X |
+| Flexibilis naso-pharyngo-laryngo-tracheo-bronchoszkóp hidegfényforrással saját szívóval, munkacsatornával |  | X | X |
 
 | Flexibilis intubáló fiberoscop |  |  | X |
 
@@ -1506,7 +1584,7 @@ Szs(K): szájsebész szakorvos kettősdiplomával
 
 | Elektrofiziológiai vizsgálatok (EMG, NET) arcidegbénulás esetén | EK | EK | EK |
 
-| Mikrobiológiai laboratórium |  | EK | EK |
+| Mikrobiológiai laboratóriumi diagnosztika |  | EK | EK |
 
 | CT | EK | EK* | EK* |
 
@@ -1516,29 +1594,1043 @@ Szs(K): szájsebész szakorvos kettősdiplomával
 
 | Angiográfia |  | EK | EL |
 
-| Izotópdiagnosztika | EK | EK | EL |
+| Nukleáris medicina | EK | EK | EL |
 
 | Intenzív osztály | EK | EK | EL |
 
-* 2 órán belül elérhető
+Progresszivitási szint:
 
-| Arc-állcsont-szájsebészeti járóbeteg szakrendelés és szakambulancia minimumfeltételei |
+I. szint:
+
+A belgyógyászati szakma alaptevékenységeinek elvégzése aktív osztály keretein belül. A belgyógyászat szakmailag speciális tapasztalatot, speciális műszerigényt igénylő, a belgyógyászat alaptevékenységre épülő ágai magasabb progresszivitású önálló szakmaként jelennek meg az ellátórendszerben (nefrológia, gasztroenterológia, allergológia és klinikai immunológia, endokrinológia és anyagcsere betegségek, angiológia, phlebológia, lymphológia). Ugyancsak önálló szakmaként jelenik meg a kardiológia és a hematológia szakma is.
+
+| Belgyógyászati osztály minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Belgyógyászat szakorvos 15 ágyig a további ágyakra | 2 1/15 ágy |
+
+| Orvos 15 ágyig a további ágyakra | 2 1/15 ágy |
+
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |
+
+| Ápolás eszközei: |  |
+
+| Betegemelő | X |
+
+| Járókeret | X |
+
+| Szoba-WC | X |
+
+| Tolókocsi (ülő, fekvő) | X |
+
+| EKG | X |
+
+| Pulzus, vérnyomásmonitor | EL |
+
+| Speciálisdiagnosztikai és szakmai háttér: |  |
+
+| Operatív endoszkópos laboratórium | EK |
+
+| CT | EK |
+
+| Ultrahang | EL |
+
+| EEG | EK |
+
+| Nukleáris medicina | EK |
+
+| Osteodensitometria | EK |
+
+| Krónikus belgyógyászat minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Belgyógyászat szakorvos 40 ágyig a további ágyakra | 1 1/60 ágy |
+
+| Orvos 40 ágyig a további ágyakra | 1 1/60 ágy |
+
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EK |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |
+
+| Antidecubitor eszközök: ülőpárna, sarok-, könyök gyűrű, egyéb | X |
+
+| Prevenciós antidecubitor matrac | 6 ágyanként |
+
+| Terápiás antidecubitor matrac | 15 ágyanként |
+
+| Járókeret | X |
+
+| Szoba-WC | X |
+
+| Karosszék rögzítési lehetőséggel a betegek kiültetéséhez (kórtermenként) | 1 |
+
+| Betegszállító kocsi | 1 |
+
+| Belgyógyászati járóbeteg szakrendelés minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Belgyógyászat szakorvos | 1 |
+
+| Általános asszisztens/szakasszisztens | 1 |
+
+| Tárgyi feltételek: a rendelő általános feltételei + | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |
+
+| Gasztroenterológiai endoszkópia | EK |
+
+| Általános orvosi laboratórium | EK |
+
+| Radiológia | EK |
+
+| EKG | X |
+
+| EEG | EK |
+
+| Ergometria | EK |
+
+| Holter | EK |
+
+| Mikrobiológiai laboratórium | EK |
+
+| Angiológia, phlebológia, lymphológia | Szakmakód: | 0101 |
+
+Szakambulancia
+
+2 éves angiológiai, phlebológiai, lymphológiai gyakorlattal rendelkező belgyógyászat szakorvossal működtetett kórházi szakambulancia.
+
+Fekvőbeteg szakellátás
+
+Progresszivitási szintek
+
+II. szint:
+
+2 éves angiológiai, phlebológiai, lymphológiai gyakorlattal rendelkező legalább 2 belgyógyász szakorvos, szakambulancia, önállóan vagy belgyógyászati osztály részlegeként működő angiológiai fekvőbeteg ellátás az intézményben. Intézményen belül elérhető érsebészet és intervenciós radiológia (mindkettő legalább II. szint) és intézményen kívül elérhető DSA.
+
+Fekvőbeteg szakellátás
+
+Progresszivitási szintek
+
+II.a szint:
+
+Olyan belgyógyászati osztályok, ahol legalább 2 hematológus szakorvos dolgozik. A területéhez tartozó betegek esetében elvégzi a diagnosztikai vizsgálatokat, az egyszerűbb terápiákat és a hematológiai betegek palliatív ellátását. Hosszú apláziát okozó terápiát nem végezhet.
+
+Minimum ágyszám: 5
+
+II.b szint:
+
+Komplex hematológiai ellátást végző egységek (hemostasis, onko-hematológia jelentős része, kivéve a hemopoetikus őssejt-transzplantáció, illetve a bonyolultabb nagy értékű, kuratív célú onkohematologiai kezelés). Komplex onko-hematológiai járóbeteg ellátás, hemostasis szakambulancia, hematológiai ellátás általános belgyógyászati háttér megléte esetén végezhető.
+
+Minimium ágyszám: 10
+
+III. szint:
+
+A komplex onko-hematológiai ellátás teljes köre, komplex hemostasis és vérzékeny betegellátás (fekvő- és járóbeteg), folyamatos terápiás aferezis biztosítása.
+
+A III. szintnek megfelelő tevékenységeken kívül a csontvelő- és hemopoetikus őssejt-transzplantációt (beleértve az őssejt gyűjtést, feldolgozást, fagyasztást, tárolást, visszaadást) az egészségügyről szóló 1997. évi CLIV. törvénynek a szerv- és szövetátültetésre, valamint -tárolásra és egyes kórszövettani vizsgálatokra vonatkozó rendelkezései végrehajtásáról szóló 18/1998. (XII. 27.) EüM rendeletben kijelölt intézmények végezhetik.
+
+A III. szintű hematológiai ellátás általános belgyógyászati és intenzív terápiás háttér megléte esetén végezhető.
+
+Minimum ágyszám: 15
+
+| Hematológia osztály minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | II.a | II.b | III. |
+
+| Személyi feltételek: |  |  |  |
+
+| Hematológia szakorvos (FTE egységben) 5-10 ágyra 11-20 ágyra 21-30 ágyra | 2 1 | 2 2 |  |
+
+| 30 ágy felett további 10 ágyanként Szakorvos, akik közül legalább 1 hematológia szakorvos/hematológia szakorvos jelölt | 1 | 1 |  |
+
+| orvos 15 ágyra ebből hematológia szakorvos |  |  | 4 3 |
+
+| orvos további 15 ágyanként ebből hematológia szakorvos |  |  | 2 1 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |
+
+| Általános asszisztens | 0 | 1 | 1 |
+
+| Hematológiai vagy transzfúziológiai szakasszisztens | 1 | 1 | 1 |
+
+| Tárgyi feltételek: az osztály általános feltételei és a belgyógyászati osztály (0100) feltételei + |  |  |  |
+
+| Szakmailag speciális helyiségek |  |  |  |
+
+| Kizárólag i.v. citosztatikus kezeléshez | X | X | X |
+
+| Citosztatikum előkészítéshez | X | X | X |
+
+| Csíraszegény egyágyas kórtermek (WC + zuhanyozó + bejárati zsilip) | 0 | 1 | 2 |
+
+| Portábilis röntgen | 0 | EL | EL |
+
+| Crista biopsziás tű | X | X | X |
+
+| Hűtőszekrények (vér-vérkészítmények) | X | X | X |
+
+| Hűtőszekrények (gyógyszer) | X | X | X |
+
+| Infúziós pumpa (perfúzor) | X | X | X |
+
+| Vérmelegítő | X | X | X |
+
+| Mikroszkóp | X | X | X |
+
+| EKG, pulzus és vérnyomás monitor | X | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |  |
+
+| Belgyógyászati osztály | X | EL | EL |
+
+| Intenzív terápia | EL | EL | EL |
+
+| Szűrt, besugárzott, választott vérkészítmények folyamatos biztosítása | EK | EK | EK |
+
+| Terápiás aferezis | EK | EK | EL |
+
+| Orvosi laboratóriumi diagnosztika | EL | EL | EL |
+
+| Citogenetikai, hiszto patológiai vizsgálatok | EK | EL | EL |
+
+| Flow-cytometria | EK | EL | EL |
+
+| Hemosztázis labor | EL | EL | EL |
+
+| Terápiás irradiáció | EK | EK | EK |
+
+| CT, MRI | EK | EK | EK |
+
+| 20 új apláziás eset/év |  | X |  |
+
+| 30 új apláziás eset/év |  |  | X |
+
+| Hematológia járóbeteg szakrendelés/szakambulancia minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Belgyógyászat és hematológia szakorvos | 1 |
+
+| Általános asszisztens | 1 |
+
+| Tárgyi feltételek: a rendelő általános feltételei + |  |
+
+| Crista biopsziás tű | X |
+
+| Hűtőszekrények (vér-vérkészítmények) | X |
+
+| Hűtőszekrények (gyógyszer) | X |
+
+| Mikroszkóp | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |
+
+| Belgyógyászati osztály | EK |
+
+| Szűrt, besugárzott, választott vérkészítmények folyamatos biztosítása | EK |
+
+| Orvosi laboratóriumi diagnosztika | EL |
+
+| Hematológia kúraszerű ellátás minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Hematológia szakorvos legalább 5 éves, legalább II. szintű intézményben eltöltött gyakorlattal | 1 |
+
+| Hematológia szakorvos | 1 |
+
+| Egyéb orvos | 1 |
+
+| Ápoló/szakápoló/hematológiai, transzfuziológiai szakasszisztens | 1 |
+
+| Betegkísérő | 1 |
+
+| Tárgyi feltételek: a belgyógyászati osztály (0100) feltételei + |  |
+
+| Speciális helyiségek |  |
+
+| Cytostatikus szerek előkészítésére alkalmas helyiség vertikális áramlású laminar air flow-val felszerelt cytostaticum oldó szekrény | 1 |
+
+| Ápolási eszközök |  |
+
+| Kezelőszék vagy megfelelő ágy | 6 |
+
+| Tolókocsi ülő/fekvő | 1 |
+
+| Speciális felszerelések |  |
+
+| EKG készülék (6 csatornás, mobil) | 1 |
+
+| EKG-, pulzus- és vérnyomásmonitor | 1 |
+
+| Mikroszkóp | 1 |
+
+| Mikrohullámú sütő | 1 |
+
+| Rtg-filmnéző szekrény | 1 |
+
+| Vérmelegítő | 1 |
+
+| Motoros fecskendő (perfúzor) | 6 |
+
+| Infúziós pumpa (infúzor) | 6 |
+
+| Speciális diagnosztikai és szakmai háttér: |  |
+
+| Orvosi laboratóriumi diagnosztika | EL |
+
+| Újraélesztés 3 percen belül | EL |
+
+| Infektológia szakorvosi konzílium | EL |
+
+| Infekciókontrollban jártas szakember | EL |
+
+| Transzfuziológia háttér |  |
+
+| Szűrt, besugárzott, választott vérkészítmények folyamatos biztosítása | EK |
+
+Hemophilia ellátás
+
+A vérzékeny és AT-hiányos trombofiliás betegek szakszerű komplex ellátása és gondozása az Országos Egészségbiztosítási Pénztárral szerződéses kapcsolatban álló hemophilia gondozó központokban történik. Jogszabály által biztosított lehetőség a hemophiliás betegek kontrollált otthoni kezelése (KOK), amelyet – a hemophilia gondozó központok vezetésével és ellenőrzése mellett – maga a beteg/törvényes gondviselője vagy házi (gyermek)orvosa folytathat. A KOK ellátáson kívül a hemophiliás betegek ellátása a hemophilia gondozó központok feladata. Heveny, nagy vérzéssel járó esemény ellátása a komprehenzív hemostasis diagnosztikai háttérrel és 24 órás szolgálattal rendelkező Térségi Hemophilia Központokat működtető intézmények feladata.
+
+A hemofília ellátó hely fekvőbeteg-szakellátás esetén a hematológiai osztály részeként, járóbeteg-szakellátás esetén önálló szakambulanciaként működik.
+
+| Hemophilia ellátó hely (szakambulancia és osztály) minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | II.a | II.b | III. | Szakambulancia |
+
+| Személyi feltételek: |  |  |  |  |
+
+| Vezető orvos (belgyógyászat/csecsemő- és gyermekgyógyászat és hematológia vagy transzfuziológia szakorvosi szakképesítés és legalább 5 év hemophilia gondozási gyakorlat szükséges) |  |  | 1 |  |
+
+| Szakorvos (belgyógyászat/csecsemő- és gyermekgyógyászat és hematológia vagy transzfuziológia szakorvosi szakképesítés szükséges) | 1 | 2 | 2 | 1 |
+
+| Szakasszisztens | 1 | 1 | 2 | 1 |
+
+| Adatmenedzser |  |  | 1 |  |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |  |
+
+| Tárgyi feltételek: szakambulancia esetén a rendelő általános feltételei és fekvőbeteg ellátás esetén az osztály általános feltételei |  |  |  |  |
+
+| Orvosi vizsgáló |  |  | 1 |  |
+
+| Hűtőkamra a vérminták biztonságos tárolására |  |  | 1 | 1 |
+
+| Hűtőszekrény (vérkészítmények) | 2 | 2 | 2 | 2 |
+
+| Hűtőszekrény (gyógyszerek) | 1 | 1 | 1 | 1 |
+
+| Infusomat | X | X | X | X |
+
+| Perfuzor | X | X | X | X |
+
+| Vérmelegítő |  | 1 | 2 | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |  |  |
+
+| Belgyógyászati vagy gyermekgyógyászati fekvőbeteg ellátóhely | EL | EL | EL | EK |
+
+| Szakambulancia | EL | EL | EL | EK |
+
+| Orvosi laboratóriumi diagnosztika (hematológia és hemosztázis labordiagnosztika) | EK | EK | EL | EK |
+
+| Transzfuziológia háttér: |  |  |  |  |
+
+| Vérkészítmények folyamatos biztosítása | EK | EK | EK | EK |
+
+| Hemopoetikus őssejt transzplantáció | Szakmakód: | 0112 |
+
+Csontvelő transzplantáció
+
+Csontvelő (ideértendő az összes hemopoetikus őssejtvételi forma) transzplantáció szakmai minimumfeltételei
+
+Minimum ágyszám: 2
+
+| a) Autológ hemopoetikus őssejt átültetéshez |
+
+|  | Progresszivitási szint |
+
+|  | III. |
+
+| Személyi feltételek: |  |
+
+| Orvos | 5 |
+
+| Vezető orvos* | 1 |
+
+| Szakorvos* | 2 |
+
+| Egyéb orvos | 2 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló**, dietetikus, gyógytornász) | X |
+
+| Hematológiai, transzfúziológiai szakasszisztens | 1 |
+
+| Tárgyi feltételek: |  |
+
+| Adminisztrációs helyiség | 1 |
+
+| Anyagraktár | 1 |
+
+| Izolált csíraszegény egység | X |
+
+| Bejárati zsilipszoba | X |
+
+| Előkészítő helyiség | 1 |
+
+| Laminar airflow box (cytostaticumok felszívásához) | 1 |
+
+| Tisztaruha raktár | 1 |
+
+| Csíraszegény ételek elkészítésére alkalmas konyha | 1 |
+
+| Mikrohullámú sütő | 1 |
+
+| Mosogató rendszer | 1 |
+
+| Fóliahegesztő | 1 |
+
+| Csíraszegény egyágyas kórterem (bejárati zsilip, kórterem, innen nyíló WC, zuhanyzó) | 2 |
+
+| A csíraszegény, egyágyas kórterem felszereltsége: |  |
+
+| Alapterület | 12 m2 |
+
+| Intenzív ágy | 1 |
+
+| Központi oxygén és vákuum | X |
+
+| Külső fényvédő berendezés | X |
+
+| Munkaasztal | X |
+
+| Kórtermi ülőke | X |
+
+| Világítás: mennyezeti és ágymelletti | X |
+
+| Telefon | X |
+
+| TV készülék | X |
+
+| Nővérhívó rendszer | X |
+
+| Gép-műszer felszereltség: |  |
+
+| Portábilis röntgen készülék | 1 |
+
+| UH-készülék | 1 |
+
+| Infúziós pumpa | 2/ágy |
+
+| Perfúzor | 2/ágy |
+
+| Defibrillátor | 1 |
+
+| EKG | 1 |
+
+| Betegőrző monitor | 1/ágy |
+
+| Transzplantációs szakambulancia | X |
+
+| Szakmai háttér: |  |
+
+| Kórházi vagy klinikai háttér | EL |
+
+| Aszeptikus műtő | EL |
+
+| Transzplantációs készenléti orvosi ügyeleti rendszer | EL |
+
+| Hemopoetikus őssejt bank | EL |
+
+| Terápiás és őssejt aferezis folyamatos biztosítása | X |
+
+| Infektológus szakorvosi konzílium | EL |
+
+| Mikrobiológiai laboratórium*** | EL |
+
+| Transzfúziológiai háttér**** | EK |
+
+| Standard belső műveleti leírások | X |
+
+| EBMT regisztráció | X |
+
+| Hazai és nemzetközi adatbázisokkal való kapcsolat | X |
+
+| Gyermekbetegnél a szülő/közeli hozzátartozó/törvényes képviselő bentlakásának biztosítása | X |
+
+Jelmagyarázat:
+
+1Egy műszakos (8 órás üzemeléssel) évi 600 beteg/készülék, egy hosszított műszakos (10 órás üzemeléssel) évi 750 beteg/készülék, két műszakos üzemeléssel évi 1200 beteg/készülék.
+
+2Azokban a központokban, ahol kobaltágyú még működik, ott második készülékként nagyenergiás gyorsító szükséges. Ahol kobaltágyú nem üzemel, ott egy kisenergiás és egy nagyenergiás gyorsító a minimumfeltétel. Az új telepítéseknél kobaltágyú nem telepíthető, a meglévőket lehetőség szerint gyorsítóra kell cserélni. Ahol a lehetőségek adottak, illetve új centrumok tervezésénél két, egymással kompatibilis nagyenergiájú gyorsító beszerzése javasolt.
+
+3Minden centrumban minimumfeltétel a 3D konformális sugárkezelés, ami lehetőleg multileaf kollimátorral és EPID-del felszerelt gyorsítón végzendő. Az esetlegesen hiányzó multileaf kollimátor és EPID beszerzéséig átmenetileg elfogadható az irreguláris mezők kialakítása egyedi blokkokkal, illetve azok hagyományos röntgenfilmes verifikációja.
+
+4Szimultán radiokemoterápia esetén mind a kemoterápia, mind a sugárterápia egy intézeten belüli elvégezhetőségének feltételeit biztosítani kell vagy a sugárterápiát végző osztályon, vagy az intézeten belüli kemoterápiás társosztályon.
+
+53 db megavoltos készülék felett második szimulátor vagy CT szimulátor javasolt. Új fejlesztéseknél hagyományos szimulátor helyett CT szimulátor beszerzése javasolt.
+
+*** Bakteriológia-, parazitológia-, gomba- és vírusdiagnosztika (CMV korai antigén vizsgálatot beleértve).
+
+**** Választott, szűrt, besugárzott vérkészítmények biztosítása 24 órán keresztül, folyamatosan.
+
+***** Betegek gyógyszeres (citosztatikus) kezelésében a citosztatikus keverék infúziók készítéséhez vertikális levegőáramlású lamináris air flow box-szal rendelkező aseptikus labor megléte szükséges. A citosztatikum keverék készítése gyógyszerész felügyelete mellett történik, az erre vonatkozó hatályos szakmai előírások szerint.
+
+| Endokrinológia, anyagcsere és diabetológia Endokrinológia Diabetológia | Szakmakód: | 0103 0113 0123 |
+
+Fekvőbeteg szakellátás
+
+Progresszivitási szintek:
+
+I. szint
+
+Belgyógyászat
+
+II. szint:
+
+Endokrinológiai betegek, diabetes és anyagcsere-betegségek ellátása. Ellátja a társbetegséggel kísért endokrin, diabetes és anyagcsere-betegségben szenvedőket.
+
+Minimum ágyszám: 10
+
+III. szint:
+
+Endokrinológiai betegek, diabetes és anyagcsere-betegségek ellátása endokrinológiai, diabetes és anyagcsere-betegségek központjaiban.
+
+Ellátja a társbetegségekkel vagy szövődménnyel kísért endokrin, diabetes és anyagcsere-betegségben szenvedőket.
+
+Endokrinológia, diabetes és anyagcsere-betegségek országos szakmai központja. Ellátja a társbetegségekkel és szövődménnyel, vagy differenciáldiagnosztikai gonddal kísért speciális vizsgálati igényű endokrin, diabetes és anyagcsere-betegségben szenvedőket.
+
+Minimum ágyszám: 15
+
+| Endokrinológia, anyagcsere és diabetológiai osztály minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | II. | III. |
+
+| Minimum ágyszám | 10 | 15 |
+
+| Személyi feltételek: |  |  |
+
+| Endokrinológia és anyagcsere betegségek szakorvos 30 ágyig a további ágyakra | 1 1/15 ágy | 2 1/15 ágy |
+
+| Belgyógyászat szakorvos 30 ágyig a további ágyakra | 1 1/15 ágy | 2 1/15 ágy |
+
+| Orvos 30 ágyig a további ágyakra | 2 1/15 ágy | 2 1/15 ágy |
+
+| Klinikai onkológia szakorvos |  | EL |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
+
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL |
+
+| Tárgyi feltételek: |  |  |
+
+| Belgyógyászati osztály feltételei + | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |
+
+| Intenzív osztály | EL | EL |
+
+| Rutin kémiai labordiagnosztikai módszerek, cholesterin, triglycerid, HDL-cholesterin, LDL-cholesterin | EL | EL |
+
+| Lp(a) meghatározás, apoprotein plazmaszintek meghatározása, apoprotein genetika |  | EL |
+
+| Speciális laboratóriumi vizsgálatok: TSH, FT4, FT3, anti-TPO, cortisol (dexamethason teszttel), testosteron, Prolactin, FSH, LH, oestradiol, progeszteron, VMA, HbA1c | EL | EL |
+
+| Speciális laboratóriumi vizsgálatok: TRAK, PRA, aldosteron, GH, Prolactin (PEG-precipitáció után is), PTH, metanephrin, normetanephrin, calcitonin | EL | EL |
+
+| Vizelet és szérum ozmolalitás | EL | EL |
+
+| Speciális laboratóriumi vizsgálatok: thyreoglobulin, anti-thyreoglobulin, ACTH, DHEA szulfát, 17 OH progeszteron, androstendion, IGF-1, SHBG, Noradrenalin-, Adrenalin-ürítés, szérum chromogranin A meghatározás Osteocalcin, Crosslinks, 25 OH D-vitamin gastrin Inzulin, Inzulin ellenes antitest, szigetsejt ellenes antitestek Vizelet, szérum ozmolalitás |  | EL |
+
+| Patológiai diagnosztika és cytodiagnosztika (pajzsmirigy aspirációs cytológia) | EL | EL |
+
+| Immunhisztokémia (synaptophysin, chromogranin A) |  | EL |
+
+| Molekularis biológiai vizsgálatok: MTC és CAH genetikai szűrés országosan legalább egy térségi központban |  | EK |
+
+| Molekularis biológiai vizsgálatok: familiáris phaeochromocytoma/paraganglioma genetikai screening országosan legalább egy térségi központban |  | EK |
+
+| Konvencionális radiológiai vizsgálatok, hasi és nyaki ultrahangvizsgálat, CT, pajzsmirigy izotóp vizsgálat | EL | EL |
+
+| Alhasi ultrahangvizsgálat | EL | EL |
+
+| Oszteodenzitometria | EK | EL |
+
+| MRI | EL | EL |
+
+| PET |  | EK |
+
+| Angiográfiás laboratórium (mellékvese véna katéterezés rutinszerű végzése) |  | EL |
+
+| Angiográfiás laboratórium (sinus petrosus inf. katéterezés rutinszerű végzése) |  | EK |
+
+| In vivo izotop vizsgálatok: pajzsmirigy, Tc és J-131, MIBI, MIBEG, Scintadren, Octreoscan (fakultatív) |  | EK |
+
+| Delta-amino-levulinsav meghatározás, porphyria analízis |  | EL |
+
+| Szükséges társszakmák jelenléte: belgyógyászat, nőgyógyászat, sebészet, neurológia, szemészet, nukleáris medicina | EK | EL |
+
+| Szükséges társszakmák jelenléte: genetika, endokrin sebészet (hasi, pajzsmirigy, mellékpajzsmirigy), andrológia, onkológia |  | EL |
+
+| Endokrinológiai járóbeteg szakrendelés és szakambulancia minimumfeltételei |
+
+|  | Progresszivitási szint |
 
 |  | I. Szakrendelés | II. Szakambulancia |
 
 | Személyi feltételek: |  |  |
 
-| Arc-állcsont-szájsebész szakorvos | 1 |  |
+| Endokrinológia és anyagcsere betegségek szakorvos | 1 | 1 |
+
+| Általános asszisztens/szakasszisztens | 1 | 1 |
+
+| Tárgyi feltételek: a rendelő általános feltételei | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |
+
+| Speciális hormondiagnosztikai vizsgálatok | EL | EL |
+
+| Általános orvosi laboratórium | EL | EL |
+
+| Konvencionális radiológia vizsgálatok | EL | EL |
+
+| Ultrahang | EL | EL |
+
+| EKG | EL | EL |
+
+| Oszteodenzitometria | EK | EL |
+
+| Patológiai diagnosztika és cytodiagnosztika | EK | EL |
+
+| Genetikai tanácsadás/molekuláris biológiai vizsgálatok | EK | EK |
+
+| Nukleáris medicina - In vivo izotóp diagnosztika | EK | EK |
+
+| Angiográfiás vizsgálatok | EK | EL |
+
+| CT, MRI | EK | EL |
+
+| Társszakmák szakorvosi rendelései | EL | EL |
+
+| Diabetes járóbeteg szakrendelés és szakambulancia minimumfeltételei (Cukorbeteg-Tanácsadási Hely) |
+
+|  | Progresszivitási szint |
+
+|  | I. Szakrendelés | II. Szakambulancia |
+
+| Személyi feltételek: |  |  |
+
+| Belgyógyászat/szülészet-nőgyógyászat/csecsemő- és gyermekgyógyászat szakorvos, legalább 5 éves diabetológiai gyakorlattal | 1 | 1 |
+
+| Diabetológiai szakápoló | 1 | 2 |
+
+| Dietetikus | 0,5 | 0,5 |
+
+| Tárgyi feltételek: a rendelő általános feltételei + |  |  |
+
+| Beteggondozást támogató szoftverrel rendelkező számítógép(ek) | X | X |
+
+| Tápanyag számító program, számológép, egyéb szemléltető eszközök, betegek számára tápanyag táblázat kivonat, nyersanyag válogatási útmutató, étrend összeállítási útmutató, mintaétrend, receptgyűjtemény, testtömeg index táblázat | X | X |
+
+| Antropometriás meghatározás eszközei (testsúly, testmagasság, testkörfogatok, bőrredő mérése) | X | X |
+
+| Gyors vércukor-meghatározó készülékek | X | X |
+
+| Kalibrált hangvilla a neuropathia mérésére | X | X |
+
+| Cardiovascularis vizsgálati eszközök (ABPM, mini Doppler, EKG) | EK | EK |
+
+| Vénás vérvételi eszközök | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |
+
+| A hosszú távú anyagcsere-vezetés ellenőrzését és a szövődmények korai felismerését rendszeresen biztosító laboratóriumi háttér (vércukor-, HbA1c, vérzsír-meghatározás, vesefunkciók, ionok, albuminuria mérése, húgysav-meghatározás, fruktozamin stb.) | EK | EK |
+
+| Diabetológiában jártas interdiszciplináris (szemész, ideggyógyász, kardiológus, angiológus) konziliáriusi háttér biztosítása | EK | EK |
+
+| Gasztroenterológia | Szakmakód: | 0104 |
+
+Szakrendelés
+
+Gasztroenterológiai és hepatológiai betegségek ellátása
+
+− Minden 30 óra/hét gasztroenterológia profilú szakrendelésre (endoszkópia, illetve egyéb szubspecialitások) 1 fő gasztroenterológia szakorvos
+
+− Az endoszkópos szakambulanciákra vonatkozó további személyi javaslatok:
+
+− megfelelően felszerelt endoszkópos vizsgálóegység,
+
+− vizsgálóegységenként 1 fő endoszkópos szakasszisztens (endoszkópos tevékenység végzése esetén) vagy 1 fő általános asszisztens biztosítása.
+
+I. szint
+
+Belgyógyászat
+
+II.a szint:
+
+5 gasztroenterológia profilú ágyra 2 fő gasztroenterológia szakorvos
+
+− minden 30 óra/hét gasztroenterológia profilú szakrendelésre (akár endoszkópia, akár hepatológia vagy egyéb szubspecialistás) 1 fő gasztroenterológia szakorvos
+
+− 1 endoscopos laboratórium
+
+− az endoszkópos szakambulanciákra vonatkozó további személyi feltételek
+
+Minimum ágyszám: 5
+
+II.b szint:
+
+− 15 gasztroenterológia profilú ágyra 3 fő gasztroenterológia szakorvos
+
+− minden 30 óra/hét gasztroenterológia profilú szakrendelésre (akár endoszkópia, akár hepatológia vagy egyéb szubspecialistás) 1 fő gasztroenterológia szakorvos
+
+− 2 endoscopos laboratórium, az egyik ERCP vizsgálatok és operatív beavatkozások céljára megfelelően felszerelve
+
+− az endoszkópos szakambulanciákra vonatkozó további személyi feltételek
+
+Minimum ágyszám: 15
+
+III. szint:
+
+− minden 15 gasztroenterológia profilú ágyra 3 fő gasztroenterológia szakorvos
+
+− minden 30 óra/hét gasztroenterológia profilú szakrendelésre (akár endoszkópia, akár hepatológia vagy egyéb szubspecialistás) 1 fő gasztroenterológia szakorvos
+
+− 2 endoscopos laboratórium, az egyik ERCP vizsgálatok és operatív beavatkozások céljára megfelelően felszerelve
+
+− az endoszkópos szakambulanciákra vonatkozó további személyi feltételek
+
+III. szint:
+
+2 éves angiológiai, phlebológiai, lymphológiai gyakorlattal rendelkező legalább 3 belgyógyász szakorvos, szakambulancia, angiológiai ágyak. Intézményen belül elérhető érsebészet, intervenciós radiológia (mindkettő legalább II. szint) és DSA.
+
+| Angiológiai, phlebológiai, lymphológiai osztály minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | II. | III. |
+
+| Személyi feltételek: |  |  |
+
+| Orvoslétszám: 15 ágy 16-24 ágyig 24 ágy felett a további ágyakra ebből: | 2 1/6 ágy 1/8 ágy | 3 1/6 ágy 1/8 ágy |
+
+| 2 éves angiológiai, phlebológiai, lymphológiai gyakorlattal rendelkező belgyógyászat szakorvos | 2 | 3 |
+
+| Ezen felül kórházi szakambulancián (1 fő: 30 óra/héttel számolva) belgyógyászati angiológia minősített orvosa | 1 | 1,5 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
+
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL |
+
+| Általános asszisztens/kardiológiai és angiológiai szakasszisztens | 1 | 1 |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |  |
+
+| Fizioterápiás/torna helyiség | X | X |
+
+| Tevékenység szerinti speciális kezelő/vizsgáló | X | X |
+
+| Kapaszkodó | X | X |
+
+| Járókeret | X | X |
+
+| Szoba WC | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |
+
+| Orvosi diagnosztikai laboratórium | EK | EK |
+
+| Nukleáris medicina |  | EK |
+
+| CT angiographia | EK | EL |
+
+| MRI angiographia | EK | EK |
+
+| Angiographia (DSA) | EK | EL |
+
+| Lymphoscintigraphia |  | EK |
+
+| Color duplex UH linearis és convex fejjel | EL | X |
+
+| CW doppler (folyamatos hullámú) | X | X |
+
+| Pletizmographia | EK | X |
+
+| Kapillár mikroszkópia | EK | EL |
+
+| Szöveti oxigénszint mérés (TCPO2) | EK | X |
+
+| Járópadló | EL | X |
+
+| ABPM | EL | EL |
+
+| EMG/ENG | EK | EL |
+
+| Bőrhőmérő | EL | X |
+
+| Hangvilla | X | X |
+
+| Intermittáló pneumatikus gépi kompresszió kezelésére alkalmas műszer |  | EL |
+
+| Végtagvolumen mérésére alkalmas mérőeszközök |  | X |
+
+| Thrombolysis feltételei | EL | EL |
+
+| Prosztanoid terápia | X | X |
+
+| Intenzív terápia | EL | EL |
+
+| Anaeszteziológiai munkahely | EL | EL |
+
+| Fiziotherápia | EL | EL |
+
+| Érsebészet II. szintű | EL | EL |
+
+| Intervenciós radiológia II. szintű | EL | EL |
+
+Minimum ágyszám: 15
+
+| Gasztroenterológiai osztály minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | II.a | II.b | III. |
+
+| Személyi feltételek: |  |  |  |
+
+| Összes orvos | 2 | 4 | 4 |
+
+| Ebből: gasztroenterológia szakorvos | 5 ágyra 2 | 15 ágyra 3 | 15 ágyra 3 |
+
+| Belgyógyászat szakorvos/gasztroenterológia szakorvos jelölt |  | 1 | 1 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |
+
+| Endoszkópos vizsgálóegységenként: |  |  |  |
+
+| Endoszkópos szakasszisztens | 1 | 1 | 1 |
+
+| Általános asszisztens | 1 | 1 | 1 |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |  |  |
+
+| Speciális helyiségek: Emésztőszervi diagnosztikus és terápiás egység |  |  |  |
+
+| Vegyes használatú endoszkópos helyiség | 1 |  |  |
+
+| Gastroscopos helyiség: a rendelő általános feltételei + |  | 1 | 1 |
+
+| Colonoscopos helyiség: a rendelő általános feltételei + |  | 1 | 1 |
+
+| Átvilágításra, ERCP vizsgálatra alkalmas helyiség: a rendelő általános feltételei + |  | 1 | 1 |
+
+| UH vizsgáló: a rendelő általános feltételei + |  | 1 | 1 |
+
+| Speciális gasztroenterológiai eszközök: |  |  |  |
+
+| Sebészeti képerősítő |  | 1 | 1 |
+
+| Röntgen ólomköpeny és kesztyű |  | 4 | 4 |
+
+| UH-os tisztító | 1 | 1 | 1 |
+
+| Hűtőszekrény – szövettani minta tárolásra | 1 | 1 | 1 |
+
+| Mobil szívó | 1 | 1 | 1 |
+
+| Endoszkóp mosótál | 1 | 1 | 1 |
+
+| Félautomata eszközmosó | 1 | 1 | 1 |
+
+| Automata eszközmosó |  | 1 | 1 |
+
+| UH készülék |  | 1 | 1 |
+
+| Halogén fényforrás/videoprocesszor | 1 | 2 | 3 |
+
+| Leakege tester | 1 | 1 | 1 |
+
+| Gastrofiberoscop/videogastroscop | 1 | 2 | 3 |
+
+| Colonoscop/videocolonoscop | 1 | 2 | 2 |
+
+| Duodenoscop/videoeszköz |  | 2 | 2 |
+
+| Oesophagus varix ligator | 1 | 1 | 1 |
+
+| Koaguláló | 1 | 1 | 1 |
+
+| Monitor |  | 2 | 2 |
+
+| Videomagnó vagy DVD felvevő | 1 | 2 | 3 |
+
+| Diathermiás nagyfrekvenciás készülék | 1 | 2 | 2 |
+
+| Endoszkópos UH |  |  | 1 |
+
+| Endoszkópos tartozékok: |  |  |  |
+
+| Biopsziás fogó gastroscophoz | 2 | 5 | 5 |
+
+| Biopsziás fogó colonoscophoz | 2 | 3 | 3 |
+
+| Hurok | 2 | 2 | 3 |
+
+| ERCP feltöltő katéter |  | 2 | 3 |
+
+| Papillotom |  | 3 | 3 |
+
+| Dormia |  | 2 | 2 |
+
+| Kőzúzó |  | 1 | 1 |
+
+| Vezetődrót |  | 2 | 2 |
+
+| Pusher katéter |  | 2 | 2 |
+
+| Sclerotizáló tű | 2 | 2 | 2 |
+
+| Varix ligator | 1 | 1 | 1 |
+
+| Haemo-clip rögzítő | 1 | 1 | 1 |
+
+| Idegentestfogó | 2 | 2 | 2 |
+
+| Citológiás kefe | 1 | 2 | 2 |
+
+| Hidraulicus ballontágító sorozat oesophagus, illetve Colon |  | 1 | 2 |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |  |
+
+| CT | EK | EK | EK |
+
+| Mikrobiológiai laboratóriumi diagnosztika | EK | EK | EK |
+
+| Nukleáris medicina | EK | EK | EK |
+
+| Intenzív osztály | EK | EL | EL |
+
+| Aneszteziológiai munkahely | EK | EL | EL |
+
+| Gasztroenterológiai járóbeteg szakrendelés és szakambulancia minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | I. Szakrendelés | II. Szakambulancia |
+
+| Személyi feltételek: |  |  |
+
+| Gasztroenterológia szakorvos (30 óra/hét szakrendelésre) | 1 | 1 |
+
+| Orvos |  | 1 |
+
+| Endoszkópos asszisztens*/általános szakasszisztens | 1 | 1 |
+
+| Endoszkópos vizsgálóegység: a rendelő általános feltételei + | 1 | EL |
+
+| Betegkísérő |  | 1 |
+
+| Tárgyi feltételek: a rendelő általános feltételei + |  |  |
+
+| Vegyes használatú endoszkópos helyiség | 1 | 1 |
+
+| Hűtőszekrény – szövettani minta tárolására | 1 | 1 |
+
+| Endoszkóp mosótál | 1 | 1 |
+
+| Félautomata eszközmosó | 1 | 1 |
+
+| Halogén fényforrás/videoprocesszor | 1 | 1 |
+
+| Leakege tester | 1 | 1 |
+
+| Colonoscop/videocolonoscop | 1 | 1 |
+
+| Biopsziás fogó gastroscophoz | 2 | 2 |
+
+| Biopsziás fogó colonoscophoz | 2 | 2 |
+
+| Hurok | 2 | 2 |
+
+| Vezetődrót |  | 1 |
+
+| Sclerotizáló tű | 1 | 2 |
+
+| Varix ligator |  | 1 |
+
+| Haemo-clip rögzítő |  | 1 |
+
+| Idegentestfogó | 1 | 2 |
+
+| Citológiás kefe |  | 1 |
+
+| Gastrofiberoscop/videogastroscop | 1 | 1 |
+
+| Oesophagus varix ligator |  | 1 |
+
+| Koaguláló |  | 1 |
+
+| Monitor | 1 | 1 |
+
+| Videomagnó vagy egyéb képrögzítő rendszer | 1 | 1 |
+
+| UH-os tisztító | 1 | 1 |
+
+| Mobil szívó | 1 | 1 |
+
+| Diathermiás nagyfrekvenciás készülék | 1 | 1 |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |
+
+| CT | EK | EK |
+
+| Mikrobiológiai laboratóriumi diagnosztika | EK | EK |
+
+| Nukleáris medicina | EK | EK |
+
+| Intenzív osztály |  | EL |
+
+| Aneszteziológiai munkahely |  | EL |
+
+Megjegyzés:
+
+* 2 órán belül elérhető
+
+| Arc-, állcsont- és szájsebészeti járóbeteg szakrendelés és szakambulancia minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | I. Szakrendelés | II. Szakambulancia |
+
+| Személyi feltételek: |  |  |
+
+| Arc-, állcsont- és szájsebészet szakorvos | 1 |  |
 
 | Általános asszisztens/szakasszisztens | 2 |  |
 
-| Orthodontus szakorvos |  | EL |
+| Fogszabályozó szakorvos |  | EL |
 
-| Fül-orr-gégész szakorvos |  | EL |
+| Fül-orr-gégegyógyászat szakorvos |  | EL |
 
-| Plasztikai sebész szakorvos |  | EL |
+| Plasztikai (égés) sebészet szakorvos |  | EL |
 
-| Logopédus |  | EL |
+| Logopédus |  | EK |
 
 | Tárgyi feltételek: a rendelő általános feltételei + |  |  |
 
@@ -1551,8 +2643,6 @@ Szs(K): szájsebész szakorvos kettősdiplomával
 | Fogorvosi dolgozószék | X | X |
 
 | Asszisztensi dolgozószék | X | X |
-
-| Fogszabályozó fogósorozat |  | X |
 
 | Fotopolimerizációs lámpa | X | X |
 
@@ -1638,1329 +2728,13 @@ Szs(K): szájsebész szakorvos kettősdiplomával
 
 | CT, MRI | EK | EK |
 
-| Orvosi laboratórium | EK | EK |
+| Orvosi laboratóriumi diagnosztika | EK | EK |
 
-| Mikrobiológiai laboratórium | EK | EK |
+| Mikrobiológiai laboratóriumi diagnosztika | EK | EK |
 
 | BELGYÓGYÁSZAT |
 
 | Belgyógyászat | Szakmakód: | 0100 |
-
-Progresszivitási szint:
-
-I. szint:
-
-A belgyógyászati szakma alaptevékenységeinek elvégzése aktív osztály keretein belül. Az elmúlt években a specializáció a belgyógyászat alapú szakmákban új szakmákat eredményezett, és így a belgyógyászat szakmailag speciális tapasztalatot, speciális műszerigényt igénylő, a belgyógyászat alaptevékenységre épülő magasabb progresszivitású önálló szakmaként jelennek meg az ellátórendszerben (nephrológia, gasztroenterológia, allergológia és klinikai immunológia, endokrinológia és anyagcsere betegségek, angiológia, phlebológia, lymphológia). Ugyancsak önálló szakmaként jelenik meg a kardiológia és a haematológia szakma is.
-
-| Belgyógyászati osztály minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| Belgyógyász szakorvos 15 ágyig a további ágyakra | 2 1/10 ágy |
-
-| Orvos 15 ágyig a további ágyakra | 2 1/10 ágy |
-
-| Klinikai és mentálhigiéniai szakpszichológus | EL |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X |
-
-| Tárgyi feltételek: az osztály általános feltételei + |  |
-
-| Ápolás eszközei: |  |
-
-| Háttámasz, lábtámasz | X |
-
-| Etetőasztal | X |
-
-| Antidecubitor matrac | X |
-
-| Betegemelő | X |
-
-| Ágytál, vizelőedény, ágytál-, vizelőedény-tartó | X |
-
-| Fürdetőszék | X |
-
-| Járókeret | X |
-
-| Szoba-WC | X |
-
-| Tolókocsi (ülő, fekvő) | X |
-
-| Ágytálmosó berendezés | X |
-
-| Eszköztároló szekrény | X |
-
-| EKG, pulzus, vérnyomásmonitor | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |
-
-| Operatív endoszkópos laboratórium | EK |
-
-| CT | EK |
-
-| Ultrahang | EL |
-
-| EEG | EK |
-
-| Izotóp diagnosztikai laboratórium | EK |
-
-| Osteodensitometria | EK |
-
-| Krónikus belgyógyászat minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| Belgyógyász szakorvos 40 ágyig a további ágyakra | 1 1/60 ágy |
-
-| Orvos 40 ágyig a további ágyakra | 1 1/60 ágy |
-
-| Klinikai és mentálhigiéniai szakpszichológus | EK |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X |
-
-| Tárgyi feltételek: az osztály általános feltételei + |  |
-
-| Antidecubitor eszközök: ülőpárna, sarok-, könyök gyűrű, egyéb | X |
-
-| Járókeret | X |
-
-| Szoba-WC | X |
-
-| Karosszék rögzítési lehetőséggel a betegek kiültetéséhez (kórtermenként) | 1 |
-
-| Betegszállító betegkocsi | 1 |
-
-| Belgyógyászati járóbeteg szakrendelés minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| Belgyógyász szakorvos | 1 |
-
-| Általános asszisztens/szakasszisztens | 1 |
-
-| Tárgyi feltételek: a rendelő általános feltételei + | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |
-
-| Gasztroenterológiai endoszkópia | EK |
-
-| Általános orvosi laboratórium | EK |
-
-| Radiológia | EK |
-
-| EKG | X |
-
-| EEG | EK |
-
-| Ergometria | EK |
-
-| Holter | EK |
-
-| Mikrobiológiai laboratórium | EK |
-
-| Angiológia, phlebológia, lymphológia | Szakmakód: | 0101 |
-
-Angiológia
-
-Az érbeteg ellátás korszerűen olyan ellátó helyeken, ún. vascularis központokban végezhető el, ahol a belgyógyászati angiológia, az érsebészet és az intervenciós radiológia együttesen rendelkezésre áll.
-
-Belgyógyászati angiológia
-
-Szakambulancia
-
-Belgyógyász angiológus orvossal működtetett kórházi szakambulancia.
-
-Fekvőbeteg szakellátás
-
-Progresszivitási szintek
-
-II. szint:
-
-Legalább 2 angiológus, szakambulancia, önállóan vagy belgyógyászati osztály részlegeként működő angiológiai fekvőbeteg ellátás az intézményben. Intézményen belül érsebészet és elérhető intervenciós radiológia (mindkettő legalább II. szint).
-
-III. szint:
-
-Legalább 3 angiológus, szakambulancia, angiológiai ágyak. Intézményen belül érsebészet és intervenciós radiológia (mindkettő legalább II. szint).
-
-| Belgyógyászati angiológiai, phlebológiai osztály minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | II. | III. |
-
-| Személyi feltételek: |  |  |
-
-| Orvoslétszám: 15 ágy 24 ágyig a további ágyakra ebből: | 2 1/6 ágy 1/8 ágy | 3 1/6 ágy 1/8 ágy |
-
-| Belgyógyászati angiológia minősített orvosa | 2 | 3 |
-
-| Ezen felül kórházi szakambulancián (1 fő: 30 óra/hét számolva) belgyógyászati angiológia minősített orvosa | 1 | 1,5 |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
-
-| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL |
-
-| Műtőssegéd | 1 | 1 |
-
-| Általános asszisztens/kardiológiai és angiológiai szakasszisztens | 1 | 1 |
-
-| Tárgyi feltételek: az osztály általános feltételei + |  |  |
-
-| Ágyszám: (5 ágy/100.000 lakos) |  | X |
-
-| Fizioterápiás/torna helyiség | X | X |
-
-| Tevékenység szerinti speciális kezelő/vizsgáló | X | X |
-
-| Kapaszkodó | X | X |
-
-| Járókeret | X | X |
-
-| Szoba WC | X | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |
-
-| Haemorheológiai laboratórium |  | EL |
-
-| Immunológiai labor | EK | EK |
-
-| Nukleáris medicina |  | EK |
-
-| CT angiographia | EK | EL |
-
-| MRI angiographia | EK | EK |
-
-| Angiographia (DSA) | EK | EL |
-
-| Lymphoscintigraphia |  | EK |
-
-| Color duplex UH linearis és convex fejjel | EL | X |
-
-| CW doppler (folyamatos hullámú) | X | X |
-
-| Pletizmographia | EK | X |
-
-| Kapillár mikroszkópia | EK | EL |
-
-| Szöveti oxigénszint mérés (TCPO2) | EK | X |
-
-| Járópadló | EL | X |
-
-| ABPM | EL | EL |
-
-| EMG /ENG | EK | EL |
-
-| Bőrhőmérő | EL | X |
-
-| Hangvilla | X | X |
-
-| Intermittáló pneumatikus gépi kompresszió kezelésére alkalmas műszer |  | EL |
-
-| Végtagvolumen mérésére alkalmas mérőeszközök |  | X |
-
-| Thrombolysis feltételeinek biztosítása | EL | EL |
-
-| Prosztanoid terápia alkalmazása | X | X |
-
-| Intenzív terápia | EL | EL |
-
-| Anaeszteziológiai osztály | EL | EL |
-
-| Fiziotherápia | EL | EL |
-
-| Érsebészet II. szintű | EL |  |
-
-| Intervenciós radiológia II. szintű | EL |  |
-
-| Érsebészet III. szintű |  | EK |
-
-| Intervenciós radiológia III. szintű |  | EK |
-
-Szakambulancia minimumfeltételei megegyeznek az adott szintű fekvőbeteg ellátó osztály minimumfeltételeivel
-
-| Angiológiai, phlebológiai, lymphologia járóbeteg szakrendelés minimumfeltételei |
-
-|  | Angiológiai, phlebológiai | Lymphológia |
-
-| Személyi feltételek: |  |  |
-
-| Belgyógyász szakorvos (belgyógyászati angiológia minősítéssel) | 1 |  |
-
-| Szakorvos (bőrgyógyász és/vagy onkológus és/vagy belgyógyász és/vagy reumatológus szakorvos lymphologiai) |  | 1 |
-
-| Általános asszisztens/ kardiológiai és angiológiai szakasszisztens | EL | EL |
-
-| Gyógytornász | EL |  |
-
-| Speciális képesítésű lymphterápeuta gyógytornász |  | EL |
-
-| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL |
-
-| Tárgyi feltételek: a rendelő általános feltételei + |  |  |
-
-| Kalibrált hangvilla | X |  |
-
-| CW Doppler | X | X |
-
-| Tornaterem | EK | X |
-
-| Kezelőpadok | EK | X |
-
-| Bordásfal, szobabicikli | EK | X |
-
-| Tornaszőnyegek, labdák | EK | X |
-
-| Intermittáló pneumatikus gépi kompresszió kezelésére alkalmas műszer (lymphapress vagy lymphomat) |  | X |
-
-| Végtagvolumen mérésére alkalmas mérőeszközök |  | X |
-
-| Fürdőszoba (torna utáni tisztálkodás) |  | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |
-
-| CT, angiographia | EK |  |
-
-| Echocardiographia | EK |  |
-
-| Pletizmographia | EK |  |
-
-| Terheléses vizsgálat futószőnyeggel (Treadmill, előírt feltételekkel) | EL |  |
-
-| Kapillármikroszkópia | EK |  |
-
-| Holter ABPM | EL |  |
-
-| Color duplex UH linearis és convex fejjel | EL |  |
-
-| Lymphoscintigraphia | EK | EK |
-
-| MRI | EK | EK |
-
-| CT | EK | EK |
-
-| Haematológia | Szakmakód: | 0102 |
-
-Szakrendelés/Szakambulancia
-
-Alapszintű járóbeteg/ambulancia kategóriájú haematológiai ellátás, amelyet valamennyi belgyógyászati fekvő, vagy járóbeteg ellátó intézménynek biztosítania kell. Döntően “rutin vérkép, véralvadás vizsgálatok”, az egyszerűbb haematológiai betegségek járóbetegkénti gondozása, egyszerűbb belgyógyászati szövődmények fekvőbeteg ellátása, melyet az adott ellátást nyújtó valamennyi egészségügyi szolgáltatónál biztosítani kell.
-
-Fekvőbeteg szakellátás
-
-Progresszivitási szintek
-
-II.a szint:
-
-Olyan belgyógyászati osztályok, ahol legalább 1 hematológus szakorvos dolgozik. A területéhez tartozó betegek esetében elvégzi a diagnosztikai vizsgálatokat, az egyszerűbb terápiákat és a hematológiai betegek palliatív ellátását. Hosszú apláziát okozó terápiát nem végezhet.
-
-Minimum ágyszám: 5
-
-II.b szint:
-
-Joga és kötelezettsége: komplex haematológiai (onko-haematológia, haemostasis) ellátás, amely területi elosztásban, a tételes minimum feltételek alapján határozható meg. Ezen egységekben történhet az onko-haematológiai ellátás jelentős része, kivéve a haemopoetikus őssejt-transzplantáció, illetve a bonyolultabb nagy értékű, kuratív célú onkohaematologiai kezelések. A tételes fekvőbeteg tevékenység kompetencia határait az alábbi táblázatok határozzák meg. Komplex onko-haematológiai járóbeteg ellátás, haemostasis szakambulancia, haematológiai ellátás általános belgyógyászati háttér megléte esetén végezhető.
-
-Minimium ágyszám: 10
-
-III. szint:
-
-A legmagasabb szintű, a szakmai minimum feltételek által meghatározott kis számú központ, a komplex onko-haematológiai ellátás teljes köre, komplex haemostasis és vérzékeny betegellátás (fekvő- és járóbeteg) joga és kötelezettsége, folyamatos terápiás aferezis biztosítása.
-
-A III.-as szintnek megfelelő tevékenységeken kívül csontvelő- és haemopoetikus őssejt-transzplantációt, (beleértve az őssejt gyűjtést, feldolgozást, fagyasztást, tárolást, visszaadást) az egészségügyről szóló 1997. évi CLIV. törvénynek a szerv- és szövetátültetésre, valamint -tárolásra és egyes kórszövettani vizsgálatokra vonatkozó rendelkezései végrehajtásáról szóló 18/1998. (XII. 27.) EüM rendeletben kijelölt intézmények végezhetik.
-
-A III. szintű haematológiai ellátás általános belgyógyászati és intenzív terápiás háttér megléte esetén végezhető.
-
-Minimum ágyszám: 15
-
-| Hematológia osztály minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | II.a | II.b | III. |
-
-| Személyi feltételek: |  |  |  |
-
-| Belgyógyász szakorvos hematológus szakorvos képzettséggel (FTE egységben) | 1 | 2 | 4 |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |
-
-| Általános asszisztens egység | 0 | 1 | 1 |
-
-| Hematológiai vagy transzfúziológiai szakasszisztens | 1 | 1 | 1 |
-
-| Tárgyi feltételek: az osztály általános feltételei és a belgyógyászati osztály (0100) feltételei + |  |  |  |
-
-| Szakmailag speciális helyiségek |  |  |  |
-
-| Kizárólag i.v. citosztatikus kezeléshez | X | X | X |
-
-| Citosztatikum előkészítéshez | X | X | X |
-
-| Csíraszegény egyágyas kórtermek (WC + zuhanyozó+ bejárati zsilip) | 0 | 1 | 2 |
-
-| Portábilis röntgen | 0 | EL | EL |
-
-| Crista biopsziás tű | X | X | X |
-
-| Hűtőszekrények (vér-vérkészítmények) | X | X | X |
-
-| Hűtőszekrények (gyógyszer) | X | X | X |
-
-| Infúziós pumpa (perfúzor) | X | X | X |
-
-| Vérmelegítő | X | X | X |
-
-| Mikroszkóp | X | X | X |
-
-| EKG, pulzus és vérnyomás monitor | X | X | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |  |
-
-| Belgyógyászati osztály | X | EL | EL |
-
-| Intenzív terápia | EL | EL | EL |
-
-| Szűrt, besugárzott, választott vérkészítmények folyamatos biztosítása | EK | EK | EK |
-
-| Terápiás aferezis | EK | EK | EL |
-
-| Orvosi laboratóriumi diagnosztikai | EL | EL | EL |
-
-| Citogenetikai, hiszto patológiai vizsgálatok | EK | EL | EL |
-
-| Flow-cytometria | EK | EL | EL |
-
-| Hemosztázis labor | EL | EL | EL |
-
-| Terápiás irradiáció | EL | EK | EK |
-
-| CT, MRI | EK | EK | EK |
-
-| 20 új apláziás eset/év | 0 | X |  |
-
-| 30 új apláziás eset/év |  |  | X |
-
-| Hematológia szakrendelés/szakambulancia minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| Belgyógyász és hematológus szakorvos | 1 |
-
-| Általános asszisztens | 1 |
-
-| Tárgyi feltételek: a rendelő általános feltételei + |  |
-
-| Crista biopsziás tű | X |
-
-| Hűtőszekrények (vér-vérkészítmények) | X |
-
-| Hűtőszekrények (gyógyszer) | X |
-
-| Mikroszkóp | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |
-
-| Belgyógyászati osztály | EK |
-
-| Szűrt, besugárzott, választott vérkészítmények folyamatos biztosítása | EK |
-
-| Orvosi laboratóriumi diagnosztikai | EL |
-
-| Hematológia kúraszerű ellátás minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| Hematológus szakorvos legalább 5 éves, legalább II. szintű intézményben eltöltött gyakorlattal | 1 |
-
-| Hematológus szakorvos | 1 |
-
-| Egyéb orvos | 1 |
-
-| Ápoló/szakápoló/hematológiai, transzfuziológiai szakasszisztens | 1 |
-
-| Betegkísérő | 1 |
-
-| Tárgyi feltételek: a belgyógyászati osztály (0100) feltételei + |  |
-
-| Speciális helyiségek |  |
-
-| Cytostatikus szerek előkészítésére alkalmas helyiség vertikális áramlású laminar air flow-val felszerelt cytostaticum oldó szekrény | 1 |
-
-| Ápolási eszközök |  |
-
-| Kezelőszék vagy megfelelő ágy | 6 |
-
-| Tolókocsi ülő/fekvő | 1 |
-
-| Speciális felszerelések |  |
-
-| EKG készülék (6 csatornás, mobil) | 1 |
-
-| EKG-, pulzus- és vérnyomásmonitor | 1 |
-
-| Mikroszkóp | 1 |
-
-| Mikrohullámú sütő | 1 |
-
-| Rtg-filmnéző szekrény | 1 |
-
-| Vérmelegítő | 1 |
-
-| Motoros fecskendő (perfúzor) | 6 |
-
-| Infúziós pumpa (infúzor) | 6 |
-
-| Speciális diagnosztikai és szakmai háttér: |  |
-
-| Orvosi laboratórium | EL |
-
-| Újraélesztés 3 percen belül | EL |
-
-| Infektológus szakorvosi konzílium | EL |
-
-| Infekciókontrollban jártas szakember | EL |
-
-| Transzfuziológia háttér |  |
-
-| Szűrt, besugárzott, választott vérkészítmények folyamatos biztosítása | EK |
-
-A hemofília ellátó hely fekvőbeteg-szkellátás esetén a hematológiai osztály részeként, járóbeteg-szakellátás esetén önálló szakambulanciaként működik.
-
-| Hemofília ellátó hely (szakambulancia és osztály) minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | II.a. | II.b | III. | Szakambulancia |
-
-| Személyi feltételek: |  |  |  |  |
-
-| Vezető orvos (belgyógyászat vagy gyermekgyógyászat és hematológia vagy transzfuziológia szakképesítés és legalább 5 év hemofília gondozási gyakorlat szükséges) |  |  | 1 |  |
-
-| Szakorvos (belgyógyászat vagy gyermekgyógyászat és hematológia vagy transzfuziológia szakképesítés szükséges) | 1 | 2 | 2 | 1 |
-
-| Szakasszisztens | 1 | 1 | 2 | 1 |
-
-| Adatmenedzser |  |  | 1 |  |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |  |
-
-| Tárgyi feltételek: szakambulancia esetén a a rendelő általános feltételei és fekvőbeteg ellátás esetén az osztály általános feltételei |  |  |  |  |
-
-| Orvosi vizsgáló |  |  | 1 |  |
-
-| Hűtőkamra a vérminták biztonságos tárolására |  |  | 1 | 1 |
-
-| Hűtőszekrény (vérkészítmények) | 2 | 2 | 2 | 2 |
-
-| Hűtőszekrény (gyógyszerek) | 1 | 1 | 1 | 1 |
-
-| Infusomat | X | X | X | X |
-
-| Perfuzor | X | X | X | X |
-
-| Vérmelegítő |  | 1 | 2 | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |  |  |
-
-| Belgyógyászati vagy gyermekgyógyászati fekvőbeteg ellátóhely | EL | EL | EL | EK |
-
-| Sürgősségi szakambulancia | EL | EL | EL | EK |
-
-| Hematológia és hemosztázis labordiagnosztika | EK | EK | EL | EK |
-
-| Transzfuziológia háttér: |  |  |  |  |
-
-| Vérkészítmények folyamatos biztosítása | EK | EK | EK | EK |
-
-| Haemopoetikus őssejt transzplantáció | Szakmakód: | 0112 |
-
-Csontvelő transzplantáció
-
-Csontvelő (ideértendő az összes haemopoetikus őssejtvételi forma) transzplantáció szakmai minimumfeltételei
-
-Minimum ágyszám: 2
-
-| a) Autológ haemopoetikus őssejt átültetéshez |
-
-|  | Progresszivitási szint |
-
-|  | III. |
-
-| Személyi feltételek: |  |
-
-| Orvos | 5 |
-
-| Vezető orvos* | 1 |
-
-| Szakorvos* | 2 |
-
-| Egyéb orvos | 2 |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló**, dietetikus, gyógytornász) | X |
-
-| Hematológiai, transzfúziológiai szakasszisztens | 1 |
-
-| Tárgyi feltételek: |  |
-
-| Orvosi szoba | 1 |
-
-| Személyzeti öltöző és vizesblokk (nemenként) | 1 |
-
-| Adminisztrációs helyiség | 1 |
-
-| Anyagraktár | 1 |
-
-| Takarítószer tároló | 1 |
-
-| Szennyes ruha tároló | 1 |
-
-| Nővérszoba | 1 |
-
-| Személyzeti öltöző és vizesblokk | 1 |
-
-| Izolált csíraszegény egység | X |
-
-| Bejárati zsilipszoba | X |
-
-| Előkészítő helyiség | 1 |
-
-| Laminar airflow (cytostaticumok felszívásához) | 1 |
-
-| Mosdó orvosi csapteleppel | 1 |
-
-| Steril anyagraktár | 1 |
-
-| Nem steril anyagraktár | 1 |
-
-| Tisztaruha raktár | 1 |
-
-| Ágytálmosó vagy ágytál megsemmisítő automata | 1 |
-
-| Csíraszegény ételek elkészítésére alkalmas konyha | 1 |
-
-| Mikrohullámú sütő | 1 |
-
-| Mosogató rendszer | 1 |
-
-| Fóliahegesztő | 1 |
-
-| Csíraszegény egyágyas kórterem (bejárati zsilip, kórterem, innen nyíló WC, zuhanyzó) | 2 |
-
-| A csíraszegény, egyágyas kórterem felszereltsége: |  |
-
-| Alapterület | 12 m2 |
-
-| Intenzív ágy | 1 |
-
-| Központi oxygén és vákuum | X |
-
-| Külső fényvédő berendezés | X |
-
-| Munkaasztal | X |
-
-| Kórtermi ülőke | X |
-
-| Világítás: mennyezeti és ágymelletti | X |
-
-| Telefon | X |
-
-| TV készülék | X |
-
-| Nővérhívó rendszer | X |
-
-| Gép-műszer felszereltség: |  |
-
-| Portábilis röntgen készülék | 1 |
-
-| UH-készülék | 1 |
-
-| Infúziós pumpa | 2/ágy |
-
-| Perfúzor | 2/ágy |
-
-| Defibrillátor | 1 |
-
-| EKG | 1 |
-
-| Betegőrző monitor | 1/ágy |
-
-| Transzplantációs ambulancia | X |
-
-| Szakmai háttér: |  |
-
-| Kórházi vagy klinikai háttér | EL |
-
-| Aszeptikus műtő | EL |
-
-| Transzplantációs készenléti orvosi ügyeleti rendszer | EL |
-
-| Hemopoetikus őssejt bank | EL |
-
-| Terápiás és őssejt aferezis folyamatos biztosítása | X |
-
-| Infektológus szakorvosi konzílium | EL |
-
-| Mikrobiológiai laboratórium*** | EL |
-
-| Transzfúziológiai háttér**** | EK |
-
-| Standard belső műveleti leírások | X |
-
-| EBMT regisztráció | X |
-
-| Hazai és nemzetközi adatbázisokkal való kapcsolat | X |
-
-| Gyermekbetegnél az anya bentlakásának biztosítása | X |
-
-Megjegyzés:
-
-A haemopoetikus őssejtbank minimumfeltételeit lásd a 6002 Sejtbanki tevékenységség szakmakód alatt
-
-| b) Allogén haemopoetikus őssejt átültetéshez |
-
-|  | Progresszivitási szint |
-
-|  | III. |
-
-| Minimum ágyszám: | 2 |
-
-| Személyi feltételek: |  |
-
-| Orvos | 5 |
-
-| Vezető orvos (hematológus szakorvos, gyakorlat: allogén centrumban)* | 1 |
-
-| Hematológus szakorvos (gyakorlat allogén centrumban)* | 2 |
-
-| Egyéb orvos | 2 |
-
-| Adatmenedzser | 1 |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló**, dietetikus, gyógytornász) | X |
-
-| Hematológiai, transzfúziológiai szakasszisztens | 1 |
-
-| Tárgyi feltételek: |  |
-
-| Orvosi szoba | 1 |
-
-| Személyzeti öltöző és vizes blokk (nemenként) | 1 |
-
-| Adminisztrációs helyiség | 1 |
-
-| Anyagraktár | 1 |
-
-| Takarítószer tároló | 1 |
-
-| Szennyesruha tároló | 1 |
-
-| Izolált csíraszegény egység | 1 |
-
-| Nővérszoba | 1 |
-
-| Személyzeti öltöző és vizes blokk | 1 |
-
-| Bejárati zsilipszoba | X |
-
-| Előkészítő helyiség | 1 |
-
-| Laminar airflow (cytostaticumok felszívásához)***** | 1 |
-
-| Mosdó orvosi csapteleppel | 1 |
-
-| Steril anyagraktár | 1 |
-
-| Nem steril anyagraktár | 1 |
-
-| Tisztaruha raktár | 1 |
-
-| Steril ételek elkészítésére alkalmas konyha | 1 |
-
-| Sterilizáló | 1 |
-
-| Mikrohullámú sütő | 1 |
-
-| Mosogató rendszer | 1 |
-
-| Fóliahegesztő | 1 |
-
-| Mosdó orvosi csapteleppel | 1 |
-
-| Ágytálmosó vagy ágytál megsemmisítő berendezés | 1 |
-
-| Transzplantációs laminar airflow boksz vagy steril kórterem | 2 |
-
-| Zsilip | X |
-
-| Steril klíma | X |
-
-| Transzplantációs laminar airflow boksz vagy steril kórterem felszereltsége |  |
-
-| Alapterület | 12 m2 |
-
-| Intenzív ágy | 1 |
-
-| Központi oxygén és vákuum | X |
-
-| Külső fényvédő berendezés | X |
-
-| Éjjeliszekrény etetőasztallal |  |
-
-| Munkaasztal | 1 |
-
-| Kórtermi ülőke | 1 |
-
-| Világítás: mennyezeti és ágymelletti | X |
-
-| Telefon | 1 |
-
-| TV készülék | 1 |
-
-| Nővérhívó rendszer | X |
-
-| Transzplantációs laminar airflow boksz esetén: steril mosakodó edény, steril víz, sterilizálható mobil WC, steril szoba esetén: fürdőszoba, WC (kórteremből nyílóan), baktériumszűrővel szűrt vízzel és visszafolyásgátló lefolyórendszerrel | X |
-
-| Gép-műszer felszereltség |  |
-
-| Portábilis röntgen készülék | 1 |
-
-| UH-készülék | 1 |
-
-| Infúziós pumpa | 2/ágy |
-
-| Perfúzor | 3/ágy |
-
-| Betegőrző monitor | 1/ágy |
-
-| EKG | 1 |
-
-| Transzplantációs ambulancia | X |
-
-| Elkülönítő szoba | 1 |
-
-| Betegágy infúziós kezeléshez | 1 |
-
-| Szakmai környezet: |  |
-
-| Kórházi vagy klinikai háttér | EL |
-
-| Aszeptikus műtő | EL |
-
-| Transzplantációs készenléti orvosi ügyeleti rendszer | EL |
-
-| Hemopoetikus őssejt bank | EL |
-
-| Infektológus szakorvosi konzílium | EL |
-
-| Mikrobiológiai laboratórium*** | EL |
-
-| Transzfúziológiai háttér**** | EK |
-
-| Standard belső műveleti leírások | X |
-
-| EBMT regisztráció | X |
-
-| Hazai és nemzetközi adatbázisokkal való kapcsolat | X |
-
-| Gyermekbetegnél az anya bentlakásának biztosítása | X |
-
-Jelmagyarázat:
-
-* Bel-, vagy csecsemő- és gyermekgyógyászatra ráépített haematológiai szakvizsga. Vezető orvos: minimum egyéves, a másik szakorvos: minimum féléves, EBMT (European Group for Blood and Marrow Transplantation) által transzplantációra akkreditált centrumban szerzett gyakorlattal kell, hogy rendelkezzen.
-
-** A vezető ápoló: minimum féléves, a többi ápoló: min. 3 hónapos, EBMT által akkreditált központban szerzett gyakorlattal kell, hogy rendelkezzen.
-
-*** Bakteriológia-, parazitológia-, gomba- és vírusdiagnosztika (CMV korai antigén vizsgálatot beleértve).
-
-**** Választott, szűrt, besugárzott vérkészítmények biztosítása 24 órán keresztül, folyamatosan.
-
-***** Betegek gyógyszeres (citosztatikus) kezelésében a citosztatikus keverék infúziók készítéséhez vertikális levegőáramlású lamináris air flow boksz-al rendelkező aseptikus labor megléte szükséges. A citosztatikum keverék készítése gyógyszerész felügyelete mellett történik, az erre vonatkozó hatályos szakmai előírások szerint.
-
-| Endokrinológia, anyagcsere és diabetológia Endokrinológia Diabetológia | Szakmakód: | 0103 0113 0123 |
-
-Fekvőbeteg szakellátás
-
-Progresszivitási szintek:
-
-I. szint
-
-Belgyógyászat
-
-II. szint:
-
-Belgyógyászat speciális részlegein endokrinológiai betegek, diabetes és anyagcsere-betegségek ellátása. Ellátja a társbetegséggel kísért endokrin, diabetes és anyagcsere-betegségben szenvedőket.
-
-Minimum ágyszám: 10
-
-III. szint:
-
-Endokrinológiai betegek, diabetes és anyagcsere-betegségek ellátása endokrinológiai, diabetes és anyagcsere-betegségek központokban.
-
-Ellátja a társbetegségekkel vagy szövődménnyel kísért endokrin, diabetes és anyagcsere-betegségben szenvedőket.
-
-Endokrinológia, diabetes és anyagcsere-betegségek országos szakmai központja. Ellátja a társbetegségekkel és szövődménnyel, vagy differenciáldiagnosztikai gonddal kísért speciális vizsgálati igényű endokrin, diabetes és anyagcsere-betegségben szenvedőket.
-
-Minimum ágyszám: 15
-
-| Endokrinológia, anyagcsere és diabetológia osztály minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | I. Belgyógyászat | II. | III. |
-
-| Minimum ágyszám |  | 10 | 15 |
-
-| Személyi feltételek: |  |  |  |
-
-| Endokrinológus szakorvos 30 ágyig a további ágyakra |  | 1 1/15 ágy | 2 1/15 ágy |
-
-| Belgyógyász szakorvos 30 ágyig a további ágyakra |  | 1 1/15 ágy | 2 1/15 ágy |
-
-| Orvos 30 ágyig a további ágyakra |  | 2 1/15 ágy | 2 1/15 ágy |
-
-| Onkológus szakorvos |  |  | EL |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) |  | X | X |
-
-| Klinikai és mentálhigiéniai szakpszichológus |  | EL | EL |
-
-| Tárgyi feltételek: |  |  |  |
-
-| Belgyógyászati osztály általános feltételei |  | X | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |  |
-
-| Belgyógyászati osztály általános feltételei + |  | X | X |
-
-| Intenzív osztály |  | EL | EL |
-
-| Rutin kémai labordiagnosztikai módszerek, cholesterin, triglycerid, HDL-cholesterin, LDL-cholesterin |  | EL | EL |
-
-| Lp(a) meghatározás, apoprotein plazmaszintek meghatározása, apoprotein genetika |  |  | EL |
-
-| Speciális laboratóriumi vizsgálatok: TSH, FT4, FT3, anti-TPO, cortisol (dexamethason teszttel), testosteron, Prolactin, FSH, LH, oestradiol, progeszteron, VMA, HbA1c |  | EL | EL |
-
-| Speciális laboratóriumi vizsgálatok: TRAK, PRA, aldosteron, GH, Prolactin (PEG-precipitáció után is), PTH, metanephrin, normetanephrin, calcitonin |  | EL | EL |
-
-| Vizelet és szérum ozmolalitás |  | EL | EL |
-
-| Speciális laboratóriumi vizsgálatok: thyreoglobulin, anti-thyreoglobulin, ACTH, DHEA szulfát, 17 OH progeszteron, androstendion, IGF-1, SHBG, Noradrenalin-, Adrenalin-ürítés, szérum chromogranin A meghatározás Osteocalcin, Crosslinks, 25 OH D-vitamin gastrin Inzulin, Inzulin ellenes antitest, szigetsejt ellenes antitestek Vizelet, szérum ozmolalitás |  |  | EL |
-
-| Patológiai diagnosztika és cytodiagnosztika (pajzsmirigy aspirációs cytológia) |  | EL | EL |
-
-| Immunhisztokémia (synaptophysin, chromogranin A) |  |  | EL |
-
-| Molekularis biológiai vizsgálatok: MTC és CAH genetikai szűrés országosan legalább egy térségi központban |  |  | EK |
-
-| Molekularis biológiai vizsgálatok: familiáris phaeochromocytoma/paraganglioma genetikai screening országosan legalább egy térségi központban |  |  | EK |
-
-| Konvencionális radiológiai vizsgálatok, hasi és nyaki ultrahangvizsgálat, CT, pajzsmirigy izotóp vizsgálat |  | EL | EL |
-
-| Alhasi ultrahangvizsgálat |  | EL | EL |
-
-| Oszteodenzitometria |  | EK | EL |
-
-| MRI |  | EL | EL |
-
-| PET |  |  | EK |
-
-| Angiográfiás laboratórium (mellékvese véna katéterezés rutinszerű végzése) |  |  | EL |
-
-| Angiográfiás laboratórium (sinus petrosus inf. katéterezés rutinszerű végzése) |  |  | EK |
-
-| In vivo izotop vizsgálatok: pajzsmirigy, Tc és J-131, MIBI, MIBEG, Scintadren, Octreoscan (fakultatív) |  |  | EK |
-
-| Delta-amino-levulinsav meghatározás, porphyria analízis |  |  | EL |
-
-| Szükséges társszakmák jelenléte: belgyógyászat, nőgyógyászat, sebészet, neurológia, szemészet, nukleáris medicina |  | EK | EL |
-
-| Szükséges társszakmák jelenléte: genetika, endokrin sebészet (hasi, pajzsmirigy, mellékpajzsmirigy), andrológia, onkológia |  |  | EL |
-
-| Endokrinológiai járóbeteg szakrendelés és szakambulancia minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | I. Szakrendelés | II. Szakambulancia |
-
-| Személyi feltételek: |  |  |
-
-| Endokrinológus szakorvos | 1 | 1 |
-
-| Általános asszisztens/szakasszisztens | 1 | 1 |
-
-| Tárgyi feltételek: a rendelő általános feltételei | X | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |
-
-| Speciális hormondiagnosztikai vizsgálatok | EL | EL |
-
-| Általános orvosi laboratórium | EL | EL |
-
-| Konvencionális radiológia vizsgálatok | EL | EL |
-
-| Ultrahang | EL | EL |
-
-| EKG | EL | EL |
-
-| Oszteodenzitometria | EK | EL |
-
-| Patológiai diagnosztika és cytodiagnosztika | EK | EL |
-
-| Genetikai tanácsadás/molekuláris biológiai vizsgálatok | EK | EK |
-
-| In vivo izotóp diagnosztika | EK | EK |
-
-| Angiográfiás vizsgálatok | EK | EL |
-
-| CT, MRI | EK | EL |
-
-| Társszakmák szakorvosi rendelései | EL | EL |
-
-| Diabetes járóbeteg szakrendelés és szakambulancia minimumfeltételei (Cukorbeteg-Tanácsadási Hely) |
-
-|  | Progresszivitási szint |
-
-|  | I. Szakrendelés | II. Szakambulancia |
-
-| Személyi feltételek: |  |  |
-
-| Belgyógyász és/vagy nőgyógyász és/vagy gyerekgyógyász szakorvos, legalább 5 éves diabetológiai gyakorlattal | 1 | 1 |
-
-| Diabetológiai szakápoló | 1 | 2 |
-
-| Dietetikus | 0,5 | 0,5 |
-
-| Tárgyi feltételek: a rendelő általános feltételei + |  |  |
-
-| Beteggondozást támogató szoftverrel rendelkező számítógép(ek) | X | X |
-
-| Tápanyag számító program, számológép, egyéb szemléltető eszközök, betegek számára tápanyag táblázat kivonat, nyersanyag válogatási útmutató, étrend összeállítási útmutató, mintaétrend, receptgyűjtemény, testtömeg index táblázat | X | X |
-
-| Antropometriás meghatározás eszközei (testsúly, testmagasság, testkörfogatok, bőrredő mérése) | X | X |
-
-| Gyors vércukor-meghatározó készülékek | X | X |
-
-| Kalibrált hangvilla a neuropathia mérésére | X | X |
-
-| Cardiovascularis vizsgálati eszközök (ABPM, mini Doppler, EKG) | EK | EK |
-
-| Vénás vérvételi eszközök | X | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |
-
-| A hosszú távú anyagcsere-vezetés ellenőrzését és a szövődmények korai felismerését rendszeresen biztosító laboratóriumi háttér (vércukor-, HbA1c, vérzsír-meghatározás, vesefunkciók, ionok, albuminuria mérése, húgysav-meghatározás, fruktozamin stb.) | EK | EK |
-
-| Diabetológiában jártas interdiszciplináris (szemész, ideggyógyász, kardiológus, angiológus) konziliárusi háttér biztosítása | EK | EK |
-
-Hemophilia ellátás
-
-A vérzékeny és AT-hiányos trombofiliás betegek szakszerű komplex ellátása és gondozása az Országos Egészségbiztosítási Pénztárral szerződéses kapcsolatban álló hemophilia gondozó közpotokban történik. Jogszabály által biztosított lehetőség a hemophiliás betegek kontrollált otthoni kezelése (KOK), amelyet – a hemophilia gondozó központok vezetésével és ellenőrzése mellett – maga a beteg/törvényes gondviselője vagy házi (gyermek)orvosa folytathat. A KOK ellátáson kívül a hemophiliás betegek ellátása a hemophilia gondozó központok feladata. Heveny, nagy vérzéssel járó esemény ellátása a komprehenzív hemostasis diagnosztikai háttérrel és 24 órás szolgálattal rendelkező Térségi Hemophilia Központokat működtető intézmények feladat.
-
-| Gasztroenterológia | Szakmakód: | 0104 |
-
-Szakrendelés
-
-Gasztroenterológiai és Hepatológiai-betegségek ellátása
-
-Ellátja az gasztroenterológiai és hepatológiai-betegségben szenvedőket
-
-− Minden 30 óra/hét gasztroenterológia profilú szakrendelésre (endoszkópia, illetve egyéb szubspecialitások) 1 fő gasztroenterológus szakorvos
-
-− Az endoszkópos szakambulanciákra vonatkozó további személyi javaslatok:
-
-− megfelelően felszerelt endoszkópos vizsgálóegység,
-
-− vizsgálóegységenként 1 fő endoszkópos szakasszisztens és 1 fő általános asszisztens biztosítása.
-
-Fekvőbeteg szakellátás
-
-Progresszivitási szintek:
-
-I. szint
-
-Belgyógyászat
-
-II.a szint:
-
-Ellátja a társbetegséggel kísért gasztroenterológiai és hepatológiai betegségben szenvedőket, azon betegek átvétele, akik ugyan az alsóbb szintű ellátás körébe tartoznak, ám magasabb szintű ellátást igényelnek, mert:
-
-a) az alsóbb szinten hiányoznak egyes tárgyi feltételek,
-
-b) társbetegségekkel vagy szövődménnyel kísért betegség
-
-5 gasztroenterológia profilú ágyra 2 fő gasztroenterológus szakorvos.
-
-− minden 30 óra/hét gasztroenterológia profilú szakrendelésre (akár endoszkópia, akár hepatológia vagy egyéb szubspecialistás) 1 fő gasztroenterológus szakorvos
-
-− 1 endoscopos laboratórium
-
-− Az endoszkópos szakambulanciákra vonatkozó további személyi feltételek: endoszkópos vizsgálóegységenként 1 fő endoszkópos szakasszisztens és 1 fő általános asszisztens biztosítása.
-
-Minimum ágyszám: 5
-
-II.b szint:
-
-Ellátja a társbetegséggel kísért gasztroenterológiai és hepatológiai betegségben szenvedőket, azon betegek átvétele, akik ugyan az alsóbb szintű ellátás körébe tartoznak, ám magasabb szintű ellátást igényelnek, mert:
-
-a) az alsóbb szinten hiányoznak egyes tárgyi feltételek,
-
-b) társbetegségekkel vagy szövődménnyel kísért betegség.
-
-− 15 gasztroenterológia profilú ágyra 3 fő gasztroenterológus szakorvos.
-
-− minden 30 óra/hét gasztroenterológia profilú szakrendelésre (akár endoszkópia, akár hepatológia vagy egyéb szubspecialistás) 1 fő gasztroenterológus szakorvos.
-
-− 2 endoscopos laboratórium, az egyik ERCP Vizsgálatok és operatív beavatkozások céljára megfelelően felszerelve.
-
-− Az endoszkópos szakambulanciákra vonatkozó további személyi feltételek: endoszkópos vizsgálóegységenként 1 fő endoszkópos szakasszisztens és 1 fő általános asszisztens biztosítása.
-
-Minimum ágyszám: 15
-
-III. szint:
-
-Gasztroenterológiai és Hepatológiai betegségek ellátása Gasztroenterológiai és Hepatológiai osztályon/központokban.
-
-Ellátja a társbetegségekkel vagy szövődménnyel kísért vagy differenciáldiagnosztikai gonddal gasztroenterológiai és hepatológiai betegségben szenvedőket, azon betegek átvétele, akik ugyan az alsóbb szintű ellátás körébe tartoznak, ám magasabb szintű ellátást igényelnek, mert:
-
-a) az alsóbb szinten hiányoznak egyes tárgyi feltételek,
-
-b) társbetegségekkel vagy szövődménnyel kísért betegség.
-
-− minden 15 gasztroenterológia profilú ágyra 3 fő gasztroenterológus szakorvos
-
-− minden 30 óra/hét gasztroenterológia profilú szakrendelésre (akár endoszkópia, akár hepatológia vagy egyéb szubspecialistás) 1 fő gasztroenterológus szakorvos
-
-− 2 endoscopos laboratórium, az egyik ERCP Vizsgálatok és operatív beavatkozások céljára megfelelően felszerelve.
-
-− az endoszkópos szakambulanciákra vonatkozó további személyi feltételek: endoszkópos vizsgálóegységenként 1 fő endoszkópos szakasszisztens és 1 fő általános asszisztens biztosítása.
-
-Minimum ágyszám: 15
-
-| Gasztroenterológia osztály minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | I. Belgyógyászat | II.a | II.b | III. |
-
-| Személyi feltételek: |  |  |  |  |
-
-| Össz orvos |  | 2 | 4 | 4 |
-
-| Ebből: Gasztroenterológus szakorvos |  | 5 ágyra 2 | 15 ágyra 3 | 15 ágyra 3 |
-
-| Belgyógyász szakorvos/gasztroenterológus szakorvos jelölt |  |  | 1 | 1 |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) |  | X | X | X |
-
-| Endoszkópos vizsgálóegységenként: |  |  |  |  |
-
-| Endoszkópos szakasszisztens |  | 1 | 1 | 1 |
-
-| Általános asszisztens |  |  | 1 | 1 |
-
-| Tárgyi feltételek: az osztály általános feltételei + |  |  |  |  |
-
-| Speciális helyiségek: Emésztőszervi diagnosztikus és terápiás egység |  |  |  |  |
-
-| Vegyes használatú endoszkópos helyiség |  | 1 |  |  |
-
-| Gastroscopos helyiség: a rendelő általános feltételei + |  |  | 1 | 1 |
-
-| Colonoscopos helyiség: a rendelő általános feltételei + |  |  | 1 | 1 |
-
-| Átvilágításra, ERCP vizsgálatra alkalmas helyiség: a rendelő általános feltételei + |  |  | 1 | 1 |
-
-| UH vizsgáló: a rendelő általános feltételei + |  |  | 1 | 1 |
-
-| Speciális gasztroenterológiai eszközök: |  |  |  |  |
-
-| Sebészeti képerősítő |  |  | 1 | 1 |
-
-| Röntgen ólomköpeny és kesztyű |  |  | 4 | 4 |
-
-| UH-os tisztító |  | 1 | 1 | 1 |
-
-| Hűtőszekrény – szövettani minta tárolásra |  | 1 | 1 | 1 |
-
-| Központi szívó |  |  | - | - |
-
-| Mobil szívó |  | 1 | 1 | 1 |
-
-| Endoszkóp mosótál |  | 1 | 1 | 1 |
-
-| Félautomata eszközmosó |  | 1 | 1 | 1 |
-
-| Automata eszközmosó |  |  | 1 | 1 |
-
-| UH |  |  | 1 | 1 |
-
-| Halogén fényforrás és/vagy videoprocesszor |  | 1 | 2 | 3 |
-
-| Leakege tester |  | 1 | 1 | 1 |
-
-| Gastrofiberoscop és/vagy videogastroscop |  | 1 | 2 | 3 |
-
-| Colonoscop és/vagy videocolonoscop |  | 1 | 2 | 2 |
-
-| Duodenoscop és/vagy videoeszköz |  |  | 2 | 2 |
-
-| Oesophagus varix ligator |  | 1 | 1 | 1 |
-
-| Koaguláló |  | 1 | 1 | 1 |
-
-| Monitor |  |  | 2 | 2 |
-
-| Videomagnó vagy DVD felvevő |  | 1 | 2 | 3 |
-
-| Diathermiás nagyfrekvenciás készülék |  | 1 | 2 | 2 |
-
-| Endoszkópos UH |  |  | - | 1 |
-
-| Endoszkópos tartozékok: |  |  |  |  |
-
-| Biopsziás fogó gastroscophoz |  | 2 | 5 | 5 |
-
-| Biopsziás fogó colonoscophoz |  | 2 | 3 | 3 |
-
-| Hurok |  | 2 | 2 | 3 |
-
-| ERCP feltöltő katéter |  |  | 2 | 3 |
-
-| Papillotom |  |  | 3 | 3 |
-
-| Dormia |  |  | 2 | 2 |
-
-| Kőzúzó |  |  | 1 | 1 |
-
-| Vezetődrót |  |  | 2 | 2 |
-
-| Pusher katéter |  |  | 2 | 2 |
-
-| Sclerotizáló tű |  | 2 | 2 | 2 |
-
-| Varix ligator |  | 1 | 1 | 1 |
-
-| Haemo-clip rögzítő |  | 1 | 1 | 1 |
-
-| Idegentestfogó |  | 2 | 2 | 2 |
-
-| Citológiás kefe |  | 1 | 2 | 2 |
-
-| Hidraulicus ballontágító sorozat oesophagus, illetve Colon |  |  | 1 | 2 |
-
-| Speciális diagnosztikai és szakmai háttér: |
-
-| CT |  | EK | EK | EK |
-
-| Mikrobiológiai laboratórium |  | EK | EK | EK |
-
-| Nukleáris medicina |  | EK | EK | EK |
-
-| Intenzív osztály |  | EK | EL | EL |
-
-| Aneszteziológiai osztály |  | EK | EL | EL |
-
-| Gasztroenterológiai járóbeteg szakrendelés és szakambulancia minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | I. Szakrendelés | II. Szakambulancia |
-
-| Személyi feltételek: |  |  |
-
-| Gasztroenterológus szakorvos (30 óra/hét szakrendelésre) | 1 | 1 |
-
-| Orvos |  | 1 |
-
-| Endoszkópos asszisztens | 1 | 1 |
-
-| Általános szakasszisztens | 1* | 1 |
-
-| Endoszkópos vizsgálóegység: a rendelő általános feltételei + | 1 | EL |
-
-| Betegkísérő |  | 1 |
-
-| Tárgyi feltételek: a rendelő általános feltételei + |  |  |
-
-| Vegyes használatú endoszkópos helyiség | 1 | 1 |
-
-| Hűtőszekrény – szövettani minta tárolására | 1 | 1 |
-
-| Endoszkóp mosótál | 1 | 1 |
-
-| Félautomata eszközmosó | 1 | 1 |
-
-| Halogén fényforrás és/vagy videoprocesszor | 1 | 1 |
-
-| Leakege tester | 1 | 1 |
-
-| Colonoscop és/vagy videocolonoscop | 1 | 1 |
-
-| Biopsziás fogó gastroscophoz | 2 | 2 |
-
-| Biopsziás fogó colonoscophoz | 2 | 2 |
-
-| Hurok | 2 | 2 |
-
-| Vezetődrót |  | 1 |
-
-| Sclerotizáló tű | 1 | 2 |
-
-| Varix ligator |  | 1 |
-
-| Haemo-clip rögzítő |  | 1 |
-
-| Idegentestfogó | 1* | 2 |
-
-| Citológiás kefe |  | 1 |
-
-| Gastrofiberoscop és/vagy videogastroscop | 1 | 1 |
-
-| Oesophagus varix ligator |  | 1 |
-
-| Koaguláló |  | 1 |
-
-| Monitor | 1 | 1 |
-
-| Videomagnó vagy egyéb képrögzítő rendszer | 1 | 1 |
-
-| UH tisztító | 1* | 1 |
-
-| Mobil szívó | 1 | 1 |
-
-| Diathermiás nagyfrekvenciás készülék | 1 | 1 |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |
-
-| CT | EK | EK |
-
-| Mikrobiológiai laboratórium | EK | EK |
-
-| Nukleáris medicina | EK | EK |
-
-| Intenzív osztály |  | EL |
-
-| Aneszteziológiai osztály |  | EL |
-
-Megjegyzés:
-
-Személyi feltételhez: Belgyógyász, gasztroenterológus szakorvos (legalább 3 éves szakorvosi gyakorlat évi igazolt 200 vizsgálat), asszisztens.
-
-| Gasztroenterológiai rehabilitáció | Szakmakód: | 2203 |
-
-Lásd. REHABILITÁCIÓS MEDICINA főcsoport 2203 szakmakód alatt
-
-| Nefrológia | Szakmakód: | 0105 |
-
-Fekvőbeteg szakellátás
-
-Progresszivitási szintek
-
-I. szint:
-
-Az általános belgyógyászati követelményeknek felel meg.
-
-II. szint:
-
-Az akut és krónikus vesebetegségek ellátása. Nefrológiai járóbeteg ellátás működtetése. Nem végezheti a III. szinten végzett speciális tevékenységeket.
 
 Minimum ágyszám: 5
 
@@ -2968,83 +2742,11 @@ III. szint:
 
 A fekvőbetegellátáshoz csatoltan a hét minden munkanapján nefrológiai járóbeteg ellátás működtetése. Vesebiopszia végzésének és feldolgozásának feltételei, immunszerológia (ANCA, aGBM) végzése, terápiás plazmaferezis lehetősége, CT, MRI vizsgálat elérhetősége, igazolt oktatási tevékenység.
 
-A vesebiopszia, illetve immunszerológia (ANCA, aGBM) végzése és annak eredménye 24 órán belül elérhető legyen, citosztatikus terápia és biológiai terápia. Csak önálló osztály keretében, vagy mátrixban is lehet végezni.
-
-Minimum ágyszám: 15
-
-| Nefrológiai osztály minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | I. Belgyógyászat | II. | III. |
-
-| Személyi feltételek: |  |  |  |
-
-| Orvoslétszám összesen: |  | 1 főorvos, szakorvos + 10 ágyanként 2 orvos | 1 főorvos, szakorvos + 15 ágyanként 4 orvos |
-
-| Az orvoslétszámból nefrológus szakorvos |  | 2 | 4 |
-
-| Klinikai és mentálhigiéniai szakpszichológus/pszichológus |  | EK | EK |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) |  | X | X |
-
-| Informatikus |  | EL | EL |
-
-| Gyógypedagógus |  | EL | EL |
-
-| Betegkísérő |  | EL | EL |
-
-| Tárgyi feltételek: az osztály általános feltételei+ |  |  |  |
-
-| ABPM |  | X | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |  |
-
-| Vesebiopszia elvégzésének elérhetősége |  | EK | X |
-
-| Vesebiopszia szövettani értékelésének elérhetősége (immunhisztológia, fénymikroszkópia, elektronmikroszkópia) |  | EK | EK |
-
-| Immunterápia elérhetősége |  | EK | EK |
-
-| Kombinált immunterápia (plazmaferezis, IvIg, citosztatikus kezelés, biológiai terápia) |  | EK | EK |
-
-| Mikrobiológiai laboratórium |  | EK | EK |
-
-| CT |  | EK | EK |
-
-| Ultrahang, RTG |  | EK | EK |
-
-| Duplex UH |  | EK | EK |
-
-| Immunológiai laboratóriumi diagnosztika |  | EK | EK |
-
-| Nukleáris medicina |  | EK | EK |
-
-| MRI |  | EK | EK |
-
-| Angiographia |  | EK | EK |
-
-| Endoszkópos laboratóriumi háttér |  | EK | EK |
-
-| Osteodensiometria |  | EK | EK |
-
-| Kardiológiai nem invazív kivizsgálási háttér (echocardiographia, ergometria/stressz echo) |  | EK | EK |
-
-| Kardiológiai invazív kivizsgálási háttér (coronarographia, PCI) |  | EK | EK |
-
-| Intenzív terápiás háttér |  | EK | EK |
-
-| Aneszteziológiai osztály |  | EK | EK |
-
-| Fizioterápia |  | EK | EK |
-
-| Központi vákuum vagy egyedi szívás |  | EK | EK |
+A vesebiopszia, illetve immunszerológia (ANCA, aGBM) végzése és annak eredménye 24 órán belül elérhető legyen, citosztatikus terápia és biológiai terápia. Csak önálló osztály keretében végezhető.
 
 Járóbeteg szakellátás
 
-A hét minden munkanapján működő nephrológiai szakrendelés és járóbeteg dialízis ellátás, krónikusan hemodializált, CAPD-vel kezelt és transzplantált betegek gondozása.
-
-A szakrendelés és a szakmabulancia közötti eltérés, hogy a szakmabulancián nem főállásban dolgoznak az osztály orvosai.
+A hét minden munkanapján működő nefrológiai szakrendelés és járóbeteg dialízis ellátás, krónikusan hemodializált, CAPD-vel kezelt és transzplantált betegek gondozása.
 
 | Nefrológiai járóbeteg szakrendelés/szakambulancia minimumfeltételei |
 
@@ -3052,17 +2754,17 @@ A szakrendelés és a szakmabulancia közötti eltérés, hogy a szakmabulanciá
 
 | Személyi feltételek: |  |
 
-| Szakorvos (a heti óraszámnak megfelelően) | 1 |
+| Nefrológia szakorvos (a heti óraszámnak megfelelően) | 1 |
 
-| Általános asszisztens/nephrológiai szakápoló | 1 |
+| Általános asszisztens/nefrológiai szakápoló | 1 |
 
 | Tárgyi feltételek: a rendelő általános feltételei | X |
 
 | Speciális diagnosztikai és szakmai háttér: |  |
 
-| Orvosi laboratórium | EL |
+| Orvosi laboratóriumi diagnosztika | EL |
 
-| Mikrobiológiai laboratórium | EK |
+| Mikrobiológiai laboratóriumi diagnosztika | EK |
 
 | Képalkotó diagnosztika (rtg., Duplex UH, mini Doppler, CT, MRI, angiographia) | EK |
 
@@ -3074,37 +2776,95 @@ Geriátriai beteg definíciója:
 
 Az a 65 évesnél idősebb, több betegségben szenvedő beteg, akinél komplex diagnosztikai felmérésre és rehabilitációra szoruló állapot észlelhető, amely miatt folyamatosan kezelni, törődni és gondozni kell az erre az életkorra jellemző urogenitális, pszichiátriai, mozgásszervi, kardiális és egyéb betegségekkel.
 
-A geriátria az orvostudománynak az a szakága, mely az idős betegek fizikai, mentális, funkcionális és szociális állapotával foglalkozik akut, krónikus, rehabilitációs, prevenciós és az élet végén szükséges gondozás-ápolás vonatkozásaiban. A betegeknek ezt a csoportját nagyfokú elesettség, rászorultság és multimorbiditás jellemzi, mely holisztikus megközelítést igényel. A betegségek a szokottól eltérően jelentkezhetnek időskorban, gyakran nagyon nehezen diagnosztizálhatók, a kezelés hatása hosszabb idő után jelentkezik és gyakran szociális támogatást igényelnek. A geriátria ezért meghaladja a szervekre specializálódott orvostudományi ágakat, a betegek kezelésében multidiszciplináris jelleggel bír, fő célja az idős betegek funkcionális állapotának optimalizálása, életminőségüknek és önállóságuknak javítása. A geriátria nem egyértelműen csak az életkor által meghatározott tudományág, de az idős betegekre jellemző tipikus kórképekkel foglalkozik. A legtöbb beteg 65 évnél idősebb, de a geriátria által kezelt problémák a 80 év felettiekben válnak általánossá. Történelmi és kulturális okokból elfogadott, hogy a geriátria szerveződése az Európai Unió tagállamaiban eltérhet egymástól.
-
 Geriátriai ellátás formái:
 
-1. Geriátriai szakkonzultáció
+1. Geriátriai járóbeteg szakellátás
 
 Szakrendelőben, szakambulancián végzett geriátriai szakellátás. Célja a beteg és környezetének orientálása, kisebb terápiás módosítások elvégzése, beállított kezelések követése a háziorvossal és szükség szerint a szociális ellátórendszerrel koordinálva.
 
 2. Geriátriai mobil intervenció
 
-Kórházon belül végzett geriátriai szakellátás. Célja az egyes, nem geriátriai osztályokon kezelt geriátriai betegek ellátásának konzultatív jellegű segítése a geriátriai ellátási szempontok érvényesítése.
+Kórházon belül végzett geriátriai szakellátás. Célja az egyes, nem geriátriai osztályokon kezelt geriátriai betegek ellátásának konzultatív jellegű segítése, a geriátriai ellátási szempontok érvényesítése.
 
 3. Geriátriai osztály
 
 A fekvőbeteg-ellátást nyújtó szolgáltatónál szervezett önálló osztály.
 
+Fekvőbeteg szakellátás
+
 Progresszivitási szintek
 
 II. szint:
 
-A II. progresszivitási szint azt az aktív geriátriai ellátást jelenti a 65 év feletti betegek számára, amely a több betegségben szenvedő betegek akut terápiás ellátását végzi, amennyiben betegségei közül egy vagy kettő akut romlást mutat, melyek kezelésétől a beteg állapotában, önellátó képességében javulás remélhető. Aktív, geriáter szakorvos által vezetett osztály/részleg. Lehet önálló osztály, lehet az aktív belgyógyászati osztály része (részleg).
-
-A geriáterképzés gyakorlati oktatásának is része a II. progresszivitási szint.
+A II. progresszivitási szint azt az aktív geriátriai ellátást jelenti, amely kiegészíti és kisegíti elsősorban a belgyógyászat vonatkozásában a fenti definícióban meghatározott betegek ellátását.
 
 Minimum ágyszám: 15
 
-III. szint:
+| Nefrológiai osztály minimumfeltételei |
 
-A III.-as progresszivitási szint a legmagasabb szintű aktív geriátriai ellátó hely, (egyetemi, vagy regionális) központ, ahol az idősek (65 év felettiek) aktív geriátriai gyógykezelését, kiegészítő kezelését, komplex, aktív és operatív szakmai háttér mellett végzik, geriáter szakorvos által vezetett klinikai (vagy kihelyezett) osztályon. A progresszivitás magasabb szintje elsősorban az időskori megbetegedések speciális társ-, vagy szövődményes megbetegedésének klinikai szintű ellátását igénylő eseteket jelenti, melyben legalább kettő, de általában több comorbiditás akut romlása következett be.
+|  | Progresszivitási szint |
 
-A központban geriáter képzés is folyik (graduális és postgraduális elméleti és gyakorlati oktatással), tanszék, tanszéki csoport formában, melynek a III. progresszivitási szintű osztály a gyakorlati képzést adó helye is.
+|  | II. | III. |
+
+| Személyi feltételek: |  |  |
+
+| Orvoslétszám összesen: | 1 főorvos, szakorvos + 10 ágyanként 2 orvos | 1 főorvos, szakorvos + 15 ágyanként 4 orvos |
+
+| Ebből: nefrológia szakorvos | 2 | 4 |
+
+| Klinikai és mentálhigiéniai szakpszichológus/ pszichológus | EK | EK |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
+
+| Informatikus | EL | EL |
+
+| Gyógypedagógus | EL | EL |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |  |
+
+| ABPM | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |
+
+| Vesebiopszia elvégzésének elérhetősége | EK | X |
+
+| Vesebiopszia szövettani értékelésének elérhetősége (immunhisztológia, fénymikroszkópia, elektronmikroszkópia) | EK | EK |
+
+| Immunterápia elérhetősége | EK | EK |
+
+| Kombinált immunterápia (plazmaferezis, IvIg, citosztatikus kezelés, biológiai terápia) | EK | EL |
+
+| Mikrobiológiai laboratóriumi diagnosztika | EK | EK |
+
+| CT | EK | EK |
+
+| Ultrahang, RTG | EK | EK |
+
+| Duplex UH | EK | EK |
+
+| Orvosi laboratóriumi diagnosztika | EK | EK |
+
+| Nukleáris medicina | EK | EK |
+
+| MRI | EK | EK |
+
+| Angiographia | EK | EK |
+
+| Endoszkópos laboratóriumi háttér | EK | EK |
+
+| Osteodensiometria | EK | EK |
+
+| Kardiológiai nem invazív kivizsgálási háttér (echocardiographia, ergometria/stressz echo) | EK | EK |
+
+| Kardiológiai invazív kivizsgálási háttér (coronarographia, PCI) | EK | EK |
+
+| Intenzív terápiás háttér | EK | EK |
+
+| Aneszteziológiai munkahely | EK | EK |
+
+| Fizioterápia | EK | EK |
+
+| Központi vákuum vagy egyedi szívás | EK | EK |
 
 Minimum ágyszám: 10
 
@@ -3116,25 +2876,23 @@ Minimum ágyszám: 10
 
 | Személyi feltételek: |  |  |
 
-| Geriáter szakorvos | 1 | 2 |
+| Geriátria szakorvos | 1 | 2 |
 
 | Orvos | 2 | 2 |
 
 | A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
 
-| Pszichológus/klinikai és mentálhigiéniai szakpszichológus | EL | EL |
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL |
 
 | Szociális munkás | EL | EL |
 
-| Betegkísérő | 1 | 2 |
+| Betegkísérő | 2 | 1 |
 
 | Lelki gondozó | EK | EK |
 
-| Tárgyi feltételek: |  |  |
+| Tárgyi feltételek: azosztály általános feltételei + |  |  |
 
-| Speciális eszközigény |  |  |
-
-| Kórterem | 2-3 ágyas mozgáskorlátozottak számára kialakítva, fürdőszobával | 2-3 ágyas mozgáskorlátozottak számára kialakítva, fürdőszobával |
+| Kórterem | 2-3 ágyas, mozgáskorlátozottak számára kialakítva, fürdőszobával | 2-3 ágyas, mozgáskorlátozottak számára kialakítva, fürdőszobával |
 
 | Ambulancia, vizsgálóhelyiség | 1-1 | 1-1 |
 
@@ -3148,9 +2906,7 @@ Minimum ágyszám: 10
 
 | Szilikonos antidecubitus párna | X | X |
 
-| Karosszék | betegenként 1 | betegenként 1 |
-
-| Járókeret | 5 | 7 |
+| Járókeret | 7 | 5 |
 
 | Kerekesszék | 5 | 5 |
 
@@ -3160,35 +2916,35 @@ Minimum ágyszám: 10
 
 | Speciális diagnosztikai és szakmai háttér: |  |  |
 
-| Diabetológus | EL | EL |
+| Belgyógyászat szakorvos diabetológiai jártassággal | EL | EL |
 
-| Pszichiáter | EL | EL |
+| Pszichiátria szakorvos | EL | EL |
 
-| Urológus | EL | EL |
+| Urológia szakorvos | EL | EL |
 
-| Kardiológus | EL | EL |
+| Kardiológia szakorvos | EL | EL |
 
-| Neurológus | EL | EL |
+| Neurológia szakorvos | EL | EL |
 
 | Fizioterápia | EL | EL |
 
 | Diagnosztikai háttér (mobil) |  |  |
 
-| Laboratórium | EL | EL |
+| Orvosi laboratóriumi diagnosztika | EL | EL |
 
-| Röntgen | EL | EL |
+| Röntgen diagnosztika | EL | EL |
 
-| Ultrahang | EL | EL |
+| Ultrahang diagnosztika | EL | EL |
 
-| Geriátriai járóbeteg szakellátás minimumfeltételei |
+| Geriátriai járóbeteg szakrendelés minimumfeltételei |
 
 | Személyi feltételek: |  |
 
-| Geriáter szakorvos | 1 |
+| Geriátria szakorvos | 1 |
 
-| Pszichológus | EL |
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL |
 
-| Tárgyi feltételek: rendelő általános feltételei + |  |
+| Tárgyi feltételek: a rendelő általános feltételei + |  |
 
 | Speciális eszközigény |  |
 
@@ -3202,25 +2958,25 @@ Minimum ágyszám: 10
 
 | Speciális szakmai és diagnosztikai háttér: |  |
 
-| Diabetológus | EL |
+| Belgyógyászat szakorvos diabetológiai jártassággal | EL |
 
-| Pszichiáter | EL |
+| Pszichiátria szakorvos | EL |
 
-| Urológus | EL |
+| Urológia szakorvos | EL |
 
-| Kardiológus | EL |
+| Kardiológia szakorvos | EL |
 
-| Neurológus | EL |
+| Neurológia szakorvos | EL |
 
 | Fizioterápia | EL |
 
 | Diagnosztikai háttér (mobil) |  |
 
-| Laboratórium | EL |
+| Orvosi laboratóriumi diagnosztika | EL |
 
-| Röntgen | EL |
+| Röntgen diagnosztika | EL |
 
-| Ultrahang | EL |
+| Ultrahang diagnosztika | EL |
 
 | Allergológia és klinikai immunológia | Szakmakód: | 0109 |
 
@@ -3242,6 +2998,10 @@ II. szint:
 
 Feladata: az I. szint feladatai, továbbá:
 
+II. szint:
+
+Az akut és krónikus vesebetegségek ellátása. Nefrológiai járóbeteg ellátás működtetése. Nem végezheti a III. szinten leírt speciális tevékenységeket.
+
 - Az immunológiai/allergológiai betegségek diagnosztizálása, a gyors és biztos diagnózis hiánya esetén magasabb szintű ellátásra való haladéktalan áthelyezése, a megfelelő szintű konzultáció, szakmai tanácsadás igénybevétele.
 
 - A betegek kezelése és gondozása, a terápiára nem reagáló esetek magasabb szintre való haladéktalan áthelyezése.
@@ -3254,21 +3014,21 @@ Feladata: az I. szint feladatai, továbbá:
 
 - Komplikált, terápiarezisztens allergiás-immunológiai (autoimmun, immunhiányos, immunmediált betegségek) esetek szükség szerinti irányítása magasabb ellátási szintre.
 
-- Az olyan immunológiai-allergológiai betegeket, akiknek az alapbetegség mellett komorbid problémája van és az III. szintű ellátást igényel, azonnali áthelyezést igényelnek.
+- Az olyan immunológiai-allergológiai betegek, akiknek az alapbetegség mellett komorbid problémája van és az III. szintű ellátást igényel, azonnali áthelyezést igényelnek.
 
 - A nem injekciós immunterápia indikációjának felállítása és a kezelés végrehajtása.
 
 - In vivo allergén azonosítás: prick bőrpróbák, epikután tesztek segítségével.
 
-- Kevésbé igénylik a speciális feltételrendszer meglétét, illetve a megbetegedés súlyossága nem indokolja egy magasabb, ezáltal költségesebb ellátási szintre történő áthelyezést.
+Minimum ágyszám: 10
 
-Minimum ágyszám: 10.
+III. szint:
 
-III. szint: a II. szint feladatai, továbbá:
+→ Térségi vagy országos betegellátást végző egészségügyi szolgáltató, ahol a személyi és tárgyi feltételeket biztosítani kell.
 
-Térségi vagy országos betegellátást végző egészségügyi szolgáltató, ahol a személyi és tárgyi feltételeket biztosítani kell.
+→ A szakorvosoknak (pulmonológia, bőrgyógyászat, neurológia, szemészet, szülészet, fül-orr-gége, reumatológia, és egyes belgyógyászati szakterületek) klinikai immunológiai és allergológiai szakorvosi képesítéssel vagy dokumentáltan bizonyítható 5 éves szakmai gyakorlattal kell rendelkezniük a klinikai immunológiai-allergológiai betegek kezelésében.
 
-A szakorvosoknak (pulmonológia, bőrgyógyászat, neurológia, szemészet, szülészet, fül-orr-gége, reumatológia, és egyes belgyógyászati szakterületek) klinikai immunológiai és allergológiai szakorvosi képesítéssel vagy dokumentáltan bizonyítható 5 éves szakmai gyakorlattal kell rendelkezniük a klinikai immunológiai-allergológiai betegek kezelésében.
+→ Feladata: a II. szint feladatai, továbbá:
 
 - A szisztémás és egyéb autoimmun betegségek és immunhiányos betegek kivizsgálása, gyógykezelése, állapotellenőrzése, a kezelési stratégia kialakítása és szakgondozás.
 
@@ -3276,17 +3036,19 @@ A szakorvosoknak (pulmonológia, bőrgyógyászat, neurológia, szemészet, szü
 
 - Lehetőség szakkonziliáriusi tevékenységre.
 
-- A III. szinten kell ellátni azokat a feladatokat, amelyeknek feltételei a nagytérségben és esetleg országosan is csak itt adottak, és ezeket indokolt módon az Egészségügyi Szakmai Kollégium Immunológiai és Allergológiai Tagozata határozza meg és jelöli ki.
+- A III. szinten kell ellátni azokat a feladatokat, amelyeknek feltételei a térségben és esetleg országosan is csak itt adottak, és ezeket indokolt módon az Egészségügyi Szakmai Kollégium Immunológiai és Allergológiai Tagozata határozza meg és jelöli ki.
 
-- speciális feladatok.***
-
-Térségenként (1-1,2millió lakos) legalább egy, III. progresszív szintű központ szükséges.
+- Speciális feladatok.
 
 Immunterápia [allergiás-atopiás (IgE-mediálta) betegségek] végzésének általános feltételei
 
-1. IgE-mediálta (allergiás-atopiás) betegek immunterápiáját Klinikai Immunológiai Allergológiai szakvizsgával rendelkező szakorvos (belgyógyász, tüdőgyógyász, fül-orr-gégész, bőrgyógyász, csecsemő- és gyermekgyógyász) végezheti.
+1. IgE-mediálta (allergiás-atopiás) betegek immunterápiáját klinikai immunológiai és allergológiai szakvizsgával rendelkező szakorvos (belgyógyász, tüdőgyógyász, fül-orr-gégész, bőrgyógyász, csecsemő- és gyermekgyógyász) végezheti.
+
+2. Az atopiás (IgE-mediálta) betegségek immunterápiájába tartoznak: az allergén specifikus immunterápia (de-hypo-szenzibilizáció) parenterális és nem injekciós formái, valamint az egyéb nem allergén specifikus biológiai terápia különböző formái (toleranciakialakítás, biológiai terápia).
 
 2. Az atopiás (IgE-mediálta) betegségek immunterápiájába tartoznak: az allergén specifikus immunterápia (de-hypo-szenzibilizáció) parenterális és nem injekciós formái, valamint egyéb nem allergén specifikus biológiai terápia különböző formái (toleranciakialakítás, biológiai terápia).
+
+3. Az allergén specifikus immunterápia parenterális (injekciós) formája csak olyan intézetben végezhető, ahol adottak a tárgyi és személyi feltételek, a rovarméreg allergia esetében fekvőbeteg-intézetben végezhető el, ahol az intenzív észlelés feltételei (intenzív osztályos háttér) is rendelkezésre állnak.
 
 3. Az IgE-mediálta (atopiás) betegségek parenterális immunterápiás ellátási szintje: II., III.
 
@@ -3298,109 +3060,97 @@ Immunterápia [allergiás-atopiás (IgE-mediálta) betegségek] végzésének á
 
 |  | Progresszivitási szint |
 
-|  | I. Belgyógyászat | II. | III. |
+|  | II. | III. |
 
-| Személyi feltételek: |  |  |  |
+| Személyi feltételek: |  |  |
 
-| Allergológia és klinikai immunológia szakorvosa osztályvezető |  | 1 | 1 |
+| Allergológia és klinikai immunológia szakorvos (osztályvezető) | 1 | 1 |
 
-| Allergológia és klinikai immunológia szakorvosa |  | 1 | 2 |
+| Allergológia és klinikai immunológia szakorvos | 1 | 2 |
 
-| Szakorvos (egyéb szakvizsgával) |  | 1 | 1 |
+| Szakorvos (egyéb szakvizsgával) | 1 | 1 |
 
-| Orvos |  | 1 | 2 |
+| Orvos | 1 | 2 |
 
-| Orvos: további 15 ágyanként |  | 1* | 1 |
+| Orvos: további 15 ágyanként | 1 | 1 |
 
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) |  | X | X |
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
 
-| Klinikai és mentálhigiéniai szakpszichológus |  | EL | EL |
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL |
 
-| Tárgyi feltételek: az osztály általános feltételei+ |  |  |  |
+| Tárgyi feltételek: az osztály általános feltételei + |  |  |
 
-| Belgyógyászati osztály feltételei (0100 szakmakód alatt) |  | X | X |
+| Belgyógyászati osztály feltételei (0100 szakmakód alatt) | X | X |
 
-| Mikroszkóp |  | X | X |
+| Mikroszkóp |  | X |
 
-| Biopsziás készlet |  | X | X |
+| Kapillármikroszkópia | EK | EK |
 
-| Kapillármikroszkópia |  | EK | EL |
+| Lamináris air flow box | EK | EK |
 
-| Lamináris air flow box |  | EL | EL |
+| Speciális diagnosztikai és szakmai háttér: |  |  |
 
-| Speciális diagnosztikai és szakmai háttér: |  |  |  |
+| Endoszkópos laboratórium: | EK | EL |
 
-| Endoszkópos laboratórium: |  | EK | EL |
+| Colonoscopia |  |  |
 
-| Colonoscopia |  |  |  |
+| Gastroscopia |  |  |
 
-| Gastroscopia |  |  |  |
+| Bronchoscopia |  | EL |
 
-| Bronchoscopia |  |  | EL |
+| Nukleáris medicina | EK | EK |
 
-| Klinikai immunológiai - allergológiai laboratórium |  | EK | EL |
+| Röntgen diagnosztika |  | EL |
 
-| Nukleáris medicina |  | EK | EK |
+| Ultrahang diagnosztika |  | EL |
 
-| Röntgen |  |  | EL |
+| Speciális képalkotó vizsgálatok (DSA, MRA) |  | EL |
 
-| Ultrahang |  |  | EL |
+| Angiographia |  | EL |
 
-| Speciális képalkotó vizsgálatok (DSA, MRA) |  |  | EL |
+| Orvosi laboratóriumi diagnosztika | EK | EL |
 
-| Angiográphia |  |  | EL |
+| Patológia |  | EL |
 
-| Orvosi laboratórium |  |  | EL |
+| CT | EK | EK |
 
-| Patológia |  |  | EL |
+| MRI | EK | EK |
 
-| Toxikológiai laboratórium |  |  | EK |
+| EEG | EK | EK |
 
-| CT |  | EK | EK |
+| EMG | EK | EK |
 
-| MRI |  | EK | EK |
+| Légzésfunkció | EL | EL |
 
-| EEG |  | EK | EK |
+| Intenzív osztály | EL | EL |
 
-| EMG |  | EK | EK |
+| Plazma-citoferezis-fotoferezis |  | EL |
 
-| Légzésfunkció |  | EL | EL |
-
-| Intenzív osztály |  | EL | EL |
-
-| Plazma-citoferezis-fotoferezis |  |  | EL |
-
-| Fizioterápia |  | EL | EL |
-
-| Speciális feladatok |  |  | X |
+| Fizioterápia | EL | EL |
 
 | Immunológiai és allergológiai járóbeteg szakrendelés minimumfeltételei |
 
 | Személyi feltételek: |  |
 
-| Allergológia és klinikai immunológia szakorvosa | 1 |
+| Allergológia és klinikai immunológia szakorvos | 1 |
 
 | Szakorvos (egyéb szakvizsgával) | EL |
 
-| Általános asszisztens/légzőszervi szakápoló/pulmonológus-allergológus szakasszisztens/szakasszisztens | 1 |
+| Általános asszisztens/légzőszervi szakápoló/pulmonológus-allergológus szakasszisztens | 1 |
 
-| Gyógytornász | EL |
+| Gyógytornász | EK |
 
-| Dietetikus | EL |
+| Dietetikus | EK |
 
-| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL |
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EK |
 
-| Fizioterápiás szakasszisztens | EL |
+| Fizioterápiás szakasszisztens | EK |
 
 | Tárgyi feltételek: a rendelő általános feltételei + |  |
 
-| Citosztatikus laminar air flow | EL |
+| Citosztatikus laminar air flow | EK |
 
-| Mikroszkóp | X |
-
-| Biopsziás készlet | EL |
-
-| Kapillármikroszkópia | EL |
+| Kapillármikroszkópia | EK |
 
 | Allergénsorozat epicutan tesztekhez | EL |
 
@@ -3410,21 +3160,17 @@ Immunterápia [allergiás-atopiás (IgE-mediálta) betegségek] végzésének á
 
 | Speciális képalkotó vizsgálatok (DSA, MRA) | EK |
 
-| Klinikai immunológiai laboratórium | EK |
-
 | Endoszkópos laboratórium | EK |
 
-| Röntgen | EK |
+| Röntgen diagnosztika | EK |
 
-| Ultrahang | EK |
+| Ultrahang diagnosztika | EK |
 
-| Angiográphia | EK |
+| Angiographia | EK |
 
-| Általános orvosi és kémiai laboratórium | EK |
+| Orvosi laboratóriumi diagnosztika | EK |
 
 | Patológia (cytológia) | EK |
-
-| Toxicológiai laboratórium | EK |
 
 | Nukleáris medicina | EK |
 
@@ -3436,41 +3182,27 @@ Immunterápia [allergiás-atopiás (IgE-mediálta) betegségek] végzésének á
 
 | EMG | EK |
 
-| Légzésfunkciós laboratórium | EK |
-
 | Intenzív osztály | EK |
 
-| Immunológiában járatos speciális szakkonziliárusok** | EK |
+| Immunológiában járatos speciális szakkonziliáriusok* | EK |
 
 | Fizioterápia | EL |
 
-| Speciális feladatok*** | X |
-
 Jelmagyarázat:
 
-**A pulmonológia, kardiológia, bőrgyógyászat, neurológia, szemészet, stomatológia, reumatológia, és egyes belgyógyászati szakterületek (gasztroenterológia, nefrológia) szakorvosai, akik klinikai immunológiai és allergológiai szakorvosi képesítéssel vagy legalább 5 éves szakmai gyakorlattal (alapfeltételként) rendelkeznek a klinikai immunológiai - allergológiai betegek kezelésében.
+* NIV: nem invazív lélegeztetés.
 
-***Speciális feladatok
+| NUKLEÁRIS MEDICINA |
+
+| Izotópdiagnosztika | Szakmakód: | 6500 |
+
+Megjegyzés:
 
 Klinikai Immunológiai központ
 
-Az interdiszciplináris jelleg miatt a megfelelő szakmai háttér csak a négy orvosegyetemmel asszociált klinikai intézményekben biztosítható. A progresszivitás III. szintje.
+Az interdiszciplináris jelleg miatt a megfelelő szakmai háttér csak a négy orvosegyetemmel asszociált klinikai intézményekben biztosítható.
 
-Feladata: A poliszisztémás autoimmun betegek és a súlyos immundefektus kórisméjének differenciált felismerése és korszerű, komplex ellátásuk.
-
-| Klinikai Immunológiai központ minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| A klinikai immunológia személyi feltételei | X |
-
-| Tárgyi feltételek: |  |
-
-| A klinikai immunológia tárgyi feltételei | X |
-
-A klinikai immmunológiai központ a III. szintű fekvőbeteg osztály mellett működik.
-
-| Dialízis | Szakmakód: | 0110 |
+A klinikai immunológiai központ a III. szintű fekvőbeteg osztály mellett működik.
 
 Progresszivitási szintek
 
@@ -3478,17 +3210,13 @@ I. szint
 
 Szatellit dialízis ellátó hely:
 
-1 nephrológus szakorvos, HD, esetleg PD modalitás.
-
-II. szintDialízis központ:
-
-2 nephrológus szakorvos, HD és PD modalitás, fekvőbeteg-szakellátás.
+1 nefrológus szakorvos, HD, esetleg PD modalitás.
 
 III. szint
 
 Kiemelt dialízis központ:
 
-3 nephrológus szakorvos, HD és PD modalitás, fekvőbeteg-szakellátás, igazolt oktatási tevékenység a fekvőbeteg ellátással együtt.
+3 nefrológus szakorvos, HD és PD modalitás, fekvőbeteg-szakellátás, igazolt oktatási tevékenység a fekvőbeteg ellátással együtt.
 
 | Dialízis kezelést ellátó helyek működésének minimumfeltételei |
 
@@ -3498,27 +3226,27 @@ Kiemelt dialízis központ:
 
 | Személyi feltételek: |  |  |  |
 
-| Orvoslétszám (műszakonként): | 1 | 1 | 1 |
+| Orvoslétszám* (műszakonként): | 1 | 1 | 1 |
 
-| Nephrológus szakorvosok száma: | 1 | 2 | 3 |
+| Nefrológia szakorvosok száma: | 1 | 2 | 3 |
 
-| Ápoló létszám: - műszakonként, 4 kezelőhelyenként 1 szakápoló - műszakonként 1 nephrológiai szakápoló - HbsAg pozitív helyiségbe külön szakápoló - HCV pozitív betegek részére 4 kezelőhelyenként 1 szakápoló műszakonként - akut kezelőhelyen 2 betegenként 1 szakápoló | X X X | X X X X X | X X X X X |
+| Ápoló létszám: - műszakonként, 4 kezelőhelyenként 1 szakápoló - műszakonként 1 nefrológiai szakápoló - HbsAg pozitív helyiségbe külön szakápoló - HCV pozitív betegek részére 4 kezelőhelyenként 1 szakápoló műszakonként - akut kezelőhelyen 2 betegenként 1 szakápoló | X X X | X X X X X | X X X X X |
 
 | Dietetikus | EK | EL | EL |
 
-| Klinikai és mentálhigiéniai szakpszichológus | EK | EK | EK |
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EK | EK | EK |
 
 | Gyógyszerész | EK | EK | EK |
 
 | Segédmunkás | EL | X | X |
 
-| Technikus (elérhető legyen) | X | X | X |
+| Technikus | EL | EL | EL |
 
 | Tárgyi feltételek: |  |  |  |
 
 | Általános helyiségek |  |  |  |
 
-| Akut kezelőhelyiség (10 m2/kezelőhely)* |  | X | X |
+| Akut kezelőhelyiség (10 m2/kezelőhely)** |  | X | X |
 
 | Kezelőhelyiség krónikus betegeknek (8 m2/kezelőhely) | X | X | X |
 
@@ -3534,7 +3262,7 @@ Kiemelt dialízis központ:
 
 | Technikusi szoba (műhely) | X | X | X |
 
-| Orvosi laboratórium | EK | EK | EK |
+| Orvosi laboratóriumi diagnosztika | EK | EK | EK |
 
 | Exitált beteg részére külön helyiség | EK | EK | EK |
 
@@ -3550,13 +3278,13 @@ Kiemelt dialízis központ:
 
 | gyermekkezelésre (egyetemi, térségi központban) min. 2 gép |  |  | X |
 
-| fertőző ellátásra (kijelölt intézményben) min. 2 gép |  |  | X |
+| fertőző beteg ellátásra (kijelölt intézményben) min. 2 gép |  |  | X |
 
 | krónikus ellátásra min. 4 gép | X | X | X |
 
-| PCR pozitív (anti-HCV pozitív) betegek részére elkülönített gép | X | X | X |
+| anti-HCV pozitív betegek részére elkülönített gép | X | X | X |
 
-| HbsAg pozitív betegek részére |  | X | X |
+| HbsAg pozitív betegek részére elkülönített gép |  | X | X |
 
 | HD tartalék készülék és külön az anti-HCV és HbsAg HD készülékekhez | X | X | X |
 
@@ -3564,7 +3292,7 @@ Kiemelt dialízis központ:
 
 | Mozgatható vizsgáló lámpa | X | X | X |
 
-| Infúziós állvány – kezelőhelyenként /gépenként | X | X | X |
+| Infúziós állvány – kezelőhelyenként/gépenként | X | X | X |
 
 | Személymérleg a negatív kezelőben 1 db és a HBV pozitív kezelőben 1 db | X | X | X |
 
@@ -3580,97 +3308,13 @@ Kiemelt dialízis központ:
 
 | Speciális diagnosztikai és szakmai háttér: |  |  |  |
 
-| Mikrobiológiai laboratórium | EK | EK | EK |
-
-*Az akut kezelőhelyiségbe oxigén, szívó, mozgatható vizsgálólámpa, újraélesztő-felszerelés, EKG, defibrillátor szükséges.
-
-| Peritoneális dialízis központok és CAPD ambulanciák működésének szakmai minimumfeltételei |
-
-|  | Oktató központ | CAPD központ | CAPD ambulancia |
-
-| Személyi feltételek: |  |  |  |
-
-| Vezető nephrológus szakorvos | 1 | 1 | 1 |
-
-| Nephrológus szakorvos minimum | 2 | 1 | 1 |
-
-| Szakápoló (20 betegre 1) | X | X | X |
-
-| Nephrológiai szakápoló | 1 | 1 | 1 |
-
-| Dietetikus | EK | EK | EK |
-
-| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EK | EK | EK |
-
-| Tárgyi feltételek: |  |  |  |
-
-| CAPD kezelő | X | X | X |
-
-| CAPD gyakorló helyiség | X | X |  |
-
-| Asztali mérleg | X | X | X |
-
-| Oldatmelegítő berendezés (termosztát vagy micro melegítő) | X | X | X |
-
-| Fonendoszkóp személyenként 1 db | X | X | X |
-
-| ABPM | X | X | X |
-
-| Speciális PD-bemutató és oktató eszközök | X | X | X |
-
-| APD automata | X |  |  |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |  |
-
-| Mikrobiológiai laboratórium | EK | EK | EK |
-
-| Orvosi laboratórium | EK | EK | EK |
-
-| Képalkotó diagnosztika | EK | EK | EK |
-
-| Nephrológiai vagy belgyógyászati osztályos háttér | EK | EK | EK |
-
-| Hemodialízis háttér | X | X | X |
-
-| Szervezett betegszállítás | EK | EK | EK |
-
-| Szervezett anyagszállítás | EK | EK | EK |
-
-| BŐRGYÓGYÁSZAT |
-
-| Bőr- és nemibeteg-ellátás | Szakmakód: | 0800 |
-
-Bőrgyógyászat, kozmetológia, STD betegségek és venerológia (syphilis, gonorrhoea, HIV),
-
-− Bőr- és Nemibeteg gondozó Intézetek (syphilis, gonorrhoea gondozása)
-
-− HIV - STD Centrumok (antiretrovirális kezelésben még nem részesülő HIV pozitívak gondozása)
-
-− II-III. szintű Bőrgyógyászati fekvőosztályok
-
-Bőrgyógyászat, kozmetológia és STD betegségek ellátása, de nem jogosult a venerológiai betegségek gondozására (syphilis, gonorrhoea és HIV)
-
-Szakképesítés neve: bőrgyógyász szakorvos/bőrgyógyász, kozmetológus és venerológus szakorvos
-
-Fekvőbeteg szakellátás
-
-Progresszivitási szintek
-
-II. szint:
-
-Az az ellátó hely, ahol önálló bőrgyógyászati és szövődményes venerológiai (syphilis, gonorrhoea) és egyéb STD esetek fekvőbeteg ellátása történik a kornak megfelelő hazai színvonalon és körülmények között, és az általános bőrgyógyászati járóbeteg rendelésen kívül legalább egy speciális szakambulancia is működik. Alkalmas bőrgyógyászati dermatoonkológiai kisműtétek végzésére is.
-
-Minimum ágyszám: 10
-
-III. szint:
-
-Az az ellátó hely, amely bőrgyógyászati, szövődményes STD és venerológiai fekvőbeteg ellátást biztosít, és a hozzá csatlakozó szakambulanciákon (specializált szakrendelések) a kornak megfelelő hazai színvonalon, és hazai körülmények között magas szinten képes ellátni akár a legsúlyosabb bőrgyógyászati esetek széles skáláját. Onko-team elérhető. Egyes speciális területen a legújabb nemzetközi szakmai trendeknek megfelelő ellátást is képes nyújtani.
+| Mikrobiológiai laboratóriumi diagnosztika | EK | EK | EK |
 
 Ezen kategórián belül a progresszivitás legfelsőbb fokát az egyetemi oktatóközpontok képezik, progresszív bőrgyógyászati, venerológiai, dermatoallergológiai, dermatoimmunológiai és dermatoonkológiai tevékenység együttes biztosítása révén. Rendelkeznek azokkal a terápiás és kivizsgálási lehetőségekkel, amelyeket a III. szintű megyei kórházakban részben a szakszemélyzet hiánya miatt nem lehet teljesíteni. Biztosít speciális progresszív terápiás lehetőségeket (lézer park, kombinált fénykezelések, fotodinámiás kezelés), és kivizsgálásokat (minimális erythema dózis, speciális bőrgyógyászati immunológiai tesztek, immunhisztokémiai festések, stb.). Onko-team felállítására képes.
 
 Minimum ágyszám: 15
 
-2K20337N_56
+3K83451_55
 
 | Bőrgyógyászati osztály minimumfeltételei |
 
@@ -3680,13 +3324,13 @@ Minimum ágyszám: 15
 
 | Személyi feltételek: |  |  |
 
-| Bőrgyógyász szakorvos (legalább 3 éves, a szakterületen eltöltött, fekvőbeteg gyógyintézetben teljes munkaidőben végzett szakmai gyakorlattal) | 2 | 3 |
+| Bőrgyógyászat szakorvos | 2 | 3 |
 
-| Bőrgyógyász szakorvos/szakorvos jelölt | 1 | 2 |
+| Bőrgyógyászat szakorvos jelölt | 1 | 2 |
 
-| Sebész szakorvos | EK | EL |
+| Sebészet szakorvos | EK | EL |
 
-| Onkológus szakorvos | EL | EL |
+| Klinikai onkológia szakorvos | EL | EL |
 
 | Klinikai alllergológia és immunológia szakorvos |  | 1 |
 
@@ -3706,7 +3350,7 @@ Minimum ágyszám: 15
 
 | Speciális diagnosztikai és szakmai háttér: |  |  |
 
-| Onkoteam |  | EL |
+| Onko-team |  | EL |
 
 | Minimális erythéma dózis meghatározása |  | EL |
 
@@ -3724,11 +3368,9 @@ Minimum ágyszám: 15
 
 | Digitális dermatoszkópos képrögzítés |  | X |
 
-| Általános orvosi és kémiai laboratórium | EK | EK |
+| Orvosi laboratóriumi diagnosztika | EK | EK |
 
-| Klinikai immunológiai laboratórium | EK | EK |
-
-| Mikrobiológiai laboratórium | EK | EK |
+| Mikrobiológiai laboratóriumi diagnosztika | EK | EK |
 
 | Nukleáris medicina | EK | EK |
 
@@ -3738,21 +3380,21 @@ Minimum ágyszám: 15
 
 | EMG | EK | EK |
 
-| Intenzív osztály vagy központi intenzív osztály | EK | EK |
+| Intenzív osztály | EK | EK |
 
-| Szakmai konzíliáriusok: fül-orr gége, sebészet, belgyógyászat, nőgyógyászat, urológia, csecsemő- és gyermekgyógyászat, tüdőgyógyászat, angiológiai osztály, neurológus, szemész, orális medicina, klinikai és mentálhigiéniai szakpszihológus/pszihológus, infektológus | EK | EK |
+| Szakmai konziliáriusok: fül-orr gégész, sebész, belgyógyász, nőgyógyász, urológus, csecsemő- és gyermekgyógyász, tüdőgyógyász, angiológus, neurológus, szemész, klinikai és mentálhigiéniai szakpszichológus/pszichológus, infektológus | EK | EK |
 
 | Rehabilitációs osztály | EK | EK |
 
 Szakambulancia:
 
-II-III. szintű fekvőbeteg ellátási háttérrel történik egy (II. szinten) vagy több (III. szinten) szubspecialitás ambuláns ellátása. Ezek a következők lehetnek: bőrgyógyászati allergológia, STD, phlebológia és sebkezelés, bőrgyógyászati mycológia, oncodermatológia, bőrgyógyászati immunológia, kozmetológia, UV terápiás szakambulancia, bőrgyógyászati radioterápia, bőrgyógyászati ultrahang vizsgálat. Az egyetemi szakambulanciák részt vesznek a szakorvosképzésben, valamint a szakápoló és szakasszisztens képzésben.
+II-III. szintű fekvőbeteg ellátási háttérrel történik egy (II. szinten) vagy több (III. szinten) szubspecialitás ambuláns ellátása. Ezek a következők lehetnek: bőrgyógyászati allergológia, STD, phlebológia és sebkezelés, bőrgyógyászati mykológia, oncodermatológia, bőrgyógyászati immunológia, kozmetológia, UV terápiás szakambulancia, bőrgyógyászati radioterápia, bőrgyógyászati ultrahang vizsgálat. Az egyetemi szakambulanciák részt vesznek a szakorvosképzésben, valamint a szakápoló és szakasszisztens képzésben.
 
 A szakambulanciák minimum feltételrendszere megfelel a bőrgyógyászati szakrendelés követelményeinek, kiegészítve a következőkkel:
 
 Bőrgyógyászati szakambulancia:
 
-Fekvőintézetben kezelt beteg kontrollja, vagy egyéb szakorvostól konzultációba küldött beteg ellátása, elsősorban a fekvőbeteg intézet igényének kiszolgálására.
+Fekvőbeteg osztályon kezelt beteg kontrollja, vagy egyéb szakorvostól konzultációba küldött beteg ellátása.
 
 Allergológiai szakambulancia:
 
@@ -3760,9 +3402,9 @@ Allergológiai szakambulancia:
 
 Legalább a II. szintnek megfelelő allergológiai tesztelés
 
-Oncodermatológia szakambulancia:
+Onkodermatológia szakambulancia:
 
-Rosszindulatú bőrgyógyászati daganatok szűrése, ambuláns ellátása és gondozása. Dermatopathológiai háttér biztosítása (EK). Digitális dermatoscopos képrögzítés. Melanoma malignum gondozása, propagációjának megítélése és onkológiai kezelése erre jogosult onkoteamhez kötött.
+Rosszindulatú bőrgyógyászati daganatok szűrése, ambuláns ellátása és gondozása. Dermatopathológiai háttér biztosítása (EK). Digitális dermatoscopos képrögzítés. Melanoma malignum gondozása, propagációjának megítélése és onkológiai kezelése erre jogosult onko-teamhez kötött.
 
 UV terápiás szakambulancia:
 
@@ -3770,11 +3412,11 @@ Minimális erythéma dózis meghatározása, UVA vagy 311 narrow band UVB kész�
 
 Mykológiai szakambulancia
 
-Gyakorlati jártassággal (mintavétel, direkt mikroszkópos értékelés és tenyésztés) rendelkező 1 bőrgyógyász szakorvos és 1 asszisztens, thermostat, valamint elérhető mikrobiológiai laboratóriumi háttér és konzultáció.
+Gyakorlattal (mintavétel, direkt mikroszkópos értékelés és tenyésztés) rendelkező 1 bőrgyógyász szakorvos és 1 asszisztens, thermostat, valamint elérhető mikrobiológiai laboratóriumi háttér és konzultáció.
 
 Bőrgyógyászati radiotherápiás szakambulancia:
 
-1 részállású radiotherápiás szakvizsgával rendelkező szakorvos, és 1 részállású szakasszisztens. A lágysugárzású RTG készülék működtetése és az ennek megfelelő röntgenkezelés az idevonatkozó előírásnak megfelelő, sugárvédelmi szempontból ellenőrzött és engedélyezett környezetben és módon történik.
+1 részállású radiotherápiás szakvizsgával rendelkező szakorvos és 1 részállású szakasszisztens. A lágysugárzású RTG készülék működtetése és az ennek megfelelő röntgenkezelés az idevonatkozó előírásnak megfelelő, sugárvédelmi szempontból ellenőrzött és engedélyezett környezetben és módon történik.
 
 Phlebológia és sebkezelő szakambulancia:
 
@@ -3782,11 +3424,11 @@ Phlebológiában és sebkezelésben szakmai gyakorlattal rendelkező 1 bőrgyóg
 
 Bőrgyógyászati immunológiai szakambulancia:
 
-1 ráépített immuno-allergológus szakvizsgával rendelkező bőrgyógyász szakorvos, elérhető (EL) speciális immunológiai és immunfluoreszcens laboratóriumi háttér. Belgyógyászati, immunológiai és rheumatológiai szakkonzultáció (EL).
+1 ráépített immuno-allergológus szakvizsgával rendelkező bőrgyógyász szakorvos, elérhető (EL) speciális immunológiai és immunfluoreszcens laboratóriumi háttér. Belgyógyászati, immunológiai és reumatológiai szakkonzultáció (EL).
 
 Bőrgyógyászati ultrahang szakambulancia:
 
-1 részállású radiológus szakorvos, 1 részállású szakasszisztens. Dedikált ultrahang készülék.
+1 részállású radiológus szakorvos, 1 részállású szakasszisztens. Ultrahang készülék.
 
 Kozmetológiai szakambulancia:
 
@@ -3798,11 +3440,9 @@ Kozmetológiai szakambulancia:
 
 | Személyi feltételek: |  |  |
 
-| Bőrgyógyász/bőr-és nemigyógyász kozmetológus-szakorvos | 1 | 1 |
+| Bőrgyógyászat/bőr- és nemigyógyászat kozmetológia szakorvos | 1 | 1 |
 
-| Általános asszisztens/szakasszisztens (TM és/vagy területi ellátási kötelezettséget ellátó/szakgondozó | 1 | 2 |
-
-| Counselling tanfolyamot végzett általános asszisztens/szakasszisztens |  | 1 |
+| Általános asszisztens/szakasszisztens (TM/területi ellátási kötelezettséget ellátó/szakgondozó) | 1* | 2* |
 
 | Tárgyi feltételek: a rendelő általános feltételei + |  |  |
 
@@ -3816,155 +3456,103 @@ Kozmetológiai szakambulancia:
 
 | Bőrbiopszia eszközei (punch-korong, csipesz, olló) | X | X |
 
-| Krioterápia |  | X |
+| Krioterápia |  | EK |
 
 | Speciális eszközök: |  |  |
 
 | Sötétlátóteres mikroszkóp |  | X |
 
-| Nőgyógyászati vizsgálószék | X*, ** | X |
+| Nőgyógyászati vizsgálószék | X** | X |
 
-| Nőgyógyászati hüvelytükör | X*,** | X |
+| Nőgyógyászati hüvelytükör | X** | X |
 
-| Mikrobiológiai mintavétel tárgyi feltételei | X*,** | X |
+| Mikrobiológiai mintavétel tárgyi feltételei | X** | X |
 
-| Testváladék kenet készítés tárgyi feltételei (mintavétel, festés, mikroszkóp) | X*,** | X |
+| Testváladék kenet készítés tárgyi feltételei (mintavétel, festés, mikroszkóp) | X** | X |
 
 | Gondozói helyiség (négyszemközti beszélgetésre alkalmas szoba), benne, vagy attól külön vérvételi helyiség |  | X |
 
 | Speciális diagnosztikai és szakmai háttér: |  |  |
 
-| Klinikai orvosi laboratórium | EK | EK |
+| Orvosi laboratóriumi diagnosztika | EK | EK |
 
-| Mikrobiológiai diagnosztikai és HIV szerológiai laboratórium | EK | EK |
-
-*: Bőrgyógyászati magánrendelőben, ha az orvos csak bőrgyógyászati rendelést folytat, nőgyógyászati vizsgálóágy nem kötelező. Abban az esetben ha STD megbetegedéseket is diagnosztizál, kezel (kivéve: a gondozásra szoruló nemibetegségeket) nőgyógyászati vizsgálóágy kötelező.
-
-**: A gondozást igénylő nemibetegség gyanúja esetén (HIV, syphilis, gonorrhoea) a beteg gondozóintézetbe irányítandó.
-
-| CSECSEMŐ- ÉS GYERMEKGYÓGYÁSZAT |
-
-| Csecsemő- és gyermekgyógyászat | Szakmakód: | 0500 |
-
-A Csecsemő- és gyermekgyógyászat az egészségügyi ellátás önálló alrendszere, mely elsősorban biztosítja a 18 éves kor alatti betegek teljes körű járó és fekvő beteg ellátását.
+| Mikrobiológiai laboratóriumi diagnosztika és HIV szerológiai laboratórium | EK*** | EK |
 
 Az elmúlt évtizedben a specializáció a csecsemő- és gyermekgyógyászat alapú szakmákban új alszakmákat eredményezett – tükrözve a felnőttek ellátásában kialakult specialitásokat –, és így a csecsemő- és gyermekgyógyászat szakmailag magasabb progresszivitási szintjeiként, önálló szubdiszciplinájaként jelentek meg az ellátórendszerben. A specializálódás formája azonban nem egységes valamennyi szakterületen.
 
 A gyermeksebészet, a gyermek- és ifjúságpszichiátria, a neonatológia, a csecsemő- és gyermekgyógyász alapellátás önálló szakmai tagozattal is rendelkezik. Az általános csecsemő- és gyermekgyógyászat mellett és annak részeként a gyermek-kardiológia, gyermek-gasztroenterologia, gyermek-tüdőgyógyászat, gyermek-fül-orr-gégészet, gyermek-neurológia, gyermek-onkológia, gyermek nefrológia, gyermek-endokrinológia-diabetológia és a gyernek-intenzív terápia jelzi a csecsemő- és gyermekgyógyászat komplex rendszerét. A fenti szakmai specialitások betegeinek ellátására ezért szakmai minimumfeltételek által meghatározott körülményeket kell biztosítani. További specialitások, mint gyermekbőrgyógyászat, gyermekallergológia és immunológia, gyermek hematológia és gyermekreumatológia ellátása a csecsemő- és gyermekgyógyászati vagy speciális gyermek (pl. gyermekbőrgyógyászati) osztályokon történik a speciális minimumfeltételekkel rendelkező osztályokon.
 
-Minden fekvőbeteg ellátást végző szolgáltató rendelkezzen kegyeleti szobával, a halál körüli események humánus rendezése céljából.
-
 Progresszivitási szintek
 
 I. szint:
 
-A csecsemő és gyermekgyógyász szakvizsga kompetencia szintéjén ellátható alapszintű járóbeteg/ambulancia, nappali osztály kategóriájú és a sürgősségi ellátás, valamint az I. progresszivitású szinthez kötött fekvőbeteg ellátás biztosítása. Valamennyi, azaz mindhárom szintű gyermekgyógyászati ellátó intézménynek biztosítania kell abban az esetben, ha hozzá az adott szintű területi ellátási kötelezettség társul.
+A csecsemő- és gyermekgyógyász szakvizsga kompetencia szintjén ellátható alapszintű járóbeteg/szakambulancia, nappali osztály kategóriájú és a sürgősségi ellátás, valamint az I. progresszivitású szinthez kötött fekvőbeteg ellátás biztosítása. Valamennyi, azaz mindhárom szintű gyermekgyógyászati ellátó intézménynek biztosítania kell abban az esetben, ha hozzá az adott szintű területi ellátási kötelezettség társul.
 
 Vitális funkciók zavara esetében a beteget azonnal magasabb ellátási szintre küldi.
 
 II. szint:
 
-A csecsemő és gyermekgyógyász szakvizsga kompetencia szintjén ellátható fekvőbeteg ellátás, mely legalább két szubdiszciplina ellátására jogosító szakvizsgával rendelkező szakorvos birtokában további ellátást biztosít, megengedve azt, hogy a komplikált vagy szövődményes eseteket magasabb ellátási szintre utalja. Fontos, hogy legyen a beteg stabilizálálást biztosító ellátási lehetősége, amivel garantálja a felvett beteg végleges ellátási szintre való küldése előtt a stabil vitális funkciókat.
-
-III. szint
-
-A legmagasabb szintű, a szakmai minimum feltételek által meghatározott adottságokkal rendelkező ellátó hely, mely biztosítani képes a csecsemő- és gyermekgyógyászat szubdiszciplináinak többségét is. III. progresszivitású szintű ellátás csecsemő- és gyermekgyógyászati intenzív terápiás osztály megléte esetén végezhető.
-
-A fentieken kívül olyan specialitásokat, szubdiszciplinákat képes biztosítani, melyekre országos szinten csak néhány ellátó helyen van szükség az alacsony betegszám, a magas szakmai ellátási szint vagy a magas költségek miatt. Ide tartozik pl. a haemodialízis, a plazmaferezis, a transzplantációval kapcsolatos ellátás és gondozás, a biológiai terápiák végzése, a koraszülött és újszülött sebészet, a haemato-onkológiai ellátás, a szisztémás autoimmun betegségek ellátása, a toxikológia, plasztikai-égés sebészeti ellátás és a ritka endokrin és anyagcsere betegségek.
-
-| Csecsemő- és gyermekgyógyászati osztály minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | I. | II. | III. |
-
-| Minimum ágyszám (összevont ellátásnál összevont minimális ágyszám, a szubspecialitások ágyszámait is beleértve) | 15 | 15 | 15 |
-
-| Személyi feltételek: |  |  |  |
-
-| Csecsemő- és gyermekgyógyász szakorvos | 4 | 7 | 14 |
-
-| Legalább 5 éves szakorvosi gyakorlattal rendelkező csecsemő- és gyermekgyógyász szakorvos |  |  | 3 |
-
-| Ráépített szakvizsgával rendelkező csecsemő- és gyermekgyógyász szakorvos |  | 3 | 5 |
-
-| Legalább 5 éves szakorvosi gyakorlattal és a csecsemő- és gyermekgyógyászat szubdisciplináiból további ráépített szakvizsgával rendelkező csecsemő- és gyermekgyógyász szakorvos |  |  | 3 |
-
-| Nephrológiai, bőrgyógyászati, allergológiai, immunológiai és reumatológiai osztályon: az érintett szubdiszciplinából szakvizsgával rendelkező szakorvos |  |  |  |
-
-| Szakorvos összesen: | 4 | 10 | 15 |
-
-| Szakorvos jelölt |  | 1 | 2 |
-
-| Orvos - rezidens | 2 | 3 | 4 |
-
-| Aneszteziológus és intenzív terápiás szakorvos, vagy gyermekintenzív terápiás szakorvos (gyermekaneszteziológiai és intenzív terápiás gyakorlattal) |  |  | 2 |
-
-| Klinikai gyermek szakpszichológus | EL | EL | 1 |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |
-
-| Védőnő | EK | EK | EK |
-
-| Gyermek-foglalkoztató (óvónő, pedagógus) | EL | EL | EL |
-
-| Szociális munkás | EL | EL | EL |
-
-| Betegkísérő | EL | EL | 1 |
-
-| Tárgyi feltételek: az osztályon vagy a gyermekellátó intézetben elérhetően |  |  |  |
-
-| Pulzoximéter | X | X | X |
-
-| Elemes otoscop | X | X | X |
-
-| Aerosol kezeléshez szükséges készülék | X | X | X |
-
-| Játszószoba |  | X | X |
-
-| Speciális ágyak | X | X | X |
-
-| Betegőrző monitor (min. 4 paraméteres) | X | X | X |
-
-| Szoptatásra alkalmas alacsony szék (csecsemőrészlegen) | X | X | X |
-
-| Pelenkázóasztal (csecsemő/kórterem) | X | X | X |
-
-| Apnoe alarm | X | X | X |
-
-| Fürdetőkád (csecsemő/kórterem) | X | X | X |
-
-| 24 órás vérnyomásmérő |  | X | X |
-
-| Vérmelegítő |  | X | X |
-
-| Vérgáz analizátor |  | X | X |
-
-| Porlasztó készülék gyógyszerbevitelhez |  | X | X |
-
-| Speciális diagnosztikai és szakmai háttér: |  |  |  |
-
-| CT | EK | EK | EK |
-
-| MRI |  | EK | EK |
-
-| Mikrobiológiai laboratórium | EK | EL | EL |
-
-| EEG | EK | EK | EK |
-
-| Légzésfunkciós laboratórium |  | EL | EL |
-
-| Endoszkópos laboratórium |  | EL | EL |
-
-| Intenzív osztály |  | EL | EL |
-
-| Nukleáris medicina |  |  | EK |
-
-| Gyermeksebészet |  |  | EL |
-
-Csecsemő- és gyermekgyógyászat nappali ellátás minimumfeltételei
+A csecsemő- és gyermekgyógyász szakvizsga kompetencia szintjén ellátható fekvőbeteg ellátás, mely legalább két szubdiszciplina ellátására jogosító szakvizsgával rendelkező szakorvos birtokában további ellátást biztosít, megengedve azt, hogy a komplikált vagy szövődményes eseteket magasabb ellátási szintre utalja. Fontos, hogy legyen a beteg stabilizálálását biztosító ellátási lehetősége, amivel garantálja a végleges ellátási szintre való továbbküldés előtt a stabil vitális funkciókat.
 
 Feladatai:
+
+A nappali kórházi ellátás a terület gyermekbetegeit napközben 8 és 16 óra között fogadja. Ezen belül – a szükséges diagnosztikus, beteg megfigyelési és állapot-stabilitási teendők alapján – eldöntendő, hogy továbbküldik-e a gyermeket a progresszív betegellátás megfelelő szintjére, vagy további megfigyelésre/kezelésre otthonába küldik.
+
+| Csecsemő- és gyermekgyógyászati nappali kórházi ellátás minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Csecsemő- és gyermekgyógyászat szakorvos | 2 |
+
+| Orvos | 1 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, gyógytornász, dietetikus) | X |
+
+| Betegkísérő | EL |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |
+
+| Pulzoximéter | X |
+
+| Elemes otoscop | X |
+
+| Aerosol kezeléshez szükséges készülék | X |
+
+| Speciális ágyak | X |
+
+| Tejkonyha | X |
+
+| Betegőrző monitor (min. 4 paraméteres) | X |
+
+| Szoptatásra alkalmas alacsony szék (csecsemőrészlegen) | X |
+
+| Pelenkázó asztal | X |
+
+| Apnoe alarm | X |
+
+| Fürdető kád (csecsemő/kórterem) | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |
+
+| Röntgen és UH diagnosztika | EL |
+
+| Orvosi laboratóriumi diagnosztika | EL |
+
+| Csecsemő- és gyermekgyógyászati járóbeteg szakrendelés minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Csecsemő- és gyermekgyógyászat szakorvos | 1 |
+
+| Csecsemő- és gyermekgyógyászat szakorvosi gyakorlattal és az érintett szubdiszciplinából ráépített szakvizsgával rendelkező szakorvos | 1 |
+
+| Általános asszisztens/szakasszisztens/csecsemő- és gyermekápoló | 1 |
+
+| Tárgyi feltételek: |  |
+
+| A rendelő általános feltételei | X |
+
+Összevont csecsemő- és gyermekosztályokon speciális ellátásként végezhető szubspecialitások
 
 Gyermek-nefrológia
 
@@ -3980,11 +3568,11 @@ Gyermek nefrológiai ellátás speciális ellátási formája III. szintű, ami 
 
 | Személyi feltételek: |  |
 
-| Csecsemő- és gyermekgyógyász szakorvos és/vagy aneszteziológia és intenzív terápia szakorvos ráépített nephrológiai szakvizsgával | 2 |
+| Csecsemő- és gyermekgyógyászat szakorvosa/aneszteziológia és intenzív terápia szakorvos ráépített nefrológia szakvizsgával | 2 |
 
-| Csecsemő- és gyermekgyógyász szakorvos | 1 |
+| Csecsemő- és gyermekgyógyászat szakorvos | 1 |
 
-| Klinikai szakpszichológus/pszichológus | EL |
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL |
 
 | A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X |
 
@@ -4002,13 +3590,13 @@ Gyermek nefrológiai ellátás speciális ellátási formája III. szintű, ami 
 
 | Kombinált immunterápia | EL |
 
-| Mikrobiológiai laboratórium | EL |
+| Mikrobiológiai laboratóriumi diagnosztika | EL |
 
-| Immunológiai laboratóriumi diagnosztika | EL |
+| Orvosi laboratóriumi diagnosztika | EL |
 
 | Angiographia | EL |
 
-| Szervpótló készülék (hemodilízis, hemoperfúzió, plazmaferezis) | EL |
+| Szervpótló készülék (hemodialízis, hemoperfúzió, plazmaferezis) | EL |
 
 | Kardiológiai nem invazív kivizsgálási háttér | EL |
 
@@ -4016,19 +3604,19 @@ Gyermek nefrológiai ellátás speciális ellátási formája III. szintű, ami 
 
 | Intenzív terápiás háttér | EL |
 
-| Gyermeknephrológia járóbeteg szakrendelés minimumfeltételei |
+| Gyermeknefrológiai járóbeteg szakrendelés minimumfeltételei |
 
 | Személyi feltételek: |  |
 
-| Csecsemő- és gyermekgyógyász szakorvos és/vagy aneszteziológia és intenzív terápia szakorvos és/vagy belgyógyászat szakorvos alapszakvizsgára ráépített nephrológiai szakvizsgával | 1 |
+| Csecsemő- és gyermekgyógyászat szakorvos/aneszteziológia és intenzív terápia szakorvos/belgyógyászat szakorvos alapszakvizsgára ráépített nefrológia szakvizsgával | 1 |
 
-| Általános asszisztens/nephrológiai szakápoló | 1 |
+| Általános asszisztens/nefrológiai szakápoló | 1 |
 
-| Tárgyi feltételek: A rendelő általános feltételei | X |
+| Tárgyi feltételek: a rendelő általános feltételei | X |
 
 | Speciális diagnosztikai és szakmai háttér: |  |
 
-| Mikrobiológiai laboratórium | EK |
+| Mikrobiológiai laboratóriumi diagnosztika | EK |
 
 | Képalkotó diagnosztika (Duplex UH, CT, MRI, angiographia) | EK |
 
@@ -4050,12 +3638,468 @@ Megegyezik a I. szintű csecsemő- és gyermekosztályok minimumfeltételeivel, 
 
 II. szint:
 
-Egyszerűbb, citosztatikus kezelést nem igénylő hematológiai kórképek ellátása, vérzékeny betegek gondozása fekvő és/vagy járóbeteg ellátás keretében. II. szintű hematológiai ellátás csecsemő- és gyermekgyógyászati háttér megléte esetén végezhető.
+Egyszerűbb, citosztatikus kezelést nem igénylő hematológiai kórképek ellátása, vérzékeny betegek gondozása fekvő/járóbeteg ellátás keretében. II. szintű hematológiai ellátás csecsemő- és gyermekgyógyászati háttér megléte esetén végezhető.
+
+Gyermek endokrinológia – diabetológia
+
+Alapelvek:
+
+− Ott működhet diabetes kezelés és gondozás, ahol a szakambulancia/szakrendelés kórházi osztályhoz van integrálva.
+
+− Ott működhet szakambulancia-szakrendelés, ahol legalább 25 diabeteses beteg áll gondozás alatt.
+
+− Az endokrinológiai szakambulanciának (szakrendelésnek) fekvőbeteg háttérrel kell rendelkeznie.
+
+II. szint
+
+Dialízis központ:
+
+2 nefrológus szakorvos, HD és PD modalitás, fekvőbeteg-szakellátás.
 
 III. szint
 
-A legmagasabb szintű, a szakmai minimum feltételek által meghatározott kis számú központ, a komplex onko-hematológiai ellátás teljes köre, komplex hemostasis és vérzékeny beteg ellátás joga és kötelezettsége. III. szintű hematológiai ellátás csecsemő- és gyermekgyógyászati és intenzív terápiás háttér megléte esetén végezhető.
+A legmagasabb szintű ellátó hely, mely biztosítani képes a csecsemő- és gyermekgyógyászat szubdiszciplináinak többségét is. III. progresszivitású szintű ellátás csecsemő- és gyermekgyógyászati intenzív terápiás osztály megléte esetén végezhető.
 
-A III.-as szintnek megfelelő tevékenységeken kívül őssejt-transzplantáció végzése önállóan vagy intézményen belüli kooperációval.
+A fentieken kívül olyan specialitásokat, szubdiszciplinákat képes biztosítani, melyekre országos szinten csak néhány ellátó helyen van szükség az alacsony betegszám, a magas szakmai ellátási szint vagy a magas költségek miatt. Ide tartozik pl. a hemodialízis, a plazmaferezis, a transzplantációval kapcsolatos ellátás és gondozás, a biológiai terápiák végzése, a koraszülött és újszülött sebészet, a hemato-onkológiai ellátás, a szisztémás autoimmun betegségek ellátása, a toxikológia, a plasztikai (égési) sebészeti ellátás és a ritka endokrin és anyagcsere betegségek.
 
-[^49]: A 2. melléklet az 1/2012. (V. 31.) EMMI rendelet 9. § (2) bekezdésével megállapított, a 6/2012. (VI. 28.) EMMI rendelet 1. §-a, a 27/2012. (IX. 18.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
+| Csecsemő- és gyermekgyógyászati osztály minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | I. | II. | III. |
+
+| Minimum ágyszám (összevont ellátásnál összevont minimális ágyszám, a szubspecialitások ágyszámait is beleértve) | 15 | 15 | 15 |
+
+| Személyi feltételek: |  |  |  |
+
+| Csecsemő- és gyermekgyógyászat szakorvos Ebből: | 4 | 7 | 14 |
+
+| Legalább 5 éves szakorvosi gyakorlattal rendelkező csecsemő- és gyermekgyógyászat szakorvos |  |  | 3 |
+
+| Ráépített szakvizsgával rendelkező csecsemő- és gyermekgyógyászat szakorvos |  | 3 | 5 |
+
+| Legalább 5 éves szakorvosi gyakorlattal és a csecsemő- és gyermekgyógyászat szubdiszciplináiból további ráépített szakvizsgával rendelkező csecsemő- és gyermekgyógyászat szakorvos |  |  | 3 |
+
+| Nefrológiai, bőrgyógyászati, allergológiai, immunológiai és reumatológiai osztályon: az érintett szubdiszciplinából szakvizsgával rendelkező csecsemő- és gyermekgyógyászat szakorvos |  |  | 1 |
+
+| Aneszteziológia és intenzív terápia szakorvos, vagy gyermekintenzív terápia szakorvos (gyermekaneszteziológiai és intenzív terápiás gyakorlattal) |  |  | 2 |
+
+| Szakorvos összesen: | 4 | 10 | 20 |
+
+| Szakorvos jelölt |  | 1 | 2 |
+
+| Orvos - rezidens | 2 | 3 | 4 |
+
+| Gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológus/ pszichológus | EL | EL | 1 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |
+
+| Védőnő | EK | EK | EK |
+
+| Gyermek-foglalkoztató (óvónő, pedagógus) | EL | EL | EL |
+
+| Szociális munkás | EL | EL | EL |
+
+| Betegkísérő | EL | EL | 1 |
+
+| Tárgyi feltételek: az osztályon vagy a gyermekellátó intézetben elérhetően |  |  |  |
+
+| Pulzoximéter | X | X | X |
+
+| Elemes otoscop | X | X | X |
+
+| Aerosol kezeléshez szükséges készülék | X | X | X |
+
+| Tejkonyha | X | X | X |
+
+| Szülők elhelyezésére alkalmas szoba | X | X | X |
+
+| Játszószoba |  | X | X |
+
+| Speciális ágyak | X | X | X |
+
+| Betegőrző monitor (min. 4 paraméteres) | X | X | X |
+
+| Szoptatásra alkalmas alacsony szék (csecsemőrészlegen) | X | X | X |
+
+| Pelenkázóasztal (csecsemőkórtermenként legalább 1) | X | X | X |
+
+| Apnoe alarm | X | X | X |
+
+| Fürdetőkád (csecsemőkórtermenként legalább 1) | X | X | X |
+
+| 24 órás vérnyomásmérő |  | X | X |
+
+| Vérmelegítő |  | X | X |
+
+| Vérgáz analizátor |  | X | X |
+
+| Porlasztó készülék gyógyszerbevitelhez |  | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |  |
+
+| CT | EK | EK | EK |
+
+| MRI |  | EK | EK |
+
+| Mikrobiológiai laboratóriumi diagnosztika | EK | EL | EL |
+
+| EEG | EK | EK | EK |
+
+| Légzésfunkciós laboratórium |  | EL | EL |
+
+| Endoszkópos laboratórium |  | EL | EL |
+
+| Intenzív osztály |  | EL | EL |
+
+| Nukleáris medicina |  |  | EK |
+
+| Gyermeksebészet |  |  | EL |
+
+Csecsemő- és gyermekgyógyászat nappali kórházi ellátás minimumfeltételei
+
+− jártasság a diabetes késői szövődményeinek kezelésében,
+
+− a teljes hormonális paletta (hypothalamo-hypophysis-target szervek) hormon-meghatározási lehetősége,
+
+− terheléses vizsgálatok (GnRH, ITT, Clonidin, TRH) elvégzésének biztosítása,
+
+− antitest titerek maghatározhatósága,
+
+− krízis állapotok (M. Basedow, Addison, anorexia stb.) kezelésére alkalmas személyi felkészültség,
+
+− társszakmák (pl.: gyermeknőgyógyász, gyermekszemész, gyermeksebész, kardiológus, MRI-CT szakértő, klinikai és mentálhigiéniai szakpszichológus, pszichológus, pszichiáter) képviselőinek elérhetősége-bevonhatósága konzultációba.
+
+| Gyermek endokrinológiai – diabetológiai osztály minimumfeltételei |
+
+|  | Progresszivitási szint |
+
+|  | II. | III. |
+
+| Minimum ágyszám | 5 | 5 |
+
+| Személyi feltételek: |
+
+| Endokrinológia és anyagcsere-betegségek szakorvos |  | 1 |
+
+| MDT diabetológusa minősítésű csecsemő- és gyermekgyógyászat szakorvos | 1 | 2 |
+
+| Csecsemő- és gyermekgyógyászat szakorvos diabetológiában 5 éves szakmai gyakorlattal | 1 |  |
+
+| Csecsemő- és gyermekgyógyászat szakorvos | 1 | 1 |
+
+| Dietetikus | 1 | 1 |
+
+| Diabetológiai szakápoló | 1 |  |
+
+| Diabetológiai szakápoló pumpa-oktató jártassággal |  | 2 |
+
+| Endokrinológiai szakasszisztens |  | 1 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, gyógytornász) | X | X |
+
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL |
+
+| Tárgyi feltételek: a csecsemő- és gyermekgyógyászati osztály feltételei + |
+
+| Diabeteses betegek oktatásához szükséges eszközök (tápanyag táblázat/kivonat, nyersanyag válogatási útmutató, étrend összeállítási útmutató, mintaétrend, receptgyűjtemény, testtömeg index táblázat, számológép) | X | X |
+
+| EKG | EL | EL |
+
+| Hangvilla | EL | EL |
+
+| Inzulin pumpa |  | X |
+
+| Testösszetételt meghatározó eszközök | X | X |
+
+| Auxológiai standardok | X | X |
+
+| Laboratóriumi feltételek: |
+
+| HbA1c meghatározás | EL | EL |
+
+| Vérzsírok meghatározása | EL | EL |
+
+| Mikroalbumin mérés | EL | EL |
+
+| Vércukormérő automata | 2 | 2 |
+
+| Vérgáz analízis | EL | EL |
+
+| Ionogram automata | EL | EL |
+
+| Diabetes szűrésre alkalmas antitest meghatározás (ICA, antigad, Inzulin antitest) |  | EL |
+
+| Inzulin, C-peptid meghatározás |  | EL |
+
+| Pajzsmirigy anyagcsere vizsgálatok | EL | EL |
+
+| Ca-anyagcsere vizsgálatok | EL | EL |
+
+| Hypothalamo-hypophysis-target szervek hormonmeghatározási lehetősége |  | EL |
+
+| Terheléses vizsgálatok (GnRH, ITT, clonidin, TRH) |  | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |
+
+| Szemészeti ellátás | EK | EK |
+
+| Gyermekdiagnosztikában jártas radiológia szakorvos | EL |  |
+
+| Gyermekradiológia szakorvos |  | EL |
+
+| Gyermek gasztroenterológia szakorvos |  | EL |
+
+| Kardiológia szakorvos/gyermekkardiológia szakorvos |  | EK |
+
+| Nefrológia szakorvos |  | EK |
+
+| Gyermekpszichiátria szakorvos |  | EK |
+
+| Gyermeksebészet szakorvos |  | EK |
+
+| Gyermekneurológia szakorvos |  | EL |
+
+| Gyermek intenzív osztály | EK | EL |
+
+Egyéb gyermekellátó szubspecialitások minimumfeltételei
+
+Gyermek immunológia és allergológia
+
+Progresszivitási szintek
+
+I. szint:
+
+I. szintű csecsemő- és gyermekosztályok fekvőbeteg részlegében működik, személyi és tárgyi feltételei megegyeznek az I. szintű csecsemő- és gyermekosztályokéval.
+
+Feladata:
+
+- Immunológiai/allergológiai betegségek gyanújának felvetése, a diagnózishoz szükséges szakorvosi, szükség szerint a megfelelő szintű kórházi vizsgálatok biztosítása.
+
+- Az irányító centrum által előírt rendszeres ellenőrzéssel kapcsolatos feladatok ellátása, ami kiterjed a betegvizsgálatra, a kötelező, rendszeresen végzendő laboratóriumi és eszközös vizsgálatok elvégzésére, és a szükséges ambuláns szakvizsgálatok elrendelésére.
+
+- A már diagnosztizált betegek számára a szakorvos által javasolt gyógyszerek felírása, és a gyógyszerszedéssel kapcsolatos előírt rutin ellenőrzések elvégzése. Konzultáció a beteg kezelését irányító szakorvossal.
+
+- Immunológiai természetű betegségek szövődményeinek vagy a kezeléssel kapcsolatos mellékhatásoknak a felismerése, és a beteg ellátása vagy a megfelelő szintre történő tovább utalása, tanácsadás allergén kerülésre.
+
+II. szint:
+
+A betegellátás középszintje, feltételrendszere megegyezik a II. szintű csecsemő- és gyermekosztályokéval, ahol a beteg kezelése immunológus/allergológus/pulmonológus/reumatológus szakorvoshoz kötődik.
+
+Feladata:
+
+- Az immunológiai/allergológiai betegségek diagnosztizálása, a gyors és biztos diagnózis hiánya estén magasabb szintű ellátásra való haladéktalan áthelyezése.
+
+- A betegek kezelése és gondozása, a terápiára nem reagáló esetek magasabb szintre való haladéktalan áthelyezése.
+
+- Gyermekkori allergiát és szisztémás autoimmun betegségeket, primer immunhiányokat csak csecsemő- és gyermekgyógyászati képesítéssel bíró szakorvos gondozhat.
+
+- Az alap szakképesítésnek megfelelő komplikációmentes allergiás betegségek végleges diagnózisának felállítása, terápiás terv készítése és végrehajtása, prevenciós szaktanácsadás.
+
+- Az ettől eltérő esetekben az érintett alapszakma allergológiában képesítéssel rendelkező szakemberének bevonása kötelező.
+
+- Komplikált, terápiarezisztens allergiás betegek szükség szerinti irányítása magasabb ellátási szintre.
+
+- Az immunterápia indikációjának felállítása és a kezelés végrehajtása, amennyiben rendelkezésre áll megfelelően képzett személyzet és az adverz eseményekhez szükséges helyszín.
+
+Feladata:
+
+- A szisztémás és egyéb autoimmun betegségek és immunhiányos betegek kivizsgálása, gyógykezelése, állapotellenőrzése, a kezelési stratégia kialakítása és szakgondozás,
+
+- a szövődményes, szakmai problémát okozó allergológiai betegek speciális szakgondozása, különös tekintettel a több szervet érintő allergológiai kórképekre,
+
+- lehetőség szakkonziliáriusi tevékenységre,
+
+- speciális feladatok.
+
+Klinikai Immunológiai Centrum
+
+Az interdiszciplináris jelleg miatt a megfelelő szakmai háttér csak a négy orvosegyetemmel asszociált klinikai intézményekben biztosítható.
+
+Immunterápia [allergiás-atopiás (IgE-mediálta) betegségek] végzésének általános feltételei
+
+1. IgE-mediálta (allergiás-atopiás) betegek immunterápiáját klinikai immunológiai allergológiai szakvizsgával rendelkező szakorvos (belgyógyász, tüdőgyógyász, fül-orr-gégész, bőrgyógyász, csecsemő- és gyermekgyógyász) végezheti.
+
+4. Az IgE-mediálta (atopiás) betegségek parenterális immunterápiás ellátási szintje: II-III. szint.
+
+5. A nem injekciós formát fekvőbeteg intézményen kívül dolgozó csecsemő- és gyermekgyógyász allergológus - immunológus szakorvosok is alkalmazhatják.
+
+| Gyermek immunológiai osztály minimumfeltételei |
+
+|  | Progresszivitási szintek |
+
+|  | I. | II. | III. |
+
+| Minimum ágyszám |  | 5 | 5 |
+
+| Személyi feltételek: |  |  |  |
+
+| Allergológia és klinikai immunológia szakorvos |  | 1 | 1 |
+
+| Csecsemő- és gyermekgyógyászat szakorvos | 1 | 1 | 1 |
+
+| Orvos | 1 | 1 | 2 |
+
+| Gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológus/ klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL | EL | 1 |
+
+| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X | X |
+
+| Szociális munkás | EL | EL | EL |
+
+| Tárgyi feltételek: az osztály általános feltételei + |  |  |  |
+
+| Csecsemő- és gyermekgyógyászati osztály feltételei | X | X | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |  |  |
+
+| Spirometer dózisadagoló gyógyszerporlasztóval |  | X | X |
+
+| Plethysmograph dózisadagoló gyógyszerporlasztóval |  | X | X |
+
+| Diffúziós kapacitásmérő |  | X | X |
+
+| Rhinomanométer |  | X | X |
+
+| Oesophagus ph-mérő műszer |  | X | X |
+
+| Pulsoxymeter |  | X | X |
+
+| Inhalátor gyógyszerporlasztóhoz |  | X | X |
+
+| Motoros szívókészülék |  | X | X |
+
+| Nagy volumenű toldalék adagolós aeroszol használatához |  | X | X |
+
+| Kis volumenű toldalékadagolós aeroszol használatához |  | X | X |
+
+| Központi oxigénellátás (v. O + reduktor) |  | X | X |
+
+| Laringoszkóp, csecsemők és gyermekek részére használható lapocokkal |  | X | X |
+
+| Allergénsorozat epicutan tesztekhez |  | X | X |
+
+| Endoszkópos laboratórium: |  | EL | EL |
+
+| Colonoscopia |  | EK | EK |
+
+| Gastroscopia |  | EK | EK |
+
+| Bronchoscopia |  | EK | EK |
+
+| Orvosi laboratóriumi diagnosztika |  | EK | EL |
+
+| Nukleáris medicina |  | EK | EK |
+
+| Mikrobiológiai laboratóriumi diagnosztika |  | EK | EK |
+
+| UH diagnosztika |  | X | X |
+
+| RTG diagnosztika |  | EL | EL |
+
+| CT |  | EK | EL |
+
+| MRI |  | EK | EL |
+
+| EEG |  | EL | EL |
+
+| EMG |  | EL | EL |
+
+| Légzésfunkció | EL | EL | EL |
+
+| Intenzív osztály |  | X | EL |
+
+| Fizioterápia |  | EL | EL |
+
+| Transzplantáció |  |  | EL |
+
+| Histopatológia |  |  | EL |
+
+| Infektológia szakorvos konzílium |  | EL | EL |
+
+| Vér transzfúziós központ |  | EL | EL |
+
+| Valamennyi diszciplínával csecsemő- és gyermekgyógyász specialista konzultációs lehetőség megléte |  | EL | EL |
+
+| Gyermek immunológiai és allergológiai járóbeteg szakrendelés minimumfeltételei |
+
+| Személyi feltételek: |  |
+
+| Allergológiai és klinikai immunológia szakorvos | 1 |
+
+| Általános asszisztens/légzőszervi szakápoló/pulmonológus-allergológus szakasszisztens/szakasszisztens | 1 |
+
+| Gyógytornász | EL |
+
+| Dietetikus | EL |
+
+| Klinikai és mentálhigiéniai szakpszichológus/pszichológus | EL |
+
+| Szociális munkás | EL |
+
+| Fizioterápiás szakasszisztens | EL |
+
+| Tárgyi feltételek: a rendelő általános feltételei + |  |
+
+| Spirometer | EL |
+
+| Nasalis csúcs áramlásmérő | EL |
+
+| Kilégzési csúcs áramlásmérő | EL |
+
+| Gépi porlasztó, gyógyszer belélegeztetéséhez | EL |
+
+| Nagy volumenű toldalékadagoló, aeroszol belélegeztetéshez | EL |
+
+| Kis volumenű toldalék arcmaszkkal, adagolós aeroszol belélegeztetéséhez | X |
+
+| Hörgőtágító gyógyszerek (inhalációs, oldat, adagolós, aeroszol, porbelégző formában) | X |
+
+| Anaphylaxiás reakció elhárításához szükséges gyógyszerek | X |
+
+| Allergénkivonatok (légúti, alimentaris allergének, bakteriális, gombaantigének) bőrpróbák elvégzéséhez | X |
+
+| Speciális diagnosztikai és szakmai háttér: |  |
+
+| Speciális képalkotó vizsgálatok (DSA, MRA) | EK |
+
+| Orvosi laboratóriumi diagnosztika | EK |
+
+| Endoszkópos laboratórium | EK |
+
+| Nukleáris medicina | EK |
+
+| CT | EK |
+
+| MRI | EK |
+
+| EEG | EK |
+
+| EMG | EK |
+
+| Légzésfunkciós laboratórium | EK |
+
+| Intenzív osztály | EK |
+
+| Immunológiában járatos speciális szakkonziliáriusok | EK |
+
+| Fizioterápia | EL |
+
+| Gyógytorna | EL |
+
+Csecsemő és gyermek bőrgyógyászat
+
+I. szint
+
+A csecsemő és gyermek bőrgyógyászati betegségek alapszintű ellátása az I. szintű általános csecsemő- és gyermekosztályon történhet.
+
+II. szint
+
+− Akut szövődmény (ketoacidózis, hypoglycaemia) ellátására alkalmas intenzív osztályos és laboratóriumi háttér (vércukormérő, vérgáz analízis, ionogram).
+
+Csecsemő és gyermek alvásdiagnosztika és terápia
+
+II. vagy III. szintű általános csecsemő- és gyermekgyógyászati osztályon végezhető.
+
+A laboratórium minimumfeltétele megegyezik mind a két szintű általános csecsemő- és gyermekosztályon történő elhelyezés esetében, így maga az alvásdiagnosztikai eljárás egy szintű, aminek a progresszivitása III.
+
+[^50]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -44,19 +44,22 @@ cd) ha azt az orvostudományi vagy egészségtudományi képzést folytató egye
 
 elnevezés használatára jogosult;
 
-d)[^25] amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult.
+d)[^25] amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult;
 
-(2)[^26]
+e)[^26] amennyiben a ritka betegségben szenvedő betegek diagnosztikai és terápiás ellátását végző más, ritka betegségeket ellátó járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal együttműködik, a betegutak megszervezését biztosítja, speciális, multidiszciplináris szolgáltatást nyújt, a betegellátási tevékenységen túl kutatási és oktatási tevékenységet végez, valamint a ritka betegségben szenvedő betegek és az elérhető szolgáltatások regisztrációját végzi, az egészségügyért felelős miniszter kijelölése alapján a Ritka Betegségek Szakértői Központ elnevezés használatára jogosult.
 
-(3)[^27] Az Eütv. 3. § g) pont ga) alpontja szerinti egészségügyi szolgáltató az (1) bekezdés b) és c) pontja szerinti elnevezése mellett a gyógyintézet elnevezés használatára is jogosult.
+(2)[^27]
 
-(4)[^28] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A nappali ellátás keretében az étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg egészségi állapotának figyelembevételével szükséges.
+(3)[^28] Az Eütv. 3. § g) pont ga) alpontja szerinti egészségügyi szolgáltató az (1) bekezdés b) és c) pontja szerinti elnevezése mellett a gyógyintézet elnevezés használatára is jogosult.
+
+(4)[^29] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A nappali ellátás keretében az étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg egészségi állapotának figyelembevételével szükséges.
 
 [^21]: Az 5. § (1) bekezdés a) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^22]: Az 5. § (1) bekezdés b) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^23]: Az 5. § (1) bekezdés b) pont bi) alpontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^24]: Az 5. § (1) bekezdés c) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^25]: Az 5. § (1) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^26]: Az 5. § (2) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.
-[^27]: Az 5. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
-[^28]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be, szövege az 1/2012. (V. 31.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^26]: Az 5. § (1) bekezdés e) pontját a 73/2013. (XII. 2.) EMMI rendelet 2. §-a iktatta be.
+[^27]: Az 5. § (2) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.
+[^28]: Az 5. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
+[^29]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be, szövege az 1/2012. (V. 31.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 13. §[^40] (1) Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet módosításáról szóló 1/2012. (V. 31.) EMMI rendelettel (a továbbiakban: Módr.) megállapított 2. és 3. melléklet szerinti, a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók részére megállapított feltételeknek való megfelelést
+## 13. §[^41] (1) Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet és az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet módosításáról szóló 1/2012. (V. 31.) EMMI rendelettel (a továbbiakban: Módr.) megállapított 2. és 3. melléklet szerinti, a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók részére megállapított feltételeknek való megfelelést
 
 a) azoknak a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak, amelyeket a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdése szerinti kapacitás-felosztási eljárás érint, a kapacitás-felosztás tárgyában hozott határozat közlésétől számított 8 napon belül,
 
@@ -6,16 +6,16 @@ b) az a) pont alá nem tartozó, fekvőbeteg-szakellátást nyújtó egészség�
 
 kell bejelenteniük.
 
-(2)[^41]
+(2)[^42]
 
-(3)[^42] A Módr.-rel megállapított 2. és 3. melléklet szerinti, a közfinanszírozott járóbeteg-szakellátást és diagnosztikai szolgáltatást nyújtó egészségügyi szolgáltatók részére megállapított feltételeknek 2012. szeptember 30-ától kell megfelelni.
+(3)[^43] A Módr.-rel megállapított 2. és 3. melléklet szerinti, a közfinanszírozott járóbeteg-szakellátást és diagnosztikai szolgáltatást nyújtó egészségügyi szolgáltatók részére megállapított feltételeknek 2012. szeptember 30-ától kell megfelelni.
 
-(4)[^43] A (3) bekezdés szerinti megfelelést az egészségügyi szolgáltatóknak a működési engedély esetleges módosításával egyidejűleg, de legkésőbb 2012. december 30-ig kell bejelenteniük.
+(4)[^44] A (3) bekezdés szerinti megfelelést az egészségügyi szolgáltatóknak a működési engedély esetleges módosításával egyidejűleg, de legkésőbb 2012. december 30-ig kell bejelenteniük.
 
-(5)[^44]
+(5)[^45]
 
-[^40]: A 13. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 70. pontja hatályon kívül helyezte, újonnan az 1/2012. (V. 31.) EMMI rendelet 8. §-a iktatta be.
-[^41]: A 13. § (2) bekezdését a 24/2013. (III. 29.) EMMI rendelet 9. § (2) bekezdése hatályon kívül helyezte.
-[^42]: A 13. § (3) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^43]: A 13. § (4) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
-[^44]: A 13. § (5) bekezdését a 24/2013. (III. 29.) EMMI rendelet 9. § (2) bekezdése hatályon kívül helyezte.
+[^41]: A 13. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 70. pontja hatályon kívül helyezte, újonnan az 1/2012. (V. 31.) EMMI rendelet 8. §-a iktatta be.
+[^42]: A 13. § (2) bekezdését a 24/2013. (III. 29.) EMMI rendelet 9. § (2) bekezdése hatályon kívül helyezte.
+[^43]: A 13. § (3) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^44]: A 13. § (4) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
+[^45]: A 13. § (5) bekezdését a 24/2013. (III. 29.) EMMI rendelet 9. § (2) bekezdése hatályon kívül helyezte.
