@@ -40,7 +40,7 @@ c) étkeztetés, családsegítés, közösségi ellátások, idősek nappali ell
 
 (6) Nappali melegedő, éjjeli menedékhely esetén kizárólag a (2) bekezdés a) pontja és a (4) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni.
 
-(7) Nappali melegedő, éjjeli menedékhely és családsegítés esetén amennyiben az ellátásban részesülő személy Társadalombiztosítási Azonosító Jellel nem rendelkezik, ennek tényét kell a nyilvántartásban rögzíteni.
+(7) Nappali melegedő, éjjeli menedékhely, családsegítés és a 3. § (4a) bekezdésének hatálya alá tartozó személyek átmeneti szállása esetén, amennyiben az ellátásban részesülő személy Társadalombiztosítási Azonosító Jellel nem rendelkezik, ennek tényét kell a nyilvántartásban rögzíteni.
 
 (8) A (2) és (4) bekezdés szerinti adattartalmú nyilvántartás a változások nyomon követhetőségét biztosító elektronikus úton is vezethető.
 

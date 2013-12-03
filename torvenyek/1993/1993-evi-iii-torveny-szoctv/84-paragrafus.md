@@ -2,4 +2,4 @@
 
 (2) A hajléktalan személyek átmeneti szállása azoknak a hajléktalan személyeknek az elhelyezését biztosítja, akik az életvitelszerű szálláshasználat és a szociális munka segítségével képesek az önellátásra.
 
-(3)
+(3) A 3. § (4a) bekezdésében meghatározott hajléktalan személyek esetében az ellátás keretében kizárólag szállás és tisztálkodási lehetőség biztosítható.

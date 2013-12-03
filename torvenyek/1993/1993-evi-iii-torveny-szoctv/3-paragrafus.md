@@ -20,6 +20,18 @@ amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatároz
 
 (4) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártya) rendelkező harmadik országbeli állampolgárra, feltéve, hogy rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel.
 
+(4a) A 84. §-ban meghatározott ellátások tekintetében a törvény hatálya kiterjed arra a személyre, akinek
+
+a) idegenrendészeti, kitoloncolási, menekültügyi őrizete megszűnt,
+
+b) az idegenrendészeti hatóság vagy a menekültügyi hatóság által fenntartott intézményben, az idegenrendészeti eljárásban elrendelt kijelölt helyen, vagy a menekültügyi eljárásban elrendelt kötelező tartózkodási helyen, vagy szálláshelyen való tartózkodása megszűnt, vagy
+
+c) idegenrendészeti vagy menekültügyi eljárásban az idegenrendészeti vagy menekültügyi hatóság által fenntartott intézmény kijelölt helyen való tartózkodási helyként vagy szálláshelyként nem jelölhető ki
+
+és a 4. § (3) bekezdése alapján hajléktalannak minősül.
+
+(4b) A 84. §-ban meghatározott ellátásokat a (4a) bekezdésben felsorolt külföldiek az idegenrendészeti vagy a menekültügyi hatóság által kiállított ideiglenes tartózkodásra jogosító igazolás, vagy humanitárius tartózkodási engedély és a (4a) bekezdésben foglalt feltételek fennállását tanúsító hatósági igazolás birtokában vehetik igénybe.
+
 (5) E törvény meghatározza a pénzbeli, a természetben nyújtott és a személyes gondoskodást nyújtó szociális ellátások egyes formáit, a jogosultság feltételeit, annak megállapítását, a szociális ellátás finanszírozásának elveit és intézményrendszerét, a szociális ellátást nyújtó szervezet és a jogosult közötti jogviszony főbb elemeit, továbbá a fenntartónak a szolgáltatóval, illetve intézménnyel kapcsolatos feladat- és jogkörét, valamint a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi tevékenységet végző személy adatainak működési nyilvántartására vonatkozó szabályokat.
 
 (6) E törvény hatálya nem terjed ki
