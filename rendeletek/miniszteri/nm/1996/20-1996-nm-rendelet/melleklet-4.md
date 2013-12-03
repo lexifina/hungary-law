@@ -16,7 +16,7 @@
 
 |  |  | aláírás |  |
 
-4. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^19]
+4. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^21]
 
 I/1.
 
@@ -462,4 +462,4 @@ IV. FÁJDALOM FELMÉRŐ LAP
 
 (csak otthoni hospice ellátás során)
 
-[^19]: A 4. számú melléklet az 58/2012. (XII. 29.) EMMI rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^21]: A 4. számú melléklet az 58/2012. (XII. 29.) EMMI rendelet 1. § (4) bekezdésével megállapított szöveg.

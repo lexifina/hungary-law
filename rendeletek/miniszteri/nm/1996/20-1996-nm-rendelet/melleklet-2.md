@@ -1,4 +1,4 @@
-2. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^17]
+2. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^19]
 
 ## Az otthoni szakápolás és otthoni hospice ellátás működtetésének tárgyi feltételei
 
@@ -90,4 +90,4 @@
 
 2.2.15. Szögmérő és a gyógytornászok egyéb eszközei, amennyiben a szolgáltató gyógytorna, fizioterápia szolgáltatást nyújt
 
-[^17]: A 2. számú melléklet az 58/2012. (XII. 29.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. számú melléklet az 58/2012. (XII. 29.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.

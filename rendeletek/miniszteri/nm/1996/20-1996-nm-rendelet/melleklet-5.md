@@ -62,6 +62,6 @@
 
 ## Aláírás
 
-5. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^20]
+5. számú melléklet a 20/1996. (VII. 26.) NM rendelethez[^22]
 
-[^20]: Az 5. számú mellékletet a 26/2009. (VIII. 5.) EüM rendelet 4. § (5) bekezdése iktatta be, szövege az 58/2012. (XII. 29.) EMMI rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^22]: Az 5. számú mellékletet a 26/2009. (VIII. 5.) EüM rendelet 4. § (5) bekezdése iktatta be, szövege az 58/2012. (XII. 29.) EMMI rendelet 1. § (5) bekezdésével megállapított szöveg.
