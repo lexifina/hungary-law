@@ -1,4 +1,4 @@
-2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^25]
+2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^21]
 
 I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi szakmák és kódjaik jegyzéke
 
@@ -132,8 +132,6 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0901 | stroke ellátás |
 
-| 0903 | neurológiai rehabilitáció |
-
 | 0904 | klinikai neurofiziológia |
 
 | 0905 | alvásmedicina |
@@ -179,8 +177,6 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 | 1305 | iskolafogászat |
 
 | 1306 | fogászati röntgen |
-
-| 1307 | klinikai fogászati higiénia |
 
 | 1308 | konzerváló fogászat, fogpótlástan |
 
@@ -248,13 +244,9 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 22 Rehabilitációs medicina
 
-| 2201 | mozgásszervi rehabilitáció |
-
-| 2202 | belgyógyászati rehabilitáció |
+| 2200 | Rehabilitációs medicina alaptevékenységek |
 
 | 2203 | gasztroenterológiai rehabilitáció |
-
-| 2204 | nőgyógyászati rehabilitáció |
 
 | 2205 | gyermek rehabilitáció |
 
@@ -306,13 +298,9 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 5000 | orvosi laboratóriumi diagnosztika |
 
-| 5002 | haematológiai laboratóriumi diagnosztika |
-
 | 5003 | mikrobiológiai laboratóriumi diagnosztika 5013 járványügyi mikrobiológiai diagnosztika |
 
 | 5006 | molekuláris genetikai laboratóriumi diagnosztika |
-
-| 5008 | immunológiai laboratóriumi diagnosztika |
 
 51 Képalkotó diagnosztika és radiológiai terápia: röntgendiagnosztika és -terápia
 
@@ -464,13 +452,15 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 7002 | intézeti gyógyszerellátás (külön jogszabályban foglalt feltételek alapján) |
 
-71 Pszichológia (pszichológusi, illetve klinikai szakpszichológusi szakképesítéssel)
+71 Szakpszichológia
 
-| 7100 | pszichológia |
-
-| 7101 | klinikai és mentálhigiénés szakpszichológia |
+| 7101 | klinikai és mentálhigiéniai szakpszichológia |
 
 | 7104 | pszichoterápia (klinikai szakpszichológusi képesítéssel) |
+
+| 7106 | neuropszichológia |
+
+| 7107 | klinikai addiktológiai szakpszichológia |
 
 72 Pedagógiai végzettséggel ellátható egészségügyi szakmák
 
@@ -503,6 +493,8 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 | 7309 | intézeten kívüli szülésznői ellátás |
 
 | 7310 | gyermek palliatív ellátás |
+
+| 7311 | klinikai fogászati higiénia |
 
 76 Dietetika
 
@@ -620,4 +612,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^25]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^21]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a szerint módosított szöveg.
