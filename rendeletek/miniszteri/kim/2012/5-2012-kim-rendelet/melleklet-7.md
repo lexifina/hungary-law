@@ -248,8 +248,8 @@
 
 ## Vagyoni értékű jogok
 
-7. melléklet az 5/2012. (II. 16.) KIM rendelethez[^70]
+7. melléklet az 5/2012. (II. 16.) KIM rendelethez[^42]
 
 Költségvetési terv
 
-[^70]: A 7. melléklet az 56/2012. (XII. 29.) EMMI rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^42]: A 7. melléklet az 56/2012. (XII. 29.) EMMI rendelet 26. § (2) bekezdésével megállapított szöveg.

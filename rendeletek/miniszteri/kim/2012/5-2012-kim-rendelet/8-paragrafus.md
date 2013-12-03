@@ -1,15 +1,21 @@
-## 7. Az ellenőrzés rendje
+8. § (1) Az Alapkezelő gondoskodik a kockázatelemzés alapján kiválasztott kedvezményezettek helyszíni ellenőrzéséről.
 
-8. § (1) Az Alapkezelőnek gondoskodnia kell a támogatás igénylője által az elszámolás keretében benyújtott dokumentumok formai és tartalmi ellenőrzésének lefolytatásáról (a továbbiakban: dokumentumalapú ellenőrzés).
+(2) A kockázatelemzés szempontjait úgy kell meghatározni, hogy:
 
-(2) A dokumentumalapú ellenőrzés keretében legalább ellenőrizni kell:
+a) az adott költségvetési évben a helyszínen ellenőrzött szervezetek száma ne haladja meg az összes kedvezményezett öt százalékát;
 
-a)[^29] a támogatási szerződésben, támogatói okirat alkalmazása esetén a pályázati kiírásban foglaltak teljesítését;
+b) a kiválasztásnak biztosítania kell, hogy az Alap terhére adott költségvetési évben
 
-b)[^30] azt, hogy a támogatási összeg felhasználásának alátámasztásául benyújtott számviteli bizonylatok valós gazdasági eseményen alapulnak, a jóváhagyott cél érdekében merültek fel, és összhangban vannak a pályázati kiírásban, illetve a támogatási szerződésben vállalt kötelezettségekkel, a szakmai célkitűzésekkel, valamint a bizonylatok formailag megfelelőek;
+ba) tízmillió forint összeg feletti támogatást igénybe vevő, továbbá
 
-c)[^31] a támogatásból finanszírozott költséghez kapcsolódó eredeti bizonylatra rávezetett záradék meglétét, amely tartalmazza az Ávr. 80. §- alapján az elszámolt összeget és a támogatási szerződés, támogatói okirat számát.
+bb) a legalább három támogatási jogviszonyban kedvezményezettként szereplő szervezetek mindegyike helyszíni ellenőrzési körbe essen; és
 
-[^29]: A 8. § (2) bekezdés a) pontja az 56/2012. (XII. 29.) EMMI rendelet 24. § (5) bekezdése szerint módosított szöveg.
-[^30]: A 8. § (2) bekezdés b) pontja az 56/2012. (XII. 29.) EMMI rendelet 24. § (6) bekezdése szerint módosított szöveg.
-[^31]: A 8. § (2) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 24. § (7) bekezdése szerint módosított szöveg.
+c) a helyszíni ellenőrzések legalább húsz százaléka az ellenőrzött kedvezményezettnél támogatási időszakba essen.
+
+(3) A helyszíni ellenőrzés során ellenőrizni kell, hogy
+
+a) az elszámolást alátámasztó bizonylatok eredeti példánya a kedvezményezettnél rendelkezésre áll, valamint valós gazdasági eseményen alapul,
+
+b) az elszámolás az azokat megalapozó nyilatkozatokkal és bizonylatokkal összhangban áll,
+
+c) a támogatás kerete terhére beszerzett eszközök rendelkezésre állnak, és felhasználásuk, használatuk a pályázati kiírásnak megfelelően történik.

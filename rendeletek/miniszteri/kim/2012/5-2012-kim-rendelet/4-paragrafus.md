@@ -1,26 +1,73 @@
 ## 4. A támogatási döntés
 
-4. § (1)[^10] Az Alapkezelő a támogatási igény benyújtási határidejének lejártát követő tizenöt napon belül megküldi a döntéshozó részére, döntéshozatal érdekében az érvényes támogatási igények döntéshez szükséges adatait – szervezet neve, adószáma, pályázati azonosító, támogatási cél, igényelt összeg, jogosultként igényelt normatív kiegészítés összege, szervezet típusa (egyesület, alapítvány, szövetség), igényelt támogatás formája (visszatérítendő vagy vissza nem térítendő; előfinanszírozás, utófinanszírozás), együttesen benyújtott támogatási igény esetén a társpályázó adatai (név, ország, székhely címe, adószám, képviselő neve), önrész összege – tartalmazó listát. A megküldött dokumentummal egyidejűleg az Alapkezelő a döntéshozót tájékoztatja a 3. § (5) bekezdés szerinti érvénytelen pályázatokról és azok formai hibájáról. Az Alapkezelő a kifogással érintett támogatási igényekkel kapcsolatos adatokat az adott pályázati kiíráshoz kapcsolódó összes, az Ávr. 90. § alapján benyújtott kifogás elbírálásáról szóló döntés kézhezvételét követően szükség esetén három napon belül korrigálja és a végleges adatokat megküldi a döntéshozónak.
+4. § (1) A pályázati kiírás a pályázat hibáinak, hiányosságainak kijavítására nem biztosíthat lehetőséget.
 
-(2)[^11] A döntéshozó az (1) bekezdés szerinti végleges adatok kézhezvételétől számított tizenöt napon belül – az Alapkezelő részére hiteles dokumentumba foglalt és megküldött módon – dönt:
+(2) A támogatási igényt, annak beérkezésétől számított húsz napon belül az Alapkezelő a beérkezés sorrendjében formai szempontból megvizsgálja (formai vizsgálat) és elutasítja, ha
 
-a) a támogatási igény elfogadásáról, a támogatás összegéről, a finanszírozás módjáról (előfinanszírozás, utófinanszírozás, visszatérítendő vagy nem visszatérítendő költségvetési támogatás), a támogatási feltételekről;
+a) az hiányosan vagy nem az internetes támogatáskezelő rendszer útján vagy határidőn túl került benyújtásra,
 
-b) a támogatási igény (rendelkezésre álló forrás korlátossága miatti) feltételes elfogadásáról, a várólistán betöltött sorrendről, a támogatás összegéről, a támogatási feltételekről;
+b) a támogatási igény és a mellékletként benyújtott dokumentumok adatai közötti ellentmondás van,
 
-c) a támogatási igény elutasításáról, amelyet részletes indokolással lát el.
+c) a támogatást igénylő szervezetet a támogatási igény benyújtásának évében vette nyilvántartásba a bíróság,
 
-(3)–(4)[^12]
+d) a támogatási igényt benyújtó személy nem jogosult a támogatást igénylő szervezet képviseletére,
 
-(5)[^13] Ha a döntéshozó a támogatási igénynél alacsonyabb összegű támogatásról dönt, akkor a költségvetési soronként meghatározott költségcsökkentést az Alapkezelő saját hatáskörben végrehajtja. Ha a döntéshozó által meghatározott költségcsökkentések levonásával módosított költségvetésben szereplő teljes támogatási összegnél alacsonyabb támogatási összeget határoz meg a döntéshozó, akkor az Alapkezelő minden költségvetési soron (önrész és támogatás tekintetében egyaránt) arányos csökkentést hajt végre.
+e) a támogatást igénylő szervezet a Civil tv. alapján nem jogosult az Alap támogatására,
 
-(6)[^14] A kedvezményezett – az (5) bekezdésben meghatározott döntés esetén – a támogatási cél sérelme nélkül módosíthatja a benyújtott támogatási igény költségvetését. Ennek során a 7. melléklet szerinti költségvetési terv főösszegének meg kell egyeznie a támogatási döntésben meghatározott összeggel.
+f) együttesen benyújtott támogatási igénynél, ha a társpályázó határon túli civil szervezet az adott költségvetési évben korábban benyújtott támogatási igényben is társpályázóként szerepel,
 
-(7)[^15] A finanszírozás módjára vonatkozó támogatási döntés a támogatást igénylő szervezet 3. § (1) bekezdés e) pontja szerinti kérelme hiányában utófinanszírozás. Utófinanszírozás esetén a támogatási időszak legkésőbbi záró dátuma a támogatási igény finanszírozását szolgáló költségvetési évet követő év március 31. napja.
+g) az újabb támogatási igény, ha a támogatási igény benyújtója adott költségvetési év forrása vonatkozásában már rendelkezik érvényes pályázattal és az újabb támogatási igényt a korábbitól eltérő kollégiumhoz nyújtotta be,
 
-[^10]: A 4. § (1) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^11]: A 4. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^12]: A 4. § (3)–(4) bekezdését az 56/2012. (XII. 29.) EMMI rendelet 28. §-a hatályon kívül helyezte.
-[^13]: A 4. § (5) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^14]: A 4. § (6) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^15]: A 4. § (7) bekezdését az 56/2012. (XII. 29.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+h) a támogatást igénylő szervezet a támogatási igény forrását jelentő költségvetési évet megelőző három költségvetési év mindegyikének terhére részesült támogatásban az Alapból.
+
+(3) A pályázati kiírás szerinti benyújtási határidő lejártát követő húsz napon belül az Alapkezelő a formai vizsgálat eredményéről az internetes támogatáskezelő rendszeren keresztül értesíti a támogatást igénylő szervezetet. Az internetes támogatáskezelő rendszeren keresztül történő értesítés esetében a kézhezvétel alatt az elektronikus üzenet megnyitását kell érteni.
+
+(4) Az Alapkezelő a pályázat benyújtási határidejének lejártát követő munkanapon a kollégium részére megküldi a pályázatok döntéshez szükséges adatait – szervezet neve, adószáma, pályázati azonosító, támogatási cél, igényelt összeg, jogosultként igényelt normatív kiegészítés összege, szervezet típusa (egyesület, alapítvány, szövetség), igényelt támogatás formája (visszatérítendő vagy vissza nem térítendő; előfinanszírozás, utófinanszírozás), együttesen benyújtott pályázat esetén a társpályázó adatai (név, ország, székhely címe, adószám, képviselő neve), önrész összege – tartalmazó listát.
+
+(5) A kollégium a (3) bekezdés szerinti adatok kézhezvételétől számított harminc napon belül a pályázat elbírálása keretében dönt:
+
+a) a támogatási igény elfogadásáról: a támogatási igény szakmai tartalma alapján a támogatási igényhez pontszámot és javasolt támogatási összeget rendel, továbbá szükség szerint korlátozza az egyes költségvetési sorokon történő felhasználást;
+
+b) a szakmailag nem megfelelő támogatási igény elutasításáról, amelyet részletes indokolással és a támogatási igény szakmai tartalma alapján a támogatási igényhez rendelt pontszámmal lát el.
+
+(6) Az (5) bekezdés szerinti döntéstől számított öt napon belül
+
+a) az Alapkezelő a döntéseket tartalmazó hiteles dokumentumokat elkészíti és gondoskodik azok ügyrend szerinti aláírásokkal történő ellátásáról;
+
+b) az a) pont szerinti dokumentumban foglalt egyes döntésekkel kapcsolatban az érintett, érvényes támogatási igényt benyújtott szervezetet az Alapkezelő az internetes támogatáskezelő rendszeren keresztül értesíti a vonatkozó döntés megtörténtéről a döntéshozatal további lépéseivel kapcsolatos tájékoztató megküldésével.
+
+(7) A pályázat elbírálását követő tíz napon belül az (5) bekezdés szerinti döntéseket tartalmazó dokumentumot az Alapkezelő átadja a Tanács elnökének és egyidejűleg a Civil tv. 61. § (7) bekezdése szerinti nyilatkozattételre hívja fel.
+
+(8) A Tanács elnöke a Civil tv. 61. § (7) bekezdés szerinti eljárásban a (7) bekezdés szerinti felhívástól számított öt napon belül jogosult nyilatkozattételre. A nyilatkozattétel keretében a Tanács elnöke a Tanács elé terjeszti a végleges elbírálásra vonatkozó javaslatát a (5) bekezdés a) és b) pontja szerinti tartalommal.
+
+(9) Ha a Tanács elnöke a kollégium valamely döntésével nem ért egyet – vagy a nyilatkozattételre nyitva álló határidőt elmulasztja, illetve határidőben egyetértő nyilatkozatot tesz – az Alapkezelő erről
+
+a) az érintett kollégium elnökét, és
+
+b) a Tanács tagjait
+
+haladéktalanul tájékoztatja.
+
+(10) A Tanács a Civil tv. 61. § (7) bekezdése szerint, a pályázat végleges elbírálása keretében a Tanács elnöke nyilatkozatának kézhezvételétől számított tizenöt napon belül dönt a (8) bekezdés szerinti előterjesztésről.
+
+(11) A döntéstől számított öt napon belül az Alapkezelő gondoskodik Tanács (10) bekezdés szerinti döntéseit tartalmazó hiteles dokumentum elkészítéséről és az ügyrend szerinti aláírásokkal történő ellátásáról.
+
+(12) Alapkezelő a (8)–(11) bekezdés szerinti eljárás lezárását követő öt napon belül – az érvénytelenné nyilvánított pályázatok figyelmen kívül hagyásával – az Ávr. 68. § (4) bekezdése alapján pontszám – pontegyenlőség esetén érkezési sorrend – alapú döntési listát készít.
+
+(13) Alapkezelő a (12) bekezdés szerinti döntési lista elkészítésével egy időben megállapítja a várólistát és elkészíti az elutasított támogatási igények listáját tartalmazó dokumentumot.
+
+(14) Alapkezelő az internetes támogatáskezelő rendszeren keresztül a jogszabályokban meghatározott dokumentumok rendelkezésre állását követően haladéktalanul tájékoztatja a támogatási igény benyújtóját a támogatási döntésről, továbbá
+
+a) a döntési lista rendelkezésre állását követő öt napon belül kiadja a támogatói okiratot vagy a támogatási szerződés megkötése érdekében a támogatási szerződés tervezetének megküldésével egy időben – szükség szerint – felhívja a támogatást igénylő civil szervezetet a szerződéskötéshez szükséges dokumentumok megküldésére;
+
+b) a várólista megállapítását követő öt napon belül a várólistán betöltött helyezésről és a támogatás igénybevételének lehetőségéről;
+
+c) az elutasított támogatási igények listáját tartalmazó dokumentum elkészítését követő öt napon belül az elutasítás indokáról.
+
+(15) Az Alapkezelő folyamatosan nyomon követi és haladéktalanul értesíti azokat a várólistán szereplő támogatást igénylő szervezeteket, akiknek az Ávr. 74. § (1) bekezdése alapján lehetőségük nyílik a támogatás igénybevételére.
+
+(16) Ha a döntéshozó a támogatási igénynél alacsonyabb összegű támogatásról dönt, akkor a költségvetési soronként meghatározott költségcsökkentést az Alapkezelő saját hatáskörben végrehajtja. Ha a döntéshozó által meghatározott költségcsökkentések levonásával módosított költségvetésben szereplő teljes támogatási összegnél alacsonyabb támogatási összeget határoz meg a döntéshozó, akkor az Alapkezelő minden költségvetési soron (önrész és támogatás tekintetében egyaránt) arányos csökkentést hajt végre.
+
+(17) A kedvezményezett – a (16) bekezdésben meghatározott döntés esetén – a támogatási cél sérelme nélkül módosíthatja a benyújtott támogatási igény költségvetését. Ennek során a 7. melléklet szerinti költségvetési terv főösszegének meg kell egyeznie a támogatási döntésben meghatározott összeggel.
+
+(18) A finanszírozás módja a támogatást igénylő szervezet 3. § (1) bekezdés e) pontja szerinti kérelme hiányában utófinanszírozás. Utófinanszírozás esetén a támogatási időszak legkésőbbi záró dátuma a támogatási igény finanszírozását szolgáló költségvetési évet követő év március 31. napja.

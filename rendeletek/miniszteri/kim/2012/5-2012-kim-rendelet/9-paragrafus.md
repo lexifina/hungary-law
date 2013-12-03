@@ -1,21 +1,21 @@
-9. § (1) Az Alapkezelőnek kockázatelemzés alapján kell gondoskodnia az erre kiválasztott támogatott szervezetek által megvalósított projektek helyszíni ellenőrzéséről.
+## 8. Az Alap támogatásaiból történő kizárás és a támogatási eljárás felülvizsgálata
 
-(2) Az (1) bekezdés szerinti kockázatelemzés szempontjait úgy kell meghatározni, hogy:
+9. § (1) A kedvezményezett az Alap támogatásaiból kizárásra kerül, ha
 
-a) adott költségvetési évben a helyszínen ellenőrzött szervezetek száma ne haladja meg az összes támogatott szervezet öt százalékát;
+a) a támogatási szerződés felmondására vagy az attól való elállásra, a támogatói okirat esetén a támogatás visszavonására az Ávr. 82. § b) vagy e) pontja alapján került sor,
 
-b) a kiválasztásnak biztosítania kell, hogy az Alap terhére tízmillió forint összegű támogatást meghaladó összegű támogatást igénybe vevő szervezetek mindegyike helyszíni ellenőrzési körbe essen;
+b) a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény (a továbbiakban: Knytv.) megsértése miatt pályázatát jogerősen kizárták, vagy
 
-c) a helyszíni ellenőrzések legalább húsz százaléka az ellenőrzött szervezetnél támogatási időszakba essen.
+c) jogszabály alapján a támogatás igénybevétele az a) és b) pontban foglaltakon kívül jogosulatlannak minősül.
 
-(3) A helyszíni ellenőrzés során ellenőrizni kell, hogy
+(2) Az Alapból történő kizárás
 
-a) az elszámolást alátámasztó bizonylatok eredeti példánya a kedvezményezettnél rendelkezésre áll,
+a) az (1) bekezdés a) és b) pontjában meghatározott esetben a jogosulatlanul igénybe vett támogatás és kamatai visszafizetésétől számított második év utolsó napjáig,
 
-b) az elszámolás az azokat megalapozó nyilatkozatokkal és bizonylatokkal összhangban áll,
+b) az (1) bekezdés c) pontjában meghatározott esetben a kizárási feltétel fennállását megállapító döntés napjával kezdődően, a jogosulatlanul igénybe vett támogatás és kamatai visszafizetéséig
 
-c)[^32] a támogatás kerete terhére beszerzett eszközök rendelkezésre állnak, és felhasználásuk, használatuk a pályázati kiírásnak megfelelően történik.
+áll fenn.
 
-(4) Az ellenőrzést dokumentálni kell, rögzítve az elvégzett munkát és az ellenőrzés eredményét, továbbá az ellenőrzés alapján szükséges intézkedéseket.
+(3) Ha a döntéshozó az Alapból történő kizárás feltételeinek fennállását megállapítja, részletes indokolással ellátott javaslata alapján a kizárásról az Alapkezelő hoz döntést. E döntés ellen az Ávr. 90. §-a szerinti kifogás nyújtható be. A kifogás benyújtása annak elbírálása eredményéig a 18. § (4) bekezdés c) pontja szerinti nyilvános adatok hivatalos honlapon történő közzététele tekintetében halasztó hatályú.
 
-[^32]: A 9. § (3) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 24. § (8) bekezdése szerint módosított szöveg.
+(4) Alapkezelő a kizárt szervezet kérelmére a követelés tizenkét hónapra, havi egyenlő részletekben történő visszafizetést engedélyezheti.

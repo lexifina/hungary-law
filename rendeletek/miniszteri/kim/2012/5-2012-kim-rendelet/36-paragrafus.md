@@ -1,7 +1,5 @@
 ## 35. § Ez a rendelet a kihirdetésének napján 21.00 órakor lép hatályba.
 
-## 25. Hatályon kívül helyező rendelkezések
+## 25. [^39] Az Európai Unió állami támogatásokra vonatkozó szabályaival való összhang
 
-36. §[^68]
-
-[^68]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 25. alcím címe a 74/2013. (XII. 2.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
