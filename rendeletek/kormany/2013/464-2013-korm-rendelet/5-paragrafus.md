@@ -1,0 +1,3 @@
+## 4. § Az integrált kormányzati ügyfélszolgálatok (kormányablakok) létrehozását és az azokhoz kapcsolódó munkaügyi kirendeltségek fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 132/2013. (V. 9.) Korm. rendelet (a továbbiakban: R2.) a következő 5. §-sal egészül ki:
+
+## „5. § E rendeletnek az egyes kiemelt jelentőségű beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 464/2013. (XII. 4.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. mellékletét a Módr. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
