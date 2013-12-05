@@ -42,6 +42,6 @@
 
 | 5.2. |  | tudományos kutató |
 
-3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^90]
+3. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^93]
 
-[^90]: A 3. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
+[^93]: A 3. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.

@@ -1,10 +1,10 @@
-## 19. §[^63]
+## 19. §[^66]
 
 ## A magasabb vezető, valamint a vezető beosztások körét és a vezetői pótlék minimális mértékét a 3. melléklet tartalmazza.
 
-## [A Kjt. 75. §-ához][^64]
+## [A Kjt. 75. §-ához][^67]
 
-## 20. §[^65]
+## 20. §[^68]
 
 (1) A 8. § (1) bekezdésében meghatározott „címzetes főigazgató”, illetve „címzetes igazgató” címet viselő személy pótlékra jogosult. A pótlék mértéke „címzetes főigazgató” cím esetén a Kjt. szerinti pótlékalap 100%-a, „címzetes igazgató” esetén a Kjt. szerinti pótlékalap 50%-a.
 
@@ -18,6 +18,6 @@
 
 (6) Pótlék állapítható meg annak a közalkalmazottnak, aki munkaköri feladatainak ellátása mellett egyetemi vagy főiskolai hallgatók, szakközépiskolások, szakmunkástanulók vagy szakmai gyakorlatot végzők betanításával, gyakorlatának vezetésével foglalkozik. A pótlék mértéke a Kjt. szerinti pótlékalap 15%–35%-a lehet.
 
-[^63]: A 19. § a 150/2010. (IV. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^64]: A 20. §-t megelőző jogszabályi hivatkozás a 3/2009. (I. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^65]: A 20. § a 3/2009. (I. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^66]: A 19. § a 150/2010. (IV. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^67]: A 20. §-t megelőző jogszabályi hivatkozás a 3/2009. (I. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^68]: A 20. § a 3/2009. (I. 10.) Korm. rendelet 7. §-ával megállapított szöveg.

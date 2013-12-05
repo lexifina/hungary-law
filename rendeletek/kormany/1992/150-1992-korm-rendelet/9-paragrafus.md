@@ -1,6 +1,6 @@
-## [A Kjt. 40. § (5) bekezdéséhez][^47]
+## [A Kjt. 40. § (5) bekezdéséhez][^50]
 
-## 9. §[^48]
+## 9. §[^51]
 
 (1) A Kjt. 1. számú melléklete 3.6 pontja tekintetében a kulturális intézményben létesíthető munkakörökhöz kapcsolódó további szempont:
 
@@ -14,5 +14,5 @@ A teljesítmény-követelményeknek való megfelelés
 
 Kiemelkedő – megfelelő – kevéssé megfelelő – nem megfelelő.
 
-[^47]: A 9. §-t megelőző jogszabályi hivatkozás a 3/2009. (I. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^48]: A 9. § a 3/2009. (I. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^50]: A 9. §-t megelőző jogszabályi hivatkozás a 3/2009. (I. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^51]: A 9. § a 3/2009. (I. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
