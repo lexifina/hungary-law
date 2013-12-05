@@ -10,7 +10,9 @@ c) a Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ
 
 d) a Rubik kocka motívuma és gondolatisága által ihletett kiállítási központ létrehozása;
 
-e) további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+e)[^2] az új budapesti konferencia-központ;
+
+f)[^3] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
 
 3. A kormánybiztos a 2. pont szerinti beruházásokhoz kapcsolódó feladatkörében ellátja:
 
@@ -40,6 +42,8 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 7. Ez a határozat 2013. október 20-án lép hatályba.
 
-8.[^1]
+8.[^4]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont e) alpontja az 1897/2013. (XII. 4.) Korm. rendelet 1. pontjával megállapított szöveg.
+[^3]: A 2. pont f) alpontját az 1897/2013. (XII. 4.) Korm. rendelet 1. pontja iktatta be.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
