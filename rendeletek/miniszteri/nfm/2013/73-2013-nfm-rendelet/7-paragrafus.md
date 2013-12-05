@@ -1,0 +1,1 @@
+## 6. § Az elektronikus űrlap mellékletei elektronikus úton – ide nem értve a telefaxot – történő beküldése érdekében a hatóság az általa elfogadott dokumentum formátumokat az elektronikus tájékoztatás szabályai szerint teszi közzé.
