@@ -1,5 +1,5 @@
-17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^91]
+17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^97]
 
 M006287.pdf
 
-[^91]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta a szövegbe.
+[^97]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta a szövegbe.

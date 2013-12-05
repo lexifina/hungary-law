@@ -1,6 +1,6 @@
 ## Záróvizsgálat
 
-## 8. §[^38] A munkáltató kezdeményezésére záróvizsgálatot kell végezni
+## 8. §[^39] A munkáltató kezdeményezésére záróvizsgálatot kell végezni
 
 a) a külön jogszabályban szereplő emberi rákkeltő hatású anyagok tízéves, benzol, illetve ionizáló sugárzás négyéves expozícióját követően a tevékenység, illetve a munkaviszony megszűnésekor;
 
@@ -8,4 +8,4 @@ b) idült foglalkozási betegség veszélyével járó munkavégzés, illetve mu
 
 c) külföldi munkavégzés esetén a munkavállaló végleges hazatérését követően.
 
-[^38]: A 8. § a 41/2012. (XII. 20.) NGM rendelet 6. §-ával megállapított szöveg.
+[^39]: A 8. § a 41/2012. (XII. 20.) NGM rendelet 6. §-ával megállapított szöveg.

@@ -24,7 +24,7 @@ j) biológiai monitorozás: biológiai anyagból (vér, vizelet) a munkakörnyez
 
 k)[^2] munkaügyi központ: a fővárosi és megyei kormányhivatal munkaügyi feladatokat ellátó szakigazgatási szerve;
 
-l)[^3] foglalkoztathatóság szakvéleményezése: annak megállapítása, hogy az álláskereső vizsgált személy megváltozott munkaképessége mennyiben befolyásolja a munkavégzést különböző foglalkozásokban, vagy annak megállapítása, hogy az egyszerűsített foglalkoztatás körébe tartozó idénymunka és alkalmi munka, továbbá a közfoglalkoztatás esetében a munkavállaló mely foglalkoztatási korlátozás mellett folytathat tevékenységet;
+l)[^3] foglalkoztathatóság szakvéleményezése: annak megállapítása, hogy az álláskereső vizsgált személy megváltozott munkaképessége mennyiben befolyásolja a munkavégzést különböző foglalkozásokban, vagy annak megállapítása, hogy az egyszerűsített foglalkoztatás körébe tartozó idénymunka és alkalmi munka, továbbá a közfoglalkoztatás esetében a munkavállaló, a szabálysértési eljárás során alkalmazott közérdekű munka esetében az elkövető, a büntető ügyben kiszabott közérdekű munka esetében az elítélt mely foglalkoztatási korlátozás, illetve kizárás mellett folytathat tevékenységet;
 
 m)[^4] munkaviszony: a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó munkavégzésre irányuló jogviszony;
 
@@ -38,7 +38,7 @@ q)[^6] munkaügyi kirendeltség: a fővárosi és megyei kormányhivatal járás
 
 [^1]: Az 1. § e) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. § k) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
-[^3]: Az 1. § l) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
+[^3]: Az 1. § l) pontja az 55/2013. (XII. 4.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § m) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
 [^5]: Az 1. § n)-q) pontját a 27/2000. (IX. 30.) EüM rendelet 1. §-a iktatta a szövegbe.
 [^6]: Az 1. § q) pontot a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte, újonnan a 41/2012. (XII. 20.) NGM rendelet 3. §-a iktatta be.
