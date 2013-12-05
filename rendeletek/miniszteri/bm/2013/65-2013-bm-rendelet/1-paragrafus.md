@@ -1,0 +1,3 @@
+1. § (1) Az e rendelet hatálybalépését követő 8 napon belül a Bács-Kiskun Megyei Építész Kamara titkára a Csongrád Megyei Építész Kamara titkárának jegyzőkönyvben rögzítve átadja az e rendelet hatálybalépésekor folyamatban lévő, a Csongrád Megyei Építész Kamara és a Békés Megyei Építész Kamara közigazgatási feladatainak ellátására eljáró szervek kijelöléséről szóló 77/2012. (XII. 21.) BM rendelet (a továbbiakban: BM rendelet) 1. §-a szerinti ügyek iratait, az iratok kezelésére vonatkozó jogszabályoknak megfelelő bontásban.
+
+(2) Az e rendelet hatálybalépését követő 60 napon belül a Csongrád Megyei Építész Kamara dönt a Bács-Kiskun Megyei Építész Kamara titkára által ideiglenes névjegyzékbe vett személyek kamarai tagságáról.

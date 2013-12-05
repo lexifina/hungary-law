@@ -1,0 +1,1 @@
+A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 54. §-ában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 37. § u) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
