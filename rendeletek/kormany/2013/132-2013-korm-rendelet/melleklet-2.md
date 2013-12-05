@@ -6,7 +6,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Battonya, Békés, Békéscsaba, Dévaványa, Elek, Füzesgyarmat, Gyomaendrőd, Gyula, Mezőberény, Mezőhegyes, Mezőkovácsháza, Orosháza, Sarkad, Szarvas, Szeghalom, Tótkomlós, Vésztő | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Debreceni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Battonya, Békés, Békéscsaba, Dévaványa, Elek, Füzesgyarmat, Gyomaendrőd, Gyula, Mezőberény, Mezőhegyes, Mezőkovácsháza, Orosháza, Sarkad, Szarvas, Szeghalom, Tótkomlós, Vésztő | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Debreceni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Debreceni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -30,7 +30,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bóly, Harkány, Komló, Mohács, Pécs, Pécsvárad, Sásd, Sellye, Siklós, Szentlőrinc, Szigetvár, Villány | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szekszárdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bóly, Harkány, Komló, Mohács, Pécs, Pécsvárad, Sásd, Sellye, Siklós, Szentlőrinc, Szigetvár, Villány | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szekszárdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Szekszárdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Tolna Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -54,7 +54,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bácsalmás, Baja, Dunavecse, Izsák, Jánoshalma, Kalocsa, Kecel, Kecskemét, Kerekegyháza, Kiskőrös, Kiskunfélegyháza, Kiskunhalas, Kiskunmajsa, Kunszentmiklós, Lajosmizse, Solt, Soltvadkert, Szabadszállás, Tiszakécske, Tompa | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szegedi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bácsalmás, Baja, Dunavecse, Izsák, Jánoshalma, Kalocsa, Kecel, Kecskemét, Kerekegyháza, Kiskőrös, Kiskunfélegyháza, Kiskunhalas, Kiskunmajsa, Kunszentmiklós, Lajosmizse, Solt, Soltvadkert, Szabadszállás, Tiszakécske, Tompa | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szegedi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Szegedi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Csongrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -78,7 +78,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Abaújszántó, Borsodnádasd, Cigánd, Edelény, Emőd, Encs, Felsőzsolca, Gönc, Kazincbarcika, Krasznokvajda, Mezőcsát, Mezőkövesd, Miskolc, Ózd, Putnok, Sajószentpéter, Sárospatak, Sátoraljaújhely, Szendrő, Szerencs, Szikszó, Tiszaújváros, Tokaj | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Egri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Abaújszántó, Borsodnádasd, Cigánd, Edelény, Emőd, Encs, Felsőzsolca, Gönc, Kazincbarcika, Krasznokvajda, Mezőcsát, Mezőkövesd, Miskolc, Ózd, Putnok, Sajószentpéter, Sárospatak, Sátoraljaújhely, Szendrő, Szerencs, Szikszó, Tiszaújváros, Tokaj | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Egri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Egri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Heves Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -102,7 +102,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Csongrád, Hódmezővásárhely, Kistelek, Makó, Mindszent, Mórahalom, Sándorfalva, Szeged, Szentes, Üllés | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Békéscsabai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Békés Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Csongrád, Hódmezővásárhely, Kistelek, Makó, Mindszent, Mórahalom, Sándorfalva, Szeged, Szentes, Üllés | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Békéscsabai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Békés Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Békéscsabai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Békés Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -126,7 +126,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Aba, Adony, Bicske, Dunaújváros, Enying, Ercsi, Gárdony, Martonvásár, Mór, Polgárdi, Sárbogárd, Székesfehérvár | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Tatabányai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Aba, Adony, Bicske, Dunaújváros, Enying, Ercsi, Gárdony, Martonvásár, Mór, Polgárdi, Sárbogárd, Székesfehérvár | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Tatabányai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Tatabányai Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Komárom-Esztergom Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -150,7 +150,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Csorna, Fertőd, Győr, Jánossomorja, Kapuvár, Mosonmagyaróvár, Pannonhalma, Sopron, Tét | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szombathelyi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Vas Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Csorna, Fertőd, Győr, Jánossomorja, Kapuvár, Mosonmagyaróvár, Pannonhalma, Sopron, Tét | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szombathelyi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Vas Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Szombathelyi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Vas Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -174,7 +174,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Balmazújváros, Berettyóújfalu, Biharkeresztes, Debrecen, Derecske, Hajdúböszörmény, Hajdúdorog, Hajdúhadház, Hajdúnánás, Hajdúszoboszló, Komádi, Létavértes, Nádudvar, Nyíradony, Polgár, Püspökladány, Téglás, Tiszacsege, Vámospércs | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Nyíregyházi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Balmazújváros, Berettyóújfalu, Biharkeresztes, Debrecen, Derecske, Hajdúböszörmény, Hajdúdorog, Hajdúhadház, Hajdúnánás, Hajdúszoboszló, Komádi, Létavértes, Nádudvar, Nyíradony, Polgár, Püspökladány, Téglás, Tiszacsege, Vámospércs | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Nyíregyházi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Nyíregyházi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -198,7 +198,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bélapátfalva, Eger, Füzesabony, Gyöngyös, Hatvan, Heves, Lőrinci, Pétervására | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Salgótarjáni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Nógrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bélapátfalva, Eger, Füzesabony, Gyöngyös, Hatvan, Heves, Lőrinci, Pétervására | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Salgótarjáni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Nógrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Salgótarjáni Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Nógrád Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -222,7 +222,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Jászapáti, Jászárokszállás, Jászberény, Jászfényszaru, Karcag, Kisújszállás, Kunhegyes, Kunszentmárton, Martfű, Mezőtúr, Szolnok, Tiszaföldvár, Tiszafüred, Törökszentmiklós, Túrkeve, Újszász | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Kecskeméti Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Jászapáti, Jászárokszállás, Jászberény, Jászfényszaru, Karcag, Kisújszállás, Kunhegyes, Kunszentmárton, Martfű, Mezőtúr, Szolnok, Tiszaföldvár, Tiszafüred, Törökszentmiklós, Túrkeve, Újszász | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Kecskeméti Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Kecskeméti Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Bács-Kiskun Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -246,7 +246,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bábolna, Dorog, Esztergom, Kisbér, Komárom, Nyergesújfalu, Oroszlány, Tata, Tatabánya | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Veszprémi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Veszprém Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bábolna, Dorog, Esztergom, Kisbér, Komárom, Nyergesújfalu, Oroszlány, Tata, Tatabánya | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Veszprémi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Veszprém Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Veszprémi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Veszprém Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -270,7 +270,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Balassagyarmat, Bátonyterenye, Pásztó, Rétság, Salgótarján, Szécsény | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szolnoki Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Balassagyarmat, Bátonyterenye, Pásztó, Rétság, Salgótarján, Szécsény | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Szolnoki Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Szolnoki Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Jász-Nagykun-Szolnok Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -294,7 +294,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Budakeszi, Budaörs, Dunaharaszti, Dunakeszi, Érd, Göd, Gyál, Pilisvörösvár, Pomáz, Ráckeve, Százhalombatta, Szentendre, Szigetszentmiklós, Szob, Tahitótfalu, Tárnok, Tököl, Vác, Visegrád | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Budakeszi, Budaörs, Dunaharaszti, Dunakeszi, Érd, Göd, Gyál, Pilisvörösvár, Pomáz, Ráckeve, Százhalombatta, Szentendre, Szigetszentmiklós, Szob, Tahitótfalu, Tárnok, Tököl, Vác, Visegrád | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala I. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -318,7 +318,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Abony, Aszód, Cegléd, Dabas, Gödöllő, Gyömrő, Monor, Nagykáta, Nagykőrös, Nagymaros, Ócsa, Pécel, Tura, Vecsés, Veresegyház | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Abony, Aszód, Cegléd, Dabas, Gödöllő, Gyömrő, Monor, Nagykáta, Nagykőrös, Nagymaros, Ócsa, Pécel, Tura, Vecsés, Veresegyház | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -342,7 +342,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Balatonboglár, Balatonföldvár, Balatonlelle, Barcs, Csurgó, Fonyód, Kaposvár, Lengyeltóti, Marcali, Nagyatád, Nagybajom, Siófok, Tab | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Balatonboglár, Balatonföldvár, Balatonlelle, Barcs, Csurgó, Fonyód, Kaposvár, Lengyeltóti, Marcali, Nagyatád, Nagybajom, Siófok, Tab | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Pécsi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Baranya Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -366,7 +366,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Baktalórántháza, Balkány, Csenger, Demecser, Dombrád, Fehérgyarmat, Ibrány, Kemecse, Kisvárda, Máriapócs, Mátészalka, Nagyecsed, Nagyhalász, Nagykálló, Nyírbátor, Nyíregyháza, Nyírlugos, Rakamaz, Tiszalök, Tiszavasvári, Újfehértó, Vásárosnamény, Záhony | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Miskolci Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Baktalórántháza, Balkány, Csenger, Demecser, Dombrád, Fehérgyarmat, Ibrány, Kemecse, Kisvárda, Máriapócs, Mátészalka, Nagyecsed, Nagyhalász, Nagykálló, Nyírbátor, Nyíregyháza, Nyírlugos, Rakamaz, Tiszalök, Tiszavasvári, Újfehértó, Vásárosnamény, Záhony | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Miskolci Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Miskolci Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -390,7 +390,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bátaszék, Bonyhád, Dombóvár, Dunaföldvár, Paks, Simontornya, Szekszárd, Tamási, Tolna | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Bátaszék, Bonyhád, Dombóvár, Dunaföldvár, Paks, Simontornya, Szekszárd, Tamási, Tolna | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -414,7 +414,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Celldömölk, Csepreg, Körmend, Kőszeg, Őriszentpéter, Répcelak, Sárvár, Szentgotthárd, Szombathely, Vasvár | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Zalaegerszegi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Zala Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Celldömölk, Csepreg, Körmend, Kőszeg, Őriszentpéter, Répcelak, Sárvár, Szentgotthárd, Szombathely, Vasvár | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Zalaegerszegi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Zala Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Zalaegerszegi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Zala Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -438,7 +438,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Ajka, Balatonalmádi, Balatonfüred, Balatonfűzfő, Berhida, Devecser, Herend, Pápa, Sümeg, Tapolca, Várpalota, Veszprém, Zirc | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Ajka, Balatonalmádi, Balatonfüred, Balatonfűzfő, Berhida, Devecser, Herend, Pápa, Sümeg, Tapolca, Várpalota, Veszprém, Zirc | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -462,7 +462,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett település | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Hévíz, Keszthely, Lenti, Letenye, Nagykanizsa, Pacsa, Zalaegerszeg, Zalakaros, Zalalövő, Zalaszentgrót | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Kaposvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | Hévíz, Keszthely, Lenti, Letenye, Nagykanizsa, Pacsa, Zalaegerszeg, Zalakaros, Zalalövő, Zalaszentgrót | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Kaposvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Kaposvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -486,7 +486,7 @@
 
 | 1. | Beruházás megnevezése | Beruházással érintett fővárosi kerület | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | I. kerület, II. kerület, III. kerület, IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XI. kerület, XII. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület, XX. kerület, XXI. kerület, XXII. kerület, XXIII. kerület | Általános építésügyi hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Integrált Ügyfélszolgálatok Kialakítása Projekt és kapcsolódó munkaügyi kirendeltségek felújítása | I. kerület, II. kerület, III. kerület, IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XI. kerület, XII. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület, XX. kerület, XXI. kerület, XXII. kerület, XXIII. kerület | Általános építésügyi hatósági és építésfelügyeleti hatósági eljárások, beleértve a műemlékvédelem alatt álló építményeket is | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | Örökségvédelmi hatósági engedélyezési eljárások | Érdi Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Pest Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén a régészeti örökség és műemléki érték védelméért felelős miniszter |
 
