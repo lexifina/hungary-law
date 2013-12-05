@@ -1,1 +1,3 @@
-## jegyzőkönyvben rögzítve átadja az e rendelet hatálybalépésekor folyamatban lévő, 1. § szerinti ügyek iratait, az iratok kezelésére vonatkozó jogszabályoknak megfelelő bontásban.
+## 2. §[^3]
+
+[^3]: A 2. §-t a 65/2013. (XII. 4.) BM rendelet 4. § b) pontja hatályon kívül helyezte.
