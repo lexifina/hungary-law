@@ -1,0 +1,296 @@
+# Az Alkotmánybíróság 37/2013. (XII. 5.) AB határozata
+
+Magyar Közlöny 2013. évi 202. szám, 2013. december 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2dfbc841d72688b651f9469b72880ccf65cf030d/dokumentumok/0140b5a5e3fc37e6a4d1128cb097829b5ed79f64/letoltes)
+
+---
+
+Az Alkotmánybíróság 37/2013. (XII. 5.) AB határozata
+a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény egyes
+rendelkezései alaptörvény-ellenességének megállapítására irányuló bírói indítvány elutasításáról
+Az Alkotmánybíróság teljes ülése folyamatban lévő ügyben alkalmazandó jogszabály alaptörvény-ellenességének
+megállapítására irányuló bírói kezdeményezés tárgyában meghozta a következő
+h a t á r o z a t o t:
+1. Az Alkotmánybíróság a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi
+V. törvény 131/A. § (6) bekezdése alaptörvény-ellenességének megállapítására és megsemmisítésére, valamint
+alkalmazási tilalom kimondására irányuló bírói kezdeményezést elutasítja.
+2. Az Alkotmánybíróság a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi
+V. törvény 131/A. § (1) bekezdés c) pontja alaptörvény-ellenességének megállapítására és megsemmisítésére
+irányuló indítványt visszautasítja.
+Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzéteszi.
+
+I n d o k o l á s
+I.
+[1] A Fővárosi Törvényszék Cégbíróságának bírája (a továbbiakban: indítványozó) az előtte folyamatban lévő
+Cgt.01-12-018001. számú ügyben az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban:
+Abtv.) 25. §-a alapján az eljárást Cgt.01-12-018001/2. számú végzésével felfüggesztette, és kezdeményezte
+a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.)
+131/A. § alaptörvény-ellenességének megállapítását és megsemmisítését, továbbá kérte annak megállapítását,
+hogy ezen rendelkezések általánosan (valamint a felfüggesztett egyedi ügyben) nem alkalmazhatók.
+[2] Az indítványból és a Fővárosi Törvényszék Cégbíróságának ahhoz csatolt Cgt.01-11-021970/5. számú – az eljárás
+közvetlen előzményéül szolgáló – végzéséből az alábbi tényállás állapítható meg.
+[3] A Nemzeti Adó- és Vámhivatal Észak-budapesti Adóigazgatósága törvényességi felügyeleti eljárás megindítását
+kérte a Fővárosi Törvényszék Cégbíróságától egy gazdasági társasággal szemben, mert az a bejegyzett székhelyén
+nem volt megtalálható. A törvényességi felügyeleti eljárás lefolytatása után a Fővárosi Törvényszék Cégbírósága
+2012. február 9-én meghozott – és 2012. április 19. napján jogerőre emelkedett – Cgt.01-11-021970/5. számú
+végzésében a gazdasági társaságot – a törvényességi felügyeleti eljárás megindításakor hatályban volt – Ctv.
+81. § (6) bekezdése alapján eltiltotta a további működéstől, egyben megszűntnek nyilvánította és a Ctv. 116. §
+(1) bekezdése alapján elrendelte a kényszer-végelszámolását. A végzés rendelkezett a kényszer-végelszámoló
+kirendeléséről, továbbá felhívta a kirendelt végelszámolót arra, hogy a kényszer-végelszámolást a Ctv.
+VIII. fejezetében előírtak szerint folytassa le. Rendelkezett a végzés továbbá arról is, hogy a végelszámoló díját
+a végelszámoló kérelmére a legfőbb szerv állapítja meg, amennyiben a legfőbb szerv határozatát nem hozza
+meg, úgy a végelszámoló díjáról a Cégbíróság dönt. A kényszertörlési eljárás 2012. március elsejétől, mint
+új jogintézmény lépett hatályba, mely a kényszer-végelszámolási eljárást hivatott felváltani. A jogszabályi
+változások következtében a kirendelt végelszámoló kérte a Cégbíróságot, hogy a Ctv. 131/A. §-a alapján rendelje
+el a gazdasági társaság kényszertörlési eljárását, és kötelezze a gazdaság társaság volt vezető tisztségviselőjét
+100 000 forint végelszámolói díj megfizetésére, mivel a társaság vagyona sem a hitelezői igények kielégítésére, sem
+a költségek fedezésére nem elegendő. A kényszertörlési eljárás megindítása során, 2012. december 11-én fordult
+az indítványozó bíró az Alkotmánybírósághoz.
+[4] Az indítványozó szerint a jelen ügyhöz hasonló eljárások – mely kapcsán indítványában kiemelte, hogy több
+ezer ügyről van szó – megindulásakor hatályban volt jogszabály alapján elrendelt kényszer-végelszámolások
+megszüntetése, és helyettük a kényszertörlési eljárások megindítása során számos aggály merült fel a Ctv.
+131/A. §-át illetően.
+[5] Az indítványozó bíró kifejtette, hogy az Alaptörvény B) cikk (1) bekezdésben deklarált jogállamhoz hozzátartozik
+a jogbiztonság, a jogbiztonság pedig tiltja a visszamenőleges jogalkotást, vagyis azt, hogy a jogszabály
+a hatálybalépését megelőző időre állapítson meg hátrányos jogkövetkezményt vagy kötelezettséget tegyen
+terhesebbé, illetve jogot vonjon el, vagy korlátozzon. Az indítványozó szerint az Alaptörvény B) cikk (1) bekezdésébe
+ütközik és ezért alaptörvény-ellenes a Ctv. 131/A. §-a a következők miatt.
+[6] A kényszer-végelszámolási eljárás megindulásakor hatályban volt Ctv. 118. § (3) bekezdése a végelszámolók
+részére minimum 100 000 forint végelszámolói díjat állapított meg, mely díjhoz biztosan hozzájutottak,
+mivel az a központi költségvetésből került számukra kiutalásra. Ehhez képest az új, hatályban lévő szabály,
+a Ctv. 131/A. § (6) bekezdése alapján a végelszámoló megállapított díjának, valamint az eljárásban meg nem
+térült és igazolt készkiadásainak megfizetésére a cégbíróság a vezető tisztségviselőt, illetve a – legalább többségi
+befolyással rendelkező – tagot kötelezi. Amennyiben a vezető tisztségviselő, illetve a – legalább többségi befolyással
+rendelkező – tag elhalálozott, jogutód nélkül megszűnt, vagy lakóhelye, székhelye és tartózkodási helye ismeretlen,
+úgy a végelszámoló meg nem térült és igazolt készkiadásait legfeljebb 20 000 forint összeghatárig a cégbíróság
+a központi költségvetésből fizeti meg. Az indítvány érvelése szerint a jogszabályváltozásoknak köszönhetően
+a 2012. március elsején folyamatban lévő kényszer-végelszámolásokban és a 2006. július elsején folyamatban lévő,
+de be nem fejezett végelszámolásokban a kirendelt végelszámoló szervezetek joga korlátozásra került, mert az új
+szabály alapján csak arányos díjra jogosultak, melynek behajtása nehézségekbe ütközik, továbbá sok esetben
+eredménytelen, mert a díj megfizetésére kötelezett vezető tisztségviselő, vagy a tag gyakran fizetésképtelenek,
+illetve fellelhetetlenek. A központi költségvetésből a végelszámoló díja már nem téríthető meg, csak meghatározott
+körben és 20 000 forint összeghatárig van erre lehetőség a készkiadások esetén. Az indítványozó álláspontja
+szerint a Ctv. 131/A. § (6) bekezdése nem csak a végelszámolók jogait korlátozza visszamenőleges hatállyal, hanem
+a vezető tisztségviselőre, illetve a – legalább többségi befolyással rendelkező – tagra is visszamenőleges hatállyal
+kötelezettséget állapít meg, hiszen őket kell kötelezni a végelszámoló díjának megfizetésére.
+
+[7] Az indítványozó előadta továbbá, hogy az eljárás megindulásakor hatályban volt jogszabály alapján elrendelt
+kényszer-végelszámolás megszüntetésének és helyette a kényszertörlési eljárás megindításának legsúlyosabb, és
+visszamenőleges következménye, hogy a kényszertörlési eljárásban a Ctv. 118. § (7) bekezdése alapján a vezető
+tisztségviselőket, egyedüli vagy többségi befolyással rendelkező tagokat a bíróság eltiltja. Ennek következtében
+a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 5. § (10) és 23. § (3) bekezdései szerint
+a társaság törlését követő öt évig nem lehetnek más gazdasági társaság kizárólagos vagy többségi befolyást
+biztosító részesedéssel rendelkező tagjai, valamint közkereseti társaság és betéti társaság beltagjai, illetve gazdasági
+társaság vezető tisztségviselői. Az indítványozó ebben a körben utalt arra is, hogy ellentmondás van a Gt. és Ctv.
+ezen hivatkozott rendelkezései között.
+[8] Az indítványozó egy előtte folyamatban lévő másik – Cgt.01-12-019952. számú – ügyben, valamint a Fővárosi
+Törvényszék Cégbíróságának két másik bírája is indítványozta az előttük folyamatban lévő – Cgt.01-13-007695.
+és Cgt.01-11-026228. számú – ügyekben az Alkotmánybíróság eljárását. A tartalmilag (és szinte teljes egészében
+szövegszerűen is) egymással megegyező bírói kezdeményezéseket – azok tárgyi összefüggése folytán –
+az Alkotmánybíróság az Abtv. 58. § (2) bekezdése, valamint az Alkotmánybíróság Ügyrendjének 34. § (1) bekezdése
+alapján egyesítette, és egy eljárásban bírálta el.
+[9] Az Alkotmánybíróság mindenekelőtt megállapította, hogy az indítványok a Ctv. 131/A. § egészének
+megsemmisítésére irányulnak, azonban indokolást kizárólag a Ctv. 131/A. § (6) bekezdésével összefüggésben
+tartalmaznak, ezért az Alkotmánybíróság ennek megfelelően az indítványokat azok tartalma alapján vizsgálta és
+bírálta el.
+II.
+[10] 1. Az Alaptörvény indítvánnyal érintett rendelkezése:
+„B) cikk (1) Magyarország független, demokratikus jogállam.”
+[11] 2. Az Ctv. indítvánnyal érintett rendelkezései:
+„118. § (7) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés
+alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan nem fedezi a várható felszámolási
+költségeket, vagy a cég vagyona nem fellelhető, a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget
+törli a cégjegyzékből, a Gt. 5. § (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli vagy legalább többségi
+befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja, egyidejűleg határidő tűzésével felhívja
+a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről, az adózás rendjéről szóló törvény szerinti
+kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja.”
+„131/A. § (1) A Módtv. 136. §-ának hatálybalépésekor folyamatban lévő kényszer-végelszámolásokban és a 2006.
+július 1-jén folyamatban lévő, be nem fejezett végelszámolásokban, – amennyiben a cégbíróság még nem
+kezdeményezett felszámolási eljárást – a végelszámoló 2013. január 1-jéig
+a) kényszer-végelszámolás (végelszámolás) befejezésével egyidejűleg a cég törlésére irányuló változásbejegyzési
+kérelmet nyújt be, vagy
+b) felszámolási eljárást kezdeményez, amennyiben a kényszer-végelszámolás (végelszámolás) befejezésére nincs
+mód, és a cég vagyona a hitelezők követelésének fedezésére nem elegendő, de megállapítható, hogy fedezni fogja
+a 118. § (6) bekezdésben meghatározott felszámolási költségeket, vagy
+c) kényszertörlési eljárás megindítását kezdeményezi, ha sem az a), sem a b) pontban foglalt feltételek nem állnak
+fenn.”
+[…]
+(6) Az (1) bekezdés c) pontja szerinti esetben cégbíróság a végelszámoló megállapított díjának, valamint
+az eljárásban meg nem térült és igazolt készkiadásainak megfizetésére a vezető tisztségviselőt – illetve amennyiben
+a cégnek legalább többségi befolyással rendelkező tagja van, akkor a legalább többségi befolyással rendelkező
+tagot a vezető tisztségviselővel egyetemlegesen – kötelezi. Ebben az esetben a cégbíróság – az (5) bekezdés
+szerinti kivétellel – a végelszámolónak az eljárásban meg nem térült és igazolt készkiadásait (ideértve a számlában
+áthárított általános forgalmi adót is) indokolt esetben, és legfeljebb 20 000 forint összeghatárig a központi
+költségvetésből megfizeti, ha a végelszámoló igazolja, hogy a vezető tisztségviselő – továbbá amennyiben
+a cégnek legalább többségi befolyással rendelkező tagja van, úgy a legalább többségi befolyással rendelkező tag –
+elhalálozott, jogutód nélkül megszűnt, vagy lakóhelye (székhelye) és tartózkodási helye ismeretlen.”
+
+III.
+[12] Az indítvány nem megalapozott.
+[13] 1. Az Alkotmánybíróság az indítvány érdemi vizsgálata előtt áttekintette a kényszer-végelszámolás hatályban volt
+szabályait, és az azt felváltó, jelenleg is hatályos kényszertörlési eljárással kapcsolatos rendelkezéseket, melyek
+kapcsán az alábbiakat tartja fontosnak kiemelni.
+[14] A kényszer-végelszámolással kapcsolatos rendelkezéseket a Ctv. a kihirdetése óta közel változatlan módon
+tartalmazta egészen 2012. március elsejéig. A végelszámolás egy különleges gazdasági állapot. A végelszámolás
+lényege – törvényi definíció hiányában – a következők szerint foglalható össze: a nem fizetésképtelen gazdálkodó
+szervezet legfőbb szerve a cég jogutód nélküli megszűnését elhatározva, meghatározott időintervallumon belül
+hitelezőit kielégíti annak érdekében, hogy a végelszámolás végén a cégjegyzékből törlésre kerülhessen.
+[15] Az önkéntesen folytatott végelszámoláshoz képest a kényszer-végelszámolás legfőbb eltérése az volt, hogy nem
+a cég legfőbb szerve, hanem a bíróság határozata döntött a jogutód nélküli megszűnésre kötelezésről és a kényszer-
+végelszámolás elrendeléséről, továbbá a végelszámolót is a bíróság jelölte ki.
+[16] További fontos eltérés volt az is, hogy sem a cég legfőbb szerve, sem a cégbíróság nem dönthetett a kényszer-
+végelszámolás megszüntetéséről. A kényszer-végelszámolásokra a speciális szabályokon túlmenően mögöttes
+joganyagként a végelszámolásra vonatkozó rendelkezéseket kellett alkalmazni.
+[17] A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, a gazdasági társaságokról szóló
+2006. évi IV. törvény, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
+továbbá az ezekkel összefüggő egyes törvények módosításáról szóló 2011. évi CXCVII. törvény (a továbbiakban:
+Módtv.) 136. §-a rendelkezett arról, hogy a Ctv. végelszámolásról szóló VIII. fejezetében található kényszer-
+végelszámolásról szóló 7. címének helyére – 2012. március első napjától – a kényszertörlési eljárásról szóló VIII/A.
+fejezet lépett. Az új, kényszertörlési eljárás célja megegyezik az általa felváltott korábbi kényszer-végelszámolással:
+a törvényi feltételeknek nem megfelelő működésű cégek kivezetése a gazdasági életből, mely a cégjegyzékből
+való törléssel zárul, azonban ezt más szabályokkal kívánja elérni. A két eljárás közötti – jelen ügy szempontjából –
+leghangsúlyosabb különbség, hogy immáron nem kerül sor végelszámoló kirendelésére, hanem a végelszámoló
+korábbi feladatait a cégbíróság hivatalból végzi el, továbbá szankció jellegű jogkövetkezmények és felelősséget
+megállapító szabályok is részét képezik az új szabályozási környezetnek.
+[18] Az indítványozó által támadott Ctv. 131/A. §-a a kényszer-végelszámolások megszüntetésével – cégjegyzékből való
+törléssel, felszámolási vagy kényszertörlési eljárás megindításával – kapcsolatos részletszabályokat tartalmazza.
+[19] 2. Az Alaptörvény nem tartalmaz kifejezetten a gazdasági társaságok létrehozására, megszűnésére,
+megszüntetésére vonatkozó speciális szabályokat. Ennek következtében az Alaptörvény keretei között
+a törvényhozó nagy szabadságot élvez a gazdasági társaságokkal kapcsolatos szabályok kialakításában, vagy
+éppen az ezzel kapcsolatos gazdaságpolitikai célok jogi szabályozásában. Ez a szabályozási szabadság azonban
+nem terjedhet odáig, hogy az Alaptörvényben deklarált más elveket – jelen esetben az Alaptörvény B) cikkét –
+a jogalkotó figyelmen kívül hagyhatná.
+[20] Az indítványozó a Ctv. 131/A. § (6) bekezdésének alaptörvény-ellenességét állította, mert véleménye szerint
+az Alaptörvény B) cikk (1) bekezdésébe ütközik.
+[21] 2.1. Az Alkotmánybíróság az alábbiak szerint nem osztja az indítványban foglalt azon érvet, hogy az új szabályozás
+alkalmazása a végelszámoló szervezetek jogát korlátozná azzal, hogy az eljárás megindulásakor hatályban volt Ctv.
+118. § (3) bekezdése alapján a minimum 100 000 forint végelszámolói díjhoz nem fognak tudni hozzájutni.
+[22] A hatályban volt szabályozás szerint amennyiben a kényszer-végelszámolást lefolytatónak a cégbíróság egy
+végelszámoló szervezetet rendelt ki, úgy a kirendelt végelszámoló szervezet csak igen szűk körben, a csődeljárásról
+és felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.) 27/A. §-ban részletezett kizárási és
+összeférhetetlenségi okokra való hivatkozással utasíthatta vissza a megbízatást. A kirendelt végelszámoló szervezet
+tehát nem csak az indítvány által is hivatkozott „garantált” végelszámolói díj reményében kezdte el az adott
+kényszer-végelszámolást, hanem a felszámolók névjegyzékében való szerepléséhez kötődő egyik kötelezettségének
+tett eleget. Továbbá – ahogyan jelen eljárásban is, a korábban részletezett, a Fővárosi Törvényszék Cégbíróságának
+Cgt.01-11-021970/5. számú végzése is határozott – az eljárás megindításakor hatályban volt Ctv. 118. §
+(1) bekezdése főszabályként úgy rendelkezett, hogy a végelszámoló díját kérelemre a cég legfőbb szerve állapítja
+meg. Csak ennek hiányában kerülhetett sor a végelszámolói díj cégbíróság általi megállapítására a Ctv. 118. §
+(1) bekezdésének második mondata és (3) bekezdése szerint. Ilyen esetben a végelszámoló díja a tevékenységet
+lezáró beszámoló mérlege szerinti eszközök könyvszerinti értékének 1,5 százaléka, de legalább 100 000 forint
+
+és az azt terhelő általános forgalmi adó összege volt. Hangsúlyozza az Alkotmánybíróság azonban azt, hogy
+a hatályban volt Ctv. 118. § (3) bekezdésének második mondata lehetővé tette, hogy a bíróság ettől a mértéktől
+indokolt esetben eltérjen. Az eltérést a törvény nem csak felfelé, hanem lefelé is lehetővé tette a bíróság számára.
+Ennek kapcsán megjegyzi az Alkotmánybíróság, hogy az ezt megelőző szabályozás, a 2006. június 30-áig hatályban
+volt Csődtv. 78. § (2) bekezdése csupán a felfelé való eltérést tette lehetővé.
+[23] Kiemelést érdemel a támadott Ctv. 131/A. § (6) bekezdése szerinti végelszámoló megállapított díjának, valamint
+az eljárásban meg nem térült és igazolt készkiadásainak megfizetése kapcsán, hogy a jelen eljárásban nem egy
+befejezett kényszer-végelszámolás költségeinek megtérítéséről van szó, hanem éppen ellenkezőleg: egy be nem
+fejezett kényszer-végelszámolással kapcsolatos költségek megtérítéséről, hiszen ha az eljárás befejezésre került
+volna, úgy a Ctv. 131/A. § (1) bekezdés a) pontja került volna alkalmazásra. Ezzel szemben a hatályban volt Ctv.
+118. § (1) és (3) bekezdéseiben részletezett végelszámolói díj a befejezett kényszer-végelszámolásokra vonatkozott.
+[24] Önmagában nem teremt alaptörvény-ellenes helyzetet az, hogy a be nem fejezett eljárásban a cégbíróság által
+arányos végelszámolói díj kerül megállapításra. Az Alkotmánybíróság szerint a kényszer-végelszámoló szervezet
+szempontjából az sem teremt alaptörvény-ellenes helyzetet, hogy a bíróság a Ctv. 131/A. § (6) bekezdése alapján
+a vezető tisztségviselőt – illetve amennyiben a cégnek legalább többségi befolyással rendelkező tagja van, akkor
+a legalább többségi befolyással rendelkező tagot a vezető tisztségviselővel egyetemlegesen – kötelezi a költségek
+viselésére, mert a behajtással kapcsolatos esetlegesen felmerülő, az indítvány által hivatkozott terhek és kockázatok
+az Alaptörvénnyel nem hozhatók közvetlen összefüggésbe.
+[25] 2.2. Az indítvány szerint a Ctv. 131/A. § (6) bekezdése nem csak a végelszámoló szervezeteket érinti hátrányosan,
+mert a végelszámolói díj és az eljárásban meg nem térült és igazolt készkiadások megfizetésére kötelezett vezető
+tisztségviselő és tag számára is az Alaptörvény B) cikk (1) bekezdésébe ütköző módon, visszamenőlegesen
+kötelezettséget állapít meg.
+[26] Egy gazdasági társaság alapításával, működtetésével és megszüntetésével is szükségszerűen együtt járnak bizonyos
+költségek. Ezen szükségszerű költségeknek egy részét az államnak (pl. illeték- és közzétételi költségek), míg más
+részét a magánszektornak (pl. könyveléssel kapcsolatos kiadások, ügyvédi munkadíj stb.) fizeti meg a gazdasági
+társaság. A gazdasági élet szereplőire vonatkozó szabályok, mint például a vizsgált Ctv. vagy az említett Csődtv. is,
+időről-időre átdolgozásra kerülnek annak érdekében, hogy a gazdasági élet és környezet változásait hatékonyan
+tudják követni, a felmerülő jogalkalmazási problémákat orvosolni tudják. Minden bizonnyal megoldhatatlan feladat
+elé állítaná a jogalkalmazót az, ha minden cégre a megalapításukkor hatályos szabályokat kellene alkalmazni.
+[27] Az Alkotmánybíróság itt visszautal az Indokolás [21]–[24] bekezdéseiben kifejtettekre: főszabály szerint a kényszer-
+végelszámolással kapcsolatos költségeket a legfőbb szerv állapította meg, és – 2012. március 1-je után – csak ennek
+hiányában kerülhetett sor meghatározott feltételekkel az igazolt készkiadások bíróság általi megállapításra, illetve
+ennek a központi költségvetésből történő megfizetésére. Megjegyzendő az is, hogy a korábbi szabályok sokkal
+kedvezőbbek voltak, mint az önkéntesen lefolytatott végelszámolási eljárásnál alkalmazandó, a végelszámoló és
+az eljárás díjával kapcsolatos rendelkezések [Ctv. 98. § (3) bekezdés b) pont].
+[28] A cég megszüntetéséről jogkövető módon intézkedő cégnek nincs lehetősége arra, hogy a végelszámolással
+kapcsolatos költségek a központi költségvetésből legyenek megfizetve, ezzel szemben a kényszer-
+végelszámolásoknál a többségében nem feltétlen jogkövető módon eljáró cégek utáni költségeket az állam fizette
+meg. A vizsgált rendelkezés éppen ezt a visszás helyzetet változtatta meg.
+[29] Az Alkotmánybíróság – szem előtt tartva az Alaptörvény R) cikkének (3) bekezdésében foglaltakat, figyelemmel
+az Alkotmánybíróság hasonló kérdésekben kidolgozott korábbi érveire is – megállapítja, hogy önmagában az,
+hogy a jogalanyok másként cselekedtek volna, ha előre láthatták volna, hogy a jogszabály miként módosul, nem
+nyújt lehetőséget a jogbiztonság követelményére alapozva alaptörvény-ellenesség megállapítására. A visszaható
+hatályú jogalkotás tilalmának ilyen kiterjesztő értelmezése alkotmányjogilag nem indokolható. Az egyes szabályok
+módosítása lehetőségének időbeli korlátozását, illetőleg mindezek garanciáit a jogalkotónak kell kimunkálnia,
+hiszen erre az Alkotmánybíróságnak nincs felhatalmazása.
+[30] A fentiekben kifejtettekre tekintettel az Alkotmánybíróság elutasította az indítvány azon részét, mely a Ctv. 131/A. §
+(6) bekezdésének megsemmisítésére irányult.
+
+IV.
+[31] A bírói kezdeményezés szerint az előtte folyamatban lévő ügyben, az eljárás megindulásakor hatályban volt
+jogszabály alapján elrendelt kényszer-végelszámolás megszüntetésének és helyette a kényszertörlési eljárás
+– Ctv. 131/A. § (1) bekezdés c) pontja alapján történő – „megindításának legsúlyosabb, és visszamenőleges
+következménye, hogy a kényszertörlési eljárásban a Ctv. 118. § (7) bekezdése alapján a vezető tisztségviselőket,
+egyedüli vagy többségi befolyással rendelkező tagokat a cégbíróság eltiltja”.
+[32] Megállapítható azonban, hogy a Ctv. 118. § (7) bekezdése„többes rendeltetésű”: ha a cégbíróság megállapítja, hogy
+a cég vagyona előreláthatóan nem fedezi a várható felszámolási költségeket, vagy a cég vagyona nem fellelhető,
+a cégbíróság a céget törli a cégjegyzékből, a Gt. 5. § (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli
+vagy legalább többségi befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja, egyidejűleg határidő
+tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről, az adózás rendjéről szóló
+törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja. Ezen cselekmények
+a kényszertörlési eljárás befejező részéhez tartoznak, habár egy mondaton belül kerültek szabályozásra, egymástól
+jól elkülöníthetőek.
+[33] Az Alkotmánybíróság eljárását kezdeményező indítványnak határozott kérelmet kell tartalmaznia. Az Abtv. nevesíti
+azokat az indítványi elemeket, melyek nélkül az indítvány elbírálásra alkalmatlannak minősül. Az indítvánnyal
+szemben támasztott követelmények egyaránt vonatkoznak a bírói kezdeményezésekre, az alkotmányjogi panasz
+eljárásra és minden más, az Alkotmánybíróság előtt zajló eljárásra is.
+[34] Az Abtv. 52. § (1) és (1b) bekezdései szerint„[a]z indítványnak határozott kérelmet kell tartalmaznia. […] [A] kérelem
+akkor határozott, ha egyértelműen megjelöli […]
+c) […] az Alkotmánybíróság által vizsgálandó jogszabályi rendelkezést vagy bírói döntést, […],
+e) indokolást arra nézve, hogy a sérelmezett jogszabály, jogszabályi rendelkezés, […] miért ellentétes
+az Alaptörvény megjelölt rendelkezésével vagy a nemzetközi szerződéssel, továbbá a 34–36. §-ban
+meghatározott eljárás indítványozása esetén az indítványban foglalt kérelem részletes indoklását, valamint
+f) a kifejezett kérelmet a jogszabály, jogszabályi rendelkezés vagy a bírói döntés megsemmisítésére, illetve
+az Alkotmánybíróság döntésének tartalmára.”
+[35] Jelen ügyben az indítványozó a Ctv. 131/A. § egészének alaptörvény-ellenességét állítja, indokolást azonban csak
+bizonyos részei kapcsán terjesztett elő. Az eltiltásról azonban a Ctv. 131/A. §-a nem rendelkezik, arról – egyebek
+mellett – a Ctv. 118. § (7) bekezdése, illetve a Gt. rendelkezik. A Ctv. 118. § (7) bekezdése kapcsán – azon túlmenően,
+hogy ennek alaptörvény-ellenességét nem állította az indítványozó –, alkotmányjogi szempontokat nem tartalmaz
+az indítvány. Önmagában a kényszer-végelszámolás megszüntetésével és helyette más eljárás megindításával
+kapcsolatosan aggályokat az indítvány sem állított. Az eltiltás intézménye kapcsán nem derül ki az indítványból,
+hogy milyen jogkövetkezmény megállapítását kéri az indítványozó annak érdekében, hogy az előtte lévő ügyben
+az Alaptörvénynek megfelelő döntést hozhasson.
+[36] A fentiekre tekintettel az Alkotmánybíróság az indítványt e részében, az Abtv. 64. § d) pontja alapján – figyelemmel
+az Abtv. 52. § (1b) bekezdés c), e) és f) pontjaira – visszautasította.
+[37] Az Alkotmánybíróság eljárása során észlelte, hogy a Fővárosi Ítélőtábla 14.Cgtf. 44770/2012/2. számú döntésében
+(BDT2013.2895) az indítvánnyal érintett hasonló ügyben eseti döntést hozott. Az ítélőtábla fellebbezés kapcsán
+meghozott döntése azonban nem érinti jelen határozat III. részében foglaltakat, az eltiltás hatályon kívül
+helyezésével kapcsolatos érvrendszer pedig a korábbiakban kifejtettek miatt nem képezhette az alkotmánybírósági
+vizsgálat tárgyát.
+[38] Hangsúlyozza az Alkotmánybíróság, hogy az általa lefolytatott vizsgálat az Abtv. 52. § (2) bekezdése alapján csak
+az indítványban megjelölt alkotmányossági kérelemre korlátozódik.
+
+[39] Az Alkotmánybíróság határozatának a Magyar Közlönyben történő közzététele az Abtv. 44. § (1) bekezdésén alapul.
+Budapest, 2013. december 2.
+Dr. Paczolay Péter s. k.,
+az Alkotmánybíróság elnöke
+Dr. Balogh Elemér s. k., Dr. Balsai István s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Bragyova András s. k., Dr. Dienes-Oehm Egon s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Juhász Imre s. k., Dr. Kiss László s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Kovács Péter s. k., Dr. Lenkovics Barnabás s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Lévay Miklós s. k., Dr. Paczolay Péter s. k.,
+alkotmánybíró az Alkotmánybíróság elnöke,
+ az aláírásban akadályozott
+ dr. Pokol Béla
+ alkotmánybíró helyett
+Dr. Salamon László s. k., Dr. Stumpf István s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Szalay Péter s. k., Dr. Szívós Mária s. k.,
+előadó alkotmánybíró alkotmánybíró
+Alkotmánybírósági ügyszám: III/3689/2012.
+
+IX. Határozatok Tára
