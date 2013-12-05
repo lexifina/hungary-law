@@ -1,0 +1,5 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Nemzeti Stadionfejlesztési Program keretében – a Miskolc közigazgatási területén fekvő, 21688, 21688/A és 21687 helyrajzi számú földrészleteken, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészleteken – megvalósuló, UEFA IV. kategóriájú labdarúgó stadion és kiszolgáló létesítmények megvalósítására irányuló Diósgyőri Stadion rekonstrukció beruházással összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
+
+(3) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtákra vonatkozó jogszabály az adott ügyben szakhatósági közreműködést rendel el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
