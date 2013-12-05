@@ -4,11 +4,11 @@
 
 | 1 | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2 | A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezése | Budapest VIII. kerület Orczy út 1. Hrsz. 36030; Budapest VIII. kerület Diószeghy Sámuel utca 38–40. Hrsz. 36009; Budapest VIII. kerület Diószeghy Sámuel utca 42. Hrsz. 36014; Budapest VIII. kerület Korányi Sándor utca 14. Hrsz. 36038/2; Budapest VIII. kerület Dugonics utca 9. Hrsz. 36038/2; Budapest VIII. kerület Korányi Sándor utca 22–26. Hrsz. 36034; Budapest VIII. kerület Dugonics utca 17–21. Hrsz. 36034; Budapest VIII. kerület Diószeghy Sámuel utca 16. Hrsz. 35978; Budapest VIII. kerület Diószeghy Sámuel utca 18. Hrsz. 35979; Budapest VIII. kerület Diószeghy Sámuel utca 20. Hrsz. 35980; Budapest VIII. kerület Diószeghy Sámuel utca 22. Hrsz. 35981; Budapest VIII. kerület Diószeghy Sámuel utca 24. Hrsz. 35982; | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők, (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2 | A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezése | Budapest VIII. kerület Orczy út 1. Hrsz. 36030; Budapest VIII. kerület Diószeghy Sámuel utca 38–40. Hrsz. 36009; Budapest VIII. kerület Diószeghy Sámuel utca 42. Hrsz. 36014; Budapest VIII. kerület Korányi Sándor utca 14. Hrsz. 36038/2; Budapest VIII. kerület Dugonics utca 9. Hrsz. 36038/2; Budapest VIII. kerület Korányi Sándor utca 22–26. Hrsz. 36034; Budapest VIII. kerület Dugonics utca 17–21. Hrsz. 36034; Budapest VIII. kerület Diószeghy Sámuel utca 16. Hrsz. 35978; Budapest VIII. kerület Diószeghy Sámuel utca 18. Hrsz. 35979; Budapest VIII. kerület Diószeghy Sámuel utca 20. Hrsz. 35980; Budapest VIII. kerület Diószeghy Sámuel utca 22. Hrsz. 35981; Budapest VIII. kerület Diószeghy Sámuel utca 24. Hrsz. 35982; | általános építésügyi és építésfelügyeleti hatósági eljárások, beleértve: – az általános építményeket, – a műemléki védelem alatt álló építményeket, – az építményen belül, építménybe beépített felvonókat, mozgólépcsőket, (beleértve a mozgójárdát is), ha annak létesítéséhez építésügyi hatósági engedélyhez kötött építési tevékenység szükséges, fás szárú növények kivágására vonatkozó engedélyezési eljárás, kapcsolódó területek felszíni rendezése | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | Budapest VIII. kerület Diószeghy Sámuel utca 26. Hrsz. 35983; Budapest VIII. kerület Diószeghy Sámuel utca 28. Hrsz. 35996; Budapest VIII. kerület Diószeghy Sámuel utca 30. Hrsz. 35997; Budapest VIII. kerület Sárkány utca 8. Hrsz. 35995; Budapest VIII. kerület Nagyvárad tér Hrsz. 36806/3; Budapest VIII. kerület Üllői út |
 
-| 3 | Hrsz. 36806/2; Budapest VIII. kerület Ludovika tér Hrsz. 36179; Budapest VIII. kerület Korányi Sándor utca Hrsz. 36031; Budapest VIII. kerület Diószeghy Sámuel utca Hrsz. 35903; Budapest VIII. kerület Dugonics utca Hrsz. 36054; Budapest VIII. kerület Orczy út Hrsz. 35929/2. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
+| 3 | Hrsz. 36806/2; Budapest VIII. kerület Ludovika tér Hrsz. 36179; Budapest VIII. kerület Korányi Sándor utca Hrsz. 36031; Budapest VIII. kerület Diószeghy Sámuel utca Hrsz. 35903; Budapest VIII. kerület Dugonics utca Hrsz. 36054; Budapest VIII. kerület Orczy út Hrsz. 35929/2. | környezetvédelmi és vízjogi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 4 | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -34,7 +34,7 @@
 
 | 14 | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^9]
+2. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^11]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -82,4 +82,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 19 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^9]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a szerint módosított szöveg.

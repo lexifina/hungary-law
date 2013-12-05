@@ -6,6 +6,9 @@
 
 (4)[^3] A (3) bekezdésben megjelölt ingatlanok tekintetében a kerületi szabályzási tervben előírt telekhatár-rendezés ingatlan-nyilvántartási bejegyzését azt követően kell végrehajtani, hogy a Budapest VIII. kerület 36030 helyrajzi számú ingatlan az állam 1/1 arányú tulajdonába kerül.
 
+(5)[^4] A Budapest VIII. kerület 36030 helyrajzi számú ingatlan Nemzeti Közszolgálati Egyetem vagyonkezelésében lévő területén a Nemzeti Közszolgálati Egyetem mint engedélyes (építtető) jogosult a vízjogi engedély (ideértve különösen a vízjogi létesítési, fennmaradási, illetve üzemeltetési engedélyeket) iránti kérelmet az illetékes hatósághoz önállóan benyújtani. Az engedély iránti kérelemhez az ingatlan egyéb tulajdonosainak, vagyonkezelőinek, használóinak, és bármely egyéb jogosultjának a hozzájárulását nem kell csatolni, illetve beszerezni, továbbá az ingatlan egyéb tulajdonosainak, vagyonkezelőinek, használóinak, illetve bármely egyéb jogosultjának hozzájárulása a vízjogi engedély kiadásához nem szükséges.
+
 [^1]: A 3. § (1) bekezdését a 137/2013. (V. 10.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^2]: A 3. § (3) bekezdését a 224/2013. (VI. 24.) Korm. rendelet 1. §-a iktatta be.
 [^3]: A 3. § (4) bekezdését a 224/2013. (VI. 24.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 3. § (5) bekezdését a 464/2013. (XII. 4.) Korm. rendelet 1. §-a iktatta be.
