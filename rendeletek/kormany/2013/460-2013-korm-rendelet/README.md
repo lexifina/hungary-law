@@ -1,0 +1,9 @@
+# 460/2013. (XII. 4.) Korm. rendelet
+
+a Nemzeti Lovarda fejlesztésével kapcsolatos közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-460-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-12-05 | 2013-460-20-22.1 | 460/2013. (XII. 4.) Korm. rendelet |
