@@ -1,7 +1,5 @@
 ## 3. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-## 4. § Hatályát veszti a BM rendelet
+4. §[^1]
 
-a) 1. § a) pontja,
-
-b) 2. §-a.
+[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
