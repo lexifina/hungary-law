@@ -20,7 +20,7 @@ b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizár�
 
 a) az állami vagy önkormányzati kötelező feladatot ellátó állami fenntartót,
 
-b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre nézve a fenntartó pályázati úton elnyert európai uniós vagy hazai fejlesztési támogatásban részesül,
+b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, a szolgáltató vagy az intézmény pályázati úton elnyert európai uniós támogatásban, a Svájci Alap, az EGT Alap, a Norvég Alap támogatásában, vagy költségvetési támogatásban részesül.
 
 c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is jogerősen bejegyzett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, szolgáltatásiforma-váltás, valamint a fenntartó intézményei, telephelyei közötti férőhelyszám-átcsoportosítás teszi szükségessé,
 
