@@ -1,5 +1,3 @@
-## 1. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény végrehajtásáról a művészeti, a közművelődési és a közgyűjteményi területen foglalkoztatott közalkalmazottak jogviszonyával összefüggő egyes kérdések rendezésére című 150/1992. (XI. 20.) Korm. rendelet (a továbbiakban: Kjtvhr.) 6/F. §-a helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „6/F. § (1) Alapító okirata szerint több kulturális intézményi funkciót ellátó költségvetési szerv vezetésére megbízást – a (2) bekezdésben meghatározott kivétellel – az a közalkalmazott is kaphat, aki legalább az egyik kulturális intézménytípus intézményvezetővel szemben támasztott követelményeinek megfelel, feltéve, hogy a kulturális intézményi funkciókat ellátó szervezeti egységeket az adott alapfeladatra vonatkozó felsőfokú végzettséggel és szakképzettséggel rendelkező szakember irányítja.
-
-## (2) Az (1) bekezdésben foglaltak nem alkalmazhatók az előadó-művészeti intézmény, az állami szaklevéltár, a megyei könyvtár, a megyei hatókörű városi múzeum, az országos múzeum, az országos szakmúzeum, az országos szakkönyvtár, a felsőoktatási könyvtár és a nemzeti könyvtár esetében.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
