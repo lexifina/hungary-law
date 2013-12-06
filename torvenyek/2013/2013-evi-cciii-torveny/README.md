@@ -1,0 +1,7 @@
+# 2013. évi CCIII. törvény a Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-203-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2013-12-06 | 2013. évi CCIII. törvény | 2013-203-00-00.0 (közlönyállapot) |
