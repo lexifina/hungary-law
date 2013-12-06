@@ -1,0 +1,1 @@
+111/F. § A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 109. § (10) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
