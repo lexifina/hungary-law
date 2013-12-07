@@ -10,7 +10,7 @@ c) az örökhagyó mostoha- és nevelt gyermeke, mostoha- és nevelőszülője �
 
 d) az egy örökösnek jutó ingóörökség 300 000 forint forgalmi értéket meg nem haladó része. Az értékhatár megállapításánál a más címen illetékmentes ingóságot, továbbá az örökhagyó gépjárművének, pótkocsijának értékét, ruházatát és a személyes használatra szolgáló szokásos mértékű vagyontárgyait figyelmen kívül kell hagyni;
 
-e)
+e) az állami vagy helyi önkormányzati fenntartású közgyűjteményből a kulturális javakra vonatkozó jogszabályokban meghatározott eljárás keretében a volt tulajdonos örökösének visszaadott vagyontárgyra vonatkozó, a visszaadás időpontját megelőzően beállt öröklés;
 
 f)
 
