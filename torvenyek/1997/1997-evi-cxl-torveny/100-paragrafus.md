@@ -24,7 +24,9 @@ j) a bérpótlék mértékét és az arra jogosultak körét,
 
 k) a sajtótermékek kötelespéldányainak szolgáltatását és hasznosítását,
 
-l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét.
+l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét,
+
+m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött olyan kulturális javak visszaadásának rendjét, amelyek állami tulajdonba tartozása minden kétséget kizáró módon nem igazolható.
 
 (2)
 
