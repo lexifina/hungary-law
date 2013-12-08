@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-3-20-2T
 | 2011-06-30 | 2011-3-20-2T.2 | 19/2011. (VI. 24.) KIM rendelet |
 | 2012-03-28 | 2011-3-20-2T.3 | 17/2012. (III. 20.) KIM rendelet |
 | 2012-08-16 | 2011-3-20-2T.4 | 19/2011. (VI. 24.) KIM rendelet |
+| 2013-12-08 | 2011-3-20-2T.5 | 25/2016. (IX. 1.) EMMI rendelet |

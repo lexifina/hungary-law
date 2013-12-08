@@ -4,6 +4,6 @@
 
 (2) A központ a 2011. évi szakmai tervét 2011. február 28-ig nyújtja be a miniszternek, melynek elbírálására legkésőbb 2011. március 18-ig sort kell keríteni.
 
-Melléklet a 3/2011. (II. 11.) KIM rendelethez[^31]
+Melléklet a 3/2011. (II. 11.) KIM rendelethez[^33]
 
-[^31]: A Mellékletet a 19/2011. (VI. 24.) KIM rendet 8. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^33]: A Mellékletet a 19/2011. (VI. 24.) KIM rendet 8. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
