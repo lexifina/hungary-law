@@ -11,11 +11,3 @@
 (5) A 8. §, a 11. §, a 12. § (1) bekezdése, a 13–16. §, a 24. §, a 26. §, a 31. §, a 33–36. §, a 40. §, az 55. §, az 56. § (4) bekezdése és az 57. § (2) bekezdése 2014. július 1-jén lép hatályba.
 
 (6) Az 57. § (3) bekezdése 2015. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
