@@ -1,0 +1,3 @@
+66. § A Cst. a következő 50/C. §-sal egészül ki:
+
+„50/C. § A 2013. december 31-én gyermekgondozási támogatásban részesülő nevelőszülőnek a nála elhelyezett, nevelésbe vett gyermekre tekintettel megállapított gyermekgondozási támogatásra való jogosultsága 2013. december 31-én a törvény erejénél fogva megszűnik.”
