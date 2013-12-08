@@ -1,4 +1,4 @@
-## 4/A. [^3] A szociális és gyermekjóléti alapellátás támogatásának kiegészítése
+## 4/A. [^5] A szociális és gyermekjóléti alapellátás támogatásának kiegészítése
 
 8/A. § (1) Az 1. § d) pontja szerinti támogatás a családsegítés és gyermekjóléti ellátás, házi segítségnyújtás, a gyermekek napközbeni ellátása, valamint a falu- és tanyagondnoki szolgáltatás után 2013. évben a Kvtv. 2. melléklet III. 3. a), d), e) vagy j) pontja szerinti támogatásra jogosult azon települési önkormányzatokat illeti meg, melyek egy lakosra jutó adóerő-képessége nem haladja meg a 30 000 forintot.
 
@@ -6,4 +6,4 @@
 
 (3) A támogatás önkormányzatonkénti összegét az 5. melléklet tartalmazza.
 
-[^3]: A 4/A. alcímet (8/A. §) a 38/2013. (VII. 31.) BM rendelet 2. §-a iktatta be.
+[^5]: A 4/A. alcímet (8/A. §) a 38/2013. (VII. 31.) BM rendelet 2. §-a iktatta be.

@@ -3404,8 +3404,8 @@
 
 | Zsombó Község Önkormányzata | 26 000 |
 
-5. melléklet a 22/2013. (VI. 11.) BM rendelethez[^10]
+5. melléklet a 22/2013. (VI. 11.) BM rendelethez[^18]
 
 A szociális és gyermekjóléti alapellátás kiegészítő támogatása
 
-[^10]: Az 5. mellékletet a 38/2013. (VII. 31.) BM rendelet 6. § (1) bekezdése iktatta be.
+[^18]: Az 5. mellékletet a 38/2013. (VII. 31.) BM rendelet 6. § (1) bekezdése iktatta be.

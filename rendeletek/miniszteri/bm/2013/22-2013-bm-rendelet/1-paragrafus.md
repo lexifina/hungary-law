@@ -8,9 +8,12 @@ b) a korábban a Megyei Intézményfenntartó Központ (a továbbiakban: MIK) á
 
 c) a gyermekétkeztetési feladatok támogatásának kiegészítésére,
 
-d)[^1] a szociális és gyermekjóléti alapellátás támogatásának kiegészítésére,
+d)[^2] a szociális és gyermekjóléti alapellátás támogatásának kiegészítésére,
 
-e)[^2] a helyi közösségi közlekedés támogatására.
+e)[^3] a helyi közösségi közlekedés támogatására,
 
-[^1]: Az 1. § d) pontját a 38/2013. (VII. 31.) BM rendelet 1. §-a iktatta be.
-[^2]: Az 1. § e) pontját a 38/2013. (VII. 31.) BM rendelet 1. §-a iktatta be.
+f)[^4] a köznevelési intézmények működtetésével kapcsolatos egyes kiadásokhoz.
+
+[^2]: Az 1. § d) pontját a 38/2013. (VII. 31.) BM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § e) pontját a 38/2013. (VII. 31.) BM rendelet 1. §-a iktatta be.
+[^4]: Az 1. § f) pontját a 66/2013. (XII. 7.) BM rendelet 1. §-a iktatta be.
