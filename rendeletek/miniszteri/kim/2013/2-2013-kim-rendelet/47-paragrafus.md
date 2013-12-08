@@ -1,3 +1,5 @@
+## 45–46. §
+
 ## 32. Nemzetpolitikai tevékenység támogatása (20/4/3)
 
 47. § (1) Az előirányzat

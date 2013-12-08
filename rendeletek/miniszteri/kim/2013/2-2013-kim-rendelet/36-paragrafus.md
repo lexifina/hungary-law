@@ -1,3 +1,5 @@
+## 35. §
+
 ## 24. Ludovika Campus (20/2/41)
 
 36. § (1) Az előirányzat a „Nemzeti Közszolgálati Egyetem elhelyezése a Ludovika Campusban” elnevezésű állami beruházás megvalósításának hazai forrását biztosítja.

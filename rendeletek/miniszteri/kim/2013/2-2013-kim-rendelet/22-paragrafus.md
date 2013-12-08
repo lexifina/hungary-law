@@ -26,8 +26,12 @@ i) a miniszter által adott kitüntetések, díjak és egyéb elismerések, vala
 
 j) közigazgatás-fejlesztés és -korszerűsítés, valamint az e-közigazgatás kormányzati feladatainak finanszírozására,
 
-k) a központi közigazgatás integrált üdültetési rendszer működtetésére, az üdülőingatlanok üzemeltetésére.
+k) a központi közigazgatás integrált üdültetési rendszer működtetésére, az üdülőingatlanok üzemeltetésére,
+
+l)[^5] a Nagykovácsi Kastélypark Komplexum felújítására.
 
 (2) Az előirányzaton kerül elszámolásra a fejezeti tartalék közvetlen fejezeti kifizetéssel történő felhasználása is.
 
 (3) Az előirányzat felhasználása egyrészt közvetlen fejezeti kifizetéssel, a feladat ellátásával megbízott természetes személy vagy államháztartáson kívüli vagy belüli jogi személlyel kötött szerződés alapján, másrészt egyedi döntés alapján költségvetési támogatás nyújtásával gazdasági társaságok, önkormányzatok részére támogatási szerződéssel, továbbá a kitüntetésben, díjazásban, valamint ösztöndíjban részesülő kedvezményezett esetében a kifizetés érdekében történő előirányzat-átcsoportosítással valósul meg.
+
+[^5]: A 22. § (1) bekezdés l) pontját a 32/2013. (XII. 7.) KIM rendelet 1. §-a iktatta be.
