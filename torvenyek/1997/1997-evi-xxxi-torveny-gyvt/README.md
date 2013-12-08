@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2013-11-15 | 2013. évi CLVIII. törvény | 1997-31-00-00.68 |
 | 2013-12-01 | 2013. évi CLXVIII. törvény | 1997-31-00-00.69 |
 | 2013-12-06 | 2013. évi CCIII. törvény | 1997-31-00-00.70 |
+| 2013-12-08 | 2013. évi CCV. törvény | 1997-31-00-00.71 |

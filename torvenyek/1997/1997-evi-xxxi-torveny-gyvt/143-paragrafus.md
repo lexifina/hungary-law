@@ -2,6 +2,8 @@
 
 ## A gyermekek védelmének főbb finanszírozási szabályai
 
+## Általános szabályok
+
 143. § (1) A gyermekvédelmi rendszer működéséhez szükséges pénzügyi fedezetet a központi költségvetés és az önkormányzat hozzájárulása biztosítja, amit az igénylő által fizetendő térítési és gondozási díj egészít ki.
 
 (2) Az állam hozzájárul az önkormányzat által megállapított és folyósított pénzbeli és természetbeni ellátások kiadásaihoz, valamint a helyi önkormányzat által fenntartott, a személyes gondoskodás keretébe tartozó ellátási formák működési és fejlesztési költségeihez.
