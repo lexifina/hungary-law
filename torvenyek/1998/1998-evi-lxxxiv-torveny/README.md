@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-84-00-00
 | 2013-06-15 | 2013. évi LXXV. törvény | 1998-84-00-00.40 |
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1998-84-00-00.41 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1998-84-00-00.42 |
+| 2013-12-08 | 2013. évi CCV. törvény | 1998-84-00-00.43 |
