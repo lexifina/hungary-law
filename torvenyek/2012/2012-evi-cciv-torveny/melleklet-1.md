@@ -34352,17 +34352,11 @@ Kormányzati szakpolitikai feladatok
 
 |
 
-Vagyoni hozzájárulás a 2001. évi XX. tv. 2. § m) pont körében
-
-|
-
-100 000,0
-
 |
 
 |
 
-100 000,0
+|
 
 |
 
@@ -34382,7 +34376,7 @@ Vagyoni hozzájárulás a 2001. évi XX. tv. 2. § m) pont körében
 
 |
 
-415 907,9
+315 907,9
 
 |
 
@@ -34390,7 +34384,7 @@ Vagyoni hozzájárulás a 2001. évi XX. tv. 2. § m) pont körében
 
 |
 
-318 488,0
+218 488,0
 
 |
 
@@ -34628,7 +34622,7 @@ XVII. fejezet összesen:
 
 |
 
-678 255,1
+578 255,1
 
 |
 
@@ -34636,7 +34630,7 @@ XVII. fejezet összesen:
 
 |
 
-318 488,0
+218 488,0
 
 |
 
@@ -61296,7 +61290,7 @@ Magán- és egyéb jogi személyek kártérítése
 
 |
 
-500,0
+35 800,0
 
 |
 
@@ -63004,6 +62998,34 @@ Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap támogatása
 
 |
 
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Szövetkezeti Hitelintézetek Integrációs Alapjának támogatása
+
+|
+
+135 499,6
+
+|
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -63018,7 +63040,7 @@ XLII. fejezet összesen:
 
 |
 
-1 877 058,3
+2 047 857,9
 
 |
 
@@ -63798,7 +63820,7 @@ Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések
 
 |
 
-6 450,0
+10 000,0
 
 |
 
@@ -64994,7 +65016,7 @@ XLIII. fejezet összesen:
 
 |
 
-226 390,0
+229 940,0
 
 |
 
@@ -66785,6 +66807,250 @@ LXIII. fejezet összesen:
 |
 
 355 140,6
+
+|
+
+|
+
+millió forintban
+
+|
+
+Cím
+
+|
+
+Al-
+
+cím
+
+szám
+
+|
+
+Jog-
+
+cím-
+
+csop. szám
+
+|
+
+Jog-
+
+cím
+
+szám
+
+|
+
+Elő-
+
+ir.
+
+csop.
+
+szám
+
+|
+
+Kie-
+
+melt
+
+előir.
+
+szám
+
+|
+
+Cím
+
+név
+
+|
+
+Al-
+
+cím
+
+név
+
+|
+
+Jog-
+
+cím-
+
+csop.
+
+név
+
+|
+
+Jog-
+
+cím
+
+név
+
+|
+
+Elő-
+
+ir.
+
+csop.
+
+név
+
+|
+
+LXIV. FEJEZET
+
+|
+
+2013. évi előirányzat
+
+|
+
+Kiemelt előirányzat neve
+
+|
+
+Kiadás
+
+|
+
+Bevétel
+
+|
+
+Támogatás
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+LXIV. SZÖVETKEZETI HITELINTÉZETEK INTEGRÁCIÓS ALAPJA
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Költségvetési támogatás
+
+|
+
+|
+
+135 499,6
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Szövetkezeti Hitelintézetek Integrációs Szervezete rendelkezésére bocsátott vagyoni hozzájárulás
+
+|
+
+135 000,0
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Működési kiadások
+
+|
+
+499,6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+LXIV. fejezet összesen:
+
+|
+
+135 499,6
+
+|
+
+135 499,6
 
 |
 
@@ -73604,7 +73870,7 @@ KIADÁSI FŐÖSSZEG:
 
 |
 
-16 376 150,9
+16 586 000,1
 
 |
 
@@ -73624,7 +73890,7 @@ BEVÉTELI FŐÖSSZEG:
 
 |
 
-15 325 316,1
+15 460 815,7
 
 |
 
@@ -73644,4 +73910,4 @@ A FŐÖSSZEGEK EGYENLEGE:
 
 |
 
--1 050 834,8
+–1 125 184,4

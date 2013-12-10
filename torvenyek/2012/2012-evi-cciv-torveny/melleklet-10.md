@@ -51,5 +51,3 @@ am) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményre 
 b) A nevelő-, oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 547 700 forint/számított létszám
 
 3. A finanszírozott pedagóguslétszám megállapításához szükséges – az óvoda kivételével – a nevelési-oktatási intézménybe járó, valamint a pedagógiai szakszolgálati intézmény által ellátott gyermekek, tanulók létszámának meghatározása
-
-A gyermek-, tanulólétszám meghatározásánál a nappali oktatás munkarendje szerint oktatott tanulót egy tanulóként, az esti oktatás munkarendje szerint tanulók számát kettővel, a levelező oktatás munkarendje szerint tanulók számát öttel elosztva, a kollégiumban ellátott – nappali oktatás munkarendje szerint oktatott – tanulót egy tanulóként kell figyelembe venni.
