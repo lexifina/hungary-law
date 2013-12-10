@@ -1,4 +1,4 @@
-## 22/A. §[^262] A Függelékek hatálya alá tartozó járműtulajdonságok, járműalkatrészek, önálló műszaki egységek és tartozékok jóváhagyására a 21. §, a 22. §, a 25. § és a 26. §-ban foglaltak helyett a Függelékek vonatkozó rendelkezéseit kell alkalmazni.
+## 22/A. §[^272] A Függelékek hatálya alá tartozó járműtulajdonságok, járműalkatrészek, önálló műszaki egységek és tartozékok jóváhagyására a 21. §, a 22. §, a 25. § és a 26. §-ban foglaltak helyett a Függelékek vonatkozó rendelkezéseit kell alkalmazni.
 
 ## IX. Fejezet
 
@@ -6,13 +6,13 @@
 
 ## Minősítő vizsgálat
 
-23. §[^263] (1)[^264] Az MR 9. § (4) bekezdésében meghatározott, közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészek és tartozékok – a (4)–(5) bekezdésekben foglalt kivételekkel – belföldi felhasználásra abban az esetben gyárthatók, forgalmazhatók és építhetők be a járművekbe, ha a minősítő vizsgálaton megfeleltek.
+23. §[^273] (1)[^274] Az MR 9. § (4) bekezdésében meghatározott, közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészek és tartozékok – a (4)–(5) bekezdésekben foglalt kivételekkel – belföldi felhasználásra abban az esetben gyárthatók, forgalmazhatók és építhetők be a járművekbe, ha a minősítő vizsgálaton megfeleltek.
 
-(2)[^265]
+(2)[^275]
 
-(3)[^266] A minősítő vizsgálaton megfelelőnek minősített pótalkatrészhez és tartozékhoz a közlekedési hatóság a 4. számú mellékletben meghatározott minősítő jel használatát engedélyezi.
+(3)[^276] A minősítő vizsgálaton megfelelőnek minősített pótalkatrészhez és tartozékhoz a közlekedési hatóság a 4. számú mellékletben meghatározott minősítő jel használatát engedélyezi.
 
-(4)[^267] A közlekedési hatóság minősítő vizsgálat mellőzésével – gyártmány és típus szerint – engedélyezheti a minősítő jel használatát a pótalkatrészhez, illetőleg tartozékhoz, ha vizsgálati eredménnyel vagy más hitelt érdemlő dokumentummal bizonyított módon közlekedésbiztonsági és környezetvédelmi szempontból az eredeti, gyári beépítésű alkatrésznek, illetőleg a hatályban lévő jogszabályoknak megfelelő műszaki értékűek.
+(4)[^277] A közlekedési hatóság minősítő vizsgálat mellőzésével – gyártmány és típus szerint – engedélyezheti a minősítő jel használatát a pótalkatrészhez, illetőleg tartozékhoz, ha vizsgálati eredménnyel vagy más hitelt érdemlő dokumentummal bizonyított módon közlekedésbiztonsági és környezetvédelmi szempontból az eredeti, gyári beépítésű alkatrésznek, illetőleg a hatályban lévő jogszabályoknak megfelelő műszaki értékűek.
 
 (5) Nem kell a minősítő vizsgálatot elvégezni azon a pótalkatrészen és tartozékon,
 
@@ -30,23 +30,23 @@ b) a gyártás egyenletességének ellenőrzésére kialakított rendszerét, to
 
 c) a forgalmazónál a műbizonylatok és minőségi tanúsítványok kezelésére kialakított rendszert.
 
-(7)[^268] A (6) bekezdés a) és b) pontjaiban foglaltak teljesítéseként el kell fogadni, ha a gyártó a terméket erre alkalmas vizsgálóintézettel rendszeresen ellenőrizteti, és a vizsgálóintézet az ellenőrzések eredményéről a közlekedési hatóságot tájékoztatja. Nem kell a (6) bekezdés a)–c) pontjaiban foglaltak teljesülését vizsgálni, ha a gyártó vagy a forgalmazó minőségbiztosítási rendszere akkreditált minősítő szervezet által kiadott tanúsítvány szerint folyamatosan érvényes.
+(7)[^278] A (6) bekezdés a) és b) pontjaiban foglaltak teljesítéseként el kell fogadni, ha a gyártó a terméket erre alkalmas vizsgálóintézettel rendszeresen ellenőrizteti, és a vizsgálóintézet az ellenőrzések eredményéről a közlekedési hatóságot tájékoztatja. Nem kell a (6) bekezdés a)–c) pontjaiban foglaltak teljesülését vizsgálni, ha a gyártó vagy a forgalmazó minőségbiztosítási rendszere akkreditált minősítő szervezet által kiadott tanúsítvány szerint folyamatosan érvényes.
 
-(8)[^269]
+(8)[^279]
 
 (9) A minősítő vizsgálaton megfelelőnek bizonyult pótalkatrészen, illetőleg tartozékon – ha ez nem lehetséges, annak csomagolásán – fel kell tüntetni a minősítő jelet. A minősítő jel csak a minősítő vizsgálaton megfelelőnek minősített mintadarabbal mindenben egyező pótalkatrészen, illetőleg tartozékon alkalmazható.
 
-(10)[^270] Az (5) bekezdés a) és b) pontjának hatálya alá tartozó pótalkatrész és tartozék minden darabját azonosításra alkalmas jelzéssel kell ellátni. Az azonosítás módjára vonatkozóan a közlekedési hatóság feltételeket határozhat meg.
+(10)[^280] Az (5) bekezdés a) és b) pontjának hatálya alá tartozó pótalkatrész és tartozék minden darabját azonosításra alkalmas jelzéssel kell ellátni. Az azonosítás módjára vonatkozóan a közlekedési hatóság feltételeket határozhat meg.
 
-(11)[^271] A közlekedési hatóság által elfogadott intézmény folyamatosan érvényes tanúsítványa szerinti minőségbiztosítási rendszerben gyártott és/vagy forgalmazott pótalkatrészre és tartozékra kiadott minősítő jel használatára vonatkozó engedély visszavonásig érvényes. A minősítő jel használatára vonatkozó engedély egyéb esetben a kibocsátásától számított öt évig, illetve az 1998. január 1. napja előtt kibocsátott engedély 2002. december 31. napjáig érvényes.
+(11)[^281] A közlekedési hatóság által elfogadott intézmény folyamatosan érvényes tanúsítványa szerinti minőségbiztosítási rendszerben gyártott és/vagy forgalmazott pótalkatrészre és tartozékra kiadott minősítő jel használatára vonatkozó engedély visszavonásig érvényes. A minősítő jel használatára vonatkozó engedély egyéb esetben a kibocsátásától számított öt évig, illetve az 1998. január 1. napja előtt kibocsátott engedély 2002. december 31. napjáig érvényes.
 
-[^262]: A 22/A. §-t a 11/2000. (V. 24.) KHVM rendelet 8. §-a iktatta a szövegbe, e módosító rendelet 12. § (2) bekezdésének a) pontja alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
-[^263]: A 23. § a 12/1998. (V. 22.) KHVM rendelet 16. §-ával megállapított szöveg.
-[^264]: A 23. § (1) bekezdése a 46/1999. (XII. 28.) KHVM rendelet 1.§-ának (8) bekezdésével megállapított szöveg.
-[^265]: A 23. § (2) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés h) pontja hatályon kívül helyezte.
-[^266]: A 23. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^267]: A 23. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés g) pontja szerint módosított szöveg.
-[^268]: A 23. § (7) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^269]: A 23. § (8) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés h) pontja hatályon kívül helyezte.
-[^270]: A 23. § (10) bekezdése a 46/1999. (XII. 28.) KHVM rendelet 1.§-ának (9) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^271]: A 23. § (11) bekezdése a 43/2001. (XII. 18.) KöViM rendelet 10. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^272]: A 22/A. §-t a 11/2000. (V. 24.) KHVM rendelet 8. §-a iktatta a szövegbe, e módosító rendelet 12. § (2) bekezdésének a) pontja alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^273]: A 23. § a 12/1998. (V. 22.) KHVM rendelet 16. §-ával megállapított szöveg.
+[^274]: A 23. § (1) bekezdése a 46/1999. (XII. 28.) KHVM rendelet 1.§-ának (8) bekezdésével megállapított szöveg.
+[^275]: A 23. § (2) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^276]: A 23. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^277]: A 23. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^278]: A 23. § (7) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^279]: A 23. § (8) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés h) pontja hatályon kívül helyezte.
+[^280]: A 23. § (10) bekezdése a 46/1999. (XII. 28.) KHVM rendelet 1.§-ának (9) bekezdésével megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^281]: A 23. § (11) bekezdése a 43/2001. (XII. 18.) KöViM rendelet 10. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés g) pontja szerint módosított szöveg.

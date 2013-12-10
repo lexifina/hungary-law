@@ -2,19 +2,19 @@
 
 ## Telephelyi ellenőrzés
 
-15. § (1)[^183] A közlekedési hatóság a jármű telephelyén is ellenőrizheti az olyan jármű műszaki közlekedésbiztonsági és környezetvédelmi állapotát (az MR. üzemeltetési műszaki feltételek megtartását), amelyet az üzembentartó menetkésznek nyilvánított. A közlekedési hatóság elnöke a végrehajtás egységessége érdekében a részletes műszaki feltételekről – a közlekedésért felelős miniszter jóváhagyásával – szabályzatot ad ki.
+15. § (1)[^193] A közlekedési hatóság a jármű telephelyén is ellenőrizheti az olyan jármű műszaki közlekedésbiztonsági és környezetvédelmi állapotát (az MR. üzemeltetési műszaki feltételek megtartását), amelyet az üzembentartó menetkésznek nyilvánított. A közlekedési hatóság elnöke a végrehajtás egységessége érdekében a részletes műszaki feltételekről – a közlekedésért felelős miniszter jóváhagyásával – szabályzatot ad ki.
 
 (2) A jármű üzembentartója köteles az (1) bekezdésben említett vizsgálatot lehetővé tenni és a vizsgálat elvégzése céljára a telephelyen rendelkezésre álló berendezéseket (emelő, mérőműszerek stb.) díjtalanul rendelkezésre bocsátani.
 
-(3)[^184] Ha a közlekedési hatóság a telephelyen végzett vizsgálat alapján megállapítja, hogy a jármű
+(3)[^194] Ha a közlekedési hatóság a telephelyen végzett vizsgálat alapján megállapítja, hogy a jármű
 
 a) a jogszabályban meghatározott műszaki, közlekedésbiztonsági és környezetvédelmi előírásoknak nem felel meg a járművet vizsgálatra rendeli,
 
-b)[^185] ha a jármű közúti forgalomban való részvétele közvetlen baleseti veszéllyel jár, a jármű forgalmi engedélyét érvényteleníti, az érvényesítő címkét eltávolítja, valamint ennek tényét elektronikus úton közli a Nyilvántartóval.
+b)[^195] ha a jármű közúti forgalomban való részvétele közvetlen baleseti veszéllyel jár, a jármű forgalmi engedélyét érvényteleníti, az érvényesítő címkét eltávolítja, valamint ennek tényét elektronikus úton közli a Nyilvántartóval.
 
-(4)[^186] Ha a telephelyen végzett vizsgálat alapján arra lehet következtetni, hogy a jármű a jogszabályban meghatározott műszaki feltételeknek nem felel meg, de az – a vizsgálati feltételek hiányában – egyértelműen nem állapítható meg, a közlekedési hatóság a járművet vizsgálatra rendelheti be.
+(4)[^196] Ha a telephelyen végzett vizsgálat alapján arra lehet következtetni, hogy a jármű a jogszabályban meghatározott műszaki feltételeknek nem felel meg, de az – a vizsgálati feltételek hiányában – egyértelműen nem állapítható meg, a közlekedési hatóság a járművet vizsgálatra rendelheti be.
 
-(5)[^187] A jármű telephelyén végzett ellenőrzés – az (1)–(4) bekezdésekben meghatározott műszaki ellenőrzésen kívül – kiterjedhet:
+(5)[^197] A jármű telephelyén végzett ellenőrzés – az (1)–(4) bekezdésekben meghatározott műszaki ellenőrzésen kívül – kiterjedhet:
 
 a) a hatósági engedély alapján végezhető, illetőleg bejelentési kötelezettség alá tartozó közúti közlekedési szolgáltatáshoz használt jármű üzemeltetésére vonatkozó feltételek, valamint
 
@@ -22,26 +22,26 @@ b) a nemzetközi forgalomban (is) résztvevő járműre és annak személyzetér
 
 c) a telephelyet elhagyni kívánó jármű esetében az előírt tömeg- és mérethatárok (ellenőrző mérlegelés)
 
-d)[^188] az üzemben tartott járművekre vonatkozó, a kötelező gépjármű-felelősségbiztosításról szóló törvényben előírt biztosítási kötelezettség
+d)[^198] az üzemben tartott járművekre vonatkozó, a kötelező gépjármű-felelősségbiztosításról szóló törvényben előírt biztosítási kötelezettség
 
 ## megtartásának ellenőrzésére.
 
-(6)[^189] A közlekedési hatóság jogosult az üzemeltetett járművekhez, a járművekkel közúton végzett tevékenységhez, valamint a járművek üzemeltetése során foglalkoztatott személyzethez tartozó okmányok, így különösen a menet- és fuvarokmányok, valamint a menetíró készülék adatrögzítő lapjainak az átvizsgálására.
+(6)[^199] A közlekedési hatóság jogosult az üzemeltetett járművekhez, a járművekkel közúton végzett tevékenységhez, valamint a járművek üzemeltetése során foglalkoztatott személyzethez tartozó okmányok, így különösen a menet- és fuvarokmányok, valamint a menetíró készülék adatrögzítő lapjainak az átvizsgálására.
 
-(7)[^190] A közlekedési hatóság az átvizsgált okmányokat – indokolással ellátott, tételes jegyzőkönyv felvétele mellett, legfeljebb 5 nap időtartamra – bevonhatja, amennyiben az érintett okmánnyal bizonyítható szabálysértés alapos gyanúja merül fel.
+(7)[^200] A közlekedési hatóság az átvizsgált okmányokat – indokolással ellátott, tételes jegyzőkönyv felvétele mellett, legfeljebb 5 nap időtartamra – bevonhatja, amennyiben az érintett okmánnyal bizonyítható szabálysértés alapos gyanúja merül fel.
 
-(8)[^191] E rendelet alkalmazásában telephelyi ellenőrzésnek minősül a (7) bekezdésben meghatározottak szerint bevont okmányoknak és adatoknak a közlekedési hatóság saját hivatalában elvégzett vizsgálata is.
+(8)[^201] E rendelet alkalmazásában telephelyi ellenőrzésnek minősül a (7) bekezdésben meghatározottak szerint bevont okmányoknak és adatoknak a közlekedési hatóság saját hivatalában elvégzett vizsgálata is.
 
-(9)[^192] A telephelyi ellenőrzés alapján a közlekedési hatóság – a szabálysértés jellegétől függően – a járművel a telephely elhagyását megtilthatja, közigazgatási hatósági eljárást folytathat le, szabálysértési eljárás lefolytatását kezdeményezheti, továbbá a külön jogszabályban[^193] meghatározottak szerint eljárhat.
+(9)[^202] A telephelyi ellenőrzés alapján a közlekedési hatóság – a szabálysértés jellegétől függően – a járművel a telephely elhagyását megtilthatja, közigazgatási hatósági eljárást folytathat le, szabálysértési eljárás lefolytatását kezdeményezheti, továbbá a külön jogszabályban[^203] meghatározottak szerint eljárhat.
 
-[^183]: A 15. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^184]: A 15. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^185]: A 15. § (3) bekezdés b) pontja a 18/2013. (V. 9.) NFM rendelet 15. §-a szerint módosított szöveg.
-[^186]: A 15. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^187]: A 15. § (5) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta a szövegbe.
-[^188]: A 15. § (5) bekezdés d) pontját a 18/2013. (V. 9.) NFM rendelet 10. §-a iktatta be.
-[^189]: A 15. § (6) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
-[^190]: A 15. § (7) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja, a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^191]: A 15. § új (8) bekezdését a 125/2005. (XII. 29.) GKM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (9) bekezdésre változtatva. A (8) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^192]: A 15. § (8) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta be, számozását (9) bekezdésre változtatta a 125/2005. (XII. 29.) GKM rendelet 1. §-a. A (9) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja, a 18/2013. (V. 9.) NFM rendelet 14. § h) pontja szerint módosított szöveg.
-[^193]: Lásd a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendelet 7. és 11. §-ait.
+[^193]: A 15. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^194]: A 15. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^195]: A 15. § (3) bekezdés b) pontja a 18/2013. (V. 9.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^196]: A 15. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^197]: A 15. § (5) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta a szövegbe.
+[^198]: A 15. § (5) bekezdés d) pontját a 18/2013. (V. 9.) NFM rendelet 10. §-a iktatta be.
+[^199]: A 15. § (6) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
+[^200]: A 15. § (7) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja, a 25/2010. (XII. 22.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^201]: A 15. § új (8) bekezdését a 125/2005. (XII. 29.) GKM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (9) bekezdésre változtatva. A (8) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^202]: A 15. § (8) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 7. §-a iktatta be, számozását (9) bekezdésre változtatta a 125/2005. (XII. 29.) GKM rendelet 1. §-a. A (9) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja, a 18/2013. (V. 9.) NFM rendelet 14. § h) pontja szerint módosított szöveg.
+[^203]: Lásd a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendelet 7. és 11. §-ait.
