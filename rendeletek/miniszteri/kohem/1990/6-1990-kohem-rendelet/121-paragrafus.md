@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-## 121. §[^188] Ez a rendelet
+## 121. §[^208] Ez a rendelet
 
 1. a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet 13. cikkének;
 
@@ -54,12 +54,22 @@
 
 26. a 661/2009/EK európai parlamenti és tanácsi rendeletnek az Egyesült Nemzetek Európai Gazdasági Bizottsága gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek, valamint önálló műszaki egységek típusjóváhagyásáról szóló bizonyos előírásainak felvétele tekintetében történő módosításáról szóló, 2012. június 20-i 523/2012/EU bizottsági rendelet;
 
-27. az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv szerinti alkatrész- és anyagkódolási szabványok létrehozásáról szóló, 2003. február 27-i 2003/138/EK bizottsági határozat;
+27.[^209] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv szerinti alkatrész- és anyagkódolási szabványok létrehozásáról szóló, 2003. február 27-i 2003/138/EK bizottsági határozat;
 
 28. a gyalogosok és más veszélyeztetett úthasználók gépjárművel való ütközést megelőző, illetve annak során történő védelméről és a 70/156/EGK tanácsi irányelv módosításáról szóló, 2003/102/EK európai parlamenti és tanácsi irányelv 3. cikke végrehajtásához szükséges műszaki előírásokról szóló, 2003. december 23-i 2004/90/EK bizottsági határozat;
 
-29. a gépjárművekre szerelt elülső védelmi rendszerek használatáról szóló 2005/66/EK európai parlamenti és tanácsi irányelvben előírt vizsgálatok elvégzésének részletes műszaki követelményeiről szóló, 2006. március 20-i 2006/368/EK bizottsági határozat
+29. a gépjárművekre szerelt elülső védelmi rendszerek használatáról szóló 2005/66/EK európai parlamenti és tanácsi irányelvben előírt vizsgálatok elvégzésének részletes műszaki követelményeiről szóló, 2006. március 20-i 2006/368/EK bizottsági határozat;
+
+30.[^210] a 661/2009/EK európai parlamenti és tanácsi rendeletnek a gépjárművek és azok pótkocsijainak tömegével és méreteivel kapcsolatos típus-jóváhagyási előírások tekintetében történő végrehajtásáról és a 2007/46/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. december 12-i 1230/2012/EU bizottsági rendelet;
+
+31.[^211] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a többlépcsős típus-jóváhagyási eljárásra benyújtott járművek széndioxid-kibocsátásának meghatározása tekintetében történő módosításáról szóló, 2013. február 19-i 143/2013/EU bizottsági rendelet;
+
+32.[^212] a 2007/46/EK európai parlamenti és tanácsi irányelvnek és a 692/2008/EK bizottsági rendeletnek a könnyű személygépjárművek és haszongépjárművek szén-dioxid-kibocsátásának csökkentésére szolgáló innovatív technológiák tekintetében történő módosításáról szóló, 2013. március 7-i 195/2013/EU bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^188]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
+[^208]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
+[^209]: A 121. § 27. pontja a 72/2013. (XII. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^210]: A 121. § 30. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^211]: A 121. § 31. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.
+[^212]: A 121. § 32. pontját a 72/2013. (XII. 2.) NFM rendelet 12. § (2) bekezdése iktatta be.

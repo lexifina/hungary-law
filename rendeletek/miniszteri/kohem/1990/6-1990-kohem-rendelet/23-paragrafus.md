@@ -4,9 +4,9 @@
 
 (2) A pótkocsi vonószerkezete a pótkocsi lekapcsolt helyzetében és menet közben történő szétkapcsolódás esetén sem érhet le a talajra.
 
-(3)[^81] Az egytengelyes, vagy a legfeljebb 1,00 méter tengelytávolságú és nem kormányzott kerekű kéttengelyes pótkocsit olyan másodlagos kapcsolószerkezettel is fel kell szerelni, amely menet közben történő szétkapcsolódás esetén biztosítja, hogy a vonószerkezet ne érjen le a talajra, a szerelvény ne váljon szét, és megállásig lehetővé teszi a pótkocsi irányítását.
+(3)[^82] Az egytengelyes, vagy a legfeljebb 1,00 méter tengelytávolságú és nem kormányzott kerekű kéttengelyes pótkocsit olyan másodlagos kapcsolószerkezettel is fel kell szerelni, amely menet közben történő szétkapcsolódás esetén biztosítja, hogy a vonószerkezet ne érjen le a talajra, a szerelvény ne váljon szét, és megállásig lehetővé teszi a pótkocsi irányítását.
 
-(4)[^82] A (3) bekezdésben meghatározott másodlagos kapcsolószerkezettel való felszerelés kötelezettsége nem vonatkozik a félpótkocsira, továbbá a 32. § (5) bekezdésében meghatározott, menet közbeni szétkapcsolódáskor automatikusan működésbelépő fékkel felszerelt pótkocsira.
+(4)[^83] A (3) bekezdésben meghatározott másodlagos kapcsolószerkezettel való felszerelés kötelezettsége nem vonatkozik a félpótkocsira, továbbá a 32. § (5) bekezdésében meghatározott, menet közbeni szétkapcsolódáskor automatikusan működésbelépő fékkel felszerelt pótkocsira.
 
-[^81]: A 23. § (3) bekezdése a 40/2002. (XII. 28.) GKM rendelet 5. §-ával megállapított szöveg.
-[^82]: A 23. § (4) bekezdését a 40/2002. (XII. 28.) GKM rendelet 5. §-a iktatta be.
+[^82]: A 23. § (3) bekezdése a 40/2002. (XII. 28.) GKM rendelet 5. §-ával megállapított szöveg.
+[^83]: A 23. § (4) bekezdését a 40/2002. (XII. 28.) GKM rendelet 5. §-a iktatta be.

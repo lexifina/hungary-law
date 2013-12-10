@@ -1,4 +1,4 @@
-15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^207]
+15. számú melléklet a 6/1990. (IV.12.) KöHÉM rendelethez[^231]
 
 ## Az emelt sebességhatárú autóbuszra vonatkozó engedélyezési műszaki feltételek
 
@@ -54,12 +54,4 @@ c) a biztonsági övek használatára az adott ülésből látható felirat vagy
 
 d) a vezetőülés fejtámasszal legyen ellátva;
 
-e) a vezető védve legyen az előrecsúszó/előrezuhanó tárgyak elöl;
-
-f) az utastéri csomagtartók kialakítása akadályozza meg a csomagok kiesését.
-
-9. Menetviselkedés
-
-Az autóbusz 100 km/h sebességű haladása közben rendellenes menetviselkedés (iránytartás, zajok és rezgések), szerkezeti elemek rendellenes működése nem léphet fel, menetstabilitása megfelelő legyen.
-
-[^207]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.
+[^231]: A 15. számú mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (4) bekezdése iktatta a szövegbe.

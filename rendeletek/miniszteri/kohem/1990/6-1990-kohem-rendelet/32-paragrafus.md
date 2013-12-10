@@ -1,6 +1,6 @@
 ## Pótkocsi fékezésére vonatkozó további műszaki feltételek
 
-32. § (1) A pótkocsi fékberendezéseinek ki kell elégíteniük a 10. számú mellékletben meghatározott fékezési követelményeket.
+32. § (1)[^103] A pótkocsi fékberendezéseinek ki kell elégíteniük a 10. számú mellékletben meghatározott fékezési követelményeket. A pótkocsinak fékezés szempontjából jóváhagyási jellel ellátottnak kell lennie.
 
 (2) A pótkocsit üzemi és rögzítő fékrendszerrel kell ellátni. Az egytengelyes, vagy a legfeljebb 1,00 méter tengelytávolságú, nem kormányzott kerekű kéttengelyes könnyű pótkocsit — a félpótkocsi kivételével — nem kell üzemi és rögzítő fékrendszerrel ellátni.
 
@@ -15,3 +15,5 @@
 (7) Sűrített levegővel működő fékrendszerek esetén a pótkocsi levegőszállító csatlakozói — kivéve a mezőgazdasági vontató és a lassú jármű pótkocsiját — csak kétvezetékes rendszerűek lehetnek. Ezt a rendelkezést csak az 1991. évi július hó 1. napja után engedélyezett pótkocsitípusokra kell alkalmazni.
 
 (8) A pótkocsi fékrendszereire egyebekben a 30. § rendelkezéseit kell — megfelelően — alkalmazni.
+
+[^103]: A 32. § (1) bekezdése a 72/2013. (XII. 2.) NFM rendelet 6. §-ával megállapított szöveg.

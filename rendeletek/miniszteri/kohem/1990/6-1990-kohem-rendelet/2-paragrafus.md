@@ -54,7 +54,7 @@ c) az autóbusz utasterének kialakítása és felszereltsége megfelel az A. F�
 
 (9a)[^10] A rendelet alkalmazásában versenyjármű: a sportról szóló 2004. évi I. törvény szerinti versenyrendszernek megfelelően versenyzési célra használt gépkocsi.
 
-(9b)[^11] A rendelet alkalmazásában csuklós lassújármű: csuklós szerkezettel állandóan összekapcsolt két vagy több merev részből álló lassújármű, ahol a merev részek szétválasztása csak erre használt eszközökkel lehetséges.
+(9b)[^11] E rendelet alkalmazásában csuklós lassújármű: csuklós szerkezettel állandóan összekapcsolt két vagy több merev részből álló lassújármű, ahol a merev részek szétválasztása csak műhelyben, erre használt eszközökkel lehetséges; a több merev tagból álló személyszállító lassújármű abban az esetben is csuklós járműnek tekinthető, ha az utasterek nem átjárhatók és a járműegységek pótkocsi kapcsoló berendezéssel vannak összekapcsolva.
 
 (10)[^12] A rendelet alkalmazásában az ENSZ–EGB előírás: a gépjármű-alkatrészek és -tartozékok minőségének jóváhagyására vonatkozó egyes feltételek elfogadásáról és a minőségi jóváhagyás kölcsönös elismeréséről szóló, Genfben, 1958. március 20-án aláírt többoldalú nemzetközi egyezmény kihirdetéséről szóló 1960. évi 21. törvényerejű rendelettel kihirdetett egyezményhez csatolt előírás.
 
@@ -72,7 +72,15 @@ c) az autóbusz utasterének kialakítása és felszereltsége megfelel az A. F�
 
 (17)[^20] A rendelet alkalmazásában alacsonynyomású mezőgazdasági gumiabroncs az olyan gumiabroncs, amelynek előírt üzemi nyomását a gyártója legfeljebb 3,0 bar értékben határozta meg, és ezeknek a gumiabroncsoknak a nyomása a jármű legnagyobb össztömegű terhelése esetén sem haladja meg a 3,0 bar-t.
 
-(18)[^21] A rendelet alkalmazásában mezőgazdasági pótkocsi a mezőgazdasági vontató vagy traktor által vontatott pótkocsi, továbbá a lassú jármű által vontatott olyan pótkocsi, amellyel rendszeresen mezőgazdasági termények szállítását végzik.
+(17a)[^21] E rendelet alkalmazásában téli gumiabroncs az olyan gumiabroncs, amelynek
+
+a) a gyártása során az anyagkeveréket, a futófelület mintázatát, a szerkezetét a téli időjárási körülményekhez és útviszonyokhoz választották meg annak érdekében, hogy alacsony hőmérséklet melletti rendeltetésszerű használata során fokozott kapaszkodóképességgel rendelkezzen,
+
+b) a gyártója téli abroncsként jelölte meg az oldalfalán a következő jelölések valamelyikével: „M+S”, „M&S”, „M.S”, „MS”, „Winter”, „Winter Use” felirat, „Hópihe” ábra, „Háromágú hegycsúcs” ábra, és
+
+c) a mintázat magassága (bordázat mélysége) meghaladja a 4 mm-t.
+
+(18)[^22] A rendelet alkalmazásában mezőgazdasági pótkocsi a mezőgazdasági vontató vagy traktor által vontatott pótkocsi, továbbá a lassú jármű által vontatott olyan pótkocsi, amellyel rendszeresen mezőgazdasági termények szállítását végzik.
 
 [^4]: A 2. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 40/2002. (XII. 28.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -81,7 +89,7 @@ c) az autóbusz utasterének kialakítása és felszereltsége megfelel az A. F�
 [^8]: A 2. § (6)–(11) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 6. §-a iktatta a szövegbe.
 [^9]: A 2. § új (9) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 1. §-a iktatta be, egyidejűleg az eredeti (9)–(12) bekezdés számozását (10)–(13) bekezdésre változtatva.
 [^10]: A 2. § (9a) bekezdését a 23/2012. (V. 8.) NFM rendelet 1. §-a iktatta be.
-[^11]: A 2. § (9b) bekezdését a 23/2012. (V. 8.) NFM rendelet 1. §-a iktatta be.
+[^11]: A 2. § (9b) bekezdését a 23/2012. (V. 8.) NFM rendelet 1. §-a iktatta be, szövege a 72/2013. (XII. 2.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § eredeti (9) bekezdésének számozását a 44/2001. (XII. 28.) KöViM rendelet 1. §-a (10) bekezdésre változtatta.
 [^13]: A 2. § (10) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (2) bekezdésével megállapított szöveg, számozását (11) bekezdésre változtatta a 44/2001. (XII. 18.) KöViM rendelet 1. §-a.
 [^14]: A 2. § (11) bekezdését a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (3) bekezdése állapította meg, mely egyidejűleg (12) bekezdést is iktatott be. A (11) bekezdés számozását (12) bekezdésre változtatta a 44/2001. (XII. 18.) KöViM rendelet 1. §-a; a (12) bekezdés a 40/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -91,4 +99,5 @@ c) az autóbusz utasterének kialakítása és felszereltsége megfelel az A. F�
 [^18]: A 2. § (15) bekezdését a 35/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
 [^19]: A 2. § (16) bekezdését a 67/2009. (XI. 27.) KHEM rendelet 1. §-a iktatta be.
 [^20]: A 2. § (17) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
-[^21]: A 2. § (18) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
+[^21]: A 2. § (17a) bekezdését a 72/2013. (XII. 2.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A 2. § (18) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
