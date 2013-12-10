@@ -1,0 +1,1 @@
+3. § A Kvtv. 3. melléklet 10. pontjában a „Kormány európai uniós támogatások felhasználásáért felelős tagja” szövegrész helyébe a „nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter” szöveg lép.
