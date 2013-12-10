@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-206-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2013-12-10 | 2013. évi CCVI. törvény | 2013-206-00-00.0 (közlönyállapot) |
+| 2013-12-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-206-00-00.1 |
