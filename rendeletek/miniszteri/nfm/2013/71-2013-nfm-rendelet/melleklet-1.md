@@ -1,0 +1,3 @@
+## végrehajtásához szükséges rendelkezéseket állapít meg.
+
+1. melléklet a 71/2013. (XII. 2.) NFM rendelethez
