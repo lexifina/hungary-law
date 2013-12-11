@@ -2,10 +2,9 @@
 
 ## 15. § Hatályát veszti az MR.
 
-a)[^3]
+a)[^7]
 
-b) 120. § 3–9., 11–36., 38–49., 88., 91–93. és 95. pontja,
+b)–c)[^8]
 
-c) A. Függelék 4. és 5. pontja.
-
-[^3]: A 15. § a) pontja a 16. § (2) bekezdése alapján 2013. december 31-én lép hatályba.
+[^7]: A 15. § a) pontja a 16. § (2) bekezdése alapján 2013. december 31-én lép hatályba.
+[^8]: A 15. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
