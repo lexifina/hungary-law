@@ -20,7 +20,7 @@ h) a nem magyar állampolgárságú fogvatartott tekintetében az állampolgárs
 
 i) a fogva tartás körülményeivel foglalkozó nemzetközi szervezet megbízott képviselője;
 
-j) az egyház, továbbá a bv. szervezettel együttműködő más szervezet (személy) képviselője;
+j)[^3] a vallási közösség, továbbá a bv. szervezettel együttműködő más szervezet (személy) képviselője;
 
 k) a bv. szerv ellátásával és a fogvatartottak foglalkoztatásával, valamint anyanyelvük szabad használatával összefüggésben tevékenységet végző személy;
 
@@ -30,7 +30,8 @@ m) a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: 
 
 n) a személyi állomány és a fogvatartottak sürgősségi vagy egyéb egészségügyi ellátásában szükségszerűen vagy engedéllyel együttműködő személy;
 
-o)[^3] a katona [a Büntető Törvénykönyvről szóló 2012. évi C. törvény 127. § (1) bekezdés] állományilletékes parancsnoka vagy annak megbízottja.
+o)[^4] a katona [a Büntető Törvénykönyvről szóló 2012. évi C. törvény 127. § (1) bekezdés] állományilletékes parancsnoka vagy annak megbízottja.
 
 [^2]: A 4. § e) pontja a 2/2009. (II. 10.) IRM rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^3]: A 4. § o) pontját a 61/2007. (XII. 23.) IRM rendelet 10. §-a iktatta be, szövege a 34/2013. (VI. 30.) BM rendelet 28. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § j) pontja a 68/2013. (XII. 10.) BM rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 4. § o) pontját a 61/2007. (XII. 23.) IRM rendelet 10. §-a iktatta be, szövege a 34/2013. (VI. 30.) BM rendelet 28. § b) pontja szerint módosított szöveg.
