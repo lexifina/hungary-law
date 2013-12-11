@@ -1,0 +1,1 @@
+## 6. § Az MNB – a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 23. § (2) bekezdése szerinti közzététel mellett – a honlapján nyilvánosságra hozza a díjazottak nevét és a díjazottaknak a díj adományozásának alapjául szolgáló érdemeit.
