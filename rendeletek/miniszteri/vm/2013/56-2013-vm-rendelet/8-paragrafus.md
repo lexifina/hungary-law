@@ -32,7 +32,7 @@ d) pályázó ügyfél-azonosítója.
 
 (6) A támogatásra vonatkozó döntést a Bíráló Bizottság javaslata alapján és bevonásával a miniszter hozza meg, és döntéséről értesíti a NAKVI-t.
 
-(7) A pályázatokat a benyújtási határidő utolsó napját követő hatvan naptári napon belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak lehetősége van a pályázati tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
+(7)[^2] A pályázatokat a benyújtási határidő utolsó napját követő százhúsz naptári napon belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak lehetősége van a pályázati tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
 
 (8) A támogatási döntésről – annak meghozatalát követő tíz naptári napon belül – a NAKVI írásban értesíti a pályázót.
 
@@ -49,3 +49,5 @@ d) nyertes pályázó ügyfél-azonosítója,
 e) a támogatási cél vagy célok megnevezése,
 
 f) a nyertes pályázó részére támogatási célonként megítélt támogatás forintban és euróban meghatározott összege.
+
+[^2]: A 8. § (7) bekezdése a 113/2013. (XII. 10.) VM rendelet 19. § (1) bekezdés b) pontja szerint módosított szöveg.
