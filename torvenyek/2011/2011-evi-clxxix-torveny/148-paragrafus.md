@@ -20,6 +20,6 @@ szolgáló előirányzatok évközi módosítása.
 
 (4)
 
-(5) Az Országos Választási Bizottság az eljárása során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását a törvényi feltételek fennállásáról.
+(5) A Nemzeti Választási Bizottság az eljárása során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását a törvényi feltételek fennállásáról.
 
 (6) Az Országgyűlés elutasító döntésének meghozatalától számított egy éven belül ismételt kérelem nem terjeszthető elő.
