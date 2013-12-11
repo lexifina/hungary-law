@@ -10,4 +10,4 @@
 
 (6)
 
-(7) Az európai parlamenti képviselőválasztáson jelöltként igazolt személy mentelmi jogának felfüggesztéséről az Országos Választási Bizottság határoz. Az indítványt az Országos Választási Bizottság elnökéhez kell benyújtani.
+(7) Az európai parlamenti képviselőválasztáson jelöltként igazolt személy mentelmi jogának felfüggesztéséről a Nemzeti Választási Bizottság határoz. Az indítványt a Nemzeti Választási Bizottság elnökéhez kell benyújtani.
