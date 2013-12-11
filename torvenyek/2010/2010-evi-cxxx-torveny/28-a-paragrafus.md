@@ -6,9 +6,9 @@ a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magy
 
 b) a jogegységi határozatokat, valamint a Kúria azon határozatait, amelyeknek a Magyar Közlönyben való közzétételét törvény felhatalmazása alapján a Kúria elrendelte,
 
-c) az Országos Választási Bizottság állásfoglalásait,
+c)
 
-d) a minősített adatot tartalmazó, valamint az érintetteknek közvetlenül megküldött határozatok kivételével az Országgyűlés, a köztársasági elnök, a Kormány, a miniszterelnök és az Országos Választási Bizottság nem normatív határozatait,
+d) a minősített adatot tartalmazó, valamint az érintetteknek közvetlenül megküldött határozatok kivételével az Országgyűlés, a köztársasági elnök, a Kormány, a miniszterelnök és a Nemzeti Választási Bizottság nem normatív határozatait,
 
 e) a miniszterek azon nem normatív határozatait, amelyeknek hivatalos lapban való közzétételét jogszabály elrendeli, és
 
