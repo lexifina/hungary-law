@@ -270,7 +270,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -328,7 +328,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -430,7 +430,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -482,7 +482,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -544,7 +544,7 @@
 
 | 0401 | Pándy Kálmán Megyei Kórház, Gyula |
 
-| 0502 | Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Miskolc |
+| 0509 | MISEK, Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktató Kórház |
 
 | 0643 | Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
