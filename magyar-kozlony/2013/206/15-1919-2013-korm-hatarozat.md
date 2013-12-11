@@ -1,0 +1,52 @@
+# A Kormány 1919/2013. (XII. 11.) Korm. határozata
+
+Magyar Közlöny 2013. évi 206. szám, 2013. december 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/29aa61adadda852f890a16b7ef3978a3a868a65b/dokumentumok/e1e996b40db6f29320173f47680ef82a1318ca2e/letoltes)
+
+---
+
+A Kormány 1919/2013. (XII. 11.) Korm. határozata
+a fertődi Esterházy-kastélyegyüttes hasznosításáról
+A Kormány annak érdekében, hogy a fertődi Esterházy-kastélyegyüttes a közép-európai régió, és – tágabban értelmezve –
+Európa, illetve a világ egyik kulturális-szellemi központja, s – mint ilyen – Magyarország egyik meghatározó kulturális-turisztikai
+helyszíne lehessen
+1. elfogadja az Esterházy család fraknói hercegi ágának tulajdonából származó műtárgyak jelenleg különböző
+gyűjteményekben, szétszórtan őrzött tárgyainak a fertődi Esterházy-kastélyegyüttesben történő elhelyezésének
+koncepcióját;
+2. az 1. pont szerinti koncepció megvalósítása érdekében felhívja a Miniszterelnökséget vezető államtitkárt, hogy
+tegye meg a szükséges intézkedéseket az Eszterháza Kulturális, Kutató- és Fesztiválközpont önálló költségvetési
+szervként történő megalapítása, és annak részeként
+a) az 1. pont szerinti műtárgyak állandó elhelyezése és bemutatása céljából, a muzeális intézményekről,
+a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.)
+alapján múzeum szakmai besorolású közgyűjtemény, valamint
+b) a Joseph Haydn életművét kutató és bemutató Haydn Kutatóközpont
+létrehozása érdekében;
+Felelős: Miniszterelnökséget vezető államtitkár
+Határidő: azonnal
+3. felhívja a Miniszterelnökséget vezető államtitkárt, hogy az emberi erőforrások miniszterével, valamint a budai
+Várbazár felújításának és a Várnegyed hosszú távú fejlesztési koncepciójának kidolgozásáért, valamint a fertődi
+Esterházy-kastély rekonstrukciójával kapcsolatos állami feladatok koordinálásáért felelős kormánybiztossal
+együttműködve
+a) – a Kultv.-re és különösen annak 38/B. §-ára figyelemmel – dolgozzon ki intézkedési tervet az Esterházy család
+fraknói hercegi ágához kötődő műtárgyak leltározása, áthelyezése és méltó elhelyezése tárgyában, különös
+tekintettel a rossz vagy közepes állapotú műtárgyakra,
+b) az a) pont szerinti műtárgyak szállításában, gondozásában segítse a megalakuló Eszterháza Kulturális, Kutató-
+és Fesztiválközpont munkáját,
+
+c) segítse elő a megalakuló Eszterháza Kulturális, Kutató- és Fesztiválközpont munkájában részt vevő, megfelelő
+képzettséggel és tapasztalattal rendelkező szakemberek alkalmazását;
+Felelős: Miniszterelnökséget vezető államtitkár
+emberi erőforrások minisztere
+a budai Várbazár felújításának és a Várnegyed hosszú távú fejlesztési koncepciójának
+kidolgozásáért, valamint a fertődi Esterházy-kastély rekonstrukciójával kapcsolatos állami
+feladatok koordinálásáért felelős kormánybiztos
+Határidő: folyamatos
+4. felhívja a nemzetgazdasági minisztert, hogy – a Miniszterelnökséget vezető államtitkárral és az emberi erőforrások
+miniszterével együttműködve – az 1. pont és a 3. pont a) alpontja szerinti műtárgyaknak a fertődi Esterházy-
+kastélyegyüttesben történő elhelyezéséhez, a műtárgyak átszállításához szükséges költségvetési forrás
+megteremtése érdekében tegye meg a szükséges intézkedéseket.
+Felelős: nemzetgazdasági miniszter
+Miniszterelnökséget vezető államtitkár
+emberi erőforrások minisztere
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
