@@ -26,7 +26,7 @@ k) a szennyeződött földterületek kezeléséhez szükséges intézkedések ka
 
 (2) Az Előirányzat terhére további kiadásként számolható el:
 
-a)[^2] a gazdálkodó szervezet, egyéni vállalkozó, mezőgazdasági őstermelő, családi gazdálkodó vagy egyház tulajdonában lévő ingatlanokban, a gazdálkodó szervezet, egyéni vállalkozó által gyártott vagy a gyártáshoz, szolgáltatáshoz, valamint a mezőgazdasági őstermelő, családi gazdálkodó termeléséhez szükséges felszerelésben, eszközökben, készletekben, valamint a forgalmazott termékekben, terményben, növényzetben és állatállományban esett károk enyhítése;
+a)[^3] a gazdálkodó szervezet, egyéni vállalkozó, mezőgazdasági őstermelő, családi gazdálkodó vagy egyházi jogi személy tulajdonában lévő ingatlanokban, a gazdálkodó szervezet, egyéni vállalkozó által gyártott vagy a gyártáshoz, szolgáltatáshoz, valamint a mezőgazdasági őstermelő, családi gazdálkodó termeléséhez szükséges felszerelésben, eszközökben, készletekben, valamint a forgalmazott termékekben, terményben, növényzetben és állatállományban esett károk enyhítése;
 
 b) a konyhakertekből be nem takarított terményekben keletkezett károk, valamint a természetes személyek tulajdonában lévő károsodott ingatlanokon tartott, elhullott haszonállat-állomány károk enyhítése, kivéve, ha a károsult a VM rendelet alapján jövedelempótló támogatásban részesült,
 
@@ -42,4 +42,4 @@ g) a belterületi mentesítés során megrongálódott, lebontott kerítések er
 
 (3) A belügyminiszter indokolt egyedi esetben a (2) bekezdés d) pontjában meghatározott értékhatáron túl is engedélyezheti az ingóságok pótlását az Előirányzat terhére.
 
-[^2]: A 3. § (2) bekezdés a) pontja a 38/2012. (VIII. 2.) BM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdés a) pontja a 38/2012. (VIII. 2.) BM rendelet 2. §-ával megállapított, a 68/2013. (XII. 10.) BM rendelet 6. § a) pontja szerint módosított szöveg.
