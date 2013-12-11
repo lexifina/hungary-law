@@ -2,7 +2,7 @@
 
 a) jogász végzettséggel rendelkezik,
 
-b) 45. életévét betöltötte, és
+b) 45. életévét betöltötte, de 70. életévét még nem töltötte be, és
 
 c) kiemelkedő tudású elméleti jogász (egyetemi tanár vagy a Magyar Tudományos Akadémia doktora), vagy legalább húszévi, jogi területen folytatott szakmai gyakorlattal rendelkezik.
 

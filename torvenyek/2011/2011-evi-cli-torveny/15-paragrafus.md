@@ -1,6 +1,6 @@
 15. § (1) Az Alkotmánybíróságban betöltött tagság megszűnik
 
-a) a 70. életév betöltésével, vagy
+a)
 
 b) a megbízatási időtartam leteltével.
 
@@ -18,7 +18,7 @@ e) felmentéssel vagy
 
 f) kizárással.
 
-(3) Ha az Alkotmánybíróság tagjának megbízatása az (1) bekezdés alapján szűnik meg, az Alkotmánybíróság új tagját a 8. § (1)–(3) bekezdésben foglaltak szerint kell megválasztani. Ha az Országgyűlés az Alkotmánybíróság új tagját a 8. § (3) bekezdésben meghatározott határidőig nem választja meg, az Alkotmánybíróság tagjának megbízatása az utódja hivatalba lépéséig meghosszabbodik. Ha az Alkotmánybíróság több tagjának szűnik meg egyidejűleg a megbízatása, mint ahány tagot az Országgyűlés a határidőig választ, az életkorban fiatalabb tag megbízatása hosszabbodik meg.
+(3)
 
 (4) Ha az Alkotmánybíróság tagjának megbízatása a (2) bekezdés alapján szűnik meg, az Alkotmánybíróság új tagját az Országgyűlés az Alkotmánybíróság volt tagja megbízatásának megszűnésétől számított hatvan napon belül választja meg.
 
