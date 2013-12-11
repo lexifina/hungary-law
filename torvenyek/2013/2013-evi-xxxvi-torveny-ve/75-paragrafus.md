@@ -1,6 +1,6 @@
 ## 33. A választási irodák feladatai
 
-75. § A választási irodák
+75. § (1) A választási irodák
 
 a) ellátják a választás előkészítésével, lebonyolításával kapcsolatos szervezési feladatokat,
 
@@ -21,3 +21,5 @@ h) az adatvédelem és az informatikai biztonság követelményeinek biztosítá
 i) a technikai háttér biztosításával segítséget nyújtanak a szavazatok összesítéséhez, a választás eredményének megállapításához,
 
 j) ellátják a jogszabályokban meghatározott egyéb feladatokat.
+
+(2) A fővárosi és megyei kormányhivatal a miniszter rendeletében meghatározottak szerint közreműködik a választásokkal összefüggő informatikai feladatok ellátásában.

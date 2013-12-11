@@ -1,0 +1,1 @@
+147/B. § A 147/A. §-ban foglalt rendelkezéseket az Európai Parlament tagjainak választásán is alkalmazni kell azzal, hogy a rendelkezésre álló műsoridő tartama az összes lista és az összes közszolgálati médiaszolgáltató tekintetében együttesen háromszáz perc.

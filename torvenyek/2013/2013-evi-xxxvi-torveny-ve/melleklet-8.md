@@ -14,13 +14,9 @@
 
 ## db) személyi azonosítóját,
 
-## dc) magyarországi lakcímét,
+## dc) születési nevét,
 
-## dd) anyja nevét,
-
-## de) születési helyét,
-
-## df) névjegyzékbeli sorszámát,
+## dd)–df)
 
 ## e) a választópolgár részére átadandó szavazólapok megjelölését,
 
@@ -50,12 +46,12 @@
 
 ## de) születési helyét és idejét,
 
-## df) névjegyzékbeli sorszámát,
+## df)
 
 ## dg) értesítési címét,
 
 ## e) annak megjelölését, ha a választópolgár a szavazási levélcsomag személyes átvételét kérte, valamint az átvételre megjelölt település megjelölését,
 
-## f) a választópolgár részére megküldendő szavazólapok megjelölését,
+## f)
 
 ## g) a levélben szavazók névjegyzékében szereplő választópolgárok számát.

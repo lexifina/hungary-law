@@ -4,7 +4,7 @@
 
 (2) A mozgóurna iránti kérelemnek
 
-a) a választás kitűzését követően, de legkésőbb a szavazást megelőző második napon kell megérkeznie a helyi választási irodához vagy
+a) a választás kitűzését követően, de legkésőbb a szavazást megelőző második napon kell megérkeznie ahhoz a helyi választási irodához, amelynek szavazóköri névjegyzékében szerepel vagy
 
 b) a szavazás napján, legkésőbb 15 óráig kell megérkeznie a szavazatszámláló bizottsághoz.
 

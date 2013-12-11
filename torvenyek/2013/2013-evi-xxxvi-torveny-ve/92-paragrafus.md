@@ -16,7 +16,7 @@ b) a magyarországi lakcímmel nem rendelkező választópolgár esetében
 
 ba) azt a postacímet, ahova a szavazási levélcsomag postai úton való megküldését kéri, vagy
 
-bb) annak a – 277. § (3) bekezdése szerinti – településnek, illetve külképviseletnek a megjelölését, ahol a szavazási levélcsomagot át kívánja venni.
+bb) annak a – 277. § (2) bekezdése szerinti – településnek, illetve külképviseletnek a megjelölését, ahol a szavazási levélcsomagot át kívánja venni.
 
 (2) A magyarországi lakcímmel nem rendelkező választópolgár köteles megadni, a magyarországi lakcímmel rendelkező választópolgár megadhatja a postacímét, email címét vagy telefax számát, ahova a 95. § (3) bekezdése szerinti értesítés megküldését kéri.
 

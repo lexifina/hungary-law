@@ -22,6 +22,8 @@
 
 9. név: házassági családi és utónév, ennek hiányában, valamint az anyja neve esetén a születési családi és utónév,
 
+9a. országosan elérhető médiaszolgáltatás: az a médiaszolgáltatás, amely Magyarország lakosságának legalább ötven százaléka számára elérhető,
+
 10. polgármester: a polgármester és a főpolgármester,
 
 11. település: a község, a város, járásszékhely város, megyei jogú város és a fővárosi kerület,

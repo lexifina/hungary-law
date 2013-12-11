@@ -18,9 +18,7 @@
 
 ## fb) születési nevét,
 
-## fc) születési helyét,
-
-## fd) anyja nevét,
+## fc)–fd)
 
 ## fe) személyi azonosítóját,
 
@@ -28,10 +26,12 @@
 
 ## fg) által a 88. § szerint igényelt szavazási segítség megjelölését,
 
-## fh) névjegyzékbeli sorszámát,
+## fh)
 
-## g) az országgyűlési képviselők választásán átjelentkezéssel szavazó választópolgár lakcíme szerinti országgyűlési egyéni választókerület megjelölését,
+## g)
 
-## h) a szavazóköri névjegyzékben szereplő választópolgárok számát.
+## h) a szavazóköri névjegyzékben szereplő választópolgárok számát,
+
+## i) a 257. § (1b) bekezdésében foglalt esetben annak megjelölését, hogy a választópolgár csak egyéni választókerületi szavazólapon szavazhat.
 
 4. melléklet a 2013. évi XXXVI. törvényhez

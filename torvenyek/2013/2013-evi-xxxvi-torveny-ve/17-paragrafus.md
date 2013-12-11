@@ -10,7 +10,7 @@ d) a Nemzeti Választási Bizottságnak csak magyarországi
 
 lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár lehet tagja.
 
-(2) A választási bizottság választott tagja az lehet, aki az országgyűlési képviselők választásán jelöltként indulhat.
+(2) A választási bizottság választott tagja és a Nemzeti Választási Bizottság megbízott tagja az lehet, aki az országgyűlési képviselők választásán jelöltként indulhat.
 
 (3) A Nemzeti Választási Bizottság választott tagja az lehet, aki a (2) bekezdésben foglalt feltételnek megfelel és jogi egyetemi diplomával rendelkezik.
 

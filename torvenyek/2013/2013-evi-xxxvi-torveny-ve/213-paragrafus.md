@@ -1,6 +1,6 @@
 ## 95. A kifogás áttétele
 
-213. § (1) Ha a választási bizottság megítélése szerint a kifogás elbírálására nem az a választási bizottság illetékes, amelyhez azt benyújtották, a választási bizottság az ügyet – legkésőbb a beérkezését követő napon – jegyzőkönyvbe foglalt döntéssel átteszi az annak elbírálására illetékes választási bizottsághoz. A választási bizottság köteles eljárni a hozzá áttett ügyben.
+213. § (1) Ha a választási bizottság megítélése szerint a kifogás elbírálására nem rendelkezik hatáskörrel és illetékességgel, az ügyet – legkésőbb a beérkezését követő napon – jegyzőkönyvbe foglalt döntéssel átteszi az annak elbírálására hatáskörrel és illetékességgel rendelkező választási bizottsághoz. A választási bizottság köteles eljárni a hozzá áttett ügyben.
 
 (2) A választási bizottság az (1) bekezdés szerinti hatáskörét – jegyzőkönyvbe foglalt döntéssel – a bizottság elnökére átruházhatja.
 

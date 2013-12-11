@@ -12,4 +12,4 @@
 
 (6) A szavazás felfüggesztésének tényéről a Nemzeti Választási Irodát a szavazás törvényes folytatásának biztosítása érdekében haladéktalanul értesíteni kell.
 
-(7) A külképviseleti választási iroda vezetője az urnába ellenőrző lapot helyez, amely tartalmazza az ellenőrző lap elhelyezésének időpontját, valamint a külképviseleti választási iroda jelen levő tagjainak és az elsőként szavazó választópolgárnak az aláírását.
+(7) A külképviseleti választási iroda az urnába ellenőrző lapot helyez, amely tartalmazza az ellenőrző lap elhelyezésének időpontját, valamint a külképviseleti választási iroda jelen levő tagjainak és az elsőként szavazó választópolgárnak az aláírását.
