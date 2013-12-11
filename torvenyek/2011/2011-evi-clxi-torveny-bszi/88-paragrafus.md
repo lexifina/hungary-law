@@ -4,7 +4,7 @@
 
 ## 26. Az OBT létszáma, összetétele
 
-88. § (1) Az OBT a bíróságok központi igazgatásának felügyeleti testülete.
+88. § (1) Az OBT a bíróságok központi igazgatásának felügyeleti testülete. Az OBT a felügyeleti feladatai mellett közreműködik a bíróságok igazgatásában.
 
 (2) Az OBT székhelye Budapest.
 
