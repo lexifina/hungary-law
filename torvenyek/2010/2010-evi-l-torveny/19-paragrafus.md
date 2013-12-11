@@ -1,5 +1,3 @@
-## 5. A megyei közgyűlés tagjainak választása
-
 19. § (1) A megyei listák a leadott szavazatok arányában, a 17. § (2) bekezdésében meghatározott számítási mód alapján jutnak mandátumhoz.
 
 (2) Nem kap mandátumot

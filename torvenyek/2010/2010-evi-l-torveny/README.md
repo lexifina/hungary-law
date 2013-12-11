@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-50-00-00
 | 2012-01-01 | 2011. évi CLXXIX. törvény | 2010-50-00-00.3 |
 | 2013-05-03 | 2013. évi XXXVI. törvény | 2010-50-00-00.4 |
 | 2013-06-21 | 2013. évi LXXXIX. törvény | 2010-50-00-00.5 |
+| 2013-12-11 | 2013. évi CCVII. törvény | 2010-50-00-00.6 |

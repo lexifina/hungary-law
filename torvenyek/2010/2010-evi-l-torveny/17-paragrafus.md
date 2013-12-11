@@ -1,5 +1,3 @@
-## 4. A fővárosi közgyűlés tagjainak választása
-
 17. § (1) A fővárosi listák a listákra leadott szavazatok arányában kapnak mandátumot.
 
 (2) A mandátum számítás módja:

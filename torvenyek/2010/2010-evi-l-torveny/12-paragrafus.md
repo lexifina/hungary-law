@@ -6,4 +6,6 @@
 
 12. § (1) A polgármestert és a főpolgármestert a települések választópolgárai közvetlenül választják.
 
+(1a) A polgármester és a főpolgármester választásának szavazólapján a választópolgár egy jelöltre szavazhat.
+
 (2) Polgármester, főpolgármester az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta.
