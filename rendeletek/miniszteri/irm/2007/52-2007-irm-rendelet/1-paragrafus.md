@@ -18,7 +18,7 @@ g) biztosítja a menekültügyi eljárás lefolytatásához szükséges személy
 
 h) a menedékjogról szóló 2007. évi LXXX. törvényben (a továbbiakban: Tv.), valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendeletben meghatározottak szerint ellátást és támogatást nyújt az elismerését kérő, a menekült, az oltalmazott és a menedékes részére;
 
-i)[^2] együttműködik az elismerését kérő, valamint a menekült, az oltalmazott és a menedékes ellátásában résztvevő, illetve szerepet vállaló fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával, a települési önkormányzatokkal, a fővárosban a fővárosi kerületi önkormányzatokkal, továbbá a gyámhatóságokkal, a civil szervezetekkel és az egyházakkal, valamint – törvényben meghatározott feladataik ellátása érdekében – a rendvédelmi szervekkel és a nemzetbiztonsági szolgálatokkal;
+i)[^2] együttműködik az elismerését kérő, valamint a menekült, az oltalmazott és a menedékes ellátásában résztvevő, illetve szerepet vállaló fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával, a települési önkormányzatokkal, a fővárosban a fővárosi kerületi önkormányzatokkal, továbbá a gyámhatóságokkal, a civil szervezetekkel és egyházi jogi személyekkel, valamint – törvényben meghatározott feladataik ellátása érdekében – a rendvédelmi szervekkel és a nemzetbiztonsági szolgálatokkal;
 
 j) együttműködik a menekültügyben érintett állami szervekkel és társadalmi szervezetekkel, továbbá a hazai és nemzetközi menekültügyi és migrációs szervezetekkel;
 
@@ -31,6 +31,6 @@ l)[^4] nemzeti kapcsolattartó pontként ellátja az Európai Menekültügyi Tá
 (4) A Hivatal a (3) bekezdés szerinti képzés keretében biztosítja, hogy a személyi állomány menekültügyi hatósági, ellátási, valamint integrációs feladatokat ellátó tagjai hozzájussanak a különleges bánásmódot igénylő elismerését kérő, menekült, oltalmazott és menedékes sajátos szükségleteihez igazodó speciális ismeretekhez.
 
 [^1]: Az 1. § (2) bekezdés e) pontja a 33/2013. (VI. 28.) BM rendelet 5. §-ával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés i) pontja a 71/2012. (XII. 14.) BM rendelet 7. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés i) pontja a 71/2012. (XII. 14.) BM rendelet 7. §-ával megállapított, a 68/2013. (XII. 10.) BM rendelet 5. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés k) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdés l) pontját a 23/2011. (VII. 21.) BM rendelet 4. § (1) bekezdése iktatta be.
