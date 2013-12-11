@@ -42,10 +42,12 @@ i) hálóban a takarodótól az ébresztőig,
 
 j) a készenléti szolgálati idő alatt a közvetlen készenléti szolgálati elöljáró felé, amennyiben a szolgálatváltáskor a tiszteletadás megtörtént,
 
-k) színház-, mozi-, hangversenyterem, sportpálya nézőterén, társadalmi rendezvényeken és egyházi szertartásokon,
+k)[^2] színház-, mozi-, hangversenyterem, sportpálya nézőterén, társadalmi rendezvényeken és vallási közösség által végzett vallásos szertartásokon,
 
 l) szolgálati és magángépjárművek utasterében és kerékpározás közben,
 
 m) tömegközlekedési eszközökre történő fel- vagy leszállás közben vagy ha az balesetveszélyt jelent.
 
 (6) A kapuügyeleti szolgálatot teljesítő katasztrófavédelmi hivatásos állományú a hivatásos katasztrófavédelmi szerv épületébe be- és kilépő személyek felé minden esetben tiszteletadást teljesít. A civil személyek felé felállással, udvarias, a napszaknak megfelelő köszöntéssel, a fegyveres szervek hivatásos állományú tagjai felé a 13. § (1) bekezdésben foglaltak szerint jelentkezik.
+
+[^2]: A 16. § (5) bekezdés k) pontja a 68/2013. (XII. 10.) BM rendelet 7. §-a szerint módosított szöveg.
