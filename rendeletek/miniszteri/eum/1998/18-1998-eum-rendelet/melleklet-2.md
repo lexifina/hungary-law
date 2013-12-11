@@ -1,4 +1,4 @@
-2. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^72]
+2. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^73]
 
 ## Az agyhalál megállapítása
 
@@ -42,7 +42,7 @@ IV. vestibulo ocularis reflex. Vizsgálata kalorikus ingerléssel, vagy az ún. 
 
 ## V. köhögési reflex a garat, trachea, bronchus ingerlésével, az endotrachealis tubuson keresztül alkalmazott mély leszívási kísérlettel.
 
-c) Hiányzik a spontán légzés és a légzőközpont bénulása apnoe-teszttel igazolható. Az apnoe-teszt kivitelezése: az artériás pCO2 szintet élettani, 38–42 mmHg-re kell beállítani. A pCO2 szint normalizálódása után tíz percen keresztül 100%-os oxigén belélegeztetésével szöveti oxigéntelítettséget kell biztosítani. Ezt követően a lélegeztető géptől elválasztott beteg intratrachealis tubusába vezetett katéteren keresztül 6 liter/perc mennyiségben 100% oxigén áramoltatása mellett kell figyelni a spontán légző mozgás jelentkezését. Eközben ismételt vizsgálattal nyomon kell követni az artériás vér pCO2 szintjét. Ha 60 mmHg fölötti artériás pCO2 érték mellett sem jelentkezik légző mozgás, bizonyított a légzőközpont ingerelhetetlensége. Hyperkapniával járó kórelőzmény esetén a tesztet megelőző pCO2 szint a kiindulási érték. Ha a tesztet megelőző pCO2 szinthez képest 20 Hgmm-rel megnövelt artériás pCO2 érték mellett sem jelentkezik légző mozgás, bizonyítottnak tekintendő a légzőközpont ingerelhetetlensége.
+c) Hiányzik a spontán légzés és a légzőközpont bénulása apnoe-teszttel igazolható. Az apnoe-teszt kivitelezése: az artériás pCO2 szintet élettani, 38–42 Hgmm-re kell beállítani. A pCO2 szint normalizálódása után tíz percen keresztül 100%-os oxigén belélegeztetésével szöveti oxigéntelítettséget kell biztosítani. Ezt követően a lélegeztető géptől elválasztott beteg intratrachealis tubusába vezetett katéteren keresztül 6 liter/perc mennyiségben 100% oxigén áramoltatása mellett kell figyelni a spontán légző mozgás jelentkezését. Eközben ismételt vizsgálattal nyomon kell követni az artériás vér pCO2 szintjét. Ha 60 Hgmm fölötti artériás pCO2 érték mellett sem jelentkezik légző mozgás, bizonyított a légzőközpont ingerelhetetlensége. Hyperkapniával járó kórelőzmény esetén a tesztet megelőző pCO2 szint a kiindulási érték. Ha a tesztet megelőző pCO2 szinthez képest 20 Hgmm-rel megnövelt artériás pCO2 érték mellett sem jelentkezik légző mozgás, bizonyítottnak tekintendő a légzőközpont ingerelhetetlensége.
 
 3. A hiányzó agyműködés irreverzibilitásának bizonyítása. Ez vagy kizárólag a klinikai tünetek és a kórlefolyás megfigyelésével, vagy a klinikai tünetek mellett kiegészítő műszeres vizsgálatok révén történik.
 
@@ -68,4 +68,4 @@ II. Tc99m HMPAO-val készített perfúziós szcintigram: nincs intrakraniális i
 
 III. négyér angiográfia: az angiogrammokon nincs cerebrális értelődés
 
-[^72]: A 2. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^73]: A 2. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (1) bekezdésével megállapított, a 76/2013. (XII. 10.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
