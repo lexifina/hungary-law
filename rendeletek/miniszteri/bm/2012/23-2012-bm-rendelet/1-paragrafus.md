@@ -8,7 +8,7 @@ a) egyesület a párt kivételével,
 
 b) köztestület,
 
-c) egyház és belső egyházi jogi személy,
+c)[^2] egyházi jogi személy,
 
 d) alapítvány,
 
@@ -35,3 +35,4 @@ n) kormányközi szervezet és
 o) gazdasági társaság abban az esetben, ha az általa végrehajtott projektet nonprofit módon hajtja végre.
 
 [^1]: Az 1. § (1) bekezdése a 12/2013. (IV. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés c) pontja a 68/2013. (XII. 10.) BM rendelet 8. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 2. §[^2] E rendelet alkalmazásában
+## 2. §[^3] E rendelet alkalmazásában
 
 1. Ellenőrzési Hatóság: az Európai Támogatásokat Auditáló Főigazgatóság;
 
@@ -46,4 +46,4 @@
 
 23. Visszatérési Alap: a 2007/575/EK európai parlamenti és tanácsi határozattal létrehozott alap.
 
-[^2]: A 2. § a 12/2013. (IV. 23.) BM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § a 12/2013. (IV. 23.) BM rendelet 2. §-ával megállapított szöveg.

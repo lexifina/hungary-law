@@ -10,9 +10,9 @@ ba) helyi önkormányzatok, nemzetiségi önkormányzatok, önkormányzatok tár
 
 bb) költségvetési szerv esetében a költségvetési szerv írásbeli nyilatkozata arról, hogy ha a projekt részben vagy egészben meghiúsulna, vagy ha a támogatást szabálytalanul használja fel, akkor a támogatást visszafizeti, és tudomásul veszi, hogy ennek elmulasztása esetén annak összege a számára a központi költségvetésből biztosított támogatásból levonásra kerül,
 
-bc) egyházak és intézményeik, az alapítványok és intézményeik, közalapítványok és intézményeik, nonprofit gazdasági társaságok, köztestületek, valamint egyesületek esetében a végső kedvezményezett írásbeli nyilatkozata arról, hogy ha a projekt részben vagy egészben meghiúsul, vagy ha a támogatást szabálytalanul használja fel, akkor a támogatást intézkedés szerint visszafizeti, és tudomásul veszi, hogy ennek elmulasztása esetén annak összege a számára a központi költségvetésből biztosított támogatásból levonásra kerül,
+bc)[^21] egyházi jogi személyek, az alapítványok és intézményeik, közalapítványok és intézményeik, nonprofit gazdasági társaságok, köztestületek, valamint egyesületek esetében a végső kedvezményezett írásbeli nyilatkozata arról, hogy ha a projekt részben vagy egészben meghiúsul, vagy ha a támogatást szabálytalanul használja fel, akkor a támogatást intézkedés szerint visszafizeti, és tudomásul veszi, hogy ennek elmulasztása esetén annak összege a számára a központi költségvetésből biztosított támogatásból levonásra kerül,
 
-bd)[^20] a végső kedvezményezett írásbeli nyilatkozata arról, hogy vele szemben – nyilatkozattételkor – az államháztartásról szóló törvény szerinti támogatási rendszerből való kizárás hatálya nem áll fenn.
+bd)[^22] a végső kedvezményezett írásbeli nyilatkozata arról, hogy vele szemben – nyilatkozattételkor – az államháztartásról szóló törvény szerinti támogatási rendszerből való kizárás hatálya nem áll fenn.
 
 (2) A beszedési megbízás benyújtására való felhatalmazás adására kötelezett végső kedvezményezett köteles valamennyi, Magyarországon vezetett fizetési számlája számát közölni és – felhatalmazó levél útján – valamennyi fizetési számlája tekintetében beszedési megbízás érvényesítésének jogára felhatalmazni a Felelős Hatóságot, figyelembe véve az (1) bekezdés a) pontjában foglaltakat.
 
@@ -22,4 +22,5 @@ bd)[^20] a végső kedvezményezett írásbeli nyilatkozata arról, hogy vele sz
 
 (5) A támogatási összeg – ideértve az előleget is – első folyósítása csak akkor engedélyezhető, ha a biztosítékok a szerződésben foglaltak szerint rendelkezésre állnak.
 
-[^20]: Az 57. § (1) bekezdés b) pont bd) alpontja a 12/2013. (IV. 23.) BM rendelet 12. §-a szerint módosított szöveg.
+[^21]: Az 57. § (1) bekezdés b) pont bc) alpontja a 68/2013. (XII. 10.) BM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^22]: Az 57. § (1) bekezdés b) pont bd) alpontja a 12/2013. (IV. 23.) BM rendelet 12. §-a szerint módosított szöveg.
