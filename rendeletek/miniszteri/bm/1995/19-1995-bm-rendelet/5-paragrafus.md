@@ -14,9 +14,9 @@ c) az emberi élet kioltására, illetve testi sérülés okozására alkalmas e
 
 (5) A fogvatartott nem kötelezhető látogató fogadására.
 
-(6)[^28] A fogvatartott látogatásából ki kell zárni azt a személyt, akivel szemben a fogvatartottal azonos ügyben folyik büntetőeljárás, valamint azt, akivel a kapcsolattartás a fogvatartottal szemben folyamatban lévő büntetőeljárás eredményességét veszélyeztetné. A kizárás kimondására a fogvatartás alapjául szolgáló eljárást folytató szerv vezetője, illetve az ügyész, a vádirat benyújtása után a bíróság jogosult.
+(6)[^30] A fogvatartott látogatásából ki kell zárni azt a személyt, akivel szemben a fogvatartottal azonos ügyben folyik büntetőeljárás, valamint azt, akivel a kapcsolattartás a fogvatartottal szemben folyamatban lévő büntetőeljárás eredményességét veszélyeztetné. A kizárás kimondására a fogvatartás alapjául szolgáló eljárást folytató szerv vezetője, illetve az ügyész, a vádirat benyújtása után a bíróság jogosult.
 
-(7)[^29] A védő a rendőrségi fogdában fogva tartott védencével való érintkezése során hangrögzítő eszközt magánál tarthat, a védelem ellátása körében az általa készített hangfelvételt a fogdából ellenőrzés nélkül kiviheti
+(7)[^31] A védő a rendőrségi fogdában fogva tartott védencével való érintkezése során hangrögzítő eszközt magánál tarthat, a védelem ellátása körében az általa készített hangfelvételt a fogdából ellenőrzés nélkül kiviheti
 
-[^28]: Az 5. § (6) bekezdése a 23/2001. (X. 11.) BM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alakalmazni kell.
-[^29]: Az 5. § (7) bekezdését a 12/1996. (VI. 28.) BM rendelet 1. §-a ikatatta a szövegbe.
+[^30]: Az 5. § (6) bekezdése a 23/2001. (X. 11.) BM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alakalmazni kell.
+[^31]: Az 5. § (7) bekezdését a 12/1996. (VI. 28.) BM rendelet 1. §-a ikatatta a szövegbe.

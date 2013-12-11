@@ -1,4 +1,4 @@
-7. § (1)[^35] A 2. § (1) bekezdésének c) pontja szerinti csomag fogadására egy naptári héten belül legfeljebb két alkalommal, egy munkanapon és egy munkaszüneti vagy pihenőnapon kerülhet sor.
+7. § (1)[^37] A 2. § (1) bekezdésének c) pontja szerinti csomag fogadására egy naptári héten belül legfeljebb két alkalommal, egy munkanapon és egy munkaszüneti vagy pihenőnapon kerülhet sor.
 
 (2) Csomagban továbbítható a fogvatartott részére
 
@@ -6,10 +6,10 @@ a) olyan, szobahőmérsékleten nem romlandó, kereskedelemben forgalmazott, alk
 
 b) ruházati cikk és egyéb olyan tárgy, amelyet a fogvatartott e rendelet melléklete szerint magánál tarthat.
 
-(3)[^36] A csomag tartalmát – a csomag átadójának, postai küldemény esetén címzettjének jelenlétében felnyitva – ellenőrizni kell. Az (1) bekezdés értelmében legfeljebb engedélyezhetőt meghaladó számú, valamint a (2) bekezdés szerint nem engedélyezhető élelmiszert tartalmazó csomag továbbítását meg kell tagadni, azt a csomagot hozó személynek vissza kell adni, illetve a feladó részére – utánvétellel – vissza kell küldeni.
+(3)[^38] A csomag tartalmát – a csomag átadójának, postai küldemény esetén címzettjének jelenlétében felnyitva – ellenőrizni kell. Az (1) bekezdés értelmében legfeljebb engedélyezhetőt meghaladó számú, valamint a (2) bekezdés szerint nem engedélyezhető élelmiszert tartalmazó csomag továbbítását meg kell tagadni, azt a csomagot hozó személynek vissza kell adni, illetve a feladó részére – utánvétellel – vissza kell küldeni.
 
-(4)[^37] A nem postai úton érkező csomag átvételére, illetve átadására munkanapon a fogvatartást végrehajtó szerv hivatali idejében, munkaszüneti és pihenőnapon a fogvatartásért felelős által meghatározott időben kerülhet sor.
+(4)[^39] A nem postai úton érkező csomag átvételére, illetve átadására munkanapon a fogvatartást végrehajtó szerv hivatali idejében, munkaszüneti és pihenőnapon a fogvatartásért felelős által meghatározott időben kerülhet sor.
 
-[^35]: A 7. § (1) bekezdése a 23/2001. (X. 11.) BM rendelet 10. § (1) bekezdésével megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^36]: A 7. § (3) bekezdése a 23/2001. (X. 11.) BM rendelet 10. § (2) bekezdésével megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^37]: A 7. § (4) bekezdését a 23/2001. (X. 11.) BM rendelet 10. § (3) bekezdése iktatta a szövegbe, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^37]: A 7. § (1) bekezdése a 23/2001. (X. 11.) BM rendelet 10. § (1) bekezdésével megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^38]: A 7. § (3) bekezdése a 23/2001. (X. 11.) BM rendelet 10. § (2) bekezdésével megállapított szöveg, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^39]: A 7. § (4) bekezdését a 23/2001. (X. 11.) BM rendelet 10. § (3) bekezdése iktatta a szövegbe, e módosító rendelet 27. § (1) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.

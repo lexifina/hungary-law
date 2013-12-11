@@ -1,12 +1,12 @@
 ## Záró rendelkezések
 
-38. § (1)[^90] E rendelet a kihirdetése napját követő hónap első napján lép hatályba.
+38. § (1)[^92] E rendelet a kihirdetése napját követő hónap első napján lép hatályba.
 
 (2) Az e rendeletből a rendőrségre háruló feladatok végrehajtását az országos rendőrfőkapitány utasításban szabályozza.
 
 Melléklet a 19/1995. (XII. 13.) BM rendelethez
 
-I.[^91] A fogvatartott birtokában tartható tárgyak
+I.[^93] A fogvatartott birtokában tartható tárgyak
 
 1. Tisztasági felszerelések: tisztálkodási eszközök (pl. szappan, fésű, hintőpor, krém, sampon), fogápolási eszközök, izzadásgátló szerek (kivéve: hajtógázzal töltött palack, pumpával működő dezodor), körömápolási cikkek, körömcsipesz (olló kivételével), ruha- és cipőápolási eszközök, varrókészlet, törülköző, zsebkendő, mosó- és öblítőszerek (mosás idején, egyébként zárkán kívül személyenként elkülönítve tárolva), borotvahab, ún. félpengés borotva, elemes borotva (borotválkozás idején, egyébként a zárkán kívül tárolva), vatta, tampon, egészségügyi betét, hajcsavarók és csipeszek, hajháló, zuhanysapka.
 
@@ -22,7 +22,7 @@ I.[^91] A fogvatartott birtokában tartható tárgyak
 
 7. Gyógyszerek, gyógyászati segédeszközök: az egészségügyi szolgálat által írásban engedélyezett gyógyszerek és gyógyászati segédeszközök, vitaminok, tápszerek, az orvos engedélyével.
 
-II.[^92] A zárka berendezései, felszerelési tárgyai
+II.[^94] A zárka berendezései, felszerelési tárgyai
 
 1. Személyenként:
 
@@ -48,6 +48,6 @@ e) tükör;
 
 f) söprű, szemetes lapát, felmosóruha.
 
-[^90]: A 38. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 218. pontja hatályon kívül helyezte.
-[^91]: A melléklet I. alcím címe a 34/2013. (VI. 30.) BM rendelet 8. §-a szerint módosított szöveg.
-[^92]: A melléklet II. alcímét a 34/2013. (VI. 30.) BM rendelet 8. §-a iktatta be
+[^92]: A 38. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 218. pontja hatályon kívül helyezte.
+[^93]: A melléklet I. alcím címe a 34/2013. (VI. 30.) BM rendelet 8. §-a szerint módosított szöveg.
+[^94]: A melléklet II. alcímét a 34/2013. (VI. 30.) BM rendelet 8. §-a iktatta be
