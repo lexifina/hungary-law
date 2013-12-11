@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2013-06-21 | 2013. évi XC. törvény | 2012-36-00-00.10 |
 | 2013-07-01 | 2012. évi CCV. törvény | 2012-36-00-00.11 |
 | 2013-08-01 | 2013. évi CXXXI. törvény | 2012-36-00-00.12 |
+| 2013-12-11 | 2013. évi CCVII. törvény | 2012-36-00-00.13 |
