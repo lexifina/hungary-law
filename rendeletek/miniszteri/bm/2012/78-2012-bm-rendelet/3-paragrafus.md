@@ -4,7 +4,7 @@
 
 (2)[^1]
 
-Melléklet a 78/2012. (XII. 28.) BM rendelethez
+Melléklet a 78/2012. (XII. 28.) BM rendelethez[^2]
 
 Egységes irattári terv
 
@@ -232,7 +232,7 @@ U.3. Szervezet, működés
 
 | U324 | Társulási tanács zárt üléseinek előterjesztései, jegyzőkönyvei, határozatai | NS | 15 |
 
-| U325 | Kapcsolattartás civil, egyházi és ifjúsági szervezetekkel | 5 | - |
+| U325 | Kapcsolattartás civil és ifjúsági szervezetekkel, vallási közösségekkel | 5 | - |
 
 | U326 | Népszámlálás, egyéb összeírások lebonyolításával kapcsolatos ügyek | 5 | - |
 
@@ -1020,7 +1020,7 @@ H.7. Igazságügyi igazgatás
 
 | H702 | Birtokvédelmi ügyek | 5 | - |
 
-| H703 | Egyházi ingatlanok tulajdoni helyzetének rendezése | NS | 15 |
+| H703 | Vallási közösség tulajdonában lévő ingatlanok tulajdoni helyzetének rendezése | NS | 15 |
 
 | H704 | Eltartási szerződési ügyek (lejárat után) | 5 | - |
 
@@ -1475,3 +1475,4 @@ X.3. Fegyveres biztonsági őrség
 | X302 | Rendészeti ügyek | 2 | - |
 
 [^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A melléklet a 68/2013. (XII. 10.) BM rendelet 10. §-a szerint módosított szöveg.
