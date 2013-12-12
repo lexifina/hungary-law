@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | A Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ létrehozásához a Józsefvárosi pályaudvar épületében kapcsolódó beruházások | Budapest VIII. kerület, Fiumei út 22–26. szám alatti, 38818/30, 38818/42, 34593/4 helyrajzi számú ingatlanok | a) építésügyi hatósági engedélyezési és tudomásulvételi eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | A Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ létrehozásához a Józsefvárosi pályaudvar épületében kapcsolódó beruházások | Budapest VIII. kerület, Fiumei út 22–26. szám alatti, 38818/30, 38818/43, 34593/4 helyrajzi számú ingatlanok | a) építésügyi hatósági engedélyezési és tudomásulvételi eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
