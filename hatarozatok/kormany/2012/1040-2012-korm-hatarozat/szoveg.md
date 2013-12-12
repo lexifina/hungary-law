@@ -1,6 +1,6 @@
 1. A Kormány egyetért azzal, hogy
 
-a) a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 19/2008. (II. 19.) FVM rendelet szerint véglegesen elismert termelői szervezetek és előzetesen elismert termelői csoportok (a továbbiakban együtt: TÉSZ) számára az Új Magyarország TÉSZ Forgóeszköz Hitelprogramról szóló 1066/2008. (XI. 3.) Korm. határozat [a továbbiakban: 1066/2008. (XI. 3.) Korm. határozat] alapján, valamint az e kormányhatározat alapján felvett hitelek maximális türelmi ideje 4 év, a futamideje maximum 7 év azzal, hogy a Hitelprogram keretében legkésőbb 2013. december 31-ig lehet hitelszerződést kötni;
+a)[^1] a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 19/2008. (II. 19.) FVM rendelet szerint véglegesen elismert termelői szervezetek és előzetesen elismert termelői csoportok (a továbbiakban együtt: TÉSZ) számára az Új Magyarország TÉSZ Forgóeszköz Hitelprogramról szóló 1066/2008. (XI. 3.) Korm. határozat [a továbbiakban: 1066/2008. (XI. 3.) Korm. határozat] alapján, valamint az e kormányhatározat alapján felvett hitelek maximális türelmi ideje 4 év, a futamideje maximum 7 év azzal, hogy a Hitelprogram keretében legkésőbb 2014. december 31-ig lehet hitelszerződést kötni;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -8,7 +8,7 @@ vidékfejlesztési miniszter
 
 Határidő: 2012. március 31.
 
-b) az 1066/2008. (XI. 3.) Korm. határozat 1. pont b) és c) alpontjában foglalt árfolyam-fedezeti megállapodások futamideje 13 évre és 12 évre módosul, azaz az árfolyam-fedezeti megállapodásokban a Hitelprogram lejárata mindkét esetben 2020. december 31.;
+b)[^2] az 1066/2008. (XI. 3.) Korm. határozat 1. pont b) és c) alpontjában foglalt árfolyam-fedezeti megállapodásokban a Hitelprogram lejárata mindkét esetben 2022. december 31.;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -49,3 +49,6 @@ Határidő: ba) alpont tekintetében 2012. március 23.
 bb) alpont tekintetében 2012. március 31.
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont a) alpontja az 1925/2013. (XII. 11.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: Az 1. pont b) alpontja az 1925/2013. (XII. 11.) Korm. határozat 5. pontja szerint módosított szöveg.
