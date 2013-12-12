@@ -8,7 +8,7 @@ földművelésügyi és vidékfejlesztési miniszter
 
 Határidő: folyamatos
 
-b) a Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) által euróban meghatározott éven túli lejáratú hitelfelvételekhez, kötvénykibocsátásokhoz kapcsolódóan a Program finanszírozásához 5 milliárd forintos mértékig a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 36. § (3) bekezdésében meghatározott keret terhére a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB törvény) 5. § (2) bekezdése alapján a pénzügyminiszterrel árfolyam-fedezeti megállapodást kössön; a Program futamideje az árfolyam-fedezeti megállapodás szempontjából 6 év; az árfolyam-fedezeti megállapodás e kormányhatározat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
+b)[^2] a Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) által euróban meghatározott éven túli lejáratú hitelfelvételekhez, kötvénykibocsátásokhoz kapcsolódóan a Program finanszírozásához 5 milliárd forintos mértékig a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 36. § (3) bekezdésében meghatározott keret terhére a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB törvény) 5. § (2) bekezdése alapján a pénzügyminiszterrel árfolyam-fedezeti megállapodást kössön; ; az árfolyam-fedezeti megállapodás e kormányhatározat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
 
 Felelős: pénzügyminiszter
 
@@ -16,7 +16,7 @@ nemzeti fejlesztési és gazdasági miniszter
 
 Határidő: folyamatos
 
-c) az MFB Zrt. által euróban meghatározott éven túli lejáratú hitelfelvételekhez, kötvénykibocsátásokhoz kapcsolódóan a Program finanszírozásához további 3 milliárd forintos mértékig a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 35. § (3) bekezdésében meghatározott keret terhére az MFB törvény 5. § (2) bekezdése alapján a pénzügyminiszterrel árfolyam-fedezeti megállapodást kössön; a Program futamideje az árfolyam-fedezeti megállapodás szempontjából 6 év; árfolyam-fedezeti megállapodás a kormányhatározat e pontja hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon köthető;
+c)[^3] az MFB Zrt. által euróban meghatározott éven túli lejáratú hitelfelvételekhez, kötvénykibocsátásokhoz kapcsolódóan a Program finanszírozásához további 3 milliárd forintos mértékig a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 35. § (3) bekezdésében meghatározott keret terhére az MFB törvény 5. § (2) bekezdése alapján a pénzügyminiszterrel árfolyam-fedezeti megállapodást kössön; ; árfolyam-fedezeti megállapodás a kormányhatározat e pontja hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon köthető;
 
 Felelős: pénzügyminiszter
 
@@ -34,11 +34,11 @@ földművelésügyi és vidékfejlesztési miniszter
 
 Határidő: azonnal
 
-1/A.[^2] A pénzügyi gazdasági válság hatásainak enyhítése a TÉSZ-ek működőképességének fenntartása és versenyképességének javítása érdekében a Kormány
+1/A.[^4] A pénzügyi gazdasági válság hatásainak enyhítése a TÉSZ-ek működőképességének fenntartása és versenyképességének javítása érdekében a Kormány
 
-a)[^3] egyetért azzal, hogy az MFB törvény 2. §-ának k) pontjában, valamint 4. §-ának (1) bekezdésében foglaltak alapján az 1. pont b) alpontjában rögzített keretből 3 milliárd forintot, az 1. pont c) alpontjában rögzített keretből pedig 1 milliárd forintot az MFB Zrt. közvetlen hitelnyújtásra használjon fel;
+a)[^5] egyetért azzal, hogy az MFB törvény 2. §-ának k) pontjában, valamint 4. §-ának (1) bekezdésében foglaltak alapján az 1. pont b) alpontjában rögzített keretből 3 milliárd forintot, az 1. pont c) alpontjában rögzített keretből pedig 1 milliárd forintot az MFB Zrt. közvetlen hitelnyújtásra használjon fel;
 
-b)[^4] úgy dönt, hogy az MFB törvény 5. § (1) bekezdés b) pontja szerinti jogszabályi állami kezesség mértéke az MFB Zrt. által nyújtott – legfeljebb 4 milliárd forint keretösszegű – a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 35. § (2) bekezdésében meghatározott keretet terhelő forgóeszközhitel tőkeösszegének 80%-a;
+b)[^6] úgy dönt, hogy az MFB törvény 5. § (1) bekezdés b) pontja szerinti jogszabályi állami kezesség mértéke az MFB Zrt. által nyújtott – legfeljebb 4 milliárd forint keretösszegű – a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 35. § (2) bekezdésében meghatározott keretet terhelő forgóeszközhitel tőkeösszegének 80%-a;
 
 Felelős: nemzeti fejlesztési és gazdasági miniszter
 
@@ -59,6 +59,8 @@ Határidő: azonnal
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: Az 1. pont az 1187/2009. (XI. 10.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1/A. pontot az 1066/2009. (V. 11.) Korm. határozat 1. pontja iktatta be.
-[^3]: Az 1/A. pont a) alpontja az 1187/2009. (XI. 10.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 1/A. pont b) alpontja az 1187/2009. (XI. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: Az 1. pont b) alpontja az 1925/2013. (XII. 11.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^3]: Az 1. pont c) alpontja az 1925/2013. (XII. 11.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^4]: Az 1/A. pontot az 1066/2009. (V. 11.) Korm. határozat 1. pontja iktatta be.
+[^5]: Az 1/A. pont a) alpontja az 1187/2009. (XI. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: Az 1/A. pont b) alpontja az 1187/2009. (XI. 10.) Korm. határozat 2. pontjával megállapított szöveg.

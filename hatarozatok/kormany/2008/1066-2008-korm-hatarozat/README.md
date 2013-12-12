@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-1066-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-11-11 | 2008-1066-30-22.4 | 1066/2008. (XI. 3.) Korm. határozat |
+| 2013-12-12 | 2008-1066-30-22.5 | 1925/2013. (XII. 11.) Korm. határozat |
