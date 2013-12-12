@@ -1,4 +1,4 @@
-## 4/A. [^32] A fejlesztéspolitikáért felelős miniszter feladatai
+## 4/A. [^33] A fejlesztéspolitikáért felelős miniszter feladatai
 
 ## 5/A. § A fejlesztéspolitikáért felelős miniszter
 
@@ -6,4 +6,4 @@ a) gondoskodik az állami támogatások versenyszempontú ellenőrzésének koor
 
 b) gyakorolja a közreműködő szervezetek feletti felügyeleti, irányítási és – a Magyar Állam kizárólagos tulajdonában lévő, közreműködő szervezetként kijelölt egyes gazdálkodó szervezetek feletti – tulajdonosi jogokat.
 
-[^32]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be.

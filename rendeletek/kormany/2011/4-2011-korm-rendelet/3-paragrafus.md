@@ -2,6 +2,6 @@
 
 ## FEJLESZTÉSPOLITIKAI INTÉZMÉNYRENDSZER
 
-## 3. [^27] A Kormány és a Nemzeti Fejlesztési Kormánybizottság feladatai
+## 3. [^28] A Kormány és a Nemzeti Fejlesztési Kormánybizottság feladatai
 
-[^27]: A 3. alcím (3–4/A. §) a 141/2012. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^28]: A 3. alcím (3–4/A. §) a 141/2012. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.

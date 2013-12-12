@@ -1,6 +1,6 @@
 ## 18. A támogatási kérelem elbírálása
 
-23/A. §[^94] (1) A közreműködő szervezet megvizsgálja, hogy a projektjavaslat megfelel-e a felhívásban meghatározott és a következő befogadási kritériumoknak:
+23/A. §[^95] (1) A közreműködő szervezet megvizsgálja, hogy a projektjavaslat megfelel-e a felhívásban meghatározott és a következő befogadási kritériumoknak:
 
 a) a projektjavaslat a benyújtási határidőn belül került benyújtásra,
 
@@ -8,15 +8,15 @@ b) az igényelt támogatás összege nem haladja meg a maximálisan igényelhet�
 
 c) a támogatást igénylő a felhívásban meghatározott lehetséges pályázói körbe tartozik.
 
-(2)[^95] Kiemelt projektek esetében a miniszter írásos támogatása befogadási kritérium, kivéve, ha a kiemelt projekt támogatásáról a Kormány vagy a Nemzeti Fejlesztési Kormánybizottság már döntött.
+(2)[^96] Kiemelt projektek esetében a miniszter írásos támogatása befogadási kritérium, kivéve, ha a kiemelt projekt támogatásáról a Kormány vagy a Nemzeti Fejlesztési Kormánybizottság már döntött.
 
 (3) Ha a projektjavaslat megfelel a felhívásban és az (1) bekezdésben meghatározott befogadási kritériumoknak, a közreműködő szervezet azt befogadja.
 
-(4)[^96] A közreműködő szervezet a projektjavaslat beérkezésétől számított 7 napon belül írásban tájékoztatja a támogatást igénylőt a projektjavaslat befogadásáról (befogadó nyilatkozat).
+(4)[^97] A közreműködő szervezet a projektjavaslat beérkezésétől számított 7 napon belül írásban tájékoztatja a támogatást igénylőt a projektjavaslat befogadásáról (befogadó nyilatkozat).
 
 (5) Ha a projektjavaslat nem felel meg a felhívásban és az (1) bekezdésben meghatározott befogadási kritériumoknak, a közreműködő szervezet a projektjavaslatot elutasítja.
 
-(6)[^97] A közreműködő szervezet a projektjavaslat beérkezésétől számított 7 napon belül írásban tájékoztatja a támogatást igénylőt a projektjavaslat elutasításáról.
+(6)[^98] A közreműködő szervezet a projektjavaslat beérkezésétől számított 7 napon belül írásban tájékoztatja a támogatást igénylőt a projektjavaslat elutasításáról.
 
 (7) A (6) bekezdés szerinti tájékoztatásnak tartalmaznia kell
 
@@ -28,7 +28,7 @@ b) a kifogás benyújtásának lehetőségét és módját.
 
 (9) A befogadási kritériumokat nem teljesítő projektjavaslat esetén hiánypótlásnak nincs helye.
 
-[^94]: A 23/A. §-t a 25/2012. (II. 29.) Korm. rendelet 14. §-a iktatta be.
-[^95]: A 23/A. § (2) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^96]: A 23/A. § (4) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^97]: A 23/A. § (6) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^95]: A 23/A. §-t a 25/2012. (II. 29.) Korm. rendelet 14. §-a iktatta be.
+[^96]: A 23/A. § (2) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^97]: A 23/A. § (4) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^98]: A 23/A. § (6) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.

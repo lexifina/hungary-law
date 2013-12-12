@@ -1,6 +1,6 @@
-## 4. [^30] A Miniszterelnökséget vezető államtitkár
+## 4. [^31] A Miniszterelnökséget vezető államtitkár
 
-## 5. §[^31] A Miniszterelnökséget vezető államtitkár a miniszterelnöknek az európai uniós támogatások felhasználásáért való felelőssége körében
+## 5. §[^32] A Miniszterelnökséget vezető államtitkár a miniszterelnöknek az európai uniós támogatások felhasználásáért való felelőssége körében
 
 a) összehangolja a központi államigazgatási szervek európai uniós támogatási forrásokból finanszírozott országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
@@ -18,5 +18,5 @@ g) felügyeli a pályázati felhívás előkészítésének folyamatát, jóváh
 
 h) döntés-előkészítő bizottság összehívása esetén tagot delegálhat a döntés-előkészítő bizottságba.
 
-[^30]: A 4. alcím (5. §) a 274/2013. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^31]: Az 5. § nyitó szövegrésze a 356/2013. (X. 8.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^31]: A 4. alcím (5. §) a 274/2013. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^32]: Az 5. § nyitó szövegrésze a 356/2013. (X. 8.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

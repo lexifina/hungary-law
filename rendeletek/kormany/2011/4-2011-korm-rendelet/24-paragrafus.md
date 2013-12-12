@@ -1,4 +1,4 @@
-24. §[^98] (1) A befogadást követő projekt-kiválasztási eljárás keretében a támogatott projektek könnyített elbírálású, egyfordulós vagy kiemelt projekt-kiválasztási eljárás során kerülnek kiválasztásra, amelyek folyamatos vagy szakaszos elbírálásúak.
+24. §[^99] (1) A befogadást követő projekt-kiválasztási eljárás keretében a támogatott projektek könnyített elbírálású, egyfordulós vagy kiemelt projekt-kiválasztási eljárás során kerülnek kiválasztásra, amelyek folyamatos vagy szakaszos elbírálásúak.
 
 (2) A támogatásra vonatkozó döntés előkészítésének és meghozatalának eljárását
 
@@ -14,4 +14,4 @@ b) szakaszos elbírálás esetében a pályázati felhívásban rögzített pál
 
 (5) Könnyített elbírálású támogatás esetén – a felhívás eltérő rendelkezése hiányában – hiánypótlásnak nincs helye.
 
-[^98]: A 24. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^99]: A 24. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.

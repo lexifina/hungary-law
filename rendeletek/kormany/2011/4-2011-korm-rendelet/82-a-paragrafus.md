@@ -1,5 +1,5 @@
-82/A. §[^276] (1) A kifogást annak előterjesztője a kifogást elbíráló döntés meghozataláig erre irányuló írásbeli nyilatkozattal visszavonhatja.
+82/A. §[^278] (1) A kifogást annak előterjesztője a kifogást elbíráló döntés meghozataláig erre irányuló írásbeli nyilatkozattal visszavonhatja.
 
 (2) Visszavonás esetén a kifogás elbírálására jogosult szervezet az eljárást megszünteti.
 
-[^276]: A 82/A. §-t a 25/2012. (II. 29.) Korm. rendelet 47. §-a iktatta be.
+[^278]: A 82/A. §-t a 25/2012. (II. 29.) Korm. rendelet 47. §-a iktatta be.

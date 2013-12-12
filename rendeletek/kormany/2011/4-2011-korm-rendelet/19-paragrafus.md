@@ -1,6 +1,6 @@
 ## 14. Az alapkezelő szervezet feladatai
 
-19. § (1)[^77] Az alapkezelő szervezet feladata elsődlegesen a kis- és középvállalkozások finanszírozását célzó pénzügyi programok lebonyolítása, így különösen
+19. § (1)[^78] Az alapkezelő szervezet feladata elsődlegesen a kis- és középvállalkozások finanszírozását célzó pénzügyi programok lebonyolítása, így különösen
 
 a) az irányító hatóság által nevesített programokban a pénzügyi eszközök kihelyezése,
 
@@ -10,4 +10,4 @@ b) a rendelkezésére álló források felhasználásának ellenőrzése, nyilv�
 
 (3) Az alapkezelő működésére az 1828/2006/EK bizottsági rendelet 45. cikkét kell alkalmazni.
 
-[^77]: A 19. § (1) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^78]: A 19. § (1) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

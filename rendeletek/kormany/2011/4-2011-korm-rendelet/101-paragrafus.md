@@ -6,26 +6,26 @@
 
 101. § (1) Ha a támogató a költségvetésből nyújtott támogatást részben vagy egészben visszavonja, vagy a támogatási szerződéstől bármelyik fél eláll, a kedvezményezett az addig folyósított támogatás visszavonással érintett összegét a Ptk. 232. § (3) bekezdése szerinti kamattal növelt mértékben a visszafizetésre kötelezés közlésétől számított 30 napon belül köteles visszafizetni. A kamatszámítás kezdő időpontja a támogatás folyósításának napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja.
 
-(1a)[^310] Ha a kedvezményezett részére a támogatási szerződésben rögzítettek alapján kötbérfizetési kötelezettség került megállapításra, a megállapított kötbér összegét a visszafizetésre kötelezés közlésétől számított 30 napon belül köteles visszafizetni.
+(1a)[^312] Ha a kedvezményezett részére a támogatási szerződésben rögzítettek alapján kötbérfizetési kötelezettség került megállapításra, a megállapított kötbér összegét a visszafizetésre kötelezés közlésétől számított 30 napon belül köteles visszafizetni.
 
-(1b)[^311] Ha a visszafizetési kötelezettség a támogató érdekkörében felmerült okból keletkezett, a támogatás visszafizetése a megállapított fizetési határidőig kamatmentes.
+(1b)[^313] Ha a visszafizetési kötelezettség a támogató érdekkörében felmerült okból keletkezett, a támogatás visszafizetése a megállapított fizetési határidőig kamatmentes.
 
-(1c)[^312]
+(1c)[^314]
 
-(2)[^313] A támogatási előleg visszakövetelése esetén a kedvezményezett az előleget a folyósítás napjától számított, a Ptk. 232. § (3) bekezdése szerinti kamattal növelt mértékben köteles visszafizetni.
+(2)[^315] A támogatási előleg visszakövetelése esetén a kedvezményezett az előleget a folyósítás napjától számított, a Ptk. 232. § (3) bekezdése szerinti kamattal növelt mértékben köteles visszafizetni.
 
-(3)[^314] Ha a kedvezményezett visszafizetési kötelezettségének feltételei bekövetkeznek, a támogató a követelés összegét az adott projektre vonatkozóan a kedvezményezett részére megítélt, de még ki nem fizetett támogatási összegbe beszámítja. Ha a beszámítás nem vagy csak részben lehetséges, a visszafizetési kötelezettséget a támogató értesítésben vagy fizetési felszólításban közli a kedvezményezettel, amelyek másolati példányát az értesítés, vagy a fizetési felszólítás a kedvezményezett részére történt megküldését követő 7 napon belül meg kell küldeni a kincstárnak.
+(3)[^316] Ha a kedvezményezett visszafizetési kötelezettségének feltételei bekövetkeznek, a támogató a követelés összegét az adott projektre vonatkozóan a kedvezményezett részére megítélt, de még ki nem fizetett támogatási összegbe beszámítja. Ha a beszámítás nem vagy csak részben lehetséges, a visszafizetési kötelezettséget a támogató értesítésben vagy fizetési felszólításban közli a kedvezményezettel, amelyek másolati példányát az értesítés, vagy a fizetési felszólítás a kedvezményezett részére történt megküldését követő 7 napon belül meg kell küldeni a kincstárnak.
 
 (4) A visszafizetési kötelezettség a támogató döntése alapján részletekben is teljesíthető, a visszafizetés ütemezését külön megállapodásban kell rögzíteni.
 
-(5)[^315] Ha a kedvezményezett a visszafizetési kötelezettség teljesítésével késedelembe esik, a késedelme után a Ptk. 301. §-a szerinti késedelmi kamatot kell fizetnie.
+(5)[^317] Ha a kedvezményezett a visszafizetési kötelezettség teljesítésével késedelembe esik, a késedelme után a Ptk. 301. §-a szerinti késedelmi kamatot kell fizetnie.
 
-(6)[^316] Kincstári körbe tartozó költségvetési szervek esetén az (1), (2) és (5) bekezdés szerinti kamatfizetési kötelezettséget nem kell érvényesíteni.
+(6)[^318] Kincstári körbe tartozó költségvetési szervek esetén az (1), (2) és (5) bekezdés szerinti kamatfizetési kötelezettséget nem kell érvényesíteni.
 
-[^310]: A 101. § (1a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be.
-[^311]: A 101. § (1b) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be.
-[^312]: A 101. § (1c) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be, hatályon kívül helyezte a 302/2013. (VII. 29.) Korm. rendelet 55. § c) pontja.
-[^313]: A 101. § (2) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 16. pontja hatályon kívül helyezte, újonnan a 176/2012. (VII. 26.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^314]: A 101. § (3) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^315]: A 101. § (5) bekezdése a 86/2011. (V. 31.) Korm. rendelet 13. § (5) bekezdése szerint módosított szöveg.
-[^316]: A 101. § (6) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^312]: A 101. § (1a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be.
+[^313]: A 101. § (1b) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be.
+[^314]: A 101. § (1c) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be, hatályon kívül helyezte a 302/2013. (VII. 29.) Korm. rendelet 55. § c) pontja.
+[^315]: A 101. § (2) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 16. pontja hatályon kívül helyezte, újonnan a 176/2012. (VII. 26.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^316]: A 101. § (3) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^317]: A 101. § (5) bekezdése a 86/2011. (V. 31.) Korm. rendelet 13. § (5) bekezdése szerint módosított szöveg.
+[^318]: A 101. § (6) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 24. § (2) bekezdése iktatta be.
