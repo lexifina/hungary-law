@@ -10,12 +10,12 @@
 
 (3) A szerződésben meg kell határozni a szerződési biztosítékot, a szerződés megszűnése esetén keletkező elszámolási és kárrendezési eljárást.
 
-(4)[^80] A Kbt. 131. § (3) bekezdése szerinti, építési beruházások esetében a szerződésben foglalt ellenérték kifizetését szabályozó kormányrendelet előírásai a beszerzési eljárásra nem alkalmazandóak.
+(4)[^81] A Kbt. 131. § (3) bekezdése szerinti, építési beruházások esetében a szerződésben foglalt ellenérték kifizetését szabályozó kormányrendelet előírásai a beszerzési eljárásra nem alkalmazandóak.
 
-(5)[^81] A 7. § (5) bekezdése szerinti beszerzések esetében a 75. § (1) bekezdését és a Kbt. 124. § (6)–(7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
+(5)[^82] A 7. § (5) bekezdése szerinti beszerzések esetében a 75. § (1) bekezdését és a Kbt. 124. § (6)–(7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
-(6)[^82] A szerződés megkötésekor, a kizárólag a jegyzékre felvett nyertes ajánlattevők, a kiemelt alvállalkozó vagy alvállalkozó részvételével létrehozott projekttársaságot jegyzéken szereplőnek kell tekinteni, ha a projekttársaság vezető tisztségviselői és alkalmazottai a projekttársaságot létrehozó gazdasági szereplők vezető tisztségviselőiből és alkalmazottaiból kerültek ki.
+(6)[^83] A szerződés megkötésekor, a kizárólag a jegyzékre felvett nyertes ajánlattevők, a kiemelt alvállalkozó vagy alvállalkozó részvételével létrehozott projekttársaságot jegyzéken szereplőnek kell tekinteni, ha a projekttársaság vezető tisztségviselői és alkalmazottai a projekttársaságot létrehozó gazdasági szereplők vezető tisztségviselőiből és alkalmazottaiból kerültek ki.
 
-[^80]: A 74. § (4) bekezdése a 232/2012. (VIII. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^81]: A 74. § (5) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^82]: A 74. § (6) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 286/2013. (VII. 26.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^81]: A 74. § (4) bekezdése a 232/2012. (VIII. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^82]: A 74. § (5) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^83]: A 74. § (6) bekezdését a 232/2012. (VIII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 286/2013. (VII. 26.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.

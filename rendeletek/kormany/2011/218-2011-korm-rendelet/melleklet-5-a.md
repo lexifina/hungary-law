@@ -150,6 +150,6 @@
 
 ## cégszerű aláírás
 
-5/A. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^95]
+5/A. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^96]
 
-[^95]: Az 5/A. mellékletet a 286/2013. (VII. 26.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^96]: Az 5/A. mellékletet a 286/2013. (VII. 26.) Korm. rendelet 19. § (3) bekezdése iktatta be.

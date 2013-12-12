@@ -1,4 +1,4 @@
-49/A. §[^64] (1) Atomerőművel kapcsolatos beszerzés esetén a részvételi jelentkezések és az ajánlatok bírálata során a 49. § (1) bekezdésében foglaltaktól eltérően a (2)–(6) bekezdést kell alkalmazni.
+49/A. §[^65] (1) Atomerőművel kapcsolatos beszerzés esetén a részvételi jelentkezések és az ajánlatok bírálata során a 49. § (1) bekezdésében foglaltaktól eltérően a (2)–(6) bekezdést kell alkalmazni.
 
 (2) Az ajánlattételi felhívás megküldésének időpontját az ajánlatkérő a részvételi felhívásban köteles meghatározni. Az ajánlattételi felhívás megküldésének időpontját az ajánlatkérő nem határozhatja meg a részvételi jelentkezések bontását követő 12 hónapnál későbbi időpontban. Az ajánlatkérő indokolt esetben az ajánlattételi felhívás megküldésére korábban megjelölt időpontot – több alkalommal, alkalmanként legfeljebb hat hónappal – elhalaszthatja, ebben az esetben az eredeti időpont lejárta előtt minden részvételre jelentkezőnek egyidejűleg értesítést küld az ajánlattételi felhívás megküldésének új időpontjáról, és a részvételi szakasz eredményéről ezt megelőzően kell a részvételre jelentkezőket értesíteni.
 
@@ -10,4 +10,4 @@
 
 (6) Ha az 54. § (3) bekezdés alapján az ajánlatkérő a nyertes ajánlattevő számára a szerződés egy részének alvállalkozói szerződésekkel történő kiszervezését százalékos értékben meghatározta, akkor ez az érték az ajánlatkérő által a végső ajánlat megtételéig módosítható.
 
-[^64]: A 49/A. §-t a 286/2013. (VII. 26.) Korm. rendelet 14. §-a iktatta be.
+[^65]: A 49/A. §-t a 286/2013. (VII. 26.) Korm. rendelet 14. §-a iktatta be.

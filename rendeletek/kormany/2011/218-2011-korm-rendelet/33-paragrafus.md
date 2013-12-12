@@ -1,8 +1,8 @@
-## 32. §[^46] A kiegészítő tájékoztatás adására a Kbt. 45. §-ában foglaltakat kell alkalmazni.
+## 32. §[^47] A kiegészítő tájékoztatás adására a Kbt. 45. §-ában foglaltakat kell alkalmazni.
 
 ## 17. Műszaki leírás
 
-33. § (1)[^47] A beszerzés tárgyának meghatározására a Kbt. 46–47. §-ában, a műszaki leírásra a Kbt. 48. § (1) és (2) bekezdésében foglaltakat kell alkalmazni.
+33. § (1)[^48] A beszerzés tárgyának meghatározására a Kbt. 46–47. §-ában, a műszaki leírásra a Kbt. 48. § (1) és (2) bekezdésében foglaltakat kell alkalmazni.
 
 (2) A műszaki leírásokat a közösségi joggal összhangban és a kötelező nemzeti műszaki előírások – ideértve a termékbiztonságra vonatkozó előírásokat is –, valamint a nemzetközi szabványügyi megállapodások által az együttműködés garantálása érdekében előírt műszaki követelmények sérelme nélkül az alábbi módon kell megfogalmazni:
 
@@ -48,8 +48,8 @@ d) a leírások valamennyi érdekelt fél számára hozzáférhetők.
 
 (8) A szerződés tárgya által indokolt esetek kivételével a műszaki leírás nem hivatkozhat olyan márkára, forrásra, különleges eljárásra, védjegyre, szabadalomra, típusra, származásra vagy gyártási folyamatra, amely egyes vállalkozások vagy termékek előnyben részesítését vagy kiszorítását eredményezné. Az ilyen hivatkozás kivételes esetekben megengedhető, amennyiben nem lehetséges a szerződés tárgyának (2) és (5) bekezdés szerinti, kellően pontos és érthető leírása. Az ilyen hivatkozást a „vagy azzal egyenértékű” kifejezésnek kell kísérnie.
 
-(9)[^48] Az ajánlatkérő a felhívásban vagy a dokumentációban köteles meghatározni a minősített adatok körét és minősítési szintjét, valamint az érzékeny beszerzési területet. Az ajánlatkérő a minősített adatok körét, valamint az érzékeny beszerzési területet módosíthatja, kiegészítheti.
+(9)[^49] Az ajánlatkérő a felhívásban vagy a dokumentációban köteles meghatározni a minősített adatok körét és minősítési szintjét, valamint az érzékeny beszerzési területet. Az ajánlatkérő a minősített adatok körét, valamint az érzékeny beszerzési területet módosíthatja, kiegészítheti.
 
-[^46]: A 32. § a 286/2013. (VII. 26.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
-[^47]: A 33. § (1) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^48]: A 33. § (9) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^47]: A 32. § a 286/2013. (VII. 26.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^48]: A 33. § (1) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^49]: A 33. § (9) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 10. § (2) bekezdése iktatta be.

@@ -90,6 +90,6 @@
 
 ## cégszerű aláírás
 
-2/A. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^93]
+2/A. melléklet a 218/2011. (X. 19.) Korm. rendelethez[^94]
 
-[^93]: A 2/A. mellékletet a 286/2013. (VII. 26.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^94]: A 2/A. mellékletet a 286/2013. (VII. 26.) Korm. rendelet 19. § (1) bekezdése iktatta be.

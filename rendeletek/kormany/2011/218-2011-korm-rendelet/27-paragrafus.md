@@ -26,15 +26,15 @@ g) a bírálati szempontok relatív súlyozását, vagy az összességében lege
 
 (5) Versenypárbeszéd esetén a (4) bekezdés b)–d) pontjaiban meghatározott információkat nem a párbeszédben való részvételre történő felhívásnak, hanem az ajánlattételi felhívásnak kell tartalmaznia.
 
-(6)[^40] Valamennyi eljárásban az ajánlattételi felhívásnak tartalmaznia kell az ajánlatkérő által a szerződés 75. § (4) és (5) bekezdésében meghatározott megszűnés esetére vonatkozó, százalékban meghatározott szerződési biztosítékot, melynek mértéke – a (7) bekezdésben meghatározott kivétellel – a szerződés ellenértékének legalább 30%-a, legfeljebb 50%-a.
+(6)[^41] Valamennyi eljárásban az ajánlattételi felhívásnak tartalmaznia kell az ajánlatkérő által a szerződés 75. § (4) és (5) bekezdésében meghatározott megszűnés esetére vonatkozó, százalékban meghatározott szerződési biztosítékot, melynek mértéke – a (7) bekezdésben meghatározott kivétellel – a szerződés ellenértékének legalább 30%-a, legfeljebb 50%-a.
 
-(7)[^41] A (6) bekezdésben meghatározott szerződési biztosíték mértékét atomerőművel kapcsolatos beszerzés esetén az ajánlatkérő eltérő mértékben is meghatározhatja.
+(7)[^42] A (6) bekezdésben meghatározott szerződési biztosíték mértékét atomerőművel kapcsolatos beszerzés esetén az ajánlatkérő eltérő mértékben is meghatározhatja.
 
-(8)[^42] Az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötheti, amelyet az ajánlattevőnek ajánlata benyújtásával egyidejűleg vagy az ajánlatkérő által az ajánlattételi felhívásban meghatározott időpontig, az ott megjelölt mértékben kell az ajánlatkérő rendelkezésére bocsátania.
+(8)[^43] Az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötheti, amelyet az ajánlattevőnek ajánlata benyújtásával egyidejűleg vagy az ajánlatkérő által az ajánlattételi felhívásban meghatározott időpontig, az ott megjelölt mértékben kell az ajánlatkérő rendelkezésére bocsátania.
 
-(9)[^43] Az ajánlati biztosítékra a Kbt. 25. § (5) bekezdését, valamint 59. § (1)–(5) és (7) bekezdését kell alkalmazni.
+(9)[^44] Az ajánlati biztosítékra a Kbt. 25. § (5) bekezdését, valamint 59. § (1)–(5) és (7) bekezdését kell alkalmazni.
 
-[^40]: A 27. § (6) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^41]: A 27. § (7) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^42]: A 27. § (8) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^43]: A 27. § (9) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^41]: A 27. § (6) bekezdése a 286/2013. (VII. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^42]: A 27. § (7) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^43]: A 27. § (8) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^44]: A 27. § (9) bekezdését a 286/2013. (VII. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-74/A. §[^83] (1) Atomerőművel kapcsolatos beszerzés esetén a 74. §-ban foglaltakat a (2)–(9) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+74/A. §[^84] (1) Atomerőművel kapcsolatos beszerzés esetén a 74. §-ban foglaltakat a (2)–(9) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A beszerzési eljárás során a Kbt. 124. § (5) bekezdését azzal kell alkalmazni, hogy a következő legkedvezőbb ajánlatot tevő ajánlati kötöttségének időtartamát az ajánlatkérő az ajánlattételi felhívásban köteles meghatározni.
 
@@ -16,4 +16,4 @@
 
 (9) A szerződés tartalmának meghatározása során a Kbt. 125. § (4) bekezdését és a Kbt. 126. § (2)–(3) bekezdését nem kell alkalmazni. A Kbt. 126. §-ában meghatározott biztosítékok rendelkezésre bocsátásának időpontját a felek között létrejött szerződés feltételei határozzák meg. A semmisségi okok tekintetében a Kbt. 127. § (4) bekezdése nem irányadó.
 
-[^83]: A 74/A. §-t a 286/2013. (VII. 26.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^84]: A 74/A. §-t a 286/2013. (VII. 26.) Korm. rendelet 17. § (2) bekezdése iktatta be.

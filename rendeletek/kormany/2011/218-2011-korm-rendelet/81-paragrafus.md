@@ -6,11 +6,11 @@
 
 81. § (1) A beszerzésekkel kapcsolatban felmerülő vitás kérdésekben a feleknek törekedniük kell a megegyezésre.
 
-(2)[^84] Az e rendeletbe ütköző magatartás vagy mulasztás miatt – a 7. § (5) bekezdésében meghatározott beszerzések kivételével – a Kbt. Ötödik része szerinti jogorvoslatnak van helye.
+(2)[^85] Az e rendeletbe ütköző magatartás vagy mulasztás miatt – a 7. § (5) bekezdésében meghatározott beszerzések kivételével – a Kbt. Ötödik része szerinti jogorvoslatnak van helye.
 
-(3)[^85] A jogorvoslati eljárás lefolytatása a Közbeszerzési Döntőbizottság hatáskörébe tartozik. A 7. § (5) bekezdése szerinti beszerzésekkel kapcsolatos jogorvoslati eljárás lefolytatása a bíróság hatáskörébe tartozik.
+(3)[^86] A jogorvoslati eljárás lefolytatása a Közbeszerzési Döntőbizottság hatáskörébe tartozik. A 7. § (5) bekezdése szerinti beszerzésekkel kapcsolatos jogorvoslati eljárás lefolytatása a bíróság hatáskörébe tartozik.
 
 (4) A Közbeszerzési Döntőbizottság által lefolytatott jogorvoslati eljárás érdemi határozatának, valamint a Kbt. alapján jogorvoslattal megtámadható végzéseknek a Kbt. szerinti bírósági felülvizsgálata kérhető.
 
-[^84]: A 81. § (2) bekezdése a 347/2011. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^85]: A 81. § (3) bekezdése a 347/2011. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^85]: A 81. § (2) bekezdése a 347/2011. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^86]: A 81. § (3) bekezdése a 347/2011. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
