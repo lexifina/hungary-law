@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. §[^4]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 7. § 2014. január 1-jén lép hatályba.
 
-[^1]: A 7. § a 8. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^4]: A 7. § a 8. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
