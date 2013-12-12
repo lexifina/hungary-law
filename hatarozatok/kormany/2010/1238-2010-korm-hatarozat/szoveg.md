@@ -20,7 +20,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-c)[^2] a Program finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 11 milliárd forint mértékig a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 47.§-ának (3) bekezdésében meghatározott keret terhére az MFB Tv. 5. §-ának (2) bekezdése alapján a nemzetgazdasági miniszter az MFB Zrt.-vel árfolyam-fedezeti megállapodást kössön; a Program futamideje az árfolyam-fedezeti megállapodás szempontjából 6 év; az árfolyam-fedezeti megállapodás a 6 milliárd forint tekintetében 2010. november 16-án, az 5 milliárd forint tekintetében pedig, az Agrár Forgóeszköz Hitelprogram bevezetéséről és az Agrár Forgóeszköz Vis Maior Hitelprogram keretösszegének felemeléséről szóló 1085/2011. (IV. 12.) Korm. határozat hatálybalépésének napján, a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
+c)[^2] a Program finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 11 milliárd forint mértékig a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 47.§-ának (3) bekezdésében meghatározott keret terhére az MFB Tv. 5. §-ának (2) bekezdése alapján a nemzetgazdasági miniszter az MFB Zrt.-vel árfolyam-fedezeti megállapodást kössön; az árfolyam-fedezeti megállapodásban a Program lejárata 2020. december 31.; az árfolyam-fedezeti megállapodás a 6 milliárd forint tekintetében 2010. november 16-án, az 5 milliárd forint tekintetében pedig, az Agrár Forgóeszköz Hitelprogram bevezetéséről és az Agrár Forgóeszköz Vis Maior Hitelprogram keretösszegének felemeléséről szóló 1085/2011. (IV. 12.) Korm. határozat hatálybalépésének napján, a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -37,4 +37,4 @@ Határidő: azonnal
 3. Ez a határozat közzététele napján lép hatályba.
 
 [^1]: Az 1. pont a) alpontja az 1085/2011. (IV. 12.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
-[^2]: Az 1. pont c) alpontja az 1085/2011. (IV. 12.) Korm. határozat 2. pont b) alpontjával megállapított szöveg.
+[^2]: Az 1. pont c) alpontja az 1085/2011. (IV. 12.) Korm. határozat 2. pont b) alpontjával megállapított, az 1925/2013. (XII. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
