@@ -1,6 +1,6 @@
-## Vízügyi igazgatóság[^22]
+## Vízügyi igazgatóság[^23]
 
-7/C. §[^23] (1) A vízügyi igazgatóság (a továbbiakban: igazgatóság) a belügyminiszter irányítása alatt álló, önállóan működő és gazdálkodó központi költségvetési szerv.
+7/C. §[^24] (1) A vízügyi igazgatóság (a továbbiakban: igazgatóság) a belügyminiszter irányítása alatt álló, önállóan működő és gazdálkodó központi költségvetési szerv.
 
 (2) Az igazgatóság elnevezését, székhelyét és működési területét a 2. számú melléklet tartalmazza.
 
@@ -8,5 +8,5 @@
 
 (4) A belügyminiszter irányítási jogkörében az igazgatóság igazgatójának javaslatára megbízza és felmenti az igazgatóság gazdasági vezetőjét.
 
-[^22]: A 7/C. §-t megelőző alcímet a 300/2011. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^23]: A 7/C. §-t a 300/2011. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^23]: A 7/C. §-t megelőző alcímet a 300/2011. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^24]: A 7/C. §-t a 300/2011. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.

@@ -1,10 +1,10 @@
-## 9/A. §[^31] A Kormány
+## 9/A. §[^32] A Kormány
 
-a)[^32] a Ht. 29. §-a szerinti közvetítő szervezetek tevékenysége és
+a)[^33] a Ht. 29. §-a szerinti közvetítő szervezetek tevékenysége és
 
 b) az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény szerinti együttes végrehajtás hitelesítői tevékenység
 
 tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként az OKTVF-et jelöli ki.
 
-[^31]: A 9/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 517. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^32]: A 9/A. § a) pontja a 441/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^32]: A 9/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 517. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 9/A. § a) pontja a 441/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

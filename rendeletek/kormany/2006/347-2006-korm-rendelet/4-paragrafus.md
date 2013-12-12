@@ -1,8 +1,8 @@
-## 3/A. §[^4]
+## 3/A. §[^5]
 
-## Nemzeti Környezetügyi Intézet[^5]
+## Nemzeti Környezetügyi Intézet[^6]
 
-4. §[^6] (1) A Nemzeti Környezetügyi Intézet (a továbbiakban: NeKI) a miniszter által irányított, önállóan működő és gazdálkodó központi költségvetési szerv. Székhelye: Budapest.
+4. §[^7] (1) A Nemzeti Környezetügyi Intézet (a továbbiakban: NeKI) a miniszter által irányított, önállóan működő és gazdálkodó központi költségvetési szerv. Székhelye: Budapest.
 
 (2) A NeKI önálló jogi személyiséggel nem rendelkező központi szervből és kirendeltségekből áll. A NeKI főigazgatója közvetlenül vezeti a központi szervet. A kirendeltségek a NeKI területi szervei.
 
@@ -12,6 +12,6 @@
 
 (5) A miniszter irányítási jogkörében a NeKI főigazgatójának javaslatára megbízza és felmenti a NeKI gazdasági vezetőjét.
 
-[^4]: A 3/A. §-t a 344/2009. (XII. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 300/2011. (XII. 22.) Korm. rendelet 30. § a) pontja.
-[^5]: A 4. §-t megelőző alcím a 300/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 4. § a 300/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3/A. §-t a 344/2009. (XII. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 300/2011. (XII. 22.) Korm. rendelet 30. § a) pontja.
+[^6]: A 4. §-t megelőző alcím a 300/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § a 300/2011. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

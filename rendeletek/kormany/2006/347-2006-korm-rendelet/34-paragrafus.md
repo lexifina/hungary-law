@@ -1,4 +1,4 @@
-## 33/C. §[^124]
+## 33/C. §[^126] Az OVF a vízügyi igazgatóságok középirányítójaként gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § (1) bekezdés f), g) és h) pontjában megjelölt irányítási hatásköröket, amelyekre tekintettel a vízügyi igazgatóságok ügyvezetési jellegű feladatai vonatkozásában teljes körű ellenőrzési joggal rendelkezik.
 
 ## A felügyelőség feladatai
 
@@ -20,4 +20,4 @@ a) a hatósági tevékenység ellátásához szükséges regionális laboratóri
 
 b) a rendkívüli szennyezések észlelése céljából a mérő-megfigyelő rendszert.
 
-[^124]: A 33/C. §-t a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 172. §-a. A 33/C. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 7. pontja.
+[^126]: A 33/C. §-t megelőző alcímet a 344/2009. (XII. 30.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 7. pontja. A 33/C. §-t újonnan a 469/2013. (XII. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
