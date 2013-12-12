@@ -1,6 +1,6 @@
 1.[^1] A Kormány
 
-a)[^2] egyetért azzal, hogy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) 15 milliárd forint keretösszeggel – 2013. december 31-éig történő hitelszerződés-kötési lehetőség biztosításával – meghirdesse az Agrár Forgóeszköz Hitelprogramot (a továbbiakban: Program)
+a)[^2] egyetért azzal, hogy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) 15 milliárd forint keretösszeggel – 2014. december 31-éig történő hitelszerződés-kötési lehetőség biztosításával – meghirdesse az Agrár Forgóeszköz Hitelprogramot (a továbbiakban: Program)
 
 aa) a mezőgazdasági termelő tevékenységet,
 
@@ -18,7 +18,7 @@ bb) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkal
 
 összhangban kerüljön nyújtásra;
 
-c)[^4] felkéri a nemzetgazdasági minisztert, hogy a Program finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 15 milliárd forint mértékig a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 47. §-ának (3) bekezdésében meghatározott keret terhére a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján az MFB Zrt-vel árfolyam-fedezeti megállapodást kössön; a Program futamideje az árfolyam-fedezeti megállapodás szempontjából 7 év, lejárata 2020. december 31.; az árfolyam-fedezeti megállapodás jelen határozat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik.
+c)[^4] felkéri a nemzetgazdasági minisztert, hogy a Program finanszírozásához az MFB Zrt. által forrásszerzés céljából felvett, euróban meghatározott éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan 15 milliárd forint mértékig a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 47. §-ának (3) bekezdésében meghatározott keret terhére a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (2) bekezdése alapján az MFB Zrt-vel árfolyam-fedezeti megállapodást kössön; az árfolyam-fedezeti megállapodásban a Program lejárata 2021. december 31.; az árfolyam-fedezeti megállapodás jelen határozat hatálybalépésének napján a Magyar Nemzeti Bank által közölt, hivatalos HUF/EUR devizaárfolyamon átszámított devizaösszegre vonatkozik.
 
 Felelős nemzetgazdasági miniszter
 
@@ -49,9 +49,9 @@ a Program működtetésére: folyamatos
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: Az 1. pont nyitó szövegrésze az 1349/2012. (IX. 11.) Korm. rendelet 4. pont a) alpontaj szerint módosított szöveg.
-[^2]: Az 1. pont a) alpontja az 1349/2012. (IX. 11.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: Az 1. pont a) alpontja az 1349/2012. (IX. 11.) Korm. határozat 2. pontjával megállapított, az 1925/2013. (XII. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^3]: Az 1. pont b) alpontja az 1349/2012. (IX. 11.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 1. pont c) alpontja az 1349/2012. (IX. 11.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont c) alpontja az 1349/2012. (IX. 11.) Korm. határozat 4. pont b) alpontja, az 1925/2013. (XII. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^5]: Az 1. pont d) alpontját az 1349/2012. (IX. 11.) Korm. határozat 3. pontja iktatta be.
 [^6]: Az 1. pont e) alpontját az 1349/2012. (IX. 11.) Korm. határozat 3. pontja iktatta be.
 [^7]: Az 1/A. pontot az 1075/2012. (III. 28.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1349/2012. (IX. 11.) Korm. határozat 5. pontja.
