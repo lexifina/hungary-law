@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1882-30
 | --- | --- | --- |
 | 2013-11-28 | 2013-1882-30-22.1 | 1882/2013. (XI. 28.) Korm. határozat |
 | 2013-11-29 | 2013-1882-30-22.2 | 2010: CXXX. törvény |
+| 2013-12-12 | 2013-1882-30-22.3 | 1932/2013. (XII. 12.) Korm. határozat |
