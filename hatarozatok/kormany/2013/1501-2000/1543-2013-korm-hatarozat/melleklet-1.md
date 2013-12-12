@@ -56,52 +56,6 @@
 
 | A 3.1.2. és a 3.1.3 konstrukció 0,62 Mrd Ft túlvállalást tartalmaz. |
 
-| I. Prioritás bemutatása - 5. prioritás: Hatékony energia-felhasználás |  |  |  |  | Környezet és Energia Operatív Program |
-
-|  |  |  |  |  |  |  | Akcióterv 2011-2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritás célja az épületek (különös tekintettel a központi és helyi költségvetési szervek épületeire és az egyéb középületekre, valamint a vállalkozások üzemi és irodaépületeire), továbbá a távhőszolgáltatók és –termelők energia-takarékosság növelésére, az energia-hatékonyság javítására irányuló beruházásainak elősegítése, támogatása. A prioritás elsősorban kis-közepes méretű projekteket támogat, 10-75% közötti arányban. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 293,1 HUF/EUR árfolyamon) |  |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |  |
-
-| 2,28 | 38,87 | 20,80 | 61,96 |  |  |  |  |
-
-| Túlvállalás: (Mrd Ft) |  |  |  |  |  |  |  |
-
-| ESZA tervezett aránya a prioritás keretéből: 0% |  |  |  |  |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 293,1 HUF/EUR árfolyamon) |  |  |  |  |
-
-| 2007-2013 | 2013 hátralévő | 2014-2015 | Összesen |  |  |  |  |
-
-| 51,82 | 59,68 | 0,00 | 111,50 |  |  |  |  |
-
-| II. A támogatási konstrukciók összefoglaló adatai (2011-2013) |  |  |  |  |  |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (MrdFt)* | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 5.4.0 | Távhő-szektor energetikai korszerűsítése | 2,28 | 4,47 | 0,00 | távhőellátás energiahatékonysági korszerűsítése | NFM |  |
-
-| 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 34,40 | 0,00 | épületek hőtechnikai adottságainak javítása, fűtési, hűtési hmv rendszerek korszerűsítése, világítási rendszerek korszerűsítése, megújulókkal történő kombinálás | NFM | BM |
-
-| 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 20,80 | épületek hőtechnikai adottságainak javítása, fűtési, hűtési hmv rendszerek korszerűsítése, világítási rendszerek korszerűsítése, megújulókkal történő kombinálás | NFM | BM |
-
-| 5. | Prioritás | 2,28 | 38,87 | 20,80 |  |  |  |
-
-| * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, amennyiben nem kerül sor költségvetési kompenzációra |
-
 | I. Prioritás bemutatása - 6. prioritás: Fenntartható életmód és fogyasztás |  |  |  | Környezet és Energia Operatív Program |
 
 |  |  |  |  |  |  |  | Akcióterv 2011-2013 |
@@ -249,4 +203,4 @@
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, amennyiben nem kerül sor költségvetési kompenzációra |
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1772/2013. (X. 25.) Korm. határozat 2. pontja, az 1882/2013. (XI. 28.) Korm. rendelet 3. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1772/2013. (X. 25.) Korm. határozat 2. pontja, az 1882/2013. (XI. 28.) Korm. rendelet 3. pontja, az 1933/2013. (XII. 12.) Korm. határozat 5. pontja szerint módosított szöveg.
