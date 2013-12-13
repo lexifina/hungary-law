@@ -8,7 +8,7 @@
 
 (2)
 
-(3) Pénznyerő automata kizárólag játékkaszinóban üzemeltethető. Egy játékkaszinó-egységben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat.
+(3) Pénznyerő automata kizárólag játékkaszinóban üzemeltethető. Egy játékkaszinó-egységben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat. Egy II. kategóriájú játékkaszinóban legfeljebb 300 pénznyerő automata üzemeltethető.
 
 (4) A pénznyerő automatának
 
