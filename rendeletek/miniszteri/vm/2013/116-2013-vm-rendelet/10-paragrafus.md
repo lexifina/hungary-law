@@ -1,0 +1,5 @@
+## 8. A támogatási kérelem elbírálása
+
+10. § (1) A támogatási kérelmet az MVH bírálja el, és a támogatási döntést a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) 32. § (1) bekezdés b) pontja szerint meghatározott – a 2. § (2) bekezdése szerinti célterületenként külön – benyújtási sorrend alapján hozza meg. A benyújtási sorrendet célterületenként – a 2. célterület esetében a 3. § (2) bekezdés b) pont ba) és bb) alpontjai szerint külön – kisértékű és nagyértékű beszerzésekre vonatkozóan külön rangsorban kell megállapítani. A támogatási határozatot a rendelkezésre álló keret alapján az MVH hozza meg.
+
+(2) Az (1) bekezdés szerinti benyújtási sorrendbe állított, jóváhagyható támogatási kérelmek közül azon kérelmek, amelyek tekintetében a támogatási döntés meghozatalakor a támogatási igény meghaladja az intézkedésre fordítható forrásnak az Irányító Hatóság által megállapított összegét, a Törvény 56. § (1) bekezdés b) pontja alapján forráshiány miatt kerülnek elutasításra.
