@@ -2,8 +2,9 @@
 
 ## 20. Hatályon kívül helyező rendelkezések
 
-27. § (1) Hatályát veszti az 50 MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló 10/2003. (VII. 11.) KvVM rendelet.
+27. § (1)[^10]
 
-(2)[^10]
+(2)[^11]
 
-[^10]: A 27. § (2) bekezdése a 24. § (2) bekezdés h) pontja alapján 2016. január 1-jén lép hatályba.
+[^10]: A 27. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 27. § (2) bekezdése a 24. § (2) bekezdés h) pontja alapján 2016. január 1-jén lép hatályba.

@@ -2,7 +2,7 @@
 
 ## Minimális kéntelenítési arányok
 
-1.[^13]
+1.[^14]
 
 2. A IV. kategóriájú tüzelőberendezésekre vonatkozó minimális kéntelenítési arányok:
 
@@ -18,4 +18,4 @@
 
 3. Az 1. és 2. pontban meghatározott minimális kéntelenítési arányokat havi átlagos határértékként kell alkalmazni.
 
-[^13]: A 7. melléklet 1. pontja a 24. § (2) bekezdés k) pontja alapján 2016. január 1-jén lép hatályba.
+[^14]: A 7. melléklet 1. pontja a 24. § (2) bekezdés k) pontja alapján 2016. január 1-jén lép hatályba.
