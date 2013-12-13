@@ -32,6 +32,8 @@
 
 ## Határidő: azonnal
 
-## 6. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1882/2013. (XI. 28.) Korm. határozat 1. pontját és 1. mellékletét.
+## 6.[^1]
 
 1. melléklet az 1932/2013. (XII. 12.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
