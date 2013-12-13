@@ -1,4 +1,4 @@
-108. § (1)[^8] A 3. pirotechnikai osztályba tartozó tűzijáték termék közintézményben, középületben, sportlétesítményben, egyházi jogi személy által használt helyiségben, rendezvény helyszínéül szolgáló nyilvános helyen és „C” tűzveszélyességi osztályba tartozó helyen pirotechnikus irányításával használható fel.
+108. § (1)[^9] A 3. pirotechnikai osztályba tartozó tűzijáték termék közintézményben, középületben, sportlétesítményben, egyházi jogi személy által használt helyiségben, rendezvény helyszínéül szolgáló nyilvános helyen és „C” tűzveszélyességi osztályba tartozó helyen pirotechnikus irányításával használható fel.
 
 (2) 3. pirotechnikai osztályba tartozó tűzijáték termék tömegközlekedési eszközön nem használható fel, és csak zárt csomagolásban szállítható.
 
@@ -6,4 +6,4 @@
 
 (4) Nagykorú személynek nem kell külön engedély 3. pirotechnikai osztályba tartozó tűzijáték terméknek a (3) bekezdésben meghatározott időpontig történő – egy időben összesen 3 kg nettó hatóanyag-tartalmat meg nem haladó – birtoklásához, tárolásához.
 
-[^8]: A 108. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^9]: A 108. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 67. §-a szerint módosított szöveg.

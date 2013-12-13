@@ -1,4 +1,4 @@
-## 114. §[^10]
+## 114. §[^11]
 
 ## 31. Az Európai Unió jogának való megfelelés
 
@@ -6,7 +6,9 @@
 
 a) a pirotechnikai tárgyaknak és egyes lőszereknek a polgári felhasználású robbanóanyagok forgalomba hozatalára és felügyeletére vonatozó rendelkezések harmonizációjáról szóló 93/15/EGK tanácsi irányelv alkalmazásában történő meghatározásáról szóló, 2004. április 23-i 2004/57/EK bizottsági irányelvnek,
 
-b) a pirotechnikai termékek forgalomba hozataláról szóló, 2007. május 23-i 2007/23/EK európai parlamenti és tanácsi irányelvnek
+b) a pirotechnikai termékek forgalomba hozataláról szóló, 2007. május 23-i 2007/23/EK európai parlamenti és tanácsi irányelvnek,
+
+c)[^12] 9. § (2) bekezdése a piro-technikai termékek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról (átdolgozás) szóló, 2013. június 12-i 2013/29/EU európai parlamenti és tanácsi irányelv 47. cikk (2) bekezdésének
 
 való megfelelést szolgálja.
 
@@ -14,4 +16,5 @@ való megfelelést szolgálja.
 
 (3) Az e rendeletben meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan pirotechnikai terméknek, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások az emberi élet megóvása tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
 
-[^10]: A 114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 115. § (1) bekezdés c) pontját a 447/2013. (XI. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.

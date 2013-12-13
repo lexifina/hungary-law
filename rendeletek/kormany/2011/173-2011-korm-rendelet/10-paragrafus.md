@@ -1,5 +1,3 @@
-## 9. § A pirotechnikai termék nem tartalmazhat – a fekete lőpor és a villanóelegy kivételével – polgári felhasználású robbanóanyagot és katonai robbanószert.
-
 10. § (1) A gyújtószerkezetnek megbízhatóan kell indulnia, és szokásos, előrelátható körülmények között használva megfelelő gyújtási képességgel kell rendelkeznie.
 
 (2) A gyújtószerkezetet olyan védelemmel kell ellátni, amely szokásos, előrelátható körülmények között történő tárolás és használat során óvja azt az elektrosztatikus kisüléstől. Az elektromos gyújtószerkezetet olyan védelemmel kell ellátni, amely szokásos, előrelátható körülmények között történő tárolás és használat során óvja azt az elektromágneses terekkel szemben.
