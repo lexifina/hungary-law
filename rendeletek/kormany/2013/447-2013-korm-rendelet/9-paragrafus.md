@@ -1,3 +1,3 @@
-## 8. §[^5]
+## „c) 9. § (2) bekezdése a piro-technikai termékek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról (átdolgozás) szóló, 2013. június 12-i 2013/29/EU európai parlamenti és tanácsi irányelv 47. cikk (2) bekezdésének”
 
-[^5]: A 8. § a 13. § (2) bekezdése alapján 2013. december 13-án lép hatályba.
+## (való megfelelést szolgálja.)

@@ -1,3 +1,3 @@
-## 2–3. §[^2]
+## 3. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 38. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 2–3. § a 13. § (2) bekezdése alapján 2013. december 13-án lép hatályba.
+## „(6) Az elveszett vagy eltulajdonított lőfegyver, illetve tartási engedély körözését az engedély kiadására feladat- és hatáskörrel rendelkező rendőri szerv rendeli el.”
