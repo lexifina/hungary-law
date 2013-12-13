@@ -36,7 +36,7 @@ f) fővárosi kerületi önkormányzatok,
 
 g) a tanyás térségekbe tartozó megyei jogú városok helyi önkormányzatai,
 
-h) egyházak, önálló jogi személyiséggel rendelkező egyházi szervek,
+h)[^17] egyházi jogi személyek,
 
 i) a tanyás térségekben működő tanyagondnoki feladatokat ellátó támogatásra jogosult civil szervezetek,
 
@@ -47,3 +47,5 @@ k) tanyán élő természetes személy.
 (4) Az előirányzatból – előirányzat-átcsoportosítással – utólagos elszámolás melletti előfinanszírozás formájában finanszírozhatóak a lebonyolításban részt vevő költségvetési szervek feladatellátással összefüggésben felmerült és igazolt költségei is.
 
 (5) Az előirányzatból költségvetési támogatás pályázat vagy egyedi elbírálás útján nyújtható.
+
+[^17]: A 46. § (3) bekezdés h) pontja a 115/2013. (XII. 12.) VM rendelet 5. §-ával megállapított szöveg.

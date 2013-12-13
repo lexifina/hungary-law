@@ -1,3 +1,5 @@
+## utófinanszírozás vagy utólagos elszámolás melletti előfinanszírozás formájában történik.
+
 ## 42. Nemzetközi Szervezetek tagsági díjai (20/03/25/00)
 
 56. § (1) Az előirányzat felhasználásának célja a miniszter által vezetett minisztérium és a miniszter irányítása alá tartozó költségvetési szervek nemzetközi szervezetekben és egyezményekben való részvételével összefüggő tagsági díjainak és hozzájárulásainak finanszírozása.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-48-20-2
 | 2013-06-09 | 2013-48-20-2Y.2 | 2010: CXXX. törvény |
 | 2013-10-10 | 2013-48-20-2Y.3 | 88/2013. (X. 2.) VM rendelet |
 | 2013-12-10 | 2013-48-20-2Y.4 | 112/2013. (XII. 9.) VM rendelet |
+| 2013-12-13 | 2013-48-20-2Y.5 | 115/2013. (XII. 12.) VM rendelet |

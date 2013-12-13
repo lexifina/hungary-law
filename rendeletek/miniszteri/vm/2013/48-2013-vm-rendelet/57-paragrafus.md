@@ -1,6 +1,6 @@
 ## 43. Géntechnológiával módosított szervezettel szennyezett szaporítóanyag felhasználása miatt kárt szenvedett termelők kártalanítása (20/03/28/00)
 
-57. §[^11] (1) Az előirányzat felhasználási céljai:
+57. §[^20] (1) Az előirányzat felhasználási céljai:
 
 a) a géntechnológiával módosított szervezettel szennyezett és megsemmisített szaporítóanyag igazolt ellenértékének megtérítése a megsemmisítésre kötelezett részére,
 
@@ -16,4 +16,4 @@ d) a b) pont szerinti megsemmisítés során harmadik személynek okozott kár m
 
 (4) Az előirányzat felhasználása közvetlen módon, fejezeti kifizetéssel valósul meg. Az előirányzat felhasználása utólagos elszámolás melletti előfinanszírozás vagy beszámolást követő utófinanszírozás formájában történik.
 
-[^11]: Az 57. § a 88/2013. (X. 2.) VM rendelet 69. §-ával megállapított szöveg.
+[^20]: Az 57. § a 88/2013. (X. 2.) VM rendelet 69. §-ával megállapított szöveg.
