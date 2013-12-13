@@ -1,0 +1,171 @@
+## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére 968,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel az 1. melléklet szerint;
+
+## Az átcsoportosítás tekintetében
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## Az elszámolás és a visszatérítési kötelezettség tekintetében
+
+## Felelős: közigazgatási és igazságügyi miniszter
+
+## emberi erőforrások minisztere
+
+## nemzeti fejlesztési miniszter
+
+## Határidő: 2014. június 30.
+
+## 2. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterének bevonásával a celldömölki bencés kolostor felújításához 2014. évben szükséges 200,0 millió forintnak az Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról gondoskodjanak;
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: 2014. március 31.
+
+## 3. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterének bevonásával a Római Katolikus Egyház Kaposvári Egyházmegye által építendő egyházi idősek otthona építéséhez 2014. évben szükséges 1468,3 millió forintnak az Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról gondoskodjanak;
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: 2014. március 31.
+
+## 4. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterének bevonásával a Miskolci Apostoli Exarchátus beruházásaihoz és fejlesztéseihez 2014. évben szükséges 440,0 millió forintnak az Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról gondoskodjanak;
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: 2014. március 31.
+
+## 5. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterének bevonásával a Hajdúdorogi Görögkatolikus Egyházmegye működéséhez 2014. évben szükséges 350,0 millió forintnak az Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról gondoskodjanak.
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: 2014. március 31.
+
+## 6. A konzolos kerékpárút átvezetése a Tisza-hídon tervezési díjához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1263/2013. (V. 14.) Korm. határozat 1. pontjában a „2013. november 15.” szövegrész helyébe a „2014. június 15.” szöveg lép.
+
+1. melléklet az 1936/2013. (XII. 13.) Korm. határozathoz
+
+| X. Közigazgatási és Igazságügyi Minisztérium |
+
+| XI. Miniszterelnökség |
+
+| XX. Emberi Erőforrások Minisztériuma |
+
+| XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások |
+
+| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
+
+| a Kormány hatáskörében |
+
+| Költségvetési év: 2013. |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  |  | Államháztartáson kívüli szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 302091 |  |  |  | 21 |  |  |  |  |  |  | Közép- és Kelet-európai Történelem és Társadalom Kutatásért Közalapítvány támogatása |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb felhalmozási kiadások |  |  |  |  |  |  |  |  | 100,0 |  |  |
+
+|  |  |  | 4 |  |  |  |  |  |  | Határon túli magyarok programjainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 228895 |  |  |  | 3 |  |  |  |  |  |  | Nemzetpolitikai tevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 368,0 |  |  |
+
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb felhalmozási kiadások |  |  |  |  |  |  |  |  | 50,0 |  |  |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 55 |  |  |  |  |  |  | Egyházi célú központi költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 263212 |  |  |  | 7 |  |  |  |  |  |  | Egyházi épített örökség védelme és egyéb beruházások |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | 2 |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb felhalmozási kiadások |  |  |  |  |  |  |  |  | 300,0 |  |  |
+
+|  | XLIII. |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 2 |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 2 |  |  |  |  |  |  | Hasznosítással kapcsolatos folyó kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 4 |  |  |  |  |  |  | Állami tulajdonú társaságok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 330017 |  |  |  |  | 2 |  |  |  |  |  |  | A Magyar Nemzeti Filmalap Zrt. támogatása |  |  |  |  |  |  |  |  | 150,0 |  |  |
+
+|  | XI. |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 297102 |  | 7 |  |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  | -968,0 |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) költségvetési évben egyszeri jellegű |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Millió forintban, egy tizedessel |
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | X. |  |  |  |  |  |  | Közigazgatási és Igazságügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  |  | Államháztartáson kívüli szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 302091 |  |  |  | 21 |  |  |  |  |  |  | Közép- és Kelet-európai Történelem és Társadalom Kutatásért Közalapítvány támogatása |  |  |  |  |  |  |  |  | 100,0 |  |  |
+
+|  |  |  | 4 |  |  |  |  |  |  | Határon túli magyarok programjainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 228895 |  |  |  | 3 |  |  |  |  |  |  | Nemzetpolitikai tevékenység támogatása |  |  |  |  |  |  |  |  |  | 418,0 |  |  |
+
+|  | XX. |  |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 55 |  |  |  |  |  |  | Egyházi célú központi költségvetési hozzájárulások |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 263212 |  |  |  | 7 |  |  |  |  |  |  | Egyházi épített örökség védelme és egyéb beruházások |  |  |  |  |  |  |  |  | 300,0 |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) költségvetési évben egyszeri jellegű |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet | 1 példány |  | időarányos |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  | teljesítményarányos |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  | egyéb: | azonnali | 968,0 |  |  |  |  | 968,0 |
+
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
