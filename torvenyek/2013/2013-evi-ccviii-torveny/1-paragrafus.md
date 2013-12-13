@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egészségügyi termékek hamisításáról és hasonló, közegészségügyi veszélyt jelentő bűncselekményekről szóló Európa Tanács Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
