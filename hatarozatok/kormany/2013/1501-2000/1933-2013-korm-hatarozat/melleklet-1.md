@@ -14,6 +14,8 @@
 
 ## Határidő: azonnal
 
-## 5. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1543/2013. (VIII. 15.) Korm. határozat 1. mellékletének 5. prioritásra vonatkozó részét.
+## 5.[^1]
 
 1. melléklet az 1933/2013. (XII. 12.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
