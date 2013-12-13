@@ -8,9 +8,13 @@ c) másik fajtanév bejegyzésére,
 
 d) újabb fajtafenntartó bejegyzésére.
 
-(2) A Fajtaminősítő Bizottság szakágazatonkénti szekciókból áll. Az egyes szekcióknak tizenöt tagja van. A Fajtaminősítő Bizottság tagjait az agrárpolitikáért felelős miniszter (a továbbiakban: a miniszter), a növénytermesztési hatóság, a Magyar Agrárkamara, a Magyar Tudományos Akadémia, a termékpálya szerinti terméktanácsok, a Hegyközségek Nemzeti Tanácsa, valamint az agrárkutató és -felsőoktatási intézmények, szakmai érdekképviseletek delegálják.
+(2) A Fajtaminősítő Bizottság szakágazatonkénti szekciókból áll. Az egyes szekcióknak legalább öt tagja van. A Fajtaminősítő Bizottságba tagokat
 
-(3) A Fajtaminősítő Bizottság elnökét és tagjait a miniszter (a továbbiakban: miniszter) nevezi ki, a delegáló szervezetek javaslata alapján. A Fajtaminősítő Bizottság titkársági feladatait a növénytermesztési hatóság látja el.
+a) jelöl az agrárpolitikáért felelős miniszter (a továbbiakban: a miniszter), a növénytermesztési hatóság,valamint
+
+b) jelölhet a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, a Magyar Tudományos Akadémia, a termékpálya szerinti terméktanácsok (a továbbiakban: terméktanács), a Hegyközségek Nemzeti Tanácsa, az agrárkutató és -felső oktatási intézmények, valamint a szakmai érdekképviseletek.
+
+(3) A Fajtaminősítő Bizottság elnökét, tagjait a miniszter nevezi ki a delegáló szervezetek javaslata alapján. A Fajtaminősítő Bizottság szekció elnökeit a miniszter jelöli ki. A Fajtaminősítő Bizottság titkársági feladatait a növénytermesztési hatóság látja el.
 
 (4) A Fajtaminősítő Bizottság tagjainak névsorát a minisztérium hivatalos lapjában közzé kell tenni.
 

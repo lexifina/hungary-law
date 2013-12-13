@@ -16,4 +16,14 @@ g) a Tanács 2002/55/EK irányelve a zöldségvetőmagok forgalmazásáról,
 
 h) a Tanács 2002/56/EK irányelve a vetőburgonya forgalmazásáról,
 
-i) a Tanács 2002/57/EK irányelve az olaj- és rostnövények vetőmagjának forgalmazásáról.
+i) a Tanács 2002/57/EK irányelve az olaj- és rostnövények vetőmagjának forgalmazásáról,
+
+j) a Tanács 98/56/EK irányelve a dísznövények szaporítóanyagainak forgalmazásáról,
+
+k) a Tanács 2008/72/EK irányelve a vetőmagokon kívüli zöldségszaporító és -ültetési anyagok forgalmazásáról,
+
+l) a Tanács 2008/90/EK irányelve a gyümölcstermő növények szaporítóanyagai, illetve a gyümölcstermesztésre szánt gyümölcstermő növények forgalmazásáról,
+
+m) a Bizottság 2008/62/EK irányelve a helyi és a regionális feltételekhez természetes módon alkalmazkodott, és génerózió által veszélyeztetett mezőgazdasági honos fajok és fajták elfogadása, és ezen honos fajok és fajták vetőmagjának, valamint vetőburgonyájának forgalmazása esetében alkalmazható eltérésekről,
+
+n) a Bizottság 2009/145/EK irányelve az egy adott helyen és régióban hagyományosan termesztett és génerózió által veszélyeztetett honos zöldségfajok és fajták, illetve a kereskedelmi növénytermesztési szempontból tényleges értékkel nem rendelkező, csupán bizonyos feltételek melletti termesztésre nemesített zöldségek fajtáinak elismerése, és ezen honos fajok és fajták vetőmagjának forgalmazása esetében alkalmazható eltérésekről.

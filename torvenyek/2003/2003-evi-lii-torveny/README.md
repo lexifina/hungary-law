@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-52-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2003-52-00-00.9 |
 | 2012-04-14 | 2012. évi XVIII. törvény | 2003-52-00-00.10 |
 | 2013-04-05 | 2013. évi XXXV. törvény | 2003-52-00-00.11 |
+| 2013-12-13 | 2013. évi CXCIX. törvény | 2003-52-00-00.12 |

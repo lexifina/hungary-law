@@ -16,13 +16,13 @@ c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezá
 
 5. Állami fajtaelismerés: hivatalos vizsgálatok és eljárások rendszere, amelynek eredményeként a növényfajta, illetve a szőlő klón a Nemzeti Fajtajegyzékbe bejegyzésre kerül.
 
-6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített fajták, valamint a szőlő klónok lényeges adatait tartalmazó, évente közzétett jegyzék.
+6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített növényfajták, szőlő klónok, szaporításra egyedileg engedélyezett zöldség-, gyümölcs- szőlő és erdészeti fajták, tájfajták, valamint a hivatalos leírással rendelkező gyümölcsfajták lényeges adatait tartalmazó, évente közzétett jegyzék.
 
 7. Leíró Fajtajegyzék: a Nemzeti Fajtajegyzékben felsorolt egyes növényfajták leírását és lényeges jellemzőit tartalmazó jegyzék.
 
 8. Ajánlott Fajták Jegyzéke: a Nemzeti vagy a Közösségi Fajtajegyzékben felsorolt növényfajták közül a szakmai és civil szervezetek által szélesebb körű összehasonlító fajtavizsgálatok alapján meghatározott termőhelyre és termesztési célra javasolt növényfajták jegyzéke.
 
-9. Szállítói Fajtajegyzék: gyümölcs és dísznövény szaporítóanyag előállítók és forgalmazók által benyújtott fajtaleírás alapján a növénytermesztés biológiai alapjaival összefüggő feladatokat ellátó hatóságnál (a továbbiakban: növénytermesztési hatóság) vezetett és közzétett fajtajegyzék.
+9.
 
 10. Közösségi Fajtajegyzék: az Európai Bizottság által közzétett fajtajegyzék, amelyet az Európai Unió tagállamainak (a továbbiakban: tagállamok) Nemzeti Fajtajegyzékei alapján állítanak össze.
 
@@ -85,3 +85,15 @@ d) az a)–c) pontok szerinti személy örököse, illetve jogutódja.
 a) elválasztó sáv: az a távolság, amely a vetőmag előállítás mechanikai keveredés-mentességét szolgálja,
 
 b) izolációs távolság: az a távolság, amely az idegen beporzás-, valamint növényegészségügyi fertőzésmentes szaporítóanyag előállítást szolgálja.
+
+35. Géntechnológiával módosított szervezettel szennyezett vetőmag: az a vetőmag, amely
+
+a) Európai Unióban engedéllyel nem rendelkező,
+
+b) az Európai Unióban termesztési célú felhasználásra ki nem terjedő engedéllyel rendelkező, vagy
+
+c) az Európai Unióban termesztési célú engedéllyel rendelkező, de védzáradéki eljárás alatt álló
+
+géntechnológiai módosítás által megváltozott génállományú természetes szervezetet tartalmaz, illetve ilyen természetes szervezetből áll.
+
+36. Vetőmag szaporító tábla: az az összefüggő földterület, amelyen a vetőmag-előállító egy növényfaj azonos szaporítási fokú fajtáját termeszti, a közvetlenül egymás melletti (érintkező) táblákat egy táblaként lehet kezelni, amennyiben út, árok, fasor, illetve egyéb az azonos művelést nem kizáró tereptárgy választja el ezeket egymástól és a vetésidő vagy a növényállomány fejlettségi állapotában mutatkozó eltérés az érintett táblák (táblarészek) között maximum 7 nap.

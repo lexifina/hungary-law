@@ -1,6 +1,6 @@
 ## A növényfajták fenntartása
 
-14. § (1) Az állami elismerésben részesített növényfajta fajtaleírásában rögzített tulajdonságainak és gazdasági értékének megőrzéséről fajtafenntartással kell gondoskodni. A fajtafenntartás eredményességét a növénytermesztési hatóság ellenőrzi.
+14. § (1) A Nemzeti Fajtajegyzéken szereplő növényfajta fajtaleírásában rögzített tulajdonságainak és gazdasági értékének megőrzéséről fajtafenntartással kell gondoskodni. A fajtafenntartás eredményességét a növénytermesztési hatóság ellenőrzi a fajtaleírásban rögzített morfológiai tulajdonságok alapján.
 
 (2) A fajtafenntartás a bejelentő vagy megbízottja feladata.
 

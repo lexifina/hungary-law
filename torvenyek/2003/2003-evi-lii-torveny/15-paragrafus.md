@@ -4,9 +4,9 @@
 
 a) a Nemzeti Fajtajegyzékben,
 
-b) a Szállítói Fajtajegyzékben,
+b)
 
-c) a Közösségi Fajtajegyzékben, és szőlő esetében bármely tagállam fajta (klón) jegyzékében,
+c) a Közösségi Fajtajegyzékben, valamint szőlő és gyümölcs esetében bármely tagállam fajta (klón) jegyzékében,
 
 d) az Erdészeti Szaporítóanyag-forrás Jegyzékben,
 
@@ -26,12 +26,12 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 
 (6) A kábítószerek vagy pszichotróp anyagok előállítására alkalmas növényfajok szaporítóanyagának előállítását és forgalomba hozatalát külön jogszabály feltételekhez kötheti.
 
-(7) Szőlő-, gyümölcs-, dísznövény-, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyagok előállításhoz és forgalomba hozatalához a növénytermesztési hatóság engedélye szükséges. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
+(7) E törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetekben a szőlő-, gyümölcs-, erdészeti és fás szárú energetikai szaporítóanyagok, valamint a zöldségpalánta előállításához és forgalomba hozatalához a növénytermesztési hatóság engedélye, illetve a dísznövény szaporítóanyagok előállításához és forgalomba hozatalához az előállító, forgalmazó nyilvántartásba vétele szükséges. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait, illetve a szervezet nevét és székhelyét.
 
-(8) A növénytermesztési hatóság annak engedélyezi a (7) bekezdés szerinti tevékenység folytatását, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek. A növénytermesztési hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
+(8) A növénytermesztési hatóság a (7) bekezdés szerinti tevékenység folytatását engedélyezi, illetve nyilvántartásba veszi, ha a kérelmező megfelel e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek. A növénytermesztési hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
 
 (9) Vetőmag forgalomba hozatali tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek. Aki vetőmag forgalomba hozatali tevékenységet kíván folytatni, köteles erre irányuló szándékát a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 
 (10) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a (7), illetve a (9) bekezdés szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 
-(11) A növénytermesztési hatóság a (7) bekezdés szerinti engedéllyel rendelkezőkről, valamint a (7) vagy (9) bekezdés szerinti tevékenység végzésére jogosult, a (9) vagy a (10) bekezdés szerinti bejelentést tevőkről nyilvántartást vezet, amely tartalmazza a természetes személy engedélyes vagy bejelentő természetes személyazonosító adatait. A nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(11) A növénytermesztési hatóság közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.

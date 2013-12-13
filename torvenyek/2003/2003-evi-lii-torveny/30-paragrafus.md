@@ -28,4 +28,6 @@ j) az adópolitikáért felelős miniszterrel egyetértésben az állami elismer
 
 k) az Európai Unió intézményeivel való kapcsolattartás rendjét,
 
-l) az adópolitikáért felelős miniszterrel egyetértésben a szaporítóanyagok nemzetközi forgalmát is érintő, a vámkezeléshez kapcsolódó korlátozó rendelkezéseket.
+l) az adópolitikáért felelős miniszterrel egyetértésben a szaporítóanyagok nemzetközi forgalmát is érintő, a vámkezeléshez kapcsolódó korlátozó rendelkezéseket,
+
+m) a géntechnológiával módosított szervezettel szennyezett szaporítóanyag felhasználása miatt kárt szenvedett termelők kárának enyhítésére szolgáló juttatás részletes szabályait.

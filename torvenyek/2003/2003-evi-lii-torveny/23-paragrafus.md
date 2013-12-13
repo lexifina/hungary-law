@@ -1,58 +1,132 @@
-23. § (1) A növénytermesztési hatóság
+23. § (1) A növénytermesztési hatóság közhiteles hatósági nyilvántartást vezet:
 
-a) nyilvántartást vezet
+a) a növényfajták állami elismerésére irányuló kérelmekről, valamint az állami elismerésben részesített növényfajtákról, amely tartalmazza
 
-aa) a növényfajták állami elismerésére irányuló kérelmekről,
+aa) a bejelentő természetes személyazonosító adatait, cégnevét, adószámát, székhelyét, telephelyét,
 
-ab) a szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról;
+ab) az állami elismerésben részesített növényfajta nevét,
 
-b) elvégzi vagy elvégezteti az állami elismerésre bejelentett növényfajták fajtavizsgálatát, illetve a növényfajta-oltalomra bejelentett növényfajták kísérleti vizsgálatát;
+ac) az állami elismerés évét (időpontját);
 
-c) ellátja a Fajtaminősítő Bizottság titkársági feladatait;
+b) a vetőmag előállítókról, valamint az engedélyes vagy a nyilvántartásba vett szőlő-, gyümölcs-, dísznövény, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról, amely tartalmazza
 
-d) előterjesztést készít a Fajtaminősítő Bizottság részére a növényfajták állami elismerésére, annak meghosszabbítására, illetve visszavonására;
+ba) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
 
-e) a Fajtaminősítő Bizottság állásfoglalása szerint kiadja a növényfajták állami elismeréséről, annak meghosszabbításáról, illetve visszavonásáról szóló határozatokat;
+bb) jogi személy, valamint jogi személyiség nélküli szervezet esetén az azonosító adatokat (cégnevét, adószámát, székhelyét, telephelyét),
 
-f) vezeti és közzéteszi a Nemzeti Fajtajegyzéket, a Leíró Fajtajegyzéket, továbbá a Szállítói Fajtajegyzéket;
+bc) a Mezőgazdasági Vidékfejlesztési Hivatal regisztrációs számát vagy a növénytermesztési hatóság partner azonosítóját,
 
-g) bejegyzi az új fajtafenntartókat;
+bd) a tevékenység megjelölését,
 
-h) minősíti a szaporítóanyagokat és a törzsültetvényeket;
+be) szaporítóanyag előállítás esetén a vetés, illetve a termesztés helyének azonosító adatait (cím, helyrajzi szám, MePaR azonosító szám, földrajzi koordináták, táblaszám, terület mérete), valamint szaporítóanyag forgalmazás esetén a telephely megfelelő azonosító adatait;
 
-i) engedélyezi:
+c) a minősített szaporítóanyag tételekről, amely tartalmazza
 
-ia) az állami elismerésre bejelentett növényfajták egyedi szaporítását,
+ca) a tétel előállítójának megnevezését,
 
-ib) a szaporítóanyag szaporítási zárt körzetek kialakítását,
+cb) a tétel előállításának idejét,
 
-ic) a szaporítóanyag tételek átruházott jogkörben történő minősítését,
+cc) a minősítésre beérkező szaporítóanyag fajtáját,
 
-id) a fémzárolt szaporítóanyag tételek kiszerelését,
+cd) a minősítésre beérkező szaporítóanyag mennyiségét;
 
-ie) a törzsültetvények létesítését, megszüntetését,
+d) a szántóföldi és zöldség növényfajták esetében a vetőmag kiszerelést folytatókról, amely tartalmazza
 
-if) a faiskola és palántanevelő üzem létesítését,
+da) a vetőmag kiszerelő természetes személy azonosító adatait, illetve jogi személy, valamint jogi személyiség nélküli szervezet cégnevét, adószámát, székhelyét, telephelyét,
 
-ig) a szőlő-, gyümölcs-, dísznövény-, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyagok előállítását és forgalomba hozatalát;
+db) a kiszerelésre engedélyezett fajok nevét;
 
-j) engedélyezheti a 15. § (1) bekezdésében foglaltaknak meg nem felelő szaporítóanyag eseti felhasználását;
+e) a standard zöldség vetőmag előállítókról és forgalmazókról, amely tartalmazza
 
-k) ellenőrzi:
+ea) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
 
-ka) a növényfajták fajtafenntartásának eredményességét,
+eb) jogi személy, valamint jogi személyiség nélküli szervezet esetén a cégnevét, adószámát, székhelyét, telephelyét,
 
-kb) a szaporítóanyagok előállítását, feldolgozását, forgalomba hozatalát, felhasználását,
+ec) engedélyezett fajok nevét;
 
-kc) az átruházott jogkörben végzett szaporítóanyag-tétel minősítést,
+f) a minősített és ellenőrzött erdészeti és fás szárú energetikai célú szaporítóanyag tételekről, amely tartalmazza
 
-kd) a zárt körzetben az előírt korlátozások betartását;
+fa) a fajta vagy származás megnevezését,
 
-l) eljár – a 23/A. §-ban foglaltakra is figyelemmel – az e törvény és a végrehajtására kiadott jogszabály rendelkezéseinek megsértése esetén.
+fb) a szaporítóanyag mennyiségét,
 
-(2)
+fc) az előállítás idejét;
 
-(3) A növénytermesztési hatóság ellenőrzést végző munkatársa hatósági igazolvánnyal rendelkezik, amelyet a növénytermesztési hatóság ad ki.
+g) az erdészeti génmegőrzési tételekről és génrezervátumokról, amely tartalmazza
+
+ga) a génmegőrzési egység elnevezését,
+
+gb) a génmegőrzési egység egyedi azonosítóját, ami tartalmazza a megőrzött fafaj nevét, a génmegőrzési módot (ex situ, illetve in situ) és az egyedi állomány azonosító sorszámot,
+
+gc) a génmegőrzési egység földrajzi fellelhetőségét,
+
+gd) a tulajdonos, illetve a gazdálkodó, kezelő nevét;
+
+h) a minősített és ellenőrzött gyümölcs szaporítóanyag tételekről, amely tartalmazza
+
+ha) a fajtanevet,
+
+hb) a szaporítóanyag mennyiségét,
+
+hc) az előállítás idejét;
+
+i) a minősített és ellenőrzött szőlő szaporítóanyag tételekről, amely tartalmazza
+
+ia) a fajtanevet,
+
+ib) a szaporítóanyag mennyiségét,
+
+ic) az előállítás idejét;
+
+j) a határon átnyúló szolgáltatás folytatása esetén a 15. § (10) bekezdése szerinti bejelentést tevőkről.
+
+(2) A növénytermesztési hatóság
+
+a) elvégzi vagy elvégezteti az állami elismerésre bejelentett növényfajták fajtavizsgálatát, illetve a növényfajta-oltalom iránt bejelentett növényfajták kísérleti vizsgálatát;
+
+b) ellátja a Fajtaminősítő Bizottság titkársági feladatait;
+
+c) előterjesztést készít a Fajtaminősítő Bizottság részére a növényfajták állami elismerésére, annak meghosszabbítására, illetve visszavonására;
+
+d) a Fajtaminősítő Bizottság állásfoglalása, illetve az elvégzett DUS-vizsgálat szerint kiadja a növényfajták állami elismeréséről, annak meghosszabbításáról, illetve visszavonásáról szóló határozatokat;
+
+e) vezeti és közzéteszi a Nemzeti Fajtajegyzéket;
+
+f) bejegyzi az új fajtafenntartókat;
+
+g) minősíti a szaporítóanyagokat és a törzsültetvényeket;
+
+h) engedélyezi:
+
+ha) az állami elismerésre bejelentett növényfajták egyedi szaporítását,
+
+hb) a szaporítóanyag szaporítási zárt körzetek kialakítását,
+
+hc) a szaporítóanyag tételek átruházott jogkörben történő minősítését,
+
+hd) a fémzárolt szaporítóanyag tételek kiszerelését,
+
+he) a törzsültetvények létesítését,
+
+hf) a faiskola és palántanevelő üzem létesítését,
+
+hg) a szőlő-, gyümölcs-, dísznövény-, erdészeti és fás szárú energetikai szaporítóanyagok, valamint zöldségpalánta előállítását és forgalomba hozatalát;
+
+i) engedélyezheti a 15. § (1) bekezdésében foglaltaknak vagy e törvény végrehajtására kiadott jogszabály szerinti minősítési feltételeknek meg nem felelő szaporítóanyag eseti felhasználását;
+
+j) ellenőrzi:
+
+ja) a növényfajták fajtafenntartásának eredményességét, a fajtaleírásban rögzített morfológiai tulajdonságok alapján,
+
+jb) a szaporítóanyagok előállítását, feldolgozását, forgalomba hozatalát, felhasználását,
+
+jc) az átruházott jogkörben végzett szaporítóanyag-tétel minősítést,
+
+jd) a zárt körzetben az előírt korlátozások betartását;
+
+k) eljár – a 23/A. §-ban foglaltakra is figyelemmel – az e törvény és a végrehajtására kiadott jogszabály rendelkezéseinek megsértése esetén.
+
+(3) A növénytermesztési hatóság hatósági igazolványt állít ki az ellenőrzést végző munkatársa részére. A növénytermesztési hatóság ellenőrzési tevékenysége kiterjed minden olyan helyre, ahol a szaporítóanyag előállítását, kezelését, tárolását végzik, továbbá, ahol szaporítóanyagot forgalomba hoznak vagy szaporító alapanyagot felhasználnak. A termelő, illetve a forgalmazó köteles az ellenőrzést végző személy bejutását biztosítani az ellenőrizendő helyre és együttműködni az ellenőrzést végzővel.
 
 (4) A növénytermesztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 

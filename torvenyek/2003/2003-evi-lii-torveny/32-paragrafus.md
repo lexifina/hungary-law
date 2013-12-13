@@ -1,0 +1,1 @@
+32. § A törvény 2. § 35. pontjának és 21/A. §-ának a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv – 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 8–10. cikke szerinti előzetes bejelentése megtörtént.
