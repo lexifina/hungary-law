@@ -44,7 +44,7 @@ m)[^111] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott eng
 
 (5)[^115] Az a személy vagy szervezet, aki vagy amely a lőfegyvertartásra jogosító engedéllyel rendelkezik, lőfegyverének, valamint engedélyének, illetve az ennek meglétét igazoló hatósági igazolványának elvesztését vagy eltulajdonítását köteles az elvesztés, illetve az eltulajdonítás helye és a lakóhelye vagy tevékenységének helye szerint illetékes rendőrkapitányságon haladéktalanul bejelenteni. Az a személy, aki gáz- és riasztófegyver önvédelmi célú viselésére jogosító engedéllyel rendelkezik, engedélyének, illetve az ennek meglétét igazoló hatósági igazolványának elvesztését vagy eltulajdonítását köteles az elvesztés, illetve az eltulajdonítás helye és a lakóhelye szerint illetékes rendőrkapitányságon haladéktalanul bejelenteni.
 
-(6)[^116] Az elveszett vagy eltulajdonított lőfegyver, illetve tartási engedély körözését a bejelentés helye szerint illetékes rendőrkapitányság rendeli el.
+(6)[^116] Az elveszett vagy eltulajdonított lőfegyver, illetve tartási engedély körözését az engedély kiadására feladat- és hatáskörrel rendelkező rendőri szerv rendeli el.
 
 [^100]: A 38. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 15. pontja szerint módosított szöveg.
 [^101]: A 38. § (1) bekezdés a) pontja a 39/2012. (III. 12.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
@@ -62,4 +62,4 @@ m)[^111] az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott eng
 [^113]: A 38. § (1b) bekezdését a 39/2012. (III. 12.) Korm. rendelet 18. § (2) bekezdése iktatta be, szövege a 226/2012. (VIII. 23.) Korm. rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^114]: A 38. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának m) pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (58) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^115]: A 38. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
-[^116]: A 38. § (6) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 21. § (7) bekezdésével megállapított, a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^116]: A 38. § (6) bekezdése a 447/2013. (XI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
