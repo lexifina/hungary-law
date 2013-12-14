@@ -84,15 +84,15 @@ Határidő: 2012. november 30. a tématerületek véglegesítése
 
 2013. március 31. a szakpolitikai programok kidolgozása
 
-5. A Kormány felkéri a területfejlesztés stratégiai tervezéséért felelős minisztert, hogy a területfejlesztési tervezési rendszer hatékonyságának növelése érdekében a területfejlesztésért felelős miniszter bevonásával dolgozza ki a területfejlesztési tervezési rendszer új szabályait.
+5.[^1] A Kormány felkéri a területfejlesztés stratégiai tervezéséért felelős minisztert, hogy a területfejlesztési és területrendezési, az ágazati, valamint a települési tervezés összehangolását biztosító törvényi szintű keretszabályokat az érintett miniszterek bevonásával dolgozza ki.
 
 Felelős: területfejlesztés stratégiai tervezéséért felelős miniszter
 
-területfejlesztésért felelős miniszter
+érintett miniszterek
 
-Határidő: 2013. április 30.
+Határidő: 2014. augusztus 31.
 
-5/A.[^1] A Kormány felkéri a területfejlesztés stratégiai tervezéséért felelős minisztert, hogy az új Országos Területfejlesztési és az új Országos Fejlesztési Koncepció Országgyűlés általi elfogadását követően vizsgálja felül a területfejlesztési-statisztikai kistérségi rendszert.
+5/A.[^2] A Kormány felkéri a területfejlesztés stratégiai tervezéséért felelős minisztert, hogy az új Országos Területfejlesztési és az új Országos Fejlesztési Koncepció Országgyűlés általi elfogadását követően vizsgálja felül a területfejlesztési-statisztikai kistérségi rendszert.
 
 Felelős: területfejlesztés stratégiai tervezéséért felelős miniszter
 
@@ -100,4 +100,5 @@ Határidő: 2013. december 31.
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 5/A. pontot az 1526/2012. (XI. 28.) Korm. határozat 1. pontja iktatta be.
+[^1]: Az 5. pont az 1942/2013. (XII. 13.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: Az 5/A. pontot az 1526/2012. (XI. 28.) Korm. határozat 1. pontja iktatta be.
