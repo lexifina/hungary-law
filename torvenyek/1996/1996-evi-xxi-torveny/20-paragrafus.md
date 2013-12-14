@@ -1,7 +1,3 @@
-## IV. Fejezet
-
-## A TERÜLETFEJLESZTÉS ÉS A TERÜLETRENDEZÉS ESZKÖZEI
-
 ## A területfejlesztést és a területrendezést segítő pénzügyi eszközök
 
 20. § (1) A területfejlesztési célok megvalósítását az általános gazdasági szabályozás, a normatív és a térségre vonatkozó sajátos pénzügyi eszközrendszer összehangolt működése, a forráskoordináció, valamint a miniszter számára az összehangolás érdekében külön jogszabályban meghatározott jogkörök biztosítják.

@@ -4,7 +4,15 @@
 
 (1a) A térségi fejlesztési tanács működésével kapcsolatos gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni az e törvényben meghatározott sajátosságok figyelembevételével. A feladat ellátásával kapcsolatos beszámolási kötelezettséget – figyelemmel a Kormánynak az Országgyűlés számára a 6. § g) pontjában előírt beszámolási kötelezettségére – a térségi fejlesztési tanács a miniszternek köteles teljesíteni a miniszter rendeletében meghatározott módon.
 
-(2) A területfejlesztési koncepció és program kidolgozását, a területrendezési terv készítésében való közreműködést és más közös területfejlesztési feladatokat a Balaton kiemelt üdülőkörzete térségében a Balaton Fejlesztési Tanács látja el.
+(2) A területfejlesztési koncepció és program kidolgozását, a területrendezési terv készítésében való közreműködést és más közös területfejlesztési feladatokat a Balaton kiemelt üdülőkörzete térségében a Balaton Fejlesztési Tanács látja el. Ennek keretében:
+
+a) vizsgálja és értékeli a kiemelt térség társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a területi információs rendszer rendelkezésére bocsátja,
+
+b) az országos fejlesztési és területfejlesztési koncepcióval összhangban kidolgozza és a Kormánynak elfogadásra benyújtja a kiemelt térség területfejlesztési koncepcióját, illetve – a kiemelt térség területrendezési tervének figyelembevételével – a kiemelt térség területfejlesztési programját,
+
+c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat,
+
+d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
 
 (3) A térségi fejlesztési tanács létrehozásakor az (1) bekezdésben meghatározott feladatok tekintetében az érintett megyei közgyűlések szervezeti és működési szabályzatban rögzítik a 13. § (2) bekezdésében felsorolt feladatok figyelembevételével, hogy mely feladatokat látnak el a térségi fejlesztési tanács keretében.
 
@@ -30,7 +38,9 @@ a) a tanács illetékességi területén működő megyei közgyűlések elnöke
 
 b) az érintett megyei közgyűlés egy-egy képviselője, továbbá
 
-c) a Balaton Fejlesztési Tanács tekintetében: a Kormány képviselője.
+c) a Balaton Fejlesztési Tanács tekintetében: a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője, valamint
+
+d) az ágazati operatív programok végrehajtásáért felelős miniszterek egy-egy képviselője.
 
 (9)
 

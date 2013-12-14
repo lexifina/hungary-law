@@ -4,11 +4,11 @@
 
 a) előkészíti és az Országgyűlés elé terjeszti
 
-aa) az országos területfejlesztési koncepciót, a területfejlesztési politikát meghatározó irányelveket, célokat és hosszú távú prioritásokat,
+aa) az országos fejlesztési és területfejlesztési koncepciót, a területfejlesztési politikát meghatározó irányelveket, célokat, hosszú távú prioritásokat, a kiemelt térségek körét, valamint a területfejlesztési támogatások és a decentralizáció elveit,
 
 ab) az ország, a Budapesti Agglomeráció, a Balaton Kiemelt Üdülőkörzet területrendezési tervét,
 
-ac) a területfejlesztési támogatások és a decentralizáció irányelveit, a kedvezményezett térségek besorolásának feltételrendszerét,
+ac)
 
 ad) az éves költségvetési törvényben a területfejlesztést és a területrendezést szolgáló pénzügyi eszközöket és az egyes pénzügyi kedvezményeket;
 
@@ -34,4 +34,8 @@ k) gondoskodik az országos területi információs rendszer működtetéséről
 
 l) rendeletben meghatározza a miniszterek területfejlesztéssel és területrendezéssel összefüggő feladatait és a miniszterek közötti folyamatos koordináció szabályait;
 
-m) jelöli az Európai Unió Régiók Bizottságába Magyarország képviselőit.
+m) jelöli az Európai Unió Régiók Bizottságába Magyarország képviselőit;
+
+n) meghatározza a kedvezményezett területfejlesztési-statisztikai kistérségek és települések besorolását, valamint a besorolás feltételrendszerét,
+
+o) az európai uniós tervezési ciklusoknak megfelelően felülvizsgálja a kedvezményezett kistérségek és települések körét.

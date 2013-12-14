@@ -8,19 +8,17 @@ c) közreműködik a kiemelt térségekre vonatkozó fejlesztési programok kido
 
 d) szervezi az országos és az országos jelentőségű, valamint az országhatáron átnyúló, közös koncepciók és tervek kialakítását, gondoskodik elkészítésükről;
 
-e) koordinálja a területfejlesztési célok megvalósítását közvetlenül és közvetve szolgáló fejezeti kezelésű előirányzatok felhasználását;
+e)
 
 f) elősegíti az érintett miniszterekkel együttműködve a forráskoordinációt és a programfinanszírozás megvalósulását;
 
 g) elősegíti a területfejlesztési koncepciók és programok összhangját;
 
-h) ellátja a jogszabályokban és az állami irányítás egyéb jogi eszközei által meghatározott területfejlesztési jogszabály-előkészítési és végrehajtási feladatokat;
+h)–i)
 
-i) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos tevékenységét, szakmai irányítást gyakorol a területfejlesztés intézményrendszere felett;
+j)
 
-j) gyakorolja a regionális fejlesztési ügynökségek feletti tulajdonosi jogokat.
-
-(2) A miniszterek feladataik ellátása során érvényesítik az e törvényen rögzített célokat, a 8. § (4) bekezdésében foglaltakra figyelemmel részt vesznek a területfejlesztéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában. Így különösen:
+(2) A miniszterek feladataik ellátása során érvényesítik az e törvényen rögzített célokat, részt vesznek a területfejlesztéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában. Így különösen:
 
 a) részt vesznek a területfejlesztési koncepciók és programok feladatkörüket érintő munkarészeinek kidolgozásában és érvényesítésében;
 

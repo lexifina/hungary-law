@@ -1,29 +1,25 @@
-13. § (1) A megyei önkormányzat feladatainak ellátásában együttműködik a települési önkormányzatokkal, a megye fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, az érdekelt civil és szakmai szervezetekkel.
+## A megyei önkormányzat vidékfejlesztési és koordinációs feladatai
 
-(2) A megyei önkormányzat a megye területén összehangolja a kormányzat, az önkormányzatok és a gazdasági szervezetek fejlesztési elképzeléseit, ennek keretében:
+13. § A megyei önkormányzat vidékfejlesztési feladatkörében:
 
-a) vizsgálja és értékeli a megye társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a területi információs rendszer rendelkezésére bocsátja;
+a) dönt a hatáskörébe utalt vidékfejlesztési források felhasználásáról,
 
-b) a megyei jogú város önkormányzata bevonásával kidolgozza és elfogadja – az országos területfejlesztési koncepcióval összhangban – a megye hosszú távú területfejlesztési koncepcióját (a továbbiakban: megyei területfejlesztési koncepció), illetve – a megyei területfejlesztési koncepció és területrendezési terv figyelembevételével – a megye fejlesztési programját és az egyes alprogramokat;
+b) összehangolja a vidékfejlesztési stratégiákat és akciókat a megyei, térségi, határ menti és határon átnyúló fejlesztési és területfejlesztési koncepciókkal és programokkal, valamint a megyét érintő területrendezési tervekkel,
 
-c) előzetesen véleményezi a térségi területfejlesztési koncepciókat, területfejlesztési programokat, részt vesz az országos területfejlesztési koncepció és a nemzeti fejlesztési stratégia kidolgozásában;
+c) egyetértési jogkört gyakorol a vidékfejlesztési stratégiák, akciók jóváhagyását megelőzően,
 
-d) szakmai kapacitásával segíti a területfejlesztési önkormányzati társulások és a térségi fejlesztési tanácsok tervező, döntés-előkészítő, fejlesztési célokat feltáró, pályázatokat megalapozó tevékenységét;
+d) a vidékfejlesztési források felhasználásával kapcsolatban közreműködői szervezeti feladatokat lát el a regionális fejlesztési ügynökség útján,
 
-e) előzetesen véleményezi az országos, valamint a megyét érintő ágazati fejlesztési koncepciókat és programokat, továbbá a területét érintő területrendezési terveket;
+e) elláthatja a helyi akciócsoportok, a közösségvezérelt helyi fejlesztésben érintett szervezetek munkaszervezeti feladatait,
 
-f) közreműködik a megyében kialakult társadalmi és gazdasági válsághelyzetek kezelésében;
+f) a helyi akciócsoportok és közösségvezérelt helyi fejlesztésben érintett szervezetek tevékenységében való részvétellel közreműködik azok tevékenységében,
 
-g) figyelemmel kíséri az operatív programok megyében jelentkező feladatainak megvalósítását, külön döntés alapján közreműködik azok végrehajtásában;
+g) összehangolja a helyi akciócsoportok tevékenységét a fejlesztéspolitikához és a területfejlesztéshez kapcsolódóan,
 
-h) előzetesen véleményezi és koordinálja az illetékes területi államigazgatási szervek megyét érintő fejlesztéseit és pályázatait;
+h) külön megállapodás szerint a vidékfejlesztési akciók végrehajtása során koordinációs és döntéshozatali feladatokat lát el,
 
-i) megállapodásokat köthet külföldi régiókkal, részt vehet nemzetközi együttműködésekben;
+i) nyomon követi és értékeli a vidékfejlesztési akciók lebonyolítását és monitoring bizottsági feladatokat lát el a programok végrehajtásához kapcsolódóan,
 
-j) közreműködik a területfejlesztési programok végrehajtásának nyomon követésében és értékelésében;
+j) ösztönzi a települési önkormányzatok összefogását vidékfejlesztési programok kidolgozására és megvalósítására,
 
-k) a tervezés és a végrehajtás során gondoskodik a partnerség elvének érvényesítéséről.
-
-(3) A megyei önkormányzat dönt a hatáskörébe utalt fejlesztési források felhasználásáról.
-
-(4) A megyei önkormányzat a területfejlesztési koncepcióról és programról szóló rendeletét a koncepció tekintetében a területfejlesztés stratégiai tervezéséért felelős miniszter, a program tekintetében a miniszter állásfoglalásának beszerzését követően fogadhatja el. Az állásfoglalás kiadására egy hónapon belül kerül sor, ha e határidőn belül nem történik meg, úgy az állásfoglalást egyetértőnek kell tekinteni.
+k) a vidékfejlesztési koordinációval kapcsolatos feladatok ellátásáról önkormányzati rendeletet alkot.

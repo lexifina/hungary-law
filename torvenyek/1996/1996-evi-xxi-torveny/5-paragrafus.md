@@ -24,7 +24,7 @@ c) területrendezési terv: az ország, illetve egyes térségek műszaki-fizika
 
 d) területfejlesztési politika: az ország és az egyes térségek területi fejlődése fő irányainak, fejlesztési stratégiai céljainak és az ezek elérését segítő legfontosabb eszközöknek hosszabb időtávra szóló meghatározása és érvényesítése;
 
-e) régió: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 2003. május 26-i 1059/2003/EK európai parlamenti és tanácsi rendelet által meghatározott, a tervezési-statisztikai és fejlesztési célokat szolgáló egy vagy több megyére (a fővárosra) kiterjedő, az érintett megyék (főváros) közigazgatási határával lehatárolt társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területfejlesztési egység;
+e) régió: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 2003. május 26-i 1059/2003/EK európai parlamenti és tanácsi rendeletben meghatározott NUTS-2. szintű területi egység,
 
 f) kiemelt térség: egy vagy több megyére (a fővárosra) vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő területi egység, amely egységes tervezéséhez és fejlesztéséhez országos érdekek fűződnek;
 
@@ -32,7 +32,7 @@ g) területfejlesztési-statisztikai kistérség: földrajzilag összefüggő te
 
 h) kistérségi lehatárolás: a települések területfejlesztési-statisztikai kistérségbe sorolása;
 
-i) térség: különböző területi egységek (a régió, a megye, ezek területének egy része és a kiemelt térség) összefoglaló elnevezése;
+i) térség: különböző területi egységek (az ország, a régió, a megye, a kiemelt térség, a területfejlesztési-statisztikai kistérség, valamint ezek területének egy része) összefoglaló elnevezése,
 
 j) szabad vállalkozási zóna: a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal vagy helyrajzi számokkal lehatárolt, különböző feltételeket teljesítő, a fejlesztés szempontjából együtt kezelt térség, illetve kedvezményezett térségben a Kormány által egyedileg meghatározott, nemzetgazdasági érdekből kiemelt gazdasági ágazat, amely a térség fejlődése érdekében sajátos kedvezményeket biztosít;
 
@@ -42,14 +42,22 @@ l) kedvezményezett térség: az érvényes területfejlesztési célok figyelem
 
 m) területfejlesztési koncepció: az ország, illetve egy térség átfogó távlati fejlesztését megalapozó és befolyásoló tervdokumentum, ami meghatározza a térség hosszú távú, átfogó fejlesztési céljait, továbbá a fejlesztési programok kidolgozásához szükséges irányelveket, információkat biztosít az ágazati és a kapcsolódó területi tervezés és a területfejlesztés szereplői számára;
 
-n) területfejlesztési program: a területfejlesztési koncepció alapján kidolgozott középtávú cselekvési terv, amely stratégiai és operatív programokra épül;
+n) területfejlesztési program: a területfejlesztési koncepció alapján kidolgozott középtávú cselekvési terv,
 
-o)
+o) operatív program: az Európai Unió pénzügyi tervezési időszakaihoz kapcsolódó, összefüggő prioritások mentén fejlesztési stratégiát meghatározó, strukturális és kohéziós alapok felhasználásával ágazati vagy területi szempontú fejlesztéseket megvalósító terv, amelyet a Kormány döntése alapján, a tagállami benyújtást követően az Európai Bizottság hagy jóvá,
 
-p)
+p) ipari park: általános ipar- és területfejlesztéssel foglalkozó, infrastruktúrával ellátott területtel rendelkező, fejlesztő, termelő és szolgáltató tevékenységet folytató működésre és innovációra törekvő, „Ipari Park” címmel rendelkező szervezet,
 
 r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
 
 s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
 
-t) területcsere: a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszavonttal megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni.
+t) területcsere: a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
+
+u) területfejlesztési terv: a térségre készülő területfejlesztési koncepció és program,
+
+v) ágazati tervek: a szakpolitikai stratégia, a szakpolitikai program és a hálózati fejlesztési terv,
+
+x) területi terv: a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv,
+
+y) térségi gazdaságfejlesztő szervezet: a térségi partnerséget megvalósító, helyileg optimálisnak ítélt működő szervezeti forma, mely rendelkezik az ipari parkokkal és a szabad vállalkozási zóna fejlesztéséhez szükséges képességekkel.

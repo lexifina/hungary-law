@@ -1,71 +1,31 @@
-## Országos Területfejlesztési Tanács
+## Országos Területfejlesztési Érdekegyeztető Fórum
 
-8. § (1) Az Országos Területfejlesztési Tanács (a továbbiakban: Tanács) közreműködik a területfejlesztéssel és a területrendezéssel kapcsolatos kormányzati feladatok ellátásában.
+8. § (1) Az Országos Területfejlesztési Érdekegyeztető Fórum (a továbbiakban: OTÉF) a Kormány, valamint a megyei önkormányzatok, a fővárosi önkormányzat, a megyei jogú városok és a fővárosi kerületi önkormányzatok közötti konzultációk és tárgyalások érdekegyeztető fóruma.
 
-(2) A Tanács munkájában
+(2) Az OTÉF feladata a kormányzat, valamint a megyei önkormányzatok és a fővárosi önkormányzat területfejlesztési, területrendezési és vidékfejlesztési érdekeinek, törekvéseinek feltárása, egyeztetése, megállapodások létrehozása, információcsere, javaslatok, alternatívák vizsgálata, továbbá a megyei jogú városok és fővárosi kerületi önkormányzatok fejlesztési elképzeléseinek és célkitűzéseinek összehangolása.
 
-a) szavazati joggal rendelkező tagként vesznek részt:
+(3) Az OTÉF véleményező, javaslattevő feladatkörben közreműködik:
 
-aa) a területfejlesztési szervek részéről: a megyei közgyűlések elnökei, valamint a főpolgármester,
+a) a területfejlesztési politika kialakításában,
 
-ab) a Kormány részéről: a területfejlesztésért felelős miniszter (a továbbiakban: miniszter), valamint a Kormány határozatában kijelölt további nyolc miniszteri képviselő,
+b) a területfejlesztési, a területrendezési, a vidékfejlesztési, az ágazati és a megyei, valamint a fővárosi fejlesztési elképzelések és célkitűzések összehangolásában,
 
-ac) köztestületek és érdekszövetségek részéről: az országos gazdasági kamarák elnökei; a Nemzeti Gazdasági és Társadalmi Tanács egy képviselője; az országos önkormányzati érdekszövetségek összesen három képviselője;
+c) a területfejlesztési, a területrendezési és vidékfejlesztési célú ágazati eszközök összehangolásában,
 
-b) tanácskozási joggal rendelkező tagként vesznek részt:
+d) az ágazati tervek véleményezésében,
 
-ba) az országos környezetvédelmi és természetvédelmi szervezetek egy-egy állandó képviselője,
+e) az országos, az országos jelentőségű, valamint az országhatárokon átnyúló infrastruktúra-tervezés (létesítmények, hálózatok elhelyezése) összehangolásában.
 
-bb) a nők és férfiak esélyegyenlőségéért küzdő országos szervezetek egy állandó képviselője;
+(4) Az OTÉF elnöke a területfejlesztés stratégiai tervezéséért felelős miniszter.
 
-c) meghívottként, a tevékenységüket, illetve szervezetüket érintő napirendek tárgyalásán tanácskozási joggal részt vesznek mindazon szervezetek vezetői, amelyeket a Tanács döntése közvetlenül érint. A Tanács az ügyrendjében dönthet az állandó meghívottakról.
+(5) Az OTÉF tagjai:
 
-(3) A bírósági nyilvántartásba vett országos civil szervezetek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hozhatnak létre, egyidejűleg jelezve együttműködési szándékukat a Tanácsnak. Az egyeztető fórum véleményét a Tanács ülésén az adott napirend tárgyalásakor ismertetni kell.
+a) a területfejlesztésért felelős miniszter (a továbbiakban: miniszter), a területrendezésért felelős miniszter, a vidékfejlesztésért felelős miniszter, a helyi önkormányzatokért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, a településfejlesztésért felelős miniszter, a szociálpolitikáért és a társadalmi felzárkózásért felelős miniszter,
 
-(4) A Tanács
+b) Megyei Önkormányzatok Országos Szövetségének elnöke és négy delegáltja, a Megyei Jogú Városok Szövetségének elnöke és négy delegáltja, a Budapesti Önkormányzatok Szövetségének elnöke és négy delegáltja, a főpolgármester, valamint a Balaton Fejlesztési Tanács elnöke.
 
-a) részt vesz a területfejlesztési politika kialakításában és érvényesítésében, döntés-előkészítő, javaslattevő, véleményező és koordinációs feladatkörben,
+(6) Az OTÉF ülésén egy szavazattal rendelkeznek a kormányzati és egy szavazattal rendelkeznek az önkormányzati tagok. Az OTÉF konszenzussal hozza meg döntéseit.
 
-b) közreműködik az országos és a térségi fejlesztési programok, a központi, ágazati és a térségi elképzelések összehangolásában,
+(7) Az OTÉF titkárságának feladatait a területfejlesztés stratégiai tervezéséért felelős miniszter hivatali szervezete útján látja el.
 
-c) véleményezi a területfejlesztési támogatások és a decentralizáció irányelveit, a kedvezményezett térségek besorolásának feltételrendszerét,
-
-d) javaslatot tesz a területfejlesztési célú ágazati eszközök összehangolására,
-
-e) véleményt nyilvánít a területfejlesztést szolgáló hazai és közösségi pénzeszközök felosztásáról, a központi keret felhasználásáról,
-
-f) vizsgálja és értékeli az érintett minisztériumok és az országos hatáskörű szervek, illetve a megyei önkormányzatok fejlesztési célkitűzéseinek összhangját a területi politika céljaival,
-
-g) véleményezi a lényeges területi hatásokkal járó ágazati fejlesztési koncepciókat,
-
-h) összehangolja az Országgyűlés által a 6. § d) pontja alapján az önkormányzatok számára kötelezően előírt feladatok végrehajtását,
-
-i) javaslatot tesz az egyes, megyehatáron túlterjedő területfejlesztési feladatok közös ellátására,
-
-j) közreműködik az országos, az országos jelentőségű, valamint az országhatárokon átnyúló infrastruktúra tervezés (létesítmények, hálózatok elhelyezése) összehangolásában.
-
-(5) A Tanács elnöke a miniszter.
-
-(6) Az egységes kormányzati álláspont kialakítása és képviselete érdekében a miniszteri képviselőkkel és a tagsággal nem rendelkező miniszterekkel az őket érintő napirendekkel kapcsolatos előzetes egyeztetésekről a miniszter gondoskodik, valamint kialakítja a tagsággal nem rendelkező miniszterek és a Tanács közötti egyeztetés rendjét. A Tanács titkárságának feladatait a kormányzati területfejlesztési feladatokért felelős szerv látja el, amelynek képviselője állandó meghívottként részt vesz a Tanács ülésén.
-
-(7) A Tanács ülésén
-
-a) miniszteri képviselőként állami vezető járhat el, akit akadályoztatása esetén az érintett miniszter által írásban teljes körű állásfoglalásra felhatalmazott személy helyettesíthet;
-
-b) a szavazati joggal rendelkező többi tagot – akadályoztatásuk esetén – a tag által írásban állásfoglalásra teljes körűen felhatalmazott képviselő helyettesítheti, az akadályoztatás okáról a Tanács elnökét a kijelölő iratban tájékoztatni kell;
-
-c) a tanácskozási joggal rendelkező tagokat – akadályoztatásuk esetén – a tag által véleménynyilvánításra írásban felhatalmazott képviselő helyettesítheti.
-
-(8) A Tanács feladatkörébe utalt, a (4) bekezdésben meghatározott véleményezési jogosítványok érvényesítése érdekében az ország társadalmi, gazdasági, infrastrukturális helyzetével, fejlődésével, valamint a térségek helyzetével és fejlődésével kapcsolatos jelentős kormányelőterjesztésekhez mellékelni kell a Tanács állásfoglalását.
-
-(9) E törvény alkalmazásában
-
-a) a (2) bekezdés b) pontjában és a (3) bekezdésben foglalt országos szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirata szerinti tevékenységét legalább hét megyére kiterjedően végzi, és ezt hitelt érdemlően igazolja;
-
-b) a 14. § (4) bekezdésében foglalt megye területén működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirata szerinti tevékenységét a megye területének több mint felére kiterjedően végzi, és ezt hitelt érdemlően igazolja.
-
-c)
-
-d)
-
-(10) A (9) bekezdés alkalmazásában szervezet alatt az egyesülési jogról, közhasznúságról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezetet kell érteni.
+(8) Az OTÉF ügyrendjét maga határozza meg.

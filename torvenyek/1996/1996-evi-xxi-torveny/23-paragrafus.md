@@ -14,7 +14,7 @@ b) a térségi övezeti tervlapokat és
 
 c) a területrendezési szabályozási előírásokat.
 
-(4) A területfejlesztési és ágazati programok, valamint a településrendezési tervek készítése, egyeztetése és elfogadása során figyelembe kell venni az országos, regionális és megyei területrendezési tervben foglaltakat.
+(4) A területfejlesztési és ágazati programok, valamint a településrendezési eszközök készítése, egyeztetése és elfogadása során figyelembe kell venni az országos, kiemelt térségi és megyei területrendezési tervben foglaltakat.
 
 (5)
 

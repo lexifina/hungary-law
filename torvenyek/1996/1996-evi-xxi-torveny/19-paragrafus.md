@@ -2,11 +2,11 @@
 
 (2) Az állami főépítész
 
-a) előzetesen véleményezi illetékességi területén a terület- és településrendezési terveket, folyamatosan figyelemmel kíséri azok megvalósulását, s indokolt esetben kezdeményezi e tervek módosítását,
+a) véleményezi illetékességi területén a területrendezési terveket és indokolt esetben javaslatot tehet e tervek módosítására,
 
 b) véleményezi az országos, valamint az illetékességi területét érintő regionális fejlesztési programokat és azoknak a területrendezési tervekkel való összhangját.
 
-c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési terveknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról, a 23/A. §-ban foglaltak figyelembevételével;
+c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési eszközöknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról,
 
 d) ellátja a területrendezési hatósági eljárással összefüggő hatósági feladatokat;
 

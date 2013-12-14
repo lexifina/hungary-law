@@ -25288,6 +25288,18 @@ Balatonszabadi
 
 |
 
+2081/1
+
+|
+
+|
+
+|
+
+Balatonvilágos
+
+|
+
 2082.
 
 |
@@ -33069,8 +33081,6 @@ Balatonkenese
 |
 
 |
-
-Balatonvilágos
 
 |
 

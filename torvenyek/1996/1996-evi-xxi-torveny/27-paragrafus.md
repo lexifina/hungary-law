@@ -2,7 +2,7 @@
 
 a) a központi államigazgatási szervek területfejlesztéssel és területrendezéssel kapcsolatos feladatait, a miniszterek közötti folyamatos koordináció szempontjait;
 
-b) a kedvezményezett területek besorolását;
+b) a kedvezményezett területfejlesztési-statisztikai kistérségek és települések besorolásának feltételrendszerét és besorolását;
 
 c) a településrendezési eszköz területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
 
@@ -46,6 +46,10 @@ u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a be�
 
 v) a kiemelt térségi vagy megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítására vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
+w) a területfejlesztési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban előírt kötelezettségek elmulasztása esetén alkalmazandó jogkövetkezményeket;
+
+x) a területfejlesztés stratégiai tervezéséért felelős miniszter feladatának segítését ellátó minisztériumi háttérintézmény kijelölését.
+
 z) a területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő – személyes adatot nem tartalmazó – dokumentumok körét, azok gyűjtésének, megőrzésének, nyilvántartásának és hasznosításának részletes szabályait, továbbá a kapcsolódó adatszolgáltatásért járó költségtérítés összegét és megfizetésének szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
@@ -62,11 +66,11 @@ f) a területfejlesztést közvetlenül vagy közvetve szolgáló források felh
 
 g) a 12. § (2) bekezdése szerinti adatszolgáltatás szabályait.
 
-(3)
+(3) Felhatalmazást kap a területfejlesztés stratégiai tervezéséért felelős miniszter, hogy a területrendezésért felelős miniszterrel egyetértésben, rendeletben állapítsa meg a megyei önkormányzatok és a térségi fejlesztési tanácsok e törvény alapján ellátott tevékenységéről szóló éves beszámolási, illetve tájékoztatási kötelezettség szabályait.
 
-(4) A regionális fejlesztési tanács a megalakulása időpontjától jogutódja a megalakulása előtt ugyanazon tervezési-statisztikai régióban működő regionális fejlesztési tanácsnak. Amennyiben az újonnan megalakult regionális fejlesztési tanács működési területe eltér az előző regionális fejlesztési tanács működési területétől, az érintett felálló regionális fejlesztési tanácsok a jogutódlásról a megalakulásuktól számított 90 napon belül állapodnak meg. A Budapesti Agglomerációs Fejlesztési Tanács jogutódja a Közép-Magyarországi Regionális Fejlesztési Tanács.
+(4) Felhatalmazást kap a megyei önkormányzat, hogy önkormányzati rendeletet alkosson a területfejlesztési és vidékfejlesztési koordináció részletes szabályairól.
 
-(5) A miniszter évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a tanácsok működéséről.
+(5) A területfejlesztés stratégiai tervezéséért felelős miniszter évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a megyei önkormányzatok területfejlesztési feladatairól, valamint a térségi fejlesztési tanácsok működéséről.
 
 (6)
 
