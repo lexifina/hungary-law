@@ -1,6 +1,6 @@
 ## 1. megállapítja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének 7. prioritását az 1. melléklet szerint,
 
-## 2. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1543/2013. (VIII. 15.) Korm. határozat 1. mellékletének 7. prioritásra vonatkozó részét.
+## 2.[^2]
 
 1. melléklet az 1938/2013. (XII. 13.) Korm. határozathoz
 
@@ -51,3 +51,5 @@
 | * Az Európai Pénzügyi Stabilitási Mechanizmus keretében a támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra. |
 
 | ** A 7.1.0 és 7.9.0 konstrukciók 2013. évi keretének fedezete az 1. prioritás tartalékkeretéről való átcsoportosítás. |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
