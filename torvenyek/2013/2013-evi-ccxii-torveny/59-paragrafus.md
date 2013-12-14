@@ -1,1 +1,0 @@
-59. § A természetes személy haszonbérlő azonnali hatállyal jogosult felmondani a szerződést, ha az egészségi állapota oly mértékben romlik meg vagy családi és életkörülményeiben olyan tartós változás következik be, amely a haszonbérletből eredő kötelezettségeinek teljesítését akadályozza vagy azt jelentősen megnehezíti.

@@ -1,1 +1,0 @@
-43. § A 21. §-ban meghatározott, a bírósági vagy közjegyzői jóváhagyáshoz kötött egyezségnek a megelőző hatósági jóváhagyására vonatkozó eljárásban a 27–39. §-ban foglaltakat a 44. §-ban foglalt eltérésekkel kell alkalmazni.

@@ -1,3 +1,0 @@
-73. § (1) Az ajánlat tartalmától eltérő tartalmú elfogadó nyilatkozatokat az ajánlattevő megvizsgálja, és ha a használatba vételi szándéka továbbra is fennáll, az elfogadó nyilatkozatok tartalmától függően módosított ajánlatot köteles közölni. A módosított ajánlat új ajánlatnak minősül, amelynek közlésére és elfogadására a 72. §-ban foglaltakat kell alkalmazni.
-
-(2) Az (1) bekezdésben foglaltakat kell alkalmazni akkor is, ha a tulajdonostárs az ajánlatra a megadott határidőn belül úgy nyilatkozik, hogy a használati megosztás alapján a tulajdoni hányadának megfelelő vagy attól eltérő területet maga kívánja használni, illetve annak használatát az ajánlattevőtől eltérő más személynek vagy gazdálkodó szervezetnek kívánja átengedni.

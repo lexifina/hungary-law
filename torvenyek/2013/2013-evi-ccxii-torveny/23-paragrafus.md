@@ -1,3 +1,0 @@
-23. § (1) A szerződő felek eltérő rendelkezése hiányában a földhasználó a kisebb haszonvételek gyakorlását – különösen gomba, vadgyümölcs, virág, gyógynövény, nád, sás gyűjtését, a réti halászatot, valamint az útpadka, az árokpart, a töltés menti fű kaszálását – a használatba adó engedélye nélkül harmadik személy (haszonvételi joggyakorló) részére átengedheti. A haszonvételek gyakorlásának átengedéséről a földhasználó az átengedést követő 5 napon belül köteles a használatba adót tájékoztatni. A földhasználó e jogok gyakorlásának átengedésével a földön megtelepedő élőhelyi közösségeket nem veszélyeztetheti.
-
-(2) A használatba adó a földhasználó felé tett egyoldalú jognyilatkozattal a haszonvételi joggyakorló helyébe léphet.

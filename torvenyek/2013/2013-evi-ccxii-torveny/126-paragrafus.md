@@ -2,34 +2,34 @@
 
 126. § (1) Hatályát veszti a termőföldről szóló 1994. évi LV. törvény
 
-a) 1–3. §-a;
+a)
 
-b) 4–8/C. §-a;
+b)
 
-c) 9. § (1), (2) és (4) bekezdése;
+c)
 
-d) 9. § (3) bekezdése;
+d)
 
-e) 10. §-a;
+e)
 
-f) 11. § (1) bekezdése;
+f)
 
-g) 11. § (2) és (3) bekezdése;
+g)
 
-h) 11/A–20. §-a;
+h)
 
-i) 21. §-a;
+i)
 
-j) 22–25/G. §-a;
+j)
 
-k) 26–35. §-a;
+k)
 
-l) 81. § (5) bekezdése;
+l)
 
-m) 81/A. §-a;
+m)
 
-n) 88–88/D. §-a;
+n)
 
-o) 89–91. §-a;
+o)
 
-(2) Hatályát veszti a termőföldről szóló 1994. évi LV. törvény.
+(2)

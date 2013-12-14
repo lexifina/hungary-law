@@ -1,3 +1,3 @@
 ## 2. A Földforgalmi törvény egyes értelmező rendelkezései
 
-4. § A Földforgalmi törvény 5. § 4. pontjában meghatározott családi gazdaság alatt – a Földforgalmi törvény 1. § (2) bekezdésében foglalt külön törvény hatálybalépéséig – a gazdálkodó család tagjainak a tulajdonában és használatában álló földek, továbbá a földhöz tartozó, leltárban megjelölt ingatlan és ingó vagyontárgyak – így különösen épület, építmény, mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet – olyan együttesét kell érteni, amelynek a gazdálkodó család tagjai között létrejött szerződés szerinti hasznosítása egy családtag teljes foglalkoztatásán és a többi családtag közreműködésén alapul, és amelyet a földművelésügyi igazgatási szerv családi gazdaságként nyilvántartásba vett.
+4–5. §

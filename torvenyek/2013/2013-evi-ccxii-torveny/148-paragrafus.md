@@ -19,11 +19,3 @@ c) 69. § (2) bekezdése a „37–44. §” szövegrész helyett a „38–44. 
 d) 69. § (4) bekezdése a „23–36. §” szövegrész helyett a „23–37. §”
 
 szöveggel lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

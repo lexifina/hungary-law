@@ -1,3 +1,0 @@
-82. § (1) A Földforgalmi törvény szerinti erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetében az erdészeti hatóság a Földforgalmi törvény 51. § (5) bekezdésében meghatározott szakhatósági állásfoglalását a mezőgazdasági igazgatási szerv megkeresésének beérkezését követő 8 napon belül adja ki. Az erdészeti hatóság a haszonbérlőnek, illetve az elfogadó jognyilatkozatot tevő előhaszonbérlőnek, valamint más földhasználónak az erdőgazdálkodói alkalmasságát állapítja meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek szerint.
-
-(2) Az erdészeti hatóság előzetes szakhatósági állásfoglalást adhat ki, amely a kiállításától számított 90 napig használható fel.

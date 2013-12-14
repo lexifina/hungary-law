@@ -1,1 +1,0 @@
-49. § A Földforgalmi törvény 59. §-ában meghatározott, hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetében, a szerző fél jogosultságának valamely hatósági nyilvántartásba vétele tekintetében a kérelem tartalmára és a szerződés, illetve az okirat benyújtásának módjára a hatósági nyilvántartásra vonatkozó jogszabályi rendelkezéseket kell alkalmazni.

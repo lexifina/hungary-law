@@ -1,1 +1,0 @@
-20. § A Földforgalmi törvény 21. § (3) bekezdése alkalmazásában az elfogadó jognyilatkozat személyes átadásának kötelezettsége alól – a földalapkezelő szervezet mellett – az államot megillető elővásárlási jog esetén e jog gyakorlására jogosult más szervezet vagy személy, illetve az önkormányzat is mentesül.

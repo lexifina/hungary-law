@@ -1,5 +1,0 @@
-97. § (1) A földhasználati nyilvántartásból törölt adatokat, valamint a törlésre vonatkozó határozat számát, amelynek alapján a törlés alapjául szolgáló okirat az okirattárból visszakereshető, a földhasználati nyilvántartási adatbázisban kell tárolni. A törölt adatokat a törlést követően tíz évig a föld használatának átengedésével kapcsolatos jogügyletek, a földhasználót terhelő kötelezettségek vizsgálata, valamint a földhasználót megillető támogatások igénybevételének ellenőrzése céljából meg kell őrizni.
-
-(2) Az (1) bekezdés szerinti törölt adat átadására az ott meghatározott adatkezelési célból, törvény által meghatározott esetben a bíróság, az ügyészség, a nyomozó hatóság, az adóhatóság, a mezőgazdasági igazgatási szerv és a mezőgazdasági és vidékfejlesztési támogatási szerv részére kerülhet sor.
-
-(3) A földhasználati nyilvántartás okirattárában lévő okiratokra, valamint a törölt adatok állományára a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény rendelkezései megfelelően alkalmazandóak.
