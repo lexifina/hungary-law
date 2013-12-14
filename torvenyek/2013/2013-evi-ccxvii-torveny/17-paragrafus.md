@@ -1,0 +1,31 @@
+17. § A Kötv. 61/D. és 61/E. §-a helyébe a következő rendelkezések lépnek:
+
+„61/D. § (1) A kultúráért felelős miniszter az emlékhelyekkel összefüggésben különösen az alábbi feladatokat látja el:
+
+a) érvényesíti az emlékhelyekkel kapcsolatos érdekeket az emlékhelyeket érintő jogszabályok előkészítése során, illetve átfogó tervezési programokban;
+
+b) nemzetközi megállapodások keretében együttműködik a határon túli helyszínek esetén az érintett állam felelős miniszterével;
+
+c) az emlékhelyekkel összefüggő feladatok tekintetében a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) felett szakmai irányítói jogkört gyakorol;
+
+d) a nemzeti emlékhely tulajdonosával megállapodást köt a 61/D. § (3) bekezdés b) és c) pontjában meghatározott állami feladatok ellátására;
+
+e) a Bizottság javaslatára a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi egyes helyszínek nemzeti emlékhellyé nyilvánítását;
+
+f) a Bizottság javaslatára, a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi egyes helyszínek történelmi emlékhellyé nyilvánítását; valamint
+
+g) a Nemzeti Örökség Intézete (a továbbiakban: NÖRI) bevonásával, a Bizottság felügyeletét ellátó miniszterrel egyetértésben évente jelentést készít a Kormány részére és négyévente beszámol az Országgyűlés illetékes bizottságának az emlékhelyek állapotáról.
+
+(2) A Bizottság ellátja a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
+
+(3) A NÖRI emlékhelyekkel összefüggő feladatai különösen az alábbiak:
+
+a) ellátja az emlékhellyé nyilvánítás előkészítésével, valamint az emlékhelyekkel kapcsolatos adminisztratív és ellenőrzési feladatokat;
+
+b) felméri és folyamatosan figyelemmel kíséri az emlékhelyek állapotát, továbbá megteszi az emlékhelyekhez fűződő nemzeti érték megőrzéséhez, fenntartásához és bemutatásához szükséges intézkedéseket;
+
+c) a turizmusért felelős miniszterrel együttműködésben gondoskodik az emlékhelyek fenntartható használata, fejlesztése és bemutatása érdekében tervek, programok, projektek előkészítéséről és megvalósításáról; valamint
+
+d) gondoskodik az emlékhelyekhez fűződő nemzeti értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról.
+
+61/E. § Kiemelt nemzeti emlékhely esetében a 61/D. § (1) bekezdés a) pontjában és a 61/D. § (3) bekezdés b)–d) pontjaiban meghatározott állami feladatokat az Országgyűlés elnökével egyetértésben kell ellátni. E feladatok ellátásáról az Országgyűlés elnöke évente beszámol az Országgyűlés Házbizottságának.”

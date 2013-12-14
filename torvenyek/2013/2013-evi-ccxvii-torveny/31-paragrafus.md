@@ -1,0 +1,5 @@
+31. § Az Emtv. 44. § 48. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:)
+
+„48. szakirányú felsőfokú végzettség: a művészeti képzési területen a munkakörnek megfelelő alap- vagy mesterképzési szakon szerzett oklevéllel tanúsított végzettség és szakképzettség vagy annak megfeleltethető korábbi főiskolai vagy egyetemi oklevéllel tanúsított végzettség és szakképzettség, továbbá zene- és táncművészeti tevékenység esetében a tanári végzettség, valamint színházművészeti tevékenység esetében a művészetközvetítési képzési területen szerzett végzettség, ha nincs a művészeti munkakörnek megfelelő hazai szakirányú felsőfokú képzés, akkor szakirányú felsőfokú végzettségnek kell tekinteni a munkakör betöltéséhez szükséges szakmában szerzett, az Országos Képzési Jegyzékről szóló miniszteri rendeletben (a továbbiakban: OKJ) szereplő, szakmai végzettséget igazoló bizonyítvánnyal tanúsított szakképesítést, az OKJ-ben szereplő szakképesítésnek tartalmilag megfeleltethető végzettséget, illetve minden korábbi jogszabály alapján szakmai vizsga teljesítésével szerzett művészi vagy művészeti munkakör betöltéséhez előírt szakmai végzettséget;”
