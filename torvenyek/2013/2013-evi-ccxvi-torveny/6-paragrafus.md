@@ -1,0 +1,3 @@
+6. § A Tftv. II. Fejezete a következő 9/C. §-sal egészül ki:
+
+„9/C. § A településfejlesztésért felelős miniszter feladatkörében javaslatot tesz a kedvezményezett települések besorolásának feltételrendszerére és besorolására a területfejlesztés stratégiai tervezéséért felelős miniszter közreműködésével.”
