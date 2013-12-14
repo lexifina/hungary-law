@@ -14,9 +14,7 @@
 
 7. 9. § (2) bekezdésében az „a 8. § (4) bekezdésében foglaltakra figyelemmel” szövegrész,
 
-8. 23/A. §-a,
-
-9. 23/D. § (3) bekezdésében az „a kiváló termőhelyi adottságú erdőterület övezetében,” és az „az erdőtelepítésre alkalmas terület övezetében,” szövegrész,
+8–9.
 
 10. 27. § (4) bekezdése,
 
