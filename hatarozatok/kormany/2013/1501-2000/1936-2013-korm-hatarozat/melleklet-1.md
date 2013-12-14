@@ -48,7 +48,7 @@
 
 ## Határidő: 2014. március 31.
 
-## 6. A konzolos kerékpárút átvezetése a Tisza-hídon tervezési díjához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1263/2013. (V. 14.) Korm. határozat 1. pontjában a „2013. november 15.” szövegrész helyébe a „2014. június 15.” szöveg lép.
+## 6.[^1]
 
 1. melléklet az 1936/2013. (XII. 13.) Korm. határozathoz
 
@@ -169,3 +169,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
