@@ -1,0 +1,1 @@
+25. § Ha a szolgalommal terhelt föld közös tulajdonban áll, a szolgalmi jog alapításához a használati megosztás szerint érintett tulajdonostársak tulajdoni hányada alapján számított többségének írásbeli döntése szükséges.
