@@ -1,1 +1,0 @@
-## 2. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 23. § (6) bekezdésében a „személyesen veheti át” szövegrész helyébe a „személyesen vagy meghatalmazottja útján veheti át” szöveg lép.
