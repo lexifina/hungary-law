@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2001-64-00-00.26 |
 | 2013-07-20 | 2013. évi LXXXVIII. törvény | 2001-64-00-00.27 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2001-64-00-00.28 |
+| 2013-12-14 | 2013. évi CCXVII. törvény | 2001-64-00-00.29 |

@@ -1,0 +1,1 @@
+61/K. § Az e fejezetben meghatározottak a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, valamint a választási eljárásról szóló törvény hatálya alá tartozó gyűlés vonatkozásában nem alkalmazhatók.

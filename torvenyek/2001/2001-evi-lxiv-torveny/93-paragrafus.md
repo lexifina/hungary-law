@@ -38,7 +38,9 @@ q) meghatározza, hogy mely ingatlanok minősülnek, illetve jelölhetők ki mű
 
 r) meghatározza az örökségvédelmi engedélyhez kötött tevékenységeket és az e tevékenységekkel kapcsolatos követelményeket;
 
-s) meghatározza az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit.
+s) meghatározza az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit;
+
+t) állapítsa meg a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzés rendjét, valamint a Kiemelt Nemzeti Emlékhely Bizottság hozzájárulása iránti kérelem benyújtásának részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
