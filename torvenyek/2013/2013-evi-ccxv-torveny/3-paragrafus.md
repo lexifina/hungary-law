@@ -1,3 +1,0 @@
-3. § Az Szjtv. 30. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az e törvény 16. §-a szerinti sorsolásos játék kivételével a nem folyamatosan szervezett sorsolásos játékok nyereményalapjának legalább 55%-át nyeremények céljára kell fordítani. A folyamatosan szervezett szerencsejátékok esetében az állami adóhatóság engedélyezheti a nyereményeknek meghatározott időszakon belüli halmozódását. Nemzetközi együttműködés keretében szervezett sorsolásos játékok esetében az állami adóhatóság a nyereményre fordítandó összegek halmozódását a közösen kialakított és valamennyi résztvevő által elfogadott játékszabályok szerint engedélyezi.”
