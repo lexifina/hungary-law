@@ -1,0 +1,1 @@
+8. § A föld tulajdonjogának átruházására vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására csak olyan papír alapú okmányon kerülhet sor, amely az e törvény végrehajtására kiadott rendeletben meghatározott biztonsági kellékekkel rendelkezik.

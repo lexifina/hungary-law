@@ -1,0 +1,87 @@
+## 2. Értelmező rendelkezések
+
+5. § E törvény alkalmazásában
+
+1. állattartó telep: a Magyarország területén, egy vagy több földrészleten, illetve földrészleten belül alrészletként elhelyezkedő, a földfelszínen azonosítható állandó mesterséges tereptárgyakkal egyértelműen lehatárolt, az élelmiszerlánc-felügyeleti szerv nyilvántartásban egy elnevezés és nyilvántartási szám alatt állattartó helyként vagy tojáskeltetőként megjelölt, állatok tartására, illetve keltetésre szolgáló gazdasági épületek és kiszolgáló létesítmények, és a hozzájuk tartozó gazdasági felszerelés együttese, ideértve az állattartó létesítményekkel egy technológiai egységben működő körbekerített legelőket és kifutókat, továbbá a trágyatárolásra és a méhcsaládok elhelyezésére használt területeket;
+
+2. belföldi természetes személy: a magyar állampolgár;
+
+3. birtok: a jogosult tulajdonában, haszonélvezetében vagy bármely más érvényes jogcímen használatában álló valamennyi föld;
+
+4. családi gazdaság: a mezőgazdasági igazgatási szervnél családi gazdaságként nyilvántartásba vett mezőgazdasági üzem;
+
+5. családi gazdálkodó: a családi gazdaságot vezető természetes személy;
+
+6. fiatal földműves: az a földműves, aki az elővásárlási, illetve előhaszonbérleti jog gyakorlása időpontjában elmúlt 16 éves, de a 40. életévét még nem töltötte be;
+
+7. földműves: Magyarországon nyilvántartásba vett belföldi természetes személy, illetve tagállami állampolgár, aki e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel rendelkezik vagy ennek hiányában igazoltan legalább 3 éve
+
+a) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet saját nevében és saját kockázatára folyamatosan Magyarországon folytat, és ebből igazoltan árbevétele származott, vagy az árbevétel azért maradt el, mert a megvalósult mező- vagy erdőgazdasági célú beruházás még nem hasznosulhatott, vagy
+
+b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, aki mező-, erdőgazdasági tevékenységet, illetve mező-, erdőgazdasági és az azokat kiegészítő tevékenységet személyes közreműködésként végzi;
+
+8. gazdálkodó család tagjai: a családi gazdálkodó, továbbá annak olyan házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője, testvére, ahol a gyermeken az örökbe fogadott és a nevelt gyermeket is érteni kell;
+
+9. helyben lakó: az a természetes személy, akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen van, amelynek közigazgatási területén az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező föld fekszik;
+
+10. helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő föld szomszédos az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező földdel;
+
+11. helybeli illetőségű: az a jogi személy, illetve jogi személyiséggel nem rendelkező más szervezet, amelynek mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási területén a haszonbérleti szerződés tárgyát képező föld fekszik;
+
+12. helybeli illetőségű szomszéd: az a helybeli illetőségű jogi személy, illetve jogi személyiséggel nem rendelkező más szervezet, amelynek a tulajdonában vagy használatában lévő föld szomszédos a haszonbérleti szerződés tárgyát képező földdel;
+
+13. közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő és a testvér;
+
+14. kiegészítő tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, takarmány-előállítás, mezőgazdasági termékből élelmiszer előállítása, dohányfeldolgozás, bioüzemanyag-előállítás a mező-, erdőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, mezőgazdasági szolgáltatás,valamint a mezőgazdasági üzemhez tartozó termelési tényezők hasznosítása, értékesítése;
+
+15. külföldi természetes személy: a nem tagállami állampolgár;
+
+16. külföldi jogi személy: a nem tagállami székhelyű jogi személy, illetve jogi személyiséggel nem rendelkező szervezet;
+
+17. mező-, erdőgazdasági hasznosítású föld: a föld fekvésétől (belterület, külterület) függetlenül valamennyi olyan földrészlet, amely az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő és fásított terület művelési ágban van nyilvántartva, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve;
+
+18. mező-, erdőgazdasági tevékenység: növénytermesztés, kertészet, állattartás, a méhanya nevelés, halászat, haltenyésztés, szaporítóanyag-termesztés, vadgazdálkodás, erdőgazdálkodás, kiegészítő tevékenységgel vegyes gazdálkodás;
+
+19. mezőgazdasági termelőszervezet: a mezőgazdasági igazgatási szerv által e törvény végrehajtására kiadott rendeletben meghatározott feltételek alapján nyilvántartásba vett, tagállami székhelyű jogi személy, illetve jogi személyiséggel nem rendelkező szervezet,
+
+a) amelynek
+
+aa) alaptevékenysége olyan mező-, erdőgazdasági tevékenység, illetve kiegészítő tevékenység, amelyet a jogügyletet megelőzően legalább 3 éve folyamatosan folytat,
+
+ab) éves értékesítése nettó árbevételének több mint a fele a mező-, erdőgazdasági tevékenységből, illetve a kiegészítő tevékenységből származik, és
+
+ac) legalább egy vezető tisztségviselője, vagy a cégvezetője a mező-, erdőgazdasági tevékenységet, illetve a kiegészítő tevékenységet a szervezetben fennálló tagsági viszonyához kapcsolódóan gyakorolja, és e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel, vagy a mezőgazdasági igazgatási szerv által igazolt legalább 3 éves üzemi gyakorlattal rendelkezik, vagy
+
+b) amely újonnan alapított mezőgazdasági termelőszervezetnek minősül;
+
+20. mezőgazdasági üzem: az azonos céllal működtetett mezőgazdasági termelési tényezők (föld, mezőgazdasági felszerelés, egyéb vagyonelemek) szervezeti alapegysége, amely a gazdasági összetartozás révén gazdálkodási alapegység is;
+
+21. mezőgazdasági üzemközpont: a földműves vagy mezőgazdasági termelőszervezet tulajdonában, illetve használatában álló, a mező- és erdőgazdasági tevékenység vagy a mező- és erdőgazdasági tevékenység és a kiegészítő tevékenység célját szolgáló gazdasági, lakó, illetve iroda épülettel beépített ingatlan vagy a tanya, amely a gazdálkodás végzésének vagy megszervezésének a mezőgazdasági igazgatási szervnél bejelentett helyéül szolgál;
+
+22. pályakezdő gazdálkodó: az a 16. életévét betöltött belföldi természetes személy, illetve tagállami állampolgár, aki
+
+a) a föld tulajdonjogának megszerzésére vonatkozó jognyilatkozat megtételének időpontjában Magyarországon bejelentett lakóhelyén életvitelszerűen tartózkodik,
+
+b) nem rendelkezik az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső államban fekvő föld tulajdonjogával,
+
+c) e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel rendelkezik, és
+
+d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő mezőgazdasági termelőként nyilvántartásba vételre kerül;
+
+23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével közvetve érintkezik;
+
+24. tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára, ide nem értve a belföldi természetes személyt;
+
+25. tanya: a település külterületén fekvő, legfeljebb 1 hektár nagyságú olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terméktárolás céljára létesített lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik, vagy az olyan földrészlet, amely az ingatlan-nyilvántartásban tanyaként szerepel;
+
+26. újonnan alapított mezőgazdasági termelőszervezet: Magyarországon nyilvántartásba vett tagállami székhelyű jogi személy, illetve jogi személyiséggel nem rendelkező szervezet
+
+a) amelynek alaptevékenysége a mező-, erdőgazdasági tevékenység, illetve kiegészítő tevékenység,
+
+b) amely nem rendelkezik az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső államban fekvő föld felett használati joggal,
+
+c) amelynek legalább egy vezető tisztségviselője, vagy a cégvezetője a mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet a szervezetben fennálló tagsági viszonyához kapcsolódóan gyakorolja és e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel, vagy a mezőgazdasági igazgatási szerv által igazolt legalább 3 éves üzemi gyakorlattal rendelkezik, és
+
+d) a szervezet nem különválással, kiválással, szervezeti formaváltással, egyéb jogutódlás folytán keletkezett;
+
+27. ültetvény: 500 m2-nél nagyobb területű bogyós gyümölccsel, valamint az 1500 m2-nél nagyobb területű szőlővel, gyümölcsössel betelepített földrészlet, illetve alrészlet.

@@ -1,0 +1,1 @@
+4. § Ha a tanyának nem minősülő földrészleten belül az 5. § 17. pontjában meghatározott művelési ágban nyilvántartott alrészlet van, annak területnagyságától függetlenül – e törvény eltérő rendelkezése hiányában – a teljes földrészletre e törvény rendelkezéseit kell alkalmazni.
