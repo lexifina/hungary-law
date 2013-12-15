@@ -18,7 +18,7 @@ ab) részesedés átruházása, kivonása esetén a részesedés megszerzésére
 
 kell tekinteni, azzal, hogy a tulajdonban tartás naptári napjainak számítása során a megszerzésről, illetve az átruházásáról szóló okirat keltének napját kell – e napokat is beszámítva – irányadónak tekinteni, továbbá azzal, hogy részesedés átruházása (kivonása) esetén a régebben szerzett részesedés átruházását kell feltételezni;
 
-b) termőföld a termőföldről szóló törvényben meghatározott termőföldnek minősülő földrészlet;
+b) termőföld az a termőföldnek minősülő földrészlet, amely külterületen található;
 
 c) termőföldből átminősített ingatlan a művelési ág változás ingatlan-nyilvántartási átvezetéséről szóló döntés meghozatalának a napjától számított öt éven keresztül az az ingatlan, amely a művelési ág változás átvezetése eredményeként az ingatlan-nyilvántartásban termőföldből művelés alól kivett területté vált (ideértve az ingatlan alrészletében bekövetkező ilyen változást is), kivéve, ha a termőföld tulajdonjogának megszerzésére a termőföld végleges más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági döntés jogerőre emelkedése napját legalább öt évvel megelőzően került sor.
 

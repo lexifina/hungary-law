@@ -12,7 +12,7 @@ a) az átruházásról szóló szerződés (okirat, bírósági, hatósági hat�
 
 b) a cserébe kapott ingatlan, illetve vagyoni értékű jog esetében a csereszerződésben rögzített érték;
 
-c) a kárpótlásról szóló törvényekben szabályozott vételi jog gyakorlása során szerzett termőföld, erdő művelési ágú föld esetében – ha a jövedelmet nem a 64. § (1) bekezdés rendelkezése szerint kell megállapítani – a vételi jog gyakorlása során vételárként szereplő összeg;
+c) a kárpótlásról szóló törvényekben szabályozott vételi jog gyakorlása során szerzett termőföld esetében – ha a jövedelmet nem a 64. § (1) bekezdés rendelkezése szerint kell megállapítani – a vételi jog gyakorlása során vételárként szereplő összeg;
 
 d) helyi önkormányzattól vásárolt lakás estében a szerződésben szereplő tényleges vételár;
 

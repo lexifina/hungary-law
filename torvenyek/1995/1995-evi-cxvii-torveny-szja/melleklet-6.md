@@ -154,4 +154,4 @@ c) A tevékenységét közös igazolvány alapján folytató őstermelő e tevé
 
 d) A közös őstermelői tevékenységet folytató családtagok – a c) pont rendelkezését is figyelembe véve – külön-külön tesznek eleget adókötelezettségüknek.
 
-e) Az adóév utolsó napján (a családi gazdaságban folytatott tevékenység megszűnése esetén a megszűnés napján) a termőföldről szóló törvény szerinti családi gazdálkodónak minősülő magánszemély, valamint e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagja őstermelői tevékenysége tekintetében a c)–d) pontban és a 78/A. § (2) bekezdésében foglalt rendelkezések megfelelő alkalmazásával jár el.
+e) Az adóév utolsó napján (a családi gazdaságban folytatott tevékenység megszűnése esetén a megszűnés napján) az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély, valamint e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagja őstermelői tevékenysége tekintetében a c)–d) pontban és a 78/A. § (2) bekezdésében foglalt rendelkezések megfelelő alkalmazásával jár el.

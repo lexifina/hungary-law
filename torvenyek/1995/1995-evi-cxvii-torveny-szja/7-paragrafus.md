@@ -68,7 +68,7 @@ r) a kiküldetési rendelvény alapján hivatali, üzleti utazás költségtér�
 
 s) a reprezentációt és az üzleti ajándékot, ha a juttatót az adott juttatás tekintetében a belföldi jogszabály alapján nem terheli adókötelezettség;
 
-t) a termőföldről szóló törvényben meghatározott mezőgazdasági termelő gazdaságátadási támogatása jogosultsága feltételeként megvalósuló termőföld értékesítéséből származó bevételt;
+t) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása jogosultsága feltételeként megvalósuló termőföld értékesítéséből származó bevételt;
 
 u) a szomszédos államokban élő magyarokról szóló törvény alapján a hatálya alá tartozó személyt a művelődés, a kultúra, a tudomány területén ingyenesen megillető alapszolgáltatást és külön jogszabályban meghatározott további kedvezményt, az említett személyt külön jogszabály szerint megillető utazási kedvezményt és a diákigazolványához kapcsolódó kedvezményt, valamint a törvény alapján a határon túli magyar pedagógust megillető kedvezményt, továbbá a törvény hatálya alá tartozó személy részére a törvény rendelkezései szerint a határon túli kihelyezett képzés vagy a szülőföldön nyújtható oktatási támogatás keretében juttatott vagyoni értéket;
 

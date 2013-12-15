@@ -126,7 +126,7 @@ g)
 
 h)
 
-18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, nem egyéni vállalkozó magánszemély, aki a saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet folytat, és ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve a termőföldről szóló törvény szerint családi gazdálkodónak minősülő magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében.
+18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, nem egyéni vállalkozó magánszemély, aki a saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet folytat, és ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében.
 
 a) Saját gazdaság alatt a termelést ténylegesen végző magánszemély rendelkezési jogosultságát kell érteni az eszközei (ideértve a bérelt eszközöket is), a termelés szervezése és – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása esetének kivételével – a termelés eredményének felhasználása felett.
 
@@ -260,7 +260,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 50.
 
-51. Termőföld: a termőföldről szóló 1994. évi LV. törvény 3. § a), f) pontjaiban meghatározott földterület.
+51. Termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld.
 
 52.
 

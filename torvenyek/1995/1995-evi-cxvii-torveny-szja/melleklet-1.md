@@ -194,7 +194,7 @@ c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Öszt
 
 4.19. a szépkorúak jubileumi köszöntéséről szóló kormányrendelet alapján folyósított juttatás;
 
-4.20. a termőföldről szóló törvényben meghatározott mezőgazdasági termelő, annak segítő családtagja, alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része;
+4.20. az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves, annak segítő családtagja, alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része;
 
 4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
 
