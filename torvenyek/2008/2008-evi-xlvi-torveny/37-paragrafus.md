@@ -36,7 +36,7 @@ b) figyelemmel kíséri a gazdaságilag jelentős károsítók előfordulását,
 
 c) előírhatja vagy betilthatja egyes növények szaporításához vagy termesztéséhez meghatározott termesztőközegek felhasználását;
 
-d) intézkedik a talajszennyezést eredményező, illetve a nem engedélyezett anyagok termőföldön történő felhasználása, továbbá termőföldön történő lerakása esetén;
+d) intézkedik a talajszennyezést eredményező, illetve a nem engedélyezett anyagok földön történő felhasználása, továbbá földön történő lerakása esetén;
 
 e) ellátja a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal kapcsolatos egyes feladatait;
 

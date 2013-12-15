@@ -2,7 +2,7 @@
 
 4. § Az élelmiszerlánc hatósági felügyelete kiterjed
 
-a) a termőföld védelmét szolgáló, a termőföldről szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő tevékenységekre;
+a) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő tevékenységekre;
 
 b) a növényvédő szerek és termésnövelő anyagok forgalomba hozatalára, tárolására és felhasználására;
 

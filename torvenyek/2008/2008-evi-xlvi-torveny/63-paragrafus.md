@@ -4,7 +4,7 @@
 
 a) azzal szemben, aki tevékenységével vagy mulasztásával
 
-aa) a termőföld védelmének a termőföldről szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő;
+aa) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő;
 
 ab) a növényvédő szerek és termésnövelő anyagok forgalomba hozatalára és felhasználására;
 

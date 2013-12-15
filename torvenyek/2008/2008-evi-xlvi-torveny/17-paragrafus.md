@@ -18,7 +18,7 @@ b) az állami és közérdekű védekezéssel megbízott személyek munkavégzé
 
 a) az e törvény végrehajtására kiadott jogszabályban számára előírt, a méhek védelmére vonatkozó előírásokat betartani és ezekkel kapcsolatos bejelentési és tájékoztatási kötelezettségének eleget tenni;
 
-b) a termőföldet a talaj szennyezését okozó anyagoktól megóvni, a földhasználat során környezetkímélő tápanyag-gazdálkodást folytatni.
+b) a földet a talaj szennyezését okozó anyagoktól megóvni, a földhasználat során környezetkímélő tápanyag-gazdálkodást folytatni.
 
 (4) A földhasználó köteles az adott év június 30. napjáig az ingatlanon a parlagfű virágbimbójának kialakulását megakadályozni, és ezt követően ezt az állapotot a vegetációs időszak végéig folyamatosan fenntartani.
 

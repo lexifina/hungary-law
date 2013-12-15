@@ -18,7 +18,7 @@ f) az engedélyköteles termék, állatgyógyászati termék, külön jogszabál
 
 g) az élő állat, növény, ezek szaporítóanyagának, állati vagy növényi terméknek, takarmánynak az ország területére történő behozatalára, az ország területéről történő kivitelére, valamint az ország területén – a leszállás nélküli légi forgalom kivételével – történő átvitelére;
 
-h) a termőföld, erdő- és egyéb növényi vegetáció számára alkalmas terület, vagy olyan dolog (eszköz, berendezés) birtoklására, használatára, amelyben növény fenntartható, továbbá az ezeken történő növénytermesztésre, növény, növényi termék hasznosítására (beleértve a legeltetést is), feldolgozására, forgalomba hozatalára, tárolására, szállítására és felhasználására;
+h) a föld, vagy olyan dolog (eszköz, berendezés) birtoklására, használatára, amelyben növény fenntartható, továbbá az ezeken történő növénytermesztésre, növény, növényi termék hasznosítására (beleértve a legeltetést is), feldolgozására, forgalomba hozatalára, tárolására, szállítására és felhasználására;
 
 i) a növényi, valamint állati eredetű melléktermék birtoklására, gyűjtésére, tárolására, ártalmatlanítására, szállítására, kezelésére és forgalomba hozatalára;
 

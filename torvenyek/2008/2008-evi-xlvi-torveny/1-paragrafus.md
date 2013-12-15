@@ -14,7 +14,7 @@ c) az állatok egészségének megőrzése, az emberek egészségét is veszély
 
 d) a növények, növényi termékek megóvása a károsító szervezetektől, valamint a növényvédelemmel kapcsolatos veszélyek megelőzése, illetve elhárítása az ember és az állat egészségét, a környezet és a természet védelmét szolgáló intézkedések elsőbbségének biztosításával, valamint a növényvédelemmel összefüggő biztonsági szabályok betartásával;
 
-e) az emberi fogyasztásra kerülő, valamint az élelmiszerek alapanyagául szolgáló, továbbá a takarmányozásra szánt növények szennyezésektől mentes termőföldön történő termesztésének elérése;
+e) az emberi fogyasztásra kerülő, valamint az élelmiszerek alapanyagául szolgáló, továbbá a takarmányozásra szánt növények szennyezésektől mentes mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földön (a továbbiakban: föld) történő termesztésének elérése;
 
 f) az állatok, közvetve az ember egészségét nem veszélyeztető, biztonságos és megfelelő minőségű takarmány felhasználása révén a takarmányfelhasználók érdekeinek, a végső fogyasztók biztonságának védelme, a környezetvédelmi szempontok érvényre jutásának elősegítése;
 
