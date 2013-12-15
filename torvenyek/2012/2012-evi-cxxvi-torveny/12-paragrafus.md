@@ -9,3 +9,5 @@
 (3) Az agrárkamarát az általa ellátott közfeladat ellátásáért támogatás vagy díjazás illeti meg.
 
 (4) Az agrárkamara a miniszter által rendeletben meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve együttműködői feladatokat lát el.
+
+(5) Az agrárkamara a földről szóló törvényben meghatározottak szerint eljár a közös tulajdonban álló föld használati rendjének hatósági úton történő megállapítására irányuló eljárásban.
