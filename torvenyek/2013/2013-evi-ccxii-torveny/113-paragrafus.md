@@ -1,0 +1,1 @@
+113. § A 2013. december 15. és 2014. április 30. között közzétett (közölt) haszonbérleti szerződés tekintetében a 114. és 115. §-ban foglaltakat kell alkalmazni. A haszonbérleti szerződésnek nem minősülő, 2014. január 1. és 2014. április 30. között kötött földhasználati szerződés tekintetében a 116. §-ban foglaltakat kell alkalmazni.
