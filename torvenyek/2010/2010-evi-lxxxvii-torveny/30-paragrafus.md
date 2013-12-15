@@ -2,7 +2,7 @@
 
 a) a személyes adatok közül az NFA-val szerződő fél neve, a székhelye vagy lakcíme, az eljáró jogi képviselő neve és székhelye;
 
-b) a földrészlet fekvése szerinti település, és a földrészlet helyrajzi száma;
+b) a szerződés tárgyát képező földrészletnek a fekvése szerinti település megnevezése, helyrajzi száma, területnagysága, továbbá föld esetén a művelési ága és aranykorona értéke;
 
 c) az ellenszolgáltatás összege;
 

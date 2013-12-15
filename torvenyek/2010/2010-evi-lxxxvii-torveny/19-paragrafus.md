@@ -22,4 +22,4 @@ követő napon.
 
 (3) A Nemzeti Földalapba tartozó földrészlet hasznosításának részletes szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
-(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni.
+(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni. Ha a szerződés tárgyát föld képezi, a szerződés létrejöttére irányuló eljárásban a szerződő félnek, illetve pályázónak nyilatkoznia kell arról, hogy a szerződés létrejöttével nem lépi túl a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumot. A nyilatkozathoz az NFA a földről szóló törvény szerinti földhasználati összesítő eredeti vagy hitelesített másolatának becsatolását kérheti.

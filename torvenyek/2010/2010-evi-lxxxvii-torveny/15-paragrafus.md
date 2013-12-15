@@ -20,7 +20,7 @@ f) a racionális földtulajdonosi és bérleti rendszer kialakulásának előseg
 
 g) a földpiac élénkítése és szabályozása;
 
-h) az állattenyésztő telepek működéséhez szükséges termőföld biztosítása;
+h) az állattenyésztő telepek működéséhez szükséges föld biztosítása;
 
 i) a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítése;
 
@@ -28,9 +28,9 @@ j) minőségi földcserék lebonyolításának megalapozása;
 
 k) termelési-termékstruktúra átalakításának ösztönzése és befolyásolása;
 
-l) a mezőgazdasági termelésre leginkább alkalmas termőföldek mezőgazdasági termelési célú hasznosításának előtérbe helyezése;
+l) a mezőgazdasági termelésre leginkább alkalmas földek mezőgazdasági termelési célú hasznosításának előtérbe helyezése;
 
-m) a mezőgazdasági termelésre kevésbé alkalmas termőföldek, földterületek más irányú hasznosításának előkészítése, támogatása, esetenként végrehajtása;
+m) a mezőgazdasági termelésre kevésbé alkalmas földek más irányú hasznosításának előkészítése, támogatása, esetenként végrehajtása;
 
 n) művelési-ág váltás támogatása;
 
@@ -42,7 +42,7 @@ q) szociális földprogram és közfoglalkoztatási program támogatása;
 
 r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 
-s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes termőföld biztosítás.
+s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes föld biztosítás.
 
 (4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
 

@@ -2,7 +2,7 @@
 
 (2) Az NFA telekalakítás végrehajtásához szükséges tulajdonjogi változást eredményező szerződést köthet.
 
-(3) Nyilvános pályáztatás mellőzésével haszonbérleti szerződés köthető olyan kizárólagos állami tulajdonban álló gazdálkodó szervezettel, amely főtevékenysége körében a Tft. szerinti mezőgazdasági tevékenységet folytat, valamint az olyan központi költségvetési szervvel, amely alapító okiratában, illetve jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet.
+(3) Nyilvános pályáztatás mellőzésével haszonbérleti szerződés köthető olyan kizárólagos állami tulajdonban álló gazdálkodó szervezettel, amely főtevékenysége körében a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági tevékenységet folytat, valamint az olyan központi költségvetési szervvel, amely alapító okiratában, illetve jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet.
 
 (3a) Nyilvános pályáztatás vagy árverés mellőzésével köthető adásvételi szerződés olyan földrészletre, amely
 

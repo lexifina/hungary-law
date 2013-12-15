@@ -18,15 +18,19 @@ d) művelés alól kivett, honvédelmi célra feleslegessé nyilvánított terü
 
 (2c) Az (1) bekezdéstől eltérően nem képezi a Nemzeti Földalap részét a Nemzeti Eszközkezelő Zrt. által az állam javára megvásárolt ingatlan.
 
+(2d) E törvény alkalmazásában föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld.
+
+(2e) E törvény alkalmazásában tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya.
+
 (3) A Nemzeti Földalap rendeltetése:
 
 a) működőképes családi gazdaságok kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;
 
 b) a földárak és -haszonbérek alakulásának befolyásolása;
 
-c) a termőföld magánosítása során létrejött, a hatékony mezőgazdasági hasznosításra alkalmatlan birtokszerkezet vidékfejlesztési célokkal összehangolt javításának támogatása, a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítése;
+c) a föld magánosítása eredményeként létrejött, a hatékony mezőgazdasági hasznosításra alkalmatlan birtokszerkezet vidékfejlesztési célokkal összehangolt javításának támogatása, a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítése;
 
-d) birtok-összevonási célú, valamint az állattenyésztő telepek működését biztosító önkéntes földcseréhez szükséges termőföld biztosítása;
+d) birtok-összevonási célú, valamint az állattenyésztő telepek működését biztosító földcseréhez szükséges föld biztosítása;
 
 e) a magántulajdonba került, természetvédelmi oltalom alatt álló területek, valamint a hullámtéri területek, és a mentett oldali vízjárta területek cseréjéhez, továbbá kisajátítás esetén cserével történő kártalanításához, és törvényben meghatározott feladatokhoz földkészlet biztosítása;
 
@@ -34,7 +38,7 @@ f) különleges termesztési célok megvalósításához tartalékterületek biz
 
 g) a fennálló földhasználati viszonyok stabilizálása, a további földhasználatok elősegítése;
 
-h) a termőföldek művelésben tartásának elősegítése, a mezőgazdasági termelés összehangolása a természetvédelem, a környezetvédelem, a talajvédelem, a területfejlesztés, a vízgazdálkodás (különösen árterek kialakítása) szempontjaival;
+h) a földek művelésben tartásának elősegítése, a mezőgazdasági termelés összehangolása a természetvédelem, a környezetvédelem, a talajvédelem, a területfejlesztés, a vízgazdálkodás (különösen árterek kialakítása) szempontjaival;
 
 i) a nem művelt, vagy méretük és kialakításuk miatt gazdaságosan nem művelhető területek hasznosításának állami kezdeményező szereppel történő meggyorsítása;
 
