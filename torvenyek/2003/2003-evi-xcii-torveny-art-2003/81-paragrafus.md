@@ -6,7 +6,7 @@ a) a helyi adók,
 
 b) a belföldi rendszámú gépjárművek adója,
 
-c) a termőföld bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása,
+c) a mező- és erdőgazdasági hasznosítású földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása,
 
 d) törvényben meghatározott esetben a magánszemélyt terhelő adók módjára behajtandó köztartozások
 

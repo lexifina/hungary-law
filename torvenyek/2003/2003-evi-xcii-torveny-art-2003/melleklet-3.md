@@ -8,7 +8,7 @@ A) A kifizető és a munkáltató adatszolgáltatása
 
 A/I.
 
-A/II. A kifizető a termőföld bérbeadásából (földjáradékból) származó jövedelemről és a levont adóról, az adómentesség feltételéül szabott időtartamra kötött, de ezen időtartam lejárta előtt megszűnt haszonbérleti szerződésről és az adókötelessé vált időszakról, valamint a bérbeadott földterület ingatlan-nyilvántartási azonosító adatairól az adatszolgáltatást a földterület fekvése szerint illetékes önkormányzati adóhatósághoz teljesíti. Az adatszolgáltatásban fel kell tüntetni az adólevonás elmaradásának okát (természetben történő bérfizetés). Az adatszolgáltatást a kifizető papíralapú adathordozón az adóévet követő év március 31-éig teljesíti.
+A/II. A kifizető a föld bérbeadásából (földjáradékból) származó jövedelemről és a levont adóról, az adómentesség feltételéül szabott időtartamra kötött, de ezen időtartam lejárta előtt megszűnt haszonbérleti szerződésről és az adókötelessé vált időszakról, valamint a bérbeadott földterület ingatlan-nyilvántartási azonosító adatairól az adatszolgáltatást a földterület fekvése szerint illetékes önkormányzati adóhatósághoz teljesíti. Az adatszolgáltatásban fel kell tüntetni az adólevonás elmaradásának okát (természetben történő bérfizetés). Az adatszolgáltatást a kifizető papíralapú adathordozón az adóévet követő év március 31-éig teljesíti.
 
 B) A biztosítóintézet adatszolgáltatása
 
@@ -18,11 +18,11 @@ Az adatszolgáltatást, a kifizetést, illetőleg a rendelkezési jog gyakorlás
 
 C) Az ingatlanügyi hatóság adatszolgáltatása
 
-1. Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzési kérelem beérkezését követő 8 napon belül – az e törvény 21. §-ának (2) bekezdésében meghatározott, kitöltött nyomtatványt mellékelve – adatot szolgáltat az állami adóhatósághoz az illetékkiszabáshoz szükséges birtokában lévő adatokról, valamint ingatlanértékesítés esetén az ingatlan értékesítőjéről és az ingatlanszerződés szerinti értékéről, továbbá termőföld átruházása esetén a termőföld-értékesítés tényéről, az ingatlanhoz kapcsolódó vagyoni értékű jogról ellenérték fejében való lemondás, ilyen jog visszterhes alapítása, átruházása (átengedése), megszüntetése esetén az átruházó (átengedő), e jogot alapító, illetve megszüntető magánszemélyről és e jog szerződés szerinti értékéről. Az ingatlanügyi hatóság az adózó személyi adatait tartalmazó megkeresésre tájékoztatja az adóhatóságot az adózó tulajdonát képező – nyilvántartásában szereplő – valamennyi ingatlan adatáról.
+1. Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzési kérelem beérkezését követő 8 napon belül – az e törvény 21. §-ának (2) bekezdésében meghatározott, kitöltött nyomtatványt mellékelve – adatot szolgáltat az állami adóhatósághoz az illetékkiszabáshoz szükséges birtokában lévő adatokról, valamint ingatlanértékesítés esetén az ingatlan értékesítőjéről és az ingatlanszerződés szerinti értékéről, továbbá föld átruházása esetén a föld-értékesítés tényéről, az ingatlanhoz kapcsolódó vagyoni értékű jogról ellenérték fejében való lemondás, ilyen jog visszterhes alapítása, átruházása (átengedése), megszüntetése esetén az átruházó (átengedő), e jogot alapító, illetve megszüntető magánszemélyről és e jog szerződés szerinti értékéről. Az ingatlanügyi hatóság az adózó személyi adatait tartalmazó megkeresésre tájékoztatja az adóhatóságot az adózó tulajdonát képező – nyilvántartásában szereplő – valamennyi ingatlan adatáról.
 
 2.
 
-3. Az ingatlanügyi hatóság az adómentesség feltételéül szabott időtartamra kötött haszonbérleti szerződés megkötéséről és megszűnéséről annak a földhasználati nyilvántartásba történő bejegyzésétől számított 8 napon belül adatot szolgáltat a termőföld fekvése szerint illetékes önkormányzati adóhatóságnak.
+3.
 
 D) A hitelintézet, pénzforgalmi szolgáltató és a befektetési szolgáltató adatszolgáltatása
 
