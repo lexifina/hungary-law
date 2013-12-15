@@ -22,7 +22,9 @@ f) a bejegyzési engedélyt kellene pótolni, kivéve, ha a bejegyzett jogosult 
 
 g) okirat keltezésének helyét vagy az időpontját kellene feltüntetni,
 
-h) az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, vagy a vázrajzon a törvényben meghatározott személyek aláírását kellene pótolni.
+h) az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, vagy a vázrajzon a törvényben meghatározott személyek aláírását kellene pótolni,
+
+i) termőföld ingatlan tulajdonjogának megszerzésére irányuló szerződés esetében, a külön jogszabályban a tulajdonjog bejegyzés iránti kérelem benyújtásához előírt, a hirdetményi úton történt közlés megtörténtét igazoló okiratokat, illetve az elővásárlási jogról lemondó nyilatkozatot nem mellékelték vagy a hirdetményi kifüggesztés időtartama nem felel meg a külön jogszabályban foglaltaknak.
 
 (3a) Nem vonatkozik a (3) bekezdés c) pontjában foglalt rendelkezés arra az esetre, ha az ingatlan helyrajzi száma a kérelem iktatását követően, az érdemi döntés meghozatala előtt az ingatlanügyi hatóság ügykörében felmerült, kizárólag számítástechnikai okból került módosításra, és az ingatlan minden más adata változatlan.
 
