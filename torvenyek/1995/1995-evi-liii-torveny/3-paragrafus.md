@@ -10,7 +10,7 @@ d) az erdőkről,
 
 e) az épített környezet alakításáról és védelméről,
 
-f) a termőföldről,
+f) a mező- és erdőgazdasági hasznosítású földről,
 
 g) a halászatról,
 
