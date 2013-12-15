@@ -1,4 +1,4 @@
-17/C. § (1) A komplex műveleti tervet úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a felszín alatti létesítmények, a kulturális örökség, valamint a mező- és erdőgazdasági rendeltetésű termőföldek megóvását, a tevékenységgel okozható károk lehetséges megelőzését, illetve csökkentését.
+17/C. § (1) A komplex műveleti tervet úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a felszín alatti létesítmények, a kulturális örökség, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a tevékenységgel okozható károk lehetséges megelőzését, illetve csökkentését.
 
 (2) A komplex műveleti tervet a bányafelügyelet az (1) bekezdésben meghatározott szempontok figyelembevételével hagyja jóvá. A bányafelügyelet a célkitermelőhelyekről nyilvántartást vezet, és azt a honlapján közzéteszi. A nyilvántartás tartalmazza:
 

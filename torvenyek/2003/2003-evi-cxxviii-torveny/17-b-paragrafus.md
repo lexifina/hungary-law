@@ -14,7 +14,7 @@ d) a felelős műszaki vezető és helyettese nevét, lakcímét.
 
 (4) A műszaki leírásnak tartalmaznia kell:
 
-a) a cél-kitermelőhely létesítés szükségességének indokolását, figyelemmel a már meglévő kitermelőhelyek (bányák) biztosította lehetőségekre, a környezet és a termőföld, a primer ásványi nyersanyag védelme érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználási lehetőségeire,
+a) a cél-kitermelőhely létesítés szükségességének indokolását, figyelemmel a már meglévő kitermelőhelyek (bányák) biztosította lehetőségekre, a környezet és a föld, a primer ásványi nyersanyag védelme érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználási lehetőségeire,
 
 b) a tervezett cél-kitermelőhely lehatárolását (közigazgatási egység, helyrajzi szám) és a lehatárolás indokolását,
 
@@ -62,7 +62,7 @@ g) a kitermelés miatt eltávolított humusz, illetve a fel nem használt tölt�
 
 a) az igénybe venni tervezett ingatlan tulajdonosával (vagyonkezelőjével) az ingatlanhasználatra kötött megállapodás hiteles másolatát,
 
-b) termőföld esetében a más célú hasznosítást engedélyező jogerős ingatlanügyi hatósági határozatot,
+b) termőföld védelméről szóló törvényben meghatározott termőföld esetében a más célú hasznosítást engedélyező jogerős ingatlanügyi hatósági határozatot,
 
 c) az út megépítésére vonatkozó jogerős építési engedélyt.
 
