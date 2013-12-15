@@ -4,7 +4,7 @@
 
 (2) E törvény alkalmazásában
 
-a) tanya: a település külterületén levő, eredetileg kisüzemi mezőgazdasági termelés (növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terménytárolás) céljára létesített lakó- és gazdasági épület, illetőleg épületcsoport és a hozzá tartozó termőföld együttese. Az e törvény alkalmazásában használt egyéb fogalmakat a termőföldről szóló 1994. évi LV. törvényben foglaltaknak megfelelően kell alkalmazni;
+a) tanya: a település külterületén levő, eredetileg kisüzemi mezőgazdasági termelés (növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terménytárolás) céljára létesített lakó- és gazdasági épület, illetőleg épületcsoport és a hozzá tartozó termőföld együttese. Az e törvény alkalmazásában használt egyéb fogalmakat a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben foglaltaknak megfelelően kell alkalmazni;
 
 b)
 
