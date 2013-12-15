@@ -1,0 +1,1 @@
+## 8. § A haszonbérbe adó az egységes okiratba foglalt haszonbérleti szerződés helyett a Fétv. 52. § (2) bekezdése szerinti haszonbérleti ajánlat közzétételét is kérheti, az ott meghatározott határnapig. Ez esetben a haszonbérleti ajánlat közzétételére e rendeletnek a haszonbérleti szerződés közzétételére vonatkozó rendelkezéseit kell alkalmazni.

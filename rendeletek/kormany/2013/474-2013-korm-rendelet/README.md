@@ -1,0 +1,9 @@
+# 474/2013. (XII. 12.) Korm. rendelet
+
+az elővásárlási és előhaszonbérleti jog gyakorlása érdekében az adás-vételi és a haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárási szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-474-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-12-15 | 2013-474-20-22.1 | 474/2013. (XII. 12.) Korm. rendelet |
