@@ -20,6 +20,12 @@ e) vagyon: mindaz, amit a számvitelről szóló törvény befektetett eszközne
 
 f) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 
-g) függő követelés: bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó olyan követelés, amelynek beállta és esedékessége még bizonytalan.
+g) függő követelés: bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó olyan követelés, amelynek beállta és esedékessége még bizonytalan;
+
+j) föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld;
+
+k) tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya;
+
+l) termőföld: a termőföld védelméről szóló törvényben meghatározott termőföld.
 
 (2)

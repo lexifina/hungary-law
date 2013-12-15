@@ -8,7 +8,7 @@ a) a jogszabályban meghatározott természetvédelmi oltalom alatt álló föld
 
 b) a vízitársulatok tulajdonában, vagyonkezelésében, használatában lévő vizek, vízilétesítmények és a vízitársulatoknak a közfeladatok ellátásához szükséges elkülönített vagyona;
 
-c) a kárpótlás céljára elkülönített termőföld, a törvényben meghatározott földalap és a kárpótlási árverésre kijelöléssel nem érintett, illetve a kárpótlási árverésből visszamaradt földterület;
+c) a kárpótlás céljára elkülönített föld, a törvényben meghatározott földalap és a kárpótlási árverésre kijelöléssel nem érintett, illetve a kárpótlási árverésből visszamaradt földterület;
 
 d) a gazdálkodó szervezet vagyonából az az ingatlan, amely – a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény 7. § (1) bekezdésében foglaltak alapján – a Kormány által jóváhagyott jegyzékben szerepel;
 
