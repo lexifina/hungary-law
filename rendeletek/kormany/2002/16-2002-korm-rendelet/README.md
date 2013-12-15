@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-16-20-2
 | 2011-11-19 | 2002-16-20-22.13 | 161/2011. (VIII. 18.) Korm. rendelet |
 | 2012-12-29 | 2002-16-20-22.14 | 405/2012. (XII. 28.) Korm. rendelet |
 | 2013-06-20 | 2002-16-20-22.15 | 206/2013. (VI. 17.) Korm. rendelet |
+| 2013-12-15 | 2002-16-20-22.16 | 474/2013. (XII. 12.) Korm. rendelet |
