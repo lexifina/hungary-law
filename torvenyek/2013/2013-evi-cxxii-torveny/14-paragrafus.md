@@ -1,3 +1,0 @@
-14. § (1) A tulajdonszerzési jogosultság további feltétele, hogy a szerző fél a tulajdonjog átruházásáról szóló szerződésben, illetve teljes bizonyító erejű magánokiratba vagy közokiratba foglaltan nyilatkozzon arról, hogy nincs a földhasználatért járó ellenszolgáltatásának teljesítéséből eredő bármilyen korábbi földhasználattal kapcsolatos jogerősen megállapított és fennálló díj-, vagy egyéb tartozása (a továbbiakban együtt: földhasználati díjtartozás).
-
-(2) A tulajdonszerzési jogosultság további feltétele, hogy a szerző féllel szemben a szerzést megelőző 5 éven belül nem állapították meg, hogy a szerzési korlátozások megkerülésére irányuló jogügyletet kötött.

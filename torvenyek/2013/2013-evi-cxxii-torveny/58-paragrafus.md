@@ -1,9 +1,0 @@
-58. § (1) A haszonbérleti szerződés módosítása esetén ebben az alcímben foglaltakat akkor kell alkalmazni, ha a módosítással a szerződés időtartama kerül meghosszabbításra, illetve ha a módosítás a haszonbér mértékének a csökkentésére irányul. A szerződés meghosszabbított időtartama nem lépheti túl a 44. §-ban meghatározott maximális időtartamot.
-
-(2) A haszonbérleti szerződésnek az (1) bekezdésben meghatározott tartalmú módosításáról szóló szerződést, vagy a módosításokkal egységes szerkezetbe foglalt haszonbérleti szerződést (a továbbiakban együtt: módosított szerződés) – annak aláírásától számított 8 napon belül – a haszonbérlőnek kell a mezőgazdasági igazgatási szerv részére megküldeni jóváhagyás céljából.
-
-(3) A mezőgazdasági igazgatási szerv a módosított szerződés jóváhagyásáról, vagy annak megtagadásáról – a módosított szerződés beérkezésétől számított – 30 napon belül határoz.
-
-(4) Ha a mezőgazdasági igazgatási szerv a (3) bekezdésben meghatározott határidőn belül nem dönt, illetve a határidő meghosszabbításáról a szerződő feleket nem értesíti, módosított szerződés jóváhagyását a (3) bekezdésben meghatározott határidő lejártát követő napon jóváhagyottnak kell tekinteni. Ez esetben a haszonbérlő kérelmére a módosított szerződést a mezőgazdasági igazgatási szerv az 55. § (2) bekezdése szerinti záradékkal köteles ellátni.
-
-(5) Ha a mezőgazdasági igazgatási szerv a (3) bekezdésben meghatározott határidőn belül megtagadja a módosított szerződés jóváhagyását, az erről szóló döntésében rendelkezik arról, hogy a feleknek a módosított szerződés jóváhagyása érdekében mely határnapig, milyen rendelkezéseket, mely jogszabályi előírás alapján kell megváltoztatniuk. Az e bekezdés szerinti döntésnek figyelmeztetést kell tartalmaznia arra vonatkozóan, hogy a határidő eredménytelen lejárta esetén a haszonbérleti szerződés a szerződő felek között létrejött eredeti szerződés szerinti tartalommal marad fenn.

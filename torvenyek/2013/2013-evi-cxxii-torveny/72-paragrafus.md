@@ -15,11 +15,3 @@ f) a földművesek és a mezőgazdasági termelőszervezetek nyilvántartásba v
 g) a mezőgazdasági igazgatási szerv kijelölését;
 
 h) föld végrehajtási vagy felszámolási eljárás keretében árverés útján történő értékesítésének szabályait.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
