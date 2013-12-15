@@ -16,7 +16,7 @@
 
 8–12.
 
-13.
+13. 62/A. § (3) bekezdés b) pontjában az „a termőföldről szóló törvényben meghatározott termőföldnek minősülő földrészlet” szövegrész helyébe az „az a termőföldnek minősülő földrészlet, amely külterületen található” szöveg;
 
 14–16.
 
