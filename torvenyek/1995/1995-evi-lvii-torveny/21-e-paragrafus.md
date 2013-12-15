@@ -1,4 +1,4 @@
-21/E. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén lévő termőföldön:
+21/E. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén lévő földön:
 
 a) kémiai talajjavításra, öntözési, meliorációs célú beruházásra,
 
@@ -18,4 +18,4 @@ b) a kezelő hozzájárulása nélkül a tározó kapacitáscsökkenésével já
 
 (3) Nem jár kártalanítás a kár azon része után, amely a (2) bekezdésben meghatározott rendelkezések megszegése miatt keletkezett.
 
-(4) A vízkárelhárítási célú tározó területén lévő termőföld művelési ágát megváltoztatni kizárólag a tározó kezelőjének előzetes hozzájárulásával lehet.
+(4) A vízkárelhárítási célú tározó területén lévő föld művelési ágát megváltoztatni kizárólag a tározó kezelőjének előzetes hozzájárulásával lehet.

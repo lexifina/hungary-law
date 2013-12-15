@@ -6,4 +6,4 @@
 
 (4) Az ingatlan tulajdonosának a bérleti vagy haszonbérleti szerződés megkötésekor a bérlő vagy haszonbérlő tudomására kell hoznia a 21/E. § szerinti használati korlátozásokat.
 
-(5) Ha a haszonbérlő a (2) bekezdés alapján kártalanításban részesült, egyidejűleg ezen a címen nem jogosult a termőföldről szóló törvény szerinti haszonbér-fizetési kedvezmény igénybevételére.
+(5) Ha a haszonbérlő a (2) bekezdés alapján kártalanításban részesült, egyidejűleg ezen a címen nem jogosult a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény szerinti haszonbér-fizetési kedvezmény igénybevételére.

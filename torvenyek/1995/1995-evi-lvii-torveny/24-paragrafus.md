@@ -4,7 +4,7 @@
 
 (3) A nagyvízi mederben építményt elhelyezni az érintett folyószakasz mederkezelőjének hozzájárulásával lehet.
 
-(4) A nagyvízi mederben fekvő ingatlan tulajdonosa, illetve használója a nagyvízi mederben mezőgazdasági művelést, erdőgazdálkodást vagy más tevékenységet kizárólag saját felelősségére, az árvizek levezetésének akadályozása nélkül, a környezet- és természetvédelmi, valamint a kulturális örökségvédelmi előírások megtartásával folytathat. A nagyvízi mederben a termőföld más célú hasznosítását, valamint a művelési ág megváltoztatását végrehajtani kizárólag az érintett folyószakasz-meder kezelőjének előzetes hozzájárulásával lehet.
+(4) A nagyvízi mederben fekvő ingatlan tulajdonosa, illetve használója a nagyvízi mederben mezőgazdasági művelést, erdőgazdálkodást vagy más tevékenységet kizárólag saját felelősségére, az árvizek levezetésének akadályozása nélkül, a környezet- és természetvédelmi, valamint a kulturális örökségvédelmi előírások megtartásával folytathat. A nagyvízi mederben a termőföld védelméről szóló törvény szerinti, a termőföld más célú hasznosítását, valamint a föld művelési ágának megváltoztatását végrehajtani kizárólag az érintett folyószakasz-meder kezelőjének előzetes hozzájárulásával lehet.
 
 (5) A folyók, patakok, kisvízfolyások, belvíz- és öntözőcsatornák, tavak, tározók, holtágak parti sávját, továbbá az árvízvédelmi létesítmények védősávját úgy kell használni, hogy azt a meder, illetve létesítmény tulajdonosa (használója) a karbantartási munkák, mérések esetenkénti ellátása céljából a feladataihoz szükséges mértékben, illetve védekezési célból akadálytalanul igénybe vehesse.
 
