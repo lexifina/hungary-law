@@ -1,30 +1,30 @@
 ## 3. A támogatás igénybevételének a feltételei
 
-5. § (1)[^13]
+5. § (1)[^15]
 
 (2) Nem igényelhet támogatást az a kérelmező, aki vagy amely
 
-a)[^14] a kérelemben megjelölt gép vásárlása tekintetében az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott támogatásban részesült, vagy érvényes támogatási határozattal rendelkezik;
+a)[^16] a kérelemben megjelölt gép vásárlása tekintetében az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott támogatásban részesült, vagy érvényes támogatási határozattal rendelkezik;
 
-b)[^15] a támogatási kérelem benyújtásának az időpontjában nem rendelkezik az üzemeltetési hely tekintetében a borászati hatóság által kiállított működési engedéllyel;
+b)[^17] a támogatási kérelem benyújtásának az időpontjában nem rendelkezik az üzemeltetési hely tekintetében a borászati hatóság által kiállított működési engedéllyel;
 
-c)[^16]
+c)[^18]
 
 d) nehéz helyzetben lévő vállalkozásnak minősül;
 
-e)[^17]
+e)[^19]
 
-f)[^18] a támogatási kérelem benyújtásának az időpontjában nem rendelkezik az üzemeltetési hely tekintetében egyszerűsített adóraktári engedéllyel, illetve pezsgőadóraktári engedéllyel;
+f)[^20] a támogatási kérelem benyújtásának az időpontjában nem rendelkezik az üzemeltetési hely tekintetében egyszerűsített adóraktári engedéllyel, illetve pezsgőadóraktári engedéllyel;
 
 g) bor forgalomba hozatali járuléktartozással rendelkezik;
 
 h) jogerős ideiglenes bezárásra vonatkozó határozattal rendelkezik;
 
-i)[^19]
+i)[^21]
 
 (3) A (2) bekezdés d) pontja szerint nehéz helyzetben lévő vállalkozásnak minősül
 
-a)[^20] a társas vállalkozások közül az a vállalkozás, amelynek saját tőkéje veszteség folytán nem éri el a jegyzett tőke felét a támogatási kérelem benyújtásakor rendelkezésre álló utolsó beszámolóban, és ezen mérleg szerinti veszteség több mint egynegyede a megelőző beszámoló óta eltelt időszak alatt keletkezett;
+a)[^22] a társas vállalkozások közül az a vállalkozás, amelynek saját tőkéje veszteség folytán nem éri el a jegyzett tőke felét a támogatási kérelem benyújtásakor rendelkezésre álló utolsó beszámolóban, és ezen mérleg szerinti veszteség több mint egynegyede a megelőző beszámoló óta eltelt időszak alatt keletkezett;
 
 b) az egyéni vállalkozások közül az a vállalkozás, amelyre az alábbi három feltétel együttesen teljesül:
 
@@ -34,11 +34,11 @@ bb) a támogatási kérelem beadását megelőző lezárt gazdasági év vesztes
 
 bc) a támogatási kérelem beadását megelőző lezárt gazdasági évben elszámolt amortizáció nem éri el az azt megelőző gazdasági évben elszámolt amortizációt.
 
-[^13]: Az 5. § (1) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^14]: Az 5. § (2) bekezdés a) pontja a 108/2012. (X. 11.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^15]: Az 5. § (2) bekezdés b) pontja a 108/2012. (X. 11.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^16]: Az 5. § (2) bekezdés c) pontját a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^17]: Az 5. § (2) bekezdés e) pontját a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^18]: Az 5. § (2) bekezdés f) pontja a 108/2012. (X. 11.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (2) bekezdés i) pontját a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^20]: Az 5. § (3) bekezdés a) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 4. pontja szerint módosított szöveg.
+[^15]: Az 5. § (1) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: Az 5. § (2) bekezdés a) pontja a 108/2012. (X. 11.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (2) bekezdés b) pontja a 108/2012. (X. 11.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (2) bekezdés c) pontját a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^19]: Az 5. § (2) bekezdés e) pontját a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^20]: Az 5. § (2) bekezdés f) pontja a 108/2012. (X. 11.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^21]: Az 5. § (2) bekezdés i) pontját a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: Az 5. § (3) bekezdés a) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 4. pontja szerint módosított szöveg.

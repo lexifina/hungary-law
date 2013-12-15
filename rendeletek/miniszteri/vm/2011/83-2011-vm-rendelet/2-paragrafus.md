@@ -1,9 +1,15 @@
 ## 2. A támogatás jellege, mértéke
 
-## 2. §[^7] Támogatás kizárólag olyan új, első üzembehelyezésű gép vásárlásához nyújtható, amely
+2. §[^9] (1) Támogatást borászati üzem (a továbbiakban: kérelmező) igényelhet.
 
-a) javítja a vállalkozás összteljesítményét, növeli a termelési kapacitást vagy alapvetően megváltoztatja az alkalmazott technológiát, és
+(2) Támogatás kizárólag olyan új, első üzembehelyezésű gép vásárlásához nyújtható,
 
-b) célja a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet XIb. mellékletében meghatározott termékek előállítása vagy forgalmazásra történő előkészítése.
+a) amely javítja a vállalkozás összteljesítményét, növeli a termelési kapacitást vagy alapvetően megváltoztatja az alkalmazott technológiát,
 
-[^7]: A 2. § a 108/2012. (X. 11.) VM rendelet 2. §-ával megállapított szöveg.
+b) amelynek célja a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet XIb. mellékletében meghatározott termékek előállítása vagy forgalmazásra történő előkészítése, és
+
+c) amely szerepel a benyújtási időszak naptári évének augusztus 1-jén hatályos gépkatalógusban.
+
+(3) A gépkatalógust a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) hivatalos honlapján közzéteszi.
+
+[^9]: A 2. § a 101/2013. (XI. 4.) VM rendelet 4. §-ával megállapított szöveg.

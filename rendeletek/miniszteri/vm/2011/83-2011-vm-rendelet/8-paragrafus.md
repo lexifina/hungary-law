@@ -1,8 +1,8 @@
 ## 4. A támogatási kérelem benyújtása
 
-8. § (1)[^27] A támogatási kérelmet az MVH részére kell benyújtani az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon. A nyomtatványon a kérelmezőnek meg kell adnia
+8. § (1)[^30] A támogatási kérelmet az MVH részére kell benyújtani az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon. A nyomtatványon a kérelmezőnek meg kell adnia
 
-a)[^28] az ügyfél-azonosítóját,
+a)[^31] az ügyfél-azonosítóját,
 
 b) a támogatási kérelem benyújtásának évét megelőző évben
 
@@ -20,7 +20,7 @@ cc) számlatételének megnevezését,
 
 cd) számlatételének gépkatalógus szerinti azonosítóját,
 
-ce)[^29] számlatételének gyári számát vagy egyedi azonosítóját,
+ce)[^32] számlatételének gyári számát vagy egyedi azonosítóját,
 
 cf) számlatételének üzemeltetési helyét,
 
@@ -32,9 +32,9 @@ ci) számlatételének darabszámát, és
 
 d) a gazdasági aktáját vezető hegybíró nevét és elérhetőségét,
 
-e)[^30] a borászati üzem borászatitermék-tárolási kapacitását.
+e)[^33] a borászati üzem borászatitermék-tárolási kapacitását.
 
-(2)[^31] A támogatási kérelmet
+(2)[^34] A támogatási kérelmet
 
 a) a 2013/2014. pénzügyi évben 2013. november 5. és 2013. december 14. között,
 
@@ -42,7 +42,7 @@ b) a 2014/2015. pénzügyi évben 2014. október 16. és 2014. december 31. köz
 
 ## lehet benyújtani.
 
-(3)[^32]
+(3)[^35]
 
 (4) Egy kérelmező egy benyújtási időszakban egy támogatási kérelmet nyújthat be.
 
@@ -56,11 +56,11 @@ ab) hitelszerződések,
 
 ac) számlák és azok kifizetését igazoló bizonylatok,
 
-ad)[^33] átadás-átvételt igazoló dokumentumok
+ad)[^36] átadás-átvételt igazoló dokumentumok
 
 b) a gépre vonatkozó
 
-ba)–bb)[^34]
+ba)–bb)[^37]
 
 bc) gyártási időpontot igazoló dokumentum,
 
@@ -74,25 +74,25 @@ d) az üzemeltetési hely szerinti üzemre vonatkozó, az adott gép szabálysze
 
 e) az üzemeltetési helyre vonatkozó egyszerűsített adóraktári, illetve pezsgőadóraktári engedély másolatát;
 
-f)[^35] gazdasági társaság, szövetkezet, egyéni cég esetén, a támogatási kérelem benyújtásakor rendelkezésre álló utolsó évi beszámoló eredménykimutatásának és mérlegének másolatát;
+f)[^38] gazdasági társaság, szövetkezet, egyéni cég esetén, a támogatási kérelem benyújtásakor rendelkezésre álló utolsó évi beszámoló eredménykimutatásának és mérlegének másolatát;
 
 g) őstermelő, egyéni vállalkozó esetén az utolsó két év adóbevallásának másolatát;
 
-h)–j)[^36]
+h)–j)[^39]
 
-k)[^37] a gép nem saját tulajdonú vagy más személy rendelkezési jogával terhelt ingatlanon történő üzemeltetése esetén a 3. melléklet szerinti nyilatkozatot teljes bizonyító erejű magánokiratba foglaltan, és
+k)[^40] a gép nem saját tulajdonú vagy más személy rendelkezési jogával terhelt ingatlanon történő üzemeltetése esetén a 3. melléklet szerinti nyilatkozatot teljes bizonyító erejű magánokiratba foglaltan, és
 
-l)[^38] az angoltól különböző idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását.
+l)[^41] az angoltól különböző idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását.
 
-[^27]: A 8. § (1) bekezdés nyitó szövegrésze a 108/2012. (X. 11.) VM rendelet 10. § a) pontja szerint módosított szöveg.
-[^28]: A 8. § (1) bekezdés a) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 6. pontjával megállapított szöveg.
-[^29]: A 8. § (1) bekezdés c) pont ce) alpontja a 108/2012. (X. 11.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^30]: A 8. § (1) bekezdés e) pontját a 101/2013. (XI. 4.) VM rendelet 9. § (1) bekezdése iktatta be.
-[^31]: A 8. § (2) bekezdése a 101/2013. (XI. 4.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^32]: A 8. § (3) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^33]: A 8. § (5) bekezdés a) pont ad) alpontja a 101/2013. (XI. 4.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^34]: A 8. § (5) bekezdés b) pont ba)–bb) alpontját a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés f) pontja hatályon kívül helyezte.
-[^35]: A 8. § (5) bekezdés f) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 7. pontja szerint módosított szöveg.
-[^36]: A 8. § h)–j) pontját a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^37]: A 8. § (5) bekezdés k) pontja a 108/2012. (X. 11.) VM rendelet 6. § (4) bekezdésével megállapított, a 101/2013. (XI. 4.) VM rendelet 15. § 8. pontja szerint módosított szöveg.
-[^38]: A 8. § (5) bekezdés l) pontja a 101/2013. (XI. 4.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^30]: A 8. § (1) bekezdés nyitó szövegrésze a 108/2012. (X. 11.) VM rendelet 10. § a) pontja szerint módosított szöveg.
+[^31]: A 8. § (1) bekezdés a) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 6. pontjával megállapított szöveg.
+[^32]: A 8. § (1) bekezdés c) pont ce) alpontja a 108/2012. (X. 11.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^33]: A 8. § (1) bekezdés e) pontját a 101/2013. (XI. 4.) VM rendelet 9. § (1) bekezdése iktatta be.
+[^34]: A 8. § (2) bekezdése a 101/2013. (XI. 4.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^35]: A 8. § (3) bekezdését a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^36]: A 8. § (5) bekezdés a) pont ad) alpontja a 101/2013. (XI. 4.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^37]: A 8. § (5) bekezdés b) pont ba)–bb) alpontját a 101/2013. (XI. 4.) VM rendelet 16. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^38]: A 8. § (5) bekezdés f) pontja a 101/2013. (XI. 4.) VM rendelet 15. § 7. pontja szerint módosított szöveg.
+[^39]: A 8. § h)–j) pontját a 108/2012. (X. 11.) VM rendelet 11. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^40]: A 8. § (5) bekezdés k) pontja a 108/2012. (X. 11.) VM rendelet 6. § (4) bekezdésével megállapított, a 101/2013. (XI. 4.) VM rendelet 15. § 8. pontja szerint módosított szöveg.
+[^41]: A 8. § (5) bekezdés l) pontja a 101/2013. (XI. 4.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.
