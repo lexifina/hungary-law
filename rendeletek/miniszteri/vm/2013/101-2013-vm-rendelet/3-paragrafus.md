@@ -2,22 +2,16 @@
 
 ## 3. Az Európai Mezőgazdasági Garancia Alapból a borászati gépek, technológiai berendezések beszerzéséhez a 2011. évtől igényelhető támogatásról szóló 83/2011. (VIII. 31.) VM rendelet módosítása
 
-3. § (1) Az Európai Mezőgazdasági Garancia Alapból a borászati gépek, technológiai berendezések beszerzéséhez a 2011. évtől igényelhető támogatásról szóló 83/2011. (VIII. 31.) VM rendelet (a továbbiakban: borászati beruházási rendelet) 1. § 1. pontja helyébe a következő rendelkezés lép:
+3. § (1)[^3]
 
-[E rendelet alkalmazásában]
+(2)[^4]
 
-## „1. gépkatalógus: az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló rendelet szerinti gépkatalógusnak az 1. mellékletben meghatározott gépváltozatok szerinti része;”
+(3)[^5]
 
-(2)[^3]
-
-(3) A borászati beruházási rendelet 1. § 4. pontja helyébe a következő rendelkezés lép:
-
-[E rendelet alkalmazásában]
-
-## „4. gép: a gépkatalógusban szereplő gépek és technológiai berendezések;”
-
-(4)[^4]
+(4)[^6]
 
 [^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
