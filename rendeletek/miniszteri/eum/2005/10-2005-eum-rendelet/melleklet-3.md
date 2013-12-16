@@ -1,26 +1,24 @@
-## JELENTÉS
+## JELENTÉS TÖMEGES BALESETRŐL, MÉRGEZÉSRŐL
 
-## TÖMEGES BALESETRŐL, MÉRGEZÉSRŐL
+## (Faxon vagy e-mail-ben továbbítandó)
 
-## (Faxon vagy e-mail-ben továbbítandó.)
-
-## Bejelentő: OMSZ .............................. megyei mentőszervezet
+## Bejelentő: OMSZ .............................. megyei mentőszervezet
 
 ## Az esemény helye:
 
 ## Az esemény leírása:
 
-## A bejelentés vételének időpontja: ............. év ..... hó ..... nap ...... óra ..... perc
+## A bejelentés vételének időpontja: ............. év ..... hó ..... nap ...... óra ..... perc
 
-## A kárhely felszámolásának megkezdése: ...... év ...... hó ..... nap ...... óra ...... perc
+## A kárhely felszámolásának megkezdése: ...... év ...... hó ..... nap ...... óra ...... perc
 
 ## A kivonult OMSZ mentőegységek száma:
 
-## helikopter: ....... rohamkocsi: ........... esetkocsi: ............ betegszállító gépkocsi: .........
+## helikopter: ....... rohamkocsi: ........... esetkocsi: ............ betegszállító gépkocsi: .........
 
 ## A kivonult OMSZ-on kívüli mentőegységek száma:
 
-## helikopter: ....... rohamkocsi: ........... esetkocsi: ............ betegszállító gépkocsi: .........
+## helikopter: ....... rohamkocsi: ........... esetkocsi: ............ betegszállító gépkocsi: .........
 
 |  | felnőtt (fő) | gyermek (fő) |
 
@@ -52,14 +50,16 @@
 
 | fő | kórházban |
 
-## Helyszíni ellátásban részesült, elszállításra nem került: ........ fő
+## Helyszíni ellátásban részesült, elszállításra nem került: ........ fő
 
-## A kárhely felszámolásának befejezése: ........ év ..... hó ..... nap ....... óra ...... perc
+## Laikus elsősegélynyújtás történt-e: ............
 
-## A jelentés időpontja: .......... év ...... hó ...... nap ..... óra
+## A kárhely felszámolásának befejezése: ........ év ..... hó ..... nap ....... óra ...... perc
 
-|  | .......................................................................................... |
+## A jelentés időpontja: .......... év ...... hó ...... nap ..... óra
 
-|  | OMSZ főigazgató/szogálatvezető főorvos |
+## OMSZ főigazgató/szolgálatvezető főorvos
 
-3. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez
+3. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^18]
+
+[^18]: A 3. számú melléklet a 68/2013. (XI. 15.) EMMI rendelet 15. § (2) bekezdésével megállapított szöveg.
