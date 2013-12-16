@@ -104,7 +104,7 @@
 
 | III.8.1.13. | Fényvédő faktor (SPF) | 11 900 Ft |
 
-| III.8.2. | Mikrobiológiai vizsgálatok | 30 200 Ft |
+| III.8.2. |  |  |
 
 |  | Rövidítések: TITR: titrimetria HPLC: nagyhatékonyságú folyadékkromatográfia AAS: atomabszorpciós spektrofotometria SPF: spektrofotometria |  |
 
@@ -134,7 +134,7 @@
 
 | V. | Veszélyes anyagokkal, veszélyes készítményekkel kapcsolatos igazgatási szolgáltatások |  |
 
-| V.1. | A veszélyes vegyi anyagok kiviteléről és behozataláról szóló 304/2003/EK európai parlamenti és tanácsi rendelet 7. cikke szerinti kiviteli bejelentés | 19 100 Ft |
+| V.1. | A veszélyes vegyi anyagok kiviteléről és behozataláról szóló európai parlamenti és tanácsi rendelet szerinti kiviteli bejelentés és hozzájárulás iránti kérelem | 19 100 Ft |
 
 | V.2. | Veszélyes anyaggal vagy veszélyes készítménnyel folytatott tevékenység (és a tevékenységben bekövetkezett változás) bejelentése | 7 800 Ft/telephely |
 
@@ -390,7 +390,7 @@
 
 | XIII.1. | Zárt légterű dohányzóhely kijelölésének engedélyezése a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (9) bekezdése alapján, az Nvt. 2. § (5) bekezdés d) és e) pontja szerinti esetekben a munkavállalók részére | 40 000 Ft |
 
-2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^10]
+2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^11]
 
 | Intézet | Bankszámlaszám |
 
@@ -444,4 +444,4 @@
 
 | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerv | 10049006-00303066-00000000 |
 
-[^10]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 64. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 64. § (2) bekezdésével megállapított szöveg.
