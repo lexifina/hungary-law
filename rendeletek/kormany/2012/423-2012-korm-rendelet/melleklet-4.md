@@ -1,4 +1,4 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^37]
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^38]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
 
@@ -48,4 +48,4 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 22 | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens szakképesítés | jogi közigazgatási, rendészeti és katonai |
 
-[^37]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be.
+[^38]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be.

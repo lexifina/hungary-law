@@ -1,4 +1,4 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^36]
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^37]
 
 A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű érettségi vizsgák jegyzéke szakonként, képzési területenként
 
@@ -112,4 +112,4 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 9. | társadalmi tanulmányok |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-[^36]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^37]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a szerint módosított szöveg.
