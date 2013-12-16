@@ -1,5 +1,0 @@
-A Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 5. melléklet 14. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § j) pontjában meghatározott feladatkörömben eljárva – az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § b) pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszter, valamint 84. § a) pontjában meghatározott feladatkörében eljáró nemzeti fejlesztési miniszter véleményének kikérésével –,
-
-a 11–13. § tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés d) pont df) és dg) alpontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § d) pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
