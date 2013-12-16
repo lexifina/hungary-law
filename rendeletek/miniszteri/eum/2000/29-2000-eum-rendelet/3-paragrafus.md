@@ -1,4 +1,4 @@
-3. § (1)[^6] Az 1. § (2) bekezdés szerinti résztervek a helyi vagy területi intézkedésnek, illetve a központi államigazgatási szervektől kapott utasításnak megfelelően, a tényleges események által megkívánt csoportosításban, részlegesen vagy teljeskörűen kerülhetnek alkalmazásra.
+3. § (1)[^7] Az 1. § (2) bekezdés szerinti résztervek a helyi vagy területi intézkedésnek, illetve a központi államigazgatási szervektől kapott utasításnak megfelelően, a tényleges események által megkívánt csoportosításban, részlegesen vagy teljeskörűen kerülhetnek alkalmazásra.
 
 (2) A résztervvel szembeni általános követelmények:
 
@@ -34,4 +34,4 @@ i) meg kell határozni a terv karbantartásának, a változásokat követő aktu
 
 (4) A részterv az e rendeletben foglaltakon kívül tartalmazhatja mindazokat az elemeket, melyeket a terv készítéséért felelős személy szükségesnek tart.
 
-[^6]: A 3. § (1) bekezdése a 40/2005. (IX. 22.) EüM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdése a 40/2005. (IX. 22.) EüM rendelet 3. §-ával megállapított szöveg.

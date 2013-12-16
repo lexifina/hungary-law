@@ -1,30 +1,34 @@
 ## Az egészségügyi szolgáltató által készítendő katasztrófaterv résztervei
 
-| Elkészítendő terv | Kórház, mátrixkórház, szakkórház, országos intézet, klinika, krónikus kórház | Szanatórium | Rendelőintézeti szakrendelő, nappali kórház | Ápolási intézet |
+|  | A | B | C | D | E |
 
-| I. | Riasztási, berendelési terv | X | X | X | X |
+| 1. | Elkészítendő terv | Kórház, szakkórház, országos intézet, klinika, krónikus kórház | Szanatórium | Rendelőintézeti szakrendelő, nappali kórház | Ápolási intézet |
 
-| II. | Kitelepítési terv | X | X | X | X |
+| 2. | I. Riasztási, berendelési terv | X | X | X | X |
 
-| III. | Kimenekítési terv | X | X | X | X |
+| 3. | II. Kitelepítési terv | X | X | X | X |
 
-| IV. | Elzárkózási terv | X | X | X | X |
+| 4. | III. Kimenekítési terv | X | X | X | X |
 
-| V. | Orvosi segélyhely telepítési terv | X | – | – | – |
+| 5. | IV. Elzárkózási terv | X | X | X | X |
 
-| VI. | Szükségkórház telepítési terv | X | – | – | – |
+| 6. | V. Orvosi segélyhely telepítési terv | X* | – | X* | – |
 
-| VII. Többletfeladatok ellátásának terve | X | – | – | – |
+| 7. | VI. Szükségkórház telepítési terv | X* | – | – | – |
 
-| VIII. | Az ellátás fenntartásának terve | X | X | – | – |
+| 8. | VII. Többletfeladatok ellátásának terve | X | – | – | – |
 
-| IX. Egészségügyi és egyéb anyag- biztosítási terv | X | – | X | X |
+| 9. | VIII. Az ellátás fenntartásának terve | X | X | – | – |
 
-| X. | Szállítási terv | X | X | X | X |
+| 10. | IX. Egészségügyi és egyéb anyag biztosítási terv | X | – | X | X |
 
-| XI. | Élelmezési terv | X | X | – | X |
+| 11. | X. Szállítási terv | X | X | X | X |
 
-| XII. | Kommunikációs terv | X | X | X | X |
+| 12. | XI. Élelmezési terv | X | X | – | X |
+
+| 13. | XII. Kommunikációs terv | X | X | X | X |
+
+## * Csak a megyei népegészségügyi szakigazgatási szerv által kijelölt egészségügyi szolgáltatók készítik.
 
 3. számú melléklet a 29/2000. (X. 30.) EüM rendelethez
 
@@ -62,7 +66,7 @@ Mindkét változat tartalmazza:
 
 Kapcsolódó terv: gépkocsival történő kiértesítéskor, beszállításkor a Szállítási terv.
 
-II. Kitelepítési terv[^10]
+II. Kitelepítési terv[^11]
 
 A terv célja az egészségügyi intézmény veszélyeztetettsége esetén – megfelelő időtartamú felkészülést követően – a biztonságos helyre való áttelepítés, a személyzet, az ellátottak és a felszerelések, készletek megóvása érdekében.
 
@@ -94,7 +98,7 @@ A terv tartalmazza:
 
 Kapcsolódó tervek: Riasztási berendelési terv, Szállítási terv, Élelmezési terv.
 
-III. Kimenekítési terv[^11]
+III. Kimenekítési terv[^12]
 
 A terv célja elsősorban az egészségügyi intézményben tartózkodó személyek, és lehetőség esetén, a legveszélyeztetettebb felszerelések, készletek haladéktalan kivonása a váratlanul fellépő, veszélyeztető esemény (tűz, árvíz, vegyi-nukleáris baleset, robbanás általi fenyegetettség stb.) hatása alól.
 
@@ -156,7 +160,7 @@ A ,,B'' terv tartalmazza:
 
 Kapcsolódó tervek: Riasztási berendelési terv, Élelmezési terv.
 
-V. OSH telepítési terv[^12]
+V. OSH telepítési terv[^13]
 
 A tervet csak a megyei népegészségügyi szakigazgatási szerv által az Orvosi Segélyhely(ek) (a továbbiakban: OSH) telepítésére kijelölt egészségügyi szolgáltatók készítik.
 
@@ -168,7 +172,7 @@ A terv tartalmazza:
 
 – a személyi állomány váltásának beosztását,
 
-– az OSH telepítéshez szükséges felszerelések anyagok jegyzékét, azok tárolásának helyét,
+– az OSH telepítéshez szükséges felszerelések anyagok jegyzékét,
 
 – a telepítésre alkalmas objektumok megnevezését, címét, az elérési útvonalakat (alternatívákkal),
 
@@ -186,7 +190,7 @@ A terv tartalmazza:
 
 Kapcsolódó tervek: Riasztási berendelési terv, Szállítási terv, Élelmezési terv, Egészségügyi anyagbiztosítási terv.
 
-VI. Szükségkórház telepítési terv[^13]
+VI. Szükségkórház telepítési terv[^14]
 
 A tervet csak a megyei népegészségügyi szakigazgatási szervek által a szükségkórház telepítésére kijelölt kórházak készítik.
 
@@ -201,8 +205,6 @@ A terv tartalmazza:
 – a kórházként való működéshez szükséges legfontosabb műszaki feladatok meghatározását, a munkálatokat végző (intézményi vagy külső) szervezet megnevezését,
 
 – a részletes berendezési tervet (beleértve a halottak ideiglenes elhelyezésére szolgáló terület kijelölését),
-
-– a telepítendő szükségkórház felszerelésének, berendezéseinek tárolási helyét,
 
 – a felszerelések, anyagok helyszínre szállításának és telepítésének sorrendjét,
 
@@ -220,7 +222,7 @@ A terv tartalmazza:
 
 Kapcsolódó terv: Szállítási terv, Egészségügyi anyagbiztosítási terv, Élelmezési terv, Többletfeladatok ellátásának terve.
 
-VII. Többletfeladatok ellátásának terve béke- és minősített időszak idején[^14]
+VII. Többletfeladatok ellátásának terve béke- és minősített időszak idején[^15]
 
 A tervet 1–3 napra, 4–14 napra és 15 napon túli időszakra kell elkészíteni.
 
@@ -274,7 +276,7 @@ A fentieken kívül a rendkívüli állapotra vonatkozóan az alábbiakra kell k
 
 Kapcsolódó tervek: Egészségügyi anyagbiztosítási terv, Élelmezési terv, Szállítási terv.
 
-VIII. Az intézményben keletkezett károk, illetve a működést akadályozó körülmények között az ellátás fenntartásának terve[^15]
+VIII. Az intézményben keletkezett károk, illetve a működést akadályozó körülmények között az ellátás fenntartásának terve[^16]
 
 A tervet fekvőbeteg-ellátó intézetek készítik. A károsító, akadályozó körülmény sokféle lehet (pl. a dolgozók nem tudnak eljutni munkahelyükre, akadozik a gyógyszer-, az élelmiszer-ellátás, természeti erő vagy fegyveres támadás rombolódást okoz, ipari baleset vagy egyéb okból történő vegyi anyag általi veszélyeztetettség, nukleáris veszélyhelyzet, közműszolgáltatások szünetelése stb.).
 
@@ -294,7 +296,7 @@ A terv tartalmazza:
 
 Kapcsolódó tervek: Egészségügyi anyagbiztosítási terv, Élelmezési terv, Kommunikációs terv.
 
-IX. Egészségügyi anyagbiztosítási terv[^16]
+IX. Egészségügyi anyagbiztosítási terv[^17]
 
 A tervet 1–3 napra, 4–14 napra és 15 napon túli időszakra kell elkészíteni.
 
@@ -364,7 +366,7 @@ A terv tartalmazza:
 
 – ivóvíz beszállíttatásáról való gondoskodást a felelős megjelölésével.
 
-XII. Kommunikációs terv[^17]
+XII. Kommunikációs terv[^18]
 
 A terv tartalmazza:
 
@@ -388,11 +390,11 @@ A terv tartalmazza:
 
 – a hozzátartozók tájékoztatásának módját és felelősét a betegek felvételéről áthelyezéséről, elhalálozásáról.
 
-[^10]: A 3. számú melléklet II. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^11]: A 3. számú melléklet III. pontja a 11/2013. (II. 7.) EMMI rendelet 11. §-a szerint módosított szöveg.
-[^12]: A 3. számú melléklet V. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^13]: A 3. számú melléklet VI. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^14]: A 3. számú melléklet VII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^15]: A 3. számú melléklet VIII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^16]: A 3. számú melléklet IX. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^17]: A 3. számú melléklet XII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 3. számú melléklet II. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 3. számú melléklet III. pontja a 11/2013. (II. 7.) EMMI rendelet 11. §-a szerint módosított szöveg.
+[^13]: A 3. számú melléklet V. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése, a 68/2013. (XI. 15.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^14]: A 3. számú melléklet VI. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése, a 68/2013. (XI. 15.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
+[^15]: A 3. számú melléklet VII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 3. számú melléklet VIII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^17]: A 3. számú melléklet IX. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 3. számú melléklet XII. pontja a 10/2011. (III. 30.) NEFMI rendelet 17. § (2) bekezdése szerint módosított szöveg.
