@@ -1,4 +1,4 @@
-2. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^73]
+2. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^74]
 
 ## Az agyhalál megállapítása
 
@@ -68,4 +68,4 @@ II. Tc99m HMPAO-val készített perfúziós szcintigram: nincs intrakraniális i
 
 III. négyér angiográfia: az angiogrammokon nincs cerebrális értelődés
 
-[^73]: A 2. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (1) bekezdésével megállapított, a 76/2013. (XII. 10.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^74]: A 2. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (1) bekezdésével megállapított, a 76/2013. (XII. 10.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 16/G. §[^45] Az OTH az egészségügyi szolgáltatók nyilvántartására vonatkozó jogszabályban foglaltak szerint nyilvántartást vezet a transzplantációs központokról.
+## 16/G. §[^46] Az OTH az egészségügyi szolgáltatók nyilvántartására vonatkozó jogszabályban foglaltak szerint nyilvántartást vezet a transzplantációs központokról.
 
-## Az átültetésre szánt emberi szerveknek az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamok közötti cseréjére vonatkozó általános eljárási szabályok[^46]
+## Az átültetésre szánt emberi szerveknek az Európai Gazdasági Térségről szóló megállapodásban részes valamely tagállamok közötti cseréjére vonatkozó általános eljárási szabályok[^47]
 
-16/H. §[^47] (1) Az OVSZ a 16/I. § szerinti adattovábbítása során a (2) és a (3) bekezdésben foglaltaknak megfelelően jár el.
+16/H. §[^48] (1) Az OVSZ a 16/I. § szerinti adattovábbítása során a (2) és a (3) bekezdésben foglaltaknak megfelelően jár el.
 
 (2) Az adatokat írásban, elektronikus úton vagy faxon, a rendeltetési tagállammal kötött megállapodás szerinti nyelven, ennek hiányában angol nyelven, az adatok rendelkezésre állását követően haladéktalanul kell megküldeni úgy, hogy az tartalmazza az adattovábbítás időpontját és az adattovábbításért felelős személy elérhetőségeit is. Az adattovábbítást követően gondoskodni kell arról, hogy a rendeltetési tagállam az adatok átvételét megerősítse.
 
@@ -12,6 +12,6 @@
 
 (5) Az OVSZ 24 órás ügyeletet biztosít a sürgős esetek adatainak fogadására.
 
-[^45]: A 16/G. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
-[^46]: A 16/H. §-t megelőző alcímet a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
-[^47]: A 16/H. §-t a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
+[^46]: A 16/G. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^47]: A 16/H. §-t megelőző alcímet a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
+[^48]: A 16/H. §-t a 41/2013. (VI. 17.) EMMI rendelet 3. §-a iktatta be.

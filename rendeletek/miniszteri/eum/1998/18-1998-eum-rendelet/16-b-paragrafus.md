@@ -36,5 +36,8 @@ c) a jogszabály szerinti higiéniás feltételeket betartsák a szervek szennye
 
 (15) A szervadományozás folyamatát – ideértve a szervek szállítására használt tárolóeszközök címkézésének szabályait – részletesen a 9/a. számú melléklet tartalmazza.
 
+(16)[^41] Az illetékes hatóságok biztosítják az e rendeletben foglaltaknak megfelelően az adományozástól az átültetésig vagy ártalmatlanításig terjedő lánc minden szakaszára kiterjedő minőségi és biztonsági rendszer betartását. Ennek érdekében ajánlást dolgozhatnak ki az adományozástól az átültetésig vagy ártalmatlanításig terjedő lánc valamennyi szakaszában részt vevő egészségügyi szolgáltatók számára, amelybe beletartozhat az átültetést követő állapotra vonatkozó, az átültetett szervek minőségének és biztonságának értékelését szolgáló releváns információ összegyűjtéséhez nyújtott ajánlás is. Az ajánlás alapján a folyamatban részt vevő egészségügyi szolgáltatók műveleti előírásokat dolgozhatnak ki.
+
 [^39]: A 16/B. §-t megelőző alcímet a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
 [^40]: A 16/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^41]: A 16/B. § (16) bekezdését a 68/2013. (XI. 15.) EMMI rendelet 2. §-a iktatta be.

@@ -28,6 +28,6 @@
 
 ## 2.7. Gottsegen György Országos Kardiológiai Intézet Budapest (gyermekszív és szív).
 
-6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^79]
+6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^80]
 
-[^79]: A 6. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^80]: A 6. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
