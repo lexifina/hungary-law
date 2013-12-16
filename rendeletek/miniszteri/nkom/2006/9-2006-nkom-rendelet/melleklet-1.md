@@ -1,21 +1,25 @@
 1. számú melléklet a 9/2006. (V. 9.) NKÖM rendelethez[^73]
 
-1. Előadó-művészet Kollégiuma
+A Nemzeti Kulturális Alap állandó kollégiumai
 
-2. Építőművészet és Örökségvédelem Kollégiuma
+1. Építőművészet és Örökségvédelem Kollégiuma
 
-3. Folyóirat-kiadás Kollégiuma
+2. Folyóirat-kiadás Kollégiuma
 
-4. Könyvkiadás Kollégiuma
+3. Könyvkiadás Kollégiuma
 
-5. Közgyűjtemények Kollégiuma
+4. Közgyűjtemények Kollégiuma
 
-6. Közművelődés és Népművészet Kollégiuma
+5. Közművelődés és Népművészet Kollégiuma
 
-7. Kulturális Fesztiválok Kollégiuma
+6. Kulturális Fesztiválok Kollégiuma
 
-8. Szépirodalom és Ismeretterjesztés Kollégiuma
+7. Szépirodalom és Ismeretterjesztés Kollégiuma
+
+8. Színház- és Táncművészet Kollégiuma
 
 9. Vizuális Művészetek Kollégiuma
 
-[^73]: Az 1. számú melléklet a 65/2011. (XII. 9.) NEFMI rendelet 11. §-ával megállapított szöveg.
+10. Zenei Kollégium
+
+[^73]: Az 1. számú melléklet a 77/2013. (XII. 13.) EMMI rendelet 1. §-ával megállapított szöveg.
