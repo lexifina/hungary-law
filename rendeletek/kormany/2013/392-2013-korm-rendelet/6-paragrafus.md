@@ -2,6 +2,4 @@
 
 (2) Ha az eljáró hatóság azt állapítja meg, hogy a kérelmet benyújtó személy vagy az adott ellátás megállapítása során figyelembe vett más személy már szerepel a Nyilvántartásban, és az ellátásra való jogosultság feltételei fennállnak, az új ellátásra vonatkozó adatokat a Nyilvántartásban már szereplő adatokhoz kapcsoltan rögzíti.
 
-(3)[^2]
-
-[^2]: A 6. § (3) bekezdése a 7. § (2) bekezdése alapján 2013. december 16-án lép hatályba.
+(3) A Nyilvántartásban szereplő személyre vonatkozó, az Szt. 18. § a), b) és g) pontja, 18/A. § a), b) és g) pontja, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 138. § (1) bekezdés a) és b) pontja szerinti adatokat akkor kell törölni a nyilvántartásból, amikor az Szt. 23. §-a szerint minden olyan ellátás Nyilvántartásból való törlésére sor került, amelyre való jogosultság vizsgálatánál a személyt figyelembe vették. A törlést az utolsóként törölt ellátással összefüggő adatok törlésével egyidejűleg kell elvégezni.

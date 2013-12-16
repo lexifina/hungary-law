@@ -2,8 +2,6 @@
 
 (2) Az (1) bekezdésben meghatározott határidőn túl akkor lehet adatot rögzíteni, ha az adatszolgáltatásra jogosult személy számára a Nyilvántartás – a Hivatal informatikai rendszerében, az elektronikus hírközlési szolgáltatónál vagy a hatóság informatikai eszközében fellépő üzemzavar miatt – az adatrögzítési határidőn belül munkaidőben legalább két egymást követő munkanapon keresztül nem volt elérhető.
 
-(3)[^1]
+(3) Ha az Szt. 18/B. § (1) bekezdése szerinti ellátás megállapítása során figyelembe vett személy Társadalombiztosítási Azonosító Jellel nem rendelkezik vagy a Társadalombiztosítási Azonosító Jele nem ismert, a Nyilvántartás a részére – a Társadalombiztosítási Azonosító Jele rögzítéséig – ideiglenes azonosítót képez.
 
 (4) Ha a Nyilvántartásban rögzített adat akként változik meg, hogy azzal összefüggésben hatósági döntéshozatalra nem kerül sor, az adatot az adatszolgáltatásra jogosult személy legkésőbb az adatváltozásról való tudomásszerzést követő munkanapon módosítja.
-
-[^1]: Az 5. § (3) bekezdése a 7. § (2) bekezdése alapján 2013. december 16-án lép hatályba.
