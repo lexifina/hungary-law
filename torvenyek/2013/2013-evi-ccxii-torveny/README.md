@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2013-12-14 | 2013. évi CCXII. törvény | 2013-212-00-00.0 (közlönyállapot) |
 | 2013-12-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-212-00-00.1 |
 | 2013-12-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-212-00-00.2 |
+| 2013-12-16 | 2010. évi CXXX. törvény | 2013-212-00-00.3 |

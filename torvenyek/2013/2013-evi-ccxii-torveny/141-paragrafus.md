@@ -10,6 +10,4 @@
 
 (3)–(4)
 
-(5) A Hetv. 120. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A 11. § (4) bekezdése és a 23. § (2) bekezdése 2015. január 1-jén lép hatályba.”
+(5)
