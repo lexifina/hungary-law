@@ -6,7 +6,7 @@
 
 ## Felelős: elszámolásért és a visszafizetési kötelezettség teljesítéséért: nemzeti fejlesztési miniszter
 
-## Határidő: 2013. december 15.[^1]
+## Határidő: 2014. február 28.[^2]
 
 1. melléklet az 1042/2013. (II. 1.) Korm. határozathoz
 
@@ -98,4 +98,4 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A Korm. határozat az 1412/2013. (VII. 3.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A Korm. határozat az 1412/2013. (VII. 3.) Korm. határozat 3. pontja, az 1968/2013. (XII. 17.) Korm. határozat 19. pontja szerint módosított szöveg.
