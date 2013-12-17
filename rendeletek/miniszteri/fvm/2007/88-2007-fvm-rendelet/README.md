@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-88-20-8
 | 2013-01-01 | 2007-88-20-82.10 | 11/2010. (VIII. 30.) VM rendelet |
 | 2013-03-22 | 2007-88-20-82.11 | 37/2012. (IV. 16.) VM rendelet |
 | 2013-04-30 | 2007-88-20-82.12 | 30/2013. (IV. 30.) VM rendelet |
+| 2013-12-17 | 2007-88-20-82.13 | 121/2013. (XII. 16.) VM rendelet |
