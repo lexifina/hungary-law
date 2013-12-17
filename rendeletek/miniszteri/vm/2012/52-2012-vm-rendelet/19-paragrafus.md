@@ -1,3 +1,4 @@
-19. §[^16]
+## 18. §[^19] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 14. § (3) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^20] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^16]: A 18–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 121/2013. (XII. 16.) VM rendelet 24. § (4) bekezdése iktatta be.
+[^20]: A hatálybalépés időpontja 2013. december 17.

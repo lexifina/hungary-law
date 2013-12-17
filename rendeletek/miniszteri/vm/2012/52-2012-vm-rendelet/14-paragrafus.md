@@ -1,6 +1,6 @@
 ## 7. A kifizetési kérelem benyújtása
 
-14. § (1)[^8]
+14. § (1)[^12]
 
 (2) Az utolsó kifizetési kérelemhez mellékelni kell
 
@@ -12,12 +12,12 @@ c) a 2. § (1) bekezdés d) pont db) alpontjában meghatározott fejlesztések e
 
 d) a 8. § (2) bekezdés f) pontjában meghatározott szervezeti tagság igazolását.
 
-(3)[^9]
+(3)[^13] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
 
-(4)[^10] A Vhr. 16/B § (1) bekezdésétől eltérően 2013. évben a kifizetési kérelmet a 9. § (14) bekezdésében foglalt rendelkezés sérelme nélkül február 1. és június 30., valamint
+(4)[^14] A Vhr. 16/B § (1) bekezdésétől eltérően 2013. évben a kifizetési kérelmet a 9. § (14) bekezdésében foglalt rendelkezés sérelme nélkül február 1. és június 30., valamint
 
 augusztus 1. és december 31. között lehet benyújtani.
 
-[^8]: A 14. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
-[^9]: A 14. § (3) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
-[^10]: A 14. § (4) bekezdését a 30/2013. (IV. 30.) VM rendelet 12. § (1) bekezdése iktatta be.
+[^12]: A 14. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
+[^13]: A 14. § (3) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 24. § (3) bekezdése iktatta be.
+[^14]: A 14. § (4) bekezdését a 30/2013. (IV. 30.) VM rendelet 12. § (1) bekezdése iktatta be.

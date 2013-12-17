@@ -30,7 +30,7 @@ g) az árajánlat kiállításának dátumát.
 
 (9) Az ajánlattevőnek csak az adóhatósághoz bejelentett tevékenysége tekintetében adott árajánlata fogadható el.
 
-(10)[^3] Amennyiben az árajánlat a (4)–(9) bekezdésben meghatározott formai és tartalmi követelményeknek nem felel meg, az elszámolni kívánt árajánlatos tételek vonatkozásában az ügyfél támogatásra nem jogosult.
+(10)[^5] Amennyiben az árajánlat a (4)–(9) bekezdésben meghatározott formai és tartalmi követelményeknek nem felel meg, az elszámolni kívánt árajánlatos tételek vonatkozásában az ügyfél támogatásra nem jogosult.
 
 (11) Ha az ügyfél a 8. § (2) bekezdés a) pontjában meghatározott szolgáltatások közül valamelyiket együttműködés keretében kívánja nyújtani, vagy az 1. melléklet 2. szakmai szempontjában meghatározott együttműködési megállapodást kíván benyújtani, abban az esetben támogatásra csak olyan együttműködési megállapodás támogatási kérelemhez történő, eredeti példányban való benyújtása esetén jogosult pontszámra, amely tartalmazza
 
@@ -58,4 +58,4 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (17) Induló vállalkozás, egyéni vállalkozóként kérelmező és természetes személy ügyfél vonatkozásban a Vhr. 7. § (1) bekezdés c) pontja szerinti nehéz helyzetben lévőségre vonatkozó szabályokat nem kell alkalmazni.
 
-[^3]: A 9. § (10) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^5]: A 9. § (10) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.

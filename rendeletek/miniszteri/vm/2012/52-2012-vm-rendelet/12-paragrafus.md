@@ -12,6 +12,6 @@ d) az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevéke
 
 keretében benyújtott támogatási határozatához kapcsolt utolsó kifizetési kérelmével elszámolt, az ahhoz kapcsolódó határozata jogerőre emelkedett, a beruházást lezárta.
 
-(3)[^5] El kell utasítani a támogatási kérelmet, ha az ügyfél a (2) bekezdés szerinti rendeletekhez kapcsolódóan benyújtott támogatási kérelme vonatkozásában nem rendelkezik jogerős határozattal, vagy akinek benyújtott támogatási vagy kifizetési kérelme alapján hozott döntések vonatkozásában bírósági eljárása van folyamatban.
+(3)[^9] El kell utasítani a támogatási kérelmet, ha az ügyfél a (2) bekezdés szerinti rendeletekhez kapcsolódóan benyújtott támogatási kérelme vonatkozásában nem rendelkezik jogerős határozattal, vagy akinek benyújtott támogatási vagy kifizetési kérelme alapján hozott döntések vonatkozásában bírósági eljárása van folyamatban.
 
-[^5]: A 12. § (3) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^9]: A 12. § (3) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (4) bekezdésével megállapított szöveg.
