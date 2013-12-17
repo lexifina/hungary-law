@@ -2,11 +2,11 @@
 
 ## 7. A kifizetési kérelem benyújtása
 
-11. § (1)[^13] A kifizetési kérelmet a Vhr. 16/B. § (3) bekezdése szerinti elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. Az elektronikus űrlapkitöltő szolgáltatás használata esetén a kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
+11. § (1)[^16] A kifizetési kérelmet a Vhr. 16/B. § (3) bekezdése szerinti elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. Az elektronikus űrlapkitöltő szolgáltatás használata esetén a kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
 
 (2) A kifizetési kérelem benyújtására és módosítására a Vhr. 16/B. § (2)–(3) bekezdését kell alkalmazni.
 
-(3)[^14] E rendelet szerinti intézkedés vonatkozásában a Vhr. 17. § (2) bekezdése és 24. § (1) bekezdése nem alkalmazandó.
+(3)[^17] E rendelet szerinti intézkedés vonatkozásában a Vhr. 17. § (2) bekezdése és 24. § (1) bekezdése nem alkalmazandó.
 
 (4) Természetes személy ügyfél esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát.
 
@@ -14,5 +14,5 @@
 
 (6) Az utolsó kifizetési kérelemhez mellékelni kell a koordináló szervezet szakmai beszámolóját.
 
-[^13]: A 11. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^14]: A 11. § (3) bekezdése a 93/2013. (X. 10.) VM rendelet 12. §-ával megállapított szöveg.
+[^16]: A 11. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^17]: A 11. § (3) bekezdése a 93/2013. (X. 10.) VM rendelet 12. §-ával megállapított szöveg.

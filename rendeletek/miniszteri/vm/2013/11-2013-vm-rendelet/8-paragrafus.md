@@ -12,6 +12,8 @@
 
 (6) Az együttműködési projekt kötelezettség vállalásával érintett részének átruházása csak a kötelezettségek átvállalásával lehetséges. Az átvállalásra a jogerős támogatási határozat közlésétől, az utolsó kifizetési határozat közlésétől számított 5 évig fennálló kötelezettségek teljesítésének időtartama alatt kerülhet sor. Az átvállalással az átadó mentesül a kötelezettségek alól. A kötelezettség átvállalásához az MVH előzetes jóváhagyása szükséges. Az erre irányuló kérelmet az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani. A kötelezettség átvállalása abban az esetben hagyható jóvá, ha az átvevő megfelel a támogatásra való jogosultsági feltételeknek.
 
-(7) Az együttműködési projekt megvalósítása a támogatási kérelem befogadását követően saját felelősségre elkezdhető.
+(7)[^13] Az együttműködési projekt megvalósítása a támogatási kérelem benyújtását követően saját felelősségre elkezdhető.
 
 (8) A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
+
+[^13]: A 8. § (7) bekezdése a 121/2013. (XII. 16.) VM rendelet 30. § (2) bekezdésével megállapított szöveg.
