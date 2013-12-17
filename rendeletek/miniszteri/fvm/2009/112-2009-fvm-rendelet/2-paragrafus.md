@@ -18,7 +18,7 @@ f) kisléptékű infrastruktúra-fejlesztés: e rendelet 2. számú mellékleté
 
 g)[^2] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
-h)[^3] egyházi és belső egyházi jogi személy: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 7. §-a szerinti jogi személy;
+h)[^3]
 
 i)[^4] működési kiadások elszámolási időszaka: egy naptári évben legfeljebb négy alkalommal megnyíló, a 11. § (1) bekezdésében meghatározott azon kifizetési kérelem benyújtási időszakok közötti időszak, melyben az ügyfél működési kiadást számol el a 3. § (1) bekezdés a)–c) pontja szerinti fejlesztés utolsó kifizetési kérelmének benyújtási időpontját követően az üzemeltetési kötelezettség ideje alatt;
 
@@ -48,7 +48,7 @@ t)[^12] teljesítésigazolás: a NAKVI által kiállított, a szakmai beszámol�
 
 [^1]: A 2. § (1) bekezdés a) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés g) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés h) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés h) pontját a 121/2013. (XII. 16.) VM rendelet 10. § (4) bekezdése hatályon kívül helyezte.
 [^4]: A 2. § (1) bekezdés i) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés j) pontja a 84/2012. (VIII. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés n) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.

@@ -66,7 +66,7 @@ d)[^33] az (1) bekezdés a) pontja szerinti szolgáltatás nyújtásához kapcso
 
 e)[^34] az (1) bekezdés b) pontja szerinti szolgáltatás nyújtásához kapcsolódóan az IKSZT megvalósulási helyszín valamely helyiségét a működés megkezdését követően legkésőbb a harmadik hónaptól kezdődően az ügyféltől eltérő helyi civil szervezetek, illetve nem formális közösségek számára térítésmentesen rendelkezésre bocsátani, amelyet az ügyfél az adott szervezettel kötött megállapodással köteles igazolni;
 
-f)[^35] az (1) bekezdés c) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább hat alkalommal, a tanórán kívül, az iskolai felzárkózást segítő, a középiskolai tanulmányokra felkészítő tankört, vagy a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény vonatkozó rendelkezései alapján elismert egyház által hit- és erkölcstanítást tartani;
+f)[^35] az (1) bekezdés c) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább hat alkalommal, a tanórán kívül, az iskolai felzárkózást segítő, a középiskolai tanulmányokra felkészítő tankört, vagy a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény vonatkozó rendelkezései alapján bevett egyház által hit- és erkölcstanítást tartani;
 
 g)[^36] az (1) bekezdés d) pontja szerinti szolgáltatás nyújtásához kapcsolódóan szakmai beszámolási időszakonként legalább hat alkalommal a 0–5 éves korosztályú gyerekek foglalkoztatását, óvodai felkészítését célzó nappali, fejlesztő programot megvalósítani;
 
@@ -156,7 +156,7 @@ f) a foglalkoztatottak aláírásával igazolt, a munkavégzés idejét tartalma
 [^32]: A 8. § (1a) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdése iktatta be.
 [^33]: A 8. § (2) bekezdés d) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^34]: A 8. § (2) bekezdés e) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^35]: A 8. § (2) bekezdés f) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^35]: A 8. § (2) bekezdés f) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított, a 121/2013. (XII. 16.) VM rendelet 10. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^36]: A 8. § (2) bekezdés g) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^37]: A 8. § (2) bekezdés h) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^38]: A 8. § (2) bekezdés j) pontja a 84/2012. (VIII. 2.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
