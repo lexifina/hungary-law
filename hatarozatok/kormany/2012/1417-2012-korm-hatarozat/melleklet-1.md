@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. december 31.[^1]
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2014. június 30.[^1]
 
 1. melléklet az 1417/2012. (X. 1.) Korm. határozathoz
 
@@ -76,4 +76,4 @@ Költségvetési év: 2012.
 
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1119/2013. (III. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A határozat az 1968/2013. (XII. 17.) Korm. határozat 13. pontja szerint módosított szöveg.
