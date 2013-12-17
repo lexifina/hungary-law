@@ -1,6 +1,6 @@
-## 10/A. §[^7] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes vidékfejlesztési és egyéb agrártárgyú rendeletek módosításáról szóló 47/2013. (VI. 7.) VM rendelettel [a továbbiakban: módosító rendelet] megállapított 3. § (1a) bekezdését a módosító rendelet hatálybalépésekor[^8] folyamatban lévő ügyekben is alkalmazni kell.
+## 10/B. §[^11] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 8. § (1) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^12] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 10. Az Európai Unió jogának való megfelelés
 
-[^7]: A 10/A. §-t a 47/2013. (VI. 7.) VM rendelet 8. § (4) bekezdése iktatta be.
-[^8]: A hatálybalépés időpontja 2013. június 8.
+[^11]: A 10/B. §-t a 121/2013. (XII. 16.) VM rendelet 28. § (3) bekezdése iktatta be.
+[^12]: A hatálybalépés időpontja 2013. december 17.

@@ -1,6 +1,6 @@
 ## 7. A kifizetési kérelem benyújtása
 
-8. § (1)[^6]
+8. § (1)[^8] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
 
 (2) A kifizetési kérelemnek a következőket kell tartalmaznia:
 
@@ -22,4 +22,4 @@ h) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudom
 
 (3) A 4. célterület esetében az utolsó kifizetési kérelem benyújtásának feltétele, hogy az önkormányzat kihirdesse az építészeti örökség helyi védelmének szakmai szabályairól szóló 66/1999. (VIII. 13.) FVM rendelet szerinti önkormányzati rendeletet.
 
-[^6]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés q) pontja hatályon kívül helyezte.
+[^8]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés q) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 28. § (2) bekezdése iktatta be.
