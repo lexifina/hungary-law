@@ -14,9 +14,9 @@
 
 6. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízi létesítmény;
 
-7. egyház: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti egyház és belső egyházi jogi személy (a továbbiakban együtt: egyház);
+7.[^1]
 
-8.[^1] építmény: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 8. pontja szerint meghatározott fogalom;
+8.[^2] építmény: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 8. pontja szerint meghatározott fogalom;
 
 9. épület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 10. pontja szerint meghatározott fogalom;
 
@@ -46,7 +46,7 @@
 
 22. LEADER HACS illetékességi területe: a LEADER HACS előzetes elismeréséről vagy a LEADER HACS elismeréséről szóló határozatában meghatározott terület, amelynek vonatkozásában a LEADER HACS Helyi Vidékfejlesztési Stratégiát (a továbbiakban: HVS) fogalmaz meg;
 
-23.[^2] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
+23.[^3] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
 24. országos védelem alatt álló építmény: a kulturális örökség védelméről szóló törvény szerint meghatározott műemlék, továbbá műemléki jelentőségű területen, műemléki környezetben, történeti táj területén álló építmény;
 
@@ -54,10 +54,11 @@
 
 26. zöldterület: az OTÉK 1. számú melléklet 113. pontja szerint telek zöldfelületeként meghatározott fogalom;
 
-27.[^3] ügyfél: az 5. vagy 6. melléklet szerinti településen működő települési önkormányzat, települési nemzetiségi önkormányzat, önkormányzati társulás, amelynek a fejlesztéssel érintett település a tagja, továbbá székhellyel vagy telephellyel rendelkező nonprofit szervezet, valamint egyház, aki beruházást valósít meg az 5. melléklet szerinti településen, vagy a 6. melléklet szerinti település külterületén;
+27.[^4] ügyfél: az 5. vagy 6. melléklet szerinti településen működő települési önkormányzat, települési nemzetiségi önkormányzat, önkormányzati társulás, amelynek a fejlesztéssel érintett település a tagja, továbbá székhellyel vagy telephellyel rendelkező nonprofit szervezet, valamint egyházi jogi személy, aki beruházást valósít meg az 5. melléklet szerinti településen, vagy a 6. melléklet szerinti település külterületén;
 
 28. szilárd burkolatú út: a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 1. számú melléklet 1. cím t) pontja alapján olyan út, amelynek úttestje szabályosan lerakott kő vagy műkő, vagy beton, vagy aszfalt burkolattal rendelkezik.
 
-[^1]: Az 1. § 8. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 23. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^3]: Az 1. § 27. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^1]: Az 1. § 7. pontját a 121/2013. (XII. 16.) VM rendelet 27. § (5) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. § 8. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 23. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^4]: Az 1. § 27. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés c) pontja, a 121/2013. (XII. 16.) VM rendelet 27. § (4) bekezdése szerint módosított szöveg.
