@@ -16,7 +16,7 @@
 
 ## 1.4. regisztráló személy aláírása
 
-## 1.5.[^9] regisztráló személy hozzájárulása az adatainak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti kezeléséhez
+## 1.5.[^10] regisztráló személy hozzájárulása az adatainak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti kezeléséhez
 
 ## 2. A Magyar Nemzeti Vidéki Hálózatba történő regisztrációhoz a 4. § (1) bekezdés h)–i) és k)–m) pontjában meghatározott szervezetek részére
 
@@ -42,7 +42,7 @@
 
 ## 2.4. képviselő cégszerű aláírása
 
-## 2.5.[^10] a szervezetet regisztráló személy hozzájárulása a szervezet adatainak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti kezeléséhez
+## 2.5.[^11] a szervezetet regisztráló személy hozzájárulása a szervezet adatainak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti kezeléséhez
 
 2. melléklet a 36/2010. (XI. 30.) VM rendelethez
 
@@ -64,5 +64,5 @@ Az e rendelet szerinti regisztráció törléséről szóló nyilatkozat kötele
 
 2.3. képviselő cégszerű aláírása
 
-[^9]: Az 1. melléklet 1. pont 1.5. alpontja a 106/2012. (X. 11.) VM rendelet 11. § e) pontja szerint módosított szöveg.
-[^10]: Az 1. melléklet 2. pont 2.5. alpontja a 106/2012. (X. 11.) VM rendelet 11. § e) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 1. pont 1.5. alpontja a 106/2012. (X. 11.) VM rendelet 11. § e) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 2. pont 2.5. alpontja a 106/2012. (X. 11.) VM rendelet 11. § e) pontja szerint módosított szöveg.
