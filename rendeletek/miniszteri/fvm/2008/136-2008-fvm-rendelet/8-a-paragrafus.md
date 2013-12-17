@@ -4,4 +4,7 @@
 
 (3) Amennyiben az ügyfél az (1) bekezdésben foglaltaknak nem tesz eleget, úgy a Vhr. 35. § (9) bekezdésében foglaltakat kell alkalmazni.
 
+(4)[^32] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
+
 [^31]: A 8/A. §-t a 76/2012. (VII. 27.) VM rendelet 11. §-a iktatta be.
+[^32]: A 8/A. § (4) bekezdését a 121/2013. (XII. 16.) VM rendelet 6. § (1) bekezdése iktatta be.

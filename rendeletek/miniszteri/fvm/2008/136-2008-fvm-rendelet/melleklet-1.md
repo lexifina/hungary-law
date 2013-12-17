@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 54. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. számú melléklet a 136/2008. (X. 18.) FVM rendelethez[^38]
+1. számú melléklet a 136/2008. (X. 18.) FVM rendelethez[^41]
 
 Értékelési szempontok
 
@@ -4566,4 +4566,4 @@
 
 1.31 Felső-Homokhátság Vidékfejlesztési Egyesület területén alkalmazandó pontozás
 
-[^38]: Az 1. számú melléklet a 158/2009. (XI. 19.) FVM rendelet 8. § (1) bekezdésével megállapított, a 167/2009. (XII. 15.) FVM rendelet 6. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 16-át követően indult ügyekben kell alkalmazni.
+[^41]: Az 1. számú melléklet a 158/2009. (XI. 19.) FVM rendelet 8. § (1) bekezdésével megállapított, a 167/2009. (XII. 15.) FVM rendelet 6. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 16-át követően indult ügyekben kell alkalmazni.
