@@ -54,7 +54,7 @@ f)[^27] a Baromfi Termék Tanács javaslatával és ellenjegyzésével ellátott
 
 (9)[^32] Az MVH a támogatási évet követő évben, a szükséges forrás rendelkezésre állását követően intézkedik a támogatás kifizetéséről. A támogatás átutalása a kérelmezőnek az MVH Egységes Ügyfél-nyilvántartási Rendszerében szereplő fizetési számlájára történik.
 
-(10)[^33] A (9) bekezdéstől eltérően a 2013. év I. és II. negyedévére vonatkozó jogos igények kifizetésére a 2013. évben kerül sor.
+(10)[^33] A (9) bekezdéstől eltérően a 2013. év I. és II. és III. negyedévére vonatkozó jogos igények kifizetésére a 2013. évben kerül sor.
 
 (11)[^34] Az ügyfél kérelmére történő eljárás felfüggesztésének helye nincs.
 
@@ -74,5 +74,5 @@ f)[^27] a Baromfi Termék Tanács javaslatával és ellenjegyzésével ellátott
 [^30]: A 2. § (7a) bekezdését a 111/2012. (X. 29.) VM rendelet 2. § (1) bekezdése iktatta be, szövege a 75/2013. (IX. 6.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^31]: A 2. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
 [^32]: A 2. § (9) bekezdését az 57/2009. (IV. 29.) FVM rendelet 2. §-a iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 10. §-ával megállapított szöveg.
-[^33]: A 2. § (10) bekezdését újonnan a 111/2012. (X. 29.) VM rendelet 2. § (2) bekezdése iktatta be, szövege a 75/2013. (IX. 6.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^33]: A 2. § (10) bekezdését újonnan a 111/2012. (X. 29.) VM rendelet 2. § (2) bekezdése iktatta be, szövege a 121/2013. (XII. 16.) VM rendelet 3. §-ával megállapított szöveg.
 [^34]: A 2. § (11) bekezdését a 19/2010. (III. 11.) FVM rendelet 4. § (8) bekezdése iktatta be. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
