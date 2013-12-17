@@ -1,4 +1,4 @@
-8. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^71]
+8. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^72]
 
 ## Az integrált növényvédelem általános elvei
 
@@ -28,4 +28,4 @@
 
 8. Az adott évi növényvédelmi technológia, illetve a szükséges növényvédelmi intézkedések megtervezése során figyelembe kell venni az előző évi növényvédelmi intézkedések hatékonyságával kapcsolatos tapasztalatokat.
 
-[^71]: A 8. mellékletet a 46/2012. (V. 8.) VM rendelet 5. §-a iktatta be.
+[^72]: A 8. mellékletet a 46/2012. (V. 8.) VM rendelet 5. §-a iktatta be.
