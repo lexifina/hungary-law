@@ -4,7 +4,7 @@
 
 ## Határidő: átcsoportosításra: azonnal
 
-## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2013. december 31.
+## elszámolásra és a visszafizetési kötelezettség teljesítésére: 2014. június 30.
 
 ## 2. felhívja a nemzeti fejlesztési minisztert hogy vizsgálja meg a projektek Regionális Operatív Programok forrásainak terhére történő finanszírozásának és a támogatás uniós forrásba történő utólagos beforgatásának lehetőségét az uniós finanszírozási lehetőségek ismeretében tegye meg a szükséges intézkedéseket és a vizsgálat eredményéről készítsen jelentést a Kormány részére.
 
@@ -90,4 +90,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1454/2012. (X. 17.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1968/2013. (XII. 17.) Korm. határozat 9. pontja szerint módosított szöveg.
