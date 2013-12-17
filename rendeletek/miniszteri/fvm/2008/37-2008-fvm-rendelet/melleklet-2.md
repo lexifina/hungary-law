@@ -26,6 +26,8 @@
 
 | Hollandia Nederland | Getuigschrift van met goed gevolg afgelegd diergeneeskundig/ veeartse-nijkundig examen |  |  | 1980. december 21. |
 
+| Horvátország Hrvatska | Diploma „doktor veterinarske medicine/doktorica veterinarske medicine | Veterinarski fakultet Sveučilišta u Zagrebu |  | 2013. július 1. |
+
 | Írország Ireland | - Diploma of Bachelor in/of Veterinary Medicine (MVB) - Diploma of Membership of the Royal College of Veterinary Surgeons (MRCVS) |  |  | 1980. december 21. |
 
 | Lengyelország Polska | Dyplom lekarza weterynarii | 1. Szkoła Główna Gospodarstwa Wiejskiego w Warszawie 2. Akademia Rolnicza we Wrocławiu 3. Akademia Rolnicza w Lublinie 4. Uniwersytet Warmińsko- Mazurski w Olsztynie |  | 2004. május 1. |
@@ -44,7 +46,7 @@
 
 | Portugália Portugal | Carta de curso de licenciatura em medicina veterinária | Universidade |  | 1986. január 1. |
 
-| Románia România | Diplomă de licență de doctor medic veterinar | Universități |  | 2007. január 1. |
+| Románia România | Diplomă de licenţă de doctor medic veterinar | Universităţi |  | 2007. január 1. |
 
 | Spanyolország España | Título de Licenciado en Veterinaria | - Ministerio de Educación y Cultura - El rector de una universidad |  | 1986. január 1. |
 
