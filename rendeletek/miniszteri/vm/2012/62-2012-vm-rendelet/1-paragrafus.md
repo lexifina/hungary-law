@@ -6,7 +6,7 @@
 
 2. civil szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény alapján létrejött szervezet;
 
-3. egyház: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény mellékletében felsorolt magyarországi egyházak, vallásfelekezetek és vallási közösségek;
+3.[^1]
 
 4. fejlesztés: a beruházás és a felújítás, valamint immateriális javak beszerzése;
 
@@ -67,3 +67,5 @@
 32. térségi tanyafejlesztési program: tanyás térségekben a tanyás külterületek átfogó fejlesztésére, a tanyai gazdálkodás feltételeinek és a tanyai életkörülmények javítására irányuló, tanyafelmérést, külterületi fejlesztési tervezést magában foglaló kistérségi fejlesztési program;
 
 33. többcélú kistérségi társulás: a települési önkormányzatok többcélú kistérségi társulásáról szóló törvény alapján létrejött önkormányzati társulás.
+
+[^1]: Az 1. § 3. pontját a 121/2013. (XII. 16.) VM rendelet 25. § (2) bekezdése hatályon kívül helyezte.
