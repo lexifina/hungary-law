@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-160-20-
 | 2012-12-13 | 2009-160-20-82.8 | 126/2012. (XII. 12.) VM rendelet |
 | 2013-02-01 | 2009-160-20-82.9 | 137/2012. (XII. 22.) VM rendelet |
 | 2013-11-27 | 2009-160-20-82.10 | 106/2013. (XI. 26.) VM rendelet |
+| 2013-12-17 | 2009-160-20-82.11 | 121/2013. (XII. 16.) VM rendelet |
