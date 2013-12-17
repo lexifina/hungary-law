@@ -10,7 +10,7 @@ c) a 2. § (3) bekezdés c) pontjában meghatározott célra irányuló fejleszt
 
 d) a 2. § (3) bekezdés d) pontjában meghatározott célra irányuló fejlesztés esetén a tanyás települések önkormányzatai, önkormányzati konzorciumai és tanyás térségek helyi önkormányzati társulásai,
 
-e) a 2. § (3) bekezdés e) pont ea), valamint ec) alpontjában meghatározott célra irányuló fejlesztés esetén a tanyás települések önkormányzatai és tanyás települések helyi önkormányzati társulásai, egyházak, tanyás térségekben működő önálló jogi személyiséggel rendelkező egyházi szervek, tanyás térségekben működő civil szervezetek,
+e)[^2] a 2. § (3) bekezdés e) pont ea), valamint ec) alpontjában meghatározott célra irányuló fejlesztés esetén a tanyás települések önkormányzatai és tanyás települések helyi önkormányzati társulásai, tanyás térségekben működő egyházi jogi személyek, tanyás térségekben működő civil szervezetek,
 
 f) a 2. § (3) bekezdés e) pont eb) alpontjában meghatározott célra irányuló fejlesztés esetén a tanyás térségekben működő tanyagondnoki feladatokat ellátó civil szervezetek,
 
@@ -37,3 +37,5 @@ a) e rendelet hatálybalépését megelőző időponttól kezdve életvitelszer�
 b) az ingatlan-nyilvántartásban feltüntetett tanyai lakóépület villamosenergia-ellátással nem rendelkezik.
 
 (5) A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
+
+[^2]: A 3. § (1) bekezdés e) pontja a 121/2013. (XII. 16.) VM rendelet 32. § (1) bekezdésével megállapított szöveg.

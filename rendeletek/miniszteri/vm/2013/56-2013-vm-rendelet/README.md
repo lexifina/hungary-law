@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-56-20-2
 | --- | --- | --- |
 | 2013-06-30 | 2013-56-20-2Y.1 | 56/2013. (VI. 29.) VM rendelet |
 | 2013-12-11 | 2013-56-20-2Y.2 | 113/2013. (XII. 10.) VM rendelet |
+| 2013-12-17 | 2013-56-20-2Y.3 | 121/2013. (XII. 16.) VM rendelet |

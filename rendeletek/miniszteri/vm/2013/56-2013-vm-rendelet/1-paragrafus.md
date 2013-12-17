@@ -6,7 +6,7 @@
 
 2. civil szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 2. § 6. pontja szerinti civil szervezet;
 
-3. egyház: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény mellékletében felsorolt magyarországi egyházak, vallásfelekezetek és vallási közösségek;
+3.[^1]
 
 4. fejlesztés: a beruházás és a felújítás, valamint immateriális javak beszerzése;
 
@@ -69,3 +69,5 @@
 33. társadalmi, gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott település: a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendeletben meghatározott település;
 
 34. védett őshonos és veszélyeztetett mezőgazdasági állatfajta: a védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet 1. és 2. számú mellékletében szereplő mezőgazdasági állatfajták.
+
+[^1]: Az 1. § 3. pontját a 121/2013. (XII. 16.) VM rendelet 32. § (2) bekezdése hatályon kívül helyezte.
