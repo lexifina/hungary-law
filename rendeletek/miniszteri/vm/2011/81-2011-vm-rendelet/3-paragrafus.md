@@ -10,7 +10,7 @@ c) a 2. § (3) bekezdés c) pontjában meghatározott célra irányuló fejleszt
 
 d) a 2. § (3) bekezdés d) pontjában meghatározott célra irányuló fejlesztés esetén az 1. mellékletben szereplő tanyás települések önkormányzatai, önkormányzati konzorciumai, valamint többcélú kistérségi társulásai,
 
-e) a 2. § (3) bekezdés e) pont ea) alpontjában meghatározott célra irányuló fejlesztés esetén az 1. mellékletben szereplő tanyás települések önkormányzatai és többcélú kistérségi társulásai, egyházak, támogatásra jogosult társadalmi szervezetek,
+e)[^2] a 2. § (3) bekezdés e) pont ea) alpontjában meghatározott célra irányuló fejlesztés esetén az 1. mellékletben szereplő tanyás települések önkormányzatai és többcélú kistérségi társulásai, egyházi jogi személyek, támogatásra jogosult társadalmi szervezetek,
 
 f) a 2. § (3) bekezdés e) pont eb) alpontjában meghatározott célra irányuló fejlesztés esetén a tanyás térségekben működő tanyagondnoki feladatokat ellátó támogatásra jogosult társadalmi szervezetek,
 
@@ -25,3 +25,5 @@ b) a tanyagazdaságban mezőgazdasági tevékenységet folytat, és
 c) az összes bevételének legalább 50%-a mezőgazdasági tevékenységből származik és 2010-ben a mezőgazdasági tevékenységből származó bevétele nem haladta meg a nettó öt millió forintot.
 
 (3) A támogatás igénybevételének előfeltétele, hogy a pályázó a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben „támogatást igénylő pénzügyi kapcsolattal” típusú besorolással és bejelentett érvényes pénzforgalmi számlaszámmal rendelkezzen.
+
+[^2]: A 3. § (1) bekezdés e) pontja a 121/2013. (XII. 16.) VM rendelet 20. §-ával megállapított szöveg.
