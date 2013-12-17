@@ -1,0 +1,1 @@
+A Kormány a további intézkedésig fel nem használható, 2012. évi kötelezettségvállalással nem terhelt, valamint kötelezettségvállalással terhelt, de meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt előirányzat-maradványokból az 1. melléklet szerinti összegeknek
