@@ -22,7 +22,7 @@ d) a francia nyelvű 8. melléklet szerinti együttműködési megállapodást.
 
 a) nonprofit szervezet,
 
-b)[^16] egyházi jogi személy,
+b)[^20] egyházi jogi személy,
 
 c) települési önkormányzat,
 
@@ -32,7 +32,7 @@ e) önálló jogi személyiséggel rendelkező önkormányzati társulás, vagy
 
 f) költségvetési szerv.
 
-(7) Az együttműködési projekt megvalósítása a támogatási kérelem befogadását követően saját felelősségre elkezdhető.
+(7)[^21] Az együttműködési projekt megvalósítása a támogatási kérelem benyújtását követően saját felelősségre elkezdhető.
 
 (8) Nem vehető igénybe támogatás:
 
@@ -44,7 +44,8 @@ c) a Magyar Nemzeti Vidéki Hálózat által a nemzetközi együttműködéseket
 
 d) a nemzeti és közösségi jogszabályok alapján tiltott, illetve nem támogatható célokra, tevékenységre, kiadásra.
 
-(9)[^17] A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
+(9)[^22] A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
 
-[^16]: A 8. § (6) bekezdés b) pontja a 93/2013. (X. 10.) VM rendelet 8. §-ával megállapított szöveg.
-[^17]: A 8. § (9) bekezdését a 110/2012. (X. 15.) VM rendelet 2. §-a iktatta be.
+[^20]: A 8. § (6) bekezdés b) pontja a 93/2013. (X. 10.) VM rendelet 8. §-ával megállapított szöveg.
+[^21]: A 8. § (7) bekezdése a 121/2013. (XII. 16.) VM rendelet 26. § (4) bekezdésével megállapított szöveg.
+[^22]: A 8. § (9) bekezdését a 110/2012. (X. 15.) VM rendelet 2. §-a iktatta be.

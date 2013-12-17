@@ -26,7 +26,10 @@ b) együttműködés harmadik országokkal: legalább egy ügyfél és legalább
 
 (7) A megvalósíthatósági tanulmány értékelését az IH által létrehozott Szakmai Bizottság az 1. mellékletben szereplő értékelési szempontok alapján végzi. Pozitív elbírálás esetén az IH hozzájáruló nyilatkozatot állít ki. Amennyiben a megvalósíthatósági tanulmány nem megfelelően kidolgozott, az IH átdolgozó javaslatokról szóló válaszlevelet küld.
 
+(8)[^6] Az e rendelet alapján benyújtott támogatási kérelemben megjelölt költségvetés a benyújtott megvalósíthatósági tanulmányban jóváhagyott összesen igényelt támogatás, azaz a főösszeg vonatkozásában legfeljebb 10% mértékéig térhet el. Amennyiben több mint 10% a főösszeg tekintetében az eltérés, vagy az ügyfél által vállalt tevékenységek módosulnak, abban az esetben a támogatási kérelem elutasításra kerül.
+
 [^2]: A 2. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § (2a) bekezdését a 93/2013. (X. 10.) VM rendelet 2. §-a iktatta be.
 [^5]: A 2. § (2b) bekezdését a 93/2013. (X. 10.) VM rendelet 2. §-a iktatta be.
+[^6]: A 2. § (8) bekezdését a 121/2013. (XII. 16.) VM rendelet 26. § (1) bekezdése iktatta be.

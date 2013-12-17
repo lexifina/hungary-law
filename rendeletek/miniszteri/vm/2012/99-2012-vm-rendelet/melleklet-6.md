@@ -66,6 +66,6 @@
 
 ## Aláírás:
 
-6. melléklet a 99/2012. (IX. 25.) VM rendelethez[^36]
+6. melléklet a 99/2012. (IX. 25.) VM rendelethez[^43]
 
-[^36]: A 6. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^43]: A 6. melléklet a 93/2013. (X. 10.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.

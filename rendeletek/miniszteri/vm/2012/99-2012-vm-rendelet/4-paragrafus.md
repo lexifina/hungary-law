@@ -16,4 +16,6 @@ a) a rendezvény helyszínét, időpontját, a célcsoport megjelölését, a re
 
 b) legalább 10 darab, a rendezvény főbb programjait és a rendezvényen elhelyezett arculati elemeket bemutató dátumozott fotót.
 
-(5) A Vhr. 27. § (1) bekezdés g) pontjától eltérően a rendezvényen fellépő előadóművészek díjára vonatkozóan egy árajánlat becsatolása szükséges.
+(5)[^11] A Vhr. 27. § (1) bekezdés g) pontjától eltérően a rendezvényen fellépő előadóművészek díjára, nemzetközi szervezethez való csatlakozási díjra, valamint nemzetközi szervezeti tagdíjra vonatkozóan egy árajánlat becsatolása szükséges.
+
+[^11]: A 4. § (5) bekezdése a 121/2013. (XII. 16.) VM rendelet 26. § (2) bekezdésével megállapított szöveg.

@@ -12,13 +12,13 @@ e) rendezvény előkészítése és megvalósítása,
 
 f) legjobb gyakorlatok átadása, tudástranszfer,
 
-g)[^6] marketing,
+g)[^7] marketing,
 
-h)[^7] projektmenedzsment,
+h)[^8] projektmenedzsment,
 
-i)[^8] az a)–h) pontokba nem sorolható egyéb közösen előkészített és végrehajtott tevékenységek.
+i)[^9] az a)–h) pontokba nem sorolható egyéb közösen előkészített és végrehajtott tevékenységek.
 
-(1a)[^9] E rendelet keretében a marketing és az egyéb tevékenység nem minősül a Vhr. 31. §-a szerinti egyéb elszámolható kiadásnak.
+(1a)[^10] E rendelet keretében a marketing és az egyéb tevékenység nem minősül a Vhr. 31. §-a szerinti egyéb elszámolható kiadásnak.
 
 (2) A beruházás megvalósításának, üzemeltetésének helye a magyarországi LEADER HACS-ok illetékességi területe.
 
@@ -32,7 +32,7 @@ a) kizárólag egy adott gazdasági társaság érdekeinek és termékeinek bemu
 
 b) politikai célú rendezvényre.
 
-[^6]: A 3. § (1) bekezdés g) pontja az 55/2013. (VI. 27.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (1) bekezdés h) pontja a 93/2013. (X. 10.) VM rendelet 3. §-ával megállapított szöveg.
-[^8]: A 3. § (1) bekezdés i) pontját az 55/2013. (VI. 27.) VM rendelet 1. § (1) bekezdése iktatta be.
-[^9]: A 3. § (1a) bekezdését az 55/2013. (VI. 27.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 3. § (1) bekezdés g) pontja az 55/2013. (VI. 27.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés h) pontja a 93/2013. (X. 10.) VM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdés i) pontját az 55/2013. (VI. 27.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^10]: A 3. § (1a) bekezdését az 55/2013. (VI. 27.) VM rendelet 1. § (2) bekezdése iktatta be.
