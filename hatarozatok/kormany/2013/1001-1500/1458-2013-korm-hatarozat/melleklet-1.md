@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében a Versenyszféra és a Kormány Állandó Konzultációs Fóruma többletfeladatainak ellátásához 225,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet a XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 7. A Versenyszféra és a Kormány Állandó Konzultációs Fórumával kapcsolatos kiadások jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére;
+## 1.[^2] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében a Versenyszféra és a Kormány Állandó Konzultációs Fóruma többletfeladatainak ellátásához 225,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet a XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 7. A Versenyszféra és a Kormány Állandó Konzultációs Fórumával kapcsolatos kiadások jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2013. november 15.
+## Határidő: 2014. március 31.
 
 ## 2. az Áht. 33. § (1) bekezdésében biztosított jogkörében a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben a 7. Liszt Ferenc Zeneművészeti Egyetem előtti tér felújítása cím elnevezését „Budapest Főváros VI. kerület Önkormányzata feladatainak támogatása” elnevezésre módosítja;
 
@@ -111,3 +111,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: Az 1. pont az 1968/2013. (XII. 17.) Korm. határozat 12. pontja szerint módosított szöveg.
