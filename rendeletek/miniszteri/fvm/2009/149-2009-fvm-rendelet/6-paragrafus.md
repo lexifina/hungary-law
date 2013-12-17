@@ -8,10 +8,12 @@ b) ha az ügyfél települési önkormányzat, kisebbségi önkormányzat, önko
 
 c) ha az ügyfél nonprofit szervezet, a bejegyzést igazoló okirat hiteles másolatát,
 
-d) ha az ügyfél egyházi jogi személy, a felettes egyházi szerv vagy az egyházi főhatóság által kiadott, az egyházi jogi személy minőséget tanúsító okiratról szóló igazolást,
+d)[^3] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
 e) az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatvány szerinti működtetési és fenntarthatósági tervet,
 
 f) a 4. § (2) bekezdése szerinti, teljes bizonyító erejű okiratba foglalt megállapodást,
 
 g) ha a támogatás mezőgazdasági célú csekély összegű (de minimis) támogatásnak minősül, az ügyfél által az adott pénzügyi évben, valamint az előző két pénzügyi évben igénybe vett mezőgazdasági célú csekély összegű (de minimis) támogatásról szóló nyilatkozatot.
+
+[^3]: A 6. § d) pontja a 121/2013. (XII. 16.) VM rendelet 13. § (1) bekezdésével megállapított szöveg.

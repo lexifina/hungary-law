@@ -18,7 +18,7 @@ e) közhasznú tevékenységet ellátó szociális szövetkezet,
 
 amelyet a közhasznú szervezetekről szóló 1997. évi CLVI. törvény szerint közhasznú vagy kiemelkedően közhasznú szervezetként nyilvántartásba vettek, továbbá az egyesülési jogról szóló törvény alapján létrehozott egyesület,
 
-2. egyházi jogi személy: a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény szerint nyilvántartásba vett egyház, az egyház vallásos célra létesülő önálló szervezete, az egyházak által létrehozott szövetség, továbbá – ha az egyház alapszabálya így rendelkezik – az egyház önálló képviseleti szervvel rendelkező szervezeti egysége (szervezete, intézménye, egyházközsége stb.),
+2.[^2]
 
 3. kisléptékű infrastruktúra-fejlesztés: a 3. melléklet szerinti fejlesztés,
 
@@ -57,3 +57,5 @@ amelyet a közhasznú szervezetekről szóló 1997. évi CLVI. törvény szerint
 20. vár: az ingatlan-nyilvántartásban vár megnevezéssel nyilvántartott ingatlan.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat a Nemzeti Diverzifikációs Program társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 144/2009. (XI. 6.) FVM rendelet (a továbbiakban: NDP Vhr.) 3. §-a szerint kell értelmezni.
+
+[^2]: A 2. § (1) bekezdés 2. pontját a 121/2013. (XII. 16.) VM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
