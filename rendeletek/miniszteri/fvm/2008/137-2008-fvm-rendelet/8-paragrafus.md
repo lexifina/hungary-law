@@ -1,6 +1,6 @@
 ## Kifizetési kérelem benyújtása
 
-8. § (1)[^21]
+8. § (1)[^23]
 
 (2) Az utolsó kifizetési kérelemhez csatolni kell:
 
@@ -14,7 +14,7 @@ d) a 3. § (1) bekezdés c) pont cc) alpontjában meghatározott fejlesztések e
 
 e) turisztikai szakmai szervezeti tagság igazolását.
 
-(3)[^22] Az első kifizetési kérelemhez az 5. § (10) bekezdés szerint megvalósuló fejlesztés esetében a közhasznú szervezetnek csatolnia kell a közhasznúságról szóló igazolást.
+(3)[^24] Az első kifizetési kérelemhez az 5. § (10) bekezdés szerint megvalósuló fejlesztés esetében a közhasznú szervezetnek csatolnia kell a közhasznúságról szóló igazolást.
 
-[^21]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^22]: A 8. § (3) bekezdését a 170/2008. (XII. 31.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^23]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^24]: A 8. § (3) bekezdését a 170/2008. (XII. 31.) FVM rendelet 6. §-a iktatta be. E módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,7 +1,6 @@
-## 10/A. §[^26] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 8/A. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^27] folyamatban lévő azon ügyekben kell alkalmazni, amely ügyekben a támogatási kérelmet 2009. január 12. napjáig nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^28] a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
+## 10/B. §[^32] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 8/A. § (4) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^33] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^26]: A 10/A. §-t a 76/2012. (VII. 27.) VM rendelet 14. §-a iktatta be.
-[^27]: A hatálybalépés időpontja 2012. július 28.
-[^28]: A hatálybalépés időpontja 2012. július 28.
+[^32]: A 10/B. §-t a 121/2013. (XII. 16.) VM rendelet 7. § (3) bekezdése iktatta be.
+[^33]: A hatálybalépés időpontja 2013. december 17.
