@@ -168,6 +168,6 @@
 
 ## virágos kőris (Fraxinus ornus)
 
-3. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^41]
+3. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^42]
 
-[^41]: A 3. számú melléklet a 21/2010. (III. 16.) FVM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^42]: A 3. számú melléklet a 21/2010. (III. 16.) FVM rendelet 12. § (3) bekezdésével megállapított szöveg.
