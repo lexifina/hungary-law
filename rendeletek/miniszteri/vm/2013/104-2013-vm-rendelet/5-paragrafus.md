@@ -18,7 +18,7 @@ e) az egyházi jogi személy
 
 (3) Az ügyfél lakóhelye, tartózkodási helye, székhelye, telephelye, fióktelepe szerinti LEADER HACS illetékességi területén megvalósuló fejlesztések támogathatóak. Az ügyfél kérelme vonatkozásában a beruházás csak egy LEADER HACS területén valósulhat meg.
 
-(4) A 2. § (1) bekezdés a) és b) pontjában meghatározott célterület esetén a támogatás igénybevételére kizárólag természetes személy, mikro-, kis- vagy középvállalkozás jogosult.
+(4)[^1] A 2. § (1) bekezdés a) és b) pontjában meghatározott célterület esetén a támogatás igénybevételére kizárólag természetes személy, mikro-, kis- vagy középvállalkozás, valamint nonprofit szervezet jogosult.
 
 (5) A 2. § (1) bekezdés c) pontjában meghatározott célterület esetén a támogatás igénybevételére kizárólag mikro-, kis- vagy középvállalkozás, települési önkormányzat, nemzetiségi önkormányzat, és a Mötv. 87. §-ában meghatározott önálló jogi személyiséggel rendelkező önkormányzati társulás, nonprofit szervezet és egyházi jogi személy jogosult.
 
@@ -27,3 +27,5 @@ e) az egyházi jogi személy
 (7) A 2. § (1) bekezdés d) pont dc) alpontjában meghatározott célterületre irányuló fejlesztés esetén a támogatás igénybevételére az az ügyfél jogosult, aki a fejlesztéssel érintett területen vadászatra jogosult.
 
 (8) E rendelet vonatkozásában nem alkalmazandóak a Vhr. 7. § (2) bekezdésében, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 15. § (1) bekezdés b) pontjában, 17. § (2) bekezdésében, 24. §-ában, 25. § (2) bekezdésében, 27. § (1) bekezdés e)–f) pontjaiban, 33. § (4) bekezdésében, valamint 35. § (5) bekezdésében foglalt rendelkezések.
+
+[^1]: Az 5. § (4) bekezdése a 121/2013. (XII. 16.) VM rendelet 33. § (1) bekezdésével megállapított szöveg.

@@ -3513,19 +3513,3 @@ C) Egyéni vállalkozó, mikro-, kis- vagy középvállalkozás esetében
 | 16 | Összesen legfeljebb: |  | 20 pont |
 
 IV. Az értékelési szempontok alapján mindösszesen elérhető pontszámok
-
-|  | A | B |
-
-| 1 | Pénzügyi terv összesen: | 20 pont |
-
-| 2 | Üzleti terv, működtetési és fenntarthatósági terv | max. 30+10 pont |
-
-| 3 | Az üzleti terv, működtetési és fenntarthatósági terv és a pénzügyi terv összesen legfeljebb | 60 pont |
-
-| 4 | A támogatási kérelemben elérhető maximum pontszám | 185 pont |
-
-| *Bázisév: a támogatási kérelem benyújtását megelőző lezárt, teljes gazdasági év |
-
-|  | 17. Balatongyöngye Vidékfejlesztési Egyesület |
-
-| Értékelési táblázat |
