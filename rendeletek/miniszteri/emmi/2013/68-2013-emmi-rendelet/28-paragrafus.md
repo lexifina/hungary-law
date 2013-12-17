@@ -1,4 +1,4 @@
-## 27. § Hatályát veszti az Igszr. 1. mellékletében foglalt táblázat III. pont III.8.2. alpontja.
+## 25–27. §[^17]
 
 ## 15. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 2. §, a 3. §, a 6. §, a 7. §, a 15. §, a 25–27. §, valamint az 1., a 4., a 7., a 8. és a 10. melléklet az e rendelet kihirdetését követő 31. napon lép hatályba.
 
 (3) Az 5. § és a 3. melléklet 2014. január 1-jén lép hatályba.
+
+[^17]: A 25–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
