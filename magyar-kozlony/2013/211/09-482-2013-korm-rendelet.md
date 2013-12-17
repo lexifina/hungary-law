@@ -1,0 +1,1432 @@
+# A Kormány 482/2013. (XII. 17.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 211. szám, 2013. december 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/83600220710d1a1b98b13b79ec4a5a47d336d048/dokumentumok/da0f8dead3a34bae126cec2afb41d5ee163e646d/letoltes)
+
+---
+
+A Kormány 482/2013. (XII. 17.) Korm. rendelete
+a vízügyi igazgatási, valamint a vízügyi hatósági feladatokat ellátó szervek kijelöléséről
+A Kormány
+a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (11) bekezdésében,
+a 7. alcím tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény
+174/A. § a) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) és (2) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+I. FEJEZET
+A VÍZÜGYI IGAZGATÁSI ÉS HATÓSÁGI SZERVEK
+1. Országos Vízügyi Főigazgatóság
+1. § (1) Az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) a vízügyi igazgatási szervek irányításáért felelős miniszter
+által irányított központi költségvetési szerv. Székhelye: Budapest.
+(2) Az OVF-et főigazgató vezeti, aki – a 2. § (2) és (4) bekezdésében meghatározott kivétellel – gyakorolja a munkáltatói
+jogokat az OVF foglalkoztatottjai felett.
+(3) Az OVF foglalkoztatottjai – a 2. § (4) bekezdésében meghatározott kivétellel – közalkalmazottak vagy munkavállalók.
+(4) Az OVF működési területe az ország egész területére kiterjed.
+1. § (1) Az Országos Vízügyi Hatóság (a továbbiakban: OVH) az OVF e §-ban foglaltak szerint elkülönült, jogszabályban
+meghatározott önálló feladat- és hatáskörrel rendelkező szervezeti egysége.
+(2) Az OVH vonatkozásában a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok
+jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), e) és f)–h) pontjában
+meghatározott hatásköröket a vízgazdálkodásért felelős miniszter önállóan gyakorolja. Az OVH vezetőjét
+a vízgazdálkodásért felelős miniszter nevezi ki és menti fel, és gyakorolja felette a munkáltatói jogokat.
+(3) Az OVH az OVF-től elkülönült, jogszabályban meghatározott önálló feladat- és hatáskörrel rendelkezik. Az OVH
+vezetőjét e hatáskörében a főigazgató nem utasíthatja.
+(4) Az OVH foglalkoztatottjai kormánytisztviselők. Az OVH vezetője gyakorolja a munkáltatói jogokat az OVH
+foglalkoztatottjai felett.
+(5) Az OVH illetékessége az ország egész területére kiterjed.
+2. Területi vízügyi igazgatóság
+3. § (1) A területi vízügyi igazgatóság (a továbbiakban: igazgatóság) a vízügyi igazgatási szervek irányításért felelős
+miniszter irányítása alatt álló központi költségvetési szerv.
+(2) Az igazgatóságok elnevezését, székhelyét és működési területét az 1. melléklet tartalmazza.
+(3) Az igazgatóságot az igazgató vezeti, aki – a 4. § (2) és (4) bekezdésében meghatározott kivétellel – gyakorolja
+a munkáltatói jogokat az igazgatóság foglalkoztatottjai felett.
+(4) Az igazgatóság foglalkoztatottjai – a 4. § (4) bekezdésében meghatározott kivétellel – közalkalmazottak vagy
+munkavállalók.
+4. § (1) A területi vízügyi hatóság (a továbbiakban: hatóság) az igazgatóság e §-ban foglaltak szerint elkülönült,
+jogszabályban meghatározott önálló feladat- és hatáskörrel rendelkező szervezeti egysége.
+(2) A hatóság vonatkozásában a Ksztv. 2. § (1) bekezdés c), e) és f)–h) pontjában meghatározott hatásköröket
+a vízgazdálkodásért felelős miniszter önállóan gyakorolja. A hatóság vezetőjét a vízgazdálkodásért felelős miniszter
+nevezi ki és menti fel, és gyakorolja felette a munkáltatói jogokat.
+(3) A hatóság az igazgatóságtól elkülönült, jogszabályban meghatározott önálló feladat- és hatáskörrel rendelkezik.
+A hatóság vezetőjét e hatáskörében az igazgató nem utasíthatja.
+(4) A hatóság foglalkoztatottjai kormánytisztviselők. A hatóság vezetője gyakorolja a munkáltatói jogokat a hatóság
+foglalkoztatottjai felett.
+
+(5) A hatóságok elnevezését és székhelyét a 2. melléklet tartalmazza.
+(6) A hatóság illetékessége megegyezik az igazgatóság működési területével.
+3. Vízügyi igazgatási szervek kijelölése
+5. § (1) A Kormány vízügyi igazgatási szervként
+a) az OVF-et, valamint
+b) az igazgatóságot
+jelöli ki.
+(2) Vízügyi igazgatási szervként – ha e rendelet másként nem rendelkezik – az igazgatóság jár el.
+6. §
+A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló
+program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény
+4. §-ában foglalt vízügyi igazgatási szervként
+a) a vízkárelhárítási célú szükségtározók és a nagyvízi mederben történő beavatkozások tekintetében az OVF,
+b) az a) pont hatálya alá nem tartozó esetekben az igazgatóság
+jár el.
+4. Vízügyi hatóságok és szakhatóságok kijelölése
+7. § (1) Vízügyi hatóságként és szakhatóságként – ha kormányrendelet másként nem rendelkezik – első fokon a hatóság jár
+el.
+(2) A hatóság első fokú hatósági vagy szakhatósági eljárása esetén másodfokon az OVH jár el.
+(3) Az OVH részt vesz a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény
+szerinti, a belső piaci információs rendszeren keresztül megvalósított igazgatási együttműködésben a belső
+piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat
+hatályon kívül helyezéséről szóló, 2012. október 25-i 1024/2012/EU európai parlamenti és tanácsi rendeletben és
+kormányrendeletben meghatározott szabályok szerint.
+II. FEJEZET
+A VÍZÜGYI IGAZGATÁSI FELADATOK ELLÁTÁSA
+5. Az OVF vízügyi igazgatási feladatai
+8. § (1) Az OVF alaptevékenysége körében
+a) irányítja, koordinálja és ellenőrzi a vízügyi igazgatóságok szakmai tevékenységét, és részt vesz a vízügyi
+igazgatóságok stratégiai céljainak kialakításában,
+b) ellátja az államháztartásról szóló 2011. évi CXCV. törvény 9. § (1) bekezdés f), g) és h) pontjában
+meghatározott irányítási hatásköröket, amelyekre tekintettel a vízügyi igazgatóságok ügyvezetési jellegű
+feladatai vonatkozásában teljes körű ellenőrzési joggal rendelkezik kapcsolatos feladatokat,
+c) ellátja a vizek kártételei elleni védelemmel, és ennek részeként az Országos Műszaki Irányító Törzs vezetésével
+kapcsolatos feladatokat,
+d) ellátja az igazgatóságok vízrajzi tevékenységének országos szintű irányításával, a vízrajzi tevékenység
+egységességét biztosító szakfelügyelet ellátásával, a vízrajzi tevékenység összehangolásával és fejlesztésével
+kapcsolatos feladatokat,
+e) ellátja az egységes vízügyi nyilvántartást biztosító Vízgazdálkodási Információs Rendszer (a továbbiakban:
+VIZIR) országos vonatkozású üzemeltetésével és fejlesztésével kapcsolatos feladatokat,
+f) végzi a vizek állapotértékelésével kapcsolatos feladatokat,
+g) ellátja a közműves vízellátással és szennyvízkezeléssel kapcsolatos feladatokat,
+h) végzi a vízügyi tárgyú nemzetközi kapcsolatok koordinálásával kapcsolatos feladatokat,
+i) végzi az egyes európai uniós források felhasználásával megvalósuló vízügyi projektek tervezésével, a források
+felhasználásával megvalósuló központi, pályázati, valamint kiemelt kormányzati projektek megvalósításával
+kapcsolatos feladatokat,
+
+j) ellátja az egyéb, jogszabály vagy a vízügyi igazgatási szervek irányításért felelős miniszter által
+a feladatkörébe utalt feladatokat.
+(2) Az OVF irányítja
+a) az igazgatóságok vagyonkezelésében lévő felszíni vizek, vízfolyások és csatornák, vízgazdálkodási rendszerek
+és védművek fenntartását, üzemeltetését, rekonstrukcióját és fejlesztését,
+b) az igazgatóságok fenntartásában, üzemeltetésében lévő vízfolyásokon és csatornákon az öntözési célú
+vízszolgáltatást,
+c) a felszíni és a felszín alatti vízkészletekkel való gazdálkodást,
+d) a lehetséges víznyerő területek távlati ivóvízbázissá nyilvánításával kapcsolatos igazgatósági feladatellátást,
+e) a VIZIR működtetésével kapcsolatos igazgatósági feladatellátást, gondoskodva a más információs
+rendszerekkel történő országos és nemzetközi adatcseréről, valamint adatszolgáltatásról,
+f) az európai uniós jogi szabályozók végrehajtásához kapcsolódó vízgazdálkodási vonatkozású feladatokat,
+g) a Startmunka program keretében megvalósuló vízügyi közfoglalkoztatási feladatok ellátását, valamint
+h) az Ivóvízminőség-javító Program végrehajtását.
+(3) Az OVF részt vesz
+a) az országos vízgazdálkodási stratégia és koncepció, valamint az egyéb ágazati stratégiák és koncepciók
+szakmai megalapozásában, valamint
+b) a jogszabályokhoz kapcsolódó előzetes és utólagos hatásvizsgálatok, valamint háttéranyagok elkészítésében.
+(4) Az OVF egyéb feladatkörében
+a) felügyeli a vízügyi igazgatásra vonatkozó oktatási, kutatási, múzeumi és levéltári tevékenységekkel
+kapcsolatos feladatokat,
+b) ellátja az Országos Vízgazdálkodási Tanács működésével kapcsolatos feladatokat,
+c) véleményezi a kiemelt térségre és megyére készülő területfejlesztési koncepciót és programot, valamint
+területrendezési tervet,
+d) közreműködik a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000.
+október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv végrehajtásához kapcsolódó vízgazdálkodási
+vonatkozású feladatokban,
+e) közreműködik a vízgyűjtő-gazdálkodási terv elkészítésében,
+f) előkészíti a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv által
+meghatározott jelentést,
+g) előkészíti a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Program kétévenkénti
+felülvizsgálatával összefüggő szakmai anyagot,
+h) ellátja a Települési Szennyvíz Információs Rendszer szakmai feladatait, elvégzi a szakmai honlap
+karbantartását, fejlesztését, valamint az adatszolgáltatáshoz szükséges fejlesztéseket,
+i) gondoskodik a víziközmű online adatfeldolgozó és információs rendszer üzemeltetéséről és fejlesztéséről,
+j) végzi a szomszédos országokkal létesített vízgazdálkodási egyezmények végrehajtásából eredő feladatokat
+és biztosítja a képviseletet,
+k) ellátja a többoldalú nemzetközi együttműködések vízgazdálkodási feladatainak végrehajtásából származó
+feladatokat,
+l) a szakterülete vonatkozásában közreműködik az országhatáron átterjedő környezeti hatások vizsgálatáról
+szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény, illetve az egyes köz- és
+magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU
+európai parlamenti és tanácsi irányelv szerinti nemzetközi eljárásokban,
+m) ellátja a Duna-menti országok nemzetközi vízminőségi riasztórendszer ügyeleti működtetésével kapcsolatos
+feladatokat,
+n) közreműködik a vízgazdálkodási szakterületi feladatok ellátását támogató hatástanulmányok, vizsgálatok
+elvégzésében, jelentések készítésében, illetve alkalmazott kutatások folytatásában, alapozó kutatási
+tevékenységek koordinációjában és monitorizálásában,
+o) háttéranyagokat, helyzetelemzéseket, felméréseket és statisztikai elemzéseket készít szakterületi stratégiák és
+tervek kialakításához és egyedi döntésekhez.
+
+6. Az igazgatóság vízügyi igazgatási feladatai
+9. § (1) Az igazgatóság
+a) ellátja a vizek kártételei elleni védelemmel, a vízkárelhárítással (árvíz- és belvízvédekezéssel, vízhiány
+kárelhárítással, valamint a vízminőségi kárelhárítással) összefüggő – külön jogszabályban meghatározott –
+feladatokat, ebben a körben
+aa) végzi az elsőrendű árvízvédelmi létesítmények fejlesztését és fenntartását, azokon a védekezést,
+az árvízmentesítést, ha az kettőnél több települést érint, továbbá a védelmi szakfelszerelés
+karbantartását és fejlesztését,
+ab) irányítja és ellátja a vízkárelhárítás műszaki, igazgatási teendőit,
+ac) tervezi, szervezi és szakmailag irányítja a védekezés területi feladatainak ellátását,
+ad) irányítja a helyi önkormányzatok, valamint a vízitársulatok vízkárelhárítási tevékenységét, ebben
+a jogkörében eljárva – elrendelt védekezési készültség esetén – a vízkárelhárítási szakmai feladatok
+tekintetében utasítási jogkörrel rendelkezik,
+ae) adatokat szolgáltat a helyi önkormányzatok számára a vizek kártételei elleni védelemmel
+összefüggő, a közigazgatási feladatok ellátásához szükséges tervek elkészítéséhez, vagy törvény
+felhatalmazása alapján elkészíti, felülvizsgálja a terveket,
+af) összehangolja a védőművek építését, fejlesztését, továbbá lebonyolítja a beruházási
+tevékenységeket,
+ag) végzi a vízhiány kárelhárítást az állami tulajdonú vízilétesítmények tekintetében,
+ah) végzi a vízminőségi kárelhárítást, ideértve a tevékenység műveleti (operatív) irányítását, valamint
+– szükség és technikai lehetőség esetén – annak végrehajtását,
+b) üzemelteti és fejleszti a vízrajzi észlelőhálózatot, ennek részeként víztest monitoringot tart fenn, vízrajzi
+adatokat gyűjt és feldolgoz,
+c) ellátja a VIZIR területi nyilvántartásának és vízgazdálkodási adatgyűjtésének üzemeltetési és fejlesztési
+feladatait, a gyűjtött adatokat feldolgozza, értékeli és tárolja, továbbá végrehajtja és együttműködik
+az országos vonatkozású feladatok teljesítésében,
+d) kezdeményezi a lehetséges víznyerő területek távlati ivóvízbázissá nyilvánítását, és ellátja ezen vízbázisok
+vízkészletének felhasználható állapotban tartásával kapcsolatos feladatokat,
+e) ellátja a vizeink állapotértékelésével kapcsolatos területi feladatokat,
+f) ellátja a közműves vízellátással és szennyvízkezeléssel, ideértve a települési ivóvízminőség-javítással,
+valamint a települési szennyvizek tisztításával és ártalommentes elhelyezésével kapcsolatos nemzeti és
+regionális programok elkészítésével kapcsolatban a feladatkörébe utalt feladatokat,
+g) részt vesz a vízügyi tárgyú nemzetközi kapcsolatok fenntartásával összefüggő feladatok ellátásában,
+h) ellátja az egyes európai uniós források felhasználásával megvalósuló projektek tervezésével, a források
+felhasználásával megvalósuló központi, pályázati, valamint kiemelt kormányzati projektek megvalósításával
+kapcsolatos feladatokat,
+i) ellátja a vízitársulatok szakmai felügyeletével kapcsolatos feladatokat,
+j) ellátja a Területi Vízgazdálkodási Tanács működésével kapcsolatos, jogszabályban meghatározott feladatokat,
+k) szervezi és irányítja a vízügyi igazgatás keretén belül megvalósuló közfoglalkoztatási programok
+végrehajtását,
+l) ellátja a múzeumi, levéltári, oktatási tevékenységgel kapcsolatos feladatokat,
+m) ellátja az egyéb, jogszabály vagy a vízügyi igazgatási szervek irányításért felelős miniszter által
+a feladatkörébe utalt feladatokat.
+(2) Az igazgatóság vagyongazdálkodási feladatai körében fenntartja, üzemelteti és fejleszti az állami tulajdonban lévő
+vizeket (felszíni vizek, felszín alatti vizek és felszín alatti vizek természetes víztartó képződményei), valamint egyes
+állami tulajdonú vagyontárgyakat (medrek, vízilétesítmények, erdők), így különösen
+a) a vízrajzi törzshálózatot, illetve az állami alapfeladatokat ellátó vízrajzi üzemi hálózatot,
+b) a távlati ivóvízbázisok mérő- és megfigyelő rendszerét,
+c) a vízminőségi monitoring-rendszert,
+d) az ár- és belvízvédelmi létesítményeket,
+e) a vízelvezető műveket,
+f) az öntözési célú vízilétesítményeket,
+g) a vízépítési műtárgyakat,
+
+h) a vízlépcsőket, a folyók duzzasztott tereit,
+i) a vízelosztó- és többes rendeltetésű rendszereket, továbbá
+j) a vízkészlet-gazdálkodási feladatokat ellátó vízátvezető, vízpótló műveket.
+(3) Az igazgatósági végzi
+a) a vagyonkezelésében lévő vízilétesítmények fenntartását, üzemeltetését és fejlesztését,
+b) a vagyonkezelésében lévő állami tulajdonú vízfolyások, holtágak és természetes állóvizek szabályozását,
+mederfenntartását, partvédelmét,
+c) a kitűzési terv szerint és a hajózási hatóság egyetértésével a hajózható folyószakaszokon, a természetes
+tavakon és csatornákon a hajóút kijelölését, kitűzését és fenntartását,
+d) a védekezési célokat szolgáló gépek, felszerelések, hordozható szivattyúk, szállító járművek, hajópark
+üzemképességének biztosítását,
+e) a vizek medrében található nádasok vízminőség-védelmi nádgazdálkodását,
+f) az állami tulajdonban lévő vízilétesítményeken az öntözési célú vízszolgáltatást, továbbá
+g) háttéranyagok készítését szakterületi stratégiák és tervek kialakításához és egyedi döntésekhez,
+helyzetelemzések, felmérések és statisztikai elemzések készítését.
+(4) Az igazgatóság gondoskodik
+a) az állami, az önkormányzati és a magántulajdonban lévő vízilétesítmények fenntartói, üzemeltetési,
+rekonstrukciós és fejlesztési összhangjának megteremtéséről,
+b) az Ivóvízminőség-javító Program területi végrehajtásáról, továbbá
+c) a vízkészletekkel való gazdálkodás körében
+ca) a vízkészletek térbeli, időbeli, mennyiségi és minőségi számbavételéről és azok elosztásáról,
+cb) a vizek hasznosítási lehetőségeinek megőrzéséről a természetes vizek hasznosíthatósági
+feltételeinek rendszeres ellenőrzésével, a vízhasználatot akadályozó vízminőségi károk
+megelőzésével, csökkentésével és elhárításával,
+cc) a vizek mennyiségi és minőségi védelme érdekében a távlati ivóvízbázisok megóvásáról,
+védőidomainak, illetve védőterületének meghatározásáról, valamint ingatlan-nyilvántartási
+bejegyzéséről, valamint
+cd) a laboratóriumainak működtetéséről a vízrajzi, vízkészlet-gazdálkodási és vízminőségi kárelhárítási
+feladatai ellátása érdekében.
+(5) Az igazgatóság részt vesz
+a) a vízellátást és szennyvízkezelést érintő szakmai pályázatok, projektek értékelésében,
+b) az országos vízgazdálkodási stratégia és koncepció, valamint az egyéb ágazati stratégiák és koncepciók
+szakmai megalapozásában,
+c) a vízhasználatok ellenőrzésében, és az ebben a feladatkörben hatáskörrel rendelkező hatóságnál intézkedést
+kezdeményezhet, továbbá
+d) ügyfélként a vagyonkezelésébe tartozó, vagy az azokra hatást jelentő vízhasználatok, vízilétesítmények és
+vízimunkák vízjogi engedélyezési (elvi, létesítési, üzemeltetési) eljárásában.
+(6) Az igazgatóság közreműködik
+a) a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i
+2000/60/EK európai parlamenti és tanácsi irányelv végrehajtásához kapcsolódó vízgazdálkodási vonatkozású
+feladatokban,
+b) a vízgyűjtő-gazdálkodási tervezés területi feladataiban,
+c) a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv által meghatározott
+jelentés előkészítésében,
+d) a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Program kétévenkénti felülvizsgálatával
+összefüggő szakmai anyag elkészítésében,
+e) ellátja a Települési Szennyvíz Információs Rendszer ügyfélszolgálatának szakmai feladatait,
+f) a vízkészletjárulék befizetésével, vagy annak elmulasztásával összefüggésben indult hatósági eljárásban,
+g) a szomszédos országokkal létesített vízgazdálkodási egyezmények végrehajtásában,
+h) a többoldalú nemzetközi együttműködések vízgazdálkodási feladatainak végrehajtásában.
+(7) Az igazgatóság véleményezi a kiemelt térségre és a megyére készülő területfejlesztési koncepciót és programot,
+valamint területrendezési tervet, továbbá a településrendezési eszközöket.
+(8) Az igazgatóság együttműködik a helyi önkormányzatokkal és a vízitársulatokkal a vízgazdálkodási feladatok
+megoldásában.
+
+III. FEJEZET
+A HATÓSÁGI ÉS SZAKHATÓSÁGI ELJÁRÁSRA VONATKOZÓ EGYES SZABÁLYOK
+7. A vízügyi hatóság eljárásaiban közreműködő szakhatóságok kijelölése
+10. § (1) A Kormány a hatóság elvi vízjogi engedélyezési, vízjogi létesítési engedélyezési, vízjogi üzemeltetési engedélyezési
+és vízjogi fennmaradási engedélyezési eljárásában
+a) vízjogi létesítési engedélyezés esetén – ha a vízilétesítmény vagy a vízimunka nem környezeti hatásvizsgálat
+vagy nem egységes környezethasználati engedély köteles – annak elbírálására, hogy a felszíni vizek, a felszín
+alatti vizek és a földtani közeg minősége védelmére jogszabályban foglalt követelmények a kérelemben
+foglaltak szerint vagy további feltételek mellett érvényesülnek-e, az első fokú eljárásban a környezetvédelmi
+és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és
+Természetvédelmi Főfelügyelőséget,
+b) annak elbírálására, hogy ivóvízkivétel vagy vízellátás engedélyezésénél a vizek minőségét és
+egészségkárosítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők
+fennállnak-e,
+ba) az első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei
+kormányhivatal népegészségügyi szakigazgatási szervét,
+bb) a legalább 1000 m3/nap kapacitású vagy 5000 főnél nagyobb állandó népességet ellátó, valamint
+az egy járás határán átnyúló vízellátó rendszerek esetében az első fokú eljárásban a fővárosi és
+megyei kormányhivatal népegészségügyi szakigazgatási szervét, a másodfokú eljárásban az Állami
+Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalát,
+c) az elvi vízjogi engedélyezés kivételével, ha a tevékenység a termőföldre hatást gyakorol vagy
+a vízilétesítmény termőföldön valósul meg, – a termőföld minőségi védelme követelményeinek való
+megfelelés kérdésében – az első fokú eljárásban a megyei kormányhivatal növény- és talajvédelmi
+igazgatóságát, a másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+d) az elvi vízjogi engedélyezés kivételével, ha a tevékenység termőföldre hatást gyakorol vagy a vízilétesítmény
+termőföldön valósul meg, – a termőföld mennyiségi védelme követelményeinek való megfelelés kérdésében –
+az első fokú eljárásban a járási hivatal járási földhivatalát, másodfokon a megyei kormányhivatal földhivatalát,
+e) ha az eljárás védett természeti területet, Natura 2000 területet vagy barlang felszíni védőövezetét
+érinti, – annak elbírálása érdekében, hogy a természetvédelem jogszabályban rögzített követelményei
+a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e – az első fokú eljárásban
+a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos
+Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
+f) a vízjogi üzemeltetési engedélyezés kivételével, ha az eljárás régészeti lelőhelyen, régészeti védőövezet
+területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben műemléket
+érintő tevékenység engedélyezésére irányul, – annak elbírálása kérdésében, hogy a kulturális örökség
+védelmének jogszabályban rögzített követelményei a kérelemben foglaltak szerint vagy további feltételek
+mellett érvényesülnek-e – az első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi
+kerületi) hivatala járási építésügyi és örökségvédelmi hivatalát, a másodfokú eljárásban,
+fa) ha az eljárás régészeti lelőhelyen, vagy régészeti védőövezet területén megvalósuló tevékenység
+engedélyezésére irányul, Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi
+Hivatalát,
+fb) ha az eljárás műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben
+műemléket érintő tevékenység engedélyezésére irányul, a fővárosi és megyei kormányhivatal
+építésügyi és örökségvédelmi hivatalát,
+g) vízjogi létesítési engedélyezés esetén, ha a kérelmező az útkezelői hozzájárulás megtagadását vagy
+a hozzájárulásban előírt feltételeket sérelmesnek tartja, – annak elbírálása kérdésében, hogy a közút
+területének nem közlekedési célú igénybevétele a közúti forgalom biztonságára, a közút fejlesztési terveinek
+végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt
+hatása alapján engedélyezhető-e –
+
+ga) gyorsforgalmi utak és közúti határátkelőhelyek esetében az első fokú eljárásban a Nemzeti
+Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát, a másodfokú eljárásban a Nemzeti
+Közlekedési Hatóság Központját,
+gb) országos közutak és a települési önkormányzat tulajdonában lévő helyi közutak esetében az első
+fokú eljárásban a fővárosi és megyei kormányhivatal közlekedési felügyelőségét, a másodfokú
+eljárásban a Nemzeti Közlekedési Hatóság Központját,
+gc) a fővárosi önkormányzat tulajdonában lévő helyi közutak esetében az első fokú eljárásban
+a Budapest Főváros Kormányhivatala Közlekedési Felügyelőségét, a másodfokú eljárásban
+a Nemzeti Közlekedési Hatóság Központját,
+gd) a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetében az első fokú eljárásban
+Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, a másodfokú eljárásban a Budapest Főváros
+Kormányhivatala Közlekedési Felügyelőségét,
+h) a vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli vízjogi létesítési engedélyezés
+esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban
+előírt feltételeket sérelmesnek tartja, – annak elbírálása kérdésében, hogy a vasúti pálya területének nem
+közlekedési célú igénybevétele a tervezett igénybevételnek a vasút állagára, a vasúti forgalom biztonságára,
+a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt
+hatása alapján a kérelemben foglaltak szerint vagy további feltételek mellett engedélyezhető-e – az első
+fokú eljárásban a Nemzeti Közlekedési Hatóság illetékes regionális igazgatóságát, a másodfokú eljárásban
+a Nemzeti Közlekedési Hatóság Központját, továbbá
+i) a vízjogi létesítési engedélyezés esetén, ha az eljárás víziutat érint, – a víziközlekedés biztonsága, hajózási
+érdekek érvényre juttatása jogszabályban rögzített követelményeinek való megfelelés kérdésében – az első
+fokú eljárásban a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát, a másodfokú eljárásban
+a Nemzeti Közlekedési Hatóság Központját
+szakhatóságként jelöli ki.
+(2) Az (1) bekezdés g)–i) pontja szerinti eljárásban hozott határozatot akkor is közölni kell a fővárosi és megyei
+kormányhivatal közlekedési felügyelőségével, ha az az eljárásban szakhatóságként nem vesz részt.
+11. § (1) A Kormány a hatóságnak a közcélú vízilétesítmény létesítéséhez, üzemeltetéséhez vagy ilyen célt szolgáló
+vízhasználathoz, továbbá a jövőbeni ivóvízellátás célját szolgáló vízbázisok védelme érdekében történő védőidom,
+védőterület és védősáv kijelölésére irányuló eljárásában,
+a) – ha a tevékenység, kijelölés nem környezeti hatásvizsgálat vagy nem egységes környezethasználati
+engedély köteles – annak elbírálására, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége
+védelmére jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek
+mellett érvényesülnek-e, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget,
+a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
+b) – az ivóvíz, az ásvány- és a gyógyvíz minőségét, egészségkárosítás nélküli fogyaszthatóságát,
+felhasználhatóságát befolyásoló körülmények, tényezők vizsgálata kérdésében – az első fokú eljárásban
+a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét, a másodfokú eljárásban
+az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalát,
+c) – az ásványi nyersanyag és a geotermikus energia nyilvántartott előfordulásai, ásványvagyon-gazdálkodási
+övezetek védelmének biztosíthatóságával, valamint a bányászati jog, gázipari nyomvonalas létesítmény
+érintettségével, felszínmozgás fennállásával kapcsolatos szakkérdésben – az első fokú eljárásban
+a bányakapitányságot, a másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt,
+d) – a termőföld minőségi védelme követelményeinek való megfelelés kérdésében – az első fokú eljárásban
+a megyei kormányhivatal növény- és talajvédelmi igazgatóságát, a másodfokú eljárásban a Nemzeti
+Élelmiszerlánc-biztonsági Hivatalt, továbbá
+e) védett természeti terület vagy Natura 2000 terület érintettsége esetén – annak elbírálása érdekében, hogy
+a természetvédelem jogszabályban rögzített követelményei a kérelemben foglaltak szerint vagy további
+feltételek mellett érvényesülnek-e – az első fokú eljárásban a környezetvédelmi és természetvédelmi
+felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi
+Főfelügyelőséget
+szakhatóságként jelöli ki.
+
+(2) A Kormány a hatóságnak a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények
+védelméről szóló 123/1997. (VII. 18.) Korm. rendelet 15. § (2) bekezdésében szabályozott egyedi vizsgálati
+eljárásában,
+a) annak elbírálására, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége védelmére
+jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek mellett
+érvényesülnek-e, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget,
+a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
+b) – az ivóvíz, az ásvány- és a gyógyvíz minőségét, egészségkárosítás nélküli fogyaszthatóságát,
+felhasználhatóságát befolyásoló körülmények, tényezők vizsgálata kérdésében – az első fokú eljárásban
+a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét, a másodfokú eljárásban
+az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalát, továbbá
+c) – a termőföld minőségi védelme és a növényvédelem követelményeinek való megfelelés kérdésében –
+az első fokú eljárásban a megyei kormányhivatal növény- és talajvédelmi igazgatóságát, a másodfokú
+eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
+szakhatóságként jelöli ki.
+(3) A Kormány a hatóság vízjogi engedélyezési eljárásában, ha a geotermikus energia kinyerése felszín alatti víz
+kitermelését igényli
+a) – ha a kitermelés nem környezeti hatásvizsgálat vagy nem egységes környezethasználati engedély
+köteles – annak elbírálására, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége
+védelmére jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek
+mellett érvényesülnek-e, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget,
+a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget, továbbá
+b) – a földtani közeg védelmének biztosítottsága, a kitermelendő víz hőmérsékletének megállapítása és
+a bányajáradék-fizetési kötelezettség megállapítása érdekében, valamint a kitermelendő víz felhasználási
+módja vizsgálatának szakkérdésében – az első fokú eljárásban a bányakapitányságot, a másodfokú eljárásban
+a Magyar Bányászati és Földtani Hivatalt szakhatóságként jelöli ki.
+(4) A Kormány a hatóságnak az 500 méternél mélyebben elhelyezkedő mélységi vizek felszínre hozatalára irányuló
+eljárásában – a fúróberendezés alkalmassága, műszaki-biztonsági feltételeknek való megfelelősége, valamint
+bányászati jog érintettsége megállapításának szakkérdésében – az első fokú eljárásban a bányakapitányságot,
+a másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt szakhatóságként jelöli ki.
+(5) A Kormány a hatóságnak az ivóvízkivételre nem hasznosítható és ivóvízbázisnak ki nem jelölhető felszíni vízből való
+egyedi ivóvízkivétel engedélyezésére irányuló eljárásában – annak elbírálására, hogy a megfelelő kezelési eljárások
+után az ivóvíz minőségi jellemzői megfelelőek-e – az első fokú eljárásban a fővárosi és megyei kormányhivatal járási
+(fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és
+megyei kormányhivatal népegészségügyi szakigazgatási szervét szakhatóságként jelöli ki.
+(6) A Kormány a hatóságnak a gázveszélyes vízkészletet igénybe vevő vízmű vízjogi létesítési, valamint üzemeltetési
+engedélyének kiadására irányuló eljárásában,
+a) ha a termelt és szolgáltatott víz – gáztartalmának vizsgálata alapján – „B” vagy „C” gázfokozatba tartozik,
+a tűzvédelmi előírásoknak való megfelelés és annak feltételei kérdésében, az első fokú eljárásban a megyei
+(fővárosi) katasztrófavédelmi igazgatóságot, a másodfokú eljárásban a Belügyminisztérium Országos
+Katasztrófavédelmi Főigazgatóságot, továbbá
+b) fürdési célú víztermelést folytató vízmű esetében – a termelt víz fürdési célú felhasználhatósága, valamint
+annak feltételei kérdésében – az első fokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi
+szakigazgatási szervét, a másodfokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos
+Tisztifőorvosi Hivatalát
+szakhatóságként jelöli ki.
+(7) A Kormány a hatóságnak a nem közművel összegyűjtött háztartási szennyvíz átvételére köteles szennyvíztisztító
+telep, szennyvízelvezető mű erre kijelölt eleme, a tavas vagy egyéb szennyvíztisztító mű kijelölése iránti eljárásában,
+a) – ha a kijelölés nem környezeti hatásvizsgálat vagy nem egységes környezethasználati engedély köteles –
+annak elbírálására, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége védelmére
+jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek mellett
+érvényesülnek-e, az első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget,
+a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
+
+b) környezet-egészségügyi szakkérdésben, így különösen az egészségkárosító kockázatok és esetleges hatások
+felmérésére, a fertőző betegségek terjedésének megakadályozására, a rovar- és rágcsálóirtás, a veszélyes
+készítményekkel végzett tevékenység vizsgálatára, a nem közművel összegyűjtött háztartási szennyvízzel
+kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítésére kiterjedően – az első
+fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi)
+népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi
+szakigazgatási szervét,
+c) ha a tevékenység védett természeti területet, Natura 2000 területet vagy barlang felszíni védőövezetét
+érinti, – annak elbírálása érdekében, hogy a természetvédelem jogszabályban rögzített követelményei
+a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e – az első fokú eljárásban
+a környezetvédelmi és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos
+Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
+d) ha a tevékenység helyi jelentőségű védett természeti területet érint, – annak elbírálása érdekében, hogy
+a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek
+megfelel-e – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban a fővárosi
+és megyei kormányhivatalt,
+e) ha a tevékenység a termőföldre hatással lehet vagy termőföldön valósul meg – a termőföld minőségi
+védelme követelményeinek való megfelelés szakkérdésében – az első fokú eljárásban a megyei
+kormányhivatal növény- és talajvédelmi igazgatóságát, a másodfokú eljárásban a Nemzeti Élelmiszerlánc-
+biztonsági Hivatalt, továbbá
+f) annak elbírálása kérdésében, hogy a létesítmény megfelel-e, és milyen feltételekkel felel meg
+a településrendezési követelményeknek és a helyi építési szabályzatnak, az első fokú eljárásban
+a létesítmény helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, a Budapest Főváros
+Önkormányzata által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt, a másodfokú eljárásban
+a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát
+szakhatóságként jelöli ki.
+12. § (1) A Kormány a hatóságnak a halastavak, a horgásztavak, a jóléti tavak, a víztározók, a bányatavak, valamint a holtágak
+vízjogi létesítési és üzemeltetési engedélyezési eljárásában, vízjogi üzemeltetési engedély módosítására irányuló
+eljárásában, valamint a vízjogi fennmaradási engedélyezési eljárásában, ha
+a) az eljárás védett természeti területet, Natura 2000 területet vagy barlang felszíni védőövezetét érinti, – annak
+elbírálása érdekében, hogy a természetvédelem jogszabályban rögzített követelményei a kérelemben
+foglaltak szerint vagy további feltételek mellett érvényesülnek-e – az első fokú eljárásban a környezetvédelmi
+és természetvédelmi felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és
+Természetvédelmi Főfelügyelőséget, továbbá
+b) a kérelemmel érintett vízilétesítmény halászati, horgászati, illetve haltermelési hasznosítási célt szolgál,
+vagy azon halászati, horgászati, illetve haltermelési hasznosítási cél megvalósítását tervezik, ideértve
+a vízilétesítmény halastó funkcióval történő üzemeltetését is, – annak elbírálása érdekében, hogy a kérelem
+szerinti tevékenység megfelel-e a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített
+követelmények közül a haltermelésre és a haltermelési létesítményekre, a halászatra, illetve a horgászatra
+vonatkozó előírásoknak – az első fokú eljárásban a megyei kormányhivatal földművelésügyi igazgatóságát,
+a másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
+szakhatóságként jelöli ki.
+(2) A Kormány a hatóságnak a duzzasztással szabályozott víziúton vízlépcsőnél a víziút osztálya szerinti méretű
+úszólétesítmények, illetve azok tolt kötelékének áthaladását biztosító hajózsilip és a hozzá tartozó létesítmények
+terveinek, létesítésének és üzembe helyezésének engedélyezésére irányuló eljárásában
+a) – a hajózsilip méretei tekintetében a jogszabályi követelményeknek, továbbá a tervezett, felújított vagy
+átalakított hajózsilipnek és tartozékainak a zavartalan és biztonságos hajóforgalom lebonyolítására való
+alkalmasságának és a nemzetközi gyakorlatnak való megfelelőségének szakkérdésében – az első fokú
+eljárásban a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát, a másodfokú eljárásban
+a Nemzeti Közlekedési Hatóság Központját, továbbá
+b) védett természeti terület vagy Natura 2000 terület érintettsége esetén, – annak elbírálása érdekében, hogy
+a természetvédelem jogszabályban rögzített követelményei a kérelemben foglaltak szerint vagy további
+feltételek mellett érvényesülnek-e – az első fokú eljárásban a környezetvédelmi és természetvédelmi
+
+felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi
+Főfelügyelőséget
+szakhatóságként jelöli ki.
+(3) A Kormány a hatóság vizek medrének vízgazdálkodási célt szolgáló alakítására, kotrására vagy mesterséges vízterek
+vagy tározók létesítésére irányuló vízjogi engedélyezési eljárásában
+a) – az ásványvagyon-védelmi szempontok érvényesítésének, valamint a bányajáradék-fizetési kötelezettség
+megállapításának szakkérdésében – az első fokú eljárásban a bányakapitányságot, a másodfokú eljárásban
+a Magyar Bányászati és Földtani Hivatalt, továbbá
+b) védett természeti terület vagy Natura 2000 terület érintettsége esetén, – annak elbírálása érdekében, hogy
+a természetvédelem jogszabályban rögzített követelményei a kérelemben foglaltak szerint vagy további
+feltételek mellett érvényesülnek-e – az első fokú eljárásban a környezetvédelmi és természetvédelmi
+felügyelőséget, a másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi
+Főfelügyelőséget
+szakhatóságként jelöli ki.
+IV. FEJEZET
+ZÁRÓ RENDELKEZÉSEK
+8. Hatálybalépés
+13 . § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+(2) Az 1–12. § és a 14. § 2014. január 1-jén lép hatályba.
+9. Átmeneti rendelkezések
+14 . § (1) Az OVH – jogszabályban meghatározott hatósági feladat- és hatáskörében – az Országos Környezetvédelmi,
+Természetvédelmi és Vízügyi Főfelügyelőség jogutódja.
+(2) Jogszabályban meghatározott hatósági feladat- és hatáskörében
+a) az Észak-dunántúli Vízügyi Hatóság az Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+b) a Nyugat-dunántúli Vízügyi Hatóság a Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+c) a Közép-dunántúli Vízügyi Hatóság a Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+d) a Dél-dunántúli Vízügyi Hatóság a Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+e) a Közép-Duna-völgyi Vízügyi Hatóság a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+f) a Tiszántúli Vízügyi Hatóság a Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség,
+g) a Felső-Tisza-vidéki Vízügyi Hatóság a Felső-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+h) az Észak-magyarországi Vízügyi Hatóság az Észak-magyarországi Környezetvédelmi, Természetvédelmi és
+Vízügyi Felügyelőség,
+i) a Közép-Tisza-vidéki Vízügyi Hatóság a Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+j) az Alsó-Tisza-vidéki Vízügyi Hatóság az Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség,
+k) az Alsó-Duna-völgyi Vízügyi Hatóság az Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi
+Felügyelőség Kirendeltsége,
+l) a Körös-vidéki Vízügyi Hatóság a Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség
+Kirendeltsége
+jogutódja.
+
+15. § (1) Az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség, valamint a környezetvédelmi,
+természetvédelmi és vízügyi felügyelőségek a feladatellátás tekintetében bekövetkezett jogutódlással érintett
+létszámot és a feladat ellátásához szükséges eszközöket 2014. január 1-jei fordulónappal a 14. §-ban meghatározott
+jogutód szervezet részére átadják.
+(2) A Nemzeti Környezetügyi Intézet a hatásköréből az OVF-hez, valamint az igazgatóságokhoz kerülő feladatok
+ellátásához szükséges létszámot és a feladat ellátásához szükséges eszközöket az OVF részére átadja.
+(3) Az (1) és (2) bekezdésben meghatározott átadás során
+a) a 2013. október 1-jei állapotot kell alapul venni,
+b) a létszám átadása magában foglalja a foglalkoztatottak átadását a közszolgálati tisztviselőkről szóló 2011. évi
+CXCIX. törvény 58. § (1)–(4) bekezdésének alkalmazásával.
+(4) A folyamatban lévő hatósági ügyek iratanyagának átadása-átvétele 2014. január 6-ig történik meg.
+(5) Az átadás-átvétel tárgyában az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség, a Nemzeti
+Környezetügyi Intézet, az OVF és az igazgatóságok 2013. december 30-ig megállapodást kötnek.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 482/2013. (XII. 17.) Korm. rendelethez
+I. A vízügyi igazgatóságok elnevezése és székhelye
+ 1. Észak-dunántúli Vízügyi Igazgatóság, Győr
+ 2. Közép-Duna-völgyi Vízügyi Igazgatóság, Budapest
+ 3. Alsó-Duna-völgyi Vízügyi Igazgatóság, Baja
+ 4. Közép-dunántúli Vízügyi Igazgatóság, Székesfehérvár
+ 5. Dél-dunántúli Vízügyi Igazgatóság, Pécs
+ 6. Nyugat-dunántúli Vízügyi Igazgatóság, Szombathely
+ 7. Felső-Tisza-vidéki Vízügyi Igazgatóság, Nyíregyháza
+ 8. Észak-magyarországi Vízügyi Igazgatóság, Miskolc
+ 9. Tiszántúli Vízügyi Igazgatóság, Debrecen
+10. Közép-Tisza-vidéki Vízügyi Igazgatóság, Szolnok
+11. Alsó-Tisza-vidéki Vízügyi Igazgatóság, Szeged
+12. Körös-vidéki Vízügyi Igazgatóság, Gyula
+II. A vízügyi igazgatóságok működési területe
+1. ÉSZAK-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Győr-Moson-Sopron megye – kivéve
+Bakonygyirót,
+Bakonyszentlászló,
+Bakonypéterd,
+Csáfordjánosfa,
+Csér,
+Csikvánd,
+Egyházasfalu,
+Fenyőfő,
+Gyalóka,
+Gyarmat,
+Iván,
+Lázi,
+
+Répcevis,
+Románd,
+Sikátor,
+Sopronhorpács,
+Szakony,
+Szerecseny,
+Veszprémvarsány,
+Und,
+Zsira közigazgatási területét.
+b) Komárom-Esztergom megye – kivéve
+Szárliget közigazgatási területét,
+a Duna parti településeknek a folyam (középvízi) medrébe nyúló, tartozó közigazgatási területét az Ipoly
+torkolattól a folyásirányban lefelé.
+c) Vas megyéből
+Csánig,
+Csönge,
+Jákfa,
+Kenyeri,
+Nick,
+Ostffyasszonyfa,
+Pápoc,
+Rábapaty,
+Répcelak,
+Uraiújfalu közigazgatási területe.
+d) Veszprém megyéből
+Egyházaskesző,
+Kemenesszentpéter,
+Malomsok,
+Marcaltő,
+Várkesző közigazgatási területe.
+B) Működési vonalai:
+a) folyók:
+a Duna a nyugati országhatártól az Ipoly-torkolatig (1850,2–1708,2 fkm) 142 km, a Mosoni-Duna-ág
+országhatártól a torkolatig terjedő 122,5 km, a Rába a sárvári vasúti hídtól a torkolatig 86,7 km hosszban,
+továbbá a Marcal a 22 fkm-től a torkolatig, a Lajta országhatártól a torkolatig terjedő 18,6 km hosszú
+szakasza, valamint a Fertő tó;
+b) árvízvédelmi művek:
+a Duna jobb part a rajkai országhatár és Pilismarót között, a Lajta mindkét part, a Lajta jobb és bal parti
+csatornák, valamint az összekötő csatorna jobb- és bal parti töltései, a Mosoni-Duna jobb és bal parti töltései,
+a Rábca mindkét oldali töltése Bősárkány és Abda között, a Répce árapasztó töltései Répcelakig, illetve
+Répceszemeréig, a Rába jobb és bal parti töltése Sárvár és Győr között, a Marcal bal és jobb parti védvonal
+a Bakonyér visszatöltésezésével együtt;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények.
+C) Kapcsolattartás:
+Győr, Sopron, Tatabánya megyei jogú városok, Győr-Moson-Sopron, Komárom-Esztergom, Vas és Veszprém megye.
+2. KÖZÉP-DUNA-VÖLGYI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Budapest főváros
+teljes közigazgatási területe.
+b) Pest megye – kivéve
+Abony,
+
+Albertirsa,
+Cegléd,
+Ceglédbercel,
+Csemő,
+Dánszentmiklós,
+Jászkarajenő,
+Kocsér,
+Kőröstetétlen,
+Mikebuda,
+Nagykőrös,
+Nyársapát,
+Pilis,
+Tápiószőlős,
+Törtel,
+Újszilvás közigazgatási területét.
+c) Nógrád megye
+teljes közigazgatási területe.
+d) Heves megyéből
+Apc,
+Boldog,
+Hatvan,
+Heréd,
+Kerekharaszt,
+Lőrinci,
+Nagykökényes,
+Zagyvaszántó közigazgatási területe.
+e) Fejér,Tolna és Bács-Kiskun megyében azon Duna parti településeknek a folyam (középvízi) medrébe nyúló,
+tartozó közigazgatási területe, amelyek a folyam folyásirányát tekintve a dunaföldvári híd felső éléig
+helyezkednek el.
+f) Komárom-Esztergom megyében a Duna parti településeknek a folyam (középvízi) medrébe nyúló, tartozó
+közigazgatási területe az Ipoly torkolattól folyásirányban lefelé.
+B) Működési vonalai:
+a) folyók:
+a Duna az Ipoly-torkolattól a dunaföldvári hídig (1708,2–1560,5 fkm) 147,7 km, a Szentendrei Duna-ág 32 km
+és a Ráckevei (Soroksári) Duna-ág 58 km hosszban, az Ipoly szlovák–magyar határszakasza 141 km hosszban,
+a Zagyva Jobbágyitól a jászfelsőszentgyörgyi elbontott hídig 41 km hosszban;
+b) árvízvédelmi művek:
+a Duna jobb part Pilismarót és Dunafüred között, a Duna bal part Szob és Dunaegyháza között,
+a Szentendrei-sziget és Csepel-sziget védvonalai – kivéve Budapest és Szentendre saját szervezettel védekező
+városok védvonalait –, a Zagyva mindkét parti védvonalai Jobbágyi és Jászfelsőszentgyörgy között és az Ipoly
+bal parti védvonalai;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Bács-Kiskun megyében:
+Kunpeszér határában a XX. jelű belvízcsatorna; Kunszentmiklós határában a XXXI. jelű belvízcsatornának
+a XXXIII. jelű belvízcsatorna betorkolása feletti szakasza; Tass határában az I. főcsatorna és a Szivárgó-csatorna
+kezelése;
+Jász-Nagykun-Szolnok megyében:
+a Galga és az Egyesült-Tápió patakok kezelése.
+C) Kapcsolattartás:
+Budapest főváros, Salgótarján megyei jogú város, Pest és Nógrád megye.
+
+3. ALSÓ-DUNA-VÖLGYI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Bács-Kiskun megye – kivéve
+Balotaszállás,
+Bócsa,
+Bugac,
+Bugacpusztaháza,
+Csólyospálos,
+Fülöpjakab,
+Gátér,
+Harkakötöny,
+Jászszentlászló,
+Kecskemét,
+Kelebia,
+Kiskunhalas,
+Kiskunmajsa,
+Kisszállás,
+Kiskunfélegyháza,
+Kömpöc,
+Kunfehértó,
+Kunszállás,
+Lakitelek,
+Móricgát,
+Nyárlőrinc,
+Pálmonostora,
+Petőfiszállás,
+Szank,
+Szentkirály (Lászlófalva),
+Tiszaalpár,
+Tiszakécske,
+Tiszaug
+Tompa,
+Városföld,
+Zsana
+közigazgatási területét, továbbá
+Baja város és
+Érsekcsanád közigazgatási területének a Duna jobb partjára eső részét.
+b) Baranya megyéből
+Homorúd közigazgatási területe,
+Mohács város közigazgatási területének a Duna bal partjára eső része, továbbá
+a Duna- parti településeknek a Duna folyam (középvízi) medrébe nyúló, tartozó közigazgatási területe.
+c) Tolna megyéből
+Báta közigazgatási területének a Duna bal partjára eső része, továbbá
+a Duna parti településeknek a folyam (középvízi) medrébe nyúló, tartozó közigazgatási területe.
+B) Működési vonalai:
+a) folyók:
+a Duna és az állam kizárólagos tulajdonában lévő mellékágai a dunaföldvári híd felső (északi) élétől a déli
+országhatárig (1560,5–1433 fkm) 127,5 km;
+b) árvízvédelmi művek:
+a Duna bal part Solt-déli országhatár között, kivéve a Baja város belterületét védő fővédvonal
+0+000–2+655 tkm szakasza;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+
+Bács-Kiskun megyében:
+Bócsa község határában a VII. számú csatorna;
+Pest megyében:
+Tatárszentgyörgy határában a XXIII. jelű belvízcsatorna kezelése: Bugyi határában a Duna-völgyi főcsatorna
+a Kunpeszér-Bugyi közútig.
+Nem tartozik működési vonalához a működési területén lévő kizárólagos állami tulajdonban lévő
+csatornák közül a Kunszentmiklós határában a XXXI. jelű belvízcsatornának a XXXIII. jelű belvízcsatorna
+betorkolása feletti szakasza, Kunpeszér határában a XX. jelű belvízcsatorna, Tass határában az I. főcsatorna és
+a Szivárgó-csatorna.
+C) Kapcsolattartás:
+Kecskemét megyei jogú város, Bács-Kiskun megye.
+4. KÖZÉP-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Fejér megye teljes közigazgatási területe – kivéve
+a Duna parti településeknek a folyam (középvízi) medrébe nyúló, tartozó közigazgatási területét.
+b) Veszprém megye – kivéve
+Egyházaskesző,
+Kemeneshőgyész,
+Kemenesszentpéter,
+Magyargencs,
+Malomsok,
+Marcaltő,
+Várkesző közigazgatási területét.
+c) Tolna megye – kivéve
+Attala,
+Báta közigazgatási területének a Duna bal partjára eső része
+Csikóstőttős,
+Jágónak,
+Kaposszekcső,
+Kapospula,
+Lápafő,
+Nak közigazgatási területét,
+Váralja Völgységi patak jobb partjára eső részét,
+Várong közigazgatási területét, továbbá
+Kismányoknak és
+Nagymányoknak a Völgységi patak jobb partjára eső részét, valamint
+a Duna parti településeknek a folyam (középvízi) medrébe nyúló, tartozó közigazgatási területét.
+d) Somogy megyéből
+Balatonszabadi,
+Kánya,
+Siófok (Balatonkiliti),
+Siójut,
+Tengőd
+közigazgatási területe, valamint
+a Balaton parti településeknek a tó medrébe (jogi partvonalával határolt területébe) nyúló, tartozó
+közigazgatási része.
+e) Baranya megyéből
+Ófalu területe, továbbá
+Hidas közigazgatási területének a Völgységi patak bal partjára eső része.
+f) Bács-Kiskun megyéből
+Baja város és
+Érsekcsanád közigazgatási területének a Duna jobb partjára eső része.
+
+g) Győr-Moson-Sopron megyéből
+Bakonygyirót,
+Bakonyszentlászló,
+Bakonypéterd,
+Csikvánd,
+Fenyőfő,
+Gyarmat,
+Lázi,
+Románd,
+Sikátor,
+Szerecseny,
+Veszprémvarsány
+közigazgatási területe.
+h) Komárom-Esztergom megyéből
+Szárliget
+közigazgatási területe.
+i) Zala megyéből
+a Balaton parti településeknek a tó medrébe (jogi partvonalával határolt területébe) nyúló, tartozó
+közigazgatási része.
+B) Működési vonalai:
+a) folyók, tavak:
+a Balaton és a Velencei-tó; a Sió a Balatontól a torkolatig;
+b) árvízvédelmi művek:
+a Duna jobb part Ercsi-Adony és Bölcske-Báta között, a Szt. László-vízfolyás bal parti és a Váli vízfolyás jobb
+és bal parti torkolati szakasz, a Sió Simontornya és Sióagárd közötti bal parti, Sióagárd és Sió-torkolat közötti
+jobb és bal parti, a Sióba ömlő Völgységi árok torkolati szakaszának kétparti töltései, a Nádor-csatorna Kölesd
+alatti jobb és bal parti töltései;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Baranya megyében:
+Mágocs határában a Kapos-csatorna jobb parti oldala és jobb parti depóniája;
+Tolna megyében:
+Kaposszekcső és Csikóstőttős határában a Kapos-csatorna jobb parti depóniája a Dombóvár-Kaposszekcső út
+hídjától lefelé; Nak határában a Kis-Konda patak.
+C) Kapcsolattartás:
+Székesfehérvár, Dunaújváros, Szekszárd és Veszprém megyei jogú városok, Fejér, Tolna és Veszprém megye.
+5. DÉL-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Pécs megyei jogú város.
+b) Baranya megye – kivéve
+a Duna-parti településeknek a Duna folyam (középvízi) medrébe nyúló, tartozó közigazgatási területe,
+Homorúd, valamint
+Ófalu közigazgatási területét, továbbá
+Hidas közigazgatási területének a Völgységi patak bal partjára eső részét, valamint Mohács közigazgatási
+területének a Duna bal partjára eső részét.
+c) Somogy megye – kivéve
+Balatonszentgyörgy,
+Balatonszabadi,
+Csákány,
+Főnyed,
+Hollád,
+Iharosberény,
+
+Inke,
+Kánya,
+Nagyszakácsi,
+Nemesdéd,
+Nemesvid,
+Őrtilos,
+Pogányszentpéter,
+Sávoly,
+Siófok (Balatonkiliti),
+Siójut,
+Somogysámson,
+Somogysimonyi,
+Somogyzsitfa,
+Szegerdő,
+Szőkedencs,
+Tapsony,
+Tengőd,
+Tikos,
+Varászló,
+Vése,
+Vörs
+közigazgatási területét, továbbá
+Marcali közigazgatási területének a Zala folyó vízgyűjtőjére eső részét Horvátkút lakott hellyel,
+a Balaton parti településeknek a tó medrébe (jogi partvonalával határolt területébe) nyúló, tartozó
+közigazgatási része.
+d) Tolna megyéből
+Attala,
+Csikóstőttős,
+Jágónak,
+Kapospula,
+Kaposszekcső,
+Lápafő,
+Nak,
+Várong,
+Váralja, továbbá
+Kismányok és
+Nagymányok közigazgatási területének a Völgységi patak jobb partjára eső része.
+B) Működési vonalai:
+a) folyók:
+a Dráva a Mura torkolatától az országhatárig (236–225 fkm és 200–68 fkm) 143 km hosszban;
+b) árvízvédelmi művek:
+a Duna jobb part Mohács és a déli országhatár között, a Dráva bal part Korcsina átvágás és Eperjes között,
+a Fekete-víz bal partja a Pécsi-víz torkolata és a Dráva között, a Pécsi-víz bal partja Kémes és a Fekete-víz
+között, a Fekete-víz jobb partja a cuni híd és a Dráva között;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Tolna megyében:
+Dombóvár határában a Kapos-vízfolyás medre a Dombóvár-kaposszekcsői út hídjától vízfolyás szerint felfelé;
+Váralja, Kismányok és Nagymányok határában a Völgységi patak medre.
+C) Kapcsolattartás:
+Pécs, Kaposvár megyei jogú városok, Baranya és Somogy megye.
+
+6. NYUGAT-DUNÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Vas megye – kivéve
+Csánig,
+Csönge,
+Jákfa,
+Kenyeri,
+Nick,
+Ostffyasszonyfa,
+Pápoc,
+Rábapaty,
+Répcelak,
+Uraiújfalu közigazgatási területét.
+b) Zala megye
+teljes közigazgatási területe.
+c) Győr-Moson-Sopron megyéből
+Csáfordjánosfa,
+Csér,
+Egyházasfalu,
+Gyalóka,
+Iván,
+Répcevis,
+Sopronhorpács,
+Szakony,
+Und,
+Zsira közigazgatási területe.
+d) Veszprém megyéből
+Kemeneshőgyész,
+Magyargencs közigazgatási területe.
+e) Somogy megyéből
+Balatonszentgyörgy,
+Csákány,
+Főnyed,
+Hollád,
+Iharosberény,
+Inke,
+Nagyszakácsi,
+Nemesdéd,
+Nemesvid,
+Őrtilos,
+Pogányszentpéter,
+Sávoly,
+Somogysámson,
+Somogysimonyi,
+Somogyzsitfa,
+Szegerdő,
+Szőkedencs,
+Tapsony,
+Tikos,
+Varászló,
+Vése,
+Vörs
+közigazgatási területe, valamint
+Marcali közigazgatási területének a Zala folyó vízgyűjtőjére eső része Horvátkút lakott hellyel.
+
+B) Működési vonalai:
+a) folyók:
+a Mura az országhatártól a Dráva torkolatig 48,6 km hosszban, a Rába a sárvári vasúti hídtól az országhatárig
+(86,7 fkm–16,3 fkm) 129,6 km hosszban, a Lapincs az országhatártól a Rába torkolatig 0,7 km hosszban
+(a 0,7 fkm–1,57 fkm között határfolyó);
+b) árvízvédelmi művek:
+a Zala árvízvédelmi rendszer Bókaháza és a Kis-Balaton vízvédelmi rendszer között, a Mura bal parti
+árvízvédelmi rendszer, a Rába árvízvédelmi fővédvonalai a sárvári vasúti híd és az országhatár között,
+valamint a Lapincs árapasztó vápa Szentgotthárdon;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Vas megyében:
+a Répce a répcelaki osztómű feletti szakaszán az országhatárig; a Kőris patak a jákfai hídtól felfelé: a Marcal
+a Győr-Moson-Sopron, Veszprém megyék határától (Mórichida) Vas és Veszprém megyék határáig Megyer.
+C) Kapcsolattartás:
+Szombathely, Zalaegerszeg, Nagykanizsa megyei jogú városok, Vas és Zala megye.
+7. FELSŐ-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Szabolcs-Szatmár-Bereg megye – kivéve
+Nyírlugos,
+Penészlek,
+Szorgalmatos,
+Tiszadada,
+Tiszadob,
+Tiszaeszlár,
+Tiszalök,
+Tiszanagyfalu,
+Tiszavasvári települések közigazgatási területét,
+Balsa,
+Dombrád,
+Ibrány,
+Timár,
+Tiszabercel,
+Tiszakanyár,
+Tiszatelek,
+Gávavencsellő települések közigazgatási területének a Tisza jobb partjára eső részét, továbbá
+Nyírbéltek közigazgatási területének délnyugati részét,
+Rakamaz közigazgatási területének a Tiszanagyfalu-Rakamaz községhatár, a Nyíregyháza-Tokaj vasútvonal és
+a 38-as számú út által alkotott vonaltól délre eső területét.
+b) Borsod-Abaúj-Zemplén megyéből
+Cigánd,
+Kenézlő,
+Tiszakarád,
+Zemplénagárd közigazgatási területének a Tisza bal partjára eső része.
+c) Hajdú-Bihar megyéből
+Téglás közigazgatási területe, valamint
+Nyíradony közigazgatási területének északi része.
+B) Működési vonalai:
+a folyók:
+a Tisza a tiszabecsi országhatártól a Bodrog-torkolatig (744,8–543,7 fkm), a Túr az országhatártól a torkolatig
+30 km és a Szamos az országhatártól a torkolatig 49,5 km hosszban;
+
+b) árvízvédelmi művek:
+a Tisza jobb part Tarpa–Lónya között; Tisza bal part Tiszabecs és Rakamaz között, a Batár bal part Kispalád és
+Tiszabecs között, a Túr jobb és bal part Garbolc és Tiszakóród között, a Palád jobb és bal partja, a Sáréger jobb
+és bal part, a Szamos jobb és bal part az országhatár és Olcsva, illetve Olcsvaapáti között a Kraszna jobb és bal
+part Ágerdő és Vásárosnamény között, a Szamos–Túr közi zárógát, az Olcsvaapáti körgát, a Lónyay-főcsatorna
+jobb és bal part, valamint a Lónyay-főcsatorna bal parti szakaszán beömlő Nyíri-főfolyások visszatöltésezett
+torkolati szakaszai;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Hajdú-Bihar megyéből:
+Hajdúhadház határában a Hadházi (VIII/7–2.) mellékág, Téglás határában a Téglási (VIII/7.) mellékág kezelése.
+C) Kapcsolattartás:
+Nyíregyháza megyei jogú város, Szabolcs-Szatmár-Bereg megye.
+8. ÉSZAK-MAGYARORSZÁGI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Borsod-Abaúj-Zemplén megye – kivéve
+Ároktő,
+Cigánd,
+Hejőkürt,
+Kenézlő,
+Oszlár,
+Révleányvár, valamint
+Ricse közigazgatási területének a Tisza bal partjára eső részét,
+Tiszabábolna közigazgatási területének a Kiskörei-tározó területére eső részét (a Tisza 440 fkm szelvénye
+alatt),
+Tiszacsermely,
+Tiszadorogma,
+Tiszakarád,
+Tiszakeszi,
+Tiszapalkonya,
+Tiszatardos,
+Tiszatarján,
+Tiszaújváros közigazgatási területének a Tisza bal partjára eső részét,
+Tiszavalk közigazgatási területének a Kiskörei-tározó területére eső részét,
+Tokaj és
+Zemplénagárd közigazgatási területének a Tisza bal partjára eső részét.
+b) Szabolcs-Szatmár-Bereg megyéből
+Balsa,
+Dombrád,
+Ibrány,
+Timár,
+Tiszadada,
+Tiszabercel,
+Tiszadob,
+Tiszaeszlár,
+Tiszakanyár,
+Tiszalök,
+Tiszatelek, valamint
+Gávavencsellő közigazgatási területének a Tisza jobb partjára eső része.
+c) Heves megye – kivéve
+Apc,
+Átány,
+
+Boldog,
+Erdőtelek,
+Hatvan,
+Heréd,
+Heves,
+Hevesvezekény,
+Kerekharaszt,
+Kisköre,
+Lőrinci,
+Nagykökényes,
+Pély,
+Tarnaszentmiklós,
+Tenk,
+Tiszanána,
+Zagyvaszántó közigazgatási területét,
+Kömlő közigazgatási területének a Csincsa belvízcsatorna jobb partjára eső részét,
+Poroszló közigazgatási területének a Kiskörei-tározó területére eső részét,
+Sarud és Újlőrincfalva közigazgatási területének a Laskó patak és a Csincsa belvízcsatorna jobb partjára eső
+részét, valamint
+a Kiskörei-tározó területére eső részét.
+d) Hajdú-Bihar megyéből
+Tiszacsege közigazgatási területének a Tisza jobb partjára eső része.
+e) Jász-Nagykun-Szolnok megyéből
+Jászágó,
+Jászárokszállás,
+Jászdózsa,
+közigazgatási területe, továbbá
+Jászberény közigazgatási területének az Ágói patak és a Tarna patak bal partjára eső része.
+B) Működési vonalai:
+a) folyók:
+a Tisza a Bodrog-torkolattól Tiszabábolnáig (543,7–440,0 fkm) 103,7 km, a Bodrog az országhatártól
+a torkolatig 51,1 km, a Hernád az országhatártól a torkolatig 118,4 km és a Sajó az országhatártól a torkolatig
+125,1 km hosszban;
+b) árvízvédelmi művek:
+a Tisza jobb part Zemplénagárd és Sarud között, a Bodrog jobb és bal part az országhatár és a Tisza
+között, a Hernád jobb és bal part az országhatár és a torkolat között a Gönci, Vadász és Garadna patakok
+visszatöltésezett szakaszaival, a Takta mindkét parti töltései Szerencs és a torkolat között, a Sajó jobb és bal
+part Sajópüspöki és a torkolat között, a Szinva, Mercse, Hangony, Vörös J., Szuha, Szörnyűvölgyi, Keleméri,
+Névtelen patakok visszatöltésezett szakaszaival, a Csincse, Eger és Rima mindkét parti torkolati szakaszai,
+a Laskó visszatöltésezett szakaszának bal partja, a Tarna két part Kál–Jászjákóhalma közötti szakasza
+a Zagyváig, a Tarna jobb parti mellékvízfolyásainak a Tarnóca, Bene, Gyöngyös, Gyangya és Szarvágy, Ágói
+patakok visszatöltésezett szakaszai;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Heves megyében:
+Sarud határában a Laskó patak medre; Sarud, Tiszanána, Kömlő határában a Csincsa belvízcsatorna vízgyűjtő
+területe;
+Jász-Nagykun-Szolnok megyében:
+Jászberény határában az Ágói patak és a bal parti vízgyűjtője, a Tarna patak és a bal parti vízgyűjtője,
+Jászjákóhalma közigazgatási területén a Tarna patak;
+Nógrád megyében:
+a ceredi Tarna patak, a Zabar, Kőverő, Utas patakok, Verscsátér és a Szilas patak.
+
+C) Kapcsolattartás:
+Miskolc, Eger megyei jogú városok, Borsod-Abaúj-Zemplén és Heves megye.
+9. TISZÁNTÚLI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe
+a) Hajdú-Bihar megye – kivéve
+Téglás közigazgatási területét,
+Nyíradony közigazgatási területének északi részét, Tiszacsege közigazgatási területének a Tisza jobb partjára
+eső részét,
+Komádi és
+Körösszakál Sebes-Körös bal partjára eső részét,
+Darvas közigazgatási területének a Berettyó jobb partján a közúti híd alatt,
+Zsáka közigazgatási területének a Kálló-csatorna jobb partjára eső részét.
+b) Szabolcs-Szatmár-Bereg megyéből
+Nyírlúgos,
+Penészlek,
+Szorgalmatos,
+Tiszanagyfalu,
+Tiszavasvári közigazgatási területe, továbbá
+Tiszaeszlár,
+Tiszalök,
+Tiszadob,
+Tiszadada közigazgatási területének a Tisza bal partjára eső része,
+Nyírbéltek közigazgatási területének délnyugati része, valamint
+Rakamaz közigazgatási területének a Tiszanagyfalu-Rakamaz községhatár, a Nyíregyháza-Tokaj vasútvonal és
+a 38. sz. út által alkotott vonaltól délre eső területe.
+c) Borsod-Abaúj-Zemplén megyéből
+Tokaj,
+Tiszatardos,
+Tiszaújváros,
+Tiszapalkonya,
+Oszlár,
+Hejőkürt,
+Tiszatarján,
+Tiszakeszi,
+Ároktő, valamint
+Tiszadorogma közigazgatási területének a Tisza bal partjára eső része.
+d) Jász-Nagykun-Szolnok megyéből
+Tiszafüred közigazgatási területének a 33. sz. közúttól északra, a karcagi közúttól és a Tiszafüredi öntöző
+főcsatornától keletre eső része,
+Tiszaigar közigazgatási területének a Tiszafüredi öntöző főcsatornától keletre eső része,
+Tiszaörs közigazgatási területének északkeleti része,
+Nagyiván közigazgatási területe,
+Kunmadaras közigazgatási területének keleti része,
+Karcag Kisújszállás közigazgatási területének a Német-ér és a Hortobágy–Berettyó bal oldali hullámterét és
+töltését érintő része.
+e) Békés megyéből:
+Bucsa közigazgatási területe,
+Ecsegfalva közigazgatási területének északkeleti része,
+Szeghalom közigazgatási területének a Berettyó és a Sebes-Körös közé eső része,
+Biharugra és
+Körösnagyharsány közigazgatási területének a Sebes-Körös jobb partjára eső része.
+
+B) Működési vonalai:
+a) folyók:
+a Berettyó az országhatártól a torkolatig, Hortobágy–Berettyó Bucsától az Ágotai hídig;
+b) árvízvédelmi művek:
+a Tisza bal part Rakamaz és Tiszafüred között, a Keleti-főcsatorna visszatöltésezett szakasza mindkét parti
+védtöltésével, a Tiszavasvári zsilipig, a Hortobágy–Berettyó bal part Nádudvar és Bucsa között, a Berettyó
+jobb part az országhatár–Darvas között, a Berettyó bal part országhatár Sebes-Körös között, a Berettyóba
+torkoló Ér- és Kálló-főcsatorna visszatöltésezett jobb és bal partja (az Ér-főcsatornának az országhatárig,
+a Kálló-főcsatornánál a Bakonszegi útig), a Sebes-Körös jobb part az országhatár és a Berettyó-torkolat között;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Békés megyében:
+Ecsegfalva határában a Sárréti-főcsatorna kezelése;
+Szabolcs-Szatmár-Bereg megyében:
+Nyírbéltek határában az országhatárt metsző Penészleki belvízcsatornák kezelése;
+Jász-Nagykun-Szolnok megyében:
+Tiszaörs és Tiszaigar határában a Sarkad-Mérges-Sáros-ér kezelése.
+C) Kapcsolattartás:
+Debrecen megyei jogú város, Hajdú-Bihar megye.
+10. KÖZÉP-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Jász-Nagykun-Szolnok megye – kivéve
+Jászágó,
+Jászárokszállás,
+Jászdózsa,
+Nagyiván közigazgatási területét, továbbá
+Jászberény közigazgatási területének az Ágói patak és a Tarna patak bal partjára eső részét,
+Karcag közigazgatási területének a Német-ér és a Hortobágy–Berettyó bal oldalára eső részét,
+Kunmadaras közigazgatási területének a keleti részét,
+Tiszafüred közigazgatási területének a 33. sz. közúttól északra, a karcagi közúttól és a Tiszafüredi öntöző
+főcsatornától keletre eső részét,
+Tiszaigar közigazgatási területének a Tiszafüredi öntöző főcsatornától keletre eső részét,
+Tiszaörs közigazgatási területének északkeleti részét,
+Túrkeve közigazgatási területének a Hortobágy–Berettyó bal partjára eső részét,
+Mezőtúr közigazgatási területének a Hortobágy–Berettyó, valamint a Hármas-Körös bal partjára eső részeit,
+Öcsöd közigazgatási területének a Hármas-Körös bal partjára eső részét,
+Kunszentmárton és Szelevény közigazgatási területének a Hármas-Körös bal partjára eső részét, valamint
+Tiszasas közigazgatási területének a Tisza jobb partjára eső részét.
+b) Heves megyéből:
+Átány,
+Erdőtelek,
+Heves,
+Hevesvezekény,
+Kisköre,
+Pély,
+Tarnaszentmiklós,
+Tenk,
+Tiszanána közigazgatási területe, továbbá
+Kömlő közigazgatási területének a Csincsa belvízcsatorna jobb partjára eső
+része,
+Poroszló közigazgatási területének a Kiskörei-tározó területére eső része,
+
+Sarud és Újlőrincfalva közigazgatási területének a Laskó patak és a Csincsa belvízcsatorna jobb partjára eső
+része, valamint a Kiskörei-tározó területére eső része.
+c) Békés megyéből:
+Ecsegfalva közigazgatási területének a Hortobágy–Berettyó jobb partjára eső része.
+d) Csongrád megyéből
+Csongrád város közigazgatási területének a Tisza bal partjára eső része, Szentes–Magyartés közigazgatási
+területének a Hármas-Körös jobb partjára eső része.
+e) Bács-Kiskun megyéből:
+Lakitelek,
+Szentkirály (Lászlófalva),
+Tiszakécske közigazgatási területe,
+Tiszaug közigazgatási területének a Tisza bal partjára eső része.
+f) Pest megyéből:
+Abony,
+Albertirsa,
+Cegléd,
+Ceglédbercel,
+Csemő,
+Dánszentmiklós,
+Jászkarajenő,
+Kocsér,
+Kőröstetétlen,
+Mikebuda,
+Nagykőrös,
+Nyársapát,
+Pilis,
+Tápiószőlős,
+Törtel,
+Újszilvás közigazgatási területe.
+g) Borsod-Abaúj-Zemplén megyéből:
+Tiszavalk és Tiszabábolna közigazgatási területének a Kiskörei-tározó területére eső része.
+B) Működési vonalai:
+a) folyók:
+a Tisza Tiszabábolnától Csongrád város északi közigazgatási határáig (Csongrád–Bokros) (440,0–253,8 fkm)
+186,2 km hosszban, a Kiskörei-tározó a Tisza 440,0 fkm-ig, a Zagyva a jászfelsőszentgyörgyi elbontott hídtól
+a torkolatig 83,9 km hosszban;
+b) árvízvédelmi művek:
+a Tisza jobb partja Sarudtól Lakitelek és Tiszaalpár közigazgatási határáig, a Laskó visszatöltésezett
+szakaszának jobb partja, Tisza bal part a tiszafüredi vasúti hídtól a Hármas-Körös torkolatáig, a Zagyva
+mindkét partja Jászfelsőszentgyörgy és Szolnok között, a Tápió jobb és bal partja visszatöltésezett
+szakasza Tápiógyörgyéig, a Német-éri-főcsatorna mindkét parti töltései, Hortobágy–Berettyó jobb parti
+töltése, a Német-éri-főcsatorna és a Hármas-Körös közötti szakaszon, a Hármas-Körös jobb parti szakasza
+a Hortobágy–Berettyó torkolat és a Tisza között;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Heves megyében:
+Dormánd, Füzesabony, Kál, Kompolt, Kápolna és Kerecsend határában a Hanyi belvízi főcsatorna
+vízrendszeréhez tartozó mellékcsatornák;
+Pest megyében:
+Tápiószentmárton határában a Perje-felső-, Söregi- és Kutyatejes-csatornák.
+Kiemelt vízi létesítmények:
+a Kiskörei Vízlépcső, a Kiskörei-tározó, a Nagykunsági-főcsatorna (Keleti-ág, Nyugati-ág, NK III–2),
+a Jászsági-főcsatorna.
+
+C) Kapcsolattartás:
+Szolnok megyei jogú város, Jász-Nagykun-Szolnok megye.
+11. ALSÓ-TISZA-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe:
+a) Csongrád megye – kivéve
+Csongrád város közigazgatási területének a Tisza bal partjára eső részét.
+Szentes–Magyartés közigazgatási területének a Hármas-Körös jobb partjára eső részét.
+b) Bács-Kiskun megyéből
+Balotaszállás,
+Bócsa,
+Bugac,
+Bugacpusztaháza,
+Csólyospálos,
+Fülöpjakab,
+Gátér,
+Harkakötöny,
+Jászszentlászló,
+Kecskemét,
+Kelebia,
+Kiskunfélegyháza,
+Kiskunhalas,
+Kiskunmajsa,
+Kisszállás,
+Kömpöc,
+Kunfehértó,
+Kunszállás,
+Móricgát,
+Nyárlőrinc,
+Pálmonostora,
+Petőfiszállás,
+Szank,
+Tiszaalpár,
+Tompa,
+Városföld,
+Zsana közigazgatási területe, valamint
+Tiszaug közigazgatási területének a Tisza jobb partjára eső része.
+c) Békés megyéből:
+Almáskamarás,
+Battonya,
+Békéssámson,
+Csanádapáca,
+Dombegyháza,
+Dombiratos,
+Gádoros,
+Kardoskút,
+Kaszaper,
+Kevermes,
+Kisdombegyház,
+Kunágota,
+Magyarbánhegyes,
+Magyardombegyház,
+Medgyesbodzás,
+Medgyesegyháza,
+
+Mezőhegyes,
+Mezőkovácsháza,
+Nagybánhegyes,
+Nagyszénás,
+Orosháza,
+Pusztaföldvár,
+Pusztaottlaka,
+Tótkomlós,
+Végegyháza közigazgatási területe.
+d) Jász-Nagykun-Szolnok megyéből:
+Öcsöd közigazgatási területének a Hármas-Körös bal partjára eső része,
+Kunszentmárton és Szelevény közigazgatási területének a Hármas-Körös bal partjára eső része,
+Tiszasas közigazgatási területének a Tisza jobb partjára eső része.
+B) Működési vonalai:
+a) folyók:
+a Tisza Csongrád város északi közigazgatási határától (Csongrád–Bokros) a déli országhatárig (253,8–159,6 fkm)
+94,2 km és a Maros a keleti országhatártól a torkolatig 49,6 km hosszban;
+b) árvízvédelmi művek:
+a Tisza jobb part Lakitelek és Tiszaalpár közigazgatási határa, valamint a déli országhatár közötti
+szakasza, a Dong-éri-főcsatorna torkolati szakaszának jobb és bal parti visszatöltésezése, a Tisza bal part
+a Hármas-Körös torkolattól a déli országhatárig, a Hármas-Körös bal part a Horgavölgy-ér mellékága alatti
+Darurampától a Tiszáig, a Maros mindkét parti töltés az országhatár és a torkolat között, a Sámson-Apátfalvi-
+főcsatorna jobb és bal parti töltése a Maros és a Királyhegyesi-főcsatorna között;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Békés megyében:
+Mágócs-éri-főcsatorna Csorvás közigazgatási területén,
+Bács-Kiskun megyében:
+Félegyházi-vízfolyás Helvécia közigazgatási területén.
+C) Kapcsolattartás:
+Szeged, Kecskemét, Hódmezővásárhely megyei jogú városok, Csongrád megye.
+12. KÖRÖS-VIDÉKI VÍZÜGYI IGAZGATÓSÁG
+A) Működési területe
+a) Békés megye – kivéve
+Almáskamarás,
+Battonya,
+Békéssámson,
+Bucsa,
+Csanádapáca,
+Dombegyháza,
+Dombiratos,
+Gádoros,
+Kardoskút,
+Kaszaper,
+Kevermes,
+Kisdombegyháza,
+Kunágota,
+Magyarbánhegyes,
+Magyardombegyház,
+Medgyesbodzás,
+Medgyesegyháza,
+
+Mezőhegyes,
+Mezőkovácsháza,
+Nagybánhegyes,
+Nagyszénás,
+Orosháza,
+Pusztaföldvár,
+Pusztaottlaka,
+Tótkomlós,
+Végegyháza közigazgatási területét,
+Biharugra közigazgatási területének a Sebes-Körös jobb partjára eső részét,
+Ecsegfalva közigazgatási területének a Hortobágy-Berettyó jobb partjára eső részét és a
+Hamvas-Sárréti belvízrendszer területére eső részét,
+Kőrösnagyharsány közigazgatási területének a Sebes-Körös jobb partjára eső részét, valamint
+Szeghalom közigazgatási területének a Sebes-Körös jobb partja és a Berettyó bal partja közé eső részét
+b) Jász-Nagykun-Szolnok megyéből:
+Mezőtúr közigazgatási területének a Hortobágy–Berettyó bal és a Hármas-Körös jobb partjának
+a Hortobágy–Berettyó torkolat feletti része és a Hármas-Körös bal parti része, valamint
+Túrkeve város közigazgatási területének a Hortobágy–Berettyó bal partjára eső része.
+c) Hajdú-Bihar megyéből:
+Komádi és
+Kőrösszakál közigazgatási területének a Sebes-Körös bal partjára eső része,
+Darvas közigazgatási területének a Berettyó jobb partjára, valamint
+Zsáka közigazgatási területének a Kálló-csatorna jobb partjára eső része.
+B) Működési vonalai:
+a) folyók:
+a Sebes-Körös az országhatártól a torkolatig 59 km, a Fekete-Körös az országhatártól a torkolatig 20 km,
+a Fehér-Körös az országhatártól a torkolatig 10 km, a Kettős- és Hármas-Körös teljes 37 km, illetve 91 km
+hosszban, a Hortobágy–Berettyó a torkolattól Ecsegfalva és Bucsa közigazgatási határáig 54,8 km hosszban;
+b) árvízvédelmi művek:
+a Hortobágy–Berettyó bal parti töltése a torkolattól Ecsegfalva és Bucsa közigazgatási határáig
+43 km hosszban és a Hármas-Körös jobb parti töltése a Hortobágy–Berettyó és a Sebes-Körös között,
+a Sebes-Körös jobb parti töltése a Hármas-Körös és Berettyó torkolata között, a Berettyó jobb parti töltése
+Darvas és a Sebes-Körös között, a Sebes-Körös bal parti töltése az országhatár és a Hármas-Körös között,
+a Hármas-Körös bal parti töltése a Horgavölgyi-ér mellékága alatti Darurampa és a Sebes-Körös között,
+a Kettős-Körös, a Fekete-Körös és a Fehér-Körös mindkét parti töltései, a Fehér-Körös bal parti lokalizációs
+töltés, a mérgesi és a mályvádi árvízi szükségtározók töltései, a Kisdelta szükségtározó zárótöltése
+(a Fehér-Körös jobb oldali és a Fekete-Körös bal oldali védtöltései között), a Gyulavári és Dénes-majori
+körtöltések, a Fehér-Körös és a Fekete-Körös közötti lokalizációs töltés, a Fekete-Körös és a Sebes-Körös
+közötti lokalizációs töltés, az Öcsöd-Békésszentandrási lokalizációs töltés az Alsó-Tisza-vidéki Vízügyi
+Igazgatóság határáig;
+c) kisvízfolyások, belvízcsatornák és vízilétesítmények:
+a működési területén kizárólagos állami tulajdonban lévő kisvízfolyások, csatornák, tározók, holtágak és
+az azokon lévő vízilétesítmények, ezen kívül
+Békés megyében:
+a Dögös-Kákafoki-főcsatorna Nagyszénás, Orosháza területén;
+Hajdú-Bihar megyében:
+Biharnagybajom–Nagyrábé–Darvas község határában az Ó-Berettyó-csatorna.
+
+2. melléklet a 482/2013. (XII. 17.) Korm. rendelethez
+A hatóságok elnevezése és székhelye
+ 1. Észak-dunántúli Vízügyi Hatóság, Győr
+ 2. Nyugat-dunántúli Vízügyi Hatóság, Szombathely
+ 3. Közép-dunántúli Vízügyi Hatóság, Székesfehérvár
+ 4. Dél-dunántúli Vízügyi Hatóság, Pécs
+ 5. Közép-Duna-völgyi Vízügyi Hatóság, Budapest
+ 6. Tiszántúli Vízügyi Hatóság, Debrecen
+ 7. Felső-Tisza-vidéki Vízügyi Hatóság, Nyíregyháza
+ 8. Észak-magyarországi Vízügyi Hatóság, Miskolc
+ 9. Közép-Tisza-vidéki Vízügyi Hatóság, Szolnok
+10. Alsó-Tisza-vidéki Vízügyi Hatóság, Szeged
+11. Alsó-Duna-völgyi Vízügyi Hatóság, Baja
+12. Körös-vidéki Vízügyi Hatóság, Gyula

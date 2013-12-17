@@ -1,0 +1,74 @@
+# A Kormány 477/2013. (XII. 17.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 211. szám, 2013. december 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/83600220710d1a1b98b13b79ec4a5a47d336d048/dokumentumok/da0f8dead3a34bae126cec2afb41d5ee163e646d/letoltes)
+
+---
+
+A Kormány 477/2013. (XII. 17.) Korm. rendelete
+a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a Magyar Tudományos Akadémia
+irányítása alá tartozó költségvetési szerveknél, illetve más kutató- és kutatást kiegészítő intézeteknél
+történő végrehajtásáról szóló 84/2011. (V. 26.) Korm. rendelet módosításáról
+A Kormány
+a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (3) bekezdés e) pont ea) alpontjában,
+a 2. § tekintetében a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés a) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+ A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a Magyar Tudományos Akadémia irányítása alá
+tartozó költségvetési szerveknél, illetve más kutató- és kutatást kiegészítő intézeteknél történő végrehajtásáról
+szóló 84/2011. (V. 26.) Korm. rendelet (a továbbiakban: Rendelet) 2. §-a helyébe a következő rendelkezés lép:
+„2. § A munkáltatónál magasabb vezető és vezető megbízással rendelkező, illetve a pénzügyi kötelezettségvállalásra
+jogosult vezetői megbízással nem rendelkező közalkalmazottak esetében a magyar nyelv tudása alkalmazási
+feltétel.”
+2. §
+ A Rendelet 10. §-a helyébe a következő rendelkezés lép:
+„10. § (1) A tudományos munkakörbe történő besoroláshoz legalább a nemzeti felsőoktatásról szóló törvény szerinti
+mesterfokozat szükséges.
+(2) Kutatóprofesszor elnevezésű tudományos munkakörbe kell besorolni az MTA rendes és levelező tagját.
+(3) Tudományos tanácsadó elnevezésű munkakörbe
+a) kell besorolni az MTA doktora tudományos címmel vagy a Magyar Tudományos Akadémiáról szóló 1994. évi
+XL. törvény (a továbbiakban: MTAtv.) 8. § (5) bekezdésében foglaltak alapján az MTA doktora címmel egyenértékűnek
+tekintett „tudomány(ok) doktora” tudományos fokozattal rendelkező személyt,
+b) lehet besorolni a habilitált személyt, valamint a nem akadémiai munkáltatónál – jogszabály vagy belső szabályzat
+alapján létrehozott intézményi tudományos tanács elbírálása alapján – azt a személyt, aki
+ba) rendelkezik doktori fokozattal vagy azzal egyenértékű tudományos fokozattal (a továbbiakban együtt: tudományos
+fokozat),
+bb) a tudományos főmunkatársi besorolási feltételek teljesítésén túl az adott tudományterület olyan nemzetközileg
+elismert képviselője, aki folyamatosan kiemelkedő tudományos kutatói munkásságot fejtett ki,
+bc) a kutatásban szerzett tapasztalatai alapján alkalmas tudományos segédmunkatársak tudományos munkájának,
+valamint kutatási projekteknek a vezetésére, valamint
+bd) idegen nyelven tart előadásokat és publikál.
+(4) Tudományos főmunkatárs elnevezésű munkakörbe kell besorolni a tudományos fokozattal és tudományos
+munkatárs vagy – felsőoktatási intézményben – azzal egyenértékű oktatói munkakörben szerzett legalább hatéves
+kutatói gyakorlattal rendelkező személyt, ha
+a) a kutatóintézet tudományos főmunkatársi minősítő eljárását
+aa) akadémiai munkáltatónál az MTAtv. 18. § (2) bekezdése szerinti tudományos tanács vagy
+ab) nem akadémiai munkáltatónál jogszabály vagy belső szabályzat alapján létrehozott intézményi tudományos
+tanács
+elbírálása alapján sikerrel teljesítette,
+b) alkalmas a tudományos segédmunkatársak tudományos munkájának irányítására, valamint
+c) alkalmas arra, hogy idegen nyelven előadást tartson.
+
+(5) Tudományos munkatárs elnevezésű munkakörbe kell besorolni a tudományos fokozattal rendelkező személyt, ha
+a munkáltató által a munkakörre előírt alkalmazási feltételnek megfelel és kutatói vagy – felsőoktatási intézményben –
+azzal egyenértékű oktatói munkakörben szerzett legalább hároméves kutatói gyakorlattal rendelkezik.
+(6) Tudományos segédmunkatárs elnevezésű munkakörbe kell besorolni azt a közalkalmazottat, aki
+a kutatómunkában irányítással vesz részt és a nemzeti felsőoktatásról szóló törvény szerint doktorandusz vagy
+doktorjelölt jogviszonyt létesített.
+(7) Tudományos kutatói munkakörben vendégkutatóként alkalmazható a külföldi állam joga szerint tudományos
+fokozat kiállítására jogosult intézmény által odaítélt tudományos fokozatot tanúsító oklevéllel rendelkező azon
+személy,
+a) aki akadémiai munkáltatónál a munkáltató alaptevékenységi köréhez kapcsolódó kutatási feladat ellátására
+közalkalmazotti jogviszonyt létesít és
+b) akinek a külföldi állam joga szerint tudományos fokozat kiállítására jogosult intézmény által odaítélt tudományos
+fokozatának a Magyarországon megszerezhető tudományos fokozatnak való megfelelőségét az MTA az a) pont
+alapján létesített jogviszony tekintetében, az akadémiai munkáltatóra vonatkozó hatállyal elismeri.
+(8) A (2)–(5) bekezdésben meghatározott tudományos kutatói munkakör szerinti besorolási feltételektől nem lehet
+eltérni.
+(9) A (2)–(5) bekezdésben meghatározott tudományos kutatói munkakörben a kutatói gyakorlati idő csak abban
+az esetben vehető figyelembe, ha a közalkalmazott kutatói munkaterv szerint tevékenykedett és rendszeresen
+publikált.”
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
