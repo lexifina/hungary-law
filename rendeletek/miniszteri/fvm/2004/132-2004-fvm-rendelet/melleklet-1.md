@@ -1,4 +1,4 @@
-1. számú melléklet a 132/2004. (IX. 11.) FVM rendelethez[^37]
+1. számú melléklet a 132/2004. (IX. 11.) FVM rendelethez[^39]
 
 ## Az erdőtelepítési első kivitel normatív alaptámogatása
 
@@ -160,4 +160,4 @@ A tűzpászták szélessége 3–4 méter, területük az erdősítés terület�
 
 A támogatható tűzpászták hosszát kérelmenként az elbíráló határozza meg a területek méretének, tűzvédelmi besorolásának figyelembevételével.
 
-[^37]: Az 1. számú melléklet a 40/2005. (IV. 27.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg, e módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^39]: Az 1. számú melléklet a 40/2005. (IV. 27.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg, e módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

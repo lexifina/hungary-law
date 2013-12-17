@@ -16,7 +16,7 @@
 
 ## * Kedvezőtlen adottságú terület – 137/2004. (IX. 18.) FVM rendelet 2. és 3. számú melléklete alapján.
 
-5. számú melléklet a 132/2004. (IX. 11.) FVM rendelethez[^39]
+5. számú melléklet a 132/2004. (IX. 11.) FVM rendelethez[^41]
 
 A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására és ellenőrzésére vonatkozó szempontok
 
@@ -30,7 +30,7 @@ A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására é
 
 | 4. | Egyéni vállalkozó esetében, a támogatási kérelem benyújtásának évében érvényes olyan vállalkozói igazolvány, amely a 2. § i) pontja szerinti mezőgazdasági tevékenységet tartalmaz. |
 
-| 5. | bejelentett munkahellyel rendelkezik, ahol nem mezőgazdasági tevékenységet végez | Munkáltatói igazolás arról, hogy hány órás munkaviszonnyal rendelkezik. Maximum 30 órás foglalkoztatás mellett fogadható el a mezőgazdasági tevékenységre fordított 50%-os időfelhasználás. |
+| 5. | bejelentett munkahellyel rendelkezik, ahol nem mezőgazdasági tevékenységet végez | Munkáltatói igazolás arról, hogy hány órás munkaviszonnyal rendelkezik. Maximum heti 30 órás foglalkoztatás mellett fogadható el a mezőgazdasági tevékenységre fordított 50%-os időfelhasználás. |
 
 | 6. | bejelentett munkahellyel rendelkezik, ahol mezőgazdasági tevékenységet végez | Mezőgazdasági tevékenységet (munkakört) igazoló munka szerződés másolata. |
 
@@ -40,9 +40,9 @@ A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására é
 
 | 9. | A 25%-os arány ellenőrzésének alapja: |
 
-| 10. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője veszi fel a támogatást, a családi gazdaság teljes bevételét figyelembe kell venni, amely a családi gazdálkodó, valamint a tagok által az előző évről készített személyi jövedelemadó bevallások „adóalapba beszámító bevételek” sorain szereplő értékek együttes összege. |
+| 10. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője veszi fel a támogatást, a családi gazdaság teljes bevételét figyelembe kell venni, amely a családi gazdálkodó, valamint a tagok által a támogatási kérelem benyújtásának évéről készített személyi jövedelemadó bevallások „adóalapba beszámító bevételek” sorain szereplő értékek együttes összege. |
 
-| 11. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője veszi fel a támogatást, és egyúttal a családi gazdaságától elkülönült, mezőgazdasági tevékenységet is folytat, a családi gazdaság teljes bevételét, valamint az elkülönült tevékenységből származó bevételeit összevontan kell figyelembe venni, amely az előző évről készített személyi jövedelemadó bevallás „adóalapba beszámító bevételek” során szereplő érték. |
+| 11. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője veszi fel a támogatást, és egyúttal a családi gazdaságától elkülönült, mezőgazdasági tevékenységet is folytat, a családi gazdaság teljes bevételét, valamint az elkülönült tevékenységből származó bevételeit összevontan kell figyelembe venni, amely a támogatási kérelem benyújtásának évéről készített személyi jövedelemadó bevallás „adóalapba beszámító bevételek” során szereplő érték. |
 
 | 12. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője a családi gazdaságától elkülönülten, tehát nem családi gazdálkodói minőségében végzett mezőgazdasági tevékenységei után igényli a támogatást, akkor az adható támogatás megállapításánál a családi gazdaság bevételének azon része nem vehető figyelembe, amely nem mezőgazdasági tevékenységnek minősül. A családi gazdaságnak a mezőgazdasági tevékenysége utáni gazdasági bevétele és az elkülönült tevékenység utáni bevétel nem adható össze. |
 
@@ -54,7 +54,7 @@ A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására é
 
 | 16. | Ha a közös őstermelői tevékenységet folytató személy a közös gazdaságától elkülönülten végzett, a támogatás szempontjából jogosult tevékenységei után igényli a támogatást (tehát nem közös mezőgazdasági őstermelői minőségében), akkor az adható támogatás megállapításánál a közös mezőgazdasági őstermelői bevételének azon része nem vehető figyelembe, amely a támogatás szempontjából nem jogosult tevékenységnek minősül. A közös mezőgazdasági őstermelő esetén a támogatási szempontból jogosult tevékenysége utáni gazdasági bevétel és az elkülönült tevékenység utáni bevétel nem adható össze. |
 
-| 17. | Ha a gazdasági társaság igényli a támogatást, akkor az adható támogatás megállapításánál kizárólag a 2. § i) pontja szerinti mezőgazdasági tevékenységből származó bevételei vehetők figyelembe, amelyet az előző évről készített társasági adóbevallásban, a társasági adóról szóló 1996. évi LXXXI. törvény 4. § 29. pontja alapján meghatározott „összes bevétel” során szereplő értékhez kell viszonyítani. |
+| 17. | Ha a gazdasági társaság igényli a támogatást, akkor az adható támogatás megállapításánál kizárólag a 2. § i) pontja szerinti mezőgazdasági tevékenységből származó bevételei vehetők figyelembe, amelyet a támogatási kérelem benyújtásának évéről készített társasági adóbevallásban, a társasági adóról szóló 1996. évi LXXXI. törvény 4. § 29. pontja alapján meghatározott „összes bevétel” során szereplő értékhez kell viszonyítani. |
 
 | 18. | A mezőgazdasági tevékenységből származó jövedelem és a teljes jövedelem arányának megállapítása során | nem vehető mezőgazdasági tevékenységből származó bevételként figyelembe: | Az Szja tv. szerinti költségek fedezetére vagy fejlesztési célra folyósított támogatás, és e rendelet szerinti támogatás. |
 
@@ -64,4 +64,4 @@ A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására é
 
 | 21. |  |  | Minden olyan dokumentum, amely hitelt érdemlően alátámasztja az ügyfél támogatási kérelemben tett azon nyilatkozatát, miszerint jövedelmének a támogatási kérelem benyújtása évében több mint 25%-a a 2. § i) pontja szerinti mezőgazdasági tevékenységből származott. Ilyen dokumentum lehet egyéb dokumentum mellett a személyi jövedelemadó bevallás, a társasági adó bevallás, őstermelő esetében az értékesítési betétlap. |
 
-[^39]: Az 5. számú mellékletet a 18/2013. (III. 21.) VM rendelet 2. § (5) bekezdése iktatta be.
+[^41]: Az 5. számú mellékletet a 18/2013. (III. 21.) VM rendelet 2. § (5) bekezdése iktatta be, szövege a 121/2013. (XII. 16.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.

@@ -6,6 +6,6 @@
 
 | Jövedelempótló támogatási időszak (év) | 20 | 20 | 15 | 10 | 10 | 10 |
 
-4. számú melléklet a 132/2004. (IX. 11.) FVM rendelethez[^38]
+4. számú melléklet a 132/2004. (IX. 11.) FVM rendelethez[^40]
 
-[^38]: A 4. számú melléklet a 40/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^40]: A 4. számú melléklet a 40/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
