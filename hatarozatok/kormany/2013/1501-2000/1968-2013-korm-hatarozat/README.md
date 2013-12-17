@@ -1,0 +1,9 @@
+# 1968/2013. (XII. 17.) Korm. határozat
+
+a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1968-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2013-12-17 | 2013-1968-30-22.1 | 1968/2013. (XII. 17.) Korm. határozat |
