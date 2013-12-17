@@ -42,7 +42,7 @@
 
 | 15. | Mindösszesen (I.+II.): |  | 100 pont |
 
-6. melléklet a 43/2012. (V. 3.) VM rendelethez[^15]
+6. melléklet a 43/2012. (V. 3.) VM rendelethez[^18]
 
 A Natura 2000 fenntartási tervekhez kapcsolódó kifizetési kérelemben a támogatási jogosultság megállapításához benyújtandó dokumentumok
 
@@ -78,4 +78,4 @@ II.5. gépkocsihasználat elszámolása:
 
 a szervezet által bérelt gépjármű, cégautó: üzemanyag számla és menetlevél másolata, havonta a használt gépjármű vagy gépjárművek nyitó és záró kilométeróra állásának megadása, valamint a leszámlázott üzemanyagköltség elismerhető mértékének kimutatására a számla és menetlevél mellé számítást kell készíteni a norma szerint elszámolható üzemanyag mennyiségéről, és azt mellékelni kell az elszámoláshoz.
 
-[^15]: A 6. mellékletet a 126/2012. (XII. 12.) VM rendelet 9. § (15) bekezdése iktatta be.
+[^18]: A 6. mellékletet a 126/2012. (XII. 12.) VM rendelet 9. § (15) bekezdése iktatta be.
