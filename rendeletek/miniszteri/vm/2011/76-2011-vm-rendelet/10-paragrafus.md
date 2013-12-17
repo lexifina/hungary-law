@@ -30,7 +30,7 @@ c) a harmadik évben a beruházás megvalósítása érdekében jóváhagyott el
 
 a) a Vhr. 20. § (3) bekezdésétől eltérően – ha az ügyfél működési támogatást is igénybe vesz – az utolsó kifizetési kérelem benyújtása előtt kifizethető a támogatási határozattal jóváhagyott támogatási összeg 80%-át meghaladó összeg;
 
-b)[^8] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó beruházási kifizetési kérelem benyújtásától számított öt évig tart kivéve, ha a 2. § (1) bekezdés a) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 4. melléklet g) pontjában meghatározott elszámolható kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
+b)[^9] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó beruházási kifizetési kérelem benyújtásától számított öt évig tart kivéve, ha a 2. § (1) bekezdés a) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 4. melléklet g) pontjában meghatározott elszámolható kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
 
 c) a Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható;
 
@@ -40,4 +40,4 @@ d) a Vhr. 20. § (4) bekezdésében foglaltakat – ha az ügyfél működési t
 
 (9) A 4. melléklet a)–b) pontjaihoz kapcsolódó fejlesztések esetén a pályázathoz csatolni kell a tervezett fejlesztés településen belüli elhelyezkedését bemutató térképrészletet.
 
-[^8]: A 10. § (7) bekezdés b) pontja a 35/2012. (IV. 13.) VM rendelet 9. §-ával megállapított szöveg.
+[^9]: A 10. § (7) bekezdés b) pontja a 35/2012. (IV. 13.) VM rendelet 9. §-ával megállapított szöveg.

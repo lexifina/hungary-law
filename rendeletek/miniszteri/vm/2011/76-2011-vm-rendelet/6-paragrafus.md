@@ -46,6 +46,6 @@ b) amennyiben a pályázathoz pénzügyi tervet és üzleti tervet vagy működt
 
 ## is figyelembe kell venni.
 
-(9)[^7] Ültetvénytelepítés esetében, eltérően a Vhr. 3. § 29. pontjától, a beruházás befejezése a támogatott tevékenységek megvalósítása.
+(9)[^8] Ültetvénytelepítés esetében, eltérően a Vhr. 3. § 29. pontjától, a beruházás befejezése a támogatott tevékenységek megvalósítása.
 
-[^7]: A 6. § (9) bekezdését a 35/2012. (IV. 13.) VM rendelet 8. §-a iktatta be.
+[^8]: A 6. § (9) bekezdését a 35/2012. (IV. 13.) VM rendelet 8. §-a iktatta be.

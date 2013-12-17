@@ -6,7 +6,7 @@
 
 2. célterület katalógus: a pályázati felhívásban szereplő, a LEADER Helyi Akciócsoport illetékességi területére meghatározott speciális támogatási feltételeket előíró célterületeket tartalmazó elektronikus gyűjtemény;
 
-3. egyházi jogi személy: a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló törvény szerinti egyházi jogi személy;
+3.[^1]
 
 4. építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározottak szerint;
 
@@ -14,7 +14,7 @@
 
 6. Helyi Bíráló Bizottság (a továbbiakban: HBB): a LEADER Helyi Akciócsoport elnöksége, ügyvezető testülete, igazgatósága, vagy a tagjai többségének támogató szavazatával tagjai közül létrehozott testület, amely a LEADER Helyi Akciócsoporthoz a LEADER terv és az ÚMVP III. tengelye, külön jogcímrendeletben meghatározott intézkedéseire, a LEADER Helyi Akciócsoport Helyi Vidékfejlesztési Stratégiájában foglalt célterületekben megfogalmazott feltételek szerint beérkezett projekt javaslatokat – a LEADER Helyi Akciócsoport által meghatározottak szerint – a Helyi Vidékfejlesztési Stratégiához való illeszkedés szempontjából vizsgálja és azokról dönt;
 
-7.[^1] helyi termék: a LEADER Helyi Akciócsoport illetékességi területén honos, vagy ott megtermelt, előállított termék, vagy a LEADER Helyi Akciócsoport által – az adott célterületében – helyi termékként meghatározott hagyományos termék;
+7.[^2] helyi termék: a LEADER Helyi Akciócsoport illetékességi területén honos, vagy ott megtermelt, előállított termék, vagy a LEADER Helyi Akciócsoport által – az adott célterületében – helyi termékként meghatározott hagyományos termék;
 
 8. Helyi Vidékfejlesztési Stratégia (a továbbiakban: HVS): az előzetesen elismert helyi vidékfejlesztési akciócsoportnak, illetve új Helyi Akciócsoportnak, és az ÚMVP Irányító Hatósága (a továbbiakban: IH) által elismert LEADER Helyi Akciócsoportnak az illetékességi területére kidolgozott és – az IH által meghatározott időközönként – aktualizált és az IH által jóváhagyott fejlesztési stratégiája;
 
@@ -48,7 +48,7 @@
 
 23. önálló tevékenységet végző magánszemély: a mezőgazdasági őstermelő, és a művészeti tevékenységet folytató magánszemélyek egyes költségeiről szóló rendeletben felsorolt tevékenységet végző, művészeti tevékenységet folytató magánszemély;
 
-24.[^2] pályázati felhívás: e rendelet alapján igénybe vehető támogatások feltételeit tartalmazó, legkésőbb a benyújtási időszak első napját megelőző 60. napon, külön IH közleményben közzétett pályázati felhívás, amely tartalmazza a LEADER HACS által az illetékességi területéről benyújtott projektjavaslatokra vonatkozó, a HBB vagy LEADER HACS címmel rendelkező ügyfél esetében az IH döntésének alapjául szolgáló illeszkedési kritériumokat, valamint a támogatás igénybevételének részletes feltételeit szabályozó célterület katalógust;
+24.[^3] pályázati felhívás: e rendelet alapján igénybe vehető támogatások feltételeit tartalmazó, legkésőbb a benyújtási időszak első napját megelőző 60. napon, külön IH közleményben közzétett pályázati felhívás, amely tartalmazza a LEADER HACS által az illetékességi területéről benyújtott projektjavaslatokra vonatkozó, a HBB vagy LEADER HACS címmel rendelkező ügyfél esetében az IH döntésének alapjául szolgáló illeszkedési kritériumokat, valamint a támogatás igénybevételének részletes feltételeit szabályozó célterület katalógust;
 
 25. projekt: a 2. § (1) bekezdésében meghatározott jogcímek és a pályázati felhívásban meghatározott feltételek alapján megvalósításra kerülő fejlesztés, beruházás, vagy tevékenység, amely a LEADER HACS által kialakított célterületekben foglalt fejlesztési célok megvalósulásához járul hozzá;
 
@@ -64,10 +64,11 @@
 
 31. vonalas létesítmény: eső- és szennyvízelvezető, eső- és szennyvízgyűjtő, csatorna és árok, külső telekommunikációs hálózat, beleértve a csatlakozási pontot is;
 
-32.[^3] IH eljárás: LEADER HACS címmel rendelkező ügyfél esetében az ügyfél által benyújtott projektjavaslatok HVS-hez való illeszkedésének vizsgálata érdekében lefolytatott eljárás;
+32.[^4] IH eljárás: LEADER HACS címmel rendelkező ügyfél esetében az ügyfél által benyújtott projektjavaslatok HVS-hez való illeszkedésének vizsgálata érdekében lefolytatott eljárás;
 
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), valamint az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) szereplő szabályokat kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdés 7. pontja a 90/2011. (X. 3.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés 24. pontja a 88/2011. (IX. 2.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés 32. pontját a 88/2011. (IX. 2.) VM rendelet 5. § (2) bekezdése iktatta be.
+[^1]: Az 1. § (1) bekezdés 3. pontját a 121/2013. (XII. 16.) VM rendelet 19. § (4) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés 7. pontja a 90/2011. (X. 3.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 24. pontja a 88/2011. (IX. 2.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 32. pontját a 88/2011. (IX. 2.) VM rendelet 5. § (2) bekezdése iktatta be.
