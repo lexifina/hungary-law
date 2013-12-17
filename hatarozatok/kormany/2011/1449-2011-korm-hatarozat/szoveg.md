@@ -26,7 +26,7 @@ Felelős: nemzeti fejlesztési miniszter, a 2–4. pontokban meghatározott fela
 
 Határidő: 2012. június 30.
 
-Melléklet az 1449/2011. (XII. 22.) Korm. határozathoz
+Melléklet az 1449/2011. (XII. 22.) Korm. határozathoz[^1]
 
 Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
@@ -62,7 +62,7 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 
 | 15. | Cserszegtomaj Község Önkormányzata | Cserszegtomaj 372 1/1 | kivett beépítetlen terület | helyi közutak és közterületek fenntartása/ közút kialakítása | 34 |
 
-| 16. | Eger Megyei Jogú Város Önkormányzata | Eger 3827/1 1/1 | kivett épület, udvar (6 db épület) | szociális és gyermekjóléti ellátás biztosítása/ diákétkeztetés, központi konyha működtetése | 9001 |
+| 16. | Eger Megyei Jogú Város Önkormányzata | Eger 3827/1 1/1 | kivett épület, udvar (6 db épület) | kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; a helyi közművelődési tevékenység támogatása; szociális, gyermekjóléti szolgáltatások és ellátások; lakás- és helyiséggazdálkodás; sport, ifjúsági ügyek | 9001 |
 
 | 17. | Eger Megyei Jogú Város Önkormányzata | Eger 3827/3 1/1 | kivett sportpálya | sport- és szabadidős tevékenység gyakorlása | 16824 |
 
@@ -137,3 +137,5 @@ Helyi önkormányzatok részére ingyenesen átadandó ingatlanok
 | 52. | Sződ Község Önkormányzata | Sződ 0246/4 1/1 | kivett gázvezeték | helyi energiaszolgáltatás biztosítása/ gáz-nyomásszabályozó állomás működtetése | 248 |
 
 | 53. | Törökbálint Város Önkormányzata | Törökbálint 03/12 1/1 | kivett út | útfelújítás, csapadékvíz-elvezetés | 2979 |
+
+[^1]: A melléklet az 1957/2013. (XII. 17.) Korm. határozat 1. pontja szerint módosított szöveg.
