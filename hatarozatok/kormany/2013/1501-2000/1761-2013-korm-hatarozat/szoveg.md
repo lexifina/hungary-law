@@ -1,14 +1,14 @@
 A Kormány a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 41. § (2) bekezdése alapján a 2014-ben a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatásban az új belépő létszámkeretet az alábbiak szerint határozza meg:
 
-| Képzési szint, képzési ág | Támogatásban* részesülők létszáma | Önköltség fizetési kötelezettséggel felvehető létszám |
+| „Képzési szint, képzési ág | Támogatásban* részesülők létszáma | Önköltség fizetési kötelezettséggel felvehető létszám |
 
 | fő |
 
-| a) | alapképzésre felvehető hallgatók létszáma | 1542 | 675 |
+| a) | alapképzésre felvehető hallgatók létszáma | 1542 | 720 |
 
 | ebből |
 
-| közigazgatási felsőoktatásban | 730 | 490 |
+| közigazgatási felsőoktatásban | 730 | 535 |
 
 | rendészeti felsőoktatásban | 657 | 120 |
 
@@ -16,11 +16,11 @@ A Kormány a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, re
 
 | nemzetbiztonsági felsőoktatásban | 25 | – |
 
-| b) | mesterképzésre felvehető hallgatók létszáma | 495 | 385 |
+| b) | mesterképzésre felvehető hallgatók létszáma | 495 | 340 |
 
 | ebből |
 
-| közigazgatási felsőoktatásban | 225 | 330 |
+| közigazgatási felsőoktatásban | 225 | 285 |
 
 | rendészeti felsőoktatásban | 100 | – |
 
