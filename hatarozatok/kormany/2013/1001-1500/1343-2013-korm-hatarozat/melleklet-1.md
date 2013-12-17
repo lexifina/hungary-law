@@ -14,7 +14,7 @@
 
 ## Felelős: belügyminiszter, nemzeti fejlesztési miniszter
 
-## Határidő: 2013. november 30.
+## Határidő: a belügyminiszter tekintetében 2013. november 30., a nemzeti fejlesztési miniszter tekintetében 2014. június 30.[^2]
 
 1. melléklet az 1343/2013. (VI. 17.) Korm. határozathoz
 
@@ -125,3 +125,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A határozat az 1968/2013. (XII. 17.) Korm. határozat 8. pontja szerint módosított szöveg.
