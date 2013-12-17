@@ -32,7 +32,7 @@ a) a Vhr. 20. § (3) bekezdésétől eltérően, ha az ügyfél működési tám
 
 b) a Vhr. 27. § (1) bekezdés g) pontjától eltérően a tradicionális eszköz beszerzése esetében nem szükséges két árajánlat becsatolása, a támogatási összeg megállapítása egyedi elbírálás alapján, szükség esetén szakértő által megállapított értéken történik,
 
-c)[^2] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó kifizetési kérelem benyújtásától számított öt évig tart, kivéve, ha a 3. § (1) bekezdés a) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 3. § (1) bekezdés a) pontjához a pályázati felhívásban meghatározott marketing kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
+c)[^3] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó kifizetési kérelem benyújtásától számított öt évig tart, kivéve, ha a 3. § (1) bekezdés a) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 3. § (1) bekezdés a) pontjához a pályázati felhívásban meghatározott marketing kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
 
 d) a Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás, fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható,
 
@@ -42,15 +42,15 @@ e) a Vhr. 20. § (4) bekezdésében foglaltakat – ha az ügyfél működési t
 
 a) a Vhr. 27. § (1) bekezdés g) pontjától eltérően a tradicionális eszköz beszerzése esetében nem szükséges két árajánlat becsatolása, a támogatási összeg megállapítása egyedi elbírálás alapján, szükség esetén szakértő által megállapított értéken történik,
 
-b)[^3] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó kifizetési kérelem benyújtásától számított öt évig tart, kivéve, ha a 3. § (1) bekezdés b) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 3. § (1) bekezdés b) pontjához a pályázati felhívásban meghatározott marketing kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
+b)[^4] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó kifizetési kérelem benyújtásától számított öt évig tart, kivéve, ha a 3. § (1) bekezdés b) pontja szerinti jogcím esetében a támogatási határozattal jóváhagyott művelet kizárólag a 3. § (1) bekezdés b) pontjához a pályázati felhívásban meghatározott marketing kiadásokat foglalja magában, mert ebben az esetben a támogatási határozatban jóváhagyott műveletre az üzemeltetési időszakra vonatkozó rendelkezéseket nem kell alkalmazni.
 
 c) a Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás, fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
 
-(9)[^4] A 3. § (1) bekezdés c)–g) pontjában meghatározott jogcím keretében megvalósuló támogatás esetében a Vhr. 23. § (1) bekezdés b) pontjában meghatározott rendelkezést nem kell alkalmazni.
+(9)[^5] A 3. § (1) bekezdés c)–g) pontjában meghatározott jogcím keretében megvalósuló támogatás esetében a Vhr. 23. § (1) bekezdés b) pontjában meghatározott rendelkezést nem kell alkalmazni.
 
-(10)[^5] A 3. § (1) bekezdés c)–g) pontjában meghatározott jogcímek esetében a Vhr. 24. § (1) bekezdését nem kell alkalmazni.
+(10)[^6] A 3. § (1) bekezdés c)–g) pontjában meghatározott jogcímek esetében a Vhr. 24. § (1) bekezdését nem kell alkalmazni.
 
-[^2]: A 7. § (7) bekezdés c) pontja a 35/2012. (IV. 13.) VM rendelet 3. §-ával megállapított szöveg.
-[^3]: A 7. § (8) bekezdés b) pontja a 35/2012. (IV. 13.) VM rendelet 4. §-ával megállapított szöveg.
-[^4]: A 7. § (9) bekezdését a 35/2012. (IV. 13.) VM rendelet 5. §-a iktatta be.
-[^5]: A 7. § (10) bekezdését a 35/2012. (IV. 13.) VM rendelet 5. §-a iktatta be.
+[^3]: A 7. § (7) bekezdés c) pontja a 35/2012. (IV. 13.) VM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 7. § (8) bekezdés b) pontja a 35/2012. (IV. 13.) VM rendelet 4. §-ával megállapított szöveg.
+[^5]: A 7. § (9) bekezdését a 35/2012. (IV. 13.) VM rendelet 5. §-a iktatta be.
+[^6]: A 7. § (10) bekezdését a 35/2012. (IV. 13.) VM rendelet 5. §-a iktatta be.

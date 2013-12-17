@@ -20,7 +20,7 @@ g) HVS LEADER része (a továbbiakban: LEADER terv): a HVS azon része, amely az
 
 h) nonprofit szervezet: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény (a továbbiakban: Kht.) 2. § (1) bekezdés a), b), c), g), valamint k) pontja szerinti szervezet, továbbá az egyesülési jogról szóló törvény alapján létrehozott egyesület,
 
-i) egyházi jogi személy: a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 13. § (2) és (3) bekezdése szerint megalakult jogi személy,
+i)[^2]
 
 j) hátrányos helyzetű terület: a kedvezményezett térségek besorolásáról szóló 311/2007. (XI. 17.) Korm. rendelet 2. mellékletében foglalt leghátrányosabb helyzetű kistérségek, valamint az ezekkel azonos elbánásban részesülő, a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendelet mellékletében meghatározott települések,
 
@@ -47,3 +47,4 @@ t) tradicionális eszköz: a hagyományos népi kultúra, szellemi örökség á
 (2) Az e rendeletben, valamint a pályázati felhívásban nem szabályozott kérdések vonatkozásában a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), valamint az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) szereplő, a kérelemre és a kérelmezőre vonatkozó szabályokat kell alkalmazni.
 
 [^1]: A 2. § (1) bekezdés c) pontja a 13/2010. (VIII. 30.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés i) pontját a 121/2013. (XII. 16.) VM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
