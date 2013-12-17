@@ -1,6 +1,6 @@
 ## 8. A kifizetési kérelem benyújtása
 
-15. § (1)[^3]
+15. § (1)[^5]
 
 (2) A kifizetési kérelem
 
@@ -32,7 +32,7 @@ c) a 2. § (1) bekezdés d) pont db) alpontjában meghatározott fejlesztések e
 
 d) a turisztikai szakmai szervezeti tagság igazolását.
 
-(4)[^4]
+(4)[^6] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
 
-[^3]: A 15. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte.
-[^4]: A 15. § (4) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte.
+[^5]: A 15. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte.
+[^6]: A 15. § (4) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 18. § (2) bekezdése iktatta be.

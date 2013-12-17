@@ -1,4 +1,4 @@
-## A turisztikai tevékenységek ösztönzéséhez nyújtott támogatás esetén a fejlesztéssel érintett települések (5000 fő lakosságszám vagy 100 fő/km2 népsűrűség alatti települések kül- és belterületei kivéve a Budapest agglomerációjához tartozó településeket, a városi ranggal rendelkező településeket, valamint a kistérségi központokat).[^9]
+## A turisztikai tevékenységek ösztönzéséhez nyújtott támogatás esetén a fejlesztéssel érintett települések (5000 fő lakosságszám vagy 100 fő/km2 népsűrűség alatti települések kül- és belterületei kivéve a Budapest agglomerációjához tartozó településeket, a városi ranggal rendelkező településeket, valamint a kistérségi központokat).[^13]
 
 ## Abaliget
 
@@ -5744,4 +5744,4 @@ Vámospércs
 
 Zalaegerszeg
 
-[^9]: A 4. melléklet címe a 76/2011. (VII. 29.) VM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^13]: A 4. melléklet címe a 76/2011. (VII. 29.) VM rendelet 27. § (1) bekezdésével megállapított szöveg.

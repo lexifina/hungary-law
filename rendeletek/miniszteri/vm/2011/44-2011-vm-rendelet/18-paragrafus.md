@@ -1,4 +1,4 @@
-## 17/A. §[^5] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához 2011-től nyújtandó támogatások részletes feltételeiről szóló 76/2011. (VII. 29.) VM rendelettel (a továbbiakban: 1. módosító rendelet) megállapított 1. melléklet I–II. pontját és III. pont A) alpontját az 1. módosító rendelet hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
+## 17/B. §[^9] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 15. § (4) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^5]: A 17/A. §-t a 76/2011. (VII. 29.) VM rendelet 28. §-a iktatta be.
-[^6]: A hatálybalépés napja: 2011. július 30.
+[^9]: A 17/B. §-t a 121/2013. (XII. 16.) VM rendelet 18. § (3) bekezdése iktatta be.
+[^10]: A hatálybalépés időpontja 2013. december 17.
