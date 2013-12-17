@@ -1,127 +1,266 @@
 1. melléklet a 117/2013. (XII. 13.) VM rendelethez
 
-1. Az R. 1. melléklete 8. pont 8.4. és 8.6. alpontja helyébe a következő rendelkezések lépnek:
+1.[^4]
 
-„8.4. Kapuvári Járási Hivatal Járási Földhivatala (székhelye: Kapuvár)
+2.[^5] Az R. 1. melléklete 8. pont 8.1–8.3. és 8.5. alpontja helyébe a következő rendelkezések lépnek:
 
-Babót
+„8.1. Csornai Járási Hivatal Járási Földhivatala (székhelye: Csorna)
 
-Beled
+Acsalag
 
-Cirák
+Barbacs
 
-Dénesfa
+Bágyogszovát
 
-Edve
+Bodonhely
 
-Gyóró
+Bogyoszló
 
-Himod
+Bősárkány
 
-Hövej
+Cakóháza
 
-Kapuvár
+Csorna
 
-Kisfalud
+Dör
 
-Mihályi
+Egyed
 
-Osli
+Farád
 
-Rábakecöl
+Jobaháza
 
-Répceszemere
+Kóny
 
-Szárföld
+Maglóca
 
-Vadosfa
+Magyarkeresztúr
 
-Vásárosfalu
+Markotabödöge
 
-Veszkény
+Páli
 
-Vitnyéd
+Pásztori
 
-8.6. Soproni Járási Hivatal Járási Földhivatala (székhelye: Sopron)
+Potyond
 
-Agyagosszergény
+Rábacsanak
 
-Ágfalva
+Rábapordány
 
-Csapod
+Rábasebes
 
-Csáfordjánosfa
+Rábaszentandrás
 
-Csér
+Rábatamási
 
-Ebergőc
+Rábcakapi
 
-Egyházasfalu
+Sobor
 
-Fertőboz
+Sopronnémeti
 
-Fertőd
+Szany
 
-Fertőendréd
+Szil
 
-Fertőhomok
+Szilsárkány
 
-Fertőrákos
+Tárnokréti
 
-Fertőszentmiklós
+Vág
 
-Fertőszéplak
+Zsebeháza
 
-Gyalóka
+8.2. Győri Járási Hivatal Járási Földhivatala (székhelye: Győr)
 
-Harka
+Abda
 
-Hegykő
+Bakonygyirót
 
-Hidegség
+Bakonypéterd
 
-Iván
+Bakonyszentlászló
 
-Kópháza
+Bezi
 
-Lövő
+Bőny
 
-Nagycenk
+Börcs
 
-Nagylózs
+Dunaszeg
 
-Nemeskér
+Dunaszentpál
 
-Pereszteg
+Enese
 
-Petőháza
+Écs
 
-Pinnye
+Fehértó
 
-Pusztacsalád
+Fenyőfő
 
-Répcevis
+Gönyű
 
-Röjtökmuzsaj
+Győr
 
-Sarród
+Győrasszonyfa
 
-Sopron
+Győrladamér
 
-Sopronhorpács
+Győrság
 
-Sopronkövesd
+Győrsövényház
 
-Szakony
+Győrújbarát
 
-Újkér
+Győrújfalu
 
-Und
+Győrzámoly
 
-Völcsej
+Ikrény
 
-Zsira”
+Kajárpéc
 
-2.[^2]
+Kisbajcs
 
-[^2]: Az 1. melléklet 2. pontja a 4. § (2) bekezdése alapján 2013. december 17-én lép hatályba.
+Koroncó
+
+Kunsziget
+
+Lázi
+
+Mezőörs
+
+Mosonszentmiklós
+
+Nagybajcs
+
+Nagyszentjános
+
+Nyalka
+
+Nyúl
+
+Öttevény
+
+Pannonhalma
+
+Pázmándfalu
+
+Pér
+
+Ravazd
+
+Rábapatona
+
+Rétalap
+
+Románd
+
+Sikátor
+
+Sokorópátka
+
+Tarjánpuszta
+
+Táp
+
+Tápszentmiklós
+
+Tényő
+
+Töltéstava
+
+Vámosszabadi
+
+Veszprémvarsány
+
+Vének
+
+8.3. Győri Járási Hivatal Járási Földhivatala Téti Kirendeltsége (székhelye: Tét)
+
+Árpás
+
+Csikvánd
+
+Felpéc
+
+Gyarmat
+
+Gyömöre
+
+Győrszemere
+
+Kisbabot
+
+Mérges
+
+Mórichida
+
+Rábacsécsény
+
+Rábaszentmihály
+
+Rábaszentmiklós
+
+Szerecseny
+
+Tét
+
+8.5. Mosonmagyaróvári Járási Hivatal Járási Földhivatala (székhelye: Mosonmagyaróvár)
+
+Ásványráró
+
+Bezenye
+
+Darnózseli
+
+Dunakiliti
+
+Dunaremete
+
+Dunasziget
+
+Feketeerdő
+
+Halászi
+
+Hegyeshalom
+
+Hédervár
+
+Jánossomorja
+
+Károlyháza
+
+Kimle
+
+Kisbodak
+
+Levél
+
+Lébény
+
+Lipót
+
+Máriakálnok
+
+Mecsér
+
+Mosonmagyaróvár
+
+Mosonszolnok
+
+Mosonudvar
+
+Püski
+
+Rajka
+
+Újrónafő
+
+Várbalog”
+
+[^4]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
