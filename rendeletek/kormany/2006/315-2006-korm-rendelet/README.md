@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-315-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2006-315-20-22.2 | 315/2006. (XII. 23.) Korm. rendelet |
+| 2013-12-18 | 2006-315-20-22.3 | 165/2014. (VII. 17.) Korm. rendelet |
