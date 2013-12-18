@@ -1,6 +1,6 @@
 ## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 3 055,9 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
 
-## Az átcsoportosítás tekintetében
+## Az átcsoportosítás tekintetében[^1]
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -68,19 +68,11 @@
 
 ## c) a támogatási megállapodás megkötésére vonatkozó, a Kormhat1. 3. pontja szerinti határidő 2013. augusztus 31-ről és a Kormhat2. 2. pontja szerinti haladéktalan határidő 2013. december 30-ra módosul.
 
-## 8. Az e-útdíj rendszer működtetésének induló költségeihez szükséges költségvetési források biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1343/2013. (VI. 17.) Korm. határozatban a „2013. november 30.” szövegrész helyébe az „a belügyminiszter tekintetében 2013. november 30., a nemzeti fejlesztési miniszter tekintetében 2014. június 30.” szöveg lép.
-
-## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1377/2012. (IX. 17.) Korm. határozatban a „2013. december 31.” szövegrész helyébe a „2014. június 30.” szöveg lép.
-
-## 10. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1355/2012. (IX. 11.) Korm. határozat módosításáról szóló 1645/2012. (XII. 19.) Korm. határozatban a „2013. december 31-ei” szövegrész helyébe a „2014. június 30-ai” szöveg lép.
+## 8–10.[^2]
 
 ## 11. A Kormány egyetért azzal, hogy a konzolos kerékpárút átvezetése a Tisza-hídon tervezési díjához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról 1263/2013. (V. 14.) Korm. határozat végrehajtása során a határozat 1. melléklete szerint – az egyszeri átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 4. Területfejlesztési célelőirányzat jogcímcsoport, 2. Felhalmozási költségvetés előirányzatcsoport, 1. Beruházások kiemelt előirányzat javára átcsoportosított 32,0 millió forint az 1. Működési költségvetés előirányzatcsoport, 3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 12. A Versenyszféra és a Kormány Állandó Konzultációs Fóruma többletfeladatainak ellátásához szükséges források biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1458/2013. (VII. 16.) Korm. határozatban a „2013. november 15.” szövegrész helyébe a „2014. március 31.” szöveg lép.
-
-## 13. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1417/2012. (X. 1.) Korm. határozatban a „2013. december 31.” szövegrész helyébe a „2014. június 30.” szöveg lép.
-
-## 14. A hajdúsámsoni állami köznevelés feltételeinek megteremtése érdekében a rendkívüli kormányzati intézkedésre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1437/2013. (VII. 11.) Korm. határozatban (a továbbiakban: Kormhat3.) a „2013. október 31.” szövegrész helyébe a „2014. május 31.” szöveg lép.
+## 12–14.[^3]
 
 ## 15. A Kormány egyetért azzal, hogy a Kormhat3. végrehajtása során a határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 18. Köznevelési feladatellátás és irányítás intézményei cím, 1. Működési költségvetés előirányzatcsoport, 1. Személyi juttatások kiemelt előirányzat, 2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 3. Dologi kiadások kiemelt előirányzat, 2. Felhalmozási költségvetés előirányzatcsoport, 2. Felújítások kiemelt előirányzat javára átcsoportosított 475,4 millió forintból 5,3 millió forint az 1. Működési költségvetés előirányzatcsoport, 3. Dologi kiadások kiemelt előirányzat, 460,0 millió forint a 2. Felhalmozási költségvetés előirányzatcsoport, 1. Beruházások kiemelt előirányzat, 10,1 millió forint a 2. Felhalmozási költségvetés előirányzatcsoport, 2. Felújítások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -88,11 +80,7 @@
 
 ## 17. A Kormány egyetért azzal, hogy a 2012. évi kötelezettségvállalással terhelt, de június 30-ig pénzügyileg nem teljesült, továbbá meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt előirányzat-maradványok felhasználásáról szóló 1765/2013. (X. 25.) Korm. határozat 2. melléklete szerint a XVII. Nemzeti Fejlesztési Minisztérium fejezet 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 3. Országos közúthálózat és gyorsforgalmi úthálózat fejlesztés jogcímcsoport javára a 2012. évi előirányzat-maradványból átcsoportosított 441 421 ezer forint a 3. sz. főút 40+857 km szelvényben lévő („bagi”) csomópont átépítésére irányuló projekt megvalósítása érdekében kerüljön felhasználásra.
 
-## 18. A balatoni fejlesztések megvalósítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1563/2013. (VIII. 16.) Korm. határozatban a „2013. december 15.” szövegrész helyébe a „2014. január 31.” szöveg lép.
-
-## 19. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1042/2013. (II. 1.) Korm. határozatban a „2013. december 15.” szövegrész helyébe a „2014. február 28.” szöveg lép.
-
-## 20. A KKV-szektor hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásának növeléséhez rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1530/2013. (VIII. 12.) Korm. határozat 1. pontjában a „2013. december 15.” szövegrész helyébe a „2014. június 30.” szöveg lép.
+## 18–20.[^4]
 
 ## 21. A Kormány egyetért azzal, hogy a 2015. évi Milánói Világkiállításon való részvételhez kapcsolódó feladatok finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1256/2013. (V. 10.) Korm. határozat végrehajtása során a XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 15. A 2015. évi Milánói Világkiállításon való részvételhez kapcsolódó feladatok jogcímcsoport, 1. Működési költségvetés előirányzatcsoport, 1. Személyi juttatások kiemelt előirányzat javára átcsoportosított 30,0 millió forintból 326 ezer forint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím, 1. Működési költségvetés előirányzatcsoport, 1. Személyi juttatások kiemelt előirányzaton kerüljön felhasználásra, valamint a XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 15. A 2015. évi Milánói Világkiállításon való részvételhez kapcsolódó feladatok jogcímcsoport, 1. Működési költségvetés előirányzatcsoport, 3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 112,7 millió forintból 4051 ezer forint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím, 1. Működési költségvetés előirányzatcsoport, 3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
@@ -105,3 +93,8 @@
 ## Határidő: december 30.
 
 1. melléklet az 1968/2013. (XII. 17.) Korm. határozathoz
+
+[^1]: Lásd a 2047/2013. (XII. 30.) Korm. határozatot.
+[^2]: A 8–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 12–14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 18–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
