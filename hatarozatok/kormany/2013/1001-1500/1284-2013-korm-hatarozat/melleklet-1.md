@@ -82,15 +82,7 @@
 
 ## Határidő: azonnal
 
-## 11. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva 131 000 ezer forint tartós átcsoportosítását rendeli el a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Közreműködő szervezetek közhasznú tevékenységének támogatása alcím, 4. Puskás Tivadar Közalapítvány támogatása jogcímcsoport terhére, a XIV. Belügyminisztérium, 9. Nemzetbiztonsági Szakszolgálat cím javára az 1. melléklet szerint.
-
-## Felelős: a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter
-
-## az informatikáért felelős miniszter
-
-## az államháztartásért felelős miniszter
-
-## Határidő: a Korm. határozat hatálybalépését követően azonnal
+## 11.[^4]
 
 ## 12. A Kormány felhívja a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert, hogy az informatikáért felelős miniszterrel egyetértésben a PTA megszüntetéséről és a 2. pontban foglalt intézkedésekről a nyilvánosságot közleményben tájékoztassa.
 
@@ -100,102 +92,10 @@
 
 ## 13. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1284/2013. (V. 27.) Korm. határozathoz
-
-XIV. Belügyminisztérium
-
-XVII. Nemzeti Fejlesztési Minisztérium
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2013. |
-
-| ezer forintban |
-
-| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | K I A D Á S O K | A módosítás jogcíme |  | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
-
-| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | következő |
-
-| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  | Módosítás | évre |
-
-|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (+/-) | hatása |
-
-|  | XIV. |  |  |  |  |  |  | Belügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 019370 |  | 9 |  |  |  |  |  |  | Nemzetbiztonsági Szakszolgálat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 103 150 | 103 150 |  |
-
-|  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  | 27 850 | 27 850 |  |
-
-|  | XVII. |  |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 37 |  |  |  |  |  |  | Közreműködő szervezetek közhasznú tevékenységének támogatása |  |  |  |  |  |  |  |  |  |  |  |
-
-| 300624 |  |  |  | 4 |  |  |  |  |  |  | Puskás Tivadar Közalapítvány támogatása |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -131 000 | -131 000 |  |
-
-|  | Az előirányzatmódosítás érvényessége: | b.) a következő év költségvetésébe beépülő |
-
-| Az összetartozó előirányzatváltozásokat (+/-) egymást követően kell szerepeltetni. |
-
-| ezer forintban |
-
-| ÁHT | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | BEVÉTELEK | A módosítás jogcíme |  | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
-
-| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  |  | következő |
-
-| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  | Módosítás | évre |
-
-|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (+/-) | hatása |
-
-|  | Az előirányzatmódosítás érvényessége: | b.) a következő év költségvetésébe beépülő |
-
-| ezer forintban |
-
-| ÁHT. | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | Kiemelt | Fejezet | Cím | Alcím | Jog- | Jog- | Előir. | T Á M O G A T Á S | A módosítás jogcíme | Módosítás | A módosítás | A módosítást elrendelő jogszabály/ határozat száma |
-
-| egyedi | szám | szám | szám | cím | cím | csoport | előir. | név | név | név | cím | cím | csop. |  |  |  |  |  |  |  |  |  | (+/-) | következő |
-
-| azonosító |  |  |  | csop. | szám | száma | szám |  |  |  | csop. | név | név | Kiemelt előirányzat |  |  |  |  |  |  |  |  |  | évre |
-
-|  |  |  |  | szám |  |  |  |  |  |  | név |  |  | neve |  |  |  |  |  |  |  |  |  | áthúzódó |
-
-|  | XIV. |  |  |  |  |  |  | Belügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 019370 |  | 9 |  |  |  |  |  |  | Nemzetbiztonsági Szakszolgálat |  |  |  |  |  |  |  |  |  |  |  | 131 000 | 131 000 |  |
-
-|  | XVII. |  |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 37 |  |  |  |  |  |  | Közreműködő szervezetek közhasznú tevékenységének támogatása |  |  |  |  |  |  |  |  |  |  |  |
-
-| 300624 |  |  |  | 4 |  |  |  |  |  |  | Puskás Tivadar Közalapítvány támogatása |  |  |  |  |  |  |  |  | -131 000 | -131 000 |  |
-
-|  | Az előirányzatmódosítás érvényessége: | b.) a következő év költségvetésébe beépülő |  |  |  |  |  |  |  |  |  |
-
-| Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: | Összesen | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezet | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár | 1 példány |  |  | egyéb : azonnal | 131 000 |  | 131 000 |  |  |
-
-| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1. melléklet az 1284/2013. (V. 27.) Korm. határozathoz[^5]
 
 [^1]: A 2. pont b) alpontját az 1466/2013. (VII. 24.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^2]: A 4. pont b) alpontja az 1387/2013. (VI. 30.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
 [^3]: A 10. pont az 1387/2013. (VI. 30.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^4]: A 11. pontot az 1946/2013. (XII. 17.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^5]: Az 1. mellékletet az 1946/2013. (XII. 17.) Korm. határozat 1. pontja hatályon kívül helyezte.
