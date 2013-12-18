@@ -4,7 +4,7 @@
 
 a) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás kihirdetéséről szóló 1979. évi 19. törvényerejű rendeletben,
 
-b)[^6]
+b)[^8]
 
 c) a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendeletben,
 
@@ -16,15 +16,15 @@ f) a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásár
 
 g) a veszélyes áru szállítási biztonsági tanácsadó kinevezéséről és képesítéséről szóló 2/2002. (I. 11.) Korm. rendeletben,
 
-h)[^7] a mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállításáról szóló 7/2011. (III. 8.) NFM rendeletben,
+h)[^9] a mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállításáról szóló 7/2011. (III. 8.) NFM rendeletben,
 
-i)[^8] az Országos Tűzvédelmi Szabályzatról szóló 28/2011. (IX. 6.) BM rendeletben,
+i)[^10] az Országos Tűzvédelmi Szabályzatról szóló 28/2011. (IX. 6.) BM rendeletben,
 
 j) a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben,
 
-k)[^9] a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló törvényben, valamint az ADR belföldi alkalmazásáról szóló miniszteri rendeletben
+k)[^11] a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló törvényben, valamint az ADR belföldi alkalmazásáról szóló miniszteri rendeletben
 
-[^6]: A 6. § b) pontját a 280/2013. (VII. 24.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^7]: A 6. § h) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^8]: A 6. § i) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^9]: A 6. § k) pontja a 280/2013. (VII. 24.) Korm. rendelet 3. § (1) bekezdés a) pontjával megállapított szöveg.
+[^8]: A 6. § b) pontját a 280/2013. (VII. 24.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^9]: A 6. § h) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^10]: A 6. § i) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^11]: A 6. § k) pontja a 280/2013. (VII. 24.) Korm. rendelet 3. § (1) bekezdés a) pontjával megállapított szöveg.

@@ -10,13 +10,13 @@ d) a Közlekedési Miniszterek Európai Konferenciája által létrehozott közl
 
 e) a „Nemzetközi Közúti Árufuvarozási Szerződésről” szóló, Genfben, az 1956. évi május hó 19. napján kelt Egyezmény kihirdetéséről szóló 1971. évi 3. törvényerejű rendeletben,
 
-f) az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvényben,
+f)[^3] a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvényben,
 
-g)[^3] a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendeletben,
+g)[^4] a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-i 1072/2009/EK európai parlamenti és tanácsi rendeletben,
 
-h)[^4] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendeletben,
+h)[^5] az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendeletben,
 
-i) a valamely tagállamban nem honos fuvarozók számára a belföldi közúti személyszállítási szolgáltatás feltételeinek megállapításáról szóló, 1997. december 11-i 12/98/EK tanácsi rendeletben,
+i)[^6]
 
 j) az autóbusszal végzett személyszállítás okmányaira vonatkozóan a 684/92/EGK és a 12/98/EK tanácsi rendelet alkalmazásának részletes szabályairól szóló, 1998. október 2-i 2121/98/EK bizottsági rendeletben,
 
@@ -26,5 +26,7 @@ l) a kétoldalú közúti áru- és személyszállításról szóló nemzetközi
 
 [^1]: A 2. § b) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
 [^2]: A 2. § c) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^3]: A 2. § g) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § h) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § f) pontja a 488/2013. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § g) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^5]: A 2. § h) pontja a 261/2011. (XII. 7.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^6]: A 2. § i) pontját a 488/2013. (XII. 17.) Korm. rendelet 5. §-a hatályon kívül helyezte.
