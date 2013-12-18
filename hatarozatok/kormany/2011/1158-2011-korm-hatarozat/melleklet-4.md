@@ -36,6 +36,8 @@
 
 | Országos Területfejlesztési Érdekegyeztető Fórum | fontos politikai ok | NGM |
 
+| Nemzeti Kiberbiztonsági Koordinációs Tanács | fontos nemzetbiztonsági ok | Miniszterelnökséget vezető államtitkár |
+
 4. melléklet az 1158/2011. (V. 23.) Korm. határozathoz[^10]
 
 A közreműködői díjazás tilalma alól mentes testületek
