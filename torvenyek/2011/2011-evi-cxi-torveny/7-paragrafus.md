@@ -2,6 +2,8 @@
 
 (2) Ha az alapvető jogok biztosa helyettesének a megbízatása a 17. § (1) bekezdés b)–g) pontjában meghatározott okból szűnt meg, az alapvető jogok biztosa a megbízatás megszűnésétől számított harminc napon belül tesz javaslatot az alapvető jogok biztosa helyettesének a személyére.
 
+(2a) Ha az alapvető jogok biztosa és helyettese megbízatása egyidejűleg szűnik meg, a helyettes személyére az újonnan megválasztott alapvető jogok biztosa a megválasztását követő harminc napon belül tesz javaslatot.
+
 (3) Ha az alapvető jogok biztosa helyettesének javasolt személyt az Országgyűlés nem választja meg, az alapvető jogok biztosa legkésőbb harminc napon belül új javaslatot tesz.
 
 (4) Az alapvető jogok biztosa a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettesének személyére vonatkozó javaslatának megtétele előtt kikéri az országos nemzetiségi önkormányzatok véleményét.

@@ -1,3 +1,3 @@
 ## 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-46. § E törvény 47. §-a és 49. §-a az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+46. § A 2. § (3) bekezdése az Alaptörvény 24. cikk (2) bekezdés g) pontja alapján sarkalatosnak minősül.

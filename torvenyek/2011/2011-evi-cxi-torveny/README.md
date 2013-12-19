@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-111-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 2011-111-00-00.4 |
 | 2013-08-01 | 2013. évi CXXXI. törvény | 2011-111-00-00.5 |
 | 2013-11-19 | 2013. évi CLXXXIII. törvény | 2011-111-00-00.6 |
+| 2013-12-19 | 2013. évi CCXXIII. törvény | 2011-111-00-00.7 |
