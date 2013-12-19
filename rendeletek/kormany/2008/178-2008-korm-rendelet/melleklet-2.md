@@ -1,4 +1,4 @@
-2. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^36]
+2. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^37]
 
 ## A kisajátítás során készítendő változási vázrajz tartalma
 
@@ -44,4 +44,4 @@ f) ha a készítőnek nincs ingatlan rendező minősítése, akkor a minőségta
 
 g) a készítés dátuma.
 
-[^36]: A 2. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
