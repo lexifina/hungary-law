@@ -1,0 +1,1 @@
+## 31. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Balatongyörök (Zala megye), 2041 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.

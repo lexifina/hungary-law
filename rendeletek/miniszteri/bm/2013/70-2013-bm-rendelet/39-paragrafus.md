@@ -1,0 +1,1 @@
+## 38. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Egyek (Hajdú-Bihar megye), 501 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy értékeit helyreállíthatatlanul elvesztette – megszüntetem.
