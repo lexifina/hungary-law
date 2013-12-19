@@ -1,3 +1,3 @@
-## 36. §[^4]
+## 36. §[^5]
 
-[^4]: A 36. §-t a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 29. pontja hatályon kívül helyezte.
+[^5]: A 36. §-t a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 29. pontja hatályon kívül helyezte.
