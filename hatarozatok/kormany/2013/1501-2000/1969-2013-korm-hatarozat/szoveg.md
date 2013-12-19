@@ -18,4 +18,6 @@ feladatkörükben érintett miniszterek
 
 Határidő: 2014. június 30.
 
-2. visszavonja a Magyarország Megújuló Energia Hasznosítási Cselekvési Terv 2010–2020. felülvizsgálatáról szóló 1491/2012. (XI. 13.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
