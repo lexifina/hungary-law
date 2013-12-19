@@ -20,7 +20,7 @@ bb) legfeljebb 400 millió forint összegű 15 éves futamidejű és ezen belül
 
 3.[^1] A Kormány felkéri az állami vagyon felügyeletéért felelős minisztert, hogy gondoskodjon arról, hogy az állami kezességvállalás biztosítására megfelelő szerződéses garancia kerüljön érvényesítésre.
 
-4. A hitelből megvásárolt eszközökre az MFB Zrt.-nek első helyi jelzálogjoggal kell rendelkeznie. A hitelből megvásárolt ingatlanok értékesítéséhez be kell szerezni az MFB Zrt. hozzájárulását és az ebből befolyt ellenértéket a hitel előtörlesztésére kell fordítani.
+4.[^2]
 
 5. A jogszabályi alapú állami készfizető kezességvállalásért az MFB Zrt.-nek a 1. pont szerinti hitelek 80%-os tőkeösszegére egyszeri 2%-os kezességvállalási díjat kell fizetnie a központi költségvetésnek.
 
@@ -37,3 +37,4 @@ Határidő: azonnal
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: A 3. pont az 1007/2009. (I. 23.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: A 4. pontot az 1976/2013. (XII. 18.) Korm. határozat 8. pontja hatályon kívül helyezte.
