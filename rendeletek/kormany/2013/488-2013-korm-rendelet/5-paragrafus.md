@@ -1,1 +1,0 @@
-## 4. § Az R2. 13. § (1) bekezdésében az „a bírság összege 30 000 forint” szövegrész helyébe az „a bírság összege a mellékletek megfelelő sorában meghatározott összeg fele, de legfeljebb 30 000 forint” szöveg lép.
