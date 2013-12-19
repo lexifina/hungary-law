@@ -2,7 +2,7 @@
 
 ## A lakásbérlet megszűnése
 
-23. § (1) A szerződés megszűnik, ha
+23. § (1) A szerződés az alábbi esetekben szűnik meg:
 
 a) a felek a szerződést közös megegyezéssel megszüntetik;
 
@@ -18,7 +18,9 @@ f) a bérlőt Magyarország területéről kiutasították;
 
 g) a bérlő lakásbérleti jogviszonyát a bíróság megszünteti;
 
-h) a bérlő lakásbérleti jogviszonya hatósági határozat folytán megszűnik.
+h) a bérlő lakásbérleti jogviszonya hatósági határozat folytán megszűnik;
+
+i) e törvény erejénél fogva.
 
 (2) A határozott időre szóló, illetőleg valamely feltétel bekövetkezéséig tartó lakásbérleti jog a szerződésben meghatározott idő elteltével, illetőleg a feltétel bekövetkezésekor szűnik meg.
 
