@@ -1,5 +1,0 @@
-## 2. § Az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet (a továbbiakban: R.) 4. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az útdíjszedő a hozzá a tárgyhónapban az útdíjszolgáltatóktól beérkező útdíjakról a tárgyhónap 25-éig, ha az munkaszüneti napra esik, akkor az azt követő első munkanapig, adatot szolgáltat a KKK-nak az (1) bekezdés szerinti bontásban.
-
-## (3) A KKK a (2) bekezdés szerinti adatszolgáltatás alapján számlát állít ki az útdíjszedő részére legkésőbb az adatszolgáltatás kézhezvételét követő 2. munkanapig, amely alapján az útdíjszedő köteles legkésőbb a számla kiállítás hónapjának utolsó munkanapjáig a befizetést teljesíteni a számlán feltüntetett, a Magyar Államkincstárnál (a továbbiakban: Kincstár) vezetett kincstári számlák javára. Az általános forgalmi adó összegének átutalásakor az útdíjszedő feltünteti a KKK adószámát.”
