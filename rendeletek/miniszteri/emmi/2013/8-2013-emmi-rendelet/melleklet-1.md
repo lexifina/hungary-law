@@ -1,5 +1,3 @@
-## 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
 1. melléklet a 8/2013. (I. 30.) EMMI rendelethez
 
 ## A TANÁRKÉPZÉS ÁLTALÁNOS KÖVETELMÉNYEI

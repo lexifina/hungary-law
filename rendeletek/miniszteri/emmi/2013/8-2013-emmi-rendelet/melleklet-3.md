@@ -4273,31 +4273,3 @@ A matematika története
 2. Matematikatanár (középiskolai)
 
 1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles középiskolai matematikatanár
-
-– angol nyelvű megjelölése: teacher of Mathematics
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő: 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a matematika tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, akik a képzés során megszerzett képességek, kompetenciák birtokában integrálni tudják a szakterületi, illetve pedagógiai-pszichológiai ismereteiket, alkalmasak a matematika tanítási-tanulási folyamatának tervezésére, szervezésére, irányítására, a tanulók matematikai műveltségének, készségeinek, képességeinek kialakítására, fejlesztésére, továbbá a tanulmányok doktori képzésben történő folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, ismeret, képesség;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A matematikatanár szakterületi tudása, készségei, képességei
-
-A tanulói személyiség fejlesztése, az egyéni bánásmód érvényesítése terén
-
-– Tudja, hogy a matematika milyen szerepet játszik a tanulók személyiségfejlődésében. Ismeri a matematikában megjelenő fogalmak kialakulásának életkori sajátosságait. Ismeri a matematika tanítása során fejlesztendő kompetenciákat. Fejlett fogalmi gondolkodással és absztrakciós képességgel rendelkezik, amely képessé teszi őt az oktatás során a matematikai fogalmak precíz kialakítására (a tanulók életkori sajátosságaihoz, absztrakciós képességeihez és tudásszintjéhez igazodva).
-
-– Tanítványait racionális gondolkodásra, érvelésre neveli.
-
-– Képes a matematika speciális összefüggéseivel, fogalmaival kapcsolatos megértési nehézségek kezelésére. Képes arra, hogy a tanulók tanítására, képességeik fejlesztésére megválasztott módszereket a tanuló adottságainak és előzetes ismereteinek megfelelően válassza meg.
