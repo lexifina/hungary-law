@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-46-00-00
 | 2013-05-31 | 2013. évi LVII. törvény | 1993-46-00-00.39 |
 | 2013-10-01 | 2013. évi CXLIII. törvény | 1993-46-00-00.40 |
 | 2013-11-26 | 432/2013. (XI. 18.) Korm. rendelet | 1993-46-00-00.41 |
+| 2013-12-20 | 2013. évi CCXIII. törvény | 1993-46-00-00.42 |

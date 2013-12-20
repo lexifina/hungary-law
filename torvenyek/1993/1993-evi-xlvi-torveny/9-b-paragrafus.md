@@ -1,4 +1,4 @@
-Stt.9/B. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
+Stt.9/B. § (1) A megyei, fővárosi kormányhivatal az adatgyűjtést végrehajtó szerv kezdeményezésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
 
 a) jogosulatlanul vagy jogszabályban előírt eljárási szabályok megszegésével adatszolgáltatási kötelezettséggel járó statisztikai adatszolgáltatást rendel el, illetve hajt végre,
 
