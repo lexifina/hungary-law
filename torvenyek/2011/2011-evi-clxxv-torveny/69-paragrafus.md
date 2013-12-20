@@ -21,3 +21,5 @@ e) a pályázati azonosító, a támogatás célja, a pályázó neve, címe, ad
 f) a 70. § szerinti beszámoló,
 
 g) a Tanács és a kollégiumok nyilvános üléseinek helye, időpontja, napirendje.
+
+(6) A kollégium, illetve a Tanács a támogatási döntésről zárt ülésen dönt.

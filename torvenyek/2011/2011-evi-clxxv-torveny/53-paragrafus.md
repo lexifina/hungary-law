@@ -14,6 +14,4 @@
 
 (6) Az (5) bekezdés szerinti kötelezettségét a fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter, illetve a költségvetési előirányzat kezelője a kincstár útján teljesíti. A kincstár az általa működtetett monitoring rendszerben történő rögzítéssel egy időben az erre a célra rendszeresített számítógépes rendszeren keresztül küldi meg az adatokat a miniszter számára a Civil Információs Portálon történő közzététel céljából.
 
-(7) Azon civil szervezet, amelynek letétbe helyezett beszámolója adatai alapján, az államháztartás központi alrendszeréből kapott 19. § c) pontja szerinti költségvetési támogatás – ide nem értve az 54. § szerinti támogatásokat – eléri vagy meghaladja az éves bevétele felét, de legalább a tízmillió forintot, jelentős költségvetési támogatásban részesülő szervezetnek minősül.
-
-(8) A jelentős költségvetési támogatásban részesülő szervezet vezető tisztségviselője – a (7) bekezdés szerinti feltétel teljesülését alátámasztó beszámoló vonatkozásában – köteles vagyonnyilatkozatot tenni a beszámoló letétbe helyezését követő kilencven napon belül, amelynek tényét a Civil Információs Portálon való közzétételéről a miniszter gondoskodik.
+(7)–(8)

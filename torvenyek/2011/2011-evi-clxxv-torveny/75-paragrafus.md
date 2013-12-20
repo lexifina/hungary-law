@@ -22,7 +22,7 @@ b) az államháztartásról szóló törvény alapján a fejezetet irányító s
 
 (9) Az e törvény hatálybalépését megelőző két üzleti év számviteli beszámolója és közhasznúsági jelentése letétbe helyezhető.
 
-(10) A Nemzeti Civil Alapprogramról szóló törvény alapján nyújtott támogatások tekintetében a kezelői feladatokat az Alapprogram megszűnését követően a Wekerle Sándor Alapkezelő látja el. E törvény hatálybalépését megelőzően kötött támogatási szerződésekkel kapcsolatos kollégiumi hatásköröket a Wekerle Sándor Alapkezelő gyakorolja.
+(10) A Nemzeti Civil Alapprogramról szóló törvény alapján nyújtott támogatások tekintetében a kezelői feladatokat az Alapprogram megszűnését követően az e törvény 73. § (2) bekezdés a) pontja alapján kijelölt szerv látja el. E törvény hatálybalépését megelőzően kötött támogatási szerződésekkel kapcsolatos kollégiumi hatásköröket az e törvény 73. § (2) bekezdés a) pontja alapján kijelölt szerv gyakorolja.
 
 (11) A Nemzeti Civil Alapprogramról szóló törvény alapján a civil jelöltállítási rendszerben választási eljárás lefolytatása nem lehetséges, a Nemzeti Civil Alapprogram Tanácsa és kollégiumai tagjainak megbízatása e törvény hatálybalépésének napjával megszűnik.
 
@@ -31,3 +31,9 @@ b) az államháztartásról szóló törvény alapján a fejezetet irányító s
 (13) A 61. § (6) bekezdésben foglaltakat a 2012. évben azzal az eltéréssel kell alkalmazni, hogy a pályázatok kiírásáról március 15-éig kell dönteni.
 
 (14) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 9. § (2), (3), (7) és (8) bekezdésének és 10. § (1) és (2) bekezdésének rendelkezéseit a Mód tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(15) A Nemzeti Civil Alapprogram terhére kötött támogatási szerződés alapján visszafizetett vagy más jogcímen bevételként elszámolt összeget a (10) bekezdés szerinti feladatok ellátására kell fordítani és az a 73. § (2) bekezdés a) pontja szerinti Alapkezelőt illeti.
+
+(16) E törvénynek az egyes civil szervezetekkel kapcsolatos törvényeknek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő valamint egyéb célú módosításáról szóló 2013. évi CCXIII. törvénnyel (a továbbiakban: Civilmód.) megállapított 4. § és a II. fejezetének rendelkezéseit a Civilmód. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(17) E törvény 2013. december 31-én hatályos 29. § (3) bekezdésének rendelkezését a 2013. üzleti évről készített beszámolóra alkalmazni kell.

@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-175-00-00
 | 2012-07-24 | 2012. évi CXVII. törvény | 2011-175-00-00.9 |
 | 2012-12-16 | 2012. évi CC. törvény | 2011-175-00-00.10 |
 | 2012-12-31 | 2012. évi CCXI. törvény | 2011-175-00-00.11 |
+| 2013-12-20 | 2013. évi CCXIII. törvény | 2011-175-00-00.12 |

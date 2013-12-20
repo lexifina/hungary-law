@@ -23,3 +23,7 @@ c) három tagot pedig a miniszter a jogszabályok előkészítésében való tá
 (9) A Tanács döntései a kollégiumok számára kötelezőek.
 
 (10) A kollégium valamennyi tagjának kijelölése és a megbízásának átvétele után kezdi meg működését. A kollégium első ülését a miniszter hívja össze.
+
+(11) Az 58. § (1) bekezdés e) pontja szerinti forrás felhasználása, a pályázati kiírások elkészítése, a beérkező pályázatok elbírálása, valamint a támogatott célok megvalósulásának szakmai ellenőrzése érdekében a miniszter az (1) bekezdéstől eltérő elnevezéssel, kilenctagú kollégiumot hozhat létre.
+
+(12) A kollégium döntést hoz az e törvény szerint hatáskörébe utalt támogatásokról és az e törvény felhatalmazása alapján kiadott külön jogszabályban meghatározott infrastruktúra felhasználásáról.

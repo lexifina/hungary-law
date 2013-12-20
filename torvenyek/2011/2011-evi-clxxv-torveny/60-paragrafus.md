@@ -1,6 +1,6 @@
 ## 20. Az Alap szervezete
 
-60. § (1) Az Alap céljainak megvalósítására vonatkozó elvi, irányító és koordináló döntéseket a Tanács hozza meg. A Tanács kilenc főből áll.
+60. § (1) Az Alap céljainak megvalósítására vonatkozó elvi, irányító és koordináló döntéseket a Tanács hozza meg. A Tanács kilenc tagból áll.
 
 (2) A Tanács
 

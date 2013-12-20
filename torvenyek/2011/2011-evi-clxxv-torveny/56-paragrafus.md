@@ -2,9 +2,9 @@
 
 56. § (1) Az Alap terhére az alábbi célokra teljesíthetők kifizetések:
 
-a) civil szervezetek által gyűjtött és elektronikusan bevallott adományok után járó öt százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít legfeljebb a (2) bekezdés szerinti keret tíz százalékáig;
+a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó öt százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;
 
-b) civil szervezet működésének támogatása;
+b) civil szervezetek működésének támogatása;
 
 c) civil szervezeteket érintő évfordulók, fesztiválok, hazai és határon túli rendezvények támogatása;
 

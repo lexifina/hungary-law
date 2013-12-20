@@ -40,10 +40,8 @@ d) tisztségére méltatlanná válik.
 
 (7) Ha a civil jelöltállítási rendszerben megválasztott tag megbízatása – a megbízatás időtartamának lejárta kivételével – megszűnik, helyébe a civil jelöltállítási rendszerben egyazon elektori gyűlésen a Tanácsba vagy a kollégiumba jelölt, a tag után legtöbb szavazatot elért, tagi tisztséget nem viselő személyt (a továbbiakban: póttag) kell megbízni. A póttag megbízatásának megszűnésére e bekezdést kell alkalmazni.
 
-(8) A megbízatás megszűnése esetén a miniszter gondoskodik a megüresedett hely betöltéséről:
-
-a) a miniszteri delegált esetében a miniszter az új miniszteri delegáltat a megbízatás megszűnésétől számított harminc napon belül bízza meg;
-
-b) a póttagot – a (7) bekezdésben foglaltak figyelembevételével – a civil jelöltállítási rendszerben megválasztott tag megbízatásának megszűnésétől számított harminc napon belül kell megbízni, póttag hiányában a miniszter a tagság megszűnéséről való tudomásszerzéstől számított harminc napon belül megindítja a 71–72. § szerinti eljárást.
+(8) A megbízatás megszűnése esetén a miniszter gondoskodik a megüresedett hely betöltéséről. A 60. § (2) bekezdés b) és c), valamint a 61. § (2) bekezdés b) és c) pontja szerinti tag esetében a miniszter az új tagot a megbízatás megszűnésétől számított harminc napon belül bízza meg.
 
 (9) A (8) bekezdés alapján megbízott tag megbízatása a 65. § (1) bekezdés szerinti időtartamból hátramaradt időtartamra szól.
+
+(10) Méltatlanná válik a Tanács tagja és a kollégium tagja, ha e megbízása keretében jogszabállyal vagy a Tanács vagy a kollégium ügyrendjével össze nem egyeztethető módon jár el vagy tartósan akadályozza a Tanács vagy a kollégium működését, és az érintett testület tagjai egyharmadának indokolással ellátott és az (5) bekezdés d) pontjának megállapítását kezdeményező javaslatára, e testület összes tagjának egyetértésével dönt a méltatlanság megállapításáról. A döntés meghozatalában nem vehet részt az a tag, akinek a méltatlansága megállapítására irányul az eljárás, a döntésképesség megállapításánál e tagot figyelmen kívül kell hagyni.
