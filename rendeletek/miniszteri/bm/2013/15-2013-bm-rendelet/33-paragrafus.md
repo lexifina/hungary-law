@@ -17,3 +17,7 @@
 (8) Az előirányzat a Szertelen-kék Alapítvány támogatására 5,0 millió forint összegig használható fel. A költségvetési támogatás célja a Szertelen-kék Alapítvány alapító okiratában meghatározott feladatok megvalósulásának elősegítése.
 
 (9) Az (1)–(8) bekezdés alapján nyújtott költségvetési támogatás előfinanszírozás vagy utófinanszírozás útján kerül rendelkezésre bocsátásra. Utófinanszírozás esetén előleg nyújtása lehetséges.
+
+(10)[^8] A (2), (4) és (7) bekezdésben meghatározott szövetségek a támogatást nyilvántartott tagjaik részére továbbadhatják.
+
+[^8]: A 33. § (10) bekezdését a 78/2013. (XII. 19.) BM rendelet 4. §-a iktatta be.

@@ -30,6 +30,8 @@ bg) azokat a dokumentumokat, amelyeket a támogató a beszámoló részeként a 
 
 (4) A (2) bekezdés b) pont ba), be) és bf) alpontjában meghatározott dokumentumokat a kedvezményezett képviselője írja alá, a (2) bekezdés b) pont bb)–bd) alpontjában meghatározott dokumentumokat a kedvezményezett képviselője vagy az általa írásban meghatalmazott személy írja alá. A meghatalmazás a beszámoló pénzügyi részének részét képezi.
 
-(5) A kedvezményezett köteles a támogató felhívására a beszámolót 15 napon belül pontosítani.
+(5)[^2] A kedvezményezett köteles a támogató felhívására a beszámolót – amennyiben a támogatási szerződésben a felek másként nem rendelkeznek – 15 napon belül pontosítani.
 
 (6) A beszámoló értékelését a támogató annak beérkezését követő 60 napon belül elvégzi, és annak eredményéről a kedvezményezettet értesíti. A határidőbe a hiánypótlásra meghatározott határidő nem számít bele.
+
+[^2]: A 10. § (5) bekezdése a 78/2013. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.

@@ -10,10 +10,12 @@ c) 30 napnál nem régebbi, köztartozásról szóló nemleges együttes adóhat
 
 d) a 2. § a) pontja szerinti ingatlanra vonatkozó vázrajz és a használati megállapodás egyszerű másolata,
 
-e) a kedvezményezettnek a 2. § b) pontjában foglaltakra vonatkozó nyilatkozata,
+e)[^1]
 
 f) a támogató által a pályázati kiírásban meghatározott, a költségvetési támogatás elbírálásához feltétlenül szükséges további dokumentum.
 
 (2) A kedvezményezettnek – a miniszter irányítása alatt álló költségvetési szervek kivételével – a támogatási szerződés megkötéséhez, a támogatói okirat kiadásához – előfinanszírozott költségvetési támogatás vagy előleg folyósításának esetén, ha e rendelet másként nem rendelkezik – csatolnia kell az Ávr. 77. § (2) bekezdése szerinti beszedési megbízás benyújtására vonatkozó felhatalmazó levél eredeti példányát.
 
 (3) Az Ávr. 78. § (5a) bekezdése szerinti költségvetési támogatások esetében az Ávr. 84. § (4b) bekezdése szerint benyújtott módosított költségtervet a támogató a beérkezéstől számított 10 napon belül elbírálja. A költségterv módosításának támogató általi elfogadásáról szóló értesítés keltével a támogatási szerződés módosul a módosított költségtervnek megfelelően.
+
+[^1]: A 8. § (1) bekezdés e) pontját a 78/2013. (XII. 19.) BM rendelet 7. §-a hatályon kívül helyezte.

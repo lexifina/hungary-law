@@ -2,7 +2,7 @@
 
 25. § (1) Az előirányzat felhasználható
 
-a)[^1] a központi költségvetési szervek és a védelmi feladatokat ellátó vízitársulatok által víz-, környezeti és természeti katasztrófa kárelhárítás esetén végzett védekezési, helyreállítási feladatokkal összefüggő többletkiadásokra, külön kormánydöntés alapján preventív feladatok elvégzésére,
+a)[^7] a központi költségvetési szervek és a védelmi feladatokat ellátó vízitársulatok által víz-, környezeti és természeti katasztrófa kárelhárítás esetén végzett védekezési, helyreállítási feladatokkal összefüggő többletkiadásokra, külön kormánydöntés alapján preventív feladatok elvégzésére,
 
 b) az állam kártalanítási kötelezettsége költségeinek biztosítására,
 
@@ -12,4 +12,4 @@ d) a vízkárelhárítást ellátó állami vízügyi szerveknél és vízitárs
 
 (2) Az előirányzat felhasználása egyedi döntéssel, támogatási szerződés alapján előfinanszírozás vagy utófinanszírozás útján kerül felhasználásra. Utófinanszírozás esetén előleg nyújtása lehetséges.
 
-[^1]: A 25. § (1) bekezdés a) pontja a 35/2013. (VII. 2.) BM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 25. § (1) bekezdés a) pontja a 35/2013. (VII. 2.) BM rendelet 1. §-ával megállapított szöveg.
