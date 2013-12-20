@@ -1,0 +1,3 @@
+## 1. § A belügyminiszter irányítása alá tartozó rendvédelmi szervek közúti járművei forgalomba helyezésének és időszakos vizsgálatának egyes szabályairól szóló 14/2013. (V. 2.) BM rendelet (a továbbiakban: R.) 3. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) A hivatásos katasztrófavédelmi szerv által üzemben tartott dízel-motoros tűzoltó gépjármű első forgalomba helyezésekor, a gépjármű kipufogógázának a szennyezőanyag-tartalmat meghatározó konstrukciós jellemzői és a szennyezőanyag kibocsátási követelmény tekintetében legalább a 4-es környezetvédelmi osztályba sorolás szerinti előírásokat teljesítenie kell.”
