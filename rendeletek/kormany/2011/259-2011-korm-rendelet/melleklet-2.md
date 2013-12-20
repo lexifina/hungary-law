@@ -58,7 +58,7 @@
 
 | 25. | Tűzvédelmi dokumentáció jogosultság nélküli készítése | 100 000 | 1 000 000 |
 
-| 26. | Ha a felelős tervező, a tűzvédelmi szakértő, a kivitelező, a felelős műszaki vezető vagy a tűzvédelmi tervező valótlan nyilatkozatot adott | 60 000 | 1 000 000 |
+| 26. | a) Ha a felelős tervező, a tűzvédelmi szakértő vagy a tűzvédelmi tervező nem a vonatkozó jogszabályoknak, hatósági előírásoknak megfelelően tervezte meg az építményt b) Ha a kivitelező vagy a felelős műszaki vezető valótlan nyilatkozatot adott | 60 000 60 000 | 1 000 000 1 000 000 |
 
 | 27. | Ha a munkáltató az új munkavállalók tűzvédelmi oktatásáról, illetve – amennyiben tűzvédelmi szabályzat készítésére kötelezett – a tűzvédelmi szabályzat megismertetéséről a munkába lépéskor – igazolt módon – nem gondoskodott, és a munkavállaló belépése óta több mint 15 nap eltelt | 100 000/munkavállaló |
 
@@ -80,9 +80,9 @@
 
 | 36. | A településen vagy a létesítményben a tűzoltást befolyásoló változások bejelentésének elmulasztása az állandó készenléti jellegű szolgálatot ellátó hivatásos tűzoltóság vagy önkormányzati tűzoltóság, illetve az érintett létesítményi tűzoltóság felé | 30 000 | 1 000 000 |
 
-| 37. | Ha a bejelentés köteles szolgáltatási tevékenységet a szolgáltató nem az adott jogszabályi előírásoknak megfelelően végezte | 100 000 | 1 000 000 |
+| 37. | Ha a bejelentésköteles tűzvédelmi szolgáltatási tevékenységet a szolgáltató nem az adott jogszabályi előírásoknak megfelelően végezte | 100 000 | 1 000 000 |
 
-| 38. | A tűzoltó technikai termék forgalmazásának, javításának, ellenőrzésének, felülvizsgálatának, karbantartásának a jogszabályban, tűzvédelmi műszaki követelményben és a tűzvédelmi hatósági engedélyben foglaltaktól eltérő módon történő végzése vagy ezen tevékenység során a termékek működőképességének veszélyeztetése | 100 000 | 1 000 000 |
+| 38. | A tűzoltó technikai termék, építési termék tűzvédelmi célú ellenőrzésének, felülvizsgálatának, karbantartásának, javításának a műszaki előírásokban, vagy a tűzvédelmi hatósági engedélyben foglaltaktól eltérő módon történő végzése, vagy ezen tevékenység során a termék működőképességének veszélyeztetése | 100 000 | 1 000 000 |
 
 | 39. | Ha jogszabály által forgalmazási engedélyhez kötött tűzoltó-technikai termék forgalmazásához nem kérték meg a hatóság engedélyét | 300 000 | 3 000 000 |
 
@@ -92,6 +92,12 @@
 
 | 42. | A termőföld védelméről szóló törvényben előírt hasznosítási, vagy mellékhasznosítási kötelezettség elmulasztásával a tűzesetek megelőzéséről nem gondoskodik | 60 000 | 200 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^46]
+| 43. | Jogszabály által előírt hő- és füstelvezető rendszer létesítésének, üzemeltetésének, ellenőrzésének, felülvizsgálatának, karbantartásának hiánya, működésének akadályozása | 100 000 | 1 000 000 |
 
-[^46]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 44. | Építményszerkezetek tűzvédelmi tulajdonságait igazoló tűzvédelmi szakértői nyilatkozat tűzvédelmi hatósághoz való megküldésének elmulasztása | 30 000 | 100 000 |
+
+| 45. | Tűzvédelmi szakértő az építményszerkezetek tűzvédelmi tulajdonságairól valótlan nyilatkozatot tesz | 100 000 | 1 000 000 |
+
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^59]
+
+[^59]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
