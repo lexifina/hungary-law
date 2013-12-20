@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-126-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1996-126-00-00.32 |
 | 2013-07-06 | 2013. évi CXXIX. törvény | 1996-126-00-00.33 |
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1996-126-00-00.34 |
+| 2013-12-20 | 2013. évi CCXIII. törvény | 1996-126-00-00.35 |

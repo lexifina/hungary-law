@@ -1,0 +1,3 @@
+8/C. § (1) E törvénynek az egyes civil szervezetekkel kapcsolatos törvényeknek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CCXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 4. § (1) bekezdés rendelkezéseit a 2014. és az azt követő rendelkező évi felajánlásokkal összefüggő eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv.-vel módosított 6/C. § (1) bekezdése rendelkezéseit a hatálybalépéskor folyamatban lévő eljárásokban is alkalmazni kell. A Módtv.-vel megállapított 6/C. § (1) bekezdése hatálybalépése előtt kiutalt támogatások tartalékolása esetén ezen összegeket 2015. december 31-ig fel kell használni.

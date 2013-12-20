@@ -18,7 +18,7 @@ b) a Magyar Tudományos Akadémia;
 
 c) az Országos Tudományos Kutatási Alapprogramok (OTKA);
 
-d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 2. és 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény:
+d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény:
 
 1. Magyar Állami Operaház,
 
@@ -62,4 +62,4 @@ g)
 
 (4) A jogutódlással megszűnt kedvezményezett javára felajánlott adóösszegek – a 4. § (2) bekezdésében előírt követelmények teljesítése esetén – a kedvezményezett jogutódját illetik meg.
 
-(5) Az adóhatóság a magánszemélyek saját érdekkörébe tartozóan érvényes rendelkező nyilatkozatai alapján minden év szeptember 1-éig felhívja az (1) bekezdés szerinti kedvezményezettet a (2) bekezdésében meghatározottak 30 napon belüli teljesítésére. A felhívást a kedvezményezett levelezési címére, ennek hiányában székhelyére kell megküldeni. A határidő elmulasztása esetén a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az igazolási kérelemre vonatkozó rendelkezéseit kell alkalmazni.
+(5) Az adóhatóság a magánszemélyek saját érdekkörébe tartozóan érvényes rendelkező nyilatkozatai alapján minden év szeptember 1-éig felhívja az (1) bekezdés szerinti kedvezményezettet az (1) bekezdésben meghatározottak 30 napon belüli igazolására. A felhívást a kedvezményezett levelezési címére, ennek hiányában székhelyére kell megküldeni. A határidő elmulasztása esetén a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az igazolási kérelemre vonatkozó rendelkezéseit kell alkalmazni.

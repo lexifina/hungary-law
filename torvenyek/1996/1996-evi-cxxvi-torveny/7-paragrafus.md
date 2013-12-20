@@ -16,11 +16,11 @@
 
 a) a 4. § (1) bekezdés a) pont aa)–ad) alpontja szerinti kedvezményezett az alapcél szerinti közhasznú tevékenysége megvalósítására fordítja,
 
-b) a 4. § (1) bekezdés b)–g) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
+b) a 4. § (1) bekezdés b)–i) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
 
 (9) A kedvezményezett fenntartásával, működésével kapcsolatos költségek – a 6/C. § (1) bekezdése szerinti tartalékolás esetén, ideértve a tartalékolást követő években felmerült, ilyen jellegű költségeket is – együttes összege a felhasználás évében nem haladhatja meg a felhasznált összeg ötven százalékát.
 
-(10) Működési költségként különösen a következők vehetők figyelembe:
+(10) Működési költségként a következők vehetők figyelembe:
 
 a) a számvitelről szóló 2000. évi C. törvény
 
@@ -30,7 +30,7 @@ ab) 83. § (3) bekezdése szerinti fizetendő kamatok és kamatjellegű ráford�
 
 ac) 86. § (7) bekezdés c) pontja szerint a visszafizetési kötelezettség nélkül átadott, pénzügyileg rendezett, véglegesen átadott pénzeszközök összege,
 
-b) székhely, működési hely – kivéve, ha az valamely alapító, tag, vezető tisztségviselő, alkalmazott vagy ezek közeli hozzátartozójának magánlakása is egyben – fenntartásával és működtetésével kapcsolatos költségek, így különösen az ingatlan bérleti díja és a kedvezményezettet terhelő közműdíjak,
+b) székhely, működési hely – kivéve, ha az valamely alapító, tag, vezető tisztségviselő, alkalmazott vagy ezek hozzátartozója által bármely jogcímen lakás céljára használt ingatlana is egyben – fenntartásával és működtetésével kapcsolatos költségek, így különösen az ingatlan bérleti díja és a kedvezményezettet terhelő közműdíjak,
 
 c) postaköltség, telefon- és internetszolgáltatás alapdíja,
 

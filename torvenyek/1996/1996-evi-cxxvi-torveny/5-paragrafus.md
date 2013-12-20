@@ -1,6 +1,6 @@
 ## 3. A rendelkező nyilatkozat megtételének szabályai és érvényességi kellékei
 
-5. § (1) A magánszemély a rendelkező nyilatkozatot – függetlenül a személyi jövedelemadó megállapításának és bevallásának módjától – az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 1. számú melléklet I. fejezet B) pont 2. b) alpontjában meghatározott határidőig juttathatja el az adóhatósághoz. E határidő elmulasztása jogvesztő.
+5. § (1) A magánszemély a rendelkező nyilatkozatot – függetlenül a személyi jövedelemadó megállapításának és bevallásának módjától – az adóévet követő év május 20-áig juttathatja el az adóhatósághoz. E határidő elmulasztása jogvesztő.
 
 (2) A rendelkező nyilatkozat vagy a rendelkező nyilatkozat megtételére szolgáló elektronikus űrlap tartalmazza a kedvezményezett adószámát, illetve technikai számát. A rendelkező nyilatkozatot tartalmazó borítékon feltüntethető a magánszemély neve és lakcíme is.
 
