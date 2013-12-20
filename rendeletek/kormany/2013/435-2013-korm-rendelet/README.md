@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-435-20-
 | --- | --- | --- |
 | 2013-11-20 | 2013-435-20-22.1 | 435/2013. (XI. 19.) Korm. rendelet |
 | 2013-11-21 | 2013-435-20-22.2 | 2010: CXXX. törvény |
+| 2013-12-20 | 2013-435-20-22.3 | 2010: CXXX. törvény |
