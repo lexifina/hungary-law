@@ -10,7 +10,7 @@ d) 5/A. § (2) bekezdésében a „november 30-áig értesíti” szövegrész h
 
 e) 5/A. § (4) bekezdésében a „november 30-áig értesíti” szövegrész helyébe a „november 30-áig elektronikus úton, ügyfélkapu hiányában postai úton értesíti”,
 
-f) 5/C. § (3) bekezdés b) pontjában a „2. § (3) bekezdésében” szövegrész helyébe a „2. § (3) bekezdésében, 6/A. § (6) bekezdésében”,
+f)
 
 g) 6. § (1) bekezdésében a „4. § (2) bekezdésében előírt nyilatkozatok” szövegrész helyébe a „4. § (1) bekezdésben foglalt feltételek igazolására vonatkozó nyilatkozat”,
 
@@ -24,6 +24,6 @@ szöveg lép.
 
 a) 4. § (1) bekezdés d) pontjában a „2. és” szövegrész,
 
-b) 4. § (2) és (2a) bekezdése,
+b)
 
-c) 4. § (3) és (5) bekezdése.
+c)

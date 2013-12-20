@@ -1,42 +1,8 @@
-11. § (1) A Civil tv. 28. §-a a következő (4) bekezdéssel egészül ki:
+11. § (1)–(2)
 
-„(4) Civil szervezet jogi személyiséggel rendelkező szervezeti egysége a civil szervezetre vonatkozó szabályok szerinti beszámolót készít, amelyet a 30. § (1) bekezdése szerint letétbe helyez.”
+(3)–(6)
 
-(2) A Civil tv. 29. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A közhasznúsági melléklet tartalmazza a közhasznú cél szerinti juttatások kimutatását, a vezető tisztségviselőknek nyújtott juttatások összegét és a juttatásban részesülő vezető tisztségek felsorolását.”
-
-(3) A Civil tv. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A több tagból álló döntéshozó szerv, valamint az ügyvezető szerv ülései nyilvánosak, amely nyilvánosság jogszabályban meghatározott esetekben korlátozható.”
-
-(4) A Civil tv. 38. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A döntéshozó szerv, valamint az ügyvezető szerv határozathozatalában nem vehet részt az a személy, aki vagy akinek közeli hozzátartozója a határozat alapján
-
-a) kötelezettség vagy felelősség alól mentesül, vagy
-
-b) bármilyen más előnyben részesül, illetve a megkötendő jogügyletben egyébként érdekelt.”
-
-(5) A Civil tv. 38. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Nem lehet a felügyelő szerv elnöke vagy tagja, illetve könyvvizsgálója az a személy, aki)
-
-„a) a döntéshozó szerv, illetve az ügyvezető szerv elnöke vagy tagja (ide nem értve az egyesület döntéshozó szervének azon tagjait, akik tisztséget nem töltenek be),”
-
-(6) A Civil tv. 41. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A felügyelő szerv köteles az intézkedésre való jogosultságának megfelelően a döntéshozó szervet vagy az ügyvezető szervet tájékoztatni és annak összehívását kezdeményezni, ha arról szerez tudomást, hogy
-
-a) a szervezet működése során olyan jogszabálysértés vagy a szervezet érdekeit egyébként súlyosan sértő esemény (mulasztás) történt, amelynek megszüntetése vagy következményeinek elhárítása, illetve enyhítése az intézkedésre jogosult vezető szerv döntését teszi szükségessé;
-
-b) a vezető tisztségviselők felelősségét megalapozó tény merült fel.
-
-(4) A döntéshozó szervet vagy az ügyvezető szervet a felügyelő szerv indítványára – annak megtételétől számított harminc napon belül – intézkedés céljából össze kell hívni. E határidő eredménytelen eltelte esetén a döntéshozó szerv és az ügyvezető szerv összehívására a felügyelő szerv is jogosult.”
-
-(7) A Civil tv. 46. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közhasznú szervezet, valamint közhasznú szervezet jogi személyiséggel rendelkező szervezeti egysége köteles a beszámoló jóváhagyásával egyidejűleg közhasznúsági mellékletet készíteni, amelyet a beszámolóval azonos módon köteles jóváhagyni, letétbe helyezni és közzétenni.”
+(7)
 
 (8) A Civil tv. IX. fejezete az 53. § után a következő 53/A–53/E. §-sal egészül ki:
 
@@ -106,6 +72,4 @@ c) a Magyar Államkincstárnak az 54. § c) pontja szerinti támogatásokról.�
 
 „a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó öt százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;”
 
-(10) A Civil tv. 57. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Alap terhére csak az 56. § (1) bekezdés b) vagy h) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti támogatás csak visszatérítendő formában nyújtható.”
+(10)

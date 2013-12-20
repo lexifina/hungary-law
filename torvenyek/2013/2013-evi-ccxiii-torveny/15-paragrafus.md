@@ -6,10 +6,4 @@
 
 (17) E törvény 2013. december 31-én hatályos 29. § (3) bekezdésének rendelkezését a 2013. üzleti évről készített beszámolóra alkalmazni kell.”
 
-(2) A Civil tv. 76. §-a a következő d) ponttal egészül ki:
-
-(Ez a törvény)
-
-„d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló 2011. december 13-i 2011/98/EU európai parlamenti és a tanácsi irányelv 12. cikk (1) bekezdés b) pontjának”
-
-(való megfelelést szolgálja.)
+(2)
