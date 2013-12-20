@@ -14,7 +14,7 @@ c) ahol az üzemi technológiai folyamat vagy egyéb helyi sajátosság alapján
 
 d) a Magyar Honvédség objektumaiban jogszabályban meghatározottak alapján.
 
-(3)[^1] A létesítményi tűzoltóság kötelező működtetéséről az (1) bekezdés b) pontja szerinti esetben a helyi szerv javaslatára a területi szerv, a főfoglalkozású létesítményi tűzoltóság kötelező működtetéséről
+(3)[^2] A létesítményi tűzoltóság kötelező működtetéséről az (1) bekezdés b) pontja szerinti esetben a helyi szerv javaslatára a területi szerv, a főfoglalkozású létesítményi tűzoltóság kötelező működtetéséről
 
 a) (2) bekezdés b) pontja szerinti esetben a területi szerv,
 
@@ -38,4 +38,4 @@ b) a (2) bekezdés c) pontja szerinti esetben a helyi szerv javaslatára a terü
 
 (11) A legkisebb készenléti létszám biztosításánál a létesítményi tűzoltóparancsnokot nem lehet figyelembe venni.
 
-[^1]: A 18. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^2]: A 18. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
