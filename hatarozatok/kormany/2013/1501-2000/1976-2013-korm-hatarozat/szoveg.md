@@ -46,4 +46,6 @@ Határidő: azonnal
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti az 1091/2008. (XII. 30.) Korm. határozat 4. pontja.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

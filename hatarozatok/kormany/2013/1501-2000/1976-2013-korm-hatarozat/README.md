@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1976-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-12-19 | 2013-1976-30-22.1 | 1976/2013. (XII. 18.) Korm. határozat |
+| 2013-12-20 | 2013-1976-30-22.2 | 2010: CXXX. törvény |
