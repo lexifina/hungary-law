@@ -1,0 +1,1 @@
+## 2. § A NAKVI jogosult valamennyi, a vidékfejlesztési miniszter hatáskörébe tartozó szakképesítés tekintetében a felnőttképzésről szóló 2013. évi LXXVII. törvény 31. § (2) és (3) bekezdése szerint indított képzések lezárását követő moduláris szakmai vizsga szervezésére.
