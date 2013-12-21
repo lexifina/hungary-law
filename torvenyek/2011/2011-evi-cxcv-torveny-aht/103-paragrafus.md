@@ -11,3 +11,5 @@ c) a költségvetési adatokhoz és információkhoz kapcsolódó naturális mut
 gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (3) A tervezés, gazdálkodás, zárszámadás során, és az államháztartás információs rendszerében a költségvetési bevételeket és költségvetési kiadásokat azok felmerülési helye szerinti adminisztratív, az államháztartás szakfeladatrendje szerinti funkcionális, és a 6. § (2)–(5) bekezdés szerinti közgazdasági osztályozási rendszerben kell nyilvántartani és bemutatni.
+
+(4) A kincstár a (2) bekezdés szerinti adatok kormányrendeletben meghatározott körét, valamint az adatoknak a nemzeti és regionális számlák európai rendszere szerinti adatokra történő átszámítására vonatkozó útmutatót közzéteszi a honlapján.
