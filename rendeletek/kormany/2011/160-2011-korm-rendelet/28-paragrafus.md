@@ -1,4 +1,4 @@
-28. § (1)[^41] Ez a rendelet
+28. § (1)[^42] Ez a rendelet
 
 a) az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet,
 
@@ -10,11 +10,11 @@ d) az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendele
 
 e) a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról és a 442/2011/EU rendelet hatályon kívül helyezéséről szóló, 2012. január 18-i 36/2012/EU tanácsi rendelet
 
-f)[^42] az Eritreával szembeni egyes korlátozó intézkedésekről szóló, 2010. július 26-i 667/2010/EU tanácsi rendelet, és
+f)[^43] az Eritreával szembeni egyes korlátozó intézkedésekről szóló, 2010. július 26-i 667/2010/EU tanácsi rendelet, és
 
-g)[^43] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
+g)[^44] a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet
 
-h)[^44] az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve (az ENSZ tűzfegyverekről szóló jegyzőkönyve) 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló 2012. március 14-ei 258/2012/EU rendelet
+h)[^45] az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve (az ENSZ tűzfegyverekről szóló jegyzőkönyve) 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló 2012. március 14-ei 258/2012/EU rendelet
 
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -22,7 +22,7 @@ h)[^44] az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egye
 
 a) a fegyverkereskedelem ellenőrzéséről szóló, 2003. június 23-i 2003/468/KKBP tanácsi együttes fellépésnek,
 
-b)[^45] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2012. március 22-i 2012/10/EU bizottsági irányelvnek,
+b)[^46] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2012. március 22-i 2012/10/EU bizottsági irányelvnek,
 
 c) a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspontnak,
 
@@ -34,13 +34,13 @@ f) a védelmi vonatkozású termékek Közösségen belüli transzferére vonatk
 
 g) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
-h)[^46] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2012. december 14-i 2012/47/EU bizottsági irányelvnek
+h)[^47] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2012. december 14-i 2012/47/EU bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
-[^41]: A 28. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^42]: A 28. § (1) bekezdés f) pontját a 78/2013. (III. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^43]: A 28. § (1) bekezdés g) pontját a 78/2013. (III. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^44]: A 28. § (1) bekezdés h) pontját a 441/2013. (XI. 20.) Korm. rendelet 12. §-a iktatta be.
-[^45]: A 28. § (2) bekezdés b) pontja a 209/2012. (VII. 27.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^46]: A 28. § (2) bekezdés h) pontját a 78/2013. (III. 13.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^42]: A 28. § (1) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^43]: A 28. § (1) bekezdés f) pontját a 78/2013. (III. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^44]: A 28. § (1) bekezdés g) pontját a 78/2013. (III. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^45]: A 28. § (1) bekezdés h) pontját a 441/2013. (XI. 20.) Korm. rendelet 12. §-a iktatta be.
+[^46]: A 28. § (2) bekezdés b) pontja a 209/2012. (VII. 27.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^47]: A 28. § (2) bekezdés h) pontját a 78/2013. (III. 13.) Korm. rendelet 12. § (2) bekezdése iktatta be.
