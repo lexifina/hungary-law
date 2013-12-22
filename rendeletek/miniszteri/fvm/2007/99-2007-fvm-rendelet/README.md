@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-99-20-8
 | --- | --- | --- |
 | 2007-09-20 | 2007-99-20-82.1 | 99/2007. (IX. 19.) FVM rendelet |
 | 2013-08-01 | 2007-99-20-82.2 | 70/2013. (VII. 31.) VM rendelet |
+| 2013-12-22 | 2007-99-20-82.3 | 130/2013. (XII. 21.) VM rendelet |

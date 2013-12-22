@@ -1,10 +1,10 @@
-## 8. § A támogatást a 10032000-01220191-53000004 számú Termőföld minőségi védelme, hasznosítása előirányzat felhasználási keretszámláról kell teljesíteni és a jogosulatlanul igénybe vett támogatást ugyanezen számlára kell visszafizetni.
+## 8. §[^9] A támogatást a Vidékfejlesztési Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámláról kell teljesíteni és a jogosulatlanul igénybe vett támogatást ugyanezen számlára kell visszafizetni.
 
 9. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
 (2) E rendelet hatálybalépésével egyidejűleg a 2004. évi nemzeti hatáskörben nyújtott agrár- és vidékfejlesztési támogatások igénybevételének feltételeiről szóló 25/2004. (III. 3.) FVM rendelet 39–42. §-a hatályát veszti azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
 
-Melléklet a 99/2007. (IX. 19.) FVM rendelethez[^8]
+Melléklet a 99/2007. (IX. 19.) FVM rendelethez[^10]
 
 Kérelem birtok-összevonási célú termőföldvásárlás támogatására
 
@@ -150,4 +150,5 @@ Előttünk, mint tanúk előtt:
 
 | Szig. sz.: | Szig. sz.: |
 
-[^8]: A melléklet a 70/2013. (VII. 31.) VM rendelet 74. § b) pontja szerint módosított szöveg.
+[^9]: A 8. § a 130/2013. (XII. 21.) VM rendelet 10. §-ával megállapított szöveg.
+[^10]: A melléklet a 70/2013. (VII. 31.) VM rendelet 74. § b) pontja szerint módosított szöveg.
