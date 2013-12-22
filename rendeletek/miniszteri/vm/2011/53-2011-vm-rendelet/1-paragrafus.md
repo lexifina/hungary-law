@@ -16,4 +16,8 @@
 
 7. támogatási időszak: 2011. január 1-jétől 2015. december 31-ig tartó időszak,
 
-8. tétel: különálló megőrzési egység (klón, törzs, vonal, fajta, változat, populáció) a megőrzendő genetikai anyag típusától függően.
+8. tétel: különálló megőrzési egység (klón, törzs, vonal, fajta, változat, populáció) a megőrzendő genetikai anyag típusától függően,
+
+9.[^1] vis maior esemény: az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet (a továbbiakban: vis maior rendelet) 2. §-a szerint meghatározott esemény.
+
+[^1]: Az 1. § 9. pontját a 130/2013. (XII. 21.) VM rendelet 18. §-a iktatta be.
