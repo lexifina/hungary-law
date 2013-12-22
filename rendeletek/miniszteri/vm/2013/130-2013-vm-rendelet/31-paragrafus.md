@@ -1,0 +1,9 @@
+## 30. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 21/2012. (III. 9.) VM rendelet 4. § (4)–(6) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(4) Az (1) bekezdés szerinti bejelentés elmulasztása esetén a mezőgazdasági termelő kárenyhítő juttatásra vonatkozó kérelmében az adott mezőgazdasági káresemény által előidézett hozamcsökkenés nem vehető figyelembe.
+
+## (5) Az agrárkár-megállapító szerv – az (1) bekezdésben meghatározott kárbejelentést követően – a mezőgazdasági káresemény bekövetkezését és a hozamcsökkenés tényét az adott mezőgazdasági káresemény és a károsodással érintett terület, valamint a károsodással érintett területen található növénykultúrák vonatkozásában az Mkk. tv. 14. § (3)–(4) bekezdésében foglaltak alapján becsléssel állapítja meg azzal, hogy az Országos Meteorológiai Szolgálat (a továbbiakban: OMSZ) által az internetes honlapján közzétett tájékoztatást, valamint, az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF), és a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI) által kiállított igazolásokat is figyelembe veszi. A mezőgazdasági káresemény bekövetkezésének ténye és a tárgyévi hozamcsökkenés mértéke az agrárkár-megállapító szerv, vagy az agrárkár-megállapító szerv által megkeresett falugazdász közreműködésével lefolytatott helyszíni ellenőrzés során kerül megállapításra.
+
+## (6) Az (5) bekezdés szerinti, az OMSZ által közzétett tájékoztatás az Mkk. tv. 14. § (4) bekezdése szerinti tájékoztatásnak felel meg.”
+
+## 13. A húsmarha és a juh ágazatokban nyújtott kérődző szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 22/2012. (III. 9.) VM rendelet módosítása
