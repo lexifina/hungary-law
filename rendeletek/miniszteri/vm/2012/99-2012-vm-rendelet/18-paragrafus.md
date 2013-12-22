@@ -1,4 +1,8 @@
-## 17. §[^36] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes vidékfejlesztési támogatási tárgyú miniszteri rendeletek módosításáról szóló 106/2013. (XI. 26.) VM rendelettel [a továbbiakban: 106/2013. (XI. 26.) VM rendelet] módosított 9. § (1) bekezdését a 106/2013. (XI. 26.) VM rendelet hatálybalépésekor[^37] folyamatban lévő ügyekben is alkalmazni kell.
+## 17. §[^38] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes vidékfejlesztési támogatási tárgyú miniszteri rendeletek módosításáról szóló 106/2013. (XI. 26.) VM rendelettel [a továbbiakban: 106/2013. (XI. 26.) VM rendelet] módosított 9. § (1) bekezdését a 106/2013. (XI. 26.) VM rendelet hatálybalépésekor[^39] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^36]: A 17. §-t a 106/2013. (XI. 26.) VM rendelet 4. § (2) bekezdése iktatta be.
-[^37]: A hatálybalépés napja: 2013. november 27.
+## 18. §[^40] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 2. § (8) bekezdését, a 4. § (5) bekezdését, a 7. § (8)–(9) bekezdését, valamint a 8. § (7) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^41] folyamatban lévő ügyekben is alkalmazni kell.
+
+[^38]: A 17. §-t a 106/2013. (XI. 26.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^39]: A hatálybalépés napja: 2013. november 27.
+[^40]: A 18. §-t a 121/2013. (XII. 16.) VM rendelet 26. § (6) bekezdése iktatta be.
+[^41]: A hatálybalépés időpontja 2013. december 17.

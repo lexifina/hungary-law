@@ -1,12 +1,12 @@
 ## 3. A támogatás mértéke, elszámolható kiadások
 
-6. § (1)[^12] E rendelet keretében, egy együttműködési projekt kapcsán a megítélhető maximális támogatási összeg az együttműködési projekt egészére vonatkozóan nem haladhatja meg az 50 millió forintot. Egy ügyfél párhuzamosan több együttműködési projekt megvalósításában is részt vehet.
+6. § (1)[^14] E rendelet keretében, egy együttműködési projekt kapcsán a megítélhető maximális támogatási összeg az együttműködési projekt egészére vonatkozóan nem haladhatja meg az 50 millió forintot. Egy ügyfél párhuzamosan több együttműködési projekt megvalósításában is részt vehet.
 
-(2)[^13] A támogatás forrása az EMVA. Az ÚMVP alapján a támogatás és az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet szerinti támogatás nyújtására fordítható együttes keretösszeg 7 milliárd forint.
+(2)[^15] A támogatás forrása az EMVA. Az ÚMVP alapján a támogatás és az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER térségek közötti együttműködés végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 11/2013. (III. 5.) VM rendelet szerinti támogatás nyújtására fordítható együttes keretösszeg 7 milliárd forint.
 
 (3) Kizárólag azon költségek számolhatóak el, amelyek az ügyfélnek az együttműködési projektben való részvételéhez kapcsolódnak.
 
-(4)[^14] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
+(4)[^16] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
 
 a) a motorral hajtott szárazföldi, légi, vízi közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
 
@@ -52,13 +52,13 @@ k) NACE Rev. 2. 51 Légi szállítás.
 
 (8) A LEADER HACS-ok részére a LEADER Helyi Akciócsoportok feladat ellátásához az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatás részletes feltételeiről szóló 30/2012. (III. 24.) VM rendelet keretében elszámolt kiadások e rendelet keretében nem támogathatóak.
 
-(9)[^15] Az együttműködési projektmenedzsment tevékenységhez kapcsolódó kiadások legfeljebb az összes elszámolható kiadás projektmenedzsment és 3. melléklet szerinti kiadások nélkül számított összegének 15%-áig számolhatóak el. Azon TESZOR számú kiadások, amelyek projektmenedzsmentként kerülnek elszámolásra, a Vhr. 3. számú mellékletében meghatározott egyéb elszámolható kiadásként nem támogathatók.
+(9)[^17] Az együttműködési projektmenedzsment tevékenységhez kapcsolódó kiadások legfeljebb az összes elszámolható kiadás projektmenedzsment és 3. melléklet szerinti kiadások nélkül számított összegének 15%-áig számolhatóak el. Azon TESZOR számú kiadások, amelyek projektmenedzsmentként kerülnek elszámolásra, a Vhr. 3. számú mellékletében meghatározott egyéb elszámolható kiadásként nem támogathatók.
 
-(10)[^16] A 3. melléklet szerint elszámolható kiadások legfeljebb az összes elszámolható kiadás projektmenedzsment és 3. melléklet szerinti kiadások nélkül számított összegének 15%-áig számolhatóak el.
+(10)[^18] A 3. melléklet szerint elszámolható kiadások legfeljebb az összes elszámolható kiadás projektmenedzsment és 3. melléklet szerinti kiadások nélkül számított összegének 15%-áig számolhatóak el.
 
 (11) Az együttműködések utazáshoz kapcsolódó költségeit a 3. mellékletben foglaltakat figyelembe véve kell megtervezni és a projekt költségvetésébe építeni.
 
-(12)[^17] A támogatás mértéke, ha az ügyfél:
+(12)[^19] A támogatás mértéke, ha az ügyfél:
 
 a) természetes személy, mikro, kis- és középvállalkozás és a fejlesztést
 
@@ -70,9 +70,9 @@ b) települési önkormányzat, települési nemzetiségi önkormányzat, önál
 
 c) egyházi jogi személy, nonprofit szervezet, akkor az összes elszámolható kiadás 100%-a.
 
-[^12]: A 6. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^13]: A 6. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^14]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^15]: A 6. § (9) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^16]: A 6. § (10) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^17]: A 6. § (12) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^14]: A 6. § (1) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^15]: A 6. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^16]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^17]: A 6. § (9) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^18]: A 6. § (10) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^19]: A 6. § (12) bekezdése a 93/2013. (X. 10.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.

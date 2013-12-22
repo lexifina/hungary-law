@@ -30,9 +30,9 @@ g) az árajánlat kiállításának dátumát.
 
 (7) Az együttműködési projektmenedzsment tevékenységéhez kapcsolódó kiadások, valamint a 3. melléklet szerint elszámolható kiadások tekintetében árajánlat becsatolása nem szükséges.
 
-(8)[^18] A Vhr. 28. § (3) bekezdésétől eltérően a támogatási határozattal jóváhagyott árajánlatos tétel (gép, eszköz, berendezés, szolgáltatás) helyett más árajánlatos tétel beszerzésére akkor van lehetőség, ha az árajánlatos tételek funkciójukat tekintve egymással helyettesíthetőek, és az új árajánlatos tétel ugyanazt a célt szolgálja a műveleten belül, mint a lecserélni kívánt tétel. A támogatás az árajánlatos tétel módosításának jóváhagyását követően sem haladhatja meg a lecserélni kívánt árajánlatos tétel vonatkozásában a támogatási határozatban jóváhagyott összeget.
+(8)[^20] A Vhr. 28. § (3) bekezdésétől eltérően a támogatási határozattal jóváhagyott árajánlatos tétel (gép, eszköz, berendezés, szolgáltatás) helyett más árajánlatos tétel beszerzésére akkor van lehetőség, ha az árajánlatos tételek funkciójukat tekintve egymással helyettesíthetőek, és az új árajánlatos tétel ugyanazt a célt szolgálja a műveleten belül, mint a lecserélni kívánt tétel. A támogatás az árajánlatos tétel módosításának jóváhagyását követően sem haladhatja meg a lecserélni kívánt árajánlatos tétel vonatkozásában a támogatási határozatban jóváhagyott összeget.
 
-(9)[^19] Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a (2) bekezdésnek megfelelő, legfeljebb egy hónappal a módosítási kérelem benyújtása előtt kiállított, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
+(9)[^21] Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a (2) bekezdésnek megfelelő, legfeljebb egy hónappal a módosítási kérelem benyújtása előtt kiállított, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
 
-[^18]: A 7. § (8) bekezdését a 121/2013. (XII. 16.) VM rendelet 26. § (3) bekezdése iktatta be.
-[^19]: A 7. § (9) bekezdését a 121/2013. (XII. 16.) VM rendelet 26. § (3) bekezdése iktatta be.
+[^20]: A 7. § (8) bekezdését a 121/2013. (XII. 16.) VM rendelet 26. § (3) bekezdése iktatta be.
+[^21]: A 7. § (9) bekezdését a 121/2013. (XII. 16.) VM rendelet 26. § (3) bekezdése iktatta be.
