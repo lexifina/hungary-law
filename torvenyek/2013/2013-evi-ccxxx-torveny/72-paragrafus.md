@@ -1,1 +1,0 @@
-72. § A XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 33. alcím, 1. Beruházás ösztönzési célelőirányzat jogcímcsoport tekintetében a tárgyéven túli fizetési kötelezettségvállalás állomány összege nem haladhatja meg a 97 500,0 millió forintot. A tárgyévi előirányzaton felül a Kormány egyedi döntése alapján vállalható kötelezettség.

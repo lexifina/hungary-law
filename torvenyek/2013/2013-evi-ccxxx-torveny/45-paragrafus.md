@@ -1,3 +1,0 @@
-45. § (1) A KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneihez kapcsolódó állami készfizető kezesség állománya 2014. december 31-én nem haladhatja meg a 10 000,0 millió forintot.
-
-(2) A KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő díj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökhöz kapcsolódó állami készfizető kezesség állománya 2014. december 31-én nem haladhatja meg a 8000,0 millió forintot.
