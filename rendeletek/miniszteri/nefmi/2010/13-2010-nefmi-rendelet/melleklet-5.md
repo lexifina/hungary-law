@@ -1,4 +1,4 @@
-| A 2013/2014. TANÉV SZAKKÉPZÉS SZAKMAI TANKÖNYVEINEK LEGMAGASABB FOGYASZTÓI ÁRA |
+| A 2014/2015. TANÉV SZAKKÉPZÉS SZAKMAI TANKÖNYVEINEK LEGMAGASABB FOGYASZTÓI ÁRA |
 
 | Az árak ÁFÁ-val együtt értendők |
 
@@ -46,9 +46,9 @@
 
 | 4 Könyv CD/DVD- melléklettel | Megfelelő kategóriához többletként Terjedelemtől függetlenül | 1 500 | 1 500 | 1 500 |
 
-5. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^9]
+5. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^10]
 
-| A 2013/2014. TANÉV DIGITÁLIS TANANYAG TANKÖNYVTÍPUSAINAK LEGMAGASABB FOGYASZTÓI ÁRA |
+| A 2014/2015. TANÉV DIGITÁLIS TANANYAG TANKÖNYVTÍPUSAINAK LEGMAGASABB FOGYASZTÓI ÁRA |
 
 | A A digitális tananyag típusa a felhasználás módja szerint | B A digitális tananyag típusa | C A digitális tananyag fizikai megjelenése | D A digitális tananyag mennyisége | E A digitális tananyag ára (áfával együtt értendő) |
 
@@ -78,4 +78,4 @@
 
 * tanegység = egy tanórát lefedő tananyagtartalom
 
-[^9]: Az 5. melléklet a 46/2012. (XII. 5.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^10]: Az 5. melléklet a 46/2012. (XII. 5.) EMMI rendelet 1. §-a, a 80/2013. (XII. 21.) EMMI rendelet 2. § e) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-| A 2013/2014. TANÉV SAJÁTOS NEVELÉSI IGÉNYŰ TANULÓI TANKÖNYVEINEK A LEGMAGASABB FOGYASZTÓI ÁRA |
+| A 2014/2015. TANÉV SAJÁTOS NEVELÉSI IGÉNYŰ TANULÓI TANKÖNYVEINEK A LEGMAGASABB FOGYASZTÓI ÁRA |
 
 | Az árak ÁFÁ-val együtt értendők |
 
@@ -28,6 +28,6 @@
 
 | 3 Kartonált, cérnafűzött kötés, kartonált szálfelsütéses kötés | 3.1 Megfelelő kategória felára |  | 235 Ft | 235 Ft | 235 Ft |
 
-3. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^7]
+3. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^8]
 
-[^7]: A 3. melléklet a 46/2012. (XII. 5.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^8]: A 3. melléklet a 46/2012. (XII. 5.) EMMI rendelet 1. §-a, a 80/2013. (XII. 21.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.

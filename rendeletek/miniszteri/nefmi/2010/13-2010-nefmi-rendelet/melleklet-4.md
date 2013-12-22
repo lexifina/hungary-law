@@ -1,4 +1,4 @@
-| A 2013/2014. TANÉV NEMZETISÉGI TANKÖNYVEINEK LEGMAGASABB FOGYASZTÓI ÁRA |
+| A 2014/2015. TANÉV NEMZETISÉGI TANKÖNYVEINEK LEGMAGASABB FOGYASZTÓI ÁRA |
 
 | Az árak ÁFÁ-val együtt értendők |
 
@@ -30,6 +30,6 @@
 
 | 3.4 30,1–50 ív | 25 000 Ft | 21 000 Ft | 18 480 Ft | 11 005 Ft |
 
-4. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^8]
+4. melléklet a 13/2010. (XI. 25.) NEFMI rendelethez[^9]
 
-[^8]: A 4. melléklet a 46/2012. (XII. 5.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 4. melléklet a 46/2012. (XII. 5.) EMMI rendelet 1. §-a, a 80/2013. (XII. 21.) EMMI rendelet 2. § d) pontja szerint módosított szöveg.
