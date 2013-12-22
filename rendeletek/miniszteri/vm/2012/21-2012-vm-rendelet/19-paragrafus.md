@@ -1,3 +1,3 @@
-## 16–18. §[^33]
+## 16–18. §[^35]
 
-[^33]: A 16–18. §-t a 19. § (1) bekezdése hatályon kívül helyezte.
+[^35]: A 16–18. §-t a 19. § (1) bekezdése hatályon kívül helyezte.
