@@ -4,7 +4,7 @@
 
 a) Magyarországon vagy más EU tagállamban székhellyel rendelkező, agrár-szakképzési tevékenységet folytató jogi személy, vagy jogi személyiség nélküli gazdasági társaság, nonprofit szervezet, vagy ezek konzorciuma, és
 
-b)[^23] a felnőttképzésről szóló törvényben foglaltak alapján felnőttoktatás folytatására jogosult, regisztrált képzési hely, valamint külön jogszabály alapján felnőttképzési intézmény-akkreditációval rendelkezik, továbbá
+b)[^23] a felnőttképzésről szóló törvényben foglaltak alapján felnőttoktatás folytatására jogosult, regisztrált képzési hely,
 
 c)[^24] rendelkezik ügyfél-azonosító számmal.
 
@@ -51,7 +51,7 @@ f)[^30] a képzési projekt megvalósítására a NAKVI-val kötött hatályos m
 (14)[^40]
 
 [^22]: A 6. §-t megelőző alcím a 47/2013. (VI. 7.) VM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^23]: A 6. § (1) bekezdés b) pontja a 86/2013. (IX. 27.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^23]: A 6. § (1) bekezdés b) pontja a 130/2013. (XII. 21.) VM rendelet 12. §-ával megállapított szöveg.
 [^24]: A 6. § (1) bekezdés c) pontja a 86/2013. (IX. 27.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^25]: A 6. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (27) bekezdése, a 90/2011. (X. 3.) VM rendelet 7. § (1) bekezdése, a 106/2012. (X. 11.) VM rendelet 8. § b) pontja szerint módosított szöveg.
 [^26]: A 6. § (4) bekezdése a 18/2010. (IX. 30.) VM rendelet 3. §-ával megállapított szöveg.
