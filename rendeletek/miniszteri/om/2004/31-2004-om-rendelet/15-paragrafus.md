@@ -42,6 +42,10 @@ p)[^49] Oktatási Hivatal 10032000-00282637-00000000 pénzforgalmi jelzőszámú
 
 q)[^50] Nemzeti Szakképzési és Felnőttképzési Intézet 10032000-01744260-00000000 számú előirányzat felhasználási keretszámla.
 
+r)[^51] Nemzeti Fejlesztési Minisztérium 10032000-00290713-00000000 pénzforgalmi jelzőszámú előirányzat-felhasználási keretszámla.
+
+s)[^52] Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóság 10023002-00300795-00000000 pénzforgalmi jelzőszámú előirányzat-felhasználási keretszámla.
+
 [^42]: A 15–17. §-t és a 15. §-t megelőző alcímet a 38/2009. (XII. 29.) OKM rendelet 14. § (6) bekezdése hatályon kívül helyezte. E módosító rendelet 15. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokra is alkalmazni kell.
 [^43]: A Melléklet a) pontja a 7/2010. (II. 11.) OKM rendelet 21. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
 [^44]: A melléklet c) pontja a 19/2008. (VII. 19.) OKM rendelet 9. §-ával megállapított szöveg.
@@ -51,3 +55,5 @@ q)[^50] Nemzeti Szakképzési és Felnőttképzési Intézet 10032000-01744260-0
 [^48]: A melléklet l) pontja a 19/2008. (VII. 19.) OKM rendelet 9. §-ával megállapított szöveg.
 [^49]: A melléklet p) pontja a 19/2008. (VII. 19.) OKM rendelet 9. §-ával megállapított szöveg.
 [^50]: A melléklet q) pontját a 19/2008. (VII. 19.) OKM rendelet 9. §-a iktatta be.
+[^51]: A melléklet r) pontját a 80/2013. (XII. 21.) EMMI rendelet 1. §-a iktatta be.
+[^52]: A melléklet s) pontját a 80/2013. (XII. 21.) EMMI rendelet 1. §-a iktatta be.
