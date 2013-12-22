@@ -1,6 +1,6 @@
-## 22. §[^43] E rendeletnek az egyes agrártámogatási tárgyú rendeletek, valamint az agrárkár-enyhítési eljárási rendelet módosításáról szóló 97/2013. (X. 22.) VM rendelettel [a továbbiakban: 97/2013. (X. 22.) VM rendelet] megállapított 3. § (14) bekezdését, 4. § (1) és (2) bekezdését, valamint 1. mellékletét a 97/2013. (X. 22.) VM rendelet hatályba lépésekor[^44] folyamatban lévő ügyekben is alkalmazni kell.
+## 22. §[^44] E rendeletnek az egyes agrártámogatási tárgyú rendeletek, valamint az agrárkár-enyhítési eljárási rendelet módosításáról szóló 97/2013. (X. 22.) VM rendelettel [a továbbiakban: 97/2013. (X. 22.) VM rendelet] megállapított 3. § (14) bekezdését, 4. § (1) és (2) bekezdését, valamint 1. mellékletét a 97/2013. (X. 22.) VM rendelet hatályba lépésekor[^45] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 22/2012. (III. 9.) VM rendelethez[^45]
+1. melléklet a 22/2012. (III. 9.) VM rendelethez[^46]
 
 1. táblázat: Felsőoktatás
 
@@ -3100,6 +3100,6 @@
 
 | 130. | 51 | 344 | 8 | Termékdíj ügyintéző |
 
-[^43]: A 22. §-t a 97/2013. (X. 22.) VM rendelet 27. §-a iktatta be.
-[^44]: A hatálybalépés időpontja 2013. október 23.
-[^45]: Az 1. melléklet a 97/2013. (X. 22.) VM rendelet 26. §-ával megállapított szöveg.
+[^44]: A 22. §-t a 97/2013. (X. 22.) VM rendelet 27. §-a iktatta be.
+[^45]: A hatálybalépés időpontja 2013. október 23.
+[^46]: Az 1. melléklet a 97/2013. (X. 22.) VM rendelet 26. §-ával megállapított szöveg.

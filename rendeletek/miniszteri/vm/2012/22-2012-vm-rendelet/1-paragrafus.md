@@ -40,16 +40,17 @@
 
 19. Szerkezetátalakítási program: a 73/2009/EK tanácsi rendelet 68. cikk (1) bekezdés c) pontja szerinti különleges támogatás mellé rendelt program, amelynek célja, hogy: a húsmarha és juh ágazatokban tevékenykedő gazdálkodók és alkalmazottaik ne szoruljanak ki a helyi gazdasági hálózatokból és az érintett területeken ne csökkenjen a gazdasági aktivitás szintje; az érintett gazdálkodók szabad piaci döntésén alapuló mezőgazdasági vagy vidékfejlesztési tevékenység keretében a korábbi állattartáshoz hasonló értéket képviselő gazdasági tevékenység folytatódjon, ezen térségek foglalkoztatási helyzete tovább ne romoljon; valamint a húsmarha- és juhtenyésztő területeket ne vonják ki a hasznosításból és jó ökológiai állapotban maradjanak;
 
-20. Támogatási időszak: 2012. január 1-jétől 2013. december 31-ig tartó időszak;
+20.[^4] Támogatási időszak: 2012. január 1-jétől 2014. december 31-ig tartó időszak;
 
 21. Tárgyév: az a támogatási időszakon belüli naptári év, amikor a termelő különleges támogatás iránti kérelmet nyújt be.
 
-22.[^4] Felújítás: a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 8. pontja szerinti fogalom;
+22.[^5] Felújítás: a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 8. pontja szerinti fogalom;
 
-23.[^5] Elkülönített nyilvántartás: azon támogatási feltétel megvalósítását eredményező eseményekről szóló külön nyilvántartás, illetve külön analitikus nyilvántartás eredeti bizonylatai, amelyek e rendeletben meghatározott feltétel teljesítéséhez az ügyfél vagyoni és jövedelmi helyzetére hatást gyakorolnak, azzal, hogy könyvvezetési kötelezettség esetén az ügyfél kiadásait, valamint a bevételeit is tartalmazza, szabályzatban meghatározott helyen, bármikor ellenőrizhetően tárolt, őrzött módon, legalább a vonatkozó jogszabályokban előírt iratmegőrzési határidőig.
+23.[^6] Elkülönített nyilvántartás: azon támogatási feltétel megvalósítását eredményező eseményekről szóló külön nyilvántartás, illetve külön analitikus nyilvántartás eredeti bizonylatai, amelyek e rendeletben meghatározott feltétel teljesítéséhez az ügyfél vagyoni és jövedelmi helyzetére hatást gyakorolnak, azzal, hogy könyvvezetési kötelezettség esetén az ügyfél kiadásait, valamint a bevételeit is tartalmazza, szabályzatban meghatározott helyen, bármikor ellenőrizhetően tárolt, őrzött módon, legalább a vonatkozó jogszabályokban előírt iratmegőrzési határidőig.
 
 [^1]: Az 1. § 5. pontja a 8/2013. (II. 18.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 16. pontja a 48/2012. (V. 16.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 18. pontja a 48/2012. (V. 16.) VM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^4]: Az 1. § 22. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
-[^5]: Az 1. § 23. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^4]: Az 1. § 20. pontja a 130/2013. (XII. 21.) VM rendelet 31. §-ával megállapított szöveg.
+[^5]: Az 1. § 22. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
+[^6]: Az 1. § 23. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
