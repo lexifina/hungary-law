@@ -30,7 +30,10 @@ a) kizárólag egy adott gazdasági társaság érdekeinek és termékeinek bemu
 
 b) politikai célú rendezvényre.
 
+(5)[^8] Az (1) bekezdés c)–i) pontjaiban felsorolt tevékenységek vonatkozásában az ügyfelet – a Vhr. 23. § (1) bekezdés b) pontjától eltérően – nem terheli üzemeltetési kötelezettség.
+
 [^4]: A 3. § (1) bekezdés g) pontja az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdés h) pontja az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés i) pontját az 55/2013. (VI. 27.) VM rendelet 2. § (1) bekezdése iktatta be.
 [^7]: A 3. § (1a) bekezdését az 55/2013. (VI. 27.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 3. § (5) bekezdését a 130/2013. (XII. 21.) VM rendelet 44. §-a iktatta be.

@@ -39,3 +39,7 @@ a) a felek nevét és személyes adatait,
 b) a képzés témáját, időpontját, időtartamát, és
 
 c) a képzési órák számát.
+
+(8)[^9] E rendelet szerinti intézkedés vonatkozásában a Vhr. 15. § (1) bekezdés b) pontja nem alkalmazandó.
+
+[^9]: Az 5. § (8) bekezdését a 130/2013. (XII. 21.) VM rendelet 45. §-a iktatta be.

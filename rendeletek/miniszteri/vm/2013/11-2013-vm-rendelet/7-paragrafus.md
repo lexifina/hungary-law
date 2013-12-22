@@ -32,9 +32,9 @@ g) az árajánlat kiállításának dátumát.
 
 (8) Az együttműködési projektmenedzsment tevékenységéhez kapcsolódó kiadások tekintetében árajánlat becsatolása nem szükséges.
 
-(9)[^11] A Vhr. 28. § (3) bekezdésétől eltérően a támogatási határozattal jóváhagyott árajánlatos tétel (gép, eszköz, berendezés, szolgáltatás) helyett más árajánlatos tétel beszerzésére akkor van lehetőség, ha az árajánlatos tételek funkciójukat tekintve egymással helyettesíthetőek, és az új árajánlatos tétel ugyanazt a célt szolgálja a műveleten belül, mint a lecserélni kívánt tétel. A támogatás az árajánlatos tétel módosításának jóváhagyását követően sem haladhatja meg a lecserélni kívánt árajánlatos tétel vonatkozásában a támogatási határozatban jóváhagyott összeget.
+(9)[^13] A Vhr. 28. § (3) bekezdésétől eltérően a támogatási határozattal jóváhagyott árajánlatos tétel (gép, eszköz, berendezés, szolgáltatás) helyett más árajánlatos tétel beszerzésére akkor van lehetőség, ha az árajánlatos tételek funkciójukat tekintve egymással helyettesíthetőek, és az új árajánlatos tétel ugyanazt a célt szolgálja a műveleten belül, mint a lecserélni kívánt tétel. A támogatás az árajánlatos tétel módosításának jóváhagyását követően sem haladhatja meg a lecserélni kívánt árajánlatos tétel vonatkozásában a támogatási határozatban jóváhagyott összeget.
 
-(10)[^12] Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a (2) bekezdésnek megfelelő, legfeljebb egy hónappal a módosítási kérelem benyújtása előtt kiállított, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
+(10)[^14] Az árajánlatos tételek módosulása esetén a kifizetési kérelemhez csatolni kell legalább kettő darab, a (2) bekezdésnek megfelelő, legfeljebb egy hónappal a módosítási kérelem benyújtása előtt kiállított, a teljesítéskor érvényes árajánlatot, és az ügyfélnek meg kell indokolnia, hogy a két árajánlat közül melyiket választja.
 
-[^11]: A 7. § (9) bekezdését a 121/2013. (XII. 16.) VM rendelet 30. § (1) bekezdése iktatta be.
-[^12]: A 7. § (10) bekezdését a 121/2013. (XII. 16.) VM rendelet 30. § (1) bekezdése iktatta be.
+[^13]: A 7. § (9) bekezdését a 121/2013. (XII. 16.) VM rendelet 30. § (1) bekezdése iktatta be.
+[^14]: A 7. § (10) bekezdését a 121/2013. (XII. 16.) VM rendelet 30. § (1) bekezdése iktatta be.
