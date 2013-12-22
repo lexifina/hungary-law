@@ -1,3 +1,3 @@
-## 18. §[^1]
+## 18. §[^2]
 
-[^1]: A 18. § a 16. § (2) bekezdése alapján 2014. március 15-én lép hatályba.
+[^2]: A 18. § a 16. § (2) bekezdése alapján 2014. március 15-én lép hatályba.

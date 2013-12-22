@@ -10,8 +10,10 @@ b) az „I/a. zsírszegény tej” és „I/b. zsírszegény ízesített tej” 
 
 c) az „I/c. natúr joghurt és kefir” esetében 395 Ft/kg,
 
-d) az „I/c. gyümölcsleves/ízesített joghurt” esetében 315 Ft/kg,
+d)[^1] az „I/c. gyümölcsleves/ízesített joghurt” esetében 460 Ft/kg,
 
 e) a „II. gyümölcsdarabos joghurt” esetében 485 Ft/kg,
 
 f) a „III. ömlesztett sajt” esetében 1400 Ft/kg.
+
+[^1]: A 13. § d) pontja a 130/2013. (XII. 12.) VM rendelet 52. §-a szerint módosított szöveg.
