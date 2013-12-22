@@ -34,7 +34,7 @@ c) a b) alpont szerint megjelölt egyes ültetvények életkora 2009. december 3
 
 11. referencia terület: a 2., a 7., a 17., és a 20. pontok szerinti referencia terület együtt;
 
-12.[^4] támogatási időszak: a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program 2010–2013. közötti teljes időtartama;
+12.[^4] támogatási időszak: a zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program 2010–2014. közötti teljes időtartama;
 
 13. támogatási jogosultság: a 3., a 6., a 18. és a 19. pontok szerinti támogatási jogosultságok együtt;
 
@@ -57,4 +57,4 @@ c) a b) alpont szerint megjelölt egyes ültetvények életkora 2009. december 3
 [^1]: Az 1. § 4. pontja a 48/2010. (XII. 31.) VM rendelet 5. §-ával megállapított szöveg.
 [^2]: Az 1. § 5. pontja a 4/2012. (II. 7.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 7. pontja a 4/2012. (II. 7.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § 12. pontja az 56/2011. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § 12. pontja a 130/2013. (XII. 21.) VM rendelet 14. §-ával megállapított szöveg.

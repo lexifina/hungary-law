@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-29-20-8
 | 2013-02-19 | 2010-29-20-82.11 | 8/2013. (II. 18.) VM rendelet |
 | 2013-07-18 | 2010-29-20-82.12 | 59/2013. (VII. 15.) VM rendelet |
 | 2013-10-23 | 2010-29-20-82.13 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2013-12-22 | 2010-29-20-82.14 | 130/2013. (XII. 21.) VM rendelet |
