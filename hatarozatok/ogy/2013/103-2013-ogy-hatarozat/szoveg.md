@@ -10,4 +10,6 @@
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. A 88/2012. (XII. 12.) OGY határozat hatályát veszti.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
