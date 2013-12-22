@@ -12,7 +12,7 @@ c) a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekél
 
 3. hitelkérelemhez kapcsolódó kamattámogatási kérelem: e rendelet hatályba lépését követően benyújtott új hitelkérelemhez vagy hitelszerződést módosító kérelemhez kapcsolódó kamattámogatási kérelem, amely a hitel teljes futamidejére vonatkozik;
 
-4. költségátalány: a 2014. január 31-ig a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6 %-a;
+4.[^1] költségátalány: a 2015. január 31-ig a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) beérkezett és elfogadott támogatáslehívási kérelmek esetében az elfogadott kamattámogatási összeg 0,6 %-a;
 
 5. kezességvállaló intézmény: Agrár- Vállalkozási Hitelgarancia Alapítvány;
 
@@ -27,3 +27,5 @@ c) a Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekél
 10. támogatástartalomról szóló igazolás: a kamattámogatás támogatástartalmáról szóló, az MVH által kiállított igazolás, amely a hitelcél szerint megállapított támogatás „de minimis” jellegét is megjelöli;
 
 11. vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő egyéni vállalkozás, gazdasági társaság, szövetkezet, európai részvénytársaság, mezőgazdasági őstermelő.
+
+[^1]: Az 1. § 4. pontja a 130/2013. (XII. 21.) VM rendelet 43. § a) pontja szerint módosított szöveg.

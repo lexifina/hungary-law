@@ -1,4 +1,4 @@
-## 3. § A vállalkozás 1. mellékletben megjelölt adattartalommal rendelkező önálló kamattámogatási kérelmét vagy a hitelkérelemhez kapcsolódó kamattámogatási kérelmét (a továbbiakban együtt: kamattámogatási kérelem) a pénzügyi intézményhez nyújthatja be 2013. december 31-ig. A kamattámogatási kérelemben százalékpontban kifejezve, két tizedes jegy pontossággal, 0,05 százalékpontos lépésköz alkalmazásával kell megjelölni a vállalkozás által igénybe venni kívánt kamattámogatás mértékét.
+## 3. §[^3] A vállalkozás 1. mellékletben megjelölt adattartalommal rendelkező önálló kamattámogatási kérelmét vagy a hitelkérelemhez kapcsolódó kamattámogatási kérelmét (a továbbiakban együtt: kamattámogatási kérelem) a pénzügyi intézményhez nyújthatja be 2014. december 31-ig. A kamattámogatási kérelemben százalékpontban kifejezve, két tizedes jegy pontossággal, 0,05 százalékpontos lépésköz alkalmazásával kell megjelölni a vállalkozás által igénybe venni kívánt kamattámogatás mértékét.
 
 4. § (1) A kamattámogatás igénybevételére az a vállalkozás jogosult, amely a kamattámogatási kérelem benyújtásának időpontjában
 
@@ -47,3 +47,5 @@ d) vállalja, hogy a kamattámogatás meghiúsulása esetén intézkedik a záro
 (5) Amennyiben a (1) bekezdés ea) pontja szerinti nyilatkozat vagy a (3) bekezdés szerinti adatok alapján a vállalkozás számára rendelkezésre álló szabad csekély összegű (de minimis) keret nem nyújt fedezetet a kamattámogatási kérelemben megjelölt kamattámogatás támogatástartalmára, úgy a vállalkozás legfeljebb a rendelkezésre álló szabad csekély összegű (de minimis) keret figyelembevételével megállapított mértékű kamattámogatásban részesül.
 
 (6) A pénzügyi intézmény és az MVH a vállalkozás rendelkezésére álló csekély összegű (de minimis) keret lekérdezéséhez, zárolásához, lekötéséhez, valamint felszabadításához kapcsolódó eljárás során megvalósuló adatszolgáltatást elektronikus úton teljesítik.
+
+[^3]: A 3. § a 130/2013. (XII. 21.) VM rendelet 43. § b) pontja szerint módosított szöveg.

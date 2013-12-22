@@ -2,4 +2,6 @@
 
 (2) A kamattámogatás mértéke a vállalkozás rendelkezésére álló szabad csekély összegű (de minimis) keret figyelembevételével legfeljebb a hitelkamat 50%-a, de legfeljebb évi 4 százalékpont lehet.
 
-(3) A kamattámogatás és a költségátalány forrása a Magyarország 2012. évi költségvetéséről szóló törvény XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelem-támogatások jogcímcsoport.
+(3)[^2] A kamattámogatás és a költségátalány forrása a Vidékfejlesztési Minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+
+[^2]: A 2. § (3) bekezdése a 130/2013. (XII. 21.) VM rendelet 42. §-ával megállapított szöveg.
