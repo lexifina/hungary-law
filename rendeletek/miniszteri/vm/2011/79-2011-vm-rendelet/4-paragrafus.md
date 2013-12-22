@@ -6,10 +6,10 @@ a) ügyfél-azonosítási adatok (az állattartó megnevezése, cégformája, ü
 
 b) a NÉBIH által engedélyezett elektronikus egyedi jelölőeszköz gyártási időszakára vonatkozó adatok,
 
-c)[^3] a kérelmezett elektronikus egyedi jelölőeszközhöz tartozó ENAR azonosító adatok.
+c)[^4] a kérelmezett elektronikus egyedi jelölőeszközhöz tartozó ENAR azonosító adatok.
 
 (2) A támogatási kérelem egyben kifizetési kérelemnek is minősül.
 
 (3) Egy ügyfél egy benyújtási időszakban egy támogatási kérelmet nyújthat be. Egyazon benyújtási időszakban benyújtott több kérelem esetén a legkorábbi postára adási idejű kérelem kerül elfogadásra, az azonos időszakban benyújtott későbbi kérelmek elutasítása mellett.
 
-[^3]: A 4. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 135. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 135. § c) pontja szerint módosított szöveg.

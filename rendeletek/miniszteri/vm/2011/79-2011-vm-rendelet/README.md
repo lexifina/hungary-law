@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-79-20-2
 | --- | --- | --- |
 | 2011-08-06 | 2011-79-20-2Y.1 | 79/2011. (VIII. 3.) VM rendelet |
 | 2013-08-01 | 2011-79-20-2Y.2 | 70/2013. (VII. 31.) VM rendelet |
+| 2013-12-22 | 2011-79-20-2Y.3 | 37/2017. (XII. 27.) MvM rendelet |
