@@ -10,7 +10,7 @@ b) akinek nincs köztartozása, nem áll csődeljárás, felszámolási, végels
 
 c) bankgarancia esetén legkésőbb az előlegkérelemmel egyidejűleg benyújtja az MVH-hoz a biztosítékról szóló eredeti, formailag és tartalmilag megfelelő és elfogadható okiratot, vagy készpénzletét biztosíték nyújtása esetén biztosítja a készpénzletét MVH bankszámlájára történő megérkezését legkésőbb az előlegkérelem benyújtásának napjáig.
 
-(3)[^3] Az ügyfél, amennyiben
+(3)[^8] Az ügyfél, amennyiben
 
 a) már rendelkezik helyt adó vagy részben helyt adó jogerős támogatási döntéssel, akkor a rendelet hatálybalépését követő 120 napon belül,
 
@@ -30,4 +30,4 @@ b) még nem rendelkezik helyt adó vagy részben helyt adó jogerős támogatás
 
 (9) A biztosítékot az MVH akkor szabadítja fel, ha megállapítja, hogy az ügyfél az előleggel elszámolt vagy az előleg összegét az 5. § (2) bekezdés szerint maradéktalanul visszafizette. Felszabadítható továbbá a biztosíték maradványa a követelés biztosíték terhére történő maradéktalan érvényesítését követően.
 
-[^3]: A 3. § (3) bekezdése a 17/2013. (III. 18.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (3) bekezdése a 17/2013. (III. 18.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
