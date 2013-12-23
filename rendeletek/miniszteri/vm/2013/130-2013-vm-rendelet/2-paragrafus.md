@@ -1,1 +1,0 @@
-## „f) minisztérium: Vidékfejlesztési Minisztérium;”
