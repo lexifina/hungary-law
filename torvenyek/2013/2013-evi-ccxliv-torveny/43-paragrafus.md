@@ -1,3 +1,0 @@
-43. § Az Eütv. 156. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A kórházi felügyelő tanács négy, öt, nyolc, kilenc, tíz, tizenkettő, tizenhárom, tizenhat vagy tizenhét tagból álló testület. A tagok felét, vagy – ha a testület páratlan számú tagból áll – a tagok egyszerű többségét az egészségügyi intézmény ellátási körzetében, az egészségügy területén működő civil szervezetek küldötteiből kell megválasztani. A felügyelő tanács többi tagját – egyenlő arányban – az intézmény választott küldöttei és a fenntartó által delegált tagok alkotják. A tanács elnökét a civil szervezetek küldöttei közül kell megválasztani. Szavazategyenlőség esetén az elnök szavazata dönt.”

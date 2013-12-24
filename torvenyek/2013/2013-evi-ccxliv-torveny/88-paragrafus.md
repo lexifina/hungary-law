@@ -10,6 +10,4 @@
 
 „(15a) A (15) bekezdésben meghatározott kötelezettség a 2/D. §-ban foglaltak tekintetében nem terjed ki a 2010. január 1. előtt megkötött egészségügyi ellátási szerződésekre és szakellátási feladat ellátásra kötött megállapodásokra. Ha a (15) bekezdés alapján a vagyoni biztosíték adási kötelezettség már teljesült, a biztosítékot adó kérelmére a megállapodás, illetve a szerződés vagyoni biztosítékra vonatkozó része hatályát veszti a biztosíték pedig megszüntetésre kerül, illetve visszajár.”
 
-(4) Az Eftv. 14. §-a a következő (19) bekezdéssel egészül ki:
-
-„(19) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 3. § (5) bekezdése alkalmazásánál a 3. § (1) bekezdésében meghatározott országos kapacitásmennyiség 2014. január 1-jei állapotát kell figyelembe venni.”
+(4)
