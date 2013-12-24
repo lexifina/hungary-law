@@ -1,6 +1,6 @@
 7. § (1) A tűzvédelmi szakértő engedélyét visszavonják és törlik a névjegyzékből, ha:
 
-a) az 5. § (2) bekezdésében meghatározott időtartam letelt anélkül, hogy a szakértő a kiegészítő vizsgát eredményesen letette volna,
+a)[^11] az engedélyben meghatározott érvényességi időn belül az engedélyt nem hosszabbították meg,
 
 b) bejelenti, hogy a szakértői tevékenységét nem kívánja tovább folytatni,
 
@@ -17,3 +17,5 @@ f) szakmai tevékenységének ellenőrzése során megállapításra kerül, hog
 (3) A BM OKF az engedély visszavonásáról köteles értesíteni az igazságügyi szakértői névjegyzéket vezető hatóságot.
 
 (4) Ha a tűzvédelmi szakértő engedélyét visszavonják, az erről szóló határozat jogerőre emelkedésétől számított 8 napon belül köteles a szakértői igazolványát a BM OKF részére visszaszolgáltatni.
+
+[^11]: A 7. § (1) bekezdés a) pontja a 82/2013. (XII. 23.) BM rendelet 5. §-ával megállapított szöveg.

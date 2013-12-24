@@ -1,23 +1,21 @@
-## 1. § A tűzvédelmi szakértői szakterületeket e rendelet 1. melléklete tartalmazza.
+2. §[^2] (1) Tűzvédelmi szakértői tevékenység folytatása engedélyezhető annak, aki
 
-2. § (1) Tűzvédelmi szakértői tevékenység folytatása annak engedélyezhető, aki
+a) tűzvédelmi mérnök, tűzvédelmi szakmérnök, építőmérnök, illetve építészmérnök tűz- és katasztrófavédelmi szakirányú végzettséggel, vagy területi építész vagy mérnöki kamarai tagsággal, felsőfokú végzettséggel és jogszabályban meghatározott felsőszintű tűzvédelmi szakmai képesítéssel,
 
-a) tűzvédelmi mérnök, tűzvédelmi szakmérnök, építőmérnök, illetve építészmérnök tűz- és katasztrófavédelmi szakirányú végzettséggel, vagy
+b) a kérelemben megjelölt tűzvédelmi szakterületen legalább ötéves szakmai gyakorlati idő igazolásával, és
 
-b) területi építész vagy mérnöki kamarai tagsággal, felsőfokú állami végzettséggel és jogszabályban meghatározott felsőszintű tűzvédelmi szakmai képesítéssel
+c) a kérelmezett szakterületen a vizsgabizottság előtt letett eredményes vizsgával
 
-rendelkezik.
+## rendelkezik.
 
-(2) Az (1) bekezdésben foglaltakon túl az engedély kiadásához szükséges
+(2) Tűzvizsgálati szakértői tevékenység folytatása esetén az (1) bekezdés a)–b) pontjában foglalt feltételek teljesítése alól mentesül, aki
 
-a) az adott tűzvédelmi szakterületen legalább ötéves szakmai gyakorlati idő igazolása, és
+a) egyetemi vagy főiskolai végzettséggel és jogszabály szerint meghatározott felsőfokú tűzvédelmi szakmai képesítéssel, és
 
-b) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) által összeállított bizottság előtt a kérelmezett szakterületen eredményes vizsga (a továbbiakban: vizsga) tétele.
+b) a tűzvizsgálati szakterületen legalább tízéves szakmai gyakorlattal rendelkezik.
 
-(3) Szakmai gyakorlati időn a kérelemben megjelölt tűzvédelmi szakterületen eltöltött gyakorlati időt kell érteni.
+(3) Tűzvédelmi szakértői tevékenység a tűzvédelmi szakértői engedélyben meghatározott tűzvédelmi szakterületen végezhető. Tűzvédelmi szakértői engedély több tűzvédelmi szakterületre is kérhető.
 
-(4) Tűzvédelmi szakértői engedély több tűzvédelmi szakterületre is kérhető.
+(4) A BM OKF a vizsga időpontjáról a kérelem hiánytalan benyújtásától számított 30 napon belül értesíti a kérelmezőt.
 
-(5) A (2) bekezdés b) pontjában megjelölt vizsgabizottság 3 főből áll, tagjai a kérelmezett szakterületnek megfelelően, a BM OKF állományából, a BM OKF főigazgatója által kijelölt személyek.
-
-(6) A BM OKF a vizsga időpontjáról a kérelem benyújtásától számított 30 napon belül értesíti a kérelmezőt.
+[^2]: A 2. § a 82/2013. (XII. 23.) BM rendelet 2. §-ával megállapított szöveg.
