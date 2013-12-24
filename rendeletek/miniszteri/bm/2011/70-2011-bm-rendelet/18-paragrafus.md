@@ -12,7 +12,7 @@ d) elsősegélynyújtás, heveny esetek ellátása,
 
 e) egészségügyi felvilágosítás, tanácsadás, egészségfejlesztés,
 
-f) közreműködés a munkahelyi veszélyforrások feltárásában, foglalkozás-egészségügyi, fiziológiai, ergonómiai, higiénés feladatok megoldásában, az elsősegélynyújtás és a sürgős orvosi ellátás megszervezésében, az elsősegélynyújtók szakmai felkészítésében, kiképzésében és továbbképzésében, a munkáltató katasztrófamegelőző, katasztrófaelhárító, katasztrófafelszámoló és az előidézett károsodások rehabilitációs tervének kidolgozásában,
+f)[^18] közreműködés a munkahelyi veszélyforrások feltárásában, foglalkozás-egészségügyi, fiziológiai, ergonómiai, higiénés feladatok megoldásában, az elsősegélynyújtás és a sürgős orvosi ellátás megszervezésében, az elsősegélynyújtók szakmai felkészítésében, kiképzésében és továbbképzésében, az állományilletékes parancsnok katasztrófamegelőző, katasztrófaelhárító, katasztrófafelszámoló és az előidézett károsodások rehabilitációs tervének kidolgozásában,
 
 g) munkahelyi és munkaköri kockázatok vizsgálata és értékelése,
 
@@ -31,3 +31,5 @@ b) az időszakos egészségügyi alkalmassági vizsgálat során, ha a vizsgált
 c) az a)–b) pontban meghatározott személyek közé nem tartozók közül azoknak, akiknél a fizikai, kémiai és biológiai munkaköri kockázatértékelés eredménye alapján az alkalmassági vizsgálatot végző orvos indokoltnak tartja.
 
 (4) A (3) bekezdésben meghatározott esetekben a mellkas-szűrővizsgálat eredményét kell bemutatni az alkalmassági vizsgálatot végző orvosnak.
+
+[^18]: A 18. § (1) bekezdés f) pontja a 71/2013. (XII. 16.) BM rendelet 10. § e) pontja szerint módosított szöveg.

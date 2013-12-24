@@ -1,171 +1,185 @@
-| Iktatószám: |  |
+| Iktatószám: |  |  |
 
 | BALESETI JEGYZŐKÖNYV |
 
-| Szerv megnevezése: |
+| Szerv megnevezése: |  |  |
 
-| A SÉRÜLT |  | Születési idő: |  |  |  |  |  |  |  |  |  |
+| A SÉRÜLT |  |  |  |  |  |  |  |  |  |  |  |  | Születési idő: |  |  |  |  |  |  |  |  |  |  |  |
 
-| Neve, rendfok.: |  | TAJ száma: |  |  |  |  |  |  |  |  |  |
+| Neve, rendfok.: |  |  |  |  |  |  |  |  |  |  |  |  | TAJ száma: |  |  |  |  |  |  |  |  |  |  |  |
 
-| (születési név): |  | Születési helye: |  |
+| (születési név): |  |  |  |  |  |  |  |  |  |  |  |  | Születési helye: |  |  |  |  |  |  |  |  |  |  |  |
 
-| Anyja neve: |  | Beosztása, munkaköre: |  |
+| Anyja neve: |  |  |  |  |  |  |  |  |  |  |  |  | Beosztása, munkaköre: |  |  |  |  |  |  |  |  |  |
 
-| Lakcím: |  | Beosztási helye: |  |
+| Lakcím: |  |  |  |  |  |  |  |  |  |  |  |  | Beosztási helye: |  |  |  |  |  |  |  |  |  |  |  |
 
-| Állománycsoportja: |  |
+| Állománycsoportja: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1. Hivatásos 2. Kormánytisztviselő 3. Közalkalmazott 4. Munkavállaló 5. Önkormányzati tűzoltó 6. Létesítményi tűzoltó 7. Egyéb |  |
+| 1. Hivatásos 2. Kormánytisztviselő 3. Közalkalmazott 4. Munkavállaló 5. Önkormányzati tűzoltó 6. Létesítményi tűzoltó 7. Közfoglalkoztatott 8. Egyéb |  |  |
 
-| Tevékenysége: 01. Rendvédelmi feladatok végrehajtása 08. Anyagmozgatás 02. Határőrizeti tevékenység 09. Közlekedés 03. Tűzoltási, műszaki mentési és katasztrófa elhárítással összefüggő feladat 10. Napirend szerinti tevékenység 04. Szellemi, irodai tevékenység 11. Kötelező sportfoglalkozás 05. Gépkezelés, gépkiszolgálás 12. Szabadfoglalkozás 06. Javítás, karbantartás 13. Kiképzés 07. Munkavégzés kézi erővel 14. Egyéb |  |
+| Tevékenysége: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Szolgálati, szakmai, munkavédelmi ismeretei: A szükséges szolgálati, szakmai képesítéssel rendelkezik: |  |
+| 01. Rendvédelmi feladatok végrehajtása |  |  |  |  |  | 08. Anyagmozgatás |  |  |  |
 
-| 1. Igen |
+| 02. Határőrizeti tevékenység |  |  |  |  |  |  |  | 09. Közlekedés |  |  |  |
 
-| 2. Nem |
+| 03. Tűzoltási, műszaki mentési és katasztrófa elhárítással összefüggő feladat | 10. Napirend szerinti tevékenység |
 
-| 3. Nem szükséges Az előírt munkavédelmi oktatásban részesült: |  |
+| 04. Szellemi, irodai tevékenység |  |  |  |  |  |  |  | 11. Kötelező sportfoglalkozás |  |
 
-| A BALESET | Helyszíne: | Időpontja: | év | hó | nap | óra |
+| 05. Gépkezelés, gépkiszolgálás |  |  |  |  |  |  |  | 12. Szabadfoglalkozás |  |  |  |
 
-|  | (24 órás időszámítás) |  |  |  |  |  |  |  |  |
+| 06. Javítás, karbantartás |  |  |  |  |  |  |  | 13. Kiképzés |  |  |  |
 
-| Napja: 1.H 2.K 3.Sz 4.Cs 5.P 6.Szo 7.V |  |
+| 07. Munkavégzés kézi erővel |  |  |  |  |  |  |  | 14. Egyéb |  |  |  |
 
-| A szolgálat, ill. munkaidő hányadik órájában történt a baleset? |  |  |
+| Szolgálati, szakmai, munkavédelmi ismeretei: A szükséges szolgálati, szakmai képesítéssel rendelkezik: |  |  |
 
-| Fajtája: |
+| 1. Igen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 01. Járművek ütközése, borulása, gázolás | 06. Természeti tényező | 11. Égés, forrázás |
+| 2. Nem |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 02. Leesés, zuhanás | 07. Ütés, ütődés | 12. Fagyás |
+| 3. Nem szükséges |  |  |  |  |  |  |  | Az előírt munkavédelmi oktatásban részesült: |  |  |
 
-| 03. Elbotlás, elesés, elcsúszás | 08. Szúrás, vágás | 13. Sugárzás okozta hatás |
+| A BALESET | Helyszíne: |  | Időpontja: |  |  |  |  | év |  |  | hó |  |  | nap |  |  | óra |  |
 
-| 04. Tárgyak esése, omlása | 09. Lövés | 14. Biológiai hatás |
+|  |  |  |  |  |  |  |  |  |  |  | (24 órás időszámítás) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 05. Forgó, mozgó géprész érintése | 10. Robbanás | 15. Elmerülés |
+|  |  |  |  |  |  |  |  |  |  |  | Napja: | 1.H | 2.K | 3.Sz | 4.Cs | 5.P | 6.Szo |  | 7.V |  |  |  |  |
 
-| Jellege: |  |
+|  |  |  |  |  |  |  |  |  |  |  | A szolgálat, ill. munkaidő hányadik órájában történt a baleset? |  |  |  |  |
 
-| 1. Szolgálattal, munkával összefüggésben, objektumon belül | 4. TB szolgáltatások igénybevétele során |
+| Fajtája: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2. Szolgálattal, munkával összefüggésben objektumon kívül | 5. Szolgálattal, munkával nem összefüggésben, obj. belül |
+| 01. Járművek ütközése, borulása, gázolás |  | 06. Természeti tényező |  |  | 11. Égés, forrázás |  |  |  |  |
 
-| 3. Szolgálatba, munkába menet onnan jövet | 6. Szolgálattal, munkával nem összefüggésben, obj. kívül |
+| 02. Leesés, zuhanás |  | 07. Ütés, ütődés |  |  | 12. Fagyás |  |  |  |  |
 
-| 1. Szerv tulajdonában lévő, vagy általa igénybevett járművel | 3. Tömegközlekedési járművel történt közlekedés közben |
+| 03. Elbotlás, elesés, elcsúszás |  | 08. Szúrás, vágás |  |  | 13. Sugárzás okozta hatás |  |  |  |  |
 
-| történő közlekedés közben | 4. Gyalogos közlekedés közben |
+| 04. Tárgyak esése, omlása |  | 09. Lövés |  |  | 14. Biológiai hatás |  |  |  |  |
 
-| 2. Személyi tulajdonban lévő járművel történő közl. közben | 5. Nem közlekedés közben |  |
+| 05. Forgó, mozgó géprész érintése |  | 10. Robbanás |  |  | 15. Elmerülés 16. Egyéb………………. |  |  |  |  |
 
-| Oka: |
+| Jellege: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 01. Környezet hibája | 14. A sérült gyakorlatlansága |
+| A) 1. Szolgálattal, munkával összefüggésben, objektumon belül |  | 4. TB szolgáltatások igénybevétele során |  |  |  |  |
 
-| 02. Anyag, szerszám, gép hibája | 15. A sérült egészségi alkalmatlansága |
+| 2. Szolgálattal, munkával összefüggésben objektumon kívül |  | 5. Szolgálattal, munkával nem összefüggésben, obj. belül |  |
 
-| 03. Egyéb eszköz, szerkezet, berendezés hibája | 16. A sérült figyelmetlensége |
+| 3. Szolgálatba, munkába menet onnan jövet |  | 6. Szolgálattal, munkával nem összefüggésben, obj. kívül |
 
-| 04. Védőburkolat, -berendezés (jelző) hibája, hiánya | 17. A sérült gondatlansága |
+| B) 1. Szerv tulajdonában lévő, vagy általa igénybevett járművel történő közlekedés közben 2. Személyi tulajdonban lévő járművel történő közl. közben |  |  |
 
-| 05. Egyéni védőeszköz hibája, hiánya | 18. A sérült előírástól eltérő tevékenysége |
+| 3. Tömegközlekedési járművel történt közlekedés közben 4. Gyalogos közlekedés közben 5. Nem közlekedés közben |  |  |  |  |  |  |  |
 
-| 06. Káros környezeti hatás | 19. A sérült befolyásoltsága (alkohol, gyógyszer, stb.) |
+| Oka: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 07. Emberek támadása | 20. Más személy gyakorlatlansága |
+| 01. Környezet hibája |  | 14. A sérült gyakorlatlansága |  |  |  |  |
 
-| 08. Állatok támadása | 21. Más személy figyelmetlensége |
+| 02. Anyag, szerszám, gép hibája |  | 15. A sérült egészségi alkalmatlansága |  |  |  |  |
 
-| 09. Elemi csapás | 22. Más személy fegyelmezetlensége, gondatlansága |
+| 03. Egyéb eszköz, szerkezet, berendezés hibája |  | 16. A sérült figyelmetlensége |  |  |  |  |
 
-| 10. Előírási, tervezési, szervezési hiba | 23. Más személy előírástól eltérő tevékenysége |
+| 04. Védőburkolat, -berendezés (jelző) hibája, hiánya |  | 17. A sérült gondatlansága |  |  |  |  |
 
-| 11. Ellenőrzés elmulasztása | 24. Más személy ittassága |
+| 05. Egyéni védőeszköz hibája, hiánya |  | 18. A sérült előírástól eltérő tevékenysége |  |  |  |  |
 
-| 12. Karbantartás elmulasztása | 25. Más személy jogellenes magatartása |
+| 06. Káros környezeti hatás |  | 19. A sérült befolyásoltsága (alkohol, gyógyszer stb.) |  |  |  |  |
 
-| 13. Felügyelet hiánya |  |  |  |
+| 07. Emberek támadása |  | 20. Más személy gyakorlatlansága |  |  |  |  |
 
-| Eszköze, anyaga: |
+| 08. Állatok támadása |  | 21. Más személy figyelmetlensége |  |  |  |  |
 
-| 01. Fegyver, lőszer, haditechnikai eszköz | 06. Anyagok, hatások (maró, ionizáló, hő stb.) |
+| 09. Elemi csapás |  | 22. Más személy fegyelmezetlensége, gondatlansága |  |  |  |  |
 
-| 02. Gépjármű, egyéb közlekedési eszköz | 07. Berendezési tárgy |
+| 10. Előírási, tervezési, szervezési hiba |  | 23. Más személy előírástól eltérő tevékenysége |  |  |  |  |
 
-| 03. Gép, gépi berendezés | 08. Használati eszköz |
+| 11. Ellenőrzés elmulasztása |  | 24. Más személy ittassága |  |  |  |  |
 
-| 04. Munkaeszköz, szerszám | 09. Egyéb |
+| 12. Karbantartás elmulasztása |  | 25. Más személy jogellenes magatartása |  |  |  |  |
 
-| 05. Sporteszköz, -létesítmény | 10. Eszköz nélkül |  |  |
+| 13. Felügyelet hiánya |  | 26. Egyéb |  |  |  |  |
 
-| Védőeszközök alkalmassága: | Egyéni védőeszköz: |  |
+| Eszköze, anyaga: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1. Alkalmas, rendeltetésszerűen használták | 4. Alkalmatlan, nem rendeltetésszerűen használták |
+| 01. Fegyver, lőszer, haditechnikai eszköz |  | 06. Anyagok, hatások (maró, ionizáló, hő stb.) |  |  |
 
-| 2. Alkalmas, nem rendeltetésszerűen használták | 5. Szükséges, de nem volt |
+| 02. Gépjármű, egyéb közlekedési eszköz |  | 07. Berendezési tárgy |  |  |  |  |
 
-| 3. Alkalmatlan, rendeltetésszerűen használták | 6. Nem szükséges |
+| 03. Gép, gépi berendezés |  | 08. Használati eszköz |  |  |  |  |
 
-|  | Védőberendezés: |  |
+| 04. Munkaeszköz, szerszám |  | 09. Egyéb |  |  |  |  |
 
-| Volt-e hasonló baleset ezen a szolgálati vagy munkahelyen az előző évben: |
+| 05. Sporteszköz,- létesítmény |  | 10. Eszköz nélkül |  |  |  |  |
 
-| 1. Nem 2. Egyszer 3. Többször |  |
+| Védőeszközök alkalmassága: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Egyéni védőeszköz: |  |  |
 
-| A baleset során megsérült személyek száma: |  |
+| 1. Alkalmas, rendeltetésszerűen használták |  | 4. Alkalmatlan, nem rendeltetésszerűen használták |  |  |  |
 
-| A baleset részletes, pontos leírása: |
+| 2. Alkalmas, nem rendeltetésszerűen használták |  | 5. Szükséges, de nem volt |  |  |  |  |
+
+| 3. Alkalmatlan, rendeltetésszerűen használták |  | 6. Nem szükséges |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Védőberendezés: |  |  |
+
+| Volt-e hasonló baleset ezen a szolgálati vagy munkahelyen az előző évben: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 1. Nem |  | 2. Egyszer |  | 3. Többször |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| A baleset során megsérült személyek száma: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| A baleset részletes, pontos leírása: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az alapellátó orvos tölti ki |
 
-| A SÉRÜLÉS | Természete (BNO alapján az orvos tölti ki): |
+| A SÉRÜLÉS | Természete (BNO alapján az orvos tölti ki): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | Kórisme (magyarul): | Felmentési napok száma: |  |  |  |
+| Típusa: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 01. Törés | 07. Erek sérülése |
+| A sérült testrész megjelölése: |  |  |  |  |  |  |  |  |  |  |  |
 
-| 02. Izületi ficam | 08. Felületes sérülés |
+|  | Felmentési napok száma: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 03. Izületek, izmok rándulása, húzódása | 09. Zúzódás sértetlen bőrfelszínnel |
+| Súlyossága: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 04. Koponyaűri sérülés | 10. Égés |
-
-| 05. Mellkas, hasüreg, medence belső sérülése | 11. Mérgezés |
-
-| 06. Nyílt seb | 12. Egyéb |
-
-| Súlyossága: |
-
-| 1. Könnyű (1-8 nap) | 2. Súlyos (8 napnál több) | 3. Súlyos csonkulásos | 4. Halálos |  |
+| 1. Könnyű (1-8 nap) |  | 2. Súlyos (8 napnál több) |  | 3. Súlyos csonkolásos |  | 4. Halálos |  |  |  |  |  |  |  |
 
 | Egészségügyi szabadság (táppénzes állomány) kezdetének időpontja: |
 
-| A sérült (beteg) sérülése (betegsége) a balesettel vagy a szolgálat ellátásával ok-okozati összefüggésben keletkezett-e? IGEN NEM VÉLELMEZHETŐ Vélemény (megjegyzés): P.H. …………………………… alapellátó orvos |
+| A sérült (beteg) sérülése (betegsége) a balesettel vagy a szolgálat ellátásával ok-okozati összefüggésben keletkezett-e? |  |
+
+|  |  |  |  |  |  |  |  | IGEN |  | NEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Vélemény (megjegyzés): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | P.H. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ..................................... |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | alapellátó orvos |  |  |  |
+
+| Kelt, …………201 . ..hó…..nap. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Milyen munkavédelmi vagy más előírást szegtek meg: | Hasonló balesetek megelőzéséhez szükséges intézkedések, a végrehajtás határideje, felelőse: |
 
-| Egyéb adatok: (Tanúk, balesetért felelős személyek, elhalálozás esetén a hozzátartozó adatai, elhalálozás időpontja, stb.) |
+| Egyéb adatok: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A jegyzőkönyvet készítették: | Kelt: |
+| (Tanúk, balesetért felelős személyek, elhalálozás esetén a hozzátartozó adatai, elhalálozás időpontja stb.) |
 
-| …………………………… | …………………………… | …………………………… |
+| A jegyzőkönyvet készítették: |  |  |  |  |  |  | Kelt: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| .................................... | .................................... | .................................... |
 
 | szolgálati elöljáró (munkahelyi vezető) | munkavédelmi tevékenységet ellátó személy | érdekképviselő |
 
-| A sérült a jegyzőkönyvben foglaltakkal | A balesetet minősítő határozatot a sérültnek kiadtam: |
+| A sérült a jegyzőkönyvben foglaltakkal 1. Egyetért 2. Nem ért egyet (Az ellenkező véleményt csatolni kell!) ……………………………………….. szerv vezetője (parancsnoka) ........................................... sérült (hozzátartozó) Kelt, …………201 . ..hó…..nap. |
 
-| 1. Egyetért |  |
+7. melléklet a 70/2011. (XII. 30.) BM rendelethez[^44]
 
-| 2. Nem ért egyet | …………………………… |
+## Kitöltési útmutató a baleseti jegyzőkönyvhöz
 
-| (Az ellenkező véleményt csatolni kell!) | a szerv vezetője (parancsnoka) |
+A nyomtatvány valamennyi, szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni. A kódnégyzetekbe (a továbbiakban: négyzet) – a kivizsgálás tényeinek megfelelő – kódszámot (a továbbiakban: szám) kell beírni.
 
-| …………………………… |  |
-
-| sérült (hozzátartozó) |  |
-
-7. melléklet a 70/2011. (XII. 30.) BM rendelethez
+[^44]: A 7. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés d) pontjával megállapított szöveg.

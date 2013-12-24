@@ -1,29 +1,33 @@
-27. § (1) Foglalkozási megbetegedés gyanúja esetén az alapellátó orvos a munkavállalót további vizsgálatok végzésére beutalhatja a munkáltató telephelye szerint illetékes foglalkozás-egészségügyi szakellátó helyre vagy a munkahigiénés és foglalkozás-egészségügyi szervhez.
+27. §[^27] (1) Az alapellátó orvos az általa észlelt vagy tudomására jutott foglalkozási megbetegedést, szolgálati kötelmekkel összefüggő betegséget, foglalkozási eredetű heveny vagy idült mérgezést, valamint a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló 27/1996. (VIII. 28.) NM rendeletben [a továbbiakban: 27/1996. (VIII. 28.) NM rendelet] meghatározott fokozott expozíciós esetet a munkavédelmi hatósághoz a 12. melléklet szerinti bejelentő lapon bejelenti.
 
-(2) Ha a munkahelyen halálos kimenetelű vagy tömeges foglalkozási megbetegedés fordult elő, az állományilletékes parancsnok – az észlelő orvos bejelentési kötelezettségétől függetlenül – azonnal értesíti a munkavédelmi főfelügyelőt, ahol nincs munkavédelmi főfelügyelő, ott a munkavédelmi felügyelőt, aki haladéktalanul jelentést tesz a BM munkavédelmi főfelügyelője és a munkahigiénés és foglalkozás-egészségügyi szerv felé.
+(2) A munkavédelmi hatóság a bejelentést nyilvántartásba veszi és erről a bejelentőt 3 napon belül értesíti. A bejelentés alá eső foglalkozási megbetegedések jegyzékét a 27/1996. (VIII. 28.) NM rendelet 2. számú melléklete tartalmazza.
 
-(3) A bekövetkezett foglalkozási megbetegedések és fokozott expozíciós esetek kivizsgálása az adott szerv munkavédelmi hatóságának feladata. A kivizsgálásba az érintett szerv munkavédelmi felügyelőjét, az illetékes alapellátó orvost és az állományilletékes parancsnokot vagy annak képviselőjét is be kell vonni. A vizsgálat során a megbetegedés és az expozíció okainak feltárása érdekében más hatóság vagy intézmény is megkereshető. A foglalkozási megbetegedés, valamint a fokozott expozíció körülményeinek vizsgálatáról jegyzőkönyvet kell felvenni, amelynek egy-egy másolati példányát a vizsgálatban részt vevőknek át kell adni.
+(3) A bejelentést
 
-(4) A kivizsgálás vezetője a 10. melléklet szerinti vizsgálati lapot hat példányban állítja ki, egy példányát a munkavédelmi hatóság részére megőrzi, egy példányát a bejelentőlappal együtt a munkahigiénés és foglalkozás-egészségügyi szerv részére továbbítja. A kivizsgálás vezetője a munkahigiénés és foglalkozás-egészségügyi szerv szakvéleményének kézhezvétele után a vizsgálati lap egy-egy példányát
+a) a szolgálati kötelmekkel, munkavégzéssel összefüggő betegség kórisméjét vagy annak gyanúját megállapító alapellátó orvos a diagnózis felállítását követő 24 órán belül,
 
-a) az állományilletékes parancsnoknak,
+b) halálos kimenetelű vagy ugyanazon a munkahelyen a személyi állomány 5 vagy több tagját érintő azonos, egy időben kialakult heveny (a továbbiakban: tömeges) foglalkozási megbetegedés esetén a tömeges jelleget elsőként észlelő orvos szóban azonnal és írásban legkésőbb 24 órán belül,
 
-b) a munkavállalónak, halált okozó foglalkozási megbetegedés esetén a hozzátartozónak,
+c) fokozott expozíció esetén az érintett személyt vizsgálatra beküldő alapellátó orvos a lelet kézhezvételétől számított 24 órán belül
 
-c) a foglalkozás-egészségügyi szolgálat orvosának, valamint
+## a 27/1996. (VIII. 28.) NM rendelet 4. számú melléklete szerinti bejelentőlapon teszi meg.
 
-d) az Országos Egészségbiztosítási Pénztár, a munkáltató társadalombiztosítási kifizetőhelye, annak hiányában az illetékes egészségbiztosítási szakigazgatási szerv részére, TAJ-számmal ellátva és a bejelentőlappal, valamint a munkahigiénés és foglalkozás-egészségügyi szerv tájékoztatásával együtt
+(4) A bejelentést meg kell ismételni, ha a korábban keresőképesként bejelentett személy keresőképtelenné vált. Tanulói, hallgatói jogviszonyban lévő személy esetén a gyakorlati képzés helyén működő alapellátó orvos végzi a bejelentést, aki ezzel egy időben értesíti az oktatási intézményt.
 
-megküldi.
+(5) A munkavédelmi hatóság a bejelentett foglalkozási megbetegedésekkel, fokozott expozíciós esetekkel kapcsolatos vizsgálati lapokat, jegyzőkönyveket a következők szerint csoportosítva tartja nyilván:
 
-(5) Halálos kimenetelű vagy tömeges foglalkozási megbetegedés kivizsgálásába a munkavédelmi hatóság bevonja
+a) bejelentés dátuma,
 
-a) növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a megyei kormányhivatal növény- és talajvédelmi igazgatóságát,
+b) diagnózis,
 
-b) a biológiai kóroki tényező okozta megbetegedés esetén a területileg illetékes népegészségügyi szakigazgatási szervet, továbbá
+c) halálos vagy tömeges foglalkozási megbetegedés,
 
-c) élelmiszer eredetű vagy állatról emberre terjedő fertőzés okozta megbetegedés esetén a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát.
+d) keresőképtelenséggel járó foglalkozási megbetegedés,
 
-(6) A foglalkozási megbetegedés, szolgálati kötelmekkel összefüggő betegség és fokozott expozíció szolgálattal, munkavégzéssel összefüggő jellegének megállapításához, minősítéséhez minden esetben a munkahigiénés és foglalkozás-egészségügyi szerv szakvéleménye, valamint az illetékes I. fokú Felülvizsgáló Orvosi Bizottság (a továbbiakban: FÜV Bizottság) véleménye szükséges. A szakvélemények beszerzéséről az állományilletékes parancsnok gondoskodik.
+e) keresőképtelenséggel nem járó foglalkozási megbetegedés,
 
-(7) A munkavédelmi hatóság és az alapellátó orvos által elkészített és összeállított megbetegedési dokumentáció, továbbá a munkahigiénés és foglalkozás-egészségügyi szerv és a FÜV Bizottság véleménye alapján, a foglalkozási megbetegedés, valamint a fokozott expozíciós esetek szolgálattal, munkavégzéssel összefüggő minősítését az állományilletékes parancsnok a szakvélemények mérlegelésével végzi el. Az állományilletékes parancsnok a 11. melléklet szerinti nyomtatványon értesíti a társadalombiztosítási kifizetőhelyet, annak hiányában a területileg illetékes egészségbiztosítási szakigazgatási szervet.
+f) fokozott expozíció, valamint
+
+g) kiváltó ok, munkakörülmény, rendelkezésre álló higiénés adat.
+
+[^27]: A 27. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.

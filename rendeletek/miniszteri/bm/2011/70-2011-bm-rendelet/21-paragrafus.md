@@ -2,16 +2,18 @@
 
 ## [Az Mvt. 64–69. §-ához]
 
-21. § (1) A baleset, foglalkozási megbetegedés és szolgálati kötelmekkel összefüggő betegség kivizsgálásának, minősítésének általános szabályait a MüM rendelet előírásai szerint, az e rendeletben meghatározott eltérésekkel kell alkalmazni.
+21. §[^21] (1) A baleset és a foglalkozási megbetegedés kivizsgálásának, minősítésének általános szabályait a MüM rendelet és az e rendeletben meghatározott speciális munkajogi szabályok szerint, az e rendeletben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A személyi állomány tagját ért baleset, betegség kivizsgálásáról az állományilletékes parancsnok gondoskodik.
+(2) A személyi állomány tagja a szervezett munkavégzés során vagy szolgálati kötelmekkel összefüggésben elszenvedett balesetét haladéktalanul bejelenti a szervezett munkavégzést közvetlenül irányító szolgálati elöljárónak vagy vezetőnek (a továbbiakban együtt: szolgálati elöljáró). A szolgálati elöljáró a baleset bejelentéséről haladéktalanul tájékoztatja az állományilletékes parancsnokot és a munkavédelmi felügyelőt.
 
-(3) A munkavállaló a szervezett munkavégzés során vagy azzal összefüggésben elszenvedett balesetét haladéktalanul bejelenti a szervezett munkavégzést közvetlenül irányító szolgálati elöljárónak. A szolgálati elöljáró a baleset bejelentésről haladéktalanul tájékoztatja az állományilletékes parancsnokot.
+(3) Ha a személyi állomány tagja a bejelentési kötelezettségének balesete, vagy a személyét érintő más elháríthatatlan akadály miatt nem tud eleget tenni, a bejelentési kötelezettség a sérült balesetet észlelő munkatársát terheli.
 
-(4) Ha a munkavállaló a bejelentési kötelezettségének balesete, vagy a személyét érintő más elháríthatatlan akadály miatt nem tud eleget tenni, a bejelentési kötelezettség a sérült balesetet észlelő munkatársát terheli.
+(4) A személyi állomány tagját ért baleset kivizsgálásáról az állományilletékes parancsnok gondoskodik.
 
-(5) Az állományilletékes parancsnok – kivéve a (4) bekezdésben foglalt akadályoztatást – a bejelentési kötelezettség teljesítését elmulasztó munkavállalóval szemben fegyelmi eljárást kezdeményez. A fegyelmi eljárást legkorábban a bejelentési kötelezettség teljesítésének elmulasztásáról történő tudomásszerzést követő első munkanapon lehet kezdeményezni.
+(5) Az állományilletékes parancsnok – a (3) bekezdésben foglalt akadályoztatás esetét kivéve – a bejelentési kötelezettség teljesítését elmulasztó személyi állomány tagjával szemben fegyelmi eljárást indíthat az egyéb jogszabályi feltételek fennállása esetén.
 
-A baleset bejelentésének elmulasztása esetén a munkavállaló köteles bizonyítani, hogy a sérülés vagy más egészségkárosodás a szolgálat ellátásával összefüggő tevékenység következménye.
+(6) A baleset bejelentésének elmulasztása esetén a személyi állomány tagja köteles bizonyítani, hogy a sérülés vagy más egészségkárosodás a szolgálat ellátásával összefüggő tevékenység következménye.
 
-(6) A szolgálati kötelmekkel összefüggő súlyos baleset gyanúja esetén az állományilletékes parancsnok a munkavédelmi hatóság megérkezéséig gondoskodik a baleseti helyszínnek a baleset bekövetkezésekor fennálló állapotban történő megőrzéséről. Ha a helyszín állapotának megőrzése további súlyos, életet, testi épséget veszélyeztető helyzetet idézhet elő vagy jelentős anyagi kárral járhat, a veszélyeztető helyzet vagy az anyagi kár bekövetkezését valószínűsítő állapot megszüntetésével egyidejűleg a baleseti helyszínről fényképet, videofelvételt vagy egyéb, a baleset kivizsgálását elősegítő dokumentumot kell készíteni.
+(7) A személyi állomány tagja a külföldi kiküldetés, szolgálati út vagy külszolgálat során elszenvedett munkabaleset és a szolgálati kötelmekkel összefüggő baleset bejelentési kötelezettségét, ha a kiküldő szerv elérésére más lehetőség nincs a magyar külképviseleti szervek útján köteles teljesíteni.
+
+[^21]: A 21. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.

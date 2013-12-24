@@ -1,0 +1,5 @@
+28/C. §[^31] (1) A rendvédelmi szerv vezetője elkészítteti a munkavédelmi főfelügyelővel, vagy ha az adott rendvédelmi szervnél nincs munkavédelmi főfelügyelő, akkor a munkavédelmi felügyelővel a balesetekkel és betegségekkel kapcsolatos 3. melléklet szerinti éves jelentést, valamint 17. melléklet szerinti statisztikai összesítést, amelyeket a tárgyévet követő március 1-jéig a szolgálati út betartásával felterjeszt a BM munkavédelmi és foglalkozás-egészségügyi feladatokért felelős szervezeti egység vezetője részére.
+
+(2) A rendvédelmi szerv vezetője elkészítteti a rendvédelmi szerv egészségügyi szakterületének vezetőjével a foglalkozás-egészségüggyel kapcsolatos 3/A. melléklet szerinti éves jelentést, valamint a 18. melléklet szerinti statisztikai összesítést, amelyeket a tárgyévet követő március 1-jéig a szolgálati út betartásával felterjeszt a BM munkavédelmi és foglalkozás-egészségügyi feladatokért felelős szervezeti egység vezetője részére.
+
+[^31]: A 28/C. §-t a 71/2013. (XII. 16.) BM rendelet 8. §-a iktatta be.

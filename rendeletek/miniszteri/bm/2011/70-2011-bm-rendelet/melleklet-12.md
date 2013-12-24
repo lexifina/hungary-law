@@ -1,57 +1,47 @@
-## Szerv
+12. melléklet a 70/2011. (XII. 30.) BM rendelethez[^50]
 
-## ................................................................................
+## Bejelentőlap kötelező adattartalma foglalkozási megbetegedésről (mérgezésről), fokozott expozícióról
 
-## Értesítés
+1. Rendvédelmi szerv neve
 
-## Cím:
+2. Bejelentő alapellátó orvos neve, orvosi bélyegzőszáma
 
-## Értesítem, hogy ................................................................................................................................................................... (név)
+3. Bejelentés dátuma
 
-## (TAJ-szám) □□□□□□□□□
+4. A bejelentett eset megnevezése (foglalkozási megbetegedés, fokozott expozíció)
 
-## (születési hely, idő)
+5. Keresőképességre vonatkozó adatok (keresőképes; keresőképtelen; halálos)
 
-## (anyja neve)
+6. Diagnózis, BNO (Csak foglalkozási megbetegedés esetén kell kitölteni!)
 
-## (lakcím)
+7. Előfordulás jellege (egyedi, tömeges)
 
-## Állományilletékes parancsnok neve: .......................................................................................................................................
+8. Telephely címe (a bejelentés helye szerint)
 
-## Adószám: □□□□□□□□-□-□□
+9. A megbetegedéssel kapcsolatos adatok megnevezése
 
-## Adóazonosító jel: □□□□□□□□
+9.1. A megbetegedéssel/ fokozott expozícióval kapcsolatos munkakör megnevezése
 
-## Telephely címe (a bejelentés helye szerint): ...........................................................................................................................
+9.2. A személyi állomány tagjára vonatkozó adatok (neme; neve; TAJ száma; születése ideje és helye; anyja neve; lakcíme; jelenlegi munkaköri tevékenysége; FEOR kód)
 
-## Bejelentett és kivizsgált foglalkozási betegsége elfogadást nyert.
+9.3. Személyi állomány tagjának korábbi munkakörei, jelenlegi és előző munkáltató megnevezése
 
-## A megbetegedés baleseti ellátásra jogot adó betegség
+9.4. A megbetegedéssel (fokozott expozíciós esettel) kapcsolatos jelenlegi munkakörben töltött expozíciós idő (hónap) megjelölése
 
-## Igen □
+9.5. A megbetegedéssel (fokozott expozíciós esettel) kapcsolatos munkakörben összesen eltöltött expozíciós idő (hónap)
 
-## Sorszáma:
+9.6. A fokozott zaj expozíciós eset bejelentésének alapjául szolgáló audiometriás vizsgálat eredményei
 
-## Nem □
+9.7. A fokozott vegyi expozíciós eset bejelentésének alapjául szolgáló biológiai (vérben, vizeletben) paraméter(ek) (érték, mértékegység) laboratóriumi vizsgálati eredményeinek megnevezése; alapellátó orvos indoklása
 
-## Dátum: ..........................................................
+10. Az adott rendvédelmi szerv pszichológusának véleménye
 
-## ...............................................
+11. Az adott rendvédelmi szerv munkavédelmi felügyelőjének véleménye
 
-## aláírás, pecsét
+12. A bejelentés elfogadásának megjelölése (elfogadva, kiegészítésre visszaküldve)
 
-12. melléklet a 70/2011. (XII. 30.) BM rendelethez
+13. Bejelentést indokoló, csatolt orvosi dokumentumok száma
 
-„1. számú melléklet a 8/2003. (VIII. 14.) MeHVM rendelethez
+14. Kelt (helységnév, év, hó, nap); alapellátó orvos aláírása, orvosi pecsét helye
 
-A szolgálatoknál alkalmazandó munkabiztonsági felügyelők legkisebb kötelező létszáma, a munkavédelmi szakképesítési követelmények és a munkavégzés napi időtartama
-
-|  | A | B |
-
-| 1. | Szervek | Munkavédelmi szakképesítésű személy |
-
-|  |  | Felsőfokú végzettség/ teljes munkaidő | Középfokú végzettség/ teljes munkaidő |
-
-| 2. | Információs Hivatal |  | 1 fő |
-
-”
+[^50]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés c) pontja iktatta be.

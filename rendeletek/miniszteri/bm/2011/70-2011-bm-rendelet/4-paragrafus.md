@@ -1,4 +1,4 @@
-4. § (1) A BM munkavédelmi főfelügyelője szervezi és koordinálja a rendvédelmi szerv munkavédelmi tevékenységét, ellátja a munkavédelmi főfelügyelők szakmai irányítását és szakmai felügyeletét.
+4. § (1)[^4] A BM munkavédelmi főfelügyelője szervezi és koordinálja a rendvédelmi szervek munkavédelmi tevékenységét, ellátja a munkavédelmi főfelügyelők – vagy ha az adott rendvédelmi szervnél nincs munkavédelmi főfelügyelő, akkor a munkavédelmi felügyelő – szakmai irányítását és szakmai felügyeletét.
 
 (2) A BM munkavédelmi főfelügyelője – a belügyminiszter által irányított polgári nemzetbiztonsági szolgálatok műveleti tevékenységével kapcsolatos adatok kivételével – bekéri a szakirányítási feladatai ellátásához szükséges munkavédelmi tárgyú dokumentumokat, így különösen:
 
@@ -22,4 +22,7 @@ h) egyéb, a feladatok ellátásához szükséges iratot és dokumentumot.
 
 (4) A BM munkavédelmi feladatokért felelős szervezeti egység vezetője – a vonatkozó jogszabályi előírásoknak megfelelően – munkavédelmi feladatokat határozhat meg a rendvédelmi szervek részére.
 
-(5) A munkavédelmi főfelügyelők szakmai feladatuk ellátása során közvetlen kapcsolatot tartanak a BM munkavédelmi főfelügyelőjével.
+(5)[^5] A munkavédelmi főfelügyelők, vagy ha az adott rendvédelmi szervnél nincs munkavédelmi főfelügyelő, akkor a munkavédelmi felügyelők a szakmai feladatuk ellátása során közvetlen kapcsolatot tartanak a BM munkavédelmi főfelügyelőjével.
+
+[^4]: A 4. § (1) bekezdése a 71/2013. (XII. 16.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (5) bekezdése a 71/2013. (XII. 16.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.

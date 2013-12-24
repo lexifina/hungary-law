@@ -1,4 +1,4 @@
-2. melléklet a 70/2011. (XII. 30.) BM rendelethez
+2. melléklet a 70/2011. (XII. 30.) BM rendelethez[^39]
 
 ## A munkavédelmi szabályzat kötelező tartalmi elemei
 
@@ -50,13 +50,13 @@ IV. Fejezet A munkavédelmi oktatás rendje
 
 1. Előzetes (elméleti, gyakorlati) munkavédelmi oktatás rendje
 
-2. Rendkívüli munkavédelmi oktatás
+2. Soron kívüli munkavédelmi oktatás
 
 3. Ismétlődő munkavédelmi oktatás
 
 4. Munkavédelmi pótoktatás
 
-5. A munkavédelmi oktatások eljárási szabályai
+5. A munkavédelmi oktatások eljárási szabályai és dokumentálása
 
 6. A munkavédelmi oktatással kapcsolatos kötelezettségek
 
@@ -125,3 +125,5 @@ X. Fejezet A munkavédelmi eljárások rendje
 XI. Fejezet A munkaegészségügyi feladatok ellátásának rendje
 
 XII. Fejezet A munkavédelmi érdekképviselet
+
+[^39]: A 2. melléklet a 71/2013. (XII. 16.) BM rendelet 10. § i) pontja szerint módosított szöveg.

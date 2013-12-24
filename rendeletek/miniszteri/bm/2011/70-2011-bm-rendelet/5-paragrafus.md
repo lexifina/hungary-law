@@ -20,7 +20,7 @@ i) részt vesz a műszaki átadásokon,
 
 j) elkészíti a rendvédelmi objektumok terveihez szükséges szakvéleményt, továbbá
 
-k) évente tájékoztatja a belügyminisztert a rendvédelmi szerv munkavédelmi helyzetéről, a megtett intézkedésekről.
+k)[^6]
 
 (2) A munkavédelmi felügyelő
 
@@ -43,3 +43,5 @@ h) elkészíti a munkavédelmi jog- és hatáskörrel rendelkező személyek mun
 i) ha az érintett szervnél nincs munkavédelmi főfelügyelő, elemzi és értékeli a szerv munkavédelmi helyzetét, tevékenységét, a balesetek alakulását, azok okait, és javaslatot tesz a szükséges intézkedésekre, továbbá
 
 j) figyelemmel kíséri a beruházási és felújítási munkálatok előkészítésekor, valamint átadásakor a munkavédelmi előírások megtartását.
+
+[^6]: Az 5. § (1) bekezdés k) pontját a 71/2013. (XII. 16.) BM rendelet 12. § a) pontja hatályon kívül helyezte.

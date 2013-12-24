@@ -1,7 +1,3 @@
-| Munkavédelmi vizsga igazolása |
+6. melléklet a 70/2011. (XII. 30.) BM rendelethez[^43]
 
-| Fejléc Ikt. szám: MUNKAVÉDELMI VIZSGA IGAZOLÁSA Név, rendfokozat: Születési hely, idő: Anyja neve: Lakcím: Munkahely: Képesítés: Beosztás/Munkakör: Nevezett a belügyminiszter irányítása alá tartozó rendvédelmi szervek munkavédelmi feladatai, valamint foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló …...../2011. (….) BM rendelet szerint szervezett vizsgán, a munkavédelemre vonatkozó szabályok tananyagából a vizsgabizottság előtt a MUNKAVÉDELMI VIZSGÁT megfelelő eredménnyel teljesítette. A vizsga csak az igazoláson szereplő beosztás/munkakör ellátására jogosít! 20... év ............................. hó ........ nap ......................................... a vizsgabizottság elnöke |
-
-| ............................................................ vizsgabizottsági tag | ........................................................ vizsgabizottsági tag |
-
-6. melléklet a 70/2011. (XII. 30.) BM rendelethez
+[^43]: A 6. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés c) pontjával megállapított szöveg.
