@@ -1,0 +1,1 @@
+4. § A 3. § (1) bekezdése szerint felépített építmények a használatbavételi engedély jogerőre emelkedésének vagy a használatbavétel tudomásulvételének időpontjától e törvény erejénél fogva nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülnek.

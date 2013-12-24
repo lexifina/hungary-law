@@ -1,0 +1,31 @@
+3. § (1) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a vagyonkezelő által a városligeti ingatlanon felépített építmény önálló ingatlanként, e törvény erejénél fogva az állam 100%-os tulajdonába kerül.
+
+(2) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a városligeti ingatlanon – e törvény hatálybalépésekor – fennálló építményeknek a vagyonkezelő általi átalakítása, bővítése, felújítása, korszerűsítése (a továbbiakban együtt: építési tevékenység) esetén az építési tevékenységgel érintett építményrész az egész ingatlan értékéből az épített részre eső érték arányában az állam tulajdonába kerül.
+
+(3) A vagyonkezelő mint építtető (a továbbiakban: építtető) az (1) és (2) bekezdésben meghatározott beruházások tekintetében a feladatait az állam nevében és javára eljárva látja el. A beruházások közérdekű célú fejlesztésnek minősülnek.
+
+(4) Az építtető a városligeti ingatlan fejlesztésével összefüggő beruházások vonatkozásában különösen az alábbi feladatokat látja el:
+
+a) teljes körűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, tanulmányokat;
+
+b) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban;
+
+c) a saját nevére megszerzi az építési és egyéb engedélyeket;
+
+d) lefolytatja a közbeszerzési eljárásokat;
+
+e) megköti a megvalósításra vonatkozó építési és egyéb szerződéseket;
+
+f) elvégzi a teljesítések igazolását;
+
+g) gondoskodik az építési műszaki ellenőri tevékenység ellátásáról;
+
+h) gondoskodik a műszaki átadás-átvétel lebonyolításáról;
+
+i) a feladatok elvégzéséhez beruházás-lebonyolítót vehet igénybe.
+
+(5) Az építési tevékenység megvalósítása céljából az építtető által kezdeményezett hatósági eljárásokban a jogszabályban előírt ingatlantulajdonosi hozzájárulás az építtetőn kívüli jogalanytól történő beszerzése nem szükséges.
+
+(6) Az (1) és (2) bekezdés szerinti beruházások – a számvitelről szóló törvény szerinti – megvalósuláskor a Magyar Nemzeti Vagyonkezelő Zrt. nyilvántartásába kerülnek aktiválásra, a beruházásnak az építtető nyilvántartásaiból – az elszámolásra kapott forrásokkal szemben – történő kivezetésével egyidejűleg.
+
+(7) Az (1) bekezdés alapján felépített építményekre mint önálló ingatlanokra, illetve a (2) bekezdés szerinti építési tevékenység esetén az ingatlan tekintetében – a (2) bekezdésben meghatározott tulajdoni arányban – az államot illető tulajdonjogot az ingatlanügyi hatóság az építtető kérelmére, a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány alapján, e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárása díjmentes, arra az Inytv. 8. §-át nem kell alkalmazni.
