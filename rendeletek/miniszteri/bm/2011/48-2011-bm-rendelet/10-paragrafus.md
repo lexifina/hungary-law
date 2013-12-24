@@ -26,4 +26,8 @@ ja) munkavédelmi őrnapló,
 
 jb) alkoholszondás ellenőrzési napló,
 
-jc) munkavédelmi oktatási napló.
+jc) munkavédelmi oktatási napló;
+
+k)[^4] menetlevél.
+
+[^4]: A 10. § k) pontját a 82/2013. (XII. 23.) BM rendelet 13. §-a iktatta be.

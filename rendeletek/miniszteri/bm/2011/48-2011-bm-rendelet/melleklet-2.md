@@ -4,33 +4,31 @@
 
 |  | Egyéni védőeszközök |  |
 
-| – légzőkészülék | személyenként |
+|  | – légzőkészülék | legalább 4 db |
 
-| – tartalék palack | személyenként |
+|  | – tartalék palack | legalább 4 db |
 
-| – légzőálarc | személyenként |
+|  | – légzőálarc | legalább 6 db |
 
-| – tűzoltó védőkesztyű | személyenként |
+|  | – tűzoltó védőkesztyű | legalább 6 pár |
 
-| – munkavédelmi védőkesztyű (műszaki mentéshez) | személyenként |
+|  | – munkavédelmi védőkesztyű (műszaki mentéshez) | legalább 6 pár |
 
-| – tűzoltó bevetési védőruha (kabát és nadrág) | személyenként |
+|  | – tűzoltó védőruha (kabát és nadrág) | legalább 6 db |
 
-| – tűzoltó védősisak (arcvédővel) | személyenként |
+|  | – tűzoltó védősisak (arcvédővel) | legalább 6 db |
 
-| – tűzoltó védőcsizma | személyenként |
+|  | – tűzoltó védőcsizma | legalább 6 pár |
 
-| – mászóöv tartozékokkal (kézi balta, tömlőtartó kötél) | személyenként |
+|  | – mászóöv tartozékokkal (kézi balta, tömlőtartó kötél) | legalább 4 db |
 
-| Kollektívan alkalmazható |  |
+|  | – gumikesztyű (olaj- és saválló) | 2 pár |
 
-| – gumikesztyű (olaj- és saválló) | 2 pár |
+|  | – gumicsizma (olajálló) | 2 pár |
 
-| – gumicsizma (olajálló) | 2 pár |
+|  | – mentőkötél | 2 db |
 
-| – mentőkötél | 2 db |
-
-| – mentőálarc+tömlő | 1 db |
+|  | – mentőálarc+tömlő | 1 db |
 
 | b) | Tűzoltó készülékek |  |
 
