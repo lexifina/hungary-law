@@ -1,0 +1,3 @@
+## 11. § Az önkormányzati tűzoltóság legkisebb létszámáról, létesítményei és felszerelései minimális mennyiségéről, minőségéről és a szolgálat ellátásáról szóló 48/2011. (XII. 15.) BM rendelet (a továbbiakban: R2.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az önkormányzati tűzoltóság az egység riasztását követően legalább a készenlétben tartott gépjárműfecskendő és az arra beosztott négy fő tűzoltó vonultatásáról gondoskodik. A vonulást végrehajtó tűzoltó-állományba beosztható az ügyeletes is. Amennyiben az ügyeletes részt vesz a vonulásban, a híradó-ügyeleti feladatellátás az ügyeletes személy laktanyába történő visszaérkezéséig szünetelhet.”
