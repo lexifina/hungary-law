@@ -30,7 +30,7 @@
 
 10. Épület: jellemzően emberi tartózkodás céljára szolgáló építmény, amely szerkezeteivel részben vagy egészben teret, helyiséget vagy ezek együttesét zárja körül meghatározott rendeltetés vagy rendeltetésével összefüggő tevékenység, avagy rendszeres munkavégzés, illetve tárolás céljából.
 
-11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet és a Duna-parti építési szabályzat.
+11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet, a Duna-parti építési szabályzat és a Városligeti építési szabályzat.
 
 12. Integrált településfejlesztési stratégia: a településfejlesztési koncepcióban foglalt környezeti, társadalmi és gazdasági célok megvalósítását egyidejűleg szolgáló középtávú fejlesztési program.
 
@@ -85,3 +85,5 @@
 37. Fővárosi településrendezési terv: a fővárosi településszerkezeti terv.
 
 38. Duna-parti építési szabályzat: a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
+
+39. Városligeti építési szabályzat: a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó terület építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.

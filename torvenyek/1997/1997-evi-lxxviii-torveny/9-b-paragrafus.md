@@ -16,4 +16,4 @@ a) a településszerkezeti terv, amelyet a településfejlesztési koncepció al
 
 b) a helyi építési szabályzat, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg,
 
-c) a Duna-parti építési szabályzat, amelyet a településszerkezeti terv és a Fővárosi rendezési szabályzat alapján a fővárosi önkormányzat képviselő-testülete dolgoztat ki és állapít meg.
+c) a Duna-parti építési szabályzat és a Városligeti építési szabályzat, amelyet a településszerkezeti terv és a Fővárosi rendezési szabályzat alapján a fővárosi önkormányzat képviselő-testülete dolgoztat ki és állapít meg.

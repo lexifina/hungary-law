@@ -26,6 +26,8 @@ terjedő közigazgatási bírsággal sújtja.
 
 (7a) A Duna-parti építési szabályzat hatálybalépéséig a 14/B. §-ban meghatározott területekre vonatkozóan a fővárosi kerületi önkormányzat által elfogadott településrendezési eszközöket kell alkalmazni.
 
+(7b) A Városligeti építési szabályzat hatálybalépését követően a 14/C. §-ban meghatározott területekre vonatkozóan a Budapest Főváros XIV. kerület Zugló Önkormányzata által elfogadott településrendezési eszközöket nem kell alkalmazni.
+
 (8) A településrendezési eszközök 2013. január 1-je és 2018. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
 
 (9) 2018. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók

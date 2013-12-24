@@ -224,6 +224,8 @@ szóló szabályokat,
 
 4. a Duna-parti építési szabályzatát.
 
+5. a Városligeti építési szabályzatot.
+
 (8) Felhatalmazást kap
 
 a) a fővárosi kerületi önkormányzat, hogy 2014. június 30-ig a fővárosi településszerkezeti terv területfelhasználásnak megfelelő egyéb alkalmazható keretövezetnek megfelelő építési övezetet, övezetet állapítson meg,
