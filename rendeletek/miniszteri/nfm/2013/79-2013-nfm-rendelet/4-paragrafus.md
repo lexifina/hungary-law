@@ -1,0 +1,1 @@
+## 3. § Az előirányzat terhére finanszírozhatók az előirányzat működtetésével, kezelésével összefüggő feladatok. Az ilyen feladatok megvalósítására a támogató megbízási szerződést köt a MAG – Magyar Gazdaságfejlesztési Központ Zrt.-vel (a továbbiakban: MAG Zrt.).
