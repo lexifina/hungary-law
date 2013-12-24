@@ -156,7 +156,7 @@ Ft/db
 
 | a) Fennmaradási engedély díja azonos a létesítési és használatbavételi engedélyezési |  |
 
-| eljárás díja összegének ötszörösével |  |
+| eljárás díjának összegével |  |
 
 | b) Az elvi létesítési engedély díja a létesítési engedély eljárási díjával megegyezik |  |
 
@@ -326,4 +326,4 @@ Ft/db
 
 | 30. Vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek tanúsítása, engedélyezése | 1 248 000 |
 
-[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a, a 81/2013. (XII. 23.) NFM rendelet 5. §-a szerint módosított szöveg.

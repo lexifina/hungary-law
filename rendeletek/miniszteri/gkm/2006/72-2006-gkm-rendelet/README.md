@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-72-20-0
 | 2013-01-01 | 2006-72-20-0L.5 | 52/2012. (IX. 11.) NFM rendelet |
 | 2013-06-06 | 2006-72-20-0L.6 | 52/2012. (IX. 11.) NFM rendelet |
 | 2013-06-22 | 2006-72-20-0L.7 | 52/2012. (IX. 11.) NFM rendelet |
+| 2013-12-24 | 2006-72-20-0L.8 | 52/2012. (IX. 11.) NFM rendelet |
