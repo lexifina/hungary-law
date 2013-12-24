@@ -1,4 +1,4 @@
-## Folyamatos kibocsátás mérésre kötelezett légszennyező technológiák és a mérendő légszennyező anyagok
+## Folyamatos kibocsátásmérésre kötelezett légszennyező technológiák és a mérendő légszennyező anyagok
 
 |  | A | B |
 
@@ -6,9 +6,9 @@
 
 | 2 | Kohászati technológiák kupolókemencék 8 t/óra kapacitás felett | szilárd anyag, CO |
 
-| 3 | Titán-dioxid gyártás szulfát eljárás esetében | kén-dioxid |
+| 3 | Titán-dioxid gyártás szulfát eljárás esetében | kén-oxidok (SO2, SO3) SO2-ben megadva, szilárd anyag |
 
-| 4 | Titán-dioxid gyártás klór eljárás esetében | klór |
+| 4 | Titán-dioxid gyártás klór eljárás esetében | klór, szilárd anyag |
 
 14. melléklet a 6/2011. (I. 14.) VM rendelethez
 
