@@ -16,7 +16,9 @@ g) a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tek
 
 h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv.
 
-i) Az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról.
+i) Az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról;
+
+j) az Európai Parlament és a Tanács 2012/26/EU irányelve (2012. október 25.) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról.
 
 (2) Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
