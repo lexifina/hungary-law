@@ -1,1 +1,0 @@
-## „(5) A munkavédelmi főfelügyelők, vagy ha az adott rendvédelmi szervnél nincs munkavédelmi főfelügyelő, akkor a munkavédelmi felügyelők a szakmai feladatuk ellátása során közvetlen kapcsolatot tartanak a BM munkavédelmi főfelügyelőjével.”

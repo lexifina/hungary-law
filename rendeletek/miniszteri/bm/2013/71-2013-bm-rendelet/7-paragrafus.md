@@ -1,3 +1,3 @@
-## 5–6. §[^1]
+## 5–6. §[^2]
 
-[^1]: Az 5–6. § a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
+[^2]: Az 5–6. § a 13. § (2) bekezdése alapján 2014. január 1-jén lép hatályba.
