@@ -1,1 +1,0 @@
-## 2. § A levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendelet 13. melléklete helyébe az 1. melléklet lép.
