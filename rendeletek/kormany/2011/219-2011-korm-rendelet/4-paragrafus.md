@@ -14,12 +14,17 @@ d) a veszélyes anyagokkal kapcsolatos súlyos balesetek káros hatásainak ért
 
 e) a belső védelmi tervezés, a külső védelmi tervezés, a tervek végrehajtási feltételeinek megléte,
 
-f) a veszélyes anyagokkal foglalkozó üzemekkel kapcsolatos településrendezési tervezés, valamint
+f)[^4] a veszélyes anyagokkal foglalkozó üzemekkel kapcsolatos településrendezési tervezés,
 
-g) a lakossági tájékoztatás és a nyilvánosság biztosítása.
+g)[^5] a lakossági tájékoztatás és a nyilvánosság biztosítása, valamint
+
+h)[^6] a belső védelmi terv és a súlyos káresemény elhárítási terv gyakoroltatása.
 
 (2) A veszélyes anyagokkal foglalkozó üzem azonosításának részletes szabályait az 1. melléklet tartalmazza.
 
-(3)[^2] A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezet eljárásaiban első fokon a hatóságnak a veszélyes anyagokkal foglalkozó üzem és küszöbérték alatti üzem telephelye szerint illetékes területi szerve, másodfokon a központi szerve jár el.
+(3)[^7] A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) IV. Fejezet eljárásaiban első fokon a hatóságnak a veszélyes anyagokkal foglalkozó üzem és küszöbérték alatti üzem telephelye szerint illetékes területi szerve, másodfokon a központi szerve jár el.
 
-[^2]: A 4. § (3) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^4]: A 4. § (1) bekezdés f) pontja a 476/2013. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (1) bekezdés g) pontja a 476/2013. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (1) bekezdés h) pontját a 476/2013. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 4. § (3) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 9. § (2) bekezdése iktatta be.

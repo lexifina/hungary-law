@@ -50,7 +50,7 @@
 
 ## 2. Az üzemeltető a felmentés iránti kérelmet úgy küldi meg a hatóságnak, hogy annak vizsgálatára és elbírálására, esetleges kiegészítésére elegendő idő álljon a hatóság, valamint a kérelmező rendelkezésére. Ha a hatóság a kérelmet elfogadja, akkor az üzemeltető a biztonsági jelentést, vagy a biztonsági elemzést a felmentésre vonatkozó korlátozott tartalommal nyújthatja be. A kérelem elutasítása esetén az üzemeltetőnek teljes tartalmú biztonsági jelentést, vagy a biztonsági elemzést kell előírt határidőig benyújtania.
 
-7. melléklet a 219/2011. (X. 20.) Korm. rendelethez
+7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^98]
 
 A hatósági engedélyezési és felügyeleti tevékenység során alkalmazott követelmények,
 
@@ -114,7 +114,7 @@ c) Nem elfogadható szintű veszélyeztetettséget jelent, ha a lakóterületen 
 
 ## A társadalmi kockázat feltétel nélkül elfogadható, ha F<(10–5xN–2) 1/év, ahol N>=1.
 
-## A társadalmi kockázat feltétellel fogadható el, ha minden F<(10–3xN–2) 1/év, és F>=(10–5xN–2) 1/év tartomány közé esik, ahol N>=1. Ebben az esetben a tevékenység kockázatának csökkentése érdekében a hatóság kötelezi az üzemeltetőt, hogy gondoskodjon olyan üzemen belüli megelőző biztonsági intézkedésekről (riasztás, egyéni védelem, elzárkózás stb.), amelyek a kockázat szintjét csökkentik.
+## A társadalmi kockázat feltétellel fogadható el, ha minden F<(10–3xN–2) 1/év, és F>=(10–5xN–2) 1/év tartomány közé esik, ahol N>=1. Ebben az esetben a tevékenység kockázatának csökkentése érdekében a hatóság kötelezi az üzemeltetőt, hogy gondoskodjon olyan megelőző biztonsági intézkedésekről (riasztás, egyéni védelem, elzárkózás stb.), amelyek a kockázat szintjét csökkentik.
 
 ## Nem elfogadható szintű a veszélyeztetettség, ha F>=(10–3xN–2) 1/év, ahol N>=1. Ebben az esetben, ha a kockázat más eszközökkel nem csökkenthető, a hatóság kötelezi az üzemeltetőt a tevékenység korlátozására vagy megszüntetésére.
 
@@ -220,6 +220,24 @@ a) ha a lakóterületen a veszélyes anyagokkal kapcsolatos súlyos baleset köv
 
 b) ha ilyen hatások közösségi létesítményeket, tömegtartózkodásra szolgáló építményeket nem érintenek.
 
+5.3.3. Halálos hatást jelent:
+
+a) tűzhatás tekintetében:
+
+aa) 8 kW/m2 értéket elérő vagy meghaladó hőfluxus,
+
+ab) gőztűz esetében az alsó robbanási határ felét elérő, vagy meghaladó veszélyes anyag koncentráció,
+
+ac) 1%-ot elérő, vagy meghaladó probit alapú elhalálozási valószínűség;
+
+b) mérgezési hatás tekintetében:
+
+ba) az ERPG 3 értéket, vagy a visszafordíthatatlan egészségkárosodásra vonatkozó nemzetközi szakirodalomban szereplő mértéket elérő, vagy meghaladó veszélyes anyag koncentráció,
+
+bb) 1%-ot elérő vagy meghaladó probit alapú elhalálozási valószínűség;
+
+c) túlnyomás tekintetében 10 kPa értéket elérő vagy meghaladó léglökési hullám.
+
 5.4. A hatóság kötelezi az üzemeltetőt, hogy hozzon olyan biztonsági intézkedéseket, amelyek a veszélyeztetés szintjét csökkentik, ha a lakóterület, közösségi létesítmény, tömegtartózkodásra szolgáló építmény olyan övezetben fekszik, ahol veszélyes anyagokkal kapcsolatos súlyos baleset következtében halálos hatás (tűzhatás, mérgezési hatás, túlnyomás) kialakulhat. Ha a veszélyeztetés szintje nem csökkenthető, a hatóság kötelezi az üzemeltetőt a veszélyes tevékenység korlátozására vagy megszüntetésére.
 
 5.5. A védelmi intézkedések értékelése és minősítése
@@ -231,6 +249,8 @@ b) ha ilyen hatások közösségi létesítményeket, tömegtartózkodásra szol
 5.5.3. A hatóság felülvizsgálja azt, hogy a veszélyes anyagokkal kapcsolatos súlyos balesetek károsító hatásai fajtájának és volumenének megfelelő számú és rendeltetésű erő és eszköz van-e a tervben megjelölve. Ennek során felméri a szervezetek – hiteles források alapján kiszámítható – teljesítménymutatóit, és ezeket összeveti a kárcsökkentő tevékenység nagyságrendjével. Megfelelőnek minősíthető az a súlyos káresemény elhárítási terv, amelyben az üzemen belüli kárcsökkentő tevékenység – az élet, az egészség és a környezet megóvása követelményeinek megfelelően – reális idő alatt elvégezhető.
 
 5.5.4. A hatóság felülvizsgálja azt, hogy a súlyos káresemény elhárítási tervben megjelölt szervezetek az alaprendeltetésükben meghatározott feladataiknak megfelelő szakfelszereléssel és egyéni védőfelszereléssel rendelkeznek-e, és ezek műszaki állapota lehetővé teszi-e az alkalmazásukat. Ellenőrzi azt, hogy a feladataikra való felkészítésük, és az előírt rendben való gyakoroltatásuk dokumentáltan megtörtént-e.
+
+5.5.5. A súlyos káresemény elhárítási terv gyakorlat elfogadhatónak tekinthető, ha a küszöbérték alatti üzem üzemeltetője a gyakorlat során a súlyos káresemény elhárítási tervben meghatározott súlyos baleseti eseménysorok legalább egyikét a tervben meghatározottak szerint gyakoroltatja az arra kioktatottakkal és a gyakorlat során a gyakorlatban részt vevők a tervben meghatározottak szerint cselekednek, továbbá nem tapasztalható semmilyen körülmény, ami egy feltételezett baleset során annak kimenetelét negatív irányba terelhetné. A tervben megjelölt szervezetek egészét gyakoroltató háromévente esedékes gyakorlat elfogadhatóságához szükséges továbbá, hogy a tervben megjelölt szervezetek egésze részt vegyen a gyakorlaton.
 
 6. A veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését, hatásainak csökkentését biztosító irányítási rendszer, vagy a biztonsági irányítási rendszer működtetéséhez kapcsolódó követelmények
 
@@ -244,7 +264,7 @@ ab) felsőfokú katasztrófavédelmi, polgári védelmi vagy tűzvédelmi szakma
 
 ac) az a) pont aa) és ab) alpont szerinti szakterületen legalább ötéves szakmai gyakorlattal rendelkező szakembert foglalkoztatni,
 
-b) a veszélyes anyagokkal kapcsolatos súlyos baleset által való veszélyeztetés, és a lehetséges súlyos baleset következményeinek értékeléséhez az általánosan elismert nemzetközi gyakorlatban alkalmazott és a hatóság által elfogadott szoftvert rendszeresíteni.
+b) a veszélyes anyagokkal kapcsolatos súlyos baleset által való veszélyeztetés, és a lehetséges súlyos baleset következményeinek értékeléséhez az általánosan elismert nemzetközi gyakorlatban alkalmazott és a hatóság által elfogadott szoftvert alkalmazni.
 
 6.2. A veszélyes anyagokkal foglalkozó üzem üzemeltetője veszélyes ipari védelmi ügyintézőt köteles alkalmazni vagy megbízni, aki legalább középfokú műszaki végzettséggel, és
 
@@ -260,6 +280,10 @@ b) követi a vonatkozó jogszabályok változását,
 
 c) veszélyes anyagokkal kapcsolatos súlyos baleset, üzemzavar esetében a bekövetkező eseményről jelentést, tájékoztatást készít, gondoskodik továbbá azok hatóság részére történő megküldéséről,
 
-d) szervezi és értékeli a belső védelmi tervben foglaltak gyakoroltatását, és
+d) szervezi és értékeli a belső védelmi tervben foglaltak gyakoroltatását,
 
-e) a belső védelmi terv pontosításáról, felülvizsgálatáról és gyakoroltatásáról jegyzőkönyvet készít, amelyet megküld a hatóság részére.
+e) a belső védelmi terv pontosításáról, felülvizsgálatáról és gyakoroltatásáról jegyzőkönyvet készít, amelyet megküld a hatóság részére, és
+
+f) részt vesz a hatósági ellenőrzéseken és a helyszíni szemléken.
+
+[^98]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.

@@ -36,7 +36,7 @@
 
 | B/1. adatlap: ÜZEMAZONOSÍTÁSHOZ, ÜZEMADATOK – ÁLTALÁNOS INFORMÁCIÓK |
 
-| 1. | Veszélyes anyagokkal foglalkozó üzem neve: |  |
+| 1. | Veszélyes anyagokkal foglalkozó üzem / küszöbérték alatti üzem neve: |  |
 
 | 2. | Üzemeltető neve: |  |
 
@@ -138,9 +138,9 @@ f) belső audit és vezetőségi átvizsgálás.
 
 1.2.1. A veszélyes anyagokkal foglalkozó üzem környezetének bemutatásakor az üzemeltető bizonyítja, hogy a kockázatokat és a veszélyes anyagokkal kapcsolatos súlyos balesetek hatásai által veszélyeztetett területeket a szükséges mértékben elemezte.
 
-1.2.2. Az üzemeltető bemutatja a veszélyes anyagokkal foglalkozó üzem érintett (a veszélyes anyagokkal kapcsolatos súlyos baleset következményei által veszélyeztetett) környezetének területrendezési elemeit. Ehhez felhasználható a településrendezési terv. A bemutatás legalább a következő adatokat tartalmazza:
+1.2.2.[^95] Az üzemeltető bemutatja a veszélyes anyagokkal foglalkozó üzem érintett (a veszélyes anyagokkal kapcsolatos súlyos baleset következményei által veszélyeztetett) környezetének területrendezési elemeit. Ehhez felhasználható a településszerkezeti terv. A bemutatás legalább a következő adatokat tartalmazza:
 
-a) a lakott területek jellemzése,
+a)[^96] a lakóterületek jellemzése,
 
 b) a lakosság által leginkább látogatott létesítmények (állandó, ideiglenes), közintézmények (iskolák, kórházak, templomok, rendőrség, tűzoltóság, stb.),
 
@@ -423,3 +423,6 @@ cf) a külső behatás elleni védelem.
 2.2. A veszélyes anyagokkal foglalkozó üzem alaprajza (vázlata) vagy helyszínrajza kellő méretarányban tartalmazza annak egész területét és annak minden veszélyes anyagokkal foglalkozó létesítményét és a veszélyeztetett területeket.
 
 2.3. A biztonsági jelentések (kiegészítések) formai követelményei minden esetben azonosak.
+
+[^95]: A 3. melléklet 1.2.2. pont nyitó szövegrésze a 476/2013. (XII. 17.) Korm. rendelet 24. § (3) bekezdése szerint módosított szöveg.
+[^96]: A 3. melléklet 1.2.2. pont a) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.

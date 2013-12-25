@@ -30,7 +30,7 @@
 
 ## 3.1. Ezt az összegzési szabályt a toxicitás, a tűzveszélyesség és az ökotoxicitás veszélyeinek értékeléséhez kell használni. Ennélfogva a szabályt külön-külön is kell alkalmazni:
 
-## a) az 1. táblázatban nevesített, mérgező vagy nagyon mérgező veszélyességi osztályba sorolandó anyagok, valamint a 2. táblázat 1. és 2. veszélyességi osztályába sorolt anyagok összegzésekor;
+## a) az 1. táblázatban nevesített, mérgező vagy nagyon mérgező anyagok és készítmények veszélyességi osztályba sorolandó anyagok, valamint a 2. táblázat 1. és 2. veszélyességi osztályába sorolt anyagok összegzésekor;
 
 ## b) az 1. táblázatban nevesített oxidáló, robbanó, kevésbé tűzveszélyes, tűzveszélyes vagy fokozottan tűzveszélyes veszélyességi osztályba sorolandó anyagok, valamint a 2. táblázat 3., 4., 5., 6., 7.a), 7.b) és 8. veszélyességi osztályába sorolt anyagok összegzésekor;
 
@@ -48,11 +48,13 @@
 
 ## 6. A táblázatokban meghatározott küszöbmennyiségek egy üzemre vonatkoznak.
 
-## 7. Az üzemeltető kötelezettsége szempontjából mértékadónak számít a veszélyes anyagnak az üzemben egyidejűleg jelen lévő legnagyobb mennyisége. Az a veszélyes anyag, amely a veszélyes anyagokkal foglalkozó üzemben az alsó vagy a felső küszöbmennyiség 2%-át meg nem haladóan van jelen, a teljes veszélyes anyagmennyiség meghatározásakor figyelmen kívül hagyható, ha az alsó vagy felső küszöbértékű veszélyes anyagokkal foglalkozó üzemen belül úgy helyezkedik el, hogy az veszélyes anyagokkal kapcsolatos súlyos balesetet nem okozhat.
+## 7. Az üzemeltető kötelezettsége szempontjából mértékadónak számít a veszélyes anyagnak az üzemben egyidejűleg jelen lévő legnagyobb mennyisége. Az a veszélyes anyag, amely a veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a küszöbmennyiség 2%-át meg nem haladóan van jelen, a teljes veszélyes anyagmennyiség meghatározásakor figyelmen kívül hagyható, ha az alsó vagy felső küszöbértékű veszélyes anyagokkal foglalkozó üzemen, vagy a küszöbérték alatti üzemen belül úgy helyezkedik el, hogy az veszélyes anyagokkal kapcsolatos súlyos balesetet nem okozhat.
 
 ## 8. E rendelet alkalmazása szempontjából gáznak tekintendő bármely anyag, amelynek abszolút gőznyomása 20 °C-on 101,3 kPa vagy annál nagyobb.
 
 ## 9. E rendelet alkalmazása szempontjából folyadéknak tekintendő bármely anyag, amely 20 °C-on és 101,3 kPa normál légköri nyomáson nem gáz, és nem szilárd halmazállapotú.
+
+## 10. A veszélyes anyagok jelen lévő mennyiségének meghatározásakor a tárolóedények technológiai berendezések tároló kapacitása a mértékadó, mindaddig, amíg az üzemeltető hitelt érdemlő módon nem bizonyítja, hogy az valamilyen korlátozást eredményező műszaki megoldással csökkentésre került.
 
 |  |  |  | 1. táblázat |
 
@@ -130,7 +132,7 @@
 
 |  | A következő rákkeltő anyagok 5 tömeg% feletti koncentrációban: 4-Amino-bifenil és/vagy sói, benzo-triklorid, benzidin és/vagy sói, bisz (klórmetil)–éter, klórmetil-metil-éter, 1,2-dibróm-etán, dietil-szulfát, dimetil-szulfát, dimetil-karbamoil-klorid, 1,2-dibróm-3-klórpropán, 1,2-dimetil-hidrazin, dimetil-nitrózamin, hexametil-foszfor-triamid, hidrazin, 2-naftil-amin és/vagy sói, 4-nitro-difenil és 1,3-propán-szulton | 0,5 | 2 |
 
-|  | Kőolaj termékek: a) Gazolinok és benzinek b) petróleumok (beleértve a repülőgép üzemanyagokat) c) gázolajok (beleértve a dízelolajokat, a háztartási tüzelőolajokat és a gázolaj keverő komponenseket) | 2 500 | 25 000 |
+|  | Kőolaj termékek: a) Gazolinok és benzinek b) petróleumok (beleértve a repülőgép üzemanyagokat) c) gázolajok (beleértve a dízelolajokat, a háztartási tüzelőolajokat és a gázolaj keverő komponenseket) d) nehéz fűtőolajok. | 2 500 | 25 000 |
 
 ## Megjegyzések az 1. táblázathoz
 
@@ -220,9 +222,9 @@
 
 |  | alsó | felső |
 
-|  | 1. nagyon mérgezőek | 5 | 20 |
+|  | 1. nagyon mérgező anyagok és készítmények | 5 | 20 |
 
-|  | 2. mérgezőek | 50 | 200 |
+|  | 2. mérgező anyagok és készítmények | 50 | 200 |
 
 |  | 3. oxidáló anyagok és készítmények | 50 | 200 |
 
@@ -310,4 +312,6 @@
 
 ## 3. folyadék-halmazállapotú, kevésbé tűzveszélyes és tűzveszélyes anyagok és készítmények, melyeket forráspontjuknál magasabb hőmérsékleten tárolnak.
 
-2. melléklet a 219/2011. (X. 20.) Korm. rendelethez
+2. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^94]
+
+[^94]: A 2. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.

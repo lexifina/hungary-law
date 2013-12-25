@@ -8,8 +8,9 @@ b) a veszélyes anyagokkal kapcsolatos súlyos balesetek, veszélyes anyagokkal 
 
 c) a veszélyazonosításban vagy a hatások értékelésében kialakult korszerűbb módszerek erre okot adnak.
 
-(3)[^12] Az ötévenkénti (a továbbiakban: soros), vagy soron kívüli felülvizsgálatról készült jegyzőkönyvet az üzemeltető a hatóság területi szervének soros felülvizsgálat, vagy az általa kezdeményezett soron kívüli felülvizsgálat esetében haladéktalanul, a hatóság által kezdeményezett soron kívül felülvizsgálat esetében a hatóság határozatában meghatározott határidőn belül megküldi. Ha a felülvizsgálat eredményeképpen a hatóság döntése szerint a biztonsági jelentést, a biztonsági elemzést módosítani szükséges, akkor annak módosítással érintett részét, jelentős tartalmi módosítás esetében a módosításokkal egységes szerkezetbe foglalt biztonsági jelentést, biztonsági elemzést az üzemeltető a hatóság határozatában meghatározott határidőn belül megküldi a hatóság területi szervének.
+(3)[^22] Az ötévenkénti (a továbbiakban: soros), vagy soron kívüli felülvizsgálatról készült jegyzőkönyvet az üzemeltető a hatóság területi szervének soros felülvizsgálat, vagy az általa kezdeményezett soron kívüli felülvizsgálat esetében haladéktalanul, a hatóság által kezdeményezett soron kívül felülvizsgálat esetében a hatóság határozatában meghatározott határidőn belül megküldi. Ha a felülvizsgálat eredményeképpen a hatóság döntése szerint a biztonsági jelentést, a biztonsági elemzést módosítani szükséges, akkor annak módosítással érintett részét, jelentős tartalmi módosítás esetében a módosításokkal egységes szerkezetbe foglalt biztonsági jelentést, biztonsági elemzést az üzemeltető a hatóság határozatában meghatározott határidőn belül megküldi a hatóság területi szervének.
 
-(4) A felülvizsgálatról készült jegyzőkönyv elbírálására vonatkozó ügyintézési határidő 30 nap.
+(4)[^23] A felülvizsgálatról készült jegyzőkönyv elbírálására vonatkozó ügyintézési határidő az elsőfokú és másodfokú eljárás során 30 nap.
 
-[^12]: A 11. § (3) bekezdés a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^22]: A 11. § (3) bekezdés a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^23]: A 11. § (4) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.

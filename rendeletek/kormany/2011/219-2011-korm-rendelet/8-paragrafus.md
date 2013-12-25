@@ -1,6 +1,6 @@
 ## 6. A biztonsági jelentés és biztonsági elemzés
 
-8. § (1) A felső küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 3. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági jelentést; az alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 4. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági elemzést készít.
+8. § (1)[^13] A felső küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 3. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági jelentést; az alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője a 4. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő biztonsági elemzést készít, és az abban foglaltak szerint köteles működni.
 
 (2) A biztonsági jelentésben vagy a biztonsági elemzésben az üzemeltető bemutatja a veszélyes anyagokkal kapcsolatos súlyos baleset megelőzésével és annak hatásai elleni védekezéssel kapcsolatban kialakított fő célkitűzéseit, valamint azt az üzemi szervezeti és eszközrendszert, amely biztosítja az egészség és a környezet magas fokú védelmét.
 
@@ -9,3 +9,5 @@
 (4) A biztonsági jelentésben vagy a biztonsági elemzésben az üzemeltető bizonyítja, hogy a veszélyes anyagokkal kapcsolatos súlyos balesetek kialakulásának lehetőségeit a biztonsági irányítási rendszer, az irányítási rendszer kialakítása során figyelembe vette.
 
 (5) Az üzemeltető – a lakossági tájékoztató kiadványhoz szükséges, legalább a 10. melléklet 1.1. és 1.2. pontok szerinti adattartalommal – elkészíti a biztonsági jelentés kivonatát. A kivonat a nyilvánosságra hozható biztonsági jelentés részét képezi, amely – ha arra lehetőség van – a szakmai kifejezések helyett annak köznapi megfelelőjét tartalmazza.
+
+[^13]: A 8. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg.

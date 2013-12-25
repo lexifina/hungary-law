@@ -4,16 +4,18 @@
 
 ## 14. Küszöbérték alatti üzem azonosítása
 
-33. § (1)[^39] A küszöbérték alatti üzem üzemeltetője a 2. melléklet szerinti üzemazonosítási adatlapokat a veszélyes tevékenység végzéséhez, folytatásához szükséges katasztrófavédelmi engedély iránti kérelme mellékleteként a hatóság területi szervéhez nyújtja be. A kérelemnek tartalmaznia kell a 10. § (2) bekezdés a) és c) pontjában meghatározott – a küszöbérték alatti üzemre vonatkoztatott – adatokat, valamint a kérelemhez csatolni kell a 10. § (3) bekezdés b)–d) pontjában meghatározott iratokat.
+33. § (1)[^60] A küszöbérték alatti üzem üzemeltetője a 2. melléklet szerinti üzemazonosítási adatlapokat az üzemazonosításra vonatkozó kérelme mellékleteként a hatóság területi szervéhez nyújtja be. A kérelemnek tartalmaznia kell a 10. § (2) bekezdés a) és c) pontjában meghatározott – a küszöbérték alatti üzemre vonatkoztatott – adatokat, valamint a kérelemhez csatolni kell a 10. § (3) bekezdés b)–d) pontjában meghatározott iratokat.
 
-(2)[^40] Az (1) bekezdés alapján benyújtott dokumentumok valóságtartalmát a hatóság helyszíni vizsgálattal ellenőrzi, és az üzemeltetőtől kiegészítő tájékoztatást kérhet.
+(2)[^61] Az (1) bekezdés alapján benyújtott dokumentumok valóságtartalmát a hatóság helyszíni vizsgálattal ellenőrzi, és az üzemeltetőtől kiegészítő tájékoztatást kérhet.
 
-(3)[^41] A hatóság az (1)–(2) bekezdés szerinti vizsgálat eredménye és a benyújtott üzemazonosítási adatlapok vizsgálata alapján – a Kat. 40. § (2) bekezdésére tekintettel – a súlyos káresemény elhárítási terv készítésére vonatkozó döntés meghozatalánál a 34. § (1)–(4) bekezdésében foglalt kritériumokat veszi figyelembe.
+(3)[^62] A hatóság az (1)–(2) bekezdés szerinti vizsgálat eredménye és a benyújtott üzemazonosítási adatlapok vizsgálata alapján – a Kat. 40. § (2) bekezdésére tekintettel – a súlyos káresemény elhárítási terv készítésére vonatkozó döntés meghozatalánál a 34. § (1)–(4) bekezdésében foglalt kritériumokat veszi figyelembe.
 
-(4) A hatóság – amennyiben nem kötelezi az üzemeltetőt súlyos káresemény elhárítási terv készítésére – az üzemazonosítási adatlapok és az (1)–(2) bekezdés szerinti vizsgálat eredménye alapján dönt a katasztrófavédelmi engedély megadásáról.
+(4)[^63] A hatóság – ha nem kötelezi az üzemeltetőt súlyos káresemény elhárítási terv készítésére – az üzemazonosítási adatlapok és az (1)–(2) bekezdés szerinti vizsgálat eredménye alapján dönt az üzemazonosítási eljárás lezárásáról és a katasztrófavédelmi engedély megadásáról.
 
-(5) A súlyos káresemény elhárítási terv vizsgálatára vonatkozó ügyintézési határidő 60 nap.
+(5)[^64] A küszöbérték alatti üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje 60 nap, az ezzel kapcsolatos másodfokú eljárás ügyintézési határideje 60 nap.
 
-[^39]: A 33. § (1) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés o) pontja szerint módosított szöveg.
-[^40]: A 33. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 10. § (6) bekezdésével megállapított szöveg.
-[^41]: A 33. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^60]: A 33. § (1) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^61]: A 33. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 10. § (6) bekezdésével megállapított szöveg.
+[^62]: A 33. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^63]: A 33. § (4) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^64]: A 33. § (5) bekezdése a 476/2013. (XII. 17.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.

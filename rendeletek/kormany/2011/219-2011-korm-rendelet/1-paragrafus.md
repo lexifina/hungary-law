@@ -6,11 +6,11 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1. Alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol a jelen lévő veszélyes anyagok mennyisége (beleértve a technológia irányíthatatlanná válása miatt várhatóan keletkező veszélyes anyagokat is) az 1. melléklet alapján meghatározható alsó küszöbértéket eléri vagy meghaladja, de nem éri el a felső küszöbértéket.
+1.[^1] Alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol az 1. melléklet alapján meghatározható alsó küszöbértéket elérő vagy meghaladó, de a felső küszöbértéket el nem érő mennyiségben veszélyes anyagok vannak jelen, vagy az alkalmazott berendezésekre és eljárásokra figyelemmel, valamint a technológia irányíthatatlanná válása miatt jelen lehetnek (a továbbiakban együtt: jelen lévő veszélyes anyag).
 
-2. Felső küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol a jelen lévő veszélyes anyagok mennyisége (beleértve a technológia irányíthatatlanná válása miatt várhatóan keletkező veszélyes anyagokat is) az 1. melléklet alapján meghatározható felső küszöbértéket eléri vagy meghaladja.
+2.[^2] Felső küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol a jelen lévő veszélyes anyagok mennyisége az 1. melléklet alapján meghatározható felső küszöbértéket eléri vagy meghaladja.
 
-2a.[^1] Hatóság: a hivatásos katasztrófavédelmi szerv.
+2a.[^3] Hatóság: a hivatásos katasztrófavédelmi szerv.
 
 3. Kiemelten kezelendő létesítmények:
 
@@ -28,4 +28,6 @@ c) azon üzemek, amelyek területén klór vagy ammónia legalább 1000 kg menny
 
 7. Veszélyeztetett terület: ahol a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem tevékenysége során bekövetkező veszélyes anyagokkal kapcsolatos súlyos balesetek, üzemzavarok által okozott mérgező, hősugárzási, ökotoxikus vagy túlnyomási hatások az emberi egészséget, a környezetet vagy a természeti értékeket károsíthatják.
 
-[^1]: Az 1. § 2a. pontját a 74/2012. (IV. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^1]: Az 1. § 1. pontja a 476/2013. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 2. pontja a 476/2013. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 2a. pontját a 74/2012. (IV. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
