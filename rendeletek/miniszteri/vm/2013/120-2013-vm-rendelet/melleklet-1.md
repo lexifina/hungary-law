@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a titán-dioxid gyártás hulladékairól szóló 2/2002. (VII. 9.) KvVM rendelet.
+## 6. §[^1]
 
 1. melléklet a 120/2013. (XII. 16.) VM rendelethez
 
@@ -35,3 +35,5 @@ b) hulladéksav töményítését végző létesítmények esetében 500 mg/Nm3 
 a) 5 mg/Nm3 napi átlagérték;
 
 b) bármely időpontban vizsgálva 40 mg/Nm3.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
