@@ -1,6 +1,6 @@
-## 8. §[^6]
+## 8. §[^10]
 
-1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^7]
+1. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^11]
 
 1. Egyes országos közúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
@@ -330,6 +330,8 @@
 
 1.163. A lenti Malom-patak híd fejlesztése.
 
+1.164.[^12] Körforgalmú csomópont kiépítése a 304. számú főút és a Miskolc Déli Ipari Park bekötő út keresztezésében.
+
 2. Egyes országos vasúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
@@ -478,5 +480,13 @@
 
 3.21. Kaposvár Megyei Jogú Város intermodális pályaudvar és közösségi közlekedés fejlesztése.
 
-[^6]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet a 376/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+4.[^13] Egyes országos vízi közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
+
+4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
+
+4.2. Csepeli Országos Közforgalmú Kikötő fejlesztése.
+
+[^10]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 376/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 1.164. pontját a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^13]: Az 1. melléklet 4. címét (4.1–4.2. pont) a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
