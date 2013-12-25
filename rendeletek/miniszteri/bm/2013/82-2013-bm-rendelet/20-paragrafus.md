@@ -1,4 +1,4 @@
-## 18–19. §[^3]
+## 18–19. §[^5]
 
 ## 5. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 18. §, a 19. §, a 3. melléklet és a 4. melléklet a kihirdetését követő nyolcadik napon lép hatályba.
 
-[^3]: A 18–19. § a 20. § (4) bekezdése alapján 2013. december 31-én lép hatályba.
+[^5]: A 18–19. § a 20. § (4) bekezdése alapján 2013. december 31-én lép hatályba.

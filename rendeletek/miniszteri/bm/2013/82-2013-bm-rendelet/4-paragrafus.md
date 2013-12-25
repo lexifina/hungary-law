@@ -1,1 +1,0 @@
-## „c) a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 46/B. § (1) bekezdésében meghatározott hatósági bizonyítványt, vagy a tűzvédelmi hatóság adatigénylése iránti kérelmet.”

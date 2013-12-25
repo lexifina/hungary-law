@@ -1,1 +1,3 @@
-## 15. § Az R2. 1. § (1) bekezdésében a „folyamatosan egy fő végzi” szövegrész helyébe az „egy fő végzi (a továbbiakban: ügyeletes)” szöveg lép.
+## 11–15. §[^2]
+
+[^2]: A 11–15. § a 2010: CXXX. törvény 12. § (2) bekezedése alapján hatályát vesztette.
