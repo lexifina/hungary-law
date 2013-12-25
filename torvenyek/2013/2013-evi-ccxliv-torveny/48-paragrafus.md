@@ -6,7 +6,7 @@ d)
 
 e)
 
-f) 110. § (2) bekezdésében az „a (4), (10) és (10a) bekezdésben foglalt kivételekkel” szövegrész helyébe az „a (4), (4a), (10) és (10a) bekezdésben foglalt kivételekkel” szöveg,
+f)
 
 g)–n)
 

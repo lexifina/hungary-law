@@ -1,3 +1,1 @@
-14. § Az Eüak. II. fejezete a következő 32/A. §-sal egészül ki:
-
-„32/A. § A gyógykezelés érdekében felvett egészségügyi és személyazonosító adatokat tartalmazó, közfinanszírozott egészségügyi szolgáltató által vezetett elektronikus nyilvántartással kapcsolatban szerződés alapján adatfeldolgozást végző adatfeldolgozó szervezet az adatfeldolgozási szerződés megszűnésekor az adatkezelő egészségügyi szolgáltatótól átvett adatállományt köteles díjmentesen, elektronikusan visszaszolgáltatni az adatkezelő rendelkezései szerint.”
+14. §
