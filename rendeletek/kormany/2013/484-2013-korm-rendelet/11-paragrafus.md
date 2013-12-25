@@ -1,0 +1,1 @@
+## 10. § A Tanács, a Fórum, és a Kiberbiztonsági Munkacsoportok tagjai, valamint a munkájukban közreműködő állami vezető, közszolgálati tisztviselő, közalkalmazott, hivatásos szolgálati jogviszonyban foglalkoztatott, kizárólagos állami tulajdonban álló gazdasági társaság vezető tisztségviselője vagy munkavállalója díjazásban nem részesül.
