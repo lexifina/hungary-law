@@ -8,7 +8,7 @@
 
 3. részes fél: a Keretegyezmény I. mellékletében felsorolt azon részes állam, amely a Jegyzőkönyvet megerősítette;
 
-4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k) és a kén-hexafluorid (SF6);
+4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6), és a nitrogén-trifluorid (NF3);
 
 5. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz;
 
@@ -38,7 +38,7 @@
 
 18. eltávolítási egység (RMU): az első kötelezettségvállalási időszakban (2008–2012) az üvegházhatású gázoknak a légkörből nyelő által történő eltávolítása esetében megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
 
-19. nemzeti forgalmi jegyzék: az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti forgalmi jegyzéket magába foglaló közhiteles és nyilvános jegyzék;
+19. forgalmi jegyzék: a 389/2013/EU bizottsági rendelet 2. fejezet 4. cikke szerinti forgalmi jegyzék;
 
 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
 

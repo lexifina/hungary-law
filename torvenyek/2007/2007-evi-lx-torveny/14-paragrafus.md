@@ -6,7 +6,7 @@
 
 (3) Az e törvény hatálybalépését megelőzően a környezetvédelemért felelős miniszter által jóváhagyott együttes végrehajtási projekttevékenységek e törvény szerint jóváhagyottnak minősülnek.
 
-(4) Az 5. § (3) bekezdése alapján kibocsátás-csökkentési egységek 2008. január 1-jét követően adhatók ki.
+(4)
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
@@ -16,13 +16,13 @@ b) a kibocsátási jogosultságokkal és az abból származó bevételekkel val�
 
 c) a nemzetközi együttműködéssel megvalósuló projekttevékenységek és a nemzetközi kibocsátás-kereskedelemben való részvétel szabályait, illetve díjait;
 
-d) a nemzeti forgalmi jegyzék működésének szabályait;
+d) a forgalmi jegyzék működésének szabályait;
 
-e) a nemzeti forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;
+e) a forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;
 
 f) a nemzetközi jelentések tartalmának és elkészítésének módját;
 
-g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rendszer működésének, illetve a nyilvántartási rendszerrel kapcsolatos adatszolgáltatásnak a rendjét;
+g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rendszer működésének, valamint a nyilvántartási rendszerrel kapcsolatos adatszolgáltatásnak a rendjét, a nyilvántartási rendszerhez szükséges adatok körét a személyes adatok kivételével;
 
 h) a nyilvántartási rendszerrel kapcsolatos adatszolgáltatási, illetve előrejelzési kötelezettség megszegése esetén fizetendő bírság összegét;
 
