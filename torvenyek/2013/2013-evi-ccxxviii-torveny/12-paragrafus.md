@@ -1,0 +1,3 @@
+12. § Az Éhvt. 7. §-a helyébe a következő rendelkezés lép:
+
+„7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, valamint az éghajlatváltozással kapcsolatos egyéb információra vonatkozó jelentéstételt a miniszter teljesíti az 525/2013/EU európai parlamenti és tanácsi rendelet és az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat rendelkezéseinek, valamint a nemzetközi kötelezettségeknek megfelelően.”

@@ -1,0 +1,1 @@
+30. § Az Udt. 14. § b) pontjában a „díjkategóriájánál alacsonyabb díjkategóriához tartozó” szövegrész helyébe a „díj- vagy környezetvédelmi kategóriájánál alacsonyabb díj- vagy környezetvédelmi kategóriához tartozó” szöveg lép.

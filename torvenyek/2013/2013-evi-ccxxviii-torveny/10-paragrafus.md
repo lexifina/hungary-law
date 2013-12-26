@@ -1,0 +1,3 @@
+10. § Az Éhvt. 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az állami meteorológiai szolgálat e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2) bekezdésben meghatározott adatszolgáltatásra kötelezett szervezetet, amennyiben az a (2) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét az állami meteorológiai szolgálat az eset összes körülményére – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.”
