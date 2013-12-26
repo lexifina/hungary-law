@@ -1,1 +1,0 @@
-133. § A Kbtv. 120. § k) pontjában az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény” szövegrész helyébe az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény” szöveg lép.
