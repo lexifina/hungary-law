@@ -8,17 +8,17 @@ a) az adott légi jármű üzembentartó számára az 1008/2008/EK európai parl
 
 b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi jármű üzembentartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb,
 
-2. akkreditált hitelesítő szervezet: a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény (a továbbiakban: Nattv.) szerinti eljárásban a Nemzeti Akkreditáló Testület (a továbbiakban: Testület) által akkreditált vagy nyilvántartásba vett olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
+2. akkreditált hitelesítő szervezet: a 600/2012/EU bizottsági rendeletnek megfelelően, az Európai Unió bármely tagállamának nemzeti akkreditáló testülete által akkreditált olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
 
 3. aukciós platform: az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdése alapján kijelölt aukciós platform,
 
 4. ellenőrzési év: a térítésmentes kiosztásra vonatkozó kérelemmel érintett időszak kezdetét 24 hónappal megelőzően véget érő naptári év,
 
-5. európai uniós ügyleti jegyzőkönyv: az 1193/2011/EU bizottsági rendelet 5. cikke szerinti szabványosított elektronikus adatbázis,
+5. európai uniós ügyleti jegyzőkönyv: a 389/2013/EU bizottsági rendelet 6. cikke szerinti szabványosított elektronikus adatbázis,
 
 6. égetés: tüzelőanyagok oxidálása, függetlenül az e folyamat révén előállított hő-, elektromos vagy mechanikai energia felhasználási módjától, valamint az ehhez közvetlenül kapcsolódó valamennyi tevékenység, beleértve a hulladékgázok tisztítását,
 
-7. forgalmi jegyzék: az 1193/2011/EU bizottsági rendelet 4. cikke szerinti forgalmi jegyzék,
+7. forgalmi jegyzék: a 389/2013/EU bizottsági rendelet 4. cikke szerinti forgalmi jegyzék,
 
 8. forrásanyag:
 
@@ -50,7 +50,7 @@ b) a fizikai változások által érintett létesítményrész jelentősen magas
 
 18. környezeti információ: a nyilvánosság környezeti információkhoz való hozzáférésének rendjéről szóló jogszabályban meghatározott információ,
 
-19. központi tisztviselő: az 1193/2011/EU bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
+19. központi tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
 
 20. légi jármű üzembentartó: az 1. melléklet XXII. pontjában meghatározott légiközlekedési tevékenység folytatásának idején légi járművet üzembentartó személy, illetve ha ez a személy ismeretlen vagy a légi jármű tulajdonosa által nem azonosított, a légi jármű tulajdonosa,
 
@@ -68,9 +68,9 @@ b) amelynek tonnakilométer adatai az ellenőrzési év és a kérelemmel érint
 
 24. létesítmény: minden olyan helyhez kötött műszaki egység, ahol egy vagy több, az 1. melléklet I–XXI. pontjában felsorolt tevékenység vagy bármely más, azzal technológiailag összefüggő tevékenység, valamint az adott telephelyen folytatott tevékenységhez műszakilag kapcsolódó tevékenység folyik, és amely az 1. mellékletben meghatározott üvegházhatású gáz kibocsátását eredményezi vagy arra közvetlenül hatással van,
 
-25. nemzeti tisztviselő: az 1193/2011/EU bizottsági rendelet 3. cikk 22. pontjában meghatározott személy,
+25. nemzeti tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 22. pontjában meghatározott személy,
 
-26. számlatulajdonos: az 1193/2011/EU bizottsági rendelet 3. cikk 1. pontjában meghatározott személy,
+26. számlatulajdonos: a 389/2013/EU bizottsági rendelet 3. cikk 1. pontjában meghatározott személy,
 
 27. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz,
 
@@ -84,7 +84,7 @@ b) 2011. június 30. után bekövetkezett jelentős kapacitásbővítés követk
 
 c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvény hatálya alá,
 
-30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k) és a kén-hexafluorid (SF6), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
+30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
 
 31. üzemeltető: a környezethasználat feltételeit megállapító engedély jogosultja,
 

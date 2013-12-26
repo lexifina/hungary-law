@@ -2,9 +2,7 @@
 
 (2) A jelentések hitelesítését a 2013. január 1-je előtti kibocsátások tekintetében a 2012. december 31-én az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenység személyi és szakmai feltételeiről szóló kormányrendelet szerinti névjegyzékbe bejegyzett egyéni hitelesítő és hitelesítő szervezet, továbbá az európai közösségi hitelesítő is végezheti. E kibocsátások tekintetében a hitelesítést a 2012. december 31-ig hatályos szabályok alapján kell elvégezni.
 
-(3) 2013. január 15-ig a hatóság átadja a Testületnek a 2012. december 31-én bejegyzett egyéni hitelesítők, hitelesítő szervezetek és európai közösségi hitelesítők listáját, valamint a rájuk vonatkozó összes, az akkreditálási folyamat lefolytatásához szükséges adat és dokumentáció másolatát.
-
-(4) Ha a bejegyzett egyéni hitelesítők, hitelesítő szervezetek és az európai közösségi hitelesítők a hatóságnál 2013. január 15. és 2013. április 30-a között adatmódosítást jelentenek be, a hatóság az adatok változásáról soron kívül tájékoztatja a Testületet.
+(3)–(4)
 
 (5)
 

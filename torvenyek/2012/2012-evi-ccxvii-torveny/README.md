@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-217-00-00
 | 2013-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-217-00-00.8 |
 | 2013-05-02 | 2010. évi CXXX. törvény | 2012-217-00-00.9 |
 | 2013-06-30 | 2013. évi CI. törvény | 2012-217-00-00.10 |
+| 2013-12-26 | 2013. évi CCXXVIII. törvény | 2012-217-00-00.11 |

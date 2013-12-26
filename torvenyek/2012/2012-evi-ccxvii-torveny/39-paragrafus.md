@@ -12,7 +12,7 @@ d) az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatko
 
 e) a magyar állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
 
-f) az ÜHG-egységek értékesítéséből származó bevételek felhasználására, a felhasználás elveire vonatkozó részletes szabályokat,
+f)
 
 g) a hatóság és a jegyzékkezelő kijelölését és az ÜHG-egységek nyilvántartásának szabályait,
 
