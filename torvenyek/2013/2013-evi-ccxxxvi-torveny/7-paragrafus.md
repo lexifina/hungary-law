@@ -1,0 +1,3 @@
+7. § Az Exim tv. 8/A. § (1) bekezdésének helyébe a következő rendelkezés lép:
+
+„(1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani, vagy harmadik személy útján behajtatni. Az Eximbank és a Mehib Rt. a követelés behajtása, vagy harmadik személy útján történő behajtatása során az államháztartásról szóló 2011. évi CXCV. törvény és a végrehajtására kiadott rendelet rendelkezéseinek figyelembevételével köteles eljárni.”

@@ -1,0 +1,1 @@
+139. § A Kenytv. 7. § (2) bekezdésében a „szerinti esetben” szövegrész helyébe a „szerinti esetben – az ott meghatározott eltéréssel –” szöveg, a „Tny. 2011. december 31-én hatályos szabályai” szövegrész helyébe a „2011. december 31-én hatályos szabályok” szöveg lép.

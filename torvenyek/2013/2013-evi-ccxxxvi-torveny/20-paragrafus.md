@@ -1,0 +1,1 @@
+20. § Az Ltp. 3. § (1) bekezdésében az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényt” szövegrész helyébe az „a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényt” szöveg lép.

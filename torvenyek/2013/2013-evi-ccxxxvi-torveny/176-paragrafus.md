@@ -1,0 +1,1 @@
+176. § A Magyarország 2013. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2012. évi CXCVI. törvény 25. § (1) bekezdésében a „2014. január 2-án” szövegrész helyébe a „2015. január 2-án” szöveg lép.
