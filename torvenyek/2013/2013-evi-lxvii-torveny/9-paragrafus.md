@@ -6,11 +6,11 @@ a) a Magyar Honvédséget, a Katonai Nemzetbiztonsági Szolgálatot, továbbá a
 
 b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erőket és a Magyarországon felállított nemzetközi katonai parancsnokságokat hivatali vagy szolgálati gépjárműveik után, valamint az egyéb szervezeteket a nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárműveik után,
 
-c) az útdíjköteles elemi útszakasz kezelői feladatait ellátó,
+c) útdíjköteles elemi útszakasz kezelői feladatait ellátó,
 
-ca) koncessziós szerződés alapján működtetett országos közút esetében a koncessziós társaság vagy az általa a közút-üzemeltetési feladatokkal megbízott gazdasági társaság által a közútkezelői feladata ellátása érdekében üzemben tartott gépjárműveket,
+ca) a koncessziós közúton végzett üzemeltetői feladata ellátása érdekében a koncessziós társaság vagy az általa üzemeltetői feladatokkal megbízott gazdasági társaság által üzemeltetett gépjárműveket,
 
-cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemben tartott gépjárműveket,
+cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemeltetett, valamint a téli időszakban az országos közút kezelőjével kötött szerződés szerint, az országos közút kezelőjének cégjegyzésre jogosult képviselője által igazoltan a téli úttisztítási-, síkosságmentesítési feladatokat végző gépjárműveket;
 
 d) az útdíjszedőt a feladatait ellátó gépjárművei után,
 
