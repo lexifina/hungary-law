@@ -1,11 +1,9 @@
-## 20. § Az R. 41. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 4–20. §[^3]
 
-## „(1) A veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése céljából a hatóság engedélyezési, felügyeleti és ellenőrzési feladatainak keretében a veszélyes tevékenységek tűz-, polgári védelmi és iparbiztonsági felügyeletének hatékonnyá tétele érdekében ipar-felügyeleti adatbázist hoz létre és működtet.”
+21. § (1)[^4]
 
-21. § (1) Az R. 47. § (5) bekezdése helyébe a következő rendelkezés lép:
+(2)[^5]
 
-## „(5) A 7. melléklet 6. 2. pontjában foglalt előírásokat 2014. december 31-ig kell teljesíteni.”
-
-(2)[^2]
-
-[^2]: A 21. § (2) bekezdése a 26. § (3) bekezdése alapján 2014. február 15-én lép hatályba.
+[^3]: A 4–20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 21. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 21. § (2) bekezdése a 26. § (3) bekezdése alapján 2014. február 15-én lép hatályba.
