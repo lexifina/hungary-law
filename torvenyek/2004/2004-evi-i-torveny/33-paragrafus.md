@@ -12,7 +12,11 @@ a) a sportegyesület versenyrendszerben (bajnokságban) való részvétel célj�
 
 b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át,
 
-c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átadja a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak.
+c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átadja a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak,
+
+d) az indulási (nevezési) joggal rendelkező sportvállalkozásnak olyan sportegyesület is tagja, mely a sportvállalkozásba tagként belépése és az indulás (nevezés) jogának sportvállalkozásra történő átruházása előtt maga rendelkezett az azonos versenyrendszer azonos bajnoki osztályában az indulási (nevezési) joggal, a sportvállalkozásnak lejárt köztartozása nincs, és a sportvállalkozás legfőbb szerve határozatával az indulási (nevezési) jogot az indulás (nevezés) jogával korábban rendelkező sportegyesület tagra az országos sportági szakszövetség elnöksége előzetes jóváhagyásával átruházza.
+
+(2a) Az országos sportági szakszövetség elnöksége a (2) bekezdés d) pontja szerinti átruházás előzetes jóváhagyását megtagadja, ha az átruházás feltételei nem felelnek meg a jogszabályi előírásoknak és az országos sportági szakszövetség szabályzatában meghatározott feltételeknek.
 
 (3) Ha a sportszervezet általános jogutóddal szűnik meg, az indulási jog az általános jogutódra átszáll. Ha a sportszervezet általános jogutód nélkül szűnik meg, az indulási jog megszűnik.
 
