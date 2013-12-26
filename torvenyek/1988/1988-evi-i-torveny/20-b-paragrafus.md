@@ -1,6 +1,6 @@
-20/B. § (1) Közúti ellenőr az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy lehet, aki a tizennyolcadik életévét betöltötte és cselekvőképes.
+20/B. § (1) Kezelői ellenőr az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy lehet, aki a tizennyolcadik életévét betöltötte és cselekvőképes.
 
-(2) Nem lehet közúti ellenőr,
+(2) Nem lehet kezelői ellenőr,
 
 a) aki büntetett előéletű,
 
@@ -10,7 +10,7 @@ c) akit a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a tová
 
 d) aki az e törvény hatálya alá tartozó foglalkozástól eltiltás hatálya alatt áll.
 
-(3) Nem lehet közúti ellenőr az, akivel szemben a (2) bekezdés b) vagy c) pontjában meghatározott
+(3) Nem lehet kezelői ellenőr az, akivel szemben a (2) bekezdés b) vagy c) pontjában meghatározott
 
 a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
 
@@ -26,4 +26,4 @@ ca) szabadságvesztést szabtak ki, a mentesítés beálltától számított né
 
 cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított egy évig.
 
-(4) A közúti ellenőr köteles a (2)–(3) bekezdésben meghatározott kizáró okot a közlekedési hatóság és a munkáltató részére haladéktalanul bejelenteni.
+(4) A kezelői ellenőr köteles a (2)–(3) bekezdésben meghatározott kizáró okot a közlekedési hatóság és a munkáltató részére haladéktalanul bejelenteni.

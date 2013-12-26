@@ -132,7 +132,7 @@ b) a miniszter, hogy
 
 27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői és a hatósági eljárás, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
 
-28. az út és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá az utak kezelésére vonatkozó műszaki szabályzatokat, előírásokat,
+28. az út és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá az utak kezelésére vonatkozó, a közlekedésbiztonságot és a létesítményeket érintő alapvető követelményeket,
 
 29. a 32. § (4) és (5) bekezdésében meghatározott állami feladatokat, azok végrehajtásának és az egyes feladatok ellátásához szükséges források felhasználásának szabályait,
 
@@ -146,13 +146,13 @@ b) a miniszter, hogy
 
 34. a 24. § (11) bekezdésében meghatározott szervezet vagy szervezetek kijelölését, és az azzal összefüggésben ellátandó feladatokat,
 
-35. a közúti ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a közúti ellenőrök rendszeres továbbképzésére vonatkozó részletes eljárási szabályokat,
+35. a közúti ellenőri munkakör létesítéséhez szükséges iskolai végzettséget, képesítési előírásokat, valamint a névjegyzék vezetésére és a kezelői ellenőrök rendszeres továbbképzésére vonatkozó részletes eljárási szabályokat,
 
 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 
 37. a közúti forgalom biztonságát veszélyeztető módon veszteglő gépjárművek elszállításának, tárolásának és értékesítésének szabályait,
 
-38.
+38. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó jogszabályi szintű szabályozást nem igénylő műszaki előírások, útmutatók megalkotására és kiadására, közzétételére vonatkozó eljárási szabályokat,
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
