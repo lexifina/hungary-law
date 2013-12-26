@@ -26,7 +26,9 @@ f) a legfőbb ügyész,
 
 g) az alapvető jogok biztosa
 
-h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke
+h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
+
+i) az Állami Számvevőszék elnöke
 
 nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.
 

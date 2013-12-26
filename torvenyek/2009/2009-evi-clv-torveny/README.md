@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2013-06-04 | 2013. évi LXXII. törvény | 2009-155-00-00.10 |
 | 2013-07-01 | 2013. évi L. törvény | 2009-155-00-00.11 |
 | 2013-08-01 | 2013. évi LXXII. törvény | 2009-155-00-00.12 |
+| 2013-12-26 | 2013. évi CCXXXVI. törvény | 2009-155-00-00.13 |
