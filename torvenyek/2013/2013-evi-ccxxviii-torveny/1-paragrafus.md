@@ -1,7 +1,3 @@
 ## 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-1. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 29. § (2) bekezdése helyébe a következő rendelkezés lép, és egyidejűleg a Kkt. 29. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2) Az építtető – a koncessziós szerződés keretében megvalósuló utak kivételével és a (11) bekezdésben foglaltak figyelembevételével – felelős az építési munkák előkészítéséért. Ennek keretében teljes körűen elkészítteti a szükséges műszaki terveket (így különösen az engedélyezési tervet vagy a kiviteli tervet), tanulmányokat, ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, megelőző régészeti feltárást, közmű kiváltást) és fejlesztést, továbbá lefolytatja a közbeszerzési eljárásokat. Az építtető építési szerződéseket köt a megvalósításra, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, lebonyolítja a műszaki átadás-átvételt. Az építtetőre a gyorsforgalmi utak közérdekűségéről és fejlesztéséről szóló jogszabály rendelkezései is irányadóak.
-
-(2a) Megkezdettnek kell tekinteni az építési előkészítési munkákat, ha az építtető a műszaki tervek (így az engedélyezési terv, a kiviteli terv, vagy ezek együttese) elkészítését vagy elkészíttetését megkezdte.”
+1–2. §

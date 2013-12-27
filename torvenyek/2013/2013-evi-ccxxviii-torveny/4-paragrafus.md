@@ -1,3 +1,1 @@
-4. § A Kkt. a következő 46/I. §-sal egészül ki:
-
-„46/I. § Az e törvénynek az egyes klímapolitikai és közlekedési tárgyú törvények módosításáról szóló 2013. évi CCXXVIII. törvény által megállapított 29. § (2) és (2a) bekezdésében foglaltakat a folyamatban lévő ügyekben is alkalmazni kell.”
+4–5. §
