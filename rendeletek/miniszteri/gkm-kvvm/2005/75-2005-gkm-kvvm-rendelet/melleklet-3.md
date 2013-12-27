@@ -200,7 +200,7 @@
 
 ## 2.2.6.1. Leírás és működés:
 
-## 3. Üzemanyag-ellátás
+## 3. TÜZELŐANYAG-ELLÁTÁS DÍZELMOTOROK ESETÉBEN
 
 ## 3.1. Tápszivattyú
 
@@ -258,15 +258,75 @@
 
 ## 3.3.3. Leírás:
 
-## 4. Szelepvezérlés
+## 4. TÜZELŐANYAG-ELLÁTÁS BENZIMOTOROK ESETÉBEN (*)
 
-## 4.1. A maximális szelepnyitás és a nyitási és zárási szögek a holtpontokhoz képest, vagy egyenértékű adatok:
+## 4.1. Porlasztó:. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
 
-## 4.2. Referencia és/vagy beállítási tartományok
+## 4.1.1. Gyártmány(ok):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ...
 
-## __________________________
+## 4.1.2. Típus(ok):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
 
-## (*) A nem kívánt rész törlendő.
+## 4.2. Közvetett tüzelőanyag-befecskendezés: egypontos vagy többpontos:. .. .. .. ...
+
+## 4.2.1. Gyártmány(ok):. .. .. .. .. .. .. .. . ... .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 4.2.2. Típus(ok):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 4.3. Közvetlen befecskendezés:. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 4.3.1. Gyártmány(ok):. .. .. .. ... .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ...
+
+## 4.3.2. Típus(ok):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 4.4. Tüzelőanyag-áram [g/h] és levegő/tüzelőanyag arány névleges fordulatszámnál és teljesen nyitott fojtószelepnél: .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 5. SZELEPIDŐZÍTÉS
+
+## 5.1. A legnagyobb szelepnyitás és a nyitási és zárási szögek a holtponthoz képest, illetve ezzel egyenértékű adatok:…………………………………………
+
+## 5.2. Vonatkoztatási és/vagy beállítási tartományok (*)
+
+## 5.3. Változtatható szelepvezérlő rendszer (ha alkalmazható, és ahol szívó és/vagy kipufogó szelep van)
+
+## 5.3.1. Típus: folytonos vagy kétállásos (*)
+
+## 5.3.2. Bütyökállítási szög:. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 6. A FURATOK ELRENDEZÉSE
+
+## 6.1. Helyzet, méret és számozás:
+
+## 7. GYÚJTÁS
+
+## 7.1. Gyújtótekercs
+
+## 7.1.1. Gyártmány(ok):. .. .. .. .. .. .. .. .. .. .. . ... .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 7.1.2. Típus(ok):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 7.1.3. Szám:. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ...
+
+## 7.2. Gyújtógyertyák:. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 7.2.1. Gyártmány(ok):. .. .. .. .. .. .. .. .. .. .. ... .. .. .. .. .. .. .. .. .. .. .. .. ...
+
+## 7.2.2. Típus(ok):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 7.3. Mágneses gyújtás:. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ...
+
+## 7.3.1. Gyártmány(ok):. .. .. .. .. .. .. .. .. .. .. . ... .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 7.3.2. Típus(ok):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 7.4. A gyújtás időzítése:. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+
+## 7.4.1. Gyújtási időpont a felső holtponthoz képest (forgattyú szögben). .. .. .. .. ...
+
+## 7.4.2. Gyújtásállítási görbe (adott esetben):. .. . ... .. .. .. .. .. .. .. .. .. .. .. .. ...
+
+## ____________________
+
+## (*) A nem kívánt rész törlendő.
 
 ## 2. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 2. számú mellékletéhez
 
@@ -298,11 +358,7 @@
 
 ## – levegő befúvás:
 
-## 1.8. Kipufogógáz utókezelő rendszer:
-
-## Az azonos (vagy az alapmotornál a legkisebb) arányok bizonyítása: rendszer
-
-## kapacitás/löketenkénti üzemanyag-szállítás, a rajzszám(ok) alapján:
+## 1.8. Kipufogógáz-utókezelő rendszer (*):. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .
 
 ## 2. Motorcsalád jegyzék
 
@@ -310,25 +366,43 @@
 
 ## 2.2. A család motorjainak műszaki adatai:
 
-|  |  |  |  |  | Alapmotor |
+## ______________________________
 
-| Motortípus |  |  |  |  |  |
+## (*) Ha nem alkalmazandó, n.a.-val kell jelölni.
 
-| Hengerszám |  |  |  |  |  |
+|  | A | B | C |
 
-| Névleges fordulatszám (1/min) |  |  |  |  |  |
+| 1 |  | Alapmotor (*) | A motorcsaládba tartozó motorok (**) |
 
-| Löketenkénti üzemanyag-szállítás (mm3 dízel motorokra), üzemanyag áram (g/h benzinmotorokra) |  |  |  |  |  |
+| 2 | Motortípus |  |  |  |  |  |
 
-| Névleges leadott teljesítmény (kW) |  |  |  |  |  |
+| 3 | Hengerek száma |  |  |  |  |  |
 
-| Max. nyomatékhoz tartozó fordulat- szám (1/min) |  |  |  |  |  |
+| 4 | Névleges fordulatszám (min-1) |  |  |  |  |  |
 
-| Maximális nyomaték (Nm) |  |  |  |  |  |
+| 5 | Löketenkénti tüzelőanyag-szállítás (mm3) dízelmotorok esetében, tüzelőanyag-áram (g/h) benzinmotorok esetében, a névleges hasznos teljesítmény mellett |  |  |  |  |  |
 
-| Alapjárati fordulatszám (1/min) |  |  |  |  |  |
+| 6 | Névleges hasznos teljesítmény (kW) |  |  |  |  |  |
 
-| Hengertérfogat (az alapmotor%-ában) |  |  |  |  | 100 |
+| 7 | Legnagyobb teljesítményhez tartozó fordulatszám (min-1) |  |  |  |  |  |
+
+| 8 | Legnagyobb hasznos teljesítmény (kW) |  |  |  |  |  |
+
+| 9 | Legnagyobb nyomatékhoz tartozó fordulatszám (min-1) |  |  |  |  |  |
+
+| 10 | Löketenkénti tüzelőanyag-szállítás (mm3) dízelmotorok esetében, tüzelőanyag-áram (g/h) benzinmotorok esetében, a legnagyobb nyomaték mellett |  |  |  |  |  |
+
+| 11 | Legnagyobb nyomaték (Nm) |  |  |  |  |  |
+
+| 12 | Alacsony alapjárati fordulatszám (min-1) |  |  |  |  |  |
+
+| 13 | Henger-lökettérfogat (az alapmotor %-ában) | 100 |  |  |  |  |
+
+## ______________________________
+
+## (*) További részletekért lásd az 1. függeléket.
+
+## (**) További részletekért lásd a 3. függeléket.
 
 ## 3. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 2. számú mellékletéhez
 
@@ -620,7 +694,7 @@
 
 3. számú melléklet a 75/2005. (IX. 29.) GKM-KvVM
 
-együttes rendelethez[^36]
+együttes rendelethez[^37]
 
 Kompresszió-gyújtású motorok vizsgálati eljárása
 
@@ -640,7 +714,25 @@ A következő mérési ciklusok alkalmazandók:
 
 – a mozdonyok meghajtására szánt motorok gáz- és szilárd halmazállapotú szennyező anyagainak mérésére a III A. szakaszban és a III B. szakaszban NRSC-t kell alkalmazni.
 
-1.2. A vizsgálatot próbapadra szerelt, motorfékpaddal összekapcsolt motorral kell végezni.
+1.2. A vizsgálati eljárás kiválasztása
+
+A vizsgálatot próbapadra szerelt és motorfékpaddal összekapcsolt motoron kell elvégezni.
+
+1.2.1. Vizsgálati eljárások az I., II., III A., III B. és IV. szakaszhoz
+
+A vizsgálatot az e mellékletben leírt eljárás szerint kell elvégezni, vagy a gyártó kérésére az ENSZ-EGB 03. módosítássorozattal módosított 96. sz. előírásának 4B. mellékletében leírt eljárást kell alkalmazni.
+
+Ezen felül az alábbi követelményeket kell alkalmazni:
+
+a) az e melléklet 5. függelékében meghatározott tartóssági követelmények;
+
+b) a motornak az 1. számú melléklet 8.6. pontjában megállapított ellenőrzési tartományára vonatkozó rendelkezések (csak a IV. szakasznak megfelelő motorok esetében);
+
+c) a CO2-kibocsátás jelentésére vonatkozóan az e melléklet 6. függelékében meghatározott, az e mellékletben szereplő eljárás szerint vizsgált motorokra vonatkozó követelmények; az ENSZ-EGB 03. módosítássorozattal módosított 96. sz. előírásának 4B. mellékletében leírt eljárás szerint vizsgált motorok esetében e melléklet 7. függelékét kell alkalmazni;
+
+d) az e mellékletben leírt követelmények szerint vizsgált motorok esetében az e rendelet 5. számú mellékletében leírt referencia-tüzelőanyagot kell alkalmazni. Az ENSZ-EGB 03. módosítássorozattal módosított 96. sz. előírásának 4B. mellékletében leírt követelmények szerint vizsgált motorok esetében az e rendelet 5. számú mellékletében leírt referencia-tüzelőanyagot kell alkalmazni.
+
+1.2.1.1. Amennyiben a gyártó az 1. számú melléklet 8.6.2. pontja alapján az ENSZ-EGB 03. módosítássorozattal módosított 96. sz. előírásának 4B. mellékletében leírt eljárást választja az I., II., III A. és III B. szakasz szerint motorok vizsgálatára, a 3.7.1. pontban megállapított vizsgálati ciklusokat kell alkalmazni.
 
 1.3. Mérési módszer
 
@@ -1858,7 +1950,7 @@ A hígító rendszer és a mintavevő rendszer minden részét, amely kapcsolatb
 
 2. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 3. számú mellékletéhez
 
-Kalibrálási eljárás (NRSC, NRTC[^37])
+Kalibrálási eljárás (NRSC, NRTC[^38])
 
 1. Az elemző készülékek kalibrálása
 
@@ -2378,807 +2470,11 @@ A kritikus áramlási tartományban legalább 8 pontból számítani kell az Kν
 
 Az SSV kalibrálása a hangsebesség alatti áramlású Venturi áramlási egyenletén alapul. A gázáram a belépő nyomás és hőmérséklet, valamit az SSV belépési pontja és a torok közötti nyomásesés függvénye az alábbi egyenlet szerint:
 
-|  | ahol | A0 | = | konstansok és mértékegység átváltások együttese = |
-
-|  |  | = 0,006111 | (SI mértékegységben) |
-
-|  |  | d | = | az SSV torok átmérője (m) |
-
-|  |  | Cd | = | az SSV átfolyási együtthatója |
-
-|  |  | PA | = | abszolút nyomás a Venturi bementén (kPa) |
-
-|  |  | T | = | hőmérséklet a Venturi bementén (K) |
-
-|  |  | r | = | az SSV torok és a belépés abszolút, statikus nyomása közötti viszony = |
-
-|  |  | β | = | az SSV torok átmérő és a bevezető cső átmérő hányadosa = |
-
-3.4.1. Az adatok elemzése
-
-A levegőáramot (QSSV) minden áramlási beállítás mellett (legalább 16 beállítás) ki kell számítani, előírásosan m3/min-ben kifejezve, az áramlásmérő adataiból a gyártó előírásai szerinti módszerrel. Az átfolyási együtthatót a kalibrációs adatokból az alábbi egyenlettel kell számítani:
-
-|  | ahol |  |  |  |
-
-|  |  | QSSV | = | a levegőáram vonatkoztatási állapotban (101,3 kPa, 273 K) (m3/s) |
-
-|  |  | T | = | hőmérséklet a Venturi bementén (K) |
-
-|  |  | d | = | az SSV torok átmérője (m) |
-
-|  |  | r | = | az SSV torok és a belépés abszolút, statikus nyomása közötti viszony = |
-
-|  |  | β | = | az SSV torok átmérő és a bevezető cső átmérő hányadosa = |
-
-A hangsebesség alatti áramlási tartomány meghatározásához Cd –t fel kell rajzolni az SSV torokban lévő Reynolds-szám (Re) függvényében. Re-t a torokban az alábbi kifejezéssel számolják:
-
-ahol A1 = konstansok és mértékegység átváltások együttese,
-
-=
-
-QSSV = a levegőáram vonatkoztatási állapotban (101,3 kPa, 273 K) (m3/s)
-
-d = az SSV torok átmérője (m)
-
-μ = a gáz abszolút vagy dinamikai viszkozitása, az alábbi kifejezéssel számítva
-
-kg/m . s
-
-ahol b = tapasztalati állandó =1,458 . 106
-
-S = tapasztalati állandó = 110,4 K
-
-Mivel QSSV bemenő adat az Re képletben, a számítást QSSV vagy Cd kezdő értékének a felvételével kell kezdeni és a számítást addig ismételni, amíg QSSV konvergál. A konvergencia 0,1% vagy jobb pontosságú legyen.
-
-Legalább 6, a hangsebesség alatti áramlási tartományba eső pontra Cd –nek az eredményül kapott kalibrációs görbét illesztő egyenletből számított értékei mindegyik kalibrálási pontra vonatkozóan Cd mért értékéhez képest ±0,5%- os tartományon belül legyenek.
-
-3.5. A teljes rendszer ellenőrzése
-
-A CVS mintavevő és az elemző rendszer teljes pontosságát a rendszerbe ismert tömegű szennyező gáznak normális működési feltételek mellett történő bevezetésével kell meghatározni. A szennyező gázt elemezik, és számítják a tömeget a 3. számú melléklet 3. függelék 2.4.1. pontja szerint, kivéve a propán esetét, ahol a HC-re megadott 0,000479 tényező helyett 0,000472 tényezőt kell használni. A következő technikák valamelyikét kell alkalmazni.
-
-3.5.1. Adagolás kritikus áramlású fúvókával
-
-Kalibrált kritikus áramlású fúvókával ismert mennyiségű tiszta gázt (propánt) kell beadagolni a CVS rendszerbe. Ha a belépő nyomás eléggé nagy az átfolyás, amelyet a kritikus áramlású mérőperemmel állítanak be, független lesz a mérőperem kilépésénél lévő nyomástól (kritikus áramlás). A CVS rendszert úgy kell üzemeltetni 510 percig, ahogyan az normális kipufogógáz teszt során történik. A gáz mintát elemezni kell egy szokásos berendezéssel (gyűjtő zsák vagy integráló módszer) és a gáz tömegét számítani kell. Az így meghatározott tömegnek a beinjektált gáz ismert tömegéhez képest ±3%-on belül kell lennie.
-
-3.5.2. Adagolás gravimetrikus módszerrel
-
-Egy kis méretű, propánnal töltött palack súlyát meg kell határozni ±0,01 g pontossággal. A CVS rendszert úgy kell üzemeltetni 5–10 percig, ahogyan az normális kipufogógáz teszt során történik, miközben szén-monoxidot vagy propánt injektálnak a rendszerbe. A tiszta gáz beinjektált mennyiségét a súlymérés különbségéből kell meghatározni. A gáz mintát elemezni kell egy szokásos berendezéssel (gyűjtő zsák vagy integráló módszer) és a gáz tömegét számítani kell. Az így meghatározott tömegnek a beinjektált gáz ismert tömegéhez képest ±3%-on belül kell lennie.
-
-3. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 3. számú mellékletéhez
-
-AZ ADATOK KIÉRTÉKELÉSE ÉS A SZÁMÍTÁSOK
-
-1. AZ ADATOK KIÉRTÉKELÉSE ÉS A SZÁMÍTÁSOK – NRSC TESZT
-
-1.1. A gáznemű szennyezőanyag-kibocsátás mérési adatainak kiértékelése
-
-A gáznemű szennyezőanyag-kibocsátás kiértékeléséhez az egyes üzemmódokban az utolsó 60 másodperc során regisztrált diagram-értékeket átlagolni kell, és a karbon-egyensúly módszer használata esetén a HC, CO, NOx és CO2 átlagos koncentrációit (conc) minden üzemmód során az átlagolt diagram-értékekből és a megfelelő kalibrálási adatokból kell megállapítani. Más regisztrálási módszer is használható, ha az egyenértékű adatokat szolgáltat.
-
-Az átlagos háttér-koncentrációk (concd) a hígító levegő zsák méréseiből vagy a folyamatos (nem zsákos) háttér-értékekből és a megfelelő kalibrálási adatokból határozhatók meg.
-
-1.2. Részecske-kibocsátás
-
-A részecskék kiértékeléshez minden üzemmódban a szűrőkön átáramló teljes minta-tömegeket (MSAM,i) regisztrálni kell.
-
-A szűrőket vissza kell vinni a mérőhelyiségbe és legalább egy óráig, de 80 óránál nem hosszabb ideig tartó kondicionálás után meg kell mérni őket. A szűrők bruttó súlyát fel kell jegyezni és le kell vonni belőlük a tárasúlyt (lásd a 3. számú melléklet 3.1. pontját). A részecskék tömege (Mf az egyszűrős módszernél; Mf,i a többszűrős módszernél) az elsődleges és a pótszűrőkön összegyűlt részecskék tömegének összege.
-
-Ha háttér-korrekciót kell alkalmazni, fel kell jegyezni a szűrőkön áthaladó (MDIL) hígító levegő tömeget és a részecskék (Md) tömegét. Ha egynél több mérést végeztek, minden egyes mérésre ki kell számítani az Md/MDIL hányadost és az értékeket átlagolni kell.
-
-1.3. A gáznemű szennyezőanyag-kibocsátás számítása
-
-A végleges jegyzőkönyvbe kerülő vizsgálati eredményeket az alábbi lépések során kell levezetni:
-
-1.3.1. A kipufogógáz-áram meghatározása
-
-A kipufogógáz-áramot (GEXHW) minden üzemmódra a 3. számú melléklet 1. függelékének 1.2.1–1.2.3. pontja szerint kell meghatározni.
-
-Teljes átáramlású hígító rendszer használata esetén a teljes hígított kipufogógáz-áramot (GTOTW) minden üzemmódra a 3. számú melléklet 1. függelékének 1.2.4. pontja szerint kell meghatározni.
-
-1.3.2. Száraz/nedves korrekció
-
-A száraz/nedves (a továbbiakban: dry/wet) korrekciót (GEXHW) minden üzemmódra a 3. számú melléklet 1. függelékének 1.2.1–1.2.3. pontjai szerint kell meghatározni.
-
-conc (wet) = kw × conc (dry)
-
-A kezeletlen kipufogógázra:
-
-K w, r, 1 =
-
-A hígított kipufogógázra:
-
-K w,e,1 =
-
-vagy:
-
-Kw,e,1 =
-
-A hígító levegőre:
-
-k W,d = 1 – k W1
-
-A beszívott levegőre (ha más mint a hígító levegő):
-
-kW,a = 1 – kW2
-
-ahol:
-
-Ha: a beszívott levegő abszolút nedvességtartalma, g víz/kg száraz levegő
-
-Hd: a hígító levegő abszolút nedvességtartalma, g víz/kg száraz levegő
-
-Rd: a hígító levegő relatív nedvességtartalma,%
-
-Ra: a beszívott levegő relatív nedvességtartalma,%
-
-pd: a hígító levegő telítési gőznyomása, kPa
-
-pa: a beszívott levegő telítési gőznyomása, kPa
-
-pb: a teljes légköri nyomás, kPa
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-1.3.3. A NOx nedvesség-korrekciója
-
-Mivel a NOx kibocsátás függ a környező levegő állapotától, a NOx koncentrációt a környezeti levegőhőmérsékletre és nedvességtartalomra való tekintettel korrigálni kell, az alábbi képlettel megadott KH tényezőkkel:
-
-ahol:
-
-T: a levegő hőmérséklete K-ben
-
-Ha: a beszívott levegő abszolút nedvességtartalma, g víz / kg száraz levegő:
-
-Ra: a beszívott levegő relatív nedvességtartalma,%
-
-pa: a beszívott levegő telítési nedvességnyomása, kPa
-
-pb: a teljes légköri nyomás, kPa.
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-1.3.4. A szennyezőanyag-kibocsátás tömegáram számítása
-
-A szennyezőanyag-kibocsátás tömegáramokat az egyes üzemmódokban az alábbiak szerint kell kiszámítani:
-
-(a) Kezeletlen kipufogógázra[^38]:
-
-Gáz tömeg = u × conc × GEXHV
-
-(b) A hígított kipufogógázra (12):
-
-Gáz tömeg = u × concc × GTOTW
-
-ahol:
-
-concc a háttér-korrigált koncentráció
-
-concc = conc – concd × (1 – (1/DF))
-
-DF = 13,4/(concCO2 + (concCO + concHC) × 10–4)
-
-vagy:
-
-DF = 13,4/concCO2.
-
-Az u — nedves együtthatókat az alábbi táblázat szerint kell használni:
-
-| Gáz | u | conc |
-
-|  | NOx | 0,001587 | ppm |
-
-|  | CO | 0,000966 | ppm |
-
-|  | HC | 0,000479 | ppm |
-
-|  | CO2 | 15,19 | % |
-
-A HC sűrűsége 1:1,85 átlagos szén/hidrogén arányon alapul.
-
-1.3.5. A fajlagos szennyezőanyag-kibocsátás számítása
-
-A fajlagos szennyezőanyag-kibocsátás (g/kWh) minden egyes összetevőre az alábbi módon számítandó:
-
-Egyedi gáz =
-
-ahol Pi = Pm,i + PAE,i.
-
-A fenti számításban használt súlyozási tényezők és az üzemmódok (n) számai a 3. számú melléklet 3.7.1 pontja szerintiek.
-
-1.4. A részecske-kibocsátás számítása
-
-A részecske-kibocsátást a következő módon kell kiszámítani:
-
-1.4.1. A nedvesség-korrekciós tényező részecske esetében
-
-Mivel a kompresszió-gyújtású motorok részecske-kibocsátása a környezeti levegő körülményeitől függ, a részecske tömegáramot korrigálni kell a környezeti levegő páratartalma szerint az alábbi képlettel megadott Kp tényezővel:
-
-Ha: a beszívott levegő abszolút nedvességtartalma, g víz / kg száraz levegő:
-
-Ra: a beszívott levegő relatív nedvességtartalma,%
-
-pa: a beszívott levegő telítési gőznyomása, kPa
-
-pb: a teljes légköri nyomás, kPa.
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-1.4.2. Részleges átáramlású hígító rendszer
-
-A részecske-kibocsátás véglegesen jegyzőkönyvezett vizsgálati eredményeit az alábbi lépések során kell levezetni. Mivel többféle fajta hígítási arány szabályozás használható, különböző számítási módszerek vonatkoznak az GEDF egyenértékű hígított kipufogógáz tömegáramra. Minden számítást az egyes üzemmódoknak (i) a mintavételi időszak alatt mutatott átlagértékeire kell alapozni.
-
-1.4.2.1. Izokinetikus rendszerek
-
-GEDFW,i = GEXHW,i × qi
-
-ahol r az izokinetikus szonda Ap és a kipufogócső AT keresztmetszeti területének aránya:
-
-1.4.2.2. CO2 vagy NOx koncentrációt mérő rendszerek
-
-GEDFW,i = GEXHW,i × qi
-
-ahol:
-
-ConcE = a keresőgáz nedves koncentrációja a kezeletlen kipufogógázban
-
-ConcD = a keresőgáz nedves koncentrációja a hígított kipufogógázban
-
-ConcA = a keresőgáz nedves koncentrációja a hígító levegőben
-
-A száraz alapon mért koncentrációt nedves alapra kell átszámítani ennek a függeléknek az 1.3.2. pontja szerint.
-
-1.4.2.3. CO2 mérést és szénegyensúly módszert használó rendszerek
-
-ahol:
-
-CO2 D = a hígított kipufogógáz CO2 koncentrációja
-
-CO2 A = a hígító levegő CO2 koncentrációja
-
-(a koncentráció nedves alapon,%ban)
-
-Ez az egyenlet a szénegyensúly feltételezésen alapul (a motorba bevitt szénatomok CO2 alakjában távoznak) és a következő lépések során vezethető le:
-
-GEDFW, i = GEXHW, i × qi
-
-és
-
-1.4.2.4. Áramlásmérést használó rendszerek
-
-GEDFW,i = GEXHW,i × qi
-
-1.4.3. Teljes átáramlású hígító rendszer
-
-A részecske-kibocsátás véglegesen jegyzőkönyvezett vizsgálati eredményeit az alábbi lépések során kell levezetni.
-
-Minden számítást az egyes üzemmódoknak (i) a mintavételi időszak alatti átlagértékeire kell alapozni.
-
-GEDFW,i = GTOTW,i
-
-1.4.4. A részecske tömegáram számítása
-
-A részecske tömegáramot az alábbiak szerint kell kiszámítani:
-
-Egyszűrős rendszer esetén:
-
-ahol:
-
-(GEDFW)átl. egész ciklusra érvényes értékét az egyes üzemmódokban a mintavételi időszak alatt mért átlagértékek összegezésével kell meghatározni:
-
-ahol i = 1, . . . n
-
-Többszűrős módszer esetén:
-
-ahol i = 1, . . . n
-
-A részecske-tömegáram korrigálható a háttér figyelembevételére az alábbiak szerint:
-
-Egyszűrős módszer esetén:
-
-Ha egynél több mérést végeznek, az (Md/MDIL) hányadost (Md/MDIL)átl. ill. (Md/VDIL)átl. hányadossal kell helyettesíteni.
-
-vagy:
-
-DF = 13,4/concCO2
-
-Többszűrős módszer esetén:
-
-PTtömeg,i =
-
-Ha egynél több mérést végeznek, az (Md/MDIL) hányadost (Md/MDIL)átl. hányadossal kell helyettesíteni.
-
-vagy:
-
-DF = 13,4/concCO2
-
-1.4.5. A fajlagos szennyezőanyag-kibocsátás számítása
-
-A PT (g/kWh) fajlagos részecske-kibocsátást az alábbiak szerint kell kiszámítani[^39]:
-
-Egyszűrős módszer esetén:
-
-Többszűrős módszer esetén:
-
-1.4.6. A tényleges súlyozási tényező
-
-Az egyszűrős módszer esetében a WFE,i tényleges súlyozási tényező az egyes üzemmódokban az alábbiak szerint számítható:
-
-ahol i = 1, . . . n.
-
-A tényleges súlyozási tényezők értéke nem térhet el ± 0,005-nél (abszolút érték) többel a 3. számú melléklet 3.7.1. pontjában felsorolt súlyozási tényezőktől.
-
-2. AZ ADATOK KIÉRTÉKELÉSE ÉS A SZÁMÍTÁSOK – NRTC TESZT
-
-Az NRTC teszt során kibocsátott szennyező-anyagok értékelésnek két alábbi módszerét írja le ez a pont:
-
-- a gázkomponensek valós idejű mérését a kezeletlen kipufogógázban, és a részecskeék meghatározását a részáramú hígító rendszerben,
-
-- a gázkomponensek és a részecskeék meghatározását a teljes áramú hígító rendszerben (CVS rendszer).
-
-2.1. A gázhalmazállapotú kibocsátás számítása a kezeletlen kipufogógázban és a részecske mérés részáramú hígító rendszerrel.
-
-2.1.1. Bevezetés
-
-A gázkomponensek pillanatnyi koncentrációjának jelét használják a tömeg emisszió számításához, szorozva azt a pillanatnyi kipufogógáz tömegárammal. A kipufogógáz tömegáramot lehet közvetlenül mérni vagy számítani a 3. számú melléklet 1. függelék 2.2.3. pontjában leírt módszerekkel (beszívott levegő és üzemanyag áram mérése, nyomjelző módszer, beszívott levegő és levegő/üzemanyag viszony mérése). Különös figyelmet kell fordítani a különböző műszerek válaszidejére. A különbségeket figyelembe kell venni a jelek időbeli összehangolásánál.
-
-A részecskék esetében a kipufogógáz tömegáramát használják a részáramú hígító rendszer szabályozására, hogy a kipufogógáz tömegárammal arányos mintát vegyenek. Az arányosság minőségét a minta és a kipufogógáz áram közötti regresszió analízissel ellenőrzik, amint azt a 3. számú melléklet 1. függelék 2.4. pontja leírja.
-
-2.1.2. A gázkomponensek meghatározása
-
-2.1.2.1. A tömeg emisszió számítása
-
-A szennyezők tömegét (Mgáz) (g/teszt) a szennyezőnek a kezeletlen kipufogógázban mért koncentrációból a pillanatnyi tömeg emissziónak a számításával, az u értékének a 4. táblázatból történő megkeresésével (lásd az 1.3.4. pontot is), a transzformációs időnek megfelelően hangolva és a pillanatnyi értékeket a ciklusra integrálva kell meghatározni. Célszerűen a koncentrációkat nedves bázison kell mérni. Ha száraz bázison mérnek, a továbbiakban leírt száraz/nedves (dry/wet) korrekciót végre kell hajtani a pillanatnyi koncentráció értékeken bármely további számítást megelőzően.
-
-4. táblázat: az u — nedves együtthatók értéke különböző komponensekre
-
-| Gáz | u | conc |
-
-|  | NOx | 0,001587 | ppm |
-
-|  | CO | 0,000966 | ppm |
-
-|  | HC | 0,000479 | ppm |
-
-|  | CO2 | 15,19 | % |
-
-A HC sűrűsége 1:1,85 átlagos szén/hidrogén arányon alapul.
-
-Az alábbi képletet kell használni:
-
-(g/teszt)
-
-ahol u = a kipufogógáz komponensek sűrűségének és a kipufogógáz sűrűségének hányadosa
-
-conci = az érintett komponens koncentrációja a kezeletlen kipufogógázban (ppm)
-
-GEXHW,i = a pillanatnyi kipufogógáz tömegáram (kg/s)
-
-f = az adatok mintavételi frekvenciája (Hz)
-
-n = a mérések száma
-
-Az NOx számításához alkalmazni kell az alábbiakban leírt kH nedvesség korrekciós tényezőt.
-
-A pillanatnyilag mért koncentrációt nedves bázisra kell konvertálni, ha nem nedves bázison mérték.
-
-2.1.2.2. Száraz/nedves korrekció
-
-Ha a pillanatnyi koncentrációt száraz bázison mérték, úgy azt nedves bázisra kell konvertálni az alábbi képletekkel.
-
-conc wet = kw × conc dry
-
-ahol
-
-K w, r, 1 =
-
-és
-
-ahol concCO2 = száraz CO2 koncentráció (%)
-
-concCO = száraz CO koncentráció (%)
-
-Ha = a beszívott levegő nedvességtartalma (g víz/ kg száraz levegő)
-
-ahol:
-
-Ra: a beszívott levegő relatív nedvességtartalma (%)
-
-pa: a beszívott levegő telítési gőznyomása (kPa)
-
-pb: a teljes légköri nyomás (kPa)
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-2.1.2.3. A NOx nedvesség-korrekciója
-
-Mivel a NOx kibocsátás függ a környező levegő állapotától, a NOx koncentrációt a környezeti levegőhőmérsékletre és nedvességtartalomra való tekintettel korrigálni kell, az alábbi képlettel megadott KH tényezőkkel:
-
-ahol:
-
-Ta = a beszívott levegő hőmérséklete (K)
-
-Ha = a beszívott levegő abszolút nedvességtartalma (g víz / kg száraz levegő):
-
-Ra: a beszívott levegő relatív nedvességtartalma (%)
-
-pa: a beszívott levegő telítési nedvességnyomása (kPa)
-
-pb: a teljes légköri nyomás (kPa).
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-2.1.2.4. A fajlagos kibocsátások kiszámítása
-
-A fajlagos kibocsátást [g/kWh] minden egyes összetevő tekintetében a következőképpen kell kiszámolni:
-
-ahol:
-
-Mgas,cold = a gáz-halmazállapotú szennyező anyag össztömege a hidegindításos ciklus alatt (g)
-
-Mgas,hot = a gáz-halmazállapotú szennyező anyag össztömege a melegindításos ciklus alatt (g)
-
-Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
-
-Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh).
-
-2.1.3. A részecske meghatározása
-
-2.1.3.1. A kibocsátott tömeg kiszámítása
-
-Az MPT,cold és az MPT,hot részecsketömegeket (g/vizsgálat) a következő módszerek valamelyikével kell kiszámítani:
-
-ahol
-
-MPT = MPT,cold a hidegindításos ciklus vonatkozásában
-
-MPT = MPT,hot a melegindításos ciklus vonatkozásában
-
-Mf = a ciklus alatt összegyűjtött részecskék tömege (mg)
-
-MEDFW = az egyenértékű hígított kipufogógáz tömege a ciklus során (kg)
-
-MSAM = a részecskegyűjtő szűrőkön áthaladó hígított kipufogógáz tömege (kg)
-
-Az egyenértékű hígított kipufogógáz össztömegét a ciklusban a következőképpen kell meghatározni:
-
-ahol
-
-GEDFW,i = a hígított kipufogógáz pillanatnyi egyenértékű tömegárama (kg/s)
-
-GEXHW,i = a kipufogógáz pillanatnyi tömegárama (kg/s)
-
-qi = pillanatnyi hígítási arány
-
-GTOTW,i = a hígító alagúton áthaladó hígított kipufogógáz pillanatnyi tömegárama (kg/s)
-
-GDILW,i = a hígító levegő pillanatnyi tömegárama (kg/s)
-
-f = adatlekérdezési gyakoriság (1/s)
-
-n = a mérések száma
-
-ahol
-
-MPT = MPT,cold a hidegindításos ciklus vonatkozásában
-
-MPT = MPT,hot a melegindításos ciklus vonatkozásában
-
-Mf = a ciklus alatt összegyűjtött részecskék tömege (mg)
-
-rs = az átlagos mintavételi arány a mérési ciklus alatt
-
-ahol
-
-MSE = a kipufogógáz-minta tömege a ciklus során (kg)
-
-MEXHW = a ciklus során átáramló kipufogógáz össztömege (kg)
-
-MSAM = a részecskegyűjtő szűrőkön áthaladó hígított kipufogógáz tömege (kg)
-
-MTOTW = a hígító alagúton áthaladó hígított kipufogógáz tömege (kg)
-
-MEGJEGYZÉS: Teljes mintavételt alkalmazó rendszer esetében az MSAM és az MTOTW megegyezik.
-
-2.1.3.2. A részecskék nedvesség korrekciós tényezője
-
-Mivel a dízelmotorok részecske kibocsátása függ a környezeti levegő állapotától, a részecske koncentrációt korrigálni kell a környezeti levegő nedvességének megfelelően a következő kifejezéssel adott Kp tényezővel:
-
-ahol
-
-Ha: a beszívott levegő abszolút nedvességtartalma, g víz / kg száraz levegő:
-
-Ra: a beszívott levegő relatív nedvességtartalma,%
-
-pa: a beszívott levegő telítési gőznyomása, kPa
-
-pb: a teljes légköri nyomás, kPa.
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-2.1.3.3. A fajlagos kibocsátások kiszámítása
-
-A fajlagos kibocsátásokat (g/kWh) a következőképpen kell kiszámítani:
-
-ahol
-
-MPT,cold = az NRTC hidegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
-
-MPT,hot = az NRTC melegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
-
-Kp,cold = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a hidegindításos ciklus alatt
-
-Kp,hot = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a melegindításos ciklus alatt
-
-Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
-
-Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
-
-2.2. A gázhalmazállapotú és a részecske kibocsátás meghatározása teljes áramú hígító rendszerrel
-
-A hígított kipufogógázban lévő szennyező-anyagok számításához ismerni kell a hígított kipufogógáz tömegáramát. A ciklus alatti MTOTW (kg/teszt) teljes hígított kipufogógáz áramot a ciklus során mért értékekből és az áramlásmérő eszköz megfelelő kalibrációs adataiból (V0 a PDP, Kv a CFV, Cd az SSV esetében) kell számítani, ahol a 2.2.1. pontban leírt, megfelelő módszert lehet alkalmazni. Ha az gázok és a részecskék MSAM teljes mintatömege meghaladja a teljes CVS áram (MTOTW) 0,5%-át, akkor a CVS áramát korrigálni kell MSAM-mal, vagy a részecske minta áramot vissza kell vezetni a CVS-be még az áramlásmérő eszköz előtt.
-
-2.2.1. A hígított kipufogógáz áram meghatározása
-
-PDP-CVS rendszer
-
-A teljes ciklusra a tömegáram számítását, amennyiben a hígított kipufogógáz hőmérsékletét ± 6 K tartományon belül tartják a ciklus során egy hőcserélővel, a következőképpen kell végezni:
-
-ahol
-
-MTOTW = a hígított kipufogógáz tömege nedves alapon a ciklus során (kg)
-
-V0 = a szivattyú fordulatonkénti szállítása a vizsgálat feltételei mellett (m3/ford.)
-
-Np = a szivattyú teszt alatti fordulatainak a száma
-
-pB = légköri nyomás a laboratóriumban (kPa)
-
-p1 = nyomásesés a szivattyú bementén a légköri nyomáshoz képest (kPa)
-
-T = a hígított kipufogógáz átlagos hőmérséklete a szivattyú bementén (K)
-
-Ha áramláskompenzációval rendelkező rendszert használnak (azaz hőcserélő nélküli), akkor a pillanatnyi tömegáramokat integrálni kell a ciklusra. Ebben az esetben a hígított kipufogógáz pillanatnyi tömegáramát az alábbi szerint kell számítani:
-
-ahol
-
-Np,i = a szivattyú teszt időintervallumonkénti fordulatainak a száma
-
-CFV-CVS rendszer
-
-Ha a hígított kipufogógáz hőmérsékletét hőcserélővel ±11 K tartományon belül tartják, akkor a ciklus alatti tömegáramot a következők szerint kell számítani:
-
-ahol
-
-MTOTW = a hígított kipufogógáz tömege nedves alapon a ciklus során (kg)
-
-t = a ciklus idő (s)
-
-Kv = a kritikus áramlású Venturi kalibrációs tényezője vonatkoztatási feltételek mellett
-
-pA = abszolút nyomás a Venturi bemenetén (kPa)
-
-T = abszolút hőmérséklet a Venturi bemenetén (K)
-
-Ha áramláskompenzációval rendelkező rendszert használnak (azaz hőcserélő nélküli), akkor a pillanatnyi tömegáramokat integrálni kell a ciklusra. Ebben az esetben a hígított kipufogógáz pillanatnyi tömegáramát az alábbi szerint kell számítani:
-
-ahol
-
-Δt i = időintervallum (s)
-
-SSV-CVS rendszer
-
-Ha a hígított kipufogógáz hőmérsékletét hőcserélővel ±11 K tartományon belül tartják, akkor a ciklus alatti tömegáramot a következők szerint kell számítani:
-
-ahol
-
-ahol A0 = konstansok és mértékegység átváltások együttese=
-
-=0,006111 (SI mértékegységben)
-
-d = az SSV torok átmérője (m)
-
-Cd = az SSV átfolyási együtthatója
-
-PA = abszolút nyomás a Venturi bementén (kPa)
-
-T = hőmérséklet a Venturi bementén (K)
-
-r = az SSV torok és a belépés abszolút, statikus nyomása közötti viszony =
-
-β = az SSV torok átmérő és a bevezető cső átmérő hányadosa =
-
-Ha áramláskompenzációval rendelkező rendszert használnak (azaz hőcserélő nélküli), akkor a pillanatnyi tömegáramokat integrálni kell a ciklusra. Ebben az esetben a hígított kipufogógáz pillanatnyi tömegáramát az alábbi szerint kell számítani:
-
-ahol
-
-Δt i = időintervallum (s)
-
-A valós idejű számítást Cd célszerű értékének (pl. 0,98) vagy QSSV értékének a felvételével kell indítani. Ha a számítást QSSV felvételével indítják, QSSV kezdő értékét kell használni Re értékeléséhez.
-
-Az SSV torok Reynolds-számának minden teszt során olyan Reynolds-szám tartományban kell lennie, amelyre a 2. függelék 3.2. pontja szerint a kalibrációs görbét létrehozták a 2. függelék 3.2. pontja szerint.
-
-2.2.2. Az NOx nedvesség korrekciós tényezője
-
-Mivel a NOx kibocsátás függ a környező levegő állapotától, a NOx koncentrációt a környezeti levegő nedvességtartalmára való tekintettel korrigálni kell, az alábbi képlettel megadott KH tényezővel:
-
-ahol:
-
-T: a levegő hőmérséklete K-ben
-
-Ha: a beszívott levegő abszolút nedvességtartalma, g víz / kg száraz levegő:
-
-Ra: a beszívott levegő relatív nedvességtartalma,%
-
-pa: a beszívott levegő telítési nedvességnyomása, kPa
-
-pb: a teljes légköri nyomás, kPa.
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-2.2.3. A tömegemisszió számítása
-
-2.2.3.1. Állandó tömegáramú rendszer
-
-A hőcserélővel rendelkező rendszer Mgáz (kg/teszt) szennyezőanyag tömegét az alábbi egyenlettel kell számítani:
-
-ahol
-
-u = a kipufogógáz komponensek sűrűségének és a kipufogógáz sűrűségének hányadosa a 2.1.2.1. pontban foglalt 4. táblázat szerint
-
-conc = a ciklus átlagos, háttér korrigált koncentrációja az integrálásból (kötelező HC-re és NOx –re) vagy a zsákos mérésből (ppm)
-
-MTOTW = A ciklus teljes hígított kipufogógáz tömege a 2.2.1. pont szerint meghatározva (kg)
-
-Mivel a NOx kibocsátás függ a környező levegő állapotától, a koncentrációt a környezeti levegő nedvességtartalmára való tekintettel korrigálni kell a 2.2.2. pontban leírt KH tényezővel.
-
-A száraz alapon mért koncentrációkat az 1.3.2. pontnak megfelelően nedves alapra kell konvertálni.
-
-2.2.3.1.1. A háttér korrigált koncentrációk meghatározása
-
-A szennyező komponensek átlagos háttér koncentrációját le kell vonni a mért koncentrációkból, hogy megkapjuk a szennyezők nettó koncentrációját. A háttér koncentrációk átlagos értékét gyűjtőzsákkal vagy folyamatos méréssel és integrálással lehet meghatározni. Az alábbi kifejezést kell használni:
-
-ahol
-
-conc = az adott komponens koncentrációja a hígított kipufogógázban, korrigálva a hígító levegő adott szennyező-anyag tartalmával (ppm)
-
-conce = az adott komponens koncentrációja a hígított kipufogógázban (ppm)
-
-concd = az adott komponens koncentrációja a hígító levegőben (ppm)
-
-DF = hígítási tényező
-
-A hígítási tényezőt az alábbi kifejezés adja:
-
-2.2.3.2. Áramláskompenzációs rendszer
-
-A hőcserélő nélküli rendszer Mgáz (kg/teszt) szennyezőanyag tömegét a pillanatnyi tömegemisszió számításával és a pillanatnyi értékeknek a teljes ciklusra integrálásával kell meghatározni. A háttér korrekciókat is közvetlenül kell alkalmazni a pillanatnyi koncentráció értékekre. Az alábbi kifejezéseket kell használni:
-
-ahol
-
-conce,i = az adott komponens pillanatnyi koncentrációja a hígított kipufogógázban (ppm)
-
-concd = az adott komponens mért koncentrációja a hígító levegőben (ppm)
-
-u = a kipufogógáz komponensek sűrűségének és a kipufogógáz sűrűségének hányadosa a 2.1.2.1. pontban foglalt 4. táblázat szerint
-
-MTOTW,i = a pillanatnyi hígított kipufogógáz tömeg ( 2.2.1. pont) (kg)
-
-MTOTW = a ciklus teljes hígított kipufogógáz tömege (2.2.1. pont) (kg)
-
-DF = a 2.2.3.1.1. pont szerinti hígítási tényező
-
-Mivel a NOx kibocsátás függ a környező levegő állapotától, a koncentrációt a környezeti levegő nedvességtartalmára való tekintettel korrigálni kell a 2.2.2. pontban leírt KH tényezővel.
-
-2.2.4. A fajlagos kibocsátások kiszámítása
-
-A kibocsátást [g/kWh] minden egyes összetevő tekintetében a következőképpen kell kiszámolni:
-
-ahol
-
-Mgas,cold = a gáz-halmazállapotú szennyező anyag össztömege a hidegindításos ciklus alatt (g)
-
-Mgas,hot = a gáz-halmazállapotú szennyező anyag össztömege a melegindításos ciklus alatt (g)
-
-Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
-
-Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
-
-2.2.5. A részecske kibocsátás számítása
-
-2.2.5.1. A tömegáram kiszámítása
-
-Az MPT,cold és az MPT,hot részecsketömegeket (g/vizsgálat) a következőképpen kell kiszámítani:
-
-ahol
-
-MPT = MPT,cold a hidegindításos ciklus vonatkozásában
-
-MPT = MPT,hot a melegindításos ciklus vonatkozásában
-
-Mf = a ciklus alatt összegyűjtött részecskék tömege (mg)
-
-MTOTW = a hígított kipufogógáz össztömege a teljes ciklus alatt, a 2.2.1. pontban meghatározottak szerint (kg)
-
-MSAM = a hígító alagútból részecske-mintavétel céljából kivett hígított kipufogógáz tömege (kg),
-
-valamint
-
-Mf = Mfp + Mfb, ha külön mérték az értékeket (mg)
-
-Mf,p = az elsődleges szűrőn összegyűjtött részecskék tömege (mg)
-
-Mf,b = a kiegészítő szűrőn összegyűjtött részecskék tömege (mg)
-
-Kétszeres hígítású rendszer alkalmazása esetén a másodlagos hígító levegő tömegét le kell vonni a részecskeszűrőkön áthaladó kétszeresen hígított kipufogógáz-minta össztömegéből.
-
-MSAM = MTOT – MSEC
-
-ahol:
-
-MTOT = a részecskeszűrőn áthaladó kétszeresen hígított kipufogógáz tömege (kg)
-
-MSEC = a másodlagos hígító levegő tömege (kg)
-
-Ha a hígító levegő részecske-háttérszintjét a 3. számú melléklet 4.5.4. pontjának megfelelően határozzák meg, a részecsketömeg korrigálható a háttérkoncentráció figyelembevételével. Ebben az esetben az MPT,cold és az MPT,hot részecsketömeget (g/vizsgálat) a következőképpen kell kiszámítani:
-
-ahol:
-
-MPT = MPT,cold a hidegindításos ciklus vonatkozásában
-
-MPT = MPT,hot a melegindításos ciklus vonatkozásában
-
-Mf, MSAM, MTOTW = lásd fent
-
-MDIL = a háttérrészecske-mintavevő által mintavételezett elsődleges hígító levegő tömege (kg)
-
-Md = az elsődleges hígító levegőből begyűjtött háttérrészecskék tömege (mg)
-
-DF = hígítási tényező a 2.2.3.1.1. pontban meghatározottak szerint.
-
-2.2.5.2. A részecske nedvességkorrekciós tényező
-
-Mivel a dízelmotorok részecske kibocsátása függ a környezeti levegő állapotától, a részecske koncentrációt korrigálni kell a környezeti levegő nedvességének megfelelően a következő kifejezéssel adott Kp tényezővel:
-
-ahol
-
-Ha: a beszívott levegő abszolút nedvességtartalma, g víz / kg száraz levegő:
-
-Ra: a beszívott levegő relatív nedvességtartalma,%
-
-pa: a beszívott levegő telítési gőznyomása, kPa
-
-pb: a teljes légköri nyomás, kPa.
-
-Megjegyzés: Ha és Hd levezethető a relatív nedvesség méréséből a fentiek szerint, vagy harmatpont mérésből, gőznyomás mérésből, vagy száraz/nedves hőmérő mérésből, az általánosan elfogadott képletek használatával.
-
-2.2.5.3. A fajlagos kibocsátások kiszámítása
-
-A fajlagos kibocsátásokat (g/kWh) a következőképpen kell kiszámítani:
-
-ahol
-
-MPT,cold = az NRTC hidegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
-
-MPT,hot = az NRTC melegindításos ciklusa alatti részecsketömeg (g/vizsgálat)
-
-Kp,cold = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a hidegindításos ciklus alatt
-
-Kp,hot = a részecskékre vonatkozó nedvességtartalom-korrekciós tényező a melegindításos ciklus alatt
-
-Wact,cold = a hidegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
-
-Wact,hot = a melegindításos ciklusban végzett tényleges ciklusmunka a 3. számú melléklet 4.6.2. pontjában meghatározottak szerint (kWh)
-
-4. függelék a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 3. számú mellékletéhez
-
-NRTC MOTORFÉKPADI PROGRAM
-
-[^36]: A 3. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^37]: A 3. számú melléklet a 25/2011. (V. 26.) NFM rendelet 3. § (3) bekezdése, a 76/2013. (XII. 19.) NFM rendelet 2. § (3) bekezdése szerint módosított szöveg.
 [^(3)szerint]: Az MSZ EN ISO 8178-4:2007 szabvány (2008. 07. 01-jei helyesbített változat) 8.3.1.1. pontjában leírt C1 ciklussal megegyező.
 [^(4)]: Az MSZ EN ISO 8178-4:2002(E) szabvány 8.4.1. pontjában leírt D2 ciklussal megegyező.
 [^(5)]: Az állandó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti D2 terhelési ciklus, azaz a 3.7.1.2. pontban meghatározott, öt üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani, míg a változó sebességű segédmotorokat az MSZ EN ISO 8178-4:2002(E) szabvány szerinti C1 terhelési ciklus, azaz a 3.7.1.1. pontban meghatározott, nyolc üzemmódú, állandósult állapotú ciklus szerint kell tanúsítani.
 [^(6)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E3 ciklussal megegyező. A négy üzemmód az üzem közbeni méréseken alapuló átlagos hajtócsavargörbén alapul.
 [^(7)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány 8.5.1., 8.5.2. és 8.5.3. pontjában leírt E2 ciklussal megegyező.
 [^(8)]: Az MSZ EN ISO 8178-4: 2002(E) szabvány F ciklusával megegyező.
-[^37]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
-[^38]: NOx esetében a NOx koncentrációt (NOxconc vagy NOxconcc) meg kell szorozni KHNOX-szal (a NOx-nak az előző 1.3.3. pontban idézett nedvességi korrekciós tényezőjével) az alábbiak szerint: KHNOX × conc vagy KHNOX × concc
-[^39]: A PTtömeg részecske-tömegáramot meg kell szorozni Kp-vel (az 1.4.1. pontban említett, részecskékre vonatkozó páratartalom korrekciós tényezővel).
+[^38]: A kalibrációs eljárás általában azonos az NRSC és NRTC tesztnél, kivéve az 1.11. és a 2.6 pontban meghatározott követelményeket.
