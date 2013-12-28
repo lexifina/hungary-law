@@ -124,13 +124,13 @@ Az ipari mesterképzés szakmai
 
 58. [^12]
 
-59. Motorkerékpár-szerelő és javító
+59. [^13]
 
 60. Porcelánkészítő
 
 1. VILLANYSZERELŐ
 
-mestervizsga szint és szakmai követelmények[^13]
+mestervizsga szint és szakmai követelmények[^14]
 
 2. SZOBAFESTŐ-MÁZOLÓ ÉS TAPÉTÁZÓ
 
@@ -778,11 +778,11 @@ részkérdéseket és -feladatokat tartalmazhatnak.
 
 3. KŐMŰVES
 
-mestervizsga szint és szakmai követelmények[^14]
+mestervizsga szint és szakmai követelmények[^15]
 
 4. ASZTALOS
 
-mestervizsga szint és szakmai követelmények[^15]
+mestervizsga szint és szakmai követelmények[^16]
 
 5. VÍZVEZETÉK- ÉS KÖZPONTIFŰTÉS-SZERELŐ
 
@@ -1440,7 +1440,7 @@ tételrészekből épülnek fel.
 
 6. GÁZVEZETÉK- ÉS KÉSZÜLÉKSZERELŐ
 
-mestervizsga szint és szakmai követelmények[^16]
+mestervizsga szint és szakmai követelmények[^17]
 
 7. LÁTSZERÉSZ
 
@@ -2828,7 +2828,7 @@ VIII. Etikus magatartásforma a szakmában
 
 8. ÁCS-ÁLLVÁNYOZÓ
 
-mestervizsga szakmai követelmények[^17]
+mestervizsga szakmai követelmények[^18]
 
 9. ÓRÁS
 
@@ -3188,11 +3188,11 @@ Intered Oktatási Központ: Az Egyéni Vállalkozók Gazdálkodásának legfonto
 
 10. KOZMETIKUS
 
-mestervizsga szint és szakmai követelmények[^18]
+mestervizsga szint és szakmai követelmények[^19]
 
 11. FODRÁSZ
 
-mestervizsga szint és szakmai követelmények[^19]
+mestervizsga szint és szakmai követelmények[^20]
 
 12. CUKRÁSZ
 
@@ -7732,7 +7732,7 @@ A vizsgarészek alóli felmentést a jelöltnek a jelentkezéskor kérnie kell, 
 
 21. FÉNYKÉPÉSZ
 
-mestervizsga szint és szakmai követelmények[^20]
+mestervizsga szint és szakmai követelmények[^21]
 
 22. FÉMFORGÁCSOLÓ
 
@@ -7974,11 +7974,12 @@ J) Szaktudását továbbadja:
 [^10]: A melléklet 29. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
 [^11]: A melléklet 48. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
 [^12]: A melléklet 58. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
-[^13]: A melléklet 1. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^14]: A melléklet 3. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^15]: A melléklet 4. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^16]: A melléklet 6. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^17]: A melléklet 8. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^18]: A melléklet 10. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^19]: A melléklet 11. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^20]: A melléklet 21. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A melléklet 59. pontját a 78/2013. (XII. 20.) NFM rendelet 2. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2013. december 28-án folyamatban lévő képzéseket és vizsgákat a megkezdésükkor hatályos jogszabályoknak megfelelően kell befejezni.
+[^14]: A melléklet 1. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A melléklet 3. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A melléklet 4. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A melléklet 6. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^18]: A melléklet 8. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^19]: A melléklet 10. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^20]: A melléklet 11. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^21]: A melléklet 21. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
