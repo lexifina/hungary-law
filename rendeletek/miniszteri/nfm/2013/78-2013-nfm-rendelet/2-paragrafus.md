@@ -2,10 +2,6 @@
 
 (2) Az e rendelet hatálybalépésekor folyamatban lévő képzéseket és vizsgákat a megkezdésükkor hatályos jogszabályoknak megfelelően kell befejezni.
 
-(3) Hatályát veszti a közlekedési, hírközlési és vízügyi szakképesítésekre szervezhető mestervizsgáztatás szakmai és vizsgakövetelményeinek kiadásáról szóló 17/1996. (V. 17.) KHVM rendelet.
+(3)–(4)[^2]
 
-(4) Hatályát veszti az ipari mesterképzés szakmai és vizsgakövetelményeiről szóló 31/1996. (VI. 19.) IKM rendelet mellékletében
-
-a) az „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 59. pontja,
-
-b) az „59. MOTORKERÉKPÁR-SZERELŐ ÉS -JAVÍTÓ mestervizsga szint és szakmai követelmények” alcím.
+[^2]: A 2. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
