@@ -1,0 +1,74 @@
+# A Kormány 496/2013. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 220. szám, 2013. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c08ddf7ee7df336b181e39fcfd81fd0171250789/dokumentumok/11e1e8cc6cedfa7224614d69f0adcbe3a6f1c56c/letoltes)
+
+---
+
+A Kormány 496/2013. (XII. 29.) Korm. rendelete
+a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér megállapításáról szóló
+170/2011. (VIII. 24.) Korm. rendelet módosításáról
+A Kormány a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi
+CVI. törvény 53. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében
+eljárva a következőket rendeli el:
+1. §
+A közfoglalkoztatási bér és a közfoglalkoztatási garantált bér megállapításáról szóló 170/2011. (VIII. 24.)
+Korm. rendelet (a továbbiakban: Rendelet) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) A teljes munkaidőben foglalkoztatott közfoglalkoztatott részére megállapított közfoglalkoztatási bér a teljes
+munkaidő teljesítése esetén:
+a) havibér alkalmazása esetén 2014. január 1-jétől 77 300 forint,
+b) hetibér alkalmazása esetén 2014. január 1-jétől 17 800 forint,
+c) napibér alkalmazása esetén 2014. január 1-jétől 3560 forint.
+(2) Teljesítménybérezésnél a teljesítménykövetelmények százszázalékos és a teljes munkaidő teljesítése esetén
+kötelező legkisebb összege 2014. január 1-jétől 77 300 forint/hó. A teljesítménykövetelmények száz százalék feletti
+teljesítése esetén a közfoglalkoztatási bér növelhető. A teljesítménykövetelmények száz százalék alatti teljesítése
+esetén a közfoglalkoztatási bér csökkenthető. A közfoglalkoztatót a teljesítménybér alkalmazása esetén sem illeti
+meg többlettámogatás.
+(3) Részmunkaidő esetén az (1)–(2) bekezdésben meghatározott bértételt a munkaidő eltérő mértékével arányosan
+csökkentve kell figyelembe venni azzal, hogy az egy hónapra folyósított havi nettó bértétel nem lehet kevesebb
+22 800 forintnál.”
+2. §
+A Rendelet 2. §-a helyébe a következő rendelkezés lép:
+„2. § (1) Legalább középfokú iskolai végzettséget és szakképesítést igénylő munkakör betöltése esetén
+a közfoglalkoztatottat megillető garantált közfoglalkoztatási bér a teljes munkaidő teljesítése esetén
+a) havibér alkalmazása esetén 2014. január 1-jétől 99 100 forint,
+b) hetibér alkalmazása esetén 2014. január 1-jétől 22 840 forint,
+c) napibér alkalmazása esetén 2014. január 1-jétől 4568 forint.
+(2) A garantált közfoglalkoztatási bér esetében az 1. § (2) és (3) bekezdésében foglaltakat megfelelően alkalmazni
+kell azzal az eltéréssel, hogy teljesítménybérezésnél a teljesítménykövetelmények százszázalékos és a teljes munkaidő
+teljesítése esetén a közfoglalkoztatási bér kötelező, legkisebb összege 2014. január 1-jétől 99 100 forint/hó.”
+3. §
+A Rendelet 2/A. §-a helyébe a következő rendelkezés lép:
+„2/A. § (1) A közfoglalkoztatási jogviszonyban foglalkoztatott munkavezetőt megillető közfoglalkoztatási bér a teljes
+munkaidő teljesítése esetén
+a) havibér alkalmazása esetén 2014. január 1-jétől 85 050 forint,
+b) hetibér alkalmazása esetén 2014. január 1-jétől 19 600 forint,
+c) napibér alkalmazása esetén 2014. január 1-jétől 3920 forint.
+(2) A közfoglalkoztatási jogviszonyban foglalkoztatott munkavezetőt megillető közfoglalkoztatási garantált bér
+legalább középfokú iskolai végzettséget és szakképesítést igénylő munkakör betöltése és a teljes munkaidő
+teljesítése esetén
+a) havibér alkalmazása esetén 2014. január 1-jétől 109 040 forint,
+b) hetibér alkalmazása esetén 2014. január 1-jétől 25 120 forint,
+c) napibér alkalmazása esetén 2014. január 1-jétől 5024 forint.
+(3) A közfoglalkoztatási jogviszonyban foglalkoztatott munkavezetőt megillető közfoglalkoztatási bér, illetve
+közfoglalkoztatási garantált bér esetében az 1. § (2) és (3) bekezdésében foglaltakat megfelelően alkalmazni kell,
+azzal az eltéréssel, hogy teljesítménybérezésnél a teljesítménykövetelmények százszázalékos és a teljes munkaidő
+teljesítése esetén
+a) a közfoglalkoztatási bér kötelező, legkisebb összege 2014. január 1-jétől 85 050 forint/hó,
+b) a közfoglalkoztatási garantált bér kötelező, legkisebb összege 2014. január 1-jétől 109 040 forint/hó.”
+
+4. §
+A Rendelet 3. § (3) bekezdésének helyébe a következő rendelkezés lép:
+„(3) E rendeletnek a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér megállapításáról szóló
+170/2011. (VIII. 24.) Korm. rendelet módosításáról szóló 496/2013. (XII. 29.) Korm. rendelettel (a továbbiakban:
+K2 rendelet) megállapított rendelkezéseit első alkalommal a 2014. január hónapra járó közfoglalkoztatási bér
+és közfoglalkoztatási garantált bér megállapításánál kell alkalmazni a rendelet hatálybalépésekor fennálló
+közfoglalkoztatási jogviszonyokban is.”
+5. §
+A Rendelet 3. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) E rendeletnek a K2 rendelettel megállapított 1. § (1) bekezdésének, 2. § (1) bekezdésének, 2/A. §
+(1) és (2) bekezdésének nyitó szövegrészét első esetben a K2 rendelet hatálybalépését követően indult
+Start-munkaprogramokban részt vevő közfoglalkoztatottakkal kötött szerződések tekintetében kell alkalmazni.”
+6. §
+Ez a rendelet 2014. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

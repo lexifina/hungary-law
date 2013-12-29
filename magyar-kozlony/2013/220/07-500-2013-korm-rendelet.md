@@ -1,0 +1,171 @@
+# A Kormány 500/2013. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2013. évi 220. szám, 2013. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c08ddf7ee7df336b181e39fcfd81fd0171250789/dokumentumok/11e1e8cc6cedfa7224614d69f0adcbe3a6f1c56c/letoltes)
+
+---
+
+A Kormány 500/2013. (XII. 29.) Korm. rendelete
+egyes nyugdíjbiztosítási és szociális tárgyú kormányrendeletek módosításáról
+A Kormány a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés c), f), h), n) és s) pontjában
+kapott felhatalmazás alapján,
+a 2. alcím tekintetében a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati
+járandóságról szóló 2011. évi CLXVII. törvény 22. §-ában kapott felhatalmazás alapján,
+a 3. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 4. alcím és az 1. melléklet tekintetében az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról
+és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi
+CXII. törvény 11. §-ában kapott felhatalmazás alapján,
+az 5. alcím tekintetében a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló
+2011. évi CXCI. törvény 28. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosítása
+1. §
+A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.)
+Korm. rendelet (a továbbiakban: TnyR.) 1. § (2) bekezdése a következő i) ponttal egészül ki:
+(A Nyugdíjfolyósító Igazgatóság jár el első fokon a társadalombiztosítási nyugellátások, valamint a nyugdíjbiztosítási
+igazgatási szervek feladat- és hatáskörébe tartozó egyéb ellátások megállapításával kapcsolatos hatósági ügyekben, ha)
+„i) az öregségi nyugdíjra jogosult személy, illetve hozzátartozói nyugellátás esetén az elhunyt jogszerző korábban
+szolgálati viszonyban állt valamelyik nemzetbiztonsági szolgálattal.”
+2. §
+A TnyR. 3. § a) pontja helyébe a következő rendelkezés lép:
+(Az egyeztetési eljárásban és a nyugdíjbiztosítási igazgatási szervek által nyilvántartott adatokról szóló hatósági
+bizonyítvány kiadására irányuló eljárásban)
+„a) a Nyugdíjfolyósító Igazgatóság jár el első fokon, ha
+aa) az ügyfélnek nincs magyarországi lakóhelye,
+
+ab) az ügyfél az egyeztetési eljárás során jelzi, hogy a szociális biztonsági rendszerek koordinálásáról és annak
+végrehajtásáról szóló uniós rendeletek vagy szociális biztonsági (szociálpolitikai) egyezmény hatálya alá tartozó,
+külföldön szerzett szolgálati idővel rendelkezik, illetve erről a szolgálati időről, jogosultsági időről szóló hatósági
+bizonyítvány kiállítása iránti kérelemben tájékoztatást kér,
+ac) az ügyfél szolgálati viszonyban áll fegyveres szervvel, a Magyar Honvédséggel vagy a Katonai Nemzetbiztonsági
+Szolgálattal, vagy
+ad) az ügyfél korábban szolgálati viszonyban állt valamelyik nemzetbiztonsági szolgálattal;”
+3. §
+A TnyR. 68. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a korábban megszűnt rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék vagy
+a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló
+2011. évi CLXVII. törvény 1. § c) pontja szerinti korhatár előtti öregségi nyugdíj mellett szerzett, a Tny. 22/A. §-a
+szerinti növelésre való jogosultságot már megállapították, az öregségi nyugdíj megállapítása esetén a növelés
+összegét a megállapítását követő emelésekkel együtt, külön határozat hozatala nélkül, az öregségi nyugdíjjal együtt
+kell folyósítani.”
+4. § (1) A TnyR. 72/B. §-a a következő (5) és (5a) bekezdéssel egészül ki:
+„(5) Rendkívül indokolt esetben kivételes árvaellátás megállapítható akkor is, ha
+a) az elhunyt az előírt szolgálati idő felével sem rendelkezett,
+b) az árva középfokú iskola vagy felsőfokú oktatási intézmény nem nappali tagozatán folytat tanulmányokat,
+c) az árva az elhunyt jogszerző halálakor a 16. életévét betöltötte, de a 18. életévét még nem töltötte be, és
+egészségi állapota – a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról
+szóló törvényben foglaltak szerint – legfeljebb 20 százalékos, vagy
+d) az elhunyt jogszerző Magyarországon nem szerezte meg a jogosultsághoz szükséges szolgálati időt, az árva
+alapvető szükségleteinek a biztosítása veszélyeztetve van, és az árvaellátásra való jogosultság fennállása a szociális
+biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek vagy szociális biztonsági
+(szociálpolitikai) egyezmény alapján figyelembe vehető szolgálati időre vonatkozó adatoknak a beérkezéséig nem
+bírálható el.
+(5a) Az (5) bekezdés c) pontja alapján megállapított kivételes árvaellátást meg kell szüntetni, ha az árva már nem
+megváltozott munkaképességű.”
+(2) A TnyR. 72/B. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az (5) bekezdés d) pontja alapján kivételes árvaellátás az árvaellátás iránti kérelem elbírálásának időtartamára
+állapítható meg. Az (5) bekezdés d) pontja alapján megállapított kivételes árvaellátás folyósított összege előlegnek
+minősül, ha az árvaellátásra való jogosultságot megállapítják.”
+5. §
+A TnyR.
+a) 1. § (2) bekezdés h) pontjában a„megállapítani.”szövegrész helyébe a„megállapítani, vagy”szöveg,
+b) 11. §-ában és 64/D. §-ában a„2014.”szövegrész helyébe a„2015.”szöveg
+lép.
+6. §
+Hatályát veszti a TnyR. 1. § (2) bekezdés g) pontjában a„vagy”szövegrész.
+2. A korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti
+bányászjáradék eljárási szabályairól, valamint egyes kapcsolódó kormányrendeletek módosításáról
+szóló 333/2011. (XII. 29.) Korm. rendelet módosítása
+7. §
+A korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék és az átmeneti bányászjáradék eljárási
+szabályairól, valamint egyes kapcsolódó kormányrendeletek módosításáról szóló 333/2011. (XII. 29.) Korm. rendelet
+(a továbbiakban: Kenyr.) 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[A Nyugdíjfolyósító Igazgatóság jár el első fokon – a (4) bekezdésben meghatározott kivétellel –]
+„b) a korhatár előtti ellátás, a balettművészeti életjáradék és az átmeneti bányászjáradék megállapításával
+kapcsolatos hatósági ügyekben, ha
+ba) a kérelmező utolsó biztosítással járó jogviszonya hivatásos szolgálati viszony volt,
+bb) a kérelmező korábban szolgálati viszonyban állt valamelyik nemzetbiztonsági szolgálattal,
+
+bc) a korhatár előtti ellátást, a balettművészeti életjáradékot, illetve az átmeneti bányászjáradékot a szociális
+biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek vagy szociális
+biztonsági (szociálpolitikai) egyezmények alkalmazásával kell megállapítani, vagy
+bd) a kérelmező magyarországi lakóhellyel nem rendelkezik.”
+8. §
+A Kenyr.
+a) 9. § (3) bekezdés d) pontjában a „családi kedvezmény” szövegrész helyébe a „családi kedvezmény és családi
+járulékkedvezmény”szöveg,
+b) 9. § (5) bekezdés b) és c) pontjában a„családi kedvezmény”szövegrész helyébe a„családi kedvezmény, családi
+járulékkedvezmény”szöveg
+lép.
+9. §
+Hatályát veszti a Kenyr. 13. §-a.
+3. A Nemzeti Rehabilitációs és Szociális Hivatalról, valamint a szakmai irányítása alá tartozó
+rehabilitációs szakigazgatási szervek feladat- és hatásköréről szóló 95/2012. (V. 15.) Korm. rendelet
+módosítása
+10. §
+A Nemzeti Rehabilitációs és Szociális Hivatalról, valamint a szakmai irányítása alá tartozó rehabilitációs
+szakigazgatási szervek feladat- és hatásköréről szóló 95/2012. (V. 15.) Korm. rendelet 23. § (1) bekezdésében a„2013.”
+szövegrészek helyébe a„2015.”szöveg lép.
+4. Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és
+visszautalásáról szóló törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet módosítása
+11. §
+Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló
+törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet 7. §-ában a„való megfelelést szolgálja” szövegrész
+helyébe a„végrehajtásához szükséges rendelkezéseket állapít meg”szöveg lép.
+12. §
+Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló
+törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+5. A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról,
+valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési
+támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosítása
+13. §
+A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint
+a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló
+327/2012. (XI. 16.) Korm. rendelet (a továbbiakban: Mmtr.) 1. § 6. pontja a következő 6.4. alponttal egészül ki:
+(E rendelet alkalmazásában
+megváltozott munkaképességű munkavállaló: az a munkavállaló, aki)
+„6.4. fogyatékossági támogatásban részesül;”
+14. §
+Az Mmtr. 33. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Az egyéni foglalkoztatási megállapodás hatályát veszti, ha)
+„a) a rehabilitációs szakigazgatási szerv megállapítja, hogy a megállapodásban részes munkavállaló nem minősül
+az 1. § 6. pontjában meghatározott megváltozott munkaképességű munkavállalónak,”
+15. § (1) Az Mmtr. 53. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az (1) bekezdésben foglaltaktól eltérően, ha az 1. § 6. pont 6.3. alpontjában meghatározott megváltozott
+munkaképességű munkavállaló rehabilitációs járadékban részesül, a támogatás a rehabilitációs járadékra való
+jogosultság időtartama alatt végzett foglalkoztatáshoz használható fel.”
+
+(2) Az Mmtr. 53. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés szerinti támogatás céljából a rehabilitációs szakigazgatási szerv az egyéni foglalkoztatási
+megállapodást az (1) bekezdésben – rehabilitációs járadékban részesülő munkavállaló esetén az (1a) bekezdésben –
+meghatározott időtartamra köti meg a munkáltatóval.”
+16. §
+Az Mmtr.
+a) 1. § 6. pont 6.3. alpontjában a„személyi körbe;”szövegrész helyébe a„személyi körbe, vagy”szöveg,
+b) 1. § 9. pontjában a„6.2. és 6.3. alpontja”szövegrész helyébe a„6.2–6.4. alpontja”szöveg,
+c) 17. § (1) bekezdés a) pontjában a„vagy”szövegrész helyébe az„és”szöveg
+lép.
+17. §
+Hatályát veszti az Mmtr. 53. § (1) bekezdésében az„időtartama”szövegrész.
+6. Záró rendelkezések
+18. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivételekkel – 2013. december 30-án lép hatályba.
+(2) Az 1–9. §, a 11–17. §, a 19. § és az 1. melléklet 2014. január 1-jén lép hatályba.
+19. §
+A 11. §, a 12. § és az 1. melléklet az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb
+alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet
+VIII. melléklete 11. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 500/2013. (XII. 29.) Korm. rendelethez
+Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló
+törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet 2. mellékletében foglalt táblázat a következő
+50. sorral egészül ki:
+[A kereset, jövedelem
+megszerzésének éve
+Járulékmérték %
+(magánnyugdíj-pénztári tagság hiányában)
+Járulékmérték %
+(magánnyugdíj-pénztári tagság esetén)]
+„
+50. 2014 30,1 30,1
+”
