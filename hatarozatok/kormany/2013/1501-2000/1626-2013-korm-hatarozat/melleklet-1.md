@@ -1,8 +1,4 @@
-## 1. megállapítja az 1. melléklet szerint az Elektronikus Közigazgatás Operatív Program (a továbbiakban: EKOP) 2011–2013. évekre szóló akciótervét,
-
-## 2. jóváhagyja a 2. melléklet szerint a mellékletben foglalt táblázat 2., 4., 5., 7., 15., 19–23., 27., 28., 31–33., 35., 36. és 38–41. sorában meghatározott, egymilliárd forintot meghaladó támogatási igényű projekteket,
-
-## 3. elfogadja 2. melléklet szerint az ott meghatározott projektek kiemelt projektjeiként történő nevesítését, és hozzájárul, hogy a Nemzeti Fejlesztési Ügynökség Közigazgatási Reform Programok Irányító Hatósága azokra a támogatási szerződéseket megkösse,
+## 1–3.[^2]
 
 ## 4. jóváhagyja
 
@@ -16,8 +12,10 @@
 
 ## Határidő: 2013. november 15.
 
-## 6.[^1]
+## 6.[^3]
 
-1. melléklet az 1626/2013. (IX. 5.) Korm. határozathoz
+1. melléklet az 1626/2013. (IX. 5.) Korm. határozathoz[^4]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1–3. pontot a 2026/2013. (XII. 29.) Korm. határozat 6. pontja visszavonta.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet a 2026/2013. (XII. 29.) Korm. határozat 6. pontja visszavonta.
