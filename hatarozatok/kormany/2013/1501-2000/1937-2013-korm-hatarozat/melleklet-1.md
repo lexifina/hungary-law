@@ -6,14 +6,11 @@
 
 ## Határidő: azonnal
 
-## 3. megállapítja a 2. melléklet szerint a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterv 1. prioritására vonatkozó keretének módosítását,
+## 3.[^2]
 
-## Felelős: Miniszterelnökséget vezető államtitkár
-
-## Határidő: azonnal
-
-## 4.[^1]
+## 4.[^3]
 
 1. melléklet az 1937/2013. (XII. 13.) Korm. határozathoz
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pontot a 2029/2013. (XII. 29.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
