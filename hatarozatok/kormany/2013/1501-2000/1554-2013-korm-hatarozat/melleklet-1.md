@@ -16,13 +16,13 @@
 
 ## történő szerződéskötést követően azonnal
 
-## 3.[^1] egyetért a KÖZOP-3.5.0-09-11-2013-0011 azonosítószámú [„M4 autópálya Abony–Fegyvernek új Tisza-híddal (kivitelezés)” című] projekt kettő szakaszra bontásával,
+## 3.[^2] egyetért a KÖZOP-3.5.0-09-11-2013-0011 azonosítószámú [„M4 autópálya Abony–Fegyvernek új Tisza-híddal (kivitelezés)” című] projekt kettő szakaszra bontásával,
 
-## 3/A.[^2] elrendeli az a) pont szerinti szakaszok kivitelezéséhez szükséges vállalkozási szerződések megkötését,
+## 3/A.[^3] elrendeli az a) pont szerinti szakaszok kivitelezéséhez szükséges vállalkozási szerződések megkötését,
 
-## 3/B.[^3] egyetért azzal, hogy az a) pont szerinti szakaszok tekintetében a vállalkozási szerződések megkötése során a projekt kedvezményezettje jár el,
+## 3/B.[^4] egyetért azzal, hogy az a) pont szerinti szakaszok tekintetében a vállalkozási szerződések megkötése során a projekt kedvezményezettje jár el,
 
-## 3/C.[^4] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–2020 közötti programozási időszak azonos célt szolgáló operatív programjának Európai Bizottság által történő elfogadása esetén a KÖZOP-3.5.0-09-11 2013-0011 azonosítószámú [„M4 autópálya Abony–Fegyvernek új Tisza-híddal (kivitelezés)” című] projekt 3. pont szerinti második szakaszára vonatkozó támogatási szerződés megkötéséről.
+## 3/C.[^5] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–2020 közötti programozási időszak azonos célt szolgáló operatív programjának Európai Bizottság által történő elfogadása esetén a KÖZOP-3.5.0-09-11 2013-0011 azonosítószámú [„M4 autópálya Abony–Fegyvernek új Tisza-híddal (kivitelezés)” című] projekt 3. pont szerinti második szakaszára vonatkozó támogatási szerződés megkötéséről.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -42,15 +42,18 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1554/2013. (VIII. 15.) Korm. határozathoz
+1. melléklet az 1554/2013. (VIII. 15.) Korm. határozathoz[^6]
 
-| Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Támogatási intenzitás (%) | Projekt rövid bemutatása | Projekt összköltsége (Ft) | A projekt forrásszerkezete |
+|  | A | B | C | D | E | F | G | H | I |
 
-| KÖZOP 2007–2013 (nettó Ft) | XIX. fejezet 2007–2013 (ÁFA + megtérülő rész Ft) | 2014–2020 közötti azonos célt szolgáló operatív program vagy hazai költségvetési forrás a 2015 után felmerülő költségekre (nettó Ft) | Hazai költségvetési forrás a 2015 után felmerülő költségekre (ÁFA + megtérülő rész Ft) |
+| 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Támogatás intenzitása (%) | Projekt forrásszerkezete a módosítást követően | Projekt rövid bemutatása |
 
-| KÖZOP-3.5.0- 09-11-2012- 0027 | M4 autópálya Abony- Fegyvernek új Tisza-híddal (kivitelezés) | Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság | 97,44 | Az M4–M8 autópálya csomópontja után kezdődik az M4 gyorsforgalmi út Abony-Fegyvernek szakasza és a Törökszentmiklós keleti csomópont után fejeződik be. A szakasz hossza 28,945 km. | 181 812 878 750 | 111 151 815 522 | 33 719 700 228 | 28 343 042 000 | 8 598 321 000 |
+| 2. | KÖZOP 2007–2013 (nettó Ft) | XIX. Fejezet 2007–2013 (Ft) | Fogadó operatív program vagy tisztán hazai költségvetési forrás (nettó Ft) | Hazai költségvetési forrás (Ft) |
 
-[^1]: A 3. pont az 1694/2013. (X. 2.) Korm. határozat 3. pontjával megállapított szöveg.
-[^2]: A 3/A. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
-[^3]: A 3/B. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
-[^4]: A 3/C. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
+| 3. | KÖZOP-3.5.0-09-11-2013-0011 | M4 autópálya Abony-Fegyvernek új Tisza-híddal (kivitelezés) | Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság | 100 | 109 012 562 673 | 29 068 988 733 | 30 018 317 626 | 7 996 974 443 | A beruházás keretében a TEN-T törzshálózat elemeit összekötő TEN-T átfogó hálózat egyik jelentős, a közép-európai régiót nyugat-kelet irányban átszelő Graz–Iaşi (Moldova országhatár) elemének részét képező M4 autópálya kerül kiépítésre a meglévő 4. számú főút Abony elkerülő szakaszától Fegyvernek térségéig. A gyorsforgalmi úti szakasz eleme a TEN-T hálózat magyarországi szakaszának. Az M8–M4 gyorsforgalmi úti tengelynek a legforgalmasabb részét – két nagyobb régió központi település – Szolnok és Törökszentmiklós térségének szakasza jelenti. Az autópálya tervezett építési szakasza két jelentős vízfolyást, a Zagyva folyót és a Tisza folyót szeli át, ahol egyben Natura 2000-es területeket is keresztez. A megépülő közel 30 km hosszú autópálya-szakasz közúthálózatba történő bekapcsolásához szükséges az M8–M4 elválási csomópont kiépítése. |
+
+[^2]: A 3. pont az 1694/2013. (X. 2.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: A 3/A. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 3/B. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 3/C. pontot az 1694/2013. (X. 2.) Korm. határozat 3. pontja iktatta be.
+[^6]: Az 1. melléklet a 2035/2013. (XII. 29.) Korm. határozat 4. pontjával megállapított szöveg.
