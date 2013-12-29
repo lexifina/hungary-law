@@ -18,7 +18,7 @@ c) beruházáslebonyolítója, hivatalos közbeszerzési tanácsadója és épí
 
 legyen;
 
-4. egyetért azzal, hogy a Program első ütemének megvalósítására a 2013. és 2015. évek között összesen nettó 9600 millió forint összegben kerüljön sor, és felhívja
+4.[^1] egyetért azzal, hogy a Program első ütemének megvalósítására a 2013. és 2015. évek között összesen 9600 millió forint összegben kerüljön sor, és felhívja
 
 a) az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy – a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával – gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években;
 
@@ -30,10 +30,7 @@ a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüg
 
 Határidő: folyamatos, illetve a 2015. évi központi költségvetés tervezésével összhangban
 
-b) a nemzetgazdasági minisztert, hogy a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával gondoskodjon a Program ütemezett megvalósításához 2013. negyedik negyedévben szükséges 76,2 millió forint rendelkezésre állásáról.
+b)[^2]
 
-Felelős: nemzetgazdasági miniszter
-
-a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos
-
-Határidő: azonnal
+[^1]: A 4. pont nyitó szövegrésze az 1980/2013. (XII. 29.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
+[^2]: A 4. pont b) alpontját az 1980/2013. (XII. 29.) Korm. rendelet 3. pont b) pontja hatályon kívül helyezte.
