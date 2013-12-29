@@ -1,72 +1,14 @@
 ## 1. megállapítja a Gazdaságfejlesztési Operatív Program 2011–2013. közötti időszakra szóló akciótervét az 1. melléklet szerint,
 
-## 2.[^1]
+## 2.[^2]
 
-1. melléklet az 1647/2012. (XII. 19.) Korm. határozathoz[^2]
+1. melléklet az 1647/2012. (XII. 19.) Korm. határozathoz[^3]
 
 A Gazdaságfejlesztési Operatív Program
 
 2011-2013. évekre szóló akcióterve
 
 3. prioritás – Üzleti környezet
-
-I. Prioritás bemutatása
-
-1. Prioritás tartalma
-
-| Prioritás rövid tartalma (max. 500 karakter) |
-
-| Cél a vállalkozások külső, működési környezetének fejlesztése, korszerű IKT (hálózati) infrastruktúra kialakítása, a térségi, üzleti infrastruktúra kiépítettségének fejlesztése, valamint a vállalatok megfelelő információval való ellátása, emeltszintű üzleti, piaci tanácsadás nyújtása. |
-
-2. A prioritás célkitűzései
-
-| Indikátor megnevezése | Indikátor mérték-egysége | Indikátor típusa | Bázisérték | Célérték |
-
-| 2015 |
-
-| Szélessávú hálózatot elérő háztartások arányának növekedése a program hatására | % pont | eredmény | 89% (2006) | 10%pont |
-
-| Gazdasági, IKT és logisztikai szolgáltatások területén a 3. prioritás hatására előállított BHÉ-növekedése – TEÁOR alapján | % | eredmény | 4731 (2005, Mrd Ft,) | 8% |
-
-| A logisztikai központok szolgáltatási árbevételének növekedése a prioritás hatására | % | eredmény | 208 (Mrd Ft, 2005) | 25% |
-
-3. A prioritás ütemezése – kiírások kerete
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-| 2011 | 2012 | 2013 | Összesen |
-
-| 12,0 | 31,8 | 0,0 | 43,8 |
-
-Tervezett ESZA/ERFA arány (%): 100% ERFA
-
-KMR-ben elszámolható kiadások aránya (%): 0% KMR
-
-4. A prioritás ütemezése – kötelezettségvállalás (IH döntés)
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |
-
-| 2007-2010 | 2011 | 2012 | 2013 | 2014-2015 | Összesen |
-
-| 19,3 | 3,1 | 34,7 | 6,0 | 0 | 63,1 |
-
-II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek 2011-2013 meghirdethető összes kerete (MrdFt) | Konstrukció célja |
-
-| 3.1.2. | Körzethálózati fejlesztések | 20,0 | Megfelelő kapacitású körzethálózati infrastruktúra hiányosságai miatt, optikai hálózattal el nem ért (az uniós terminológia szerint NGA-fehér) települések megfelelő minőségű és kapacitású szélessávú eléréséhez támogatás nyújtása. |
-
-| 3.2.1. | Logisztika | 13,8 | Magyarországon áthaladó nemzetközi áruáramlatok magas hozzáadott érték tartalmú szolgáltatásokkal történő kiszolgálása, főként a környezetvédelmi szempontból kiemelt szerepet játszó az ún. intermodális (szállítási módokat összekapcsoló) logisztikai központok fejlesztésével, továbbá a regionális logisztikai központok fejlesztésével, mindenekelőtt az általuk nyújtott komplex logisztikai szolgáltatások számának bővítésével és minőségének javításával a hazai mikro-, kis- és középvállalkozások versenyképessége javítása, valamint önálló logisztikai szolgáltatást végzők támogatása is. |
-
-| 3.2.2. | Üzleti infrastruktúra | 5,0 | Nemzetgazdasági hatású nagyberuházások környezetében olyan új, emelt szintű infrastruktúra kerüljön kiépítésre, amely alkalmas arra, hogy kiszolgálja a földrajzilag is közelségbe települő vállalkozásokat, erősítse a hálózati hatást, fokozza a lokális gazdasági aktivitást. |
-
-| 3.3.3. | KKV-k piaci megjelenésének támogatása | 1,67 | Mikro-, kis- és középvállalkozások piacra jutásának, nemzetközi versenyképességének növelése. |
-
-| 3.4.1. | SaaS központok | 0,33 | Alkalmazás szolgáltató központok létrehozásának támogatása, ezáltal professzionális informatikai alkalmazásokat, mint szolgáltatást nyújtva (Software as a Service, SaaS) mikro-, kis- és középvállalatok számára. |
-
-| 3.5.1. | Esélyegyenlőségi célcsoportok a gazdaságban | 3,0 | Munkahelyi körülmények megteremtése, illetve olyan szolgáltatások bevezetése, amelyek biztosítják a hátrányos helyzetben lévő munkavállalók számára az egyenlő esélyeket. |
-
-| 3. | Prioritás | 43,8 |  |
 
 5. prioritás – Technikai segítségnyújtás
 
@@ -116,5 +58,5 @@ II. A támogatási konstrukciók összefoglaló adatai (2011-2013)
 
 | 5. | Prioritás | 3,2 |  |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1493/2013. (VII. 29.) Korm. határozat 4. pontja, az 1577/2013. (VIII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1493/2013. (VII. 29.) Korm. határozat 4. pontja, az 1577/2013. (VIII. 27.) Korm. határozat 2. pontja, a 2027/2013. (XII. 29.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
