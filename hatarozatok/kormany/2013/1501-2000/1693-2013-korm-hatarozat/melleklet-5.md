@@ -234,4 +234,6 @@
 
 |  | Akcióterv 2011-2013 ÖSSZESEN (Mrd Ft) | 115,24 |  |  |  |
 
-5. melléklet az 1693/2013. (X. 2.) Korm. határozathoz
+5. melléklet az 1693/2013. (X. 2.) Korm. határozathoz[^2]
+
+[^2]: Az 5. mellékletet a 2028/2013. (XII. 29.) Korm. határozat 2. pontja visszavonta.
