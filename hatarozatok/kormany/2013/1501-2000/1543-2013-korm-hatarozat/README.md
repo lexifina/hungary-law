@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1543-30
 | 2013-11-28 | 2013-1543-30-22.4 | 1772/2013. (X. 25.) Korm. határozat |
 | 2013-12-12 | 2013-1543-30-22.5 | 1772/2013. (X. 25.) Korm. határozat |
 | 2013-12-13 | 2013-1543-30-22.6 | 1772/2013. (X. 25.) Korm. határozat |
+| 2013-12-29 | 2013-1543-30-22.7 | 1125/2015. (III. 6.) Korm határozat |
