@@ -1,0 +1,45 @@
+## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a geszti Tisza kripta megközelítését szolgáló önkormányzati tulajdonú út kiépítésének támogatásához kapcsolódóan 2,9 millió forint egyszeri átcsoportosítását a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 22. Geszt Község Önkormányzata feladatainak támogatása cím javára, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 3. A helyi önkormányzatok kiegészítő támogatásai cím terhére az 1. melléklet szerint;
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 2. egyetért azzal, hogy
+
+## a) a geszti Tisza kripta megközelítését szolgáló önkormányzati tulajdonú út kiépítése érdekében a IX. Helyi önkormányzatok támogatásai fejezeten belüli előirányzat-átcsoportosításról szóló 1582/2013. (VIII. 28.) Korm. határozat (a továbbiakban: H.) 1. pont b) alpontja alapján a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 22. Geszt Község Önkormányzata feladatainak támogatása cím javára átcsoportosított 35 millió forint támogatási összeg maradványa a geszti József Attila utca felújítására kerüljön felhasználásra,
+
+## b) a belügyminiszter a H. 2. pontjára figyelemmel Geszt Község Önkormányzatával megkötött megállapodást az a) pontnak megfelelően módosítsa,
+
+## c) egyetért azzal, hogy a belügyminiszter a 1. pont szerint támogatást legkésőbb 2014. december 31-ig történő elszámolási kötelezettséggel folyósítsa Geszt Község Önkormányzata számára.
+
+1. melléklet a 2002/2013. (XII. 29.) Korm. határozathoz
+
+IX. Helyi önkormányzatok támogatásai
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében Költségvetési év: 2013.
+
+Millió forintban, egy tizedessel !
+
+| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Előir. csoport száma | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | Előir. csop. név |  | KIADÁSOK | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | IX. |  |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 342595 |  | 22 |  |  |  |  |  |  | Geszt Község Önkormányzata feladatainak támogatása |  |  |  |  |  |  |  |  | 2,9 |  |  |
+
+|  | IX. |  |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018450 |  | 3 |  |  |  |  |  |  | A helyi önkormányzatok kiegészítő támogatásai |  |  |  |  |  |  |  |  | -2,9 |  |  |
+
+|  | Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+
+Millió forintban, egy tizedessel !
+
+| Az adatlap 5 példányban töltendő ki |  | Az előirányzatok felhasználása/zárolása (módosítás +/-) | Összesen: |  |  |  |  |  |  |  |  | I. n. év | II. n. év | III. n. év | IV.n. év |
+
+| Fejezet Állami Számvevőszék Magyar Államkincstár Nemzetgazdasági Minisztérium | 1 példány 1 példány 1 példány 2 példány | időarányos teljesítményarányos egyéb AZONNAL | 2,9 |  |  |  |  | 2,9 |
