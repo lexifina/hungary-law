@@ -1,4 +1,4 @@
-## 1. egyetért azzal, hogy a Zágrábi Magyar Intézet alapítása érdekében a Zágráb, Ilica 15. szám alatti ingatlan tulajdonjoga az állam javára megvásárlásra kerüljön;[^1]
+## 1.[^1] egyetért azzal, hogy a Zágrábi Magyar Intézet alapítása érdekében az állam javára a kulturális intézet céljának megfelelő zágrábi ingatlan tulajdonjoga megszerzésre kerüljön;
 
 ## 2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket az 1. pontban megjelölt ingatlan tulajdonjogának állam javára történő megszerzéséhez szükséges eljárások lefolytatására;
 
@@ -14,7 +14,7 @@
 
 ## Felelős: elszámolásért és a visszafizetési kötelezettség teljesítéséért: közigazgatási és igazságügyi miniszter
 
-## Határidő: 2013. június 30.[^2]
+## Határidő: 2014. március 31.[^2]
 
 1. melléklet az 1615/2012. (XII. 18.) Korm. határozathoz
 
@@ -80,5 +80,5 @@ Költségvetési év: 2012.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Lásd az 1279/2013. (V. 24.) Korm. határozatot.
-[^2]: Lásd az 1279/2013. (V. 24.) Korm. határozatot.
+[^1]: Az 1. pont az 1984/2013. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1984/2013. (XII. 29.) Korm. határozat 2. pontja szerint módosított szöveg.
