@@ -1,3 +1,0 @@
-39. § A Különadó tv. a következő 11. §-sal egészül ki:
-
-„11. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 4/C. §-a 2014. december 31-én hatályát veszti.”
