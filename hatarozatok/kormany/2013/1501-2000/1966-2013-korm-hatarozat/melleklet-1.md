@@ -42,11 +42,11 @@
 
 ## 6. felhívja a nemzeti fejlesztési minisztert, hogy a 3. pontban foglaltakkal összhangban intézkedjen a PPP konstrukcióban megvalósult önkormányzati létesítmények PPP szolgáltatási szerződéseinek megszüntetése érdekében a megszüntető megállapodások Nemzeti Fejlesztési Minisztérium általi aláírásáról,
 
-## 7. felkéri a nemzeti fejlesztési minisztert, hogy az Oktatási, kulturális és sport PPP-programok előirányzat 2012. évi kötelezettségvállalással terhelt maradványából 54 904 ezer forint átadásáról gondoskodjon a Kttv. 1. melléklet XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 23. A Sport XXI. Létesítményfejlesztési Program keretében PPP konstrukcióban létesült önkormányzati sportlétesítmények kiváltásának támogatása jogcímcsoport javára.
+## 7.[^1] felkéri a nemzeti fejlesztési minisztert, hogy a Sportlétesítmények PPP konstrukcióban történő fejlesztése előirányzat 2012. évi kötelezettségvállalással terhelt maradványából 54 904 ezer forint átadásáról gondoskodjon a Kttv. 1. melléklet XI. Miniszterelnökség fejezet, 5. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 23. A Sport XXI. Létesítményfejlesztési Program keretében PPP konstrukcióban létesült önkormányzati sportlétesítmények kiváltásának támogatása jogcímcsoport javára.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: azonnal
+## Határidő: 2014. február 28.
 
 1. melléklet az 1966/2013. (XII. 17.) Korm. határozathoz
 
@@ -137,3 +137,5 @@
 | Magyar Államkincstár |  |  | 1 példány |  | egyéb AZONNAL |  | 4 945,1 |  |  |  |  |  |  |  |  |  |  |  | 4 945,1 |
 
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 7. pont a 2047/2013. (XII. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
