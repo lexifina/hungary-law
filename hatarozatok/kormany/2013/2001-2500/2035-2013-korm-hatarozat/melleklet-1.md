@@ -8,6 +8,8 @@
 
 ## Határidő: azonnal
 
-## 4. A KÖZOP-3.5.0-09-11-2012-0027 azonosító számú [„M4 autópálya Abony–Fegyvernek új Tisza-híddal (kivitelezés)” című] egymilliárd forintot meghaladó támogatási igényű projektjavaslat jóváhagyásáról és a projekt 2015. december 31-e után felmerülő költségei fedezetének biztosításáról szóló 1554/2013. (VIII. 15) Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
+## 4.[^2]
 
 1. melléklet a 2035/2013. (XII. 29.) Korm. határozathoz
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
