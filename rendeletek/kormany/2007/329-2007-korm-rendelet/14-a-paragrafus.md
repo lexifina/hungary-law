@@ -28,6 +28,14 @@ c)[^99] az ideiglenes határátkelőhely repülőtéren történő megnyitása e
 
 (8)[^105] A Kormány a 6. § (3) bekezdés l) pontja szerinti, a fegyveres biztonsági őrség létrehozásával, megszüntetésével, valamint a fegyveres biztonsági őrzés elrendelésével kapcsolatos közigazgatási hatósági eljárásban, az 5. mellékletben meghatározott feltételek fennállása esetén és szakkérdésben, az Országos Atomenergia Hivatalt szakhatóságként jelöli ki,
 
+(9)[^106] A Kormány a világörökségi területen működő, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzlet (a továbbiakban: üzlet) 24 és 6 óra közötti nyitva tartásához szükséges engedély iránti kérelem elbírálására irányuló hatósági eljárásban – a kereskedelemről szóló 2005. évi CLXIV. törvény 6. § (8) bekezdésében meghatározott szakkérdésben –
+
+a) az első fokú hatósági eljárás során az üzlet működési helye szerint illetékes rendőrkapitányságot, valamint
+
+b) a másodfokú hatósági eljárás során az üzlet működési helye szerint illetékes megyei (fővárosi) rendőr-főkapitányságot
+
+szakhatóságként jelöli ki.
+
 [^94]: A 14/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 9. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^95]: A 14/A. § (1) bekezdés záró szövegrésze a 273/2010. (XII. 9.) Korm. rendelet 124. § (1) bekezdésével megállapított szöveg.
 [^96]: A 14/A. § (1) bekezdés b) pontja a 273/2010. (XII. 9.) Korm. rendelet 124. § (1) bekezdésével megállapított, a 71/2011. (IV. 28.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
@@ -40,3 +48,4 @@ c)[^99] az ideiglenes határátkelőhely repülőtéren történő megnyitása e
 [^103]: A 14/A. § (6) bekezdését a 263/2009. (XI. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (97) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^104]: A 14/A. § (7) bekezdését a 71/2011. (IV. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^105]: A 14/A. § (8) bekezdését a 190/2011. (IX. 19.) Korm. rendelet 45. § (1) bekezdése iktatta be.
+[^106]: A 14/A. § (9) bekezdését az 512/2013. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
