@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2013. december 15.
+## Határidő: 2014. május 31.[^2]
 
 1. melléklet az 1275/2013. (V. 22.) Korm. határozathoz
 
@@ -91,3 +91,5 @@ Költségvetési év: 2013.
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^2]: A határozat a 2047/2013. (XII. 30.) Korm. határozat 3. pontja szerint módosított.
