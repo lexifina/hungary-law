@@ -10,7 +10,7 @@
 
 ## nemzetgazdasági miniszter
 
-## Határidő: 2013. december 31.[^1]
+## Határidő: 2014. március 31.[^2]
 
 1. melléklet az 1439/2012. (X. 11.) Korm. határozathoz
 
@@ -94,4 +94,4 @@ Költségvetési év: 2012.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A határozat az 1700/2013. (X. 4.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A határozat az 1983/2013. (XII. 29.) Korm. határozat 1. pontja szerint módosított szöveg.
