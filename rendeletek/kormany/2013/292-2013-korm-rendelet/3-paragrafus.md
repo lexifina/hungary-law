@@ -34,4 +34,6 @@ d) a Magyar Energetikai és Közmű-szabályozási Hivatallal,
 
 e) az illetékes környezetvédelmi hatósággal, valamint
 
-f) az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társasággal.
+f)[^2] az OHÜ-vel.
+
+[^2]: A 3. § (4) bekezdés f) pontja az 505/2013. (XII. 29.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
