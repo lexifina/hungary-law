@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Koszovói Nemzetközi Biztonsági Erő (KFOR) között a Koszovó felett kijelölt légtérben egyes léginavigációs szolgálatok nyújtásáról és egyéb kapcsolódó tevékenységek ellátásáról szóló Végrehajtási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.

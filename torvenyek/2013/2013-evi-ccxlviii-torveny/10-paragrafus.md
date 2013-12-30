@@ -1,0 +1,1 @@
+10. § A KFOR szektor tekintetében – a Megállapodás 7.1. pontja alapján – a magyar jogszabályokat törvényben, valamint a 12. § szerinti felhatalmazás alapján kiadott jogszabályban meghatározott eltérésekkel kell alkalmazni.
