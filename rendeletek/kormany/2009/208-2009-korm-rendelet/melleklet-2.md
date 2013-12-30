@@ -68,4 +68,4 @@ A névjegyzékbe vétel feltételei fennállásának felülvizsgálata során a 
 
 | 6 | Ha az igazságügyi szakértő hírközlési szakterülete a hírközlési területen bejegyezhető szakterületek valamelyikének megfelel. | Nemzeti Média- és Hírközlési Hatóság |
 
-[^6]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 264/2012. (IX. 17.) Korm. rendelet 2. §-a szerint módosított szöveg. [A 2. melléklet a 8. § (2) bekezdése alapján hatályát veszti 2013. december 31. napjával.]
+[^6]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 264/2012. (IX. 17.) Korm. rendelet 2. §-a szerint módosított szöveg.
