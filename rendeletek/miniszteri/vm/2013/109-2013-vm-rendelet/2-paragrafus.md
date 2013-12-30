@@ -1,0 +1,1 @@
+## 1. § A környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló 33/2005. (XII. 27.) KvVM rendelet 1. melléklete az 1. melléklet szerint módosul.
