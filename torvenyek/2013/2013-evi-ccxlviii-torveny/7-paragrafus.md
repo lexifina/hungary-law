@@ -1,1 +1,1 @@
-7. § A nemzetközi frekvenciaegyeztetési eljárásban a jogszabály alapján feladat- és hatáskörrel rendelkező központi államigazgatási szervek jogosultak a Megállapodás 4.3.9. cikkének végrehajtása érdekében – a NATO/KFOR nevében – lefolytatni a szükséges nemzetközi frekvenciakoordinációt a Koszovó felett kijelölt légteret kiszolgáló rádióberendezések tekintetében, a HungaroControl Zrt. szakmai közreműködésével.
+### 7. §
